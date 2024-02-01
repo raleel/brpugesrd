@@ -26,7 +26,7 @@ While many skills are oriented towards actions, they also indicate general knowl
 
 **For example,** *a medieval warrior might use the Melee Weapon (Sword) skill instead of Appraise to judge a sword’s quality. The Martial Arts skill might similarly be used to know about the different dojos in a city and who their senseis are.*
 
-**Secret or Concealed Skill Rolls**
+### **Secret or Concealed Skill Rolls**
 
 The gamemaster may also make skill rolls for your character, in cases where they do not want you to know the outcome of that skill roll or for you to know that a skill roll is being made at all. The gamemaster may wish to keep a copy of your character sheet on hand or may ask you for a list of your character’s current ranks in relevant skills (particularly Perception skills) so secret rolls can be made without alerting you and the other players that your characters might be missing something when the skill rolls fail. This method allows the gamemaster to use failed rolls to potentially mislead or misdirect you, which is a useful tactic for Perception or Mental-based rolls.
 
@@ -36,7 +36,7 @@ These rolls do not have to be completely secret, and the gamemaster may tell you
 
 If the skill is successful, the gamemaster should tell you that your character has successfully used the appropriate skill and allow an experience check, if applicable. If the skill roll fails, the gamemaster should inform, misinform, or refrain from informing you (and your character) of the outcome, as appropriate.
 
-**Skill Categories**
+### **Skill Categories**
 
 Skills are divided into six skill categories:
 
@@ -49,36 +49,36 @@ Skills are divided into six skill categories:
 
 Skill categories serve as general guides to the kinds of actions a skill can accomplish, as well as offering a framework for you and the gamemaster to create new skills. Skill categories tie your character’s skill ratings to their most influential characteristic scores through category bonuses, an optional system.
 
-**New Skills**
+### **New Skills**
 
 There are blank lines in the skills section of the character sheet. These are for new skills you or the gamemaster may create. For example, *Chapter 4: Powers* introduces an optional new skill called Projection, used in conjunction with many powers. You can suggest and define a new skill, but only the gamemaster can allow its use in your game.
 
-**Changing the Skill List**
+### **Changing the Skill List**
 
 Just as easily as you and the gamemaster can create new skills, you can rename skills to fit a particular setting. For example, Fine Manipulation may be renamed Devise or Pick Lock for a medieval or fantasy environment. Your gamemaster may also choose to eliminate certain skills altogether if they do not fit their style of play. It is highly recommended that any such changes be determined before character creation and made clear, so you don’t select skills that may be ruled out or changed by the gamemaster.
 
-**Skill Category Bonuses**
+### **Skill Category Bonuses**
 
 As described in **Skill Category Bonuses**, your character receives a bonus or penalty to skill categories based upon their characteristic scores. Apply the category bonus to every skill in that category, in addition to the listed base chance, if any, as listed in the skill description. See the **Skill Category Bonus Table** for the formulas used to calculate skill category bonuses.
 
-**Base Chances**
+### **Base Chances**
 
 Most reasonably healthy and physically fit people can swing a club, climb a tree, or speak their native tongue. Every skill, therefore, has a base chance associated with it: your character is assumed to have this basic rating in the skill before any additional skill points are added. If skill category bonuses (see **Skill Category Bonuses**) are being used, add (or subtract) them from each skill’s base chance.
 
 A skill’s base chance depends greatly upon the era of a campaign: characters in a campaign set in medieval Europe have higher base ratings in Knowledge (Religion) than modern U.S. citizens, while U.S. citizens might have an advantage in Medical skills due to rudimentary first aid training in public schools and the workplace. Each skill description lists several base chances for different eras, as appropriate. The gamemaster should feel free to alter the base chances for skills to suit different settings.
 
-**Acting without Skill**
+### **Acting without Skill**
 
 Sometimes your character must attempt an action using a skill without any skill rating (0%). If the gamemaster agrees that succeeding at the task is possible, make a roll using one of these options:
 
 -   **Skill Category Bonus:** If using the optional skill category system, use the skill category modifier as the base chance. Raw talent can sometimes overcome a lack of training. If successful and the skill can be improved by experience, an experience check should be made.
 -   **Wild Chance:** Try, but with only a 1% chance of success or a last-ditch ‘Hail Mary’ effort of POW×1 if blind luck can be a factor, with the gamemaster’s approval. No experience check is allowed for this, as it is blind luck versus any sort of skill or natural talent.
 
-**Measuring Skill Ratings**
+### **Measuring Skill Ratings**
 
 Your character’s skill ratings define their capabilities during play. But what does a given skill rating mean in more general terms? Use the following guidelines as a guide to proficiency. At certain skill ranks and in non-critical or non-dramatic circumstances, a roll may not even be required—under routine conditions, characters at a certain level of competence can regularly perform these skills without needing to roll for success, though *Automatic* success does not merit experience checks.
 
-**Skill Rating Table**
+## **Skill Rating Table**
 
 | **Skill Rating** | **Competency** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ Your character’s skill ratings define their capabilities during play. But what
 | 76–90%           | Expert         | Advanced expertise in the given field: your character has a reasonable chance to succeed even at Difficult tasks. Only dedicated professionals attain such mastery of a given skill, and those that do are respected and relied upon for their expertise. Skills in this range correspond to an advanced degree (Masters or Ph.D.), or many years of experience. Most average characters cannot begin play with any skill higher than 75%. Your character should be able to perform complex and challenging actions relating to this skill under routine circumstances without rolling, assuming they take the time and have the proper facilities and/or equipment available.                                    |
 | 91% or higher    | Master         | Few attain this level of mastery. Only the most difficult tasks are beyond their abilities, and their expertise has likely made these masters famous within their field and sometimes in the world at large. In routine situations your character can perform near miracles, and you will rarely need to roll the dice except at most difficult of tasks or in dire circumstances. If the optional Sanity rules are being used in a campaign, attaining a 91% rating in a skill instantly restores 2D6 SAN points, representing the self-confidence and discipline associated with mastering a skill (this is a one-time bonus). If your character begins with this skill rating or higher, there is no SAN gain. |
 
-**Skill List by Category**
+## **Skill List by Category**
 
 A complete list of skills divided by category follows.
 
@@ -181,7 +181,7 @@ An alphabetized list of all skills in this section follows. Each entry lists the
 | Throw                     | Physical      | 25%                      |
 | Track                     | Perception    | 10%                      |
 
-**Augments and Complementary skills**
+### **Augments and Complementary skills**
 
 Some skills are closely related to others, and expertise in one field can benefit another. With your gamemaster’s permission, your character may temporarily add 1/5 of your rating in a **complementary skill** to your rating in another skill for skill rolls. Many complementary uses are noted in the skill descriptions that follow. You and the other players will doubtless devise more.
 
@@ -200,11 +200,11 @@ An **augment** to a skill is similar but works in a slightly different fashion. 
 
 You cannot augment a skill and use a complementary skill bonus simultaneously for the same skill roll.
 
-**Skill Ratings Above 100%**
+### **Skill Ratings Above 100%**
 
 Your character’s experience bonus makes it possible to raise skill ratings above 100%. Skills higher than 100% use the standard systems to compute the chances of special or critical successes, as well as offering better odds of success at *Difficult* tasks or in the face of negative circumstantial modifiers. Additionally, if your character has a combat skill higher than 100%, they can take multiple attacks in a combat round, as described in **Attacks and Parries Over 100%**.
 
-**Describing Results of Successes**
+### **Describing Results of Successes**
 
 Generally, the results of skill rolls are obvious, but if in doubt, use the following guidelines when determining outcomes:
 
@@ -216,7 +216,7 @@ Generally, the results of skill rolls are obvious, but if in doubt, use the foll
 
 As noted above, skills where outcomes are very specific and where detail is required, have retained the defined result.
 
-**Skill Descriptions**
+## **Skill Descriptions**
 
 A comprehensive, alphabetical list of skills follows. Each entry contains the following information:
 
@@ -229,7 +229,7 @@ A comprehensive, alphabetical list of skills follows. Each entry contains the fo
 -   **Setting Notes:** Additional information about the skill in different settings. If this entry is not present, the skill works unchanged in almost any setting.
 -   **System Notes:** Relevant rules or systems, if any.
 
-**Appraise**
+### **Appraise**
 
 **Base Chance:** 15%
 
@@ -237,7 +237,7 @@ A comprehensive, alphabetical list of skills follows. Each entry contains the fo
 
 Use this skill to estimate an object’s worth, be it an old painting, a gemstone, a weapon, or a riding horse. Failure means they have no idea, while a fumble yields false information. A special or critical yields additional information.
 
-**Art (various)**
+### **Art (various)**
 
 **Base Chance:** 05%
 
@@ -249,7 +249,7 @@ Use this skill to create a work of art in paint or sculpture, or to compose a st
 
 **Setting Notes:** Art is universal, though it may have era- or setting-specific specialties.
 
-**Artillery (various)**
+### **Artillery (various)**
 
 **Base Chance:** As per weapon specialty
 
@@ -265,7 +265,7 @@ Use this skill to fire massive field pieces and heavy vehicular weapons, essenti
 
 **System Notes:** Many large weapons require a crew to operate; attempting to use one alone is a *Difficult* action or may be *Impossible*. It may take multiple rounds or even turns to load and prepare a weapon system between shots. Many large weapons employ automatic fire or shoot explosive ordinance. See **Autofire** and **Explosion**. All shots go somewhere; the gamemaster should decide where missed explosive or energy shots impact.
 
-**Bargain**
+### **Bargain**
 
 **Base Chance:** 05%
 
@@ -273,7 +273,7 @@ Use this skill to fire massive field pieces and heavy vehicular weapons, essenti
 
 Use this skill to haggle over prices, and whenever opposing opinions meet in negotiation and compromise. Use opposed skill rolls to decide important deals, and simple skill rolls for trivial attempts (saving money on equipment or lodgings, for example). Bargaining is about compromise: use Fast Talk or Persuade to resolve arguments that are absolutely won or lost. A fumble might mean turn a merchant into an enemy, success means you get a deal, and better results yield higher discounts or more favorable conditions for your side.
 
-**Brawl**
+### **Brawl**
 
 **Base Chance:** 25%
 
@@ -285,7 +285,7 @@ Use this skill for unarmed combat: kicks, punches, head butts, etc.
 
 **System Notes:** Brawling can be used to parry (see Parry) but a successful parry inflicts minimum weapon damage on the parrying arm or leg, as appropriate. Using Brawl against a foe that has grappled your character (see Grapple) is *Easy*. Used in conjunction with Martial Arts and with the Natural Weapon and Unarmed Combat powers from *Chapter 4: Powers*.
 
-**Climb**
+### **Climb**
 
 **Base Chance:** 40%
 
@@ -295,7 +295,7 @@ Use this skill to climb up or down walls, trees, cliffs, or any other surface. A
 
 **System Notes:** Generally, climbing is at 1/5 the MOV rate, and animals with natural climbing ability can move at their full MOV rate. Climbing ladders is *Automatic*. Very tall ladders or trees is *Easy*. Climbing without using your character’s feet is *Difficult*. For extended climbs, the gamemaster should call for a skill roll once every minute, or 10 meters of climbing. Your character can take no other action while climbing, and all actions taken while clinging to a surface are *Difficult*, with any fumble causing a fall.
 
-**Command**
+### **Command**
 
 **Base Chance:** 05%
 
@@ -305,7 +305,7 @@ Use this skill to inspire, direct, and coordinate subordinates, guiding them in 
 
 **System Notes:** Used primarily in combat, though it can extend to corporate negotiations, etc. Artillery, Heavy Weapon, Melee Weapon, Missile Weapon, and Strategy are the most appropriate skills to receive this benefit.
 
-**Craft (various)**
+### **Craft (various)**
 
 **Base Chance:** 05%
 
@@ -317,7 +317,7 @@ Use this skill to construct or make things, from a chair to a meal to a house. S
 
 **System Notes:** Using Craft without the proper tools is *Difficult*. See *Chapter 8: Equipment* for more information about making, modifying, or repairing equipment. Possession of a fine item of clothing or gear may even increase CHA while the item is worn or displayed.
 
-**Demolition**
+### **Demolition**
 
 **Base Chance:** 01%
 
@@ -327,7 +327,7 @@ Use this skill to store, transport, set, and detonate explosives, from kegs of g
 
 **System Notes:** With a skill rating of 60%+, normal uses of this skill automatically succeed. Unstable explosives (sweaty dynamite) may call for a Demolition every round they are being handled or used. Demolishing a massive structure (bridge, dam, bunker, or building) is *Difficult* unless your character has access to blueprints or plans of the target. Trying to use this skill without appropriate tools (fuses, etc.), or using explosives outside your character’s normal field of expertise may be *Difficult* or even *Impossible*. Some types of explosives such as grenades might be used without this skill. See *Chapter 8: Equipment* for explosives and their effects.
 
-**Disguise**
+### **Disguise**
 
 **Base Chance:** 01%
 
@@ -337,7 +337,7 @@ Use this skill to employ posture, costume, voice, and other tricks to appear as 
 
 **System Notes:** Using this skill to impersonate a particular kind of person (soldier, policeman, etc.) is a normal action. Impersonating someone vastly different (other species, alternate body type, another gender, etc.) or a specific well-known person (a noble, a celebrity, etc.), or attempting a disguise without appropriate clothing or props is *Difficult*. The gamemaster may assign additional penalties for cultural or language barriers, or if multiple *Difficult* conditions apply. Too much of a stretch may simply be *Impossible*.
 
-**Dodge**
+### **Dodge**
 
 **Base Chance:** DEX×2
 
@@ -349,7 +349,7 @@ The best defense in combat, as any combatant knows, is to not be there. Dodge al
 
 **System Notes:** As described in **Dodge** in *Chapter 6: Combat*, your character may either Dodge or Parry in a combat round but cannot do both. If your character is attacked by many foes, they may make multiple Dodge attempts in a round, but each roll after the first is made at a cumulative –30% penalty to the skill rating. Some missile attacks are *Difficult* or *Impossible* to dodge (see *Dodging Missile Weapons*).
 
-**Drive (various)**
+### **Drive (various)**
 
 **Base Chance:** 20% or 01% (see below)
 
@@ -363,7 +363,7 @@ Use Drive to steer, maneuver, and control a ground vehicle, whether pulled by an
 
 **System Notes:** Most day-to-day driving is an *Automatic* task—a Drive roll is only required under adverse conditions or for extraordinary driving (speeding through a busy downtown area, chasing another vehicle, etc.). To tail another vehicle without being noticed, use an opposed Drive roll vs. the other driver’s Spot. To resolve vehicle chases, see **Chases**.
 
-**Energy Weapon (various)**
+### **Energy Weapon (various)**
 
 **Base Chance:** As per weapon specialty
 
@@ -379,7 +379,7 @@ Use this to fire any kind of hand-held directed energy or beam weapon (lasers, b
 
 **System Notes:** Some energy weapons have a minimum STR and DEX requirement to use the weapon, as per the weapons tables in *Chapter 8: Equipment*. Energy weapons do not use damage modifiers but can be used for aimed attacks. They cannot be dodged, though target movement and orientation can impose penalties to the shot, as described in *Dodging Missile Weapons*. Blocking energy shots with the Shield skill is *Difficult*.
 
-**Etiquette (various)**
+### **Etiquette (various)**
 
 **Base Chance:** 05%
 
@@ -391,7 +391,7 @@ Specialty: By group. To learn the manners of a second group, learn a second Etiq
 
 **System Notes:** The gamemaster should only call for Etiquette rolls in important circumstances: for example, the first time interacting with an important group, a significant occasion, or when trying to advance status within the group.
 
-**Fast Talk**
+### **Fast Talk**
 
 **Base Chance:** 05%
 
@@ -401,7 +401,7 @@ The preferred weapon of salesmen, spies, or con artists, use this skill to convi
 
 **System Notes:** Good roleplaying and/or an effective argument might make a Fast Talk attempt *Easy*, just as poor roleplaying and/or a flimsy argument might make it *Difficult*. Trying to Fast Talk a target after a first attempt at Bargain, Fast Talk, or Persuade fails is *Difficult*.
 
-**Fine Manipulation**
+### **Fine Manipulation**
 
 **Base Chance:** 05%
 
@@ -411,7 +411,7 @@ A measure of steadiness and hand-eye coordination, this skill covers any careful
 
 **System Notes:** Using this skill without appropriate tools, where required, is *Difficult*.
 
-**Firearm (various)**
+### **Firearm (various)**
 
 **Base Chance:** As per weapon specialty
 
@@ -427,7 +427,7 @@ This skill measures accuracy with firearms, and provides familiarity with handli
 
 **System Notes:** Some firearms have a minimum STR and DEX requirement, as per the weapons tables in *Chapter 8: Equipment*. Firearms do not use damage modifiers, and can be used for aimed attacks.
 
-**First Aid**
+### **First Aid**
 
 **Base Chance:** 30%
 
@@ -446,7 +446,7 @@ Use this skill to stop bleeding, bandage wounds and treat minor burns, set a bro
 
 **System Notes:** Keep track of individual injuries, as First Aid can be used on each injury, potentially healing it up to the amount of hit points the injury inflicted. Only one attempt may be made per wound. Hazardous or unsanitary conditions may make rolls *Difficult*. Your character may add 1/2 of their Medicine skill rating and 1/5 of their Science (Pharmacy) skill rating as a temporary bonus to First Aid rolls. Modern medical equipment (painkillers, bandages, or medicine) may add up to a +20% bonus to skill ratings, while futuristic medical technology (artificial spray skin, medical scanners, nanotech healers) can make all First Aid rolls *Easy*.
 
-**Fly**
+### **Fly**
 
 **Base Chance:** DEX×4 or 1/2 DEX (see below)
 
@@ -464,7 +464,7 @@ For beings with wings, the appropriate gear (antigravity belt, rocket boots, etc
 
 **System Notes:** Short, uneventful flights under normal or moderate conditions are *Automatic*. See **Weather Conditions** for modifiers to flight. Stamina rolls are required for long-range flights, with the characteristic multiplier decreasing by one every four hours or fraction thereof spent in the air. Normal flight does not expend fatigue points, while maneuvering or stressful flight is a strenuous activity. Flying while wearing armor or heavy gear incurs a penalty equal to your character’s current ENC total (see **Encumbrance**). A flying character carrying a heavy object must match their STR against the SIZ of the carried object on the resistance table to stay aloft.
 
-**Gaming**
+### **Gaming**
 
 **Base Chance:** INT+POW%
 
@@ -474,7 +474,7 @@ Use this skill while playing games, from chess or backgammon to gambling contest
 
 **System Notes:** Use this to resolve games where skill and strategy play some part, with other players making an opposed roll. To cheat, use Sleight of Hand or Fast Talk, opposed by Observe or Insight. Utterly random outcomes use Luck rolls.
 
-**Grapple**
+### **Grapple**
 
 **Base Chance:** 25%
 
@@ -494,7 +494,7 @@ Use this skill for wrestling or any fighting where the goal is to subdue a targe
 
 Multiple attackers can attempt to grapple a single target, though no more than two attackers can hold any one location. Combine the STR ratings of both attackers in all contested tests.
 
-**Grapple Effects**
+#### **Grapple Effects**
 
 An attacker with a hold on their target can attempt any of the following effects, one per round, beginning the round after the Grapple takes hold. Some effects can only be used if the attacker has grabbed a specific body part (see below). As some effects involve specific hit locations, the gamemaster may need to interpret results.
 
@@ -508,7 +508,7 @@ An attacker with a hold on their target can attempt any of the following effects
 -   **Strangle Target (Head):** The target must make a CON×1% roll each round or suffer 1D3 damage to their general hit points. The target may immediately match their STR vs. the attacker’s character’s STR on the resistance table to break the hold. Once the attacker begins strangling, they do not need to make further Grapple rolls each round to maintain the hold. The target must attempt to break free (see **Choking, Drowning, and Asphyxiation**).
 -   **Throw Target (Special):** Match the attacker’s STR+DEX against the target’s SIZ+DEX on the resistance table. Throwing a target releases any hold. If the attacker is successful, the target is thrown 1D6 meters, is automatically knocked down, and must make an Agility roll or suffer 1D6 general damage (or to a random hit location). A roll of DEX×1% allows them to land on their feet without taking damage. If the roll is unsuccessful, the target is not thrown and may take an action, though the attacker retains a hold. A throw may be attempted with any limb held, but a successful roll with the head simply inflicts 1D6 points general damage (or to the head hit location) and does not result in a throw.
 
-**Heavy Machine (various)**
+### **Heavy Machine (various)**
 
 **Base Chance:** 01%
 
@@ -520,7 +520,7 @@ Use this skill to operate any machine larger than a person and any wheeled vehic
 
 **System Notes:** Generally, heavy machines are unable to participate in chases, but certain kinds of machines can be used as weapons, doing 3D6 to 6D6 damage, based on the size of the device. Using this skill outside normal performance is *Difficult*, as is operation and maintenance in extreme conditions.
 
-**Heavy Weapon (various)**
+### **Heavy Weapon (various)**
 
 **Base Chance:** As per weapon specialty
 
@@ -534,7 +534,7 @@ Use this skill to operate explosive weapons or large direct-fire weapons that pu
 
 **System Notes:** Most heavy weapons employ automatic fire, or shoot explosive ordinance. See **Autofire** and **Explosions**. All missed shots go somewhere; the gamemaster should decide where missed explosive shots impact.
 
-**Hide**
+### **Hide**
 
 **Base Chance:** 10%
 
@@ -544,7 +544,7 @@ The art of concealing an object or oneself from view. Your character should use 
 
 **System Notes:** Hide checks are opposed by the Spot of an observer or searcher. Adequate cover is essential; hiding in scant cover is *Difficult*, and a total lack of cover (wide open, broad daylight) makes it *Impossible*. Special clothing or gear (face paint, camouflaged clothing, etc.) can add a bonus of up to +20%, depending on its quality. Environmental conditions may offer additional bonuses. Someone hiding should keep as still as possible; moving while using Hide *Difficult*, and moving more than a meter in a combat round requires both Hide and Stealth rolls. Hide is only effective against visual and aural detection; advanced sensors may find a hiding character by body heat, or a keen nose might find them using the Sense skill.
 
-**Insight**
+### **Insight**
 
 **Base Chance:** 05%
 
@@ -554,7 +554,7 @@ Use this skill to evaluate another person’s character, emotional state, and mo
 
 **System Notes:** This skill can be opposed by Etiquette, Fast Talk, or even Persuade. Using this skill on close friends, family members, or spouses is Easy. If using the **Personality Traits** system, Insight can determine the strength of those traits in general terms (such as “Very selfish”, for example).
 
-**Jump**
+### **Jump**
 
 **Base Chance:** 25%
 
@@ -564,7 +564,7 @@ Use this skill to leap for height or distance, jump over obstacles. Under normal
 
 **System Notes:** A standing jump requires 1 DEX rank. A running jump uses the same DEX rank as normal running movement. Performing flashy or showy jumps (somersaults, flips, etc.) is *Difficult*.
 
-**Knowledge (various)**
+### **Knowledge (various)**
 
 **Base Chance:** 05% or 00% (see below)
 
@@ -578,7 +578,7 @@ This skill represents experience or academic study of a branch of knowledge. Use
 
 **System Notes:** The optional EDU characteristic and Knowledge roll cover most common knowledge—specialized information is represented by an appropriate specialty of a Knowledge skill.
 
-**Knowledge Specialties**
+#### **Knowledge Specialties**
 
 The following list of specialties is by no means comprehensive and should be expanded as needed. Some specialties have subspecialties, specific focuses on a single subject within that field. Write them like this on your character sheet: Knowledge (Group/Templars) or Knowledge (Templars), as desired.
 
@@ -608,7 +608,7 @@ The following list of specialties is by no means comprehensive and should be exp
 
 **Linguistics:** The study of language itself, from the foundations of grammar and vocabulary to how societies shape languages. Use this skill to identify unknown languages or puzzle out a few words or grasp a basic meaning, although this skill is no substitute for the appropriate Language skill.
 
-\*\*Literature: \*\*The study of significant prose, poetry, and essays, usually from a single culture. Use this skill to properly identify a quote or allusion to a specific work, identify when and where an unknown fragment might have been written, attribute a mysterious work to a known author, spot a literary fake, or quote ominously appropriate passages from famous works of literature.
+**Literature:** The study of significant prose, poetry, and essays, usually from a single culture. Use this skill to properly identify a quote or allusion to a specific work, identify when and where an unknown fragment might have been written, attribute a mysterious work to a known author, spot a literary fake, or quote ominously appropriate passages from famous works of literature.
 
 **Occult:** Knowledge of magic, obscure legends, and so-called ‘secret history’ that covers everything from arcane philosophies to modern conspiracy theories. Use this skill to realize the significance of alchemical or astrological symbols, identify which magical tradition created a ritual workspace, know the names of powerful spirits, or identify the secret factions conspiring to manipulate a situation.
 
@@ -622,7 +622,7 @@ The following list of specialties is by no means comprehensive and should be exp
 
 **Streetwise:** Knowledge of the shadier segments of a society, from the protocols of the poor to the ways of the criminal underworld. Use this skill to find a safehouse, identify a fence for stolen goods, or know who to ask for other semi-legal or illegal favors.
 
-**Language (various)**
+### **Language (various)**
 
 **Base Chance:** INT×5 (or EDUx5) or 00% (see below)
 
@@ -634,7 +634,7 @@ The ability to communicate verbally in a language, either one’s native languag
 
 **System Notes:** If the EDU optional rule is used, choose the higher of INT×5 or EDU×5 for the base chance. Understanding obscure dialects or ancient varieties of a language is *Difficult*. Complex or long documents or conversations with several salient points might require multiple language rolls to understand, one for each point. See the **Language Fluency Table** for details about how skill rating impacts communication and fluency.
 
-**Language Fluency Table**
+#### **Language Fluency Table**
 
 | **Skill Rating** | **Fluency**                                                                                                                                                                                                                                                                                                                                                  |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -644,7 +644,7 @@ The ability to communicate verbally in a language, either one’s native languag
 | 51–75            | Allows speaker to tell stories, sagas, songs, etc. Idioms and jokes become accessible. Can pass for native. Complex communications are now rolled at the speaker’s full skill ranking. **For example,** *“Look at this cut! The lamb was rotten before it was butchered and is clearly not even worth the sweat of the laborer who carried it here.”*        |
 | 76–00            | The language of poets, philosophers, scientists, and diplomats. Not only can the speaker pass for native, but they can also mimic one or more local dialects. Jargon and obscure forms of speech come easily. **For example,** *“Surely the assessment of this specimen of provender could be reevaluated in light of its advanced state of decomposition.*” |
 
-**Listen**
+### **Listen**
 
 **Base Chance:** 25%
 
@@ -654,7 +654,7 @@ Use this skill to hear, interpret, and understand sounds, whether murmurs behind
 
 **System Notes:** Listen is both active and passive skill: your character can attempt to Listen for suspicious noises, or the gamemaster can call for Listen rolls when appropriate. Oppose Listen with Stealth to resolve attempts to sneak past a wary or unwary listener. The gamemaster may choose to make Listen rolls secretly and inform you of the result, to avoid giving anything away if the roll fails.
 
-**Literacy (various)**
+### **Literacy (various)**
 
 **Base Chance:** 00% or equal to Language (Own/Other) (see below)
 
@@ -666,7 +666,7 @@ The ability to read and write is taken for granted in the modern era: in previou
 
 **System Notes:** Understanding obscure dialects or ancient varieties of a written language is *Difficult*. Complex or long documents (such as books) with multiple salient points might require multiple Literacy rolls, one for each point.
 
-**Martial Arts**
+### **Martial Arts**
 
 **Base Chance:** 01%
 
@@ -692,7 +692,7 @@ If multiple attacks are made in a round, the attacker must allocate the Martial 
 
 Due to its relative power, the gamemaster may rule that the initial skill rating in this skill be limited, that increases to this skill may be limited to training rather than normal experience, that training may be incredibly difficult to obtain, or all three of these conditions.
 
-**Medicine**
+### **Medicine**
 
 **Base Chance:** 05%
 
@@ -710,7 +710,7 @@ Use this skill is used to diagnose and treat serious injuries, treat diseases, c
 
 **System Notes:** Each use of Medicine applies to a single malady: once it has been treated and is completely cured, additional successful Medicine rolls have no effect. Other wounds or maladies, however, can be treated. Unsafe or unsanitary conditions may make Medicine rolls *Difficult*. Special equipment or medicine may add up to +20% to the skill rating, while futuristic medical technology (artificial spray skin, medical scanners, nanotech healers) make Medicine rolls Easy. Treating common and non-life-threatening ailments is *Automatic*.
 
-**Melee Weapon (various)**
+### **Melee Weapon (various)**
 
 **Base Chance:** As per weapon
 
@@ -724,7 +724,7 @@ Use this skill to wield a particular type of weapon in hand-to-hand combat, whet
 
 **System Notes:** Your character can attempt more than one parry per round, but each roll after the first is made at a cumulative –30%. At the gamemaster’s discretion, your character can wield a weapon from a related or similar weapon category, with the roll being *Difficult*.
 
-**Missile Weapon (various)**
+### **Missile Weapon (various)**
 
 **Base Chance:** As per weapon
 
@@ -738,7 +738,7 @@ Use this to wield any hand-held self-propelled missile weapon such as bows, cros
 
 **System Notes:** All missile weapons have a minimum STR and DEX required to use the weapon, as listed in *Chapter 8: Equipment*. Typically, the attacker’s damage modifier is halved for missile weapons, and for entirely self-propelled weapons (blowguns, crossbows, etc.), the damage modifier is not applied. Missile Weapon can be used for aimed attacks.
 
-**Navigate**
+### **Navigate**
 
 **Base Chance:** 10%
 
@@ -748,7 +748,7 @@ Use this skill to find the way to a destination whether with a compass, sea char
 
 **System Notes:** Attempt a Navigate skill roll every four hours of an ongoing journey. Use of a map or compass may improve the skill ranking by up to +20%. Navigating in a featureless landscape (at sea, in darkness or bad weather, in a desert, or in dense jungle) without instruments or maps is *Difficult*. Advanced navigational aids (global position service technology, etc.) or familiarity with the area make Navigate attempts *Easy*.
 
-**Parry**
+### **Parry**
 
 **Base Chance:** As per weapon
 
@@ -762,7 +762,7 @@ Use this skill to use a weapon or shield to parry or block an incoming attack. T
 
 **System Notes:** Your character can attempt more than one parry per round, but each roll after the first is made at a cumulative –30%. At the gamemaster’s discretion, your character can parry with a weapon or shield from a related or similar category, with the roll being *Difficult*.
 
-**Perform (various)**
+### **Perform (various)**
 
 **Base Chance:** 05%
 
@@ -774,7 +774,7 @@ Use this skill to perform, whether acting, dancing, playing an instrument, singi
 
 **System Notes:** Successful use of the Perform (Ritual) skill may augment a magic power or cause it to have additional benefits, at the gamemaster’s discretion.
 
-**Persuade**
+### **Persuade**
 
 **Base Chance:** 15%
 
@@ -784,7 +784,7 @@ Use this skill to convince someone that a particular idea or belief is right, co
 
 **System Notes:** Using Persuade across a language barrier (if both speakers have lower than 50% in the language) is *Difficult*, as is convincing someone of something that runs counter to their personality or core beliefs. The gamemaster may reward effective arguments or good roleplaying with a bonus of up to +20%. Depending on circumstances, Persuade could take minutes, hours, or even days, and extended efforts may take multiple rolls to complete.
 
-**Pilot (various)**
+### **Pilot (various)**
 
 **Base Chance:** 01%
 
@@ -796,7 +796,7 @@ Use this skill to steer, maneuver, and control a vehicle through the air, on or 
 
 **Effects:** Most day-to-day piloting is *Automatic*—roll only under adverse conditions or for extraordinary situations. A fumble almost inevitably causes an engine to stall or even crash, failing means the destination is not reached in the desired timeframe, success gets where one desires, and superior successes yield more expert piloting and results. See **Aerial Combat** and **Chases** for more information, and the **Chase Trouble Table** for mishaps.
 
-**Projection**
+### **Projection**
 
 **Base Chance:** DEX×2%
 
@@ -804,7 +804,7 @@ Use this skill to steer, maneuver, and control a vehicle through the air, on or 
 
 This optional skill is used by power-using characters to target power-based attacks. It is described in *Chapter 4: Powers* and only used in games with appropriate powers.
 
-**Psychotherapy**
+### **Psychotherapy**
 
 **Base Chance:** 01% or 00% (see below)
 
@@ -824,7 +824,7 @@ Use this skill to evaluate and treat mental illness or trauma, particularly rest
 
 **Setting Notes:** Psychiatric counseling is a relatively modern concept. For settings where psychological treatment does not exist, the base chance is 00%.
 
-**Repair (various)**
+### **Repair (various)**
 
 **Base Chance:** 15%
 
@@ -836,7 +836,7 @@ Equipment and other objects get damaged or stop working. Use Repair to fix them 
 
 **Effects:** A fumble damages the item further and could even hurt the one making the repair attempt (1D3 hit points for either, for example) and makes further repairs *Difficult*. Failure accomplishes nothing, success restores 1D3 hit points and the item becomes usable again or returns to working order. Superior successes yield similar benefits, perhaps using the First Aid skill and the gamemaster’s judgement as a guide. A critical may even improve the item in some small way, such as adding to its total hit point, armor points, or adding a slight bonus when it is utilized.
 
-**Research**
+### **Research**
 
 **Base Chance:** 25%
 
@@ -846,7 +846,7 @@ Use this skill to locate and identify potential sources of information in a libr
 
 **System Notes:** The gamemaster is advised to make a failed Research roll take longer, give slightly misleading or complicated information, raise some sort of alarm or unwanted attention, or some other setback than simply not yielding any results. Failure is rarely enjoyable in games, and for mysteries, inaccessible clues are a dramatic dead-end.
 
-**Ride (various)**
+### **Ride (various)**
 
 **Base Chance:** 05%
 
@@ -858,7 +858,7 @@ Use this skill to ride, handle, and care for of a specific kind of living animal
 
 **System Notes:** Resolve races between the same breeds of animals using opposed Ride checks. Combat and Ride skills must be 50%+ to fight normally in mounted combat. If the Ride skill is less than 50%, a Ride check is required every round to keep control of the mount. If the combat skill is less than 50%, all attacks are Difficult. Even if both skills are higher than 50%, use the lower of the two skill ratings for attacks and parries. If the mount falls, collapses, or dies, treat the rider as if they have been thrown. See **Mounted Combat** for more information.
 
-**Science (various)**
+### **Science (various)**
 
 **Base Chance:** 01%
 
@@ -870,7 +870,7 @@ Use this skill to know scientific information and principles from a particular f
 
 **System Notes:** Many Science specialties require specialized equipment, measuring instruments, computers, or even a laboratory. Science rolls can take anywhere from 30 minutes to weeks or months, at the gamemaster’s discretion: four hours for an experiment is a good average. Attempting a Science roll without sufficient time or equipment is either *Difficult* or *Impossible*.
 
-**Sense**
+### **Sense**
 
 **Base Chance:** 10%
 
@@ -880,7 +880,7 @@ The skill primarily governs taste, touch, and smell; but can extend to some of t
 
 **System Notes:** Like Listen and Spot, Sense is both active and passive: you can request your character to make a Sense roll, or the gamemaster can call for a roll in appropriate situations. Strong or familiar stimuli are *Easy* rolls to Sense, while faint or unfamiliar ones is *Difficult*.
 
-**Shield**
+### **Shield**
 
 **Base Chance:** As per shield type
 
@@ -892,7 +892,7 @@ Use this skill to block incoming attacks with a shield or other appropriate impl
 
 **System Notes:** Shield blocks are parries. A character may make more than one shield roll in a round, but each additional roll incurs a –30% penalty to the shield or parry skill rating. Large shields can provide cover against missile or even firearms attack.
 
-**Sleight of Hand**
+### **Sleight of Hand**
 
 **Base Chance:** 05%
 
@@ -902,7 +902,7 @@ Use his skill to manipulate small objects (dice, cards, coins, wallets, letters,
 
 **System Notes:** The skill is opposed by Spot where appropriate. Once an object has been palmed or taken, use Hide to hide it from a concerted search.
 
-**Spot**
+### **Spot**
 
 **Base Chance:** 25%
 
@@ -912,7 +912,7 @@ Use this skill to search a room for potentially important details, find a hidden
 
 **System Notes:** Spot is both an active and a passive skill: your character can make a Spot roll to actively search or examine, or the gamemaster can call for a Spot roll to see if your character notices a fleeting detail. Hiding or deliberate concealment requires an opposed Spot vs. Hide test to resolve. Spot is also often opposed vs. Disguise or Sleight of Hand. In complete darkness, Spot is *Impossible*, and low light or thick fog makes it *Difficult*.
 
-**Status**
+### **Status**
 
 **Base Chance:** 15%
 
@@ -961,7 +961,7 @@ As described in **Creating a Character** and **Character Professions**, Status c
 
 Status may also affect the initial equipment your character begins with. At the gamemaster’s discretion, you may make Status rolls to determine if your character begins with better gear than their wealth level and profession indicate. See Starting Equipment in *Chapter 8: Equipment*. Status rolls made before play are not eligible for experience checks.
 
-**Stealth**
+### **Stealth**
 
 **Base Chance:** 10%
 
@@ -971,7 +971,7 @@ Use this skill to sneak through an area without drawing attention. No cover is r
 
 **System Notes:** Stealth assumes slow movement. Moving farther than 1/2 one’s MOV in a combat round is *Difficult*. Environmental factors (ambient noise, thick carpets, creaky floors, etc.) or gear (soft-soled shoes, noisy armor, bulky equipment, etc.) can modify Stealth rolls, at the gamemaster’s discretion. Stealth is opposed by Spot or Listen, as appropriate.
 
-**Strategy**
+### **Strategy**
 
 **Base Chance:** 01%
 
@@ -981,7 +981,7 @@ Use this skill to guide forces in battle, from a small squad to a massive army o
 
 **System Notes:** Massive military engagements should be resolved in abstract, with an opposed Strategy roll between the opposing leaders influencing the outcome (multiple rolls may be required for larger or longer engagements). Using Strategy in unfavorable conditions (outnumbered, poorly supplied, etc.) is *Difficult*. This skill is often used alongside Command: Strategy represents the plan, Command is how clear it is conveyed to those who must execute it.
 
-**Swim**
+### **Swim**
 
 **Base Chance:** 25%
 
@@ -993,7 +993,7 @@ Use this skill to move through or under water. Generally, Swim rolls should only
 
 In underwater melee combat an attacker uses the lower of their combat or Swim skill ratings to resolve attacks, and trying to Dodge is *Difficult*. Only impaling weapons are useful—all others do 1D3–1 points of damage per hit. Water resistance also adds 3 points of armor value to any target. See **Underwater Combat** for more information.
 
-**Teach**
+### **Teach**
 
 **Base Chance:** 10%
 
@@ -1003,7 +1003,7 @@ Use this skill whenever your character attempts to train or teach information or
 
 **System Notes:** To teach a particular skill, the teacher must have twice the student’s skill rating, or a skill rating of 50% (whichever is lower). See **Skill Training** for more detail.
 
-**Technical Skill (various)**
+### **Technical Skill (various)**
 
 **Base Chance:** 05%
 
@@ -1015,7 +1015,7 @@ Use this skill to operate and maintain advanced technological devices such as co
 
 **Setting Notes:** The Technical skill in fantasy or historical settings covers traps, clockwork or geared devices, siege engines, etc.
 
-**Throw**
+### **Throw**
 
 **Base Chance:** 25%
 
@@ -1033,7 +1033,7 @@ Use this skill to hit a target with a thrown object, or to throw a weapon otherw
 
 **System Notes:** Add 1/2 damage modifier (round up) to a thrown weapon’s base damage. Most items can be thrown the thrower’s STR in meters, and range beyond that is *Difficult*. Thrown objects can be aimed.
 
-**Track**
+### **Track**
 
 **Base Chance:** 10%
 

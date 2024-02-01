@@ -2,7 +2,7 @@
 
 Characters may have extraordinary powers above and beyond their skills. While *Chapter 2: Characters* provides guidelines for creating characters without powers, this chapter covers those with powers. Several power sets are presented here. Some are not immediately compatible with one another, while others are easily used together.
 
-**Power Sets**
+### **Power Sets**
 
 Included here are five power sets: magic spells, mutations, sorcery, psychic abilities, and superpowers:
 
@@ -12,11 +12,11 @@ Included here are five power sets: magic spells, mutations, sorcery, psychic abi
 -   **Sorcery:** This type of magic consists of short magical incantations that cause a supernatural effect. Sorcery automatically works except when successfully resisted and can have different levels of effectiveness. A sorcerer can change the spells they memorize day-to-day, picking desired ones from a larger repertoire. Seeking new spells is a part of playing a sorcerer.
 -   **Superpowers:** These powers are almost always expansions of existing skills, new abilities, or allow your character to exceed their natural limits (characteristics, etc.) significantly. Superpower use is often resolved with resistance rolls, though some superpowers are automatic. Superpowers and super-powered characters may take on advantages or disadvantages.
 
-**The Scope of these Rules**
+### **The Scope of these Rules**
 
 These powers are adapted from prior Chaosium, Inc. games (see the bibliography in *Chapter 12: Appendices*). They are not all-encompassing: expansion and customization is encouraged. These are a foundation with which you can create additional new powers or adapt them freely from other sources such as movies, books, or even other roleplaying games. More easily, you can import powers from other Basic Roleplaying games, if you wish!
 
-**Opposed Powers of Different Types**
+### **Opposed Powers of Different Types**
 
 Though these power sets use different fundamental mechanics they can coexist within the same game. Superhero settings can have magicians, mutants, psychics, and sorcerers, for example. Usually, these can coexist without difficulty, but the most critical question is when they come into conflict or must be compared against one another. When using these powers in the same game, consider these principles:
 
@@ -24,7 +24,7 @@ Though these power sets use different fundamental mechanics they can coexist wit
 -   **Can You Find an Equivalent Rule?** If the power isn’t based on a characteristic, you may find an equivalent value as a piece of equipment in *Chapter 8: Equipment*, or a spot rule from *Chapter 7: Spot Rules*. If so, use one of those.
 -   **What’s More Fun?** Which is better for game play; do different powers work together, even when from different sets, or are they completely different and do not interact?
 
-**How Do Characters Get Powers?**
+### **How Do Characters Get Powers?**
 
 The most important questions to ask during character creation are:
 
@@ -35,11 +35,11 @@ The most important questions to ask during character creation are:
 
 Your gamemaster should answer these questions during the character creation process outlined in *Chapter 2: Characters*. Power creation can be done after that section is complete, though decisions made about powers and opportunities for increases to characteristics and skills may necessitate refiguring of those values.
 
-**Selecting Powers in Character Creation**
+### **Selecting Powers in Character Creation**
 
 Ideally, the decision about powers is decided before character creation, so players can determine their powers right after **Step One** in **Creating a Character** in *Chapter 2: Characters*. Use this process to determine your character’s powers, expanding and replacing **Step Two**.
 
-**Step Two (Powers)**
+### **Step Two (Powers)**
 
 What is the game’s power level? You and your gamemaster should discuss this and agree to it, which leads to shared expectations and satisfaction between everyone. These are the usual power levels:
 
