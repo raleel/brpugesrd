@@ -1,4 +1,4 @@
-**4. Powers**
+# **4. Powers**
 
 Characters may have extraordinary powers above and beyond their skills. While *Chapter 2: Characters* provides guidelines for creating characters without powers, this chapter covers those with powers. Several power sets are presented here. Some are not immediately compatible with one another, while others are easily used together.
 

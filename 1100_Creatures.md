@@ -1,4 +1,4 @@
-**11. Creatures**
+# **11. Creatures**
 
 This chapter provides a wide range of potential encounters, whether stalwart allies, loyal pets, vicious animals, or supernatural beings, as well as sample characters from the past, fantasy settings, the modern world, and the future. There is no difference rules-wise between a creature and a nonplayer character—the gamemaster characterizes them with description and roleplaying. They all follow the same rules as characters. However, they each represent an appropriate specimen and are not balanced in the same fashion as a player character. You can use these creatures ‘as is’ or customize them as desired. No optional rules are used in these descriptions, though you can add or modify those as required (see Customizing Creatures and Nonplayer Characters.
 

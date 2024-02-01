@@ -1,4 +1,4 @@
-**10. Settings**
+# **10. Settings**
 
 This chapter discusses settings—the times and/or places where your adventures happen. Usually, the setting is the genre—Western, science fiction, techno-thriller, sword-and-sandal, high fantasy, or many others. This chapter also includes optional rules for allegiance, passions, and insanity.
 

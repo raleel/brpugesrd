@@ -1,4 +1,4 @@
-**9. Gamemastering**
+# **9. Gamemastering**
 
 As the gamemaster, you have the most difficult role of anyone in the group, helping the players create their characters and creating (or adapting) the setting. You must create and roleplay the nonplayer characters encountered, describe the world as it is explored, and be a fair and ultimate referee, especially during conflicts. While players can take turns and entertain one another, the gamemaster is always on. You must respond to the players’ actions and engage them all equally, ideally keeping them engrossed and sharing the spotlight.
 

@@ -1,4 +1,4 @@
-**7. Spot Rules**
+# **7. Spot Rules**
 
 A great myriad of situations can arise during combat, action sequences, or under specific conditions. These ‘spot rules’ are intended for the gamemaster’s use. As a player, it is not necessary for you to know these, though some familiarity is always useful.
 

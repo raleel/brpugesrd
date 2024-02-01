@@ -1,4 +1,4 @@
-**8. Equipment**
+# **8. Equipment**
 
 This chapter covers everything outside of your character: items that they can own and interact with, such as money, weapons, armor, equipment, vehicles, and the environment itself, mundane or exceptional. Here also are rules for special types of gear and how to handle equipment in play.
 

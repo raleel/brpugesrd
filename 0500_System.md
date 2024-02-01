@@ -1,4 +1,4 @@
-**5. System**
+# **5. System**
 
 The entire purpose of a game system is to answer two questions: “How do the players determine whether they succeed or fail?” and “How well do they succeed or fail?” Basic Roleplaying answers those questions with a clean and intuitive system using dice rolls to simulate the probability of whether an action succeeds or fails, and qualities of success to determine a range of possible outcomes.
 

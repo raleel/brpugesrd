@@ -1,20 +1,20 @@
-**3. Skills**
+# **3. Skills**
 
 Your character must make many decisions, face many challenges, and accomplish many tasks during play. Most important actions are defined as **skills** your character can attempt. This section lists the most common skills, defines them, and relates them to tasks your character can attempt in play.
 
-**Defining Skills**
+## **Defining Skills**
 
 A skill represents a specific set of knowledge and aptitude. Every skill is rated on a percentile scale from 0 to 100 (or higher). This is called a **skill rating**. The higher, the better.
 
 The list of skills in this book is far from comprehensive: different games may demand additional skills, and the gamemaster is encouraged to create new skills as desired. Additionally, the gamemaster may wish to rename or reclassify skills, eliminating some, add new specialties (described below) or remove them, as appropriate.
 
-**Skill Specialties**
+### **Skill Specialties**
 
 Many skills are broad and require you to define a specialty, a more focused aspect of that skill. Art, for example, is a broad category, so it is divided into specialties such as Drawing, Painting, Sculpture, Writing, etc. These are listed after the skill name in parentheses. Thus, Melee Weapon (Sword) and Melee Weapon (Spear) are considered two different skills. At the gamemaster’s discretion, if your character lacks a skill rating in an appropriate specialty, you can use a related skill or specialty’s rating halved (rounding up), to make skill rolls.
 
 **For example,** *your character can use half their skill rating in Science (Astronomy) to make skill rolls that would normally require Science (Physics) or Science (Mathematics), as these are related skills. However, this astronomical acumen is useless if the gamemaster calls for a Science (Biology) or Knowledge (History) skill roll.*
 
-**Using Skills**
+## **Using Skills**
 
 Whenever your character wishes to take an action or accomplish a task where the outcome is in doubt, you must declare the desired action. The gamemaster will then call for a D100 roll against the appropriate skill rating. In general terms, a D100 roll equal to or under the modified skill rating grants success at the task, while a roll higher than the rating fails.
 

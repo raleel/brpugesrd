@@ -1,4 +1,4 @@
-**6. Combat**
+# **6. Combat**
 
 Combat is a significant part of many adventures. In combat it is important to know exactly what happens when, who can act at a particular time, and what actions are capable in the amount of time provided. This section addresses the wide variety of actions that occur during a combat round.
 
