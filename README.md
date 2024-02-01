@@ -1,29 +1,41 @@
-# System Reference Document Template For RPG's
+# Basic Roleplaying Universal Game Engine
 
-This work is based on the [DOCSIFY](https://docsify.js.org/) magical site generator project.
+ORC Content Document
 
+## Credits
 
-## Work in Progress
+Based on the Basic Roleplaying system created by Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willis
 
-This is a work in progress and is being updated.
+**Authors** Jason Durall and Steve Perrin
 
+**Producer** Neil Robinson
 
-## Why this project and who am I?
+**Additional Credits** Daria Pilarczyk, Rick Meints, Michael O’Brien, and Jeff Richard
 
-G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simple to create and host my SRD and after searching the web and a lot of trial & error I settled on Docsify, thanks Gulluth for your previous work. Knowing that not everyone is technically minded I wanted to do more than point indie developers to Docsify and say 'use this'.
+**Special Thanks** Ken St. Andre, Ken Austin, William Barton, Bill Dunn, Ken Finlayson, Mark L. Gambler, Sam Johnson, William Jones, Rodney Leary, Ben Monroe, Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison, and Richard Watts
 
-So the plan is to continue to tweak and develop this, ensuring to keep it a simple project that any indie rpg can use to create great looking SRD online with zero cost and little technical knowledge. 
+Published in the United States of America by Chaosium Inc.
 
+3450 Wooddale Court, Ann Arbor, MI 48104
 
-## Acknowledgments 
+chaosium.com
 
-1. This work uses the [DOCSIFY](https://docsify.js.org/) magical site generator project.
-2. [Gulluth](https://gist.github.com/Gulluth) guide requires some technical knowledge, it's where I started this journey so thank you to them!
-3. Docsify Dark/light theme used in this repo is based on (https://docsify-darklight-theme.boopathikumar.me/#/)
-4. Big shout out to [bronthlke](https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
-5. [Fzankl's](https://github.com/fzankl) Flexible Alerts plugin (https://github.com/fzankl/docsify-plugin-flexible-alerts)
-6. [Erickjx's](https://github.com/erickjx) Fontawesome plugin (https://github.com/erickjx/docsify-fontawesome)
-7. Added direct Material Icons [Google](https://fonts.google.com/icons) support
+BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE
 
+Copyright © 2023 by Chaosium Inc. All rights reserved.
 
+Basic Roleplaying is copyright © 1981, 1983, 1992, 1993, 1995, 1998, 1999, 2001, 2004, 2008, 2010, 2023 by Chaosium Inc.; all rights reserved.
 
+Basic Roleplaying is the trademark of Chaosium Inc.
+
+Chaosium Inc. and the Chaosium logo are registered trademarks of Chaosium Inc.
+
+This product is licensed under the ORC License held in the Library of Congress at TX000 [number tbd] and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense), www.azoralaw.com/orclicense, www.gencon.com/orclicense and others. All warranties are disclaimed as set forth therein.
+
+This product is the original work of Chaosium.
+
+If you use our ORC Content, please also credit us as follows:
+
+![A red and white logo Description automatically generated](_media/BRP-UGE-Logo.png)
+
+With a very few exceptions (trademarked terms), the text of BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE is available for personal and commercial use under the ORC license.
