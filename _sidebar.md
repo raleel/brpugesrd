@@ -1,4 +1,3 @@
-- [Front Matter](0000_Front_Matter.md)
 - [Introduction](0100_Introduction.md)
 - [Characters](0200_Characters.md)
 - [Skills](0300_Skills.md)
