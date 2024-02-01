@@ -1,0 +1,23 @@
+body {
+    --siteFont: 'Open Sans', sans-serif;
+    --headingFont: 'Orbitron', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--headingFont);
+}
+
+.search .input-wrap {
+    margin-top: 30px!important;
+}
+
+.sidebar-toggle {
+    top: 0;
+    bottom: unset;
+}
+
+@media screen and (max-width: 768px) {
+    #docsify-darklight-theme {
+        left: unset;
+    }
+}
