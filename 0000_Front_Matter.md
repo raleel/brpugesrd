@@ -36,6 +36,6 @@ This product is the original work of Chaosium.
 
 If you use our ORC Content, please also credit us as follows:
 
-![A red and white logo Description automatically generated](https://raw.githubusercontent.com/raleel/basic-roleplaying-UGE/main/BRP-UGE-Logo.png)
+![A red and white logo Description automatically generated](_assets/BRP-UGE-Logo.png)
 
 With a very few exceptions (trademarked terms), the text of BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE is available for personal and commercial use under the ORC license.
