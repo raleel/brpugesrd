@@ -9,3 +9,6 @@
 - [Gamemastering](0900_Gamemastering.md)
 - [Settings](1000_Settings.md)
 - [Creatures](1100_Creatures.md)
+---
+- [Mythras Imperative SRD](https://srd.mythras.net)
+- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
