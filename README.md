@@ -14,6 +14,8 @@ Based on the Basic Roleplaying system created by Steve Perrin, Steve Henderson, 
 
 **Special Thanks** Ken St. Andre, Ken Austin, William Barton, Bill Dunn, Ken Finlayson, Mark L. Gambler, Sam Johnson, William Jones, Rodney Leary, Ben Monroe, Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison, and Richard Watts
 
+## Publication Data
+
 Published in the United States of America by Chaosium Inc.
 
 3450 Wooddale Court, Ann Arbor, MI 48104
@@ -30,9 +32,9 @@ Basic Roleplaying is the trademark of Chaosium Inc.
 
 Chaosium Inc. and the Chaosium logo are registered trademarks of Chaosium Inc.
 
-This product is licensed under the ORC License held in the Library of Congress at TX000 [number tbd] and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense), www.azoralaw.com/orclicense, www.gencon.com/orclicense and others. All warranties are disclaimed as set forth therein.
+## ORC Notice
 
-This product is the original work of Chaosium.
+This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including [www.chaosium.com/orclicense](https://www.chaosium.com/orclicense), [www.azoralaw.com/orclicense](https://www.azoralaw.com/orclicense), [www.paizo.com/orclicense](https://paizo.com/orclicense) and others. All warranties are disclaimed as set forth therein. This product is the original work of Chaosium.
 
 If you use our ORC Content, please also credit us as follows:
 
