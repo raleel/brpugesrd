@@ -1,0 +1,4 @@
+- [முகப்பு](/)
+- [எவ்வாறு விளையாடுவது](HowTo.md)
+- [மாற்றங்கள்](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)
