@@ -38,6 +38,6 @@ This product is licensed under the ORC License held in the Library of Congress a
 
 If you use our ORC Content, please also credit us as follows:
 
-![A red and white logo Description automatically generated](_media/BRP-UGE-Logo.png)
+![A red and white logo Description automatically generated](/_media/BRP-UGE-Logo.png)
 
 With a very few exceptions (trademarked terms), the text of BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE is available for personal and commercial use under the ORC license.

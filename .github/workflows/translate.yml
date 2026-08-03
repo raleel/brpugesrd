@@ -1,0 +1,141 @@
+name: Translate SRD Markdown
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Which English files to (re-)translate'
+        type: choice
+        default: 'all'
+        options:
+          - all
+          - changed-only
+      force_retranslate:
+        description: 'Redo languages that already have a translated file (default: skip them)'
+        type: boolean
+        default: false
+  push:
+    paths:
+      - 'rules/en/**.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Google Gen AI SDK
+        run: npm install @google/genai@latest
+
+      - name: Detect changed English markdown files
+        id: changes
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.event.after }}
+          DISPATCH_MODE: ${{ github.event.inputs.mode }}
+        run: |
+          set -e
+
+          EMPTY_TREE=$(git hash-object -t tree /dev/null)
+
+          if [ "$EVENT_NAME" = "push" ]; then
+            # Use the actual push event range so multi-commit pushes catch
+            # every modified English file, not just the latest commit.
+            BASE_REF="$BEFORE_SHA"
+            HEAD_REF="${AFTER_SHA:-HEAD}"
+
+            # BEFORE_SHA is all-zeros on a brand new branch's first push, and
+            # either SHA may be missing/unreachable (e.g. force-pushes that
+            # rewrote history). Fall back to the empty tree / HEAD^ in those cases.
+            if [ -z "$BASE_REF" ] || [[ "$BASE_REF" =~ ^0+$ ]] || ! git cat-file -e "$BASE_REF" 2>/dev/null; then
+              if git rev-parse HEAD^ >/dev/null 2>&1; then
+                BASE_REF="HEAD^"
+              else
+                BASE_REF="$EMPTY_TREE"
+              fi
+            fi
+            if [ -z "$HEAD_REF" ] || ! git cat-file -e "$HEAD_REF" 2>/dev/null; then
+              HEAD_REF="HEAD"
+            fi
+
+            echo "Diffing $BASE_REF..$HEAD_REF"
+            FILES=$(git diff --name-only --diff-filter=ACM "$BASE_REF" "$HEAD_REF" -- 'rules/en/*.md' || true)
+          elif [ "$DISPATCH_MODE" = "changed-only" ]; then
+            # Manual run, but the user explicitly asked to only pick up
+            # whatever changed in the most recent commit.
+            if git rev-parse HEAD^ >/dev/null 2>&1; then
+              BASE_REF="HEAD^"
+            else
+              BASE_REF="$EMPTY_TREE"
+            fi
+            echo "Diffing $BASE_REF..HEAD"
+            FILES=$(git diff --name-only --diff-filter=ACM "$BASE_REF" HEAD -- 'rules/en/*.md' || true)
+          else
+            # Manual run with the default "all" mode: backfill every English
+            # file, regardless of whether it changed recently. This is what
+            # catches languages that never got translated in the first place
+            # (e.g. because an earlier run hit a rate limit or quota error).
+            echo "Manual dispatch in 'all' mode: translating every rules/en/*.md file."
+            FILES=$(git ls-files 'rules/en/*.md')
+          fi
+
+          echo "Changed English markdown files:"
+          echo "$FILES"
+
+          if [ -z "$FILES" ]; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            {
+              echo 'files<<TRANSLATE_FILES_EOF'
+              echo "$FILES"
+              echo 'TRANSLATE_FILES_EOF'
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: No English changes detected
+        if: steps.changes.outputs.has_changes != 'true'
+        run: echo "No files changed under rules/en/. Skipping translation run."
+
+      - name: Translate changed files with Gemini
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CHANGED_FILES: ${{ steps.changes.outputs.files }}
+          FORCE_RETRANSLATE: ${{ github.event.inputs.force_retranslate }}
+          DISPATCH_MODE: ${{ github.event.inputs.mode }}
+        run: node .github/scripts/translate.mjs
+
+      - name: Commit and push any remaining translated files
+        if: always() && steps.changes.outputs.has_changes == 'true'
+        run: |
+          set -e
+          # Safety net only: translate.mjs now commits and pushes
+          # incrementally after each English file finishes, so this should
+          # normally be a no-op. It's kept in case anything was left
+          # uncommitted (e.g. the job was killed mid-file).
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rules/
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit."
+          else
+            git commit -m "chore: auto-translate updated SRD markdown files"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
