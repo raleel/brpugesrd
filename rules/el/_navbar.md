@@ -1,0 +1,4 @@
+- [Αρχική](/)
+- [Πώς να παίξετε](HowTo.md)
+- [Αρχείο αλλαγών](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)

@@ -1,0 +1,4 @@
+- [Home](/)
+- [Paano Gamitin](HowTo.md)
+- [Changelog](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)
