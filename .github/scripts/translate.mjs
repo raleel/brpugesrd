@@ -287,7 +287,7 @@ async function translateOne(ai, protectedText, lang) {
     },
   });
 
-  const text = response.text;
+  const text = extractTextFromResponse(response);
   if (!text || !text.trim()) {
     throw new Error("Empty response from Gemini API");
   }
@@ -365,6 +365,39 @@ function formatBatchError(error) {
 }
 
 /**
+ * Extracts translated text from a batch job's inline response.
+ *
+ * `response.text` is a convenience getter that only exists on the SDK's
+ * live GenerateContentResponse *class instance* returned by
+ * `ai.models.generateContent()`. Batch inline responses (from
+ * `ai.batches.get()`) are plain deserialized JSON objects, not instances of
+ * that class, so `.text` is always `undefined` on them even though the
+ * actual generated text is present -- it just needs to be pulled out of
+ * `candidates[0].content.parts[].text` manually. We still try `.text` first
+ * in case a future SDK version normalizes this, then fall back to walking
+ * the raw candidate/parts structure.
+ */
+function extractTextFromResponse(response) {
+  if (!response) return "";
+  if (typeof response.text === "string" && response.text.trim()) {
+    return response.text;
+  }
+
+  const candidates = response.candidates;
+  if (Array.isArray(candidates)) {
+    for (const candidate of candidates) {
+      const parts = candidate?.content?.parts;
+      if (Array.isArray(parts)) {
+        const text = parts.map((part) => part?.text || "").join("");
+        if (text.trim()) return text;
+      }
+    }
+  }
+
+  return "";
+}
+
+/**
  * Submits every language still needed for one English file as a single
  * Gemini Batch API job (one inline request per language), polls it to
  * completion, and returns a Map<lang, {ok, text} | {ok:false, error}>.
@@ -412,16 +445,27 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
   }
 
   const results = new Map();
+  let loggedRawSample = false;
 
   inlinedResponses.forEach((inlineResponse, index) => {
     const lang = languagesToTranslate[index];
     const customId = customIds[index];
 
     if (inlineResponse.response) {
-      const text = inlineResponse.response.text;
+      const text = extractTextFromResponse(inlineResponse.response);
       if (text && text.trim()) {
         results.set(lang, { ok: true, text });
       } else {
+        if (!loggedRawSample) {
+          // First empty result in this batch: dump the raw response once so
+          // a genuinely new response shape (not just the known .text-getter
+          // gap) is easy to spot in the workflow logs.
+          console.warn(
+            `Raw inline response sample for ${customId} (debugging empty result): ` +
+            JSON.stringify(inlineResponse.response, null, 2).slice(0, 2000)
+          );
+          loggedRawSample = true;
+        }
         results.set(lang, { ok: false, error: new Error(`Empty response from Gemini batch API (${customId})`) });
       }
     } else {
