@@ -181,7 +181,7 @@
         var queryIndex = route.indexOf('?');
         var path = queryIndex === -1 ? route : route.slice(0, queryIndex);
         var segments = path.split('/').filter(Boolean);
-        var docPath = 'README';
+        var docPath = '0000_Front_Matter';
 
         if (segments.length === 0) {
           return docPath;
@@ -191,14 +191,14 @@
           if (segments.length >= 3) {
             docPath = segments.slice(2).join('/');
           } else {
-            docPath = 'README';
+            docPath = '0000_Front_Matter';
           }
         } else {
           docPath = segments.join('/');
         }
 
         if (!docPath || docPath === 'index' || docPath === 'index.html') {
-          docPath = 'README';
+          docPath = '0000_Front_Matter';
         }
 
         return docPath.replace(/\.md$/i, '');
@@ -220,7 +220,7 @@
       };
 
       var languageHasCoreFiles = function (lang) {
-        return languageFileExists('/rules/' + lang + '/README.md') &&
+        return languageFileExists('/rules/' + lang + '/0000_Front_Matter.md') &&
           languageFileExists('/rules/' + lang + '/_sidebar.md');
       };
 
@@ -383,9 +383,9 @@
         repo: 'raleel/brpugesrd',
 
         // Explicit fallback: if no language/file is specified in the URL
-        // (empty hash), load the current language's README instead of
-        // hanging indefinitely.
-        homepage: '/rules/' + (window.currentLang || 'en') + '/README.md',
+        // (empty hash), load the current language's Front Matter page
+        // (the site's default landing page) instead of hanging indefinitely.
+        homepage: '/rules/' + (window.currentLang || 'en') + '/0000_Front_Matter.md',
 
         // Show a friendly, on-screen "not found" message (see _404.md) with
         // a retry link instead of leaving the "Loading..." spinner stuck
