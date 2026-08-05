@@ -1,0 +1,4 @@
+- [Koti](/)
+- [Ohjeet](HowTo.md)
+- [Muutosloki](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)

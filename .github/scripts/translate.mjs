@@ -16,6 +16,7 @@ const TARGET_LANGUAGES = [
   "es", "fr", "it", "el", "zh-CN", "ar", "fa", "ur", "he", "ps", "ku", "dv",
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
   "tl", "bg", "bn", "te", "mr", "ta", "sw", "ha", "ms", "th", "my", "pt",
+  "lt", "lv", "et", "fi", "sv", "no", "da", "is",
 ];
 
 // gemini-2.5-flash-lite returned a hard 404 ("no longer available to new
