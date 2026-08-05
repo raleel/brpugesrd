@@ -40,7 +40,7 @@ Produk ini dilesenkan di bawah Lesen ORC yang disimpan di Library of Congress di
 
 Jika anda menggunakan Kandungan ORC kami, sila berikan kredit kepada kami seperti berikut:
 
-![Logo Dikuasakan oleh BRP](/_media/BRP-UGE-Logo.png)
+![Logo Dikuasakan oleh BRP](../../_media/BRP-UGE-Logo.png)
 
 Logo Dikuasakan oleh BRP
 

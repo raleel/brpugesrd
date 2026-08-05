@@ -40,7 +40,7 @@ Chaosium Inc.およびChaosiumのロゴは、Chaosium Inc.の登録商標です�
 
 当社のORCコンテンツを使用する場合は、以下のようにクレジットを記載してください。
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

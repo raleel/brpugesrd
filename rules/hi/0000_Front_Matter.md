@@ -40,7 +40,7 @@ chaosium.com
 
 यदि आप हमारे ओआरसी (ORC) कंटेंट का उपयोग करते हैं, तो कृपया हमें निम्नानुसार क्रेडिट दें:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 पावर्ड बाय बीआरपी (Powered by BRP) लोगो
 

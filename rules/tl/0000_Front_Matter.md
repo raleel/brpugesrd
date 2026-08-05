@@ -40,7 +40,7 @@ Ang produktong ito ay lisensyado sa ilalim ng Lisensyang ORC na hawak ng Library
 
 Kung gagamitin mo ang aming Nilalamang ORC, mangyaring kilalanin din kami gaya ng sumusunod:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Logo ng Powered by BRP
 

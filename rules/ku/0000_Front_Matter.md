@@ -40,7 +40,7 @@ Ev berhem di bin destûra ORC License de ye, ku di Pirtûkxaneya Kongreyê de bi
 
 Ger hûn Naveroka me ya ORC bikar bînin, ji kerema xwe me jî bi vî rengî biqedînin:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Logoya Powered by BRP
 

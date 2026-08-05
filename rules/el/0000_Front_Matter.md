@@ -40,7 +40,7 @@ UNIVERSAL GAME ENGINE
 
 Εάν χρησιμοποιείτε το Περιεχόμενο ORC μας, παρακαλούμε να μας αναφέρετε επίσης ως εξής:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

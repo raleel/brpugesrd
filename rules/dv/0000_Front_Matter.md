@@ -40,7 +40,7 @@ Chaosium Inc. އަދި Chaosium ލޯގޯ އަކީ Chaosium Inc. ގެ ރަޖިސ�
 
 އަޅުގަނޑުމެންގެ ORC ކޮންޓެންޓް ބޭނުންކުރައްވާނަމަ، ޝުކުރުއަދާކުރައްވާއިރު ތިރީގައިވާ ގޮތަށް ކްރެޑިޓް ދެއްވުން އެދެމެވެ:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

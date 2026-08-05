@@ -40,7 +40,7 @@ Chaosium Inc. आणि Chaosium लोगो हे Chaosium Inc. चे नो
 
 जर तुम्ही आमचा ORC आशय वापरत असाल, तर कृपया आम्हाला खालीलप्रमाणे श्रेय द्या:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 पॉवर्ड बाय बीआरपी (Powered by BRP) लोगो
 

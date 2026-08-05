@@ -40,7 +40,7 @@ Chaosium Inc. وشعار Chaosium هما علامتان تجاريتان مسج�
 
 إذا استخدمت محتوى ORC الخاص بنا، يرجى أيضاً ذكرنا على النحو التالي:
 
-![شعار Powered by BRP](/_media/BRP-UGE-Logo.png)
+![شعار Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 شعار Powered by BRP
 

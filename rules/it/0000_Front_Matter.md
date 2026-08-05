@@ -40,7 +40,7 @@ Questo prodotto è concesso in licenza sotto la Licenza ORC depositata presso la
 
 Se utilizzi il nostro Contenuto ORC, ti preghiamo di citarci come segue:
 
-![Logo Powered by BRP](/_media/BRP-UGE-Logo.png)
+![Logo Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 Logo Powered by BRP
 

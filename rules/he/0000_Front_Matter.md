@@ -40,7 +40,7 @@ Chaosium Inc. והלוגו של Chaosium הם סימנים מסחריים רשו
 
 אם אתה משתמש בתוכן ה-ORC שלנו, אנא ציין גם אותנו כקרדיט באופן הבא:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 לוגו Powered by BRP
 

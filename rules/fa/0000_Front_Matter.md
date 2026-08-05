@@ -40,7 +40,7 @@ Chaosium Inc. و لوگوی Chaosium علائم تجاری ثبت شده Chaosiu
 
 اگر از محتوای ORC ما استفاده می‌کنید، لطفاً ما را نیز به شرح زیر ذکر کنید:
 
-![لوگوی Powered by BRP](/_media/BRP-UGE-Logo.png)
+![لوگوی Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 لوگوی Powered by BRP
 

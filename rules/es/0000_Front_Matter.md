@@ -40,7 +40,7 @@ Este producto está bajo la Licencia ORC depositada en la Biblioteca del Congres
 
 Si utiliza nuestro Contenido ORC, por favor asígnenos el crédito de la siguiente manera:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Logotipo "Powered by BRP"
 

@@ -40,7 +40,7 @@ Chaosium Inc. и логото на Chaosium са регистрирани тър
 
 Ако използвате нашето ORC съдържание, моля, посочете ни като източник, както следва:
 
-![Лого Powered by BRP](/_media/BRP-UGE-Logo.png)
+![Лого Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 Лого Powered by BRP
 

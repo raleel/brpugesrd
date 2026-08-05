@@ -40,7 +40,7 @@ Chaosium Inc. 和 Chaosium 标志是 Chaosium Inc. 的注册商标。
 
 如果您使用我们的 ORC 内容，请按照以下方式注明我们：
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

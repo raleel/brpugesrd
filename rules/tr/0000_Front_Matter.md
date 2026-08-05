@@ -40,7 +40,7 @@ Bu ürün, Kongre Kütüphanesi'nde TX-307-067 numarasıyla kayıtlı olan ve ç
 
 ORC İçeriğimizi kullanırsanız, lütfen bize aşağıdaki şekilde atıfta bulunun:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logosu
 

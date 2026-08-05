@@ -40,7 +40,7 @@ This product is licensed under the ORC License held in the Library of Congress a
 
 If you use our ORC Content, please also credit us as follows:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

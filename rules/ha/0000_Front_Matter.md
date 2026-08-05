@@ -40,7 +40,7 @@ Wannan samfurin yana ƙarƙashin lasisin ORC wanda ke ajiye a Library of Congres
 
 Idan ka yi amfani da Abubuwanmu na ORC, don Allah ka ba mu kiredit kamar haka:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

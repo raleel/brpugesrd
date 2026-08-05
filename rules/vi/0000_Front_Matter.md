@@ -40,7 +40,7 @@ Sản phẩm này được cấp phép theo Giấy phép ORC được lưu trữ
 
 Nếu bạn sử dụng Nội dung ORC của chúng tôi, vui lòng ghi nhận chúng tôi như sau:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

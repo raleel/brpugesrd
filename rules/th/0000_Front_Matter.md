@@ -40,7 +40,7 @@ Chaosium Inc. และโลโก้ Chaosium เป็นเครื่อ�
 
 หากคุณใช้เนื้อหา ORC ของเรา โปรดให้เครดิตเราดังนี้:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

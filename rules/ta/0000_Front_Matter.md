@@ -40,7 +40,7 @@ Basic Roleplaying என்பது கேயாசியம் இன்க்
 
 எங்கள் ORC உள்ளடக்கத்தைப் பயன்படுத்தினால், தயவுசெய்து எங்களையும் பின்வருமாறு குறிப்பிடுங்கள்:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

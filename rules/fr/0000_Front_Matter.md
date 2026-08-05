@@ -40,7 +40,7 @@ Ce produit est sous licence ORC, enregistrée à la Bibliothèque du Congrès so
 
 Si vous utilisez notre Contenu ORC, veuillez également nous créditer comme suit :
 
-![Logo Powered by BRP](/_media/BRP-UGE-Logo.png)
+![Logo Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 Logo Powered by BRP
 

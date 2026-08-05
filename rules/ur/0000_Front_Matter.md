@@ -40,7 +40,7 @@ Chaosium Inc. اور Chaosium کا لوگو Chaosium Inc. کے رجسٹرڈ ٹر
 
 اگر آپ ہمارے ORC مواد کا استعمال کرتے ہیں، تو براہ کرم ہمیں درج ذیل طریقے سے کریڈٹ دیں:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

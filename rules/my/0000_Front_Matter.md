@@ -40,7 +40,7 @@ Chaosium Inc. နှင့် Chaosium တံဆိပ်သည် Chaosium Inc.
 
 ကျွန်ုပ်တို့၏ ORC Content ကို သင်အသုံးပြုပါက ကျွန်ုပ်တို့ကို အောက်ပါအတိုင်း အသိအမှတ်ပြုပေးပါရန်-
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

@@ -40,7 +40,7 @@ Chaosium Inc. 및 Chaosium 로고는 Chaosium Inc.의 등록 상표입니다.
 
 저희의 ORC 콘텐츠를 사용하는 경우, 다음과 같이 출처를 명시해 주십시오:
 
-![Powered by BRP 로고](/_media/BRP-UGE-Logo.png)
+![Powered by BRP 로고](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP 로고
 

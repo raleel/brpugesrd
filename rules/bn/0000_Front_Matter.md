@@ -40,7 +40,7 @@ Chaosium Inc. और Chaosium लोगो Chaosium Inc. के पंजीक�
 
 यदि आप हमारी ORC सामग्री का उपयोग करते हैं, तो कृपया हमें इस प्रकार श्रेय दें:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Powered by BRP Logo
 

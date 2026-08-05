@@ -40,7 +40,7 @@ Bidhaa hii ina leseni chini ya Leseni ya ORC inayoshikiliwa katika Library of Co
 
 Ikiwa utatumia Maudhui yetu ya ORC, tafadhali ututaje pia kama ifuatavyo:
 
-![Powered by BRP Logo](/_media/BRP-UGE-Logo.png)
+![Powered by BRP Logo](../../_media/BRP-UGE-Logo.png)
 
 Nembo ya Powered by BRP
 
