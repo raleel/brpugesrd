@@ -1,0 +1,4 @@
+- [Avaleht](/)
+- [Kuidas mängida](HowTo.md)
+- [Muudatuste logi](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)

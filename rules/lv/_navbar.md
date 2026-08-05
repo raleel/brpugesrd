@@ -1,0 +1,4 @@
+- [Sākums](/)
+- [Kā spēlēt](HowTo.md)
+- [Izmaiņu žurnāls](Changelog.md)
+- [GitHub](https://github.com/raleel/brpugesrd)
