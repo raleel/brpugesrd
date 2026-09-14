@@ -1129,7 +1129,7 @@ Bagian sulit sudah berakhir—sekarang kesenangan bisa dimulai!
 > 
 > **Agama:** Dewa atau dewa apa yang disembah secara umum di wilayah ini? Jika Kesetiaan memainkan peran dalam kampanye, maka agama harus disertakan.
 > 
-> **Senjata dan Armor:** Dalam latar sejarah atau fantasi, senjata dan baju besi gaya abad pertengahan sering kali sangat berbeda dari negara ke negara, dan tentara dari setiap negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan semakin modernnya latar, meskipun gamemaster Anda dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
+> **Senjata dan Zirah:** Dalam latar sejarah atau fantasi, senjata dan Zirah gaya abad pertengahan sering kali sangat berbeda dari negara ke negara, dan tentara dari setiap negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan semakin modernnya latar, meskipun gamemaster Anda dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
 > 
 > **Keterampilan Budaya:** Beberapa keterampilan mungkin umum diajarkan dan digunakan dalam budaya ini sebagai bagian dari sosialisasi dan pendidikan umum. Atas kebijaksanaan gamemaster Anda, keterampilan ini mungkin mendapatkan bonus kecil. Jika bonus untuk keterampilan digunakan, disarankan agar setiap budaya mendapatkan bonus yang setara, meskipun untuk serangkaian keterampilan yang berbeda.
 > 

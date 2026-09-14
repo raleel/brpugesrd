@@ -56,11 +56,11 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 **Luka Fatal (Fatal Wound):** Luka yang menghabiskan poin nyawa karakter Anda lebih banyak daripada yang mereka miliki saat ini. Tanpa intervensi (medis atau lainnya), kematian akan tiba di akhir putaran tempur berikutnya.
 
-**Poin Kelelahan (Fatigue Points):** Sistem opsional, menggunakan karakteristik Kekuatan dan Konstitusi karakter Anda untuk menentukan berapa lama mereka dapat menahan aktivitas fisik yang berat sebelum kelelahan.
+**Poin Kelelahan (Kelelahan Points):** Sistem opsional, menggunakan karakteristik Kekuatan dan Konstitusi karakter Anda untuk menentukan berapa lama mereka dapat menahan aktivitas fisik yang berat sebelum kelelahan.
 
 **Putaran Penuh (Full Turn):** Periode yang terdiri dari 25 putaran tempur, setara dengan lima menit waktu dunia permainan.
 
-**Fumble:** Lemparan 99 dan/atau 00 saat meluncurkan dadu persentil untuk menentukan keberhasilan. Umumnya, ketika *fumble* diindikasikan, sesuatu yang buruk terjadi di luar kegagalan sederhana.
+**Kegagalan Mutlak:** Lemparan 99 dan/atau 00 saat meluncurkan dadu persentil untuk menentukan keberhasilan. Umumnya, ketika *Kegagalan Mutlak* diindikasikan, sesuatu yang buruk terjadi di luar kegagalan sederhana.
 
 **Gamemaster (GM):** Direktur, atau pemandu permainan, yang membantu Anda membuat karakter, merancang petualangan, dan merepresentasikan dunia di luar karakter Anda, meluncurkan dadu untuk karakter non-pemain dan kekuatan lawan.
 
@@ -112,7 +112,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 **Tabel Resistensi (Resistance Table):** Tabel yang menunjukkan rasio karakteristik versus karakteristik. Untuk menggunakan tabel resistensi, temukan kekuatan lawan pada kolom vertikal, kekuatan yang menahan pada kolom horizontal, lalu referensikan silang untuk menemukan kemungkinan keberhasilan, yang dinyatakan sebagai peluang persentil.
 
-**Lemparan (Roll):** Lemparan menggunakan D100 untuk menentukan apakah upaya melakukan keahlian, kemampuan, atau kekuatan berhasil. Hasil dari lemparan keahlian adalah **keberhasilan kritis**, **keberhasilan khusus**, **keberhasilan**, **kegagalan**, atau **fumble**. Cara tambahan untuk menentukan kualitas keberhasilan disajikan dalam aturan opsional.
+**Lemparan (Roll):** Lemparan menggunakan D100 untuk menentukan apakah upaya melakukan keahlian, kemampuan, atau kekuatan berhasil. Hasil dari lemparan keahlian adalah **keberhasilan kritis**, **keberhasilan khusus**, **keberhasilan**, **kegagalan**, atau **Kegagalan Mutlak**. Cara tambahan untuk menentukan kualitas keberhasilan disajikan dalam aturan opsional.
 
 **Kewarasan (Sanity):** Sistem opsional di mana kesehatan mental karakter Anda diukur berdasarkan kapasitas mereka untuk menahan pemandangan, peristiwa, dan wahyu yang mengerikan. Semakin rendah Kewarasan, semakin berkurang pemahaman terhadap realitas. Jika karakter Anda kehilangan terlalu banyak Kewarasan sekaligus, mereka bisa menjadi gila sementara atau permanen.
 
@@ -124,7 +124,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 ***Sebagai contoh,*** *karakter dengan 70% dalam suatu keahlian yang meluncurkan 14 atau lebih rendah telah mencapai keberhasilan khusus.*
 
-**Keberhasilan (Success):** Hasil dari lemparan dadu persentase di mana karakter Anda melakukan tugas tersebut dengan memadai, dan mencapai kualitas keberhasilan rata-rata. Jika lemparan sangat rendah, itu mungkin merupakan **keberhasilan khusus** atau **keberhasilan kritis**, seperti yang dijelaskan di atas. Jika di atas peringkat kemampuan, biasanya itu adalah **kegagalan**. Jika sangat tinggi, seperti 00, itu mungkin merupakan **fumble**.
+**Keberhasilan (Success):** Hasil dari lemparan dadu persentase di mana karakter Anda melakukan tugas tersebut dengan memadai, dan mencapai kualitas keberhasilan rata-rata. Jika lemparan sangat rendah, itu mungkin merupakan **keberhasilan khusus** atau **keberhasilan kritis**, seperti yang dijelaskan di atas. Jika di atas peringkat kemampuan, biasanya itu adalah **kegagalan**. Jika sangat tinggi, seperti 00, itu mungkin merupakan **Kegagalan Mutlak**.
 
 ***Sebagai contoh,*** *jika karakter Anda memiliki 70% dalam suatu keahlian, dan meluncurkan 70 atau lebih rendah, mereka telah berhasil.*
 

@@ -84,7 +84,7 @@ Aturan-aturan ini mengasumsikan bahwa setiap pemain memiliki akses ke sumber day
 
 * **Kekuatan Jelas vs. Intrinsik:** Banyak kekuatan bersifat halus, dan dapat didefinisikan hanya sebagai bakat luar biasa, atau kemampuan atau pelatihan superlatif. Banyak kekuatan dapat dijelaskan sebagai hasil alami dari pelatihan yang ditingkatkan, kemampuan khusus, penguasaan intens, atau disiplin mental atau fisik yang luar biasa.
 
-* **Peralatan:** Anda dapat mengganti item fisik dengan kekuatan. Bab Delapan: Peralatan mencakup pembuatan senjata, baju besi, kendaraan, dan peralatan lain yang mungkin memiliki kekuatan dan keterampilan sendiri, dengan aturan tentang bagaimana mereka dapat dibeli seperti kekuatan. Karakter mungkin memiliki keunggulan lain seperti pangkalan rahasia, kekayaan besar, pasukan pengikut setia, atau sumber daya lainnya. Beberapa pedoman ada di bagian peralatan, meskipun jenis keunggulan ini paling baik ditangani antara Anda dan game master Anda.
+* **Peralatan:** Anda dapat mengganti item fisik dengan kekuatan. Bab Delapan: Peralatan mencakup pembuatan senjata, Zirah, kendaraan, dan peralatan lain yang mungkin memiliki kekuatan dan keterampilan sendiri, dengan aturan tentang bagaimana mereka dapat dibeli seperti kekuatan. Karakter mungkin memiliki keunggulan lain seperti pangkalan rahasia, kekayaan besar, pasukan pengikut setia, atau sumber daya lainnya. Beberapa pedoman ada di bagian peralatan, meskipun jenis keunggulan ini paling baik ditangani antara Anda dan game master Anda.
 
 Dengan satu atau lebih metode ini yang digunakan, karakter yang tampaknya tidak berkekuatan seharusnya dapat dibuat bersama karakter yang jelas memiliki berbagai kekuatan.
 
@@ -158,7 +158,7 @@ Sihir dapat dipelajari dari instruktur dan ditingkatkan melalui pengalaman. Jika
 
 ### Biaya Sihir
 
-Perapalan mantra sihir selalu ada biayanya. Mantra sihir juga dapat dirapalkan dalam kenaikan, yang disebut level. Umumnya, setiap level membutuhkan 1 poin kekuatan untuk dirapalkan. Beberapa mantra membutuhkan lebih dari 1 poin kekuatan per level. Jika seorang penyihir dikurangi menjadi 0 poin kekuatan, mereka jatuh pingsan. Aturan normal untuk poin kekuatan berlaku untuk setiap poin kekuatan yang hilang melalui perapalan mantra. Bahkan jika lemparan untuk merapalkan mantra adalah kegagalan, mantra tersebut memakan biaya 1 poin kekuatan. Jika lemparan gagal total (fumble), mantra tersebut memakan biaya yang sama seolah-olah itu adalah keberhasilan (memakan biaya jumlah level dalam mantra).
+Perapalan mantra sihir selalu ada biayanya. Mantra sihir juga dapat dirapalkan dalam kenaikan, yang disebut level. Umumnya, setiap level membutuhkan 1 poin kekuatan untuk dirapalkan. Beberapa mantra membutuhkan lebih dari 1 poin kekuatan per level. Jika seorang penyihir dikurangi menjadi 0 poin kekuatan, mereka jatuh pingsan. Aturan normal untuk poin kekuatan berlaku untuk setiap poin kekuatan yang hilang melalui perapalan mantra. Bahkan jika lemparan untuk merapalkan mantra adalah kegagalan, mantra tersebut memakan biaya 1 poin kekuatan. Jika lemparan gagal total (Kegagalan Mutlak), mantra tersebut memakan biaya yang sama seolah-olah itu adalah keberhasilan (memakan biaya jumlah level dalam mantra).
 
 Poin kekuatan beregenerasi sesuai dengan **Tabel Tingkat Pemulihan Poin Kekuatan**. Biasanya, ini adalah 1 per jam jika tidur dan 1 per 2 jam jika terjaga dan aktif.
 
@@ -252,7 +252,7 @@ Jika karakter tidak memulai permainan sebagai penyihir atau tidak memiliki akses
 
 Karena setiap mantra menggunakan lemparan untuk menentukan keberhasilan atau kegagalan, tingkat keberhasilan juga dapat mengukur kualitas lemparan mantra sihir. Namun, tidak seperti keterampilan, mantra sihir tidak sederhana dalam bagaimana efeknya harus diterapkan berdasarkan hasil lemparan. Banyak mantra sihir memiliki efek yang "hidup" atau "mati", tanpa perbedaan antara kritis, keberhasilan khusus, dan keberhasilan normal. Game master Anda harus mempertimbangkan sifat mantra dan potensi efeknya saat memutuskan hasil ini. Berikut adalah panduan untuk tingkat keberhasilan dan bagaimana mereka dapat diterapkan pada mantra sihir:
 
-* **Fumble:** Semua poin kekuatan yang dimaksudkan untuk dihabiskan pada mantra akan hilang. Selain itu, penyihir tidak dapat mencoba menggunakan mantra ini selama satu ronde tempur setelah ronde mantra gagal. Jika mantra melibatkan pemberian kerusakan, penyihir harus melakukan lemparan Keberuntungan: keberhasilan menunjukkan bahwa mantra hanya gagal dan tidak bekerja, sementara kegagalan menunjukkan bahwa mantra mengenai target yang tidak diinginkan (pengamat yang tidak bersalah, sekutu, peralatan berharga, dll.) menyebabkan kerusakan tambahan dan berpotensi memperumit situasi.
+* **Kegagalan Mutlak:** Semua poin kekuatan yang dimaksudkan untuk dihabiskan pada mantra akan hilang. Selain itu, penyihir tidak dapat mencoba menggunakan mantra ini selama satu ronde tempur setelah ronde mantra gagal. Jika mantra melibatkan pemberian kerusakan, penyihir harus melakukan lemparan Keberuntungan: keberhasilan menunjukkan bahwa mantra hanya gagal dan tidak bekerja, sementara kegagalan menunjukkan bahwa mantra mengenai target yang tidak diinginkan (pengamat yang tidak bersalah, sekutu, peralatan berharga, dll.) menyebabkan kerusakan tambahan dan berpotensi memperumit situasi.
 
 * **Kegagalan:** Mantra tidak bekerja tetapi tidak menyebabkan bahaya atau komplikasi. Satu poin kekuatan dihabiskan, tetapi mantra tidak memiliki efek yang berguna.
 
@@ -264,7 +264,7 @@ Misalnya, *lemparan keberhasilan khusus untuk mantra Petir mungkin menyebabkan k
 
 Atas kebijakan game master Anda, aspek lain dari mantra (jarak, pengaruh, dll.) mungkin menikmati efek 150%. Alternatifnya, jika mantra memerlukan lemparan perlawanan, tingkatkan level mantra sebesar ×1.5.
 
-* **Kritis:** Mantra bekerja dengan sempurna. Jika menyebabkan kerusakan, itu mengabaikan baju besi apa pun yang dimiliki target dan melakukan kerusakan maksimum yang mungkin. Jika biasanya tidak menyebabkan kerusakan, game master Anda harus menentukan aspek (atau aspek) mantra yang sesuai dan menggandakan efektivitasnya. Alternatifnya, jika mantra melibatkan lemparan perlawanan, game master Anda mungkin untuk sementara menggandakan level kekuatan atau karakteristik yang relevan untuk lemparan perlawanan.
+* **Kritis:** Mantra bekerja dengan sempurna. Jika menyebabkan kerusakan, itu mengabaikan Zirah apa pun yang dimiliki target dan melakukan kerusakan maksimum yang mungkin. Jika biasanya tidak menyebabkan kerusakan, game master Anda harus menentukan aspek (atau aspek) mantra yang sesuai dan menggandakan efektivitasnya. Alternatifnya, jika mantra melibatkan lemparan perlawanan, game master Anda mungkin untuk sementara menggandakan level kekuatan atau karakteristik yang relevan untuk lemparan perlawanan.
 
 Hasil ini mungkin memerlukan interpretasi tambahan, atau game master Anda dapat menggunakan hasil lemparan dadu tanpa penyesuaian apa pun untuk tingkat keberhasilan. Ini harus diterapkan secara adil dan konsisten, dan para pemain harus diberitahu apakah tingkat keberhasilan terperinci digunakan.
 
@@ -378,7 +378,7 @@ Hasil ini mungkin memerlukan interpretasi tambahan, atau game master Anda dapat 
 > 
 > * **Persepsi (1):** Memungkinkan penyihir untuk mendeteksi satu hal dalam jangkauan.
 > 
-> * **Perlindungan (1):** Menambahkan 1 poin nilai baju besi per level terhadap serangan fisik.
+> * **Perlindungan (1):** Menambahkan 1 poin nilai Zirah per level terhadap serangan fisik.
 > 
 > * **Perlawanan (1):** Mengurangi kerusakan dari panas dan/atau dingin sebesar 1 poin per level.
 > 
@@ -420,7 +420,7 @@ Berikut adalah berbagai mantra dasar. Ini didefinisikan dengan cara berikut:
 
 **Biaya Poin Kekuatan per Level:** 3
 
-Gunakan mantra ini untuk menyerang satu target dengan sinar energi sihir. Target menerima 1D6 kerusakan per level. Dalam sebagian besar keadaan, baju besi non-sihir menyerap kerusakan, dan mantra ini dapat dihindari. Jika Ledakan ditangkis dengan perisai, perisai menerima kerusakan, dengan sisa apa pun diberikan kepada target.
+Gunakan mantra ini untuk menyerang satu target dengan sinar energi sihir. Target menerima 1D6 kerusakan per level. Dalam sebagian besar keadaan, Zirah non-sihir menyerap kerusakan, dan mantra ini dapat dihindari. Jika Ledakan ditangkis dengan perisai, perisai menerima kerusakan, dengan sisa apa pun diberikan kepada target.
 
 Kontramantra dapat menghentikan Ledakan, tetapi Perlindungan tidak bekerja. Perlawanan tidak bekerja terhadap Ledakan.
 
@@ -556,7 +556,7 @@ Gunakan mantra ini untuk mengatasi POW target dalam lemparan perlawanan dan mena
 
 Gunakan mantra ini untuk membuat pilar api yang melakukan 1D6 kerusakan api pada segala sesuatu dalam lingkaran berdiameter 1 meter. Banyak level dapat digunakan untuk mengatur beberapa api alih-alih satu api besar atau dapat menggabungkan efeknya.
 
-Target dapat mencoba menghindar keluar dari area yang terpengaruh. Kerusakan mantra diserap oleh baju besi, mantra Perlindungan, dan Perlawanan, tetapi Kontramantra tidak memiliki efek. Mantra hanya berlangsung satu ronde tempur kecuali dirapalkan pada atau mengonsumsi sesuatu yang mudah terbakar. Jika demikian, kobaran api berlanjut, merusak siapa pun atau apa pun di dalamnya dengan tingkat 1D4 poin per ronde tempur (lihat **Api dan Panas**).
+Target dapat mencoba menghindar keluar dari area yang terpengaruh. Kerusakan mantra diserap oleh Zirah, mantra Perlindungan, dan Perlawanan, tetapi Kontramantra tidak memiliki efek. Mantra hanya berlangsung satu ronde tempur kecuali dirapalkan pada atau mengonsumsi sesuatu yang mudah terbakar. Jika demikian, kobaran api berlanjut, merusak siapa pun atau apa pun di dalamnya dengan tingkat 1D4 poin per ronde tempur (lihat **Api dan Panas**).
 
 Level mantra ini dapat digunakan untuk membatalkan level Beku pada tabel perlawanan, tetapi Api tidak memiliki efek terhadap bentuk lain dari hawa dingin supranatural.
 
@@ -570,7 +570,7 @@ Level mantra ini dapat digunakan untuk membatalkan level Beku pada tabel perlawa
 
 Gunakan mantra ini untuk membuat pilar dingin yang intens yang melakukan 1D6 kerusakan dingin per level pada segala sesuatu dalam lingkaran berdiameter 1 meter. Banyak level dapat digunakan untuk mengatur beberapa area beku alih-alih satu area besar, atau dapat menggabungkan efeknya.
 
-Target dapat mencoba menghindar keluar dari area yang terpengaruh. Kerusakan mantra diserap oleh baju besi, mantra Perlindungan, dan Perlawanan, tetapi Kontramantra tidak memiliki efek. Mantra hanya berlangsung satu ronde tempur kecuali sesuatu yang rapuh dibekukan. Dalam kasus ini, benda rapuh tersebut dapat hancur (lihat **Dingin dan Paparan**).
+Target dapat mencoba menghindar keluar dari area yang terpengaruh. Kerusakan mantra diserap oleh Zirah, mantra Perlindungan, dan Perlawanan, tetapi Kontramantra tidak memiliki efek. Mantra hanya berlangsung satu ronde tempur kecuali sesuatu yang rapuh dibekukan. Dalam kasus ini, benda rapuh tersebut dapat hancur (lihat **Dingin dan Paparan**).
 
 Level mantra ini dapat digunakan untuk membatalkan level Api pada tabel perlawanan, tetapi Beku tidak memiliki efek terhadap bentuk lain dari api supranatural.
 
@@ -653,7 +653,7 @@ Gunakan mantra ini untuk menerangi lingkaran radius 3 meter per level. Cahaya in
 
 Gunakan mantra ini untuk melempar sambaran petir yang melakukan 1D6 kerusakan per level langsung ke poin nyawa target yang diinginkan (biasanya makhluk hidup). Jika dirapalkan, mantra akan mengenai jika tidak dihindari atau ditangkis. Jika dua target sama dekatnya, Petir menyerang target yang memakai atau memegang logam paling banyak. Kontramantra melindungi dari mantra, dan isolasi lain mungkin melindungi karakter (kebijaksanaan game master). Ketika digunakan pada objek logam, Petir memiliki peluang sama dengan POW penyihir dikalikan levelnya untuk merambat (dan melompat) sepanjang permukaan logam yang terhubung atau di dekatnya untuk menyerang karakter lain mana pun yang menyentuh permukaan logam untuk ½ kerusakan. Selain itu, itu bisa "menggoreng" peralatan elektronik apa pun yang ditargetkannya, menggunakan POW penyihir melawan poin nyawa item dalam lemparan perlawanan.
 
-Target dapat menghindar atau menangkis Petir dengan perisai. Menghindar petir adalah *Sulit* jika memakai baju besi logam, dan jika Petir ditangkis dengan sukses dengan perisai non-logam, perisai menerima kerusakan, dengan sisa kerusakan dibawa ke target. Menangkis Petir dengan perisai logam tidak ada gunanya, karena Petir mengalir melalui perisai dan ke target.
+Target dapat menghindar atau menangkis Petir dengan perisai. Menghindar petir adalah *Sulit* jika memakai Zirah logam, dan jika Petir ditangkis dengan sukses dengan perisai non-logam, perisai menerima kerusakan, dengan sisa kerusakan dibawa ke target. Menangkis Petir dengan perisai logam tidak ada gunanya, karena Petir mengalir melalui perisai dan ke target.
 
 #### Persepsi (Perception)
 
@@ -675,7 +675,7 @@ Misalnya, *Persepsi 2 dapat menemukan dua jebakan terdekat, atau mungkin menemuk
 
 **Biaya Poin Kekuatan per Level:** 1
 
-Gunakan mantra ini untuk menambahkan +1 poin per level ke nilai baju besi target (bahkan jika tidak ada baju besi yang dikenakan). Kontramantra apa pun yang dirapalkan pada target harus mengatasi mantra Perlindungan pada tabel perlawanan. Jika berhasil, kedua mantra tetap pada target dan berlaku. Atas kebijaksanaan game master Anda, mantra ini juga dapat memberikan perlindungan terhadap jenis kerusakan yang biasanya tidak diblokir oleh baju besi.
+Gunakan mantra ini untuk menambahkan +1 poin per level ke nilai Zirah target (bahkan jika tidak ada Zirah yang dikenakan). Kontramantra apa pun yang dirapalkan pada target harus mengatasi mantra Perlindungan pada tabel perlawanan. Jika berhasil, kedua mantra tetap pada target dan berlaku. Atas kebijaksanaan game master Anda, mantra ini juga dapat memberikan perlindungan terhadap jenis kerusakan yang biasanya tidak diblokir oleh Zirah.
 
 #### Perlawanan (Resistance)
 
@@ -691,7 +691,7 @@ Gunakan mantra ini untuk mendapatkan 1 poin perlawanan per level terhadap kerusa
 > 
 > Perlindungan dan Perlawanan tampaknya memiliki tujuan yang sama: menjaga karakter Anda agar tidak menerima kerusakan, tetapi keduanya berbeda.
 > 
-> * **Perlindungan** seperti baju besi dan dikurangi dari kerusakan fisik apa pun yang diambil, tetapi tidak efektif terhadap ekstrem lingkungan.
+> * **Perlindungan** seperti Zirah dan dikurangi dari kerusakan fisik apa pun yang diambil, tetapi tidak efektif terhadap ekstrem lingkungan.
 > 
 > * **Perlawanan** menurunkan jumlah kerusakan yang diambil dari ekstrem lingkungan (panas, dingin), tetapi tidak efektif terhadap serangan atau kerusakan fisik.
 > 
@@ -745,9 +745,9 @@ Gunakan Teleportasi untuk secara instan memindahkan 3 SIZ per level dari lokasi 
 
 Misalnya, *senjata dapat dipindahkan keluar dari sarung target, tetapi blok mesin tidak dapat keluar dari mobil.*
 
-Level tambahan di atas SIZ target dapat digunakan untuk meningkatkan jangkauan sebesar +1.000 meter tambahan. Jika target mantra terpasang pada sesuatu atau merupakan makhluk hidup yang tidak ingin dipindahkan, perapal harus mengatasi poin nyawa objek (atau nilai baju besi) vs. POW mereka pada tabel perlawanan. Untuk target hidup, POW target adalah kekuatan yang berlawanan. Target yang bersedia (seperti diri sendiri) tidak memerlukan lemparan perlawanan.
+Level tambahan di atas SIZ target dapat digunakan untuk meningkatkan jangkauan sebesar +1.000 meter tambahan. Jika target mantra terpasang pada sesuatu atau merupakan makhluk hidup yang tidak ingin dipindahkan, perapal harus mengatasi poin nyawa objek (atau nilai Zirah) vs. POW mereka pada tabel perlawanan. Untuk target hidup, POW target adalah kekuatan yang berlawanan. Target yang bersedia (seperti diri sendiri) tidak memerlukan lemparan perlawanan.
 
-Fumble mungkin mengirim item atau orang yang dipindahkan ke benda padat, mungkin bahkan di bawah tanah. Perapal harus mencoba lemparan Keberuntungan jika fumble telah dilempar. Jika lemparan Keberuntungan berhasil, tidak ada kerusakan atau efek buruk yang diambil, dan karakter atau objek yang dipindahkan nyaris lolos dari nasib buruk. Jika lemparan gagal, target yang tidak beruntung segera menerima 3D6 poin kerusakan dan menderita cedera dari **Tabel Luka Besar**, dimodifikasi sebagaimana mestinya.
+Kegagalan Mutlak mungkin mengirim item atau orang yang dipindahkan ke benda padat, mungkin bahkan di bawah tanah. Perapal harus mencoba lemparan Keberuntungan jika Kegagalan Mutlak telah dilempar. Jika lemparan Keberuntungan berhasil, tidak ada kerusakan atau efek buruk yang diambil, dan karakter atau objek yang dipindahkan nyaris lolos dari nasib buruk. Jika lemparan gagal, target yang tidak beruntung segera menerima 3D6 poin kerusakan dan menderita cedera dari **Tabel Luka Besar**, dimodifikasi sebagaimana mestinya.
 
 Mencoba Teleportasi musuh atau item ke struktur padat memberikan target peluang yang sama seperti yang dijelaskan di atas (lemparan Keberuntungan). Ini memakan biaya 3 poin kekuatan per level untuk secara sadar memindahkan sesuatu atau seseorang ke struktur atau objek padat (ditambah lemparan Kewarasan 0/1D3). Jika subjek teleportasi ke zat padat adalah item lain, game master Anda memutuskan apa yang terjadi. Makhluk hidup yang menyatu dengan item padat biasanya traumatis, dan target harus menemukan cara untuk melepaskan diri dari item atau struktur tersebut (seperti mantra Teleportasi lain). Kegagalan untuk melakukannya dapat menyebabkan Luka Besar apa pun (seperti di atas) memiliki efek permanen.
 
@@ -793,7 +793,7 @@ Dinding ini dapat dibentuk dalam bentuk sederhana apa pun yang diinginkan, seper
 
 Terlepas dari zat pembuatnya, Dinding memiliki 30 poin nyawa. Setiap level tambahan di atas dan di luar yang mendefinisikan ukurannya menambahkan +30 poin nyawa ke total poin nyawanya, meskipun penyerang umumnya hanya perlu menghancurkan satu atau dua segmen 1 meter untuk menciptakan ruang yang cukup untuk bergerak melaluinya. Pada akhir durasi mantra, Dinding larut, hancur, mencair, menyusut ke dalam bumi, atau berangsur-angsur menghilang, sebagaimana mestinya.
 
-Jika diinginkan, nilai 30 poin nyawa Dinding dapat didasarkan pada pedoman dalam tabel **Nilai Baju Besi Zat** dan **Contoh SIZ Objek**.
+Jika diinginkan, nilai 30 poin nyawa Dinding dapat didasarkan pada pedoman dalam tabel **Nilai Zirah Zat** dan **Contoh SIZ Objek**.
 
 #### Bangsal (Ward)
 
@@ -815,7 +815,7 @@ Hanya perapal yang dapat memindahkan objek bangsal tanpa mengganggu mantra. Namu
 
 **Biaya Poin Kekuatan per Level:** 3
 
-Gunakan mantra ini untuk menyebabkan 1D6 poin kerusakan sihir per level langsung ke target. Melukai memerlukan lemparan Berkelahi yang berhasil untuk menyentuh target dalam pertempuran, atau lemparan Kelincahan jika tidak dalam pertempuran. Kedua lemparan menjadi *Mudah* jika target tidak curiga. Baju besi tidak melindungi terhadap kerusakan ini, meskipun Perlindungan apa pun dikurangi dari kerusakan mantra. Serangan Berkelahi tidak melakukan kerusakan apa pun, terlepas dari kekuatan atau senjata apa yang digunakan, dan dapat ditangkis, dihindari, atau diblokir seperti serangan Berkelahi normal.
+Gunakan mantra ini untuk menyebabkan 1D6 poin kerusakan sihir per level langsung ke target. Melukai memerlukan lemparan Berkelahi yang berhasil untuk menyentuh target dalam pertempuran, atau lemparan Kelincahan jika tidak dalam pertempuran. Kedua lemparan menjadi *Mudah* jika target tidak curiga. Zirah tidak melindungi terhadap kerusakan ini, meskipun Perlindungan apa pun dikurangi dari kerusakan mantra. Serangan Berkelahi tidak melakukan kerusakan apa pun, terlepas dari kekuatan atau senjata apa yang digunakan, dan dapat ditangkis, dihindari, atau diblokir seperti serangan Berkelahi normal.
 
 ## Mutasi
 
@@ -875,7 +875,7 @@ Berikut adalah daftar mutasi standar. Mereka yang berlabel (**Merugikan**) adala
 > | 49–50 | Luminesensi | Memancarkan cahaya dari tubuh. |
 > | 51–53 | Peningkatan Metabolik | Memiliki metabolisme yang bermanfaat namun tidak biasa. |
 > | 54–57 | Kelemahan Metabolik\* | Memiliki metabolisme yang merugikan dan tidak biasa. |
-> | 58–60 | Baju Besi Alami | Memiliki baju besi alami (sisik, tanduk, kulit, dll.). |
+> | 58–60 | Zirah Alami | Memiliki Zirah alami (sisik, tanduk, kulit, dll.). |
 > | 61–65 | Senjata Alami | Memiliki senjata alami (tulang belakang, cakar, gigi, dll.). |
 > | 66–67 | Sensitivitas Nyeri\* | Resistensi rendah terhadap rasa sakit. |
 > | 68 | Feromon | Memancarkan bahan kimia yang dapat memengaruhi orang lain. |
@@ -895,7 +895,7 @@ Gunakan ini untuk langsung menyesuaikan dengan kondisi ekstrem tertentu, yang di
 
 #### Alergi
 
-(**Merugikan**) Ini menyebabkan hipersensitivitas terhadap zat, tanaman, atau hewan tertentu dari jenis yang dipilih selama pembuatan karakter. Kontak dengan zat ini menyebabkan reaksi yang tidak menyenangkan dan ekstrem (mual, kelemahan, kebutaan, dll.). Untuk mutasi kecil, kurangi –20% dari semua peringkat keterampilan saat bersentuhan dengan alergen, dan selama 15 menit sesudahnya. Untuk mutasi besar, menderita kerusakan 1D6 poin nyawa saat terpapar alergen sekali per 15 menit. Baju besi tidak melindungi terhadapnya, dan semua peringkat keterampilan berada pada –40% saat terpapar dan selama 15 menit setelahnya.
+(**Merugikan**) Ini menyebabkan hipersensitivitas terhadap zat, tanaman, atau hewan tertentu dari jenis yang dipilih selama pembuatan karakter. Kontak dengan zat ini menyebabkan reaksi yang tidak menyenangkan dan ekstrem (mual, kelemahan, kebutaan, dll.). Untuk mutasi kecil, kurangi –20% dari semua peringkat keterampilan saat bersentuhan dengan alergen, dan selama 15 menit sesudahnya. Untuk mutasi besar, menderita kerusakan 1D6 poin nyawa saat terpapar alergen sekali per 15 menit. Zirah tidak melindungi terhadapnya, dan semua peringkat keterampilan berada pada –40% saat terpapar dan selama 15 menit setelahnya.
 
 #### Biped (Quadruped)
 
@@ -1002,19 +1002,19 @@ Mutan memiliki kondisi metabolik yang tidak biasa namun menguntungkan, dikembang
 
 (**Merugikan**) Seperti halnya Peningkatan Metabolik, ini mewakili kondisi metabolik yang tidak biasa, mulai dari yang tidak nyaman hingga yang melemahkan, dikembangkan dengan persetujuan game master Anda. Bisa berupa masa hidup yang pendek, kebiasaan tidur yang tidak biasa (butuh lebih banyak tidur), nafsu makan yang rakus atau tidak biasa (sulit menemukan bahan makanan), atau pertumbuhan abnormal (mungkin menyusut alih-alih tumbuh, atau menua mundur). Versi kecil adalah ketidaknyamanan sementara versi besar adalah hambatan serius.
 
-#### Baju Besi Alami
+#### Zirah Alami
 
-Mutan memiliki kulit, sisik, cangkang, karapas, atau kulit keras yang sangat tangguh yang memberikan perlindungan. Mutasi kecil menawarkan baju besi 3 poin, dan versi besar adalah baju besi 6 poin. Baju besi apa pun yang dikenakan ditambahkan ke ini, meskipun mutasi besar mengharuskan baju besi menjadi sangat longgar atau disesuaikan. Versi kecil dari mutasi dapat disamarkan, sementara versi besar tidak dapat disembunyikan dengan mudah. Jika nilai baju besi acak digunakan, gunakan 1D3 untuk mutasi kecil, dan 1D3+3 untuk mutasi besar. Baju besi alami ini terutama melindungi terhadap kerusakan fisik, meskipun mungkin juga bekerja terhadap bentuk kerusakan tambahan, sebagaimana ditentukan oleh game master.
+Mutan memiliki kulit, sisik, cangkang, karapas, atau kulit keras yang sangat tangguh yang memberikan perlindungan. Mutasi kecil menawarkan Zirah 3 poin, dan versi besar adalah Zirah 6 poin. Zirah apa pun yang dikenakan ditambahkan ke ini, meskipun mutasi besar mengharuskan Zirah menjadi sangat longgar atau disesuaikan. Versi kecil dari mutasi dapat disamarkan, sementara versi besar tidak dapat disembunyikan dengan mudah. Jika nilai Zirah acak digunakan, gunakan 1D3 untuk mutasi kecil, dan 1D3+3 untuk mutasi besar. Zirah alami ini terutama melindungi terhadap kerusakan fisik, meskipun mungkin juga bekerja terhadap bentuk kerusakan tambahan, sebagaimana ditentukan oleh game master.
 
 #### Senjata Alami
 
-Mutan memiliki jenis senjata alami (cakar, gigi, tulang belakang, tanduk, dll.). Sebagai mutasi kecil menambahkan +1D6 kerusakan pada kerusakan Berkelahi. Jika itu adalah senjata proyektil (tulang belakang, memproyeksikan asam, dll.) itu melakukan 1D6 kerusakan dengan jangkauan sama dengan DEX mutan dalam meter. Sebagai mutasi besar, kerusakannya adalah +2D6 (2D6 untuk proyektil, dan jangkauan digandakan). Anda dan game master Anda harus menentukan apakah itu dapat disembunyikan. Gunakan senjata yang setara dari *Bab Delapan: Peralatan* untuk jenis keberhasilan khusus, panjang, poin baju besi, dll. Poin nyawa senjata (untuk tujuan menangkis) dianggap sebagai miliknya sendiri, tanpa poin nyawa tambahan yang ditambahkan.
+Mutan memiliki jenis senjata alami (cakar, gigi, tulang belakang, tanduk, dll.). Sebagai mutasi kecil menambahkan +1D6 kerusakan pada kerusakan Berkelahi. Jika itu adalah senjata proyektil (tulang belakang, memproyeksikan asam, dll.) itu melakukan 1D6 kerusakan dengan jangkauan sama dengan DEX mutan dalam meter. Sebagai mutasi besar, kerusakannya adalah +2D6 (2D6 untuk proyektil, dan jangkauan digandakan). Anda dan game master Anda harus menentukan apakah itu dapat disembunyikan. Gunakan senjata yang setara dari *Bab Delapan: Peralatan* untuk jenis keberhasilan khusus, panjang, poin Zirah, dll. Poin nyawa senjata (untuk tujuan menangkis) dianggap sebagai miliknya sendiri, tanpa poin nyawa tambahan yang ditambahkan.
 
 Mutan dapat menangkis dengan senjata alami mereka, jika sesuai, menggunakan keterampilan Berkelahi. Bonus kerusakan biasanya berlaku. Jika senjata alami digunakan dalam pertempuran misil, gunakan Lempar atau Proyeksi untuk meluncurkannya, atau spesialisasi baru dari keterampilan Senjata Misil. Atas kebijaksanaan game master Anda, manfaat dari mutasi ini menumpuk dengan apa pun yang diberikan dengan keterampilan Seni Bela Diri.
 
 #### Sensitivitas Nyeri
 
-(**Merugikan**) Terlepas dari karakteristik CON mereka, mutasi ini memberi mutan toleransi yang sangat rendah terhadap rasa sakit. Mutasi kecil memerlukan lemparan Stamina yang berhasil untuk menghindari kebutaan karena rasa sakit seolah-olah pingsan setiap kali terkena dampak yang signifikan. Saat menerima kerusakan, lakukan lemparan perlawanan jumlah kerusakan vs. CON mereka. Jika lemparan gagal, mutan pingsan selama 1D6 ronde tempur atau sampai dibangunkan. Mutasi besar mencakup kelemahan itu dan membuat mutan sangat rentan terhadap bentuk serangan tertentu. Pilih jenis kerusakan (api, senjata tajam, tembakan, dingin, dll.) yang sangat rentan terhadapnya. Setiap kali mereka menerima kerusakan dari sumber tersebut, kerusakan (setelah baju besi) digandakan.
+(**Merugikan**) Terlepas dari karakteristik CON mereka, mutasi ini memberi mutan toleransi yang sangat rendah terhadap rasa sakit. Mutasi kecil memerlukan lemparan Stamina yang berhasil untuk menghindari kebutaan karena rasa sakit seolah-olah pingsan setiap kali terkena dampak yang signifikan. Saat menerima kerusakan, lakukan lemparan perlawanan jumlah kerusakan vs. CON mereka. Jika lemparan gagal, mutan pingsan selama 1D6 ronde tempur atau sampai dibangunkan. Mutasi besar mencakup kelemahan itu dan membuat mutan sangat rentan terhadap bentuk serangan tertentu. Pilih jenis kerusakan (api, senjata tajam, tembakan, dingin, dll.) yang sangat rentan terhadapnya. Setiap kali mereka menerima kerusakan dari sumber tersebut, kerusakan (setelah Zirah) digandakan.
 
 #### Feromon
 
@@ -1042,11 +1042,11 @@ Mutasi ini memberikan kemampuan untuk berkomunikasi secara verbal. Mungkin telep
 
 #### Peningkatan Struktural
 
-Mutan memiliki evolusi yang menguntungkan dalam struktur kerangka mereka, baik eksoskeleton (berpotensi menambah baju besi alami mereka), kaki atau kepala tambahan, bagian tubuh yang lebih besar atau lebih kecil, atau bagian baru seperti sayap, tanduk, atau duri. Bekerjalah dengan game master Anda untuk menentukan sifat mutasi dan efeknya. Untuk versi kecil, tambahkan 2D6 ke satu karakteristik yang terpengaruh, atau tukar poin tersebut ke poin baju besi atau poin MOV dengan rasio 1 banding 1. POW tidak dapat diubah oleh mutasi ini. Lemparan Menyamar yang berhasil diperlukan untuk menyembunyikan mutasi ini. Untuk mutasi besar, lempar 4D6 dan distribusikan poin sesuai keinginan (tidak termasuk POW). Mutasi besar tidak mungkin disembunyikan, dan mutan mungkin kesulitan menemukan pakaian, baju besi, atau peralatan yang dikenakan.
+Mutan memiliki evolusi yang menguntungkan dalam struktur kerangka mereka, baik eksoskeleton (berpotensi menambah Zirah alami mereka), kaki atau kepala tambahan, bagian tubuh yang lebih besar atau lebih kecil, atau bagian baru seperti sayap, tanduk, atau duri. Bekerjalah dengan game master Anda untuk menentukan sifat mutasi dan efeknya. Untuk versi kecil, tambahkan 2D6 ke satu karakteristik yang terpengaruh, atau tukar poin tersebut ke poin Zirah atau poin MOV dengan rasio 1 banding 1. POW tidak dapat diubah oleh mutasi ini. Lemparan Menyamar yang berhasil diperlukan untuk menyembunyikan mutasi ini. Untuk mutasi besar, lempar 4D6 dan distribusikan poin sesuai keinginan (tidak termasuk POW). Mutasi besar tidak mungkin disembunyikan, dan mutan mungkin kesulitan menemukan pakaian, Zirah, atau peralatan yang dikenakan.
 
 #### Kelemahan Struktural
 
-(**Merugikan**) Mutasi ini menyebabkan kelainan genetik pada struktur kerangka, tidak nyaman dan menghambat kehidupan normal, baik cacat, tidak proporsional, atau bahkan memiliki pelengkap tambahan seperti sepuluh kaki ekstra yang memperlambat gerakan. Bekerjalah dengan game master Anda untuk menentukan sifat mutasi dan efeknya. Untuk versi kecil dari mutasi ini, kurangi 2D6 dari satu karakteristik yang terpengaruh, atau gunakan poin ini untuk menurunkan MOV dengan rasio 1 banding 1. POW tidak dapat dikurangi. Lemparan Menyamar yang berhasil diperlukan untuk menyembunyikan mutasi ini. Untuk mutasi besar, kurangi 4D6 poin dari STR, DEX, CON, SIZ, atau CHA, membagi poin sesuai keinginan. Tidak ada karakteristik yang dapat dikurangi menjadi di bawah 1. Mutasi besar tidak mungkin disembunyikan, dan mutan mungkin kesulitan menemukan pakaian, baju besi, atau peralatan yang dikenakan.
+(**Merugikan**) Mutasi ini menyebabkan kelainan genetik pada struktur kerangka, tidak nyaman dan menghambat kehidupan normal, baik cacat, tidak proporsional, atau bahkan memiliki pelengkap tambahan seperti sepuluh kaki ekstra yang memperlambat gerakan. Bekerjalah dengan game master Anda untuk menentukan sifat mutasi dan efeknya. Untuk versi kecil dari mutasi ini, kurangi 2D6 dari satu karakteristik yang terpengaruh, atau gunakan poin ini untuk menurunkan MOV dengan rasio 1 banding 1. POW tidak dapat dikurangi. Lemparan Menyamar yang berhasil diperlukan untuk menyembunyikan mutasi ini. Untuk mutasi besar, kurangi 4D6 poin dari STR, DEX, CON, SIZ, atau CHA, membagi poin sesuai keinginan. Tidak ada karakteristik yang dapat dikurangi menjadi di bawah 1. Mutasi besar tidak mungkin disembunyikan, dan mutan mungkin kesulitan menemukan pakaian, Zirah, atau peralatan yang dikenakan.
 
 #### Racun
 
@@ -1074,7 +1074,7 @@ Sebagian besar kemampuan psikis menggunakan poin kekuatan. Psikis yang dikurangi
 
 * Kemampuan yang memakan biaya lebih dari 1 poin kekuatan untuk digunakan hanya memakan biaya 1 poin jika lemparan untuk menggunakannya adalah kegagalan.
 
-* Jika lemparan kemampuan psikis adalah fumble, poin kekuatan penuh yang akan dihabiskan akan hilang.
+* Jika lemparan kemampuan psikis adalah Kegagalan Mutlak, poin kekuatan penuh yang akan dihabiskan akan hilang.
 
 ### Meningkatkan Kemampuan Psikis
 
@@ -1090,7 +1090,7 @@ Kemampuan psikis instan dapat dilakukan selama fase kekuatan ronde tempur, mengg
 
 Beberapa kemampuan psikis berhasil atau tidak berhasil, tetapi sebagian besar, seperti keterampilan, memungkinkan tingkat keberhasilan yang berbeda. Alih-alih menentukan hasil per kemampuan, pedoman berikut disarankan:
 
-* **Fumble:** Kegagalan spektakuler, memakan biaya semua poin kekuatan yang dimaksudkan. Lakukan lemparan Ide yang berhasil untuk menghindari pingsan selama sisa ronde tempur.
+* **Kegagalan Mutlak:** Kegagalan spektakuler, memakan biaya semua poin kekuatan yang dimaksudkan. Lakukan lemparan Ide yang berhasil untuk menghindari pingsan selama sisa ronde tempur.
 
 * **Kegagalan:** Tidak ada efek, memakan biaya 1 poin kekuatan.
 
@@ -1098,7 +1098,7 @@ Beberapa kemampuan psikis berhasil atau tidak berhasil, tetapi sebagian besar, s
 
 * **Keberhasilan Khusus:** Keberhasilan, ditambah salah satu efek berikut, sebagaimana mestinya, dipilih oleh game master: setengah biaya poin kekuatan (minimal 1), jarak ganda, durasi ganda, kerusakan ganda, kualitas informasi yang unggul, nilai karakteristik psikis dikalikan 1.5 (dibulatkan ke atas) untuk durasi.
 
-* **Keberhasilan Kritis:** Keberhasilan sempurna, ditambah salah satu efek berikut, sebagaimana mestinya, dipilih oleh game master: biaya poin kekuatan hanya 1, jarak tiga kali lipat; durasi tiga kali lipat, kerusakan ganda tanpa baju besi diperbolehkan, kualitas informasi luar biasa yang diberikan, nilai karakteristik psikis digandakan untuk durasi.
+* **Keberhasilan Kritis:** Keberhasilan sempurna, ditambah salah satu efek berikut, sebagaimana mestinya, dipilih oleh game master: biaya poin kekuatan hanya 1, jarak tiga kali lipat; durasi tiga kali lipat, kerusakan ganda tanpa Zirah diperbolehkan, kualitas informasi luar biasa yang diberikan, nilai karakteristik psikis digandakan untuk durasi.
 
 Game master Anda mungkin mengizinkan Anda memilih efek khusus atau kritis, jika memungkinkan.
 
@@ -1274,7 +1274,7 @@ Psikis dapat memproyeksikan kesadaran penuh mereka ke area lain, mengalami area 
 
 **Biaya Poin Kekuatan:** 3 poin kekuatan per 1D6 dalam kerusakan atau per 3 poin SIZ
 
-Psikis dapat menciptakan hawa dingin yang intens di sekitar satu makhluk atau objek dalam jangkauan. Ini melakukan kerusakan pada makhluk hidup dengan mengadu poin kekuatan mereka saat ini vs. CON target sebagai lemparan perlawanan. Jika Anda berhasil, target menerima 1D6 poin kerusakan per 3 poin kekuatan yang dihabiskan untuk Cryokinesis (biaya poin harus ditentukan sebelum serangan). Selain itu, efek lingkungan apa pun juga diterapkan. Jika target memiliki perlindungan seperti pakaian musim dingin, ini mungkin berfungsi sebagai baju besi terbatas terhadap kerusakan. Cryokinesis juga dapat digunakan untuk menutupi item atau bagian lantai dengan es, untuk membekukan cairan, atau untuk membuat item rapuh dan lebih mudah hancur. Kapan pun SIZ target berlaku, kekuatan memengaruhi 1 poin SIZ per poin kekuatan yang dihabiskan. Es apa pun yang tersisa dari kekuatan ini berlangsung selama 1 putaran penuh dalam cuaca normal; meskipun hanya memberikan kerusakan saat pertama kali digunakan.
+Psikis dapat menciptakan hawa dingin yang intens di sekitar satu makhluk atau objek dalam jangkauan. Ini melakukan kerusakan pada makhluk hidup dengan mengadu poin kekuatan mereka saat ini vs. CON target sebagai lemparan perlawanan. Jika Anda berhasil, target menerima 1D6 poin kerusakan per 3 poin kekuatan yang dihabiskan untuk Cryokinesis (biaya poin harus ditentukan sebelum serangan). Selain itu, efek lingkungan apa pun juga diterapkan. Jika target memiliki perlindungan seperti pakaian musim dingin, ini mungkin berfungsi sebagai Zirah terbatas terhadap kerusakan. Cryokinesis juga dapat digunakan untuk menutupi item atau bagian lantai dengan es, untuk membekukan cairan, atau untuk membuat item rapuh dan lebih mudah hancur. Kapan pun SIZ target berlaku, kekuatan memengaruhi 1 poin SIZ per poin kekuatan yang dihabiskan. Es apa pun yang tersisa dari kekuatan ini berlangsung selama 1 putaran penuh dalam cuaca normal; meskipun hanya memberikan kerusakan saat pertama kali digunakan.
 
 #### Indra Bahaya (Danger Sense)
 
@@ -1326,7 +1326,7 @@ Psikis yang menghabiskan poin kekuatan terakhir mereka segera runtuh dan jika le
 
 Ketika kemampuan psikis ini digunakan dengan sukses, psikis harus mengumumkan apa pertanyaan atau subjek Divinasi tersebut. Semakin eksplisit, semakin spesifik jawabannya. Berikut adalah hasil yang disarankan untuk lemparan, yang harus dilempar secara rahasia oleh game master Anda:
 
-* **Fumble:** Informasi menyesatkan atau tidak mungkin dimengerti. Psikis percaya informasi ini benar.
+* **Kegagalan Mutlak:** Informasi menyesatkan atau tidak mungkin dimengerti. Psikis percaya informasi ini benar.
 
 * **Kegagalan:** Penglihatan keruh, sulit ditafsirkan, mungkin bahkan kontradiktif. Psikis sadar mereka telah gagal.
 
@@ -1356,7 +1356,7 @@ Psikis dapat mengingat informasi dari pengalaman sebelumnya dengan perhatian yan
 
 **Biaya Poin Kekuatan:** 1 poin kekuatan per 3 INT untuk mengaktifkan, 1 per putaran penuh untuk tetap aktif
 
-Psikis dapat mengontrol keadaan emosional satu atau lebih makhluk hidup, dengan penggunaan Kontrol Emosi yang sukses memanipulasi 3 poin INT dalam makhluk yang dipilih. Setiap poin tambahan yang dihabiskan meningkatkan INT yang terpengaruh sebesar +3, dan psikis harus menghabiskan poin kekuatan yang cukup untuk mencocokkan atau melebihi INT target (jadi, biayanya adalah 1/3 INT target, dibulatkan ke atas). Untuk menggunakan Kontrol Emosi, atasi poin kekuatan target saat ini vs. poin kekuatan psikis saat ini dalam lemparan tabel perlawanan (biaya dibayar setelah lemparan perlawanan dilakukan). Jika berhasil, psikis mengontrol keadaan emosional target dan dapat memperkenalkan atau mempertahankan emosi yang diinginkan (cinta, kepercayaan, kebencian, ketakutan, nafsu, tenang, dll.). Keberhasilan khusus atau kritis mungkin meningkatkan durasi atau intensitas. Fumble memicu keadaan emosional dalam diri perapal!
+Psikis dapat mengontrol keadaan emosional satu atau lebih makhluk hidup, dengan penggunaan Kontrol Emosi yang sukses memanipulasi 3 poin INT dalam makhluk yang dipilih. Setiap poin tambahan yang dihabiskan meningkatkan INT yang terpengaruh sebesar +3, dan psikis harus menghabiskan poin kekuatan yang cukup untuk mencocokkan atau melebihi INT target (jadi, biayanya adalah 1/3 INT target, dibulatkan ke atas). Untuk menggunakan Kontrol Emosi, atasi poin kekuatan target saat ini vs. poin kekuatan psikis saat ini dalam lemparan tabel perlawanan (biaya dibayar setelah lemparan perlawanan dilakukan). Jika berhasil, psikis mengontrol keadaan emosional target dan dapat memperkenalkan atau mempertahankan emosi yang diinginkan (cinta, kepercayaan, kebencian, ketakutan, nafsu, tenang, dll.). Keberhasilan khusus atau kritis mungkin meningkatkan durasi atau intensitas. Kegagalan Mutlak memicu keadaan emosional dalam diri perapal!
 
 Setelah berhasil, Kontrol Emosi tetap aktif dengan biaya 1 poin kekuatan per ronde tempur tambahan. Jika target tetap dalam jangkauan dan tidak melepaskan diri (lihat di bawah), target terus merasakan emosi yang dipilih.
 
@@ -1376,7 +1376,7 @@ Perisai Pikiran bekerja melawan kemampuan ini.
 
 **Biaya Poin Kekuatan:** 1 poin kekuatan
 
-Psikis dapat membaca keadaan emosional target untuk menentukan keadaan emosional batin mereka. Psikis harus dapat melihat target atau merasakannya dengan kemampuan psikis lain. Jika lemparan kekuatan berhasil, lemparan perlawanan POW vs. POW target menghasilkan wawasan tentang keadaan emosional mereka. Keberhasilan mengungkapkan keadaan emosi dominan yang saat ini dialami target. Keberhasilan khusus mengungkapkan asal keadaan emosional (penyebab, orang yang bertanggung jawab, dll.), dan keberhasilan kritis mengungkapkan apa yang direncanakan target mengenai keadaan emosional tersebut. Kegagalan tidak menghasilkan apa-apa, sementara fumble memberikan informasi yang salah atau menyesatkan. Dengan lemparan Ide yang berhasil, target mengenali bahwa perasaan mereka telah diungkapkan kepada seseorang, dan dengan lemparan INT×1 yang berhasil, mengetahui sumber dari memata-matai tersebut.
+Psikis dapat membaca keadaan emosional target untuk menentukan keadaan emosional batin mereka. Psikis harus dapat melihat target atau merasakannya dengan kemampuan psikis lain. Jika lemparan kekuatan berhasil, lemparan perlawanan POW vs. POW target menghasilkan wawasan tentang keadaan emosional mereka. Keberhasilan mengungkapkan keadaan emosi dominan yang saat ini dialami target. Keberhasilan khusus mengungkapkan asal keadaan emosional (penyebab, orang yang bertanggung jawab, dll.), dan keberhasilan kritis mengungkapkan apa yang direncanakan target mengenai keadaan emosional tersebut. Kegagalan tidak menghasilkan apa-apa, sementara Kegagalan Mutlak memberikan informasi yang salah atau menyesatkan. Dengan lemparan Ide yang berhasil, target mengenali bahwa perasaan mereka telah diungkapkan kepada seseorang, dan dengan lemparan INT×1 yang berhasil, mengetahui sumber dari memata-matai tersebut.
 
 Perisai Pikiran bekerja melawan kemampuan ini.
 
@@ -1476,7 +1476,7 @@ Psikis mendapatkan sekilas pandang intuitif ke masa depan. Semakin jauh ke masa 
 
 Prekognisi dapat digunakan secara aktif atau pasif. Dalam kedua kasus, game master Anda melempar untuk hasil kemampuan dan mengumumkan hasilnya (jika ada) kepada Anda. Hasilnya adalah sebagai berikut:
 
-* **Fumble:** Penglihatan yang jelas dan koheren yang sama sekali tidak akurat dan menyesatkan.
+* **Kegagalan Mutlak:** Penglihatan yang jelas dan koheren yang sama sekali tidak akurat dan menyesatkan.
 
 * **Kegagalan:** Kilasan wawasan yang tidak dapat dipahami atau kontradiktif yang tidak melakukan banyak hal selain memberikan perasaan gelisah tentang suatu situasi dan pengetahuan bahwa upaya tersebut telah gagal.
 
@@ -1522,7 +1522,7 @@ Game master Anda mungkin menggunakan kemampuan ini secara pasif, melempar secara
 
 **Biaya Poin Kekuatan:** 3 poin kekuatan per 1D6 dalam kerusakan atau 3 poin SIZ
 
-Pyrokinesis menciptakan panas yang intens, mengisi area dengan api, berpotensi menyalakan objek, bahkan memberikan cahaya atau kehangatan. Itu dapat dibentuk dan dimanipulasi sebaliknya. Area yang terpengaruh sama dengan 3 SIZ per 3 poin kekuatan. Keberhasilan penggunaan terhadap makhluk hidup menimpakan 1D6 poin kerusakan per 3 poin kekuatan yang digunakan. Poin kekuatan tambahan meningkatkan kerusakan (6 poin = 2D6 kerusakan, dll.) Jika target memiliki perlindungan seperti pakaian isolasi, ini mungkin berfungsi sebagai baju besi terhadap kerusakan. Kerusakan bersifat instan, meskipun panas bertahan selama ronde tempur tambahan atau lebih lama.
+Pyrokinesis menciptakan panas yang intens, mengisi area dengan api, berpotensi menyalakan objek, bahkan memberikan cahaya atau kehangatan. Itu dapat dibentuk dan dimanipulasi sebaliknya. Area yang terpengaruh sama dengan 3 SIZ per 3 poin kekuatan. Keberhasilan penggunaan terhadap makhluk hidup menimpakan 1D6 poin kerusakan per 3 poin kekuatan yang digunakan. Poin kekuatan tambahan meningkatkan kerusakan (6 poin = 2D6 kerusakan, dll.) Jika target memiliki perlindungan seperti pakaian isolasi, ini mungkin berfungsi sebagai Zirah terhadap kerusakan. Kerusakan bersifat instan, meskipun panas bertahan selama ronde tempur tambahan atau lebih lama.
 
 Pyrokinesis dapat melelehkan item, mencocokkan poin kekuatan yang dihabiskan vs SIZ objek dalam lemparan perlawanan. Efek lingkungan apa pun yang sesuai juga diterapkan, jika relevan (lihat **Api dan Panas**). Game master Anda mungkin memilih untuk memodifikasi jumlah poin kekuatan yang diperlukan untuk zat berdasarkan titik lelehnya.
 
@@ -1556,7 +1556,7 @@ Jika menggunakan Telekinesis untuk mengambil target yang tidak bersedia, psikis 
 
 Untuk menggunakan Telekinesis guna memukul seseorang dengan objek, lakukan lemparan Lempar setelah objek dipegang di atas. Objek yang dilemparkan ke karakter lain melakukan 1D6 poin kerusakan per 10 poin SIZ, atau kerusakan normal objek jika itu adalah senjata misil. Pengubah kerusakan didasarkan pada POW+INT psikis (alih-alih STR+SIZ) pada **Tabel Pengubah Kerusakan**. Untuk menangkap item dengan Telekinesis, lakukan lemparan Lempar atau Kelincahan Sulit yang berhasil (pilih) dan habiskan poin kekuatan yang cukup untuk menangani item.
 
-Selain itu, Telekinesis dapat digunakan sebagai baju besi terhadap serangan fisik, setiap poin memberikan 1 poin baju besi.
+Selain itu, Telekinesis dapat digunakan sebagai Zirah terhadap serangan fisik, setiap poin memberikan 1 poin Zirah.
 
 #### Telepati (Telepathy)
 
@@ -1698,7 +1698,7 @@ Seperti yang dicatat sebelumnya, sorcerer tidak dapat secara otomatis merapalkan
 
 Untuk menyiapkan mantra, grimoire harus tersedia, dan mantra yang relevan harus ada di grimoire itu. Membawa mantra ke dalam memori disebut menyiapkan mantra. Menghapus mantra dari memori disebut mengabaikan mantra. Ini dilakukan sesering yang diinginkan: sorcerer sering memilih mantra mereka berdasarkan rencana segera mereka.
 
-Misalnya, *seorang sorcerer yang berencana merapalkan mantra besar (seperti pemanggilan iblis) akan menyiapkan mantra seperti Brazier of Power, Chain of Being, Refutation, Bolster the Soul, dan Witch Sight, bersama dengan mantra Summon Demon. Jika sedang berpetualang, mantra lain seperti Inescapable Bonds, Cloak of Night, Heal, Muddle, Sorcerous Armor, Undo Sorcery, dan peningkatan senjata mungkin lebih sesuai.*
+Misalnya, *seorang sorcerer yang berencana merapalkan mantra besar (seperti pemanggilan iblis) akan menyiapkan mantra seperti Brazier of Power, Chain of Being, Refutation, Bolster the Soul, dan Witch Sight, bersama dengan mantra Summon Demon. Jika sedang berpetualang, mantra lain seperti Inescapable Bonds, Cloak of Night, Heal, Muddle, Sorcerous Zirah, Undo Sorcery, dan peningkatan senjata mungkin lebih sesuai.*
 
 Membaca dan memahami mantra dalam grimoire memakan waktu satu ronde tempur untuk setiap poin mantra yang akan disiapkan. Untuk mantra yang bervariasi dalam poin, jumlah ronde tempur yang dibutuhkan selalu sama dengan nilai maksimum yang diketahui.
 
@@ -1886,7 +1886,7 @@ Makhluk hidup apa pun yang dirapalkan mantra ini akan disita dan ditahan seolah-
 
 **Jarak:** Sentuh
 
-SIZ target ditingkatkan atau dikurangi sebesar +3 poin per level, menambahkan atau mengurangi 3, 6, atau 9 poin ke SIZ selama durasi mantra. Ini juga dapat untuk sementara meningkatkan atau mengurangi pengubah kerusakan dan poin nyawa. Lihat aturan untuk **Target Besar dan Kecil** jika relevan. Poin nyawa apa pun yang hilang saat mantra ini berlaku pertama-tama dihapus dari poin nyawa sementara. Mantra ini mungkin memengaruhi MOV target. SIZ minimum yang diperbolehkan adalah 1, sehingga poin lebih lanjut diabaikan. Pakaian dan baju besi target (tetapi bukan senjata) juga berubah SIZ selama durasi.
+SIZ target ditingkatkan atau dikurangi sebesar +3 poin per level, menambahkan atau mengurangi 3, 6, atau 9 poin ke SIZ selama durasi mantra. Ini juga dapat untuk sementara meningkatkan atau mengurangi pengubah kerusakan dan poin nyawa. Lihat aturan untuk **Target Besar dan Kecil** jika relevan. Poin nyawa apa pun yang hilang saat mantra ini berlaku pertama-tama dihapus dari poin nyawa sementara. Mantra ini mungkin memengaruhi MOV target. SIZ minimum yang diperbolehkan adalah 1, sehingga poin lebih lanjut diabaikan. Pakaian dan Zirah target (tetapi bukan senjata) juga berubah SIZ selama durasi.
 
 Saat merapalkan Plastisitas Tidak Manusiawi 3 untuk peningkatan atau pengurangan maksimum 9 poin, lempar D100. Pada hasil 00, efeknya menjadi permanen, dan poin-poin tersebut secara permanen ditambahkan atau dikurangi dari SIZ target seperti saat mantra dirapalkan. Namun, setelah itu, mantra tidak memengaruhi karakter lagi, dan mereka menjadi tidak dapat dirapalkan lagi. Mereka juga harus mengurangkan 9 poin secara permanen dari karakteristik lain, dalam kombinasi apa pun, menyesuaikan nilai apa pun yang dihitung dari karakteristik tersebut. Jika kesetiaan digunakan, ini menambahkan +1D8 kesetiaan pada kekuatan apa pun yang mewakili keacakan dan/atau perubahan.
 
@@ -1982,11 +1982,11 @@ Saat merapalkan Vitalitas Tak Henti 3 untuk peningkatan maksimum +9 poin, lempar
 
 Mantra ini dapat dirapalkan pada satu senjata penusuk, dan hanya senjata penusuk. Itu tidak berpengaruh jika dirapalkan pada jenis senjata lain. Setiap level meningkatkan hasil lemparan kerusakan sebesar +1, hingga kerusakan maksimum yang mungkin. Pengubah kerusakan wielder dilempar secara terpisah dan tidak terpengaruh oleh mantra ini. Mantra ini tidak bekerja untuk busur, ketapel, atau senjata api, tetapi bekerja pada panah, batu ketapel, dan peluru. Jika lemparan yang dimodifikasi menghasilkan kerusakan maksimum untuk senjata, ujung senjata menjadi merah panas dan dapat menyalakan target yang mudah terbakar, menyebabkan 1D6 kerusakan api sebagai hasilnya (lihat **Api dan Panas**).
 
-#### Baju Besi Sorcery (Sorcerous Armor) (1–4)
+#### Zirah Sorcery (Sorcerous Zirah) (1–4)
 
 **Jarak:** Sentuh
 
-Baju Besi Sorcery dihitung sebagai baju besi sihir yang ditambahkan ke nilai baju besi total target (atau level yang ditambahkan ke lemparan baju besi acak, hingga nilai maksimum baju besi). Ini bertindak sebagai baju besi normal dalam segala hal lain.
+Zirah Sorcery dihitung sebagai Zirah sihir yang ditambahkan ke nilai Zirah total target (atau level yang ditambahkan ke lemparan Zirah acak, hingga nilai maksimum Zirah). Ini bertindak sebagai Zirah normal dalam segala hal lain.
 
 #### Keluwesan Ular (Suppleness of the Serpent) (1–3)
 
@@ -2094,7 +2094,7 @@ Saat Kecantikan Dunia Lain 3 dirapalkan untuk peningkatan maksimum +9 poin, lemp
 
 **Jarak:** Sentuh
 
-Mantra ini menambahkan +1 per level ke nilai perlindungan baju besi perisai dan objek apa pun yang digunakan sebagai perisai. Setiap perapalan mantra harus pada satu perisai atau item yang mirip perisai, termasuk item yang digunakan sebagai perisai darurat.
+Mantra ini menambahkan +1 per level ke nilai perlindungan Zirah perisai dan objek apa pun yang digunakan sebagai perisai. Setiap perapalan mantra harus pada satu perisai atau item yang mirip perisai, termasuk item yang digunakan sebagai perisai darurat.
 
 #### Hilangkan Sihir (Undo Sorcery) (1–4)
 
@@ -2303,7 +2303,7 @@ Demikian pula, jika karakter Anda tidak mungkin menderita kondisi kegagalan kara
 > 
 > **Peluang Dasar:** DEX×2 Kategori: Fisik
 > 
-> Gunakan keterampilan ini untuk mengarahkan serangan berkekuatan pada target menggunakan kekuatan seperti Proyeksi Energi, Proyeksi Jerat, dan lain-lain. Pilih bagaimana karakter Anda memancarkan kekuatan ini—tangan, mata, atau dari perangkat. Ketika kekuatan digunakan, pada fumble poin kekuatan hilang, rujuk **Tabel Fumble Serangan Senjata Misil** untuk panduan tambahan (diinterpretasikan seperlunya). Kegagalan meleset dari target: lempar 1D4 untuk melihat apakah proyeksi jatuh di depan, di belakang, ke kanan, atau ke kiri target. Lakukan lemparan Keberuntungan untuk menghindari kerusakan tambahan seperti menyerang pengamat yang tidak bersalah, sekutu, atau menyebabkan kerusakan struktural. Keberhasilan mengenai target, dan keberhasilan khusus mengenainya dengan presisi tambahan dan mungkin melakukan kerusakan tambahan atau memiliki efek yang meningkat. Kritis, seperti biasa, dijalankan dengan sempurna hingga efek maksimum. Jika kekuatan tempur, gunakan panduan untuk keberhasilan khusus dan kritis.
+> Gunakan keterampilan ini untuk mengarahkan serangan berkekuatan pada target menggunakan kekuatan seperti Proyeksi Energi, Proyeksi Jerat, dan lain-lain. Pilih bagaimana karakter Anda memancarkan kekuatan ini—tangan, mata, atau dari perangkat. Ketika kekuatan digunakan, pada Kegagalan Mutlak poin kekuatan hilang, rujuk **Tabel Kegagalan Mutlak Serangan Senjata Misil** untuk panduan tambahan (diinterpretasikan seperlunya). Kegagalan meleset dari target: lempar 1D4 untuk melihat apakah proyeksi jatuh di depan, di belakang, ke kanan, atau ke kiri target. Lakukan lemparan Keberuntungan untuk menghindari kerusakan tambahan seperti menyerang pengamat yang tidak bersalah, sekutu, atau menyebabkan kerusakan struktural. Keberhasilan mengenai target, dan keberhasilan khusus mengenainya dengan presisi tambahan dan mungkin melakukan kerusakan tambahan atau memiliki efek yang meningkat. Kritis, seperti biasa, dijalankan dengan sempurna hingga efek maksimum. Jika kekuatan tempur, gunakan panduan untuk keberhasilan khusus dan kritis.
 > 
 > **Catatan Sistem:** Pengubah kerusakan karakter Anda tidak pernah disertakan dalam kekuatan super yang diproyeksikan. Garis pandang diperlukan untuk Proyeksi. Pengubah yang berlaku untuk serangan misil atau jarak jauh juga berlaku. Proyeksi dapat digunakan untuk **Serangan Terarah**. Proyeksi dapat dihindari, seperti senjata misil, meskipun lemparan Menghindar mungkin Sulit (lihat **Menghindari Senjata Misil**).
 
@@ -2317,7 +2317,7 @@ Ini adalah kekuatan super di bagian ini.
 
 **Bentuk Alternatif:** Setiap level menyediakan satu tubuh alternatif untuk beralih.
 
-**Baju Besi:** Setiap level menyediakan 1 poin perlindungan terhadap jenis energi tertentu.
+**Zirah:** Setiap level menyediakan 1 poin perlindungan terhadap jenis energi tertentu.
 
 **Penghalang:** Setiap level menciptakan bagian dinding pelindung berukuran 1 meter persegi.
 
@@ -2415,7 +2415,7 @@ Ini adalah kekuatan super di bagian ini.
 > 
 > Pengaturan Anda mungkin memiliki jenis energi tambahan. Gunakan deskripsi di atas sebagai pedoman.
 
-> ### Absorpsi, Baju Besi, Perlindungan, dan Perlawanan
+> ### Absorpsi, Zirah, Perlindungan, dan Perlawanan
 > 
 > Keempat kekuatan super ini bekerja secara berbeda tetapi semuanya memiliki tujuan yang sama: menjaga karakter Anda agar tidak menerima kerusakan. Panduan ini mengilustrasikan perbedaan mereka dan bagaimana mereka bekerja bersama satu sama lain. Mereka disajikan dalam urutan munculnya:
 > 
@@ -2423,17 +2423,17 @@ Ini adalah kekuatan super di bagian ini.
 > 
 > * **Perlindungan** mengurangi efek serangan. Seperti tabir surya, itu membatasi jumlah radiasi matahari yang mencapai kulit Anda, tetapi itu tidak sama dengan tetap berada di tempat teduh, dan tentu saja tidak akan membantu terhadap kanker kulit.
 > 
-> * **Baju Besi** melindungi seperti baju besi fisik. Jika karakter Anda terkena serangan, itu mengurangi jumlah kerusakan yang diambil.
+> * **Zirah** melindungi seperti Zirah fisik. Jika karakter Anda terkena serangan, itu mengurangi jumlah kerusakan yang diambil.
 > 
 > * **Absorpsi** menyerap kerusakan yang diambil dari serangan dan mengubahnya menjadi energi yang dapat digunakan karakter Anda.
 > 
-> Di mana lebih dari satu dari keempat kekuatan super ini berlaku, tangani mereka dalam urutan alfabet terbalik (seperti di atas). Pertama, Perlawanan menentukan apakah kekuatan tersebut berfungsi sama sekali, Perlindungan menurunkan level kekuatan jika berhasil lolos, Baju Besi mengurangi kerusakan yang ditimpakan pada karakter Anda, dan Absorpsi menyerap sisa poin dan mengubahnya menjadi poin kekuatan.
+> Di mana lebih dari satu dari keempat kekuatan super ini berlaku, tangani mereka dalam urutan alfabet terbalik (seperti di atas). Pertama, Perlawanan menentukan apakah kekuatan tersebut berfungsi sama sekali, Perlindungan menurunkan level kekuatan jika berhasil lolos, Zirah mengurangi kerusakan yang ditimpakan pada karakter Anda, dan Absorpsi menyerap sisa poin dan mengubahnya menjadi poin kekuatan.
 
 ### Kekuatan dan Tingkat Keberhasilan
 
 Tidak seperti keterampilan, penggunaan kekuatan super selalu jelas untuk diinterpretasikan. Banyak yang memiliki efek yang 'hidup' atau 'mati', tanpa perbedaan antara kritis, khusus, atau keberhasilan normal. Panduan di bawah ini dapat membantu game master Anda saat memutuskan hasil lemparan keterampilan kekuatan super.
 
-* **Fumble:** Poin kekuatan hilang, dan karakter tidak dapat menggunakan kekuatan super ini selama satu ronde tempur setelah ronde fumble. Jika kekuatan super biasanya melakukan kerusakan, lakukan lemparan Keberuntungan. Keberhasilan berarti kekuatan super itu hanya tidak bekerja. Kegagalan berarti kekuatan super itu menyerang target yang tidak diinginkan (pengamat tidak bersalah, peralatan berharga, dll.) menyebabkan kerusakan tambahan dan berpotensi memperumit situasi. Beberapa kekuatan super mungkin memiliki konsekuensi tambahan untuk fumble.
+* **Kegagalan Mutlak:** Poin kekuatan hilang, dan karakter tidak dapat menggunakan kekuatan super ini selama satu ronde tempur setelah ronde Kegagalan Mutlak. Jika kekuatan super biasanya melakukan kerusakan, lakukan lemparan Keberuntungan. Keberhasilan berarti kekuatan super itu hanya tidak bekerja. Kegagalan berarti kekuatan super itu menyerang target yang tidak diinginkan (pengamat tidak bersalah, peralatan berharga, dll.) menyebabkan kerusakan tambahan dan berpotensi memperumit situasi. Beberapa kekuatan super mungkin memiliki konsekuensi tambahan untuk Kegagalan Mutlak.
 
 * **Kegagalan:** Kekuatan tersebut berhasil dan meleset atau tidak bekerja sama sekali. Itu tidak menyebabkan bahaya atau komplikasi apa pun. Poin kekuatan hilang.
 
@@ -2441,7 +2441,7 @@ Tidak seperti keterampilan, penggunaan kekuatan super selalu jelas untuk diinter
 
 * **Khusus:** Kekuatan super bekerja dengan peningkatan efektivitas. Jika jenis kerusakan keberhasilan khusus (menghancurkan, melilit, menembus, knockback, atau menebas) sesuai, masukkan ke dalam hasil. Atas kebijakan game master Anda, aspek lain dari kekuatan (jarak, pengaruh, dll.) mungkin memiliki efek ganda. Alternatifnya, jika kekuatan melibatkan lemparan perlawanan, tingkatkan level kekuatan super sebesar setengah atau karakteristik (dibulatkan ke atas) untuk lemparan perlawanan.
 
-* **Kritis:** Kekuatan super bekerja dengan sempurna. Jika biasanya menyebabkan kerusakan, itu mengabaikan baju besi apa pun yang dimiliki target dan memiliki efek keberhasilan khusus (di atas). Jika biasanya tidak menyebabkan kerusakan, game master Anda harus menentukan aspek (atau aspek) kekuatan super yang sesuai dan menggandakan efektivitasnya. Alternatifnya, jika lemparan perlawanan diperlukan, gandakan level kekuatan super atau karakteristik yang relevan untuk lemparan perlawanan.
+* **Kritis:** Kekuatan super bekerja dengan sempurna. Jika biasanya menyebabkan kerusakan, itu mengabaikan Zirah apa pun yang dimiliki target dan memiliki efek keberhasilan khusus (di atas). Jika biasanya tidak menyebabkan kerusakan, game master Anda harus menentukan aspek (atau aspek) kekuatan super yang sesuai dan menggandakan efektivitasnya. Alternatifnya, jika lemparan perlawanan diperlukan, gandakan level kekuatan super atau karakteristik yang relevan untuk lemparan perlawanan.
 
 Hasil ini mungkin memerlukan interpretasi tambahan, atau game master Anda bebas untuk menggunakan hasil lemparan dadu tanpa penyesuaian apa pun untuk tingkat keberhasilan.
 
@@ -2471,7 +2471,7 @@ Seperti dicatat sebelumnya, kekuatan ini memiliki judul umum: Anda dapat menguba
 
 Setiap level menyerap 1 poin kerusakan dari satu jenis energi (lihat **Jenis Energi**) dan menyimpannya dalam pasokan poin kekuatan pahlawan super sendiri atau ke dalam 'baterai' atau perangkat. Kapasitas poin kekuatan pahlawan super dan/atau baterai harus memiliki ruang yang cukup untuk poin kekuatan, atau kerusakan berlebih memengaruhi pahlawan super.
 
-Saat memilih kekuatan ini, definisikan jenis energi yang diserapnya (lihat **Jenis Energi**) seperti ‘Absorpsi (Listrik)’. Jenis energi harus sesuatu yang dapat menyebabkan kerusakan dalam keadaan normal dan bukan sesuatu yang biasanya tidak berbahaya. Kerusakan yang diserap dihapus dari kerusakan aktual yang diambil—baju besi apa pun (atau kekuatan super Baju Besi) mengurangi kerusakan sebelum Absorpsi dapat memengaruhinya.
+Saat memilih kekuatan ini, definisikan jenis energi yang diserapnya (lihat **Jenis Energi**) seperti ‘Absorpsi (Listrik)’. Jenis energi harus sesuatu yang dapat menyebabkan kerusakan dalam keadaan normal dan bukan sesuatu yang biasanya tidak berbahaya. Kerusakan yang diserap dihapus dari kerusakan aktual yang diambil—Zirah apa pun (atau kekuatan super Zirah) mengurangi kerusakan sebelum Absorpsi dapat memengaruhinya.
 
 Energi yang diserap dengan kekuatan ini tidak dapat diambil dari baterai eksternal dan digeser ke poin kekuatan normal pahlawan super, atau sebaliknya, kecuali baterai juga memiliki Absorpsi. Untuk jenis energi lemah yang dapat dibayangkan menyebabkan kerusakan dalam jangka panjang, seperti api unggun untuk panas, umumnya sumber lemah menghasilkan 1 poin energi per ronde tempur, sumber ringan menghasilkan 1D6 poin, sumber moderat 2D6, sumber kuat 3D6, dll.
 
@@ -2507,7 +2507,7 @@ Untuk setiap level kekuatan ini, pilih satu lingkungan dari daftar berikut:
 
 * Vakum
 
-Kekuatan super memungkinkan karakter untuk hidup dengan nyaman di lingkungan ekstrem ini tetapi tidak menawarkan pertahanan khusus terhadap serangan menggunakan kondisi ini, seperti dengan Kontrol Energi, meskipun game master mungkin memutuskan bahwa Adaptasi yang tepat memberikan setengah levelnya sebagai perlindungan. Jika tidak, gunakan kekuatan super Baju Besi, Perlindungan, atau Perlawanan.
+Kekuatan super memungkinkan karakter untuk hidup dengan nyaman di lingkungan ekstrem ini tetapi tidak menawarkan pertahanan khusus terhadap serangan menggunakan kondisi ini, seperti dengan Kontrol Energi, meskipun game master mungkin memutuskan bahwa Adaptasi yang tepat memberikan setengah levelnya sebagai perlindungan. Jika tidak, gunakan kekuatan super Zirah, Perlindungan, atau Perlawanan.
 
 Lingkungan berbahaya dijelaskan dalam *Bab Tujuh: Aturan Tempat*. Jika ragu, asumsikan bahwa lingkungan berbahaya kecil menyebabkan 1 hit point kerusakan per ronde tempur, lingkungan yang berbahaya menyebabkan 1D6 kerusakan hit point per ronde tempur, lingkungan yang cukup berbahaya menyebabkan 2D6 kerusakan hit point per ronde, sangat berbahaya 3D6, dll. Beberapa lingkungan mungkin memerlukan kombinasi dua atau lebih jenis Adaptasi untuk bertahan hidup, seperti bawah air (bawah air, tekanan tinggi), luar angkasa (dingin, radiasi, vakum), atau di matahari (panas, radiasi, gravitasi tinggi).
 
@@ -2529,7 +2529,7 @@ Idealnya, saat kekuatan ini dibuat, buat salinan lembar karakter Anda sebelum ke
 
 * Untuk bentuk supranatural, bekerjalah dengan game master Anda untuk menentukan kekuatan yang melekat pada bentuk baru, dan apa yang mungkin perlu dibeli.
 
-* Jika bentuk baru menyerupai hewan, konsultasikan *Bab Sebelas: Makhluk* untuk kekuatan atau kemampuan yang sesuai. Salin tulisan sampel hewan untuk kenyamanan. Atribut alami seperti cakar, gigitan, atau baju besi bulu tebal adalah bagian dari bentuk dan tidak perlu dibeli.
+* Jika bentuk baru menyerupai hewan, konsultasikan *Bab Sebelas: Makhluk* untuk kekuatan atau kemampuan yang sesuai. Salin tulisan sampel hewan untuk kenyamanan. Atribut alami seperti cakar, gigitan, atau Zirah bulu tebal adalah bagian dari bentuk dan tidak perlu dibeli.
 
 * Setiap karakteristik atau keterampilan yang tidak dimodifikasi dari bentuk baru diasumsikan identik dengan karakter asli. Namun, bentuk baru membuat lemparan pengalamannya sendiri, yang tidak memengaruhi karakteristik atau keterampilan asli.
 
@@ -2545,7 +2545,7 @@ Bekerjalah dengan game master Anda untuk memutuskan apakah kematian dalam satu b
 
 Kekuatan ini paling baik digunakan dengan berbagai pengubah kekuatan dan kegagalan karakter yang melibatkan akses parsial ke kekuatan. Atas kebijakan game master Anda, salah satunya mungkin wajib dengan pembelian kekuatan Bentuk Alternatif.
 
-#### Baju Besi (Armor)
+#### Zirah (Zirah)
 
 **Jarak Dasar:** Diri
 
@@ -2555,11 +2555,11 @@ Kekuatan ini paling baik digunakan dengan berbagai pengubah kekuatan dan kegagal
 
 **Biaya Poin Kekuatan:** Tidak ada, atau 1 per level per 10 ronde tempur
 
-Setiap level menyediakan 1 poin baju besi terhadap jenis serangan tertentu. Perlindungan ini bisa berupa kulit tangguh, sisik keras, pelat baja, dll. Saat dibeli, jenis energi yang dimaksudkan untuk dilindungi harus dipilih dari **Jenis Energi** dan didaftarkan seperti ‘Baju Besi (Kinetik)’. Membeli Baju Besi terhadap banyak jenis kerusakan secara setara memakan biaya level dikalikan dengan jumlah jenis energi yang dilindunginya.
+Setiap level menyediakan 1 poin Zirah terhadap jenis serangan tertentu. Perlindungan ini bisa berupa kulit tangguh, sisik keras, pelat baja, dll. Saat dibeli, jenis energi yang dimaksudkan untuk dilindungi harus dipilih dari **Jenis Energi** dan didaftarkan seperti ‘Zirah (Kinetik)’. Membeli Zirah terhadap banyak jenis kerusakan secara setara memakan biaya level dikalikan dengan jumlah jenis energi yang dilindunginya.
 
-Namun, semua jenis Baju Besi tidak perlu pada level yang sama: pahlawan super dapat memiliki ‘Baju Besi (Kinetik) 2’ dan ‘Baju Besi (Panas) 5’. Jika demikian, kekuatan harus didaftarkan secara terpisah. Saat berlaku, Baju Besi tahan terhadap semua jenis kerusakan yang dilindungi, dalam jumlah serangan apa pun per ronde, dan tidak perlu diarahkan secara sadar.
+Namun, semua jenis Zirah tidak perlu pada level yang sama: pahlawan super dapat memiliki ‘Zirah (Kinetik) 2’ dan ‘Zirah (Panas) 5’. Jika demikian, kekuatan harus didaftarkan secara terpisah. Saat berlaku, Zirah tahan terhadap semua jenis kerusakan yang dilindungi, dalam jumlah serangan apa pun per ronde, dan tidak perlu diarahkan secara sadar.
 
-Baju Besi bisa berupa bidang kekuatan diri sendiri, membutuhkan poin kekuatan untuk mengaktifkan biaya ½ harga normal (dibulatkan ke atas). Biaya poin kekuatan adalah 1 poin kekuatan per level untuk mengaktifkan. Itu berlangsung selama 10 ronde tempur dan dapat secara otomatis memperbarui dirinya sendiri dengan 1 poin kekuatan per level.
+Zirah bisa berupa bidang kekuatan diri sendiri, membutuhkan poin kekuatan untuk mengaktifkan biaya ½ harga normal (dibulatkan ke atas). Biaya poin kekuatan adalah 1 poin kekuatan per level untuk mengaktifkan. Itu berlangsung selama 10 ronde tempur dan dapat secara otomatis memperbarui dirinya sendiri dengan 1 poin kekuatan per level.
 
 #### Penghalang (Barrier)
 
@@ -2577,7 +2577,7 @@ Misalnya, *Penghalang 9 dapat menciptakan penghalang setebal 1 meter, tinggi 3 m
 
 Penghalang tidak dapat diciptakan di udara untuk dijatuhkan ke lawan, meskipun penghalang tipis yang tinggi dapat ditumbangkan ke musuh. Jika digunakan demikian, ia melakukan 1D6 poin kerusakan per bagian 1 meter yang mengenai lawan (jika mereka tidak menghindar dengan sukses). Penghalang yang terdiri dari jenis energi (lihat **Jenis Energi**) mungkin memiliki properti tambahan, seperti penghalang api yang menyebabkan kerusakan pembakar pada mereka yang mencoba melewatinya.
 
-Terlepas dari zatnya, penghalang memiliki 30 poin nyawa. Setiap meter tambahan bahan yang ditambahkan ke ketebalannya menambahkan 30 poin nyawa ke totalnya di tempat itu. Sebagian besar lawan seukuran manusia hanya perlu menghancurkan satu atau dua segmen 1 meter untuk melewatinya. Jika diinginkan, nilai poin nyawa atau baju besi yang lebih 'otentik' untuk zat penghalang dapat ditemukan di Nilai Baju Besi Zat. Ketika kekuatan berakhir, penghalang larut, mencair, menyusut, atau berangsur-angsur menghilang dengan cara yang sesuai, kecuali dibentuk dari zat yang biasanya akan tetap ada.
+Terlepas dari zatnya, penghalang memiliki 30 poin nyawa. Setiap meter tambahan bahan yang ditambahkan ke ketebalannya menambahkan 30 poin nyawa ke totalnya di tempat itu. Sebagian besar lawan seukuran manusia hanya perlu menghancurkan satu atau dua segmen 1 meter untuk melewatinya. Jika diinginkan, nilai poin nyawa atau Zirah yang lebih 'otentik' untuk zat penghalang dapat ditemukan di Nilai Zirah Zat. Ketika kekuatan berakhir, penghalang larut, mencair, menyusut, atau berangsur-angsur menghilang dengan cara yang sesuai, kecuali dibentuk dari zat yang biasanya akan tetap ada.
 
 #### Pertahanan (Defense)
 
@@ -2603,11 +2603,11 @@ Kekuatan ini memodifikasi semua serangan yang dilakukan terhadap karakter sebesa
 
 Kekuatan ini membiarkan karakter meningkatkan atau mengurangi kepadatan mereka sebesar ±1 SIZ per level (untuk kekuatan ini, SIZ adalah berat dan bukan massa fisik sebenarnya). Kontrol Kepadatan memungkinkan peningkatan dan penurunan kepadatan, tidak seperti Perubahan Ukuran. dan itu tidak memberikan Intangibilitas.
 
-Peningkatan kepadatan meningkatkan pengubah kerusakan dan poin nyawa, meskipun menurunkan tingkat pergerakan sebesar 2 meter per ronde. Selain itu, setiap 10 level (bulatkan ke bawah) Kontrol Kepadatan menambahkan +1 baju besi vs. serangan berbasis kinetik (pukulan, jatuh, tembakan, dll.).
+Peningkatan kepadatan meningkatkan pengubah kerusakan dan poin nyawa, meskipun menurunkan tingkat pergerakan sebesar 2 meter per ronde. Selain itu, setiap 10 level (bulatkan ke bawah) Kontrol Kepadatan menambahkan +1 Zirah vs. serangan berbasis kinetik (pukulan, jatuh, tembakan, dll.).
 
-Penurunan kepadatan menurunkan SIZ karakter (dalam berat) dan memodifikasi pengubah kerusakan dan poin nyawa. Pada SIZ 0, karakter seukuran Manusia dapat terbang dengan meluncur di arus udara, bergerak dengan kecepatan angin. Penurunan kepadatan tidak memengaruhi gerakan normal. Setiap level penurunan kepadatan memodifikasi nilai baju besi sebesar –1, hingga minimum 0. Penurunan kepadatan juga menurunkan kerusakan dari jatuh sebesar –1 poin per level.
+Penurunan kepadatan menurunkan SIZ karakter (dalam berat) dan memodifikasi pengubah kerusakan dan poin nyawa. Pada SIZ 0, karakter seukuran Manusia dapat terbang dengan meluncur di arus udara, bergerak dengan kecepatan angin. Penurunan kepadatan tidak memengaruhi gerakan normal. Setiap level penurunan kepadatan memodifikasi nilai Zirah sebesar –1, hingga minimum 0. Penurunan kepadatan juga menurunkan kerusakan dari jatuh sebesar –1 poin per level.
 
-Lihat **Contoh SIZ Objek** untuk informasi tentang berat yang berkaitan dengan SIZ item. Atas kebijakan game master Anda, kekuatan ini berlaku untuk peralatan apa pun yang dikenakan (seperti baju besi).
+Lihat **Contoh SIZ Objek** untuk informasi tentang berat yang berkaitan dengan SIZ item. Atas kebijakan game master Anda, kekuatan ini berlaku untuk peralatan apa pun yang dikenakan (seperti Zirah).
 
 #### Kurangi/Tingkatkan Karakteristik (Diminish/Enhance Characteristic)
 
@@ -2663,7 +2663,7 @@ Kekuatan super ini adalah lawan dari Transfer.
 
 **Biaya Poin Kekuatan:** 1 per level setiap ronde tempur untuk mengaktifkan, 1 per ronde tempur untuk tetap aktif
 
-Kontrol Energi memungkinkan manipulasi satu jenis energi, menghasilkannya jika belum ada (lihat **Jenis Energi**). Setiap jenis adalah kekuatan super terpisah, dipilih saat kekuatan dibeli, dan ditentukan sebagai ‘Kontrol Energi (Dingin)’, ‘Kontrol Energi (Kegelapan)’, dll. Beberapa jenis Kontrol Energi harus dibeli secara terpisah. Konsep yang jelas adalah membeli beberapa kekuatan yang berkaitan dengan satu jenis energi, seperti Absorpsi, Baju Besi, Proyeksi Energi, Perlawanan, dan Proyeksi Jerat, semuanya berdasarkan jenis yang sama.
+Kontrol Energi memungkinkan manipulasi satu jenis energi, menghasilkannya jika belum ada (lihat **Jenis Energi**). Setiap jenis adalah kekuatan super terpisah, dipilih saat kekuatan dibeli, dan ditentukan sebagai ‘Kontrol Energi (Dingin)’, ‘Kontrol Energi (Kegelapan)’, dll. Beberapa jenis Kontrol Energi harus dibeli secara terpisah. Konsep yang jelas adalah membeli beberapa kekuatan yang berkaitan dengan satu jenis energi, seperti Absorpsi, Zirah, Proyeksi Energi, Perlawanan, dan Proyeksi Jerat, semuanya berdasarkan jenis yang sama.
 
 Setiap level Kontrol Energi setara dengan 1 poin dalam lemparan perlawanan.
 
@@ -2687,7 +2687,7 @@ Berikut adalah pedoman khusus untuk setiap jenis energi:
 
 * **Kontrol Panas:** Setiap level mengisi 1 SIZ area dengan api atau memadamkan api yang sudah ada sebanyak itu. Itu dapat dibentuk dan dimanipulasi, digunakan untuk menyalakan objek, memberikan cahaya, atau menghangatkan area. Jika diarahkan pada makhluk hidup, target harus diatasi oleh level kekuatan super vs poin kekuatan mereka dalam lemparan perlawanan. Kontrol Panas menyebabkan 1D6 kerusakan per 10 level (dibulatkan ke atas) pada target yang diarahkan. Kontrol Panas juga dapat digunakan untuk melelehkan item, menggunakan level kekuatan vs SIZ atau poin nyawa objek dalam lemparan perlawanan, menyesuaikan SIZ objek berdasarkan seberapa mudah meleleh. Setiap lemparan perlawanan yang berhasil melelehkan objek melakukan kerusakan sebesar level kekuatan pada objek dan menurunkan SIZ-nya dengan jumlah yang sama. Ketika poin nyawa atau SIZ mencapai 0, objek meleleh sepenuhnya. Kontrol Panas membatalkan efek Kontrol Dingin pada basis level-ke-level.
 
-* **Kontrol Kinetik:** Melakukan gaya hancur pada item atau lawan yang ditargetkan, memengaruhi area setara dengan 1 SIZ per level. Jika CON target diatasi dengan level kekuatan super pada lemparan perlawanan, mereka menderita 1D6 kerusakan per 10 level (dibulatkan ke atas) dari gaya kinetik murni. Jika diarahkan pada target mati, poin nyawa target saat ini digunakan untuk lemparan perlawanan. Itu juga dapat menghambat gaya kinetik di suatu area, menciptakan bentuk baju besi terhadap serangan fisik atau tindakan. Ini dapat mengurangi kerusakan dari jatuh atau menduplikasi efek Baju Besi (Kinetik), meskipun harus ditargetkan secara spesifik dan hanya berlangsung satu ronde tempur. Jika tidak yakin tentang apa yang dapat dilakukan Kontrol Kinetik, asumsikan itu setara dengan gerakan yang cepat atau kuat, bukan halus atau cekatan.
+* **Kontrol Kinetik:** Melakukan gaya hancur pada item atau lawan yang ditargetkan, memengaruhi area setara dengan 1 SIZ per level. Jika CON target diatasi dengan level kekuatan super pada lemparan perlawanan, mereka menderita 1D6 kerusakan per 10 level (dibulatkan ke atas) dari gaya kinetik murni. Jika diarahkan pada target mati, poin nyawa target saat ini digunakan untuk lemparan perlawanan. Itu juga dapat menghambat gaya kinetik di suatu area, menciptakan bentuk Zirah terhadap serangan fisik atau tindakan. Ini dapat mengurangi kerusakan dari jatuh atau menduplikasi efek Zirah (Kinetik), meskipun harus ditargetkan secara spesifik dan hanya berlangsung satu ronde tempur. Jika tidak yakin tentang apa yang dapat dilakukan Kontrol Kinetik, asumsikan itu setara dengan gerakan yang cepat atau kuat, bukan halus atau cekatan.
 
 * **Kontrol Cahaya:** Setiap level mengisi 1 SIZ area atau menerangi 1 SIZ objek dengan kecerahan bola lampu. Cahaya bisa berwarna apa pun yang diinginkan, dan dapat berkedip, berdenyut, atau memancar dari sumber mana pun dalam jangkauan. Kontrol Cahaya berpotensi membutakan target jika mengenai mata mereka dengan serangan yang berhasil dan mereka diatasi dalam lemparan perlawanan level kekuatan super vs poin kekuatan mereka. Semua tindakan berbasis penglihatan untuk karakter buta menjadi **Sulit** selama satu ronde tempur, setelah itu kebutaan hilang. Kontrol Cahaya tidak menyebabkan kerusakan. Bentuk cahaya tambahan (inframerah, ultraviolet, dll.) mungkin juga dibuat dan digunakan oleh kekuatan ini, dengan efek yang akan ditentukan oleh Anda dan game master Anda, menggunakan level kekuatan super sebagai pedoman. Kontrol Cahaya membatalkan Kontrol Kegelapan pada basis level-ke-level. Untuk intensitas laser, lihat Proyeksi Energi (Cahaya).
 
@@ -2701,9 +2701,9 @@ Berikut adalah pedoman khusus untuk setiap jenis energi:
 
 * **Kontrol Energi Lain:** Kategori ini mencakup segala jenis Kontrol Energi yang tidak ditentukan atau baru yang mungkin Anda dan game master Anda rancang. Pedoman untuk jenis Kontrol Energi lainnya dapat digunakan untuk menentukan parameter untuk jenis energi baru, dengan pedoman berikut: 1 level sama dengan 1 SIZ poin energi untuk dimanipulasi atau dihasilkan; jika sesuai, kekuatan akan melakukan 1D6 poin kerusakan per 10 level kekuatan (dibulatkan ke atas); jarak dasar adalah 15 meter. Jika ragu, tentukan cara di mana kekuatan super dapat digunakan dalam lemparan perlawanan.
 
-* **Kontrol Energi Gabungan:** Karakter Anda dapat menggabungkan kekuatan super ini jika mereka membayar jumlah penuh untuk setiap jenis Kontrol Energi. Setiap aspek kekuatan akan memiliki efektivitas penuh, meskipun kerusakan dilempar secara terpisah untuk setiap jenis, karena target mungkin memiliki jenis Absorpsi, Baju Besi, Perlindungan, atau Perlawanan yang berbeda. Level jenis Kontrol Energi gabungan tidak harus setara. Semua efek khusus untuk setiap jenis Kontrol Energi ditambahkan ke serangan ini. Untuk serangan gabungan, setiap penggunaan memakan biaya poin kekuatan penuh yang diperlukan untuk kekuatan tersebut.
+* **Kontrol Energi Gabungan:** Karakter Anda dapat menggabungkan kekuatan super ini jika mereka membayar jumlah penuh untuk setiap jenis Kontrol Energi. Setiap aspek kekuatan akan memiliki efektivitas penuh, meskipun kerusakan dilempar secara terpisah untuk setiap jenis, karena target mungkin memiliki jenis Absorpsi, Zirah, Perlindungan, atau Perlawanan yang berbeda. Level jenis Kontrol Energi gabungan tidak harus setara. Semua efek khusus untuk setiap jenis Kontrol Energi ditambahkan ke serangan ini. Untuk serangan gabungan, setiap penggunaan memakan biaya poin kekuatan penuh yang diperlukan untuk kekuatan tersebut.
 
-Anda dan game master Anda harus mendiskusikan penggunaan potensial lebih lanjut untuk setiap jenis energi, meskipun setiap kali penggunaan kekuatan super tampaknya menduplikasi kekuatan lain, kekuatan super itu harus dibeli sebagai gantinya. Kekuatan super ini tidak memberikan kekebalan terhadap jenis energi yang digunakan—sebaliknya, karakter kebal terhadap pelepasan awal energi tetapi rentan terhadapnya di kemudian hari. Beli level dalam Absorpsi, Baju Besi, Perlindungan, atau Perlawanan, jika diinginkan.
+Anda dan game master Anda harus mendiskusikan penggunaan potensial lebih lanjut untuk setiap jenis energi, meskipun setiap kali penggunaan kekuatan super tampaknya menduplikasi kekuatan lain, kekuatan super itu harus dibeli sebagai gantinya. Kekuatan super ini tidak memberikan kekebalan terhadap jenis energi yang digunakan—sebaliknya, karakter kebal terhadap pelepasan awal energi tetapi rentan terhadapnya di kemudian hari. Beli level dalam Absorpsi, Zirah, Perlindungan, atau Perlawanan, jika diinginkan.
 
 Banyak dari jenis energi ini dapat digunakan untuk menduplikasi atau meniru efek lingkungan yang dijelaskan dalam *Bab Tujuh: Aturan Tempat*.
 
@@ -2745,6 +2745,6 @@ Berikut adalah jenis proyeksi energi yang umum digunakan, dan beberapa efek samp
 
 * **Proyeksi Energi Lain:** Lihat **Kontrol Energi Lain** untuk saran dalam membuat jenis energi baru.
 
-* **Proyeksi Energi Gabungan:** Serangan ini dapat digabungkan jika setiap jenis Proyeksi Energi dibeli secara terpisah. Level tidak harus setara. Satu lemparan Proyeksi yang berhasil berarti semua jenis Proyeksi Energi mengenai target. Setiap jenis Proyeksi Energi memiliki efektivitas normalnya, meskipun lemparan perlawanan dan efek samping harus ditentukan secara terpisah. Kerusakan dilempar secara terpisah untuk setiap jenis, karena target mungkin memiliki jenis Absorpsi, Baju Besi, Perlindungan, atau Perlawanan yang berbeda. Untuk serangan Proyeksi Energi gabungan, setiap serangan memakan biaya poin kekuatan penuh untuk semua level dan semua jenis energi yang digunakan.
+* **Proyeksi Energi Gabungan:** Serangan ini dapat digabungkan jika setiap jenis Proyeksi Energi dibeli secara terpisah. Level tidak harus setara. Satu lemparan Proyeksi yang berhasil berarti semua jenis Proyeksi Energi mengenai target. Setiap jenis Proyeksi Energi memiliki efektivitas normalnya, meskipun lemparan perlawanan dan efek samping harus ditentukan secara terpisah. Kerusakan dilempar secara terpisah untuk setiap jenis, karena target mungkin memiliki jenis Absorpsi, Zirah, Perlindungan, atau Perlawanan yang berbeda. Untuk serangan Proyeksi Energi gabungan, setiap serangan memakan biaya poin kekuatan penuh untuk semua level dan semua jenis energi yang digunakan.
 
 Banyak dari ini memiliki efektivitas variabel terhadap pertahanan tertentu, seperti Proyeksi Api yang lemah terhadap pertahanan berbasis dingin, atau Proyeksi Magnetik yang sangat kuat terhadap pertahanan logam. Atas pilihan game master Anda, level kekuatan Proyeksi Energi dapat diperiksa dalam lemparan perlawanan terhadap kekuatan yang menahan untuk
