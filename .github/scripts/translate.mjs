@@ -71,6 +71,116 @@ const SYSTEM_INSTRUCTION =
   "and relative file links exactly as they are written. Do not add conversational " +
   "commentary or meta-text.";
 
+// Directory holding one optional glossary file per target language, e.g.
+// .github/scripts/glossaries/es.json. Each file is a JSON object with two
+// optional blocks:
+//   "terms": { "Source English Term": "Preferred Target Translation" }
+//   "forbidden_translations": { "Bad Translation": "Correct Translation" }
+// Neither block is required to exist yet -- if the file (or a given
+// language's file) is missing, translation and post-processing behave
+// exactly as before this feature was added.
+const GLOSSARY_DIR = path.join(".github", "scripts", "glossaries");
+
+const glossaryCache = new Map();
+
+/**
+ * Loads and parses a target language's glossary file, if one exists.
+ * Results are cached per-language for the lifetime of the process since
+ * the same glossary is consulted repeatedly (once per file translated,
+ * plus once per file during post-processing).
+ */
+function getGlossary(lang) {
+  if (glossaryCache.has(lang)) {
+    return glossaryCache.get(lang);
+  }
+
+  const glossaryPath = path.join(GLOSSARY_DIR, `${lang}.json`);
+  let glossary = null;
+
+  if (fs.existsSync(glossaryPath)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(glossaryPath, "utf8"));
+      glossary = {
+        terms: parsed && typeof parsed.terms === "object" && parsed.terms ? parsed.terms : {},
+        forbiddenTranslations:
+          parsed && typeof parsed.forbidden_translations === "object" && parsed.forbidden_translations
+            ? parsed.forbidden_translations
+            : {},
+      };
+    } catch (error) {
+      console.error(`Failed to parse glossary ${glossaryPath}: ${error.message}. Ignoring it.`);
+      glossary = null;
+    }
+  }
+
+  glossaryCache.set(lang, glossary);
+  return glossary;
+}
+
+/**
+ * Builds a strict, appended instruction block listing mandatory term
+ * translations for a language's glossary, or an empty string if that
+ * language has no glossary (or its glossary has no "terms" entries).
+ */
+function buildGlossaryInstruction(glossary) {
+  const termEntries = glossary ? Object.entries(glossary.terms || {}) : [];
+  if (termEntries.length === 0) return "";
+
+  const lines = termEntries.map(([source, target]) => `- "${source}" -> "${target}"`).join("\n");
+
+  return (
+    "\n\nMANDATORY GLOSSARY: You MUST translate the following terms exactly as " +
+    "specified below, every time they appear, even if a different phrasing " +
+    `would otherwise seem more natural:\n${lines}`
+  );
+}
+
+/** Builds the full user-turn prompt for one file/language pair, including any glossary instruction for that language. */
+function buildTranslationPrompt(protectedText, lang) {
+  const glossaryInstruction = buildGlossaryInstruction(getGlossary(lang));
+  return `Target language code: ${lang}${glossaryInstruction}\n\n${protectedText}`;
+}
+
+/** Escapes regex metacharacters so a glossary term can be used as a literal-text pattern. */
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+/**
+ * Builds a case-insensitive "whole word" regex for a glossary term, without
+ * relying on \b (which is ASCII-word-based and misbehaves on accented
+ * letters, CJK, Arabic, etc.). Uses Unicode-aware negative lookaround
+ * instead, so it works correctly across every target language's script.
+ */
+function buildTermRegex(term) {
+  return new RegExp(`(?<![\\p{L}\\p{N}_])${escapeRegExp(term)}(?![\\p{L}\\p{N}_])`, "giu");
+}
+
+/**
+ * Applies one target language's glossary to already-translated text:
+ *   1. Replaces any "forbidden" (known-bad) translation with its correct
+ *      replacement.
+ *   2. Replaces any residual, untranslated English source term with its
+ *      glossary-mandated translation (a defensive backstop in case the
+ *      model missed the prompt instruction for a given occurrence).
+ * Returns the text unchanged if there's no glossary for this language.
+ */
+function applyGlossaryToText(text, glossary) {
+  if (!glossary) return text;
+
+  let result = text;
+
+  for (const [badTranslation, correctTranslation] of Object.entries(glossary.forbiddenTranslations || {})) {
+    result = result.replace(buildTermRegex(badTranslation), correctTranslation);
+  }
+
+  for (const [sourceTerm, preferredTranslation] of Object.entries(glossary.terms || {})) {
+    result = result.replace(buildTermRegex(sourceTerm), preferredTranslation);
+  }
+
+  return result;
+}
+
 /**
  * Replaces fenced code blocks and inline code spans with stable placeholder
  * tokens before sending text to the model, so the translator can't rephrase
@@ -209,10 +319,19 @@ function configureGitIdentity() {
  * to the next one.
  */
 function commitAndPushProgress(englishPath) {
+  commitAndPush(`chore: auto-translate ${englishPath}`, englishPath);
+}
+
+/**
+ * Shared commit+push logic behind commitAndPushProgress (per-English-file
+ * translation progress) and the standalone glossary post-processing mode.
+ * `contextLabel` is only used for log messages.
+ */
+function commitAndPush(commitMessage, contextLabel) {
   try {
     git(["add", "rules/"]);
   } catch (error) {
-    console.error(`git add failed for ${englishPath}: ${error.message}`);
+    console.error(`git add failed for ${contextLabel}: ${error.message}`);
     return;
   }
 
@@ -220,26 +339,26 @@ function commitAndPushProgress(englishPath) {
   try {
     staged = git(["diff", "--cached", "--name-only"]).trim();
   } catch (error) {
-    console.error(`git diff failed for ${englishPath}: ${error.message}`);
+    console.error(`git diff failed for ${contextLabel}: ${error.message}`);
     return;
   }
 
   if (!staged) {
-    console.log(`No translation changes to commit for ${englishPath}.`);
+    console.log(`No translation changes to commit for ${contextLabel}.`);
     return;
   }
 
   try {
-    git(["commit", "-m", `chore: auto-translate ${englishPath}`]);
+    git(["commit", "-m", commitMessage]);
   } catch (error) {
-    console.error(`git commit failed for ${englishPath}: ${error.message}`);
+    console.error(`git commit failed for ${contextLabel}: ${error.message}`);
     return;
   }
 
   const branch = process.env.GITHUB_REF_NAME;
   if (!branch) {
     console.error(
-      `GITHUB_REF_NAME is not set; the commit for ${englishPath} is saved ` +
+      `GITHUB_REF_NAME is not set; the commit for ${contextLabel} is saved ` +
       "locally but was not pushed."
     );
     return;
@@ -248,10 +367,10 @@ function commitAndPushProgress(englishPath) {
   for (let attempt = 0; attempt < 2; attempt += 1) {
     try {
       git(["push", "origin", `HEAD:${branch}`]);
-      console.log(`Committed and pushed translations for ${englishPath}.`);
+      console.log(`Committed and pushed changes for ${contextLabel}.`);
       return;
     } catch (error) {
-      console.error(`git push failed for ${englishPath} (attempt ${attempt + 1}/2): ${error.message}`);
+      console.error(`git push failed for ${contextLabel} (attempt ${attempt + 1}/2): ${error.message}`);
 
       // The branch may have moved (e.g. another commit landed on it while
       // this long-running job was translating). Rebase once and retry.
@@ -259,7 +378,7 @@ function commitAndPushProgress(englishPath) {
         try {
           git(["pull", "--rebase", "origin", branch]);
         } catch (pullError) {
-          console.error(`git pull --rebase failed for ${englishPath}: ${pullError.message}`);
+          console.error(`git pull --rebase failed for ${contextLabel}: ${pullError.message}`);
           break;
         }
       }
@@ -267,13 +386,13 @@ function commitAndPushProgress(englishPath) {
   }
 
   console.error(
-    `Giving up pushing translations for ${englishPath} after retrying; ` +
+    `Giving up pushing changes for ${contextLabel} after retrying; ` +
     "progress is committed locally but not pushed to origin."
   );
 }
 
 async function translateOne(ai, protectedText, lang) {
-  const prompt = `Target language code: ${lang}\n\n${protectedText}`;
+  const prompt = buildTranslationPrompt(protectedText, lang);
 
   const response = await ai.models.generateContent({
     model: MODEL,
@@ -339,7 +458,7 @@ function buildGenerateContentRequest(protectedText, lang) {
     contents: [
       {
         role: "user",
-        parts: [{ text: `Target language code: ${lang}\n\n${protectedText}` }],
+        parts: [{ text: buildTranslationPrompt(protectedText, lang) }],
       },
     ],
     config: {
@@ -541,9 +660,10 @@ async function translateFile(ai, englishPath) {
       }
 
       const restoredText = restoreCodeBlocks(translatedText, placeholders);
+      const finalText = applyGlossaryToText(restoredText, getGlossary(lang));
 
       fs.mkdirSync(path.dirname(targetPath), { recursive: true });
-      fs.writeFileSync(targetPath, restoredText, "utf8");
+      fs.writeFileSync(targetPath, finalText, "utf8");
       console.log(`Translated ${englishPath} -> ${targetPath}`);
     } catch (error) {
       // A single language failing after all retries (rate limit, transient
@@ -555,7 +675,92 @@ async function translateFile(ai, englishPath) {
 }
 
 
+/**
+ * Parses this process's CLI flags. Supported flags:
+ *   --post-process-only / --apply-glossary  (aliases for the same thing)
+ *       Skip the Gemini API entirely and only run the glossary
+ *       regex-cleanup pass over already-translated files on disk.
+ *   --lang=<code>
+ *       Restrict --post-process-only to a single target language. Omitted
+ *       (or "all") means every language in TARGET_LANGUAGES that has a
+ *       glossary file.
+ */
+function parseCliArgs(argv) {
+  const args = { postProcessOnly: false, lang: null };
+
+  for (const rawArg of argv) {
+    if (rawArg === "--post-process-only" || rawArg === "--apply-glossary") {
+      args.postProcessOnly = true;
+    } else if (rawArg.startsWith("--lang=")) {
+      args.lang = rawArg.slice("--lang=".length).trim();
+    }
+  }
+
+  return args;
+}
+
+/**
+ * Standalone glossary post-processing mode (--post-process-only /
+ * --apply-glossary). Does NOT call the Gemini API or re-translate
+ * anything from English -- it only rewrites already-translated
+ * rules/<lang>/*.md files in place using each language's glossary.json
+ * (forbidden_translations corrections, plus a residual-English-term
+ * cleanup pass using terms), then commits and pushes any changes.
+ */
+function runGlossaryPostProcessOnly(langArg) {
+  const langs = !langArg || langArg === "all" ? TARGET_LANGUAGES : [langArg];
+
+  configureGitIdentity();
+
+  let anyChanges = false;
+
+  for (const lang of langs) {
+    const glossary = getGlossary(lang);
+    if (!glossary) {
+      console.log(
+        `No glossary found for "${lang}" (expected ${path.join(GLOSSARY_DIR, `${lang}.json`)}); skipping.`
+      );
+      continue;
+    }
+
+    const dir = path.join("rules", lang);
+    if (!fs.existsSync(dir)) {
+      console.log(`rules/${lang}/ does not exist; skipping.`);
+      continue;
+    }
+
+    const mdFileNames = fs.readdirSync(dir).filter((name) => name.endsWith(".md"));
+
+    for (const fileName of mdFileNames) {
+      const filePath = path.join(dir, fileName);
+      const original = fs.readFileSync(filePath, "utf8");
+      const updated = applyGlossaryToText(original, glossary);
+
+      if (updated !== original) {
+        fs.writeFileSync(filePath, updated, "utf8");
+        console.log(`Applied glossary corrections to ${filePath}`);
+        anyChanges = true;
+      } else {
+        console.log(`No glossary changes needed for ${filePath}`);
+      }
+    }
+  }
+
+  if (anyChanges) {
+    commitAndPush("chore: apply glossary corrections", "glossary post-processing");
+  } else {
+    console.log("Glossary post-processing made no changes; nothing to commit.");
+  }
+}
+
 async function main() {
+  const cliArgs = parseCliArgs(process.argv.slice(2));
+
+  if (cliArgs.postProcessOnly) {
+    runGlossaryPostProcessOnly(cliArgs.lang);
+    return;
+  }
+
   const changedFilesRaw = process.env.CHANGED_FILES || "";
   const changedFiles = changedFilesRaw
     .split("\n")
