@@ -1,0 +1,14 @@
+{
+  "terms": {
+    "Free Action": "Aksi Gratis",
+    "Armor": "Zirah",
+    "Fatigue": "Kelelahan",
+    "Wearied": "Letih",
+    "Bash": "Dorong",
+    "Fumble": "Kegagalan Mutlak"
+  },
+  "forbidden_translations": {
+    "Aksi Bebas": "Aksi Gratis",
+    "Baju Besi": "Zirah"
+  }
+}
