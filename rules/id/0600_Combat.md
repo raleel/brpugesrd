@@ -110,7 +110,7 @@ Karakter yang terlibat dapat memilih untuk meninggalkan pertempuran dengan menya
 
 Siapa pun yang dipersenjatai dengan senjata penangkis atau perisai (atau menggunakan tubuh mereka sendiri) dapat memblokir kerusakan dari serangan. Lempar dadu melawan keterampilan tempur yang relevan untuk menangkis pukulan. Anda tidak perlu mengumumkan ini sebelumnya, dan itu dilakukan sebagai reaksi terhadap lemparan serangan yang berhasil dari kombatan lain.
 
-Tangkisan yang berhasil biasanya membelokkan semua kerusakan dari serangan yang masuk (kecuali Anda menangkis dengan tubuh Anda sendiri sebagai bentuk Seni Bela Diri), mengurangi serangan yang berhasil menjadi meleset atau mengurangi tingkat keparahan serangan khusus atau kritis. Poin armor dan hit point perisai (AP/HP) hanya digunakan saat menangani kerusakan yang dilakukan langsung ke perisai itu sendiri, seperti dalam serangan untuk mencoba menghancurkan perisai atau senjata penangkis; seperti saat menahan kerusakan vs poin armor perisai pada tabel resistensi saat menangkis pukulan remuk, atau ketika 2 atau 4 poin kerusakan dilakukan pada senjata penangkis atau perisai pada **Matriks Serangan dan Pertahanan**.
+Tangkisan yang berhasil biasanya membelokkan semua kerusakan dari serangan yang masuk (kecuali Anda menangkis dengan tubuh Anda sendiri sebagai bentuk Seni Bela Diri), mengurangi serangan yang berhasil menjadi meleset atau mengurangi tingkat keparahan serangan khusus atau kritis. Poin Zirah dan hit point perisai (AP/HP) hanya digunakan saat menangani kerusakan yang dilakukan langsung ke perisai itu sendiri, seperti dalam serangan untuk mencoba menghancurkan perisai atau senjata penangkis; seperti saat menahan kerusakan vs poin Zirah perisai pada tabel resistensi saat menangkis pukulan remuk, atau ketika 2 atau 4 poin kerusakan dilakukan pada senjata penangkis atau perisai pada **Matriks Serangan dan Pertahanan**.
 
 Setiap upaya tangkisan berturut-turut setelah yang pertama dimodifikasi sebesar –30% ke peringkat keterampilan, bersifat kumulatif. Jika peluang untuk menangkis serangan turun di bawah 1%, karakter Anda tidak dapat mencoba menangkis. Dalam sebagian besar situasi, karakter Anda hanya dapat menangkis senjata misil dengan perisai, pada peluang dasar perisai (lihat **Perisai dan Tembakan Misil**). Jika mencoba menangkis senjata lempar dengan senjata tangan, peluang untuk menangkis harus berupa keberhasilan khusus (1/5 dari peringkat keterampilan normal).
 
@@ -173,7 +173,7 @@ Untuk melakukan serangan, tangkisan, atau menghindar, lempar dadu persentil dan 
 | Berhasil | Berhasil | Pukulan penyerang dibelokkan atau dihindari. |
 | Berhasil | Gagal | Bek terpukul dan mungkin kehilangan hit point. |
 | Gagal | Tidak perlu lemparan | Bek mempertahankan pertahanan, tidak perlu melempar. |
-| Fumble | Tidak perlu lemparan | Seperti miss penyerang di atas, ditambah penyerang melempar di tabel fumble. |
+| Kegagalan Mutlak | Tidak perlu lemparan | Seperti miss penyerang di atas, ditambah penyerang melempar di tabel Kegagalan Mutlak. |
 
 ### Tingkat Keberhasilan dan Kegagalan
 
@@ -181,9 +181,9 @@ Seperti halnya keterampilan, dalam pertempuran seringkali penting untuk mengetah
 
 #### Keberhasilan Kritis
 
-Lemparan terbaik! Hasil D100 kurang dari atau sama dengan 1/20 dari peringkat keterampilan karakter Anda, dibulatkan ke atas. Serangan kritis berarti senjata memberikan kerusakan maksimum yang mungkin untuk senjata yang digunakan (6 untuk 1D6, 9 untuk 1D8+1, dll.) ditambah modifikator kerusakan normal yang dilempar. Kecuali dilawan dengan tangkisan kritis, hasil serangan kritis selalu mengabaikan armor, meskipun armor tersebut mencakup seluruh tubuh. Tangkisan kritis dapat merusak senjata penyerang.
+Lemparan terbaik! Hasil D100 kurang dari atau sama dengan 1/20 dari peringkat keterampilan karakter Anda, dibulatkan ke atas. Serangan kritis berarti senjata memberikan kerusakan maksimum yang mungkin untuk senjata yang digunakan (6 untuk 1D6, 9 untuk 1D8+1, dll.) ditambah modifikator kerusakan normal yang dilempar. Kecuali dilawan dengan tangkisan kritis, hasil serangan kritis selalu mengabaikan Zirah, meskipun Zirah tersebut mencakup seluruh tubuh. Tangkisan kritis dapat merusak senjata penyerang.
 
-***Sebagai contoh,*** *jika karakter Anda memiliki peringkat keterampilan senjata 60%, mereka mencapai keberhasilan kritis pada lemparan 01–03. Saat ini dilempar, karakter Anda cukup mengambil kerusakan maksimum yang dapat ditimbulkan senjata, melempar modifikator kerusakan seperti biasa, dan mengabaikan armor apa pun yang mungkin dikenakan target, baik alami maupun bertenaga. Jika keberhasilan kritis dilakukan dengan pedang pendek yang memberikan 1D6+1 kerusakan, dan modifikator kerusakan karakter Anda adalah 1D4, kerusakan kritisnya adalah 7+1D4 (6+1=7), mengabaikan armor target. Jika senjata tersebut adalah pistol yang memberikan 1D10 kerusakan, kerusakannya adalah 10 dan mengabaikan armor target.*
+***Sebagai contoh,*** *jika karakter Anda memiliki peringkat keterampilan senjata 60%, mereka mencapai keberhasilan kritis pada lemparan 01–03. Saat ini dilempar, karakter Anda cukup mengambil kerusakan maksimum yang dapat ditimbulkan senjata, melempar modifikator kerusakan seperti biasa, dan mengabaikan Zirah apa pun yang mungkin dikenakan target, baik alami maupun bertenaga. Jika keberhasilan kritis dilakukan dengan pedang pendek yang memberikan 1D6+1 kerusakan, dan modifikator kerusakan karakter Anda adalah 1D4, kerusakan kritisnya adalah 7+1D4 (6+1=7), mengabaikan Zirah target. Jika senjata tersebut adalah pistol yang memberikan 1D10 kerusakan, kerusakannya adalah 10 dan mengabaikan Zirah target.*
 
 Gamemaster Anda dapat mengizinkan karakter Anda untuk menimbulkan keberhasilan khusus (di bawah) pada target sebagai pengganti keberhasilan kritis, jika diinginkan.
 
@@ -205,53 +205,53 @@ Lemparan yang baik. Ini adalah hasil D100 yang sama dengan atau kurang dari peri
 
 #### Kegagalan
 
-Lemparan yang buruk. Hasil D100 lebih besar dari peringkat keterampilan karakter Anda tetapi kurang dari 1/20 peluang kegagalan tertinggi (lihat Fumble, di bawah). Gagal dalam lemparan tempur berarti upaya tersebut gagal, tetapi karakter Anda dapat mencoba lagi nanti di putaran pertempuran yang sama atau berikutnya.
+Lemparan yang buruk. Hasil D100 lebih besar dari peringkat keterampilan karakter Anda tetapi kurang dari 1/20 peluang kegagalan tertinggi (lihat Kegagalan Mutlak, di bawah). Gagal dalam lemparan tempur berarti upaya tersebut gagal, tetapi karakter Anda dapat mencoba lagi nanti di putaran pertempuran yang sama atau berikutnya.
 
 ***Sebagai contoh,*** *dengan keterampilan Senjata Api 60%, karakter Anda gagal pada lemparan 61–97. Tidak ada kerusakan yang dilempar, dan target Anda tidak perlu mencoba menghindar atau menangkis serangan tersebut.*
 
-#### Fumble
+#### Kegagalan Mutlak
 
-Lemparan yang membawa bencana! Hasil dari 1/20 peluang kegagalan tertinggi, biasanya berkisar dari 96–100 untuk tingkat keterampilan yang lebih rendah hingga lemparan 100 ketika tingkat keterampilan karakter di atas 100%. Seringkali, fumble menunjukkan kecelakaan dramatis dalam beberapa bentuk, dan sering memaksa lemparan di tabel fumble yang relevan. Lihat **Tabel Fumble Serangan Senjata Jarak Dekat**, **Tabel Fumble Tangkisan Senjata Jarak Dekat**, **Tabel Fumble Serangan Senjata Misil**, dan **Tabel Fumble Serangan dan Tangkisan Alami**.
+Lemparan yang membawa bencana! Hasil dari 1/20 peluang kegagalan tertinggi, biasanya berkisar dari 96–100 untuk tingkat keterampilan yang lebih rendah hingga lemparan 100 ketika tingkat keterampilan karakter di atas 100%. Seringkali, Kegagalan Mutlak menunjukkan kecelakaan dramatis dalam beberapa bentuk, dan sering memaksa lemparan di tabel Kegagalan Mutlak yang relevan. Lihat **Tabel Kegagalan Mutlak Serangan Senjata Jarak Dekat**, **Tabel Kegagalan Mutlak Tangkisan Senjata Jarak Dekat**, **Tabel Kegagalan Mutlak Serangan Senjata Misil**, dan **Tabel Kegagalan Mutlak Serangan dan Tangkisan Alami**.
 
-***Sebagai contoh,*** *dengan keterampilan Senjata Api 60%, karakter Anda fumble pada lemparan 98–00. Tidak ada kerusakan yang dilempar, meskipun Anda harus melempar pada **Tabel Fumble Senjata Misil** untuk menentukan hasil dari serangan yang gagal ini.*
+***Sebagai contoh,*** *dengan keterampilan Senjata Api 60%, karakter Anda Kegagalan Mutlak pada lemparan 98–00. Tidak ada kerusakan yang dilempar, meskipun Anda harus melempar pada **Tabel Kegagalan Mutlak Senjata Misil** untuk menentukan hasil dari serangan yang gagal ini.*
 
 Beberapa senjata memiliki peluang kerusakan (macet, terkunci, dll.), dinyatakan sebagai hasil yang tinggi.
 
 ***Sebagai contoh,*** *musket selalu mengalami kerusakan pada lemparan 95–00, terlepas dari keterampilan penggunanya.*
 
-Tergantung pada hasil dari lemparan sial yang sama dan tergantung pada peringkat keterampilan karakter Anda, karakter Anda mungkin mengalami fumble dan senjata mengalami kerusakan; senjata mengalami kerusakan tanpa fumble; atau fumble tanpa senjata mengalami kerusakan.
+Tergantung pada hasil dari lemparan sial yang sama dan tergantung pada peringkat keterampilan karakter Anda, karakter Anda mungkin mengalami Kegagalan Mutlak dan senjata mengalami kerusakan; senjata mengalami kerusakan tanpa Kegagalan Mutlak; atau Kegagalan Mutlak tanpa senjata mengalami kerusakan.
 
-***Sebagai contoh,*** *karakter Anda memiliki keterampilan 60% dengan musket dan melempar 99 saat menembakkannya. Karena senjata mengalami kerusakan pada lemparan 95–00, dan karakter Anda biasanya fumble pada lemparan 98–00, serangan ini sayangnya merupakan fumble sekaligus kerusakan senjata. Jika lemparannya adalah 95, 96, atau 97, itu hanya akan menjadi kerusakan senjata.*
+***Sebagai contoh,*** *karakter Anda memiliki keterampilan 60% dengan musket dan melempar 99 saat menembakkannya. Karena senjata mengalami kerusakan pada lemparan 95–00, dan karakter Anda biasanya Kegagalan Mutlak pada lemparan 98–00, serangan ini sayangnya merupakan Kegagalan Mutlak sekaligus kerusakan senjata. Jika lemparannya adalah 95, 96, atau 97, itu hanya akan menjadi kerusakan senjata.*
 
-Jika hasil fumble menentukan serangan pada target selain yang dimaksudkan, dan kerusakan menyebabkan kemacetan, serangan terjadi sebelum kerusakan (lihat **Kerusakan Senjata**).
+Jika hasil Kegagalan Mutlak menentukan serangan pada target selain yang dimaksudkan, dan kerusakan menyebabkan kemacetan, serangan terjadi sebelum kerusakan (lihat **Kerusakan Senjata**).
 
 ##### Matriks Serangan dan Pertahanan
 
 | Lemparan Serangan | Lemparan Tangkisan | Lemparan Menghindar | Hasil |
 | :---- | :---- | :---- | :---- |
 | Kritis | Kritis | Kritis | Bek menangkis atau menghindar kerusakan, tidak ada hasil lain. |
-| Kritis | Khusus | Khusus | Serangan sebagian dibelokkan atau dihindari dan mencapai keberhasilan. Penyerang memukul bek dan melempar kerusakan normal. Nilai armor bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 2 poin kerusakan.* |
-| Kritis | Berhasil | Berhasil | Serangan sedikit dibelokkan dan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai armor bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 4 poin kerusakan.* |
-| Kritis | Gagal | Gagal | Serangan mencapai keberhasilan kritis (mungkin memilih keberhasilan khusus sebagai gantinya). Serangan memberikan kerusakan maksimum ditambah modifikator kerusakan normal. Nilai armor bek dilewati. |
-| Kritis | Fumble | Fumble | Serangan mencapai keberhasilan kritis (mungkin memilih keberhasilan khusus sebagai gantinya). Serangan memberikan kerusakan maksimum ditambah modifikator kerusakan normal. Nilai armor bek tidak berlaku. Bek melempar pada tabel fumble yang sesuai. |
+| Kritis | Khusus | Khusus | Serangan sebagian dibelokkan atau dihindari dan mencapai keberhasilan. Penyerang memukul bek dan melempar kerusakan normal. Nilai Zirah bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 2 poin kerusakan.* |
+| Kritis | Berhasil | Berhasil | Serangan sedikit dibelokkan dan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai Zirah bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 4 poin kerusakan.* |
+| Kritis | Gagal | Gagal | Serangan mencapai keberhasilan kritis (mungkin memilih keberhasilan khusus sebagai gantinya). Serangan memberikan kerusakan maksimum ditambah modifikator kerusakan normal. Nilai Zirah bek dilewati. |
+| Kritis | Kegagalan Mutlak | Kegagalan Mutlak | Serangan mencapai keberhasilan kritis (mungkin memilih keberhasilan khusus sebagai gantinya). Serangan memberikan kerusakan maksimum ditambah modifikator kerusakan normal. Nilai Zirah bek tidak berlaku. Bek melempar pada tabel Kegagalan Mutlak yang sesuai. |
 | Khusus | Kritis | Kritis | Bek menangkis atau menghindar serangan; tidak ada hasil lain. Jika ditangkis dalam pertempuran jarak dekat, senjata penyerang menerima 1 poin kerusakan.* |
 | Khusus | Khusus | Khusus | Bek menangkis atau menghindar serangan, tidak ada hasil lain. |
-| Khusus | Berhasil | Berhasil | Serangan sebagian ditangkis atau dihindari dan mencapai keberhasilan normal. Nilai armor bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 2 poin kerusakan.* |
-| Khusus | Gagal | Gagal | Serangan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai armor bek dikurangi dari kerusakan. |
-| Khusus | Fumble | Fumble | Serangan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai armor bek dikurangi dari kerusakan. Bek melempar pada tabel fumble yang sesuai. |
+| Khusus | Berhasil | Berhasil | Serangan sebagian ditangkis atau dihindari dan mencapai keberhasilan normal. Nilai Zirah bek dikurangi dari kerusakan. Senjata atau perisai penangkis menerima 2 poin kerusakan.* |
+| Khusus | Gagal | Gagal | Serangan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai Zirah bek dikurangi dari kerusakan. |
+| Khusus | Kegagalan Mutlak | Kegagalan Mutlak | Serangan mencapai keberhasilan khusus. Serangan memberikan kerusakan penuh** ditambah modifikator kerusakan normal dan hasil khusus yang sesuai. Nilai Zirah bek dikurangi dari kerusakan. Bek melempar pada tabel Kegagalan Mutlak yang sesuai. |
 | Berhasil | Kritis | Kritis | Bek memblokir atau menghindar kerusakan; tidak ada hasil lain. Jika ditangkis dalam pertempuran jarak dekat, senjata penyerang menerima 2 poin kerusakan.* |
 | Berhasil | Khusus | Khusus | Bek memblokir atau menghindar kerusakan; tidak ada hasil lain. Jika ditangkis dalam pertempuran jarak dekat, senjata penyerang menerima 1 poin kerusakan.* |
 | Berhasil | Berhasil | Berhasil | Bek memblokir atau menghindar kerusakan, tidak ada hasil lain. |
-| Berhasil | Gagal | Gagal | Serangan mengenai bek dan melempar kerusakan normal. Nilai armor bek dikurangi dari kerusakan. |
-| Berhasil | Fumble | Fumble | Serangan mengenai bek dan melempar kerusakan normal. Nilai armor bek dikurangi dari kerusakan. Bek melempar pada tabel fumble yang sesuai. |
+| Berhasil | Gagal | Gagal | Serangan mengenai bek dan melempar kerusakan normal. Nilai Zirah bek dikurangi dari kerusakan. |
+| Berhasil | Kegagalan Mutlak | Kegagalan Mutlak | Serangan mengenai bek dan melempar kerusakan normal. Nilai Zirah bek dikurangi dari kerusakan. Bek melempar pada tabel Kegagalan Mutlak yang sesuai. |
 | Gagal | — | — | Tidak ada kerusakan; tidak ada efek. |
-| Fumble | — | — | Serangan meleset sepenuhnya dan penyerang melempar pada tabel fumble yang sesuai. Bek tidak terluka. |
+| Kegagalan Mutlak | — | — | Serangan meleset sepenuhnya dan penyerang melempar pada tabel Kegagalan Mutlak yang sesuai. Bek tidak terluka. |
 
-\* Jika senjata penangkis atau perisai dihancurkan selama upaya tangkisan, lempar kerusakan normal senjata penyerang dan kurangi poin kerusakan yang digunakan untuk menghancurkan senjata atau perisai penangkis. Sisa kerusakan menembus upaya tangkisan untuk melukai bek (armor masih melindungi). Jika senjata penyerang dihancurkan selama serangan yang berhasil, kerusakan tetap ditimbulkan pada bek dan senjata rusak pada saat itu.
+\* Jika senjata penangkis atau perisai dihancurkan selama upaya tangkisan, lempar kerusakan normal senjata penyerang dan kurangi poin kerusakan yang digunakan untuk menghancurkan senjata atau perisai penangkis. Sisa kerusakan menembus upaya tangkisan untuk melukai bek (Zirah masih melindungi). Jika senjata penyerang dihancurkan selama serangan yang berhasil, kerusakan tetap ditimbulkan pada bek dan senjata rusak pada saat itu.
 
-\*\* Ini adalah kerusakan yang biasanya dilakukan oleh jenis serangan tersebut. Ini tidak sama dengan ‘kerusakan maksimum’. Untuk pedang besar (greatsword), kerusakan penuh adalah 2D8 pada keberhasilan normal, 2D8 kerusakan pendarahan pada keberhasilan khusus, dan pada keberhasilan kritis memberikan 16 kerusakan yang mengabaikan armor. Modifikator kerusakan, dalam semua kasus, dilempar secara terpisah dan ditambahkan setelahnya.
+\*\* Ini adalah kerusakan yang biasanya dilakukan oleh jenis serangan tersebut. Ini tidak sama dengan ‘kerusakan maksimum’. Untuk pedang besar (greatsword), kerusakan penuh adalah 2D8 pada keberhasilan normal, 2D8 kerusakan pendarahan pada keberhasilan khusus, dan pada keberhasilan kritis memberikan 16 kerusakan yang mengabaikan Zirah. Modifikator kerusakan, dalam semua kasus, dilempar secara terpisah dan ditambahkan setelahnya.
 
-##### Tabel Fumble Serangan Senjata Jarak Dekat
+##### Tabel Kegagalan Mutlak Serangan Senjata Jarak Dekat
 
 | D100 | Hasil |
 | :---- | :---- |
@@ -268,7 +268,7 @@ Jika hasil fumble menentukan serangan pada target selain yang dimaksudkan, dan k
 | 99 | Mengacaukannya; lempar dua kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 | 00 | Mengacaukannya dengan sangat buruk; lempar tiga kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 
-##### Tabel Fumble Tangkisan Senjata Jarak Dekat
+##### Tabel Kegagalan Mutlak Tangkisan Senjata Jarak Dekat
 
 | D100 | Hasil |
 | :---- | :---- |
@@ -283,7 +283,7 @@ Jika hasil fumble menentukan serangan pada target selain yang dimaksudkan, dan k
 | 94–98 | Mengacaukannya; lempar dua kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 | 99–00 | Mengacaukannya dengan sangat buruk; lempar tiga kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 
-##### Tabel Fumble Serangan Senjata Misil
+##### Tabel Kegagalan Mutlak Serangan Senjata Misil
 
 | D100 | Hasil |
 | :---- | :---- |
@@ -300,7 +300,7 @@ Jika hasil fumble menentukan serangan pada target selain yang dimaksudkan, dan k
 | 99 | Mengacaukannya; lempar dua kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 | 00 | Mengacaukannya dengan sangat buruk; lempar tiga kali lagi pada tabel ini (kumulatif jika hasil ini dilempar lagi). |
 
-##### Tabel Fumble Serangan dan Tangkisan Senjata Alami
+##### Tabel Kegagalan Mutlak Serangan dan Tangkisan Senjata Alami
 
 | D100 | Hasil |
 | :---- | :---- |
@@ -334,7 +334,7 @@ Kelima jenis kerusakan ini dijelaskan di bagian di bawah ini.
 
 #### Pendarahan
 
-Keberhasilan khusus dengan senjata tebas menimbulkan kerusakan pendarahan pada target, yang sekarang memiliki vena atau arteri utama yang terputus dan kehilangan darah dengan cepat. Ini memberikan 1 poin kerusakan hit point tambahan pada peringkat DEX 1 setiap putaran setelah putaran di mana luka itu ditimbulkan. Jika poin kelelahan digunakan, target kehilangan 1 poin kelelahan tambahan setiap putaran mereka mengalami pendarahan. Armor melindungi terhadap serangan awal, tetapi tidak terhadap efek pendarahan.
+Keberhasilan khusus dengan senjata tebas menimbulkan kerusakan pendarahan pada target, yang sekarang memiliki vena atau arteri utama yang terputus dan kehilangan darah dengan cepat. Ini memberikan 1 poin kerusakan hit point tambahan pada peringkat DEX 1 setiap putaran setelah putaran di mana luka itu ditimbulkan. Jika poin kelelahan digunakan, target kehilangan 1 poin kelelahan tambahan setiap putaran mereka mengalami pendarahan. Zirah melindungi terhadap serangan awal, tetapi tidak terhadap efek pendarahan.
 
 Saat dalam pertempuran, target dapat mencoba menghentikan pendarahan sekali per putaran, pada dasarnya meletakkan tangan kosong di atas luka dan memberikan tekanan. Pada akhir setiap putaran, target dapat mencoba lemparan Stamina untuk menentukan apakah pendarahan berhenti. Jika berhasil, luka tertahan tertutup, dan target tidak akan menderita kerusakan pendarahan lagi. Saat melakukan ini, serangan, tangkisan, atau tindakan fisik apa pun yang mereka coba akan menjadi *Sulit*. Mencoba menghindar membatalkan upaya untuk menghentikan pendarahan. Jika tidak berhasil, pendarahan berlanjut, dan jika target menghindar atau melakukan aktivitas berat apa pun, pendarahan akan dimulai lagi.
 
@@ -350,11 +350,11 @@ Keberhasilan khusus remuk menggandakan modifikator kerusakan yang biasanya diter
 
 Target yang menderita keberhasilan khusus remuk juga harus melakukan lemparan Stamina yang berhasil atau terpana selama 1D3 putaran. Terpana adalah pengalaman yang memusingkan dan membingungkan, saat bintang menari di depan mata target dan kepala mereka berputar karena rasa sakit dari pukulan mendadak. Target yang terpana tidak dapat menyerang saat terpana dan hanya dapat mencoba menghindar atau menangkis serangan jika mereka membuat lemparan Ide yang berhasil untuk setiap upaya. Selain itu, semua serangan terhadap target menjadi *Mudah*. Target yang terpana dapat mencoba melarikan diri, tetapi untuk melakukannya memerlukan lemparan Ide yang berhasil untuk mengetahui jalur pelarian dan lemparan Kelincahan yang berhasil untuk keluar dari bahaya.
 
-Jika target berhasil menangkis terhadap serangan keberhasilan khusus remuk, mereka berisiko senjata atau perisai mereka patah. Penyerang melempar kerusakan dan modifikator kerusakan yang ditingkatkan, dan membandingkan kerusakan yang dilempar dengan hit point item penangkis saat ini pada tabel resistensi. Nilai aktif adalah kerusakan yang ditimbulkan, dan nilai pasif adalah hit point normal item tersebut. Jika lemparan aktif berhasil, item penangkis menerima semua kerusakan dari pukulan tersebut, dan sisa kerusakan ditimbulkan pada target penangkis. Target dapat mengurangi perlindungan armor dari kerusakan yang dilakukan oleh pukulan remuk tetapi tidak dapat lagi menghindar atau menangkis serangan ini—serangan itu secara otomatis mengenai dan sisa kerusakan ditimbulkan pada target. Jika target menerima kerusakan, mereka tunduk pada aturan untuk terpana (di atas).
+Jika target berhasil menangkis terhadap serangan keberhasilan khusus remuk, mereka berisiko senjata atau perisai mereka patah. Penyerang melempar kerusakan dan modifikator kerusakan yang ditingkatkan, dan membandingkan kerusakan yang dilempar dengan hit point item penangkis saat ini pada tabel resistensi. Nilai aktif adalah kerusakan yang ditimbulkan, dan nilai pasif adalah hit point normal item tersebut. Jika lemparan aktif berhasil, item penangkis menerima semua kerusakan dari pukulan tersebut, dan sisa kerusakan ditimbulkan pada target penangkis. Target dapat mengurangi perlindungan Zirah dari kerusakan yang dilakukan oleh pukulan remuk tetapi tidak dapat lagi menghindar atau menangkis serangan ini—serangan itu secara otomatis mengenai dan sisa kerusakan ditimbulkan pada target. Jika target menerima kerusakan, mereka tunduk pada aturan untuk terpana (di atas).
 
 Jika lemparan pasif dari hit point item penangkis berhasil, item tersebut menerima kerusakan serangan normal langsung ke hit point-nya. Jika item penangkis menerima lebih banyak kerusakan daripada hit point yang dimilikinya, item tersebut dihancurkan oleh serangan itu—patah atau hancur, mana yang sesuai—tetapi pukulan tidak terus mengenai target.
 
-Jika lokasi pukulan tertentu digunakan dan item penangkis adalah perisai, kerusakan lebih lanjut ini secara otomatis diterapkan pada lengan tempat target mengenakan perisai mereka, memungkinkan perlindungan armor, jika berlaku. Jika item penangkis adalah senjata, kerusakan lebih lanjut diterapkan pada lokasi pukulan acak, dilempar oleh gamemaster. Seperti di atas, perlindungan armor masih menjadi bukti terhadap serangan yang berlanjut.
+Jika lokasi pukulan tertentu digunakan dan item penangkis adalah perisai, kerusakan lebih lanjut ini secara otomatis diterapkan pada lengan tempat target mengenakan perisai mereka, memungkinkan perlindungan Zirah, jika berlaku. Jika item penangkis adalah senjata, kerusakan lebih lanjut diterapkan pada lokasi pukulan acak, dilempar oleh gamemaster. Seperti di atas, perlindungan Zirah masih menjadi bukti terhadap serangan yang berlanjut.
 
 #### Melilit (Entangling)
 
@@ -390,7 +390,7 @@ Jika senjata penyerang masih berada di dalam luka, dan penyerang menginginkannya
 
 Untuk senjata lempar seperti lembing, belati, atau bahkan panah, penyerang harus mendekati target dan berhasil dalam lemparan Kelincahan *Sulit* untuk mengambil senjata tersebut. Peluang untuk mengeluarkan senjata pada putaran berikutnya adalah keterampilan penuh penyerang jika penyerang ingin mengabaikan serangan apa pun untuk putaran tersebut dan berkonsentrasi pada pengambilan senjata, seperti yang dijelaskan di atas.
 
-Target yang terkena impaling tidak dapat disembuhkan sampai senjata impaling dilepas, jika ukurannya lebih besar dari pisau. Benda kecil seperti mata panah atau peluru dapat dibiarkan di dalam luka, meskipun ini dapat menimbulkan komplikasi di kemudian hari, sesuai kebijakan gamemaster. Jika terkena impaling dengan senjata seperti tombak atau pedang, setiap kali target bergerak dengan cara yang signifikan, mereka menerima setengah dari lemparan kerusakan senjata (lempar lagi, tanpa modifikator kerusakan atau perlindungan armor) lagi (pada lokasi pukulan yang sama, jika digunakan) karena senjata yang menonjol tersangkut pada permukaan di dekatnya, bergerak di dalamnya, dan memperlebar luka, dll.
+Target yang terkena impaling tidak dapat disembuhkan sampai senjata impaling dilepas, jika ukurannya lebih besar dari pisau. Benda kecil seperti mata panah atau peluru dapat dibiarkan di dalam luka, meskipun ini dapat menimbulkan komplikasi di kemudian hari, sesuai kebijakan gamemaster. Jika terkena impaling dengan senjata seperti tombak atau pedang, setiap kali target bergerak dengan cara yang signifikan, mereka menerima setengah dari lemparan kerusakan senjata (lempar lagi, tanpa modifikator kerusakan atau perlindungan Zirah) lagi (pada lokasi pukulan yang sama, jika digunakan) karena senjata yang menonjol tersangkut pada permukaan di dekatnya, bergerak di dalamnya, dan memperlebar luka, dll.
 
 Target yang terkena impaling dengan senjata dan mencoba melepasnya harus membuat lemparan resistensi STR mereka vs. jumlah kerusakan yang ditimbulkan sejauh ini oleh senjata tersebut. Keberhasilan berarti senjata telah terlepas dan berada di tangan target, sementara kegagalan berarti mereka tidak dapat melepasnya pada putaran pertempuran itu dan mereka menerima tambahan 1D3 poin kerusakan (pada lokasi pukulan yang sama, jika digunakan) dari aktivitas tersebut. Tindakan ini memakan waktu satu putaran penuh dan berakhir dengan target memegang senjata yang sebelumnya menembus mereka.
 
@@ -402,7 +402,7 @@ Di luar pertempuran, setiap upaya untuk melepas senjata impaling adalah *Mudah*,
 
 #### Knockback
 
-Keberhasilan khusus dengan lemparan tanpa senjata atau serangan perisai telah membuat target terpental. Total kerusakan yang dilempar (sebelum armor dikurangi) diadu melawan SIZ target dalam lemparan resistensi. Gamemaster mungkin menurunkan SIZ efektif target untuk mencerminkan ketidakrataan tanah, lereng, atau kondisi target (terpana, terpana, dll.). Jika tidak berhasil, target terpental satu meter untuk setiap 5 poin kerusakan yang dilempar (sebelum armor), dan penyerang harus sekali lagi mendekat dan melibatkan target dalam pertempuran jarak dekat jika sebelumnya terpental keluar dari jangkauan pertempuran jarak dekat. Jika target knockback juga menabrak rintangan di jalurnya, mereka menerima 1D6 kerusakan untuk setiap tiga meter atau bagiannya yang tersisa untuk ditempuh. Target juga harus melakukan lemparan Kelincahan yang berhasil atau jatuh telungkup (lihat **Telungkup**).
+Keberhasilan khusus dengan lemparan tanpa senjata atau serangan perisai telah membuat target terpental. Total kerusakan yang dilempar (sebelum Zirah dikurangi) diadu melawan SIZ target dalam lemparan resistensi. Gamemaster mungkin menurunkan SIZ efektif target untuk mencerminkan ketidakrataan tanah, lereng, atau kondisi target (terpana, terpana, dll.). Jika tidak berhasil, target terpental satu meter untuk setiap 5 poin kerusakan yang dilempar (sebelum Zirah), dan penyerang harus sekali lagi mendekat dan melibatkan target dalam pertempuran jarak dekat jika sebelumnya terpental keluar dari jangkauan pertempuran jarak dekat. Jika target knockback juga menabrak rintangan di jalurnya, mereka menerima 1D6 kerusakan untuk setiap tiga meter atau bagiannya yang tersisa untuk ditempuh. Target juga harus melakukan lemparan Kelincahan yang berhasil atau jatuh telungkup (lihat **Telungkup**).
 
 Jika target memenangkan lemparan resistensi, mereka tidak bergerak, dan jika SIZ mereka lebih tinggi dari SIZ penyerang, penyerang terhuyung mundur satu meter.
 
@@ -414,13 +414,13 @@ Satu-satunya batasan dalam kasus ini adalah karakter Anda tidak dapat Menghindar
 
 Dalam situasi apa pun, bertarung secara defensif tidak dapat digabungkan dengan serangan atau tindakan ofensif apa pun, bahkan seperti **Tindakan Nekat**.
 
-### Fumble dalam Pertempuran
+### Kegagalan Mutlak dalam Pertempuran
 
-Fumble dalam pertempuran adalah peristiwa atau kecelakaan yang tidak menguntungkan, yang disebabkan oleh nasib buruk atau kurangnya pengalaman. Saat fumble dilempar, lempar D100 pada tabel yang sesuai dan terapkan hasilnya. Gamemaster melempar untuk karakter non-pemain. Jika hasil lemparan tidak sesuai, gamemaster harus mengadaptasinya menjadi sesuatu yang masuk akal, atau melempar ulang.
+Kegagalan Mutlak dalam pertempuran adalah peristiwa atau kecelakaan yang tidak menguntungkan, yang disebabkan oleh nasib buruk atau kurangnya pengalaman. Saat Kegagalan Mutlak dilempar, lempar D100 pada tabel yang sesuai dan terapkan hasilnya. Gamemaster melempar untuk karakter non-pemain. Jika hasil lemparan tidak sesuai, gamemaster harus mengadaptasinya menjadi sesuatu yang masuk akal, atau melempar ulang.
 
-Ada empat tabel fumble; gunakan yang paling sesuai dengan tindakan. Meskipun **Tabel Serangan dan Tangkisan Senjata Alami** dimaksudkan untuk memandu tindakan Humanoid yang cerdas; dengan kebijaksanaan, itu juga bisa berguna untuk hewan alami seperti beruang, serigala, dll. Sekali lagi, gamemaster didorong untuk mengadaptasi atau melempar ulang hasil yang tidak mungkin.
+Ada empat tabel Kegagalan Mutlak; gunakan yang paling sesuai dengan tindakan. Meskipun **Tabel Serangan dan Tangkisan Senjata Alami** dimaksudkan untuk memandu tindakan Humanoid yang cerdas; dengan kebijaksanaan, itu juga bisa berguna untuk hewan alami seperti beruang, serigala, dll. Sekali lagi, gamemaster didorong untuk mengadaptasi atau melempar ulang hasil yang tidak mungkin.
 
-Beberapa senjata dapat **mengalami kerusakan (malfunction)**. Ini terjadi sebagai tambahan dari fumble apa pun jika hasil lemparan tumpang tindih dengan rentang fumble dan kerusakan (lihat **Kerusakan Senjata**).
+Beberapa senjata dapat **mengalami kerusakan (malfunction)**. Ini terjadi sebagai tambahan dari Kegagalan Mutlak apa pun jika hasil lemparan tumpang tindih dengan rentang Kegagalan Mutlak dan kerusakan (lihat **Kerusakan Senjata**).
 
 > ### Aturan Pertempuran Varian (Opsi)
 > 
@@ -442,7 +442,7 @@ Beberapa senjata dapat **mengalami kerusakan (malfunction)**. Ini terjadi sebaga
 > 
 > Selain itu, karakter Anda dapat mencoba menangkis senjata misil dengan senjata tangan. Keberhasilan khusus atau kritis diperlukan untuk berhasil menangkis senjata misil dengan senjata tangan, dan jika hasilnya adalah keberhasilan normal atau bahkan kegagalan, serangan tersebut secara otomatis mengenai karakter Anda.
 > 
-> Karakter Anda juga dapat mencoba menangkap senjata misil seperti panah, tombak, atau senjata lempar lainnya dengan keberhasilan khusus atau kritis pada lemparan keterampilan Kelincahan atau Lempar. Dalam kasus ini, karakter Anda telah menangkap senjata tersebut dan terhindar dari cedera, dan dapat membuangnya atau menggunakannya dalam pertempuran, sesuai keinginan mereka. Jika lemparan berhasil tetapi bukan keberhasilan khusus atau kritis, karakter Anda belum menangkapnya tetapi tidak terluka. Jika lemparan gagal, karakter Anda harus membuat pemeriksaan Keberuntungan yang berhasil untuk menghindari cedera, jika tidak, mereka menerima kerusakan yang dilempar normal senjata misil tersebut. Jika lemparan adalah fumble, karakter Anda secara otomatis menerima kerusakan yang dilempar senjata misil tersebut (pada tangan/lengan mereka jika lokasi pukulan digunakan). Perlindungan armor diperbolehkan terhadap serangan ini.
+> Karakter Anda juga dapat mencoba menangkap senjata misil seperti panah, tombak, atau senjata lempar lainnya dengan keberhasilan khusus atau kritis pada lemparan keterampilan Kelincahan atau Lempar. Dalam kasus ini, karakter Anda telah menangkap senjata tersebut dan terhindar dari cedera, dan dapat membuangnya atau menggunakannya dalam pertempuran, sesuai keinginan mereka. Jika lemparan berhasil tetapi bukan keberhasilan khusus atau kritis, karakter Anda belum menangkapnya tetapi tidak terluka. Jika lemparan gagal, karakter Anda harus membuat pemeriksaan Keberuntungan yang berhasil untuk menghindari cedera, jika tidak, mereka menerima kerusakan yang dilempar normal senjata misil tersebut. Jika lemparan adalah Kegagalan Mutlak, karakter Anda secara otomatis menerima kerusakan yang dilempar senjata misil tersebut (pada tangan/lengan mereka jika lokasi pukulan digunakan). Perlindungan Zirah diperbolehkan terhadap serangan ini.
 > 
 > Karakter Anda juga dapat menangkis tembakan misil berkecepatan tinggi (panah, peluru, dll.) dengan bebas dengan perisai, juga, dengan mencoba lemparan Spot sebelumnya. Jika lemparan berhasil, karakter Anda dapat menangkis dengan bebas dengan perisai mereka pada peringkat keterampilan penuh. Jika lemparan Spot gagal, lemparan tangkisan menjadi Sulit, atau peringkat keterampilan kembali ke peluang dasar yang disediakan dalam Perisai dan Tembakan Misil.
 > 
@@ -456,37 +456,37 @@ Beberapa senjata dapat **mengalami kerusakan (malfunction)**. Ini terjadi sebaga
 > 
 > Sistem ini menggantikan aturan singkat **Tindakan Nekat**.
 
-## Armor
+## Zirah
 
-Armor secara tradisional merupakan bentuk pakaian yang cukup tebal dan kuat untuk melindungi dari serangan. Secara historis, armor dibuat dari kulit, tulang, kayu, dan logam yang sesuai dengan periode tersebut. Di dunia modern, armor dibuat dari serat keramik dan balistik, logam ringan, dan zat berbasis plastik kuat lainnya, dan di era mendatang, armor kemungkinan besar akan dibuat dari bahan berteknologi tinggi serupa, atau bahkan perlindungan berbasis energi. Meskipun mengenakannya dapat menyebabkan kelelahan, armor konvensional tidak memerlukan lemparan keterampilan atau usaha untuk digunakan. Jika serangan tidak ditangkis atau dihindari, armor adalah satu-satunya hal yang berdiri di antara karakter Anda dan cedera.
+Zirah secara tradisional merupakan bentuk pakaian yang cukup tebal dan kuat untuk melindungi dari serangan. Secara historis, Zirah dibuat dari kulit, tulang, kayu, dan logam yang sesuai dengan periode tersebut. Di dunia modern, Zirah dibuat dari serat keramik dan balistik, logam ringan, dan zat berbasis plastik kuat lainnya, dan di era mendatang, Zirah kemungkinan besar akan dibuat dari bahan berteknologi tinggi serupa, atau bahkan perlindungan berbasis energi. Meskipun mengenakannya dapat menyebabkan kelelahan, Zirah konvensional tidak memerlukan lemparan keterampilan atau usaha untuk digunakan. Jika serangan tidak ditangkis atau dihindari, Zirah adalah satu-satunya hal yang berdiri di antara karakter Anda dan cedera.
 
-Aspek paling penting dari armor adalah **nilai armor (AV)**-nya. Semakin tinggi nilai armor, semakin baik perlindungan yang diberikan kepada pemakainya. Nilai armor dikurangi dari kerusakan yang ditimbulkan oleh serangan yang berhasil. Subjek serangan tersebut memiliki sisa kerusakan yang dikurangi dari hit point mereka. Jika hasil setelah nilai armor dikurangi adalah 0 atau angka negatif, tidak ada kerusakan yang diterima.
+Aspek paling penting dari Zirah adalah **nilai Zirah (AV)**-nya. Semakin tinggi nilai Zirah, semakin baik perlindungan yang diberikan kepada pemakainya. Nilai Zirah dikurangi dari kerusakan yang ditimbulkan oleh serangan yang berhasil. Subjek serangan tersebut memiliki sisa kerusakan yang dikurangi dari hit point mereka. Jika hasil setelah nilai Zirah dikurangi adalah 0 atau angka negatif, tidak ada kerusakan yang diterima.
 
-Beberapa jenis armor dapat dilapisi satu sama lain untuk efektivitas yang lebih besar. Di mana perisai juga digunakan, tangkisan perisai yang berhasil mungkin tidak cukup untuk menghentikan pukulan, dan kerusakan dari serangan berpotensi menembus nilai armor perisai dan mencapai penggunanya. Dalam kasus ini, nilai armor untuk perisai dan armor dikurangi sebelum karakter yang menangkis menerima kerusakan.
+Beberapa jenis Zirah dapat dilapisi satu sama lain untuk efektivitas yang lebih besar. Di mana perisai juga digunakan, tangkisan perisai yang berhasil mungkin tidak cukup untuk menghentikan pukulan, dan kerusakan dari serangan berpotensi menembus nilai Zirah perisai dan mencapai penggunanya. Dalam kasus ini, nilai Zirah untuk perisai dan Zirah dikurangi sebelum karakter yang menangkis menerima kerusakan.
 
-### Kekurangan Armor
+### Kekurangan Zirah
 
-Terlepas dari semua keunggulan, ada aspek negatif dari mengenakan armor. Berikut adalah yang paling signifikan, meskipun gamemaster mungkin ingin lebih menekankan beberapa daripada yang lain, mengurangi penekanan beberapa aspek ini, atau bahkan memperkenalkan kondisi baru berdasarkan latar:
+Terlepas dari semua keunggulan, ada aspek negatif dari mengenakan Zirah. Berikut adalah yang paling signifikan, meskipun gamemaster mungkin ingin lebih menekankan beberapa daripada yang lain, mengurangi penekanan beberapa aspek ini, atau bahkan memperkenalkan kondisi baru berdasarkan latar:
 
-* **Penalti Keterampilan:** Armor dapat menghambat keterampilan tertentu, terutama keterampilan kelompok Keterampilan Fisik seperti Memanjat, Melompat, Mengendap-endap, dan Berenang. Selain itu, mengenakan helm mungkin membatasi keterampilan Persepsi tertentu. Beberapa deskripsi armor di *Bab Delapan: Peralatan* mencakup modifikator negatif untuk keterampilan ini. Keterampilan senjata tidak terpengaruh oleh mengenakan armor, karena armor dibuat khusus untuk digunakan dalam pertempuran.
+* **Penalti Keterampilan:** Zirah dapat menghambat keterampilan tertentu, terutama keterampilan kelompok Keterampilan Fisik seperti Memanjat, Melompat, Mengendap-endap, dan Berenang. Selain itu, mengenakan helm mungkin membatasi keterampilan Persepsi tertentu. Beberapa deskripsi Zirah di *Bab Delapan: Peralatan* mencakup modifikator negatif untuk keterampilan ini. Keterampilan senjata tidak terpengaruh oleh mengenakan Zirah, karena Zirah dibuat khusus untuk digunakan dalam pertempuran.
 
-* **Ketidaknyamanan Fisik:** Armor berat, tidak nyaman, dan tidak fleksibel, atau setidaknya lebih dari pakaian biasa, dan berat armor dapat membuat lelah dan/atau membebani pemakainya. Kelelahan dan Beban mencakup kecanggungan atau kelelahan apa pun akibat mengenakan armor. Di lingkungan gurun atau lingkungan panas lainnya, armor mungkin lebih tidak nyaman (lihat **Dingin, Paparan, Kelaparan dan Kehausan** serta **Api dan Panas**).
+* **Ketidaknyamanan Fisik:** Zirah berat, tidak nyaman, dan tidak fleksibel, atau setidaknya lebih dari pakaian biasa, dan berat Zirah dapat membuat lelah dan/atau membebani pemakainya. Kelelahan dan Beban mencakup kecanggungan atau kelelahan apa pun akibat mengenakan Zirah. Di lingkungan gurun atau lingkungan panas lainnya, Zirah mungkin lebih tidak nyaman (lihat **Dingin, Paparan, Kelaparan dan Kehausan** serta **Api dan Panas**).
 
-* **Masalah Sosial:** Banyak jenis armor sulit disembunyikan dan dapat ditafsirkan sebagai permusuhan di banyak masyarakat atau budaya. Beberapa keterampilan Komunikasi mungkin menjadi Sulit berdasarkan situasinya, karena seringkali sulit untuk membujuk atau memanipulasi seseorang ketika terlihat siap untuk melakukan kekerasan. Keterampilan Komunikasi lainnya mungkin menjadi Mudah karena alasan yang sama. Situasi ini harus dinilai oleh gamemaster.
+* **Masalah Sosial:** Banyak jenis Zirah sulit disembunyikan dan dapat ditafsirkan sebagai permusuhan di banyak masyarakat atau budaya. Beberapa keterampilan Komunikasi mungkin menjadi Sulit berdasarkan situasinya, karena seringkali sulit untuk membujuk atau memanipulasi seseorang ketika terlihat siap untuk melakukan kekerasan. Keterampilan Komunikasi lainnya mungkin menjadi Mudah karena alasan yang sama. Situasi ini harus dinilai oleh gamemaster.
 
-* **Akses:** Dua aspek praktis lainnya membatasi penggunaan armor dalam latar permainan: ketersediaan armor, dan apakah itu pas. Ketersediaan harus dinilai oleh gamemaster dan berdasarkan latar. Misalnya, kemeja surat berkualitas mungkin mahal tetapi relatif mudah diperoleh dalam latar sejarah abad pertengahan, sementara kemeja surat yang praktis dan dapat digunakan mungkin hampir mustahil ditemukan dalam latar prasejarah atau masa depan yang jauh. Di beberapa latar, ketersediaan mungkin tampak tidak terbatas (dunia modern, misalnya), dan akses ke armor sebenarnya mungkin semudah memesan secara online. Namun, kemungkinan bahwa armor tersebut berkualitas cukup untuk menahan pertempuran tidak dijamin, dan pengiriman mungkin dibatasi oleh undang-undang dan peraturan daerah.
+* **Akses:** Dua aspek praktis lainnya membatasi penggunaan Zirah dalam latar permainan: ketersediaan Zirah, dan apakah itu pas. Ketersediaan harus dinilai oleh gamemaster dan berdasarkan latar. Misalnya, kemeja surat berkualitas mungkin mahal tetapi relatif mudah diperoleh dalam latar sejarah abad pertengahan, sementara kemeja surat yang praktis dan dapat digunakan mungkin hampir mustahil ditemukan dalam latar prasejarah atau masa depan yang jauh. Di beberapa latar, ketersediaan mungkin tampak tidak terbatas (dunia modern, misalnya), dan akses ke Zirah sebenarnya mungkin semudah memesan secara online. Namun, kemungkinan bahwa Zirah tersebut berkualitas cukup untuk menahan pertempuran tidak dijamin, dan pengiriman mungkin dibatasi oleh undang-undang dan peraturan daerah.
 
-*Bab Delapan: Peralatan* mencakup semua kelebihan dan kekurangan spesifik dari armor dan memberikan contoh banyak jenis armor, mulai dari tunik kulit mentah hingga medan gaya pribadi. Selain itu, beberapa kekuatan dapat memodifikasi nilai armor karakter Anda. Ini dibahas dalam *Bab Empat: Kekuatan*.
+*Bab Delapan: Peralatan* mencakup semua kelebihan dan kekurangan spesifik dari Zirah dan memberikan contoh banyak jenis Zirah, mulai dari tunik kulit mentah hingga medan gaya pribadi. Selain itu, beberapa kekuatan dapat memodifikasi nilai Zirah karakter Anda. Ini dibahas dalam *Bab Empat: Kekuatan*.
 
-### Armor dan SIZ
+### Zirah dan SIZ
 
-Akhirnya, tidak semua armor dapat digunakan oleh semua orang. Armor biasanya dinilai berdasarkan SIZ yang dibuat untuknya, dengan armor yang paling nyaman adalah yang paling pas di tubuh. Armor yang longgar dan tidak pas sama canggungnya untuk dikenakan seperti armor yang terlalu ketat. Setiap jenis armor memiliki peringkat 'Fits SIZ', dinyatakan sebagai ± yang menentukan kisaran SIZ karakter di atas dan di bawah SIZ default setelan armor tertentu. Diasumsikan bahwa karakter memiliki atau membeli armor yang sesuai dengan SIZ mereka sendiri, jika diberi pilihan. Jika SIZ karakter Anda berada di luar kisaran SIZ armor, armor tersebut tidak dapat dikenakan.
+Akhirnya, tidak semua Zirah dapat digunakan oleh semua orang. Zirah biasanya dinilai berdasarkan SIZ yang dibuat untuknya, dengan Zirah yang paling nyaman adalah yang paling pas di tubuh. Zirah yang longgar dan tidak pas sama canggungnya untuk dikenakan seperti Zirah yang terlalu ketat. Setiap jenis Zirah memiliki peringkat 'Fits SIZ', dinyatakan sebagai ± yang menentukan kisaran SIZ karakter di atas dan di bawah SIZ default setelan Zirah tertentu. Diasumsikan bahwa karakter memiliki atau membeli Zirah yang sesuai dengan SIZ mereka sendiri, jika diberi pilihan. Jika SIZ karakter Anda berada di luar kisaran SIZ Zirah, Zirah tersebut tidak dapat dikenakan.
 
-Umumnya, semakin tinggi nilai armor, semakin kecil kemungkinannya untuk pas dengan karakter dengan SIZ yang berbeda. Jika karakter Anda memiliki SIZ ekstrem satu arah atau lainnya (di bawah 8 atau di atas 16), mereka mungkin tidak dapat mengenakan banyak armor 'siap pakai' (jika ada) dan terpaksa membayar lebih untuk armor pesanan atau mencari sumber alternatif untuk peralatan pertahanan.
+Umumnya, semakin tinggi nilai Zirah, semakin kecil kemungkinannya untuk pas dengan karakter dengan SIZ yang berbeda. Jika karakter Anda memiliki SIZ ekstrem satu arah atau lainnya (di bawah 8 atau di atas 16), mereka mungkin tidak dapat mengenakan banyak Zirah 'siap pakai' (jika ada) dan terpaksa membayar lebih untuk Zirah pesanan atau mencari sumber alternatif untuk peralatan pertahanan.
 
 ### Perisai
 
-Cara termudah untuk memikirkan perisai adalah bahwa itu adalah senjata yang tujuan utamanya adalah untuk bergerak di antara karakter Anda dan penyerang. Perisai tidak menutupi seluruh tubuh tetapi lebih ringan daripada armor tubuh dan jauh lebih murah serta lebih mudah dikelola. Perisai umumnya tidak kehilangan hit point saat terkena pukulan normal, dan tidak mudah terlepas dari genggaman bek. Biasanya, hanya pukulan kuat (keberhasilan khusus atau lebih baik) yang akan merusak perisai, dan satu-satunya cara untuk kehilangan satu adalah melalui fumble.
+Cara termudah untuk memikirkan perisai adalah bahwa itu adalah senjata yang tujuan utamanya adalah untuk bergerak di antara karakter Anda dan penyerang. Perisai tidak menutupi seluruh tubuh tetapi lebih ringan daripada Zirah tubuh dan jauh lebih murah serta lebih mudah dikelola. Perisai umumnya tidak kehilangan hit point saat terkena pukulan normal, dan tidak mudah terlepas dari genggaman bek. Biasanya, hanya pukulan kuat (keberhasilan khusus atau lebih baik) yang akan merusak perisai, dan satu-satunya cara untuk kehilangan satu adalah melalui Kegagalan Mutlak.
 
 Jenis perisai yang berbeda dijelaskan dalam *Bab Delapan: Peralatan*. Tidak seperti jenis senjata, semua perisai menggunakan keterampilan Perisai yang sama, dan peringkat keterampilan yang sama berlaku untuk perisai apa pun yang digunakan. Karakter Anda menangkis serangan jarak dekat dengan perisai mereka seperti halnya senjata tangan. Terhadap senjata misil, perisai setengah atau kecil memiliki peluang dasar 15% untuk memblokir misil, perisai penuh memiliki peluang 30% untuk memblokir misil, dan perisai besar memiliki peluang 60%. Jika karakter Anda berlutut di belakangnya, perisai penuh memiliki peluang 60% untuk memblokir misil, dan perisai besar menawarkan peluang 90%. Nilai-nilai ini digunakan sebagai pengganti peringkat keterampilan karakter Anda. Lihat **Senjata Misil** dan **Perisai dan Tembakan Misil**.
 
@@ -494,11 +494,11 @@ Dalam sebagian besar situasi, perisai tidak dapat secara efektif menangkis senja
 
 Karakter Anda juga dapat menggunakan perisai untuk menyerang lawan. Peluangnya sama dengan peringkat keterampilan Perisai karakter Anda, karena pelatihan perisai biasanya menggabungkan penggunaan ofensif dan defensif. Perisai umumnya menggunakan knockback sebagai keberhasilan khusus mereka, meskipun beberapa jenis perisai berduri dan dapat menggunakan keberhasilan khusus impaling.
 
-Jika penyerang ingin menghancurkan senjata atau perisai penangkis lawan, mereka harus melakukan serangan seperti biasa. Jika target tidak mencoba menangkis, serangan itu adalah **Serangan Terarah**. Jika serangan berhasil dan berhasil ditangkis, atau jika serangan berhasil mengenai perisai sebagai serangan terarah, kerusakan dilempar secara normal (dimodifikasi jika itu adalah keberhasilan khusus atau kritis). Nilai armor perisai dikurangi dari kerusakan yang dilakukan. Sisa kerusakan diberikan pada perisai. Jika perisai dikurangi menjadi 0 hit point, sisa kerusakan terus mengenai bek. Armor akan melindungi terhadap ini, dan jika sistem lokasi pukulan opsional digunakan, kerusakan akan mengenai lengan senjata atau perisai bek.
+Jika penyerang ingin menghancurkan senjata atau perisai penangkis lawan, mereka harus melakukan serangan seperti biasa. Jika target tidak mencoba menangkis, serangan itu adalah **Serangan Terarah**. Jika serangan berhasil dan berhasil ditangkis, atau jika serangan berhasil mengenai perisai sebagai serangan terarah, kerusakan dilempar secara normal (dimodifikasi jika itu adalah keberhasilan khusus atau kritis). Nilai Zirah perisai dikurangi dari kerusakan yang dilakukan. Sisa kerusakan diberikan pada perisai. Jika perisai dikurangi menjadi 0 hit point, sisa kerusakan terus mengenai bek. Zirah akan melindungi terhadap ini, dan jika sistem lokasi pukulan opsional digunakan, kerusakan akan mengenai lengan senjata atau perisai bek.
 
-> ### Nilai Armor Acak (Opsi)
+> ### Nilai Zirah Acak (Opsi)
 > 
-> Terkadang armor tidak dapat diandalkan dan mungkin tidak melindungi karakter Anda secara dapat diandalkan setiap kali mereka dipukul dalam pertempuran. Armor memiliki celah, ruang yang kurang terlindungi, dan beberapa bagian tubuh karakter Anda bahkan mungkin tidak terlindungi sama sekali. Daripada nilai armor tetap, nilai armor acak mensimulasikan ketidakpastian ini dengan rentang dadu, dilempar setiap kali serangan yang akan memberikan kerusakan berhasil mengenai karakter Anda. Nilai armor yang ditentukan secara acak ini dilempar dan dikurangi dari kerusakan apa pun yang diterima. Nilai armor dilempar secara terpisah untuk setiap serangan yang mendarat pada karakter Anda, bahkan dalam putaran yang sama. *Bab Delapan: Peralatan* mencakup armor secara rinci dan menyediakan rentang untuk nilai armor acak. Dalam permainan yang menggunakan nilai armor acak, disarankan agar armor bersifat generik daripada spesifik lokasi pukulan, untuk meminimalkan pencatatan per lokasi.
+> Terkadang Zirah tidak dapat diandalkan dan mungkin tidak melindungi karakter Anda secara dapat diandalkan setiap kali mereka dipukul dalam pertempuran. Zirah memiliki celah, ruang yang kurang terlindungi, dan beberapa bagian tubuh karakter Anda bahkan mungkin tidak terlindungi sama sekali. Daripada nilai Zirah tetap, nilai Zirah acak mensimulasikan ketidakpastian ini dengan rentang dadu, dilempar setiap kali serangan yang akan memberikan kerusakan berhasil mengenai karakter Anda. Nilai Zirah yang ditentukan secara acak ini dilempar dan dikurangi dari kerusakan apa pun yang diterima. Nilai Zirah dilempar secara terpisah untuk setiap serangan yang mendarat pada karakter Anda, bahkan dalam putaran yang sama. *Bab Delapan: Peralatan* mencakup Zirah secara rinci dan menyediakan rentang untuk nilai Zirah acak. Dalam permainan yang menggunakan nilai Zirah acak, disarankan agar Zirah bersifat generik daripada spesifik lokasi pukulan, untuk meminimalkan pencatatan per lokasi.
 
 ## Senjata Misil
 
@@ -604,7 +604,7 @@ Akhirnya, kualitas perawatan medis yang diterima pasien setiap minggu dapat meni
 
 | Kondisi Medis | Efek pada Tingkat Penyembuhan |
 | :---- | :---- |
-| Peralatan buruk, tidak higienis, dan/atau penuh elemen stres; pasien bergerak dan berusaha keras (pertempuran, perjalanan berat, dll.); atau tidak menerima perawatan medis sama sekali. | Pengasuh (dokter, perawat, penyembuh, diri sendiri, dll.) harus berhasil dalam lemparan Pertolongan Pertama atau Kedokteran *Sulit* agar penyembuhan apa pun terjadi. Jika berhasil, pasien sembuh secara normal (1D3 hit point/minggu); jika tidak berhasil, tidak ada penyembuhan yang terjadi. Fumble menimbulkan tambahan 1D3 hit point kerusakan. |
+| Peralatan buruk, tidak higienis, dan/atau penuh elemen stres; pasien bergerak dan berusaha keras (pertempuran, perjalanan berat, dll.); atau tidak menerima perawatan medis sama sekali. | Pengasuh (dokter, perawat, penyembuh, diri sendiri, dll.) harus berhasil dalam lemparan Pertolongan Pertama atau Kedokteran *Sulit* agar penyembuhan apa pun terjadi. Jika berhasil, pasien sembuh secara normal (1D3 hit point/minggu); jika tidak berhasil, tidak ada penyembuhan yang terjadi. Kegagalan Mutlak menimbulkan tambahan 1D3 hit point kerusakan. |
 | Kondisi layak dan higienis, lingkungan yang tenang, perawatan diberikan, hanya sedikit aktivitas fisik. | Pasien sembuh 1D3 hit point secara alami. |
 | Kondisi dan peralatan luar biasa yang dimanfaatkan, lingkungan yang kondusif untuk penyembuhan dan pemulihan, istirahat penuh dan terapi, perawatan medis berkualitas tinggi purna waktu disediakan. | Pasien sembuh 1D3 hit point secara alami; penggunaan keterampilan Pertolongan Pertama atau Kedokteran yang berhasil lebih lanjut memungkinkan kemungkinan penyembuhan tambahan. |
 
@@ -670,15 +670,15 @@ Menyelipkan jimat emas bertatahkan permata yang sangat besar ke ikat pinggangnya
 
 Saat dia bergerak menyusuri koridor, belati dilemparkan ke Yvarre dari belakang. Gamemaster melempar keberhasilan dan mengatakan bahwa Yvarre telah dipukul tinggi di bahu kirinya (sistem lokasi pukulan opsional tidak digunakan; ini hanya gamemaster yang menguraikan dengan gaya dalam deskripsi mereka). Gamemaster melempar 1D4+2+1D2, kerusakan yang diberikan belati ditambah setengah dari modifikator kerusakan penyerang. Beruntung bagi Yvarre, gamemaster mendapatkan 4 pada lemparan kerusakan, hasil terendah yang mungkin.
 
-Yvarre mengenakan tunik kulit lembut (nilai armor 1) dan memiliki 17 hit point. Armor-nya melindunginya dari 1 poin kerusakan, jadi Yvarre kehilangan 3 hit point, bukan 4. Dia sekarang turun menjadi 14 hit point, jadi pemainnya dengan hati-hati mencoret angka 17, 16, dan 15, dan melingkari 14 pada lembar karakter Yvarre.
+Yvarre mengenakan tunik kulit lembut (nilai Zirah 1) dan memiliki 17 hit point. Zirah-nya melindunginya dari 1 poin kerusakan, jadi Yvarre kehilangan 3 hit point, bukan 4. Dia sekarang turun menjadi 14 hit point, jadi pemainnya dengan hati-hati mencoret angka 17, 16, dan 15, dan melingkari 14 pada lembar karakter Yvarre.
 
 Dia melirik ke belakang dan melihat seorang pendeta ular menarik belati lain dari lengan bajunya saat dia mendekat.
 
 #### Putaran Pertempuran Kedua
 
-Mengutuk nasib buruknya, Yvarre memasuki ruangan dan mengunci pintu di belakangnya, lalu meraih ke belakang untuk memeriksa lukanya. Untungnya, serangan itu bukan impaling, jadi pisau tidak tertancap dalam di bahunya. Selanjutnya, dia mencoba mengobati luka tersebut dengan Pertolongan Pertama. Keterampilan Pertolongan Pertama Yvarre adalah 47%: pemainnya melempar 99—sebuah fumble!
+Mengutuk nasib buruknya, Yvarre memasuki ruangan dan mengunci pintu di belakangnya, lalu meraih ke belakang untuk memeriksa lukanya. Untungnya, serangan itu bukan impaling, jadi pisau tidak tertancap dalam di bahunya. Selanjutnya, dia mencoba mengobati luka tersebut dengan Pertolongan Pertama. Keterampilan Pertolongan Pertama Yvarre adalah 47%: pemainnya melempar 99—sebuah Kegagalan Mutlak!
 
-Lemparan pada tabel fumble tidak diperlukan: penalti untuk fumble dengan Pertolongan Pertama selalu berupa kehilangan 1 hit point kerusakan. Gamemaster mengatakan bahwa Yvarre melakukan satu poin kerusakan ekstra pada dirinya sendiri karena menarik luka itu, karena lokasi yang canggung. Luka itu sekarang lebih lebar, dan darah darinya membasahi bagian belakang tunik kulit lembutnya (lagi, ini bukan hasil dari hasil kerusakan khusus: itu hanya gaya bagi pemain untuk membantu mereka memvisualisasikan adegan).
+Lemparan pada tabel Kegagalan Mutlak tidak diperlukan: penalti untuk Kegagalan Mutlak dengan Pertolongan Pertama selalu berupa kehilangan 1 hit point kerusakan. Gamemaster mengatakan bahwa Yvarre melakukan satu poin kerusakan ekstra pada dirinya sendiri karena menarik luka itu, karena lokasi yang canggung. Luka itu sekarang lebih lebar, dan darah darinya membasahi bagian belakang tunik kulit lembutnya (lagi, ini bukan hasil dari hasil kerusakan khusus: itu hanya gaya bagi pemain untuk membantu mereka memvisualisasikan adegan).
 
 Pemain Yvarre menghela nafas dan mencoret satu hit point lagi. Yvarre sekarang memiliki 13 hit point.
 
@@ -690,7 +690,7 @@ Dia melakukannya, kata pemain itu, dan meminta Yvarre menarik tali itu ke atas. 
 
 Yvarre terjebak kecuali dia memutuskan untuk melompat ke jalan. Gamemaster berkata, “Buat lemparan Spot untuk mengetahui apakah Yvarre melihat sesuatu.” Dalam kasus ini, 'sesuatu' yang dimaksud gamemaster adalah pembunuh kultus di atap di seberang Yvarre, menyiapkan busurnya untuk serangan.
 
-Pemain melempar D100 untuk keterampilan Spot Yvarre dan gagal. Karena Yvarre tidak memperhatikan pembunuh kultus tersebut, gamemaster melempar 43, sebuah hit, dan kemudian melempar untuk kerusakan, 1D8+1, tetapi tidak ada modifikator kerusakan. Gamemaster melempar 9 dalam kerusakan, yang akan dikurangi sebesar 1 untuk armor Yvarre. “Apakah itu cukup untuk luka besar?” tanya gamemaster. Pemain mengangguk dengan murung. Dia menandai 8 hit point lagi di lembar karakternya, menurunkan hit point tersisanya menjadi 5.
+Pemain melempar D100 untuk keterampilan Spot Yvarre dan gagal. Karena Yvarre tidak memperhatikan pembunuh kultus tersebut, gamemaster melempar 43, sebuah hit, dan kemudian melempar untuk kerusakan, 1D8+1, tetapi tidak ada modifikator kerusakan. Gamemaster melempar 9 dalam kerusakan, yang akan dikurangi sebesar 1 untuk Zirah Yvarre. “Apakah itu cukup untuk luka besar?” tanya gamemaster. Pemain mengangguk dengan murung. Dia menandai 8 hit point lagi di lembar karakternya, menurunkan hit point tersisanya menjadi 5.
 
 Pemain Yvarre melempar pada tabel luka besar, mendapatkan hasil 27, dan gamemaster mengatakan bahwa panah itu mengenai lengan kiri Yvarre. Lemparan Keberuntungan Yvarre berhasil, jadi luka itu tidak akan menjadi cedera permanen. Yvarre merasa dirinya melemah, kata gamemaster. Dia akan pingsan dalam empat putaran pertempuran, satu putaran untuk setiap hit point yang dia miliki saat ini.
 
@@ -722,7 +722,7 @@ Yvarre juga menerima kerusakan jatuh. Kallistor merawat luka pisau dan panahnya,
 
 #### Putaran Pertempuran Berikutnya setelah Itu
 
-Kallistor mencoba Pertolongan Pertama tetapi gagal menyembuhkan poin kerusakan dari upaya Pertolongan Pertama Yvarre yang fumble.
+Kallistor mencoba Pertolongan Pertama tetapi gagal menyembuhkan poin kerusakan dari upaya Pertolongan Pertama Yvarre yang Kegagalan Mutlak.
 
 #### Satu Putaran Pertempuran Lagi
 

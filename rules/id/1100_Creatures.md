@@ -14,7 +14,7 @@ Hampir setiap makhluk dan karakter non-pemain mengikuti format yang sama, meskip
 * **Hit Points (HP):** Biasanya rata-rata SIZ dan CON, untuk beberapa entri, hit points mungkin dihitung secara berbeda, seperti berdasarkan POW atau karakteristik lainnya. Pada 1 hit point, makhluk hidup tidak sadarkan diri atau lumpuh, dan ketika mencapai atau di bawah 0, ia mati.  
 * **Tingkat Pergerakan (MOV):** Cara utama pergerakan dicantumkan terlebih dahulu. Makhluk yang tidak bisa bergerak tidak memiliki tingkat MOV.  
 * **Modifikator Kerusakan (DM):** Rata-rata untuk makhluk rata-rata, jika ada. Hitung ulang jika diperlukan untuk spesimen yang lebih besar atau lebih kecil.  
-* **Baju Zirah (Armor):** Nilai zirah dan jenis zirah, jika ada.  
+* **Baju Zirah (Zirah):** Nilai zirah dan jenis zirah, jika ada.  
 * **Serangan:** Jenis serangan, peringkat keterampilan, dan lemparan kerusakan. Untuk serangan, ‘+dm’ berarti sudah termasuk, dan ‘+½dm’ adalah ketika modifikator kerusakan dibagi dua. Kemampuan tempur atau kondisi khusus dicatat di sini. Semua serangan yang tersedia terjadi pada peringkat DEX yang sama, kecuali ditentukan lain. Umumnya, serangan cakar memberikan 1D6+dm, dan gigitan atau tanduk memberikan 1D3+dm.  
 * **Keterampilan:** Keterampilan paling relevan untuk perjumpaan rata-rata. Untuk keterampilan yang tidak tercantum, Manusia memiliki peluang dasar sebagai standar, dan keterampilan tambahan harus ditentukan oleh gamemaster sebagaimana mestinya (lihat Mengukur Peringkat Keterampilan).  
 * **Kekuatan (Powers):** Kekuatan apa pun yang dimiliki spesimen rata-rata, dengan jenis yang ditentukan jika perlu.
@@ -85,7 +85,7 @@ Makhluk-makhluk ini akrab bagi sebagian besar pemain sehingga deskripsi mereka h
 
 ##### Makhluk Alami
 
-| Nama | STR | CON | SIZ | POW | DEX | MOV | Armor | HP | DM | Serangan dan %, Kerusakan | Keterampilan |
+| Nama | STR | CON | SIZ | POW | DEX | MOV | Zirah | HP | DM | Serangan dan %, Kerusakan | Keterampilan |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
 | Aligator atau Buaya | 4D6+12 | 3D6+6 | 4D6+12 | 3D6 | 2D6 | Jalan 7 Renang 6 | 5 pt. kulit | 22 | +2D6 | Gigit 50%, 1D10+dm | Menghindar 30%, Sembunyi 50%, Cari 35%, Indra 30%, Siluman 75%, Lacak 15% |
 | Beruang | 3D6+10 | 2D6+6 | 3D6+10 | 3D6 | 3D6 | Jalan 12 Renang 2 | 3 pt. bulu | 17 | +2D6 | Gigit 25%, 1D10; Cakar 25%, 1D6+dm | Panjat 35%, Bergerak Tenang 35%, Cari 35%, Indra 35% |
@@ -113,7 +113,7 @@ Kebanyakan hewan alami memiliki kecerdasan dasar (INT 3–5), jarang bertarung s
 
 **Aligator atau Buaya:** Aligator lebih kecil dan lebih lemah (–1D6 pada STR dan SIZ), memiliki rahang yang lebih kecil (1D8+dm), dan kurang agresif daripada buaya.
 
-**Beruang:** Beruang dapat menyerang dua kali dalam satu putaran, menggunakan dua serangan cakar terpisah atau satu serangan cakar dan satu serangan gigitan. Grizzly lebih besar, lebih kuat (STR +1D6, CON +2, SIZ +2, +1 armor), dan lebih ganas (+10% pada keterampilan tempur). Beruang kutub lebih besar dan lebih kuat (STR +2D6, CON +1D6+2, SIZ +2D6, +3 armor, +20% pada keterampilan serangan, Renang 80%).
+**Beruang:** Beruang dapat menyerang dua kali dalam satu putaran, menggunakan dua serangan cakar terpisah atau satu serangan cakar dan satu serangan gigitan. Grizzly lebih besar, lebih kuat (STR +1D6, CON +2, SIZ +2, +1 Zirah), dan lebih ganas (+10% pada keterampilan tempur). Beruang kutub lebih besar dan lebih kuat (STR +2D6, CON +1D6+2, SIZ +2D6, +3 Zirah, +20% pada keterampilan serangan, Renang 80%).
 
 **Brontosaurus:** Brontosaurus dapat menyerang sekali per putaran, menggunakan sabetan ekor atau injakan jika mereka bergerak. Sabetan ekor adalah serangan sapuan efek area. Injakan hanya digunakan terhadap target yang rentan atau memiliki SIZ kurang dari 1/3 SIZ brontosaurus.
 
@@ -1538,7 +1538,7 @@ Dipilih sejak muda dan magang dalam seni mistik, penyihir hitam berurusan dengan
 
 **Keterampilan:** Menilai 35%, Menghindar 40%, Etiket 35%, Bicara Cepat 45%, Sembunyi 30%, Wawasan 35%, Pengetahuan (Pengetahuan Akademik) 50%, Pengetahuan (Pengetahuan Hujatan) 20%, Pengetahuan (Okultisme) 70%, Bahasa (Iblis) 50%, Bahasa (Sendiri) 85%, Dengar 35%, Membujuk 45%, Riset 75%, Berkuda (Kuda) 35%, Indra 35%, Sleight of Hand 35%, Lihat 55%.
 
-**Kekuatan:** Mantra sihir hitam ini dalam ingatan: Curse of Sorcery (4), Sorcerer’s Armor (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
+**Kekuatan:** Mantra sihir hitam ini dalam ingatan: Curse of Sorcery (4), Sorcerer’s Zirah (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
 
 ### Mata-mata (Spy)
 

@@ -24,9 +24,9 @@ Di sisi lain, *gamemaster* Anda mungkin memutuskan bahwa tugas yang sangat berat
 
 Terkadang upaya karakter Anda dapat memiliki hasil yang sangat berbeda: lemparan anak panah yang bagus akan mengenai papan, sementara lemparan yang beruntung atau luar biasa mengenai titik pusat (*bull’s-eye*). Ada lima tingkat keberhasilan untuk setiap jenis lemparan tindakan. Diurutkan dari yang terburuk hingga yang terbaik, adalah sebagai berikut:
 
-#### Fumble (Kegagalan Kritis)
+#### Kegagalan Mutlak (Kegagalan Kritis)
 
-Nasib buruk atau ketidakmampuan terkadang bersekongkol untuk menghasilkan hasil terburuk, sebuah kegagalan spektakuler yang disebut *fumble*. Peluang untuk *fumble* dalam lemparan tindakan sama dengan 5% (1/20) dari peluang kegagalan, biasanya pada kisaran 96–00. Lemparan 00 selalu merupakan *fumble*, tidak peduli berapa peringkat *skill*-nya. *Fumble* tidak pernah memberikan hasil yang bermanfaat, dan selalu berakhir dengan menghambat atau bahkan membahayakan karakter Anda dan/atau sekutu melalui hasil yang membawa bencana atau tidak disengaja. *Bab Tiga: Skill* dan *Bab Enam: Pertempuran* membahas konsekuensi spesifik dari lemparan *fumble*.
+Nasib buruk atau ketidakmampuan terkadang bersekongkol untuk menghasilkan hasil terburuk, sebuah kegagalan spektakuler yang disebut *Kegagalan Mutlak*. Peluang untuk *Kegagalan Mutlak* dalam lemparan tindakan sama dengan 5% (1/20) dari peluang kegagalan, biasanya pada kisaran 96–00. Lemparan 00 selalu merupakan *Kegagalan Mutlak*, tidak peduli berapa peringkat *skill*-nya. *Kegagalan Mutlak* tidak pernah memberikan hasil yang bermanfaat, dan selalu berakhir dengan menghambat atau bahkan membahayakan karakter Anda dan/atau sekutu melalui hasil yang membawa bencana atau tidak disengaja. *Bab Tiga: Skill* dan *Bab Enam: Pertempuran* membahas konsekuensi spesifik dari lemparan *Kegagalan Mutlak*.
 
 #### Failure (Kegagalan)
 
@@ -42,7 +42,7 @@ Beberapa hasil lebih baik dari rata-rata dan memberikan manfaat tambahan. Tindak
 
 #### Critical Success (Keberhasilan Kritis)
 
-Terkadang karakter Anda akan melakukan suatu tindakan dengan sangat baik sehingga mereka mencapai hasil yang luar biasa. Lemparan yang sama dengan atau kurang dari 1/20 peringkat *skill* adalah keberhasilan kritis. Bulatkan pecahan secara normal. Keberhasilan kritis menghasilkan hasil terbaik dari semua kemungkinan. Senjata yang mengenai secara kritis benar-benar melewati baju besi target dan memberikan kerusakan maksimum (ditambah pengubah *damage* yang dilempar secara normal); sementara lemparan *skill* mencapai hasil yang jauh lebih baik daripada biasanya. Lihat *Bab Tiga: Skill* untuk hasil kritis yang disarankan.
+Terkadang karakter Anda akan melakukan suatu tindakan dengan sangat baik sehingga mereka mencapai hasil yang luar biasa. Lemparan yang sama dengan atau kurang dari 1/20 peringkat *skill* adalah keberhasilan kritis. Bulatkan pecahan secara normal. Keberhasilan kritis menghasilkan hasil terbaik dari semua kemungkinan. Senjata yang mengenai secara kritis benar-benar melewati Zirah target dan memberikan kerusakan maksimum (ditambah pengubah *damage* yang dilempar secara normal); sementara lemparan *skill* mencapai hasil yang jauh lebih baik daripada biasanya. Lihat *Bab Tiga: Skill* untuk hasil kritis yang disarankan.
 
 ### Lemparan Skill
 
@@ -50,9 +50,9 @@ Sebagian besar tindakan yang dicoba karakter Anda diselesaikan dengan lemparan *
 
 > ##### Tabel Hasil Skill
 > 
-> Ini adalah kisaran untuk keberhasilan kritis, keberhasilan spesial, dan *fumble*. Hasil untuk keberhasilan spesial mencakup rentang angka untuk keberhasilan kritis. Kapan pun hasil lemparan berada dalam kisaran keberhasilan kritis dan spesial, hasil keberhasilan kritis (jika sesuai) yang harus diterapkan, bukan keduanya.
+> Ini adalah kisaran untuk keberhasilan kritis, keberhasilan spesial, dan *Kegagalan Mutlak*. Hasil untuk keberhasilan spesial mencakup rentang angka untuk keberhasilan kritis. Kapan pun hasil lemparan berada dalam kisaran keberhasilan kritis dan spesial, hasil keberhasilan kritis (jika sesuai) yang harus diterapkan, bukan keduanya.
 > 
-> | Peluang Dasar | Kritis | Spesial | Fumble |
+> | Peluang Dasar | Kritis | Spesial | Kegagalan Mutlak |
 > | :---- | ----- | ----- | ----- |
 > | 01–05 | 01 | 01 | 96–00 |
 > | 06–10 | 01 | 01–02 | 96–00 |
@@ -145,9 +145,9 @@ Sumbu atas untuk karakteristik aktif dan sumbu kiri untuk karakteristik pasif.
 
 Untuk keberhasilan, lempar 1D100 sama dengan atau kurang dari angka yang ditunjukkan. Perubahan di bawah 05% berada dalam **Jangkauan Kegagalan Otomatis** dan di atas 95% dalam **Jangkauan Keberhasilan Otomatis**.
 
-#### Hasil Kritis, Keberhasilan Spesial, dan Fumble pada Lemparan Resistensi
+#### Hasil Kritis, Keberhasilan Spesial, dan Kegagalan Mutlak pada Lemparan Resistensi
 
-Biasanya lemparan resistensi memiliki hasil ya/tidak—berhasil atau gagal—tetapi *gamemaster* Anda dapat memilih untuk mengarakterisasi hasil secara lebih granular dalam kasus keberhasilan spesial atau kritis (lihat di bawah), atau kegagalan drastis dengan *fumble*. Sifat dari ini terserah kepada *gamemaster* Anda, dengan menggunakan panduan untuk tingkat keberhasilan dan kegagalan dengan *skill*.
+Biasanya lemparan resistensi memiliki hasil ya/tidak—berhasil atau gagal—tetapi *gamemaster* Anda dapat memilih untuk mengarakterisasi hasil secara lebih granular dalam kasus keberhasilan spesial atau kritis (lihat di bawah), atau kegagalan drastis dengan *Kegagalan Mutlak*. Sifat dari ini terserah kepada *gamemaster* Anda, dengan menggunakan panduan untuk tingkat keberhasilan dan kegagalan dengan *skill*.
 
 ### Lemparan Skill Spesial
 
@@ -157,7 +157,7 @@ Keadaan khusus mungkin memerlukan sesuatu selain lemparan *skill* standar. Kasus
 
 Dua atau lebih karakter dapat mencoba bekerja sama dalam suatu tindakan, jika masuk akal. Ini adalah jenis *augment*. *Gamemaster* Anda mungkin memberlakukan batasan pada berapa banyak karakter yang dapat berkontribusi pada aktivitas tertentu, karena mungkin dibatasi oleh masalah fisik atau praktis lainnya. Beberapa tugas tidak dapat dibantu, tergantung pada keadaannya.
 
-Setiap kali bekerja sama dalam suatu tindakan, pilih satu karakter sebagai pemimpin. Semua karakter lain yang ikut serta harus melakukan lemparan *skill*. Ambil hasil terbaik atau *fumble*, jika terjadi.
+Setiap kali bekerja sama dalam suatu tindakan, pilih satu karakter sebagai pemimpin. Semua karakter lain yang ikut serta harus melakukan lemparan *skill*. Ambil hasil terbaik atau *Kegagalan Mutlak*, jika terjadi.
 
 * **Keberhasilan Kritis:** Ubah peringkat *skill* karakter utama sebesar +50%.
 
@@ -167,7 +167,7 @@ Setiap kali bekerja sama dalam suatu tindakan, pilih satu karakter sebagai pemim
 
 * **Kegagalan:** Jika tidak ada pembantu yang berhasil, peringkat *skill* karakter utama diubah sebesar –10%.
 
-* **Fumble:** *Fumble* dari pembantu mana pun sangat mengalihkan perhatian sehingga *skill* utama diubah sebesar –50%.
+* **Kegagalan Mutlak:** *Kegagalan Mutlak* dari pembantu mana pun sangat mengalihkan perhatian sehingga *skill* utama diubah sebesar –50%.
 
 Salah satu alasan untuk penggunaan *skill* kooperatif adalah untuk meningkatkan peluang keberhasilan karakter utama, serta peluang keberhasilan spesial dan kritis.
 
@@ -203,7 +203,7 @@ Ketika dua *skill* berlawanan, kedua karakter melakukan lemparan terhadap *skill
 > 
 > Dalam lemparan *skill* berlawanan, satu *skill* ditetapkan sebagai *skill* aktif/ofensif dan yang lainnya sebagai *skill* pasif/defensif. Pertama, lakukan lemparan *skill* untuk karakter pasif; jika lemparan berhasil, kurangi nilai penuh dari peringkat *skill* karakter tersebut dari peringkat *skill* aktif/menyerang. Jika lemparan *skill* pasif gagal, *skill* menyerang tidak dimodifikasi.
 > 
-> *Fumble* pasif mengubah lemparan penyerang menjadi lemparan *Mudah*. Jika *skill* pasif lebih tinggi dari *skill* aktif, penyerang masih memiliki peluang keberhasilan default 5% dengan peringkat *skill* 5% atau lebih tinggi.
+> *Kegagalan Mutlak* pasif mengubah lemparan penyerang menjadi lemparan *Mudah*. Jika *skill* pasif lebih tinggi dari *skill* aktif, penyerang masih memiliki peluang keberhasilan default 5% dengan peringkat *skill* 5% atau lebih tinggi.
 > 
 > ###### Lemparan Skill Berlawanan Menggunakan Tabel Resistensi
 > 
@@ -314,7 +314,7 @@ Berhati-hatilah agar tidak terjebak dalam detail penentuan pengubah situasional.
 > 
 > Penggunaan *power point* dapat diperluas sesuai keinginan *gamemaster* Anda, dengan beberapa kemungkinan berikut:
 > 
-> * Habiskan 6 *power point* untuk menggeser hasil lemparan ke hasil yang lebih menguntungkan, seperti mengubah *fumble* menjadi kegagalan, kegagalan menjadi keberhasilan normal, keberhasilan normal menjadi keberhasilan spesial, atau keberhasilan spesial menjadi keberhasilan kritis. Ini hanya dapat digunakan pada lemparan karakter Anda dan tidak dapat diterapkan pada dadu yang telah dilempar ulang. Anda dapat melakukan ini setelah dadu dilempar dan dapat menggeser hasil sebanyak tingkat hasil yang ingin Anda habiskan *power point*-nya. Tidak peduli apa lemparan awalnya, keberhasilan tidak mendapatkan pemeriksaan pengalaman.
+> * Habiskan 6 *power point* untuk menggeser hasil lemparan ke hasil yang lebih menguntungkan, seperti mengubah *Kegagalan Mutlak* menjadi kegagalan, kegagalan menjadi keberhasilan normal, keberhasilan normal menjadi keberhasilan spesial, atau keberhasilan spesial menjadi keberhasilan kritis. Ini hanya dapat digunakan pada lemparan karakter Anda dan tidak dapat diterapkan pada dadu yang telah dilempar ulang. Anda dapat melakukan ini setelah dadu dilempar dan dapat menggeser hasil sebanyak tingkat hasil yang ingin Anda habiskan *power point*-nya. Tidak peduli apa lemparan awalnya, keberhasilan tidak mendapatkan pemeriksaan pengalaman.
 > 
 > * Habiskan *power point* sebanyak seluruh jangkauan *damage* senjata Anda untuk memberikan *damage* maksimum dalam satu serangan yang berhasil.
 > 
@@ -484,7 +484,7 @@ Pengubah ini terakumulasi tetapi diterapkan secara terpisah dalam urutan keparah
 > 
 > Barang apa pun yang dapat dipegang dengan mudah di satu tangan (pedang, kapak, pistol, perisai, batu seukuran tangan, tali, dll.) adalah 'benda', unit abstrak dari bobot dan kenyamanan, yang diwakili dalam nilai ENC. Sebagian besar 'benda' adalah 1 atau 2 ENC. Meskipun beratnya mungkin sangat berbeda, mereka menempati jumlah ruang yang sama pada karakter Anda dan tingkat kesulitannya untuk ditangani kira-kira sama. Setiap barang memiliki nilai ENC, diukur dari seberapa sulit untuk menanganinya alih-alih berat aktualnya.
 > 
-> Jika suatu barang tidak memiliki nilai ENC, gunakan SIZ-nya sebagai dasar dan sesuaikan dengan kepadatan atau bobot relatif. *Bab Delapan: Peralatan* mencantumkan ENC dari semua senjata, baju besi, dan perisai, dan memberikan nilai SIZ untuk banyak benda umum lainnya.
+> Jika suatu barang tidak memiliki nilai ENC, gunakan SIZ-nya sebagai dasar dan sesuaikan dengan kepadatan atau bobot relatif. *Bab Delapan: Peralatan* mencantumkan ENC dari semua senjata, Zirah, dan perisai, dan memberikan nilai SIZ untuk banyak benda umum lainnya.
 > 
 > #### Berapa ENC Itu?
 > 
@@ -556,7 +556,7 @@ Pertama, karakter Anda harus mencari pelatih, idealnya di antara petualangan tet
 
 Karakter Anda kemudian harus berlatih selama berjam-jam yang setara dengan peringkat *skill* mereka saat ini dengan *skill* tersebut. Karakter rata-rata memiliki 50 jam waktu per minggu yang tersedia untuk pelatihan, tetapi belajar penuh waktu tanpa henti dimungkinkan. Lebih dari jumlah ini sangat melelahkan, dan jam belajar yang diperpanjang tersebut kontraproduktif atau memiliki efek negatif pada *skill* lain atau bahkan kesehatan fisik dan mental.
 
-Di akhir sesi pelatihan, guru harus melakukan lemparan *skill* Mengajar. Jika lemparan mereka berhasil, karakter Anda meningkatkan peringkat *skill* sebesar +1D6 poin. Kegagalan berarti tidak ada manfaat dari instruksi, dan *fumble* bersifat kontraproduktif, dengan guru menyebabkan keraguan diri dan bertentangan dengan pembelajaran karakter Anda sebelumnya, mengurangi *skill* sebesar –1D3.
+Di akhir sesi pelatihan, guru harus melakukan lemparan *skill* Mengajar. Jika lemparan mereka berhasil, karakter Anda meningkatkan peringkat *skill* sebesar +1D6 poin. Kegagalan berarti tidak ada manfaat dari instruksi, dan *Kegagalan Mutlak* bersifat kontraproduktif, dengan guru menyebabkan keraguan diri dan bertentangan dengan pembelajaran karakter Anda sebelumnya, mengurangi *skill* sebesar –1D3.
 
 *Gamemaster* Anda mungkin menggunakan jenis dadu untuk menunjukkan peluang pelatihan yang lebih baik atau lebih buruk, atau bahkan secara otomatis memberikan peningkatan jumlah berdasarkan faktor dalam pengaturan (unduhan *skill*, penanaman psikis, memori kehidupan masa lalu, dll.).
 

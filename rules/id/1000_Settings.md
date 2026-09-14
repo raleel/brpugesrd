@@ -42,13 +42,13 @@ Ini adalah era feodal. Bangsawan, ksatria, dan pemerintahan dinasti serta strukt
 
 * **Jenis Karakter:** Apa pun kecuali Jurnalis, Ilmuwan, dan Teknisi. Penulis biasanya adalah Imam atau mungkin penyair, dan Ilmuwan kemungkinan besar adalah Imam yang tertarik pada dunia alami.
 * **Kekuatan:** Sihir dan ilmu sihir adalah dua jenis kekuatan yang paling umum, dan bisa bersifat ilahi, jahat, atau pagan.
-* **Teknologi:** Produksi barang massal, struktur serikat awal, perdagangan yang luas, dan distribusi barang yang tersebar luas telah mengubah dunia. Umumnya, kurangnya literasi yang luas membatasi ketersediaan buku dan pengetahuan tingkat lanjut. Armor dan persenjataan terus menjadi lebih efektif, kemudian menjadi barok.
+* **Teknologi:** Produksi barang massal, struktur serikat awal, perdagangan yang luas, dan distribusi barang yang tersebar luas telah mengubah dunia. Umumnya, kurangnya literasi yang luas membatasi ketersediaan buku dan pengetahuan tingkat lanjut. Zirah dan persenjataan terus menjadi lebih efektif, kemudian menjadi barok.
 * **Petualangan:** Petualangan Arthurian atau Carolingian, ksatria pengembara, dll.
 * **Opsi:** Kesetiaan, Serangan dan Tangkisan di atas 100%, Memilih Nilai Karakteristik, Pengubah Budaya, Kerusakan dan Lokasi Tubuh, Poin Kelelahan, Karakteristik Awal yang Lebih Tinggi, Poin Darah per Lokasi, Poin Keterampilan Pribadi yang Ditingkatkan, Literasi, Karakter Non-Manusia, Gairah, Reputasi, Peringkat Keterampilan di atas 100%.
 
 ### Fantasi Tinggi
 
-Mirip dengan pengaturan Abad Pertengahan Tinggi, ini berbeda karena non-manusia seperti elf, kurcaci, dll. hidup berdampingan dengan manusia, sering kali bersekutu dengan manusia melawan orc, troll, goblin, dll. Para dewa mungkin aktif dan para penyembah mereka memperoleh kemampuan ilahi. Sihir lazim digunakan, dengan item sihir seperti ramuan penyembuh, pedang sihir, baju besi ajaib, dll. yang umum ditemukan. Reruntuhan kuno berlimpah dan ruang bawah tanah terbentang luas di bawah tanah.
+Mirip dengan pengaturan Abad Pertengahan Tinggi, ini berbeda karena non-manusia seperti elf, kurcaci, dll. hidup berdampingan dengan manusia, sering kali bersekutu dengan manusia melawan orc, troll, goblin, dll. Para dewa mungkin aktif dan para penyembah mereka memperoleh kemampuan ilahi. Sihir lazim digunakan, dengan item sihir seperti ramuan penyembuh, pedang sihir, Zirah ajaib, dll. yang umum ditemukan. Reruntuhan kuno berlimpah dan ruang bawah tanah terbentang luas di bawah tanah.
 
 * **Jenis Karakter:** Sama seperti Abad Pertengahan Tinggi (di atas).
 * **Kekuatan:** Apa pun. Sihir dan ilmu sihir bisa bersifat ilahi, jahat, atau pagan. Mutasi mungkin ditemukan di antara jenis monster tertentu, dan mungkin ada ras yang menggunakan kemampuan psikis. Makhluk supernatural yang kuat mungkin menggunakan kekuatan super dengan kedok kemampuan ilahi atau jahat.
@@ -82,7 +82,7 @@ Terutama tentang Eropa di era Renaisans, meskipun bisa juga menggabungkan fantas
 
 * **Jenis Karakter:** Hampir semua.
 * **Kekuatan:** Sihir dan ilmu sihir mungkin ada tetapi dilarang oleh institusi agama. Alkimia (penciptaan item sihir dan ramuan) adalah pengejaran populer bagi para sarjana.
-* **Teknologi:** Seperti era Abad Pertengahan Tinggi, ini adalah puncak keterampilan kerajinan, ilmu pengetahuan, dan penemuan: dengan jam, mesiu, dan alat presisi, serta prinsip-prinsip seperti tenaga uap, air, dan angin yang sedang dieksplorasi. Pengenalan panah silang (*crossbow*) hampir menghilangkan penggunaan baju besi tubuh.
+* **Teknologi:** Seperti era Abad Pertengahan Tinggi, ini adalah puncak keterampilan kerajinan, ilmu pengetahuan, dan penemuan: dengan jam, mesiu, dan alat presisi, serta prinsip-prinsip seperti tenaga uap, air, dan angin yang sedang dieksplorasi. Pengenalan panah silang (*crossbow*) hampir menghilangkan penggunaan Zirah tubuh.
 * **Petualangan:** Suasana politik barok dan perpecahan mendalam antara Gereja dan Pencerahan menciptakan pengaturan dinamis di mana karakter bisa menjadi patron seni yang terseret ke dalam intrik, atau mereka bisa menjadi penemu yang tersesat yang penemuannya membawa mereka ke dalam masalah. Sebagai alternatif, mereka dapat melaut atau melakukan perjalanan ke Dunia Baru.
 * **Opsi:** Memilih Nilai Karakteristik, Pengubah Budaya, Lemparan Pendidikan/Pengetahuan, Poin Keterampilan Pribadi yang Ditingkatkan, Literasi, Gairah, Reputasi.
 
@@ -297,7 +297,7 @@ Berikut adalah daftar bagian yang dapat Anda gunakan untuk mengatur informasi te
 * Peristiwa sejarah penting
 * Tokoh penting seperti raja atau ratu, presiden, pemimpin agama, tokoh sejarah, dll.
 * Kelompok, organisasi, perkumpulan, ordo, dll.
-* Senjata dan baju besi, jika relevan
+* Senjata dan Zirah, jika relevan
 * Flora dan fauna penting
 * Benih petualangan, jika pemain diharapkan mencari plot mereka sendiri
 
@@ -517,7 +517,7 @@ Ingatlah bahwa gamemaster memiliki keputusan akhir tentang kesesuaian mencoba In
 * **Keberhasilan Khusus:** Satu keterampilan yang dipilih untuk sementara menerima bonus +30% untuk durasi tugas atau situasi. Pemeriksaan pengalaman diperoleh dalam gairah.
 * **Keberhasilan:** Satu keterampilan yang dipilih untuk sementara menerima bonus +20% untuk durasi tugas atau situasi. Pemeriksaan pengalaman diperoleh dalam gairah.
 * **Kegagalan:** Karakter putus asa, mengubah semua lemparan lebih lanjut yang dilakukan dalam situasi atau adegan sebesar –10%. Penalti ini berakhir dengan adegan berikutnya.
-* **Gagal (Fumble):** Gairah segera dimodifikasi sebesar –1D10% dan karakter dikuasai oleh keputusasaan (lihat tabel Keputusasaan, berikut). Untuk durasi keputusasaan, karakter secara efektif tidak mampu melakukan apa pun selain lari atau bersembunyi, meskipun gamemaster mungkin mengizinkan tingkat tindakan tertentu di luar ini dalam keadaan yang tepat.
+* **Gagal (Kegagalan Mutlak):** Gairah segera dimodifikasi sebesar –1D10% dan karakter dikuasai oleh keputusasaan (lihat tabel Keputusasaan, berikut). Untuk durasi keputusasaan, karakter secara efektif tidak mampu melakukan apa pun selain lari atau bersembunyi, meskipun gamemaster mungkin mengizinkan tingkat tindakan tertentu di luar ini dalam keadaan yang tepat.
 
 ##### Keputusasaan
 
@@ -649,7 +649,7 @@ Reputasi dapat digunakan oleh gamemaster untuk meminta karakter non-pemain mengi
 
 Terapkan bonus atau penalti Reputasi yang sesuai (lihat **Pengubah Reputasi**) dan lempar. Ini berbeda dari keterampilan atau karakteristik biasa, karena lemparan melawan Reputasi subjek, bukan milik sendiri. Karakter dapat mencoba menambah Reputasi mereka (atau orang lain) dengan semacam keterampilan Komunikasi, pada dasarnya membicarakan seseorang. Jika sesuai, keterampilan Pengetahuan atau Pengetahuan mungkin digunakan untuk menambah Reputasi subjek jika mereka terkenal di bidang itu.
 
-Jika lemparan berhasil, orang yang reputasinya dilempar melawan dikenali. Ini kemungkinan memengaruhi bagaimana karakter non-pemain bereaksi terhadap karakter. Keberhasilan kualitas yang lebih baik menghasilkan lebih banyak informasi. Kegagalan berarti mereka tidak dikenal, dan kegagalan (fumble) berarti kesalahpahaman yang membawa bencana atau kasus identitas yang salah.
+Jika lemparan berhasil, orang yang reputasinya dilempar melawan dikenali. Ini kemungkinan memengaruhi bagaimana karakter non-pemain bereaksi terhadap karakter. Keberhasilan kualitas yang lebih baik menghasilkan lebih banyak informasi. Kegagalan berarti mereka tidak dikenal, dan kegagalan (Kegagalan Mutlak) berarti kesalahpahaman yang membawa bencana atau kasus identitas yang salah.
 
 Seseorang selalu dapat mencoba menyangkal siapa mereka, tetapi ini semakin sulit dalam pengaturan yang lebih modern.
 
@@ -663,7 +663,7 @@ Untuk menggunakan Reputasi guna menambah keterampilan lain, lempar melawan Reput
 * **Keberhasilan Khusus:** Reputasi karakter menambah bonus +30% pada keterampilan Komunikasi yang akan digunakan.
 * **Keberhasilan:** Reputasi karakter menambah bonus +20% pada keterampilan Komunikasi yang akan digunakan.
 * **Kegagalan:** Karakter mengurangi –20% dari keterampilan Komunikasi yang akan digunakan.
-* **Fumble:** Karakter mengurangi –50% dari keterampilan Komunikasi yang akan digunakan.
+* **Kegagalan Mutlak:** Karakter mengurangi –50% dari keterampilan Komunikasi yang akan digunakan.
 
 ### Pengubah Reputasi
 

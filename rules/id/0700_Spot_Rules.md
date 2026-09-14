@@ -10,7 +10,7 @@ Banyak sekali situasi yang dapat muncul selama pertempuran, rangkaian aksi, atau
 | Serangan Bidik | Lingkungan Tertutup | Cabut Senjata Cepat |
 | Penyergapan | Melilit (Entangle) | Radiasi |
 | Serangan Area | Ledakan | Perisai dan Serangan Proyektil |
-| Armor Rusak | Jarak Jauh | Menembak ke Atas atau Bawah |
+| Zirah Rusak | Jarak Jauh | Menembak ke Atas atau Bawah |
 | Serangan Aura | Jatuh | Permukaan Licin atau Tidak Stabil |
 | Tembakan Otomatis | Bertarung Saat Jatuh | Pingsan atau Lumpuh |
 | Menusuk Punggung & Lawan Tak Berdaya | Api dan Panas | Posisi Unggul/Rendah |
@@ -36,9 +36,9 @@ Paparan asam atau zat korosif bisa menjadi bahaya. Perlakukan semua asam sama: t
 * Asam kuat menimbulkan 1D4 poin kerusakan per ronde.
 * Asam sangat kuat menimbulkan 1D6+1 poin kerusakan per ronde.
 
-Armor tidak menetralisir asam tetapi memperlambat efeknya sesaat. Jika target menggunakan armor, kurangi kerusakannya menjadi setengah (dibulatkan ke atas), meskipun gamemaster harus menyesuaikan berdasarkan jenis, kualitas, dan cakupan armor. Perlindungan armor terhadap asam bertahan selama 1D3 ronde. Setelah itu, asam menimbulkan kerusakan normal.
+Zirah tidak menetralisir asam tetapi memperlambat efeknya sesaat. Jika target menggunakan Zirah, kurangi kerusakannya menjadi setengah (dibulatkan ke atas), meskipun gamemaster harus menyesuaikan berdasarkan jenis, kualitas, dan cakupan Zirah. Perlindungan Zirah terhadap asam bertahan selama 1D3 ronde. Setelah itu, asam menimbulkan kerusakan normal.
 
-Paparan asam yang sangat kuat akan mengikis ikatan armor dan melemahkannya: setelah 1D6 ronde paparan, armor tersebut rusak secara fungsional dan tidak berguna. Ini terjadi bersamaan dengan 1D3 ronde perlindungan armor—armor mungkin telah rusak dalam pertempuran tetapi masih menawarkan perlindungan sementara dari asam.
+Paparan asam yang sangat kuat akan mengikis ikatan Zirah dan melemahkannya: setelah 1D6 ronde paparan, Zirah tersebut rusak secara fungsional dan tidak berguna. Ini terjadi bersamaan dengan 1D3 ronde perlindungan Zirah—Zirah mungkin telah rusak dalam pertempuran tetapi masih menawarkan perlindungan sementara dari asam.
 
 Gamemaster Anda mungkin memutuskan bahwa air suci (atau yang setara) bertindak sebagai asam terhadap makhluk jahat seperti vampir atau entitas iblis.
 
@@ -59,13 +59,13 @@ Jika karakter Anda berhasil melakukan lemparan *Fly* selama fase kekuatan dalam 
 * **Angin Badai (Hurricane):** –75% penalti (–50% untuk angin ekor)
 * **Angin Tornado:** –100% penalti
 * **Ketinggian Tinggi / Tekanan Rendah / Tenang:** –25% penalti
-* **Memakai Armor Ringan:** –10% penalti
-* **Memakai Armor Sedang:** –25% penalti
-* **Memakai Armor Berat:** –50% penalti
+* **Memakai Zirah Ringan:** –10% penalti
+* **Memakai Zirah Sedang:** –25% penalti
+* **Memakai Zirah Berat:** –50% penalti
 
 Semua modifikator bersifat kumulatif.
 
-Pada lemparan *Fly* yang gagal, setiap aksi yang dilakukan karakter yang terbang adalah *Sulit*. Keberhasilan kritikal pada lemparan *Fly* membuat setiap lemparan yang dilakukan selama ronde pertempuran itu menjadi *Mudah*. Jika lemparan *Fly* gagal fatal (fumble), karakter Anda tidak dapat menyerang atau bertindak pada ronde tersebut dan bahkan mungkin jatuh atau menabrak.
+Pada lemparan *Fly* yang gagal, setiap aksi yang dilakukan karakter yang terbang adalah *Sulit*. Keberhasilan kritikal pada lemparan *Fly* membuat setiap lemparan yang dilakukan selama ronde pertempuran itu menjadi *Mudah*. Jika lemparan *Fly* gagal fatal (Kegagalan Mutlak), karakter Anda tidak dapat menyerang atau bertindak pada ronde tersebut dan bahkan mungkin jatuh atau menabrak.
 
 Jika penerbangan diberikan dengan kendaraan atau makhluk terbang, karakter Anda tidak perlu melakukan lemparan *Fly*—skill yang diperlukan adalah *Ride* atau *Pilot*, atau skill *Fly* dari makhluk yang terbang, jika berlaku. Bagaimanapun, efek dari hasil lemparan skill diterapkan secara setara kepada penunggang dan penerbang.
 
@@ -79,7 +79,7 @@ Karakter Anda dapat meluangkan waktu membidik senjata proyektil sebagai imbalan 
 
 ### Menargetkan Area Tertentu
 
-Menargetkan bagian tubuh tertentu dari korban adalah *Sulit*, meskipun menunda selama 5 peringkat DEX (seperti dalam *Meluangkan Waktu Lebih Banyak*, di atas) dapat mengimbangi modifikator ini. Terapkan modifikator *Sulit* sebelum penyesuaian apa pun untuk meluangkan waktu. Gamemaster harus menentukan hasil dari setiap serangan yang berhasil terhadap area target, seperti lemparan karakteristik *Sulit* untuk mempertahankan pegangan pada senjata, tetap berdiri, dll. Sistem lokasi terkena (hit location) mungkin berguna. Jika karakter Anda menargetkan area tanpa armor dan berhasil, armor target diabaikan, sama seperti jika serangan kritikal berhasil dilakukan.
+Menargetkan bagian tubuh tertentu dari korban adalah *Sulit*, meskipun menunda selama 5 peringkat DEX (seperti dalam *Meluangkan Waktu Lebih Banyak*, di atas) dapat mengimbangi modifikator ini. Terapkan modifikator *Sulit* sebelum penyesuaian apa pun untuk meluangkan waktu. Gamemaster harus menentukan hasil dari setiap serangan yang berhasil terhadap area target, seperti lemparan karakteristik *Sulit* untuk mempertahankan pegangan pada senjata, tetap berdiri, dll. Sistem lokasi terkena (hit location) mungkin berguna. Jika karakter Anda menargetkan area tanpa Zirah dan berhasil, Zirah target diabaikan, sama seperti jika serangan kritikal berhasil dilakukan.
 
 ## Penyergapan
 
@@ -90,23 +90,23 @@ Jika terjadi serangan mendadak, penyerang mendapatkan keuntungan serangan yang t
 * Jika penyerang menggunakan senjata jarak dekat dan belum berhasil melakukan lemparan *Stealth*, target harus melakukan lemparan *Listen, Sense,* atau *Spot* *Mudah* untuk menyadari penyerang yang datang. Jika target gagal mendeteksi penyerang, serangan terhadap mereka menjadi *Mudah* dan setiap tangkisan atau hindaran yang mereka lakukan menjadi *Sulit*.
 * Jika penyerang menggunakan senjata jarak dekat, dan target menyadari mereka dengan lemparan *Listen, Sense,* atau *Spot* yang berhasil, peringkat skill penyerang tidak dimodifikasi dan target dapat menangkis atau menghindar secara normal tetapi tidak dapat membalas atau bergerak hingga ronde pertempuran berikutnya.
 
-Dalam kebanyakan kasus, armor target bertahan secara normal, kecuali penyerang menggunakan serangan bidik (lihat di atas) untuk menembus armor.
+Dalam kebanyakan kasus, Zirah target bertahan secara normal, kecuali penyerang menggunakan serangan bidik (lihat di atas) untuk menembus Zirah.
 
 Setelah ronde kejutan awal, penyergapan menjadi ronde pertempuran normal bagi semua pihak yang terlibat, tanpa modifikator akibat kejutan.
 
 ## Serangan Area
 
-Ketika serangan diarahkan ke area dengan tujuan menimbulkan kerusakan pada siapa pun di area tersebut, mulai dari murka ilahi hingga granat, karakter di area tersebut dapat mencoba lemparan *Dodge* untuk menghindari kerusakan sama sekali, atau lemparan *Agility* untuk mengurangi kerusakan setengahnya (pilihan pemain) dengan berlindung di balik pelindung. Dalam kedua kasus, diasumsikan bahwa mereka yang berada di area tersebut telah menjatuhkan diri (tiarap) untuk mencegah cedera (lihat **Tiarap**). Berdiri dari posisi tiarap membutuhkan 5 peringkat DEX. Jika serangan area tidak dihindari, serangan itu secara otomatis mengenai semua orang di area efeknya. Tergantung pada jenis serangan, ini dapat menyebabkan tolakan (*knockback*) atau bahkan terbakar (lihat **Api dan Panas**). Atas kebijaksanaan gamemaster, tempat berlindung atau perlindungan (*cover*) dapat mengurangi kerusakan ini lebih lanjut. Armor harus bekerja melawan kerusakan dari serangan area.
+Ketika serangan diarahkan ke area dengan tujuan menimbulkan kerusakan pada siapa pun di area tersebut, mulai dari murka ilahi hingga granat, karakter di area tersebut dapat mencoba lemparan *Dodge* untuk menghindari kerusakan sama sekali, atau lemparan *Agility* untuk mengurangi kerusakan setengahnya (pilihan pemain) dengan berlindung di balik pelindung. Dalam kedua kasus, diasumsikan bahwa mereka yang berada di area tersebut telah menjatuhkan diri (tiarap) untuk mencegah cedera (lihat **Tiarap**). Berdiri dari posisi tiarap membutuhkan 5 peringkat DEX. Jika serangan area tidak dihindari, serangan itu secara otomatis mengenai semua orang di area efeknya. Tergantung pada jenis serangan, ini dapat menyebabkan tolakan (*knockback*) atau bahkan terbakar (lihat **Api dan Panas**). Atas kebijaksanaan gamemaster, tempat berlindung atau perlindungan (*cover*) dapat mengurangi kerusakan ini lebih lanjut. Zirah harus bekerja melawan kerusakan dari serangan area.
 
-## Armor Rusak
+## Zirah Rusak
 
-Asam, api, atau serangan korosif atau kaustik lainnya dapat merusak atau bahkan menghancurkan armor. Ada kemungkinan juga bahwa sepotong armor dapat dihancurkan oleh serangan kritikal atau bahkan *fumble*, meskipun ini atas kebijaksanaan gamemaster. Jika armor rusak atau kehilangan bagian, kurangi nilai armornya sebesar 1/2, dibulatkan ke bawah.
+Asam, api, atau serangan korosif atau kaustik lainnya dapat merusak atau bahkan menghancurkan Zirah. Ada kemungkinan juga bahwa sepotong Zirah dapat dihancurkan oleh serangan kritikal atau bahkan *Kegagalan Mutlak*, meskipun ini atas kebijaksanaan gamemaster. Jika Zirah rusak atau kehilangan bagian, kurangi nilai armornya sebesar 1/2, dibulatkan ke bawah.
 
-***Contoh:*** *Armor dengan perlindungan 5 poin diturunkan nilainya hanya menjadi 2 poin. Jika nilai armor acak digunakan, armor dengan nilai 1D8+1 mungkin dikurangi menjadi 1D4, yaitu setengah dari 1D8, dengan +1 dibulatkan ke bawah.*
+***Contoh:*** *Zirah dengan perlindungan 5 poin diturunkan nilainya hanya menjadi 2 poin. Jika nilai Zirah acak digunakan, Zirah dengan nilai 1D8+1 mungkin dikurangi menjadi 1D4, yaitu setengah dari 1D8, dengan +1 dibulatkan ke bawah.*
 
-Armor yang sudah rusak dan rusak lagi sebelum diperbaiki akan hancur (kehilangan semua nilai perlindungan, tetapi tetap mempertahankan semua penalti dan ENC).
+Zirah yang sudah rusak dan rusak lagi sebelum diperbaiki akan hancur (kehilangan semua nilai perlindungan, tetapi tetap mempertahankan semua penalti dan ENC).
 
-Memperbaiki armor menelan biaya setengah dari harga normal armor tersebut. Ini dapat disesuaikan berdasarkan keadaan, seperti hubungan karakter Anda dengan pengrajin, ketersediaan material yang dibutuhkan, dan sifat kerusakan. Armor yang telah hancur total dapat diperbaiki dengan biaya penuh, tetapi akan memiliki nilai armor 1 poin lebih rendah.
+Memperbaiki Zirah menelan biaya setengah dari harga normal Zirah tersebut. Ini dapat disesuaikan berdasarkan keadaan, seperti hubungan karakter Anda dengan pengrajin, ketersediaan material yang dibutuhkan, dan sifat kerusakan. Zirah yang telah hancur total dapat diperbaiki dengan biaya penuh, tetapi akan memiliki nilai Zirah 1 poin lebih rendah.
 
 ## Serangan Aura
 
@@ -114,15 +114,15 @@ Karakter Anda dapat mencoba serangan aura, memerintahkan perhatian dengan tampil
 
 Ketika serangan aura dilakukan, siapa pun yang dapat melihat karakter Anda harus melakukan lemparan resistensi dengan karakteristik POW mereka vs. total aura karakter Anda. Beberapa atau semua faktor berikut dapat memodifikasi lemparan resistensi:
 
-* **Perintah (Command):** Karakter Anda dapat mencoba melakukan lemparan *Command* sebelum melakukan serangan aura. Jika berhasil, tambahkan +1 ke total aura, keberhasilan spesial +2, dan keberhasilan kritikal +3. Lemparan yang *fumble* mengurangi total aura setengahnya (dibulatkan ke atas).
+* **Perintah (Command):** Karakter Anda dapat mencoba melakukan lemparan *Command* sebelum melakukan serangan aura. Jika berhasil, tambahkan +1 ke total aura, keberhasilan spesial +2, dan keberhasilan kritikal +3. Lemparan yang *Kegagalan Mutlak* mengurangi total aura setengahnya (dibulatkan ke atas).
 * **Keberhasilan Sebelumnya:** Jika karakter Anda sebelumnya berhasil dalam serangan aura terhadap target, tambahkan +1 ke total aura.
 * **Pengalaman:** Atas kebijaksanaan gamemaster, ketenaran relatif, sejarah sebelumnya dengan target, atau lemparan *Reputation* yang berhasil dapat menambahkan +1–3 ke total aura.
-* **Gairah (Passions):** Lemparan *Passion* yang sesuai dan berhasil dapat menambahkan +1 ke total aura, keberhasilan spesial +2, dan keberhasilan kritikal +3. Lemparan yang *fumble* mengurangi total aura setengahnya (dibulatkan ke atas).
+* **Gairah (Passions):** Lemparan *Passion* yang sesuai dan berhasil dapat menambahkan +1 ke total aura, keberhasilan spesial +2, dan keberhasilan kritikal +3. Lemparan yang *Kegagalan Mutlak* mengurangi total aura setengahnya (dibulatkan ke atas).
 * **Keadaan:** Situasi juga dapat memodifikasi total aura karakter Anda secara positif, atau POW target secara negatif sebesar ±1–3.
 
 Jika lemparan resistensi gagal, target serangan aura terpesona selama sisa ronde pertempuran. Mereka dapat menghindar, menangkis, atau bereaksi terhadap serangan terhadap mereka, tetapi tidak dapat memulai serangan atau aksi lain atas kehendak mereka sendiri.
 
-Pesona ini berakhir pada akhir ronde pertempuran. Jika lemparan resistensi adalah *fumble*, target menjadi demoralisasi dan mungkin menyerah, atau melarikan diri, sebagaimana mestinya. Semua aksi menjadi *Sulit* untuk target yang demoralisasi selama sisa ronde pertempuran itu.
+Pesona ini berakhir pada akhir ronde pertempuran. Jika lemparan resistensi adalah *Kegagalan Mutlak*, target menjadi demoralisasi dan mungkin menyerah, atau melarikan diri, sebagaimana mestinya. Semua aksi menjadi *Sulit* untuk target yang demoralisasi selama sisa ronde pertempuran itu.
 
 Serangan aura tidak menimbulkan horor atau menyebabkan kehilangan kewarasan (*sanity loss*).
 
@@ -179,7 +179,7 @@ Pelacakan pengejaran menggunakan **jalur jarak** (range track).
 ### Pengejaran dengan Berjalan Kaki
 Saat menangani pengejaran dengan berjalan kaki antara lawan dengan tingkat MOV yang sama, gamemaster harus mencocokkan CON vs CON para peserta dalam lemparan resistensi, atau gunakan lemparan *Agility* yang ditandingi. Jika mereka berkuda, mereka harus melakukan lemparan *Ride* yang ditandingi.
 
-Jika salah satu peserta menggunakan armor berat atau terbebani, mereka harus melakukan lemparan *Stamina* *Sulit* yang berhasil setiap ronde pertempuran untuk terus maju.
+Jika salah satu peserta menggunakan Zirah berat atau terbebani, mereka harus melakukan lemparan *Stamina* *Sulit* yang berhasil setiap ronde pertempuran untuk terus maju.
 
 ## Tersedak, Tenggelam, dan Asfiksia
 

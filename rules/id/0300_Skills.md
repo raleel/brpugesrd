@@ -220,7 +220,7 @@ Daftar alfabetis dari semua keterampilan di bagian ini berikut. Setiap entri men
 >
 > Umumnya, hasil lemparan keterampilan sudah jelas, tetapi jika ragu, gunakan pedoman berikut saat menentukan hasil:
 >
-> * **Fumble** biasanya berarti kebalikan dari hasil yang diinginkan telah dicapai, memberikan informasi yang menyesatkan, menciptakan semacam kemunduran, atau bahkan menempatkan karakter pada posisi yang tidak menguntungkan.
+> * **Kegagalan Mutlak** biasanya berarti kebalikan dari hasil yang diinginkan telah dicapai, memberikan informasi yang menyesatkan, menciptakan semacam kemunduran, atau bahkan menempatkan karakter pada posisi yang tidak menguntungkan.
 >
 > * **Kegagalan** berarti hasil yang diinginkan tidak tercapai.
 >
@@ -241,7 +241,7 @@ Daftar keterampilan yang komprehensif dan alfabetis berikut. Setiap entri berisi
 * **Kategori:** Kategori keterampilan di mana keterampilan tersebut berada, untuk tujuan klasifikasi umum dan bonus kategori opsional.
 * **Deskripsi:** Deskripsi singkat tentang jenis tugas yang dapat diselesaikan menggunakan keterampilan tersebut.
 * **Spesialisasi:** Daftar spesialisasi keterampilan yang berbeda, jika ada. Tidak semua keterampilan dengan spesialisasi memiliki spesialisasi yang diuraikan dalam daftar poin—hanya yang bersifat lebih mekanis, seperti keterampilan Tempur, yang dirinci dengan cara ini.
-* **Efek:** Hasil lemparan keterampilan, untuk setiap tingkat keberhasilan, jika diperlukan. Singkatnya, hasil keterampilan adalah fumble (hasil terburuk yang mungkin, biasanya lemparan 99 atau 00), kegagalan (lemparan di atas peringkat keterampilan Anda), keberhasilan (di bawah peringkat keterampilan Anda), keberhasilan khusus (1/5 atau kurang dari peringkat keterampilan Anda), atau keberhasilan kritis (1/20 dari peringkat keterampilan Anda). *Bab Lima: Sistem* menjelaskan ini secara rinci. Lihat juga bilah sisi Mendeskripsikan Hasil Keberhasilan.
+* **Efek:** Hasil lemparan keterampilan, untuk setiap tingkat keberhasilan, jika diperlukan. Singkatnya, hasil keterampilan adalah Kegagalan Mutlak (hasil terburuk yang mungkin, biasanya lemparan 99 atau 00), kegagalan (lemparan di atas peringkat keterampilan Anda), keberhasilan (di bawah peringkat keterampilan Anda), keberhasilan khusus (1/5 atau kurang dari peringkat keterampilan Anda), atau keberhasilan kritis (1/20 dari peringkat keterampilan Anda). *Bab Lima: Sistem* menjelaskan ini secara rinci. Lihat juga bilah sisi Mendeskripsikan Hasil Keberhasilan.
 * **Catatan Latar:** Informasi tambahan tentang keterampilan dalam latar yang berbeda. Jika entri ini tidak ada, keterampilan berfungsi tanpa perubahan di hampir semua latar.
 * **Catatan Sistem:** Aturan atau sistem yang relevan, jika ada.
 
@@ -251,7 +251,7 @@ Daftar keterampilan yang komprehensif dan alfabetis berikut. Setiap entri berisi
 
 **Kategori:** Mental
 
-Gunakan keterampilan ini untuk memperkirakan nilai suatu objek, baik itu lukisan lama, batu permata, senjata, atau kuda tunggangan. Kegagalan berarti mereka tidak tahu, sementara fumble memberikan informasi palsu. Keberhasilan khusus atau kritis memberikan informasi tambahan.
+Gunakan keterampilan ini untuk memperkirakan nilai suatu objek, baik itu lukisan lama, batu permata, senjata, atau kuda tunggangan. Kegagalan berarti mereka tidak tahu, sementara Kegagalan Mutlak memberikan informasi palsu. Keberhasilan khusus atau kritis memberikan informasi tambahan.
 
 ### Seni (berbagai)
 
@@ -259,7 +259,7 @@ Gunakan keterampilan ini untuk memperkirakan nilai suatu objek, baik itu lukisan
 
 **Kategori:** Manipulasi
 
-Gunakan keterampilan ini untuk menciptakan karya seni dalam cat atau patung, atau untuk menyusun cerita, puisi, atau karya musik. Keberhasilan kritis atau khusus memberikan karya klasik abadi dengan nilai dan prestise yang jauh lebih tinggi, kegagalan adalah karya amatir biasa, dan fumble dapat merusak reputasi penciptanya. Anda akan menggunakan Pertunjukan untuk akting, menari, bernyanyi, atau memainkan alat musik.
+Gunakan keterampilan ini untuk menciptakan karya seni dalam cat atau patung, atau untuk menyusun cerita, puisi, atau karya musik. Keberhasilan kritis atau khusus memberikan karya klasik abadi dengan nilai dan prestise yang jauh lebih tinggi, kegagalan adalah karya amatir biasa, dan Kegagalan Mutlak dapat merusak reputasi penciptanya. Anda akan menggunakan Pertunjukan untuk akting, menari, bernyanyi, atau memainkan alat musik.
 
 **Spesialisasi:** Kaligrafi, Menyusun, Seni Konseptual, Seni Digital, Menggambar, Melukis, Fotografi, Puisi, Patung, Membuat Sketsa, Menulis Lagu, Menulis, dll.
 
@@ -275,7 +275,7 @@ Gunakan keterampilan ini untuk menembakkan senjata medan besar dan senjata kenda
 
 **Spesialisasi:** Spesialisasi setara dengan jenis. Lihat **Kelas Senjata** di *Bab Delapan: Peralatan* untuk jenis artileri.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Senjata Proyektil** untuk efek spesifik.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Senjata Proyektil** untuk efek spesifik.
 
 **Catatan Latar:** Cocok untuk banyak latar, mulai dari mesin pengepungan hingga artileri modern atau futuristik dan senjata kendaraan. Di sebagian besar latar, latar belakang militer diperlukan untuk mempelajari keterampilan ini.
 
@@ -287,7 +287,7 @@ Gunakan keterampilan ini untuk menembakkan senjata medan besar dan senjata kenda
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk menawar harga, dan setiap kali pendapat yang berlawanan bertemu dalam negosiasi dan kompromi. Gunakan lemparan keterampilan yang berlawanan untuk memutuskan kesepakatan penting, dan lemparan keterampilan sederhana untuk upaya sepele (menghemat uang untuk peralatan atau penginapan, misalnya). Menawar adalah tentang kompromi: gunakan Bicara Cepat atau Membujuk untuk menyelesaikan argumen yang benar-benar dimenangkan atau kalah. Fumble mungkin mengubah pedagang menjadi musuh, keberhasilan berarti Anda mendapatkan kesepakatan, dan hasil yang lebih baik menghasilkan diskon yang lebih tinggi atau kondisi yang lebih menguntungkan bagi pihak Anda.
+Gunakan keterampilan ini untuk menawar harga, dan setiap kali pendapat yang berlawanan bertemu dalam negosiasi dan kompromi. Gunakan lemparan keterampilan yang berlawanan untuk memutuskan kesepakatan penting, dan lemparan keterampilan sederhana untuk upaya sepele (menghemat uang untuk peralatan atau penginapan, misalnya). Menawar adalah tentang kompromi: gunakan Bicara Cepat atau Membujuk untuk menyelesaikan argumen yang benar-benar dimenangkan atau kalah. Kegagalan Mutlak mungkin mengubah pedagang menjadi musuh, keberhasilan berarti Anda mendapatkan kesepakatan, dan hasil yang lebih baik menghasilkan diskon yang lebih tinggi atau kondisi yang lebih menguntungkan bagi pihak Anda.
 
 ### Berkelahi
 
@@ -297,7 +297,7 @@ Gunakan keterampilan ini untuk menawar harga, dan setiap kali pendapat yang berl
 
 Gunakan keterampilan ini untuk pertarungan tanpa senjata: tendangan, pukulan, tandukan kepala, dll.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Serangan dan Tangkisan Senjata Alami**.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Serangan dan Tangkisan Senjata Alami**.
 
 **Catatan Sistem:** Berkelahi dapat digunakan untuk menangkis (lihat Tangkisan) tetapi tangkisan yang berhasil menimbulkan kerusakan senjata minimum pada lengan atau kaki yang menangkis, sebagaimana mestinya. Menggunakan Berkelahi terhadap musuh yang telah bergulat dengan karakter Anda (lihat Bergulat) adalah Mudah. Digunakan bersama dengan Seni Bela Diri dan dengan kekuatan Senjata Alami dan Pertarungan Tanpa Senjata dari *Bab Empat: Kekuatan*.
 
@@ -307,9 +307,9 @@ Gunakan keterampilan ini untuk pertarungan tanpa senjata: tendangan, pukulan, ta
 
 **Kategori:** Fisik
 
-Gunakan keterampilan ini untuk memanjat dinding, pohon, tebing, atau permukaan lainnya, naik atau turun. Pegangan tangan dan kaki yang cukup diasumsikan ada: ubah tingkat kesulitan berdasarkan kondisi atau permukaan yang dipanjat. Fumble berarti Anda jatuh dengan keras (lihat **Jatuh**), gagal berarti Anda terjebak atau Anda jatuh (pilihan gamemaster, berdasarkan keadaan), dan keberhasilan yang unggul memungkinkan Anda memanjat lebih cepat dan lebih jauh.
+Gunakan keterampilan ini untuk memanjat dinding, pohon, tebing, atau permukaan lainnya, naik atau turun. Pegangan tangan dan kaki yang cukup diasumsikan ada: ubah tingkat kesulitan berdasarkan kondisi atau permukaan yang dipanjat. Kegagalan Mutlak berarti Anda jatuh dengan keras (lihat **Jatuh**), gagal berarti Anda terjebak atau Anda jatuh (pilihan gamemaster, berdasarkan keadaan), dan keberhasilan yang unggul memungkinkan Anda memanjat lebih cepat dan lebih jauh.
 
-**Catatan Sistem:** Umumnya, memanjat adalah 1/5 dari laju MOV, dan hewan dengan kemampuan memanjat alami dapat bergerak dengan laju MOV penuh mereka. Memanjat tangga adalah Otomatis. Tangga atau pohon yang sangat tinggi adalah Mudah. Memanjat tanpa menggunakan kaki karakter Anda adalah Sulit. Untuk pendakian yang diperpanjang, gamemaster harus meminta lemparan keterampilan sekali setiap menit, atau 10 meter pendakian. Karakter Anda tidak dapat melakukan tindakan lain saat memanjat, dan semua tindakan yang dilakukan saat memanjat adalah Sulit, dengan fumble apa pun yang menyebabkan jatuh.
+**Catatan Sistem:** Umumnya, memanjat adalah 1/5 dari laju MOV, dan hewan dengan kemampuan memanjat alami dapat bergerak dengan laju MOV penuh mereka. Memanjat tangga adalah Otomatis. Tangga atau pohon yang sangat tinggi adalah Mudah. Memanjat tanpa menggunakan kaki karakter Anda adalah Sulit. Untuk pendakian yang diperpanjang, gamemaster harus meminta lemparan keterampilan sekali setiap menit, atau 10 meter pendakian. Karakter Anda tidak dapat melakukan tindakan lain saat memanjat, dan semua tindakan yang dilakukan saat memanjat adalah Sulit, dengan Kegagalan Mutlak apa pun yang menyebabkan jatuh.
 
 ### Perintah
 
@@ -317,7 +317,7 @@ Gunakan keterampilan ini untuk memanjat dinding, pohon, tebing, atau permukaan l
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk menginspirasi, mengarahkan, dan mengoordinasikan bawahan, membimbing mereka dalam tugas-tugas kompleks dan meningkatkan efektivitas kelompok. Perwira militer, bangsawan, politisi, dan eksekutif bisnis dibuat atau dihancurkan berdasarkan kemampuan mereka untuk mengelola dan memimpin. Kepribadian, suara yang kuat, dan kemauan keras adalah alat komando yang tak ternilai. Fumble memicu pemberontakan, gagal berarti tidak menginspirasi dan membingungkan, dan keberhasilan memungkinkan Anda menambahkan 1/5 keterampilan Perintah Anda sebagai bonus keterampilan komplementer kepada semua bawahan Anda untuk setiap putaran Anda memerintah mereka, selama mereka mengikuti perintah Anda. Lempar setiap putaran dalam pertempuran, atau setiap giliran dalam pertempuran massal.
+Gunakan keterampilan ini untuk menginspirasi, mengarahkan, dan mengoordinasikan bawahan, membimbing mereka dalam tugas-tugas kompleks dan meningkatkan efektivitas kelompok. Perwira militer, bangsawan, politisi, dan eksekutif bisnis dibuat atau dihancurkan berdasarkan kemampuan mereka untuk mengelola dan memimpin. Kepribadian, suara yang kuat, dan kemauan keras adalah alat komando yang tak ternilai. Kegagalan Mutlak memicu pemberontakan, gagal berarti tidak menginspirasi dan membingungkan, dan keberhasilan memungkinkan Anda menambahkan 1/5 keterampilan Perintah Anda sebagai bonus keterampilan komplementer kepada semua bawahan Anda untuk setiap putaran Anda memerintah mereka, selama mereka mengikuti perintah Anda. Lempar setiap putaran dalam pertempuran, atau setiap giliran dalam pertempuran massal.
 
 **Catatan Sistem:** Digunakan terutama dalam pertempuran, meskipun dapat diperluas ke negosiasi korporat, dll. Artileri, Senjata Berat, Senjata Jarak Dekat, Senjata Proyektil, dan Strategi adalah keterampilan yang paling tepat untuk menerima manfaat ini.
 
@@ -327,7 +327,7 @@ Gunakan keterampilan ini untuk menginspirasi, mengarahkan, dan mengoordinasikan 
 
 **Kategori:** Manipulasi
 
-Gunakan keterampilan ini untuk membangun atau membuat barang, mulai dari kursi hingga makanan hingga rumah. Alat khusus sering diperlukan untuk keterampilan ini, dan dibutuhkan waktu serta bahan mentah. Keterampilan ini juga dapat digunakan untuk mengidentifikasi bagaimana suatu objek dibuat, dan mungkin mengidentifikasi pembuat yang membuatnya. Fumble menghancurkan bahan dan tidak menghasilkan apa pun yang berguna, keberhasilan berarti berhasil, dan kualitas keberhasilan yang lebih baik menghasilkan versi barang yang dibuat yang lebih halus, kokoh, atau berharga, mungkin dengan kualitas tambahan seperti +10% atau +20% untuk kemanjurannya saat digunakan, poin hit yang lebih tinggi, dll. Ini tentang fungsi dan kepraktisan: membuat objek semata-mata untuk tujuan estetika termasuk dalam Seni.
+Gunakan keterampilan ini untuk membangun atau membuat barang, mulai dari kursi hingga makanan hingga rumah. Alat khusus sering diperlukan untuk keterampilan ini, dan dibutuhkan waktu serta bahan mentah. Keterampilan ini juga dapat digunakan untuk mengidentifikasi bagaimana suatu objek dibuat, dan mungkin mengidentifikasi pembuat yang membuatnya. Kegagalan Mutlak menghancurkan bahan dan tidak menghasilkan apa pun yang berguna, keberhasilan berarti berhasil, dan kualitas keberhasilan yang lebih baik menghasilkan versi barang yang dibuat yang lebih halus, kokoh, atau berharga, mungkin dengan kualitas tambahan seperti +10% atau +20% untuk kemanjurannya saat digunakan, poin hit yang lebih tinggi, dll. Ini tentang fungsi dan kepraktisan: membuat objek semata-mata untuk tujuan estetika termasuk dalam Seni.
 
 **Spesialisasi:** Pandai Besi, Pertukangan, Keramik, Memasak, Pengolahan Kulit, Mengunci, Metalurgi, Pemasangan Batu, dan lainnya sebagaimana mestinya.
 
@@ -339,7 +339,7 @@ Gunakan keterampilan ini untuk membangun atau membuat barang, mulai dari kursi h
 
 **Kategori:** Manipulasi
 
-Gunakan keterampilan ini untuk menyimpan, mengangkut, memasang, dan meledakkan bahan peledak, mulai dari tong mesiu hingga dinamit, koktail Molotov, bahan peledak plastik canggih, dan bom anti-materi. Siapa pun bisa meledakkan bom: ini untuk mencapai efek spesifik dengan ledakan; merobohkan bangunan dengan aman, menghancurkan jembatan, atau meledakkan pintu brankas tanpa merusak isinya. Penghancuran juga mencakup pengetahuan tentang aksesori yang sesuai untuk bahan peledak, termasuk kabel primer, sekering, dan detonator. Gunakan Sains (Kimia) untuk memproduksi senyawa peledak atau Keterampilan Teknis untuk membuat bahan peledak lainnya. Fumble membuat segalanya meledak di wajah Anda, gagal berarti efek yang diinginkan tidak tercapai (misfire atau dud), dan keberhasilan yang unggul menghasilkan hasil yang lebih mengesankan, baik kerusakan lebih banyak, kerusakan tambahan lebih sedikit, efek khusus seperti Knockback, area efek tambahan, dll.
+Gunakan keterampilan ini untuk menyimpan, mengangkut, memasang, dan meledakkan bahan peledak, mulai dari tong mesiu hingga dinamit, koktail Molotov, bahan peledak plastik canggih, dan bom anti-materi. Siapa pun bisa meledakkan bom: ini untuk mencapai efek spesifik dengan ledakan; merobohkan bangunan dengan aman, menghancurkan jembatan, atau meledakkan pintu brankas tanpa merusak isinya. Penghancuran juga mencakup pengetahuan tentang aksesori yang sesuai untuk bahan peledak, termasuk kabel primer, sekering, dan detonator. Gunakan Sains (Kimia) untuk memproduksi senyawa peledak atau Keterampilan Teknis untuk membuat bahan peledak lainnya. Kegagalan Mutlak membuat segalanya meledak di wajah Anda, gagal berarti efek yang diinginkan tidak tercapai (misfire atau dud), dan keberhasilan yang unggul menghasilkan hasil yang lebih mengesankan, baik kerusakan lebih banyak, kerusakan tambahan lebih sedikit, efek khusus seperti Knockback, area efek tambahan, dll.
 
 **Catatan Sistem:** Dengan peringkat keterampilan 60%+, penggunaan normal keterampilan ini secara otomatis berhasil. Bahan peledak yang tidak stabil (dinamit berkeringat) mungkin memerlukan lemparan Penghancuran setiap putaran saat sedang ditangani atau digunakan. Menghancurkan struktur besar (jembatan, bendungan, bunker, atau bangunan) adalah Sulit kecuali karakter Anda memiliki akses ke cetak biru atau rencana target. Mencoba menggunakan keterampilan ini tanpa alat yang sesuai (sekering, dll.), atau menggunakan bahan peledak di luar bidang keahlian normal karakter Anda mungkin Sulit atau bahkan Mustahil. Beberapa jenis bahan peledak seperti granat mungkin digunakan tanpa keterampilan ini. Lihat *Bab Delapan: Peralatan* untuk bahan peledak dan efeknya.
 
@@ -349,7 +349,7 @@ Gunakan keterampilan ini untuk menyimpan, mengangkut, memasang, dan meledakkan b
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk menggunakan postur, kostum, suara, dan trik lain untuk muncul sebagai orang yang berbeda, atau jenis orang yang berbeda. Cahaya redup, riasan teater, dan perubahan wajah yang signifikan (potongan rambut atau wig, janggut palsu, atau cukuran cepat) dapat menambahkan bonus +20%, atas kebijaksanaan gamemaster. Penonton yang memeriksa karakter Anda yang menyamar atau terlibat dalam percakapan dengan mereka dapat melakukan lemparan keterampilan Melihat atau Wawasan yang berlawanan terhadap lemparan Penyamaran karakter Anda untuk melihat tipu muslihat tersebut. Karakter Anda yang menyamar dapat menggunakan keterampilan Bicara Cepat mereka untuk lemparan yang berlawanan jika mereka melibatkan penonton dalam percakapan, mengalihkan perhatian mereka dari pemeriksaan ketat. Fumble sangat jelas, gagal tidak menipu siapa pun yang melihat dua kali, dan keberhasilan yang unggul bahkan dapat menambahkan bonus komplementer pada lemparan Komunikasi terhadap mereka yang tertipu, atau membuat deteksi menjadi lebih sulit.
+Gunakan keterampilan ini untuk menggunakan postur, kostum, suara, dan trik lain untuk muncul sebagai orang yang berbeda, atau jenis orang yang berbeda. Cahaya redup, riasan teater, dan perubahan wajah yang signifikan (potongan rambut atau wig, janggut palsu, atau cukuran cepat) dapat menambahkan bonus +20%, atas kebijaksanaan gamemaster. Penonton yang memeriksa karakter Anda yang menyamar atau terlibat dalam percakapan dengan mereka dapat melakukan lemparan keterampilan Melihat atau Wawasan yang berlawanan terhadap lemparan Penyamaran karakter Anda untuk melihat tipu muslihat tersebut. Karakter Anda yang menyamar dapat menggunakan keterampilan Bicara Cepat mereka untuk lemparan yang berlawanan jika mereka melibatkan penonton dalam percakapan, mengalihkan perhatian mereka dari pemeriksaan ketat. Kegagalan Mutlak sangat jelas, gagal tidak menipu siapa pun yang melihat dua kali, dan keberhasilan yang unggul bahkan dapat menambahkan bonus komplementer pada lemparan Komunikasi terhadap mereka yang tertipu, atau membuat deteksi menjadi lebih sulit.
 
 **Catatan Sistem:** Menggunakan keterampilan ini untuk meniru jenis orang tertentu (prajurit, polisi, dll.) adalah tindakan normal. Meniru seseorang yang sangat berbeda (spesies berbeda, seseorang yang jauh lebih tinggi atau lebih pendek, anggota gender lawan) atau orang terkenal tertentu (bangsawan, selebriti, dll.), atau mencoba penyamaran tanpa pakaian atau properti yang sesuai adalah Sulit. Gamemaster dapat memberikan penalti tambahan untuk hambatan budaya atau bahasa, atau jika beberapa kondisi Sulit berlaku. Terlalu berlebihan mungkin hanya Mustahil.
 
@@ -361,7 +361,7 @@ Gunakan keterampilan ini untuk menggunakan postur, kostum, suara, dan trik lain 
 
 Pertahanan terbaik dalam pertempuran, seperti yang diketahui oleh setiap petarung, adalah tidak berada di sana. Menghindar memungkinkan karakter Anda untuk menghindari serangan yang masuk, menggunakan kelincahan untuk menghindari atau meminimalkan cedera.
 
-**Efek:** Lemparan Menghindar yang berhasil memodifikasi hasil serangan yang berhasil, mengubahnya menjadi kegagalan. Hasil khusus untuk lemparan Menghindar memodifikasi serangan dua langkah (keberhasilan khusus menjadi kegagalan), dan keberhasilan kritis pada lemparan Menghindar memodifikasi serangan yang berhasil tiga langkah (serangan kritis menjadi kegagalan). Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Serangan dan Tangkisan Senjata Alami** untuk efek spesifik. Lemparan Menghindar yang berhasil tidak dapat mengurangi keberhasilan serangan yang masuk lebih rendah dari kegagalan.
+**Efek:** Lemparan Menghindar yang berhasil memodifikasi hasil serangan yang berhasil, mengubahnya menjadi kegagalan. Hasil khusus untuk lemparan Menghindar memodifikasi serangan dua langkah (keberhasilan khusus menjadi kegagalan), dan keberhasilan kritis pada lemparan Menghindar memodifikasi serangan yang berhasil tiga langkah (serangan kritis menjadi kegagalan). Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Serangan dan Tangkisan Senjata Alami** untuk efek spesifik. Lemparan Menghindar yang berhasil tidak dapat mengurangi keberhasilan serangan yang masuk lebih rendah dari kegagalan.
 
 **Catatan Sistem:** Seperti yang dijelaskan dalam **Menghindar** di *Bab Enam: Tempur*, karakter Anda dapat Menghindar atau Menangkis dalam satu putaran tempur tetapi tidak dapat melakukan keduanya. Jika karakter Anda diserang oleh banyak musuh, mereka dapat melakukan beberapa upaya Menghindar dalam satu putaran, tetapi setiap lemparan setelah yang pertama dibuat dengan penalti kumulatif –30% pada peringkat keterampilan. Beberapa serangan proyektil Sulit atau Mustahil untuk dihindari (lihat Menghindari Senjata Proyektil).
 
@@ -371,7 +371,7 @@ Pertahanan terbaik dalam pertempuran, seperti yang diketahui oleh setiap petarun
 
 **Kategori:** Manipulasi
 
-Gunakan Mengemudi untuk mengarahkan, bermanuver, dan mengendalikan kendaraan darat, baik yang ditarik oleh hewan maupun yang digerakkan oleh mesin. Untuk kendaraan umum, peluang dasarnya adalah 20%, untuk kendaraan yang tidak diketahui/tidak umum, itu 01%. Fumble saat mengemudi secara normal berarti kendaraan mungkin tidak mau hidup, atau tabrakan atau kecelakaan. Keberhasilan berarti karakter Anda sampai ke tempat tujuan, atau mampu memperbaiki kondisi buruk (seperti selip atau berputar), dan keberhasilan yang unggul berarti jarak lebih jauh ditempuh dalam waktu lebih singkat, bahan bakar lebih sedikit yang digunakan, atau manfaat lainnya.
+Gunakan Mengemudi untuk mengarahkan, bermanuver, dan mengendalikan kendaraan darat, baik yang ditarik oleh hewan maupun yang digerakkan oleh mesin. Untuk kendaraan umum, peluang dasarnya adalah 20%, untuk kendaraan yang tidak diketahui/tidak umum, itu 01%. Kegagalan Mutlak saat mengemudi secara normal berarti kendaraan mungkin tidak mau hidup, atau tabrakan atau kecelakaan. Keberhasilan berarti karakter Anda sampai ke tempat tujuan, atau mampu memperbaiki kondisi buruk (seperti selip atau berputar), dan keberhasilan yang unggul berarti jarak lebih jauh ditempuh dalam waktu lebih singkat, bahan bakar lebih sedikit yang digunakan, atau manfaat lainnya.
 
 **Spesialisasi:** Mobil, Sepeda, Kereta, Gerobak, Kereta Perang, Kereta Anjing, Sepeda Motor, Truk, Kereta Luncur, dll.
 
@@ -389,9 +389,9 @@ Gunakan ini untuk menembakkan segala jenis senjata energi terarah atau senjata s
 
 **Spesialisasi:** Pistol Energi, Senapan Energi, dll. Spesialisasi setara dengan jenis. Lihat **Kelas Senjata** di *Bab Delapan: Peralatan* untuk jenis senjata api.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Senjata Proyektil** untuk efek spesifik. Senjata energi biasanya menusuk.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Senjata Proyektil** untuk efek spesifik. Senjata energi biasanya menusuk.
 
-**Catatan Latar:** Senjata energi biasanya hanya muncul di latar futuristik. Siapa pun dari budaya tanpa senjata tersebut harus melakukan lemparan Ide Sulit untuk mengetahui cara menggunakannya, dan mungkin hanya setelah melihatnya digunakan. Kegagalan atau fumble bisa menjadi bencana, bagi senjata atau penggunanya! Latar belakang militer mungkin diperlukan untuk mempelajari keterampilan ini.
+**Catatan Latar:** Senjata energi biasanya hanya muncul di latar futuristik. Siapa pun dari budaya tanpa senjata tersebut harus melakukan lemparan Ide Sulit untuk mengetahui cara menggunakannya, dan mungkin hanya setelah melihatnya digunakan. Kegagalan atau Kegagalan Mutlak bisa menjadi bencana, bagi senjata atau penggunanya! Latar belakang militer mungkin diperlukan untuk mempelajari keterampilan ini.
 
 **Catatan Sistem:** Beberapa senjata energi memiliki persyaratan STR dan DEX minimum untuk menggunakan senjata tersebut, sesuai tabel senjata di *Bab Delapan: Peralatan*. Senjata energi tidak menggunakan pengubah kerusakan tetapi dapat digunakan untuk serangan terarah. Mereka tidak dapat dihindari, meskipun pergerakan dan orientasi target dapat memaksakan penalti pada tembakan, seperti yang dijelaskan dalam Menghindari Senjata Proyektil. Memblokir tembakan energi dengan keterampilan Perisai adalah Sulit.
 
@@ -401,7 +401,7 @@ Gunakan ini untuk menembakkan segala jenis senjata energi terarah atau senjata s
 
 **Kategori:** Komunikasi
 
-Sebagian besar budaya, kasta, atau kelompok memiliki aturan sosial dan kode perilaku. Pakaian yang tepat, cara bicara, perilaku spesifik, bahasa tubuh, atau bahkan pengadilan dengan pertempuran semuanya dapat berperan dalam etiket suatu kelompok. Gunakan keterampilan ini setiap kali karakter Anda perlu berperilaku dengan tepat, baik menghadiri pesta makan malam ala Victoria, wawancara kerja penting, atau bergabung dengan keluarga kejahatan terorganisir. Lemparan etiket mungkin mendapatkan audiensi dengan karakter non-pemain penting atau mengesankan orang lain dengan pengetahuan Anda tentang adat istiadat sosial mereka. Fumble mewakili faux pas yang membawa bencana, gagal tidak mengesankan, dan keberhasilan atau lebih menghasilkan hasil yang unggul dan meningkatkan penerimaan seseorang.
+Sebagian besar budaya, kasta, atau kelompok memiliki aturan sosial dan kode perilaku. Pakaian yang tepat, cara bicara, perilaku spesifik, bahasa tubuh, atau bahkan pengadilan dengan pertempuran semuanya dapat berperan dalam etiket suatu kelompok. Gunakan keterampilan ini setiap kali karakter Anda perlu berperilaku dengan tepat, baik menghadiri pesta makan malam ala Victoria, wawancara kerja penting, atau bergabung dengan keluarga kejahatan terorganisir. Lemparan etiket mungkin mendapatkan audiensi dengan karakter non-pemain penting atau mengesankan orang lain dengan pengetahuan Anda tentang adat istiadat sosial mereka. Kegagalan Mutlak mewakili faux pas yang membawa bencana, gagal tidak mengesankan, dan keberhasilan atau lebih menghasilkan hasil yang unggul dan meningkatkan penerimaan seseorang.
 
 **Spesialisasi**: Berdasarkan kelompok. Untuk mempelajari tata krama kelompok kedua, pelajari keterampilan Etiket kedua dengan spesialisasi tersebut.
 
@@ -413,7 +413,7 @@ Sebagian besar budaya, kasta, atau kelompok memiliki aturan sosial dan kode peri
 
 **Kategori:** Komunikasi
 
-Senjata pilihan salesman, mata-mata, atau penipu, gunakan keterampilan ini untuk meyakinkan target dengan cepat tentang sesuatu yang mungkin tidak mereka percayai, atau meyakinkan mereka untuk membuat keputusan cepat yang bertentangan dengan penilaian mereka yang lebih baik. Gunakan ini untuk menggertak melewati penjaga pintu atau membuat penjualan sulit berjalan cepat. Bicara Cepat cepat digunakan, dan biasanya sementara: beberapa menit kemudian dan lemparan Ide yang berhasil, target mungkin sadar kembali. Untuk benar-benar mengubah pikiran seseorang, gunakan keterampilan Menawar atau Membujuk. Fumble biasanya menarik permusuhan, gagal tidak membawa Anda ke mana-mana, dan keberhasilan atau lebih memiliki efektivitas yang lebih baik, atau bahkan meyakinkan seseorang secara permanen tentang posisi Anda.
+Senjata pilihan salesman, mata-mata, atau penipu, gunakan keterampilan ini untuk meyakinkan target dengan cepat tentang sesuatu yang mungkin tidak mereka percayai, atau meyakinkan mereka untuk membuat keputusan cepat yang bertentangan dengan penilaian mereka yang lebih baik. Gunakan ini untuk menggertak melewati penjaga pintu atau membuat penjualan sulit berjalan cepat. Bicara Cepat cepat digunakan, dan biasanya sementara: beberapa menit kemudian dan lemparan Ide yang berhasil, target mungkin sadar kembali. Untuk benar-benar mengubah pikiran seseorang, gunakan keterampilan Menawar atau Membujuk. Kegagalan Mutlak biasanya menarik permusuhan, gagal tidak membawa Anda ke mana-mana, dan keberhasilan atau lebih memiliki efektivitas yang lebih baik, atau bahkan meyakinkan seseorang secara permanen tentang posisi Anda.
 
 **Catatan Sistem:** Roleplaying yang baik dan/atau argumen yang efektif mungkin membuat upaya Bicara Cepat menjadi Mudah, sama seperti roleplaying yang buruk dan/atau argumen yang lemah mungkin membuatnya Sulit. Mencoba Bicara Cepat pada target setelah upaya pertama di Menawar, Bicara Cepat, atau Membujuk gagal adalah Sulit.
 
@@ -423,7 +423,7 @@ Senjata pilihan salesman, mata-mata, atau penipu, gunakan keterampilan ini untuk
 
 **Kategori:** Manipulasi
 
-Ukuran kemantapan dan koordinasi tangan-mata, keterampilan ini mencakup penggunaan tangan dan jari dengan hati-hati. Gunakan saat membuka kunci, menjinakkan jebakan, mengikat atau melepas simpul, dan membongkar perangkat mekanis. Fumble mengacaukan segalanya, mungkin merusak atau membuat macet barang yang dimanipulasi. Keberhasilan yang unggul membutuhkan waktu lebih sedikit, membuatnya mudah di masa depan, tidak menunjukkan tanda-tanda gangguan, atau manfaat serupa lainnya.
+Ukuran kemantapan dan koordinasi tangan-mata, keterampilan ini mencakup penggunaan tangan dan jari dengan hati-hati. Gunakan saat membuka kunci, menjinakkan jebakan, mengikat atau melepas simpul, dan membongkar perangkat mekanis. Kegagalan Mutlak mengacaukan segalanya, mungkin merusak atau membuat macet barang yang dimanipulasi. Keberhasilan yang unggul membutuhkan waktu lebih sedikit, membuatnya mudah di masa depan, tidak menunjukkan tanda-tanda gangguan, atau manfaat serupa lainnya.
 
 **Catatan Sistem:** Menggunakan keterampilan ini tanpa alat yang sesuai, jika diperlukan, adalah Sulit.
 
@@ -437,9 +437,9 @@ Keterampilan ini mengukur akurasi dengan senjata api, dan memberikan keakraban d
 
 **Spesialisasi:** Senapan Mesin, Pistol, Revolver, Senapan, Senapan Patah, Senapan Submesin. Spesialisasi setara dengan jenis. Lihat **Kelas Senjata** di *Bab Delapan: Peralatan* untuk jenis senjata api.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Senjata Proyektil** untuk efek spesifik. Senjata api biasanya menusuk (lihat *Bab Delapan: Peralatan* untuk detail).
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Senjata Proyektil** untuk efek spesifik. Senjata api biasanya menusuk (lihat *Bab Delapan: Peralatan* untuk detail).
 
-**Catatan Latar:** Karakter mana pun yang tidak terbiasa dengan senjata api harus melakukan lemparan Ide Sulit untuk mengetahui cara menggunakannya jika mereka belum pernah melihatnya digunakan. Kegagalan atau fumble bisa menjadi bencana, bagi senjata atau penggunanya!
+**Catatan Latar:** Karakter mana pun yang tidak terbiasa dengan senjata api harus melakukan lemparan Ide Sulit untuk mengetahui cara menggunakannya jika mereka belum pernah melihatnya digunakan. Kegagalan atau Kegagalan Mutlak bisa menjadi bencana, bagi senjata atau penggunanya!
 
 **Catatan Sistem:** Beberapa senjata api memiliki persyaratan STR dan DEX minimum, sesuai tabel senjata di *Bab Delapan: Peralatan*. Senjata api tidak menggunakan pengubah kerusakan, dan dapat digunakan untuk serangan terarah.
 
@@ -453,7 +453,7 @@ Gunakan keterampilan ini untuk menghentikan pendarahan, membalut luka dan mengob
 
 **Efek:** Pertolongan Pertama memiliki efek spesifik:
 
-* **Fumble:** Pasien menerima 1 poin hit kerusakan umum, dan kondisi mereka tetap tidak berubah.
+* **Kegagalan Mutlak:** Pasien menerima 1 poin hit kerusakan umum, dan kondisi mereka tetap tidak berubah.
 * **Kegagalan:** Tidak ada efek, dan tidak ada upaya Pertolongan Pertama lebih lanjut yang dapat dilakukan.
 * **Keberhasilan:** Salah satu dari berikut ini (pilihan pemain):
   * Menyembuhkan 1D3 poin hit untuk satu luka atau cedera.
@@ -475,13 +475,13 @@ Untuk makhluk dengan sayap, perlengkapan yang sesuai (sabuk antigravitasi, sepat
 
 **Efek:** Terbang memiliki efek spesifik:
 
-* **Fumble:** Berhenti dan mungkin bahkan jatuh. Karakter bersayap harus melakukan lemparan Stamina yang berhasil atau menderita 1D3–1 poin kerusakan dari keseleo atau regangan. Perangkat berhenti atau gagal dan tidak dapat menjaga karakter Anda tetap tinggi. Penerbang jatuh satu putaran per tingkat ketinggian di atas tanah. Lakukan lemparan Terbang Sulit untuk tetap tinggi—gagal berarti kecelakaan (lihat **Jatuh**).
+* **Kegagalan Mutlak:** Berhenti dan mungkin bahkan jatuh. Karakter bersayap harus melakukan lemparan Stamina yang berhasil atau menderita 1D3–1 poin kerusakan dari keseleo atau regangan. Perangkat berhenti atau gagal dan tidak dapat menjaga karakter Anda tetap tinggi. Penerbang jatuh satu putaran per tingkat ketinggian di atas tanah. Lakukan lemparan Terbang Sulit untuk tetap tinggi—gagal berarti kecelakaan (lihat **Jatuh**).
 * **Kegagalan:** Keluar jalur atau turun ke ketinggian yang tidak diinginkan. Tidak pergi ke mana-mana.
 * **Keberhasilan:** Menyelesaikan manuver yang diinginkan atau menahan posisi dalam pengejaran.
 * **Khusus:** Menyelesaikan manuver yang diinginkan dan mendapatkan bonus +10% untuk lemparan Menghindar, Terbang, atau serangan berikutnya yang dibuat dalam pertempuran udara.
 * **Kritis:** Menyelesaikan manuver yang diinginkan dan mendapatkan bonus +25% untuk lemparan Menghindar, Terbang, atau serangan berikutnya yang dibuat dalam pertempuran udara.
 
-**Catatan Sistem:** Penerbangan singkat yang tidak berkesan dalam kondisi normal atau sedang adalah Otomatis. Lihat **Kondisi Cuaca** untuk pengubah pada penerbangan. Lemparan Stamina diperlukan untuk penerbangan jarak jauh, dengan pengganda karakteristik berkurang satu setiap empat jam atau sebagian darinya yang dihabiskan di udara. Penerbangan normal tidak mengeluarkan poin kelelahan, sementara manuver atau penerbangan yang menekan adalah aktivitas yang berat. Terbang saat mengenakan baju besi atau perlengkapan berat dikenakan penalti yang setara dengan total ENC karakter Anda saat ini (lihat **Encumbrance**). Karakter terbang yang membawa benda berat harus mencocokkan STR mereka terhadap SIZ benda yang dibawa pada tabel resistensi untuk tetap tinggi.
+**Catatan Sistem:** Penerbangan singkat yang tidak berkesan dalam kondisi normal atau sedang adalah Otomatis. Lihat **Kondisi Cuaca** untuk pengubah pada penerbangan. Lemparan Stamina diperlukan untuk penerbangan jarak jauh, dengan pengganda karakteristik berkurang satu setiap empat jam atau sebagian darinya yang dihabiskan di udara. Penerbangan normal tidak mengeluarkan poin kelelahan, sementara manuver atau penerbangan yang menekan adalah aktivitas yang berat. Terbang saat mengenakan Zirah atau perlengkapan berat dikenakan penalti yang setara dengan total ENC karakter Anda saat ini (lihat **Encumbrance**). Karakter terbang yang membawa benda berat harus mencocokkan STR mereka terhadap SIZ benda yang dibawa pada tabel resistensi untuk tetap tinggi.
 
 ### Permainan
 
@@ -489,7 +489,7 @@ Untuk makhluk dengan sayap, perlengkapan yang sesuai (sabuk antigravitasi, sepat
 
 **Kategori:** Mental
 
-Gunakan keterampilan ini saat memainkan permainan, dari catur atau backgammon hingga kontes judi yang melibatkan kartu, dadu, atau elemen acak atau strategis lainnya. Penjudi mencari nafkah menggunakan keterampilan ini, tetapi bagi kebanyakan orang lain itu hanya sumber hiburan. Fumble membersihkan Anda dan berpotensi membuat Anda berutang, gagal berarti Anda kalah dalam putaran, keberhasilan menghasilkan kemenangan kecil, dan keberhasilan yang unggul menuai manfaat yang lebih besar dan mungkin bahkan meningkatkan status seseorang.
+Gunakan keterampilan ini saat memainkan permainan, dari catur atau backgammon hingga kontes judi yang melibatkan kartu, dadu, atau elemen acak atau strategis lainnya. Penjudi mencari nafkah menggunakan keterampilan ini, tetapi bagi kebanyakan orang lain itu hanya sumber hiburan. Kegagalan Mutlak membersihkan Anda dan berpotensi membuat Anda berutang, gagal berarti Anda kalah dalam putaran, keberhasilan menghasilkan kemenangan kecil, dan keberhasilan yang unggul menuai manfaat yang lebih besar dan mungkin bahkan meningkatkan status seseorang.
 
 **Catatan Sistem:** Gunakan ini untuk menyelesaikan permainan di mana keterampilan dan strategi memainkan peran tertentu, dengan pemain lain melakukan lemparan yang berlawanan. Untuk curang, gunakan Kecekatan Tangan atau Bicara Cepat, yang berlawanan dengan Mengamati atau Wawasan. Hasil yang sepenuhnya acak menggunakan lemparan Keberuntungan.
 
@@ -503,7 +503,7 @@ Gunakan keterampilan ini untuk gulat atau pertarungan apa pun di mana tujuannya 
 
 **Efek:** Bergulat memiliki efek spesifik:
 
-* **Fumble:** Lempar pada tabel **Fumble Senjata Alami**.
+* **Kegagalan Mutlak:** Lempar pada tabel **Kegagalan Mutlak Senjata Alami**.
 * **Kegagalan:** Target menghindari ditahan, atau upaya pelarian gagal.
 * **Keberhasilan:** Target digulat, penyerang dapat menerapkan satu efek gulat (lihat **Efek Bergulat** di bawah) putaran berikutnya jika pegangan dipertahankan.
 * **Khusus:** Penyerang secara otomatis berhasil dalam lemparan Bergulat berikutnya untuk mempertahankan pegangan dan mendapatkan bonus karakteristik +3 pada lemparan resistensi apa pun untuk efek gulat yang dibuat putaran ini.
@@ -541,7 +541,7 @@ Beberapa penyerang dapat mencoba bergulat dengan satu target, meskipun tidak leb
 
 **Kategori:** Manipulasi
 
-Gunakan keterampilan ini untuk mengoperasikan mesin apa pun yang lebih besar dari orang dan kendaraan beroda apa pun yang lebih berat dari van pindahan, seperti forklift, tank, buldoser, derek, lokomotif, atau mengoperasikan mesin di kapal laut besar. Mesin Berat juga mencakup perawatan dasar dan pemeliharaan preventif, meskipun setelah mesin berat gagal, keterampilan Perbaikan diperlukan untuk memperbaikinya. Untuk pesawat, gunakan keterampilan Pilot. Fumble menghasilkan kecelakaan, masalah mesin, dan/atau kerusakan properti, sementara gagal berarti mesin tidak melakukan tugas yang diinginkan. Keberhasilan dan keberhasilan yang unggul menunjukkan efektivitas yang lebih besar.
+Gunakan keterampilan ini untuk mengoperasikan mesin apa pun yang lebih besar dari orang dan kendaraan beroda apa pun yang lebih berat dari van pindahan, seperti forklift, tank, buldoser, derek, lokomotif, atau mengoperasikan mesin di kapal laut besar. Mesin Berat juga mencakup perawatan dasar dan pemeliharaan preventif, meskipun setelah mesin berat gagal, keterampilan Perbaikan diperlukan untuk memperbaikinya. Untuk pesawat, gunakan keterampilan Pilot. Kegagalan Mutlak menghasilkan kecelakaan, masalah mesin, dan/atau kerusakan properti, sementara gagal berarti mesin tidak melakukan tugas yang diinginkan. Keberhasilan dan keberhasilan yang unggul menunjukkan efektivitas yang lebih besar.
 
 **Spesialisasi:** Berdasarkan jenis kendaraan (Kendaraan Lapis Baja, Boiler, Buldoser, Derek, Mesin, Turbin, dll.).
 
@@ -557,7 +557,7 @@ Gunakan keterampilan ini untuk mengoperasikan senjata peledak atau senjata temba
 
 **Spesialisasi:** Senjata berat berada di antara senjata tradisional dan artileri dan sering digunakan untuk mengirimkan bahan peledak. Spesialisasi berdasarkan jenis senjata, dan termasuk Bazoka, Penyembur Api, Senapan Mesin Mini, Peluncur Roket, dll. Lihat **Artileri dan Bahan Peledak** di *Bab Delapan: Peralatan* untuk detail lebih lanjut.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Senjata Proyektil** untuk efek spesifik. Senjata berat biasanya menusuk atau knockback.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Senjata Proyektil** untuk efek spesifik. Senjata berat biasanya menusuk atau knockback.
 
 **Catatan Sistem:** Sebagian besar senjata berat menggunakan tembakan otomatis, atau menembakkan persenjataan peledak. Lihat **Tembakan Otomatis** dan **Ledakan**. Semua tembakan yang meleset pergi ke suatu tempat; gamemaster harus memutuskan di mana tembakan peledak yang meleset berdampak.
 
@@ -567,7 +567,7 @@ Gunakan keterampilan ini untuk mengoperasikan senjata peledak atau senjata temba
 
 **Kategori:** Fisik
 
-Seni menyembunyikan objek atau diri sendiri dari pandangan. Karakter Anda harus menggunakan keterampilan ini untuk melarikan diri saat pengejaran, menjaga objek agar mudah tidak terdeteksi, atau menghindari pengawasan. Fumble menarik perhatian segera, gagal berarti lemparan Melihat untuk menemukan penyembunyi menjadi *Mudah*, keberhasilan memerlukan lemparan Melihat untuk ditemukan, dan keberhasilan yang unggul membuat lemparan Melihat menjadi *Sulit* atau *Mustahil*.
+Seni menyembunyikan objek atau diri sendiri dari pandangan. Karakter Anda harus menggunakan keterampilan ini untuk melarikan diri saat pengejaran, menjaga objek agar mudah tidak terdeteksi, atau menghindari pengawasan. Kegagalan Mutlak menarik perhatian segera, gagal berarti lemparan Melihat untuk menemukan penyembunyi menjadi *Mudah*, keberhasilan memerlukan lemparan Melihat untuk ditemukan, dan keberhasilan yang unggul membuat lemparan Melihat menjadi *Sulit* atau *Mustahil*.
 
 **Catatan Sistem:** Pemeriksaan Bersembunyi dilawan oleh Melihat pengamat atau pencari. Penutup yang memadai sangat penting; bersembunyi di penutup yang minim adalah Sulit, dan kurangnya penutup sama sekali (terbuka lebar, siang hari bolong) membuatnya Mustahil. Pakaian atau perlengkapan khusus (cat wajah, pakaian kamuflase, dll.) dapat menambahkan bonus hingga +20%, tergantung pada kualitasnya. Kondisi lingkungan mungkin menawarkan bonus tambahan. Seseorang yang bersembunyi harus diam sebisa mungkin; bergerak saat menggunakan Bersembunyi adalah Sulit, dan bergerak lebih dari satu meter dalam satu putaran tempur memerlukan lemparan Bersembunyi dan Siluman. Bersembunyi hanya efektif terhadap deteksi visual dan pendengaran; sensor canggih mungkin menemukan karakter yang bersembunyi dengan panas tubuh, atau hidung yang tajam mungkin menemukan mereka menggunakan keterampilan Perasaan.
 
@@ -577,7 +577,7 @@ Seni menyembunyikan objek atau diri sendiri dari pandangan. Karakter Anda harus 
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk mengevaluasi karakter, kondisi emosional, dan motif orang lain berdasarkan bahasa tubuh, pola bicara, dan faktor tak berwujud lainnya. Wawasan memungkinkan penjudi merasakan gertakan, atau detektif mengendus kebohongan. Fumble memberikan informasi yang menyesatkan, gagal tidak menghasilkan apa pun, keberhasilan memungkinkan Anda mengetahui apa yang mungkin dipikirkan target, dan keberhasilan yang unggul mengungkapkan kepada Anda pikiran terdalam mereka (dalam batas wajar).
+Gunakan keterampilan ini untuk mengevaluasi karakter, kondisi emosional, dan motif orang lain berdasarkan bahasa tubuh, pola bicara, dan faktor tak berwujud lainnya. Wawasan memungkinkan penjudi merasakan gertakan, atau detektif mengendus kebohongan. Kegagalan Mutlak memberikan informasi yang menyesatkan, gagal tidak menghasilkan apa pun, keberhasilan memungkinkan Anda mengetahui apa yang mungkin dipikirkan target, dan keberhasilan yang unggul mengungkapkan kepada Anda pikiran terdalam mereka (dalam batas wajar).
 
 **Catatan Sistem:** Keterampilan ini dapat dilawan oleh Etiket, Bicara Cepat, atau bahkan Membujuk. Menggunakan keterampilan ini pada teman dekat, anggota keluarga, atau pasangan adalah Mudah. Jika menggunakan sistem **Sifat Kepribadian**, Wawasan dapat menentukan kekuatan sifat kepribadian tersebut dalam istilah umum (seperti "Sangat egois", misalnya).
 
@@ -587,7 +587,7 @@ Gunakan keterampilan ini untuk mengevaluasi karakter, kondisi emosional, dan mot
 
 **Kategori:** Fisik
 
-Gunakan keterampilan ini untuk melompat demi ketinggian atau jarak, melompati rintangan. Dalam kondisi normal, manusia yang cukup bugar dapat melompat setinggi tingginya secara horizontal dan setengah tingginya secara vertikal dari posisi berdiri, dan kira-kira tiga meter secara horizontal dengan awalan lari. Fumble menghasilkan jatuh (1D6 poin hit kerusakan umum atau ke lokasi hit), keberhasilan menghasilkan lompatan seperti yang dijelaskan di atas, keberhasilan khusus meningkatkan jumlah sebesar 50%, dan keberhasilan kritis menggandakannya. Melompat juga dapat mengurangi kerusakan jatuh sebesar 1D6 per tingkat keberhasilan (keberhasilan normal sebesar –1D6, khusus sebesar –2D6, kritis sebesar –3D6).
+Gunakan keterampilan ini untuk melompat demi ketinggian atau jarak, melompati rintangan. Dalam kondisi normal, manusia yang cukup bugar dapat melompat setinggi tingginya secara horizontal dan setengah tingginya secara vertikal dari posisi berdiri, dan kira-kira tiga meter secara horizontal dengan awalan lari. Kegagalan Mutlak menghasilkan jatuh (1D6 poin hit kerusakan umum atau ke lokasi hit), keberhasilan menghasilkan lompatan seperti yang dijelaskan di atas, keberhasilan khusus meningkatkan jumlah sebesar 50%, dan keberhasilan kritis menggandakannya. Melompat juga dapat mengurangi kerusakan jatuh sebesar 1D6 per tingkat keberhasilan (keberhasilan normal sebesar –1D6, khusus sebesar –2D6, kritis sebesar –3D6).
 
 **Catatan Sistem:** Lompatan berdiri memerlukan 1 pangkat DEX. Lompatan lari menggunakan pangkat DEX yang sama dengan pergerakan lari normal. Melakukan lompatan yang mencolok atau pamer (jungkir balik, salto, dll.) adalah Sulit.
 
@@ -597,7 +597,7 @@ Gunakan keterampilan ini untuk melompat demi ketinggian atau jarak, melompati ri
 
 **Kategori:** Mental
 
-Keterampilan ini mewakili pengalaman atau studi akademik cabang pengetahuan. Gunakan keterampilan Pengetahuan untuk mengingat fakta-fakta yang relevan, untuk menganalisis atau mengidentifikasi petunjuk, membuat anggapan logis, dan mengingat trivia yang mengesankan. Untuk yang lebih ilmiah, lihat Sains. Fumble menghasilkan kebohongan yang menyesatkan dan tidak akurat, dan keberhasilan menghasilkan informasi yang lebih berguna dan mendetail.
+Keterampilan ini mewakili pengalaman atau studi akademik cabang pengetahuan. Gunakan keterampilan Pengetahuan untuk mengingat fakta-fakta yang relevan, untuk menganalisis atau mengidentifikasi petunjuk, membuat anggapan logis, dan mengingat trivia yang mengesankan. Untuk yang lebih ilmiah, lihat Sains. Kegagalan Mutlak menghasilkan kebohongan yang menyesatkan dan tidak akurat, dan keberhasilan menghasilkan informasi yang lebih berguna dan mendetail.
 
 **Spesialisasi:** Akuntansi, Antropologi, Arkeologi, Sejarah, Hukum, Okultisme, Agama, dll. (lihat daftar terdekat) Gamemaster harus menentukan apakah keterampilan Pengetahuan memiliki peluang dasar 05% untuk spesialisasi yang umum, atau 00% untuk yang memerlukan penelitian dan studi untuk memiliki pemahaman dasar.
 
@@ -655,7 +655,7 @@ Keterampilan ini mewakili pengalaman atau studi akademik cabang pengetahuan. Gun
 
 **Kategori:** Komunikasi
 
-Kemampuan untuk berkomunikasi secara verbal dalam suatu bahasa, baik bahasa ibu seseorang maupun bahasa lain. Bahasa lain dapat dipelajari di rumah, sekolah, gereja, tempat kerja, atau di jalanan, tergantung pada budaya dan pola asuh. Sebagian besar karakter memulai dengan mengetahui bahasa mereka sendiri pada INT×5. Karakter bilingual harus menghabiskan poin keterampilan untuk keterampilan bahasa lain. Percakapan sehari-hari dalam Bahasa sendiri adalah Otomatis dan tidak memerlukan lemparan keterampilan. Lemparan keterampilan hanya diperlukan saat mengomunikasikan konsep yang sulit atau dalam situasi yang sulit dan tidak biasa, seperti menerjemahkan. Keterampilan ini mencakup komunikasi verbal—membaca dan menulis menggunakan Literasi. Fumble berarti kesalahpahaman yang membawa bencana, sementara keberhasilan menghasilkan komunikasi yang lancar dan terkadang fasih.
+Kemampuan untuk berkomunikasi secara verbal dalam suatu bahasa, baik bahasa ibu seseorang maupun bahasa lain. Bahasa lain dapat dipelajari di rumah, sekolah, gereja, tempat kerja, atau di jalanan, tergantung pada budaya dan pola asuh. Sebagian besar karakter memulai dengan mengetahui bahasa mereka sendiri pada INT×5. Karakter bilingual harus menghabiskan poin keterampilan untuk keterampilan bahasa lain. Percakapan sehari-hari dalam Bahasa sendiri adalah Otomatis dan tidak memerlukan lemparan keterampilan. Lemparan keterampilan hanya diperlukan saat mengomunikasikan konsep yang sulit atau dalam situasi yang sulit dan tidak biasa, seperti menerjemahkan. Keterampilan ini mencakup komunikasi verbal—membaca dan menulis menggunakan Literasi. Kegagalan Mutlak berarti kesalahpahaman yang membawa bencana, sementara keberhasilan menghasilkan komunikasi yang lancar dan terkadang fasih.
 
 **Spesialisasi:** Per bahasa. Setiap spesialisasi berlaku untuk satu bahasa; jika Anda ingin karakter Anda mempelajari bahasa tambahan, mereka harus membangun keterampilan Bahasa tambahan.
 
@@ -677,7 +677,7 @@ Kemampuan untuk berkomunikasi secara verbal dalam suatu bahasa, baik bahasa ibu 
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk mendengar, menafsirkan, dan memahami suara, baik gumaman di balik pintu tertutup, bisikan diam-diam, langkah kaki diam-diam, dan ranting yang patah. Gunakan keterampilan ini untuk melihat apakah suara membangunkan karakter yang sedang tidur, atau untuk melihat apakah mereka dapat mengenali suara atau suara tertentu. Jangkauan normal untuk mendengar suara Manusia berbicara dengan volume sopan adalah 15 meter—suara yang lebih keras membawa lebih jauh, dan suara yang lebih tenang memiliki jangkauan yang lebih pendek. Fumble berarti kesalahpahaman atau ketidaktahuan total tentang suatu suara, sementara keberhasilan menghasilkan kesadaran dan informasi tentang sumbernya.
+Gunakan keterampilan ini untuk mendengar, menafsirkan, dan memahami suara, baik gumaman di balik pintu tertutup, bisikan diam-diam, langkah kaki diam-diam, dan ranting yang patah. Gunakan keterampilan ini untuk melihat apakah suara membangunkan karakter yang sedang tidur, atau untuk melihat apakah mereka dapat mengenali suara atau suara tertentu. Jangkauan normal untuk mendengar suara Manusia berbicara dengan volume sopan adalah 15 meter—suara yang lebih keras membawa lebih jauh, dan suara yang lebih tenang memiliki jangkauan yang lebih pendek. Kegagalan Mutlak berarti kesalahpahaman atau ketidaktahuan total tentang suatu suara, sementara keberhasilan menghasilkan kesadaran dan informasi tentang sumbernya.
 
 **Catatan Sistem:** Mendengar adalah keterampilan aktif dan pasif: karakter Anda dapat mencoba Mendengar suara mencurigakan, atau gamemaster dapat meminta lemparan Mendengar bila diperlukan. Lawan Mendengar dengan Siluman untuk menyelesaikan upaya menyelinap melewati pendengar yang waspada atau tidak waspada. Gamemaster dapat memilih untuk melakukan lemparan Mendengar secara rahasia dan memberi tahu Anda hasilnya, untuk menghindari memberikan apa pun jika lemparan gagal.
 
@@ -687,7 +687,7 @@ Gunakan keterampilan ini untuk mendengar, menafsirkan, dan memahami suara, baik 
 
 **Kategori:** Mental
 
-Kemampuan membaca dan menulis dianggap remeh di era modern: di zaman sebelumnya, membaca dan menulis adalah produk pendidikan elit dan tanda perbedaan atau status. Dalam masyarakat modern, peluang dasar Literasi sama dengan Bahasa (Sendiri) atau (Lain) karakter Anda kecuali jika diinginkan lain. Fumble berarti kesalahpahaman yang membawa bencana, gagal berarti makna hilang, keberhasilan memberikan informasi atau nuansa kritis, bahkan ketenaran untuk karya yang dihasilkan.
+Kemampuan membaca dan menulis dianggap remeh di era modern: di zaman sebelumnya, membaca dan menulis adalah produk pendidikan elit dan tanda perbedaan atau status. Dalam masyarakat modern, peluang dasar Literasi sama dengan Bahasa (Sendiri) atau (Lain) karakter Anda kecuali jika diinginkan lain. Kegagalan Mutlak berarti kesalahpahaman yang membawa bencana, gagal berarti makna hilang, keberhasilan memberikan informasi atau nuansa kritis, bahkan ketenaran untuk karya yang dihasilkan.
 
 **Spesialisasi:** Berdasarkan bahasa. Setiap spesialisasi berlaku untuk bahasa tertulis tunggal; bahasa tambahan adalah spesialisasi Literasi terpisah. Dalam masyarakat modern, Literasi selalu setara dengan keterampilan Bahasa Anda.
 
@@ -705,11 +705,11 @@ Ini mewakili studi dan penguasaan gaya bertarung tertentu. Gunakan keterampilan 
 
 **Efek:** Seni Bela Diri tidak dilempar secara terpisah saat melakukan serangan. Lempar terhadap keterampilan utama dan bandingkan hasilnya dengan keterampilan Seni Bela Diri. Hasilnya memiliki efek ini:
 
-* **Fumble:** Gunakan hasil fumble yang sesuai (lihat tabel serangan dan fumble di *Bab Enam: Tempur*).
+* **Kegagalan Mutlak:** Gunakan hasil Kegagalan Mutlak yang sesuai (lihat tabel serangan dan Kegagalan Mutlak di *Bab Enam: Tempur*).
 * **Kegagalan:** Jika hasil yang dilempar di atas peringkat keterampilan Seni Bela Diri tetapi masih sama dengan atau di bawah keterampilan tempur, serangan mengenai secara normal. Serangan yang dilempar di atas keterampilan tempur meleset, terlepas dari peringkat keterampilan Seni Bela Diri.
 * **Keberhasilan:** Jika hasil yang dilempar kurang dari atau sama dengan Seni Bela Diri dan keterampilan tempur, lempar untuk kerusakan dasar dua kali dan jumlahkan hasilnya. Pengubah kerusakan karakter Anda tidak pernah digandakan.
 * **Khusus:** Seperti di atas. Untuk keberhasilan khusus, lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
-* **Kritis:** Seperti di atas. Jika lemparan tempur adalah keberhasilan kritis, perlindungan baju besi target (alami atau dikenakan) diabaikan, dan lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
+* **Kritis:** Seperti di atas. Jika lemparan tempur adalah keberhasilan kritis, perlindungan Zirah target (alami atau dikenakan) diabaikan, dan lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
 
 **Catatan Sistem:** Keterampilan Seni Bela Diri bekerja bersama dengan satu keterampilan tempur lainnya, dan biasanya dengan kisaran spesialisasi yang sempit untuk keterampilan tersebut. Kekuatan ini dapat digunakan bersama dengan mutasi Persenjataan Alami dan kekuatan Pertarungan Tanpa Senjata.
 
@@ -729,7 +729,7 @@ Gunakan keterampilan ini untuk mendiagnosis dan mengobati cedera serius, mengoba
 
 **Efek:** Pengobatan memiliki hasil spesifik:
 
-* **Fumble:** Pasien menerima 1 poin hit umum (untuk cedera) saat mengobati cedera, atau kehilangan poin karakteristik (untuk racun atau penyakit), dan kondisi mereka tetap tidak berubah.
+* **Kegagalan Mutlak:** Pasien menerima 1 poin hit umum (untuk cedera) saat mengobati cedera, atau kehilangan poin karakteristik (untuk racun atau penyakit), dan kondisi mereka tetap tidak berubah.
 * **Kegagalan:** Kondisi pasien tidak berubah, dan upaya kedua hanya dapat dilakukan pada hari berikutnya.
 * **Keberhasilan:** Pilih salah satu dari efek berikut (pilihan pemain):
   * Efek apa pun dari lemparan Pertolongan Pertama yang berhasil.
@@ -751,7 +751,7 @@ Gunakan keterampilan ini untuk menggunakan jenis senjata tertentu dalam pertarun
 
 **Spesialisasi:** Spesialisasi setara dengan kelas senjata. Lihat **Kelas Senjata** dari *Bab Delapan: Peralatan*. Setiap spesialisasi hanya berlaku untuk senjata dari kategori senjata tersebut: tetapi gamemaster dapat mengizinkan penggunaan kelas senjata serupa seolah-olah Sulit. Jika berhasil, lakukan pemeriksaan pengalaman. Jika lemparan pengalaman berhasil, mulai keterampilan baru dengan spesialisasi pada peringkat tersebut, ditambah pengalaman yang diperoleh.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Serangan Senjata Jarak Dekat** serta **Tabel Fumble Tangkisan Senjata Jarak Dekat** di *Bab Enam: Tempur* untuk efek spesifik.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Serangan Senjata Jarak Dekat** serta **Tabel Kegagalan Mutlak Tangkisan Senjata Jarak Dekat** di *Bab Enam: Tempur* untuk efek spesifik.
 
 **Catatan Sistem:** Karakter Anda dapat mencoba lebih dari satu tangkisan per putaran, tetapi setiap lemparan setelah yang pertama dibuat dengan kumulatif –30%. Atas kebijaksanaan gamemaster, karakter Anda dapat menggunakan senjata dari kategori senjata yang terkait atau serupa, dengan lemparan yang Sulit.
 
@@ -765,7 +765,7 @@ Gunakan ini untuk menggunakan senjata proyektil yang digerakkan sendiri yang dig
 
 **Spesialisasi:** Spesialisasi setara dengan kelas senjata. Lihat **Kelas Senjata** di *Bab Delapan: Peralatan*. Setiap spesialisasi hanya berlaku untuk senjata dari kategori senjata tersebut: tetapi gamemaster dapat mengizinkan penggunaan kelas senjata serupa seolah-olah Sulit. Jika berhasil, lakukan pemeriksaan pengalaman. Jika lemparan pengalaman berhasil, mulai keterampilan baru dengan spesialisasi pada peringkat tersebut, ditambah pengalaman yang diperoleh.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Senjata Proyektil** untuk efek spesifik. Panah dan senjata runcing biasanya menusuk. Jika Anda ingin tahu ke mana serangan senjata proyektil yang meleset, lihat keterampilan Melempar.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Senjata Proyektil** untuk efek spesifik. Panah dan senjata runcing biasanya menusuk. Jika Anda ingin tahu ke mana serangan senjata proyektil yang meleset, lihat keterampilan Melempar.
 
 **Catatan Sistem:** Semua senjata proyektil memiliki persyaratan STR dan DEX minimum untuk menggunakan senjata tersebut, sebagaimana tercantum dalam *Bab Delapan: Peralatan*. Biasanya, pengubah kerusakan penyerang dibagi dua untuk senjata proyektil, dan untuk senjata yang sepenuhnya digerakkan sendiri (blowgun, busur silang, dll.), pengubah kerusakan tidak diterapkan. Senjata Proyektil dapat digunakan untuk serangan terarah.
 
@@ -775,7 +775,7 @@ Gunakan ini untuk menggunakan senjata proyektil yang digerakkan sendiri yang dig
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk menemukan jalan ke tujuan baik dengan kompas, peta laut, bintang, atau hanya menggunakan persepsi, ingatan, dan intuisi sebagai panduan. Fumble berarti seseorang tersesat tanpa harapan dan lemparan berikutnya oleh siapa pun untuk tidak tersesat menjadi *Sulit*. Gagal berarti penundaan dan laju perjalanan yang melambat, sementara keberhasilan berarti menemukan jalan seseorang secara efektif dan bahkan membuat kemajuan yang lebih baik dari yang diharapkan.
+Gunakan keterampilan ini untuk menemukan jalan ke tujuan baik dengan kompas, peta laut, bintang, atau hanya menggunakan persepsi, ingatan, dan intuisi sebagai panduan. Kegagalan Mutlak berarti seseorang tersesat tanpa harapan dan lemparan berikutnya oleh siapa pun untuk tidak tersesat menjadi *Sulit*. Gagal berarti penundaan dan laju perjalanan yang melambat, sementara keberhasilan berarti menemukan jalan seseorang secara efektif dan bahkan membuat kemajuan yang lebih baik dari yang diharapkan.
 
 **Catatan Sistem:** Lakukan lemparan keterampilan Navigasi setiap empat jam perjalanan yang sedang berlangsung. Penggunaan peta atau kompas dapat meningkatkan peringkat keterampilan hingga +20%. Menavigasi di lanskap tanpa fitur (di laut, dalam kegelapan atau cuaca buruk, di gurun, atau di hutan lebat) tanpa instrumen atau peta adalah Sulit. Alat bantu navigasi canggih (teknologi layanan posisi global, dll.) atau keakraban dengan area tersebut membuat upaya Navigasi menjadi Mudah.
 
@@ -789,7 +789,7 @@ Gunakan keterampilan ini untuk menangkis serangan yang masuk jika tidak ditangan
 
 **Spesialisasi:** Spesialisasi setara dengan kelas senjata atau perisai. Lihat **Kelas Senjata** di *Bab Delapan: Peralatan*. Setiap spesialisasi hanya berlaku untuk senjata atau perisai dari kategori senjata tersebut: tetapi gamemaster dapat mengizinkan penggunaan kelas senjata serupa seolah-olah Sulit. Jika berhasil, lakukan pemeriksaan pengalaman. Jika lemparan pengalaman berhasil, mulai keterampilan baru dengan spesialisasi pada peringkat tersebut, ditambah pengalaman yang diperoleh.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Tangkisan Senjata Jarak Dekat** di *Bab Enam: Tempur* untuk efek spesifik.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Tangkisan Senjata Jarak Dekat** di *Bab Enam: Tempur* untuk efek spesifik.
 
 **Catatan Sistem:** Lebih dari satu tangkisan dapat dicoba per putaran, tetapi setiap lemparan setelah yang pertama dikenakan penalti –30% pada peringkat keterampilan perisai atau tangkisan. Keterampilan ini dapat diabaikan demi menggunakan senjata utama atau keterampilan perisai, jika diinginkan. Atas kebijaksanaan gamemaster, seseorang dapat menangkis dengan senjata atau perisai dari kategori terkait atau serupa, dengan lemparan yang Sulit.
 
@@ -799,7 +799,7 @@ Gunakan keterampilan ini untuk menangkis serangan yang masuk jika tidak ditangan
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk menampilkan musik, baik berakting, menari, memainkan alat musik, menyanyi, atau beberapa bentuk ekspresi artistik lainnya menggunakan pertunjukan. Fumble adalah penghinaan, gagal tidak menginspirasi, sementara keberhasilan menghasilkan perhatian positif, sorak-sorai, dan mungkin pengakuan kritis dan imbalan finansial. Jika direkam dan didistribusikan, itu mungkin terus menginspirasi dan menghasilkan jauh setelah pertunjukan asli.
+Gunakan keterampilan ini untuk menampilkan musik, baik berakting, menari, memainkan alat musik, menyanyi, atau beberapa bentuk ekspresi artistik lainnya menggunakan pertunjukan. Kegagalan Mutlak adalah penghinaan, gagal tidak menginspirasi, sementara keberhasilan menghasilkan perhatian positif, sorak-sorai, dan mungkin pengakuan kritis dan imbalan finansial. Jika direkam dan didistribusikan, itu mungkin terus menginspirasi dan menghasilkan jauh setelah pertunjukan asli.
 
 **Spesialisasi:** Akting, Memimpin Orkestra, Menari, Menyulap, Berpidato, Memainkan Alat Musik (sub-spesialisasi), Melafalkan, Ritual, Menyanyi, dll.
 
@@ -811,7 +811,7 @@ Gunakan keterampilan ini untuk menampilkan musik, baik berakting, menari, memain
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk meyakinkan seseorang bahwa suatu ide atau keyakinan tertentu adalah benar, tepat, atau dapat diterima, terlepas dari pendapat asli mereka (jika ada) baik melalui logika Socratic, debat terstruktur, orasi berapi-api, empati, atau intimidasi kasar. Pendengar dapat diyakinkan untuk mengambil tindakan atau mengabulkan permintaan. Seperti Bicara Cepat, kebenaran tidak relevan. Tidak seperti Bicara Cepat, efek dari persuasi yang berhasil berlangsung tanpa batas waktu, sampai lemparan Membujuk lainnya atau pengalaman dramatis menggeser pendapat subjek. Fumble berarti subjek mungkin menjadi bermusuhan, merangkul kebalikan dari pendapat yang diinginkan. Gagal tidak meyakinkan. Keberhasilan mengubah pendapat mereka, dan keberhasilan yang unggul menghasilkan hasil yang lebih baik.
+Gunakan keterampilan ini untuk meyakinkan seseorang bahwa suatu ide atau keyakinan tertentu adalah benar, tepat, atau dapat diterima, terlepas dari pendapat asli mereka (jika ada) baik melalui logika Socratic, debat terstruktur, orasi berapi-api, empati, atau intimidasi kasar. Pendengar dapat diyakinkan untuk mengambil tindakan atau mengabulkan permintaan. Seperti Bicara Cepat, kebenaran tidak relevan. Tidak seperti Bicara Cepat, efek dari persuasi yang berhasil berlangsung tanpa batas waktu, sampai lemparan Membujuk lainnya atau pengalaman dramatis menggeser pendapat subjek. Kegagalan Mutlak berarti subjek mungkin menjadi bermusuhan, merangkul kebalikan dari pendapat yang diinginkan. Gagal tidak meyakinkan. Keberhasilan mengubah pendapat mereka, dan keberhasilan yang unggul menghasilkan hasil yang lebih baik.
 
 **Catatan Sistem:** Menggunakan Membujuk melintasi hambatan bahasa (jika kedua pembicara memiliki di bawah 50% dalam bahasa tersebut) adalah Sulit, seperti halnya meyakinkan seseorang tentang sesuatu yang bertentangan dengan kepribadian atau keyakinan inti mereka. Gamemaster dapat menghargai argumen yang efektif atau roleplaying yang baik dengan bonus hingga +20%. Tergantung pada keadaan, Membujuk dapat memakan waktu menit, jam, atau bahkan hari, dan upaya yang diperpanjang mungkin memerlukan beberapa lemparan untuk diselesaikan.
 
@@ -825,7 +825,7 @@ Gunakan keterampilan ini untuk mengarahkan, bermanuver, dan mengendalikan kendar
 
 **Spesialisasi:** Pesawat Terbang, Kapal Udara, Balon, Perahu, Helikopter, Hovercraft, Pesawat Jet, Paket Jet, Pesawat Luar Angkasa, Kapal Selam, dll. Atas kebijaksanaan gamemaster, pilot dapat mengemudikan kapal dengan spesialisasi serupa seolah-olah Sulit. Jika berhasil, lakukan pemeriksaan pengalaman. Jika lemparan pengalaman berhasil, mulai keterampilan baru dengan spesialisasi pada peringkat tersebut, ditambah pengalaman yang diperoleh.
 
-**Efek:** Sebagian besar penerbangan sehari-hari adalah Otomatis—lemparan hanya dalam kondisi buruk atau untuk situasi luar biasa. Fumble hampir pasti menyebabkan mesin berhenti atau bahkan jatuh, gagal berarti tujuan tidak tercapai dalam jangka waktu yang diinginkan, keberhasilan sampai di tempat yang diinginkan, dan keberhasilan yang unggul menghasilkan penerbangan dan hasil yang lebih ahli. Lihat **Pertempuran Udara** dan **Pengejaran** untuk informasi lebih lanjut, dan **Tabel Masalah Pengejaran** untuk kecelakaan.
+**Efek:** Sebagian besar penerbangan sehari-hari adalah Otomatis—lemparan hanya dalam kondisi buruk atau untuk situasi luar biasa. Kegagalan Mutlak hampir pasti menyebabkan mesin berhenti atau bahkan jatuh, gagal berarti tujuan tidak tercapai dalam jangka waktu yang diinginkan, keberhasilan sampai di tempat yang diinginkan, dan keberhasilan yang unggul menghasilkan penerbangan dan hasil yang lebih ahli. Lihat **Pertempuran Udara** dan **Pengejaran** untuk informasi lebih lanjut, dan **Tabel Masalah Pengejaran** untuk kecelakaan.
 
 ### Proyeksi
 
@@ -845,7 +845,7 @@ Gunakan keterampilan ini untuk mengevaluasi dan mengobati penyakit mental atau t
 
 **Efek:** Psikoterapi memiliki efek spesifik:
 
-* **Fumble:** Salah satu dari berikut ini terjadi (pilihan gamemaster):
+* **Kegagalan Mutlak:** Salah satu dari berikut ini terjadi (pilihan gamemaster):
   * Pasien harus melakukan lemparan Kewarasan baru, untuk kehilangan 1/1D3 SAN.
   * Tingkatkan peringkat POW dari salah satu kegilaan tak terbatas pasien sebesar +1.
   * Pasien menukar satu kegilaan tak terbatas dengan yang lain: fobia mungkin berkurang, tetapi dengan biaya kecanduan obat penstabil suasana hati.
@@ -869,7 +869,7 @@ Peralatan dan objek lain rusak atau berhenti bekerja. Gunakan Perbaikan untuk me
 
 **Spesialisasi:** Listrik, Elektronik, Teknik, Pembangkit Listrik Tenaga Air, Mekanik, Struktural, Kuantum, dll.
 
-**Efek:** Fumble merusak barang lebih lanjut dan bahkan dapat menyakiti orang yang melakukan upaya perbaikan (1D3 poin hit untuk keduanya, misalnya) dan membuat perbaikan lebih lanjut menjadi Sulit. Gagal tidak menyelesaikan apa pun, keberhasilan memulihkan 1D3 poin hit dan barang tersebut menjadi dapat digunakan kembali atau kembali berfungsi. Keberhasilan yang unggul menghasilkan manfaat serupa, mungkin menggunakan keterampilan Pertolongan Pertama dan penilaian gamemaster sebagai panduan. Kritis bahkan dapat meningkatkan barang dengan cara kecil, seperti menambah total poin hit, poin baju besi, atau menambah bonus kecil saat digunakan.
+**Efek:** Kegagalan Mutlak merusak barang lebih lanjut dan bahkan dapat menyakiti orang yang melakukan upaya perbaikan (1D3 poin hit untuk keduanya, misalnya) dan membuat perbaikan lebih lanjut menjadi Sulit. Gagal tidak menyelesaikan apa pun, keberhasilan memulihkan 1D3 poin hit dan barang tersebut menjadi dapat digunakan kembali atau kembali berfungsi. Keberhasilan yang unggul menghasilkan manfaat serupa, mungkin menggunakan keterampilan Pertolongan Pertama dan penilaian gamemaster sebagai panduan. Kritis bahkan dapat meningkatkan barang dengan cara kecil, seperti menambah total poin hit, poin Zirah, atau menambah bonus kecil saat digunakan.
 
 ### Riset
 
@@ -877,7 +877,7 @@ Peralatan dan objek lain rusak atau berhenti bekerja. Gunakan Perbaikan untuk me
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk menemukan dan mengidentifikasi sumber informasi potensial di perpustakaan, arsip, atau jaringan. Lemparan yang berhasil menghasilkan informasi yang diinginkan dari buku, dokumen, artikel, bank data, arsip, atau situs web, dengan keberhasilan yang unggul memberikan informasi tambahan atau lebih spesifik. Meskipun berbagai jenis sumber daya, prinsipnya sama. Upaya keterampilan ini memakan waktu empat jam secara normal, meskipun metode elektronik jauh lebih cepat. Fumble menyebabkan kesalahpahaman yang membawa bencana dan menghasilkan informasi yang salah. Gagal membuang waktu tanpa hasil yang solid atau memberikan jumlah informasi minimum setelah dua kali jumlah waktu normal.
+Gunakan keterampilan ini untuk menemukan dan mengidentifikasi sumber informasi potensial di perpustakaan, arsip, atau jaringan. Lemparan yang berhasil menghasilkan informasi yang diinginkan dari buku, dokumen, artikel, bank data, arsip, atau situs web, dengan keberhasilan yang unggul memberikan informasi tambahan atau lebih spesifik. Meskipun berbagai jenis sumber daya, prinsipnya sama. Upaya keterampilan ini memakan waktu empat jam secara normal, meskipun metode elektronik jauh lebih cepat. Kegagalan Mutlak menyebabkan kesalahpahaman yang membawa bencana dan menghasilkan informasi yang salah. Gagal membuang waktu tanpa hasil yang solid atau memberikan jumlah informasi minimum setelah dua kali jumlah waktu normal.
 
 **Catatan Sistem:** Gamemaster disarankan untuk membuat lemparan Riset yang gagal memakan waktu lebih lama, memberikan informasi yang sedikit menyesatkan atau rumit, membunyikan semacam alarm atau perhatian yang tidak diinginkan, atau kemunduran lain daripada sekadar tidak membuahkan hasil. Kegagalan jarang menyenangkan dalam permainan, dan untuk misteri, petunjuk yang tidak dapat diakses adalah jalan buntu yang dramatis.
 
@@ -887,7 +887,7 @@ Gunakan keterampilan ini untuk menemukan dan mengidentifikasi sumber informasi p
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini untuk menunggangi, menangani, dan merawat jenis hewan hidup tertentu. Dengan Menunggang karakter Anda dapat mengarahkan tunggangan melalui manuver khusus atau medan kasar, membujuknya ke kecepatan tertinggi, atau untuk tetap terkendali jika ia berdiri atau tersandung. Fumble menyebabkan kehilangan kendali atas tunggangan, mungkin mengakibatkan terlempar ke tanah untuk 1D6 poin hit kerusakan (umum atau ke lokasi hit acak). Lemparan Melompat yang berhasil mengurangi 1D6 dari total kerusakan, sementara tunggangan lari dengan kecepatan tertinggi. Gagal menyebabkan hewan itu mogok, dan keberhasilan menghasilkan ia melakukan seperti yang diinginkan atau bahkan melebihi harapan. Keberhasilan yang unggul mungkin menghasilkan bonus untuk tindakan tempur saat menunggang.
+Gunakan keterampilan ini untuk menunggangi, menangani, dan merawat jenis hewan hidup tertentu. Dengan Menunggang karakter Anda dapat mengarahkan tunggangan melalui manuver khusus atau medan kasar, membujuknya ke kecepatan tertinggi, atau untuk tetap terkendali jika ia berdiri atau tersandung. Kegagalan Mutlak menyebabkan kehilangan kendali atas tunggangan, mungkin mengakibatkan terlempar ke tanah untuk 1D6 poin hit kerusakan (umum atau ke lokasi hit acak). Lemparan Melompat yang berhasil mengurangi 1D6 dari total kerusakan, sementara tunggangan lari dengan kecepatan tertinggi. Gagal menyebabkan hewan itu mogok, dan keberhasilan menghasilkan ia melakukan seperti yang diinginkan atau bahkan melebihi harapan. Keberhasilan yang unggul mungkin menghasilkan bonus untuk tindakan tempur saat menunggang.
 
 **Spesialisasi:** Berdasarkan jenis hewan. Lihat *Bab Sebelas: Makhluk* untuk contoh tunggangan. Atas kebijaksanaan gamemaster, jenis hewan serupa dapat ditunggangi seolah-olah Sulit. Jika berhasil, lakukan pemeriksaan pengalaman. Jika lemparan pengalaman berhasil, mulai keterampilan baru dengan spesialisasi pada peringkat tersebut, ditambah pengalaman yang diperoleh.
 
@@ -911,7 +911,7 @@ Gunakan keterampilan ini untuk mengetahui informasi dan prinsip ilmiah dari bida
 
 **Kategori:** Persepsi
 
-Keterampilan ini terutama mengatur rasa, sentuhan, dan bau; tetapi dapat mencakup beberapa indra lain yang kurang dikenal (orientasi fisik, gravitasi, tekanan dan keseimbangan, suhu, dll.). Gunakan untuk memperhatikan atau mengidentifikasi jenis stimulus tertentu yang bukan penglihatan (Melihat) atau suara (Mendengar), seperti menemukan barang dalam kegelapan dengan sentuhan, mengidentifikasi bau atau rasa yang misterius, merasakan patah tulang rambut, dll. Atas kebijaksanaan gamemaster, ini mungkin bahkan mencakup "indra keenam" atau intuisi. Fumble secara menyesatkan atau mengungkapkan ketidaktahuan total tentang stimulus, gagal adalah kegagalan sederhana untuk memperhatikan, dan berbagai tingkat keberhasilan memberikan persepsi yang lebih akurat.
+Keterampilan ini terutama mengatur rasa, sentuhan, dan bau; tetapi dapat mencakup beberapa indra lain yang kurang dikenal (orientasi fisik, gravitasi, tekanan dan keseimbangan, suhu, dll.). Gunakan untuk memperhatikan atau mengidentifikasi jenis stimulus tertentu yang bukan penglihatan (Melihat) atau suara (Mendengar), seperti menemukan barang dalam kegelapan dengan sentuhan, mengidentifikasi bau atau rasa yang misterius, merasakan patah tulang rambut, dll. Atas kebijaksanaan gamemaster, ini mungkin bahkan mencakup "indra keenam" atau intuisi. Kegagalan Mutlak secara menyesatkan atau mengungkapkan ketidaktahuan total tentang stimulus, gagal adalah kegagalan sederhana untuk memperhatikan, dan berbagai tingkat keberhasilan memberikan persepsi yang lebih akurat.
 
 **Catatan Sistem:** Seperti Mendengar dan Melihat, Perasaan adalah keterampilan aktif dan pasif: Anda dapat meminta karakter Anda untuk melakukan lemparan Perasaan, atau gamemaster dapat meminta lemparan dalam situasi yang sesuai. Stimulus yang kuat atau akrab adalah lemparan Mudah untuk Perasaan, sementara yang samar atau tidak akrab adalah Sulit.
 
@@ -923,7 +923,7 @@ Keterampilan ini terutama mengatur rasa, sentuhan, dan bau; tetapi dapat mencaku
 
 Gunakan keterampilan ini untuk memblokir serangan yang masuk dengan perisai atau alat lain yang sesuai. Semua blok perisai mengikuti aturan yang sama untuk menangkis: lihat **Perisai** dan **Tangkisan** di *Bab Enam: Tempur*. Seseorang dapat menyerang dengan perisai, memperlakukan keterampilan ini seolah-olah itu adalah keterampilan Senjata Jarak Dekat. Peringkat kerusakan diberikan untuk perisai dalam daftar senjata. Perisai melakukan hasil khusus penghancuran, dapat menyebabkan knockback, dan dapat digunakan untuk serangan terarah.
 
-**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Fumble Tangkisan Senjata Jarak Dekat**.
+**Efek:** Lihat **Matriks Serangan dan Pertahanan** dan **Tabel Kegagalan Mutlak Tangkisan Senjata Jarak Dekat**.
 
 **Catatan Sistem:** Blok perisai adalah tangkisan. Karakter dapat melakukan lebih dari satu lemparan perisai dalam satu putaran, tetapi setiap lemparan tambahan dikenakan penalti –30% pada peringkat keterampilan perisai atau tangkisan. Perisai besar dapat memberikan perlindungan terhadap serangan proyektil atau bahkan senjata api.
 
@@ -933,7 +933,7 @@ Gunakan keterampilan ini untuk memblokir serangan yang masuk dengan perisai atau
 
 **Kategori:** Manipulasi
 
-Gunakan keterampilan ini untuk memanipulasi benda kecil (dadu, kartu, koin, dompet, surat, dll.) dengan cara yang menyesatkan atau tanpa menarik perhatian, seperti saat mencopet, curang kartu, atau melakukan sihir panggung. Fumble sangat jelas: apakah barang tersebut dijatuhkan, atau calon pencuri tertangkap basah dengan tangan di saku target. Gagal berarti tidak ada yang dicapai, dan target yang tidak curiga yang berhasil melakukan lemparan Ide mungkin menyadari bahwa mereka sedang ditipu.
+Gunakan keterampilan ini untuk memanipulasi benda kecil (dadu, kartu, koin, dompet, surat, dll.) dengan cara yang menyesatkan atau tanpa menarik perhatian, seperti saat mencopet, curang kartu, atau melakukan sihir panggung. Kegagalan Mutlak sangat jelas: apakah barang tersebut dijatuhkan, atau calon pencuri tertangkap basah dengan tangan di saku target. Gagal berarti tidak ada yang dicapai, dan target yang tidak curiga yang berhasil melakukan lemparan Ide mungkin menyadari bahwa mereka sedang ditipu.
 
 **Catatan Sistem:** Keterampilan ini dilawan oleh Melihat jika perlu. Setelah objek dipegang atau diambil, gunakan Bersembunyi untuk menyembunyikannya dari pencarian terpadu.
 
@@ -943,7 +943,7 @@ Gunakan keterampilan ini untuk memanipulasi benda kecil (dadu, kartu, koin, domp
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk mencari detail yang berpotensi penting di dalam ruangan, menemukan kompartemen tersembunyi, memperhatikan detail yang sekilas, mengenali musuh yang menyamar, atau melihat musuh yang bersembunyi. Fumble adalah persepsi salah atau kesan keliru yang sangat mengganggu, dan berbagai tingkat keberhasilan memberikan informasi yang lebih berguna dan relevan.
+Gunakan keterampilan ini untuk mencari detail yang berpotensi penting di dalam ruangan, menemukan kompartemen tersembunyi, memperhatikan detail yang sekilas, mengenali musuh yang menyamar, atau melihat musuh yang bersembunyi. Kegagalan Mutlak adalah persepsi salah atau kesan keliru yang sangat mengganggu, dan berbagai tingkat keberhasilan memberikan informasi yang lebih berguna dan relevan.
 
 **Catatan Sistem:** Melihat adalah keterampilan aktif dan pasif: karakter Anda dapat melakukan lemparan Melihat untuk mencari atau memeriksa secara aktif, atau gamemaster dapat meminta lemparan Melihat untuk melihat apakah karakter Anda memperhatikan detail yang sekilas. Bersembunyi atau penyembunyian yang disengaja memerlukan tes Melihat vs. Bersembunyi yang berlawanan untuk diselesaikan. Melihat juga sering dilawan vs. Penyamaran atau Kecekatan Tangan. Dalam kegelapan total, Melihat adalah Mustahil, dan cahaya redup atau kabut tebal membuatnya Sulit.
 
@@ -953,7 +953,7 @@ Gunakan keterampilan ini untuk mencari detail yang berpotensi penting di dalam r
 
 **Kategori:** Komunikasi
 
-Status adalah ukuran reputasi, kredensial profesional, kelas sosial, kemakmuran, ketenaran, dan bahkan kehormatan pribadi. Gunakan keterampilan ini untuk memengaruhi orang lain dengan melempar beban, seperti meyakinkan bank untuk memberikan pinjaman tunai atau memaafkan utang, mengintimidasi karakter non-pemain untuk memberikan bantuan, meyakinkan vendor untuk puas dengan I.O.U., atau menekan pihak berwenang untuk menjaga masalah tetap diam. Fumble adalah faux pas dengan besaran terbesar, menyebabkan rasa malu, menarik perhatian yang tidak diinginkan, dan memiliki kebalikan mutlak dari efek yang diinginkan. Keberhasilan menghasilkan hasil yang dicari atau bahkan bantuan dan pertimbangan tambahan. Status bukan kekayaan, bagaimanapun, dan sementara mereka sering dihubungkan, mereka tidak secara intrinsik terkait satu sama lain.
+Status adalah ukuran reputasi, kredensial profesional, kelas sosial, kemakmuran, ketenaran, dan bahkan kehormatan pribadi. Gunakan keterampilan ini untuk memengaruhi orang lain dengan melempar beban, seperti meyakinkan bank untuk memberikan pinjaman tunai atau memaafkan utang, mengintimidasi karakter non-pemain untuk memberikan bantuan, meyakinkan vendor untuk puas dengan I.O.U., atau menekan pihak berwenang untuk menjaga masalah tetap diam. Kegagalan Mutlak adalah faux pas dengan besaran terbesar, menyebabkan rasa malu, menarik perhatian yang tidak diinginkan, dan memiliki kebalikan mutlak dari efek yang diinginkan. Keberhasilan menghasilkan hasil yang dicari atau bahkan bantuan dan pertimbangan tambahan. Status bukan kekayaan, bagaimanapun, dan sementara mereka sering dihubungkan, mereka tidak secara intrinsik terkait satu sama lain.
 
 **Spesialisasi:** Setiap spesialisasi mewakili kelas sosial, profesi, kelompok sosial, atau area pengaruh tunggal.
 
@@ -1002,9 +1002,9 @@ Status adalah ukuran reputasi, kredensial profesional, kelas sosial, kemakmuran,
 
 **Kategori:** Fisik
 
-Gunakan keterampilan ini untuk menyelinap melalui area tanpa menarik perhatian. Tidak diperlukan penutup, tetapi langkah ringan, kepercayaan diri, dan disiplin semuanya diperlukan. Untuk menghindari terlihat saat tidak bergerak, gunakan Bersembunyi. Fumble menarik perhatian yang tidak diinginkan, gagal berarti tidak ada kemajuan yang dibuat, dan karakter jelas bagi siapa pun yang melihat, sementara keberhasilan menawarkan tingkat penyembunyian yang berturut-turut.
+Gunakan keterampilan ini untuk menyelinap melalui area tanpa menarik perhatian. Tidak diperlukan penutup, tetapi langkah ringan, kepercayaan diri, dan disiplin semuanya diperlukan. Untuk menghindari terlihat saat tidak bergerak, gunakan Bersembunyi. Kegagalan Mutlak menarik perhatian yang tidak diinginkan, gagal berarti tidak ada kemajuan yang dibuat, dan karakter jelas bagi siapa pun yang melihat, sementara keberhasilan menawarkan tingkat penyembunyian yang berturut-turut.
 
-**Catatan Sistem:** Siluman mengasumsikan pergerakan lambat. Bergerak lebih jauh dari 1/2 MOV seseorang dalam satu putaran tempur adalah Sulit. Faktor lingkungan (suara sekitar, karpet tebal, lantai berderit, dll.) atau perlengkapan (sepatu bersol lunak, baju besi berisik, peralatan besar, dll.) dapat memodifikasi lemparan Siluman, atas kebijaksanaan gamemaster. Siluman dilawan oleh Melihat atau Mendengar, sebagaimana mestinya.
+**Catatan Sistem:** Siluman mengasumsikan pergerakan lambat. Bergerak lebih jauh dari 1/2 MOV seseorang dalam satu putaran tempur adalah Sulit. Faktor lingkungan (suara sekitar, karpet tebal, lantai berderit, dll.) atau perlengkapan (sepatu bersol lunak, Zirah berisik, peralatan besar, dll.) dapat memodifikasi lemparan Siluman, atas kebijaksanaan gamemaster. Siluman dilawan oleh Melihat atau Mendengar, sebagaimana mestinya.
 
 ### Strategi
 
@@ -1012,7 +1012,7 @@ Gunakan keterampilan ini untuk menyelinap melalui area tanpa menarik perhatian. 
 
 **Kategori:** Mental
 
-Gunakan keterampilan ini untuk memandu pasukan dalam pertempuran, dari regu kecil hingga pasukan atau armada besar, mengatur dan mengoordinasikan logistik untuk pasukan, merencanakan dan melaksanakan perusahaan militer skala besar, dan menentukan apa yang mungkin dipikirkan oleh ahli strategi lain. Keterampilan ini juga mengasumsikan pengetahuan dasar tentang sejarah militer dan taktik, serta tokoh-tokoh penting di dalamnya. Fumble mewakili bencana militer dan mungkin menyebabkan kekalahan total, sementara berbagai tingkat keberhasilan memberikan keuntungan strategis dan mungkin berarti bonus bagi moral dan efektivitas tempur.
+Gunakan keterampilan ini untuk memandu pasukan dalam pertempuran, dari regu kecil hingga pasukan atau armada besar, mengatur dan mengoordinasikan logistik untuk pasukan, merencanakan dan melaksanakan perusahaan militer skala besar, dan menentukan apa yang mungkin dipikirkan oleh ahli strategi lain. Keterampilan ini juga mengasumsikan pengetahuan dasar tentang sejarah militer dan taktik, serta tokoh-tokoh penting di dalamnya. Kegagalan Mutlak mewakili bencana militer dan mungkin menyebabkan kekalahan total, sementara berbagai tingkat keberhasilan memberikan keuntungan strategis dan mungkin berarti bonus bagi moral dan efektivitas tempur.
 
 **Catatan Sistem:** Pertunangan militer besar-besaran harus diselesaikan dalam bentuk abstrak, dengan lemparan Strategi yang berlawanan antara pemimpin yang berlawanan yang memengaruhi hasil (beberapa lemparan mungkin diperlukan untuk pertunangan yang lebih besar atau lebih lama). Menggunakan Strategi dalam kondisi yang tidak menguntungkan (kalah jumlah, persediaan buruk, dll.) adalah Sulit. Keterampilan ini sering digunakan bersama Perintah: Strategi mewakili rencana, Perintah adalah seberapa jelas itu disampaikan kepada mereka yang harus mengeksekusinya.
 
@@ -1022,11 +1022,11 @@ Gunakan keterampilan ini untuk memandu pasukan dalam pertempuran, dari regu keci
 
 **Kategori:** Fisik
 
-Gunakan keterampilan ini untuk bergerak melalui atau di bawah air. Umumnya, lemparan Berenang hanya boleh digunakan untuk situasi berbahaya atau menekan. Mengapung, mendayung anjing, dan menginjak air dalam kondisi normal adalah *Otomatis*. Fumble berarti bahwa Anda mulai tenggelam (lihat *Tersedak, Tenggelam, dan Asfiksia*). Setelah karakter Anda mulai tenggelam, hanya lemparan Berenang yang *Sulit* atau bantuan luar yang dapat mengembalikan mereka ke permukaan untuk bernapas lagi. Keberhasilan berarti manuver normal di air, sementara keberhasilan yang unggul berarti kecepatan dan kemampuan manuver tambahan.
+Gunakan keterampilan ini untuk bergerak melalui atau di bawah air. Umumnya, lemparan Berenang hanya boleh digunakan untuk situasi berbahaya atau menekan. Mengapung, mendayung anjing, dan menginjak air dalam kondisi normal adalah *Otomatis*. Kegagalan Mutlak berarti bahwa Anda mulai tenggelam (lihat *Tersedak, Tenggelam, dan Asfiksia*). Setelah karakter Anda mulai tenggelam, hanya lemparan Berenang yang *Sulit* atau bantuan luar yang dapat mengembalikan mereka ke permukaan untuk bernapas lagi. Keberhasilan berarti manuver normal di air, sementara keberhasilan yang unggul berarti kecepatan dan kemampuan manuver tambahan.
 
-**Catatan Sistem:** Di perairan tenang, lemparan Berenang hanya diperlukan sekali per giliran. Berenang di perairan kasar memerlukan pemeriksaan Berenang setiap putaran. Berenang sambil membawa sesuatu memerlukan lemparan Usaha atau lemparan resistensi STR, tergantung pada situasinya. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah hingga +20%. Berenang secara aktif menghabiskan 1 poin kelelahan per giliran. Selesaikan balapan di air sebagai lemparan Berenang yang berlawanan, menghabiskan 1 poin kelelahan per putaran. Kurangi ENC apa pun yang dimiliki perenang dari peringkat Berenang mereka. Jika ENC mereka melebihi STR mereka, mereka tenggelam dan harus mengurangi beban atau tenggelam. Karakter yang mengenakan baju besi memiliki penalti yang diterapkan pada Berenang (lihat **Baju Besi**). Untuk melepas baju besi di air, lakukan lemparan Berenang sekali per putaran tempur per poin nilai tertinggi baju besi (maksimum lemparan jika nilai baju besi acak digunakan). Baju besi alami atau baju besi yang diberikan oleh kekuatan tidak memiliki penalti di air.
+**Catatan Sistem:** Di perairan tenang, lemparan Berenang hanya diperlukan sekali per giliran. Berenang di perairan kasar memerlukan pemeriksaan Berenang setiap putaran. Berenang sambil membawa sesuatu memerlukan lemparan Usaha atau lemparan resistensi STR, tergantung pada situasinya. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah hingga +20%. Berenang secara aktif menghabiskan 1 poin kelelahan per giliran. Selesaikan balapan di air sebagai lemparan Berenang yang berlawanan, menghabiskan 1 poin kelelahan per putaran. Kurangi ENC apa pun yang dimiliki perenang dari peringkat Berenang mereka. Jika ENC mereka melebihi STR mereka, mereka tenggelam dan harus mengurangi beban atau tenggelam. Karakter yang mengenakan Zirah memiliki penalti yang diterapkan pada Berenang (lihat **Zirah**). Untuk melepas Zirah di air, lakukan lemparan Berenang sekali per putaran tempur per poin nilai tertinggi Zirah (maksimum lemparan jika nilai Zirah acak digunakan). Zirah alami atau Zirah yang diberikan oleh kekuatan tidak memiliki penalti di air.
 
-Dalam pertarungan jarak dekat di bawah air, penyerang menggunakan yang lebih rendah dari peringkat keterampilan tempur atau Berenang mereka untuk menyelesaikan serangan, dan mencoba Menghindar adalah Sulit. Hanya senjata penusuk yang berguna—semua yang lain melakukan 1D3–1 poin kerusakan per hit. Hambatan air juga menambahkan 3 poin nilai baju besi ke target apa pun. Lihat **Pertarungan Bawah Air** untuk informasi lebih lanjut.
+Dalam pertarungan jarak dekat di bawah air, penyerang menggunakan yang lebih rendah dari peringkat keterampilan tempur atau Berenang mereka untuk menyelesaikan serangan, dan mencoba Menghindar adalah Sulit. Hanya senjata penusuk yang berguna—semua yang lain melakukan 1D3–1 poin kerusakan per hit. Hambatan air juga menambahkan 3 poin nilai Zirah ke target apa pun. Lihat **Pertarungan Bawah Air** untuk informasi lebih lanjut.
 
 ### Mengajar
 
@@ -1034,7 +1034,7 @@ Dalam pertarungan jarak dekat di bawah air, penyerang menggunakan yang lebih ren
 
 **Kategori:** Komunikasi
 
-Gunakan keterampilan ini setiap kali karakter Anda mencoba melatih atau mengajarkan informasi atau teknik kepada orang lain, menggunakan kuliah, latihan, atau sparring fisik. Fumble bersifat mundur dan menyebabkan siswa mungkin kehilangan 1D2 poin keterampilan jika mereka tidak melakukan lemparan Ide untuk mengenali pengajaran yang buruk, sementara keberhasilan mengajarkan sesuai aturan normal untuk pelatihan dan keberhasilan yang unggul meningkatkan pelatihan keterampilan menjadi 1D6 (khusus) dan 1D6+2 (kritis).
+Gunakan keterampilan ini setiap kali karakter Anda mencoba melatih atau mengajarkan informasi atau teknik kepada orang lain, menggunakan kuliah, latihan, atau sparring fisik. Kegagalan Mutlak bersifat mundur dan menyebabkan siswa mungkin kehilangan 1D2 poin keterampilan jika mereka tidak melakukan lemparan Ide untuk mengenali pengajaran yang buruk, sementara keberhasilan mengajarkan sesuai aturan normal untuk pelatihan dan keberhasilan yang unggul meningkatkan pelatihan keterampilan menjadi 1D6 (khusus) dan 1D6+2 (kritis).
 
 **Catatan Sistem:** Untuk mengajarkan keterampilan tertentu, guru harus memiliki dua kali peringkat keterampilan siswa, atau peringkat keterampilan 50% (mana yang lebih rendah). Lihat **Pelatihan Keterampilan** untuk detail lebih lanjut.
 
@@ -1044,7 +1044,7 @@ Gunakan keterampilan ini setiap kali karakter Anda mencoba melatih atau mengajar
 
 **Kategori:** Mental
 
-Gunakan keterampilan ini untuk mengoperasikan dan memelihara perangkat teknologi canggih seperti sistem komputer, robot, atau perangkat tinggi lainnya. Ini juga dapat digunakan untuk memodifikasi perangkat guna meningkatkan kinerjanya atau menggunakannya untuk tujuan baru di luar parameternya. Fumble berpotensi merusak perangkat atau membuat macet dengan cara tertentu, sementara keberhasilan dan keberhasilan yang unggul menyebabkan mekanisme berfungsi sebagaimana dirancang, atau melampaui harapan.
+Gunakan keterampilan ini untuk mengoperasikan dan memelihara perangkat teknologi canggih seperti sistem komputer, robot, atau perangkat tinggi lainnya. Ini juga dapat digunakan untuk memodifikasi perangkat guna meningkatkan kinerjanya atau menggunakannya untuk tujuan baru di luar parameternya. Kegagalan Mutlak berpotensi merusak perangkat atau membuat macet dengan cara tertentu, sementara keberhasilan dan keberhasilan yang unggul menyebabkan mekanisme berfungsi sebagaimana dirancang, atau melampaui harapan.
 
 **Spesialisasi:** Jam, Komputer, Siber, Elektronik, Robotika, Sensor, Mesin Pengepungan, Jebakan, dll.
 
@@ -1060,11 +1060,11 @@ Gunakan keterampilan ini untuk mengenai target dengan benda yang dilempar, atau 
 
 **Efek:** Melempar memiliki efek spesifik:
 
-* **Fumble:** Objek dijatuhkan atau hilang. Dalam pertempuran, gunakan **Tabel Fumble Senjata Proyektil**.
+* **Kegagalan Mutlak:** Objek dijatuhkan atau hilang. Dalam pertempuran, gunakan **Tabel Kegagalan Mutlak Senjata Proyektil**.
 * **Kegagalan:** Objek meleset dan pergi 1D6 meter ke arah acak.
 * **Keberhasilan:** Objek mendarat di tempat yang dituju. Lempar kerusakan secara normal, jika ada.
 * **Khusus:** Objek mendarat di tempat yang dituju dan memberikan jenis kerusakan khusus yang sesuai dengan bentuknya (lihat **Keberhasilan Khusus**).
-* **Kritis:** Objek mendarat di tempat yang dituju dengan hasil yang luar biasa, mengabaikan baju besi dan memberikan kerusakan kritis, jika sesuai.
+* **Kritis:** Objek mendarat di tempat yang dituju dengan hasil yang luar biasa, mengabaikan Zirah dan memberikan kerusakan kritis, jika sesuai.
 
 **Catatan Sistem:** Tambahkan 1/2 pengubah kerusakan (bulatkan ke atas) ke kerusakan dasar senjata lempar. Sebagian besar barang dapat dilempar sejauh STR pelempar dalam meter, dan jarak di luar itu adalah Sulit. Objek yang dilempar dapat diarahkan.
 
@@ -1074,6 +1074,6 @@ Gunakan keterampilan ini untuk mengenai target dengan benda yang dilempar, atau 
 
 **Kategori:** Persepsi
 
-Gunakan keterampilan ini untuk mengidentifikasi jejak atau mengikuti jejak—baik orang, kendaraan, atau hewan—di atas tanah, melalui semak, salju, dan melintasi medan yang rusak. Fumble kehilangan jejak dan mungkin pelacak itu sendiri. Berbagai tingkat keberhasilan menghasilkan hasil yang lebih baik, termasuk berpotensi dapat menilai informasi tentang subjek yang dilacak atau memprediksi secara akurat ke mana mereka pergi..
+Gunakan keterampilan ini untuk mengidentifikasi jejak atau mengikuti jejak—baik orang, kendaraan, atau hewan—di atas tanah, melalui semak, salju, dan melintasi medan yang rusak. Kegagalan Mutlak kehilangan jejak dan mungkin pelacak itu sendiri. Berbagai tingkat keberhasilan menghasilkan hasil yang lebih baik, termasuk berpotensi dapat menilai informasi tentang subjek yang dilacak atau memprediksi secara akurat ke mana mereka pergi..
 
 **Catatan Sistem:** Lemparan Melacak memakan waktu 1D3 menit, dan upaya pelacakan yang diperpanjang mungkin memerlukan beberapa lemparan. Tergantung pada lingkungan, lemparan mungkin Sulit (malam hujan) atau Mudah (hari bersalju cerah). Jika jejak hilang, menemukannya kembali adalah Sulit. Mencoba menyembunyikan jejak seseorang adalah lemparan Melacak yang berlawanan. Peralatan canggih dapat menambahkan hingga +20% pada peringkat keterampilan.

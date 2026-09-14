@@ -14,6 +14,14 @@ on:
         description: 'Redo languages that already have a translated file (default: skip them)'
         type: boolean
         default: false
+      lang:
+        description: 'Restrict to a single language code (e.g. "es"). Leave blank / "all" for every language.'
+        type: string
+        default: ''
+      post_process_only:
+        description: 'Apply glossary corrections to already-translated files only (no Gemini API calls, no re-translation)'
+        type: boolean
+        default: false
   push:
     paths:
       - 'rules/en/**.md'
@@ -44,6 +52,7 @@ jobs:
 
       - name: Detect changed English markdown files
         id: changes
+        if: github.event.inputs.post_process_only != 'true'
         env:
           EVENT_NAME: ${{ github.event_name }}
           BEFORE_SHA: ${{ github.event.before }}
@@ -110,20 +119,30 @@ jobs:
           fi
 
       - name: No English changes detected
-        if: steps.changes.outputs.has_changes != 'true'
+        if: github.event.inputs.post_process_only != 'true' && steps.changes.outputs.has_changes != 'true'
         run: echo "No files changed under rules/en/. Skipping translation run."
 
       - name: Translate changed files with Gemini
-        if: steps.changes.outputs.has_changes == 'true'
+        if: github.event.inputs.post_process_only == 'true' || steps.changes.outputs.has_changes == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CHANGED_FILES: ${{ steps.changes.outputs.files }}
           FORCE_RETRANSLATE: ${{ github.event.inputs.force_retranslate }}
           DISPATCH_MODE: ${{ github.event.inputs.mode }}
-        run: node .github/scripts/translate.mjs
+          POST_PROCESS_ONLY: ${{ github.event.inputs.post_process_only }}
+          LANG_INPUT: ${{ github.event.inputs.lang }}
+        run: |
+          ARGS=()
+          if [ "$POST_PROCESS_ONLY" = "true" ]; then
+            ARGS+=(--post-process-only)
+          fi
+          if [ -n "$LANG_INPUT" ] && [ "$LANG_INPUT" != "all" ]; then
+            ARGS+=("--lang=$LANG_INPUT")
+          fi
+          node .github/scripts/translate.mjs "${ARGS[@]}"
 
       - name: Commit and push any remaining translated files
-        if: always() && steps.changes.outputs.has_changes == 'true'
+        if: always() && (github.event.inputs.post_process_only == 'true' || steps.changes.outputs.has_changes == 'true')
         run: |
           set -e
           # Safety net only: translate.mjs now commits and pushes
