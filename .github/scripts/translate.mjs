@@ -81,7 +81,15 @@ const SYSTEM_INSTRUCTION =
   "Never assign the same abbreviation or target term to two distinct source concepts (e.g., STR and POW must never resolve to the same abbreviation). " +
   "Adhere strictly to any provided glossary terms and abbreviations across all headings, tables, formulas, and running text.\n\n" +
   "5. PRESERVE ORIGINAL SEQUENCE: Translate lists and tables in their exact source order. " +
-  "Do not attempt to alphabetize or reorder items, as mechanical references and layout dependencies rely on the original sequence.";
+  "Do not attempt to alphabetize or reorder items, as mechanical references and layout dependencies rely on the original sequence.\n\n" +
+  "6. PRESERVE PLACEHOLDER TOKENS: The source text may contain opaque tokens matching the exact pattern [[CODEBLOCKn]] or " +
+  "[[INLINECODEn]] (where n is a number), such as [[CODEBLOCK0]] or [[INLINECODE3]]. These stand in for protected code " +
+  "fences, dice notation, and formulas that were removed before translation. Reproduce each such token EXACTLY, " +
+  "character-for-character, with no translation, added spacing, punctuation, or reformatting, and never remove, " +
+  "duplicate, or reorder them.\n\n" +
+  "7. NO OUTER CODE FENCE: Do not wrap your entire response in triple backticks (```) or any other code fence. " +
+  "Output raw Markdown directly. The only backticks that should appear in your output are inside the placeholder " +
+  "tokens described in rule 6.";
 
 // Directory holding one optional glossary file per target language, e.g.
 // .github/scripts/glossaries/es.json. Each file is a JSON object with two
