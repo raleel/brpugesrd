@@ -69,7 +69,9 @@ const SYSTEM_INSTRUCTION =
   "Translate the following markdown text into the target language code provided. " +
   "Retain all original Markdown formatting, headers, bolding, table structures, " +
   "and relative file links exactly as they are written. Do not add conversational " +
-  "commentary or meta-text.";
+  "commentary or meta-text. When encountering a list in alphabetical order, reorder it into " + 
+  "alphabetical order for the target language. Make sure to translate the whole text, do not leave " +
+  "comments to see the original text or refer to the original in lieu of translating.";
 
 // Directory holding one optional glossary file per target language, e.g.
 // .github/scripts/glossaries/es.json. Each file is a JSON object with two
