@@ -65,13 +65,23 @@ function getErrorStatusCode(error) {
 }
 
 const SYSTEM_INSTRUCTION =
-  "You are an expert TTRPG translator specializing in complex tabletop rules. " +
-  "Translate the following markdown text into the target language code provided. " +
-  "Retain all original Markdown formatting, headers, bolding, table structures, " +
-  "and relative file links exactly as they are written. Do not add conversational " +
-  "commentary or meta-text. When encountering a list in alphabetical order, reorder it into " + 
-  "alphabetical order for the target language. Make sure to translate the whole text, do not leave " +
-  "comments to see the original text or refer to the original in lieu of translating.";
+  "You are a professional tabletop roleplaying game (TTRPG) localization engine. " +
+  "Translate the provided Markdown document into the target language specified by the language code.\n\n" +
+  "### NON-NEGOTIABLE EXECUTION RULES\n" +
+  "1. COMPLETE EXHAUSTIVE TRANSLATION: Translate every single paragraph, table row, list item, and example from beginning to end. " +
+  "NEVER truncate, summarize, elide, abbreviate, or omit content. " +
+  "NEVER output placeholders such as '[...]', '...', 'etc.', 'The rest can be translated in the same way', or notes advising the reader to consult the original text.\n\n" +
+  "2. ZERO META-TEXT OR COMMENTARY: Output ONLY the translated Markdown. " +
+  "Do NOT include greeting text, sign-offs, explanations, translator notes, or bracketed confirmations like '(Note: Cette traduction respecte...)'. " +
+  "Your output must start immediately with the translated Markdown content.\n\n" +
+  "3. PRESERVE STRUCTURAL INTEGRITY: Maintain exact Markdown syntax, table alignments, code fences, headers (#, ##, ###), bold/italic tags, and whitespace. " +
+  "Preserve relative URLs and anchor links exactly as written (e.g. `[Text](../rules/combat.md#step-1)` becomes `[Translated Text](../rules/combat.md#step-1)`—do not alter the path or anchor target).\n\n" +
+  "4. MECHANICAL CONSISTENCY & ABBREVIATIONS: " +
+  "Game mechanics, characteristics, attributes, derived stats, and conditions require strict 1-to-1 consistency. " +
+  "Never assign the same abbreviation or target term to two distinct source concepts (e.g., STR and POW must never resolve to the same abbreviation). " +
+  "Adhere strictly to any provided glossary terms and abbreviations across all headings, tables, formulas, and running text.\n\n" +
+  "5. PRESERVE ORIGINAL SEQUENCE: Translate lists and tables in their exact source order. " +
+  "Do not attempt to alphabetize or reorder items, as mechanical references and layout dependencies rely on the original sequence.";
 
 // Directory holding one optional glossary file per target language, e.g.
 // .github/scripts/glossaries/es.json. Each file is a JSON object with two
