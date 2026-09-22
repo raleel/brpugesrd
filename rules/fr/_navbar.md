@@ -1,4 +1,0 @@
-- [Accueil](/)
-- [Comment jouer](HowTo.md)
-- [Journal des modifications](Changelog.md)
-- [GitHub](https://github.com/raleel/brpugesrd)
