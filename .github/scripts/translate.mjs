@@ -35,6 +35,19 @@ const MODEL = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
 // in this repo; override via env var if a file still gets cut off.
 const MAX_OUTPUT_TOKENS = Number(process.env.GEMINI_MAX_OUTPUT_TOKENS) || 65536;
 
+// Source (pre-translation) character threshold above which a file is split
+// into multiple chunks before being sent to Gemini. Very large files (e.g.
+// a 200KB+ spell list) can push a single translation response right up
+// against MAX_OUTPUT_TOKENS -- especially into scripts like Cyrillic that
+// use more output tokens per character than English -- and get silently
+// truncated even with a generous token budget. Chunking keeps each
+// individual request comfortably inside that budget. Splitting only ever
+// happens at Markdown heading boundaries (never mid-table/mid-list), so
+// reassembly produces byte-for-byte the same single output file a
+// non-chunked translation would, just built from several requests instead
+// of one.
+const CHUNK_MAX_CHARS = Number(process.env.TRANSLATE_CHUNK_MAX_CHARS) || 20000;
+
 // Max attempts (including the first try) per language before giving up and
 // logging a final failure. Used by the sequential fallback path.
 const MAX_ATTEMPTS = 4;
@@ -251,6 +264,79 @@ function restoreCodeBlocks(translatedText, placeholders) {
     restored = restored.split(token).join(value);
   }
   return restored;
+}
+
+/**
+ * Splits already placeholder-protected Markdown into chunks small enough
+ * that a single Gemini translation response for one chunk stays
+ * comfortably under MAX_OUTPUT_TOKENS, even for scripts (e.g. Cyrillic)
+ * that need more output tokens per character than English. Returns the
+ * whole document as a single-element array if it's already small enough.
+ *
+ * Splitting only happens at Markdown heading boundaries (deepest heading
+ * level with 2+ occurrences: ####, then ###, then ##, then #), so a chunk
+ * boundary can never land in the middle of a table, list, or spell/monster
+ * entry. Chunks are then reassembled by simple concatenation in
+ * translateFile, so the final output file is identical in shape to what a
+ * single, un-chunked translation would have produced.
+ */
+function chunkMarkdown(markdown, maxChunkChars) {
+  if (markdown.length <= maxChunkChars) {
+    return [markdown];
+  }
+
+  for (const level of [4, 3, 2, 1]) {
+    const headingRegex = new RegExp(`^#{${level}} `, "gm");
+    const indices = [];
+    let match;
+    while ((match = headingRegex.exec(markdown))) {
+      indices.push(match.index);
+    }
+
+    if (indices.length < 2) {
+      continue;
+    }
+
+    const sections = [];
+    if (indices[0] > 0) {
+      // Preamble content before the first heading at this level (e.g. an
+      // intro paragraph, or higher-level headings/tables that precede the
+      // first section split at this level).
+      sections.push(markdown.slice(0, indices[0]));
+    }
+    for (let i = 0; i < indices.length; i += 1) {
+      const start = indices[i];
+      const end = i + 1 < indices.length ? indices[i + 1] : markdown.length;
+      sections.push(markdown.slice(start, end));
+    }
+
+    const chunks = [];
+    let current = "";
+    for (const section of sections) {
+      if (current && current.length + section.length > maxChunkChars) {
+        chunks.push(current);
+        current = section;
+      } else {
+        current += section;
+      }
+    }
+    if (current) {
+      chunks.push(current);
+    }
+
+    if (chunks.length > 1) {
+      return chunks;
+    }
+    // This heading level didn't actually produce more than one chunk
+    // (e.g. one enormous section dwarfs all the others); try a shallower
+    // heading level instead of settling for a no-op split.
+  }
+
+  // No heading level could safely split this file (e.g. one gigantic
+  // section/table with no sub-headings at all). Send it as a single
+  // chunk -- there's no way to split further without risking a broken
+  // table or list mid-stream.
+  return [markdown];
 }
 
 // Structural "site frame" files that Docsify needs to render navigation and
@@ -554,28 +640,55 @@ function extractTextFromResponse(response) {
 }
 
 /**
- * Submits every language still needed for one English file as a single
- * Gemini Batch API job (one inline request per language), polls it to
- * completion, and returns a Map<lang, {ok, text} | {ok:false, error}>.
+ * Submits every (language, chunk) pair still needed for one English file as
+ * a single Gemini Batch API job -- one inline request per pair -- polls it
+ * to completion, and returns a Map<lang, {ok, chunkTexts} | {ok:false, error}>.
+ * `chunkTexts` is the translated text for each chunk, in the same order as
+ * `chunks`, ready to be concatenated back into one file.
  *
- * Each request gets a unique customId (file-${index}-${filename}) purely
- * for our own bookkeeping/logging -- the SDK's inline batch responses come
- * back in the same order the requests were submitted in, so results are
- * mapped back to their language via that same index, not by relying on the
- * API to echo the customId back.
+ * For files under CHUNK_MAX_CHARS, `chunks` has exactly one element, so
+ * this behaves identically to the pre-chunking implementation (one request
+ * per language). Larger files submit languages.length * chunks.length
+ * requests in the same batch job.
+ *
+ * If ANY chunk for a given language fails or comes back empty, that
+ * language's overall result is marked not-ok (with that chunk's error) so
+ * the caller retries the whole file for that language sequentially --
+ * simpler and more robust than trying to splice partial batch results
+ * together with sequential retries per chunk.
+ *
+ * Each request gets a unique customId (file-${langIndex}-${chunkIndex}-${filename}-${lang})
+ * purely for our own bookkeeping/logging -- the SDK's inline batch
+ * responses come back in the same order the requests were submitted in,
+ * so results are mapped back to their (lang, chunk) pair via that same
+ * index, not by relying on the API to echo the customId back.
  *
  * Throws if the job itself fails to submit, times out in a non-terminal
  * failure state, or comes back with a mismatched response count -- callers
  * should catch this and fall back to sequential per-language requests.
  */
-async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, protectedText) {
+async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, chunks) {
   const fileName = path.basename(englishPath);
-  const customIds = languagesToTranslate.map((lang, index) => `file-${index}-${fileName}-${lang}`);
-  const inlinedRequests = languagesToTranslate.map((lang) => buildGenerateContentRequest(protectedText, lang));
+
+  // Flat list of (langIndex, chunkIndex) pairs, in the order requests are
+  // submitted -- this is also the order responses come back in.
+  const pairs = [];
+  for (let langIndex = 0; langIndex < languagesToTranslate.length; langIndex += 1) {
+    for (let chunkIndex = 0; chunkIndex < chunks.length; chunkIndex += 1) {
+      pairs.push({ langIndex, chunkIndex });
+    }
+  }
+
+  const customIds = pairs.map(
+    ({ langIndex, chunkIndex }) => `file-${langIndex}-${chunkIndex}-${fileName}-${languagesToTranslate[langIndex]}`
+  );
+  const inlinedRequests = pairs.map(({ langIndex, chunkIndex }) =>
+    buildGenerateContentRequest(chunks[chunkIndex], languagesToTranslate[langIndex])
+  );
 
   console.log(
     `Submitting batch translation job for ${englishPath} covering ${languagesToTranslate.length} ` +
-    `language(s): ${languagesToTranslate.join(", ")}`
+    `language(s) x ${chunks.length} chunk(s) = ${inlinedRequests.length} request(s): ${languagesToTranslate.join(", ")}`
   );
 
   const batchJob = await ai.batches.create({
@@ -593,24 +706,30 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
   }
 
   const inlinedResponses = finishedJob.dest?.inlinedResponses;
-  if (!inlinedResponses || inlinedResponses.length !== languagesToTranslate.length) {
+  if (!inlinedResponses || inlinedResponses.length !== inlinedRequests.length) {
     throw new Error(
       `Batch job ${batchJob.name} returned ${inlinedResponses ? inlinedResponses.length : 0} response(s), ` +
-      `expected ${languagesToTranslate.length}`
+      `expected ${inlinedRequests.length}`
     );
   }
 
-  const results = new Map();
+  // Per-language accumulator: chunkTexts[i] stays null until that chunk
+  // succeeds; firstError records the first failure seen for that language.
+  const perLang = languagesToTranslate.map(() => ({
+    chunkTexts: new Array(chunks.length).fill(null),
+    firstError: null,
+  }));
   let loggedRawSample = false;
 
   inlinedResponses.forEach((inlineResponse, index) => {
-    const lang = languagesToTranslate[index];
+    const { langIndex, chunkIndex } = pairs[index];
     const customId = customIds[index];
+    const langState = perLang[langIndex];
 
     if (inlineResponse.response) {
       const text = extractTextFromResponse(inlineResponse.response);
       if (text && text.trim()) {
-        results.set(lang, { ok: true, text });
+        langState.chunkTexts[chunkIndex] = text;
       } else {
         if (!loggedRawSample) {
           // First empty result in this batch: dump the raw response once so
@@ -622,10 +741,20 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
           );
           loggedRawSample = true;
         }
-        results.set(lang, { ok: false, error: new Error(`Empty response from Gemini batch API (${customId})`) });
+        langState.firstError ||= new Error(`Empty response from Gemini batch API (${customId})`);
       }
     } else {
-      results.set(lang, { ok: false, error: new Error(`Batch request failed (${customId}): ${formatBatchError(inlineResponse.error)}`) });
+      langState.firstError ||= new Error(`Batch request failed (${customId}): ${formatBatchError(inlineResponse.error)}`);
+    }
+  });
+
+  const results = new Map();
+  languagesToTranslate.forEach((lang, langIndex) => {
+    const { chunkTexts, firstError } = perLang[langIndex];
+    if (!firstError && chunkTexts.every((text) => text !== null)) {
+      results.set(lang, { ok: true, chunkTexts });
+    } else {
+      results.set(lang, { ok: false, error: firstError || new Error(`Missing chunk result(s) for "${lang}"`) });
     }
   });
 
@@ -635,6 +764,13 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
 async function translateFile(ai, englishPath) {
   const englishContent = fs.readFileSync(englishPath, "utf8");
   const { protectedText, placeholders } = protectCodeBlocks(englishContent);
+  const chunks = chunkMarkdown(protectedText, CHUNK_MAX_CHARS);
+  if (chunks.length > 1) {
+    console.log(
+      `${englishPath} is large (${protectedText.length} chars); splitting into ${chunks.length} chunks for translation ` +
+      `to stay safely under the output token budget.`
+    );
+  }
 
   // Skip languages that already have a translated file, unless the caller
   // explicitly asks to redo them. This lets a manual "translate everything"
@@ -663,7 +799,7 @@ async function translateFile(ai, englishPath) {
   // this file so the run stays resilient instead of losing the whole file.
   let batchResults = null;
   try {
-    batchResults = await translateFileWithBatchApi(ai, englishPath, languagesToTranslate, protectedText);
+    batchResults = await translateFileWithBatchApi(ai, englishPath, languagesToTranslate, chunks);
   } catch (error) {
     console.warn(
       `Batch translation failed for ${englishPath} (${error.message}). ` +
@@ -681,18 +817,27 @@ async function translateFile(ai, englishPath) {
         const result = batchResults.get(lang);
 
         if (result && result.ok) {
-          translatedText = result.text;
+          translatedText = result.chunkTexts.join("");
         } else {
-          // Either this language's batch entry failed, or (shouldn't
-          // happen, but be defensive) it's missing from the results map.
-          // Either way, retry just this one language sequentially instead
-          // of giving up on it.
+          // Either this language's batch entry failed (including a single
+          // failed/empty chunk out of several), or (shouldn't happen, but
+          // be defensive) it's missing from the results map. Either way,
+          // retry every chunk for just this one language sequentially
+          // instead of giving up on it.
           const reason = result ? result.error.message : "missing from batch results";
           console.warn(`Batch result for "${lang}" unusable (${reason}); retrying ${targetPath} sequentially.`);
-          translatedText = await translateWithRetry(ai, protectedText, lang);
+          const translatedChunks = [];
+          for (const chunk of chunks) {
+            translatedChunks.push(await translateWithRetry(ai, chunk, lang));
+          }
+          translatedText = translatedChunks.join("");
         }
       } else {
-        translatedText = await translateWithRetry(ai, protectedText, lang);
+        const translatedChunks = [];
+        for (const chunk of chunks) {
+          translatedChunks.push(await translateWithRetry(ai, chunk, lang));
+        }
+        translatedText = translatedChunks.join("");
       }
 
       const restoredText = restoreCodeBlocks(translatedText, placeholders);
