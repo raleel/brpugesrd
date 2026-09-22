@@ -125,6 +125,7 @@
   },
   "forbidden_translations": {
     "Aksi Bebas": "Aksi Gratis",
-    "Baju Besi": "Zirah"
+    "Baju Besi": "Armor",
+    "Zirah": "Armor"
   }
 }
