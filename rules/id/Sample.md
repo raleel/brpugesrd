@@ -38,16 +38,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention]
 > Gaya Callout Perhatian Sampel
 
-> [!Note|style:flat]
+> [!Note|Gaya:flat]
 > Gaya Datar Catatan Sampel
 
-> [!Tip|style:flat]
+> [!Tip|Gaya:flat]
 > Gaya Datar Tips Sampel
 
-> [!Warning|style:flat]
+> [!Warning|Gaya:flat]
 > Gaya Datar Peringatan Sampel
 
-> [!Attention|style:flat]
+> [!Attention|Gaya:flat]
 > Gaya Datar Perhatian Sampel
 
 ## Ikon Fontawesome 
@@ -60,4 +60,4 @@ D20 Animasi :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Ikon Material
 
-<span class="material-icons">face</span>
+<span Kelas="material-icons">face</span>

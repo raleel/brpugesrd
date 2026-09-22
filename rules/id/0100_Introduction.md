@@ -18,7 +18,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 ***Sebagai contoh,*** *pada lembar karakter, Sembunyi (20%) berarti meskipun karakter Anda tidak menginvestasikan poin keahlian apa pun pada keahlian Sembunyi, mereka memiliki kemampuan alami sebesar 20% di dalamnya.*
 
-**Jarak Dasar (Base Range):** Jarak normal di mana senjata proyektil dapat mengenai target.
+**Jarak Dasar (Base Jarak):** Jarak normal di mana senjata proyektil dapat mengenai target.
 
 **Karakter:** Peran yang Anda ambil dalam sesi permainan, yang dijelaskan dalam mekanika permainan melalui nilai-nilai seperti karakteristik dan total keahlian. Umumnya, karakter memiliki nama dan latar belakang yang ditentukan oleh pemain, dengan bantuan dan/atau persetujuan dari gamemaster. (lihat juga **karakter pemain** dan **karakter non-pemain**).
 
@@ -40,11 +40,11 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 ***Sebagai contoh,*** *lemparan 60 (atau 6) dan 2 sama dengan hasil 62.*
 
-**Kerusakan (Damage):** Nilai yang mewakili cedera, dikurangi dari poin nyawa karakter. Senjata, peristiwa yang tidak menguntungkan, dan bahaya lainnya menimbulkan kerusakan pada karakter.
+**Kerusakan (Daya Rusak):** Nilai yang mewakili cedera, dikurangi dari poin nyawa karakter. Senjata, peristiwa yang tidak menguntungkan, dan bahaya lainnya menimbulkan kerusakan pada karakter.
 
-**Modifikator Kerusakan (Damage Modifier):** Modifikator untuk kerusakan yang dilempar karena karakteristik Kekuatan dan Ukuran di atas rata-rata.
+**Modifikator Kerusakan (Daya Rusak Modifier):** Modifikator untuk kerusakan yang dilempar karena karakteristik Kekuatan dan Ukuran di atas rata-rata.
 
-**Peringkat DEX (DEX Rank):** Berdasarkan karakteristik Ketangkasan, ini menentukan kapan karakter Anda biasanya dapat bertindak selama putaran tempur. Karakter dengan DEX lebih tinggi umumnya akan bertindak sebelum karakter dengan DEX lebih rendah.
+**Peringkat DEX (DEX Pangkat):** Berdasarkan karakteristik Ketangkasan, ini menentukan kapan karakter Anda biasanya dapat bertindak selama putaran tempur. Karakter dengan DEX lebih tinggi umumnya akan bertindak sebelum karakter dengan DEX lebih rendah.
 
 **Modifikator Kesulitan (Difficulty Modifier):** Jumlah peluang keahlian disesuaikan, berdasarkan keadaan di sekitar penggunaannya. Ini berkisar dari Otomatis (tidak perlu lemparan), Mudah (keahlian digandakan), Rata-rata (tidak ada modifikasi pada keahlian), dan Sulit (keahlian dibagi dua) hingga Mustahil (tidak ada lemparan, atau peluang 01% atas kebijakan gamemaster).
 
@@ -66,7 +66,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 **Waktu Permainan (Game Time):** Waktu yang berlalu saat skenario atau kampanye berlangsung sebagaimana dialami oleh karakter Anda. Ini biasanya tidak sama dengan waktu nyata yang Anda dan gamemaster habiskan untuk bermain.
 
-**Lokasi Luka (Hit Location):** Sistem opsional untuk menentukan di mana serangan yang berhasil mendarat di tubuh karakter Anda, atau di mana serangan mereka mengenai musuh.
+**Lokasi Luka (Hit Lokasi):** Sistem opsional untuk menentukan di mana serangan yang berhasil mendarat di tubuh karakter Anda, atau di mana serangan mereka mengenai musuh.
 
 **Poin Nyawa (Hit Points):** Ukuran kesehatan relatif karakter Anda, diwakili dalam nilai yang berasal dari karakteristik Konstitusi dan Ukuran mereka. Penyerang menimbulkan kerusakan dalam poin nyawa, yang dikurangi dari total poin nyawa target. Biasanya ketika karakter Anda mencapai 0 poin nyawa, mereka mati.
 
@@ -74,7 +74,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 ***Sebagai contoh,*** *dalam karakter, Anda mungkin berkata ‘Sir Wilfric bertanya kepada pemilik penginapan “Bolehkah kami menginap malam ini dengan janji pembayaran di masa depan!”’ sementara di luar karakter, Anda mungkin berkata “Saya mencoba membujuk (Persuade) pemilik penginapan agar mengizinkan kami menginap semalam tanpa bayaran.”*
 
-**Poin Sihir (Magic Points):** Nama lain untuk poin kekuatan (lihat **poin kekuatan**).
+**Poin Sihir (Poin Sihir):** Nama lain untuk poin kekuatan (lihat **poin kekuatan**).
 
 **Luka Berat (Major Wound):** Cedera yang menyebabkan kerusakan cukup besar untuk melebihi setengah dari total poin nyawa normal karakter dalam satu serangan. Biasanya disertai dengan efek yang melumpuhkan.
 
@@ -96,7 +96,7 @@ Istilah-istilah berikut sering digunakan dalam buku ini. Beberapa di antaranya u
 
 **Dadu Persentil (Percentile Dice):** Dua D10 yang diluncurkan bersamaan, dengan satu dadu ditetapkan sebagai angka puluhan, dan yang lainnya sebagai satuan. Beberapa dadu diberi nomor dalam satuan sepuluh, yaitu 00, 10, 20, 30, dst. Lihat juga **D100**.
 
-**Karakter Pemain (Player Character/PC):** Ini adalah karakter Anda, biasanya dibuat dan hampir selalu dikendalikan oleh Anda, terdiri dari kemampuan dan identitas yang Anda ambil melalui permainan peran. Karakter Anda adalah representasi Anda di dunia permainan dan memungkinkan Anda untuk berinteraksi dengan latar tersebut.
+**Karakter Pemain (Player Karakter/PC):** Ini adalah karakter Anda, biasanya dibuat dan hampir selalu dikendalikan oleh Anda, terdiri dari kemampuan dan identitas yang Anda ambil melalui permainan peran. Karakter Anda adalah representasi Anda di dunia permainan dan memungkinkan Anda untuk berinteraksi dengan latar tersebut.
 
 **Kekuatan (Power):** Istilah umum untuk mantra sihir, mutasi, kemampuan psikis, sihir, atau kemampuan super yang mungkin dimiliki karakter Anda (lihat Bab Empat: Kekuatan).
 

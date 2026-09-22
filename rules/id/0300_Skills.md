@@ -4,7 +4,7 @@ Karakter Anda harus membuat banyak keputusan, menghadapi banyak tantangan, dan m
 
 ## Mendefinisikan Keterampilan
 
-Sebuah keterampilan mewakili seperangkat pengetahuan dan kemampuan tertentu. Setiap keterampilan dinilai pada skala persentase dari 0 hingga 100 (atau lebih). Ini disebut **peringkat keterampilan** (*skill rating*). Semakin tinggi, semakin baik.
+Sebuah keterampilan mewakili seperangkat pengetahuan dan kemampuan tertentu. Setiap keterampilan dinilai pada skala persentase dari 0 hingga 100 (atau lebih). Ini disebut **peringkat keterampilan** (*Skill rating*). Semakin tinggi, semakin baik.
 
 Daftar keterampilan dalam buku ini jauh dari lengkap: permainan yang berbeda mungkin menuntut keterampilan tambahan, dan gamemaster didorong untuk membuat keterampilan baru sesuai keinginan. Selain itu, gamemaster mungkin ingin mengganti nama atau mengklasifikasikan ulang keterampilan, menghapus beberapa, menambahkan spesialisasi baru (dijelaskan di bawah), atau menghapusnya, sebagaimana mestinya.
 
@@ -351,7 +351,7 @@ Gunakan keterampilan ini untuk menyimpan, mengangkut, memasang, dan meledakkan b
 
 Gunakan keterampilan ini untuk menggunakan postur, kostum, suara, dan trik lain untuk muncul sebagai orang yang berbeda, atau jenis orang yang berbeda. Cahaya redup, riasan teater, dan perubahan wajah yang signifikan (potongan rambut atau wig, janggut palsu, atau cukuran cepat) dapat menambahkan bonus +20%, atas kebijaksanaan gamemaster. Penonton yang memeriksa karakter Anda yang menyamar atau terlibat dalam percakapan dengan mereka dapat melakukan lemparan keterampilan Melihat atau Wawasan yang berlawanan terhadap lemparan Penyamaran karakter Anda untuk melihat tipu muslihat tersebut. Karakter Anda yang menyamar dapat menggunakan keterampilan Bicara Cepat mereka untuk lemparan yang berlawanan jika mereka melibatkan penonton dalam percakapan, mengalihkan perhatian mereka dari pemeriksaan ketat. Kegagalan Mutlak sangat jelas, gagal tidak menipu siapa pun yang melihat dua kali, dan keberhasilan yang unggul bahkan dapat menambahkan bonus komplementer pada lemparan Komunikasi terhadap mereka yang tertipu, atau membuat deteksi menjadi lebih sulit.
 
-**Catatan Sistem:** Menggunakan keterampilan ini untuk meniru jenis orang tertentu (prajurit, polisi, dll.) adalah tindakan normal. Meniru seseorang yang sangat berbeda (spesies berbeda, seseorang yang jauh lebih tinggi atau lebih pendek, anggota gender lawan) atau orang terkenal tertentu (bangsawan, selebriti, dll.), atau mencoba penyamaran tanpa pakaian atau properti yang sesuai adalah Sulit. Gamemaster dapat memberikan penalti tambahan untuk hambatan budaya atau bahasa, atau jika beberapa kondisi Sulit berlaku. Terlalu berlebihan mungkin hanya Mustahil.
+**Catatan Sistem:** Menggunakan keterampilan ini untuk meniru jenis orang tertentu (prajurit, polisi, dll.) adalah tindakan normal. Meniru seseorang yang sangat berbeda (spesies berbeda, seseorang yang jauh lebih tinggi atau lebih pendek, anggota Kelamin lawan) atau orang terkenal tertentu (bangsawan, selebriti, dll.), atau mencoba penyamaran tanpa pakaian atau properti yang sesuai adalah Sulit. Gamemaster dapat memberikan penalti tambahan untuk hambatan budaya atau bahasa, atau jika beberapa kondisi Sulit berlaku. Terlalu berlebihan mungkin hanya Mustahil.
 
 ### Menghindar
 
@@ -481,7 +481,7 @@ Untuk makhluk dengan sayap, perlengkapan yang sesuai (sabuk antigravitasi, sepat
 * **Khusus:** Menyelesaikan manuver yang diinginkan dan mendapatkan bonus +10% untuk lemparan Menghindar, Terbang, atau serangan berikutnya yang dibuat dalam pertempuran udara.
 * **Kritis:** Menyelesaikan manuver yang diinginkan dan mendapatkan bonus +25% untuk lemparan Menghindar, Terbang, atau serangan berikutnya yang dibuat dalam pertempuran udara.
 
-**Catatan Sistem:** Penerbangan singkat yang tidak berkesan dalam kondisi normal atau sedang adalah Otomatis. Lihat **Kondisi Cuaca** untuk pengubah pada penerbangan. Lemparan Stamina diperlukan untuk penerbangan jarak jauh, dengan pengganda karakteristik berkurang satu setiap empat jam atau sebagian darinya yang dihabiskan di udara. Penerbangan normal tidak mengeluarkan poin kelelahan, sementara manuver atau penerbangan yang menekan adalah aktivitas yang berat. Terbang saat mengenakan Zirah atau perlengkapan berat dikenakan penalti yang setara dengan total ENC karakter Anda saat ini (lihat **Encumbrance**). Karakter terbang yang membawa benda berat harus mencocokkan STR mereka terhadap SIZ benda yang dibawa pada tabel resistensi untuk tetap tinggi.
+**Catatan Sistem:** Penerbangan singkat yang tidak berkesan dalam kondisi normal atau sedang adalah Otomatis. Lihat **Kondisi Cuaca** untuk pengubah pada penerbangan. Lemparan Stamina diperlukan untuk penerbangan jarak jauh, dengan pengganda karakteristik berkurang satu setiap empat jam atau sebagian darinya yang dihabiskan di udara. Penerbangan normal tidak mengeluarkan poin kelelahan, sementara manuver atau penerbangan yang menekan adalah aktivitas yang berat. Terbang saat mengenakan Armor atau perlengkapan berat dikenakan penalti yang setara dengan total ENC karakter Anda saat ini (lihat **Encumbrance**). Karakter terbang yang membawa benda berat harus mencocokkan STR mereka terhadap SIZ benda yang dibawa pada tabel resistensi untuk tetap tinggi.
 
 ### Permainan
 
@@ -709,7 +709,7 @@ Ini mewakili studi dan penguasaan gaya bertarung tertentu. Gunakan keterampilan 
 * **Kegagalan:** Jika hasil yang dilempar di atas peringkat keterampilan Seni Bela Diri tetapi masih sama dengan atau di bawah keterampilan tempur, serangan mengenai secara normal. Serangan yang dilempar di atas keterampilan tempur meleset, terlepas dari peringkat keterampilan Seni Bela Diri.
 * **Keberhasilan:** Jika hasil yang dilempar kurang dari atau sama dengan Seni Bela Diri dan keterampilan tempur, lempar untuk kerusakan dasar dua kali dan jumlahkan hasilnya. Pengubah kerusakan karakter Anda tidak pernah digandakan.
 * **Khusus:** Seperti di atas. Untuk keberhasilan khusus, lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
-* **Kritis:** Seperti di atas. Jika lemparan tempur adalah keberhasilan kritis, perlindungan Zirah target (alami atau dikenakan) diabaikan, dan lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
+* **Kritis:** Seperti di atas. Jika lemparan tempur adalah keberhasilan kritis, perlindungan Armor target (alami atau dikenakan) diabaikan, dan lemparan kerusakan dasar tambahan ditambahkan ke efek keberhasilan khusus keterampilan tempur, jika ada.
 
 **Catatan Sistem:** Keterampilan Seni Bela Diri bekerja bersama dengan satu keterampilan tempur lainnya, dan biasanya dengan kisaran spesialisasi yang sempit untuk keterampilan tersebut. Kekuatan ini dapat digunakan bersama dengan mutasi Persenjataan Alami dan kekuatan Pertarungan Tanpa Senjata.
 
@@ -869,7 +869,7 @@ Peralatan dan objek lain rusak atau berhenti bekerja. Gunakan Perbaikan untuk me
 
 **Spesialisasi:** Listrik, Elektronik, Teknik, Pembangkit Listrik Tenaga Air, Mekanik, Struktural, Kuantum, dll.
 
-**Efek:** Kegagalan Mutlak merusak barang lebih lanjut dan bahkan dapat menyakiti orang yang melakukan upaya perbaikan (1D3 poin hit untuk keduanya, misalnya) dan membuat perbaikan lebih lanjut menjadi Sulit. Gagal tidak menyelesaikan apa pun, keberhasilan memulihkan 1D3 poin hit dan barang tersebut menjadi dapat digunakan kembali atau kembali berfungsi. Keberhasilan yang unggul menghasilkan manfaat serupa, mungkin menggunakan keterampilan Pertolongan Pertama dan penilaian gamemaster sebagai panduan. Kritis bahkan dapat meningkatkan barang dengan cara kecil, seperti menambah total poin hit, poin Zirah, atau menambah bonus kecil saat digunakan.
+**Efek:** Kegagalan Mutlak merusak barang lebih lanjut dan bahkan dapat menyakiti orang yang melakukan upaya perbaikan (1D3 poin hit untuk keduanya, misalnya) dan membuat perbaikan lebih lanjut menjadi Sulit. Gagal tidak menyelesaikan apa pun, keberhasilan memulihkan 1D3 poin hit dan barang tersebut menjadi dapat digunakan kembali atau kembali berfungsi. Keberhasilan yang unggul menghasilkan manfaat serupa, mungkin menggunakan keterampilan Pertolongan Pertama dan penilaian gamemaster sebagai panduan. Kritis bahkan dapat meningkatkan barang dengan cara kecil, seperti menambah total poin hit, poin Armor, atau menambah bonus kecil saat digunakan.
 
 ### Riset
 
@@ -1004,7 +1004,7 @@ Status adalah ukuran reputasi, kredensial profesional, kelas sosial, kemakmuran,
 
 Gunakan keterampilan ini untuk menyelinap melalui area tanpa menarik perhatian. Tidak diperlukan penutup, tetapi langkah ringan, kepercayaan diri, dan disiplin semuanya diperlukan. Untuk menghindari terlihat saat tidak bergerak, gunakan Bersembunyi. Kegagalan Mutlak menarik perhatian yang tidak diinginkan, gagal berarti tidak ada kemajuan yang dibuat, dan karakter jelas bagi siapa pun yang melihat, sementara keberhasilan menawarkan tingkat penyembunyian yang berturut-turut.
 
-**Catatan Sistem:** Siluman mengasumsikan pergerakan lambat. Bergerak lebih jauh dari 1/2 MOV seseorang dalam satu putaran tempur adalah Sulit. Faktor lingkungan (suara sekitar, karpet tebal, lantai berderit, dll.) atau perlengkapan (sepatu bersol lunak, Zirah berisik, peralatan besar, dll.) dapat memodifikasi lemparan Siluman, atas kebijaksanaan gamemaster. Siluman dilawan oleh Melihat atau Mendengar, sebagaimana mestinya.
+**Catatan Sistem:** Siluman mengasumsikan pergerakan lambat. Bergerak lebih jauh dari 1/2 MOV seseorang dalam satu putaran tempur adalah Sulit. Faktor lingkungan (suara sekitar, karpet tebal, lantai berderit, dll.) atau perlengkapan (sepatu bersol lunak, Armor berisik, peralatan besar, dll.) dapat memodifikasi lemparan Siluman, atas kebijaksanaan gamemaster. Siluman dilawan oleh Melihat atau Mendengar, sebagaimana mestinya.
 
 ### Strategi
 
@@ -1024,9 +1024,9 @@ Gunakan keterampilan ini untuk memandu pasukan dalam pertempuran, dari regu keci
 
 Gunakan keterampilan ini untuk bergerak melalui atau di bawah air. Umumnya, lemparan Berenang hanya boleh digunakan untuk situasi berbahaya atau menekan. Mengapung, mendayung anjing, dan menginjak air dalam kondisi normal adalah *Otomatis*. Kegagalan Mutlak berarti bahwa Anda mulai tenggelam (lihat *Tersedak, Tenggelam, dan Asfiksia*). Setelah karakter Anda mulai tenggelam, hanya lemparan Berenang yang *Sulit* atau bantuan luar yang dapat mengembalikan mereka ke permukaan untuk bernapas lagi. Keberhasilan berarti manuver normal di air, sementara keberhasilan yang unggul berarti kecepatan dan kemampuan manuver tambahan.
 
-**Catatan Sistem:** Di perairan tenang, lemparan Berenang hanya diperlukan sekali per giliran. Berenang di perairan kasar memerlukan pemeriksaan Berenang setiap putaran. Berenang sambil membawa sesuatu memerlukan lemparan Usaha atau lemparan resistensi STR, tergantung pada situasinya. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah hingga +20%. Berenang secara aktif menghabiskan 1 poin kelelahan per giliran. Selesaikan balapan di air sebagai lemparan Berenang yang berlawanan, menghabiskan 1 poin kelelahan per putaran. Kurangi ENC apa pun yang dimiliki perenang dari peringkat Berenang mereka. Jika ENC mereka melebihi STR mereka, mereka tenggelam dan harus mengurangi beban atau tenggelam. Karakter yang mengenakan Zirah memiliki penalti yang diterapkan pada Berenang (lihat **Zirah**). Untuk melepas Zirah di air, lakukan lemparan Berenang sekali per putaran tempur per poin nilai tertinggi Zirah (maksimum lemparan jika nilai Zirah acak digunakan). Zirah alami atau Zirah yang diberikan oleh kekuatan tidak memiliki penalti di air.
+**Catatan Sistem:** Di perairan tenang, lemparan Berenang hanya diperlukan sekali per giliran. Berenang di perairan kasar memerlukan pemeriksaan Berenang setiap putaran. Berenang sambil membawa sesuatu memerlukan lemparan Usaha atau lemparan resistensi STR, tergantung pada situasinya. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah hingga +20%. Berenang secara aktif menghabiskan 1 poin kelelahan per giliran. Selesaikan balapan di air sebagai lemparan Berenang yang berlawanan, menghabiskan 1 poin kelelahan per putaran. Kurangi ENC apa pun yang dimiliki perenang dari peringkat Berenang mereka. Jika ENC mereka melebihi STR mereka, mereka tenggelam dan harus mengurangi beban atau tenggelam. Karakter yang mengenakan Armor memiliki penalti yang diterapkan pada Berenang (lihat **Armor**). Untuk melepas Armor di air, lakukan lemparan Berenang sekali per putaran tempur per poin nilai tertinggi Armor (maksimum lemparan jika nilai Armor acak digunakan). Armor alami atau Armor yang diberikan oleh kekuatan tidak memiliki penalti di air.
 
-Dalam pertarungan jarak dekat di bawah air, penyerang menggunakan yang lebih rendah dari peringkat keterampilan tempur atau Berenang mereka untuk menyelesaikan serangan, dan mencoba Menghindar adalah Sulit. Hanya senjata penusuk yang berguna—semua yang lain melakukan 1D3–1 poin kerusakan per hit. Hambatan air juga menambahkan 3 poin nilai Zirah ke target apa pun. Lihat **Pertarungan Bawah Air** untuk informasi lebih lanjut.
+Dalam pertarungan jarak dekat di bawah air, penyerang menggunakan yang lebih rendah dari peringkat keterampilan tempur atau Berenang mereka untuk menyelesaikan serangan, dan mencoba Menghindar adalah Sulit. Hanya senjata penusuk yang berguna—semua yang lain melakukan 1D3–1 poin kerusakan per hit. Hambatan air juga menambahkan 3 poin nilai Armor ke target apa pun. Lihat **Pertarungan Bawah Air** untuk informasi lebih lanjut.
 
 ### Mengajar
 
@@ -1064,7 +1064,7 @@ Gunakan keterampilan ini untuk mengenai target dengan benda yang dilempar, atau 
 * **Kegagalan:** Objek meleset dan pergi 1D6 meter ke arah acak.
 * **Keberhasilan:** Objek mendarat di tempat yang dituju. Lempar kerusakan secara normal, jika ada.
 * **Khusus:** Objek mendarat di tempat yang dituju dan memberikan jenis kerusakan khusus yang sesuai dengan bentuknya (lihat **Keberhasilan Khusus**).
-* **Kritis:** Objek mendarat di tempat yang dituju dengan hasil yang luar biasa, mengabaikan Zirah dan memberikan kerusakan kritis, jika sesuai.
+* **Kritis:** Objek mendarat di tempat yang dituju dengan hasil yang luar biasa, mengabaikan Armor dan memberikan kerusakan kritis, jika sesuai.
 
 **Catatan Sistem:** Tambahkan 1/2 pengubah kerusakan (bulatkan ke atas) ke kerusakan dasar senjata lempar. Sebagian besar barang dapat dilempar sejauh STR pelempar dalam meter, dan jarak di luar itu adalah Sulit. Objek yang dilempar dapat diarahkan.
 

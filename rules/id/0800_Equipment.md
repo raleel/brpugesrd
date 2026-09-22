@@ -1,6 +1,6 @@
 # 8\. Perlengkapan
 
-Bab ini mencakup segala hal di luar karakter Anda: barang-barang yang dapat mereka miliki dan berinteraksi dengannya, seperti uang, senjata, baju zirah, peralatan, kendaraan, dan lingkungan itu sendiri, baik yang biasa maupun luar biasa. Di sini juga terdapat aturan untuk jenis perlengkapan khusus dan cara menangani perlengkapan dalam permainan.
+Bab ini mencakup segala hal di luar karakter Anda: barang-barang yang dapat mereka miliki dan berinteraksi dengannya, seperti uang, senjata, baju Armor, peralatan, kendaraan, dan lingkungan itu sendiri, baik yang biasa maupun luar biasa. Di sini juga terdapat aturan untuk jenis perlengkapan khusus dan cara menangani perlengkapan dalam permainan.
 
 ## Uang
 
@@ -34,7 +34,7 @@ Atas kebijaksanaan Gamemaster Anda, jika Anda ingin karakter Anda memiliki perle
 > 
 > Kapan suatu perlengkapan perlu dideskripsikan dalam istilah permainan, dibandingkan saat perlengkapan tersebut dapat dianggap sebagai bagian dari latar belakang? Ini adalah masalah detail: kapan efek permainan diperlukan, dan kapan efek tersebut tidak perlu? Meskipun keputusan ini ada pada Gamemaster Anda, tidak ada jawaban yang benar atau salah: hanya tingkat kenyamanan. Idealnya, waktu yang dihabiskan untuk mencari tahu spesifikasi permainan diminimalkan demi memaksimalkan waktu untuk bermain peran dan bertualang.
 > 
-> Bab ini mencakup berbagai jenis perlengkapan, termasuk senjata, baju zirah, dan kendaraan. Idealnya, pedoman ini cukup agar setara dengan beberapa perlengkapan lain yang dapat diturunkan, atau suatu perlengkapan dapat diabstraksikan menjadi pengubah keterampilan yang mudah.
+> Bab ini mencakup berbagai jenis perlengkapan, termasuk senjata, baju Armor, dan kendaraan. Idealnya, pedoman ini cukup agar setara dengan beberapa perlengkapan lain yang dapat diturunkan, atau suatu perlengkapan dapat diabstraksikan menjadi pengubah keterampilan yang mudah.
 
 ### Perlengkapan Awal
 
@@ -168,9 +168,9 @@ Beberapa perlengkapan memiliki nilai karakteristik: baik nilai dalam semua karak
 
 * **Kekuatan (STR):** Barang dengan STR harus memiliki cara untuk bergerak. STR bukanlah ukuran seberapa resisten sesuatu terhadap STR: untuk nilai itu, lihat nilai titik hit atau armornya. Barang dengan STR adalah kendaraan, peralatan konstruksi seperti forklift atau buldoser, robot, atau bahkan pendongkrak hidrolik.
 
-* **Konstitusi (CON):** Barang dengan CON jarang ditemukan—total titik hit biasanya didasarkan pada SIZ mentah dan dimodifikasi oleh nilai Zirah. Kecuali jika dapat pulih atau dipengaruhi oleh penyakit, racun, dll., barang tersebut tidak memerlukan CON. Contoh barang dengan CON adalah android humanoid.
+* **Konstitusi (CON):** Barang dengan CON jarang ditemukan—total titik hit biasanya didasarkan pada SIZ mentah dan dimodifikasi oleh nilai Armor. Kecuali jika dapat pulih atau dipengaruhi oleh penyakit, racun, dll., barang tersebut tidak memerlukan CON. Contoh barang dengan CON adalah android humanoid.
 
-* **Ukuran (SIZ):** SIZ adalah karakteristik utama untuk barang—hampir semuanya memiliki keberadaan fisik dan karena itu memiliki SIZ. Seperti dicatat di atas, untuk sebagian besar perlengkapan, SIZ menentukan nilai titik hit. Terkadang barang akan memiliki titik hit yang lebih besar, berdasarkan bahan pembuatnya. Lihat **Kualitas Umum Objek** untuk lebih lanjut tentang titik hit, nilai Zirah, dan atribut lainnya.
+* **Ukuran (SIZ):** SIZ adalah karakteristik utama untuk barang—hampir semuanya memiliki keberadaan fisik dan karena itu memiliki SIZ. Seperti dicatat di atas, untuk sebagian besar perlengkapan, SIZ menentukan nilai titik hit. Terkadang barang akan memiliki titik hit yang lebih besar, berdasarkan bahan pembuatnya. Lihat **Kualitas Umum Objek** untuk lebih lanjut tentang titik hit, nilai Armor, dan atribut lainnya.
 
 * **Kecerdasan (INT):** Jarang untuk sebuah barang, INT mewakili pemikiran, menyiratkan intuisi dan pemecahan masalah. INT tidak mungkin untuk barang selain komputer atau kecerdasan buatan, tetapi barang sihir mungkin memiliki INT dan kepribadian yang menyertainya. Barang dengan INT idealnya harus memiliki cara untuk berkomunikasi, seperti layar, tampilan, suara, telepati, atau metode lain untuk menyampaikan informasi.
 
@@ -262,11 +262,11 @@ Beberapa artefak memiliki mantra sihir permanen yang terikat di dalamnya yang se
 
 Aturan berikut berlaku untuk gadget:
 
-* Titik hit, SIZ, dll. gadget didasarkan pada barang normal dengan ukuran dan massa yang setara. Jika tidak ada padanan yang jelas, gunakan tabel **Contoh SIZ Objek** dan tabel **Zirah** untuk pedoman. Untuk mengubah ukurannya, gunakan kekuatan Perubahan Ukuran.
+* Titik hit, SIZ, dll. gadget didasarkan pada barang normal dengan ukuran dan massa yang setara. Jika tidak ada padanan yang jelas, gunakan tabel **Contoh SIZ Objek** dan tabel **Armor** untuk pedoman. Untuk mengubah ukurannya, gunakan kekuatan Perubahan Ukuran.
 
 * Jika gadget memerlukan karakteristik (seperti POW untuk poin kekuatan) harus dibangun dengan kekuatan Karakteristik Super.
 * Gadget yang memerlukan sumber tenaga lebih besar dari POW-nya harus memiliki kekuatan Energi Ekstra.
-* Untuk membuat gadget lebih tahan lama daripada barang normal, berikan kekuatan super seperti Penyerapan, Zirah, Titik Hit Ekstra, Medan Kekuatan, dll.
+* Untuk membuat gadget lebih tahan lama daripada barang normal, berikan kekuatan super seperti Penyerapan, Armor, Titik Hit Ekstra, Medan Kekuatan, dll.
 * Kapan pun memungkinkan, gadget harus mengandalkan karakteristiknya sendiri. Jika kekuatan memerlukan lemparan resistensi, karakteristik gadget (jika ada) harus digunakan. Jika gadget tidak memiliki karakteristik yang relevan, gadget tersebut secara otomatis gagal dalam lemparan resistensi.
 * Kapan pun memungkinkan, gadget harus mengandalkan keterampilan pengguna yang relevan.
   **Sebagai contoh,** jika gadget berupa pistol, pistol tersebut harus ditembakkan dengan keterampilan Senjata Api. Jika gadget berupa gelang berkekuatan kosmik yang memungkinkan penggunanya menembakkan ledakan radioaktif, gunakan keterampilan Proyeksi.
@@ -283,9 +283,9 @@ Aturan berikut berlaku untuk gadget:
 
 ### Perlengkapan dengan Persyaratan
 
-Beberapa jenis perlengkapan mungkin memiliki persyaratan yang harus dipenuhi atau dilampaui agar dapat digunakan oleh karakter Anda. Contohnya adalah persenjataan, di mana sebagian besar senjata memiliki persyaratan STR dan DEX minimum. Jenis perlengkapan lain terbatas dengan cara lain, seperti permintaan poin kelelahan yang tinggi dari mengenakan baju zirah, dan penalti keterampilan yang terkait dengannya. Tidak ada perlengkapan dasar di bab ini yang memiliki persyaratan, meskipun Gamemaster Anda dapat dengan mudah memperkenalkan batasan penggunaan barang dengan dua cara yang jelas:
+Beberapa jenis perlengkapan mungkin memiliki persyaratan yang harus dipenuhi atau dilampaui agar dapat digunakan oleh karakter Anda. Contohnya adalah persenjataan, di mana sebagian besar senjata memiliki persyaratan STR dan DEX minimum. Jenis perlengkapan lain terbatas dengan cara lain, seperti permintaan poin kelelahan yang tinggi dari mengenakan baju Armor, dan penalti keterampilan yang terkait dengannya. Tidak ada perlengkapan dasar di bab ini yang memiliki persyaratan, meskipun Gamemaster Anda dapat dengan mudah memperkenalkan batasan penggunaan barang dengan dua cara yang jelas:
 
-* **Karakteristik:** Seperti pada senjata, perlengkapan mungkin dibatasi oleh karakteristik Anda. Biasanya ini adalah STR atau DEX, seperti pada senjata, atau SIZ untuk baju zirah, tetapi bisa juga POW untuk barang magis, INT untuk komputer, atau beberapa batasan minimum (atau maksimum) berbasis karakteristik lainnya.
+* **Karakteristik:** Seperti pada senjata, perlengkapan mungkin dibatasi oleh karakteristik Anda. Biasanya ini adalah STR atau DEX, seperti pada senjata, atau SIZ untuk baju Armor, tetapi bisa juga POW untuk barang magis, INT untuk komputer, atau beberapa batasan minimum (atau maksimum) berbasis karakteristik lainnya.
 
 * **Keterampilan:** Karakter Anda mungkin mendapati bahwa perlengkapan tertentu tidak dapat dipahami atau tidak berguna kecuali keterampilannya pada tingkat tertentu. Biasanya keterampilan mewakili pemahaman tentang perlengkapan tersebut dan prinsip-prinsip yang digunakannya.
 
@@ -295,7 +295,7 @@ Disarankan agar batasan digunakan secukupnya, dan hanya jika ada alasan yang sah
 
 ### Perlengkapan dengan Pengisian atau Penggunaan Terbatas
 
-Banyak jenis perlengkapan dijalankan dengan baterai listrik atau hanya dapat digunakan dalam jumlah waktu terbatas. Dalam kebanyakan kasus, baterai dapat diganti dengan cukup mudah, amunisi diisi ulang, dan sumber daya lain yang diperlukan diisi ulang atau diisi kembali. Sebagian besar senjata api memiliki 'muatan' dalam bentuk amunisi, tetapi jika dirawat dengan baik, pedang atau setelan baju zirah dapat digunakan sampai rusak. Kapan pun memungkinkan, sumber daya yang diperlukan untuk mengisi kembali atau mengisi ulang perlengkapan baik pada dasarnya gratis (seperti listrik atau tenaga surya), atau dua atau tiga tingkat Kekayaan lebih rendah dari biaya perlengkapan tersebut. Jika perangkat pengisi daya diperlukan, perangkat tersebut merupakan bagian dari nilai normal perlengkapan tersebut.
+Banyak jenis perlengkapan dijalankan dengan baterai listrik atau hanya dapat digunakan dalam jumlah waktu terbatas. Dalam kebanyakan kasus, baterai dapat diganti dengan cukup mudah, amunisi diisi ulang, dan sumber daya lain yang diperlukan diisi ulang atau diisi kembali. Sebagian besar senjata api memiliki 'muatan' dalam bentuk amunisi, tetapi jika dirawat dengan baik, pedang atau setelan baju Armor dapat digunakan sampai rusak. Kapan pun memungkinkan, sumber daya yang diperlukan untuk mengisi kembali atau mengisi ulang perlengkapan baik pada dasarnya gratis (seperti listrik atau tenaga surya), atau dua atau tiga tingkat Kekayaan lebih rendah dari biaya perlengkapan tersebut. Jika perangkat pengisi daya diperlukan, perangkat tersebut merupakan bagian dari nilai normal perlengkapan tersebut.
 
 Biasanya paling mudah untuk berasumsi bahwa dengan waktu dan perencanaan yang memadai, karakter Anda memiliki amunisi, baterai, pengisi daya, kartrid, sel daya, dll. yang memadai untuk semua perlengkapan mereka, kecuali jika latar atau keadaan membuat hal ini sulit atau mustahil. Dalam kasus ini, Gamemaster Anda mungkin memerlukan lemparan Riset, Status, atau Keberuntungan untuk menemukan jenis pengisian daya yang relevan. Dalam beberapa latar (pasca-apokaliptik, misalnya) amunisi, bensin, dan/atau sel daya sangat sulit didapat dan biasanya lebih berharga daripada perlengkapan yang digunakannya.
 
@@ -425,7 +425,7 @@ Berikut adalah semua senjata dari tabel senjata jarak dekat dan misil, yang disu
 
 **Garrote:** Tali pendek yang digunakan untuk mencekik, baik kabel logam tipis, tali seremonial, hingga penggunaan improvisasi syal atau ikat pinggang.
 
-**Sarung Tangan, Berlapis Baja (Gauntlet):** Sarung tangan logam yang dipakai dengan atau tanpa baju zirah, menambah kerusakan pada serangan yang berhasil dengan keterampilan Baku Hantam.
+**Sarung Tangan, Berlapis Baja (Gauntlet):** Sarung tangan logam yang dipakai dengan atau tanpa baju Armor, menambah kerusakan pada serangan yang berhasil dengan keterampilan Baku Hantam.
 
 **Bergulat (Grapple):** Serangan tak bersenjata menggunakan keterampilan Bergulat.
 
@@ -475,7 +475,7 @@ Berikut adalah semua senjata dari tabel senjata jarak dekat dan misil, yang disu
 
 **Palu, Godam (Sledge):** Alat berat yang digunakan oleh pekerja konstruksi dan kru pembongkaran, digunakan dengan dua tangan.
 
-**Palu, Perang:** Didesain seperti palu, senjata ini sering memiliki duri alih-alih kepala datar, ideal untuk menembus baju zirah.
+**Palu, Perang:** Didesain seperti palu, senjata ini sering memiliki duri alih-alih kepala datar, ideal untuk menembus baju Armor.
 
 **Tandukan Kepala:** Serangan tak bersenjata menggunakan keterampilan Baku Hantam.
 
@@ -535,7 +535,7 @@ Berikut adalah semua senjata dari tabel senjata jarak dekat dan misil, yang disu
 
 **Pistol, Pulsa Elektromagnetik (EM):** Pistol yang menembakkan aliran pulsa elektromagnetik terarah ke target seperti komputer atau robot, melumpuhkan sirkuitnya.
 
-**Pistol, Flechette:** Pistol kecil ringan yang ditenagai oleh muatan magnet atau gas, menembakkan banyak bilah tajam kecil seperti jarum ke target. Senjata ini umumnya memiliki jangkauan pendek dan tidak terlalu efektif melawan target yang berlapis baju zirah, tetapi sangat menghancurkan musuh yang tidak berlapis baju zirah dalam jarak pendek. Mereka menggunakan klip amunisi flechette dan silinder gas atau klip energi. Terkadang disebut 'senapan jarum'.
+**Pistol, Flechette:** Pistol kecil ringan yang ditenagai oleh muatan magnet atau gas, menembakkan banyak bilah tajam kecil seperti jarum ke target. Senjata ini umumnya memiliki jangkauan pendek dan tidak terlalu efektif melawan target yang berlapis baju Armor, tetapi sangat menghancurkan musuh yang tidak berlapis baju Armor dalam jarak pendek. Mereka menggunakan klip amunisi flechette dan silinder gas atau klip energi. Terkadang disebut 'senapan jarum'.
 
 **Pistol, Flintlock:** Pistol yang menggunakan batu api dan baja untuk menyalakan gumpalan bubuk mesiu yang dipasang dengan tangan. Mirip dengan pistol kunci roda.
 
@@ -796,7 +796,7 @@ Jika menggunakan senjata dengan peringkat keterampilan sementara berhasil dan pe
 | Flail | Flail | 10 | 1D6+dm | 1 | Menghancurkan | Menengah | 1T | 7 | Ya | 7/6 | — | Rata-rata | 2.0 |
 | Flail, Morningstar | Flail | 10 | 1D10+1+dm | 1 | Menghancurkan | Menengah | 2T | 12 | Ya | 11/7 | — | Rata-rata | 2.0 |
 | Garrote | Tangan | 15 | Khusus1 | 1 | — | Pendek | 2T | 1 | Tidak | 8/12 | — | Tidak Mahal | 0.1 |
-| Sarung Tangan, Berlapis Baja | Tangan | 25 | 1D3+1+dm | 1 | Menghancurkan | Pendek | 1T | 7 | Ya | 7/5 | — | Rata-rata | Sesuai Zirah |
+| Sarung Tangan, Berlapis Baja | Tangan | 25 | 1D3+1+dm | 1 | Menghancurkan | Pendek | 1T | 7 | Ya | 7/5 | — | Rata-rata | Sesuai Armor |
 | Halberd | Polearm | 15 | 3D6+dm | 1 | Berdarah | Jauh | 2T | 25 | Ya | 13/9 | — | Rata-rata | 3.0 |
 | Palu | Palu | 25 | 1D6+dm | 1 | Menghancurkan | Menengah | 1T | 15 | Ya | 9/7 | — | Tidak Mahal | 1.5 |
 | Palu, Besar | Palu | 25 | 1D10+3+dm | 1 | Menghancurkan | Jauh | 2T | 15 | Ya | 9/9 | — | Rata-rata | 2.5 |
@@ -936,30 +936,30 @@ Jika menggunakan senjata dengan peringkat keterampilan sementara berhasil dan pe
 | Senapan, Setrum (stun) | Senapan, Energi | 20% | 2D8 stun9 | 1 | Knockback | 50 | 2T | 22 | Tidak | 7/5 | 00 | 24 | Rata-rata | 1.5 |
 
 1. Gulir kerusakan dan pit vs. CON target dalam lemparan resistensi. Jika target kalah, mereka pingsan selama 1D3+1 putaran (lihat **Mengejutkan**).
-2. Nilai Zirah efektif target terhadap senjata ini dibelah dua (bulatkan ke atas).
-3. Jika Anda Kegagalan Mutlak dalam serangan dengan pedang monofilamen, lakukan lemparan Kelincahan Sulit untuk menghindari terkena diri sendiri. Jika gagal, serangan Anda mengenai diri sendiri selain hasil lemparan pada tabel Kegagalan Mutlak senjata jarak dekat. Kerusakan mengabaikan ½ nilai Zirah (bulatkan ke atas).
+2. Nilai Armor efektif target terhadap senjata ini dibelah dua (bulatkan ke atas).
+3. Jika Anda Kegagalan Mutlak dalam serangan dengan pedang monofilamen, lakukan lemparan Kelincahan Sulit untuk menghindari terkena diri sendiri. Jika gagal, serangan Anda mengenai diri sendiri selain hasil lemparan pada tabel Kegagalan Mutlak senjata jarak dekat. Kerusakan mengabaikan ½ nilai Armor (bulatkan ke atas).
 4. Banyak senjata misil memiliki kemampuan tembakan semburan (lihat **Autofire**).
 5. Jika target adalah robot, mesin, atau menggunakan energi elektromagnetik, gulir kerusakan dan lakukan lemparan resistensi vs. CON target. Jika berhasil, perangkat pingsan selama 1D3+1 putaran (lihat **Mengejutkan**). Jika kerusakan lebih tinggi dari titik hit target, target pingsan. Kerusakan dari senjata EMP bersifat sementara, dan titik hit yang hilang dapat dipulihkan dengan lemparan Memperbaiki.
-6. Terhadap musuh dengan Zirah keras (logam, plastik, atau pelat), pistol flechette hanya memberikan ½ kerusakan (bulatkan ke atas).
+6. Terhadap musuh dengan Armor keras (logam, plastik, atau pelat), pistol flechette hanya memberikan ½ kerusakan (bulatkan ke atas).
 7. Pistol flechette menembakkan kluster flechette, baik satu 'tembakan' atau semburan panjang yang mengosongkan magasin. Setiap tembakan adalah serangan tunggal, memberikan 2D4 kerusakan.
-8. Senapan sonik merusak target hidup setiap putaran pertempuran saat berhasil mengenainya. Terhadap target tak hidup, kerusakan per putaran digulir dalam lemparan resistensi vs. CON, nilai Zirah, atau titik hit target (pilihan Gamemaster). Jika target gagal, target hancur atau rusak dan tidak berfungsi.
+8. Senapan sonik merusak target hidup setiap putaran pertempuran saat berhasil mengenainya. Terhadap target tak hidup, kerusakan per putaran digulir dalam lemparan resistensi vs. CON, nilai Armor, atau titik hit target (pilihan Gamemaster). Jika target gagal, target hancur atau rusak dan tidak berfungsi.
 9. Gulir kerusakan dan pit vs. CON target dalam lemparan resistensi. Jika target berhasil, mereka mengambil kerusakan minimum (2) sebagai ganti dari kerusakan yang digulir. Jika target kalah, mereka pingsan selama 1D3+1 putaran (lihat **Mengejutkan**).
 
 > ### Aturan Spot untuk Senjata Api
 > 
 > Bab Tujuh: Aturan Spot mencakup banyak kondisi mengenai senjata api, seperti tembakan otomatis, jangkauan, dll. Berikut adalah aturan penggunaan tambahan. Gamemaster Anda mungkin memilih untuk mengizinkan aturan ini untuk mencakup jenis senjata jarak jauh tambahan, seperti senjata energi atau laser.
 > 
-> #### Baju Zirah dan Senjata Api
+> #### Baju Armor dan Senjata Api
 > 
-> Jenis baju zirah dari periode sebelumnya relatif tidak efektif terhadap senjata dari periode berikutnya; baju zirah ksatria memberikan sedikit perlindungan terhadap senjata api. Baju zirah primitif, kuno, atau abad pertengahan apa pun hanya memiliki setengah nilainya terhadap senjata api (dibulatkan ke atas). Hal yang sama berlaku untuk baju zirah modern versus persenjataan canggih. Baju zirah canggih melindungi dengan nilai penuh terhadap semua senjata. Ringkasnya:
+> Jenis baju Armor dari periode sebelumnya relatif tidak efektif terhadap senjata dari periode berikutnya; baju Armor ksatria memberikan sedikit perlindungan terhadap senjata api. Baju Armor primitif, kuno, atau abad pertengahan apa pun hanya memiliki setengah nilainya terhadap senjata api (dibulatkan ke atas). Hal yang sama berlaku untuk baju Armor modern versus persenjataan canggih. Baju Armor canggih melindungi dengan nilai penuh terhadap semua senjata. Ringkasnya:
 > 
-> * Baju zirah **Primitif atau Kuno** hanya menawarkan ½ perlindungan terhadap senjata berkecepatan tinggi atau senjata energi (bulatkan ke atas).
+> * Baju Armor **Primitif atau Kuno** hanya menawarkan ½ perlindungan terhadap senjata berkecepatan tinggi atau senjata energi (bulatkan ke atas).
 > 
-> * Baju zirah **Modern** menawarkan ½ perlindungan terhadap persenjataan energi (bulatkan ke atas).
+> * Baju Armor **Modern** menawarkan ½ perlindungan terhadap persenjataan energi (bulatkan ke atas).
 > 
-> * Baju zirah **Canggih** menawarkan perlindungan penuh terhadap semua bentuk serangan. Gamemaster Anda mungkin memutuskan bahwa baju zirah canggih hanya melindungi dengan ½ nilai armornya terhadap senjata energi (bulatkan ke atas).
+> * Baju Armor **Canggih** menawarkan perlindungan penuh terhadap semua bentuk serangan. Gamemaster Anda mungkin memutuskan bahwa baju Armor canggih hanya melindungi dengan ½ nilai armornya terhadap senjata energi (bulatkan ke atas).
 > 
-> Jika nilai Zirah ditentukan secara acak, gulir untuk perlindungan baju zirah, terapkan pengubah apa pun, lalu bagi dua, bulatkan ke atas. Beberapa baju zirah sudah menyatakan perbedaan cakupan antara senjata tangan dan senjata berkecepatan tinggi—baju zirah ini tidak perlu dikurangi dua kali. Beberapa jenis monster juga mungkin tahan terhadap senjata api, yang dicatat dalam deskripsinya di Bab Sebelas: Makhluk.
+> Jika nilai Armor ditentukan secara acak, gulir untuk perlindungan baju Armor, terapkan pengubah apa pun, lalu bagi dua, bulatkan ke atas. Beberapa baju Armor sudah menyatakan perbedaan cakupan antara senjata tangan dan senjata berkecepatan tinggi—baju Armor ini tidak perlu dikurangi dua kali. Beberapa jenis monster juga mungkin tahan terhadap senjata api, yang dicatat dalam deskripsinya di Bab Sebelas: Makhluk.
 > 
 > #### Revolver yang Dimuati
 > 
@@ -985,102 +985,102 @@ Jika menggunakan senjata dengan peringkat keterampilan sementara berhasil dan pe
 > 
 > Entri serangan-per-putaran (**Attk**) untuk senjata jarak jauh mengasumsikan bahwa karakter Anda mencoba mengenai target secara langsung, dan melakukan upaya untuk membidik. Jika Anda ingin karakter Anda menyemprot area dengan tembakan, seperti saat memberikan tembakan perlindungan, dan akurasi bukan perhatian utama, Anda dapat menggandakan serangan-per-putaran senjata tersebut, tetapi peluang untuk mengenai dikurangi menjadi 1/5 dari keterampilan karakter Anda (setara dengan peluang keberhasilan khusus, meskipun hasilnya adalah keberhasilan normal). Jika ada lebih dari satu target, Gamemaster Anda harus menentukan secara acak siapa yang terkena. Atas kebijaksanaan Gamemaster Anda, jika karakter Anda siap, dilengkapi dengan bidikan laser atau perangkat penargetan yang setara, dan memiliki keterampilan senjata di atas 60%, peluang untuk mengenai tidak dimodifikasi.
 
-## Baju Zirah
+## Baju Armor
 
-Pada tingkat dasar, baju zirah adalah pakaian yang diperkeras. Bergantung pada latarnya, baju zirah terbuat dari kulit, logam, plastik, atau kombinasi bahan-bahan ini, dan dikenakan untuk memiliki sesuatu yang melindungi antara diri sendiri dan sumber bahaya. Baju zirah lebih berat daripada pakaian normal dan sering kali tidak nyaman serta canggung untuk dikenakan. Jika karakter Anda adalah seorang pejuang, mereka kemungkinan akan lebih nyaman dengan baju zirah daripada orang biasa, meskipun mengenakan baju zirah jarang lebih nyaman daripada tidak mengenakannya.
+Pada tingkat dasar, baju Armor adalah pakaian yang diperkeras. Bergantung pada latarnya, baju Armor terbuat dari kulit, logam, plastik, atau kombinasi bahan-bahan ini, dan dikenakan untuk memiliki sesuatu yang melindungi antara diri sendiri dan sumber bahaya. Baju Armor lebih berat daripada pakaian normal dan sering kali tidak nyaman serta canggung untuk dikenakan. Jika karakter Anda adalah seorang pejuang, mereka kemungkinan akan lebih nyaman dengan baju Armor daripada orang biasa, meskipun mengenakan baju Armor jarang lebih nyaman daripada tidak mengenakannya.
 
-Baju zirah yang dijelaskan di bagian ini dikategorikan secara longgar secara kronologis, untuk referensi. Dalam kebanyakan kasus, baju zirah dari periode sebelumnya tersedia di periode berikutnya, jadi Gamemaster Anda mungkin memilih di mana ketersediaan baju zirah berhenti dan memungkinkan karakter Anda mengakses jenis-jenis sebelumnya.
+Baju Armor yang dijelaskan di bagian ini dikategorikan secara longgar secara kronologis, untuk referensi. Dalam kebanyakan kasus, baju Armor dari periode sebelumnya tersedia di periode berikutnya, jadi Gamemaster Anda mungkin memilih di mana ketersediaan baju Armor berhenti dan memungkinkan karakter Anda mengakses jenis-jenis sebelumnya.
 
-Setiap jenis baju zirah memiliki atribut berikut:
+Setiap jenis baju Armor memiliki atribut berikut:
 
 * **Nama**: Nama umum.
 
-* **AV**: Nilai Zirah, jumlah yang dilindungi baju zirah.
+* **AV**: Nilai Armor, jumlah yang dilindungi baju Armor.
 
-* **AV Acak**: (Opsi) Ini adalah nilai Zirah jika nilai Zirah acak digunakan.
+* **AV Acak**: (Opsi) Ini adalah nilai Armor jika nilai Armor acak digunakan.
 
-* **Beban (Burden)**: Kecanggungan atau beban relatif Zirah. Gamemaster Anda mungkin menggunakan nilai ini dengan sistem kelelahan opsional.
+* **Beban (Burden)**: Kecanggungan atau beban relatif Armor. Gamemaster Anda mungkin menggunakan nilai ini dengan sistem kelelahan opsional.
 
 * **ENC**: Nilai ini untuk karakter dengan SIZ rata-rata (11–15). Untuk SIZ 6–10, kalikan nilai ENC dengan .8; untuk SIZ 16–20 kalikan nilai dengan 1.2; untuk SIZ 21–25 kalikan dengan 1.4, dst. (bulatkan ke atas)
 
-* **Pengubah Keterampilan**: Pengubah terhadap keterampilan atau kategori keterampilan tertentu saat baju zirah dikenakan, juga diterapkan pada keterampilan yang sesuai.
+* **Pengubah Keterampilan**: Pengubah terhadap keterampilan atau kategori keterampilan tertentu saat baju Armor dikenakan, juga diterapkan pada keterampilan yang sesuai.
 
-* **Fits SIZ**: Varians yang dapat ditampung oleh SIZ default baju zirah, dinyatakan sebagai nilai positif atau negatif.
+* **Fits SIZ**: Varians yang dapat ditampung oleh SIZ default baju Armor, dinyatakan sebagai nilai positif atau negatif.
 
-* **Waktu**: Berapa putaran pertempuran yang dibutuhkan untuk mengenakan baju zirah.
+* **Waktu**: Berapa putaran pertempuran yang dibutuhkan untuk mengenakan baju Armor.
 
-* **Lokasi**: (Opsi) Jika lokasi hit digunakan, lokasi hit yang dicakup oleh baju zirah.
+* **Lokasi**: (Opsi) Jika lokasi hit digunakan, lokasi hit yang dicakup oleh baju Armor.
 
-* **Nilai**: Biaya baju zirah dalam latar rata-rata.
+* **Nilai**: Biaya baju Armor dalam latar rata-rata.
 
-Tidak seperti senjata dan perisai, baju zirah umumnya tidak mengalami kerusakan, kecuali oleh faktor lingkungan. Baju zirah dirancang untuk pertahanan; baju zirah dapat menahan banyak gempuran. Nilai Zirah tidak pernah berkurang melalui kerusakan dalam pertempuran—sebagai gantinya, setiap perubahan pada nilai Zirah harus berasal dari peristiwa luar biasa.
+Tidak seperti senjata dan perisai, baju Armor umumnya tidak mengalami kerusakan, kecuali oleh faktor lingkungan. Baju Armor dirancang untuk pertahanan; baju Armor dapat menahan banyak gempuran. Nilai Armor tidak pernah berkurang melalui kerusakan dalam pertempuran—sebagai gantinya, setiap perubahan pada nilai Armor harus berasal dari peristiwa luar biasa.
 
-### Deskripsi Baju Zirah
+### Deskripsi Baju Armor
 
-Bagian ini menjelaskan semua jenis baju zirah, sesuai abjad.
+Bagian ini menjelaskan semua jenis baju Armor, sesuai abjad.
 
-**Jala Adaptif (Adaptive Mesh):** Kain berteknologi tinggi ini mengeras dan bereaksi terhadap benturan, tetapi tetap lentur dan nyaman di waktu lainnya. Biasanya dikenakan sebagai setelan tubuh, dapat dilapisi di bawah baju zirah lain.
+**Jala Adaptif (Adaptive Mesh):** Kain berteknologi tinggi ini mengeras dan bereaksi terhadap benturan, tetapi tetap lentur dan nyaman di waktu lainnya. Biasanya dikenakan sebagai setelan tubuh, dapat dilapisi di bawah baju Armor lain.
 
-**Baju Zirah Serbu, Ringan:** Baju zirah ringan yang digunakan oleh tentara untuk menahan senjata jarak dekat, proyektil padat, serta melawan senjata energi. Terbuat dari keramik, paduan, atau plastik tahan benturan.
+**Baju Armor Serbu, Ringan:** Baju Armor ringan yang digunakan oleh tentara untuk menahan senjata jarak dekat, proyektil padat, serta melawan senjata energi. Terbuat dari keramik, paduan, atau plastik tahan benturan.
 
-**Baju Zirah Serbu, Standar:** Baju zirah berat, dibuat untuk pertempuran di lingkungan berbahaya. Terbuat dari keramik, paduan, atau plastik tahan benturan, baju zirah serbu memberikan perlindungan dari kepala hingga kaki dan disukai oleh militer.
+**Baju Armor Serbu, Standar:** Baju Armor berat, dibuat untuk pertempuran di lingkungan berbahaya. Terbuat dari keramik, paduan, atau plastik tahan benturan, baju Armor serbu memberikan perlindungan dari kepala hingga kaki dan disukai oleh militer.
 
-**Baju Zirah Serbu (Berat), Bertenaga:** Mirip dengan baju zirah serbu standar tetapi lebih masif dan dengan pelat pelindung yang lebih tebal. Motor servo internal meningkatkan kekuatan pemakainya. Petarung dengan baju zirah serbu berat bertenaga sering kali menggunakan senjata besar. Rangkanya menerima peningkatan modular (seperti jetpack) dan tertutup rapat terhadap senjata kimia serta ruang hampa udara.
+**Baju Armor Serbu (Berat), Bertenaga:** Mirip dengan baju Armor serbu standar tetapi lebih masif dan dengan pelat pelindung yang lebih tebal. Motor servo internal meningkatkan kekuatan pemakainya. Petarung dengan baju Armor serbu berat bertenaga sering kali menggunakan senjata besar. Rangkanya menerima peningkatan modular (seperti jetpack) dan tertutup rapat terhadap senjata kimia serta ruang hampa udara.
 
-**Baju Zirah Serbu (Ringan), Bertenaga:** Mirip dengan baju zirah serbu berat bertenaga, tetapi lebih ringan dan kekurangan perlengkapan tambahan seperti sistem tertutup.
+**Baju Armor Serbu (Ringan), Bertenaga:** Mirip dengan baju Armor serbu berat bertenaga, tetapi lebih ringan dan kekurangan perlengkapan tambahan seperti sistem tertutup.
 
-**Kain Balistik:** Terbuat dari serat aramid, baju zirah kain balistik memberikan perlindungan moderat terhadap peluru, meskipun tidak sebanyak rompi anti peluru. Biasanya dikenakan di bawah pakaian jalanan atau dibuat menyerupai pakaian normal.
+**Kain Balistik:** Terbuat dari serat aramid, baju Armor kain balistik memberikan perlindungan moderat terhadap peluru, meskipun tidak sebanyak rompi anti peluru. Biasanya dikenakan di bawah pakaian jalanan atau dibuat menyerupai pakaian normal.
 
 **Rompi Anti Peluru, Awal:** Varian lama dari rompi anti peluru, berat dan merepotkan, dengan pelat logam tebal dalam rompi kanvas tersegmentasi.
 
 **Rompi Anti Peluru, Modern:** Evolusi dari rompi anti peluru, menggunakan paduan logam dan plastik tahan benturan untuk bentuk perlindungan yang lebih ringan dan tipis.
 
-**Rantai:** Baju zirah ini terdiri dari jala yang terbuat dari jalinan mata rantai logam. Sangat fleksibel, tetapi cukup berat.
+**Rantai:** Baju Armor ini terdiri dari jala yang terbuat dari jalinan mata rantai logam. Sangat fleksibel, tetapi cukup berat.
 
 **Pakaian, Berat:** Setara dengan mengenakan jubah berat, jaket musim dingin, pakaian kulit ketat, atau beberapa lapis pakaian.
 
-**Baju Zirah Energi:** Baju zirah ini terdiri dari paket tenaga internal yang dikenakan di sabuk atau disampirkan di punggung, di antara bahu, dan mungkin terhubung ke pemancar yang didistribusikan ke seluruh tubuh. Saat diaktifkan, baju zirah ini menyelimuti karakter dengan selubung energi pelindung.
+**Baju Armor Energi:** Baju Armor ini terdiri dari paket tenaga internal yang dikenakan di sabuk atau disampirkan di punggung, di antara bahu, dan mungkin terhubung ke pemancar yang didistribusikan ke seluruh tubuh. Saat diaktifkan, baju Armor ini menyelimuti karakter dengan selubung energi pelindung.
 
 **Jaket Flak:** Jaket penuh yang mirip dengan rompi anti peluru awal, meskipun kurang dilapisi pelindung, berguna untuk pilot dan pasukan darat.
 
-**Helm, Berat atau Ringan:** Hampir semua jenis baju zirah ini memiliki helm. Setelan baju zirah penuh biasanya mencakup helm. Jika helm tidak dikenakan, kurangi nilai Zirah sebesar –1 untuk helm ringan, dan –2 untuk helm berat. Jika menggunakan nilai Zirah acak, ubah jangkauan sebesar –1 atau –2, sebagaimana mestinya. Jika lokasi hit digunakan, helm memiliki nilai pelindung yang sama dengan lengan atau kaki dari bahan baju zirah yang relevan.
+**Helm, Berat atau Ringan:** Hampir semua jenis baju Armor ini memiliki helm. Setelan baju Armor penuh biasanya mencakup helm. Jika helm tidak dikenakan, kurangi nilai Armor sebesar –1 untuk helm ringan, dan –2 untuk helm berat. Jika menggunakan nilai Armor acak, ubah jangkauan sebesar –1 atau –2, sebagaimana mestinya. Jika lokasi hit digunakan, helm memiliki nilai pelindung yang sama dengan lengan atau kaki dari bahan baju Armor yang relevan.
 
 **Kulit Binatang (Hide):** Lapisan bulu hewan yang disamak atau tidak disamak, dikenakan sebagai jubah atau pakaian, dengan bulu utuh.
 
-**Lamellar (Bertabur, Terbelah):** Baju zirah ini terdiri dari strip logam tipis (splint) yang biasanya dipasang pada lapisan kulit dengan paku keling (studs).
+**Lamellar (Bertabur, Terbelah):** Baju Armor ini terdiri dari strip logam tipis (splint) yang biasanya dipasang pada lapisan kulit dengan paku keling (studs).
 
-**Kulit, Lembut:** Setara dengan jaket atau rompi kulit, kulit lembut sering dikenakan di bawah baju zirah lain sebagai bantalan dan perlindungan tambahan.
+**Kulit, Lembut:** Setara dengan jaket atau rompi kulit, kulit lembut sering dikenakan di bawah baju Armor lain sebagai bantalan dan perlindungan tambahan.
 
 **Kulit, Keras:** Setara dengan setengah sentimeter kulit yang diawetkan, kira-kira setebal sol sepatu formal. Mungkin memiliki kancing kulit atau karya timbul.
 
 **Kulit, Cuirbouilli:** Kulit tebal dan semikaku yang telah diawetkan dan direbus dalam minyak dan lilin, lalu dibentuk sesuai dengan bentuk pemakainya. Sering kali dihiasi dan diwarnai dengan warna-warni.
 
-**Berbantalan/Diselimuti:** Baju zirah ini terdiri dari lapisan kain tebal yang kaku, dijahit bersama seolah-olah bantalan atau selimut. Murah dan mudah dibuat, tidak menawarkan banyak perlindungan, meskipun dapat dikenakan di bawah baju zirah logam seperti halfplate dan rantai.
+**Berbantalan/Diselimuti:** Baju Armor ini terdiri dari lapisan kain tebal yang kaku, dijahit bersama seolah-olah bantalan atau selimut. Murah dan mudah dibuat, tidak menawarkan banyak perlindungan, meskipun dapat dikenakan di bawah baju Armor logam seperti halfplate dan rantai.
 
-**Berbantalan/Diselimuti, Berat:** Mirip dengan baju zirah berbantalan atau diselimuti, tetapi lebih berat dan lebih tebal.
+**Berbantalan/Diselimuti, Berat:** Mirip dengan baju Armor berbantalan atau diselimuti, tetapi lebih berat dan lebih tebal.
 
-**Pelat, Setengah:** Baju zirah ini terdiri dari setelan pelat parsial (lihat di bawah) yang tidak menutupi seluruh tubuh. Biasanya, berupa pelat dada, helm, dan beberapa bagian kecil lainnya, dengan rantai yang menutupi sisanya.
+**Pelat, Setengah:** Baju Armor ini terdiri dari setelan pelat parsial (lihat di bawah) yang tidak menutupi seluruh tubuh. Biasanya, berupa pelat dada, helm, dan beberapa bagian kecil lainnya, dengan rantai yang menutupi sisanya.
 
-**Pelat, Penuh:** Baju zirah ini terdiri dari pelat logam padat, dibentuk ke tubuh dan disatukan dengan tali kulit yang tertutup. Secara historis, ini lebih unggul dari jenis baju zirah lainnya, tetapi konstruksi semua logam membuatnya menjadi yang terberat dan paling tidak nyaman.
+**Pelat, Penuh:** Baju Armor ini terdiri dari pelat logam padat, dibentuk ke tubuh dan disatukan dengan tali kulit yang tertutup. Secara historis, ini lebih unggul dari jenis baju Armor lainnya, tetapi konstruksi semua logam membuatnya menjadi yang terberat dan paling tidak nyaman.
 
-**Cincin:** Baju zirah ini adalah kulit lembut atau lapisan lain dengan cincin logam yang dijahit di atasnya dalam pola tertutup atau tumpang tindih.
+**Cincin:** Baju Armor ini adalah kulit lembut atau lapisan lain dengan cincin logam yang dijahit di atasnya dalam pola tertutup atau tumpang tindih.
 
 **Perlengkapan Huru-hara:** Jaket anti peluru berat dan pakaian terusan yang diperkeras, dengan pelat di bagian tubuh strategis dan helm.
 
-**Skala:** Baju zirah skala (terkadang disebut surat skala) terdiri dari sisik logam tumpang tindih dari berbagai bentuk dan ukuran yang diikat ke lapisan belakang.
+**Skala:** Baju Armor skala (terkadang disebut surat skala) terdiri dari sisik logam tumpang tindih dari berbagai bentuk dan ukuran yang diikat ke lapisan belakang.
 
 **Splint:** Lihat deskripsi untuk lamellar.
 
 **Bertabur:** Lihat deskripsi untuk lamellar.
 
-##### Baju Zirah Primitif
+##### Baju Armor Primitif
 
 | Nama | AV | AV Acak | Beban | ENC | Pengubah Keterampilan | Fits SIZ | Waktu | Lokasi | Nilai |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Helm | +1 | +1 poin | Ringan | 0.5 | –5% ke keterampilan Persepsi | ±1 | 1 | Kepala | Murah |
 | Kulit Binatang | 1 | 1D3–1 | Ringan | 3.5 | Tidak ada | ±3 | 1 | Semua | Murah |
 
-##### Baju Zirah Kuno dan Abad Pertengahan
+##### Baju Armor Kuno dan Abad Pertengahan
 
 | Nama | AV | AV Acak | Beban | ENC | Pengubah Keterampilan | Fits SIZ | Waktu | Lokasi | Nilai |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1099,7 +1099,7 @@ Bagian ini menjelaskan semua jenis baju zirah, sesuai abjad.
 | Cincin | 5 | 1D6 | Ringan | 10.0 | –10% ke keterampilan Fisik | ±1 | 2 | Semua kecuali kepala | Rata-rata |
 | Skala | 6 | 2D4–1 | Sedang | 20.0 | –15% ke keterampilan Fisik | ±1 | 2 | Semua kecuali kepala | Rata-rata |
 
-##### Baju Zirah Modern
+##### Baju Armor Modern
 
 | Nama | AV | AV Acak | Beban | ENC | Pengubah Keterampilan | Fits SIZ | Waktu | Lokasi | Nilai |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1115,32 +1115,32 @@ Bagian ini menjelaskan semua jenis baju zirah, sesuai abjad.
 1. Nilai pertama adalah vs. senjata jarak dekat atau senjata misil berkecepatan rendah; nilai kedua adalah vs. senjata api.
 2. Termasuk helm.
 
-##### Baju Zirah Canggih
+##### Baju Armor Canggih
 
 | Nama | AV | AV Acak | Beban | ENC | Pengubah Keterampilan | Fits SIZ | Waktu | Lokasi | Nilai |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Jala Adaptif | 6 | 1D4+2 | Ringan | 2.0 | –5% ke keterampilan Fisik | ±1 | 1 | Semua | Mahal |
-| Baju Zirah Serbu, Ringan | 8 | 2D6 | Sedang | 12.0 | –10% ke keterampilan Fisik | ±1 | 2 | Semua1 | Mahal |
-| Baju Zirah Serbu | 10 | 2D4+2 | Sedang | 16.0 | –25% ke keterampilan Fisik | ±1 | 3 | Semua1 | Mahal |
-| Baju Zirah Energi | 1–202 | —2 | Ringan | 4.0 | –5% ke keterampilan Sembunyi, Senyap, dan Persepsi per AV | Apa saja | 2 | Semua3 | Mahal |
+| Baju Armor Serbu, Ringan | 8 | 2D6 | Sedang | 12.0 | –10% ke keterampilan Fisik | ±1 | 2 | Semua1 | Mahal |
+| Baju Armor Serbu | 10 | 2D4+2 | Sedang | 16.0 | –25% ke keterampilan Fisik | ±1 | 3 | Semua1 | Mahal |
+| Baju Armor Energi | 1–202 | —2 | Ringan | 4.0 | –5% ke keterampilan Sembunyi, Senyap, dan Persepsi per AV | Apa saja | 2 | Semua3 | Mahal |
 | Helm, Berat | +4 | +4 | Ringan | 5.0 | –15% ke keterampilan Persepsi | ±1 | 1 | Kepala | Rata-rata |
 | Helm, Ringan | +3 | +2 | Tidak ada | 2.0 | –5% ke keterampilan Persepsi | ±2 | 1 | Kepala | Rata-rata |
-| Baju Zirah Serbu Bertenaga, Ringan4 | 14 | 2D6+2 | Merepotkan | 36.0 | –20% ke keterampilan Fisik dan Manipulasi | ±1 | 4 | Semua | Tak Ternilai |
-| Baju Zirah Serbu Bertenaga, Berat5 | 16 | 4D4 | Merepotkan | 48.0 | –50% ke keterampilan Fisik dan Manipulasi | ±1 | 5 | Semua | Tak Ternilai |
+| Baju Armor Serbu Bertenaga, Ringan4 | 14 | 2D6+2 | Merepotkan | 36.0 | –20% ke keterampilan Fisik dan Manipulasi | ±1 | 4 | Semua | Tak Ternilai |
+| Baju Armor Serbu Bertenaga, Berat5 | 16 | 4D4 | Merepotkan | 48.0 | –50% ke keterampilan Fisik dan Manipulasi | ±1 | 5 | Semua | Tak Ternilai |
 
 1. Termasuk helm.
-2. Baju zirah energi dapat diatur oleh pemakainya ke nilai berapa pun antara 1 dan 20 poin AV. Setiap putaran pertempuran baju zirah menghabiskan muatan (poin kekuatan) sebesar AV-nya. Pasokan daya baju zirah standar menampung 200 muatan; setiap poin kerusakan yang diserap memakan 1 muatan tambahan. Baju zirah energi tidak mengizinkan nilai Zirah acak; gunakan AV yang ditetapkan. Memerlukan 5 peringkat DEX untuk menyesuaikan AV.
-3. Tidak dapat dikenakan dengan baju zirah lain.
-4. Baju zirah serbu bertenaga ringan memodifikasi STR sebesar +3 dan DEX sebesar –3 (sesuaikan nilai relevan saat dikenakan). Baju zirah termasuk helm.
-5. Baju zirah serbu bertenaga berat memodifikasi STR sebesar +6 dan DEX sebesar –6 (sesuaikan nilai relevan saat dikenakan). Baju zirah termasuk helm.
+2. Baju Armor energi dapat diatur oleh pemakainya ke nilai berapa pun antara 1 dan 20 poin AV. Setiap putaran pertempuran baju Armor menghabiskan muatan (poin kekuatan) sebesar AV-nya. Pasokan daya baju Armor standar menampung 200 muatan; setiap poin kerusakan yang diserap memakan 1 muatan tambahan. Baju Armor energi tidak mengizinkan nilai Armor acak; gunakan AV yang ditetapkan. Memerlukan 5 peringkat DEX untuk menyesuaikan AV.
+3. Tidak dapat dikenakan dengan baju Armor lain.
+4. Baju Armor serbu bertenaga ringan memodifikasi STR sebesar +3 dan DEX sebesar –3 (sesuaikan nilai relevan saat dikenakan). Baju Armor termasuk helm.
+5. Baju Armor serbu bertenaga berat memodifikasi STR sebesar +6 dan DEX sebesar –6 (sesuaikan nilai relevan saat dikenakan). Baju Armor termasuk helm.
 
-> ### Aturan khusus untuk Baju Zirah
+> ### Aturan khusus untuk Baju Armor
 > 
-> Aturan berikut berlaku untuk berbagai situasi yang melibatkan baju zirah.
+> Aturan berikut berlaku untuk berbagai situasi yang melibatkan baju Armor.
 > 
-> #### Beban Baju Zirah
+> #### Beban Baju Armor
 > 
-> Beban baju zirah (ENC) bergantung pada SIZ karakter yang mengenakannya. SIZ karakter menentukan SIZ baju zirah dalam kebanyakan kasus. Setiap kenaikan +5 SIZ menambah ENC baju zirah, yang menjadi lebih berat, lebih panas, lebih canggung untuk dikenakan, dst. SIZ antara 11–15 adalah standar. Setiap kenaikan 5 poin SIZ di bawah rentang tersebut adalah 1/5 lebih tidak membebani. Nilai ENC berikut dapat digunakan untuk lokasi hit.
+> Beban baju Armor (ENC) bergantung pada SIZ karakter yang mengenakannya. SIZ karakter menentukan SIZ baju Armor dalam kebanyakan kasus. Setiap kenaikan +5 SIZ menambah ENC baju Armor, yang menjadi lebih berat, lebih panas, lebih canggung untuk dikenakan, dst. SIZ antara 11–15 adalah standar. Setiap kenaikan 5 poin SIZ di bawah rentang tersebut adalah 1/5 lebih tidak membebani. Nilai ENC berikut dapat digunakan untuk lokasi hit.
 > 
 > | Lokasi Hit | Fraksi dari Total ENC |
 > | :---- | :---- |
@@ -1150,37 +1150,37 @@ Bagian ini menjelaskan semua jenis baju zirah, sesuai abjad.
 > | Perut | 1/10 |
 > | Kaki | 1/5 masing-masing |
 > 
-> #### Melapisi Baju Zirah
+> #### Melapisi Baju Armor
 > 
-> Dimungkinkan untuk mengenakan baju zirah lunak di bawah atau di atas baju zirah keras untuk memberikan perlindungan tambahan. Hanya baju zirah lunak dan lentur seperti kain berat, berbantalan, atau kulit lunak yang dapat dengan mudah dikenakan berlapis dengan bentuk baju zirah lainnya, dan baju zirah tersebut menambahkan nilai Zirah normal mereka serta nilai ENC mereka. Saat mencoba menumpuk apa pun selain baju zirah lunak dengan yang keras, jumlahkan nilai Zirah tetapi lipat tiga ENC dari baju zirah yang lebih rendah.
+> Dimungkinkan untuk mengenakan baju Armor lunak di bawah atau di atas baju Armor keras untuk memberikan perlindungan tambahan. Hanya baju Armor lunak dan lentur seperti kain berat, berbantalan, atau kulit lunak yang dapat dengan mudah dikenakan berlapis dengan bentuk baju Armor lainnya, dan baju Armor tersebut menambahkan nilai Armor normal mereka serta nilai ENC mereka. Saat mencoba menumpuk apa pun selain baju Armor lunak dengan yang keras, jumlahkan nilai Armor tetapi lipat tiga ENC dari baju Armor yang lebih rendah.
 > 
-> #### Mengenakan Baju Zirah
+> #### Mengenakan Baju Armor
 > 
-> Beberapa jenis baju zirah lebih rumit untuk dikenakan daripada pakaian sehari-hari. Ada tali dan gesper untuk diikat, beberapa bagian untuk dikenakan, dan mungkin ada beberapa lapisan. Dibutuhkan satu putaran pertempuran untuk setiap poin perlindungan yang ditawarkan setelan baju zirah untuk mengenakannya, dengan asumsi bahwa karakter Anda siap, baju zirah telah disiapkan, dan tidak ada elemen lingkungan yang berbahaya atau mengganggu. Gamemaster Anda dapat menambah waktu yang dibutuhkan jika sebelumnya terganggu atau tidur, atau dalam keadaan yang menantang (berlari, terluka parah, kegelapan, di bawah air, berkuda, dll.). Ini mungkin memerlukan lemparan Kelincahan atau Ide jika cukup terganggu atau tidak nyaman.
+> Beberapa jenis baju Armor lebih rumit untuk dikenakan daripada pakaian sehari-hari. Ada tali dan gesper untuk diikat, beberapa bagian untuk dikenakan, dan mungkin ada beberapa lapisan. Dibutuhkan satu putaran pertempuran untuk setiap poin perlindungan yang ditawarkan setelan baju Armor untuk mengenakannya, dengan asumsi bahwa karakter Anda siap, baju Armor telah disiapkan, dan tidak ada elemen lingkungan yang berbahaya atau mengganggu. Gamemaster Anda dapat menambah waktu yang dibutuhkan jika sebelumnya terganggu atau tidur, atau dalam keadaan yang menantang (berlari, terluka parah, kegelapan, di bawah air, berkuda, dll.). Ini mungkin memerlukan lemparan Kelincahan atau Ide jika cukup terganggu atau tidak nyaman.
 > 
-> #### Melepas Baju Zirah
+> #### Melepas Baju Armor
 > 
-> Melepas baju zirah jauh lebih mudah daripada mengenakannya, karena karakter Anda tidak perlu memastikan setiap bagian diatur dengan benar sebelum mengenakan bagian berikutnya. Karakter Anda dapat melepas 3 nilai Zirah per putaran pertempuran (bulatkan ke atas) jika bergerak cepat. Lemparan Kelincahan yang berhasil meningkatkan ini menjadi 4 nilai Zirah per putaran pertempuran. Gunakan nilai maksimum baju zirah jika menggunakan nilai Zirah acak.
+> Melepas baju Armor jauh lebih mudah daripada mengenakannya, karena karakter Anda tidak perlu memastikan setiap bagian diatur dengan benar sebelum mengenakan bagian berikutnya. Karakter Anda dapat melepas 3 nilai Armor per putaran pertempuran (bulatkan ke atas) jika bergerak cepat. Lemparan Kelincahan yang berhasil meningkatkan ini menjadi 4 nilai Armor per putaran pertempuran. Gunakan nilai maksimum baju Armor jika menggunakan nilai Armor acak.
 
 
-> ### Baju Zirah berdasarkan Lokasi Hit (Opsi)
+> ### Baju Armor berdasarkan Lokasi Hit (Opsi)
 > 
-> Jika menggunakan sistem lokasi hit, Anda mungkin ingin tingkat granularitas yang lebih baik dalam bagaimana karakter Anda dipersenjatai. Setiap jenis baju zirah dalam tabel baju zirah mencantumkan lokasi hit yang dicakupnya. Karakter Anda dapat memvariasikan jenis baju zirah yang mereka kenakan pada setiap lokasi hit, menggunakan jenis apa pun yang mencakup lokasi tersebut. Setiap jenis baju zirah yang dikenakan mungkin memiliki nilai Zirah yang berbeda.
+> Jika menggunakan sistem lokasi hit, Anda mungkin ingin tingkat granularitas yang lebih baik dalam bagaimana karakter Anda dipersenjatai. Setiap jenis baju Armor dalam tabel baju Armor mencantumkan lokasi hit yang dicakupnya. Karakter Anda dapat memvariasikan jenis baju Armor yang mereka kenakan pada setiap lokasi hit, menggunakan jenis apa pun yang mencakup lokasi tersebut. Setiap jenis baju Armor yang dikenakan mungkin memiliki nilai Armor yang berbeda.
 > 
-> * Untuk menentukan nilai Zirah setiap bagian, gunakan nilai Zirah dari bagan baju zirah.
+> * Untuk menentukan nilai Armor setiap bagian, gunakan nilai Armor dari bagan baju Armor.
 > * Beban adalah beban bagian yang dikenakan pada dada, perut, atau kaki, menggunakan yang terberat jika ini berbeda.
 > * Gunakan pengubah keterampilan dari bagian terberat yang dikenakan pada dada, perut, atau kaki. Helm memiliki pengubah yang sama.
-> * Dibutuhkan satu putaran pertempuran per 5 poin nilai Zirah (bulatkan ke atas) untuk mengenakan bagian baju zirah secara individu.
+> * Dibutuhkan satu putaran pertempuran per 5 poin nilai Armor (bulatkan ke atas) untuk mengenakan bagian baju Armor secara individu.
 > 
-> Gamemaster Anda mungkin memutuskan bahwa beberapa jenis baju zirah tidak dapat digunakan secara terpisah, seperti sebagian besar jenis baju zirah modern atau canggih. Baju zirah berdasarkan lokasi hit tidak disarankan dengan sistem nilai Zirah acak.
+> Gamemaster Anda mungkin memutuskan bahwa beberapa jenis baju Armor tidak dapat digunakan secara terpisah, seperti sebagian besar jenis baju Armor modern atau canggih. Baju Armor berdasarkan lokasi hit tidak disarankan dengan sistem nilai Armor acak.
 > 
-> Gunakan aturan untuk **Baju Zirah berdasarkan Lokasi Hit** dan **Melapisi Baju Zirah** saat menggunakan baju zirah berdasarkan lokasi hit.
+> Gunakan aturan untuk **Baju Armor berdasarkan Lokasi Hit** dan **Melapisi Baju Armor** saat menggunakan baju Armor berdasarkan lokasi hit.
 > 
 > #### Helm
 > 
-> Tabel baju zirah menjelaskan helm sebagai bonus untuk nilai Zirah. Saat menggunakan baju zirah berdasarkan lokasi hit, helm memiliki nilai armornya sendiri. Gunakan nilai berikut untuk helm:
+> Tabel baju Armor menjelaskan helm sebagai bonus untuk nilai Armor. Saat menggunakan baju Armor berdasarkan lokasi hit, helm memiliki nilai armornya sendiri. Gunakan nilai berikut untuk helm:
 > 
-> | Jenis | Nilai Zirah |
+> | Jenis | Nilai Armor |
 > | :---- | :---- |
 > | Helm (Primitif) | 2 |
 > | Helm, Berat (Kuno dan Abad Pertengahan) | 8 |
@@ -1206,7 +1206,7 @@ Setiap jenis perisai memiliki atribut berikut:
 
 * **Keterampilan:** Keterampilan yang digunakan untuk perisai tersebut.
 
-* **AV/HP:** Ini adalah nilai titik Zirah perisai serta titik hitnya. Jumlah ini digunakan jika perisai rusak atau ditargetkan. Lihat Perisai yang Disampirkan (berikutnya) untuk perincian.
+* **AV/HP:** Ini adalah nilai titik Armor perisai serta titik hitnya. Jumlah ini digunakan jika perisai rusak atau ditargetkan. Lihat Perisai yang Disampirkan (berikutnya) untuk perincian.
 
 * **Kerusakan:** Jumlah kerusakan yang ditimbulkan perisai jika digunakan sebagai senjata.
 
@@ -1228,9 +1228,9 @@ Setiap jenis perisai dijelaskan dalam **Deskripsi Perisai**.
 
 ### Perisai yang Disampirkan
 
-Biasanya perisai dikenakan dengan cara disampirkan di lengan/bahu atau punggung saat tidak digunakan secara aktif dalam pertempuran. Jika Gamemaster Anda menggunakan sistem lokasi hit, tambahkan 1/2 nilai Zirah perisai yang disampirkan (bulatkan ke atas) ke lokasi hit mana pun yang terkena senjata, selain nilai Zirah yang sudah ada di lokasi tersebut. Dari perisai yang dijelaskan di bagian ini, hanya buckler, primitif, dan perisai energi yang tidak dapat disampirkan. Karena sebagian besar perisai memiliki nilai Zirah yang tinggi, ini meniadakan sebagian besar serangan.
+Biasanya perisai dikenakan dengan cara disampirkan di lengan/bahu atau punggung saat tidak digunakan secara aktif dalam pertempuran. Jika Gamemaster Anda menggunakan sistem lokasi hit, tambahkan 1/2 nilai Armor perisai yang disampirkan (bulatkan ke atas) ke lokasi hit mana pun yang terkena senjata, selain nilai Armor yang sudah ada di lokasi tersebut. Dari perisai yang dijelaskan di bagian ini, hanya buckler, primitif, dan perisai energi yang tidak dapat disampirkan. Karena sebagian besar perisai memiliki nilai Armor yang tinggi, ini meniadakan sebagian besar serangan.
 
-**Sebagai contoh,** karakter Anda memiliki perisai yang disampirkan di punggung, dan lawan menembakkan panah dari belakang. Serangan itu berhasil, dan lokasi hit yang dilempar menunjukkan torso. Gamemaster Anda memutuskan bahwa perisai menutupi lokasi hit ini, sehingga ½ dari nilai Zirah perisai diterapkan pada kerusakan panah. Gamemaster Anda memberi tahu Anda “Panah itu mengenai perisai di punggungmu, tetapi tidak tembus.” Sekarang karakter Anda memiliki kesempatan untuk memegang perisai mereka dengan benar, tidak mempercayai keberuntungan lagi.
+**Sebagai contoh,** karakter Anda memiliki perisai yang disampirkan di punggung, dan lawan menembakkan panah dari belakang. Serangan itu berhasil, dan lokasi hit yang dilempar menunjukkan torso. Gamemaster Anda memutuskan bahwa perisai menutupi lokasi hit ini, sehingga ½ dari nilai Armor perisai diterapkan pada kerusakan panah. Gamemaster Anda memberi tahu Anda “Panah itu mengenai perisai di punggungmu, tetapi tidak tembus.” Sekarang karakter Anda memiliki kesempatan untuk memegang perisai mereka dengan benar, tidak mempercayai keberuntungan lagi.
 
 ### Deskripsi Perisai
 
@@ -1321,7 +1321,7 @@ Setiap senjata artileri memiliki atribut berikut:
 
 * **HP:** Titik hit senjata artileri.
 
-* **AV:** Nilai Zirah senjata artileri, jika berlaku.
+* **AV:** Nilai Armor senjata artileri, jika berlaku.
 
 * **Amunisi:** Jenis amunisi, apakah padat, pecahan, energi, kimia, atau lainnya?
 
@@ -1365,7 +1365,7 @@ Jika proyektil meleset, gunakan aturan untuk keterampilan Lempar untuk menentuka
 
 Bentuk artileri seperti misil dipandu melalui sistem penargetan elektronik internal atau eksternal, membuatnya jauh lebih akurat. Jika misil dipandu dengan cara ini, misil tersebut membuat penggunaan keterampilan apa pun menjadi Mudah. Jika misil dipandu sendiri, misil tersebut secara otomatis mengenai target pada lemparan apa pun selain 99 atau 00, meskipun target yang bergerak dapat mencoba menghindari misil. Jika demikian, upaya menghindar dianggap sebagai tindakan mengelak, dan menghindar terhadap misil terpandu menjadi Sulit, apakah keterampilan Menghindar, Mengemudi, atau Pilot digunakan.
 
-Pertahanan terbaik terhadap misil terpandu (selain baju zirah tebal) adalah jamming elektronik. Jamming membuat peluang serangan misil terpandu menjadi Sulit. Jika misil terpandu meleset dari targetnya, lihat aturan untuk melesetnya senjata artileri (sebelumnya) untuk menentukan ke mana proyektil tersebut sebenarnya menghantam.
+Pertahanan terbaik terhadap misil terpandu (selain baju Armor tebal) adalah jamming elektronik. Jamming membuat peluang serangan misil terpandu menjadi Sulit. Jika misil terpandu meleset dari targetnya, lihat aturan untuk melesetnya senjata artileri (sebelumnya) untuk menentukan ke mana proyektil tersebut sebenarnya menghantam.
 
 ### Pecahan Peluru (Shrapnel)
 
@@ -1395,7 +1395,7 @@ Berikut adalah contoh senjata artileri, yang disusun berdasarkan abjad.
 
 **Senjata, Rel (Rail):** Senjata besar yang menggunakan serangkaian medan magnet untuk mendorong proyektil di sepanjang rel, mempercepat proyektil ke kecepatan yang luar biasa.
 
-**Senjata, Tank:** Senjata utama tank, menembakkan peluru kaliber besar berkecepatan tinggi dari berbagai jenis amunisi. Beberapa proyektil yang lebih umum ditembakkan dari senjata tank adalah peledak tinggi, penembus baju zirah, atau misil terpandu.
+**Senjata, Tank:** Senjata utama tank, menembakkan peluru kaliber besar berkecepatan tinggi dari berbagai jenis amunisi. Beberapa proyektil yang lebih umum ditembakkan dari senjata tank adalah peledak tinggi, penembus baju Armor, atau misil terpandu.
 
 **Howitzer:** Jenis artileri lapangan yang mirip dengan meriam, meskipun dengan laras yang lebih pendek dan lebih sempit. Howitzer menembakkan proyektil pada sudut dan lintasan yang lebih tinggi, memberikan tembakan terjun (tembakan yang jatuh dari atas) pada musuh.
 
@@ -1409,13 +1409,13 @@ Berikut adalah contoh senjata artileri, yang disusun berdasarkan abjad.
 
 **Turret, Energi:** Digunakan di ruang angkasa atau di darat, turret energi adalah senjata proyeksi energi besar yang menarik sejumlah besar energi. Umumnya digunakan di stasiun ruang angkasa, kapal luar angkasa berukuran sedang hingga besar, atau dalam pertempuran darat yang besar. Selebihnya mirip dengan turret senapan mesin (di bawah).
 
-**Turret, Api:** Penyembur api yang dipasang di turret, biasanya dengan baju zirah tambahan yang melindungi pengguna, menawarkan jangkauan yang lebih jauh daripada proyektor api genggam.
+**Turret, Api:** Penyembur api yang dipasang di turret, biasanya dengan baju Armor tambahan yang melindungi pengguna, menawarkan jangkauan yang lebih jauh daripada proyektor api genggam.
 
 **Turret, Laser:** Meriam laser yang dipasang di turret, sering dipasang di stasiun ruang angkasa atau satelit pertahanan. Mirip dengan turret energi (di atas) tetapi menggunakan cahaya laser alih-alih semburan energi mentah.
 
 **Turret, Senapan Mesin:** Senapan mesin besar yang dipasang pada dasar yang berputar, mampu menembakkan busur tembakan yang besar, biasanya dipandu dari jauh atau dari penembak internal atau eksternal. Turret biasanya dipasang pada pesawat terbang berukuran sedang atau besar, kapal, tank atau kendaraan bermotor lainnya, atau bahkan di dinding atau struktur pertahanan lainnya.
 
-**Turret, Setrum (Shock):** Turret yang mampu memproyeksikan kilat atau busur listrik melintasi jarak, sering kali menggunakan semacam arus bolak-balik. Turret setrum memiliki +20% untuk mengenai target logam, atau target yang tertutup baju zirah logam.
+**Turret, Setrum (Shock):** Turret yang mampu memproyeksikan kilat atau busur listrik melintasi jarak, sering kali menggunakan semacam arus bolak-balik. Turret setrum memiliki +20% untuk mengenai target logam, atau target yang tertutup baju Armor logam.
 
 **Turret, Pelontar Tombak:** Senapan tombak otomatis yang dipasang di turret, biasanya menembakkan baut logam sepanjang satu meter alih-alih tombak sebenarnya. Beberapa model awal digunakan dalam industri perburuan paus, meskipun senjata ini juga dimanfaatkan dalam latar pasca-apokaliptik.
 
@@ -1466,7 +1466,7 @@ Berikut adalah contoh senjata artileri, yang disusun berdasarkan abjad.
 1. Kerusakan dinyatakan dalam dadu per meter; kerusakan yang dilakukan setiap meter melewati radius awal berkurang 1D per meter.
 2. Kerusakan digulir dan diadu vs. CON target berbasis elektronik/listrik atau titik hit saat ini dalam lemparan resistensi. Jika target kalah, mereka menderita jumlah kerusakan yang digulir. Jika lemparan resistensi berhasil, target mengambil kerusakan minimum detonator (berdasarkan jangkauan) ke titik hit saat ini.
 3. Target yang terkena harus melakukan lemparan Keberuntungan yang Sulit. Jika lemparan gagal, mereka terbakar dan menerima 1D6 poin kerusakan segera dan setiap putaran berikutnya sampai api dipadamkan atau dinetralkan (lihat **Api dan Panas**).
-4. Terhadap target tak hidup, kerusakan diadu vs. CON dasar target, nilai Zirah, atau titik hit (pilihan Gamemaster). Jika target gagal dalam lemparan, target hancur atau menjadi tidak berfungsi.
+4. Terhadap target tak hidup, kerusakan diadu vs. CON dasar target, nilai Armor, atau titik hit (pilihan Gamemaster). Jika target gagal dalam lemparan, target hancur atau menjadi tidak berfungsi.
 5. Gulir kerusakan dan pit vs. CON target dalam lemparan resistensi. Jika target berhasil, mereka mengambil kerusakan minimum (2) sebagai ganti dari kerusakan yang digulir. Jika target kalah, mereka pingsan selama 1D3+1 putaran (lihat **Mengejutkan**).
 
 ##### Bahan Peledak Modern
@@ -1518,7 +1518,7 @@ Berikut adalah contoh senjata artileri, yang disusun berdasarkan abjad.
 1. Kerusakan dinyatakan dalam dadu per meter; kerusakan setiap meter melewati radius awal berkurang 1D per meter.
 2. Kerusakan digulir dan diadu vs. CON target berbasis elektronik/listrik atau titik hit saat ini dalam lemparan resistensi. Jika target kalah, mereka menderita jumlah kerusakan yang digulir. Jika lemparan resistensi berhasil, target mengambil kerusakan minimum detonator (berdasarkan jangkauan) ke titik hit saat ini.
 3. Target yang terkena harus melakukan lemparan Keberuntungan yang Sulit. Jika lemparan gagal, mereka terbakar dan menerima 1D6 poin kerusakan segera dan setiap putaran berikutnya sampai api dipadamkan atau dinetralkan (lihat **Api dan Panas**).
-4. Terhadap target tak hidup, kerusakan diadu vs. CON dasar target, nilai Zirah, atau titik hit (pilihan Gamemaster). Jika target gagal dalam lemparan, target hancur atau menjadi tidak berfungsi.
+4. Terhadap target tak hidup, kerusakan diadu vs. CON dasar target, nilai Armor, atau titik hit (pilihan Gamemaster). Jika target gagal dalam lemparan, target hancur atau menjadi tidak berfungsi.
 5. Gulir kerusakan dan pit vs. CON target dalam lemparan resistensi. Jika target berhasil, mereka mengambil kerusakan minimum (2) sebagai ganti dari kerusakan yang digulir. Jika target kalah, mereka pingsan selama 1D3+1 putaran (lihat **Mengejutkan**).
 
 ## Robot & Kehidupan Buatan
@@ -1556,7 +1556,7 @@ Jika Anda ingin bagian tubuh buatan tersebut memiliki beberapa kekuatan atau atr
 
 ## Kendaraan
 
-Sama seperti jenis senjata dan baju zirah, bagian berikut mencakup berbagai kendaraan yang tercantum dalam **Tingkat Pergerakan**, serta kendaraan lain yang cocok untuk bertualang. Contoh abstrak ini dapat membantu Anda dan Gamemaster Anda membuat jenis kendaraan tambahan, memperluas atau mengubah statistik sesuai keinginan.
+Sama seperti jenis senjata dan baju Armor, bagian berikut mencakup berbagai kendaraan yang tercantum dalam **Tingkat Pergerakan**, serta kendaraan lain yang cocok untuk bertualang. Contoh abstrak ini dapat membantu Anda dan Gamemaster Anda membuat jenis kendaraan tambahan, memperluas atau mengubah statistik sesuai keinginan.
 
 Istilah berikut digunakan untuk menentukan setiap kendaraan:
 
@@ -1572,11 +1572,11 @@ Istilah berikut digunakan untuk menentukan setiap kendaraan:
 
 * **MOV:** Kecepatan maksimum kendaraan dalam putaran pertempuran, dinyatakan dalam peringkat MOV-nya. MOV memiliki nilai geser 1–5 meter; ini mengasumsikan nilai median 3.
 
-* **Zirah:** Nilai Zirah umum kendaraan dan perlindungan yang diberikannya kepada kru atau penumpang. Biasanya, serangan terhadap penumpang adalah melalui jendela atau bagian kabin yang terbuka. Jika kedua angka ini berbeda, keduanya dinyatakan sebagai dua nilai yang dipisahkan oleh garis miring. Gamemaster Anda harus menentukan apakah karakter memiliki perlindungan dari kendaraan tersebut. Menyerang seseorang di dalam kendaraan adalah Sulit.
+* **Armor:** Nilai Armor umum kendaraan dan perlindungan yang diberikannya kepada kru atau penumpang. Biasanya, serangan terhadap penumpang adalah melalui jendela atau bagian kabin yang terbuka. Jika kedua angka ini berbeda, keduanya dinyatakan sebagai dua nilai yang dipisahkan oleh garis miring. Gamemaster Anda harus menentukan apakah karakter memiliki perlindungan dari kendaraan tersebut. Menyerang seseorang di dalam kendaraan adalah Sulit.
 
 * **SIZ:** Nilai SIZ kendaraan yang tampak.
 
-* **HP:** Titik hit kendaraan. Kendaraan tidak menderita efek sekunder dari keberhasilan khusus, selain peningkatan kerusakan, dan keberhasilan kritis mengabaikan Zirah kendaraan dan memberikan peningkatan kerusakan.
+* **HP:** Titik hit kendaraan. Kendaraan tidak menderita efek sekunder dari keberhasilan khusus, selain peningkatan kerusakan, dan keberhasilan kritis mengabaikan Armor kendaraan dan memberikan peningkatan kerusakan.
 
 * **Kru:** Jumlah karakter yang diperlukan untuk mengemudikan dan memelihara kendaraan dengan efisiensi penuh saat dalam perjalanan. Untuk kapal yang lebih besar, ini biasanya 1/3 dari pelengkap normal, karena kru bekerja dalam shift 8 jam. Lemparan keterampilan yang berhubungan dengan kendaraan mungkin menjadi Sulit jika kendaraan kekurangan kru.
 
@@ -1596,7 +1596,7 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 **Kendaraan Udara, Dirgantara:** Balon dengan kerangka struktural terbatas dan kabin kecil yang tergantung di bawahnya, biasanya diisi dengan gas yang lebih ringan dari udara. Digerakkan oleh rotor.
 
-**Kendaraan Udara, Helikopter:** Kendaraan udara bertenaga bilah putar yang agak kecil. Kabin berkisar dari gelembung plexiglass sederhana hingga yang dilapisi baju zirah dengan kompartemen pasukan dan dudukan senjata.
+**Kendaraan Udara, Helikopter:** Kendaraan udara bertenaga bilah putar yang agak kecil. Kabin berkisar dari gelembung plexiglass sederhana hingga yang dilapisi baju Armor dengan kompartemen pasukan dan dudukan senjata.
 
 **Kendaraan Udara, Jet:** Pesawat jet komersial panjang, dengan setidaknya dua turbin jet yang dipasang di sayap.
 
@@ -1634,25 +1634,25 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 **Kapal, Dayung Kuno:** Kapal panjang dengan baris dayung tunggal, kiri dan kanan, biasanya didayung oleh budak galai atau orang-orang yang bertempur.
 
-**Kapal, Pertempuran Modern:** Kapal perang besar (panjang 165+ meter), dilapisi baju zirah berat dengan berbagai sistem artileri dan misil jarak jauh.
+**Kapal, Pertempuran Modern:** Kapal perang besar (panjang 165+ meter), dilapisi baju Armor berat dengan berbagai sistem artileri dan misil jarak jauh.
 
 **Kapal, Pesiar Modern:** Kapal penumpang besar (panjang 300+ meter) yang berfungsi hampir sebagai hotel berjalan, dengan toko, fasilitas hiburan, dan fasilitas yang tak terhitung jumlahnya.
 
 **Kapal, Berlayar Antik:** Galleon, panjangnya sekitar 35 meter, dengan dua tiang atau lebih.
 
-**Kendaraan Luar Angkasa, Kargo:** Tulang punggung perdagangan luar angkasa, ini adalah kapal kargo dengan kru kecil. Dilapisi baju zirah ringan dan bersenjata. Mungkin memiliki pelindung energi.
+**Kendaraan Luar Angkasa, Kargo:** Tulang punggung perdagangan luar angkasa, ini adalah kapal kargo dengan kru kecil. Dilapisi baju Armor ringan dan bersenjata. Mungkin memiliki pelindung energi.
 
 **Kendaraan Luar Angkasa, Roket:** Roket berbahan bakar multi-tahap dengan kabin penumpang/modul pendaratan kecil.
 
-**Kendaraan Luar Angkasa, Starfighter:** Pesawat luar angkasa yang relatif kecil dan sangat bermanuver yang setara dengan jet tempur. Bersenjata berat, meskipun berbaju zirah ringan. Mungkin memiliki pelindung energi.
+**Kendaraan Luar Angkasa, Starfighter:** Pesawat luar angkasa yang relatif kecil dan sangat bermanuver yang setara dengan jet tempur. Bersenjata berat, meskipun berbaju Armor ringan. Mungkin memiliki pelindung energi.
 
-**Kendaraan Luar Angkasa, Transport:** Pesawat luar angkasa berukuran sedang yang digunakan terutama untuk transportasi penumpang atau kargo, berbaju zirah dan bersenjata ringan. Mungkin memiliki pelindung energi.
+**Kendaraan Luar Angkasa, Transport:** Pesawat luar angkasa berukuran sedang yang digunakan terutama untuk transportasi penumpang atau kargo, berbaju Armor dan bersenjata ringan. Mungkin memiliki pelindung energi.
 
-**Kapal Selam:** Kapal selam yang digunakan oleh militer untuk stealth, infiltrasi perairan musuh, dan pertempuran laut.
+**Kapal Selam:** Kapal selam yang digunakan oleh militer untuk Senyap, infiltrasi perairan musuh, dan pertempuran laut.
 
-**Tank, Modern:** Kendaraan tempur beroda rantai yang dilapisi baju zirah berat, dilengkapi dengan senapan pusat kaliber besar serta persenjataan lainnya.
+**Tank, Modern:** Kendaraan tempur beroda rantai yang dilapisi baju Armor berat, dilengkapi dengan senapan pusat kaliber besar serta persenjataan lainnya.
 
-**Tank, Antik:** Kendaraan tempur beroda rantai yang dilapisi baju zirah berat, biasanya dilengkapi dengan senapan pusat kaliber besar.
+**Tank, Antik:** Kendaraan tempur beroda rantai yang dilapisi baju Armor berat, biasanya dilengkapi dengan senapan pusat kaliber besar.
 
 **Kereta, Peluru:** Kereta penumpang berkecepatan tinggi yang ramping yang dibangun di atas jalur khusus, biasanya ditenagai oleh listrik.
 
@@ -1666,7 +1666,7 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 ##### Kendaraan Kuda & Kereta Kuda
 
-| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Zirah | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
+| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Armor | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Kuda | Berkuda | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Rata-rata | Lihat Makhluk |
 | Kereta Perang | Mengemudi | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Rata-rata | Varietas dua kuda |
@@ -1675,7 +1675,7 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 ##### Mobil, Truk, Kereta & Tank
 
-| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Zirah | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
+| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Armor | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Antik | Mengemudi | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Rata-rata | — |
 | Sedan Modern | Mengemudi | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Rata-rata | — |
@@ -1692,7 +1692,7 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 ##### Perahu & Kapal
 
-| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Zirah | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
+| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Armor | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Dayung Kecil | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Rata-rata | — |
 | Dayung Kuno | Pilot | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Mahal | — |
@@ -1706,10 +1706,10 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 ##### Kendaraan Udara
 
-| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Zirah | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
+| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Armor | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Dayung Kecil | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Rata-rata | — |
-| Dirigantara | Pilot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Tak Ternilai | Balon tidak berlapis Zirah; kabin berlapis. |
+| Dirigantara | Pilot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Tak Ternilai | Balon tidak berlapis Armor; kabin berlapis. |
 | Pesawat Baling-baling | Pilot | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Mahal | — |
 | Pengebom | Pilot | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Terbatas | — |
 | Jet | Pilot | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Tak Ternilai | — |
@@ -1719,12 +1719,12 @@ Bagian ini menjelaskan berbagai kendaraan, yang disusun berdasarkan abjad.
 
 ##### Kendaraan Luar Angkasa
 
-| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Zirah | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
+| Jenis | Keterampilan | Kecepatan | Penanganan | ACC | MOV | Armor | SIZ | HP | Kru | Penumpang | Kargo | Nilai | Catatan |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Roket | Pilot | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Tak Ternilai | — |
-| Transport | Pilot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Tak Ternilai | Kecepatan sublight; memiliki drive FTL. |
-| Starfighter | Pilot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Terbatas | Kecepatan sublight; memiliki drive FTL. |
-| Kargo | Pilot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Mahal | Kecepatan sublight; memiliki drive FTL. |
+| Transport | Pilot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Tak Ternilai | Kecepatan sublight; memiliki Mengemudi FTL. |
+| Starfighter | Pilot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Terbatas | Kecepatan sublight; memiliki Mengemudi FTL. |
+| Kargo | Pilot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Mahal | Kecepatan sublight; memiliki Mengemudi FTL. |
 
 ## Perlengkapan Lain
 
@@ -1783,7 +1783,7 @@ Untuk menggunakan buku, karakter Anda harus dapat membacanya atau memahaminya ji
 
 ### Buku sebagai Objek
 
-Sifat fisik buku biasanya kurang mengesankan daripada isinya. Kebanyakan buku memiliki SIZ 0, 1, atau 2, dan titik hit buku sama dengan SIZ-nya. Bergantung pada bahan pembuatnya, buku biasanya memiliki nilai Zirah 0 (sampul tipis) hingga 4 poin Zirah (punggung dan sampul kulit tebal). Buku yang sangat tua bahkan bisa dibungkus besi (nilai Zirah 6+). Kecuali jika buku tersebut memiliki perlindungan tambahan atau dibuat dengan kokoh, buku tersebut dapat direduksi menjadi sobekan atau dihancurkan oleh api dalam putaran pertempuran sebanyak titik hit yang dimilikinya. Jika buku tersebut berupa gulungan, perangkat baca elektronik, tampilan pembelajaran holografik, atau komputer, Gamemaster Anda harus menentukan SIZ dan titik hitnya berdasarkan contoh barang di bab ini.
+Sifat fisik buku biasanya kurang mengesankan daripada isinya. Kebanyakan buku memiliki SIZ 0, 1, atau 2, dan titik hit buku sama dengan SIZ-nya. Bergantung pada bahan pembuatnya, buku biasanya memiliki nilai Armor 0 (sampul tipis) hingga 4 poin Armor (punggung dan sampul kulit tebal). Buku yang sangat tua bahkan bisa dibungkus besi (nilai Armor 6+). Kecuali jika buku tersebut memiliki perlindungan tambahan atau dibuat dengan kokoh, buku tersebut dapat direduksi menjadi sobekan atau dihancurkan oleh api dalam putaran pertempuran sebanyak titik hit yang dimilikinya. Jika buku tersebut berupa gulungan, perangkat baca elektronik, tampilan pembelajaran holografik, atau komputer, Gamemaster Anda harus menentukan SIZ dan titik hitnya berdasarkan contoh barang di bab ini.
 
 ### Perlengkapan Medis
 
@@ -1827,13 +1827,13 @@ Berikut adalah jenis perlengkapan berguna lainnya yang mungkin ingin digunakan k
 
 ### Mecha
 
-Mecha (terkadang disingkat 'mech') pada dasarnya adalah setelan baju zirah bertenaga yang sangat besar, dikemudikan oleh satu atau beberapa karakter, biasanya Humanoid atau semacam struktur berkaki dua, populer dalam latar fiksi ilmiah. Mecha contoh yang digambarkan di bawah ini dibangun menggunakan pedoman gadget berkekuatan super.
+Mecha (terkadang disingkat 'mech') pada dasarnya adalah setelan baju Armor bertenaga yang sangat besar, dikemudikan oleh satu atau beberapa karakter, biasanya Humanoid atau semacam struktur berkaki dua, populer dalam latar fiksi ilmiah. Mecha contoh yang digambarkan di bawah ini dibangun menggunakan pedoman gadget berkekuatan super.
 
 > #### Model D142 Mobile Exoframe, a.k.a. ‘Skyhammer’
 > 
 > **Nilai:** Tak Ternilai
 > 
-> Skyhammer adalah mecha berbentuk Humanoid yang dilapisi baju zirah berat dengan batang tubuh memanjang yang berfungsi sebagai kokpit, tempat pilot duduk. Kepalanya adalah susunan peralatan sensorik, dan anggota tubuhnya berfungsi. Menonjol dari 'pusar'-nya adalah meriam laser besar yang di atasnya duduk pilot.
+> Skyhammer adalah mecha berbentuk Humanoid yang dilapisi baju Armor berat dengan batang tubuh memanjang yang berfungsi sebagai kokpit, tempat pilot duduk. Kepalanya adalah susunan peralatan sensorik, dan anggota tubuhnya berfungsi. Menonjol dari 'pusar'-nya adalah meriam laser besar yang di atasnya duduk pilot.
 > 
 > **STR** 100 **CON** 50 **SIZ** 50
 > 
@@ -1841,29 +1841,29 @@ Mecha (terkadang disingkat 'mech') pada dasarnya adalah setelan baju zirah berte
 > 
 > **Pengubah Kerusakan:** +8D6 **MOV:** 15
 > 
-> **Zirah:** 30 poin pelapisan paduan (lihat di bawah)
+> **Armor:** 30 poin pelapisan paduan (lihat di bawah)
 > 
 > **Senjata:** Meriam Laser (menggunakan % keterampilan Proyeksi pilot), jangkauan 75 meter, 5D6 kerusakan; Tinju Palu (menggunakan % keterampilan Baku Hantam pilot), 1D3+8D6 kerusakan
 > 
 > **Keterampilan:** Manipulasi Halus 45%, Melompat 65%, Mendengar 65%, Navigasi 70%, Pilot (autopilot mandiri) 41%, Memperbaiki (diagnostik internal dan perbaikan) 55%, Deteksi 65%, Melacak 30%, Terbang 100%.
 > 
-> **Kekuatan:** Adaptasi 6 (dingin, panas, tekanan tinggi, radiasi, ruang hampa; biaya = 15 poin); Zirah 30 (listrik 30, kinetik 30, radiasi 30; biaya = 90 poin); Proyeksi Energi 5 (cahaya; biaya = 50 poin); Energi Ekstra 11 (+110 poin kekuatan; biaya = 11 poin); Terbang 17 (biaya = 17 poin); Karakteristik Super 200 (STR, CON, SIZ; biaya = 200 poin); Indera Super 5 (Pendengaran 5, Penglihatan 5, Penglihatan Gelap 5, Penglihatan Inframerah 5, Deteksi Sonar 5; biaya = 75 poin); Keterampilan Super (Manipulasi Halus 2, Melompat 2, Mendengar 2, Navigasi 3, Pilot 2, Memperbaiki 2, Deteksi 2, Melacak 1, Terbang 5; biaya = 42 poin).
+> **Kekuatan:** Adaptasi 6 (dingin, panas, tekanan tinggi, radiasi, ruang hampa; biaya = 15 poin); Armor 30 (listrik 30, kinetik 30, radiasi 30; biaya = 90 poin); Proyeksi Energi 5 (cahaya; biaya = 50 poin); Energi Ekstra 11 (+110 poin kekuatan; biaya = 11 poin); Terbang 17 (biaya = 17 poin); Karakteristik Super 200 (STR, CON, SIZ; biaya = 200 poin); Indera Super 5 (Pendengaran 5, Penglihatan 5, Penglihatan Gelap 5, Penglihatan Inframerah 5, Deteksi Sonar 5; biaya = 75 poin); Keterampilan Super (Manipulasi Halus 2, Melompat 2, Mendengar 2, Navigasi 3, Pilot 2, Memperbaiki 2, Deteksi 2, Melacak 1, Terbang 5; biaya = 42 poin).
 > 
 >**Total Biaya Anggaran Kekuatan** = 500 poin.
 
 ## Kualitas Umum Objek
 
-Selain senjata, baju zirah, perisai, senjata pengepungan, kendaraan, buku, perlengkapan, dll., objek material lainnya dapat dideskripsikan sebagai objek. Ini adalah kategori yang mencakup telepon atau tiang telepon, rumah atau kastil, pulpen atau Menara Eiffel. Umumnya, satu-satunya alasan untuk memberikan atribut untuk objek adalah saat objek tersebut digunakan melawan karakter Anda, karakter Anda menggunakannya melawan karakter lain, karakter Anda mencoba menghancurkannya, atau objek tersebut menghalangi jalan (dan berpotensi menjadi kerusakan tambahan).
+Selain senjata, baju Armor, perisai, senjata pengepungan, kendaraan, buku, perlengkapan, dll., objek material lainnya dapat dideskripsikan sebagai objek. Ini adalah kategori yang mencakup telepon atau tiang telepon, rumah atau kastil, pulpen atau Menara Eiffel. Umumnya, satu-satunya alasan untuk memberikan atribut untuk objek adalah saat objek tersebut digunakan melawan karakter Anda, karakter Anda menggunakannya melawan karakter lain, karakter Anda mencoba menghancurkannya, atau objek tersebut menghalangi jalan (dan berpotensi menjadi kerusakan tambahan).
 
 ### Kerusakan pada Objek Mati
 
-Objek mati seperti pintu, kursi, dan dinding kemungkinan besar akan mengganggu serangan yang meleset, atau mungkin perlu dirobohkan atau diledakkan. Gamemaster Anda harus berkonsultasi dengan nilai SIZ untuk item sampel dan menggunakan SIZ titik hit suatu objek, menetapkan nilai Zirah berdasarkan kesetaraannya (lihat **Perlindungan Zirah**). Jika kerusakan melebihi nilai Zirah objek, maka titik hit berkurang sebesar kerusakan yang tersisa dan jumlah titik kerusakan itu mengurangi nilai armornya (mewakili seberapa kecil kemampuannya untuk menahan kerusakan setelah rusak). Jika objek lebih kecil dari ukuran Manusia (seperti kursi), objek tersebut benar-benar hancur jika dikurangi menjadi 0 titik hit. Jika lebih besar dari ukuran Manusia (seperti dinding kayu) dan suatu bagian dikurangi menjadi 0 titik hit; ada lubang seukuran Manusia di dinding tersebut.
+Objek mati seperti pintu, kursi, dan dinding kemungkinan besar akan mengganggu serangan yang meleset, atau mungkin perlu dirobohkan atau diledakkan. Gamemaster Anda harus berkonsultasi dengan nilai SIZ untuk item sampel dan menggunakan SIZ titik hit suatu objek, menetapkan nilai Armor berdasarkan kesetaraannya (lihat **Perlindungan Armor**). Jika kerusakan melebihi nilai Armor objek, maka titik hit berkurang sebesar kerusakan yang tersisa dan jumlah titik kerusakan itu mengurangi nilai armornya (mewakili seberapa kecil kemampuannya untuk menahan kerusakan setelah rusak). Jika objek lebih kecil dari ukuran Manusia (seperti kursi), objek tersebut benar-benar hancur jika dikurangi menjadi 0 titik hit. Jika lebih besar dari ukuran Manusia (seperti dinding kayu) dan suatu bagian dikurangi menjadi 0 titik hit; ada lubang seukuran Manusia di dinding tersebut.
 
-> ### Nilai Zirah Zat
+> ### Nilai Armor Zat
 > 
-> Nilai Zirah mewakili jumlah kerusakan yang dikurangi dari serangan yang berhasil. Semakin tinggi nilai Zirah suatu objek, semakin kecil kemungkinannya untuk rusak. Menggunakan nilai untuk perlengkapan lain atau di bawah ini, Gamemaster Anda seharusnya dapat mengekstrapolasi nilai Zirah tambahan atau memperkirakannya berdasarkan kesetaraan kasar. Berikut adalah nilai Zirah dari berbagai zat:
+> Nilai Armor mewakili jumlah kerusakan yang dikurangi dari serangan yang berhasil. Semakin tinggi nilai Armor suatu objek, semakin kecil kemungkinannya untuk rusak. Menggunakan nilai untuk perlengkapan lain atau di bawah ini, Gamemaster Anda seharusnya dapat mengekstrapolasi nilai Armor tambahan atau memperkirakannya berdasarkan kesetaraan kasar. Berikut adalah nilai Armor dari berbagai zat:
 > 
-> | Jenis Zat | Nilai Zirah |
+> | Jenis Zat | Nilai Armor |
 > | :---- | :---- |
 > | 1 cm kaca | 1 |
 > | 5 cm pintu tebal | 3 |
@@ -1873,11 +1873,11 @@ Objek mati seperti pintu, kursi, dan dinding kemungkinan besar akan mengganggu s
 > | 3 cm pelat baja | 28 |
 > | Kantong pasir besar | 20 |
 > 
-> Nilai Zirah alami seperti di atas tidak hilang dan tidak memburuk melalui beberapa serangan, kecuali melalui sarana lingkungan atau upaya khusus untuk mengurangi nilai Zirah suatu objek.
+> Nilai Armor alami seperti di atas tidak hilang dan tidak memburuk melalui beberapa serangan, kecuali melalui sarana lingkungan atau upaya khusus untuk mengurangi nilai Armor suatu objek.
 > 
-> **Sebagai contoh,** karakter Anda memukul jendela yang terbuat dari kaca anti peluru berulang kali dengan palu godam, membidik titik yang sama dalam upaya untuk menyebabkan keretakan yang cukup untuk menerobosnya. Gamemaster Anda memutuskan untuk merepresentasikannya dengan mengurangi nilai Zirah sebesar 1 dengan setiap pukulan yang berhasil, dan menggulir kerusakan. Ketika lemparan kerusakan mengatasi nilai Zirah yang terus berkurang, jendela tersebut pecah.
+> **Sebagai contoh,** karakter Anda memukul jendela yang terbuat dari kaca anti peluru berulang kali dengan palu godam, membidik titik yang sama dalam upaya untuk menyebabkan keretakan yang cukup untuk menerobosnya. Gamemaster Anda memutuskan untuk merepresentasikannya dengan mengurangi nilai Armor sebesar 1 dengan setiap pukulan yang berhasil, dan menggulir kerusakan. Ketika lemparan kerusakan mengatasi nilai Armor yang terus berkurang, jendela tersebut pecah.
 > 
-> Pedoman sederhana untuk menghancurkan objek adalah bahwa objek rata-rata memiliki titik hit yang setara dengan SIZ-nya, dan setelah Zirah dilewati dan titik hit ini hilang, objek tersebut tidak berfungsi dan hancur, atau setidaknya dikurangi ke keadaan di mana tidak ada kegunaan yang nyata.
+> Pedoman sederhana untuk menghancurkan objek adalah bahwa objek rata-rata memiliki titik hit yang setara dengan SIZ-nya, dan setelah Armor dilewati dan titik hit ini hilang, objek tersebut tidak berfungsi dan hancur, atau setidaknya dikurangi ke keadaan di mana tidak ada kegunaan yang nyata.
 
 ### SIZ Objek Umum
 

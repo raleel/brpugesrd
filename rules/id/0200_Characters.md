@@ -166,10 +166,10 @@ Pelajari karakteristik karakter Anda dan bayangkan seperti apa orang yang Anda i
 
 | Hasil | Deskripsi |
 | :---- | :---- |
-| 1 | **Brutal**: Karakter Anda berpikir untuk menyelesaikan masalah dengan kekuatan fisik dan otot. Berikan 20 poin keterampilan masing-masing untuk Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw, dan untuk dua keterampilan Tempur apa pun. |
-| 2 | **Terampil (Skilled):** Karakter Anda percaya bahwa teknik, keahlian, dan keahlian adalah rahasia kesuksesan. Berikan 20 poin keterampilan masing-masing untuk Appraise, satu Keterampilan Kerajinan apa pun, Disguise, Dodge, Fine Manipulation, First Aid, satu keterampilan Pengetahuan apa pun, Navigate, Pilot, Ride, Sleight of Hand, Stealth, dan satu keterampilan Tempur apa pun. |
-| 3 | **Licik (Cunning):** Karakter Anda terlebih dahulu mencoba mengakali lawan untuk mendapatkan keuntungan. Tambahkan 20 poin keterampilan masing-masing untuk Appraise, Bargain, Disguise, Insight, dua keterampilan Pengetahuan apa pun, Listen, Research, Sense, Spot, Stealth, satu keterampilan Teknis apa pun (sesuai latar), dan satu keterampilan Tempur apa pun. |
-| 4 | **Menawan (Charming):** Karakter Anda senang membujuk orang lain untuk bekerja, sementara mereka yang membuat keputusan. Berikan 20 poin masing-masing untuk Appraise, Bargain, Command, Etiquette, Fast Talk, Insight, Perform, Persuade, satu Bahasa (Lain) apa pun, Bahasa (Sendiri), Sense, Status, dan satu keterampilan Tempur apa pun. |
+| 1 | **Brutal**: Karakter Anda berpikir untuk menyelesaikan masalah dengan kekuatan fisik dan otot. Berikan 20 poin keterampilan masing-masing untuk Brawl, Climb, Dodge, Grapple, Intuisi, Jump, Menunggang, Sense, Senyap, Berenang, Throw, dan untuk dua keterampilan Tempur apa pun. |
+| 2 | **Terampil (Skilled):** Karakter Anda percaya bahwa teknik, keahlian, dan keahlian adalah rahasia kesuksesan. Berikan 20 poin keterampilan masing-masing untuk Appraise, satu Keterampilan Kerajinan apa pun, Disguise, Dodge, Fine Manipulation, Pertolongan Pertama, satu keterampilan Pengetahuan apa pun, Navigate, Pilot, Menunggang, Sleight of Hand, Senyap, dan satu keterampilan Tempur apa pun. |
+| 3 | **Licik (Cunning):** Karakter Anda terlebih dahulu mencoba mengakali lawan untuk mendapatkan keuntungan. Tambahkan 20 poin keterampilan masing-masing untuk Appraise, Bargain, Disguise, Intuisi, dua keterampilan Pengetahuan apa pun, Listen, Research, Sense, Spot, Senyap, satu keterampilan Teknis apa pun (sesuai latar), dan satu keterampilan Tempur apa pun. |
+| 4 | **Menawan (Charming):** Karakter Anda senang membujuk orang lain untuk bekerja, sementara mereka yang membuat keputusan. Berikan 20 poin masing-masing untuk Appraise, Bargain, Command, Etiquette, Fast Talk, Intuisi, Perform, Persuade, satu Bahasa (Lain) apa pun, Bahasa (Sendiri), Sense, Status, dan satu keterampilan Tempur apa pun. |
 
 Gamemaster Anda mungkin memiliki tipe kepribadian lain, atau Anda dapat membuat tipe kepribadian sendiri, memilih 13 keterampilan dan menambahkan 20 poin ke setiap peringkat keterampilan (dengan persetujuan gamemaster Anda).
 
@@ -725,7 +725,7 @@ Anda mencari nafkah melalui membuat seni, baik menggambar, melukis, memahat, des
 
 **Kekayaan**: Apa saja, tetapi biasanya Miskin atau Rata-rata.
 
-**Keterampilan**: Dua keterampilan Seni apa pun, Kerajinan apa pun, Insight, satu keterampilan Pengetahuan yang sesuai, Bahasa (Lain), Bahasa (Sendiri), Listen, Research, Spot
+**Keterampilan**: Dua keterampilan Seni apa pun, Kerajinan apa pun, Intuisi, satu keterampilan Pengetahuan yang sesuai, Bahasa (Lain), Bahasa (Sendiri), Listen, Research, Spot
 
 #### Pembunuh
 
@@ -733,7 +733,7 @@ Sebagai pembunuh profesional berdarah dingin, kematian adalah perdagangan Anda. 
 
 **Kekayaan**: Rata-rata atau Mampu. Anda mungkin juga memiliki berbagai senjata dan identitas palsu, sesuai dengan latar.
 
-**Keterampilan**: Dodge, Hide, Listen, Spot, Stealth, dan lima dari berikut ini sesuai dengan latar: Brawl, Disguise, Drive, Electronics, Grapple, Senjata Api (apa pun), Fine Manipulation, Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Ride, Throw, Track
+**Keterampilan**: Dodge, Hide, Listen, Spot, Senyap, dan lima dari berikut ini sesuai dengan latar: Brawl, Disguise, Mengemudi, Electronics, Grapple, Senjata Api (apa pun), Fine Manipulation, Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Menunggang, Throw, Track
 
 #### Atlet
 
@@ -741,7 +741,7 @@ Baik profesional maupun amatir, disponsori negara atau masih di sekolah, Anda un
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata atau Mampu.
 
-**Keterampilan:** Climb, Dodge, Jump, Stealth, Throw dan pilih lima dari berikut ini sesuai dengan latar dan olahraga: Brawl, First Aid, Grapple, Insight, Listen, Seni Bela Diri, Spot, Ride, Swim.
+**Keterampilan:** Climb, Dodge, Jump, Senyap, Throw dan pilih lima dari berikut ini sesuai dengan latar dan olahraga: Brawl, Pertolongan Pertama, Grapple, Intuisi, Listen, Seni Bela Diri, Spot, Menunggang, Berenang.
 
 #### Pengemis
 
@@ -749,7 +749,7 @@ Anda bertahan hidup dengan mengemis uang, makanan, dan kebutuhan lainnya. Anda m
 
 **Kekayaan:** Melarat, meskipun beberapa pengemis sebenarnya Miskin dan hanya berpura-pura lebih buruk.
 
-**Keterampilan:** Bargain, Fast Talk, Hide, Insight, Pengetahuan (Wilayah: area lokal), Listen, Persuade, Sleight of Hand, Spot, Stealth.
+**Keterampilan:** Bargain, Fast Talk, Hide, Intuisi, Pengetahuan (Wilayah: area lokal), Listen, Persuade, Sleight of Hand, Spot, Senyap.
 
 #### Juru Tulis (Clerk)
 
@@ -781,7 +781,7 @@ Anda menjalani hidup dengan melanggar hukum, baik dengan pencurian kekerasan, ke
 
 **Kekayaan:** Miskin hingga Mampu, terkadang Kaya, biasanya Rata-rata.
 
-**Keterampilan:** Bargain, Hide, Stealth, Drive atau Ride, dan pilih enam dari berikut ini sesuai dengan latar dan raket: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Senjata Api (apa pun), Gaming, Grapple, Insight, Jump, Pengetahuan (Hukum), Listen, Seni Bela Diri, Senjata Jarak Dekat (apa pun, biasanya pisau atau tongkat), Persuade, Spot, Throw.
+**Keterampilan:** Bargain, Hide, Senyap, Mengemudi atau Menunggang, dan pilih enam dari berikut ini sesuai dengan latar dan raket: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Senjata Api (apa pun), Gaming, Grapple, Intuisi, Jump, Pengetahuan (Hukum), Listen, Seni Bela Diri, Senjata Jarak Dekat (apa pun, biasanya pisau atau tongkat), Persuade, Spot, Throw.
 
 #### Detektif
 
@@ -789,7 +789,7 @@ Baik bekerja untuk polisi atau bekerja secara pribadi, Anda menggunakan keteramp
 
 **Kekayaan:** Rata-rata atau Mampu.
 
-**Keterampilan:** Senjata Api (Pistol), Pengetahuan (Hukum), Listen, Persuade, Spot, Research, dan pilih empat dari berikut ini sesuai dengan latar dan konsep: Seni, Brawl, Disguise, Dodge, Drive, Fast Talk, Senjata Api (apa pun), Grapple, Hide, Insight, Pengetahuan (apa pun), Bahasa (Lain), Bahasa (Sendiri), Kedokteran, Ride, Sains (apa pun), Teknis (Penggunaan Komputer), Stealth, Track.
+**Keterampilan:** Senjata Api (Pistol), Pengetahuan (Hukum), Listen, Persuade, Spot, Research, dan pilih empat dari berikut ini sesuai dengan latar dan konsep: Seni, Brawl, Disguise, Dodge, Mengemudi, Fast Talk, Senjata Api (apa pun), Grapple, Hide, Intuisi, Pengetahuan (apa pun), Bahasa (Lain), Bahasa (Sendiri), Kedokteran, Menunggang, Sains (apa pun), Teknis (Penggunaan Komputer), Senyap, Track.
 
 #### Dokter
 
@@ -797,7 +797,7 @@ Anda telah menjadikannya panggilan Anda untuk mengobati yang terluka, lemah, sak
 
 **Kekayaan:** Rata-rata hingga Mampu.
 
-**Keterampilan:** First Aid, Bahasa (Sendiri), Kedokteran, Persuade, Research, Spot, dan pilih empat dari berikut ini sesuai dengan latar: Insight, Bahasa (Lain), Psikoterapi, Sains (apa pun), Status.
+**Keterampilan:** Pertolongan Pertama, Bahasa (Sendiri), Kedokteran, Persuade, Research, Spot, dan pilih empat dari berikut ini sesuai dengan latar: Intuisi, Bahasa (Lain), Psikoterapi, Sains (apa pun), Status.
 
 #### Insinyur
 
@@ -805,7 +805,7 @@ Anda membangun, memperbaiki, atau memelihara mesin, bekerja dalam konstruksi, at
 
 **Kekayaan:** Miskin hingga Mampu, biasanya Rata-rata.
 
-**Keterampilan:** Craft (apa pun), Repair (Mekanis), Repair (Struktural), Spot, Status, dan lima dari berikut ini, sesuai dengan latar dan konsep: Seni (biasanya Drafting), Drive, Mesin Berat, Pengetahuan (apa pun), Pilot (apa pun), Repair (Listrik), Repair (Elektronik), Sains (apa pun), atau Teknis (Penggunaan Komputer).
+**Keterampilan:** Craft (apa pun), Repair (Mekanis), Repair (Struktural), Spot, Status, dan lima dari berikut ini, sesuai dengan latar dan konsep: Seni (biasanya Drafting), Mengemudi, Mesin Berat, Pengetahuan (apa pun), Pilot (apa pun), Repair (Listrik), Repair (Elektronik), Sains (apa pun), atau Teknis (Penggunaan Komputer).
 
 #### Penghibur
 
@@ -813,7 +813,7 @@ Anda menggunakan bakat pertunjukan Anda untuk menghibur penonton dalam semua uku
 
 **Kekayaan:** Melarat hingga Kaya, biasanya Rata-rata.
 
-**Keterampilan:** Seni (apa pun), Disguise, Fast Talk, Fine Manipulation, Insight, Bahasa (Lain), Bahasa (Sendiri), Listen, Perform (apa pun), Persuade.
+**Keterampilan:** Seni (apa pun), Disguise, Fast Talk, Fine Manipulation, Intuisi, Bahasa (Lain), Bahasa (Sendiri), Listen, Perform (apa pun), Persuade.
 
 #### Penjelajah
 
@@ -821,7 +821,7 @@ Anda telah menjadikannya pekerjaan hidup Anda untuk mencari sudut dunia yang tid
 
 **Kekayaan:** Mampu atau Kaya.
 
-**Keterampilan:** Climb, Bahasa (Lain), Bahasa (Sendiri), Persuade, Research, Spot, dan empat dari berikut ini sesuai dengan latar: Pengetahuan (Antropologi, Kelompok, Sejarah, Dunia Alami, atau Wilayah), Drive, Fast Talk, Senjata Api (Pistol, Revolver, atau Senapan), Navigate, Pilot (Pesawat atau Kapal), Ride, Sains (Geologi), Swim, Track.
+**Keterampilan:** Climb, Bahasa (Lain), Bahasa (Sendiri), Persuade, Research, Spot, dan empat dari berikut ini sesuai dengan latar: Pengetahuan (Antropologi, Kelompok, Sejarah, Dunia Alami, atau Wilayah), Mengemudi, Fast Talk, Senjata Api (Pistol, Revolver, atau Senapan), Navigate, Pilot (Pesawat atau Kapal), Menunggang, Sains (Geologi), Berenang, Track.
 
 #### Petani
 
@@ -829,7 +829,7 @@ Sebagai petani Anda tinggal di daerah pedesaan atau yang hampir tidak dijinakkan
 
 **Kekayaan:** Miskin hingga Mampu, biasanya Rata-rata.
 
-**Keterampilan:** Bargain, Craft (apa pun), Pengetahuan (Sejarah Alami), Listen, Spot, dan lima dari berikut ini sesuai dengan latar dan konsep: Brawl, Drive, Senjata Api (Senapan atau Senapan Buru), First Aid, Mesin Berat, Pengetahuan (Dunia Alami), Repair (Mekanis), Ride, Sains (Biologi, Botani, atau Geologi), Track.
+**Keterampilan:** Bargain, Craft (apa pun), Pengetahuan (Sejarah Alami), Listen, Spot, dan lima dari berikut ini sesuai dengan latar dan konsep: Brawl, Mengemudi, Senjata Api (Senapan atau Senapan Buru), Pertolongan Pertama, Mesin Berat, Pengetahuan (Dunia Alami), Repair (Mekanis), Menunggang, Sains (Biologi, Botani, atau Geologi), Track.
 
 #### Penjudi
 
@@ -837,7 +837,7 @@ Anda bertahan hidup dengan kehendak kesempatan, atau dengan menipu takdir dalam 
 
 **Kekayaan:** Miskin hingga Mampu, biasanya Rata-rata.
 
-**Keterampilan:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Insight, Pengetahuan (Akuntansi), Persuade, Sleight of Hand, Spot.
+**Keterampilan:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Intuisi, Pengetahuan (Akuntansi), Persuade, Sleight of Hand, Spot.
 
 #### Penggembala
 
@@ -845,7 +845,7 @@ Anda mencari nafkah dengan memelihara hewan ternak, menunggangi padang rumput te
 
 **Kekayaan:** Miskin hingga Rata-rata, kadang-kadang Mampu.
 
-**Keterampilan:** Craft (biasanya simpul), Senjata Api (Senapan), Pengetahuan (Dunia Alami), Pengetahuan (Wilayah: Jangkauan), Listen, Navigate, Ride, Spot, Throw, Track.
+**Keterampilan:** Craft (biasanya simpul), Senjata Api (Senapan), Pengetahuan (Dunia Alami), Pengetahuan (Wilayah: Jangkauan), Listen, Navigate, Menunggang, Spot, Throw, Track.
 
 #### Pemburu
 
@@ -853,7 +853,7 @@ Baik untuk bertahan hidup atau untuk sensasi berburu, Anda berspesialisasi dalam
 
 **Kekayaan:** Miskin atau Rata-rata, kecuali pemburu binatang besar atau olahraga, maka Kaya.
 
-**Keterampilan:** Climb, Hide, Listen, Navigate, Spot, Stealth, Track, dan tiga dari berikut ini sesuai dengan latar dan konsep: Senjata Api (Senapan atau Senapan Buru), Pengetahuan (Dunia Alami atau Wilayah), Bahasa (Lain), Senjata Jarak Dekat (biasanya Tombak), Senjata Rudal (apa pun), Ride.
+**Keterampilan:** Climb, Hide, Listen, Navigate, Spot, Senyap, Track, dan tiga dari berikut ini sesuai dengan latar dan konsep: Senjata Api (Senapan atau Senapan Buru), Pengetahuan (Dunia Alami atau Wilayah), Bahasa (Lain), Senjata Jarak Dekat (biasanya Tombak), Senjata Rudal (apa pun), Menunggang.
 
 #### Jurnalis
 
@@ -861,7 +861,7 @@ Baik kolumnis untuk surat kabar mingguan, jurnalis web, jurnalis foto, penyiar t
 
 **Kekayaan:** Rata-rata hingga Mampu.
 
-**Keterampilan:** Fast Talk, Insight, Bahasa (Sendiri), Listen, Persuade, Research, Spot, dan tiga dari berikut ini sesuai dengan latar dan konsep: Seni (Fotografi), Craft (Fotografi), Disguise, Hide, Pengetahuan (apa pun), Bahasa (Lain), Status, Stealth, Teknis (Penggunaan Komputer).
+**Keterampilan:** Fast Talk, Intuisi, Bahasa (Sendiri), Listen, Persuade, Research, Spot, dan tiga dari berikut ini sesuai dengan latar dan konsep: Seni (Fotografi), Craft (Fotografi), Disguise, Hide, Pengetahuan (apa pun), Bahasa (Lain), Status, Senyap, Teknis (Penggunaan Komputer).
 
 #### Buruh
 
@@ -869,7 +869,7 @@ Anda adalah pekerja kerah biru, baik di jalur pabrik, di gudang, atau sekadar bu
 
 **Kekayaan:** Miskin atau Rata-rata.
 
-**Keterampilan:** Climb, Craft (apa pun), Drive, Brawl, Grapple, Mesin Berat, dan empat lainnya, sesuai dengan latar: Appraise, Fine Manipulation, Bahasa (Lain), Literasi, Repair (Mekanis), Repair (Struktural), Teknis (Penggunaan Komputer).
+**Keterampilan:** Climb, Craft (apa pun), Mengemudi, Brawl, Grapple, Mesin Berat, dan empat lainnya, sesuai dengan latar: Appraise, Fine Manipulation, Bahasa (Lain), Literasi, Repair (Mekanis), Repair (Struktural), Teknis (Penggunaan Komputer).
 
 #### Penjaga Hukum
 
@@ -877,7 +877,7 @@ Anda memiliki wewenang dan yurisdiksi untuk menegakkan dan membela hukum, idealn
 
 **Kekayaan:** Biasanya Rata-rata. Penegak hukum yang korup terkadang Mampu.
 
-**Keterampilan:** Brawl, Dodge, Fast Talk, Pengetahuan (Hukum), Listen, Spot, dan empat dari berikut ini, sesuai dengan latar dan konsep: Drive, Senjata Api (apa pun), First Aid, Grapple, Insight, Pengetahuan (Wilayah atau Kelompok), Bahasa (Lain), Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Pilot (apa pun), Ride, Status, Teknis (Penggunaan Komputer), Track.
+**Keterampilan:** Brawl, Dodge, Fast Talk, Pengetahuan (Hukum), Listen, Spot, dan empat dari berikut ini, sesuai dengan latar dan konsep: Mengemudi, Senjata Api (apa pun), Pertolongan Pertama, Grapple, Intuisi, Pengetahuan (Wilayah atau Kelompok), Bahasa (Lain), Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Pilot (apa pun), Menunggang, Status, Teknis (Penggunaan Komputer), Track.
 
 #### Pengacara
 
@@ -885,7 +885,7 @@ Anda terlatih dalam hukum dan menggunakan sistem hukum untuk menuntut atau membe
 
 **Kekayaan:** Melarat, Miskin, Rata-rata, Mampu, Kaya
 
-**Keterampilan:** Bargain, Fast Talk, Insight, Pengetahuan (Hukum), satu keterampilan Pengetahuan lainnya, Bahasa (Sendiri), Perform (Orasi), Persuade, Research, Status.
+**Keterampilan:** Bargain, Fast Talk, Intuisi, Pengetahuan (Hukum), satu keterampilan Pengetahuan lainnya, Bahasa (Sendiri), Perform (Orasi), Persuade, Research, Status.
 
 #### Mekanik
 
@@ -893,7 +893,7 @@ Seorang grease-monkey, Anda menghabiskan waktu Anda memelihara, memperbaiki, dan
 
 **Kekayaan:** Miskin hingga Rata-rata, biasanya Rata-rata.
 
-**Keterampilan:** Bargain, Craft (Pengerjaan logam), Drive, Fine Manipulation, Mesin Berat, Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Repair (Struktural), Spot.
+**Keterampilan:** Bargain, Craft (Pengerjaan logam), Mengemudi, Fine Manipulation, Mesin Berat, Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Repair (Struktural), Spot.
 
 #### Pedagang
 
@@ -909,7 +909,7 @@ Anda lahir dalam kekayaan dan kelas penguasa. Dalam masyarakat yang mengakui per
 
 **Kekayaan:** Mampu hingga Kaya, biasanya Kaya.
 
-**Keterampilan:** Bargain, Drive, Etiquette, Bahasa (Sendiri), Bahasa (Lain), Literasi, dan Status, ditambah tiga keterampilan lainnya sebagai hobi atau bidang minat.
+**Keterampilan:** Bargain, Mengemudi, Etiquette, Bahasa (Sendiri), Bahasa (Lain), Literasi, dan Status, ditambah tiga keterampilan lainnya sebagai hobi atau bidang minat.
 
 #### Okultis
 
@@ -917,7 +917,7 @@ Anda adalah pelajar rahasia tersembunyi, pengetahuan tersembunyi, dan kekuatan m
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Mampu.
 
-**Keterampilan:** Fast Talk, Insight, Pengetahuan (Antropologi), Pengetahuan (Sejarah), Pengetahuan (Okultisme), Bahasa (Lain), Bahasa (Sendiri), Research, dan dua keterampilan lain sesuai dengan latar, biasanya dari berikut ini: Seni (apa pun), Craft (apa pun), Pengetahuan (Arkeologi), Kedokteran, Sains (apa pun), atau Status.
+**Keterampilan:** Fast Talk, Intuisi, Pengetahuan (Antropologi), Pengetahuan (Sejarah), Pengetahuan (Okultisme), Bahasa (Lain), Bahasa (Sendiri), Research, dan dua keterampilan lain sesuai dengan latar, biasanya dari berikut ini: Seni (apa pun), Craft (apa pun), Pengetahuan (Arkeologi), Kedokteran, Sains (apa pun), atau Status.
 
 **Khusus:** Jika sihir hadir dalam latar, Anda mungkin memiliki kekuatan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
@@ -927,7 +927,7 @@ Baik di darat, di atas atau di bawah air, di langit, atau melalui kedalaman luar
 
 **Kekayaan:** Rata-rata hingga Mampu. Jika Anda memiliki kapal sendiri, Mampu.
 
-**Keterampilan:** Drive, Mesin Berat, Listen, Navigate, Pilot (apa pun), Spot, ditambah empat dari keterampilan berikut, sesuai dengan latar: Bargain, Climb, Command, Craft (apa pun), Pengetahuan (Wilayah), Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Bahasa (Lain), Persuade, Sains (Fisika), Sains (Astronomi), Teknis (Penggunaan Komputer).
+**Keterampilan:** Mengemudi, Mesin Berat, Listen, Navigate, Pilot (apa pun), Spot, ditambah empat dari keterampilan berikut, sesuai dengan latar: Bargain, Climb, Command, Craft (apa pun), Pengetahuan (Wilayah), Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Bahasa (Lain), Persuade, Sains (Fisika), Sains (Astronomi), Teknis (Penggunaan Komputer).
 
 #### Politisi
 
@@ -935,7 +935,7 @@ Anda telah dipilih atau ditunjuk ke posisi otoritas dan mencari nafkah dengan me
 
 **Kekayaan:** Mampu hingga Kaya, biasanya Mampu.
 
-**Keterampilan:** Bargain, Etiquette, Fast Talk, Insight, Pengetahuan (Hukum), Persuade, Status, ditambah tiga keterampilan lain sesuai dengan latar, biasanya dari berikut ini: Pengetahuan (Akuntansi, Kelompok, Sejarah, atau Wilayah), Listen, Bahasa (Lain), Bahasa (Sendiri), Perform (Orasi), Research.
+**Keterampilan:** Bargain, Etiquette, Fast Talk, Intuisi, Pengetahuan (Hukum), Persuade, Status, ditambah tiga keterampilan lain sesuai dengan latar, biasanya dari berikut ini: Pengetahuan (Akuntansi, Kelompok, Sejarah, atau Wilayah), Listen, Bahasa (Lain), Bahasa (Sendiri), Perform (Orasi), Research.
 
 #### Pendeta
 
@@ -943,7 +943,7 @@ Iman dan keyakinan Anda pada yang ilahi telah membawa Anda pada panggilan imamat
 
 **Kekayaan:** Miskin hingga Mampu, biasanya Rata-rata, mungkin Kaya jika Anda adalah pemimpin agama dari sekelompok besar jamaah, atas kebijaksanaan gamemaster Anda.
 
-**Keterampilan:** Fast Talk, Insight, Pengetahuan (Sejarah), Pengetahuan (Filsafat), Pengetahuan (Agama), Bahasa (Sendiri), Perform (Ritual), Persuade, dan dua dari berikut ini: Pengetahuan (Okultisme), Bahasa (Lain), Listen, Literasi, Perform (Orasi), Research, Status, Teach.
+**Keterampilan:** Fast Talk, Intuisi, Pengetahuan (Sejarah), Pengetahuan (Filsafat), Pengetahuan (Agama), Bahasa (Sendiri), Perform (Ritual), Persuade, dan dua dari berikut ini: Pengetahuan (Okultisme), Bahasa (Lain), Listen, Literasi, Perform (Orasi), Research, Status, Teach.
 
 **Khusus:** Afiliasi Anda dengan iman atau sekte mungkin memberi Anda akses ke kekuatan magis atau supranatural. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
@@ -953,7 +953,7 @@ Anda mengarungi gelombang laut, bekerja keras untuk menjaga integritas kapal And
 
 **Kekayaan:** Miskin atau Rata-rata, biasanya Rata-rata.
 
-**Keterampilan:** Climb, Craft (apa pun), Dodge, Grapple, Navigate, Pilot (Perahu), Swim, dan tiga dari berikut ini: Artileri (apa pun, biasanya di atas kapal), Command, Bahasa (Lain), Listen, Repair (Mekanis), Repair (Struktural), Spot.
+**Keterampilan:** Climb, Craft (apa pun), Dodge, Grapple, Navigate, Pilot (Perahu), Berenang, dan tiga dari berikut ini: Artileri (apa pun, biasanya di atas kapal), Command, Bahasa (Lain), Listen, Repair (Mekanis), Repair (Struktural), Spot.
 
 #### Cendekiawan
 
@@ -977,7 +977,7 @@ Anda dipekerjakan sebagai penolong atau pelayan, melayani urusan rumah tangga da
 
 **Kekayaan:** Miskin hingga Rata-rata, meskipun terkadang pelayan memiliki akses terbatas ke gaya hidup Mampu atau Kaya majikan mereka, atas persetujuan gamemaster Anda.
 
-**Keterampilan:** Craft (apa pun), Etiquette, Hide, Bahasa (Sendiri), Listen, Stealth, dan pilih empat dari berikut ini sebagai spesialisasi pribadi, sesuai dengan latar dan konsep: Bargain, Drive, First Aid, Insight, Pengetahuan (Akuntansi), Bahasa (Lain), Persuade.
+**Keterampilan:** Craft (apa pun), Etiquette, Hide, Bahasa (Sendiri), Listen, Senyap, dan pilih empat dari berikut ini sebagai spesialisasi pribadi, sesuai dengan latar dan konsep: Bargain, Mengemudi, Pertolongan Pertama, Intuisi, Pengetahuan (Akuntansi), Bahasa (Lain), Persuade.
 
 #### Dukun (Shaman)
 
@@ -985,7 +985,7 @@ Anda adalah pesulap suku, terampil dalam menghubungi dunia roh dan memberikan na
 
 **Kekayaan:** Miskin atau Rata-rata, pada tingkat eksistensi suku.
 
-**Keterampilan:** Seni (apa pun), Insight, Pengetahuan (Sejarah), Pengetahuan (Okultisme), Bahasa (Sendiri), Listen, Perform (Ritual), Persuade, dan dua dari berikut ini sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Fast Talk, First Aid, Hide, Pengetahuan (Antropologi), Bahasa (Lain), Kedokteran, Sains (Farmasi), atau Status.
+**Keterampilan:** Seni (apa pun), Intuisi, Pengetahuan (Sejarah), Pengetahuan (Okultisme), Bahasa (Sendiri), Listen, Perform (Ritual), Persuade, dan dua dari berikut ini sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Fast Talk, Pertolongan Pertama, Hide, Pengetahuan (Antropologi), Bahasa (Lain), Kedokteran, Sains (Farmasi), atau Status.
 
 **Khusus:** Bergantung pada latar, Anda mungkin dapat menggunakan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
@@ -995,7 +995,7 @@ Ditangkap dan diperbudak atau lahir dalam penangkaran, Anda adalah budak atau pe
 
 **Kekayaan:** Melarat hingga Miskin, meskipun terkadang budak memiliki akses terbatas ke gaya hidup Mampu atau Kaya pemilik mereka, atas persetujuan gamemaster Anda.
 
-**Keterampilan:** Craft (apa pun), Dodge, Etiquette, Fast Talk, Hide, Insight, Bahasa (Lain), Listen, Stealth, dan satu keterampilan lain sebagai spesialisasi pekerjaan.
+**Keterampilan:** Craft (apa pun), Dodge, Etiquette, Fast Talk, Hide, Intuisi, Bahasa (Lain), Listen, Senyap, dan satu keterampilan lain sebagai spesialisasi pekerjaan.
 
 **Catatan:** Profesi ini harus dipilih dengan kepekaan terhadap pemain dan gamemaster lain, dan disarankan agar karakter apa pun dengan profesi ini dibebaskan atau dimerdekakan saat permainan dimulai.
 
@@ -1005,7 +1005,7 @@ Baik melalui pendaftaran atau wajib militer, Anda adalah tentara profesional, ya
 
 **Kekayaan:** Miskin atau Rata-rata, tetapi sering diberi akses ke peralatan mahal atau peralatan yang dilarang.
 
-**Keterampilan:** Brawl, Climb, Dodge, First Aid, dan enam dari berikut ini, sesuai dengan latar: Artileri, Command, Drive, Senjata Api (biasanya Senapan, tetapi apa pun), Grapple, Senjata Berat (apa pun), Hide, Bahasa (Lain), Listen, Jump, Kedokteran, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Navigate, Repair (Mekanis), Ride, Spot, Stealth, Throw
+**Keterampilan:** Brawl, Climb, Dodge, Pertolongan Pertama, dan enam dari berikut ini, sesuai dengan latar: Artileri, Command, Mengemudi, Senjata Api (biasanya Senapan, tetapi apa pun), Grapple, Senjata Berat (apa pun), Hide, Bahasa (Lain), Listen, Jump, Kedokteran, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), Navigate, Repair (Mekanis), Menunggang, Spot, Senyap, Throw
 
 #### Mata-mata
 
@@ -1013,7 +1013,7 @@ Anda terampil dalam tipu daya dan infiltrasi, memasuki negara atau organisasi di
 
 **Kekayaan:** Rata-rata atau Mampu, tergantung pada latar.
 
-**Keterampilan:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Stealth, dan tiga dari berikut ini, sesuai dengan latar: Seni (Fotografi), Brawl, Disguise, Etiquette, Senjata Api (apa pun), Grapple, Pengetahuan (apa pun), Bahasa (Lain), Bahasa (Sendiri), Seni Bela Diri, Navigate, Pilot (apa pun), Psikologi, Repair (Elektronik), Repair (Mekanis), Ride, Swim, Teknis (Penggunaan Komputer), Throw, Track.
+**Keterampilan:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Senyap, dan tiga dari berikut ini, sesuai dengan latar: Seni (Fotografi), Brawl, Disguise, Etiquette, Senjata Api (apa pun), Grapple, Pengetahuan (apa pun), Bahasa (Lain), Bahasa (Sendiri), Seni Bela Diri, Navigate, Pilot (apa pun), Psikologi, Repair (Elektronik), Repair (Mekanis), Menunggang, Berenang, Teknis (Penggunaan Komputer), Throw, Track.
 
 #### Pelajar
 
@@ -1021,7 +1021,7 @@ Anda menghabiskan waktu Anda belajar, baik sebagai siswa umum atau magang kepada
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata.
 
-**Keterampilan:** Bahasa (Sendiri), Research, dan pilih delapan keterampilan lain sebagai kursus studi, sesuai dengan latar dan konsep. Pilihan umum adalah dari daftar berikut: Seni (apa pun), Craft (apa pun), First Aid, Insight, Pengetahuan (apa pun), Bahasa (Lain), Listen, Kedokteran, Repair (apa pun), Perform, Persuade, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer), dan satu keterampilan Fisik (jika terlibat dalam atletik).
+**Keterampilan:** Bahasa (Sendiri), Research, dan pilih delapan keterampilan lain sebagai kursus studi, sesuai dengan latar dan konsep. Pilihan umum adalah dari daftar berikut: Seni (apa pun), Craft (apa pun), Pertolongan Pertama, Intuisi, Pengetahuan (apa pun), Bahasa (Lain), Listen, Kedokteran, Repair (apa pun), Perform, Persuade, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer), dan satu keterampilan Fisik (jika terlibat dalam atletik).
 
 **Khusus:** Siswa seni gaib mungkin memiliki akses ke sihir atau ilmu gaib, atau Anda mungkin berada di sekolah untuk membantu Anda mengendalikan kekuatan super, mutasi, atau kemampuan psikis Anda. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
@@ -1031,7 +1031,7 @@ Anda adalah instruktur dari satu atau lebih mata pelajaran, mengajar kelompok at
 
 **Kekayaan:** Rata-rata hingga Mampu, biasanya Rata-rata.
 
-**Keterampilan:** Bahasa (Sendiri), Persuade, Research, Status, Teach, dan pilih lima keterampilan lain sebagai bidang keahlian, sesuai dengan latar dan konsep. Pilihan umum adalah dari daftar berikut: Seni (apa pun), Craft (apa pun), First Aid, Insight, Pengetahuan (apa pun), Bahasa (Lain), Listen, Kedokteran, Repair (apa pun), Perform, Persuade, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer).
+**Keterampilan:** Bahasa (Sendiri), Persuade, Research, Status, Teach, dan pilih lima keterampilan lain sebagai bidang keahlian, sesuai dengan latar dan konsep. Pilihan umum adalah dari daftar berikut: Seni (apa pun), Craft (apa pun), Pertolongan Pertama, Intuisi, Pengetahuan (apa pun), Bahasa (Lain), Listen, Kedokteran, Repair (apa pun), Perform, Persuade, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer).
 
 #### Teknisi
 
@@ -1039,7 +1039,7 @@ Dispesialisasikan dalam memelihara, memperbaiki, dan memanfaatkan mesin kompleks
 
 **Kekayaan:** Rata-rata hingga Mampu.
 
-**Keterampilan:** Fine Manipulation, Mesin Berat, Listen, Repair (apa pun), Sains (Fisika), Research, Spot, Teknis (Penggunaan Komputer), dan dua keterampilan lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Drive, Pilot (apa pun).
+**Keterampilan:** Fine Manipulation, Mesin Berat, Listen, Repair (apa pun), Sains (Fisika), Research, Spot, Teknis (Penggunaan Komputer), dan dua keterampilan lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Mengemudi, Pilot (apa pun).
 
 #### Pencuri
 
@@ -1047,7 +1047,7 @@ Anda mengambil apa yang Anda inginkan, baik untuk bertahan hidup atau karena itu
 
 **Kekayaan:** Apa saja, tunduk pada persetujuan gamemaster.
 
-**Keterampilan:** Appraise, Dodge, Fast Talk, Hide, Stealth, dan lima keterampilan lain dari daftar berikut, sesuai dengan latar dan konsep: Bargain, Brawl, Climb, Disguise, Fine Manipulation, Senjata Api (Pistol, Revolver, atau Senapan Buru), Grapple, Insight, Listen, Jump, Pengetahuan (Hukum), Persuade, Repair (Mekanis), atau Spot.
+**Keterampilan:** Appraise, Dodge, Fast Talk, Hide, Senyap, dan lima keterampilan lain dari daftar berikut, sesuai dengan latar dan konsep: Bargain, Brawl, Climb, Disguise, Fine Manipulation, Senjata Api (Pistol, Revolver, atau Senapan Buru), Grapple, Intuisi, Listen, Jump, Pengetahuan (Hukum), Persuade, Repair (Mekanis), atau Spot.
 
 #### Anggota Suku
 
@@ -1055,7 +1055,7 @@ Berasal dari budaya primitif, Anda adalah anggota suku yang diterima, dan tidak 
 
 **Kekayaan:** Melarat hingga Miskin, pada tingkat eksistensi suku. Atau Anda mungkin seorang bangsawan suku, dengan tingkat kekayaan yang lebih tinggi, tergantung pada Status Anda.
 
-**Keterampilan:** Craft (apa pun), Dodge, Grapple, Hide, Pengetahuan (Sejarah Alami), Spot, Throw, Track, dan dua dari keterampilan berikut, sesuai dengan latar: Brawl, Climb, First Aid, Listen, Jump, Pengetahuan (Okultisme), Senjata Jarak Dekat (biasanya Tombak atau Tongkat), Senjata Rudal (Busur), Bahasa (Lain), Ride, Stealth, Swim.
+**Keterampilan:** Craft (apa pun), Dodge, Grapple, Hide, Pengetahuan (Sejarah Alami), Spot, Throw, Track, dan dua dari keterampilan berikut, sesuai dengan latar: Brawl, Climb, Pertolongan Pertama, Listen, Jump, Pengetahuan (Okultisme), Senjata Jarak Dekat (biasanya Tombak atau Tongkat), Senjata Rudal (Busur), Bahasa (Lain), Menunggang, Senyap, Berenang.
 
 #### Pejuang
 
@@ -1063,7 +1063,7 @@ Anda berspesialisasi dalam pertempuran individu, bertahan hidup dengan refleks d
 
 **Kekayaan:** Melarat hingga Rata-rata, biasanya Miskin.
 
-**Keterampilan:** Brawl, Dodge, Grapple, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), dan lima keterampilan lain dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Climb, Senjata Api (apa pun), Hide, Listen, Jump, Bahasa (Lain), Seni Bela Diri, Ride, Spot, Stealth, Swim, Throw, Track.
+**Keterampilan:** Brawl, Dodge, Grapple, Senjata Jarak Dekat (apa pun), Senjata Rudal (apa pun), dan lima keterampilan lain dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Climb, Senjata Api (apa pun), Hide, Listen, Jump, Bahasa (Lain), Seni Bela Diri, Menunggang, Spot, Senyap, Berenang, Throw, Track.
 
 #### Penyihir
 
@@ -1071,7 +1071,7 @@ Anda memahami dan dapat menggunakan sihir atau ilmu gaib. Melalui nyanyian dan g
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Mampu.
 
-**Keterampilan:** Craft (apa pun), Insight, Pengetahuan (Okultisme), dua Pengetahuan (apa pun) lainnya, Bahasa (Lain), Listen, Perform (Ritual), Persuade, Research.
+**Keterampilan:** Craft (apa pun), Intuisi, Pengetahuan (Okultisme), dua Pengetahuan (apa pun) lainnya, Bahasa (Lain), Listen, Perform (Ritual), Persuade, Research.
 
 **Khusus:** Anda dapat menggunakan sihir atau ilmu gaib. Bekerjalah dengan gamemaster Anda untuk menentukan mantra awal Anda (lihat Bab Empat: Kekuatan).
 
@@ -1081,7 +1081,7 @@ Anda menulis prosa, puisi, naskah, atau bentuk lainnya. Anda paling nyaman berko
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata.
 
-**Keterampilan:** Seni (menulis), Insight, Bahasa (Sendiri), Persuade, Research, dan lima keterampilan lain dari daftar berikut sebagai spesialisasi, sesuai: Fast Talk, Pengetahuan (apa pun), Bahasa (Lain), Listen, Status, Teknis (Penggunaan Komputer).
+**Keterampilan:** Seni (menulis), Intuisi, Bahasa (Sendiri), Persuade, Research, dan lima keterampilan lain dari daftar berikut sebagai spesialisasi, sesuai: Fast Talk, Pengetahuan (apa pun), Bahasa (Lain), Listen, Status, Teknis (Penggunaan Komputer).
 
 ## Sentuhan Akhir
 
@@ -1129,7 +1129,7 @@ Bagian sulit sudah berakhir—sekarang kesenangan bisa dimulai!
 > 
 > **Agama:** Dewa atau dewa apa yang disembah secara umum di wilayah ini? Jika Kesetiaan memainkan peran dalam kampanye, maka agama harus disertakan.
 > 
-> **Senjata dan Zirah:** Dalam latar sejarah atau fantasi, senjata dan Zirah gaya abad pertengahan sering kali sangat berbeda dari negara ke negara, dan tentara dari setiap negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan semakin modernnya latar, meskipun gamemaster Anda dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
+> **Senjata dan Armor:** Dalam latar sejarah atau fantasi, senjata dan Armor gaya abad pertengahan sering kali sangat berbeda dari negara ke negara, dan tentara dari setiap negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan semakin modernnya latar, meskipun gamemaster Anda dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
 > 
 > **Keterampilan Budaya:** Beberapa keterampilan mungkin umum diajarkan dan digunakan dalam budaya ini sebagai bagian dari sosialisasi dan pendidikan umum. Atas kebijaksanaan gamemaster Anda, keterampilan ini mungkin mendapatkan bonus kecil. Jika bonus untuk keterampilan digunakan, disarankan agar setiap budaya mendapatkan bonus yang setara, meskipun untuk serangkaian keterampilan yang berbeda.
 > 
@@ -1141,7 +1141,7 @@ Bagian sulit sudah berakhir—sekarang kesenangan bisa dimulai!
 > 
 > Pertama, deskripsikan profesi baru kepada gamemaster Anda. Tentukan apakah profesi baru ini seperti profesi lain yang disediakan di sini. Jika hampir identik dengan yang sudah ada, maka Anda dapat mengubah beberapa keterampilan yang diperlukan sampai profesi baru sesuai dengan konsep Anda. Anda juga dapat memvariasikan tingkat kekayaan sesuai dengan profesi baru.
 > 
-> Contohnya, *Anda memutuskan bahwa 'sopir taksi' adalah profesi baru. Gamemaster Anda mengakui bahwa ini pada dasarnya adalah versi berbasis darat dari profesi Pilot. Dari sini, Anda dan gamemaster Anda memilih untuk memodifikasi tingkat kekayaan karakter Anda dari Miskin menjadi Rata-rata, dan mengubah daftar keterampilan menjadi: Bargain, Drive (Mobil), Pengetahuan (Akuntansi), Pengetahuan (Wilayah: Kota), Listen, Navigate, Bahasa (Lain), Repair (Mekanis), dan Spot.*
+> Contohnya, *Anda memutuskan bahwa 'sopir taksi' adalah profesi baru. Gamemaster Anda mengakui bahwa ini pada dasarnya adalah versi berbasis darat dari profesi Pilot. Dari sini, Anda dan gamemaster Anda memilih untuk memodifikasi tingkat kekayaan karakter Anda dari Miskin menjadi Rata-rata, dan mengubah daftar keterampilan menjadi: Bargain, Mengemudi (Mobil), Pengetahuan (Akuntansi), Pengetahuan (Wilayah: Kota), Listen, Navigate, Bahasa (Lain), Repair (Mekanis), dan Spot.*
 > 
 > *Voila, profesi sopir taksi!*
 > 
@@ -1155,4 +1155,4 @@ Bagian sulit sudah berakhir—sekarang kesenangan bisa dimulai!
 > 
 > * Pilih sepuluh keterampilan yang penting atau paling banyak digunakan oleh anggota profesi ini. Ini juga dapat mencakup opsi "pilih satu (atau lebih) dari berikut ini" selama jumlah total keterampilan yang tersedia setara dengan sepuluh.
 > 
-> Contohnya, *Anda mungkin ingin memainkan profesi yang benar-benar baru: penerjemah profesional. Gamemaster Anda setuju bahwa ini adalah profesi yang cukup unik untuk menjamin tulisan baru. Pertama, Anda berdua memutuskan bahwa tingkat kekayaan penerjemah umumnya Rata-rata. Kedua, untuk keterampilan awal, Anda memilih: Etiquette, Fast Talk, Insight, Pengetahuan (Antropologi), Pengetahuan (Linguistik), Bahasa (Sendiri), Bahasa (Lain), Listen, Persuade, dan Research. Profesi baru sudah selesai dan siap digunakan.*
+> Contohnya, *Anda mungkin ingin memainkan profesi yang benar-benar baru: penerjemah profesional. Gamemaster Anda setuju bahwa ini adalah profesi yang cukup unik untuk menjamin tulisan baru. Pertama, Anda berdua memutuskan bahwa tingkat kekayaan penerjemah umumnya Rata-rata. Kedua, untuk keterampilan awal, Anda memilih: Etiquette, Fast Talk, Intuisi, Pengetahuan (Antropologi), Pengetahuan (Linguistik), Bahasa (Sendiri), Bahasa (Lain), Listen, Persuade, dan Research. Profesi baru sudah selesai dan siap digunakan.*

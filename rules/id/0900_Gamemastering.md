@@ -58,7 +58,7 @@ Umumnya, sebagai gamemaster, Anda bisa memilih latar dengan persetujuan pemain. 
 > 
 > * **Total Poin Hit (Hit Points)**: Karakter dapat bertahan dari lebih banyak kerusakan. *Gameplay* menjadi heroik ketika karakter pemain dan karakter nonpemain penting memilikinya.
 > 
-> * **Poin Hit per Lokasi**: Berguna untuk latar yang berat pertempuran, idealnya dengan Zirah berdasarkan Lokasi Hit.
+> * **Poin Hit per Lokasi**: Berguna untuk latar yang berat pertempuran, idealnya dengan Armor berdasarkan Lokasi Hit.
 > 
 > * **Poin Kelelahan**: Paling baik digunakan dalam gim yang keras, berfokus pada pertempuran, kelangsungan hidup, atau perjalanan.
 > 
@@ -106,13 +106,13 @@ Umumnya, sebagai gamemaster, Anda bisa memilih latar dengan persetujuan pemain. 
 > 
 > * **Pukulan Kematian (Dying Blows)**: Berguna untuk memberikan karakter pemain yang dicintai (atau penjahat yang dibenci) akhir yang dramatis.
 > 
-> * **Nilai Zirah Acak**: Lempar untuk nilai zirah. Tidak kompatibel dengan Zirah berdasarkan Lokasi Hit.
+> * **Nilai Armor Acak**: Lempar untuk nilai Armor. Tidak kompatibel dengan Armor berdasarkan Lokasi Hit.
 > 
 > * **Kerusakan dan Lokasi Hit**: Paling baik untuk gim yang mendetail dan berorientasi simulasi.
 > 
 > * **Menghindari Senjata Proyektil**: Paling baik untuk gim di mana pertempuran dilebih-lebihkan dan tidak realistis.
 > 
-> * **Zirah berdasarkan Lokasi Hit**: Paling baik untuk gim yang mendetail dan berorientasi simulasi.
+> * **Armor berdasarkan Lokasi Hit**: Paling baik untuk gim yang mendetail dan berorientasi simulasi.
 > 
 > #### Lain-lain
 > 
@@ -122,7 +122,7 @@ Umumnya, sebagai gamemaster, Anda bisa memilih latar dengan persetujuan pemain. 
 > 
 > * **Kesetiaan**: Berguna untuk gim dengan dewa yang secara aktif campur tangan di dunia.
 > 
-> * **Gairah (Passions)**: Memungkinkan karakter bertindak dengan cara yang didorong oleh kepribadian.
+> * **Gairah (Gairah)**: Memungkinkan karakter bertindak dengan cara yang didorong oleh kepribadian.
 > 
 > * **Reputasi**: Mengukur prestasi dan ketenaran.
 > 
@@ -294,7 +294,7 @@ Juga berguna untuk mencoba menyebarkan kontak apa pun di sekitar kelompok karakt
 
 Salah satu bagian tersulit dari berurusan dengan sekelompok karakter pemain adalah menemukan alasan untuk menjaga mereka tetap bersama dan membuat mereka bekerja sama satu sama lain dengan cara yang masuk akal. Beberapa latar dan struktur kampanye langsung meminjamkan diri ke kelompok, seperti memiliki semua karakter pemain sudah menjadi bagian dari tim, organisasi, atau faksi yang sama. Beberapa atau semua karakter pemain bisa menjadi kerabat dekat atau jauh, teman lama, rekan kerja, teman sekelas, kolega, atau terhubung melalui afiliasi lain. Tergantung pada apa yang diharapkan dari mereka dalam kampanye, karakter pemain bisa dikumpulkan oleh dermawan misterius atau disewa untuk tujuan tertentu. Dua yang terakhir ini cocok untuk beberapa misi, meskipun ini sering kali merenggangkan kredibilitas dan mengasumsikan bahwa karakter pemain bisa disewa atau bersedia bekerja sama satu sama lain.
 
-Ada banyak cara agar hubungan antar karakter pemain dapat dikembangkan, dan terkadang para pemain sendiri senang membantu hal ini. Di awal gim, Anda mungkin meminta pemain untuk mengidentifikasi satu karakter lain yang memiliki koneksi dengan mereka (sejarah pribadi bersama, persaingan masa lalu, pertemanan, dll.) dan satu karakter nonpemain yang mereka kenal melalui karakter pemain lain itu. Koneksi ini tidak harus timbal balik, dan sering kali lebih disukai jika tidak. Ketika ini dilakukan, setiap karakter pemain memiliki koneksi ke satu atau lebih karakter pemain lain, dan satu atau lebih karakter nonpemain yang mereka kenal berdua. Ini membantu menghubungkan karakter pemain satu sama lain, dan ke dunia. Anda pada akhirnya harus menyetujui atau melarang koneksi atau karakter nonpemain yang tidak berfungsi untuk kampanye atau skenario, tetapi yang terbaik adalah memandu pilihan pemain menuju sesuatu yang berhasil, atau mengakomodasi mereka, daripada memveto mereka secara langsung. Jika Anda menggunakan gairah (*passions*), hubungan karakter nonpemain ini mungkin diwakili sebagai Cinta atau Kesetiaan.
+Ada banyak cara agar hubungan antar karakter pemain dapat dikembangkan, dan terkadang para pemain sendiri senang membantu hal ini. Di awal gim, Anda mungkin meminta pemain untuk mengidentifikasi satu karakter lain yang memiliki koneksi dengan mereka (sejarah pribadi bersama, persaingan masa lalu, pertemanan, dll.) dan satu karakter nonpemain yang mereka kenal melalui karakter pemain lain itu. Koneksi ini tidak harus timbal balik, dan sering kali lebih disukai jika tidak. Ketika ini dilakukan, setiap karakter pemain memiliki koneksi ke satu atau lebih karakter pemain lain, dan satu atau lebih karakter nonpemain yang mereka kenal berdua. Ini membantu menghubungkan karakter pemain satu sama lain, dan ke dunia. Anda pada akhirnya harus menyetujui atau melarang koneksi atau karakter nonpemain yang tidak berfungsi untuk kampanye atau skenario, tetapi yang terbaik adalah memandu pilihan pemain menuju sesuatu yang berhasil, atau mengakomodasi mereka, daripada memveto mereka secara langsung. Jika Anda menggunakan gairah (*Gairah*), hubungan karakter nonpemain ini mungkin diwakili sebagai Cinta atau Kesetiaan.
 
 Namun, jika metode ini tidak berguna, lewati saja. Terkadang yang terbaik adalah membiarkan pemain mencari tahu mengapa karakter mereka perlu tetap bersama, dan mengapa mereka tidak boleh ditinggalkan atau dijauhi. Dalam kasus ini, bekerjasamalah dengan pemain Anda dan pastikan mereka tidak mengecualikan siapa pun dalam kelompok.
 
@@ -341,7 +341,7 @@ Namun, ingatlah bahwa karakter pemainlah, bukan karakter nonpemain, yang menjadi
 
 Pengikut karakter nonpemain yang lebih kompeten dan mencuri sorotan dari karakter pemain jarang menjadi ide yang bagus, kecuali tujuannya adalah agar mereka membuat karakter pemain merasa aman secara palsu, dan kemudian menyingkir dengan cepat dan mendorong karakter pemain ke dalam petualangan. Kapan pun Anda bisa memberikan peran aktif kepada karakter pemain sebagai pengganti karakter nonpemain, lakukanlah. Anda dapat memberikan informasi latar belakang apa pun pada kartu catatan atau memberikannya kepada pemain saat mereka berhasil melakukan lemparan Pengetahuan (atau yang setara).
 
-Selain tantangan akting dalam membangkitkan semua karakter nonpemain yang berbeda ini, Anda harus mewakili mereka pada tingkat mekanis. Anda melempar untuk mereka, menentukan tindakan apa yang mereka ambil, dan mencatat seberapa terluka mereka selama pertempuran. Anda harus memiliki atribut kunci untuk karakter nonpemain penting, jika mereka penting, menggunakannya dalam *Bab Sebelas: Makhluk* jika diperlukan. Biasanya, dalam pertemuan non-kekerasan, Anda hanya memerlukan beberapa karakteristik (INT, POW, CHA) dan peringkat keterampilan berbasis Komunikasi yang relevan untuk karakter nonpemain. Untuk pertempuran, Anda memerlukan serangkaian atribut yang berlawanan, dengan karakteristik seperti (DEX, CON, STR), statistik lain seperti poin hit, poin kekuatan, nilai zirah, keterampilan berorientasi pertempuran apa pun, dan senjata dan/atau kekuatan apa pun yang berlaku (dan tingkatannya).
+Selain tantangan akting dalam membangkitkan semua karakter nonpemain yang berbeda ini, Anda harus mewakili mereka pada tingkat mekanis. Anda melempar untuk mereka, menentukan tindakan apa yang mereka ambil, dan mencatat seberapa terluka mereka selama pertempuran. Anda harus memiliki atribut kunci untuk karakter nonpemain penting, jika mereka penting, menggunakannya dalam *Bab Sebelas: Makhluk* jika diperlukan. Biasanya, dalam pertemuan non-kekerasan, Anda hanya memerlukan beberapa karakteristik (INT, POW, CHA) dan peringkat keterampilan berbasis Komunikasi yang relevan untuk karakter nonpemain. Untuk pertempuran, Anda memerlukan serangkaian atribut yang berlawanan, dengan karakteristik seperti (DEX, CON, STR), statistik lain seperti poin hit, poin kekuatan, nilai Armor, keterampilan berorientasi pertempuran apa pun, dan senjata dan/atau kekuatan apa pun yang berlaku (dan tingkatannya).
 
 Trik yang hebat dan halus bagi seorang gamemaster adalah membuat salinan lembar karakter pemain, dan menggunakannya sebagai dasar untuk karakter nonpemain, melakukan perubahan jika perlu untuk menyamarkan asal-usul mereka. Seringkali ini adalah sumber hebat karakter yang dirancang dengan baik yang merupakan kerabat yang setara dengan karakter pemain.
 
@@ -373,7 +373,7 @@ Demikian pula, ada banyak pustaka efek suara yang tersedia daring untuk menyemar
 
 ### Properti
 
-Terkadang, memiliki beberapa properti kecil dapat membantu membangkitkan latar, seperti buku-buku tua berdebu yang aneh di tumpukan di samping gamemaster untuk gim terinspirasi Lovecraft yang melibatkan horor di universitas terpencil dan kuno. Untuk gim seni bela diri yang berlatar di Tiongkok modern, beberapa koin Tiongkok yang tersebar di atas meja mungkin sudah cukup. Cobalah menumpuk beberapa *disk drive* lama, papan sirkuit, kabel, dan berbagai adaptor di sekitar area bermain untuk memberikan suasana pada gim *cyberpunk* atau menerangi meja hanya melalui laptop dan monitor komputer.
+Terkadang, memiliki beberapa properti kecil dapat membantu membangkitkan latar, seperti buku-buku tua berdebu yang aneh di tumpukan di samping gamemaster untuk gim terinspirasi Lovecraft yang melibatkan horor di universitas terpencil dan kuno. Untuk gim seni bela diri yang berlatar di Tiongkok modern, beberapa koin Tiongkok yang tersebar di atas meja mungkin sudah cukup. Cobalah menumpuk beberapa *disk Mengemudi* lama, papan sirkuit, kabel, dan berbagai adaptor di sekitar area bermain untuk memberikan suasana pada gim *cyberpunk* atau menerangi meja hanya melalui laptop dan monitor komputer.
 
 ### Lingkungan Gim
 
@@ -499,10 +499,10 @@ Tidak setiap pemain adalah tipe yang sama di setiap kampanye. Terkadang seorang 
 > 
 > ### Keterampilan dan Sifat Kepribadian
 > 
-> Keterampilan Wawasan (*Insight*) dapat digunakan untuk menentukan penyebaran sifat kepribadian karakter nonpemain dengan cepat dalam arti umum, atau Psikologi mungkin digunakan untuk analisis jangka panjang. Jangan mengungkapkan nilai sebenarnya, melainkan kecenderungan yang kuat ke satu arah atau yang lain.
+> Keterampilan Wawasan (*Intuisi*) dapat digunakan untuk menentukan penyebaran sifat kepribadian karakter nonpemain dengan cepat dalam arti umum, atau Psikologi mungkin digunakan untuk analisis jangka panjang. Jangan mengungkapkan nilai sebenarnya, melainkan kecenderungan yang kuat ke satu arah atau yang lain.
 > 
 > Meskipun sangat tidak mungkin memiliki karakter pemain yang melakukan Psikologi pada karakter nonpemain untuk jangka waktu yang lama, Anda dapat membiarkan lemparan Psikologi yang sukses memengaruhi satu sifat kepribadian berpasangan dengan cara yang sama seperti memulihkan SAN yang hilang. Lempar untuk melihat apakah poin SAN dipulihkan, tetapi alih-alih menambahkan SAN, gunakan hasilnya untuk menggeser sifat kepribadian tertentu sebanyak poin tersebut ke arah yang diinginkan. Waktu perawatan identik. Dengan cara ini, melalui kesabaran dan terapi, lemparan Psikologi yang sukses dapat ‘membantu’ karakter nonpemain mengubah kecenderungan alami mereka ke arah sifat kepribadian yang diinginkan.
 > 
 > ### Sifat Kepribadian dan Karakter Pemain
 > 
-> Anda juga dapat menggunakan sifat kepribadian untuk karakter pemain, jika diinginkan, memperlakukannya seperti yang Anda lakukan untuk karakter nonpemain. Mereka menjadi seperti gairah (*passions*), menambah aktivitas atau dikonsultasikan saat diprovokasi, dengan pemeriksaan pengalaman jika berhasil. Pemain selalu memiliki kendali atas apa yang dilakukan karakter mereka, tetapi jika mereka berhasil melempar satu sifat dan memutuskan untuk bertindak sesuai dengan sifat lawan, Anda harus meminta mereka secara otomatis membuat pemeriksaan pengalaman untuk sifat lawan itu. Ketika satu sifat meningkat, yang lain menurun. Jika mereka ingin mencari perawatan untuk sifat ini, lihat aturan untuk Psikologi (di atas).
+> Anda juga dapat menggunakan sifat kepribadian untuk karakter pemain, jika diinginkan, memperlakukannya seperti yang Anda lakukan untuk karakter nonpemain. Mereka menjadi seperti gairah (*Gairah*), menambah aktivitas atau dikonsultasikan saat diprovokasi, dengan pemeriksaan pengalaman jika berhasil. Pemain selalu memiliki kendali atas apa yang dilakukan karakter mereka, tetapi jika mereka berhasil melempar satu sifat dan memutuskan untuk bertindak sesuai dengan sifat lawan, Anda harus meminta mereka secara otomatis membuat pemeriksaan pengalaman untuk sifat lawan itu. Ketika satu sifat meningkat, yang lain menurun. Jika mereka ingin mencari perawatan untuk sifat ini, lihat aturan untuk Psikologi (di atas).

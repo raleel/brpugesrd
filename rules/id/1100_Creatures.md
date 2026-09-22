@@ -14,7 +14,7 @@ Hampir setiap makhluk dan karakter non-pemain mengikuti format yang sama, meskip
 * **Hit Points (HP):** Biasanya rata-rata SIZ dan CON, untuk beberapa entri, hit points mungkin dihitung secara berbeda, seperti berdasarkan POW atau karakteristik lainnya. Pada 1 hit point, makhluk hidup tidak sadarkan diri atau lumpuh, dan ketika mencapai atau di bawah 0, ia mati.  
 * **Tingkat Pergerakan (MOV):** Cara utama pergerakan dicantumkan terlebih dahulu. Makhluk yang tidak bisa bergerak tidak memiliki tingkat MOV.  
 * **Modifikator Kerusakan (DM):** Rata-rata untuk makhluk rata-rata, jika ada. Hitung ulang jika diperlukan untuk spesimen yang lebih besar atau lebih kecil.  
-* **Baju Zirah (Zirah):** Nilai zirah dan jenis zirah, jika ada.  
+* **Baju Armor (Armor):** Nilai Armor dan jenis Armor, jika ada.  
 * **Serangan:** Jenis serangan, peringkat keterampilan, dan lemparan kerusakan. Untuk serangan, ‘+dm’ berarti sudah termasuk, dan ‘+½dm’ adalah ketika modifikator kerusakan dibagi dua. Kemampuan tempur atau kondisi khusus dicatat di sini. Semua serangan yang tersedia terjadi pada peringkat DEX yang sama, kecuali ditentukan lain. Umumnya, serangan cakar memberikan 1D6+dm, dan gigitan atau tanduk memberikan 1D3+dm.  
 * **Keterampilan:** Keterampilan paling relevan untuk perjumpaan rata-rata. Untuk keterampilan yang tidak tercantum, Manusia memiliki peluang dasar sebagai standar, dan keterampilan tambahan harus ditentukan oleh gamemaster sebagaimana mestinya (lihat Mengukur Peringkat Keterampilan).  
 * **Kekuatan (Powers):** Kekuatan apa pun yang dimiliki spesimen rata-rata, dengan jenis yang ditentukan jika perlu.
@@ -85,7 +85,7 @@ Makhluk-makhluk ini akrab bagi sebagian besar pemain sehingga deskripsi mereka h
 
 ##### Makhluk Alami
 
-| Nama | STR | CON | SIZ | POW | DEX | MOV | Zirah | HP | DM | Serangan dan %, Kerusakan | Keterampilan |
+| Nama | STR | CON | SIZ | POW | DEX | MOV | Armor | HP | DM | Serangan dan %, Kerusakan | Keterampilan |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
 | Aligator atau Buaya | 4D6+12 | 3D6+6 | 4D6+12 | 3D6 | 2D6 | Jalan 7 Renang 6 | 5 pt. kulit | 22 | +2D6 | Gigit 50%, 1D10+dm | Menghindar 30%, Sembunyi 50%, Cari 35%, Indra 30%, Siluman 75%, Lacak 15% |
 | Beruang | 3D6+10 | 2D6+6 | 3D6+10 | 3D6 | 3D6 | Jalan 12 Renang 2 | 3 pt. bulu | 17 | +2D6 | Gigit 25%, 1D10; Cakar 25%, 1D6+dm | Panjat 35%, Bergerak Tenang 35%, Cari 35%, Indra 35% |
@@ -113,7 +113,7 @@ Kebanyakan hewan alami memiliki kecerdasan dasar (INT 3–5), jarang bertarung s
 
 **Aligator atau Buaya:** Aligator lebih kecil dan lebih lemah (–1D6 pada STR dan SIZ), memiliki rahang yang lebih kecil (1D8+dm), dan kurang agresif daripada buaya.
 
-**Beruang:** Beruang dapat menyerang dua kali dalam satu putaran, menggunakan dua serangan cakar terpisah atau satu serangan cakar dan satu serangan gigitan. Grizzly lebih besar, lebih kuat (STR +1D6, CON +2, SIZ +2, +1 Zirah), dan lebih ganas (+10% pada keterampilan tempur). Beruang kutub lebih besar dan lebih kuat (STR +2D6, CON +1D6+2, SIZ +2D6, +3 Zirah, +20% pada keterampilan serangan, Renang 80%).
+**Beruang:** Beruang dapat menyerang dua kali dalam satu putaran, menggunakan dua serangan cakar terpisah atau satu serangan cakar dan satu serangan gigitan. Grizzly lebih besar, lebih kuat (STR +1D6, CON +2, SIZ +2, +1 Armor), dan lebih ganas (+10% pada keterampilan tempur). Beruang kutub lebih besar dan lebih kuat (STR +2D6, CON +1D6+2, SIZ +2D6, +3 Armor, +20% pada keterampilan serangan, Renang 80%).
 
 **Brontosaurus:** Brontosaurus dapat menyerang sekali per putaran, menggunakan sabetan ekor atau injakan jika mereka bergerak. Sabetan ekor adalah serangan sapuan efek area. Injakan hanya digunakan terhadap target yang rentan atau memiliki SIZ kurang dari 1/3 SIZ brontosaurus.
 
@@ -135,7 +135,7 @@ Kebanyakan hewan alami memiliki kecerdasan dasar (INT 3–5), jarang bertarung s
 
 **Hiu:** Jika gigitan hiu meleset atau dihindari, ia mencoba sabetan sirip 5 peringkat DEX kemudian. Jika gigitan hiu ditangkis atau mengenai, ia tidak mencoba sabetan sirip. Setelah serangan gigitan yang berhasil, beberapa hiu (seperti hiu putih besar) terus menggigit dan meronta-ronta selama putaran pertempuran berikutnya (serangan Mudah untuk kerusakan yang sama) sampai terlepas atau target mati. Hiu raksasa memiliki STR dan SIZ 6D6+24, CON 4D6+18, 39 hit point, dan modifikator kerusakan +5D6.
 
-**Ular (Konstriktor):** Konstriktor dapat menyerang dua kali dalam putaran pertempuran, pertama menggigit dan kemudian mencoba meremas 5 peringkat DEX kemudian. Jika serangan remasan berhasil, target terbungkus dalam lilitan konstriktor. Target dapat terengah-engah tetapi tidak bisa berteriak. Setiap putaran meremas memberikan kerusakan pada hit point target (lokasi tubuh dada). Hanya zirah dada kaku (jika zirah berdasarkan lokasi tubuh digunakan) yang mengurangi kerusakan ini. Jika satu anggota tubuh bebas, target dapat melakukan serangan Sulit terhadap konstriktor. Jika tidak ada anggota tubuh yang bebas, target tidak dapat menyerang dalam sebagian besar keadaan (kebijaksanaan gamemaster). Untuk menjadi benar-benar bebas dari lilitan, target harus melakukan lemparan resistensi STR mereka melawan STR konstriktor, alih-alih menyerang dalam satu putaran. Untuk kebebasan sebagian, lemparan Kelincahan Sulit membebaskan satu lengan atau anggota tubuh lainnya. Target yang diremas harus berhasil dalam lemparan Stamina atau jatuh pingsan. Setelah target pingsan atau mati, konstriktor menelan mereka bulat-bulat. Kecuali mengenakan alat pernapasan yang selamat dari kehancuran, target mati lemas. Konstriktor raksasa menambahkan +2D6 pada STR dan SIZ, memiliki 19 hit point, modifikator kerusakan +2D6, dan kulit bersisik 4 poin.
+**Ular (Konstriktor):** Konstriktor dapat menyerang dua kali dalam putaran pertempuran, pertama menggigit dan kemudian mencoba meremas 5 peringkat DEX kemudian. Jika serangan remasan berhasil, target terbungkus dalam lilitan konstriktor. Target dapat terengah-engah tetapi tidak bisa berteriak. Setiap putaran meremas memberikan kerusakan pada hit point target (lokasi tubuh dada). Hanya Armor dada kaku (jika Armor berdasarkan lokasi tubuh digunakan) yang mengurangi kerusakan ini. Jika satu anggota tubuh bebas, target dapat melakukan serangan Sulit terhadap konstriktor. Jika tidak ada anggota tubuh yang bebas, target tidak dapat menyerang dalam sebagian besar keadaan (kebijaksanaan gamemaster). Untuk menjadi benar-benar bebas dari lilitan, target harus melakukan lemparan resistensi STR mereka melawan STR konstriktor, alih-alih menyerang dalam satu putaran. Untuk kebebasan sebagian, lemparan Kelincahan Sulit membebaskan satu lengan atau anggota tubuh lainnya. Target yang diremas harus berhasil dalam lemparan Stamina atau jatuh pingsan. Setelah target pingsan atau mati, konstriktor menelan mereka bulat-bulat. Kecuali mengenakan alat pernapasan yang selamat dari kehancuran, target mati lemas. Konstriktor raksasa menambahkan +2D6 pada STR dan SIZ, memiliki 19 hit point, modifikator kerusakan +2D6, dan kulit bersisik 4 poin.
 
 **Ular (Berbisa):** Konsultasikan bagian tentang **Racun** dan **Contoh Racun** untuk informasi lebih lanjut tentang berbagai jenis ular berbisa. Ular berbisa raksasa memiliki STR dan SIZ 4D6+12, 17 hit point, dan modifikator kerusakan +2D6.
 
@@ -162,7 +162,7 @@ Setengah Manusia, setengah kuda, dikatakan sebagai makhluk yang bijaksana dan pa
 
 | Pindah 12 | Hit Point 19 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 (Manusia); +2D6 (kuda) | **Baju Zirah** 1-poin kulit (dapat memakai zirah) |
+| **Modifikator Kerusakan** +1D4 (Manusia); +2D6 (kuda) | **Baju Armor** 1-poin kulit (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -182,7 +182,7 @@ Centaur dapat menendang 5 peringkat DEX setelah menyerang dengan senjata jarak d
 
 ### Naga
 
-Reptil terbang raksasa yang menyemburkan api dengan cakar dan gigi besar, kulit zirah yang tangguh, naga adalah makhluk soliter, hidup sendirian dan menghancurkan pedesaan di sekitar mereka. Beberapa naga cerdas, tetapi banyak yang hanya binatang licik. Mereka sering menjadi penimbun, mengumpulkan emas atau harta karun lainnya di sarang mereka. Statistik ini mewakili naga binatang. Naga bisa dari berbagai jenis, dibedakan berdasarkan warna dan senjata napas (lihat di bawah). Beberapa naga bahkan mungkin tidak bisa terbang atau memiliki karakteristik yang sangat berbeda.
+Reptil terbang raksasa yang menyemburkan api dengan cakar dan gigi besar, kulit Armor yang tangguh, naga adalah makhluk soliter, hidup sendirian dan menghancurkan pedesaan di sekitar mereka. Beberapa naga cerdas, tetapi banyak yang hanya binatang licik. Mereka sering menjadi penimbun, mengumpulkan emas atau harta karun lainnya di sarang mereka. Statistik ini mewakili naga binatang. Naga bisa dari berbagai jenis, dibedakan berdasarkan warna dan senjata napas (lihat di bawah). Beberapa naga bahkan mungkin tidak bisa terbang atau memiliki karakteristik yang sangat berbeda.
 
 | STR | CON | SIZ | INT | POW | DEX |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -191,7 +191,7 @@ Reptil terbang raksasa yang menyemburkan api dengan cakar dan gigi besar, kulit 
 
 | Pindah 4 (10 terbang) | Hit Point 53 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +8D6 | **Baju Zirah** 12-poin sisik |
+| **Modifikator Kerusakan** +8D6 | **Baju Armor** 12-poin sisik |
 
 **Serangan:**
 
@@ -200,7 +200,7 @@ Reptil terbang raksasa yang menyemburkan api dengan cakar dan gigi besar, kulit 
 * Cakar 50%, 1D6+dm (berdarah)  
 * Ekor 50%, 1D6+½dm (menghancurkan)
 
-Naga menyerang dengan terbang di atas dan menyemburkan api ke target mereka. Api naga mencakup area selebar tiga meter dengan jarak setara dengan POW naga dalam meter (lihat **Serangan Area**), tetapi zirah akan melindungi dari kerusakan ini. Jika lokasi tubuh digunakan, api memengaruhi semua lokasi tubuh: 4D6 dilemparkan sekali; dan bagi kerusakan di antara lokasi tubuh. Naga harus menghabiskan 1D6 poin kekuatan (atau poin kelelahan) untuk menyemburkan api. Selain itu, target apa pun yang terkena kemungkinan besar akan terbakar. Saat terbang, naga hanya memiliki serangan napasnya kecuali ia memasuki pertempuran jarak dekat dengan target di udara.
+Naga menyerang dengan terbang di atas dan menyemburkan api ke target mereka. Api naga mencakup area selebar tiga meter dengan jarak setara dengan POW naga dalam meter (lihat **Serangan Area**), tetapi Armor akan melindungi dari kerusakan ini. Jika lokasi tubuh digunakan, api memengaruhi semua lokasi tubuh: 4D6 dilemparkan sekali; dan bagi kerusakan di antara lokasi tubuh. Naga harus menghabiskan 1D6 poin kekuatan (atau poin kelelahan) untuk menyemburkan api. Selain itu, target apa pun yang terkena kemungkinan besar akan terbakar. Saat terbang, naga hanya memiliki serangan napasnya kecuali ia memasuki pertempuran jarak dekat dengan target di udara.
 
 Saat di tanah, naga dapat melakukan dua serangan setiap putaran pertempuran: ia bisa menggigit atau menyemburkan api untuk satu serangan dan akan menggunakan serangan cakar atau sapuan ekor untuk serangan lainnya. Serangan kedua adalah 5 peringkat DEX setelah yang pertama. Serangan sapuan ekor naga ditangani sebagai serangan sapuan efek area (lihat *Bab Tujuh: Aturan Titik*).
 
@@ -219,7 +219,7 @@ Kurcaci secara tradisional hidup di bawah tanah di gua-gua dan katakombe bawah t
 
 | Pindah 6 | Hit Point 12 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 8 poin (rantai dan helm ringan) |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 8 poin (rantai dan helm ringan) |
 
 **Serangan:**
 
@@ -228,7 +228,7 @@ Kurcaci secara tradisional hidup di bawah tanah di gua-gua dan katakombe bawah t
 * Busur Silang Berat 40%, 2D4+2 (menembus)  
 * Buckler 50%, 1D2+dm (knockback)
 
-**Keterampilan:** Menilai 50%, Menawar 45%, Berkelahi 50%, Kerajinan (pandai besi) 45%, Menghindar 40%, Gulat 45%, Pengetahuan (Pengetahuan-Kurcaci) 35%, Bahasa (Manusia) 35%, Bahasa (Kurcaci) 65%, Dengar 45%, Memperbaiki (senjata dan zirah) 35%, Lihat 45%, Status 35%, Lempar 35%.
+**Keterampilan:** Menilai 50%, Menawar 45%, Berkelahi 50%, Kerajinan (pandai besi) 45%, Menghindar 40%, Gulat 45%, Pengetahuan (Pengetahuan-Kurcaci) 35%, Bahasa (Manusia) 35%, Bahasa (Kurcaci) 65%, Dengar 45%, Memperbaiki (senjata dan Armor) 35%, Lihat 45%, Status 35%, Lempar 35%.
 
 **Kekuatan:** Secara tradisional, kurcaci menghindari sihir, meskipun beberapa menggunakan sihir atau sihir hitam. Kurcaci memiliki kemampuan alami seperti Super Indra (Penglihatan Gelap), dengan level setara dengan ½ (bulatkan ke atas) POW mereka.
 
@@ -245,7 +245,7 @@ Manusia dan peri terkadang membentuk hubungan, meskipun keturunan jarang terjadi
 
 | Pindah 11 | Hit Point 10 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 1 poin (kulit lunak) |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 1 poin (kulit lunak) |
 
 **Serangan:**
 
@@ -281,7 +281,7 @@ Hantu biasanya hanya memiliki INT dan POW, meskipun beberapa hantu mungkin memil
 
 | Pindah 14 (setara dengan POW) | Hit Point Tidak ada |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada (imaterial, lihat di bawah). |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada (imaterial, lihat di bawah). |
 
 **Serangan:**
 
@@ -306,7 +306,7 @@ Ghoul mendapatkan poin kekuatan dengan mengonsumsi mayat, dengan tingkat 1 poin 
 
 | Pindah 8 | Hit Point 12 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada (dapat memakai zirah) |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -335,7 +335,7 @@ Berikut adalah raksasa ‘generik’ setinggi 8 meter yang sudah dewasa, berumur
 
 | Pindah 18 | Hit Point 118 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +15D6 | **Baju Zirah** 21-poin kulit (lihat di bawah) |
+| **Modifikator Kerusakan** +15D6 | **Baju Armor** 21-poin kulit (lihat di bawah) |
 
 **Serangan:**
 
@@ -349,7 +349,7 @@ Raksasa menggunakan klub raksasa atau batang pohon dalam pertempuran dan berspes
 
 **Keterampilan:** Indra 60%, Lihat 40%, Lempar 35%.
 
-Raksasa memiliki kulit keras senilai 6 poin ditambah modifikator kerusakan mereka dalam D6, jadi raksasa dengan modifikator kerusakan 15D6 memiliki kulit 21 poin. Beberapa raksasa memakai zirah kaki (seringkali pelat), yang menambah nilai zirah di lokasi tersebut. Jika lokasi tubuh digunakan, karakter berukuran normal yang melawan raksasa hanya boleh melempar 1D10 untuk menentukan lokasi yang terkena, kecuali mereka menggunakan senjata rudal.
+Raksasa memiliki kulit keras senilai 6 poin ditambah modifikator kerusakan mereka dalam D6, jadi raksasa dengan modifikator kerusakan 15D6 memiliki kulit 21 poin. Beberapa raksasa memakai Armor kaki (seringkali pelat), yang menambah nilai Armor di lokasi tersebut. Jika lokasi tubuh digunakan, karakter berukuran normal yang melawan raksasa hanya boleh melempar 1D10 untuk menentukan lokasi yang terkena, kecuali mereka menggunakan senjata rudal.
 
 ### Griffin
 
@@ -362,7 +362,7 @@ Griffin adalah makhluk chimerical, gabungan tubuh dan kaki belakang singa, serta
 
 | Pindah 8 (12 terbang) | Hit Point 29 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +3D6 | **Baju Zirah** 6-poin kulit |
+| **Modifikator Kerusakan** +3D6 | **Baju Armor** 6-poin kulit |
 
 **Serangan:**
 
@@ -384,7 +384,7 @@ Halfling adalah makhluk kecil seperti Manusia, umumnya damai dan beradab. Secara
 
 | Pindah 6 | Hit Point 12 |
 | :---- | :---- |
-| **Modifikator Kerusakan** –1D6 | **Baju Zirah** Tidak ada (dapat memakai zirah) |
+| **Modifikator Kerusakan** –1D6 | **Baju Armor** Tidak ada (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -408,7 +408,7 @@ Minotaur adalah Humanoid dengan kepala banteng dan kaki berkuku. Kasar dan penuh
 
 | Pindah 6 | Hit Point 19 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** 3-poin kulit (dapat memakai zirah lain, biasanya kulit) |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** 3-poin kulit (dapat memakai Armor lain, biasanya kulit) |
 
 **Serangan:**
 
@@ -435,7 +435,7 @@ Karena keadaan daging mereka yang kering dan rusak, api sangat efektif melawan m
 
 | Pindah 8 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D6 | **Baju Zirah** 3-poin kulit (dapat memakai zirah) |
+| **Modifikator Kerusakan** +1D6 | **Baju Armor** 3-poin kulit (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -460,7 +460,7 @@ Orc adalah Humanoid buas yang membenci Kemanusiaan, peri, kurcaci, dan hampir se
 
 | Pindah 8 | Hit Point 10 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 6-poin cincin dan helm ringan |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 6-poin cincin dan helm ringan |
 
 **Serangan:**
 
@@ -485,7 +485,7 @@ Kerangka yang dianimasikan dibuat atau dipanggil oleh sihir atau hasil dari kutu
 
 | Pindah 10 | Hit Point 13 (lihat di bawah) |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada (dapat memakai zirah, lihat juga di bawah untuk kekebalan) |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada (dapat memakai Armor, lihat juga di bawah untuk kekebalan) |
 
 **Serangan:**
 
@@ -501,7 +501,7 @@ Tulang kering bersifat rapuh, dan patah serta pecah dengan mudah dari pukulan be
 
 ### Troll
 
-Troll adalah Humanoid pemakan daging yang besar dengan kulit kasar kehitaman-kehijauan, bahu dan lengan berbulu, serta cakar panjang. Mereka secara tradisional tinggal di pegunungan dan hutan, lebih suka tinggal di gua atau terkadang di bawah jembatan. Beberapa troll bisa berbicara, sementara yang lain bersifat binatang dan tidak bisa. Mereka adalah makhluk nokturnal dan menghindari sinar matahari kapan pun mereka bisa. Mungkin ada spesies troll lain, biasanya dinamai berdasarkan lingkungan mereka (batu, es, kayu, cadas, bukit, gunung, pasir, laut, danau, rawa, rawa, dll.), berbeda dalam pewarnaan dan cara lain. Troll yang lebih pintar menggunakan senjata yang lebih canggih, sementara beberapa bahkan akan memakai zirah berat.
+Troll adalah Humanoid pemakan daging yang besar dengan kulit kasar kehitaman-kehijauan, bahu dan lengan berbulu, serta cakar panjang. Mereka secara tradisional tinggal di pegunungan dan hutan, lebih suka tinggal di gua atau terkadang di bawah jembatan. Beberapa troll bisa berbicara, sementara yang lain bersifat binatang dan tidak bisa. Mereka adalah makhluk nokturnal dan menghindari sinar matahari kapan pun mereka bisa. Mungkin ada spesies troll lain, biasanya dinamai berdasarkan lingkungan mereka (batu, es, kayu, cadas, bukit, gunung, pasir, laut, danau, rawa, rawa, dll.), berbeda dalam pewarnaan dan cara lain. Troll yang lebih pintar menggunakan senjata yang lebih canggih, sementara beberapa bahkan akan memakai Armor berat.
 
 Sebagian besar troll yang dijumpai adalah jantan, sementara troll betina (disebut trollwife) lebih kecil dan lebih lemah (–6 pada STR dan SIZ) tetapi lebih cerdas dan lebih cepat (+1D6 pada INT, POW, dan DEX).
 
@@ -512,7 +512,7 @@ Sebagian besar troll yang dijumpai adalah jantan, sementara troll betina (disebu
 
 | Pindah 6 | Hit Point 20 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** 3-poin kulit |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** 3-poin kulit |
 
 **Serangan:**
 
@@ -537,7 +537,7 @@ Unicorn adalah hewan ajaib seperti kuda dengan kuku yang agak kecil dan satu tan
 
 | Pindah 12 | Hit Point 19 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -576,7 +576,7 @@ Beberapa vampir mengorganisir diri mereka ke dalam klan, dengan masing-masing me
 
 | Pindah 12 | Hit Point 15–17 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D6 | **Baju Zirah** Tidak ada (dapat memakai zirah) |
+| **Modifikator Kerusakan** +1D6 | **Baju Armor** Tidak ada (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -592,7 +592,7 @@ Vampir dapat melakukan satu serangan gigitan dan dua serangan cakar per putaran,
 **Kekuatan:** Vampir memiliki berbagai macam kekuatan yang dikaitkan dengan mereka. Berikut adalah kekuatan yang dimiliki hampir semua vampir.
 
 * **Sedot Darah:** Vampir yang berhasil menggigit dan merusak target dapat menyedot 1D6 STR atau 1D6 poin kekuatan dari target tersebut pada setiap putaran berikutnya ia tetap menempel, bergulat dengan mereka. Jika target telah kehilangan semua STR mereka, vampir dapat memilih untuk menyedot CON. Pada 0 CON, korban mati. Jika korban selamat, poin karakteristik ini meregenerasi 1 poin per hari istirahat, atau dua kali waktu tersebut jika aktif. Jika lebih dari satu karakteristik disedot, ganti pemulihan setiap hari untuk memulihkan 1 poin STR, lalu 1 poin CON, dll. Poin kekuatan meregenerasi secara normal. Vampir menggunakan Sedot Darah untuk memulihkan poin kekuatan mereka sendiri—ia tidak memiliki POW sendiri dan tidak dapat meregenerasi mereka secara normal. STR, CON, atau poin kekuatan yang disedot ditransfer oleh vampir sebagai jumlah poin kekuatan yang sama. Vampir tidak dapat menyimpan lebih banyak poin kekuatan daripada CON-nya. Poin apa pun di atas itu hilang.  
-* **Sentuhan Dingin:** Vampir yang menyentuh target dapat menyedot poin kekuatan alih-alih darah. Vampir harus berhasil dalam serangan cakar terhadap target (atau menyentuh target yang tidak berdaya atau tidak sadar). Pada putaran berikutnya ia melakukan lemparan resistensi poin kekuatan saat ini vs. poin kekuatan target saat ini. Zirah tidak melindungi terhadap serangan ini. Jika vampir berhasil, ia menyedot 1D3 poin kekuatan dari target, yang ditransfer ke total poin kekuatan saat ini. Vampir harus tetap melakukan kontak dengan target setiap putaran untuk terus menyedot ini dan harus berhasil dalam lemparan resistensi setiap putaran pertempuran. Target memulihkan poin kekuatan yang hilang ini secara normal.  
+* **Sentuhan Dingin:** Vampir yang menyentuh target dapat menyedot poin kekuatan alih-alih darah. Vampir harus berhasil dalam serangan cakar terhadap target (atau menyentuh target yang tidak berdaya atau tidak sadar). Pada putaran berikutnya ia melakukan lemparan resistensi poin kekuatan saat ini vs. poin kekuatan target saat ini. Armor tidak melindungi terhadap serangan ini. Jika vampir berhasil, ia menyedot 1D3 poin kekuatan dari target, yang ditransfer ke total poin kekuatan saat ini. Vampir harus tetap melakukan kontak dengan target setiap putaran untuk terus menyedot ini dan harus berhasil dalam lemparan resistensi setiap putaran pertempuran. Target memulihkan poin kekuatan yang hilang ini secara normal.  
 * **Tatapan Hipnotis:** Jika vampir mengatasi POW target dengan poin kekuatan saat ini dalam lemparan resistensi, target terhipnotis dan dapat dibuat untuk mengikuti instruksi sederhana. Jika instruksi ini merusak diri sendiri, di awal putaran target dapat mencoba lemparan Ide untuk melepaskan diri.  
 * **Penglihatan Malam:** Vampir memiliki kemampuan alami yang menggabungkan Super Indra Penglihatan Gelap, Penglihatan Inframerah, dan Penglihatan Malam pada level setara dengan setengah INT vampir (bulatkan ke atas).  
 * **Regenerasi:** Kecuali ia dibunuh oleh metode tradisional (lihat di bawah), vampir meregenerasi 1D3 hit point per putaran pertempuran. Jika lokasi tubuh digunakan, vampir menyembuhkan 1D3 hit point per lokasi tubuh yang terluka per putaran pertempuran. Jika ia berada di bawah sinar matahari langsung atau di hadapan simbol suci, ia tidak meregenerasi kerusakan ini dan harus menyembuhkannya secara normal (ia juga menerima kerusakan dari sumber-sumber ini, lihat Kelemahan, berikut). Selain itu, kerusakan dari air suci, simbol suci, sinar matahari, atau api tidak dapat diregenerasi dan harus disembuhkan dengan tingkat penyembuhan normal vampir.
@@ -637,7 +637,7 @@ Dalam bentuk Manusia, werewolf secara lahiriah normal dan memiliki karakteristik
 
 | Pindah 12 / 13 | Hit Point 12 / 12–13 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 / +1D6 | **Baju Zirah** 1-poin bulu (kekebalan terhadap senjata normal, lihat di bawah) |
+| **Modifikator Kerusakan** +1D4 / +1D6 | **Baju Armor** 1-poin bulu (kekebalan terhadap senjata normal, lihat di bawah) |
 
 **Serangan (bentuk hibrida):**
 
@@ -670,7 +670,7 @@ Zombi adalah mayat hidup yang dibangkitkan oleh nekromansi, voodoo, kerasukan ib
 
 | Pindah 4 | Hit Point 14–15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada (lihat di bawah) |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada (lihat di bawah) |
 
 **Serangan:**
 
@@ -702,7 +702,7 @@ Sebagaimana dicatat dalam Kehilangan Kewarasan dan Makhluk, karakter yang saleh 
 
 | Pindah 10 (12 terbang) | Hit Point 22 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D6 | **Baju Zirah** 10-pt. pelat pelindung dada + 10-pt. radiasi ilahi |
+| **Modifikator Kerusakan** +1D6 | **Baju Armor** 10-pt. pelat pelindung dada + 10-pt. radiasi ilahi |
 
 **Serangan:**
 
@@ -714,7 +714,7 @@ Sebagai makhluk ilahi, malaikat mampu melampaui tingkat keterampilan 100% meskip
 
 **Kekuatan:** Malaikat dikatakan memiliki banyak kekuatan, di mana setiap malaikat individu mungkin memiliki beberapa, semua, atau tidak sama sekali:
 
-* **Radiasi Ilahi:** Malaikat dapat memancarkan radiasi cahaya yang melindungi mereka dari cedera, berfungsi sebagai zirah 10-pt. terhadap sumber kerusakan apa pun, termasuk dari kekuatan.  
+* **Radiasi Ilahi:** Malaikat dapat memancarkan radiasi cahaya yang melindungi mereka dari cedera, berfungsi sebagai Armor 10-pt. terhadap sumber kerusakan apa pun, termasuk dari kekuatan.  
 * **Terbang:** Baik bersayap atau tidak bersayap, malaikat dapat terbang dengan kecepatan tinggi. Malaikat memiliki kekuatan super Terbang pada level setara dengan POW mereka, meskipun tidak memakan poin kekuatan untuk digunakan. Malaikat mungkin tampak tidak bersayap, lalu memunculkan sayap seperti burung besar yang tiba-tiba tumbuh dan terbentang dari punggungnya.  
 * **Sentuhan Penyembuhan:** Malaikat dapat meletakkan tangan dan menyembuhkan yang sakit, lemah, dan terluka. Selain memulihkan hit point dengan biaya 1 hit point per poin kekuatan, malaikat dapat menghapus penyakit, penyakit, luka besar, atau kelemahan apa pun dengan menghabiskan 1 poin POW permanen mereka sendiri per kelemahan. Jika poin kekuatan malaikat mencapai 0, ia kembali ke bidang asalnya sampai dipanggil atau diizinkan untuk kembali (setidaknya satu minggu, setelah itu ia pulih sepenuhnya).  
 * **Api Suci:** Malaikat dapat memanggil api suci, serangan api dari atas dengan area efek tiga meter persegi. Jika terjebak dalam api ini, karakter saleh yang kesetiaannya selaras dengan malaikat dapat melakukan lemparan kesetiaan mereka sebagai %. Jika berhasil, karakter tidak menerima kerusakan dari api suci. Target yang gagal, atau tidak saleh, dilalap api, memberikan 10D6 kerusakan (dibagi di antara lokasi tubuh, jika digunakan). Tidak seperti api normal, api suci tidak bertahan lama. Efeknya hampir instan, menghilang di akhir putaran pertempuran saat dipanggil. Ini memakan 10 poin kekuatan dan dapat dipanggil sekali sehari.  
@@ -738,7 +738,7 @@ Sementara melihat malaikat berpotensi memulihkan poin SAN bagi orang yang saleh,
 
 | Pindah 10 (12 terbang) | Hit Point 22–23 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** 8-pt. kulit tangguh (dapat memakai zirah) |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** 8-pt. kulit tangguh (dapat memakai Armor) |
 
 **Serangan:**
 
@@ -759,7 +759,7 @@ Iblis lebih besar biasanya dimulai dengan ledakan api dari mulutnya sebelum terl
 * **Napas Api:** Iblis dapat mengembuskan ledakan api dengan jarak setara dengan CON-nya dalam meter. Ledakan ini adalah serangan area tiga meter persegi. Siapa pun yang terjebak dalam ledakan ini akan menerima 6D6 kerusakan api (terlepas dari kesetiaan mereka), kerusakan dibagi di antara semua lokasi tubuh, jika digunakan. Api ini bertahan lama dan terus membakar selama tiga putaran berikutnya. Konsultasikan aturan untuk api untuk detail lebih lanjut. Ledakan berapi ini memakan 6 poin kekuatan per ledakan.  
 * **Terbang:** Iblis lebih besar memiliki sayap besar seperti kelelawar dan dapat terbang, tanpa lelah dan mudah.  
 * **Regenerasi:** Iblis memiliki vitalitas neraka dan dapat meregenerasi 1D6 hit point per putaran pertempuran tanpa biaya poin kekuatan. Jika lokasi tubuh digunakan, iblis menyembuhkan 1D3 hit point per lokasi tubuh per putaran pertempuran.  
-* **Selubung Asap dan Api:** Iblis dapat menyelubungi dirinya dalam radiasi menyala yang menyebabkan 1D6 poin api per putaran pertempuran kepada makhluk apa pun yang berada dalam jarak dua meter darinya, seperti dalam pertempuran fisik. Selubung ini dapat menyulut zat yang mudah terbakar di sekitar iblis. Ini berfungsi sebagai 1 poin zirah tambahan terhadap senjata rudal kayu apa pun yang diarahkan padanya, seperti panah atau baut busur silang. Selubung ini dapat diaktifkan sesuka hati dan memakan 1 poin kekuatan per putaran untuk dipertahankan.
+* **Selubung Asap dan Api:** Iblis dapat menyelubungi dirinya dalam radiasi menyala yang menyebabkan 1D6 poin api per putaran pertempuran kepada makhluk apa pun yang berada dalam jarak dua meter darinya, seperti dalam pertempuran fisik. Selubung ini dapat menyulut zat yang mudah terbakar di sekitar iblis. Ini berfungsi sebagai 1 poin Armor tambahan terhadap senjata rudal kayu apa pun yang diarahkan padanya, seperti panah atau baut busur silang. Selubung ini dapat diaktifkan sesuka hati dan memakan 1 poin kekuatan per putaran untuk dipertahankan.
 
 Iblis lebih besar mungkin juga memiliki satu atau lebih fitur kacau.
 
@@ -774,7 +774,7 @@ Iblis lebih kecil jauh lebih kecil daripada iblis lebih besar dan telah dipanggi
 
 | Pindah 8 (12 terbang) | Hit Point 10 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 1-pt. kulit bersisik |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 1-pt. kulit bersisik |
 
 **Serangan:**
 
@@ -809,7 +809,7 @@ Elemental udara biasanya muncul sebagai Manusia wanita yang melayang dan transpa
 
 | Pindah 10 (12 terbang) | Hit Point 17–18 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada, tetapi kebal terhadap serangan normal |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada, tetapi kebal terhadap serangan normal |
 
 **Serangan:**
 
@@ -837,7 +837,7 @@ Elemental bumi muncul sebagai bentuk Humanoid bertubuh tebal, terbuat dari batu,
 
 | Pindah 6 | Hit Point 26–28 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D6 atau +2D6 | **Baju Zirah** Tidak ada, tetapi kebal terhadap serangan normal (lihat di bawah) |
+| **Modifikator Kerusakan** +1D6 atau +2D6 | **Baju Armor** Tidak ada, tetapi kebal terhadap serangan normal (lihat di bawah) |
 
 **Serangan:**
 
@@ -866,7 +866,7 @@ Elemental api muncul sebagai reptil berkaki empat yang terbuat dari plasma berap
 
 | Pindah 10 | Hit Point 26–28 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada, tetapi kebal terhadap serangan normal |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada, tetapi kebal terhadap serangan normal |
 
 **Serangan:**
 
@@ -893,7 +893,7 @@ Elemental air muncul sebagai wanita Manusia air yang cantik, samar-samar tembus 
 
 | Pindah 10 (12 berenang) | Hit Point 23–24 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada, tetapi kebal terhadap serangan normal (lihat di bawah) |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada, tetapi kebal terhadap serangan normal (lihat di bawah) |
 
 **Serangan:**
 
@@ -945,17 +945,17 @@ Elemental air muncul sebagai wanita Manusia air yang cantik, samar-samar tembus 
 > | 47–48 | Penampilan sangat membingungkan; semua serangan terhadapnya adalah pada –30%. |
 > | 49–50 | Sentuhan racun POT 2D10; serangan alami harus memberikan 1 hit point kerusakan agar racun bekerja. |
 > | 51–52 | CON adalah –2D6, tetapi meregenerasi 3 hit point per putaran sampai mati. |
-> | 53–54 | 6-pt. kulit zirah. Jika sudah memiliki kulit zirah, +6 pada nilai zirah saat ini. |
+> | 53–54 | 6-pt. kulit Armor. Jika sudah memiliki kulit Armor, +6 pada nilai Armor saat ini. |
 > | 55–56 | MOV 12 |
 > | 57–58 | Menyerap 1 atau 2 poin sihir atau sihir hitam apa pun yang dirapalkan terhadapnya, menambah jumlah tersebut pada poin kekuatan saat ini. |
 > | 59–60 | Dapat meluncurkan serangan POW vs. POW setiap putaran; jika berhasil, target kehilangan 1D6 poin kekuatan. |
-> | 61–62 | Meledak saat mencapai 0 hit point, menyebabkan 3D6 kerusakan pada semua dalam jarak tiga meter. Zirah, perisai, dll. akan melindungi terhadap ini, meskipun tangkisan senjata tidak bisa. |
+> | 61–62 | Meledak saat mencapai 0 hit point, menyebabkan 3D6 kerusakan pada semua dalam jarak tiga meter. Armor, perisai, dll. akan melindungi terhadap ini, meskipun tangkisan senjata tidak bisa. |
 > | 63–65 | Tampak jauh lebih berbahaya daripada yang sebenarnya. |
 > | 66–67 | Dapat menjadi tidak terlihat sesuka hati saat tidak dalam pertempuran. |
 > | 68–70 | Memantulkan 1- atau 2-pt. sihir atau sihir hitam kembali ke pengguna. |
-> | 71–72 | 8-pt. kulit zirah. Jika sudah memiliki kulit zirah, +8 pada nilai zirah saat ini. |
-> | 73–74 | 10-pt. kulit zirah. Jika sudah memiliki kulit zirah, +10 pada nilai zirah saat ini. |
-> | 75–76 | 12-pt. kulit zirah. Jika sudah memiliki kulit zirah, +12 pada nilai zirah saat ini. |
+> | 71–72 | 8-pt. kulit Armor. Jika sudah memiliki kulit Armor, +8 pada nilai Armor saat ini. |
+> | 73–74 | 10-pt. kulit Armor. Jika sudah memiliki kulit Armor, +10 pada nilai Armor saat ini. |
+> | 75–76 | 12-pt. kulit Armor. Jika sudah memiliki kulit Armor, +12 pada nilai Armor saat ini. |
 > | 77 | Tampak sama sekali tidak berbahaya sampai ia memasuki pertempuran. |
 > | 78–80 | Meregenerasi 1D6 hit point per putaran pertempuran sampai mati. |
 > | 81–82 | Dapat melompat secara vertikal atau horizontal sepuluh meter dari posisi diam. |
@@ -987,7 +987,7 @@ Grey alien terkadang dijumpai di lokasi kecelakaan UFO, berkeliaran dalam keadaa
 
 | Pindah 7 | Hit Point 7 |
 | :---- | :---- |
-| **Modifikator Kerusakan** –1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** –1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1009,7 +1009,7 @@ Ditemukan di ujung ruang angkasa, xenomorph ini rakus akan daging, melahap makhl
 
 | Pindah 12 | Hit Point 12–13 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 2-pt. cangkang (menyemburkan darah asam, lihat di bawah) |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 2-pt. cangkang (menyemburkan darah asam, lihat di bawah) |
 
 **Serangan:**
 
@@ -1022,7 +1022,7 @@ Setiap putaran, xenomorph dapat menyerang dua kali dengan cakar dan sekali denga
 
 **Keterampilan:** Panjat 75%, Menghindar 50%, Sembunyi 60%, Lompat 50%, Dengar 35%, Indra 50%, Lihat 35%, Siluman 50%, Lacak 75%.
 
-**Kekuatan:** Xenomorph memiliki pertahanan khusus: darah asam. Asam biologis ini sangat kuat dan menyemprot dari luka fisik apa pun yang diterima xenomorph, bersifat korosif aktif selama 1D6+2 putaran pertempuran. Target apa pun dalam jarak satu meter dari xenomorph harus melakukan lemparan Keberuntungan untuk menghindari terkena percikan. Kegagalan menunjukkan bahwa karakter menerima 1D3 poin dari asam tersebut. Zirah awalnya melindungi terhadap asam ini, tetapi tidak lama. Asam terus memakan zirah, memberikan kerusakan setiap putaran pertempuran sampai menembus zirah. Gamemaster harus melacak kerusakan asam setiap putaran sampai nilai zirah teratasi. Pada titik ini, asam membakar karakter. Melepaskan zirah tanpa terbakar memakan waktu satu putaran pertempuran penuh dan lemparan Kelincahan Sulit. Jika lokasi tubuh digunakan, hanya zirah pada lokasi tubuh yang terkena yang perlu dilepas. Kegagalan menunjukkan bahwa zirah masih terpasang. Kesalahan fatal menunjukkan bahwa asam mengenai karakter. Setelah karakter terbakar oleh asam, ia terus membakar sampai dinetralkan oleh suatu kekuatan, atau asam akhirnya berhenti menjadi korosif di akhir 1D6+2 putaran.
+**Kekuatan:** Xenomorph memiliki pertahanan khusus: darah asam. Asam biologis ini sangat kuat dan menyemprot dari luka fisik apa pun yang diterima xenomorph, bersifat korosif aktif selama 1D6+2 putaran pertempuran. Target apa pun dalam jarak satu meter dari xenomorph harus melakukan lemparan Keberuntungan untuk menghindari terkena percikan. Kegagalan menunjukkan bahwa karakter menerima 1D3 poin dari asam tersebut. Armor awalnya melindungi terhadap asam ini, tetapi tidak lama. Asam terus memakan Armor, memberikan kerusakan setiap putaran pertempuran sampai menembus Armor. Gamemaster harus melacak kerusakan asam setiap putaran sampai nilai Armor teratasi. Pada titik ini, asam membakar karakter. Melepaskan Armor tanpa terbakar memakan waktu satu putaran pertempuran penuh dan lemparan Kelincahan Sulit. Jika lokasi tubuh digunakan, hanya Armor pada lokasi tubuh yang terkena yang perlu dilepas. Kegagalan menunjukkan bahwa Armor masih terpasang. Kesalahan fatal menunjukkan bahwa asam mengenai karakter. Setelah karakter terbakar oleh asam, ia terus membakar sampai dinetralkan oleh suatu kekuatan, atau asam akhirnya berhenti menjadi korosif di akhir 1D6+2 putaran.
 
 ### Gumpalan (Blob)
 
@@ -1035,7 +1035,7 @@ Massa materi protoplasma berlendir yang aneh. Makhluk ini mengerikan, terus-mene
 
 | Pindah 10 | Hit Point 63 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +8D6 | **Baju Zirah** Tidak ada, tetapi lihat di bawah |
+| **Modifikator Kerusakan** +8D6 | **Baju Armor** Tidak ada, tetapi lihat di bawah |
 
 **Serangan:**
 
@@ -1043,13 +1043,13 @@ Massa materi protoplasma berlendir yang aneh. Makhluk ini mengerikan, terus-mene
 
 **Keterampilan:** Panjat 50%, Sembunyi 25%, Indra 25%, Siluman 25%, Lacak 25%.
 
-Gumpalan tidak memiliki zirah, tetapi serangan api dan listrik hanya memberikan ½ kerusakan (bulatkan ke atas) dan senjata fisik seperti senjata api hanya memberikan 1 poin kerusakan.
+Gumpalan tidak memiliki Armor, tetapi serangan api dan listrik hanya memberikan ½ kerusakan (bulatkan ke atas) dan senjata fisik seperti senjata api hanya memberikan 1 poin kerusakan.
 
 **Kekuatan:** Gumpalan menelan target saat serangan berhasil. Modifikator kerusakannya diterapkan pada karakter yang tertelan, dan pada putaran berikutnya karakter mulai dicerna. Jika menggunakan lokasi tubuh, kerusakan dibagi di antara semua lokasi tubuh secara bersamaan. Ini memberikan 1D3–1 poin kerusakan setiap putaran pertempuran. Perlengkapan pelindung tidak bekerja kecuali tertutup sepenuhnya, dan hanya bertahan di dalam gumpalan selama putaran pertempuran setara dengan nilai zirahnya. Keluar dari gumpalan sangat sulit, memerlukan lemparan Usaha Sulit yang berhasil. Gumpalan juga meregenerasi 1 hit point per putaran pertempuran sampai mencapai hit point penuh.
 
 ### Robot, Raksasa
 
-Robot raksasa dibangun oleh organisasi pemerintah yang sangat rahasia untuk mempertahankan dunia dari serangkaian makhluk asing aneh dan monster raksasa. Berlapis zirah dan dilengkapi dengan berbagai persenjataan yang mencengangkan, robot raksasa diidolakan oleh orang-orang di mana-mana, meskipun menyebabkan kerusakan properti yang tak terukur setiap kali ia bertarung.
+Robot raksasa dibangun oleh organisasi pemerintah yang sangat rahasia untuk mempertahankan dunia dari serangkaian makhluk asing aneh dan monster raksasa. Berlapis Armor dan dilengkapi dengan berbagai persenjataan yang mencengangkan, robot raksasa diidolakan oleh orang-orang di mana-mana, meskipun menyebabkan kerusakan properti yang tak terukur setiap kali ia bertarung.
 
 | STR | CON | SIZ | INT | POW | DEX |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1058,7 +1058,7 @@ Robot raksasa dibangun oleh organisasi pemerintah yang sangat rahasia untuk memp
 
 | Pindah 24 (176 terbang) | Hit Point 188 (+100 dari kekuatan Ekstra Hit Point) |
 | :---- | :---- |
-| **Modifikator Kerusakan** +10D6 | **Baju Zirah** 30-pt. lambung berlapis zirah |
+| **Modifikator Kerusakan** +10D6 | **Baju Armor** 30-pt. lambung berlapis Armor |
 
 **Serangan:**
 
@@ -1070,7 +1070,7 @@ Robot raksasa dibangun oleh organisasi pemerintah yang sangat rahasia untuk memp
 * Injak 75%, 2D6+dm (menghancurkan)  
 * Gulat 75%, khusus
 
-**Kekuatan:** Robot raksasa memiliki berbagai komponen yang paling baik direpresentasikan dengan kekuatan super, termasuk: Penyerapan (Listrik) 20; Adaptasi (Tekanan Tinggi, Vakum, selalu aktif, tanpa biaya poin kekuatan) 30; Zirah (Panas, Kinetik, Radiasi) 30 masing-masing; Proyeksi Energi (Kinetik) 10; Ekstra Energi +200; Ekstra Hit Point +100; Terbang 30; Resistensi (Radiasi, Suara) 10 masing-masing; Super Indra (Penglihatan Gelap, Penglihatan Inframerah, Penglihatan Malam, Pendengaran Super, Penglihatan Super) 10 masing-masing; Keterampilan Super 15 (Artileri +60%, Berkelahi +40%, Terbang +60%, Navigasi +20%, Memperbaiki +20%, Lihat +40%). Selain kekuatan-kekuatan ini, robot raksasa memiliki pod rudal dan pedang energi raksasa yang dibangun ke dalam strukturnya.
+**Kekuatan:** Robot raksasa memiliki berbagai komponen yang paling baik direpresentasikan dengan kekuatan super, termasuk: Penyerapan (Listrik) 20; Adaptasi (Tekanan Tinggi, Vakum, selalu aktif, tanpa biaya poin kekuatan) 30; Armor (Panas, Kinetik, Radiasi) 30 masing-masing; Proyeksi Energi (Kinetik) 10; Ekstra Energi +200; Ekstra Hit Point +100; Terbang 30; Resistensi (Radiasi, Suara) 10 masing-masing; Super Indra (Penglihatan Gelap, Penglihatan Inframerah, Penglihatan Malam, Pendengaran Super, Penglihatan Super) 10 masing-masing; Keterampilan Super 15 (Artileri +60%, Berkelahi +40%, Terbang +60%, Navigasi +20%, Memperbaiki +20%, Lihat +40%). Selain kekuatan-kekuatan ini, robot raksasa memiliki pod rudal dan pedang energi raksasa yang dibangun ke dalam strukturnya.
 
 **Keterampilan:** Artileri 75%, Menghindar 40%, Manipulasi Halus 35%, Terbang (Rudal Internal) 90%, Lompat 55%, Pengetahuan (Kaiju) 50%, Bahasa (Inggris) 30%, Bahasa (Jepang) 75%, Dengar 65%, Seni Bela Diri 40%, Navigasi 50%, Memperbaiki (Mekanik) 55%, Lihat 65%, Lempar 55%
 
@@ -1085,7 +1085,7 @@ Robot pembunuh memiliki banyak asal yang berbeda. Mereka mungkin dibangun untuk 
 
 | Pindah 10 | Hit Point 21 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** 20-pt. pelapis internal |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** 20-pt. pelapis internal |
 
 **Serangan:**
 
@@ -1112,7 +1112,7 @@ Pelayan terpercaya Umat Manusia, robot utilitas telah direkayasa untuk membantu 
 
 | Pindah 8 | Hit Point 10–11 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 4-pt. pelapisan |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 4-pt. pelapisan |
 
 **Serangan:**
 
@@ -1139,7 +1139,7 @@ Manusia primitif dari zaman sejarah yang telah lama hilang, penduduk gua sepenuh
 
 | Pindah 10 | Hit Point 13 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 1-pt. kulit |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 1-pt. kulit |
 
 **Serangan:**
 
@@ -1163,7 +1163,7 @@ Dalang kriminal adalah pemimpin geng atau anggota tingkat tinggi dari keluarga k
 
 | Pindah 10 | Hit Point 12 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1185,7 +1185,7 @@ Cyborg adalah Manusia yang ditambah dengan elemen teknologi, baik sebagai sarana
 
 | Pindah 10 | Hit Point 19 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1195,7 +1195,7 @@ Cyborg adalah Manusia yang ditambah dengan elemen teknologi, baik sebagai sarana
 
 **Kekuatan:** Augmentasi cyborg paling baik direpresentasikan dengan kekuatan super, seperti berikut:
 
-* **Sistem Pertahanan:** Zirah 5 (vs. energi listrik) Baterai Internal: Ekstra Energi 5 (+50 poin kekuatan)  
+* **Sistem Pertahanan:** Armor 5 (vs. energi listrik) Baterai Internal: Ekstra Energi 5 (+50 poin kekuatan)  
 * **Peningkatan Fisik:** Lompat 5 (+10 meter), Karakteristik Super 40 (+20 STR, +10 CON, +10 DEX), Kecepatan Super 2 (1 pergerakan ekstra, 1 aksi ekstra)  
 * **Peningkatan Sensorik:** Super Indra (Pendengaran Super 10, Penglihatan Super 10, Penglihatan Inframerah 5, Pendengaran Ultrasonik 5)  
 * **Modifikasi Taktis:** Pertahanan 20 (–10% untuk terkena), Keterampilan Super 8 (Lompat +40%, Dengar +40%, Lihat +60%, Lempar +25%), Pertarungan Tanpa Senjata 5 (+10 kerusakan, –25% pada peluang musuh untuk mengenai, +25% pada keterampilan Berkelahi)
@@ -1216,7 +1216,7 @@ Keturunan dari dewa dan manusia, demigod berpetualang ke seluruh dunia, memerang
 
 | Pindah 10 | Hit Point 25 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +2D6 | **Baju Zirah** 20-pt. Zirah (Kinetik) |
+| **Modifikator Kerusakan** +2D6 | **Baju Armor** 20-pt. Armor (Kinetik) |
 
 **Serangan:**
 
@@ -1229,7 +1229,7 @@ Keturunan dari dewa dan manusia, demigod berpetualang ke seluruh dunia, memerang
 
 **Kekuatan:** Demigod memiliki berbagai kekuatan dari garis keturunan ilahi, seperti kekuatan super berikut:
 
-* Adaptasi (Radiasi, Bawah Air, Vakum) masing-masing 5; Zirah (Kinetik) 20; Ekstra Energi 20 (+200 poin kekuatan); Ekstra Hit Point 30 (+30 HP); Lompat 10 (+20 meter ke jarak Lompat); Regenerasi 3 (menyembuhkan 3 HP per putaran pertempuran); Rekan (lihat di bawah); Karakteristik Super 50 (STR +20, CON +20, POW +5, CHA +5); Keterampilan Super 20 (Berkelahi +40%, Gulat +40%, Pengetahuan [Mitologi] +40%, Indra +40%, Perisai +80%, Strategi +40%, Pedang +80%, Lempar +40%), Pertarungan Tanpa Senjata 5 (+10 kerusakan berkelahi, –25% pada peluang serangan penyerang, keterampilan Berkelahi/Gulat +25%).
+* Adaptasi (Radiasi, Bawah Air, Vakum) masing-masing 5; Armor (Kinetik) 20; Ekstra Energi 20 (+200 poin kekuatan); Ekstra Hit Point 30 (+30 HP); Lompat 10 (+20 meter ke jarak Lompat); Regenerasi 3 (menyembuhkan 3 HP per putaran pertempuran); Rekan (lihat di bawah); Karakteristik Super 50 (STR +20, CON +20, POW +5, CHA +5); Keterampilan Super 20 (Berkelahi +40%, Gulat +40%, Pengetahuan [Mitologi] +40%, Indra +40%, Perisai +80%, Strategi +40%, Pedang +80%, Lempar +40%), Pertarungan Tanpa Senjata 5 (+10 kerusakan berkelahi, –25% pada peluang serangan penyerang, keterampilan Berkelahi/Gulat +25%).
 
 **Kelemahan:** Kegagalan karakter demigod adalah:
 
@@ -1250,7 +1250,7 @@ Baik detektif polisi, ahli forensik, detektif swasta, atau kriminolog, detektif 
 
 | Pindah 10 | Hit Point 13 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1272,7 +1272,7 @@ Paladin pengembara ruang angkasa ini mengikuti tradisi mistis yang memberikan ke
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1293,7 +1293,7 @@ Penembak jitu mencari nafkah dengan membunuh orang, berspesialisasi dalam pertem
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 1-pt. pakaian berat |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 1-pt. pakaian berat |
 
 **Serangan:**
 
@@ -1309,7 +1309,7 @@ Penembak jitu mencari nafkah dengan membunuh orang, berspesialisasi dalam pertem
 
 ### Ksatria
 
-Prajurit berkuda dan berlapis zirah, terampil dalam ilmu pedang, jousting, dan etiket kesatria. Diambil dari kelas bangsawan, seorang ksatria telah bersumpah setia kepada junjungannya, dan menarik tunjangan dari tanah di bawah kekuasaan mereka untuk membayar senjata, zirah, kuda, dan gaya hidup mereka. Ksatria berlatih keterampilan mereka secara teratur, berkompetisi dalam turnamen, dan pergi berperang kapan pun junjungan mereka memerintahkan. Idealnya, seorang ksatria adalah kesatria dan saleh, mengikuti kode kehormatan dan kesopanan, meskipun ini bervariasi dari ksatria ke ksatria.
+Prajurit berkuda dan berlapis Armor, terampil dalam ilmu pedang, jousting, dan etiket kesatria. Diambil dari kelas bangsawan, seorang ksatria telah bersumpah setia kepada junjungannya, dan menarik tunjangan dari tanah di bawah kekuasaan mereka untuk membayar senjata, Armor, kuda, dan gaya hidup mereka. Ksatria berlatih keterampilan mereka secara teratur, berkompetisi dalam turnamen, dan pergi berperang kapan pun junjungan mereka memerintahkan. Idealnya, seorang ksatria adalah kesatria dan saleh, mengikuti kode kehormatan dan kesopanan, meskipun ini bervariasi dari ksatria ke ksatria.
 
 | STR | CON | SIZ | INT | POW | DEX | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1317,7 +1317,7 @@ Prajurit berkuda dan berlapis zirah, terampil dalam ilmu pedang, jousting, dan e
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 10-pt. pelat dan helm berat |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 10-pt. pelat dan helm berat |
 
 **Serangan:**
 
@@ -1327,12 +1327,12 @@ Prajurit berkuda dan berlapis zirah, terampil dalam ilmu pedang, jousting, dan e
 * Gada Ringan 65%, 1D6+2+dm (menghancurkan)  
 * Busur Panjang 60%, 1D8+1+½dm (menembus)  
 * Belati 50%, 1D4+2+dm (menembus)  
-* Sarung Tangan Berlapis Zirah 50%, 1D3+1+dm (menghancurkan)  
+* Sarung Tangan Berlapis Armor 50%, 1D3+1+dm (menghancurkan)  
 * Tombak turnamen memberikan kerusakan menghancurkan.
 
 **Keterampilan:** Memerintah 45%, Menghindar 50%, Etiket 65%, Pengetahuan (Heraldry) 50%, Bahasa (Lain) 35%, Bahasa (Sendiri) 60%, Dengar 45%, Berkuda (Kuda) 75%, Indra 20%, Lihat 45%, Status 60%, Strategi 30%.
 
-**Kekuatan:** Ksatria umumnya tidak memiliki kekuatan, meskipun beberapa yang langka mengetahui sihir. Namun, seorang ksatria mungkin memiliki akses ke artefak sihir, baik senjata diberkati, relik suci, atau zirah dengan kebajikan yang diletakkan padanya. Peri dikabarkan memiliki perintah kesatria mereka sendiri, dan ksatria ini secara alami akan menggunakan sihir dengan bebas. Ksatria jahat yang telah bersumpah setia kepada kekuatan gelap mungkin menggunakan sihir hitam.
+**Kekuatan:** Ksatria umumnya tidak memiliki kekuatan, meskipun beberapa yang langka mengetahui sihir. Namun, seorang ksatria mungkin memiliki akses ke artefak sihir, baik senjata diberkati, relik suci, atau Armor dengan kebajikan yang diletakkan padanya. Peri dikabarkan memiliki perintah kesatria mereka sendiri, dan ksatria ini secara alami akan menggunakan sihir dengan bebas. Ksatria jahat yang telah bersumpah setia kepada kekuatan gelap mungkin menggunakan sihir hitam.
 
 ### Orang Gila
 
@@ -1344,7 +1344,7 @@ Orang normal yang terlihat menjadi gila dengan kejam dan homisidal, orang gila a
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1369,7 +1369,7 @@ Jiwa yang malang ini bermutasi melalui paparan zat radioaktif atau biologis, ata
 
 | Pindah 10 | Hit Point 11 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 7-pt. tonjolan tulang di kulit |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 7-pt. tonjolan tulang di kulit |
 
 **Serangan:**
 
@@ -1377,7 +1377,7 @@ Jiwa yang malang ini bermutasi melalui paparan zat radioaktif atau biologis, ata
 
 **Keterampilan:** Menyamar 25%, Menghindar 40%, Mengemudi (Buggy Gurun) 40%, Bicara Cepat 25%, Pertolongan Pertama 40%, Sembunyi 40%, Bahasa (Sendiri) 55%, Dengar 35%, Indra 25%, Lihat 30%, Siluman 25%, Lacak 25%.
 
-**Kekuatan:** Mutan ini telah mengembangkan mutasi berikut: Penyakit Bawaan (hemofilia, CON –5), Karakteristik yang Meningkat (STR +6), Senjata Alami (tonjolan tulang di tangan, +1D6 kerusakan), Sensitivitas (darah), Peningkatan Struktural (tonjolan tulang di kulit, +7-pt. zirah alami).
+**Kekuatan:** Mutan ini telah mengembangkan mutasi berikut: Penyakit Bawaan (hemofilia, CON –5), Karakteristik yang Meningkat (STR +6), Senjata Alami (tonjolan tulang di tangan, +1D6 kerusakan), Sensitivitas (darah), Peningkatan Struktural (tonjolan tulang di kulit, +7-pt. Armor alami).
 
 ### Ninja
 
@@ -1389,7 +1389,7 @@ Ninja adalah pembunuh bayangan yang ditakuti dari zaman kuno dan bahkan dunia mo
 
 | Pindah 10 | Hit Point 12 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada, atau 2-pt. rantai ringan |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada, atau 2-pt. rantai ringan |
 
 **Serangan:**
 
@@ -1416,7 +1416,7 @@ Predator penuh warna di laut lepas, bajak laut adalah bandit yang mengarungi lau
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1432,7 +1432,7 @@ Predator penuh warna di laut lepas, bajak laut adalah bandit yang mengarungi lau
 
 ### Polisi
 
-Ini adalah petugas polisi dari negara modern mana pun. Dilatih dalam berbagai teknik penegakan hukum, petugas polisi biasanya berpatroli, atau dipanggil ke tempat kejadian. Jika terjadi insiden besar di daerah perkotaan, polisi kemungkinan besar akan menjadi orang pertama di tempat kejadian. Petugas polisi yang lebih bersenjata lengkap adalah bagian dari tim S.W.A.T (Special Weapons and Tactics) dan biasanya dipanggil untuk menangani situasi yang terlalu keras.
+Ini adalah petugas polisi dari negara modern mana pun. Dilatih dalam berbagai teknik penegakan hukum, petugas polisi biasanya berpatroli, atau dipanggil ke tempat kejadian. Jika terjadi insiden besar di daerah perkotaan, polisi kemungkinan besar akan menjadi orang pertama di tempat kejadian. Petugas polisi yang lebih bersenjata lengkap adalah bagian dari tim S.W.A.T (Special Senjata and Tactics) dan biasanya dipanggil untuk menangani situasi yang terlalu keras.
 
 | STR | CON | SIZ | INT | POW | DEX | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1440,7 +1440,7 @@ Ini adalah petugas polisi dari negara modern mana pun. Dilatih dalam berbagai te
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 8-pt. rompi antipeluru (4-pt. vs. senjata jarak dekat) atau 12-pt. perlengkapan anti huru-hara |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 8-pt. rompi antipeluru (4-pt. vs. senjata jarak dekat) atau 12-pt. perlengkapan anti huru-hara |
 
 **Serangan:**
 
@@ -1465,7 +1465,7 @@ Pendeta adalah penyembah setia dewa pelindung mereka, telah meninggalkan keamana
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 8-pt. rantai dan helm ringan |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 8-pt. rantai dan helm ringan |
 
 **Serangan:**
 
@@ -1488,7 +1488,7 @@ Lahir dengan anugerah khusus, kekuatan psikik berkembang selama masa dewasa muda
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** Tidak ada |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** Tidak ada |
 
 **Serangan:**
 
@@ -1508,7 +1508,7 @@ Tentara dilatih dalam prinsip-prinsip perang modern, memanfaatkan persenjataan d
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 8-pt. rompi antipeluru (4-pt. vs. senjata jarak dekat) + 3-pt. helm ringan |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 8-pt. rompi antipeluru (4-pt. vs. senjata jarak dekat) + 3-pt. helm ringan |
 
 **Serangan:**
 
@@ -1530,7 +1530,7 @@ Dipilih sejak muda dan magang dalam seni mistik, penyihir hitam berurusan dengan
 
 | Pindah 10 | Hit Point 13 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** Tidak ada, atau 4-pt. Zirah Penyihir |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** Tidak ada, atau 4-pt. Armor Penyihir |
 
 **Serangan:**
 
@@ -1538,7 +1538,7 @@ Dipilih sejak muda dan magang dalam seni mistik, penyihir hitam berurusan dengan
 
 **Keterampilan:** Menilai 35%, Menghindar 40%, Etiket 35%, Bicara Cepat 45%, Sembunyi 30%, Wawasan 35%, Pengetahuan (Pengetahuan Akademik) 50%, Pengetahuan (Pengetahuan Hujatan) 20%, Pengetahuan (Okultisme) 70%, Bahasa (Iblis) 50%, Bahasa (Sendiri) 85%, Dengar 35%, Membujuk 45%, Riset 75%, Berkuda (Kuda) 35%, Indra 35%, Sleight of Hand 35%, Lihat 55%.
 
-**Kekuatan:** Mantra sihir hitam ini dalam ingatan: Curse of Sorcery (4), Sorcerer’s Zirah (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
+**Kekuatan:** Mantra sihir hitam ini dalam ingatan: Curse of Sorcery (4), Sorcerer’s Armor (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
 
 ### Mata-mata (Spy)
 
@@ -1550,7 +1550,7 @@ Operatif rahasia yang bekerja secara klandestin untuk lembaga pemerintah, dilati
 
 | Pindah 10 | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 5-pt. setelan tuxedo kain balistik (3-pt. vs. senjata jarak dekat) |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 5-pt. setelan tuxedo kain balistik (3-pt. vs. senjata jarak dekat) |
 
 **Serangan:**
 
@@ -1576,7 +1576,7 @@ Pahlawan super contoh ini adalah Stormcloud, pahlawan berbasis petir yang brash 
 
 | Pindah 10 (62 terbang) | Hit Point 16 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D6 | **Baju Zirah** 12-pt. Zirah (Kinetik, Radiasi) |
+| **Modifikator Kerusakan** +1D6 | **Baju Armor** 12-pt. Armor (Kinetik, Radiasi) |
 
 **Serangan:**
 
@@ -1585,7 +1585,7 @@ Pahlawan super contoh ini adalah Stormcloud, pahlawan berbasis petir yang brash 
 
 **Keterampilan:** Seni (Fotografi) 70%, Berkelahi 50%, Menghindar 50%, Mengemudi (Mobil) 35%, Terbang 80%, Gulat 35%, Pengetahuan (Wilayah: Lokal) 35%, Bahasa (lain) 00%, Bahasa (Sendiri) 85%, Penampilan (Berita) 50%, Riset 45%, Sains (Meteorologi) 25%, Status 25%, Keterampilan Teknis (Gunakan Komputer) 35%.
 
-**Kekuatan:** Stormcloud memiliki kekuatan super berikut: Penyerapan (Listrik) 18; Zirah (Kinetik, Radiasi) masing-masing 12; Proyeksi Energi (Listrik) 6; Ekstra Energi 15 (+150 poin kekuatan); Terbang 10; dan Karakteristik Super 30 (STR +14, CON +8, DEX +8).
+**Kekuatan:** Stormcloud memiliki kekuatan super berikut: Penyerapan (Listrik) 18; Armor (Kinetik, Radiasi) masing-masing 12; Proyeksi Energi (Listrik) 6; Ekstra Energi 15 (+150 poin kekuatan); Terbang 10; dan Karakteristik Super 30 (STR +14, CON +8, DEX +8).
 
 **Kelemahan:** Kegagalan karakter Stormcloud adalah kelemahan terhadap air, kehilangan –2D6 poin kekuatan setiap putaran basah atau terendam.
 
@@ -1593,7 +1593,7 @@ Pahlawan super contoh ini adalah Stormcloud, pahlawan berbasis petir yang brash 
 
 Tidak seperti pahlawan super, penjahat super menikmati kehidupan kriminal, menggunakan kemampuan mereka untuk mengejar kekayaan, kekuasaan, balas dendam, atau malfeasance lainnya. Mereka bisa menjadi penjahat utama atau preman yang dimuliakan, tergantung pada ambisi. Beberapa memilih untuk bekerja sendiri, sementara yang lain memiliki kader antek. Bahkan lebih sedikit penjahat super bekerja sama dalam tim, karena kepribadian yang tidak stabil membuat kemitraan yang adil menjadi mustahil.
 
-Penjahat super contoh ini adalah Dokter Dread, mantan insinyur industri pertahanan yang dananya dipotong. Setelah menggunakan teknologi militer yang tidak berlisensi untuk membangun setelan zirah pelindung, Dokter Dread mencari cara untuk membiayai penelitian senjata lebih lanjut (dan berpotensi ilegal). Statistik ini mewakili Dokter Dread dalam zirah.
+Penjahat super contoh ini adalah Dokter Dread, mantan insinyur industri pertahanan yang dananya dipotong. Setelah menggunakan teknologi militer yang tidak berlisensi untuk membangun setelan Armor pelindung, Dokter Dread mencari cara untuk membiayai penelitian senjata lebih lanjut (dan berpotensi ilegal). Statistik ini mewakili Dokter Dread dalam Armor.
 
 | STR | CON | SIZ | INT | POW | DEX | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -1601,7 +1601,7 @@ Penjahat super contoh ini adalah Dokter Dread, mantan insinyur industri pertahan
 
 | Pindah 10 (62 terbang) | Hit Point 14 |
 | :---- | :---- |
-| **Modifikator Kerusakan** Tidak ada | **Baju Zirah** 4-pt. Zirah (Kinetik) + 20-pt. Medan Gaya (Listrik, Kinetik, Radiasi) |
+| **Modifikator Kerusakan** Tidak ada | **Baju Armor** 4-pt. Armor (Kinetik) + 20-pt. Medan Gaya (Listrik, Kinetik, Radiasi) |
 
 **Serangan:**
 
@@ -1610,9 +1610,9 @@ Penjahat super contoh ini adalah Dokter Dread, mantan insinyur industri pertahan
 
 **Keterampilan:** Memerintah 35%, Menghindar 40%, Mengemudi (Van) 55%, Manipulasi Halus 65%, Lompat 65%, Bahasa (Sendiri) 125%, Dengar 45%, Memperbaiki (Elektronik) 85%, Memperbaiki (Kuantum) 75%, Riset 85%, Sains (Fisika) 95%, Lihat 50%, Keterampilan Teknis (Gunakan Komputer) 95%.
 
-**Kekuatan:** Zirah Dokter Dread menyediakan kekuatan super berikut: Zirah (Kinetik) 4; Proyeksi Energi (Panas) 6; Ekstra Energi 15(+150 poin kekuatan); Terbang 3; Medan Gaya (Listrik, Kinetik, Radiasi) masing-masing 20; Lompat 10 (+20 meter ke jarak Lompat); Super Indra (Infravision, Pendengaran Ultrasonik) masing-masing 1.
+**Kekuatan:** Armor Dokter Dread menyediakan kekuatan super berikut: Armor (Kinetik) 4; Proyeksi Energi (Panas) 6; Ekstra Energi 15(+150 poin kekuatan); Terbang 3; Medan Gaya (Listrik, Kinetik, Radiasi) masing-masing 20; Lompat 10 (+20 meter ke jarak Lompat); Super Indra (Infravision, Pendengaran Ultrasonik) masing-masing 1.
 
-**Kelemahan:** Kegagalan karakter Dokter Dread adalah penjahat super penuh waktu; fisik yang khas (jelek); kegagalan psikologis (haus darah, sombong); identitas penjahat super terikat pada zirah dan tidak penuh waktu; zirah dapat dimatikan atau dilepas.
+**Kelemahan:** Kegagalan karakter Dokter Dread adalah penjahat super penuh waktu; fisik yang khas (jelek); kegagalan psikologis (haus darah, sombong); identitas penjahat super terikat pada Armor dan tidak penuh waktu; Armor dapat dimatikan atau dilepas.
 
 ### Preman
 
@@ -1624,7 +1624,7 @@ Preman sewaan, biasanya bekerja untuk kelompok kriminal atau terkadang hanya men
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 1-pt. jaket kulit |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 1-pt. jaket kulit |
 
 **Serangan:**
 
@@ -1648,7 +1648,7 @@ Prajurit suku dijumpai di daerah mana pun di mana peradaban belum mencapai. Mere
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 1-pt. zirah kulit |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 1-pt. Armor kulit |
 
 **Serangan:**
 
@@ -1678,7 +1678,7 @@ Viking adalah prajurit utara yang melakukan pelayaran laut yang panjang untuk ek
 
 | Pindah 10 | Hit Point 15 |
 | :---- | :---- |
-| **Modifikator Kerusakan** +1D4 | **Baju Zirah** 7-pt. skala dan helm ringan |
+| **Modifikator Kerusakan** +1D4 | **Baju Armor** 7-pt. skala dan helm ringan |
 
 **Serangan:**
 
@@ -1691,7 +1691,7 @@ Viking adalah prajurit utara yang melakukan pelayaran laut yang panjang untuk ek
 
 **Keterampilan:** Menilai 45%, Menawar 35%, Berkelahi 25%, Kerajinan (jenis) 05%, Menghindar 40%, Bermain Game 40%, Gulat 35%, Wawasan 15%, Lompat 25%, Bahasa (Sendiri) 55%, Dengar 40%, Navigasi 35%, Pilot (kapal) 25%, Berkuda (jenis) 05%, Lihat 35%, Status 25%.
 
-**Kekuatan:** Viking jarang memiliki kekuatan apa pun. Beberapa perapal mantra menggunakan berbagai jenis sihir, dari sihir rune, perubahan bentuk, atau sihir hitam. Bergantung pada latarnya, Viking yang kaya atau disukai mungkin memiliki persenjataan, zirah, atau artefak sihir lainnya.
+**Kekuatan:** Viking jarang memiliki kekuatan apa pun. Beberapa perapal mantra menggunakan berbagai jenis sihir, dari sihir rune, perubahan bentuk, atau sihir hitam. Bergantung pada latarnya, Viking yang kaya atau disukai mungkin memiliki persenjataan, Armor, atau artefak sihir lainnya.
 
 ## Menyesuaikan Makhluk dan Karakter Non-Pemain
 
@@ -1703,7 +1703,7 @@ Mungkin lebih masuk akal bagi lawan untuk memiliki kaliber yang lebih tinggi dal
 
 Makhluk dan karakter non-pemain dalam bab ini diarahkan untuk kampanye normal. Mereka biasanya tidak perlu disesuaikan, kecuali untuk latar tertentu. Setiap kali menyesuaikan karakteristik, perhatikan karakteristik sekunder yang dimodifikasi (bonus kerusakan, hit point, luka besar, poin kekuatan, dll.).
 
-Satu hal yang perlu diingat adalah bahwa sedikit zirah pun sangat membantu. Menambahkan 3 poin zirah ke entitas dapat membuat mereka menantang, dan dengan lebih dari +6 poin mereka menjadi sangat sulit untuk disakiti.
+Satu hal yang perlu diingat adalah bahwa sedikit Armor pun sangat membantu. Menambahkan 3 poin Armor ke entitas dapat membuat mereka menantang, dan dengan lebih dari +6 poin mereka menjadi sangat sulit untuk disakiti.
 
 ### Kampanye Heroik
 
@@ -1715,7 +1715,7 @@ Untuk kampanye heroik, berikut adalah cara Anda dapat menyesuaikan makhluk atau 
 * Meningkatkan karakteristik utama sebesar D6 lagi, atau +3 datar, menjaga maksimum yang dapat dilempar tetap utuh.  
 * Memodifikasi keterampilan berorientasi tempur dan keterampilan relevan lainnya sebesar +25% atau dikalikan ×1.5.  
 * Menambahkan lebih banyak kekuatan atau meningkatkan kemanjuran kekuatan yang ada.  
-* Melengkapi mereka dengan peralatan, zirah, persenjataan, dll. yang unggul.
+* Melengkapi mereka dengan peralatan, Armor, persenjataan, dll. yang unggul.
 
 ### Kampanye Epik
 
@@ -1727,7 +1727,7 @@ Untuk kampanye epik, berikut adalah cara untuk menyesuaikan makhluk atau karakte
 * Menggandakan peringkat keterampilan.  
 * Meminta mereka menggunakan keterampilan seperti Memerintah dan Strategi untuk menyamakan kedudukan.  
 * Menambahkan kekuatan baru atau kelompok kekuatan ganda, atau menggabungkan entri dengan kekuatan super seperti Ekstra Hit Point adalah solusi yang mudah.  
-* Memberi musuh peralatan, zirah, dan persenjataan terbaik yang tersedia, baik zirah bertenaga, artefak magis, persediaan medis yang mampu menyembuhkan secara instan, dll. Mereka juga akan menggunakan peralatan ini secara taktis dan dengan kemampuan terbaik mereka.
+* Memberi musuh peralatan, Armor, dan persenjataan terbaik yang tersedia, baik Armor bertenaga, artefak magis, persediaan medis yang mampu menyembuhkan secara instan, dll. Mereka juga akan menggunakan peralatan ini secara taktis dan dengan kemampuan terbaik mereka.
 
 ### Kampanye Manusia Super
 
@@ -1737,7 +1737,7 @@ Untuk kampanye manusia super, gamemaster dapat memilih untuk menyesuaikan aspek-
 * Meningkatkan karakteristik jauh melewati maksimum yang dapat dilempar, menggunakan kekuatan apa pun untuk membuat musuh ini hampir titanic dalam kemampuan dan kompetensi.  
 * Melipatgandakan atau bahkan melipatgandakan peringkat keterampilan jauh di atas 100%.  
 * Menambahkan kekuatan yang kurang jelas seperti Ekstra Hit Point, Karakteristik Super, Keterampilan Super, dll.  
-* Melengkapi lawan dengan persenjataan, zirah, dan perlengkapan lain yang luar biasa, termasuk perlengkapan magis atau bertenaga. Mereka juga akan menggunakan peralatan ini secara taktis dan dengan kemampuan terbaik mereka.
+* Melengkapi lawan dengan persenjataan, Armor, dan perlengkapan lain yang luar biasa, termasuk perlengkapan magis atau bertenaga. Mereka juga akan menggunakan peralatan ini secara taktis dan dengan kemampuan terbaik mereka.
 
 ### Catatan Umum
 
