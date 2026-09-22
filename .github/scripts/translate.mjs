@@ -26,6 +26,15 @@ const TARGET_LANGUAGES = [
 // if this needs to change again.
 const MODEL = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
 
+// Explicit output token budget for translation responses. Without this,
+// large/table-dense source files (especially translated into languages
+// whose scripts use more tokens per character, e.g. Cyrillic, or accented
+// Latin scripts) can silently hit the model's default output cap partway
+// through a big table, producing truncated/abbreviated output with no
+// error raised. Set generously high relative to the largest source files
+// in this repo; override via env var if a file still gets cut off.
+const MAX_OUTPUT_TOKENS = Number(process.env.GEMINI_MAX_OUTPUT_TOKENS) || 65536;
+
 // Max attempts (including the first try) per language before giving up and
 // logging a final failure. Used by the sequential fallback path.
 const MAX_ATTEMPTS = 4;
@@ -69,24 +78,29 @@ const SYSTEM_INSTRUCTION =
   "Translate the provided Markdown document into the target language specified by the language code.\n\n" +
   "### NON-NEGOTIABLE EXECUTION RULES\n" +
   "1. COMPLETE EXHAUSTIVE TRANSLATION: Translate every single paragraph, table row, list item, and example from beginning to end. " +
-  "NEVER truncate, summarize, elide, abbreviate, or omit content. " +
-  "NEVER output placeholders such as '[...]', '...', 'etc.', 'The rest can be translated in the same way', or notes advising the reader to consult the original text.\n\n" +
+  "NEVER truncate, summarize, elide, abbreviate, or omit content, no matter how long the document or how large a table is — you have ample output budget; use all of it. " +
+  "A table with 60 source rows MUST produce 60 translated rows; a table with 200 source rows MUST produce 200 translated rows. Partial tables are a critical failure. " +
+  "NEVER output placeholders such as '[...]', '...', 'etc.', 'The rest can be translated in the same way', or notes advising the reader to consult the original text. " +
+  "NEVER label a section as abbreviated, condensed, shortened, partial, or summarized (in any language) — if you find yourself wanting to write such a label, that means you must go back and translate the missing content instead.\n\n" +
   "2. ZERO META-TEXT OR COMMENTARY: Output ONLY the translated Markdown. " +
   "Do NOT include greeting text, sign-offs, explanations, translator notes, or bracketed confirmations like '(Note: Cette traduction respecte...)'. " +
   "Your output must start immediately with the translated Markdown content.\n\n" +
   "3. PRESERVE STRUCTURAL INTEGRITY: Maintain exact Markdown syntax, table alignments, code fences, headers (#, ##, ###), bold/italic tags, and whitespace. " +
-  "Preserve relative URLs and anchor links exactly as written (e.g. `[Text](../rules/combat.md#step-1)` becomes `[Translated Text](../rules/combat.md#step-1)`—do not alter the path or anchor target).\n\n" +
+  "Preserve relative URLs and anchor links exactly as written (e.g. `[Text](../rules/combat.md#step-1)` becomes `[Translated Text](../rules/combat.md#step-1)`—do not alter the path or anchor target). " +
+  "This applies to EVERY link in EVERY table row and list item, including the last rows of a long table — do not drop, flatten, or paraphrase a link into plain text.\n\n" +
   "4. MECHANICAL CONSISTENCY & ABBREVIATIONS: " +
   "Game mechanics, characteristics, attributes, derived stats, and conditions require strict 1-to-1 consistency. " +
   "Never assign the same abbreviation or target term to two distinct source concepts (e.g., STR and POW must never resolve to the same abbreviation). " +
   "Adhere strictly to any provided glossary terms and abbreviations across all headings, tables, formulas, and running text.\n\n" +
   "5. PRESERVE ORIGINAL SEQUENCE: Translate lists and tables in their exact source order. " +
   "Do not attempt to alphabetize or reorder items, as mechanical references and layout dependencies rely on the original sequence.\n\n" +
-  "6. PRESERVE PLACEHOLDER TOKENS: The source text may contain opaque tokens matching the exact pattern [[CODEBLOCKn]] or " +
+  "6. PRESERVE PLACEHOLDER TOKENS (DO NOT INVENT NEW ONES): The source text may contain opaque tokens matching the exact pattern [[CODEBLOCKn]] or " +
   "[[INLINECODEn]] (where n is a number), such as [[CODEBLOCK0]] or [[INLINECODE3]]. These stand in for protected code " +
   "fences, dice notation, and formulas that were removed before translation. Reproduce each such token EXACTLY, " +
   "character-for-character, with no translation, added spacing, punctuation, or reformatting, and never remove, " +
-  "duplicate, or reorder them.\n\n" +
+  "duplicate, or reorder them. These example token numbers are illustrative only — the source text you are given may contain none, some, or many such tokens; " +
+  "reproduce ONLY the exact tokens that literally appear in the input. NEVER invent, create, or wrap other content (such as ordinary Markdown links `[text](url)`, bold text, or table cells) " +
+  "in new tokens of this or any similar bracketed form — if a token does not already appear verbatim in the source you were given, do not create it.\n\n" +
   "7. NO OUTER CODE FENCE: Do not wrap your entire response in triple backticks (```) or any other code fence. " +
   "Output raw Markdown directly. The only backticks that should appear in your output are inside the placeholder " +
   "tokens described in rule 6.";
@@ -424,6 +438,7 @@ async function translateOne(ai, protectedText, lang) {
     ],
     config: {
       systemInstruction: SYSTEM_INSTRUCTION,
+      maxOutputTokens: MAX_OUTPUT_TOKENS,
     },
   });
 
@@ -483,6 +498,7 @@ function buildGenerateContentRequest(protectedText, lang) {
     ],
     config: {
       systemInstruction: SYSTEM_INSTRUCTION,
+      maxOutputTokens: MAX_OUTPUT_TOKENS,
     },
   };
 }
