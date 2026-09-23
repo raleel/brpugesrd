@@ -1,86 +1,86 @@
-# 2\. Karakter
+# 2. Karakter
 
-Sederhananya, **Karakter** adalah **dirimu** di dalam dunia permainan, persona yang kamu mainkan di dalam game. Karakter adalah fokus dari semua permainan peran—sebuah abstraksi dari kemampuan fisik dan mental, Skill, dan deskriptor lainnya. Kamu berinteraksi dengan Gamemaster-mu di dunia tersebut melalui karaktermu. Sebagian besar karakter yang dikendalikan oleh pemain disebut **Karakter Pemain** (PC).
+Sederhananya, **Karakter** adalah **dirimu** di dalam dunia permainan, persona yang kamu mainkan dalam gim. Karakter adalah fokus dari semua permainan peran—sebuah abstraksi dari kemampuan fisik dan mental, Skill, dan deskriptor lainnya. Kamu berinteraksi dengan gamemaster-mu di dunia tersebut melalui karaktermu. Sebagian besar karakter yang dikendalikan oleh pemain adalah **Karakter Pemain** (PC).
 
-Gamemaster-mu mendeskripsikan latar, lingkungan, dan pertemuan kepada para pemain. Gamemaster-mu memiliki daftar karakter lain yang bisa digunakan, yang disebut **Non-Player Karakter** (NPC). Baik karakter pemain maupun non-pemain menggunakan aturan yang sama, meskipun umumnya non-pemain kurang detail dibandingkan karakter pemain, karena NPC jarang menghadapi situasi yang bervariasi seperti yang dihadapi karakter pemain.
+Gamemaster-mu mendeskripsikan latar, lingkungan, dan perjumpaan kepada para pemain. Gamemaster-mu memiliki daftar karakter lain yang disebut **Karakter Non-Pemain** (NPC). Baik karakter pemain maupun non-pemain menggunakan aturan yang sama, meskipun biasanya karakter non-pemain tidak sedetail karakter pemain karena NPC jarang menghadapi situasi yang beragam seperti yang dialami karakter pemain.
 
-*Bab Sebelas: Makhluk* mendeskripsikan bagaimana Gamemaster-mu dapat membuat NPC yang sesuai dan menyertakan daftar NPC siap pakai (serta monster dan makhluk lainnya) untuk berbagai latar dan era. Bagian ini membahas karakter pemain dan merupakan bacaan penting bagimu maupun Gamemaster-mu.
+*Bab Sebelas: Makhluk* mendeskripsikan bagaimana gamemaster-mu dapat membuat karakter non-pemain yang sesuai dan menyertakan daftar karakter non-pemain yang siap pakai (serta monster dan makhluk lainnya) untuk berbagai latar dan era. Bagian ini membahas karakter pemain dan merupakan bacaan penting bagimu maupun gamemaster-mu.
 
-Ketika istilah “karakter” disebutkan, istilah ini berlaku untuk karakter pemain dan NPC.
+Ketika "karakter" disebutkan, istilah ini berlaku untuk karakter pemain dan karakter non-pemain.
 
-## Tingkat Kekuatan
+## Tanjakan Daya
 
-Di sepanjang bab ini dan di bagian lain dalam aturan, terdapat referensi mengenai tingkat kekuatan permainan. Ini mendeskripsikan seberapa kompeten karakter pemain dan non-pemain, dan di mana posisi permainan tersebut berada dalam skala dari "realistis" hingga "mitis".
+Di sepanjang bab ini dan di tempat lain dalam aturan ini terdapat referensi mengenai tanjakan daya gim. Ini mendeskripsikan seberapa kompeten karakter pemain dan non-pemain, dan di mana skala permainan akan terasa, mulai dari yang "realistis" hingga "mitis".
 
-Terdapat empat tingkat kekuatan permainan, yang dideskripsikan di bawah ini.
+Terdapat empat tanjakan daya gim, yang dideskripsikan di bawah ini.
 
-### Normal
+### Standar
 
-Karakter tidak memiliki kekuatan atau hanya memiliki sedikit kekuatan yang tidak dapat diandalkan. Terkadang karakter didefinisikan oleh satu kekuatan, yang hampir tidak lebih dari sekadar bakat luar biasa. Ini adalah tingkat kekuatan yang paling cocok untuk game horor atau petualangan modern, di mana teknologi dan kecerdasan sering kali menjadi faktor penentu dalam bertahan hidup.
+Karakter tidak memiliki kekuatan atau hanya memiliki sedikit kekuatan yang tidak dapat diandalkan. Terkadang karakter didefinisikan oleh satu kekuatan, hampir tidak lebih dari bakat luar biasa. Ini adalah tanjakan daya yang paling cocok untuk gim horor atau petualangan modern, di mana teknologi dan kecerdikan sering menjadi faktor penentu dalam bertahan hidup.
 
-### Heroic
+### Heroik
 
-Karakter memiliki beberapa kekuatan yang kuat atau berbagai kekuatan tingkat menengah hingga rendah. Ini cocok untuk game yang menampilkan pahlawan berkostum yang belum berpengalaman atau penyihir magang dalam pelatihan, penyintas mutasi dari kiamat radioaktif, pahlawan vigilante, atau dunia fantasi tinggi yang penuh dengan penyihir dan pejuang. Beberapa latar futuristik mungkin dibuat menggunakan tingkat kekuatan ini, dengan penduduk yang memiliki banyak kekuatan kecil yang diberikan oleh manipulasi genetik.
+Karakter memiliki beberapa kekuatan yang kuat atau berbagai kekuatan tingkat menengah hingga rendah. Ini cocok untuk gim yang menampilkan pahlawan berkostum yang belum berpengalaman atau penyihir magang yang sedang berlatih, penyintas mutasi dari kiamat radioaktif, pahlawan main hakim sendiri, atau dunia fantasi tinggi yang penuh dengan penyihir dan pejuang. Beberapa latar futuristik mungkin dibuat menggunakan tanjakan daya ini, dengan penduduk yang memiliki banyak kekuatan minor yang diberikan oleh manipulasi genetik.
 
-### Epic
+### Epik
 
-Karakter sangat terampil atau bertenaga, seperti arch-mage, atau makhluk supernatural yang tangguh. Contoh permainan mungkin penuh dengan pahlawan atau penjahat berkostum veteran, atau pahlawan supernatural veteran yang melawan kekuatan kegelapan di bayang-bayang dunia modern.
+Karakter sangat terampil atau bertenaga, seperti arch-mage atau makhluk supernatural yang tangguh. Contoh gim mungkin penuh dengan pahlawan atau penjahat berkostum veteran, atau pahlawan supernatural veteran yang melawan kekuatan kegelapan di balik bayang-bayang dunia modern.
 
 ### SuperHuman
 
-Karakter-karakter ini memiliki kemampuan yang sangat besar dan merupakan pahlawan terkuat. Game mungkin menampilkan pahlawan super berkostum dengan kekuatan luar biasa, penjaga galaksi, atau bahkan inkarnasi modern dari dewa-dewa besar.
+Karakter-karakter ini memiliki kemampuan yang sangat besar dan merupakan pahlawan yang paling perkasa. Gim mungkin menampilkan pahlawan super berkostum dengan kekuatan luar biasa, penjaga galaksi, atau bahkan inkarnasi modern dari dewa-dewa besar.
 
-Gamemaster-mu harus memperjelas kepadamu dan sesama pemain mengenai tingkat kekuatan permainanmu, untuk menetapkan ekspektasi dan memandu proses pembuatan karakter selanjutnya.
+Gamemaster-mu harus memperjelas kepadamu dan sesama pemain apa tanjakan daya gimmu, untuk menetapkan ekspektasi dan memandu sisa pembuatan karakter.
 
 ## Membuat Karakter
 
-Pertama-tama kamu memerlukan karakter. Berikut adalah sistem untuk mengembangkan karaktermu. Sistem ini menciptakan karakter yang cukup kompeten. Saran-saran diberikan pada setiap langkah untuk karakter yang lebih kuat. Kamu harus menyiapkan lembar karakter kosong, dan mungkin selembar kertas lagi untuk catatan. Di chaosium.com, kamu dapat mengunduh versi digitalnya.
+Pertama, kamu memerlukan karakter. Berikut adalah sistem untuk mengembangkan karaktermu. Sistem ini menciptakan karakter yang cukup kompeten. Saran disediakan di setiap langkah untuk karakter yang lebih kuat. Kamu harus menyiapkan lembar karakter kosong dan mungkin selembar kertas lagi untuk catatan. Di chaosium.com kamu dapat mengunduh versi digitalnya.
 
-Saat kamu bersiap untuk membuat karakter, Gamemaster-mu dan pemain lain seharusnya sudah memutuskan jenis permainan apa yang akan dimainkan, entah itu fiksi ilmiah, fantasi, horor modern, intrik sejarah, spionase, aksi pulp, techno-thriller, atau genre lainnya.
+Saat kamu bersiap untuk membuat karaktermu, gamemaster-mu dan pemain lain seharusnya sudah memutuskan jenis gim apa yang akan kalian mainkan, baik itu fiksi ilmiah, fantasi, horor modern, intrik sejarah, spionase, aksi pulp, techno-thriller, atau genre lainnya.
 
-Gamemaster-mu harus siap membimbingmu dan pemain lain melalui proses pembuatan karakter, mengetahui profesi apa saja yang diizinkan dan sesuai untuk permainan atau kampanye tersebut, serta tingkat kompetensi apa yang harus dimiliki oleh karakter. Isu-isu ini sangat penting untuk **Langkah Ketujuh** dan mungkin memengaruhi **Langkah Ketiga**.
+Gamemaster-mu harus siap untuk memandumu dan pemain lain melalui proses pembuatan karakter, mengetahui profesi apa saja yang diizinkan dan sesuai untuk gim atau kampanye tersebut, dan tingkat kompetensi apa yang harus ditunjukkan oleh karakter. Masalah-masalah ini paling penting bagi **Langkah Tujuh** dan dapat memengaruhi **Langkah Tiga**.
 
 ### Langkah Satu: Nama dan Karakteristik
 
-Tuliskan nama karaktermu di bagian atas halaman. Nama ini harus sesuai dengan latar dan permainan yang dimainkan. Jika belum memiliki ide, tunggu nanti saja. Kamu bisa menuliskan namamu sendiri di lembar karakter karena Gamemaster-mu mungkin perlu mencatat karakter mana milik siapa.
+Tulis nama karaktermu di bagian atas halaman. Ini harus sesuai dengan latar dan gim yang dimainkan. Jika belum ada ide, tunggu saja nanti. Kamu bisa menulis namamu sendiri di lembar karakter karena gamemaster-mu mungkin perlu melacak karakter mana milik siapa.
 
-* Pilih jenis kelamin karaktermu dan tulis di tempat yang tepat.
+* Pilih kelamin karaktermu dan tulis di tempat yang benar.
 
-* Lempar 3D6 untuk karakteristik Strength (STR), Constitution (CON), Power (POW), Dexterity (DEX), dan Charisma (CHA). Masukkan hasilnya di tempat yang sesuai pada lembar karaktermu.
+* Lempar 3D6 untuk karakteristik Kekuatan (KEK), Konstitusi (KET), Daya (DAY), KTG (KTG), dan KAR (KAR). Masukkan hasilnya di tempat yang sesuai pada lembar karaktermu.
 
-* Lempar 2D6+6 untuk karakteristik Intelligence (INT) dan Ukuran (SIZ).
+* Lempar 2D6+6 untuk karakteristik KEC (KEC) dan Ukuran (UKU).
 
-Angka-angka ini memberikan kerangka dasar karaktermu, menentukan pada karakteristik apa karakter tersebut kuat atau lemah.
+Angka-angka ini memberikan kerangka dasar karaktermu, menentukan karakteristik apa yang kuat atau lemah pada karakter tersebut.
 
-* Jika diinginkan, redistribusikan hingga 3 poin di antara karakteristikmu.
+* Jika kamu mau, distribusikan ulang hingga 3 poin di antara karakteristikmu.
 
 * Tidak ada karakteristik yang boleh dimulai dengan lebih dari 21 poin.
 
-* Jika kamu tidak puas dengan karakteristik yang didapat, dan Gamemaster-mu setuju, kamu bisa mengulanginya.
+* Jika kamu tidak puas dengan karakteristik yang kamu miliki, dan gamemaster-mu setuju, kamu bisa mulai dari awal.
 
-Jika kampanye menggunakan satu atau lebih jenis kekuatan, Gamemaster-mu mungkin mengizinkanmu untuk meningkatkan karakteristik awalmu (lihat Bab Empat: Kekuatan, khususnya **Diminish/Enhance Characteristic**).
+Jika kampanye menggunakan satu atau lebih jenis kekuatan, gamemaster-mu mungkin mengizinkanmu untuk meningkatkan karakteristik awalmu (lihat Bab Empat: Kekuatan, khususnya **Kurangi/Tingkatkan Karakteristik**).
 
-**Memilih Nilai Karakteristik (Opsi):** Secara tradisional, karakteristik dilempar secara berurutan, dengan hingga 3 poin dapat didistribusikan ulang. Sebagai gantinya, kamu dapat melempar 3D6 sebanyak tujuh kali dan memilih ke mana hasilnya akan ditaruh. Dalam kasus ini, SIZ dan INT tidak boleh di bawah 8.
+**Memilih Nilai Karakteristik (Opsi):** Secara tradisional, karakteristik dilempar secara berurutan, dengan hingga 3 poin didistribusikan ulang. Sebagai gantinya, kamu dapat melempar 3D6 tujuh kali dan memilih ke mana hasilnya pergi. Dalam kasus ini, UKU dan KEC tidak boleh di bawah 8.
 
-**Karakteristik Awal yang Lebih Tinggi (Opsi):** Untuk game dengan kekuatan lebih tinggi, lempar 2D6+6 untuk semua karakteristik.
+**Karakteristik Awal Lebih Tinggi (Opsi):** Untuk gim dengan daya lebih tinggi, lempar 2D6+6 untuk semua karakteristik.
 
-**Karakteristik Education (EDU) (Opsi):** Lempar 2D6+6 untuk Education (EDU) bagi karakteristik ini, bagi karakter dari masyarakat dengan pendidikan formal. Nilai EDU 12 menunjukkan pendidikan tingkat lulusan SMA, dengan nilai yang lebih tinggi menunjukkan perguruan tinggi atau gelar lanjutan.
+**Karakteristik Pendidikan (EDU) (Opsi):** Lempar 2D6+6 untuk Pendidikan (EDU) untuk karakteristik ini, bagi karakter dari masyarakat dengan pendidikan formal. EDU 12 menunjukkan pendidikan tingkat lulusan sekolah menengah, dengan nilai yang lebih tinggi menunjukkan perguruan tinggi atau gelar lanjutan.
 
-**Modifier Budaya (Opsi):** Modifier budaya menekankan perbedaan karakteristik antar spesies yang berbeda (seperti peri atau kurcaci) atau untuk budaya Manusia yang berbeda. Karakteristik awal mungkin disesuaikan atau dibatasi pada titik ini. Lihat **Cultural Characteristic Modifiers (Opsi)**.
+**Modifier Budaya (Opsi):** Modifier budaya menekankan perbedaan karakteristik antara spesies yang berbeda (seperti elf atau kurcaci) atau untuk budaya Manusia yang berbeda. Karakteristik awal dapat disesuaikan atau dibatasi pada titik ini. Lihat **Modifier Karakteristik Budaya (Opsi)**.
 
 **Karakter Non-Manusia (Opsi):** Karakter non-manusia mungkin menggunakan lemparan dadu dan Modifier yang berbeda untuk menentukan karakteristik awal. Lihat Bab Sebelas: Makhluk.
 
-**Pembuatan Karakter Berbasis Poin (Opsi):** Biasanya, karakteristik dilempar secara acak. Sebagai gantinya, pemain dapat membeli poin karakteristik dari sebuah kumpulan. Lihat **Point-based Karakter Creation (Opsi)**.
+**Pembuatan Karakter Berbasis Poin (Opsi):** Biasanya, karakteristik dilempar secara acak. Sebagai gantinya, pemain dapat membeli poin karakteristik dari kumpulan. Lihat **Pembuatan Karakter Berbasis Poin (Opsi)**.
 
 ### Langkah Dua: Kekuatan
 
-Baca ini dengan cermat! Jika game yang kamu mainkan melibatkan sihir, mutasi, kemampuan psikis, sorcery, atau kekuatan super, kamu mungkin bisa memulai dengan beberapa kekuatan ini. Tanyakan kepada Gamemaster-mu tentang hal ini dan rujuk *Bab Empat: Kekuatan* untuk informasi lebih lanjut. Sistem ini memerlukan penjelasan lebih daripada yang disediakan dalam bab ini.
+Baca ini dengan cermat! Jika gim yang kamu mainkan melibatkan sihir, mutasi, kemampuan psikis, sorcery, atau kekuatan super, kamu mungkin memulai dengan beberapa kekuatan ini. Tanyakan kepada gamemaster-mu tentang hal itu dan rujuk *Bab Empat: Kekuatan* untuk informasi lebih lanjut. Sistem ini memerlukan penjelasan lebih lanjut daripada yang disediakan di bab ini.
 
 Jika tidak ada kekuatan dalam kampanye, abaikan langkah ini dan lanjutkan.
 
-Jika terdapat kekuatan, jenis berikut tersedia:
+Jika ada kekuatan, jenis-jenis berikut tersedia:
 
-* **Sihir:** Perapalan mantra sederhana dengan berbagai macam aplikasi.
+* **Sihir:** Perapalan mantra sederhana dengan berbagai kegunaan.
 
 * **Mutasi:** Anomali genetik yang aneh, beberapa menguntungkan, beberapa merugikan.
 
@@ -90,310 +90,310 @@ Jika terdapat kekuatan, jenis berikut tersedia:
 
 * **Kekuatan Super:** Kemampuan dahsyat yang melampaui imajinasi.
 
-Detail lebih lanjut mengenai masing-masing hal tersebut muncul di bagian yang relevan.
+Detail lebih lanjut tentang masing-masing muncul di bagian yang relevan.
 
 ### Langkah Tiga: Usia
 
-Usia default untuk karakter adalah 17+1D6 tahun. Gamemaster-mu mungkin memilih untuk mengubah ini berdasarkan kebutuhan latar permainan. Jika kamu ingin memulai permainan dengan karakter yang lebih muda atau lebih tua, pilih usia yang tampak sesuai dan disetujui oleh Gamemaster-mu.
+Usia default untuk karakter adalah 17+1D6 tahun. Gamemaster-mu mungkin memilih untuk mengubah ini berdasarkan kebutuhan latar gim. Jika kamu ingin memulai permainan dengan karakter yang lebih muda atau lebih tua, pilih usia yang tampak sesuai dan disetujui oleh gamemaster-mu.
 
-* Berdasarkan tingkat kampanye (dideskripsikan di Langkah Enam), untuk setiap 10 tahun penuh yang ditambahkan ke usia awal hasil lemparan, modifikasi poin Skill profesional sebesar +10 (Normal), +20 (Heroic), +30 (Epic), atau +40 (SuperHuman). Pecahan tahun di bawah 10 tidak memenuhi syarat untuk bonus Skill ini.
+* Berdasarkan tingkat kampanye (dideskripsikan di Langkah Enam), untuk setiap 10 tahun penuh yang ditambahkan ke usia awal yang dilempar, modifikasi poin Skill profesional sebesar +10 (Standar), +20 (Heroik), +30 (Epik), atau +40 (SuperHuman). Pecahan tahun di bawah 10 tidak memenuhi syarat untuk bonus Skill ini.
 
-* Untuk setiap tahun di bawah 18, modifikasi poin Skill profesional sebesar –10 (Normal), –20 (Heroic), –30 (Epic), atau –40 (SuperHuman).
+* Untuk setiap tahun di bawah 18, modifikasi poin Skill profesional sebesar –10 (Standar), –20 (Heroik), –30 (Epik), atau –40 (SuperHuman).
 
 * Gamemaster-mu mungkin membatasi profesi yang tersedia bagi karakter di bawah 18 tahun.
 
-* Pada usia 50 dan setiap 10 tahun penuh di atasnya, modifikasi salah satu dari STR, CON, DEX, atau CHA (pilihanmu) sebesar –1. Pada usia 80 dan setiap 10 tahun penuh di atasnya, modifikasi **tiga** dari karakteristik ini. Lihat **Aging and Inaction (Opsi)**.
+* Pada usia 50 dan setiap 10 tahun penuh di atasnya, modifikasi salah satu KEK, KET, KTG, atau KAR (pilihanmu) sebesar –1. Pada usia 80 dan setiap 10 tahun penuh di atasnya, modifikasi **tiga** dari karakteristik ini. Lihat **Penuaan dan Ketidakaktifan (Opsi)**.
 
-* Untuk setiap tahun di bawah usia awal hasil lemparan di atas, modifikasi satu karakteristik apa pun selain EDU (pilihanmu) sebesar –1. Gamemaster-mu mungkin mengharuskanmu menjadikan SIZ sebagai salah satu karakteristik yang diturunkan ini. Poin ini dapat diperoleh melalui permainan (pengalaman), pelatihan, atau secara bertahap melalui cara alami (kebijakan Gamemaster). Lihat **Aging and Inaction (Opsi)**.
+* Untuk setiap tahun di bawah usia awal yang dilempar di atas, modifikasi satu karakteristik apa pun selain EDU (pilihanmu) sebesar –1. Gamemaster-mu mungkin mengharuskanmu menjadikan UKU sebagai salah satu karakteristik yang diturunkan ini. Poin ini dapat diperoleh melalui permainan (pengalaman), pelatihan, atau secara bertahap melalui cara alami (kebijakan gamemaster). Lihat **Penuaan dan Ketidakaktifan (Opsi)**.
 
-Gamemaster-mu mungkin juga memilih untuk mengabaikan aturan ini, berdasarkan tingkat kekuatan permainan. Ini memungkinkan adanya petualang lanjut usia, anak-anak jenius, dan umumnya lebih menyenangkan bagi semua pemain.
+Gamemaster-mu juga dapat memilih untuk mengabaikan aturan ini, berdasarkan tanjakan daya gim. Ini memungkinkan adanya petualang lanjut usia, anak jenius, dan umumnya lebih menyenangkan bagi semua pemain.
 
-**Education (EDU) (Opsi):** Jika kamu menggunakan karakteristik EDU, usia awal karaktermu harus setidaknya EDU+5 (mewakili waktu yang dihabiskan untuk belajar). Setiap 10 tahun penuh yang ditambahkan ke usia awal karaktermu, menambahkan +1 pada karakteristik EDU karaktermu. Pastikan untuk meningkatkan poin Skill relevan yang dihasilkan di **Langkah Enam**.
+**Pendidikan (EDU) (Opsi):** Jika kamu menggunakan karakteristik EDU, usia awal karaktermu harus setidaknya EDU+5 (mewakili waktu yang dihabiskan untuk belajar). Setiap 10 tahun penuh yang ditambahkan ke usia awal karaktermu, menambahkan +1 ke karakteristik EDU karaktermu. Pastikan untuk meningkatkan poin Skill relevan yang dihasilkan di **Langkah Enam**.
 
 ### Langkah Empat: Lemparan Karakteristik
 
-Di sinilah kamu menentukan lemparan karakteristikmu. Sekarang kamu seharusnya sudah tahu apa karakteristik akhirmu, tetapi jika belum, tahan langkah ini sampai kamu menyelesaikannya. Masing-masing memiliki tempat di lembar karakter.
+Di sinilah kamu menentukan lemparan karakteristikmu. Sekarang kamu seharusnya sudah tahu apa karakteristik akhirmu, tetapi jika belum, tahan langkah ini sampai kamu memfinalisasikannya. Masing-masing memiliki tempat di lembar karakter.
 
-* Kalikan STR×5 untuk lemparan **Effort**-mu.
+* Kalikan KEK×5 untuk lemparan **Ketahanan**mu.
 
-* Kalikan CON×5 untuk lemparan **Stamina**-mu.
+* Kalikan KET×5 untuk lemparan **Stamina**mu.
 
-* Kalikan INT×5 untuk lemparan **Idea**-mu.
+* Kalikan KEC×5 untuk lemparan **Intuisi**mu.
 
-* Kalikan POW×5 untuk lemparan **Luck**-mu.
+* Kalikan DAY×5 untuk lemparan **Hoki**mu.
 
-* Kalikan DEX×5 untuk lemparan **Agility**-mu.
+* Kalikan KTG×5 untuk lemparan **Kelincahan**mu.
 
-* Kalikan CHA×5 untuk lemparan **Charm**-mu.
+* Kalikan KAR×5 untuk lemparan **Pesona**mu.
 
-**Know Roll (Opsi):** Kalikan EDU×5 untuk lemparan **Know**-mu (jika EDU digunakan).
+**Lemparan Pengetahuan (Opsi):** Kalikan EDU×5 untuk lemparan **Pengetahuan**mu (jika EDU digunakan).
 
 ### Langkah Lima: Karakteristik Turunan
 
-Sekarang waktunya untuk karakteristik turunan: daya rusak mod, hit point, poin sihir, dan bonus pengalaman. Jika kamu menggunakan sistem opsional, kamu juga harus menentukan poin kelelahan awal dan poin kewarasan. Tulis hasilnya di lembar karaktermu.
+Sekarang saatnya untuk karakteristik turunan: Daya Rusak Mod, HP, Poin Sihir, dan bonus pengalaman. Jika kamu menggunakan sistem opsional, kamu juga harus menentukan poin Kelelahan dan poin kewarasan awalmu. Tulis hasilnya di lembar karaktermu.
 
-* **Daya Rusak Mod**: Tambahkan STR+SIZ dan temukan **Daya Rusak Mod** yang sesuai dengan total karaktermu pada tabel **Daya Rusak Mod**.
+* **Daya Rusak Mod**: Tambahkan KEK+UKU dan temukan **Daya Rusak Mod** yang sesuai dengan total karaktermu pada tabel **Daya Rusak Mod**.
 
-* **Hit Points:** Tambahkan CON+SIZ dan bagi dengan 2 (dibulatkan ke atas). Lingkari angka tersebut di kotak **Hit Points** di lembar karaktermu dan tulis di bawahnya. Ini adalah hit point maksimum karaktermu. Jika karaktermu kehilangan hit point, tandai, dan hapus tanda tersebut saat hit point disembuhkan atau dipulihkan.
+* **HP:** Tambahkan KET+UKU dan bagi dengan 2 (dibulatkan ke atas). Lingkari angka tersebut di kotak **HP** pada lembar karaktermu dan tulis di bawahnya. Ini adalah HP maksimum karaktermu. Jika karaktermu kehilangan HP, tandai, dan hapus tanda tersebut saat HP sembuh atau dipulihkan.
 
-* **Tingkat Luka Parah:** **Tingkat luka parah** adalah 1/2 hit point, dibulatkan ke atas.
+* **Tingkat Luka Parah:** **Tingkat luka parah**mu adalah 1/2 HP, dibulatkan ke atas.
 
-* **Poin Sihir:** Di kotak **Poin Sihir**, lingkari angka yang sama dengan POW dan tulis totalnya pada baris di bawahnya. Ini adalah poin sihir maksimum karaktermu. Poin ini digunakan untuk mantra sihir, mutasi, kemampuan psikis, atau kekuatan super. Tandai poin sihir saat digunakan dan hapus tanda tersebut saat dipulihkan. Angka yang ditulis di ruang tersebut, sama dengan POW-mu, adalah nilai poin sihirmu kembali setelah beristirahat.
+* **Poin Sihir:** Di kotak **Poin Sihir**, lingkari angka yang sama dengan DAY dan tulis totalnya di baris di bawah. Ini adalah poin sihir maksimum karaktermu. Ini memicu mantra sihir, mutasi, kemampuan psikis, atau kekuatan super. Tandai poin sihir saat digunakan dan hapus tanda tersebut saat dipulihkan. Angka yang tertulis di ruang tersebut, sama dengan DAY, adalah nilai kembalinya poin sihirmu saat istirahat.
 
-* **Bonus Pengalaman:** Bonus pengalaman karaktermu sama dengan 1/2 dari INT-nya, dibulatkan ke atas.
+* **Bonus Pengalaman:** Bonus pengalaman karaktermu sama dengan 1/2 KEC, dibulatkan ke atas.
 
-* **Tingkat Gerak (MOV):** MOV karaktermu mengukur seberapa cepat mereka dapat bergerak selama ronde pertarungan. Karakter manusia biasanya dapat bergerak 10 unit per ronde. Satu unit adalah jumlah yang agak bervariasi yang biasanya sama dengan 1 meter. Lihat **Tingkat Gerak**.
+* **Gerak (MOV):** MOV karaktermu mengukur seberapa cepat mereka dapat bergerak selama ronde tarung. Karakter manusia biasanya dapat bergerak 10 unit per ronde. Satu unit adalah jumlah yang agak bervariasi, biasanya setara dengan 1 meter. Lihat **Tingkat Gerak**.
 
-**Bonus Skill (Opsi):** Jika menggunakan bonus kategori Skill berbasis karakteristik, hitung bonus untuk masing-masing menggunakan tabel **Bonus Kategori Skill**. Tulis nilai-nilai ini di ruang untuk setiap kategori. Bonus ini ditambahkan ke peluang dasar untuk setiap Skill, jika ada. Untuk setiap kategori:
+**Bonus Skill (Opsi):** Jika menggunakan bonus kategori Skill berbasis karakteristik, hitung bonus untuk masing-masing menggunakan tabel **Bonus Kategori** Skill. Tulis nilai-nilai ini di ruang untuk setiap kategori. Bonus ini ditambahkan ke peluang dasar untuk setiap Skill, jika ada. Untuk setiap kategori:
 
-* Tambahkan +1% untuk setiap poin di karakteristik utama di atas 10; kurangi 1% untuk setiap poin di bawah 10.
+* Tambahkan +1% untuk setiap poin dalam karakteristik utama di atas 10; kurangi 1% untuk setiap poin di bawah 10.
 
-* +1% untuk setiap 2 poin di karakteristik sekunder di atas 10; –1% untuk setiap 2 poin di bawah 10 (bulatkan ke bawah bonus jika diperlukan).
+* +1% untuk setiap 2 poin dalam karakteristik sekunder di atas 10; –1% untuk setiap 2 poin di bawah 10 (bulatkan ke bawah bonus jika diperlukan).
 
-* –1% untuk setiap poin di karakteristik negatif di atas 10; +1% untuk setiap poin di bawah 10.
+* –1% untuk setiap poin dalam karakteristik negatif di atas 10; +1% untuk setiap poin di bawah 10.
 
-**Hit Points per Lokasi (Opsi):** Dengan sistem lokasi bentur opsional, tentukan jumlah hit point untuk setiap lokasi bentur. Kepala, perut, dan setiap kaki memiliki 1/3 dari total hit point-mu, dada memiliki 4/10, dan setiap lengan memiliki 1/4 dari nilai hit point maksimum karakter. Bulatkan semua pecahan ke atas.
+**HP per Lokasi (Opsi):** Dengan sistem lokasi bentur opsional, tentukan jumlah HP untuk setiap lokasi bentur. Kepala, perut, dan masing-masing kaki memiliki 1/3 dari total HP-mu, dada memiliki 4/10, dan masing-masing lengan memiliki 1/4 dari nilai HP maksimum karakter. Bulatkan semua pecahan ke atas.
 
-**Poin Kelelahan (Opsi):** Jika kelelahan digunakan; tambahkan STR+CON karaktermu untuk mendapatkan total poin kelelahan mereka. Dalam permainan, saat karaktermu mengeluarkan energi atau melakukan aktivitas fisik yang berat, mereka akan kehilangan poin kelelahan. Mereka pulih dengan cepat melalui istirahat dan cara lain serta sering berubah.
+**Poin Kelelahan (Opsi):** Jika kelelahan digunakan; tambahkan KEK+KET karaktermu untuk mendapatkan total poin kelelahan mereka. Dalam permainan, saat karaktermu mengeluarkan energi atau melakukan aktivitas fisik yang berat, mereka akan kehilangan poin kelelahan. Mereka pulih dengan cepat melalui istirahat dan cara lain serta sering berubah.
 
-**Kewarasan (Opsi):** Jika Kewarasan digunakan; kalikan nilai POW awal karaktermu dengan ×5 untuk mendapatkan total Kewarasan (SAN) saat ini. Profesi (lihat Langkah Enam, di bawah) mungkin memodifikasi angka ini. Dalam permainan, tandai jika karaktermu kehilangan poin kewarasan.
+**Kewarasan (Opsi):** Jika kewarasan digunakan; kalikan skor DAY awal karaktermu dengan ×5 untuk mendapatkan total kewarasan (SAN) saat ini. Profesi (lihat Langkah Enam, di bawah) dapat memodifikasi angka ini. Dalam permainan, tandai ini jika karaktermu kehilangan poin kewarasan.
 
 ### Langkah Enam: Kepribadian
 
-Pelajari karakteristik karaktermu dan bayangkan tipe orang yang kamu inginkan. Pilih salah satu opsi di bawah ini atau lempar 1D4 untuk hasil acak. Paket Skill ini adalah cara cepat untuk mengembangkan karaktermu—akan ada lebih banyak Skill di langkah berikutnya. Skill didefinisikan dalam *Bab Tiga: Skill* 37–52 dan kelas senjata dideskripsikan dalam *Bab Delapan: Perlengkapan*.
+Pelajari karakteristik karaktermu dan bayangkan jenis orang seperti apa yang kamu inginkan. Pilih salah satu opsi di bawah ini atau lempar 1D4 untuk hasil acak. Paket Skill ini adalah cara cepat untuk mengembangkan karaktermu—akan ada lebih banyak Skill di langkah berikutnya. Skill didefinisikan dalam *Bab Tiga: Skill* 37–52 dan kelas senjata dideskripsikan dalam *Bab Delapan: Perlengkapan*.
 
 ##### Tipe Kepribadian
 
 | Hasil | Deskripsi |
 | :---- | :---- |
-| 1  | **Brutal**: Karaktermu berpikir pertama kali untuk menyelesaikan masalah dengan kekuatan fisik dan otot. Berikan 20 poin Skill masing-masing ke Bela Diri, Memanjat, Menghindar, Bergulat, Intuisi, Melompat, Menunggang, Sense, Senyap, Berenang, Melempar, dan ke dua Skill Gaya Tarung mana pun. |
-| 2  | **Skilled:** Karaktermu percaya bahwa teknik, kerajinan, dan keahlian adalah rahasia kesuksesan. Berikan 20 poin Skill masing-masing ke Menilai, satu Craft mana pun, Menyamar, Menghindar, Manipulasi Halus, Pertolongan Pertama, satu Skill Pengetahuan mana pun, Navigasi, Mengemudi, Menunggang, Sulap, Senyap, dan ke satu Skill Gaya Tarung mana pun. |
-| 3  | **Cunning:** Karaktermu pertama kali mencoba mengakali lawan untuk mendapatkan keuntungan. Tambahkan 20 poin Skill masing-masing ke Menilai, Menawar, Menyamar, Intuisi, dua Skill Pengetahuan mana pun, Mendengar, Riset, Sense, Melihat, Senyap, satu Skill Teknis mana pun (sesuai latar), dan ke satu Skill Gaya Tarung mana pun. |
-| 4  | **Charming:** Karaktermu senang membujuk orang lain untuk bekerja, sementara mereka membuat keputusan. Berikan 20 poin masing-masing ke Menilai, Menawar, Memerintah, Adat Istiadat, Fast Talk, Intuisi, Tampil, Mempengaruhi, satu Bahasa (Lain) mana pun, Bahasa (Sendiri), Sense, Status, dan ke satu Skill Gaya Tarung mana pun. |
+| 1  | **Brutal**: Karaktermu berpikir untuk menyelesaikan masalah dengan kekuatan fisik dan otot. Berikan 20 poin Skill masing-masing ke Bela Diri, Memanjat, Menghindar, Bergulat, Intuisi, Melompat, Menunggang, Persepsi, Senyap, Berenang, Melempar, dan ke dua Skill Gaya Tarung. |
+| 2  | **Terampil**: Karaktermu percaya bahwa teknik, kerajinan, dan keahlian adalah kunci sukses. Berikan 20 poin Skill masing-masing ke Menilai, satu Skill Kerajinan, Menyamar, Menghindar, Manipulasi Halus, Pertolongan Pertama, satu Skill Pengetahuan, Navigasi, Mengemudi, Menunggang, Sulap Tangan, Senyap, dan ke satu Skill Gaya Tarung. |
+| 3  | **Licik**: Karaktermu mencoba mengakali lawan untuk mendapatkan keuntungan. Tambahkan 20 poin Skill masing-masing ke Menilai, Tawar-menawar, Menyamar, Intuisi, dua Skill Pengetahuan, Mendengar, Riset, Persepsi, Meneliti, Senyap, satu Skill Teknis (sesuai latar), dan ke satu Skill Gaya Tarung. |
+| 4  | **Menawan**: Karaktermu senang membujuk orang lain untuk bekerja, sementara mereka yang membuat keputusan. Berikan 20 poin masing-masing ke Menilai, Tawar-menawar, Memerintah, Etika, Bicara Cepat, Intuisi, Menari, Mempengaruhi, satu Bahasa (Lainnya), Bahasa (Sendiri), Persepsi, Status, dan ke satu Skill Gaya Tarung. |
 
-Gamemaster-mu mungkin memiliki tipe kepribadian lain, atau kamu dapat membuat milikmu sendiri, memilih 13 Skill dan menambahkan 20 poin ke setiap peringkat Skill (dengan persetujuan Gamemaster-mu).
+Gamemaster-mu mungkin memiliki tipe kepribadian lain, atau kamu bisa membuat tipe kepribadianmu sendiri, dengan memilih 13 Skill dan menambahkan 20 poin ke setiap peringkat Skill (dengan persetujuan gamemaster-mu).
 
-Saat mendistribusikan poin Skill ini, tambahkan bonus ke peluang dasar untuk setiap Skill, biasanya disajikan sebagai nilai dalam kurung setelah Skill, seperti Fast Talk (05%). Tulis totalnya setelah Skill tersebut.
+Saat mendistribusikan poin Skill ini, tambahkan bonus ke peluang dasar untuk setiap Skill, biasanya disajikan sebagai nilai dalam tanda kurung setelah Skill, seperti Bicara Cepat (15%). Tulis total itu setelah Skill.
 
-Sebagai contoh, *menambahkan 20 poin Skill ke Fast Talk (05%) menghasilkan peringkat 25% (5+20).*
+Contohnya, *menambahkan 20 poin Skill ke Bicara Cepat (05%) menghasilkan peringkat 25% (5+20).*
 
 ### Langkah Tujuh: Profesi dan Skill
 
-Untuk menentukan Skill awal karaktermu, buka daftar profesi. Pilih profesi di sana. Profesi dideskripsikan sepenuhnya di bab ini nanti. Gamemaster-mu mungkin membatasi profesi yang tersedia, jadi tanyakan sebelum membuat pilihan ini. Beberapa profesi memberikan keuntungan khusus, seperti penggunaan sihir. Catat ini di lembar karakter.
+Untuk menentukan Skill awal karaktermu, buka daftar profesi. Pilih salah satu profesi di sana. Profesi dideskripsikan sepenuhnya di bagian akhir bab ini. Gamemaster-mu mungkin membatasi profesi yang tersedia, jadi tanyakan sebelum membuat pilihan ini. Beberapa profesi memberikan keuntungan khusus, seperti penggunaan sihir. Catat ini pada lembar karakter.
 
 Setelah profesi dipilih, tentukan kumpulan poin Skill profesional karakter. Ini mewakili apa yang telah dipelajari karaktermu dalam profesi tersebut, baik melalui pelatihan atau pengalaman kerja. Seperti biasa, poin Skill ditambahkan ke bonus apa pun yang diberikan dari langkah sebelumnya dan ke peluang dasar Skill.
 
-Tingkat kekuatan kampanye menentukan kumpulan poin Skill awal. Gamemaster-mu seharusnya sudah memutuskan sekarang game apa yang akan mereka jalankan, dan seberapa kuat dan kompeten karakter pemain.
+Tanjakan daya kampanye menentukan kumpulan poin Skill awal. Gamemaster-mu seharusnya sudah memutuskan saat ini jenis gim apa yang akan mereka jalankan, dan seberapa kuat serta kompeten karakter pemain.
 
-* **Normal:** Alokasikan 250 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 75%. Jika kamu menggunakan bonus kategori Skill opsional, batasnya tetap 75%, dan kamu harus menghabiskan poin di atas ini pada Skill lain. Jika kombinasi bonus meningkatkan Skill menjadi lebih dari 75% sebelum langkah ini, jangan tambahkan poin Skill tambahan.
+* **Standar:** Alokasikan 250 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 75%. Jika kamu menggunakan bonus kategori Skill opsional, batasnya tetap 75%, dan kamu harus menghabiskan poin apa pun di atas ini untuk Skill lain. Jika kombinasi bonus meningkatkan Skill menjadi lebih dari 75% sebelum langkah ini, jangan tambahkan poin Skill tambahan apa pun.
 
-* **Heroic:** Alokasikan 325 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 90%, dengan batasan yang sama seperti di atas.
+* **Heroik:** Alokasikan 325 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 90%, dengan batasan yang sama seperti di atas.
 
-* **Epic:** Alokasikan 400 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 101%, dengan batasan yang sama seperti di atas.
+* **Epik:** Alokasikan 400 poin ke Skill profesional. Tidak ada Skill yang boleh dimulai lebih tinggi dari 101%, dengan batasan yang sama seperti di atas.
 
-* **SuperHuman:** Alokasikan 500 poin di antara Skill profesional, tanpa batasan pada peringkat Skill. Lihat **Tanjakan Skill di atas 100% (Opsi)**.
+* **SuperHuman:** Alokasikan 500 poin di antara Skill profesional, tanpa batas pada peringkat Skill. Lihat **Peringkat Skill Lebih dari 100% (Opsi)**.
 
-Untuk profesi asli, alokasikan jumlah poin Skill tingkat kekuatan, seperti di atas. Gamemaster-mu mungkin memiliki beberapa batasan mengenai bagaimana poin Skill ini dapat dihabiskan.
+Untuk profesi asli, alokasikan jumlah poin Skill tanjakan daya, seperti di atas. Gamemaster-mu mungkin memiliki beberapa batasan tentang bagaimana poin Skill ini dapat dihabiskan.
 
-Setelah semua poin Skill profesional dialokasikan, kalikan INT×10 karaktermu untuk menentukan kumpulan poin Skill pribadi mereka. Habiskan poin Skill ini untuk Skill apa pun yang kamu suka, dengan persetujuan Gamemaster-mu. Tambahkan poin yang dihabiskan pada Skill ke peluang dasarnya, bonus profesi (jika ada), alokasi poin Skill profesional, dan bonus kategori Skill (jika ada).
+Setelah semua poin Skill profesional dialokasikan, kalikan KEC×10 milik karaktermu untuk menentukan kumpulan poin Skill pribadi mereka. Habiskan poin Skill ini untuk Skill apa pun yang kamu suka, dengan persetujuan gamemaster-mu. Tambahkan poin yang dihabiskan pada Skill ke peluang dasarnya, bonus profesi (jika ada), alokasi poin Skill profesional, dan bonus kategori Skill (jika ada).
 
-Totalnya tidak boleh melebihi batas Skill untuk jenis game yang ditetapkan di atas. Gamemaster-mu mungkin membebankan batasan 50% pada Skill pribadi yang terlalu jauh di luar profesi karakter. Batas Skill ini lebih tinggi berdasarkan tingkat kampanye: 75% untuk heroic, 90% untuk epic, dan 100% untuk superhuman. Skill yang secara alami melebihi angka-angka ini melalui bonus sebelumnya tidak dapat ditambahkan poin lagi.
+Totalnya tidak boleh melebihi batas Skill untuk jenis gim yang ditetapkan di atas. Gamemaster-mu mungkin menetapkan batas 50% pada Skill pribadi yang terlalu jauh di luar profesi karakter. Batas Skill ini lebih tinggi berdasarkan tingkat kampanye: 75% untuk heroik, 90% untuk epik, dan 100% untuk superhuman. Skill yang secara alami melebihi angka-angka ini melalui bonus sebelumnya tidak dapat ditambahkan poin tambahan lagi.
 
-Hitung peringkat akhir untuk semua Skill karakter dari peluang dasar, tipe kepribadian, kumpulan Skill profesional, kumpulan Skill pribadi, dan bonus kategori Skill opsional (jika digunakan). Kamu mungkin ingin menggeser beberapa poin pada saat ini tetapi jaga agar poin Skill profesional dan poin Skill pribadi tetap terpisah.
+Hitung peringkat akhir untuk semua Skill karakter dari peluang dasar, tipe kepribadian, kumpulan Skill profesional, kumpulan Skill pribadi, dan bonus kategori Skill opsional (jika digunakan). Kamu mungkin ingin menggeser beberapa poin pada saat ini tetapi tetap pisahkan poin Skill profesional dan poin Skill pribadi.
 
-**Education (Opsi):** Jika karakteristik Education (EDU) digunakan, alih-alih kumpulan poin Skill dasar 250/325/400/500, buat poin Skill awal didasarkan pada EDU×20 untuk karakter normal, EDU×25 untuk karakter heroic, EDU×30 untuk karakter epic, dan EDU×40 untuk karakter superhuman.
+**Pendidikan (Opsi):** Jika Pendidikan (EDU) digunakan, alih-alih kumpulan poin Skill dasar 250/325/400/500, jadikan poin Skill awal berdasarkan EDU×20 untuk karakter standar, EDU×25 untuk karakter heroik, EDU×30 untuk karakter epik, dan EDU×40 untuk karakter superhuman.
 
-**Skill Budaya (Opsi):** Untuk game dengan perbedaan signifikan antara budaya Manusia, Gamemaster-mu mungkin memengaruhi hal ini pada Skill awal atau Skill yang diperbolehkan di awal. Lihat **Budaya dan Karakter**.
+**Skill Budaya (Opsi):** Untuk gim dengan perbedaan signifikan antara budaya Manusia, gamemaster-mu mungkin membiarkan hal ini memengaruhi Skill awal atau Skill awal yang diizinkan. Lihat **Budaya dan Karakter**.
 
-**Poin Skill Pribadi yang Ditingkatkan (Opsi)**: Total poin Skill pribadi INT×10 dapat ditingkatkan menjadi INT×15 untuk karakter heroic, INT×20 untuk karakter epic, atau INT×25 untuk karakter superhuman, sesuai kebutuhan. Opsi ini direkomendasikan untuk game di mana karakter sangat kompeten dan terampil melebihi apa yang ditunjukkan oleh profesi mereka saat ini.
+**Poin Skill Pribadi yang Ditingkatkan (Opsi)**: Total poin Skill pribadi KEC×10 dapat ditingkatkan menjadi KEC×15 untuk karakter heroik, KEC×20 untuk karakter epik, atau KEC×25 untuk karakter superhuman, sesuai kebutuhan. Opsi ini direkomendasikan untuk gim di mana karakter sangat kompeten dan terampil melebihi apa yang ditunjukkan oleh profesi mereka saat ini.
 
 ### Langkah Delapan: Kepemilikan
 
-Kebanyakan karakter memiliki semacam kepemilikan, entah itu perlengkapan atau senjata. Bagian depan lembar karakter memiliki bagian untuk senjata, dan bagian belakang untuk kepemilikan. Profesimu mendeskripsikan tingkat kekayaan awal karaktermu dan Skill Status dapat memberikan panduan tentang perlengkapan tambahan apa yang mungkin bisa didapatkan oleh karaktermu. Tidak perlu mencantumkan setiap barang yang dimiliki karaktermu, tetapi cukup yang mungkin penting dalam permainan.
+Sebagian besar karakter memiliki beberapa jenis barang, baik perlengkapan maupun senjata. Bagian depan lembar karakter memiliki bagian untuk senjata, dan bagian belakang untuk ruang kepemilikan. Profesimu mendeskripsikan tingkat kekayaan awal karaktermu dan Skill Status dapat memberikan panduan mengenai jenis peralatan tambahan apa yang mungkin bisa didapatkan oleh karaktermu. Tidak perlu mencantumkan setiap barang yang dimiliki karaktermu, cukup yang mungkin penting dalam permainan.
 
 Dalam kebanyakan kasus, karaktermu memiliki hal berikut:
 
-* Satu set (atau beberapa set) pakaian lengkap yang sesuai dengan lingkungan dan latarnya.
+* Satu set (atau beberapa set) pakaian yang sesuai dengan lingkungan dan latar mereka.
 
-* Sejumlah uang saku dan tabungan pribadi berdasarkan tingkat kekayaannya.
+* Sejumlah uang saku dan tabungan pribadi berdasarkan tingkat kekayaan mereka.
 
-* Barang pribadi yang menunjukkan hubungan dengan keluarga atau latar belakangnya. Ini bisa berupa pusaka, kenang-kenangan, atau pernak-pernik dengan hubungan emosional yang kuat.
+* Barang pribadi yang menunjukkan hubungan dengan keluarga atau latar belakang mereka. Ini bisa berupa warisan, kenang-kenangan, atau pernak-pernik dengan hubungan emosional yang kuat.
 
-* Alat dagang atau perlengkapan apa pun yang sesuai dengan profesinya, jika relevan.
+* Alat dagang atau peralatan apa pun yang sesuai dengan profesi mereka, jika perlu.
 
-* Senjata apa pun yang mereka miliki Skill 50%+, jika relevan.
+* Senjata apa pun yang mereka miliki Skill 50%+ di dalamnya, jika sesuai.
 
-* Berdasarkan latar, profesi, tingkat kekayaan, dan Status, mereka mungkin memiliki kendaraan seperti kuda, gerobak, sepeda, mobil, pesawat pribadi, transportasi luar angkasa kecil, atau sarana transportasi lainnya. Ini bergantung pada persetujuan Gamemaster-mu.
+* Berdasarkan latar, profesi, tingkat kekayaan, dan Status, mereka mungkin memiliki kendaraan seperti kuda, gerobak, sepeda, mobil, penjelajah pribadi, transportasi ruang angkasa kecil, atau alat transportasi lainnya. Ini tunduk pada persetujuan gamemaster-mu.
 
-* Tidak ada aturan rinci untuk keuangan yang disediakan: kekayaan yang disarankan untuk profesi dan Skill Status adalah panduan terbaik untuk menentukan barang dan dana apa yang mereka miliki atau miliki aksesnya saat memulai permainan. Gamemaster-mu harus dapat membantumu mendeskripsikan ini dalam tingkat detail yang sesuai dan mungkin memiliki batasan atau saran tambahan.
+* Tidak ada aturan rinci untuk keuangan yang disediakan: kekayaan yang disarankan untuk profesi dan Skill Status adalah panduan terbaik untuk menentukan barang dan dana apa yang mereka miliki atau dapat akses di awal permainan. Gamemaster-mu seharusnya dapat membantumu mendeskripsikan ini dalam tingkat detail yang sesuai dan mungkin memiliki batasan atau saran tambahan.
 
 ### Langkah Sembilan: Ukuran dan Fitur Khas
 
 Langkah ini terutama bersifat kosmetik dan tidak sepenuhnya diperlukan.
 
-Kamu sekarang dapat memilih untuk menentukan tinggi dan berat karaktermu, berdasarkan SIZ. Umumnya, kisaran SIZ 10–13 mewakili kisaran rata-rata berat dan tinggi manusia. Seseorang dengan SIZ 8 (minimum normal) relatif kecil, dan seseorang dengan SIZ 18 sangat besar. Kamu dapat mendefinisikannya sesukamu, baik melalui angka pasti untuk tinggi dan berat, atau dengan deskripsi seperti "Tinggi" atau "Ramping".
+Kamu sekarang dapat memilih untuk menentukan tinggi dan berat karaktermu, berdasarkan UKU. Umumnya, rentang UKU 10–13 mewakili rentang berat dan tinggi rata-rata Manusia. Seseorang dengan UKU 8 (minimum standar) relatif kecil, dan seseorang dengan UKU 18 sangat besar. Kamu dapat mendefinisikannya sesukamu, baik melalui angka pasti untuk tinggi dan berat, atau dengan deskripsi seperti "Tinggi" atau "Ramping".
 
-Jika menggunakan opsi **Fitur Khas**. Catat fitur-fitur ini di bawah nama karaktermu di lembar karakter.
+Jika menggunakan opsi **Fitur Khas**. Catat fitur-fitur ini di bawah nama karaktermu pada lembar karakter.
 
 ### Langkah Sepuluh: Sentuhan Akhir
 
-Ini adalah langkah terakhir untuk berbagai aspek karaktermu. Jika kamu tidak bisa memikirkan nama sebelumnya di Langkah Satu, sekaranglah saatnya. Selain itu, kamu dapat memikirkan sisa bagian ini sebelum permainan dimulai atau saat kamu mulai memahami karaktermu.
+Ini adalah langkah terakhir untuk berbagai aspek karaktermu. Jika kamu tidak bisa memikirkan nama sebelumnya di Langkah Satu, sekaranglah saatnya. Selain itu, kamu bisa memikirkan bagian lainnya sebelum permainan dimulai atau saat kamu mulai merasakan karaktermu.
 
-Sesuai keinginan, kamu harus mengisi semua ruang kosong yang mendeskripsikan karakter, secara mental dan fisik, dan memunculkan beberapa ide tentang latar belakang mereka. Di Langkah Sembilan kamu menentukan fitur khas karaktermu, jadi kamu harus memutuskan apakah karaktermu memiliki fitur lain yang kurang khas. Apa warna rambut, kulit, dan mata mereka? Bagaimana cara mereka berpakaian? Apakah mereka memiliki perilaku yang menarik, atau motto atau ucapan yang sering mereka gunakan? Apakah mereka memiliki reputasi yang menarik?
+Sesuai keinginan, kamu harus mengisi semua ruang kosong yang mendeskripsikan karakter, secara mental dan fisik, serta memunculkan beberapa ide tentang latar belakang mereka. Di Langkah Sembilan kamu menentukan fitur khas karaktermu, jadi kamu harus memutuskan apakah karaktermu memiliki fitur lain yang kurang khas. Apa warna rambut, kulit, dan mata mereka? Bagaimana cara mereka berpakaian? Apakah mereka memiliki perilaku menarik, atau moto atau pepatah yang sering mereka gunakan? Apakah mereka memiliki reputasi yang menarik?
 
-Jika relevan, tentukan dari mana karaktermu berasal. Di mana mereka bersekolah (jika ada)? Apa hubungan mereka dengan keluarga mereka? Apakah karakter anggota organisasi penting? Apakah mereka memiliki masa lalu yang menarik? Apakah mereka memiliki keyakinan agama atau politik yang signifikan? Jika relevan, kamu harus bekerja sama dengan Gamemaster-mu untuk menentukan masalah ini sebelum permainan dimulai, atau setidaknya memikirkannya sebelumnya. Dalam permainan, kamu juga dapat melengkapi detail lain dari latar belakang karaktermu sesuai kebutuhan atau membiarkan aspek ini tidak ditentukan jika tidak relevan.
+Jika relevan, tentukan dari mana karaktermu berasal. Di mana mereka bersekolah (jika ada)? Bagaimana hubungan mereka dengan keluarga mereka? Apakah karakter tersebut anggota organisasi penting? Apakah mereka memiliki masa lalu yang menarik? Apakah mereka memiliki keyakinan agama atau politik yang signifikan? Jika sesuai, kamu harus bekerja sama dengan gamemaster-mu untuk menentukan masalah ini sebelum permainan dimulai, atau setidaknya memikirkannya sebelumnya. Dalam permainan, kamu juga dapat memperdalam detail latar belakang karaktermu seperlunya atau membiarkan aspek-aspek ini tidak ditentukan jika tidak relevan.
 
-Bagian belakang lembar karakter memiliki ruang untuk elemen deskriptif atau latar belakang tambahan. Isi sebanyak atau sesedikit yang kamu inginkan, dan periksa dengan Gamemaster-mu untuk memastikan bahwa mereka mengetahuinya dan bahwa hal tersebut sesuai untuk game tersebut.
+Bagian belakang lembar karakter memiliki ruang untuk elemen deskriptif atau latar belakang tambahan. Isi sebanyak atau sesedikit yang kamu inginkan, dan periksa dengan gamemaster-mu untuk memastikan mereka tahu tentang hal tersebut dan bahwa hal itu sesuai untuk gim.
 
-> ### Pembuatan Karakter Berbasis Poin (Opsi)
+> ### Pembuatan Karakter Berbasis Poin (opsi)
 > 
-> Pembuatan karakter standar menggunakan lemparan dadu untuk menentukan karakteristik awal, tetapi kamu dan Gamemaster-mu dapat memilih untuk menggunakan sistem berbasis poin, yang menawarkan lebih banyak kendali atas pembuatan karaktermu. Jika demikian, penyesuaian berikut dilakukan pada **Langkah Satu**.
+> Pembuatan karakter standar menggunakan lemparan dadu untuk menentukan karakteristik awal, tetapi kamu dan gamemaster-mu mungkin memilih untuk menggunakan sistem berbasis poin, yang menawarkan kontrol lebih besar atas pembuatan karaktermu. Jika demikian, penyesuaian berikut dilakukan pada **Langkah Satu**.
 > 
-> * Semua karakteristik (STR, CON, SIZ, INT, POW, DEX, dan CHA) dimulai pada 10.
+> * Semua karakteristik (KEK, KET, UKU, KEC, DAY, KTG, dan KAR) dimulai pada 10.
 > 
-> * Kamu memiliki 24 poin untuk dibelanjakan pada karakteristik. Ini setara dengan tingkat kekuatan 'normal' untuk kampanye. Tidak ada karakteristik awal yang dapat dinaikkan lebih tinggi dari 21.
+> * Kamu memiliki 24 poin untuk dibelanjakan pada karakteristik. Ini setara dengan tingkat daya 'standar' untuk kampanye. Tidak ada karakteristik awal yang dapat ditingkatkan lebih tinggi dari 21.
 > 
-> * Setiap poin STR, CON, SIZ, atau CHA berharga 1 poin.
+> * Setiap poin KEK, KET, UKU, atau KAR berharga 1 poin.
 > 
-> * Setiap poin DEX, INT, dan POW berharga 3.
+> * Setiap poin KTG, KEC, dan DAY berharga 3.
 > 
 > * Kamu dapat memilih untuk menurunkan karakteristik awalmu di bawah nilai awal 10, hingga minimum 3.
 > 
-> * Untuk setiap poin STR, CON, SIZ, atau CHA yang kamu kurangi di bawah 10, kamu mendapatkan 1 poin untuk dibelanjakan pada karakteristik lain.
+> * Untuk setiap poin KEK, KET, UKU, atau KAR yang kamu kurangi di bawah 10, kamu mendapatkan 1 poin untuk dibelanjakan pada karakteristik lain.
 > 
-> * Untuk setiap poin DEX, INT, dan POW yang kamu kurangi, kamu mendapatkan 3 poin kembali.
+> * Untuk setiap poin KTG, KEC, dan DAY yang kamu kurangi, kamu mendapatkan kembali 3 poin.
 > 
-> * Hanya dengan izin Gamemaster kamu dapat menaikkan atau menurunkan karakteristik awal di luar kisaran 3–21. Untuk tingkat kekuatan yang lebih tinggi (epic dan superhuman), batas maksimum karakteristik harus diabaikan.
+> * Hanya dengan izin gamemaster kamu dapat menaikkan atau menurunkan karakteristik awal di luar rentang 3–21. Untuk tingkat daya yang lebih tinggi (epik dan superhuman), maksimum karakteristik harus diabaikan.
 > 
-> * Untuk game dengan kekuatan, kamu dapat menerapkan poin yang tidak terpakai dari pembuatan karakteristik ke anggaran kekuatanmu. Ini hanya dengan izin Gamemaster-mu, karena mungkin mengakibatkan kamu kehilangan poin secara keseluruhan.
+> * Untuk gim dengan kekuatan, kamu dapat menerapkan poin yang tidak terpakai dari pembuatan karakteristik ke anggaran kekuatanmu. Ini hanya dengan izin gamemaster-mu, karena dapat menyebabkanmu kehilangan poin secara keseluruhan.
 > 
-> Jika pembuatan karakteristik berbasis poin diizinkan, langkah selanjutnya untuk game dengan kekuatan adalah **Langkah Dua** alternatif yang dideskripsikan di Bab Empat: Kekuatan. Untuk game tanpa kekuatan, pembuatan karakter kemudian harus melompat ke **Langkah Empat**.
+> Jika pembuatan karakteristik berbasis poin diizinkan, langkah selanjutnya untuk gim dengan kekuatan adalah **Langkah Dua** alternatif yang dideskripsikan di Bab Empat: Kekuatan. Untuk gim tanpa kekuatan, pembuatan karakter harus dilanjutkan ke **Langkah Empat**.
 > 
-> #### Karakteristik Awal yang Lebih Tinggi (Opsi)
+> #### Karakteristik Awal Lebih Tinggi (Opsi)
 > 
-> Untuk kampanye dengan kekuatan lebih tinggi (dengan lemparan 2D6+6 alih-alih 3D6 normal), total poin awal untuk di atas adalah 36 poin, setara dengan tingkat kekuatan heroic. Karakter tingkat kekuatan epic dimulai dengan 48 poin karakteristik, dan karakter tingkat kekuatan superhuman dimulai dengan 60 poin. Batas maksimum karakteristik normal tidak boleh berlaku.
+> Untuk kampanye dengan daya lebih tinggi (dengan lemparan 2D6+6 alih-alih 3D6 standar), total poin awal untuk di atas adalah 36 poin, setara dengan tingkat daya heroik. Karakter tingkat daya epik dimulai dengan 48 poin karakteristik, dan karakter tingkat daya superhuman dimulai dengan 60 poin. Maksimum karakteristik standar tidak boleh berlaku.
 > 
-> #### Education (Opsi)
+> #### Pendidikan (Opsi)
 > 
-> Jika karakteristik EDU digunakan, Gamemaster-mu harus menetapkan nilai pada EDU berdasarkan usia karaktermu (dideskripsikan di **Langkah Tiga**) dan latar belakang. Kamu dapat memodifikasi ini dengan poin apa pun yang kamu pilih. Setiap poin EDU berharga 3 poin.
+> Jika karakteristik EDU digunakan, gamemaster-mu harus memberikan nilai pada EDU berdasarkan usia karaktermu (dideskripsikan di **Langkah Tiga**) dan latar belakang. Kamu dapat memodifikasi ini dengan poin apa pun yang kamu pilih. Setiap poin EDU berharga 3 poin.
 > 
 > #### Modifier Budaya atau Karakter Non-Manusia (Opsi)
 > 
-> Jika Gamemaster-mu mengizinkan Modifier budaya untuk karakteristik awal, Modifier ini harus diterapkan pada karakteristik sesudahnya. Jika karakter non-manusia dengan Modifier budaya untuk karakteristik awal tersedia, Gamemaster-mu harus menyesuaikan poin awalmu dan/atau karakteristik awal, sesuai kebutuhan. *Bab Sebelas: Makhluk* berisi saran untuk mengizinkan karakter non-manusia.
+> Jika gamemaster-mu mengizinkan Modifier budaya untuk karakteristik awal, Modifier ini harus diterapkan pada karakteristik setelahnya. Jika karakter non-manusia dengan Modifier budaya untuk karakteristik awal tersedia, gamemaster-mu harus menyesuaikan poin awalmu dan/atau karakteristik awal, sesuai kebutuhan. *Bab Sebelas: Makhluk* berisi saran tentang mengizinkan karakter non-manusia.
 
 ## Karakteristik
 
-Karaktermu diukur dan didefinisikan oleh serangkaian karakteristik, nilai yang mewakili kemampuan fisik dan mental mereka. Angka karakteristik yang lebih tinggi biasanya lebih baik (meskipun SIZ yang tinggi bisa merugikanmu untuk Senyap). Nilai karakteristik menunjukkan bakat alami mentah yang dimiliki karaktermu. Nilai karakteristik dapat berubah selama permainan. Cedera atau kondisi yang merugikan dapat menurunkan karakteristik, sementara pelatihan, pengerahan tenaga, dan pengondisian dapat meningkatkannya.
+Karaktermu diukur dan didefinisikan oleh serangkaian karakteristik, nilai-nilai yang mewakili kemampuan fisik dan mental mereka. Angka karakteristik yang lebih tinggi biasanya lebih baik (meskipun UKU yang tinggi dapat merugikanmu untuk senyap). Nilai karakteristik menunjukkan bakat alami mentah yang dimiliki karaktermu. Nilai karakteristik dapat berubah selama permainan. Cedera atau kondisi buruk dapat menurunkan karakteristik, sementara pelatihan, pengerahan tenaga, dan pengondisian dapat meningkatkannya.
 
-* Karakteristik fisik (STR, CON, SIZ, dan DEX) memiliki maksimum 21 untuk Manusia.
+* Karakteristik fisik (KEK, KET, UKU, dan KTG) memiliki maksimum 21 untuk Manusia.
 
-* Karakteristik mental (INT, POW, CHA, dan EDU) biasanya dapat dinaikkan tanpa batas.
+* Karakteristik mental (KEC, DAY, KAR, dan EDU) biasanya dapat ditingkatkan tanpa batas.
 
-* Dalam sebagian besar kondisi, 3 adalah nilai terendah untuk karakteristik apa pun selain SIZ atau INT, yang memiliki nilai minimum 8.
+* Dalam sebagian besar kondisi, 3 adalah nilai terendah untuk karakteristik apa pun selain UKU atau KEC, yang memiliki nilai minimum 8.
 
-Jika ras atau spesies lain diizinkan dalam kampanye, mereka mungkin memiliki batas maksimum karakteristik yang lebih tinggi atau lebih rendah. Sihir, mutasi, kemampuan psikis, sorcery, atau kekuatan super juga dapat meningkatkan karakteristik, tanpa batas.
+Jika ras atau spesies lain diizinkan dalam kampanye, mereka mungkin memiliki maksimum karakteristik yang lebih tinggi atau lebih rendah. Sihir, mutasi, kemampuan psikis, sorcery, atau kekuatan super juga dapat meningkatkan karakteristik, tanpa batas.
 
-### Strength (STR)
+### Kekuatan (KEK)
 
-Strength mengukur kekuatan otot mentah. Lemparan Effort (STR×5) adalah lemparan karakteristiknya. STR membantu menentukan seberapa banyak karakter dapat mengangkat atau membawa, mendorong atau menarik, atau seberapa erat mereka dapat berpegangan pada sesuatu. Dalam pertarungan, STR menentukan jenis senjata apa yang dapat digunakan karakter, serta membantu menentukan seberapa banyak daya rusak ekstra (jika ada) yang mereka timbulkan dengan setiap serangan. STR dapat ditingkatkan melalui olahraga, sementara cedera dan penyakit tertentu dapat mengurangi STR secara permanen. Karakter dengan STR 0 adalah seorang invalid, tidak mampu bangkit dari tempat tidur mereka.
+Kekuatan mengukur otot dan tenaga otot mentah. Lemparan Ketahanan (KEK×5) adalah lemparan karakteristiknya. KEK membantu menentukan seberapa banyak karakter dapat mengangkat atau membawa, mendorong atau menarik, atau seberapa erat mereka dapat berpegangan pada sesuatu. Dalam tarung, KEK menentukan jenis senjata apa yang dapat digunakan karakter, serta membantu menentukan seberapa besar kerusakan tambahan (jika ada) yang mereka timpakan dengan setiap pukulan. KEK dapat ditingkatkan melalui olahraga, sementara cedera dan penyakit tertentu dapat mengurangi KEK secara permanen. Karakter dengan KEK 0 adalah orang yang tidak valid, tidak dapat bangun dari tempat tidur mereka.
 
-### Constitution (CON)
+### Konstitusi (KET)
 
-Kesehatan, semangat, dan vitalitas semuanya diukur oleh Constitution. Lemparan Stamina (CON×5) adalah lemparan karakteristiknya. CON menentukan seberapa baik karakter dapat menahan kelelahan, racun, penyakit, tenggelam, dan kesulitan lainnya, dan merupakan faktor dalam menghitung hit point. CON dapat ditingkatkan melalui pengondisian. Penyakit, racun, dan beberapa cedera dapat mengurangi CON secara sementara atau permanen. Karakter mati ketika CON mereka turun ke 0 karena alasan apa pun.
+Kesehatan, semangat, dan vitalitas semuanya diukur oleh Konstitusi. Lemparan Stamina (KET×5) adalah lemparan karakteristiknya. KET menentukan seberapa baik karakter dapat menahan kelelahan, racun, penyakit, tenggelam, dan kesulitan lainnya, dan merupakan faktor dalam menghitung HP. KET dapat ditingkatkan melalui pengondisian. Penyakit, racun, dan beberapa cedera dapat mengurangi KET untuk sementara atau permanen. Karakter mati ketika KET mereka turun ke 0 karena alasan apa pun.
 
-### Ukuran (SIZ)
+### Ukuran (UKU)
 
-Ukuran mendefinisikan tinggi, berat, dan volume tubuh. Tidak ada lemparan karakteristik yang terkait dengan SIZ; di lembar karakter, ruang tersebut digunakan untuk mencatat Daya Rusak Bonus. Lemparan resistensi menggunakan SIZ dapat menentukan apakah karakter dapat berdiri teguh melawan resistensi, melihat melewati rintangan, atau masuk melalui celah. SIZ karakter, sebagai massa tubuh, merupakan faktor penting dalam menentukan hit point dan daya rusak mod (jika ada). Faktor-faktor seperti kerakusan atau diet ketat dapat meningkatkan atau menurunkan SIZ, atas kebijakan Gamemaster-mu. Beberapa kekuatan mungkin juga memengaruhi SIZ. Cedera parah (seperti kehilangan anggota tubuh) juga dapat menurunkan SIZ secara permanen. Karakter mati jika mereka kehilangan lebih dari setengah SIZ mereka (bulatkan ke atas) karena kelaparan atau diet ekstrem. Karakter yang berkurang hingga SIZ 0 melalui sihir atau pengaruh lain hanya akan menghilang, menyusut menjadi ketiadaan. Gamemaster-mu harus menjadi penengah dari setiap perubahan SIZ yang tidak disengaja, karena ini tidak umum.
+Ukuran mendefinisikan tinggi, berat, dan volume. Tidak ada lemparan karakteristik yang terkait dengan UKU; pada lembar karakter, ruang tersebut digunakan untuk mencatat Bonus Daya Rusak. Lemparan ketahanan menggunakan UKU dapat menentukan apakah karakter dapat berdiri teguh melawan hambatan, melihat melewati rintangan, atau merayap melalui celah. UKU karakter, sebagai massa tubuh, merupakan faktor penting dalam menentukan HP dan Modifier daya rusak (jika ada). Faktor-faktor seperti kerakusan atau diet ketat dapat meningkatkan atau menurunkan UKU, atas kebijakan gamemaster-mu. Beberapa kekuatan mungkin juga memengaruhi UKU. Cedera parah (seperti kehilangan anggota tubuh) juga dapat menurunkan UKU secara permanen. Karakter mati jika mereka kehilangan lebih dari setengah UKU mereka (bulatkan ke atas) karena kelaparan atau diet ekstrem. Karakter yang dikurangi menjadi UKU 0 melalui sihir atau pengaruh lain hanya akan menghilang, membusuk menjadi tidak ada. Gamemaster-mu harus menjadi penengah dari setiap perubahan UKU yang tidak disengaja, karena ini jarang terjadi.
 
-### Intelligence (INT)
+### Intuisi (KEC)
 
-Mewakili nalar, ketajaman mental, dan kecerdasan, INT mengukur seberapa baik karakter belajar, mengingat, dan menganalisis informasi. Lemparan Idea (INT×5) adalah lemparan karakteristiknya. INT sangat penting dalam menentukan nilai Skill awal. Mungkin karakteristik yang paling penting, INT tidak memiliki batas tetap dan bisa meningkat tanpa batas melalui studi dan latihan mental. Luka di kepala, paparan obat-obatan berbahaya yang berkepanjangan, atau jenis penyakit tertentu dapat mengurangi INT. Karakter dengan INT 0 telah berkurang menjadi keadaan vegetatif, tidak mampu bertahan hidup secara mandiri.
+Mewakili nalar, ketajaman mental, dan kecerdikan, KEC mengukur seberapa baik karakter belajar, mengingat, dan menganalisis informasi. Lemparan Intuisi (KEC×5) adalah lemparan karakteristiknya. KEC sangat penting dalam menentukan nilai Skill awal. Mungkin karakteristik yang paling penting, KEC tidak memiliki maksimum tetap dan dapat meningkat tanpa batas melalui studi dan latihan mental. Luka di kepala, paparan obat-obatan berbahaya yang berkepanjangan, atau jenis penyakit tertentu dapat mengurangi KEC. Karakter dengan KEC 0 telah dikurangi menjadi kondisi vegetatif, tidak mampu bertahan hidup secara mandiri.
 
-### Power (POW)
+### Daya (DAY)
 
-Karakteristik yang paling tidak berwujud, Power mewakili tekad, bakat magis, dan perkembangan spiritual. POW penting untuk kepemimpinan, intuisi, dan sihir. Lemparan Luck (POW×5) adalah lemparan karakteristiknya. POW berfungsi sebagai penentu untuk poin sihir awal dan poin Kewarasan awal. Seperti INT, POW Manusia tidak memiliki batas tetap, dan dapat meningkat tanpa batas. Pengaruh magis dapat mengurangi POW (sementara atau permanen) dan beberapa sihir didorong oleh pengorbanan permanen poin POW. Untuk kekuatan (lihat *Bab Empat: Kekuatan*), POW mungkin adalah karakteristik yang paling penting. POW adalah dasar yang disarankan untuk pilihan kekuatan awal, sehingga karakter dengan POW yang lebih tinggi akan memiliki lebih banyak kekuatan (atau lebih banyak level dalam kekuatan tersebut). Karakter yang skor POW-nya mencapai 0 telah kehilangan jiwa mereka dan menjadi katatonik tanpa tekad atau kekuatan hidup.
+Karakteristik yang paling tidak berwujud, Daya mewakili tekad, bakat magis, dan perkembangan spiritual. DAY sangat penting untuk kepemimpinan, intuisi, dan sihir. Lemparan Hoki (DAY×5) adalah lemparan karakteristiknya. DAY berfungsi sebagai penentu untuk poin sihir awal dan poin kewarasan awal. Seperti KEC, DAY Manusia tidak memiliki maksimum yang ditetapkan, dan dapat meningkat tanpa batas. Pengaruh magis dapat mengurangi DAY (untuk sementara atau permanen) dan beberapa sihir didorong oleh pengorbanan permanen poin DAY. Untuk kekuatan (lihat *Bab Empat: Kekuatan*), DAY mungkin merupakan karakteristik yang paling penting. DAY adalah dasar yang disarankan untuk pilihan kekuatan awal, sehingga karakter dengan DAY lebih tinggi akan memiliki lebih banyak kekuatan (atau lebih banyak level dalam kekuatan tersebut). Karakter yang skor DAY-nya mencapai 0 telah kehilangan jiwa mereka dan menjadi koma tanpa tekad atau kekuatan hidup.
 
-### Dexterity (DEX)
+### Kelincahan (KTG)
 
-Skor Dexterity mengukur keseimbangan, kelincahan, kecepatan, dan ketangkasan. Karakter mengandalkan DEX saat bereaksi terhadap serangan, memanjat, melakukan pekerjaan yang rumit, atau bergerak secara diam-diam. Lemparan Agility (DEX×5) adalah lemparan karakteristiknya. Cedera atau penyakit saraf dapat mengurangi DEX, sementara pelatihan yang ketat dapat mempercepat refleks dan meningkatkan keseimbangan. Karakter dengan DEX 0 benar-benar tidak bisa bergerak.
+Skor kelincahan mengukur keseimbangan, ketangkasan, kecepatan, dan ketangkasan. Karakter mengandalkan KTG saat bereaksi terhadap serangan, memanjat, melakukan pekerjaan rumit, atau bergerak dengan senyap. Lemparan Kelincahan (KTG×5) adalah lemparan karakteristiknya. Cedera atau penyakit saraf dapat mengurangi KTG, sementara pelatihan yang ketat dapat mempercepat refleks dan meningkatkan keseimbangan. Karakter dengan KTG 0 sama sekali tidak bisa bergerak.
 
-### Charisma (CHA)
+### KAR (KAR)
 
-Charisma menentukan seberapa disukai atau menariknya karakter bagi orang lain, dan didasarkan pada kehadiran, kepribadian, dan sikap serta penampilan fisik yang sederhana. Lemparan Charm (CHA×5) membentuk lemparan karakteristiknya. Charisma digunakan untuk mengukur kesan pertama dan menunjukkan seberapa antusias orang lain untuk bergaul dengan seseorang, melalui daya tarik fisik atau kepribadian yang menarik. Charisma dapat ditingkatkan melalui pengondisian fisik, operasi kosmetik, atau penerapan perawatan dan etika yang cermat. Itu bahkan dapat ditingkatkan dalam jumlah kecil dengan memiliki perlengkapan yang sangat mengesankan. Itu juga dapat dikurangi melalui cedera atau penyakit. Karakter dengan CHA 0 entah sangat menjijikkan, memancing rasa jijik dari semua orang yang menemui mereka, atau telah menjadi begitu tidak jelas sehingga mereka hampir tidak terdaftar.
+Karakteristik KAR menentukan seberapa disukai atau menarik karakter bagi orang lain, dan didasarkan pada kehadiran, kepribadian, dan sikap serta penampilan fisik yang sederhana. Lemparan Pesona (KAR×5) membentuk lemparan karakteristiknya. KAR digunakan untuk mengukur kesan pertama dan menunjukkan seberapa ingin orang lain bergaul dengan seseorang, melalui daya tarik fisik atau kepribadian yang menarik. KAR dapat ditingkatkan melalui pengondisian fisik, operasi kosmetik, atau penerapan perawatan dan etika yang cermat. Itu bahkan dapat ditingkatkan dalam jumlah kecil dengan kepemilikan perlengkapan yang sangat mengesankan. Itu juga dapat dikurangi melalui cedera atau penyakit. Karakter dengan KAR 0 entah sangat menjijikkan, memancing rasa jijik dari semua orang yang bertemu dengan mereka, atau telah menjadi sangat tidak jelas sehingga mereka hampir tidak terdaftar.
 
 > ### Modifier Karakteristik Budaya (Opsi)
 > 
-> Beberapa budaya mungkin menerima Modifier untuk karakteristik dasar, seperti SIZ. Ini bisa menjadi topik yang berpotensi sensitif. Gamemaster-mu didorong untuk memberikan bonus seperti itu dengan hati-hati, dan untuk menyeimbangkan bonus positif dengan bonus negatif, atau untuk menyamakan permainan dengan memberikan semua budaya bonus yang setara, meskipun mungkin untuk karakteristik atau atribut yang berbeda. Sangat tidak disarankan untuk menghukum INT, apa pun pembenaran yang tampak. Tidak ada pemain yang boleh dihukum karena memilih budaya tertentu. Juga direkomendasikan agar ini digunakan hanya untuk latar di mana perbedaan seperti itu umumnya dapat diterima, seperti di dunia fantasi di mana garis keturunan itu unik atau di latar fiksi ilmiah di mana Manusia telah dibentuk oleh manipulasi genetik dan telah beradaptasi dengan lingkungan galaksi.
+> Beberapa budaya mungkin menerima Modifier untuk karakteristik dasar, seperti UKU. Ini bisa menjadi topik yang berpotensi sensitif. Gamemaster-mu didorong untuk memberikan bonus tersebut dengan hati-hati, dan untuk menyeimbangkan bonus positif dengan yang negatif, atau untuk menyetarakan permainan dengan memberikan semua budaya bonus yang setara, meskipun mungkin untuk karakteristik atau atribut yang berbeda. Sangat tidak disarankan untuk memberikan penalti pada KEC, apa pun pembenaran yang tampak. Tidak ada pemain yang harus dihukum karena memilih budaya tertentu. Disarankan juga bahwa ini hanya digunakan untuk latar di mana perbedaan tersebut umumnya dapat diterima, seperti di dunia fantasi di mana garis keturunan unik atau di latar fiksi ilmiah di mana Manusia telah dibentuk oleh manipulasi genetik dan telah beradaptasi dengan lingkungan galaksi.
 
 ## Lemparan Karakteristik
 
-Beberapa tantangan tidak secara intuitif dipetakan ke Skill tertentu. Bisakah seorang pemburu tetap terjaga di tempat persembunyian sepanjang malam menunggu buruannya? Bisakah seorang detektif tangguh menyatukan petunjuk menggoda yang tersembunyi di sisa-sisa bukti? Dalam situasi ini, Gamemaster-mu dapat meminta lemparan karakteristik: lemparan D100 melawan karakteristik yang sesuai, dikalikan dengan angka lain. Gamemaster-mu memutuskan pengali mana yang akan digunakan berdasarkan kesulitan tugas. Lemparan karakteristik standar menggunakan pengali ×5, meskipun tugas yang sangat sulit mungkin memerlukan pengali ×2, atau bahkan didasarkan pada karakteristik itu sendiri sebagai persentase. Untuk detail lebih lanjut tentang kesulitan tugas dan pemilihan Modifier, lihat *Bab Lima: Sistem*.
+Beberapa tantangan tidak secara intuitif dipetakan ke Skill tertentu. Bisakah seorang pemburu tetap terjaga di persembunyian sepanjang malam menunggu mangsanya? Bisakah seorang detektif tangguh menyatukan petunjuk menggoda yang tersembunyi di sisa-sisa bukti? Dalam situasi ini, gamemaster-mu dapat meminta lemparan karakteristik: lemparan D100 terhadap karakteristik yang sesuai, dikalikan dengan angka lain. Gamemaster-mu memutuskan pengali mana yang akan digunakan berdasarkan kesulitan tugas. Lemparan karakteristik standar menggunakan pengali ×5, meskipun tugas yang sangat sulit mungkin memerlukan pengali ×2, atau bahkan didasarkan pada karakteristik itu sendiri sebagai persentase. Untuk detail lebih lanjut tentang kesulitan tugas dan pemilihan Modifier, lihat *Bab Lima: Sistem*.
 
-### Lemparan Effort (STR×5)
+### Lemparan Ketahanan (KEK×5)
 
-Sebagian besar prestasi kekuatan melibatkan pencocokan STR terhadap SIZ objek yang diangkat pada tabel resistensi (lihat *Bab Lima: Sistem*). Dalam kasus di mana peringkat SIZ tidak tersedia atau sulit ditentukan, gunakan lemparan Effort. Lemparan Effort juga dapat digunakan sebagai cara mudah untuk menentukan hal-hal seperti apakah karakter dapat menarik diri mereka ke atas tepian. Apakah mereka kelelahan di akhir pendakian panjang? Lemparan Effort adalah cara cepat untuk memutuskan.
+Sebagian besar prestasi kekuatan melibatkan pencocokan KEK terhadap UKU dari objek yang diangkat pada tabel ketahanan (lihat *Bab Lima: Sistem*). Dalam kasus di mana peringkat UKU tidak tersedia atau sulit ditentukan, gunakan lemparan Ketahanan. Lemparan Ketahanan juga dapat digunakan sebagai cara mudah untuk menentukan hal-hal seperti apakah karakter dapat menarik diri ke atas langkan. Apakah mereka kelelahan di akhir pendakian yang panjang? Lemparan Ketahanan adalah cara cepat untuk memutuskannya.
 
-### Lemparan Stamina (CON×5)
+### Lemparan Stamina (KET×5)
 
-Berdasarkan CON, lemparan Stamina mengukur ketahanan. Gunakan lemparan Stamina setiap kali ketabahan fisik atau usus dipertanyakan. Untuk menyebutkan beberapa contoh, lemparan Stamina mungkin menentukan apakah karakter dapat tetap terjaga sepanjang malam, atau menahan mabuk laut, makanan yang tidak disiapkan dengan baik, atau minuman keras tanpa efek buruk.
+Berdasarkan KET, lemparan Stamina mengukur ketahanan. Gunakan lemparan Stamina setiap kali keberanian fisik atau usus dipertanyakan. Untuk menyebutkan beberapa contoh, lemparan Stamina mungkin menentukan apakah karakter dapat tetap terjaga sepanjang malam, atau menahan mabuk laut, makanan yang tidak disiapkan dengan baik, atau minuman keras tanpa efek buruk.
 
-### Lemparan Idea (INT×5)
+### Lemparan Intuisi (KEC×5)
 
-Lemparan Idea mewakili kemampuan untuk membuat tebakan cerdas, firasat berdasarkan informasi, atau dedukasi yang masuk akal berdasarkan apa pun selain pengamatan dan kecerdasan mentah. Ketika tidak ada Skill yang tampak sesuai, lemparan Idea dapat menunjukkan pemahaman tentang konsep atau kemampuan untuk memecahkan teka-teki. Memori juga merupakan bagian dari lemparan Idea: gunakan lemparan Idea untuk mengingat detail penting, menelusuri kembali langkah melalui labirin, atau menghafal rumus yang panjang.
+Lemparan Intuisi mewakili kemampuan untuk membuat tebakan cerdas, firasat berdasarkan informasi, atau deduksi yang masuk akal berdasarkan pengamatan dan kecerdasan murni. Jika tidak ada Skill yang tampak sesuai, lemparan Intuisi dapat menunjukkan pemahaman tentang suatu konsep atau kemampuan untuk memecahkan teka-teki. Memori juga merupakan bagian dari lemparan Intuisi: gunakan lemparan Intuisi untuk mengingat detail penting, menelusuri kembali langkah melalui labirin, atau menghafal rumus yang panjang.
 
-Gamemaster-mu mungkin juga mengizinkan lemparan Idea jika kamu terhenti, membuatmu kembali ke jalur yang benar dengan mengungkapkan makna tersembunyi dari petunjuk yang sudah ditemukan, atau membiarkan mereka tahu bahwa ada sesuatu yang 'tidak tampak benar' tentang orang, tempat, atau benda tertentu. Jenis lemparan Idea ini hanya boleh diberikan atas kebijakan Gamemaster-mu dan umumnya tidak diminta oleh pemain.
+Gamemaster-mu mungkin juga mengizinkan lemparan Intuisi jika kamu terhenti, membuatmu kembali ke jalur yang benar dengan mengungkapkan makna tersembunyi dari beberapa petunjuk yang sudah ditemukan, atau membiarkan mereka tahu bahwa sesuatu 'tidak terasa benar' tentang orang, tempat, atau benda tertentu. Jenis lemparan Intuisi ini hanya boleh diberikan atas kebijakan gamemaster-mu dan umumnya tidak diminta oleh pemain.
 
-Gamemaster-mu mungkin juga mengharuskan lemparan Idea jika kamu ingin membuat karaktermu berpikir atau berperilaku dengan cara yang mewakili pengetahuan pemain vs. pengetahuan karakter. Jika karakter adalah pemburu primitif yang menemukan teknologi modern, misalnya, Gamemaster-mu mungkin memerlukan lemparan Idea agar mereka dapat memahami konsep dasar barang tersebut, bahkan jika pemain secara otomatis tahu apa itu berdasarkan deskripsinya.
+Gamemaster-mu mungkin juga memerlukan lemparan Intuisi jika kamu ingin karaktermu berpikir atau berperilaku dengan cara yang mewakili pengetahuan pemain vs. pengetahuan karakter. Jika karakter adalah pemburu primitif yang menemukan teknologi modern, misalnya, gamemaster-mu mungkin memerlukan lemparan Intuisi agar mereka dapat memahami konsep dasar barang tersebut, meskipun pemain secara otomatis tahu apa itu berdasarkan deskripsinya.
 
-### Lemparan Luck (POW×5)
+### Lemparan Hoki (DAY×5)
 
-Luck adalah bakat berada di tempat yang tepat pada waktu yang tepat, membuat segalanya berhasil meskipun ada ekspektasi, atau kemampuan luar biasa untuk melarikan diri dari bahaya acak tanpa cedera. Apakah karaktermu kebetulan memiliki sedikit atau perlengkapan khusus itu? Akankah pejalan kaki yang ramah memberikan bantuan jika mereka terdampar di pinggir jalan? Apakah makhluk mengerikan itu menyerang karakter atau NPC di dekatnya? Apakah karakter jatuh melalui lantai yang lemah, atau menyangkutkan pakaian mereka pada papan yang pecah dan lolos dari kematian yang jatuh? Lemparan Luck dapat digunakan untuk menjawab semua pertanyaan ini. Lemparan Luck yang sukses dapat menciptakan kebetulan yang beruntung dalam keadaan normal atau menyelamatkan seseorang dari malapetaka tertentu dalam keadaan darurat.
+Hoki adalah bakat berada di tempat yang tepat pada waktu yang tepat, membuat segalanya berhasil meskipun ada ekspektasi, atau kemampuan luar biasa untuk melarikan diri dari bahaya acak tanpa cedera. Apakah karaktermu kebetulan memiliki barang atau perlengkapan khusus itu? Akankah orang asing yang ramah membantu jika mereka terdampar di sisi jalan? Apakah makhluk mengerikan itu menyerang karakter atau karakter non-pemain terdekat? Apakah karakter jatuh melalui lantai yang lemah, atau pakaian mereka tersangkut pada papan yang pecah dan menghindari jatuh hingga tewas? Lemparan Hoki dapat digunakan untuk menjawab semua pertanyaan ini. Lemparan Hoki yang berhasil dapat menciptakan kebetulan yang menguntungkan dalam keadaan normal atau menyelamatkan seseorang dari malapetaka tertentu dalam keadaan darurat.
 
-### Lemparan Agility (DEX×5)
+### Lemparan Kelincahan (KTG×5)
 
-Setiap kali prestasi ketangkasan, keseimbangan, atau kelincahan diperlukan dan tidak ada Skill yang sesuai, gunakan lemparan Agility untuk mengukur keberhasilan. Lemparan Agility mungkin, misalnya, menentukan apakah karakter dapat menjaga keseimbangan di dek kapal yang bergoyang, mengumpulkan semua bagian vas yang pecah dengan terburu-buru, berlari membawa ramuan berharga tanpa menumpahkan apa pun, atau meraih tanaman merambat di tepi tebing sebelum jatuh.
+Setiap kali prestasi ketangkasan, keseimbangan, atau kelincahan diperlukan dan tidak ada Skill yang sesuai, gunakan lemparan Kelincahan untuk mengukur keberhasilan. Lemparan Kelincahan mungkin, misalnya, menentukan apakah karakter dapat menjaga keseimbangan di geladak kapal yang terombang-ambing, mengumpulkan semua potongan vas yang pecah dengan terburu-buru, berlari membawa ramuan berharga tanpa menumpahkannya, atau meraih tanaman rambat di tepi tebing sebelum jatuh.
 
-### Lemparan Charm (CHA×5)
+### Lemparan Pesona (KAR×5)
 
-Gunakan lemparan Charm untuk mengadili reaksi interpersonal yang tidak tercakup oleh Skill yang ada. Memberikan kesan pertama yang baik, merayu kenalan, atau menjadi orang yang pertama kali dicari kelompok untuk mendapatkan panduan adalah semua kegunaan yang baik untuk lemparan Charisma. Jika karakter berdiri di luar klub malam trendi yang ingin masuk, lemparan Charm yang sukses akan membuat mereka diperhatikan dan melambai melewati pintu.
+Gunakan lemparan Pesona untuk mengadili reaksi interpersonal yang tidak tercakup oleh Skill yang ada. Membuat kesan pertama yang baik, merayu kenalan, atau menjadi orang yang pertama kali dituju kelompok untuk mendapatkan panduan adalah semua penggunaan yang baik untuk lemparan KAR. Jika karakter berdiri di luar kelab malam yang trendi dan ingin masuk, lemparan Pesona yang berhasil akan membuat mereka diperhatikan dan diizinkan masuk melalui pintu.
 
-> ### Karakteristik Education (Opsi)
+> ### Karakteristik Pendidikan (Opsi)
 > 
-> Tujuh karakteristik utama berfungsi untuk sebagian besar game, terlepas dari latar, tetapi Education (EDU), karakteristik kedelapan opsional, dapat digunakan untuk membantu menghasilkan poin Skill awal. EDU paling cocok di latar modern atau futuristik tetapi dapat dengan mudah diadaptasi ke latar kampanye mana pun.
+> Tujuh karakteristik utama digunakan untuk sebagian besar gim, terlepas dari latar, tetapi Pendidikan (EDU), karakteristik kedelapan opsional, dapat digunakan untuk membantu menghasilkan poin Skill awal. EDU paling cocok digunakan dalam latar modern atau futuristik tetapi dapat dengan mudah diadaptasi ke latar kampanye apa pun.
 > 
-> #### Education (EDU)
+> #### Pendidikan (EDU)
 > 
-> Education mengukur pemahaman karakter tentang pengetahuan umum yang diperoleh melalui sistem pendidikan yang menyeluruh atau metode pembelajaran luas lainnya. Ini bukan pengganti pengetahuan khusus tentang suatu bidang—sebaliknya, ini mewakili pengetahuan umum tentang dunia. Baik diperoleh melalui studi formal, pelatihan, atau pengalaman yang diperoleh dengan susah payah, EDU juga dapat mengukur berapa tahun karakter telah berlatih atau belajar untuk mencapai tingkat pengetahuan mereka saat ini.
+> Pendidikan mengukur pemahaman karakter tentang pengetahuan umum yang diperoleh melalui sistem pendidikan yang menyeluruh atau metode pembelajaran luas lainnya. Ini bukan pengganti pengetahuan spesifik tentang suatu bidang—sebaliknya, ini mewakili pengetahuan umum tentang dunia. Baik diperoleh melalui studi formal, pelatihan, atau pengalaman yang diperoleh dengan susah payah, EDU juga dapat mengukur berapa tahun karakter telah berlatih atau belajar untuk mencapai tingkat pengetahuan mereka saat ini.
 > 
-> EDU tidak secara otomatis berkorelasi dengan 1 poin EDU = 1 tahun di sekolah. Ini juga dapat mewakili pengetahuan hidup umum serta studi khusus. Tidak semua tahun di sekolah bersifat edukatif, sama seperti semua waktu yang dihabiskan di luar sekolah tidak berarti tidak ada yang dipelajari. EDU dapat dengan mudah diadaptasi ke sebagian besar latar—maknanya jelas di latar dengan sistem pendidikan standar. Di latar abad pertengahan, itu mungkin mewakili bimbingan atau studi di collegium, lyceum, atau biara, atau perjalanan luas di sepanjang rute perdagangan eksotis dan ke pelabuhan asing.
+> EDU tidak secara otomatis berkorelasi dengan 1 poin EDU = 1 tahun di sekolah. Ini juga dapat mewakili pengetahuan hidup umum serta studi khusus. Tidak semua tahun di sekolah bersifat edukatif, sama seperti semua waktu yang dihabiskan di luar sekolah tidak berarti tidak ada yang dipelajari. EDU dapat dengan mudah diadaptasi ke sebagian besar latar—artinya jelas di latar dengan sistem pendidikan standar. Dalam latar abad pertengahan, itu mungkin mewakili bimbingan belajar atau studi di perguruan tinggi, lyceum, atau biara, atau perjalanan luas di sepanjang rute perdagangan eksotis dan ke pelabuhan asing.
 > 
-> Kehilangan memori dapat mengurangi EDU, sementara satu tahun belajar keras atau pelatihan intensif meningkatkannya sebesar +1. EDU 0 menunjukkan kehampaan pengetahuan tentang dunia luar, meskipun ini tidak berarti bahwa semua orang hampir amnesia dalam kampanye di mana karakteristik ini tidak digunakan. EDU tidak berlaku untuk hewan atau makhluk tanpa karakteristik EDU—pengetahuan mereka entah bersifat naluriah atau didasarkan pada ajaran yang berbeda.
+> Kehilangan ingatan dapat mengurangi EDU, sementara satu tahun studi keras atau pelatihan intensif meningkatkannya sebesar +1. EDU 0 menunjukkan kekosongan pengetahuan tentang dunia luar, meskipun ini tidak berarti bahwa semua orang hampir amnesia dalam kampanye di mana karakteristik ini tidak digunakan. EDU tidak berlaku untuk hewan atau makhluk tanpa karakteristik EDU—pengetahuan mereka bersifat naluriah atau didasarkan pada ajaran yang berbeda.
 > 
-> Penggunaan EDU juga harus dipasangkan dengan lemparan Know (EDU×5).
+> Penggunaan EDU juga harus dipasangkan dengan lemparan Pengetahuan (EDU×5).
 > 
-> ### Lemparan Know (EDU×5) (Opsi)
+> ### Lemparan Pengetahuan (EDU×5) (Opsi)
 > 
-> Lemparan Know mencakup fakta dan hal sepele yang diketahui orang rata-rata sebagai 'pengetahuan umum.' Lemparan Know dapat digunakan untuk mengingat berbagai jenis fakta, tergantung pada latar dan bahkan budaya karakter tertentu. Seorang petani abad pertengahan mungkin menggunakan lemparan Know untuk mengingat nama bangsawan atau detail kehidupan orang suci, sementara warga modern AS akan mengingat presiden penting atau mengingat apa yang terjadi jika pemutih dan amonia bercampur. Lemparan Know jarang menggantikan Skill Pengetahuan yang lebih khusus, dan hanya berkaitan dengan fakta. Memanfaatkan fakta-fakta itu dengan baik adalah fungsi dari INT.
+> Lemparan Pengetahuan mencakup fakta dan trivia yang diketahui orang awam sebagai 'pengetahuan umum.' Lemparan Pengetahuan dapat digunakan untuk mengingat berbagai jenis fakta, tergantung pada latar dan bahkan budaya karakter tertentu. Seorang petani abad pertengahan mungkin menggunakan lemparan Pengetahuan untuk mengingat nama seorang bangsawan atau detail kehidupan orang suci, sementara warga modern AS akan mengingat presiden penting atau mengingat apa yang terjadi jika pemutih dan amonia bercampur. Lemparan Pengetahuan jarang menggantikan Skill Pengetahuan yang lebih khusus, dan berurusan secara ketat dengan fakta. Memanfaatkan fakta-fakta tersebut dengan baik adalah fungsi dari KEC.
 
 ## Karakteristik Turunan
 
 Selain karakteristik (dan lemparan karakteristik yang menyertainya), karakter juga didefinisikan oleh serangkaian karakteristik turunan, yang dihitung dari karakteristik mereka. Jika cedera, sihir, atau faktor lain meningkatkan atau menurunkan karakteristik, semua karakteristik yang diturunkan dari karakteristik tersebut segera berubah untuk mencerminkan nilai baru.
 
-Sebagai contoh, *karaktermu (CON 16, SIZ 14, HP 15) menjadi korban racun mematikan, yang mengurangi nilai CON mereka menjadi 10. Hit point maksimum karaktermu segera turun dari 15 (16+14=30, dibagi menjadi 15) menjadi 12 (10+14=24, dibagi menjadi 12). Selain itu, total luka parah mereka turun dari 8 menjadi 6. Jika luka telah membawa karaktermu lebih rendah dari 12 hit point, mereka tidak akan menerima kerusakan tambahan, tetapi mereka dibatasi hingga maksimum 12 hit point sampai CON asli mereka dipulihkan.*
+Contohnya, *karaktermu (KET 16, UKU 14, HP 15\) menjadi korban racun mematikan, yang mengurangi nilai KET mereka menjadi 10. HP maksimum karaktermu segera turun dari 15 (16+14=30, dibagi menjadi 15) menjadi 12 (10+14=24, dibagi menjadi 12). Selain itu, total luka parah mereka turun dari 8 menjadi 6. Jika luka sudah membuat karaktermu lebih rendah dari 12 HP, mereka tidak akan menerima kerusakan tambahan, tetapi mereka dibatasi pada maksimum 12 HP sampai KET asli mereka pulih.*
 
-### Daya Rusak Mod (STR+SIZ, lihat tabel)
+### Daya Rusak Mod (KEK+UKU, lihat tabel)
 
-Karakter dan makhluk yang lebih besar dan lebih kuat lebih perkasa dalam pertarungan fisik, menimbulkan kerusakan lebih dari rata-rata dengan setiap serangan. Makhluk yang lebih kecil dan lebih lemah menimbulkan lebih sedikit kerusakan dengan serangan mereka. Daya rusak mod mencerminkan keuntungan ini, dinyatakan dalam bentuk dadu daya rusak yang ditambahkan atau dikurangi dari daya rusak serangan yang sukses.
+Karakter dan makhluk yang lebih besar dan lebih kuat lebih perkasa dalam tarung fisik, menimbulkan kerusakan lebih besar dari rata-rata dengan setiap pukulan. Makhluk yang lebih kecil dan lebih lemah menimbulkan lebih sedikit kerusakan dengan serangan mereka. Daya Rusak Mod mencerminkan keuntungan ini, dinyatakan dalam bentuk dadu kerusakan yang ditambahkan atau dikurangi dari kerusakan serangan yang berhasil.
 
-Karakter menambahkan penuh daya rusak mod mereka ke semua serangan dengan senjata bela diri atau jarak dekat. Dalam kasus daya rusak mod negatif, kurangi dadu yang sesuai dari daya rusak yang ditimbulkan. Jika totalnya 0 atau kurang, pukulan tersebut terlalu lunak untuk menimbulkan bahaya apa pun. Serangan tidak pernah melakukan daya rusak negatif, jadi jika Modifier turun di bawah 0, hitung sebagai 0.
+Karakter menambahkan penuh Daya Rusak Mod mereka ke semua pukulan dengan bela diri atau senjata jarak dekat. Dalam kasus Daya Rusak Mod negatif, kurangi dadu yang sesuai dari kerusakan apa pun yang ditimbulkan. Jika totalnya 0 atau kurang, pukulan tersebut terlalu lembut untuk menimbulkan bahaya apa pun. Serangan tidak pernah menimbulkan kerusakan negatif, jadi jika Modifier turun di bawah 0, hitung sebagai 0.
 
-Senjata misil tidak memungkinkan karakter untuk menggunakan daya rusak mod penuh mereka. Jika daya rusak mod karaktermu positif, bagi hasilnya menjadi dua (bulatkan ke atas) saat menggunakan senjata lempar atau busur. Jika daya rusak mod negatif, pertahankan Modifier apa adanya. Senjata bertenaga sendiri (senjata api, senjata misil energi, dll.) tidak menerima daya rusak mod.
+Senjata rudal tidak memungkinkan karakter menggunakan penuh Daya Rusak Mod mereka. Jika Daya Rusak Mod karaktermu positif, bagi hasilnya menjadi dua (bulatkan ke atas) saat menggunakan senjata lempar atau busur. Jika Daya Rusak Mod negatif, tetap gunakan Modifier apa adanya. Senjata yang digerakkan sendiri (senjata api, senjata rudal energi, dll.) tidak menerima Daya Rusak Mod.
 
-Untuk menghitung daya rusak mod, tambahkan STR dan SIZ karakter, dan temukan hasilnya pada tabel **Daya Rusak Mod** (berikut).
+Untuk menghitung Daya Rusak Mod, tambahkan KEK dan UKU karakter, dan temukan hasilnya pada tabel **Daya Rusak Mod** (berikut).
 
 ##### Daya Rusak Mod
 
-| STR+SIZ | Daya Rusak Mod | STR+SIZ | Daya Rusak Mod |
+| KEK+UKU | Daya Rusak Mod | KEK+UKU | Daya Rusak Mod |
 | :---- | :---- | :---- | :---- |
 | 2–12 | –1D6 | 73–88 | +4D6 |
 | 13–16 | –1D4 | 89–104 | +5D6 |
@@ -403,27 +403,27 @@ Untuk menghitung daya rusak mod, tambahkan STR dan SIZ karakter, dan temukan has
 | 41–56 | +2D6 | 153–168 | +9D6 |
 | 57–72 | +3D6 | Setiap +16 | Tambahan +1D6 |
 
-### Bonus Pengalaman (1/2 INT)
+### Bonus Pengalaman (1/2 KEC)
 
-Semakin pintar karakter, semakin cepat mereka dapat belajar, terutama di bawah tekanan. Untuk menentukan bonus pengalaman mereka, bagi INT mereka dengan 2, dibulatkan ke atas. Tambahkan bonus pengalaman ke lemparan belajar untuk setiap pemeriksaan pengalaman yang dilakukan karaktermu untuk meningkatkan Skill atau karakteristik. Rujuk Bab Lima: Sistem dan Peningkatan Skill.
+Semakin cerdas karakter, semakin cepat mereka dapat belajar, terutama di bawah tekanan. Untuk menentukan bonus pengalaman mereka, bagi KEC mereka dengan 2, bulatkan ke atas. Tambahkan bonus pengalaman ke lemparan pembelajaran untuk setiap pemeriksaan pengalaman yang dilakukan karaktermu untuk meningkatkan Skill atau karakteristik. Rujuk Bab Lima: Sistem dan Peningkatan Skill.
 
-### Hit Points (Rata-rata CON dan SIZ)
+### HP (Rata-rata KET dan UKU)
 
-Hit point mewakili kapasitas karaktermu untuk menahan hukuman dan cedera fisik. Saat menerima kerusakan, kurangi hit point dari total saat ini. Hitung hit point maksimum dengan menambahkan skor CON dan SIZ karaktermu, lalu bagi totalnya dengan 2. Bulatkan semua pecahan ke atas.
+HP mewakili kapasitas karaktermu untuk menahan hukuman dan cedera fisik. Saat menerima kerusakan, kurangi HP dari total saat ini. Hitung HP maksimum dengan menambahkan skor KET dan UKU karaktermu, lalu bagi totalnya dengan 2. Bulatkan semua pecahan ke atas.
 
-Karaktermu kehilangan kesadaran ketika hit point mereka berkurang menjadi 2 atau kurang, dan jika hit point mereka mencapai 0, mereka mati di akhir ronde berikutnya. Karakter dapat kehilangan lebih banyak hit point daripada yang kamu miliki, jadi catat nilai negatif apa pun. Hit point yang hilang sembuh secara alami dengan tingkat 1D3 poin per minggu permainan, meskipun perhatian medis dapat mempercepat pemulihan. Lihat Kerusakan & Penyembuhan dan Penyembuhan Secara Alami.
+Karaktermu kehilangan kesadaran ketika HP mereka berkurang menjadi 2 atau kurang, dan jika HP mereka mencapai 0, mereka mati pada akhir ronde berikutnya. Karakter dapat kehilangan lebih banyak HP daripada yang kamu miliki, jadi pantau nilai negatif apa pun. HP yang hilang sembuh secara alami dengan tingkat 1D3 poin per minggu permainan, meskipun perhatian medis dapat mempercepat pemulihan. Lihat Daya Rusak & Sembuh dan Sembuh Secara Alami.
 
 ### Luka Parah (1/2 dari HP)
 
-Bagi total hit point karaktermu menjadi dua, bulatkan ke atas jika perlu. Total ini adalah tingkat luka parah mereka. Jika karaktermu menerima jumlah kerusakan ini dari satu luka, mereka mungkin menderita efek samping yang mengerikan serta kehilangan hit point sederhana. Lihat Luka Parah di *Bab Enam: Pertarungan*.
+Bagi total HP karaktermu menjadi dua, bulatkan ke atas jika perlu. Total ini adalah tingkat luka parah mereka. Jika karaktermu menerima jumlah kerusakan ini dari satu luka, mereka mungkin menderita efek samping yang mengerikan serta kehilangan HP sederhana. Lihat Luka Parah di *Bab Enam: Tarung*.
 
-### Poin Sihir (Max = POW)
+### Poin Sihir (Maks = DAY)
 
-Poin sihir (PP) mewakili esensi vital karaktermu, cadangan energi spiritual atau hidup mereka. Karaktermu menghabiskan poin sihir untuk merapal atau menahan mantra. Poin sihir maksimum karaktermu biasanya sama dengan karakteristik POW mereka. Umumnya, poin sihir yang dihabiskan beregenerasi dengan tingkat 1 per jam tidur atau istirahat total, atau 1 untuk setiap dua jam aktivitas normal. Lihat tabel **Tingkat Pemulihan Poin Sihir** untuk tingkat bagi skor POW yang lebih tinggi. Jika karaktermu terlibat dalam aktivitas berat, mereka tidak dapat memperoleh kembali poin sihir. Ketika total poin sihir karaktermu turun ke 0, mereka benar-benar kelelahan, dan pingsan sampai memperoleh kembali setidaknya 1 poin sihir. Seseorang tidak dapat memiliki poin sihir negatif.
+Poin sihir (PP) mewakili esensi vital karaktermu, cadangan energi spiritual atau kehidupan mereka. Karaktermu menghabiskan poin sihir untuk merapalkan atau menahan mantra. Poin sihir maksimum karaktermu biasanya sama dengan karakteristik DAY mereka. Umumnya, poin sihir yang dihabiskan beregenerasi dengan tingkat 1 per jam tidur atau istirahat total, atau 1 untuk setiap dua jam aktivitas normal. Lihat tabel **Tingkat Pemulihan Poin Sihir** untuk tingkat bagi skor DAY yang lebih tinggi. Jika karaktermu terlibat dalam aktivitas berat, mereka tidak dapat memulihkan poin sihir. Ketika total poin sihir karaktermu turun menjadi 0, mereka benar-benar kelelahan, dan pingsan sampai memulihkan setidaknya 1 poin sihir. Seseorang tidak dapat memiliki poin sihir negatif.
 
 ##### Tingkat Pemulihan Poin Sihir
 
-| Max PP | Tidur | Bangun |
+| PP Maks | Tidur | Bangun |
 | :---- | :---- | :---- |
 | 1–24 | 1 per jam | 1 per 2 jam |
 | 25–48 | 2 per jam | 1 per jam |
@@ -431,95 +431,95 @@ Poin sihir (PP) mewakili esensi vital karaktermu, cadangan energi spiritual atau
 | 73–96 | 4 per jam | 1 per 30 menit |
 | 97+ | +1 per jam ke atas | +1 per jam ke atas |
 
-Tidak seperti hit point atau poin kelelahan, poin sihir dapat naik di atas maksimum untuk waktu singkat dalam kondisi tertentu. Seperti dicatat, jika karaktermu menerima poin sihir tambahan (biasanya melalui penggunaan kekuatan), mereka dapat menyimpan hingga dua kali karakteristik POW mereka dalam poin sihir ekstra. Poin sihir apa pun di luar itu akan hilang. Jika karaktermu menggunakan poin sihir saat melebihi maksimum normal mereka, poin ini harus berasal dari poin sihir ekstra terlebih dahulu. Poin sihir ekstra ini tidak diperbarui dan tidak beregenerasi seperti biasa dan menghilang sepenuhnya setelah tidur malam atau titik yang sesuai yang ditentukan oleh Gamemaster-mu.
+Tidak seperti HP atau poin kelelahan, poin sihir dapat naik di atas maksimum untuk waktu singkat dalam kondisi tertentu. Seperti dicatat, jika karaktermu menerima poin sihir tambahan (biasanya melalui penggunaan kekuatan), mereka dapat menyimpan hingga dua kali karakteristik DAY mereka dalam poin sihir tambahan. Poin sihir apa pun di atas itu akan hilang. Jika karaktermu menggunakan poin sihir saat berada di atas maksimum normal, poin ini harus diambil dari poin sihir tambahan terlebih dahulu. Poin sihir tambahan ini tidak diperbarui dan tidak beregenerasi seperti biasa dan menghilang sepenuhnya setelah tidur malam atau titik yang sesuai yang ditentukan oleh gamemaster-mu.
 
-Item yang menyimpan poin sihir dan memungkinkan pengguna untuk menggunakan poin sihir yang tersimpan tidak dihitung terhadap total ini, selama poin sihir tidak disimpan dalam cadangan poin sihir pengguna sendiri. Dalam kebanyakan kasus, poin sihir digunakan langsung dari cadangan item, dan tidak memengaruhi poin sihir pengguna sendiri. Lihat Bab Delapan: Perlengkapan untuk lebih lanjut tentang item dengan cadangan poin sihir.
+Barang yang menyimpan poin sihir dan memungkinkan pengguna menggunakan poin sihir yang disimpan tidak dihitung terhadap total ini, selama poin sihir tidak disimpan dalam cadangan poin sihir pengguna sendiri. Dalam kebanyakan kasus, poin sihir digunakan langsung dari cadangan barang, dan tidak memengaruhi poin sihir pengguna sendiri. Lihat Bab Delapan: Perlengkapan untuk lebih lanjut tentang barang dengan cadangan poin sihir.
 
-### Tingkat Gerak (MOV)
+### Gerak (MOV)
 
-Semua karakter Manusia dan Humanoid dimulai dengan atribut tingkat gerak (MOV) 10. Ini mengukur seberapa jauh jarak karaktermu dapat bergerak dalam satu ronde pertarungan. Satu unit adalah jarak yang fleksibel, dan dapat berkisar antara 1–5 meter, tergantung pada seberapa cepat karaktermu bergerak.
+Semua karakter Manusia dan Humanoid dimulai dengan atribut gerak (MOV) 10. Ini mengukur seberapa jauh jarak karaktermu dapat bergerak dalam ronde tarung. Unit adalah jarak yang fleksibel, dan dapat berkisar antara 1–5 meter, tergantung pada seberapa cepat karaktermu bergerak.
 
 * Berjalan adalah 1 meter per MOV.
 
-* Berlari hingga 5 meter per MOV.
+* Berlari adalah hingga 5 meter per MOV.
 
-* Tingkat rata-rata gerakan dalam pertarungan adalah 3 meter per unit, artinya rata-rata, karaktermu bergerak 30 meter per ronde pertarungan.
+* Tingkat gerak rata-rata dalam tarung adalah 3 meter (yard) per unit, yang berarti rata-rata, karaktermu bergerak 30 meter per ronde tarung.
 
-Tingkat gerakan dideskripsikan lebih lanjut dalam **Tingkat Gerak** di Bab Lima: Sistem.
+Tingkat gerak dideskripsikan lebih lanjut dalam **Tingkat Gerak** di Bab Lima: Sistem.
 
-> ### Jenis Poin Sihir Lainnya (Opsi)
+> ### Jenis Poin Sihir Lain (Opsi)
 > 
-> Karena variasi kekuatan di *Bab Empat: Kekuatan*, “poin sihir” digunakan sebagai pengganti nama lain seperti “kekuatan sementara” atau “poin ajaib.”. Jika diinginkan, Gamemaster-mu dapat mengubah nama menjadi “poin energi” atau “poin ajaib” atau apa pun yang sesuai dengan latar. Jika sistem selain sihir atau sorcery digunakan, disarankan untuk tetap menyebutnya poin sihir, untuk menghindari kebingungan. Disarankan untuk tidak menggunakan dua nama berbeda untuk poin sihir dalam game yang sama.
+> Karena banyaknya kekuatan di *Bab Empat: Kekuatan*, “poin sihir” digunakan sebagai pengganti nama lain seperti “daya sementara” atau “poin sihir.”. Jika diinginkan, gamemaster-mu dapat mengubah namanya menjadi “poin energi” atau “poin sihir” atau apa pun yang sesuai dengan latar. Jika sistem selain sihir atau sorcery digunakan, disarankan untuk tetap menyebutnya poin sihir, untuk menghindari kebingungan. Disarankan untuk tidak menggunakan dua nama berbeda untuk poin sihir dalam gim yang sama.
 
-> ### Total Hit Points (Opsi)
+> ### Total HP (Opsi)
 > 
-> Untuk karakter pemain yang lebih tangguh yang mampu bertahan dari kerusakan yang lebih besar, gunakan CON+SIZ untuk menentukan hit point, tanpa membaginya dengan 2. Ini menghasilkan karakter yang dapat menangani diri mereka dengan baik dalam pertarungan, menerima cedera tanpa banyak kesulitan, dan membuat luka parah menjadi jauh lebih jarang. Cedera yang disebabkan oleh keberhasilan spesial dan kritis jauh lebih kecil kemungkinannya untuk langsung membunuh karakter. Sistem opsional ini dapat dengan mudah digunakan dengan sistem hit point per lokasi, meningkatkan peluang karakter akan tetap melekat pada anggota tubuh mereka, dan sebaliknya.
+> Untuk karakter pemain yang lebih tangguh yang mampu bertahan dari lebih banyak kerusakan, gunakan KET+UKU untuk menentukan HP, tanpa membaginya dengan 2. Ini menghasilkan karakter yang dapat menangani diri mereka sendiri dengan baik dalam tarung, menerima cedera tanpa banyak kesulitan, dan membuat luka parah menjadi jauh lebih jarang. Cedera yang disebabkan oleh keberhasilan spesial dan kritis jauh lebih kecil kemungkinannya untuk langsung membunuh karakter. Sistem opsional ini dapat dengan mudah digunakan dengan sistem HP per lokasi, meningkatkan peluang karakter untuk tetap terhubung dengan anggota tubuh mereka, dan sebaliknya.
 > 
-> Untuk menarik perbedaan besar antara karakter pemain dan NPC "umpan meriam" yang lebih lemah, Gamemaster-mu mungkin hanya meminta karakter pemain dan NPC penting menggunakan hit point sebesar CON+SIZ, dengan semua NPC lain memiliki hit point berdasarkan (CON+SIZ)/2. Ini memberikan keuntungan yang signifikan bagi karakter pemain, dan memungkinkan mereka untuk bertahan dari lebih dari beberapa cedera solid. Ini juga memungkinkan karakter pemain untuk menghadapi sejumlah besar NPC tanpa rasa takut yang signifikan akan dibunuh oleh satu pukulan kritis.
+> Untuk menarik perbedaan besar antara karakter pemain dan karakter non-pemain “umpan meriam” yang lebih lemah, gamemaster-mu mungkin hanya memiliki karakter pemain dan karakter non-pemain penting yang menggunakan HP setara KET+UKU, dengan semua karakter non-pemain lainnya memiliki HP berdasarkan (KET+UKU)/2. Ini memberikan keuntungan signifikan bagi karakter pemain, dan memungkinkan mereka untuk bertahan dari lebih dari beberapa cedera yang solid. Ini juga memungkinkan karakter pemain yang dapat menghadapi sejumlah besar karakter non-pemain tanpa takut terbunuh oleh satu pukulan kritis.
 
-> ### Hit Points berdasarkan Lokasi Bentur (Opsi)
+> ### HP per Lokasi (Opsi)
 > 
-> Untuk pertarungan yang lebih rinci, hit point dibagi di antara bagian tubuh karaktermu. Jika serangan berhasil, lemparan D20 menentukan di mana pukulan itu mendarat. Jika menggunakan sistem lokasi bentur opsional (lihat **Lokasi Bentur**), hit point karaktermu dibagi di antara berbagai lokasi bentur mereka. Gunakan rumus berikut untuk Humanoid, dibulatkan ke atas untuk setiap lokasi:
+> Untuk tarung yang lebih detail, HP dibagi di antara bagian tubuh karaktermu. Jika serangan berhasil, lemparan D20 menentukan di mana pukulan mendarat. Jika menggunakan sistem lokasi bentur opsional (lihat **Lokasi Bentur**), HP karaktermu dibagi di antara berbagai lokasi bentur mereka. Gunakan rumus berikut untuk Humanoid, bulatkan ke atas untuk setiap lokasi:
 > 
-> | Lokasi | Nilai Hit Point |
+> | Lokasi | Nilai HP |
 > | :---- | :---- |
-> | Kaki, Perut, Kepala | 1/3 total hit point |
-> | Dada | 4/10 total hit point |
-> | Lengan | 1/4 total hit point |
+> | Kaki, Perut, Kepala | 1/3 total HP |
+> | Dada | 4/10 total HP |
+> | Lengan | 1/4 total HP |
 > 
-> Sebaran hit point Humanoid disediakan di bawah berdasarkan Hit Point Maksimum.
+> Penyebaran HP Humanoid disediakan di bawah ini berdasarkan HP Maksimum.
 > 
 > | Lokasi | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 > | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-> | Setiap Kaki | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+> | Tiap Kaki | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > | Perut | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > | Dada | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
-> | Setiap Lengan | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
+> | Tiap Lengan | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
 > | Kepala | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > 
-> Jumlah hit point karaktermu berdasarkan lokasi melebihi hit point maksimum mereka, tetapi setiap kali karakter terluka, kerusakan yang dilempar dikurangi baik dari total hit point lokasi tersebut maupun hit point maksimum karaktermu.
+> Jumlah HP karaktermu berdasarkan lokasi melebihi HP maksimum mereka, tetapi setiap kali karakter terluka, kerusakan yang dilempar dikurangi dari total HP lokasi tersebut dan HP maksimum karaktermu.
 > 
-> Kerusakan yang melebihi total hit point lokasi membuatnya tidak berguna. Kerusakan yang sama dengan dua kali total hit point lokasi menghancurkan atau memutusnya. Lihat **Kerusakan per Lokasi Bentur**.
+> Kerusakan yang melebihi total HP lokasi membuatnya tidak berguna. Kerusakan yang sama dengan dua kali total HP lokasi menghancurkan atau memutuskannya. Lihat **Kerusakan per Lokasi Bentur**.
 > 
-> **Sebagai contoh,** karaktermu memiliki 14 hit point, dengan 5 hit point di setiap kaki, 5 hit point di perut, 6 hit point di dada, 4 hit point di setiap lengan, dan 5 hit point di kepala mereka. Meskipun hit point mereka di semua lokasi berjumlah 34, karaktermu akan mati jika mereka menderita total 14 hit point kerusakan.
+> **Contohnya,** karaktermu memiliki 14 HP, dengan 5 HP di setiap kaki, 5 HP di perut, 6 HP di dada, 4 HP di setiap lengan, dan 5 HP di kepala mereka. Meskipun total HP mereka di semua lokasi adalah 34, karaktermu akan mati jika mereka menderita total 14 HP kerusakan.
 > 
-> Sistem **Luka Parah** tidak mudah kompatibel dengan sistem lokasi bentur dan jika seorang Gamemaster memilih untuk menggunakan lokasi bentur opsional dan sistem **Kerusakan per Lokasi Bentur**, sistem luka parah harus dihilangkan atau diadaptasi secara signifikan, mungkin dengan sifat luka parah yang dipilih oleh Gamemaster-mu jika berlaku.
+> Sistem **Luka Parah** tidak mudah kompatibel dengan sistem lokasi bentur dan jika gamemaster memilih untuk menggunakan lokasi bentur opsional dan sistem **Daya Rusak per Lokasi Bentur**, sistem luka parah harus dihilangkan atau diadaptasi secara signifikan, mungkin dengan sifat luka parah yang dipilih oleh gamemaster-mu jika berlaku.
 
 ### Poin Kelelahan dan Poin Kewarasan (Opsi)
 
-Beberapa sistem dan kekuatan opsional merujuk pada poin kelelahan dan poin kewarasan. Untuk sistem beban dan kelelahan yang lebih rinci, Gamemaster-mu harus menggunakan poin kelelahan (dideskripsikan di bawah). Game berdasarkan horor, sorcery yang menghujat, atau kekejaman yang tak terlukiskan akan sangat bergantung pada penggunaan sistem kewarasan (juga di bawah).#### Poin Kelelahann (Maks = STR + CON)
+Beberapa sistem dan kekuatan opsional merujuk pada poin kelelahan dan poin kewarasan. Untuk sistem beban dan kelelahan yang lebih detail, gamemaster-mu harus menggunakan poin kelelahan (dideskripsikan di bawah). Gim yang didasarkan pada horor, sorcery yang menghujat, atau kekejaman yang tak terlukiskan akan sangat bergantung pada penggunaan sistem kewarasan (juga di bawah).#### Poin Kelelahan (Maks = KEK + KET)
 
-**Poin Kelelahann** (FP) mengukur ketahanan Karakter Anda, seperti berapa lama mereka dapat terlibat dalam aktivitas berat sebelum kelelahan melanda. Poin Kelelahann maksimum Karakter Anda sama dengan STR+CON mereka. Karakter Anda menghabiskan 1 poin kelelahann per ronde tarung untuk aktivitas berat (tarung jarak dekat, berenang, joging, memanjat, dll.). Berlari cepat atau kerja fisik yang berat memakan 1 poin kelelahann per giliran. Perjalanan paksa memakan 1 poin kelelahann per jam. Tidak seperti hit point dan poin sihir, Karakter Anda tetap bisa beraksi dengan poin kelelahann negatif.
+**Poin kelelahan** (FP) mengukur ketahanan Karakter Anda, seperti berapa lama mereka dapat terlibat dalam aktivitas berat sebelum kelelahan muncul. Poin kelelahan maksimum Karakter Anda sama dengan KEK + KET mereka. Karakter Anda menghabiskan 1 poin kelelahan per ronde tempur untuk aktivitas berat (pertarungan jarak dekat, berenang, joging, memanjat, dll.). Berlari cepat atau kerja berat yang memeras keringat menghabiskan 1 poin kelelahan per giliran. Perjalanan paksa menghabiskan 1 poin kelelahan per jam. Tidak seperti hit point dan poin sihir, Karakter Anda dapat terus beraksi dengan poin kelelahan negatif.
 
-Ketika Karakter Anda turun di bawah 0 poin kelelahann, mereka menderita penalti –1% per poin kelelahann negatif untuk semua lemparan Skill, Karakteristik, dan resistensi. Ketika total poin kelelahann negatif Karakter Anda sama dengan nilai dasar kelelahann mereka (STR+CON), mereka menjadi tak berdaya karena kelelahan, tidak mampu melakukan aksi. Karakter yang kehabisan tenaga mungkin pingsan (atas kebijaksanaan gamemaster), dan bahkan jika mereka tetap sadar, mereka gak bisa beraksi sampai nilai poin kelelahann mereka pulih ke angka positif. Nilai beban (ENC) Karakter Anda juga memengaruhi nilai kelelahann dasar mereka. Lihat **Beban**.
+Ketika Karakter Anda turun di bawah 0 poin kelelahan, mereka menderita penalti –1% per poin negatif kelelahan untuk semua lemparan Skill, karakteristik, dan resistensi. Ketika total poin kelelahan negatif Karakter Anda sama dengan nilai dasar kelelahan mereka (KEK + KET), mereka tak berdaya karena kelelahan, tidak mampu melakukan aksi. Karakter yang kelelahan mungkin jatuh pingsan (atas kebijakan gamemaster), dan bahkan jika mereka tetap terjaga, mereka tidak bisa bertindak sampai nilai poin kelelahan mereka pulih kembali ke angka positif. Nilai beban (ENC) Karakter Anda juga memengaruhi nilai dasar kelelahan mereka. Lihat **Encumbrance**.
 
-Karakter Anda mendapatkan kembali 1 poin kelelahann setiap Menit (5 ronde) di mana mereka tidak menghabiskan poin kelelahann. Beristirahat, berjalan dengan langkah lambat, atau menunggang binatang atau kendaraan tidak menghabiskan kelelahann. Karakter rata-rata pulih dari 0 hingga total poin kelelahann penuh mereka dalam 20 Menit (dengan asumsi STR 10, CON 10, dan 1 poin kelelahann pulih per Menit istirahat).
+Karakter Anda memulihkan 1 poin kelelahan setiap Menit (5 ronde) di mana mereka tidak menghabiskan poin kelelahan. Beristirahat, berjalan dengan kecepatan lambat, atau menunggangi binatang atau kendaraan tidak menghabiskan poin kelelahan. Karakter rata-rata pulih dari 0 hingga total poin kelelahan penuh mereka dalam 20 Menit (dengan asumsi KEK 10, KET 10, dan 1 poin kelelahan pulih per menit istirahat).
 
-#### Kelelahann Sederhana
+#### Kelelahan Sederhana
 
-Untuk versi kelelahann yang lebih sederhana yang menghilangkan poin kelelahann sepenuhnya, gamemaster Anda mungkin menyatakan bahwa setelah upaya besar atau kesulitan fisik yang ekstrem, Karakter Anda mengalami kelelahann. Mereka entah siap beraksi, atau mereka mengalami kelelahann. Gamemaster Anda mungkin mengizinkan lemparan Stamina untuk menghindari kelelahann setelah periode aktivitas fisik.
+Untuk versi kelelahan yang lebih sederhana, menghilangkan poin kelelahan sama sekali, gamemaster Anda mungkin menyatakan bahwa setelah suatu usaha besar atau kesulitan fisik yang ekstrem, Karakter Anda menjadi lelah. Mereka mungkin siap beraksi, atau mereka mungkin kelelahan. Gamemaster Anda dapat mengizinkan lemparan Ketahanan untuk menghindari kelelahan setelah periode aktivitas fisik.
 
-Menggunakan metode ini, Karakter Anda menjadi lelah setelah menghabiskan CON×3 ronde tarung tanpa gangguan dalam pertempuran atau aktivitas fisik yang sulit. Setelah itu, Karakter Anda secara Otomatis mengalami kelelahann, dan semua lemparan Skill menjadi *Sulit*.
+Dengan menggunakan metode ini, Karakter Anda menjadi lelah setelah menghabiskan KET×3 ronde tempur tanpa henti dalam pertempuran atau aktivitas fisik yang sulit. Setelah itu, Karakter Anda secara Otomatis kelelahan, dan semua lemparan Skill menjadi *Sulit*.
 
-Setelah menghabiskan CON×4 ronde tarung tanpa gangguan dalam pertempuran atau aktivitas fisik yang sulit, Karakter Anda melakukan semua Skill mereka seolah-olah nilainya 1/4 dari peringkat Skill normal dan harus berhasil melakukan lemparan Stamina untuk melakukan aktivitas fisik apa pun sebelum peringkat Skill tersebut bahkan dapat dicoba.
+Setelah menghabiskan KET×4 ronde tempur tanpa henti dalam pertempuran atau aktivitas fisik yang sulit, Karakter Anda melakukan semua Skill mereka seolah-olah bernilai 1/4 dari peringkat Skill normal dan harus melakukan lemparan Ketahanan yang berhasil untuk melakukan aktivitas fisik apa pun sebelum peringkat Skill tersebut bahkan dapat dicoba.
 
-Setelah CON×10 ronde aktivitas semacam itu, Karakter Anda benar-benar kehabisan tenaga, dan hampir tidak mampu mengangkat Senjata mereka, berdiri tegak tanpa sesuatu untuk bersandar, dll. Pada titik ini, Karakter Anda harus melakukan lemparan Stamina *Sulit* untuk melakukan aksi dasar apa pun, dan gamemaster Anda mungkin memutuskan bahwa lemparan Skill apa pun adalah *Sia-sia* atau dibatasi hingga POW×1 Karakter Anda.#### Poin Hoki (Maks = POW×5)
+Setelah KET×10 ronde aktivitas semacam itu, Karakter Anda benar-benar Kehabisan Tenaga, dan hampir tidak mampu mengangkat senjata mereka, berdiri tegak tanpa sesuatu untuk bersandar, dll. Pada titik ini, Karakter Anda harus melakukan lemparan Ketahanan *Sulit* untuk melakukan aksi dasar apa pun, dan gamemaster Anda mungkin memutuskan bahwa lemparan Skill apa pun menjadi *Sia-sia* atau terbatas pada DAY×1 Karakter Anda.#### Poin Kewarasan (Maks = DAY×5)
 
-Sebagaimana dijelaskan dalam **Kewarasan** (lihat Bab Sepuluh: Latar), **poin kewarasan** (SAN) mewakili ketabahan mental dan emosional karakter Anda, serta kemampuan mereka untuk menahan guncangan, teror, dan kengerian kosmik. Poin SAN dasar karakter Anda sama dengan POW×5 mereka.
+Sebagaimana dijelaskan dalam **Kewarasan** (lihat Bab Sepuluh: Pengaturan), **poin kewarasan** (SAN) mewakili ketabahan mental dan emosional Karakter Anda, serta kemampuan mereka untuk menahan guncangan, teror, dan kengerian kosmik. Poin SAN dasar Karakter Anda sama dengan DAY×5.
 
-Setiap kali karakter Anda dihadapkan pada situasi yang mengerikan atau keanehan yang membengkokkan pikiran, mereka harus melempar D100 terhadap total poin SAN mereka saat ini. Jika karakter Anda gagal (atau mungkin bahkan jika mereka berhasil) mereka akan kehilangan poin kewarasan.
+Setiap kali Karakter Anda dihadapkan pada situasi yang mengerikan atau keanehan yang membengkokkan pikiran, mereka harus melempar D100 terhadap total poin SAN mereka saat ini. Jika Karakter Anda gagal (atau mungkin bahkan jika mereka berhasil), mereka akan kehilangan poin kewarasan.
 
-Karakter yang menderita kehilangan SAN yang cukup kemungkinan akan menjadi gila. **Ambang Batas Kewarasan** karakter Anda (seperti Ambang Batas Luka Mayor) sama dengan 1/5 dari SAN mereka saat ini. Kehilangan poin SAN sebanyak ini dalam satu jam permainan mengakibatkan suatu bentuk kegilaan yang tidak terbatas.
+Karakter yang menderita kehilangan SAN yang cukup kemungkinan besar akan menjadi gila. **Ambang Batas Kewarasan** Karakter Anda (seperti Ambang Batas Luka Berat) sama dengan 1/5 dari SAN mereka saat ini. Kehilangan poin SAN sebanyak ini dalam satu jam permainan akan mengakibatkan beberapa bentuk kegilaan yang tidak terbatas.
 
-Poin kewarasan tidak beregenerasi secara alami dan hanya dapat dipulihkan dalam keadaan yang sangat spesifik. Karakter dapat memperoleh SAN di luar nilai dasar mereka, hingga maksimum 99. Jenis pengetahuan tertentu yang menghujat dapat membatasi skor SAN maksimum yang diperbolehkan bagi karakter Anda.
+Poin kewarasan tidak beregenerasi secara alami dan hanya dapat dipulihkan dalam keadaan yang sangat spesifik. Karakter dapat memperoleh SAN di atas nilai dasar mereka, hingga maksimum 99. Jenis pengetahuan penghujat tertentu dapat membatasi skor SAN maksimum yang diizinkan untuk Karakter Anda.
 
 > ### Fitur Khas (Opsi)
 > 
-> Fitur khas adalah cara untuk mendeskripsikan fitur-fitur menonjol tentang karakter Anda. Ini hanya bersifat deskriptif dan tidak memiliki nilai mekanis. Ini berfungsi untuk membantu membuat karakter pemain Anda tampak lebih nyata. Semakin jauh dari rata-rata—lebih tinggi atau lebih rendah—karakteristik Karisma (CHA) karakter Anda, semakin banyak jumlah fitur khas yang mereka miliki.
+> Fitur khas adalah cara untuk mendeskripsikan fitur menonjol tentang Karakter Anda. Ini hanya bersifat deskriptif dan tidak memiliki nilai mekanis. Fitur ini berfungsi untuk membantu membuat Karakter pemain Anda tampak lebih nyata. Semakin jauh dari rata-rata—lebih tinggi atau lebih rendah—karakteristik Karisma (KAR) Karakter Anda, semakin besar jumlah fitur khas yang mereka miliki.
 > 
 > ##### Fitur Khas
 > 
-> | CHA | Jumlah Fitur |
+> | KAR | Jumlah Fitur |
 > | :---- | :---- |
 > | 3 atau kurang | 4 |
 > | 4–7 | 3 |
@@ -529,52 +529,53 @@ Poin kewarasan tidak beregenerasi secara alami dan hanya dapat dipulihkan dalam 
 > | 15–16 | 3 |
 > | 17+ | 4 |
 > 
-> Lempar 1D10 atau pilih kategori di bawah ini untuk setiap fitur khas yang dimiliki karakter Anda. Anda dapat memilih kategori yang sama beberapa kali. Kemudian pilih fitur atau fitur dari entri tersebut. Semuanya bersifat kosmetik dan tidak memengaruhi nilai permainan, tetapi berguna untuk mengingat karakteristik dan Skill karakter Anda saat memilih fitur khas.
+> Lempar 1D10 atau pilih kategori di bawah untuk setiap fitur khas yang dimiliki Karakter Anda. Anda dapat memilih kategori yang sama beberapa kali. Kemudian pilih fitur atau fitur dari entri tersebut. Semuanya bersifat kosmetik dan tidak memengaruhi nilai permainan, tetapi berguna untuk mengingat karakteristik dan Skill Karakter Anda saat memilih fitur khas.
 > 
-> Jika CHA karakter Anda rendah (9 atau lebih rendah), fitur-fitur ini mungkin tidak menyenangkan, tidak menarik, atau terlihat tidak biasa. Jika CHA karakter Anda tinggi (12+), fitur-fiturnya menarik atau terlihat mengesankan, bahkan jika fitur tersebut biasanya tidak dianggap menarik. Namun, ini tidak membatasi, dan penampilan tidak selalu menunjukkan karisma yang sebenarnya.
+> Jika KAR Karakter Anda rendah (9 atau lebih rendah), fitur-fitur ini mungkin tidak menyenangkan, tidak menarik, atau terlihat tidak biasa. Jika KAR Karakter Anda tinggi (12+), fitur-fiturnya menarik atau tampak mengesankan, bahkan jika fitur tersebut biasanya tidak dianggap menarik. Namun, ini tidak membatasi, dan penampilan tidak selalu menunjukkan karisma yang sebenarnya.
 > 
-> Saat Anda memilih, bayangkan karakter Anda dalam pikiran Anda, dan bayangkan bagaimana penampilan mereka dalam latar permainan. Anda juga dapat menggabungkan fitur-fitur yang berbeda dengan cara yang menarik. Gamemaster Anda mungkin memveto fitur khas tertentu jika dianggap tidak pada tempatnya, tergantung pada latarnya.
+> Saat Anda memilih, bayangkan Karakter Anda di dalam pikiran Anda, dan bayangkan bagaimana mereka muncul di latar permainan. Anda juga dapat menggabungkan fitur yang berbeda dengan cara yang menarik. Gamemaster Anda mungkin memveto fitur khas tertentu jika dianggap tidak pada tempatnya, tergantung pada latar permainannya.
 > 
-> 1. **Rambut di Kepala:** Botak, botak di atas, pirang, hitam, dikepang, cokelat, cepak, keriting, kotor, penuh kutu, berkilau, abu-abu, panjang, berkilau, kusut, berminyak, wangi, surut, merah, dicukur, runcing, sangat panjang, bergelombang, wig, fitur pilihan Anda.
+> 1. **Rambut di Kepala:** Botak, botak di atas, pirang, hitam, dikepang, cokelat, potongan kru, keriting, kotor, penuh kutu, berkilau, abu-abu, panjang, berkilau, kusut, berminyak, diberi parfum, garis rambut mundur, merah, dicukur, runcing, sangat panjang, bergelombang, wig, fitur pilihan Anda.
 > 
-> 2. **Rambut Wajah:** Alis melengkung, janggut dikepang, janggut lebat, janggut keriting dan wangi, kumis sangat besar, alis menyatu, janggut kecil, janggut panjang, tanpa alis, cambang, desain aneh yang dicukur pada janggut yang dipangkas rapi, alis tebal, fitur pilihan Anda.
+> 2. **Rambut Wajah:** Alis melengkung, janggut dikepang, janggut lebat, janggut keriting dan wangi, kumis besar, alis menyatu, janggut kecil (goatee), janggut panjang, tanpa alis, cambang, desain aneh pada janggut yang dicukur rapi, alis tebal, fitur pilihan Anda.
 > 
-> 3. **Fitur Wajah:** Tanda lahir, mata hitam, mata biru, mata cerah, hidung patah, gigi patah, mata cokelat, sangat kecokelatan, dagu berlipat, anting, dagu sangat besar, gigi rata, penutup mata, bibir berdaging, celah di gigi, mata abu-abu, telinga berbulu, tulang pipi tinggi, hidung bengkok, mata besar, hidung besar, bulu mata panjang, gigi bergerigi, tindik hidung, pucat, kulit bopeng, dagu runcing, gigi runcing, gigi seri menonjol, hidung pesek, wajah bulat, bekas luka, bibir sensual, gigi bernoda, bertato, bibir tipis, telinga kecil, hidung terbalik, kutil, dagu lemah, gigi putih, mata lebar, gigi kuning, fitur pilihan Anda.
+> 3. **Fitur Wajah:** Tanda lahir, mata hitam, mata biru, mata cerah, hidung patah, gigi patah, mata cokelat, cokelat terbakar matahari, dagu berlipat, anting-anting, dagu sangat besar, gigi rata, penutup mata, bibir berdaging, celah di gigi, mata abu-abu, telinga berbulu, tulang pipi tinggi, hidung bengkok, mata besar, hidung besar, bulu mata panjang, gigi bergerigi, tindik hidung, pucat, kulit bopeng, dagu runcing, gigi runcing, gigi seri menonjol, hidung pesek, wajah bulat, bekas luka, bibir sensual, gigi bernoda, bertato, bibir tipis, telinga kecil, hidung mancung ke atas, kutil, dagu lemah, gigi putih, mata lebar, gigi kuning, fitur pilihan Anda.
 > 
-> 4. **Ekspresi**: Memuja, memikat, sombong, bingung, mata cerah, ingin tahu, meringis, masam, mabuk, ramah, waspada, angkuh, penuh nafsu, melirik, lemah lembut, nakal, naif, supel, tajam, menyenangkan, bangga, menggoda, licik, mencemooh, menyipitkan mata, ekspresi pilihan Anda.
+> 4. **Ekspresi:** Memuja, memikat, sombong, bingung, mata cerah, ingin tahu, meringis, masam, mabuk, ramah, waspada, angkuh, penuh nafsu, melirik, penurut, nakal, naif, terbuka, tajam, menyenangkan, bangga, menggoda, licik, mencemooh, menyipitkan mata, ekspresi pilihan Anda.
 > 
-> 5. **Pakaian:** Gaya kuno, topi ber-Armor, atletis, bertelanjang kaki, pakaian membuat pemakai terlalu panas atau terlalu dingin, topi kerucut, disulam dengan lambang khusus, mahal, modis, sepatu bot bagus, untuk lawan jenis, pas badan, penuh lubang, mencolok, norak, tidak pas, banyak perhiasan murah, baru, baju tidur, setengah telanjang, topi runcing, rapi, mewah, sandal, satin, seksi, sangat ketat, sporty, kalem, terlalu banyak ornamen, seragam, utilitarian, vulgar, topi lebar, pakaian pilihan Anda.
+> 5. **Pakaian:** Gaya kuno, topi berpelindung, atletis, bertelanjang kaki, pakaian membuat pemakai terlalu panas atau terlalu dingin, topi kerucut, disulam dengan lambang khusus, mahal, modis, sepatu bot bagus, untuk lawan jenis, pas badan, penuh lubang, mencolok, norak, tidak pas, banyak perhiasan murah, baru, pakaian tidur, setengah telanjang, topi puncak, rapi, kaya, sandal, seperti satin, seksi, ketat, sporty, lembut, terlalu banyak hiasan, seragam, utilitarian, vulgar, topi lebar, pakaian pilihan Anda.
 > 
-> 6. **Pembawaan:** Marah, santai, canggung, percaya diri, halus, takut, anggun, rendah hati, riang, lesu, militer, lincah, berjalan lambat, memaksa, pendiam, membungkuk, lincah, kaku, angkuh, sensual, bergoyang, waspada, lelah, penurut, pembawaan pilihan Anda.
+> 6. **Pembawaan:** Marah, santai, kikuk, percaya diri, halus, takut, anggun, rendah hati, riang, lesu, militer, lincah, lamban, mendesak, pendiam, membungkuk, lincah, kaku, pongah, sensual, bergoyang, waspada, lelah, menyerah, pembawaan pilihan Anda.
 > 
-> 7. **Bicara:** Beraksen, dibuat-buat, agresif, dalam, menuntut, meleret, samar, ragu-ragu, bernada tinggi, memerintah, musikal, menggumam, sengau, parau, tajam, sensual, melengking, lambat, halus, lembut, kuat, serak, tidak jelas, merengek, karakteristik bicara pilihan Anda.
+> 7. **Cara Bicara:** Beraksen, dibuat-buat, agresif, dalam, menuntut, meleret, lemah, ragu-ragu, melengking, berkuasa, musikal, bergumam, sengau, parau, tajam, sensual, melengking, lambat, halus, lembut, kuat, serak, tidak jelas, merengek, karakteristik bicara pilihan Anda.
 > 
-> 8. **Lengan dan Tangan:** Tanda lahir terlihat, gelang atau perhiasan lengan lainnya, bisep menonjol, tangan kapalan, sangat kecokelatan, tidak berbulu, berbulu, siku berbuku-buku, buku jari besar, kidal, lengan panjang, kuku panjang, berotot, satu lengan lebih panjang dari yang lain, satu jari hilang, satu jari terlalu banyak, siku runcing, kuku runcing, lengan dan tangan kuat, cincin, bekas luka, ramping, kulit halus, bertato, tidak berkerut, sangat berbulu, kulit sangat pucat, fitur pilihan Anda.
+> 8. **Lengan dan Tangan:** Tanda lahir terlihat, gelang atau perhiasan lengan lainnya, bisep menonjol, tangan kapalan, cokelat terbakar matahari, tidak berbulu, berbulu, siku menonjol, buku jari besar, kidal, lengan panjang, kuku panjang, berotot, satu lengan lebih panjang dari yang lain, satu jari hilang, jari kelebihan satu, siku runcing, kuku runcing, lengan dan tangan kuat, cincin, bekas luka, ramping, kulit halus, bertato, tidak bergaris, sangat berbulu, kulit sangat pucat, fitur pilihan Anda.
 > 
-> 9. **Torso:** Seperti tong, tindik perut, tanda lahir terlihat, bahu lebar, berlekuk, setiap tulang terlihat, perut rata, tidak berbulu, pinggang tinggi, ramping, torso panjang, banyak bekas luka, berotot, sempit, tanpa pusar, satu puting hilang, buncit, bekas luka menonjol, pendek, dada menyusut, liat, ramping, pinggul kecil, langsing, tinggi, garis tan terlihat, kecokelatan, bertato, tebal, tipis, sangat berbulu, sangat pucat, lentur, fitur pilihan Anda.
-> 10. **Kaki dan Kaki:** Tanda lahir terlihat, paha dan betis menonjol, kaki kapalan, sangat kecokelatan, tidak berbulu, berbulu, lutut berbuku-buku, pincang di satu kaki, banyak bekas luka, berotot, satu jari kaki hilang, satu jari kaki terlalu banyak, bekas luka, bekas luka akibat api atau asam, ramping, halus, kecokelatan, bertato, cincin jari kaki, sangat berbulu, kaki sangat panjang, kulit sangat pucat, kaki sangat pendek, kulit lapuk, fitur pilihan Anda.
+> 9. **Batang Tubuh:** Seperti tong, tindik pusar, tanda lahir terlihat, bahu lebar, berlekuk, setiap tulang terlihat, perut rata, tidak berbulu, pinggang tinggi, ramping, batang tubuh panjang, banyak bekas luka, berotot, sempit, tidak punya pusar, satu puting hilang, buncit, bekas luka menonjol, pendek, dada menyusut, liat, ramping, pinggul kecil, langsing, tinggi, garis cokelat terlihat, kecokelatan, bertato, tebal, tipis, sangat berbulu, sangat pucat, lentur, fitur pilihan Anda.
 > 
-> Buat fitur khas Anda sendiri jika ini tidak mencukupi. Untuk permainan yang menampilkan ras non-Manusia, jangan ragu untuk menambahkan fitur baru dan unik, atau melarang fitur yang tidak pantas.
+> 10. **Kaki dan Telapak Kaki:** Tanda lahir terlihat, paha dan betis menonjol, kaki kapalan, cokelat terbakar matahari, tidak berbulu, berbulu, lutut menonjol, pincang di satu kaki, banyak bekas luka, berotot, satu jari kaki hilang, jari kaki kelebihan satu, bekas luka, bekas luka dari api atau asam, ramping, halus, kecokelatan, bertato, cincin jari kaki, sangat berbulu, kaki sangat panjang, kulit sangat pucat, kaki sangat pendek, kulit lapuk, fitur pilihan Anda.
+> 
+> Buatlah fitur khas Anda sendiri jika fitur-fitur ini tidak mencukupi. Untuk permainan yang menampilkan ras non-Manusia, jangan ragu untuk menambahkan fitur baru dan unik, atau melarang fitur yang tidak pantas.
 
-## Skill Profesional
+## Profesi
 
-Selain ditentukan oleh karakteristik, karakter Anda juga ditentukan dalam hal **Skill** mereka. Ini dipelajari melalui pengalaman hidup, seringkali sebagai bagian dari pendidikan dan **Skill profesional**. Skill profesional adalah pekerjaan atau panggilan yang diasumsikan sebagai bagian dari karakter Anda ketika permainan dimulai (atau merupakan bagian dari diri mereka sebelum permainan dimulai), yang memandu alokasi Skill. Skill profesional hanyalah tempat mereka memulai ketika permainan dimulai dan bukan batasan untuk apa yang dapat mereka lakukan dan menjadi apa mereka nantinya. Mereka dapat tumbuh dan berubah selama kampanye jauh melampaui Skill profesional mereka.
+Selain didefinisikan oleh karakteristik, Karakter Anda juga didefinisikan dalam hal **Skill** mereka. Skill ini dipelajari melalui pengalaman hidup, seringkali sebagai bagian dari pendidikan dan **profesi**. Profesi adalah pekerjaan atau kejuruan yang dianggap sebagai bagian dari Karakter Anda saat permainan dimulai (atau merupakan bagian dari diri mereka sebelum permainan dimulai), yang memandu alokasi Skill. Profesi hanyalah titik awal saat permainan dimulai dan bukanlah batasan terhadap apa yang bisa mereka lakukan dan menjadi apa mereka nantinya. Mereka dapat tumbuh dan berubah selama kampanye jauh melampaui profesi mereka.
 
-### Skill Profesional berdasarkan Latar
+### Profesi Berdasarkan Latar
 
-Berikut adalah daftar Skill profesional yang lebih umum, dengan catatan tentang latar di mana mereka akan sering ditemui. Latar ini dijelaskan dalam *Bab Sepuluh: Latar*. Beberapa judul Skill profesional dan daftar Skill awal mungkin tidak sesuai untuk setiap latar dan harus disesuaikan oleh pemain dan gamemaster sesuai kebutuhan.
+Berikut ini adalah daftar profesi yang lebih umum, dengan catatan mengenai latar tempat profesi tersebut biasanya ditemui. Latar-latar ini dijelaskan dalam *Bab Sepuluh: Pengaturan*. Beberapa judul profesi dan daftar Skill awal mungkin tidak cocok untuk setiap latar dan harus disesuaikan oleh pemain dan gamemaster sesuai kebutuhan.
 
-Sebagai contoh, *dalam kampanye yang berlatar Jepang kuno, gamemaster Anda memberi tahu Anda bahwa Skill profesional pejuang disebut samurai, pembunuh adalah ninja, pencuri adalah bandit, kriminal adalah yakuza, dan bangsawan adalah abdi dalem.*
+Contohnya, *dalam kampanye yang berlatar di Jepang kuno, gamemaster Anda memberi tahu Anda bahwa profesi pejuang disebut samurai, pembunuh adalah ninja, pencuri adalah bandit, kriminal adalah yakuza, dan bangsawan adalah abdi dalem.*
 
-Daftar ini tidak lengkap tetapi mewakili Skill profesional yang paling cocok untuk karakter pemain di setiap latar umum. Skill profesional ini dapat diperluas sesuai keinginan, dan bahkan pilihan yang tidak mungkin pun bisa dilakukan. Dunia modern kita sendiri masih memiliki kantong-kantong kecil anggota suku dan dukun, misalnya, meskipun mereka jarang ditemukan.
+Daftar ini tidak lengkap tetapi mewakili profesi yang paling cocok untuk Karakter pemain di setiap latar umum. Profesi ini dapat diperluas sesuai keinginan, dan bahkan pilihan yang tidak biasa pun dimungkinkan. Dunia modern kita sendiri masih memiliki kantong-kantong kecil anggota suku dan dukun, sebagai contoh, meskipun mereka hampir tidak umum.
 
 ### Latar dan Skill
 
-Anda dan gamemaster Anda harus memastikan Skill yang terkait dengan Skill profesional sesuai dengan latar permainan. Untuk Skill yang tidak pantas, ganti dengan spesialisasi yang berbeda jika itu membuatnya berhasil, dan jika tidak ada spesialisasi lain yang sesuai, pilih Skill lain dalam kategori yang sama. Lihat *Bab Tiga: Skill* untuk informasi lebih lanjut tentang spesialisasi Skill dan kategori Skill.
+Anda dan gamemaster Anda harus memastikan bahwa Skill yang terkait dengan profesi sesuai dengan latar permainan. Untuk Skill yang tidak pantas, gantilah dengan spesialisasi yang berbeda jika itu membuatnya berhasil, dan jika tidak ada spesialisasi lain yang sesuai, pilihlah Skill lain dalam kategori yang sama. Lihat *Bab Tiga: Skill* untuk informasi lebih lanjut tentang spesialisasi Skill dan kategori Skill.
 
 > ### Bonus Kategori Skill (Opsi)
 > 
-> Jika Anda dan gamemaster Anda ingin karakteristik karakter Anda memengaruhi peringkat Skill mereka, Anda harus menggunakan sistem ini. Seperti dijelaskan dalam Bab Tiga: Skill, setiap Skill dikelompokkan ke dalam kategori Skill. Setiap kategori dikaitkan dengan satu atau lebih karakteristik yang digunakan untuk menghitung bonus kategori Skill untuk setiap kategori. Untuk menghitung bonus bagi setiap kategori Skill, catat karakteristik **primer**, **sekunder**, dan **negatif** dari setiap kategori (atau gunakan bagan di bawah ini):
+> Jika Anda dan gamemaster Anda ingin karakteristik Karakter Anda memengaruhi peringkat Skill mereka, Anda harus menggunakan sistem ini. Sebagaimana dijelaskan dalam Bab Tiga: Skill, setiap Skill dikelompokkan ke dalam kategori Skill. Setiap kategori dikaitkan dengan satu atau lebih karakteristik yang digunakan untuk menghitung bonus kategori Skill untuk setiap kategori. Untuk menghitung bonus untuk setiap kategori Skill, catat karakteristik **primer**, **sekunder**, dan **negatif** dari setiap kategori (atau gunakan bagan di bawah):
 > 
 > * Karakteristik primer menambahkan +1% untuk setiap poin di atas 10 dan mengurangi –1% untuk setiap poin di bawah 10.
 > 
@@ -586,28 +587,28 @@ Anda dan gamemaster Anda harus memastikan Skill yang terkait dengan Skill profes
 > 
 > | Kategori | Primer | Sekunder | Negatif |
 > | :---- | :---- | :---- | :---- |
-> | Skill Combat | DEX | INT, STR | — |
-> | Skill Komunikasi | INT | POW, CHA | — |
-> | Skill Manipulasi | DEX | INT, STR | — |
-> | Skill Mental | INT | POW, EDU | — |
-> | Skill Persepsi | INT | POW, CON | — |
-> | Skill Fisik | DEX | STR, CON | SIZ |
+> | Skill Tempur | KTG | KEC, KEK | — |
+> | Skill Komunikasi | KEC | DAY, KAR | — |
+> | Skill Manipulasi | KTG | KEC, KEK | — |
+> | Skill Mental | KEC | DAY, EDU | — |
+> | Skill Persepsi | KEC | DAY, KET | — |
+> | Skill Fisik | KTG | KEK, KET | UKU |
 > 
-> Sebagai contoh, *karakter Anda memiliki karakteristik berikut: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12, dan CHA 8. Bonus kategori Skill mereka adalah:*
+> Contohnya, *Karakter Anda memiliki karakteristik berikut: KEK 14, KET 13, KEC 8, UKU 12, DAY 10, KTG 12, dan KAR 8. Bonus kategori Skill mereka adalah:*
 > 
-> * Combat: *+3% (+2 untuk DEX, +2 untuk STR, –1 untuk INT)*
+> * Tempur: *+3% (+2 untuk KTG, +2 untuk KEK, –1 untuk KEC)*
 > 
-> * Komunikasi: *–3% (–2 untuk INT, 0 untuk POW, –1 untuk CHA)*
+> * Komunikasi: *–3% (–2 untuk KEC, 0 untuk DAY, –1 untuk KAR)*
 > 
-> * Manipulasi: *+3% (+2 untuk DEX, –1 untuk INT, +2 untuk STR)*
+> * Manipulasi: *+3% (+2 untuk KTG, –1 untuk KEC, +2 untuk KEK)*
 > 
-> * Mental: *–2% (–2 dari INT, 0 untuk POW, EDU tidak digunakan dalam kampanye ini)*
+> * Mental: *–2% (–2 dari KEC, 0 untuk DAY, EDU tidak digunakan dalam kampanye ini)*
 > 
-> * Persepsi: *–1% (–2 untuk INT, 0 untuk POW, +1 untuk CON)*
+> * Persepsi: *–1% (–2 untuk KEC, 0 untuk DAY, +1 untuk KET)*
 > 
-> * Fisik: *+3% (+2 untuk DEX, +2 untuk STR, +1 untuk CON, –2 untuk SIZ)*
+> * Fisik: *+3% (+2 untuk KTG, +2 untuk KEK, +1 untuk KET, –2 untuk UKU)*
 > 
-> Lihat *Bab Tiga: Skill* untuk informasi lebih lanjut tentang kategori Skill, bonus kategori, dan peluang Skill dasar.
+> Lihat *Bab Tiga: Skill* untuk informasi lebih lanjut mengenai kategori Skill, bonus kategori, dan peluang Skill dasar.
 > 
 > ##### Tabel Bonus Skill
 > 
@@ -636,7 +637,7 @@ Anda dan gamemaster Anda harus memastikan Skill yang terkait dengan Skill profes
 > | 21 | +11% | +5% | –11% |
 > | Dst. | +1%/poin | +1%/2 poin | –1%/poin |
 > 
-> ### Bonus Skill Lebih Sederhana
+> ### Bonus Skill yang Lebih Sederhana
 > 
 > Jika menghitung bonus kategori Skill terlalu rumit, setiap bonus kategori dapat didefinisikan sebagai 1/2 dari karakteristik primer (bulatkan ke atas). Metode ini menghasilkan peluang Skill awal yang lebih tinggi dan menghilangkan kemungkinan penalti kategori. Jika diinginkan, gunakan Modifier kategori Skill sederhana dari tabel berikut.
 > 
@@ -644,65 +645,65 @@ Anda dan gamemaster Anda harus memastikan Skill yang terkait dengan Skill profes
 > 
 > | Kategori | Primer |
 > | :---- | :---- |
-> | Skill Combat | DEX/2 |
-> | Skill Komunikasi | CHA/2 |
-> | Skill Manipulasi | DEX/2 |
-> | Skill Mental | INT/2 |
-> | Skill Persepsi | POW/2 |
-> | Skill Fisik | STR/2 |
+> | Skill Tempur | KTG/2 |
+> | Skill Komunikasi | KAR/2 |
+> | Skill Manipulasi | KTG/2 |
+> | Skill Mental | KEC/2 |
+> | Skill Persepsi | DAY/2 |
+> | Skill Fisik | KEK/2 |
 
 > ### Kekayaan
 > 
-> Pada akhirnya, kekayaan mewakili status ekonomi karakter Anda pada awal permainan, dan apa yang biasa mereka terima. Setiap level di bawah ini mendeskripsikan keadaan relatif seseorang dalam level kekayaan tersebut. Kekayaan dibahas lebih lanjut dalam *Bab Delapan: Perlengkapan*, karena ini menentukan jenis harta benda yang dapat dimiliki dan diperoleh karakter Anda pada awalnya dalam permainan.
+> Pada akhirnya, kekayaan mewakili status ekonomi Karakter Anda pada awal permainan, dan apa yang biasa mereka jalani. Setiap tingkat di bawah mendeskripsikan keadaan relatif seseorang dalam tingkat kekayaan tersebut. Kekayaan dibahas lebih lanjut di *Bab Delapan: Perlengkapan*, karena menentukan jenis harta benda apa yang dapat dimiliki Karakter Anda pada awalnya dan diperoleh dalam permainan.
 > 
 > #### Melarat
 > 
-> Tanpa uang, karakter Anda harus mencari makanan dan minuman atau bergantung pada amal. Tunawisma, mereka tidur di mana pun mereka bisa menemukan tempat yang kering dan aman. Mereka mungkin memiliki beberapa harta kecil selain dari apa yang dapat mereka bawa, tetapi ini tidak terlalu berharga dan disembunyikan, dicuri jika ditemukan. Tingkat kemiskinan ini mungkin tercermin dalam penampilan karakter Anda, dan mereka mungkin mengalami kesulitan dalam melakukan tugas-tugas normal karena prasangka terhadap mereka yang melarat.
+> Tanpa uang, Karakter Anda harus mengais makanan dan minuman atau mengandalkan amal. Tunawisma, mereka tidur di mana pun mereka bisa menemukan tempat yang kering dan aman. Mereka mungkin memiliki beberapa harta kecil selain apa yang bisa mereka bawa, tetapi ini tidak terlalu berharga dan disembunyikan, dicuri jika ditemukan. Tingkat kemiskinan ini mungkin tercermin dalam penampilan Karakter Anda, dan mereka mungkin mengalami kesulitan melakukan tugas-tugas normal karena prasangka terhadap orang yang melarat.
 > 
 > #### Miskin
 > 
-> Meskipun karakter Anda memiliki sejumlah uang dan tidak kekurangan tempat tidur atau makanan untuk dimakan. Hidup mereka tanpa banyak kemewahan. Mereka tidak memiliki banyak uang tunai cadangan. Dengan tingkat kekayaan ini, tempat tinggal mereka sederhana dan mungkin berada di bagian kota yang miskin atau tidak diinginkan. Mereka sebagian bekerja, menganggur, atau bekerja keras untuk upah yang kecil.
+> Meskipun Karakter Anda memiliki sedikit uang dan tidak kekurangan tempat untuk tidur atau makanan untuk dimakan. Hidup mereka tanpa banyak kemewahan. Mereka tidak memiliki banyak uang tunai. Dengan tingkat kekayaan ini, tempat tinggal mereka sederhana dan mungkin berada di bagian kota yang miskin atau tidak diinginkan. Mereka sebagian bekerja, menganggur, atau bekerja keras demi upah yang sedikit.
 > 
 > #### Rata-rata
 > 
-> Karakter Anda memiliki pendapatan yang nyaman dan hidup tanpa banyak kesulitan, meskipun pembelian besar harus dipertimbangkan dengan cermat. Mereka memiliki rumah atau apartemen rata-rata di suatu tempat dan mungkin memiliki jumlah uang yang wajar dalam tabungan, meskipun sedikit yang akan menganggap mereka selain kelas menengah atau berpenghasilan rata-rata. Mereka dapat membayar tagihan dan pengeluaran mereka, dan sesekali dapat memanjakan diri dengan barang-barang mewah, tetapi mereka umumnya menjalani gaya hidup yang umum bagi kebanyakan orang di budaya dan era mereka.
+> Karakter Anda memiliki penghasilan yang cukup dan hidup tanpa banyak kesulitan, meskipun pembelian besar harus ditimbang dengan cermat. Mereka memiliki rumah atau apartemen rata-rata di suatu tempat dan mungkin memiliki jumlah uang yang wajar dalam tabungan, meskipun sedikit orang yang akan menganggap mereka sebagai sesuatu selain kelas menengah atau berpenghasilan rata-rata. Mereka dapat membayar tagihan dan pengeluaran mereka, dan dapat sesekali berfoya-foya untuk barang mewah, tetapi mereka umumnya menjalani gaya hidup yang umum bagi kebanyakan orang di budaya dan era mereka.
 > 
 > #### Makmur
 > 
-> Karakter Anda hidup cukup baik dan memiliki pendapatan yang cukup besar atau aliran uang yang dengannya mereka dapat hidup mewah dan menikmati hidup. Akomodasi tempat tinggal sangat berkelas, dan karakter Anda tidak perlu berpikir dua kali untuk melakukan pembelian besar. Mereka memiliki banyak uang tabungan dan mungkin menjalani kehidupan yang berlebihan dan mewah tanpa konsekuensi apa pun.
+> Karakter Anda hidup dengan cukup baik dan memiliki penghasilan yang cukup besar atau aliran uang yang dengannya mereka dapat hidup mewah dan menikmati hidup. Akomodasi tempat tinggal sangat berkelas, dan Karakter Anda tidak perlu berpikir dua kali untuk melakukan pembelian besar. Mereka memiliki banyak uang yang ditabung dan mungkin menjalani kehidupan yang berlebihan dan mewah tanpa konsekuensi apa pun.
 > 
 > #### Kaya
 > 
-> Karakter Anda memiliki kekayaan material yang sangat besar dari sumber yang hampir tak ada habisnya. Mereka dapat melakukan pembelian dengan biaya yang cukup besar tanpa berpikir dua kali, dengan kualitas hidup yang membuat iri kebanyakan orang. Mereka memiliki banyak uang tabungan, dan karena tingkat kekayaan mereka, kemungkinan besar mereka akan memiliki peluang sosial dan bisnis yang jauh melampaui tingkat pendapatan lainnya.
+> Karakter Anda memiliki kekayaan material yang sangat besar dari sumber yang hampir tak ada habisnya. Mereka dapat melakukan pembelian dengan biaya yang cukup besar tanpa berpikir dua kali, dengan kualitas hidup yang membuat iri kebanyakan orang. Mereka memiliki banyak uang yang ditabung, dan karena tingkat kekayaan mereka, kemungkinan besar mereka akan memiliki peluang sosial dan bisnis yang jauh melampaui tingkat penghasilan lainnya.
 
-### Skill Profesional A Sampai Z
+### Profesi A Sampai Z
 
-Sebagian besar Skill profesional ini cukup umum untuk disesuaikan dengan banyak latar atau era. Masing-masing mencakup deskripsi umum, daftar Skill yang sesuai, dan tingkat kekayaan yang disarankan. Setiap latar dalam *Bab Sepuluh: Latar* menyarankan Skill profesional yang sesuai.
+Sebagian besar profesi ini cukup generik sehingga cocok untuk banyak latar atau era. Masing-masing mencakup deskripsi umum, daftar Skill yang sesuai, dan tingkat kekayaan yang disarankan. Setiap latar di *Bab Sepuluh: Pengaturan* menyarankan profesi yang sesuai.
 
-Skill profesional ini tidak lengkap. Tergantung pada latarnya, Anda atau gamemaster Anda mungkin membuat Skill profesional tambahan, atau menyesuaikan Skill profesional yang ada lebih jauh lagi. Informasi tentang membuat Skill profesional baru atau menyesuaikan yang sudah ada ditemukan di **Membuat Skill Profesional Baru**.
+Profesi ini tidak lengkap. Bergantung pada latar, Anda atau gamemaster Anda dapat membuat profesi tambahan, atau mengadaptasi profesi yang sudah ada lebih lanjut. Informasi tentang membuat profesi baru atau mengadaptasi profesi yang sudah ada ditemukan di **Membuat Profesi Baru**.
 
-Gamemaster Anda mungkin membatasi pilihan Skill profesional Anda atau meminta Anda untuk menentukan Skill profesional secara acak, tetapi biasanya lebih baik untuk memilih Skill profesional, agar tidak dipaksa memainkan karakter yang tidak akan Anda nikmati.
+Gamemaster Anda mungkin membatasi pilihan profesi Anda atau meminta Anda untuk menentukan profesi Anda secara acak, tetapi biasanya lebih disukai untuk memilih profesi, agar tidak dipaksa memainkan karakter yang tidak Anda nikmati.
 
-**Skill:** Skill-Skill ini adalah Skill utama yang digunakan oleh anggota Skill profesional tersebut. Karakter Anda akan menghabiskan poin Skill profesional mereka pada Skill-Skill ini selama pembuatan karakter. Karakter Anda tidak harus memiliki semua Skill ini, tetapi ini adalah saran tentang Skill mana yang akan sesuai. Dengan izin gamemaster Anda, Anda dapat mengganti salah satu dari Skill ini dengan yang lain jika Skill tersebut tidak sesuai dengan era, latar, atau konsep karakter Anda.
+**Skill:** Skill-Skill ini adalah Skill utama yang digunakan oleh anggota profesi tersebut. Karakter Anda akan menghabiskan poin Skill profesional mereka pada Skill-Skill ini selama pembuatan karakter. Karakter Anda tidak harus memiliki semua Skill ini, tetapi ini adalah saran Skill mana yang akan sesuai. Dengan izin gamemaster Anda, Anda dapat mengganti salah satu Skill ini dengan yang lain jika Skill tersebut tidak sesuai dengan era, latar, atau konsep Karakter Anda.
 
-Sebagai contoh, *Anda ingin memainkan seorang konstabel dengan kegemaran berdeduksi dalam kampanye yang berlatar Inggris abad ke-12. Anda melihat daftar Skill profesional dan melihat bahwa templat Detektif mencantumkan Skill Senjata Api (Pistol atau Revolver). Sangat wajar untuk mengganti ini dengan Senjata Jarak Dekat (Pedang) untuk latar tersebut.*
+Contohnya, *Anda ingin memainkan seorang polisi dengan kegemaran berdeduksi dalam kampanye yang berlatar di Inggris abad ke-12. Anda melihat daftar profesi dan melihat bahwa template Detektif mencantumkan Skill Senjata Api (Pistol atau Revolver). Sangat wajar untuk mengganti ini dengan Senjata Jarak Dekat (Pedang) untuk latar tersebut.*
 
-**Kekayaan:** Tingkat kekayaan rata-rata untuk karakter dalam Skill profesional tersebut. Dalam beberapa kasus, disediakan rentang, yang memungkinkan Anda dan gamemaster Anda untuk memutuskan yang paling sesuai dengan latar. Deskripsi ini dimaksudkan hanya sebagai saran; Anda dan gamemaster Anda dapat memilih untuk menyesuaikan tingkat kekayaan yang disarankan ke atas atau ke bawah tergantung pada konsep karakter Anda.
+**Kekayaan:** Tingkat kekayaan rata-rata untuk Karakter dalam profesi tersebut. Dalam beberapa kasus, disediakan rentang, yang memungkinkan Anda dan gamemaster Anda memutuskan yang paling sesuai dengan latar. Deskripsi ini dimaksudkan sebagai saran saja; Anda dan gamemaster Anda dapat memilih untuk menyesuaikan tingkat kekayaan yang disarankan naik atau turun tergantung pada konsep Karakter Anda.
 
-Metode alternatif untuk menentukan tingkat kekayaan awal di mana rentang disajikan adalah dengan memulai karakter Anda pada tingkat kekayaan terendah, disesuaikan ke atas untuk setiap lemparan Status yang berhasil Anda lakukan. Ini harus dilakukan setelah karakter Anda dibuat.
+Metode alternatif untuk menentukan tingkat kekayaan awal di mana rentang disajikan adalah dengan memulai Karakter Anda pada rentang kekayaan terendah, disesuaikan ke atas untuk setiap lemparan Status yang berhasil Anda lakukan. Ini harus dilakukan setelah Karakter Anda dibuat.
 
-Sementara Skill Status menjelaskan cara Status dan kekayaan berhubungan satu sama lain, deskripsi singkat dari setiap tingkat kekayaan ada di bawah ini.
+Meskipun Skill Status mendeskripsikan cara Status dan kekayaan saling berhubungan, deskripsi singkat setiap tingkat kekayaan ada di bawah.
 
-**Spesial:** Ini menunjukkan apakah anggota Skill profesional tersebut kemungkinan besar memiliki kekuatan, yang dijelaskan di Bab Empat: Kekuatan.
+**Spesial:** Ini menunjukkan apakah anggota profesi tersebut kemungkinan memiliki kekuatan, yang dijelaskan di Bab Empat: Kekuatan.
 
-### Daftar Skill Profesional
+### Daftar Profesi
 
-| Seniman | Penjudi | Sarjana |
+| Seniman | Penjudi | Cendekiawan |
 | :---- | :---- | :---- |
 | Pembunuh | Penggembala | Ilmuwan |
 | Atlet | Pemburu | Pelayan |
 | Pengemis | Jurnalis | Dukun |
-| Petugas Administrasi | Buruh | Budak |
+| Juru Tulis | Buruh | Budak |
 | Teknisi Komputer | Penjaga Hukum | Prajurit |
 | Okultis | Pengacara | Mata-mata |
 | Pengrajin | Mekanik | Pelajar |
@@ -710,17 +711,17 @@ Sementara Skill Status menjelaskan cara Status dan kekayaan berhubungan satu sam
 | Detektif | Bangsawan | Teknisi |
 | Dokter | Penulis | Pencuri |
 | Insinyur | Pilot | Anggota Suku |
-| Penghibur | Politisi | Pejuang |
+| Penghibur | Politikus | Pejuang |
 | Penjelajah | Imam | Penyihir |
 | Petani | Pelaut |  |
 
 #### Seniman
 
-Anda mencari nafkah dengan membuat seni, baik menggambar, melukis, memahat, mendesain, memotret, membuat film, atau cara ekspresi kreatif lainnya dalam media fisik atau digital. Penampil harus merujuk pada Skill profesional Penghibur.
+Anda mencari nafkah dengan membuat seni, baik menggambar, melukis, memahat, mendesain, fotografi, pembuatan film, atau cara ekspresi kreatif lainnya dalam media fisik atau digital. Penampil harus merujuk pada profesi Penghibur.
 
-**Kekayaan**: Berapa pun, tetapi biasanya Miskin atau Rata-rata.
+**Kekayaan**: Apa pun, tetapi biasanya Miskin atau Rata-rata.
 
-**Skill**: Dua Skill Seni apa pun, Kerajinan apa pun, Intuisi, satu Skill Pengetahuan yang sesuai, Bahasa (Lainnya), Bahasa (Sendiri), Mendengarkan, Riset, Melihat.
+**Skill**: Dua Skill Seni apa pun, Kerajinan apa pun, Intuisi, satu Skill Pengetahuan yang sesuai, Bahasa (Lainnya), Bahasa (Sendiri), Mendengar, Riset, Melihat.
 
 #### Pembunuh
 
@@ -728,33 +729,33 @@ Sebagai pembunuh profesional berdarah dingin, kematian adalah perdagangan Anda. 
 
 **Kekayaan**: Rata-rata atau Makmur. Anda juga mungkin memiliki berbagai macam senjata dan identitas palsu, sesuai dengan latar.
 
-**Skill**: Menghindar, Senyap, Mendengarkan, Melihat, Menyelundupkan, dan lima dari berikut ini sesuai dengan latar: Bela Diri, Menyamar, Mengemudi, Elektronik, Bergulat, Senjata Api (apa pun), Manipulasi Halus, Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Jarak Jauh (apa pun), Menunggang, Melempar, Melacak.
+**Skill**: Menghindar, Menyelundupkan, Mendengar, Melihat, Senyap, dan lima dari berikut ini sesuai dengan latar: Bela Diri, Menyamar, Mengemudi, Elektronik, Bergulat, Senjata Api (apa pun), Manipulasi Halus, Seni Bela Diri, Senjata Jarak Dekat (apa pun), Senjata Jarak Jauh (apa pun), Menunggang, Melempar, Melacak.
 
 #### Atlet
 
-Baik profesional maupun amatir, disponsori negara atau masih sekolah, Anda unggul dalam gaya olahraga atau latihan, mengasah tubuh dan tekad Anda untuk kompetisi atletik solo atau tim.
+Baik profesional maupun amatir, disponsori negara atau masih di sekolah, Anda unggul dalam gaya olahraga atau latihan, mengasah tubuh dan tekad Anda untuk kompetisi atletik solo atau tim.
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata atau Makmur.
 
-**Skill:** Memanjat, Menghindar, Melompat, Menyelundupkan, Melempar dan pilih lima dari berikut ini sesuai dengan latar dan olahraga: Bela Diri, Pertolongan Pertama, Bergulat, Intuisi, Mendengarkan, Seni Bela Diri, Melihat, Menunggang, Berenang.
+**Skill:** Memanjat, Menghindar, Melompat, Senyap, Melempar dan pilih lima dari berikut ini sesuai dengan latar dan olahraga: Bela Diri, Pertolongan Pertama, Bergulat, Intuisi, Mendengar, Seni Bela Diri, Melihat, Menunggang, Berenang.
 
 #### Pengemis
 
-Anda bertahan hidup dengan mengemis uang, makanan, dan kebutuhan lainnya. Anda mungkin menyebut diri Anda gelandangan, tunawisma, atau pengembara. Mungkin Anda mengalami nasib buruk, berasal dari kelompok yang didiskriminasi, memiliki masa lalu kriminal yang tidak bisa Anda hindari, atau kegilaan atau penyalahgunaan zat membuat Anda dalam keadaan ini.
+Anda bertahan hidup dengan meminta uang, makanan, dan kebutuhan lainnya. Anda mungkin menyebut diri Anda gelandangan, tunawisma, atau pengembara. Mungkin Anda mengalami nasib buruk, termasuk dalam kelompok yang didiskriminasi, memiliki masa lalu kriminal yang tidak bisa Anda hindari, atau kegilaan atau penyalahgunaan zat mendorong Anda ke kondisi ini.
 
 **Kekayaan:** Melarat, meskipun beberapa pengemis sebenarnya Miskin dan hanya berpura-pura dalam kondisi yang lebih buruk.
 
-**Skill:** Menawar, Menipu, Menyelundupkan, Intuisi, Pengetahuan (Lokal: area lokal), Mendengarkan, Mempengaruhi, Sulap Tangan, Melihat, Senyap.
+**Skill:** Menawar, Membujuk (Fast Talk), Menyelundupkan, Intuisi, Pengetahuan (Wilayah: area lokal), Mendengar, Mempengaruhi, Kecekatan Tangan, Melihat, Senyap.
 
-#### Petugas Administrasi
+#### Juru Tulis
 
-Anda menghabiskan hari-hari Anda di meja, biasanya bekerja di bidang keuangan. Skill profesional ini bisa menjadi tempat di mana Anda berurusan dengan pelanggan, seperti akuntan atau karyawan bergaji di perusahaan, pemerintah, atau organisasi lain.
+Anda menghabiskan hari-hari Anda di depan meja, biasanya bekerja di bidang keuangan. Profesi ini bisa berupa profesi di mana Anda berurusan dengan pelanggan, seperti akuntan atau karyawan bergaji di perusahaan, pemerintah, atau organisasi lain.
 
 **Kekayaan:** Rata-rata.
 
-**Skill:** Menawar, Adat Istiadat, Pengetahuan (Akuntansi), Pengetahuan (Hukum), satu Pengetahuan lainnya, Bahasa (Sendiri), Mempengaruhi, Riset, Status, dan baik Skill Teknis (Penggunaan Komputer) atau Literasi, sesuai dengan era.#### Teknik Komputer
+**Skill:** Menawar, Etiket, Pengetahuan (Akuntansi), Pengetahuan (Hukum), satu Pengetahuan lainnya, Bahasa (Sendiri), Mempengaruhi, Riset, Status, dan baik Skill Teknis (Penggunaan Komputer) atau Literasi, sesuai era.#### Teknologi Komputer
 
-Anda bisa jadi seorang insinyur perangkat lunak korporat atau peretas gelap. Alternatifnya, Anda bisa saja bekerja di salah satu dari sekian banyak bidang pengembangan perangkat lunak. Sebagian besar hidup Anda dihabiskan dengan berinteraksi dengan komputer, sering kali terhubung ke jaringan informasi dunia. Baris kode, data, dan aset virtual lainnya terasa sama nyata bagi Anda seperti halnya alat dan material bagi perajin lainnya.
+Kamu bisa jadi seorang insinyur perangkat lunak perusahaan atau peretas gelap. Alternatifnya, kamu bisa bekerja di berbagai bidang pengembangan perangkat lunak. Sebagian besar hidupmu dihabiskan dengan berinteraksi dengan komputer, sering kali terhubung ke jaringan informasi dunia. Baris kode, data, dan aset virtual lainnya sama nyatanya bagimu seperti alat dan bahan bagi perajin lainnya.
 
 **Kekayaan:** Rata-rata hingga Mapan.
 
@@ -762,103 +763,103 @@ Anda bisa jadi seorang insinyur perangkat lunak korporat atau peretas gelap. Alt
 
 #### Perajin
 
-Entah itu pandai besi desa, peniup kaca, atau pembuat jam tangan yang disetel dengan presisi, Anda membuat barang dagangan dengan tangan dan menjualnya kepada pembeli yang berminat. Anda biasanya bekerja di sebuah toko, entah Anda memilikinya atau sekadar dipekerjakan di sana.
+Baik sebagai pandai besi desa, peniup kaca, atau pembuat jam tangan yang disetel dengan presisi, kamu membuat barang dagangan dengan tangan dan menjualnya kepada pembeli yang berminat. Kamu biasanya bekerja di sebuah toko, entah kamu memilikinya atau sekadar dipekerjakan di sana.
 
 **Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata.
 
-**Skill:** Appraise, salah satu Art, Bargain, dua Skill Craft apa pun, Spot, Research, Status, dan pilih dua dari yang berikut sesuai dengan latar dan perdagangan: Fine Manipulation, Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Heavy Machine.
+**Skill:** Appraise, satu Art apa pun, Bargain, dua Skill Craft apa pun, Spot, Research, Status, dan pilih dua dari berikut ini sesuai dengan latar dan perdagangan: Fine Manipulation, Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Heavy Machine.
 
 #### Kriminal
 
-Anda menjalani hidup dengan melanggar hukum, entah melalui pencurian kekerasan, kejahatan terorganisir, mencopet, atau cara lain untuk mendapatkan barang berharga atau uang secara ilegal.
+Kamu menjalani hidup dengan melanggar hukum, entah melalui pencurian dengan kekerasan, kejahatan terorganisir, mencopet, atau cara lain untuk mendapatkan barang berharga atau uang secara ilegal.
 
 **Kekayaan:** Miskin hingga Mapan, terkadang Kaya, biasanya Rata-rata.
 
-**Skill:** Bargain, Hide, Senyap, Mengemudi atau Menunggang, dan pilih enam dari yang berikut sesuai dengan latar dan raket: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Firearm (apa pun), Gaming, Grapple, Intuisi, Jump, Knowledge (Hukum), Listen, Martial Arts, Melee Weapon (apa pun, biasanya pisau atau pentungan), Persuade, Spot, Throw.
+**Skill:** Bargain, Hide, Senyap, Mengemudi atau Menunggang, dan pilih enam dari berikut ini sesuai dengan latar dan raket: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Firearm (apa pun), Gaming, Grapple, Intuisi, Jump, Knowledge (Hukum), Listen, Martial Arts, Melee Weapon (apa pun, biasanya pisau atau pentungan), Persuade, Spot, Throw.
 
 #### Detektif
 
-Entah dipekerjakan oleh polisi atau bekerja secara pribadi, Anda menggunakan Skill observasi, deduksi, dan kriminologi untuk menentukan siapa yang melakukan kejahatan. Anda mungkin memiliki berbagai macam Skill forensik dan ilmiah atau beroperasi berdasarkan naluri.
+Baik dipekerjakan oleh polisi atau bekerja secara pribadi, kamu menggunakan Skill pengamatan, deduksi, dan kriminologi untuk menentukan siapa yang melakukan kejahatan. Kamu mungkin memiliki berbagai macam Skill forensik dan ilmiah atau beroperasi berdasarkan naluri.
 
 **Kekayaan:** Rata-rata atau Mapan.
 
-**Skill:** Firearm (Pistol), Knowledge (Hukum), Listen, Persuade, Spot, Research, dan pilih empat dari yang berikut sesuai dengan latar dan konsep: Art, Brawl, Disguise, Dodge, Mengemudi, Fast Talk, Firearm (apa pun), Grapple, Hide, Intuisi, Knowledge (apa pun), Language (Lainnya), Language (Sendiri), Medicine, Menunggang, Science (apa pun), Technical (Penggunaan Komputer), Senyap, Track.
+**Skill:** Firearm (Pistol), Knowledge (Hukum), Listen, Persuade, Spot, Research, dan pilih empat dari berikut ini sesuai dengan latar dan konsep: Art, Brawl, Disguise, Dodge, Mengemudi, Fast Talk, Firearm (apa pun), Grapple, Hide, Intuisi, Knowledge (apa pun), Language (Lainnya), Language (Sendiri), Medicine, Menunggang, Science (apa pun), Technical (Penggunaan Komputer), Senyap, Track.
 
 #### Dokter
 
-Anda telah menjadikannya panggilan hidup Anda untuk merawat mereka yang terluka, lemah, sakit, dan kurang sehat, menggunakan Skill diagnostik dan praktik medis yang diperoleh melalui pelatihan dan studi ekstensif. Anda mungkin telah bersumpah untuk membantu siapa pun yang membutuhkannya, tidak peduli apa yang telah mereka lakukan atau siapa mereka.
+Kamu menjadikan panggilan hidupmu untuk merawat yang terluka, lemah, sakit, dan yang tidak sehat, menggunakan Skill diagnostik dan praktik medis yang diperoleh melalui pelatihan dan studi yang ekstensif. Kamu mungkin telah mengambil sumpah untuk membantu siapa pun yang membutuhkannya, tidak peduli apa yang telah mereka lakukan atau siapa mereka.
 
 **Kekayaan:** Rata-rata hingga Mapan.
 
-**Skill:** Pertolongan Pertama, Language (Sendiri), Medicine, Persuade, Research, Spot, dan pilih empat dari yang berikut sesuai dengan latar: Intuisi, Language (Lainnya), Psychotherapy, Science (apa pun), Status.
+**Skill:** Pertolongan Pertama, Language (Sendiri), Medicine, Persuade, Research, Spot, dan pilih empat dari berikut ini sesuai dengan latar: Intuisi, Language (Lainnya), Psychotherapy, Science (apa pun), Status.
 
 #### Insinyur
 
-Anda membangun, memperbaiki, atau memelihara mesin, bekerja di konstruksi, atau menjadi mekanik yang menangani teknologi yang sesuai dengan era dan latar Anda, mulai dari arsitektur batu sederhana hingga sistem penggerak pesawat ruang angkasa yang sangat canggih. Beberapa insinyur memelihara dan mengoperasikan kendaraan besar dan kompleks, mulai dari kapal layar hingga kapal penjelajah luar angkasa, sementara yang lain dipekerjakan dalam pembuatan dan pemeliharaan mesin kepung atau struktur arsitektur.
+Kamu membangun, memperbaiki, atau memelihara mesin, bekerja di bidang konstruksi, atau menjadi mekanik yang menangani teknologi yang sesuai dengan era dan latar belakangmu, mulai dari arsitektur batu sederhana hingga sistem penggerak pesawat ruang angkasa yang sangat canggih. Beberapa insinyur memelihara dan mengoperasikan kendaraan besar dan kompleks, mulai dari kapal layar hingga kapal penjelajah ruang angkasa, sementara yang lain dipekerjakan dalam pembuatan dan pemeliharaan mesin pengepung atau struktur arsitektur.
 
 **Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata.
 
-**Skill:** Craft (apa pun), Repair (Mekanis), Repair (Struktural), Spot, Status, dan lima dari yang berikut, sesuai dengan latar dan konsep: Art (biasanya Drafting), Mengemudi, Heavy Machine, Knowledge (apa pun), Pilot (apa pun), Repair (Listrik), Repair (Elektronik), Science (apa pun), atau Technical (Penggunaan Komputer).
+**Skill:** Craft (apa pun), Repair (Mekanis), Repair (Struktural), Spot, Status, dan lima dari berikut ini, sesuai dengan latar dan konsep: Art (biasanya Menggambar), Mengemudi, Heavy Machine, Knowledge (apa pun), Pilot (apa pun), Repair (Listrik), Repair (Elektronik), Science (apa pun), atau Technical (Penggunaan Komputer).
 
 #### Penghibur
 
-Anda menggunakan bakat pertunjukan Anda untuk menghibur penonton dalam berbagai ukuran, improvisasi atau naskah, secara langsung atau melalui transmisi siaran atau distribusi rekaman.
+Kamu menggunakan bakat pertunjukanmu untuk menghibur penonton dari semua ukuran, improvisasi atau berdasarkan naskah, secara langsung atau melalui transmisi siaran atau distribusi rekaman.
 
-**Kekayaan:** Melarat hingga Kaya, biasanya Rata-rata.
+**Kekayaan:** Sangat Miskin hingga Kaya, biasanya Rata-rata.
 
 **Skill:** Art (apa pun), Disguise, Fast Talk, Fine Manipulation, Intuisi, Language (Lainnya), Language (Sendiri), Listen, Perform (apa pun), Persuade.
 
 #### Penjelajah
 
-Anda telah menjadikan tugas seumur hidup Anda untuk mencari sudut-sudut dunia yang tidak diketahui, pergi ke tempat yang belum pernah dikunjungi siapa pun sebelumnya, dan membawa kembali pengetahuan tentang apa yang telah Anda temukan, baik demi kejayaan atau atas nama penemuan.
+Kamu telah menjadikan pekerjaan hidupmu untuk mencari sudut-sudut dunia yang tidak diketahui, pergi ke tempat yang belum pernah dikunjungi orang sebelumnya, dan membawa kembali pengetahuan tentang apa yang telah kamu temukan, baik demi kejayaan atau atas nama penemuan.
 
 **Kekayaan:** Mapan atau Kaya.
 
-**Skill:** Climb, Language (Lainnya), Language (Sendiri), Persuade, Research, Spot, dan empat dari yang berikut sesuai dengan latar: Knowledge (Antropologi, Kelompok, Sejarah, Dunia Alam, atau Wilayah), Mengemudi, Fast Talk, Firearm (Pistol, Revolver, atau Senapan), Navigate, Pilot (Pesawat atau Perahu), Menunggang, Science (Geologi), Berenang, Track.
+**Skill:** Climb, Language (Lainnya), Language (Sendiri), Persuade, Research, Spot, dan empat dari berikut ini sesuai dengan latar: Knowledge (Antropologi, Kelompok, Sejarah, Dunia Alami, atau Wilayah), Mengemudi, Fast Talk, Firearm (Pistol, Revolver, atau Senapan), Navigate, Pilot (Pesawat atau Kapal), Menunggang, Science (Geologi), Berenang, Track.
 
 #### Petani
 
-Sebagai petani, Anda tinggal di daerah pedesaan atau daerah yang hampir belum terjamah, mengais rezeki dari tanah melalui bercocok tanam atau menggembala ternak. Ini adalah kehidupan yang keras dengan hari-hari panjang kerja yang melelahkan, tetapi tetap memuaskan.
+Sebagai petani, kamu tinggal di daerah pedesaan atau daerah yang hampir tidak terjamah, mencari penghidupan dari tanah melalui menanam tanaman atau menggembalakan ternak. Ini adalah kehidupan yang keras dengan hari-hari panjang kerja yang melelahkan, tetapi tetap memuaskan.
 
 **Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata.
 
-**Skill:** Bargain, Craft (apa pun), Knowledge (Sejarah Alam), Listen, Spot, dan lima dari yang berikut sesuai dengan latar dan konsep: Brawl, Mengemudi, Firearm (Senapan atau Shotgun), Pertolongan Pertama, Heavy Machine, Knowledge (Dunia Alam), Repair (Mekanis), Menunggang, Science (Biologi, Botani, atau Geologi), Track.
+**Skill:** Bargain, Craft (apa pun), Knowledge (Sejarah Alam), Listen, Spot, dan lima dari berikut ini sesuai dengan latar dan konsep: Brawl, Mengemudi, Firearm (Senapan atau Shotgun), Pertolongan Pertama, Heavy Machine, Knowledge (Dunia Alami), Repair (Mekanis), Menunggang, Science (Biologi, Botani, atau Geologi), Track.
 
 #### Penjudi
 
-Anda bertahan hidup dengan anugerah peluang, atau dengan menipu takdir dalam permainan keberuntungan dan Skill. Mau tak mau, Anda bepergian; berpindah dari satu arena judi ke arena lain, terkadang selangkah lebih maju dari hukum, berharap keberuntungan Anda tidak habis.
+Kamu bertahan hidup dengan keinginan nasib, atau dengan menipu takdir dalam permainan keberuntungan dan Skill. Mau tidak mau, kamu bepergian; melayang dari satu arena perjudian ke arena lain, terkadang selangkah lebih maju dari hukum, berharap keberuntunganmu tidak habis.
 
 **Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata.
 
-**Skill:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Intuisi, Knowledge (Akuntansi), Persuade, Sleight of Hand, Spot.
+**Skill:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Intuisi, Knowledge (Accounting), Persuade, Sleight of Hand, Spot.
 
 #### Penggembala
 
-Anda mencari nafkah dengan mengurus hewan ternak, mengendarai jangkauan terbuka dan merawat kawanan, mencari yang tersesat dan membawanya ke pasar saat waktunya untuk dijual.
+Kamu mencari nafkah dengan merawat hewan ternak, menunggangi padang rumput terbuka dan mengurus kawanan, menemukan yang tersesat dan membawanya ke pasar saat waktunya untuk dijual.
 
-**Kekayaan:** Miskin hingga Rata-rata, sesekali Mapan.
+**Kekayaan:** Miskin hingga Rata-rata, kadang-kadang Mapan.
 
-**Skill:** Craft (biasanya simpul), Firearm (Senapan), Knowledge (Dunia Alam), Knowledge (Wilayah: Jangkauan), Listen, Navigate, Menunggang, Spot, Throw, Track.
+**Skill:** Craft (biasanya simpul), Firearm (Senapan), Knowledge (Dunia Alami), Knowledge (Wilayah: Padang Rumput), Listen, Navigate, Menunggang, Spot, Throw, Track.
 
 #### Pemburu
 
-Entah untuk bertahan hidup atau untuk sensasi berburu, Anda berspesialisasi dalam melacak dan menjebak atau membunuh hewan liar atau makhluk lainnya.
+Baik untuk kelangsungan hidup atau untuk sensasi berburu, kamu berspesialisasi dalam melacak dan menjebak atau membunuh hewan liar atau makhluk lain.
 
-**Kekayaan:** Miskin atau Rata-rata, kecuali pemburu binatang besar atau olahraga, maka Kaya.
+**Kekayaan:** Miskin atau Rata-rata, kecuali pemburu hewan besar atau olahraga, maka Kaya.
 
-**Skill:** Climb, Hide, Listen, Navigate, Spot, Senyap, Track, dan tiga dari yang berikut sesuai dengan latar dan konsep: Firearm (Senapan atau Shotgun), Knowledge (Dunia Alam atau Wilayah), Language (Lainnya), Melee Weapon (biasanya Tombak), Missile Weapon (apa pun), Menunggang.
+**Skill:** Climb, Hide, Listen, Navigate, Spot, Senyap, Track, dan tiga dari berikut ini sesuai dengan latar dan konsep: Firearm (Senapan atau Shotgun), Knowledge (Dunia Alami atau Wilayah), Language (Lainnya), Melee Weapon (biasanya Tombak), Missile Weapon (apa pun), Menunggang.
 
 #### Jurnalis
 
-Entah itu kolumnis untuk koran mingguan, jurnalis web, fotojurnalis, pembawa berita televisi, atau komentator gonzo, Anda mencari nafkah dari liputan dan analisis peristiwa, untuk disiarkan atau didistribusikan di media lain. Ini mungkin datang dengan tingkat ketenaran atau kenodaan.
+Baik sebagai kolumnis untuk koran mingguan, jurnalis web, jurnalis foto, penyiar televisi, atau komentator gonzo, kamu mencari nafkah dari liputan dan analisis peristiwa, untuk disiarkan atau didistribusikan dalam media lain. Ini mungkin datang dengan tingkat ketenaran atau kenodaan.
 
 **Kekayaan:** Rata-rata hingga Mapan.
 
-**Skill:** Fast Talk, Intuisi, Language (Sendiri), Listen, Persuade, Research, Spot, dan tiga dari yang berikut sesuai dengan latar dan konsep: Art (Fotografi), Craft (Fotografi), Disguise, Hide, Knowledge (apa pun), Language (Lainnya), Status, Senyap, Technical (Penggunaan Komputer).
+**Skill:** Fast Talk, Intuisi, Language (Sendiri), Listen, Persuade, Research, Spot, dan tiga dari berikut ini sesuai dengan latar dan konsep: Art (Fotografi), Craft (Fotografi), Disguise, Hide, Knowledge (apa pun), Language (Lainnya), Status, Senyap, Technical (Penggunaan Komputer).
 
 #### Buruh
 
-Anda adalah pekerja kasar, baik di jalur pabrik, di gudang, atau sekadar pekerja keras. Otot dan kemampuan Anda untuk melakukan tugas berulang lebih penting daripada kekuatan otak apa pun yang bisa Anda kerahkan.
+Kamu adalah pekerja kerah biru, baik di jalur pabrik, di gudang, atau hanya kerja berat. Otot dan kemampuanmu untuk melakukan tugas-tugas berulang lebih penting daripada kekuatan otak apa pun yang bisa kamu kerahkan.
 
 **Kekayaan:** Miskin atau Rata-rata.
 
@@ -866,23 +867,23 @@ Anda adalah pekerja kasar, baik di jalur pabrik, di gudang, atau sekadar pekerja
 
 #### Penjaga Hukum
 
-Anda memiliki wewenang dan yurisdiksi untuk menegakkan dan membela hukum, idealnya dalam membela rakyat jelata. Penegakan hukum dan kode etik Anda didukung oleh struktur kekuasaan di komunitas Anda.
+Kamu memiliki otoritas dan yurisdiksi untuk menjunjung tinggi dan membela hukum, idealnya dalam pembelaan masyarakat umum. Penegakan hukum dan kode hukummu didukung oleh struktur kekuasaan di komunitasmu.
 
 **Kekayaan:** Biasanya Rata-rata. Penegak hukum korup terkadang Mapan.
 
-**Skill:** Brawl, Dodge, Fast Talk, Knowledge (Hukum), Listen, Spot, dan empat dari yang berikut, sesuai dengan latar dan konsep: Mengemudi, Firearms (apa pun), Pertolongan Pertama, Grapple, Intuisi, Knowledge (Wilayah atau Kelompok), Language (Lainnya), Martial Arts, Melee Weapon (apa pun), Missile Weapon (apa pun), Pilot (apa pun), Menunggang, Status, Technical (Penggunaan Komputer), Track.
+**Skill:** Brawl, Dodge, Fast Talk, Knowledge (Hukum), Listen, Spot, dan empat dari berikut ini, sesuai dengan latar dan konsep: Mengemudi, Firearms (apa pun), Pertolongan Pertama, Grapple, Intuisi, Knowledge (Wilayah atau Kelompok), Language (Lainnya), Martial Arts, Melee Weapon (apa pun), Missile Weapon (apa pun), Pilot (apa pun), Menunggang, Status, Technical (Penggunaan Komputer), Track.
 
 #### Pengacara
 
-Anda terlatih dalam hukum dan menggunakan sistem hukum untuk menuntut atau membela, atau Anda mewakili kepentingan hukum individu, organisasi, atau pemerintah. Meskipun Anda tidak memiliki wewenang di atas atau di luar warga negara biasa, pengetahuan orang dalam Anda tentang sistem hukum memberi Anda kekuatan yang cukup besar dalam sistem hukum.
+Kamu terlatih dalam hukum dan menggunakan sistem hukum untuk menuntut atau membela, atau kamu mewakili kepentingan hukum individu, organisasi, atau pemerintah. Meskipun kamu tidak memiliki otoritas di atas atau di luar warga negara biasa, pengetahuan mendalammu tentang sistem hukum memberimu kekuatan yang cukup besar dalam sistem hukum.
 
-**Kekayaan:** Melarat, Miskin, Rata-rata, Mapan, Kaya.
+**Kekayaan:** Sangat Miskin, Miskin, Rata-rata, Mapan, Kaya
 
-**Skill:** Bargain, Fast Talk, Intuisi, Knowledge (Hukum), satu Skill Knowledge lainnya, Language (Sendiri), Perform (Orasi), Persuade, Research, Status.
+**Skill:** Bargain, Fast Talk, Intuisi, Knowledge (Hukum), satu Skill Knowledge lainnya, Language (Sendiri), Perform (Pidato), Persuade, Research, Status.
 
 #### Mekanik
 
-Sebagai montir, Anda menghabiskan waktu memelihara, memperbaiki, dan terkadang membangun mesin, kendaraan, atau konstruksi yang lebih kompleks. Anda ahli dengan alat, dan mampu dengan mudah menguraikan masalah atau isu teknis.
+Sebagai "grease-monkey", kamu menghabiskan waktumu untuk merawat, memperbaiki, dan terkadang membangun mesin, kendaraan, atau konstruksi yang lebih kompleks. Kamu pandai dengan peralatan, dan mampu dengan mudah memecahkan masalah teknis atau isu-isu.
 
 **Kekayaan:** Miskin hingga Rata-rata, biasanya Rata-rata.
 
@@ -890,15 +891,15 @@ Sebagai montir, Anda menghabiskan waktu memelihara, memperbaiki, dan terkadang m
 
 #### Pedagang
 
-Anda mencari nafkah dalam ritel atau grosir, membeli sumber daya dengan harga lebih murah dan menjualnya dengan harga lebih mahal. Anda mungkin bekerja di atau memiliki toko, atau Anda mungkin mobile: penjual keliling, penambal keliling, pedagang rempah petualang, atau perwakilan penjualan internasional.
+Kamu mencari nafkah di bidang ritel atau grosir, membeli sumber daya dengan harga lebih murah dan menjualnya dengan harga lebih mahal. Kamu mungkin bekerja di atau memiliki toko, atau kamu mungkin mobile: tenaga penjual keliling, tukang yang mengembara, pedagang rempah petualang, atau perwakilan penjualan internasional.
 
-**Kekayaan:** Rata-rata hingga Kaya, biasanya Mapan. Gamemaster dan pemain Anda harus menentukan apakah karakter memiliki toko atau kapal dagang sendiri.
+**Kekayaan:** Rata-rata hingga Kaya, biasanya Mapan. Gamemaster dan pemainmu harus menentukan apakah karakter memiliki toko atau kapal dagang sendiri.
 
-**Skill:** Appraise, Bargain, Fast Talk, Knowledge (Akuntansi), Knowledge (Bisnis), Persuade, Research, Status, dan dua Skill lainnya sebagai spesialisasi, sesuai dengan latar dan konsep.
+**Skill:** Appraise, Bargain, Fast Talk, Knowledge (Accounting), Knowledge (Bisnis), Persuade, Research, Status, dan dua Skill lainnya sebagai spesialisasi, sesuai dengan latar dan konsep.
 
 #### Bangsawan
 
-Anda lahir dalam kekayaan dan kelas penguasa. Dalam masyarakat yang mengakui perbedaan sosial seperti itu, status Anda sering dikaitkan dengan pangkat dan gelar, tetapi bahkan jika gelar tersebut tidak berarti, Anda tetap mudah dikenali sebagai bagian dari elit. Anda terbiasa dengan gaya hidup yang elegan dan mewah, dan Anda mengenal serta dikenal oleh orang kaya dan kaum kelas atas lainnya di masyarakat.
+Kamu lahir ke dalam kekayaan dan kelas penguasa. Dalam masyarakat yang mengakui perbedaan sosial seperti itu, statusmu sering dikaitkan dengan pangkat dan gelar, tetapi bahkan jika gelar tersebut tidak berarti, kamu masih mudah dikenali sebagai bagian dari elit. Kamu terbiasa dengan gaya hidup yang elegan dan mewah, dan kamu mengenal serta dikenal oleh orang kaya dan kaum kelas atas lainnya di masyarakat.
 
 **Kekayaan:** Mapan hingga Kaya, biasanya Kaya.
 
@@ -906,181 +907,181 @@ Anda lahir dalam kekayaan dan kelas penguasa. Dalam masyarakat yang mengakui per
 
 #### Okultis
 
-Anda adalah seorang pelajar rahasia yang tidak jelas, pengetahuan tersembunyi, dan kekuatan magis, percaya pada pengaruh dan keutamaan kekuatan supranatural. Jika sesuai dengan latar, gamemaster Anda mungkin mengizinkan Anda menggunakan kekuatan (mungkin sihir atau sihir) yang mungkin dipelajari saat menjadi anggota organisasi okultisme atau perkumpulan rahasia.
+Kamu adalah pelajar rahasia yang tidak jelas, pengetahuan tersembunyi, dan kekuatan magis, percaya pada pengaruh dan keutamaan kekuatan supranatural. Jika sesuai dengan latar, gamemastermu mungkin mengizinkanmu menggunakan kekuatan (mungkin sihir atau sihir hitam) yang mungkin dipelajari saat menjadi anggota organisasi okultisme atau masyarakat rahasia.
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Mapan.
 
-**Skill:** Fast Talk, Intuisi, Knowledge (Antropologi), Knowledge (Sejarah), Knowledge (Okultisme), Language (Lainnya), Language (Sendiri), Research, dan dua Skill lainnya sesuai dengan latar, biasanya dari yang berikut: Art (apa pun), Craft (apa pun), Knowledge (Arkeologi), Medicine, Science (apa pun), atau Status.
+**Skill:** Fast Talk, Intuisi, Knowledge (Antropologi), Knowledge (Sejarah), Knowledge (Okultisme), Language (Lainnya), Language (Sendiri), Research, dan dua Skill lainnya sesuai dengan latar, biasanya dari berikut ini: Art (apa pun), Craft (apa pun), Knowledge (Arkeologi), Medicine, Science (apa pun), atau Status.
 
-**Spesial:** Jika sihir ada di latar, Anda mungkin memiliki kekuatan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
+**Spesial:** Jika sihir ada dalam latar, kamu mungkin memiliki kekuatan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
 #### Pilot
 
-Entah di darat, di atau di bawah air, di langit, atau melalui kedalaman ruang angkasa, Anda dilatih dalam memandu dan mengemudikan kendaraan semacam itu, mengarahkannya untuk tujuan komersial, resmi, atau militer. Pekerjaan Anda berkisar dari pilot tempur luar angkasa hingga kapten kapal uap, tergantung pada latar.
+Baik di darat, di atas atau di bawah air, di langit, atau melalui kedalaman ruang angkasa, kamu terlatih dalam memandu dan mengemudikan kendaraan tertentu, mengarahkannya untuk tujuan komersial, resmi, atau militer. Pekerjaanmu berkisar dari pilot tempur luar angkasa hingga kapten kapal uap tramp, tergantung pada latarnya.
 
-**Kekayaan:** Rata-rata hingga Mapan. Jika Anda memiliki kendaraan sendiri, Mapan.
+**Kekayaan:** Rata-rata hingga Mapan. Jika kamu memiliki kendaraan sendiri, Mapan.
 
-**Skill:** Mengemudi, Heavy Machine, Listen, Navigate, Pilot (apa pun), Spot, ditambah empat Skill berikut, sesuai dengan latar: Bargain, Climb, Command, Craft (apa pun), Knowledge (Wilayah), Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Language (Lainnya), Persuade, Science (Fisika), Science (Astronomi), Technical (Penggunaan Komputer).
+**Skill:** Mengemudi, Heavy Machine, Listen, Navigate, Pilot (apa pun), Spot, ditambah empat dari Skill berikut, sesuai dengan latar: Bargain, Climb, Command, Craft (apa pun), Knowledge (Wilayah), Repair (Listrik), Repair (Elektronik), Repair (Mekanis), Language (Lainnya), Persuade, Science (Fisika), Science (Astronomi), Technical (Penggunaan Komputer).
 
 #### Politikus
 
-Anda telah dipilih atau ditunjuk ke posisi wewenang dan mencari nafkah dengan mengambil bagian dalam atau mengarahkan kegiatan pemerintah, baik di tingkat kota atau lebih besar. Anda bisa menjadi hakim abad pertengahan atau senator galaksi, tergantung pada latar.
+Kamu telah terpilih atau ditunjuk ke posisi otoritas dan mencari nafkah dengan mengambil bagian dalam atau mengarahkan kegiatan pemerintah, baik di tingkat kota atau lebih besar. Kamu bisa menjadi hakim abad pertengahan atau senator galaksi, tergantung pada latarnya.
 
 **Kekayaan:** Mapan hingga Kaya, biasanya Mapan.
 
-**Skill:** Bargain, Etiquette, Fast Talk, Intuisi, Knowledge (Hukum), Persuade, Status, ditambah tiga Skill lainnya sesuai dengan latar, biasanya dari yang berikut: Knowledge (Akuntansi, Kelompok, Sejarah, atau Wilayah), Listen, Language (Lainnya), Language (Sendiri), Perform (Orasi), Research.
+**Skill:** Bargain, Etiquette, Fast Talk, Intuisi, Knowledge (Hukum), Persuade, Status, ditambah tiga Skill lainnya sesuai dengan latar, biasanya dari berikut ini: Knowledge (Accounting, Kelompok, Sejarah, atau Wilayah), Listen, Language (Lainnya), Language (Sendiri), Perform (Pidato), Research.
 
 #### Pendeta
 
-Iman dan kepercayaan Anda pada yang ilahi telah membawa Anda pada panggilan imamat, dan Anda menghabiskan waktu Anda berkhotbah atau dalam kegiatan yang sesuai dengan ibadah tuhan (atau dewa-dewa) Anda. Anda bisa menjadi biarawan asketik atau penginjil televisi, tergantung pada latar.
+Iman dan kepercayaanmu pada yang ilahi telah membawamu pada panggilan imamat, dan kamu menghabiskan waktumu berkhotbah atau dalam kegiatan yang sesuai dengan penyembahan Tuhanmu (atau dewa-dewa). Kamu bisa menjadi biarawan asketis atau penginjil televisi, tergantung pada latarnya.
 
-**Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata, mungkin Kaya jika Anda adalah pemimpin agama dari sekelompok besar penyembah, atas kebijaksanaan gamemaster Anda.
+**Kekayaan:** Miskin hingga Mapan, biasanya Rata-rata, mungkin Kaya jika kamu adalah pemimpin agama dari sekelompok besar pemuja, atas kebijakan gamemastermu.
 
-**Skill:** Fast Talk, Intuisi, Knowledge (Sejarah), Knowledge (Filsafat), Knowledge (Agama), Language (Sendiri), Perform (Ritual), Persuade, dan dua dari yang berikut: Knowledge (Okultisme), Language (Lainnya), Listen, Literasi, Perform (Orasi), Research, Status, Teach.
+**Skill:** Fast Talk, Intuisi, Knowledge (Sejarah), Knowledge (Filsafat), Knowledge (Agama), Language (Sendiri), Perform (Ritual), Persuade, dan dua dari berikut ini: Knowledge (Okultisme), Language (Lainnya), Listen, Literasi, Perform (Pidato), Research, Status, Teach.
 
-**Spesial:** Afiliasi Anda dengan iman atau sekte mungkin memberi Anda akses ke kekuatan magis atau supranatural. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
+**Spesial:** Afiliasimu dengan keyakinan atau kultus dapat memberimu akses ke kekuatan magis atau supranatural. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
 #### Pelaut
 
-Anda mengarungi gelombang laut, bekerja keras untuk menjaga integritas kapal Anda, entah sebagai bajak laut, perwira angkatan laut, atau pedagang dunia kuno.
+Kamu mengarungi gelombang laut, bekerja keras untuk menjaga integritas kapalmu, baik sebagai bajak laut, perwira angkatan laut, atau pedagang dunia kuno.
 
 **Kekayaan:** Miskin atau Rata-rata, biasanya Rata-rata.
 
-**Skill:** Climb, Craft (apa pun), Dodge, Grapple, Navigate, Pilot (Perahu), Berenang, dan tiga dari yang berikut: Artillery (apa pun, biasanya di atas kapal), Command, Language (Lainnya), Listen, Repair (Mekanis), Repair (Struktural), Spot.
+**Skill:** Climb, Craft (apa pun), Dodge, Grapple, Navigate, Pilot (Kapal), Berenang, dan tiga dari berikut ini: Artillery (apa pun, biasanya di atas kapal), Command, Language (Lainnya), Listen, Repair (Mekanis), Repair (Struktural), Spot.
 
 #### Cendekiawan
 
-Studi dan pembelajaran mendefinisikan hidup Anda, dan Anda berspesialisasi dalam satu atau lebih bidang pengetahuan, dengan penuh semangat mencari semua yang perlu diketahui dalam domain intelektual Anda. Anda mungkin mengajarkan pengetahuan ini kepada siswa atau menimbunnya untuk penggunaan Anda sendiri.
+Studi dan pembelajaran mendefinisikan hidupmu, dan kamu berspesialisasi dalam satu atau lebih bidang pengetahuan, dengan penuh semangat mencari semua yang perlu diketahui dalam domain intelektualmu. Kamu mungkin mengajarkan pengetahuan ini kepada siswa atau menyimpannya untuk penggunaanmu sendiri.
 
 **Kekayaan:** Rata-rata atau Mapan, biasanya Rata-rata.
 
-**Skill:** Language (Lainnya), Language (Sendiri), Persuade, Research, Teach, dan pilih lima Skill Knowledge atau Science yang sesuai dengan latar dan terkait dengan bidang studi Anda.
+**Skill:** Language (Lainnya), Language (Sendiri), Persuade, Research, Teach, dan pilih lima Skill Knowledge atau Science yang sesuai dengan latar dan terkait dengan bidang studimu.
 
 #### Ilmuwan
 
-Entah dipekerjakan oleh perusahaan, lembaga pendidikan, pemerintah, atau bekerja sendiri, Anda menjelajahi bidang sains melalui spekulasi, eksperimen, dan observasi yang ketat, mengulangi proses tersebut dan menyempurnakan dasar pengetahuan.
+Baik dipekerjakan oleh perusahaan, institusi pendidikan, pemerintah, atau bekerja sendiri, kamu menjelajahi bidang sains melalui spekulasi, eksperimen, dan pengamatan yang ketat, mengulangi proses dan menyempurnakan basis pengetahuan.
 
 **Kekayaan:** Rata-rata atau Mapan, biasanya Mapan.
 
-**Skill:** Craft (apa pun), Persuade, Research, Status, Technical (Penggunaan Komputer) atau Heavy Machine, dan lima Knowledge atau Science yang sesuai dengan latar dan terkait dengan bidang studi Anda.
+**Skill:** Craft (apa pun), Persuade, Research, Status, Technical (Penggunaan Komputer) atau Heavy Machine, dan lima Knowledge atau Science yang sesuai dengan latar dan terkait dengan bidang studimu.
 
 #### Pelayan
 
-Anda dipekerjakan sebagai pembantu atau pelayan, mengurus urusan rumah tangga dan kebutuhan domestik dari majikan yang mapan. Anda mungkin seorang pelayan pria, ajudan seorang jenderal, atau Anda mungkin seorang pelayan dapur di kastil yang luas.
+Kamu dipekerjakan sebagai pembantu atau pelayan, mengurusi urusan rumah tangga dan kebutuhan domestik majikan yang mapan. Kamu mungkin menjadi pelayan pria seorang bangsawan, ajudan seorang jenderal, atau kamu bisa menjadi pelayan dapur di kastil yang luas.
 
-**Kekayaan:** Miskin hingga Rata-rata, meskipun terkadang pelayan memiliki akses terbatas ke gaya hidup majikan mereka yang Mapan atau Kaya, atas persetujuan gamemaster Anda.
+**Kekayaan:** Miskin hingga Rata-rata, meskipun terkadang pelayan memiliki akses terbatas ke gaya hidup majikan mereka yang Mapan atau Kaya, atas persetujuan gamemastermu.
 
-**Skill:** Craft (apa pun), Etiquette, Hide, Language (Sendiri), Listen, Senyap, dan pilih empat dari yang berikut sebagai spesialisasi pribadi, sesuai dengan latar dan konsep: Bargain, Mengemudi, Pertolongan Pertama, Intuisi, Knowledge (Akuntansi), Language (Lainnya), Persuade.
+**Skill:** Craft (apa pun), Etiquette, Hide, Language (Sendiri), Listen, Senyap, dan pilih empat dari berikut ini sebagai spesialisasi pribadi, sesuai dengan latar dan konsep: Bargain, Mengemudi, Pertolongan Pertama, Intuisi, Knowledge (Accounting), Language (Lainnya), Persuade.
 
 #### Dukun
 
-Anda adalah penyihir suku, terampil dalam menghubungi dunia roh dan memberikan saran serta bantuan kepada kepala suku dan anggota suku Anda. Anda memiliki pengetahuan rahasia, yang diturunkan dari mentor ke siswa, dan Anda mungkin memiliki kemampuan untuk menggunakan sihir. Sebagian besar dukun adalah anggota budaya yang lebih primitif, meskipun ada beberapa praktisi modern.
+Kamu adalah penyihir suku, terampil dalam menghubungi dunia roh dan memberikan saran serta bantuan kepada kepala suku dan anggota sukumu. Kamu memiliki pengetahuan rahasia, yang diturunkan dari mentor ke siswa, dan kamu mungkin memiliki kemampuan untuk menggunakan sihir. Sebagian besar dukun adalah anggota budaya yang lebih primitif, meskipun ada beberapa praktisi modern.
 
-**Kekayaan:** Miskin atau Rata-rata, pada tingkat keberadaan suku.
+**Kekayaan:** Miskin atau Rata-rata, pada eksistensi tingkat suku.
 
-**Skill:** Art (apa pun), Intuisi, Knowledge (Sejarah), Knowledge (Okultisme), Language (Sendiri), Listen, Perform (Ritual), Persuade, dan dua dari yang berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Fast Talk, Pertolongan Pertama, Hide, Knowledge (Antropologi), Language (Lainnya), Medicine, Science (Farmasi), atau Status.
+**Skill:** Art (apa pun), Intuisi, Knowledge (Sejarah), Knowledge (Okultisme), Language (Sendiri), Listen, Perform (Ritual), Persuade, dan dua dari berikut ini sebagai spesialisasi, sesuai dengan latar dan konsep: Craft (apa pun), Fast Talk, Pertolongan Pertama, Hide, Knowledge (Antropologi), Language (Lainnya), Medicine, Science (Farmasi), atau Status.
 
-**Spesial:** Tergantung pada latar, Anda mungkin dapat menggunakan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
+**Spesial:** Tergantung pada latar, kamu mungkin bisa menggunakan sihir. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
 #### Budak
 
-Ditangkap dan diperbudak atau lahir dalam penangkaran, Anda adalah budak atau pelayan terikat kepada majikan individu, atau kepada organisasi atau agama. Anda mungkin diperlakukan dengan baik: kepala staf rumah tangga, atau mungkin Anda dipukuli dan dihukum secara teratur serta hidup dalam ketakutan. Untuk diklasifikasikan sebagai budak, diasumsikan bahwa sebagian besar hidup Anda telah dihabiskan sebagai budak. Jika Anda baru saja ditangkap dan diperbudak, gunakan profesi Anda sebelumnya.
+Ditangkap dan diperbudak atau lahir dalam penawanan, kamu adalah budak atau pelayan kontrak bagi majikan individu, atau bagi organisasi atau agama. Kamu mungkin diperlakukan dengan baik: kepala staf rumah tangga, atau mungkin kamu dipukuli dan dihukum secara teratur serta hidup dalam ketakutan. Untuk diklasifikasikan sebagai budak, diasumsikan bahwa sebagian besar hidupmu telah dihabiskan sebagai budak. Jika kamu baru saja ditangkap dan diperbudak, gunakan profesimu sebelumnya sebagai gantinya.
 
-**Kekayaan:** Melarat hingga Miskin, meskipun terkadang budak memiliki akses terbatas ke gaya hidup pemilik mereka yang Mapan atau Kaya, atas persetujuan gamemaster Anda.
+**Kekayaan:** Sangat Miskin hingga Miskin, meskipun terkadang budak memiliki akses terbatas ke gaya hidup pemiliknya yang Mapan atau Kaya, atas persetujuan gamemastermu.
 
-**Skill:** Craft (apa pun), Dodge, Etiquette, Fast Talk, Hide, Intuisi, Language (Lainnya), Listen, Senyap, dan satu Skill lainnya sebagai spesialisasi pekerjaan.
+**Skill:** Craft (apa pun), Dodge, Etiquette, Fast Talk, Hide, Intuisi, Language (Lainnya), Listen, Senyap, dan satu Skill lainnya sebagai spesialisasi okupasi.
 
 **Catatan:** Profesi ini harus dipilih dengan kepekaan terhadap pemain lain dan gamemaster, dan disarankan agar karakter apa pun dengan profesi ini telah melarikan diri atau dibebaskan saat permainan dimulai.
 
 #### Tentara
 
-Entah melalui pendaftaran atau wajib militer, Anda adalah tentara profesional, yang ditugaskan untuk membela negara atau organisasi Anda. Anda mungkin seorang tentara bayaran, atau Anda mungkin benar-benar percaya pada tujuan yang Anda perjuangkan. Either way, Anda telah menerima pelatihan bela diri, dan bekerja dalam pasukan tentara lain, melakukan apa yang diperintahkan.
+Baik melalui pendaftaran atau wajib militer, kamu adalah tentara profesional, yang dibebankan dengan pertahanan negaramu atau organisasi. Kamu mungkin seorang tentara bayaran atau "sellsword", atau kamu mungkin benar-benar percaya pada tujuan yang kamu perjuangkan. Bagaimanapun, kamu telah menerima pelatihan militer, dan bekerja dalam regu tentara lain, melakukan apa yang diperintahkan.
 
-**Kekayaan:** Miskin atau Rata-rata, tetapi sering diberi akses ke peralatan mahal atau yang dilarang.
+**Kekayaan:** Miskin atau Rata-rata, tetapi sering diberi akses ke peralatan mahal atau peralatan yang dilarang.
 
-**Skill:** Brawl, Climb, Dodge, Pertolongan Pertama, dan enam dari yang berikut, sesuai dengan latar: Artillery, Command, Mengemudi, Firearm (biasanya Senapan, tapi apa pun), Grapple, Heavy Weapon (apa pun), Hide, Language (Lainnya), Listen, Jump, Medicine, Melee Weapon (apa pun), Missile Weapon (apa pun), Navigate, Repair (Mekanis), Menunggang, Spot, Senyap, Throw.
+**Skill:** Brawl, Climb, Dodge, Pertolongan Pertama, dan enam dari berikut ini, sesuai dengan latar: Artillery, Command, Mengemudi, Firearm (biasanya Senapan, tapi apa pun), Grapple, Heavy Weapon (apa pun), Hide, Language (Lainnya), Listen, Jump, Medicine, Melee Weapon (apa pun), Missile Weapon (apa pun), Navigate, Repair (Mekanis), Menunggang, Spot, Senyap, Throw
 
 #### Mata-mata
 
-Anda terampil dalam tipu daya dan infiltrasi, memasuki negara atau organisasi secara tertutup atau rahasia, mencari tahu rahasia mereka, dan melaporkannya kembali kepada musuh atau pihak yang berkepentingan.
+Kamu terampil dalam tipu daya dan infiltrasi, memasuki negara atau organisasi di bawah kedok atau secara rahasia, mencari tahu rahasia mereka, dan melaporkannya kembali ke musuh atau pihak yang berkepentingan.
 
 **Kekayaan:** Rata-rata atau Mapan, tergantung pada latar.
 
-**Skill:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Senyap, dan tiga dari yang berikut, sesuai dengan latar: Art (Fotografi), Brawl, Disguise, Etiquette, Firearm (apa pun), Grapple, Knowledge (apa pun), Language (Lainnya), Language (Sendiri), Martial Arts, Navigate, Pilot (apa pun), Psychology, Repair (Elektronik), Repair (Mekanis), Menunggang, Berenang, Technical (Penggunaan Komputer), Throw, Track.#### Pelajar
+**Skill:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Senyap, dan tiga dari berikut ini, sesuai dengan latar: Art (Fotografi), Brawl, Disguise, Etiquette, Firearm (apa pun), Grapple, Knowledge (apa pun), Language (Lainnya), Language (Sendiri), Martial Arts, Navigate, Pilot (apa pun), Psychology, Repair (Elektronik), Repair (Mekanis), Menunggang, Berenang, Technical (Penggunaan Komputer), Throw, Track.#### Pelajar
 
-Kamu menghabiskan waktumu untuk belajar, baik sebagai pelajar umum atau murid dari seorang guru. Kurikulummu mungkin di universitas bergengsi, akademi bela diri, sekolah penyihir, atau di institusi swasta dan eksklusif lainnya.
+Kamu menghabiskan waktumu untuk belajar, baik sebagai pelajar umum atau murid dari seorang guru. Kurikulummu mungkin di universitas bergengsi, akademi bela diri, sekolah penyihir, atau di institusi swasta dan eksklusif.
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata.
 
-**Skill:** Bahasa (Sendiri), Riset, dan pilih delapan Skill lainnya sebagai bidang studi, sesuai dengan latar dan konsep. Pilihan umum berasal dari daftar berikut: Seni (apa saja), Kriya (apa saja), Pertolongan Pertama, Intuisi, Pengetahuan (apa saja), Bahasa (Lainnya), Mendengar, Kedokteran, Perbaikan (apa saja), Pertunjukan, Mempengaruhi, Psikoterapi, Sains (apa saja), Teknis (Penggunaan Komputer), dan satu Skill Fisik (jika terlibat dalam Atletik).
+**Skill:** Bahasa (Sendiri), Riset, dan pilih delapan Skill lainnya sebagai program studi, sesuai dengan latar dan konsep. Pilihan umum yang tersedia adalah: Seni (apa pun), Kerajinan (apa pun), Pertolongan Pertama, Intuisi, Pengetahuan (apa pun), Bahasa (Lainnya), Mendengar, Kedokteran, Perbaikan (apa pun), Pertunjukan, Mempengaruhi, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer), dan satu Skill Fisik (jika terlibat dalam Atletik).
 
-**Spesial:** Pelajar seni gaib mungkin memiliki akses ke sihir atau sihir hitam, atau kamu mungkin berada di sekolah untuk membantumu mengendalikan kekuatan super, mutasi, atau kemampuan psikis. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
+**Spesial:** Pelajar seni mistis mungkin memiliki akses ke sihir atau ilmu gaib, atau kamu mungkin berada di sekolah untuk membantumu mengendalikan kekuatan super, mutasi, atau kemampuan psikis. Lihat Bab Empat: Kekuatan untuk informasi lebih lanjut.
 
 #### Guru
 
-Kamu adalah instruktur dari satu atau lebih mata pelajaran, mengajar kelompok atau membimbing satu murid. Baik dipekerjakan oleh universitas, sekolah menengah, atau institusi pendidikan lainnya, kamu mengajar murid dalam lingkungan akademis menuju standar pencapaian tertentu.
+Kamu adalah pengajar dari satu atau lebih mata pelajaran, mengajar kelompok atau membimbing satu siswa. Baik dipekerjakan oleh universitas, sekolah menengah, atau institusi pendidikan lainnya, kamu menginstruksikan siswa dalam lingkungan akademik menuju standar pencapaian tertentu.
 
-**Kekayaan:** Rata-rata atau Mapan, biasanya Rata-rata.
+**Kekayaan:** Rata-rata atau Makmur, biasanya Rata-rata.
 
-**Skill:** Bahasa (Sendiri), Mempengaruhi, Riset, Pangkat, Mengajar, dan pilih lima Skill lainnya sebagai bidang keahlian, sesuai dengan latar dan konsep. Pilihan umum berasal dari daftar berikut: Seni (apa saja), Kriya (apa saja), Pertolongan Pertama, Intuisi, Pengetahuan (apa saja), Bahasa (Lainnya), Mendengar, Kedokteran, Perbaikan (apa saja), Pertunjukan, Mempengaruhi, Psikoterapi, Sains (apa saja), Teknis (Penggunaan Komputer).
+**Skill:** Bahasa (Sendiri), Mempengaruhi, Riset, Status, Mengajar, dan pilih lima Skill lainnya sebagai bidang keahlian, sesuai dengan latar dan konsep. Pilihan umum yang tersedia adalah: Seni (apa pun), Kerajinan (apa pun), Pertolongan Pertama, Intuisi, Pengetahuan (apa pun), Bahasa (Lainnya), Mendengar, Kedokteran, Perbaikan (apa pun), Pertunjukan, Mempengaruhi, Psikoterapi, Sains (apa pun), Teknis (Penggunaan Komputer).
 
 #### Teknisi
 
-Terspesialisasi dalam merawat, memperbaiki, dan menggunakan mesin kompleks, komputer, atau elektronik lainnya, kamu sangat mampu menangani sistem hasil rekayasa. Kamu tidak merancang mesin-mesin ini, meskipun kamu mungkin lebih mengenalnya daripada penciptanya sendiri.
+Spesialis dalam memelihara, memperbaiki, dan menggunakan mesin kompleks, komputer, atau elektronik lainnya, kamu sangat mampu menangani sistem hasil rekayasa. Kamu tidak merancang mesin-mesin ini, meskipun kamu mungkin lebih mengenalnya daripada penciptanya sendiri.
 
-**Kekayaan:** Rata-rata atau Mapan.
+**Kekayaan:** Rata-rata atau Makmur.
 
-**Skill:** Manipulasi Halus, Mesin Berat, Mendengar, Perbaikan (apa saja), Sains (Fisika), Riset, Menilik, Teknis (Penggunaan Komputer), dan dua Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Kriya (apa saja), Mengemudi, Pilot (apa saja).
+**Skill:** Manipulasi Halus, Mesin Berat, Mendengar, Perbaikan (apa pun), Sains (Fisika), Riset, Menilik, Teknis (Penggunaan Komputer), dan dua Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Kerajinan (apa pun), Mengemudi, Pilot (apa pun).
 
 #### Pencuri
 
-Kamu mengambil apa yang kamu inginkan, baik untuk bertahan hidup atau karena hal itu menarik bagimu. Kamu bisa jadi seorang pencopet rendahan, bandit ternama, atau pencuri perhiasan internasional yang glamor. Kamu melanggar hukum untuk mencuri, baik dengan bersenjata, melalui tipu daya yang cerdik, Senyap, atau kombinasi ketiganya.
+Kamu mengambil apa yang kamu inginkan, baik untuk bertahan hidup atau karena itu menarik bagimu. Kamu bisa jadi seorang pencopet rendahan, bandit terkenal, atau pencuri perhiasan internasional yang glamor. Kamu menentang hukum untuk mencuri, baik dengan bersenjata, melalui tipu daya yang cerdik, Senyap, atau kombinasi ketiganya.
 
-**Kekayaan:** Apa saja, tergantung persetujuan gamemaster.
+**Kekayaan:** Apa pun, tergantung persetujuan gamemaster.
 
-**Skill:** Menilai, Menghindar, Bicara Cepat, Bersembunyi, Senyap, dan lima Skill lainnya dari daftar berikut, sesuai dengan latar dan konsep: Menawar, Bela Diri, Memanjat, Menyamar, Manipulasi Halus, Senjata Api (Pistol, Revolver, atau Shotgun), Bergulat, Intuisi, Mendengar, Melompat, Pengetahuan (Hukum), Mempengaruhi, Perbaikan (Mekanikal), atau Menilik.
+**Skill:** Menilai, Menghindar, Bicara Cepat, Bersembunyi, Senyap, dan lima Skill lainnya dari daftar berikut, sesuai dengan latar dan konsep: Tawar-menawar, Bela Diri, Memanjat, Menyamar, Manipulasi Halus, Senjata Api (Pistol, Revolver, atau Shotgun), Bergulat, Intuisi, Mendengar, Melompat, Pengetahuan (Hukum), Mempengaruhi, Perbaikan (Mekanik), atau Menilik.
 
 #### Anggota Suku
 
 Berasal dari budaya primitif, kamu adalah anggota suku yang diterima, dan tidak terbiasa dengan sebagian besar elemen peradaban. Kamu bertahan hidup dengan berburu atau mencari makan, dan duniamu sangat kecil: desamu dan lingkungan sekitarnya.
 
-**Kekayaan:** Melarat hingga Miskin, dalam taraf kehidupan kesukuan. Atau kamu mungkin bangsawan suku, dengan tingkat kekayaan yang lebih tinggi, tergantung pada Pangkat-mu.
+**Kekayaan:** Melarat hingga Miskin, dalam taraf kehidupan kesukuan. Atau kamu mungkin seorang bangsawan suku, dengan tingkat kekayaan yang lebih tinggi, tergantung pada Status-mu.
 
-**Skill:** Kriya (apa saja), Menghindar, Bergulat, Bersembunyi, Pengetahuan (Sejarah Alam), Menilik, Melempar, Melacak, dan dua dari Skill berikut, sesuai dengan latar: Bela Diri, Memanjat, Pertolongan Pertama, Mendengar, Melompat, Pengetahuan (Okultisme), Senjata Jarak Dekat (biasanya Tombak atau Pentungan), Senjata Proyektil (Busur), Bahasa (Lainnya), Menunggang, Senyap, Berenang.
+**Skill:** Kerajinan (apa pun), Menghindar, Bergulat, Bersembunyi, Pengetahuan (Sejarah Alam), Menilik, Melempar, Melacak, dan dua dari Skill berikut, sesuai dengan latar: Bela Diri, Memanjat, Pertolongan Pertama, Mendengar, Melompat, Pengetahuan (Okultisme), Senjata Jarak Dekat (biasanya Tombak atau Pentungan), Senjata Jarak Jauh (Busur), Bahasa (Lainnya), Menunggang, Senyap, Berenang.
 
 #### Prajurit
 
-Kamu terspesialisasi dalam pertarungan individu, bertahan hidup dengan refleks dan Skill senjata. Mungkin kamu mematuhi kode kehormatan seperti kesatriaan atau bushido, atau kamu adalah tentara bayaran atau petualang barbar. Prajurit bertarung dalam kelompok atau regu, sementara prajurit (warrior) hanya memedulikan kehebatan mereka sendiri.
+Kamu berspesialisasi dalam pertempuran individu, bertahan hidup dengan refleks dan Skill senjata yang kamu miliki. Mungkin kamu menganut kode kehormatan seperti kesatria atau bushido, atau kamu adalah tentara bayaran atau petualang barbar. Tentara bertarung dalam kelompok atau regu, sementara prajurit hanya memikirkan kehebatan mereka sendiri.
 
 **Kekayaan:** Melarat hingga Rata-rata, biasanya Miskin.
 
-**Skill:** Bela Diri, Menghindar, Bergulat, Senjata Jarak Dekat (apa saja), Senjata Proyektil (apa saja), dan lima Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Memanjat, Senjata Api (apa saja), Bersembunyi, Mendengar, Melompat, Bahasa (Lainnya), Bela Diri, Menunggang, Menilik, Senyap, Berenang, Melempar, Melacak.
+**Skill:** Bela Diri, Menghindar, Bergulat, Senjata Jarak Dekat (apa pun), Senjata Jarak Jauh (apa pun), dan lima Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar dan konsep: Memanjat, Senjata Api (apa pun), Bersembunyi, Mendengar, Melompat, Bahasa (Lainnya), Bela Diri, Menunggang, Menilik, Senyap, Berenang, Melempar, Melacak.
 
 #### Penyihir
 
-Kamu memahami dan dapat menggunakan sihir atau sihir hitam. Melalui mantra dan gerakan, kamu dapat menghasilkan efek magis, dan kamu mendedikasikan dirimu untuk meningkatkan serta menambah repertoar mantra dan akses pribadimu ke poin sihir.
+Kamu memahami dan bisa menggunakan sihir atau ilmu gaib. Melalui mantra dan gerakan, kamu dapat menghasilkan efek magis, dan kamu mendedikasikan dirimu untuk memperbaiki dan menambah repertoar mantra serta akses pribadimu ke poin daya.
 
-**Kekayaan:** Miskin hingga Kaya, biasanya Mapan.
+**Kekayaan:** Miskin hingga Kaya, biasanya Makmur.
 
-**Skill:** Kriya (apa saja), Intuisi, Pengetahuan (Okultisme), dua Skill Pengetahuan (apa saja) lainnya, Bahasa (Lainnya), Mendengar, Pertunjukan (Ritual), Mempengaruhi, Riset.
+**Skill:** Kerajinan (apa pun), Intuisi, Pengetahuan (Okultisme), dua Skill Pengetahuan (apa pun) lainnya, Bahasa (Lainnya), Mendengar, Pertunjukan (Ritual), Mempengaruhi, Riset.
 
-**Spesial:** Kamu dapat menggunakan sihir atau sihir hitam. Bekerjasamalah dengan gamemaster untuk menentukan mantra awalmu (lihat Bab Empat: Kekuatan).
+**Spesial:** Kamu bisa menggunakan sihir atau ilmu gaib. Bekerjalah dengan gamemastermu untuk menentukan mantra awalmu (lihat Bab Empat: Kekuatan).
 
 #### Penulis
 
-Kamu menulis prosa, puisi, naskah, atau bentuk lainnya. Kamu paling nyaman berkomunikasi melalui tulisan, dan kata-katamu memiliki kekuatan untuk menghibur, menginformasikan, atau mempengaruhi mereka yang membacanya.
+Kamu menulis prosa, puisi, naskah, atau bentuk lainnya. Kamu paling nyaman berkomunikasi melalui tulisan, dan kata-katamu memiliki kekuatan untuk menghibur, memberi informasi, atau mempengaruhi mereka yang membacanya.
 
 **Kekayaan:** Miskin hingga Kaya, biasanya Rata-rata.
 
-**Skill:** Seni (menulis), Intuisi, Bahasa (Sendiri), Mempengaruhi, Riset, dan lima Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai dengan latar: Bicara Cepat, Pengetahuan (apa saja), Bahasa (Lainnya), Mendengar, Pangkat, Teknis (Penggunaan Komputer).
+**Skill:** Seni (menulis), Intuisi, Bahasa (Sendiri), Mempengaruhi, Riset, dan lima Skill lainnya dari daftar berikut sebagai spesialisasi, sesuai kebutuhan: Bicara Cepat, Pengetahuan (apa pun), Bahasa (Lainnya), Mendengar, Status, Teknis (Penggunaan Komputer).
 
 ## Sentuhan Akhir
 
-Pada tahap ini kamu telah selesai dengan pembuatan karakter, dengan asumsi permainanmu tidak memiliki mantra sihir, mutasi, kemampuan psikis, sihir hitam, atau kekuatan super untuk karakter awalmu. Jika ini tersedia, buka Bab Empat: Kekuatan dan mulailah memilihnya, dengan bantuan gamemaster-mu.
+Pada titik ini, kamu telah selesai dengan pembuatan karakter, dengan asumsi permainanmu tidak memiliki mantra sihir, mutasi, kemampuan psikis, ilmu gaib, atau kekuatan super untuk karakter awalmu. Jika hal-hal ini tersedia, buka Bab Empat: Kekuatan dan mulailah memilihnya, dengan bantuan gamemastermu.
 
-Latar belakang sering kali menjadi bagian penting dari karakter, tetapi ini adalah hal yang paling tidak terukur dalam aturan permainan. Cobalah untuk menemukan elemen pengalaman atau identitas yang mendorong karaktermu, dengan menanyakan beberapa pertanyaan sederhana seperti berikut:
+Latar belakang sering kali menjadi bagian penting dari seorang karakter, tetapi ini adalah hal yang paling tidak dapat diukur dalam aturan permainan. Cobalah untuk menyusun elemen pengalaman atau identitas yang mendorong karaktermu, dengan menanyakan beberapa pertanyaan sederhana seperti berikut:
 
-* Tragedi dan kesuksesan apa yang telah mereka alami?
+* Tragedi dan kesuksesan apa yang pernah mereka alami?
 
 * Di mana mereka dibesarkan?
 
@@ -1088,23 +1089,23 @@ Latar belakang sering kali menjadi bagian penting dari karakter, tetapi ini adal
 
 * Siapa keluarga mereka? Apakah orang tua mereka masih hidup?
 
-* Apakah mereka sedang jatuh cinta? Apakah mereka sudah atau pernah menikah? Punya anak?
+* Apakah mereka sedang jatuh cinta? Apakah mereka sudah atau pernah menikah? Apakah punya anak?
 
 * Apakah mereka bahagia dalam hidup?
 
-* Apakah mereka punya banyak teman? Bagaimana dengan musuh?
+* Apakah mereka memiliki banyak teman? Bagaimana dengan musuh?
 
 * Apa yang ingin mereka capai?
 
-Kamu bisa memeriksa lembar karaktermu dan merenungkan pilihan yang telah kamu buat selama pembuatan karakter. Mungkin beberapa Skill menunjukkan tipe kepribadian, seperti rajin belajar, eklektik, kasar, atau kata sifat semacam itu. Kamu mungkin mencoba menemukan 'suara' karakter, atau sarana ekspresi lain yang membuat mereka hidup di meja permainan. Namun, tidak semua orang ingin menjadi aktor metode, dan jangan merasa bahwa kamu harus datang ke meja dengan kepribadian dan latar belakang yang mendalam untuk karaktermu. Sebagian dari itu akan datang selama pengalaman bermain peran, dan sebagian akan muncul secara alami saat karaktermu dihadapkan pada petualangan dan kesulitan.
+Kamu bisa memeriksa lembar karaktermu dan merenungkan pilihan yang telah kamu buat selama pembuatan karakter. Mungkin beberapa Skill menunjukkan tipe kepribadian, seperti rajin, eklektik, kasar, atau kata sifat lainnya. Kamu mungkin mencoba menemukan 'suara' karakter, atau cara ekspresi lain yang membuat mereka menjadi hidup di meja permainan. Namun, tidak semua orang ingin menjadi aktor metode, dan jangan merasa bahwa kamu harus datang ke meja dengan kepribadian dan latar belakang yang mendalam untuk karaktermu. Sebagian dari itu akan muncul selama pengalaman bermain peran, dan sebagian akan muncul secara alami saat karaktermu dihadapkan pada petualangan dan kesulitan.
 
-Bagian sulitnya sudah berakhir—sekarang kesenangannya bisa dimulai!
+Bagian sulitnya sudah selesai—sekarang kesenangannya bisa dimulai!
 
 > ### Budaya dan Karakter (Opsi)
 > 
-> Banyak latar, terutama sejarah atau fantasi, menawarkan budaya yang berbeda dan orisinal, biasanya dengan kualitas yang umum bagi penghuninya. Kualitas-kualitas ini dapat didefinisikan sebagai ras, budaya, atau bahkan semua penghuni planet. Gamemaster-mu mungkin memilih untuk mengembangkan latar belakang budaya yang sesuai untuk latar orisinal atau adaptasi. Terkadang ini dapat mengarah pada stereotip, dan gamemaster-mu harus mempertimbangkan hal ini dengan hati-hati.
+> Banyak latar, terutama historis atau fantasi, menawarkan budaya yang berbeda dan unik, biasanya dengan kualitas yang umum bagi penghuninya. Kualitas ini dapat didefinisikan sebagai ras, budaya, atau bahkan semua penghuni planet. Gamemastermu mungkin memilih untuk mengembangkan latar belakang budaya yang sesuai dengan latar asli atau adaptasi. Terkadang ini dapat mengarah pada stereotip, dan gamemastermu harus mempertimbangkannya dengan cermat.
 > 
-> Latar belakang budaya tidak diperlukan—anggota suatu budaya mau tidak mau cukup berbeda untuk memungkinkan serangkaian Skill dan karakteristik yang beragam, tetapi kamu dan gamemaster-mu mungkin merasa bahwa hal itu menambahkan elemen berharga ke latar permainan. Setiap deskripsi latar belakang budaya dapat memuat beberapa atau semua hal berikut:
+> Latar belakang budaya tidaklah wajib—anggota suatu budaya pasti cukup berbeda untuk memungkinkan serangkaian Skill dan karakteristik yang beragam, tetapi kamu dan gamemastermu mungkin merasa bahwa itu menambahkan elemen berharga pada latar permainan. Setiap deskripsi latar belakang budaya dapat memuat beberapa atau semua hal berikut:
 > 
 > **Pemimpin:** Penguasa, presiden, otoritas, atau badan pemerintahan lainnya di negara atau wilayah tersebut.
 > 
@@ -1112,39 +1113,39 @@ Bagian sulitnya sudah berakhir—sekarang kesenangannya bisa dimulai!
 > 
 > **Penampilan:** Satu atau lebih fitur khas mungkin umum bagi budaya atau kelompok tersebut, seperti pewarnaan atau fitur wajah.
 > 
-> **Sikap:** Jika sesuai, sifat kepribadian mungkin umum bagi budaya atau kelompok tersebut. Namun, tidak semua orang seperti ini, dan ini dapat diabaikan jika diinginkan.
+> **Demeanor:** Jika sesuai, sifat kepribadian mungkin umum bagi budaya atau kelompok tersebut. Namun, tidak semua orang seperti ini, dan ini dapat diabaikan jika diinginkan.
 > 
 > **Bahasa:** Bahasa yang umum digunakan atau diketahui oleh penduduk asli wilayah ini.
 > 
-> **Pekerjaan:** Profesi yang umum bagi orang-orang di wilayah tersebut. Ini bukan satu-satunya profesi yang dipraktikkan di sini—mereka hanyalah yang paling umum atau lambang dari masyarakat tersebut. Tiga adalah jumlah yang bagus untuk ini.
+> **Pekerjaan:** Profesi yang umum bagi orang-orang di wilayah tersebut. Ini bukan satu-satunya profesi yang dipraktikkan di sini—ini hanyalah yang paling umum atau simbolis bagi masyarakat tersebut. Tiga adalah jumlah yang baik untuk ini.
 > 
 > **Agama:** Tuhan atau dewa apa yang biasanya disembah di wilayah ini? Jika Kesetiaan memainkan peran dalam kampanye, maka agama harus disertakan.
 > 
-> **Senjata dan Armor:** Dalam latar sejarah atau fantasi, senjata dan Armor bergaya abad pertengahan sering kali sangat berbeda dari satu negara ke negara lain, dan tentara dari masing-masing negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan latar yang menjadi lebih modern, meskipun gamemaster-mu dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
+> **Senjata dan Armor:** Dalam latar historis atau fantasi, senjata dan Armor bergaya abad pertengahan sering kali sangat berbeda antar negara, dan tentara di setiap negeri cenderung berlatih dengan gaya senjata yang berbeda. Ini kurang khas seiring dengan semakin modernnya latar, meskipun gamemastermu dapat menggunakan informasi ini saat melengkapi karakter non-pemain.
 > 
-> **Skill Budaya:** Beberapa Skill mungkin umum diajarkan dan digunakan dalam budaya ini sebagai bagian dari sosialisasi dan pendidikan umum. Atas kebijaksanaan gamemaster-mu, Skill ini mungkin mendapatkan bonus kecil. Jika bonus untuk Skill digunakan, disarankan agar setiap budaya mendapatkan bonus yang setara, meskipun untuk sekumpulan Skill yang berbeda.
+> **Skill Budaya:** Beberapa Skill mungkin umum diajarkan dan digunakan dalam budaya ini sebagai bagian dari sosialisasi dan pendidikan umum. Atas kebijaksanaan gamemastermu, Skill ini mungkin mendapatkan bonus kecil. Jika bonus untuk Skill digunakan, disarankan agar setiap budaya mendapatkan bonus yang sama, meskipun untuk serangkaian Skill yang berbeda.
 > 
-> **Item:** Ini mungkin termasuk kepemilikan signifikan yang umum bagi seseorang dari budaya ini, sering kali bersifat religius atau memiliki signifikansi sosial. Ini tidak harus berharga, dan karakter dari budaya ini tidak berkewajiban untuk tetap memilikinya.
+> **Item:** Ini mungkin termasuk kepemilikan signifikan yang umum bagi seseorang dari budaya ini, sering kali bersifat religius atau memiliki kepentingan sosial. Itu tidak harus berharga, dan karakter dari budaya ini tidak berkewajiban untuk tetap menyimpan item tersebut.
 
 
 > ### Membuat Profesi Baru
 > 
-> Jika daftar profesi ini tidak menawarkan profesi yang kamu inginkan untuk karaktermu, kamu dapat membuatnya sendiri dengan persetujuan gamemaster-mu. Gamemaster-mu mungkin juga ingin merancang profesi baru untuk latar tertentu.
+> Jika daftar profesi ini tidak menawarkan profesi yang kamu inginkan untuk karaktermu, kamu bisa membuat profesimu sendiri dengan persetujuan gamemastermu. Gamemastermu mungkin juga ingin merancang profesi baru untuk latar tertentu.
 > 
-> Pertama, jelaskan profesi baru tersebut kepada gamemaster-mu. Tentukan apakah profesi baru ini mirip dengan yang lain yang disediakan di sini. Jika hampir identik dengan yang sudah ada, maka kamu bisa mengubah beberapa Skill yang diperlukan sampai profesi baru tersebut sesuai dengan konsepmu. Kamu juga dapat memvariasikan tingkat kekayaan sesuai dengan profesi baru tersebut.
+> Pertama, jelaskan profesi baru tersebut kepada gamemastermu. Tentukan apakah profesi baru ini mirip dengan yang lain yang disediakan di sini. Jika hampir identik dengan yang sudah ada, maka kamu bisa mengubah beberapa Skill yang diperlukan hingga profesi baru tersebut cocok dengan konsepmu. Kamu juga bisa memvariasikan tingkat kekayaan sesuai dengan profesi baru tersebut.
 > 
-> Sebagai contoh, *kamu memutuskan bahwa 'sopir taksi' adalah profesi baru. Gamemaster-mu mengakui bahwa ini pada dasarnya adalah versi darat dari profesi Pilot. Dari sini, kamu dan gamemaster-mu memilih untuk mengubah tingkat kekayaan karaktermu dari Miskin menjadi Rata-rata, dan mengubah daftar Skill menjadi: Menawar, Mengemudi (Mobil), Pengetahuan (Akuntansi), Pengetahuan (Wilayah: Kota), Mendengar, Navigasi, Bahasa (Lainnya), Perbaikan (Mekanikal), dan Menilik.*
+> Misalnya, *kamu memutuskan bahwa 'supir taksi' adalah profesi baru. Gamemastermu menyadari bahwa ini pada dasarnya adalah versi darat dari profesi Pilot. Dari sini, kamu dan gamemastermu memilih untuk memodifikasi tingkat kekayaan karaktermu dari Miskin menjadi Rata-rata, dan mengubah daftar Skill menjadi: Tawar-menawar, Mengemudi (Mobil), Pengetahuan (Akuntansi), Pengetahuan (Wilayah: Kota), Mendengar, Navigasi, Bahasa (Lainnya), Perbaikan (Mekanik), dan Menilik.*
 > 
-> *Voila, profesi sopir taksi!*
+> *Voila, profesi supir taksi!*
 > 
 > Jika kamu ingin membuat profesi yang benar-benar baru:
 > 
-> * Tentukan judul profesi tersebut.
+> * Tentukan judul profesinya.
 > 
-> * Jelaskan (secara lisan atau tertulis) profesi tersebut kepada gamemaster-mu, termasuk apa yang mereka habiskan waktunya untuk melakukan sesuatu, pelatihan apa yang mungkin mereka miliki, dan mungkin indikator posisi mereka dalam masyarakat.
+> * Jelaskan (secara lisan atau tertulis) profesi tersebut kepada gamemastermu, termasuk apa yang mereka lakukan, pelatihan apa yang mungkin mereka miliki, dan mungkin indikator posisi mereka dalam masyarakat.
 > 
-> * Tentukan tingkat kekayaan yang sesuai atau kisaran tingkat kekayaan.
+> * Tentukan tingkat kekayaan atau kisaran tingkat kekayaan yang sesuai.
 > 
 > * Pilih sepuluh Skill yang penting atau paling banyak digunakan oleh anggota profesi ini. Ini juga bisa mencakup opsi “pilih satu (atau lebih) dari daftar berikut” selama jumlah total Skill yang tersedia sama dengan sepuluh.
 > 
->   Sebagai contoh, *kamu mungkin ingin memainkan profesi yang benar-benar baru: penerjemah profesional. Gamemaster-mu setuju bahwa ini adalah profesi yang cukup unik untuk memerlukan penulisan baru. Pertama, kalian berdua memutuskan bahwa tingkat kekayaan seorang penerjemah umumnya adalah Rata-rata. Kedua, untuk Skill awal, kamu memilih: Etiket, Bicara Cepat, Intuisi, Pengetahuan (Antropologi), Pengetahuan (Linguistik), Bahasa (Sendiri), Bahasa (Lainnya), Mendengar, Mempengaruhi, dan Riset. Profesi baru selesai dan siap digunakan.*
+>   Misalnya, *kamu mungkin ingin memainkan profesi yang benar-benar baru: penerjemah profesional. Gamemastermu setuju bahwa ini adalah profesi yang cukup unik sehingga layak untuk dibuatkan deskripsinya. Pertama, kalian berdua memutuskan bahwa tingkat kekayaan penerjemah umumnya Rata-rata. Kedua, untuk Skill awal, kamu memilih: Etika, Bicara Cepat, Intuisi, Pengetahuan (Antropologi), Pengetahuan (Linguistik), Bahasa (Sendiri), Bahasa (Lainnya), Mendengar, Mempengaruhi, dan Riset. Profesi baru selesai dan siap digunakan.*
