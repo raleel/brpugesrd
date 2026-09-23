@@ -12,7 +12,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { GoogleGenAI } from "@google/genai";
 
-const TARGET_LANGUAGES = [
+let TARGET_LANGUAGES = [
   "es", "fr", "it", "el", "zh-CN", "ar", "fa", "ur", "he", "ps", "ku", "dv",
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
   "tl", "bg", "bn", "te", "mr", "ta", "sw", "ha", "ms", "th", "my", "pt",
@@ -1086,10 +1086,11 @@ async function translateFile(ai, englishPath) {
  *   --post-process-only / --apply-glossary  (aliases for the same thing)
  *       Skip the Gemini API entirely and only run the glossary
  *       regex-cleanup pass over already-translated files on disk.
- *   --lang=<code>
- *       Restrict --post-process-only to a single target language. Omitted
- *       (or "all") means every language in TARGET_LANGUAGES that has a
- *       glossary file.
+ *   --lang=<code>[,<code2>,...]
+ *       Restrict processing to one or more target languages (comma
+ *       separated, e.g. "--lang=fr,de,ja"). Applies both to
+ *       --post-process-only and to a normal translation run. Omitted (or
+ *       "all") means every language in TARGET_LANGUAGES.
  */
 function parseCliArgs(argv) {
   const args = { postProcessOnly: false, lang: null };
@@ -1106,6 +1107,26 @@ function parseCliArgs(argv) {
 }
 
 /**
+ * Splits a "--lang=" CLI value into a validated list of target language
+ * codes, or null if it's unset/"all" (meaning "every language"). Filters
+ * out anything not in TARGET_LANGUAGES and warns about it, rather than
+ * silently accepting a typo'd code that would just do nothing.
+ */
+function resolveLangArg(langArg) {
+  if (!langArg || langArg === "all") return null;
+
+  const requested = langArg.split(",").map((code) => code.trim()).filter(Boolean);
+  const valid = requested.filter((code) => TARGET_LANGUAGES.includes(code));
+  const invalid = requested.filter((code) => !TARGET_LANGUAGES.includes(code));
+
+  if (invalid.length > 0) {
+    console.warn(`Ignoring unknown language code(s) in --lang: ${invalid.join(", ")}`);
+  }
+
+  return valid;
+}
+
+/**
  * Standalone glossary post-processing mode (--post-process-only /
  * --apply-glossary). Does NOT call the Gemini API or re-translate
  * anything from English -- it only rewrites already-translated
@@ -1114,7 +1135,7 @@ function parseCliArgs(argv) {
  * cleanup pass using terms), then commits and pushes any changes.
  */
 function runGlossaryPostProcessOnly(langArg) {
-  const langs = !langArg || langArg === "all" ? TARGET_LANGUAGES : [langArg];
+  const langs = resolveLangArg(langArg) || TARGET_LANGUAGES;
 
   configureGitIdentity();
 
@@ -1165,6 +1186,20 @@ async function main() {
   if (cliArgs.postProcessOnly) {
     runGlossaryPostProcessOnly(cliArgs.lang);
     return;
+  }
+
+  // Restrict the real translation path to a subset of languages too (not
+  // just --post-process-only). Reassigning the module-level binding is
+  // safe here because this is a single-shot CLI script: every downstream
+  // reference to TARGET_LANGUAGES (translateFile's per-language loop, the
+  // backfill scan, the log line below) reads it after this point.
+  const requestedLangs = resolveLangArg(cliArgs.lang);
+  if (requestedLangs) {
+    if (requestedLangs.length === 0) {
+      throw new Error(`--lang="${cliArgs.lang}" did not match any known TARGET_LANGUAGES entry.`);
+    }
+    console.log(`Restricting this run to: ${requestedLangs.join(", ")}`);
+    TARGET_LANGUAGES = requestedLangs;
   }
 
   const changedFilesRaw = process.env.CHANGED_FILES || "";
