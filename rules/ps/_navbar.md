@@ -1,4 +1,0 @@
-- [کور پاڼه](/)
-- [څنګه کارول کېږي](HowTo.md)
-- [د بدلونونو لړليک](Changelog.md)
-- [GitHub](https://github.com/raleel/brpugesrd)
