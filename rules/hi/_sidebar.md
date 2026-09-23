@@ -1,4 +1,4 @@
-- [प्रारंभिक सामग्री](0000_Front_Matter.md)
+- [सामग्री](0000_Front_Matter.md)
 - [परिचय](0100_Introduction.md)
 - [पात्र](0200_Characters.md)
 - [कौशल](0300_Skills.md)
@@ -9,8 +9,8 @@
 - [उपकरण](0800_Equipment.md)
 - [गेममास्टरिंग](0900_Gamemastering.md)
 - [सेटिंग्स](1000_Settings.md)
-- [प्राणी](1100_Creatures.md)
+- [जीव](1100_Creatures.md)
 ---
-- [मिथ्रास इम्परेटिव एसआरडी](https://srd.mythras.net)
-- [क्लासिक फैंटेसी इम्परेटिव एसआरडी](https://cfi-srd.mythras.net)
-- [बीआरपी यूजीई एसआरडी विकल्प](https://bruge.us/rules/srd/)
+- [Mythras Imperative SRD](https://srd.mythras.net)
+- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
+- [BRP UGE SRD alternate](https://bruge.us/rules/srd/)
