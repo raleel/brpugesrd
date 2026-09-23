@@ -1,4 +1,4 @@
 - [Hem](/)
-- [Hur man gör](HowTo.md)
+- [Hur man spelar](HowTo.md)
 - [Ändringslogg](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

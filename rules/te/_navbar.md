@@ -1,4 +1,4 @@
 - [హోమ్](/)
-- [ఎలా చేయాలి](HowTo.md)
-- [ఛేంజ్ లాగ్](Changelog.md)
+- [ఎలా ఆడాలి](HowTo.md)
+- [మార్పుల జాబితా](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

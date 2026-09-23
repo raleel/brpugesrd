@@ -1,4 +1,4 @@
 - [Home](/)
 - [Come iniziare](HowTo.md)
-- [Registro modifiche](Changelog.md)
+- [Registro delle modifiche](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

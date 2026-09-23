@@ -1,4 +1,4 @@
-- [Anasayfa](/)
+- [Ana Sayfa](/)
 - [Nasıl Oynanır](HowTo.md)
 - [Değişiklik Günlüğü](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

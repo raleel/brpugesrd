@@ -1,4 +1,4 @@
 - [Početna](/)
 - [Kako igrati](HowTo.md)
-- [Izmjene](Changelog.md)
+- [Evidencija izmjena](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

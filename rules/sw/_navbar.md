@@ -1,4 +1,4 @@
 - [Nyumbani](/)
-- [Jinsi ya Kufanya](HowTo.md)
-- [Changelog](Changelog.md)
+- [Jinsi ya Kucheza](HowTo.md)
+- [Logi ya Mabadiliko](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

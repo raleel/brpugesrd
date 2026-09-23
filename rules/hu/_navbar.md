@@ -1,4 +1,4 @@
-- [Kezdőlap](/)
-- [Útmutató](HowTo.md)
+- [Főoldal](/)
+- [Hogyan használd](HowTo.md)
 - [Változásnapló](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

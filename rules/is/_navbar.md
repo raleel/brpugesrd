@@ -1,4 +1,4 @@
-- [Heimasíða](/)
-- [Hvernig á að](HowTo.md)
-- [Breytingarskrá](Changelog.md)
+- [Heim](/)
+- [Hvernig á að spila](HowTo.md)
+- [Breytingaskrá](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

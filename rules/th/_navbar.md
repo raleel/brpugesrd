@@ -1,4 +1,4 @@
-- [หน้าหลัก](/)
-- [วิธีการเล่น](HowTo.md)
+- [หน้าแรก](/)
+- [วิธีการ](HowTo.md)
 - [บันทึกการเปลี่ยนแปลง](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

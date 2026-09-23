@@ -1,4 +1,4 @@
 - [خانه](/)
-- [چگونه](HowTo.md)
+- [نحوه بازی](HowTo.md)
 - [تغییرات](Changelog.md)
 - [گیت‌هاب](https://github.com/raleel/brpugesrd)

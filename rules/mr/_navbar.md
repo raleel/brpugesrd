@@ -1,4 +1,4 @@
-- [मुख्य पान](/)
+- [मुख्यपृष्ठ](/)
 - [कसे खेळायचे](HowTo.md)
-- [बदल सूची](Changelog.md)
+- [बदलांची नोंद](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)
