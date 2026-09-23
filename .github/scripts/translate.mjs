@@ -13,9 +13,9 @@ import { execFileSync } from "node:child_process";
 import { GoogleGenAI } from "@google/genai";
 
 let TARGET_LANGUAGES = [
-  "es", "fr", "it", "el", "zh-CN", "ar", "fa", "ur", "he", "ps", "ku", "dv",
+  "es", "fr", "it", "el", "zh-CN", "ar", "fa", "he",
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
-  "tl", "bg", "bn", "te", "mr", "ta", "sw", "ha", "ms", "th", "my", "pt",
+  "tl", "bg", "bn", "te", "mr", "ta", "sw", "ms", "th", "pt",
   "lt", "lv", "et", "fi", "sv", "no", "da", "is", "hu", "id",
   "de",
 ];

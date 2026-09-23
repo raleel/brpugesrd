@@ -1,4 +1,0 @@
-- [ہوم](/)
-- [کیسے کھیلیں](HowTo.md)
-- [تبدیلیوں کی فہرست](Changelog.md)
-- [GitHub](https://github.com/raleel/brpugesrd)
