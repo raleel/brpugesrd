@@ -1,189 +1,189 @@
 # 1. Einleitung
 
-Willkommen bei Chaosiums Basic-Roleplaying-System, einem der einflussreichsten Rollenspielsysteme der Welt.
+Willkommen beim Basic Roleplaying-System von Chaosium, einem der einflussreichsten Rollenspielsysteme der Welt.
 
-Falls du mit Rollenspielen vertraut bist, kannst du einen Großteil dieser Einleitung überspringen. Hier werden die Begriffe behandelt, die im Basic-Roleplaying-System verwendet werden. Für erfahrene Spieler ist in dieser Einleitung lediglich der Abschnitt „Optionale Regeln“ von Bedeutung.
+Wenn Sie mit Rollenspielen vertraut sind, können Sie einen Großteil dieser Einleitung überspringen. Sie behandelt die im Basic Roleplaying-System verwendeten Begriffe. Für erfahrene Spieler ist der einzige Abschnitt in dieser Einleitung, dem Sie Aufmerksamkeit schenken sollten, der Abschnitt zu den Optionalen Regeln.
 
-## Im Basic-Roleplaying verwendete Begriffe
+## Im Basic Roleplaying verwendete Begriffe
 
-Die folgenden Begriffe werden in diesem Buch häufig verwendet. Einige sind in Rollenspielen allgemein gebräuchlich und dienen als Hilfe für neue wie auch erfahrene Spieler. Jeder wird in den entsprechenden Abschnitten ausführlich erklärt.
+Die folgenden Begriffe werden in diesem Buch häufig verwendet. Einige sind in Rollenspielen üblich und dienen sowohl neuen als auch erfahrenen Spielern als Hilfe. Jeder wird in den entsprechenden Abschnitten ausführlich erklärt.
 
-**Fähigkeit:** Etwas, das ein Charakter tun oder empfinden kann, sei es ein Fertigkeitswert, eine Leidenschaft oder ein anderer Faktor, der auf einer Skala von 1–100 bewertet wird. Wenn du im Allgemeinen eine Fähigkeit erfolgreich einsetzt, erhältst du eine Erfahrungsprobe.
+**Fähigkeit:** Etwas, das ein Charakter tun oder empfinden kann, sei es eine Fertigkeit, eine Leidenschaft oder ein anderer Faktor, der mit einem Wert von 1–100 bewertet wird. Wenn Sie eine Fähigkeit erfolgreich einsetzen, erhalten Sie im Allgemeinen eine Erfahrungsprobe.
 
-**Zugehörigkeit:** Ein optionales System, das die Hingabe an ein geistiges Wesen, ein Prinzip oder eine Gottheit misst und durch das Ausführen bevorzugter Handlungen verbessert wird.
+**Zugehörigkeit:** Ein optionales System zur Messung der Hingabe an ein geistiges Wesen, ein Prinzip oder eine Gottheit, das durch die Ausführung bevorzugter Handlungen verbessert wird.
 
-**Verstärken:** Die Nutzung einer Fähigkeit, um die Erfolgswahrscheinlichkeit einer anderen Fähigkeit zu modifizieren, etwa wenn eine Fertigkeit eine andere zusätzlich unterstützt oder eine Leidenschaft dazu beitragen kann, die Erfolgsaussichten einer Fertigkeit zu verbessern.
+**Verstärkung:** Die Verwendung einer Fähigkeit, um die Erfolgsaussichten einer anderen Fähigkeit zu modifizieren, etwa wenn eine Fertigkeit eine andere zusätzlich unterstützt oder eine Leidenschaft dazu beitragen kann, die Erfolgschance einer Fertigkeit zu verbessern.
 
-**Basiswert:** Die Standardchance für einen Erfolg bei einer Fertigkeit, in der ein Charakter keinerlei Training oder Erfahrung besitzt.
+**Basiswert:** Die Standard-Erfolgschance bei einer Fertigkeit, in der ein Charakter keine Ausbildung oder Erfahrung hat.
 
-***Zum Beispiel:*** *Auf dem Charakterbogen bedeutet Verstecken (20%), dass dein Charakter selbst dann, wenn er keine Fertigkeitspunkte in die Fertigkeit Verstecken investiert hat, über eine natürliche Begabung von 20% darin verfügt.*
+***Zum Beispiel*** *bedeutet „Verbergen (20%)“ auf dem Charakterbogen, dass Ihr Charakter eine natürliche Begabung von 20% in der Fertigkeit Verbergen hat, selbst wenn er keine Fertigkeitspunkte investiert hat.*
 
 **Basisreichweite:** Die normale Distanz, innerhalb derer eine Fernkampfwaffe ein Ziel treffen kann.
 
-**Charakter:** Die Rolle, die du in einer Spielsitzung übernimmst, beschrieben durch Spielmechaniken wie Eigenschaften und Fertigkeitssummen. Im Allgemeinen haben Charaktere Namen und Hintergründe, die vom Spieler mit Unterstützung und/oder Zustimmung des Spielleiters festgelegt werden (siehe auch **Spielercharakter** und **Nicht-Spieler-Charakter**).
+**Charakter:** Die Rolle, die Sie in einer Spielsitzung übernehmen, beschrieben durch Spielmechaniken wie Eigenschaften und Fertigkeitssummen. Im Allgemeinen haben Charaktere Namen und Hintergründe, die vom Spieler mit Unterstützung und/oder Genehmigung des Spielleiters festgelegt werden. (siehe auch **Spielercharakter** und **Nicht-Spieler-Charakter**).
 
-**Eigenschaft:** Die physischen, mentalen und spirituellen Attribute deines Charakters (Stärke, Konstitution, Größe, Intelligenz, Macht, Geschicklichkeit und Charisma), die numerisch auf einer Skala (meist 3–18) bewertet werden, wobei ein menschlicher Durchschnitt bei 10-11 liegt.
+**Eigenschaft:** Die physischen, mentalen und spirituellen Attribute Ihres Charakters (Stärke, Konstitution, Statur, Intelligenz, Macht, Geschicklichkeit und Charisma), die auf einer numerischen Skala (normalerweise 3–18) bewertet werden, wobei ein menschlicher Durchschnitt bei 10–11 liegt.
 
-***Zum Beispiel:*** *Wenn das anfängliche Maximum einer Eigenschaft 18 beträgt, bedeutet ein ST-Wert von 17, dass dein Charakter extrem stark ist, während ein GE-Wert von 7 bedeutet, dass er etwas ungeschickt ist.*
+***Zum Beispiel*** *bedeutet bei einem maximalen Anfangswert von 18 eine STÄ von 17, dass Ihr Charakter extrem stark ist, während eine GES von 7 bedeutet, dass er etwas ungeschickt ist.*
 
-**Eigenschaftswurf:** Eine der Eigenschaften deines Charakters multipliziert mit einer Zahl (z. B. Intelligenz ×3), ausgedrückt als Prozentsatz und gewürfelt mit Prozentwürfeln. Ein Eigenschaftswurf ist üblicherweise ×5, es können jedoch auch andere Multiplikatoren verwendet werden.
+**Eigenschaftswurf:** Eine der Eigenschaften Ihres Charakters multipliziert mit einer Zahl (zum Beispiel Intelligenz ×3), ausgedrückt als Prozentsatz und gewürfelt mit Prozentwürfeln. Ein Eigenschaftswurf ist normalerweise ×5, es können jedoch auch andere Multiplikatoren verwendet werden.
 
-***Zum Beispiel:*** *Wenn die Intelligenz-Eigenschaft deines Charakters 14 beträgt, hat er eine 42%ige Chance auf Erfolg bei einer Eigenschaftsprobe mit einem Multiplikator von ×3.*
+***Zum Beispiel*** *hat Ihr Charakter bei einem Intelligenzwert von 14 eine Chance von 42%, bei einer Eigenschaftsprobe mit einem Multiplikator von ×3 erfolgreich zu sein.*
 
-**Kampfrunde:** Ein Zeitraum von 12 Sekunden (oder einem Äquivalent), der während eines Kampfes oder dramatischer Aktivitäten festgelegt wird, wobei die Reihenfolge der Handlungen wichtig ist. Dies ist Spielzeit, keine reale Zeit – die Ereignisse von wenigen Sekunden an Spielhandlung können zwischen den Spielern und dem Spielleiter mehrere Minuten in Anspruch nehmen.
+**Kampfrunde:** Ein Zeitraum von 12 Sekunden (oder einem entsprechenden Wert), der während eines Kampfes oder dramatischer Aktivitäten festgelegt wird, in denen die Reihenfolge, in der Aktionen stattfinden, wichtig ist. Dies ist Spielzeit, keine tatsächliche Zeit – die Ereignisse einiger weniger Sekunden können zwischen den Spielern und dem Spielleiter mehrere Minuten in Anspruch nehmen.
 
-**Kritischer Erfolg:** Dies ist das Ergebnis einer Fertigkeitsprobe, das 1/20 (oder 5%) der regulären Erfolgschance beträgt. Im Allgemeinen wird ein kritischer Erfolg mit besseren Ergebnissen belohnt, obwohl in manchen Fällen ein kritischer Erfolg erforderlich ist, um überhaupt Erfolg zu haben.
+**Kritischer Erfolg:** Dies ist das Ergebnis eines Fertigkeitswurfs, der 1/20 (oder 5%) der regulären Erfolgschance beträgt. Im Allgemeinen wird ein kritischer Erfolg mit besseren Ergebnissen belohnt, obwohl in einigen Fällen ein kritischer Erfolg erforderlich ist, um überhaupt erfolgreich zu sein.
 
-***Zum Beispiel:*** *Wenn die reguläre Erfolgschance 75% beträgt, ist jeder Wurf von 4 oder weniger ein kritischer Erfolg (1/20 von 75% sind 3,75, aufgerundet auf 4).*
+***Zum Beispiel*** *ist bei einer regulären Erfolgschance von 75% jeder Wurf von 4 oder darunter ein kritischer Erfolg (1/20 von 75% sind 3,75, aufgerundet auf 4).*
 
-**W100:** Ein Wurf mit Prozentwürfeln, der durch das Werfen von zwei 10-seitigen Würfeln (W10) erzielt wird, wobei einer die Zehner und der andere die Einer repräsentiert. Manche Würfel sind bereits als „Zehner“ markiert (00, 10, 20 usw.) und werden immer als erste Zahl bei einem W100-Wurf verwendet. Ein Wurf von 01 ist das bestmögliche Ergebnis, während 100 (was meist als 00 gelesen wird) das schlechteste ist.
+**W100:** Ein Prozentwürfelwurf, der durch das Werfen von zwei 10-seitigen Würfeln (W10) erzielt wird, wobei einer die Zehner und der andere die Einer darstellt. Manche Würfel sind bereits als „Zehner“ markiert (00, 10, 20 usw.) und werden immer als erste Zahl bei einem W100-Wurf verwendet. Ein Wurf von 01 ist das bestmögliche Ergebnis, während 100 (was meist als 00 gelesen wird) das schlechteste ist.
 
-***Zum Beispiel:*** *Ein Wurf von 60 (oder 6) und 2 ergibt ein Resultat von 62.*
+***Zum Beispiel*** *ergibt ein Wurf von 60 (oder 6) und 2 ein Ergebnis von 62.*
 
-**Schaden:** Ein Wert, der eine Verletzung darstellt und von den Trefferpunkten eines Charakters abgezogen wird. Waffen, unglückliche Ereignisse und andere Gefahren fügen Charakteren Schaden zu.
+**Schaden:** Ein Wert, der Verletzungen darstellt und von den Trefferpunkten eines Charakters abgezogen wird. Waffen, unglückliche Ereignisse und andere Gefahren verursachen Schaden bei Charakteren.
 
-**Schadensmodifikator:** Ein Modifikator auf den gewürfelten Schaden aufgrund überdurchschnittlicher Stärke- und Größen-Eigenschaften.
+**Schad. Mod.:** Ein Modifikator für gewürfelten Schaden aufgrund überdurchschnittlicher Stärke- und Statur-Eigenschaften.
 
-**GE-Rang:** Basierend auf der Geschicklichkeit bestimmt dieser Wert, wann dein Charakter während einer Kampfrunde üblicherweise agieren kann. Charaktere mit höherer GE agieren im Allgemeinen vor Charakteren mit niedrigerer GE.
+**Angriffsrang:** Basierend auf der Eigenschaft Geschicklichkeit bestimmt dies, wann Ihr Charakter normalerweise während einer Kampfrunde handeln kann. Charaktere mit höherer GES handeln im Allgemeinen vor Charakteren mit niedrigerer GES.
 
-**Schwierigkeitsmodifikator:** Der Wert, um den die Erfolgschance einer Fertigkeit angepasst wird, basierend auf den Umständen ihrer Anwendung. Diese reichen von Automatisch (kein Wurf erforderlich), Einfach (Fertigkeit wird verdoppelt), Durchschnittlich (keine Modifikation der Fertigkeit) und Schwierig (Fertigkeit wird halbiert) bis hin zu Unmöglich (kein Wurf oder 01% Chance im Ermessen des Spielleiters).
+**Schwierigkeitsgrad:** Der Betrag, um den die Erfolgschance einer Fertigkeit basierend auf den Umständen ihrer Anwendung angepasst wird. Diese reichen von Automatisch (kein Wurf erforderlich), Sehr Leicht (Fertigkeit wird verdoppelt), Standard (keine Modifikation der Fertigkeit) und Schwer (Fertigkeit wird halbiert) bis zu Gewaltig (kein Wurf oder 01%-Chance nach Ermessen des Spielleiters).
 
-**Erfahrungswürfe:** Wenn du bei einem Wurf für eine oder mehrere Fähigkeiten oder Eigenschaftswiderstandswürfe (siehe unten) deines Charakters erfolgreich warst, solltest du dies im entsprechenden Kästchen auf deinem Charakterbogen markieren (diese Aktion wird manchmal als „Erfahrungsprobe“ bezeichnet), sofern dies angemessen ist. Später, zwischen Abenteuern oder in der spielfreien Zeit, kannst du bestimmen, ob sich die Fähigkeit deines Charakters verbessert hat oder ob sich die Eigenschaft durch erfolgreiche Anwendung gesteigert hat. Einige Fertigkeiten können nicht durch Erfahrung verbessert werden und müssen auf andere Weise gesteigert werden.
+**Erfahrungswürfe:** Wenn Sie bei einem Wurf für eine oder mehrere Fähigkeiten oder Eigenschaftswiderstandswürfe Ihres Charakters (siehe unten) erfolgreich sind, sollten Sie dies gegebenenfalls auf Ihrem Charakterbogen im dafür vorgesehenen Kontrollkästchen markieren (diese Aktion wird manchmal als „Erfahrungsprobe“ bezeichnet). Später, zwischen Abenteuern oder während der Ruhezeiten, können Sie feststellen, ob sich die Fähigkeit Ihres Charakters in dieser Fertigkeit verbessert hat oder ob die Eigenschaft durch erfolgreiche Anwendung gestiegen ist. Manche Fertigkeiten können nicht durch Erfahrung verbessert werden und müssen auf anderem Wege gesteigert werden.
 
-**Fehlschlag:** Ein Wurf mit Prozentwürfeln, der über der erforderlichen Erfolgschance liegt.
+**Fehlschlag:** Ein Wurf mit Prozentwürfeln über der erforderlichen Erfolgschance.
 
-***Zum Beispiel:*** *Ein Wurf von 89, wenn die erforderliche Chance 56% betrug, deutet auf einen Fehlschlag hin.*
+***Zum Beispiel*** *zeigt ein Wurf von 89 bei einer erforderlichen Chance von 56% einen Fehlschlag an.*
 
-**Tödliche Wunde:** Eine Wunde, die deinen Charakter mehr Trefferpunkte kostet, als er aktuell besitzt. Ohne Eingreifen (medizinisch oder anderweitig) tritt der Tod am Ende der folgenden Kampfrunde ein.
+**Tödliche Wunde:** Eine Wunde, die Ihren Charakter mehr Trefferpunkte kostet, als er derzeit besitzt. Ohne Intervention (medizinisch oder anderweitig) tritt der Tod am Ende der folgenden Kampfrunde ein.
 
-**Erschöpfungspunkte:** Ein optionales System, das die Stärke- und Konstitutionseigenschaften deines Charakters nutzt, um zu bestimmen, wie lange er anstrengende körperliche Aktivität aushalten kann, bevor er ermüdet.
+**Ermüdung:** Ein optionales System, das die Stärke- und Konstitutionseigenschaften Ihres Charakters verwendet, um festzulegen, wie lange er anstrengende körperliche Aktivität aushalten kann, bevor er müde wird.
 
-**Volle Runde:** Ein Zeitraum, der aus 25 Kampfrunden besteht, was fünf Minuten Spielzeit entspricht.
+**Volle Runde:** Ein Zeitraum von 25 Kampfrunden, was fünf Minuten Spielzeit entspricht.
 
-**Patzer:** Ein Wurf von 99 und/oder 00 beim Würfeln mit Prozentwürfeln zur Erfolgsbestimmung. Im Allgemeinen geschieht bei einem Patzer etwas Schlechtes, das über einen einfachen Fehlschlag hinausgeht.
+**Patzer:** Ein Wurf von 99 und/oder 00 beim Würfeln mit Prozentwürfeln zur Erfolgsbestimmung. Wenn ein Patzer angezeigt wird, passiert im Allgemeinen etwas Schlechtes, das über einen einfachen Fehlschlag hinausgeht.
 
-**Spielleiter (SL):** Der Regisseur oder Führer des Spiels, der dir hilft, Charaktere zu erstellen, sich das Abenteuer ausdenkt und die Welt außerhalb deines Charakters repräsentiert, indem er die Würfel für Nicht-Spieler-Charaktere und gegnerische Kräfte wirft.
+**Spielleiter (SL):** Der Regisseur oder Führer des Spiels, der Ihnen beim Erstellen von Charakteren hilft, sich das Abenteuer ausdenkt und die Welt außerhalb Ihres Charakters repräsentiert, indem er die Würfel für die Nicht-Spieler-Charaktere und die gegnerischen Kräfte rollt.
 
-**Spielzeit:** Die Zeit, die während der Entfaltung eines Szenarios oder einer Kampagne vergeht, so wie sie von deinen Charakteren erlebt wird. Dies ist üblicherweise nicht identisch mit der realen Zeit, die du und der Spielleiter mit dem Spielen verbringen.
+**Spielzeit:** Die Zeit, die während eines Szenarios oder einer Kampagne vergeht, so wie sie von Ihren Charakteren erlebt wird. Dies ist normalerweise nicht dieselbe Zeit, die Sie und der Spielleiter tatsächlich mit dem Spielen verbringen.
 
-**Trefferort:** Ein optionales System zur Bestimmung, wo ein erfolgreicher Angriff auf den Körper deines Charakters landet oder wo seine Angriffe einen Gegner treffen.
+**Trefferzone:** Ein optionales System zur Bestimmung, wo ein erfolgreicher Angriff auf dem Körper Ihres Charakters landet oder wo seine Angriffe einen Feind treffen.
 
-**Trefferpunkte:** Ein Maß für die relative Gesundheit deines Charakters, dargestellt durch einen Wert, der aus seinen Konstitutions- und Größen-Eigenschaften abgeleitet wird. Angreifer fügen Schaden in Form von Trefferpunkten zu, die von den gesamten Trefferpunkten des Ziels abgezogen werden. Üblicherweise ist dein Charakter tot, wenn er 0 Trefferpunkte erreicht.
+**Trefferpunkte:** Ein Maß für die relative Gesundheit Ihres Charakters, dargestellt durch einen Wert, der aus seinen Konstitutions- und Statur-Eigenschaften abgeleitet wird. Angreifer verursachen Schaden in Trefferpunkten, die von den gesamten Trefferpunkten des Ziels abgezogen werden. Wenn Ihr Charakter normalerweise 0 Trefferpunkte erreicht, ist er tot.
 
-**„In Charakter“ oder „Außer Charakter“:** Die Unterscheidung in der Kommunikation zwischen Spielern und Spielleiter am Spieltisch, die den Unterschied zwischen Diskussionen in der realen Welt und Diskussionen im Spiel darstellt. Beide erreichen dasselbe Ziel, repräsentieren jedoch unterschiedliche Stile oder Aspekte des Spiels und können während des Spiels austauschbar verwendet werden. Manche Gruppen oder Spieler neigen eher zu dem einen oder anderen – es ist eine Frage der Vorliebe. „In Charakter“-Diskussionen sind atmosphärisch und immersiv, während „außer Charakter“-Diskussionen essentiell sind, um Spielmechaniken zu beschreiben und das Spiel durch das Überspringen unnötiger Details zu beschleunigen.
+**„In Charakter“ oder „Außer Charakter“:** Die Unterscheidung im Gespräch zwischen Spielern und dem Spielleiter am Spieltisch, die den Unterschied zwischen Diskussionen in der realen Welt und Spieldiskussionen darstellt. Beide erreichen dasselbe Ziel, repräsentieren aber unterschiedliche Spielstile oder Aspekte und können beim Spielen abwechselnd verwendet werden. Manche Gruppen oder Spieler neigen eher zu dem einen oder anderen – es ist eine Frage der persönlichen Vorliebe. „In Charakter“-Diskussionen sind atmosphärisch und immersiv, während „Außer Charakter“-Diskussionen unerlässlich sind, um Spielmechaniken zu beschreiben und das Spiel zu beschleunigen, indem unnötige Details vermieden werden.
 
-***Zum Beispiel:*** *In Charakter könntest du sagen: „Sir Wilfric fragt den Gastwirt: ‚Könntet Ihr uns vielleicht für ein Versprechen auf zukünftige Bezahlung hier übernachten lassen!‘“, während du außer Charakter sagen könntest: „Ich versuche den Gastwirt zu überreden, uns eine Nacht ohne Bezahlung bleiben zu lassen.“*
+***Zum Beispiel*** *könnten Sie „In Charakter“ sagen: „Sir Wilfric fragt den Wirt: ‚Könnten Sie uns vielleicht die Nacht über beherbergen, gegen das Versprechen einer späteren Bezahlung!‘“, während Sie „Außer Charakter“ sagen könnten: „Ich versuche, den Wirt zu Überzeugen, uns eine Nacht ohne Bezahlung bleiben zu lassen.“*
 
 **Magiepunkte:** Ein anderer Name für Machtpunkte (siehe **Machtpunkte**).
 
-**Schwere Wunde:** Eine Verletzung, die in einem einzigen Schlag genug Schaden verursacht, um mehr als die Hälfte der normalen Trefferpunkte des Charakters zu übersteigen. Geht üblicherweise mit einem schwächenden Effekt einher.
+**Schwere Wunde:** Eine Verletzung, die in einem einzigen Treffer genug Schaden verursacht, um mehr als die Hälfte der normalen Trefferpunkte des Charakters zu übersteigen. Meist begleitet von einem schwächenden Effekt.
 
-**Leichte Wunde:** Jede einzelne Verletzung, die in ihrer Schwere unter einer schweren Wunde liegt (weniger als 1/2 der normalen Trefferpunkte).
+**Leichte Wunde:** Jede einzelne Verletzung, die in ihrer Schwere geringer ist als eine schwere Wunde (weniger als 1/2 der normalen Trefferpunkte).
 
-**Modifikatoren:** Temporäre Additionen oder Subtraktionen zum Wert deines Charakters in einer Fähigkeit, üblicherweise durch Umstände, Umgebung oder Ausrüstung bedingt.
+**Modifikatoren:** Vorübergehende Additionen oder Subtraktionen zum Wert Ihres Charakters in einer Fähigkeit, normalerweise aufgrund von Umständen, Umgebung oder Ausrüstung.
 
-***Zum Beispiel:*** *Der Versuch, ein Schloss mit einer verbogenen Büroklammer zu knacken, ist ein Beispiel für minderwertige Werkzeuge und ergibt einen Modifikator von –20%. Die Verwendung eines Standard-Dietrich-Sets modifiziert die Fertigkeit nicht. Die Verwendung eines Deluxe-Sets aus kalibrierten Präzisionswerkzeugen zum Schlossknacken fügt +20% zum Fertigkeitswert deines Charakters hinzu.*
+***Zum Beispiel*** *ist der Versuch, ein Schloss mit einer verbogenen Büroklammer zu knacken, ein Beispiel für mangelhafte Werkzeuge, wofür ein Abzug von –20% erfolgt. Die Verwendung eines Standard-Dietrich-Sets modifiziert die Fertigkeit nicht. Die Verwendung eines Deluxe-Sets kalibrierter Präzisionsdietriche und Ausrüstung zum Schlossknacken fügt dem Fertigkeitswert Ihres Charakters +20% hinzu.*
 
-**Bewegung (BEW):** Das Tempo, mit dem sich dein Charakter während einer einzelnen Kampfrunde fortbewegen kann. Dieser Wert ist flexibel, entspricht aber normalerweise einem Meter gemächlicher Bewegung pro BEW-Punkt.
+**Bewegungsrate (MOV):** Die Bewegungsgeschwindigkeit, die Ihr Charakter während einer einzelnen Kampfrunde zurücklegen kann. Dieses Maß ist flexibel, entspricht aber normalerweise einem Meter unbeeilter Bewegung pro Punkt von MOV.
 
-**Nicht-Spieler-Charakter (NSC):** Ein Charakter oder eine Kreatur in der Spielwelt, die vom Spielleiter gespielt oder anderweitig repräsentiert wird, anstatt von dir oder einem anderen Spieler.
+**Nicht-Spieler-Charakter (NSC):** Ein Charakter oder eine Kreatur in der Spielwelt, die vom Spielleiter gespielt oder anderweitig dargestellt wird, anstatt von Ihnen oder einem anderen Spieler.
 
-**Gegengewürfelter Wurf:** Wenn dein Charakter eine Aktion versuchen möchte, der ein anderer Charakter (oder Nicht-Spieler-Charakter) mit einer „entgegengesetzten“ Fertigkeit entgegenwirken will, die die ursprüngliche Aktion annulliert oder vereitelt. In diesem Fall werden beide Fertigkeitsproben gewürfelt und die Ergebnisse verglichen.
+**Opponierter Wurf:** Wenn Ihr Charakter eine Aktion versuchen möchte, der ein anderer Charakter (oder Nicht-Spieler-Charakter) mit einer „entgegengesetzten“ Fertigkeit begegnen will, die die ursprüngliche Aktion aufhebt oder vereitelt. In diesem Fall werden beide Fertigkeitsproben gewürfelt und die Ergebnisse verglichen.
 
-***Zum Beispiel:*** *Heimlichkeit wird üblicherweise durch Lauschen gegengewürfelt.*
+***Zum Beispiel*** *wird Heimlichkeit normalerweise durch Wahrnehmung aufgehoben.*
 
-**Leidenschaft:** Ein optionales System, bei dem ein stark verankerter Glaube an ein Thema – wie Hingabe, Furcht, Hass, Liebe, Loyalität – auf Prozentbasis gemessen wird. Leidenschaften werden verwendet, um anzuzeigen oder zu bestimmen, was dein Charakter bezüglich dieses Themas empfindet und wie stark, und werden oft genutzt, um Fähigkeitsproben zu verstärken (siehe **Verstärken**).
+**Leidenschaft:** Ein optionales System, bei dem ein stark vertretener Glaube an ein Thema – wie Hingabe, Furcht, Hass, Liebe, Loyalität – auf Prozentbasis gemessen wird. Leidenschaften werden verwendet, um anzuzeigen oder zu bestimmen, wie Ihr Charakter über das Thema denkt und wie stark, und werden oft verwendet, um Fähigkeitswürfe zu verstärken. (siehe **Verstärkungen**).
 
-**Prozentwürfel:** Zwei gemeinsam geworfene W10, wobei einer als Zehnerstelle und der andere als Einerstelle definiert ist. Manche Würfel sind in Zehnereinheiten nummeriert, d. h. 00, 10, 20, 30 usw. Siehe auch **W100**.
+**Prozentwürfel:** Zwei W10, die zusammen gewürfelt werden, wobei einer als Zehnerstelle und der andere als Einerstelle bezeichnet wird. Manche Würfel sind in Zehnerschritten nummeriert, d.h. 00, 10, 20, 30 usw. Siehe auch **W100**.
 
-**Spielercharakter (SK):** Dies ist dein Charakter, der üblicherweise von dir erstellt und fast immer von dir kontrolliert wird. Er besteht aus Fähigkeiten und einer Identität, die du durch das Rollenspiel annimmst. Dein Charakter ist deine Repräsentation in der Spielwelt und ermöglicht es dir, mit dem Setting zu interagieren.
+**Spielercharakter (SK):** Dies ist Ihr Charakter, der normalerweise von Ihnen erstellt und fast immer von Ihnen kontrolliert wird und aus Fähigkeiten sowie einer Identität besteht, die Sie durch das Rollenspiel annehmen. Ihr Charakter ist Ihre Repräsentation in der Spielwelt und ermöglicht es Ihnen, mit der Umgebung zu interagieren.
 
-**Macht:** Ein allgemeiner Begriff für Zaubersprüche, Mutationen, psychische Fähigkeiten, Zauberei oder Superkräfte, die dein Charakter besitzen mag (siehe Kapitel Vier: Mächte).
+**Macht:** Ein allgemeiner Begriff für Zaubersprüche, Mutationen, psychische Fähigkeiten, Hexerei oder Superkräfte, die Ihr Charakter besitzen mag (siehe Kapitel Vier: Mächte).
 
-**Machtpunkte:** Die Menge an Willenskraft oder Energie, die dein Charakter besitzt, dargestellt als Gesamtwert basierend auf seiner Macht-Eigenschaft. Diese werden ausgegeben, um spezielle Mächte oder Fähigkeiten zu nutzen, und können durch andere Fähigkeiten entzogen werden. Wenn dein Charakter 0 Machtpunkte erreicht, wird er bewusstlos. Machtpunkte können in entsprechenden Genres auch **Magiepunkte** genannt werden.
+**Machtpunkte:** Die Menge an Willenskraft oder Energie, die Ihr Charakter hat, dargestellt als Summe basierend auf seiner Macht-Eigenschaft. Diese werden ausgegeben, um spezielle Kräfte oder Fähigkeiten zu nutzen, und können durch andere Fähigkeiten entzogen werden. Wenn Ihr Charakter 0 Machtpunkte erreicht, wird er bewusstlos. Machtpunkte können in entsprechenden Genres auch als **Magiepunkte** bezeichnet werden.
 
-**Beruf:** Die berufliche Tätigkeit deines Charakters, dargestellt als eine Liste von Fertigkeiten, in denen er ausgebildet wurde (oder die er erlernen konnte).
+**Beruf:** Die berufliche Tätigkeit Ihres Charakters, dargestellt als eine Liste von Fertigkeiten, in deren Gebrauch er ausgebildet wurde (oder die er lernen konnte).
 
-**Wert:** Die Erfolgschance für eine Fähigkeit, bewertet als ein Wert von 1–100 (manchmal höher).
+**Rating:** Die Erfolgschance für eine Fähigkeit, bewertet als Wert von 1–100 (manchmal höher).
 
-***Zum Beispiel:*** *Sprengstoffe 43% ist ein Wert von 43, was eine 43%ige Erfolgswahrscheinlichkeit bedeutet, wenn die Fertigkeit unter normalen Umständen eingesetzt wird (siehe auch **Fertigkeitswert**).*
+***Zum Beispiel*** *ist „Sprengstoff 43%“ ein Rating von 43, was eine 43%ige Erfolgschance bedeutet, wenn die Fertigkeit unter normalen Umständen versucht wird. (siehe auch **Fertigkeitswert**).*
 
-**Widerstandswurf:** Wenn dein Charakter eine Aktion versuchen will, der ein lebloses Objekt oder eine Kraft widersteht, wird die relevante Eigenschaft (zum Beispiel Stärke) gegen eine andere angemessene Eigenschaft (zum Beispiel die Stärke der klemmenden Tür) eingesetzt. Die beiden Zahlen werden auf der Widerstandstabelle (siehe unten) abgeglichen, um die Erfolgschance zu bestimmen, und einer oder beide Charaktere würfeln, um zu sehen, wer Erfolg hat. Gleiche Eigenschaften bedeuten eine 50%ige Erfolgschance. Widerstandswürfe können auch verwendet werden, wenn ein Charakter gegen einen anderen antritt, wie etwa bei einem Armdrücken (Stärke gegen Stärke).
+**Widerstandswurf:** Wenn Ihr Charakter eine Aktion versuchen möchte, der ein lebloses Objekt oder eine Kraft widersteht, wird die relevante Eigenschaft (zum Beispiel Stärke) gegen eine andere angemessene Eigenschaft (zum Beispiel die Stärke der feststeckenden Tür) ausgespielt. Die beiden Zahlen werden in der Widerstandstabelle (siehe unten) verglichen, um eine Erfolgschance zu ermitteln, und einer oder beide Charaktere würfeln, um zu sehen, wer erfolgreich ist. Gleiche Eigenschaften bedeuten eine 50%ige Erfolgschance. Widerstandswürfe können auch verwendet werden, wenn ein Charakter gegen einen anderen Charakter antritt, wie bei einem Armdrücken (Stärke gegen Stärke).
 
-**Widerstandstabelle:** Die Tabelle, die das Verhältnis von Eigenschaft zu Eigenschaft aufzeigt. Um die Widerstandstabelle zu verwenden, suche die gegnerische Kraft in der vertikalen Spalte und die widerstehende Kraft in der horizontalen Zeile und lies an deren Schnittpunkt die Erfolgswahrscheinlichkeit ab, ausgedrückt als Prozentchance.
+**Widerstandstabelle:** Die Tabelle, die das Verhältnis von Eigenschaft zu Eigenschaft zeigt. Um die Widerstandstabelle zu verwenden, finden Sie die gegnerische Kraft in der vertikalen Spalte, die widerstehende Kraft in der horizontalen Spalte und vergleichen Sie diese, um die Erfolgswahrscheinlichkeit zu finden, die als Prozentchance ausgedrückt wird.
 
-**Wurf:** Ein Wurf mit einem W100, um zu bestimmen, ob der Versuch, eine Fertigkeit, Fähigkeit oder Macht anzuwenden, erfolgreich war. Das Ergebnis eines Fertigkeitswurfs ist ein **kritischer Erfolg**, **spezieller Erfolg**, **Erfolg**, **Fehlschlag** oder **Patzer**. Zusätzliche Methoden zur Bestimmung der Erfolgsqualität werden in den optionalen Regeln vorgestellt.
+**Wurf:** Ein Wurf mit dem W100, um festzustellen, ob ein Versuch, eine Fertigkeit, Fähigkeit oder Kraft einzusetzen, erfolgreich war. Das Ergebnis eines Fertigkeitswurfs ist ein **kritischer Erfolg**, **spezieller Erfolg**, **Erfolg**, **Fehlschlag** oder **Patzer**. Zusätzliche Methoden zur Bestimmung der Erfolgsqualität werden in den optionalen Regeln vorgestellt.
 
-**Geistige Stabilität:** Ein optionales System, bei dem die mentale Gesundheit deines Charakters an seiner Fähigkeit gemessen wird, schrecklichen Anblicken, Ereignissen und Enthüllungen zu widerstehen. Je niedriger die Geistige Stabilität sinkt, desto mehr schwindet der Bezug zur Realität. Wenn dein Charakter zu viel Stabilität auf einmal verliert, kann er vorübergehend oder dauerhaft wahnsinnig werden.
+**Geistige Gesundheit:** Ein optionales System, bei dem die psychische Gesundheit Ihres Charakters an seiner Fähigkeit gemessen wird, grauenhaften Anblicken, Ereignissen und Enthüllungen zu widerstehen. Wenn die Geistige Gesundheit sinkt, schwindet der Bezug zur Realität. Wenn Ihr Charakter auf einmal zu viel Geistige Gesundheit verliert, kann er vorübergehend oder dauerhaft wahnsinnig werden.
 
-**Fertigkeit:** Eine Fähigkeit, Ausbildung, ein Wissensgebiet, Talent, eine Spezialität oder etwas, worüber dein Charakter etwas weiß (oder darin begabt ist), quantifiziert als Fertigkeitsgrad. Fertigkeiten werden bei Fertigkeitsproben verwendet, bei denen Prozentwürfel gegen den Wert der Fertigkeit gewürfelt werden.
+**Fertigkeit:** Eine Fähigkeit, Ausbildung, ein Wissensgebiet, Talent, Spezialgebiet oder etwas, worüber Ihr Charakter etwas weiß (oder darin talentiert ist), quantifiziert als Fertigkeitsstufe. Fertigkeiten werden bei Fertigkeitswürfen verwendet, bei denen Prozentwürfel gegen den Wert der Fertigkeit gewürfelt werden.
 
-**Fertigkeitswert:** Der Grad an Kompetenz, den dein Charakter in einer Fertigkeit besitzt, ausgedrückt als Zahl von 00% (keinerlei Fertigkeit) bis 100% oder mehr (weltklasse Experte).
+**Fertigkeitswert:** Der Grad der Kompetenz, den Ihr Charakter mit einer Fertigkeit hat, ausgedrückt als Zahl von 00% (keinerlei Fertigkeit) bis 100% oder höher (weltklasse Experte).
 
-**Spezieller Erfolg:** Ein Wurf von 1/5 des erforderlichen Erfolgs-Wertes deutet darauf hin, dass dein Charakter außergewöhnlich gut abgeschnitten hat und ein überlegenes Ergebnis erzielt, als bei einem traditionellen Erfolg. Dies ist besonders im Kampf von Bedeutung.
+**Spezieller Erfolg:** Ein Wurf von 1/5 des erforderlichen Wertes für einen Erfolg zeigt an, dass Ihr Charakter außergewöhnlich gut abgeschnitten hat und ein besseres Ergebnis erzielt als ein traditioneller Erfolg. Dies ist besonders im Kampf von Bedeutung.
 
-***Zum Beispiel:*** *Ein Charakter mit 70% in einer Fertigkeit, der 14 oder weniger würfelt, hat einen speziellen Erfolg erzielt.*
+***Zum Beispiel*** *hat ein Charakter mit 70% in einer Fertigkeit, der 14 oder weniger würfelt, einen speziellen Erfolg erzielt.*
 
-**Erfolg:** Das Ergebnis eines Prozentwürfelwurfs, bei dem dein Charakter die Aufgabe angemessen ausgeführt hat und eine durchschnittliche Erfolgsqualität erzielt hat. Wenn der Wurf sehr niedrig ist, kann es ein **spezieller Erfolg** oder **kritischer Erfolg** sein, wie oben beschrieben. Liegt er über dem Fähigkeitswert, ist es üblicherweise ein **Fehlschlag**. Wenn er sehr hoch ist, wie eine 00, kann es ein **Patzer** sein.
+**Erfolg:** Das Ergebnis eines Prozentwürfelwurfs, bei dem Ihr Charakter die Aufgabe angemessen ausgeführt und eine durchschnittliche Erfolgsqualität erzielt hat. Wenn der Wurf sehr niedrig ist, kann es ein **spezieller Erfolg** oder **kritischer Erfolg** sein, wie oben beschrieben. Wenn er über dem Fähigkeitswert liegt, ist es normalerweise ein **Fehlschlag**. Wenn er sehr hoch ist, wie eine 00, könnte es ein **Patzer** sein.
 
-***Zum Beispiel:*** *Wenn dein Charakter 70% in einer Fertigkeit hat und 70 oder weniger würfelt, ist er erfolgreich gewesen.*
+***Zum Beispiel*** *ist Ihr Charakter bei einer Fertigkeit von 70% erfolgreich, wenn er 70 oder weniger würfelt.*
 
-### Zum Spielen benötigte Materialien
+### Benötigte Materialien zum Spielen
 
-Als Spieler brauchst du kaum etwas anderes als dieses Buch, einen Bleistift, vielleicht etwas leeres Papier und einen Satz Spielwürfel. Würfel sind online in vielen Spiele- und Hobbygeschäften erhältlich und kommen in einer Vielzahl von Farben, Formen, Größen, Qualitäten und Preisen. Du benötigst mindestens einen kompletten Satz, einen von jeder Art, aber mehr sind nützlich. Siehe unten für weitere Informationen zu Würfeln und Würfelmethoden. Manche Spielgruppen verwenden Miniaturen als Repräsentation der Charaktere; falls dies auf deine Gruppe zutrifft, möchtest du vielleicht eine Miniatur mitbringen, die deinem Charakter einigermaßen ähnelt. Im Allgemeinen brauchst du jedoch lediglich deine kreative Energie mit ins Spiel zu bringen.
+Als Spieler benötigen Sie wenig außer diesem Buch, einem Bleistift, vielleicht etwas weißem Papier und einem Satz Spielwürfel. Würfel sind online in vielen Spiele- und Hobbygeschäften erhältlich und in einer Vielzahl von Farben, Formen, Größen, Qualitäten und Preisen zu finden. Sie benötigen mindestens einen vollständigen Satz, einen von jedem, aber mehr sind nützlich. Siehe unten für weitere Informationen zu Würfeln und Würfelmethoden. Manche Spielgruppen verwenden Miniaturen als Repräsentation der Charaktere. Wenn das auf Ihre Gruppe zutrifft, möchten Sie vielleicht eine Miniatur mitbringen, die Ihrem Charakter ein wenig ähnelt. Im Allgemeinen müssen Sie jedoch nur Ihre kreative Energie in das Spiel einbringen.
 
-Als Spielleiter benötigst du ein wenig mehr als ein Spieler, aber nicht viel. Du solltest ein Exemplar dieses Regelwerks und mehr leeres Papier für deine Notizen haben. Es ist eine gute Idee, Kopien des Charakterbogens zu machen, der bereitgestellt wird oder online unter chaosium.com zu finden ist.
+Als Spielleiter benötigen Sie etwas mehr als ein Spieler, aber nicht viel. Sie sollten eine Kopie dieses Regelwerks und mehr weißes Papier für Ihre Notizen haben. Es ist eine gute Idee, Kopien des Charakterbogens zu machen, der zur Verfügung gestellt wird oder online unter chaosium.com zu finden ist.
 
-Zusätzlich solltest du ein Abenteuer vorbereitet haben oder zumindest eine Idee davon, was im Spiel passieren könnte. Dies kann entweder eine eigene Kreation oder ein fertiges Abenteuer sein. Alternativ kannst du ein Abenteuer von einer anderen Spielefirma für andere Spielsysteme adaptieren. Je nachdem, wie gerne du Handouts oder Referenzblätter vorbereitest, kannst du weiteres Material zusammenstellen. Du wirst mehr darüber in Kapitel Neun: Spielleitung erfahren.
+Zusätzlich sollten Sie ein Abenteuer vorbereitet haben oder zumindest eine Idee davon, was im Spiel passieren könnte. Dies kann entweder eine eigene Kreation oder ein fertiges Abenteuer sein. Alternativ können Sie ein Abenteuer eines anderen Spieleherstellers für andere Spielsysteme anpassen. Sie können andere Materialien vorbereiten, je nachdem, wie gerne Sie Handouts oder Referenzblätter vorbereiten. Sie werden mehr darüber in Kapitel Neun: Spielleitung erfahren.
 
 ### Würfel
 
-Basic Roleplaying verwendet vier-, sechs-, acht-, zehn-, zwölf- und 20-seitige Würfel (abgekürzt als W4, W6, W8, W10, W12 und W20). Würfel werden im Allgemeinen geworfen und die Ergebnisse wie gezeigt abgelesen; werden mehrere Würfel geworfen, werden sie addiert. Somit bedeutet 3W6: Wirf drei sechsseitige Würfel und addiere die Ergebnisse.
+Basic Roleplaying verwendet vierseitige, sechsseitige, achtseitige, zehnseitige, zwölfseitige und 20-seitige Würfel (abgekürzt als W4, W6, W8, W10, W12 und W20). Würfel werden im Allgemeinen gewürfelt und die Ergebnisse wie gezeigt gelesen. Wenn mehrere Würfel gewürfelt werden, werden sie addiert. 3W6 bedeutet also: drei sechsseitige Würfel werfen und die Ergebnisse addieren.
 
-Zum Beispiel würde ein 3W6-Wurf, der 1, 4 und 6 ergibt, eine Gesamtsumme von 11 bedeuten. Würfel können auch in verschiedenen Stückelungen addiert werden, wie z. B. 2W6+1W4, was bedeutet, zwei sechsseitige Würfel und einen vierseitigen Würfel zu werfen und deren Summen zu addieren.
+Zum Beispiel würde ein 3W6-Wurf mit 1, 4 und 6 ein Gesamtergebnis von 11 ergeben. Würfel können auch in verschiedenen Stückelungen addiert werden, wie 2W6+1W4, was bedeutet: zwei sechsseitige Würfel und einen vierseitigen Würfel werfen und deren Summen addieren.
 
-Würfelergebnisse werden manchmal modifiziert, indem Zahlen zum ursprünglichen Wurf addiert oder subtrahiert werden, wie etwa 1W6–1, was bedeutet: Wirf einen sechsseitigen Würfel und ziehe 1 von der Gesamtsumme ab, womit der Wurf einen Bereich von 0 bis 5 hat.
+Würfelergebnisse werden manchmal modifiziert, indem Zahlen zum ursprünglichen Wurf addiert oder subtrahiert werden, wie 1W6–1, was bedeutet: einen sechsseitigen Würfel werfen und 1 vom Gesamtergebnis abziehen, was bedeutet, dass der Wurf einen Bereich von 0 bis 5 hat.
 
-Würfelsummen können multipliziert werden, wie z. B. 1W10×10, was bedeutet, dass der Wurf einen Bereich von 10 bis 100 hat.
+Würfelsummen können multipliziert werden, wie 1W10×10, was bedeutet, dass der Wurf einen Bereich von 10 bis 100 hat.
 
-Manchmal scheinen Würfelwürfe nicht exakten Würfelzahlen zu entsprechen, wie etwa W3, was das Ergebnis eines W6-Wurfs geteilt durch zwei und aufgerundet ist. Ein Wurf von W2 oder W5 nutzt einen W4 bzw. W10, die auf ähnliche Weise geworfen und geteilt werden. Solche Würfe sind selten.
+Manchmal scheinen Würfelwürfe nicht exakten Würfelzahlen zu entsprechen, wie W3, was das Ergebnis eines W6-Wurfs geteilt durch zwei und aufgerundet ist. Ein Wurf von W2 oder W5 verwendet einen W4 bzw. einen W10, die auf ähnliche Weise gewürfelt und geteilt werden. Diese Art von Würfen ist selten.
 
-Prozentwürfel sind zwei W10, die zusammen geworfen werden, wobei ein Würfel die Zehnerstelle und der andere die Einerstelle darstellt.
+Prozentwürfel sind zwei W10, die zusammen gewürfelt werden, wobei ein Würfel die Zehnerstelle und der andere die Einerstelle darstellt.
 
-Zum Beispiel könnte ein Wurf von zwei W10 eine 7 und eine 3 oder 73% ergeben.
+Zum Beispiel könnte ein Wurf von zwei W10 eine 7 und eine 3 ergeben, oder 73%.
 
-Ein Wurf von 01% gilt als ideal, während 100% (Würfe von 0 und 0) üblicherweise ein Fehlschlag und das am wenigsten gewünschte Ergebnis sind. Es ist üblich, Würfel verschiedener Farben für die Zehner- und Einerstellen zu verwenden, obwohl Prozentwürfel mittlerweile leicht erhältlich sind, bei denen die Zehnerstellen praktischerweise als 00, 10, 20, 30 usw. gekennzeichnet sind.
+Ein Wurf von 01% gilt als ideal, während 100% (Würfe von 0 und 0) normalerweise ein Fehlschlag und der am wenigsten gewünschte Wurf sind. Es ist üblich, Würfel verschiedener Farben für die Zehner- und Einerstelle zu verwenden, obwohl Prozentwürfel mittlerweile leicht erhältlich sind, bei denen die Zehnerstellen praktischerweise als 00, 10, 20, 30 usw. gekennzeichnet sind.
 
-Apps zum Würfeln erledigen all dies ebenfalls und sind weit verbreitet.
+Apps zum Würfeln erledigen all dies ebenfalls und sind allgemein verfügbar.
 
 ## Hier sind die gebräuchlichsten Würfel:
 
-**W2**: Dies ergibt ein Ergebnis von 1 oder 2. Du kannst einen W4 (oder einen anderen gerade-seitigen Würfel) werfen und durch zwei teilen, einen Münzwurf machen (Kopf = 1, Zahl = 2) oder irgendeinen Würfel nehmen und werfen (ungerades Ergebnis = 1, gerades Ergebnis = 2).
+**W2**: Dies ergibt ein Ergebnis von 1 oder 2. Sie können einen W4 (oder jeden anderen Würfel mit gerader Seitenzahl) werfen und ihn halbieren, einen Münzwurf machen (Kopf = 1, Zahl = 2) oder einen beliebigen Würfel nehmen und werfen (ungerades Ergebnis = 1, gerades Ergebnis = 2).
 
-**W3**: Wirf einen W6 und teile ihn durch zwei, dann aufrunden.
+**W3**: Werfen Sie einen W6 und teilen Sie ihn durch zwei, aufgerundet.
 
-**W4**: Ein vierseitiger Würfel, der ein Ergebnis von 1 bis 4 liefert. Er wird oft für Schadensboni verwendet.
+**W4**: Ein vierseitiger Würfel, der ein Ergebnis von 1 bis 4 liefert. Er wird oft bei Schadensboni verwendet.
 
-**W6**: Der zweithäufigste Würfel, der ein Ergebnis von 1 bis 6 liefert. Du bist wahrscheinlich bereits mit Würfeln dieser Art vertraut.
+**W6**: Der zweithäufigste Würfel, der ein Ergebnis von 1 bis 6 liefert. Sie sind wahrscheinlich bereits mit solchen Würfeln vertraut.
 
 **W8**: Ein achtseitiger Würfel, der ein Ergebnis von 1 bis 8 liefert.
 
-**W10**: Ein zehnseitiger Würfel, der ein Ergebnis von 1 bis 10 liefert, wobei die 0-Seite für 10 steht. Er wird am häufigsten zusammen mit einem anderen W10 als Teil eines Prozentwurfs verwendet.
+**W10**: Ein zehnseitiger Würfel, der ein Ergebnis von 1 bis 10 liefert, wobei die 0-Seite 10 repräsentiert. Er wird am häufigsten zusammen mit einem anderen W10 als Teil eines Prozentwürfelwurfs verwendet.
 
 **W12**: Ein 12-seitiger Würfel, der ein Ergebnis von 1 bis 12 liefert. Dieser Würfeltyp wird nicht sehr oft verwendet.
 
-**W20**: Ein 20-seitiger Würfel, der ein Ergebnis von 1 bis 20 liefert. Dieser Würfeltyp wird außerhalb des optionalen Trefferort-Systems selten verwendet.
+**W20**: Ein 20-seitiger Würfel, der ein Ergebnis von 1 bis 20 liefert. Dieser Würfeltyp wird außerhalb des optionalen Trefferzonensystems selten verwendet.
 
-**W100**: Zwei zehnseitige Würfel, die gemeinsam geworfen werden, wobei ein Würfel den Zehnerwert und der andere den Einerwert repräsentiert. Dies ist der gebräuchlichste Würfelwurf im BRP. Obwohl es sich meist um einen Prozentwurf handelt, werden diese Würfel manchmal für ein grundlegendes Ergebnis geworfen.
+**W100**: Zwei zehnseitige Würfel, die zusammen gewürfelt werden, wobei ein Würfel den Zehnerwert und der andere den Einerwert darstellt. Dies ist der häufigste Würfelwurf im BRP. Obwohl es sich normalerweise um einen Prozentwurf handelt, werden diese Würfel manchmal für ein grundlegendes Ergebnis geworfen.
 
-Zum Beispiel könnte der Spielleiter festlegen, dass jedes Mitglied einer Bande von Gesetzlosen W100 Kupferstücke bei sich trägt. Wenn die Gesetzlosen besiegt werden, würfelt der Spielleiter für jeden Einzelnen.
+Zum Beispiel könnte der Spielleiter festlegen, dass jedes Mitglied einer Gruppe von Banditen W100 Kupfermünzen besitzt. Wenn die Banditen besiegt sind, würfelt der Spielleiter für jeden einzelnen die Würfel.
 
-Manche spezielle Würfelsets enthalten sogar seltene Typen wie W2, W3 usw., diese sind jedoch nicht notwendig.
+Einige spezielle Würfelsets enthalten sogar seltene Typen wie W2, W3 usw., diese sind jedoch nicht notwendig.
 
 > ### Optionale Regeln
-> 
-> Im Laufe der Jahre wurden verschiedene Subsysteme in Basic-Roleplaying-Spiele eingeführt, um Situationen oder Bedingungen abzudecken, die für das spezifische Spiel geeignet sind, wie etwa erweiterte Kampfsysteme für Fantasy-Spiele, Regeln für Wahnsinn und Recherche für Horror-Spiele, Regeln für den Einsatz von Fahrzeugen und Raumschiffen, Regeln für große Leidenschaften und Persönlichkeitsmerkmale, verschiedene Magiesysteme passend zum Genre usw. Kernelemente wurden sogar verändert oder anders behandelt, manchmal sogar in verschiedenen Auflagen desselben Spiels.
-> 
-> Diese Variationen erscheinen hier als optionale Regeln, präsentiert in Kästen wie diesem, mit Vorschlägen dazu, wann man sie verwendet, und Hinweisen darauf, wie sie das Spiel beeinflussen und in manchen Fällen, wie sie mit anderen optionalen Regeln interagieren. Somit kann der Spielleiter optionale Regeln nach Belieben auswählen.
-> 
-> Bevor du mit dem Spielen beginnst, solltest du entscheiden, welche Arten von optionalen Regeln du verwenden möchtest, insbesondere jene, die auf die Charaktererstellung Anwendung finden. *Kapitel Zehn: Settings* schlägt vor, welche optionalen Regeln gut zu bestimmten Settings passen, und zusätzlich ist eine vollständige Liste in *Kapitel Neun: Spielleitung* enthalten.
+>
+> Im Laufe der Jahre wurden verschiedene Subsysteme in Basic Roleplaying-Spiele eingeführt, um Situationen oder Bedingungen abzudecken, die für das spezifische Spiel geeignet sind, wie z.B. erweiterte Kampfsysteme für Fantasy-Spiele, Regeln für Wahnsinn und Forschung für Horror-Spiele, Regeln für die Nutzung von Fahrzeugen und Raumschiffen, Regeln für große Leidenschaften und Persönlichkeitsmerkmale, verschiedene Magiesysteme, die für das Genre geeignet sind, usw. Kernelemente wurden sogar verändert oder unterschiedlich behandelt, manchmal sogar in verschiedenen Ausgaben desselben Spiels.
+>
+> Diese Variationen erscheinen hier als optionale Regeln, die in Kästen wie diesem präsentiert werden, mit Vorschlägen, wann sie zu verwenden sind, Hinweisen darauf, wie sie das Spiel beeinflussen, und in einigen Fällen darüber, wie sie mit anderen optionalen Regeln interagieren. So kann der Spielleiter nach Wunsch optionale Regeln auswählen.
+>
+> Bevor Sie mit dem Spiel beginnen, sollten Sie entscheiden, welche Arten von optionalen Regeln Sie verwenden möchten, insbesondere solche, die sich auf die Charaktererschaffung beziehen. *Kapitel Zehn: Schauplätze* schlägt vor, welche optionalen Regeln gut zu bestimmten Schauplätzen passen, und zusätzlich wird eine vollständige Liste in *Kapitel Neun: Spielleitung* präsentiert.
