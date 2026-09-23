@@ -207,18 +207,56 @@ function buildTermRegex(term) {
 }
 
 /**
+ * Temporarily replaces every Markdown link target -- the `(...)` part of
+ * `[text](target)`, e.g. `(0005_Skills.md?id=stealth-dexint)` -- with a
+ * placeholder token, so glossary term/forbidden-translation regexes (which
+ * are intentionally case-insensitive and can match inside a link's file
+ * path or anchor slug) can never rewrite a link target. Anchor slugs in
+ * particular are frequently the English form of a term (e.g. "stealth")
+ * even inside a translated document, since Docsify anchors are generated
+ * from the ORIGINAL English headings and rule 3 of the translation prompt
+ * requires links to be preserved byte-for-byte.
+ */
+function protectLinkTargets(text) {
+  const placeholders = [];
+  let counter = 0;
+
+  const protectedText = text.replace(/\]\(([^)\s][^)]*)\)/g, (match, target) => {
+    const token = `[[LINKTARGET${counter}]]`;
+    placeholders.push({ token, value: target });
+    counter += 1;
+    return `](${token})`;
+  });
+
+  return { protectedText, placeholders };
+}
+
+/** Swaps the placeholder tokens back out for the original, untouched link targets. */
+function restoreLinkTargets(text, placeholders) {
+  let restored = text;
+  for (const { token, value } of placeholders) {
+    restored = restored.split(token).join(value);
+  }
+  return restored;
+}
+
+/**
  * Applies one target language's glossary to already-translated text:
  *   1. Replaces any "forbidden" (known-bad) translation with its correct
  *      replacement.
  *   2. Replaces any residual, untranslated English source term with its
  *      glossary-mandated translation (a defensive backstop in case the
  *      model missed the prompt instruction for a given occurrence).
+ * Markdown link targets are protected first so a term/abbreviation that
+ * happens to also appear inside a link's path or anchor slug (e.g.
+ * "stealth" inside "0005_Skills.md?id=stealth-dexint") is never rewritten.
  * Returns the text unchanged if there's no glossary for this language.
  */
 function applyGlossaryToText(text, glossary) {
   if (!glossary) return text;
 
-  let result = text;
+  const { protectedText, placeholders } = protectLinkTargets(text);
+  let result = protectedText;
 
   for (const [badTranslation, correctTranslation] of Object.entries(glossary.forbiddenTranslations || {})) {
     result = result.replace(buildTermRegex(badTranslation), correctTranslation);
@@ -228,7 +266,7 @@ function applyGlossaryToText(text, glossary) {
     result = result.replace(buildTermRegex(sourceTerm), preferredTranslation);
   }
 
-  return result;
+  return restoreLinkTargets(result, placeholders);
 }
 
 /**
