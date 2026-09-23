@@ -1,56 +1,56 @@
-# 5. Sistem
+# 5\. Sistem
 
-Tujuan utama dari sistem permainan adalah untuk menjawab dua pertanyaan: "Bagaimana pemain menentukan apakah mereka berhasil atau gagal?" dan "Seberapa baik mereka berhasil atau gagal?" Basic Roleplaying menjawab pertanyaan-pertanyaan tersebut dengan sistem yang bersih dan intuitif menggunakan lemparan dadu untuk menyimulasikan probabilitas apakah suatu aksi berhasil atau gagal, serta kualitas keberhasilan untuk menentukan rentang kemungkinan hasil.
+Seluruh tujuan dari sistem permainan adalah untuk menjawab dua pertanyaan: "Bagaimana pemain menentukan apakah mereka berhasil atau gagal?" dan "Seberapa baik mereka berhasil atau gagal?" Basic Roleplaying menjawab pertanyaan-pertanyaan tersebut dengan sistem yang bersih dan intuitif menggunakan lemparan dadu untuk mensimulasikan probabilitas apakah suatu aksi berhasil atau gagal, serta kualitas keberhasilan untuk menentukan jangkauan hasil yang mungkin.
 
-Aksi rutin dalam situasi rutin tanpa tantangan seharusnya hampir selalu berhasil. Namun, ketika aksi tersebut menjadi dramatis atau luar biasa, saatnya untuk melempar dadu untuk resolusinya. Anda akan ingin mengetahui apakah Skill berhasil ketika bahaya mengancam, atau apakah Skill tersebut gagal total dalam menghadapi tekanan. Dadu memungkinkan krisis dan titik keputusan diselesaikan secara adil tanpa perlu intervensi gamemaster Anda secara konstan.
+Aksi rutin dalam situasi rutin tanpa tantangan seharusnya hampir selalu berhasil. Namun, ketika aksi tersebut menjadi dramatis atau luar biasa, saatnya untuk melempar dadu untuk resolusi. Anda akan ingin mengetahui jika Skill berhasil ketika bahaya mengancam, atau jika mereka gagal total saat menghadapi tekanan. Dadu memungkinkan krisis dan titik keputusan diselesaikan secara imparsial tanpa perlu campur tangan gamemaster Anda secara konstan.
 
-Beberapa Skill, terutama Skill senjata, secara inheren bersifat dramatis dan berbahaya, dan selalu diuji dengan lemparan dadu, begitu pula kecelakaan seperti terjatuh. Semua lemparan untuk menentukan keberhasilan atau kegagalan menggunakan dadu persentase (D100), dengan hasil lebih rendah lebih baik. Tipe dadu lain menetapkan daya rusak yang dihasilkan oleh berbagai senjata atau menentukan informasi pendukung lainnya. *Bab Enam: Pertarungan* membahas tentang menyerang dan bertahan dalam pertarungan. *Bab Tujuh: Aturan Spesifik* berisi panduan untuk mencakup berbagai kondisi dan situasi.
+Beberapa Skill, terutama Skill senjata, pada dasarnya dramatis dan berbahaya, dan selalu harus dilempar, begitu pula dengan kecelakaan seperti jatuh. Semua lemparan untuk menentukan keberhasilan atau kegagalan menggunakan dadu persentase (D100), dengan angka yang lebih rendah lebih baik. Jenis dadu lainnya menetapkan daya rusak yang dilakukan oleh berbagai senjata atau menentukan informasi pendukung lainnya. *Bab Enam: Combat* membahas menyerang dan bertahan dalam combat. *Bab Tujuh: Spot Rules* berisi panduan untuk mencakup berbagai kondisi dan situasi.
 
-Biasanya, gamemaster Anda memberi tahu Anda kapan harus melempar dan jenis lemparan apa yang harus dilakukan—apakah itu lemparan Skill, lemparan tabel resistensi, lemparan karakteristik, dll., tetapi bab ini berguna bagi siapa saja yang ingin mengetahui cara kerja permainan ini.
+Biasanya, gamemaster Anda memberi tahu Anda kapan harus melempar dan jenis lemparan apa yang harus dibuat—apakah itu lemparan Skill, lemparan tabel ketahanan, lemparan karakteristik, dll., tetapi bab ini berguna bagi siapa saja yang ingin tahu bagaimana permainan ini bekerja.
 
 ## Aksi
 
-Terlepas dari genrenya, semua cerita yang bagus (dan petualangan permainan peran) memiliki satu kesamaan: konflik. Karakter dipanggil untuk menyelesaikan segala macam hal dengan kemungkinan yang sulit, mulai dari menemukan dan menafsirkan petunjuk hingga mengalahkan musuh dalam pertarungan yang mematikan.
+Terlepas dari genrenya, semua cerita yang bagus (dan petualangan roleplaying) memiliki satu kesamaan: konflik. Karakter diminta untuk mencapai segala macam hal meskipun peluangnya kecil, mulai dari menemukan dan menafsirkan petunjuk hingga mengalahkan musuh dalam combat yang mematikan.
 
-Lemparan persentil menentukan keberhasilan atau kegagalan aksi yang hasilnya diragukan. Dadu lain dapat membantu mendefinisikan hasil dari lemparan (daya rusak, dll.), tetapi lemparan persentil adalah inti dari sistem ini. Untuk melihat apakah suatu aksi berhasil, lempar D100 dan bandingkan hasilnya dengan peluang yang ditentukan oleh jenis lemparan dan Modifier potensialnya. Jika lemparan persentil sama dengan atau kurang dari target, aksi tersebut berhasil. Lemparan yang lebih tinggi dari peluang keberhasilan berarti gagal.
+Lemparan persentil menentukan keberhasilan atau kegagalan aksi yang hasilnya diragukan. Dadu lain dapat membantu menentukan hasil lemparan (daya rusak, dll.), tetapi lemparan persentil adalah inti dari sistem ini. Untuk melihat apakah suatu aksi berhasil, lempar D100 dan bandingkan hasilnya dengan peluang, yang ditentukan oleh jenis lemparan dan Modifier potensialnya. Jika lemparan persentil sama dengan atau kurang dari target, aksi tersebut berhasil. Lemparan yang lebih tinggi dari peluang keberhasilan berarti gagal.
 
 ### Aksi Otomatis atau Mustahil
 
-Tidak semua aksi memerlukan lemparan dadu. Aktivitas rutin yang dicoba dalam kondisi normal umumnya harus berhasil kecuali jika hal tersebut berada di luar kemampuan karakter. Tidak diperlukan lemparan D100 untuk aksi apa pun yang dianggap sederhana atau rutin oleh gamemaster Anda, tanpa tantangan atau konflik.
+Tidak semua aksi memerlukan lemparan dadu. Aktivitas rutin yang dicoba dalam kondisi normal umumnya harus berhasil kecuali jika itu di luar kemampuan karakter. Tidak ada lemparan D100 yang diperlukan untuk aksi apa pun yang dianggap sederhana atau rutin oleh gamemaster Anda, tanpa tantangan atau konflik.
 
-Di sisi lain, gamemaster Anda mungkin memutuskan bahwa tugas yang benar-benar berat, seperti melakukan operasi jantung tanpa pelatihan medis atau membangun komputer dari kelapa, berada di luar kemampuan para ahli yang paling mahir sekalipun. Jika gamemaster Anda memutuskan bahwa suatu tugas mustahil, tidak ada lemparan dadu yang akan cukup—semua upaya gagal.
+Di sisi lain, gamemaster Anda mungkin memutuskan bahwa tugas yang benar-benar berat, seperti melakukan operasi jantung tanpa pelatihan medis atau membangun komputer dari kelapa, berada di luar kemampuan bahkan bagi ahli yang paling mahir sekalipun. Jika gamemaster Anda memutuskan bahwa suatu tugas mustahil, lemparan dadu apa pun tidak akan cukup—semua upaya gagal.
 
 ### Mengevaluasi Keberhasilan atau Kegagalan
 
-Terkadang upaya karakter Anda dapat memberikan hasil yang sangat berbeda: lemparan dart yang baik akan mengenai papan, sementara lemparan yang beruntung atau luar biasa akan mengenai titik tengah (bull's-eye). Ada lima tingkat keberhasilan untuk setiap jenis lemparan aksi. Diurutkan dari yang terburuk hingga yang terbaik, adalah sebagai berikut:
+Terkadang upaya karakter Anda dapat memberikan hasil yang sangat berbeda: lemparan dart yang baik akan mengenai papan, sementara lemparan yang beruntung atau luar biasa akan mengenai bull's-eye. Ada lima derajat keberhasilan untuk semua jenis lemparan aksi. Diurutkan dari yang terburuk hingga yang terbaik, adalah sebagai berikut:
 
 #### Kegagalan Mutlak
 
-Nasib buruk atau ketidakmampuan terkadang bersekongkol untuk menghasilkan hasil terburuk yang mungkin terjadi, sebuah kegagalan spektakuler yang disebut kegagalan mutlak (Kegagalan Mutlak). Peluang melakukan kegagalan mutlak pada lemparan aksi setara dengan 5% (1/20) dari peluang kegagalan, biasanya pada rentang 96–00. Lemparan 00 selalu merupakan kegagalan mutlak, tidak peduli berapa peringkat Skill-nya. Kegagalan mutlak tidak pernah memberikan hasil yang menguntungkan, dan selalu berakhir dengan menghambat atau bahkan membahayakan karakter Anda dan/atau sekutu melalui hasil yang merugikan atau tidak disengaja. Bab Tiga: Skill dan Bab Enam: Pertarungan membahas konsekuensi spesifik dari lemparan yang gagal mutlak.
+Keberuntungan buruk atau ketidakmampuan terkadang berkonspirasi untuk menghasilkan hasil terburuk yang mungkin terjadi, sebuah kegagalan spektakuler yang disebut Kegagalan Mutlak. Peluang melakukan Kegagalan Mutlak pada lemparan aksi sama dengan 5% (1/20) dari peluang kegagalan, biasanya pada kisaran 96–00. Lemparan 00 selalu merupakan Kegagalan Mutlak, tidak peduli berapa pun peringkat Skill-nya. Kegagalan Mutlak tidak pernah memberikan hasil yang bermanfaat, dan selalu berakhir dengan menghambat atau bahkan membahayakan karakter Anda dan/atau sekutu melalui hasil yang membawa bencana atau tidak disengaja. Bab Tiga: Skill dan Bab Enam: Combat membahas konsekuensi spesifik dari lemparan Kegagalan Mutlak.
 
 #### Gagal
 
-Lemparan yang lebih tinggi dari peluang dasar berarti gagal. Kecuali suatu aksi bersifat Otomatis, selalu ada kemungkinan untuk gagal: tidak peduli seberapa tinggi peluang dasar yang dimodifikasi, lemparan akan gagal pada hasil 96 atau lebih tinggi. Beberapa kegagalan tidak memakan biaya apa pun selain mungkin sedikit martabat, sementara yang lain bisa sangat mahal dalam hal waktu, uang, atau daya rusak fisik. Lihat Bab Tiga: Skill untuk konsekuensi dari lemparan yang gagal. Pengecualiannya adalah lemparan resistensi, di mana perbedaan 10 poin karakteristik cukup untuk membuat hanya lemparan 00 yang menjadi kegagalan.
+Lemparan yang lebih tinggi dari peluang dasar berarti gagal. Kecuali aksi tersebut Otomatis, selalu ada kemungkinan gagal: tidak peduli seberapa tinggi peluang dasar yang dimodifikasi, lemparan akan gagal pada hasil 96 atau lebih tinggi. Beberapa kegagalan tidak memakan biaya apa pun selain mungkin sedikit harga diri, sementara yang lain bisa memakan biaya mahal dalam hal waktu, uang, atau kerusakan fisik. Lihat Bab Tiga: Skill untuk konsekuensi dari lemparan yang gagal. Pengecualiannya adalah lemparan ketahanan, di mana perbedaan 10 poin karakteristik cukup untuk membuat hanya lemparan 00 saja yang menjadi kegagalan.
 
 #### Berhasil
 
-Setiap lemparan yang sama dengan atau di bawah peluang dasar dikualifikasikan sebagai keberhasilan. Keberhasilan menyelesaikan aksi dengan hasil rata-rata. Skill senjata yang mencapai keberhasilan akan memberikan daya rusak sesuai dadu yang terdaftar, dan Skill lain akan memberikan hasil yang disarankan di *Bab Tiga: Skill*.
+Setiap lemparan yang sama dengan atau di bawah peluang dasar dianggap berhasil. Keberhasilan menyelesaikan aksi dengan hasil rata-rata. Skill senjata yang mencapai keberhasilan akan memberikan dadu daya rusak yang terdaftar, dan Skill lainnya memiliki hasil yang disarankan di *Bab Tiga: Skill*.
 
-#### Keberhasilan Spesial
+#### Berhasil Spesial
 
-Beberapa hasil lebih baik dari rata-rata dan memberikan manfaat tambahan. Aksi mencapai keberhasilan spesial jika lemparan sama dengan atau kurang dari 1/5 peringkat Skill. Bulatkan pecahan secara normal (ke bawah jika .49 atau di bawah, ke atas jika .5 atau lebih tinggi). Dalam pertarungan, serangan yang menghasilkan keberhasilan spesial dapat memberikan efek dorong atau tusukan berdasarkan tipe senjata (lihat Bab Enam: Pertarungan untuk detail tambahan), sementara deskripsi Skill di Bab Tiga: Skill memberikan panduan untuk keberhasilan spesial.
+Beberapa hasil lebih baik dari rata-rata dan memberikan manfaat tambahan. Aksi mencapai Berhasil Spesial jika lemparan sama dengan atau kurang dari 1/5 dari peringkat Skill. Bulatkan pecahan secara normal (ke bawah jika .49 atau di bawahnya, ke atas jika .5 atau lebih tinggi). Dalam combat, serangan yang mendapatkan hasil Berhasil Spesial dapat memberikan dorong atau tusukan berdasarkan jenis senjata (lihat Bab Enam: Combat untuk detail tambahan), sementara deskripsi Skill di Bab Tiga: Skill memberikan panduan untuk keberhasilan spesial.
 
-#### Keberhasilan Kritis
+#### Berhasil Kritis
 
-Terkadang karakter Anda akan melakukan suatu aksi dengan sangat baik sehingga mereka mencapai hasil yang luar biasa. Lemparan yang sama dengan atau kurang dari 1/20 dari peringkat Skill adalah keberhasilan kritis. Bulatkan pecahan secara normal. Keberhasilan kritis memberikan hasil terbaik dari semua kemungkinan. Senjata yang mengenai secara kritis benar-benar mengabaikan Armor target dan memberikan daya rusak maksimum (ditambah daya rusak mod yang biasanya dilempar); sementara lemparan Skill mencapai hasil yang jauh lebih baik daripada biasanya. Lihat Bab Tiga: Skill untuk hasil kritis yang disarankan.
+Terkadang karakter Anda akan melakukan aksi dengan sangat baik sehingga mencapai hasil yang luar biasa. Lemparan yang sama dengan atau kurang dari 1/20 dari peringkat Skill adalah Berhasil Kritis. Bulatkan pecahan secara normal. Berhasil Kritis menghasilkan hasil terbaik dari semua hasil yang mungkin. Senjata yang mengenai secara kritis benar-benar mengabaikan Armor target dan melakukan daya rusak maksimum (ditambah Daya Rusak Mod yang dilempar secara normal); sementara lemparan Skill mencapai hasil yang jauh lebih baik daripada biasanya. Lihat Bab Tiga: Skill untuk hasil kritis yang disarankan.
 
 ### Lemparan Skill
 
-Sebagian besar aksi yang dicoba karakter Anda diselesaikan dengan lemparan Skill. Di sini, lemparan persentil menggunakan peringkat karakter Anda dalam Skill yang sesuai sebagai peluang dasar. Setiap Skill yang biasanya memiliki peluang dasar 5% atau lebih tinggi akan selalu berhasil pada lemparan peluang 01–05, bahkan jika tanjakan, Modifier kondisional, atau faktor lain mengurangi peringkat Skill di bawah 5%. Lihat Memodifikasi Lemparan Aksi. Lihat Bab Tiga: Skill untuk informasi lebih lanjut mengenai setiap Skill.
+Sebagian besar aksi yang dicoba karakter Anda diselesaikan dengan lemparan Skill. Di sini, lemparan persentil menggunakan peringkat karakter Anda dalam Skill yang sesuai sebagai peluang dasar. Skill apa pun yang biasanya memiliki peluang dasar 5% atau lebih tinggi selalu berhasil pada lemparan peluang 01–05, bahkan jika kesulitan, Modifier kondisional, atau faktor lain menurunkan peringkat Skill di bawah 5%. Lihat Modifikasi Lemparan Aksi. Lihat Bab Tiga: Skill untuk informasi lebih lanjut tentang setiap Skill.
 
 > ##### Tabel Hasil Skill
 > 
-> Ini adalah rentang untuk keberhasilan kritis, keberhasilan spesial, dan kegagalan mutlak. Hasil untuk keberhasilan spesial mencakup rentang angka untuk keberhasilan kritis. Kapan pun hasil lemparan berada dalam rentang keberhasilan kritis dan spesial, hasil dari keberhasilan kritis (jika sesuai) yang harus diterapkan, bukan keduanya.
+> Ini adalah rentang untuk Berhasil Kritis, Berhasil Spesial, dan Kegagalan Mutlak. Hasil untuk Berhasil Spesial menggabungkan rentang angka untuk Berhasil Kritis. Kapan pun hasil lemparan berada dalam rentang Berhasil Kritis dan Berhasil Spesial, hasil Berhasil Kritis (jika sesuai) yang harus diterapkan, bukan keduanya.
 > 
 > | Peluang Dasar | Kritis | Spesial | Kegagalan Mutlak |
 > | :---- | ----- | ----- | ----- |
@@ -78,60 +78,60 @@ Sebagian besar aksi yang dicoba karakter Anda diselesaikan dengan lemparan Skill
 > | 106–110 | 01–06 | 01–22 | 00 |
 > | 111–115 | 01–06 | 01–23 | 00 |
 > | 116–120 | 01–06 | 01–24 | 00 |
-> | Setiap +5 | Dsb. | Dsb. | 00 |
+> | Setiap \+5 | Dst. | Dst. | 00 |
 
 ### Lemparan Karakteristik
 
-Beberapa aksi tidak mudah dikaitkan dengan Skill tertentu: menarik diri ke atas tali, misalnya. Untuk situasi ini, gunakan lemparan karakteristik, dengan peluang dasar karakteristik karakter Anda dikalikan dengan angka. CON, INT, DEX, dan CHA adalah karakteristik umum yang digunakan, dan sebagian besar lemparan karakteristik menggunakan pengali ×5. Peran karakteristik dasar Anda ditentukan dalam pembuatan karakter. Tergantung pada tanjakan aksi, gamemaster Anda mungkin menggunakan pengali yang lebih tinggi atau lebih rendah. Lihat **Modifier Tanjakan**.
+Beberapa aksi tidak mudah dikaitkan dengan Skill tertentu: misalnya, menarik diri ke atas tali. Untuk situasi ini, gunakan lemparan karakteristik, dengan peluang dasar karakteristik karakter Anda dikalikan dengan angka. KET, KEC, KTG, dan KAR adalah karakteristik umum untuk digunakan, dan sebagian besar lemparan karakteristik menggunakan pengali ×5. Peran karakteristik dasar Anda ditentukan dalam pembuatan karakter. Tergantung pada kesulitan aksi, gamemaster Anda mungkin menggunakan pengali yang lebih tinggi atau lebih rendah. Lihat **Modifier Kesulitan**.
 
-### Lemparan Resistensi
+### Lemparan Ketahanan
 
-Beberapa aksi memerlukan lebih dari sekadar Skill atau kemampuan alami: hambatan harus diatasi untuk berhasil. Dalam kasus ini, gamemaster harus merujuk pada tabel resistensi dan meminta lemparan resistensi. Lemparan resistensi tidak pernah melibatkan Skill, melainkan mengadu karakteristik atau jumlah terukur lainnya satu sama lain. Lihat **Lemparan Skill Berlawanan** untuk cara menangani kontes Skill vs. Skill.
+Beberapa aksi memerlukan lebih dari sekadar Skill atau kemampuan alami: rintangan harus diatasi agar berhasil. Dalam kasus ini, gamemaster harus merujuk pada tabel ketahanan dan meminta lemparan ketahanan. Lemparan ketahanan tidak pernah melibatkan Skill, melainkan mengadu karakteristik atau jumlah terukur lainnya satu sama lain. Lihat **Lemparan Skill Berlawanan** untuk cara menangani kontes Skill vs. Skill.
 
-Untuk melakukan lemparan resistensi, bandingkan faktor aktif dengan faktor pasif pada tabel resistensi. Faktor aktif adalah pihak atau kekuatan yang mencoba mempengaruhi faktor pasif. Berikut adalah semua contoh lemparan resistensi:
+Untuk melakukan lemparan ketahanan, bandingkan faktor aktif dengan faktor pasif pada tabel ketahanan. Faktor aktif adalah pihak atau kekuatan yang mencoba mempengaruhi faktor pasif. Berikut adalah semua contoh lemparan ketahanan:
 
-* Racun dengan Potensi 17 (aktif) meracuni karakter Anda dengan CON 15 (pasif). Racun mencoba memberikan daya rusak pada karakter Anda, jadi racun adalah aktif.
+* Racun dengan Daya 17 (aktif) meracuni karakter Anda dengan KET 15 (pasif). Racun tersebut mencoba memberikan daya rusak pada karakter Anda, jadi racun adalah aktif.
 
-* Karakter Anda memiliki STR 18 (aktif) dan mencoba memindahkan batu ber-SIZ 25 (pasif). Karakter Anda mencoba memindahkan batu tersebut, jadi STR mereka adalah aktif.
+* Karakter Anda memiliki KEK 18 (aktif) dan mencoba memindahkan batu besar dengan UKU 25 (pasif). Karakter Anda mencoba memindahkan batu, jadi KEK-nya adalah aktif.
 
-Peluang dasar lemparan resistensi sama dengan 50% + (karakteristik aktif × 5) – (karakteristik pasif × 5). Jika faktor aktif dan pasif sama, faktor aktif memiliki peluang keberhasilan 50%. Setiap poin yang melebihi faktor pasif oleh faktor aktif mengubah peluang keberhasilan sebesar +5%, sedangkan faktor pasif yang lebih tinggi dari faktor aktif mengubah peluang dasar sebesar –5% untuk setiap poin perbedaan. Perbedaan 10 poin atau lebih menghasilkan keberhasilan atau kegagalan otomatis, meskipun gamemaster Anda mungkin mengizinkan lemparan 01 atau 00 untuk berhasil atau gagal, masing-masing, di mana hasilnya seharusnya otomatis.
+Peluang dasar lemparan ketahanan sama dengan 50% + (karakteristik aktif × 5) – (karakteristik pasif × 5). Jika faktor aktif dan pasif sama, faktor aktif memiliki peluang sukses 50%. Setiap poin yang melebihi faktor pasif oleh faktor aktif mengubah peluang sukses sebesar +5%, sementara faktor pasif yang lebih tinggi dari faktor aktif mengubah peluang dasar sebesar –5% untuk setiap poin perbedaannya. Perbedaan 10 poin atau lebih menghasilkan keberhasilan atau kegagalan otomatis, meskipun gamemaster Anda mungkin mengizinkan lemparan 01 atau 00 untuk berhasil atau gagal, jika hasilnya seharusnya otomatis.
 
-Beberapa penggunaan spesifik dari tabel resistensi meliputi:
+Beberapa penggunaan spesifik tabel ketahanan meliputi:
 
 * **Poin Sihir vs. Poin Sihir:** Kekuatan yang mencoba mempengaruhi atau mengendalikan target sering kali melibatkan kontes poin sihir: total poin sihir karakter Anda saat ini harus mengatasi poin sihir target saat ini agar kekuatan tersebut dapat berpengaruh.
 
-* **Potensi vs. CON:** Semua penyakit dan racun diukur dalam hal Potensi (POT) dan mencocokkan peringkat ini dengan CON target untuk menentukan efeknya. Tergantung pada racun atau penyakitnya, bahkan lemparan yang gagal pun dapat merugikan target.
+* **Daya vs. KET:** Semua penyakit dan racun diukur dalam hal Daya (DAY) dan mencocokkan peringkat ini dengan KET target untuk menentukan efeknya. Tergantung pada racun atau penyakitnya, lemparan yang gagal pun dapat mengganggu target.
 
-* **POW vs. POW:** Kontes tekad klasik. Selain memenangkan lemparan resistensi, keberhasilan dalam kontes POW vs. POW memberi karakter aktif kesempatan untuk menaikkan skor POW mereka jika mereka menang melawan lawan dengan POW yang lebih tinggi.
+* **DAY vs. DAY:** Kontes tekad klasik. Selain memenangkan lemparan ketahanan, keberhasilan dalam kontes DAY vs. DAY memberi karakter aktif kesempatan untuk meningkatkan skor DAY mereka jika mereka menang melawan lawan dengan DAY yang lebih tinggi.
 
-* **STR vs. STR:** Digunakan dalam panco, serta upaya untuk memaksa membuka pintu yang macet atau membengkokkan batang besi. Kontes ini melibatkan hambatan yang tidak fleksibel, bukan yang berat.
+* **KEK vs. KEK:** Digunakan dalam panco, serta upaya untuk memaksa membuka pintu yang macet atau membengkokkan batang besi. Kontes ini melibatkan rintangan yang tidak fleksibel, bukan yang berat.
 
-* **Daya Rusak vs. CON**: Serangan KO dan pukulan ke kepala mencocokkan daya rusak yang dilempar dengan CON target untuk menentukan apakah target pingsan atau KO.
+* **Daya Rusak vs. KET**: Serangan KO dan pukulan ke kepala mencocokkan daya rusak yang dilempar terhadap KET target untuk menentukan apakah target pingsan atau KO.
 
-* **STR+SIZ vs. STR+SIZ:** Serangan menjatuhkan mencoba menggunakan massa dan kekuatan penyerang untuk merobohkan target.
+* **KEK+UKU vs. KEK+UKU:** Serangan mendominasi mencoba menggunakan massa dan kekuatan penyerang untuk menjatuhkan target.
 
-Gamemaster Anda mungkin ingin selalu memberikan kesempatan gagal ketika hasil 00 dilempar, terlepas dari peringkat Skill. Demikian pula, 01 bisa menjadi keberhasilan, bahkan jika tidak mungkin, meskipun ini harus tetap berada dalam kemampuan karakter Anda.
+Gamemaster Anda mungkin ingin selalu memberikan kesempatan gagal ketika hasil 00 dilempar, terlepas dari peringkat Skill. Demikian pula, 01 bisa menjadi keberhasilan, bahkan jika tidak mungkin, meskipun ini harus berada dalam kemampuan karakter Anda.
 
-##### Tabel Resistensi
+##### Tabel Ketahanan
 
 Sumbu atas adalah untuk karakteristik aktif dan sumbu kiri adalah untuk karakteristik pasif.
 
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| **2** | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| **3** | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — | — | — | — |
-| **4** | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — | — | — |
-| **5** | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — | — |
-| **6** | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — | — |
-| **7** | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — | — |
-| **8** | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — | — |
-| **9** | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — | — |
-| **10** | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — | — |
-| **11** | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — | — |
-| **12** | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — | — |
-| **13** | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — | — |
-| **14** | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | — |
+| **1** | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **2** | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **3** | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **4** | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **5** | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **6** | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **7** | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- |
+| **8** | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- |
+| **9** | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- |
+| **10** | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- |
+| **11** | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- |
+| **12** | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- |
+| **13** | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- |
+| **14** | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- |
 | **15** | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 85 |
 | **16** | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 |
 | **17** | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 |
@@ -143,11 +143,11 @@ Sumbu atas adalah untuk karakteristik aktif dan sumbu kiri adalah untuk karakter
 | **23** | — | — | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 |
 | **24** | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** |
 
-Untuk keberhasilan, lempar 1D100 sama dengan atau kurang dari angka yang ditunjukkan. Perubahan di bawah 05% berada dalam **Rentang Kegagalan Otomatis** dan di atas 95% dalam **Rentang Keberhasilan Otomatis**.
+Untuk keberhasilan, lempar 1D100 sama dengan atau kurang dari angka yang ditunjukkan. Perubahan di bawah 05% berada di **Rentang Kegagalan Otomatis** dan di atas 95% di **Rentang Keberhasilan Otomatis**.
 
-#### Hasil Kritis, Keberhasilan Spesial, dan Kegagalan Mutlak pada Lemparan Resistensi
+#### Hasil Kritis, Berhasil Spesial, dan Kegagalan Mutlak pada Lemparan Ketahanan
 
-Biasanya lemparan resistensi memiliki hasil ya/tidak—berhasil atau gagal—tetapi gamemaster Anda mungkin memilih untuk mengkarakterisasi hasil dengan lebih terperinci dalam kasus keberhasilan spesial atau kritis (lihat di bawah), atau kegagalan drastis dengan kegagalan mutlak. Sifat dari hal ini terserah kepada gamemaster Anda, menggunakan panduan untuk tingkat keberhasilan dan kegagalan dengan Skill.
+Biasanya lemparan ketahanan memiliki hasil ya/tidak—berhasil atau gagal—tetapi gamemaster Anda mungkin memilih untuk mengkarakterisasi hasil dengan lebih granular dalam kasus Berhasil Spesial atau Berhasil Kritis (lihat di bawah), atau kegagalan drastis dengan Kegagalan Mutlak. Sifat dari hal ini terserah pada gamemaster Anda, menggunakan panduan untuk tingkat keberhasilan dan kegagalan dengan Skill.
 
 ### Lemparan Skill Spesial
 
@@ -155,303 +155,303 @@ Keadaan khusus mungkin memerlukan sesuatu selain lemparan Skill standar. Kasus i
 
 #### Lemparan Skill Kooperatif
 
-Dua atau lebih karakter dapat mencoba bekerja sama dalam suatu aksi, jika masuk akal. Ini adalah jenis augmentasi. Gamemaster Anda mungkin memaksakan batasan pada berapa banyak karakter yang dapat berkontribusi pada aktivitas tertentu, karena mungkin dibatasi oleh masalah fisik atau praktis lainnya. Beberapa tugas tidak bisa dibantu, tergantung pada keadaannya.
+Dua karakter atau lebih dapat mencoba bekerja sama dalam suatu aksi, jika masuk akal. Ini adalah jenis augmentasi. Gamemaster Anda mungkin memberlakukan batasan tentang berapa banyak karakter yang dapat berkontribusi pada aktivitas tertentu, karena mungkin dibatasi oleh masalah fisik atau praktis lainnya. Beberapa tugas tidak dapat dibantu, tergantung pada keadaannya.
 
-Setiap kali bekerja sama dalam suatu aksi, pilih satu karakter sebagai pemimpin. Semua karakter lain yang membantu harus membuat lemparan Skill. Ambil hasil terbaik atau kegagalan mutlak, jika terjadi.
+Setiap kali bekerja sama dalam suatu aksi, pilih satu karakter sebagai pemimpin. Semua karakter lain yang ikut membantu harus membuat lemparan Skill. Ambil hasil terbaik atau Kegagalan Mutlak, jika terjadi.
 
-* **Keberhasilan Kritis:** Ubah peringkat Skill karakter utama sebesar +50%.
+* **Berhasil Kritis:** Ubah peringkat Skill karakter utama sebesar +50%.
 
-* **Keberhasilan Spesial:** Ubah peringkat Skill sebesar +30%.
+* **Berhasil Spesial:** Ubah peringkat Skill sebesar +30%.
 
 * **Berhasil:** Ubah peringkat Skill sebesar +20%.
 
 * **Gagal:** Jika tidak ada penolong yang berhasil, peringkat Skill karakter utama diubah sebesar –10%.
 
-* **Kegagalan Mutlak:** Kegagalan mutlak dari penolong mana pun sangat mengalihkan perhatian sehingga Skill utama diubah sebesar –50%.
+* **Kegagalan Mutlak:** Kegagalan Mutlak dari penolong mana pun sangat mengganggu sehingga Skill utama diubah sebesar –50%.
 
-Salah satu alasan untuk penggunaan Skill kooperatif adalah untuk meningkatkan peluang keberhasilan karakter utama, serta peluang keberhasilan spesial dan kritis.
+Salah satu alasan penggunaan Skill kooperatif adalah untuk meningkatkan peluang keberhasilan karakter utama, serta peluang untuk Berhasil Spesial dan Kritis.
 
-Jika lemparan Skill utama berhasil, semua orang yang terlibat yang melakukan lemparan Skill yang berhasil dapat melakukan pemeriksaan pengalaman. Jika tidak, tidak ada yang mendapatkan pemeriksaan pengalaman.
+Jika lemparan Skill utama berhasil, semua orang yang terlibat yang membuat lemparan Skill yang berhasil dapat melakukan cek pengalaman. Jika tidak, tidak ada yang mendapatkan cek pengalaman.
 
 Alasan lain untuk penggunaan Skill kooperatif adalah ketika bantuan langsung tidak memungkinkan, seperti membantu memberikan panduan dari jauh.
 
-**Sebagai contoh,** karakter Anda (Pilot 25%) berada di kendali pesawat terbang kecil, mencoba mendarat setelah pilotnya tertembak. Seorang sekutu di darat dengan Pilot 65% berada di menara kontrol lalu lintas udara. Melalui radio, dia memberikan panduan untuk mengemudikan dan mendarat. Meskipun dia tidak berada di dekat pesawat, sekutu tersebut melakukan lemparan Pilot yang berhasil, meningkatkan Skill Pilot karakter Anda yang efektif sebesar +20%, dari 25% menjadi 45%.#### Lemparan Skill Lawan
+**Contohnya,** karakter Anda (Pilot 25%) berada di kendali pesawat kecil, mencoba mendarat setelah pilot ditembak. Sekutu di darat dengan Pilot 65% berada di menara kontrol lalu lintas udara. Melalui radio, dia memberikan panduan untuk mengemudikan dan mendarat. Meskipun dia tidak berada di dekat pesawat, sekutu tersebut melakukan lemparan Pilot yang berhasil, meningkatkan Skill Pilot efektif karakter Anda sebesar +20%, dari 25% menjadi 45%.#### Lemparan Skill yang Dipertentangkan
 
-Terkadang dua Karakter menggunakan Skill secara langsung untuk saling melawan.
+Terkadang dua Karakter menggunakan Skill secara langsung berlawanan satu sama lain.
 
-**Sebagai contoh,** Karakter Anda bersembunyi di pagar tanaman tebal saat mencoba membobol pos musuh. Seorang penjaga yang waspada lewat, mencari penyusup. Apakah Karakter Anda akan lolos dari perhatian? Dalam kasus ini, Skill Persepsi penjaga diadu dengan Skill Senyap Karakter Anda.
+**Sebagai contoh,** Karakter kamu bersembunyi di balik pagar tebal saat mencoba membobol pos penjagaan musuh. Seorang penjaga yang waspada lewat, mencari penyusup. Akankah Karakter kamu luput dari pengamatan? Dalam kasus ini, Skill Intuisi penjaga diadu dengan Skill Senyap Karakter kamu.
 
-Ketika dua Skill diadu, kedua Karakter melempar dadu melawan Skill mereka masing-masing. Karakter yang mencapai tingkat keberhasilan tertinggi memenangkan kontes. Namun, jika hasil lemparan Skill pihak yang kalah berhasil, mereka memodifikasi tingkat keberhasilan pemenang, menggesernya ke bawah satu tingkat untuk setiap tingkat keberhasilan yang mereka capai di atas kegagalan. Jika kedua pihak mencapai tingkat keberhasilan yang sama, hasil angka dadu yang lebih tinggi memenangkan kontes, memberikan keuntungan bagi Karakter dengan peringkat Skill yang lebih tinggi.
+Saat dua Skill dipertentangkan, kedua Karakter melakukan lemparan terhadap Skill mereka masing-masing. Karakter yang mencapai tingkat keberhasilan tertinggi memenangkan kontes tersebut. Namun, jika lemparan Skill pihak yang kalah berhasil, mereka memodifikasi tingkat keberhasilan pemenang, menggesernya ke bawah satu tingkat untuk setiap tingkat keberhasilan yang mereka capai di atas kegagalan. Jika kedua belah pihak mencapai tingkat keberhasilan yang sama, hasil lemparan dadu yang lebih tinggi memenangkan kontes, memberikan keuntungan bagi Karakter dengan peringkat Skill yang lebih tinggi.
 
-**Sebagai contoh,** Skill Senyap Karakter Anda adalah 65, sedangkan penjaga memiliki Skill Persepsi 78. Anda melempar 47, sebuah keberhasilan. Penjaga melempar 13, atau keberhasilan spesial! Penjaga memenangkan kontes, jadi dia sadar akan keberadaan Karakter Anda. Hasil lemparan sukses Karakter Anda menurunkan hasil penjaga dari keberhasilan spesial menjadi keberhasilan normal. Dalam kasus ini, Gamemaster Anda memutuskan bahwa penjaga melihat sekilas Karakter Anda tetapi tidak dapat mengenali fitur pengenal apa pun. Jika penjaga melempar 30, Karakter Anda akan lolos dari perhatian: keduanya berhasil, tetapi keberhasilan normal Karakter Anda mengalahkan keberhasilan normal penjaga dalam hal penggunaan Senyap melawan Persepsi.
+**Sebagai contoh,** Skill Senyap Karakter kamu adalah 65, sementara penjaga memiliki Skill Intuisi 78. Kamu melempar 47, sebuah keberhasilan. Penjaga melempar 13, atau sebuah keberhasilan spesial! Penjaga memenangkan kontes, jadi dia sadar akan keberadaan Karakter kamu. Lemparan sukses Karakter kamu menurunkan hasil penjaga dari keberhasilan spesial menjadi keberhasilan normal. Dalam kasus ini, gamemaster kamu memutuskan bahwa penjaga melihat sekilas Karakter kamu tetapi tidak mengenali fitur identitasnya. Jika penjaga melempar 30, Karakter kamu akan luput dari pengamatan: keduanya berhasil, tetapi keberhasilan normal Karakter kamu mengalahkan keberhasilan normal penjaga dalam hal penggunaan Senyap versus Intuisi.
 
-> ##### Sistem Lemparan Skill Lawan
-> 
-> Ada banyak cara untuk menangani lemparan lawan, dan metode alternatif berikut memungkinkan Gamemaster Anda untuk memilih metode yang mereka sukai, alih-alih metode default yang disajikan di atas.
-> 
-> ###### Skill Lawan Menggunakan Hasil Berhasil Tertinggi
-> 
-> Biarkan semua orang yang terlibat dalam pemeriksaan lawan melempar seperti biasa (dengan Modifier apa pun yang berlaku) dan bandingkan hasilnya. Hasil berhasil tertinggi yang dilempar yang bukan merupakan keberhasilan kritis atau spesial adalah pemenangnya. **Sebagai contoh,** jika dua Karakter memiliki peringkat Skill yang sama sebesar 87% dan satu melempar 86 sementara yang lain melempar 22, lemparan 86 adalah pemenangnya. Kedua lemparan berhasil, tetapi satu memiliki hasil yang lebih tinggi daripada yang lain.
-> 
-> Semakin tinggi Skill Karakter dalam suatu tindakan yang dicoba, semakin besar peluang mereka untuk mengalahkan lawan yang kurang terampil (tetapi masih berhasil). Seri diselesaikan dengan membandingkan peringkat Skill yang tidak dimodifikasi, dengan peringkat Skill yang lebih tinggi menjadi pemenangnya.
-> 
-> Metode alternatif dan lebih kompleks adalah dengan melakukan lemparan seperti biasa lalu mengambil hasil dari lemparan yang berhasil dan menguranginya dari peringkat Skill yang dimodifikasi. Karakter yang mencapai perbedaan tertinggi antara peringkat Skill dan lemparan mereka adalah pemenangnya.
-> 
-> ###### Pengurangan Skill Lawan
-> 
-> Dalam lemparan Skill lawan, satu Skill ditetapkan sebagai Skill aktif/menyerang dan yang lainnya sebagai Skill pasif/bertahan. Pertama, lakukan lemparan Skill untuk Karakter pasif; jika lemparan berhasil, kurangi nilai penuh dari peringkat Skill Karakter tersebut dari peringkat Skill aktif/menyerang. Jika lemparan Skill pasif gagal, Skill menyerang tidak dimodifikasi.
-> 
-> Kegagalan Mutlak pasif mengubah lemparan penyerang menjadi lemparan *Mudah*. Jika Skill pasif lebih tinggi daripada Skill aktif, penyerang masih memiliki peluang keberhasilan default 5% dengan peringkat Skill 5% atau lebih tinggi.
-> 
-> ###### Lemparan Skill Lawan Menggunakan Tabel Ketahanan
-> 
-> Tindakan yang melibatkan dua Skill yang berlawanan dapat diselesaikan menggunakan tabel ketahanan. Bagi peringkat Skill menyerang dan bertahan dengan 5 (pembulatan normal) dan selesaikan sebagai kontes satu lemparan pada tabel ketahanan.
-> 
-> Metode ini menghasilkan hasil yang berbeda dari yang lain dan menolak satu pihak untuk melempar sama sekali. Jika menggunakan metode ini, izinkan para pemain untuk melakukan lemparan kapan pun memungkinkan, dengan Karakter non-pemain menjadi ‘pasif’ pada tabel ketahanan.
+> ##### Sistem Lemparan Skill yang Dipertentangkan
+>
+> Ada banyak cara untuk menangani lemparan yang dipertentangkan, dan metode alternatif berikut memungkinkan gamemaster kamu memilih yang mereka sukai, alih-alih metode standar yang disajikan di atas.
+>
+> ###### Skill yang Dipertentangkan Menggunakan Hasil Sukses Tertinggi
+>
+> Biarkan semua orang yang terlibat dalam pemeriksaan yang dipertentangkan melempar seperti biasa (dengan Modifier apa pun yang berlaku) dan bandingkan hasilnya. Hasil sukses tertinggi yang dilempar yang bukan merupakan keberhasilan kritikal atau spesial adalah pemenangnya. **Sebagai contoh,** jika dua Karakter memiliki peringkat Skill yang sama sebesar 87% dan satu melempar 86 dan yang lain melempar 22, lemparan 86 adalah pemenangnya. Kedua lemparan berhasil, tetapi satu memiliki hasil yang lebih tinggi daripada yang lain.
+>
+> Semakin tinggi Skill Karakter pada suatu tindakan yang dicoba, semakin besar peluang mereka untuk mengalahkan lawan yang kurang terampil (tetapi masih berhasil). Seri diselesaikan dengan membandingkan peringkat Skill yang tidak dimodifikasi, dengan peringkat Skill yang lebih tinggi menjadi pemenangnya.
+>
+> Metode alternatif dan yang lebih kompleks adalah melakukan lemparan seperti biasa dan kemudian mengambil hasil dari lemparan yang berhasil dan menguranginya dari peringkat Skill yang dimodifikasi. Karakter yang mencapai perbedaan tertinggi antara peringkat Skill dan lemparan mereka adalah pemenangnya.
+>
+> ###### Pengurangan Skill yang Dipertentangkan
+>
+> Dalam lemparan Skill yang dipertentangkan, satu Skill ditetapkan sebagai Skill aktif/menyerang dan yang lainnya sebagai Skill pasif/bertahan. Pertama, lakukan lemparan Skill untuk Karakter pasif; jika lemparan berhasil, kurangi nilai penuh dari peringkat Skill Karakter tersebut dari peringkat Skill aktif/menyerang. Jika lemparan Skill pasif gagal, Skill menyerang tidak dimodifikasi.
+>
+> Kegagalan mutlak pasif mengubah lemparan penyerang menjadi lemparan *Sangat Mudah*. Jika Skill pasif lebih tinggi daripada Skill aktif, penyerang masih memiliki peluang keberhasilan default 5% dengan peringkat Skill 5% atau lebih tinggi.
+>
+> ###### Lemparan Skill yang Dipertentangkan Menggunakan Tabel Resistensi
+>
+> Tindakan yang melibatkan dua Skill yang berlawanan dapat diselesaikan menggunakan tabel resistensi. Bagi peringkat Skill menyerang dan bertahan dengan 5 (pembulatan normal) dan selesaikan sebagai kontes lemparan tunggal pada tabel resistensi.
+>
+> Metode ini menghasilkan hasil yang berbeda dari yang lain dan menyangkal satu pihak untuk melakukan lemparan sama sekali. Jika menggunakan metode ini, izinkan pemain untuk melakukan lemparan kapan pun memungkinkan, dengan karakter non-pemain menjadi 'pasif' pada tabel resistensi.
 
 #### Lemparan Skill Gabungan
 
-Dalam beberapa kasus, tindakan Karakter Anda dapat menjadi rumit karena harus melakukan dua hal sekaligus. Mencoba melihat detail kecil saat mengemudi mobil, menembakkan busur dari atas kuda, atau memanjat pohon tanpa mengeluarkan suara adalah semua contohnya. Dalam kasus tersebut, Gamemaster Anda dapat menghubungkan dua Skill bersama-sama dalam satu lemparan, menggunakan peringkat Skill yang lebih rendah sebagai peluang dasar. Jika lemparan berhasil, Karakter Anda menyelesaikan kedua tugas tersebut. Lemparan gagal yang berada di bawah peringkat Skill kedua dapat diperlakukan sebagai keberhasilan parsial.
+Dalam beberapa kasus, tindakan Karakter kamu bisa menjadi rumit karena harus melakukan dua hal sekaligus. Mencoba melihat detail kecil saat mengemudi mobil, memanah dari atas kuda, atau memanjat pohon tanpa mengeluarkan suara adalah contoh-contohnya. Dalam kasus seperti itu, gamemaster kamu dapat menghubungkan dua Skill bersama-sama dalam satu lemparan, menggunakan peringkat Skill yang lebih rendah sebagai peluang dasar. Jika lemparan berhasil, Karakter kamu menyelesaikan kedua tugas tersebut. Lemparan gagal yang berada di bawah peringkat Skill kedua dapat diperlakukan sebagai keberhasilan parsial.
 
-Menggunakan contoh di atas, pengemudi mungkin melewatkan detail tersebut tetapi menghindari kecelakaan mengemudi, penunggang kuda tetap berada di pelana tetapi meleset dari tembakannya, dan pemanjat pohon mencapai dahan atas tetapi mengeluarkan suara. Jika kedua lemparan gagal, konsekuensinya bisa lebih ekstrem.
+Menggunakan contoh di atas, pengemudi mungkin melewatkan detail tersebut tetapi menghindari kecelakaan mengemudi, penunggang kuda tetap di pelana tetapi meleset dari bidikannya, dan pemanjat pohon mencapai dahan atas tetapi mengeluarkan suara. Jika kedua lemparan gagal, konsekuensinya bisa lebih ekstrem.
 
 Lakukan pemeriksaan pengalaman untuk Skill atau Skill yang berhasil.
 
 ## Memodifikasi Lemparan Aksi
 
-Beberapa tindakan lebih mudah atau lebih sulit daripada yang lain, dan terkadang situasi yang menantang atau keberuntungan membantu atau menghambat Karakter. Peringkat Skill sering kali dimodifikasi berdasarkan situasinya.
+Beberapa tindakan lebih mudah atau lebih sulit daripada yang lain, dan terkadang keadaan yang menantang atau keberuntungan membantu atau menghalangi Karakter. Peringkat Skill sering kali dimodifikasi berdasarkan keadaannya.
 
-Ada dua cara utama lemparan aksi dimodifikasi: Modifier tingkat kesulitan dan Modifier situasional.
+Ada dua cara utama lemparan aksi dimodifikasi: Modifier kesulitan dan Modifier situasional.
 
-### Modifier Tingkat Kesulitan
+### Modifier Kesulitan
 
-Beberapa tindakan cukup sederhana sehingga bahkan orang yang tidak terampil pun berhasil tanpa banyak usaha, sementara yang lain cukup menantang untuk membuat seorang ahli ragu. Ketika suatu tindakan itu sendiri lebih mudah atau lebih menantang daripada biasanya, sesuaikan peringkat Skill dengan Modifier tingkat kesulitan. Tingkat kesulitan Standar adalah: *Otomatis*, *Mudah*, *Standar*, *Sulit*, dan *Mustahil*. Tingkat ini dapat berlaku untuk lemparan Skill, lemparan Karakteristik, atau lemparan serupa. Lemparan ketahanan secara tak terelakkan menyiratkan tingkat konflik, dengan kekuatan lawan, sehingga lemparan ini tidak dimodifikasi dengan cara ini.
+Beberapa tindakan cukup sederhana sehingga orang yang tidak terampil pun berhasil tanpa banyak usaha, sementara yang lain cukup menantang untuk membuat seorang ahli ragu. Ketika suatu tindakan itu sendiri lebih mudah atau lebih menantang dari biasanya, sesuaikan peringkat Skill dengan Modifier kesulitan. Tingkat kesulitan standar adalah: *Otomatis*, *Mudah*, *Standar*, *Sulit*, dan *Tangguh*. Tingkat-tingkat ini dapat berlaku untuk lemparan Skill, lemparan karakteristik, atau lemparan serupa. Lemparan resistensi mau tidak mau menyiratkan tingkat konflik, dengan kekuatan lawan, sehingga tidak dimodifikasi dengan cara ini.
 
-Gamemaster Anda adalah otoritas tertinggi tentang kapan suatu tindakan menerima Modifier tingkat kesulitan.
+Gamemaster kamu adalah otoritas tertinggi tentang kapan suatu tindakan menerima Modifier kesulitan.
 
-#### Tindakan Otomatis
+#### Aksi Otomatis
 
-Setiap aktivitas yang begitu duniawi, rutin, atau di bawah keadaan yang paling menguntungkan dan tanpa drama atau konflik apa pun dapat dianggap sebagai *Otomatis*, tanpa perlu lemparan untuk menentukan apakah tindakan tersebut berhasil. Tindakan fisik dan intelektual sehari-hari yang dicoba di bawah kondisi rata-rata selalu berhasil, kecuali ada alasan tertentu yang membuatnya memiliki peluang untuk gagal. Karakter Anda seharusnya dapat melakukan tindakan *Otomatis* pada tingkat kompetensi yang wajar dalam profesi pilihan mereka tanpa perlu melempar setiap kali mereka ingin berhasil—melempar untuk Skill dilakukan pada saat-saat dramatis atau sulit, ketika keberhasilan atau kegagalan penting bagi kelangsungan hidup atau takdir. Penggunaan Skill *Otomatis* tidak pernah menghasilkan pemeriksaan pengalaman.
+Setiap aktivitas yang begitu biasa, rutin, atau di bawah keadaan yang paling menguntungkan dan tanpa drama atau konflik apa pun dapat dianggap sebagai *Otomatis*, tanpa perlu lemparan untuk menentukan apakah tindakan tersebut berhasil. Tindakan fisik dan intelektual sehari-hari yang dilakukan dalam kondisi standar selalu berhasil, kecuali ada alasan mengapa tindakan tersebut harus memiliki peluang kegagalan. Karakter kamu seharusnya dapat melakukan aksi *Otomatis* pada tingkat kompetensi yang wajar dalam profesi pilihan mereka tanpa perlu melempar setiap kali mereka ingin berhasil—melempar untuk Skill dilakukan pada saat-saat dramatis atau sulit, ketika keberhasilan atau kegagalan penting bagi kelangsungan hidup atau takdir. Penggunaan Skill *Otomatis* tidak pernah menghasilkan pemeriksaan pengalaman.
 
-#### Tindakan Mudah
+#### Aksi Mudah
 
-Beberapa tindakan itu *Mudah*, bahkan untuk yang tidak terlatih. Menembak target dari jarak dekat, memanjat pohon dengan banyak pegangan tangan, atau mengingat poin-poin paling mendasar dari suatu disiplin akademis adalah semua tindakan *Mudah*. Untuk tindakan *Mudah*, gandakan peringkat Skill. Lemparan Karakteristik *Mudah* menggunakan pengali ×10 atau gandakan lemparan Karakteristik normal. Namun, keberhasilan pada lemparan Skill *Mudah* tidak layak mendapatkan pemeriksaan pengalaman.
+Beberapa tindakan tergolong *Mudah*, bahkan bagi yang tidak terlatih. Menembak target dari jarak dekat, memanjat pohon dengan banyak pegangan, atau mengingat poin-poin paling mendasar dari disiplin akademis adalah tindakan *Mudah*. Untuk tindakan *Mudah*, gandakan peringkat Skill. Lemparan karakteristik *Mudah* menggunakan pengali ×10 atau menggandakan lemparan karakteristik normal. Namun, keberhasilan pada lemparan Skill *Mudah* tidak layak mendapatkan pemeriksaan pengalaman.
 
-#### Tindakan Standar
+#### Aksi Standar
 
-Sebagian besar tindakan termasuk dalam kategori ini. Jika lemparan Skill atau Karakteristik tidak memiliki Modifier sebelumnya—seperti lemparan Mendengar Mudah—anggaplah itu Standar. Gunakan peringkat dasar untuk tindakan Standar, meskipun mereka mungkin memiliki Modifier situasi. Lemparan Karakteristik Standar menggunakan pengali ×5 dan merupakan default pada lembar Karakter Anda.
+Sebagian besar tindakan termasuk dalam kategori ini. Jika lemparan Skill atau karakteristik tidak memiliki Modifier sebelumnya—seperti lemparan Mendengar Mudah—anggaplah itu Standar. Gunakan peringkat dasar untuk tindakan Standar, meskipun mungkin memiliki Modifier keadaan. Lemparan karakteristik Standar menggunakan pengali ×5 dan merupakan nilai default pada lembar Karakter kamu.
 
-#### Tindakan Sulit
+#### Aksi Sulit
 
-Melawan lawan yang tidak bisa Anda lihat, memanjat permukaan yang curam, atau mengingat detail ilmiah yang tidak jelas adalah semua tugas *Sulit*. Untuk menentukan peringkat Skill atau peringkat Karakteristik untuk tindakan *Sulit*, bagi lemparan Skill atau Karakteristik yang sesuai menjadi setengahnya (bulatkan ke atas).#### Aksi yang Mustahil
+Melawan lawan yang tidak bisa kamu lihat, memanjat permukaan yang curam, atau mengingat detail ilmiah yang tidak jelas adalah tugas yang *Sulit*. Untuk menentukan peringkat Skill atau peringkat karakteristik untuk tindakan *Sulit*, bagi lemparan Skill atau karakteristik yang sesuai menjadi dua (bulatkan ke atas).#### Tindakan Sia-sia
 
-Sebagaimana dijelaskan di atas, aksi yang benar-benar berat atau konyol, seperti melakukan operasi jantung tanpa peralatan bedah atau membangun komputer dari kelapa, berada di luar kemampuan bahkan bagi pakar yang paling mahir sekalipun. Ini adalah tugas yang *Mustahil*. Semua upaya akan gagal, tidak peduli seberapa bagus lemparan dadu pemainnya. Gamemaster Anda mungkin mengizinkan peluang keberhasilan tetap 01%, tergantung pada aksi yang dicoba, meskipun hal ini hanya disarankan jika peluang keberhasilan masuk akal, bagaimanapun kecil kemungkinannya, setara dengan tebakan beruntung atau kejadian ganjil satu banding sejuta.
+Seperti yang dijelaskan di atas, tindakan yang benar-benar luar biasa atau konyol, seperti melakukan operasi jantung tanpa peralatan bedah atau membangun komputer dari kelapa, berada di luar kemampuan bahkan bagi ahli yang paling mahir sekalipun. Ini adalah tugas *Sia-sia*. Semua percobaan akan gagal, tidak peduli seberapa baik pemain melempar dadu. Gamemaster Anda mungkin mengizinkan peluang sukses 01% yang mutlak, tergantung pada tindakan yang dicoba, meskipun ini hanya disarankan jika peluang sukses masih masuk akal, bagaimanapun kecil kemungkinannya, setara dengan tebakan keberuntungan satu banding satu juta atau kejadian aneh.
 
 ### Modifier Situasional
 
-Keadaan khusus atau tidak biasa dapat mempengaruhi rating Skill apa pun menjadi lebih baik atau lebih buruk. Cahaya redup, suara bising, gangguan, hujan, atau kurangnya peralatan yang memadai memberikan penalti pada rating Skill, sementara peralatan luar biasa atau kondisi ideal mungkin memberikan bonus. Kapan pun faktor eksternal dapat mempengaruhi performa Karakter Anda dalam melakukan suatu aksi, gamemaster Anda harus menimbang keadaan tersebut dan menerapkan satu atau lebih Modifier situasional pada peluang dasar.
+Keadaan khusus atau tidak biasa dapat memengaruhi nilai Skill apa pun menjadi lebih baik atau lebih buruk. Cahaya redup, suara bising, gangguan, hujan, atau kurangnya peralatan yang layak memberikan penalti pada nilai Skill, sementara peralatan luar biasa atau kondisi ideal mungkin memberikan bonus. Kapan pun faktor eksternal dapat memengaruhi performa Karakter Anda dalam melakukan suatu tindakan, gamemaster Anda harus mempertimbangkan keadaan tersebut dan menerapkan satu atau beberapa Modifier situasional pada peluang dasar.
 
-Perbedaan antara Modifier kesulitan dan Modifier situasional adalah bahwa Modifier kesulitan biasanya berkaitan dengan Karakter dan aksi yang dicoba, sementara Modifier situasional secara spesifik berkaitan dengan subjek aksi, atau dengan kekuatan atau pengaruh eksternal.
+Perbedaan antara Modifier tanjakan dan Modifier situasional adalah bahwa Modifier tanjakan biasanya berkaitan dengan Karakter dan tindakan yang dicoba, sedangkan Modifier situasional secara spesifik berkaitan dengan subjek tindakan, atau dengan kekuatan atau pengaruh eksternal.
 
-Jika beberapa kondisi berlaku untuk suatu aksi, terapkanlah dengan bijaksana. Modifier situasional apa pun diterapkan setelah Skill dimodifikasi karena menjadi *Sulit* atau *Mudah*. Dengan cara ini, Modifier tidak digandakan atau dibagi dua. Namun, Modifier apa pun yang ‘permanen’, seperti bonus pada Bela Diri dari kekuatan Combat Bela Diri, dihitung ke dalam rating Skill sebelum digandakan atau dibagi dua. Jenis Modifier ini dianggap sebagai bagian integral dari Skill dan dimodifikasi untuk kesulitan bersama dengan sisa rating Skill lainnya.
+Jika beberapa kondisi berlaku untuk suatu tindakan tertentu, terapkanlah dengan bijak. Modifier situasional apa pun diterapkan setelah Skill dimodifikasi karena menjadi *Sulit* atau *Mudah*. Dengan cara ini, Modifier tidak digandakan atau dibagi dua. Namun, Modifier apa pun yang ‘permanen’, seperti bonus untuk Bela Diri dari kekuatan Gaya Tarung, dihitung ke dalam nilai Skill sebelum digandakan atau dibagi dua. Modifier semacam ini dianggap sebagai bagian integral dari Skill dan dimodifikasi untuk tanjakan bersama dengan sisa nilai Skill lainnya.
 
-Berhati-hatilah agar tidak terjebak dalam perincian penentuan Modifier situasional. Gamemaster Anda harus menilai tingkat keparahan keadaan, menentukan Modifier keseluruhan, dan membiarkan Anda melempar dadu secepat mungkin. Modifier situasional dimaksudkan sebagai alat untuk menambah drama pada situasi tegang, bukan sebagai panduan ketat atau daftar periksa yang mencoba mensimulasikan realisme mutlak.
+Berhati-hatilah agar tidak terjebak dalam perincian penentuan Modifier situasional. Gamemaster Anda harus menilai tingkat keparahan keadaan, menentukan Modifier keseluruhan, dan membiarkan Anda melempar dadu secepat mungkin. Modifier situasional dimaksudkan sebagai alat untuk menambah drama pada situasi yang menegangkan, bukan pedoman ketat atau daftar periksa yang mencoba mensimulasikan realisme mutlak.
 
 ##### Modifier Situasional
 
 | Kondisi | Deskripsi | Modifier |
 | :---- | :---- | :---- |
 | Kompleksitas Tugas | Sangat kompleks tanpa solusi atau panduan yang jelas | –50% |
-| | Tidak ada kondisi yang dapat dipecahkan dan/atau kompleks yang tidak perlu | –20% |
-| | Relatif langsung, solusinya agak jelas | +20% |
-| | Sederhana, dengan solusi yang jelas | +50% |
+|  | Tidak ada kondisi yang jelas untuk diselesaikan dan/atau terlalu kompleks | –20% |
+|  | Relatif mudah, solusinya agak jelas | +20% |
+|  | Sederhana, dengan solusi yang nyata | +50% |
 | Peralatan | Tidak ada peralatan saat peralatan diperlukan | –50% |
-| | Peralatan buruk atau improvisasi | –20% |
-| | Peralatan berkualitas tinggi dan persediaan unggul | +20% |
-| | Peralatan dan persediaan canggih atau berteknologi tinggi | +50% |
-| Lingkungan | Lingkungan yang mengganggu, tanah yang sangat tidak stabil, gelap gulita, badai, dll. | –50% |
-| | Kondisi tidak menyenangkan atau tidak higienis, pijakan tidak stabil, kegelapan, cuaca buruk, dll. | –20% |
-| | Kondisi yang menguntungkan, pijakan yang baik, banyak ruang, relatif tenang, dll. | +20% |
-| | Lingkungan yang bersih atau sempurna yang ideal untuk tugas yang ada | +50% |
-| Familiaritas | Benar-benar asing dan di luar pengalaman Manusia | –50% |
-| | Aneh dan menggunakan prinsip yang tidak familiar | –20% |
-| | Subjek yang relatif terkenal | +20% |
-| | Rutin dan benar-benar familiar | +50% |
-| Jarak | Jauh di luar jangkauan normal | –50% |
-| | Di luar zona nyaman | –20% |
-| | Jauh di dalam jangkauan | +20% |
-| | Ditempatkan dengan sempurna dan ideal untuk upaya tersebut | +50% |
-| Waktu | Tidak ada cukup waktu untuk melakukan tugas tersebut | –50% |
-| | Terburu-buru dan stres karenanya | –20% |
-| | Banyak waktu | +20% |
-| | Aktivitas dapat dilakukan di waktu luang, dengan kontemplasi dan pertimbangan | +50% |
-| Pemahaman | Tidak ada cara interaksi umum dengan subjek | –50% |
-| | Metode komunikasi terbatas yang tersedia | –20% |
-| | Subjek familiar dan mau berinteraksi | +20% |
-| | Subjek terkenal, antusias dengan interaksi | +50% |
+|  | Peralatan buruk atau hasil improvisasi | –20% |
+|  | Peralatan berkualitas tinggi dan persediaan unggul | +20% |
+|  | Peralatan dan persediaan canggih atau berteknologi tinggi | +50% |
+| Lingkungan | Lingkungan yang mengganggu, tanah sangat tidak stabil, gelap gulita, badai, dll. | –50% |
+|  | Kondisi tidak menyenangkan atau tidak higienis, pijakan tidak stabil, kegelapan, cuaca buruk, dll. | –20% |
+|  | Kondisi menguntungkan, pijakan bagus, banyak ruang, relatif tenang, dll. | +20% |
+|  | Lingkungan murni atau sempurna yang sangat cocok untuk tugas yang ada | +50% |
+| Keakraban | Sepenuhnya asing dan di luar pengalaman Manusia | –50% |
+|  | Aneh dan menggunakan prinsip yang tidak dikenal | –20% |
+|  | Subjek yang relatif dikenal | +20% |
+|  | Rutin dan sangat dikenal | +50% |
+| Jarak | Jauh di luar jarak normal | –50% |
+|  | Di luar jarak kenyamanan | –20% |
+|  | Sangat dekat dengan jarak jangkau | +20% |
+|  | Ditempatkan dengan sempurna dan ideal untuk percobaan | +50% |
+| Waktu | Tidak cukup waktu untuk melakukan tugas | –50% |
+|  | Terburu-buru dan merasa tertekan | –20% |
+|  | Banyak waktu | +20% |
+|  | Aktivitas dapat dilakukan dengan santai, dengan kontemplasi dan pertimbangan | +50% |
+| Pemahaman | Tidak ada sarana interaksi umum dengan subjek | –50% |
+|  | Metode komunikasi terbatas yang tersedia | –20% |
+|  | Subjek dikenal dan bersedia berinteraksi | +20% |
+|  | Subjek sangat dikenal, antusias dengan interaksi | +50% |
 
-> ### Rating Skill di atas 100% (Opsi)
+> ### Nilai Skill di atas 100% (Opsi)
 > 
-> Untuk game yang menggunakan level kekuatan epik atau manusia super, gamemaster Anda mungkin mengizinkan Karakter Anda (dan non-Karakter pemain) untuk memiliki peringkat Skill di atas 100%. Kompetensi yang ditingkatkan ini memungkinkan peluang yang lebih besar untuk keberhasilan spesial dan kritis, serta keberhasilan bahkan ketika kesulitan signifikan atau Modifier situasional telah menurunkan peluang keberhasilan. Ini mewakili tingkat keahlian superlatif, yang terbaik di dunia. Rating Skill di atas 100% dapat membuat penentuan lemparan dadu yang berlawanan menjadi jauh lebih mudah (lihat **Sistem Lemparan Skill yang Berlawanan**), dan sangat signifikan dalam pertempuran (lihat **Skill Serang dan Tangkis di Atas 100%**).
+> Untuk game yang menggunakan tingkat kekuatan epik atau manusia super, gamemaster Anda mungkin mengizinkan Karakter Anda (dan karakter non-pemain) untuk memiliki nilai Skill di atas 100%. Kompetensi yang meningkat ini memungkinkan peluang yang lebih besar untuk kesuksesan spesial dan kritis, dan kesuksesan bahkan ketika Modifier kesulitan atau situasional yang signifikan telah menurunkan peluang sukses. Ini mewakili tingkat keahlian superlatif, yang terbaik di dunia. Nilai Skill di atas 100% dapat membuat penentuan lemparan berlawanan menjadi jauh lebih mudah (lihat **Sistem Lemparan Skill Berlawanan**), dan sangat signifikan dalam pertarungan (lihat **Skill Serangan dan Menghindar di atas 100%**).
 
 
-> ### Poin Hoki (Opsi)
+> ### Poin Nasib (Opsi)
 > 
-> Terkadang, Anda dan gamemaster Anda tidak ingin membiarkan hasil lemparan dadu menjadi penentu akhir dari takdir Karakter Anda. Jika gamemaster Anda ingin memungkinkan lebih banyak agensi pemain dalam hasil, poin kekuatan dapat digunakan sebagai sumber daya untuk mempengaruhi hasil lemparan dadu dan narasi itu sendiri. Ini memungkinkan kontrol yang lebih besar atas hasil dadu, dan peningkatan efektivitas dalam bermain.
+> Terkadang, Anda dan gamemaster Anda tidak ingin membiarkan hasil lemparan menjadi penentu akhir nasib Karakter Anda. Jika gamemaster Anda ingin memberikan lebih banyak agensi pemain dalam hasil, poin kekuatan dapat digunakan sebagai sumber daya untuk memengaruhi hasil lemparan dan narasi itu sendiri. Ini memungkinkan kontrol yang lebih besar atas hasil dadu, dan peningkatan efektivitas dalam permainan.
 > 
-> Berikut adalah beberapa saran penggunaan poin kekuatan untuk memanipulasi lemparan dadu atau narasi:
+> Berikut adalah beberapa saran penggunaan poin kekuatan untuk memanipulasi lemparan atau narasi:
 > 
-> * Habiskan 5 poin kekuatan untuk melempar ulang lemparan persentil apa pun yang diinginkan. Ini dapat dinyatakan setelah lemparan awal dilakukan, meskipun hasil lemparan kedua bersifat final. Keberhasilan dengan lemparan ulang ini tidak mendapatkan pemeriksaan pengalaman.
+> * Habiskan 5 poin kekuatan untuk melempar ulang lemparan persentil apa pun yang diinginkan. Ini dapat diumumkan setelah lemparan awal dilakukan, meskipun hasil lemparan kedua bersifat final. Kesuksesan dengan lemparan ulang ini tidak mendapatkan cek pengalaman.
 > 
-> * Habiskan 5 poin kekuatan untuk mengabaikan Skill dan mempercayai takdir, menggunakan lemparan Hoki Sulit sebagai gantinya. Ini tidak dapat digunakan untuk lemparan resistensi atau karakteristik dan tidak dapat dilempar ulang. Keberhasilan dengan metode ini tidak mendapatkan pemeriksaan pengalaman atau memodifikasi Tekad dengan cara apa pun.
+> * Habiskan 5 poin kekuatan untuk mengabaikan Skill dan mempercayai nasib, menggunakan lemparan Poin Hoki yang Sulit sebagai gantinya. Ini tidak dapat digunakan untuk lemparan resistensi atau karakteristik dan tidak dapat dilempar ulang. Kesuksesan dengan metode ini tidak mendapatkan cek pengalaman atau memodifikasi DAY dalam bentuk apa pun.
 > 
-> * Habiskan 3 poin kekuatan untuk mengabaikan 1 poin Daya Rusak dari satu serangan. Poin Daya Rusak ini diabaikan begitu saja; mereka tidak dihitung untuk dorongan atau efek lainnya. Gamemaster Anda mungkin meminta Anda untuk memberikan penjelasan tentang bagaimana Daya Rusak tersebut tidak diderita, seperti ‘Botol wiski baja di saku depan saya menahan peluru’ atau alasan lainnya.
+> * Habiskan 3 poin kekuatan untuk mengabaikan 1 poin Daya Rusak dari satu serangan. Poin Daya Rusak ini diabaikan begitu saja; mereka tidak dihitung untuk dorongan ke belakang atau efek lainnya. Gamemaster Anda mungkin meminta Anda untuk memberikan penjelasan tentang bagaimana Daya Rusak tersebut tidak diderita, seperti ‘Botol wiski baja di saku depan saya menahan peluru’ atau alasan lainnya.
 > 
-> Penggunaan poin kekuatan apa pun untuk ini ditangani secara normal, jadi jika berkurang menjadi 0 poin kekuatan, Karakter Anda kehabisan tenaga dan pingsan sampai mendapatkan kembali setidaknya 1 poin kekuatan.
+> Penggunaan poin kekuatan apa pun untuk ini ditangani secara normal, jadi jika berkurang menjadi 0 poin kekuatan, Karakter Anda akan kehabisan tenaga dan pingsan sampai mendapatkan kembali setidaknya 1 poin kekuatan.
 > 
-> Kegunaan poin kekuatan dapat diperluas sesuai keinginan gamemaster Anda, dengan beberapa kemungkinan berikut:
+> Penggunaan poin kekuatan dapat diperluas sesuai keinginan gamemaster Anda, dengan beberapa kemungkinan berikut:
 > 
-> * Habiskan 6 poin kekuatan untuk menggeser hasil lemparan ke hasil yang lebih menguntungkan, seperti mengubah kegagalan mutlak menjadi kegagalan, kegagalan menjadi keberhasilan normal, keberhasilan normal menjadi keberhasilan spesial, atau keberhasilan spesial menjadi keberhasilan kritis. Ini hanya dapat digunakan pada lemparan Karakter Anda dan tidak dapat diterapkan pada dadu yang telah dilempar ulang. Anda dapat melakukan ini setelah dadu dilempar dan dapat menggeser hasil sebanyak level hasil yang ingin Anda belanjakan dengan poin kekuatan. Tidak peduli apa lemparan awalnya, keberhasilan tidak mendapatkan pemeriksaan pengalaman.
+> * Habiskan 6 poin kekuatan untuk menggeser hasil lemparan ke arah hasil yang lebih menguntungkan, seperti mengubah kegagalan mutlak menjadi kegagalan, kegagalan menjadi kesuksesan normal, kesuksesan normal menjadi kesuksesan spesial, atau kesuksesan spesial menjadi kesuksesan kritis. Ini hanya dapat digunakan pada lemparan Karakter Anda dan tidak dapat diterapkan pada dadu yang telah dilempar ulang. Anda dapat melakukan ini setelah dadu dilempar dan dapat menggeser hasil sebanyak tingkat hasil yang ingin Anda belanjakan dengan poin kekuatan. Apa pun hasil lemparan awal, kesuksesan tidak mendapatkan cek pengalaman.
 > 
-> * Habiskan poin kekuatan yang setara dengan seluruh rentang Daya Rusak senjata Anda untuk memberikan Daya Rusak maksimum dalam satu serangan yang berhasil.
+> * Habiskan poin kekuatan yang setara dengan seluruh rentang Daya Rusak senjata Anda untuk memberikan Daya Rusak maksimum dalam satu serangan sukses. 
 > 
->   Misalnya, pedang pendek memberikan 1D6+1 Daya Rusak secara normal, jadi dengan menghabiskan 7 poin kekuatan, ia memberikan 7 poin Daya Rusak (tidak perlu lemparan), ditambah Daya Rusak mod jika berlaku. Ini memakan seluruh rentang Daya Rusak senjata yang dapat dilempar dan tidak dapat ditambah. Daya Rusak mod dilempar secara normal.
+>   Sebagai contoh, pedang pendek memberikan 1D6+1 Daya Rusak secara normal, jadi dengan menghabiskan 7 poin kekuatan, senjata tersebut memberikan 7 poin Daya Rusak (tak perlu melempar), ditambah Daya Rusak Mod jika berlaku. Ini memakan seluruh rentang Daya Rusak senjata yang dapat dilempar dan tidak dapat ditambah. Daya Rusak Mod dilempar secara normal.
 > 
-> * Habiskan sejumlah poin kekuatan variabel untuk menambahkan detail ke lingkungan, atau ke latar belakang atau sumber daya Karakter Anda. Ini bisa berkisar dari 1 poin kekuatan tunggal untuk detail kecil hingga 10+ poin kekuatan untuk keuntungan yang signifikan.
+> * Habiskan sejumlah poin kekuatan variabel untuk menambahkan detail ke lingkungan, atau ke latar belakang atau sumber daya Karakter Anda. Ini bisa berkisar dari 1 poin kekuatan untuk detail kecil hingga 10+ poin kekuatan untuk keuntungan yang signifikan. 
 > 
->   Misalnya, “mengingat” telah membawa sekotak korek api saat korek api akan berguna mungkin hanya memakan 1 poin kekuatan. Namun, setelah dilucuti senjatanya dan dilemparkan ke dalam lubang, menemukan belati berkarat namun bisa digunakan di tumpukan tulang mantan korban mungkin memakan poin kekuatan yang setara dengan total Daya Rusak belati (5 poin). Biaya ini merupakan kebijaksanaan gamemaster Anda. Contoh lain mungkin memiliki kontak yang berhutang budi pada Karakter Anda (1–3 poin kekuatan, tergantung pada ukuran bantuan), dapat menemukan pakaian bersih yang tidak dijaga tergantung di jemuran (1 poin kekuatan), atau bahkan menemukan kunci mobil yang disembunyikan di atas pelindung matahari saat membutuhkan kendaraan pelarian dengan terburu-buru (6 poin kekuatan).
+>   Sebagai contoh, “mengingat” telah membawa sekotak korek api saat korek api akan berguna mungkin hanya memakan 1 poin kekuatan. Namun, setelah dilucuti dan dilemparkan ke dalam lubang, menemukan belati berkarat tapi masih bisa digunakan di tumpukan tulang korban sebelumnya mungkin memakan poin kekuatan setara dengan total Daya Rusak belati (5 poin). Biaya ini tergantung pada kebijakan gamemaster Anda. Contoh lain mungkin memiliki kontak yang berutang budi pada Karakter Anda (1–3 poin kekuatan, tergantung pada besarnya bantuan), bisa menemukan pakaian bersih yang tidak dijaga tergantung di jemuran (1 poin kekuatan), atau bahkan menemukan kunci mobil yang disembunyikan di atas pelindung matahari saat membutuhkan kendaraan pelarian dengan terburu-buru (6 poin kekuatan).
 > 
-> Gamemaster Anda hanya boleh menggunakan opsi ini jika tujuannya adalah permainan yang lebih berorientasi pada aksi, petualangan tinggi dengan Karakter yang lebih tangguh dan kompeten, seperti pahlawan super atau petualang fantasi tinggi. Pengaturan horor tidak boleh menggunakan sistem ini, karena komponen utama horor adalah ketidakmampuan untuk mengendalikan nasib seseorang, dan sarana untuk memanipulasi hasil kontraproduktif dengan tujuan tersebut.
+> Gamemaster Anda hanya boleh menggunakan opsi ini jika tujuannya adalah game yang lebih berorientasi aksi dan petualangan tinggi dengan Karakter yang lebih tangguh dan kompeten, seperti pahlawan super atau petualang fantasi tinggi. Pengaturan horor tidak boleh menggunakan sistem ini, karena komponen kunci dari horor adalah ketidakmampuan untuk mengendalikan nasib seseorang, dan sarana untuk memanipulasi hasil sangat bertentangan dengan tujuan tersebut.
 
 ## Skala Waktu
 
-Waktu dalam pengaturan game jarang setara dengan waktu yang benar-benar dihabiskan untuk bermain. Terkadang, gamemaster Anda mungkin perlu merangkum kejadian selama berhari-hari dalam satu kalimat, seperti “Butuh waktu seminggu bagimu untuk mencapai Konstantinopel” sementara di lain waktu, terutama dalam pertempuran, beberapa detik waktu bisa memakan waktu beberapa menit atau lebih untuk diselesaikan.
+Waktu dalam latar permainan jarang setara dengan waktu yang benar-benar dihabiskan untuk bermain. Terkadang, gamemaster Anda mungkin perlu meringkas peristiwa selama beberapa hari dalam satu kalimat, seperti “Perlu waktu seminggu untuk mencapai Konstantinopel” sementara di lain waktu, khususnya dalam pertarungan, beberapa detik waktu bisa memakan waktu beberapa Menit atau lebih lama untuk diselesaikan.
 
-Secara umum, skala waktu utama adalah waktu **naratif**, sebuah **adegan**, **giliran**, dan **putaran pertempuran**. Tabel **Interval Waktu Signifikan** mencantumkan hal-hal umum yang dapat terjadi dalam permainan, dengan berapa lama waktu yang dibutuhkan masing-masing.
+Secara umum, skala waktu utama adalah waktu **narasi**, sebuah **adegan**, **turn**, dan **ronde pertarungan**. Tabel **Interval Waktu Signifikan** mencantumkan hal-hal umum yang dapat terjadi dalam permainan, beserta durasi masing-masing.
 
-### Waktu Naratif (variabel)
+### Waktu Narasi (variabel)
 
-Karena fleksibilitasnya, ini adalah yang paling tidak jelas dari skala waktu. Ini adalah waktu yang mungkin dinarasikan oleh gamemaster Anda atau saat Anda dan pemain lain sedang di luar karakter mendiskusikan rencana dan situasi Karakter Anda. Sebagian besar permainan terjadi dalam skala naratif. Kecuali ada alasan khusus untuk itu, sebagian besar permainan peran yang sebenarnya juga berlangsung dalam skala waktu naratif. Saat Anda dan gamemaster Anda melakukan permainan peran percakapan, skala waktu naratif paling mirip dengan waktu nyata, di mana sebuah percakapan memakan waktu selama waktu yang dibutuhkan untuk memainkannya.
+Karena fleksibilitasnya, ini adalah yang paling tidak jelas dari skala waktu. Ini adalah waktu saat gamemaster Anda mungkin sedang menarasikan atau saat Anda dan pemain lain sedang berada di luar Karakter mendiskusikan rencana dan situasi Karakter Anda. Sebagian besar permainan terjadi dalam skala narasi. Kecuali ada alasan khusus untuk itu, sebagian besar permainan peran yang sebenarnya juga berlangsung dalam skala waktu narasi. Saat Anda dan gamemaster Anda melakukan permainan peran percakapan, skala waktu narasi paling mirip dengan waktu nyata, di mana percakapan memakan waktu selama waktu yang dibutuhkan untuk memainkannya.
 
-Jika sesi permainan mencakup perjalanan yang panjang, atau periode aktivitas di mana waktu yang tepat tidak relevan, waktu dipadatkan secara besar-besaran, umumnya tidak terlihat di luar narasi, dan berhari-hari atau bahkan berminggu-minggu dapat dilewati dalam satu baris narasi. Jika sejumlah besar waktu ditangani dengan cara ini, gamemaster Anda harus mengizinkan Karakter Anda untuk melakukan aktivitas apa pun yang dapat masuk ke dalam kerangka waktu ini, dalam batas wajar. Jika Karakter Anda bebas bertindak selama lompatan waktu ini, gamemaster Anda harus meminta Anda untuk memperhitungkan aktivitas Karakter Anda dalam periode tersebut.
+Jika sesi permainan mencakup perjalanan yang panjang, atau periode aktivitas di mana waktu yang tepat tidak relevan, waktu dikompresi secara drastis, umumnya tidak diperhatikan di luar narasi, dan hari atau bahkan minggu dapat dilewati dalam satu baris narasi. Jika jumlah waktu yang besar ditangani dengan cara ini, gamemaster Anda harus mengizinkan Karakter Anda untuk melakukan aktivitas apa pun yang dapat masuk ke dalam jangka waktu tersebut, dalam batas wajar. Jika Karakter Anda bebas untuk bertindak selama lompatan waktu ini, gamemaster Anda harus meminta Anda untuk memperhitungkan aktivitas Karakter Anda dalam periode tersebut.
 
 ### Adegan (variabel)
 
-Istilah ini menggambarkan urutan apa pun yang terjadi di lokasi dan kerangka waktu tertentu. Adegan adalah pertemuan atau contoh waktu cerita, di mana pemain memulai dan mengakhiri suatu aktivitas. Adegan bisa panjang atau sangat pendek, tergantung pada apa dan seberapa banyak yang terjadi. Pada dasarnya, adegan dimulai ketika penting untuk memperhatikan pertempuran atau permainan peran (meninggalkan waktu naratif) dan adegan berakhir ketika Karakter memasuki kembali waktu naratif.
+Istilah ini menjelaskan urutan apa pun yang terjadi di lokasi dan jangka waktu tertentu. Adegan adalah pertemuan atau contoh waktu cerita, di mana pemain memulai dan mengakhiri suatu aktivitas. Adegan bisa panjang atau cukup singkat, tergantung pada apa dan seberapa banyak yang terjadi. Pada dasarnya, adegan dimulai ketika penting untuk memperhatikan pertarungan atau permainan peran (meninggalkan waktu narasi) dan adegan berakhir ketika Karakter memasuki kembali waktu narasi.
 
-Bagian dari atau seluruh adegan dapat diukur dalam waktu naratif, giliran permainan, dan putaran pertempuran (dijelaskan di bawah), atau kombinasi apa pun dari satu atau lebih dari ketiganya. Sebagian besar adegan berisi waktu naratif, sementara beberapa tidak perlu berisi giliran permainan atau putaran pertempuran. Beberapa adegan, bagaimanapun, mungkin tidak lebih dari putaran pertempuran dan/atau giliran permainan.
+Sebagian atau seluruh adegan dapat diukur dalam waktu narasi, turn permainan, dan ronde pertarungan (dijelaskan di bawah), atau kombinasi apa pun dari satu atau lebih dari ketiganya. Sebagian besar adegan berisi waktu narasi, sementara beberapa tidak harus berisi turn permainan atau ronde pertarungan. Namun, beberapa adegan mungkin tidak lain hanyalah ronde pertarungan dan/atau turn permainan.
 
-### Giliran (5 Menit)
+### Turn (5 Menit)
 
-Jumlah waktu spesifik pertama yang tidak variabel adalah giliran. Setiap giliran sama dengan lima menit (25 putaran pertempuran). Giliran digunakan untuk gerakan umum ketika tidak ada konflik atau peristiwa lain yang harus ditangani secara mendetail. Ini juga merupakan jumlah waktu umum untuk berapa lama Skill tertentu dibutuhkan, terutama yang non-tempur, seperti perbaikan cepat atau membersihkan dan membalut luka dengan benar. Bab Tiga: Skill membahas berapa lama upaya Skill selesai dilakukan, meskipun ini dapat bervariasi secara dramatis tergantung pada keadaan.
+Jumlah waktu spesifik pertama yang tidak variabel adalah turn. Setiap turn setara dengan lima Menit (25 ronde pertarungan). Turn digunakan untuk pergerakan umum ketika tidak ada konflik atau peristiwa lain yang harus ditangani secara mendetail. Ini juga merupakan jumlah waktu umum untuk berapa lama Skill tertentu harus diselesaikan, terutama Skill non-tempur, seperti perbaikan cepat atau membersihkan dan membalut luka dengan benar. Bab Tiga: Skill membahas berapa lama percobaan Skill harus diselesaikan, meskipun ini bisa sangat bervariasi tergantung keadaan.
 
-### Putaran Pertempuran (12 Detik)
+### Ronde Pertarungan (12 detik)
 
-Putaran pertempuran mendefinisikan apa yang terjadi dari saat ke saat dalam urutan aksi (bukan hanya pertempuran). Ini terdiri dari 12 detik aktivitas yang serba cepat. Jika penting untuk melacak apa yang terjadi dalam urutan apa, gunakan putaran pertempuran. Ini diulangi sampai pertempuran atau urutan aksi berakhir dan tidak ada lagi kebutuhan untuk pertimbangan waktu yang sedetail itu.
+Ronde pertarungan mendefinisikan apa yang terjadi dari waktu ke waktu dalam urutan aksi (bukan hanya pertarungan). Ini terdiri dari 12 detik aktivitas yang serba cepat. Ketika penting untuk melacak apa yang terjadi dalam urutan apa, gunakan ronde pertarungan. Ini diulang sampai pertarungan atau urutan aksi berakhir dan tidak ada lagi kebutuhan untuk pertimbangan waktu yang sedetail itu.
 
-Biasanya, setiap Karakter mendapatkan satu aksi aktif (ofensif) dan satu atau lebih aksi defensif dalam satu putaran pertempuran. Jika Karakter Anda tidak terlibat dalam pertempuran, dalam satu putaran pertempuran mereka dapat bergerak sekitar 30 meter dan tetap dapat melihat apa yang terjadi di dekatnya, menangkis serangan yang masuk, dan bereaksi terhadap keadaan darurat.
+Biasanya, setiap Karakter mendapatkan satu aksi aktif (ofensif) dan satu atau beberapa aksi defensif dalam ronde pertarungan. Jika Karakter Anda tidak terlibat dalam pertarungan, dalam satu ronde pertarungan mereka dapat bergerak sekitar 30 meter dan tetap bisa mengawasi apa yang terjadi di dekatnya, menangkis serangan yang masuk, dan bereaksi terhadap keadaan darurat.
 
-Lihat Bab Enam: Pertempuran untuk detail lebih lanjut tentang apa yang mungkin dilakukan dalam pertempuran, dan Gerakan Putaran Pertempuran untuk informasi lebih lanjut tentang seberapa cepat Karakter dapat bergerak dalam putaran pertempuran. Makhluk lain bergerak lebih cepat atau lebih lambat selama putaran pertempuran (lihat Bab Sebelas: Makhluk).
+Lihat Bab Enam: Pertarungan untuk detail lebih lanjut tentang apa yang mungkin dilakukan dalam pertarungan, dan Pergerakan Ronde Pertarungan untuk informasi lebih lanjut tentang seberapa cepat Karakter dapat bergerak dalam ronde pertarungan. Makhluk lain bergerak lebih cepat atau lebih lambat selama ronde pertarungan (lihat Bab Sebelas: Makhluk).
 
 > ##### Interval Waktu Signifikan
 > 
-> Berikut adalah contoh berguna dari ukuran waktu yang signifikan untuk hal-hal yang terjadi dalam permainan:
+> Berikut adalah contoh berguna dari ukuran waktu signifikan untuk hal-hal yang terjadi dalam permainan:
 > 
 > | Aktivitas | Jumlah Waktu |
 > | :---- | :---- |
-> | Waktu naratif | Variabel, waktu yang dihabiskan untuk bermain peran atau mendeskripsikan aksi |
-> | Adegan | Variabel, dapat mencakup waktu naratif, giliran, dan putaran pertempuran |
-> | Giliran permainan (atau cukup ‘giliran’) | Lima menit, atau 25 putaran pertempuran |
-> | Putaran pertempuran | Dua belas detik |
+> | Waktu narasi | Variabel, waktu yang dihabiskan untuk bermain peran atau mendeskripsikan tindakan |
+> | Adegan | Variabel, bisa mencakup waktu narasi, turn, dan ronde pertarungan |
+> | Turn permainan (atau hanya ‘turn’) | Lima Menit, atau 25 ronde pertarungan |
+> | Ronde pertarungan | Dua belas detik |
 > | Waktu perjalanan | Karakter biasanya dapat menempuh sepuluh jam waktu tanpa kesulitan berarti, tergantung pada moda perjalanan, medan, cuaca, dll. |
-> | Giliran | Lihat Giliran permainan, di atas |
+> | Turn | Lihat Turn permainan, di atas |
 > | Ketidaksadaran | Biasanya sekitar satu jam, tergantung pada penyebabnya |
-> | Regenerasi 1 poin kelelahan | Satu menit (lima putaran pertempuran) tanpa aktivitas |
-> | Regenerasi semua poin kelelahan | Dua puluh menit istirahat dan tanpa aktivitas |
-> | Regenerasi 1D3 poin darah | Satu minggu permainan (tujuh hari) |
+> | Regenerasi 1 poin kelelahan | Satu Menit (lima ronde pertarungan) tidak aktif |
+> | Regenerasi semua poin kelelahan | Dua puluh Menit istirahat dan tidak aktif |
+> | Regenerasi 1D3 Poin Hit | Satu minggu permainan (tujuh hari) |
 > | Regenerasi 1 poin sihir | Satu poin sihir per jam tidur, dan 1 per dua jam bangun |
 > | Regenerasi semua poin sihir | Satu hari permainan (24 jam, atau yang setara) |
-> | Lemparan pelatihan, Skill pertempuran | Sekitar tiga minggu permainan |
-> | Lemparan pelatihan, Skill non-tempur | Sekitar 12 minggu permainan atau kurang |
+> | Lemparan pelatihan, Skill pertarungan | Sekitar tiga minggu permainan |
+> | Lemparan pelatihan, Skill non-pertarungan | Sekitar 12 minggu permainan atau kurang |
 > | Lemparan pengalaman | Satu minggu permainan atau lebih |
 
-## Waktu dan Gerakan
+## Waktu dan Pergerakan
 
-Seringkali penting untuk mengetahui secara tepat seberapa jauh Karakter Anda dapat melakukan perjalanan dalam sebulan permainan, seminggu, sehari, sejam, satu giliran, dan yang terpenting, satu putaran pertempuran. Gerakan diklasifikasikan ke dalam tiga kategori:
+Seringkali penting untuk mengetahui secara tepat seberapa jauh Karakter Anda dapat melakukan perjalanan dalam sebulan permainan, seminggu, sehari, satu jam, satu turn, dan yang terpenting, satu ronde pertarungan. Pergerakan diklasifikasikan ke dalam tiga kategori:
 
-* **Gerakan putaran pertempuran** relatif konkret. Ini hanyalah jumlah waktu yang dapat ditempuh Karakter Anda dalam 12 detik waktu permainan. Tingkat gerakan putaran pertempuran dijelaskan dalam **Gerakan Putaran Pertempuran** dan didasarkan pada karakteristik MOV.
+* **Pergerakan ronde pertarungan** relatif konkret. Ini hanyalah jumlah waktu Karakter Anda dapat bergerak dalam 12 detik waktu permainan. Tingkat pergerakan ronde pertarungan dijelaskan dalam **Pergerakan Ronde Pertarungan** dan didasarkan pada karakteristik MOV.
 
-* **Gerakan lokal** adalah berapa lama waktu yang dibutuhkan Karakter Anda untuk pindah dari satu lokasi ke lokasi lain dan dijelaskan dalam tabel **Tingkat Gerakan**. Ini adalah saat Anda perlu mengetahui berapa lama waktu yang dibutuhkan untuk sampai dari satu bagian bangunan besar ke bagian lain; atau melintasi kota.
+* **Pergerakan lokal** adalah berapa lama waktu yang dibutuhkan Karakter Anda untuk bergerak dari satu lokasi ke lokasi lain dan dijelaskan dalam tabel **Tingkat Pergerakan**. Ini adalah saat Anda perlu mengetahui berapa lama waktu yang dibutuhkan untuk sampai dari satu bagian bangunan besar ke bangunan lain; atau melintasi kota.
 
-* **Gerakan regional** membawa Anda dari satu wilayah ke wilayah lain dan biasanya abstrak serta ditangani melalui narasi daripada permainan yang sebenarnya. Umumnya, jumlah gerakan apa pun yang memerlukan waktu lebih dari satu jam paling baik ditangani dalam gerakan regional. Terkadang penting untuk menentukan secara tepat berapa banyak waktu yang dibutuhkan gerakan regional: lihat kolom ‘Hari’ pada tabel **Tingkat Gerakan**.
+* **Pergerakan regional** membawa Anda dari satu wilayah ke wilayah lain dan biasanya abstrak dan ditangani melalui narasi daripada permainan yang sebenarnya. Umumnya, jumlah pergerakan apa pun yang memerlukan lebih dari satu jam paling baik ditangani dalam pergerakan regional. Terkadang penting untuk menentukan secara tepat berapa banyak waktu yang dibutuhkan pergerakan regional: lihat kolom ‘Hari’ pada tabel **Tingkat Pergerakan**.
 
-Tabel **Tingkat Gerakan** mencakup moda perjalanan umum. Sebagai referensi lagi, putaran pertempuran adalah 12 detik; satu giliran adalah lima menit; satu jam adalah 12 giliran; dan satu hari permainan diasumsikan memungkinkan sepuluh jam perjalanan. Aksi Karakter seperti menunggang kuda dengan keras dan mengambil sedikit istirahat dapat mempengaruhi hal ini, jadi gamemaster Anda harus mendasarkan durasi lain pada pedoman ini.
+Tabel **Tingkat Pergerakan** mencakup moda perjalanan umum. Sebagai referensi lagi, ronde pertarungan adalah 12 detik; turn adalah lima Menit; satu jam adalah 12 turn; dan satu hari permainan diasumsikan memungkinkan sepuluh jam perjalanan. Aksi Karakter seperti menunggang dengan keras dan sedikit beristirahat dapat memengaruhi hal ini, jadi gamemaster Anda harus mendasarkan durasi lain pada pedoman ini.
 
-Untuk detail lebih lanjut, lihat **Kendaraan** di Bab Delapan: Peralatan. Tingkat ini sangat umum—untuk kecepatan spesifik, lihat entri yang relevan, dan gamemaster Anda harus menyesuaikan untuk semua variabel seperti pertempuran, perbaikan, medan, lalu lintas, dll.
+Untuk detail lebih lanjut, lihat **Kendaraan** di Bab Delapan: Peralatan. Tingkat ini sangat umum—untuk kecepatan spesifik lihat entri yang relevan, dan gamemaster Anda harus menyesuaikan untuk semua variabel seperti pertarungan, perbaikan, medan, lalu lintas, dll.
 
-### Gerakan Putaran Pertempuran
+### Pergerakan Ronde Pertarungan
 
-Karakter memiliki tingkat gerakan (MOV) 10 unit per putaran pertempuran. Satu unit dapat mewakili beberapa hingga 10 meter, tergantung pada situasinya. Jika gamemaster Anda memerlukan pengukuran yang tepat, mereka mungkin menggunakan 3 meter per unit, tetapi jarak relatif antar petarung biasanya adalah hal yang paling relevan.
+Karakter memiliki tingkat pergerakan (MOV) sebesar 10 unit per ronde pertarungan. Satu unit dapat mewakili beberapa hingga 10 meter, tergantung pada situasinya. Jika gamemaster Anda membutuhkan ukuran yang tepat, mereka mungkin menggunakan 3 meter per unit, tetapi jarak relatif antar petarung biasanya merupakan masalah yang paling relevan.
 
-Sepuluh unit mewakili tingkat gerakan maksimum yang berkelanjutan bagi manusia normal. Makhluk lain memiliki tingkat MOV yang berbeda (lihat *Bab Sebelas: Makhluk*). Ketika jarak dan tingkat penting, gamemaster Anda dapat memberikan pengukuran spesifik, tetapi harus mencoba menjawab pertanyaan semacam itu dalam istilah permainan, seperti “Butuh dua putaran pertempuran bagimu untuk sampai ke sana.”
+Sepuluh unit mewakili tingkat pergerakan maksimum yang berkelanjutan bagi manusia normal. Makhluk lain memiliki tingkat MOV yang berbeda (lihat *Bab Sebelas: Makhluk*). Ketika jarak dan tingkat kecepatan penting, gamemaster Anda dapat memberikan ukuran spesifik, tetapi harus mencoba menjawab pertanyaan semacam itu dalam istilah permainan, seperti “Perlu dua ronde pertarungan bagi Anda untuk sampai ke sana.”
 
-Gamemaster Anda juga dapat menurunkan atribut MOV Karakter Anda untuk sementara berdasarkan keadaan, seperti kelebihan beban, kelelahan, gerakan hati-hati, dll. **Modifier Medan dan Cuaca** memberikan panduan tentang bagaimana gerakan dapat dipengaruhi oleh faktor-faktor ini. Lihat **Pengejaran** jika menyangkut pengejaran.
+Gamemaster Anda juga dapat menurunkan atribut MOV Karakter Anda untuk sementara berdasarkan keadaan, seperti kelebihan beban, kelelahan, pergerakan hati-hati, dll. **Modifier Medan dan Cuaca** memberikan pedoman tentang bagaimana pergerakan dapat dipengaruhi oleh faktor-faktor ini. Lihat **Pengejaran** jika berkaitan dengan pengejaran.
 
-Nilai dalam **Tingkat Gerakan** dan seterusnya adalah perkiraan, berdasarkan hari perjalanan sepuluh jam jika relevan. Kendaraan dengan kru yang bekerja dalam shift atau diawaki oleh makhluk yang tidak cepat lelah atau tidak beristirahat dapat melakukan perjalanan 24 jam tanpa henti.
+Nilai dalam **Tingkat Pergerakan** dan setelahnya adalah perkiraan, berdasarkan hari perjalanan sepuluh jam jika relevan. Kendaraan dengan kru yang bekerja dalam shift atau diawaki oleh makhluk yang tidak merasa lelah atau beristirahat dapat melakukan perjalanan selama 24 jam tanpa gangguan.
 
-Untuk mendapatkan tingkat gerakan untuk moda transportasi yang tidak terdaftar, tentukan tingkat gerakan untuk moda tersebut selama satu putaran pertempuran. Setelah Anda memiliki nilai tersebut, nilai itu dapat digunakan untuk menentukan sisa tingkat gerakan:
+Untuk mendapatkan tingkat pergerakan untuk moda transportasi yang tidak terdaftar, tentukan tingkat pergerakan untuk moda tersebut untuk satu ronde pertarungan. Setelah Anda memiliki nilai itu, nilai tersebut dapat digunakan untuk menentukan sisa tingkat pergerakan:
 
-* Kalikan tingkat gerakan putaran pertempuran dengan ×25 untuk satu giliran
+* Kalikan tingkat pergerakan ronde pertarungan dengan ×25 untuk satu turn
 
-* Kalikan tingkat gerakan giliran dengan ×12 untuk satu jam
+* Kalikan tingkat pergerakan turn dengan ×12 untuk satu jam
 
-* Kalikan tingkat gerakan per jam dengan ×10 untuk satu hari
+* Kalikan tingkat pergerakan per jam dengan ×10 untuk satu hari
 
-* Kalikan tingkat gerakan per jam dengan ×24 untuk satu hari perjalanan tanpa henti
+* Kalikan tingkat pergerakan per jam dengan ×24 untuk hari perjalanan tanpa gangguan
 
-##### Tingkat Gerakan
+##### Tingkat Pergerakan
 
-| Tingkat | Putaran Pertempuran | Giliran | Jam | Hari |
+| Tingkat | Ronde Pertarungan | Turn | Jam | Hari |
 | :---- | :---- | :---- | :---- | :---- |
 | Berjalan | 10 meter | 250 meter | 3 kilometer | 30 kilometer |
-| Berbaris, paksa* | 12 meter | 300 meter | 3,6 kilometer | 36 kilometer |
-| Berlari, normal** | 30 meter | 750 meter | 9 kilometer | 90 kilometer |
-| Berlari, sprint** | 50 meter | 1.250 meter | 15 kilometer | 150 kilometer |
-| Berenang | 5 meter | 125 meter | 1,5 kilometer | 15 kilometer |
-| Menunggang, kecepatan jalan | 12 meter | 300 meter | 3,6 kilometer | 36 kilometer |
-| Menunggang, galop* | 60 meter | 1,5 kilometer | 18 kilometer | 180 kilometer |
+| Berbaris, dipaksa\* | 12 meter | 300 meter | 3.6 kilometer | 36 kilometer |
+| Berlari, normal\*\* | 30 meter | 750 meter | 9 kilometer | 90 kilometer |
+| Berlari, sprint\*\* | 50 meter | 1.250 meter | 15 kilometer | 150 kilometer |
+| Berenang | 5 meter | 125 meter | 1.5 kilometer | 15 kilometer |
+| Menunggang, kecepatan jalan | 12 meter | 300 meter | 3.6 kilometer | 36 kilometer |
+| Menunggang, gallop\* | 60 meter | 1.5 kilometer | 18 kilometer | 180 kilometer |
 | Kendaraan darat, ditarik | 10 meter | 250 meter | 3 kilometer | 30 kilometer |
-| Kendaraan darat, vintage | 200 meter | 5 kilometer | 60 kilometer | 600 kilometer |
+| Kendaraan darat, antik | 200 meter | 5 kilometer | 60 kilometer | 600 kilometer |
 | Kendaraan darat, modern | 400 meter | 10 kilometer | 120 kilometer | 1.200 kilometer |
-| Kendaraan darat, masa depan | 1,2 kilometer | 30 kilometer | 360 kilometer | 3.600 kilometer |
-| Perahu, dayung kecil | 40 meter | 1 kilometer | 12 kilometer | 120 kilometer |
-| Kapal, dayung kuno | 10 meter | 250 meter | 3 kilometer | 30 kilometer |
-| Kapal, layar vintage | 20 meter | 500 meter | 6 kilometer | 60 kilometer |
+| Kendaraan darat, masa depan | 1.2 kilometer | 30 kilometer | 360 kilometer | 3.600 kilometer |
+| Perahu, didayung kecil | 40 meter | 1 kilometer | 12 kilometer | 120 kilometer |
+| Kapal, didayung kuno | 10 meter | 250 meter | 3 kilometer | 30 kilometer |
+| Kapal, layar antik | 20 meter | 500 meter | 6 kilometer | 60 kilometer |
 | Kapal, pesiar modern | 200 meter | 5 kilometer | 60 kilometer | 600 kilometer |
 | Kapal, masa depan | 600 meter | 15 kilometer | 180 kilometer | 1.800 kilometer |
 | Kereta, mesin uap | 200 meter | 5 kilometer | 60 kilometer | 600 kilometer |
-| Kereta, peluru | 1,1 kilometer | 27,5 kilometer | 330 kilometer | 3.300 kilometer |
-| Kereta, mag-lev | 1,6 kilometer | 40 kilometer | 480 kilometer | 4.800 kilometer |
-| Kendaraan udara, dirigibel | 400 meter | 10 kilometer | 120 kilometer | 1.200 kilometer |
+| Kereta, peluru | 1.1 kilometer | 27.5 kilometer | 330 kilometer | 3.300 kilometer |
+| Kereta, mag-lev | 1.6 kilometer | 40 kilometer | 480 kilometer | 4.800 kilometer |
+| Kendaraan udara, dirigible | 400 meter | 10 kilometer | 120 kilometer | 1.200 kilometer |
 | Kendaraan udara, baling-baling | 600 meter | 15 kilometer | 180 kilometer | 1.800 kilometer |
-| Kendaraan udara, jet | 3,25 kilometer | 81,25 kilometer | 975 kilometer | 9.750 kilometer |
-| Kendaraan udara, masa depan | 1,75 kilometer | 43,75 kilometer | 525 kilometer | 5.250 kilometer |
+| Kendaraan udara, jet | 3.25 kilometer | 81.25 kilometer | 975 kilometer | 9.750 kilometer |
+| Kendaraan udara, masa depan | 1.75 kilometer | 43.75 kilometer | 525 kilometer | 5.250 kilometer |
 | Kendaraan luar angkasa, modern | 100 kilometer | 2.500 kilometer | 30.000 kilometer | 300.000 kilometer |
 | Kendaraan luar angkasa, masa depan | Bervariasi | Bervariasi | Bervariasi | Bervariasi |
 
-* **Aturan Opsi – Poin Kelelahan**: Ini memakan 1 poin kelelahan per jam permainan, dan memerlukan lemparan Ketahanan harian atau Karakter Anda kehilangan 1 poin darah setiap hari. Jika Karakter Anda menunggang, baik tunggangan maupun penunggang kehilangan poin darah. Lihat **Poin Kelelahan** dan **Poin Sanitas**.
+\* **Aturan Opsi – Poin Kelelahan**: Ini memakan 1 poin kelelahan per jam permainan, dan memerlukan lemparan Konstitusi harian atau Karakter Anda kehilangan 1 Poin Hit setiap hari. Jika Karakter Anda sedang menunggang, baik tunggangan maupun penunggang kehilangan Poin Hit. Lihat **Poin Kelelahan** dan **Poin Kewarasan**.
 
-** **Aturan Opsi – Poin Kelelahan**: Berlari memakan 1 poin kelelahan per giliran, dan memerlukan lemparan Ketahanan per jam yang berhasil atau kehilangan 1 poin darah setiap jam. Lihat **Poin Kelelahan** dan **Poin Sanitas**.
+\*\* **Aturan Opsi – Poin Kelelahan**: Berlari memakan 1 poin kelelahan per turn, dan memerlukan lemparan Konstitusi per jam yang sukses atau memakan 1 Poin Hit setiap jam. Lihat **Poin Kelelahan** dan **Poin Kewarasan**.
 
 ## Modifier Medan dan Cuaca
 
-Tingkat perjalanan di atas mengasumsikan kondisi jalan atau jalur yang wajar. Modifier berikut berlaku untuk jenis medan yang tidak biasa atau berbeda. Kendaraan bertenaga mungkin dibebaskan dari beberapa Modifier ini, dengan akal sehat dan gamemaster Anda memberikan penilaian akhir. Curah hujan normal tidak memperlambat mobil secara dramatis, sedangkan salju tebal iya.
+Tingkat perjalanan di atas mengasumsikan kondisi jalan atau jalur yang wajar. Modifier berikut berlaku untuk jenis medan yang tidak biasa atau berbeda. Kendaraan bermesin mungkin dikecualikan dari beberapa Modifier ini, dengan akal sehat dan gamemaster Anda yang memberikan keputusan akhir. Curah hujan normal tidak memperlambat mobil secara drastis, sementara salju tebal akan memperlambat.
 
-* Kecuali dijembatani atau bisa diseberangi, sungai besar memakan waktu sepanjang hari untuk diseberangi. Sungai kecil mengurangi gerakan dalam jumlah yang dapat diabaikan hingga 1/3.
+* Kecuali jika dijembatani atau dapat diseberangi, sungai besar memakan waktu sepanjang hari untuk diseberangi. Sungai kecil mengurangi pergerakan dari jumlah yang tidak berarti hingga 1/3.
 
-* Kecuali di jalan atau jalur, melintasi hutan mengurangi tingkat perjalanan darat sebesar 1/3.
+* Kecuali di jalan raya atau jalan setapak, melintasi hutan mengurangi tingkat perjalanan darat sebesar 1/3.
 
-* Untuk perbukitan, kurangi tingkat gerakan sebesar 1/3.
+* Untuk perbukitan, kurangi tingkat pergerakan sebesar 1/3.
 
 * Untuk gurun, kurangi sebesar 1/3.
 
@@ -459,155 +459,155 @@ Tingkat perjalanan di atas mengasumsikan kondisi jalan atau jalur yang wajar. Mo
 
 * Untuk pegunungan, kurangi sebesar 2/3.
 
-* Untuk rawa dan paya, kurangi gerakan sebesar 2/3.
+* Untuk rawa dan paya, kurangi pergerakan sebesar 2/3.
 
-* Untuk es dan salju, kurangi gerakan sebesar 4/5, tetapi kereta luncur atau ski mungkin menguranginya hanya menjadi 1/3.
+* Untuk es dan salju, kurangi pergerakan sebesar 4/5, tetapi kereta luncur atau ski mungkin menguranginya hanya menjadi 1/3.
 
-* Kabut tebal mengurangi gerakan sebagian besar kendaraan yang dikendalikan manusia hingga 2/3 tetapi tidak mempengaruhi kecepatan berjalan atau menunggang.
+* Kabut tebal mengurangi pergerakan sebagian besar kendaraan yang dipandu manusia menjadi 2/3 tetapi tidak memengaruhi kecepatan berjalan atau menunggang.
 
 * Perjalanan di sungai adalah 1/2 kecepatan perairan terbuka.
 
-* Pada malam hari, kecepatan kapal adalah 1/4 kecepatan siang hari.
+* Di malam hari, kecepatan kapal adalah 1/4 kecepatan siang hari.
 
-Modifier ini terakumulasi tetapi diterapkan secara terpisah berdasarkan urutan keparahan daripada ditambahkan bersama-sama. Ketika pengurangan berbeda, seperti 2/3 dan 1/3, modifikasi tingkat gerakan dengan penalti gerakan yang lebih parah terlebih dahulu, kemudian penalti kedua dan berikutnya. Mereka tidak boleh ditambahkan bersama-sama, karena ini berpotensi menghilangkan tingkat gerakan sama sekali.
+Modifier ini terakumulasi tetapi diterapkan secara terpisah sesuai urutan keparahan, bukan ditambahkan bersama-sama. Ketika pengurangannya berbeda, seperti 2/3 dan 1/3, modifikasi tingkat pergerakan dengan penalti pergerakan yang lebih parah terlebih dahulu, kemudian penalti kedua dan berikutnya. Mereka tidak boleh ditambahkan bersama-sama, karena ini berpotensi menghilangkan tingkat pergerakan sama sekali.
 
-**Contohnya,** menunggang kuda melalui pegunungan berhutan mengurangi Karakter Anda menjadi 2/3 tingkat gerakan normal untuk pegunungan. Jadi, 36 kilometer tingkat gerakan menunggang kuda normal dikurangi menjadi 12 kilometer per hari. Total ini kemudian dikurangi lagi sebesar 1/3 untuk medan hutan, berakhir di sekitar 8 kilometer per hari perjalanan.
+**Sebagai contoh,** menunggang kuda melalui pegunungan berhutan mengurangi Karakter Anda menjadi 2/3 tingkat pergerakan normal untuk pegunungan. Jadi, 36 kilometer tingkat pergerakan menunggang kuda normal dikurangi 12 kilometer per hari. Total ini kemudian dikurangi lagi sebesar 1/3 untuk medan hutan, berakhir pada sekitar 8 kilometer per hari perjalanan.
 
 > ### Beban
 > 
-> Beban mengukur seberapa banyak berat yang dapat dibawa Karakter Anda. Jika tidak terbebani, mereka dapat bergerak lebih cepat dan kehilangan poin kelelahan lebih lambat. Jika Karakter Anda terbebani, mereka melambat dan kehilangan poin kelelahan lebih cepat. Beban diukur dalam poin beban (ENC). Karakter Anda dapat dengan mudah membawa poin ENC sebanyak poin yang mereka miliki dalam Berotot, dan hanya dapat bermanuver secara normal untuk durasi waktu apa pun dengan membawa ENC yang sama dengan atau kurang dari total batas ENC mereka (Berotot+Ketahanan).
+> Beban mengukur seberapa banyak berat yang dapat dibawa Karakter Anda. Jika tidak terbebani, mereka dapat bergerak lebih cepat dan kehilangan poin kelelahan lebih lambat. Jika Karakter Anda terbebani, mereka melambat dan kehilangan poin kelelahan lebih cepat. Beban diukur dalam poin beban (ENC). Karakter Anda dapat dengan mudah membawa poin ENC sebanyak poin yang mereka miliki di KEK, dan hanya dapat bermanuver secara normal untuk jangka waktu tertentu saat membawa ENC yang sama dengan atau kurang dari total batas ENC mereka (KEK+KET).
 > 
 > #### ENC
 > 
-> Barang apa pun yang dapat dipegang dengan mudah di satu tangan (pedang, kapak, pistol, perisai, batu seukuran tangan, tali, dll.) adalah ‘benda’, unit abstrak dari volume dan kenyamanan, yang direpresentasikan dalam nilai ENC. Sebagian besar ‘benda’ adalah 1 atau 2 ENC. Meskipun mereka mungkin memiliki berat yang sangat berbeda, mereka menempati jumlah ruang yang sama pada Karakter Anda dan memiliki tingkat kesulitan penanganan yang kira-kira sama. Setiap barang memiliki nilai ENC, diukur berdasarkan seberapa sulit untuk menanganinya daripada berat sebenarnya.
+> Barang apa pun yang dapat dipegang dengan mudah di satu tangan (pedang, kapak, pistol, perisai, batu seukuran tangan, tali, dll.) adalah ‘benda’, unit abstrak dari volume dan kenyamanan, yang direpresentasikan dalam nilai ENC. Sebagian besar ‘benda’ adalah 1 atau 2 ENC. Meskipun beratnya mungkin sangat berbeda, mereka menempati jumlah ruang yang sama pada Karakter Anda dan tingkat kesulitan penanganannya kurang lebih sama. Setiap barang memiliki nilai ENC, diukur berdasarkan seberapa sulit penanganannya daripada berat aslinya.
 > 
-> Jika suatu barang tidak memiliki nilai ENC, gunakan Ukuran sebagai dasar dan sesuaikan dengan kepadatan relatif atau volume. *Bab Delapan: Peralatan* mencantumkan ENC dari semua senjata, Armor, dan perisai, serta memberikan nilai Ukuran untuk banyak objek umum lainnya.
+> Jika suatu barang tidak memiliki nilai ENC, gunakan UKU-nya sebagai dasar dan sesuaikan dengan kepadatan atau volume relatif. *Bab Delapan: Peralatan* mencantumkan ENC dari semua senjata, Armor, dan perisai, serta memberikan nilai UKU untuk banyak objek umum lainnya.
 > 
 > #### Berapa Nilai ENC?
 > 
-> ENC bukanlah unit berat langsung. Karakter Anda dapat membawa ENC yang setara dengan Berotot+Ketahanan mereka tanpa terlalu banyak ketegangan. Meskipun mereka mungkin bisa mengangkat jauh lebih dari ini, ENC benar-benar mengukur seberapa banyak yang dapat mereka lakukan dengan berat yang diangkat, seperti mampu membawanya untuk sementara waktu dan tetap berfungsi secara normal. Karakter Anda tidak dapat membawa jumlah ENC di luar batas ENC ini untuk waktu yang sangat lama dan tetap mampu bertarung, memanjat, atau berlari.
+> ENC bukanlah unit berat secara langsung. Karakter Anda dapat membawa ENC yang setara dengan KEK+KET mereka secara wajar tanpa terlalu banyak tekanan. Meskipun mereka mungkin bisa mengangkat jauh lebih dari ini, ENC benar-benar mengukur seberapa banyak yang dapat mereka lakukan dengan berat yang diangkat, seperti mampu membawanya untuk sementara waktu dan tetap berfungsi secara normal. Karakter Anda tidak dapat membawa jumlah ENC di luar batas ENC ini terlalu lama dan tetap mampu bertarung, memanjat, atau berlari.
 > 
-> Gamemaster Anda mungkin memutuskan bahwa beberapa barang memiliki nilai ENC yang lebih tinggi daripada beratnya. Ini mewakili kecanggungan dalam menangani barang tersebut, seperti Ukuran tambahan atau volume.
+> Gamemaster Anda mungkin memutuskan bahwa beberapa barang memiliki nilai ENC yang lebih tinggi daripada beratnya. Ini mewakili kecanggungan dalam menangani barang tersebut, seperti tambahan UKU atau volume.
 > 
 > #### Penalti ENC
 > 
-> Setiap poin ENC yang dibawa Karakter Anda melebihi batas maksimum ENC mereka menyebabkan mereka menderita Modifier berikut:
+> Setiap poin ENC yang dibawa Karakter Anda melebihi batas ENC maksimum menyebabkan mereka menderita Modifier berikut:
 > 
-> * –1 untuk Gerakan (MOV)
+> * –1 untuk Pergerakan (MOV)
 > 
 > * –5% untuk lemparan karakteristik Kelincahan
 > 
-> * –5% untuk semua Skill Fisik, Manipulasi, dan Pertempuran
+> * –5% untuk semua Skill Fisik, Manipulasi, dan Pertarungan
 > 
-> Selain itu, Karakter Anda kehilangan 1 poin kelelahan per giliran per ENC tambahan di atas batas maksimum mereka saat mengerahkan tenaga (berbaris, pertempuran, aktivitas berat, dll. selain kehilangan poin kelelahan lainnya (lihat **Poin Kelelahan** dan **Poin Sanitas**).
+> Selain itu, Karakter Anda kehilangan 1 poin kelelahan per turn per ENC tambahan di atas batas maksimum mereka saat mengerahkan tenaga (berbaris, pertarungan, aktivitas berat, dll. selain kehilangan poin kelelahan lainnya (lihat **Poin Kelelahan** dan **Poin Kewarasan**).
 
 ## Peningkatan Karakter
 
-Skill dan karakteristik Karakter Anda dapat dan harus meningkat dalam permainan, terutama ketika berpartisipasi dalam petualangan yang membutuhkan waktu lebih dari satu hari untuk diselesaikan. Ini dapat ditingkatkan melalui pelatihan dan penelitian, tetapi sarana utama peningkatan adalah melalui keberhasilan penggunaan Skill dalam situasi berbahaya.
+Skill dan karakteristik Karakter Anda dapat dan harus meningkat dalam permainan, terutama saat berpartisipasi dalam petualangan yang membutuhkan waktu lebih dari satu hari untuk diselesaikan. Hal ini dapat ditingkatkan melalui pelatihan dan penelitian, tetapi cara utama untuk meningkat adalah melalui penggunaan Skill yang berhasil dalam situasi berbahaya.
 
 ### Peningkatan Skill
 
-Keberhasilan penggunaan Skill menunjukkan bahwa Karakter Anda mungkin dapat meningkatkan rating mereka dalam Skill tersebut. Perhatikan bahwa istilah ‘Skill’ digunakan di sini tetapi merujuk pada apa pun yang dinilai seperti Skill selain lemparan karakteristik. Dengan demikian, metode ini juga berfungsi untuk mantra sihir, gairah, dan bahkan sifat kepribadian.
+Penggunaan Skill yang berhasil menunjukkan bahwa Karakter Anda mungkin dapat meningkatkan nilainya dalam Skill tersebut. Perhatikan bahwa istilah ‘Skill’ digunakan di sini tetapi merujuk pada apa pun yang dinilai seperti Skill selain lemparan karakteristik. Dengan demikian, metode ini juga berfungsi untuk mantra sihir, gairah, dan bahkan sifat kepribadian.
 
-Setiap kali Karakter Anda berhasil menggunakan Skill dalam situasi dramatis seperti pertempuran atau ketika ada sesuatu yang dipertaruhkan, letakkan tanda centang di kotak kecil di sebelah Skill itu pada lembar Karakter Anda. Tanda centang ini disebut **pemeriksaan pengalaman**. Jika lemparan Skill Mudah, tidak ada pemeriksaan pengalaman yang diizinkan. Jika tidak ada kotak di sebelah persentil Skill, maka Skill tersebut tidak dapat ditingkatkan melalui pengalaman normal. (Untuk Skill yang tidak dapat ditingkatkan melalui pengalaman, hitamkan kotak centang pada lembar Karakter.)
+Setiap kali Karakter Anda berhasil menggunakan Skill dalam situasi dramatis seperti pertarungan atau saat ada sesuatu yang dipertaruhkan, beri tanda centang di kotak kecil di sebelah Skill tersebut pada lembar Karakter Anda. Tanda centang ini disebut **cek pengalaman**. Jika lemparan Skill Mudah, tidak ada cek pengalaman yang diizinkan. Jika tidak ada kotak di sebelah persentil Skill, maka Skill tidak dapat ditingkatkan melalui pengalaman normal. (Untuk Skill yang tidak dapat ditingkatkan melalui pengalaman, hitamkan kotak centang pada lembar Karakter.)
 
-Pemeriksaan pengalaman untuk Skill tertentu hanya dilakukan sekali per petualangan, tidak peduli berapa kali Skill tersebut berhasil digunakan. Skill yang digunakan sebelum atau setelah waktu ‘petualangan’ tidak memenuhi syarat untuk pemeriksaan pengalaman, begitu pula Skill yang digunakan untuk menambah yang lain jika lemparan Skill utama gagal.
+Cek pengalaman untuk Skill tertentu dilakukan hanya sekali per petualangan, tidak peduli berapa kali Skill tersebut berhasil digunakan. Skill yang digunakan sebelum atau sesudah waktu ‘petualangan’ tidak memenuhi syarat untuk cek pengalaman, begitu pula Skill yang digunakan untuk menambah yang lain jika lemparan Skill utama gagal.
 
-Jika Skill berhasil digunakan, Anda hampir selalu mendapatkan pemeriksaan pengalaman. Sesuatu yang nantinya membatalkan hasil tidak menghapus pemeriksaan pengalaman. Gamemaster Anda hampir selalu harus mengizinkan pemeriksaan pengalaman kapan pun Skill berhasil digunakan dalam situasi penuh tekanan. Serangan terhadap target tak berdaya bukanlah situasi penuh tekanan dan tidak pantas mendapatkan pemeriksaan pengalaman. Demikian pula, meluangkan satu jam untuk membuka kunci di bengkel Anda bukanlah situasi penuh tekanan—tetapi melakukan tugas yang sama dalam satu putaran pertempuran, saat penjaga mendekat, adalah situasi penuh tekanan, dan pantas mendapatkan pemeriksaan.
+Jika Skill berhasil digunakan, Anda hampir selalu mendapatkan cek pengalaman. Sesuatu yang kemudian membatalkan hasilnya tidak menghilangkan cek pengalaman. Gamemaster Anda harus hampir selalu mengizinkan cek pengalaman setiap kali Skill berhasil digunakan dalam situasi yang penuh tekanan. Serangan terhadap target tak berdaya bukanlah situasi yang penuh tekanan dan tidak pantas mendapatkan cek pengalaman. Demikian pula, meluangkan waktu satu jam untuk memilih kunci di bengkel Anda bukanlah situasi yang penuh tekanan—tetapi melakukan tugas yang sama dalam satu ronde pertarungan, saat penjaga mendekat, adalah situasi yang penuh tekanan, dan pantas mendapatkan cek.
 
-Selain mendapatkan pemeriksaan pengalaman melalui lemparan yang berhasil, gamemaster Anda mungkin memberi tahu Anda bahwa Karakter Anda secara otomatis mendapatkan pemeriksaan di kotak pengalaman, biasanya melalui paparan signifikan terhadap Skill yang berhasil digunakan.
+Selain mendapatkan cek pengalaman melalui lemparan yang sukses, gamemaster Anda mungkin memberi tahu Anda bahwa Karakter Anda secara otomatis mendapatkan cek di kotak pengalaman, biasanya melalui paparan signifikan terhadap Skill yang berhasil digunakan.
 
-**Contohnya,** ini mungkin karena tenggelam dalam lingkungan bahasa asing untuk jangka waktu yang lama dan ‘menyerap’ beberapa dasar-dasarnya, atau membantu seorang pakar dalam Skill itu, memperhatikan dengan seksama apa yang mereka katakan dan lakukan.
+**Sebagai contoh,** ini mungkin karena terbenam dalam lingkungan bahasa asing untuk jangka waktu yang lama dan ‘menyerap’ beberapa dasar-dasarnya, atau membantu seorang ahli dalam Skill tersebut, memperhatikan dengan saksama apa yang mereka katakan dan lakukan.
 
 ### Apa Arti “Setelah Petualangan”?
 
-Gamemaster Anda menentukan kapan pemeriksaan pengalaman dilakukan; ini biasanya setelah petualangan atau jeda signifikan di antara peristiwa, ketika Karakter Anda memiliki waktu senggang. Jika ragu, asumsikan itu seminggu. Selama malam bermain yang panjang, Karakter mungkin mendapatkan beberapa momen di mana mereka dapat melihat apakah Skill mereka meningkat.
+Gamemaster Anda menentukan kapan cek pengalaman dilakukan; ini biasanya setelah petualangan atau jeda signifikan di antara peristiwa, saat Karakter Anda memiliki waktu senggang. Jika ragu, anggaplah itu seminggu. Selama permainan di malam yang panjang, Karakter mungkin mendapatkan beberapa momen di mana mereka dapat melihat apakah Skill mereka meningkat.
 
-Dalam waktu senggang ini, Anda dapat membuat lemparan pengalaman untuk setiap pemeriksaan pengalaman di lembar Karakter Anda.
+Di waktu senggang ini, Anda dapat membuat lemparan pengalaman untuk setiap cek pengalaman pada lembar Karakter Anda.
 
-### Melakukan Lemparan Pengalaman
+### Membuat Lemparan Pengalaman
 
-Lemparan pengalaman adalah lemparan persentil normal. **Bonus pengalaman** Karakter Anda (setara dengan 1/2 INT, dibulatkan ke atas) ditambahkan ke lemparan dadu saat menentukan apakah lemparan pengalaman berhasil. Jika hasil lemparan pengalaman lebih tinggi dari rating Skill Karakter Anda saat ini, maka lemparan pengalaman berhasil.
+Lemparan pengalaman adalah lemparan persentil normal. **Bonus pengalaman** Karakter Anda (setara dengan 1/2 KEC, dibulatkan ke atas) ditambahkan ke lemparan dadu saat menentukan apakah lemparan pengalaman berhasil. Jika hasil lemparan pengalaman lebih tinggi dari nilai Skill Karakter Anda saat ini, maka lemparan pengalaman berhasil.
 
-Bonus pengalaman tidak ditambahkan ke poin Skill sebenarnya yang diperoleh, hanya pada lemparan untuk melihat apakah ada peningkatan.
+Bonus pengalaman tidak ditambahkan ke poin Skill yang sebenarnya didapat, hanya ke lemparan untuk melihat apakah ada peningkatan.
 
 ### Meningkatkan Skill melalui Pengalaman
 
-Setelah lemparan pengalaman berhasil tambahkan +1D6 ke rating Skill. Hasil pengalaman bervariasi—Karakter Anda mungkin belajar banyak dari satu insiden dan sedikit dari yang lain, tidak peduli seberapa sukses mereka melakukan keduanya. Berdasarkan level kampanye, gamemaster Anda dapat meningkatkan lemparan pengalaman menjadi +1D8 atau bahkan +1D10 untuk manusia super, yang menciptakan kemajuan yang sangat cepat.
+Setelah lemparan pengalaman yang berhasil, tambahkan +1D6 ke nilai Skill. Hasil pengalaman bervariasi—Karakter Anda mungkin belajar banyak dari satu insiden dan sedikit dari yang lain, tidak peduli seberapa sukses mereka melakukannya. Berdasarkan level kampanye, gamemaster Anda dapat meningkatkan lemparan pengalaman menjadi +1D8 untuk epik atau bahkan +1D10 untuk manusia super, yang menciptakan kemajuan yang sangat cepat.
 
-Jika Anda tidak merasa beruntung melempar untuk peningkatan Skill, Anda dapat memilih untuk menambahkan default +3 ke rating Skill alih-alih melempar. Ini harus diumumkan sebelum melempar. Jika jenis dadu untuk peningkatan Skill lebih tinggi dari 1D6, tingkatkan menjadi setengah dari maksimum dadu—untuk 1D8 adalah +4, dan untuk 1D10 adalah +5.
+Jika Anda tidak merasa beruntung melempar untuk peningkatan Skill, Anda dapat memilih untuk menambahkan default +3 ke nilai Skill sebagai gantinya melempar. Ini harus diumumkan sebelum melempar. Jika jenis dadu untuk peningkatan Skill lebih tinggi dari 1D6, tingkatkan menjadi setengah dari maksimum dadu—untuk 1D8 menjadi +4, dan untuk 1D10 menjadi +5.
 
 ### Melebihi 100% dalam Skill
 
-Karakter Anda mungkin meningkatkan Skill mereka di luar 100%. Efek dari peningkatan tersebut terutama meningkatkan peluang keberhasilan kritis dan spesial, tetapi Skill tertentu memberikan manfaat khusus untuk rating di atas 100% (lihat **Rating Skill di Atas 100%**). Hanya lemparan pengalaman yang berhasil yang dapat meningkatkan Skill di luar 100%. Jika Karakter Anda memiliki 100% atau lebih dalam suatu Skill, Anda harus melempar sama dengan atau di atas 100 pada D100 agar Karakter Anda berhasil dalam lemparan pengalaman, yang berarti Modifier pengalaman diperlukan. Tidak peduli seberapa jauh Skill telah naik di atas 100%, lemparan apa pun sebesar 100 atau lebih mendapatkan peningkatan Skill.
+Karakter Anda dapat meningkatkan Skill mereka melampaui 100%. Efek dari peningkatan tersebut terutama meningkatkan peluang kesuksesan kritis dan spesial, tetapi Skill tertentu memberikan manfaat khusus untuk nilai di atas 100% (lihat **Nilai Skill di atas 100%**). Hanya lemparan pengalaman yang berhasil yang dapat meningkatkan Skill melampaui 100%. Jika Karakter Anda memiliki 100% atau lebih dalam Skill, Anda harus melempar sama dengan atau di atas 100 pada D100 agar Karakter Anda berhasil pada lemparan pengalaman, yang berarti Modifier pengalaman diperlukan. Tidak peduli seberapa jauh di atas 100% Skill tersebut meningkat, lemparan apa pun sebesar 100 atau lebih mendapatkan peningkatan Skill.
 
 ### Pelatihan dan Penelitian Skill
 
-Meskipun pengalaman sering menjadi guru terbaik, itu bukan satu-satunya cara untuk meningkatkan Skill. Instruksi dari pakar Skill juga dapat meningkatkan kemampuan Karakter Anda dengan Skill atau bahkan menurunkannya. Karakter Anda dapat berlatih untuk meningkatkan Skill dengan mendapatkan instruksi di dalamnya dari Karakter lain dengan rating yang lebih tinggi dalam Skill yang sama. Karakter lain ini bisa menjadi milik pemain lain tetapi biasanya merupakan non-Karakter pemain. Setiap Skill membutuhkan jenis guru yang berbeda dan memakan waktu serta biaya yang berbeda untuk dipelajari. Berlatih ke rating Skill tinggi bisa menjadi proses yang panjang dan mahal.
+Meskipun pengalaman sering menjadi guru terbaik, itu bukan satu-satunya cara untuk meningkatkan Skill. Instruksi dari master suatu Skill juga dapat meningkatkan kemampuan Karakter Anda dengan Skill tersebut atau bahkan menurunkannya. Karakter Anda dapat berlatih untuk meningkatkan Skill dengan mendapatkan instruksi di dalamnya dari Karakter lain dengan nilai yang lebih tinggi dalam Skill yang sama. Karakter lain ini bisa menjadi milik pemain lain tetapi biasanya merupakan karakter non-pemain. Setiap Skill memerlukan jenis guru yang berbeda dan memakan jumlah waktu serta uang yang berbeda untuk dipelajari. Pelatihan ke nilai Skill yang tinggi bisa menjadi proses yang panjang dan mahal.
 
-Metode kedua adalah penelitian, bekerja sendiri baik dengan program studi yang dirancang sendiri, perendaman mendalam dalam latar belakang Skill, atau rejimen latihan dan pelatihan fisik yang ketat dan dipandu sendiri untuk meningkatkan kemampuan seseorang dalam Skill fisik. Gamemaster harus menilai apakah sumber daya memadai untuk melatih diri sendiri, dan dalam beberapa kasus dapat memutuskan bahwa Skill tidak dapat dilatih sendirian, seperti beberapa Skill Persepsi.
+Metode kedua adalah penelitian, bekerja sendiri baik dengan program studi yang dirancang sendiri, perendaman mendalam dalam latar belakang Skill, atau rejimen latihan fisik dan disiplin diri yang ketat untuk meningkatkan kemampuan seseorang dalam Skill fisik. Gamemaster harus menilai apakah sumber daya memadai untuk melatih diri sendiri, dan dalam beberapa kasus mungkin memutuskan bahwa suatu Skill tidak dapat dilatih sendirian, seperti beberapa Skill Persepsi.
 
 ### Pelatihan Skill
 
-Pertama, Karakter Anda harus menemukan pelatih, idealnya di antara petualangan tetapi berpotensi sebagai bagian dari salah satunya. Semacam kompensasi harus diatur, jika sesuai, dalam uang, barang, bantuan, patronase, atau dalam barang atau layanan lain yang dapat diterima. Jenis guru dapat berkisar dari profesor perguruan tinggi, master bijak, hingga tutor holografik interaktif.
+Pertama, Karakter Anda harus menemukan pelatih, idealnya di antara petualangan tetapi berpotensi sebagai bagian dari satu petualangan. Kompensasi dalam bentuk apa pun harus diatur, jika pantas, dalam bentuk uang, barang, bantuan, patronase, atau dalam barang atau layanan lain yang dapat diterima. Jenis guru dapat berkisar dari profesor perguruan tinggi, master bijak, hingga tutor holografik interaktif.
 
-Karakter Anda kemudian harus berlatih selama berjam-jam yang setara dengan pangkat Skill mereka saat ini dengan Skill tersebut. Karakter rata-rata memiliki 50 jam waktu per minggu yang tersedia untuk pelatihan, tetapi belajar penuh waktu tanpa henti dimungkinkan. Lebih dari dua kali jumlah ini melelahkan, dan jam belajar yang diperpanjang seperti itu kontraproduktif atau memiliki efek negatif pada Skill lain atau bahkan kesehatan fisik dan mental.
+Karakter Anda kemudian harus berlatih selama beberapa jam yang setara dengan pangkat Skill mereka saat ini dengan Skill tersebut. Karakter rata-rata memiliki 50 jam waktu per minggu yang tersedia untuk pelatihan, tetapi belajar penuh waktu tanpa henti dimungkinkan. Lebih dari dua kali jumlah ini sangat melelahkan, dan jam belajar yang diperpanjang seperti itu kontraproduktif atau memiliki efek negatif pada Skill lain atau bahkan kesehatan fisik dan mental.
 
-Di akhir sesi pelatihan, guru harus melakukan lemparan Skill Mengajar. Jika lemparan mereka berhasil, Karakter Anda meningkatkan rating Skill sebesar +1D6 poin. Kegagalan berarti tidak ada manfaat dari instruksi, dan kegagalan mutlak kontraproduktif, dengan guru menyebabkan keraguan diri dan menentang pembelajaran Karakter Anda sebelumnya, mengurangi Skill sebesar –1D3.
+Di akhir sesi pelatihan, guru harus mencoba lemparan Skill Mengajar. Jika lemparan mereka berhasil, Karakter Anda meningkatkan nilai Skill sebesar +1D6 poin. Kegagalan sama dengan tidak ada manfaat dari instruksi tersebut, dan kegagalan mutlak bersifat kontraproduktif, dengan guru menyebabkan keraguan diri dan bertentangan dengan pembelajaran Karakter Anda sebelumnya, mengurangi Skill sebesar –1D3.
 
-Gamemaster Anda mungkin menggunakan jenis dadu untuk menunjukkan peluang pelatihan yang lebih baik atau lebih buruk, atau bahkan secara otomatis memberikan peningkatan jumlah berdasarkan faktor-faktor dalam pengaturan (unduhan Skill, penanaman psikis, ingatan kehidupan masa lalu, dll.).
+Gamemaster Anda mungkin menggunakan jenis dadu untuk menunjukkan peluang pelatihan yang lebih baik atau lebih buruk, atau bahkan secara otomatis memberikan jumlah peningkatan berdasarkan faktor-faktor dalam latar tersebut (unduhan Skill, penanaman psikis, memori masa lalu, dll.).
 
-Penguasaan Skill membutuhkan pengalaman nyata di luar ‘ruang kelas’. Tidak ada Skill yang dapat dilatih di atas 75%, tidak peduli seberapa baik instrukturnya. Peningkatan apa pun di atas ini harus datang melalui keberhasilan penggunaan Skill dalam situasi yang menantang, seperti yang ditemukan selama petualangan. Gamemaster dapat menentukan bahwa ini tidak benar dalam pengaturan tertentu, seperti dengan gulungan penguasaan rahasia atau Skill yang ditanamkan, tetapi maksimum 75% adalah defaultnya.
+Penguasaan suatu Skill memerlukan pengalaman nyata di luar ‘ruang kelas’. Tidak ada Skill yang dapat dilatih di atas 75%, tidak peduli seberapa baik instruktur tersebut. Peningkatan apa pun di atas ini harus datang melalui penggunaan Skill yang berhasil dalam situasi yang menantang, seperti yang ditemukan selama petualangan. Gamemaster mungkin menentukan bahwa ini tidak benar dalam latar tertentu, seperti dengan gulungan rahasia penguasaan atau Skill yang ditanamkan, tetapi maksimum 75% adalah default.
 
 ### Meneliti
 
-Skill apa pun yang dapat ditingkatkan melalui pelatihan juga dapat ditingkatkan melalui penelitian. Penelitian paling baik digambarkan sebagai bantuan diri atau bimbingan diri: menggali buku-buku kuno, mencari di database; latihan disiplin; instruktur holografik; atau penanaman neurologis atau neuromuskular. Dalam sebagian besar pengaturan, beberapa bentuk penelitian dimungkinkan untuk Skill apa pun yang dapat dilatih.
+Skill apa pun yang dapat ditingkatkan melalui pelatihan juga dapat ditingkatkan melalui penelitian. Penelitian paling baik dijelaskan sebagai bantuan mandiri atau bimbingan belajar mandiri: menggali buku-buku kuno, menjelajahi basis data; latihan disiplin; instruktur holografik; atau penanaman neurologis atau neuromuskular. Dalam sebagian besar latar, beberapa bentuk penelitian dimungkinkan untuk Skill apa pun yang dapat dilatih.
 
-Penelitian berdedikasi memakan waktu sebanyak pelatihan tetapi tidak menimbulkan biaya yang sama. Anda harus menentukan biaya apa pun berdasarkan pengaturan dan jenis pelatihan yang dilakukan.
+Penelitian khusus memakan waktu sebanyak pelatihan tetapi tidak menimbulkan biaya yang sama. Anda harus menentukan biaya apa pun berdasarkan latar dan jenis pelatihan yang dilakukan.
 
-Meneliti Skill Pengetahuan mungkin memerlukan lemparan tambahan untuk Skill yang sesuai seperti Bahasa, Literasi, dan Penelitian. Karakter Anda mungkin perlu melakukan lemparan yang berhasil dalam Skill yang akan diteliti, untuk menemukan sumber daya yang relevan atau untuk diarahkan ke arah yang benar. Kecuali Skill ini dilakukan dalam situasi yang menantang atau berbahaya, tidak ada pemeriksaan pengalaman yang diberikan untuk lemparan Skill yang dilakukan saat meneliti Skill lain.
+Meneliti Skill Pengetahuan mungkin memerlukan lemparan tambahan untuk Skill yang sesuai seperti Bahasa, Literasi, dan Penelitian. Karakter Anda mungkin bahkan perlu melakukan lemparan yang berhasil dalam Skill yang akan diteliti, untuk menemukan sumber daya yang relevan atau untuk diarahkan ke arah yang benar. Kecuali jika Skill ini dilakukan dalam situasi yang menantang atau berbahaya, tidak ada cek pengalaman yang diberikan untuk lemparan Skill yang dilakukan saat meneliti Skill lain.
 
-Setelah waktu yang diperlukan dihabiskan, buat lemparan pengalaman seperti biasa. Jika lemparan berhasil, tingkatkan Skill sebesar 1D6–2 poin, atau pilih untuk menambahkan 2 ke rating Skill saat ini. Tidak seperti pelatihan, meneliti memungkinkan Karakter Anda untuk meningkatkan lebih dari 75% dalam suatu Skill, meskipun gamemaster Anda mungkin mengharuskan Anda untuk ‘turun ke lapangan’ dari waktu ke waktu untuk mengganti pembelajaran buku dengan pengalaman praktis.
+Setelah waktu yang diperlukan dihabiskan, lakukan lemparan pengalaman seperti biasa. Jika lemparan berhasil, tingkatkan Skill sebesar 1D6–2 poin, atau pilih untuk menambahkan 2 ke nilai Skill saat ini. Tidak seperti pelatihan, meneliti memungkinkan Karakter Anda untuk meningkat lebih dari 75% dalam suatu Skill, meskipun gamemaster Anda mungkin mengharuskan Anda untuk ‘terjun ke lapangan’ dari waktu ke waktu untuk bergantian antara belajar buku dengan pengalaman praktis.
 
 ### Meningkatkan Karakteristik
 
-Skill bukan satu-satunya hal tentang Karakter Anda yang dapat meningkat. Karakter Anda dapat meningkatkan karakteristik mereka melalui berbagai cara: Tekad dapat meningkat melalui pengujian terhadap Tekad yang lebih tinggi, dan Berotot, Ketahanan, Kelincahan, dan Karisma dapat meningkat melalui pelatihan dan penelitian. Intelijen dan Ukuran hanya meningkat jarang, dan dalam sebagian besar pengaturan tidak banyak berubah, meskipun gamemaster Anda mungkin mengizinkan peningkatan berdasarkan pengaturan kampanye atau tindakan yang dilakukan selama (atau di antara) petualangan.
+Skill bukanlah satu-satunya hal tentang Karakter Anda yang dapat meningkat. Karakter Anda dapat meningkatkan karakteristik mereka melalui berbagai cara: DAY dapat meningkat melalui pengujian terhadap DAY yang lebih tinggi, dan KEK, KET, KTG, dan KAR dapat meningkat melalui pelatihan dan penelitian. KEC dan UKU meningkat hanya jarang, dan dalam sebagian besar latar tidak banyak berubah, meskipun gamemaster Anda mungkin mengizinkan peningkatan berdasarkan latar kampanye atau tindakan yang diambil selama (atau di antara) petualangan.
 
-Setiap peningkatan pada karakteristik menyebabkan atribut terkait apa pun meningkat, termasuk lemparan karakteristik, Daya Rusak mod, bonus pengalaman, poin darah (dan total poin darah dan/atau poin darah menurut lokasi), luka besar, poin kelelahan, poin sihir, dll. sebagaimana mestinya. Poin sanitas tidak ditingkatkan, meskipun ambang batas sanitas sementara meningkat.
+Setiap peningkatan pada karakteristik menyebabkan atribut terkait apa pun meningkat dengan tepat, termasuk lemparan karakteristik, Daya Rusak Mod, bonus pengalaman, Poin Hit (dan total Poin Hit dan/atau Poin Hit berdasarkan lokasi), luka parah, poin kelelahan, poin kekuatan, dll. sesuai kebutuhan. Poin kewarasan tidak ditingkatkan, meskipun ambang kewarasan sementara meningkat.
 
-Secara umum, karakteristik selain Tekad tidak dapat meningkat melampaui maksimum spesies (untuk Manusia, ini adalah 21), tetapi untuk permainan level kekuatan epik atau manusia super, batas ini diabaikan.
+Umumnya, karakteristik selain DAY tidak dapat meningkat melampaui maksimum spesies (untuk Manusia, ini adalah 21), tetapi untuk game tingkat kekuatan epik atau manusia super, batas ini diabaikan.
 
-### Peningkatan Tekad
+### Peningkatan DAY
 
-Ketika Karakter Anda berhasil menandingi Tekad mereka melawan lawan dengan Tekad yang sama atau lebih besar dalam lemparan resistensi (ketika lemparan adalah 50% atau kurang untuk berhasil), mereka dapat memeriksa keuntungan Tekad sama seperti keuntungan Skill, menempatkan centang di kotak centang di sebelah Tekad pada lembar Karakter.
+Ketika Karakter Anda berhasil mencocokkan DAY mereka terhadap lawan dengan DAY yang sama atau lebih besar dalam lemparan resistensi (ketika lemparan adalah 50% atau kurang untuk berhasil), mereka dapat memeriksa keuntungan DAY seperti keuntungan Skill, menempatkan cek di kotak centang di sebelah DAY pada lembar Karakter.
 
-Untuk menentukan apakah Tekad Karakter Anda meningkat, tambahkan maksimum kemungkinan Tekad yang dilempar (18 untuk Manusia) ditambah minimum Tekad yang dapat dilempar (3 untuk Manusia jika sistem pembuatan Karakter standar digunakan—pertimbangkan setiap bonus +6 sebagai satu D6 untuk sistem pembuatan Karakter lainnya). Hasilnya adalah 21 untuk sebagian besar Manusia (18+3=21). Kurangi jumlah Tekad Karakter Anda saat ini dari total tersebut. Kalikan sisanya dengan ×5 dan coba lempar hasil itu atau kurang pada D100.
+Untuk menentukan apakah DAY Karakter Anda meningkat, tambahkan kemungkinan DAY yang dilempar maksimum mereka (18 untuk Manusia) ditambah DAY minimum yang dapat dilempar mereka (3 untuk Manusia jika sistem pembuatan karakter standar digunakan—anggap setiap bonus +6 sebagai D6 tunggal untuk sistem pembuatan karakter lainnya). Hasilnya adalah 21 untuk sebagian besar Manusia (18+3=21). Kurangi jumlah DAY Karakter Anda saat ini dari total tersebut. Kalikan sisanya dengan ×5 dan coba lempar hasil itu atau kurang pada D100.
 
-Jika lemparan berhasil, tingkatkan Tekad Karakter Anda sebesar 1D3–1. Ini mungkin berarti tidak ada keuntungan sama sekali (1–1=0), atau peningkatan 2 poin (3–1=2). Alternatifnya, Anda dapat memilih untuk tidak melempar dan hanya menambahkan +1 ke Tekad Karakter Anda. Seperti pemeriksaan pengalaman, pilih sebelum melempar.
+Jika lemparan berhasil, tingkatkan DAY Karakter Anda sebesar 1D3–1. Ini mungkin berarti tidak ada keuntungan sama sekali (1–1=0), atau peningkatan 2 poin (3–1=2). Sebagai alternatif, Anda dapat memilih untuk tidak melempar dan hanya menambahkan +1 ke DAY Karakter Anda. Seperti cek pengalaman, pilih sebelum melempar.
 
 ### Peningkatan Karakteristik
 
-Karakter Anda dapat melatih karakteristik mereka untuk meningkatkannya. Metode yang tepat bervariasi menurut pengaturan—dunia abad pertengahan mungkin mengharuskan Karakter Anda untuk meningkatkan Berotot mereka dengan mengangkat beban berat, melakukan kerja manual, dll. sementara pengaturan futuristik mungkin menggunakan operasi augmentasi otot. Meningkatkan Berotot atau Ketahanan melalui pelatihan atau penelitian dibatasi oleh nilai tertinggi dari Berotot, Ketahanan, atau Ukuran asli Karakter. Misalnya, jika nilai tertinggi dari ketiganya adalah Ukuran 14, baik Berotot maupun Ketahanan tidak dapat ditingkatkan melewati angka itu melalui pelatihan.
+Karakter Anda dapat melatih karakteristik mereka untuk meningkatkannya. Metode yang tepat bervariasi menurut latar—dunia abad pertengahan mungkin mengharuskan Karakter Anda untuk meningkatkan KEK mereka dengan mengangkat beban berat, melakukan pekerjaan kasar, dll. sementara latar futuristik mungkin menggunakan operasi augmentasi otot. Meningkatkan KEK atau KET melalui pelatihan atau penelitian dibatasi oleh nilai tertinggi dari KEK, KET, atau UKU asli Karakter. Sebagai contoh, jika nilai tertinggi dari ketiganya adalah UKU 14, baik KEK maupun KET tidak dapat ditingkatkan melebihi angka tersebut melalui pelatihan.
 
-Setiap upaya untuk melatih atau meneliti peningkatan karakteristik Kelincahan atau Karisma dibatasi hingga setengah lagi dari karakteristik asli (bulatkan ke atas).
+Setiap upaya untuk melatih atau meneliti peningkatan pada karakteristik KTG atau KAR dibatasi hingga setengah lagi dari karakteristik asli (dibulatkan ke atas).
 
-**Contohnya,** Karakter Anda dengan Kelincahan 13 dapat melatih atau meneliti Kelincahan mereka hingga 20 (1/2 dari 13 dibulatkan ke atas menjadi 7, dan 13+7=20).
+**Sebagai contoh,** Karakter Anda dengan KTG 13 dapat melatih atau meneliti KTG mereka hingga 20 (1/2 dari 13 dibulatkan ke atas menjadi 7, dan 13+7=20).
 
 ### Peningkatan Karakteristik melalui Pelatihan
 
-Karakter Anda mungkin mencoba melatih karakteristik mereka, memakan waktu dalam hitungan jam berdasarkan nilai karakteristik saat ini. Angka pastinya adalah nilai saat ini untuk karakteristik dikalikan dengan ×25. Pelatihan semacam ini ketat dan membutuhkan dedikasi selama seluruh periode: seseorang tidak dapat memutuskannya untuk pergi bertualang atau menghabiskan lebih dari segelintir jam sehari yang didedikasikan untuk hal lain.
+Karakter Anda dapat mencoba melatih karakteristik mereka, memakan waktu dalam jam berdasarkan nilai karakteristik saat ini. Angka yang tepat adalah nilai saat ini untuk karakteristik dikalikan ×25. Pelatihan semacam ini ketat dan memerlukan dedikasi selama seluruh periode: seseorang tidak dapat memutuskannya untuk pergi bertualang atau menghabiskan lebih dari beberapa jam sehari yang didedikasikan untuk hal lain.
 
 Di akhir periode pelatihan, lempar 1D3–1 dan tambahkan hasilnya ke nilai saat ini dari karakteristik tersebut.
 
-**Contohnya,** jika Berotot Karakter Anda adalah 12, jumlah total jam yang diperlukan untuk meningkatkan Berotot mereka adalah 300 jam (12×25=300). Di akhir 300 jam belajar, Anda melempar 1D3–1, dengan hasil 1 (lemparan adalah 2, jadi 2–1=1). Berotot Karakter Anda sekarang 13.
+**Sebagai contoh,** jika KEK Karakter Anda adalah 12, jumlah total jam yang diperlukan untuk meningkatkan KEK mereka adalah 300 jam (12×25=300). Di akhir 300 jam belajar, Anda melempar 1D3–1, dengan hasil 1 (lemparannya adalah 2, jadi 2–1=1). KEK Karakter Anda sekarang 13.
 
-Anda dan gamemaster Anda harus bekerja sama untuk menentukan jenis pelatihan yang tepat yang diperlukan untuk mendapatkan peningkatan ini. Gamemaster Anda mungkin mengizinkan Ukuran untuk dilatih, mewakili perubahan radikal dalam diet atau olahraga untuk meningkatkan atau menurunkan massa (jika bukan tinggi badan, yang biasanya tidak dapat dimodifikasi tanpa operasi).
+Anda dan gamemaster Anda harus bekerja sama untuk menentukan jenis pelatihan yang tepat yang diperlukan untuk mendapatkan peningkatan ini. Gamemaster Anda mungkin mengizinkan UKU untuk dilatih, mewakili perubahan radikal dalam diet atau olahraga untuk meningkatkan atau menurunkan massa (jika bukan tinggi, yang biasanya tidak dapat dimodifikasi tanpa operasi).
 
-> ### Penuaan dan Tidak Beraktivitas (Opsi)
+> ### Penuaan dan Ketidakaktifan (Opsi)
 > 
-> Saat Karakter Anda tumbuh lebih tua dan lebih berpengalaman, Skill mereka meningkat, tetapi komprominya adalah terkadang karakteristik mereka mungkin menurun, terutama jika mereka tidak aktif bertualang atau meningkatkan diri mereka sendiri. Saat memulai permainan sebagai Karakter yang lebih tua, gunakan pedoman di **Langkah Tiga**, tetapi setelah permainan dimulai, gunakan aturan ini.
+> Seiring bertambahnya usia dan pengalaman Karakter Anda, Skill mereka meningkat, tetapi trade-off-nya adalah terkadang karakteristik mereka mungkin menurun, terutama jika mereka tidak aktif bertualang atau memperbaiki diri. Saat mulai bermain sebagai Karakter yang lebih tua, gunakan pedoman di **Langkah Tiga**, tetapi setelah permainan dimulai, gunakan aturan ini.
 > 
-> Ketika Karakter Anda mencapai usia 41 tahun dan setiap tahun setelahnya, lempar 2D6 pada tabel **Kehilangan Poin Karakteristik** untuk menentukan berapa banyak lemparan yang harus dilakukan pada tabel Karakteristik.
+> Saat Karakter Anda mencapai usia 41 tahun dan setiap tahun setelahnya, lempar 2D6 pada tabel **Kehilangan Poin Karakteristik** untuk menentukan berapa kali lemparan yang dilakukan pada tabel Karakteristik.
 > 
 > ##### Kehilangan Poin Karakteristik
 > 
@@ -623,20 +623,20 @@ Anda dan gamemaster Anda harus bekerja sama untuk menentukan jenis pelatihan yan
 > | 11 | 3 |
 > | 12 | 4 |
 > 
-> Setelah menentukan jumlah poin yang hilang, lempar 1D10 untuk setiap poin yang hilang pada tabel **Karakteristik**. Jika lemparan kedua sama dengan ‘—’, Karakter Anda tidak kehilangan poin karakteristik. Melempar dua kali untuk satu karakteristik digabungkan, jadi kehilangan mungkin –2, –3, dll.
+> Setelah menentukan jumlah poin yang hilang, lempar 1D10 untuk setiap poin yang hilang pada tabel **Karakteristik**. Jika lemparan kedua sama dengan ‘—’, Karakter Anda tidak kehilangan poin karakteristik. Melakukan lemparan dua kali untuk karakteristik digabungkan, jadi kerugiannya bisa –2, –3, dll.
 > 
 > ##### Karakteristik
 > 
 > | 1D10 | Karakteristik |
 > | :---- | :---- |
-> | 1–2 | –1 Berotot |
-> | 3–4 | –1 Ketahanan |
-> | 5–6 | –1 Kelincahan |
-> | 7–8 | –1 Karisma |
+> | 1–2 | –1 KEK |
+> | 3–4 | –1 KET |
+> | 5–6 | –1 KTG |
+> | 7–8 | –1 KAR |
 > | 9–10 | — |
 > 
-> Jika karakteristik diturunkan menjadi 0, Karakter Anda mati, bahkan jika karakteristiknya adalah Karisma. Penurunan Intelijen mewakili pelupa atau kesulitan fokus. Namun, Tekad dan EDU tidak menurun seiring penuaan.
+> Jika karakteristik diturunkan menjadi 0, Karakter Anda tewas, bahkan jika karakteristik tersebut adalah KAR. KEC yang diturunkan mewakili kepikunan atau kesulitan untuk fokus. Namun, DAY dan EDU tidak berkurang seiring penuaan.
 > 
-> Aturan ini mengasumsikan Karakter Manusia dengan masa hidup sekitar 80–100 tahun. Kehilangan ini dapat diimbangi dengan pelatihan karakteristik dan perawatan diri. Jika Karakter Anda merawat diri mereka sendiri dengan luar biasa atau memiliki akses ke sumber umur panjang (obat-obatan luar biasa, perawatan anti-penuaan, ramuan ajaib, dll.), abaikan aturan ini. Makhluk asing atau makhluk non-Manusia lainnya mungkin mengalami efek dari penuaan dan tidak beraktivitas secara berbeda atau mungkin memiliki efek lain selain degradasi karakteristik.
+> Aturan ini mengasumsikan Karakter Manusia dengan masa hidup sekitar 80–100 tahun. Kerugian ini dapat diimbangi dengan pelatihan karakteristik dan perawatan diri. Jika Karakter Anda merawat diri mereka sendiri dengan luar biasa atau memiliki akses ke sumber umur panjang (obat-obatan luar biasa, perawatan anti-penuaan, ramuan sihir, dll.), abaikan aturan ini. Makhluk asing atau nonManusia lainnya mungkin mengalami efek dari penuaan dan ketidakaktifan secara berbeda atau mungkin memiliki efek lain selain degradasi karakteristik.
 > 
-> Untuk setiap 10 tahun waktu permainan sejak Karakter Anda dibuat, tingkatkan karakteristik EDU mereka sebesar +1 untuk mewakili pengalaman yang dipelajari melalui kehidupan secara umum. Ini memodifikasi lemparan Pengetahuan (EDU×5) tetapi tidak mempengaruhi poin Skill atau Skill apa pun yang didasarkan pada EDU. Jika Karakter Anda tidak berinteraksi dengan dunia luar dalam waktu ini, EDU tidak ditingkatkan.
+> Untuk setiap 10 tahun waktu permainan sejak Karakter Anda dibuat, tingkatkan karakteristik EDU mereka sebesar +1 untuk mewakili pengalaman yang dipelajari melalui kehidupan umum. Ini memodifikasi lemparan Pengetahuan (EDU×5) tetapi tidak memengaruhi poin Skill atau Skill apa pun berdasarkan EDU. Jika Karakter Anda tidak berinteraksi dengan dunia luar dalam waktu ini, EDU tidak ditingkatkan.

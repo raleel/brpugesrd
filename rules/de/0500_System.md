@@ -1,58 +1,58 @@
-# 5. System
+# 5\. System
 
-Das gesamte Ziel eines Spielsystems ist die Beantwortung zweier Fragen: „Wie bestimmen die Spieler, ob sie Erfolg oder Misserfolg haben?“ und „Wie gut gelingt oder misslingt ihnen etwas?“ Basic Roleplaying beantwortet diese Fragen mit einem klaren und intuitiven System, das Würfelwürfe verwendet, um die Wahrscheinlichkeit eines Erfolgs oder Misserfolgs einer Handlung zu simulieren, sowie Erfolgsgrade, um eine Bandbreite möglicher Ergebnisse zu bestimmen.
+Das gesamte Ziel eines Spielsystems ist die Beantwortung von zwei Fragen: „Wie bestimmen die Spieler, ob sie Erfolg haben oder scheitern?“ und „Wie gut gelingt oder misslingt ihnen etwas?“. Basic Roleplaying beantwortet diese Fragen mit einem sauberen und intuitiven System, das Würfelwürfe verwendet, um die Wahrscheinlichkeit für das Gelingen oder Scheitern einer Aktion zu simulieren, sowie Erfolgskategorien, um eine Reihe möglicher Ergebnisse zu bestimmen.
 
-Routinehandlungen in routinemäßigen Situationen ohne Herausforderung sollten fast immer gelingen. Wenn die Handlung jedoch dramatisch oder außergewöhnlich wird, ist es an der Zeit, für die Auflösung zu würfeln. Sie werden wissen wollen, ob Fertigkeiten gelingen, wenn Gefahr droht, oder ob sie unter Stress kläglich versagen. Würfel ermöglichen es, Krisen und Entscheidungspunkte unparteiisch zu lösen, ohne dass der Spielleiter ständig eingreifen muss.
+Routinemäßige Aktionen in alltäglichen Situationen ohne Herausforderung sollten fast immer gelingen. Wenn die Aktion jedoch dramatisch oder außergewöhnlich wird, ist es an der Zeit, für die Auflösung zu würfeln. Sie werden wissen wollen, ob Fertigkeiten gelingen, wenn Gefahr droht, oder ob sie angesichts von Stress kläglich scheitern. Würfel ermöglichen es, Krisen und Entscheidungspunkte unparteiisch zu lösen, ohne dass der Spielleiter ständig eingreifen muss.
 
-Einige Fertigkeiten, insbesondere Waffenfertigkeiten, sind von Natur aus dramatisch und gefährlich und werden immer ausgewürfelt, ebenso wie Unfälle wie Stürze. Alle Würfe zur Bestimmung von Erfolg oder Misserfolg verwenden Prozentwürfel (W100), wobei ein niedrigerer Wert besser ist. Andere Arten von Würfeln legen den Schaden fest, den verschiedene Waffen anrichten, oder bestimmen andere unterstützende Informationen. *Kapitel Sechs: Kampf* behandelt Angriffe und Verteidigung im Kampf. *Kapitel Sieben: Spezielle Regeln* enthält Richtlinien für eine Vielzahl von Bedingungen und Situationen.
+Einige Fertigkeiten, insbesondere Waffenfertigkeiten, sind von Natur aus dramatisch und gefährlich und werden immer ausgewürfelt, ebenso wie Unfälle, etwa Stürze. Alle Würfe zur Bestimmung von Erfolg oder Misserfolg verwenden Prozentwürfel (W100), wobei ein niedrigerer Wert besser ist. Andere Würfelarten bestimmen den durch verschiedene Waffen verursachten Schaden oder liefern andere unterstützende Informationen. *Kapitel Sechs: Kampf* behandelt das Angreifen und Verteidigen im Kampf. *Kapitel Sieben: Spezielle Regeln* enthält Richtlinien für eine Vielzahl von Bedingungen und Situationen.
 
-Normalerweise sagt Ihnen Ihr Spielleiter, wann Sie würfeln sollen und welche Art von Wurf Sie machen müssen – sei es ein Fertigkeitswurf, ein Widerstandswurf, ein Eigenschaftswurf usw., aber dieses Kapitel ist für jeden nützlich, der wissen möchte, wie das Spiel funktioniert.
+Normalerweise sagt Ihnen der Spielleiter, wann Sie würfeln sollen und welche Art von Wurf erforderlich ist – sei es ein Fertigkeitswurf, ein Widerstandswurf, ein Eigenschaftswurf usw., aber dieses Kapitel ist für jeden nützlich, der wissen möchte, wie das Spiel funktioniert.
 
-## Handlungen
+## Aktionen
 
-Unabhängig vom Genre haben alle guten Geschichten (und Rollenspielabenteuer) eines gemeinsam: Konflikte. Charaktere sind dazu aufgerufen, allerlei Dinge gegen alle Widerstände zu vollbringen, vom Finden und Interpretieren von Hinweisen bis hin zum Überwinden von Feinden in tödlichen Kämpfen.
+Unabhängig vom Genre haben alle guten Geschichten (und Rollenspielabenteuer) eines gemeinsam: Konflikte. Charaktere sind dazu aufgefordert, allerlei Dinge gegen Widerstände zu erreichen, vom Finden und Interpretieren von Hinweisen bis hin zur Überwindung von Feinden in tödlichen Kämpfen.
 
-Prozentwürfe bestimmen den Erfolg oder Misserfolg von Handlungen, deren Ergebnis ungewiss ist. Andere Würfel können dabei helfen, die Ergebnisse eines Wurfs zu definieren (Schaden usw.), aber Prozentwürfe sind der Kern des Systems. Um zu sehen, ob eine Handlung gelingt, würfeln Sie W100 und vergleichen das Ergebnis mit der Chance, die durch die Art des Wurfs und seine potenziellen Modifikatoren bestimmt wird. Wenn der Prozentwurf gleich oder niedriger als das Ziel ist, gelingt die Handlung. Würfe, die höher als die Erfolgschance sind, misslingen.
+Prozentwürfe bestimmen den Erfolg oder Misserfolg von Aktionen, deren Ausgang zweifelhaft ist. Andere Würfel können helfen, die Ergebnisse eines Wurfs zu definieren (Schaden usw.), aber Prozentwürfe sind der Kern des Systems. Um zu sehen, ob eine Aktion gelingt, würfeln Sie mit einem W100 und vergleichen Sie das Ergebnis mit der Chance, die durch die Art des Wurfs und seine potenziellen Modifikatoren bestimmt wird. Wenn der Prozentwurf gleich oder niedriger als das Ziel ist, gelingt die Aktion. Würfe, die höher als die Erfolgswahrscheinlichkeit sind, schlagen fehl.
 
-### Automatische oder unmögliche Handlungen
+### Automatische oder Unmögliche Aktionen
 
-Nicht alle Handlungen erfordern einen Würfelwurf. Routinetätigkeiten, die unter normalen Bedingungen versucht werden, sollten im Allgemeinen gelingen, es sei denn, sie liegen außerhalb der Fähigkeiten der Charaktere. Für jede Handlung, die Ihr Spielleiter als einfach oder routinemäßig ansieht, ohne Herausforderung oder Konflikt, ist kein W100-Wurf erforderlich.
+Nicht alle Aktionen erfordern einen Würfelwurf. Routinemäßige Aktivitäten, die unter normalen Bedingungen versucht werden, sollten im Allgemeinen gelingen, es sei denn, sie liegen außerhalb der Fähigkeiten der Charaktere. Für jede Aktion, die der Spielleiter als einfach oder routinemäßig erachtet, ohne Herausforderung oder Konflikt, ist kein W100-Wurf erforderlich.
 
-Andererseits kann Ihr Spielleiter entscheiden, dass wirklich überwältigende Aufgaben, wie das Durchführen einer Herzoperation ohne medizinische Ausbildung oder das Bauen eines Computers aus Kokosnüssen, die Fähigkeiten selbst der versiertesten Experten übersteigen. Wenn Ihr Spielleiter entscheidet, dass eine Aufgabe unmöglich ist, reicht kein Würfelwurf aus – alle Versuche scheitern.
+Andererseits kann der Spielleiter entscheiden, dass wahrhaft überwältigende Aufgaben, wie eine Herzoperation ohne medizinische Ausbildung durchzuführen oder aus Kokosnüssen einen Computer zu bauen, die Fähigkeiten selbst der versiertesten Experten übersteigen. Wenn der Spielleiter festlegt, dass eine Aufgabe unmöglich ist, reicht kein Würfelwurf aus – alle Versuche schlagen fehl.
 
-### Erfolg oder Misserfolg bewerten
+### Bewertung von Erfolg oder Misserfolg
 
-Manchmal können die Anstrengungen Ihres Charakters sehr unterschiedliche Ergebnisse haben: Ein guter Wurf beim Dartspiel trifft das Brett, während ein glücklicher oder außergewöhnlicher Wurf ins Schwarze trifft. Es gibt fünf Erfolgsgrade für jede Art von Aktionswurf. Von schlecht nach gut geordnet sind diese:
+Manchmal können die Bemühungen Ihres Charakters sehr unterschiedliche Ergebnisse haben: Ein guter Wurf beim Darts trifft das Brett, während ein glücklicher oder außergewöhnlicher Wurf das Bullseye trifft. Es gibt fünf Erfolgsgrade für jede Art von Aktionswurf. Von schlecht nach gut geordnet sind diese:
 
 #### Patzer
 
-Pech oder Unfähigkeit führen manchmal zum schlechtestmöglichen Ergebnis, einem spektakulären Misserfolg, der Patzer genannt wird. Die Chance, bei einem Aktionswurf zu patzen, entspricht 5 % (1/20) der Misserfolgschance, normalerweise im Bereich 96–00. Eine 00 ist immer ein Patzer, egal wie hoch der Fertigkeitswert ist. Patzer bringen niemals vorteilhafte Ergebnisse und führen immer dazu, dass Ihr Charakter und/oder Verbündete durch katastrophale oder unbeabsichtigte Folgen behindert oder sogar geschädigt werden. Kapitel Drei: Fertigkeiten und Kapitel Sechs: Kampf besprechen die spezifischen Konsequenzen verpatzter Würfe.
+Pech oder Unfähigkeit führen manchmal zum schlechtestmöglichen Ergebnis, einem spektakulären Misserfolg, der als Patzer bezeichnet wird. Die Chance auf einen Patzer bei einem Aktionswurf entspricht 5 % (1/20) der Misserfolgschance, üblicherweise im Bereich von 96–00. Eine 00 ist immer ein Patzer, egal wie hoch der Fertigkeitswert ist. Patzer bringen niemals vorteilhafte Ergebnisse und behindern oder schädigen Ihren Charakter und/oder Verbündete durch katastrophale oder unbeabsichtigte Folgen immer. *Kapitel Drei: Fertigkeiten* und *Kapitel Sechs: Kampf* diskutieren die spezifischen Konsequenzen von Patzern.
 
 #### Misserfolg
 
-Würfe, die höher sind als die Basischance, misslingen. Außer eine Handlung ist automatisch, gibt es immer eine gewisse Chance auf Misserfolg: Egal wie hoch die modifizierte Basischance ist, Würfe misslingen bei Ergebnissen von 96 oder höher. Einige Misserfolge kosten nichts weiter als vielleicht ein wenig Würde, während andere teuer an Zeit, Geld oder körperlichem Schaden sein können. Siehe Kapitel Drei: Fertigkeiten für die Konsequenzen verpatzter Würfe. Die Ausnahme bilden Widerstandswürfe, bei denen ein Unterschied von 10 Eigenschaftspunkten ausreicht, um nur bei einer 00 von einem Misserfolg zu sprechen.
+Würfe, die höher als die Basis-Erfolgschance sind, schlagen fehl. Sofern eine Aktion nicht Automatisch ist, besteht immer die Chance auf einen Misserfolg: Unabhängig davon, wie hoch die modifizierte Basis-Erfolgschance ist, schlagen Würfe bei Ergebnissen von 96 oder höher immer fehl. Manche Misserfolge kosten nichts weiter als vielleicht ein wenig Würde, während andere teuer an Zeit, Geld oder körperlichem Schaden sein können. Siehe *Kapitel Drei: Fertigkeiten* für die Konsequenzen misslungener Würfe. Die Ausnahme bilden Widerstandswürfe, bei denen ein Unterschied von 10 Eigenschaftspunkten ausreicht, um nur einen Wurf von 00 zum Misserfolg zu machen.
 
 #### Erfolg
 
-Jeder Wurf, der gleich oder unter der Basischance liegt, qualifiziert sich als Erfolg. Erfolge führen die Handlung mit durchschnittlichen Ergebnissen aus. Waffenfertigkeiten, die einen Erfolg erzielen, verursachen den aufgeführten Schadenswürfel, und andere Fertigkeiten haben die Ergebnisse, die in *Kapitel Drei: Fertigkeiten* vorgeschlagen werden.
+Jeder Wurf, der gleich oder unter der Basis-Erfolgschance liegt, qualifiziert sich als Erfolg. Erfolge vollenden die Aktion mit durchschnittlichen Ergebnissen. Waffenfertigkeiten, die einen Erfolg erzielen, verursachen den aufgeführten Schadenswürfel, und andere Fertigkeiten haben die in *Kapitel Drei: Fertigkeiten* vorgeschlagenen Ergebnisse.
 
-#### Spezieller Erfolg
+#### Spezialer Erfolg
 
-Einige Ergebnisse sind besser als der Durchschnitt und bringen zusätzliche Vorteile. Handlungen erzielen einen speziellen Erfolg, wenn der Wurf gleich oder weniger als 1/5 des Fertigkeitswerts ist. Runden Sie Brüche normal (ab bei 0,49 oder weniger, auf bei 0,5 oder höher). Im Kampf kann ein Angriff, der einen speziellen Erfolg würfelt, basierend auf der Art der Waffe einen Niederschlag oder ein Aufspießen verursachen (siehe Kapitel Sechs: Kampf für weitere Details), während die Fertigkeitsbeschreibungen in Kapitel Drei: Fertigkeiten Anleitungen für spezielle Erfolge bieten.
+Einige Ergebnisse sind besser als der Durchschnitt und bringen zusätzliche Vorteile. Aktionen erzielen einen Spezialen Erfolg, wenn der Wurf gleich oder weniger als 1/5 des Fertigkeitswerts ist. Runden Sie Brüche normal (ab bei .49 oder weniger, auf bei .5 oder höher). Im Kampf kann ein Angriff, der einen Spezialen Erfolg würfelt, basierend auf dem Waffentyp einen Niederschlag oder ein Aufspießen verursachen (siehe *Kapitel Sechs: Kampf* für weitere Details), während die Fertigkeitsbeschreibungen in *Kapitel Drei: Fertigkeiten* Anleitungen für spezielle Erfolge bieten.
 
 #### Kritischer Erfolg
 
-Manchmal führt Ihr Charakter eine Handlung so gut aus, dass er außergewöhnliche Ergebnisse erzielt. Würfe, die gleich oder weniger als 1/20 des Fertigkeitswerts sind, sind ein kritischer Erfolg. Runden Sie Brüche normal. Ein kritischer Erfolg liefert das beste aller möglichen Ergebnisse. Waffen, die kritisch treffen, umgehen die Rüstung des Ziels vollständig und verursachen maximalen Schaden (plus den normalerweise gewürfelten Schadensmodifikator); während Fertigkeitswürfe weitaus bessere Ergebnisse als normal erzielen. Informationen zu vorgeschlagenen kritischen Ergebnissen finden Sie in Kapitel Drei: Fertigkeiten.
+Manchmal führt Ihr Charakter eine Aktion so gut aus, dass er außergewöhnliche Ergebnisse erzielt. Würfe, die gleich oder weniger als 1/20 des Fertigkeitswerts sind, sind ein Kritischer Erfolg. Runden Sie Brüche normal. Ein Kritischer Erfolg liefert das beste aller möglichen Ergebnisse. Waffen, die kritisch treffen, umgehen die Rüstung des Ziels vollständig und verursachen maximalen Schaden (plus den normalerweise gewürfelten Schad. Mod.); während Fertigkeitswürfe weitaus bessere Ergebnisse erzielen als normal. Schlagen Sie in *Kapitel Drei: Fertigkeiten* für vorgeschlagene kritische Ergebnisse nach.
 
 ### Fertigkeitswürfe
 
-Die meisten Handlungen, die Ihr Charakter versucht, werden mit Fertigkeitswürfen gelöst. Hier verwendet der Prozentwurf den Wert Ihres Charakters in der entsprechenden Fertigkeit als Basischance. Jede Fertigkeit, die normalerweise eine Basischance von 5 % oder höher hat, gelingt bei einem Wurf von 01–05 immer als Erfolg, selbst wenn Schwierigkeiten, konditionale Modifikatoren oder andere Faktoren den Fertigkeitswert unter 5 % senken. Siehe Modifizieren von Aktionswürfen. Weitere Informationen zu jeder Fertigkeit finden Sie in Kapitel Drei: Fertigkeiten.
+Die meisten Aktionen, die Ihr Charakter versucht, werden mit Fertigkeitswürfen gelöst. Hierbei verwendet der Prozentwurf den Wert Ihres Charakters in der entsprechenden Fertigkeit als Basis-Erfolgschance. Jede Fertigkeit, die normalerweise eine Basis-Erfolgschance von 5 % oder höher hat, gelingt immer bei einem Wurf von 01–05, selbst wenn Schwierigkeiten, konditionale Modifikatoren oder andere Faktoren den Fertigkeitswert unter 5 % drücken. Siehe Modifizierung von Aktionswürfen. Siehe *Kapitel Drei: Fertigkeiten* für weitere Informationen zu jeder Fertigkeit.
 
 > ##### Tabelle der Fertigkeitsergebnisse
 > 
-> Dies sind die Bereiche für kritischen Erfolg, speziellen Erfolg und Patzer. Die Ergebnisse für spezielle Erfolge beinhalten den Zahlenbereich für kritische Erfolge. Wenn ein Wurfergebnis im Bereich sowohl eines kritischen als auch eines speziellen Erfolgs liegt, sollten die Ergebnisse des kritischen Erfolgs (falls zutreffend) angewendet werden, nicht beide.
+> Dies sind die Bereiche für Kritischen Erfolg, Spezialen Erfolg und Patzer. Die Ergebnisse für spezielle Erfolge beinhalten den Zahlenbereich für kritische Erfolge. Wenn ein Wurfergebnis im Bereich sowohl eines kritischen als auch eines speziellen Erfolgs liegt, sollten die Ergebnisse des kritischen Erfolgs (falls zutreffend) angewendet werden, nicht beide.
 > 
-> | Basischance | Kritisch | Speziell | Patzer |
+> | Basis-Erfolgschance | Kritisch | Spezial | Patzer |
 > | :---- | ----- | ----- | ----- |
 > | 01–05 | 01 | 01 | 96–00 |
 > | 06–10 | 01 | 01–02 | 96–00 |
@@ -82,35 +82,35 @@ Die meisten Handlungen, die Ihr Charakter versucht, werden mit Fertigkeitswürfe
 
 ### Eigenschaftswürfe
 
-Einige Handlungen sind nicht leicht mit einer bestimmten Fertigkeit verknüpft: zum Beispiel, sich an einem Seil hochzuziehen. Verwenden Sie für diese Situationen einen Eigenschaftswurf, mit einer Basischance, die dem Wert der Eigenschaft Ihres Charakters multipliziert mit einer Zahl entspricht. KON, INT, GES und CHA sind häufige Eigenschaften, die verwendet werden, und die meisten Eigenschaftswürfe haben einen ×5-Multiplikator. Ihre Basiseigenschaftswürfe wurden bei der Charaktererschaffung definiert. Abhängig von der Schwierigkeit der Handlung kann Ihr Spielleiter einen höheren oder niedrigeren Multiplikator verwenden. Siehe **Schwierigkeitsmodifikatoren**.
+Einige Aktionen lassen sich nicht einfach mit einer bestimmten Fertigkeit verknüpfen: sich zum Beispiel an einem Seil hochzuziehen. Verwenden Sie für diese Situationen einen Eigenschaftswurf, mit einer Basis-Erfolgschance, die sich aus der Eigenschaft Ihres Charakters multipliziert mit einer Zahl ergibt. KON, INT, GES und CHA sind häufig verwendete Eigenschaften, und die meisten Eigenschaftswürfe haben einen ×5-Multiplikator. Ihre Basis-Eigenschaftswerte wurden bei der Charaktererschaffung festgelegt. Abhängig von der Schwierigkeit der Aktion kann Ihr Spielleiter einen höheren oder niedrigeren Multiplikator verwenden. Siehe **Schwierigkeitsmodifikatoren**.
 
 ### Widerstandswürfe
 
-Einige Handlungen erfordern mehr als Fertigkeiten oder natürliche Fähigkeiten: Hindernisse müssen überwunden werden, um erfolgreich zu sein. In diesen Fällen sollten Spielleiter auf die Widerstandstabelle verweisen und einen Widerstandswurf fordern. Widerstandswürfe beinhalten niemals Fertigkeiten, sondern lassen stattdessen Eigenschaften oder andere messbare Mengen gegeneinander antreten. Siehe **Opponierende Fertigkeitswürfe** für Möglichkeiten, Fertigkeit-gegen-Fertigkeit-Wettbewerbe zu handhaben.
+Einige Aktionen erfordern mehr als nur Fertigkeit oder natürliche Fähigkeit: Hindernisse müssen überwunden werden, um erfolgreich zu sein. In diesen Fällen sollten Spielleiter auf die Widerstandstabelle zurückgreifen und einen Widerstandswurf verlangen. Widerstandswürfe beinhalten niemals Fertigkeiten, sondern stellen stattdessen Eigenschaften oder andere messbare Größen gegeneinander. Siehe **Gegnerische Fertigkeitswürfe** für Möglichkeiten, Fertigkeit-gegen-Fertigkeit-Wettbewerbe zu handhaben.
 
-Um einen Widerstandswurf durchzuführen, vergleichen Sie den aktiven Faktor mit dem passiven Faktor auf der Widerstandstabelle. Der aktive Faktor ist die Partei oder Kraft, die versucht, den passiven Faktor zu beeinflussen. Die folgenden sind alles Beispiele für Widerstandswürfe:
+Um einen Widerstandswurf durchzuführen, vergleichen Sie den aktiven Faktor mit dem passiven Faktor auf der Widerstandstabelle. Der aktive Faktor ist die Partei oder Kraft, die versucht, den passiven Faktor zu beeinflussen. Das Folgende sind Beispiele für Widerstandswürfe:
 
-* Gift mit Potenz 17 (aktiv) vergiftet Ihren Charakter mit KON 15 (passiv). Das Gift versucht, Ihrem Charakter Schaden zuzufügen, also ist das Gift aktiv.
+* Ein Gift mit Potenz 17 (aktiv) vergiftet Ihren Charakter mit KON 15 (passiv). Das Gift versucht, Ihrem Charakter Schaden zuzufügen, daher ist das Gift aktiv.
 
-* Ihr Charakter hat STÄ 18 (aktiv) und versucht, einen Felsbrocken mit GRÖ 25 (passiv) zu bewegen. Ihr Charakter versucht, den Felsbrocken zu bewegen, also ist seine STÄ aktiv.
+* Ihr Charakter hat STÄ 18 (aktiv) und versucht, einen Felsbrocken mit GRÖ 25 (passiv) zu bewegen. Ihr Charakter versucht, den Felsbrocken zu bewegen, daher ist seine STÄ aktiv.
 
-Die Basischance eines Widerstandswurfs entspricht 50 % + (aktive Eigenschaft × 5) – (passive Eigenschaft × 5). Wenn der aktive und der passive Faktor gleich sind, hat der aktive Faktor eine 50-prozentige Erfolgschance. Jeder Punkt, um den der aktive Faktor den passiven Faktor übersteigt, modifiziert die Erfolgschance um +5 %, während passive Faktoren, die höher als aktive Faktoren sind, die Basischance für jeden Punkt Differenz um –5 % modifizieren. Unterschiede von 10 Punkten oder mehr führen zu automatischem Erfolg oder Misserfolg, obwohl Ihr Spielleiter einen Wurf von 01 oder 00 zulassen kann, um entsprechend erfolgreich zu sein oder zu scheitern, wo Ergebnisse ansonsten automatisch wären.
+Die Basis-Erfolgschance eines Widerstandswurfs entspricht 50 % + (aktive Eigenschaft × 5) – (passive Eigenschaft × 5). Wenn der aktive und der passive Faktor gleich sind, hat der aktive Faktor eine 50-prozentige Erfolgschance. Jeder Punkt, um den der aktive Faktor den passiven Faktor übersteigt, modifiziert die Erfolgschance um +5 %, während passive Faktoren, die höher als aktive Faktoren sind, die Basis-Erfolgschance für jeden Differenzpunkt um –5 % modifizieren. Unterschiede von 10 Punkten oder mehr führen zu automatischem Erfolg oder Misserfolg, obwohl Ihr Spielleiter bei Ergebnissen, die ansonsten automatisch wären, einen Wurf von 01 oder 00 als Erfolg bzw. Misserfolg werten kann.
 
-Einige spezifische Verwendungen der Widerstandstabelle umfassen:
+Einige spezifische Verwendungen der Widerstandstabelle beinhalten:
 
-* **Machtpunkte vs. Machtpunkte:** Kräfte, die versuchen, ein Ziel zu beeinflussen oder zu kontrollieren, beinhalten oft Wettbewerbe von Machtpunkten: Die aktuelle Machtpunkt-Summe Ihres Charakters muss die aktuellen Machtpunkte des Ziels übertreffen, damit die Kraft wirksam wird.
+* **Magiepunkte gegen Magiepunkte:** Kräfte, die versuchen, ein Ziel zu beeinflussen oder zu kontrollieren, beinhalten oft Wettbewerbe von Magiepunkten: Die aktuelle Magiepunktesumme Ihres Charakters muss die aktuellen Magiepunkte des Ziels übertreffen, damit die Kraft wirksam wird.
 
-* **Potenz vs. KON:** Alle Krankheiten und Gifte werden in Bezug auf Potenz (POT) gemessen und gegen die KON des Ziels abgeglichen, um die Auswirkungen zu bestimmen. Abhängig vom Gift oder der Krankheit kann selbst ein verpatzter Wurf das Ziel beeinträchtigen.
+* **Potenz gegen KON:** Alle Krankheiten und Gifte werden in Bezug auf Potenz (POT) gemessen und mit dem KON-Wert des Ziels abgeglichen, um die Auswirkungen zu bestimmen. Abhängig vom Gift oder der Krankheit kann selbst ein misslungener Wurf das Ziel beeinträchtigen.
 
-* **MA vs. MA:** Ein klassischer Wettbewerb der Willenskraft. Zusätzlich zum Gewinn des Widerstandswurfs bietet ein Erfolg bei einem MA-vs-MA-Wettbewerb dem aktiven Charakter die Gelegenheit, seinen MA-Wert zu erhöhen, wenn er gegen einen Gegner mit höherer MA gewinnt.
+* **MAC gegen MAC:** Ein klassischer Wettbewerb der Willenskraft. Zusätzlich zum Gewinn des Widerstandswurfs bietet der Erfolg in einem MAC-gegen-MAC-Wettbewerb dem aktiven Charakter die Möglichkeit, seinen MAC-Wert zu erhöhen, wenn er gegen einen Gegner mit höherem MAC gewinnt.
 
-* **STÄ vs. STÄ:** Wird beim Armdrücken verwendet sowie bei Versuchen, eine klemmende Tür aufzudrücken oder eine Eisenstange zu biegen. Diese Wettbewerbe beinhalten unflexible Hindernisse, nicht schwere.
+* **STÄ gegen STÄ:** Wird beim Armdrücken verwendet, sowie bei Versuchen, eine klemmende Tür aufzudrücken oder eine Eisenstange zu biegen. Diese Wettbewerbe beinhalten unflexible Hindernisse, nicht schwere.
 
-* **Schaden vs. KON**: KO-Angriffe und Schläge auf den Kopf gleichen den gewürfelten Schaden mit der KON des Ziels ab, um zu bestimmen, ob das Ziel betäubt oder ausgeknockt wird.
+* **Schaden gegen KON**: K.-o.-Angriffe und Schläge gegen den Kopf gleichen den gewürfelten Schaden mit der KON des Ziels ab, um zu bestimmen, ob das Ziel betäubt oder ausgeknockt wird.
 
-* **STÄ+GRÖ vs. STÄ+GRÖ:** Überwältigungsangriffe versuchen, die Masse und Stärke des Angreifers zu nutzen, um das Ziel umzuwerfen.
+* **STÄ+GRÖ gegen STÄ+GRÖ:** Überwältigungsangriffe versuchen, die Masse und Stärke des Angreifers zu nutzen, um das Ziel umzuwerfen.
 
-Ihr Spielleiter möchte vielleicht immer eine Chance auf Misserfolg zulassen, wenn ein Ergebnis von 00 gewürfelt wird, unabhängig vom Fertigkeitswert. Ebenso kann eine 01 ein Erfolg sein, auch wenn sie unwahrscheinlich ist, obwohl dies im Rahmen der Fähigkeiten Ihres Charakters liegen sollte.
+Ihr Spielleiter möchte möglicherweise immer eine Chance auf Misserfolg zulassen, wenn eine 00 gewürfelt wird, unabhängig vom Fertigkeitswert. Ebenso kann eine 01 ein Erfolg sein, selbst wenn er unwahrscheinlich ist, obwohl dies innerhalb der Fähigkeiten Ihres Charakters liegen sollte.
 
 ##### Die Widerstandstabelle
 
@@ -118,316 +118,315 @@ Die obere Achse ist für die aktive Eigenschaft und die linke Achse ist für die
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
-| **2** | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – | – | – | – | – |
-| **3** | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – | – | – | – |
-| **4** | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – | – | – |
-| **5** | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – | – |
-| **6** | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – | – |
-| **7** | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – | – |
-| **8** | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – | – |
-| **9** | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – | – |
-| **10** | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – | – |
-| **11** | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – | – |
-| **12** | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – | – |
-| **13** | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – | – |
-| **14** | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | – |
-| **15** | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 85 |
-| **16** | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 |
-| **17** | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 |
-| **18** | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 |
-| **19** | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 |
-| **20** | – | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 |
-| **21** | – | – | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 |
-| **22** | – | – | – | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 |
-| **23** | – | – | – | – | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 |
-| **24** | – | – | – | – | – | – | – | – | – | – | – | – | – | – | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** |
+| **1** | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **2** | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **3** | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **4** | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **5** | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **6** | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- | \- |
+| **7** | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- | \- |
+| **8** | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- | \- |
+| **9** | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- | \- |
+| **10** | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- | \- |
+| **11** | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- | \- |
+| **12** | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- | \- |
+| **13** | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- | \- |
+| **14** | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | \- |
+| **15** | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 85 |
+| **16** | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 |
+| **17** | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 | 85 |
+| **18** | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 | 80 |
+| **19** | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 | 75 |
+| **20** | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 | 70 |
+| **21** | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 | 65 |
+| **22** | — | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 | 60 |
+| **23** | — | — | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** | 55 |
+| **24** | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 05 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | **50** |
 
-Für einen Erfolg würfeln Sie 1W100 gleich oder niedriger als die angegebene Zahl. Änderungen unter 05 % liegen im **Bereich des automatischen Misserfolgs** und über 95 % im **Bereich des automatischen Erfolgs**.
+Für Erfolg würfeln Sie 1W100 gleich oder weniger als die angezeigte Zahl. Werte unter 05 % liegen im **Bereich des Automatischen Misserfolgs** und über 95 % im **Bereich des Automatischen Erfolgs**.
 
-#### Kritische Ergebnisse, spezielle Erfolge und Patzer bei Widerstandswürfen
+#### Kritische Ergebnisse, Spezielle Erfolge und Patzer bei Widerstandswürfen
 
-Normalerweise haben Widerstandswürfe Ja/Nein-Ergebnisse – Erfolg oder Misserfolg –, aber Ihr Spielleiter kann sich entscheiden, die Ergebnisse in Fällen eines speziellen oder kritischen Erfolgs (siehe unten) oder eines drastischen Misserfolgs bei einem Patzer differenzierter zu charakterisieren. Die Art und Weise bleibt Ihrem Spielleiter überlassen, unter Verwendung der Richtlinien für Erfolgs- und Misserfolgsgrade bei Fertigkeiten.
+Normalerweise haben Widerstandswürfe Ja/Nein-Ergebnisse – Erfolg oder Misserfolg –, aber Ihr Spielleiter kann wählen, die Ergebnisse in Fällen eines speziellen oder kritischen Erfolgs (siehe unten) oder eines drastischen Scheiterns bei einem Patzer genauer zu charakterisieren. Die Art und Weise bleibt Ihrem Spielleiter überlassen, unter Verwendung der Richtlinien für Erfolgs- und Misserfolgsstufen bei Fertigkeiten.
 
 ### Spezielle Fertigkeitswürfe
 
-Besondere Umstände können etwas anderes als einen Standard-Fertigkeitswurf erfordern. Diese Fälle treten auf, wenn zwei Charaktere zusammenarbeiten, gegeneinander arbeiten oder versuchen, zwei Dinge gleichzeitig zu tun.
+Spezielle Umstände können etwas anderes als einen Standard-Fertigkeitswurf erfordern. Diese Fälle treten auf, wenn zwei Charaktere zusammenarbeiten, gegeneinander arbeiten oder versuchen, zwei Dinge gleichzeitig zu tun.
 
 #### Kooperative Fertigkeitswürfe
 
-Zwei oder mehr Charaktere können versuchen, bei einer Handlung zusammenzuarbeiten, falls dies sinnvoll ist. Dies ist eine Art Verstärkung. Ihr Spielleiter kann Beschränkungen auferlegen, wie viele Charaktere zu einer bestimmten Aktivität beitragen können, da dies durch physische oder andere praktische Belange begrenzt sein kann. Bei einigen Aufgaben kann je nach Umständen einfach nicht geholfen werden.
+Zwei oder mehr Charaktere können versuchen, bei einer Aktion zusammenzuarbeiten, wenn dies vernünftig ist. Dies ist eine Art Verstärkung. Ihr Spielleiter kann Beschränkungen auferlegen, wie viele Charaktere zu einer bestimmten Aktivität beitragen können, da dies durch physische oder andere praktische Bedenken begrenzt sein kann. Einige Aufgaben können je nach Umständen einfach nicht unterstützt werden.
 
-Wählen Sie bei der Zusammenarbeit an einer Handlung einen Charakter als Anführer. Alle anderen Charaktere, die mithelfen, sollten Fertigkeitswürfe machen. Nehmen Sie das beste Ergebnis oder einen Patzer, falls einer auftritt.
+Wählen Sie bei der Zusammenarbeit an einer Aktion einen Charakter als Leiter aus. Alle anderen Charaktere, die mitwirken, sollten Fertigkeitswürfe machen. Nehmen Sie das beste Ergebnis oder einen Patzer, falls einer auftritt.
 
-* **Kritischer Erfolg:** Modifizieren Sie den Fertigkeitswert des Hauptcharakters um +50 %.
+* **Kritischer Erfolg:** Modifizieren Sie den Fertigkeitswert des primären Charakters um +50 %.
 
-* **Spezieller Erfolg:** Modifizieren Sie den Fertigkeitswert um +30 %.
+* **Spezialer Erfolg:** Modifizieren Sie den Fertigkeitswert um +30 %.
 
 * **Erfolg:** Modifizieren Sie den Fertigkeitswert um +20 %.
 
-* **Misserfolg:** Wenn kein Helfer erfolgreich war, wird der Fertigkeitswert des Hauptcharakters um –10 % modifiziert.
+* **Misserfolg:** Wenn kein Helfer erfolgreich war, wird der Fertigkeitswert des primären Charakters um –10 % modifiziert.
 
-* **Patzer:** Ein Patzer eines Helfers ist so ablenkend, dass die Hauptfertigkeit um –50 % modifiziert wird.
+* **Patzer:** Ein Patzer eines beliebigen Helfers ist so ablenkend, dass die primäre Fertigkeit um –50 % modifiziert wird.
 
-Ein Grund für die kooperative Fertigkeitsnutzung ist die Erhöhung der Erfolgsaussichten des Hauptcharakters sowie der Chancen auf spezielle und kritische Erfolge.
+Ein Grund für die kooperative Nutzung von Fertigkeiten ist es, die Erfolgschance des primären Charakters zu erhöhen, ebenso wie die Chance auf spezielle und kritische Erfolge.
 
-Wenn der Haupt-Fertigkeitswurf erfolgreich ist, kann jeder Beteiligte, der einen erfolgreichen Fertigkeitswurf gemacht hat, eine Erfahrungsprobe ablegen. Wenn nicht, bekommt niemand eine Erfahrungsprobe.
+Wenn der primäre Fertigkeitswurf erfolgreich ist, kann jeder Beteiligte, der einen erfolgreichen Fertigkeitswurf gemacht hat, eine Erfahrungsprobe ablegen. Wenn nicht, erhält niemand eine Erfahrungsprobe.
 
-Ein weiterer Grund für die kooperative Fertigkeitsnutzung ist, wenn direkte Hilfe nicht möglich ist, wie etwa bei der Bereitstellung von Anleitungen aus der Ferne.
+Ein weiterer Grund für die kooperative Nutzung von Fertigkeiten ist, wenn direkte Hilfe nicht möglich ist, etwa bei der Unterstützung durch Anleitungen aus der Ferne.
 
-**Zum Beispiel:** Ihr Charakter (Pilot 25 %) sitzt an den Steuerknüppeln eines kleinen Flugzeugs und versucht zu landen, nachdem der Pilot angeschossen wurde. Eine Verbündete am Boden mit Pilot 65 % befindet sich in einem Flugverkehrskontrollturm. Über Funk gibt sie Anweisungen zum Steuern und Landen. Obwohl sie nicht in der Nähe des Flugzeugs ist, macht die Verbündete einen erfolgreichen Pilot-Wurf, was die effektive Pilot-Fertigkeit Ihres Charakters um +20 % von 25 % auf 45 % erhöht.#### Gegenläufige Fertigkeitsproben
+**Zum Beispiel:** Ihr Charakter (Pilot 25 %) sitzt an den Kontrollen eines kleinen Flugzeugs und versucht zu landen, nachdem der Pilot angeschossen wurde. Eine Verbündete am Boden mit Pilot 65 % befindet sich in einem Flugverkehrskontrollturm. Über Funk gibt sie Anleitungen zum Steuern und Landen. Obwohl sie weit weg vom Flugzeug ist, macht die Verbündete einen erfolgreichen Pilot-Wurf, was die effektive Pilot-Fertigkeit Ihres Charakters um +20 %, von 25 % auf 45 %, erhöht.#### Opposed Fertigkeit Rolls
 
-Manchmal setzen zwei Charaktere ihre Fertigkeiten in direkter Opposition zueinander ein.
+Manchmal verwenden zwei Charaktere Fertigkeiten in direktem Gegensatz zueinander.
 
-**Zum Beispiel:** Dein Charakter versteckt sich in einer dichten Hecke, während er versucht, in einen feindlichen Außenposten einzubrechen. Eine aufmerksame Wache patrouilliert vorbei und sucht nach Eindringlingen. Wird dein Charakter unbemerkt bleiben? In diesem Fall wird die Fertigkeit „Wahrnehmung“ der Wache gegen die Fertigkeit „Verstecken“ deines Charakters ausgespielt.
+**Zum Beispiel:** Dein Charakter versteckt sich in einer dichten Hecke, während er versucht, in einen feindlichen Außenposten einzubrechen. Ein wachsamer Wachposten geht vorbei und sucht nach Eindringlingen. Wird dein Charakter unbemerkt bleiben? In diesem Fall wird die Fertigkeit Einsicht des Wachpostens gegen die Fertigkeit Heimlichkeit deines Charakters ausgespielt.
 
-Wenn zwei Fertigkeiten gegeneinander ausgespielt werden, würfeln beide Charaktere gegen ihre jeweilige Fertigkeit. Der Charakter, der den höchsten Erfolgsgrad erzielt, gewinnt den Wettbewerb. Wenn der Wurf des Unterlegenen jedoch erfolgreich war, modifiziert er den Erfolgsgrad des Gewinners, indem er ihn für jeden Erfolgsgrad, den er über einem Fehlschlag erzielt, um einen Grad nach unten verschiebt. Erzielen beide Parteien denselben Erfolgsgrad, gewinnt der höhere Würfelwurf den Wettbewerb, was Charakteren mit höheren Fertigkeitswerten einen Vorteil verschafft.
+Wenn zwei Fertigkeiten gegeneinander eingesetzt werden, würfeln beide Charaktere gegen ihre jeweiligen Fertigkeiten. Der Charakter, der den höchsten Erfolgsgrad erzielt, gewinnt den Wettbewerb. Wenn der Wurf des Verlierers jedoch erfolgreich war, modifiziert er den Erfolgsgrad des Gewinners, indem er ihn für jeden Erfolgsgrad, den er über einem Fehlschlag erzielt, um einen Grad nach unten verschiebt. Wenn beide Parteien den gleichen Erfolgsgrad erzielen, gewinnt der höhere Würfelwurf den Wettbewerb, was den Charakteren mit höheren Fertigkeitswerten den Vorteil verschafft.
 
-**Zum Beispiel:** Die Fertigkeit „Verstecken“ deines Charakters beträgt 65, während die Wache eine „Wahrnehmung“ von 78 hat. Du würfelst eine 47, ein Erfolg. Die Wache würfelt eine 13, ein Spezialerfolg! Die Wache gewinnt den Wettbewerb und wird auf die Anwesenheit deines Charakters aufmerksam. Der erfolgreiche Wurf deines Charakters stuft das Ergebnis der Wache von einem Spezialerfolg zu einem normalen Erfolg herab. In diesem Fall entscheidet dein Spielleiter, dass die Wache einen flüchtigen Blick auf deinen Charakter erhascht, aber keine seiner identifizierenden Merkmale ausmachen kann. Hätte die Wache eine 30 gewürfelt, wäre dein Charakter unbemerkt geblieben: Beide hatten Erfolge, aber der normale Erfolg deines Charakters schlägt den normalen Erfolg der Wache, wenn es darum geht, „Verstecken“ gegen „Wahrnehmung“ einzusetzen.
+**Zum Beispiel:** Die Fertigkeit Heimlichkeit deines Charakters liegt bei 65, während der Wachposten eine Fertigkeit Einsicht von 78 hat. Du würfelst eine 47, ein Erfolg. Der Wachposten würfelt eine 13, oder einen Spezialerfolg! Der Wachposten gewinnt den Wettbewerb und wird daher auf die Anwesenheit deines Charakters aufmerksam. Der erfolgreiche Wurf deines Charakters stuft das Ergebnis des Wachpostens von einem Spezialerfolg auf einen normalen Erfolg herab. In diesem Fall entscheidet dein Spielleiter, dass der Wachposten einen flüchtigen Blick auf deinen Charakter erhascht, aber keine seiner identifizierenden Merkmale erkennen kann. Hätte der Wachposten eine 30 gewürfelt, wäre dein Charakter unbemerkt geblieben: Beide hatten Erfolge, aber der normale Erfolg deines Charakters schlägt den normalen Erfolg des Wachpostens, wenn es um den Vergleich von Heimlichkeit gegen Einsicht geht.
 
-> ##### Systeme für gegenläufige Fertigkeitsproben
-> 
-> Es gibt viele Möglichkeiten, gegenläufige Würfe zu handhaben, und die folgenden alternativen Methoden ermöglichen es deinem Spielleiter, diejenige zu wählen, die er bevorzugt, anstatt die oben genannte Standardmethode zu verwenden.
-> 
-> ###### Gegenläufige Fertigkeiten unter Verwendung des höchsten erfolgreichen Ergebnisses
-> 
-> Lass alle am gegenläufigen Wurf Beteiligten normal würfeln (mit allen anwendbaren Modifikatoren) und vergleiche die Ergebnisse. Das höchste erfolgreiche Ergebnis, das gewürfelt wird und kein kritischer oder Spezialerfolg ist, ist der Gewinner. **Zum Beispiel:** Wenn zwei Charaktere den gleichen Fertigkeitswert von 87 % haben und einer eine 86 und der andere eine 22 würfelt, ist der Wurf von 86 der Gewinner. Beide Würfe sind erfolgreich, aber einer hat ein höheres Ergebnis als der andere.
-> 
-> Je höher die Fertigkeit eines Charakters bei einer versuchten Aktion ist, desto größer ist die Chance, dass er weniger geschickte (aber dennoch erfolgreiche) Gegner besiegt. Gleichstände werden durch einen Vergleich der unmodifizierten Fertigkeitswerte gelöst, wobei der höhere Fertigkeitswert gewinnt.
-> 
-> Eine alternative und komplexere Methode besteht darin, die Würfe normal durchzuführen und dann das Ergebnis des erfolgreichen Wurfs vom modifizierten Fertigkeitswert abzuziehen. Der Charakter, der die größte Differenz zwischen dem Fertigkeitswert und seinem Wurf erzielt, ist der Gewinner.
-> 
-> ###### Subtraktion bei gegenläufigen Fertigkeiten
-> 
-> Bei einer gegenläufigen Fertigkeitsprobe wird eine Fertigkeit als aktive/offensive Fertigkeit und die andere als passive/defensive Fertigkeit bestimmt. Führe zuerst eine Fertigkeitsprobe für den passiven Charakter durch; ist der Wurf erfolgreich, ziehe den vollen Wert des Fertigkeitswerts dieses Charakters vom Wert der aktiven/angreifenden Fertigkeit ab. Wenn die passive Fertigkeitsprobe fehlschlägt, bleibt die angreifende Fertigkeit unmodifiziert.
-> 
-> Ein Patzer der passiven Seite verwandelt den Wurf des Angreifers in einen *Einfachen* Wurf. Wenn die passive Fertigkeit höher ist als die aktive Fertigkeit, hat der Angreifer immer noch eine Standard-Erfolgschance von 5 % bei jedem Fertigkeitswert von 5 % oder höher.
-> 
-> ###### Gegenläufige Fertigkeitsproben unter Verwendung der Widerstandstabelle
-> 
-> Aktionen, die zwei gegensätzliche Fertigkeiten beinhalten, können mithilfe der Widerstandstabelle gelöst werden. Teile die Fertigkeitswerte von Angreifer und Verteidiger durch 5 (auf-/abgerundet) und löse es als einen einseitigen Wettbewerb auf der Widerstandstabelle.
-> 
-> Diese Methode erzeugt andere Ergebnisse als die anderen und verwehrt einer Partei jegliches Würfeln. Wenn du diese Methode verwendest, erlaube den Spielern wann immer möglich zu würfeln, während die Nicht-Spieler-Charaktere auf der Widerstandstabelle „passiv“ sind.
+> ##### Systeme für Opponierte Fertigkeitswürfe
+>
+> Es gibt viele Möglichkeiten, opponierte Würfe zu handhaben, und die folgenden alternativen Methoden ermöglichen es deinem Spielleiter, diejenige zu wählen, die er bevorzugt, anstatt den oben vorgestellten Standard zu verwenden.
+>
+> ###### Opponierte Fertigkeiten unter Verwendung des höchsten erfolgreichen Ergebnisses
+>
+> Lass jeden, der am opponierten Check beteiligt ist, wie gewohnt würfeln (mit allen anwendbaren Modifikatoren) und die Ergebnisse vergleichen. Das höchste erfolgreiche Ergebnis, das gewürfelt wurde und kein kritischer oder Spezialerfolg ist, ist der Gewinner. **Zum Beispiel:** Wenn zwei Charaktere den gleichen Fertigkeitswert von 87 % haben und einer eine 86 und der andere eine 22 würfelt, ist der Wurf von 86 der Gewinner. Beide Würfe sind erfolgreich, aber einer hat ein höheres Ergebnis als der andere.
+>
+> Je höher die Fertigkeit eines Charakters bei einer versuchten Aktion ist, desto größer ist die Chance, dass er weniger qualifizierte (aber dennoch erfolgreiche) Gegner besiegt. Gleichstände werden durch den Vergleich der unmodifizierten Fertigkeitswerte gelöst, wobei der höhere Fertigkeitswert der Gewinner ist.
+>
+> Eine alternative und komplexere Methode ist es, die Würfe wie gewohnt durchzuführen und dann das Ergebnis des erfolgreichen Wurfs vom modifizierten Fertigkeitswert abzuziehen. Der Charakter, der die höchste Differenz zwischen Fertigkeitswert und Würfelwurf erzielt, ist der Gewinner.
+>
+> ###### Subtraktion bei Opponierten Fertigkeitswürfen
+>
+> Bei einem opponierten Fertigkeitswurf wird eine Fertigkeit als aktive/offensive Fertigkeit und die andere als passive/defensive Fertigkeit bestimmt. Führe zuerst einen Fertigkeitswurf für den passiven Charakter durch; wenn der Wurf erfolgreich ist, subtrahiere den vollen Wert des Fertigkeitswertes dieses Charakters vom Wert der aktiven/angreifenden Fertigkeit. Wenn der passive Fertigkeitswurf fehlschlägt, bleibt die angreifende Fertigkeit unmodifiziert.
+>
+> Ein passiver Patzer macht den Wurf des Angreifers zu einem *Leicht*-Wurf. Wenn die passive Fertigkeit höher ist als die aktive Fertigkeit, hat der Angreifer immer noch eine Standardchance von 5 % auf Erfolg bei jedem Fertigkeitswert von 5 % oder mehr.
+>
+> ###### Opponierte Fertigkeitswürfe unter Verwendung der Widerstandstabelle
+>
+> Aktionen, die zwei gegensätzliche Fertigkeiten beinhalten, können unter Verwendung der Widerstandstabelle gelöst werden. Teile die angreifenden und verteidigenden Fertigkeitswerte durch 5 (normales Runden) und löse es als einen einzigen Wurf-Wettbewerb auf der Widerstandstabelle.
+>
+> Diese Methode erzeugt andere Ergebnisse als die anderen und verwehrt einer Partei jegliches Würfeln. Wenn diese Methode verwendet wird, erlaube den Spielern wann immer möglich zu würfeln, wobei die Nicht-Spieler-Charaktere auf der Widerstandstabelle ‚passiv‘ sind.
 
-#### Kombinierte Fertigkeitsproben
+#### Kombinierte Fertigkeitswürfe
 
-In einigen Fällen können die Aktionen deines Charakters kompliziert werden, weil er zwei Dinge gleichzeitig tun muss. Der Versuch, ein kleines Detail zu erkennen, während man ein Auto fährt, das Schießen mit einem Bogen vom Pferderücken aus oder das Klettern auf einen Baum, ohne ein Geräusch zu machen, sind alles Beispiele dafür. In solchen Fällen kann dein Spielleiter zwei Fertigkeiten in einem Wurf miteinander verknüpfen, wobei der niedrigere Fertigkeitswert als Basis-Chance dient. Wenn der Wurf gelingt, führt dein Charakter beide Aufgaben aus. Ein fehlgeschlagener Wurf, der unter dem zweiten Fertigkeitswert liegt, kann als Teilerfolg behandelt werden.
+In einigen Fällen können die Aktionen deines Charakters dadurch verkompliziert werden, dass er zwei Dinge gleichzeitig tun muss. Ein winziges Detail beim Fahren eines Autos zu entdecken, einen Bogen vom Pferderücken aus zu schießen oder einen Baum zu erklimmen, ohne ein Geräusch zu machen, sind alles Beispiele dafür. In solchen Fällen kann dein Spielleiter zwei Fertigkeiten in einem Wurf miteinander verknüpfen, wobei der niedrigere Fertigkeitswert als Basis-Chance dient. Wenn der Wurf gelingt, vollbringt dein Charakter beide Aufgaben. Ein fehlgeschlagener Wurf, der unter dem Wert der zweiten Fertigkeit liegt, kann als Teilerfolg behandelt werden.
 
-Unter Verwendung der oben genannten Beispiele könnte der Fahrer das Detail verpassen, aber einen Fahrfehler vermeiden; der Reiter bleibt im Sattel, verfehlt aber sein Ziel; und der Baumkletterer erreicht die oberen Äste, macht aber dabei Lärm. Wenn beide Würfe fehlschlagen, können die Konsequenzen extremer sein.
+Unter Verwendung der obigen Beispiele könnte der Fahrer das Detail verpassen, aber einen Fahrfehler vermeiden, der Reiter bleibt im Sattel, verfehlt aber seinen Schuss, und der Baumkletterer erreicht die oberen Äste, macht aber Geräusche. Wenn beide Würfe fehlschlagen, können die Konsequenzen extremer sein.
 
-Führe eine Erfahrungsprobe für die Fertigkeit oder die Fertigkeiten durch, die erfolgreich waren.
+Mache einen Erfahrenheits-Check für die Fertigkeit oder die Fertigkeiten, die erfolgreich sind.
 
-## Modifizieren von Aktionswürfen
+## Modifizierung von Aktionswürfen
 
-Einige Aktionen sind einfacher oder schwieriger als andere, und manchmal helfen oder behindern herausfordernde Umstände oder glückliche Zufälle einen Charakter. Fertigkeitswerte werden oft basierend auf ihren Umständen modifiziert.
+Einige Aktionen sind einfacher oder schwieriger als andere, und manchmal helfen oder behindern herausfordernde Umstände oder Glücksfälle einen Charakter. Fertigkeitswerte werden oft basierend auf ihren Umständen modifiziert.
 
 Es gibt zwei Hauptarten, wie Aktionswürfe modifiziert werden: Schwierigkeitsmodifikatoren und Situationsmodifikatoren.
 
 ### Schwierigkeitsmodifikatoren
 
-Einige Aktionen sind so einfach, dass selbst eine ungeübte Person ohne große Anstrengung Erfolg hat, während andere so herausfordernd sind, dass sie selbst einen Experten zögern lassen. Wenn eine Aktion selbst einfacher oder herausfordernder als üblich ist, passe den Fertigkeitswert durch einen Schwierigkeitsmodifikator an. Die standardmäßigen Schwierigkeitsstufen sind: *Automatisch*, *Einfach*, *Durchschnittlich*, *Schwierig* und *Unmöglich*. Diese Stufen können auf Fertigkeitsproben, Eigenschaftsproben oder ähnliche Würfe angewendet werden. Widerstandsproben implizieren zwangsläufig ein gewisses Maß an Konflikt mit einer gegnerischen Kraft, daher werden sie nicht auf diese Weise modifiziert.
+Einige Aktionen sind so einfach, dass selbst eine ungeübte Person ohne große Anstrengung erfolgreich ist, während andere so herausfordernd sind, dass sie einen Experten zögern lassen. Wenn eine Aktion selbst einfacher oder schwieriger als üblich ist, passe den Fertigkeitswert durch einen Schwierigkeitsmodifikator an. Die Standard-Schwierigkeitsgrade sind: *Automatisch*, *Leicht*, *Standard*, *Schwer* und *Unmöglich*. Diese Stufen können auf Fertigkeitswürfe, Eigenschaftswürfe oder ähnliche Würfe angewendet werden. Widerstandswürfe implizieren zwangsläufig ein Maß an Konflikt mit einer gegnerischen Kraft, daher werden sie nicht auf diese Weise modifiziert.
 
-Dein Spielleiter ist die letzte Instanz bei der Entscheidung, wann eine Aktion einen Schwierigkeitsmodifikator erhält.
+Dein Spielleiter ist die letzte Instanz, wenn es darum geht, wann eine Aktion einen Schwierigkeitsmodifikator erhält.
 
 #### Automatische Aktionen
 
-Jede Aktivität, die so alltäglich, routinemäßig oder unter den günstigsten Umständen und ohne Drama oder Konflikt stattfindet, kann als *Automatisch* angenommen werden, ohne dass ein Wurf erforderlich ist, um festzustellen, ob sie gelingt. Alltägliche körperliche und intellektuelle Aktionen, die unter durchschnittlichen Bedingungen versucht werden, gelingen immer, es sei denn, es gibt einen Grund, warum sie eine Chance auf Misserfolg beinhalten sollten. Dein Charakter sollte in der Lage sein, *Automatische* Aktionen in angemessenem Kompetenzgrad in seinem gewählten Beruf auszuführen, ohne jedes Mal würfeln zu müssen, wenn er Erfolg haben möchte – Fertigkeitsproben erfolgen in dramatischen oder schwierigen Zeiten, wenn Erfolg oder Misserfolg für das Schicksal oder das Überleben von Bedeutung sind. Die *Automatische* Nutzung einer Fertigkeit bringt niemals eine Erfahrungsprobe ein.
+Jede Aktivität, die so alltäglich, routinemäßig oder unter den günstigsten Umständen und ohne Drama oder Konflikt stattfindet, kann als *Automatisch* angenommen werden, wobei kein Wurf notwendig ist, um zu bestimmen, ob sie gelingt. Tägliche physische und intellektuelle Aktionen, die unter durchschnittlichen Bedingungen versucht werden, gelingen immer, es sei denn, es gibt einen Grund, warum sie die Chance auf ein Scheitern beinhalten sollten. Dein Charakter sollte in der Lage sein, *Automatische* Aktionen auf einem angemessenen Kompetenzniveau in seinem gewählten Beruf auszuführen, ohne jedes Mal würfeln zu müssen, wenn er Erfolg haben möchte – das Würfeln für Fertigkeiten findet zu dramatischen oder schwierigen Zeiten statt, wenn Erfolg oder Misserfolg für das Überleben oder das Schicksal von Bedeutung sind. Die *Automatische* Nutzung von Fertigkeiten bringt niemals einen Erfahrenheits-Check.
 
-#### Einfache Aktionen
+#### Leichte Aktionen
 
-Einige Aktionen sind *Einfach*, selbst für Ungeübte. Ein Ziel aus nächster Nähe zu beschießen, auf einen Baum mit vielen Griffmöglichkeiten zu klettern oder die grundlegendsten Punkte einer akademischen Disziplin abzurufen, sind alles *Einfache* Aktionen. Für eine *Einfache* Aktion verdopple den Fertigkeitswert. *Einfache* Eigenschaftsproben verwenden einen Multiplikator von ×10 oder verdoppeln die normale Eigenschaftsprobe. Ein Erfolg bei einer *Einfachen* Fertigkeitsprobe verdient jedoch keine Erfahrungsprobe.
+Einige Aktionen sind *Leicht*, selbst für Ungeübte. Auf ein Ziel aus nächster Nähe zu schießen, einen Baum mit vielen Griffen zu erklimmen oder sich an die grundlegendsten Punkte einer akademischen Disziplin zu erinnern, sind alles *Leichte* Aktionen. Verdopple für eine *Leichte* Aktion den Fertigkeitswert. *Leichte* Eigenschaftswürfe verwenden einen Multiplikator von ×10 oder verdoppeln den normalen Eigenschaftswurf. Erfolg bei einem *Leichten* Fertigkeitswurf verdient jedoch keinen Erfahrenheits-Check.
 
-#### Durchschnittliche Aktionen
+#### Standard-Aktionen
 
-Die meisten Aktionen fallen in diese Kategorie. Wenn eine Fertigkeits- oder Eigenschaftsprobe keinen vorherigen Modifikator hat – wie etwa ein Einfacher Wurf auf „Zuhören“ –, gehe davon aus, dass sie Durchschnittlich ist. Verwende den Basiswert für Durchschnittliche Aktionen, obwohl sie Situationsmodifikatoren haben können. Durchschnittliche Eigenschaftsproben verwenden einen Multiplikator von ×5 und sind der Standard auf deinem Charakterbogen.
+Die meisten Aktionen fallen in diese Kategorie. Wenn ein Fertigkeits- oder Eigenschaftswurf vorher keinen Modifikator hat – wie z. B. ein Standard-Wurf auf Wahrnehmung –, gehe davon aus, dass er Standard ist. Verwende den Basiswert für Standard-Aktionen, obwohl sie Situationsmodifikatoren haben können. Standard-Eigenschaftswürfe verwenden einen Multiplikator von ×5 und sind der Standard auf deinem Charakterbogen.
 
 #### Schwierige Aktionen
 
-Gegen einen Gegner zu kämpfen, den man nicht sehen kann, eine steile Oberfläche zu erklimmen oder sich an obskure wissenschaftliche Details zu erinnern, sind alles *Schwierige* Aufgaben. Um den Fertigkeitswert oder Eigenschaftswert für eine *Schwierige* Aktion zu bestimmen, teile die entsprechende Fertigkeits- oder Eigenschaftsprobe durch die Hälfte (aufgerundet).#### Unmögliche Aktionen
+Gegen einen Gegner zu kämpfen, den du nicht sehen kannst, eine steile Oberfläche zu erklimmen oder sich an obskure wissenschaftliche Details zu erinnern, sind alles *Schwierige* Aufgaben. Um den Fertigkeitswert oder Eigenschaftswert für eine *Schwierige* Aktion zu bestimmen, teile den entsprechenden Fertigkeits- oder Eigenschaftswurf durch zwei (aufrunden).#### Aussichtslose Aktionen
 
-Wie oben beschrieben, liegen wirklich überwältigende oder lächerliche Aktionen, wie eine Herzoperation ohne chirurgische Instrumente durchzuführen oder einen Computer aus Kokosnüssen zu bauen, selbst außerhalb der Fähigkeiten der versiertesten Experten. Dies sind *unmögliche* Aufgaben. Alle Versuche schlagen fehl, egal wie gut der Spieler würfelt. Dein Spielleiter kann eine pauschale Chance von 01 % auf Erfolg gewähren, abhängig von der versuchten Aktion, obwohl dies nur empfohlen wird, wenn die Erfolgswahrscheinlichkeit im Rahmen des Vernünftigen liegt, wie unwahrscheinlich sie auch sein mag – das Äquivalent eines Glückstreffers von eins zu einer Million oder eines freakigen Zufalls.
+Wie oben beschrieben, liegen wahrhaft überwältigende oder lächerliche Aktionen, wie das Durchführen einer Herzoperation ohne chirurgische Instrumente oder der Bau eines Computers aus Kokosnüssen, außerhalb der Fähigkeiten selbst der versiertesten Experten. Dies sind *Aussichtslose* Aufgaben. Alle Versuche schlagen fehl, egal wie gut der Spieler würfelt. Dein Spielleiter kann je nach versuchter Aktion eine pauschale Erfolgschance von 01 % gewähren, obwohl dies nur dann empfohlen wird, wenn die Erfolgswahrscheinlichkeit im Rahmen des Vernünftigen liegt, wie unwahrscheinlich auch immer – das Äquivalent zu einem glücklichen Tipp oder einem seltenen Ereignis mit einer Chance von eins zu einer Million.
 
 ### Situationsbedingte Modifikatoren
 
-Besondere oder ungewöhnliche Umstände können jeden Fertigkeitswert zum Positiven oder Negativen beeinflussen. Schwaches Licht, laute Geräusche, Ablenkungen, Regen oder ein Mangel an geeigneten Werkzeugen führen zu Abzügen auf Fertigkeitswerte, während außergewöhnliche Werkzeuge oder ideale Bedingungen einen Bonus gewähren können. Wann immer externe Faktoren die Ausführung einer Aktion deines Charakters beeinflussen könnten, sollte dein Spielleiter die Umstände abwägen und einen oder mehrere situationsbedingte Modifikatoren auf die Basiswahrscheinlichkeit anwenden.
+Besondere oder ungewöhnliche Umstände können jeden Fertigkeitswert zum Besseren oder Schlechteren beeinflussen. Dämmriges Licht, laute Geräusche, Ablenkungen, Regen oder ein Mangel an geeignetem Werkzeug führen zu Abzügen auf Fertigkeitswerte, während außergewöhnliches Werkzeug oder ideale Bedingungen einen Bonus gewähren können. Wann immer externe Faktoren die Ausführung einer Aktion deines Charakters beeinflussen könnten, sollte dein Spielleiter die Umstände abwägen und einen oder mehrere situationsbedingte Modifikatoren auf die Basiswahrscheinlichkeit anwenden.
 
-Der Unterschied zwischen Schwierigkeitsmodifikatoren und situationsbedingten Modifikatoren besteht darin, dass sich Schwierigkeitsmodifikatoren normalerweise auf den Charakter und die versuchte Aktion beziehen, während sich situationsbedingte Modifikatoren sehr spezifisch auf den Gegenstand der Aktion oder auf externe Kräfte oder Einflüsse beziehen.
+Der Unterschied zwischen Schwierigkeitsmodifikatoren und situationsbedingten Modifikatoren besteht darin, dass sich Schwierigkeitsmodifikatoren normalerweise auf den Charakter und die versuchte Aktion beziehen, während sich situationsbedingte Modifikatoren sehr spezifisch auf das Ziel der Aktion oder auf externe Kräfte oder Einflüsse beziehen.
 
-Wenn mehrere Bedingungen auf eine bestimmte Aktion zutreffen, wende sie mit Bedacht an. Jeder situationsbedingte Modifikator wird angewendet, nachdem eine Fertigkeit aufgrund von *Schwierig* oder *Einfach* modifiziert wurde. Auf diese Weise werden die Modifikatoren nicht verdoppelt oder halbiert. Modifikatoren, die jedoch „permanent“ sind, wie der Bonus auf Handgemenge durch die Kraft „Waffenloser Kampf“, werden in den Fertigkeitswert eingerechnet, bevor dieser verdoppelt oder halbiert wird. Diese Arten von Modifikatoren gelten als integraler Bestandteil der Fertigkeit und werden zusammen mit dem Rest des Fertigkeitswerts für die Schwierigkeit modifiziert.
+Wenn mehrere Bedingungen auf eine bestimmte Aktion zutreffen, wende sie umsichtig an. Jeder situationsbedingte Modifikator wird angewendet, nachdem eine Fertigkeit aufgrund der Einstufung als *Schwer* oder *Leicht* modifiziert wurde. Auf diese Weise werden die Modifikatoren nicht verdoppelt oder halbiert. Jedoch werden alle Modifikatoren, die „dauerhaft“ sind, wie der Bonus auf Raufen durch die Kraft „Unbewaffneter Kampf“, vor der Verdoppelung oder Halbierung in den Fertigkeitswert eingerechnet. Diese Art von Modifikatoren wird als integraler Bestandteil der Fertigkeit betrachtet und zusammen mit dem Rest des Fertigkeitswerts an den Schwierigkeitsgrad angepasst.
 
-Achte darauf, dich nicht in der Kleinstaaterei der Bestimmung von situationsbedingten Modifikatoren zu verlieren. Dein Spielleiter sollte die Schwere der Umstände einschätzen, den Gesamtmodifikator bestimmen und dich so schnell wie möglich würfeln lassen. Situationsbedingte Modifikatoren sollen Werkzeuge sein, die spannenden Situationen Dramatik verleihen, nicht strikte Richtlinien oder eine Checkliste, die versucht, absolute Realität zu simulieren.
+Achte darauf, dich nicht in den Details der Bestimmung von situationsbedingten Modifikatoren zu verlieren. Dein Spielleiter sollte die Schwere der Umstände einschätzen, den Gesamtmodifikator bestimmen und dich so schnell wie möglich würfeln lassen. Situationsbedingte Modifikatoren sollen Werkzeuge sein, die spannenden Situationen Dramatik verleihen, und keine strengen Richtlinien oder Checklisten, die versuchen, absoluten Realismus zu simulieren.
 
 ##### Situationsbedingte Modifikatoren
 
 | Bedingung | Beschreibung | Modifikator |
 | :---- | :---- | :---- |
-| Aufgabenkomplexität | Unfassbar komplex, ohne erkennbare Lösung oder Anleitung | –50% |
-|  | Keine klare lösbare Bedingung und/oder unnötig komplex | –20% |
-|  | Relativ unkompliziert, die Lösung einigermaßen erkennbar | +20% |
-|  | Einfach, mit offensichtlicher Lösung | +50% |
+| Aufgabenkomplexität | Unfassbar komplex ohne erkennbare Lösung oder Anleitung | –50% |
+| | Keine klare lösbare Bedingung und/oder unnötig komplex | –20% |
+| | Relativ unkompliziert, die Lösung einigermaßen erkennbar | +20% |
+| | Einfach, mit einer offensichtlichen Lösung | +50% |
 | Ausrüstung | Keine Ausrüstung, wenn Ausrüstung erforderlich ist | –50% |
-|  | Mangelhafte oder improvisierte Ausrüstung | –20% |
-|  | Hochwertige Ausrüstung und überlegene Vorräte | +20% |
-|  | Fortschrittliche oder High-Tech-Ausrüstung und Vorräte | +50% |
-| Umgebung | Ablenkende Umgebung, extrem instabiler Boden, stockdunkel, stürmisch usw. | –50% |
-|  | Unangenehme oder unhygienische Bedingungen, unsicherer Stand, Dunkelheit, schlechtes Wetter usw. | –20% |
-|  | Günstige Bedingungen, guter Stand, viel Platz, relative Ruhe usw. | +20% |
-|  | Makellose oder perfekte Umgebung, ideal für die anstehende Aufgabe geeignet | +50% |
+| | Schlechte oder improvisierte Ausrüstung | –20% |
+| | Hochwertige Ausrüstung und überlegene Vorräte | +20% |
+| | Fortschrittliche oder High-Tech-Ausrüstung und Vorräte | +50% |
+| Umgebung | Ablenkende Umgebung, extrem instabiler Boden, stockfinster, stürmisch usw. | –50% |
+| | Unangenehme oder unhygienische Bedingungen, unsicherer Halt, Dunkelheit, schlechtes Wetter usw. | –20% |
+| | Günstige Bedingungen, guter Halt, viel Platz, relative Ruhe usw. | +20% |
+| | Makellose oder tadellose Umgebung, ideal für die anstehende Aufgabe geeignet | +50% |
 | Vertrautheit | Völlig fremd und jenseits menschlicher Erfahrung | –50% |
-|  | Seltsam und verwendet unbekannte Prinzipien | –20% |
-|  | Relativ bekannte Thematik | +20% |
-|  | Routiniert und völlig vertraut | +50% |
-| Reichweite | Weit jenseits der normalen Reichweite | –50% |
-|  | Außerhalb der Komfortzone | –20% |
-|  | Gut innerhalb der Reichweite | +20% |
-|  | Perfekt platziert und ideal positioniert für den Versuch | +50% |
-| Zeit | Bei weitem nicht genug Zeit, um die Aufgabe auszuführen | –50% |
-|  | In Eile und gestresst deswegen | –20% |
-|  | Reichlich Zeit | +20% |
-|  | Aktivität kann in Ruhe, mit Kontemplation und Überlegung erledigt werden | +50% |
-| Verständnis | Keine gemeinsamen Mittel zur Interaktion mit dem Subjekt | –50% |
-|  | Begrenzte Kommunikationsmethoden verfügbar | –20% |
-|  | Subjekt ist vertraut und offen für Interaktion | +20% |
-|  | Subjekt gut bekannt, enthusiastisch bezüglich der Interaktion | +50% |
+| | Seltsam und mit unbekannten Prinzipien | –20% |
+| | Relativ bekanntes Thema | +20% |
+| | Routiniert und völlig vertraut | +50% |
+| Reichweite | Weit außerhalb der normalen Reichweite | –50% |
+| | Außerhalb der Komfortzone | –20% |
+| | Gut innerhalb der Reichweite | +20% |
+| | Perfekt platziert und ideal für den Versuch gelegen | +50% |
+| Zeit | Nicht ansatzweise genug Zeit, um die Aufgabe auszuführen | –50% |
+| | Gehetzt und gestresst deswegen | –20% |
+| | Reichlich Zeit | +20% |
+| | Aktivität kann in Ruhe, mit Kontemplation und Überlegung durchgeführt werden | +50% |
+| Verständnis | Keine gängige Art der Interaktion mit dem Subjekt | –50% |
+| | Begrenzte Kommunikationsmethoden verfügbar | –20% |
+| | Subjekt ist vertraut und offen für Interaktion | +20% |
+| | Subjekt gut bekannt, enthusiastisch bezüglich der Interaktion | +50% |
 
-> ### Fertigkeitswert über 100% (Option)
-> 
-> Für Spiele, die epische oder übermenschliche Kraftniveaus verwenden, kann dein Spielleiter erlauben, dass deine Charaktere (und Nicht-Spieler-Charaktere) Fertigkeitsränge über 100% haben. Diese gesteigerte Kompetenz ermöglicht größere Chancen auf spezielle und kritische Erfolge sowie Erfolge, selbst wenn bedeutende Schwierigkeits- oder situationsbedingte Modifikatoren die Erfolgswahrscheinlichkeit gesenkt haben. Dies stellt superlative Stufen der Expertise dar, die besten der Welt. Fertigkeitswerte über 100% können die Bestimmung von gegnerischen Würfen viel einfacher machen (siehe **Systeme für gegnerische Fertigkeitswürfe**), und sind besonders im Kampf von Bedeutung (siehe **Angriffs- und Paradefertigkeiten über 100%**).
+> ### Fertigkeitswert über 100 % (Option)
+>
+> Für Spiele, die epische oder übermenschliche Kraftniveaus nutzen, kann dein Spielleiter erlauben, dass deine Charaktere (und Nicht-Spieler-Charaktere) Fertigkeitsränge über 100 % haben. Diese gesteigerte Kompetenz ermöglicht größere Chancen auf spezielle und kritische Erfolge sowie Erfolge selbst dann, wenn erhebliche Schwierigkeits- oder Situationsmodifikatoren die Erfolgschance gesenkt haben. Dies stellt ein superlatives Niveau an Expertise dar, das Beste der Welt. Fertigkeitswerte über 100 % können die Bestimmung von Gegenwürfen viel einfacher machen (siehe **Systeme für Gegenwürfe**), und sind besonders im Kampf von Bedeutung (siehe **Angriffs- und Paradefertigkeiten über 100 %**).
 
-
-> ### Schicksalspunkte (Option)
-> 
-> Manchmal sind du und dein Spielleiter nicht bereit, die Ergebnisse eines Wurfs zum ultimativen Schiedsrichter über das Schicksal deines Charakters zu machen. Wenn dein Spielleiter mehr Spieler-Agentur bei den Ergebnissen erlauben möchte, können Kraftpunkte als Ressource verwendet werden, um die Ergebnisse von Würfen und die Erzählung selbst zu beeinflussen. Dies ermöglicht eine bessere Kontrolle über Würfelergebnisse und eine gesteigerte Effektivität im Spiel.
-> 
-> Im Folgenden sind einige vorgeschlagene Verwendungen von Kraftpunkten zur Manipulation von Würfen oder der Erzählung:
-> 
-> * Gib 5 Kraftpunkte aus, um einen beliebigen Prozentwurf nach Wunsch erneut durchzuführen. Dies kann deklariert werden, nachdem der erste Wurf gemacht wurde, obwohl die Ergebnisse des zweiten Wurfs endgültig sind. Erfolg bei diesem Wiederholungswurf bringt keinen Erfahrungsscheck ein.
-> 
-> * Gib 5 Kraftpunkte aus, um eine Fertigkeit zu ignorieren und dem Schicksal zu vertrauen, indem du stattdessen einen „Schwierigen Glückswurf“ verwendest. Dies kann nicht für Widerstands- oder Charakteristikwürfe verwendet werden und kann nicht wiederholt werden. Erfolg bei dieser Methode bringt keinen Erfahrungsscheck ein und modifiziert die MA-Eigenschaft in keiner Weise.
-> 
-> * Gib 3 Kraftpunkte aus, um 1 Schadenspunkt von einem einzelnen Angriff zu ignorieren. Diese Schadenspunkte werden einfach ignoriert; sie zählen nicht für Rückstoß oder andere Effekte. Dein Spielleiter kann dich bitten, eine Erklärung dafür zu liefern, wie der Schaden nicht erlitten wurde, wie z. B. „Der stählerne Whisky-Flachmann in meiner Vordertasche fing die Kugel ab“ oder ein anderer Grund.
-> 
-> Jede Verwendung von Kraftpunkten für diese Zwecke wird normal gehandhabt. Wenn du also auf 0 Kraftpunkte reduziert wirst, ist dein Charakter erschöpft und fällt in Ohnmacht, bis er mindestens 1 Kraftpunkt zurückgewinnt.
-> 
-> Die Verwendungsmöglichkeiten für Kraftpunkte können nach Wunsch deines Spielleiters erweitert werden, mit einigen der folgenden Möglichkeiten:
-> 
-> * Gib 6 Kraftpunkte aus, um das Ergebnis eines Wurfs in Richtung eines vorteilhafteren Ergebnisses zu verschieben, wie z. B. einen Patzer in einen Misserfolg, einen Misserfolg in einen normalen Erfolg, einen normalen Erfolg in einen speziellen Erfolg oder einen speziellen Erfolg in einen kritischen Erfolg zu verwandeln. Dies kann nur auf die Würfe deines Charakters angewendet werden und kann nicht auf Würfel angewendet werden, die wiederholt wurden. Du kannst dies tun, nachdem die Würfel gefallen sind, und kannst das Ergebnis um so viele Ergebnisstufen verschieben, wie du Kraftpunkte ausgeben möchtest. Egal, was der ursprüngliche Wurf war, Erfolg bringt keinen Erfahrungsscheck ein.
-> 
-> * Gib so viele Kraftpunkte aus, wie der gesamte Schadensbereich deiner Waffe beträgt, um maximalen Schaden bei einem einzelnen erfolgreichen Schlag zuzufügen.
-> 
->   Zum Beispiel verursacht ein Kurzschwert normalerweise 1W6+1 Schaden, also verursacht es durch das Ausgeben von 7 Kraftpunkten 7 Schadenspunkte (kein Wurf erforderlich), plus Schadensmodifikator, falls zutreffend. Dies kostet den gesamten würfelbaren Schadensbereich der Waffe und kann nicht erhöht werden. Der Schadensmodifikator wird normal gewürfelt.
-> 
-> * Gib eine variable Anzahl von Kraftpunkten aus, um der Umgebung ein Detail hinzuzufügen oder dem Hintergrund oder den Ressourcen deines Charakters. Dies kann von 1 einzelnen Kraftpunkt für ein kleines Detail bis zu 10+ Kraftpunkten für einen bedeutenden Vorteil reichen.
-> 
->   Zum Beispiel könnte es sich nur „erinnern“, ein Heft Streichhölzer mitgebracht zu haben, wenn Streichhölzer nützlich wären, nur 1 Kraftpunkt kosten. Nachdem man jedoch entwaffnet und in eine Grube geworfen wurde, könnte das Finden eines rostigen, aber brauchbaren Dolches im Haufen der Knochen ehemaliger Opfer Kraftpunkte in Höhe der Schadenssumme des Dolches (5 Punkte) kosten. Diese Kosten liegen im Ermessen deines Spielleiters. Andere Beispiele könnten sein, einen Kontakt zu haben, der deinem Charakter einen Gefallen schuldet (1–3 Kraftpunkte, abhängig von der Größe des Gefallens), saubere Kleidung zu finden, die unbeaufsichtigt auf einer Leine hängt (1 Kraftpunkt), oder sogar die Schlüssel eines Autos zu finden, die über der Sonnenblende versteckt sind, wenn man in Eile ein Fluchtfahrzeug benötigt (6 Kraftpunkte).
-> 
-> Dein Spielleiter sollte diese Optionen nur verwenden, wenn das Ziel ein actionorientierteres High-Adventure-Spiel mit langlebigeren und kompetenteren Charakteren ist, wie z. B. Superhelden oder High-Fantasy-Abenteurer. Ein Horror-Szenario sollte dieses System nicht nutzen, da eine Schlüsselkomponente des Horrors die Unfähigkeit ist, das eigene Schicksal zu kontrollieren, und ein Mittel zur Manipulation von Ergebnissen diesem Ziel entgegenwirkt.
+> ### Glückspunkte (Option)
+>
+> Manchmal sind du und dein Spielleiter nicht bereit, die Ergebnisse eines Wurfs als obersten Schiedsrichter über das Schicksal deines Charakters gelten zu lassen. Wenn dein Spielleiter mehr Handlungsspielraum bei den Ergebnissen erlauben möchte, können Machtpunkte als Ressource verwendet werden, um die Ergebnisse von Würfen und die Erzählung selbst zu beeinflussen. Dies ermöglicht eine größere Kontrolle über Würfelergebnisse und eine gesteigerte Effektivität im Spiel.
+>
+> Nachfolgend einige vorgeschlagene Verwendungen von Machtpunkten, um Würfe oder die Erzählung zu manipulieren:
+>
+> * Gib 5 Machtpunkte aus, um einen beliebigen Prozentwurf nach Wahl neu zu würfeln. Dies kann nach dem ersten Wurf deklariert werden, wobei das Ergebnis des zweiten Wurfs endgültig ist. Ein Erfolg bei diesem Neuwurf bringt keine Erfahrungsprobe ein.
+>
+> * Gib 5 Machtpunkte aus, um eine Fertigkeit zu ignorieren und dem Schicksal zu vertrauen, indem stattdessen ein Schwieriger Glückswurf verwendet wird. Dies kann nicht für Widerstands- oder Eigenschaftswürfe verwendet werden und kann nicht neu gewürfelt werden. Ein Erfolg mit dieser Methode bringt keine Erfahrungsprobe ein oder modifiziert die MAC in irgendeiner Weise.
+>
+> * Gib 3 Machtpunkte aus, um 1 Schadenspunkt von einem einzelnen Angriff zu ignorieren. Diese Schadenspunkte werden einfach ignoriert; sie zählen nicht für Rückstoß oder andere Effekte. Dein Spielleiter kann dich bitten, eine Erklärung dafür zu liefern, wie der Schaden nicht erlitten wurde, wie etwa „Der stählerne Whiskyflachmann in meiner Vordertasche hat die Kugel aufgehalten“ oder einen anderen Grund.
+>
+> Jede Verwendung von Machtpunkten wird normal gehandhabt. Wenn du also auf 0 Machtpunkte reduziert wirst, ist dein Charakter erschöpft und fällt in Ohnmacht, bis er mindestens 1 Machtpunkt zurückgewinnt.
+>
+> Die Verwendungsmöglichkeiten für Machtpunkte können nach Wunsch deines Spielleiters erweitert werden, mit einigen der folgenden Möglichkeiten:
+>
+> * Gib 6 Machtpunkte aus, um das Ergebnis eines Wurfs in Richtung eines vorteilhafteren Ergebnisses zu verschieben, wie etwa einen Patzer in einen Fehlschlag, einen Fehlschlag in einen normalen Erfolg, einen normalen Erfolg in einen speziellen Erfolg oder einen speziellen Erfolg in einen kritischen Erfolg zu verwandeln. Dies kann nur bei den Würfen deines Charakters verwendet werden und kann nicht auf Würfel angewendet werden, die bereits neu gewürfelt wurden. Du kannst dies tun, nachdem die Würfel gefallen sind, und das Ergebnis um so viele Ergebnisstufen verschieben, wie du Machtpunkte ausgeben möchtest. Unabhängig davon, wie der ursprüngliche Wurf war, bringt ein Erfolg keine Erfahrungsprobe ein.
+>
+> * Gib Machtpunkte in Höhe der gesamten Schadensspanne deiner Waffe aus, um bei einem erfolgreichen Treffer maximalen Schaden zuzufügen.
+>
+>   Zum Beispiel verursacht ein Kurzschwert normalerweise 1W6+1 Schaden. Wenn du also 7 Machtpunkte ausgibst, verursacht es 7 Schadenspunkte (kein Wurf erforderlich), zuzüglich des Schad. Mod., falls zutreffend. Dies kostet die gesamte würfelbare Schadensspanne der Waffe und kann nicht erhöht werden. Der Schad. Mod. wird normal gewürfelt.
+>
+> * Gib eine variable Anzahl an Machtpunkten aus, um der Umgebung oder dem Hintergrund oder den Ressourcen deines Charakters ein Detail hinzuzufügen. Dies kann von einem einzelnen Machtpunkt für ein kleines Detail bis zu 10+ Machtpunkten für einen bedeutenden Vorteil reichen.
+>
+>   Zum Beispiel kann es nur 1 Machtpunkt kosten, sich daran zu „erinnern“, eine Schachtel Streichhölzer mitgebracht zu haben, wenn Streichhölzer nützlich wären. Nachdem man jedoch entwaffnet und in eine Grube geworfen wurde, könnte das Finden eines rostigen, aber brauchbaren Dolches im Haufen der Knochen früherer Opfer Machtpunkte in Höhe des Gesamtschadens des Dolches kosten (5 Punkte). Diese Kosten liegen im Ermessen deines Spielleiters. Andere Beispiele könnten sein, einen Kontakt zu haben, der deinem Charakter einen Gefallen schuldet (1–3 Machtpunkte, je nach Größe des Gefallens), saubere Kleidung unbeaufsichtigt auf einer Leine hängen zu finden (1 Machtpunkt) oder sogar die Schlüssel eines Autos über der Sonnenblende versteckt zu finden, wenn man in Eile ein Fluchtfahrzeug benötigt (6 Machtpunkte).
+>
+> Dein Spielleiter sollte diese Optionen nur verwenden, wenn das Ziel ein aktionsorientierteres High-Adventure-Spiel mit widerstandsfähigeren und kompetenteren Charakteren ist, wie etwa Superhelden oder High-Fantasy-Abenteurer. Ein Horrorsetting sollte dieses System nicht nutzen, da eine Schlüsselkomponente des Horrors die Unfähigkeit ist, sein Schicksal zu kontrollieren, und ein Mittel zur Manipulation der Ergebnisse dem entgegenwirkt.
 
 ## Zeitskalen
 
-Zeit im Spielsetting ist selten gleichbedeutend mit der Zeit, die tatsächlich mit Spielen verbracht wird. Manchmal muss dein Spielleiter die Ereignisse vieler Tage in einem einzigen Satz zusammenfassen, wie etwa „Es dauert eine Woche, bis ihr Konstantinopel erreicht“, während zu anderen Zeiten, insbesondere im Kampf, einige Sekunden Zeit mehrere Minuten oder länger dauern können, um sie aufzulösen.
+Zeit im Spielsetting entspricht selten der Zeit, die tatsächlich mit Spielen verbracht wird. Manchmal muss dein Spielleiter die Ereignisse vieler Tage in einem einzigen Satz zusammenfassen, wie etwa „Es dauert eine Woche, bis ihr Konstantinopel erreicht“, während zu anderen Zeiten, insbesondere im Kampf, einige Sekunden Zeit mehrere Minuten oder länger zur Auflösung benötigen können.
 
-Im Allgemeinen sind die primären Zeitskalen **Erzählzeit**, eine **Szene**, die **Spielrunde** und eine **Kampfrunde**. Die Tabelle **Bedeutende Zeitintervalle** listet gängige Dinge auf, die im Spiel passieren können, zusammen mit der Dauer.
+Im Allgemeinen sind die primären Zeitskalen die **Erzählzeit**, eine **Szene**, die **Runde** und eine **Kampfrunde**. Die Tabelle **Bedeutende Zeitintervalle** listet gängige Dinge auf, die im Spiel passieren können, zusammen mit der Dauer, die jede in Anspruch nimmt.
 
 ### Erzählzeit (variabel)
 
-Aufgrund ihrer Flexibilität ist dies die nebligste der Zeitskalen. Es ist die Zeit, in der dein Spielleiter erzählt oder in der du und die anderen Spieler außerhalb der Rolle über Pläne und die Situation diskutieren, in der sich eure Charaktere befinden. Das meiste Spielgeschehen findet im Erzählmaßstab statt. Sofern es keinen spezifischen Grund dafür gibt, findet das meiste tatsächliche Rollenspiel ebenfalls in der Erzählzeitskala statt. Wenn du und dein Spielleiter Gespräche ausspielen, ähnelt die Erzählzeitskala am ehesten der Echtzeit, wobei ein Gespräch genauso lange dauert, wie es dauert, es zu spielen.
+Aufgrund ihrer Flexibilität ist dies die nebulöseste der Zeitskalen. Es ist die Zeit, in der dein Spielleiter erzählt oder wenn du und die anderen Spieler außerhalb des Charakters Pläne besprechen und die Situation, in der sich eure Charaktere befinden. Das meiste Spielgeschehen findet auf der Ebene der Erzählzeit statt. Wenn es keinen spezifischen Grund dafür gibt, findet auch das meiste tatsächliche Rollenspiel auf der Ebene der Erzählzeit statt. Wenn du und dein Spielleiter Gespräche ausspielen, ähnelt die Erzählzeit am stärksten der Echtzeit, wobei ein Gespräch so lange dauert, wie es dauert, es auszuspielen.
 
-Wenn eine Spielsitzung lange Reisen oder Zeiträume mit Aktivitäten beinhaltet, bei denen die genaue Zeit nicht relevant ist, wird die Zeit stark komprimiert, im Allgemeinen außerhalb der Erzählung nicht beachtet, und Tage oder sogar Wochen können in einer Erzählzeile übersprungen werden. Wenn in dieser Weise mit großen Mengen an Zeit umgegangen wird, sollte dein Spielleiter deinen Charakteren erlauben, alle Aktivitäten auszuführen, die innerhalb dieses Zeitrahmens liegen könnten, sofern vernünftig. Wenn deine Charaktere während dieser Zeitsprünge frei handeln können, sollte dein Spielleiter dich bitten, die Aktivitäten deines Charakters in diesem Zeitraum anzugeben.
+Wenn eine Spielsitzung ausgedehnte Reisen oder Aktivitäten beinhaltet, bei denen die exakte Zeit nicht relevant ist, wird die Zeit stark komprimiert, im Allgemeinen außerhalb der Erzählung nicht beachtet, und Tage oder sogar Wochen können in einer Zeile der Erzählung übersprungen werden. Wenn auf diese Weise mit großen Zeitmengen umgegangen wird, sollte dein Spielleiter deinen Charakteren erlauben, alle Aktivitäten durchzuführen, die vernünftigerweise in diesen Zeitrahmen passen könnten. Wenn deine Charaktere während dieser Zeitsprünge frei handeln können, sollte dein Spielleiter dich bitten, die Aktivitäten deines Charakters in diesem Zeitraum anzugeben.
 
 ### Szene (variabel)
 
-Dieser Begriff beschreibt jede Sequenz, die an einem bestimmten Ort und in einem bestimmten Zeitrahmen stattfindet. Eine Szene ist eine Begegnung oder eine Instanz der Story-Zeit, in der die Spieler eine Aktivität beginnen und beenden. Szenen können lang oder recht kurz sein, je nachdem, was und wie viel passiert. Im Wesentlichen beginnt eine Szene, wenn es wichtig ist, auf Kampf oder Rollenspiel zu achten (Verlassen der Erzählzeit), und die Szene endet, wenn die Charaktere wieder in die Erzählzeit eintreten.
+Dieser Begriff beschreibt jede Sequenz, die an einem bestimmten Ort und in einem bestimmten Zeitrahmen stattfindet. Eine Szene ist eine Begegnung oder ein Instanz von Story-Zeit, bei der die Spieler eine Aktivität beginnen und beenden. Szenen können lang oder recht kurz sein, je nachdem, was und wie viel passiert. Im Wesentlichen beginnt eine Szene, wenn es wichtig wird, auf Kämpfe oder Rollenspiel zu achten (Verlassen der Erzählzeit), und die Szene endet, wenn die Charaktere wieder in die Erzählzeit eintreten.
 
-Ein Teil oder eine ganze Szene kann in Erzählzeit, Spielrunden und Kampfrunden (unten beschrieben) oder einer beliebigen Kombination aus einem oder mehreren der drei gemessen werden. Die meisten Szenen enthalten Erzählzeit, während einige nicht notwendigerweise Spielrunden oder Kampfrunden enthalten müssen. Einige Szenen bestehen jedoch möglicherweise nur aus Kampfrunden und/oder Spielrunden.
+Ein Teil oder eine ganze Szene kann in Erzählzeit, Spielrunden und Kampfrunden (unten beschrieben) oder einer beliebigen Kombination aus einem oder mehreren der drei gemessen werden. Die meisten Szenen enthalten Erzählzeit, während einige nicht notwendigerweise Spielrunden oder Kampfrunden enthalten müssen. Manche Szenen könnten jedoch nur aus Kampfrunden und/oder Spielrunden bestehen.
 
-### Spielrunde (5 Minuten)
+### Runde (5 Minuten)
 
-Der erste spezifische, nicht variable Zeitbetrag ist die Spielrunde. Jede Spielrunde entspricht fünf Minuten (25 Kampfrunden). Spielrunden werden für die allgemeine Bewegung verwendet, wenn es keinen Konflikt oder ein anderes Ereignis gibt, das im Detail behandelt werden muss. Es ist auch ein allgemeiner Zeitbetrag dafür, wie lange bestimmte Fertigkeiten dauern, insbesondere nicht-kampforientierte, wie eine schnelle Reparatur oder das ordnungsgemäße Reinigen und Verbinden einer Wunde. Kapitel Drei: Fertigkeiten erörtert, wie lange Fertigkeitsversuche zur Fertigstellung dauern, obwohl dies je nach Umständen dramatisch variieren kann.
+Der erste spezifische, nicht variable Zeitbetrag ist die Runde. Jede Runde entspricht fünf Minuten (25 Kampfrunden). Runden werden für allgemeine Bewegungen verwendet, wenn es keinen Konflikt oder ein anderes Ereignis gibt, das im Detail behandelt werden muss. Es ist auch eine allgemeine Zeitspanne dafür, wie lange bestimmte Fertigkeiten dauern, insbesondere nicht kampfbezogene, wie eine schnelle Reparatur oder das ordnungsgemäße Reinigen und Verbinden einer Wunde. Kapitel Drei: Fertigkeiten erörtert, wie lange Fertigkeitsversuche dauern, obwohl dies je nach Umständen drastisch variieren kann.
 
 ### Kampfrunde (12 Sekunden)
 
-Die Kampfrunde definiert, was Moment für Moment in einer Aktionssequenz (nicht nur im Kampf) passiert. Sie besteht aus 12 Sekunden schnelllebiger Aktivität. Wenn es wichtig ist, den Überblick darüber zu behalten, was in welcher Reihenfolge passiert, verwende Kampfrunden. Diese werden wiederholt, bis der Kampf oder die Aktionssequenz vorbei ist und keine Notwendigkeit mehr für eine so detaillierte Betrachtung der Zeit besteht.
+Die Kampfrunde definiert, was Moment für Moment in einer Aktionssequenz (nicht nur im Kampf) passiert. Sie besteht aus 12 Sekunden schnelllebiger Aktivität. Wenn es wichtig ist, nachzuverfolgen, was in welcher Reihenfolge passiert, verwende Kampfrunden. Diese werden wiederholt, bis der Kampf oder die Aktionssequenz vorbei ist und keine Notwendigkeit mehr für eine so detaillierte Betrachtung der Zeit besteht.
 
-Normalerweise erhält jeder Charakter in einer Kampfrunde eine aktive (offensive) Aktion und eine oder mehrere defensive Aktionen. Wenn dein Charakter nicht in den Kampf eingreift, kann er sich in einer Kampfrunde etwa 30 Meter bewegen und ist immer noch in der Lage zu beobachten, was in der Nähe passiert, eingehende Schläge zu parieren und auf Notfälle zu reagieren.
+Normalerweise erhält jeder Charakter eine aktive (offensive) Aktion und eine oder mehrere defensive Aktionen in einer Kampfrunde. Wenn dein Charakter nicht in den Kampf eingreift, kann er sich in einer Kampfrunde etwa 30 Meter bewegen und ist immer noch in der Lage zu beobachten, was in der Nähe vor sich geht, eingehende Schläge zu parieren und auf Notfälle zu reagieren.
 
-Siehe Kapitel Sechs: Kampf für weitere Details darüber, was im Kampf möglich ist, und Kampfrundenbewegung für weitere Informationen darüber, wie schnell sich Charaktere in einer Kampfrunde bewegen können. Andere Kreaturen bewegen sich während einer Kampfrunde schneller oder langsamer (siehe Kapitel Elf: Kreaturen).
+Siehe Kapitel Sechs: Kampf für weitere Details darüber, was im Kampf möglich ist, und Kampfrundenbewegung für weitere Informationen darüber, wie schnell Charaktere sich in einer Kampfrunde bewegen können. Andere Kreaturen bewegen sich schneller oder langsamer während einer Kampfrunde (siehe Kapitel Elf: Kreaturen).
 
 > ##### Bedeutende Zeitintervalle
-> 
-> Im Folgenden sind nützliche Beispiele für bedeutende Zeitmaße für Dinge, die in Spielen passieren:
-> 
-> | Aktivität | Zeitaufwand |
+>
+> Nachfolgend nützliche Beispiele für bedeutende Zeitmaße für Dinge, die in Spielen passieren:
+>
+> | Aktivität | Zeitdauer |
 > | :---- | :---- |
-> | Erzählzeit | Variabel, Zeit für Rollenspiel oder Beschreibung von Aktionen |
-> | Szene | Variabel, kann Erzählzeit, Spielrunden und Kampfrunden enthalten |
+> | Erzählzeit | Variabel, Zeit, die mit Rollenspiel oder der Beschreibung von Aktionen verbracht wird |
+> | Szene | Variabel, kann Erzählzeit, Runden und Kampfrunden enthalten |
 > | Spielrunde (oder einfach „Runde“) | Fünf Minuten, oder 25 Kampfrunden |
 > | Kampfrunde | Zwölf Sekunden |
-> | Reisezeit | Charaktere können normalerweise zehn Stunden Zeit ohne nennenswerte Schwierigkeiten reisen, abhängig vom Reisemodus, Gelände, Wetter usw. |
-> | Spielrunde | Siehe Spielrunde, oben |
+> | Reisezeit | Charaktere können normalerweise zehn Stunden Zeit ohne große Schwierigkeiten reisen, abhängig von der Art des Reisens, Gelände, Wetter usw. |
+> | Runde | Siehe Spielrunde, oben |
 > | Bewusstlosigkeit | Normalerweise etwa eine Stunde, abhängig von der Ursache |
-> | Regeneriere 1 Erschöpfungspunkt | Eine Minute (fünf Kampfrunden) der Inaktivität |
-> | Regeneriere alle Erschöpfungspunkte | Zwanzig Minuten Ruhe und Inaktivität |
-> | Regeneriere 1W3 Trefferpunkte | Eine Spielwoche (sieben Tage) |
-> | Regeneriere 1 Kraftpunkt | Ein Kraftpunkt pro Stunde Schlaf, und 1 pro zwei Stunden wach |
-> | Regeneriere alle Kraftpunkte | Ein Spieltag (24 Stunden, oder ein Äquivalent) |
+> | 1 Ermüdungspunkt regenerieren | Eine Minute (fünf Kampfrunden) Inaktivität |
+> | Alle Ermüdungspunkte regenerieren | Zwanzig Minuten Rast und Inaktivität |
+> | 1W3 Trefferpunkte regenerieren | Eine Spielwoche (sieben Tage) |
+> | 1 Magiepunkt regenerieren | Ein Magiepunkt pro Stunde Schlaf und 1 pro zwei Stunden im Wachzustand |
+> | Alle Magiepunkte regenerieren | Ein Spieltag (24 Stunden oder Äquivalent) |
 > | Trainingswurf, Kampffertigkeiten | Etwa drei Spielwochen |
-> | Trainingswurf, nicht-kampforientierte Fertigkeiten | Etwa 12 Spielwochen oder weniger |
+> | Trainingswurf, nicht kampfbezogene Fertigkeiten | Etwa 12 Spielwochen oder weniger |
 > | Erfahrungswürfe | Eine Spielwoche oder mehr |
 
 ## Zeit und Bewegung
 
-Es ist oft wichtig zu wissen, wie genau dein Charakter in einem Spielmonat, einer Woche, einem Tag, einer Stunde, einer Spielrunde und vor allem in einer Kampfrunde reisen kann. Bewegung wird in drei Kategorien unterteilt:
+Es ist oft wichtig, genau zu wissen, wie weit dein Charakter in einem Spielmonat, einer Woche, einem Tag, einer Stunde, einer Runde und, am wichtigsten, einer Kampfrunde reisen kann. Bewegung wird in drei Kategorien klassifiziert:
 
-* **Kampfrundenbewegung** ist relativ konkret. Es ist einfach der Zeitbetrag, den sich dein Charakter in 12 Sekunden Spielzeit bewegen kann. Kampfrundenbewegungsraten sind unter **Kampfrundenbewegung** beschrieben und basieren auf der BEW-Eigenschaft.
+* **Kampfrundenbewegung** ist relativ konkret. Es ist einfach die Zeitspanne, die dein Charakter in 12 Sekunden Spielzeit zurücklegen kann. Kampfrundenbewegungsraten werden unter **Kampfrundenbewegung** beschrieben und basieren auf der Eigenschaft BEW.
 
-* **Lokale Bewegung** ist die Zeit, die dein Charakter benötigt, um sich von einem Ort zum anderen zu bewegen, und wird in der Tabelle **Bewegungsraten** beschrieben. Dies ist, wenn du wissen musst, wie lange es dauert, um von einem Teil eines großen Gebäudes zu einem anderen oder durch die Stadt zu gelangen.
+* **Lokale Bewegung** ist die Zeit, die dein Charakter benötigt, um sich von einem Ort zu einem anderen zu bewegen, und wird in der Tabelle **Bewegungsraten** beschrieben. Dies ist der Fall, wenn du wissen musst, wie lange es dauert, von einem Teil eines großen Gebäudes zu einem anderen oder durch die Stadt zu gelangen.
 
-* **Regionale Bewegung** bringt dich von einer Region in eine andere und ist normalerweise abstrakt und wird eher durch Erzählung als durch tatsächliches Gameplay gehandhabt. Im Allgemeinen ist jede Bewegung, die mehr als eine Stunde erfordert, am besten in der regionalen Bewegung aufgehoben. Manchmal ist es wichtig, genau zu bestimmen, wie viel Zeit regionale Bewegung in Anspruch nimmt: Konsultiere die Spalte „Tage“ in der Tabelle **Bewegungsraten**.
+* **Regionale Bewegung** bringt dich von einer Region in eine andere und ist normalerweise abstrakt und wird eher durch Erzählung als durch tatsächliches Gameplay gehandhabt. Im Allgemeinen ist jede Bewegung, die mehr als eine Stunde erfordert, am besten in regionaler Bewegung gehandhabt. Manchmal ist es wichtig, genau zu bestimmen, wie viel Zeit regionale Bewegung in Anspruch nimmt: Konsultiere die Spalte „Tage“ in der Tabelle **Bewegungsraten**.
 
-Die Tabelle **Bewegungsraten** enthält gängige Reisemodi. Nochmals zur Referenz: eine Kampfrunde sind 12 Sekunden; eine Spielrunde sind fünf Minuten; eine Stunde sind 12 Spielrunden; und bei einem Spieltag wird von zehn Stunden Reisezeit ausgegangen. Charakteraktionen wie hartes Reiten und wenig Ausruhen können dies beeinflussen, daher sollte dein Spielleiter andere Dauern auf diesen Richtlinien basieren.
+Die Tabelle **Bewegungsraten** enthält gängige Reisearten. Zum Nachschlagen: Eine Kampfrunde sind 12 Sekunden; eine Runde sind fünf Minuten; eine Stunde sind 12 Runden; und ein Spieltag erlaubt zehn Stunden Reisezeit. Charakteraktionen wie hartes Reiten und wenig Pausen können dies beeinflussen, daher sollte dein Spielleiter andere Dauer basierend auf diesen Richtlinien festlegen.
 
 Für weitere Details siehe **Fahrzeuge** in Kapitel Acht: Ausrüstung. Diese Raten sind extrem allgemein – für spezifische Geschwindigkeiten konsultiere den relevanten Eintrag, und dein Spielleiter sollte alle Variablen wie Kampf, Reparaturen, Gelände, Verkehr usw. anpassen.
 
 ### Kampfrundenbewegung
 
-Charaktere haben eine Bewegungsrate (BEW) von 10 Einheiten pro Kampfrunde. Eine Einheit kann je nach Situation mehrere bis 10 Meter darstellen. Wenn dein Spielleiter ein genaues Maß benötigt, könnte er 3 Meter pro Einheit verwenden, aber die relative Distanz zwischen Kämpfern ist normalerweise das relevanteste Thema.
+Charaktere haben eine Bewegungsrate (BEW) von 10 Einheiten pro Kampfrunde. Eine Einheit kann je nach Situation mehrere bis 10 Meter darstellen. Wenn dein Spielleiter ein exaktes Maß benötigt, könnte er 3 Meter pro Einheit verwenden, aber die relative Entfernung zwischen Kämpfern ist normalerweise die relevanteste Angelegenheit.
 
-Zehn Einheiten stellen die maximal nachhaltige Bewegungsrate für einen normalen Menschen dar. Andere Kreaturen haben unterschiedliche BEW-Raten (siehe *Kapitel Elf: Kreaturen*). Wenn Entfernung und Rate wichtig sind, kann dein Spielleiter ein spezifisches Maß angeben, sollte aber versuchen, solche Fragen in Spielbegriffen zu beantworten, wie etwa „Es dauert zwei Kampfrunden, bis ihr dort seid.“
+Zehn Einheiten stellen die maximal nachhaltige Bewegungsrate für einen normalen Menschen dar. Andere Kreaturen haben unterschiedliche BEW-Raten (siehe *Kapitel Elf: Kreaturen*). Wenn Entfernung und Rate wichtig sind, kann dein Spielleiter ein spezifisches Maß angeben, sollte aber versuchen, solche Fragen in Spielbegriffen zu beantworten, wie etwa: „Es dauert zwei Kampfrunden, bis ihr dort seid.“
 
-Dein Spielleiter kann auch vorübergehend die BEW-Eigenschaft deines Charakters basierend auf den Umständen senken, z. B. durch Überlastung, Ermüdung, vorsichtige Bewegung usw. **Gelände- und Wettermodifikatoren** geben Richtlinien, wie Bewegung durch diese Faktoren beeinflusst werden kann. Siehe **Verfolgungsjagden**, wenn es um Verfolgung geht.
+Dein Spielleiter kann auch vorübergehend die BEW-Eigenschaft deiner Charaktere basierend auf Umständen senken, wie etwa Überlastung, Ermüdung, vorsichtige Bewegung usw. **Gelände- und Wettermodifikatoren** geben Richtlinien dazu, wie Bewegung durch diese Faktoren beeinflusst werden kann. Siehe **Verfolgungsjagden**, wenn es um die Verfolgung geht.
 
-Die Werte in **Bewegungsraten** und folgende sind ungefähre Angaben, basierend auf einem zehnstündigen Reisetag, wo relevant. Fahrzeuge mit Besatzungen, die in Schichten arbeiten oder von Wesen bemannt sind, die nicht müde werden oder Pausen machen, können 24 Stunden ununterbrochen reisen.
+Die Werte in **Bewegungsraten** und folgend sind annähernd, basierend auf einem zehnstündigen Reisetag, wo relevant. Fahrzeuge mit Besatzungen, die in Schichten arbeiten oder von Wesen bemannt werden, die nicht müde werden oder Pausen brauchen, können 24 Stunden ununterbrochen reisen.
 
-Um eine Bewegungsrate für einen nicht aufgelisteten Transportmodus zu erhalten, bestimme die Bewegungsrate für diesen Modus für eine Kampfrunde. Sobald du diesen Wert hast, kann er verwendet werden, um den Rest der Bewegungsraten zu bestimmen:
+Um eine Bewegungsrate für eine nicht aufgeführte Transportart zu erhalten, bestimme die Bewegungsrate für diese Art für eine Kampfrunde. Sobald du diesen Wert hast, kann er verwendet werden, um den Rest der Bewegungsraten zu bestimmen:
 
-* Multipliziere eine Kampfrundenbewegungsrate mit ×25 für eine Spielrunde
+* Multipliziere eine Kampfrundenbewegungsrate ×25 für eine Runde
 
-* Multipliziere eine Spielrundenbewegungsrate mit ×12 für eine Stunde
+* Multipliziere eine Rundenbewegungsrate ×12 für eine Stunde
 
-* Multipliziere eine stündliche Bewegungsrate mit ×10 für einen Tag
+* Multipliziere eine stündliche Bewegungsrate ×10 für einen Tag
 
-* Multipliziere eine stündliche Bewegungsrate mit ×24 für einen ununterbrochenen Reisetag
+* Multipliziere eine stündliche Bewegungsrate ×24 für einen ununterbrochenen Reisetag
 
 ##### Bewegungsraten
 
-| Rate | Kampfrunde | Spielrunde | Stunde | Tag |
+| Rate | Kampfrunde | Runde | Stunde | Tag |
 | :---- | :---- | :---- | :---- | :---- |
 | Gehen | 10 Meter | 250 Meter | 3 Kilometer | 30 Kilometer |
-| Marschieren, forciert* | 12 Meter | 300 Meter | 3,6 Kilometer | 36 Kilometer |
-| Laufen, normal** | 30 Meter | 750 Meter | 9 Kilometer | 90 Kilometer |
-| Laufen, Sprinten** | 50 Meter | 1.250 Meter | 15 Kilometer | 150 Kilometer |
+| Marschieren, erzwungen\* | 12 Meter | 300 Meter | 3,6 Kilometer | 36 Kilometer |
+| Laufen, normal\*\* | 30 Meter | 750 Meter | 9 Kilometer | 90 Kilometer |
+| Laufen, Sprinten\*\* | 50 Meter | 1.250 Meter | 15 Kilometer | 150 Kilometer |
 | Schwimmen | 5 Meter | 125 Meter | 1,5 Kilometer | 15 Kilometer |
-| Reiten, Schritttempo | 12 Meter | 300 Meter | 3,6 Kilometer | 36 Kilometer |
-| Reiten, Galopp* | 60 Meter | 1,5 Kilometer | 18 Kilometer | 180 Kilometer |
+| Reiten, Schrittgeschwindigkeit | 12 Meter | 300 Meter | 3,6 Kilometer | 36 Kilometer |
+| Reiten, Galopp\* | 60 Meter | 1,5 Kilometer | 18 Kilometer | 180 Kilometer |
 | Landfahrzeug, gezogen | 10 Meter | 250 Meter | 3 Kilometer | 30 Kilometer |
 | Landfahrzeug, Oldtimer | 200 Meter | 5 Kilometer | 60 Kilometer | 600 Kilometer |
 | Landfahrzeug, modern | 400 Meter | 10 Kilometer | 120 Kilometer | 1.200 Kilometer |
 | Landfahrzeug, futuristisch | 1,2 Kilometer | 30 Kilometer | 360 Kilometer | 3.600 Kilometer |
 | Boot, klein gerudert | 40 Meter | 1 Kilometer | 12 Kilometer | 120 Kilometer |
 | Schiff, antik gerudert | 10 Meter | 250 Meter | 3 Kilometer | 30 Kilometer |
-| Schiff, historisch Segler | 20 Meter | 500 Meter | 6 Kilometer | 60 Kilometer |
-| Schiff, modern Kreuzfahrtschiff | 200 Meter | 5 Kilometer | 60 Kilometer | 600 Kilometer |
+| Schiff, Oldtimer Segelschiff | 20 Meter | 500 Meter | 6 Kilometer | 60 Kilometer |
+| Schiff, modernes Kreuzfahrtschiff | 200 Meter | 5 Kilometer | 60 Kilometer | 600 Kilometer |
 | Schiff, futuristisch | 600 Meter | 15 Kilometer | 180 Kilometer | 1.800 Kilometer |
 | Zug, Dampflokomotive | 200 Meter | 5 Kilometer | 60 Kilometer | 600 Kilometer |
 | Zug, Hochgeschwindigkeitszug | 1,1 Kilometer | 27,5 Kilometer | 330 Kilometer | 3.300 Kilometer |
@@ -439,178 +438,178 @@ Um eine Bewegungsrate für einen nicht aufgelisteten Transportmodus zu erhalten,
 | Raumfahrzeug, modern | 100 Kilometer | 2.500 Kilometer | 30.000 Kilometer | 300.000 Kilometer |
 | Raumfahrzeug, futuristisch | Variiert | Variiert | Variiert | Variiert |
 
-* **Optionale Regel – Erschöpfungspunkte**: Dies kostet 1 Erschöpfungspunkt pro Spielstunde und erfordert einen täglichen Ausdauerwurf, sonst verliert dein Charakter täglich 1 Trefferpunkt. Wenn dein Charakter beritten ist, verlieren sowohl Reittier als auch Reiter den Trefferpunkt. Siehe **Erschöpfungspunkte** und **Geistige Stabilitätspunkte**.
+\* **Optionale Regel – Ermüdungspunkte**: Dies kostet 1 Ermüdungspunkt pro Spielstunde und erfordert einen täglichen Konstitutionswurf, sonst verliert dein Charakter täglich 1 Trefferpunkt. Wenn dein Charakter beritten ist, verlieren sowohl Reittier als auch Reiter den Trefferpunkt. Siehe **Ermüdungspunkte** und **Geistige Gesundheitspunkte**.
 
-** Optionale Regel – Erschöpfungspunkte**: Laufen kostet 1 Erschöpfungspunkt pro Spielrunde und erfordert einen erfolgreichen stündlichen Ausdauerwurf, sonst kostet es jede Stunde 1 Trefferpunkt. Siehe **Erschöpfungspunkte** und **Geistige Stabilitätspunkte**.
+\*\* **Optionale Regel – Ermüdungspunkte**: Laufen kostet 1 Ermüdungspunkt pro Runde und erfordert einen erfolgreichen stündlichen Konstitutionswurf, sonst kostet es jede Stunde 1 Trefferpunkt. Siehe **Ermüdungspunkte** und **Geistige Gesundheitspunkte**.
 
 ## Gelände- und Wettermodifikatoren
 
-Die obigen Reiseraten gehen von vernünftigen Straßen- oder Wegbedingungen aus. Die folgenden Modifikatoren gelten für ungewöhnliche oder unterschiedliche Geländearten. Angetriebene Fahrzeuge können von einigen dieser Modifikatoren ausgenommen sein, wobei der gesunde Menschenverstand und dein Spielleiter die endgültige Entscheidung treffen. Normaler Regen verlangsamt Autos nicht dramatisch, dichter Schnee jedoch schon.
+Die obigen Reiseraten gehen von vernünftigen Straßen- oder Wegbedingungen aus. Die folgenden Modifikatoren gelten für ungewöhnliche oder unterschiedliche Geländetypen. Motorisierte Fahrzeuge können von einigen dieser Modifikatoren ausgenommen sein, wobei der gesunde Menschenverstand und dein Spielleiter das letzte Urteil fällen. Normaler Regen verlangsamt Autos nicht drastisch, während tiefer Schnee dies tut.
 
-* Sofern nicht gebrückt oder furhbar, dauert die Überquerung eines großen Flusses einen ganzen Tag. Ein kleiner Fluss reduziert die Bewegung um einen vernachlässigbaren Betrag bis auf 1/3.
+* Sofern keine Brücke vorhanden oder eine Furt möglich ist, dauert die Überquerung eines großen Flusses einen ganzen Tag. Ein kleiner Fluss reduziert die Bewegung um einen vernachlässigbaren Betrag bis auf 1/3.
 
-* Außer auf Straßen oder Wegen reduziert das Durchqueren eines Waldes die Landreiseraten um 1/3.
+* Wenn man sich abseits von Straßen oder Wegen durch einen Wald bewegt, reduzieren sich die Landreiseraten um 1/3.
 
 * Für hügeliges Gelände reduziere die Bewegungsrate um 1/3.
 
 * Für Wüsten reduziere um 1/3.
 
-* Bei schweren Stürmen reduziere auf 1/2 bis 4/5, je nach Schwere des Sturms. Luftfahrzeuge werden nur um 1/5 ihrer normalen Geschwindigkeit reduziert, obwohl viele über Stürmen fliegen und nicht betroffen sind.
+* Für schwere Stürme reduziere um 1/2 bis 4/5, abhängig von der Schwere des Sturms. Luftfahrzeuge werden nur um 1/5 ihrer normalen Geschwindigkeit reduziert, obwohl viele über Stürmen fliegen und nicht betroffen sind.
 
-* Für Berge reduziere um 2/3.
+* Für Gebirge reduziere um 2/3.
 
-* Für Moore und Sümpfe reduziere die Bewegung um 2/3.
+* Für Sümpfe und Moore reduziere die Bewegung um 2/3.
 
 * Für Eis und Schnee reduziere die Bewegung um 4/5, aber Schlitten oder Skier könnten dies auf nur 1/3 reduzieren.
 
-* Dichter Nebel reduziert die Bewegung der meisten von Menschen gesteuerten Fahrzeuge auf 2/3, beeinflusst aber nicht die Geh- oder Reitgeschwindigkeiten.
+* Schwerer Nebel reduziert die Bewegung der meisten von Menschen gesteuerten Fahrzeuge auf 2/3, beeinflusst aber nicht die Geh- oder Reitgeschwindigkeiten.
 
 * Reisen auf einem Fluss erfolgt mit 1/2 der Geschwindigkeit von offenem Wasser.
 
-* Nachts beträgt die Geschwindigkeit eines Schiffes 1/4 der Geschwindigkeit am Tag.
+* Nachts beträgt die Geschwindigkeit eines Schiffes 1/4 der Tagesgeschwindigkeit.
 
-Diese Modifikatoren akkumulieren, werden aber getrennt in der Reihenfolge ihrer Schwere angewendet, anstatt addiert zu werden. Wenn die Reduktionen unterschiedlich sind, wie 2/3 und 1/3, modifiziere die Bewegungsrate zuerst mit dem schwereren Bewegungsabzug, dann mit dem zweiten und nachfolgenden Abzügen. Sie sollten niemals addiert werden, da dies die Bewegungsrate möglicherweise ganz eliminieren würde.
+Diese Modifikatoren akkumulieren sich, werden aber separat in der Reihenfolge ihrer Schwere angewendet, anstatt addiert zu werden. Wenn die Reduzierungen unterschiedlich sind, wie 2/3 und 1/3, modifiziere die Bewegungsrate zuerst mit dem schwereren Bewegungsabzug, dann mit dem zweiten und den nachfolgenden Abzügen. Sie sollten niemals addiert werden, da dies potenziell die Bewegungsrate vollständig eliminieren würde.
 
-**Zum Beispiel:** Das Reiten zu Pferd durch bewaldete Berge reduziert deinen Charakter auf 2/3 der normalen Bewegungsrate für Berge. Somit werden 36 Kilometer normaler Bewegungsrate zu Pferd um 12 Kilometer pro Tag reduziert. Diese Summe wird dann erneut um ein weiteres 1/3 für das Waldgelände reduziert und endet bei etwa 8 Kilometern pro Reisetag.
+**Zum Beispiel:** Reiten zu Pferd durch bewaldete Berge reduziert deinen Charakter auf 2/3 der normalen Bewegungsrate für Berge. Somit werden 36 Kilometer normale Reitgeschwindigkeit um 12 Kilometer pro Tag reduziert. Diese Summe wird dann erneut um ein weiteres 1/3 für das Waldgelände reduziert, was zu etwa 8 Kilometern Reise pro Tag führt.
 
 > ### Belastung
-> 
-> Belastung misst, wie viel Gewicht dein Charakter tragen kann. Wenn unbelastet, können sie sich schneller bewegen und verlieren Erschöpfungspunkte langsamer. Wenn dein Charakter belastet ist, ist er verlangsamt und verliert Erschöpfungspunkte schneller. Belastung wird in Belastungspunkten (BEL) gemessen. Dein Charakter kann problemlos so viele BEL-Punkte tragen, wie er Punkte in STÄ hat, und kann sich nur normal manövrieren, wenn er BEL trägt, die gleich oder geringer als die Summe seines BEL-Limits (STÄ+KON) ist.
-> 
-> #### BEL
-> 
-> Jeder Gegenstand, der problemlos in einer Hand gehalten werden kann (ein Schwert, eine Axt, eine Pistole, ein Schild, ein handgroßer Stein, ein Seil usw.), ist ein „Ding“, eine abstrakte Einheit von Masse und Zweckmäßigkeit, dargestellt in BEL-Werten. Die meisten „Dinge“ haben 1 oder 2 BEL. Obwohl sie sehr unterschiedliche Gewichte haben können, beanspruchen sie den gleichen Platz an deinem Charakter und sind etwa gleich schwierig zu handhaben. Jeder Gegenstand hat einen BEL-Wert, der eher danach bemessen wird, wie schwierig er zu handhaben ist, als nach seinem tatsächlichen Gewicht.
-> 
-> Wenn ein Gegenstand keinen BEL-Wert hat, verwende seine GRÖ als Basis und passe sie nach relativer Dichte oder Sperrigkeit an. *Kapitel Acht: Ausrüstung* listet die BEL aller Waffen, Rüstungen und Schilde auf und liefert GRÖ-Werte für viele andere gängige Objekte.
-> 
-> #### Wie viel ist eine BEL?
-> 
-> BEL ist keine direkte Gewichtseinheit. Dein Charakter kann vernünftigerweise BEL in Höhe seiner STÄ+KON tragen, ohne zu sehr belastet zu sein. Während er wahrscheinlich viel mehr als dies heben könnte, misst BEL wirklich, wie viel er mit dem gehobenen Gewicht anfangen kann, wie z. B. in der Lage zu sein, es eine Weile zu tragen und trotzdem normal zu funktionieren. Dein Charakter kann nicht sehr lange eine BEL-Menge über diesem BEL-Limit tragen und trotzdem in der Lage sein zu kämpfen, zu klettern oder zu rennen.
-> 
-> Dein Spielleiter kann entscheiden, dass einige Gegenstände einen höheren BEL-Wert haben, als ihr Gewicht vermuten lässt. Dies stellt die Unbeholfenheit bei der Handhabung des Gegenstands dar, wie z. B. zusätzliche GRÖ oder Sperrigkeit.
-> 
-> #### BEL-Abzüge
-> 
-> Jeder Punkt BEL, den dein Charakter über seinem maximalen BEL trägt, führt dazu, dass er die folgenden Modifikatoren erleidet:
-> 
+>
+> Belastung misst, wie viel Gewicht dein Charakter tragen kann. Wenn unbelastet, können sie sich schneller bewegen und verlieren langsamer Ermüdungspunkte. Wenn dein Charakter belastet ist, ist er verlangsamt und verliert schneller Ermüdungspunkte. Belastung wird in Belastungspunkten (BP) gemessen. Dein Charakter kann leicht so viele Punkte BP tragen, wie er Punkte in STÄ hat, und kann für jede längere Zeit nur dann normal manövrieren, wenn er BP trägt, die gleich oder geringer als die Summe seiner BP-Grenze (STÄ+KON) sind.
+>
+> #### BP
+>
+> Jeder Gegenstand, der leicht mit einer Hand gehalten werden kann (ein Schwert, eine Axt, eine Pistole, ein Schild, ein handgroßer Stein, ein Seil usw.), ist ein „Ding“, eine abstrakte Einheit von Volumen und Handlichkeit, dargestellt in BP-Werten. Die meisten „Dinge“ sind 1 oder 2 BP. Obwohl sie sehr unterschiedliche Gewichte haben können, nehmen sie den gleichen Platz an deinem Charakter ein und sind in etwa gleich schwierig zu handhaben. Jeder Gegenstand hat einen BP-Wert, gemessen daran, wie schwierig er zu handhaben ist, anstatt an seinem tatsächlichen Gewicht.
+>
+> Wenn ein Gegenstand keinen BP-Wert hat, verwende seine STUR als Basis und passe ihn um relative Dichte oder Sperrigkeit an. *Kapitel Acht: Ausrüstung* listet die BP aller Waffen, Rüstungen und Schilde auf und liefert STUR-Werte für viele andere häufige Objekte.
+>
+> #### Wie viel ist ein BP?
+>
+> BP ist keine direkte Gewichtseinheit. Dein Charakter kann vernünftigerweise BP in Höhe seiner STÄ+KON tragen, ohne zu sehr belastet zu sein. Während er wahrscheinlich viel mehr als das heben könnte, misst BP wirklich, wie viel er mit dem gehobenen Gewicht tun kann, wie etwa es eine Weile tragen zu können und immer noch normal zu funktionieren. Dein Charakter kann für sehr lange keine Menge an BP über diesem BP-Limit tragen und immer noch kämpfen, klettern oder rennen.
+>
+> Dein Spielleiter kann entscheiden, dass einige Gegenstände einen höheren BP-Wert haben, als ihr Gewicht vermuten lässt. Dies stellt die Ungeschicklichkeit bei der Handhabung des Gegenstands dar, wie etwa zusätzliche STUR oder Sperrigkeit.
+>
+> #### BP-Abzüge
+>
+> Jeder Punkt BP, den dein Charakter über seinem Maximum trägt, führt dazu, dass er die folgenden Modifikatoren erleidet:
+>
 > * –1 auf Bewegung (BEW)
-> 
-> * –5% auf den Charakteristikwurf Geschicklichkeit
-> 
-> * –5% auf alle körperlichen, Manipulations- und Kampffertigkeiten
-> 
-> Zusätzlich verliert dein Charakter 1 Erschöpfungspunkt pro Spielrunde pro zusätzlicher BEL über seinem Maximum, während er sich anstrengt (Marschieren, Kampf, anstrengende Aktivität usw., zusätzlich zu allen anderen Verlusten von Erschöpfungspunkten (siehe **Erschöpfungspunkte** und **Geistige Stabilitätspunkte**).
+>
+> * –5 % auf den Wurf auf die Eigenschaft Gewandtheit
+>
+> * –5 % auf alle physischen, Manipulations- und Kampffertigkeiten
+>
+> Zusätzlich verliert dein Charakter 1 Ermüdungspunkt pro Runde pro zusätzlichem BP über seinem Maximum, während er sich anstrengt (Marschieren, Kampf, anstrengende Aktivität usw., zusätzlich zu anderen Verlusten von Ermüdungspunkten (siehe **Ermüdungspunkte** und **Geistige Gesundheitspunkte**).
 
 ## Charakterverbesserung
 
-Die Fertigkeiten und Charakteristika deines Charakters können und sollten sich im Spiel verbessern, insbesondere wenn er an Abenteuern teilnimmt, deren Lösung mehr als einen Tag dauert. Diese können durch Training und Forschung gesteigert werden, aber das primäre Mittel zur Verbesserung ist die erfolgreiche Anwendung der Fertigkeiten in gefährlichen Situationen.
+Die Fertigkeiten und Eigenschaften deines Charakters können und sollten sich im Spiel verbessern, insbesondere bei der Teilnahme an Abenteuern, deren Auflösung mehr als einen Tag in Anspruch nimmt. Diese können durch Training und Forschung gesteigert werden, aber das primäre Mittel zur Verbesserung ist die erfolgreiche Anwendung der Fertigkeiten in gefährlichen Situationen.
 
 ### Fertigkeitsverbesserung
 
-Die erfolgreiche Anwendung einer Fertigkeit zeigt an, dass dein Charakter möglicherweise seinen Wert in dieser Fertigkeit verbessern kann. Beachte, dass hier der Begriff „Fertigkeit“ verwendet wird, sich aber auf alles bezieht, das wie eine Fertigkeit bewertet wird, außer einem Charakteristikwurf. Daher funktioniert diese Methode auch für Zaubersprüche, Leidenschaften und sogar Persönlichkeitsmerkmale.
+Die erfolgreiche Anwendung einer Fertigkeit deutet darauf hin, dass dein Charakter in der Lage sein könnte, seinen Rang in dieser Fertigkeit zu verbessern. Beachte, dass hier der Begriff „Fertigkeit“ verwendet wird, sich aber auf alles bezieht, was wie eine Fertigkeit bewertet wird, außer einem Eigenschaftswurf. Daher funktioniert diese Methode auch für Zauber, Leidenschaften und sogar Persönlichkeitsmerkmale.
 
-Wann immer dein Charakter eine Fertigkeit erfolgreich in einer dramatischen Situation wie einem Kampf oder wenn etwas auf dem Spiel steht einsetzt, mache ein Häkchen in das kleine Kästchen neben dieser Fertigkeit auf deinem Charakterbogen. Dieses Häkchen nennt man **Erfahrungsscheck**. Wenn ein Fertigkeitswurf „Einfach“ war, ist kein Erfahrungsscheck erlaubt. Wenn kein Kästchen neben dem Prozentwert der Fertigkeit steht, kann die Fertigkeit nicht durch normale Erfahrung gesteigert werden. (Für Fertigkeiten, die nicht durch Erfahrung gesteigert werden können, schwärze das Kontrollkästchen auf dem Charakterbogen.)
+Wann immer dein Charakter eine Fertigkeit erfolgreich in einer dramatischen Situation einsetzt, wie etwa im Kampf oder wenn etwas auf dem Spiel steht, mache ein Häkchen in das kleine Kästchen neben dieser Fertigkeit auf deinem Charakterbogen. Dieses Häkchen nennt man **Erfahrungsprobe**. Wenn ein Fertigkeitswurf Leicht war, ist keine Erfahrungsprobe erlaubt. Wenn neben dem Fertigkeitsprozentwert kein Kästchen ist, dann kann die Fertigkeit nicht durch normale Erfahrung gesteigert werden. (Für Fertigkeiten, die nicht durch Erfahrung gesteigert werden können, schwärze das Kästchen auf dem Charakterbogen.)
 
-Ein Erfahrungsscheck für eine bestimmte Fertigkeit wird nur einmal pro Abenteuer gemacht, egal wie oft die Fertigkeit erfolgreich eingesetzt wurde. Fertigkeiten, die vor oder nach der „Abenteuerzeit“ eingesetzt wurden, sind nicht für Erfahrungsschecks berechtigt, ebenso wenig wie Fertigkeiten, die verwendet wurden, um eine andere zu unterstützen, wenn der Wurf der primären Fertigkeit fehlschlägt.
+Eine Erfahrungsprobe für eine bestimmte Fertigkeit wird nur einmal pro Abenteuer gemacht, egal wie oft die Fertigkeit erfolgreich eingesetzt wurde. Fertigkeiten, die vor oder nach der „Abenteuer“-Zeit eingesetzt werden, sind nicht für Erfahrungsproben berechtigt, ebenso wenig wie Fertigkeiten, die verwendet werden, um eine andere zu unterstützen, wenn der primäre Fertigkeitswurf fehlschlägt.
 
-Wenn eine Fertigkeit erfolgreich eingesetzt wird, erhältst du fast immer einen Erfahrungsscheck. Etwas, das später die Ergebnisse zunichtemacht, entfernt keinen Erfahrungsscheck. Dein Spielleiter sollte fast immer Erfahrungsschecks gewähren, wenn Fertigkeiten erfolgreich in stressigen Situationen eingesetzt werden. Ein Angriff gegen ein wehrloses Ziel ist keine stressige Situation und verdient keinen Erfahrungsscheck. Ebenso ist es keine stressige Situation, eine Stunde damit zu verbringen, ein Schloss in deiner Werkstatt zu knacken – aber dieselbe Aufgabe in einer Kampfrunde auszuführen, während sich Wachen nähern, ist eine stressige Situation und verdient einen Check.
+Wenn eine Fertigkeit erfolgreich eingesetzt wird, erhältst du fast immer eine Erfahrungsprobe. Etwas, das später die Ergebnisse rückgängig macht, entfernt keine Erfahrungsprobe. Dein Spielleiter sollte fast immer Erfahrungsproben erlauben, wann immer Fertigkeiten erfolgreich in stressigen Situationen eingesetzt werden. Ein Angriff gegen ein hilfloses Ziel ist keine stressige Situation und verdient keine Erfahrungsprobe. Ebenso ist es keine stressige Situation, eine Stunde lang ein Schloss in deiner Werkstatt zu knacken – aber dieselbe Aufgabe in einer Kampfrunde zu erledigen, während sich Wachen nähern, ist eine stressige Situation und verdient eine Probe.
 
-Zusätzlich zum Verdienen von Erfahrungsschecks durch erfolgreiche Würfe kann dein Spielleiter dir mitteilen, dass dein Charakter automatisch einen Check im Erfahrungsfeld verdient hat, normalerweise durch signifikante Konfrontation mit der Fertigkeit, die erfolgreich eingesetzt wurde.
+Zusätzlich zum Verdienen von Erfahrungsproben durch erfolgreiche Würfe kann dein Spielleiter dir mitteilen, dass dein Charakter automatisch eine Probe im Erfahrungsfeld verdient hat, normalerweise durch signifikanten Kontakt mit der Fertigkeit, die erfolgreich eingesetzt wurde.
 
-**Zum Beispiel:** Dies könnte daran liegen, dass man für einen längeren Zeitraum in eine fremdsprachige Umgebung eingetaucht ist und einige der Grundlagen „aufgesogen“ hat, oder indem man einen Experten in dieser Fertigkeit unterstützt und genau auf das achtet, was er sagt und tut.
+**Zum Beispiel:** Dies könnte daran liegen, dass man für einen längeren Zeitraum in eine fremdsprachige Umgebung eingetaucht ist und einige der Grundlagen „aufgesogen“ hat, oder einen Experten in dieser Fertigkeit unterstützt hat, wobei man genau darauf geachtet hat, was er sagt und tut.
 
 ### Was bedeutet „Nach einem Abenteuer“?
 
-Dein Spielleiter bestimmt, wann Erfahrungsschecks vorgenommen werden; dies geschieht normalerweise nach einem Abenteuer oder einer bedeutenden Pause zwischen Ereignissen, wenn deine Charaktere etwas Zeit zur freien Verfügung hatten. Wenn du unsicher bist, gehe von einer Woche aus. Während eines langen Spieleabends können die Charaktere mehrere Momente verdienen, in denen sie sehen können, ob sich ihre Fertigkeiten verbessern.
+Dein Spielleiter bestimmt, wann Erfahrungsproben gemacht werden; dies geschieht normalerweise nach einem Abenteuer oder einer bedeutenden Pause zwischen Ereignissen, wenn deine Charaktere etwas Zeit zur freien Verfügung hatten. Wenn du Zweifel hast, nimm an, es ist eine Woche. Während eines langen Spieleabends können die Charaktere mehrere Momente verdienen, in denen sie sehen können, ob sich ihre Fertigkeiten verbessern.
 
-In dieser Zeit zur freien Verfügung kannst du für jeden Erfahrungsscheck auf deinem Charakterbogen einen Erfahrungswurf machen.
+In dieser Zeit zur freien Verfügung kannst du für jede Erfahrungsprobe auf deinem Charakterbogen einen Erfahrungswurf machen.
 
 ### Einen Erfahrungswurf machen
 
-Der Erfahrungswurf ist ein normaler Prozentwurf. Der **Erfahrungsbonus** deines Charakters (gleich 1/2 INT, aufgerundet) wird zum Würfelergebnis addiert, um zu bestimmen, ob der Erfahrungswurf erfolgreich war. Wenn das Ergebnis eines Erfahrungswurfs höher ist als der aktuelle Fertigkeitswert deines Charakters, dann ist der Erfahrungswurf erfolgreich.
+Der Erfahrungswurf ist ein normaler Prozentwurf. Der **Erfahrungsmodifikator** deines Charakters (gleich 1/2 INT, aufgerundet) wird zum Würfelergebnis addiert, wenn bestimmt wird, ob der Erfahrungswurf erfolgreich war. Wenn das Ergebnis eines Erfahrungswurfs höher ist als der aktuelle Fertigkeitswert deines Charakters, dann ist der Erfahrungswurf erfolgreich.
 
-Der Erfahrungsbonus wird nicht zum tatsächlich gewonnenen Fertigkeitspunkten addiert, nur zum Wurf, um zu sehen, ob es eine Verbesserung gibt.
+Der Erfahrungsmodifikator wird nicht zu den tatsächlich gewonnenen Fertigkeitspunkten addiert, nur zum Wurf, um zu sehen, ob eine Verbesserung vorliegt.
 
-### Fertigkeiten durch Erfahrung steigern
+### Steigerung von Fertigkeiten durch Erfahrung
 
-Addiere nach einem erfolgreichen Erfahrungswurf +1W6 zum Fertigkeitswert. Das Ergebnis der Erfahrung variiert – dein Charakter lernt möglicherweise viel aus einem Vorfall und wenig aus einem anderen, egal wie erfolgreich er beide Male agierte. Basierend auf dem Niveau der Kampagne kann dein Spielleiter den Erfahrungswurf auf +1W8 oder sogar +1W10 erhöhen, was zu einem extrem schnellen Fortschritt führt.
+Addiere nach einem erfolgreichen Erfahrungswurf +1W6 zum Fertigkeitswert. Das Ergebnis der Erfahrung variiert – dein Charakter lernt möglicherweise viel aus einem Vorfall und wenig aus einem anderen, egal wie erfolgreich er beide Male abgeschnitten hat. Basierend auf dem Niveau der Kampagne kann dein Spielleiter den Erfahrungswurf auf +1W8 für episch oder sogar +1W10 für übermenschlich erhöhen, was extrem schnellen Fortschritt erzeugt.
 
-Wenn du dich nicht glücklich fühlst, für eine Fertigkeitssteigerung zu würfeln, kannst du wählen, stattdessen einen Standardwert von +3 zum Fertigkeitswert zu addieren, anstatt zu würfeln. Dies muss vor dem Würfeln angekündigt werden. Wenn der Würfeltyp für die Fertigkeitssteigerung höher ist als 1W6, erhöhe ihn auf die Hälfte des Würfelmaximums – für 1W8 ist es +4, und für 1W10 ist es +5.
+Wenn du dich nicht glücklich fühlst, für eine Fertigkeitssteigerung zu würfeln, kannst du dich entscheiden, standardmäßig +3 zum Fertigkeitswert zu addieren, anstatt zu würfeln. Dies muss vor dem Würfeln angekündigt werden. Wenn der Würfeltyp für die Fertigkeitssteigerung höher als 1W6 ist, erhöhe ihn auf die Hälfte des Würfelmaximums – für 1W8 sind es +4 und für 1W10 sind es +5.
 
-### Überschreiten von 100% in einer Fertigkeit
+### 100 % in einer Fertigkeit überschreiten
 
-Dein Charakter kann seine Fertigkeiten über 100% hinaus verbessern. Der Effekt einer solchen Steigerung verbessert hauptsächlich die Chancen auf kritische und spezielle Erfolge, aber bestimmte Fertigkeiten bieten spezielle Vorteile für Werte über 100% (siehe **Fertigkeitswerte über 100%**). Nur erfolgreiche Erfahrungswürfe können Fertigkeiten über 100% hinaus steigern. Wenn dein Charakter 100% oder mehr in einer Fertigkeit hat, musst du auf W100 gleich oder über 100 würfeln, damit dein Charakter bei einem Erfahrungswurf erfolgreich ist, was bedeutet, dass der Erfahrungsmodifikator notwendig ist. Egal wie weit die Fertigkeit über 100% gestiegen ist, jeder Wurf von 100 oder mehr bringt eine Fertigkeitsverbesserung.
+Dein Charakter kann seine Fertigkeiten über 100 % hinaus verbessern. Die Auswirkung einer solchen Steigerung ist hauptsächlich die Verbesserung der Chancen auf kritische und spezielle Erfolge, aber bestimmte Fertigkeiten bieten spezielle Vorteile für Werte über 100 % (siehe **Fertigkeitswerte über 100 %**). Nur erfolgreiche Erfahrungswürfe können Fertigkeiten über 100 % steigern. Wenn dein Charakter 100 % oder mehr in einer Fertigkeit hat, musst du auf W100 eine 100 oder höher würfeln, damit dein Charakter bei einem Erfahrungswurf Erfolg hat, was bedeutet, dass der Erfahrungsmodifikator notwendig ist. Egal wie weit die Fertigkeit über 100 % gestiegen ist, jeder Wurf von 100 oder höher bringt eine Fertigkeitsverbesserung ein.
 
 ### Fertigkeitstraining und Forschung
 
-Obwohl Erfahrung oft der beste Lehrer ist, ist sie nicht der einzige Weg, Fertigkeiten zu verbessern. Unterricht von Meistern einer Fertigkeit kann ebenfalls die Fähigkeit deines Charakters mit einer Fertigkeit erhöhen oder sogar verringern. Dein Charakter kann trainieren, um eine Fertigkeit zu verbessern, indem er Unterricht darin von einem anderen Charakter mit einem höheren Wert in derselben Fertigkeit erhält. Dieser andere Charakter kann einem anderen Spieler gehören, ist aber normalerweise ein Nicht-Spieler-Charakter. Jede Fertigkeit erfordert eine andere Art von Lehrer und kostet unterschiedlich viel Zeit und Geld zum Lernen. Das Training auf hohe Fertigkeitswerte kann ein langwieriger, kostspieliger Prozess sein.
+Obwohl Erfahrung oft der beste Lehrmeister ist, ist sie nicht der einzige Weg, Fertigkeiten zu verbessern. Unterweisung durch Meister einer Fertigkeit kann ebenfalls die Fähigkeit deines Charakters mit einer Fertigkeit erhöhen oder sie sogar verringern. Dein Charakter kann trainieren, um eine Fertigkeit zu verbessern, indem er Unterweisung darin von einem anderen Charakter mit einem höheren Wert in derselben Fertigkeit erhält. Dieser andere Charakter kann einem anderen Spieler gehören, ist aber normalerweise ein Nicht-Spieler-Charakter. Jede Fertigkeit erfordert eine andere Art von Lehrer und kostet unterschiedliche Zeit- und Geldbeträge, um erlernt zu werden. Das Training bis zu hohen Fertigkeitswerten kann ein langwieriger, kostspieliger Prozess sein.
 
-Die zweite Methode ist Forschung, wobei man alleine arbeitet, entweder mit einem selbst entworfenen Studienkurs, tiefem Eintauchen in den Hintergrund der Fertigkeit oder einem rigorosen, selbstgeleiteten disziplinierten Übungsregime und körperlichem Training, um die eigene Fähigkeit in einer körperlichen Fertigkeit zu verbessern. Der Spielleiter sollte beurteilen, ob die Ressourcen für ein Selbsttraining angemessen sind, und kann in einigen Fällen entscheiden, dass eine Fertigkeit nicht alleine trainiert werden kann, wie einige Wahrnehmungsfertigkeiten.
+Die zweite Methode ist Forschung, wobei man alleine arbeitet, entweder mit einem selbst entworfenen Studienkurs, tiefem Eintauchen in den Hintergrund der Fertigkeit oder einem rigorosen, selbstgeleiteten disziplinierten Übungs- und physischen Trainingsplan, um die eigene Fähigkeit in einer physischen Fertigkeit zu verbessern. Der Spielleiter sollte beurteilen, ob die Ressourcen für das Selbsttraining ausreichen, und kann in einigen Fällen entscheiden, dass eine Fertigkeit nicht alleine trainiert werden kann, wie etwa einige Wahrnehmungsfertigkeiten.
 
 ### Fertigkeitstraining
 
-Zuerst sollte dein Charakter einen Trainer finden, idealerweise zwischen Abenteuern, möglicherweise aber auch als Teil eines solchen. Eine Art Vergütung sollte arrangiert werden, falls angemessen, in Geld, Waren, Gefälligkeiten, Patronage oder in jedem anderen akzeptablen Gegenstand oder Dienst. Die Art des Lehrers kann von einem College-Professor, einem weisen Meister bis hin zu einem interaktiven holografischen Tutor reichen.
+Zuerst sollte dein Charakter einen Trainer finden, idealerweise zwischen Abenteuern, potenziell aber auch als Teil eines solchen. Eine Art Vergütung sollte arrangiert werden, falls angemessen, in Geld, Waren, Gefälligkeiten, Patronage oder in jedem anderen akzeptablen Gegenstand oder Dienst. Die Art des Lehrers kann von einem College-Professor, einem weisen Meister bis hin zu einem interaktiven holografischen Tutor reichen.
 
-Dein Charakter muss dann für Stunden trainieren, die seinem aktuellen Fertigkeitsrang in der Fertigkeit entsprechen. Ein durchschnittlicher Charakter hat 50 Stunden Zeit pro Woche für das Training zur Verfügung, aber ein Vollzeit-Studium ohne Pause ist möglich. Mehr als das Doppelte dieses Betrags ist zermürbend, und solch ausgedehnte Studienzeiten sind kontraproduktiv oder haben negative Auswirkungen auf andere Fertigkeiten oder sogar auf die körperliche und geistige Gesundheit.
+Dein Charakter muss dann für Stunden trainieren, die ihrem aktuellen Fertigkeitsrang in der Fertigkeit entsprechen. Ein durchschnittlicher Charakter hat 50 Stunden Zeit pro Woche für Training zur Verfügung, aber Vollzeit-Studium ohne Unterbrechung ist möglich. Mehr als das Doppelte dieser Menge ist zermürbend, und solch ausgedehnte Lernstunden sind kontraproduktiv oder haben negative Auswirkungen auf andere Fertigkeiten oder sogar die physische und geistige Gesundheit.
 
-Am Ende der Trainingseinheit muss der Lehrer einen Wurf auf die Fertigkeit „Lehren“ versuchen. Wenn sein Wurf erfolgreich ist, verbessert dein Charakter den Fertigkeitswert um +1W6 Punkte. Ein Misserfolg bedeutet keinen Nutzen aus dem Unterricht, und ein Patzer ist kontraproduktiv, wobei der Lehrer Selbstzweifel sät und den bisherigen Erkenntnissen deines Charakters widerspricht, was die Fertigkeit um –1W3 reduziert.
+Am Ende der Trainingseinheit muss der Lehrer einen Fertigkeitswurf auf Lehren versuchen. Wenn sein Wurf erfolgreich ist, verbessert dein Charakter den Fertigkeitswert um +1W6 Punkte. Ein Fehlschlag bedeutet keinen Nutzen aus der Unterweisung, und ein Patzer ist kontraproduktiv, wobei der Lehrer Selbstzweifel sät und dem früheren Gelernten deines Charakters widerspricht, was die Fertigkeit um –1W3 verringert.
 
-Dein Spielleiter kann einen Würfeltyp verwenden, um bessere oder schlechtere Trainingsmöglichkeiten anzuzeigen, oder sogar automatisch eine Steigerung basierend auf Faktoren im Setting gewähren (Fertigkeits-Downloads, psychische Implantate, Erinnerungen aus früheren Leben usw.).
+Dein Spielleiter kann einen Würfeltyp verwenden, um bessere oder schlechtere Trainingsmöglichkeiten anzuzeigen, oder sogar automatisch eine Erhöhung basierend auf Faktoren im Setting gewähren (Fertigkeits-Downloads, psychische Implantate, Erinnerungen an ein früheres Leben usw.).
 
-Die Meisterschaft einer Fertigkeit erfordert tatsächliche Erfahrung außerhalb des „Klassenzimmers“. Keine Fertigkeit kann über 75% trainiert werden, egal wie gut der Ausbilder ist. Jede Steigerung darüber hinaus muss durch erfolgreichen Einsatz der Fertigkeit in herausfordernden Situationen erfolgen, wie sie während eines Abenteuers vorkommen. Der Spielleiter kann bestimmen, dass dies in einem bestimmten Setting nicht zutrifft, wie bei geheimen Meisterschaftsrollen oder implantierten Fertigkeiten, aber das Maximum von 75% ist der Standard.
+Die Meisterschaft einer Fertigkeit erfordert tatsächliche Erfahrung außerhalb des „Klassenzimmers“. Keine Fertigkeit kann über 75 % trainiert werden, egal wie gut der Ausbilder ist. Jede Steigerung darüber hinaus muss durch den erfolgreichen Einsatz der Fertigkeit in herausfordernden Situationen kommen, wie sie während eines Abenteuers gefunden werden. Der Spielleiter kann bestimmen, dass dies in einem bestimmten Setting nicht wahr ist, wie etwa bei geheimen Meisterschaftsschriftrollen oder implantierten Fertigkeiten, aber das Maximum von 75 % ist der Standard.
 
 ### Forschen
 
-Jede Fertigkeit, die durch Training gesteigert werden kann, kann auch durch Forschung gesteigert werden. Forschung wird am besten entweder als Selbsthilfe oder als Selbststudium beschrieben: Eintauchen in alte Folianten, Durchsuchen von Datenbanken; disziplinierte Übungen; holografische Instruktoren; oder neurologische oder neuromuskuläre Implantate. In den meisten Settings ist irgendeine Form der Forschung für jede trainierbare Fertigkeit möglich.
+Jede Fertigkeit, die durch Training gesteigert werden kann, kann auch durch Forschung gesteigert werden. Forschung wird am besten entweder als Selbsthilfe oder Selbstunterricht beschrieben: das Eintauchen in alte Folianten, das Durchforsten von Datenbanken; disziplinierte Übung; holografische Ausbilder; oder neurologische oder neuromuskuläre Implantate. In den meisten Settings ist irgendeine Form der Forschung für jede trainierbare Fertigkeit möglich.
 
-Engagierte Forschung beansprucht so viel Zeit wie Training, bringt aber nicht dieselben Kosten mit sich. Du solltest etwaige Kosten basierend auf dem Setting und der Art des durchgeführten Trainings bestimmen.
+Engagierte Forschung nimmt so viel Zeit in Anspruch wie Training, verursacht aber nicht dieselben Kosten. Du solltest alle Kosten basierend auf dem Setting und der Art des Trainings, das unternommen wird, bestimmen.
 
-Das Erforschen einer Wissensfertigkeit kann zusätzliche Würfe für entsprechende Fertigkeiten wie Sprache, Lesen/Schreiben und Forschung erfordern. Dein Charakter muss möglicherweise sogar einen erfolgreichen Wurf auf die zu erforschende Fertigkeit selbst machen, um relevante Ressourcen zu finden oder in die richtige Richtung gewiesen zu werden. Sofern diese Fertigkeiten nicht unter herausfordernden oder gefährlichen Umständen durchgeführt werden, werden keine Erfahrungsschecks für Fertigkeitswürfe vergeben, die während der Erforschung anderer Fertigkeiten gemacht wurden.
+Das Erforschen einer Wissensfertigkeit kann zusätzliche Würfe auf entsprechende Fertigkeiten wie Sprache, Alphabetisierung und Forschung erfordern. Dein Charakter muss möglicherweise sogar einen erfolgreichen Wurf auf genau die Fertigkeit machen, die erforscht werden soll, um relevante Ressourcen zu finden oder in die richtige Richtung gewiesen zu werden. Sofern diese Fertigkeiten nicht unter herausfordernden oder gefährlichen Umständen ausgeführt werden, werden keine Erfahrungsproben für Fertigkeitswürfe vergeben, die während der Forschung an anderen Fertigkeiten gemacht werden.
 
-Nachdem die erforderliche Zeit verbracht wurde, mache einen Erfahrungswurf wie normal. Wenn der Wurf gelingt, erhöhe die Fertigkeit um 1W6–2 Punkte, oder wähle, 2 zum aktuellen Fertigkeitswert zu addieren. Im Gegensatz zum Training erlaubt Forschung deinem Charakter, eine Fertigkeit über 75% hinaus zu verbessern, obwohl dein Spielleiter von dir verlangen kann, ab und zu „ins Feld“ zu gehen, um Buchwissen mit praktischer Erfahrung abzuwechseln.
+Mache nach Ablauf der erforderlichen Zeit wie gewohnt einen Erfahrungswurf. Wenn der Wurf erfolgreich ist, steigere die Fertigkeit um 1W6–2 Punkte oder entscheide dich, 2 zum aktuellen Fertigkeitswert zu addieren. Im Gegensatz zum Training erlaubt Forschung deinem Charakter, sich in einer Fertigkeit über 75 % hinaus zu verbessern, obwohl dein Spielleiter von dir verlangen kann, ab und zu „ins Feld“ zu gehen, um Buchwissen mit praktischer Erfahrung abzuwechseln.
 
-### Charakteristika steigern
+### Eigenschaften steigern
 
-Fertigkeiten sind nicht das Einzige an deinem Charakter, das sich verbessern kann. Dein Charakter kann seine Charakteristika durch verschiedene Mittel verbessern: MA kann durch das Bestehen gegen ein höheres MA gesteigert werden, und STÄ, KON, GEW und CHA können durch Training und Forschung gesteigert werden. INT und GRÖ erhöhen sich nur selten und ändern sich in den meisten Settings nicht viel, obwohl dein Spielleiter Erhöhungen basierend auf dem Setting der Kampagne oder den während (oder zwischen) Abenteuern ergriffenen Maßnahmen erlauben kann.
+Fertigkeiten sind nicht die einzigen Dinge an deinem Charakter, die sich verbessern können. Dein Charakter kann seine Eigenschaften durch eine Vielzahl von Mitteln verbessern: MAC kann durch das Messen an einer höheren MAC steigen, und STÄ, KON, GES und CHA können durch Training und Forschung steigen. INT und STUR steigen nur selten und ändern sich in den meisten Settings nicht viel, obwohl dein Spielleiter Erhöhungen basierend auf dem Setting der Kampagne oder den während (oder zwischen) Abenteuern unternommenen Aktionen erlauben kann.
 
-Jede Erhöhung der Charakteristika führt dazu, dass alle zugehörigen Attribute entsprechend steigen, einschließlich Charakteristikwürfe, Schadensmodifikator, Erfahrungsbonus, Trefferpunkte (und Gesamttrefferpunkte und/oder Trefferpunkte pro Körperteil), schwere Wunden, Erschöpfungspunkte, Kraftpunkte usw., wie angemessen. Geistige Stabilitätspunkte werden nicht erhöht, obwohl der temporäre Schwellenwert für geistige Stabilität angehoben wird.
+Alle Erhöhungen von Eigenschaften führen dazu, dass alle zugehörigen Attribute entsprechend steigen, einschließlich Eigenschaftswürfen, Schadensmodifikator, Erfahrungsmodifikator, Trefferpunkten (und gesamten Trefferpunkten und/oder Trefferpunkten nach Ort), schweren Wunden, Ermüdungspunkten, Magiepunkten usw., wie angemessen. Geistige Gesundheitspunkte werden nicht erhöht, aber die Schwelle für vorübergehende geistige Gesundheit.
 
-Im Allgemeinen können Charakteristika außer MA nicht über das Artmaximum hinaus verbessert werden (für Menschen ist dies 21), aber für Spiele mit epischem oder übermenschlichem Kraftniveau wird dieses Limit ignoriert.
+Im Allgemeinen können Eigenschaften außer MAC sich nicht über das Speziesmaximum (für Menschen ist dies 21) hinaus verbessern, aber für Spiele mit epischem oder übermenschlichem Kraftniveau wird dieses Limit ignoriert.
 
-### MA-Erhöhungen
+### MAC-Steigerungen
 
-Wenn dein Charakter sein MA erfolgreich gegen einen Gegner mit gleichem oder höherem MA in einem Widerstandswurf einsetzt (wenn ein Wurf 50% oder weniger zum Erfolg erfordert), kann er genau wie bei einer Fertigkeitssteigerung auf einen MA-Gewinn prüfen und ein Häkchen in das Kontrollkästchen neben MA auf dem Charakterbogen setzen.
+Wenn dein Charakter seine MAC erfolgreich gegen einen Gegner mit gleicher oder höherer MAC in einem Widerstandswurf misst (wenn ein Wurf 50 % oder weniger zum Erfolg beträgt), kann er auf einen MAC-Gewinn prüfen, genau wie bei einem Fertigkeitsgewinn, indem er ein Häkchen in das Kästchen neben MAC auf dem Charakterbogen setzt.
 
-Um zu bestimmen, ob sich das MA deines Charakters verbessert, addiere sein maximal mögliches gewürfeltes MA (18 für Menschen) plus sein minimal würfelbares MA (3 für Menschen, wenn das Standard-Charaktererschaffungssystem verwendet wird – betrachte jeden Bonus von +6 als ein einzelnes W6 für andere Charaktererschaffungssysteme). Das Ergebnis ist 21 für die meisten Menschen (18+3=21). Subtrahiere den Betrag des aktuellen MA deines Charakters von dieser Summe. Multipliziere den Rest mit ×5 und versuche, dieses Ergebnis oder weniger auf W100 zu würfeln.
+Um zu bestimmen, ob sich die MAC deines Charakters verbessert, addiere ihre maximal mögliche gewürfelte MAC (18 für Menschen) plus ihre minimal würfelbare MAC (3 für Menschen, wenn das Standard-Charaktererschaffungssystem verwendet wird – betrachte jeden Bonus von +6 als einen einzelnen W6 für andere Charaktererschaffungssysteme). Das Ergebnis ist 21 für die meisten Menschen (18+3=21). Subtrahiere den Betrag der aktuellen MAC deines Charakters von dieser Summe. Multipliziere den Rest mit ×5 und versuche, dieses Ergebnis oder weniger auf W100 zu würfeln.
 
-Wenn der Wurf erfolgreich ist, erhöhe das MA deines Charakters um 1W3–1. Dies könnte bedeuten, dass es gar keinen Gewinn gibt (1–1=0) oder eine Erhöhung um 2 Punkte (3–1=2). Alternativ kannst du dich entscheiden, nicht zu würfeln und einfach +1 zum MA deines Charakters zu addieren. Wie bei einem Erfahrungsscheck wähle vor dem Würfeln.
+Wenn der Wurf erfolgreich ist, erhöhe die MAC deines Charakters um 1W3–1. Dies könnte bedeuten, gar keinen Gewinn (1–1=0) oder eine Erhöhung um 2 Punkte (3–1=2). Alternativ kannst du wählen, nicht zu würfeln und einfach +1 zur MAC deines Charakters zu addieren. Wie bei einer Erfahrungsprobe, wähle vor dem Würfeln.
 
-### Charakteristikerhöhungen
+### Eigenschaftssteigerungen
 
-Dein Charakter kann seine Charakteristika trainieren, um sie zu verbessern. Die genaue Methode variiert je nach Setting – eine mittelalterliche Welt könnte erfordern, dass dein Charakter seine STÄ durch das Heben schwerer Gewichte, körperliche Arbeit usw. steigert, während ein futuristisches Setting muskuläre Augmentationschirurgie nutzen könnte. Das Steigern von STÄ oder KON durch Training oder Forschung ist durch den höchsten Wert der ursprünglichen STÄ, KON oder GRÖ des Charakters begrenzt. Wenn beispielsweise der höchste Wert der drei eine GRÖ von 14 ist, können weder STÄ noch KON durch Training über diese Zahl hinaus gesteigert werden.
+Dein Charakter kann seine Eigenschaften trainieren, um sie zu verbessern. Die exakte Methode variiert je nach Setting – eine mittelalterliche Welt könnte erfordern, dass dein Charakter seine STÄ durch das Heben schwerer Gewichte, manuelle Arbeit usw. steigert, während ein futuristisches Setting muskuläre Augmentationschirurgie nutzen könnte. Das Steigern von STÄ oder KON durch Training oder Forschung ist durch den höchsten Wert der ursprünglichen STÄ, KON oder STUR des Charakters begrenzt. Wenn beispielsweise der höchste Wert der drei eine STUR von 14 ist, können weder STÄ noch KON durch Training über diese Zahl hinaus gesteigert werden.
 
-Alle Versuche, eine Erhöhung der GEW- oder CHA-Charakteristika zu trainieren oder zu erforschen, sind auf das Eineinhalbfache der ursprünglichen Charakteristik begrenzt (aufgerundet).
+Alle Versuche, eine Erhöhung der Eigenschaften GES oder CHA zu trainieren oder zu erforschen, sind auf das Anderthalbfache der ursprünglichen Eigenschaft begrenzt (aufrunden).
 
-**Zum Beispiel:** Dein Charakter mit GEW 13 kann seine GEW bis auf 20 trainieren oder erforschen (1/2 von 13 aufgerundet ist 7, und 13+7=20).
+**Zum Beispiel:** Dein Charakter mit GES 13 kann seine GES bis auf 20 trainieren oder erforschen (1/2 von 13 aufgerundet ergibt 7, und 13+7=20).
 
-### Charakteristikerhöhung durch Training
+### Eigenschaftssteigerung durch Training
 
-Dein Charakter kann versuchen, seine Charakteristika zu trainieren, wobei er einen Zeitaufwand in Stunden benötigt, der auf dem Wert der aktuellen Charakteristik basiert. Die genaue Zahl ist der aktuelle Wert für die Charakteristik multipliziert mit ×25. Diese Art von Training ist rigoros und erfordert für den gesamten Zeitraum Hingabe: man kann sie nicht unterbrechen, um Abenteuer zu erleben oder mehr als eine Handvoll Stunden am Tag für etwas anderes aufzuwenden.
+Dein Charakter kann versuchen, seine Eigenschaften zu trainieren, was eine Zeitdauer in Stunden in Anspruch nimmt, die auf dem Wert der aktuellen Eigenschaft basiert. Die exakte Zahl ist der aktuelle Wert für die Eigenschaft multipliziert mit ×25. Diese Art von Training ist rigoros und erfordert Hingabe für den gesamten Zeitraum: man kann es nicht unterbrechen, um auf Abenteuer zu gehen oder mehr als eine Handvoll Stunden am Tag für etwas anderes aufzuwenden.
 
-Am Ende des Trainingszeitraums würfle 1W3–1 und addiere das Ergebnis zum aktuellen Wert dieser Charakteristik.
+Am Ende des Trainingszeitraums würfle 1W3–1 und addiere das Ergebnis zum aktuellen Wert dieser Eigenschaft.
 
-**Zum Beispiel:** Wenn die STÄ deines Charakters 12 ist, beträgt die Gesamtzahl der erforderlichen Stunden zur Erhöhung seiner STÄ 300 Stunden (12×25=300). Am Ende von 300 Stunden Studium würfelst du 1W3–1, mit einem Ergebnis von 1 (der Wurf ist eine 2, also 2–1=1). Die STÄ deines Charakters ist nun 13.
+**Zum Beispiel:** Wenn die STÄ deines Charakters 12 ist, beträgt die Gesamtzahl der benötigten Stunden zur Steigerung der STÄ 300 Stunden (12×25=300). Am Ende von 300 Stunden Studium würfelst du 1W3–1, mit einem Ergebnis von 1 (der Wurf ist eine 2, also 2–1=1). Die STÄ deines Charakters ist jetzt 13.
 
-Du und dein Spielleiter sollten zusammenarbeiten, um die genaue Art des erforderlichen Trainings zu bestimmen, um diesen Zuwachs zu erzielen. Dein Spielleiter kann erlauben, GRÖ zu trainieren, was eine radikale Änderung in Ernährung oder Übung darstellt, um Masse zu erhöhen oder zu verringern (falls nicht die Höhe, die normalerweise ohne Operation nicht modifiziert werden kann).
+Du und dein Spielleiter solltet zusammenarbeiten, um die exakte Art des Trainings zu bestimmen, die erforderlich ist, um diese Steigerung zu erhalten. Dein Spielleiter kann erlauben, STUR zu trainieren, was eine radikale Änderung der Ernährung oder Übung darstellt, um die Masse zu erhöhen oder zu verringern (wenn nicht die Körpergröße, die normalerweise ohne Chirurgie nicht modifiziert werden kann).
 
-> ### Altern und Untätigkeit (Option)
-> 
-> Während dein Charakter älter und erfahrener wird, verbessern sich seine Fertigkeiten, aber der Kompromiss ist, dass seine Charakteristika manchmal abnehmen können, insbesondere wenn sie nicht aktiv Abenteuer erleben oder sich selbst verbessern. Wenn du das Spiel als älterer Charakter beginnst, verwende die Richtlinien in **Schritt Drei**, aber nach Spielbeginn verwende diese Regeln.
-> 
-> Wenn dein Charakter 41 Jahre alt wird und jedes Jahr danach, würfle 2W6 auf der Tabelle **Charakteristikpunktverlust**, um zu bestimmen, wie viele Würfe auf der Charakteristik-Tabelle zu machen sind.
-> 
-> ##### Charakteristikpunktverlust
-> 
+> ### Altern und Inaktivität (Option)
+>
+> Wenn dein Charakter älter und erfahrener wird, verbessern sich seine Fertigkeiten, aber der Kompromiss ist, dass manchmal seine Eigenschaften abnehmen können, insbesondere wenn er nicht aktiv auf Abenteuern ist oder sich verbessert. Wenn du das Spiel als älterer Charakter beginnst, verwende die Richtlinien in **Schritt Drei**, aber nach Spielbeginn verwende diese Regeln.
+>
+> Wenn dein Charakter das Alter von 41 Jahren erreicht und jedes Jahr danach, würfle 2W6 auf der Tabelle **Eigenschaftspunktverlust**, um zu bestimmen, wie viele Würfe auf der Eigenschaftstabelle zu machen sind.
+>
+> ##### Eigenschaftspunktverlust
+>
 > | 2W6 | Punkte verloren |
 > | :---- | :---- |
 > | 2 | 4 |
@@ -622,21 +621,21 @@ Du und dein Spielleiter sollten zusammenarbeiten, um die genaue Art des erforder
 > | 10 | 2 |
 > | 11 | 3 |
 > | 12 | 4 |
-> 
-> Nach Bestimmung der Anzahl der verlorenen Punkte würfle 1W10 für jeden verlorenen Punkt auf der **Charakteristik**-Tabelle. Wenn der zweite Wurf „—“ ergibt, verliert dein Charakter keinen Charakteristikpunkt. Zweimaliges Würfeln für eine Charakteristik wird kombiniert, Verluste könnten also –2, –3 usw. sein.
-> 
-> ##### Charakteristik
-> 
-> | 1W10 | Charakteristik |
+>
+> Nach Bestimmung der Anzahl der verlorenen Punkte würfle 1W10 für jeden verlorenen Punkt auf der **Eigenschaftstabelle**. Wenn der zweite Wurf „—“ ergibt, verliert dein Charakter keinen Eigenschaftspunkt. Zweimal für eine Eigenschaft zu würfeln, wird kombiniert, daher könnten Verluste –2, –3 usw. betragen.
+>
+> ##### Eigenschaft
+>
+> | 1W10 | Eigenschaft |
 > | :---- | :---- |
 > | 1–2 | –1 STÄ |
 > | 3–4 | –1 KON |
-> | 5–6 | –1 GEW |
+> | 5–6 | –1 GES |
 > | 7–8 | –1 CHA |
 > | 9–10 | — |
-> 
-> Wenn eine Charakteristik auf 0 gesenkt wird, stirbt dein Charakter, selbst wenn die Charakteristik CHA ist. Eine gesenkte INT stellt Vergesslichkeit oder Schwierigkeiten beim Fokussieren dar. MA und BILD nehmen jedoch nicht mit dem Altern ab.
-> 
-> Diese Regeln setzen menschliche Charaktere mit einer Lebensspanne von etwa 80–100 Jahren voraus. Diese Verluste können mit Charakteristiktraining und Selbstfürsorge ausgeglichen werden. Wenn dein Charakter außergewöhnliche Sorgfalt walten lässt oder Zugang zu Quellen der Langlebigkeit hat (außergewöhnliche Medikamente, Anti-Aging-Behandlungen, Zaubertränke usw.), ignoriere diese Regeln. Außerirdische oder andere nicht-menschliche Kreaturen können die Auswirkungen von Altern und Untätigkeit anders erfahren oder andere Auswirkungen außer der Charakteristikdegradation haben.
-> 
-> Erhöhe für alle 10 Jahre Spielzeit seit der Erschaffung deines Charakters seine BILD-Charakteristik um +1, um durch das allgemeine Leben gelernte Erfahrung darzustellen. Dies modifiziert den Wissenswurf (BILD×5), beeinflusst aber nicht Fertigkeitspunkte oder Fertigkeiten, die auf BILD basieren. Wenn dein Charakter in dieser Zeit nicht mit der Außenwelt interagiert, wird BILD nicht verbessert.
+>
+> Wenn eine Eigenschaft auf 0 gesenkt wird, stirbt dein Charakter, selbst wenn die Eigenschaft CHA ist. Eine gesenkte INT stellt Vergesslichkeit oder Schwierigkeiten bei der Konzentration dar. MAC und EDU nehmen jedoch mit dem Altern nicht ab.
+>
+> Diese Regeln gehen von menschlichen Charakteren mit einer Lebensdauer von etwa 80–100 Jahren aus. Diese Verluste können durch Eigenschaftstraining und Selbstfürsorge ausgeglichen werden. Wenn dein Charakter außergewöhnlich gut auf sich achtet oder Zugang zu Quellen der Langlebigkeit hat (außergewöhnliche Medikamente, Anti-Aging-Behandlungen, Zaubertränke usw.), ignoriere diese Regeln. Außerirdische oder andere nicht-menschliche Kreaturen können die Auswirkungen von Altern und Inaktivität anders erleben oder andere Auswirkungen als Eigenschaftsdegradation haben.
+>
+> Erhöhe für alle 10 Jahre Spielzeit seit der Erschaffung deines Charakters seine EDU-Eigenschaft um +1, um durch das allgemeine Leben erlernte Erfahrung darzustellen. Dies modifiziert den Wissenswurf (EDU×5), beeinflusst aber keine Fertigkeitspunkte oder irgendwelche auf EDU basierenden Fertigkeiten. Wenn dein Charakter in dieser Zeit nicht mit der Außenwelt interagiert, wird EDU nicht verbessert.
