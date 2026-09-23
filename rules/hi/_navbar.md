@@ -2,3 +2,5 @@
 - [कैसे करें](HowTo.md)
 - [परिवर्तन लॉग](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)
+
+<!-- retranslate-trigger -->

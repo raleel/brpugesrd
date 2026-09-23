@@ -2,3 +2,5 @@
 - [Hướng dẫn](HowTo.md)
 - [Nhật ký thay đổi](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)
+
+<!-- retranslate-trigger -->
