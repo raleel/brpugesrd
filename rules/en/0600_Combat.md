@@ -739,5 +739,3 @@ At this point, there is little reason to continue using combat time, so everyone
 Her wounds and injuries attended to for the moment, Yvarre reaches into her waistband to pull out the amulet. It seems to twist in her hands, as she does so, so she lets it go. As it hits the ground, the amulet breaks into dozens of tiny jewel-eyed golden snakes that fall to the ground and slither away.
 
 All that, and for nothing\!
-
-<!-- retranslate-trigger -->

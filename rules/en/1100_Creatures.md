@@ -1981,5 +1981,3 @@ It’s important, though, to always remember the main rule: have fun and make su
 > | 94–96 | 39 | 32 | 24 | 16 |
 > | 97–99 | 40 | 33 | 25 | 17 |
 > | 100, etc. | 41 | 34 | 26 | 17 |
-
-<!-- retranslate-trigger -->
