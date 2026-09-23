@@ -97,6 +97,42 @@ function getErrorStatusCode(error) {
 class TruncatedResponseError extends Error {}
 
 /**
+ * Thrown when a translated response contains a placeholder token (matching
+ * [[CODEBLOCKn]] or [[INLINECODEn]]) that was never actually present in the
+ * protected input sent to the model. Despite SYSTEM_INSTRUCTION explicitly
+ * forbidding this, the model occasionally "invents" one of these tokens
+ * around plain, unbacktick'd dice notation or other text in the running
+ * prose (most often seen in ar/fa/he/hi/ja/vi output) instead of
+ * translating/localizing it normally. Because restoreCodeBlocks() only
+ * knows how to substitute *real* placeholders, an invented one is left in
+ * the final file verbatim -- and worse, the real content it stood in for
+ * (e.g. a dice formula like "1d3") is gone, not just cosmetically ugly.
+ * Treated as a retryable error (see translateWithRetry) since re-prompting
+ * the same chunk fresh often avoids the hallucination on a later attempt.
+ */
+class PhantomPlaceholderError extends Error {
+  constructor(message, phantomTokens) {
+    super(message);
+    this.name = "PhantomPlaceholderError";
+    this.phantomTokens = phantomTokens;
+  }
+}
+
+const PLACEHOLDER_TOKEN_REGEX = /\[\[(?:CODEBLOCK|INLINECODE)\d+\]\]/g;
+
+/**
+ * Returns the set of placeholder-shaped tokens present in `outputText` that
+ * do not appear anywhere in `inputText`. A non-empty result means the model
+ * fabricated at least one protection token that was never actually part of
+ * the protected source it was given.
+ */
+function findPhantomPlaceholderTokens(inputText, outputText) {
+  const validTokens = new Set(inputText.match(PLACEHOLDER_TOKEN_REGEX) || []);
+  const outputTokens = outputText.match(PLACEHOLDER_TOKEN_REGEX) || [];
+  return [...new Set(outputTokens.filter((token) => !validTokens.has(token)))];
+}
+
+/**
  * Reads the finish reason off either a live SDK GenerateContentResponse
  * (ai.models.generateContent) or a raw deserialized inline batch response
  * (ai.batches.get) -- both expose it at candidates[0].finishReason.
@@ -608,14 +644,32 @@ async function translateOne(ai, protectedText, lang) {
     throw new Error("Empty response from Gemini API");
   }
 
+  const phantomTokens = findPhantomPlaceholderTokens(protectedText, text);
+  if (phantomTokens.length > 0) {
+    // The model invented one or more placeholder tokens that were never in
+    // the input it was given -- almost always plain dice notation (e.g.
+    // "1d3") that it wrapped in brackets instead of translating normally,
+    // silently discarding the real value. Reject this response so the
+    // retry loop re-prompts instead of writing corrupted output.
+    throw new PhantomPlaceholderError(
+      `Gemini response for "${lang}" invented placeholder token(s) not present in the source ` +
+      `(${phantomTokens.join(", ")}); the model likely wrapped plain text or dice notation in a ` +
+      "fake protection token, discarding the real content.",
+      phantomTokens
+    );
+  }
+
   return text;
 }
 
 /**
  * Calls translateOne with bounded exponential backoff + jitter, so
  * transient Google server overloads (503 UNAVAILABLE) or brief 429 rate
- * spikes self-heal instead of failing the whole language immediately.
- * Non-retryable errors (anything other than 429/503) fail fast.
+ * spikes self-heal instead of failing the whole language immediately, and
+ * so a PhantomPlaceholderError (see above) gets a few fresh attempts before
+ * giving up. Non-retryable errors (anything else, including
+ * TruncatedResponseError, which callers handle by splitting instead) fail
+ * fast.
  */
 async function translateWithRetry(ai, protectedText, lang) {
   let lastError;
@@ -626,7 +680,7 @@ async function translateWithRetry(ai, protectedText, lang) {
     } catch (error) {
       lastError = error;
       const statusCode = getErrorStatusCode(error);
-      const isRetryable = statusCode === 503 || statusCode === 429;
+      const isRetryable = statusCode === 503 || statusCode === 429 || error instanceof PhantomPlaceholderError;
       const isLastAttempt = attempt === MAX_ATTEMPTS - 1;
 
       if (!isRetryable || isLastAttempt) {
@@ -637,8 +691,9 @@ async function translateWithRetry(ai, protectedText, lang) {
       const jitterMs = 100 + Math.random() * 400; // 100-500ms
       const delayMs = backoffMs + jitterMs;
 
+      const errorLabel = error instanceof PhantomPlaceholderError ? "phantom placeholder token" : `status ${statusCode}`;
       console.warn(
-        `Retryable error (status ${statusCode}) translating into "${lang}" ` +
+        `Retryable error (${errorLabel}) translating into "${lang}" ` +
         `(attempt ${attempt + 1}/${MAX_ATTEMPTS}). Retrying in ${Math.round(delayMs)}ms...`
       );
       await sleep(delayMs);
@@ -954,7 +1009,21 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
           `Truncated response from Gemini batch API (${customId}): finishReason=MAX_TOKENS`
         );
       } else if (text && text.trim()) {
-        langState.chunkTexts[chunkIndex] = text;
+        const phantomTokens = findPhantomPlaceholderTokens(chunks[chunkIndex], text);
+        if (phantomTokens.length > 0) {
+          // Same fabricated-token problem as translateOne (see
+          // PhantomPlaceholderError) -- reject this chunk's batch result so
+          // the "batch result unusable, retry sequentially" fallback below
+          // re-prompts it via translateChunkRobustly/translateWithRetry,
+          // which retries fresh attempts instead of writing corrupted text.
+          langState.firstError ||= new PhantomPlaceholderError(
+            `Batch response for ${customId} invented placeholder token(s) not present in the source ` +
+            `(${phantomTokens.join(", ")}).`,
+            phantomTokens
+          );
+        } else {
+          langState.chunkTexts[chunkIndex] = text;
+        }
       } else {
         if (!loggedRawSample) {
           // First empty result in this batch: dump the raw response once so
