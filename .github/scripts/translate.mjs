@@ -507,6 +507,44 @@ function languageNeedsFullBackfill(lang) {
 }
 
 /**
+ * Returns the Unix timestamp (seconds) of the most recent commit that
+ * touched `filePath`, or null if the file has no commit history (e.g. it
+ * isn't tracked yet, or the shallow history doesn't reach far enough
+ * back). Requires `fetch-depth: 0` in the calling workflow so full history
+ * is available.
+ */
+function lastCommitTimestamp(filePath) {
+  try {
+    const output = git(["log", "-1", "--format=%ct", "--", filePath]).trim();
+    if (!output) return null;
+    const parsed = Number.parseInt(output, 10);
+    return Number.isNaN(parsed) ? null : parsed;
+  } catch (error) {
+    console.error(`git log failed for ${filePath}: ${error.message}`);
+    return null;
+  }
+}
+
+/**
+ * True if `targetPath` (an existing translated file) is stale relative to
+ * `englishPath` -- i.e. the English source has been committed more
+ * recently than the translation was. This is what lets a content-only
+ * edit (typo fixes, broken-link fixes, etc.) actually propagate to every
+ * already-translated language instead of being silently skipped forever
+ * just because a file with that name happens to exist.
+ *
+ * If either side's commit history can't be determined, we fail safe and
+ * treat the translation as stale (better to spend an extra API call than
+ * to silently skip a real update).
+ */
+function isTranslationStale(englishPath, targetPath) {
+  const sourceTime = lastCommitTimestamp(englishPath);
+  const targetTime = lastCommitTimestamp(targetPath);
+  if (sourceTime === null || targetTime === null) return true;
+  return sourceTime > targetTime;
+}
+
+/**
  * True when this run was triggered manually via workflow_dispatch AND the
  * user selected (or defaulted to) the "all" mode. A manual dispatch of
  * "changed-only" should behave exactly like a push -- only touch whatever
@@ -1066,17 +1104,21 @@ async function translateFile(ai, englishPath) {
     );
   }
 
-  // Skip languages that already have a translated file, unless the caller
+  // Skip languages whose translated file already exists AND is at least as
+  // recent (by last commit) as the English source, unless the caller
   // explicitly asks to redo them. This lets a manual "translate everything"
   // backfill run pick up only what's actually missing (e.g. because an
   // earlier run hit a rate limit or quota error) instead of burning API
-  // quota re-translating files that already succeeded.
+  // quota re-translating files that already succeeded, while still letting
+  // a genuine content edit to the English source (typo fixes, broken-link
+  // fixes, etc.) propagate to every already-translated language instead of
+  // being skipped forever just because a same-named file happens to exist.
   const forceRetranslate = process.env.FORCE_RETRANSLATE === "true";
 
   const languagesToTranslate = TARGET_LANGUAGES.filter((lang) => {
     const targetPath = targetPathFor(englishPath, lang);
-    if (!forceRetranslate && fs.existsSync(targetPath)) {
-      console.log(`Skipping ${targetPath} (already translated; set FORCE_RETRANSLATE=true to redo).`);
+    if (!forceRetranslate && fs.existsSync(targetPath) && !isTranslationStale(englishPath, targetPath)) {
+      console.log(`Skipping ${targetPath} (already translated and up to date; set FORCE_RETRANSLATE=true to redo).`);
       return false;
     }
     return true;
