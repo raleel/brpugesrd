@@ -1,12 +1,12 @@
 # Nhật ký thay đổi
 
 ## V0.3.0
-*26 tháng 10, 23*
+*Ngày 26 tháng 10 năm 2023*
 
 ### Tính năng
 
-- Thêm plugin fontawesome cho các biểu tượng miễn phí
-- Thêm plugin Material Icons cho các biểu tượng miễn phí
+- Đã thêm plugin fontawesome cho các biểu tượng miễn phí
+- Đã thêm plugin Material Icons cho các biểu tượng miễn phí
 
 ### Sửa lỗi
 
@@ -14,13 +14,13 @@
 
 ---
 
-*23 tháng 10, 23*
+*Ngày 23 tháng 10 năm 2023*
 
 ### Tính năng
 
-- Thêm Plugin Cảnh báo Linh hoạt (Flexible Alerts)
-- Cập nhật Sample.md với các tùy chọn định dạng mới từ Flexible Alerts
-- Thêm hướng dẫn thay đổi phông chữ Tiêu đề & Trang web trong mục **Cách thực hiện**
+- Đã thêm Plugin Cảnh báo Linh hoạt (Flexible Alerts)
+- Cập nhật Sample.md với các tùy chọn định dạng mới từ Cảnh báo Linh hoạt
+- Đã thêm hướng dẫn thay đổi phông chữ Tiêu đề & Trang web trong phần **Hướng dẫn**
 
 ### Sửa lỗi
 
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*20 tháng 10, 23*
+*Ngày 20 tháng 10 năm 2023*
 
 ### Tính năng
 
-- Thêm bước (8) vào hướng dẫn để đảm bảo tệp ".nojekyll" được tạo.
+- Đã thêm bước (8) trong hướng dẫn để đảm bảo tệp ".nojekyll" được tạo.
 
 ### Sửa lỗi
 
@@ -45,7 +45,7 @@
 
 ### Tính năng
 
-- Thêm "Hướng dẫn Cách thực hiện"
+- Đã thêm "Hướng dẫn sử dụng"
 
 ### Sửa lỗi
 
@@ -57,9 +57,9 @@
 
 ### Tính năng
 
-- Thêm chức năng chuyển đổi chế độ Sáng/Tối
-- Cải thiện Điều hướng: Menu Hamburger chuyển sang góc trên cùng bên trái màn hình (từ góc dưới cùng bên trái)
-- Cải thiện khả năng đọc: Thêm phông chữ Open Sans & Orbitron
+- Đã thêm chức năng chuyển đổi chế độ Sáng/Tối (Từ )
+- Cải thiện Điều hướng: Biểu tượng menu (hamburger) đã được di chuyển lên góc trên bên trái màn hình (thay vì góc dưới bên trái)
+- Cải thiện khả năng đọc: Đã thêm Phông chữ Open Sans & Orbitron
 
 ### Sửa lỗi
 
