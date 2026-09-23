@@ -2,21 +2,21 @@
 
 ORC Content Document
 
-## クレジット
+## Credits
 
-Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willisが作成したBasic Roleplayingシステムに基づく。
+Steve Perrin、Steve Henderson、Warren James、Greg Stafford、Sandy Petersen、Ray Turney、Lynn Willisによって作成されたBasic Roleplayingシステムに基づく。
 
-**著者** Jason Durall, Steve Perrin
+**著者** Jason Durall および Steve Perrin
 
 **プロデューサー** Neil Robinson
 
-**追加クレジット** Daria Pilarczyk, Rick Meints, Michael O’Brien, Jeff Richard
+**追加クレジット** Daria Pilarczyk、Rick Meints、Michael O’Brien、および Jeff Richard
 
-**スペシャルサンクス** Ken St. Andre, Ken Austin, William Barton, Bill Dunn, Ken Finlayson, Mark L. Gambler, Sam Johnson, William Jones, Rodney Leary, Ben Monroe, Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison, Richard Watts
+**スペシャルサンクス** Ken St. Andre、Ken Austin、William Barton、Bill Dunn、Ken Finlayson、Mark L. Gambler、Sam Johnson、William Jones、Rodney Leary、Ben Monroe、Gordon Monson、Sarah Newton、Sam Shirley、Mark Morrison、および Richard Watts
 
 ## 出版データ
 
-米国にてChaosium Inc.より出版。
+Chaosium Inc.によりアメリカ合衆国で出版
 
 3450 Wooddale Court, Ann Arbor, MI 48104
 
@@ -34,10 +34,10 @@ Chaosium Inc. and the Chaosium logo are registered trademarks of Chaosium Inc.
 
 ## ORC通知
 
-本製品は、米国議会図書館にTX 9-307-067として登録され、[www.chaosium.com/orclicense](https://www.chaosium.com/orclicense)、[www.azoralaw.com/orclicense](https://www.azoralaw.com/orclicense)、[www.paizo.com/orclicense](https://www.paizo.com/orclicense)などを含む各オンライン場所で利用可能なORCライセンスに基づきライセンス供与されています。同ライセンスに定められている通り、あらゆる保証は免責されます。本製品はChaosiumによるオリジナル作品です。
+本製品は、米国議会図書館にてTX 9-307-067として登録され、[www.chaosium.com/orclicense](https://www.chaosium.com/orclicense)、[www.azoralaw.com/orclicense](https://www.azoralaw.com/orclicense)、[www.paizo.com/orclicense](https://paizo.com/orclicense)などを含むオンライン上の各所で利用可能なORCライセンスの下でライセンスされています。同ライセンスで定められている通り、あらゆる保証は否認されます。本製品はChaosiumのオリジナル作品です。
 
-当社のORCコンテンツを使用する場合、以下のようにクレジットを表記してください：
+当社のORCコンテンツを使用する場合は、以下のようにクレジットを記載してください。
 
 ![A red and white logo Description automatically generated](/_media/BRP-UGE-Logo.png)
 
-ごく一部の例外（商標登録された用語）を除き、『BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE』のテキストは、ORCライセンスに基づき個人および商用利用が可能です。
+ごく一部の例外（商標登録された用語）を除き、BASIC ROLEPLAYING: UNIVERSAL GAME ENGINEのテキストは、ORCライセンスの下で個人的および商業的な利用が可能です。
