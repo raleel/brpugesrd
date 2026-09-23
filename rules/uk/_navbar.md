@@ -1,4 +1,4 @@
 - [Головна](/)
-- [Як грати](HowTo.md)
-- [Журнал змін](Changelog.md)
+- [Як Грати](HowTo.md)
+- [Журнал Змін](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)

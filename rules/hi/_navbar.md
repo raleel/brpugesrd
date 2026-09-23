@@ -1,4 +1,4 @@
 - [होम](/)
 - [कैसे करें](HowTo.md)
-- [चेंजलॉग](Changelog.md)
+- [परिवर्तन लॉग](Changelog.md)
 - [GitHub](https://github.com/raleel/brpugesrd)
