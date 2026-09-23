@@ -15,7 +15,7 @@ on:
         type: boolean
         default: false
       lang:
-        description: 'Restrict to a single language code (e.g. "es"). Leave blank / "all" for every language.'
+        description: 'Restrict to one or more language codes, comma separated (e.g. "es" or "fr,de,ja"). Leave blank / "all" for every language.'
         type: string
         default: ''
       post_process_only:
