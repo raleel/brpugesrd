@@ -87,6 +87,28 @@ function getErrorStatusCode(error) {
   return null;
 }
 
+/**
+ * Thrown when a Gemini response comes back with finishReason "MAX_TOKENS"
+ * -- i.e. the model ran out of output budget mid-translation. Distinct
+ * from a generic empty-response error so callers can react by splitting
+ * the request into smaller pieces instead of just retrying the identical
+ * (too-large) request, which would likely just truncate again.
+ */
+class TruncatedResponseError extends Error {}
+
+/**
+ * Reads the finish reason off either a live SDK GenerateContentResponse
+ * (ai.models.generateContent) or a raw deserialized inline batch response
+ * (ai.batches.get) -- both expose it at candidates[0].finishReason.
+ */
+function getFinishReason(response) {
+  const candidates = response?.candidates;
+  if (Array.isArray(candidates) && candidates[0]) {
+    return candidates[0].finishReason;
+  }
+  return undefined;
+}
+
 const SYSTEM_INSTRUCTION =
   "You are a professional tabletop roleplaying game (TTRPG) localization engine. " +
   "Translate the provided Markdown document into the target language specified by the language code.\n\n" +
@@ -569,6 +591,18 @@ async function translateOne(ai, protectedText, lang) {
     },
   });
 
+  if (getFinishReason(response) === "MAX_TOKENS") {
+    // The model hit its output token budget mid-translation. Whatever text
+    // came back is truncated (often mid-table/mid-sentence); accepting it
+    // would silently write a corrupted file. Throw a distinct error type so
+    // translateChunkRobustly can react by splitting this chunk further
+    // instead of just retrying the identical (too-large) request.
+    throw new TruncatedResponseError(
+      `Gemini response for "${lang}" was truncated (finishReason=MAX_TOKENS); ` +
+      `translated output exceeded the ${MAX_OUTPUT_TOKENS}-token budget for this chunk.`
+    );
+  }
+
   const text = extractTextFromResponse(response);
   if (!text || !text.trim()) {
     throw new Error("Empty response from Gemini API");
@@ -613,6 +647,148 @@ async function translateWithRetry(ai, protectedText, lang) {
 
   // Unreachable, but keeps TypeScript/linters happy about a return path.
   throw lastError;
+}
+
+const TABLE_ROW_REGEX = /^[ \t]*\|.*\|[ \t]*$/;
+const TABLE_SEPARATOR_REGEX = /^[ \t]*\|[ \t:|-]+\|[ \t]*$/;
+
+/**
+ * Finds the largest markdown table in `text` (a header row immediately
+ * followed by a `|---|...` separator row, then 1+ body rows) and splits its
+ * body rows roughly in half at a row boundary, repeating the header +
+ * separator at the top of both halves so each half is an independently
+ * valid, translatable table fragment. Used as a last-resort fallback when
+ * a chunk has no heading to split on at all (e.g. one giant equipment or
+ * bestiary table under a single heading) and still gets truncated.
+ * Returns null if no splittable table is found (fewer than 4 body rows).
+ */
+function splitTableInHalf(text) {
+  const lines = text.split("\n");
+
+  let headerIndex = -1;
+  for (let i = 0; i < lines.length - 1; i += 1) {
+    if (TABLE_ROW_REGEX.test(lines[i]) && TABLE_SEPARATOR_REGEX.test(lines[i + 1])) {
+      headerIndex = i;
+      break;
+    }
+  }
+  if (headerIndex === -1) return null;
+
+  const header = lines[headerIndex];
+  const separator = lines[headerIndex + 1];
+  let bodyEnd = headerIndex + 2;
+  while (bodyEnd < lines.length && TABLE_ROW_REGEX.test(lines[bodyEnd])) {
+    bodyEnd += 1;
+  }
+
+  const bodyRows = lines.slice(headerIndex + 2, bodyEnd);
+  if (bodyRows.length < 4) return null;
+
+  const mid = Math.floor(bodyRows.length / 2);
+  const preamble = lines.slice(0, headerIndex).join("\n");
+  const tail = lines.slice(bodyEnd).join("\n");
+
+  const firstHalf = [preamble, header, separator, ...bodyRows.slice(0, mid)]
+    .filter((part) => part !== "")
+    .join("\n");
+  const secondHalf = [header, separator, ...bodyRows.slice(mid), tail]
+    .filter((part) => part !== "")
+    .join("\n");
+
+  return { firstHalf, secondHalf, headerLineCount: 2 };
+}
+
+/**
+ * Strips up to `headerLineCount` leading table-row-shaped lines (and at
+ * most one leading blank line before them) from `text`, used to remove the
+ * repeated header+separator that splitTableInHalf() duplicated into a
+ * table's second half before that half's translated output is concatenated
+ * back onto the first half. Only strips if the expected number of
+ * table-row-shaped lines are actually found; otherwise returns `text`
+ * unchanged so a translation that reshaped the header unexpectedly loses
+ * nothing (a stray duplicate header row is a much smaller problem than
+ * silently dropping content).
+ */
+function stripLeadingTableHeaderRows(text, headerLineCount) {
+  const lines = text.split("\n");
+  let index = 0;
+  if (lines[index] !== undefined && lines[index].trim() === "") {
+    index += 1;
+  }
+
+  let removed = 0;
+  while (index < lines.length && removed < headerLineCount && TABLE_ROW_REGEX.test(lines[index])) {
+    index += 1;
+    removed += 1;
+  }
+
+  if (removed !== headerLineCount) {
+    return text;
+  }
+
+  return lines.slice(index).join("\n").replace(/^\n+/, "");
+}
+
+/**
+ * Translates one already-chunked piece of markdown, automatically
+ * recovering from a truncated (finishReason=MAX_TOKENS) response by
+ * splitting the piece into smaller pieces and translating those instead of
+ * accepting/propagating truncated output.
+ *
+ * Recovery order: first try re-chunking at heading boundaries (handles a
+ * chunk that's simply too big for a token-hungry script); if there's no
+ * heading to split on at all (e.g. one giant table under a single
+ * heading), fall back to splitting the largest table in the chunk in half
+ * by row count. Gives up (propagating the error) if neither recovery is
+ * possible, or after a few levels of recursive splitting.
+ */
+async function translateChunkRobustly(ai, protectedChunkText, lang, depth = 0) {
+  try {
+    return await translateWithRetry(ai, protectedChunkText, lang);
+  } catch (error) {
+    if (!(error instanceof TruncatedResponseError) || depth >= 4) {
+      throw error;
+    }
+
+    // No artificial floor here: chunkMarkdown() already returns the text
+    // unsplit if it's <= the target size, so a floor bigger than the
+    // chunk's own halfway point would silently defeat heading-boundary
+    // splitting for smaller (but still truncating) chunks and fall
+    // straight through to the table-split fallback below. Recursion depth
+    // is bounded separately via `depth`.
+    const halfSize = Math.max(1, Math.floor(protectedChunkText.length / 2));
+    const headingSubChunks = chunkMarkdown(protectedChunkText, halfSize);
+
+    if (headingSubChunks.length > 1) {
+      console.warn(
+        `Chunk for "${lang}" was truncated (MAX_TOKENS); splitting it into ${headingSubChunks.length} ` +
+        "smaller pieces at heading boundaries and retrying each."
+      );
+      const translatedParts = [];
+      for (const subChunk of headingSubChunks) {
+        translatedParts.push(await translateChunkRobustly(ai, subChunk, lang, depth + 1));
+      }
+      return translatedParts.join("");
+    }
+
+    const tableSplit = splitTableInHalf(protectedChunkText);
+    if (!tableSplit) {
+      throw error;
+    }
+
+    console.warn(
+      `Chunk for "${lang}" was truncated (MAX_TOKENS) and has no heading to split on; ` +
+      "splitting its largest table in half by row count and retrying each half."
+    );
+    const firstText = await translateChunkRobustly(ai, tableSplit.firstHalf, lang, depth + 1);
+    const secondText = await translateChunkRobustly(ai, tableSplit.secondHalf, lang, depth + 1);
+    const strippedSecondText = stripLeadingTableHeaderRows(secondText, tableSplit.headerLineCount);
+    // Force exactly one newline at the join boundary regardless of
+    // trailing/leading whitespace either translated half came back with --
+    // without this, the last row of the first half and the first row of
+    // the second half can end up glued onto the same line.
+    return firstText.replace(/\n*$/, "\n") + strippedSecondText;
+  }
 }
 
 function buildGenerateContentRequest(protectedText, lang) {
@@ -769,7 +945,15 @@ async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, 
 
     if (inlineResponse.response) {
       const text = extractTextFromResponse(inlineResponse.response);
-      if (text && text.trim()) {
+      if (getFinishReason(inlineResponse.response) === "MAX_TOKENS") {
+        // Treat a truncated batch result the same as a failure: it flows
+        // into the existing "batch result unusable, retry sequentially"
+        // fallback below, which uses translateChunkRobustly and can
+        // recover by splitting this chunk further.
+        langState.firstError ||= new TruncatedResponseError(
+          `Truncated response from Gemini batch API (${customId}): finishReason=MAX_TOKENS`
+        );
+      } else if (text && text.trim()) {
         langState.chunkTexts[chunkIndex] = text;
       } else {
         if (!loggedRawSample) {
@@ -869,14 +1053,14 @@ async function translateFile(ai, englishPath) {
           console.warn(`Batch result for "${lang}" unusable (${reason}); retrying ${targetPath} sequentially.`);
           const translatedChunks = [];
           for (const chunk of chunks) {
-            translatedChunks.push(await translateWithRetry(ai, chunk, lang));
+            translatedChunks.push(await translateChunkRobustly(ai, chunk, lang));
           }
           translatedText = translatedChunks.join("");
         }
       } else {
         const translatedChunks = [];
         for (const chunk of chunks) {
-          translatedChunks.push(await translateWithRetry(ai, chunk, lang));
+          translatedChunks.push(await translateChunkRobustly(ai, chunk, lang));
         }
         translatedText = translatedChunks.join("");
       }
