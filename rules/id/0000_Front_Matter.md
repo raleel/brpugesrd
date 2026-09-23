@@ -6,7 +6,7 @@
 
 ## Credits
 
-Didasarkan pada sistem Basic Roleplaying yang diciptakan oleh Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willis
+Berdasarkan sistem Basic Roleplaying yang diciptakan oleh Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen, Ray Turney, Lynn Willis
 
 **Penulis** Jason Durall dan Steve Perrin
 
@@ -36,12 +36,12 @@ Basic Roleplaying adalah merek dagang dari Chaosium Inc.
 
 Chaosium Inc. dan logo Chaosium adalah merek dagang terdaftar dari Chaosium Inc.
 
-Produk ini dilisensikan di bawah Lisensi ORC yang disimpan di Perpustakaan Kongres di TX-307-067 dan tersedia daring di berbagai lokasi termasuk www.chaosium.com/orclicense, www.azoralaw.com/orclicense, www.gencon.com/orclicense, dan lainnya. Semua jaminan disangkal sebagaimana ditetapkan di dalamnya. Produk ini adalah karya asli Chaosium.
+Produk ini dilisensikan di bawah Lisensi ORC yang tercatat di Perpustakaan Kongres di TX-307-067 dan tersedia secara daring di berbagai lokasi termasuk www.chaosium.com/orclicense, www.azoralaw.com/orclicense, www.gencon.com/orclicense dan lain-lain. Semua jaminan disangkal sebagaimana diatur di dalamnya. Produk ini adalah karya asli dari Chaosium.
 
-Jika Anda menggunakan Konten ORC kami, mohon beri kredit kepada kami sebagai berikut:
+Jika Anda menggunakan Konten ORC kami, harap juga mencantumkan kredit kami sebagai berikut:
 
 ![Logo Powered by BRP](../../_media/BRP-UGE-Logo.png)
 
 Logo Powered by BRP
 
-Dengan beberapa pengecualian (istilah yang memiliki merek dagang), teks dari BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE tersedia untuk penggunaan pribadi dan komersial di bawah lisensi ORC.
+Dengan beberapa pengecualian kecil (istilah bermerek dagang), teks BASIC ROLEPLAYING: UNIVERSAL GAME ENGINE tersedia untuk penggunaan pribadi dan komersial di bawah lisensi ORC.
