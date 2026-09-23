@@ -707,7 +707,7 @@ The ability to read and write is taken for granted in the modern era: in previou
 
 **Category:** Combat
 
-This represents study and mastery of a specific fighting style. Use this skill to make specific moves and strikes that cause maximum damage to the target. Martial Arts is always used in combination with another skill: Brawl, Melee Weapons, Missile Weapons, or Grapple, as appropriate. This skill is not necessary to make those attacks—it represents a greater level of training that allows greater effectiveness.
+This represents study and mastery of a specific fighting style. Use this skill to make specific moves and strikes that cause maximum damage to the target. Martial Arts is always used in combination with another skill: Brawl, Melee Weapon, Missile Weapon, or Grapple, as appropriate. This skill is not necessary to make those attacks—it represents a greater level of training that allows greater effectiveness.
 
 **Specialties:** By martial arts tradition: boxing, capoeira, escrima, fencing, jeet kun do, karate, kenjutsu, kickboxing, kung fu, kyujutsu, pugilism, savate, etc. The gamemaster may limit the types of combat skills that can be paired with a Martial Arts, such as only allowing Missile Weapons (Bow) with kyujutsu, for example.
 
@@ -723,7 +723,7 @@ This represents study and mastery of a specific fighting style. Use this skill t
 
 If multiple attacks are made in a round, the attacker must allocate the Martial Arts skill accordingly, dividing it as desired between the multiple attacks, or applying it only to a single attack.
 
-For example, *if your character has Brawl 120% and Martial Arts 46%, and is making two attacks at 60% in around, you must choose to divide the Martial Arts skill between these two attacks (23% each, or some combination equaling 46%), or choose to have it apply to only one of the attacks.*
+For example, *if your character has Brawl 120% and Martial Arts 46%, and is making two attacks at 60% in a round, you must choose to divide the Martial Arts skill between these two attacks (23% each, or some combination equaling 46%), or choose to have it apply to only one of the attacks.*
 
 Due to its relative power, the gamemaster may rule that the initial skill rating in this skill be limited, that increases to this skill may be limited to training rather than normal experience, that training may be incredibly difficult to obtain, or all three of these conditions.
 
@@ -1100,6 +1100,6 @@ Use this skill to hit a target with a thrown object, or to throw a weapon otherw
 
 **Category:** Perception
 
-Use this skill to identify tracks or follow a trail—whether person, vehicle, or animal—over the ground, through brush, snow, and across broken ground. A fumble loses the trail and perhaps the tracker themselves. Various degrees of success yield better results, including potentially being able to assess information about the subject being trailed or predict accurately where they are going..
+Use this skill to identify tracks or follow a trail—whether person, vehicle, or animal—over the ground, through brush, snow, and across broken ground. A fumble loses the trail and perhaps the tracker themselves. Various degrees of success yield better results, including potentially being able to assess information about the subject being trailed or predict accurately where they are going.
 
 **System Notes:** A Track roll takes 1D3 minutes, and an extended tracking attempt may require multiple rolls. Depending on the environment, the roll may be Difficult (a rainy night) or Easy (a bright snowy day). If a trail is lost, finding it again is Difficult. Trying to conceal one’s tracks is an opposed Track roll. Advanced equipment may add up to \+20% to the skill rating.

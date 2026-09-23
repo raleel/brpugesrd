@@ -1,6 +1,6 @@
 # 1\. Introduction
 
-Welcome to Chaosium’s Basic Roleplaying system, one of most influential roleplaying game systems in the world.
+Welcome to Chaosium’s Basic Roleplaying system, one of the most influential roleplaying game systems in the world.
 
 If you’re familiar with roleplaying games you can skip through much of this introduction. This covers the terms used in the Basic Roleplaying system. For veteran players, the only section in this introduction you should pay attention to is the Optional Rules section.
 

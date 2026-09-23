@@ -101,7 +101,7 @@ These values are abstract, and your gamemaster is encouraged to provide more acc
 
 ### Equipment Quality Modifiers
 
-Skill rolls can be modified by having relevant and appropriate equipment handy. Equipment can be anything from a set of lockpicks, a machinist’s tool set, a research library, a medical lab, or anything else that is useful and appropriate. The quality of equipment can provide a modifier to a skill roll, as described in \*\* Situational Modifiers\*\*. This modifier can range from inferior equipment penalizing your character’s skill rating by –20%, to superior quality equipment offering a \+20% bonus.
+Skill rolls can be modified by having relevant and appropriate equipment handy. Equipment can be anything from a set of lockpicks, a machinist’s tool set, a research library, a medical lab, or anything else that is useful and appropriate. The quality of equipment can provide a modifier to a skill roll, as described in \*\*Situational Modifiers\*\*. This modifier can range from inferior equipment penalizing your character’s skill rating by –20%, to superior quality equipment offering a \+20% bonus.
 
 Most types of equipment exist in a wide variety of qualities. Your gamemaster should determine whether a particular piece of equipment is available in a range of qualities and how easy or expensive it may be to obtain said equipment. Most equipment your character uses is by default of average quality. However, you may wish for your character to own or use superior quality equipment, to increase their chances of success with a relevant skill roll.
 

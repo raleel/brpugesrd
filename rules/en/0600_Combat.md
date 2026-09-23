@@ -250,7 +250,7 @@ If the result of a fumble specifies an attack on a target other than the intende
 
 \* If the parrying weapon or shield is destroyed during the parry attempt, roll the attacking weapon’s normal damage and subtract the points of damage used in destroying the parrying weapon or shield. The remaining damage penetrates the parry attempt to damage the defender (armor still protects). If the attacking weapon is destroyed during a successful attack, damage is still inflicted on the defender and the weapon is broken at that moment.
 
-\*\* This is the damage which that type of attack would normally do. This is not the same as ‘maximum damage’. For a greatsword, full damage is 2D8 on a normal success, 2D8 bleeding damage on a special success, and on a critical success it does 16 damage ignoring. Damage modifier, in all cases, is rolled separately and added afterwards.
+\*\* This is the damage which that type of attack would normally do. This is not the same as ‘maximum damage’. For a greatsword, full damage is 2D8 on a normal success, 2D8 bleeding damage on a special success, and on a critical success it does 16 damage, ignoring the target’s armor. Damage modifier, in all cases, is rolled separately and added afterwards.
 
 ##### Melee Weapon Attack Fumbles Table
 
