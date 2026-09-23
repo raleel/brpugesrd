@@ -114,7 +114,9 @@ const SYSTEM_INSTRUCTION =
   "character-for-character, with no translation, added spacing, punctuation, or reformatting, and never remove, " +
   "duplicate, or reorder them. These example token numbers are illustrative only — the source text you are given may contain none, some, or many such tokens; " +
   "reproduce ONLY the exact tokens that literally appear in the input. NEVER invent, create, or wrap other content (such as ordinary Markdown links `[text](url)`, bold text, or table cells) " +
-  "in new tokens of this or any similar bracketed form — if a token does not already appear verbatim in the source you were given, do not create it.\n\n" +
+  "in new tokens of this or any similar bracketed form — if a token does not already appear verbatim in the source you were given, do not create it. In particular, plain unwrapped dice " +
+  "notation such as `1d8`, `3D6`, `d100`, or `2d6+1` that appears directly in the running text (not already inside a token) is NOT a placeholder — translate or localize it normally as plain " +
+  "text per your target language's own conventions, and NEVER wrap it in `[[...]]` brackets.\n\n" +
   "7. NO OUTER CODE FENCE: Do not wrap your entire response in triple backticks (```) or any other code fence. " +
   "Output raw Markdown directly. The only backticks that should appear in your output are inside the placeholder " +
   "tokens described in rule 6.";
