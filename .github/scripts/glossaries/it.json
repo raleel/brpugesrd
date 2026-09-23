@@ -1,0 +1,11 @@
+{
+  "terms": {
+    "CHA": "CAR",
+    "CON": "COS",
+    "DEX": "DES",
+    "INT": "INT",
+    "POW": "POT",
+    "SIZ": "TAG",
+    "STR": "FOR"
+  }
+}

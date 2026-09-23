@@ -1,0 +1,11 @@
+{
+  "terms": {
+    "CHA": "KAR",
+    "CON": "KON",
+    "DEX": "SPR",
+    "INT": "INT",
+    "POW": "VOL",
+    "SIZ": "VEL",
+    "STR": "SNA"
+  }
+}
