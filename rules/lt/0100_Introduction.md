@@ -1,190 +1,189 @@
 # 1. Įvadas
 
-Sveiki atvykę į „Chaosium“ sistemą „Basic Roleplaying“ (BRP) – vieną įtakingiausių vaidmenų žaidimų sistemų pasaulyje.
+Sveiki atvykę į „Chaosium“ sistemą „Basic Roleplaying“ – vieną įtakingiausių vaidmenų žaidimų sistemų pasaulyje.
 
-Jei esate susipažinę su vaidmenų žaidimais, didžiąją šio įvado dalį galite praleisti. Čia aprašyti „Basic Roleplaying“ sistemoje naudojami terminai. Patyrusiems žaidėjams vienintelis skyrius šiame įvade, į kurį reikėtų atkreipti dėmesį, yra „Papildomos taisyklės“.
+Jei esate susipažinę su vaidmenų žaidimais, didžiąją šio įvado dalį galite praleisti. Čia aptariami terminai, naudojami „Basic Roleplaying“ sistemoje. Patyrusiems žaidėjams vienintelis skyrius šiame įvade, į kurį derėtų atkreipti dėmesį, yra „Papildomos taisyklės“.
 
 ## „Basic Roleplaying“ naudojami terminai
 
-Šioje knygoje dažnai vartojami toliau nurodyti terminai. Kai kurie iš jų yra įprasti vaidmenų žaidimuose ir pateikiami kaip pagalba tiek naujiems, tiek patyrusiems žaidėjams. Kiekvienas iš jų išsamiai paaiškinamas atitinkamuose skyriuose.
+Šioje knygoje dažnai vartojami toliau nurodyti terminai. Kai kurie iš jų yra įprasti vaidmenų žaidimuose ir pateikiami kaip pagalba tiek naujiems, tiek patyrusiems žaidėjams. Kiekvienas iš jų plačiau paaiškinamas atitinkamuose skyriuose.
 
-**Gebėjimas (Ability):** Tai, ką veikėjas gali daryti ar jausti – įgūdis, aistra ar kitas veiksnys, įvertintas 1–100 balų skalėje. Paprastai sėkmingai panaudojus gebėjimą, gaunamas patirties žymėjimas.
+**Gebėjimas (Ability):** Veiksmas arba pojūtis, kurį gali atlikti personažas – tai gali būti įgūdis, aistra ar kitas veiksnys, vertinamas 1–100 skalėje. Paprastai, sėkmingai panaudojus gebėjimą, gaunamas patirties patikrinimas.
 
-**Ištikimybė (Allegiance):** Papildoma sistema, matuojanti atsidavimą dvasinei būtybei, principui ar dievybei, gerinama atliekant palankius veiksmus.
+**Ištikimybė (Allegiance):** Papildoma sistema, matuojanti atsidavimą dvasinei būtybei, principui ar dievybei, kuri gerinama atliekant palankius veiksmus.
 
-**Papildymas (Augment):** Vieno gebėjimo naudojimas kito gebėjimo sėkmės tikimybei pakeisti, pavyzdžiui, kai vienas įgūdis suteikia papildomą paramą kitam arba aistra gali padėti padidinti įgūdžio sėkmės tikimybę.
+**Sustiprinimas (Augment):** Vieno gebėjimo naudojimas siekiant pakeisti kito gebėjimo sėkmės tikimybę, pavyzdžiui, kai vienas įgūdis suteikia papildomą paramą kitam arba kai aistra gali padėti padidinti įgūdžio sėkmės tikimybę.
 
-**Bazinė tikimybė (Base Chance):** Numatytasis įgūdžio sėkmės rodiklis, kurį turi veikėjas, neturintis jokio mokymo ar patirties.
+**Bazinis šansas (Base Chance):** Numatytasis sėkmės šansas naudojant įgūdį, kurio personažas nėra mokęsis arba neturi patirties.
 
-***Pavyzdžiui,*** *veikėjo lape nurodyta Slėpimosi (Hide) reikšmė (20 %) reiškia, kad net jei jūsų veikėjas neinvestavo jokių įgūdžio taškų į Slėpimosi įgūdį, jis turi 20 % prigimtinį gebėjimą tai daryti.*
+***Pavyzdžiui,*** *personažo lape „Slėpimasis“ (20 %) reiškia, kad net jei personažas nėra investavęs jokių įgūdžių taškų į „Slėpimosi“ įgūdį, jis turi 20 % prigimtinį gebėjimą tai daryti.*
 
-**Bazinis nuotolis (Base Range):** Įprastas atstumas, kuriuo šaunamasis ginklas gali pataikyti į taikinį.
+**Bazinis nuotolis (Base Range):** Įprastas atstumas, kuriuo šaudmeninis ginklas gali pataikyti į taikinį.
 
-**Veikėjas (Character):** Žaidimo sesijos metu jūsų įkūnijamas vaidmuo, žaidimo mechanikoje aprašomas tokiomis vertėmis kaip charakteristikos ir įgūdžių sumos. Paprastai veikėjai turi žaidėjo nustatytus vardus ir istorijas, kuriuos padeda sukurti ir (arba) patvirtina žaidimo meistras (taip pat žr. **žaidėjo veikėjas** ir **ne žaidėjo veikėjas**).
+**Personažas (Character):** Žaidimo sesijos metu jūsų prisiimamas vaidmuo, žaidimo mechanikoje aprašomas tokiomis vertėmis kaip charakteristikos ir įgūdžių sumos. Paprastai personažai turi žaidėjo nustatytus vardus ir priešistorę, kuriuos patvirtina žaidimų meistras (taip pat žr. **žaidėjo personažas** ir **ne žaidėjo personažas**).
 
-**Charakteristika (Characteristic):** Jūsų veikėjo fiziniai, protiniai ir dvasiniai rodikliai (jėga, ištvermė, dydis, intelektas, galia, vikrumas ir žavesys), įvertinti skaitine skale (paprastai 3–18), kurios vidutinis žmogaus rodiklis yra 10–11.
+**Charakteristika (Characteristic):** Personažo fiziniai, protiniai ir dvasiniai atributai (JĖG, IŠT, DYD, INT, GAL, VIK ir CHA), įvertinti skaitine skale (paprastai 3–18), kur žmogaus vidurkis yra 10–11.
 
-***Pavyzdžiui,*** *jei pradinis didžiausias charakteristikos rodiklis yra 18, 17 JĖG (STR) reiškia, kad jūsų veikėjas yra itin stiprus, o 7 VIK (DEX) reiškia, kad jis šiek tiek nerangus.*
+***Pavyzdžiui,*** *jei pradinis maksimalus charakteristikos dydis yra 18, tai JĖG 17 reiškia, kad jūsų personažas yra itin stiprus, o VIK 7 – kad jis šiek tiek nerangus.*
 
-**Charakteristikos metimas (Characteristic Roll):** Viena iš jūsų veikėjo charakteristikų, padauginta iš skaičiaus (pavyzdžiui, Intelektas ×3), išreikšta procentais ir išmesta naudojant procentinius kauliukus. Charakteristikos metimas paprastai yra ×5, tačiau gali būti naudojami ir kiti daugikliai.
+**Charakteristikos metimas (Characteristic Roll):** Viena iš personažo charakteristikų, padauginta iš skaičiaus (pavyzdžiui, INT ×3), išreikšta procentais ir metama naudojant procentinius kauliukus. Charakteristikos metimas paprastai būna ×5, tačiau gali būti naudojami ir kiti daugikliai.
 
-***Pavyzdžiui,*** *jei jūsų veikėjo Intelekto charakteristika yra 14, jis turi 42 % tikimybę sėkmingai atlikti charakteristikos patikrinimą su ×3 daugikliu.*
+***Pavyzdžiui,*** *jei jūsų personažo intelektas yra 14, jis turi 42 % tikimybę sėkmingai atlikti charakteristikos patikrinimą su ×3 daugikliu.*
 
-**Kovos raundas (Combat Round):** 12 sekundžių (arba atitinkamas) laiko tarpas kovos ar dramatiškos veiklos metu, kurio metu svarbi veiksmų atlikimo tvarka. Tai žaidimo laikas, o ne tikrasis laikas – keleto sekundžių veiksmų įvykiai tarp žaidėjų ir žaidimo meistro gali užtrukti keletą minučių.
+**Kovos raundas (Combat Round):** 12 sekundžių (arba lygiavertis) laiko tarpas kovos ar dramatiškos veiklos metu, kai svarbi veiksmų atlikimo tvarka. Tai žaidimo laikas, o ne realus laikas – kelių sekundžių įvykiai gali užtrukti kelias minutes žaidėjams ir žaidimų meistrui juos aprašant.
 
-**Kritinė sėkmė (Critical Success):** Tai įgūdžio patikrinimo metimo rezultatas, lygus 1/20 (arba 5 %) įprastos sėkmės tikimybės. Paprastai kritinė sėkmė apdovanojama geresniais rezultatais, nors kai kuriais atvejais kritinė sėkmė yra būtina norint apskritai pasiekti sėkmę.
+**Kritinė sėkmė (Critical Success):** Tai įgūdžio patikrinimo metimo rezultatas, lygus 1/20 (arba 5 %) įprasto sėkmės šanso. Paprastai kritinė sėkmė atlyginama geresniais rezultatais, nors kai kuriais atvejais kritinė sėkmė yra būtina norint apskritai pasiekti sėkmę.
 
-***Pavyzdžiui,*** *jei įprasta sėkmės tikimybė yra 75 %, bet koks metimas, lygus 4 ar mažesnis, yra kritinė sėkmė (1/20 iš 75 % yra 3,75, suapvalinus iki 4).*
+***Pavyzdžiui,*** *jei įprastas sėkmės šansas yra 75 %, bet koks 4 ar mažesnis metimas yra kritinė sėkmė (1/20 iš 75 % yra 3,75, suapvalinus iki 4).*
 
-**D100:** Procentinis kauliukų metimas, atliekamas metant du 10-pusius kauliukus (D10), iš kurių vienas žymi dešimtis, o kitas vienetus. Kai kurie kauliukai jau yra pažymėti kaip „dešimtys“ (00, 10, 20 ir t. t.) ir visada naudojami kaip pirmasis skaičius D100 metime. 01 yra geriausias įmanomas rezultatas, o 100 (kuris dažniausiai skaitomas kaip 00) – blogiausias.
+**D100:** Procentinis kauliukų metimas, atliekamas metant du 10-pusius kauliukus (D10), iš kurių vienas atstovauja dešimtis, o kitas – vienetus. Kai kurie kauliukai jau būna pažymėti kaip „dešimtys“ (00, 10, 20 ir t. t.) ir visada naudojami kaip pirmasis D100 metimo skaičius. 01 metimas yra geriausias įmanomas rezultatas, o 100 (kuris paprastai skaitomas kaip 00) yra blogiausias.
 
 ***Pavyzdžiui,*** *60 (arba 6) ir 2 metimas lygus 62.*
 
-**Žala (Damage):** Vertė, reiškianti sužalojimą, atimama iš veikėjo gyvybės taškų. Ginklai, nelaimingi atsitikimai ir kiti pavojai padaro žalą veikėjams.
+**Žala (Damage):** Sužeidimą rodanti vertė, atimama iš personažo gyvybės taškų. Ginklai, nelaimingi atsitikimai ir kiti pavojai sukelia žalą personažams.
 
-**Žalos modifikatorius (Damage Modifier):** Dėl viršijančios vidurkį Jėgos ir Dydžio charakteristikų taikomas modifikatorius metamai žalai.
+**Žalos modifikatorius (Damage Modifier):** Priedas prie metamos žalos dėl aukštesnių nei vidutinių JĖG ir DYD charakteristikų.
 
-**VIK eilė (DEX Rank):** Remiantis Vikrumo charakteristika, nustatoma, kada jūsų veikėjas dažniausiai gali veikti kovos raundo metu. Veikėjai su didesniu VIK rodikliu paprastai veikia anksčiau nei veikėjai su mažesniu VIK.
+**VIK eilė (VIK Rank):** Remiantis VIK charakteristika, nustatoma, kada jūsų personažas paprastai gali veikti kovos raundo metu. Personažai su aukštesne VIK paprastai veiks prieš personažus su žemesne VIK.
 
-**Sunkumo modifikatorius (Difficulty Modifier):** Įgūdžio tikimybės koregavimo dydis, priklausantis nuo aplinkybių. Jie svyruoja nuo Automatinio (metimas nereikalingas), Lengvo (įgūdis padvigubinamas), Vidutinio (įgūdis nekeičiamas) ir Sunkaus (įgūdis perpus mažinamas) iki Neįmanomo (metimas neatliekamas arba 01 % tikimybė žaidimo meistro nuožiūra).
+**Sudėtingumo modifikatorius (Difficulty Modifier):** Dydis, kuriuo koreguojamas įgūdžio šansas, atsižvelgiant į jo naudojimo aplinkybes. Tai svyruoja nuo Automatinio (nereikia metimo), Lengvo (įgūdis padvigubinamas), Vidutinio (įgūdis nemodifikuojamas) ir Sunkaus (įgūdis perpus mažinamas) iki Neįmanomo (metimas neatliekamas arba, žaidimų meistro nuožiūra, tik 01 % šansas).
 
-**Patirties metimai (Experience Rolls):** Jei sėkmingai atlikote vieno ar kelių savo veikėjo gebėjimų ar charakteristikos pasipriešinimo metimą (žr. žemiau), turėtumėte pažymėti atitinkamą langelį savo veikėjo lape (kartais šis veiksmas vadinamas „patirties žymėjimu“), jei tai tinkama. Vėliau, tarp nuotykių ar poilsio metu, galite nustatyti, ar jūsų veikėjo gebėjimas patobulėjo, ar charakteristika padidėjo dėl sėkmingo naudojimo. Kai kurių įgūdžių negalima patobulinti per patirtį, jie turi būti tobulinami kitais būdais.
+**Patirties metimai (Experience Rolls):** Jei sėkmingai atlikote vieno ar kelių personažo gebėjimų ar charakteristikos pasipriešinimo metimą (žr. žemiau), turėtumėte pažymėti atitinkamą langelį savo personažo lape (kartais šis veiksmas vadinamas „patirties patikrinimu“), jei tai tinkama. Vėliau, tarp nuotykių ar poilsio metu, galite nustatyti, ar personažo gebėjimas pagerėjo, ar charakteristika padidėjo dėl sėkmingo naudojimo. Kai kurių įgūdžių patirtimi pagerinti negalima, juos reikia tobulinti kitais būdais.
 
-**Nesėkmė (Fail):** Procentinių kauliukų metimas, viršijantis reikiamą sėkmės tikimybę.
+**Nesėkmė (Fail):** Procentinių kauliukų metimas, viršijantis reikiamą sėkmės šansą.
 
-***Pavyzdžiui,*** *89 metimas, kai reikiama tikimybė buvo 56 %, rodo nesėkmę.*
+***Pavyzdžiui,*** *89 metimas, kai reikiamas šansas buvo 56 %, rodo nesėkmę.*
 
-**Mirtinas sužalojimas (Fatal Wound):** Sužalojimas, dėl kurio veikėjas praranda daugiau gyvybės taškų, nei šiuo metu turi. Be įsikišimo (medicininio ar kitokio), mirtis ištinka pasibaigus kitam kovos raundui.
+**Mirtinas sužeidimas (Fatal Wound):** Sužeidimas, kainuojantis personažui daugiau gyvybės taškų, nei jis šiuo metu turi. Be įsikišimo (medicininio ar kitokio), mirtis ištinka kito kovos raundo pabaigoje.
 
-**Nuovargio taškai (Fatigue Points):** Papildoma sistema, naudojanti jūsų veikėjo Jėgos ir Ištvermės charakteristikas, nustatanti, kiek ilgai jis gali atlaikyti įtemptą fizinę veiklą, kol pavargsta.
+**Nuovargio taškai (Fatigue Points):** Papildoma sistema, naudojanti personažo JĖG ir IŠT charakteristikas nustatyti, kiek laiko jis gali ištverti varginančią fizinę veiklą prieš pavargdamas.
 
-**Pilnas posūkis (Full Turn):** 25 kovos raundų laikotarpis, prilygstantis penkioms minutėms žaidimo pasaulio laiko.
+**Pilnas posūkis (Full Turn):** 25 kovos raundų laikotarpis, prilygstantis penkioms žaidimo pasaulio laiko minutėms.
 
-**Fumblis / grubi klaida (Fumble):** 99 ir/arba 00 metimas metant procentinius kauliukus sėkmei nustatyti. Paprastai, kai nurodomas fumblis, nutinka kažkas blogo, kas viršija paprastą nesėkmę.
+**Klaida (Fumble):** 99 ir/arba 00 metimas metant procentinius kauliukus sėkmei nustatyti. Paprastai, kai nurodoma klaida, nutinka kažkas blogo, viršijančio paprastą nesėkmę.
 
-**Žaidimo meistras (Gamemaster / GM):** Žaidimo režisierius arba vedlys, kuris padeda kurti veikėjus, sugalvoja nuotykius ir atstovauja pasaulį už jūsų veikėjo ribų, ridendamas kauliukus už ne žaidėjo veikėjus ir priešiškas jėgas.
+**Žaidimų meistras (Gamemaster / GM):** Žaidimo vadovas ar gidas, padedantis kurti personažus, sugalvojantis nuotykius ir reprezentuojantis pasaulį už jūsų personažo ribų, metantis kauliukus už ne žaidėjo personažus ir priešininkų pajėgas.
 
-**Žaidimo laikas (Game Time):** Laikas, praeinantis vystantis scenarijui ar kampanijai, kurį patiria jūsų veikėjai. Jis paprastai nėra toks pat kaip tikrasis laikas, kurį jūs ir žaidimo meistras praleidžiate žaisdami.
+**Žaidimo laikas (Game Time):** Laikas, kuris bėga scenarijaus ar kampanijos metu, kaip jį patiria jūsų personažai. Tai dažniausiai nėra tas pats laikas, kurį jūs ir žaidimų meistras praleidžiate žaisdami.
 
-**Sužalojimo vieta (Hit Location):** Papildoma sistema, skirta nurodyti, kur sėkminga ataka pataiko į veikėjo kūną arba kur jo atakos pataiko į priešą.
+**Sužeidimo vieta (Hit Location):** Papildoma sistema, skirta nurodyti, kur sėkminga ataka pataiko į personažo kūną arba kur jo atakos pataiko į priešą.
 
-**Gyvybės taškai (Hit Points):** Jūsų veikėjo santykinės sveikatos matas, atspindėtas vertėje, gautoje iš Ištvermės ir Dydžio charakteristikų. Užpuolikai daro žalą gyvybės taškais, kurie atimami iš taikinio bendro gyvybės taškų skaičiaus. Paprastai, kai veikėjo gyvybės taškai pasiekia 0, jis miršta.
+**Gyvybės taškai (Hit Points):** Personažo santykinės sveikatos matas, atstovaujamas vertės, kylančios iš IŠT ir DYD charakteristikų. Užpuolikai daro žalą gyvybės taškais, kurie atimami iš bendro taikinio gyvybės taškų skaičiaus. Paprastai, kai personažo gyvybės taškai pasiekia 0, jis yra negyvas.
 
-**„Žaidžiant vaidmenį“ arba „Už žaidimo ribų“:** Skirtumas pokalbyje tarp žaidėjų ir žaidimo meistro prie žaidimų stalo, reiškiantis skirtumą tarp realaus pasaulio diskusijos ir žaidimo diskusijos. Abu pasiekia tą patį tikslą, tačiau reprezentuoja skirtingus stilius ar žaidimo aspektus ir gali būti naudojami pakaitomis. Kai kurios grupės ar žaidėjai labiau linksta į vieną ar kitą – tai pasirinkimo reikalas. „Žaidžiant vaidmenį“ diskusija yra spalvinga ir įtraukianti, o „už žaidimo ribų“ diskusija yra būtina norint aprašyti taisyklių mechaniką ir pagreitinti žaidimą išvengiant nereikalingų detalių.
+**„Personažo viduje“ arba „Personažo išorėje“ (“In character” or “Out of character”):** Skirtumas tarp pokalbių žaidėjų ir žaidimų meistro prie žaidimų stalo, reprezentuojantis skirtumą tarp realaus pasaulio diskusijų ir žaidimo diskusijų. Abi siekia to paties tikslo, tačiau atstovauja skirtingiems žaidimo stiliams ar aspektams ir žaidimo metu gali būti vartojamos pakaitomis. Kai kurios grupės ar žaidėjai linksta prie vieno ar kito – tai pasirinkimo elementas. „Personažo viduje“ diskusija yra spalvinga ir įtraukianti, o „personažo išorėje“ diskusija yra būtina norint aprašyti taisyklių mechaniką ir paspartinti žaidimą vengiant nereikalingų detalių.
 
-***Pavyzdžiui,*** *žaidžiant vaidmenį galite pasakyti: „Seras Vilfrikas klausia užeigos savininko: „Ar galėtumėte leisti mums pernakvoti mainais į pažadą sumokėti vėliau!““, o ne žaidžiant vaidmenį galite pasakyti: „Bandau įtikinti užeigos savininką leisti mums pernakvoti nemokamai.“*
+***Pavyzdžiui,*** *personažo viduje galite pasakyti: „Seras Vilfrikas klausia užeigos savininko: „Ar galėtumėte leisti mums pernakvoti už pažadą sumokėti vėliau!““, o personažo išorėje galite pasakyti: „Bandau įtikinti užeigos savininką leisti mums pernakvoti nemokamai.“*
 
 **Magijos taškai (Magic Points):** Kitas galios taškų pavadinimas (žr. **galios taškai**).
 
-**Didelis sužalojimas (Major Wound):** Sužalojimas, padarantis pakankamai žalos, kad vienu smūgiu viršytų pusę veikėjo įprasto gyvybės taškų skaičiaus. Paprastai lydi alinantis poveikis.
+**Sunkus sužeidimas (Major Wound):** Sužeidimas, sukeliantis pakankamai žalos, kad vienu smūgiu viršytų pusę personažo įprastų gyvybės taškų sumos. Paprastai lydi silpninantis poveikis.
 
-**Mažas sužalojimas (Minor Wound):** Bet koks pavienis sužalojimas, kurio sunkumas mažesnis nei didelio sužalojimo (mažiau nei 1/2 įprastų gyvybės taškų).
+**Lengvas sužeidimas (Minor Wound):** Bet koks pavienis sužeidimas, kuris yra mažiau sunkus nei „sunkus sužeidimas“ (mažiau nei 1/2 įprastų gyvybės taškų).
 
-**Modifikatoriai (Modifiers):** Laikini gebėjimo rodiklio padidinimai ar sumažinimai, paprastai atsirandantys dėl aplinkybių, aplinkos ar įrangos.
+**Modifikatoriai (Modifiers):** Laikini priedai arba atimtiniai iš personažo gebėjimo vertinimo, paprastai kylantys dėl aplinkybių, aplinkos ar įrangos.
 
-***Pavyzdžiui,*** *bandymas atrakinti spyną su sulenkta sąvaržėle yra netinkamų įrankių pavyzdys, taikomas –20 % modifikatorius. Standartinio atidarymo įrankio naudojimas įgūdžio nemodifikuoja. Prabangaus kalibruotų precizinių įrankių rinkinio naudojimas prideda +20 % prie jūsų veikėjo įgūdžio rodiklio.*
+***Pavyzdžiui,*** *bandymas atrakinti spyną su sulenkta sąvaržėle yra netinkamų įrankių pavyzdys, taikant -20 % modifikatorių. Naudojant standartinį spynų atrakinimo įrankį įgūdis nemodifikuojamas. Naudojant prabangių kalibruotų tiksliųjų spynų atrakinimo įrankių rinkinį, prie personažo įgūdžio vertinimo pridedama +20 %.*
 
-**Judėjimas (MOV):** Judėjimo greitis, kurį jūsų veikėjas gali atlikti per vieną kovos raundą. Šis matas yra lankstus, bet paprastai atitinka vieną metrą neskuboto judėjimo už vieną MOV tašką.
+**Judesys (Move / MOV):** Judėjimo greitis, kurį jūsų personažas gali pasiekti per vieną kovos raundą. Šis matas yra lankstus, tačiau paprastai vienas MOV punktas reiškia vieną metrą ramaus judėjimo.
 
-**Ne žaidėjo veikėjas (Nonplayer Character / NPC):** Veikėjas ar būtybė žaidimo pasaulyje, kurią vaidina ar kitaip atstovauja žaidimo meistras, o ne jūs ar kitas žaidėjas.
+**Ne žaidėjo personažas (Nonplayer Character / NPC):** Personažas ar būtybė žaidimo pasaulyje, kurį valdo ar kitaip reprezentuoja žaidimų meistras, o ne jūs ar kitas žaidėjas.
 
-**Priešpriešinis metimas (Opposed Roll):** Kai jūsų veikėjas nori atlikti veiksmą, kuriam kitas veikėjas (ar ne žaidėjo veikėjas) nori pasipriešinti „priešingu“ įgūdžiu, kuris panaikina arba sužlugdo pradinį veiksmą. Šiuo atveju atliekami abu įgūdžių patikrinimai ir rezultatai palyginami.
+**Priešingas metimas (Opposed Roll):** Kai jūsų personažas nori atlikti veiksmą, kuriam kitas personažas (ar ne žaidėjo personažas) nori pasipriešinti „priešingu“ įgūdžiu, kuris panaikina arba sužlugdo pirminį veiksmą. Šiuo atveju atliekami abu įgūdžių patikrinimai ir rezultatai palyginami.
 
-***Pavyzdžiui,*** *Sėlinimui (Stealth) paprastai priešpriešinamas Klausymas (Listen).*
+***Pavyzdžiui,*** *Sėlinimui paprastai priešinasi Klausymasis.*
 
-**Aistra (Passion):** Papildoma sistema, kurioje stipriai išreikštas įsitikinimas kokia nors tema – pavyzdžiui, Atsidavimas, Baimė, Neapykanta, Meilė, Ištikimybė – yra matuojamas procentais. Aistros naudojamos parodyti arba nustatyti, ką jūsų veikėjas jaučia nagrinėjamu klausimu ir kaip stipriai, ir dažnai naudojamos gebėjimų metimams papildyti (žr. **papildymai**).
+**Aistra (Passion):** Papildoma sistema, kurioje stiprus įsitikinimas tam tikra tema – pavyzdžiui, atsidavimas, baimė, neapykanta, meilė, lojalumas – matuojamas procentiniu pagrindu. Aistros naudojamos nurodyti arba nustatyti, kaip jūsų personažas jaučiasi tema ir kaip stipriai, ir dažnai naudojamos gebėjimų metimams sustiprinti (žr. **sustiprinimai**).
 
-**Procentiniai kauliukai (Percentile Dice):** Du D10 kauliukai, metami kartu: vienas skiriamas dešimtims, kitas – vienetams. Kai kurie kauliukai sunumeruoti dešimtimis, t. y. 00, 10, 20, 30 ir t. t. Taip pat žr. **D100**.
+**Procentiniai kauliukai (Percentile Dice):** Du kartu metami D10, iš kurių vienas skirtas dešimčių skaičiui, o kitas – vienetų. Kai kurie kauliukai sunumeruoti dešimtimis, t. y. 00, 10, 20, 30 ir t. t. Taip pat žr. **D100**.
 
-**Žaidėjo veikėjas (Player Character / PC):** Tai jūsų veikėjas, paprastai sukurtas ir beveik visada valdomas jūsų, sudarytas iš gebėjimų ir tapatybės, kurią įkūnijate per vaidmenų žaidimą. Jūsų veikėjas yra jūsų reprezentacija žaidimo pasaulyje ir leidžia jums sąveikauti su aplinka.
+**Žaidėjo personažas (Player Character / PC):** Tai jūsų personažas, dažniausiai sukurtas ir beveik visada jūsų valdomas, sudarytas iš gebėjimų ir tapatybės, kurią prisiimate vaidmenų žaidimo būdu. Jūsų personažas yra jūsų reprezentacija žaidimo pasaulyje ir leidžia jums sąveikauti su aplinka.
 
-**Galia (Power):** Bendras terminas magiškiems burtams, mutacijoms, psichiniams gebėjimams, kerams ar supergebėjimams, kuriuos jūsų veikėjas gali turėti (žr. Ketvirtą skyrių: Galios).
+**Galia (Power):** Bendrinis terminas magijos burtams, mutacijoms, psichiniams gebėjimams, kerams ar supergebėjimams, kuriuos gali turėti jūsų personažas (žr. ketvirtą skyrių: Galios).
 
-**Galios taškai (Power Points):** Jūsų veikėjo valios ar energijos kiekis, išreikštas kaip bendra suma, pagrįsta jo Galios charakteristika. Jie išleidžiami specialioms galioms ar gebėjimams naudoti ir gali būti išeikvoti kitų gebėjimų. Kai jūsų veikėjo galios taškai pasiekia 0, jis praranda sąmonę. Atitinkamuose žanruose galios taškai taip pat gali būti vadinami **magijos taškais**.
+**Galios taškai (Power Points):** Valios ar energijos kiekis, kurį turi jūsų personažas, pavaizduotas kaip suma, pagrįsta GAL charakteristika. Jie išleidžiami naudojant specialias galias ar gebėjimus ir gali būti išeikvoti kitų gebėjimų. Kai personažas pasiekia 0 galios taškų, jis netenka sąmonės. Galios taškai atitinkamuose žanruose taip pat gali būti vadinami **magijos taškais**.
 
-**Profesija (Profession):** Jūsų veikėjo darbas, pateiktas kaip įgūdžių sąrašas, kuriuos jis išmoko naudoti (arba turėjo galimybę išmokti).
+**Profesija (Profession):** Personažo darbas, pavaizduotas kaip įgūdžių sąrašas, kuriuos jis išmoko naudoti (arba turėjo galimybę išmokti).
 
-**Rodiklis (Rating):** Gebėjimo sėkmės tikimybė, įvertinta nuo 1 iki 100 (kartais ir daugiau).
+**Įvertinimas (Rating):** Gebėjimo sėkmės šansas, vertinamas nuo 1 iki 100 (kartais aukštesnis).
 
-***Pavyzdžiui,*** *Griovimo darbai 43 % yra 43 rodiklis, reiškiantis 43 % sėkmės tikimybę, kai įgūdis bandomas įprastomis aplinkybėmis (taip pat žr. **įgūdžio rodiklis**).*
+***Pavyzdžiui,*** *Sprogdinimas 43 % yra 43 įvertinimas, reiškiantis 43 % sėkmės tikimybę, kai įgūdis naudojamas įprastomis aplinkybėmis (taip pat žr. **įgūdžio įvertinimas**).*
 
-**Pasipriešinimo metimas (Resistance Roll):** Kai jūsų veikėjas nori atlikti veiksmą, kuriam priešinasi negyvas daiktas ar jėga, atitinkama charakteristika (pavyzdžiui, Jėga) priešpriešinama kitai tinkamai charakteristikai (pavyzdžiui, užstrigusių durų Jėgai). Abu skaičiai sutikrinami pasipriešinimo lentelėje (žr. žemiau), kad būtų nustatyta sėkmės tikimybė, ir vienas arba abu veikėjai ridenti kauliukus, kad pamatytų, kas laimi. Lygios charakteristikos reiškia 50 % sėkmės tikimybę. Pasipriešinimo metimai taip pat gali būti naudojami varžant vieną veikėją su kitu, pavyzdžiui, lenktyniaujant rankomis (Jėga prieš Jėgą).
+**Pasipriešinimo metimas (Resistance Roll):** Kai jūsų personažas nori atlikti veiksmą, kuriam priešinasi negyvas objektas ar jėga, atitinkama charakteristika (pavyzdžiui, JĖG) priešpriešinama kitai tinkamai charakteristikai (pavyzdžiui, užstrigusių durų JĖG). Abu skaičiai lyginami pasipriešinimo lentelėje (žr. žemiau), kad būtų nustatyta sėkmės tikimybė, ir vienas arba abu personažai meta kauliukus sužinoti, kam pavyko. Lygios charakteristikos reiškia 50 % sėkmės tikimybę. Pasipriešinimo metimai taip pat gali būti naudojami priešinant vieną personažą su kitu, pavyzdžiui, rankų lenkimo varžybose (JĖG prieš JĖG).
 
-**Pasipriešinimo lentelė (Resistance Table):** Lentelė, rodanti charakteristikos santykį su charakteristika. Norėdami naudoti pasipriešinimo lentelę, suraskite priešišką jėgą vertikaliame stulpelyje, besipriešinančią jėgą horizontaliame stulpelyje, tada juos sutikrinkite, kad surastumėte sėkmės tikimybę, išreikštą procentais.
+**Pasipriešinimo lentelė (Resistance Table):** Lentelė, rodanti charakteristikos santykį su charakteristika. Norėdami naudotis pasipriešinimo lentele, raskite priešingą jėgą vertikaliame stulpelyje, besipriešinančią jėgą horizontaliame stulpelyje, tada juos palyginkite, kad rastumėte sėkmės tikimybę, išreikštą procentais.
 
-**Metimas (Roll):** D100 metimas siekiant nustatyti, ar bandymas atlikti įgūdį, gebėjimą ar galią buvo sėkmingas. Įgūdžio metimo rezultatas yra **kritinė sėkmė**, **speciali sėkmė**, **sėkmė**, **nesėkmė** arba **fumblis**. Papildomi būdai sėkmės kokybei nustatyti pateikiami papildomose taisyklėse.
+**Metimas (Roll):** D100 metimas siekiant nustatyti, ar bandymas atlikti įgūdį, gebėjimą ar galią buvo sėkmingas. Įgūdžio metimo rezultatas yra **kritinė sėkmė**, **ypatinga sėkmė**, **sėkmė**, **nesėkmė** arba **klaida**. Papildomi sėkmės kokybės nustatymo būdai pateikiami papildomose taisyklėse.
 
-**Sveikas protas / Sanity (Sanity):** Papildoma sistema, kurioje jūsų veikėjo psichinė sveikata matuojama jo gebėjimu atlaikyti siaubingus vaizdus, įvykius ir atradimus. Sveikam protui mažėjant, ryšys su realybe silpsta. Jei jūsų veikėjas vienu metu praranda per daug Sveiko proto taškų, jis gali laikinai arba visam laikui išprotėti.
+**Sveikas protas (Sanity):** Papildoma sistema, kurioje jūsų personažo psichinė sveikata matuojama gebėjimu atlaikyti siaubingus vaizdus, įvykius ir apreiškimus. Sveikam protui mažėjant, ryšys su realybe silpnėja. Jei jūsų personažas vienu metu praranda per daug sveiko proto, jis gali laikinai ar visam laikui išprotėti.
 
-**Įgūdis (Skill):** Gebėjimas, mokymas, žinių sritis, talentas, specialybė ar kažkas, apie ką jūsų veikėjas kažką žino (arba yra talentingas), kiekybiškai įvertintas kaip įgūdžio lygis. Įgūdžiai naudojami atliekant įgūdžių metimus, kai procentiniai kauliukai metami prieš įgūdžio rodiklį.
+**Įgūdis (Skill):** Gebėjimas, mokymas, žinių sritis, talentas, specialybė arba dalykas, apie kurį jūsų personažas kažką žino (arba turi talentą), kiekybiškai įvertintas kaip įgūdžio lygis. Įgūdžiai naudojami įgūdžių metimuose, kur procentiniai kauliukai metami prieš įgūdžio įvertinimą.
 
-**Įgūdžio rodiklis (Skill Rating):** Jūsų veikėjo kompetencijos laipsnis įgūdyje, išreikštas skaičiumi nuo 00 % (jokio įgūdžio) iki 100 % ar daugiau (pasaulinio lygio ekspertas).
+**Įgūdžio įvertinimas (Skill Rating):** Kompetencijos laipsnis, kurį jūsų personažas turi su įgūdžiu, išreikštas skaičiumi nuo 00 % (visiško įgūdžio nebuvimas) iki 100 % ar daugiau (pasaulinio lygio ekspertas).
 
-**Speciali sėkmė (Special Success):** 1/5 reikiamos sėkmės vertės metimas rodo, kad jūsų veikėjas pasirodė itin gerai ir pasiekė geresnį rezultatą nei tradicinė sėkmė. Tai ypač svarbu kovos metu.
+**Ypatinga sėkmė (Special Success):** 1/5 reikiamo sėkmės balo metimas rodo, kad jūsų personažas pasirodė išskirtinai gerai ir pasiekė geresnį rezultatą nei įprasta sėkmė. Tai ypač svarbu kovos metu.
 
-***Pavyzdžiui,*** *veikėjas, turintis 70 % įgūdį, kuris išmeta 14 ar mažiau, pasiekė specialią sėkmę.*
+***Pavyzdžiui,*** *personažas, turintis 70 % įgūdį, kuris išmeta 14 ar mažiau, pasiekė ypatingą sėkmę.*
 
-**Sėkmė (Success):** Procentinio kauliuko metimo rezultatas, kai jūsų veikėjas užduotį atliko tinkamai ir pasiekė vidutinę sėkmės kokybę. Jei metimas labai žemas, tai gali būti **speciali sėkmė** arba **kritinė sėkmė**, kaip aprašyta aukščiau. Jei jis viršija gebėjimo rodiklį, tai dažniausiai yra **nesėkmė**. Jei jis labai aukštas, pavyzdžiui, 00, tai gali būti **fumblis**.
+**Sėkmė (Success):** Procentinio kauliukų metimo rezultatas, kai jūsų personažas atliko užduotį tinkamai ir pasiekė vidutinę sėkmės kokybę. Jei metimas labai mažas, tai gali būti **ypatinga sėkmė** arba **kritinė sėkmė**, kaip aprašyta aukščiau. Jei jis viršija gebėjimo reitingą, tai paprastai yra **nesėkmė**. Jei jis labai aukštas, pavyzdžiui, 00, tai gali būti **klaida**.
 
-***Pavyzdžiui,*** *jei jūsų veikėjas turi 70 % įgūdį ir išmeta 70 ar mažiau, jis pasiekė sėkmę.*
+***Pavyzdžiui,*** *jei jūsų personažas turi 70 % įgūdį ir išmeta 70 ar mažiau, jis sėkmingai atliko veiksmą.*
 
 ### Žaidimui reikalingos medžiagos
 
-Kaip žaidėjui, jums tereikia šios knygos, pieštuko, galbūt tuščio popieriaus lapo ir žaidimo kauliukų rinkinio. Kauliukų galima įsigyti internetu daugelyje žaidimų ir pomėgių parduotuvių, jie būna įvairių spalvų, formų, dydžių, kokybės ir kainų. Jums reikės bent vieno pilno rinkinio, po vieną kiekvieno, tačiau naudinga turėti daugiau. Daugiau informacijos apie kauliukus ir jų ridenimo metodus rasite žemiau. Kai kurios žaidimų grupės naudoja figūrėles kaip veikėjų reprezentaciją, tad jei taip yra jūsų grupėje, galbūt norėsite atsinešti figūrėlę, kuri bent šiek tiek primena jūsų veikėją. Vis dėlto, paprastai tereikia atsinešti savo kūrybinę energiją į žaidimą.
+Kaip žaidėjui, jums reikia nedaug: šios knygos, pieštuko, galbūt tuščio popieriaus lapo ir žaidimo kauliukų rinkinio. Kauliukų galima įsigyti internetu daugelyje žaidimų ir pomėgių parduotuvių, jie būna įvairių spalvų, formų, dydžių, kokybės ir kainų. Jums reikės bent vieno pilno rinkinio, po vieną kiekvieno, tačiau daugiau yra naudingiau. Daugiau informacijos apie kauliukus ir kauliukų metimo būdus žr. žemiau. Kai kurios žaidimų grupės naudoja figūrėles kaip personažų reprezentaciją, tad jei tai taikoma jūsų grupei, galbūt norėsite atsinešti figūrėlę, kuri šiek tiek primena jūsų personažą. Tačiau paprastai į žaidimą tiesiog reikia atsinešti savo kūrybinę energiją.
 
-Kaip žaidimo meistrui, jums reikia šiek tiek daugiau nei žaidėjui, bet ne daug. Turėtumėte turėti šios taisyklių knygos kopiją ir daugiau tuščio popieriaus savo pastaboms. Gera idėja yra pasidaryti pateikto arba svetainėje chaosium.com rasto veikėjo lapo kopijas.
+Kaip žaidimų meistrui, jums reikia šiek tiek daugiau nei žaidėjui, bet ne daug. Turėtumėte turėti šios taisyklių knygos kopiją ir daugiau tuščio popieriaus savo užrašams. Gera idėja yra pasidaryti kopijų personažo lapo, pateikto knygoje arba rasto chaosium.com svetainėje.
 
-Be to, turėtumėte būti pasiruošę nuotykį arba bent jau idėją, kas gali nutikti žaidime. Tai gali būti jūsų paties kūryba arba paruoštas nuotykis. Arba galite pritaikyti kitos žaidimų kompanijos nuotykį, skirtą kitoms žaidimų sistemoms. Galite paruošti kitas medžiagas, priklausomai nuo to, kiek mėgstate ruošti dalijamąją medžiagą ar nuorodų lapus. Daugiau apie visa tai sužinosite Devintame skyriuje: Žaidimo vedimas.
+Be to, turėtumėte turėti paruoštą nuotykį arba bent jau idėją, kas gali nutikti žaidime. Tai gali būti jūsų paties kūryba arba paruoštas nuotykis. Arba galite pritaikyti nuotykį iš kitos žaidimų kompanijos kitoms žaidimų sistemoms. Galite paruošti kitų medžiagų, priklausomai nuo to, kiek mėgstate ruošti informacinius lapus ar nuorodų lenteles. Daugiau apie visa tai sužinosite devintame skyriuje: „Žaidimų meistravimas“.
 
 ### Kauliukai
 
-„Basic Roleplaying“ naudoja keturių, šešių, aštuonių, dešimties, dvylikos ir 20-pusius kauliukus (sutrumpintai D4, D6, D8, D10, D12 ir D20). Kauliukai paprastai metami, rezultatai nuskaitomi kaip parodyta, o jei metami keli kauliukai, jų rezultatai sudedami. Taigi, 3D6 reiškia, kad reikia ridenti tris šešių pusių kauliukus ir sudėti rezultatus.
+„Basic Roleplaying“ naudoja keturių, šešių, aštuonių, dešimties, dvylikos ir 20-pusių kauliukus (sutrumpintai D4, D6, D8, D10, D12 ir D20). Kauliukai paprastai metami, rezultatai skaitomi tokie, kokie parodyti, o jei metami keli kauliukai, jie sudedami. Taigi, 3D6 reiškia mesti tris šešių pusių kauliukus ir sudėti rezultatus.
 
-Pavyzdžiui, 3D6 metimas, kurio rezultatai 1, 4 ir 6, duotų 11. Kauliukus taip pat galima sudėti skirtingais nominalais, pavyzdžiui, 2D6+1D4, reiškia ridenti du šešių pusių kauliukus ir vieną keturių pusių kauliuką, ir sudėti jų sumas.
+Pavyzdžiui, 3D6 metimas, kurio rezultatai 1, 4 ir 6, iš viso būtų 11. Kauliukus taip pat galima sudėti skirtingais nominalais, pavyzdžiui, 2D6+1D4, reiškiančius mesti du šešių pusių kauliukus ir vieną keturių pusių kauliuką ir sudėti jų sumas.
 
-Kauliukų rezultatai kartais modifikuojami pridedant arba atimant skaičius iš pradinio metimo, pavyzdžiui, 1D6–1 reiškia ridenti vieną šešių pusių kauliuką ir atimti 1 iš sumos, o tai reiškia, kad metimo diapazonas yra nuo 0 iki 5.
+Kauliukų rezultatai kartais modifikuojami pridedant ar atimant skaičius nuo pradinio metimo, pavyzdžiui, 1D6–1, reiškiančius mesti vieną šešių pusių kauliuką ir atimti 1 iš bendros sumos, t. y. metimo diapazonas yra nuo 0 iki 5.
 
-Kauliukų sumos gali būti dauginamos, pavyzdžiui, 1D10×10, reiškia, kad metimo diapazonas yra nuo 10 iki 100.
+Kauliukų sumas galima dauginti, pavyzdžiui, 1D10×10, reiškiančius, kad metimo diapazonas yra nuo 10 iki 100.
 
-Kartais kauliukų metimai neatitinka tikslių kauliukų skaičių, pavyzdžiui, D3, kuris yra D6 metimo rezultatas padalintas iš dviejų ir suapvalintas į viršų. D2 arba D5 metimui atitinkamai naudojami D4 ir D10, kurie ridenami ir dalijami panašiu būdu. Tokio pobūdžio metimai yra reti.
+Kartais kauliukų metimai neatitinka tikslių kauliukų skaičių, pavyzdžiui, D3, kuris yra D6 metimo rezultatas padalintas iš dviejų ir suapvalintas į viršų. D2 arba D5 metimui naudojami atitinkamai D4 ir D10, kurie metami ir dalijami panašiu būdu. Tokie metimai yra reti.
 
-Procentiniai kauliukai yra du D10 kauliukai, metami kartu, vienas skiriamas dešimtims, o kitas – vienetams.
+Procentiniai kauliukai yra du kartu metami D10, iš kurių vienas skaičiuojamas kaip dešimčių skaičius, o kitas – vienetų.
 
-Pavyzdžiui, du D10 kauliukai gali duoti 7 ir 3, arba 73 %.
+Pavyzdžiui, dviejų D10 metimas gali duoti 7 ir 3, arba 73 %.
 
-01 % metimas laikomas idealiu, o 100 % (0 ir 0 metimai) paprastai yra nesėkmė ir mažiausiai pageidaujamas metimas. Įprasta dešimčių ir vienetų skaitmenims naudoti skirtingų spalvų kauliukus, nors dabar yra lengvai prieinami procentiniai kauliukai, kurių dešimtys patogumo dėlei pažymėtos 00, 10, 20, 30 ir t. t.
+01 % metimas laikomas idealiu, o 100 % (0 ir 0 metimai) paprastai yra nesėkmė ir mažiausiai pageidaujamas rezultatas. Patogu naudoti skirtingų spalvų kauliukus dešimčių ir vienetų skaitmenims, nors dabar lengvai prieinami procentiniai kauliukai, kur dešimtys patogumui pažymėtos 00, 10, 20, 30 ir t. t.
 
-Kauliukų ridenimo programėlės taip pat atlieka visa tai ir yra plačiai prieinamos.
+Taip pat dažniausiai naudojamos kauliukų metimo programėlės, kurios atlieka visus šiuos veiksmus.
 
 ## Štai patys dažniausi kauliukai:
 
-**D2**: Duoda 1 arba 2 rezultatą. Galite ridenti D4 (ar bet kokį kitą lyginės pusės kauliuką) ir padalinti pusiau, su moneta (herbas = 1, skaičius = 2) arba paimti bet kokį kauliuką ir ridenti (nelyginis = 1, lyginis = 2).
+**D2**: Tai duoda 1 arba 2 rezultatą. Galite mesti D4 (ar bet kokį kitą lyginį kauliuką) ir padalinti jį per pusę, mesti monetą (herbas = 1, skaičius = 2) arba paimti bet kokį kauliuką ir mesti (nelyginis rezultatas = 1, lyginis rezultatas = 2).
 
-**D3**: Ridėkite D6 ir padalinkite pusiau, suapvalindami į viršų.
+**D3**: Meskite D6 ir padalinkite per pusę, suapvalindami į viršų.
 
-**D4**: Keturių pusių kauliukas, duodantis 1–4 rezultatą. Dažnai naudojamas su žalos premijomis.
+**D4**: Keturių pusių kauliukas, duodantis 1–4 rezultatą. Dažnai naudojamas su žalos priedais.
 
-**D6**: Antras pagal populiarumą kauliukas, duodantis 1–6 rezultatą. Tikriausiai jau esate susipažinę su tokiais kauliukais.
+**D6**: Antras dažniausiai naudojamas kauliukas, duodantis 1–6 rezultatą. Tikriausiai jau esate susipažinę su tokiais kauliukais.
 
 **D8**: Aštuonių pusių kauliukas, duodantis 1–8 rezultatą.
 
-**D10**: Dešimties pusių kauliukas, duodantis 1–10 rezultatą, kai 0 pusė reiškia 10. Dažniausiai naudojamas su kitu D10 kaip procentinio metimo dalis.
+**D10**: Dešimties pusių kauliukas, duodantis 1–10 rezultatą, kur 0 pusė atstovauja 10. Dažniausiai naudojamas kartu su kitu D10 kaip procentinio kauliukų metimo dalis.
 
-**D12**: 12-pusis kauliukas, duodantis 1–12 rezultatą. Šis kauliukų tipas naudojamas gana retai.
+**D12**: 12-pusių kauliukas, duodantis 1–12 rezultatą. Šio tipo kauliukai naudojami gana retai.
 
-**D20**: 20-pusis kauliukas, duodantis 1–20 rezultatą. Šis kauliukų tipas naudojamas retai, išskyrus papildomą sužalojimo vietos sistemą.
+**D20**: 20-pusių kauliukas, duodantis 1–20 rezultatą. Šio tipo kauliukas retai naudojamas ne pagal papildomą sužeidimo vietos sistemą.
 
-**D100**: Du dešimties pusių kauliukai, metami kartu, vienam reprezentuojant dešimčių vertę, o kitam – vienetų. Tai dažniausias BRP kauliukų metimas. Nors dažniausiai tai procentinis metimas, šie kauliukai kartais ridenami baziniam rezultatui.
+**D100**: Du dešimties pusių kauliukai, metami kartu, vienas reprezentuojantis dešimčių vertę, kitas – vienetų vertę. Tai dažniausias BRP kauliukų metimas. Nors paprastai tai procentinis metimas, kartais šie kauliukai metami pagrindiniam rezultatui gauti.
 
-Pavyzdžiui, žaidimo meistras gali nustatyti, kad kiekvienas banditų grupės narys turi D100 varinių monetų. Jei banditai nugalimi, žaidimo meistras ridentų kauliukus už kiekvieną iš jų.
+Pavyzdžiui, žaidimų meistras gali nustatyti, kad kiekvienas banditų grupės narys turi D100 varinių monetų. Jei banditai nugalimi, žaidimų meistras meta kauliukus už kiekvieną iš jų.
 
 Kai kuriuose specializuotuose kauliukų rinkiniuose yra net retų tipų, tokių kaip D2, D3 ir t. t., tačiau jie nėra būtini.
 
-
 > ### Papildomos taisyklės
-> 
-> Bėgant metams į „Basic Roleplaying“ žaidimus buvo įvestos įvairios posisteminės taisyklės, apimančios konkrečiam žaidimui tinkamas situacijas ar sąlygas, pavyzdžiui, išplėstos kovos sistemos fantastiniams žaidimams, proto ligų ir tyrimų taisyklės siaubo žaidimams, transporto priemonių ir erdvėlaivių naudojimo taisyklės, didžiųjų aistrų ir asmenybės bruožų reglamentavimas, skirtingos žanrą atitinkančios magijos sistemos ir t. t. Netgi pagrindiniai elementai buvo keičiami arba traktuojami skirtingai, kartais net skirtinguose to paties žaidimo leidimuose.
-> 
-> Šios variacijos pateikiamos čia kaip papildomos taisyklės, nurodytos tokiuose langeliuose, su pasiūlymais, kada jas naudoti, pastabomis apie tai, kaip jos veikia žaidimą, o kai kuriais atvejais – kaip jos sąveikauja su kitomis papildomomis taisyklėmis. Taigi, žaidimo meistras gali pasirinkti papildomas taisykles pagal pageidavimą.
-> 
-> Prieš pradedant žaisti, turėtumėte nuspręsti, kokias papildomas taisykles norite naudoti, ypač tas, kurios taikomos veikėjo kūrimui. *Dešimtame skyriuje: Nustatymai* siūloma, kurios papildomos taisyklės gerai dera su tam tikrais nustatymais, be to, visas sąrašas pateiktas *Devintame skyriuje: Žaidimo vedimas*.
+>
+> Bėgant metams, į „Basic Roleplaying“ žaidimus buvo įtrauktos įvairios posistemės, skirtos specifinėms situacijoms ar sąlygoms padengti, pavyzdžiui, išplėstos kovos sistemos fantastiniams žaidimams, taisyklės beprotybei ir tyrimams siaubo žaidimams, transporto priemonių ir erdvėlaivių naudojimo taisyklės, didžiųjų aistrų ir asmenybės bruožų reglamentavimo taisyklės, skirtingos žanrą atitinkančios magijos sistemos ir t. t. Net pagrindiniai elementai buvo keičiami ar traktuojami skirtingai, kartais net skirtinguose to paties žaidimo leidimuose.
+>
+> Šios variacijos čia pateikiamos kaip papildomos taisyklės, rodomos tokiuose langeliuose kaip šis, su pasiūlymais, kada jas naudoti, pastabomis apie tai, kaip jos veikia žaidimą, o kai kuriais atvejais – kaip jos sąveikauja su kitomis papildomomis taisyklėmis. Taigi žaidimų meistras gali pasirinkti papildomas taisykles savo nuožiūra.
+>
+> Prieš pradėdami žaidimą, turėtumėte nuspręsti, kokias papildomas taisykles norite naudoti, ypač tas, kurios taikomos kuriant personažą. Dešimtas skyrius: „Nustatymai“ siūlo, kokios papildomos taisyklės gerai dera su tam tikrais nustatymais, be to, visas sąrašas pateikiamas devintame skyriuje: „Žaidimų meistravimas“.

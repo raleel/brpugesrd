@@ -1,189 +1,189 @@
-# 1\. Panimula
+# 1. Panimula
 
-Maligayang pagdating sa sistemang Basic Roleplaying ng Chaosium, isa sa mga pinaka-maimpluwensyang sistema ng roleplaying game sa mundo.
+Maligayang pagdating sa sistemang Basic Roleplaying ng Chaosium, isa sa pinaka-maimpluwensyang sistema ng roleplaying game sa mundo.
 
-Kung pamilyar ka na sa mga roleplaying game, maaari mong laktawan ang malaking bahagi ng panimulang ito. Tinatalakay nito ang mga terminong ginagamit sa sistemang Basic Roleplaying. Para sa mga beteranong manlalaro, ang tanging bahagi ng panimulang ito na dapat mong bigyang-pansin ay ang seksyong Opsyonal na mga Panuntunan.
+Kung pamilyar ka na sa mga roleplaying game, maaari mong laktawan ang malaking bahagi ng panimulang ito. Sakop nito ang mga terminong ginagamit sa sistemang Basic Roleplaying. Para sa mga beteranong manlalaro, ang tanging seksyon sa panimulang ito na dapat mong pagtuunan ng pansin ay ang seksyon ng Mga Opsyonal na Panuntunan (Optional Rules).
 
-## Mga Terminong Ginamit sa Basic Roleplaying
+## Mga Termino sa Basic Roleplaying
 
-Ang mga sumusunod na termino ay madalas gamitin sa aklat na ito. Ang ilan ay karaniwan sa mga roleplaying game, at ibinigay bilang tulong sa mga bago at may karanasan nang manlalaro. Ang bawat isa ay ipinaliliwanag nang malawakan sa mga nauugnay na seksyon.
+Ang mga sumusunod na termino ay madalas gamitin sa aklat na ito. Ang ilan ay karaniwan sa mga roleplaying game, at ibinibigay bilang tulong sa mga baguhan at bihasang manlalaro. Ang bawat isa ay ipinaliliwanag nang malawakan sa mga nauugnay na seksyon.
 
-**Ability (Kakayahan):** Isang bagay na kayang gawin o maramdaman ng isang karakter, maging ito man ay isang kasanayan (skill), pasyon (passion), o iba pang salik na may rating na 1–100. Karaniwan, kapag matagumpay mong na-roll ang isang kakayahan, makakakuha ka ng experience check.
+**Kakayahan (Ability):** Isang bagay na kayang gawin o madama ng isang karakter, maging ito ay isang skill, pasyon, o iba pang salik na may rating na 1–100. Karaniwan, kapag matagumpay mong na-roll ang isang kakayahan, makakakuha ka ng experience check.
 
-**Allegiance (Katapatan):** Isang opsyonal na sistema na sumusukat sa debosyon sa isang espirituwal na nilalang, prinsipyo, o diyos, na napapabuti sa pamamagitan ng pagsasagawa ng mga paboritong gawain.
+**Katapatan (Allegiance):** Isang opsyonal na sistema na sumusukat sa debosyon sa isang espirituwal na nilalang, prinsipyo, o diyos, na napapabuti sa pamamagitan ng pagsasagawa ng mga paboritong aksyon.
 
-**Augment (Pagpapalakas):** Paggamit ng isang kakayahan upang baguhin ang tsansa ng tagumpay gamit ang isa pang kakayahan, gaya ng kapag ang isang kasanayan ay nagbibigay ng karagdagang suporta sa isa pa, o ang isang pasyon ay makakatulong upang mapabuti ang tsansa na magtagumpay ang isang kasanayan.
+**Pagdagdag (Augment):** Paggamit ng isang kakayahan upang baguhin ang tsansa ng tagumpay gamit ang isa pang kakayahan, gaya ng kapag ang isang skill ay nagbibigay ng karagdagang suporta sa isa pa, o ang isang pasyon ay makatutulong upang mapabuti ang tsansa ng tagumpay ng isang skill.
 
-**Base Chance (Batayang Tsansa):** Ang default na tsansa ng tagumpay sa isang kasanayan kung saan ang karakter ay walang pagsasanay o karanasan.
+**Base na Tsansa (Base Chance):** Ang default na tsansa ng tagumpay sa isang skill kung saan ang karakter ay walang pagsasanay o karanasan.
 
-***Halimbawa,*** *sa character sheet, ang Hide (20%) ay nangangahulugan na kahit hindi naglaan ang iyong karakter ng anumang skill points sa kasanayang Hide, mayroon silang 20% na natural na kakayahan dito.*
+***Halimbawa,*** *sa character sheet, ang Hide (20%) ay nangangahulugan na kahit hindi naglagay ang iyong karakter ng anumang skill points sa skill na Hide, mayroon silang 20% natural na kakayahan dito.*
 
-**Base Range (Batayang Saklaw):** Ang normal na distansya kung saan ang isang missile weapon ay maaaring tumama sa isang target.
+**Base na Saklaw (Base Range):** Ang normal na distansya kung saan ang isang missile weapon ay maaaring tumama sa target.
 
-**Character (Karakter):** Ang papel na ginagampanan mo sa isang session ng laro, na inilalarawan sa mekaniks ng laro sa pamamagitan ng mga halaga gaya ng mga katangian (characteristics) at kabuuang kasanayan (skill totals). Karaniwan, ang mga karakter ay may mga pangalan at background na itinatakda ng manlalaro, na may tulong at/o pag-apruba mula sa gamemaster. (tingnan din ang **player character** at **nonplayer character**).
+**Karakter (Character):** Ang papel na ginagampanan mo sa isang game session, na inilalarawan sa mga mekanika ng laro sa pamamagitan ng mga halaga gaya ng mga katangian (characteristics) at kabuuang skill. Karaniwan, ang mga karakter ay may mga pangalan at background na tinutukoy ng manlalaro, na may tulong at/o pag-apruba mula sa gamemaster. (tingnan din ang **player character** at **nonplayer character**).
 
-**Characteristic (Katangian):** Ang pisikal, mental, at espirituwal na mga katangian ng iyong karakter (Lakas, Konstitusyon, Laki, Katalinuhan, Kapangyarihan, Liksi, at Karisma), na may numerikong rating sa isang scale (karaniwan ay 3–18), kung saan ang average ng tao ay 10-11.
+**Katangian (Characteristic):** Ang mga pisikal, mental, at espirituwal na katangian ng iyong karakter (LAK, TIB, SUK, TAL, KAP, KAD, at KAA), na may numerical na rating sa isang sukat (karaniwan ay 3–18), kung saan ang average ng tao ay 10-11.
 
-***Halimbawa,*** *kung ang paunang maximum na katangian ay 18, ang STR 17 ay nangangahulugang ang iyong karakter ay napakalakas, habang ang DEX 7 ay nangangahulugang medyo mabagal sila kumilos.*
+***Halimbawa,*** *kung ang paunang maximum na katangian ay 18, ang LAK 17 ay nangangahulugan na ang iyong karakter ay napakalakas, habang ang KAD 7 ay nangangahulugan na sila ay medyo clumsier.*
 
-**Characteristic Roll:** Isa sa mga katangian ng iyong karakter na pinarami ng isang numero (halimbawa, Katalinuhan ×3), na ipinapahayag bilang porsyento, at ni-roll gamit ang percentile dice. Ang characteristic roll ay karaniwang ×5, ngunit maaaring gumamit ng ibang mga multiplier.
+**Roll ng Katangian (Characteristic Roll):** Isa sa mga katangian ng iyong karakter na pinarami ng isang numero (halimbawa, TAL ×3), na ipinapahayag bilang porsyento, at ni-roll gamit ang percentile dice. Ang roll ng katangian ay karaniwang ×5, ngunit maaaring gumamit ng ibang mga multiplier.
 
-***Halimbawa,*** *kung ang katangiang Katalinuhan ng iyong karakter ay 14, mayroon silang 42% na tsansa na magtagumpay sa isang characteristic check na may multiplier na ×3.*
+***Halimbawa,*** *kung ang katangiang TAL ng iyong karakter ay 14, mayroon silang 42% na tsansa na magtagumpay sa isang check ng katangian na may multiplier na ×3.*
 
-**Combat Round:** Isang 12-segundong (o katumbas nito) yugto ng oras na ipinapatupad sa panahon ng labanan o mga dramatikong aktibidad, kung saan ang pagkakasunod-sunod ng mga pangyayari ay mahalaga. Ito ay oras sa laro, hindi totoong oras—ang mga kaganapan sa loob ng ilang segundo ng aksyon ay maaaring tumagal ng ilang minuto bago matapos sa pagitan ng mga manlalaro at gamemaster.
+**Combat Round:** Isang 12-segundo (o katumbas) na dami ng oras na ipinapataw habang nakikipaglaban o sa mga dramatikong aktibidad, kung saan ang pagkakasunod-sunod ng mga aksyon ay mahalaga. Ito ay oras ng laro, hindi totoong oras—ang mga pangyayari sa loob ng ilang segundong aksyon ay maaaring tumagal ng ilang minuto bago matapos sa pagitan ng mga manlalaro at ng gamemaster.
 
-**Critical Success (Kritikal na Tagumpay):** Ito ang resulta ng isang skill check roll na 1/20 (o 5%) ng regular na tsansa ng tagumpay. Karaniwan, ang isang kritikal na tagumpay ay ginagantimpalaan ng mas mahusay na mga resulta, bagaman sa ilang mga kaso, ang kritikal na tagumpay ay kinakailangan upang magtagumpay nang tuluyan.
+**Kritikal na Tagumpay (Critical Success):** Ito ang resulta ng isang skill check roll na 1/20 (o 5%) ng regular na tsansa ng tagumpay. Karaniwan, ang kritikal na tagumpay ay ginagantimpalaan ng mas malalaking resulta, bagaman sa ilang mga kaso, ang kritikal na tagumpay ay kinakailangan upang magtagumpay sa lahat.
 
-***Halimbawa,*** *kung ang regular na tsansa para sa tagumpay ay 75%, anumang roll na 4 o mas mababa ay isang kritikal na tagumpay (ang 1/20 ng 75% ay 3.75, na ini-round up sa 4).*
+***Halimbawa,*** *kung ang regular na tsansa para sa tagumpay ay 75%, anumang roll na 4 o mas mababa ay isang kritikal na tagumpay (1/20 ng 75% ay 3.75, na ni-round up sa 4).*
 
-**D100:** Isang percentile die roll, na nakukuha sa pamamagitan ng pag-roll ng dalawang 10-sided dice (D10s), kung saan ang isa ay kumakatawan sa tens at ang isa naman ay sa ones. Ang ilang dice ay may marka na bilang 'tens' (00, 10, 20, atbp.) at palaging ginagamit bilang unang numero sa isang D100 roll. Ang roll na 01 ang pinakamagandang resulta, habang ang 100 (na karaniwang binabasa bilang 00) ang pinakamasama.
+**D100:** Isang percentile die roll, na nakukuha sa pamamagitan ng pag-roll ng dalawang 10-sided dice (D10s), kung saan ang isa ay kumakatawan sa mga sampuan, at ang isa ay sa mga isahan. Ang ilang dice ay may marka na bilang 'tens' (00, 10, 20, atbp.) at laging ginagamit bilang unang numero sa isang D100 roll. Ang roll na 01 ang pinakamahusay na resulta, habang ang 100 (na karaniwang binabasa bilang 00) ang pinakamasama.
 
-***Halimbawa,*** *ang roll na 60 (o 6) at 2 ay katumbas ng resulta na 62.*
+***Halimbawa,*** *ang roll na 60 (o 6) at 2 ay katumbas ng resultang 62.*
 
-**Damage (Pinsala):** Isang halaga na kumakatawan sa pinsala, na ibinabawas mula sa hit points ng isang karakter. Ang mga armas, kapus-palad na mga pangyayari, at iba pang panganib ay nagdudulot ng pinsala sa mga karakter.
+**Pinsala (Damage):** Isang halaga na kumakatawan sa pinsala, na ibinabawas mula sa hit points ng isang karakter. Ang mga sandata, kapus-palad na mga pangyayari, at iba pang panganib ay nagdudulot ng pinsala sa mga karakter.
 
-**Damage Modifier:** Isang modifier sa ni-roll na pinsala dahil sa mas mataas sa average na mga katangiang Lakas at Laki.
+**Modifier ng Pinsala (Damage Modifier):** Isang modifier sa ni-roll na pinsala dahil sa mas mataas na katangiang LAK at SUK kaysa sa average.
 
-**DEX Rank:** Batay sa katangiang Liksi (Dexterity), tinutukoy nito kung kailan karaniwang makakakilos ang iyong karakter sa panahon ng combat round. Ang mga karakter na may mas mataas na DEX ay karaniwang kikilos bago ang mga karakter na may mas mababang DEX.
+**KAD Rank:** Batay sa katangiang Dexterity (KAD), tinutukoy nito kung kailan karaniwang makakaaksyon ang iyong karakter sa panahon ng combat round. Ang mga karakter na may mas mataas na KAD ay karaniwang kumikilos bago ang mga karakter na may mas mababang KAD.
 
-**Difficulty Modifier:** Ang dami kung gaano binabago ang tsansa ng isang kasanayan, batay sa mga sitwasyong nakapalibot sa paggamit nito. Ang mga ito ay mula sa Awtomatiko (walang kailangang roll), Madali (ang kasanayan ay nadodoble), Average (walang pagbabago sa kasanayan), at Mahirap (ang kasanayan ay nahahati sa dalawa) hanggang sa Imposible (walang roll, o 01% na tsansa ayon sa pagpapasya ng gamemaster).
+**Modifier ng Hirap (Difficulty Modifier):** Ang halaga kung gaano binabago ang tsansa ng isang skill, batay sa mga pangyayaring nakapaligid sa paggamit nito. Ang mga ito ay mula sa Awtomatiko (walang kinakailangang roll), Madali (nadodoble ang skill), Average (walang pagbabago sa skill), at Mahirap (nahahati sa dalawa ang skill) hanggang sa Imposible (walang roll, o 01% na tsansa ayon sa pagpapasya ng gamemaster).
 
-**Experience Rolls:** Kung ikaw ay matagumpay sa isang roll para sa isa o higit pa sa mga kakayahan o characteristic resistance roll ng iyong karakter (tingnan sa ibaba), dapat mong markahan ang iyong character sheet sa nakalaang check box (minsan ang aksyong ito ay tinatawag na "experience check"), kung naaangkop. Mamaya, sa pagitan ng mga pakikipagsapalaran o sa panahon ng pahinga, maaari mong tukuyin kung ang kakayahan ng iyong karakter ay bumuti sa kasanayang iyon o kung ang katangian ay tumaas sa pamamagitan ng matagumpay na paggamit. Ang ilang kasanayan ay hindi maaaring mapabuti sa pamamagitan ng karanasan at dapat mapabuti sa pamamagitan ng ibang paraan.
+**Experience Rolls:** Kung matagumpay ka sa isang roll para sa isa o higit pa sa mga kakayahan ng iyong karakter o resistance rolls ng katangian (tingnan sa ibaba), dapat mong markahan ang iyong character sheet sa ibinigay na check box (minsan ang aksyong ito ay tinatawag na "experience check"), kung naaangkop. Pagkatapos, sa pagitan ng mga pakikipagsapalaran o sa panahon ng down-time, maaari mong matukoy kung ang kakayahan ng iyong karakter ay napabuti sa skill na iyon o kung ang katangian ay tumaas sa pamamagitan ng matagumpay na paggamit. Ang ilang mga skill ay hindi mapapabuti sa pamamagitan ng karanasan at dapat mapabuti sa pamamagitan ng ibang paraan.
 
-**Fail (Pagkabigo):** Isang roll ng percentile dice na mas mataas kaysa sa kinakailangang tsansa para sa tagumpay.
+**Mali (Fail):** Isang roll ng percentile dice na mas mataas kaysa sa kinakailangang tsansa para sa tagumpay.
 
 ***Halimbawa,*** *ang roll na 89 kapag ang kinakailangang tsansa ay 56% ay nagpapahiwatig ng pagkabigo.*
 
-**Fatal Wound (Nakamamatay na Sugat):** Isang sugat na nagkakahalaga sa iyong karakter ng mas maraming hit points kaysa sa kasalukuyan nilang taglay. Kung walang interbensyon (medikal o iba pa), ang kamatayan ay darating sa pagtatapos ng susunod na combat round.
+**Fatal Wound:** Isang sugat na nagkakahalaga sa iyong karakter ng mas maraming hit points kaysa sa kasalukuyan nilang taglay. Kung walang interbensyon (medikal o iba pa), ang kamatayan ay darating sa pagtatapos ng susunod na combat round.
 
-**Fatigue Points (Punto ng Pagkapagod):** Isang opsyonal na sistema, gamit ang mga katangiang Lakas at Konstitusyon ng iyong karakter upang tukuyin kung gaano katagal silang makakatagal sa matinding pisikal na aktibidad bago mapagod.
+**Fatigue Points:** Isang opsyonal na sistema, na gumagamit ng mga katangiang LAK at TIB ng iyong karakter upang matukoy kung gaano katagal nilang matitiis ang mabigat na pisikal na aktibidad bago mapagod.
 
 **Full Turn:** Isang yugto na binubuo ng 25 combat rounds, na katumbas ng limang minuto ng oras sa mundo ng laro.
 
-**Fumble (Pagkakamali):** Isang roll na 99 at/o 00 kapag nag-ro-roll ng percentile dice upang tukuyin ang tagumpay. Karaniwan, kapag ang fumble ay ipinahiwatig, may masamang nangyayari na higit pa sa simpleng pagkabigo.
+**Fumble:** Isang roll na 99 at/o 00 kapag nag-ro-roll ng percentile dice upang matukoy ang tagumpay. Karaniwan, kapag ang fumble ay ipinahiwatig, may masamang nangyayari na higit pa sa isang simpleng pagkabigo.
 
-**Gamemaster (GM):** Ang direktor, o gabay para sa laro, na tumutulong sa iyo na lumikha ng mga karakter, nag-iisip ng pakikipagsapalaran, at kinakatawan ang mundo sa labas ng iyong karakter, na nag-ro-roll ng dice para sa mga nonplayer character at sa mga kalabang puwersa.
+**Gamemaster (GM):** Ang direktor, o gabay para sa laro, na tumutulong sa iyo na lumikha ng mga karakter, gumagawa ng pakikipagsapalaran, at kinakatawan ang mundo sa labas ng iyong karakter, nagro-roll ng dice para sa mga nonplayer character at sa mga kalabang puwersa.
 
-**Game Time (Oras sa Laro):** Ang oras na lumilipas habang nagbubukas ang isang senaryo o kampanya gaya ng nararanasan ng iyong mga karakter. Ito ay karaniwang hindi pareho sa totoong oras na ginugugol mo at ng gamemaster sa paglalaro.
+**Oras ng Laro (Game Time):** Ang oras na lumilipas habang nagbubukas ang isang senaryo o kampanya gaya ng nararanasan ng iyong mga karakter. Ito ay karaniwang hindi kapareho ng totoong oras na ginugugol mo at ng gamemaster sa paglalaro.
 
-**Hit Location (Lokasyon ng Tama):** Isang opsyonal na sistema para sa pagtukoy kung saan tumama ang isang matagumpay na pag-atake sa katawan ng iyong karakter, o kung saan tumama ang kanilang mga pag-atake sa isang kaaway.
+**Hit Location:** Isang opsyonal na sistema para sa pagtukoy kung saan tumama ang isang matagumpay na pag-atake sa katawan ng iyong karakter, o kung saan tumama ang kanilang mga pag-atake sa isang kalaban.
 
-**Hit Points (Puntos ng Buhay):** Isang sukatan ng relatibong kalusugan ng iyong karakter, na kinakatawan sa isang halagang hango sa kanilang mga katangiang Konstitusyon at Laki. Ang mga umaatake ay nagdudulot ng pinsala sa hit points, na ibinabawas mula sa kabuuang hit points ng target. Karaniwan, kapag ang iyong karakter ay umabot sa 0 hit points, sila ay patay na.
+**Hit Points:** Isang sukatan ng relatibong kalusugan ng iyong karakter, na kinakatawan sa isang halaga na hango sa kanilang mga katangiang TIB at SUK. Ang mga umaatake ay nagdudulot ng pinsala sa hit points, na ibinabawas mula sa kabuuang hit points ng target. Karaniwan, kapag ang iyong karakter ay umabot sa 0 hit points, sila ay patay na.
 
-**“In character” o “Out of character”:** Ang pagkakaiba sa chat sa pagitan ng mga manlalaro at ng gamemaster sa paligid ng mesa ng laro, na kumakatawan sa pagkakaiba sa pagitan ng totoong diskusyon at diskusyon sa laro. Parehong nakakamit ang parehong layunin, ngunit kumakatawan sa iba't ibang istilo o aspeto ng paglalaro, at maaaring gamitin nang salitan sa paglalaro. Ang ilang mga grupo o manlalaro ay mas hilig sa isa o sa isa pa—ito ay isang elemento ng kagustuhan. Ang diskusyong “in character” ay puno ng flavor at nakaka-engganyo, habang ang diskusyong “out of character” ay mahalaga upang ilarawan ang mga mekaniks ng panuntunan at upang pabilisin ang paglalaro sa pamamagitan ng pag-iwas sa hindi kinakailangang detalye.
+**"In character" o "Out of character":** Ang pagkakaiba sa chat sa pagitan ng mga manlalaro at ng gamemaster sa paligid ng gaming table, na kumakatawan sa pagkakaiba sa pagitan ng diskusyon sa totoong mundo at diskusyon sa laro. Parehong nakakamit ang parehong layunin, ngunit kumakatawan sa iba't ibang istilo o aspeto ng paglalaro, at maaaring gamitin nang magkapalit sa paglalaro. Ang ilang mga grupo o manlalaro ay nakahilig sa isa o sa isa pa—ito ay isang elemento ng kagustuhan. Ang diskusyon na "In character" ay flavorful at immersive, habang ang diskusyon na "out of character" ay mahalaga upang ilarawan ang mga mekanika ng panuntunan at upang pabilisin ang paglalaro sa pamamagitan ng mga hindi kinakailangang detalye.
 
-***Halimbawa,*** *in character, maaari mong sabihin na 'Itinanong ni Sir Wilfric sa innkeeper "Maaari mo bang payagan kaming manatili sa gabi para sa pangako ng bayad sa hinaharap!"' habang out of character, maaari mong sabihin na "Susubukan kong i-Persuade ang innkeeper na hayaan kaming manatili ng isang gabi nang walang bayad."*
+***Halimbawa,*** *in character, maaari mong sabihin na 'Sir Wilfric asks the innkeeper “Could you perhaps allow us the night’s stay for a promise of future payment!”' habang out of character, maaari mong sabihin na “I try to Persuade the innkeeper to let us stay a night without pay.”*
 
 **Magic Points:** Ibang pangalan para sa power points (tingnan ang **power points**).
 
-**Major Wound (Malalang Sugat):** Isang pinsalang nagdudulot ng sapat na pinsala upang malampasan ang kalahati ng normal na kabuuang hit point ng karakter sa isang dagok. Karaniwang sinasamahan ng isang nakakapanghinang epekto.
+**Major Wound:** Isang pinsala na nagdudulot ng sapat na pinsala upang lumampas sa kalahati ng kabuuang normal na hit points ng karakter sa isang hampas. Karaniwang may kasamang nakapanghihinang epekto.
 
-**Minor Wound (Bahagyang Sugat):** Anumang solong pinsala na mas mababa sa malalang sugat sa tindi (mas mababa sa 1/2 ng normal na hit points).
+**Minor Wound:** Anumang solong pinsala na mas mababa sa major wound ang tindi (mas mababa sa 1/2 ng normal na hit points).
 
-**Modifiers (Mga Pagbabago):** Pansamantalang pagdaragdag o pagbabawas sa rating ng iyong karakter sa isang kakayahan, karaniwan ay mula sa mga pangyayari, kapaligiran, o kagamitan.
+**Modifiers:** Pansamantalang pagdaragdag o pagbabawas sa rating ng iyong karakter sa isang kakayahan, karaniwan mula sa mga pangyayari, kapaligiran, o kagamitan.
 
-***Halimbawa,*** *ang pagsubok na magbukas ng kandado gamit ang isang baluktot na paper clip ay isang halimbawa ng hindi pamantayang kagamitan, para sa –20% na modifier. Ang paggamit ng standard na lockpick ay hindi nagbabago sa kasanayan. Ang paggamit ng deluxe set ng calibrated precision lockpicks at lockpicking equipment ay nagdaragdag ng +20% sa rating ng kasanayan ng iyong karakter.*
+***Halimbawa,*** *ang pagsubok na magbukas ng kandado gamit ang baluktot na paper clip ay isang halimbawa ng substandard na kagamitan, para sa –20% modifier. Ang paggamit ng standard na lockpick ay hindi nagbabago sa skill. Ang paggamit ng deluxe set ng calibrated precision lockpicks at kagamitan sa pag-lockpick ay nagdaragdag ng +20% sa skill rating ng iyong karakter.*
 
-**Move (MOV):** Ang bilis ng paggalaw na magagawa ng iyong karakter sa panahon ng isang combat round. Ang pagsukat na ito ay nababaluktot, ngunit karaniwang isinasalin sa isang metro ng hindi minamadaling paggalaw bawat punto ng MOV.
+**Move (MOV):** Ang bilis ng paggalaw na magagawa ng iyong karakter sa panahon ng isang solong combat round. Ang sukat na ito ay flexible, ngunit karaniwang isinasalin sa isang metro ng hindi nagmamadaling paggalaw bawat punto ng MOV.
 
-**Nonplayer Character (NPC):** Isang karakter o nilalang sa mundo ng laro na ginagampanan o kinakatawan ng gamemaster, sa halip na gampanan mo o ng isa pang manlalaro.
+**Nonplayer Character (NPC):** Isang karakter o nilalang sa mundo ng laro na nilalaro o kinakatawan ng gamemaster, sa halip na laruin mo o ng ibang manlalaro.
 
-**Opposed Roll:** Kapag nais subukan ng iyong karakter ang isang aksyon na nais kontrahin ng ibang karakter (o nonplayer character) gamit ang isang "kabaligtarang" kasanayan na nagkansela o humahadlang sa unang aksyon. Sa kasong ito, parehong gagawin ang mga skill check, at paghahambingin ang mga resulta.
+**Opposed Roll:** Kapag ang iyong karakter ay gustong subukan ang isang aksyon na gustong kontrahin ng ibang karakter (o nonplayer character) gamit ang isang "kabaligtarang" skill na nagpapawalang-bisa o humahadlang sa unang aksyon. Sa kasong ito, parehong skill check ang gagawin, at ihahambing ang mga resulta.
 
 ***Halimbawa,*** *ang Stealth ay karaniwang kinokontra ng Listen.*
 
-**Passion (Pasyon):** Isang opsyonal na sistema kung saan ang isang matinding paniniwala patungo sa isang paksa—gaya ng Debosyon, Takot, Poot, Pag-ibig, Katapatan—ay sinusukat sa basehan ng porsyento. Ang mga pasyon ay ginagamit upang ipahiwatig o tukuyin kung ano ang nararamdaman ng iyong karakter tungkol sa paksa at kung gaano ito katindi, at madalas na ginagamit upang palakasin ang mga ability roll. (tingnan ang **augments**).
+**Pasyon (Passion):** Isang opsyonal na sistema kung saan ang isang matinding pinanghahawakang paniniwala sa isang paksa—gaya ng Debosyon, Takot, Poot, Pag-ibig, Katapatan—ay sinusukat sa basehang porsyento. Ang mga pasyon ay ginagamit upang ipahiwatig o matukoy kung ano ang nararamdaman ng iyong karakter tungkol sa paksa at kung gaano katindi, at madalas na ginagamit upang palakasin ang mga roll ng kakayahan. (tingnan ang **augments**).
 
-**Percentile Dice:** Dalawang D10 na ni-roll nang magkasama, kung saan ang isa ay itinalaga bilang tens figure, at ang isa naman ay ones. Ang ilang dice ay may numero sa mga yunit ng sampu, ibig sabihin, 00, 10, 20, 30, atbp. Tingnan din ang **D100**.
+**Percentile Dice:** Dalawang D10 na ni-roll nang magkasama, kung saan ang isa ay itinalaga bilang numero ng sampuan, at ang isa ay bilang mga isahan. Ang ilang dice ay may bilang sa mga yunit ng sampu, ibig sabihin, 00, 10, 20, 30, atbp. Tingnan din ang **D100**.
 
-**Player Character (PC):** Ito ang iyong karakter, karaniwang nilikha at halos palaging kinokontrol mo, na binubuo ng mga kakayahan at pagkakakilanlan na inaako mo sa pamamagitan ng roleplaying. Ang iyong karakter ay ang iyong representasyon sa mundo ng laro at nagbibigay-daan sa iyo upang makipag-ugnayan sa setting.
+**Player Character (PC):** Ito ang iyong karakter, na karaniwang nilikha at halos palaging kinokontrol mo, na binubuo ng mga kakayahan at pagkakakilanlan na inaako mo sa pamamagitan ng roleplaying. Ang iyong karakter ay ang iyong representasyon sa mundo ng laro at nagbibigay-daan sa iyo na makipag-ugnayan sa setting.
 
-**Power (Kapangyarihan):** Isang generic na termino para sa magic spells, mutations, psychic abilities, sorcery, o super abilities na maaaring taglayin ng iyong karakter (tingnan ang Kabanata Apat: Powers).
+**Kapangyarihan (Power):** Isang generic na termino para sa mga magic spell, mutation, psychic ability, sorcery, o super ability na maaaring taglayin ng iyong karakter (tingnan ang Kabanata Apat: Powers).
 
-**Power Points:** Ang dami ng willpower o enerhiya na mayroon ang iyong karakter, na kinakatawan bilang isang kabuuan batay sa kanilang katangiang Kapangyarihan. Ang mga ito ay ginagastos upang gumamit ng mga espesyal na kapangyarihan o kakayahan at maaaring maubos ng iba pang mga kakayahan. Kapag ang iyong karakter ay umabot sa 0 power points, sila ay mawawalan ng malay. Ang power points ay maaari ring tawaging **magic points** sa mga naaangkop na genre.
+**Power Points:** Ang dami ng willpower o enerhiya na mayroon ang iyong karakter, na kinakatawan bilang isang kabuuan batay sa kanilang katangiang KAP. Ang mga ito ay ginagastos upang gumamit ng mga espesyal na kapangyarihan o kakayahan at maaaring maubos ng ibang mga kakayahan. Kapag ang iyong karakter ay umabot sa 0 power points, mawawalan sila ng malay. Ang power points ay maaari ding tawaging **magic points** sa mga angkop na genre.
 
-**Profession (Propesyon):** Ang trabaho o okupasyon ng iyong karakter, na kinakatawan bilang isang listahan ng mga kasanayan na kanilang sinanay na gamitin (o nagkaroon ng pagkakataong matutunan).
+**Propesyon (Profession):** Ang trabaho ng iyong karakter, na kinakatawan bilang isang listahan ng mga skill na sinanay silang gamitin (o nagkaroon ng pagkakataong matutunan).
 
-**Rating:** Ang tsansa ng tagumpay para sa isang kakayahan, na may rating na halaga mula 1–100 (minsan mas mataas).
+**Rating:** Ang tsansa ng tagumpay para sa isang kakayahan, na rated bilang halaga mula 1–100 (minsan mas mataas).
 
-***Halimbawa,*** *ang Demolitions 43% ay isang rating na 43, na nangangahulugang 43% na tsansa ng tagumpay kapag ang kasanayan ay sinubukan sa panahon ng normal na mga pangyayari. (tingnan din ang **skill rating**).*
+***Halimbawa,*** *ang Demolitions 43% ay isang rating na 43, na nangangahulugang 43% tsansa ng tagumpay kapag ang skill ay sinubukan sa panahon ng normal na mga pangyayari. (tingnan din ang **skill rating**).*
 
-**Resistance Roll:** Kapag nais subukan ng iyong karakter ang isang aksyon na nilalabanan ng isang walang buhay na bagay o puwersa, ang nauugnay na katangian (halimbawa, Lakas) ay kinokontra sa isa pang naaangkop na katangian (halimbawa, ang Lakas ng nakasarang pinto). Ang dalawang numero ay ikino-cross-reference sa resistance table (tingnan sa ibaba) upang tukuyin ang tsansa ng tagumpay, at isa o parehong karakter ang mag-ro-roll ng dice upang makita kung sino ang magtatagumpay. Ang magkapantay na mga katangian ay nangangahulugan ng 50% na tsansa ng tagumpay. Ang mga resistance roll ay maaari ring gamitin kapag pinaglalaban ang isang karakter laban sa isa pang karakter, gaya ng arm-wrestling match (Lakas vs. Lakas).
+**Resistance Roll:** Kapag ang iyong karakter ay gustong subukan ang isang aksyon na nilalabanan ng isang walang buhay na bagay o puwersa, ang nauugnay na katangian (halimbawa, LAK) ay kinokontra sa isa pang angkop na katangian (halimbawa, LAK ng nakabara na pinto). Ang dalawang numero ay iko-cross-reference sa resistance table (tingnan sa ibaba) upang matukoy ang tsansa ng tagumpay, at ang isa o parehong karakter ay magro-roll ng dice upang makita kung sino ang magtatagumpay. Ang magkapantay na katangian ay nangangahulugan ng 50% tsansa ng tagumpay. Ang mga resistance roll ay maaari ding gamitin kapag pinaglalaban ang isang karakter laban sa isa pa, gaya ng arm-wrestling match (LAK vs. LAK).
 
-**Resistance Table:** Ang talahanayan na nagpapakita ng ratio ng katangian laban sa katangian. Upang gamitin ang resistance table, hanapin ang kalabang puwersa sa vertical column, ang lumalabang puwersa sa horizontal column, pagkatapos ay i-cross-reference ang mga ito upang mahanap ang posibilidad ng tagumpay, na ipinapahayag bilang percentile chance.
+**Resistance Table:** Ang talahanayan na nagpapakita ng ratio ng katangian laban sa katangian. Upang magamit ang resistance table, hanapin ang sumasalungat na puwersa sa patayong hanay, ang lumalaban na puwersa sa pahalang na hanay, pagkatapos ay i-cross-reference ang mga ito upang mahanap ang posibilidad ng tagumpay, na ipinahayag bilang porsyentong tsansa.
 
-**Roll:** Isang roll gamit ang D100 upang tukuyin kung ang pagtatangka sa pagsasagawa ng isang kasanayan, kakayahan, o kapangyarihan ay matagumpay. Ang resulta ng isang skill roll ay **critical success**, **special success**, **success**, **failure**, o isang **fumble**. Ang mga karagdagang paraan ng pagtukoy sa kalidad ng tagumpay ay ipinapakita sa mga opsyonal na panuntunan.
+**Roll:** Isang roll gamit ang D100 upang matukoy kung ang isang pagtatangka sa pagsasagawa ng isang skill, kakayahan, o kapangyarihan ay matagumpay. Ang resulta ng isang skill roll ay isang **kritikal na tagumpay**, **espesyal na tagumpay**, **tagumpay**, **pagkabigo**, o isang **fumble**. Ang mga karagdagang paraan ng pagtukoy sa kalidad ng tagumpay ay ipinapakita sa mga opsyonal na panuntunan.
 
-**Sanity (Katinuan):** Isang opsyonal na sistema kung saan ang mental na kalusugan ng iyong karakter ay sinusukat sa pamamagitan ng kanilang kapasidad na makayanan ang mga kakila-kilabot na tanawin, pangyayari, at paghahayag. Habang bumababa ang Sanity, ang pagkapit sa realidad ay nababawasan. Kung ang iyong karakter ay nawalan ng masyadong maraming Sanity nang sabay-sabay, maaari silang mawala sa katinuan nang pansamantala o permanente.
+**Sanity:** Isang opsyonal na sistema kung saan ang mental na kalusugan ng iyong karakter ay sinusukat sa kanilang kakayahang makayanan ang mga nakapangingilabot na tanawin, pangyayari, at paghahayag. Habang bumababa ang Sanity, ang pagkapit sa realidad ay humihina. Kung ang iyong karakter ay nawalan ng masyadong maraming Sanity nang sabay-sabay, maaari silang mawala sa sarili nang pansamantala o permanente.
 
-**Skill (Kasanayan):** Isang kakayahan, pagsasanay, larangan ng kaalaman, talento, espesyalidad, o isang bagay na may alam ang iyong karakter (o may talento sa), na kinikilala bilang antas ng kasanayan. Ang mga kasanayan ay ginagamit sa skill rolls, kung saan ang percentile dice ay ni-ro-roll laban sa rating ng kasanayan.
+**Skill:** Isang kakayahan, pagsasanay, larangan ng kaalaman, talento, espesyalisasyon, o isang bagay na may alam ang iyong karakter (o may talento sa), na kinikilala bilang antas ng skill. Ang mga skill ay ginagamit sa mga skill roll, kung saan ang percentile dice ay ni-roll laban sa rating ng skill.
 
-**Skill Rating:** Ang antas ng kakayahan na mayroon ang iyong karakter sa isang kasanayan, na ipinapahayag bilang numero mula 00% (walang anumang kasanayan) hanggang 100% o mas mataas (world-class expert).
+**Skill Rating:** Ang antas ng kakayahan ng iyong karakter sa isang skill, na ipinahayag bilang isang numero mula 00% (walang anumang skill) hanggang 100% o mas mataas (world-class expert).
 
-**Special Success (Espesyal na Tagumpay):** Ang roll na 1/5 ng kinakailangang score para sa tagumpay ay nagpapahiwatig na ang iyong karakter ay mahusay na nagsagawa at nakamit ang isang higit na resulta kaysa sa isang tradisyonal na tagumpay. Ito ay lalong mahalaga sa labanan.
+**Espesyal na Tagumpay (Special Success):** Ang isang roll na 1/5 ng kinakailangang marka para sa tagumpay ay nagpapahiwatig na ang iyong karakter ay gumawa nang napakahusay at nakamit ang isang resulta na mas mataas kaysa sa tradisyonal na tagumpay. Ito ay lalong makabuluhan sa labanan.
 
-***Halimbawa,*** *ang isang karakter na may 70% sa isang kasanayan na nag-roll ng 14 o mas mababa ay nakamit ang isang espesyal na tagumpay.*
+***Halimbawa,*** *ang isang karakter na may 70% sa isang skill na nag-roll ng 14 o mas mababa ay nakamit ang isang espesyal na tagumpay.*
 
-**Success (Tagumpay):** Ang resulta ng isang percentage dice roll kung saan ang iyong karakter ay nagsagawa ng gawain nang sapat, at nakamit ang isang average na kalidad ng tagumpay. Kung ang roll ay napakababa, maaaring ito ay isang **special success** o **critical success**, gaya ng inilarawan sa itaas. Kung ito ay higit sa ranking ng kakayahan, ito ay karaniwang isang **failure**. Kung ito ay napakataas, gaya ng 00, maaaring ito ay isang **fumble**.
+**Tagumpay (Success):** Ang resulta ng isang percentage dice roll kung saan ang iyong karakter ay nagsagawa ng gawain nang sapat, at nakamit ang average na kalidad ng tagumpay. Kung ang roll ay napakababa, maaari itong maging isang **espesyal na tagumpay** o **kritikal na tagumpay**, gaya ng inilarawan sa itaas. Kung ito ay nasa itaas ng rating ng kakayahan, ito ay karaniwang isang **pagkabigo**. Kung ito ay napakataas, gaya ng 00, maaari itong maging isang **fumble**.
 
-***Halimbawa,*** *kung ang iyong karakter ay may 70% sa isang kasanayan, at nag-roll ng 70 o mas mababa, sila ay nagtagumpay.*
+***Halimbawa,*** *kung ang iyong karakter ay may 70% sa isang skill, at nag-roll ng 70 o mas mababa, sila ay nagtagumpay.*
 
-### Mga Kinakailangang Materyales para Maglaro
+### Mga Materyales na Kinakailangan upang Maglaro
 
-Bilang manlalaro, kailangan mo ng kaunti bukod sa aklat na ito, isang lapis, baka ilang blangkong papel, at isang set ng gaming dice. Ang mga dice ay makukuha online sa maraming tindahan ng laro at hobby, at dumating sa iba't ibang kulay, hugis, laki, kalidad, at presyo. Kakailanganin mo ng hindi bababa sa isang kumpletong set, isa sa bawat isa, ngunit ang higit pa ay kapaki-pakinabang. Tingnan sa ibaba para sa karagdagang impormasyon tungkol sa dice at mga paraan ng pag-roll ng dice. Ang ilang grupo ng paglalaro ay gumagamit ng mga miniature bilang representasyon ng mga karakter, kaya kung ito ay totoo sa iyong grupo, baka gusto mong magdala ng miniature na medyo kahawig ng iyong karakter. Gayunpaman, sa pangkalahatan, kailangan mo lamang dalhin ang iyong malikhaing enerhiya sa laro.
+Bilang isang manlalaro, kailangan mo ng kaunti pa kaysa sa aklat na ito, isang lapis, marahil ilang blangkong papel, at isang set ng gaming dice. Ang mga dice ay available online sa maraming tindahan ng laro at libangan, at dumarating sa iba't ibang kulay, hugis, laki, kalidad, at presyo. Kakailanganin mo ng kahit isang kumpletong set, isa sa bawat isa, ngunit mas kapaki-pakinabang ang marami. Tingnan sa ibaba para sa higit pang impormasyon tungkol sa mga dice at mga paraan ng pag-roll ng dice. Ang ilang gaming group ay gumagamit ng mga miniature bilang representasyon ng mga karakter, kaya kung ito ay totoo sa iyong grupo, maaaring gusto mong magdala ng miniature na medyo kahawig ng iyong karakter. Gayunpaman, sa pangkalahatan, kailangan mo lamang dalhin ang iyong malikhaing enerhiya sa laro.
 
-Bilang gamemaster, kailangan mo ng kaunti pa kaysa sa isang manlalaro, ngunit hindi gaanong marami. Dapat kang magkaroon ng kopya ng rulebook na ito, at higit pang blangkong papel para sa iyong mga tala. Mainam na gumawa ng mga kopya ng character sheet na ibinigay o matatagpuan online sa chaosium.com.
+Bilang isang gamemaster, kailangan mo ng kaunti pang higit sa isang manlalaro, ngunit hindi gaanong marami. Dapat kang magkaroon ng kopya ng rulebook na ito, at mas maraming blangkong papel para sa iyong mga tala. Magandang ideya na gumawa ng mga kopya ng character sheet na ibinigay o matatagpuan online sa chaosium.com.
 
-Bilang karagdagan, dapat kang magkaroon ng nakahandang pakikipagsapalaran o kahit isang ideya kung ano ang maaaring mangyari sa laro. Maaari itong maging sarili mong likha o isang ready-made na pakikipagsapalaran. Bilang kahalili, maaari kang umangkop ng isang pakikipagsapalaran mula sa ibang kumpanya ng laro para sa iba pang mga sistema ng laro. Maaari kang maghanda ng iba pang mga materyales depende sa kung gaano mo gustong maghanda ng mga handout o reference sheet. Matututo ka pa tungkol sa lahat ng ito sa Kabanata Siyam: Gamemastering.
+Bukod pa rito, dapat kang maghanda ng isang pakikipagsapalaran o kahit man lang ng isang ideya kung ano ang maaaring mangyari sa laro. Maaari itong maging isa sa iyong sariling paglikha o isang ready-made na pakikipagsapalaran. Bilang kahalili, maaari kang mag-adapt ng isang pakikipagsapalaran mula sa ibang kumpanya ng laro para sa ibang mga sistema ng laro. Maaari kang maghanda ng iba pang mga materyales depende sa kung gaano mo gustong maghanda ng mga handout o reference sheet. Matututuhan mo ang higit pa tungkol sa lahat ng ito sa Kabanata Siyam: Gamemastering.
 
 ### Dice
 
-Ang Basic Roleplaying ay gumagamit ng four-sided, six-sided, eight-sided, ten-sided, twelve-sided, at 20-sided dice (dinadaglat bilang D4, D6, D8, D10, D12, at D20). Ang mga dice ay karaniwang ni-ro-roll, at ang mga resulta ay binabasa gaya ng ipinapakita, at kung maraming dice ang ni-roll, ang mga ito ay pinagsasama-sama. Kaya, ang 3D6 ay nangangahulugang i-roll ang tatlong six-sided dice, at idagdag ang mga resulta.
+Ang Basic Roleplaying ay gumagamit ng apat-na-panig, anim-na-panig, walo-na-panig, sampu-na-panig, labindalawa-na-panig, at 20-panig na dice (dinaglat bilang D4, D6, D8, D10, D12, at D20). Ang mga dice ay karaniwang ni-roll, at ang mga resulta ay binabasa ayon sa ipinapakita, at kung maraming dice ang ni-roll, ang mga ito ay pinagsasama-sama. Kaya, ang 3D6 ay nangangahulugang mag-roll ng tatlong anim-na-panig na dice, at pagsamahin ang mga resulta.
 
-Halimbawa, ang isang 3D6 roll na nagreresulta sa 1, 4, at 6 ay magiging kabuuang 11. Ang mga dice ay maaari ring pagsamahin sa iba't ibang denominasyon, gaya ng 2D6+1D4, na nangangahulugang i-roll ang dalawang six-sided dice at isang four-sided die, at idagdag ang kanilang mga kabuuan.
+Halimbawa, ang isang 3D6 roll na nagreresulta sa 1, 4, at 6 ay magiging kabuuan na 11. Ang mga dice ay maaari ding pagsamahin sa iba't ibang denominasyon, gaya ng 2D6+1D4, na nangangahulugang mag-roll ng dalawang anim-na-panig na dice at isang apat-na-panig na die, at pagsamahin ang kanilang mga kabuuan.
 
-Ang mga resulta ng dice ay kung minsan ay binabago sa pamamagitan ng pagdaragdag o pagbabawas ng mga numero sa unang roll, gaya ng 1D6–1, na nangangahulugang i-roll ang isang six-sided die at magbawas ng 1 mula sa kabuuan, na nangangahulugang ang roll ay may saklaw na 0 hanggang 5.
+Ang mga resulta ng dice ay minsan binabago sa pamamagitan ng pagdaragdag o pagbabawas ng mga numero sa paunang roll, gaya ng 1D6–1, na nangangahulugang mag-roll ng isang anim-na-panig na die at magbawas ng 1 mula sa kabuuan, na nangangahulugang ang roll ay may saklaw na 0 hanggang 5.
 
-Ang mga kabuuan ng dice ay maaaring pinarami, gaya ng 1D10×10, na nangangahulugang ang roll ay may saklaw na 10 hanggang 100.
+Ang mga kabuuan ng dice ay maaaring paramihin, gaya ng 1D10×10, na nangangahulugang ang roll ay may saklaw na 10 hanggang 100.
 
-Minsan ang mga dice roll ay tila hindi tumutugma sa mga eksaktong numero ng dice, gaya ng D3, na resulta ng isang D6 roll na hinati sa dalawa at ini-round up. Ang isang roll ng D2 o D5 ay gumagamit ng D4 at D10, ayon sa pagkakabanggit, at ni-ro-roll at hinahati sa katulad na paraan. Ang mga ganitong uri ng roll ay bihira.
+Minsan ang mga dice roll ay tila hindi tumutugma sa eksaktong mga numero ng dice, gaya ng D3, na siyang resulta ng isang D6 roll na hinati sa dalawa at ni-round up. Ang isang roll na D2 o D5 ay gumagamit ng D4 at D10, ayon sa pagkakabanggit, at ni-roll at hinahati sa katulad na paraan. Ang mga ganitong uri ng roll ay bihira.
 
-Ang mga percentile dice ay dalawang D10, na ni-roll nang magkasama, kung saan ang isang die ay tens figure, at ang isa naman ay ones.
+Ang percentile dice ay dalawang D10, na ni-roll nang magkasama, kung saan ang isang die ay bilang numero ng sampuan, at ang isa ay bilang mga isahan.
 
 Halimbawa, ang isang roll ng dalawang D10 ay maaaring magbunga ng 7 at 3, o 73%.
 
-Ang isang roll na 01% ay itinuturing na perpekto, habang ang 100% (mga roll na 0 at 0) ay karaniwang pagkabigo at ang pinakagustong roll. Karaniwang gumamit ng mga dice ng iba't ibang kulay para sa tens at ones digits, bagaman ang mga percentile dice ay madali nang makukuha ngayon kung saan ang tens ay tinutukoy ng 00, 10, 20, 30, atbp. para sa kaginhawaan.
+Ang isang roll na 01% ay itinuturing na ideal, habang ang 100% (mga roll na 0 at 0) ay karaniwang isang pagkabigo at ang hindi gaanong nais na roll. Karaniwang gumagamit ng mga dice na may iba't ibang kulay para sa mga digit na sampuan at isahan, bagaman ang mga percentile dice ay madali nang makuha ngayon kung saan ang mga sampuan ay tinutukoy ng 00, 10, 20, 30, atbp. para sa kaginhawaan.
 
-Ang mga dice rolling apps ay nangangalaga rin sa lahat ng ito at karaniwang makukuha.
+Ang mga dice rolling app ay nag-aasikaso rin sa lahat ng ito at karaniwang available.
 
 ## Narito ang mga pinakakaraniwang dice:
 
-**D2**: Ito ay nagbubunga ng resulta na 1 o 2. Maaari kang mag-roll ng D4 (o anumang iba pang even-sided die) at hatiin ito sa kalahati, sa pamamagitan ng coin toss (heads = 1, tails = 2), o kumuha ng anumang die at i-roll ito (odd result = 1, even result = 2).
+**D2**: Ito ay nagbubunga ng resultang 1 o 2. Maaari kang mag-roll ng D4 (o anumang iba pang even-sided die) at hatiin ito sa kalahati, sa pamamagitan ng paghagis ng barya (heads = 1, tails = 2), o kumuha ng anumang die at i-roll ito (odd result = 1, even result = 2).
 
 **D3**: Mag-roll ng D6 at hatiin ito sa kalahati, i-round up.
 
-**D4**: Isang four-sided die, na nagbubunga ng resulta na 1 hanggang 4. Madalas itong ginagamit sa damage bonuses.
+**D4**: Isang apat-na-panig na die, na nagbubunga ng resultang 1 hanggang 4. Ito ay madalas na ginagamit sa mga bonus sa pinsala.
 
-**D6**: Ang pangalawang pinakakaraniwang die, ito ay nagbubunga ng resulta na 1 hanggang 6. Malamang na pamilyar ka na sa mga dice na tulad nito.
+**D6**: Ang pangalawang pinakakaraniwang die, ito ay nagbubunga ng resultang 1 hanggang 6. Malamang na pamilyar ka na sa mga dice na tulad nito.
 
-**D8**: Isang eight-sided die, na nagbubunga ng resulta na 1 hanggang 8.
+**D8**: Isang walo-na-panig na die, na nagbubunga ng resultang 1 hanggang 8.
 
-**D10**: Isang ten-sided die, na nagbubunga ng resulta na 1 hanggang 10, kung saan ang 0 face ay kumakatawan sa 10. Ito ay pinakakaraniwang ginagamit kasama ng isa pang D10 bilang bahagi ng isang percentile dice roll.
+**D10**: Isang sampu-na-panig na die, na nagbubunga ng resultang 1 hanggang 10, kung saan ang 0 na mukha ay kumakatawan sa 10. Ito ay pinakakaraniwang ginagamit kasama ng isa pang D10 bilang bahagi ng isang percentile dice roll.
 
-**D12**: Isang 12-sided die, na nagbubunga ng resulta na 1 hanggang 12. Ang uri ng die na ito ay hindi masyadong madalas gamitin.
+**D12**: Isang 12-panig na die, na nagbubunga ng resultang 1 hanggang 12. Ang uri ng dice na ito ay hindi masyadong madalas gamitin.
 
-**D20**: Isang 20-sided die, na nagbubunga ng resulta na 1 hanggang 20. Ang uri ng die na ito ay bihirang gamitin sa labas ng opsyonal na hit location system.
+**D20**: Isang 20-panig na die, na nagbubunga ng resultang 1 hanggang 20. Ang uri ng dice na ito ay bihirang gamitin sa labas ng opsyonal na sistema ng hit location.
 
-**D100**: Dalawang ten-sided dice, na ni-roll nang magkasama kung saan ang isang die ay kumakatawan sa tens value at ang isa naman ay kumakatawan sa ones value. Ito ang pinakakaraniwang roll ng dice sa BRP. Bagaman karaniwang isang percentile roll, ang mga dice na ito ay kung minsan ay ni-ro-roll para sa isang batayang resulta.
+**D100**: Dalawang sampu-na-panig na dice, na ni-roll nang magkasama kung saan ang isang die ay kumakatawan sa halaga ng sampuan at ang isa pa ay kumakatawan sa halaga ng mga isahan. Ito ang pinakakaraniwang roll ng mga dice sa BRP. Bagaman karaniwang isang percentile roll, ang mga dice na ito ay minsan ni-ro-roll para sa isang pangunahing resulta.
 
-Halimbawa, maaaring tukuyin ng gamemaster na ang bawat miyembro ng isang grupo ng mga tulisan ay may D100 na barya (copper pieces) sa kanilang pag-aari. Kung ang mga tulisan ay natalo, ang gamemaster ay nag-ro-roll ng dice para sa bawat isa.
+Halimbawa, maaaring matukoy ng gamemaster na ang bawat miyembro ng isang grupo ng mga tulisan ay may D100 na piraso ng tanso sa kanilang pag-aari. Kung ang mga tulisan ay natalo, ang gamemaster ay nag-ro-roll ng mga dice para sa bawat isa.
 
-Ang ilang specialty dice set ay may kasama pang mga bihirang uri, gaya ng D2, D3, atbp. ngunit hindi kinakailangan.
+Ang ilang espesyal na dice set ay may kasama pang mga bihirang uri, gaya ng D2, D3, atbp. ngunit hindi naman kinakailangan.
 
-> ### Opsyonal na mga Panuntunan
+> ### Mga Opsyonal na Panuntunan
 >
-> Sa paglipas ng mga taon, iba't ibang sub-system ang ipinakilala sa mga laro ng Basic Roleplaying upang masakop ang mga sitwasyon o kondisyon na angkop sa partikular na laro, gaya ng pinalawak na mga sistema ng labanan para sa mga fantasy game, mga panuntunan para sa pagkawala ng katinuan (insanity) at pananaliksik para sa mga horror game, mga panuntunan para sa paggamit ng mga sasakyan at spaceships, mga panuntunang namamahala sa mga dakilang pasyon at katangian ng personalidad, iba't ibang sistema ng mahika na angkop sa genre, atbp. Ang mga pangunahing elemento ay binago pa nga o ginamitan ng ibang paraan, kung minsan ay sa iba't ibang edisyon ng parehong laro.
+> Sa paglipas ng mga taon, iba't ibang mga sub-sistema ang ipinakilala sa mga laro ng Basic Roleplaying upang masakop ang mga sitwasyon o kundisyon na angkop sa partikular na laro, gaya ng mga pinalawak na sistema ng labanan para sa mga larong pantasya, mga panuntunan para sa kabaliwan at pananaliksik para sa mga larong horror, mga panuntunan para sa paggamit ng mga sasakyan at spaceship, mga panuntunang namamahala sa mga dakilang pasyon at katangian ng pagkatao, iba't ibang sistema ng mahika na angkop sa genre, atbp. Ang mga pangunahing elemento ay binago pa nga o pinakitunguhan nang magkakaiba, kung minsan ay sa iba't ibang edisyon ng parehong laro.
 >
-> Ang mga pagkakaibang ito ay lumilitaw dito bilang mga opsyonal na panuntunan, na ipinapakita sa mga kahon na tulad nito, na may mga mungkahi tungkol sa kung kailan gagamitin ang mga ito, at mga tala tungkol sa kung paano sila nakakaapekto sa paglalaro, at sa ilang mga kaso, tungkol sa kung paano sila nakikipag-ugnayan sa iba pang mga opsyonal na panuntunan. Dahil dito, ang gamemaster ay maaaring pumili ng mga opsyonal na panuntunan ayon sa nais.
+> Ang mga pagkakaibang ito ay lumilitaw dito bilang mga opsyonal na panuntunan, na ipinapakita sa mga kahon na tulad nito, na may mga mungkahi tungkol sa kung kailan gagamitin ang mga ito, at mga tala tungkol sa kung paano sila nakakaapekto sa paglalaro, at sa ilang mga kaso, tungkol sa kung paano sila nakikipag-ugnayan sa iba pang mga opsyonal na panuntunan. Kaya, ang gamemaster ay maaaring pumili ng mga opsyonal na panuntunan ayon sa ninanais.
 >
-> Bago ka magsimulang maglaro, dapat kang magpasya kung anong mga uri ng opsyonal na panuntunan ang nais mong gamitin, lalo na ang mga nalalapat sa paglikha ng karakter. Ang *Kabanata Sampu: Settings* ay nagmumungkahi kung anong mga opsyonal na panuntunan ang maganda sa mga partikular na setting, at bukod dito, ang isang kumpletong listahan ay ipinapakita sa *Kabanata Siyam: Gamemastering*.
+> Bago ka magsimulang maglaro, dapat mong magpasya kung anong uri ng mga opsyonal na panuntunan ang gusto mong gamitin, lalo na ang mga nalalapat sa paglikha ng karakter. Ang *Kabanata Sampu: Mga Setting* ay nagmumungkahi kung anong mga opsyonal na panuntunan ang angkop sa mga partikular na setting, at bukod pa rito, isang kumpletong listahan ang ipinapakita sa *Kabanata Siyam: Gamemastering*.
