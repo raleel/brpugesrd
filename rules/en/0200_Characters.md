@@ -1163,3 +1163,5 @@ The hard part is over—now the fun can begin\!
 > * Choose ten skills that are essential or most used by a member of this profession. This can also include a “pick one (or more) from the following” option as long as the total number of available skills is equal to ten.
 > 
 >   For example, *you might want to play a completely new profession: a professional translator. Your gamemaster agrees that this is a unique enough profession to warrant a new write-up. First, you both decide that a translator’s wealth level is generally Average. Secondly, for the initial skills, you choose: Etiquette, Fast Talk, Insight, Knowledge (Anthropology), Knowledge (Linguistics), Language (Own), Language (Other), Listen, Persuade, and Research. The new profession is finished and ready for use.*
+
+<!-- retranslate-trigger -->

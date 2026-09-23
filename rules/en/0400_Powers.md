@@ -3424,3 +3424,5 @@ Additionally, Weather Control confers the following abilities:
 Other effects can be devised with your gamemaster’s approval.
 
 Once the superpower ends, the weather returns to its normal state by one step per combat round. Weather Control does not allow your character to throw lightning bolts or weather effects strong enough to cause direct damage. These are covered by Energy Projection.
+
+<!-- retranslate-trigger -->
