@@ -1,63 +1,63 @@
-# En-tête échantillon 1
+# Sample Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## En-tête 2
+## Heading 2
 
-### En-tête 3
+### Heading 3
 
-#### En-tête 4
+#### Heading 4
 
-##### En-tête 5
+##### Heading 5
 
-###### En-tête 6
+###### Heading 6
 
 **GRAS**
 
 *Italique*
 
-## Table échantillon
+## Sample Table
 
-| Colonne 1 | Colonne 2 |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Alertes flexibles
+## Flexible Alerts
 
 > [!Note]
-> Style de bloc Note échantillon
+> Sample Note Callout Style
 
 > [!Tip]
-> Style de bloc Astuce échantillon
+> Sample Tip Callout Style
 
 > [!Warning]
-> Style de bloc Avertissement échantillon
+> Sample Warning Callout Style
 
 > [!Attention]
-> Style de bloc Attention échantillon
+> Sample Attention Callout Style
 
-> [!Note|style:flat]
-> Style plat Note échantillon
+> [!Note|Style:flat]
+> Sample Note Flat Style
 
-> [!Tip|style:flat]
-> Style plat Astuce échantillon
+> [!Tip|Style:flat]
+> Sample Tip Flat Style
 
-> [!Warning|style:flat]
-> Style plat Avertissement échantillon
+> [!Warning|Style:flat]
+> Sample Warning Flat Style
 
-> [!Attention|style:flat]
-> Style plat Attention échantillon
+> [!Attention|Style:flat]
+> Sample Attention Flat Style
 
-## Icônes Fontawesome 
+## Fontawesome Icons 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Statique :fa-solid fa-dice-d20 fa-lg:  
+D20 Static :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Animé :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Icônes Material
+## Material Icons
 
-<span class="material-icons">face</span>
+<span Classe="material-icons">face</span>

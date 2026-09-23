@@ -38,19 +38,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention]
 > סגנון תיבת תשומת לב לדוגמה
 
-> [!Note|style:flat]
-> סגנון הערה שטוח לדוגמה
+> [!Note|סגנון:flat]
+> סגנון שטוח להערה לדוגמה
 
-> [!Tip|style:flat]
-> סגנון טיפ שטוח לדוגמה
+> [!Tip|סגנון:flat]
+> סגנון שטוח לטיפ לדוגמה
 
-> [!Warning|style:flat]
-> סגנון אזהרה שטוח לדוגמה
+> [!Warning|סגנון:flat]
+> סגנון שטוח לאזהרה לדוגמה
 
-> [!Attention|style:flat]
-> סגנון תשומת לב שטוח לדוגמה
+> [!Attention|סגנון:flat]
+> סגנון שטוח לתשומת לב לדוגמה
 
-## אייקוני Fontawesome 
+## סמלי Fontawesome
 
 D6  :fa-solid fa-dice fa-xl:
 
@@ -58,6 +58,6 @@ D20 סטטי :fa-solid fa-dice-d20 fa-lg:
 
 D20 מונפש :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## אייקוני Material
+## סמלי Material
 
-<span class="material-icons">face</span>
+<span מעמד="material-icons">face</span>

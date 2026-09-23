@@ -1,6 +1,6 @@
-# العنوان النموذجي 1
+# عنوان عينة 1
 
-لوريم إيبسوم دولور سيت أميت، كونشكتيتور أديبيسكينج إليت. كويسك إيد فيوجيات ماسا. إن سيت أميت نيكي أنتي. برايسينت نيك نولا ياكوليس، فرينجيلا ديام فيتاي، بورتيتور توربيس. كورابيتور نيك إكس إن دوي أورناري كونشكتيتور. نولا بريتيوم، دولور سيد لاكينيا إمبيرديت، نيسي نيسل إفيتيتور أوديو، فاريتر تيمبور فيليس كوام كيس أوجي. إن إيرات ديام، موليستي فيل كومودو فيل، كونفاليس إيد مي. بيلينتيسكي بريتيوم تورتور كيس إفيتيتور جرافيدا.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## العنوان 2
 
@@ -16,41 +16,41 @@
 
 *مائل*
 
-## الجدول النموذجي
+## جدول عينة
 
 | العمود 1 | العمود 2 |
 | ----------- | ----------- |
-| 1 | لوريم إيبسوم دولور سيت أميت |
-| 2 | موربي أوكتور، كوام كيس فينيبوس كومودو |
-| 3 | كويسك إفيتيتور لاكوس موليستي ديام سوداليس فوسيبوس |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## التنبيهات المرنة
+## تنبيهات مرنة
 
 > [!Note]
-> نمط ملاحظة النموذجي
+> نمط صندوق الملاحظات العينة
 
 > [!Tip]
-> نمط تلميح النموذجي
+> نمط صندوق النصيحة العينة
 
 > [!Warning]
-> نمط تحذير النموذجي
+> نمط صندوق التحذير العينة
 
 > [!Attention]
-> نمط تنبيه النموذجي
+> نمط صندوق التنبيه العينة
 
-> [!Note|style:flat]
-> نمط ملاحظة مسطح
+> [!Note|الأسلوب:flat]
+> نمط الملاحظات المسطح العينة
 
-> [!Tip|style:flat]
-> نمط تلميح مسطح
+> [!Tip|الأسلوب:flat]
+> نمط النصيحة المسطح العينة
 
-> [!Warning|style:flat]
-> نمط تحذير مسطح
+> [!Warning|الأسلوب:flat]
+> نمط التحذير المسطح العينة
 
-> [!Attention|style:flat]
-> نمط تنبيه مسطح
+> [!Attention|الأسلوب:flat]
+> نمط التنبيه المسطح العينة
 
-## أيقونات Fontawesome
+## أيقونات Fontawesome 
 
 D6  :fa-solid fa-dice fa-xl:
 
@@ -60,4 +60,4 @@ D20 متحرك :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## أيقونات Material
 
-<span class="material-icons">face</span>
+<span الفئة="material-icons">face</span>

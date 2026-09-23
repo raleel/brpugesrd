@@ -24,40 +24,40 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## フレキシブルアラート
+## 柔軟なアラート
 
 > [!Note]
-> サンプルノート・コールアウトスタイル
+> サンプルノートのコールアウトスタイル
 
 > [!Tip]
-> サンプルチップ・コールアウトスタイル
+> サンプルヒントのコールアウトスタイル
 
 > [!Warning]
-> サンプル警告・コールアウトスタイル
+> サンプル警告のコールアウトスタイル
 
 > [!Attention]
-> サンプル注意・コールアウトスタイル
+> サンプル注意のコールアウトスタイル
 
-> [!Note|style:flat]
-> サンプルノート・フラットスタイル
+> [!Note|スタイル:flat]
+> サンプルノートのフラットスタイル
 
-> [!Tip|style:flat]
-> サンプルチップ・フラットスタイル
+> [!Tip|スタイル:flat]
+> サンプルヒントのフラットスタイル
 
-> [!Warning|style:flat]
-> サンプル警告・フラットスタイル
+> [!Warning|スタイル:flat]
+> サンプル警告のフラットスタイル
 
-> [!Attention|style:flat]
-> サンプル注意・フラットスタイル
+> [!Attention|スタイル:flat]
+> サンプル注意のフラットスタイル
 
 ## Fontawesome アイコン 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 静止画 :fa-solid fa-dice-d20 fa-lg:  
+D20 静的 :fa-solid fa-dice-d20 fa-lg:  
 
 D20 アニメーション :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## マテリアルアイコン
+## Material アイコン
 
-<span class="material-icons">face</span>
+<span クラス="material-icons">face</span>

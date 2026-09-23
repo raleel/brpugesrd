@@ -18,36 +18,36 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ## 示例表格
 
-| 第一列 | 第二列 |
+| 第 1 列 | 第 2 列 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## 灵活警告框
+## 灵活警示框
 
 > [!Note]
-> 示例说明标注样式
+> 示例备注提示框样式
 
 > [!Tip]
-> 示例提示标注样式
+> 示例技巧提示框样式
 
 > [!Warning]
-> 示例警告标注样式
+> 示例警告提示框样式
 
 > [!Attention]
-> 示例注意标注样式
+> 示例注意提示框样式
 
-> [!Note|style:flat]
-> 示例说明扁平样式
+> [!Note|风格:flat]
+> 示例备注扁平样式
 
-> [!Tip|style:flat]
-> 示例提示扁平样式
+> [!Tip|风格:flat]
+> 示例技巧扁平样式
 
-> [!Warning|style:flat]
+> [!Warning|风格:flat]
 > 示例警告扁平样式
 
-> [!Attention|style:flat]
+> [!Attention|风格:flat]
 > 示例注意扁平样式
 
 ## Fontawesome 图标 
@@ -60,4 +60,4 @@ D20 动态 :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Material 图标
 
-<span class="material-icons">face</span>
+<span 职业="material-icons">face</span>

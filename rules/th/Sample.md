@@ -1,63 +1,63 @@
-# หัวข้อตัวอย่างที่ 1
+# Sample Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## หัวข้อที่ 2
+## Heading 2
 
-### หัวข้อที่ 3
+### Heading 3
 
-#### หัวข้อที่ 4
+#### Heading 4
 
-##### หัวข้อที่ 5
+##### Heading 5
 
-###### หัวข้อที่ 6
+###### Heading 6
 
 **ตัวหนา**
 
 *ตัวเอียง*
 
-## ตารางตัวอย่าง
+## Sample Table
 
-| คอลัมน์ 1 | คอลัมน์ 2 |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## กล่องข้อความแบบยืดหยุ่น
+## Flexible Alerts
 
 > [!Note]
-> รูปแบบหมายเหตุตัวอย่าง
+> Sample Note Callout รูปแบบ
 
 > [!Tip]
-> รูปแบบคำแนะนำตัวอย่าง
+> Sample Tip Callout รูปแบบ
 
 > [!Warning]
-> รูปแบบคำเตือนตัวอย่าง
+> Sample Warning Callout รูปแบบ
 
 > [!Attention]
-> รูปแบบความสนใจตัวอย่าง
+> Sample Attention Callout รูปแบบ
 
-> [!Note|style:flat]
-> รูปแบบหมายเหตุแบบแบน
+> [!Note|รูปแบบ:flat]
+> Sample Note Flat รูปแบบ
 
-> [!Tip|style:flat]
-> รูปแบบคำแนะนำแบบแบน
+> [!Tip|รูปแบบ:flat]
+> Sample Tip Flat รูปแบบ
 
-> [!Warning|style:flat]
-> รูปแบบคำเตือนแบบแบน
+> [!Warning|รูปแบบ:flat]
+> Sample Warning Flat รูปแบบ
 
-> [!Attention|style:flat]
-> รูปแบบความสนใจแบบแบน
+> [!Attention|รูปแบบ:flat]
+> Sample Attention Flat รูปแบบ
 
-## ไอคอน Fontawesome 
+## Fontawesome Icons 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 แบบคงที่ :fa-solid fa-dice-d20 fa-lg:  
+D20 Static :fa-solid fa-dice-d20 fa-lg:  
 
-D20 แบบเคลื่อนไหว :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## ไอคอน Material
+## Material Icons
 
-<span class="material-icons">face</span>
+<span ชนชั้น="material-icons">face</span>

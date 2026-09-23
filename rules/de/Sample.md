@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 *Kursiv*
 
-## Beispieltabelle
+## Beispiel-Tabelle
 
 | Spalte 1 | Spalte 2 |
 | ----------- | ----------- |
@@ -24,33 +24,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Flexible Warnhinweise
+## Flexible Warnmeldungen
 
 > [!Note]
-> Beispiel für einen Hinweis-Callout-Stil
+> Beispiel-Notiz-Callout-Stil
 
 > [!Tip]
-> Beispiel für einen Tipp-Callout-Stil
+> Beispiel-Tipp-Callout-Stil
 
 > [!Warning]
-> Beispiel für einen Warnungs-Callout-Stil
+> Beispiel-Warnung-Callout-Stil
 
 > [!Attention]
-> Beispiel für einen Achtung-Callout-Stil
+> Beispiel-Achtung-Callout-Stil
 
-> [!Note|style:flat]
-> Beispiel für einen Hinweis im flachen Stil
+> [!Note|Stil:flat]
+> Beispiel-Notiz-Flat-Stil
 
-> [!Tip|style:flat]
-> Beispiel für einen Tipp im flachen Stil
+> [!Tip|Stil:flat]
+> Beispiel-Tipp-Flat-Stil
 
-> [!Warning|style:flat]
-> Beispiel für eine Warnung im flachen Stil
+> [!Warning|Stil:flat]
+> Beispiel-Warnung-Flat-Stil
 
-> [!Attention|style:flat]
-> Beispiel für eine Achtung im flachen Stil
+> [!Attention|Stil:flat]
+> Beispiel-Achtung-Flat-Stil
 
-## Fontawesome-Symbole
+## Fontawesome Symbole 
 
 W6  :fa-solid fa-dice fa-xl:
 
@@ -58,6 +58,6 @@ W20 Statisch :fa-solid fa-dice-d20 fa-lg:
 
 W20 Animiert :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Material-Symbole
+## Material Icons
 
-<span class="material-icons">face</span>
+<span Klasse="material-icons">face</span>
