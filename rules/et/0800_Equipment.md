@@ -1,1655 +1,1945 @@
 # 8. Varustus
 
-See peatükk hõlmab kõike, mis jääb sinu tegelasest väljapoole: esemeid, mida nad võivad omada ja millega nad saavad suhelda, nagu raha, relvad, soomusrüü, varustus, sõidukid ja keskkond ise, olgu see siis tavapärane või erakordne. Siin on ka reeglid erilaadse varustuse ja selle kasutamise kohta mängus.
+See peatükk hõlmab kõike, mis jääb teie tegelasest väljapoole: esemeid, mida nad saavad omada ja millega nad saavad suhelda, nagu raha, relvad, soomusrüü, varustus, sõidukid ja keskkond ise, olgu see siis tavapärane või erakordne. Siin on ka reeglid erilaadse varustuse jaoks ja kuidas varustust mängus käsitseda.
 
 ## Raha
 
-**Varakus** (Wealth) käsitleb raha, kuid on abstraktsel kujul, arvestades võimalike hindade, sissetulekute ja valuutade laia valikut igas võimalikus mängumaailmas. Valuutavahetuse nimekirjade või valuuta abstraktsioonide asemel kasutatakse varakuse reegleid (2. peatükk: Tegelased) ja staatuse reegleid (3. peatükk: Oskused). Mugavuse huvides on need kokku võetud allolevas Varakuse tasemete tabelis.
+**Rikkus** käsitleb raha, kuid see on abstraktne, kuna hinnad, sissetulekud ja valuutad võivad igas võimalikus mängumaailmas suuresti erineda. Valuutavahetuse nimekirjade või valuuta abstraktsioonide asemel kasutatakse Rikkuse reegleid (Teine peatükk: Tegelased) ja Staatuse reegleid (Kolmas peatükk: Oskused). Mugavuse huvides on need kokku võetud vastasküljel asuvas Rikkuse tasemete tabelis.
 
-**Eseme väärtuse** veerg tähistab esemete väärtust, mis on kättesaadavad vastava varakuse tasemega tegelasele. Odavad esemed on väga väikese väärtusega, Odavapoolne varustus on odav ja tavaliselt madala kvaliteediga, Keskmine varustus on korraliku kvaliteediga ja mõistliku hinnaga, samas kui Kallis varustus on kõrgema kvaliteediga või kallim. Hindamatuid esemeid ja varustust peetakse sellisteks, mida pole võimalik kergesti osta: nende hankimine tuleb korraldada või läbi rääkida, isegi jõukate seas.
+**Eseme väärtuse** veerg tähistab esemete väärtust, mis on kättesaadavad vastava Rikkuse tasemega tegelasele. Odavad esemed on väärt väga vähe, Odavapoolne varustus on odav ja tavaliselt madala kvaliteediga, Keskmine varustus on korraliku kvaliteediga ja mõistliku hinnaga, samas kui Kallis varustus on kõrgema kvaliteediga või kallim. Hindamatuid esemeid ja varustust peetakse sellisteks, mida ei saa lihtsalt osta: nende ostmine tuleb eraldi korraldada või läbi rääkida, isegi rikaste seas.
 
-Selles tabelis ei ole esindatud kaks täiendavat väärtust: Tasuta ja Piiratud. Tasuta esemed on täpselt seda – need ei maksa midagi ja neid võib leida vaevata, samas kui Piiratud esemed pole kättesaadavad ilma loata ning omavoliline omamine toob sageli kaasa kriminaalsüüdistuse. Piiratud esemetele võib lisaks kvaliteedile anda ka tegeliku väärtuse, näiteks ese, mis on ühtaegu kallis ja piiratud.
+Sellel tabelil ei ole esitatud kahte lisaväärtust: Tasuta ja Piiratud. Tasuta esemed ongi just seda — need ei maksa midagi ja neid võib leida vaevata, samas kui Piiratud esemed pole ilma loata kättesaadavad ning loata omamine toob sageli kaasa kriminaalsüüdistuse. Piiratud esemetel võib lisaks kvaliteedile olla ka tegelik väärtus, näiteks ese, mis on nii Kallis kui ka Piiratud.
 
-Tegelase loomine annab teavet sinu tegelase algse varakuse taseme kohta. Sinu mängujuht võib kasutada seda ja staatuse oskust juhistena, et määrata algvarustust, mis ületab tegelase loomise **kaheksandas sammus** toodud juhiseid.
+Tegelase loomine annab teavet teie tegelase algse Rikkuse taseme kohta. Teie mängujuht võib kasutada seda ja Staatuse oskust juhistena, et määrata algvarustust, mis ületab tegelase loomise **Kaheksandas etapis** toodud juhiseid.
 
-##### Varakuse tasemed
+##### Rikkuse tasemed
 
-| Varakuse tase | Eseme väärtus | Kirjeldus |
-| :--- | :--- | :--- |
-| Jõukas | Hindamatu | Tohutu rikkus, millestki ei tunta puudust. Iga ost on mõistlikkuse piires ja krediidiliinid võimaldavad veelgi suuremat finantseerimist. |
-| Hea järjega | Kallis | Kindlustatud ja suudab kulutada vabalt ilma eelarve pärast muretsemata. |
+| Rikkuse tase | Eseme väärtus | Kirjeldus |
+| :---- | :---- | :---- |
+| Rikas | Hindamatu | Suur rikkus, millestki ei ole puudust. Iga ost on mõistuse piires ja krediidiliinid võimaldavad veelgi suuremat finantseerimist. |
+| Jõukas | Kallis | Heal järjel ja suudab vabalt kulutada, muretsemata eelarve pärast. |
 | Keskmine | Keskmine | Keskklassi sissetulek, mugav, kuid mitte ekstravagantne. Suuremaid oste kaalutakse hoolikalt. |
 | Vaene | Odavapoolne | Elu piiri peal. Igapäevane toimetulek on napp ja igal kaotusel on tagajärjed. |
-| Puudustkannatav | Odav | Rahatu, ilma isegi põhilise taskurahata. Ellujäämine on peamine mure. |
+| Puudustkannatav | Odav | Rahatu, isegi taskurahata. Ellujäämine on peamine mure. |
 
 ## Varustus
 
-Igal varustuse esemel on suhteline väärtus. Mängujuht peaks eeldama, et kui sinu tegelane on vastaval varakuse tasemel (või kõrgemal), on tal ligipääs sellele varustusele ilma igasuguste raskusteta. Sinu tegelasel on vaba ligipääs varustusele, mille väärtus on nende varakuse tasemest madalam, mõistlikkuse piires. Mängujuht võib nõuda staatuse kontrollimist, kui soovid, et sinu tegelane küündiks üle oma sotsiaalse staatuse ja omaks kõrgema varakuse taseme esemeid. See võib kujutada millegi jaoks säästmist, väärtuslikku pärandvara või teene palumist.
+Igal varustuse esemel on suhteline väärtus. Teie mängujuht peaks eeldama, et kui teie tegelane on vastaval Rikkuse tasemel (või kõrgemal), on neil ligipääs sellele varustusele ilma igasuguste raskusteta. Teie tegelasel on vaba ligipääs varustusele, mille väärtus on nende Rikkuse tasemest madalam, mõistlikkuse piires. Teie mängujuht võib nõuda Staatuse täringuviskeid, kui soovite, et teie tegelane küünitaks üle oma staatuse ja omaks kõrgema Rikkuse taseme esemeid. See võib tähendada millegi jaoks raha kogumist, väärtuslikku pärandvara või teene palumist.
 
-Mängujuhi äranägemisel, kui soovid, et sinu tegelane omaks kallimat varustust (üle nende varakuse taseme), tuleks nõuda edukat staatuse kontrollimist, et „osta“ esemeid ühe taseme võrra üle sinu tegelase vaikimisi varakuse taseme. Raske staatuse kontroll tuleb sooritada esemete puhul, mis on kaks varakuse taset kõrgemal, ning mängujuht võib otsustada, et esemed, mille väärtus on rohkem kui kaks taset üle sinu tegelase vaikimisi varakuse taseme, on lihtsalt kättesaamatud. Alternatiivina võib mängujuht otsustada, et teatud varustuse ese on tegelasele antud, määratud või laenatud, lähtudes tegelase elukutsest.
+Teie mängujuhi äranägemisel, kui soovite, et teie tegelane omaks kallimat varustust (üle nende Rikkuse taseme), tuleks edukas Staatuse täringuviskamine nõuda esemete "ostmiseks", mis on ühe taseme võrra teie tegelase tavapärasest Rikkuse tasemest kõrgemal. Raske Staatuse täringuviskamine tuleb teha esemete puhul, mis on kaks Rikkuse taset kõrgemal, ja teie mängujuht võib otsustada, et esemed, mis on enam kui kaks väärtustaset teie tegelase tavapärasest Rikkuse tasemest kõrgemal, on lihtsalt kättesaamatud. Alternatiivina võib teie mängujuht otsustada, et konkreetne varustuse ese on tegelasele antud, määratud või laenatud, lähtudes tegelase elukutsest.
 
-**Näiteks,** sõduri varakuse tase on tavaliselt Vaene või Keskmine, kuid sõduritele väljastatakse tulirelvi ja varustust, mis ületab nende finantsvõimekust. Sõdurilt oodatakse varustuse eest hoolitsemist ja ta ei pruugi seda „omada“, kuid see varustus on seiklemiseks kättesaadav. Küll aga on ebatõenäoline, et astronaut omaks omaenda kosmoselaeva väljaspool ulmekirjanduse maailma.
+**Näiteks** on sõduri Rikkuse tase tavaliselt Vaene või Keskmine, kuid sõduritele väljastatakse tulirelvi ja varustust, mis ületab tunduvalt nende rahalisi võimalusi. Sõdurilt oodatakse varustuse eest hoolitsemist ja ta ei pruugi seda "omada", kuid varustus on seiklemiseks saadaval. Kuid astronaut ei oma tõenäoliselt oma kosmoselaeva väljaspool ulmekeskkonda.
 
-> ### Millal kirjeldada varustust?
+> ### Millal varustust kirjeldada?
 > 
-> Millal peab varustuse eset kirjeldama mängulistes terminites ja millal võib eeldada, et see on osa taustast? See on detailide küsimus: millal on vaja mänguefekte ja millal need on tarbetud? Kuigi see otsus jääb mängujuhile, pole siin õiget ega valet vastust: vaid mugavuse aste. Ideaalis peaks mängu eripärade väljaselgitamisele kuluvat aega minimeerima, et maksimeerida aega rollimänguks ja seiklusteks.
+> Millal tuleb varustuse eset kirjeldada mänguterminites ja millal võib eeldada, et see on osa taustast? See on detailide küsimus: millal on mänguefektid vajalikud ja millal need on tarbetud? Kuigi see otsus on teie mängujuhi teha, ei ole siin õiget ega valet vastust: vaid mugavuse aste. Ideaaljuhul on mängu spetsiifika väljaselgitamisele kuluv aeg minimeeritud, et maksimeerida aega rollimänguks ja seiklemiseks.
 > 
-> See peatükk käsitleb mitmesuguseid varustuse esemeid, sealhulgas relvi, soomusrüüsid ja sõidukeid. Ideaalis piisab nendest juhistest, et tuletada samaväärne varustus või taandada varustuse ese lihtsaks oskuse modifikaatoriks.
+> See peatükk hõlmab mitmesuguseid varustuse esemeid, sealhulgas relvi, soomusrüüd ja sõidukeid. Ideaaljuhul on need juhised piisavad, et tuletada vaste mõnele teisele varustuse esemele või abstraheerida varustus lihtsaks oskuste modifikaatoriks.
 
 ### Algvarustus
 
-Nagu märgitud 2. peatüki **Tegelased kaheksandas sammus**, alustab sinu tegelane varustusega, mis on kohane nende varakuse tasemele ja elukutsele. Tavaliselt on keskmisel tegelasel:
+Nagu on märgitud Teise peatüki **Kaheksandas etapis**: Tegelased, alustab teie tegelane varustusega, mis vastab nende Rikkuse tasemele ja elukutsele. Tavaliselt on keskmisel tegelasel:
 
-* Täielik komplekt riideid, mis on kohased nende keskkonnale ja žanrile.
-* Taskuraha ja isiklikud säästud, mis vastavad nende varakuse tasemele.
-* Isiklik ese, millel on mingi seos perekonnaga, olgu see siis pärandiese, mälestusese, foto vms, või mõni nipsasi, millel on väike suhteline väärtus, kuid emotsionaalne side.
-* Kõik ametitööriistad või varustus, mis on nende elukutsele kohane, kui see on asjakohane.
-* Iga relv, mille puhul neil on oskus üle 50%, kui see on asjakohane.
+* Täielik komplekt riideid, mis vastavad nende keskkonnale ja žanrile.
+* Taskuraha ja isiklikud säästud, mis vastavad nende Rikkuse tasemele.
+* Isiklik ese, mis näitab seost nende perega, olgu see siis pärandiese, mälestusese, foto jne või mõni vähese suhtelise väärtusega vidin, millel on emotsionaalne side.
+* Kõik ametialased tööriistad või varustus, mis sobib nende elukutsega, kui see on asjakohane.
+* Mis tahes relv, mille oskus on neil üle 50%, kui see on asjakohane.
 
-Igal elukutsel võib olla täiendavat varustust, näiteks piloot, kes võib mängu alustada lennuki, laeva või isegi kosmoselaevaga, sõltuvalt mängumaailmast. Püüa mitte valida elukutset ainult varustusele ligipääsu tõttu – sinu elukutse peaks olema osa tegelasest, keda soovid mängida, mitte kõige soodsam sotsiaalne või majanduslik valik.
+Igal elukutsel võib olla lisavarustust, näiteks piloodil, kes võib mängu alustada lennuki, laeva või isegi kosmoselaevaga, olenevalt keskkonnast. Püüdke mitte valida elukutset ainult varustusele ligipääsu pärast – teie elukutse peaks olema osa tegelasest, keda soovite mängida, mitte kõige soodsam sotsiaalne või majanduslik valik.
 
-**Näiteks,** kui kõik grupis valivad aadliku, võib mäng muutuda üksluiseks, kui kõik tegelased kasutavad oma tohutuid finantsressursse probleemide lahendamiseks.
+**Näiteks**, kui kõik grupi liikmed valivad aadliku, võib mäng muutuda igavaks, kui kõik tegelased kasutavad oma tohutuid rahalisi ressursse probleemide lahendamiseks.
 
-Lisaks peaksid sina ja mängujuht arvestama, et sinu tegelase varustuse ja rõivaste kvaliteet ja välimus peegeldavad tõenäoliselt ka nende staatuse oskuse taset ja varakust.
+Lisaks peaksite teie ja teie mängujuht arvestama, et teie tegelase varustuse ja riietuse kvaliteet ning välimus peegeldavad tõenäoliselt ka nende Staatuse oskuse taset ja Rikkust.
 
-**Näiteks,** üliõpilase rõivad on puhtad ja tõenäoliselt moekad, kuid ei sobi pidulikeks üritusteks ja on vähe kasulikud ekspeditsioonil kaugesse Tiibetisse. Varustus, mille dilettant ostab jahieksperimendiks, on esmaklassiline ja parimatelt kaubamärkidelt, kuigi kogenud jahimehel on hästi kantud ja usaldusväärne varustus, mille puhul on eelistatud vastupidavus sildile.
+**Näiteks** on õpilase riided puhtad ja tõenäoliselt moekad, kuid ei sobi pidulikeks sündmusteks ja on neile ebasobivad ekspeditsioonil kaugesse Tiibetisse. Varustus, mille diletant jahiekspeditsiooniks ostab, on puutumatu ja parimatelt brändidelt, kuigi kogenud jahimehel on hästi kulunud ja usaldusväärne varustus, mis on valitud pigem töökindluse kui sildi järgi.
 
 ### Varustuse ostmine
 
-Kui sinu tegelane soovib hankida või asendada varustust, mida nad ei saa otsida, röövida või kelleltki võtta, tehakse seda eseme määratud väärtuse alusel, kasutades potentsiaalselt selliseid oskusi nagu Hindamine, Kauplemine ja Veenmine, või lihtsalt staatuse kontrollimist vastavalt vajadusele.
+Kui teie tegelane soovib hankida või asendada varustust, mida nad ei saa korjata, rüüstada või kelleltki ära võtta, käsitletakse seda eseme määratud väärtuse kaudu ja potentsiaalselt selliste oskuste nagu Hinnangu, Kauplemise ja Veenmise abil või lihtsalt asjakohaste Staatuse täringuvisete abil.
 
-Esmalt tee kindlaks, kas varustust on üldse võimalik leida. Mängujuht võib nõuda edukat Uurimise kontrolli või karakteristikute kontrolli, nagu Ideaal, Õnn või Teadmised, et see üles leida. Suhtlusoskused võivad olla vajalikud, kui on vaja kauplemist või läbirääkimisi. 10. peatükk: Mängumaailmad pakub mõningaid põhilisi juhiseid esemete kättesaadavuse kohta erinevates keskkondades.
+Esmalt tehke kindlaks, kas varustust üldse leidub. Teie mängujuht võib selle leidmiseks nõuda edukat Uurimise täringuviset või omaduse täringuviset, nagu Idee, Õnn või Teadmised. Suhtlemisoskused võivad olla vajalikud, kui on vaja kauplemist või läbirääkimisi. Kümnes peatükk: Seaded pakub mõningaid põhilisi juhiseid esemete saadavuse kohta erinevates keskkondades.
 
-Eeldades, et soovitud ese on leitav, on kõige otsesem viis selle hankimiseks staatuse oskus, mida muudavad järgmised tegurid:
+Eeldades, et soovitud ese on leitav, on kõige otsesem viis selle saamiseks Staatuse oskus, mida muudetakse järgmiste teguritega:
 
-* Kui eseme väärtus on kaks taset madalam sinu tegelase varakuse tasemest ja seda on võimalik leida, on see automaatselt kättesaadav. Kontrollimist ei ole vaja.
-* Kui eseme väärtus on ühe taseme võrra madalam sinu tegelase varakuse tasemest ja seda on võimalik leida, saab ühe eseme (või väikese komplekti esemeid, vastavalt vajadusele) kätte ilma kontrollimata.
-* Kui eseme väärtus on võrdne sinu tegelase varakuse tasemega, ei ole selle hankimiseks kontrollimist vaja.
-* Kui ese on ühe väärtustaseme võrra kõrgem sinu tegelase varakuse tasemest, on selle hankimiseks vaja edukat staatuse kontrolli.
-* Kui ese on kahe väärtustaseme võrra kõrgem sinu tegelase varakuse tasemest, on selle hankimiseks vaja edukat Rasket staatuse kontrolli.
-* Kui ese on rohkem kui kahe väärtustaseme võrra kõrgem sinu tegelase varakuse tasemest, ei saa seda staatuse kontrolliga kätte.
+* Kui eseme väärtus on kaks taset madalam teie tegelase Rikkuse tasemest ja seda on võimalik leida, on see automaatselt saadaval. Täringuviset pole vaja.
+* Kui eseme väärtus on ühe taseme võrra madalam teie tegelase Rikkuse tasemest ja seda on võimalik leida, võib üksiku eseme (või väikese esemete komplekti, vastavalt vajadusele) kätte saada ilma täringuvisketa.
+* Kui eseme väärtus on võrdne teie tegelase Rikkuse tasemega, pole selle saamiseks vaja täringuviset.
+* Kui ese on ühe väärtustaseme võrra kõrgem teie tegelase Rikkuse tasemest, on selle saamiseks vaja edukat Staatuse täringuviset.
+* Kui ese on kahe väärtustaseme võrra kõrgem teie tegelase Rikkuse tasemest, on selle saamiseks vaja edukat Rasket Staatuse täringuviset.
+* Kui ese on enam kui kahe väärtustaseme võrra kõrgem teie tegelase Rikkuse tasemest, ei saa seda ühegi Staatuse täringuviskega.
 
-Lõpuks on soovitud varustuse saamiseks alati olemas vargus või vägivald. Kui mängujuht lubab, võib sinu tegelane mängu alustada varastatud esemega, millel on peaaegu igasugune väärtus. Sel juhul tee kindlaks, kes eset algselt omas, kas nad teavad, et see on ära võetud (ja kes selle võttis), ning mil määral ja kui tõsiselt pühenduvad nad selle tagasivõitmisele. Vargust ennast võib rollimängida kui sissejuhatavat stseeni või tagasivaadet, või eeldada automaatselt, et see on õnnestunud. Mõlemal juhul peaks mängujuht tegema mõistlikke jõupingutusi, et tulla toime varguse tagajärgedega mängumaailmale kohasel viisil, kaasates potentsiaalselt tagasivõitmise jõupingutused üldisesse loosse või kampaaniasse. Nagu teistegi oskuste puhul, ei ole enne seikluse algust tehtud edukas oskuse kontroll kõlbulik kogemuse kontrollimiseks.
+Lõpuks on soovitud varustuse saamiseks alati võimalus vargus või vägivald. Kui teie mängujuht lubab, võib teie tegelane alustada mängu varastatud esemega, mille väärtus on peaaegu milline tahes. Sel juhul tehke kindlaks, kes eset algselt omas, kas nad teavad, et see on ära võetud (ja kes selle võttis), ning ressursside ulatust ja tõsidust, mida nad selle tagasisaamiseks pühendavad. Vargust ennast võib rollimängida sissejuhatava stseeni või tagasivaatena või eeldada automaatselt, et see on õnnestunud. Mõlemal juhul peaks teie mängujuht tegema kõik mõistlikud jõupingutused, et tegeleda varguse tagajärgedega keskkonnale sobival viisil, kaasates potentsiaalselt tagasisaamise katsed üldisesse loosse või kampaaniasse. Nagu teiste oskuste puhul, ei ole enne seikluse algust tehtud edukas oskuse täringuviskamine kogemuskontrolli vääriline.
 
 ### Algvarustus võimetega
 
-Võid soovida, et sinu tegelane alustaks võimetega varustusega, kui mängumaailmas võimeid kasutatakse. Kui mängujuht kiidab heaks, peab sinu tegelane „maksma“ selle varustuse eseme eest oma algsest võimete eelarvest, olgu siis loitsude või psüühiliste võimete puhul, mutatsiooni kuluna või sinu tegelase võimete eelarvest. Võid alustada ühe või mitme võimetega varustuse esemega, järgides järgmisi juhiseid:
+Võite soovida, et teie tegelane alustaks võimetega varustatud varustusega, kui mängumaailmas kasutatakse võimeid. Kui teie mängujuht kiidab heaks, peab teie tegelane selle varustuse eest "maksma" oma algsest võimete eelarvest, olgu siis esialgsete loitsude või psüühiliste võimete näol, mutatsiooni arvelt või oma tegelase võimete eelarvest. Võite alustada ühe või mitme võimetega varustuse esemega, järgides järgmisi juhiseid:
 
-* **Maagilised võimed:** Maagilise esemega mängu alustamiseks peab sinu tegelane ohverdama 1 punkti püsivat POW-i iga esemesse investeeritud loitsu kohta, pluss 1 punkti püsivat POW-i iga loitsuvõimekuse taseme kohta, mida ese võib kasutada. Lisaks peab sinu tegelane teadma (või omama ligipääsu) loitsudele, mida ese võib kasutada. Esel on võimepunktide mahutavus võrdne sinu tegelase tavalise võimepunktide kogusummaga pärast maagilise eseme loomist või eseme SIZ-ga. Kui sinu tegelane ei loonud maagilist eset, peaks mängujuht määrama selle võimepunktide mahutavuse. Maagilisel esemel peab olema algne oskuse tase, mis on makstud sinu tegelase isiklike oskuspunktide hulgast, ja see ei tohi olla kõrgem kui selle looja oskuse tase. Kui sinu tegelane ei loonud seda, peaks mängujuht määrama algsed oskuste tasemed. Kui maagiline ese on loodud, tee kindlaks, kas see on isiklik (ainult sinu tegelane saab seda kasutada), kas see peab olema võidetud võimepunkt vs. võimepunkt vastupanu kontrollis, kui sellel on võimepunkte, või kas igaüks saab seda kasutada. Lisateavet vaata jaotisest Maagilised esemed.
+* **Maagilised võimed:** Et alustada mängu maagilise esemega, peab teie tegelane ohverdama 1 punkti püsivat VÄG iga esemesse investeeritud loitsu kohta, pluss 1 punkti püsivat VÄG iga loitsuvõimekuse taseme kohta, mida ese kasutada suudab. Lisaks peab teie tegelane teadma (või omama ligipääsu) loitsule/loitsudele, mida ese võib kasutada. Esemel on võimepunktide maht, mis võrdub teie tegelase tavalise võimepunktide kogusummaga pärast maagilise eseme loomist või eseme SUU-ga. Kui teie tegelane ei loonud maagilist eset, peaks teie mängujuht määrama selle võimepunktide mahu. Maagilisel esemel peab olema esialgne oskuse tase, mis on tasutud teie tegelase isiklike oskuspunktide arvelt, ja see ei saa olla kõrgem kui selle looja oskuse tase. Kui teie tegelane seda ei loonud, peaks teie mängujuht määrama esialgsed oskuste tasemed. Maagilise eseme loomisel määrake, kas see on isiklik (seda saab kasutada ainult teie tegelane), kas see tuleb võita võimepunktide vs võimepunktide vastupanu täringuviskes, kui sellel on võimepunkte, või kas seda saab kasutada igaüks. Lisateabe saamiseks vaadake Maagilised esemed.
 
-* **Mutatsioonid:** Mutatsioonidega esemega alustamiseks tee koostööd mängujuhiga, et pakkuda mõistlik selgitus, miks selline ese eksisteerib ja millised mutatsioonid esindavad kõige paremini selle võimeid. Mutanteerunud ese on osa sinu tegelasest ja selle eest peab maksma nende algsetest karakteristikute ja kättesaadavate mutatsioonide hulgast. Mutanteerunud esemega mängu alustamiseks peab sinu tegelane ohverdama 1 punkti püsivat CON-i iga mutatsiooni taseme kohta (ja võrdse arvu kättesaadavaid algseid mutatsioone). Kõik karakteristikute kontrollid, mida ese teeb, põhinevad sinu tegelase enda karakteristikutel. Mutanteerunud eset peetakse „elavaks“ ja see paraneb sama kiirusega nagu sinu tegelane. Lisateavet vaata jaotisest **Mutanteerunud esemed**.
+* **Mutatsioonid:** Et alustada mutatsioonidega esemega, tehke koostööd oma mängujuhiga, et pakkuda mõistlikku selgitust, miks selline ese eksisteerib ja millised mutatsioonid esindavad kõige paremini selle võimeid. Mutanteeritud ese on osa teie tegelasest ja selle eest tuleb tasuda tema esialgsete omaduste ja saadaolevate mutatsioonide arvelt. Et alustada mängu mutanteeritud esemega, peab teie tegelane ohverdama 1 punkti püsivat VAS iga mutatsiooni taseme kohta (ja võrdse arvu saadaolevaid algmutatsioone). Kõik omaduste täringuvisked, mida ese teeb, põhinevad teie tegelase enda omadustel. Mutanteeritud eset peetakse "elusaks" ja see paraneb sama kiirusega nagu teie tegelane. Lisateabe saamiseks vaadake **Mutanteeritud esemed**.
 
-* **Psüühilised võimed:** Psüühiliste võimetega esemega alustamiseks peab sinu tegelane ohverdama 1 punkti püsivat POW-i iga psüühilise võime taseme kohta (ja ühe psüühilise võime „pesa“ nende algsetest psüühilistest võimetest, kui võime pole teada). Esel on algne POW (ja maksimaalsed võimepunktid) võrdne sinu tegelase omaga. Sinu tegelane peab maksma eseme psüühiliste võimete eest oskuspunktid oma isiklikust oskuspunktide reservist. Lisateavet vaata jaotisest **Varustus psüühiliste võimetega**.
+* **Psüühilised võimed:** Et alustada esemega, mis kasutab psüühilisi võimeid, peab teie tegelane ohverdama 1 punkti püsivat VÄG iga psüühilise võime taseme kohta (ja ühe psüühilise võime "koha" oma algsetest psüühilistest võimetest, kui võime pole teada). Esemel on algne VÄG (ja maksimaalsed võimepunktid), mis võrdub teie tegelase omaga. Teie tegelane peab tasuma eseme psüühiliste võimete eest oskuspunktid oma isiklike oskuspunktide kogumist. Lisateabe saamiseks vaadake **Psüühiliste võimetega varustus**.
 
-* **Nõidus (Sorcery):** Artefaktiga mängu alustamiseks peab sinu tegelane ohverdama 1 punkti püsivat POW-i iga artefakti investeeritud nõiduseloitsu kohta ja peab teadma (või omama ligipääsu) loitsule (või loitsudele), mida artefakt võib kasutada. Artefaktil on võimepunktide reservuaar, mis on võrdne sinu tegelase tavalise võimepunktide maksimumiga (pärast artefakti loomist) või selle SIZ-ga, kumb on suurem. Mängujuht peaks määrama POW-i ja võimepunktide väärtuse, kui artefakti ei loonud sinu tegelane. Kui artefakt on loodud, peaksid määrama, kas see on isiklik (ainult sinu tegelane saab seda kasutada), kas see peab olema võidetud võimepunkt vs. võimepunkt vastupanu kontrollis, kui sellel on võimepunkte, või kas igaüks saab seda kasutada. Lisateavet vaata jaotisest **Varustus nõidusega**.
+* **Nõidus:** Et alustada mängu artefaktiga, peab teie tegelane ohverdama 1 punkti püsivat VÄG iga artefakti investeeritud nõidusloitsu kohta ja peab teadma (või omama ligipääsu) loitsule/loitsudele, mida artefakt võib kasutada. Artefaktil on võimepunktide reserv, mis võrdub teie tegelase tavalise võimepunktide maksimumiga (pärast artefakti loomist), olenevalt sellest, kumb on suurem. Teie mängujuht peaks määrama VÄG ja võimepunktide väärtuse, kui teie tegelane artefakti ei loonud. Artefakti loomisel peaksite määrama, kas see on isiklik (seda saab kasutada ainult teie tegelane), kas see tuleb võita võimepunktide vs võimepunktide vastupanu täringuviskes, kui sellel on võimepunkte, või kas seda saab kasutada igaüks. Lisateabe saamiseks vaadake **Nõidusega varustus**.
 
-* **Supervõimed:** Vidinatega mängu alustamiseks maksa vidina võimete eest nii, nagu need oleksid sinu tegelase võimete eelarvest. Soovitatav on, et vidin oleks samal võimete tasemel kui selle omanik, kuigi mängujuht võib lubada ka võimsamat või nõrgemat vidinat. Mängujuht võib samuti otsustada nihutada vidina ja sinu tegelase suhtelist taset balansseerimise eesmärgil, nii et kui vidin on kampaania võimete tasemest ühe taseme võrra kõrgem, peaks sinu tegelase võimete taset nihutama ühe taseme võrra allapoole või vastupidi. Võid võtta võimete puuduse „Supervõimetega identiteet tuleb aktiveerida silmnähtaval ja välditaval viisil“, mis on seotud esemega, tavaliselt +1 võimete eelarve boonus. Muud võimete puudused võivad kehtida, näiteks „Võimel on piiratud arv kasutusvõimalusi päevas“. Samuti võib mängujuht lubada võtta uue võimete puuduse: „Võime tuleb vidinast“ +1 võimete eelarve boonuse eest. Alati, kui see on asjakohane, peaks vidin toetuma sinu tegelase asjakohasele oskusele. Lisateavet vaata jaotisest **Varustus supervõimetega**.
+* **Supervõimed:** Et alustada mängu vidinaga, tasuge vidina võimete eest, justkui need pärineksid teie tegelase enda võimete eelarvest. Soovitatav on, et vidin oleks sama võimsustasemega nagu selle omanik, kuigi teie mängujuht võib lubada võimsamat või nõrgemat vidinat. Teie mängujuht võib ka otsustada muuta vidina ja teie tegelase suhtelist taset tasakaalustamise eesmärgil, seega kui vidin on kampaania võimsustasemest ühe taseme võrra kõrgem, peaks teie tegelase võimsustaset nihutama ühe taseme võrra allapoole või vastupidi. Võite võtta võime puuduse "Supervõimeline identiteet peab olema sisse lülitatud ilmselgel ja välditaval viisil", mis on seotud esemega, tavaliselt +1 võimete eelarve boonus. Muud võimete puudused võivad kehtida, näiteks "Võimel on piiratud arv kasutusviise päevas". Samuti võib teie mängujuht lubada teil võtta uue võimete puuduse: "Võime tuleb vidinast" +1 võimete eelarve boonuse eest. Alati, kui see on asjakohane, peaks vidin tuginema teie tegelase asjakohasele oskusele. Lisateabe saamiseks vaadake **Supervõimetega varustus**.
 
 ### Varustuse valmistamine
 
-Sinu tegelane võib soovida ise varustuse eseme valmistada, mis on tavaliselt odavam kui selle ostmine ja vähem riskantne kui selle varastamine. Iga ese, mille sinu tegelane valmistab (vastandina ostmisele), loetakse ühe väärtustaseme võrra madalamaks kui selle tavahind. See eeldab, et sinu tegelane on osav eseme valmistamises (asjakohane oskuse tase 75%+). See eeldab, et sinu tegelane teab, kust leida usaldusväärseid komponente hea hinnaga (must turg, postimüük, lammutuskoda jne), ning kulutab aega materjalide testimiseks ja hindamiseks, et veenduda nende toimimises. Mängujuht võib nõuda, et see protsess hõlmaks muid oskuste kontrolle või isegi staatuse kontrolle, nagu ülalpool märgitud. Osade ja/või toorainete kogumiseks kuluv aeg ja vaev on mängujuhi otsustada, sõltuvalt sellest, kui palju nad soovivad sellele mängu ajal keskenduda.
+Teie tegelane võib soovida tegelikult ehitada varustuse eseme, mis on tavaliselt odavam kui selle ostmine ja vähem riskantne kui selle varastamine. Iga eset, mille teie tegelane teeb (vastupidiselt ostmisele), peetakse ühe väärtustaseme võrra madalamaks kui selle tavahind. See eeldab, et teie tegelane on oskuslik eseme valmistamisel (asjakohane oskuse tase 75%+). See eeldab, et teie tegelane teab, kust leida usaldusväärseid komponente heade hindadega (must turg, postimüük, lammutuskoda jne), ning kulutab aega materjalide testimisele ja hindamisele, veendumaks, et need töötavad. Teie mängujuht võib nõuda, et see protsess kaasaks muid oskuste täringuviskeid või isegi eespool nimetatud Staatuse täringuviskeid. Osade ja/või toormaterjalide kogumiseks kuluv aeg ja vaev on teie mängujuhi otsustada, sõltuvalt sellest, kui palju nad soovivad sellele mängu ajal keskenduda.
 
-Mõnda eset ei saa traditsiooniliselt valmistada poest ostetud osadest, näiteks ainulaadsete kunstiteoste või artefaktide dubleerimist kui midagi muud kui koopiad. Kuigi üksikute osade valmistamine või leidmine võib olla odav, võivad meisterlikkus või eseme haruldus sinu võimalusi piirata. Kui sinu tegelane ei ole piisavalt osav või ebaõnnestub asjakohastes kontrollides, võib toorainete ja komponentide maksumus olla isegi kallim kui ese traditsiooniliselt on.
+Mõnda eset ei saa traditsiooniliselt valmistada poest ostetud tükkidest, näiteks unikaalsete kunstiteoste või artefaktide dubleerimist muuna kui koopiatena. Kuigi üksikud tükid võivad olla odavad valmistada või leida, võivad meisterlikkus või eseme haruldus teie valikuid piirata. Kui teie tegelane pole piisavalt oskuslik või ebaõnnestub asjakohastes täringuvisetes, võivad toormaterjalide ja komponentide kulud olla isegi kallimad kui ese traditsiooniliselt on.
 
-**Näiteks,** auto ehitamine jaemüügist ostetud osadest on aeganõudev ja kulukas ning nõuab palju rohkem raha ja aega kui auto otse välja ostmine. Küll aga, kui sinu tegelane on osav ja suudab edukalt kasutada Kauplemist ja Uurimist, võib ta leida lammutuskoja või suuta koguda kõik vajalikud elemendid palju odavamalt kui küsitava hinna maksmine.
+**Näiteks** on auto ehitamine jaemüügist ostetud tükkidest aeganõudev ja kulukas ning nõuab palju rohkem raha ja aega kui lihtsalt auto otse ostmine. Kui aga teie tegelane on oskuslik ja suudab Kauplemist ning Uurimist edukalt kasutada, võib ta leida lammutuskoja või suuta kõik vajalikud elemendid kokku korjata palju odavamalt kui küsitud hinda makstes.
 
-Lõppkokkuvõttes on mängujuhi otsustada, kui palju aega kulub konkreetse eseme valmistamiseks. Vajadusel, eeldades, et kogu vajalik varustus on käepärast ja kõik asjakohased oskuste kontrollid on edukad: eseme, mida on suhteliselt lihtne valmistada, puhul kulub üks tund SIZ-i kohta. Kui see on keskmise keerukusega, kulub iga SIZ-i kohta üks päev. Kui see on suhteliselt keeruline, on iga SIZ ühe nädala pikkune. Kui see on äärmiselt keeruline, võib iga SIZ võtta ühe kuu. Kui eseme kallal töötab rohkem kui üks tegelane, jaga SIZ nende vahel. Kui töö on katnud eseme nõutava SIZ-i, on see valmis. Kasuta SIZ-i ekvivalentsuse tabeleid.
+Lõppkokkuvõttes on teie mängujuhi otsustada, kui palju aega kulub konkreetse eseme valmistamiseks. Vajadusel, eeldades, et kogu vajalik varustus on käepärast ja kõik asjakohased oskuste täringuvisked on edukad: ese, mida on suhteliselt lihtne teha, nõuab ühe tunni SUU kohta. Kui see on keskmise keerukusega, nõuab iga SUU ühe päeva. Kui see on suhteliselt keeruline, on iga SUU ühe nädala. Kui see on äärmiselt keeruline, võib iga SUU võtta kuu. Kui esemega töötab rohkem kui üks tegelane, jagage SUU nende vahel. Kui töö on katnud eseme vajaliku SUU, on see valmis. Kasutage SUU võrdlustabeleid.
 
-**Näiteks,** kilp (SIZ 3) on suhteliselt lihtne ehitada ja võtab aega kolm tundi. SIZ 50 auto on keskmise keerukusega ja ühe inimese 50-päevane töö või kahe mehaaniku 25-päevane töö osadest kokkupanekuks. SIZ 110 reisilennuk on aga äärmiselt keeruline ja ühel tegelasel kuluks selle valmimiseks üheksa aastat. Mängujuhti julgustatakse neid summasid muutma vastavalt varustusele, rajatistele ja tehtud edukate kontrollide kvaliteedile. Sellise pikaajalise projekti puhul nõuab iga ajavahemik (üks tund, üks päev või üks nädal) eraldi ja edukat oskuse kontrolli, kui oskuse kontroll on vajalik.
+**Näiteks** on sihikilp (SUU 3) suhteliselt lihtne valmistada ja võtab kolm tundi. SUU 50 auto on keskmise keerukusega ja nõuab ühelt inimeselt 50 tööpäeva või kahelt mehaanikult 25 tööpäeva tükkidest kokkupanekuks. SUU 110 lennuk on aga äärmiselt keeruline ja ühel tegelasel kuluks selle lõpetamiseks üheksa aastat. Teie mängujuhti julgustatakse neid summasid muutma vastavalt varustusele, rajatistele ja tehtud täringuvisete kvaliteedile. Sellise pikaajalise projekti puhul nõuab iga ajavahemik (üks tund, üks päev või üks nädal) eraldi ja edukat oskuste täringuviset, kui oskuse täringuviskamine on vajalik.
 
-Need väärtused on abstraktsed ja mängujuhti julgustatakse soovi korral esitama täpsemat teavet valmistamisaja kohta.
+Need väärtused on abstraktsed ja teie mängujuhti julgustatakse soovi korral esitama täpsemat teavet valmistamisaja kohta.### Varustuse kvaliteedi modifikaatorid
 
-### Varustuse kvaliteedi modifikaatorid
+Oskusveeretusi saab muuta, kui käepärast on asjakohane ja sobiv varustus. Varustus võib olla kõike alates lukksepa tööriistadest, masinaehitaja tööriistakomplektist, teadusraamatukogust, meditsiinilaborist või mis tahes muust, mis on kasulik ja sobiv. Varustuse kvaliteet võib anda oskusveeretusele modifikaatori, nagu on kirjeldatud jaotises **Situatsioonilised modifikaatorid**. See modifikaator võib ulatuda –20% karistusest, kui tegemist on alaväärtusliku varustusega, kuni +20% boonuseni, kui kasutatakse suurepärase kvaliteediga varustust.
 
-Oskuste kontrolle saab muuta, kui käepärast on asjakohane ja sobiv varustus. Varustus võib olla kõike alates lukksepa tööriistadest, masinaehitaja tööriistakomplektist, teadusraamatukogust, meditsiinilaborist või muust, mis on kasulik ja sobiv. Varustuse kvaliteet võib anda modifikaatori oskuse kontrollile, nagu kirjeldatud **Situatsioonilistes modifikaatorites**. See modifikaator võib ulatuda madalama kvaliteediga varustusest, mis karistab sinu tegelase oskuse taset -20%, kuni kõrgema kvaliteediga varustuseni, mis pakub +20% boonust.
+Enamik varustusetüüpe on saadaval väga erineva kvaliteediga. Sinu mängujuht peaks määrama, kas konkreetne varustusesese on saadaval erineva kvaliteediga ning kui lihtne või kulukas on nimetatud varustust hankida. Enamik su tegelase kasutatavast varustusest on vaikimisi keskmise kvaliteediga. Siiski võid soovida, et su tegelasel oleks suurepärase kvaliteediga varustus, et suurendada tema eduvõimalusi vastava oskusveeretuse puhul.
 
-Enamik varustuse tüüpe on saadaval väga erineva kvaliteediga. Mängujuht peaks määrama, kas konkreetne varustuse ese on saadaval erineva kvaliteediga ning kui lihtne või kallis on seda varustust hankida. Enamik varustust, mida sinu tegelane kasutab, on vaikimisi keskmise kvaliteediga. Siiski võid soovida, et sinu tegelane omaks või kasutaks kõrgema kvaliteediga varustust, et suurendada oma võimalusi edu saavutamiseks asjakohase oskuse kontrolliga.
-
-Järgneb kiire juhend erinevate kvaliteeditasemetega varustuse väärtuse ja kättesaadavuse käsitlemiseks:
+Järgnevalt on toodud kiire juhend varustuse erinevate kvaliteeditasemete väärtuse ja kättesaadavuse käsitlemiseks:
 
 | Kvaliteet | Modifikaator | Väärtus ja võimekus |
-| :--- | :--- | :--- |
-| Madalam | –20% | Lahuta üks kuni kolm väärtustaset |
+| :---- | :---- | :---- |
+| Alaväärtuslik | –20% | Lahuta üks kuni kolm väärtustaset |
 | Keskmine | Puudub | Nagu tavaliselt |
-| Kõrgem | +20% | Lisa üks kuni kolm väärtustaset |
+| Suurepärane | +20% | Lisa üks kuni kolm väärtustaset |
 
-Selle tabeli kasutamiseks leia varustuse eseme tavaline väärtus (või konsulteeri mängujuhiga). Järgmisena määra selle eseme kvaliteet, mida oma tegelasele sooviksid. Konsulteeri **Väärtuse ja võimekuse** veeruga, et määrata varustuse lõplik väärtus. Varustuse eseme väärtust ja kättesaadavust ei saa tavaliselt muuta väljapoole normaalseid piire. Eeldatavalt soovib sinu tegelane head või kõrgema kvaliteediga varustust, et suurendada oma oskuste taset, kuigi kui eelarve on probleem, võid valida, et sinu tegelane kasutab taskukohasemat madalama kvaliteediga varustust.
+Selle tabeli kasutamiseks leia varustuseseme tavapärane väärtus (või konsulteeri mängujuhiga). Seejärel määra selle eseme kvaliteet, mida soovid oma tegelasele. Kasuta **Väärtuse ja võimekuse** veergu, et määrata varustuse lõplik väärtus. Varustuseseme väärtust ja kättesaadavust ei saa tavaliselt muuta väljapoole tavapäraseid piire. Eeldatavalt soovib su tegelane head või suurepärast varustust, et tõsta oma oskuste taset, kuigi kui eelarve on piiratud, võid valida oma tegelasele soodsama ja madalama kvaliteediga varustuse.
 
-Mängujuhi äranägemisel võib varustusele määrata alternatiivseid väärtusi ja/või modifikaatoreid – esitatud väärtused on juhised.
+Mängujuhi äranägemisel võib varustusele määrata alternatiivseid väärtusi ja/või modifikaatoreid – esitatud väärtused on vaid suunised.
 
-Piisava varustuse olemasolu ei anna mingit modifikaatorit. Küll aga, kui sinu tegelasel pole konkreetse oskuse kasutamiseks vajalikku varustust, võib mängujuht muuta oskuse kontrolli Raskeks või Võimatuks, või lihtsalt otsustada, et oskust ei saa ilma õige varustuseta sooritada.
+Piisava varustuse olemasolu ei anna mingit modifikaatorit. Kui aga su tegelasel ei ole konkreetse oskuse kasutamiseks vajalikku varustust, võib mängujuht muuta oskuse kasutamise raskeks või võimatuks, või lihtsalt otsustada, et oskust ei saa ilma õige varustuseta proovida.
 
-**Näiteks,** sinu tegelane kohtab lukku, mis tuleb avada. Alljärgnevalt on mõned tulemused olude tõttu:
+**Näiteks** satub su tegelane luku otsa, mis tuleb lahti muukida. Järgnevalt on toodud mõned asjaoludest tulenevad tulemused:
 
-* Kõrgema kvaliteediga lukuvalimiskomplekt ja muud tööriistad annavad +20% boonuse.
-* Keskmised tööriistad ei anna mingit boonust.
-* Madalama kvaliteediga tööriistad (roostes, purunenud, improviseeritud) muutsid oskuse taset -20%.
+* Suurepärased muukimisriistad ja muud tööriistad annavad +20% boonuse.
 
-Mängujuht võib kuulutada, et oskust ei saa üldse sooritada, kui sinu tegelasel pole isegi kõige algelisemaid lukuvalimisvahendeid. Nad võivad öelda: „Sa ei saa lukku avada ilma lukuvalimisseadmeta või millegita, mida lukku pista. Võib-olla vaata veel ringi? Võid leida midagi, millest improviseeritud lukuvalimisseade meisterdada.“
+* Keskmised tööriistad ei anna boonust.
 
-Mängujuht võib lubada sinu tegelasele otsese 1% eduvõimaluse, isegi ilma tööriistadeta. Kui kontroll on edukas, võib mängujuht öelda: „Sul õnnestub luku mehhanismi edasi-tagasi liigutada, kuni kuuled kerget klõpsatust. Kas suutsid selle avada õigeid vibratsioone rakendades või polnud see üldse korralikult lukus. Igal juhul oli see uskumatu õnn.“
+* Alaväärtuslikud tööriistad (roostes, katkised, improviseeritud) muudavad oskust –20% võrra.
 
-Pea meeles, et situatsioonilisi modifikaatoreid oskuse tasemele rakendatakse pärast seda, kui Kerge modifikaator on kahekordistatud või Raske modifikaator poolitatud.
+Mängujuht võib deklareerida, et oskust ei saa üldse proovida, kui su tegelasel pole isegi kõige algelisemaid muukimisriistu. Ta võib öelda: „Sa ei saa luku lahti muukida ilma muukrauata või millegita, mida lukku pista. Võib-olla vaata veel ringi? Ehk leiad midagi, millest improviseeritud muukrauda meisterdada.“
+
+Mängujuht võib lubada su tegelasel proovida oskust 1% eduvõimalusega, isegi ilma tööriistadeta. Kui veeretamine on edukas, võib mängujuht öelda: „Sul õnnestub luku mehhanismi edasi-tagasi õõtsutada, kuni kuuled vaikset klõpsatust. Kas õnnestus see õigete vibratsioonide abil avada või polnudki see korralikult lukus. Igatahes oli see uskumatu vedamine.“
+
+Pea meeles, et situatsioonilised modifikaatorid oskustasemele rakendatakse pärast seda, kui lihtne modifikaator on kahekordistatud või raske modifikaator on poole võrra vähendatud.
 
 ### Oskused ja varustus
 
-Paljud oskused nõuavad edukaks kasutamiseks varustust või on varustusega tunduvalt täiustatud. Nagu varem märgitud, on mõnede oskuste puhul karistus varustuse puudumise eest. Konkreetse oskuse jaoks vajalik varustus varieerub sõltuvalt mängumaailmast ja mängujuht võib selle teema kohta anda täpsemat teavet. Tabel **Oskused ja varustus** kirjeldab potentsiaalset spetsialiseeritud või üldist varustust, mida oskustega kasutada. Kui oskust tabelis loetletud pole, ei vaja see mingit varustust või on see ilmselge (näiteks relvaoskused).
+Paljud oskused vajavad edukaks kasutamiseks varustust või on varustuse abil märgatavalt täiustatud. Nagu varem mainitud, on mõnede oskuste puhul varustuse puudumine karistatav. Konkreetse oskuse jaoks vajalik varustus varieerub sõltuvalt mängukeskkonnast ja mängujuht võib selle teema kohta rohkem üksikasju anda. Tabel **Oskused ja varustus** kirjeldab potentsiaalset spetsialiseeritud või üldist varustust, mida oskustega kasutada. Kui oskust tabelis kirjas pole, ei vaja see varustust või on see ilmselge (nagu relvaoskused).
 
-**Muu varustus** sisaldab täiendavat teavet kasuliku varustuse kohta, sealhulgas näidiskomplekte, mida sinu tegelane võib kasutada.
+**Muu varustus** sisaldab lisateavet kasuliku varustuse kohta, sealhulgas näidiskomplekte, mida su tegelane võib kasutada.
 
 > ##### Oskused ja varustus
 > 
 > | Oskus | Potentsiaalne varustus |
-> | :--- | :--- |
-> | Hindamine | Puudub või teatmematerjalid, mõõteseadmed, suurendusklaas jne. |
-> | Kunst | Vastavalt meediumile (värvid, arvuti, holo-kujutaja, pihustusvärv, kirjutusmasin jne). |
-> | Ronimine | Puudub või köis, ronimiskonksud, ronimisrauad jne. |
+> | :---- | :---- |
+> | Hindamine | Puudub või teatmematerjalid, mõõteriistad, suurendusklaas jne. |
+> | Kunst | Vastavalt vahendile (värvid, arvuti, holoprojektor, spreivärvid, kirjutusmasin jne). |
+> | Ronimine | Puudub või köis, pitonid, kramponid jne. |
 > | Käsitöö | Peaaegu iga käsitöö eriala kasutab oma varustust või tööriistu. |
-> | Maskeering | Meik, parukad, kostüümivahetused jne. |
+> | Maskeering | Grimm, parukad, kostüümivahetus jne. |
 > | Peenmanipulatsioon | Puudub või täppistööriistad. |
 > | Esmaabi | Puudub või esmaabikomplekt ja sidemed. |
 > | Mängimine | Puudub või kaardid, täringud, mängulaud jne. |
 > | Teadmised | Puudub või teatmematerjalid. |
-> | Keel | Puudub või keelesõnastik. |
-> | Kirjaoskus | Puudub või keelesõnastik. |
-> | Meditsiin | Erineb sõltuvalt maailmast, ulatudes taimetarkade materjalidest tipptasemel haiglarajatiste ja ravimiteni. |
+> | Keel | Puudub või sõnaraamat. |
+> | Kirjaoskus | Puudub või sõnaraamat. |
+> | Meditsiin | Erineb vastavalt keskkonnale, ulatudes taimetarkuste materjalidest kuni moodsate haiglarajatiste ja ravimiteni. |
 > | Navigeerimine | Puudub või kaardid, astrolaab, kompass jne. |
 > | Remont | Puudub või remonditüübile vastavad tööriistad. |
-> | Uurimine | Puudub või uurimisraamatukogu ja teatmematerjalid. |
-> | Teadus | Puudub või teadusinstrumendid ja teatmematerjalid. |
-> | Õpetamine | Õppeaine kohta käivad õppematerjalid. |
-> | Tehniline oskus | Puudub või konkreetse oskuse jaoks kohased materjalid. |
+> | Uurimistöö | Puudub või raamatukogu ja teatmematerjalid. |
+> | Teadus | Puudub või teaduslikud instrumendid ja teatmematerjalid. |
+> | Õpetamine | Õppematerjalid vastavalt ainele. |
+> | Tehniline oskus | Puudub või spetsiifilisele oskusele vastavad materjalid. |
 
-### Karakteristikute omamine varustuses
+### Karakteristikutega varustus
 
-Mõnel varustusel on karakteristikute väärtused: kas väärtused kõigis karakteristikutes, mõnes või ainult ühes. Mõnel pole ühtegi. See varieerub esemeti, kuid kui esemel on kvaliteet, mis nõuab vastupanu kontrolli, peaks sellel olema karakteristikute väärtus. Karakteristikutega varustuse puhul kirjeldavad järgmised juhised, kuidas need väärtused objektidele rakendamisel töötavad:
+Mõnel varustusel on karakteristiku väärtused: kas väärtused kõigis karakteristikes, mõnes või ainult ühes. Mõnel pole ühtegi. See varieerub esemeti, kuid kui esemel on kvaliteet, mis nõuab takistusveeretust, peaks sellel olema karakteristiku väärtus. Karakteristikutega varustuse puhul kirjeldavad järgmised juhised, kuidas need väärtused objektidele rakendatuna toimivad:
 
-* **Tugevus (STR):** STR-iga esemel peab olema mingi liikumisviis. STR ei ole mõõdupuu sellele, kui vastupidav miski STR-ile on: selle väärtuse jaoks vaata selle tabamuspunktide või soomuse väärtust. STR-iga esemed on sõidukid, ehitustehnika nagu tõstukid või buldooserid, robotid või isegi hüdraulilised tungrauad.
+* **JÕU:** JÕU-ga esemel peab olema mingi liikumisvahend. JÕU ei ole mõõdupuu sellele, kui vastupidav miski JÕU-le on: selle väärtuse jaoks vaata selle löögipunktide või soomuse väärtust. JÕU-ga esemed on sõidukid, ehitusseadmed nagu kahveltõstukid või buldooserid, robotid või isegi hüdraulilised tungrauad.
 
-* **Kehastus (CON):** CON-iga ese on haruldane – tabamuspunktide kogusumma põhineb tavaliselt toorel SIZ-il ja on muudetud soomuse väärtusega. Kui see ei saa paraneda või seda ei mõjuta haigus, mürk jms, ei vaja see CON-i. Näidisena võiksid CON-iga esemed olla humanoidandroiidid.
+* **VAS:** Ese, millel on VAS, on haruldane – löögipunktide kogusumma põhineb tavaliselt toorel SUU-l ja on muudetud soomuse väärtusega. Kui ese ei suuda paraneda või seda ei mõjuta haigus, mürk jne, ei vaja see VAS-i. Näidisena võiksid VAS-iga esemed olla humanoidandroiidid.
 
-* **Suurus (SIZ):** SIZ on eseme peamine karakteristik – peaaegu kõigel on füüsiline kohalolu ja seetõttu SIZ. Nagu eespool märgitud, määrab enamiku varustuse puhul SIZ tabamuspunktide väärtuse. Mõnikord on esemel rohkem tabamuspunkte, lähtudes sellest, millest see on valmistatud. Vaata **Objektide üldised omadused**, et saada rohkem teavet tabamuspunktide, soomuse väärtuse ja muude atribuutide kohta.
+* **SUU:** SUU on eseme peamine karakteristik – peaaegu kõigel on füüsiline kohalolu ja seega SUU. Nagu eespool mainitud, määrab SUU enamiku varustuse löögipunktide väärtuse. Mõnikord on esemel rohkem löögipunkte, sõltuvalt sellest, millest see on valmistatud. Vaata jaotist **Objektide üldised omadused**, et saada rohkem teavet löögipunktide, soomuse väärtuse ja muude atribuutide kohta.
 
-* **Intelligentsus (INT):** Eseme puhul haruldane, INT esindab mõtlemist, tähendades intuitsiooni ja probleemide lahendamist. INT on ebatõenäoline esemete puhul, välja arvatud arvutid või tehisintellektid, kuid maagilistel esemetel võib olla INT ja nendega kaasnevad isiksused. INT-iga esemel peaks ideaalis olema mingi suhtlemisvahend, nagu kuvar, ekraan, hääl, telepaatia või muu info edastamise viis.
+* **INT:** Eseme puhul haruldane INT esindab mõtlemisvõimet, viidates intuitsioonile ja probleemide lahendamisele. INT on ebatõenäoline muude esemete kui arvutite või tehisintellektide puhul, kuid maagilistel esemetel võib olla INT ja nendega kaasnevad isiksused. INT-iga esemel peaks ideaaljuhul olema mingi suhtlusvahend, näiteks ekraan, kuvar, hääl, telepaatia või muu info edastamise viis.
 
-* **Võim (POW):** POW esindab vaimset energiat ja on peaaegu eranditult elusolendite või maagiliste loomingu päralt. See ei esinda toiteallikat – see on kas mehaaniline (võimepunktide reserv) või kasutab supervõimet Ekstra Energia.
+* **VÄG:** VÄG esindab vaimset energiat ja on peaaegu eranditult omane elusolenditele või maagilistele loomingutele. See ei esinda energiaallikat – see on kas mehaaniline (energiareserv) või kasutatakse supervõimet „Lisaenergia“.
 
-* **Osavus (DEX):** Igal esemel, mis on võimeline iseseisvaks liikumiseks, peaks olema DEX. Kui sinu tegelane peab DEX-iga eset kasutama, kasuta kas oma tegelase või eseme madalamat DEX-i.
+* **OSA:** Igal esemel, mis on võimeline iseseisvalt liikuma, peaks olema OSA. Kui su tegelane peab OSA-ga eset käsitsema, kasuta kas su tegelase või eseme madalamat OSA-d.
 
-* **Karisma (CHA):** Kuigi CHA sisaldab isiksuse ja isikliku karisma elemente, võib eseme puhul see olla kas esteetiline veetlus või tähistada seda, et ese on võimeline suhtluseks ja võluks. Peamine põhjus elutule esemele CHA määramiseks on võrrelda selle välimust teise esemega.
+* **KAR:** Kuigi KAR sisaldab isiksuse ja isikliku karisma elemente, võib eseme puhul see olla kas esteetiline veetlus või esindada eseme võimet suhelda ja võluda. Peamine põhjus KAR-i määramiseks elutule esemele on selle välimuse võrdlemine teise esemega.
 
-* **Haridus (EDU) (Valikuline):** Peale treeningu või allalaaditud teadmiste esindamise mõtleva arvuti jaoks, kasutatakse EDU-d kõige paremini teadmiste reserve omava varustuse puhul. Tavaliselt lisab selline ese kas boonuse sinu tegelase Uurimise oskusele või võib muuta oskuste kontrollid Kergeks või Raskeks. Esele määratuna tähistab EDU andmeid, millele sellel on vahetu ligipääs. See arv kasvab märkimisväärselt info salvestamise ja andmebaasidele veebipõhise ligipääsu tulekuga.
+* **Haridus (EDU) (Valikuline):** Lisaks mõtleva arvuti väljaõppe või allalaaditud teadmiste esindamisele on EDU kõige parem kasutada teadmistepagasiga varustuse puhul. Tavaliselt lisab selline ese su tegelase Uurimistöö oskusele boonuse või muudab oskusveeretused lihtsaks või raskeks. Esemele määratuna tähistab EDU andmeid, millele sellel on kohene juurdepääs. See näitaja laieneb dramaatiliselt koos teabe salvestamise ja veebipõhise andmebaasidele juurdepääsu tulekuga.
 
-Nagu ülalpool märgitud, ei ole oluline, et igal varustuse esemel või objektil oleksid karakteristikud, välja arvatud juhul, kui neid on vaja. Kui mängu käigus vajad väärtust, mida pole määratletud, genereeri see vastava arvu D6-te veeretamisega või määra sellele väärtus sarnaste varustuse esemete põhjal.
+Nagu eespool märgitud, ei ole oluline, et igal varustusesemel või esemel oleksid karakteristikud, kui neid just vaja pole. Kui mängu käigus vajad väärtust, mida pole määratletud, tekita see sobiva arvu täringute (D6) veeretamisega või määra väärtus sarnaste varustusesemete põhjal.
 
-Võid väärtuse määrata isegi staatuse kontrolliga:
+Väärtuse võid määrata ka staatuse veeretamisega:
 
-| Staatuse kontrolli tulemus | Väärtus |
-| :--- | :--- |
-| Fumble | 1 |
-| Ebaõnnestumine | 1D6 |
+| Staatuse veeretamise tulemus | Väärtus |
+| :---- | :---- |
+| Eksimus (Fumble) | 1 |
+| Läbikukkumine | 1D6 |
 | Edu | 2D6 |
-| Eriala edu | 2D6+6 |
+| Erialaedu | 2D6+6 |
 | Kriitiline edu | 2D6+12 |
 
 ### Oskustega varustus
 
-Mõnel varustusel võivad olla oskused, mida käsitletakse täpselt nagu tegelase oskusi. Igal varustuse esemel, mis on võimeline iseseisvaks tegevuseks, võib olla oskus. Mõned näited võivad olla automatiseeritud kaitsesüsteemid suurtükiväe oskusega; haridusprogrammid, mis kasutavad Õpetamist; diagnostikasüsteemid, mis kasutavad Remonti jne. Üldiselt, mida intelligentsem varustuse ese on, seda tõenäolisemalt on sellel üks või mitu oskust.
+Mõnel varustusel võib olla oskusi, mida käsitletakse täpselt nagu tegelase oskusi. Igal varustusesemel, mis on võimeline iseseisvaks tegevuseks, võib olla oskus. Mõned näited võivad olla automatiseeritud kaitsesüsteemid, millel on Suurtükiväe oskus; Õpetamise oskust kasutavad haridusprogrammid; Remondi oskust kasutavad diagnostikasüsteemid jne. Üldiselt, mida intelligentsem on varustusesese, seda tõenäolisemalt on sellel üks või mitu oskust.
 
-Mängujuht peaks määrama nende oskuste väärtused, lähtudes varustuse eseme olemusest. Kui sellel on oskusega seotud karakteristik (näiteks INT ja teadmiste oskused), võib selle oskuse tase olla selle karakteristiku kordaja (×1, ×3, ×5 jne), sõltuvalt sellest, kui tõhus see on. **Muu varustus** pakub näiteid oskustega varustusest. Kui ese oskab rääkida või lugeda, peaks sellel olema keeleoskus – tavaliselt omaniku või looja emakeel.
+Sinu mängujuht peaks määrama nende oskuste väärtused, lähtudes varustuseseme olemusest. Kui sellel on oskusega seotud karakteristik (näiteks INT ja Teadmiste oskused), võib selle oskuse tase olla selle karakteristiku kordaja (×1, ×3, ×5 jne), sõltuvalt sellest, kui tõhus see on. **Muu varustus** pakub näiteid oskustega varustuse kohta. Kui ese suudab rääkida või lugeda, peaks sellel olema Keeleoskus – tavaliselt omaniku või looja emakeel.
 
-Oskusi omava esemega mängu alustamiseks „maksa“ eseme oskuspunktid oma tegelase isiklikust oskuspunktide reservist (tegelase loomise **seitsmendast sammust**) või professionaalsest reservist, kui ese on oluline nende elukutse sooritamisel.
+Oskustega esemega mängimise alustamiseks „maksa“ eseme oskuspunktid oma tegelase isiklikust oskuspunktide kogumist (tegelase loomise **seitsmendast sammust**) või professionaalsest kogumist, kui ese on nende elukutse sooritamise seisukohast oluline.
 
-Alternatiivina võid kohelda eset nii, nagu sellel oleksid supervõimed (vaata 4. peatükk: Võimed) ja osta ese nii, nagu see oleks võime. Sel juhul kehtivad järgmised tingimused:
+Teise võimalusena võid eset käsitleda nii, nagu sellel oleksid supervõimed (vt neljas peatükk: Võimed) ja osta ese nii, nagu see oleks võime. Sel juhul kehtivad järgmised tingimused:
 
-* Esemel on tegelase puudus „Supervõimetega identiteet tuleb aktiveerida silmnähtaval ja välditaval viisil“, mis on seotud esemega, tavaliselt +1 võimete eelarve boonus.
-* Muud võimete puudused võivad kehtida, näiteks „Võimel on piiratud arv kasutusvõimalusi päevas“ või „Võime ei saa läbi kogemuse paraneda“.
-* Oskused ostetakse superoskuse võimega. Eeldusel, et kõigil esemetel on 0% algne oskuse tase.
-* Kui eseme jaoks ilmseid atribuute ei eksisteeri, tee koostööd mängujuhiga, et määrata selle toiteallikas, ulatus jne. Täiendavaid supervõimeid saab osta nende atribuutide parandamiseks.
+* Esemele on seotud tegelase ebaõnnestumine „Supervõimetega identiteet tuleb sisse lülitada ilmselgel ja välditaval viisil“, tavaliselt +1 võime-eelarve boonusega.
+* Rakenduda võivad muud võime-ebaõnnestumised, nagu „Võimel on piiratud arv kasutusviise päevas“ või „Võime ei saa läbi kogemuse paraneda“.
+* Oskused ostetakse Superoskuse võimega. Eeldusel, et kõigi esemete algne oskustase on 0%.
+* Kui esemel puuduvad ilmselged atribuudid, tee mängujuhiga koostööd, et määrata selle toiteallikas, ulatus jne. Nende atribuutide parandamiseks saab osta täiendavaid supervõimeid.
 
-Kui investeerid punkte esemesse, tahad, et see oleks kättesaadav. Mängujuht peaks tegema kõik võimaliku, et veenduda, et sinu ese säilib koos sinu tegelasega, on kergesti parandatav või asendaja on kergesti leitav, vastavalt selle väärtusele ja mängumaailmale. Hoolimata asjaolust, et tegemist on eraldiseisva esemega, peetakse seda sinu tegelase osaks, täpselt nagu teise tegelase oskus või võime, ja selle sinu tegelase valdusest eemaldamine peaks toimuma äärmise ettevaatusega, välja arvatud juhul, kui see on vältimatu.
+Kui investeerid punkte esemesse, tahad, et see oleks sul käepärast. Sinu mängujuht peaks tegema kõik endast oleneva, et su ese tegelasega koos ellu jääks, oleks hõlpsasti parandatav või et sellele leiaks kergesti asenduse, vastavalt selle väärtusele ja mängukeskkonnale. Vaatamata asjaolule, et see on eraldiseisev ese, peetakse seda su tegelase osaks, täpselt nagu teise tegelase oskus või võime, ja selle eemaldamist su tegelase valdusest tuleks teha äärmise ettevaatusega, välja arvatud juhul, kui see on vältimatu.
 
-Oskustega esemed ei suurenda oma oskuse taset läbi edukate kogemuste kasutamise, välja arvatud juhul, kui esemel on INT ja mängujuht otsustab, et see on võimeline mingil moel õppima.
+Oskustega esemete oskustase ei tõuse läbi eduka kogemuse kasutamise, välja arvatud juhul, kui esemel on INT ja mängujuht otsustab, et see on võimeline mingil moel õppima.### Varustus, millel on võimed
 
-### Varustus võimetega
+Varustusesemel võib olla tavapärastest võimetest suuremaid omadusi ja mängujuhi loal võib tegelane osta eseme või varustuse osa, millel on neljandas peatükis (Võimed) kirjeldatud võime. Lisaks võib mängujuht otsustada esitada varustuseseme võime terminites, et hõlbustada selle tõhususe määramist võimetega tegelase vastu ja vastupidi. Tavaliselt on see vajalik ainult kampaaniates, kus kasutatakse võimeid, kuna tavaliselt piisab eseme baasomadustest.
 
-Varustuse esemel võib olla omadusi, mis ületavad selle normaalseid võimeid, ja mängujuhi loal võib sinu tegelane osta eseme või varustuse eseme koos võimega, nagu on kirjeldatud 4. peatükis: Võimed. Lisaks võib mängujuht valida, et esindab varustuse eset võimete terminites, et hõlbustada selle tõhususe määramist võimetega tegelase vastu ja vastupidi. See on tavaliselt vajalik ainult kampaaniates, kus kasutatakse võimeid, kuna tavaliselt on eseme baasomadused piisavad.
+Alljärgnevalt on toodud juhised võimestatud varustuse jaoks, mis põhinevad neljanda peatüki (Võimed) võimesüsteemidel.
 
-Järgnevad juhised võimetega varustuse kohta, mis põhinevad 4. peatüki: Võimed võimete süsteemidel.
+**Maagilised esemed:** Ühe või enama maagilise loitsuga varustuseset nimetatakse maagiliseks esemeks. See ese tundub maagilisena igaühele, kes suudab selliseid asju tuvastada, ja võimaldab omanikul maagilist loitsu kasutada nii, nagu ta oskaks seda ise teha. Maagilisel esemel peab olema loitsu jaoks vastav oskuste tase. Enamikul maagilistest esemetest on oma võimepunktide mahtuvus, samas kui haruldasemad maagilised esemed kasutavad reservuaarina omaniku võimepunkte.
 
-**Maagilised esemed:** Ühe või mitme maagilise loitsuga varustuse eset nimetatakse maagiliseks esemeks. See ese tundub maagilisena igaühele, kes suudab selliseid asju tuvastada, ja võimaldab omanikul loitsida maagilist loitsu, nagu nad suudaksid seda ise teha. Maagilisel esemel peab olema oskuse tase loitsuga. Enamikul maagilistel esemetel on oma võimepunktide mahutavus, samas kui haruldasemad maagilised esemed kasutavad omaniku võimepunkte reservuaarina.
+* Maagiline ese on kasutu, kui see jõuab 0 võimepunktini, kuigi seda saab laadida. Maagilise eseme laadimiseks võib kasutaja igas võitlusvoorus liigutada 1 võimepunkti oma kehast maagilisse esemesse.
+* Maagiline ese mahutab kuni kahekordse oma maksimaalsete võimepunktide hulga. Need lisavõimepunktid hajuvad samamoodi nagu mängija tegelasel.
+* Kõik loitsud, mida ese heidab, järgivad kõiki konkreetse loitsuga seotud reegleid.
+* Maagilise eseme loomisel peaks mängujuht määrama, kas seda saab kasutada ainult looja, kas see tuleb võita võimepunktide vs võimepunktide vastupanuviskes või kas seda saab kasutada igaüks.
+* Eseme tabamispunktid (põhinevad SUU-l) ja omadused on vastaval mittemaagilisel versioonil.
+* Eseme tabamispunktid piiravad võimepunktide arvu, mida see saab salvestada. Kahjustuste saamisel väheneb maksimaalne salvestatav võimepunktide hulk. Eset saab normaalselt parandada, kuigi kui see on katki või hävitatud, ei ole see enam maagiline ja jääb tavaliseks esemeks.
+* Kui maagiline ese hävib, lähevad sellele kulutatud VÄG-punktid kaotsi.
+* Maagilisse esemesse võib olla seotud üks või mitu püsivat maagilist loitsu, mis on alati aktiivsed, kuid sellise eseme loomine maksab viis korda rohkem kui tavaline VÄG-kulu. Mängujuht peaks määrama, kas maagilist loitsu saab esemele püsivalt heita. Kui see ese on loodud, ei vaja see võimepunkte ja on lihtsalt täisvõimsusel alati aktiivne.
 
-* Maagiline ese on kasutu, kui see saavutab 0 võimepunkti, kuigi seda saab laadida. Maagilise eseme laadimiseks võib kasutaja liigutada 1 võimepunkti oma kehast maagilisse esemesse igas võitlusvoorus.
-* Maagiline ese võib hoida kuni kahekordset maksimaalset võimepunktide hulka. Need lisavõimepunktid kaovad nagu mängijategelase puhul.
-* Kõik loitsud, mida ese loitsib, järgivad kõiki konkreetse loitsu kohta käivaid reegleid.
-* Kui maagiline ese on loodud, peaks mängujuht määrama, kas ainult looja saab seda kasutada, kas see peab olema võidetud võimepunkt vs. võimepunkt vastupanu kontrollis, või kas igaüks saab seda kasutada.
-* Esel on vastava mittemaagilise versiooni tavalised tabamuspunktid (SIZ-i põhjal) ja atribuudid.
-* Eseme tabamuspunktid piiravad võimepunkte, mida see saab salvestada. Kui see võtab kahju, väheneb maksimaalne võimepunktide hulk, mida see saab salvestada. Ese on tavapäraselt parandatav, kuigi kui see on purunenud või hävitatud, ei ole see enam maagiline ja jääb tavaliseks esemeks.
-* Kui maagiline ese hävitatakse, kaovad kõik sellele kulutatud POW-punktid.
-* Maagilisel esemel võib olla üks või mitu püsivat maagilist loitsu, mis on sellesse seotud ja alati aktiivsed, kuid sellise eseme loomine maksab viis korda rohkem tavalist POW-i kulu. Mängujuht peaks määrama, kas maagilist loitsu saab esemele püsivalt loitsida. Kui see ese on loodud, ei vaja see võimepunkte ja on lihtsalt alati täisvõimsusel aktiivne.
-
-**Mutanteerunud esemed:** Mutatsioonidega esemed on üsna haruldased, kuna mutatsioonid on traditsiooniliselt põhjustatud geneetilisest variatsioonist ja väheseid elutuid esemeid luuakse geneetilise manipulatsiooni teel.
+**Muteerunud esemed:** Mutatsioonidega esemed on üsna haruldased, kuna mutatsioonid on traditsiooniliselt põhjustatud geneetilistest erinevustest ja väheseid eluta esemeid luuakse geneetilise manipulatsiooni teel.
 
 * Esemel võib olla üks või mitu negatiivset mutatsiooni.
-* Esel on tavalise versiooni tavalised tabamuspunktid (SIZ-i põhjal) ja muud atribuudid, välja arvatud juhul, kui mutatsioon mõjutab neid karakteristikuid.
-* Kõik karakteristikute kontrollid, mida ese peab tegema, põhinevad looja karakteristikutel, kui sellel pole oma karakteristikuid.
-* Mutanteerunud eset peetakse elavaks ja see paraneb sama kiirusega kui selle looja.
-* Mutanteerunud eset saab kasutada igaüks, kes teeb eduka Vastupidavuse kontrolli.
-* Kõik mutanteerunud esemesse investeeritud CON ja mutatsioonid kaovad, kui see hävitatakse.
+* Esemel on tavapärased tabamispunktid (põhinevad SUU-l) ja muud tavalise versiooni omadused, välja arvatud juhul, kui mutatsioon neid omadusi mõjutab.
+* Kõik omaduste visked, mida ese peab tegema, põhinevad looja omadustel, kui esemel endal vastav omadus puudub.
+* Muteerunud eset peetakse elusaks ja see paraneb sama kiirusega kui selle looja.
+* Muteerunud eset võib kasutada igaüks, kes teeb eduka Vastupidavuse viske.
+* Kõik muteerunud esemesse investeeritud VAS ja mutatsioonid lähevad eseme hävimisel kaotsi.
 
-**Varustus psüühiliste võimetega:** Psüühiliste võimetega esemed on uskumatult haruldased, isegi rohkem kui mutatsioonidega esemed. Need esemed on vältimatult laetud psüühilise energiaga ja neil peaks olema vähemalt POW. Iga psüühilise võimega tegelane tunneb automaatselt ära, et esemel on psüühilised võimed, ja Ideea kontrolliga saab seda kasutada. Tegelane ilma psüühiliste võimeteta saab ainult kindlaks teha, kas esemel on psüühilised omadused eduka Ideea kontrolliga, ja peab eseme võitma kas võimepunkt vs. võimepunkt vastupanu kontrollis või Raske Õnne kontrollis. Eseme looja (või sinu mängujuht) otsustab, kes saab eset kasutada.
+**Psiooniliste võimetega varustus:** Psiooniliste võimetega esemed on uskumatult haruldased, isegi haruldasemad kui mutatsioonidega esemed. Need esemed on vältimatult laetud psioonilise jõuga ja neil peaks olema vähemalt VÄG. Psiooniliste võimetega tegelane tunneb automaatselt ära, et esemel on psioonilised võimed, ja suudab seda Ideeviske abil kasutada. Tegelane, kellel psioonilisi võimeid ei ole, saab eseme psioonilisi omadusi tuvastada vaid eduka Ideeviske korral ning peab eseme võitma kas võimepunktide vs võimepunktide vastupanuviskes või Raske Õnne viskega. Eseme looja (või mängujuht) otsustab, kes võib eset kasutada.
 
-* Esel on vastava eseme tavaversiooni tabamuspunktid (SIZ-i põhjal) ja muud atribuudid.
-* Psüühilised esemed ei ole elusad ja neid saab kahjustada. Need ei parane loomulikult, kuid neid saab parandada asjakohase käsitöö või remondi oskuse kontrolliga. Kui need on hävitatud, lakkavad nad toimimast. Kui psüühiline ese purustatakse rohkem kui üheks tükiks, otsustab mängujuht, milline tükk (kui üldse) säilitab psüühilise võime.
+* Esemel on vastava tavalise eseme tabamispunktid (põhinevad SUU-l) ja muud omadused.
+* Psioonilised esemed ei ole elusad ja neid saab kahjustada. Nad ei parane loomulikult, kuid neid saab parandada sobiva Meisterdamise või Parandamise oskuse viskega. Hävitatuna lakkavad nad toimimast. Kui psiooniline ese puruneb mitmeks tükiks, otsustab mängujuht, milline tükk (kui üldse mõni) säilitab psioonilise võime.
 
-**Varustus nõidusega:** Ühe või mitme nõiduseloitsuga varustuse eset nimetatakse **artefaktiks**. See artefakt tundub nõiduslike omadustega igaühele, kes suudab selliseid asju tuvastada, ja võimaldab sinu tegelasel loitsida nõiduseloitsu, nagu nad suudaksid seda ise teha, või on ese ise püsivalt nõiduseloitsuga loitsitud. Enamikul artefaktidel on oma võimepunktide reservuaar, samas kui haruldasemad artefaktid ammutavad kasutaja enda võimepunkte.
+**Nõidusega varustus:** Ühe või enama nõidusloitsuga varustuseset nimetatakse **artefaktiks**. See artefakt näib nõiduslike omadustega igaühele, kes suudab selliseid asju tuvastada, ja võimaldab tegelasel nõidusloitsu heita nii, nagu ta oskaks seda ise teha, või on nõidusloits heidetud püsivalt esemele endale. Enamikul artefaktidel on oma võimepunktide reservuaar, samas kui haruldasemad artefaktid kasutavad kasutaja enda võimepunkte.
 
-* Artefakti looja peab ohverdama 1 punkti püsivat POW-i iga artefakti investeeritud nõiduseloitsu kohta ja peab teadma või omama ligipääsu loitsule (või loitsudele), mida artefakt võib kasutada.
-* Artefaktil on võimepunktide reservuaar, mis on võrdne selle looja tavaliste võimepunktidega pärast selle loomist või selle SIZ-iga, kumb on suurem. Mängujuht peaks määrama POW ja võimepunktide väärtuse, kui artefakti looja pole teada või on mitte-mängija tegelane.
-* Artefakt muutub kas „teadvusetuks“, kui võimepunkte on 0, või on inertne. Artefakti laadimiseks võib kasutaja liigutada 1 võimepunkti oma kehast artefakti igas võitlusvoorus.
-* Artefakt võib sisaldada rohkem kui oma tavalist võimepunktide mahutavust, vastavalt tegelasele, kuni kahekordse maksimaalse võimepunktide hulgani. Need lisavõimepunktid kaovad nagu tegelase puhul.
-* Kõik artefaktist loitsitud nõiduseloitsud järgivad kõiki tavalisi konkreetse loitsu kohta käivaid reegleid.
-* Kui artefakt on loodud, peaks mängujuht määrama, kas see on isiklik (ainult selle looja saab seda kasutada), kas see peab olema võidetud võimepunkt vs. võimepunkt vastupanu kontrollis, kui sellel on võimepunkte, või kas igaüks saab seda kasutada.
-* Artefaktil on vastava mittenõidusliku eseme tabamuspunktid (SIZ-i põhjal) ja atribuudid.
-* Artefakti tabamuspunktid piiravad võimepunkte, mida saab sellesse salvestada. Kui see võtab kahju, väheneb maksimaalne võimepunktide hulk, mida see salvestab. Artefakti saab parandada nagu tavalist eset, kuigi kui see on purunenud või hävitatud, ei saa seda kunagi artefakti staatusesse taastada ja see jääb mittenõiduslikuks esemeks.
-* Kui artefakt hävitatakse, kaovad kõik sellesse investeeritud POW-punktid.
+* Artefakti looja peab ohverdama 1 punkti püsivat VÄG-i iga artefakti investeeritud nõidusloitsu kohta ning peab loitsu(sid), mida artefakt kasutada võib, teadma või neile ligi pääsema.
+* Artefaktil on võimepunktide reservuaar, mis on võrdne selle looja normaalsete võimepunktidega pärast loomist, või selle SUU, olenevalt sellest, kumb on suurem. Mängujuht peaks määrama VÄG-i ja võimepunktide mahutavuse, kui artefakti looja on teadmata või on mitte-mängijategelane.
+* Artefakt kas muutub 0 võimepunkti juures "teadvusetuks" või jääb inertseks. Artefakti laadimiseks võib kasutaja igas võitlusvoorus liigutada 1 võimepunkti oma kehast artefakti.
+* Artefakt võib sisaldada rohkem kui oma tavapärast võimepunktide mahtuvust, sarnaselt tegelasele, kuni kahekordse maksimaalse võimepunktide arvuni. Need lisavõimepunktid hajuvad samamoodi nagu tegelasel.
+* Kõik artefaktist heidetud nõidusloitsud järgivad kõiki tavapäraseid konkreetse loitsuga seotud reegleid.
+* Artefakti loomisel peaks mängujuht määrama, kas see on isiklik (ainult looja saab seda kasutada), kas see tuleb võita võimepunktide vs võimepunktide vastupanuviskes, kui sellel on võimepunkte, või kas seda saab kasutada igaüks.
+* Artefaktil on vastava mittemagilise versiooni tabamispunktid (põhinevad SUU-l) ja omadused.
+* Artefakti tabamispunktid piiravad sellesse salvestatavate võimepunktide arvu. Kahjustuste saamisel väheneb maksimaalne salvestatav võimepunktide hulk. Artefakti saab parandada nagu tavalist eset, kuigi kui see on katki või hävitatud, ei saa seda enam kunagi artefakti staatusesse taastada ja see jääb mittenõiduslikuks esemeks.
+* Kui artefakt hävib, lähevad sellesse investeeritud VÄG-punktid kaotsi.
 
-Mõnedel artefaktidel on püsivad nõiduseloitsud, mis on nendesse seotud ja alati aktiivsed. Nende esemete loomise POW kulu on kahekordistatud.
+Mõnel artefaktil on püsivad nõidusloitsud, mis on alati aktiivsed. Nende esemete loomise VÄG-kulu on kahekordne.
 
-**Varustus supervõimetega:** Supervõimetega varustuse eset nimetatakse vidinaks. Vidinad on kõige paindlikumad igat tüüpi võimetega esemete seas ja võivad välja näha ükskõik millised; tavalistest või toorestest kuni tohutult arenenuteni. Vidina välimus on täielikult kosmeetiline ja sellel pole midagi pistmist selle funktsiooniga: see võib helendada, särada, eraldada kummalisi energiajälgi, olla nikerdatud iidsete ruunidega jne. Vidin ei tundu ebatavaliselt võimas, välja arvatud juhul, kui looja seda soovib. Mängujuht peaks määrama vidina võimete taseme, kasutades 4. peatükis: Võimed esitatud kampaania võimete taseme juhiseid. Mängujuht peaks määrama vidinale supervõimete tasemed vastavalt soovile, et see sobiks mängumaailma ja eseme nõuetega.
+**Supervõimetega varustus:** Supervõimetega varustuseset nimetatakse vidinaks. Vidinad on kõige paindlikumad võimestatud esemed ja võivad välja näha millised tahes: argistest ja toorestest kuni ülimalt arenenuteni. Vidina välimus on täielikult kosmeetiline ja sellel pole funktsiooniga midagi pistmist: see võib hõõguda, särada, kiirata kummalisi energiaradasid, olla kaunistatud iidsete ruunidega jne. Vidin ei tundu ebatavaliselt võimsana, välja arvatud juhul, kui looja seda soovib. Mängujuht peaks määrama vidina võimetaseme, kasutades neljandas peatükis (Võimed) toodud kampaania võimetaseme juhiseid. Mängujuht peaks määrama supervõimete tasemed igale vidinale vastavalt soovile, et see sobiks mängumaailma ja eseme nõuetega.
 
 Vidinatele kehtivad järgmised reeglid:
 
-* Vidina tabamuspunktid, SIZ jne põhinevad tavalisel sama suuruse ja massiga esemel. Kui ilmselget ekvivalenti pole, kasuta **Objekti SIZ näidete** tabelit ja **Soomusrüü** tabelit juhistena. Selle suuruse muutmiseks kasuta Suuruse muutmise võimet.
-* Kui vidin vajab karakteristikut (näiteks POW võimepunktide jaoks), tuleks see ehitada Superkarakteristiku võimega.
-* Vidin, mis vajab toiteallikat, mis on suurem kui selle POW, peaks kasutama Ekstra Energia võimet.
-* Vidina vastupidavamaks muutmiseks kui tavaline ese, anna sellele supervõimeid nagu Absorbtsioon, Soomusrüü, Ekstra tabamuspunktid, Jõuväli jne.
-* Alati, kui see on asjakohane, peaks vidin toetuma oma karakteristikutele. Kui võime nõuab vastupanu kontrolli, tuleks kasutada vidina karakteristikut (kui see on olemas). Kui vidinal pole asjakohast karakteristikut, ebaõnnestub see vastupanu kontrollis automaatselt.
-* Alati, kui see on asjakohane, peaks vidin toetuma oma kasutaja asjakohasele oskusele.
-  **Näiteks,** kui vidin on püstol, tuleb seda tulistada tulirelva oskusega. Kui see on kosmilise jõuga käevõru, mis võimaldab kandjal tulistada radioaktiivseid lasusid, kasuta Projektsiooni oskust.
+* Vidina tabamispunktid, SUU jne põhinevad samaväärse suuruse ja massiga tavalisel esemel. Kui ilmset samaväärset eset pole, kasutage juhistena **Objekti SUU näidete** tabelit ja **Soomuse** tabelit. Suuruse muutmiseks kasutage Suuruse muutmise võimet.
+* Kui vidin vajab omadust (näiteks VÄG võimepunktide jaoks), tuleks see luua Superomaduse võimega.
+* Vidin, mis vajab suuremat energiaallikat kui selle VÄG, peaks omama Lisenergia võimet.
+* Vidina vastupidavamaks muutmiseks tavalisest esemest andke sellele supervõimeid nagu Absorptsioon, Soomus, Lisatabamispunktid, Jõuväli jne.
+* Alati, kui võimalik, peaks vidin toetuma oma omadustele. Kui võime nõuab vastupanuviset, tuleks kasutada vidina omadust (kui see on olemas). Kui vidinal pole vastavat omadust, ebaõnnestub vastupanuvise automaatselt.
+* Alati, kui võimalik, peaks vidin toetuma kasutaja vastavale oskusele.
+  **Näiteks**, kui vidin on püstol, tuleb seda kasutada Tulirelvade oskusega. Kui tegemist on kosmilise käevõruga, mis võimaldab kasutajal tulistada radioaktiivseid laenguid, kasutage Projektsiooni oskust.
 
-* Mängujuht peaks kontrollima kõiki supervõimetega esemeid, et veenduda, et need ei ole liiga võimsad või muul viisil tasakaalust väljas.
-* Vidina investeeritud supervõimed on püsivad, välja arvatud juhul, kui ese hävitatakse.
+* Mängujuht peaks kontrollima kõiki supervõimetega esemeid veendumaks, et need pole ülemäära võimsad või muul viisil tasakaalu rikkuvad.
+* Vidina investeeritud supervõimed on püsivad, välja arvatud juhul, kui ese hävib.
 
-**Varustus mitme võimetüübiga:** Mängujuht võib soovida luua võimetega eseme, mis ammutab mitmest võimetüübist, näiteks vidin, mis on ka artefakt, kasutades supervõimeid ja nõidust. Need peaksid olema kättesaadavad ainult mängujuhi äranägemisel. Kehtivad järgmised põhimõtted:
+**Mitme võimetüübiga varustus:** Mängujuht võib soovida luua võimestatud eseme, mis kasutab mitut võimetüüpi, näiteks vidin, mis on ka artefakt, kasutades nii supervõimeid kui ka nõidust. Need peaksid olema kättesaadavad ainult mängujuhi äranägemisel. Kehtivad järgmised põhimõtted:
 
-* Võimaluse korral kohtle eset kui loodut nii, nagu oleks see mitme võimetüübiga mängija.
-* Esemel peavad olema kõik asjakohased karakteristikud või oskused, et kasutada kõiki sellel olevaid võimeid.
-* Kõik võimed ammutavad ressursse samast reservuaarist, olgu need võimepunktid või mõni muu allikas. Eseme laadimist tuleb käsitleda vastavalt iga võimekomplekti jaoks sobival viisil.
-* Kui mingil põhjusel on esemel konkreetse toimingu sooritamiseks valida kahe väärtuse vahel, kasuta asjakohasel juhul neist kahest suuremat.
+* Võimaluse korral käsitle eset nii, nagu oleks see loodud mängijategelasena, kellel on mitu võimetüüpi.
+* Esemel peavad olema kõik vajalikud omadused või oskused, et kasutada mis tahes võimeid, mis sellel on.
+* Kõik võimed kasutavad samu ressursse, olgu nendeks võimepunktid või muu allikas. Eseme laadimine peab toimuma iga võimekomplekti jaoks sobival viisil.
+* Kui esemel on mingil põhjusel kaks väärtust, mille vahel valida konkreetse tegevuse sooritamiseks, kasutage sobival juhul neist kahest suuremat väärtust.
 
-### Varustuse nõuded
+### Nõuetega varustus
 
-Mõnel varustuse tüübil võivad olla nõuded, mida sinu tegelane peab kasutamiseks täitma või ületama. Näiteks relvastus, kus enamikul relvadel on minimaalne STR-i ja DEX-i nõue. Muud varustuse tüübid on piiratud muul viisil, näiteks soomusrüü kandmisest tulenev suur väsimuspunktide nõudlus ja sellega seotud oskuste karistused. Ühelgi selle peatüki põhivarustusel pole mingeid nõudeid, kuigi mängujuht saab hõlpsasti kehtestada piirangu eseme kasutamisele kahel ilmselgel viisil:
+Mõnel varustuse tüübil võivad olla nõuded, mida tegelane peab täitma või ületama, et eset kasutada. Näiteks relvad, mille puhul enamikul on minimaalne JÕU ja OSA nõue. Muud tüüpi varustus on piiratud muul viisil, näiteks soomuse kandmisest tulenev suur väsimuspunktide kulu ja sellega seotud oskuste karistused. Ühelgi selles peatükis kirjeldatud põhivarustusel ei ole nõudeid, kuigi mängujuht saab hõlpsasti kehtestada eseme kasutamise piirangu kahel ilmneval viisil:
 
-* **Karakteristikud:** Nagu relvade puhul, võib varustuse eset piirata sinu karakteristik. Tavaliselt on see STR või DEX, nagu relvade puhul, või SIZ soomusrüü puhul, kuid see võib hõlpsasti olla POW maagilise eseme puhul, INT arvuti puhul või mõni muu karakteristikul põhinev miinimum (või maksimum).
+* **Omadused:** Nagu relvade puhul, võib varustuseseme kasutamist piirata teie omadustega. Tavaliselt on see JÕU või OSA, nagu relvade puhul, või SUU soomuse puhul, kuid see võib kergesti olla ka VÄG maagilise eseme puhul, INT arvuti puhul või mõni muu omaduspõhine miinimum (või maksimum).
 
-* **Oskused:** Sinu tegelane võib avastada, et konkreetne varustuse ese on arusaamatu või kasutu, kui nende oskus pole teatud tasemel. Tavaliselt esindab oskus varustuse esemest ja selle toimimispõhimõtetest arusaamist.
+* **Oskused:** Tegelane võib avastada, et konkreetne varustusesese on arusaamatu või kasutu, kui tema oskus pole teatud tasemel. Tavaliselt tähistab oskus arusaamist varustusesemest ja põhimõtetest, mille alusel see töötab.
 
-**Näiteks,** diagnostikaarvuti võib operatsiooniks nõuda vähemalt 50% suurust oskust Tehnilises (Arvutikasutus) valdkonnas.
+**Näiteks**, diagnostikaarvuti võib kasutamiseks nõuda vähemalt 50% oskust Tehnilistes teadmistes (Arvutikasutus).
 
-Soovitatav on piiranguid kasutada säästlikult ja ainult siis, kui nende eksisteerimiseks on õigustatud põhjus. Enne eseme kasutamisele otsese piirangu määramist peaks mängujuht tegema kindlaks, kas on mingi viis piirangu jõustamiseks ja kas eseme kasutamisel, kui sinu tegelane nõudeid ei täida, on mingeid karistusi. Mõned võimalikud karistused hõlmavad täiendavaid väsimuspunkte kasutamisel, kõigi seotud oskuste kontrollide muutmist Raskeks või seotud karakteristikute kontrolli nõudmist äparduste vältimiseks.
+Soovitatav on piiranguid kasutada säästlikult ja ainult siis, kui nende olemasoluks on legitiimne põhjus. Enne eseme kasutamisele otsese piirangu kehtestamist peaks mängujuht määrama, kas piirangu jõustamiseks on mingeid vahendeid ja kas eseme kasutamisel on karistusi, kui tegelane nõudeid ei täida. Mõned võimalikud karistused hõlmavad täiendavaid väsimuspunkte kasutamisel, kõigi seotud oskuste visete muutmist Raskeks või nõuet sooritada seotud omaduse vise, et vältida äpardusi.
 
 ### Laengud või piiratud kasutusega varustus
 
-Paljud varustuse tüübid töötavad toiteakudega või neid saab kasutada vaid piiratud arv kordi. Enamikul juhtudel saab akusid üsna kergesti vahetada, laskemoona täiendada ja muid vajalikke ressursse laadida või täita. Enamikul tulirelvadel on „laengud“ laskemoona kujul, kuid hästi hooldatud mõõka või soomusrüüd saab kasutada, kuni see puruneb. Alati, kui see on asjakohane, on varustuse eseme uuesti täitmiseks või laadimiseks vajalik ressurss kas põhimõtteliselt tasuta (näiteks elekter või päikeseenergia) või on see kaks-kolm varakuse taset madalam kui varustuse maksumus. Kui on vajalik laadimisseade, on see osa varustuse eseme tavapärasest väärtusest.
+Paljud varustuse tüübid töötavad toitepatareidega või neid saab kasutada vaid piiratud arv kordi. Enamikul juhtudel saab patareisid üsna kergesti vahetada, laskemoona täiendada ja muid vajalikke ressursse laadida või täita. Enamikul tulirelvadest on "laengud" laskemoona kujul, kuid kui mõõka või soomust hästi hooldada, saab neid kasutada kuni purunemiseni. Alati, kui see on asjakohane, on varustuse täitmiseks või laadimiseks vajalik ressurss kas sisuliselt tasuta (nagu elekter või päikeseenergia) või on see kaks-kolm rikkuse taset madalam kui eseme maksumus. Kui on vajalik laadimisseade, on see osa varustuseseme tavapärasest väärtusest.
 
-Tavaliselt on lihtsaim eeldada, et piisava aja ja planeerimise korral on sinu tegelasel kogu varustuse jaoks piisavalt laskemoona, akusid, täiteaineid, padruneid, toiteelemente jne, välja arvatud juhul, kui mängumaailm või asjaolud muudavad selle raskeks või võimatuks. Sellistel juhtudel võib mängujuht nõuda Uurimise, Staatuse või Õnne kontrolli, et asjakohast tüüpi laengut leida. Mõnes mängumaailmas (näiteks postapokalüptilises) on laskemoon, bensiin ja/või toiteelemendid äärmiselt raskesti kättesaadavad ja on tavaliselt väärtuslikumad kui varustus, milles neid kasutatakse.
+Tavaliselt on kõige lihtsam eeldada, et piisava aja ja planeerimise korral on tegelasel kogu oma varustuse jaoks piisavalt laskemoona, patareisid, täitematerjale, padruneid, toiteelemente jne, välja arvatud juhul, kui mängumaailm või olud teevad selle raskeks või võimatuks. Sellistel juhtudel võib mängujuht nõuda Uurimise, Staatuse või Õnne viset, et leida sobivat tüüpi laenguid. Mõnes mängumaailmas (näiteks post-apokalüptilises) on laskemoon, bensiin ja/või toiteelemendid äärmiselt raskesti kättesaadavad ja tavaliselt väärtuslikumad kui varustus, milles neid kasutatakse.
 
 ### Varustuse parandamine
 
-Kui ese on mängu käigus kahjustatud, peaks mängujuht määrama, kas seda saab parandada, tuginedes tervele mõistusele ja tekitatud kahju olemusele. Enamikul juhtudel võib asjakohast Remondi või Käsitöö oskuse kontrolli kasutada nagu Esmaabi oskust, taastades kahjustatud tabamuspunkte või SIZ-i punkte vastavalt selle oskuse juhistele. Keerulise varustuse puhul võib mängujuht nõuda Teadmiste kontrolli, et leida ressursse asenduskomponentide jaoks, või isegi nõuda Kerget oskuse kontrolli, mis põhineb parandataval oskusel, et leida vajalikud osad. Kui need komponendid on kallid, võib mängujuht nõuda staatuse kontrolli, et vajalikud asendused legitiimselt hankida.
+Kui eset on mängu käigus kahjustatud, peaks mängujuht määrama, kas seda saab parandada, tuginedes tervele mõistusele ja tekitatud kahjustuse olemusele. Enamikul juhtudel võib asjakohast Parandamise või Meisterdamise oskuse viset kasutada nagu Esmaabi oskust, taastades kahjustatud tabamispunkte või SUU-punkte vastavalt selle oskuse juhistele. Keerulise varustuse puhul võib mängujuht nõuda Teadmiste viset, et leida ressurssi asenduskomponentide jaoks, või isegi nõuda lihtsat oskuse viset, mis põhineb kasutataval parandamisoskusel, et leida vajalikke osi. Kui need komponendid on kallid, võib mängujuht nõuda Staatuse viset, et vajalikud asendused legaalselt hankida.
 
 ## Relvad
 
-Läbi ajaloo on tehnoloogia muutuste, materjalide kättesaadavuse ja muutuvate lahingutingimuste tagajärjel arenenud palju erinevaid relvatüüpe. See jaotis esitab selle suure mitmekesisuse esindusliku valiku. Kui mängujuht soovib luua mängumaailma jaoks täpsemaid relvanimekirju, on nendest näidetest lihtne asjakohaseid atribuute ekstrapoleerida.
+Läbi ajaloo on tehnoloogia muutuste, materjalide kättesaadavuse ja muutuvate lahinguvälja tingimuste tõttu välja arenenud palju erinevaid relvatüüpe. See sektsioon esitab esindusliku valiku sellest suurest mitmekesisusest. Kui mängujuht soovib luua mängumaailma jaoks täpsemaid relvanimekirju, on nendest näidetest lihtne tuletada vastavad omadused.
 
-Selles jaotises kirjeldatud relvad on lihtsuse huvides üldjoontes kategoriseeritud kronoloogiliste mängumaailmade järgi. Enamikul juhtudel on varasema perioodi relvad inimestele hilisematest perioodidest kättesaadavad, seega võib mängujuht lihtsalt valida, kus relvade kättesaadavus lõpeb, ja lubada sinu tegelasel ligipääsu relvadele enne seda punkti.
+Selles sektsioonis kirjeldatud relvad on kasutusmugavuse huvides jaotatud laias laastus kronoloogiliste ajastute järgi. Enamikul juhtudel on varasemate perioodide relvad hilisemate perioodide inimestele kättesaadavad, seega võib mängujuht lihtsalt valida, kus relvade kättesaadavus lõpeb, ja lubada tegelasel kasutada relvi kuni selle punktini.
 
-Igal relval on järgmised atribuudid:
+Igal relval on järgmised omadused:
 
-* **Nimi:** Relva tavapärane nimi.
+* **Nimi:** Relva tavapärane nimetus.
+
 * **Oskus:** Relva käsitsemiseks kasutatav oskus.
-* **Baas:** Relva kasutamise baastõenäosus.
-* **Kahju:** Relva tekitatud kahju. „+dm“ tähistab kahju modifikaatorit ja +½dm on pool kahju modifikaatorist (ümmargusta üles).
-* **Rünnak:** Mitu rünnakut ringis relv võimaldab?
-* **Eriala:** Millist tüüpi eriala edu relv teeb?
-* **Ulatus:** Relva põhiline ulatus. Põhiulatuses on oskus muutmata. Keskmises ulatuses (kahekordne põhiline ulatus) muutub oskuse kasutamine Raskeks ja pikas ulatuses (neli korda põhiline ulatus) muutub see 1/5-ni tavalisest oskuse tasemest (võrdne eriala edu võimalusega).
-* **Käed:** Mitu kätt relv nõuab? 1H=ühekäeline, 2H=kahekäeline.
-* **TP:** Relva tabamuspunktid.
+
+* **Baas:** Relva kasutamise baasvõimalus.
+
+* **Kahj:** Relva tekitatud kahju. "+dm" tähistab kahju modifikaatorit ja +½dm on pool kahju modifikaatorist (ümardada ülespoole).
+
+* **Rünn:** Mitu rünnakut voorus relv võimaldab?
+
+* **Eri:** Millist tüüpi erilise edu tulemuse relv annab?
+
+* **Kaug:** Relva baaskaugus. Baaskaugusel on oskus modifitseerimata. Keskmisel kaugusel (kahekordne baaskaugus) muutub oskuse kasutamine Raskeks ja pikal kaugusel (neli korda baaskaugus) muutub see 1/5-ks normaalsest oskuse tasemest (võrdne erilise edu võimalusega).
+
+* **Käed:** Mitu kätt relv nõuab? 1K=ühe käega, 2K=kahe käega.
+
+* **TP:** Relva tabamispunktid.
+
 * **Tõrje:** Kas relva saab kasutada tõrjumiseks?
-* **Rike:** Relv läheb rikki, kui see veeretatakse (vaata **Rikked**). Kui relv pole tulirelv, on rike mingi muu äpardus, mis takistab relva vahetut taaskasutamist.
-* **Laskemoon:** Mitu korda saab relva kasutada ilma uuesti laadimata või laadimata?
-* **Väärtus:** Milline on relva keskmine maksumus sobivas maailmas?
-* **STR/DEX:** Millised on minimaalsed STR ja DEX nõuded relva kasutamiseks?
-* **SIZ/ENC:** Relva SIZ ja koormuse väärtus.
-* **RF:** (Valikuline) Tulekiirus (vaata **Valangutuli**). 1/#CR tähendab, et relv on nii kohmakas, et seda saab kasutada ainult kord teatud arvu (#) võitlusvoorude järel. X/CR tähendab, et seda saab kasutada X korda võitlusvooru kohta, kui kasutatakse valangutuld.
 
-### Relvade kirjeldused
+* **Rike:** Relval tekib rike, kui veeretatakse see tulemus (vt **Rikked**). Kui tegemist pole tulirelvaga, on rike mingi muu äpardus, mis takistab relva kohest taaskasutamist.
 
-Alljärgnevalt on kõik relvad lähivõitlus- ja raketi-relvade tabelitest, organiseeritud tähestikuliselt.
+* **Moon:** Mitu korda saab relva kasutada ilma uuesti laadimata?
 
-**Arbalest:** Väga raske amb, mida on raske vinnastada ja laadida, kasutatakse sageli seadmega, mida nimetatakse cranequiniks. See teeb tabamisel tohutut kahju.
+* **Väärtus:** Milline on relva keskmine maksumus sobivas mängumaailmas?
 
-**Kirves, lahingukirves:** Ühekäeline kirves, mida kasutatakse peamiselt võitluses. Sellel võib olla üks või kaks tera.
+* **JÕU/OSA:** Millised on minimaalsed JÕU ja OSA nõuded relva kasutamiseks?
 
-**Kirves, suurkirves:** Suur, kahekäeline kirves, millel võib olla üks või kaks tera.
+* **SUU/KAND:** Relva SUU ja Kandevõime väärtus.
 
-**Kirves, käekirves:** Väike ühekäeline kirves, mida saab visata või käega kasutada. Sellel võib olla üks või kaks tera. Tööriista versioone kasutatakse puidu raiumiseks.
+* **TL:** (Valikuline) Tulistamiskiirus (vt **Valanguline tulistamine**). 1/#RV tähendab, et relv on nii kohmakas, et seda saab kasutada ainult kord iga # võitlusvooru järel. X/RV tähendab, et seda saab kasutada X korda võitlusvoorus valangulise tulistamise korral.### Relvade kirjeldused
 
-**Kirves, vibro-:** Pika varrega kirves, mille üks või kaks tera on kinnitatud varre sees olevasse generaatorisse. Terad vibreerivad erakordse kiirusega, suutes läbi lõigata enamikku aineid.
+Järgnevalt on tähestikulises järjekorras loetletud kõik lähivõitlus- ja kaugrelvad.
 
-**Kirves, puukirves:** Pika varrega kirves, mida saab kasutada ühe või kahe käega, ühe või kahe teraga. See ei ole mõeldud võitluseks, kuid mõnikord kasutatakse seda nii.
+**Arbalett:** Väga raske amb, mida on raske vinnastada ja laadida, kasutatakse sageli koos seadmega, mida nimetatakse kranekiiniks. Tabades tekitab see tohutut kahju.
 
-**Blackjack:** Väike õmmeldud nahkkott, mis on täidetud millegi raskega, nagu tinahaavlid, mida kasutatakse kellegi uimastamiseks selja tagant rünnates.
+**Kirves, lahingu:** Ühe käega kirves, mida kasutatakse peamiselt võitluses. Võib olla ühe või kahe teraga.
 
-**Puhkpüss:** Kuni meetri pikkune õõnes sirge toru, mida kasutatakse väikeste noolte heitmiseks toru ühte otsa puhudes. Need nooled teevad vähe kahju, kuid on sageli mürgitatud.
+**Kirves, suur:** Suur kahe käega kirves, mis võib olla ühe- või kaheteraline.
 
-**Bola:** Kaks või kolm kõva palli, mis on kinnitatud nööri või keti pikkusega. Seda relva visatakse vaenlase takerdumiseks ja allatoomiseks, kusjuures kahju on teisejärguline mure.
+**Kirves, käsi-:** Väike ühe käega kirves, mida saab visata või käes hoida. Võib olla ühe või kahe teraga. Tööriistaversioone kasutatakse puidu raiumiseks.
 
-**Bumerang:** Lame, nurgeline kepp, mis on valmistatud viskamiseks kumerat teed mööda. Seda kasutasid traditsiooniliselt aborigeenidest jahimehed väikeste loomade uimastamiseks või tapmiseks.
+**Kirves, vibro-:** Pika varrega kirves, mille ühe või kahe tera juurde on varre sisse paigaldatud generaator. Terad vibreerivad erakordse kiirusega, suutes läbi lõigata enamikku aineid.
 
-**Vibu, komposiitvibu:** Vibu, mis on valmistatud materjalidest, mis muudavad selle nii jäigaks kui ka paindlikuks. Ajaloolised versioonid on valmistatud puidust ja sarvest, tänapäevased sordid on valmistatud grafiidist ja ülikergetest metallidest.
+**Kirves, puidu:** Pika varrega kirves, mida saab kasutada ühe või kahe käega ja millel on üks või kaks tera. See pole mõeldud võitluseks, kuid mõnikord kasutatakse seda siiski nii.
 
-**Vibu, pikkvibu:** Vibu, mis on valmistatud kas ühest puidutükist (nagu kuulus inglise pikkvibu) või samal moel nagu komposiitvibu.
+**Blackjack:** Väike nahast kotike, mis on täidetud millegi raskega, näiteks haavlitega; kasutatakse kellegi uimastamiseks selja tagant rünnates. Tuntud ka kui kumminui või nuiavariant.
 
-**Vibu, lihtvibu:** Põhiline vibu, mis on valmistatud ühest või kahest puidutükist, mis on vormitud ja töödeldud purunemise vältimiseks.
+**Puhkpüss:** Kuni meetri pikkune õõnes sirge toru, mida kasutatakse väikeste noolte väljapuhumiseks toru ühest otsast. Need nooled tekitavad vähe kahju, kuid on sageli mürgitatud.
 
-**Nukiraud:** Rusikale kantavad metallist raskused, mis lisavad löökidele raskust ja kõva serva.
+**Boola:** Kaks või kolm kõva kuuli, mis on ühendatud nööri või ketiga. See relv visatakse vaenlase takerdamiseks ja pikali kukutamiseks, kusjuures kahju tekitamine on teisejärguline.
 
-**Cestus:** Metallist poksikindad, mille kinda sisse on paigutatud raskus suurema löögi jaoks. Nukiraua iidne eelkäija.
+**Bumerang:** Lame, nurga all olev kepp, mis on mõeldud viskamiseks kõverjoonelist trajektoori mööda. Traditsiooniliselt kasutasid aborigeenidest kütid seda väikeloomade uimastamiseks või tapmiseks.
 
-**Mootorsaag:** Puidutööriist, mis koosneb teritatud ketist, mis liigub suurel kiirusel ümber lame metallist tera.
+**Vibu, komposiit:** Vibu, mis on valmistatud materjalidest, mis teevad selle samaaegselt nii jäigaks kui ka paindlikuks. Ajaloolised versioonid on tehtud puidust ja sarvest, tänapäevased variandid grafiidist ja ülikergetest metallidest.
 
-**Küünis:** Loomaküüniste kujuline terarelv, mida hoitakse tavaliselt käes, terad ulatuvad läbi sõrmede, või kantakse käe tagaküljel.
+**Vibu, pikk:** Vibu, mis on valmistatud kas ühest puidutükist (nagu kuulus inglise pikkvibu) või samal viisil kui komposiitvibu.
 
-**Nui, raske nui:** Pikk raske puu- või metallitükk. Kirjeldab ka sõratala.
+**Vibu, lihtne:** Tavaline vibu, mis on valmistatud ühest või kahest puidutükist, mis on vormitud ja töödeldud purunemise vältimiseks.
 
-**Nui, kerge nui:** Raske nui kergem versioon. See võib olla pesapallikurikas, rehviraud, lamp, toolijalg või kumminui.
+**Kastetid:** Rusikale pandavad metallist raskused, mis lisavad löökidele kaalu ja kõva serva.
 
-**Amb, raske amb:** See amb tuleb vinnastada hoova abil. Kergem laadida kui arbalesti, kuid vähem võimas.
+**Cestus:** Metallist poksikindad, mille sisse on paigutatud raskus suurema löögijõu saavutamiseks. Kastettide iidne eelkäija.
 
-**Amb, kerge amb:** See amb on käega vinnastatav, kasutatakse peamiselt jahipidamiseks või varjamiseks, mitte lahinguväljal.
+**Kettsaag:** Puidutööriist, mis koosneb teravdatud ketist, mida aetakse suurel kiirusel ringlema ümber lameda metallist laba.
 
-**Amb, keskmine amb:** See amb vinnastatakse ühe otsa jalaga konksutades ja stringi tagasi tõmbamiseks küünismehhanismi kasutades.
+**Küünesõrmik:** Looma küünte kujuline teradega relv, mida tavaliselt hoitakse käes nii, et terad ulatuvad sõrmede vahelt välja, või kantakse käeseljal.
 
-**Amb, korduv amb:** Kompleksne amb, millel on poltide salv, mida saab tulistada sama kiiresti kui vibu. Kui salv on tühi, võtab korduva ammu uuesti laadimine vähemalt kuus võitlusvooru.
+**Nui, raske:** Pikk raske puu- või metallitükk. See kirjeldab ka kangraudset.
 
-**Pussnuga:** Lühiteraline relv, tavaliselt alla 40 sentimeetri pikk, terav ühest või mõlemast servast.
+**Nui, kerge:** Raske nuia kergem versioon. See võib olla pesapallikurikas, rehviraud, lamp, toolijalg või kumminui.
 
-**Viskenool:** Lühikesed, raskusega otsad, mis sobivad viskamiseks, kas sulgedega või ilma. Neid kasutatakse sageli mürgi edastamiseks.
+**Ambur, raske:** See amb tuleb vinnastada hoova abil. Kergem laadida kui arbaletti, kuid vähem võimas.
 
-**Detonaator, antimaterjal:** Võib-olla kõige võimsam isiklik lõhkeaine, see võib hävitada kõik kitsas raadiuses. Neid kasutatakse koos taimerite, kodeeritud kaugdetonaatorite ja magnetiliste alustega.
+**Ambur, kerge:** See amb vinnastatakse käsitsi; kasutatakse peamiselt jahipidamiseks või hiilimiseks, mitte lahinguväljal.
 
-**Detonaator, elektromagnetiline (EM) impulss:** Plahvatamise asemel kiirgab see seade elektromagnetilise impulsi (EMP), mis on mõeldud elektriseadmete ja elektrooniliste vooluringide häirimiseks. Erinevalt tuumarelva teisese efektina tekkivast EMP-st on see mitte-tuuma elektromagnetiline impulss, mis häirib ainult elektroonilisi seadmeid.
+**Ambur, keskmine:** See amb vinnastatakse, haakides ühe otsa jalaga ja kasutades stringi tagasitõmbamiseks küünismehhanismi.
 
-**Detonaator, fusioon:** Äärmiselt võimas sub-tuumapomm, mis on võimeline tohutuks hävitusjõuks. Kaasas taimer, kodeeritud kaugdetonaator ja magnetiline alus.
+**Ambur, korduv:** Keeruline amb, millel on noolte salv, võimaldades tulistada sama kiiresti kui vibuga. Kui salv on tühi, kulub korduvamburi uuesti laadimiseks vähemalt kuus võitlusvooru.
 
-**Detonaator, plasma:** Lõhkeaine, mis on võimeline tekitama ja pihustama plasmaneadet, gaasi ja vedeliku vahelist ülikuumutatud vaheolekut. Need on varustatud taimerite, kodeeritud kaugdetonaatorite ja magnetiliste alustega.
+**Pistoda:** Lühiteraline relv, tavaliselt alla 40 sentimeetri pikk, terav ühelt või mõlemalt servalt.
 
-**Detonaator, heliline:** Seade, mis kiirgab hävitava ja põrutava helilise impulsi, mis võib purustada klaasi ja muud rabe ainet, samuti uimastada kõik elusad sihtmärgid, mis jäävad selle mõjuulatusse.
+**Viskenool:** Lühikesed raskendatud tipud, mis sobivad viskamiseks, kas sulgedega või ilma. Neid kasutatakse sageli mürgi manustamiseks.
 
-**Lõhkeaine, süütekapsel:** Väike lõhkeaine, mida kasutatakse suurema lõhkeaine käivitamiseks. Vanemad kasutasid süütelööke, uuemad aga elektrit või muud keerukamat meetodit.
+**Detonaator, antiaine:** Võib-olla kõige võimsam isiklik lõhkeaine, mis suudab hävitada kõik tihedas raadiuses. Neid kasutatakse taimerite, kodeeritud kaugdetonaatorite ja magnetiliste alustega.
 
-**Lõhkeaine, dünamiit:** Keemilise lõhkeainega immutatud pulgad, mis on mässitud paksu paberisse ja süüdatud sädemest või väiksemast plahvatusest süütekapslist. See on väga ohtlik, kuna kipub „higistama“ nitroglütseriini ja muutub ebastabiilseks, kui seda liiga kaua üksi jätta.
+**Detonaator, elektromagnetiline (EM) impulss:** Plahvatuse asemel kiirgab see seade elektromagnetilise impulsi (EMP), mis on mõeldud elektriseadmete ja elektrooniliste vooluringide häirimiseks. Erinevalt tuumarelva sekundaarsest EMP-st on see mittetuumaline elektromagnetiline impulss, mis mõjutab ainult elektroonilisi seadmeid.
 
-**Lõhkeaine, improviseeritud:** Tavaliselt torupomm, kirjeldab mitmesuguseid väikeseid omatehtud keemilisi lõhkeaineid.
+**Detonaator, fusioon:** Äärmiselt võimas subtuumaline pomm, mis on võimeline tekitama tohutut hävitusjõudu. Komplektis on taimer, kodeeritud kaugdetonaator ja magnetiline alus.
 
-**Lõhkeaine, plastiline:** Tänapäevane keemiline lõhkeaine, mis on segatud ainega nagu nafta või vaha vormitavaks, kittitaoliseks plastiliseks vormiks, mida saab vastavalt vajadusele vormida ja kujundada. Kasutatakse koos taimeriga ja sageli detoneeritakse elektrilaenguga. Nimetatakse ka plastikuks.
+**Detonaator, plasma:** Lõhkeaine, mis on võimeline tekitama ja pihustama plasma laengut – gaasi ja vedeliku vahelist ülikuumutatud olekut. Komplektis on taimerid, kodeeritud kaugdetonaatorid ja magnetilised alused.
+
+**Detonaator, heliline:** Seade, mis kiirgab hävitavat ja põrutavat helilainet, mis võib purustada klaasi ja muud rabe ainet, samuti uimastada kõik elusad sihtmärgid oma mõjupiirkonnas.
+
+**Lõhkekapsel:** Väike lõhkeaine, mida kasutatakse suurema lõhkeaine sütitamiseks. Vanemad kasutasid süütenööre, uuemad aga elektrit või keerukamaid meetodeid lõhkeaine sütitamiseks.
+
+**Dünamiit:** Keemilise lõhkeainega immutatud tahke materjal (nt saepuru), mis on mähitud paksu paberisse ja süüdatud süütenööri sädemete või väiksema lõhkekapsli abil. See on väga ohtlik, kuna kipub "higistama" nitroglütseriini ja muutub ebastabiilseks, kui seda pikalt omapäi jätta.
+
+**Lõhkeaine, improviseeritud:** Tavaliselt torupomm, kirjeldab mis tahes hulka väikeseid omatehtud keemilisi lõhkeaineid.
+
+**Lõhkeaine, plastiline:** Tänapäevane keemiline lõhkeaine, mis on segatud nafta või vahaga plastiliseks, kittitaoliseks vormiks, mida saab vajadusel voolida ja kujundada. Kasutatakse taimeriga ja sageli süüdatakse elektrilaenguga. Tuntud ka kui plastiik.
 
 **Rusikas:** Relvastamata rünnak, kasutades rusikavõitluse oskust.
 
-**Kettpiits:** Kettpiitsa pea, mis on kinnitatud lühikese keti otsa, mis on ühendatud umbes meetri pikkuse või pikema varrega.
+**Ketiotsaga nui (põllumajanduslik):** Varre külge kinnitatud keti otsas olev nuiapea, vars on umbes meetripikkune või pikem.
 
-**Kettpiits, hommikutäht:** Keskaegne relv, millel on käepide, ketipikkus ja otsas asteldega pall. Mõnel pole astlaid ja need on lihtsalt raskustega või naeltega pallid kettide otsas.
+**Ketiotsaga nui, hommikutäht:** Keskaegne relv, millel on käepide, keti pikkus ja otsas ogadega kuul. Mõnel pole ogasid, vaid need on lihtsalt raskendatud või naastudega kuulid keti otsas.
 
-**Leegiheitja:** Paak täis kergestisüttivat kemikaali, mis on ühendatud projektoriga/süüteallikaga, mis pihustab flamingvedeliku jugasid. Leegiheitjaid saab kasutada ka piirkonna või eseme immutamiseks selle tuleohtliku kemikaaliga ilma seda süütamata. Uskumatult ohtlik tänu lühikesele ulatusele, piiratud kasutusajale ja võimalusele ennast põlema panna. Leegiheitjad võivad plahvatada, kui paaki lüüakse, põhjustades kahekordset rullitud kahju kõigile viie meetri raadiuses kasutajast. Tee Õnne kontroll, et seda vältida.
+**Leegiheitja:** Kõrgelt süttiva kemikaaliga täidetud paak, mis on ühendatud projitseerija/süütajaga, mis pihustab leegitseva vedeliku jugasid. Leegiheitjaid saab kasutada ka ala või eseme leotamiseks selles süttivas kemikaalis, ilma seda põlema panemata. Uskumatult ohtlik lühikese laskekauguse, piiratud kasutusea ja enesesüütamise ohu tõttu. Leegiheitjad võivad plahvatada, kui paaki tabatakse, tekitades kahekordset rullitud kahju kõigile viie meetri raadiuses kasutajast. Kasutage õnnekontrolli, et seda vältida.
 
-**Kägistustross:** Lühike nöör, mida kasutatakse kägistamiseks, olgu see siis õhuke metallkaabel, tseremoniaalne köis või salli või vöö improviseeritud kasutamine.
+**Garaažinöör (kõristi):** Lühike nöör, mida kasutatakse kägistamiseks; see võib olla õhuke metallkaabel, tseremoniaalne köis või improviseeritud sall või vöö.
 
-**Kinnas, soomustatud kinnas:** Metallkinnas, mida kantakse soomusrüüga või ilma, lisades kahju edukatele löökidele rusikavõitluse oskusega.
+**Kindakaitse, soomustatud:** Metallist sõrmik, mida kantakse koos soomusega või ilma, lisades kahju edukatele löökidele rusikavõitluse oskusega.
 
-**Haare:** Relvastamata rünnak, kasutades haardeoskust.
+**Haare:** Relvastamata rünnak, kasutades haaramise oskust.
 
-**Granaat, antimaterjal:** Väike, kuid erakordselt võimas lõhkeseade, mis käivitatakse ja visatakse vaenlaste, esemete või struktuuride pihta. Kuigi see sisaldab lõpmata väikeseid antimaterjali koguseid, lastakse neid granaate tavaliselt laskuritest, kuna need on nii hävitavad, et väljaspool nende enda plahvatusraadiust on raske visata.
+**Granaat, antiaine:** Väike, kuid erakordselt võimas lõhkeseade, mis aktiveeritakse ja visatakse vaenlaste, esemete või ehitiste pihta. Kuigi need sisaldavad lõpmatult väikesi antiaine koguseid, lastakse neid tavaliselt laskeseadmetest, kuna need on nii hävitavad, et väljaspool nende enda plahvatusraadiust on neid raske visata.
 
-**Granaat, põrutusgranaat:** Väike lõhkeseade, mis käivitatakse ja visatakse vaenlaste pihta või suletud aladesse, kus see võib plahvatusraadiuses olevaid uimastada. Mõnikord nimetatakse uimastusgranaadiks.
+**Granaat, põrutus:** Väike lõhkeseade, mis aktiveeritakse ja visatakse vaenlaste pihta või suletud ruumidesse, kus see võib uimastada plahvatusraadiusse jäänud inimesed. Mõnikord nimetatakse seda uimastusgranaadiks.
 
-**Granaat, lagundaja:** Granaat, mis on võimeline hävitama kogu aine (või purustama molekulaarsidemed) plahvatusraadiuses. Väga ohtlikud, lagundajaid granaate kasutatakse tavaliselt ainult viimase abinõuna.
+**Granaat, lagundaja:** Granaat, mis on võimeline lagundama kogu aine (või purustama molekulaarsed sidemed) plahvatusraadiuses. Väga ohtlikud lagundajagranaadid on üldiselt viimase abinõuna kasutatavad relvad.
 
-**Granaat, elektromagnetiline (EM) impulss:** Elektromagnetilise impulsi võimekusega granaat. Metallist sihtmärgi pihta visates lisab magnetpind +20% sinu edukale tabamise võimalusele.
+**Granaat, elektromagnetiline (EM) impulss:** Elektromagnetilise impulsi võimekusega granaat. Metallsihikule visatuna lisab magnetiline pind +20% teie tabamuse õnnestumise võimalusele.
 
-**Granaat, plahvatusohtlik:** Väike lõhkeseade, mis on käivitatud ja visatud, põhjustades põrutusjõu ja šrapnelli plahvatuse.
+**Granaat, plahvatuslik:** Väike lõhkeaine, mis aktiveeritakse ja visatakse, tekitades põrutava jõuga plahvatuse ja šrapnellikillud.
 
-**Granaat, signaalrakett:** Süttivate kemikaalide pulk, mis on käivitatud ja visatud pimendatud alade valgustamiseks või õhust sihtimise jaoks märkimiseks.
+**Granaat, valgustus:** Süttiv keemiline pulk, mis aktiveeritakse ja visatakse pimedate alade valgustamiseks või õhurünnaku sihtmärkide märkimiseks.
 
-**Granaat, fusioon:** Äärmiselt võimas sub-tuumaseade, mis on võimeline tohutuks hävitusjõuks. Fusioongranaate lastakse ainult laskuritest või visatakse olukordades, kus kasutajal on piisavalt aega plahvatusulatusest väljumiseks.
+**Granaat, fusioon:** Äärmiselt võimas subtuumaline seade, mis on võimeline tekitama tohutut hävitusjõudu. Fusioonigranaate lastakse ainult laskeseadmetest või visatakse olukordades, kus kasutajal on piisavalt aega plahvatuspiirkonnast eemalduda.
 
-**Granaat, gaasigranaat:** Väike keemiline lõhkeseade, mis käivitatakse ja visatakse või veeretatakse, eraldades mürgist või muul viisil kahjulikku gaasi. Neid saab täita mitmesuguste gaasidega (sinepi-, pisar-, uimastusgaas jne).
+**Granaat, gaas:** Väike keemiline lõhkeseade, mis aktiveeritakse ja visatakse või veeretatakse, eritades mürgist või muul viisil kahjulikku gaasi. Need võivad olla täidetud mitmesuguste gaasidega (sinepigaas, pisargaas, uimastusgaas jne).
 
-**Granaat, Molotovi kokteil:** Pudelist ja süütenöörist valmistatud improviseeritud lõhkeseade, süüdatud ja visatud, tavaliselt nende või selle põlema panemiseks.
+**Granaat, Molotovi kokteil:** Pudelist ja süütenöörist koosnev improviseeritud lõhkeaine, mis süüdatakse ja visatakse, tavaliselt eesmärgiga süüdata sihtmärk.
 
-**Granaat, fosfor:** Väike keemiline lõhkeseade, mis käivitatakse ja visatakse. See eraldab kergestisüttiva keemilise tule, mis võib sulatada varustust ja panna esemed põlema, või lihtsalt valgustada pimendatud ala maapealsele personalile või õhulaevadelt sihtimiseks.
+**Granaat, fosfor:** Väike keemiline lõhkeseade, mis aktiveeritakse ja visatakse. See eritab kõrgelt süttivat keemilist tuld, mis võib sulatada varustust ja süüdata esemeid või lihtsalt valgustada pimedat ala maavägedele või õhulaevadelt sihtimiseks.
 
-**Granaat, plasma:** Plasma-tehnoloogiat kasutav granaat. Äärmiselt plahvatusohtlik ja võimeline põhjustama tohutut hävingut ja tulekahju.
+**Granaat, plasma:** Plasmatelhnoloogiat kasutav granaat. Äärmiselt plahvatusohtlik ja võimeline tekitama tohutut hävingut ja tulekahju.
 
-**Granaat, löögigranaat:** Granaat, mis vabastab elektrilaengu, varustatud magnetiliste pindadega, et kleepuda mis tahes metallpinnale, millele see visatakse. Metallist sihtmärgi pihta visates lisab magnetpind +20% sinu edukale tabamise võimalusele.
+**Granaat, šokk:** Granaat, mis vabastab elektrilaengu ja on varustatud magnetpindadega, et kleepuda mis tahes metallpinnale, millele see visatakse. Metallsihikule visatuna lisab magnetiline pind +20% teie tabamuse õnnestumise võimalusele.
 
-**Granaat, šrapnellgranaat:** Väike lõhkeseade, mis on käivitatud ja visatud vaenlaste pihta, seadistatud eraldama surmavat, liha läbistavat šrapnelli.
+**Granaat, šrapnell:** Väike lõhkeseade, mis aktiveeritakse ja visatakse vaenlaste pihta, seadistatuna eraldama surmavaid, liha läbistavaid šrapnellikilde.
 
-**Granaat, suitsugranaat:** Gaasigranaat (vaata ülal), mis eraldab kahjutut, kuid varjavat suitsu.
+**Granaat, suitsu:** Gaasigranaat (vt eespool), mis eritab kahjutut, kuid varjavat suitsu.
 
-**Granaat, heligranaat:** Helilainete tehnoloogiat kasutav granaat, mis eraldab kõrgsagedusliku helipurske sihtmärkide keelustamiseks või segamiseks.
+**Granaat, heliline:** Helilainete tehnoloogiat kasutav granaat, mis eritab kõrgsagedusliku helipurske sihtmärkide keelustamiseks või segamiseks.
 
-**Granaat, uimastusgranaat:** Kergelt põrutavat plahvatust eraldav granaat, mis on mõeldud spetsiaalselt sihtmärkide uimastamiseks või ajutiseks keelustamiseks.
+**Granaat, uimastus:** Granaat, mis eritab kergelt põrutavat plahvatust, mis on mõeldud spetsiaalselt sihtmärkide uimastamiseks või ajutiseks keelustamiseks.
 
-**Relv, kuulipilduja:** Kiiresti korduv tulirelv, millel on päästiku seaded üksiklaskude, lühikeste valangute ja täisautomaatse tule jaoks.
+**Kuulipilduja:** Kiiresti tulistav tulirelv, millel on päästikuseaded üksiklaskudeks, lühikesteks valanguteks ja täisautomaatseks tulistamiseks.
 
-**Relv, minipüss:** Gatling-tüüpi raske kuulipilduja, mida sageli monteeritakse helikopteritele või sõidukitele. STR nõue on käsitsi hoidmise korral.
+**Mini-kuulipilduja:** Gatling-tüüpi raske kuulipilduja, mida sageli paigaldatakse helikopteritele või sõidukitele. JÕU-nõue kehtib, kui seda hoitakse käes.
 
-**Relv, püstolkuulipilduja:** Väike kuulipilduja, mõeldud ühekäeliseks kasutamiseks.
+**Püstolkuulipilduja:** Väike kuulipilduja, mis on mõeldud ühe käega kasutamiseks.
 
-**Halberd:** Lai kirvepea kahemeetrisel varrel. Tavaliselt kasutatakse keskaegsete linnavalvurite poolt või ratsanike vastu.
+**Piiknuia-kirves:** Lai kirvepea kahemeetrisel varrel. Tavaliselt kasutasid keskaja linnavahid või kasutatakse ratsaväelaste vastu.
 
-**Haamer:** Tavaline majapidamistööriist, mida kasutatakse puusepatöödel või väike, ühekäeline sõjarelv löögipeaga.
+**Haamer:** Tavaline majapidamistööriist puusepatöödeks või väike ühe käega sõjarelv, millel on löögipea.
 
-**Haamer, suurhaamer:** Massiivne haamer, mida kasutatakse kahe käega.
+**Haamer, suur:** Massiivne haamer, mida kasutatakse kahe käega.
 
-**Haamer, kuvalda:** Ehitajate ja lammutusmeeskondade poolt kasutatav raske tööriist, kasutatakse kahe käega.
+**Haamer, vasar:** Raske tööriist, mida kasutavad ehitajad ja lammutusmeeskonnad, kasutatakse kahe käega.
 
-**Haamer, sõjahaamer:** Haamrina kujundatud relv, millel on sageli pigem teravik kui lame pea, ideaalne soomusrüüst läbi löömiseks.
+**Haamer, sõja:** Haamri kujuline relv, millel on sageli lameda pea asemel teravik, mis on ideaalne soomuse läbistamiseks.
 
 **Pealöök:** Relvastamata rünnak, kasutades rusikavõitluse oskust.
 
-**Odavise:** Lühike oda, mida kasutatakse ühe- või kahekäeliselt, või viskamiseks.
+**Odavise:** Lühike oda, mida kasutatakse ühe või kahe käega või viskamiseks.
 
-**Katana:** Üheteraline, kergelt kumer pikk mõõk, mida kasutatakse ühe- või kahekäeliselt, fetišeeritud oma meisterlikkuse ja teravuse poolest.
+**Katana:** Üheteraline, kergelt kumer pikk mõõk, mida kasutatakse ühe või kahe käega ning mida fetisheeritakse selle meisterlikkuse ja teravuse tõttu.
 
-**Löök:** Relvastamata rünnak, kasutades rusikavõitluse oskust.
+**Löök jalaga:** Relvastamata rünnak, kasutades rusikavõitluse oskust.
 
-**Nuga:** Tööriist, mis sobib söömiseks, lõikamiseks, kaitseks või improviseeritud mõrvaks. Nagu pussnuga, kuid kergem ja vähem vastupidav.
+**Nuga:** Tööriist, mis sobib söömiseks, lõikamiseks, kaitseks või ootamatuks atentaadiks. Sarnane pistodaga, kuid kergem ja vähem vastupidav.
 
-**Nuga, lihunikunuga:** Suur raske kööginuga, mis sobib ühe hoobiga läbi suurte lihatükkide raiumiseks.
+**Nuga, lihuniku:** Suur raske kööginuga, mis sobib suurte lihatükkide ühe hoobiga tükeldamiseks.
 
-**Nuga, taskunuga:** Väike kokkupandav nuga, sageli mitme teraga.
+**Nuga, tasku:** Väike kokkuklapitav nuga, sageli mitme teraga.
 
-**Nuga, libliknuga:** Sissetõmmatav taskunuga.
+**Nuga, vedru:** Sissetõmmatav taskunuga.
 
-**Nuga, viskenuga:** Viskamiseks tasakaalustatud nuga, tavaliselt ilma käepidemeta.
+**Nuga, viske:** Viskamiseks tasakaalustatud nuga, tavaliselt ilma käepidemeta.
 
-**Nuga, vibronuga:** Kõrgtehnoloogiline nuga, mille tera on kinnitatud mehaanilisse käepidemesse, vibreerides äärmiselt suurel kiirusel. Erakordselt terav, vibratsioon lisab täiendavat lõikejõudu isegi kergetele sisselõigetele.
+**Nuga, vibro:** Kõrgtehnoloogiline noatera, mis on paigaldatud mehaanilisse käepidemesse ja vibreerib erakordsel kiirusel. Erakordselt terav, vibratsioon lisab lõikamisjõudu ka väikestele sisselõigetele.
 
-**Oda, ratsaväe oda:** Pikk oda, mida kasutatakse ühekäeliselt hobuse seljas. Ratsutades kasutab ründaja omaenda kahju modifikaatori asemel hobuse oma. Ratsaväe oda saab kasutada ka jalgsi kahekäelise odana, koos tavalise kahju modifikaatoriga.
+**Oda, ratsaväe:** Pikk oda, mida kasutatakse hobuse seljas ühe käega. Ratsutades kasutab ründaja hobuse kahjumuutjat omaenda asemel. Ratsaväe oda saab kasutada ka jalgsi olles kahe käega odana, koos tavalise kahjumuutjaga.
 
-**Oda, uimastusoda:** Kepikujuline relv, mille ühes otsas on laetud elektriline torkerelv. Mõnel uimastusodal on torkerelvad mõlemas otsas.
+**Oda, uimastus:** Kepikujuline relv, mille ühes otsas on elektriline prod. Mõnel uimastusodal on prodid mõlemas otsas.
 
-**Lasso:** Traditsiooniline lasso, mida kasutatakse kariloomade püüdmiseks. See ei tee kahju, kuid immobiliseerib sihtmärgi, kasutades takerdumise reegleid.
+**Lasso:** Traditsiooniline kauboide lasso veiste püüdmiseks. See ei tekita kahju, kuid immobiliseerib sihtmärgi, kasutades takerdumisreegleid.
 
-**Laskur, granaadiheitja:** Käeshoitav või statsionaarne laskur, mis laseb granaate suurte vahemaade taha. See võib olla väike platvorm, käeshoitav tulirelvakujuline laskur või kinnitatud teise tulirelva külge.
+**Granaadiheitja:** Käeshoitav või statsionaarne heitja, mis tulistab granaate suurte vahemaade taha. See võib olla väike platvorm, käeshoitav tulirelva sarnane heitja või kinnitatud teise tulirelva külge.
 
-**Laskur, LAW raketiheitja:** Kerge, ühekordselt kasutatav ühekordne raketiheitja, tuntud ka kui kerge tankitõrjerelv (LAW).
+**Raketiheitja, LAW:** Kerge, ühekordselt kasutatav raketheitja, tuntud ka kui kerge tankitõrjerelva (LAW) nime all.
 
-**Laskur, raketiheitja:** Lahinguväljale monteeritud väike toru ja platvorm, mida kasutatakse rakettide täpsemaks laskmiseks.
+**Raketiheitja:** Lahinguväljal kokkupandav toru ja platvorm, mida kasutatakse rakettide täpsemaks tulistamiseks.
 
-**Nui, raske nui:** Varsi, mille otsas on raske pea, asteldega, ääristatud, naastudega või tavaline.
+**Nui, raske:** Vars, mille peas on raskus, mis võib olla ogadega, ääristatud, naastudega või sile.
 
-**Nui, kerge nui:** Raske kaaluga vars, mida kasutatakse peksmiseks ja purustamiseks.
+**Nui, kerge:** Vars, mille peas on kerge raskus, mida kasutatakse peksmiseks ja purustamiseks.
 
-**Maul, sõjamaul:** Pika varrega kahepealine haamer, mida kasutatakse kahe käega.
+**Sõjavars, raske:** Pika varrega kahe otsaga haamer, mida kasutatakse kahe käega.
 
-**Miin, jalaväemiin:** Maamiin, mis on ehitatud peamiselt vigastamiseks, mitte tapmiseks (maksimeerides vaenlasele raskusi).
+**Miin, jalaväevastane:** Maamiin, mis on ehitatud peamiselt vigastamiseks, mitte tapmiseks (maksimeerides vaenlase raskusi).
 
-**Musket:** Varajane silepuuline tulirelv, mida laeti torust ja mis oli mõnikord täidetud kas šrapnellhaavlitega või suurte kuulikujuliste kuulidega. Aeglane ja ebausaldusväärne, süüdatud tulekivi või rataslukuga.
+**Muskett:** Varajane sileraudne tulirelv, mida laaditi toru kaudu ja mõnikord täideti kas šrapnellidega või suurte kuulidega. Aeglane ja ebakindel, süüdatakse tulekivi või rataslukuga.
 
-**Miin, tankitõrjemiin:** Miin, mis on valmistatud tanki roomikute või vaenlase sõidukite kahjustamiseks.
+**Miin, tankitõrje:** Miin, mis on valmistatud tankiroobaste või vaenlase sõidukite kahjustamiseks.
 
-**Naginata:** Pikk oda mõõgakujulise peaga, mida kasutatakse lõikamis- ja torkerünnakuteks.
+**Naginata:** Pikk oda, millel on mõõga sarnane pea; kasutatakse lõikamiseks ja torkamiseks.
 
-**Võrk:** Kootud nööri lahtine võrk, mida kasutatakse loomade või suuremate sihtmärkide püüdmiseks. Kuigi väiksemaid võrke kasutatakse väikelooma jahiks, on siin kirjeldatud võrk piisavalt suur inimeste vastu kasutamiseks.
+**Võrk:** Punutud nöörist võrk, mida kasutatakse loomade või suuremate sihtmärkide püüdmiseks. Kuigi väiksemaid võrke kasutatakse väikeloomade jaoks, on siinkirjeldatud võrk piisavalt suur inimeste vastu kasutamiseks.
 
-**Oda, pikk oda:** Umbes kolme-viie meetri pikkune puutükk, millel on metall- või tulekiviteraga pea või tulega karastatud ots. Neid tuleb kasutada kahe käega. Pikkade odadega relvastatud tegelased löövad sageli võitlusvoorus esimesena.
+**Piik:** Pikk oda (3–5 meetrit), mida kasutatakse formatsioonis võitlemisel. Levinud ka linnavahtide ja lossikaitse juures. Piigid on parim kaitse (lisaks kuulirahele) ratsaväe rünnaku vastu.
 
-**Oda, lühike oda:** Umbes 1,5 meetri pikkune puutükk, millel on metall- või tulekiviteraga pea või tulega karastatud ots. Lühikesi odasid saab kasutada ühe- või kahekäeliselt või visata.
+**Püstol, blaster:** Püstol, mis tulistab lühikese energiapurske, tavaliselt plasma, põletades sihtmärki ja tekitades põrutust. Blasterpüstolid saavad tavaliselt toite eksootiliste keemiliste kütustega kassettidest.
 
-**Pihusti, keemiline pihusti:** Keemiline ärritaja, mida pihustatakse väikese pihustiga tavaliselt sihtmärgi silmadesse. Lühikese ulatusega ja mitte-surmav.
+**Püstol, Derringer:** Väike käeshoitav püstol, tavaliselt peopesa suurune. Kergesti varjatav, madala laskemoonamahuga. Mõned on ühe- või kahelasulised, teistel on väikesed salved. Mõnikord nimetatakse "peidetud" püstoliks.
 
-**Kepp, veerandkepp:** Pikk puust kepp, mida sageli kasutatakse kepina, kasulik kaitseks ja ründamiseks.
+**Püstol, lagundaja:** Püstol, mis tulistab tohutult hävitava energiapurske, mis lagundab kiiresti kogu sihtmärgi või suured osad sellest. Lagundajapüstolid saavad toite energiapatareidest või kütusekassettidest.
 
-**Kepp, lühike kepp:** Lühike, kitsas puust nui nagu politseiniku kumminui.
+**Püstol, elektromagnetiline (EM) impulss:** Püstol, mis tulistab suunatud elektromagnetilise impulsi voo sihtmärgi, näiteks arvuti või roboti pihta, keelustades selle vooluringid.
 
-**Mõõk, mõõk-kepik:** Õhukese teraga mõõk, mis on maskeeritud kepi sisse sobivaks.
+**Püstol, noolega:** Väike, kerge püstol, mis töötab magnetlaengute või gaasi jõul, tulistades sihtmärgi pihta palju väikeseid, teravaid nõelataolisi terasid. Neil on üldiselt lühike laskekaugus ja need ei ole soomustatud sihtmärkide vastu kuigi tõhusad, kuid on lühikese vahemaa tagant soomustamata vaenlastele hävitavad. Need kasutavad nii noolekassette kui ka gaasiballooni või energiapatareid. Mõnikord nimetatakse "nõelapüstoliks".
 
-**Mõõk, bastardsõjamõõk:** Sirge, ühe- või kahepoolse teraga mõõk, üle meetri pikk, pika käepidemega, mida hoitakse ühe- või kahekäeliselt.
+**Püstol, tulekivi:** Püstol, mis kasutab tulekivi ja terast käsitsi pakitud püssirohu süütamiseks. Sarnane rataslukuga püstoliga.
 
-**Mõõk, lai-mõõk:** Sirge, ühe- või kahepoolse teraga mõõk umbes meetri pikkune, mida kasutatakse ühekäeliselt. Mõnel on korvkäepidemed.
+**Püstol, raske:** Raske raamiga püstol, millel on suurepärane peatamisjõud. Aeglasem kui väiksemad, kergemad püstolid. .357 magnum on suurepärane näide.
 
-**Mõõk, energiamõõk:** Käepide, mis sisaldab kujundatud väljade emitterit, mis projitseerib mõõgapikkuse energiatera, nagu fokuseeritud valguse kiir. Energiamõõgad kasutavad toiteplokke ja nõuavad sageli kalleid või haruldasi fokuseerimiskristalle.
+**Püstol, laser:** Püstol, mis tulistab kõrge intensiivsusega valguskiire, mis suudab läbi kõrvetada enamikku aineid, isegi sulatada metalli. Tavaliselt saab toite energiapatareist, mis sisaldab piiratud arvu laenguid.
 
-**Mõõk, suur-mõõk:** Sirge, kahepoolse teraga mõõk peaaegu kaks meetrit pikk, mida kasutatakse kahe käega, sageli pikkade odade formatsioonide vastu.
+**Püstol, kerge:** Kerge raamiga püstol, mis ohverdab peatamisjõu täpsuse ja laskekiiruse nimel. .22 kaliiber on suurepärane näide.
 
-**Mõõk, pikk-mõõk:** Sirge, ühe- või kahepoolse teraga mõõk, mõnikord korvkäepidemega, mida kasutatakse ühekäeliselt. Kergem ja peenem kui laimõõk.
+**Püstol, keskmine:** Keskmise raamiga püstol, töökindel ning mõõduka tulejõu ja laskekiirusega. 9mm püstol on suurepärane näide.
 
-**Mõõk, monofilament-mõõk:** Keerukas relv, mis koosneb täpselt ühe molekuli paksusest terast, mida hoiab staatilisena käepidemes olev generaator. Kuna tera suudab aatomite vahele libiseda, on see võimeline läbi lõikama peaaegu kõike. Kuna tera on peaaegu nähtamatu, on seda äärmiselt raske kasutada ja fumbles võib olla surmav.
+**Püstol, plasma:** Püstol, mis tulistab fokuseeritud ülikuumutatud plasma voo, tavaliselt energiapatarei või plasmapatarei toitel.
 
-**Mõõk, lühike-mõõk:** Ühe- või kahepoolse teraga mõõk, tavaliselt poole meetri pikkune.
+**Püstol, šokk:** Püstol, mis eritab kõrgepingelise elektrilise purske.
 
-**Mõõk, vibromõõk:** Vibronoa pikem versioon. Käepide, mis sisaldab pikka mõõgakujulist tera, mis vibreerib suurel kiirusel, suutes läbi lõigata enamikku aineid.
+**Püstol, heliline:** Püstol, mis eritab fokuseeritud helilainete koonuse, mis kahjustab nii eluskude kui ka inertset ainet.
 
-**Taser, kontakt-taser:** Väike käeshoitav elektriseade, mis on mõeldud sihtmärgi närvitegevuse häirimiseks, uimastades neid hetkeks.
+**Püstol, uimastus:** Püstol, mis eritab inimnärvisüsteemiga samal sagedusel energiapurske; lühimaaline ja mõeldud rahustamiseks. Kasutu esemete ja inimkujulistest suuremate olendite vastu, kuigi neid saab reguleerida teiste sihtmärkide jaoks. Mõnikord nimetatakse "uimastajaks".
 
-**Taser, nooletaser:** Käeshoitav taser, mis tulistab kahte väikest traatidega varustatud noolt. Kui need sihtmärki tabavad, eraldab taser häiriva elektrilaengu, mis tavaliselt uimastab või keelustab.
+**Rapier:** Peeneteraline ühe käega mõõk, mida kasutatakse peamiselt torkamiseks. Kuigi igaüks on ainulaadne, kirjeldab see ka epeed ja floretti, kaht teist vehklemismõõka.
 
-**Tõrvik:** Paks puupulk, mille üks ots on leotatud pigiga või muu kütusega, mõnikord mässitud kaltsudesse. Süüdatud ja kasutatud valguse jaoks, tõrvikuid kasutatakse sageli improviseeritud relvadena.
+**Revolver, raske:** Suurekaliibriline raske püstol, nagu .44 magnum või Colt .45.
 
-**Kolmhark:** Kolmeharuline oda, nagu kahvel, kõverate külgmiste harudega. Kolmharkidel on tavaliselt asteldega otsad, et konksuda sihtmärgi liha sisse.
+**Revolver, kerge:** Kerge püstol, tavaliselt .22 kuni .32 kaliibri vahemikus.
 
-**Wakizashi:** Katana lühikese mõõga versioon, sageli valmistatud sobiva paarina. Mõnel on tuppedesse ehitatud väikesed noad.
+**Revolver, keskmine:** Keskmine püstol, tavaliselt .357 kuni .38 kaliiber.
 
-**Piits:** Käepidemega keritud ja kootud nahknöör ühes otsas, mida kasutatakse vastase löömiseks või jäseme püüdmiseks ja immobiliseerimiseks (vaata **Takerdumine**).
+**Püss, ründe:** Raske, vastupidav püss, millel on suur laskemoonamaht; tulistatakse nagu kuulipildujat (üksiklask, lühikesed valangud või automaattuli).
 
-**Piits, šokipiits:** Metallist piits, mis tekitab kõrgepingelise elektrivoolu, vabastades selle sihtmärgile, kui see edukalt tabab.
+**Püss, blaster:** Püss, mis tulistab lühikesi energiapurskeid, tavaliselt plasmat, mis kõrvetab ja tekitab põrutava mõju. Blasterpüssid saavad tavaliselt toite eksootiliste keemiliste kütustega kassettidest.
 
-### Relvaklassid
+**Püss, poldiga:** Liuglukuga püss. Mõned kasutavad salve, teised hoiavad kuule püssi toru pikkustes magasini-laadsetes seadmetes.
 
-3. peatüki: Oskused Heavy Weapon, Melee Weapon ja Missile Weapon oskuste kirjeldused viitavad relvade erialadele ja **relvaklassidele**. Relvaklass on ligikaudne rühm, kuhu relv kuulub, samas kui **eriala** on sinu tegelase oskus vastavasse klassi kuuluvate relvade kasutamisel. Relvad jagunevad klassidesse, kus oskused jagunevad erialadeks. Iga relvaklass on loetletud allpool, koos konkreetsete näidetega. Mõned relvad sobivad mitmesse klassi, olenevalt sellest, kuidas neid kasutatakse.
+**Püss, lagundaja:** Püss, mis kiirgab tohutult hävitava energiapurske, mis lagundab kiiresti kogu sihtmärgi või suured osad sellest. Lagundajapüssid saavad toite energiapatareidest või kütusekassettidest.
 
-* **Kirves:** Lahingukirves, suurkirves, käekirves, vibro-kirves, puukirves.
+**Püss, elevandi:** Suure kaliibriga püss, mis on mõeldud suurimate ulukite mahavõtmiseks. Mõnikord kahe rauaga, sageli laetakse neid püssi lukust, üks paks kuul korraga.
+
+**Püss, laser:** Püss, mis tulistab kõrge intensiivsusega valguskiire, mis suudab läbi kõrvetada enamikku aineid, isegi sulatada metalli. Laserpüssid saavad tavaliselt toite piiratud laengutega energiapatareidest.
+
+**Püss, hoovaga:** Püss, millel on väline hoob laskemoona tsükli vahetamiseks. Populaarne küttide seas, kuigi sõjaliseks kasutamiseks ebapraktiline.
+
+**Püss, elektromagnetiline (EM) impulss:** Elektromagnetilise impulsi püstoli püssiversioon, mis kiirgab fokuseeritud elektromagnetilise energia purske elektrit kasutava või elektroonilise sihtmärgi pihta.
+
+**Püss, plasma:** Plasmapüstoli püssiversioon, mis on võimeline tulistama fokuseeritud ülikuumutatud plasma purske sihtmärgi pihta.
+
+**Püss, šokk:** Šokipüstoli püssiversioon, mis on võimeline tulistama välgunoolesarnase purske märkimisväärse vahemaa ja võimsusega.
+
+**Püss, heliline:** Helilise püstoli püssiversioon, mis tulistab sihtmärgi pihta koonusetaolise helilise impulsi purske.
+
+**Püss, snaiper:** Pika rauaga püss, mida kasutatakse kaugelt tulistamiseks, täpsusreguleeritud ja tavaliselt varustatud kaugvaatlussihikuga.
+
+**Püss, spordi:** Väikese kuni keskmise kaliibriga (.22 või .30–06) püss, mida kasutatakse väiksemate ulukite, näiteks hirvede mahavõtmiseks.
+
+**Püss, uimastus:** Püss, mis eritab inimnärvisüsteemiga samal sagedusel lühimaalist energiapurske, mõeldud rahustamiseks. Kasutu esemete ja inimkujulistest suuremate olendite vastu, uimastuspüssi saab reguleerida teiste sihtmärkide jaoks. Mõnikord nimetatakse "uimastajaks".
+
+**Kivi, viske:** Kõige põhilisem relv, rusikasuurune kivi.
+
+**Saabel:** Üheteraline kumer mõõk, mida kasutavad kõige sagedamini ratsaväelased ja vehklemises.
+
+**Sai:** Kolmhargi kujuline pistodalaadne relv, millel on lai kumer risttala. Said on nürid ja neid kasutatakse nuiadena, torkerelvadena või mõõkade purustajatena. Neid kasutatakse sageli paarikaupa.
+
+**Šamir (Skimitar):** Üheteraline, kergelt kumer, raske teraga mõõk.
+
+**Vikat:** Pika varrega põllumajandustööriist, millel on varre suhtes risti asetsev kumer tera; kasutatakse teravilja koristamiseks, kuid mõnikord ka tseremoniaalsel eesmärgil.
+
+**Jahipüss, automaatne:** Suure laskemoonamahuga ja automaatlaadimisega jahipüss, tavaliselt lahinguväljal või politseioperatsioonidel.
+
+**Jahipüss, kahe rauaga:** Püssi lukust laetav jahipüss.
+
+**Jahipüss, kärbitud:** Lühema rauaga spordi- või kahe rauaga jahipüss, mida on käsitsi muudetud või mis on valmistatud varjamise hõlbustamiseks. Lühem raud ohverdab laskekauguse laskemoona laialipilgumise nimel.
+
+**Jahipüss, spordi:** Keskmise kuni väikese kaliibriga (16- või 20-kaliibriline) jahipüss, mida kasutatakse jahipidamiseks ja kodukaitseks.
+
+**Šuriken:** Väikesed visketerad, sageli tähekujulised. Kergesti varjatavad ja palgamõrvarite lemmikud.
+
+**Sirp:** Poolkuukujuline lame tera, sisemiselt kumer, ühe käega kasutatav teravilja koristamiseks või tseremoniaalsetel eesmärkidel.
+
+**Ling:** Nahkrihm, millel on pesa või lohk kivi või lingukivi hoidmiseks; keerutatakse ja visatakse sihtmärgi pihta uskumatu jõuga.
+
+**Oda, pikk:** Umbes kahemeetrine puust vars, millel on metall- või tulekiviots või tulega karastatud teravik. Neid tuleb kasutada kahe käega. Pikkade odadega relvastatud tegelased löövad võitlusvoorus sageli esimesena.
+
+**Oda, lühike:** Umbes 1,5-meetrine puust vars, millel on metall- või tulekiviots või tulega karastatud teravik. Lühikesi odasid saab kasutada ühe või kahe käega või visata.
+
+**Pihusti, keemiline:** Väikesest pihustist projitseeritav keemiline ärritaja, tavaliselt sihtmärgi silmadesse. Lühimaaline ja mittesurmav.
+
+**Kepp, pikk (Quarterstaff):** Pikk puust kepp, mida sageli kasutatakse käimiskepina, kasulik kaitseks ja ründamiseks.
+
+**Kepp, lühike:** Lühike kitsas puunui, nagu politseinui.
+
+**Mõõk-kepp:** Õhukese teraga mõõk, mis on varjatud keppi.
+
+**Mõõk, bastardi:** Sirge, ühe- või kaheteraline üle meetri pikkune mõõk, millel on pikk käepide ja mida kasutatakse ühe või kahe käega.
+
+**Mõõk, lai:** Sirge, ühe- või kaheteraline umbes meetri pikkune mõõk, mida kasutatakse ühe käega. Mõnel on korvikujulised käepidemed.
+
+**Mõõk, energia:** Käepide, mis sisaldab kujundatud väljaemitrit, mis projitseerib mõõga pikkuse energiatera, nagu fokuseeritud valguskiir. Energiamõõgad kasutavad toiteplokke ja nõuavad sageli kalleid või haruldasi fokuseerimiskristalle.
+
+**Mõõk, suur:** Sirge, kaheteraline peaaegu kahemeetrine mõõk, mida kasutatakse kahe käega, sageli piikideformatsioonide vastu.
+
+**Mõõk, pikk:** Sirge, ühe- või kaheteraline mõõk, mõnikord korvikujulise käepidemega, mida kasutatakse ühe käega. Kergem ja peenem kui laimõõk.
+
+**Mõõk, monofilament:** Keerukas relv, mis koosneb täpselt ühe molekuli paksusest terast, mida hoiab staasias käepidemes olev generaator. Kuna tera suudab aatomite vahelt libiseda, on see võimeline läbi lõikama peaaegu kõike. Kuna tera on peaaegu nähtamatu, on seda äärmiselt raske kasutada ja äpardumine võib olla surmav.
+
+**Mõõk, lühike:** Ühe- või kaheteraline mõõk, tavaliselt poolemeetrine.
+
+**Mõõk, vibro-:** Vibronoa pikem versioon. Käepide, mis sisaldab pikka mõõgataolist tera, mis vibreerib suurel kiirusel ja suudab läbi lõigata enamikku aineid.
+
+**Taser, kontakt:** Väike käeshoitav elektriseade, mis on mõeldud sihtmärgi närvitegevuse häirimiseks, uimastades neid hetkeks.
+
+**Taser, noolega:** Käeshoitav taser, mis tulistab kaks väikest noolt, mille küljes on juhtmed. Kui need tabavad sihtmärki, eritab taser häiriva elektrilaengu, mis tavaliselt uimastab või keelustab.
+
+**Tõrvik:** Paks puukepp, mille üks ots on leotatud pigi või muu kütusega, mõnikord mähitud kaltsudesse. Süüdatud ja kasutatud valgusallikana, tõrvikuid kasutatakse sageli improviseeritud relvadena.
+
+**Kolmhark:** Kolmeharuline oda, nagu kahvel, kõverate külgmiste harudega. Kolmharkidel on tavaliselt ogadega otsad, et haakuda sihtmärgi liha sisse.
+
+**Wakizashi:** Katana lühikese mõõga versioon, sageli valmistatud sobiva paarina. Mõnel on tuppadesse sisse ehitatud väikesed noad.
+
+**Piits:** Keritud ja punutud nahk-köis, mille otsas on käepide; kasutatakse vastase löömiseks või jäseme kinnipüüdmiseks ja immobiliseerimiseks (vt **Takerdumine**).
+
+**Piits, šokk:** Metallist piits, mis tekitab kõrgepingelise elektrivoolu, mis vabaneb sihtmärgile eduka tabamise korral.### Relvaklassid
+
+Peatükis "Kolmas: Oskused" toodud Raske relva, Lähivõitlusrelva ja Kaugvõitlusrelva oskuste kirjeldused viitavad relva erialadele ja **relvaklassidele**. Relvaklass on üldine rühm, kuhu relv kuulub, samas kui **eriala** on sinu tegelase oskus kasutada sellesse klassi kuuluvaid relvi. Relvad jagunevad klassidesse ja oskused erialadesse. Iga relvaklass on allpool loetletud koos konkreetsete näidetega. Mõned relvad kuuluvad olenevalt kasutusviisist mitmesse klassi.
+
+* **Kirves:** Lahingukirves, suur kirves, käekirves, vibrokirves, puusepakirves.
+
 * **Vibu:** Komposiitvibu, pikkvibu, lihtvibu.
-* **Rusikavõitlus:** Rusikas, pealöök, löök.
+
+* **Käsitsivõitlus:** Rusikas, pealöök, jalahoob.
+
 * **Nui:** Raske nui, kerge nui, sai, lühike kepp.
-* **Amb:** Arbalest, piiramis-arbalest, raske amb, kerge amb, keskmine amb, korduv amb.
-* **Pussnuga:** Lihunikunuga, pussnuga, nuga, taskunuga, libliknuga, vibronuga, sai.
-* **Lõhkeaine:** Antimaterjali detonaator, jalaväemiin, tankitõrjemiin, süütekapsel, dünamiit, elektromagnetilise impulsi detonaator, fusioonidetonaator, improviseeritud lõhkeaine, plasmadetonaator, plastiline lõhkeaine, helidetonaator.
-* **Kettpiits:** Kettpiits, hommikutähe kettpiits, piits.
-* **Granaat:** Antimaterjali granaat, põrutusgranaat, lagundaja granaat, elektromagnetilise impulsi granaat, plahvatusohtlik granaat, signaalgranaat, fusioongranaat, gaasigranaat, granaadiheitja, LAW raketiheitja, Molotovi kokteil, fosforgranaat, plasmagranaat, raketiheitja, löögigranaat, šrapnellgranaat, suitsugranaat, heligranaat, uimastusgranaat.
-* **Haamer:** Haamer, suurhaamer, kuvalda, sõjahaamer, sõjamaul.
-* **Käsi:** Soomustatud kinnas, blackjack, nukiraud, cestii, küünis, kägistustross.
-* **Improviseeritud:** Mootorsaag, viskerokk, vikat, sirp, tõrvik.
-* **Nui:** Raske nui, kerge nui.
-* **Kuulipilduja:** Kuulipilduja, minipüss, püstolkuulipilduja.
-* **Raketi/Vise:** Puhkpüss, bola, bumerang, pussnuga, viskenool, käekirves, odavise, shuriken, ling, viskenuga.
-* **Püstol, energia:** Energialasur, lagundaja püstol, elektromagnetilise impulsi püstol, laserpüstol, plasmapüstol, šokipüstol, helipüstol, uimastuspüstol.
-* **Püstol:** Derringer, flechette-püstol, tulekivipüstol, raskepüstol, kergepüstol, keskmine püstol.
-* **Oda:** Halberd, ratsaväe oda, naginata, pike, vikat, kolmhark.
+
+* **Amburelv:** Arbalett, piiramisarbalett, raske amb, kerge amb, keskmine amb, korduv amb.
+
+* **Puss:** Lihunikunuga, pussnuga, nuga, taskunuga, vedrunuga, vibronuga, sai.
+
+* **Lõhkeaine:** Antimaterjaalne detonaator, jalaväemiin, tankitõrjemiin, süütik, dünamiit, elektromagnetiline impulssdetonaator, fusioonidetonaator, improviseeritud lõhkeaine, plasmadetonaator, plastiline lõhkeaine, helidetonaator.
+
+* **Nuia-kett:** Nuia-kett, hommikutäht-kett, piits.
+
+* **Granaat:** Antimaterjaalne granaat, põrutusgranaat, disintegreeriv granaat, elektromagnetiline impulssgranaat, plahvatusgranaat, valgusgranaat, fusioonigranaat, gaasigranaat, granaadiheitja, LAW raketiheitja, Molotovi kokteil, fosforgranaat, plasmagranaat, raketiheitja, löökgranaat, kildgranaat, suitsugranaat, heligranaat, uimastusgranaat.
+
+* **Haamer:** Haamer, suur haamer, kuvalda, sõjahaamer, sõjanui.
+
+* **Käsi:** Soomustatud sõrmkinnas, rusikaraud, vöö, tsetus, küünis, kägistustraat.
+
+* **Improviseeritud:** Mootorsaag, viskekivi, vikat, sirp, tõrvik.
+
+* **Sõjanui:** Raske sõjanui, kerge sõjanui.
+
+* **Kuulipilduja:** Kuulipilduja, minirelv, püstolkuulipilduja.
+
+* **Viskerelv:** Puhkpüss, boola, bumerang, pussnuga, nool, käekirves, oda, suriken, ling, viskenuga.
+
+* **Püstol, energia:** Blasterpüstol, disintegreeriv püstol, elektromagnetiline impulss-püstol, laserpüstol, plasmapüstol, löökpüstol, helipüstol, uimastuspüstol.
+
+* **Püstol:** Derringer, noolepüstol, eestlaetav püstol, raskepüstol, kergepüstol, keskmine püstol.
+
+* **Pikkvarreline relv:** Piiknui, oda, naginata, piik, vikat, kolmhark.
+
 * **Revolver:** Raske revolver, kerge revolver, keskmine revolver.
-* **Rifle, energia:** Blaster-vintpüss, lagundaja vintpüss, elektromagnetilise impulsi vintpüss, laservintpüss, plasmavintpüss, šokivintpüss, helivintpüss, uimastusvintpüss.
-* **Vintpüss:** Rünnakvintpüss, poltluku vintpüss, elevandivintpüss, hoovaluku vintpüss, musket, snaipripüss, spordivintpüss.
-* **Püss:** Automaatpüss, kahetoruline püss, saetud püss, spordipüss.
-* **Oda:** Odavise, ratsaväe oda, pikk oda, naginata, pike, lühike oda, kolmhark.
-* **Kepp:** Veerandkepp, lühike kepp.
+
+* **Püss, energia:** Blasterpüss, disintegreeriv püss, elektromagnetiline impulss-püss, laserpüss, plasmapüss, löögipüss, helipüss, uimastuspüss.
+
+* **Püss:** Ründepüss, poltlukkpüss, elevandipüss, hoovaga vinnastatav püss, musket, snaipripüss, spordipüss.
+
+* **Haavlipüss:** Automaatne haavlipüss, kaheraudne haavlipüss, lühikese toruga haavlipüss, sport-haavlipüss.
+
+* **Oda:** Oda, piik, pikk oda, naginata, piik, lühike oda, kolmhark.
+
+* **Kepp:** Kepp, lühike kepp.
+
 * **Püstolkuulipilduja:** Püstolkuulipilduja.
-* **Mõõk:** Bastardsõjamõõk, laimõõk, energiamõõk, suur-mõõk, katana, pikk-mõõk, monofilament-mõõk, rapier, saber, scimitar, lühike-mõõk, sirp, mõõk-kepik, vibromõõk, wakizashi.
-* **Muu:** Keemiline pihusti, kontakt-taser, nooletaser, leegiheitja, lasso, võrk, šokipiits, piits.
+
+* **Mõõk:** Bastardmõõk, laimõõk, energiamõõk, suurmõõk, katana, pikkmõõk, monofilamentmõõk, rapiir, säbel, simitarr, lühimõõk, sirp, mõõk-kepp, vibromõõk, vakizaši.
+
+* **Muu:** Keemiline pihusti, kontakt-elektrišokirelv, nool-elektrišokirelv, leegiheitja, lasso, võrk, elektripiits, piits.
 
 ### Sama klassi relvade kasutamine
 
-Kasuta oma oskuse eriala kõigi selle konkreetse klassi relvade puhul. See üldistus tähendab, et sinu tegelane saab kasutada enamikku sarnaste relvade tüüpe ilma takistusteta.
+Kasuta oma oskuse eriala kõigi konkreetse klassi relvade puhul. See üldistus tähendab, et sinu tegelane saab enamikku sarnaseid relvi ilma takistusteta kasutada.
 
-**Näiteks,** kui sinu tegelasel on oskus Melee Weapon (Mõõk), kehtib see pikkadele mõõkadele, laimõõkadele, lühikestele mõõkadele jne, täpselt nagu Firearm (Revolver) kehtib kergetele, keskmistele ja rasketele revolveritele.
+**Näiteks:** kui sinu tegelasel on oskus Lähivõitlusrelv (Mõõk), kehtib see pikkadele mõõkadele, laimõõkadele, lühikestele mõõkadele jne, just nagu Tulirelv (Revolver) kehtib kergete, keskmiste ja raskete revolverite puhul.### Erinevate klasside relvade kasutamine
 
-### Erinevate klasside relvade kasutamine
+Kui te valdate ühte relvaklassi, võib mängujuht lubada teie tegelasel kasutada sarnast relva teisest klassist sama oskustasemega, kui oskus oleks Raske.
 
-Kui sul on oskus ühes relvaklassis, võib mängujuht lubada sinu tegelasel kasutada sarnast relva teises klassis sama oskuse tasemega, nagu oleks oskus Raske.
+**Näiteks,** kui teie tegelasel on Kaugrelv (Vibu) 60%, võib mängujuht lubada kasutada ambu (teine relvaklass) kui Rasket Kaugrelva (Vibu) oskust, mille ajutine oskustase on 30%.
 
-**Näiteks,** kui sinu tegelasel on Missile Weapon (Vibu) 60%, võib mängujuht lubada ambude kasutamist (erinev relvaklass) kui Rasket Missile Weapon (Vibu) oskust, ajutise oskuse tasemega 30%.
-
-Kui relva kasutamine ajutise oskuse tasemega on edukas ja saadakse kogemusi, tehakse kogemuse kontroll baastõenäosuse, mitte ajutise oskuse taseme alusel. Kõik kogemused lisatakse relva või relvaoskuse baastõenäosusele, mitte ajutisele oskuse tasemele. Kui sinu tegelane ületab ajutise oskuse taseme, muutub tegelik oskuse tase vaikimisi väärtuseks.
+Kui ajutise oskustasemega relva kasutamine on edukas ja kogemusi saadakse, tehakse kogemuse täringuheide baasvõimalusest, mitte ajutisest oskustasemest. Kõik kogemused lisatakse relva või relvaoskuse baasvõimalusele, mitte ajutisele oskustasemele. Kui teie tegelase oskus ületab ajutise oskustaseme, saab tegelikust oskustasemest vaikimisi tase.
 
 ##### Primitiivsed lähivõitlusrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Käekirves | Kirves | 15 | 1D6+1+dm | 1 | Veritsemine | Lühike | 1H | 12 | Jah | 7/9 | — | Odav | 0.5 |
-| Raske nui | Nui | 25 | 1D8+dm | 1 | Purustav | Keskmine | 2H | 22 | Jah | 9/7 | — | Odav | 2.0 |
-| Kerge nui | Nui | 25 | 1D6+dm | 1 | Purustav | Keskmine | 1H | 15 | Jah | 7/7 | — | Odav | 1.0 |
-| Rusikas | Rusikavõitlus | 25 | 1D3+dm | 1 | Purustav | Lühike | 1H | — | Ei1 | — | — | — | — |
-| Haare | Rusikavõitlus | 25 | Erisus2 | 1 | Takerdumine | Lühike | 2H | — | Ei3 | — | — | — | — |
-| Pealöök | Rusikavõitlus | 25 | 1D3+dm | 1 | Purustav | Lühike | — | — | Ei | — | — | — | — |
-| Löök | Rusikavõitlus | 25 | 1D3+dm | 1 | Purustav | Lühike | — | — | Ei | — | — | — | — |
-| Nuga | Pussnuga | 25 | 1D3+1+dm | 1 | Läbistav | Lühike | 1H | 15 | Jah | 4/4 | — | Odav | 0.2 |
-| Võrk | Muu | 05 | Erisus4 | 1 | Takerdumine | Keskmine | 1H või 2H | 6 | Jah | 12/10 | 96–005 | Odav | 3.0 |
-| Pikk oda | Oda | 15 | 1D10+1+dm | 1 | Läbistav | Pikk | 2H | 15 | Jah | 11/9 | — | Odav | 2.0 |
-| Lühike oda | Oda | 15 | 1D6+1+dm | 1 | Läbistav | Pikk | 1H või 2H | 15 | Jah | 7/8 | — | Odav | 2.0 |
-| Tõrvik | Nui | 25 | 1D6+leek6 | 1 | Purustav | Keskmine | 1H | 15 | Jah | 6/9 | 96–007 | — | 1.0 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ulatus | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kirves, käsi | Kirves | 15 | 1D6+1+dm | 1 | Veritsemine | Lühike | 1K | 12 | Jah | 7/9 | — | Odav | 0.5 |
+| Nui, raske | Nui | 25 | 1D8+dm | 1 | Muljuv | Keskmine | 2K | 22 | Jah | 9/7 | — | Odav | 2.0 |
+| Nui, kerge | Nui | 25 | 1D6+dm | 1 | Muljuv | Keskmine | 1K | 15 | Jah | 7/7 | — | Odav | 1.0 |
+| Rusikas | Rusikavõitlus | 25 | 1D3+dm | 1 | Muljuv | Lühike | 1K | — | Ei1 | — | — | — | — |
+| Maadlus | Rusikavõitlus | 25 | Eripära2 | 1 | Köidik | Lühike | 2K | — | Ei3 | — | — | — | — |
+| Pealöök | Rusikavõitlus | 25 | 1D3+dm | 1 | Muljuv | Lühike | — | — | Ei | — | — | — | — |
+| Jalalöök | Rusikavõitlus | 25 | 1D3+dm | 1 | Muljuv | Lühike | — | — | Ei | — | — | — | — |
+| Nuga | Pistoda | 25 | 1D3+1+dm | 1 | Torkav | Lühike | 1K | 15 | Jah | 4/4 | — | Odav | 0.2 |
+| Võrk | Muu | 05 | Eripära4 | 1 | Köitev | Keskmine | 1K või 2K | 6 | Jah | 12/10 | 96–005 | Odav | 3.0 |
+| Oda, pikk | Oda | 15 | 1D10+1+dm | 1 | Torkav | Pikk | 2K | 15 | Jah | 11/9 | — | Odav | 2.0 |
+| Oda, lühike | Oda | 15 | 1D6+1+dm | 1 | Torkav | Pikk | 1K või 2K | 15 | Jah | 7/8 | — | Odav | 2.0 |
+| Tõrvik | Nui | 25 | 1D6+leek6 | 1 | Muljuv | Keskmine | 1K | 15 | Jah | 6/9 | 96–007 | — | 1.0 |
 
-##### Primitiivsed raketi-relvad
+##### Primitiivsed kaugrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc | RF |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Käekirves (visatud) | Kirves | 10 | 1D6+½dm | 1 | Veritsemine | 20 | 1H | 12 | Ei | 9/11 | — | Odav | 0.5 | 1/CR |
-| Puhkpüss | Puhkpüss | 10 | 1D38 | 1 | Läbistav | 30 | 2H | 49 | Ei | /11 | — | Odav | 0.5 | 1/CR |
-| Bola (kahjustav) | Bola | 05 | 1D4+½dm | 1 | Purustav | 15 | 1H | 1 | Ei | 9/13 | — | Odav | 3.0 | 1/CR |
-| Bola (takerdunud) | Bola | 05 | Erisus4 | 1 | Takerdumine | 15 | 1H | 1 | Ei | 9/13 | — | Odav | 3.0 | 1/CR |
-| Bumerang | Bumerang | 05 | 1D4+½dm | ½10 | Purustav | 50 | 1H | 3 | Ei | 9/11 | — | Odav | 0.5 | 1/CR |
-| Lihtvibu | Vibu | 10 | 1D6+1+½dm | 1 | Läbistav | 80 | 2H | 6 | Ei | 9/9 | — | Odav | 0.5 | 1/CR |
-| Kerge nui (visatud) | Vise | Vise | 1D6+½dm | 1 | Purustav | 20 | 1H | 15 | Ei | 9/7 | — | Odav | 1.0 | 1/CR |
-| Viskenool | Viskenool | 10 | 1d6+½dm11 | 1 | Läbistav | 20 | 1H | 4 | Ei | /9 | — | Odav | 0.5 | 1/CR |
-| Odavise | Odavise | 15 | 1D6+½dm | 1 | Läbistav | 25 | 1H | 10 | Ei | 9/9 | — | Odav | 1.5 | 1/CR |
-| Nuga (visatud) | Nuga vise | 15 | 1D3+½dm | 1 | Läbistav | 10 | 1H | 15 | Ei | 7/11 | — | Odav | 0.2 | 1/CR |
-| Lasso | Muu | 05 | Erisus4 | ½ | Takerdumine | 10 | 2H | 1 | Ei | 9/13 | — | Odav | 1.0 | 1/5CR |
-| Võrk (visatud) | Muu | 05 | Erisus4 | 1 | Takerdumine | 5 | 1H | 6 | Ei | 9/12 | 96–0012 | Odav | 3.0 | 1/3CR |
-| Rokk (visatud) | Vise | Vise | 1D2+½dm | 2 | Purustav | 20 | 1H | 20 | Ei | 5/5 | — | — | .05 | 1/CR |
-| Ling | Ling | 05 | 1D8+½dm | 1 | Purustav | 80 | 1H | 2/1313 | Ei | 7/11 | — | Odav | 0.1 (.1)14 | 1/CR |
-| Lühike oda (visatud) | Oda | 05 | 1D6+1+½dm | 1 | Läbistav | 15 | 1H | 15 | Ei | 12/10 | — | Odav | 2.0 | 1/CR |
-| Pikk oda (visatud) | Oda | 05 | 1D10+1+½db | 1 | Läbistav | 15 | 1H | 15 | Ei | 12/10 | — | Odav | 2.0 | 1/CR |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ul | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm | RT |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kirves, käsi (viske) | Kirves | 10 | 1D6+½dm | 1 | Veritsemine | 20 | 1K | 12 | Ei | 9/11 | — | Odav | 0.5 | 1/RT |
+| Puhkpüss | Puhkpüss | 10 | 1D38 | 1 | Torkav | 30 | 2K | 49 | Ei | /11 | — | Odav | 0.5 | 1/RT |
+| Bola (kahjustav) | Bola | 05 | 1D4+½dm | 1 | Muljuv | 15 | 1K | 1 | Ei | 9/13 | — | Odav | 3.0 | 1/RT |
+| Bola (püüdev) | Bola | 05 | Eripära4 | 1 | Köitev | 15 | 1K | 1 | Ei | 9/13 | — | Odav | 3.0 | 1/RT |
+| Bumerang | Bumerang | 05 | 1D4+½dm | ½10 | Muljuv | 50 | 1K | 3 | Ei | 9/11 | — | Odav | 0.5 | 1/RT |
+| Vibu, tavaline | Vibu | 10 | 1D6+1+½dm | 1 | Torkav | 80 | 2K | 6 | Ei | 9/9 | — | Odav | 0.5 | 1/RT |
+| Nui, kerge (viske) | Vise | Vise | 1D6+½dm | 1 | Muljuv | 20 | 1K | 15 | Ei | 9/7 | — | Odav | 1.0 | 1/RT |
+| Viskenool | Viskenool | 10 | 1d6+½dm11 | 1 | Torkav | 20 | 1K | 4 | Ei | /9 | — | Odav | 0.5 | 1/RT |
+| Oda, viske | Oda | 15 | 1D6+½dm | 1 | Torkav | 25 | 1K | 10 | Ei | 9/9 | — | Odav | 1.5 | 1/RT |
+| Nuga (viske) | Vise Nuga | 15 | 1D3+½dm | 1 | Torkav | 10 | 1K | 15 | Ei | 7/11 | — | Odav | 0.2 | 1/RT |
+| Lasso | Muu | 05 | Eripära4 | ½ | Köitev | 10 | 2K | 1 | Ei | 9/13 | — | Odav | 1.0 | 1/5RT |
+| Võrk (viske) | Muu | 05 | Eripära4 | 1 | Köitev | 5 | 1K | 6 | Ei | 9/12 | 96–0012 | Odav | 3.0 | 1/3RT |
+| Kivi (viske) | Vise | Vise | 1D2+½dm | 2 | Muljuv | 20 | 1K | 20 | Ei | 5/5 | — | — | .05 | 1/RT |
+| Ling | Ling | 05 | 1D8+½dm | 1 | Muljuv | 80 | 1K | 2/1313 | Ei | 7/11 | — | Odav | 0.1 (.1)14 | 1/RT |
+| Oda, lühike (viske) | Oda | 05 | 1D6+1+½dm | 1 | Torkav | 15 | 1K | 15 | Ei | 12/10 | — | Odav | 2.0 | 1/RT |
+| Oda, pikk (viske) | Oda | 05 | 1D10+1+½db | 1 | Torkav | 15 | 1K | 15 | Ei | 12/10 | — | Odav | 2.0 | 1/RT |
 
-1. Rusikavõitlus võib tõrjuda Rusikavõitluse või Haarde rünnakuid (vaata rusikavõitluse oskust).
-2. Vaata Haarde oskust.
-3. Haare võib tõrjuda Rusikavõitluse või Haarde rünnakuid (vaata Haarde oskust).
-4. Vaata **Takerdumine**.
-5. Võrgu rike tähendab, et see on takerdunud, selle lahti harutamiseks kulub täisvoor ja edukas Raske Agility kontroll.
-6. Vaata **Tuli**.
-7. Rike tähendab, et tõrvik kustub.
-8. Puhkpüssi nooled on tavaliselt mürgitatud (vaata **Mürgid**).
-9. Puhkpüssil on 4 tabamuspunkti ja puhkpüssi nooltel on 0 või 1 tabamuspunkt.
-10. Kui kasutaja viskab bumerangi tagasi, tee Agility kontroll, et see järgmisel voorul kinni püüda. Kui viskad mitut bumerangi, on rünnakukiirus 1 vooru kohta.
-11. Nooled on sageli mürgitatud (vaata **Mürgid**).
-12. Võrgu rike tähendab, et see on takerdunud, selle lahti harutamiseks kulub täisvoor ja edukas Raske Agility kontroll.
-13. Lingil on 2 tabamuspunkti ja lingu kivil on 12 tabamuspunkti (plii või kivi).
-14. Esimene number on lingu kaal; sulgudes kaal on iga lingu kivi kohta.
+1. Rusikavõitlus võib tõrjuda Rusikavõitluse või Maadluse rünnakuid (vt Rusikavõitluse oskust).  
+2. Vt Maadluse oskust.  
+3. Maadlus võib tõrjuda Rusikavõitluse või Maadluse rünnakuid (vt Maadluse oskust).  
+4. Vt **Köitev**.  
+5. Võrgu rike tähendab, et see on sassis; selle lahtiharutamine võtab terve vooru ja nõuab edukat Rasket Osavuse heidet.  
+6. Vt **Tuli**.  
+7. Rike tähendab, et tõrvik kustub.  
+8. Puhkpüssi nooled on tavaliselt mürgitatud (vt **Mürgid**).  
+9. Puhkpüssil on 4 löögipunkti ja puhkpüssi nooltel on kummalgi 0 või 1 löögipunkt.  
+10. Kui kasutaja viskab bumerangi tagasi tulema, tehke Osavuse heide selle püüdmiseks järgmises voorus. Kui viskate mitut bumerangi, on rünnakukiirus 1 voorus.  
+11. Nooled on sageli mürgitatud (vt **Mürgid**).  
+12. Võrgu rike tähendab, et see on sassis; selle lahtiharutamine võtab terve vooru ja nõuab edukat Rasket Osavuse heidet.  
+13. Lingil on 2 löögipunkti ja lingukivil 12 löögipunkti (plii või kivi).  
+14. Esimene number on lingu kaal; sulgudes on ühe lingukivi kaal.
 
 ##### Ajaloolised lähivõitlusrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lahingukirves | Kirves | 15 | 1D8+2+dm | 1 | Veritsemine | Keskmine | 1H | 15 | Jah | 9/9 | — | Keskmine | 1.0 |
-| Suurkirves | Kirves | 15 | 2D6+2+dm | 1 | Veritsemine | Keskmine | 2H | 15 | Jah | 11/9 | — | Keskmine | 2.0 |
-| Puukirves | Kirves | 15 | 1D8+2+dm | 1 | Veritsemine | Keskmine | 2H | 20 | Jah | 8/7 | — | Odavapoolne | 1.5 |
-| Blackjack | Käsi | 25 | 1D8+dm | 1 | Purustav | Lühike | 1H | 10 | Ei | 7/7 | — | Odavapoolne | 0.2 |
-| Cestus | Käsi | 25 | 1D3+2+dm | 1 | Purustav | Lühike | 1H | 10 | Jah | 11/7 | — | Keskmine | 0.1 |
-| Küünis | Käsi | 25 | 1D4+1+dm | 1 | Veritsemine | Lühike | 1H | 10 | Jah | 9/9 | — | Keskmine | 0.1 |
-| Pussnuga | Pussnuga | 25 | 1D4+2+dm | 1 | Läbistav | Lühike | 1H | 15 | Jah | 4/4 | — | Keskmine | 0.5 |
-| Kettpiits | Kettpiits | 10 | 1D6+dm | 1 | Purustav | Keskmine | 1H | 7 | Jah | 7/6 | — | Keskmine | 2.0 |
-| Hommikutäht | Kettpiits | 10 | 1D10+1+dm | 1 | Purustav | Keskmine | 2H | 12 | Jah | 11/7 | — | Keskmine | 2.0 |
-| Kägistustross | Käsi | 15 | Erisus1 | 1 | — | Lühike | 2H | 1 | Ei | 8/12 | — | Odavapoolne | 0.1 |
-| Soomustatud kinnas | Käsi | 25 | 1D3+1+dm | 1 | Purustav | Lühike | 1H | 7 | Jah | 7/5 | — | Keskmine | Soomusrüüna |
-| Halberd | Oda | 15 | 3D6+dm | 1 | Veritsemine | Pikk | 2H | 25 | Jah | 13/9 | — | Keskmine | 3.0 |
-| Haamer | Haamer | 25 | 1D6+dm | 1 | Purustav | Keskmine | 1H | 15 | Jah | 9/7 | — | Odavapoolne | 1.5 |
-| Suurhaamer | Haamer | 25 | 1D10+3+dm | 1 | Purustav | Pikk | 2H | 15 | Jah | 9/9 | — | Keskmine | 2.5 |
-| Kuvalda | Haamer | 20 | 2D6+2+dm | 1 | Purustav | Keskmine | 2H | 15 | Jah | 11/7 | — | Odavapoolne | 2.0 |
-| Sõjahaamer | Haamer | 25 | 1D6+2+dm | 1 | Purustav | Keskmine | 1H | 20 | Jah | 11/9 | — | Keskmine | 2.0 |
-| Katana | Mõõk | 15 | 1D10+1+dm2 | 1 | Veritsemine | Keskmine | 1H või 2H | 15 | Jah | 11/11 | — | Kallis | 1.5 |
-| Nuga | Pussnuga | 25 | 1D3+1+dm | 1 | Läbistav | Lühike | 1H | 15 | Jah | 4/4 | — | Odavapoolne | 0.5 |
-| Ratsaväe oda | Oda | 15 | 1D8+1+dm | 1 | Läbistav3 | Pikk | 1H | 15 | Jah | 9/8 | — | Odavapoolne | 3.5 |
-| Raske nui | Nui | 25 | 1D8+2+dm | 1 | Purustav | Keskmine | 2H | 20 | Jah | 14/9 | — | Keskmine | 2.5 |
-| Kerge nui | Nui | 25 | 1D6+2+dm | 1 | Purustav | Keskmine | 1H | 20 | Jah | 7/7 | — | Keskmine | 1.0 |
-| Sõjamaul | Haamer | 25 | 1D10+2+dm | 1 | Purustav | Keskmine | 2H | 20 | Jah | 13/7 | — | Keskmine | 2.5 |
-| Naginata | Oda | 05 | 2d6+2+dm | 1 | Veritsemine | Pikk | 2H | 15 | Jah | 7/11 | — | Kallis | 2.0 |
-| Pike | Oda | 15 | 1d10+2+dm | 1 | Läbistav | Pikk | 2H | 15 | Jah | 11/7 | — | Odavapoolne | 3.5 |
-| Rapier | Mõõk | 15 | 1D6+1+dm | 1 | Läbistav | Keskmine | 1H | 15 | Jah | 7/13 | — | Kallis | 1.0 |
-| Saber | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1H | 20 | Jah | 7/11 | — | Keskmine | 1.5 |
-| Sai | Pussnuga | 10 | 1D6+dm | 1 | Purustav4 | Keskmine | 1H | 20 | Jah | 5/11 | — | Odavapoolne | 1.0 |
-| Scimitar | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1H | 19 | Jah | 8/8 | — | Keskmine | 1.5 |
-| Vikat | Improviseeritud | 05 | 2D6+1+dm | 1 | Läbistav | Pikk | 2H | 20 | Jah | 12/10 | — | Odavapoolne | 2.5 |
-| Sirp | Improviseeritud | 10 | 1D6+1+dm | 1 | Läbistav | Keskmine | 1H | 12 | Jah | 7/9 | — | Odavapoolne | 0.5 |
-| Veerandkepp | Kepp | 25 | 1D8+dm | 1 | Purustav | Kõik | 2H | 20 | Jah | 9/9 | — | Odav | 1.5 |
-| Lühike kepp | Kepp | 15 | 1D6+dm | 1 | Purustav | Keskmine | 1H | 15 | Jah | 7/9 | — | Odav | 0.5 |
-| Mõõk-kepik | Mõõk | 15 | 1D6+dm | 1 | Läbistav | Keskmine | 1H | 12 | Jah | 7/11 | — | Kallis | 1.0 |
-| Bastardsõjamõõk | Mõõk | 10 | 1D10+1+dm5 | 1 | Veritsemine | Keskmine | 1H või 2H | 20 | Jah | 13 või 9/96 | — | Keskmine | 2.0 |
-| Lai-mõõk | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1H | 20 | Jah | 9/7 | — | Keskmine | 1.5 |
-| Suur-mõõk | Mõõk | 05 | 2D8+dm | 1 | Veritsemine | Keskmine/Pikk | 2H | 18 | Jah | 14/13 | — | Kallis | 3.5 |
-| Pikk-mõõk | Mõõk | 15 | 1D8+dm | 1 | Veritsemine | Keskmine | 1H | 15 | Jah | 7/9 | — | Keskmine | 1.5 |
-| Lühike-mõõk | Mõõk | 15 | 1D6+1+dm | 1 | Läbistav | Keskmine | 1H | 20 | Jah | 5/5 | — | Odav | 1.0 |
-| Kolmhark | Oda | 15 | 1D6+1+dm | 1 | Läbistav | Pikk | 1H või 2H | 18 | Jah | 9/7 | — | Keskmine | 2.0 |
-| Wakizashi | Mõõk | 15 | 1D6+1+dm | 1 | Veritsemine | Keskmine | 1H | 13 | Jah | 7/9 | — | Kallis | 1.0 |
-| Piits | Muu | 05 | 1D3-1 | 1 | Takerdumine | Pikk | 1H | 4 | Ei | 9/10 | — | Odav | 0.5 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ulatus | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kirves, lahing | Kirves | 15 | 1D8+2+dm | 1 | Veritsemine | Keskmine | 1K | 15 | Jah | 9/9 | — | Keskmine | 1.0 |
+| Kirves, suur | Kirves | 15 | 2D6+2+dm | 1 | Veritsemine | Keskmine | 2K | 15 | Jah | 11/9 | — | Keskmine | 2.0 |
+| Kirves, puu | Kirves | 15 | 1D8+2+dm | 1 | Veritsemine | Keskmine | 2K | 20 | Jah | 8/7 | — | Odav | 1.5 |
+| Blackjack | Käsi | 25 | 1D8+dm | 1 | Muljuv | Lühike | 1K | 10 | Ei | 7/7 | — | Odav | 0.2 |
+| Cestus | Käsi | 25 | 1D3+2+dm | 1 | Muljuv | Lühike | 1K | 10 | Jah | 11/7 | — | Keskmine | 0.1 |
+| Küünis | Käsi | 25 | 1D4+1+dm | 1 | Veritsemine | Lühike | 1K | 10 | Jah | 9/9 | — | Keskmine | 0.1 |
+| Pistoda | Pistoda | 25 | 1D4+2+dm | 1 | Torkav | Lühike | 1K | 15 | Jah | 4/4 | — | Keskmine | 0.5 |
+| Piits | Piits | 10 | 1D6+dm | 1 | Muljuv | Keskmine | 1K | 7 | Jah | 7/6 | — | Keskmine | 2.0 |
+| Piits, hommikutäht | Piits | 10 | 1D10+1+dm | 1 | Muljuv | Keskmine | 2K | 12 | Jah | 11/7 | — | Keskmine | 2.0 |
+| Garrott | Käsi | 15 | Eripära1 | 1 | — | Lühike | 2K | 1 | Ei | 8/12 | — | Odav | 0.1 |
+| Soomuskinnas | Käsi | 25 | 1D3+1+dm | 1 | Muljuv | Lühike | 1K | 7 | Jah | 7/5 | — | Keskmine | Nagu soomus |
+| Halbard | Pikem relv | 15 | 3D6+dm | 1 | Veritsemine | Pikk | 2K | 25 | Jah | 13/9 | — | Keskmine | 3.0 |
+| Haamer | Haamer | 25 | 1D6+dm | 1 | Muljuv | Keskmine | 1K | 15 | Jah | 9/7 | — | Odav | 1.5 |
+| Haamer, suur | Haamer | 25 | 1D10+3+dm | 1 | Muljuv | Pikk | 2K | 15 | Jah | 9/9 | — | Keskmine | 2.5 |
+| Haamer, raske | Haamer | 20 | 2D6+2+dm | 1 | Muljuv | Keskmine | 2K | 15 | Jah | 11/7 | — | Odav | 2.0 |
+| Haamer, sõja | Haamer | 25 | 1D6+2+dm | 1 | Muljuv | Keskmine | 1K | 20 | Jah | 11/9 | — | Keskmine | 2.0 |
+| Katana | Mõõk | 15 | 1D10+1+dm2 | 1 | Veritsemine | Keskmine | 1K või 2K | 15 | Jah | 11/11 | — | Kallis | 1.5 |
+| Nuga | Pistoda | 25 | 1D3+1+dm | 1 | Torkav | Lühike | 1K | 15 | Jah | 4/4 | — | Odav | 0.5 |
+| Ratsapiik | Oda | 15 | 1D8+1+dm | 1 | Torkav3 | Pikk | 1K | 15 | Jah | 9/8 | — | Odav | 3.5 |
+| Nuig, raske | Nui | 25 | 1D8+2+dm | 1 | Muljuv | Keskmine | 2K | 20 | Jah | 14/9 | — | Keskmine | 2.5 |
+| Nuig, kerge | Nui | 25 | 1D6+2+dm | 1 | Muljuv | Keskmine | 1K | 20 | Jah | 7/7 | — | Keskmine | 1.0 |
+| Sepahaamer | Haamer | 25 | 1D10+2+dm | 1 | Muljuv | Keskmine | 2K | 20 | Jah | 13/7 | — | Keskmine | 2.5 |
+| Naginata | Pikem relv | 05 | 2d6+2+dm | 1 | Veritsemine | Pikk | 2K | 15 | Jah | 7/11 | — | Kallis | 2.0 |
+| Piik | Pikem relv | 15 | 1d10+2+dm | 1 | Torkav | Pikk | 2K | 15 | Jah | 11/7 | — | Odav | 3.5 |
+| Rapiir | Mõõk | 15 | 1D6+1+dm | 1 | Torkav | Keskmine | 1K | 15 | Jah | 7/13 | — | Kallis | 1.0 |
+| Sabel | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1K | 20 | Jah | 7/11 | — | Keskmine | 1.5 |
+| Sai | Pistoda | 10 | 1D6+dm | 1 | Muljuv4 | Keskmine | 1K | 20 | Jah | 5/11 | — | Odav | 1.0 |
+| Simitar | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1K | 19 | Jah | 8/8 | — | Keskmine | 1.5 |
+| Vikat | Improvis. | 05 | 2D6+1+dm | 1 | Torkav | Pikk | 2K | 20 | Jah | 12/10 | — | Odav | 2.5 |
+| Sirp | Improvis. | 10 | 1D6+1+dm | 1 | Torkav | Keskmine | 1K | 12 | Jah | 7/9 | — | Odav | 0.5 |
+| Kepp, pikk | Kepp | 25 | 1D8+dm | 1 | Muljuv | Kõik | 2K | 20 | Jah | 9/9 | — | Odav | 1.5 |
+| Kepp, lühike | Kepp | 15 | 1D6+dm | 1 | Muljuv | Keskmine | 1K | 15 | Jah | 7/9 | — | Odav | 0.5 |
+| Mõõk-kepp | Mõõk | 15 | 1D6+dm | 1 | Torkav | Keskmine | 1K | 12 | Jah | 7/11 | — | Kallis | 1.0 |
+| Mõõk, bastard | Mõõk | 10 | 1D10+1+dm5 | 1 | Veritsemine | Keskmine | 1K või 2K | 20 | Jah | 13 või 9/96 | — | Keskmine | 2.0 |
+| Mõõk, lai | Mõõk | 15 | 1D8+1+dm | 1 | Veritsemine | Keskmine | 1K | 20 | Jah | 9/7 | — | Keskmine | 1.5 |
+| Mõõk, suur | Mõõk | 05 | 2D8+dm | 1 | Veritsemine | Keskm/Pikk | 2K | 18 | Jah | 14/13 | — | Kallis | 3.5 |
+| Mõõk, pikk | Mõõk | 15 | 1D8+dm | 1 | Veritsemine | Keskmine | 1K | 15 | Jah | 7/9 | — | Keskmine | 1.5 |
+| Mõõk, lühike | Mõõk | 15 | 1D6+1+dm | 1 | Torkav | Keskmine | 1K | 20 | Jah | 5/5 | — | Odav | 1.0 |
+| Kolmikharu | Pikem relv | 15 | 1D6+1+dm | 1 | Torkav | Pikk | 1K või 2K | 18 | Jah | 9/7 | — | Keskmine | 2.0 |
+| Wakizashi | Mõõk | 15 | 1D6+1+dm | 1 | Veritsemine | Keskmine | 1K | 13 | Jah | 7/9 | — | Kallis | 1.0 |
+| Piits | Muu | 05 | 1D3-1 | 1 | Köitev | Pikk | 1K | 4 | Ei | 9/10 | — | Odav | 0.5 |
 
-1. Vaata **Kägistamine, uppumine ja lämbumine**.
-2. Kui kasutad katanat ühekäeliselt, on kahju modifikaator ½ tavalisest.
-3. Turniiri odad on tavaliselt nüriotsalised ja teevad purustavaid erialasid.
-4. Sai on traditsiooniliselt nüri relv, mida kasutatakse peamiselt tõrjumiseks ja löömiseks.
-5. Kui kasutad bastardsõjamõõka ühekäeliselt, on kahju modifikaator ½ tavalisest.
-6. STR nõue on 13, kui kasutatakse ühekäeliselt; 9, kui kasutatakse kahekäeliselt.
+1. Vt **Lämbumine, uppumine ja asfüksia**.  
+2. Kui kasutate katanat ühe käega, on kahjumuutja ½ tavalisest.  
+3. Turniiripiigid on tavaliselt nürid ja teevad muljuvaid erirünnakuid.  
+4. Sai on traditsiooniliselt nüri relv, mida kasutatakse peamiselt tõrjumiseks ja löömiseks.  
+5. Kui kasutate bastardmõõka ühe käega, on kahjumuutja ½ tavalisest.  
+6. JÕU nõue on 13 ühe käega kasutades; 9 kahe käega kasutades.
 
-##### Ajaloolised raketi-relvad
+##### Ajaloolised kaugrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc | RF |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Arbalest, piiramine | Amb | 15 | 2D6+4 | 1/3 | Läbistav | 90 | 2H | 14 | Ei | 11/91 | 93–00 | Keskmine | 10.0 (0.5) | 1/4CR |
-| Komposiitvibu | Vibu | 05 | 1D8+1+½dm | 1 | Läbistav | 120 | 2H | 12 | Ei | 13/9 | — | Keskmine | 0.5 (0.5) | 1/CR |
-| Pikkvibu | Vibu | 05 | 1D8+1+½dm | 1 | Läbistav | 90 | 2H | 10 | Ei | 11/9 | — | Odav | 0.5 (0.5) | 1/CR |
-| Amb, raske | Amb | 25 | 2D6+2 | 1/3 | Läbistav | 55 | 2H | 18 | Ei | 13/7 | 97–00 | Keskmine | 8.0 (0.5) | 1/3CR |
-| Amb, kerge | Amb | 25 | 1D6+2 | ½ | Läbistav | 40 | 2H | 10 | Ei | 9/7 | 96–00 | Keskmine | 3.5 (0.5) | 1/2CR |
-| Amb, keskmine | Amb | 25 | 2D4+2 | ½ | Läbistav | 50 | 2H | 14 | Ei | 11/7 | 95–00 | Keskmine | 5.0 (0.5) | 1/2CR |
-| Amb, korduv | Amb | 25 | 1D6+2 | 12 | Läbistav | 60 | 2H | 12 | Ei | 9/7 | 91–00 | Kallis | 7.5 (0.5) | 1/CR3 |
-| Viskenuga | Vise | 15 | 1d4+½dm | 1 | Läbistav | 20 | 1H | 10 | Ei | /11 | — | Odav | 0.2 | 1/CR |
-| Shuriken | Vise | 10 | 1D3+½dm | 2 | Läbistav | 20 | 1H | 5 | Ei | /13 | — | Odav | 0.1 | 1/CR |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ul | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm | RT |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Arbalett | Ambur | 15 | 2D6+4 | 1/3 | Torkav | 90 | 2K | 14 | Ei | 11/91 | 93–00 | Keskmine | 10.0 (0.5) | 1/4RT |
+| Vibu, komposiit | Vibu | 05 | 1D8+1+½dm | 1 | Torkav | 120 | 2K | 12 | Ei | 13/9 | — | Keskmine | 0.5 (0.5) | 1/RT |
+| Vibu, pikk | Vibu | 05 | 1D8+1+½dm | 1 | Torkav | 90 | 2K | 10 | Ei | 11/9 | — | Odav | 0.5 (0.5) | 1/RT |
+| Amm, raske | Ambur | 25 | 2D6+2 | 1/3 | Torkav | 55 | 2K | 18 | Ei | 13/7 | 97–00 | Keskmine | 8.0 (0.5) | 1/3RT |
+| Amm, kerge | Ambur | 25 | 1D6+2 | ½ | Torkav | 40 | 2K | 10 | Ei | 9/7 | 96–00 | Keskmine | 3.5 (0.5) | 1/2RT |
+| Amm, keskmine | Ambur | 25 | 2D4+2 | ½ | Torkav | 50 | 2K | 14 | Ei | 11/7 | 95–00 | Keskmine | 5.0 (0.5) | 1/2RT |
+| Amm, kordav | Ambur | 25 | 1D6+2 | 12 | Torkav | 60 | 2K | 12 | Ei | 9/7 | 91–00 | Kallis | 7.5 (0.5) | 1/RT3 |
+| Nuga, viske | Laskemoon | 15 | 1d4+½dm | 1 | Torkav | 20 | 1K | 10 | Ei | /11 | — | Odav | 0.2 | 1/RT |
+| Shuriken | Laskemoon | 10 | 1D3+½dm | 2 | Torkav | 20 | 1K | 5 | Ei | /13 | — | Odav | 0.1 | 1/RT |
 
-1. STR nõue cranequiniga (käsivändaga) on 11; STR 15, kui kasutatakse ilma selleta.
-2. Laskemoon 12 ja kogu uuesti laadimine võtab kuus vooru.
-3. Korduval ammul on poltide mahutavus 6, 8, 10 või 12 polti. Korduva ammu laadimine võtab ühe võitlusvooru iga poldi kohta.
+1. JÕU nõue koos vinnastiga on 11; JÕU 15 ilma selleta.  
+2. Laskemoona on 12 ja kogu laadimine võtab kuus vooru.  
+3. Korduval ammul on 6, 8, 10 või 12 poldi mahutavus. Ühe poldi laadimine korduvasse ammu võtab ühe võitlusvooru.
 
-##### Tänapäevased lähivõitlusrelvad
+##### Kaasaegsed lähivõitlusrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nukiraud | Rusikavõitlus | Rusikavõitlus | +2 | 1 | Purustav | Lühike | 1H | 18 | Ei | 5/– | — | Odav | 0.1 |
-| Mootorsaag | Improviseeritud | 20 | 2D8 | 1 | Veritsemine | Keskmine | 2H | 20 | Ei | 11/11 | 97–00 | Keskmine | 8.0 |
-| Lihunikunuga | Pussnuga | 25 | 1D6+dm | 1 | Läbistav | Lühike | 1H | 12 | Ei | 5/7 | — | Odav | 0.3 |
-| Taskunuga | Pussnuga | 25 | 1D4+dm | 1 | Läbistav | Lühike | 1H | 9 | Ei | –/5 | — | Odav | 0.1 |
-| Libliknuga | Pussnuga | 25 | 1D4+dm | 1 | Läbistav | Lühike | 1H | 7 | Ei | –/5 | 99–00 | Odav | 0.1 |
-| Taser, kontakt | Muu | Rusikavõitlus | Erisus1 | 1 | — | Lühike | 1H | 7 | Ei | 5/7 | 97–00 | Odav | 0.3 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ulatus | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kaserussid | Rusikavõitlus | Rusikavõitlus | +2 | 1 | Muljuv | Lühike | 1K | 18 | Ei | 5/– | — | Odav | 0.1 |
+| Mootorsaag | Improvis. | 20 | 2D8 | 1 | Veritsemine | Keskmine | 2K | 20 | Ei | 11/11 | 97–00 | Keskmine | 8.0 |
+| Nuga, lihuniku | Pistoda | 25 | 1D6+dm | 1 | Torkav | Lühike | 1K | 12 | Ei | 5/7 | — | Odav | 0.3 |
+| Nuga, tasku | Pistoda | 25 | 1D4+dm | 1 | Torkav | Lühike | 1K | 9 | Ei | –/5 | — | Odav | 0.1 |
+| Nuga, vedrunuga | Pistoda | 25 | 1D4+dm | 1 | Torkav | Lühike | 1K | 7 | Ei | –/5 | 99–00 | Odav | 0.1 |
+| Taser, kontakt | Muu | Rusikavõitlus | Eripära1 | 1 | — | Lühike | 1K | 7 | Ei | 5/7 | 97–00 | Odav | 0.3 |
 
-##### Tänapäevased raketi-relvad
+##### Kaasaegsed kaugrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc | RF |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Leegiheitja | Muu | 05 | 2D6+tuli3 | 1 | — | 25 | 2H | 6 | Ei | 10/8 | 93–00 | 6 | Kallis | 8.0 |
-| Kuulipilduja | Kuulipilduja | 15 | 2D6+4 | 1, 3, või valang | Läbistav | 90 | 2H | 11 | Ei | 9/5 | 00 | 40 | Kallis | 3.0 |
-| Minipüss | Kuulipilduja | 15 | 2D6+4 | 33 | Läbistav | 400 | 2H | 14 | Ei | 16/12 | 98–00 | 4,000 | Kallis | 6.0 |
-| Püstolkuulipilduja | Püstolkuulipilduja | 15 | 1D8 | 2 või valang | Läbistav | 40 | 1H või 2H | 8 | Ei | 9/6 | 98–00 | 32 | Kallis | 2.0 |
-| Püstol, Derringer | Püstol | 20 | 1D6 | 1 | Läbistav | 3 | 1H | 5 | Ei | 5/5 | 00 | 1 või 2 | Keskmine | 0.3 |
-| Püstol, tulekivi | Püstol | 20 | 1D6+1 | ¼ | Läbistav | 10 | 1H | 8 | Ei | 7/5 | 95–00 | 1 | Keskmine | 1.0 |
-| Püstol, raske | Püstol | 20 | 1D10+2 | 1 | Läbistav | 15 | 1H | 8 | Ei | 11/7 | 00 | 8 | Keskmine | 1.5 |
-| Püstol, kerge | Püstol | 20 | 1D6 | 3 | Läbistav | 10 | 1H | 6 | Ei | 5/5 | 00 | 8 | Keskmine | 0.7 |
-| Püstol, keskmine | Püstol | 20 | 1D8 | 2 | Läbistav | 20 | 1H | 8 | Ei | 7/5 | 98–00 | 12 | Keskmine | 1.0 |
-| Revolver, raske | Revolver | 20 | 1D10+2 | 1 | Läbistav | 20 | 1H | 14 | Ei | 11/5 | 00 | 6 | Keskmine | 1.5 |
-| Revolver, kerge | Revolver | 20 | 1D6 | 2 | Läbistav | 15 | 1H | 10 | Ei | 5/5 | 00 | 6 | Keskmine | 0.7 |
-| Revolver, keskmine | Revolver | 20 | 1D8 | 1 | Läbistav | 25 | 1H | 12 | Ei | 7/5 | 00 | 6 | Keskmine | 1.0 |
-| Rünnakvintpüss | Vintpüss | 25 | 2D6+2 | 2 või valang | Läbistav | 90 | 2H | 12 | Ei | 10/5 | 00 | 30 | Kallis | 3.5 |
-| Vintpüss, poltlukk | Vintpüss | 25 | 2D6+4 | ½ | Läbistav | 110 | 2H | 12 | Ei | 7/5 | 00 | 5 | Keskmine | 3.0 |
-| Vintpüss, elevandivintpüss | Vintpüss | 15 | 3D6+4 | 1 või 2 | Läbistav | 100 | 2H | 12 | Ei | 13/5 | 00 | 2 | Keskmine | 4.5 |
-| Musket | Vintpüss | 25 | 1D10+4 | ¼ | Läbistav | 60 | 2H | 12 | Ei | 9/5 | 95–00 | 1 | Keskmine | 3.5 |
-| Vintpüss, snaipripüss | Vintpüss | 204 | 2D10+4 | 1 | Läbistav | 2505 | 2H | 10 | Ei | 12/7 | 98–00 | 11 | Kallis | 4.0 |
-| Vintpüss, spordivintpüss | Vintpüss | 25 | 2D6 | 1 | Läbistav | 80 | 2H | 12 | Ei | 7/5 | 00 | 6 | Keskmine | 3.0 |
-| Püss, automaatpüss | Püss | 30 | 4D6/2D6/ 1D66 | 1 või 2 | Läbistav | 10/20/50 | 2H | 14 | Ei | 11/5 | 00 | 8 | Kallis | 4.0 |
-| Püss, kahetoruline | Püss | 30 | 4D6/2D6/ 1D66 | 1 või 2 | Läbistav | 10/20/50 | 2H | 12 | Ei | 9/5 | 00 | 2 | Keskmine | 3.5 |
-| Püss, saetud | Püss | 30 | 4D6/1D67 | 1 või 2 | Läbistav | 5/20/— | 1H | 14 | Ei | 9/5 | 00 | 1 või 2 | Keskmine | 2.0 |
-| Püss, spordipüss | Püss | 30 | 4D6/2D6/ 1D66 | 1 | Läbistav | 10/20/50 | 2H | 10 | Ei | 7/5 | 00 | 5 | Keskmine | 3.0 |
-| Pihusti, keemiline | Muu | 25 | Erisus8 | 1 | — | 2 | 1H | 2 | Ei | 3/7 | 91–00 | 6 | Keskmine | 0.2 |
-| Taser, nooletaser | Muu | 20 | Erisus1 | ½ | — | DEX | 1H | 8 | Ei | 3/7 | 95–00 | 1 | Kallis | 0.5 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ul | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm | RT |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Leegiheitja | Muu | 05 | 2D6+tuli3 | 1 | — | 25 | 2K | 6 | Ei | 10/8 | 93–00 | 6 | Kallis | 8.0 |
+| Kuulipilduja | Kuulipilduja | 15 | 2D6+4 | 1, 3, või sarival | Torkav | 90 | 2K | 11 | Ei | 9/5 | 00 | 40 | Kallis | 3.0 |
+| Mini-püss | Kuulipilduja | 15 | 2D6+4 | 33 | Torkav | 400 | 2K | 14 | Ei | 16/12 | 98–00 | 4,000 | Kallis | 6.0 |
+| Püstolkuulipilduja | Püstolkuulip. | 15 | 1D8 | 2 või sarival | Torkav | 40 | 1K või 2K | 8 | Ei | 9/6 | 98–00 | 32 | Kallis | 2.0 |
+| Püstol, Derringer | Püstol | 20 | 1D6 | 1 | Torkav | 3 | 1K | 5 | Ei | 5/5 | 00 | 1 või 2 | Keskmine | 0.3 |
+| Püstol, ränilukk | Püstol | 20 | 1D6+1 | ¼ | Torkav | 10 | 1K | 8 | Ei | 7/5 | 95–00 | 1 | Keskmine | 1.0 |
+| Püstol, raske | Püstol | 20 | 1D10+2 | 1 | Torkav | 15 | 1K | 8 | Ei | 11/7 | 00 | 8 | Keskmine | 1.5 |
+| Püstol, kerge | Püstol | 20 | 1D6 | 3 | Torkav | 10 | 1K | 6 | Ei | 5/5 | 00 | 8 | Keskmine | 0.7 |
+| Püstol, keskmine | Püstol | 20 | 1D8 | 2 | Torkav | 20 | 1K | 8 | Ei | 7/5 | 98–00 | 12 | Keskmine | 1.0 |
+| Revolver, raske | Revolver | 20 | 1D10+2 | 1 | Torkav | 20 | 1K | 14 | Ei | 11/5 | 00 | 6 | Keskmine | 1.5 |
+| Revolver, kerge | Revolver | 20 | 1D6 | 2 | Torkav | 15 | 1K | 10 | Ei | 5/5 | 00 | 6 | Keskmine | 0.7 |
+| Revolver, keskmine | Revolver | 20 | 1D8 | 1 | Torkav | 25 | 1K | 12 | Ei | 7/5 | 00 | 6 | Keskmine | 1.0 |
+| Püss, rünnaku | Püss | 25 | 2D6+2 | 2 või sarival | Torkav | 90 | 2K | 12 | Ei | 10/5 | 00 | 30 | Kallis | 3.5 |
+| Püss, poltlukk | Püss | 25 | 2D6+4 | ½ | Torkav | 110 | 2K | 12 | Ei | 7/5 | 00 | 5 | Keskmine | 3.0 |
+| Püss, elevandi | Püss | 15 | 3D6+4 | 1 või 2 | Torkav | 100 | 2K | 12 | Ei | 13/5 | 00 | 2 | Keskmine | 4.5 |
+| Muskett | Püss | 25 | 1D10+4 | ¼ | Torkav | 60 | 2K | 12 | Ei | 9/5 | 95–00 | 1 | Keskmine | 3.5 |
+| Püss, snaipri | Püss | 204 | 2D10+4 | 1 | Torkav | 2505 | 2K | 10 | Ei | 12/7 | 98–00 | 11 | Kallis | 4.0 |
+| Püss, spordi | Püss | 25 | 2D6 | 1 | Torkav | 80 | 2K | 12 | Ei | 7/5 | 00 | 6 | Keskmine | 3.0 |
+| Haavlipüss, aut. | Haavlipüss | 30 | 4D6/2D6/ 1D66 | 1 või 2 | Torkav | 10/20/50 | 2K | 14 | Ei | 11/5 | 00 | 8 | Kallis | 4.0 |
+| Haavlipüss, kahetr. | Haavlipüss | 30 | 4D6/2D6/ 1D66 | 1 või 2 | Torkav | 10/20/50 | 2K | 12 | Ei | 9/5 | 00 | 2 | Keskmine | 3.5 |
+| Haavlipüss, saetud | Haavlipüss | 30 | 4D6/1D67 | 1 või 2 | Torkav | 5/20/— | 1K | 14 | Ei | 9/5 | 00 | 1 või 2 | Keskmine | 2.0 |
+| Haavlipüss, spordi | Haavlipüss | 30 | 4D6/2D6/ 1D66 | 1 | Torkav | 10/20/50 | 2K | 10 | Ei | 7/5 | 00 | 5 | Keskmine | 3.0 |
+| Pihusti, kem. | Muu | 25 | Eripära8 | 1 | — | 2 | 1K | 2 | Ei | 3/7 | 91–00 | 6 | Keskmine | 0.2 |
+| Taser, nool | Muu | 20 | Eripära1 | ½ | — | OSA | 1K | 8 | Ei | 3/7 | 95–00 | 1 | Kallis | 0.5 |
 
-1. Uimastab sihtmärgi (vaata **Uimastamine**).
-2. Paljudel tänapäeva tulirelvadel on valangutule võimalused (vaata **Automaattuli**).
-3. Kui sihtmärki tabab leegiheitja, on ta põlemas ja võtab 1D6+2 punkti kahju vooru kohta, kuni tuli on kustutatud (vaata **Tuli ja kuumus**).
-4. Snaipripüssid on tavaliselt varustatud harkjalaga, mis kahekordistab tabamise võimalust; ilma harkjalata (või sarnase stabilisaatorita) muuda baastõenäosust -10%.
-5. Snaipripüssid on tavaliselt varustatud teleskoopsihikutega, mis kahekordistavad nende efektiivset ulatust; ilma sihikuta on ulatus 125 meetrit.
-6. Püssid teevad kahju vastavalt ulatusele; esimene vahemik on esimene kahjutäring, teine on teine jne.
-7. Püssid teevad kahju vastavalt ulatusele; esimene vahemik on esimene kahjutäring, teine on teine jne. Saetud püssid ei ole efektiivsed kaugemal kui 20 jardi.
-8. Keemiline pihusti on madala POT-ga kontaktmürk (vaata **Mürgid**). Näidis keemilisest pihustist võib olla 2D6+12 POT, kiire toime ja põhjustada pimedaks jäämist, kui sihtmärk ebaõnnestub vastupanu kontrollis vs. CON. Sihtmärgi silmadesse tulistamine on Raske, kuid lähiulatuses Kerge, mis muudab võimaluse mõjutamatuks.
+1. Nõrgestab sihtmärgi (vt **Nõrgestamine**).  
+2. Paljudel kaasaegsetel tulirelvadel on sarivalu võimalus (vt **Automaatuli**).  
+3. Kui leegiheitja sihtmärki tabab, süttib see põlema ja saab 1D6+2 punkti kahju voorus kuni tule kustutamiseni (vt **Tuli ja kuumus**).  
+4. Snaipripüssid on tavaliselt varustatud harkjalaga, mis kahekordistab võimalust; ilma harkjalata (või sarnase stabilisaatorita), muutke baasvõimalust -10%.  
+5. Snaipripüssid on tavaliselt varustatud teleskoopsihikutega, mis kahekordistavad nende efektiivset laskeulatust; ilma sihikuta on laskeulatus 125 meetrit.  
+6. Haavlipüssid teevad kahju vastavalt kaugusele; esimene vahemik on esimene kahjutäring, teine on teine jne.  
+7. Haavlipüssid teevad kahju vastavalt kaugusele; esimene vahemik on esimene kahjutäring, teine on teine jne. Saetud haavlipüssid ei ole efektiivsed kaugemal kui 20 jardi.  
+8. Keemiline pihusti on madala POT-ga kontakmürk (vt **Mürgid**). Näitlik keemiline pihusti võib olla 2D6+12 POT, silmapilkselt mõjuv ja põhjustada pimedaks jäämist, kui sihtmärk ebaõnnestub vastupanuheites vs. VAS. Silmadesse laskmine on Raske, kuid vahetus läheduses Lihtne, mistõttu võimalus ei muutu.
 
 ##### Täiustatud lähivõitlusrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kirves, vibro- | Oda | 10% | 2D8+4+dm | 1 | Veritsemine | Keskmine | 2H | 20 | Jah | 11/5 | 98–00 | Keskmine | 3.0 |
-| Nuga, vibro- | Pussnuga | 25% | 2D4+2+dm | 1 | Veritsemine | Lühike | 1H | 16 | Jah | 7/7 | 99–00 | Keskmine | 0.5 |
-| Oda, uimastusoda | Kepp | 15% | 1D6+dm+stun1 | 1 | Tagasilöök | Pikk | 2H | 18 | Jah | 9/5 | 98–00 | Keskmine | 2.5 |
-| Mõõk, energiamõõk | Mõõk | 10% | 2D10+dm2 | 1 | Läbistav | Keskmine | 1H | 30 | Jah | 11/15 | 99–00 | Hindamatu | 1.0 |
-| Mõõk, monofilament- | Mõõk | 05% | 3D122 | 1 | Veritsemine | Keskmine | 1H | 12 | Ei | 5/15 | 91–003 | Kallis | 0.5 |
-| Mõõk, vibromõõk | Mõõk | 20% | 2D6+3+dm | 1 | Veritsemine | Keskmine | 1H | 18 | Jah | 9/7 | 97–00 | Kallis | 1.5 |
-| Piits, šokipiits | Muu | 05% | 1+½db+stun1 | 1 | Takerdumine | Pikk | 1H | 10 | Ei | 7/9 | 97-00 | Keskmine | 1.0 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ulatus | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kirves, vibro- | Pikem relv | 10% | 2D8+4+dm | 1 | Veritsemine | Keskmine | 2K | 20 | Jah | 11/5 | 98–00 | Keskmine | 3.0 |
+| Nuga, vibro- | Pistoda | 25% | 2D4+2+dm | 1 | Veritsemine | Lühike | 1K | 16 | Jah | 7/7 | 99–00 | Keskmine | 0.5 |
+| Piik, uimastus | Kepp | 15% | 1D6+dm+uim | 1 | Tagasilöök | Pikk | 2K | 18 | Jah | 9/5 | 98–00 | Keskmine | 2.5 |
+| Mõõk, energia | Mõõk | 10% | 2D10+dm2 | 1 | Torkav | Keskmine | 1K | 30 | Jah | 11/15 | 99–00 | Hindamatu | 1.0 |
+| Mõõk, monofilament | Mõõk | 05% | 3D122 | 1 | Veritsemine | Keskmine | 1K | 12 | Ei | 5/15 | 91–003 | Kallis | 0.5 |
+| Mõõk, vibro- | Mõõk | 20% | 2D6+3+dm | 1 | Veritsemine | Keskmine | 1K | 18 | Jah | 9/7 | 97–00 | Kallis | 1.5 |
+| Piits, elektri | Muu | 05% | 1+½db+uim1 | 1 | Köitev | Pikk | 1K | 10 | Ei | 7/9 | 97-00 | Keskmine | 1.0 |
 
-##### Täiustatud raketi-relvad
+##### Täiustatud kaugrelvad
 
-| Relv | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc | RF |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Püstol, Blaster | Püstol, energia | 15% | 1D8+2 | 2 | Läbistav | 15 | 1H | 14 | Ei | 7/5 | 99–00 | 30 | Keskmine | 1.0 |
-| Püstol, lagundaja | Püstol, energia | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Ei | 7/5 | 96–00 | 10 | Kallis | 1.0 |
-| Püstol, EM impulss | Püstol, energia | 20% | 2D6 vs. tehnika5 | 1 | — | 15 | 1H | 12 | Ei | 7/5 | 98–00 | 20 | Keskmine | 1.0 |
-| Püstol, flechette | Püstol, energia | 05% | 2D46 | 1 või valang7 | Läbistav | 15 | 1H | 14 | Ei | 5/7 | 99–00 | 6 | Keskmine | 0.8 |
-| Püstol, laser | Püstol, energia | 20% | 1D8 | 3 | Läbistav | 30 | 1H | 14 | Ei | 5/5 | 99–00 | 20 | Keskmine | 1.0 |
-| Püstol, plasma | Püstol, energia | 15% | 2D10+2 | 1 | Läbistav | 20 | 1H | 18 | Ei | 7/5 | 98–00 | 12 | Kallis | 1.2 |
-| Püstol, šokipüstol | Püstol, energia | 15% | 2D4 | 1 | Tagasilöök | 15 | 1H | 12 | Ei | 5/5 | 98–00 | 12 | Keskmine | 1.0 |
-| Püstol, uimastuspüstol | Püstol, energia | 25% | 2D6 uimastus2 | 1 | Tagasilöök | 15 | 1H | 16 | Ei | 5/5 | 00 | 12 | Keskmine | 1.0 |
-| Vintpüss, Blaster | Vintpüss, energia | 10% | 2D8+3 | 2 | Läbistav | 60 | 2H | 20 | Ei | 9/5 | 99–00 | 20 | Keskmine | 1.0 |
-| Vintpüss, lagundaja | Vintpüss, energia | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Ei | 9/7 | 96–00 | 10 | Kallis | 2.0 |
-| Vintpüss, EM impulss | Vintpüss, energia | 25% | 3D8 vs. tehnika5 | 1 | — | 75 | 2H | 18 | Ei | 7/5 | 98–00 | 12 | Keskmine | 2.0 |
-| Vintpüss, laser | Vintpüss, energia | 15% | 2D8 | 2 | Läbistav | 100 | 2H | 20 | Ei | 7/7 | 99–00 | 20 | Keskmine | 1.5 |
-| Vintpüss, plasma | Vintpüss, energia | 10% | 2D10+4 | 1 | Läbistav | 70 | 2H | 18 | Ei | 9/7 | 98–00 | 16 | Kallis | 2.0 |
-| Vintpüss, šokivintpüss | Vintpüss, energia | 10% | 3D8 | 1 | Tagasilöök | 50 | 2H | 18 | Ei | 9/7 | 98–00 | 12 | Keskmine | 1.5 |
-| Vintpüss, helivintpüss | Vintpüss, energia | 10% | 1D3+28 | 1 | Tagasilöök | 50 | 2H | 16 | Ei | 7/7 | 97–00 | 36 | Keskmine | 2.0 |
-| Vintpüss, uimastusvintpüss | Vintpüss, energia | 20% | 2D8 uimastus9 | 1 | Tagasilöök | 50 | 2H | 22 | Ei | 7/5 | 00 | 24 | Keskmine | 1.5 |
+| Relv | Oskus | Baas | Kahj | Rün | Eripära | Ul | Käed | VP | Tõrje | JÕU/OSA | Rike | Väärtus | SUU/Koorm | RT |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Püstol, blaster | Püstol, energia | 15% | 1D8+2 | 2 | Torkav | 15 | 1K | 14 | Ei | 7/5 | 99–00 | 30 | Keskmine | 1.0 |
+| Püstol, disintegr. | Püstol, energia | 05% | 3D4+1 | 1 | — | 10 | 1K | 12 | Ei | 7/5 | 96–00 | 10 | Kallis | 1.0 |
+| Püstol, EM-impulss | Püstol, energia | 20% | 2D6 vs. tehn | 1 | — | 15 | 1K | 12 | Ei | 7/5 | 98–00 | 20 | Keskmine | 1.0 |
+| Püstol, flešett | Püstol, energia | 05% | 2D46 | 1 või sarival | Torkav | 15 | 1K | 14 | Ei | 5/7 | 99–00 | 6 | Keskmine | 0.8 |
+| Püstol, laser | Püstol, energia | 20% | 1D8 | 3 | Torkav | 30 | 1K | 14 | Ei | 5/5 | 99–00 | 20 | Keskmine | 1.0 |
+| Püstol, plasma | Püstol, energia | 15% | 2D10+2 | 1 | Torkav | 20 | 1K | 18 | Ei | 7/5 | 98–00 | 12 | Kallis | 1.2 |
+| Püstol, elektri | Püstol, energia | 15% | 2D4 | 1 | Tagasilöök | 15 | 1K | 12 | Ei | 5/5 | 98–00 | 12 | Keskmine | 1.0 |
+| Püstol, uimastus | Püstol, energia | 25% | 2D6 uim2 | 1 | Tagasilöök | 15 | 1K | 16 | Ei | 5/5 | 00 | 12 | Keskmine | 1.0 |
+| Püss, blaster | Püss, energia | 10% | 2D8+3 | 2 | Torkav | 60 | 2K | 20 | Ei | 9/5 | 99–00 | 20 | Keskmine | 1.0 |
+| Püss, disintegr. | Püss, energia | 05% | 3D6+2 | 1 | — | 30 | 2K | 18 | Ei | 9/7 | 96–00 | 10 | Kallis | 2.0 |
+| Püss, EM-impulss | Püss, energia | 25% | 3D8 vs. tehn | 1 | — | 75 | 2K | 18 | Ei | 7/5 | 98–00 | 12 | Keskmine | 2.0 |
+| Püss, laser | Püss, energia | 15% | 2D8 | 2 | Torkav | 100 | 2K | 20 | Ei | 7/7 | 99–00 | 20 | Keskmine | 1.5 |
+| Püss, plasma | Püss, energia | 10% | 2D10+4 | 1 | Torkav | 70 | 2K | 18 | Ei | 9/7 | 98–00 | 16 | Kallis | 2.0 |
+| Püss, elektri | Püss, energia | 10% | 3D8 | 1 | Tagasilöök | 50 | 2K | 18 | Ei | 9/7 | 98–00 | 12 | Keskmine | 1.5 |
+| Püss, heliline | Püss, energia | 10% | 1D3+28 | 1 | Tagasilöök | 50 | 2K | 16 | Ei | 7/7 | 97–00 | 36 | Keskmine | 2.0 |
+| Püss, uimastus | Püss, energia | 20% | 2D8 uim9 | 1 | Tagasilöök | 50 | 2K | 22 | Ei | 7/5 | 00 | 24 | Keskmine | 1.5 |
 
-1. Veere kahju ja pane see vastupanu kontrollis vs. sihtmärgi CON. Kui sihtmärk kaotab, on nad uimastatud 1D3+1 vooru (vaata **Uimastamine**).
-2. Sihtmärgi efektiivne soomusrüü väärtus selle relva vastu on poolitatud (ümmargusta üles).
-3. Kui monofilament-mõõgaga rünnates teed fumbli, tee Raske Agility kontroll, et vältida enda tabamist. Kui ebaõnnestud, tabab rünnak sind lisaks lähivõitlusrelva fumble tabelis toodud tulemusele. Kahju ignoreerib ½ soomusrüü väärtusest (ümmargusta üles).
-4. Paljudel raketi-relvadel on valangutule võimalused (vaata **Automaattuli**).
-5. Kui sihtmärk on robot, masin või kasutab elektromagnetilist energiat, veere kahju ja tee vastupanu kontroll vs. sihtmärgi CON. Kui õnnestub, on seade uimastatud 1D3+1 vooru (vaata **Uimastamine**). Kui kahju on suurem kui sihtmärgi tabamuspunktid, lüüakse see „teadvusetuks“. EMP-relvade kahju on ajutine ja kaotatud tabamuspunkte saab taastada Remondi kontrolliga.
-6. Hardened soomusrüüga (metall, plast või plaadid) vaenlase vastu teeb flechette-püstol ainult ½ kahju (ümmargusta üles).
-7. Flechette-püstol tulistab flechette-kimpusid, kas ühe „lasu“ või pika valangu, mis tühjendab salve. Iga lask on üks rünnak, tehes 2D4 kahju.
-8. Helivintpüss kahjustab elusaid sihtmärke igal võitlusvoorul, kui see neid edukalt tabab. Elutu sihtmärgi vastu veeretatakse kahju vooru kohta vastupanu kontrollis vs. sihtmärgi CON, soomusrüü väärtus või tabamuspunktid (mängujuhi valikul). Kui sihtmärk kontrollis ebaõnnestub, puruneb see või on kahjustatud ja mitte-funktsionaalne.
-9. Veere kahju ja pane see vastupanu kontrollis vs. sihtmärgi CON. Kui sihtmärk õnnestub, võtavad nad minimaalse kahju (2) asemel veeretatud kahju. Kui sihtmärk kaotab, on nad uimastatud 1D3+1 vooru (vaata **Uimastamine**).
+1. Veereta kahju ja võrdle sihtmärgi VAS-ga vastupanuheites. Kui sihtmärk kaotab, on ta uimastatud 1D3+1 vooruks (vt **Nõrgestamine**).  
+2. Sihtmärgi efektiivne soomuse väärtus selle relva vastu on poolitatud (ülespoole ümardades).  
+3. Kui komistate monofilamentmõõgaga rünnates, tehke Raske Osavuse heide, et vältida enda tabamist. Ebaõnnestumise korral tabab teie rünnak lisaks lähivõitlusrelvade komistamiste tabelile ka teid ennast. Kahju ignoreerib ½ soomusest (ülespoole ümardades).  
+4. Paljudel kaugrelvadel on sarivalu võimalus (vt **Automaatuli**).  
+5. Kui sihtmärk on robot, masin või kasutab elektromagnetilist energiat, veereta kahju ja tee vastupanuheide vs. sihtmärgi VAS. Kui õnnestub, on seade uimastatud 1D3+1 vooruks (vt **Nõrgestamine**). Kui kahju on suurem kui sihtmärgi löögipunktid, lülitub see "teadvusetuks". EMP-relvade kahju on ajutine ja kaotatud löögipunkte saab taastada Parandamise heitega.  
+6. Kõvakattega (metall, plastik, plaadid) soomustatud vaenlase vastu teeb flešett-püstol ainult ½ kahju (ülespoole ümardades).  
+7. Flešett-püstol tulistab flešettide kobaraid, kas ühe "lasuna" või pika sarivaluna, mis tühjendab salve. Iga lask on eraldi rünnak, tehes 2D4 kahju.  
+8. Heliline püss kahjustab elavaid sihtmärke igas võitlusvoorus, mil see neid edukalt tabab. Elutu sihtmärgi puhul veeretataks kahju voorus vastupanuheites vs. sihtmärgi VAS, soomuse väärtus või löögipunktid (mängujuhi valik). Kui sihtmärk ebaõnnestub, see puruneb või saab kahjustada ja muutub mittekasutatavaks.  
+9. Veereta kahju ja võrdle sihtmärgi VAS-ga vastupanuheites. Kui sihtmärk õnnestub, saab ta miinimumkahju (2) veeretaud kahju asemel. Kui sihtmärk kaotab, on ta uimastatud 1D3+1 vooruks (vt **Nõrgestamine**).
 
-> ### Tulirelvade reeglid
+> ### Tulirelvade erireeglid
 > 
-> 7. peatükk: Spot Rules katab palju tulirelvi puudutavaid tingimusi, nagu automaattuli, ulatus jne. Järgnevad lisareeglid. Mängujuht võib valida nende lubamise ka täiendavate raketi-relvade tüüpide katmiseks, nagu energia- või laserrelvad.
+> Seitsmes peatükk: Erireeglid hõlmab paljusid tulirelvadega seotud tingimusi, nagu automaatuli, laskeulatus jne. Järgnevad on täiendavad kasutusreeglid. Teie mängujuht võib valida nende kohaldamise ka muudele kaugrelvadele, nagu energia- või laserrelvad.
 > 
-> #### Soomusrüü ja tulirelvad
+> #### Soomus ja tulirelvad
 > 
-> Varasemate perioodide soomusrüü tüübid on suhteliselt ebaefektiivsed hilisemate perioodide relvade vastu; rüütli soomusrüü pakub vähest kaitset tulirelvade eest. Kõik primitiivsed, iidsed või keskaegsed soomusrüüd pakuvad ainult poolt oma väärtusest tulirelvade vastu (ümmargusta üles). Sama kehtib tänapäevaste soomusrüüdide kohta arenenud relvastuse vastu. Arenenud soomusrüü pakub täit väärtust kõigi relvade vastu. Kokkuvõtteks:
+> Varasemate ajastute soomustüübid on hilisemate ajastute relvade vastu suhteliselt ebaefektiivsed; rüütli soomus pakub tulirelvade eest vähest kaitset. Igasugused primitiivsed, iidsed või keskaegsed soomused omavad tulirelvade vastu vaid poolt oma väärtusest (ülespoole ümardatult). Sama kehtib kaasaegse soomuse kohta täiustatud relvastuse vastu. Täiustatud soomus kaitseb täisväärtusega kõigi relvade eest. Kokkuvõtteks:
 > 
-> * **Primitiivne või iidne** soomusrüü pakub ainult ½ kaitset suure kiirusega või energiarelvade vastu (ümmargusta üles).
-> * **Tänapäevane** soomusrüü pakub ½ kaitset energiarelvastuse vastu (ümmargusta üles).
-> * **Arenenud** soomusrüü pakub täit kaitset kõigi rünnakuvormide vastu. Mängujuht võib otsustada, et arenenud soomusrüü pakub ainult ½ oma soomusrüü väärtusest energiarelvade vastu (ümmargusta üles).
+> * **Primitiivne või iidne** soomus pakub suure kiirusega või energiarelvade vastu vaid ½ kaitset (ülespoole ümardatult).
 > 
-> Kui soomusrüü väärtus määratakse juhuslikult, veere soomusrüü kaitse jaoks, rakenda kõik modifikaatorid, seejärel jaga kahega, ümmargustades üles. Mõned soomusrüüd märgivad juba erinevust käsi- ja suure kiirusega relvade vahel – neid ei pea kaks korda vähendama. Mõned koletiste tüübid võivad samuti olla vastupidavad tulirelvadele, mida on märgitud nende kirjeldustes 11. peatükis: Olendid.
+> * **Kaasaegne** soomus pakub energiarelvade vastu ½ kaitset (ülespoole ümardatult).
+> 
+> * **Täiustatud** soomus pakub täielikku kaitset kõigi rünnakuvormide vastu. Teie mängujuht võib otsustada, et täiustatud soomus kaitseb energiarelvade vastu vaid ½ oma soomuse väärtusest (ülespoole ümardatult).
+> 
+> Kui soomuse väärtus määratakse juhuslikult, veereta soomuse kaitse, rakenda muutjad ja jaga seejärel poolega, ümardades üles. Mõned soomused märgivad juba erinevust lähivõitlusrelvade ja suure kiirusega relvade katvuses – neid ei pea kaks korda vähendama. Mõned koletisteliigid võivad samuti olla tulirelvade suhtes resistentsed, mida on märgitud nende kirjeldustes üheteistkümnendas peatükis: Olendid.
 > 
 > #### Laetud revolverid
 > 
-> Revolveri haamri otse all olevat kambrit jäetakse sageli tühjaks juhusliku lasu vältimiseks. Kui seda praktikat järgitakse, vähenda laskemoona mahutavust 1 võrra. Täislaetud revolveri kandmise ohu rõhutamiseks võib mängujuht nõuda, et sinu tegelane teeks eduka Õnne kontrolli, et vältida juhuslikku lasu, kui sinu tegelane kukub või teda tõugatakse piisavalt tugevalt, et relva potentsiaalselt vallandada. Kui Õnne kontroll õnnestub, revolver ei vallandu. Kui see ebaõnnestub, revolver vallandub ning sinu tegelane ja kõik tema ümber peavad tegema Õnne kontrolli, et vältida eksinud kuuli tabamist. Mängujuht peaks määrama, keda sõbralik tuli tabab. Kui esialgne Õnne kontroll on fumble, tabab kuul sinu tegelast ja teeb tavalist kahju.
+> Revolveri kuke all olevat koda hoitakse sageli tühjana, et vältida juhuslikku laskmist. Kui seda praktikat järgitakse, vähendage laskemoona mahutavust 1 võrra. Täislaetud revolveri kandmise ohu rõhutamiseks võib mängujuht nõuda, et teie tegelane teeks eduka Õnneheite juhusliku laskmise vältimiseks, kui tegelane kukub või teda tõugatakse piisavalt tugevalt, et relv võib vallanduda. Kui Õnneheide õnnestub, revolver ei vallandu. Kui see ebaõnnestub, vallandub revolver ja teie tegelane ning kõik tegelase ümber olevad isikud peavad tegema Õnneheite, et vältida eksinud kuuli tabamist. Mängujuht peaks määrama, keda sõbralik tuli tabab. Kui esialgne Õnneheide on komistamine, tabab kuul teie tegelast ja teeb normaalset kahju.
 > 
 > #### Rikked
 > 
-> Kui sinu tegelase rünnaku kontroll on võrdne relva rikkenumbriga või sellest kõrgem, läheb relv rikki ja ei tulista enne, kui sellega on tegeletud.
+> Kui teie tegelase rünnakuheide on võrdne relva rikkenumbriga või suurem, läheb relv rikki ega tulista enne, kui sellega on tegeletud.
 > 
-> * Kui relv on revolver, poltlukuga vintpüss või kahetoruline püss, on probleemiks ainult kuul.
-> * Kui relv on automaatne, poolautomaatne, pumbatav või hoovaga, on rike kiilumine.
+> * Kui tegemist on revolveriga, poltlukuga püssiga või kahetrummelise haavlipüssiga, on probleemiks vaid äpardunud padrun.
 > 
-> Kuuli saab välja vahetada või eemaldada ühe võitlusvooru jooksul. Kiilumise parandamine võtab 1D6 võitlusvooru ja nõuab edukat oskuse kontrolli kas tulirelva oskuse või Remondi puhul, kumb on kõrgem. Sinu tegelane saab jätkata proovimist, kuni nad õnnestuvad, kusjuures iga katse võtab täiendava 1D6 võitlusvooru. Tulemus 96–00 sellel katsel põhjustab tulirelva pöördumatu kahjustumise ja remondikõlbmatuks muutumise.
+> * Kui relv on automaat, poolautomaat, pumbatav või kangiga juhitav, on rikkeks tõrge.
 > 
-> Fumble võib samuti kattuda rikkega. Kui mõlema tulemused on vastuolulised, peaks mängujuht lahendama need kõige praktilisemas järjekorras, rakendades mõlemaid tulemusi alati, kui võimalik. Muid relvi peale tulirelvade saab samuti rikkuda ja neid saab samal viisil puhastada. Energiarelvade puhul on „dud round“ tõenäoliselt puudulik või vigane laeng.
+> Äpardunud padrunit saab ühe võitlusvooru jooksul edasi kerida või väljutada. Tõrke parandamine võtab 1D6 võitlusvooru ja nõuab edukat oskusheidet kas tulirelvaoskuses või Parandamises, olenevalt sellest, kumb on kõrgem. Teie tegelane saab proovida kuni õnnestumiseni, kusjuures iga katse võtab täiendavad 1D6 võitlusvooru. Heite tulemus 96–00 sellel katsel tähendab tulirelva pöördumatut kahjustumist ja seda ei saa enam niisama parandada.
 > 
-> #### Tulirelvade uuesti laadimine
+> Komistamine võib samuti rikkega kattuda. Kui mõlema tulemused on vastuolulised, peaks mängujuht neid käsitlema kõige praktilisemas järjekorras, rakendades võimalusel mõlemat tulemust. Muud kui tulirelvad võivad samuti rikki minna ja neid saab samamoodi parandada. Energiarelvade puhul on "äpardunud padrun" tõenäoliselt mittetäielik või vigane laeng.
 > 
-> Käsirelva, vintpüssi või püssi kahe kesta või kuuli laadimine võtab ühe võitlusvooru ja salve, energiaelemendi või patareiploki vahetamine võtab ühe võitlusvooru. Kuulipilduja lindi vahetamine võtab kaks võitlusvooru. Kui aeg on kriitiline, on võimalik tulirelva panna üks padrun ja saada üks lask sooritada sinu tegelase tavalisel DEX-i tasemel ½ võrra (ümmargusta üles).
+> #### Tulirelvade laadimine
 > 
-> #### Sihtimata lasud
+> Ühe võitlusvooru võtab kahe padruni või kuuli laadimine mis tahes käsirelva, püssi või haavlipüssi ning ühe võitlusvooru võtab salve, energiakambri või akupaki vahetamine. Kuulipilduja lindi vahetamine võtab kaks võitlusvooru. Kui aeg on kriitiline, on võimalik panna tulirelva üks padrun ja sooritada üks lask ½ teie tegelase normaalsest OSA järjekorranumbrist (ülespoole ümardatult).
 > 
-> Raketirelvade rünnakute arvu kirje (**Attk**) eeldab, et sinu tegelane üritab sihtmärki otse tabada ja teeb katse sihtida. Kui soovid, et sinu tegelane pihustaks ala laskudega, näiteks katte tule pakkumisel, ja täpsus pole mure, saad kahekordistada relva rünnakute arvu ringis, kuid võimalus tabada väheneb 1/5-ni sinu tegelase oskusest (võrdne eriala edu võimalusega, kuigi tulemus on normaalne edu). Kui on rohkem kui üks sihtmärk, peaks mängujuht juhuslikult määrama, kes tabamuse saab. Mängujuhi äranägemisel, kui sinu tegelane on ette valmistunud, varustatud lasersihiku või samaväärse sihtimisseadmega ja tema relvaoskuse tase on üle 60%, ei muudeta tabamise võimalust.
+> #### Sihtimatud lasud
+> 
+> Kaugrelvade rünnakute arvu voorus (**Rün**) eeldab, et teie tegelane üritab sihtmärki otse tabada ja teeb katset sihtida. Kui soovite, et teie tegelane pihustaks piirkonda laskudega, näiteks kattefire pakkumisel, ja täpsus ei ole prioriteet, võite rünnakute arvu voorus kahekordistada, kuid tabamisvõimalus väheneb 1/5-ni teie tegelase oskusest (võrdne erilise õnnestumise võimalusega, kuigi tulemus on normaalne õnnestumine). Kui sihtmärke on rohkem kui üks, peaks mängujuht juhuslikult määrama, keda tabatakse. Mängujuhi äranägemisel, kui tegelane on ette valmistunud, varustatud lasersihikuga või samaväärse sihtimisseadmega ning omab relvaoskust üle 60%, tabamisvõimalust ei muudeta.
 
-## Soomusrüü
+## Soomus
 
-Põhitasemel on soomusrüü kõvenenud riietus. Sõltuvalt mängumaailmast on soomusrüü valmistatud nahast, metallist, plastist või nende materjalide kombinatsioonist ning seda kantakse, et panna midagi kaitsvat enda ja kahjuallika vahele. Soomusrüü on raskem kui tavalised riided ning sageli ebamugav ja kohmakas kanda. Kui sinu tegelane on sõdalane, on nad soomusrüüs tõenäoliselt mugavamad kui tavaline inimene, kuigi soomusrüü kandmine pole harva mugavam kui ilma selleta.
+Põhitasemel on soomus karastatud riietus. Sõltuvalt seadistusest on soomus valmistatud nahast, metallist, plastikust või nende materjalide kombinatsioonist ning seda kantakse, et luua kaitse enda ja kahjuallika vahele. Soomus on raskem kui tavaline riietus ja sageli ebamugav ja kohmakas kanda. Kui teie tegelane on sõdalane, tunneb ta end soomuses tõenäoliselt mugavamalt kui tavainimene, ehkki soomuse kandmine pole harva mugavam kui ilma selleta olemine.
 
-Selles jaotises kirjeldatud soomusrüü on kategoriseeritud lõdvalt kronoloogiliselt, viitamiseks. Enamikul juhtudel on varasema perioodi soomusrüü kättesaadav hilisematel perioodidel, seega võib mängujuht valida, kus soomusrüü kättesaadavus lõpeb, ja lubada sinu tegelasel ligipääsu varasematele tüüpidele.
+Selles jaotises kirjeldatud soomus on viitamise eesmärgil liigitatud kronoloogiliselt. Enamikul juhtudel on varasema perioodi soomus saadaval ka hilisemate perioodide inimestele, seega võib mängujuht valida, kus soomuse kättesaadavus lõpeb, ja lubada teie tegelasele juurdepääsu varasematele tüüpidele.
 
-Igal soomusrüü tüübil on järgmised atribuudid:
+Igal soomusetüübil on järgmised atribuudid:
 
-* **Nimi**: Üldnimetus.
-* **AV**: Soomusrüü väärtus, kaitse hulk.
-* **Juhuslik AV**: (Valikuline) See on soomusrüü väärtus, kui kasutatakse juhuslikke soomusrüü väärtusi.
-* **Koormus**: Soomusrüü kohmakus või suhteline koormus. Mängujuht võib seda väärtust kasutada valikulise väsimussüsteemiga.
-* **ENC**: See väärtus on mõeldud keskmise SIZ-iga (11–15) tegelasele. SIZ-ide 6–10 puhul korruta ENC väärtus 0.8-ga; SIZ 16–20 puhul korruta väärtus 1.2-ga; SIZ 21–25 puhul korruta see 1.4-ga jne (ümmargusta üles).
-* **Oskuste modifikaator**: Modifikaator teatud oskustele või oskuste kategooriatele soomusrüü kandmise ajal, mida rakendatakse ka kõigile asjakohastele oskustele.
-* **Sobiv SIZ**: Kõrvalekalle, mida soomusrüü vaikimisi SIZ võib mahutada oma vaikeväärtusest, väljendatuna positiivse või negatiivse väärtusena.
-* **Aeg**: Mitu võitlusvooru kulub soomusrüü selgapanekuks.
-* **Asukohad**: (Valikuline) Kui kasutatakse tabamiskohti, siis soomusrüüga kaetud tabamiskohad.
-* **Väärtus**: Soomusrüü maksumus keskmises maailmas.
+* **Nimi**: Tavapärane nimi.
 
-Erinevalt relvadest ja kilpidest ei kannata soomusrüü tavaliselt kahju, välja arvatud keskkonnategurite tõttu. Soomusrüü on mõeldud kaitseks; see talub palju lööke. Soomusrüü väärtust ei vähendata kunagi lahingus kahju läbi – selle asemel peab iga muutus soomusrüü väärtuses tulema mingist erandlikust sündmusest.
+* **AV**: Soomuse väärtus, summa, mille võrra soomus kaitseb.
 
-### Soomusrüü kirjeldused
+* **Juhuslik AV**: (Valikuline) See on soomuse väärtus, kui kasutatakse juhuslikke soomuse väärtusi.
 
-See jaotis kirjeldab kõiki soomusrüü tüüpe, tähestikuliselt.
+* **Koormus**: Soomuse kohmakus või suhteline koormus. Mängujuht võib seda väärtust kasutada valikulise väsimussüsteemiga.
 
-**Kohanev võrk:** See kõrgtehnoloogiline riie kõveneb ja reageerib löökidele, kuid jääb ülejäänud ajal paindlikuks ja mugavaks. Tavaliselt kantakse kui kehakostüümi, seda saab kihtidena kanda teiste soomusrüüde all.
+* **Koorm (ENC)**: See väärtus on mõeldud keskmise SUU-ga tegelasele (11–15). SUU 6–10 korral korrutage ENC väärtus 0,8-ga; SUU 16–20 korral korrutage väärtus 1,2-ga; SUU 21–25 korral korrutage see 1,4-ga jne (ülespoole ümardatult).
 
-**Rünnakusoomusrüü, kerge:** Sõdurite poolt kasutatav kerge soomusrüü, et seista vastu käsivõitlusrelvadele, tahketele mürskudele ning energiarelvadele. Valmistatud keraamikast, sulamitest või suure mõjuga plastidest.
+* **Oskusmuutja**: Muutja teatud oskustele või oskuskategooriatele soomuse kandmise ajal, mida rakendatakse ka kõigile asjakohastele oskustele.
 
-**Rünnakusoomusrüü, standardne:** Raske soomusrüü, valmistatud lahinguteks ohtlikes keskkondades. Valmistatud keraamikast, sulamitest või vastupidavatest plastidest, pakub rünnakusoomusrüü pealaest jalatallani kaitset ja on sõjaväe seas eelistatud.
+* **Sobiv SUU**: Kõrvalekalle, mida soomuse vaikimisi SUU võib selle vaikimisi SUU-st taluda, väljendatuna positiivse või negatiivse väärtusena.
 
-**Rünnakusoomusrüü (raske), võimendatud:** Sarnane standardsele rünnakusoomusrüüle, kuid massiivsem ja paksemate soomusplaatidega. Sisemised servomootorid võimendavad kandja jõudu. Võitlejad võimendatud rasketes rünnakusoomusrüüdes kasutavad sageli massiivseid relvi. Raam võtab vastu modulaarseid täiendusi (näiteks reaktiivmootor) ja on suletud keemiarelvade ning kosmosevaakumi vastu.
+* **Aeg**: Mitu võitlusvooru kulub soomuse selga panemiseks.
 
-**Rünnakusoomusrüü (kerge), võimendatud:** Sarnane raskele võimendatud rünnakusoomusrüüle, kuid kergem ja puuduvad lisad nagu suletud süsteemid.
+* **Asukohad**: (Valikuline) Kui kasutatakse tabamiskohti, siis soomusega kaetud tabamiskohad.
 
-**Ballistiline riie:** Valmistatud aramiidkiust, ballistiline riidest soomusrüü pakub mõõdukat kaitset kuulide eest, kuigi mitte nii palju kui kuulikindel vest. Tavaliselt kantakse tänavariiete all või on valmistatud sarnanema tavaliste riietega.
+* **Väärtus**: Soomuse maksumus keskmises keskkonnas.
+
+Erinevalt relvadest ja kilpidest ei saa soomus üldiselt kahjustada, välja arvatud keskkonnategurite tõttu. Soomus on mõeldud kaitseks; see talub palju lööke. Soomuse väärtust ei vähendata kunagi lahingus saadud kahjuga – selle asemel peab soomuse väärtuse muutus tulema mõnest erakordsest sündmusest.### Soomuse kirjeldused
+
+Selles jaotises kirjeldatakse kõiki soomustüüpe tähestikulises järjekorras.
+
+**Kohanduv võrk (Adaptive Mesh):** See kõrgtehnoloogiline riie kõveneb ja reageerib löökidele, kuid jääb ülejäänud ajal paindlikuks ja mugavaks. Tavaliselt kantakse kehakombinesoonina, seda saab kanda teiste soomuste all.
+
+**Rünnakusoomus, kerge:** Sõdurite poolt lähivõitlusrelvade, tahkete mürskude ning energiarelvade vastu kasutatav kerge soomus. Valmistatud keraamikast, sulamitest või suure löögikindlusega plastidest.
+
+**Rünnakusoomus, standardne:** Raske soomus, mis on loodud lahinguteks ohtlikes keskkondades. Keraamikast, sulamitest või vastupidavast plastist valmistatud rünnakusoomus pakub kaitset pealaest jalatallani ja on sõjaväe seas eelistatud.
+
+**Rünnakusoomus (raske), jõuseadmega:** Sarnane standardsele rünnakusoomusele, kuid massiivsem ja paksemate soomusplaatidega. Sisemised servomootorid suurendavad kandja JÕU-d. Jõuseadmega raskes rünnakusoomuses võitlejad kannavad sageli massiivseid relvi. Raamile saab paigaldada modulaarseid täiendusi (näiteks reaktiivmootoriga seljakott) ja see on hermeetiline keemiarelvade ning kosmosevaakumi vastu.
+
+**Rünnakusoomus (kerge), jõuseadmega:** Sarnane raskele jõuseadmega rünnakusoomusele, kuid kergem ja ilma lisadeta, nagu hermeetilised süsteemid.
+
+**Ballistiline riie:** Aramiidkiust valmistatud ballistilisest riidest soomus pakub mõõdukat kaitset kuulide eest, kuigi mitte nii palju kui kuulikindel vest. Tavaliselt kantakse tänavariiete all või valmistatakse tavaliste riiete sarnasena.
 
 **Kuulikindel vest, varajane:** Kuulikindla vesti vanem variant, raske ja kohmakas, paksenenud metallplaatidega segmenteeritud lõuendvestis.
 
-**Kuulikindel vest, tänapäevane:** Kuulikindla vesti evolutsioon, kasutades suure mõjuga metallisulameid ja plastmassi kergema, õhema kaitse jaoks.
+**Kuulikindel vest, moodne:** Kuulikindla vesti edasiarendus, mis kasutab suure löögikindlusega metallisulameid ja plaste kergema ja õhema kaitsevormi jaoks.
 
-**Kettsoomusrüü:** See soomusrüü koosneb kootud metallist lülidest. See on äärmiselt paindlik, kuid üsna raske.
+**Rõngassoomus:** See soomus koosneb kootud metallrõngastest võrgust. See on äärmiselt paindlik, kuid üsna raske.
 
-**Rõivad, rasked:** Võrdne raske keepi, talvejope, pingul nahkriiete või mitmekihiliste riiete kandmisega.
+**Riietus, raske:** Võrdne raske mantli, talvejope, kitsaste nahkriiete või mitmekihilise riietuse kandmisega.
 
-**Energiasoomusrüü:** See soomusrüü koosneb vööl või õlgade vahel seljas kantavast sisemisest toiteplokist ja võib-olla jaotatud üle keha emitteritest. Aktiveerimisel katab see tegelase kaitsva energiaümbrisega.
+**Energiasoomus:** See soomus koosneb sisemisest toiteplokist, mida kantakse vööl või õlgadel, ja mis on tõenäoliselt ühendatud üle keha jaotatud kiirguritega. Aktiveerituna katab see tegelase kaitsva energiaümbrisega.
 
-**Killuvest:** See on täisjakk, sarnane varajase kuulikindla vestiga, kuigi vähem soomustatud, kasulik pilootidele ja maavägedele.
+**Kildvest:** See on varajase kuulikindla vesti sarnane täispikk jope, ehkki vähem soomustatud, kasulik nii pilootidele kui ka maavägedele.
 
-**Kiiver, raske või kerge:** Peaaegu kõigil neil soomusrüü tüüpidel on kiivrid. Täielikud soomusrüü komplektid sisaldavad kiivreid. Kui kiivrit ei kanta, vähenda soomusrüü väärtust -1 võrra kerge kiivri puhul ja -2 võrra raske kiivri puhul. Kui kasutad juhuslikke soomusrüü väärtusi, muuda vahemikku vastavalt -1 või -2 võrra. Kui kasutatakse tabamiskohti, on kiivril sama kaitseväärtus nagu vastava soomusrüü materjali käel või jalal.
+**Kiiver, raske või kerge:** Peaaegu kõigil neil soomustüüpidel on kiivrid. Täisvarustuses soomused sisaldavad tavaliselt kiivreid. Kui kiivrit ei kanta, vähendage soomusväärtust –1 võrra kerge kiivri puhul ja –2 võrra raske kiivri puhul. Juhuslike soomusväärtuste kasutamisel muutke vahemikku vastavalt –1 või –2 võrra. Kui kasutatakse tabamiskohti, on kiivril sama kaitseväärtus kui asjakohase soomusmaterjali käel või jalal.
 
-**Nahk, loomanahk:** Pargitud või parkimata loomanahk, mida kantakse keepi või rõivana, karv puutumata.
+**Nahk (Hide):** Pargitud või parkimata loomnahk, mida kantakse mantli või rõivana, karusnahk sees.
 
-**Lamellaarne (stud-itud, splintitud):** See soomusrüü koosneb õhukestest metallribadest (splintid), mis on tavaliselt neetidega (studs) nahktoele kinnitatud.
+**Lamellaar (neetitud, liistudega):** See soomus koosneb õhukestest metallribadest (liistudest), mis on tavaliselt neetidega (neetidega) nahkaluse külge kinnitatud.
 
-**Nahk, pehme:** Võrdne nahkjaki või vestiga, pehmet nahka kantakse sageli teise soomusrüü all täiendava polsterduse ja kaitsena.
+**Nahk, pehme:** Võrdne nahkjakiga või vestiga, pehmet nahka kantakse sageli teiste soomuste all täiendava polsterduse ja kaitse jaoks.
 
-**Nahk, kõva:** See on võrdne poole sentimeetri paksuse pargitud nahaga, umbes nii paks kui kingatald. Sellel võivad olla nahast naastud või reljeefne töö.
+**Nahk, kõva:** See on võrdne poole sentimeetri paksuse pargitud nahaga, umbes sama paks kui kingatald. Sellel võib olla nahkneedid või reljeefne töö.
 
-**Nahk, cuirbouilli:** Paks ja pooljäik nahk, mida on pargitud ja keedetud õlis ja vahas, seejärel vormitud kandja vormi. Seda on sageli kaunistatud ja värviliselt peitsitud.
+**Nahk, keedetud (Cuirbouilli):** Paks ja pooljäik nahk, mida on pargitud ja õlis ning vahas keedetud, seejärel vormitud kandja kuju järgi. See on sageli kaunistatud ja värviliselt peitsitud.
 
-**Polsterdatud/tepitud:** See soomusrüü koosneb jäigastatud paksu riide kihtidest, mis on kokku õmmeldud nagu padi või tekk. Odav ja lihtne valmistada, see ei paku väga palju kaitset, kuigi seda saab kanda metallist soomusrüüde nagu poolplaatsoomusrüü ja kettsoomusrüü all.
+**Polsterdatud/tepitud:** See soomus koosneb jäigastatud paksust riidest kihtidest, mis on kokku õmmeldud nagu polster või tekk. Odav ja kergesti valmistatav, see ei paku väga suurt kaitset, kuigi seda saab kanda metallsoomuse, nagu poolsoomuse ja rõngassoomuse all.
 
-**Polsterdatud/tepitud, raske:** Sarnane polsterdatud või tepitud soomusrüüle, kuid raskem ja paksem.
+**Polsterdatud/tepitud, raske:** Sarnane polsterdatud või tepitud soomusele, kuid raskem ja paksem.
 
-**Plaat, poolplaat:** See soomusrüü koosneb osalisest plaatsoomusrüü komplektist (vaata allpool), mis ei kata kogu keha. Tavaliselt on see rinna-plaat, kiiver ja mõned väiksemad osad, ülejäänud on kaetud kettsärgi või nahaga.
+**Poolsoomus (Half plate):** See soomus koosneb osalisest soomuskomplektist (vt allpool), mis ei kata kogu keha. Tavaliselt on see rinnaplaat, kiiver ja mõned väiksemad osad, kusjuures ülejäänud osa katab rõngassoomus.
 
-**Plaat, täisplaat:** See soomusrüü koosneb tugevatest metallplaatidest, mis on vormitud keha järgi ja hoitud koos kaetud nahkrihmadega. Ajalooliselt oli see parem kui ükski teine kehasoomusrüü tüüp, kuid täismetallist konstruktsioon teeb selle kõige raskemaks ja kõige vähem mugavaks.
+**Täissoomus (Full plate):** See soomus koosneb kindlatest metallplaatidest, mis on vormitud keha järgi ja hoitud koos kaetud nahkrihmadega. Ajalooliselt oli see parem kui mis tahes muu kehasoomuse tüüp, kuid täismetallist konstruktsioon teeb selle kõige raskemaks ja kõige vähem mugavaks.
 
-**Rõngassoomusrüü:** See on pehme nahk või muu tugi, millele on metallrõngad õmmeldud tihedas või kattuvas mustris.
+**Rõngasvooder:** See on pehme nahk või muu alus, millele on tihedas või kattuvas mustris õmmeldud metallrõngad.
 
-**Mässuvarustus:** Raske kuulikindel jope ja karastatud riiete kombinesoon, plaatidega strateegilistes kehaosades ja kiivriga.
+**Mässutõrjevarustus:** Raske kuulikindel jope ja tugevdatud riietusest kombinesoon, strateegilistes kehaosades plaatide ja kiivriga.
 
-**Soomusskaala (soomusskaala):** Skaalasoomusrüü (mõnikord nimetatud skaalasärgi soomuseks) koosneb kattuvatest erineva kuju ja suurusega metallkaaludest, mis on kinnitatud toele.
+**Soomussoomus (Scale):** Soomussoomus (mõnikord nimetatakse soomusrüüks) koosneb erineva kuju ja suurusega kattuvatest metallsoomustest, mis on kinnitatud alusele.
 
-**Splint:** Vaata lamellaarse kirjeldust.
+**Liistudega (Splint):** Vt lamellaari kirjeldust.
 
-**Stud-itud:** Vaata lamellaarse kirjeldust.
+**Neetitud (Studded):** Vt lamellaari kirjeldust.
 
-##### Primitiivsed soomusrüüd
+##### Primitiivsed soomused
 
-| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuse modifikaator | Sobiv SIZ | Aeg | Asukohad | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kiiver | +1 | +1 punkt | Kerge | 0.5 | –5% tajuoskustele | ±1 | 1 | Pea | Odav |
-| Nahk, loomanahk | 1 | 1D3–1 | Kerge | 3.5 | Puudub | ±3 | 1 | Kõik | Odav |
+| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuste muutja | Sobib SUU-le | Aeg | Asukohad | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kiiver | +1 | +1 punkt | Kerge | 0.5 | –5% Tajuoskustele | ±1 | 1 | Pea | Odav |
+| Nahk (Hide) | 1 | 1D3–1 | Kerge | 3.5 | Puudub | ±3 | 1 | Kõik | Odav |
 
-##### Iidne ja keskaegne soomusrüü
+##### Iidsed ja keskaegsed soomused
 
-| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuse modifikaator | Sobiv SIZ | Aeg | Asukohad | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kettsoomusrüü | 7 | 1D8–1 | Mõõdukas | 20.0 | –20% füüsilistele oskustele | -2 | 3 | Kõik | Kallis |
-| Rõivad, rasked | 1 | 1d2–1 | Puudub | 2.5 | Puudub | ±2 | 1 | Kõik | Odav |
-| Kiiver, raske | +2 | +2 punkti | Kerge | 2.5 | –50% tajuoskustele | ±0 | 1 | Pea | Keskmine |
-| Kiiver, kerge | +1 | +1 punkt | Puudub | 1.5 | –15% tajuoskustele | ±1 | 1 | Pea | Odavapoolne |
-| Lamellaarne | 6 | 1D8–1 | Mõõdukas | 18.0 | –15% füüsilistele oskustele | ±1 | 2 | Kõik peale pea | Kallis |
-| Nahk, pehme | 1 | 1D6–1 | Kerge | 3.5 | Puudub | ±2 | 2 | Kõik | Odavapoolne |
-| Nahk, kõva | 2 | 1D6 | Mõõdukas | 5.0 | –10% füüsilistele oskustele | ±1 | 2 | Kõik | Keskmine |
-| Nahk, Cuirbouill | 3 | 2D3 | Kerge | 5.0 | –10% füüsilistele oskustele | ±0 | 2 | Kõik | Kallis |
-| Polsterdatud/tepitud | 1 | 1D2–1 | Puudub | 3.0 | Puudub | ±2 | 1 | Kõik | Odavapoolne |
-| Polsterdatud/tepitud, raske | 2 | 1D3–1 | Kerge | 4.0 | –5% füüsilistele oskustele | ±1 | 2 | Kõik | Odavapoolne |
-| Täisplaat | 8 | 1D10 | Kohmakas | 25.0 | –25% füüsilistele oskustele | -1 | 5 | Kõik peale pea | Kallis |
-| Poolplaat | 7 | 1D8 | Mõõdukas | 18.0 | –20% füüsilistele oskustele | -1 | 4 | Kõik peale pea | Kallis |
-| Rõngassoomusrüü | 5 | 1D6 | Kerge | 10.0 | –10% füüsilistele oskustele | ±1 | 2 | Kõik peale pea | Keskmine |
-| Skaalasoomusrüü | 6 | 2D4–1 | Mõõdukas | 20.0 | –15% füüsilistele oskustele | ±1 | 2 | Kõik peale pea | Keskmine |
+| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuste muutja | Sobib SUU-le | Aeg | Asukohad | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Rõngassoomus | 7 | 1D8–1 | Mõõdukas | 20.0 | –20% Füüsilistele oskustele | -2 | 3 | Kõik | Kallis |
+| Riietus, raske | 1 | 1d2–1 | Puudub | 2.5 | Puudub | ±2 | 1 | Kõik | Odav |
+| Kiiver, raske | +2 | +2 punkti | Kerge | 2.5 | –50% Tajuoskustele | ±0 | 1 | Pea | Keskmine |
+| Kiiver, kerge | +1 | +1 punkt | Puudub | 1.5 | –15% Tajuoskustele | ±1 | 1 | Pea | Odav |
+| Lamellaar | 6 | 1D8–1 | Mõõdukas | 18.0 | –15% Füüsilistele oskustele | ±1 | 2 | Kõik v.a pea | Kallis |
+| Nahk, pehme | 1 | 1D6–1 | Kerge | 3.5 | Puudub | ±2 | 2 | Kõik | Odav |
+| Nahk, kõva | 2 | 1D6 | Mõõdukas | 5.0 | –10% Füüsilistele oskustele | ±1 | 2 | Kõik | Keskmine |
+| Nahk, keedetud | 3 | 2D3 | Kerge | 5.0 | –10% Füüsilistele oskustele | ±0 | 2 | Kõik | Kallis |
+| Polsterdatud/tepitud | 1 | 1D2–1 | Puudub | 3.0 | Puudub | ±2 | 1 | Kõik | Odav |
+| Polsterdatud/tepitud, raske | 2 | 1D3–1 | Kerge | 4.0 | –5% Füüsilistele oskustele | ±1 | 2 | Kõik | Odav |
+| Täissoomus | 8 | 1D10 | Kohmakas | 25.0 | –25% Füüsilistele oskustele | -1 | 5 | Kõik v.a pea | Kallis |
+| Poolsoomus | 7 | 1D8 | Mõõdukas | 18.0 | –20% Füüsilistele oskustele | -1 | 4 | Kõik v.a pea | Kallis |
+| Rõngasvooder | 5 | 1D6 | Kerge | 10.0 | –10% Füüsilistele oskustele | ±1 | 2 | Kõik v.a pea | Keskmine |
+| Soomussoomus | 6 | 2D4–1 | Mõõdukas | 20.0 | –15% Füüsilistele oskustele | ±1 | 2 | Kõik v.a pea | Keskmine |
 
-##### Tänapäevane soomusrüü
+##### Moodsad soomused
 
-| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuse modifikaator | Sobiv SIZ | Aeg | Asukohad | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ballistiline riie | 3/51 | 1D3/1D6–1 | Kerge | 4.0 | –10% füüsilistele oskustele | ±1 | 1 | Käed, rind | Kallis |
-| Kuulikindel vest, varajane | 4 | 1D4 | Mõõdukas | 11.0 | –25% füüsilistele oskustele | ±1 | 2 | Rind | Kallis |
-| Kuulikindel vest, tänapäevane | 4/81 | 1D4/1D8 | Kerge | 8.0 | –5% füüsilistele oskustele | ±3 | 2 | Rind | Kallis |
-| Rõivad, rasked | 1 | 1D2–1 | Puudub | 2.5 | Puudub | ±2 | 1 | Kõik | Odav |
-| Killuvest | 4 | 1D4 | Mõõdukas | 8.0 | –10% füüsilistele oskustele | ±2 | 1 | Käed, rind | Kallis |
-| Kiiver, raske | +6 | +3 punkti | Kerge | 3.5 | –25% tajuoskustele | ±1 | 1 | Pea | Keskmine |
-| Kiiver, ight | +3 | +2 punkti | Puudub | 2.5 | –10% tajuoskustele | ±2 | 1 | Pea | Odavapoolne |
-| Mässuvarustus | 12/61 | 1D10+2 | Mõõdukas | 12.0 | –10% füüsilistele oskustele | ±1 | 5 | Kõik2 | Kallis |
+| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuste muutja | Sobib SUU-le | Aeg | Asukohad | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Ballistiline riie | 3/51 | 1D3/1D6–1 | Kerge | 4.0 | –10% Füüsilistele oskustele | ±1 | 1 | Käed, rind | Kallis |
+| Kuulikindel vest, varajane | 4 | 1D4 | Mõõdukas | 11.0 | –25% Füüsilistele oskustele | ±1 | 2 | Rind | Kallis |
+| Kuulikindel vest, moodne | 4/81 | 1D4/1D8 | Kerge | 8.0 | –5% Füüsilistele oskustele | ±3 | 2 | Rind | Kallis |
+| Riietus, raske | 1 | 1D2–1 | Puudub | 2.5 | Puudub | ±2 | 1 | Kõik | Odav |
+| Kildvest | 4 | 1D4 | Mõõdukas | 8.0 | –10% Füüsilistele oskustele | ±2 | 1 | Käed, rind | Kallis |
+| Kiiver, raske | +6 | +3 punkti | Kerge | 3.5 | –25% Tajuoskustele | ±1 | 1 | Pea | Keskmine |
+| Kiiver, kerge | +3 | +2 punkti | Puudub | 2.5 | –10% Tajuoskustele | ±2 | 1 | Pea | Odav |
+| Mässutõrjevarustus | 12/61 | 1D10+2 | Mõõdukas | 12.0 | –10% Füüsilistele oskustele | ±1 | 5 | Kõik2 | Kallis |
 
-1. Esimene väärtus on lähivõitluse või madala kiirusega raketirelvade vastu; teine väärtus on tulirelvade vastu.
+1. Esimene väärtus on lähivõitluse või madala kiirusega mürskude vastu; teine väärtus on tulirelvade vastu.
 2. Sisaldab kiivrit.
 
-##### Arenenud soomusrüü
+##### Täiustatud soomused
 
-| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuse modifikaator | Sobiv SIZ | Aeg | Asukohad | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kohanev võrk | 6 | 1D4+2 | Kerge | 2.0 | –5% füüsilistele oskustele | ±1 | 1 | Kõik | Kallis |
-| Rünnakusoomusrüü, kerge | 8 | 2D6 | Mõõdukas | 12.0 | –10% füüsilistele oskustele | ±1 | 2 | Kõik1 | Kallis |
-| Rünnakusoomusrüü | 10 | 2D4+2 | Mõõdukas | 16.0 | –25% füüsilistele oskustele | ±1 | 3 | Kõik1 | Kallis |
-| Energiasoomusrüü | 1–202 | —2 | Kerge | 4.0 | –5% Peitmise, varguse ja tajuoskustele AV kohta | Iga | 2 | Kõik3 | Kallis |
-| Kiiver, raske | +4 | +4 | Kerge | 5.0 | –15% tajuoskustele | ±1 | 1 | Pea | Keskmine |
-| Kiiver, kerge | +3 | +2 | Puudub | 2.0 | –5% tajuoskustele | ±2 | 1 | Pea | Keskmine |
-| Võimendatud rünnakusoomusrüü, kerge4 | 14 | 2D6+2 | Kohmakas | 36.0 | –20% füüsilistele ja manipulatsiooni oskustele | ±1 | 4 | Kõik | Hindamatu |
-| Võimendatud rünnakusoomusrüü, raske5 | 16 | 4D4 | Kohmakas | 48.0 | –50% füüsilistele ja manipulatsiooni oskustele | ±1 | 5 | Kõik | Hindamatu |
+| Nimi | AV | Juhuslik AV | Koormus | ENC | Oskuste muutja | Sobib SUU-le | Aeg | Asukohad | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kohanduv võrk | 6 | 1D4+2 | Kerge | 2.0 | –5% Füüsilistele oskustele | ±1 | 1 | Kõik | Kallis |
+| Rünnakusoomus, kerge | 8 | 2D6 | Mõõdukas | 12.0 | –10% Füüsilistele oskustele | ±1 | 2 | Kõik1 | Kallis |
+| Rünnakusoomus | 10 | 2D4+2 | Mõõdukas | 16.0 | –25% Füüsilistele oskustele | ±1 | 3 | Kõik1 | Kallis |
+| Energiasoomus | 1–202 | —2 | Kerge | 4.0 | –5% Peitumise, hiilimise ja tajuoskustele AV kohta | Igaüks | 2 | Kõik3 | Kallis |
+| Kiiver, raske | +4 | +4 | Kerge | 5.0 | –15% Tajuoskustele | ±1 | 1 | Pea | Keskmine |
+| Kiiver, kerge | +3 | +2 | Puudub | 2.0 | –5% Tajuoskustele | ±2 | 1 | Pea | Keskmine |
+| Rünnakusoomus (kerge), jõuseadmega4 | 14 | 2D6+2 | Kohmakas | 36.0 | –20% Füüsilistele ja manipulatsiooni-oskustele | ±1 | 4 | Kõik | Hindamatu |
+| Rünnakusoomus (raske), jõuseadmega5 | 16 | 4D4 | Kohmakas | 48.0 | –50% Füüsilistele ja manipulatsiooni-oskustele | ±1 | 5 | Kõik | Hindamatu |
 
 1. Sisaldab kiivrit.
-2. Energiasoomusrüü saab kandja määrata mis tahes väärtusele 1 ja 20 AV punkti vahel. Iga võitlusvoor tarbib soomusrüü laenguid (võimepunkte), mis võrduvad selle AV-ga. Standardne soomusrüü toiteallikas hoiab 200 laengut; iga neelatud kahjupunkt maksab 1 lisalaengu. Energiasoomusrüü ei võimalda juhuslikku soomusrüü väärtust; kasuta määratud AV-d. AV reguleerimiseks kulub 5 DEX rida.
-3. Ei saa kanda koos teise soomusrüüga.
-4. Kerge võimendatud rünnakusoomusrüü muudab STR-i +3 ja DEX-i –3 võrra (kandmisel reguleeri asjakohaseid väärtusi). Soomusrüü sisaldab kiivrit.
-5. Raske võimendatud rünnakusoomusrüü muudab STR-i +6 ja DEX-i –6 võrra (kandmisel reguleeri asjakohaseid väärtusi). Soomusrüü sisaldab kiivrit.
+2. Energiasoomust saab kandja seadistada mis tahes väärtusele 1–20 AV punkti vahel. Igal lahinguringil kulutab soomus AV-ga võrdse arvu laenguid (energiapunkte). Standardne soomuse toiteplokk mahutab 200 laengut; iga neelatud kahjupunkt maksab 1 lisalaengu. Energiasoomus ei võimalda juhuslikku soomusväärtust; kasutage seadistatud AV-d. AV reguleerimine võtab 5 OSA järku.
+3. Ei saa kanda koos teiste soomustega.
+4. Kerge jõuseadmega rünnakusoomus muudab JÕU-d +3 ja OSA-d –3 (reguleerige vastavaid väärtusi kandmisel). Soomus sisaldab kiivrit.
+5. Raske jõuseadmega rünnakusoomus muudab JÕU-d +6 ja OSA-d –6 (reguleerige vastavaid väärtusi kandmisel). Soomus sisaldab kiivrit.
 
-> ### Soomusrüü erireeglid
+> ### Soomuse erireeglid
 > 
-> Järgmised reeglid kehtivad erinevates olukordades, mis hõlmavad soomusrüüd.
+> Järgnevad reeglid kehtivad erinevates olukordades, mis on seotud soomusega.
 > 
-> #### Soomusrüü koormus
+> #### Soomuse koormus (ENC)
 > 
-> Soomusrüü koormus (ENC) sõltub seda kandva tegelase SIZ-ist. Tegelase SIZ määrab enamikul juhtudel soomusrüü SIZ-i. Iga +5 SIZ juurdekasv lisab soomusrüü ENC-le, olles raskem, kuumem, kohmakam kanda jne. SIZ-id 11–15 on standardsed. Iga 5-punktiline SIZ-i samm sellest vahemikust allapoole on 1/5 võrra vähem koormav. Järgmisi ENC väärtusi saab kasutada tabamiskohtade jaoks.
+> Soomuse koormus (ENC) sõltub seda kandva tegelase SUU-st. Tegelase SUU määrab enamikul juhtudel soomuse SUU. Iga +5 SUU juurdekasv lisandub soomuse ENC-le, olles raskem, kuumem, kohmakam kanda jne. SUU 11–15 on standard. Iga 5-punktine SUU juurdekasv sellest vahemikust allpool on 1/5 võrra vähem koormav. Järgmisi ENC väärtusi saab kasutada tabamiskohtade jaoks.
 > 
-> | Tabamiskoht | ENC osa |
-> | :--- | :--- |
+> | Tabamiskoht | ENC murdosa |
+> | :---- | :---- |
 > | Pea | 1/10 |
-> | Käsi | 1/10 mõlemad |
+> | Käsi | 1/10 igal |
 > | Rind | 1/5 |
 > | Kõht | 1/10 |
-> | Jalg | 1/5 mõlemad |
+> | Jalg | 1/5 igal |
 > 
-> #### Soomusrüü kihtidena kandmine
+> #### Soomuse kihistamine
 > 
-> On võimalik kanda pehmet soomusrüüd kõva soomusrüü all või peal, et pakkuda täiendavat kaitset. Ainult pehmet, paindlikku soomusrüüd, nagu raske riie, polsterdatud või pehme nahk, saab hõlpsasti kanda kihtidena koos muude soomusrüüdega ja need lisavad oma tavalise soomusrüü väärtuse ning ENC väärtuse. Kui proovid kattuda muuga kui pehme soomusrüüga, liida kokku soomusrüü väärtus, kuid kolmekordista nõrgema soomusrüü ENC.
+> Võimalik on kanda pehmet soomust kõva soomuse all või peal, et pakkuda lisakaitset. Ainult pehmet, painduvat soomust, nagu raske riie, polsterdatud või pehme nahk, saab hõlpsasti kihistada teiste soomustega ja need lisavad oma tavalise soomusväärtuse ning oma ENC väärtuse. Kui proovite kombineerida muud kui pehmet soomust kõvaga, liitke soomusväärtused kokku, kuid kolmekordistage vähema soomuse ENC.
 > 
-> #### Soomusrüü selgapanek
+> #### Soomuse selgapanemine
 > 
-> Mõnda tüüpi soomusrüüd on keerulisem selga panna kui igapäevaseid riideid. Kinnitamiseks on rihmad ja pandlad, selga panemiseks on mitu tükki ning võib olla mitu kihti. Iga soomusrüü komplekti pakutava kaitsepunkti kohta kulub selgapanekuks üks võitlusvoor, eeldades, et sinu tegelane on valmis, soomusrüü on välja pandud ja puuduvad ohtlikud või segavad keskkonnaelemendid. Mängujuht võib suurendada sellele kuluvat aega, kui tegelane on eelnevalt segatud või magab, või keerulistes oludes (jooksmine, raskelt vigastatud, pimedus, veealune, ratsutamine jne). See võib nõuda Agility või Ideea kontrolli, kui oled piisavalt segatud või ebamugavas olukorras.
+> Mõnda tüüpi soomust on keerulisem selga panna kui igapäevariideid. Kinnitamiseks on rihmad ja pandlad, selga on vaja panna mitu osa ja võib olla mitu kihti. Soomuse selgapanemine võtab aega ühe lahinguringi iga soomuse pakutava kaitsepunkti kohta, eeldades, et teie tegelane on valmis, soomus on lahti laotatud ja puuduvad ohtlikud või segavad keskkonnaelemendid. Teie mängujuht võib aega pikendada, kui tegelane oli varem tähelepanu hajunud või magas, või keerulistes tingimustes (jooksmine, raskelt vigastatud, pimedus, veealune, ratsa jne). See võib vajada Väleduse või Ideede veeretust, kui tegelane on piisavalt segatud või häiritud.
 > 
-> #### Soomusrüü äravõtmine
+> #### Soomuse äravõtmine
 > 
-> Soomusrüü äravõtmine on palju lihtsam kui selgapanek, kuna sinu tegelane ei pea veenduma, et iga tükk oleks korralikult paigutatud enne järgmise selgapanekut. Sinu tegelane saab eemaldada 3 soomusrüü väärtust võitlusvooru kohta (ümmargusta üles), kui liigutakse kiiresti. Edukas Agility kontroll suurendab seda 4 soomusrüü väärtuseni võitlusvooru kohta. Kasuta soomusrüü maksimaalset väärtust, kui kasutad juhuslikke soomusrüü väärtusi.
+> Soomuse äravõtmine on palju lihtsam kui selgapanemine, kuna teie tegelane ei pea enne järgmise osa äravõtmist veenduma, et iga osa on õigesti paigutatud. Teie tegelane saab kiirel liikumisel eemaldada 3 soomusväärtuse punkti lahinguringis (ümardatuna ülespoole). Edukas Väleduse veeretamine suurendab seda 4 soomusväärtuse punktini lahinguringis. Juhuslike soomusväärtuste kasutamisel kasutage soomuse maksimaalset väärtust.
 
-> ### Soomusrüü tabamiskoha järgi (Valikuline)
+
+> ### Soomus tabamiskoha järgi (Valikuline)
 > 
-> Kui kasutad tabamiskohtade süsteemi, võid soovida suuremat detailsust selle kohta, kuidas sinu tegelane on soomustatud. Iga soomusrüü tüüp soomusrüü tabelites loetleb tabamiskohad, mida see katab. Sinu tegelane võib igal tabamiskohal kanda erinevat tüüpi soomusrüüd, kasutades mis tahes tüüpi, mis seda kohta katab. Igal kantud soomusrüü tüübil võib olla erinev soomusrüü väärtus.
+> Kui kasutate tabamiskohtade süsteemi, võite soovida suuremat detailsust oma tegelase soomustamisel. Iga soomuse tüüp soomusetabelites loetleb tabamiskohad, mida see katab. Teie tegelane võib varieerida igal tabamiskohal kantava soomuse tüüpi, kasutades mis tahes tüüpi, mis seda kohta katab. Igal kantaval soomusetüübil võib olla erinev soomusväärtus.
 > 
-> * Iga tüki soomusrüü väärtuse määramiseks kasuta soomusrüü tabelite soomusrüü väärtust.
-> * Koormus on rinnal, kõhul või jalgadel kantud tükkide koormus, kasutades raskeimat, kui need erinevad.
-> * Kasuta raskeima rinnal, kõhul või jalgadel kantud tüki oskuse modifikaatorit. Kiivritel on samad modifikaatorid.
-> * Üksikute soomusrüü tükkide selgapanekuks kulub üks võitlusvoor iga 5 soomusrüü väärtuspunkti kohta (ümmargusta üles).
+> * Iga osa soomusväärtuse määramiseks kasutage soomustabelites toodud soomusväärtust.
 > 
-> Mängujuht võib otsustada, et mõnda tüüpi soomusrüüd ei saa tükkhaaval kasutada, näiteks enamikku tänapäevaseid või arenenud soomusrüü tüüpe. Tabamiskoha järgi soomusrüüd ei soovitata juhuslike soomusrüü väärtuste süsteemiga.
+> * Koormus on rinnal, kõhul või jalgadel kantavate osade koormus, kasutades raskeimat, kui need erinevad.
 > 
-> Kasuta reegleid **Soomusrüü tabamiskoha järgi** ja **Soomusrüü kihtidena kandmine**, kui kasutad soomusrüüd tabamiskoha järgi.
+> * Kasutage rinnal, kõhul või jalgadel kantava raskeima osa oskuste muutjat. Kiivritel on samad muutjad.
+> 
+> * Üksikute soomuseosade selgapanemine võtab ühe lahinguringi iga 5 soomusväärtuse punkti kohta (ümardatuna ülespoole).
+> 
+> Teie mängujuht võib otsustada, et mõnda tüüpi soomust, nagu enamikku moodsaid või täiustatud soomusetüüpe, ei saa osade kaupa kasutada. Soomust tabamiskoha järgi ei soovitata kasutada koos juhusliku soomusväärtuse süsteemiga.
+> 
+> Kasutage tabamiskoha järgi soomustamise korral reegleid **Soomus tabamiskoha järgi** ja **Soomuse kihistamine**.
 > 
 > #### Kiivrid
 > 
-> Soomusrüü tabelid kirjeldavad kiivreid kui boonust soomusrüü väärtusele. Tabamiskoha järgi soomusrüüd kasutades on kiivritel oma soomusrüü väärtused. Kasuta kiivrite puhul järgmisi väärtusi:
+> Soomusetabelid kirjeldavad kiivreid kui boonust soomusväärtusele. Kui kasutate soomust tabamiskoha järgi, on kiivritel oma soomusväärtused. Kasutage kiivrite jaoks järgmisi väärtusi:
 > 
-> | Tüüp | Soomusrüü väärtus |
-> | :--- | :--- |
+> | Tüüp | Soomusväärtus |
+> | :---- | :---- |
 > | Kiiver (Primitiivne) | 2 |
 > | Kiiver, raske (Iidne ja keskaegne) | 8 |
 > | Kiiver, kerge (Iidne ja keskaegne) | 4 |
-> | Kiiver, raske (Tänapäevane) | 8 |
-> | Kiiver, kerge (Tänapäevane) | 6 |
-> | Kiiver, raske (Arenenud) | 16 |
-> | Kiiver, kerge (Arenenud) | 14 |
+> | Kiiver, raske (Moodne) | 8 |
+> | Kiiver, kerge (Moodne) | 6 |
+> | Kiiver, raske (Täiustatud) | 16 |
+> | Kiiver, kerge (Täiustatud) | 14 |
 
 ## Kilbid
 
-Kilbid on põhimõtteliselt suured tõrjerelvad, mis on mõeldud sinu tegelase ja ründaja vahele panemiseks. Kilbil on tavaliselt käepide, rihm või rihmad ja seda kantakse mitte-relvakäel (enamiku inimeste jaoks vasakul käel). Traditsiooniliselt peavad kilbid tegema kompromisse vastupidavuse, kerguse ja tasakaalu vahel. Kilbid ulatuvad suuruselt väikesest bucklerist (vaevalt taldriku suurune) suure kilbini, mida kasutasid hopliitsõdalased.
+Kilbid on sisuliselt suured tõrjerelvad, mis on mõeldud teie tegelase ja ründaja vahele asetamiseks. Kilbil on tavaliselt käepide, rihm või rihmad ja seda kantakse mitte-relvakäel (enamikul inimestel vasakul käel). Traditsiooniliselt peavad kilbid tegema kompromissi vastupidavuse, kerguse ja tasakaalu vahel. Kilpide suurus ulatub väikesest kilbist (vaevalt õhtusöögitaldriku suurune) kuni suure kilbini, mida kasutasid hopliitidest sõdalased.
 
-Kilbid on kategoriseeritud kronoloogiliselt. Enamikul juhtudel on varasema perioodi kilbid kättesaadavad hilisematel perioodidel, seega võib mängujuht lihtsalt valida, kus kättesaadavus lõpeb, ja lubada sinu tegelasel ligipääsu kilpidele enne seda punkti.
+Kilbid on liigitatud kronoloogiliselt. Enamikul juhtudel on varasemate perioodide kilbid saadaval ka hilisematel perioodidel, seega võib teie mängujuht lihtsalt valida, kus kättesaadavus lõpeb, ja lubada teie tegelasel kasutada kilpe enne seda punkti.
 
-Kõiki kilpe kasutatakse lähivõitluses või kaitseks rakettide vastu. Visatud kilp on improviseeritud relv, mille ulatus on 10 meetrit ja 05% tabamise võimalus (see võib kogemusega suureneda).
+Kõiki kilpe kasutatakse lähivõitluses või mürskude vastu kaitsmiseks. Viskekilp on improviseeritud relv, mille laskeulatus on 10 meetrit ja tabamisvõimalus 05% (see võib kogemustega suureneda).
 
-Igal kilbi tüübil on järgmised atribuudid:
+Igal kilbi tüübil on järgmised omadused:
 
-* **Nimi:** Kilbi tavapärane nimi.
-* **Baas:** Baastõenäosus igaühele, kes kilbi üles võtab. See baastõenäosus on ka algväärtus kilbiga ründamiseks.
+* **Nimi:** Kilbi üldnimi.
+
+* **Baas:** Baasvõimalus igaühele, kes kilbi kätte võtab. See baasvõimalus on ka algväärtus kilbiga ründamisel.
+
 * **Oskus:** Kilbi jaoks kasutatav oskus.
-* **AV/TP:** See on kilbi soomuse väärtus ja ka selle tabamuspunktide väärtus. Seda summat kasutatakse, kui kilp on kahjustatud või sihitud. Vaata täpsemalt Takerdunud kilbid.
-* **Kahju:** Kahju hulk, mida kilp teeb, kui seda kasutatakse relvana.
-* **Rünnak:** Mitu rünnakut ringis kilp võimaldab?
-* **Eriala:** Eriala edu tüüp. Enamik kilpe teeb tagasilöögi eriala edusid.
+
+* **AV/HP:** See on kilbi soomuspunktide väärtus ja ka selle tabamispunktide väärtus. Seda summat kasutatakse, kui kilpi kahjustatakse või sihitakse. Üksikasju vaadake jaotisest **Õlal kantavad kilbid**.
+
+* **Kahju:** Kahju, mida kilp teeb, kui seda kasutatakse relvana.
+
+* **Ründ:** Mitu rünnakut ringis kilp võimaldab?
+
+* **Eriline:** Erilist tüüpi edu, mida kilp teeb. Enamik kilpe teevad tagasitõuke (knockback) erilisi edusamme.
+
 * **Koormus:** See kirjeldab kilbi kohmakust või suhtelist koormust.
+
 * **ENC:** (Valikuline) Kilbi ENC väärtus.
-* **Asukohad:** (Valikuline) Tabamiskohtade puhul, kilbiga kaetud tabamiskohad. See on tavaliselt asjakohane ainult takerdunud kilpide puhul. Vaata **Takerdunud kilbid**.
-* **STR/DEX:** Minimaalne STR ja DEX, mida on vaja kilbi kasutamiseks. Kui sinu tegelane ei täida minimaalset nõutavat STR-i ja DEX-i, on kilbi igasugune kasutamine Raske.
-* **Väärtus:** Kilbi maksumus vastavas mängumaailmas.
 
-Iga kilbi tüüpi kirjeldatakse **Kilpide kirjeldustes**.
+* **Asukohad:** (Valikuline) Tabamiskohtade puhul on need tabamiskohad, mida kilp katab. See on tavaliselt asjakohane ainult õlal kantavate kilpide puhul. Vaadake **Õlal kantavad kilbid**.
 
-### Takerdunud kilbid
+* **JÕU/OSA:** Miinimum JÕU ja OSA, mis on vajalik kilbi kasutamiseks. Kui teie tegelane ei vasta nõutavale miinimumile, on kilbi kasutamine Raske (Difficult).
 
-Tavaliselt kantakse kilpe takerdunult käe/õla või selja taga, kui neid aktiivselt võitluses ei kasutata. Kui mängujuht kasutab tabamiskohtade süsteemi, lisa takerdunud kilbi soomuse väärtuse 1/2 (ümmargusta üles) mis tahes tabamiskohale, mida relvaga lüüakse, lisaks sellele tabamiskohale juba olemasolevale soomuse väärtusele. Selles jaotises kirjeldatud kilpidest ei saa bucklerit, primitiivset ja energiakilpi takerdunult kanda. Kuna enamikul kilpidel on kõrge soomuse väärtus, tühistab see enamiku rünnakuid.
+* **Väärtus:** Kilbi maksumus vastavas keskkonnas.
 
-**Näiteks,** sinu tegelasel on kilp selja taga takerdunult ja vastane laseb selja tagant noole. Rünnak on edukas ja tabamiskoha tulemus tähistab torso. Mängujuht otsustab, et kilp katab selle tabamiskoha, nii et 1/2 kilbi soomuse väärtusest lisatakse noole kahjule. Mängujuht ütleb sulle „Nool põrutab seljas olevasse kilpi, kuid ei pääse läbi.“ Nüüd on sinu tegelasel võimalus kilpi korralikult hoida, mitte usaldada teist õnnelikku juhust.
+Iga kilbi tüüpi kirjeldatakse jaotises **Kilpide kirjeldused**.
 
-### Kilpide kirjeldused
+### Õlal kantavad kilbid
 
-See jaotis kirjeldab kõiki kilpide tüüpe, tähestikuliselt.
+Tavaliselt kantakse kilpe õlal/käsivarrel või seljal, kui neid lahingus aktiivselt ei kasutata. Kui teie mängujuht kasutab tabamiskohti, lisage õlal kantava kilbi soomusväärtusest pool (ümardatuna ülespoole) mis tahes relva poolt tabatud kohale, lisaks juba selles kohas olevale soomusväärtusele. Selles jaotises kirjeldatud kilpidest ei saa õlal kanda ainult väikest kilpi, primitiivset ja energiakilpi. Kuna enamikul kilpidel on kõrge soomusväärtus, neutraliseerib see enamiku rünnakutest.
 
-**Buckler:** Väike kilp, mis kaitseb käe alaosa, mida tavaliselt hoitakse käepideme või ühe rihmaga. Neid kanti vööl (või swash), millest tuleneb mõiste „swashbuckler“.
+**Näiteks** on teie tegelasel kilp seljal ja vastane laseb selja tagant noole. Rünnak on edukas ja veeretatud tabamiskoht näitab keret. Teie mängujuht otsustab, et kilp katab selle tabamiskoha, nii et noole kahjule lisatakse pool kilbi soomusväärtusest. Mängujuht ütleb teile: "Nool põrkub vastu seljal olevat kilpi, kuid ei läbi seda." Nüüd on teie tegelasel võimalus kilpi korralikult käes hoida, mitte loota teisele õnnelikule juhusele.### Kilpide kirjeldused
 
-**Energia-kilp:** Kaitsemehhanism, mis koosneb kaitsja käele monteeritud väikesest toiteplokist ja projektorist, mis kiirgab muutuva suurusega ümmargust kilpi.
+See jaotis kirjeldab kõiki kilbitüüpe, järjestatuna tähestikuliselt.
 
-**Täiskilp:** Väikesest kilbist suurem ja mitmesuguse kujuga, täiskilp on tavaliselt piisavalt suur, et katta kaitsja alalõua ja kubeme.
+**Buckler (väikekilp):** Väike kilp, mis kaitseb käsivarre alumist osa, tavaliselt hoitakse käepidemest või ühe rihmaga. Neid kanti vööl (või vehkleja vööl), millest tuleneb ka ingliskeelne mõiste "swashbuckler".
 
-**Poolkilp:** Väiksem mitmesuguse kujuga kilp, mida kasutavad ratsanikud, vibukütid või kerged eelväed (vs. rasked eesliini võitlejad).
+**Energia-kilp:** Kaitsevarustus, mis koosneb kaitsja käsivarrele kinnitatud väikesest toiteplokist ja projektorist, mis kiirgab muudetava suurusega ringikujulist kilpi.
 
-**Heater:** Keskmine kilp, mille kuju sarnaneb triikrauaga. See on paljude heraldiliste vappide traditsiooniline kuju.
+**Täiskilp:** Väikesest kilbist suurem ja erineva kujuga täiskilp on tavaliselt piisavalt suur, et katta kaitsja alalõuga ja kubet.
 
-**Hopliidi-kilp:** Suur ristkülikukujuline kilp, väga kaitsev, kuid liiga raske ja kohmakas ratsanike jaoks. Hopliidi kilpe kasutatakse sageli maapinnal toetudes. Üldiselt ristkülikukujuline, kuid mõned on piklikud ja ümarate servadega.
+**Poolkilp:** Väiksem erineva kujuga kilp, mida kasutavad tavaliselt ratsanikud, vibukütid või kerged skirmisherid (vastandina rasketele esimese liini võitlejatele).
 
-**Kite:** Suur, pisarakujuline kilp, ümara ülaosa ja terava põhjaga, kattes keha õlgadest kuni põlve või pahkluuni.
+**Heater (triikrauakilp):** Keskmise suurusega kilp, mis on kujult sarnane triikrauaga (ja sai selle järgi ka nime). See on paljude heraldiliste vappide traditsiooniline kuju.
 
-**Suur ümmargune:** Identne ümmarguse kilbiga (allpool), kuid suurem.
+**Hopliit:** Suur nelinurkne kilp, väga kaitsev, kuid ratsanike jaoks liiga raske ja kohmakas. Hopliidi kilpe kasutatakse sageli maapinnal toetatuna. Üldiselt nelinurkse kujuga, kuid mõned on piklikud ja ümarate servadega.
 
-**Primitiivne:** Primitiivsetes sõjakates kultuurides kasutatav kilp. Tavaliselt pole midagi muud kui puust raamistik, mille peale on venitatud nahk, vitstest, jäigastatud riidest või isegi äärmiselt jäigast loomanahast.
+**Kite (tilgakilp):** Suur, pisarakujuline kilp, millel on ümar ülaosa ja terav alaosa, kattes keha õlgadest kuni põlve või pahkluuni.
 
-**Ümmargune:** Keskmise bossi sees haaratud ümmargune kilp. Ainulaadne selle poolest, et sellel on õhukesed kaitsmata servad, mida saab kasutada teravate relvade püüdmiseks ja murdmiseks eriala manöövriga.
+**Suur ümar:** Identne ümara kilbiga (allpool), kuid suurem.
 
-**Mässukilp:** Suur ristkülikukujuline läbipaistvast plastist kilp, mida kasutavad märulipolitseinikud. Kerge ja vastupidav, need võimaldavad kilbimüüre ja pakuvad piisavat kaitset enamiku ründajate vastu.
+**Primitiivne:** Primitiivsetes sõjakates kultuurides kasutatav kilp. Tavaliselt pole see midagi enamat kui puidust raamistik, millele on pingutatud nahk, vitspunutis, jäigastatud riie või isegi äärmiselt jäik loomanahk.
 
-**Asteldega:** Sihtmärgi tüüp, mille keskel on astel, tera või rida väikeseid astlaid, mis on suunatud vastase poole.
+**Ümar:** Ümar kilp, mida hoitakse keskmise nupu (bossi) siseküljest. Unikaalne selle poolest, et sellel on õhukesed kaitsmata servad, mida saab kasutada spetsiaalse manöövriga terasrelvade püüdmiseks ja murdmiseks.
 
-**Sihtmärk:** Ümmargune, keskmise suurusega kilp, levinud paljudes kultuurides. Tavaliselt valmistatud metallist äärisega.
+**Märulivastane:** Suur nelinurkne läbipaistvast plastikust kilp, mida kasutab märulipolitsei. Kerge ja vastupidav, need võimaldavad kilbimüüre ja pakuvad piisavat kaitset enamiku ründajate vastu.
+
+**Okaskilp:** Märklaua tüüp, mille keskel on ogad, tera või rida väikseid väljapoole suunatud ogasid vastase jaoks.
+
+**Märklaud:** Ümar, keskmise suurusega kilp, mis on paljudes kultuurides levinud. Tavaliselt valmistatud metallist äärega.
 
 ##### Primitiivsed kilbid
 
-| Nimi | Baastõenäosus | Oskus | AV/TP | Kahju | Rünnak | Eriala | Koormus | Asukohad | STR / DEX | ENC | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nimi | Baastõenäosus | Oskus | AV/HP | Kahjustus | Rün | Erimärkus | Koormus | Asukohad | JÕU / OSA | ENC | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Primitiivne | 10% | Kilp | 10 | 1D2+dm | 1 | Tagasilöök | Kerge | Käsi | 5/7 | 2.0 | Odav |
 
-##### Iidsed ja keskaegsed kilbid
+##### Antiik- ja keskaegsed kilbid
 
-| Nimi | Baastõenäosus | Oskus | AV/TP | Kahju | Rünnak | Eriala | Koormus | Asukohad | STR / DEX | ENC | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nimi | Baastõenäosus | Oskus | AV/HP | Kahjustus | Rün | Erimärkus | Koormus | Asukohad | JÕU / OSA | ENC | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Buckler | 05% | Kilp | 15 | 1D2+dm | 1 | Tagasilöök | Kerge | Käsi | 5/7 | 1.0 | Keskmine |
 | Täiskilp | 15% | Kilp | 22 | 1D4+dm | 1 | Tagasilöök | Mõõdukas | Käsi, rind, pea | 11/9 | 5.0 | Keskmine |
 | Poolkilp | 15% | Kilp | 15 | 1D2+dm | 1 | Tagasilöök | Mõõdukas | Käsi, rind | 5/7 | 3.0 | Keskmine |
 | Heater | 15% | Kilp | 20 | 1D3+dm | 1 | Tagasilöök | Mõõdukas | Käsi, rind | 9/9 | 3.0 | Keskmine |
-| Hopliidi-kilp | 15% | Kilp | 26 | 1D4+dm | 1 | Tagasilöök | Kohmakas | Kõht, käsi, rind | 12/8 | 7.0 | Keskmine |
+| Hopliit | 15% | Kilp | 26 | 1D4+dm | 1 | Tagasilöök | Kohmakas | Kõht, käsi, rind | 12/8 | 7.0 | Keskmine |
 | Kite | 15% | Kilp | 22 | 1D4+dm | 1 | Tagasilöök | Mõõdukas | Kõht, käsi, rind | 11/9 | 5.0 | Keskmine |
-| Suur ümmargune | 15% | Kilp | 22 | 1D4+dm | 1 | Tagasilöök | Mõõdukas | Kõht, käsi, rind | 11/9 | 5.0 | Keskmine |
-| Ümmargune | 15% | Kilp | 20 | 1D3+dm | 1 | Tagasilöök | Mõõdukas | Käsi, rind | 9/9 | 4.0 | Keskmine |
-| Asteldega | 15% | Kilp | 20 | 1D3+dm | 1 | Läbistav | Mõõdukas | Käsi, rind | 9/9 | 5.0 | Keskmine |
-| Sihtmärk | 15% | Kilp | 15 | 1D2+dm | 1 | Tagasilöök | Kerge | Käsi, rind | 5/7 | 3.0 | Odav |
+| Suur ümar | 15% | Kilp | 22 | 1D4+dm | 1 | Tagasilöök | Mõõdukas | Kõht, käsi, rind | 11/9 | 5.0 | Keskmine |
+| Ümar | 15% | Kilp | 20 | 1D3+dm | 1 | Tagasilöök | Mõõdukas | Käsi, rind | 9/9 | 4.0 | Keskmine |
+| Okaskilp | 15% | Kilp | 20 | 1D3+dm | 1 | Torkamine | Mõõdukas | Käsi, rind | 9/9 | 5.0 | Keskmine |
+| Märklaud | 15% | Kilp | 15 | 1D2+dm | 1 | Tagasilöök | Kerge | Käsi, rind | 5/7 | 3.0 | Odav |
 
-##### Tänapäevased kilbid
+##### Moodsad kilbid
 
-| Nimi | Baastõenäosus | Oskus | AV/TP | Kahju | Rünnak | Eriala | Koormus | Asukohad | STR / DEX | ENC | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mässukilp | 15% | Kilp | 16 | 1D3 + dm | 1 | Tagasilöök | Mõõdukas | Kõht, käsi, rind, pea | 9/9 | 3.0 | Kallis |
+| Nimi | Baastõenäosus | Oskus | AV/HP | Kahjustus | Rün | Erimärkus | Koormus | Asukohad | JÕU / OSA | ENC | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Märulivastane | 15% | Kilp | 16 | 1D3 + dm | 1 | Tagasilöök | Mõõdukas | Kõht, käsi, rind, pea | 9/9 | 3.0 | Kallis |
 
 ##### Täiustatud kilbid
 
-| Nimi | Baastõenäosus | Oskus | AV/TP | Kahju | Rünnak | Eriala | Koormus | Asukohad | STR / DEX | ENC | Väärtus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nimi | Baastõenäosus | Oskus | AV/HP | Kahjustus | Rün | Erimärkus | Koormus | Asukohad | JÕU / OSA | ENC | Väärtus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Energia-kilp | 20% | Kilp | 25 | 1D2 + dm | 1 | Tagasilöök | Kerge | Käsi, rind | 3/3 | 1.0 | Kallis |
 
 ## Suurtükivägi
 
-Suurtükivägi kirjeldab hiiglaslikke mehhanisme, tavaliselt lahinguväljal või installatsiooni (nagu lossi või sõjaväebaasi) kaitsel, või sõidukile monteerituna. Iidsetes ja keskaegsetes maailmades on suurtükivägi peamiselt piiramisrelvastus. Suurtükiväe relvi saab monteerida sõidukitele alates mootorratastest, vankritest ja džiipidest kuni lahingulaevade ja kosmosejaamadeni. Need massiivsed relvad on tavaliselt monteeritud ja piisavalt keerukad, et nõuda rohkem kui ühe operaatori kohalolu. Enamik on kaugmaa-relvad ja tulistavad mürske. Traditsiooniliselt teevad enamik nn kaudtuld, sihtides ala, mitte konkreetset objekti (tegelast või sõidukit), kuigi mõnda saab kasutada üksikute sihtmärkide vastu.
+Suurtükivägi kirjeldab hiiglaslikke mehhanisme, tavaliselt lahinguväljal või rajatise (nt loss, sõjaväebaas) kaitsmisel või sõidukile paigaldatuna. Antiik- ja keskajal on suurtükivägi peamiselt piiramisrelvastus. Suurtükiväe relvi saab paigaldada sõidukitele, mis ulatuvad suuruse poolest mootorratastest, vankritest ja džiipidest kuni sõjalaevade ja kosmosejaamadeni. Need massiivsed relvad on tavaliselt paigaldusega ja piisavalt keerulised, et nõuda rohkem kui ühe operaatori tööd. Enamik on kaugmaa- ja tulistavad mürskudega. Traditsiooniliselt sooritab enamik neist niinimetatud kaudtuld, sihtides ala, mitte konkreetset objekti (tegelast või sõidukit), kuigi mõnda saab kasutada ka üksikute sihtmärkide vastu.
 
-Suurtükiväe relvi on peaaegu sama palju kui käsivõitlusrelvi ja see jaotis käsitleb esinduslikku valikut. Suuremad relvad nagu raketid ja sõiduk-vs.-sõiduk või sõiduk-vs.-struktuur relvad jäävad nende reeglite raamidest välja.
+Suurtükiväe relvi on peaaegu sama palju kui käsivõitlusrelvi ja see jaotis käsitleb esinduslikku valimit. Suuremad relvad, nagu raketid ja sõiduk-sõiduki või sõiduk-rajatise relvad, jäävad nende reeglite ulatusest välja.
 
 Igal suurtükiväe relval on järgmised atribuudid:
 
-* **Nimi:** Suurtükiväe relva tüübi tavapärane nimi.
-* **Oskus:** Selle suurtükiväe relva puhul kasutatav oskus.
+* **Nimi:** Suurtükiväe relva tüübi üldnimetus.
+
+* **Oskus:** Selle suurtükiväe relva jaoks kasutatav oskus.
+
 * **Baas:** Suurtükiväe relva kasutamise baastõenäosus.
-* **Kahju:** Suurtükiväe relva tehtud kahju, mõnikord väljendatud täringutena/meetri kohta. Kahju väheneb 1D6 võrra iga meetri kohta väljaspool algset raadiust.
-* **Rünnak:** Mitu rünnakut ringis suurtükiväe relv võimaldab.
-* **Eriala:** Eriala edu tüüp.
-* **Ulatus:** Relva ulatus.
-* **Meeskond:** Tegelaste arv, mida suurtükiväe relv vajab efektiivseks kasutamiseks. Sellest arvust allapoole on kõik rünnakud Rasked.
-* **TP:** Suurtükiväe relva tabamuspunktid.
-* **AV:** Suurtükiväe relva soomuse väärtus, kui see on asjakohane.
-* **Laskemoon:** Laskemoona tüüp, kas tahke, šrapnell, energia, keemiline või muu?
-* **MAHT:** Relva mahutavus; mitu lasku see saab teha enne uuesti laadimist või laadimist.
+
+* **Kahj:** Suurtükiväe relva tekitatud kahjustus, mõnikord väljendatud täringutena meetri kohta. Kahjustus väheneb 1D6 võrra iga meetri kohta pärast esmast raadiust.
+
+* **Rün:** Rünnakute arv voorus, mida suurtükiväe relv võimaldab.
+
+* **Erimärkus:** Eriõnnestumise tüüp.
+
+* **Rng:** Relva laskeulatus.
+
+* **Meeskond:** Tegelaste arv, mida suurtükiväe relv efektiivseks kasutamiseks vajab. Sellest arvust väiksema arvu puhul on kõik rünnakud Rasked.
+
+* **HP:** Suurtükiväe relva tabamispunktid.
+
+* **AV:** Suurtükiväe relva soomusväärtus, kui see on kohaldatav.
+
+* **Ammo:** Laskemoona tüüp: kas tahke, šrapnell, energia, keemiline või muu?
+
+* **MAH:** Relva mahutavus; mitu lasku saab tulistada enne laadimist või laadimist.
+
 * **Rike:** Suurtükiväe relva rikke tõenäosus.
-* **Väärtus:** Relva keskmine maksumus sobivas maailmas.
-* **SIZ:** Suurtükiväe relva SIZ.
+
+* **Väärtus:** Relva keskmine maksumus vastavas keskkonnas.
+
+* **SUU:** Suurtükiväe relva SUU.
 
 Iga suurtükiväe relva kirjeldatakse **Suurtükiväe relvade kirjeldustes**.
 
-### Suurtükiväe relvade klassid
+### Suurtükiväe relvaklassid
 
-Nendel klassidel on teatud kattuvus, eriti oskusega Heavy Weapons, ja see oskus võib lubada mängijatel kasutada suurtükiväe relvi nagu oleksid need Rasked või vastupidi.
+Nendel klassidel on teatud kattuvusi, eriti oskusega Raskerelvad, ja see oskus võib lubada mängijatel suurtükiväe relvi kasutada, nagu oleksid need Rasked, või vastupidi.
 
 * **Kahur:** Kahur, energiakahur, välikahur, haubits, tankikahur.
-* **Laskur:** Miinipilduja.
-* **Monteeritud relv:** Railgun.
+
+* **Heitja:** Miinipilduja.
+
+* **Paigaldatud relv:** Elektromagnetkahur (Rail gun).
+
 * **Piiramismasin:** Ballista, katapult, springal, trebuchet.
+
 * **Rakett:** Torpeedo.
+
 * **Torn:** Energiatorn, leegitorn, lasertorn, raketitorn, kuulipildujatorn, šokitorn, odaviskaja torn.
 
 ### Suurtükiväe relvade efektid
 
-Suurtükiväe relvi kasutatakse üksikute vastu harva. Neid tulistatakse meeste masside või müüride ja muude struktuuride pihta, mõjutades tavaliselt SIZ 40 ala (umbes nelja meetri raadiuses keskmest, umbes väikelennuki SIZ). Kõik, kes jäävad sellesse ulatusse, on vigastatud. Kui sihtmärk on väiksem kui SIZ 40, vähenda tabamise võimalust -1% iga SIZ-punkti kohta, mis on väiksem kui 40.
+Suurtükiväe relvi kasutatakse üksikisikute vastu harva. Neid tulistatakse inimhulkade või seinte ja muude rajatiste pihta, mõjutades tavaliselt SUU 40 suurust ala (umbes nelja meetri raadiuses keskkohast, mis on umbes väikese lennuki SUU). Kõik sellesse vahemikku jäänud saavad vigastada. Kui sihtmärk on väiksem kui SUU 40, vähendage tabamise tõenäosust –1% iga SUU punkti kohta, mis on väiksem kui 40.
 
-**Näiteks,** suurtükiväe relva kasutamine SIZ 14 tegelase vastu tulemuseks oleks –26% vähendus asjakohasele oskusele.
+**Näiteks,** suurtükiväe relva kasutamine SUU 14 suuruse inimese vastu tookus kaasa –26% vähenduse vastavale oskusele.
 
-Kui mürsk mööda lendab, kasuta Vise oskuse reegleid, et määrata, kuhu mürsk tegelikult lendas, korrutades vahemaa ×5-ga.
+Kui mürsk mööda lendab, kasutage viskamise (Throw) oskuse reegleid, et määrata, kuhu mürsk tegelikult lendas, korrutades vahemaa ×5-ga.
 
-**Näiteks,** kui Vise oskus viitab sellele, et mürsk lendas mööda nelja meetri võrra, korruta tulemus ×5-ga, saades tulemuseks 20 meetrit. See on tagamaks, et möödalask on ikkagi möödalask.
+**Näiteks,** kui viskamise oskus näitab, et mürsk möödus nelja meetriga, korrutage tulemus ×5-ga, saades 20 meetrit. See on selleks, et tagada, et möödalask jääks möödalasuks.
 
 ### Juhitavad raketid
 
-Suurtükiväe vormid, nagu raketid, juhitakse sisemiste või väliste elektrooniliste sihtimissüsteemide kaudu, muutes need palju täpsemaks. Kui raketti sel viisil juhitakse, teeb see iga oskuse kasutamise Kergeks. Kui see on isejuhitav, tabab see automaatselt sihtmärki igal kontrollimisel, välja arvatud 99 või 00, kuigi mobiilne sihtmärk võib proovida raketist kõrvale põigelda. Kui jah, siis kõrvalepõiklemise katsed loetakse evasiivseteks manöövriteks ja kõrvalepõiklemised juhitava raketi vastu on Rasked, olenemata sellest, kas kasutatakse Dodge, Drive või Pilot oskust.
+Suurtükiväe vorme, nagu raketid, juhitakse sisemiste või väliste elektrooniliste sihtimissüsteemide kaudu, muutes need palju täpsemaks. Kui raketti juhitakse sel viisil, muudab see mis tahes oskuse kasutamise Lihtsaks. Kui see on isejuhtiv, tabab see sihtmärki automaatselt mis tahes täringuviskega peale 99 või 00, kuigi liikuv sihtmärk võib proovida raketi eest põigelda. Kui nii, siis põiklemiskatsed loetakse vältivateks manöövriteks ja põiklemine juhitava raketi eest on Raske, olenemata sellest, kas kasutatakse oskust Põiklemine, Sõitmine või Piloteerimine.
 
-Parim kaitse juhitavate rakettide eest (lisaks paksule soomusrüüle) on elektrooniline segamine. Segamine teeb juhitava raketi tabamise võimaluse Raskeks. Kui juhitav rakett sihtmärgist mööda lendab, vaata suurtükiväe relvade möödalaskude reegleid (eelmine), et määrata, kuhu mürsk tegelikult tabab.
+Parim kaitse juhitavate rakettide vastu (lisaks paksule soomusele) on elektrooniline segamine. Segamine muudab juhitava raketi rünnakutõenäosuse Raskeks. Kui juhitav rakett sihtmärgist mööda lendab, vaadake suurtükiväe relvade möödalaskmise reegleid (eelnevalt), et määrata, kuhu mürsk tegelikult tabab.
 
 ### Šrapnell
 
-Paljud suurtükiväe relvad suudavad tulistada mürske, mis killustuvad, või suuri väiksemate mürskude koguseid. Mõlemad teenivad sama eesmärki – teravate objektide (šrapnelli) hajutamine raadiuses ümber tabamispunkti. Mõned relvad tulistavad ainult tahkeid mürske, teised tulistavad ainult šrapnelli ja mõned võivad tulistada mõlemat tüüpi.
+Paljud suurtükiväe relvad saavad tulistada mürske, mis fragmenteeruvad, või suuri väiksemate mürskude lasusid. Mõlemad teenivad sama eesmärki – puistata teravaid objekte (šrapnelli) ümber löögipunkti jäävasse raadiusesse. Mõned relvad tulistavad ainult tahkeid mürske, teised ainult šrapnelli ja mõned võivad tulistada mõlemat tüüpi laenguid.
 
-Šrapnell kahjustab inimesi, kuid mitte hooneid (märkimisväärsel määral). Šrapnelli kahju on ainult 1/6 võrreldava tahke mürsu tehtud kahjust (jaga täringute arv, kui võimalik, kui mitte, veere täringuid ja jaga 6-ga, ümmargustades üles), kuid see tehakse kõigele raadiuses, mis on võrdne meetritega tahke mürsu kahju täringute arvuga.
+Šrapnell kahjustab inimesi, kuid mitte hooneid (märkimisväärsel määral). Šrapnelli kahjustus on vaid 1/6 võrreldava tahke mürsu tekitatud kahjustusest (jagage täringute arv, kui võimalik; kui mitte, visake täringud ja jagage 6-ga, ümardades ülespoole), kuid see tabab kõike raadiuses, mis on meetrites võrdne tahke mürsu kahjustuse täringute arvuga.
 
-Näiteks trebuchet tulistab mürsu, mis teeb 12D6 kahju tabamisel. Kui see tulistab šrapnelli, teeb see 2D6 kõigile 12-meetrise raadiusega tabamispunktist.
+Näiteks tulistab trebuchet mürsu, mis teeb tabades 12D6 kahjustust. Kui ta tulistab šrapnelli, teeb see 2D6 kahjustust kõigile, kes on 12-meetrise raadiuses löögipunktist.### Suurtükiväe relvade kirjeldused
 
-### Suurtükiväe relvade kirjeldused
+Siin on valik suurtükiväe relvi, järjestatuna tähestikuliselt.
 
-Siin on valik suurtükiväe relvadest, organiseeritud tähestikuliselt.
+**Arbalett, piiramis-:** Arbaleti raskem versioon, mida laetakse kraana abil.
 
-**Arbalest, piiramine:** Raskem versioon arbalestist, laaditud uuesti cranequini abil.
+**Ballista:** Suur statsionaarne piiramisrelv, mis tulistab ambilaadseid polte, tavaliselt lahinguväljal olevate inimeste, mitte ehitiste või muude sõidukite pihta.
 
-**Ballista:** Suur monteeritud piiramisrelv, mis viskab amb-tüüpi polte, tavaliselt lahinguväljal olevate inimeste, mitte struktuuride või muude sõidukite pihta.
+**Kahur:** Kahur tulistab tahkeid mürske, nagu kestad, kahurikuulid või väiksemad kuulid, kasutades raua põhjas paiknevat lõhkelaengut. Mida vanem kahur, seda ebakvaliteetsem on mürsk. Mõned piraadid laadisid kahureid kettidega, et purjeid vigastada.
 
-**Kahur:** Kahur tulistab tahkeid mürske, nagu kestasid, kahurikuule või väiksemaid haavleid, kasutades barrelipõhjas olevat lõhkeainet. Mida vanem kahur, seda vähem keerukas mürsk. Mõned piraadid laadisid kahureid kettidega, et purjeid rikkuda.
+**Kahur, energial:** Raskeraamiline energiaprojektsioonirelv, mis tulistab üksikuid laenguid või kasutab pöörlevat raudade seeriat valanguteks. Tavaliselt paigaldatud tähelaevadele või baasidesse, ehkki mõned on kaasaskantavad.
 
-**Kahur, energia:** Raske raamiga energiaprojektsiooni relv, tulistades üksikuid lasusid või kasutades pöörlevat tünnide seeriat mitmeks tuleks. Tavaliselt monteeritud tähelaevadele või alustele, kuigi mõned on teisaldatavad.
+**Katapult:** Piiramisrelv, mis paiskab kive ja muid esemeid paraboolsel kaarel sihtalale. Katapultide lennutrajektoori tõttu sobivad need ideaalselt üle avatud kindlustuste müüride laskmiseks või aeglaselt liikuvate maapealsete või mereväesõidukite ründamiseks.
 
-**Katapult:** Piiramisrelv, mis heidab kive ja muid esemeid paraboolkaares sihtalale. Katapulteeritud mürskude lennutee tõttu sobivad need ideaalselt üle avatud kindlustuste müüride ulatumiseks või aeglaselt liikuvate maa- või sõidukite pihta tulistamiseks.
+**Kahur, väli-:** Väiksem ja mobiilsem kahur.
 
-**Relv, välikahur:** Väiksem ja mobiilsem kahur.
+**Gatling-kuulipilduja:** Esimene kiiresti tulistav korduvtuld andev tulirelv. Gatling-kuulipildujad on liiga suured kaasaskandmiseks ja need paigaldatakse vankritele või kahe-rattalistele kasti-laadsetele kärudele. Enamik tänapäevaseid kuulipildujaid põlvneb sellest esimesest disainist.
 
-**Relv, Gatling:** Esimene kiiresti korduv tulirelv. Liiga suur kaasaskandmiseks, Gatling-relvad on monteeritud vankritele või kahe-rattalistele vankritele. Enamik tänapäevaseid kuulipildujaid põlvneb sellest algsest disainist.
+**Rööbaskahur:** Hiiglaslik kahur, mis kasutab mürsu mööda rööbast kiirendamiseks magnetväljade seeriat, saavutades uskumatult suure kiiruse.
 
-**Relv, Rail-:** Tohutu relv, mis kasutab magnetväljade seeriat mürsu kiirendamiseks piki siini, kiirendades mürsu uskumatu kiiruseni.
+**Tankikahur:** Tanki peamine relv, mis tulistab suurel kiirusel suurekaliibrilisi mürske, kasutades erinevat tüüpi laskemoona. Levinumad tankikahurist tulistatavad mürsud on lõhke-, soomustläbistavad või juhitavad raketid.
 
-**Relv, tankikahur:** Tanki peamine relv, tulistades suurekaliibrilisi suure kiirusega padruneid mitmesugustest laskemoonatüüpidest. Mõned sagedamini tankikahuritest lastavad mürsud on kõrge plahvatusohtlikkusega, soomust läbistavad või juhitavad raketid.
+**Haubits:** Teatud tüüpi välisuurtükivägi, mis sarnaneb kahuriga, kuid on lühema ja kitsama rauaga. Haubitsad tulistavad mürske kõrgema nurga ja trajektooriga, tabades vaenlast ülalt langeva tulega.
 
-**Haubits:** Välikahuri tüüp, mis sarnaneb kahuriga, kuid lühema ja kitsama tünniga. Haubitsad tulistavad mürske suurema nurga ja trajektooriga, pakkudes vaenlasele plungivat tuld (ülalt langev tuli).
+**Miinipilduja:** Maapinnal asuv väike raketiheitja, mis tulistab iseliikuva pommi kõrges kaares sihtmärgi pihta. Need on tihti vaid tugev alus ja toru koos lihtsa päästemehhanismiga.
 
-**Miinipilduja:** Maapinnal asuv väike raketiheitja, mis tulistab iseliikuva pommi kõrge kaarega sihtmärgi pihta. Need on sageli vaid tugev alus ja toru lihtsa süütemehhanismiga.
+**Springal:** Funktsioonilt ballistaga sarnanev piiramisrelv, mis paiskab sihtalale hiiglaslikke viskeodasid, kuid seda saab kasutada ka kivide või poltide viskamiseks. Polte lastakse otsetrajektooril ja kive visatakse kaudselt.
 
-**Springal:** Funktsionaalselt sarnane ballistale, see piiramisrelv paiskab tohutuid odasid sihtalale, kuid seda saab kasutada ka kivide või poltide viskamiseks. Poldid lastakse otse trajektooril ja kive visatakse kaudselt.
+**Torpeedo:** Vee all või kosmoses kasutatav iseliikuv rakett, mis on seatud kokkupuutel sihtmärgiga plahvatama. Vanemad torpeedod pandi mõnikord plahvatama arvutatud vahemaa tagant, et vältida nende muutumist navigatsiooniohtudeks. Keerukamatel mudelitel on juhtimissüsteemid ja võime sihtmärki lukustada.
 
-**Torpeedo:** Vee all või kosmoses kasutatav iseliikuv rakett, mis on seadistatud sihtmärgiga kokkupuutel plahvatama. Vanemad torpeedod olid mõnikord seadistatud arvutatud kaugusel plahvatama, et vältida nende muutumist navigeerimisohtudeks. Keerukamatel mudelitel on juhtimissüsteemid ja võime sihtmärke lukustada.
+**Trebuchet:** See kiige-laadne piiramismasin kasutab tohutut vastukaalu suurte kivide või muu lasti viskamiseks sihtalale. Tavaliselt lahinguväljal kokkupandav, see suudab sihtida ainult ühte ala ja sihtimise muutmiseks tuleb kas vahemaad lühendada või kogu trebuchet ümber paigutada.
 
-**Trebuchet:** See kiikuv piiramisrelv kasutab tohutut vastukaalu, et visata suuri kive või muid laadungeid sihtalale. Tavaliselt lahinguväljal kokku pandud, sihib see ainult ühte ala ja ainus viis sihtimist muuta on vahemaad lühendada või kogu trebuchet liigutada.
+**Energia-tornkahur:** Kosmoses või maapinnal kasutatav suure võimsusega energiaprojektsioonirelv, mis tarbib tohutult energiat. Tavaliselt kasutatakse kosmosejaamades, keskmistel kuni suurtel kosmoselaevadel või suurtes maapealsetes lahingutes. Muus osas sarnaneb allpool toodud kuulipilduja-tornkahuriga.
 
-**Torn, energiatorn:** Kosmoses või maal kasutatav energiatorn on suur energiat projitseeriv relv, mis ammutab tohutu hulga energiat. Tavaliselt kasutatakse kosmosejaamadel, keskmise suurusega tähelaevadel või suurtes maapealsetes lahingutes. Muus osas sarnane kuulipildujatorniga (allpool).
+**Leegi-tornkahur:** Tornile paigaldatud leegiheitja, tavaliselt kasutajat kaitsva lisasoomusega, pakkudes suuremat laskekaugust kui käsitsi kasutatav leegiprojektor.
 
-**Torn, leegitorn:** Tornile monteeritud leegiheitja, tavaliselt täiendava soomusrüüga, mis kaitseb kasutajat, pakkudes suuremat ulatust kui käsitsi hoitav leegiprojektor.
+**Laseri-tornkahur:** Tornile paigaldatud laserikahur, sageli paigaldatud kosmosejaamale või kaitsesatelliidile. Sarnaneb energia-tornkahuriga (ülalpool), kuid kasutab toore energia asemel laseriga juhitud valgust.
 
-**Torn, lasertorn:** Tornile monteeritud laserkahur, sageli monteeritud kosmosejaamale või kaitsesatelliidile. Sarnane energiatorniga (ülal), kuid kasutab laservalgust, mitte tooreid energiapurskeid.
+**Kuulipilduja-tornkahur:** Pöörlevale alusele seatud suur kuulipilduja, mis võimaldab laia laskesektorit, tavaliselt juhituna kaugjuhtimise teel või sisemise/välise laskuri poolt. Tornkahurid paigaldatakse tavaliselt keskmistele või suurtele lennukitele, laevadele, tankidele või muudele mootorsõidukitele, või isegi müüridele ja muudele kaitsekonstruktsioonidele.
 
-**Torn, kuulipildujatorn:** Suur kuulipilduja, mis on seatud pöörlevale alusele, mis on võimeline suureks tulekaaruks, mida juhitakse kas kaugelt või sisemise või välise laskuri poolt. Torniid monteeritakse tavaliselt keskmistele või suurtele lennukitele, laevadele, tankidele või muudele mootorsõidukitele, või isegi müüridele või muudele kaitsekonstruktsioonidele.
+**Elektri-tornkahur:** Tornkahur, mis suudab projitseerida välku või elektrikaari üle vahemaa, kasutades sageli mingit vahelduvvoolu vormi. Elektri-tornkahuril on +20% tabamisboonus metallist sihtmärgi või metallsoomusega kaetud sihtmärgi vastu.
 
-**Torn, šokitorn:** Torn, mis on võimeline projitseerima välku või elektrikaari kauguse taha, sageli kasutades mingit vahelduvvoolu vormi. Šokitornil on +20% tabamisvõimalus metallist sihtmärgi või metallsoomusega kaetud sihtmärgi vastu.
+**Odaheitja-tornkahur:** Tornile paigaldatud automaatne odaheitja, mis tulistab tavaliselt meetripikkuseid metallpolte, mitte tegelikke odasid. Mõningaid varajasi mudeleid kasutatakse vaalapüügitööstuses, kuid neid kohtab ka post-apokalüptilistes maailmades.
 
-**Torn, odaviskaja torn:** Tornile monteeritud automaatne odakahur, mis tulistab tavaliselt meetripikkuseid metallpolte, mitte tegelikke odasid. Mõningaid varajasi mudeleid kasutatakse vaalapüügitööstuses, kuid neid kasutatakse ka postapokalüptilistes mängumaailmades.
+##### Muistsed suurtükiväe relvad
 
-##### Iidsed suurtükiväe relvad
-
-| Nimi | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Meeskond | TP | AV | Laskemoon | Maht | Rike | Väärtus | SIZ | Kiirus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Arbalest, piiramine | Amb | 10 | 3D6+1 | 1/5 | Läbistav | 425 | 1 | 18 | — | Poldid | 1 | 98–00 | Keskmine | 14 | 1/5 vooru |
+| Nimi | Oskus | Baas | Kahju | Rünnak | Eripära | Kaugus | Meeskond | HP | AV | Laskemoon | Mahutavus | Rike | Väärtus | SUU | Kiirus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Arbalett, piiramis- | Ambur | 10 | 3D6+1 | 1/5 | Läbistav | 425 | 1 | 18 | — | Poldid | 1 | 98–00 | Keskmine | 14 | 1/5 vooru |
 | Ballista | Piiramismasin | 05 | 10D6 | 1/5 | Läbistav | 275 | 3 | 32 | 12 | Poldid | 1 | 99–00 | Keskmine | 42 | 1/5 vooru |
 | Katapult | Piiramismasin | 10 | 6D6 | 1/5 | Purustav | 325 | 3 | 36 | 12 | Kivid | 1 | 00 | Odav | 44 | 1/5 vooru |
-| Springald, poldid | Piiramismasin | 05 | 3D6 | 1/6 | Läbistav | 300 | 3 | 40 | 1 | Poldid | 1 | 99–00 | Keskmine | 48 | 1/6 vooru |
-| Springald, kivid | Piiramismasin | 05 | 3D6 | 1/5 | Purustav | 270 | 3 | 40 | 12 | Kivid | 1 | 99–00 | Keskmine | 48 | 1/5 vooru |
+| Springal, poltidega | Piiramismasin | 05 | 3D6 | 1/6 | Läbistav | 300 | 3 | 40 | 1 | Poldid | 1 | 99–00 | Keskmine | 48 | 1/6 vooru |
+| Springal, kividega | Piiramismasin | 05 | 3D6 | 1/5 | Purustav | 270 | 3 | 40 | 12 | Kivid | 1 | 99–00 | Keskmine | 48 | 1/5 vooru |
 | Trebuchet | Piiramismasin | 05 | 12D6 | 1/15 | Purustav | 300 | 4 | 44 | 12 | Kivid | 1 | 98–00 | Keskmine | 52 | 1/15 vooru |
 
 ##### Ajaloolised ja tänapäevased suurtükiväe relvad
 
-| Nimi | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Meeskond | TP | AV | Laskemoon | Maht | Rike | Väärtus | SIZ | Kiirus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kahur | Kahur | 01 | 4D8+4 | 1/5 | Purustav | 8,000 | 3 | 36 | 28 | Kahurikuulid | 1 | 99–00 | Kallis | 44 | 1/5 vooru |
-| Relv, välikahur | Kahur | 01 | 10D6/2 meetrit | 1/3 | Purustav | 12,000 | 2 | 48 | 28 | Lõhkeaine | 1 | 00 | Piiratud | 42 | 1/3 vooru |
-| Gatling-relv | Raske relv | 15 | 2D6+4 | Valang1 | Läbistav | 100 | 1 | 20 | 24 | Kuulid | 200 | 96–00 | Piiratud | 20 | 1/voor |
-| Relv, tankikahur | Kahur | 01 | 15D6/4 meetrit | 1 | Läbistav | 2,000 | 2 | 36 | 28 | Lõhkeaine | 1 | 00 | Piiratud | 28 | 1/voor |
-| Haubits | Kahur | 01 | 10D6/2 meetrit | 1/2 | Purustav | 9,000 | 2 | 44 | 28 | Lõhkeaine | 1 | 00 | Piiratud | 36 | 1/2 vooru |
-| Miinipilduja2 | Laskur | 01 | 10D6/2 meetrit | 1 | Purustav | 2,500 | 1 | 18 | 12 | Raketid | 1 | 00 | Piiratud | 12 | 1/voor |
+| Nimi | Oskus | Baas | Kahju | Rünnak | Eripära | Kaugus | Meeskond | HP | AV | Laskemoon | Mahutavus | Rike | Väärtus | SUU | Kiirus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kahur | Kahur | 01 | 4D8+4 | 1/5 | Purustav | 8,000 | 3 | 36 | 28 | Kuulid | 1 | 99–00 | Kallis | 44 | 1/5 vooru |
+| Kahur, väli- | Kahur | 01 | 10D6/2 meetrit | 1/3 | Purustav | 12,000 | 2 | 48 | 28 | Lõhke | 1 | 00 | Piiratud | 42 | 1/3 vooru |
+| Gatling-kuulipilduja | Raskerelv | 15 | 2D6+4 | Valang1 | Läbistav | 100 | 1 | 20 | 24 | Kuulid | 200 | 96–00 | Piiratud | 20 | 1/voor |
+| Tankikahur | Kahur | 01 | 15D6/4 meetrit | 1 | Läbistav | 2,000 | 2 | 36 | 28 | Lõhke | 1 | 00 | Piiratud | 28 | 1/voor |
+| Haubits | Kahur | 01 | 10D6/2 meetrit | 1/2 | Purustav | 9,000 | 2 | 44 | 28 | Lõhke | 1 | 00 | Piiratud | 36 | 1/2 vooru |
+| Miinipilduja2 | Heitja | 01 | 10D6/2 meetrit | 1 | Purustav | 2,500 | 1 | 18 | 12 | Raketid | 1 | 00 | Piiratud | 12 | 1/voor |
 | Torpeedo | Rakett | 01 | 20D6/2 meetrit | 1/2 | Läbistav | 5,000 | 1 | 36 | 6 | Torpeedo | 1 | 99–00 | Piiratud | 243 | 1/2 vooru |
-| Torn, kuulipilduja | Torn | 05 | 4D6+4 | Valang4 | Läbistav | 200 | 1 | 48 | 28 | Kuulid | 1,000 | 98–00 | Piiratud | 36 | 1/voor |
-| Torn, odaviskaja | Torn | 05 | 2D10+2 | 1 | Läbistav | 350 | 1 | 26 | 28 | Odad | 1 | 00 | Kallis | 16 | 1/voor |
+| Kuulipilduja-tornkahur | Tornkahur | 05 | 4D6+4 | Valang4 | Läbistav | 200 | 1 | 48 | 28 | Kuulid | 1,000 | 98–00 | Piiratud | 36 | 1/voor |
+| Odaheitja-tornkahur | Tornkahur | 05 | 2D10+2 | 1 | Läbistav | 350 | 1 | 26 | 28 | Odad | 1 | 00 | Kallis | 16 | 1/voor |
 
 ##### Täiustatud suurtükiväe relvad
 
-| Nimi | Oskus | Baas | Kahju | Rünnak | Eriala | Ulatus | Meeskond | TP | AV | Laskemoon | Maht | Rike | Väärtus | SIZ | Kiirus |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Kahur, energia | Kahur | 01 | 4D10+4 | 1 | Tuli | 1,000 | 3 | 40 | 28 | Energia | Piiramatu | 00 | Piiratud | 48 | 1/voor |
-| Relv, rail- | Monteeritud relv | 01 | 6D8+6 | 1/3 | Läbistav | 10,000 | 2 | 64 | 28 | Kestad | 1,000 | 00 | Piiratud | 72 | 1/3 vooru |
-| Torn, energia | Torn | 05 | 6D10+6 | 1 | Tuli | 400 | 1 | 36 | 28 | Energia | Piiramatu | 00 | Piiratud | 44 | 1/voor |
-| Torn, leegitorn | Torn | 10 | 4D6/1 meeter5 | 1 | Tuli | 50 | 1 | 24 | 28 | Kütus | 100 | 98–00 | Piiratud | 32 | 1/voor |
-| Torn, laser | Torn | 05 | 4D8+4 | 1 | Tuli | 600 | 1 | 32 | 28 | Energia | Piiramatu | 99–00 | Piiratud | 40 | 1/voor |
-| Torn, raketitorn | Torn | 01 | 8D6+8/2 meetrit | Valang | Läbistav | 1,200 | 1 | 36 | 28 | Raketid | 100 | 00 | Piiratud | 44 | 1/voor |
-| Torn, šokitorn | Torn | 05 | 4D6/1 meeter6 | 1/2 | Uimastamine | 40 | 1 | 24 | 28 | Energia | Piiramatu | 96–00 | Piiratud | 32 | 1/2 vooru |
+| Nimi | Oskus | Baas | Kahju | Rünnak | Eripära | Kaugus | Meeskond | HP | AV | Laskemoon | Mahutavus | Rike | Väärtus | SUU | Kiirus |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kahur, energial | Kahur | 01 | 4D10+4 | 1 | Tuli | 1,000 | 3 | 40 | 28 | Energia | Piiramatu | 00 | Piiratud | 48 | 1/voor |
+| Rööbaskahur | Kinnitatud relv | 01 | 6D8+6 | 1/3 | Läbistav | 10,000 | 2 | 64 | 28 | Kestad | 1,000 | 00 | Piiratud | 72 | 1/3 vooru |
+| Energia-tornkahur | Tornkahur | 05 | 6D10+6 | 1 | Tuli | 400 | 1 | 36 | 28 | Energia | Piiramatu | 00 | Piiratud | 44 | 1/voor |
+| Leegi-tornkahur | Tornkahur | 10 | 4D6/1 meeter5 | 1 | Tuli | 50 | 1 | 24 | 28 | Kütus | 100 | 98–00 | Piiratud | 32 | 1/voor |
+| Laseri-tornkahur | Tornkahur | 05 | 4D8+4 | 1 | Tuli | 600 | 1 | 32 | 28 | Energia | Piiramatu | 99–00 | Piiratud | 40 | 1/voor |
+| Raketi-tornkahur | Tornkahur | 01 | 8D6+8/2 meetrit | Valang | Läbistav | 1,200 | 1 | 36 | 28 | Raketid | 100 | 00 | Piiratud | 44 | 1/voor |
+| Elektri-tornkahur | Tornkahur | 05 | 4D6/1 meeter6 | 1/2 | Uimastus | 40 | 1 | 24 | 28 | Energia | Piiramatu | 96–00 | Piiratud | 32 | 1/2 vooru |
 
-1. Gatling-relv tulistab 36-lasulise valangu iga võitlusvooru.
-2. See on väike kaasaskantav miinipilduja. Suuremate versioonide jaoks kasuta haubitsa statistikat.
-3. SIZ on torpeedo enda oma; see peab olema lastud starditorust, tavaliselt allveelaeva või muu aluse osa.
-4. Standardne kuulipildujatorn tulistab 120-lasulise valangu iga võitlusvooru.
-5. Kui sihtmärki tabatakse, veere Õnne. Kui kontroll ebaõnnestub, on sihtmärk põlemas ja võtab 1D6 punkti kahju kohe ja igal järgneval võitlusvoorul, kuni tuli on kustutatud või muul viisil neutraliseeritud (vaata **Tuli ja kuumus**).
-6. Veere kahju ja pane see vastupanu kontrollis vs. sihtmärgi CON. Kui sihtmärk kaotab, on nad uimastatud 1D3+1 vooru (vaata **Uimastamine**).
+1. Gatling-kuulipilduja tulistab iga lahinguvooru jooksul 36-lasulise valangu.
+2. See on väike kaasaskantav miinipilduja. Suuremate versioonide puhul kasuta haubitsa statistikat.
+3. SUU on torpeedo enda oma; see tuleb välja tulistada torpeedotorust, mis on tavaliselt osa allveelaevast või muust alusest.
+4. Standardne kuulipilduja-tornkahur tulistab iga lahinguvooru jooksul 120-lasulise valangu.
+5. Kui sihtmärk tabatakse, veereta Luck. Kui vise ebaõnnestub, süttib sihtmärk põlema ja võtab 1D6 punkti kahju kohe ja igal järgneval lahinguvoorul, kuni tuli kustutatakse või muul viisil neutraliseeritakse (vaata **Tuli ja kuumus**).
+6. Veereta kahju ja võrdle seda sihtmärgi VAS-iga vastupanuviskes. Kui sihtmärk kaotab, on ta uimastatud 1D3+1 vooru (vaata **Uimastamine**).
 
 ##### Tänapäevased lõhkeained
 
-| Relv | Oskus | Baas | Kahju1 | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Süütekapsel | Lammutamine | — | 2D6/1 meeter | 1/2 | Tagasilöök | 3 | — | 3 | Ei | — | 00 | Keskmine | 0.2 |
-| Dünamiit | Lammutamine | Vise | 5D6/2 meetrit | 1/2 | Tagasilöök | Visatud | 2H | 1 | Ei | 5/5 | 99–00 | Keskmine | 0.5 |
-| Lõhkeaine, improviseeritud | Lammutamine | — | 3D6/2 meetrit | 1 | Tagasilöök | 8 | — | 4 | Ei | — | 91–00 | Odav | 1.0 |
-| Lõhkeaine, plastiline | Lammutamine | — | 6D6/3 meetrit | 1/3 | Tagasilöök | 21 | — | 15 | Ei | — | 99–00 | Kallis | 1.0 |
-| Granaat, põrutusgranaat | Granaat | Vise | 2D62/2 meetrit | 1 | Tagasilöök | Visatud | 1H | 8 | Ei | 5/5 | 00 | Keskmine | 0.7 |
-| Granaat, plahvatusohtlik | Granaat | Vise | 4D6/4 meetrit | 1 | Tagasilöök | Visatud | 1H | 8 | Ei | 5/5 | 99–00 | Keskmine | 0.7 |
-| Granaat, signaalrakett | Granaat | Vise | 3/3 meetrit | 1 | — | Visatud | 1H | 6 | Ei | 5/5 | 00 | Keskmine | 0.7 |
-| Granaat, gaas | Granaat | Vise | 4/3 meetrit | 1 | — | Visatud | 1H | 6 | Ei | 5/5 | 99–00 | Keskmine | 0.7 |
-| Granaat, fosfor | Granaat | Vise | 2D65/24 meetrit | 1 | — | Visatud | 1H | 4 | Ei | 5/5 | 98–00 | Kallis | 0.7 |
-| Granaat, šrapnellgranaat | Granaat | Vise | 4D6/4 meetrit | 1 | Läbistav | Visatud | 1H | 8 | Ei | 5/5 | 00 | Keskmine | 0.7 |
-| Granaat, suits | Granaat | Vise | 6/3 meetrit | 1 | — | Visatud | 1H | 6 | Ei | 5/5 | 00 | Keskmine | 0.3 |
-| Granaadiheitja | Granaat | 25 | 3D6/2 meetrit | 1/3 | Tagasilöök | 20 | 1H | 12 | Ei | — | 99–00 | Kallis | 3.0 |
-| Laskur, LAW raketiheitja | Granaat | 15 | 8D6/1 meeter | 1 | Tagasilöök | 150 | 2H | 10 | Ei | 7/5 | 98–00 | Kallis | 4.5 |
-| Laskur, raketiheitja | Granaat | 01 | 10D6/5 meetrit | 1/3 | Läbistav, Tagasilöök | 400 | 2H | 12 | Ei | 11/7 | 99–00 | Kallis | 7.0 |
-| Miin, jalaväemiin | Lammutamine | — | 4D6/5 meetrit | — | Tagasilöök | 25 | — | 9 | Ei | — | 99–00 | Keskmine | 2.0 |
-| Miin, tankitõrjemiin | Lammutamine | — | 6D6+6/ 3D6+2/1D6 | — | Läbistav | 10/25/50 | — | 12 | Ei | — | 99–00 | Keskmine | 3.0 |
-| Molotovi kokteil | Granaat | Vise | 1+Tuli7 | 1/2 | — | Visatud | 1H | 1 | Ei | 5/7 | 95–00 | Odav | 0.7 |
+| Relv | Oskus | Baas | Kahju1 | Rünnak | Eripära | Kaugus | Käed | HP | Tõrjumine | JÕU/OSA | Rike | Väärtus | SUU/Kand. |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Detonaator | Lammutus | — | 2D6/1 meeter | 1/2 | Tagasitõuge | 3 | — | 3 | Ei | — | 00 | Keskmine | 0.2 |
+| Dünamiit | Lammutus | Vise | 5D6/2 meetrit | 1/2 | Tagasitõuge | Visatav | 2K | 1 | Ei | 5/5 | 99–00 | Keskmine | 0.5 |
+| Lõhkeaine, improviseeritud | Lammutus | — | 3D6/2 meetrit | 1 | Tagasitõuge | 8 | — | 4 | Ei | — | 91–00 | Odav | 1.0 |
+| Lõhkeaine, plast | Lammutus | — | 6D6/3 meetrit | 1/3 | Tagasitõuge | 21 | — | 15 | Ei | — | 99–00 | Kallis | 1.0 |
+| Granaat, uimastus | Granaat | Vise | 2D62/2 meetrit | 1 | Tagasitõuge | Visatav | 1K | 8 | Ei | 5/5 | 00 | Keskmine | 0.7 |
+| Granaat, lõhke | Granaat | Vise | 4D6/4 meetrit | 1 | Tagasitõuge | Visatav | 1K | 8 | Ei | 5/5 | 99–00 | Keskmine | 0.7 |
+| Granaat, valgus | Granaat | Vise | 3/3 meetrit | 1 | — | Visatav | 1K | 6 | Ei | 5/5 | 00 | Keskmine | 0.7 |
+| Granaat, gaas | Granaat | Vise | 4/3 meetrit | 1 | — | Visatav | 1K | 6 | Ei | 5/5 | 99–00 | Keskmine | 0.7 |
+| Granaat, fosfor | Granaat | Vise | 2D65/24 meetrit | 1 | — | Visatav | 1K | 4 | Ei | 5/5 | 98–00 | Kallis | 0.7 |
+| Granaat, kild | Granaat | Vise | 4D6/4 meetrit | 1 | Läbistav | Visatav | 1K | 8 | Ei | 5/5 | 00 | Keskmine | 0.7 |
+| Granaat, suits | Granaat | Vise | 6/3 meetrit | 1 | — | Visatav | 1K | 6 | Ei | 5/5 | 00 | Keskmine | 0.3 |
+| Granaadiheitja | Granaat | 25 | 3D6/2 meetrit | 1/3 | Tagasitõuge | 20 | 1K | 12 | Ei | — | 99–00 | Kallis | 3.0 |
+| Raketiheitja, LAW | Granaat | 15 | 8D6/1 meeter | 1 | Tagasitõuge | 150 | 2K | 10 | Ei | 7/5 | 98–00 | Kallis | 4.5 |
+| Raketiheitja | Granaat | 01 | 10D6/5 meetrit | 1/3 | Läbistav, Tagasitõuge | 400 | 2K | 12 | Ei | 11/7 | 99–00 | Kallis | 7.0 |
+| Miin, jalaväevastane | Lammutus | — | 4D6/5 meetrit | — | Tagasitõuge | 25 | — | 9 | Ei | — | 99–00 | Keskmine | 2.0 |
+| Miin, tankivastane | Lammutus | — | 6D6+6/ 3D6+2/1D6 | — | Läbistav | 10/25/50 | — | 12 | Ei | — | 99–00 | Keskmine | 3.0 |
+| Molotovi kokteil | Granaat | Vise | 1+Tuli7 | 1/2 | — | Visatav | 1K | 1 | Ei | 5/7 | 95–00 | Odav | 0.7 |
 
-1. Kahju on väljendatud täringutena meetri kohta; kahju meetri kohta väljaspool algset raadiust väheneb 1D6 võrra.
-2. Kõik kahjustatud sihtmärgid peavad õnnestuma Vastupidavuse kontrollis või olema uimastatud (vaata **Uimastamine**).
-3. Valgustab ulatuse ala kahju asemel (vaata **Valgusallikad**).
-4. Täidab ala mürgise või mittemürgise gaasiga (vaata **Mürgid**). Näidis gaasigranaadist võib olla 2D6+12 POT, kiire toime ja põhjustada lämbumist ja 1D6 tabamuspunktide kaotust vooru kohta, kui sihtmärk ebaõnnestub vastupanu kontrollis vs. CON.
-5. Fosforgranaadid toodavad suitsu ja on ka süütavad, põhjustades kahju igal voorul kuni kustutamiseni (vaata **Tuli ja kuumus**).
-6. Täidab ala nägemist varjava suitsuga kahju tegemise asemel; võib varjata tuba, nagu oleks see pimendatud (vaata **Pimedus**).
-7. Kui sihtmärki tabatakse, peavad nad veerema Õnne. Kui kontroll ebaõnnestub, on nad põlemas ja võtavad 1D6 punkti kahju kohe ja igal järgneval voorul, kuni tuli on kustutatud või neutraliseeritud (vaata **Tuli ja kuumus**).
+1. Kahju on väljendatud täringutena meetri kohta; iga meetri järel pärast esialgset raadiust väheneb kahju 1D6 võrra.
+2. Kõik kahjustatud sihtmärgid peavad sooritama vastupidavuse viske, muidu nad uimastatakse (vaata **Uimastamine**).
+3. Valgustab ala kahjustamise asemel (vaata **Valgusallikad**).
+4. Täidab ala mürgise või mittemürgise gaasiga (vaata **Mürgid**). Näitlik gaasigranaat võib olla 2D6+12 POT, kohese efektiga, põhjustades lämbumist ja 1D6 kahju voorus, kui sihtmärk ebaõnnestub vastupanuviskes VAS-i vastu.
+5. Fosforgranaadid tekitavad suitsu ja on ka süütevahendid, põhjustades kahju igas voorus, kuni need kustutatakse (vaata **Tuli ja kuumus**).
+6. Täidab ala nägemist takistava suitsuga kahju tegemise asemel; võib muuta ruumi pimedaks (vaata **Pimedus**).
+7. Kui sihtmärk tabatakse, peab ta veerema Luck. Kui vise ebaõnnestub, süttib sihtmärk põlema ja võtab 1D6 punkti kahju kohe ja igal järgneval voorul, kuni tuli kustutatakse või neutraliseeritakse (vaata **Tuli ja kuumus**).
 
 ##### Täiustatud lõhkeained
 
-| Relv | Oskus | Baas | Kahju1 | Rünnak | Eriala | Ulatus | Käed | TP | Tõrje | STR/DEX | Rike | Väärtus | SIZ/Enc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Detonaator, antimaterjal | Lammutamine | — | 10D10/10 meetrit | 1 | — | 110 | — | 12 | Ei | — | 96–00 | Kallis | 1.5 |
-| Detonaator, fusioon | Lammutamine | — | 10D8/10 meetrit | 1 | — | 110 | — | 16 | Ei | — | 98–00 | Kallis | 2.0 |
-| Detonaator, EM impulss | Lammutamine | — | 6D10/5 meetrit2 | 1 | — | 35 | — | 12 | Ei | — | 97–00 | Kallis | 1.0 |
-| Detonaator, plasma | Lammutamine | — | 6D10/5 meetrit3 | 1 | — | 35 | — | 10 | Ei | — | 99–00 | Kallis | 1.4 |
-| Detonaator, heliline | Lammutamine | — | 4D6/2 meetrit4 | 1 | Tagasilöök | 10 | — | 8 | Ei | — | 97–00 | Kallis | 2.0 |
-| Granaat, lagundaja | Granaat | Vise | 4D10/2 meetrit | 1 | — | Visatud | 1H | 12 | Ei | 5/5 | 96–00 | Kallis | 0.8 |
-| Granaat, EM impulss | Granaat | Vise | 5D8/1 meeter | 1 | — | Visatud | 1H | 8 | Ei | 5/5 | 98–00 | Keskmine | 0.5 |
-| Granaat, fusioon | Granaat | Vise | 6D6/1 meeter | 1 | — | Visatud | 1H | 10 | Ei | 5/5 | 97–00 | Keskmine | 0.8 |
-| Granaat, plasma | Granaat | Vise | 3D10/2 meetrit3 | 1 | — | Visatud | 1H | 10 | Ei | 5/5 | 98–00 | Keskmine | 0.7 |
-| Granaat, löögi- | Granaat | Vise | 4D6/1 meeter | 1 | Tagasilöök | Visatud | 1H | 8 | Ei | 5/5 | 98–0 | Keskmine | 0.5 |
-| Granaat, uimastus- | Granaat | Vise | 3D8/2 meetrit5 | 1 | Tagasilöök | Visatud | 1H | 8 | Ei | 5/5 | 98–00 | Keskmine | 0.5 |
+| Relv | Oskus | Baas | Kahju1 | Rünnak | Eripära | Kaugus | Käed | HP | Tõrjumine | JÕU/OSA | Rike | Väärtus | SUU/Kand. |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Detonaator, antimaterjal | Lammutus | — | 10D10/10 meetrit | 1 | — | 110 | — | 12 | Ei | — | 96–00 | Kallis | 1.5 |
+| Detonaator, fusioon | Lammutus | — | 10D8/10 meetrit | 1 | — | 110 | — | 16 | Ei | — | 98–00 | Kallis | 2.0 |
+| Detonaator, EM-impulss | Lammutus | — | 6D10/5 meetrit2 | 1 | — | 35 | — | 12 | Ei | — | 97–00 | Kallis | 1.0 |
+| Detonaator, plasma | Lammutus | — | 6D10/5 meetrit3 | 1 | — | 35 | — | 10 | Ei | — | 99–00 | Kallis | 1.4 |
+| Detonaator, heliline | Lammutus | — | 4D6/2 meetrit4 | 1 | Tagasitõuge | 10 | — | 8 | Ei | — | 97–00 | Kallis | 2.0 |
+| Granaat, lagundaja | Granaat | Vise | 4D10/2 meetrit | 1 | — | Visatav | 1K | 12 | Ei | 5/5 | 96–00 | Kallis | 0.8 |
+| Granaat, EM-impulss | Granaat | Vise | 5D8/1 meeter | 1 | — | Visatav | 1K | 8 | Ei | 5/5 | 98–00 | Keskmine | 0.5 |
+| Granaat, fusioon | Granaat | Vise | 6D6/1 meeter | 1 | — | Visatav | 1K | 10 | Ei | 5/5 | 97–00 | Keskmine | 0.8 |
+| Granaat, plasma | Granaat | Vise | 3D10/2 meetrit3 | 1 | — | Visatav | 1K | 10 | Ei | 5/5 | 98–00 | Keskmine | 0.7 |
+| Granaat, elektri | Granaat | Vise | 4D6/1 meeter | 1 | Tagasitõuge | Visatav | 1K | 8 | Ei | 5/5 | 98–0 | Keskmine | 0.5 |
+| Granaat, uimastus | Granaat | Vise | 3D8/2 meetrit5 | 1 | Tagasitõuge | Visatav | 1K | 8 | Ei | 5/5 | 98–00 | Keskmine | 0.5 |
 
-1. Kahju on väljendatud täringutena meetri kohta; kahju meetri kohta väljaspool algset raadiust väheneb 1D meetri kohta.
-2. Kahju veeretatakse ja pannakse vastupanu kontrollis vs. elektroonilisel/elektrilisel sihtmärgil CON või praegused tabamuspunktid. Kui sihtmärk kaotab, kannatavad nad kahju vastavalt veeretatud summale. Kui vastupanu kontroll õnnestub, võtab sihtmärk detonaatori minimaalset kahju (ulatuse põhjal) praegustest tabamuspunktidest.
-3. Tabatud sihtmärk peab tegema Raske Õnne kontrolli. Kui kontroll ebaõnnestub, on nad põlemas ja võtavad 1D6 punkti kahju kohe ja igal järgneval voorul, kuni tuli on kustutatud või neutraliseeritud (vaata **Tuli ja kuumus**).
-4. Eluta sihtmärgi vastu pannakse kahju vastupanu kontrollis vs. sihtmärgi CON, soomusrüü väärtus või tabamuspunktid (mängujuhi valikul). Kui sihtmärk kontrollis ebaõnnestub, puruneb see või muutub mitte-funktsionaalseks.
-5. Veere kahju ja pane see vastupanu kontrollis vs. sihtmärgi CON. Kui sihtmärk õnnestub, võtavad nad minimaalse kahju (2) asemel veeretatud kahju. Kui sihtmärk kaotab, on nad uimastatud 1D3+1 vooru (vaata **Uimastamine**).
+1. Kahju on väljendatud täringutena meetri kohta; iga meetri järel pärast esialgset raadiust väheneb kahju 1D võrra meetri kohta.
+2. Kahju veeretatakse ja võrreldakse elektroonilise/elektrilise sihtmärgi VAS-iga või jooksvate elupunktidega vastupanuviskes. Kui sihtmärk kaotab, saab ta veeretatava summa ulatuses kahju. Kui vastupanu vise õnnestub, võtab sihtmärk detonaatori miinimumkahju (kauguse põhjal).
+3. Tabatud sihtmärk peab tegema raske Luck-viske. Kui vise ebaõnnestub, süttib sihtmärk põlema ja võtab 1D6 punkti kahju kohe ja igal järgneval voorul, kuni tuli kustutatakse või neutraliseeritakse (vaata **Tuli ja kuumus**).
+4. Mitteelava sihtmärgi puhul võrreldakse kahju sihtmärgi baas-VAS-iga, soomuse väärtusega või elupunktidega (mängujuhi valik). Kui sihtmärk viskes ebaõnnestub, puruneb see või muutub funktsionaalselt kõlbmatuks.
+5. Veereta kahju ja võrdle seda sihtmärgi VAS-iga vastupanuviskes. Kui sihtmärk õnnestub, võtab ta miinimumkahju (2) veeretatava kahju asemel. Kui sihtmärk kaotab, on ta uimastatud 1D3+1 vooru (vaata **Uimastamine**).
 
 ## Robotid ja tehiselu
 
-Üks unikaalne varustuse tüüp on **robot**, ehitis, mida koheldakse nagu tegelast, sarnase karakteristikute ja oskuste vahemikuga. Robotid ulatuvad kuju ja disaini poolest mitte-humanoidsetest golemidest, kohmakatest ja ülisuurtest automaatidest, elegantsetest ja atraktiivsetest humanoididest kuni tegelasteni, keda pole võimalik inimestest eristada. Mugavuse huvides nimetatakse kõiki robotite tüüpe (androiidid, golemid, sünteetilised humanoidid, tehisintellektid jne) nendes reeglites robotiteks.
+Üks ainulaadne varustuse tüüp on **robot**, tegelasena koheldav konstruktsioon, millel on sarnane omaduste ja oskuste valik. Roboteid on erineva kuju ja disainiga: mitte-humanoidsed golemid, kohmakad ja ülegabariidilised automaadid, elegantsed ja atraktiivsed humanoidid või isegi inimestest eristamatud mudelid. Mugavuse huvides nimetatakse kõiki roboti tüüpe (androidid, golemid, sünteetilised humanoidid, tehisintellektid jne) nendes reeglites robotiteks.
 
-Kõik roboti atribuudid on identsed tavalise tegelase omadega, samade karakteristikute, oskuste ja isegi võimetega. 11. peatükis: Olendid on näidisrobot.
+Kõik roboti atribuudid on identsed tavalise tegelase omadega, samade omaduste, oskuste ja isegi võimetega. Üheteistkümnendas peatükis: Olendid on näidisrobot.
 
-### Robotid kui mängijategelased
+### Robotid mängijategelastena
 
-Mängujuhi loal võib sinu tegelane olla isegi robot, ehitatud kas tavalise tegelase loomise abil või kasutades näidiseid mallina. Sel juhul peaks sinu tegelane olema üles ehitatud tavalise tegelase liinidel, kuigi POW muutub lihtsaks akude salvestusvõimekuseks, mitte tegelikuks hinge-jõuks. Kõige sobivam võimete komplekt roboti jaoks on supervõimete süsteem. Sinu tegelast tuleb parandada asjakohase Remondi oskusega (või Tehnilise oskusega, sõltuvalt sellest, kui arenenud sinu tegelane on), ja need parandused võivad nõuda staatuse kontrolli, et saada ligipääs vajalikele komponentidele.
+Mängujuhi loal võib sinu tegelane olla isegi robot, ehitatud kas tavapärase tegelase loomise käigus või kasutades ühte näidistest mallina. Kui nii, siis peaks sinu tegelane olema üles ehitatud sarnaselt tavalisele tegelasele, kuigi VÄG muutub lihtsaks akusalvestusvõimeks, mitte tegelikuks hingejõuks. Roboti jaoks on kõige sobivam võimetekomplekt supervõimete süsteem. Sinu tegelast tuleb remontida vastava remondioskuse (või tehnilise oskuse, sõltuvalt sellest, kui arenenud su tegelane on) kaudu ja need remonditööd võivad nõuda staatuse viset vajalike komponentide hankimiseks.### Küberneetika
 
-### Küborgid
+Kui soovid, et su tegelasel oleks kehas küberneetilisi aspekte, nagu tehisjäsemed või -organid, tee koostööd oma mängujuhiga, et määrata, millist mõju tehislik kehaosa avaldab. Enamikul juhtudel, kui kehaosa ei paku mingeid eriboonuseid või ebatavalisi omadusi, eelda, et seda käsitletakse samamoodi nagu elusat kehaosa, kuid esmaabi oskuse asemel kasuta vastavat Remondi- või Tehnilist oskust, et taastada jäseme funktsionaalsus, kui see on saanud kahjustada raske haava või kehaosade vigastuste tagajärjel.
 
-Kui soovid, et sinu tegelasel oleks kehas mingi küberneetiline aspekt, näiteks kunstlikud jäsemed või organid, tee koostööd mängujuhiga, et teha kindlaks, milliseid efekte kunstlik kehaosa peaks omama. Enamikul juhtudel, kui kehaosa ei paku erilisi boonuseid või ebatavalisi atribuute, eelda, et seda koheldakse täpselt nagu elavat kehaosa, kuigi esmaabi oskuse asemel kasuta asjakohast Remondi või Tehnilist oskust, et taastada jäseme funktsionaalsus, kui see on kahjustatud raske haava või vigastuse tõttu tabamiskohtade kasutamisel.
-
-Kui soovid, et kunstlikul kehaosal oleks mingeid erilisi võimeid või atribuute, mis ületavad tavalise jäseme omi, ehita jäse nii, nagu see oleks vidin (vaata **Varustus supervõimetega**), ainult olemuslikult kinnitatud sinu tegelase keha külge. Alternatiivina võib kunstlik jäse/organ olla eemaldatav või isegi modulaarne. Mõlemal juhul on vidinate süsteem parim vahend küberneetiliste või muul viisil kunstlike kehaosade simuleerimiseks.
+Kui soovid, et tehislikul kehaosal oleks mõni eriline võime või omadus, mis ületab tavalise jäseme oma, ehita jäse nii, nagu see oleks vidin (vt **Erivõimetega varustus**), kuid kinnita see olemuslikult oma tegelase keha külge. Teise võimalusena võib tehisjäse/-organ olla eemaldatav või isegi moodulitest koosnev. Igal juhul on vidinasüsteem parim viis küberneetiliste või muul viisil tehislike kehaosade simuleerimiseks.
 
 > ### Meetrilised teisendused
 > 
-> Basic Roleplaying kasutab vaikimisi meetrilist süsteemi. Kuigi suurem osa maailmast kasutab meetrilist süsteemi, kasutatakse ajaloolistes maailmades sageli imperiaalseid mõõtühikuid ning sina ja mängujuht võite soovida selliseid mõõte kasutada lihtsuse ja/või maitse huvides. Meetrilised teisendused allpool on ligikaudsed ja ümmargustatud mugavuse huvides.
+> Basic Roleplaying kasutab vaikimisi meetermõõdustikku. Kuigi suurem osa maailmast kasutab meetermõõdustikku, kasutatakse ajaloolistes seadetes sageli imperiaalseid mõõtühikuid ning sina ja su mängujuht võite soovida neid kasutada mugavuse ja/või õhkkonna huvides. Alltoodud meetrilised teisendused on ligikaudsed ja vajadusel ümardatud.
 > 
-> ##### Meetrilised/Imperiaalsed ekvivalentsid
+> ##### Meetrilised/imperiaalsed ekvivalendid
 > 
 > | 1 sentimeeter = 1/3 tolli | 0° C = 32° F |
-> | :--- | :--- |
+> | :---- | :---- |
 > | 1/3 meetrit = 1 jalg | 10° C = 50° F |
-> | 1 meeter = 1 õu | 20° C = 68° F |
+> | 1 meeter = 1 jard | 20° C = 68° F |
 > | 1 kilomeeter = 3/5 miili | 30° C = 86° F |
 > | 100 grammi = 3 untsi | 40° C = 104° F |
-> | 1 kilogramm = 2.2 naela | 100° C = 212° F |
-> | 1 tonn = 2,200 naela | 200° C = 392° F |
+> | 1 kilogramm = 2,2 naela | 100° C = 212° F |
+> | 1 tonn = 2200 naela | 200° C = 392° F |
 > | 1 liiter = 1 kvart | 500° C = 922° F |
-> | 4 liitrit = 1 gallon | 1,000° C = 1,832° F |
+> | 4 liitrit = 1 gallon | 1000° C = 1832° F |
 
 ## Sõidukid
 
-Täpselt nagu relvade ja soomusrüü tüüpide puhul, sisaldab järgmine jaotis mitmesuguseid sõidukeid, mis on loetletud jaotises **Liikumiskiirused**, samuti teisi seiklemiseks sobivaid sõidukeid. Need abstraktsed näited aitavad sind ja mängujuhti luua täiendavaid sõidukite tüüpe, laiendades või muutes statistikat vastavalt soovile.
+Sarnaselt relva- ja soomustüüpidega sisaldab järgmine jaotis erinevaid sõidukeid, mis on loetletud jaotises **Liikumiskiirused**, ning teisi, mis sobivad seiklemiseks. Need abstraktsed näited aitavad teil ja teie mängujuhil luua täiendavaid sõidukitüüpe, laiendades või muutes statistikat vastavalt soovile.
 
 Iga sõiduki määratlemiseks kasutatakse järgmisi termineid:
 
 * **Tüüp:** Sõiduki üldine tüüp.
-* **Oskus:** Oskus, mida kasutada selle juhtimisel.
-* **Hinnatud kiirus:** Sõiduki maksimaalne kiirus, abstraktne väärtus, mida kasutatakse tagaajamissüsteemis.
-* **Juhitavus:** Sinu tegelase oskusele rakendatav modifikaator, mis peegeldab sõiduki manööverdusvõimet või suhtelist kasutusmugavust.
-* **ACC:** Kiirendus, kiiruse sammude arv, mille võrra sõiduk saab kiirendada või aeglustada oma praegusest hinnatud kiirusest iga võitlusvooru kohta. See esitatakse ± väärtusena ja seda kasutatakse sõidukite tagaajamissüsteemis.
-* **MOV:** Sõiduki maksimaalne kiirus võitlusvoorus, väljendatud selle MOV reitingus. MOV-il on libisev väärtus 1–5 meetrit; see eeldab keskmist väärtust 3.
-* **Soomusrüü:** Sõiduki üldine soomusrüü väärtus ja kaitse, mida see meeskonnale või reisijatele pakub. Tavaliselt on rünnakud reisijate vastu läbi akna või avatud salongiosa. Kui need kaks numbrit on erinevad, on need väljendatud kahe väärtusena, mida eraldab kaldkriips. Mängujuht peaks määrama, kas tegelasel on sõidukist kaitse. Kellegi ründamine sõiduki sees on Raske.
-* **SIZ:** Sõiduki apparent SIZ väärtus.
-* **TP:** Sõiduki tabamuspunktid. Sõidukid ei kannata eriala edude sekundaarseid mõjusid, välja arvatud suurenenud kahju, ja kriitilised edud ignoreerivad sõiduki soomusrüüd ja teevad suurenenud kahju.
-* **Meeskond:** Tegelaste arv, mida sõiduk vajab täielikuks efektiivsuseks reisi ajal. Suuremate laevade puhul on see tavaliselt 1/3 tavapärasest meeskonnast, kuna meeskonnad töötavad 8-tunnistes vahetustes. Sõidukitega seotud oskuste kontrollid võivad olla Rasked, kui sõiduk on meeskonna alaesindatud.
-* **Reisijad:** Reisijate arv, mida sõiduk tavaliselt kannab, koos valvet mittepidavate meeskonnaliikmete arvuga (kui asjakohane).
-* **Last:** Ruum, mis sõidukil on lasti jaoks, väljendatud SIZ-is. Mängu eesmärgil võrdub 1 ENC 1 SIZ-punktiga.
-* **Väärtus:** Sõiduki üldväärtus, nagu on kirjeldatud **Money** ja **Purchasing Equipment**.
-* **Märkused:** Täiendavad märkused sõiduki ja selle võimete kohta.
+
+* **Oskus:** Oskus, mida selle juhtimiseks kasutada.
+
+* **Hinnanguline kiirus:** Sõiduki maksimaalne kiirus, abstraktne väärtus, mida kasutatakse tagaajamissüsteemis.
+
+* **Juhitavus:** Sinu tegelase oskusele rakendatav modifikaator, mis peegeldab sõiduki manööverdamisvõimet või suhtelist kasutusmugavust.
+
+* **ACC:** Kiirendus, kiirusühikute arv, mille võrra sõiduk saab igas võitlusvoorus oma praegusest hinnangulisest kiirusest kiirendada või aeglustada. See on esitatud ± väärtusena ja seda kasutatakse sõidukite tagaajamissüsteemis.
+
+* **MOV:** Sõiduki maksimaalne kiirus võitlusvoorus, väljendatud selle MOV-väärtusena. MOV väärtus on vahemikus 1–5 meetrit; see eeldab mediaanväärtuseks 3.
+
+* **Soomus:** Sõiduki üldine soomusväärtus ja kaitse, mida see meeskonnale või reisijatele pakub. Tavaliselt toimuvad rünnakud reisijate vastu läbi akna või salongi avatud osa. Kui need kaks numbrit on erinevad, on need esitatud kahe kaldkriipsuga eraldatud väärtusena. Mängujuht peaks otsustama, kas tegelasel on sõiduki poolt pakutav kaitse. Sõidukis viibiva isiku ründamine on keeruline (Difficult).
+
+* **SUU:** Sõiduki näiline SUU-väärtus.
+
+* **HP:** Sõiduki tabamispunktid (hit points). Sõidukid ei kannata eriliste õnnestumiste sekundaarsete mõjude all, välja arvatud suurenenud kahju, ja kriitilised õnnestumised eiravad sõiduki soomust ja tekitavad suuremat kahju.
+
+* **Meeskond:** Tegelaste arv, kes on vajalik sõiduki juhtimiseks ja täielikus töökorras hoidmiseks teekonna jooksul. Suuremate aluste puhul on see tavaliselt 1/3 tavalisest koosseisust, kuna meeskonnad töötavad 8-tunnistes vahetustes. Sõidukiga seotud oskuste kontrollid võivad olla keerulised (Difficult), kui sõidukil on liiga vähe meeskonda.
+
+* **Reisijad:** Reisijate arv, mida sõiduk tavaliselt kannab, koos valveväliste meeskonnaliikmete arvuga (kui see on asjakohane).
+
+* **Last:** Sõiduki kaubaruum, väljendatud SUU-s. Mängu eesmärgil võrdub 1 ENC 1 SUU-punktiga.
+
+* **Väärtus:** Sõiduki üldine väärtus, nagu on kirjeldatud jaotistes **Raha** ja **Varustuse ostmine**.
+
+* **Märkused:** Täiendavad märkused sõiduki ja selle võimekuse kohta.
 
 ### Sõidukite kirjeldused
 
-See jaotis kirjeldab mitmesuguseid sõidukeid, organiseeritud tähestikuliselt.
+Selles jaotises kirjeldatakse erinevaid sõidukeid, mis on järjestatud tähestikulises järjekorras.
 
-**Õhusõiduk, pommitaja:** Tohutu, propelleri- või turbiinmootoriga õhusõiduk, mida kasutatakse pikamaa-pommitusmissioonideks, tavaliselt varustatud mitme kuulipildujatorniga.
+**Õhusõiduk, pommitaja:** Hiiglaslik propeller- või turbiinimootoriga õhusõiduk, mida kasutatakse kauglendudeks pommitusmissioonidel, tavaliselt varustatud mitme kuulipildujatorniga.
 
-**Õhusõiduk, dirižaabel:** Piiratud struktuuriraamistikuga õhupall, mille all ripub väike kajut, tavaliselt täidetud õhust kergema gaasiga. Juhitakse rootoritega.
+**Õhusõiduk, dirižaabel:** Piiratud konstruktsiooniga raamistiku ja all rippuva väikese kabiiniga õhupall, mis on tavaliselt täidetud õhust kergema gaasiga. Juhitakse rootoritega.
 
-**Õhusõiduk, helikopter:** Väiksem tiivikutega õhusõiduk. Kajutid ulatuvad lihtsatest pleksiklaasist mullidest kuni troopkambrite ja relvade alustega soomustatud versioonideni.
+**Õhusõiduk, helikopter:** Väiksem rootorlabadega õhusõiduk. Kabiinid ulatuvad lihtsatest pleksiklaasist mullidest kuni soomustatud väeosade ja relvakinnitustega salongideni.
 
-**Õhusõiduk, reaktiivlennuk:** Pikk kommertsreaktiivlennuk, vähemalt kahe tiivale monteeritud reaktiivturbiiniga.
+**Õhusõiduk, reaktiivlennuk:** Pikk kommerts-reaktiivreisilennuk, mille tiibadel on vähemalt kaks reaktiivturbiini.
 
-**Õhusõiduk, reaktiivhävitaja:** Suhteliselt väike, väga manööverdusvõimeline reaktiivlennuk, mis on mõeldud õhuvõitluseks ja pommirünnakuteks.
+**Õhusõiduk, hävituslennuk:** Suhteliselt väike ja väga manööverdamisvõimeline reaktiivlennuk, mis on mõeldud õhulahinguteks ja pommituslöökideks.
 
-**Õhusõiduk, propellerlennuk:** Väike propelleriga juhitav reisilennuk.
+**Õhusõiduk, propellerlennuk:** Väike propelleriga reisilennuk.
 
-**Õhusõiduk, Skyskimmer:** Kõrgtehnoloogiline ülikerge õhusõiduk, mis on võimeline vertikaalseks õhkutõusuks ja maandumiseks, kasutades täiustatud tõukejõutehnoloogiat.
+**Õhusõiduk, taevaliugur (Skyskimmer):** Kõrgtehnoloogiline ülilahe õhusõiduk, mis on võimeline vertikaalseks õhkutõusmiseks ja maandumiseks, kasutades täiustatud tõukuritehnoloogiat.
 
-**Auto, tänapäevane sedaan:** Keskmine neljaukseline tänapäevane auto.
+**Auto, kaasaegne sedaan:** Tavaline neljaukseline kaasaegne auto.
 
-**Auto, tänapäevane sportauto:** Äärmiselt kiire, kaheukseline, kaheistmeline, suure jõudlusega auto.
+**Auto, kaasaegne sportauto:** Äärmiselt kiire, kaheukseline, kaheistmeline ja suure jõudlusega auto.
 
-**Auto, vintage:** Vana kandiline auto, võrdne Model-T-ga.
+**Auto, vanaaegne:** Vana kandiline auto, võrreldav mudeliga T.
 
-**Paat, mootorpaat:** Väiksem mootorpaat, millel on üks propeller ja väike eesmine kajut.
+**Paat, mootorpaat:** Väiksem mootorpaat, millel on üks propeller ja väike eesmine kabiin.
 
-**Paat, väike sõudepaat:** Väike kahe pingiga sõudepaat.
+**Paat, väike aerupaat:** Väike kahe pingiga aerupaat.
 
-**Sõjavanker:** Väike kahehobuse vanker, ruumiga ühele juhile, ühele sõdalasele ja väikesele riiulile relvade või isiklike esemete jaoks.
+**Kaarik:** Väike kahe hobusega kaarik, kus on ruumi ühele juhile, ühele sõdalasele ja väikesele riiulile relvade või isiklike asjade jaoks.
 
-**Nelja-hobuse tõld:** Avatud või riidest katusega nelja-hobuse tõld.
+**Neljahobusevanker:** Avatud või riidest katusega neljahobusevanker.
 
-**Nelja-hobuse vanker:** Puidust postitõld, millel on kitsas reisijate kajut ja ruumi hoiustamiseks taga ja peal.
+**Neljahobusevagun:** Puidust tõld, millel on kitsas reisijatekabiin ja ruumi pagasi jaoks taga ja peal.
 
-**Hobune:** Vaata 11. peatükki: Olendid.
+**Hobune:** Vt 11. peatükk: Olendid.
 
-**Hõljuk:** Kommertsiaalne hõljukparvlaev, mis sobib umbes 20 reisijale suhteliselt vaiksel veel.
+**Hõljuk:** Kommertshõljuk-praam, mis sobib umbes 20 reisijale suhteliselt rahulikus vees.
 
-**Maapealne skimmer:** Kõrgtehnoloogiline turbiinmootoriga maapealne sõiduk, mis liigub kokkusurutud õhu voodil, nagu hõljuk.
+**Maaliugur (Land Skimmer):** Kõrgtehnoloogiline turbiinmootoriga maismaasõiduk, mis liugleb kokkusurutud õhupadjal, sarnaselt hõljukile.
 
-**Mootorratas:** Kaherattaline mootorsõiduk, milles on ruumi juhile ja ühele reisijale. Külgkorv on valikuline.
+**Mootorratas:** Kaherattaline mootorsõiduk, kus on ruumi juhile ja ühele reisijale. Külghoone valikuline.
 
-**Laev, lennukikandja:** Tohutu laev (300+ meetrit pikk), millel on lame tekk, mis suudab hävituslennukeid välja saata ja lasta neil maanduda.
+**Laev, lennukikandja:** Tohutu laev (300+ meetrit pikk), millel on lame tekk, mis suudab hävituslennukeid õhku paisata ja nende maandumist vastu võtta.
 
-**Laev, iidne sõudelaev:** Pikk laev, millel on üksikud aerude read, sadamas ja tüürpoordis, mida tavaliselt sõudsid galeeriorjad või võitlejad.
+**Laev, iidne aerulaev:** Pikk laev ühe aerureaga poordis, tavaliselt sõudjateks orjad või võitlejad.
 
-**Laev, tänapäevane lahingulaev:** Massiivne lahingulaev (165+ meetrit pikk), tugevalt soomustatud paljude erinevate pikamaa-suurtükiväe ja raketisüsteemidega.
+**Laev, moodne lahingulaev:** Massiivne sõjalaev (165+ meetrit pikk), tugevalt soomustatud, varustatud mitmesuguste kaugmaasuurtükkide ja raketisüsteemidega.
 
-**Laev, tänapäevane kruiisilaev:** Massiivne reisilaev (300+ meetrit pikk), mis toimib peaaegu mobiilse hotellina, kaupluste, meelelahutusvõimaluste ja lugematute mugavustega.
+**Laev, moodne kruiisilaev:** Massiivne reisilaev (300+ meetrit pikk), mis toimib peaaegu kui liikuv hotell, pakkudes poode, meelelahutusvõimalusi ja lugematuid mugavusi.
 
-**Laev, vintage purjelaev:** Galeon, umbes 35 meetrit pikk, kahe või enama mastiga.
+**Laev, vanaaegne purjekas:** Galeoon, umbes 35 meetrit pikk, kahe või enama mastiga.
 
-**Kosmosesõiduk, kaubalaev:** Kosmosekaubanduse tugisammas, see on väikese meeskonnaga kaubalaev. Kergelt soomustatud ja relvastatud. Võib omada energiakaitset.
+**Kosmosesõiduk, kaubalaev:** Kosmosekaubanduse tugisammas, see on väikese meeskonnaga kaubalaev. Kergelt soomustatud ja relvastatud. Võib omada energiekraani.
 
-**Kosmosesõiduk, rakett:** Mitmeastmeline kütusega rakett väikese reisijate kajuti/maandumismooduliga.
+**Kosmosesõiduk, rakett:** Mitmeastmeline kütuserakett väikese reisijatekabiini/maandumismooduliga.
 
-**Kosmosesõiduk, tähehävitaja:** Suhteliselt väike, väga manööverdusvõimeline kosmoselaev, mis on võrdne reaktiivhävitajaga. Tugevalt relvastatud, kuigi kergelt soomustatud. Võib omada energiakaitset.
+**Kosmosesõiduk, tähehävittäja:** Suhteliselt väike, väga manööverdamisvõimeline kosmoselaev, mis on võrdväärne hävituslennukiga. Tugevalt relvastatud, kuigi kergelt soomustatud. Võib omada energiekraani.
 
-**Kosmosesõiduk, transport:** Mõõduka suurusega kosmoselaev, mida kasutatakse peamiselt reisijate või lasti veoks, kergelt soomustatud ja relvastatud. Võib omada energiakaitset.
+**Kosmosesõiduk, transpordilaev:** Keskmise suurusega kosmoselaev, mida kasutatakse peamiselt reisijate või kauba veoks, kergelt soomustatud ja relvastatud. Võib omada energiekraani.
 
-**Allveelaev:** Sõjaliseks otstarbeks kasutatav allveelaev, mis on mõeldud varjatuse, vaenlase vetesse tungimise ja meresõja jaoks.
+**Allveelaev:** Sõjaväe kasutatav sukeldatav alus hiilimiseks, vaenlase vetesse imbumiseks ja merelahinguteks.
 
-**Tank, tänapäevane:** Tugevalt soomustatud roomikutega lahingusõiduk, mis on varustatud suurekaliibrilise keskse kahuri ja muude relvadega.
+**Tank, moodne:** Tugevalt soomustatud roomikutega lahingusõiduk, mis on varustatud suurekaliibrilise keskse suurtüki ja muu relvastusega.
 
-**Tank, vintage:** Tugevalt soomustatud roomikutega lahingusõiduk, mis on tavaliselt varustatud suurekaliibrilise keskse kahuriga.
+**Tank, vanaaegne:** Tugevalt soomustatud roomikutega lahingusõiduk, tavaliselt varustatud suurekaliibrilise keskse suurtükiga.
 
-**Rong, kuuli-rong:** Kiire, voolujooneline reisirong, mis on ehitatud spetsiaalsele rööbasteele, mida tavaliselt juhib elekter.
+**Rong, kiirrong (Bullet):** Kiire ja voolujooneline reisirong, mis on ehitatud spetsiaalsele rööbasteele ja mida liigutab tavaliselt elekter.
 
-**Rong, Mag-lev:** Magnetrööbastel leviteeriv rong.
+**Rong, maglev:** Magnetrööbastel leviteeriv rong.
 
-**Rong, auruvedur:** 1800ndate lõpust pärit aurujõul töötav vedur. SIZ väärtus on vaguni kohta.
+**Rong, auruvedur:** 1800ndate lõpust pärit aurujõul töötav vedur. SUU-väärtus on ühe vaguni kohta.
 
-**Veoauto, kastiauto:** Nelikveoline kastiauto.
+**Auto, pikap:** Nelikveoline pikap.
 
-**Veoauto, poolhaagis (18-rattaline):** Suur kommertsveoauto väikese kajuti ja pika lastiosaga.
+**Auto, veok (18-rattaline):** Suur kommertsveoauto, millel on väike kabiin ja pikk kaubaruum.
 
 ##### Hobused ja hobuveokid
 
-| Tüüp | Oskus | Hinnatud | Juhitavus | ACC | MOV | Soomusrüü | SIZ | TP | Meeskond | Reisijad | Last | Väärtus | Märkused |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hobune | Ratsutamine | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Keskmine | Vaata Olendid |
-| Sõjavanker | Juhtimine | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Keskmine | Kahehobuse versioon |
-| Nelja-hobuse tõld | Juhtimine | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Keskmine | — |
-| Nelja-hobuse vanker | Juhtimine | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Keskmine | — |
+| Tüüp | Oskus | Hinnang | Juhitavus | ACC | MOV | Soomus | SUU | HP | Meeskond | Reisijad | Last | Väärtus | Märkused |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Hobune | Ratsutamine | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Keskmine | Vt Olendid |
+| Kaarik | Juhtimine | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Keskmine | Kahe hobuse tüüp |
+| Neljahobusevanker | Juhtimine | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Keskmine | — |
+| Neljahobusevagun | Juhtimine | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Keskmine | — |
 
 ##### Autod, veoautod, rongid ja tankid
 
-| Tüüp | Oskus | Hinnatud | Juhitavus | ACC | MOV | Soomusrüü | SIZ | TP | Meeskond | Reisijad | Last | Väärtus | Märkused |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Vintage | Juhtimine | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Keskmine | — |
-| Modern sedaan | Juhtimine | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Keskmine | — |
-| Modern sportauto | Juhtimine | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Kallis | — |
-| Kastiauto | Juhtimine | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Keskmine | — |
+| Tüüp | Oskus | Hinnang | Juhitavus | ACC | MOV | Soomus | SUU | HP | Meeskond | Reisijad | Last | Väärtus | Märkused |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Vanaaegne | Juhtimine | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Keskmine | — |
+| Modernne sedaan | Juhtimine | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Keskmine | — |
+| Modernne sportauto | Juhtimine | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Kallis | — |
+| Pikap | Juhtimine | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Keskmine | — |
 | 18-rattaline | Juhtimine | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Kallis | — |
 | Mootorratas | Juhtimine | 13 | +5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Keskmine | — |
-| Land Skimmer | Juhtimine | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Kallis | — |
-| Tank, vintage | Juhtimine | 4 | –10% | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | Piiratud | — |
-| Tank, modern | Juhtimine | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | Piiratud | — |
-| Rong, auruvedur | Juhtimine | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Kallis | SIZ vaguni kohta. Juhtimise kontrollid on Kerged. |
-| Rong, kuuli-rong | Juhtimine | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Hindamatu | SIZ vaguni kohta. Juhtimise kontrollid on Kerged. |
-| Rong, mag-lev | Juhtimine | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Hindamatu | SIZ vaguni kohta. Juhtimise kontrollid on Kerged. |
+| Maaliugur | Juhtimine | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Kallis | — |
+| Tank, vanaaegne | Juhtimine | 4 | –10% | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | Piiratud | — |
+| Tank, modernne | Juhtimine | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | Piiratud | — |
+| Rong, auruvedur | Juhtimine | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Kallis | SUU on per vagun. Juhtimine on Lihtne. |
+| Rong, kiirrong | Juhtimine | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Hindamatu | SUU on per vagun. Juhtimine on Lihtne. |
+| Rong, maglev | Juhtimine | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Hindamatu | SUU on per vagun. Juhtimine on Lihtne. |
 
 ##### Paadid ja laevad
 
-| Tüüp | Oskus | Hinnatud | Juhitavus | ACC | MOV | Soomusrüü | SIZ | TP | Meeskond | Reisijad | Last | Väärtus | Märkused |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Väike sõudepaat | Piloot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskmine | — |
-| Iidne sõudelaev | Piloot | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Kallis | — |
-| Vintage purjelaev | Piloot | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Kallis | — |
+| Tüüp | Oskus | Hinnang | Juhitavus | ACC | MOV | Soomus | SUU | HP | Meeskond | Reisijad | Last | Väärtus | Märkused |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Väike aerupaat | Piloot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskmine | — |
+| Iidne aerulaev | Piloot | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Kallis | — |
+| Vanaaegne purjekas | Piloot | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Kallis | — |
 | Hõljuk | Piloot | 4 | –5% | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | Kallis | — |
 | Mootorpaat | Piloot | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Keskmine | — |
-| Tänapäevane kruiisilaev | Piloot | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2,000+ | 120 | Hindamatu | — |
-| Tänapäevane lahingulaev | Piloot | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1,200+ | 200 | Piiratud | — |
-| Lennukikandja | Piloot | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1,000+ | 2,200+ | 320 | Piiratud | — |
+| Modernne kruiisilaev | Piloot | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2000+ | 120 | Hindamatu | — |
+| Modernne lahingulaev | Piloot | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1200+ | 200 | Piiratud | — |
+| Lennukikandja | Piloot | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1000+ | 2200+ | 320 | Piiratud | — |
 | Allveelaev | Piloot | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | Piiratud | — |
 
 ##### Õhusõidukid
 
-| Tüüp | Oskus | Hinnatud | Juhitavus | ACC | MOV | Soomusrüü | SIZ | TP | Meeskond | Reisijad | Last | Väärtus | Märkused |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Väike sõudepaat | Piloot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskmine | — |
-| Dirižaabel | Piloot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Hindamatu | Õhupall on soomustamata; kajut on. |
+| Tüüp | Oskus | Hinnang | Juhitavus | ACC | MOV | Soomus | SUU | HP | Meeskond | Reisijad | Last | Väärtus | Märkused |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Väike aerupaat | Piloot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskmine | — |
+| Dirižaabel | Piloot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Hindamatu | Õhupall on soomustamata; kabiin on. |
 | Propellerlennuk | Piloot | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Kallis | — |
 | Pommitaja | Piloot | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Piiratud | — |
 | Reaktiivlennuk | Piloot | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Hindamatu | — |
-| Reaktiivhävitaja | Piloot | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Piiratud | — |
+| Hävituslennuk | Piloot | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Piiratud | — |
 | Helikopter | Piloot | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | Hindamatu | — |
-| Skyskimmer | Piloot | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Kallis | — |
+| Taevaliugur | Piloot | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Kallis | — |
 
 ##### Kosmosesõidukid
 
-| Tüüp | Oskus | Hinnatud | Juhitavus | ACC | MOV | Soomusrüü | SIZ | TP | Meeskond | Reisijad | Last | Väärtus | Märkused |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tüüp | Oskus | Hinnang | Juhitavus | ACC | MOV | Soomus | SUU | HP | Meeskond | Reisijad | Last | Väärtus | Märkused |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Rakett | Piloot | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Hindamatu | — |
-| Transport | Piloot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Hindamatu | Kiirus on subvalguse; on FTL-ajam. |
-| Tähehävitaja | Piloot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Piiratud | Kiirus on subvalguse; on FTL-ajam. |
-| Kaubalaev | Piloot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Kallis | Kiirus on subvalguse; on FTL-ajam. |
+| Transport | Piloot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Hindamatu | Kiirus on subvalguse; FTL-mootor olemas. |
+| Tähehävittäja | Piloot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Piiratud | Kiirus on subvalguse; FTL-mootor olemas. |
+| Kaubalaev | Piloot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Kallis | Kiirus on subvalguse; FTL-mootor olemas. |
 
 ## Muu varustus
 
-See jaotis käsitleb mitmesugust muud varustust, mida sinu tegelane võib kasutada ja mis ei kuulu eelmistesse kategooriatesse. See nimekiri pole täielik, kuid peaks pakkuma piisavalt juhiseid, et sina või mängujuht saaksite määrata enamiku muu varustuse atribuute.
+See jaotis käsitleb mitmesugust muud varustust, mida su tegelane võib kasutada ja mis ei kuulu eelmistesse kategooriatesse. See nimekiri ei ole ammendav, kuid peaks andma piisavalt juhiseid, et sina või su mängujuht saaksite määrata enamiku muud tüüpi varustuse asjakohased omadused.
 
 ### Mürgid
 
-Mürkide käsitsemise reegleid arutatakse jaotises **Mürgid** ja **Näidismürkide tabel** pakub mitmesuguseid näidismürke.
+Mürkide käitlemise reegleid käsitletakse jaotises **Mürgid** ning **Mürkide näidistabel** pakub erinevaid mürkide näiteid.
 
-> ##### Näidismürkide tabel
+> ##### Mürkide näidistabel
 > 
 > | Mürk | Toime kiirus | POT | Sümptomid |
-> | :--- | :--- | :--- | :--- |
-> | Arseen | ½ kuni 24 tundi | 16 | Põletav valu, oksendamine, äge kõhulahtisus |
-> | Belladonna | 2 tundi kuni 2 päeva | 16 | Kiire südamerütm, nägemishäired, krambid. |
-> | Mustlesikmürk | 2–8 päeva | 7 | Külmavärinad, higistamine, iiveldus. |
-> | Kobramürk | 15–60 minutit | 16 | Krambid, hingamispuudulikkus. |
-> | Kurare | 1 võitlusvoor | 25 | Lihashalvatus, hingamispuudulikkus. |
+> | :---- | :---- | :---- | :---- |
+> | Arseen | ½ kuni 24 tundi | 16 | Kõrvetav valu, oksendamine, äge kõhulahtisus |
+> | Belladonna | 2 tundi kuni 2 päeva | 16 | Kiire südametegevus, nägemishäired, krambid. |
+> | Musta lese mürk | 2–8 päeva | 7 | Külmavärinad, higistamine, iiveldus. |
+> | Kobra mürk | 15–60 minutit | 16 | Krambid, hingamispuudulikkus. |
+> | Kuraare | 1 võitlusvoor | 25 | Lihashalvatus, hingamispuudulikkus. |
 > | Tsüaniid | 1–15 minutit | 20 | Pearinglus, krambid, minestamine. |
-> | Lõgismürk | 15–60 minutit | 10 | Oksendamine, ägedad spasmid, kollakas nägemine. |
-> | Skorpionimürk | 24–48 tundi | 9 | Tugev valu, nõrkus, verejooks. |
-> | Unerohutabletid | 10–30 minutit | 6 | Tavaline uni; iga lisadoos suurendab hingamispuudulikkuse võimalust +5%. |
+> | Lõgismao mürk | 15–60 minutit | 10 | Oksendamine, ägedad spasmid, kollakas nägemine. |
+> | Skorpioni mürk | 24–48 tundi | 9 | Tugev valu, nõrkus, verejooks. |
+> | Unetabletid | 10–30 minutit | 6 | Normaalne uni; iga lisadoos suurendab hingamispuudulikkuse tõenäosust +5%. |
 > | Strühniin | 10–20 minutit | 20 | Ägedad lihaskontraktsioonid, lämbumine. |
 
 ### Raamatud ja trükised
 
-See kategooria hõlmab suurt hulka lugemismaterjale, ulatudes ajalehtedest, koomiksitest, kirjarullidest, pehmekaanelistest raamatutest, grimoaridest või raamatutest. Mugavuse huvides nimetatakse neid raamatuteks. Raamatud võivad olla mõeldud meelelahutuseks või informatiivsel eesmärgil. Siin käsitletakse ainult viimast tüüpi. Raamatutel võib olla peaaegu igasugune väärtus, alates odavast kuni hindamatuni, sõltuvalt teemast, väljaandmise kuupäevast, autorist, haruldusest või muudest asjaoludest.
+See kategooria hõlmab suurt hulka lugemismaterjale, alates ajalehtedest, koomiksitest, kirjarullidest, pehmekaanelistest raamatutest, loitsuraamatutest kuni tavaliste raamatuteni. Mugavuse huvides nimetatakse neid raamatuteks. Raamatud võivad olla meelelahutuslikuks või informatiivseks otstarbeks. Siin käsitletakse ainult viimast tüüpi. Raamatutel võib olla peaaegu igasugune väärtus, odavast hindamatuni, sõltuvalt teemast, avaldamiskuupäevast, autorist, haruldusest või muudest asjaoludest.
 
 Kui raamatut otsitakse või see leitakse, peaks mängujuht määrama järgmise:
 
-* **Keel:** Kui raamat on kirjutatud muus keeles kui sinu tegelase emakeel, peavad nad raamatu tõlkima või tegema vastava keele kontrolli (või Kirjaoskuse, kui seda oskust kasutatakse).
-* **Oskus:** Kas sinu tegelane saab selle raamatu abil õppida oskust parandama? Üldiselt sisaldab raamat ühte oskust, kuigi haruldased ja hinnatud köited võivad sisaldada rohkem kui ühte teemat.
-* **Preemia:** Millist boonust oskusele saab raamatu lugemisega? See on üldiselt summa 1% kuni 20% ulatuses. Üldiselt on kohane summa 1% kuni 10%. Kui raamatust saab õppida rohkem kui ühte oskust, peaks mängujuht määrama kaks taset, isegi kui need on identsed.
-* **Lugemisaeg:** Kui kaua kulub raamatu lugemiseks? See esindab raamatu põhjalikku läbivaatamist ja katset seda kontekstis mõista. See võib hõlmata täiendavat lugemist, uurimist või analüüsi, et suurendada arusaamist ja materjali omandamist.
-* **Võimed:** Mõned haruldased raamatud sisaldavad maagilisi või nõiduseloitse, kutseid deemonitele või muudele üleloomulikele olenditele või mõnda muud vahendit võime õppimiseks. Mängujuht peaks määrama, kas raamatul on mõni neist, mis need on ja kui palju saab õppida (näiteks taseme või protsendi piirmäär, kui see on asjakohane). Mõnes teoses võib võime nimi olla ebaselge või tahtlikult ebamäärane, et kaitsta sisu algaja eest. Vaata 4. peatüki: Võimed maagia ja nõiduse juhiseid loitsude õppimiseks. Raamatul ei pruugi olla loitse, kuid see võib sisaldada deemoni, elementaali või isegi jumala tõelist nime.
+* **Keel:** Kui raamat on kirjutatud muus keeles kui tegelase emakeel, peab tegelane laskma raamatu tõlkida või tegema vastavaid keele- (või kirjaoskuse, kui seda oskust kasutatakse) kontrolle.
 
-### Raamatute tüübid
+* **Oskus:** Kas su tegelane saab selle raamatu abil oskust parandada? Üldiselt sisaldab raamat ühte oskust, kuigi haruldased ja hinnatud teosed võivad sisaldada rohkem kui ühte teemat.
 
-Alljärgnevalt on mitmesuguseid raamatute tüüpe ja nende kasutamist mängus:
+* **Preemia:** Millist boonust oskusele saab raamatu lugemisega? See on üldiselt vahemikus 1% lühikese või peamiselt ebaolulise materjaliga täidetud teksti puhul kuni 20% põhjaliku teose puhul, mis toimib teema ülima autoriteedina. Üldiselt on kohane vahemik +1% kuni +10%. Kui raamatust saab õppida rohkem kui ühte oskust, peaks mängujuht määrama kaks hinnangut, isegi kui need on identsed.
 
-* **Õpperaamatud:** Raamat, mis on mõeldud konkreetse teema või oskuse õpetamiseks, organiseeritud ja kirjutatud selle eesmärgiga. Eeldab, et kui sinu tegelane treenib iseseisvalt, kasutatakse õpperaamatuid võrdlusmaterjalidena. Õpperaamatud, kui need on edukalt loetud, annavad kogemuse kontrolli (vaata **Oskuste parandamise uurimine**), kuigi mängujuht võib anda vaikimisi oskuse kasvu.
-* **Teadmiste raamatud:** Teadmiste raamat sisaldas spetsialiseeritud mitte-teaduslikke teadmisi, olgu need okultsed, folkloor või mõni muu „pehme“ valdkond. Need varieeruvad struktuuri poolest tohutult, kuid annavad sageli ülevaate konkreetsest teadmiste valdkonnast autori vaatenurgast, olgu see siis teaduslik ülevaade või hullumeelse isiklik päevik. Teadmiste raamatu lugemine võimaldab lugejal tavaliselt suurendada oskust (oskusi), millele raamat on keskendunud. Need on sarnased õpperaamatutele, kuigi teadmiste raamatu edukas lugemine annab automaatse oskuse taseme kasvu. Mängujuht võib otsustada, et kuratlikke või õudseid teadmisi sisaldavad raamatud põhjustavad automaatse vaimse tervise (SAN) punktide kaotuse ilma võimaluseta seda vältida. Raamatute puhul, mis suurendavad Teadmiste oskust ja maksavad vaimse tervise punkte, peaks mängujuht kehtestama maksimaalse SAN-i piirangu 99 miinus Teadmiste oskuse tase, nagu kirjeldatud oskuse Blasphemous Knowledge kirjelduses ja Maksimaalne vaimne tervis.
-* **Teatmeteosed:** Teatmeteos võib olla sõnastik, entsüklopeedia või muu teatmeteos paberil, elektroonilisel või muus formaadis. Peamine erinevus teatmeteose ja muu raamatu vahel on see, et puudub katse infot kontekstualiseerida – selle asemel esitatakse see mitte-hierarhilises formaadis, kus kogu info on samal tasemel. Teatmeteosest on keeruline õppida ilma raamistiku või kontekstita teema jaoks, kuid teatmeteose lugemine on suurepärane vahend mõne teise Teadmiste oskuse täiendamiseks. Kui teatmeteost kasutatakse oskuse uurimiseks oskuste parandamise eesmärgil, on vajalik edukas kontroll raamatu lugemiseks, seejärel uuritava oskuse enda kontroll. Oskuse uurimiseks teatmeteose kaudu kuluv aeg on kahekordne õpperaamatu puhul. Oskuste parandamise uurimiseks tehtud edukad oskuste kontrollid ei teeni täiendavat kogemuse kontrolli.
-* **Loitsuraamatud:** Nimetatakse ka grimoarideks, need on raamatud, kirjarullid, tahvlid, nahad, kirjatud kivid, sõlmitud köied või muud vahendid, mida kasutatakse maagilistele või nõidadele vajaliku info edastamiseks, et õppida maagilisi loitse või salvestada loitse, mida nad juba teavad, või sisaldavad salajast informatsiooni maagiliste olendite või deemonite kohta. Neid loitsuraamatuid kirjeldatakse 4. peatüki: Võimed maagia ja nõiduse võimetes.
+* **Lugemisaeg:** Kui kaua raamatu lugemine aega võtab? See kujutab endast teksti põhjalikku läbitöötamist ja püüet sellest kontekstis aru saada. See võib nõuda täiendavat lugemist, uurimistööd või analüüsi, et mõistmist suurendada ja materjal selgeks õppida.
+
+* **Võimed:** Mõned haruldased raamatud sisaldavad maagiat või nõiduse loitse, kutseid deemonitele või teistele üleloomulikele olenditele või muid viise võime õppimiseks. Mängujuht peaks määrama, kas raamat sisaldab midagi sellist, mis need on ja kui palju saab õppida (näiteks taseme või protsendi piirang, kui see on asjakohane). Mõnes teoses võib võime tegelik nimi olla ebaselge või tahtlikult vage, et kaitsta sisu algaja eest. Loitsude õppimiseks vaadake maagia ja nõiduse võimete juhiseid. Raamatul ei pruugi olla ühtegi loitsu, kuid see võib sisaldada deemoni, elementaali või isegi jumala tõelist nime.### Raamatute tüübid
+
+Järgnevalt on toodud erinevad raamatute tüübid ja kuidas neid mängus kasutada:
+
+* **Õpperaamatud:** Raamat, mis on mõeldud konkreetse teema või oskuse õpetamiseks, olles sel eesmärgil koostatud ja kirjutatud. Eeldatakse, et kui teie tegelane treenib iseseisvalt, kasutatakse teatmeteosena õpperaamatuid. Õpperaamatud annavad edukal lugemisel kogemuskontrolli (vt **Oskuste kasvu uurimine**), kuigi mängujuht võib määrata ka vaikimisi oskuse kasvu.
+
+* **Teadmisteraamatud (Lore Books):** Teadmisteraamat sisaldab erialaseid teadmisi mitteteaduslikust valdkonnast, olgu selleks okultism, rahvaluule või mõni muu „pehme“ teadus. Nende struktuur on väga erinev, kuid sageli annavad need edasi konkreetset vaatenurka teemale autori seisukohast, olgu see siis teaduslik ülevaade või hullumeelse isiklik päevik. Teadmisteraamatu lugemine võimaldab lugejal tavaliselt tõsta oskus(t)i, millele raamat keskendub. Need sarnanevad õpperaamatutele, kuid teadmisteraamatu edukas lugemine annab automaatse oskuse taseme tõusu. Mängujuht võib otsustada, et kurjakuulutava või õudse sisuga raamatud põhjustavad automaatse vaimse tervise (sanity) punktide kaotuse ilma vastava vaimse tervise kontrollita. Raamatute puhul, mis tõstavad teadmistepõhist oskust ja maksavad vaimse tervise punkte, peaks mängujuht kehtestama maksimaalse vaimse tervise (SAN) piirangu, mis põhineb 99 miinus vastava oskuse tase, nagu on kirjeldatud jumalateotuse teadmiste (Blasphemous Knowledge) oskuse kirjelduses ja jaotises „Maksimaalne vaimne tervis“.
+
+* **Teatmeteosed:** Teatmeteos võib olla sõnaraamat, entsüklopeedia või muu teatmematerjal paberil, elektroonilisel või muul kujul. Peamine erinevus teatmeteose ja muu raamatutüübi vahel seisneb selles, et info konteksti viimiseks puudub katse – selle asemel on see esitatud mittehierarhilisel kujul, kus kogu info on samal tasemel. Teatmeteosest on keeruline õppida ilma tugiraamistiku või teemakohase kontekstita, kuid teatmeteose lugemine on suurepärane võimalus teise teadmistepõhise oskuse täiendamiseks. Kui teatmeteost kasutatakse oskuse uurimiseks oskuse parandamise eesmärgil, on raamatu lugemiseks vajalik edukas täringuvise, millele järgneb uuritava oskuse enda kontroll. Oskuse uurimiseks teatmeteose abil kuluv aeg on kaks korda pikem kui õpperaamatu puhul. Oskuse uurimiseks või täiendamiseks tehtud edukad oskuste kontrollid ei anna täiendavat kogemuskontrolli.
+
+* **Loitsuraamatud:** Tuntud ka kui grimoaarid, on need raamatud, kirjarullid, tahvlid, nahad, sissekannetega kivid, sõlmitud nöörid või muud vahendid, mida kasutatakse maagidele või nõidadele maagiliste loitsude õpetamiseks, juba teadaolevate loitsude talletamiseks või mis sisaldavad salajast teavet maagiliste olendite või deemonite kohta. Neid loitsuraamatuid kirjeldatakse maagia ja nõiduse võimete jaotises neljandas peatükis: Võimed.
 
 ### Raamatu kasutamine
 
-Raamatu kasutamiseks peab sinu tegelane suutma seda lugeda või mõista, kui see pole kirjutatud. See võib nõuda valikulist Kirjaoskuse oskust, kui seda kasutatakse, või edukat Keele kontrolli keele(te) jaoks, milles raamat on kirjutatud. Alternatiivina saab sageli tõlke hankida, kuigi see on kulukas, kui see tuleb teha komisjonitasu eest. Mängujuht peaks määrama, kui palju see maksaks, kasutades oskuste õpetajate juhiseid Oskuste treenimise jaotises. Kui raamatu uurimine on lõpetatud, teenib sinu tegelane asjakohased oskuspunktid, kui need on olemas.
+Raamatu kasutamiseks peab teie tegelane suutma seda lugeda või mõista, kui see pole kirjalikul kujul. See võib vajadusel nõuda valikulist kirjaoskust (Literacy) või edukat keeleoskuse kontrolli raamatu keeles. Alternatiivina saab sageli hankida tõlke, kuigi see on kulukas, kui see tuleb tellimustööna teha. Mängujuht peaks määrama selle hinna, kasutades oskuste treenimise jaotises toodud juhendeid õpetajate kohta. Kui raamatu uurimine on lõpule viidud, teenib teie tegelane vastavad oskuspunktid, kui neid on.
 
-### Raamatud objektidena
+### Raamatud esemetena
 
-Raamatute füüsilised omadused on tavaliselt vähem muljetavaldavad kui sisu. Enamik raamatuid on SIZ 0, 1 või 2 ja raamatu tabamuspunktid võrduvad selle SIZ-iga. Sõltuvalt sellest, millest see on valmistatud, on raamatul tavaliselt soomusrüü väärtus 0 (pehmekaaneline) kuni 4 soomuse punkti (raske nahkselg ja kaaned). Eriti vana raamat võib olla isegi raudköites (6+ soomuse väärtus). Kui raamatul pole täiendavat kaitsemeedet või see pole tugevalt konstrueeritud, saab selle hävitada või purustada nii mitmes võitlusvoorus, kui sellel on tabamuspunkte. Kui raamat on kirjarull, elektrooniline lugemisseade, holograafiline õppeekraan või arvuti, peaks mängujuht määrama selle SIZ-i ja tabamuspunktid selle peatüki esemete näidete põhjal.
+Raamatute füüsilised omadused on tavaliselt vähem muljetavaldavad kui nende sisu. Enamiku raamatute SUU on 0, 1 või 2 ja raamatu vastupidavuspunktid (hit points) on võrdsed selle SUU-ga. Sõltuvalt sellest, millest see on tehtud, on raamatul tavaliselt 0 (pehmekaaneline) kuni 4 punkti soomust (tugev nahast selg ja kaaned). Eriti vana raamat võib olla isegi raudköites (6+ soomuse väärtus). Kui raamatul pole täiendavaid kaitsemeetmeid või see pole tugevalt konstrueeritud, võib selle purustada või tulega hävitada nii mitme võitlusvooru jooksul, kui palju on sellel vastupidavuspunkte. Kui raamat on kirjarull, elektrooniline lugemisseade, holograafiline õppekuva või arvuti, peaks mängujuht määrama selle SUU ja vastupidavuspunktid lähtudes käesolevas peatükis toodud esemete näidetest.
 
 ### Meditsiinivarustus
 
-Füüsiline kahju on sinu tegelasele pidev oht ja paljud varustuse esemed eksisteerivad vigastuste ja haiguste ravimiseks. Järgmine meditsiinivarustus on loetletud suhtelise keerukuse järjekorras, alates primitiivsemast kuni futuristlikuni. Iga selline varustuse kogu on määratletud kui **komplekt**, varustuse ja materjalide sortiment, mida kasutatakse konkreetseks otstarbeks. Sinu mängujuht saab määrata, kas konkreetne komplekt on madalama, keskmise või kõrgema kvaliteediga, koos asjakohaste modifikaatoritega oskuse kasutamisele.
+Füüsiline kahju on teie tegelasele pidev oht ja vigastuste ning haiguste ravimiseks on olemas palju varustust. Järgmine meditsiinivarustus on loetletud suhtelise keerukuse järjekorras, alates primitiivsematest kuni futuristlikeni. Iga selline varustuse kogum on määratletud kui **komplekt (kit)** – vahendite ja materjalide valik, mida kasutatakse kindlal eesmärgil. Mängujuht saab määrata, kas konkreetne komplekt on madala, keskmise või suurepärase kvaliteediga, koos vastavate modifikaatoritega oskuste kasutamisel.
 
-* **Taimetarga või ämmaemanda komplekt:** Kasutavad šamaanid, ravitsejad, ämmaemandad ja kaanipanijad, see on sidemete, salvide, niidi ja terava nõela (luust või metallist) sortiment ning muud kummalised esemed, sealhulgas erineva efektiivsusega ravimtaimede vahendid. Selline komplekt on enamikus mängumaailmades odav ja selle on sageli omanik ise kogunud, kasutades Taimetarkuse (Herbalism) oskust.
-* **Esmaabikomplekt:** Standardne esmaabikomplekt sisaldab mängumaailmale kohaseid puhtaid (või steriilseid) sidemeid, kummikindaid, minor salve, pille minor haiguste või infektsioonide vastu, silmapesemisvahendit, mürkide või venomitöötlust ja väikseid tööriistu nagu pintsetid, käärid või isegi väike skalpell. Suurematel komplektidel on suurem valik eelnevat, mitmesuguseid ravimeid ja need võivad olla varustatud väikese esmaabijuhendiga. Esmaabikomplekti kasutatakse Esmaabi oskusega ja see on tavaliselt odav.
-* **Arstikott:** Traditsiooniline arstikott sisaldab mängumaailmale kohast pilli ja antibiootikumide sortimenti, stetoskoopi, valgust, retseptiraamatut ja mitmesuguseid meditsiinilisi vahendeid ja tööriistu kohapealseks diagnoosimiseks ja erakorraliseks meditsiiniliseks raviks. Arstikotti kasutatakse Esmaabi oskusega, kuid seda saab kasutada ka Meditsiini oskuse kontrollideks, sõltuvalt protseduurist. Arstikott on kallis.
-* **Kirurgiakomplekt:** Kirurgiliste tööriistade komplekt, pakendatud ja steriilne, valmis kasutamiseks. See sisaldab mitut paari kummikindaid, sidemeid, antiseptikume, õmblusvahendeid jne ning on hädavajalik mis tahes kirurgilise operatsiooni või Meditsiini oskuse kasutamise puhul, mis hõlmab operatsiooni. Igal haiglal peaks olema mitu kõike, mis kirurgiakomplekti kuulub. Kirurgiakomplekt on kallis.
-* **Traumakomplekt:** Spetsialiseeritud meditsiiniliste tarvete kogu koheseks traumade käsitlemiseks. Sageli mõeldud lahinguväljal kasutamiseks, sisaldab traumakomplekt tarvikuid nagu adrenaliinisüstid, antitoksiinid, muud abinõud keemiliste agentide vastu kaitsmiseks, erakorralised meditsiinilised tarvikud suurte ja lahtiste haavade koheseks raviks, kaasaskantav defibrillaator ja piiratud kirurgiliste tööriistade komplekt. Traumakomplekt on kallis.
-* **Medi-kit:** Kõrgtehnoloogiline varustuse komplekt, see sisaldab naha regenereerijaid, hüpo-pihusteid, kiireid verehüübimisaineid, lihtsat meditsiinilist skännerit, universaalseid antitoksiine ja vastumürke, stimuleerivaid süste, sünteetilist nahapihustit, pihustatavaid kipsi ja muid viise haavade koheseks sulgemiseks. Tavaliselt on medi-kitil väike meditsiiniline arvuti või lugeja, mis suudab kirjeldada tuhandeid ravimeetodeid ja diagnoosida lihtsaid vigastusi. Medi-kiti kasutamine muudab kõik Esmaabi katsed Kergeks ja kahekordistab tabamuspunktide hulka, mida edukas Esmaabi kontroll ravib. Kui see on sinu mängumaailmas kättesaadav, on medi-kit kallis.
-* **Auto-doc:** Täielikult automatiseeritud meditsiiniline ravimissüsteem koos keerukate diagnostikavõimetega, mis suudab ära tunda ja rakendada ravi peaaegu iga teadaoleva meditsiinilise seisundi puhul. Auto-docid võivad sisaldada robotkomponente, mis on võimelised patsiente manööverdama, või olla ruumi suurused, ulatades patsiendile keskvoodil jäsemeid ja muid manipulaatoreid. Auto-docil on 100% oskus Meditsiinis ja Esmaabis ning edukas kontroll taastab patsiendile kahekordse tabamuspunktide hulga, kusjuures taastumisajad lühenevad poole võrra. Auto-doc on kallis või hindamatu, samas kui ravi selles ulatub tasuta kuni hindamatuni.
+* **Taimetarga või ämmaemanda komplekt:** Kasutavad šamaanid, tohterdajad, ämmaemandad ja kaanipanijad; see on valik riideid sidemeteks, mähiseid, niiti ja terav nõel (luust või metallist) ning muud esemed, sealhulgas erineva tõhususega taimsed ravimid. Selline komplekt on enamikus maailmades odav ja omanik kogub selle sageli kokku, kasutades teadmiste (taimetarkus) oskust.
+
+* **Esmaabikomplekt:** Standardne esmaabikomplekt sisaldab antud maailma oludele vastavaid puhtaid (või steriilseid) sidemeid, kummikindaid, lihtsamaid salve, tablette kergete haiguste või infektsioonide jaoks, silmaloputusvahendit, mürkide või mürgistuste vastast ravi ning väikeseid tööriistu nagu pintsetid, käärid või isegi väike skalpell. Suurematel komplektidel on laiem valik eelnimetatutest, rohkem erinevaid ravimeid ja kaasas võib olla väike esmaabijuhend. Esmaabikomplekti kasutatakse esmaabi (First Aid) oskusega ja see on tavaliselt odav.
+
+* **Arstikott:** Traditsiooniline arstikott sisaldab maailma oludele vastavat valikut tablette ja antibiootikume, stetoskoopi, valgusallikat, retseptiplokki ning erinevaid meditsiinilisi vahendeid ja tööriistu kohapealseks diagnoosimiseks ja erakorraliseks raviks. Arstikotti kasutatakse esmaabi (First Aid) oskusega, kuid olenevalt protseduurist saab seda kasutada ka meditsiini (Medicine) oskuse kontrollide jaoks. Arstikott on kallis.
+
+* **Kirurgiakomplekt:** Komplekt steriilseid ja kasutusvalmis kirurgilisi tööriistu. See sisaldab mitmeid paare kummikindaid, sidemeid, antiseptikume, õmblusvahendeid jms ning on hädavajalik igasuguseks keerukamaks operatsiooniks või meditsiini (Medicine) oskuse kasutamiseks, mis hõlmab kirurgiat. Igas haiglas peaks olema mitu komplekti kõigest, mis kirurgiakomplekti kuulub. Kirurgiakomplekt on kallis.
+
+* **Traumakomplekt:** Spetsialiseeritud meditsiinitarvete kollektsioon vahetu trauma käsitlemiseks. Sageli lahinguväljal kasutamiseks mõeldud traumakomplekt sisaldab selliseid tarvikuid nagu adrenaliinisüstid, antitoksiinid, muud keemiliste ainete vastased ravimid, erakorralised meditsiinitarbed suurte ja lahtiste haavade koheseks raviks, kaasaskantav defibrillaator ja piiratud komplekt kirurgilisi tööriistu. Traumakomplekt on kallis.
+
+* **Medi-komplekt:** Väga arenenud varustuse komplekt, mis sisaldab naha regeneraatoreid, süste, kiireid verehüübimisvahendeid, lihtsat meditsiinilist skannerit, universaalseid antitoksiine ja vastumürke, stimulatsioonisüste, sünteetilist nahaspreid, pealesprühitavaid lahaseid ja muid kohese haavasulgemise vorme. Tavaliselt on medi-komplektil väike meditsiiniline arvuti või lugeja, mis suudab kirjeldada tuhandeid raviviise ja diagnoosida lihtsaid vigastusi. Medi-komplekti kasutamine muudab kõik esmaabikatsed lihtsaks ja kahekordistab edukalt esmaabi kontrollilt saadavaid vastupidavuspunkte. Kui see on teie maailmas saadaval, on medi-komplekt kallis.
+
+* **Automaatarst (Auto-doc):** Täielikult automatiseeritud meditsiinilise ravi süsteem, mis on varustatud keerukate diagnostikavõimalustega, olles suuteline tuvastama ja rakendama ravi peaaegu kõigi teadaolevate meditsiiniliste seisundite jaoks. Automaatarstid võivad sisaldada robotkomponente, mis on suutelised patsiente manööverdama, või olla ruumi suurused, ulatades patsienti keskse voodi kohal töötlema. Automaatarstil on 100% oskus meditsiini (Medicine) ja esmaabi (First Aid) vallas ning edukas kontroll taastab patsiendile kahekordse arvu vastupidavuspunkte ja vähendab taastumisaega poole võrra. Automaatarst on kallis või hindamatu, samas kui ravi selles ulatub tasuta kuni hindamatuni.
 
 ### Muu varustus
 
-Järgnevalt on loetletud muud kasulikud varustuse tüübid, mida sinu tegelane võib soovida kasutada. **Oskused ja varustus** sisaldab rohkem üksikasju oskuste kasutamiseks vajaliku või seda abistava varustuse kohta.
+Järgnevalt on loetletud muud kasulikud varustusetüübid, mida teie tegelane võib soovida kasutada. **Oskused ja varustus** sisaldab täpsemat teavet oskuste kasutamiseks vajaliku või seda toetava varustuse kohta.
 
-* **Keemiakomplekt:** Lai valik väikeseid kemikaalide ja ainete portsjoneid, koos mikroskoobiga ja vahenditega ühendite segamiseks ja säilitamiseks. Tavaliselt ainult hariduslik tööriist, seda saab kasutada Teaduse (Keemia) oskusega põhiliste toimingute jaoks. Odav ja kergesti kättesaadav üliõpilastele või kellelegi teisele, kes on huvitatud.
-* **Arvutid:** Sõltuvalt mängumaailmast on arvuti kas lihtne (tuletab teavet päringu korral ja sooritab lihtsaid käske) või keerukas (omades tehisintellekti või ligikaudset mõtlemisvõimet) tööriist, mida saab kasutada koos teiste oskustega nagu Hindamine, Kunst, Mängimine, Teadmised, Teadus, Õpetamine ja eriti Uurimine. Iga oskus, mis saab kasu laiahaardelisest ja otsitavast teadmiste baasist või peaaegu hetkeline suhtlus teistega antud valdkonnas, saab kasu arvuti kasutamisest. Programmid või ligipääsetavus ja suhteline kasutusmugavus võimaldavad boonust kuni +20%, kui arvuti on sobiv kasutatava oskuse jaoks; keskmine arvutiseadistus ei anna boonust; ja madalama kvaliteediga või ebaefektiivne arvutiseadistus võib karistada oskust kuni –20%. Kui sina ja sinu mängujuht soovite, et arvutil oleks suurem võimekus kui ajastukohane arvuti, looge see supervõimelise vidinana INT-iga.
-* **Kriminoloogia komplekt.** Kasutavad kohtuekspertiisi laborid ja detektiivid, kriminoloogia komplekt sisaldab sõrmejälgede tuvastamise meetodeid, mõõteseadmeid, kummikindaid, kogumiskotte ja pudeleid tõendusmaterjali säilitamiseks, suurendusklaase, asjakohaseid kemikaale ja pihusteid, minor tööriistu, mustvalgust ja tavalisi taskulampe ning muid vahendeid kuritegeliku tegevuse jälgede tuvastamiseks. Kriminoloogia komplekt on kallis.
-* **Maskeeringukomplekt.** Nahavärvide ja -toonide kogu, meik ja muud vahendid oma välimuse muutmiseks, maskeeringukomplekt on tavaliselt omaniku poolt kokku pandud, et olla maksimaalselt kasulik nende füüsiliste joonte ja/või soo jaoks. Maskeeringukomplekt võib sisaldada parukaid, kunsthambaid, kunstlikke näokarvu, juuksevärve ja muid stiilitööriistu, kääre, peeglit, värvilisi kontaktläätsesid või prille ja isegi riietuse esemeid. Keerukamad komplektid võivad sisaldada proteese näojoonte muutmiseks. Maskeeringukomplekt võib olla ka üldotstarbeline, kuid selline komplekt pole tavaliselt sama efektiivne. Selle saab kokku panna kaubanduslikult kättesaadavatest esemetest odava kuni keskmise hinnaga, või kvaliteetne komplekt võib olla kallis.
-* **Komplektid, erinevad:** Nagu kirjeldatud jaotises **Oskused ja varustus**, peaaegu igal Käsitöö oskusel võib olla komplekt või tööriistade kogu, mis aitab selle kasutamisel. Nende väärtuse ja kasulikkuse peaks määrama sinu mängujuht vastavalt mängumaailmale.
-* **Lukuvalimisvahendid**: Need võivad ulatuda mõnest üksikust valimisvahendist kuni keerukama komplektini koos stetoskoobi, puuride ja mitmesuguste tööriistade ja vahenditega kõige keerulisemate ja väljakutsuvamate lukkude avamiseks. Need võivad ulatuda odavatest kalleteni.
-* **Stabilisaator**: Tulirelva lisavarustus, mis lisab relvale stabiilsust läbi tagasilöögi kompenseerimise, löökide neeldumise jne. Need võivad lisada +5% või rohkem järgmistele laskudele pärast vooru esimest.
-* **Summutid ja silencerid.** Summuti on pikk toru, mis on täidetud deflektoritega, kinnitatud tulirelva toru külge, mis summutab tulistatud laskude heli. See aeglustab mürsu kiirust, poolitades selle baasulatuse. Summuti on tavaliselt valmistatud eritellimusel konkreetsele tulirelva tüübile ja tavaliselt kulub läbi pärast D100+10 lasu sooritamist läbi selle. Summutit ei saa kinnitada püssile või raskele kuulipildujale, kuid seda saab kasutada kerge või keskmise kuulipilduja jaoks. Enamikus mängumaailmades, kus need eksisteerivad, on summutid kallid ja piiratud.
-* **Teleskoopsihikud ja lasersihikud.** Need kinnituvad tulirelvale või energiarelvale ja võimaldavad sinu tegelasel baasulatust efektiivselt kahekordistada. Lasersihikud neljakordistavad baasulatust. Kui kombineerida **Sihtivate rünnakutega**, võib kumbki olla üsna efektiivne. Need on keskmise väärtusega, kuigi täppissihikud võivad olla kallimad.
+* **Keemiakomplekt:** Lai valik väikestes kogustes kemikaale ja aineid, koos mikroskoobi ning ühendite segamise ja hoiustamise vahenditega. Tavaliselt vaid hariduslik tööriist, kuid seda saab kasutada teaduse (keemia) oskusega põhiülesannete täitmiseks. Odav ja kergesti kättesaadav õpilastele või kõigile teistele huvilistele.
+
+* **Arvutid:** Sõltuvalt maailmast on arvuti kas lihtne (taastab päringu korral teavet ja täidab lihtsaid käske) või keerukas (omab tehisintellekti või teadvuse lähedast olekut) tööriist, mida saab kasutada koos teiste oskustega nagu hindamine (Appraise), kunst (Art), mängimine (Gaming), teadmised (Knowledge), teadus (Science), õpetamine (Teach) ja eriti uurimine (Research). Iga oskus, mis saab kasu laiast ja otsitavast teadmistebaasist või peaaegu kohesest suhtlusest teistega valdkonnas, võib arvuti kasutamisest kasu saada. Sisalduvad või ligipääsetavad programmid ja suhteline kasutusmugavus võimaldavad kuni +20% boonust, kui arvuti sobib kasutatava oskusega; keskmine arvutikomplekt ei paku boonust; ning ebapiisav või ebaefektiivne arvutikomplekt võib oskust kuni –20% karistada. Kui teie ja teie mängujuht soovite, et arvutil oleks rohkem võimekust kui ajastukohasel arvutil, looge see ülivõimsa vidinana koos INT-iga.
+
+* **Kriminoloogiakomplekt:** Kasutavad kohtuekspertiisi laborid ja detektiivid; kriminoloogiakomplekt sisaldab sõrmejälgede tuvastamise meetodeid, mõõteriistu, kummikindaid, kogumiskotte ja pudeleid tõendite säilitamiseks, luupe, vastavaid kemikaale ja spreisid, väiksemaid tööriistu, musta valguse ja tavalisi taskulampe ning muid kuritegeliku tegevuse jälgede tuvastamise vahendeid. Kriminoloogiakomplekt on kallis.
+
+* **Maskeerimiskomplekt:** Nahavärvide ja -toonide, meigi ja muude vahendite kollektsioon enda välimuse muutmiseks. Maskeerimiskomplekti koostab tavaliselt kasutaja ise, et see oleks võimalikult kasulik tema füüsiliste omaduste ja/või soo jaoks. Maskeerimiskomplekt võib sisaldada parukaid, tehispalu, kunstlikke näokarvu, juuksevärve ja muid kujundusvahendeid, käärid, peeglit, värvilisi kontaktläätsi või prille ning isegi riietusesemeid. Keerukamad komplektid võivad sisaldada proteese näojoonte muutmiseks. Maskeerimiskomplekt võib olla ka üldotstarbeline, kuid selline komplekt ei ole tavaliselt sama tõhus. Ühe saab kokku panna kaubanduslikult kättesaadavatest esemetest odava kuni keskmise hinnaga või kõrgekvaliteediline komplekt võib olla kallis.
+
+* **Komplektid, mitmesugused:** Nagu on kirjeldatud jaotises **Oskused ja varustus**, võib peaaegu igal käsitööoskusel olla komplekt või tööriistakomplekt, mis aitab selle kasutamisel. Nende väärtuse ja kasulikkuse peaks määrama teie mängujuht vastavalt maailmale.
+
+* **Muukimistarbed (Lockpicks):** Need võivad ulatuda mõnest üksikust muukrauast kuni keerukama komplektini, mis sisaldab stetoskoopi, puure ja erinevaid tööriistu ning vahendeid kõige keerukamate ja raskemate lukkude avamiseks. Nende hind varieerub odavast kallini.
+
+* **Stabilisaator:** Tulirelva lisavarustus, mis suurendab relva stabiilsust tagasilöögi kompenseerimise, löökide neelamise jne kaudu. Need võivad lisada +5% või rohkem järgnevatele laskudele pärast esimest lasku voorus.
+
+* **Summutid ja leegisummutid:** Summuti on pikk deflektoritega täidetud toru, mis kinnitatakse tulirelva raua külge ja mis summutab laskude heli. See aeglustab mürsu kiirust, poolitades selle baasulatuse. Summuti valmistatakse tavaliselt tellimustööna konkreetsele tulirelvatüübile ja see kulub tavaliselt pärast seda, kui sellest on tulistatud D100+10 lasku. Summutit ei saa kinnitada haavlipüssile või raskekuulipildujale, kuid seda saab kasutada kerge- või keskmise kuulipildujaga. Enamikus maailmades, kus need eksisteerivad, on summutid kallid ja piiratud kasutusega.
+
+* **Teleskoopsihikud ja lasersihikud:** Need kinnitatakse tulirelvale või energiarelvale ja võimaldavad teie tegelasel baasulatust efektiivselt kahekordistada. Lasersihikud neljakordistavad baasulatuse. Koos **sihitud rünnakutega** võivad mõlemad olla üsna tõhusad. Need on keskmise väärtusega, kuigi täppissihikud võivad olla kallimad.
 
 ### Mecha
 
-Mecha (mõnikord lühendatult „mech“) on sisuliselt ülisuur võimendatud soomusrüü, mida piloodib üks või mitu tegelast, tavaliselt humanoidne või mingi kahejalgne struktuur, mis on populaarne ulme maailmades. Allpool kujutatud näidis-mecha ehitati supervõimelise vidina juhiste järgi.
+Mecha (mõnikord lühendatult „mech“) on olemuslikult ülisuur jõusoomustatud ülikond, mida juhib üks või mitu tegelast, tavaliselt humanoidse või kahejalgse struktuuriga, populaarne ulmemaailmades. Allpool kujutatud mecha-näide ehitati kasutades ülivõimsate vidinate juhiseid.
 
-> #### Mudel D142 mobiilne eksoframe, a.k.a. „Skyhammer“
+> #### Mudel D142 Mobile Exoframe, tuntud kui „Skyhammer“
 > 
 > **Väärtus:** Hindamatu
 > 
-> Skyhammer on tugevalt soomustatud, humanoidse kujuga mecha, millel on piklik torso, mis toimib kokpitina, majutades pilooti. Selle pea on sensorseadmete massiiv ja selle jäsemed on funktsionaalsed. Selle „nabast“ ulatub välja suur laserkahur, mille kohal piloot istub.
+> Skyhammer on tugevalt soomustatud, humanoidse kujuga mecha pikliku kerega, mis toimib piloodi kokpitina. Selle pea on sensorseadmete massiiv ja jäsemed on funktsionaalsed. Selle „nabast“ ulatub välja suur laserikahur, millest piloot kõrgemal istub.
 > 
-> **STR** 100 **CON** 50 **SIZ** 50
+> **JÕU** 100 **VAS** 50 **SUU** 50
 > 
-> **Tabamuspunktid:** 50 **Raske haav:** 25 **Võimepunktid:** 110
+> **Vastupidavuspunktid:** 50 **Raske vigastus:** 25 **Võimepunktid:** 110
 > 
 > **Kahju modifikaator:** +8D6 **MOV:** 15
 > 
-> **Soomusrüü:** 30-punktiline legeeritud plaatimine (vaata allpool)
+> **Soomus:** 30-punktiline sulamist plaadistus (vt allpool)
 > 
-> **Relvad:** Laserkahur (kasutab piloodi Projektsiooni oskust %), 75-meetrine ulatus, 5D6 kahju; Haamer-rusikad (kasutab piloodi Rusikavõitluse oskust %), 1D3+8D6 kahju
+> **Relvad:** Laserikahur (kasutab piloodi projektsiooni (Projection) oskuse %-i), 75-meetrine laskeulatus, 5D6 kahju; Vasarkäed (kasutab piloodi rusikavõitluse (Brawling) oskuse %-i), 1D3+8D6 kahju
 > 
-> **Oskused:** Peenmanipulatsioon 45%, Hüpe 65%, Kuulamine 65%, Navigeerimine 70%, Piloot (automaatpiloot ise) 41%, Remont (sisemine diagnostika ja remont) 55%, Märkamine 65%, Jälitamine 30%, Lendamine 100%.
+> **Oskused:** Peenmanipulatsioon 45%, Hüpe 65%, Kuulamine 65%, Navigeerimine 70%, Piloteerimine (autopiloot) 41%, Remont (sisediagnostika ja remont) 55%, Märkamine 65%, Jälitamine 30%, Lendamine 100%.
 > 
-> **Võimed:** Adaptatsioon 6 (külm, kuumus, kõrge rõhk, kiirgus, vaakum; kulu = 15 punkti); Soomusrüü 30 (elektriline 30, kineetiline 30, kiirgus 30; kulu = 90 punkti); Energiprojektsioon 5 (valgus; kulu = 50 punkti); Ekstra Energia 11 (+110 võimepunkti; kulu = 11 punkti); Lendamine 17 (kulu = 17 punkti); Superkarakteristikud 200 (STR, CON, SIZ; kulu = 200 punkti); Supermeeled 5 (kuulmine 5, nägemine 5, pimeduses nägemine 5, infrapuna-nägemine 5, sonar-detektsioon 5; kulu = 75 punkti); Superoskus (Peenmanipulatsioon 2, Hüpe 2, Kuulmine 2, Navigeerimine 3, Piloot 2, Remont 2, Märkamine 2, Jälitamine 1, Lendamine 5; kulu = 42 punkti).
+> **Võimed:** Kohanemine 6 (külm, kuumus, kõrge rõhk, kiirgus, vaakum; maksumus = 15 punkti); Soomus 30 (elekter 30, kineetiline 30, kiirgus 30; maksumus = 90 punkti); Energia projektsioon 5 (valgus; maksumus = 50 punkti); Lisavõimsus 11 (+110 võimepunkti; maksumus = 11 punkti); Lendamine 17 (maksumus = 17 punkti); Superomadused 200 (JÕU, VAS, SUU; maksumus = 200 punkti); Supermeeled 5 (Kuulmine 5, Nägemine 5, Hämaranägemine 5, Infrapunanägemine 5, Sonari tuvastus 5; maksumus = 75 punkti); Superoskus (Peenmanipulatsioon 2, Hüpe 2, Kuulamine 2, Navigeerimine 3, Piloteerimine 2, Remont 2, Märkamine 2, Jälitamine 1, Lendamine 5; maksumus = 42 punkti).
 > 
-> **Kogu võimete eelarve kulu** = 500 punkti.
+> **Võimeeelarve kogumaksumus** = 500 punkti.
 
 ## Objektide üldised omadused
 
-Lisaks relvadele, soomusrüüdele, kilpidele, piiramisrelvadele, sõidukitele, raamatutele, komplektidele jne saab mis tahes muud materiaalset objekti kirjeldada kui objekti. See on kategooria, mis hõlmab telefone või telefoniposte, maju või losse, pastapliiatseid või Eiffeli torni. Üldiselt on ainsaks põhjuseks objekti jaoks atribuutide määramisel see, kui seda kasutatakse sinu tegelase vastu, sinu tegelane kasutab seda teise tegelase vastu, sinu tegelane üritab seda hävitada või see on teel (ja potentsiaalselt kaaskahju).
+Lisaks relvadele, soomustele, kilpidele, piiramisrelvadele, sõidukitele, raamatutele, komplektidele jne võib mis tahes muud materiaalset objekti kirjeldada objektina. See kategooria hõlmab telefone või telefoniposte, maju või losse, pastapliiatseid või Eiffeli torni. Üldiselt on objekti atribuutide määramisel ainsaks põhjuseks see, kui seda kasutatakse teie tegelase vastu, teie tegelane kasutab seda teise tegelase vastu, teie tegelane üritab seda hävitada või see on teel (ja potentsiaalselt kaasnev kahju).
 
 ### Kahju elututele objektidele
 
-Elutud objektid nagu uksed, toolid ja seinad segavad tõenäoliselt möödalastud rünnakut või võib olla vaja need maha lüüa või tükkideks puhuda. Mängujuht peaks konsulteerima näidisobjektide SIZ väärtustega ja kasutama SIZ-i objekti tabamuspunktidena, määrates soomusrüü väärtuse vastavalt selle ekvivalendile (vaata **Soomusrüü kaitse**). Kui kahju ületab objekti soomusrüü väärtuse, vähendatakse tabamuspunkte järelejäänud kahju võrra ja nii mitu kahjupunkti vähendab selle soomusrüü väärtust (esindades, kui vähem see on võimeline kahju taluma pärast kahjustamist). Kui objekt on väiksem kui Inimese suurune (nagu tool), hävitatakse see täielikult, kui see on vähendatud 0 tabamuspunktini. Kui see on suurem kui Inimese suurune (nagu puusein) ja osa on vähendatud 0 tabamuspunktini, on selles Inimese suurune auk.
+Elutud objektid, nagu uksed, toolid ja seinad, segavad tõenäoliselt möödaläinud rünnakut või võib olla vaja need maha lüüa või purustada. Teie mängujuht peaks vaatama näidisesemete SUU-väärtusi ja kasutama objekti vastupidavuspunktide jaoks SUU-d, määrates soomuse väärtuse vastavalt selle ekvivalendile (vt **Soomuskaitse**). Kui kahju ületab objekti soomuse väärtuse, vähendatakse vastupidavuspunkte ülejäänud kahju võrra ja sama palju kahjupunkte vähendab selle soomuse väärtust (kujutades, kui palju vähem on see suuteline kahju taluma pärast kahjustamist). Kui objekt on väiksem kui inimese mõõtu (nt tool), hävib see täielikult, kui vastupidavuspunktid langevad 0-ni. Kui see on suurem kui inimese mõõtu (nt puusein) ja üks osa langeb 0 vastupidavuspunktini, on selles inimese suurune auk.
 
-> ### Ainete soomusrüü väärtus
+> ### Ainete soomusväärtus
 > 
-> Soomusrüü väärtus esindab edukast rünnakust lahutatud kahju hulka. Mida kõrgem on objekti soomusrüü väärtus, seda vähem tõenäoline on selle kahjustamine. Kasutades muid varustuse väärtusi või allpool tooduid, peaks mängujuht suutma tuletada täiendavaid soomusrüü väärtusi või hinnata neid ligikaudsete ekvivalentside põhjal. Järgnevad on mitmesuguste ainete soomusrüü väärtused:
+> Soomusväärtus tähistab edukast rünnakust maha lahutatava kahju hulka. Mida kõrgem on objekti soomusväärtus, seda väiksem on tõenäosus, et see kahjustada saab. Kasutades teiste seadmete või allolevaid väärtusi, peaks mängujuht suutma tuletada täiendavaid soomusväärtusi või hinnata neid ligikaudsete ekvivalentside põhjal. Allpool on toodud erinevate ainete soomusväärtused:
 > 
-> | Aine tüüp | Soomusrüü väärtus |
-> | :--- | :--- |
+> | Aine tüüp | Soomusväärtus |
+> | :---- | :---- |
 > | 1 cm klaasi | 1 |
-> | 5 cm paksune uks | 3 |
-> | 3 cm lehtpuud | 6 |
+> | 5 cm paks uks | 3 |
+> | 3 cm lehtpuitu | 6 |
 > | 12 cm betooni | 9 |
-> | 3 cm kuulikindlat klaasi | 22
+> | 3 cm kuulikindlat klaasi | 22 |
+> | 3 cm terasplaati | 28 |
+> | Suur liivakott | 20 |
+> 
+> Sellised looduslikud soomusväärtused ei kao ega halvene korduvate rünnakute tagajärjel, välja arvatud juhul, kui tegemist on mingi keskkondliku teguri või konkreetse katsega objekti soomusväärtust vähendada.
+> 
+> **Näiteks,** teie tegelane peksab korduvalt kuulikindlast klaasist akent sepavasaraga, sihtides sama kohta, et tekitada piisavalt pragusid selle läbimiseks. Teie mängujuht otsustab seda kujutada, vähendades soomusväärtust iga eduka löögiga 1 võrra ja veeretades kahju. Kui kahju veeretus ületab pidevalt vähenevat soomusväärtust, aken puruneb.
+> 
+> Lihtne juhend objektide hävitamiseks on see, et keskmisel objektil on vastupidavuspunktid ligikaudu võrdsed selle SUU-ga, ja kui soomus on läbitud ja need vastupidavuspunktid kaotatud, on objekt töökõlbmatu ja hävitatud või vähemalt viidud seisukorda, kus see pole ilmselgelt enam kasutatav.
+
+### Tavaliste objektide SUU
+
+Läheduses on loend näidissuurustest erinevate objektide jaoks. „Täismõõt“ (Full) tähistab objekti kogu suurust, mida kasutatakse tõstmiseks või vastupidavuspunktide määramiseks, ja „Segment“ tähistab inimese suurust osa objektist, eesmärgiga läbi murda või hävitada sektsioon läbipääsuks. Kui objektile tekitatud kahju ei ületa objekti segmendi SUU-d, võib rünnaku suuruse ja kujuga vastavalt olla sisse löödud auk. Nagu eespool märgitud, eeldatakse, et keskmisel objektil on vastupidavuspunktid võrdsed selle SUU-ga.### Võrreldavad suurused
+
+See tabel võrdsustab ligikaudse kaalu mängusisese SUU-ga. Süsteemis Basic Roleplaying ei puuduta SUU ainult kaalu, vaid ka mahtu ja kõrgust. See tabel ei ole täpne ega piirav: peaksite kasutama oma hinnangut, kui määrate SUU-d ja kaalu lähtuvalt eseme või olendi koostisest. Alates SUU 330-st on SUU ligikaudu 1/10 eseme või olendi kaalust lühitonnides.
+
+**Näiteks**, kraaken SUU-ga 8000 kaalub 80 000 lühitonnist.
+
+| SUU | Keiserlik kaal | Meetriline kaal |
+| :---- | :---- | :---- |
+| 1 | 1–12 naela | 0,5–5,4 kilogrammi |
+| 4 | 38–51 naela | 17–23 kilogrammi |
+| 8 | 109–120 naela | 49–54 kilogrammi |
+| 12 | 156–168 naela | 71–76 kilogrammi |
+| 16 | 220–239 naela | 100–108 kilogrammi |
+| 20 | 310–338 naela | 141–153 kilogrammi |
+| 24 | 440–479 naela | 200–217 kilogrammi |
+| 32 | 880–959 naela | 499–435 kilogrammi |
+| 40 | 1760–1919 naela | 798–870 kilogrammi |
+| 48 | 3520–3829 naela | 1597–1737 kilogrammi |
+| 56 | 7040–7649 naela | 3193–3470 kilogrammi |
+| 64 | 7,1–7,7 tonni | 6441–6985 kilogrammi |
+| 72 | 14,1–15,4 tonni | 12,8–14 meetritonni |
+| 80 | 28,2–30,7 tonni | 25,6–27,9 meetritonni |
+| 88 | 56,5–61,5 tonni | 51,3–55,8 meetritonni |
+| 96 | 96 tonni | 87 meetritonni |
+| 104 | 104 tonni | 94 meetritonni |
+| 112 | 120 tonni | 109 meetritonni |
+| 120 | 144 tonni | 131 meetritonni |
+| 128 | 176 tonni | 160 meetritonni |
+| 136 | 216 tonni | 196 meetritonni |
+| 140 | 240 tonni | 218 meetritonni |
+| 144 | 264 tonni | 239 meetritonni |
+| 152 | 320 tonni | 290 meetritonni |
+| 160 | 384 tonni | 348 meetritonni |
+| 168 | 456 tonni | 414 meetritonni |
+| 176 | 536 tonni | 486 meetritonni |
+| 184 | 624 tonni | 566 meetritonni |
+| 192 | 720 tonni | 653 meetritonni |
+| 200 | 824 tonni | 748 meetritonni |
+| 208 | 936 tonni | 849 meetritonni |
+| 216 | 1056 tonni | 958 meetritonni |
+| 224 | 1184 tonni | 1074 meetritonni |
+| 232 | 1220 tonni | 1107 meetritonni |
+| 240 | 1364 tonni | 1237 meetritonni |
+| 256 | 1516 tonni | 1375 meetritonni |
+| 264 | 1676 tonni | 1520 meetritonni |
+| 272 | 1844 tonni | 1673 meetritonni |
+| 280 | 2020 tonni | 1833 meetritonni |
+| 288 | 2204 tonni | 1999 meetritonni |
+| 294 | 2396 tonni | 2174 meetritonni |
+| 304 | 2596 tonni | 2355 meetritonni |
+| 312 | 2804 tonni | 2544 meetritonni |
+| 320 | 3020 tonni | 2740 meetritonni |
+| 330 | 3300 tonni | 2994 meetritonni |
+| 340 | 3400 tonni | 3084 meetritonni |
+| 350 | 3500 tonni | 3175 meetritonni |
+
+> ##### Objekti SUU näited
+> 
+> | Objekt | Täielik SUU | Segmendi SUU |
+> | :---- | :---- | :---- |
+> | Klaasaken | 3 | 3 |
+> | Uks | 4–8 | 4–8 |
+> | Tool | 4–9 | 4–9 |
+> | Laud | 4–12 | 4–12 |
+> | Kaevukaan | 5 | 5 |
+> | Tuletõrjehüdrant | 5 | 5 |
+> | Potitaim | 2–5 | 2–5 |
+> | Klaasuks | 8 | 8 |
+> | Kirjutuslaud | 10–20 | 10–20 |
+> | Lambipost | 30 | 10 |
+> | Sisesein (kodu) | 25–35 | 8 |
+> | Välissein (kodu) | 25–45 | 20 |
+> | Telliskivisein | 30–50 | 20 |
+> | Betoonsein | 30–50 | 20 |
+> | Betoon- ja terassein | 35–55 | 25 |
+> | Väike õhusõiduk | 40 | 10 |
+> | Auto | 50 | 12 |
+> | Seifiuks | 60 | 20 |
+> | Keskmine maismaasõiduk | 60 | 12 |
+> | Teraspruss | 65 | 30 |
+> | Õhusõiduk, reaktiivhävitaja | 80 | 18 |
+> | Keskmine tank | 80 | 30 |
+> | Vedur | 100 | 20 |
+> | Õhusõiduk, kaubalennuk | 100 | 15 |
+> | Õhusõiduk, pommitaja | 105 | 15 |
+> | Õhusõiduk, reisilennuk | 110 | 15 |

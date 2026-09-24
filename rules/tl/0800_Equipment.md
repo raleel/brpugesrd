@@ -1,192 +1,190 @@
 # 8\. Kagamitan
 
-Ang kabanatang ito ay sumasaklaw sa lahat ng bagay sa labas ng iyong karakter: mga gamit na maaari nilang pag-aari at pakialaman, tulad ng pera, armas, baluti, kagamitan, sasakyan, at ang kapaligiran mismo, maging pangkaraniwan o pambihira. Narito rin ang mga tuntunin para sa mga espesyal na uri ng gamit at kung paano pangasiwaan ang kagamitan sa laro.
+Sinasaklaw ng kabanatang ito ang lahat ng nasa labas ng iyong karakter: mga gamit na maaari nilang pagmamay-ari at gamitin, tulad ng pera, armas, baluti, kagamitan, sasakyan, at ang mismong kapaligiran, karaniwan man o pambihira. Narito rin ang mga panuntunan para sa mga espesyal na uri ng gamit at kung paano pangangasiwaan ang kagamitan sa laro.
 
 ## Pera
 
-Ang **Kayamanan (Wealth)** ay tumutukoy sa pera, ngunit ito ay abstrakto dahil sa posibleng saklaw ng mga presyo, kita, at pera sa anumang setting. Sa halip na mga listahan ng palitan ng pera o mga abstraksyon ng pera, ginagamit ang mga tuntunin sa Kayamanan (Kabanata Dalawa: Mga Karakter) at mga tuntunin sa Katayuan (Kabanata Tatlo: Mga Kakayahan). Para sa kaginhawaan, ang mga ito ay ibinuod sa talahanayan ng Mga Antas ng Kayamanan (sa tapat).
+Ang **Kayamanan** ay tumatalakay sa pera, ngunit ito ay abstrakto dahil sa posibleng saklaw ng mga presyo, kita, at salapi sa anumang posibleng tagpuan. Sa halip na mga listahan ng palitan ng salapi o mga abstraksyon ng pera, ginagamit ang mga panuntunan sa Kayamanan (Kabanata Dalawa: Mga Karakter) at mga panuntunan sa Katayuan (Kabanata Tatlo: Mga Kasanayan). Para sa kaginhawaan, ang mga ito ay binuod sa talahanayan ng Mga Antas ng Kayamanan (sa tapat).
 
-Ang kolum na **Halaga ng Gamit (Item Value)** ay kumakatawan sa halaga ng mga gamit na magagamit ng isang karakter sa antas ng Kayamanang iyon. Ang mga murang gamit (Cheap) ay napakababa ang halaga, ang mga hindi mahal (Inexpensive) ay mura at karaniwang mababa ang kalidad, ang mga katamtaman (Average) ay may maayos na kalidad at nagkakahalaga ng patas na presyo, habang ang mga mamahaling kagamitan (Expensive) ay may mas mataas na kalidad o mas mahal. Ang mga gamit na walang katumbas na presyo (Priceless) ay itinuturing na higit pa sa madaling mabili: ang pagbili nito ay dapat ayusin o pag-usapan, kahit sa gitna ng mga mayayaman.
+Ang kolum na **Halaga ng Gamit** ay kumakatawan sa halaga ng mga gamit na magagamit ng isang karakter sa antas ng Kayamanang iyon. Ang mga murang gamit ay may maliit na halaga, ang mga Hindi magastos na kagamitan ay mura at karaniwang mababa ang kalidad, ang Karaniwang kagamitan ay may maayos na kalidad at makatwirang presyo, habang ang mga Mamahaling gamit ay may mas mataas na kalidad o mas mahal. Ang mga gamit na walang katumbas na halaga (priceless) ay itinuturing na higit pa sa kayang mabili nang madali: ang pagbili sa mga ito ay dapat ayusin o pag-usapan, kahit pa sa gitna ng mga mayayaman.
 
-May dalawang karagdagang halaga na hindi kinakatawan sa tsart na ito: Libre (Free) at Limitado (Restricted). Ang mga libreng gamit ay eksakto iyon—wala silang gastos at matatagpuan nang walang hirap, habang ang mga limitadong gamit ay hindi makukuha nang walang permiso at ang hindi awtorisadong pagmamay-ari ay kadalasang nagdudulot ng mga kasong kriminal. Ang mga limitadong gamit ay maaaring bigyan ng aktwal na halaga bilang karagdagan sa kalidad, tulad ng isang gamit na Mamahalin (Expensive) at Limitado (Restricted) rin.
+Dalawang karagdagang halaga ang hindi kinakatawan sa talahanayang ito: Libre at Limitado. Ang mga Libreng gamit ay gaya ng sinasabi nito—wala silang gastos at mahahanap nang walang kahirap-hirap, habang ang mga Limitadong gamit ay hindi makukuha nang walang permiso at ang hindi awtorisadong pagmamay-ari ay madalas na nagdudulot ng mga kasong kriminal. Ang mga Limitadong gamit ay maaaring bigyan ng aktwal na halaga bilang karagdagan sa kalidad, tulad ng isang gamit na Mamahalin at kasabay nito ay Limitado rin.
 
-Ang paglikha ng karakter ay nagbibigay ng impormasyon tungkol sa panimulang antas ng Kayamanan ng iyong karakter. Maaaring gamitin ng iyong gamemaster ang impormasyong ito at ang kakayahang Katayuan (Status) bilang mga gabay sa pagtatakda ng panimulang kagamitan na higit pa sa mga gabay na ipinakita sa **Hakbang Walo** ng paglikha ng karakter.
+Ang paglikha ng karakter ay nagbibigay ng impormasyon tungkol sa panimulang antas ng Kayamanan ng iyong karakter. Maaaring gamitin ng iyong gamemaster ang impormasyong ito at ang kasanayang Katayuan bilang mga gabay sa pagtatalaga ng panimulang kagamitan nang higit pa sa mga gabay na ipinakita sa **Hakbang Walo** ng paglikha ng karakter.
 
-##### Mga Antas ng Kayamanan
+##### Mga antas ng Kayamanan
 
 | Antas ng Kayamanan | Halaga ng Gamit | Paglalarawan |
 | :---- | :---- | :---- |
-| Mayaman (Wealthy) | Walang Presyo | Malawak na kayamanan, walang kulang. Anumang pagbili ay makatwiran at ang mga linya ng kredito ay nagpapahintulot ng mas malaking financing. |
-| Abot-kaya (Affluent) | Mamahalin | Maayos ang pamumuhay at malayang nakakagastos nang hindi iniisip ang badyet. |
-| Katamtaman (Average) | Katamtaman | Gitnang uri ng kita, komportable, ngunit hindi magarbo. Ang malalaking pagbili ay maingat na tinitimbang. |
-| Mahirap (Poor) | Hindi Mahal | Buhay sa gilid. Ang pang-araw-araw na pangangailangan ay salat at anumang pagkawala ay may mga bunga. |
-| Dukha (Destitute) | Mura | Walang pera, kahit pambili ng kakarampot na gamit. Ang kaligtasan ay isang pangunahing alalahanin. |
+| Mayaman | Walang katumbas (Priceless) | Malawak na yaman, walang kinakailangan. Ang anumang pagbili ay nasa loob ng katuwiran at ang mga linya ng kredito ay nagpapahintulot ng higit pang pagpopondo. |
+| Maunlad | Mamahalin | Nakakaangat at kayang gumastos nang malaya nang hindi iniisip ang badyet. |
+| Karaniwan | Karaniwan | Kita ng gitnang uri, komportable, ngunit hindi labis. Ang mga malalaking pagbili ay maingat na tinitimbang. |
+| Mahirap | Hindi magastos | Buhay na nakasalalay sa gilid. Ang pang-araw-araw na sustento ay kulang at ang anumang pagkawala ay may mga bunga. |
+| Dukha | Mura | Walang pera, kahit na pang-araw-araw na panggastos sa bulsa ay wala. Ang kaligtasan ay isang pangunahing alalahanin. |
 
 ## Kagamitan
 
-Ang bawat piraso ng kagamitan ay may kaugnay na halaga. Dapat ipagpalagay ng iyong gamemaster na kung ang iyong karakter ay nasa antas ng Kayamanang iyon (o mas mataas), may access sila sa kagamitang iyon nang walang anumang problema. Ang iyong karakter ay may malayang access sa mga kagamitang mas mababa ang halaga kaysa sa kanilang antas ng Kayamanan, sa loob ng katwiran. Maaaring mangailangan ang iyong gamemaster ng mga roll ng Katayuan kung nais mong maabot ng iyong karakter ang higit sa kanilang katayuan at magkaroon ng mga gamit na may mas mataas na antas ng Kayamanan. Maaari itong kumatawan sa pag-iipon para sa isang bagay, isang mahalagang minanang gamit, o paghingi ng pabor.
+Ang bawat piraso ng kagamitan ay may kaugnay na halaga. Dapat ipagpalagay ng iyong gamemaster na kung ang iyong karakter ay nasa antas ng Kayamanang iyon (o pataas), may access sila sa piraso ng kagamitang iyon nang walang anumang problema. Ang iyong karakter ay may libreng access sa mga kagamitang may halagang mas mababa sa kanilang antas ng Kayamanan, sa loob ng katuwiran. Maaaring mangailangan ang iyong gamemaster ng mga roll ng Katayuan kung nais mong maabot ng iyong karakter ang higit sa kanilang antas at magkaroon ng mga gamit na may mas mataas na antas ng Kayamanan. Maaari nitong katawanin ang pag-iipon para sa isang bagay, isang mahalagang pamana, o paghingi ng pabor.
 
-Sa diskresyon ng iyong gamemaster, kung nais mong magkaroon ang iyong karakter ng mas mamahaling gamit (higit sa kanilang antas ng Kayamanan), ang isang matagumpay na roll ng Katayuan ay dapat kailanganin upang ‘mabili’ ang mga gamit na isang antas sa itaas ng default na antas ng Kayamanan ng iyong karakter. Ang isang Mahirap na roll ng Katayuan ay dapat gawin para sa mga gamit na dalawang antas ng Kayamanan sa itaas, at maaaring magpasya ang iyong gamemaster na ang mga gamit na higit sa dalawang antas ng halaga sa itaas ng default na antas ng Kayamanan ng iyong karakter ay hindi na maaabot. Bilang alternatibo, maaaring magpasya ang iyong gamemaster na ang isang partikular na kagamitan ay ibinigay, itinalaga, o ipinahiram sa karakter, batay sa propesyon ng karakter.
+Sa pagpapasya ng iyong gamemaster, kung nais mong magkaroon ang iyong karakter ng mas mamahaling kagamitan (higit sa kanilang antas ng Kayamanan), ang isang matagumpay na roll ng Katayuan ay dapat kailanganin upang 'mabili' ang mga gamit na isang antas sa itaas ng default na antas ng Kayamanan ng iyong karakter. Ang isang Mahirap (Difficult) na roll ng Katayuan ay dapat gawin para sa mga gamit na dalawang antas ng Kayamanan sa itaas, at maaaring magpasya ang iyong gamemaster na ang mga gamit na higit sa dalawang antas ng halaga sa itaas ng default na antas ng Kayamanan ng iyong karakter ay hindi na mapupuntahan. Bilang kahalili, maaaring magpasya ang iyong gamemaster na ang isang partikular na piraso ng kagamitan ay ibinigay, itinalaga, o ipinahiram sa karakter, batay sa propesyon ng karakter.
 
-**Halimbawa,** ang antas ng Kayamanan ng isang sundalo ay kadalasang Mahirap o Katamtaman, ngunit ang mga sundalo ay binibigyan ng mga baril at kagamitang higit pa sa kanilang kakayahang pinansyal. Inaasahang pangangalagaan ng sundalo ang kagamitan at maaaring hindi ito ‘pag-aari’, ngunit ang gamit ay magagamit para sa pakikipagsapalaran. Gayunpaman, malabo para sa isang astronaut na pag-aari ang sarili nilang spaceship sa labas ng isang science fiction na setting.
+**Halimbawa,** ang antas ng Kayamanan ng isang sundalo ay karaniwang Mahirap o Karaniwan, ngunit ang mga sundalo ay binibigyan ng mga baril at kagamitan na higit pa sa kanilang kakayahang pinansyal. Ang isang sundalo ay inaasahang mag-ingat sa kagamitan at maaaring hindi ito 'pagmamay-ari', ngunit ang kagamitan ay magagamit para sa pakikipagsapalaran. Gayunpaman, ang isang astronaut ay hindi malamang na magmamay-ari ng sarili nilang spaceship sa labas ng isang science fiction na tagpuan.
 
 > ### Kailan Ilarawan ang Kagamitan?
 > 
-> Kailan kailangang ilarawan ang isang piraso ng kagamitan sa mga termino ng laro, laban sa kung kailan ito maaaring ipagpalagay na bahagi ng background? Ito ay tanong ng detalye: kailan kinakailangan ang mga epekto sa laro, at kailan sila hindi kinakailangan? Bagaman ang desisyong ito ay para sa iyong gamemaster, walang tama o maling sagot: tanging antas ng kaginhawaan lamang. Sa isip, ang oras na ginugol sa pagtukoy ng mga detalye ng laro ay pinaliit para sa pag-maximize ng oras para sa roleplaying at pakikipagsapalaran.
+> Kailan kailangang ilarawan ang isang piraso ng kagamitan sa mga termino ng laro, laban sa kung kailan ito maaaring ipagpalagay na bahagi ng background? Ito ay isang tanong ng detalye: kailan kinakailangan ang mga epekto ng laro, at kailan sila hindi kinakailangan? Bagama't ang desisyong ito ay para sa iyong gamemaster, walang tama o maling sagot: tanging antas lamang ng kaginhawaan. Sa ideal na sitwasyon, ang oras na ginugol sa pag-alam sa mga detalye ng laro ay pinaliit para sa pag-maximize ng oras para sa roleplaying at pakikipagsapalaran.
 > 
-> Ang kabanatang ito ay sumasaklaw sa iba't ibang piraso ng kagamitan, kabilang ang mga armas, baluti, at sasakyan. Sa isip, ang mga gabay na ito ay sapat na upang ang isang katumbas ng ilang iba pang piraso ng kagamitan ay makuha, o ang isang piraso ng gamit ay maaaring gawing isang direktang modifier ng kakayahan.
+> Sinasaklaw ng kabanatang ito ang iba't ibang piraso ng kagamitan, kabilang ang mga armas, baluti, at sasakyan. Sa ideal na sitwasyon, ang mga gabay na ito ay sapat na upang ang isang katumbas ng iba pang piraso ng kagamitan ay makuha, o ang isang piraso ng gamit ay maaaring gawing isang direktang modifier ng kasanayan.
 
 ### Panimulang Kagamitan
 
-Gaya ng nabanggit sa **Hakbang Walo** ng Kabanata Dalawa: Mga Karakter, ang iyong karakter ay nagsisimula sa mga gamit at kagamitang angkop sa kanilang antas ng Kayamanan at propesyon. Kadalasan, ang isang karaniwang karakter ay magkakaroon ng:
+Gaya ng nabanggit sa **Hakbang Walo** ng Kabanata Dalawa: Mga Karakter, ang iyong karakter ay nagsisimula dala ang mga gamit at kagamitang naaangkop sa kanilang antas ng Kayamanan at propesyon. Karaniwan, ang isang karaniwang karakter ay magkakaroon ng:
 
-* Isang kumpletong set ng pananamit na angkop sa kanilang kapaligiran at genre.  
-* Pera at personal na ipon na angkop sa kanilang antas ng Kayamanan.  
-* Isang personal na gamit na nagpapakita ng kaugnayan sa kanilang pamilya, maging ito ay pamana, alaala, larawan, atbp. o anumang trinket na maliit ang halagang kaugnay ngunit may emosyonal na koneksyon.  
-* Anumang mga tool sa pangangalakal o kagamitang angkop sa kanilang propesyon, kung nararapat.  
-* Anumang armas na kung saan sila ay may kakayahan na higit sa 50%, kung nararapat.
+* Isang kumpletong set ng damit na angkop sa kanilang kapaligiran at genre.
+* Panggastos sa bulsa at personal na ipon na naaangkop sa kanilang antas ng Kayamanan.
+* Isang personal na gamit na nagpapakita ng kaugnayan sa kanilang pamilya, maging ito ay pamana, alaala, larawan, atbp. o ilang trinket na maliit ang kaugnay na halaga ngunit may emosyonal na koneksyon.
+* Anumang mga kasangkapan sa kalakalan o kagamitang angkop sa kanilang propesyon, kung nararapat.
+* Anumang armas kung saan mayroon silang kasanayan na higit sa 50%, kung nararapat.
 
-Ang bawat propesyon ay maaaring magkaroon ng karagdagang gamit, tulad ng piloto, na maaaring magsimula ng laro na may eroplano, barko, o kahit spaceship, batay sa setting. Subukang huwag pumili ng propesyon para lamang sa access sa kagamitan—ang iyong propesyon ay dapat na bahagi ng karakter na nais mong gampanan, hindi ang pinaka-mapakinabangang sosyal o pang-ekonomiyang pagpipilian.
+Ang bawat propesyon ay maaaring may karagdagang gamit, tulad ng piloto, na maaaring magsimula ng laro na may eroplano, barko, o kahit spaceship, batay sa tagpuan. Subukang huwag piliin ang isang propesyon dahil lamang sa access sa kagamitan—ang iyong propesyon ay dapat na maging bahagi ng karakter na gusto mong gampanan, hindi ang pinaka-kapaki-pakinabang na pagpipiliang panlipunan o pang-ekonomiya.
 
-**Halimbawa,** kung lahat sa grupo ay pipili ng isang noble, ang paglalaro ay maaaring maging boring kung gagamitin ng lahat ng karakter ang kanilang malawak na mapagkukunang pinansyal upang gawing problema ang mga problema.
+**Halimbawa,** kung ang lahat sa grupo ay pipili ng isang noble, maaaring maging matamlay ang paglalaro kung gagamitin ng lahat ng mga karakter ang kanilang malawak na yamang pinansyal upang alisin ang mga problema.
 
-Bukod dito, ikaw at ang iyong gamemaster ay dapat isaalang-alang na ang kalidad at hitsura ng mga gamit at damit ng iyong karakter ay malamang na sumasalamin din sa kanilang ranggo sa kakayahang Katayuan at Kayamanan.
+Bukod dito, dapat mong isaalang-alang ng iyong gamemaster na ang kalidad at hitsura ng mga gamit at kasuotan ng iyong karakter ay malamang na sumasalamin din sa kanilang ranggo sa kasanayang Katayuan at Kayamanan.
 
-**Halimbawa,** ang mga damit ng isang estudyante ay malinis at malamang na sunod sa uso, ngunit hindi angkop para sa mga pormal na kaganapan, at nagsisilbi sa kanila nang mahina sa isang ekspedisyon sa liblib na Tibet. Ang mga gamit na binibili ng isang dilettante para sa isang ekspedisyon sa pangangaso ay malinis at mula sa pinakamahusay na mga tatak, bagaman ang isang may karanasang mangangaso ay may mga gamit na gamit na at mapagkakatiwalaan na pinili para sa pagiging maaasahan kaysa sa tatak.
+**Halimbawa,** ang mga kasuotan ng isang estudyante ay malinis at malamang na uso, ngunit hindi angkop para sa mga kaganapang black-tie, at nagsisilbi sa kanila nang mahina sa isang ekspedisyon sa malayong Tibet. Ang mga gamit na binibili ng isang dilettante para sa isang ekspedisyon sa pangangaso ay malinis at mula sa mga pinakamahusay na brand, bagama't ang isang may karanasang mangangaso ay may gamit na gamit na at mapagkakatiwalaan na pinili para sa pagiging maaasahan kaysa sa label.
 
 ### Pagbili ng Kagamitan
 
-Kapag nais ng iyong karakter na makakuha o magpalit ng kagamitan o gamit na hindi nila kayang makuha, nakawin, o kunin mula sa iba, ito ay ginagawa gamit ang nakatalagang halaga ng gamit, at posibleng gumagamit ng mga kakayahan tulad ng Appraise, Bargain, at Persuade, o sa pamamagitan ng simpleng paggamit ng mga roll ng Katayuan ayon sa nararapat.
+Kapag nais ng iyong karakter na makakuha o palitan ang kagamitan o gamit na hindi nila mapupulot, mananakaw, o makuha mula sa isang tao, ito ay pinangangasiwaan gamit ang itinalagang halaga ng gamit, at posibleng gumamit ng mga kasanayan tulad ng Pagtatasa (Appraise), Pagtawad (Bargain), at Panghihikayat (Persuade), o sa pamamagitan lamang ng paggamit ng mga roll ng Katayuan ayon sa nararapat.
 
-Una, tukuyin kung ang kagamitan ay matatagpuan sa lahat. Maaaring mangailangan ang iyong gamemaster ng isang matagumpay na roll ng Research o isang roll ng katangian tulad ng Idea, Luck, o Knowledge upang mahanap ito. Ang mga kakayahan sa komunikasyon ay maaaring kailanganin kung kinakailangan ang pakikipagtawaran o negosasyon. Ang Kabanata Sampu: Mga Setting ay nagbibigay ng ilang pangunahing gabay sa availability ng mga gamit sa iba't ibang setting.
+Una, tukuyin kung ang kagamitan ay mahahanap ba talaga. Maaaring mangailangan ang iyong gamemaster ng isang matagumpay na roll ng Pananaliksik (Research) o isang roll ng katangian tulad ng Ideya, Suwerte, o Kaalaman upang mahanap ito. Ang mga kasanayan sa komunikasyon ay maaaring kailanganin kung ang pagtawad o negosasyon ay kinakailangan. Ang Kabanata Sampu: Mga Tagpuan ay nagbibigay ng ilang pangunahing gabay para sa pagkakaroon ng mga gamit sa iba't ibang tagpuan.
 
-Sa pag-aakalang ang nais na gamit ay matatagpuan, ang pinakadirektang paraan upang makuha ito ay sa pamamagitan ng kakayahang Katayuan, na binago ng mga salik na ito:
+Sa pag-aakalang mahahanap ang nais na gamit, ang pinakadirektang paraan upang makuha ito ay gamit ang kasanayang Katayuan, na binago ng mga salik na ito:
 
-* Kung ang gamit ay may halagang dalawang antas sa ibaba ng antas ng Kayamanan ng iyong karakter at ito ay matatagpuan, ito ay awtomatikong magagamit. Walang roll na kinakailangan.  
-* Kung ang gamit ay may halagang isang antas sa ibaba ng antas ng Kayamanan ng iyong karakter at ito ay matatagpuan, isang solong gamit (o isang maliit na set ng mga gamit, kung angkop) ay maaaring makuha nang hindi gumagawa ng roll.  
-* Kung ang gamit ay may halagang katumbas ng antas ng Kayamanan ng iyong karakter, walang roll na kinakailangan upang makuha ito.  
-* Kung ang gamit ay isang antas ng halaga sa itaas ng antas ng Kayamanan ng iyong karakter, isang matagumpay na roll ng Katayuan ang kinakailangan upang makuha ito.  
-* Kung ang gamit ay dalawang antas ng halaga sa itaas ng antas ng Kayamanan ng iyong karakter, isang matagumpay na Mahirap na roll ng Katayuan ang kinakailangan upang makuha ito.  
+* Kung ang gamit ay may halagang dalawang antas sa ibaba ng antas ng Kayamanan ng iyong karakter at mahahanap ito, awtomatiko itong magagamit. Walang roll na kailangan.
+* Kung ang gamit ay may halagang isang antas sa ibaba ng antas ng Kayamanan ng iyong karakter at mahahanap ito, ang isang piraso ng gamit (o isang maliit na set ng mga gamit, kung nararapat) ay makukuha nang hindi gumagawa ng roll.
+* Kung ang gamit ay may halagang katumbas ng antas ng Kayamanan ng iyong karakter, walang roll na kailangan upang makuha ito.
+* Kung ang gamit ay isang antas ng halaga sa itaas ng antas ng Kayamanan ng iyong karakter, isang matagumpay na roll ng Katayuan ang kinakailangan upang makuha ito.
+* Kung ang gamit ay dalawang antas ng halaga sa itaas ng antas ng Kayamanan ng iyong karakter, isang matagumpay na Mahirap (Difficult) na roll ng Katayuan ang kinakailangan upang makuha ito.
 * Kung ang gamit ay higit sa dalawang antas ng halaga sa itaas ng antas ng Kayamanan ng iyong karakter, walang roll ng Katayuan ang makakakuha nito.
 
-Sa huli, laging may pagnanakaw o karahasan para makakuha ng nais na gamit. Kung pahihintulutan ng iyong gamemaster, ang iyong karakter ay maaaring magsimula ng laro na may ninakaw na gamit na halos anumang halaga. Sa kasong ito, tukuyin kung sino ang orihinal na nagmamay-ari ng gamit, kung alam ba nilang kinuha ito (at kung sino ang kumuha nito), at ang antas at tindi ng mga mapagkukunan na ilalaan nila sa pagbawi nito. Ang mismong pagnanakaw ay maaaring gampanan bilang isang panimulang eksena o flashback, o awtomatikong ipagpalagay na matagumpay. Sa alinmang kaso, dapat gawin ng iyong gamemaster ang anumang makatwirang pagsisikap upang harapin ang mga kahihinatnan ng pagnanakaw sa paraang angkop sa setting, na posibleng isama ang mga pagsisikap sa pagbawi sa pangkalahatang kuwento o kampanya. Tulad ng ibang mga kakayahan, ang isang matagumpay na roll ng kakayahan na ginawa bago magsimula ang pakikipagsapalaran ay hindi karapat-dapat para sa isang experience check.
+Sa huli, laging may pagnanakaw o karahasan upang makuha ang isang nais na piraso ng gamit. Kung pahihintulutan ng iyong gamemaster, ang iyong karakter ay maaaring magsimula ng laro na may ninakaw na gamit na halos anumang halaga. Sa kasong ito, tukuyin kung sino ang orihinal na nagmamay-ari ng gamit, kung alam ba nilang kinuha ito (at kung sino ang kumuha nito), at ang antas at tindi ng mga mapagkukunan na ilalaan nila sa pagbawi nito. Ang mismong pagnanakaw ay maaaring i-roleplay bilang isang panimulang eksena o flashback, o awtomatikong ipagpalagay na matagumpay. Sa anumang kaso, dapat gawin ng iyong gamemaster ang anumang makatuwirang pagsisikap upang harapin ang mga bunga ng pagnanakaw sa paraang naaangkop sa tagpuan, na posibleng isama ang mga pagsisikap sa pagbawi sa pangkalahatang kuwento o kampanya. Tulad ng ibang mga kasanayan, ang isang matagumpay na roll ng kasanayan na ginawa bago magsimula ang isang pakikipagsapalaran ay hindi kwalipikado para sa isang check ng karanasan.
 
 ### Panimulang Kagamitan na may mga Kapangyarihan
 
-Maaaring nais mong simulan ng iyong karakter ang laro na may isang piraso ng kagamitang may kapangyarihan, kung ang mga kapangyarihan ay ginagamit sa setting. Kung aprubahan ng iyong gamemaster, dapat ‘bayaran’ ng iyong karakter ang piraso ng kagamitang iyon mula sa kanilang sariling panimulang badyet para sa mga kapangyarihan, maging sa mga paunang spell o psychic abilities, sa halaga ng isang mutation, o mula sa badyet ng kapangyarihan ng iyong karakter. Maaari kang magsimula na may isa o higit pang piraso ng kagamitan na gumagamit ng mga kapangyarihan, na may mga sumusunod na gabay:
+Maaaring nais mong magsimula ang iyong karakter na may isang piraso ng kagamitang may kapangyarihan, kung ang mga kapangyarihan ay ginagamit sa tagpuan. Kung aprubado ng iyong gamemaster, dapat 'bayaran' ng iyong karakter ang piraso ng kagamitang iyon mula sa kanilang sariling panimulang badyet para sa mga kapangyarihan, maging sa mga paunang spells o psychic na kakayahan, sa halaga ng isang mutation, o mula sa badyet ng kapangyarihan ng iyong karakter. Maaari kang magsimula na may isa o higit pang piraso ng kagamitan na gumagamit ng mga kapangyarihan, na may mga sumusunod na gabay:
 
-* **Mga Magic Powers:** Upang magsimula ng laro na may magic item, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng POW bawat spell na namuhunan sa gamit, dagdag pa ang 1 punto ng permanenteng POW bawat antas ng spell capacity na magagamit ng gamit. Bukod dito, dapat alam (o may access) ng iyong karakter ang (mga) spell na magagamit ng gamit. Ang gamit ay may power point capacity na katumbas ng normal na kabuuang power point ng iyong karakter matapos malikha ang magic item, o ang SIZ ng gamit. Kung hindi nilikha ng iyong karakter ang magic item, dapat tukuyin ng iyong gamemaster ang power point capacity nito. Ang isang magic item ay dapat may paunang skill rating na binayaran mula sa personal na skill points ng iyong karakter, at hindi maaaring maging mas mataas sa skill rating ng lumikha nito. Kung hindi nilikha ng iyong karakter, dapat tukuyin ng iyong gamemaster ang mga paunang skill rating. Kapag nilikha ang magic item, tukuyin kung ito ay personal (ang iyong karakter lamang ang makakagamit nito), kung dapat itong talunin sa isang power point vs. power point resistance roll kung mayroon itong mga power point, o kung kahit sino ay makakagamit nito. Tingnan ang Mga Magic Item para sa karagdagang impormasyon.
+* **Mga Mahiwagang Kapangyarihan (Magic Powers):** Upang magsimula ng laro na may mahiwagang gamit, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng KAP bawat spell na namuhunan sa gamit, dagdagan ng 1 punto ng permanenteng KAP bawat antas ng kapasidad ng spell na magagamit ng gamit. Bukod dito, dapat alam (o may access) ng iyong karakter ang (mga) spell na magagamit ng gamit. Ang gamit ay may kapasidad ng power point na katumbas ng normal na kabuuang power point ng iyong karakter pagkatapos malikha ang mahiwagang gamit, o ang SUK ng gamit. Kung hindi nilikha ng iyong karakter ang mahiwagang gamit, dapat tukuyin ng iyong gamemaster ang kapasidad ng power point nito. Ang isang mahiwagang gamit ay dapat may paunang rating ng kasanayan na binayaran mula sa personal na skill points ng iyong karakter, at hindi maaaring maging mas mataas kaysa sa rating ng kasanayan ng lumikha nito. Kung hindi ito nilikha ng iyong karakter, dapat tukuyin ng iyong gamemaster ang mga paunang rating ng kasanayan. Kapag nalikha ang mahiwagang gamit, tukuyin kung ito ay personal (iyong karakter lamang ang makakagamit nito), kung dapat ba itong talunin sa isang roll ng resistensya na power point vs. power point kung mayroon itong mga power point, o kung kahit sino ay makakagamit nito. Tingnan ang Mga Mahiwagang Gamit para sa karagdagang impormasyon.
 
-* **Mga Mutation:** Upang magsimula na may gamit na may mga mutation, makipagtulungan sa iyong gamemaster upang magbigay ng makatwirang paliwanag kung bakit umiiral ang naturang gamit at kung anong mga mutation ang pinakamahusay na kumakatawan sa mga kakayahan nito. Ang mutated na gamit ay bahagi ng iyong karakter at dapat bayaran mula sa kanilang paunang katangian at magagamit na mga mutation. Upang magsimula ng laro na may mutated na gamit, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng CON bawat antas ng mutation (at pantay na bilang ng mga magagamit na panimulang mutation). Anumang mga roll ng katangian na ginagawa ng gamit ay batay sa sariling mga katangian ng iyong karakter. Ang isang mutated na gamit ay itinuturing na ‘buhay’ at gagaling sa parehong bilis ng iyong karakter. Tingnan ang **Mga Mutated na Gamit** para sa karagdagang impormasyon.
+* **Mga Mutation:** Upang magsimula na may isang gamit na may mga mutation, makipagtulungan sa iyong gamemaster upang magbigay ng makatuwirang paliwanag kung bakit umiiral ang gayong gamit at kung anong mga mutation ang pinakamahusay upang katawanin ang mga kakayahan nito. Ang mutated na gamit ay bahagi ng iyong karakter at dapat bayaran mula sa kanilang paunang katangian at magagamit na mga mutation. Upang magsimula ng laro na may mutated na gamit, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng TIB bawat antas ng mutation (at isang katumbas na bilang ng magagamit na panimulang mutation). Anumang mga roll ng katangian na ginagawa ng gamit ay nakabase sa sariling mga katangian ng iyong karakter. Ang isang mutated na gamit ay itinuturing na 'buhay' at gagaling sa parehong bilis ng iyong karakter. Tingnan ang **Mga Mutated na Gamit** para sa karagdagang impormasyon.
 
-* **Mga Psychic Abilities:** Upang magsimula na may gamit na gumagamit ng mga psychic ability, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng POW bawat antas ng psychic ability (at isang psychic ability ‘slot’ mula sa kanilang mga panimulang psychic ability kung ang kakayahan ay hindi alam). Ang gamit ay may panimulang POW (at maximum power points) na katumbas ng sa iyong karakter. Ang iyong karakter ay dapat magbayad ng mga skill point para sa mga psychic ability ng gamit mula sa kanilang personal na pool ng skill point. Tingnan ang **Kagamitan na may mga Psychic Abilities** para sa karagdagang impormasyon.
+* **Mga Psychic na Kakayahan:** Upang magsimula na may gamit na gumagamit ng mga psychic na kakayahan, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng KAP bawat antas ng psychic na kakayahan (at isang 'slot' ng psychic na kakayahan mula sa kanilang panimulang mga psychic na kakayahan kung hindi alam ang kakayahan). Ang gamit ay may panimulang KAP (at maximum na power points) na katumbas ng sa iyong karakter. Ang iyong karakter ay dapat magbayad ng skill points para sa mga psychic na kakayahan ng gamit mula sa kanilang personal na pool ng skill point. Tingnan ang **Kagamitan na may mga Psychic na Kakayahan** para sa karagdagang impormasyon.
 
-* **Sorcery:** Upang magsimula ng laro na may artifact, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng POW bawat sorcery spell na namuhunan sa artifact at dapat alam (o may access) ang (mga) spell na magagamit ng artifact. Ang artifact ay may reservoir ng power point na katumbas ng normal na maximum power point ng iyong karakter (matapos malikha ang artifact), alinman ang mas malaki. Dapat itakda ng iyong gamemaster ang POW at halaga ng power point kung ang artifact ay hindi nilikha ng iyong karakter. Kapag nilikha ang artifact, dapat mong tukuyin kung ito ay personal (ang iyong karakter lamang ang makakagamit nito), kung dapat itong talunin sa isang power point vs. power point resistance roll kung mayroon itong mga power point, o kung kahit sino ay makakagamit nito. Tingnan ang **Kagamitan na may Sorcery** para sa karagdagang impormasyon.
+* **Sorcery:** Upang magsimula ng laro na may artifact, ang iyong karakter ay dapat magsakripisyo ng 1 punto ng permanenteng KAP bawat sorcery spell na namuhunan sa artifact at dapat alam (o may access) ang (mga) spell na magagamit ng artifact. Ang artifact ay may reservoir ng power point na katumbas ng normal na maximum na power point ng iyong karakter (pagkatapos malikha ang artifact), alinman ang mas malaki. Dapat itakda ng iyong gamemaster ang KAP at halaga ng power point kung ang artifact ay hindi nilikha ng iyong karakter. Kapag nalikha ang artifact, dapat mong tukuyin kung ito ay magiging personal (iyong karakter lamang ang makakagamit nito), kung dapat ba itong talunin sa isang roll ng resistensya na power point vs. power point kung mayroon itong mga power point, o kung kahit sino ay makakagamit nito. Tingnan ang **Kagamitan na may Sorcery** para sa karagdagang impormasyon.
 
-* **Mga Superpower:** Upang magsimula ng laro na may gadget, bayaran ang mga kapangyarihan ng gadget na parang nagmula ito sa sariling badyet ng kapangyarihan ng iyong karakter. Inirerekomenda na ang gadget ay maging kaparehong antas ng kapangyarihan ng may-ari nito, bagaman maaaring payagan ng iyong gamemaster ang isang gadget na mas malakas o mas mahina. Maaari ring magpasya ang iyong gamemaster na baguhin ang kaugnay na antas ng gadget at iyong karakter para sa mga layunin ng balanse, kaya kung ang gadget ay isang antas na mas mataas kaysa sa antas ng kapangyarihan ng kampanya, ang antas ng kapangyarihan ng iyong karakter ay dapat ilipat ng isang antas pababa, o vice versa. Maaari mong kunin ang power failing na “Superpowered identity must be turned on in an obvious and preventable manner” na nakatali sa gamit, kadalasang may +1 bonus sa badyet ng kapangyarihan. Maaaring mag-apply ang iba pang mga power failing, tulad ng “Power has a limited number of uses per day”. Gayundin, maaaring payagan ka ng iyong gamemaster na kumuha ng bagong power failing: “Power comes from a gadget” para sa +1 bonus sa badyet ng kapangyarihan. Tuwing naaangkop, ang gadget ay dapat umasa sa kaugnay na kakayahan ng iyong karakter. Tingnan ang **Kagamitan na may mga Superpower** para sa karagdagang impormasyon.
+* **Mga Superpower:** Upang magsimula ng laro na may gadget, bayaran ang mga kapangyarihan ng gadget na parang galing ang mga ito sa sariling badyet ng kapangyarihan ng iyong karakter. Inirerekomenda na ang gadget ay kapareho ng antas ng kapangyarihan ng may-ari nito, bagama't maaaring payagan ng iyong gamemaster ang isang gadget na mas malakas o mas mahina. Maaari ring magpasya ang iyong gamemaster na ilipat ang kaugnay na antas ng gadget at ng iyong karakter para sa layunin ng balanse, kaya kung ang gadget ay isang antas na mas mataas kaysa sa antas ng kapangyarihan ng kampanya, ang antas ng kapangyarihan ng iyong karakter ay dapat ilipat ng isang antas pababa, o vice versa. Maaari mong kunin ang kabiguan ng kapangyarihan na "Ang superpowered na pagkakakilanlan ay dapat buksan sa isang halata at maiiwasang paraan" na nakatali sa gamit, karaniwang isang +1 na bonus sa badyet ng kapangyarihan. Maaaring ilapat ang iba pang mga kabiguan ng kapangyarihan, tulad ng "Ang kapangyarihan ay may limitadong bilang ng mga gamit bawat araw". Gayundin, maaaring payagan ka ng iyong gamemaster na kumuha ng bagong kabiguan ng kapangyarihan: "Ang kapangyarihan ay nagmumula sa isang gadget" para sa isang +1 na bonus sa badyet ng kapangyarihan. Hangga't naaangkop, ang gadget ay dapat umasa sa kaugnay na kasanayan ng iyong karakter. Tingnan ang **Kagamitan na may mga Superpower** para sa karagdagang impormasyon.
 
 ### Paggawa ng Kagamitan
 
-Maaaring nais ng iyong karakter na aktwal na gumawa ng isang piraso ng kagamitan, na kadalasang mas mura kaysa sa pagbili nito at mas hindi mapanganib kaysa sa pagnanakaw nito. Anumang gamit na ginawa ng iyong karakter (bilang laban sa pagbili nito) ay itinuturing na isang antas ng halaga na mas mababa kaysa sa karaniwang presyo nito. Ipinapalagay nito na ang iyong karakter ay bihasa sa paggawa ng gamit (isang kaugnay na skill rating na 75%+). Ipinapalagay nito na alam ng iyong karakter kung saan makakahanap ng mapagkakatiwalaang mga bahagi sa magagandang presyo (black market, mail order, salvage yard, atbp.), at gugugol ng oras sa pagsubok at pagsusuri ng mga materyales upang matiyak na gumagana ang mga ito. Maaaring mangailangan ang iyong gamemaster na ang prosesong ito ay magsangkot ng iba pang mga roll ng kakayahan, o kahit mga roll ng Katayuan tulad ng nasa itaas. Ang oras at pagsisikap na ginugol sa pagtitipon ng mga bahagi at/o mga hilaw na materyales ay nasa iyong gamemaster upang matukoy, batay sa kung gaano nila gustong magtuon dito habang naglalaro.
+Maaaring nais ng iyong karakter na aktwal na bumuo ng isang piraso ng kagamitan, na karaniwang mas mura kaysa sa pagbili nito at mas hindi mapanganib kaysa sa pagnanakaw nito. Ang anumang gamit na ginagawa ng iyong karakter (sa halip na bilhin) ay itinuturing na isang antas ng halaga na mas mababa kaysa sa standard na presyo nito. Ipinagpapalagay nito na ang iyong karakter ay bihasa sa paggawa ng gamit (isang kaugnay na rating ng kasanayan na 75%+). Ipinagpapalagay nito na alam ng iyong karakter kung saan makakahanap ng mga mapagkakatiwalaang bahagi sa magandang presyo (black market, mail order, salvage yard, atbp.), at gugugol ng oras sa pagsubok at pagtatasa ng mga materyales upang matiyak na gumagana ang mga ito. Maaaring mangailangan ang iyong gamemaster na ang prosesong ito ay magsangkot ng iba pang mga roll ng kasanayan, o kahit mga roll ng Katayuan gaya ng nasa itaas. Ang oras at pagsisikap na ginugol sa pagtitipon ng mga bahagi at/o mga hilaw na materyales ay nasa iyong gamemaster na magtakda, batay sa kung gaano nila gustong magtuon dito habang naglalaro.
 
-Ang ilang mga gamit ay hindi ayon sa tradisyon na maaring gawin mula sa mga bahaging binili sa tindahan, tulad ng pagdoble ng mga natatanging piraso ng sining o mga artifact bilang anumang bagay maliban sa mga replika. Bagaman ang mga indibidwal na bahagi ay maaaring murang gawin o hanapin, ang pagkakagawa o ang pambihira ng gamit ay maaaring maglimita sa iyong mga opsyon. Kung ang iyong karakter ay hindi sapat na bihasa, o nabigo sa mga kaugnay na roll, ang gastos ng mga hilaw na materyales at mga bahagi ay maaaring maging mas mahal kaysa sa karaniwang halaga ng gamit.
+Ang ilang mga gamit ay hindi ayon sa kaugalian na magagawa mula sa mga pirasong binili sa tindahan, tulad ng paggawa ng mga kopya ng mga natatanging piraso ng sining o mga artifact bilang anupaman kundi mga replika. Bagama't ang mga indibidwal na piraso ay maaaring mura na gawin o hanapin, ang pagkakayari o pambihira ng gamit ay maaaring maglimita sa iyong mga opsyon. Kung ang iyong karakter ay hindi sapat na bihasa, o nabigo sa mga kaugnay na roll, ang halaga ng mga hilaw na materyales at mga bahagi ay maaaring mas mahal pa kaysa sa gamit ayon sa kaugalian.
 
-**Halimbawa,** ang pagsubok na bumuo ng kotse mula sa mga bahaging binili sa retail ay matagal at mahal, at mas malaki ang pera at oras kaysa sa pagbili na lamang ng kotse. Gayunpaman, kung ang iyong karakter ay bihasa at matagumpay na nagagamit ang Bargain at Research, maaaring makahanap sila ng junkyard o makakuha ng lahat ng kinakailangang elemento nang mas mura kaysa sa pagbabayad ng hinihinging presyo.
+**Halimbawa,** ang pagtatangkang bumuo ng isang kotse mula sa mga pirasong binili sa retail ay nakakaubos ng oras at mahal, at mas marami ang pera at oras kaysa sa pagbili lamang ng isang kotse nang diretso. Gayunpaman, kung ang iyong karakter ay bihasa at nagagawang matagumpay na gamitin ang Pagtawad at Pananaliksik, maaaring makahanap sila ng junkyard o makapag-scavenge ng lahat ng mga kinakailangang elemento nang mas mura kaysa sa pagbabayad ng presyong hinihingi.
 
-Sa huli, nasa iyong gamemaster ang magpasya kung gaano katagal ang paggawa ng isang partikular na gamit. Kung kinakailangan, ipagpalagay na ang lahat ng kinakailangang kagamitan ay nasa kamay at ang lahat ng kaugnay na roll ng kakayahan ay matagumpay: ang isang gamit na medyo madaling gawin ay nangangailangan ng isang oras bawat SIZ. Kung ito ay may katamtamang pagiging kumplikado, ang bawat SIZ ay nangangailangan ng isang araw. Kung ito ay medyo kumplikado, ang bawat SIZ ay isang linggo. Kung ito ay napakakumplikado, ang bawat SIZ ay maaaring tumagal ng isang buwan. Kung higit sa isang karakter ang nagtatrabaho sa gamit, hatiin ang SIZ sa kanila. Kapag nasakop na ng trabaho ang kinakailangang SIZ ng gamit, tapos na ito. Gamitin ang mga talahanayan ng SIZ equivalency.
+Sa huli, nasa iyong gamemaster na magpasya kung gaano katagal ang aabutin upang gumawa ng isang partikular na gamit. Kung kinakailangan, sa pag-aakalang ang lahat ng kinakailangang kagamitan ay nasa kamay at ang lahat ng kaugnay na roll ng kasanayan ay matagumpay: ang isang gamit na medyo simpleng gawin ay nangangailangan ng isang oras bawat SUK. Kung ito ay nasa average na pagiging kumplikado, bawat SUK ay nangangailangan ng isang araw. Kung ito ay medyo kumplikado, bawat SUK ay isang linggo. Kung ito ay lubhang kumplikado, bawat SUK ay maaaring tumagal ng isang buwan. Kung higit sa isang karakter ang nagtatrabaho sa gamit, hatiin ang SUK sa pagitan nila. Kapag natakpan ng trabaho ang kinakailangang SUK ng gamit, tapos na ito. Gamitin ang mga talahanayan ng pagtutumbas ng SUK.
 
-**Halimbawa,** ang isang target shield (SIZ 3) ay medyo madaling buuin at tumatagal ng tatlong oras. Ang isang SIZ 50 na awtomobil ay may katamtamang pagiging kumplikado at tumatagal ng 50 araw ng trabaho para sa isang tao o 25 araw ng trabaho para sa dalawang mekaniko upang buuin mula sa mga bahagi. Ang isang SIZ 110 na airliner, gayunpaman, ay napakakumplikado, at tatagal ng siyam na taon para sa isang karakter upang matapos. Hinihikayat ang iyong gamemaster na baguhin ang mga halagang ito batay sa kagamitan, pasilidad, at kalidad ng mga tagumpay na nakuha. Para sa gayong pangmatagalang proyekto, ang bawat yugto ng panahon (isang oras, isang araw, o isang linggo) ay nangangailangan ng isang hiwalay at matagumpay na roll ng kakayahan, kung kinakailangan ang isang roll ng kakayahan.
+**Halimbawa,** ang isang target shield (SUK 3) ay medyo madaling itayo at tumatagal ng tatlong oras. Ang isang SUK 50 na awtomobil ay nasa average na pagiging kumplikado at tumatagal ng 50 araw ng trabaho para sa isang tao o 25 araw ng trabaho para sa dalawang mekaniko upang buuin mula sa mga piraso. Ang isang SUK 110 na eroplano, gayunpaman, ay lubhang kumplikado, at aabutin ng siyam na taon ang isang karakter upang makumpleto. Ang iyong gamemaster ay hinihikayat na baguhin ang mga halagang ito batay sa kagamitan, mga pasilidad, at kalidad ng mga tagumpay na na-roll. Para sa gayong pangmatagalang proyekto, ang bawat yugto ng panahon (isang oras, isang araw, o isang linggo) ay nangangailangan ng hiwalay at matagumpay na roll ng kasanayan, kung kinakailangan ang isang roll ng kasanayan.
 
-Ang mga halagang ito ay abstrakto, at hinihikayat ang iyong gamemaster na magbigay ng mas tumpak na impormasyon sa oras ng paggawa, kung ninanais.
+Ang mga halagang ito ay abstrakto, at ang iyong gamemaster ay hinihikayat na magbigay ng mas tumpak na impormasyon sa oras ng pagmamanupaktura, kung ninanais.### Mga Modipikador ng Kalidad ng Kagamitan
 
-### Mga Modifier sa Kalidad ng Kagamitan
+Ang mga roll ng kasanayan ay maaaring ma-modify sa pamamagitan ng pagkakaroon ng mga nauugnay at angkop na kagamitan sa kamay. Ang kagamitan ay maaaring magmula sa isang set ng mga lockpick, set ng tool ng mekaniko, library ng pananaliksik, medical lab, o anumang iba pang kapaki-pakinabang at angkop. Ang kalidad ng kagamitan ay maaaring magbigay ng modipikador sa isang roll ng kasanayan, gaya ng inilarawan sa **Mga Situational Modifiers**. Ang modipikador na ito ay maaaring magmula sa mababang kalidad (inferior) na kagamitan na nagpaparusa sa rating ng kasanayan ng iyong karakter ng –20%, hanggang sa mataas na kalidad (superior) na kagamitan na nag-aalok ng +20% na bonus.
 
-Ang mga roll ng kakayahan ay maaaring baguhin sa pamamagitan ng pagkakaroon ng mga kaugnay at angkop na kagamitan sa kamay. Ang kagamitan ay maaaring kahit ano mula sa isang set ng lockpick, isang machinist’s tool set, isang research library, isang medical lab, o anumang iba pa na kapaki-pakinabang at angkop. Ang kalidad ng kagamitan ay maaaring magbigay ng modifier sa isang roll ng kakayahan, gaya ng inilarawan sa **Situational Modifiers**. Ang modifier na ito ay maaaring saklaw mula sa mas mababang kagamitan na nagpaparusa sa skill rating ng iyong karakter ng –20%, hanggang sa superior na kalidad ng kagamitan na nag-aalok ng +20% na bonus.
+Karamihan sa mga uri ng kagamitan ay umiiral sa malawak na pagkakaiba-iba ng kalidad. Dapat tukuyin ng iyong gamemaster kung ang isang partikular na piraso ng kagamitan ay magagamit sa isang hanay ng mga kalidad at kung gaano kadali o kamahal makuha ang nasabing kagamitan. Karamihan sa mga kagamitang ginagamit ng iyong karakter ay default na nasa average na kalidad. Gayunpaman, maaaring gusto mong magmay-ari o gumamit ang iyong karakter ng mataas na kalidad na kagamitan, upang mapataas ang kanilang pagkakataong magtagumpay sa isang nauugnay na roll ng kasanayan.
 
-Karamihan sa mga uri ng kagamitan ay umiiral sa malawak na iba't ibang kalidad. Dapat tukuyin ng iyong gamemaster kung ang isang partikular na piraso ng kagamitan ay magagamit sa iba't ibang kalidad at kung gaano kadali o kamahal ang makuha ang naturang kagamitan. Karamihan sa mga kagamitang ginagamit ng iyong karakter ay default na may katamtamang kalidad. Gayunpaman, maaaring nais mong pag-aari o gamitin ng iyong karakter ang superior na kalidad ng kagamitan, upang mapataas ang kanilang pagkakataon ng tagumpay sa isang kaugnay na roll ng kakayahan.
+Narito ang isang mabilis na gabay sa paghawak sa halaga at availability ng iba't ibang antas ng kalidad ng kagamitan:
 
-Sumusunod ang isang mabilis na gabay sa paghawak ng halaga at availability ng iba't ibang antas ng kalidad ng kagamitan:
-
-| Kalidad | Modifier | Halaga at Kakayahan |
+| Kalidad | Modipikador | Halaga at Kakayahan |
 | :---- | :---- | :---- |
-| Inferior | –20% | Bawasan ng isa hanggang tatlong antas ng halaga |
-| Average | Wala | Gaya ng normal |
-| Superior | +20% | Idagdag ang isa hanggang tatlong antas ng halaga |
+| Mababa (Inferior) | –20% | Bawasan ng isa hanggang tatlong antas ng halaga |
+| Karaniwan (Average) | Wala | Gaya ng normal |
+| Mataas (Superior) | +20% | Magdagdag ng isa hanggang tatlong antas ng halaga |
 
-Upang gamitin ang tsart na ito, hanapin ang normal na halaga ng piraso ng kagamitan (o kumunsulta sa iyong gamemaster). Susunod, tukuyin ang kalidad ng gamit na nais mo para sa iyong karakter. Kumunsulta sa kolum ng **Halaga at Kakayahan** upang matukoy ang pinal na halaga ng kagamitan. Ang halaga at availability ng isang piraso ng kagamitan ay hindi karaniwang mababago nang higit sa mga normal na limitasyon. Ipinapalagay na nais ng iyong karakter ang mahusay o superior na kagamitan upang mapataas ang kanilang mga skill rating, bagaman kung ang badyet ay isang isyu, maaari mong piliing ipagamit sa iyong karakter ang mas abot-kayang mas mababang kalidad na kagamitan.
+Upang gamitin ang chart na ito, hanapin ang normal na halaga ng piraso ng kagamitan (o kumunsulta sa iyong gamemaster). Susunod, tukuyin ang kalidad ng item na gusto mo para sa iyong karakter. Kumunsulta sa column na **Halaga at Kakayahan** upang matukoy ang huling halaga ng kagamitan. Ang halaga at availability ng isang piraso ng kagamitan ay karaniwang hindi maaaring ma-modify nang lampas sa mga normal na limitasyon. Ipinapalagay na ang iyong karakter ay nagnanais ng mabuti o mataas na kalidad na kagamitan upang mapataas ang kanilang mga rating ng kasanayan, bagaman kung ang badyet ay isang isyu, maaari mong piliing gamitin ng iyong karakter ang mas abot-kayang kagamitang may mababang kalidad.
 
-Sa diskresyon ng iyong gamemaster, ang mga alternatibong halaga at/o mga modifier ay maaaring italaga sa kagamitan—ang mga halagang ipinakita ay mga gabay lamang.
+Sa pagpapasya ng iyong gamemaster, ang mga alternatibong halaga at/o modipikador ay maaaring italaga sa kagamitan—ang mga halagang ipinakita ay mga gabay lamang.
 
-Ang pagkakaroon ng sapat na gamit ay hindi nagbibigay ng anumang modifier. Gayunpaman, kung ang iyong karakter ay hindi nagtataglay ng kinakailangang kagamitan upang gumamit ng isang partikular na kakayahan, maaaring gawing Mahirap o Imposible ng iyong gamemaster ang pagkakataon ng kakayahan, o magpasya na ang kakayahan ay hindi maaaring subukan nang walang tamang gamit.
+Ang pagkakaroon ng sapat na gamit ay hindi nagbibigay ng anumang modipikador. Gayunpaman, kung ang iyong karakter ay walang kinakailangang kagamitan upang gumamit ng isang partikular na kasanayan, maaaring gawin ng iyong gamemaster na Mahirap (Difficult) o Imposible (Impossible) ang tsansa ng kasanayan, o magpasya lamang na ang kasanayan ay hindi maaaring subukan nang walang tamang gamit.
 
-**Halimbawa,** ang iyong karakter ay nakatagpo ng kandado na dapat buksan. Sumusunod ang ilan sa mga resulta dahil sa mga pangyayari:
+**Halimbawa,** ang iyong karakter ay nakatagpo ng kandado na kailangang buksan. Narito ang ilan sa mga resulta dahil sa mga pangyayari:
 
-* Ang mga superior na lockpick at iba pang mga tool ay nagbibigay ng +20% na bonus.
+* Ang mga mataas na kalidad (superior) na lockpick at iba pang mga tool ay nagbibigay ng +20% na bonus.
 
-* Ang mga average na tool ay hindi nagbibigay ng bonus.
+* Ang mga karaniwang (average) tool ay hindi nagbibigay ng bonus.
 
-* Ang mga inferior na tool (kinakalawang, sira, improvised) ay binago ang kakayahan ng –20%.
+* Ang mga mababang kalidad (inferior) na tool (kinakalawang, sira, improvised) ay nag-modify sa kasanayan ng –20%.
 
-Maaaring ipahayag ng iyong gamemaster na ang kakayahan ay hindi maaaring subukan sa lahat kung ang iyong karakter ay walang kahit na ang pinakapangunahing mga tool sa pag-aayos ng kandado. Maaari nilang sabihin na “Hindi mo mabubuksan ang kandado nang walang lockpick, o anumang bagay na ipapasok sa kandado. Baka tumingin-tingin ka pa? Maaari kang makahanap ng isang bagay na gagawing improvised na lockpick.”
+Maaaring ideklara ng iyong gamemaster na ang kasanayan ay hindi maaaring subukan sa lahat kung ang iyong karakter ay wala kahit ang pinakapangunahing mga tool sa pag-lockpick. Maaari nilang sabihin na “Hindi mo mabubuksan ang kandado nang walang lockpick, o anumang bagay na isusuksok sa kandado. Baka maghanap ka pa sa paligid? Maaari kang makahanap ng isang bagay na magagawa mong improvised lockpick.”
 
-Maaaring payagan ng iyong gamemaster ang iyong karakter ng isang tuwirang 1% na pagkakataon ng tagumpay, kahit na walang mga tool. Kung ang roll ay matagumpay, maaaring sabihin ng iyong gamemaster: “Nagtagumpay kang igalaw ang assembly ng kandado pabalik-balik hanggang sa makarinig ka ng bahagyang click. Maaaring nagtagumpay ka sa pagbukas nito sa pamamagitan ng paglalapat ng tamang mga vibrations, o hindi ito naka-lock nang tama sa simula pa lang. Alinman sa dalawa, ito ay kahanga-hangang swerte.”
+Maaaring payagan ng iyong gamemaster ang iyong karakter ng tuwirang 1% na pagkakataon ng tagumpay, kahit na walang mga tool. Kung ang roll ay matagumpay, maaaring sabihin ng iyong gamemaster: “Nagtagumpay kang igalaw ang mekanismo ng kandado pabalik-balik hanggang sa makarinig ka ng mahinang click. Alinman sa nagtagumpay kang buksan ito sa pamamagitan ng paglalapat ng tamang vibrations, o hindi ito na-lock nang tama sa simula pa lang. Alinman sa dalawa, ito ay kamangha-manghang swerte.”
 
-Tandaan na ang mga situational modifier sa isang skill rating ay inilalapat matapos ang isang Easy modifier ay madoble o ang Mahirap ay mahati sa kalahati.
+Tandaan na ang mga situational modifier sa isang rating ng kasanayan ay inilalapat matapos ang isang Easy modifier ay madoble o ang Difficult ay mahati sa kalahati.
 
-### Mga Kakayahan at Kagamitan
+### Mga Kasanayan at Kagamitan
 
-Maraming kakayahan ang nangangailangan ng kagamitan upang magamit nang matagumpay, o lubos na pinahusay ng kagamitan. Gaya ng nabanggit dati, ang ilang mga kakayahan ay pinarurusahan sa walang kagamitan. Ang kagamitang kailangan para sa isang partikular na kakayahan ay nag-iiba ayon sa setting, at ang iyong gamemaster ay maaaring magbigay ng higit pang mga detalye sa paksang ito. Ang talahanayan ng **Mga Kakayahan at Kagamitan** ay naglalarawan ng potensyal na espesyalista o pangkalahatang kagamitan na gagamitin sa mga kakayahan. Kung ang kakayahan ay hindi nakalista, hindi ito nangangailangan ng anumang kagamitan, o ito ay halata (tulad ng mga kakayahan sa armas).
+Maraming kasanayan ang nangangailangan ng kagamitan upang magamit nang matagumpay, o lubos na pinapahusay ng kagamitan. Gaya ng nabanggit na, ang ilang kasanayan ay pinaparusahan dahil sa walang kagamitan. Ang kagamitang kinakailangan para sa isang partikular na kasanayan ay nag-iiba ayon sa setting, at ang iyong gamemaster ay maaaring magbigay ng higit pang mga detalye tungkol sa paksang ito. Inilalarawan ng talahanayan ng **Mga Kasanayan at Kagamitan** ang mga potensyal na espesyalisado o pangkalahatang kagamitan na gagamitin sa mga kasanayan. Kung ang kasanayan ay hindi nakalista, hindi ito nangangailangan ng anumang kagamitan, o ito ay halata (tulad ng mga kasanayan sa armas).
 
-Ang **Ibang Kagamitan** ay naglalaman ng karagdagang impormasyon tungkol sa kapaki-pakinabang na kagamitan, kabilang ang mga sample kit na maaaring gamitin ng iyong karakter.
+Ang **Iba Pang Kagamitan** ay naglalaman ng karagdagang impormasyon tungkol sa kapaki-pakinabang na kagamitan, kabilang ang mga sample kit na maaaring gamitin ng iyong karakter.
 
-> ##### Mga Kakayahan at Kagamitan
+> ##### Mga Kasanayan at Kagamitan
 > 
-> | Kakayahan | Potensyal na Kagamitan |
+> | Kasanayan | Potensyal na Kagamitan |
 > | :---- | :---- |
-> | Appraise | Wala, o mga sangguniang materyales, mga aparatong panukat, magnifying glass, atbp. |
-> | Art | Ayon sa medium (mga pintura, computer, holo-imager, spraypaint, typewriter, atbp.). |
-> | Climb | Wala, o lubid, mga piton, crampons, atbp. |
-> | Craft | Halos bawat espesyalidad ng Craft ay gumagamit ng sarili nitong kagamitan o mga tool. |
-> | Disguise | Makeup, wigs, mga pagbabago sa costume, atbp. |
+> | Appraise | Wala, o mga sangguniang materyal, panukat na aparato, magnifying glass, atbp. |
+> | Art | Ayon sa medium (mga pintura, computer, holo-imager, spraypaint, makinilya, atbp.). |
+> | Climb | Wala, o tali, piton, crampon, atbp. |
+> | Craft | Halos bawat espesyalisasyon sa Craft ay gumagamit ng sarili nitong kagamitan o tool. |
+> | Disguise | Makeup, peluka, pagbabago ng costume, atbp. |
 > | Fine Manipulation | Wala, o mga precision tool. |
-> | First Aid | Wala, o pangunahing first aid kit at mga bendahe. |
+> | First Aid | Wala, o basic first aid kit at benda. |
 > | Gaming | Wala, o mga baraha, dice, game board, atbp. |
-> | Knowledge | Wala, o mga sangguniang materyales. |
-> | Language | Wala, o isang diksyunaryo ng wika. |
-> | Literacy | Wala, o isang diksyunaryo ng wika. |
-> | Medicine | Nag-iiba ayon sa setting, mula sa mga materyales ng herbalista hanggang sa mga state-of-the-art na pasilidad ng ospital at mga parmasyutiko. |
+> | Knowledge | Wala, o mga sangguniang materyal. |
+> | Language | Wala, o diksyunaryo ng wika. |
+> | Literacy | Wala, o diksyunaryo ng wika. |
+> | Medicine | Nag-iiba ayon sa setting, mula sa mga materyales ng herbalista hanggang sa makabagong pasilidad ng ospital at mga pharmaceutical. |
 > | Navigate | Wala, o mga mapa, astrolabe, compass, atbp. |
-> | Repair | Wala, o mga tool na angkop sa uri ng pagkukumpuni. |
-> | Research | Wala, o research library at mga sangguniang materyales. |
-> | Science | Wala, o mga instrumentong pang-agham at mga sangguniang materyales. |
-> | Teach | Mga materyales sa edukasyon na angkop sa paksa. |
-> | Technical Skill | Wala, o mga materyales na angkop sa partikular na kakayahan. |
+> | Repair | Wala, o mga tool na angkop sa uri ng pagkumpuni. |
+> | Research | Wala, o library ng pananaliksik at mga sangguniang materyal. |
+> | Science | Wala, o mga instrumentong pang-agham at mga sangguniang materyal. |
+> | Teach | Mga materyales na pang-edukasyon na angkop sa paksa. |
+> | Technical Skill | Wala, o mga materyales na angkop sa partikular na kasanayan. |
 
-### Kagamitan na may mga Katangian
+### Kagamitan na may mga Katangian (Characteristics)
 
-Ang ilang mga kagamitan ay may mga halaga ng katangian: maging ang mga halaga sa lahat ng mga katangian, ilan, o isa lamang. Ang ilan ay wala. Ito ay nag-iiba bawat gamit, ngunit kung ang isang gamit ay may kalidad na nangangailangan ng resistance roll, dapat itong magkaroon ng halaga ng katangian. Para sa mga kagamitan na may mga katangian, ang mga sumusunod na gabay ay naglalarawan kung paano gumagana ang mga halagang ito kapag inilapat sa mga bagay:
+Ang ilang kagamitan ay may mga halaga ng katangian: kung ang mga halaga ay nasa lahat ng mga katangian, ilan, o isa lamang. Ang ilan ay wala. Ito ay nag-iiba bawat item, ngunit kung ang isang item ay may kalidad na nangangailangan ng resistance roll, dapat itong magkaroon ng halaga ng katangian. Para sa kagamitan na may mga katangian, ang mga sumusunod na gabay ay naglalarawan kung paano gumagana ang mga halagang ito kapag inilapat sa mga bagay:
 
-* **Lakas (STR):** Ang isang gamit na may STR ay dapat may paraan ng paggalaw. Ang STR ay hindi sukatan kung gaano kalaban ang isang bagay sa STR: para sa halagang iyon, tingnan ang hit point o armor value nito. Ang mga gamit na may STR ay mga sasakyan, kagamitan sa konstruksyon tulad ng mga forklift o bulldozer, mga robot, o kahit mga hydraulic jack.
+* **LAK (LAK):** Ang isang item na may LAK ay dapat may ilang paraan ng paggalaw. Ang LAK ay hindi sukat ng kung gaano karesistent ang isang bagay sa LAK: para sa halagang iyon, tingnan ang hit point o armor value nito. Ang mga item na may LAK ay mga sasakyan, kagamitan sa konstruksyon tulad ng mga forklift o bulldozer, robot, o kahit mga hydraulic jack.
 
-* **Constitution (CON):** Ang isang gamit na may CON ay bihirang mangyari—ang kabuuang hit point ay kadalasang nakabatay sa hilaw na SIZ at binago ng armor value. Maliban kung maaari itong gumaling o maapektuhan ng sakit, lason, atbp., hindi nito kailangan ng CON. Ang mga sample na gamit na may CON ay mga Humanoid android.
+* **TIB (TIB):** Ang isang item na may TIB ay bihira—ang mga hit point total ay karaniwang nakabatay sa hilaw na SUK at mino-modify ng armor value. Maliban kung maaari itong maghilom o maapektuhan ng sakit, lason, atbp., hindi nito kailangan ang TIB. Ang mga halimbawa ng mga item na may TIB ay mga humanoid android.
 
-* **Size (SIZ):** Ang SIZ ang pangunahing katangian para sa isang gamit—halos lahat ng bagay ay may pisikal na presensya at samakatuwid ay SIZ. Gaya ng nabanggit sa itaas, para sa karamihan ng mga gamit, ang SIZ ang tumutukoy sa mga halaga ng hit point. Minsan ang isang gamit ay magkakaroon ng mas malaking hit point, batay sa kung ano ito gawa. Tingnan ang **Pangkalahatang mga Katangian ng mga Bagay** para sa higit pa sa mga hit point, armor value, at iba pang mga katangian.
+* **SUK (SUK):** Ang SUK ay ang pangunahing katangian para sa isang item—halos lahat ng bagay ay may pisikal na presensya at samakatuwid ay may SUK. Gaya ng nabanggit sa itaas, para sa karamihan ng mga kagamitan, ang SUK ang nagtatakda ng mga halaga ng hit point. Minsan, ang isang item ay magkakaroon ng mas malalaking hit point, batay sa kung ano ito ginawa. Tingnan ang **General Qualities of Objects** para sa higit pang impormasyon tungkol sa mga hit point, armor value, at iba pang katangian.
 
-* **Intelligence (INT):** Bihira para sa isang gamit, ang INT ay kumakatawan sa pag-iisip, na nagpapahiwatig ng intuwisyon at paglutas ng problema. Ang INT ay malamang na hindi para sa mga gamit maliban sa mga computer o artificial intelligence, ngunit ang mga magic item ay maaaring may INT at mga kaakibat na personalidad. Ang isang gamit na may INT ay dapat sa isip ay may paraan ng pakikipag-ugnayan, tulad ng isang display, screen, boses, telepathy, o iba pang paraan ng pagpapasa ng impormasyon.
+* **TAL (TAL):** Bihira para sa isang item, ang TAL ay kumakatawan sa pag-iisip, na nagpapahiwatig ng intuwisyon at paglutas ng problema. Ang TAL ay malamang na hindi para sa mga item maliban sa mga computer o artificial intelligence, ngunit ang mga magic item ay maaaring magkaroon ng TAL at mga attendant na personalidad. Ang isang item na may TAL ay dapat sa isip ay may ilang paraan ng pakikipag-usap, tulad ng display, screen, boses, telepathy, o iba pang paraan ng pagpapasa ng impormasyon.
 
-* **Power (POW):** Ang POW ay kumakatawan sa espirituwal na enerhiya, at halos eksklusibo sa mga buhay na nilalang o mga mahiwagang nilikha. Hindi ito kumakatawan sa isang pinagmumulan ng kuryente—iyan ay alinman sa mekanikal (isang reserve ng power point) o gumagamit ng superpower na Extra Energy.
+* **KAP (KAP):** Ang KAP ay kumakatawan sa espirituwal na enerhiya, at halos eksklusibo sa mga buhay na nilalang o mahiwagang nilikha. Hindi ito kumakatawan sa isang pinagmumulan ng kapangyarihan—ito ay alinman sa mekanikal (isang power point reserve) o gumagamit ng superpower na Extra Energy.
 
-* **Dexterity (DEX):** Anumang gamit na may kakayahang independiyenteng paggalaw ay dapat magkaroon ng DEX. Kung ang isang gamit na may DEX ay dapat patakbuhin ng iyong karakter, gamitin ang mas mababang DEX ng alinman sa iyong karakter o ng gamit.
+* **KAD (KAD):** Ang anumang item na may kakayahang mag-isa ng paggalaw ay dapat magkaroon ng KAD. Kung ang isang item na may KAD ay kailangang patakbuhin ng iyong karakter, gamitin ang mas mababang KAD ng alinman sa iyong karakter o ng item.
 
-* **Charisma (CHA):** Habang ang CHA ay may mga elemento ng personalidad at personal na karisma, para sa isang gamit maaari itong maging aesthetics appeal, o maaari itong kumatawan na ang gamit ay may kakayahang makipag-ugnayan at mang-akit. Ang pangunahing dahilan upang italaga ang CHA sa isang inanimate na gamit ay upang ihambing ang hitsura nito sa isa pang gamit.
+* **KAA (KAA):** Habang ang KAA ay may mga elemento ng personalidad at personal na charisma na kasama, para sa isang item maaari itong maging aesthetic appeal, o maaari itong kumatawan na ang item ay may kakayahan sa komunikasyon at alindog. Ang pangunahing dahilan upang italaga ang KAA sa isang inanimate na item ay upang ihambing ang hitsura nito sa isa pang item.
 
-* **Education (EDU) (Opsyon):** Bukod sa pagrerepresenta ng pagsasanay o na-download na kaalaman para sa isang nag-iisip na computer, ang EDU ay pinakamahusay na ginagamit para sa mga kagamitang may reserba ng kaalaman. Kadalasan ang ganitong gamit ay nagdaragdag ng bonus sa kakayahan ng iyong karakter na Research, o maaaring gawing Easy o Mahirap ang mga roll ng kakayahan. Kapag itinalaga sa isang gamit, ang EDU ay tumutukoy sa datos na mayroon itong agarang access. Ang pigurang ito ay lumalawak nang malaki sa pagdating ng imbakan ng impormasyon at online access sa mga database.
+* **Edukasyon (EDU) (Opsyon):** Bukod sa pagrerepresenta ng pagsasanay o na-download na kaalaman para sa isang nag-iisip na computer, ang EDU ay pinakamahusay na ginagamit para sa kagamitan na may mga reserba ng kaalaman. Karaniwan ang gayong item ay alinman sa nagdaragdag ng bonus sa kasanayan sa Research ng iyong karakter, o maaaring gawing Madali (Easy) o Mahirap (Difficult) ang mga roll ng kasanayan. Kapag itinalaga sa isang item, ang EDU ay kumakatawan sa data na mayroon itong agarang access. Ang pigura na ito ay lumalawak nang malaki sa pagdating ng imbakan ng impormasyon at online access sa mga database.
 
-Gaya ng nabanggit sa itaas, hindi kinakailangan para sa bawat piraso ng kagamitan o gamit na magkaroon ng mga katangian maliban kung kailangan ang mga ito. Kung sa kurso ng laro, kailangan mo ng isang halaga na hindi pa natutukoy, bumuo nito gamit ang isang roll ng angkop na bilang ng mga D6 o italaga ito ng halaga batay sa mga katulad na piraso ng kagamitan.
+Gaya ng nabanggit sa itaas, hindi mahalaga para sa bawat piraso ng kagamitan o item na magkaroon ng mga katangian maliban kung kailangan ang mga ito. Kung sa kurso ng paglalaro, kailangan mo ng halaga na hindi pa natutukoy, gawin ito sa pamamagitan ng roll ng naaangkop na bilang ng D6 o italaga ito ng halaga batay sa mga katulad na piraso ng kagamitan.
 
-Maaari mo pang matukoy ang halaga gamit ang isang roll ng Katayuan:
+Maaari mo ring matukoy ang halaga gamit ang isang Status roll:
 
-| Resulta ng Roll ng Katayuan | Halaga |
+| Resulta ng Status Roll | Halaga |
 | :---- | :---- |
 | Fumble | 1 |
 | Failure | 1D6 |
@@ -194,1085 +192,1073 @@ Maaari mo pang matukoy ang halaga gamit ang isang roll ng Katayuan:
 | Special Success | 2D6+6 |
 | Critical Success | 2D6+12 |
 
-### Kagamitan na may mga Kakayahan
+### Kagamitan na may mga Kasanayan
 
-Ang ilang mga kagamitan ay maaaring magtaglay ng mga kakayahan, na pinangangasiwaan tulad ng mga kakayahan ng karakter. Anumang piraso ng kagamitan na may kakayahang independiyenteng aksyon ay maaaring magkaroon ng isang kakayahan. Ang ilang mga halimbawa ay maaaring mga automated na defense system na may kakayahang Artillery; mga programang pang-edukasyon na gumagamit ng Teach; mga diagnostic system na gumagamit ng Repair; atbp. Sa pangkalahatan, mas matalino ang isang piraso ng kagamitan, mas malamang na mayroon itong isa o higit pang mga kakayahan.
+Ang ilang kagamitan ay maaaring magtaglay ng mga kasanayan, na hinahawakan gaya ng mga kasanayan ng karakter. Ang anumang piraso ng kagamitan na may kakayahan sa malayang aksyon ay maaaring magkaroon ng kasanayan. Ang ilang mga halimbawa ay maaaring mga automated defense system na may kasanayang Artillery; mga educational program na gumagamit ng Teach; mga diagnostic system na gumagamit ng Repair; atbp. Sa pangkalahatan, mas matalino ang isang piraso ng kagamitan, mas malamang na magkaroon ito ng isa o higit pang mga kasanayan.
 
-Dapat itakda ng iyong gamemaster ang mga halaga ng mga kakayahang ito, batay sa kalikasan ng piraso ng kagamitan. Kung mayroon itong katangiang kaugnay ng kakayahan (halimbawa, INT at mga kakayahan sa Knowledge), ang antas ng kakayahan nito ay maaaring isang multiple ng katangiang iyon (×1, ×3, ×5, atbp.), depende sa kung gaano ito kaepisyente. Ang **Ibang Kagamitan** ay nagbibigay ng mga halimbawa ng kagamitan na may mga kakayahan. Kung ang gamit ay makakapagsalita o makakapagbasa, dapat itong magkaroon ng kakayahang Language—kadalasan ang katutubong wika ng may-ari o lumikha.
+Dapat itakda ng iyong gamemaster ang mga halaga ng mga kasanayang ito, batay sa kalikasan ng piraso ng kagamitan. Kung mayroon itong katangian na nauugnay sa kasanayan (halimbawa, TAL at mga kasanayan sa Knowledge), ang antas ng kasanayan nito ay maaaring isang multiple ng katangiang iyon (×1, ×3, ×5, atbp.), depende sa kung gaano ito ka-efficient. Ang **Iba Pang Kagamitan** ay nagbibigay ng mga halimbawa ng kagamitan na may mga kasanayan. Kung ang item ay marunong magsalita o magbasa, dapat itong magkaroon ng kasanayan sa Wika (Language)—karaniwan ay ang katutubong wika ng may-ari o tagalikha nito.
 
-Upang magsimula ng laro na may gamit na nagtataglay ng mga kakayahan, ‘bayaran’ ang mga skill point ng gamit mula sa personal na pool ng skill point ng iyong karakter (mula sa **Hakbang Pito** ng paglikha ng karakter) o ang propesyonal na pool kung ang gamit ay mahalaga sa pagganap ng kanilang propesyon.
+Upang magsimulang maglaro na may item na nagtataglay ng mga kasanayan, 'bayaran' ang mga skill point ng item mula sa personal na pool ng skill point ng iyong karakter (mula sa **Step Seven** ng paglikha ng karakter) o sa propesyonal na pool kung ang item ay mahalaga sa pagganap ng kanilang propesyon.
 
-Bilang alternatibo, maaari mong ituring ang gamit na parang may mga superpower (tingnan ang Kabanata Apat: Mga Kapangyarihan) at bilhin ang gamit na parang ito ay isang kapangyarihan. Sa kasong ito, ang mga sumusunod na kondisyon ay nalalapat:
+Bilang alternatibo, maaari mong ituring ang item na parang may mga superpower (tingnan ang Kabanata Apat: Powers) at bilhin ang item na parang ito ay isang power. Sa kasong ito, nalalapat ang mga sumusunod na kondisyon:
 
-* Ang gamit ay may katangiang “Superpowered identity must be turned on in an obvious and preventable manner” na nakatali sa gamit, kadalasang may +1 bonus sa badyet ng kapangyarihan.  
-* Maaaring mag-apply ang iba pang mga power failing, tulad ng “Power has a limited number of uses per day” o “Power cannot improve through experience.”  
-* Ang mga kakayahan ay binibili gamit ang kapangyarihang Super Skill. Ipinapalagay na lahat ng mga gamit ay may 0% na panimulang skill rating.  
-* Kung walang malinaw na mga katangian para sa gamit, makipagtulungan sa iyong gamemaster upang matukoy ang power supply, saklaw, atbp. ng gamit. Maaaring bumili ng karagdagang mga superpower upang mapabuti ang mga katangiang ito.
+* Ang item ay may karakter na nabigo na “Dapat i-on ang Superpowered identity sa isang halata at maiiwasang paraan” na nakatali sa item, kadalasang +1 power budget bonus.
+* Ang iba pang pagkabigo ng kapangyarihan (power failings) ay maaaring malapat, tulad ng “Ang kapangyarihan ay may limitadong bilang ng paggamit bawat araw” o “Ang kapangyarihan ay hindi maaaring mapabuti sa pamamagitan ng karanasan.”
+* Ang mga kasanayan ay binibili gamit ang Super Skill power. Ipinapalagay na ang lahat ng mga item ay may 0% starting skill rating.
+* Kung walang mga halatang katangian para sa item, makipagtulungan sa iyong gamemaster upang matukoy ang power supply nito, range, atbp. Ang mga karagdagang superpower ay maaaring bilhin upang mapabuti ang mga katangiang ito.
 
-Kung mamumuhunan ka ng mga punto sa isang gamit, gugustuhin mong maging available ito. Dapat gawin ng iyong gamemaster ang lahat ng makakaya nila upang matiyak na ang iyong gamit ay mabubuhay kasama ng iyong karakter, madaling kumpunihin, o madaling makahanap ng kapalit, ayon sa halaga nito at sa setting. Sa kabila ng katotohanan na ito ay isang natatanging gamit, itinuturing itong bahagi ng iyong karakter, tulad ng kakayahan o kapangyarihan ng isa pang karakter, at ang pag-alis nito sa pagmamay-ari ng iyong karakter ay dapat gawin nang may matinding pag-iingat, maliban kung hindi maiiwasan.
+Kung mamumuhunan ka ng mga puntos sa isang item, gugustuhin mong maging available ito. Dapat gawin ng iyong gamemaster ang lahat ng makakaya nila upang matiyak na ang iyong item ay mabubuhay kasama ng iyong karakter, madaling maipapaayos, o madaling makakahanap ng kapalit, ayon sa halaga nito at sa setting. Sa kabila ng katotohanan na ito ay isang natatanging item, itinuturing ito na bahagi ng iyong karakter, gaya ng kasanayan o kapangyarihan ng ibang karakter, at ang pag-alis nito sa pag-aari ng iyong karakter ay dapat gawin nang may matinding pag-iingat, maliban kung hindi maiiwasan.
 
-Ang mga gamit na may mga kakayahan ay hindi nagpapataas ng kanilang skill rating sa pamamagitan ng matagumpay na paggamit ng karanasan, maliban kung ang gamit ay may INT at tinutukoy ng iyong gamemaster na kaya nitong matuto sa anumang paraan.
+Ang mga item na may mga kasanayan ay hindi nagpapataas ng kanilang rating ng kasanayan sa pamamagitan ng matagumpay na paggamit ng karanasan, maliban kung ang item ay may TAL at tinukoy ng iyong gamemaster na ito ay may kakayahang matuto sa ilang paraan.### Kagamitan na may Kapangyarihan
 
-### Kagamitan na may mga Kapangyarihan
+Ang isang kagamitan ay maaaring magkaroon ng mga katangiang higit pa sa normal nitong kakayahan, at sa pahintulot ng iyong gamemaster, ang iyong karakter ay maaaring bumili ng item o kagamitan na may kapangyarihan gaya ng inilalarawan sa Kabanata Apat: Mga Kapangyarihan. Bukod pa rito, maaaring piliin ng iyong gamemaster na ipakita ang isang kagamitan sa anyo ng isang kapangyarihan para sa madaling pagtukoy ng bisa nito laban sa isang karakter na may kapangyarihan, at vice versa. Karaniwang kinakailangan lamang ito sa mga kampanyang gumagamit ng mga kapangyarihan, dahil normal na sapat na ang base na mga katangian para sa isang item.
 
-Ang isang piraso ng kagamitan ay maaaring magkaroon ng mga katangiang higit pa sa karaniwang kakayahan nito, at sa pahintulot ng iyong gamemaster, maaaring bumili ang iyong karakter ng isang gamit o piraso ng kagamitan na may kapangyarihan gaya ng inilarawan sa Kabanata Apat: Mga Kapangyarihan. Bukod dito, maaaring piliin ng iyong gamemaster na katawanin ang isang piraso ng kagamitan sa mga termino ng isang kapangyarihan para sa kadalian sa pagtukoy ng pagiging epektibo nito laban sa isang karakter na may kapangyarihan, at vice versa. Kadalasan ay kinakailangan lamang ito sa mga kampanyang gumagamit ng mga kapangyarihan, dahil normal na ang mga base attribute para sa isang gamit ay sapat na.
+Sumusunod ang mga alituntunin para sa mga kagamitang may kapangyarihan, batay sa mga sistema ng kapangyarihan sa Kabanata Apat: Mga Kapangyarihan.
 
-Sumusunod ang mga gabay para sa kagamitang may kapangyarihan, batay sa mga sistema ng kapangyarihan sa Kabanata Apat: Mga Kapangyarihan.
+**Mga Magic Item:** Ang isang kagamitan na may isa o higit pang magic spells ay tinatawag na magic item. Ang item na ito ay mukhang mahiwaga sa sinumang may kakayahang makadetek ng mga ganitong bagay, at nagpapahintulot sa may-ari na mag-cast ng magic spell na parang kaya nila itong i-cast mismo. Ang magic item ay dapat may skill rating sa spell. Karamihan sa mga magic item ay may sariling kapasidad ng power point, habang ang mas bihirang mga magic item ay gumagamit ng power points ng may-ari bilang imbakan.
 
-**Mga Magic Item:** Ang isang piraso ng kagamitan na may isa o higit pang magic spell ay tinatawag na magic item. Ang gamit na ito ay mukhang mahiwaga sa sinumang makakapansin sa mga bagay na tulad nito, at pinahihintulutan ang may-ari na mag-cast ng magic spell na parang kaya nila itong gawin nang mag-isa. Ang magic item ay dapat may skill rating sa spell. Karamihan sa mga magic item ay may sariling power point capacity, habang ang mas bihirang mga magic item ay gumagamit ng mga power point ng may-ari bilang imbakan.
+* Walang silbi ang isang magic item kung umabot ito sa 0 power points, bagaman maaari itong i-recharge. Para i-recharge ang isang magic item, maaaring ilipat ng gumagamit ang 1 power point mula sa kanilang katawan patungo sa magic item sa bawat combat round.
+* Ang isang magic item ay maaaring humawak ng hanggang doble ng maximum power points nito. Ang mga dagdag na power points na ito ay nawawala gaya ng sa isang player character.
+* Ang anumang spells na i-cast ng item ay sumusunod sa lahat ng tuntunin tungkol sa partikular na spell.
+* Kapag ginawa ang magic item, dapat tukuyin ng iyong gamemaster kung ang gumawa lamang ba ang makakagamit nito, kung kailangan ba itong talunin sa isang power point vs. power point resistance roll, o kung kahit sino ay maaaring gumamit nito.
+* Ang item ay may normal na hit points (batay sa SUK) at mga katangian ng isang angkop na non-magical na bersyon.
+* Nililimitahan ng hit points ng item ang bilang ng power points na maaari nitong i-imbak. Habang napipinsala ito, nababawasan ang maximum power points na maaari nitong i-imbak. Ang item ay maaaring kumpunihin nang normal, bagaman kung ito ay masira o mawasak, hindi na ito mahiwaga at mananatiling isang normal na item.
+* Kung ang isang magic item ay mawasak, anumang KAP na ginastos dito ay mawawala.
+* Ang isang magic item ay maaaring magkaroon ng isa o higit pang permanenteng magic spells na nakatali rito na laging aktibo, ngunit ang paggawa ng ganitong item ay nagkakahalaga ng limang beses ng normal na gastos sa KAP. Dapat tukuyin ng iyong gamemaster kung ang isang magic spell ay maaaring i-cast nang permanente sa isang item. Kung ang item na ito ay ginawa, hindi na ito nangangailangan ng power points at laging aktibo sa buong lakas nito.
 
-* Ang isang magic item ay walang silbi kung maabot nito ang 0 power point, bagaman maaari itong i-recharge. Upang i-recharge ang isang magic item, ang gumagamit ay maaaring maglipat ng 1 power point mula sa kanilang katawan patungo sa magic item bawat combat round.  
-* Ang isang magic item ay maaaring humawak ng hanggang doble ng maximum power points nito. Ang mga dagdag na power point na ito ay naglalaho gaya ng ginagawa nito sa isang player character.  
-* Anumang mga spell na nilalabas ng gamit ay sumusunod sa lahat ng tuntunin tungkol sa partikular na spell.  
-* Kapag nilikha ang magic item, dapat tukuyin ng iyong gamemaster kung ito ba ay ang lumikha lamang ang makakagamit nito, kung dapat itong talunin sa isang power point vs. power point resistance roll, o kung kahit sino ay makakagamit nito.  
-* Ang gamit ay may normal na hit points (batay sa SIZ) at mga katangian ng isang angkop na non-magical na bersyon.  
-* Ang mga hit point ng gamit ay naglilimita sa dami ng power point na maiimbak nito. Habang ito ay nakakakuha ng pinsala, ang maximum power points na maiimbak nito ay nababawasan. Ang gamit ay maaaring kumpunihin nang normal, bagaman kung ito ay sira o nawasak, hindi na ito mahiwaga at nananatiling isang normal na gamit.  
-* Kung ang isang magic item ay nawasak, anumang POW na ginugol dito ay mawawala.  
-* Ang isang magic item ay maaaring magkaroon ng isa o higit pang permanenteng magic spell na nakatali dito na palaging aktibo, ngunit ang paglikha ng naturang gamit ay nagkakahalaga ng limang beses ng normal na gastos ng POW. Dapat tukuyin ng iyong gamemaster kung ang isang magic spell ay maaaring i-cast nang permanente sa isang gamit. Kung ang gamit na ito ay nilikha, hindi na nito kinakailangan ang mga power point at palaging naka-on sa buong lakas.
+**Mga Mutated Item:** Ang mga item na may mutations ay medyo bihira, dahil ang mutations ay tradisyonal na sanhi ng genetic variance at kakaunti lamang ang mga inanimate na item na ginagawa sa pamamagitan ng genetic manipulation.
 
-**Mga Mutated na Gamit:** Ang mga gamit na may mga mutation ay medyo bihirang mangyari, dahil ang mga mutation ay ayon sa tradisyon na sanhi ng genetic variance at kakaunti lamang ang mga inanimate na gamit na nilikha sa pamamagitan ng genetic manipulation.
+* Ang isang item ay maaaring magkaroon ng isa o higit pang masamang mutation.
+* Ang item ay may normal na hit points (batay sa SUK) at iba pang katangian ng isang normal na bersyon, maliban kung ang mutation ay nakakaapekto sa mga katangiang ito.
+* Ang anumang characteristic rolls na kailangang gawin ng item ay batay sa mga katangian ng lumikha kung wala itong sariling katangian.
+* Ang isang mutated item ay itinuturing na buhay at naghihilom sa parehong bilis ng lumikha nito.
+* Ang isang mutated item ay maaaring gamitin ng kahit sino sa pamamagitan ng matagumpay na Stamina roll.
+* Anumang TIB at mutations na ipinuhunan sa isang mutated item ay mawawala kung ito ay mawasak.
 
-* Ang isang gamit ay maaaring magkaroon ng isa o higit pang masamang mutation.  
-* Ang gamit ay may normal na hit points (batay sa SIZ) at iba pang mga katangian ng isang normal na bersyon, maliban kung ang mutation ay nakakaapekto sa mga katangiang ito.  
-* Anumang mga roll ng katangian na dapat gawin ng gamit ay batay sa mga katangian ng lumikha kung wala itong sariling katangian.  
-* Ang isang mutated na gamit ay itinuturing na buhay at gumagaling sa parehong bilis ng lumikha nito.  
-* Ang isang mutated na gamit ay maaaring gamitin ng sinuman na gumagawa ng matagumpay na roll ng Stamina.  
-* Anumang CON at mga mutation na namuhunan sa isang mutated na gamit ay mawawala kung ito ay nawasak.
+**Kagamitan na may Psychic Abilities:** Ang mga item na may psychic abilities ay napakabihira, mas bihira pa kaysa sa mga item na may mutations. Ang mga item na ito ay tiyak na puno ng psychic power, at dapat kahit man lang ay may KAP. Ang isang karakter na may anumang psychic ability ay awtomatikong makikilala na ang isang item ay may psychic abilities, at sa pamamagitan ng Idea roll, ay magagamit ito. Ang isang karakter na walang psychic abilities ay makakatukoy lamang kung ang isang item ay may psychic properties sa pamamagitan ng matagumpay na Idea roll, at dapat talunin ang item sa isang power point vs. power point resistance roll o isang Difficult Luck roll. Ang lumikha ng item (o ang iyong gamemaster) ang magpapasya kung sino ang makakagamit ng item.
 
-**Kagamitan na may mga Psychic Abilities:** Ang mga gamit na may mga psychic ability ay napakabihira, higit pa sa mga gamit na may mga mutation. Ang mga gamit na ito ay tiyak na may karga ng psychic power, at dapat kahit man lang ay may POW. Ang isang karakter na may anumang psychic ability ay awtomatikong nakikilala na ang isang gamit ay may mga psychic ability, at sa isang roll ng Idea, ay makakagamit nito. Ang isang karakter na walang psychic abilities ay makakatukoy lamang kung ang isang gamit ay may mga psychic property sa pamamagitan ng isang matagumpay na roll ng Idea, at dapat alinman sa talunin ang gamit sa isang power point vs. power point resistance roll o isang Mahirap na roll ng Luck. Ang lumikha ng gamit (o ang iyong gamemaster) ang nagpapasya kung sino ang makakagamit ng gamit.
+* Ang item ay may normal na hit points (batay sa SUK) at iba pang katangian ng isang normal na bersyon ng item na iyon.
+* Ang mga psychic item ay hindi buhay, at maaaring mapinsala. Hindi sila natural na naghihilom, ngunit maaaring kumpunihin sa pamamagitan ng angkop na Craft o Repair skill roll. Kapag sila ay mawasak, titigil ang kanilang paggana. Kung ang isang psychic item ay nabasag sa higit sa isang piraso, ang iyong gamemaster ang magpapasya kung aling piraso, kung mayroon man, ang magpapanatili ng psychic ability.
 
-* Ang gamit ay may normal na hit points (batay sa SIZ) at iba pang mga katangian ng isang normal na bersyon ng gamit na iyon.  
-* Ang mga psychic item ay hindi buhay, at maaaring mapinsala. Hindi sila natural na gumagaling, ngunit maaaring kumpunihin gamit ang isang matagumpay na roll ng kakayahang Craft o Repair. Kapag sila ay nawasak, humihinto sila sa paggana. Kung ang isang psychic item ay nabasag sa higit sa isang piraso, ang iyong gamemaster ang magpapasya kung aling piraso, kung mayroon man, ang nagpapanatili ng psychic ability.
+**Kagamitan na may Sorcery:** Ang isang kagamitan na may isa o higit pang sorcery spells ay tinatawag na **artifact**. Ang artifact na ito ay mukhang may sorcerous properties sa sinumang may kakayahang makadetek ng mga ganitong bagay, at nagpapahintulot sa iyong karakter na mag-cast ng sorcery spell na parang kaya nila itong i-cast mismo, o ang item ay may sorcery spell na naka-cast sa sarili nito nang permanente. Karamihan sa mga artifact ay may sariling reservoir ng power point, habang ang mas bihirang mga artifact ay humuhugot mula sa sariling power points ng gumagamit.
 
-**Kagamitan na may Sorcery:** Ang isang piraso ng kagamitan na may isa o higit pang sorcery spell ay tinatawag na **artifact**. Ang artifact na ito ay mukhang may sorcerous na mga katangian sa sinumang makakapansin sa mga bagay na tulad nito, at pinahihintulutan ang iyong karakter na mag-cast ng sorcery spell na parang kaya nila itong gawin nang mag-isa, o ang gamit ay may sorcery spell na permanenteng naka-cast sa sarili nito. Karamihan sa mga artifact ay may sariling power point reservoir, habang ang mas bihirang mga artifact ay humuhugot sa sariling power point ng gumagamit.
+* Ang lumikha ng isang artifact ay dapat magsakripisyo ng 1 punto ng permanenteng KAP bawat sorcery spell na ipinuhunan sa artifact, at dapat alam o may access sa spell(s) na magagamit ng artifact.
+* Ang artifact ay may reservoir ng power point na katumbas ng normal na power points ng lumikha nito matapos itong magawa, o ang SUK nito, kung alinman ang mas malaki. Dapat itakda ng iyong gamemaster ang KAP at kapasidad ng power point kung ang lumikha ng artifact ay hindi kilala o isang nonplayer character.
+* Ang artifact ay alinman sa magiging ‘unconscious’ kapag nasa 0 power points, o magiging inert. Para i-recharge ang isang artifact, maaaring ilipat ng gumagamit ang 1 power point mula sa kanilang katawan patungo sa artifact sa bawat combat round.
+* Ang isang artifact ay maaaring maglaman ng higit sa normal nitong kapasidad ng power point, ayon sa isang karakter, hanggang doble ng maximum power points nito. Ang mga dagdag na power points na ito ay nawawala gaya ng sa isang karakter.
+* Anumang sorcery spells na i-cast mula sa artifact ay sumusunod sa lahat ng normal na tuntunin tungkol sa partikular na spell.
+* Kapag ginawa ang artifact, dapat tukuyin ng iyong gamemaster kung ito ba ay personal (ang lumikha lamang ang makakagamit nito), kung kailangan ba itong talunin sa isang power point vs. power point resistance roll kung mayroon itong power points, o kung kahit sino ay maaaring gumamit nito.
+* Ang artifact ay may normal na hit points (batay sa SUK) at mga katangian ng isang angkop na non-sorcerous na bersyon.
+* Nililimitahan ng hit points ng artifact ang bilang ng power points na maaaring ma-imbak dito. Habang napipinsala ito, nababawasan ang maximum power points na na-iimbak nito. Ang artifact ay maaaring kumpunihin gaya ng isang normal na item, bagaman kung ito ay masira o mawasak, hindi na ito maibabalik sa status na artifact at mananatiling isang non-sorcerous na item.
+* Kung ang isang artifact ay mawasak, anumang KAP na ipinuhunan dito ay mawawala.
 
-* Ang lumikha ng isang artifact ay dapat magsakripisyo ng 1 punto ng permanenteng POW bawat sorcery spell na namuhunan sa artifact at dapat alam o may access sa (mga) spell na magagamit ng artifact.  
-* Ang artifact ay may reservoir ng power point na katumbas ng normal na power point ng lumikha nito matapos malikha ito, o ang SIZ nito, alinman ang mas malaki. Dapat itakda ng iyong gamemaster ang POW at halaga ng power point kung ang lumikha ng artifact ay hindi kilala o isang nonplayer character.  
-* Ang artifact ay alinman sa mawawalan ng malay (‘unconscious’) kapag nasa 0 power point, o magiging inert. Upang i-recharge ang isang artifact, ang gumagamit ay maaaring maglipat ng 1 power point mula sa kanilang katawan patungo sa artifact bawat combat round.  
-* Ang isang artifact ay maaaring maglaman ng higit sa normal na capacity ng power point nito, ayon sa isang karakter, hanggang doble ng maximum power points nito. Ang mga dagdag na power point na ito ay naglalaho gaya ng ginagawa nito sa isang karakter.  
-* Anumang mga sorcery spell na nilalabas mula sa artifact ay sumusunod sa lahat ng normal na tuntunin tungkol sa partikular na spell.  
-* Kapag nilikha ang artifact, dapat tukuyin ng iyong gamemaster kung ito ay personal (ang lumikha lamang nito ang makakagamit nito), kung dapat itong talunin sa isang power point vs. power point resistance roll kung mayroon itong mga power point, o kung kahit sino ay makakagamit nito.  
-* Ang artifact ay may normal na hit points (batay sa SIZ) at mga katangian ng isang angkop na non-sorcerous na bersyon.  
-* Ang mga hit point ng artifact ay naglilimita sa dami ng power point na maaaring maimbak dito. Habang ito ay nakakakuha ng pinsala, ang maximum power points na naiimbak nito ay nababawasan. Ang artifact ay maaaring kumpunihin bilang isang normal na gamit, bagaman kung ito ay sira o nawasak, hindi na ito kailanman maibabalik sa katayuang artifact at mananatiling isang non-sorcerous na gamit.  
-* Kung ang isang artifact ay nawasak, anumang POW na namuhunan dito ay mawawala.
+Ang ilang artifact ay may permanenteng sorcery spells na nakatali sa kanila na laging aktibo. Ang gastos sa KAP para gawin ang mga item na ito ay doble.
 
-Ang ilang mga artifact ay may mga permanenteng sorcery spell na nakatali sa kanila na palaging aktibo. Ang gastos ng POW upang likhain ang mga gamit na ito ay nadodoble.
-
-**Kagamitan na may mga Superpower:** Ang isang piraso ng kagamitan na may mga superpower ay tinatawag na gadget. Ang mga gadget ang pinakamahusay sa lahat ng uri ng gamit na may kapangyarihan, at maaaring magmukhang kahit ano; pangkaraniwan o krudo hanggang sa napaka-advanced. Ang hitsura ng isang gadget ay pulos kosmetiko at walang kinalaman sa function nito: maaari itong kumislap, magniningning, maglabas ng kakaibang mga bakas ng enerhiya, maging inukitan ng mga sinaunang rune, atbp. Ang isang gadget ay hindi mukhang hindi karaniwang malakas maliban kung nais ng lumikha. Dapat itakda ng iyong gamemaster ang antas ng kapangyarihan ng gadget gamit ang mga gabay sa antas ng kapangyarihan ng kampanya na ipinakita sa Kabanata Apat: Mga Kapangyarihan. Dapat italaga ng iyong gamemaster ang anumang antas ng mga superpower sa anumang gadget ayon sa ninanais, upang umangkop sa setting at mga kinakailangan ng gamit.
+**Kagamitan na may Superpowers:** Ang isang kagamitan na may superpowers ay tinatawag na gadget. Ang mga gadget ang pinaka-flexible sa lahat ng uri ng item na may kapangyarihan, at maaaring magmukhang kahit ano; mula sa karaniwan o simple hanggang sa napaka-advanced. Ang hitsura ng isang gadget ay purong kosmetiko lamang at walang kinalaman sa function nito: maaari itong kumislap, magniningning, maglabas ng kakaibang bakas ng enerhiya, lagyan ng mga sinaunang rune, atbp. Ang isang gadget ay hindi nagmumulang napakalakas maliban kung gusto ito ng lumikha. Dapat itakda ng iyong gamemaster ang power level ng gadget gamit ang mga alituntunin sa antas ng kapangyarihan ng kampanya na ipinakita sa Kabanata Apat: Mga Kapangyarihan. Dapat magtalaga ang iyong gamemaster ng anumang antas ng superpowers sa anumang gadget ayon sa nais, upang umangkop sa setting at mga kinakailangan ng item.
 
 Ang mga sumusunod na tuntunin ay nalalapat sa mga gadget:
 
-* Ang hit points, SIZ, atbp. ng gadget ay nakabatay sa isang normal na gamit na may katumbas na laki at masa. Kung walang malinaw na katumbas, gamitin ang talahanayan ng **Mga Halimbawa ng SIZ ng Bagay** at ang talahanayan ng **Baluti** para sa mga gabay. Upang baguhin ang laki nito, gamitin ang kapangyarihang Size Change.
+* Ang mga hit points, SUK, atbp. ng gadget ay batay sa isang normal na item na may katumbas na laki at masa. Kung walang halatang katumbas, gamitin ang talahanayang **Object SUK Examples** at ang talahanayang **Armor** para sa mga alituntunin. Para baguhin ang laki nito, gamitin ang kapangyarihang Size Change.
 
-* Kung ang gadget ay nangangailangan ng katangian (tulad ng POW para sa mga power point) dapat itong binuo gamit ang kapangyarihang Super Characteristic.  
-* Ang isang gadget na nangangailangan ng power supply na higit sa POW nito ay dapat magkaroon ng kapangyarihang Extra Energy.  
-* Upang gawing mas matibay ang gadget kaysa sa isang normal na gamit, bigyan ito ng mga superpower tulad ng Absorption, Armor, Extra Hit Points, Force Field, atbp.  
-* Tuwing naaangkop, ang gadget ay dapat umasa sa sarili nitong mga katangian. Kung ang isang kapangyarihan ay nangangailangan ng resistance roll, ang katangian ng gadget (kung mayroon man) ang dapat gamitin. Kung ang gadget ay walang kaugnay na katangian, awtomatiko itong nabibigo sa resistance roll.  
-* Tuwing naaangkop, ang gadget ay dapat umasa sa kaugnay na kakayahan ng gumagamit nito.  
-  **Halimbawa,** kung ang gadget ay isang pistola, dapat itong paputukin gamit ang kakayahang Firearm. Kung ito ay isang cosmically powered bracelet na nagpapahintulot sa may-hawak na magpaputok ng mga radioactive blast, gamitin ang kakayahang Projection.
+* Kung ang gadget ay nangangailangan ng katangian (gaya ng KAP para sa power points) dapat itong gawin gamit ang kapangyarihang Super Characteristic.
+* Ang isang gadget na nangangailangan ng supply ng kuryente na higit sa KAP nito ay dapat magkaroon ng kapangyarihang Extra Energy.
+* Upang gawing mas matibay ang gadget kaysa sa isang normal na item, bigyan ito ng mga superpower gaya ng Absorption, Armor, Extra Hit Points, Force Field, atbp.
+* Sa tuwing naaangkop, dapat umasa ang gadget sa sarili nitong mga katangian. Kung ang isang kapangyarihan ay nangangailangan ng resistance roll, dapat gamitin ang katangian ng gadget (kung mayroon). Kung ang gadget ay walang kaugnay na katangian, awtomatiko itong mabibigo sa resistance roll.
+* Sa tuwing naaangkop, dapat umasa ang gadget sa kaugnay na skill ng gumagamit nito.
+  **Halimbawa,** kung ang gadget ay isang pistol, dapat itong paputukin gamit ang skill na Firearm. Kung ito ay isang cosmically powered bracelet na nagpapahintulot sa gumagamit na magpaputok ng radioactive blasts, gamitin ang skill na Projection.
 
-* Dapat suriin ng iyong gamemaster ang anumang mga item na may superpower upang matiyak na ang mga ito ay hindi masyadong malakas o kung hindi man ay hindi balanse.  
-* Ang mga superpower na namuhunan sa isang gadget ay permanente maliban kung ang gamit ay nawasak.
+* Dapat suriin ng iyong gamemaster ang anumang item na may superpower upang matiyak na hindi sila masyadong malakas o kung hindi man ay nakakasira sa balanse.
+* Ang mga superpower na ipinuhunan sa isang gadget ay permanente maliban kung ang item ay mawasak.
 
-**Kagamitan na may Maramihang Uri ng Kapangyarihan:** Maaaring nais ng iyong gamemaster na lumikha ng isang gamit na may kapangyarihan na humuhugot mula sa maramihang uri ng kapangyarihan, tulad ng isang gadget na isa ring artifact, na gumagamit ng mga superpower at sorcery. Ang mga ito ay dapat maging magagamit lamang sa diskresyon ng iyong gamemaster. Ang mga sumusunod na prinsipyo ay nalalapat:
+**Kagamitan na may Maramihang Uri ng Kapangyarihan:** Maaaring gustuhin ng iyong gamemaster na lumikha ng isang powered item na humuhugot mula sa maramihang uri ng kapangyarihan, gaya ng isang gadget na isa ring artifact, gamit ang superpowers at sorcery. Dapat lamang itong maging available sa diskresyon ng iyong gamemaster. Ang mga sumusunod na prinsipyo ay nalalapat:
 
-* Hangga't maaari, ituring ang gamit na nilikha na parang ito ay isang manlalaro na may maramihang uri ng kapangyarihan.  
-* Ang isang gamit ay dapat magkaroon ng lahat ng kaugnay na mga katangian o kakayahan upang magamit ang anumang mga kapangyarihan nito.  
-* Lahat ng kapangyarihan ay humuhugot mula sa parehong pool ng mga mapagkukunan, maging mga power point o iba pang pinagmumulan. Ang pag-recharge sa gamit ay dapat hawakan sa angkop na paraan para sa bawat power set.  
-* Kung sa anumang dahilan ang isang gamit ay may dalawang halagang pipiliin upang magsagawa ng isang partikular na aksyon, gamitin ang mas mataas sa dalawang halaga kung naaangkop.
+* Hangga't maaari, ituring ang item na ginawa na parang ito ay isang player na may maramihang uri ng kapangyarihan.
+* Ang isang item ay dapat magkaroon ng lahat ng kaugnay na katangian o skill upang magamit ang anumang kapangyarihan na mayroon ito.
+* Lahat ng kapangyarihan ay humuhugot mula sa parehong pool ng mga resources, maging power points o iba pang pinagmulan. Ang pag-recharge sa item ay dapat hawakan sa naaangkop na paraan para sa bawat power set.
+* Kung sa anumang dahilan ang isang item ay may dalawang halagang mapagpipilian para magsagawa ng isang partikular na aksyon, gamitin ang mas mataas sa dalawang halaga kung naaangkop.
 
 ### Kagamitan na may mga Kinakailangan
 
-Ang ilang mga uri ng kagamitan ay maaaring magkaroon ng mga kinakailangan na dapat matugunan o malampasan upang magamit ng iyong karakter. Isang halimbawa ay ang mga armas, kung saan ang karamihan sa mga armas ay may pinakamababang kinakailangan sa STR at DEX. Ang iba pang mga uri ng kagamitan ay limitado sa ibang mga paraan, tulad ng mataas na pangangailangan sa fatigue point mula sa pagsusuot ng baluti, at mga parusa sa kakayahan na nauugnay dito. Wala sa mga pangunahing kagamitan sa kabanatang ito ang may anumang kinakailangan, bagaman madaling makakapagpakilala ang iyong gamemaster ng limitasyon sa paggamit ng isang gamit sa dalawang malinaw na paraan:
+Ang ilang uri ng kagamitan ay maaaring may mga kinakailangan na dapat matugunan o malampasan upang magamit ng iyong karakter. Ang isang halimbawa ay ang sandata, kung saan karamihan sa mga sandata ay may minimum na kinakailangang LAK at KAD. Ang ibang uri ng kagamitan ay limitado sa ibang paraan, gaya ng mataas na demand sa fatigue point mula sa pagsusuot ng armor, at ang mga skill penalty na nauugnay dito. Wala sa mga pangunahing kagamitan sa kabanatang ito ang may anumang kinakailangan, bagaman madaling makakapag-introduce ang iyong gamemaster ng restriksyon sa paggamit ng isang item sa dalawang malinaw na paraan:
 
-* **Mga Katangian:** Tulad ng mga armas, ang isang piraso ng kagamitan ay maaaring limitahan ng iyong mga katangian. Kadalasan ito ay STR o DEX, tulad ng sa mga armas, o SIZ para sa baluti, ngunit madali itong maging POW para sa isang mahiwagang gamit, INT para sa isang computer, o iba pang minimum (o maximum) na batay sa katangian.
+* **Mga Katangian:** Tulad ng sa mga sandata, ang isang kagamitan ay maaaring limitahan ng iyong mga katangian. Karaniwan itong LAK o KAD, gaya ng sa mga sandata, o SUK para sa armor, ngunit madali itong maging KAP para sa isang mahiwagang item, TAL para sa isang computer, o anumang iba pang minimum (o maximum) na batay sa katangian.
 
-* **Mga Kakayahan:** Maaaring makita ng iyong karakter na ang isang partikular na piraso ng kagamitan ay hindi maintindihan o walang silbi maliban kung ang kanilang kakayahan ay nasa isang tiyak na antas. Kadalasan ang kakayahan ay kumakatawan sa pag-unawa sa piraso ng kagamitan at ang mga prinsipyo kung saan ito gumagana.
+* **Mga Skill:** Maaaring matuklasan ng iyong karakter na ang isang partikular na kagamitan ay hindi maintindihan o walang silbi maliban kung ang kanilang skill ay nasa isang antas. Karaniwan, ang skill ay kumakatawan sa pag-unawa sa kagamitan at sa mga prinsipyo kung paano ito gumagana.
 
-**Halimbawa,** ang isang diagnostic computer ay maaaring mangailangan ng kakayahan na hindi bababa sa 50% sa Technical (Computer Use) upang mapatakbo.
+**Halimbawa,** ang isang diagnostic computer ay maaaring mangailangan ng skill na hindi bababa sa 50% sa Technical (Computer Use) upang mapagana.
 
-Inirerekomenda na gamitin ang mga limitasyon nang matipid, at kung mayroon lamang lehitimong dahilan para umiral ang mga ito. Bago magtalaga ng isang tuwirang limitasyon sa paggamit ng isang gamit, dapat tukuyin ng iyong gamemaster kung mayroong anumang paraan ng pagpapatupad ng limitasyon, at kung mayroong anumang mga parusa sa paggamit ng gamit kung hindi matutugunan ng iyong karakter ang mga kinakailangan. Ang ilang posibleng parusa ay kinabibilangan ng karagdagang fatigue points upang gamitin, paggawa ng anumang kaugnay na roll ng kakayahan na Mahirap, o nangangailangan ng isang kaugnay na roll ng katangian upang maiwasan ang mga kapahamakan.
+Iminumungkahi na ang mga restriksyon ay gamitin nang matipid, at kung may lehitimong dahilan lamang para umiral ang mga ito. Bago magtalaga ng tuwirang restriksyon sa paggamit ng isang item, dapat tukuyin ng iyong gamemaster kung may ilang paraan para ipatupad ang restriksyon, at kung may anumang penalty sa paggamit ng item kung hindi natutugunan ng iyong karakter ang mga kinakailangan. Ang ilang posibleng penalty ay kinabibilangan ng karagdagang fatigue points para gamitin ito, paggawa sa anumang nauugnay na skill rolls na maging Mahirap (Difficult), o paghingi ng nauugnay na characteristic roll upang maiwasan ang mga kapahamakan.
 
-### Mga Charges o Kagamitang Limitado ang Paggamit
+### Mga Charge o Kagamitang Limitado ang Paggamit
 
-Maraming uri ng kagamitan ang gumagana sa mga baterya ng kuryente o magagamit lamang ng limitadong bilang ng beses. Sa karamihan ng mga kaso, ang mga baterya ay medyo madaling palitan, ang bala ay mapupunan, at iba pang kinakailangang mapagkukunan ay ma-recharge o mapupunan. Karamihan sa mga baril ay may ‘mga charge’ sa anyo ng bala, ngunit kung mapapanatiling maayos, ang isang espada o suit ng baluti ay magagamit hanggang sa ito ay masira. Tuwing naaangkop, ang mapagkukunang kinakailangan upang mapunan o ma-recharge ang isang piraso ng kagamitan ay alinman sa esensyal na libre (tulad ng kuryente o solar power), o dalawa o tatlong antas ng Kayamanan na mas mababa kaysa sa gastos ng kagamitan. Kung kinakailangan ang isang charging device, ito ay bahagi ng normal na halaga ng piraso ng kagamitan.
+Maraming uri ng kagamitan ang gumagana sa mga power battery o maaaring gamitin lamang sa limitadong bilang ng beses. Sa karamihan ng mga kaso, ang mga battery ay medyo madaling palitan, ang ammunition ay mapupunan, at ang iba pang kinakailangang resources ay ma-recharge o mapuno. Karamihan sa mga baril ay may ‘charges’ sa anyo ng ammunition, ngunit kung maayos na mapanatili, ang isang espada o suit ng armor ay maaaring gamitin hanggang sa ito ay masira. Sa tuwing naaangkop, ang resource na kinakailangan para punan o i-recharge ang isang kagamitan ay alinman sa esensyal na libre (gaya ng kuryente o solar power), o dalawa o tatlong antas ng Kayamanan (Wealth levels) na mas mababa kaysa sa halaga ng kagamitan. Kung ang isang charging device ay kinakailangan, ito ay bahagi ng normal na halaga ng kagamitan.
 
-Kadalasan ay pinakamadaling ipagpalagay na sa pagbibigay ng sapat na oras at pagpaplano, ang iyong karakter ay may sapat na bala, baterya, refill, cartridge, power cell, atbp. para sa lahat ng kanilang mga gamit, maliban kung ang setting o mga pangyayari ay ginagawa itong mahirap o imposible. Sa mga kasong ito, maaaring mangailangan ang iyong gamemaster ng roll ng Research, Katayuan, o Luck upang makatagpo ng kaugnay na uri ng charge. Sa ilang mga setting (post-apocalyptic, halimbawa) ang bala, gasolina, at/o mga power cell ay napakahirap hanapin at kadalasang mas mahalaga kaysa sa kagamitang ginagamitan nito.
+Karaniwan, pinakamadaling ipagpalagay na sa pagbibigay ng sapat na oras at pagpaplano, ang iyong karakter ay may sapat na ammunition, battery, refills, cartridge, power cell, atbp. para sa lahat ng kanilang gamit, maliban kung ang setting o mga pangyayari ay ginagawa itong mahirap o imposible. Sa mga kasong ito, maaaring mangailangan ang iyong gamemaster ng Research, Status, o Luck roll para makatagpo ng nauugnay na uri ng charge. Sa ilang setting (halimbawa, post-apocalyptic), ang ammunition, gasolina, at/o power cell ay napakahirap hanapin at karaniwang mas mahalaga kaysa sa kagamitang ginagamitan nito.
 
 ### Pagkumpuni ng Kagamitan
 
-Kung ang isang gamit ay napinsala sa kurso ng laro, dapat tukuyin ng iyong gamemaster kung maaari itong kumpunihin, batay sa sentido komun at kalikasan ng pinsalang ginawa. Sa karamihan ng mga kaso, ang isang matagumpay na roll ng kakayahang Repair o Craft ay maaaring gamitin tulad ng kakayahang First Aid, na nagpapanumbalik ng mga nasirang hit point o SIZ point ayon sa mga gabay para sa kakayahang iyon. Sa kaso ng kumplikadong kagamitan, maaaring mangailangan ang iyong gamemaster ng roll ng Know upang makahanap ng mapagkukunan para sa mga kapalit na bahagi, o kahit mangailangan ng isang Easy na roll ng kakayahan batay sa kakayahan sa pagkukumpuni na ginagamit upang mahanap ang mga kinakailangang bahagi. Kung ang mga bahaging ito ay mahal, maaaring mangailangan ang iyong gamemaster ng isang roll ng Katayuan upang lehitimong makuha ang mga kinakailangang kapalit.
+Kung ang isang item ay napinsala sa takbo ng laro, dapat tukuyin ng iyong gamemaster kung maaari itong kumpunihin, batay sa sentido komon at likas na katangian ng pinsalang natamo. Sa karamihan ng mga kaso, ang isang nauugnay na Repair o Craft skill roll ay maaaring gamitin tulad ng First Aid skill, na nagbabalik ng mga napinsalang hit points o SUK points ayon sa mga alituntunin para sa skill na iyon. Sa kaso ng kumplikadong kagamitan, maaaring mangailangan ang iyong gamemaster ng Know roll para makahanap ng resource para sa mga kapalit na bahagi, o kahit na mangailangan ng Easy skill roll batay sa repair skill na ginagamit para mahanap ang mga kinakailangang bahagi. Kung ang mga bahaging ito ay mahal, maaaring mangailangan ang iyong gamemaster ng Status roll para lehitimong makuha ang mga kinakailangang kapalit.
 
-## Mga Armas
+## Mga Sandata
 
-Sa buong kasaysayan, maraming iba't ibang uri ng mga armas ang nabuo bilang resulta ng mga pagbabago sa teknolohiya, availability ng mga materyales, at pagbabago ng mga kondisyon sa larangan ng digmaan. Ang seksyong ito ay nagtatanghal ng isang kinatawang sampling ng malawak na pagkakaiba-iba na ito. Kung nais ng iyong gamemaster na lumikha ng mas tumpak na mga listahan ng armas para sa isang setting, madali itong i-extrapolate ang mga kaugnay na katangian mula sa mga halimbawang ito.
+Sa buong kasaysayan, maraming iba't ibang uri ng sandata ang nabuo bilang resulta ng mga pagbabago sa teknolohiya, pagkakaroon ng mga materyales, at pagbabago ng mga kondisyon sa larangan ng digmaan. Ang seksyong ito ay nagtatanghal ng isang kinatawang sampling ng malawak na iba't ibang ito. Kung nais ng iyong gamemaster na lumikha ng mas tumpak na mga listahan ng sandata para sa isang setting, madali lamang na i-extrapolate ang mga nauugnay na katangian mula sa mga halimbawang ito.
 
-Ang mga armas na inilarawan sa seksyong ito ay malawak na ikinategorya ayon sa mga kronolohikal na setting para sa kadalian ng paggamit. Sa karamihan ng mga kaso, ang mga armas mula sa mas maagang panahon ay magagamit sa mga tao mula sa mga susunod na panahon, kaya maaaring piliin lamang ng iyong gamemaster kung saan humihinto ang availability ng armas at payagan ang iyong karakter ng access sa mga armas bago ang puntong iyon.
+Ang mga sandatang inilalarawan sa seksyong ito ay malawak na ikinategorya ayon sa mga kronolohikal na setting para sa madaling paggamit. Sa karamihan ng mga kaso, ang mga sandata mula sa mas naunang panahon ay available sa mga tao mula sa mga susunod na panahon, kaya maaaring pumili lamang ang iyong gamemaster kung saan hihinto ang pagkakaroon ng sandata at payagan ang iyong karakter na magkaroon ng access sa mga sandata bago ang puntong iyon.
 
-Ang bawat armas ay may mga sumusunod na katangian:
+Ang bawat sandata ay may mga sumusunod na katangian:
 
-* **Name:** Ang karaniwang pangalan para sa armas.
+* **Pangalan (Name):** Ang karaniwang pangalan para sa sandata.
 
-* **Skill:** Ang kakayahang ginagamit upang gamitin ito.
+* **Skill:** Ang skill na ginagamit para i-wield ito.
 
-* **Base:** Ang batayang pagkakataon na gamitin ang armas.
+* **Base:** Ang base chance para gamitin ang sandata.
 
-* **Dmg:** Ang pinsalang ginagawa ng armas. Ang isang ‘+dm’ ay nagpapahiwatig ng damage modifier, at ang +½dm ay kalahati ng damage modifier (i-round up).
+* **Dmg:** Ang pinsalang ginagawa ng sandata. Ang isang ‘+dm’ ay nagpapahiwatig ng damage modifier, at +½dm ay kalahati ng damage modifier (round up).
 
-* **Attk:** Ilang mga atake-bawat-round ang pinahihintulutan ng armas?
+* **Attk:** Ilang atake bawat round ang pinapayagan ng sandata?
 
-* **Special:** Anong uri ng espesyal na tagumpay ang ginagawa ng armas?
+* **Special:** Anong uri ng espesyal na tagumpay ang ginagawa ng sandata?
 
-* **Rng:** Ang batayang saklaw ng armas. Sa batayang saklaw nito, ang kakayahan ay hindi binago. Sa katamtamang saklaw (doble ng batayang saklaw), ang paggamit ng kakayahan ay nagiging Mahirap, at sa mahabang saklaw (apat na beses ng batayang saklaw) ito ay nagiging 1/5 ng normal na skill rating (katumbas ng pagkakataon ng isang espesyal).
+* **Rng:** Ang pangunahing distansya ng sandata. Sa pangunahing distansya nito, ang skill ay walang pagbabago (unmodified). Sa katamtamang distansya (doble ng pangunahing distansya), ang paggamit ng skill ay nagiging Mahirap (Difficult), at sa malayong distansya (apat na beses ng pangunahing distansya) ito ay nagiging 1/5 ng normal na skill rating (katumbas ng pagkakataon ng isang espesyal).
 
-* **Hands:** Ilang mga kamay ang kinakailangan ng armas? 1H=isang kamay, 2H=dalawang kamay.
+* **Hands:** Ilang kamay ang kailangan ng sandata? 1H=isang kamay, 2H=dalawang kamay.
 
-* **HP:** Ang hit point ng armas.
+* **HP:** Ang hit points ng sandata.
 
-* **Parry:** Maaari bang gamitin ang armas upang mag-parry?
+* **Parry:** Maaari bang gamitin ang sandata para mag-parry?
 
-* **Mal:** Ang armas ay nagkakaroon ng malfunction kung ito ang ma-roll (tingnan ang **Mga Malfunction**). Kung ang armas ay hindi isang baril, ang malfunction ay isang uri ng kapahamakan na pumipigil sa agarang muling paggamit ng armas.
+* **Mal:** Nagkakaroon ng malfunction ang sandata kung ito ang makuha sa roll (tingnan ang **Malfunctions**). Kung ang sandata ay hindi isang baril, ang malfunction ay ilang iba pang kapahamakan na pumipigil sa agarang muling paggamit ng sandata.
 
-* **Ammo:** Ilang beses magagamit ang armas nang hindi kailangang i-reload o i-recharge?
+* **Ammo:** Ilang beses magagamit ang sandata nang hindi na-reload o na-recharge?
 
-* **Value:** Ano ang average na gastos ng armas sa isang angkop na setting?
+* **Value:** Ano ang average na halaga ng sandata sa isang angkop na setting?
 
-* **STR/DEX:** Ano ang pinakamababang STR at DEX na kinakailangan upang gamitin ang armas?
+* **LAK/KAD:** Ano ang minimum na LAK at KAD na kinakailangan para gamitin ang sandata?
 
-* **SIZ/ENC:** Ang SIZ at Encumbrance value ng armas.
+* **SUK/ENC:** Ang SUK at halaga ng Encumbrance ng sandata.
 
-* **RF:** (Opsyonal) Rate of fire (tingnan ang **Volley Fire**). 1/#CR ay nagpapahiwatig na ang armas ay napakabigat kaya magagamit lamang ito nang isang beses bawat bilang (#) ng mga combat round. X/CR ay nagpapahiwatig na magagamit ito ng X beses bawat combat round kapag gumagamit ng volley fire.
+* **RF:** (Opsyonal) Rate of fire (tingnan ang **Volley Fire**). 1/#CR ay nangangahulugan na ang sandata ay masyadong mabigat kaya magagamit lamang ito nang isang beses sa loob ng bilang (#) ng combat rounds. X/CR ay nangangahulugan na magagamit ito ng X beses bawat combat round kapag gumagamit ng volley fire.### Mga Paglalarawan ng Armas
 
-### Mga Paglalarawan ng Armas
+Nasa ibaba ang lahat ng armas mula sa mga talahanayan ng melee at missile na armas, na nakaayos ayon sa alpabeto.
 
-Sumusunod ang lahat ng mga armas mula sa mga talahanayan ng melee at missile weapon, na nakaayos ayon sa alpabeto.
+**Arbalest:** Isang napakabigat na crossbow, mahirap kalabitin at ikarga, na kadalasang ginagamitan ng aparatong tinatawag na cranequin. Ito ay nagdudulot ng matinding pinsala kapag tumama.
 
-**Arbalest:** Isang napakabigat na crossbow, mahirap i-cock at i-load, kadalasang ginagamit na may aparatong tinatawag na cranequin. Ito ay gumagawa ng matinding pinsala kapag tumama.
+**Axe, Battle:** Isang one-handed na palakol na pangunahing ginagamit sa labanan. Maaari itong magkaroon ng isa o dalawang talim.
 
-**Axe, Battle:** Isang one-handed axe na ginagamit pangunahin sa labanan. Maaaring may isa o dalawang talim.
+**Axe, Great:** Isang malaking two-handed na palakol na maaaring magkaroon ng isa o dalawang talim.
 
-**Axe, Great:** Isang malaking, two-handed axe na maaaring may isa o dalawang talim.
+**Axe, Hand:** Isang maliit na one-handed na palakol na maaaring ihagis o gamitin sa kamay. Maaari itong magkaroon ng isa o dalawang talim. Ang mga bersyong tool ay ginagamit sa pagputol ng kahoy.
 
-**Axe, Hand:** Isang maliit na one-handed axe na maaaring ihagis o gamitin sa kamay. Maaaring may isa o dalawang talim. Ang mga bersyon ng tool ay ginagamit upang magputol ng kahoy.
+**Axe, Vibro-:** Isang palakol na may mahabang hawakan na may isa o dalawang talim na nakakabit sa isang generator sa puluhan. Ang mga talim ay nagvibrate sa napakabilis na antas, na kayang humiwa sa karamihan ng mga materyales.
 
-**Axe, Vibro-:** Isang long-handled axe na may isa o dalawang talim na nakakabit sa isang generator sa haft. Ang mga talim ay nagvibrate sa isang pambihirang bilis, na may kakayahang humiwa sa karamihan ng mga substansya.
+**Axe, Wood:** Isang palakol na may mahabang hawakan na maaaring gamitin sa isa o dalawang kamay, na may isa o dalawang talim. Hindi ito ginawa para sa labanan, ngunit minsan ay ginagamit din sa ganitong paraan.
 
-**Axe, Wood:** Isang long-handled axe na maaaring gamitin sa isa o dalawang kamay, na may isa o dalawang talim. Hindi ito ginawa para sa labanan, ngunit minsan ay ginagamit din sa ganitong paraan.
+**Blackjack:** Isang maliit na tahi na supot ng katad na puno ng mabigat na bagay gaya ng lead shot, na ginagamit para pamatulog ng tao kapag umatake mula sa likuran. Tinatawag din itong sap o cosh.
 
-**Blackjack:** Isang maliit na tinahi na leather sack na puno ng mabigat na bagay tulad ng lead shot, na ginagamit upang patulugin ang isang tao kapag inaatake mula sa likod. Tinatawag ding sap o cosh.
+**Blowgun:** Isang guwang at tuwid na tubo na umaabot hanggang isang metro ang haba na ginagamit para magpalipad ng maliliit na darts sa pamamagitan ng pagbuga sa isang dulo ng tubo. Ang mga dart na ito ay nagdudulot ng kaunting pinsala ngunit kadalasang may lason.
 
-**Blowgun:** Isang guwang, tuwid na tubo na hanggang isang metro ang haba na ginagamit upang mag-project ng maliliit na darts sa pamamagitan ng pagbuga sa isang dulo ng tubo. Ang mga dart na ito ay hindi masyadong nakakapinsala ngunit madalas na nilalason.
+**Bola:** Dalawa o tatlong matitigas na bola na pinagdugtong ng isang tali o kadena. Ang sandatang ito ay inihahagis para ipulupot at pabagsakin ang kalaban, kung saan ang pinsala ay sekundarya lamang.
 
-**Bola:** Dalawa o tatlong matigas na bola na pinagsama-sama ng isang haba ng pisi o kadena. Ang armas na ito ay inihahagis upang mang-entangle at magpabagsak ng kalaban, na ang pinsala ay pangalawang alalahanin lamang.
+**Boomerang:** Isang patag at hugis-anggulong patpat na ginawa para ihagis sa isang paikot na landas. Tradisyonal itong ginagamit ng mga katutubong mangangaso para patulugin o patayin ang maliliit na hayop.
 
-**Boomerang:** Isang patag, hugis-anggulong patpat na ginawa upang ihagis sa isang paikot na landas. Tradisyonal itong ginagamit ng mga aboriginal hunters upang patulugin o patayin ang maliliit na hayop.
+**Bow, Composite:** Isang pana na gawa sa mga materyales na nagpapatigas at nagpapalambot dito. Ang mga makasaysayang bersyon ay gawa sa kahoy at sungay, at ang mga modernong uri ay gawa sa graphite at napakagaan na mga metal.
 
-**Bow, Composite:** Isang pana na gawa sa mga materyales na ginagawa itong matigas at nababaluktot. Ang mga makasaysayang bersyon ay gawa sa kahoy at sungay, at ang mga modernong varieties ay gawa sa graphite at ultralight na mga metal.
+**Bow, Long:** Isang pana na gawa sa isang pirasong kahoy (gaya ng sikat na English longbow), o sa parehong paraan ng composite bow.
 
-**Bow, Long:** Isang pana na gawa sa isang piraso ng kahoy (tulad ng sikat na English longbow), o sa parehong paraan gaya ng composite bow.
+**Bow, Self:** Isang pangunahing pana na gawa sa isa o dalawang piraso ng kahoy na hinubog at pinatuyo para hindi mabali.
 
-**Bow, Self:** Isang pangunahing pana na gawa sa isa o dalawang piraso ng kahoy na hinubog at pinatigas upang maiwasan ang pagkabali.
+**Brass Knuckles:** Mga metal na pabigat na isinusuot sa kamao para magdagdag ng bigat at matigas na gilid sa mga suntok.
 
-**Brass Knuckles:** Mga metal na timbang na isinusuot sa kamao upang magdagdag ng timbang at matigas na gilid sa mga suntok.
+**Cestus:** Mga metal na guwantes sa boksing, na may pabigat sa loob ng guwantes para sa mas malakas na impact. Isang sinaunang ninuno ng brass knuckles.
 
-**Cestus:** Mga metal boxing gloves, na may timbang na nakalagay sa loob ng guwantes para sa mas malakas na epekto. Isang sinaunang hudyat ng brass knuckles.
+**Chainsaw:** Isang kasangkapan sa pagputol ng kahoy na binubuo ng isang may talim na kadena na pinapatakbo para umikot sa napakabilis na bilis sa paligid ng isang patag na talim na metal.
 
-**Chainsaw:** Isang kasangkapan sa pagputol ng kahoy na binubuo ng isang may-talim na kadena na pinapatakbo upang umikot sa napakabilis na bilis sa paligid ng isang patag na metal na talim.
+**Claw:** Isang sandatang may talim na hugis gaya ng mga kuko ng hayop, kadalasang hinahawakan sa kamay na ang mga talim ay lumalabas sa pagitan ng mga daliri, o isinusuot sa likod ng kamay.
 
-**Claw:** Isang may-talim na armas na hugis parang mga kuko ng hayop, kadalasang hawak sa kamay na may mga talim na lumalabas sa pagitan ng mga daliri, o isinusuot sa likod ng kamay.
+**Club, Heavy:** Isang mahaba at mabigat na piraso ng kahoy o metal. Inilalarawan din nito ang crowbar.
 
-**Club, Heavy:** Isang mahaba, mabigat na piraso ng kahoy o metal. Inilalarawan din nito ang isang crowbar.
+**Club, Light:** Isang mas magaan na bersyon ng heavy club. Maaari itong baseball bat, tire iron, lampara, paa ng silya, o truncheon.
 
-**Club, Light:** Isang mas magaan na bersyon ng heavy club. Maaari itong maging baseball bat, tire iron, lampara, binti ng upuan, o truncheon.
+**Crossbow, Heavy:** Ang crossbow na ito ay kailangang kalabitin sa pamamagitan ng isang lever apparatus. Mas madaling ikarga kaysa sa arbalest, ngunit hindi gaanong malakas.
 
-**Crossbow, Heavy:** Ang crossbow na ito ay dapat i-cock ng isang lever apparatus. Mas madaling i-load kaysa sa arbalest, ngunit hindi gaanong malakas.
+**Crossbow, Light:** Ang crossbow na ito ay maaaring kalabitin gamit ang kamay, kadalasang ginagamit para sa pangangaso o stealth, sa halip na sa battlefield.
 
-**Crossbow, Light:** Ang crossbow na ito ay maaaring i-cock ng kamay, kadalasang ginagamit para sa pangangaso o pagiging stealth, sa halip na sa larangan ng digmaan.
+**Crossbow, Medium:** Ang crossbow na ito ay kinakalabitan sa pamamagitan ng pag-hook sa isang dulo gamit ang paa at paggamit ng mekanismong kuko para hilahin ang tali pabalik.
 
-**Crossbow, Medium:** Ang crossbow na ito ay i-co-cock sa pamamagitan ng pag-hook ng isang dulo gamit ang paa at paggamit ng claw mechanism upang hilahin ang string pabalik.
+**Crossbow, Repeating:** Isang komplikadong crossbow na may magazine ng mga bolt na maaaring iputok nang mabilis gaya ng pagputok ng pana. Kapag naubos ang magazine, ang repeating crossbow ay nangangailangan ng hindi bababa sa anim na combat round para ikarga muli.
 
-**Crossbow, Repeating:** Isang kumplikadong crossbow na may magazine ng mga bolt na maaaring paputukin nang kasing bilis ng pagpapaputok ng pana. Kapag naubos na ang magazine, ang repeating crossbow ay nangangailangan ng hindi bababa sa anim na combat round upang ma-reload.
+**Dagger:** Isang sandatang may maikling talim, kadalasang mas maikli sa 40 sentimetro, matalas sa isa o dalawang gilid.
 
-**Dagger:** Isang short-bladed na armas, kadalasang mas maikli sa 40 sentimetro, matalim sa isa o magkabilang gilid.
+**Dart:** Maiikli at may pabigat na mga punto na angkop para sa paghagis, may balahibo man o wala. Kadalasang ginagamit ang mga ito para maghatid ng lason.
 
-**Dart:** Maiikli, may timbang na mga punto na angkop para sa paghagis, may balahibo o payak. Kadalasan silang ginagamit upang maghatid ng lason.
+**Detonator, Antimatter:** Marahil ang pinakamakapangyarihang pampasabog sa antas ng personal, kaya nitong ubusin ang lahat sa isang maliit na radius. Ginagamit ang mga ito kasama ng mga timer, coded remote detonator, at magnetic base.
 
-**Detonator, Antimatter:** Marahil ang pinakamakapangyarihang personal-scale na pampasabog, ito ay maaaring maglipol ng lahat sa isang maliit na radius. Ang mga ito ay ginagamit na may mga timer, coded remote detonator, at magnetic base.
+**Detonator, Electromagnetic (EM) Pulse:** Sa halip na sumabog, ang aparatong ito ay naglalabas ng electromagnetic pulse (EMP) na idinisenyo para gambalain ang mga de-kuryenteng kagamitan at electronic circuitry. Hindi tulad ng EMP na nabubuo bilang sekundaryang epekto ng isang nuclear weapon, ito ay isang non-nuclear na electromagnetic pulse, na nakakaabala lamang sa mga electronic device.
 
-**Detonator, Electromagnetic (EM) Pulse:** Sa halip na sumabog, ang aparatong ito ay naglalabas ng isang electromagnetic pulse (EMP) na idinisenyo upang gambalain ang mga de-koryenteng gamit at electronic circuitry. Hindi tulad ng EMP na nabuo bilang pangalawang epekto ng isang nuclear weapon, ito ay isang non-nuclear na electromagnetic pulse, na nakakaabala lamang sa mga electronic na gamit.
+**Detonator, Fusion:** Isang napakamakapangyarihang sub-nuclear na bomba, na kayang magdulot ng matinding pinsala. May kasamang timer, coded remote detonator, at magnetic base.
 
-**Detonator, Fusion:** Isang napakalakas na sub-nuclear na bomba, na may kakayahan ng matinding mapanirang puwersa. May kasamang timer, coded remote detonator, at magnetic base.
+**Detonator, Plasma:** Isang pampasabog na kayang bumuo at magbuga ng charge ng plasma, ang superheated na intermediate state sa pagitan ng gas at likido. Ang mga ito ay may kasamang mga timer, coded remote detonator, at magnetic base.
 
-**Detonator, Plasma:** Isang pampasabog na may kakayahang bumuo at mag-spray ng karga ng plasma, ang superheated na intermediate na estado sa pagitan ng gas at likido. Ang mga ito ay may mga timer, coded remote detonator, at magnetic base.
+**Detonator, Sonic:** Isang aparato na naglalabas ng mapanira at concussive na sonic pulse na kayang magpabasag ng salamin at iba pang malutong na materyales, pati na rin ang pagpapatulog sa anumang buhay na target na mahuhuli sa loob ng saklaw ng epekto nito.
 
-**Detonator, Sonic:** Isang aparato na naglalabas ng isang mapanira at concussive na sonic pulse na maaaring magpabasag ng salamin at iba pang malutong na bagay, pati na rin ang pagpatulog sa anumang buhay na target na mahuhuli sa saklaw ng epekto nito.
+**Explosive, Blasting Cap:** Isang maliit na pampasabog na ginagamit para pasabugin ang isang mas malaking pampasabog. Ang mga luma ay gumagamit ng mitsa, habang ang mga bago ay gumagamit ng kuryente o mas sopistikadong paraan para pasabugin ang pampasabog.
 
-**Explosive, Blasting Cap:** Isang maliit na pampasabog na ginagamit upang pasabugin ang isang mas malaking pampasabog. Ang mga mas matanda ay gumagamit ng mga fuse, habang ang mga mas bago ay gumagamit ng kuryente o mas sopistikadong mga pamamaraan upang pasabugin ang pampasabog.
+**Explosive, Dynamite:** Mga stick ng chemical explosive na binabad sa solidong bagay gaya ng supot, binalot sa makapal na papel at sinindihan ng mga kislap mula sa mitsa o mas maliit na pagsabog mula sa blasting cap. Napakadelikado nito dahil tendensya nitong ‘pagpawisan’ ng nitroglycerine at nagiging unstable kapag hinayaang nakatambak nang masyadong matagal.
 
-**Explosive, Dynamite:** Mga patpat ng kemikal na pampasabog na ibinabad sa isang solidong bagay tulad ng sawdust, binalot ng makapal na papel at pinapaliyab ng mga spark mula sa isang fuse o isang mas maliit na pagsabog mula sa isang blasting cap. Ito ay lubhang mapanganib, dahil may posibilidad itong ‘magpawis’ ng nitroglycerine at nagiging hindi matatag kapag naiwan nang masyadong matagal.
+**Explosive, Improvised:** Kadalasan ay pipe bomb, inilalarawan nito ang kahit anong bilang ng maliliit na homemade chemical explosive.
 
-**Explosive, Improvised:** Kadalasang isang pipe bomb, inilalarawan nito ang anumang bilang ng maliliit na homemade na kemikal na pampasabog.
+**Explosive, Plastic:** Isang modernong chemical explosive na hinalo sa substansya gaya ng petrolyo o wax sa isang malleable, parang masilya na plastic na anyo, na kayang hubugin at hugis ayon sa pangangailangan. Ginagamit kasama ng timer at kadalasang pinapasabog gamit ang kuryente. Tinatawag din itong plastique.
 
-**Explosive, Plastic:** Isang modernong kemikal na pampasabog na hinaluan ng substansya tulad ng petrolyo o waks sa isang malleable, parang masilya na plastic na anyo, na kayang hubugin at hugis ayon sa kinakailangan. Ginagamit na may timer at kadalasang pinapasabog ng isang de-koryenteng karga. Tinatawag ding plastique.
+**Fist:** Isang unarmed attack gamit ang kasanayang Brawl.
 
-**Fist:** Isang unarmed na atake gamit ang kakayahang Brawl.
+**Flail:** Isang ulo ng flail na nakakabit sa dulo ng maikling kadena na konektado sa isang puluhan na may habang isang metro, o higit pa.
 
-**Flail:** Isang flail head na nakakabit sa dulo ng isang maikling kadena na konektado sa isang haft na mga isang metro ang haba, o mas mahaba.
+**Flail, Morningstar:** Isang sandatang medieval na may hawakan, haba ng kadena, at spiked na bola sa dulo. Ang ilan ay walang mga spike at simpleng pabigat o studded na mga bola sa dulo ng mga kadena.
 
-**Flail, Morningstar:** Isang medieval na armas na may hawakan, isang haba ng kadena, at isang may-tinik na bola sa dulo. Ang ilan ay walang mga tinik at mga matitimbang o may-stud na bola lamang sa dulo ng mga kadena.
+**Flamethrower:** Isang tangke na puno ng mataas na combustible na kemikal na nakakabit sa isang projector/igniter na nagbubuga ng mga jet ng nagliliyab na likido. Ang mga flamethrower ay maaari ring gamitin para basain ang isang lugar o gamit ng madaling magliyab na kemikal na ito nang hindi sinisindihan. Napakadelikado dahil sa maikling range, limitadong panahon ng paggamit, at potensyal na masunog ang sarili. Ang mga flamethrower ay maaaring sumabog kapag tinamaan ang tangke, na nagdudulot ng dobleng rolled damage sa lahat ng nasa loob ng limang metro mula sa gumagamit. Mag-roll ng Luck para maiwasan ito.
 
-**Flamethrower:** Isang tangke na puno ng isang lubhang nasusunog na kemikal na nakakabit sa isang projector/igniter na nag-ispray ng mga jet ng naglalagablab na likido. Ang mga flamethrower ay maaari ring gamitin upang basain ang isang lugar o gamit sa nasusunog na kemikal na ito nang hindi ito pinapaliyab. Lubhang mapanganib dahil sa maikling saklaw, limitadong panahon ng paggamit, at potensyal na mapaliyab ang sarili. Ang mga flamethrower ay maaaring sumabog kapag tinamaan ang tangke, na nagdudulot ng doble na rolled na pinsala sa lahat sa loob ng limang metro mula sa gumagamit. Gumawa ng roll ng Luck upang maiwasan ito.
+**Garrote:** Isang maikling tali na ginagamit sa pagsakal, maging ito ay manipis na metal cable, seremonyal na lubid, hanggang sa improvised na paggamit ng scarf o sinturon.
 
-**Garrote:** Isang maikling pisi na ginagamit sa pagsakal, maging ito ay isang manipis na metal na cable, seremonyal na lubid, hanggang sa improvised na paggamit ng scarf o sinturon.
+**Gauntlet, Armored:** Isang metal na gauntlet na isinusuot nang may armor o wala, na nagdadagdag ng pinsala sa mga matagumpay na strike gamit ang kasanayang Brawl.
 
-**Gauntlet, Armored:** Isang metal na guwantes na isinusuot na may baluti o wala, nagdaragdag ng pinsala sa matagumpay na mga suntok gamit ang kakayahang Brawl.
+**Grapple:** Isang unarmed attack gamit ang kasanayang Grapple.
 
-**Grapple:** Isang unarmed na atake gamit ang kakayahang Grapple.
+**Grenade, Antimatter:** Isang maliit ngunit pambihirang makapangyarihang pampasabog na aparato na pinuputok at inihahagis sa mga kalaban, gamit, o istruktura. Bagama't naglalaman ng napakaliit na dami ng antimatter, ang mga granadang ito ay kadalasang pinaputok mula sa mga launcher, dahil masyadong mapanira ang mga ito kaya mahirap ihagis ang isa sa labas ng sarili nitong blast radius.
 
-**Grenade, Antimatter:** Isang maliit ngunit pambihirang makapangyarihang pampasabog na aparato na na-trigger at inihahagis sa mga kalaban, gamit, o estruktura. Bagaman naglalaman ng walang hanggang maliit na dami ng antimatter, ang mga granadang ito ay kadalasang pinapaputok mula sa mga launcher, dahil sila ay masyadong mapanira kaya mahirap ihagis ang isa sa labas ng sarili nitong blast radius.
+**Grenade, Concussion:** Isang maliit na pampasabog na aparato na pinuputok at inihahagis sa mga kalaban o sa mga nakasarang lugar, kung saan maaari nitong patulugin ang mga mahuhuli sa blast radius. Minsan tinatawag na stun grenade.
 
-**Grenade, Concussion:** Isang maliit na pampasabog na aparato na na-trigger at inihahagis sa mga kalaban o sa mga saradong lugar, kung saan maaari nitong patulugin ang mga mahuhuli sa blast radius. Minsan tinatawag na stun grenade.
+**Grenade, Disintegrator:** Isang granada na kayang mag-disintegrate ng lahat ng materya (o magpabasag ng molecular bonds) sa loob ng blast radius. Napakadelikado, ang mga disintegrator grenade ay kadalasang ginagamit lamang bilang sandata ng huling resort.
 
-**Grenade, Disintegrator:** Isang granada na may kakayahang mag-disintegrate ng lahat ng bagay (o pag-basag ng molecular bonds) sa blast radius. Lubhang mapanganib, ang disintegrator grenades ay karaniwang ginagamit lamang bilang mga armas ng huling paraan.
+**Grenade, Electromagnetic (EM) Pulse:** Isang granada na may kakayahang electromagnetic pulse. Kapag inihagis sa isang metallic na target, ang magnetic surface ay nagdadagdag ng +20% sa iyong tsansa na matamaan nang matagumpay.
 
-**Grenade, Electromagnetic (EM) Pulse:** Isang granada na may kakayahang electromagnetic pulse. Kapag inihagis sa isang metal na target, ang magnetic surface ay nagdaragdag ng +20% sa iyong pagkakataon ng matagumpay na pagtama.
+**Grenade, Explosive:** Isang maliit na pampasabog na pinuputok at inihahagis, na nagreresulta sa pagsabog ng concussive force at shrapnel.
 
-**Grenade, Explosive:** Isang maliit na pampasabog na na-trigger at inihahagis, na nagreresulta sa isang pagsabog ng concussive na puwersa at shrapnel.
+**Grenade, Flare:** Isang stick ng mga madaling magliyab na kemikal na pinuputok at inihahagis para liwanagan ang mga madidilim na lugar o magbigay ng light-marking para sa pag-target sa himpapawid.
 
-**Grenade, Flare:** Isang patpat ng nasusunog na mga kemikal na na-trigger at inihahagis upang liwanagan ang mga madidilim na lugar o magbigay ng light-marking para sa pag-target ng hangin.
+**Grenade, Fusion:** Isang napakamakapangyarihang sub-nuclear na aparato, na kayang magdulot ng matinding pinsala. Ang mga fusion grenade ay pinaputok lamang mula sa mga launcher o inihahagis sa mga sitwasyon kung saan ang gumagamit ay may sapat na oras para makalayo sa blast range.
 
-**Grenade, Fusion:** Isang napakalakas na sub-nuclear na aparato, na may kakayahan ng matinding mapanirang puwersa. Ang mga fusion grenade ay pinapaputok lamang mula sa mga launcher o inihahagis sa mga sitwasyon kung saan ang gumagamit ay may sapat na oras upang makalabas sa saklaw ng pagsabog.
+**Grenade, Gas:** Isang maliit na chemical explosive device na pinuputok at inihahagis o iginugulong, na naglalabas ng nakakalason o iba pang mapaminsalang gas. Ang mga ito ay maaaring lagyan ng iba't ibang gas (mustard, tear, knockout, atbp.).
 
-**Grenade, Gas:** Isang maliit na kemikal na pampasabog na aparato na na-trigger at inihahagis o iginulong, na naglalabas ng nakakalason o kung hindi man ay nakakapinsalang gas. Ang mga ito ay maaaring punuin ng iba't ibang mga gas (mustard, tear, knockout, atbp.).
+**Grenade, Molotov Cocktail:** Isang improvised na pampasabog na gawa sa bote at mitsa, sinindihan at inihagis, kadalasan para silaban ang mga ito o ito.
 
-**Grenade, Molotov Cocktail:** Isang improvised na pampasabog na gawa mula sa isang bote at fuse, pinapaliyab at inihahagis, kadalasan upang palyabin sila o ito.
+**Grenade, Phosphorous:** Isang maliit na chemical explosive device na pinuputok at inihahagis. Naglalabas ito ng napakadaling magliyab na chemical fire na kayang magtunaw ng kagamitan at magsilab ng mga bagay, o simpleng magliwanag ng isang madilim na lugar para sa mga ground personnel o pag-target mula sa mga airship.
 
-**Grenade, Phosphorous:** Isang maliit na kemikal na pampasabog na aparato na na-trigger at inihahagis. Naglalabas ito ng lubhang nasusunog na kemikal na apoy na maaaring matunaw ang mga kagamitan at palyabin ang mga bagay, o liwanagan lamang ang isang madilim na lugar para sa mga tauhan sa lupa o pag-target mula sa mga airship.
+**Grenade, Plasma:** Isang granada na gumagamit ng teknolohiyang plasma. Napakasabog at kayang magdulot ng matinding pagkawasak at sunog.
 
-**Grenade, Plasma:** Isang granada na gumagamit ng teknolohiya ng plasma. Lubhang pampasabog at may kakayahang magdulot ng matinding pagkawasak at apoy.
+**Grenade, Shock:** Isang granada na naglalabas ng electrical charge, na nilagyan ng magnetic surfaces para dumikit sa anumang metallic surface na pagtatamaan nito. Kapag inihagis sa isang metallic na target, ang magnetic surface ay nagdadagdag ng +20% sa iyong tsansa na matamaan nang matagumpay.
 
-**Grenade, Shock:** Isang granada na naglalabas ng isang de-koryenteng karga, na nilagyan ng mga magnetic surface upang dumikit sa anumang metal na ibabaw na pagtataponan nito. Kapag inihagis sa isang metal na target, ang magnetic surface ay nagdaragdag ng +20% sa iyong pagkakataon ng matagumpay na pagtama.
+**Grenade, Shrapnel:** Isang maliit na pampasabog na aparato na pinuputok at inihahagis sa mga kaaway, na nakatakdang maglabas ng nakamamatay at tumatagos sa laman na shrapnel.
 
-**Grenade, Shrapnel:** Isang maliit na pampasabog na aparato na na-trigger at inihahagis sa mga kaaway, na nakatakdang maglabas ng nakamamatay at nakakamatay na shrapnel na bumubutas sa laman.
+**Grenade, Smoke:** Isang gas grenade (tingnan sa itaas) na naglalabas ng hindi nakakapinsala ngunit nakakubling usok.
 
-**Grenade, Smoke:** Isang gas grenade (tingnan sa itaas) na naglalabas ng hindi nakakapinsala ngunit nakakatakip na usok.
+**Grenade, Sonic:** Isang granada na gumagamit ng teknolohiyang sonic pulse na naglalabas ng high-frequency sonic burst para i-disable o ilihis ang atensyon ng mga target.
 
-**Grenade, Sonic:** Isang granada na gumagamit ng teknolohiya ng sonic pulse na naglalabas ng isang high-frequency na sonic burst upang huwag paganahin o iligaw ang mga target.
+**Grenade, Stun:** Isang granada na naglalabas ng banayad na concussive blast na idinisenyo partikular para patulugin o pansamantalang i-disable ang mga target.
 
-**Grenade, Stun:** Isang granada na naglalabas ng isang mild concussive blast na idinisenyo partikular upang patulugin o pansamantalang huwag paganahin ang mga target.
+**Gun, Machine:** Isang mabilis na umuulit na baril na may trigger settings para sa single-shot, short bursts, at full autofire.
 
-**Gun, Machine:** Isang mabilis na-repeating na baril na may mga setting ng trigger para sa single-shot, maikling burst, at full autofire.
-
-**Gun, Mini-:** Isang Gatling-style na heavy machine gun, kadalasang nakakabit sa mga helicopter o sasakyan. Ang STR requirement ay kung gagamitin sa kamay.
+**Gun, Mini-:** Isang Gatling-style na heavy machine gun, kadalasang nakakabit sa mga helicopter o sasakyan. Ang requirement sa LAK ay kung gagamitin sa kamay.
 
 **Gun, Submachine:** Isang maliit na machine gun, na idinisenyo para sa one-handed na paggamit.
 
-**Halberd:** Isang malapad na talim ng palakol sa isang dalawang-metrong shaft. Karaniwang ginagamit ng mga medieval city guardsmen o laban sa mga nakasakay na kalaban.
+**Halberd:** Isang malapad na ulo ng palakol sa isang dalawang-metrong baras. Karaniwang ginagamit ng mga medieval city guardsmen o laban sa mga nakasakay na kalaban.
 
-**Hammer:** Isang karaniwang tool sa bahay na ginagamit para sa pagkakarpintero o isang maliit, one-handed na military na armas na may striking head.
+**Hammer:** Isang karaniwang gamit sa bahay na ginagamit para sa carpentry o isang maliit na one-handed military weapon na may ulo na pampukpok.
 
-**Hammer, Great:** Isang napakalaking martilyo na ginagamit sa dalawang kamay.
+**Hammer, Great:** Isang napakalaking martilyo na ginagamit gamit ang dalawang kamay.
 
-**Hammer, Sledge:** Isang mabigat na tool na ginagamit ng mga construction worker at demolition crew, ginagamit sa dalawang kamay.
+**Hammer, Sledge:** Isang mabigat na kagamitan na ginagamit ng mga construction worker at demolition crew, na ginagamit nang dalawang kamay.
 
-**Hammer, War:** Idinisenyo parang martilyo, ang armas na ito ay kadalasang may spike sa halip na patag na ulo, perpekto para sa pagbubutas sa baluti.
+**Hammer, War:** Idinisenyo gaya ng martilyo, ang sandatang ito ay kadalasang may spike sa halip na patag na ulo, na mainam para tumagos sa armor.
 
-**Head Butt:** Isang unarmed na atake gamit ang kakayahang Brawl.
+**Head Butt:** Isang unarmed attack gamit ang kasanayang Brawl.
 
 **Javelin:** Isang maikling sibat na ginagamit sa isa o dalawang kamay, o para sa paghagis.
 
-**Katana:** Isang single-edged, bahagyang kurbadong long sword, ginagamit sa isa o dalawang kamay, na fetishized para sa pagkakagawa at talim nito.
+**Katana:** Isang single-edged, bahagyang pakurbang mahabang espada, na ginagamit sa isa o dalawang kamay, na itinuturing na espesyal dahil sa pagkakagawa at talim nito.
 
-**Kick:** Isang unarmed na atake gamit ang kakayahang Brawl.
+**Kick:** Isang unarmed attack gamit ang kasanayang Brawl.
 
-**Knife:** Isang tool na angkop para sa pagkain, pagputol, pagtatanggol, o biglaang pagpaslang. Parang dagger, bagaman mas magaan at hindi masyadong matibay.
+**Knife:** Isang kagamitan na angkop para sa pagkain, pagputol, depensa, o biglaang pagpaslang. Gaya ng dagger, bagama't mas magaan at hindi gaanong matibay.
 
-**Knife, Butcher:** Isang malaki, mabigat na kutsilyo sa kusina, angkop para sa paghiwa sa malalaking tipak ng karne sa isang hampas.
+**Knife, Butcher:** Isang malaki at mabigat na kutsilyo sa kusina, angkop para sa paghiwa ng malalaking piraso ng karne sa isang hampas.
 
-**Knife, Pocket:** Isang maliit na folding knife, kadalasang may maramihang talim.
+**Knife, Pocket:** Isang maliit na folding knife, kadalasang may maraming talim.
 
 **Knife, Switchblade:** Isang retractable na pocketknife.
 
-**Knife, Throwing:** Isang kutsilyo na balanse para sa paghagis, kadalasang walang hilt.
+**Knife, Throwing:** Isang kutsilyo na balanse para sa paghagis, kadalasang walang puluhan.
 
-**Knife, Vibro:** Isang high-tech na talim ng kutsilyo na nakalagay sa isang mechanical na hilt, na pinapa-vibrate sa napakabilis na bilis. Pambihirang talim, ang vibration ay nagdaragdag ng dagdag na pwersa sa paghiwa kahit sa maliliit na hiwa.
+**Knife, Vibro:** Isang high-tech na talim ng kutsilyo na nakalagay sa isang mechanical na puluhan, na nagvibrate sa napakabilis na bilis. Pambihirang talim, ang vibration ay nagdaragdag ng karagdagang shearing force kahit sa maliliit na hiwa.
 
-**Lance:** Isang mahabang sibat na ginagamit sa isang kamay habang nakasakay sa kabayo. Habang nakasakay, ginagamit ng umatake ang damage modifier ng mount sa halip na sa kanila. Ang mga lance ay maaari ring gamitin habang nakatapak bilang two-handed na sibat, na may normal na damage modifier nito.
+**Lance:** Isang mahabang sibat na ginagamit sa isang kamay habang nakasakay sa kabayo. Habang nakasakay, ginagamit ng attacker ang damage modifier ng kanyang sakay sa halip na sa kanya. Ang mga lance ay maaari ring gamitin habang nakatapak bilang two-handed na sibat, na may normal na damage modifier.
 
-**Lance, Stun:** Isang armas na hugis-baston na may may-kargang electric prod sa isang dulo. Ang ilang mga stun lance ay may goads sa magkabilang dulo.
+**Lance, Stun:** Isang sandatang hugis-tungkod na may charged na electric prod sa isang dulo. Ang ilang stun lance ay may mga goad sa magkabilang dulo.
 
-**Lasso:** Ang tradisyonal na lariat na ginagamit para sa pag-aari ng baka. Wala itong ginagawang pinsala ngunit pinipigilan nito ang target gamit ang mga tuntunin sa entangling.
+**Lasso:** Ang tradisyonal na lariat na ginagamit para sa pagpapastol ng baka. Hindi ito nagdudulot ng pinsala ngunit nagpaparalisa sa target gamit ang mga panuntunan sa pagpulupot (entangling).
 
-**Launcher, Grenade:** Isang hand-held o stationary na launcher na nagpapaputok ng mga granada sa malalayong distansya. Maaari itong maging isang maliit na platform, isang hand-held na hugis-baril na launcher, o nakakabit sa isa pang baril.
+**Launcher, Grenade:** Isang hand-held o nakapirming launcher na nagpapaputok ng mga granada sa malalayong distansya. Maaari itong maliit na platform, isang hand-held na baril na launcher, o nakakabit sa isa pang baril.
 
-**Launcher, LAW Rocket:** Isang magaan, disposable na one-shot na rocket launcher, kilala rin bilang light anti-tank weapon (LAW).
+**Launcher, LAW Rocket:** Isang magaan at disposable na one-shot rocket launcher, na kilala rin bilang light anti-tank weapon (LAW).
 
-**Launcher, Rocket:** Isang maliit na tubo at platform na binuo sa larangan ng digmaan, ginagamit upang magpaputok ng mga rocket nang mas tumpak.
+**Launcher, Rocket:** Isang medyo maliit na tubo at platform na binuo sa battlefield, ginagamit para magpaputok ng mga rocket nang mas tumpak.
 
-**Mace, Heavy:** Isang haft na may mabigat na timbang para sa ulo, may tinik, flanged, studded, o payak.
+**Mace, Heavy:** Isang baras na may mabigat na pabigat para sa ulo, na may mga spike, flanged, studded, o plain.
 
-**Mace, Light:** Isang haft na may magaan na timbang na ginagamit upang humampas at magdurog.
+**Mace, Light:** Isang baras na may magaan na pabigat na ginagamit para manakit at manuntok.
 
-**Maul, War:** Isang long-handled na two-headed na martilyo na ginagamit sa dalawang kamay.
+**Maul, War:** Isang two-headed na martilyo na may mahabang hawakan na ginagamit gamit ang dalawang kamay.
 
-**Mine, Antipersonnel:** Isang land mine na ginawa pangunahin upang sugatan sa halip na pumatay (pag-maximize ng kahirapan sa kalaban).
+**Mine, Antipersonnel:** Isang land mine na ginawa pangunahing para makasakit sa halip na pumatay (pagpapalaki ng kahirapan sa kaaway).
 
-**Musket:** Isang maagang smooth bore na baril na nilalagyan sa loob ng bariles at minsan ay pinupuno ng shrapnel shot o malalaking bola na parang bala. Mabagal at hindi maaasahan, na pinapaliyab ng flint o wheel-lock.
+**Musket:** Isang maagang smooth bore na baril na ikinakarga sa loob ng bariles at minsan ay nilalagyan ng shrapnel shot o malalaking parang bolang bala. Mabagal at hindi mapagkakatiwalaan, sinisindihan ng flint o wheel-lock.
 
-**Mine, Antitank:** Isang mine na ginawa upang makapinsala sa mga tank tread o mga sasakyan ng kalaban.
+**Mine, Antitank:** Isang mina na ginawa para sirain ang mga tread ng tanke o mga sasakyan ng kaaway.
 
-**Naginata:** Isang mahabang sibat na may talim na parang espada, ginagamit para sa pagputol at pagtulak na mga atake.
+**Naginata:** Isang mahabang sibat na may ulo na parang espada, ginagamit para sa paghiwa at pagtutusok na mga atake.
 
-**Net:** Isang maluwag na mesh ng hinabing pisi na ginagamit upang manghuli ng mga hayop o mas malalaking target. Habang ang mas maliliit na net ay ginagamit para sa maliit na laro, ang net na inilarawan dito ay sapat ang laki para gamitin laban sa mga Tao.
+**Net:** Isang maluwag na mesh ng hinabing tali na ginagamit para manghuli ng mga hayop o mas malalaking target. Habang ang mas maliliit na net ay ginagamit para sa maliliit na laro, ang net na inilalarawan dito ay sapat na laki para gamitin laban sa mga Tao.
 
-**Pike:** Isang mahabang sibat (3–5 metro) na ginagamit sa formation combat. Karaniwan din sa mga town guard at castle defense. Ang mga pike ang pinakamahusay na depensa (bukod sa isang fusillade ng baril) laban sa isang cavalry charge.
+**Pike:** Isang mahabang sibat (3–5 metro) na ginagamit sa formation combat. Karaniwan din ito sa mga guwardiya sa bayan at pagtatanggol sa kastilyo. Ang mga pike ang pinakamahusay na depensa (bukod sa bugso ng putok ng baril) laban sa pagsalakay ng kabalyerya.
 
-**Pistol, Blaster:** Isang pistola na nagpapaputok ng maikling burst ng enerhiya, kadalasang plasma, na sumusunog sa target at nagdudulot ng concussion. Ang mga blaster pistola ay kadalasang pinapagana ng mga clip na naglalaman ng mga kakaibang kemikal na pampasabog.
+**Pistol, Blaster:** Isang pistol na nagpapaputok ng maikling bugso ng enerhiya, kadalasang plasma, na sumusunog sa target at nagdudulot ng concussion. Ang mga blaster pistol ay kadalasang pinapagana ng mga clip na naglalaman ng mga exotic na kemikal na panggatong.
 
-**Pistol, Derringer:** Isang maliit na hand-held na pistola, kadalasang kasing-laki ng palad. Madaling itago, na may mababang ammo capacity. Ang ilan ay one- o two-shot, ang iba ay may maliliit na clip. Minsan tinatawag na ‘holdout’ na pistola.
+**Pistol, Derringer:** Isang maliit na hand-held na pistol, kadalasang kasya sa palad. Madaling itago, na may mababang ammo capacity. Ang ilan ay one-shot o two-shot, ang iba ay may maliliit na clip. Minsan tinatawag na ‘holdout’ pistol.
 
-**Pistol, Disintegrator:** Isang pistola na nagpapaputok ng napakalakas na pagsabog ng enerhiya na mabilis na nag-di-disintegrate ng buong target, o malalaking bahagi ng target na iyon. Ang mga disintegrator na pistola ay maaaring mapagana ng mga energy cell o fuel clip.
+**Pistol, Disintegrator:** Isang pistol na nagpapaputok ng napakamapinsalang enerhiya na mabilis na nag-di-disintegrate ng buong target, o malalaking bahagi ng target na iyon. Ang mga disintegrator pistol ay maaaring paganahin ng mga energy cell o fuel clip.
 
-**Pistol, Electromagnetic (EM) Pulse:** Isang pistola na nagpapaputok ng diretsong electromagnetic pulse stream sa isang target tulad ng computer o robot, na nagpapatigil sa circuitry nito.
+**Pistol, Electromagnetic (EM) Pulse:** Isang pistol na nagpapaputok ng directed electromagnetic pulse stream sa isang target gaya ng computer o robot, na nag-di-disable sa circuitry nito.
 
-**Pistol, Flechette:** Isang maliit, magaan na pistola na pinapagana ng magnetic charge o gas, na nagpapaputok ng maraming maliliit, matatalim na parang karayom na mga talim sa isang target. Ang mga ito ay kadalasang may maikling saklaw at hindi masyadong epektibo laban sa mga target na may baluti, ngunit nakakasira sa mga target na walang baluti sa maikling saklaw. Gumagamit sila ng parehong clip ng flechette na bala at isang gas cylinder o energy clip. Minsan tinatawag na ‘needle gun’.
+**Pistol, Flechette:** Isang maliit at magaan na pistol na pinapagana ng magnetic charges o gas, na nagpapaputok ng maraming maliliit at matatalim na parang karayom na talim sa isang target. Ang mga ito ay kadalasang may maikling range at hindi gaanong epektibo laban sa mga armored na target, ngunit mapanira sa mga hindi armored na kalaban sa maikling distansya. Gumagamit sila ng parehong clip ng flechette ammunition at isang gas cylinder o energy clip. Minsan tinatawag na ‘needle gun’.
 
-**Pistol, Flintlock:** Isang pistola na gumagamit ng flint at bakal upang paliyabin ang isang hand-packed na wad ng pulbura. Katulad ng wheel-lock na pistola.
+**Pistol, Flintlock:** Isang pistol na gumagamit ng flint at bakal para sindihan ang isang hand-packed na wad ng pulbura. Katulad ng wheel-lock pistol.
 
-**Pistol, Heavy:** Isang heavy-framed na pistola na nagtataglay ng superior na stopping power. Mas mabagal kaysa sa mas maliit, mas magaan na mga pistola. Ang .357 magnum ay isang mahusay na halimbawa.
+**Pistol, Heavy:** Isang heavy-framed na pistol na nagtataglay ng superior stopping power. Mas mabagal kaysa sa mas maliit at magaan na mga pistol. Ang .357 magnum ay isang mahusay na halimbawa.
 
-**Pistol, Laser:** Isang pistola na nagpapaputok ng high-intensity na sinag ng liwanag na may kakayahang sumunog sa karamihan ng mga substansya, kahit tumunaw ng metal. Kadalasang pinapagana ng isang energy cell na naglalaman ng limitadong bilang ng mga charge.
+**Pistol, Laser:** Isang pistol na nagpapaputok ng high-intensity na sinag ng liwanag na kayang tumagos sa karamihan ng mga substansya, kahit magtunaw ng metal. Kadalasang pinapagana ng isang energy cell na naglalaman ng limitadong bilang ng mga charge.
 
-**Pistol, Light:** Isang light-framed na pistola na nagpapalit ng stopping power para sa katumpakan at bilis ng pagpapaputok. Ang .22 caliber ay isang mahusay na halimbawa.
+**Pistol, Light:** Isang light-framed na pistol na ipinagpapalit ang stopping power para sa accuracy at rate of fire. Ang .22 caliber ay isang mahusay na halimbawa.
 
-**Pistol, Medium:** Isang medium-framed na pistola, maaasahan at may katamtamang firepower at bilis ng pagpapaputok. Ang 9mm na pistola ay isang mahusay na halimbawa.
+**Pistol, Medium:** Isang medium-framed na pistol, mapagkakatiwalaan at may katamtamang firepower at rate of fire. Ang 9mm pistol ay isang mahusay na halimbawa.
 
-**Pistol, Plasma:** Isang pistola na nagpapaputok ng nakatuong daloy ng superheated na plasma, kadalasang pinapagana ng isang energy o plasma cell.
+**Pistol, Plasma:** Isang pistol na nagpapaputok ng nakatutok na daloy ng superheated na plasma, kadalasang pinapagana ng isang energy o plasma cell.
 
-**Pistol, Shock:** Isang pistola na naglalabas ng high-voltage na de-koryenteng pagsabog.
+**Pistol, Shock:** Isang pistol na naglalabas ng high-voltage na electrical burst.
 
-**Pistol, Sonic:** Isang pistola na naglalabas ng nakatuong cone ng mga sonic wave, mapanira sa buhay na tisyu at inert na materyales.
+**Pistol, Sonic:** Isang pistol na naglalabas ng nakatutok na cone ng mga sonic wave, na mapaminsala sa buhay na tissue at inert na materya.
 
-**Pistol, Stun:** Isang pistola na naglalabas ng pagsabog ng enerhiya na parehong frequency ng nervous system ng Tao, short-ranged at idinisenyo para sa pacification. Walang silbi laban sa mga bagay at nilalang na mas malaki sa Humanoid, bagaman maaari silang i-adjust para sa iba pang mga target. Minsan tinatawag na ‘stunner’.
+**Pistol, Stun:** Isang pistol na naglalabas ng bugso ng enerhiya na may parehong frequency ng nervous system ng Tao, maikli ang range at idinisenyo para sa pacification. Walang silbi laban sa mga bagay at nilalang na mas malaki sa Humanoid, bagama't maaari silang i-adjust para sa ibang mga target. Minsan tinatawag na ‘stunner’.
 
-**Rapier:** Isang slender-bladed na one-handed na espada, pangunahing ginagamit para sa pagtulak. Bagaman ang bawat isa ay natatangi, inilalarawan din nito ang epee at foil, dalawa pang fencing na espada.
+**Rapier:** Isang payat na talim na one-handed na espada, pangunahing ginagamit para sa pagtutusok. Bagama't ang bawat isa ay natatangi, inilalarawan din nito ang epee at foil, dalawa pang fencing swords.
 
-**Revolver, Heavy:** Isang mabigat na pistola na may malaking caliber, tulad ng .44 magnum o ang Colt .45.
+**Revolver, Heavy:** Isang mabigat na pistol na may malaking caliber, gaya ng .44 magnum o ang Colt .45.
 
-**Revolver, Light:** Isang magaan na pistola, kadalasang nasa .22 hanggang .32 caliber na saklaw.
+**Revolver, Light:** Isang magaan na pistol, kadalasang nasa .22 hanggang .32 caliber range.
 
-**Revolver, Medium:** Isang medium na pistola, kadalasang .357 hanggang .38 caliber.
+**Revolver, Medium:** Isang medium na pistol, kadalasang .357 hanggang .38 caliber.
 
-**Rifle, Assault:** Isang mabigat, matibay na riple na may malaking ammo capacity, na pinapaputok na parang machine gun (one-shot, maikling burst, o autofire).
+**Rifle, Assault:** Isang mabigat at matibay na riple na may malaking ammo capacity, na pinuputok gaya ng machine gun (one-shot, short bursts, o autofire).
 
-**Rifle, Blaster:** Isang riple na nagpapaputok ng maiikling pagsabog ng enerhiya, kadalasang plasma na sumusunog plus concussive na epekto. Ang mga blaster na riple ay kadalasang pinapagana ng mga clip na naglalaman ng mga kakaibang kemikal na pampasabog.
+**Rifle, Blaster:** Isang riple na nagpapaputok ng maiikling energy bursts, kadalasang plasma na sumusunog plus concussive impact. Ang mga blaster rifle ay kadalasang pinapagana ng mga clip na naglalaman ng mga exotic na kemikal na panggatong.
 
-**Rifle, Bolt-action:** Isang riple na may sliding bolt. Ang ilan ay gumagamit ng clip, habang ang iba ay nag-iimbak ng mga bala sa mga magazine na kasing haba ng bariles ng riple.
+**Rifle, Bolt-action:** Isang riple na may sliding bolt. Ang ilan ay gumagamit ng mga clip, habang ang iba ay nagtatago ng mga bala sa mga magazine na may haba ng bariles ng riple.
 
-**Rifle, Disintegrator:** Isang riple na naglalabas ng napakalakas na pagsabog ng enerhiya na mabilis na nag-di-disintegrate ng buong target o malalaking bahagi ng target na iyon. Ang mga disintegrator na riple ay maaaring mapagana ng mga energy cell o fuel clip.
+**Rifle, Disintegrator:** Isang riple na naglalabas ng napakamapinsalang enerhiya na mabilis na nag-di-disintegrate ng buong target o malalaking bahagi ng target na iyon. Ang mga disintegrator rifle ay maaaring paganahin ng mga energy cell o fuel clip.
 
-**Rifle, Elephant:** Isang malaking caliber na riple na idinisenyo upang pabagsakin ang pinakamalalaking laro ng mga hayop. Minsan double-barrel, ang mga ito ay kadalasang breech-loaded, isang makapal na bala sa bawat pagkakataon.
+**Rifle, Elephant:** Isang napakalaking caliber na riple na idinisenyo para magpabagsak ng pinakamalalaking hayop. Minsan ay double-barrel, ang mga ito ay kadalasang breech-loaded, isang makapal na bala sa bawat pagkakataon.
 
-**Rifle, Laser:** Isang riple na nagpapaputok ng high-intensity na sinag ng liwanag na may kakayahang sumunog sa karamihan ng mga substansya, kahit tumunaw ng metal. Ang mga laser na riple ay kadalasang pinapagana ng mga energy cell na may limitadong mga charge.
+**Rifle, Laser:** Isang riple na nagpapaputok ng high-intensity na sinag ng liwanag na kayang tumagos sa karamihan ng mga substansya, kahit magtunaw ng metal. Ang mga laser rifle ay kadalasang pinapagana ng mga energy cell na may limitadong charge.
 
-**Rifle, Lever-action:** Isang riple na may panlabas na lever na ginagamit upang i-cycle ang ammo. Popular sa mga mangangaso, bagaman hindi praktikal para sa military na paggamit.
+**Rifle, Lever-action:** Isang riple na may external lever na ginagamit para i-cycle ang ammo. Popular sa mga mangangaso, bagama't hindi praktikal para sa military use.
 
-**Rifle, Electromagnetic (EM) Pulse:** Isang bersyon ng riple ng electromagnetic pulse na pistola, na naglalabas ng nakatuong pagsabog ng electromagnetic na enerhiya sa isang target na gumagamit ng kuryente o electronic.
+**Rifle, Electromagnetic (EM) Pulse:** Isang bersyon ng riple ng electromagnetic pulse pistol, na naglalabas ng nakatutok na bugso ng electromagnetic energy sa isang target na gumagamit ng kuryente o electronic.
 
-**Rifle, Plasma:** Isang bersyon ng riple ng plasma na pistola, na may kakayahang magpaputok ng nakatuong pagsabog ng superheated na plasma sa target.
+**Rifle, Plasma:** Isang bersyon ng riple ng plasma pistol, na kayang magpaputok ng nakatutok na bugso ng superheated na plasma sa target.
 
-**Rifle, Shock:** Isang bersyon ng riple ng shock na pistola, na may kakayahang magpaputok ng pagsabog na parang kidlat para sa malaking saklaw at lakas.
+**Rifle, Shock:** Isang bersyon ng riple ng shock pistol, na kayang magpaputok ng parang kidlat na bugso para sa malaking range at lakas.
 
-**Rifle, Sonic:** Isang bersyon ng riple ng sonic na pistola, na nagpapaputok ng cone-like na sonic pulse blast sa target.
+**Rifle, Sonic:** Isang bersyon ng riple ng sonic pistol, na nagpapaputok ng cone-like na sonic pulse blast sa target.
 
-**Rifle, Sniper:** Isang long-barreled na riple na ginagamit para sa long-range na pagpapaputok, precision-calibrated at kadalasang nilagyan ng long-range scope.
+**Rifle, Sniper:** Isang long-barreled na riple na ginagamit para sa long-range fire, precision-calibrated at kadalasang nilagyan ng long-range scope.
 
-**Rifle, Sporting:** Isang light- hanggang medium-caliber (.22 o .30–06) na riple na ginagamit upang pabagsakin ang mas maliit na laro ng mga hayop tulad ng usa.
+**Rifle, Sporting:** Isang light- hanggang medium-caliber (.22 o .30–06) na riple na ginagamit para magpabagsak ng maliliit na hayop gaya ng usa.
 
-**Rifle, Stun:** Isang riple na naglalabas ng short-ranged na pagsabog ng enerhiya sa parehong frequency ng nervous system ng Tao, meant for pacification. Walang silbi laban sa mga bagay at nilalang na mas malaki sa Humanoid, ang isang stun na riple ay maaaring i-adjust para sa iba pang mga target. Minsan tinatawag na ‘stunner’.
+**Rifle, Stun:** Isang riple na naglalabas ng short-ranged energy burst sa parehong frequency ng nervous system ng Tao, na nilayon para sa pacification. Walang silbi laban sa mga bagay at nilalang na mas malaki sa Humanoid, ang stun rifle ay maaaring i-adjust para sa ibang mga target. Minsan tinatawag na ‘stunner’.
 
-**Rock, Thrown:** Ang pinakapangunahing armas, isang kamaong-laki na bato.
+**Rock, Thrown:** Ang pinakapangunahing sandata, isang batong kasya sa kamao.
 
-**Saber:** Isang single-edged, kurbadong espada, na ginagamit nang pinakakaraniwan ng mounted cavalry at sa fencing.
+**Saber:** Isang single-edged, pakurbang espada, na ginagamit nang mas madalas ng mga mounted cavalry at sa fencing.
 
-**Sai:** Isang dagger-like na armas na hugis parang trident, na may malapad na kurbadong crossbar. Ang mga sai ay walang talim at ginagamit bilang mga club, stabbing na mga armas, o sword-breakers. Kadalasan silang ginagamit nang pares.
+**Sai:** Isang sandatang parang dagger na hugis trident, na may malapad na pakurbang crossbar. Ang mga sai ay walang talim at ginagamit bilang mga club, sandatang pangsaksak, o pambasag ng espada. Kadalasan silang ginagamit nang magkapares.
 
-**Scimitar:** Isang single-edged, bahagyang kurbado, heavy-bladed na espada.
+**Scimitar:** Isang single-edged, bahagyang pakurba, at may mabigat na talim na espada.
 
-**Scythe:** Isang long-handled na kagamitan sa pagsasaka na may kurbadong talim na nakalagay nang patayo sa haft, na ginagamit sa pag-aani ng butil, ngunit paminsan-minsan ay may seremonyal na layunin.
+**Scythe:** Isang farming tool na may mahabang hawakan at may pakurbang talim na nakalagay nang perpendicular sa baras, ginagamit sa pag-aani ng butil, ngunit paminsan-minsan ay may seremonyal na layunin.
 
 **Shotgun, Automatic:** Isang shotgun na may malaking ammo capacity at automatic loading, kadalasang para sa battlefield o police action.
 
 **Shotgun, Double-barrel:** Isang breech-loading na shotgun.
 
-**Shotgun, Sawed-off:** Isang sporting o double-barrel na shotgun na may mas maikling bariles, hand-altered o manufactured para sa madaling pagtatago at kaginhawaan. Ang mas maikling bariles ay ipinagpapalit ang saklaw para sa mas malawak na pagkalat ng ammo.
+**Shotgun, Sawed-off:** Isang sporting o double-barrel na shotgun na may mas maikling bariles, na binago ng kamay o ginawa para sa kadalian ng pagtatago at kaginhawaan. Ang mas maikling bariles ay ipinagpapalit ang range para sa mas malawak na pagkalat ng ammo.
 
 **Shotgun, Sporting:** Isang medium- hanggang light-gauge na shotgun (16- o 20-gauge), na ginagamit para sa pangangaso at proteksyon sa bahay.
 
-**Shuriken:** Maliliit na throwing na mga talim, kadalasang hugis-bituin. Madaling itago at paborito ng mga assassin.
+**Shuriken:** Maliliit na talim na pampahagis, kadalasang hugis-bituin. Madaling itago at paborito ng mga assassin.
 
-**Sickle:** Isang crescent-shaped na patag na talim, single-edged sa loob ng crescent, na ginagamit sa isang kamay upang mag-ani ng butil o seremonyal na layunin.
+**Sickle:** Isang crescent-shaped na patag na talim, single-edged sa loob ng crescent, na ginagamit sa isang kamay para mag-ani ng butil o para sa mga seremonyal na layunin.
 
-**Sling:** Isang leather thong na may tasa o recess upang humawak ng bato o sling stone, na pinihit at inihagis nang may matinding puwersa sa target.
+**Sling:** Isang leather thong na may tasa o recess para paglagyan ng bato o sling stone, na iniikot at inihahagis nang may napakalakas na puwersa sa target.
 
-**Spear, Long:** Isang haba ng kahoy na mga dalawang metro ang haba, na may metal- o flint-bladed na ulo o isang fire-hardened na punto. Ang mga ito ay dapat gamitin sa dalawang kamay. Ang mga karakter na armado ng mahabang sibat ay kadalasang unang tumatama sa isang combat round.
+**Spear, Long:** Isang haba ng kahoy na halos dalawang metro ang haba, na may ulo na gawa sa metal o flint o isang fire-hardened na punto. Ang mga ito ay dapat gamitin nang dalawang kamay. Ang mga character na armado ng mahahabang sibat ay kadalasang unang tumatama sa isang combat round.
 
-**Spear, Short:** Isang haba ng kahoy na mga 1.5 metro ang haba, na may metal- o flint-bladed na ulo o isang fire-hardened na punto. Ang mga maikling sibat ay maaaring gamitin sa isa o dalawang kamay, o ihagis.
+**Spear, Short:** Isang haba ng kahoy na halos 1.5 metro ang haba, na may ulo na gawa sa metal o flint o isang fire-hardened na punto. Ang mga maikling sibat ay maaaring gamitin sa isa o dalawang kamay, o ihagis.
 
-**Spray, Chemical:** Isang kemikal na iritante na pino-project mula sa isang maliit na sprayer kadalasang sa mga mata ng target. Short-range at nonlethal.
+**Spray, Chemical:** Isang chemical irritant na ibinubuga mula sa maliit na sprayer kadalasan sa mga mata ng target. Maikli ang range at hindi nakamamatay.
 
-**Staff, Quarter:** Isang mahabang kahoy na baston na kadalasang ginagamit bilang walking staff, kapaki-pakinabang para sa depensa at pag-atake.
+**Staff, Quarter:** Isang mahabang kahoy na tungkod na kadalasang ginagamit bilang walking staff, kapaki-pakinabang para sa depensa at pag-atake.
 
-**Staff, Short:** Isang maikli, makitid na kahoy na club parang police truncheon.
+**Staff, Short:** Isang maikli at makipot na kahoy na club gaya ng police truncheon.
 
-**Sword Cane:** Isang manipis na talim na espada na in disguise upang magkasya sa loob ng isang baston.
+**Sword Cane:** Isang manipis ang talim na espada na itinago para magkasya sa loob ng isang baston.
 
-**Sword, Bastard:** Isang tuwid, single- o double-edged na espada, mahigit isang metro ang haba, na may mahabang hilt na ginagamit sa isa o dalawang kamay.
+**Sword, Bastard:** Isang tuwid, single- o double-edged na espada, na higit sa isang metro ang haba, na may mahabang puluhan na hinahawakan sa isa o dalawang kamay.
 
-**Sword, Broad:** Isang tuwid, single- o double-edged na espada na mga isang metro ang haba, na ginagamit sa isang kamay. Ang ilan ay may basket hilt.
+**Sword, Broad:** Isang tuwid, single- o double-edged na espada na may habang isang metro, na ginagamit sa isang kamay. Ang ilan ay may mga basket hilt.
 
-**Sword, Energy:** Isang hilt na naglalaman ng shaped na field emitter na nag-project ng sword-length na talim ng enerhiya, parang sinag ng nakatuong liwanag. Ang mga espada ng enerhiya ay gumagamit ng mga power pack, at kadalasang nangangailangan ng mahal o bihirang focusing crystals.
+**Sword, Energy:** Isang puluhan na naglalaman ng shaped field emitter na nagpapalabas ng talim ng enerhiya na kasinghaba ng espada, parang sinag ng nakatutok na liwanag. Ang mga energy sword ay gumagamit ng mga power pack, at kadalasang nangangailangan ng mahal o bihirang focusing crystal.
 
-**Sword, Great:** Isang tuwid, double-edged na espada na halos dalawang metro ang haba, na ginagamit sa dalawang kamay, kadalasan laban sa mga pike formation.
+**Sword, Great:** Isang tuwid, double-edged na espada na halos dalawang metro ang haba, na ginagamit sa dalawang kamay, kadalasang laban sa mga pike formation.
 
-**Sword, Long:** Isang tuwid, single- o double-edged na espada, minsan na may basket hilt, na ginagamit sa isang kamay. Mas magaan at slenderer kaysa sa broadsword.
+**Sword, Long:** Isang tuwid, single- o double-edged na espada, minsan ay may basket hilt, na ginagamit sa isang kamay. Mas magaan at mas payat kaysa sa broadsword.
 
-**Sword, Monofilament:** Isang sopistikadong armas na binubuo ng isang talim na eksaktong isang molecule ang kapal, na itinakda sa stasis ng isang generator sa hilt. Dahil sa talim na kayang pumasok sa pagitan ng mga atom, may kakayahan itong humiwa sa halos anumang bagay. Dahil ang talim ay halos hindi nakikita, ito ay napakahirap gamitin, at ang fumble ay maaaring maging fatal.
+**Sword, Monofilament:** Isang sopistikadong sandata na binubuo ng isang talim na eksaktong isang molecule ang kapal, na inilagay sa stasis ng isang generator sa puluhan. Dahil ang talim ay kayang pumasok sa pagitan ng mga atom, kaya nitong humiwa sa halos lahat ng bagay. Dahil ang talim ay halos hindi nakikita, napakahirap nitong gamitin, at ang isang pagkakamali (fumble) ay maaaring nakamamatay.
 
-**Sword, Short:** Isang single o double-edged na espada, kadalasang kalahating metro ang haba.
+**Sword, Short:** Isang single- o double-edged na espada, kadalasang kalahating metro ang haba.
 
-**Sword, Vibro-:** Isang mas mahabang bersyon ng vibro knife. Isang hawakan na naglalaman ng mahabang talim na parang espada na vibrated sa mataas na bilis, na may kakayahang humiwa sa karamihan ng mga substansya.
+**Sword, Vibro-:** Isang mas mahabang bersyon ng vibro knife. Isang hawakan na naglalaman ng mahabang talim na parang espada na nagvibrate sa napakabilis na bilis, na kayang humiwa sa karamihan ng mga substansya.
 
-**Taser, Contact:** Isang maliit na hand-held na de-koryenteng aparato na idinisenyo upang gambalain ang neural activity ng target, na patutulugin sila sandali.
+**Taser, Contact:** Isang maliit at hand-held na de-kuryenteng aparato na idinisenyo para gambalain ang neural activity ng target, na pansamantalang nagpapatulog sa kanila.
 
-**Taser, Dart:** Isang hand-held na taser na nagpapaputok ng dalawang maliliit na darts na may nakakabit na mga wire. Kapag ang mga ito ay tumama sa kanilang target, ang taser ay naglalabas ng nakakagambalang de-koryenteng karga na kadalasang nagpapatulog o humahadlang.
+**Taser, Dart:** Isang hand-held na taser na nagpapaputok ng dalawang maliliit na dart na may nakakabit na mga kable. Kapag tumama ang mga ito sa kanilang target, ang taser ay naglalabas ng mapanggambalang electrical charge na kadalasang nagpapatulog o nagpapaparalisa.
 
-**Torch:** Isang makapal na patpat ng kahoy na ang isang dulo ay ibinabad sa pitch o ilang iba pang pampaliyab, paminsan-minsan ay binalot ng mga basahan. Pinapaliyab at ginagamit para sa liwanag, ang mga sulo ay kadalasang ginagamit bilang improvised na mga armas.
+**Torch:** Isang makapal na patpat ng kahoy na ang isang dulo ay binabad sa alkitran o iba pang panggatong, paminsan-minsan ay binalot sa mga basahan. Sinisindihan at ginagamit para sa liwanag, ang mga torch ay kadalasang ginagamit bilang mga improvised na sandata.
 
-**Trident:** Isang three-tined na sibat, parang tinidor, na may kurbadong side-prong. Ang mga trident ay kadalasang may mga barbed point upang humook sa laman ng kanilang target.
+**Trident:** Isang sibat na may tatlong tulis, parang tinidor, na may pakurbang mga side-prong. Ang mga trident ay kadalasang may mga barbed point para kumagat sa laman ng kanilang target.
 
-**Wakizashi:** Isang short sword na bersyon ng katana, kadalasang ginawa bilang isang matching na pares. Ang ilan ay may maliliit na kutsilyo na binuo sa kanilang mga scabbard.
+**Wakizashi:** Isang maikling bersyon ng espada ng katana, kadalasang ginagawa bilang magkapares. Ang ilan ay may maliliit na kutsilyo na nakabaon sa kanilang mga sakuban (scabbards).
 
-**Whip:** Isang coiled at woven na leather na lubid na may hawakan sa isang dulo, na ginagamit upang paluin ang isang kalaban o hulihin at huwag paganahin ang isang sanga (tingnan ang **Entangling**).
+**Whip:** Isang nakaikot at hinabing lubid na katad na may hawakan sa isang dulo, ginagamit para paluin ang kalaban o manghuli at magparalisa ng braso o binti (tingnan sa **Entangling**).
 
-**Whip, Shock:** Isang metal na latigo na bumubuo ng high-voltage na de-koryenteng kuryente, na inilalabas sa target kapag ito ay tumama nang matagumpay.
+**Whip, Shock:** Isang metallic na latigo na bumubuo ng high-voltage electric current, na inilalabas sa target kapag ito ay matagumpay na tumama.### Mga Klase ng Sandata
 
-### Mga Klase ng Armas
+Ang mga paglalarawan para sa mga kasanayang Heavy Weapon, Melee Weapon, at Missile Weapon sa Kabanata Tatlo: Mga Kasanayan ay tumutukoy sa mga espesyalisasyon ng sandata at **mga klase ng sandata**. Ang isang klase ng sandata ay isang malawak na pangkat na kinabibilangan ng sandata, habang ang **espesyalisasyon** ay ang kasanayan ng iyong karakter sa paggamit ng mga sandata sa klase na iyon. Ang mga sandata ay nahahati sa mga klase, at ang mga kasanayan naman ay nahahati sa mga espesyalisasyon. Ang bawat klase ng sandata ay nakalista sa ibaba, kasama ang mga tiyak na halimbawa. Ang ilang sandata ay nabibilang sa maraming klase, depende sa kung paano ang mga ito ginagamit.
 
-Ang mga paglalarawan para sa mga kakayahan sa Heavy Weapon, Melee Weapon, at Missile Weapon sa Kabanata Tatlo: Mga Kakayahan ay tumutukoy sa mga espesyalidad ng armas at **mga klase ng armas**. Ang klase ng armas ay isang magaspang na grupo kung saan kabilang ang armas, habang ang **espesyalidad** ay ang kakayahan ng iyong karakter gamit ang mga armas sa klase na iyon. Ang mga armas ay nahuhulog sa mga klase, na may mga kakayahan sa mga espesyalidad. Ang bawat klase ng armas ay nakalista sa ibaba, na may mga partikular na halimbawa. Ang ilang mga armas ay pasok sa maramihang mga klase, depende sa kung paano sila ginagamit.
+* **Axe (Palakol):** Battle axe, great axe, hand axe, vibro-axe, wood axe.
 
-* **Axe:** Battle axe, great axe, hand axe, vibro-axe, wood axe.
+* **Bow (Busog):** Composite bow, long bow, self bow.
 
-* **Bow:** Composite bow, long bow, self bow.
+* **Brawl (Suntukan):** Fist, head butt, kick.
 
-* **Brawl:** Fist, head butt, kick.
+* **Club (Pamalo):** Heavy club, light club, sai, short staff.
 
-* **Club:** Heavy club, light club, sai, short staff.
+* **Crossbow (Krosbo):** Arbalest, siege arbalest, heavy crossbow, light crossbow, medium crossbow, repeating crossbow.
 
-* **Crossbow:** Arbalest, siege arbalest, heavy crossbow, light crossbow, medium crossbow, repeating crossbow.
+* **Dagger (Daga):** Butcher knife, dagger, knife, pocket knife, switchblade, vibro-knife, sai.
 
-* **Dagger:** Butcher knife, dagger, knife, pocket knife, switchblade, vibro-knife, sai.
+* **Explosive (Pampasabog):** Antimatter detonator, antipersonnel mine, antitank mine, blasting cap, dynamite, electromagnetic pulse detonator, fusion detonator, improvised explosive, plasma detonator, plastic explosive, sonic detonator.
 
-* **Explosive:** Antimatter detonator, antipersonnel mine, antitank mine, blasting cap, dynamite, electromagnetic pulse detonator, fusion detonator, improvised explosive, plasma detonator, plastic explosive, sonic detonator.
+* **Flail (Panghataw):** Flail, morningstar flail, whip.
 
-* **Flail:** Flail, morningstar flail, whip.
+* **Grenade (Granada):** Antimatter grenade, concussion grenade, disintegrator grenade, electromagnetic pulse grenade, explosive grenade, flare grenade, fusion grenade, gas grenade, grenade launcher, LAW rocket launcher, Molotov cocktail, phosphorous grenade, plasma grenade, rocket launcher, shock grenade, shrapnel grenade, smoke grenade, sonic grenade, stun grenade.
 
-* **Grenade:** Antimatter grenade, concussion grenade, disintegrator grenade, electromagnetic pulse grenade, explosive grenade, flare grenade, fusion grenade, gas grenade, grenade launcher, LAW rocket launcher, Molotov cocktail, phosphorous grenade, plasma grenade, rocket launcher, shock grenade, shrapnel grenade, smoke grenade, sonic grenade, stun grenade.
+* **Hammer (Martilyo):** Hammer, great hammer, sledge hammer, war hammer, war maul.
 
-* **Hammer:** Hammer, great hammer, sledge hammer, war hammer, war maul.
+* **Hand (Kamay):** Armored gauntlet, blackjack, brass knuckles, cestii, claw, garrote.
 
-* **Hand:** Armored gauntlet, blackjack, brass knuckles, cestii, claw, garrote.
+* **Improvised (Improbisado):** Chainsaw, thrown rock, scythe, sickle, torch.
 
-* **Improvised:** Chainsaw, thrown rock, scythe, sickle, torch.
+* **Mace (Masa):** Heavy mace, light mace.
 
-* **Mace:** Heavy mace, light mace.
+* **Machine Gun (Machine Gun):** Machine gun, mini gun, submachine gun.
 
-* **Machine Gun:** Machine gun, mini gun, submachine gun.
+* **Missile (Missile):** Blowgun, bola, boomerang, dagger, dart, hand axe, javelin, shuriken, sling, throwing knife.
 
-* **Missile:** Blowgun, bola, boomerang, dagger, dart, hand axe, javelin, shuriken, sling, throwing knife.
+* **Pistol, Energy (Pistol, Enerhiya):** Blaster pistol, disintegrator pistol, electromagnetic pulse pistol, laser pistol, plasma pistol, shock pistol, sonic pistol, stun pistol.
 
-* **Pistol, Energy:** Blaster pistol, disintegrator pistol, electromagnetic pulse pistol, laser pistol, plasma pistol, shock pistol, sonic pistol, stun pistol.
+* **Pistol (Pistol):** Derringer, flechette pistol, flintlock pistol, heavy pistol, light pistol, medium pistol.
 
-* **Pistol:** Derringer, flechette pistol, flintlock pistol, heavy pistol, light pistol, medium pistol.
+* **Polearm (Polearm):** Halberd, lance, naginata, pike, scythe, trident.
 
-* **Polearm:** Halberd, lance, naginata, pike, scythe, trident.
+* **Revolver (Rebolber):** Heavy revolver, light revolver, medium revolver.
 
-* **Revolver:** Heavy revolver, light revolver, medium revolver.
+* **Rifle, Energy (Rifle, Enerhiya):** Blaster rifle, disintegrator rifle, electromagnetic pulse rifle, laser rifle, plasma rifle, shock rifle, sonic rifle, stun rifle.
 
-* **Rifle, Energy:** Blaster rifle, disintegrator rifle, electromagnetic pulse rifle, laser rifle, plasma rifle, shock rifle, sonic rifle, stun rifle.
+* **Rifle (Rifle):** Assault rifle, bolt-action rifle, elephant rifle, lever-action rifle, musket, sniper rifle, sporting rifle.
 
-* **Rifle:** Assault rifle, bolt-action rifle, elephant rifle, lever-action rifle, musket, sniper rifle, sporting rifle.
+* **Shotgun (Shotgun):** Automatic shotgun, double-barrel shotgun, sawed-off shotgun, sporting shotgun.
 
-* **Shotgun:** Automatic shotgun, double-barrel shotgun, sawed-off shotgun, sporting shotgun.
+* **Spear (Sibat):** Javelin, lance, long spear, naginata, pike, short spear, trident.
 
-* **Spear:** Javelin, lance, long spear, naginata, pike, short spear, trident.
+* **Staff (Tungkod):** Quarter staff, short staff.
 
-* **Staff:** Quarter staff, short staff.
+* **Submachine Gun (Submachine Gun):** Submachine gun.
 
-* **Submachine Gun:** Submachine gun.
+* **Sword (Espada):** Bastard sword, broadsword, energy sword, great sword, katana, long sword, monofilament sword, rapier, saber, scimitar, short sword, sickle, sword cane, vibro-sword, wakizashi.
 
-* **Sword:** Bastard sword, broadsword, energy sword, great sword, katana, long sword, monofilament sword, rapier, saber, scimitar, short sword, sickle, sword cane, vibro-sword, wakizashi.
+* **Other (Iba pa):** Chemical spray, contact taser, dart taser, flamethrower, lasso, net, shock whip, whip.
 
-* **Other:** Chemical spray, contact taser, dart taser, flamethrower, lasso, net, shock whip, whip.
+### Paggamit ng mga Sandata ng Parehong Klase
 
-### Paggamit ng mga Armas ng Parehong Klase
+Gamitin ang iyong espesyalisasyon sa kasanayan sa lahat ng sandata ng partikular na klase na iyon. Ang heneralisasyong ito ay nangangahulugan na ang iyong karakter ay makakagamit ng karamihan sa mga uri ng magkakatulad na sandata nang walang hadlang.
 
-Gamitin ang iyong kakayahan sa espesyalidad sa lahat ng mga armas ng partikular na klase na iyon. Ang generalisasyon na ito ay nangangahulugan na ang iyong karakter ay makakagamit ng karamihan sa mga uri ng mga katulad na armas nang walang sagabal.
+**Halimbawa,** kung ang iyong karakter ay may kasanayang Melee Weapon (Sword), ito ay mailalapat sa mga long sword, broadsword, short sword, atbp., gaya ng Firearm (Revolver) na mailalapat sa light, medium, at heavy revolver.### Paggamit ng mga Armas ng Iba't Ibang Klasipikasyon
 
-**Halimbawa,** kung ang iyong karakter ay may kakayahang Melee Weapon (Sword), ito ay nalalapat sa mga long sword, broadsword, short sword, atbp., gaya ng Firearm (Revolver) na nalalapat sa light, medium, at heavy na mga revolver.
+Kung mayroon kang kasanayan sa isang klasipikasyon ng armas, maaaring pahintulutan ng iyong *gamemaster* ang iyong karakter na gumamit ng katulad na armas sa ibang klasipikasyon gamit ang parehong *skill rating* na parang ang kasanayan ay Mahirap (*Difficult*).
 
-### Paggamit ng mga Armas ng Iba't Ibang Klase
+**Halimbawa,** kung ang iyong karakter ay may Missile Weapon (Bow) 60%, maaaring pahintulutan ng iyong *gamemaster* ang paggamit ng mga *crossbow* (ibang klasipikasyon ng armas) bilang isang Mahirap na kasanayan sa Missile Weapon (Bow), na may pansamantalang *skill rating* na 30%.
 
-Kung mayroon kang kakayahan sa isang klase ng armas, maaaring payagan ng iyong gamemaster ang iyong karakter na gumamit ng isang katulad na armas sa ibang klase sa parehong skill rating na parang ang kakayahan ay Mahirap.
+Kung ang paggamit ng armas na may pansamantalang *skill rating* ay matagumpay at may anumang karanasan (*experience*) na nakuha, ang *experience roll* ay gagawin mula sa basehan ng pagkakataon (*base chance*) sa halip na sa pansamantalang *skill rating*. Anumang karanasan ay idaragdag sa basehan ng pagkakataon ng armas o kasanayan sa armas sa halip na sa pansamantalang *skill rating*. Kapag nalampasan na ng iyong karakter ang pansamantalang *skill rating*, ang aktwal na *skill rating* ang magiging pamantayan.
 
-**Halimbawa,** kung ang iyong karakter ay may Missile Weapon (Bow) 60%, maaaring payagan ng iyong gamemaster ang paggamit ng mga crossbow (isang ibang klase ng armas) bilang isang Mahirap na Missile Weapon (Bow) na kakayahan, isang pansamantalang skill rating na 30%.
+##### Mga Primitive na Armas na Melee
 
-Kung ang paggamit ng isang armas na may pansamantalang skill rating ay matagumpay at anumang karanasan ang nakuha, ang experience roll ay ginagawa mula sa batayang pagkakataon sa halip na sa pansamantalang skill rating. Ang anumang karanasan ay idinagdag sa armas o sa batayang pagkakataon ng kakayahan ng armas sa halip na sa pansamantalang skill rating. Kapag nalampasan na ng iyong karakter ang pansamantalang skill rating, ang aktwal na skill rating ay nagiging default.
-
-##### Mga Primitive na Armas sa Melee
-
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Saklaw | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Saklaw | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Axe, Hand | Axe | 15 | 1D6+1+dm | 1 | Bleeding | Short | 1H | 12 | Yes | 7/9 | — | Cheap | 0.5 |
-| Club, Heavy | Club | 25 | 1D8+dm | 1 | Crushing | Medium | 2H | 22 | Yes | 9/7 | — | Cheap | 2.0 |
-| Club, Light | Club | 25 | 1D6+dm | 1 | Crushing | Medium | 1H | 15 | Yes | 7/7 | — | Cheap | 1.0 |
-| Fist | Brawl | 25 | 1D3+dm | 1 | Crushing | Short | 1H | — | No1 | — | — | — | — |
-| Grapple | Brawl | 25 | Special2 | 1 | Entangle | Short | 2H | — | No3 | — | — | — | — |
-| Head Butt | Brawl | 25 | 1D3+dm | 1 | Crushing | Short | — | — | No | — | — | — | — |
-| Kick | Brawl | 25 | 1D3+dm | 1 | Crushing | Short | — | — | No | — | — | — | — |
-| Knife | Dagger | 25 | 1D3+1+dm | 1 | Impaling | Short | 1H | 15 | Yes | 4/4 | — | Cheap | 0.2 |
-| Net | Other | 05 | Special4 | 1 | Entangling | Medium | 1H o 2H | 6 | Yes | 12/10 | 96–005 | Cheap | 3.0 |
-| Spear, Long | Spear | 15 | 1D10+1+dm | 1 | Impaling | Long | 2H | 15 | Yes | 11/9 | — | Cheap | 2.0 |
-| Spear, Short | Spear | 15 | 1D6+1+dm | 1 | Impaling | Long | 1H o 2H | 15 | Yes | 7/8 | — | Cheap | 2.0 |
-| Torch | Club | 25 | 1D6+flame6 | 1 | Crushing | Medium | 1H | 15 | Yes | 6/9 | 96–007 | — | 1.0 |
+| Palakol, Kamay | Palakol | 15 | 1D6+1+dm | 1 | Pagdurugo | Maikli | 1H | 12 | Oo | 7/9 | — | Mura | 0.5 |
+| Pampalo, Mabigat | Pampalo | 25 | 1D8+dm | 1 | Pagdurog | Katamtaman | 2H | 22 | Oo | 9/7 | — | Mura | 2.0 |
+| Pampalo, Magaan | Pampalo | 25 | 1D6+dm | 1 | Pagdurog | Katamtaman | 1H | 15 | Oo | 7/7 | — | Mura | 1.0 |
+| Suntok | Suntukan | 25 | 1D3+dm | 1 | Pagdurog | Maikli | 1H | — | Hindi1 | — | — | — | — |
+| Grapple | Suntukan | 25 | Espesyal2 | 1 | Pagpulupot | Maikli | 2H | — | Hindi3 | — | — | — | — |
+| Head Butt | Suntukan | 25 | 1D3+dm | 1 | Pagdurog | Maikli | — | — | Hindi | — | — | — | — |
+| Sipa | Suntukan | 25 | 1D3+dm | 1 | Pagdurog | Maikli | — | — | Hindi | — | — | — | — |
+| Kutsilyo | Dagger | 25 | 1D3+1+dm | 1 | Pag-impale | Maikli | 1H | 15 | Oo | 4/4 | — | Mura | 0.2 |
+| Lambat | Iba pa | 05 | Espesyal4 | 1 | Pagpulupot | Katamtaman | 1H o 2H | 6 | Oo | 12/10 | 96–005 | Mura | 3.0 |
+| Sibat, Mahaba | Sibat | 15 | 1D10+1+dm | 1 | Pag-impale | Mahaba | 2H | 15 | Oo | 11/9 | — | Mura | 2.0 |
+| Sibat, Maikli | Sibat | 15 | 1D6+1+dm | 1 | Pag-impale | Mahaba | 1H o 2H | 15 | Oo | 7/8 | — | Mura | 2.0 |
+| Sulo | Pampalo | 25 | 1D6+apoy6 | 1 | Pagdurog | Katamtaman | 1H | 15 | Oo | 6/9 | 96–007 | — | 1.0 |
 
-##### Mga Primitive na Armas sa Missile
+##### Mga Primitive na Armas na Missile
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc | RF |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Rng | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Axe, Hand (thrown) | Axe | 10 | 1D6+½dm | 1 | Bleeding | 20 | 1H | 12 | No | 9/11 | — | Cheap | 0.5 | 1/CR |
-| Blowgun | Blowgun | 10 | 1D38 | 1 | Impaling | 30 | 2H | 49 | No | /11 | — | Cheap | 0.5 | 1/CR |
-| Bola (damaging) | Bola | 05 | 1D4+½dm | 1 | Crushing | 15 | 1H | 1 | No | 9/13 | — | Cheap | 3.0 | 1/CR |
-| Bola (snaring) | Bola | 05 | Special4 | 1 | Entangling | 15 | 1H | 1 | No | 9/13 | — | Cheap | 3.0 | 1/CR |
-| Boomerang | Boomerang | 05 | 1D4+½dm | ½10 | Crushing | 50 | 1H | 3 | No | 9/11 | — | Cheap | 0.5 | 1/CR |
-| Bow, Self | Bow | 10 | 1D6+1+½dm | 1 | Impaling | 80 | 2H | 6 | No | 9/9 | — | Cheap | 0.5 | 1/CR |
-| Club, Light (thrown) | Throw | Throw | 1D6+½dm | 1 | Crushing | 20 | 1H | 15 | No | 9/7 | — | Cheap | 1.0 | 1/CR |
-| Dart | Dart | 10 | 1d6+½dm11 | 1 | Impaling | 20 | 1H | 4 | No | /9 | — | Cheap | 0.5 | 1/CR |
-| Javelin | Javelin | 15 | 1D6+½dm | 1 | Impaling | 25 | 1H | 10 | No | 9/9 | — | Cheap | 1.5 | 1/CR |
-| Knife (thrown) | Throw Knife | 15 | 1D3+½dm | 1 | Impaling | 10 | 1H | 15 | No | 7/11 | — | Cheap | 0.2 | 1/CR |
-| Lasso | Other | 05 | Special4 | ½ | Entangling | 10 | 2H | 1 | No | 9/13 | — | Cheap | 1.0 | 1/5CR |
-| Net (thrown) | Other | 05 | Special4 | 1 | Entangling | 5 | 1H | 6 | No | 9/12 | 96–0012 | Cheap | 3.0 | 1/3CR |
-| Rock (thrown) | Throw | Throw | 1D2+½dm | 2 | Crushing | 20 | 1H | 20 | No | 5/5 | — | — | .05 | 1/CR |
-| Sling | Sling | 05 | 1D8+½dm | 1 | Crushing | 80 | 1H | 2/1313 | No | 7/11 | — | Cheap | 0.1 (.1)14 | 1/CR |
-| Spear, Short (thrown) | Spear | 05 | 1D6+1+½dm | 1 | Impaling | 15 | 1H | 15 | No | 12/10 | — | Cheap | 2.0 | 1/CR |
-| Spear, Long (thrown) | Spear | 05 | 1D10+1+½db | 1 | Impaling | 15 | 1H | 15 | No | 12/10 | — | Cheap | 2.0 | 1/CR |
+| Palakol, Kamay (binato) | Palakol | 10 | 1D6+½dm | 1 | Pagdurugo | 20 | 1H | 12 | Hindi | 9/11 | — | Mura | 0.5 | 1/CR |
+| Blowgun | Blowgun | 10 | 1D38 | 1 | Pag-impale | 30 | 2H | 49 | Hindi | /11 | — | Mura | 0.5 | 1/CR |
+| Bola (nakakasakit) | Bola | 05 | 1D4+½dm | 1 | Pagdurog | 15 | 1H | 1 | Hindi | 9/13 | — | Mura | 3.0 | 1/CR |
+| Bola (nakakabitag) | Bola | 05 | Espesyal4 | 1 | Pagpulupot | 15 | 1H | 1 | Hindi | 9/13 | — | Mura | 3.0 | 1/CR |
+| Boomerang | Boomerang | 05 | 1D4+½dm | ½10 | Pagdurog | 50 | 1H | 3 | Hindi | 9/11 | — | Mura | 0.5 | 1/CR |
+| Bow, Self | Bow | 10 | 1D6+1+½dm | 1 | Pag-impale | 80 | 2H | 6 | Hindi | 9/9 | — | Mura | 0.5 | 1/CR |
+| Pampalo, Magaan (binato) | Hagis | Hagis | 1D6+½dm | 1 | Pagdurog | 20 | 1H | 15 | Hindi | 9/7 | — | Mura | 1.0 | 1/CR |
+| Dart | Dart | 10 | 1d6+½dm11 | 1 | Pag-impale | 20 | 1H | 4 | Hindi | /9 | — | Mura | 0.5 | 1/CR |
+| Javelin | Javelin | 15 | 1D6+½dm | 1 | Pag-impale | 25 | 1H | 10 | Hindi | 9/9 | — | Mura | 1.5 | 1/CR |
+| Kutsilyo (binato) | Hagis na Kutsilyo | 15 | 1D3+½dm | 1 | Pag-impale | 10 | 1H | 15 | Hindi | 7/11 | — | Mura | 0.2 | 1/CR |
+| Lasso | Iba pa | 05 | Espesyal4 | ½ | Pagpulupot | 10 | 2H | 1 | Hindi | 9/13 | — | Mura | 1.0 | 1/5CR |
+| Lambat (binato) | Iba pa | 05 | Espesyal4 | 1 | Pagpulupot | 5 | 1H | 6 | Hindi | 9/12 | 96–0012 | Mura | 3.0 | 1/3CR |
+| Bato (binato) | Hagis | Hagis | 1D2+½dm | 2 | Pagdurog | 20 | 1H | 20 | Hindi | 5/5 | — | — | .05 | 1/CR |
+| Sling | Sling | 05 | 1D8+½dm | 1 | Pagdurog | 80 | 1H | 2/1313 | Hindi | 7/11 | — | Mura | 0.1 (.1)14 | 1/CR |
+| Sibat, Maikli (binato) | Sibat | 05 | 1D6+1+½dm | 1 | Pag-impale | 15 | 1H | 15 | Hindi | 12/10 | — | Mura | 2.0 | 1/CR |
+| Sibat, Mahaba (binato) | Sibat | 05 | 1D10+1+½db | 1 | Pag-impale | 15 | 1H | 15 | Hindi | 12/10 | — | Mura | 2.0 | 1/CR |
 
-1. Ang Brawl ay makakapag-parry ng Brawl o Grapple na mga atake (tingnan ang kakayahang Brawl).  
-2. Tingnan ang kakayahang Grapple.  
-3. Ang Grapple ay makakapag-parry ng Brawl o Grapple na mga atake (tingnan ang kakayahang Grapple).  
-4. Tingnan ang **Entangling**.  
-5. Ang malfunction ng net ay nangangahulugang ito ay nakabuhol, nangangailangan ng buong round at matagumpay na Mahirap na roll ng Agility upang mabuhol.  
-6. Tingnan ang **Apoy (Fire)**.  
-7. Ang malfunction ay nangangahulugang ang sulo ay namatay.  
-8. Ang mga blowgun dart ay kadalasang nilalason (tingnan ang **Mga Lason**).  
-9. Ang isang blowgun ay may 4 na hit point at ang mga blowgun dart ay may 0 o 1 hit point bawat isa.  
-10. Kung ihahagis ng gumagamit ang boomerang upang bumalik, gumawa ng roll ng Agility upang mahuli ito sa susunod na round. Kung naghahagis ng maraming boomerang, ang rate ng atake ay 1 bawat round.  
-11. Ang mga dart ay kadalasang nilalason (tingnan ang **Mga Lason**).  
-12. Ang malfunction ng net ay nangangahulugang ito ay nakabuhol, nangangailangan ng buong round at matagumpay na Mahirap na roll ng Agility upang mabuhol.  
-13. Ang isang sling ay may 2 hit point at ang isang sling stone ay may 12 hit point (lead o bato).  
-14. Ang unang numero ay ang timbang ng sling; ang timbang sa parentesis ay ang bawat sling stone.
+1. Ang Suntukan ay maaaring mag-*parry* sa mga atake ng Suntukan o Grapple (tingnan ang kasanayang Suntukan).
+2. Tingnan ang kasanayang Grapple.
+3. Ang Grapple ay maaaring mag-*parry* sa mga atake ng Suntukan o Grapple (tingnan ang kasanayang Grapple).
+4. Tingnan ang **Pagpulupot**.
+5. Ang isang *malfunction* sa lambat ay nangangahulugang ito ay nabuhol, na nangangailangan ng isang buong *round* at matagumpay na Mahirap na *Agility roll* upang matanggal ang buhol.
+6. Tingnan ang **Apoy**.
+7. Ang *malfunction* ay nangangahulugang namatay ang sulo.
+8. Ang mga *dart* ng *blowgun* ay kadalasang may lason (tingnan ang **Mga Lason**).
+9. Ang isang *blowgun* ay may 4 na *hit points* at ang bawat *dart* ng *blowgun* ay may 0 o 1 *hit point*.
+10. Kung ibabato ng gumagamit ang *boomerang* para bumalik, gumawa ng *Agility roll* para mahuli ito sa susunod na *round*. Kung nagbabato ng maraming *boomerang*, ang antas ng atake ay 1 bawat *round*.
+11. Ang mga *dart* ay madalas na may lason (tingnan ang **Mga Lason**).
+12. Ang isang *malfunction* sa lambat ay nangangahulugang ito ay nabuhol, na nangangailangan ng isang buong *round* at matagumpay na Mahirap na *Agility roll* upang matanggal ang buhol.
+13. Ang *sling* ay may 2 *hit points* at ang batong pang-*sling* ay may 12 *hit points* (tingga o bato).
+14. Ang unang numero ay ang timbang ng *sling*; ang timbang sa loob ng panaklong ay ang bawat batong pang-*sling*.
 
-##### Mga Makasaysayang Armas sa Melee
+##### Mga Historikong Armas na Melee
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Saklaw | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Saklaw | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Axe, Battle | Axe | 15 | 1D8+2+dm | 1 | Bleeding | Medium | 1H | 15 | Yes | 9/9 | — | Average | 1.0 |
-| Axe, Great | Axe | 15 | 2D6+2+dm | 1 | Bleeding | Medium | 2H | 15 | Yes | 11/9 | — | Average | 2.0 |
-| Axe, Wood | Axe | 15 | 1D8+2+dm | 1 | Bleeding | Medium | 2H | 20 | Yes | 8/7 | — | Inexpensive | 1.5 |
-| Blackjack | Hand | 25 | 1D8+dm | 1 | Crushing | Short | 1H | 10 | No | 7/7 | — | Inexpensive | 0.2 |
-| Cestus | Hand | 25 | 1D3+2+dm | 1 | Crushing | Short | 1H | 10 | Yes | 11/7 | — | Average | 0.1 |
-| Claw | Hand | 25 | 1D4+1+dm | 1 | Bleeding | Short | 1H | 10 | Yes | 9/9 | — | Average | 0.1 |
-| Dagger | Dagger | 25 | 1D4+2+dm | 1 | Impaling | Short | 1H | 15 | Yes | 4/4 | — | Average | 0.5 |
-| Flail | Flail | 10 | 1D6+dm | 1 | Crushing | Medium | 1H | 7 | Yes | 7/6 | — | Average | 2.0 |
-| Flail, Morningstar | Flail | 10 | 1D10+1+dm | 1 | Crushing | Medium | 2H | 12 | Yes | 11/7 | — | Average | 2.0 |
-| Garrote | Hand | 15 | Special1 | 1 | — | Short | 2H | 1 | No | 8/12 | — | Inexpensive | 0.1 |
-| Gauntlet, Armored | Hand | 25 | 1D3+1+dm | 1 | Crushing | Short | 1H | 7 | Yes | 7/5 | — | Average | As armor |
-| Halberd | Polearm | 15 | 3D6+dm | 1 | Bleeding | Long | 2H | 25 | Yes | 13/9 | — | Average | 3.0 |
-| Hammer | Hammer | 25 | 1D6+dm | 1 | Crushing | Medium | 1H | 15 | Yes | 9/7 | — | Inexpensive | 1.5 |
-| Hammer, Great | Hammer | 25 | 1D10+3+dm | 1 | Crushing | Long | 2H | 15 | Yes | 9/9 | — | Average | 2.5 |
-| Hammer, Sledge | Hammer | 20 | 2D6+2+dm | 1 | Crushing | Medium | 2H | 15 | Yes | 11/7 | — | Inexpensive | 2.0 |
-| Hammer, War | Hammer | 25 | 1D6+2+dm | 1 | Crushing | Medium | 1H | 20 | Yes | 11/9 | — | Average | 2.0 |
-| Katana | Sword | 15 | 1D10+1+dm2 | 1 | Bleeding | Medium | 1H o 2H | 15 | Yes | 11/11 | — | Expensive | 1.5 |
-| Knife | Dagger | 25 | 1D3+1+dm | 1 | Impaling | Short | 1H | 15 | Yes | 4/4 | — | Inexpensive | 0.5 |
-| Lance | Spear | 15 | 1D8+1+dm | 1 | Impaling3 | Long | 1H | 15 | Yes | 9/8 | — | Inexpensive | 3.5 |
-| Mace, Heavy | Mace | 25 | 1D8+2+dm | 1 | Crushing | Medium | 2H | 20 | Yes | 14/9 | — | Average | 2.5 |
-| Mace, Light | Mace | 25 | 1D6+2+dm | 1 | Crushing | Medium | 1H | 20 | Yes | 7/7 | — | Average | 1.0 |
-| Maul, War | Hammer | 25 | 1D10+2+dm | 1 | Crushing | Medium | 2H | 20 | Yes | 13/7 | — | Average | 2.5 |
-| Naginata | Polearm | 05 | 2d6+2+dm | 1 | Bleeding | Long | 2H | 15 | Yes | 7/11 | — | Expensive | 2.0 |
-| Pike | Polearm | 15 | 1d10+2+dm | 1 | Impaling | Long | 2H | 15 | Yes | 11/7 | — | Inexpensive | 3.5 |
-| Rapier | Sword | 15 | 1D6+1+dm | 1 | Impaling | Medium | 1H | 15 | Yes | 7/13 | — | Expensive | 1.0 |
-| Saber | Sword | 15 | 1D8+1+dm | 1 | Bleeding | Medium | 1H | 20 | Yes | 7/11 | — | Average | 1.5 |
-| Sai | Dagger | 10 | 1D6+dm | 1 | Crushing4 | Medium | 1H | 20 | Yes | 5/11 | — | Inexpensive | 1.0 |
-| Scimitar | Sword | 15 | 1D8+1+dm | 1 | Bleeding | Medium | 1H | 19 | Yes | 8/8 | — | Average | 1.5 |
-| Scythe | Improvised | 05 | 2D6+1+dm | 1 | Impaling | Long | 2H | 20 | Yes | 12/10 | — | Inexpensive | 2.5 |
-| Sickle | Improvised | 10 | 1D6+1+dm | 1 | Impaling | Medium | 1H | 12 | Yes | 7/9 | — | Inexpensive | 0.5 |
-| Staff, Quarter- | Staff | 25 | 1D8+dm | 1 | Crushing | All | 2H | 20 | Yes | 9/9 | — | Cheap | 1.5 |
-| Staff, Short | Staff | 15 | 1D6+dm | 1 | Crushing | Medium | 1H | 15 | Yes | 7/9 | — | Cheap | 0.5 |
-| Sword Cane | Sword | 15 | 1D6+dm | 1 | Impaling | Medium | 1H | 12 | Yes | 7/11 | — | Expensive | 1.0 |
-| Sword, Bastard | Sword | 10 | 1D10+1+dm5 | 1 | Bleeding | Medium | 1H o 2H | 20 | Yes | 13 o 9/96 | — | Average | 2.0 |
-| Sword, Broad | Sword | 15 | 1D8+1+dm | 1 | Bleeding | Medium | 1H | 20 | Yes | 9/7 | — | Average | 1.5 |
-| Sword, Great | Sword | 05 | 2D8+dm | 1 | Bleeding | Medium/Long | 2H | 18 | Yes | 14/13 | — | Expensive | 3.5 |
-| Sword, Long | Sword | 15 | 1D8+dm | 1 | Bleeding | Medium | 1H | 15 | Yes | 7/9 | — | Average | 1.5 |
-| Sword, Short | Sword | 15 | 1D6+1+dm | 1 | Impaling | Medium | 1H | 20 | Yes | 5/5 | — | Cheap | 1.0 |
-| Trident | Polearm | 15 | 1D6+1+dm | 1 | Impaling | Long | 1H o 2H | 18 | Yes | 9/7 | — | Average | 2.0 |
-| Wakizashi | Sword | 15 | 1D6+1+dm | 1 | Bleeding | Medium | 1H | 13 | Yes | 7/9 | — | Expensive | 1.0 |
-| Whip | Other | 05 | 1D3-1 | 1 | Entangle | Long | 1H | 4 | No | 9/10 | — | Cheap | 0.5 |
+| Palakol, Battle | Palakol | 15 | 1D8+2+dm | 1 | Pagdurugo | Katamtaman | 1H | 15 | Oo | 9/9 | — | Katamtaman | 1.0 |
+| Palakol, Great | Palakol | 15 | 2D6+2+dm | 1 | Pagdurugo | Katamtaman | 2H | 15 | Oo | 11/9 | — | Katamtaman | 2.0 |
+| Palakol, Wood | Palakol | 15 | 1D8+2+dm | 1 | Pagdurugo | Katamtaman | 2H | 20 | Oo | 8/7 | — | Hindi mahal | 1.5 |
+| Blackjack | Kamay | 25 | 1D8+dm | 1 | Pagdurog | Maikli | 1H | 10 | Hindi | 7/7 | — | Hindi mahal | 0.2 |
+| Cestus | Kamay | 25 | 1D3+2+dm | 1 | Pagdurog | Maikli | 1H | 10 | Oo | 11/7 | — | Katamtaman | 0.1 |
+| Claw | Kamay | 25 | 1D4+1+dm | 1 | Pagdurugo | Maikli | 1H | 10 | Oo | 9/9 | — | Katamtaman | 0.1 |
+| Kutsilyo | Dagger | 25 | 1D4+2+dm | 1 | Pag-impale | Maikli | 1H | 15 | Oo | 4/4 | — | Katamtaman | 0.5 |
+| Flail | Flail | 10 | 1D6+dm | 1 | Pagdurog | Katamtaman | 1H | 7 | Oo | 7/6 | — | Katamtaman | 2.0 |
+| Flail, Morningstar | Flail | 10 | 1D10+1+dm | 1 | Pagdurog | Katamtaman | 2H | 12 | Oo | 11/7 | — | Katamtaman | 2.0 |
+| Garrote | Kamay | 15 | Espesyal1 | 1 | — | Maikli | 2H | 1 | Hindi | 8/12 | — | Hindi mahal | 0.1 |
+| Gauntlet, Armored | Kamay | 25 | 1D3+1+dm | 1 | Pagdurog | Maikli | 1H | 7 | Oo | 7/5 | — | Katamtaman | As armor |
+| Halberd | Polearm | 15 | 3D6+dm | 1 | Pagdurugo | Mahaba | 2H | 25 | Oo | 13/9 | — | Katamtaman | 3.0 |
+| Martilyo | Hammer | 25 | 1D6+dm | 1 | Pagdurog | Katamtaman | 1H | 15 | Oo | 9/7 | — | Hindi mahal | 1.5 |
+| Martilyo, Great | Hammer | 25 | 1D10+3+dm | 1 | Pagdurog | Mahaba | 2H | 15 | Oo | 9/9 | — | Katamtaman | 2.5 |
+| Martilyo, Sledge | Hammer | 20 | 2D6+2+dm | 1 | Pagdurog | Katamtaman | 2H | 15 | Oo | 11/7 | — | Hindi mahal | 2.0 |
+| Martilyo, War | Hammer | 25 | 1D6+2+dm | 1 | Pagdurog | Katamtaman | 1H | 20 | Oo | 11/9 | — | Katamtaman | 2.0 |
+| Katana | Sword | 15 | 1D10+1+dm2 | 1 | Pagdurugo | Katamtaman | 1H o 2H | 15 | Oo | 11/11 | — | Mahal | 1.5 |
+| Kutsilyo | Dagger | 25 | 1D3+1+dm | 1 | Pag-impale | Maikli | 1H | 15 | Oo | 4/4 | — | Hindi mahal | 0.5 |
+| Lance | Sibat | 15 | 1D8+1+dm | 1 | Pag-impale3 | Mahaba | 1H | 15 | Oo | 9/8 | — | Hindi mahal | 3.5 |
+| Mace, Heavy | Mace | 25 | 1D8+2+dm | 1 | Pagdurog | Katamtaman | 2H | 20 | Oo | 14/9 | — | Katamtaman | 2.5 |
+| Mace, Light | Mace | 25 | 1D6+2+dm | 1 | Pagdurog | Katamtaman | 1H | 20 | Oo | 7/7 | — | Katamtaman | 1.0 |
+| Maul, War | Hammer | 25 | 1D10+2+dm | 1 | Pagdurog | Katamtaman | 2H | 20 | Oo | 13/7 | — | Katamtaman | 2.5 |
+| Naginata | Polearm | 05 | 2d6+2+dm | 1 | Pagdurugo | Mahaba | 2H | 15 | Oo | 7/11 | — | Mahal | 2.0 |
+| Pike | Polearm | 15 | 1d10+2+dm | 1 | Pag-impale | Mahaba | 2H | 15 | Oo | 11/7 | — | Hindi mahal | 3.5 |
+| Rapier | Sword | 15 | 1D6+1+dm | 1 | Pag-impale | Katamtaman | 1H | 15 | Oo | 7/13 | — | Mahal | 1.0 |
+| Saber | Sword | 15 | 1D8+1+dm | 1 | Pagdurugo | Katamtaman | 1H | 20 | Oo | 7/11 | — | Katamtaman | 1.5 |
+| Sai | Dagger | 10 | 1D6+dm | 1 | Pagdurog4 | Katamtaman | 1H | 20 | Oo | 5/11 | — | Hindi mahal | 1.0 |
+| Scimitar | Sword | 15 | 1D8+1+dm | 1 | Pagdurugo | Katamtaman | 1H | 19 | Oo | 8/8 | — | Katamtaman | 1.5 |
+| Scythe | Improvised | 05 | 2D6+1+dm | 1 | Pag-impale | Mahaba | 2H | 20 | Oo | 12/10 | — | Hindi mahal | 2.5 |
+| Sickle | Improvised | 10 | 1D6+1+dm | 1 | Pag-impale | Katamtaman | 1H | 12 | Oo | 7/9 | — | Hindi mahal | 0.5 |
+| Staff, Quarter- | Staff | 25 | 1D8+dm | 1 | Pagdurog | Lahat | 2H | 20 | Oo | 9/9 | — | Mura | 1.5 |
+| Staff, Short | Staff | 15 | 1D6+dm | 1 | Pagdurog | Katamtaman | 1H | 15 | Oo | 7/9 | — | Mura | 0.5 |
+| Sword Cane | Sword | 15 | 1D6+dm | 1 | Pag-impale | Katamtaman | 1H | 12 | Oo | 7/11 | — | Mahal | 1.0 |
+| Sword, Bastard | Sword | 10 | 1D10+1+dm5 | 1 | Pagdurugo | Katamtaman | 1H o 2H | 20 | Oo | 13 o 9/96 | — | Katamtaman | 2.0 |
+| Sword, Broad | Sword | 15 | 1D8+1+dm | 1 | Pagdurugo | Katamtaman | 1H | 20 | Oo | 9/7 | — | Katamtaman | 1.5 |
+| Sword, Great | Sword | 05 | 2D8+dm | 1 | Pagdurugo | Katamtaman/Mahaba | 2H | 18 | Oo | 14/13 | — | Mahal | 3.5 |
+| Sword, Long | Sword | 15 | 1D8+dm | 1 | Pagdurugo | Katamtaman | 1H | 15 | Oo | 7/9 | — | Katamtaman | 1.5 |
+| Sword, Short | Sword | 15 | 1D6+1+dm | 1 | Pag-impale | Katamtaman | 1H | 20 | Oo | 5/5 | — | Mura | 1.0 |
+| Trident | Polearm | 15 | 1D6+1+dm | 1 | Pag-impale | Mahaba | 1H o 2H | 18 | Oo | 9/7 | — | Katamtaman | 2.0 |
+| Wakizashi | Sword | 15 | 1D6+1+dm | 1 | Pagdurugo | Katamtaman | 1H | 13 | Oo | 7/9 | — | Mahal | 1.0 |
+| Whip | Iba pa | 05 | 1D3-1 | 1 | Pagpulupot | Mahaba | 1H | 4 | Hindi | 9/10 | — | Mura | 0.5 |
 
-1. Tingnan ang **Pagsakal, Pagkalunod, at Asphyxiation**.  
-2. Kapag gumagamit ng katana sa isang kamay, ang damage modifier ay ½ normal.  
-3. Ang mga tournament lance ay karaniwang mapurol, at gumagawa ng mga crushing special.  
-4. Ang mga sai ay tradisyonal na mapurol na armas na ginagamit pangunahin para sa pag-parry at paghampas.  
-5. Kapag gumagamit ng bastard sword sa isang kamay, ang damage modifier ay ½ normal.  
-6. Ang STR requirement ay 13 kapag ginamit sa isang kamay; 9 kapag ginamit sa dalawang kamay.
+1. Tingnan ang **Pagsakal, Pagkalunod, at Asphyxiation**.
+2. Kapag gumagamit ng *katana* nang isang kamay, ang *damage modifier* ay ½ ng normal.
+3. Ang mga *tournament lance* ay karaniwang mapurol, at gumagawa ng mga espesyal na pagdurog.
+4. Ang mga *sai* ay tradisyonal na mapurol na armas na ginagamit pangunahin para sa pag-parry at pagtama.
+5. Kapag gumagamit ng *bastard sword* nang isang kamay, ang *damage modifier* ay ½ ng normal.
+6. Ang kinakailangang LAK ay 13 kapag ginamit nang isang kamay; 9 kapag ginamit nang dalawang kamay.
 
-##### Mga Makasaysayang Armas sa Missile
+##### Mga Historikong Armas na Missile
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc | RF |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Rng | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbalest | Crossbow | 15 | 2D6+4 | 1/3 | Impaling | 90 | 2H | 14 | No | 11/91 | 93–00 | Average | 10.0 (0.5) | 1/4CR |
-| Bow, Composite | Bow | 05 | 1D8+1+½dm | 1 | Impaling | 120 | 2H | 12 | No | 13/9 | — | Average | 0.5 (0.5) | 1/CR |
-| Bow, Long | Bow | 05 | 1D8+1+½dm | 1 | Impaling | 90 | 2H | 10 | No | 11/9 | — | Cheap | 0.5 (0.5) | 1/CR |
-| Crossbow, Heavy | Crossbow | 25 | 2D6+2 | 1/3 | Impaling | 55 | 2H | 18 | No | 13/7 | 97–00 | Average | 8.0 (0.5) | 1/3CR |
-| Crossbow, Light | Crossbow | 25 | 1D6+2 | ½ | Impaling | 40 | 2H | 10 | No | 9/7 | 96–00 | Average | 3.5 (0.5) | 1/2CR |
-| Crossbow, Medium | Crossbow | 25 | 2D4+2 | ½ | Impaling | 50 | 2H | 14 | No | 11/7 | 95–00 | Average | 5.0 (0.5) | 1/2CR |
-| Crossbow, Repeating | Crossbow | 25 | 1D6+2 | 12 | Impaling | 60 | 2H | 12 | No | 9/7 | 91–00 | Expensive | 7.5 (0.5) | 1/CR3 |
-| Knife, Throwing | Missile | 15 | 1d4+½dm | 1 | Impaling | 20 | 1H | 10 | No | /11 | — | Cheap | 0.2 | 1/CR |
-| Shuriken | Missile | 10 | 1D3+½dm | 2 | Impaling | 20 | 1H | 5 | No | /13 | — | Cheap | 0.1 | 1/CR |
+| Arbalest | Crossbow | 15 | 2D6+4 | 1/3 | Pag-impale | 90 | 2H | 14 | Hindi | 11/91 | 93–00 | Katamtaman | 10.0 (0.5) | 1/4CR |
+| Bow, Composite | Bow | 05 | 1D8+1+½dm | 1 | Pag-impale | 120 | 2H | 12 | Hindi | 13/9 | — | Katamtaman | 0.5 (0.5) | 1/CR |
+| Bow, Long | Bow | 05 | 1D8+1+½dm | 1 | Pag-impale | 90 | 2H | 10 | Hindi | 11/9 | — | Mura | 0.5 (0.5) | 1/CR |
+| Crossbow, Heavy | Crossbow | 25 | 2D6+2 | 1/3 | Pag-impale | 55 | 2H | 18 | Hindi | 13/7 | 97–00 | Katamtaman | 8.0 (0.5) | 1/3CR |
+| Crossbow, Light | Crossbow | 25 | 1D6+2 | ½ | Pag-impale | 40 | 2H | 10 | Hindi | 9/7 | 96–00 | Katamtaman | 3.5 (0.5) | 1/2CR |
+| Crossbow, Medium | Crossbow | 25 | 2D4+2 | ½ | Pag-impale | 50 | 2H | 14 | Hindi | 11/7 | 95–00 | Katamtaman | 5.0 (0.5) | 1/2CR |
+| Crossbow, Repeating | Crossbow | 25 | 1D6+2 | 12 | Pag-impale | 60 | 2H | 12 | Hindi | 9/7 | 91–00 | Mahal | 7.5 (0.5) | 1/CR3 |
+| Kutsilyo, Throwing | Missile | 15 | 1d4+½dm | 1 | Pag-impale | 20 | 1H | 10 | Hindi | /11 | — | Mura | 0.2 | 1/CR |
+| Shuriken | Missile | 10 | 1D3+½dm | 2 | Pag-impale | 20 | 1H | 5 | Hindi | /13 | — | Mura | 0.1 | 1/CR |
 
-1. Ang STR requirement na may cranequin (hand-crank) ay 11; STR 15 kapag ginamit nang wala nito.  
-2. May ammo na 12 at tumatagal ng anim na round upang ma-reload nang buo.  
-3. Ang isang repeating crossbow ay may ammo capacity na 6, 8, 10, o 12 bolts. Tumatagal ito ng isang combat round bawat bolt upang ma-reload ang isang repeating crossbow.
+1. Ang kinakailangang LAK gamit ang *cranequin* (hand-crank) ay 11; LAK 15 kapag ginamit nang wala nito.
+2. May bala na 12 at nangangailangan ng anim na *round* para magkarga nang buo.
+3. Ang isang *repeating crossbow* ay may kapasidad ng bala na 6, 8, 10, o 12 *bolt*. Nangangailangan ito ng isang combat *round* bawat *bolt* para ikarga ang isang *repeating crossbow*.
 
-##### Mga Modernong Armas sa Melee
+##### Mga Modernong Armas na Melee
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Saklaw | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Saklaw | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Brass Knuckles | Brawl | Brawl | +2 | 1 | Crushing | Short | 1H | 18 | No | 5/– | — | Cheap | 0.1 |
-| Chainsaw | Improvised | 20 | 2D8 | 1 | Bleeding | Medium | 2H | 20 | No | 11/11 | 97–00 | Average | 8.0 |
-| Knife, Butcher | Dagger | 25 | 1D6+dm | 1 | Impaling | Short | 1H | 12 | No | 5/7 | — | Cheap | 0.3 |
-| Knife, Pocket | Dagger | 25 | 1D4+dm | 1 | Impaling | Short | 1H | 9 | No | –/5 | — | Cheap | 0.1 |
-| Knife, Switchblade | Dagger | 25 | 1D4+dm | 1 | Impaling | Short | 1H | 7 | No | –/5 | 99–00 | Cheap | 0.1 |
-| Taser, Contact | Other | Brawl | Special1 | 1 | — | Short | 1H | 7 | No | 5/7 | 97–00 | Cheap | 0.3 |
+| Brass Knuckles | Suntukan | Suntukan | +2 | 1 | Pagdurog | Maikli | 1H | 18 | Hindi | 5/– | — | Mura | 0.1 |
+| Chainsaw | Improvised | 20 | 2D8 | 1 | Pagdurugo | Katamtaman | 2H | 20 | Hindi | 11/11 | 97–00 | Katamtaman | 8.0 |
+| Kutsilyo, Butcher | Dagger | 25 | 1D6+dm | 1 | Pag-impale | Maikli | 1H | 12 | Hindi | 5/7 | — | Mura | 0.3 |
+| Kutsilyo, Pocket | Dagger | 25 | 1D4+dm | 1 | Pag-impale | Maikli | 1H | 9 | Hindi | –/5 | — | Mura | 0.1 |
+| Kutsilyo, Switchblade | Dagger | 25 | 1D4+dm | 1 | Pag-impale | Maikli | 1H | 7 | Hindi | –/5 | 99–00 | Mura | 0.1 |
+| Taser, Contact | Iba pa | Suntukan | Espesyal1 | 1 | — | Maikli | 1H | 7 | Hindi | 5/7 | 97–00 | Mura | 0.3 |
 
-##### Mga Modernong Armas sa Missile
+##### Mga Modernong Armas na Missile
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc | RF |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Rng | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Flamethrower | Other | 05 | 2D6+fire3 | 1 | — | 25 | 2H | 6 | No | 10/8 | 93–00 | 6 | Expensive | 8.0 |
-| Gun, Machine | Machine Gun | 15 | 2D6+4 | 1, 3, o burst | Impaling | 90 | 2H | 11 | No | 9/5 | 00 | 40 | Expensive | 3.0 |
-| Gun, Mini- | Machine Gun | 15 | 2D6+4 | 33 | Impaling | 400 | 2H | 14 | No | 16/12 | 98–00 | 4,000 | Expensive | 6.0 |
-| Gun, Submachine | Submachine Gun | 15 | 1D8 | 2 o burst | Impaling | 40 | 1H o 2H | 8 | No | 9/6 | 98–00 | 32 | Expensive | 2.0 |
-| Pistol, Derringer | Pistol | 20 | 1D6 | 1 | Impaling | 3 | 1H | 5 | No | 5/5 | 00 | 1 o 2 | Average | 0.3 |
-| Pistol, Flintlock | Pistol | 20 | 1D6+1 | ¼ | Impaling | 10 | 1H | 8 | No | 7/5 | 95–00 | 1 | Average | 1.0 |
-| Pistol, Heavy | Pistol | 20 | 1D10+2 | 1 | Impaling | 15 | 1H | 8 | No | 11/7 | 00 | 8 | Average | 1.5 |
-| Pistol, Light | Pistol | 20 | 1D6 | 3 | Impaling | 10 | 1H | 6 | No | 5/5 | 00 | 8 | Average | 0.7 |
-| Pistol, Medium | Pistol | 20 | 1D8 | 2 | Impaling | 20 | 1H | 8 | No | 7/5 | 98–00 | 12 | Average | 1.0 |
-| Revolver, Heavy | Revolver | 20 | 1D10+2 | 1 | Impaling | 20 | 1H | 14 | No | 11/5 | 00 | 6 | Average | 1.5 |
-| Revolver, Light | Revolver | 20 | 1D6 | 2 | Impaling | 15 | 1H | 10 | No | 5/5 | 00 | 6 | Average | 0.7 |
-| Revolver, Medium | Revolver | 20 | 1D8 | 1 | Impaling | 25 | 1H | 12 | No | 7/5 | 00 | 6 | Average | 1.0 |
-| Rifle, Assault | Rifle | 25 | 2D6+2 | 2 o burst | Impaling | 90 | 2H | 12 | No | 10/5 | 00 | 30 | Expensive | 3.5 |
-| Rifle, Bolt-action | Rifle | 25 | 2D6+4 | ½ | Impaling | 110 | 2H | 12 | No | 7/5 | 00 | 5 | Average | 3.0 |
-| Rifle, Elephant | Rifle | 15 | 3D6+4 | 1 o 2 | Impaling | 100 | 2H | 12 | No | 13/5 | 00 | 2 | Average | 4.5 |
-| Musket | Rifle | 25 | 1D10+4 | ¼ | Impaling | 60 | 2H | 12 | No | 9/5 | 95–00 | 1 | Average | 3.5 |
-| Rifle, Sniper | Rifle | 204 | 2D10+4 | 1 | Impaling | 2505 | 2H | 10 | No | 12/7 | 98–00 | 11 | Expensive | 4.0 |
-| Rifle, Sporting | Rifle | 25 | 2D6 | 1 | Impaling | 80 | 2H | 12 | No | 7/5 | 00 | 6 | Average | 3.0 |
-| Shotgun, Automatic | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 o 2 | Impaling | 10/20/50 | 2H | 14 | No | 11/5 | 00 | 8 | Expensive | 4.0 |
-| Shotgun, Double-barrel | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 o 2 | Impaling | 10/20/50 | 2H | 12 | No | 9/5 | 00 | 2 | Average | 3.5 |
-| Shotgun, Sawed-off | Shotgun | 30 | 4D6/1D67 | 1 o 2 | Impaling | 5/20/— | 1H | 14 | No | 9/5 | 00 | 1 o 2 | Average | 2.0 |
-| Shotgun, Sporting | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 | Impaling | 10/20/50 | 2H | 10 | No | 7/5 | 00 | 5 | Average | 3.0 |
-| Spray, Chemical | Other | 25 | Special8 | 1 | — | 2 | 1H | 2 | No | 3/7 | 91–00 | 6 | Average | 0.2 |
-| Taser, Dart | Other | 20 | Special1 | ½ | — | DEX | 1H | 8 | No | 3/7 | 95–00 | 1 | Expensive | 0.5 |
+| Flamethrower | Iba pa | 05 | 2D6+apoy3 | 1 | — | 25 | 2H | 6 | Hindi | 10/8 | 93–00 | 6 | Mahal | 8.0 |
+| Gun, Machine | Machine Gun | 15 | 2D6+4 | 1, 3, o burst | Pag-impale | 90 | 2H | 11 | Hindi | 9/5 | 00 | 40 | Mahal | 3.0 |
+| Gun, Mini- | Machine Gun | 15 | 2D6+4 | 33 | Pag-impale | 400 | 2H | 14 | Hindi | 16/12 | 98–00 | 4,000 | Mahal | 6.0 |
+| Gun, Submachine | Submachine Gun | 15 | 1D8 | 2 o burst | Pag-impale | 40 | 1H o 2H | 8 | Hindi | 9/6 | 98–00 | 32 | Mahal | 2.0 |
+| Pistol, Derringer | Pistol | 20 | 1D6 | 1 | Pag-impale | 3 | 1H | 5 | Hindi | 5/5 | 00 | 1 o 2 | Katamtaman | 0.3 |
+| Pistol, Flintlock | Pistol | 20 | 1D6+1 | ¼ | Pag-impale | 10 | 1H | 8 | Hindi | 7/5 | 95–00 | 1 | Katamtaman | 1.0 |
+| Pistol, Heavy | Pistol | 20 | 1D10+2 | 1 | Pag-impale | 15 | 1H | 8 | Hindi | 11/7 | 00 | 8 | Katamtaman | 1.5 |
+| Pistol, Light | Pistol | 20 | 1D6 | 3 | Pag-impale | 10 | 1H | 6 | Hindi | 5/5 | 00 | 8 | Katamtaman | 0.7 |
+| Pistol, Medium | Pistol | 20 | 1D8 | 2 | Pag-impale | 20 | 1H | 8 | Hindi | 7/5 | 98–00 | 12 | Katamtaman | 1.0 |
+| Revolver, Heavy | Revolver | 20 | 1D10+2 | 1 | Pag-impale | 20 | 1H | 14 | Hindi | 11/5 | 00 | 6 | Katamtaman | 1.5 |
+| Revolver, Light | Revolver | 20 | 1D6 | 2 | Pag-impale | 15 | 1H | 10 | Hindi | 5/5 | 00 | 6 | Katamtaman | 0.7 |
+| Revolver, Medium | Revolver | 20 | 1D8 | 1 | Pag-impale | 25 | 1H | 12 | Hindi | 7/5 | 00 | 6 | Katamtaman | 1.0 |
+| Rifle, Assault | Rifle | 25 | 2D6+2 | 2 o burst | Pag-impale | 90 | 2H | 12 | Hindi | 10/5 | 00 | 30 | Mahal | 3.5 |
+| Rifle, Bolt-action | Rifle | 25 | 2D6+4 | ½ | Pag-impale | 110 | 2H | 12 | Hindi | 7/5 | 00 | 5 | Katamtaman | 3.0 |
+| Rifle, Elephant | Rifle | 15 | 3D6+4 | 1 o 2 | Pag-impale | 100 | 2H | 12 | Hindi | 13/5 | 00 | 2 | Katamtaman | 4.5 |
+| Musket | Rifle | 25 | 1D10+4 | ¼ | Pag-impale | 60 | 2H | 12 | Hindi | 9/5 | 95–00 | 1 | Katamtaman | 3.5 |
+| Rifle, Sniper | Rifle | 204 | 2D10+4 | 1 | Pag-impale | 2505 | 2H | 10 | Hindi | 12/7 | 98–00 | 11 | Mahal | 4.0 |
+| Rifle, Sporting | Rifle | 25 | 2D6 | 1 | Pag-impale | 80 | 2H | 12 | Hindi | 7/5 | 00 | 6 | Katamtaman | 3.0 |
+| Shotgun, Automatic | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 o 2 | Pag-impale | 10/20/50 | 2H | 14 | Hindi | 11/5 | 00 | 8 | Mahal | 4.0 |
+| Shotgun, Double-barrel | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 o 2 | Pag-impale | 10/20/50 | 2H | 12 | Hindi | 9/5 | 00 | 2 | Katamtaman | 3.5 |
+| Shotgun, Sawed-off | Shotgun | 30 | 4D6/1D67 | 1 o 2 | Pag-impale | 5/20/— | 1H | 14 | Hindi | 9/5 | 00 | 1 o 2 | Katamtaman | 2.0 |
+| Shotgun, Sporting | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 | Pag-impale | 10/20/50 | 2H | 10 | Hindi | 7/5 | 00 | 5 | Katamtaman | 3.0 |
+| Spray, Chemical | Iba pa | 25 | Espesyal8 | 1 | — | 2 | 1H | 2 | Hindi | 3/7 | 91–00 | 6 | Katamtaman | 0.2 |
+| Taser, Dart | Iba pa | 20 | Espesyal1 | ½ | — | KAD | 1H | 8 | Hindi | 3/7 | 95–00 | 1 | Mahal | 0.5 |
 
-1. Stuns target (tingnan ang **Stunning**).  
-2. Maraming modernong baril ang may burst fire capabilities (tingnan ang **Autofire**).  
-3. Kung ang isang target ay tinamaan ng flamethrower, ito ay nagliliyab at tumatanggap ng 1D6+2 puntos bawat round sa dagdag na pinsala hanggang sa maapula ang apoy (tingnan ang **Apoy at Init**).  
-4. Ang mga sniper rifle ay kadalasang nilagyan ng bipod, na nagdodoble sa pagkakataon; nang wala ito (o katulad na stabilizer), baguhin ang base chance ng -10%.  
-5. Ang mga sniper rifle ay kadalasang nilagyan ng telescopic scope na nagdodoble sa kanilang epektibong saklaw; kung walang scope, ang saklaw ay 125 metro.  
-6. Ang mga shotgun ay gumagawa ng pinsala ayon sa saklaw; ang unang increment ay ang unang damage dice, ang pangalawa ay ang pangalawa, atbp.  
-7. Ang mga shotgun ay gumagawa ng pinsala ayon sa saklaw; ang unang increment ay ang unang damage dice, ang pangalawa ay ang pangalawa, atbp. Ang mga sawed-off na shotgun ay hindi epektibo sa kabila ng 20 yards.  
-8. Ang chemical spray ay isang low-POT na contact poison (tingnan ang **Mga Lason**). Ang isang halimbawang uri ng chemical spray ay maaaring may 2D6+12 POT, instant na epekto, at magdulot ng pagkabulag kung ang target ay nabigo sa resistance roll vs. CON. Mahirap na magpaputok sa mga mata ng target, ngunit Easy sa point-blank range, na ginagawang hindi apektado ang pagkakataon.
+1. Nakaka-*stun* ng target (tingnan ang **Pag-stun**).
+2. Maraming modernong *firearm* ang may kakayahang mag-*burst fire* (tingnan ang **Autofire**).
+3. Kung ang target ay tinamaan ng *flamethrower*, ito ay nagniningas at nakakakuha ng 1D6+2 *points* bawat *round* sa karagdagang pinsala hanggang sa maapula ang apoy (tingnan ang **Apoy at Init**).
+4. Ang mga *sniper rifle* ay karaniwang may *bipod*, na nagdodoble ng pagkakataon; kung walang *bipod* (o katulad na *stabilizer*), baguhin ang *base chance* ng -10%.
+5. Ang mga *sniper rifle* ay karaniwang may *telescopic scope* na nagdodoble ng kanilang mabisang saklaw; kung walang *scope*, ang saklaw ay 125 metro.
+6. Ang mga *shotgun* ay nagdudulot ng pinsala ayon sa saklaw; ang unang pagtaas ay ang unang *damage dice*, ang pangalawa ay ang pangalawa, at iba pa.
+7. Ang mga *shotgun* ay nagdudulot ng pinsala ayon sa saklaw; ang unang pagtaas ay ang unang *damage dice*, ang pangalawa ay ang pangalawa, at iba pa. Ang mga *sawed-off shotgun* ay hindi mabisa lampas sa 20 yarda.
+8. Ang *chemical spray* ay isang *contact poison* na may mababang POT (tingnan ang **Mga Lason**). Ang halimbawa ng uri ng *chemical spray* ay maaaring may 2D6+12 POT, agarang epekto, at nagdudulot ng pagkabulag kung ang target ay nabigo sa isang *resistance roll* laban sa TIB. Mahirap (*Difficult*) na bumaril sa mga mata ng target, ngunit Madali (*Easy*) sa *point-blank range*, na ginagawang hindi nababago ang pagkakataon.
 
-##### Mga Advanced na Armas sa Melee
+##### Mga Advanced na Armas na Melee
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Saklaw | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Saklaw | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Axe, Vibro- | Polearm | 10% | 2D8+4+dm | 1 | Bleeding | Medium | 2H | 20 | Yes | 11/5 | 98–00 | Average | 3.0 |
-| Knife, Vibro- | Dagger | 25% | 2D4+2+dm | 1 | Bleeding | Short | 1H | 16 | Yes | 7/7 | 99–00 | Average | 0.5 |
-| Lance, Stun | Staff | 15% | 1D6+dm+stun1 | 1 | Knockback | Long | 2H | 18 | Yes | 9/5 | 98–00 | Average | 2.5 |
-| Sword, Energy | Sword | 10% | 2D10+dm2 | 1 | Impaling | Medium | 1H | 30 | Yes | 11/15 | 99–00 | Priceless | 1.0 |
-| Sword, Monofilament | Sword | 05% | 3D122 | 1 | Bleeding | Medium | 1H | 12 | No | 5/15 | 91–003 | Expensive | 0.5 |
-| Sword, Vibro- | Sword | 20% | 2D6+3+dm | 1 | Bleeding | Medium | 1H | 18 | Yes | 9/7 | 97–00 | Expensive | 1.5 |
-| Whip, Shockv | Other | 05% | 1+½db+stun1 | 1 | Entangle | Long | 1H | 10 | No | 7/9 | 97-00 | Average | 1.0 |
+| Palakol, Vibro- | Polearm | 10% | 2D8+4+dm | 1 | Pagdurugo | Katamtaman | 2H | 20 | Oo | 11/5 | 98–00 | Katamtaman | 3.0 |
+| Kutsilyo, Vibro- | Dagger | 25% | 2D4+2+dm | 1 | Pagdurugo | Maikli | 1H | 16 | Oo | 7/7 | 99–00 | Katamtaman | 0.5 |
+| Sibat, Stun | Staff | 15% | 1D6+dm+stun1 | 1 | Knockback | Mahaba | 2H | 18 | Oo | 9/5 | 98–00 | Katamtaman | 2.5 |
+| Espada, Energy | Sword | 10% | 2D10+dm2 | 1 | Pag-impale | Katamtaman | 1H | 30 | Oo | 11/15 | 99–00 | Hindi matatawaran | 1.0 |
+| Espada, Monofilament | Sword | 05% | 3D122 | 1 | Pagdurugo | Katamtaman | 1H | 12 | Hindi | 5/15 | 91–003 | Mahal | 0.5 |
+| Espada, Vibro- | Sword | 20% | 2D6+3+dm | 1 | Pagdurugo | Katamtaman | 1H | 18 | Oo | 9/7 | 97–00 | Mahal | 1.5 |
+| Latigo, Shockv | Iba pa | 05% | 1+½db+stun1 | 1 | Pagpulupot | Mahaba | 1H | 10 | Hindi | 7/9 | 97-00 | Katamtaman | 1.0 |
 
-##### Mga Advanced na Armas sa Missile
+##### Mga Advanced na Armas na Missile
 
-| Armas | Kakayahan | Base | Dmg | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc | RF |
+| Armas | Kasanayan | Base | Dmg | Attk | Espesyal | Rng | Kamay | HP | Parry | LAK/KAD | Mal | Halaga | SUK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Pistol, Blaster | Pistol, Energy | 15% | 1D8+2 | 2 | Impaling | 15 | 1H | 14 | No | 7/5 | 99–00 | 30 | Average | 1.0 |
-| Pistol, Disintegrator | Pistol, Energy | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | No | 7/5 | 96–00 | 10 | Expensive | 1.0 |
-| Pistol, EM Pulse | Pistol, Energy | 20% | 2D6 vs. tech5 | 1 | — | 15 | 1H | 12 | No | 7/5 | 98–00 | 20 | Average | 1.0 |
-| Pistol, Flechette | Pistol, Energy | 05% | 2D46 | 1 o burst7 | Impaling | 15 | 1H | 14 | No | 5/7 | 99–00 | 6 | Average | 0.8 |
-| Pistol, Laser | Pistol, Energy | 20% | 1D8 | 3 | Impaling | 30 | 1H | 14 | No | 5/5 | 99–00 | 20 | Average | 1.0 |
-| Pistol, Plasma | Pistol, Energy | 15% | 2D10+2 | 1 | Impaling | 20 | 1H | 18 | No | 7/5 | 98–00 | 12 | Expensive | 1.2 |
-| Pistol, Shock | Pistol, Energy | 15% | 2D4 | 1 | Knockback | 15 | 1H | 12 | No | 5/5 | 98–00 | 12 | Average | 1.0 |
-| Pistol, Stun | Pistol, Energy | 25% | 2D6 stun2 | 1 | Knockback | 15 | 1H | 16 | No | 5/5 | 00 | 12 | Average | 1.0 |
-| Rifle, Blaster | Rifle, Energy | 10% | 2D8+3 | 2 | Impaling | 60 | 2H | 20 | No | 9/5 | 99–00 | 20 | Average | 1.0 |
-| Rifle, Disintegrator | Rifle, Energy | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | No | 9/7 | 96–00 | 10 | Expensive | 2.0 |
-| Rifle, EM Pulse | Rifle, Energy | 25% | 3D8 vs. tech5 | 1 | — | 75 | 2H | 18 | No | 7/5 | 98–00 | 12 | Average | 2.0 |
-| Rifle, Laser | Rifle, Energy | 15% | 2D8 | 2 | Impaling | 100 | 2H | 20 | No | 7/7 | 99–00 | 20 | Average | 1.5 |
-| Rifle, Plasma | Rifle, Energy | 10% | 2D10+4 | 1 | Impaling | 70 | 2H | 18 | No | 9/7 | 98–00 | 16 | Expensive | 2.0 |
-| Rifle, Shock | Rifle, Energy | 10% | 3D8 | 1 | Knockback | 50 | 2H | 18 | No | 9/7 | 98–00 | 12 | Average | 1.5 |
-| Rifle, Sonic | Rifle, Energy | 10% | 1D3+28 | 1 | Knockback | 50 | 2H | 16 | No | 7/7 | 97–00 | 36 | Average | 2.0 |
-| Rifle, Stun | Rifle, Energy | 20% | 2D8 stun9 | 1 | Knockback | 50 | 2H | 22 | No | 7/5 | 00 | 24 | Average | 1.5 |
+| Pistol, Blaster | Pistol, Energy | 15% | 1D8+2 | 2 | Pag-impale | 15 | 1H | 14 | Hindi | 7/5 | 99–00 | 30 | Katamtaman | 1.0 |
+| Pistol, Disintegrator | Pistol, Energy | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Hindi | 7/5 | 96–00 | 10 | Mahal | 1.0 |
+| Pistol, EM Pulse | Pistol, Energy | 20% | 2D6 vs. tech5 | 1 | — | 15 | 1H | 12 | Hindi | 7/5 | 98–00 | 20 | Katamtaman | 1.0 |
+| Pistol, Flechette | Pistol, Energy | 05% | 2D46 | 1 o burst7 | Pag-impale | 15 | 1H | 14 | Hindi | 5/7 | 99–00 | 6 | Katamtaman | 0.8 |
+| Pistol, Laser | Pistol, Energy | 20% | 1D8 | 3 | Pag-impale | 30 | 1H | 14 | Hindi | 5/5 | 99–00 | 20 | Katamtaman | 1.0 |
+| Pistol, Plasma | Pistol, Energy | 15% | 2D10+2 | 1 | Pag-impale | 20 | 1H | 18 | Hindi | 7/5 | 98–00 | 12 | Mahal | 1.2 |
+| Pistol, Shock | Pistol, Energy | 15% | 2D4 | 1 | Knockback | 15 | 1H | 12 | Hindi | 5/5 | 98–00 | 12 | Katamtaman | 1.0 |
+| Pistol, Stun | Pistol, Energy | 25% | 2D6 stun2 | 1 | Knockback | 15 | 1H | 16 | Hindi | 5/5 | 00 | 12 | Katamtaman | 1.0 |
+| Rifle, Blaster | Rifle, Energy | 10% | 2D8+3 | 2 | Pag-impale | 60 | 2H | 20 | Hindi | 9/5 | 99–00 | 20 | Katamtaman | 1.0 |
+| Rifle, Disintegrator | Rifle, Energy | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Hindi | 9/7 | 96–00 | 10 | Mahal | 2.0 |
+| Rifle, EM Pulse | Rifle, Energy | 25% | 3D8 vs. tech5 | 1 | — | 75 | 2H | 18 | Hindi | 7/5 | 98–00 | 12 | Katamtaman | 2.0 |
+| Rifle, Laser | Rifle, Energy | 15% | 2D8 | 2 | Pag-impale | 100 | 2H | 20 | Hindi | 7/7 | 99–00 | 20 | Katamtaman | 1.5 |
+| Rifle, Plasma | Rifle, Energy | 10% | 2D10+4 | 1 | Pag-impale | 70 | 2H | 18 | Hindi | 9/7 | 98–00 | 16 | Mahal | 2.0 |
+| Rifle, Shock | Rifle, Energy | 10% | 3D8 | 1 | Knockback | 50 | 2H | 18 | Hindi | 9/7 | 98–00 | 12 | Katamtaman | 1.5 |
+| Rifle, Sonic | Rifle, Energy | 10% | 1D3+28 | 1 | Knockback | 50 | 2H | 16 | Hindi | 7/7 | 97–00 | 36 | Katamtaman | 2.0 |
+| Rifle, Stun | Rifle, Energy | 20% | 2D8 stun9 | 1 | Knockback | 50 | 2H | 22 | Hindi | 7/5 | 00 | 24 | Katamtaman | 1.5 |
 
-1. I-roll ang pinsala at itapat ito vs. CON ng target sa isang resistance roll. Kung matalo ang target, sila ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**).  
-2. Ang epektibong armor value ng target laban sa armas na ito ay nahahati sa dalawa (round up).  
-3. Kung mag-fumble ka ng atake gamit ang monofilament sword, gumawa ng Mahirap na roll ng Agility upang maiwasan ang tamaan ang sarili. Kung mabigo ka, ang iyong atake ay tumatama sa iyo bilang karagdagan sa roll sa melee weapon fumble table. Ang pinsala ay hindi isinasama ang ½ armor value (round up).  
-4. Maraming missile weapon ang may burst fire capabilities (tingnan ang **Autofire**).  
-5. Kung ang target ay isang robot, makina, o gumagamit ng electromagnetic na enerhiya, i-roll ang pinsala at gumawa ng resistance roll vs. CON ng target. Kung matagumpay, ang device ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**). Kung ang pinsala ay mas mataas kaysa sa hit point ng target, ito ay mawawalan ng malay (‘unconscious’). Ang pinsala mula sa mga EMP weapon ay pansamantala, at ang nawalang hit point ay maibabalik gamit ang isang roll ng Repair.  
-6. Laban sa isang kalaban na may hardened na baluti (metal, plastic, o mga plate), ang flechette na pistola ay gumagawa lamang ng ½ pinsala (round up).  
-7. Ang flechette na pistola ay nagpapaputok ng mga cluster ng flechette, alinman sa isang ‘shot’ o isang mahabang burst na nag-eempty ng magazine. Ang bawat shot ay isang solong atake, na gumagawa ng 2D4 na pinsala.  
-8. Ang isang sonic na riple ay nakakasira sa mga buhay na target bawat combat round na matagumpay itong tumama sa kanila. Laban sa isang target na hindi buhay, ang pinsala bawat round ay ini-roll sa isang resistance roll vs. CON, armor value, o hit point ng target (gamemaster choice). Kung matalo ang target, ito ay mababasag o mapipinsala at hindi gagana.  
-9. I-roll ang pinsala at itapat ito vs. CON ng target sa isang resistance roll. Kung matagumpay ang target, sila ay tumatanggap ng pinakamababang pinsala (2) sa halip na ang rolled na pinsala. Kung matalo ang target, sila ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**).
+1. I-roll ang *damage* at labanan ito laban sa TIB ng target sa isang *resistance roll*. Kung matalo ang target, sila ay ma-*stun* sa loob ng 1D3+1 *rounds* (tingnan ang **Pag-stun**).
+2. Ang mabisang halaga ng armor ng target laban sa armas na ito ay kalahati (i-round up).
+3. Kung nag-*fumble* ka ng atake gamit ang *monofilament sword*, gumawa ng Mahirap na *Agility roll* para maiwasang matamaan ang sarili. Kung nabigo ka, ang iyong atake ay tatama sa iyo bilang karagdagan sa *roll* sa *melee weapon fumble table*. Ang *damage* ay binabalewala ang ½ ng halaga ng armor (i-round up).
+4. Maraming armas na *missile* ang may kakayahang mag-*burst fire* (tingnan ang **Autofire**).
+5. Kung ang target ay isang robot, makina, o gumagamit ng *electromagnetic energy*, i-roll ang *damage* at gumawa ng *resistance roll* laban sa TIB ng target. Kung matagumpay, ang aparato ay ma-*stun* sa loob ng 1D3+1 *rounds* (tingnan ang **Pag-stun**). Kung ang *damage* ay mas mataas kaysa sa *hit points* ng target, sila ay mawawalan ng malay (*unconscious*). Ang *damage* mula sa mga EMP na armas ay pansamantala, at ang mga nawalang *hit points* ay maaaring maibalik gamit ang isang *Repair roll*.
+6. Laban sa isang kaaway na may matigas na armor (metal, plastik, o mga *plate*), ang *flechette pistol* ay nagdudulot lamang ng ½ pinsala (i-round up).
+7. Ang *flechette pistol* ay nagpaputok ng mga kumpol ng *flechette*, alinman sa isang 'putok' o isang mahabang *burst* na nag-uubos sa *magazine*. Ang bawat putok ay isang solong atake, na nagdudulot ng 2D4 pinsala.
+8. Ang isang *sonic rifle* ay nakakasakit ng mga buhay na target sa bawat *combat round* na matagumpay nitong matamaan sila. Laban sa isang walang buhay na target, ang pinsala bawat *round* ay ini-roll sa isang *resistance roll* laban sa TIB, halaga ng armor, o *hit points* ng target (pagpili ng *gamemaster*). Kung nabigo ang target, ito ay madudurog o masisira at hindi na gagana.
+9. I-roll ang *damage* at labanan ito laban sa TIB ng target sa isang *resistance roll*. Kung matagumpay ang target, nakakakuha sila ng pinakamababang pinsala (2) sa halip na ang ini-roll na pinsala. Kung matalo ang target, sila ay ma-*stun* sa loob ng 1D3+1 *rounds* (tingnan ang **Pag-stun**).
 
-> ### Mga Spot Rule para sa mga Baril
-> 
-> Ang Kabanata Pito: Mga Spot Rule ay sumasaklaw sa maraming kondisyon tungkol sa mga baril, tulad ng automatic fire, saklaw, atbp. Sumusunod ang mga karagdagang tuntunin sa paggamit. Maaaring piliin ng iyong gamemaster na payagan ang mga ito upang masakop ang karagdagang mga uri ng ranged na armas, tulad ng enerhiya o mga laser na armas.
-> 
-> #### Baluti at mga Baril
-> 
-> Ang mga uri ng baluti mula sa mga naunang panahon ay medyo hindi epektibo laban sa mga armas mula sa mga susunod na panahon; ang baluti ng isang knight ay nagbibigay ng kakaunting proteksyon laban sa mga baril. Ang anumang primitive, sinaunang, o medieval na mga baluti ay mayroon lamang kalahati ng kanilang halaga laban sa mga baril (bilugan paitaas). Ganoon din ang totoo sa modernong baluti laban sa advanced na mga armas. Ang advanced na baluti ay nagpoprotekta sa buong halaga laban sa lahat ng mga armas. Upang ibuod:
-> 
-> * **Primitive o Sinauna** ang baluti ay nag-aalok lamang ng ½ proteksyon laban sa high-velocity o mga armas na enerhiya (bilugan paitaas).
-> 
-> * **Modern** ang baluti ay nag-aalok ng ½ proteksyon laban sa mga armas na enerhiya (bilugan paitaas).
-> 
-> * **Advanced** ang baluti ay nag-aalok ng buong proteksyon laban sa lahat ng anyo ng atake. Maaaring magpasya ang iyong gamemaster na ang advanced na baluti ay nagpoprotekta lamang sa ½ ng armor value nito laban sa mga armas na enerhiya (bilugan paitaas).
-> 
-> Kung ang armor value ay tinutukoy nang random, i-roll para sa proteksyon ng baluti, ilapat ang anumang mga modifier, pagkatapos ay hatiin sa dalawa, bilugan paitaas. Ang ilang mga baluti ay nagsasaad na ng pagkakaiba sa coverage sa pagitan ng mga armas sa kamay at high-velocity na mga armas—ang mga ito ay hindi kailangang bawasan nang dalawang beses. Ang ilang uri ng mga halimaw ay maaari ring maging resistant sa mga baril, na nabanggit sa kanilang mga paglalarawan sa Kabanata Labing-isa: Mga Nilalang.
-> 
+> ### Mga Espesyal na Panuntunan para sa mga Firearms
+>
+> Ang Kabanata Pito: Mga Espesyal na Panuntunan ay sumasaklaw sa maraming kondisyon patungkol sa mga *firearm*, gaya ng *automatic fire*, saklaw, atbp. Ang sumusunod ay mga karagdagang panuntunan sa paggamit. Maaaring piliin ng iyong *gamemaster* na payagan ang mga ito para sakupin ang mga karagdagang uri ng mga *ranged weapon*, gaya ng mga armas na *energy* o *laser*.
+>
+> #### Armor at mga Firearms
+>
+> Ang mga uri ng armor mula sa mga naunang panahon ay medyo hindi mabisa laban sa mga armas mula sa mga susunod na panahon; ang armor ng isang *knight* ay nagbibigay ng kaunting proteksyon laban sa mga *firearm*. Ang anumang *primitive*, sinauna, o *medieval* na armor ay may kalahati lamang ng halaga nito laban sa mga *firearm* (i-round up). Ganito rin ang totoo sa modernong armor laban sa mga *advanced* na armas. Ang *advanced* na armor ay nagbibigay ng proteksyon sa buong halaga nito laban sa lahat ng armas. Bilang buod:
+>
+> * Ang **Primitive o Ancient** na armor ay nag-aalok lamang ng ½ proteksyon laban sa mga *high-velocity* o *energy* na armas (i-round up).
+>
+> * Ang **Modern** na armor ay nag-aalok ng ½ proteksyon laban sa mga *energy* na armas (i-round up).
+>
+> * Ang **Advanced** na armor ay nag-aalok ng buong proteksyon laban sa lahat ng anyo ng atake. Maaaring magpasya ang iyong *gamemaster* na ang *advanced* na armor ay nagbibigay lamang ng proteksyon sa ½ ng halaga nito laban sa mga *energy* na armas (i-round up).
+>
+> Kung ang halaga ng armor ay itinakda nang sapalaran, i-roll para sa proteksyon ng armor, ilapat ang anumang *modifier*, pagkatapos ay hatiin sa dalawa, i-round up. Ang ilang armor ay nagsasaad na ng pagkakaiba sa saklaw sa pagitan ng mga armas na hawak at mga *high-velocity* na armas—ang mga ito ay hindi kailangang bawasan nang dalawang beses. Ang ilang uri ng mga halimaw ay maaaring lumalaban din sa mga *firearm*, na nakatala sa kanilang mga paglalarawan sa Kabanata Labing-isa: Mga Nilalang.
+>
 > #### Mga Naka-load na Revolver
-> 
-> Ang silid nang direkta sa ilalim ng martilyo ng isang revolver ay kadalasang iniiwang bakante laban sa isang aksidenteng pagputok. Kung ang gawaing ito ay susundin, bawasan ang ammunition capacity ng 1. Upang bigyang-diin ang panganib ng pagdadala ng isang fully-loaded na revolver, maaaring mangailangan ang iyong gamemaster na gumawa ang iyong karakter ng matagumpay na roll ng Luck upang maiwasan ang isang aksidenteng pagputok kung ang iyong karakter ay mahuhulog o matutulak nang sapat upang posibleng ma-trigger ang armas. Kung magtagumpay ang roll ng Luck, ang revolver ay hindi puputok. Kung mabigo ito, ang revolver ay puputok, at ang iyong karakter at lahat sa paligid ng iyong karakter ay dapat gumawa ng roll ng Luck upang maiwasan na matamaan ng ligaw na bala. Dapat tukuyin ng iyong gamemaster kung sino ang tatamaan ng friendly fire. Kung ang paunang roll ng Luck ay isang fumble, ang bala ay tatama sa iyong karakter at gagawa ng normal na pinsala.
-> 
+>
+> Ang *chamber* nang direkta sa ilalim ng martilyo ng isang *revolver* ay madalas na iniiwang bakante laban sa aksidenteng pagputok. Kung ang gawaing ito ay susundin, bawasan ang kapasidad ng bala ng 1. Upang bigyang-diin ang panganib ng pagdadala ng isang ganap na naka-load na *revolver*, maaaring hilingin ng iyong *gamemaster* sa iyong karakter na gumawa ng matagumpay na *Luck roll* upang maiwasan ang isang aksidenteng pagputok kung ang iyong karakter ay mahulog o matulak nang sapat na malakas para posibleng maputok ang armas. Kung matagumpay ang *Luck roll*, hindi puputok ang *revolver*. Kung nabigo ito, puputok ang *revolver*, at ang iyong karakter at lahat ng nasa paligid ng iyong karakter ay dapat gumawa ng *Luck roll* upang maiwasan na matamaan ng ligaw na bala. Dapat tukuyin ng iyong *gamemaster* kung sino ang tatamaan ng *friendly fire*. Kung ang unang *Luck roll* ay isang *fumble*, ang bala ay tatama sa iyong karakter at magdudulot ng normal na pinsala.
+>
 > #### Mga Malfunction
-> 
-> Kung ang roll ng atake ng iyong karakter ay katumbas ng o mas mataas sa numero ng malfunction ng armas, ang armas ay magkakaroon ng malfunction at hindi puputok hanggang sa ito ay maasikaso.
-> 
-> * Kung ang armas ay isang revolver, bolt-action na riple, o isang double-barrel na shotgun, ang problema ay isang dud na round lamang.
-> 
-> * Kung ang armas ay isang automatic, semi-automatic, pump-action, o lever-action, ang malfunction ay isang jam.
-> 
-> Ang isang dud na round ay maaaring i-cycle o ilabas sa isang combat round. Ang pag-aayos ng isang jam ay tumatagal ng 1D6 combat rounds at nangangailangan ng matagumpay na roll ng kakayahan ng alinman sa firearm skill o Repair, alinman ang mas mataas. Ang iyong karakter ay maaaring patuloy na sumubok hanggang sa magtagumpay sila, na ang bawat pagsubok ay tumatagal ng karagdagang 1D6 combat rounds. Ang roll na 96–00 sa pagsubok na ito ay nagreresulta sa baril na hindi na maayos at lampas sa kaswal na pagkukumpuni.
-> 
-> Ang isang fumble ay maaari ring mag-overlap sa isang malfunction. Kung ang mga resulta ng parehong ay magkasalungat, dapat harapin ang mga ito ng iyong gamemaster sa pinakapraktikal na pagkakasunod-sunod, na inilalapat ang parehong mga resulta tuwing posible. Ang mga armas maliban sa mga baril ay maaaring magkaroon ng malfunction, at maaaring ma-clear sa parehong paraan. Para sa mga energy weapon, ang ‘dud round’ ay malamang na isang hindi kumpleto o may depektong charge.
-> 
-> #### Pag-reload ng mga Baril
-> 
-> Tumatagal ng isang combat round upang mag-load ng dalawang shell o bala sa anumang handgun, riple, o shotgun, at isang combat round upang palitan ang isang clip, energy cell, o battery pack. Ang pagpapalit ng machine gun belt ay tumatagal ng dalawang combat round. Kung ang oras ay mahalaga, posibleng maglagay ng isang round sa isang baril at makapagpaputok ng isang shot sa ½ ng normal na DEX rank ng iyong karakter (bilugan paitaas).
-> 
-> #### Mga Hindi Naka-aim na Putok
-> 
-> Ang entry ng mga atake-bawat-round (**Attk**) para sa mga ranged na armas ay ipinapalagay na ang iyong karakter ay sumusubok na tumama nang direkta sa isang target, at nagsasagawa ng pagsubok na mag-aim. Kung nais mong ipa-spray ng iyong karakter ang isang lugar ng mga putok, tulad ng kung nagbibigay ng covering fire, at ang katumpakan ay hindi alalahanin, maaari mong i-double ang mga atake-bawat-round ng armas, ngunit ang pagkakataong tumama ay nababawasan sa 1/5 ng kakayahan ng iyong karakter (katumbas ng pagkakataon ng isang espesyal na tagumpay, bagaman ang resulta ay isang normal na tagumpay). Kung may higit sa isang target, dapat tukuyin ng iyong gamemaster nang random kung sino ang tatamaan. Sa diskresyon ng iyong gamemaster, kung ang iyong karakter ay handa, nilagyan ng laser sight o katumbas na targeting device, at may kakayahan sa armas na higit sa 60%, ang pagkakataong tumama ay hindi binabago.
+>
+> Kung ang *attack roll* ng iyong karakter ay katumbas o mas mataas sa numero ng *malfunction* ng armas, ang armas ay magkakaroon ng *malfunction* at hindi puputok hangga't hindi ito naaayos.
+>
+> * Kung ang armas ay isang *revolver*, *bolt-action rifle*, o isang *double-barrel shotgun*, ang problema ay isang *dud round* lamang.
+>
+> * Kung ang armas ay isang *automatic*, *semi-automatic*, *pump-action*, o *lever-action*, ang *malfunction* ay isang *jam*.
+>
+> Ang isang *dud round* ay maaaring i-cycle o ilabas sa isang *combat round*. Ang pag-aayos ng isang *jam* ay nangangailangan ng 1D6 *combat rounds* at nangangailangan ng matagumpay na *skill roll* ng kasanayan sa *firearm* o *Repair*, alinman ang mas mataas. Maaaring patuloy na subukan ng iyong karakter hanggang sa magtagumpay sila, kung saan ang bawat pagsubok ay nangangailangan ng karagdagang 1D6 *combat rounds*. Ang isang *roll* na 96–00 sa pagsubok na ito ay magreresulta sa pagkasira ng *firearm* na hindi na maaayos.
+>
+> Ang isang *fumble* ay maaari ring mag-overlap sa isang *malfunction*. Kung ang mga resulta ng dalawa ay magkasalungat, dapat silang tugunan ng iyong *gamemaster* sa pinaka-praktikal na pagkakasunod-sunod, inilalapat ang parehong mga resulta hangga't maaari. Ang mga armas maliban sa mga *firearm* ay maaaring magkaroon ng *malfunction*, at maaaring ayusin sa parehong paraan. Para sa mga *energy weapon*, ang 'dud round' ay malamang na isang hindi kumpleto o maling *charge*.
+>
+> #### Pagkarga ng mga Firearms
+>
+> Nangangailangan ito ng isang *combat round* upang magkarga ng dalawang *shell* o bala sa anumang *handgun*, *rifle*, o *shotgun*, at isang *combat round* upang palitan ang isang *clip*, *energy cell*, o *battery pack*. Ang pagpapalit ng *machine gun belt* ay nangangailangan ng dalawang *combat rounds*. Kung nagmamadali ang oras, posibleng maglagay ng isang bala sa isang *firearm* at makaputok ng isang beses sa ½ ng normal na *KAD rank* ng iyong karakter (i-round up).
+>
+> #### Mga Putok na Hindi Naka-aim
+>
+> Ang *attacks-per-round entry* (**Attk**) para sa mga *ranged weapon* ay ipinapalagay na ang iyong karakter ay sinusubukang tamaan ang isang target nang direkta, at gumagawa ng pagsubok na mag-aim. Kung nais mong ang iyong karakter ay mag-spray ng lugar ng mga putok, gaya ng pagbibigay ng *covering fire*, at ang katumpakan ay hindi mahalaga, maaari mong doblehin ang *attacks-per-round* ng armas, ngunit ang pagkakataong tumama ay nababawasan sa 1/5 ng kasanayan ng iyong karakter (katumbas ng pagkakataon ng isang espesyal na tagumpay, bagaman ang resulta ay isang normal na tagumpay). Kung mayroong higit sa isang target, dapat tukuyin ng iyong *gamemaster* nang sapalaran kung sino ang tatamaan. Sa diskresyon ng iyong *gamemaster*, kung ang iyong karakter ay handa, nilagyan ng *laser sight* o katumbas na kagamitan sa pag-target, at may kasanayan sa armas na higit sa 60%, ang pagkakataong tumama ay hindi mababago.
 
-## Baluti
+## Armor
 
-Sa pangunahing antas, ang baluti ay matigas na pananamit. Depende sa setting, ang baluti ay gawa sa balat, metal, plastic, o ilang kombinasyon ng mga materyales na ito, at isinusuot ito upang magkaroon ng proteksyon sa pagitan ng sarili at ng pinagmumulan ng pinsala. Ang baluti ay mas mabigat kaysa sa normal na pananamit at kadalasang hindi komportable at awkward isuot. Kung ang iyong karakter ay isang mandirigma, malamang na mas komportable sila sa baluti kaysa sa karaniwang tao, bagaman ang pagsusuot ng baluti ay bihirang mas komportable kaysa sa hindi pagsusuot nito.
+Sa isang pangunahing antas, ang armor ay matigas na damit. Depende sa *setting*, ang armor ay gawa sa katad, metal, plastik, o anumang kombinasyon ng mga materyales na ito, at isinusuot ito upang magkaroon ng proteksyon sa pagitan ng sarili at ng pinagmumulan ng panganib. Ang armor ay mas mabigat kaysa sa normal na damit at madalas na hindi komportable at mahirap isuot. Kung ang iyong karakter ay isang mandirigma, malamang na mas komportable sila sa armor kaysa sa karaniwang tao, bagaman ang pagsusuot ng armor ay bihira kaysa sa hindi pagsusuot nito.
 
-Ang baluti na inilarawan sa seksyong ito ay ikinategorya nang maluwag ayon sa kronolohikal, para sa sanggunian. Sa karamihan ng mga kaso, ang baluti mula sa isang naunang panahon ay magagamit sa mga susunod na panahon, kaya maaaring piliin ng iyong gamemaster kung saan humihinto ang availability ng baluti at payagan ang iyong karakter ng access sa mga naunang uri.
+Ang armor na inilarawan sa seksyong ito ay inuri nang maluwag ayon sa panahon, para sa sanggunian. Sa karamihan ng mga kaso, ang armor mula sa mas maagang panahon ay magagamit sa mga tao mula sa mga susunod na panahon, kaya maaaring piliin ng iyong *gamemaster* kung saan titigil ang pagkakaroon ng armor at pahintulutan ang iyong karakter na ma-access ang mga naunang uri.
 
-Ang bawat uri ng baluti ay may mga sumusunod na katangian:
+Ang bawat uri ng armor ay may sumusunod na mga katangian:
 
-* **Name**: Ang karaniwang pangalan.
+* **Pangalan**: Ang karaniwang pangalan.
 
-* **AV**: Ang armor value, ang dami ng proteksyon ng baluti.
+* **AV**: Ang halaga ng armor (*armor value*), ang dami ng proteksyon ng armor.
 
-* **Random AV**: (Opsyonal) Ito ang armor value kung ginagamit ang mga random na armor value.
+* **Random AV**: (Opsyonal) Ito ang halaga ng armor kung ginagamit ang mga *random* na halaga ng armor.
 
-* **Burden**: Ang pagiging awkward o kaugnay na encumbrance ng baluti. Maaaring gamitin ng iyong gamemaster ang halagang ito kasama ang opsyonal na fatigue system.
+* **Burden**: Ang hirap o relatibong *encumbrance* ng armor. Maaaring gamitin ng iyong *gamemaster* ang halagang ito sa opsyonal na sistema ng *fatigue*.
 
-* **ENC**: Ang halagang ito ay para sa isang karakter na may average na SIZ (11–15). Para sa SIZ 6–10, i-multiply ang halaga ng ENC ng .8; para sa SIZ 16–20 i-multiply ang halaga ng 1.2; para sa SIZ 21–25 i-multiply ito ng 1.4, atbp. (bilugan paitaas)
+* **ENC**: Ang halagang ito ay para sa isang karakter na may karaniwang SUK (11–15). Para sa SUK 6–10, i-multiply ang halaga ng ENC ng .8; para sa SUK 16–20 i-multiply ang halaga ng 1.2; para sa SUK 21–25 i-multiply ito ng 1.4, atbp. (i-round up)
 
-* **Skill Modifier**: Isang modifier sa ilang mga kakayahan o kategorya ng kakayahan habang ang baluti ay suot, inilalapat din sa anumang naaangkop na kakayahan.
+* **Skill Modifier**: Isang *modifier* sa ilang mga kasanayan o kategorya ng kasanayan habang suot ang armor, na inilalapat din sa anumang angkop na kasanayan.
 
-* **Fits SIZ**: Ang pagkakaiba-iba na kayang i-accommodate ng default na SIZ ng baluti mula sa default na SIZ nito, na ipinahayag bilang positibo o negatibong halaga.
+* **Fits SUK**: Ang pagkakaiba na kayang tanggapin ng default na SUK ng armor mula sa default na SUK nito, na ipinahayag bilang isang positibo o negatibong halaga.
 
-* **Time**: Ilang mga combat round ang kinakailangan upang isuot ang baluti.
+* **Oras**: Ilang *combat rounds* ang kinakailangan upang isuot ang armor.
 
-* **Locations**: (Opsyonal) Kung ginagamit ang mga hit location, ang mga hit location na sakop ng baluti.
+* **Mga Lokasyon**: (Opsyonal) Kung ginagamit ang mga lokasyon ng tama, ang mga lokasyon ng tama na sakop ng armor.
 
-* **Value**: Ang gastos ng baluti sa isang average na setting.
+* **Halaga**: Ang halaga ng armor sa isang karaniwang *setting*.
 
-Hindi tulad ng mga armas at kalasag, ang baluti ay kadalasang hindi nakakaranas ng pinsala, maliban sa mga environmental factor. Ang baluti ay idinisenyo para sa depensa; kaya nitong tumanggap ng maraming hampas. Ang armor value ay hindi nababawasan sa pamamagitan ng pinsala sa labanan—sa halip, anumang pagbabago sa armor value ay dapat magmula sa ilang pambihirang kaganapan.
+Hindi tulad ng mga armas at *shield*, ang armor sa pangkalahatan ay hindi nagdurusa ng pinsala, maliban kung dahil sa mga salik sa kapaligiran. Ang armor ay dinisenyo para sa depensa; kaya nitong tumanggap ng maraming palo. Ang halaga ng armor ay hindi kailanman nababawasan sa pamamagitan ng pinsala sa labanan—sa halip, anumang pagbabago sa halaga ng armor ay dapat magmula sa ilang pambihirang kaganapan.### Mga Paglalarawan ng Armor
 
-### Mga Paglalarawan ng Baluti
+Inilalarawan ng seksyong ito ang lahat ng uri ng armor, ayon sa pagkakasunod-sunod ng alpabeto.
 
-Inilalarawan ng seksyong ito ang lahat ng uri ng baluti, ayon sa alpabeto.
+**Adaptive Mesh:** Ang high-tech na telang ito ay tumitigas at tumutugon sa mga impact, ngunit nananatiling malambot at komportable sa ibang pagkakataon. Karaniwang isinusuot bilang bodysuit, maaari itong isuot sa ilalim ng iba pang armor.
 
-**Adaptive Mesh:** Ang high-tech na tela na ito ay tumitigas at tumutugon sa mga epekto, ngunit nananatiling pliant at komportable sa natitirang bahagi. Kadalasang isinusuot bilang bodysuit, maaari itong i-layer sa ilalim ng iba pang baluti.
+**Assault Armor, Light:** Light armor na ginagamit ng mga sundalo upang labanan ang mga hand-to-hand weapon, mga solidong projectile, pati na rin laban sa mga energy weapon. Gawa sa ceramics, alloys, o high-impact plastics.
 
-**Assault Armor, Light:** Magaang baluti na ginagamit ng mga sundalo upang labanan ang mga armas na hand-to-hand, mga solidong projectile, pati na rin laban sa mga armas na enerhiya. Gawa sa ceramics, alloys, o high-impact plastics.
+**Assault Armor, Standard:** Heavy armor, na ginawa para sa mga labanan sa mga mapanganib na kapaligiran. Gawa sa ceramics, alloys, o matitibay na plastics, ang assault armor ay nagbibigay ng proteksyon mula ulo hanggang paa at paborito ng militar.
 
-**Assault Armor, Standard:** Mabigat na baluti, ginawa para sa mga labanan sa mga mapanganib na kapaligiran. Gawa sa ceramics, alloys, o resistant plastics, ang assault armor ay nagbibigay ng head-to-toe na proteksyon at paborito ng militar.
+**Assault Armor (Heavy), Powered:** Katulad ng standard assault armor ngunit mas malaki at may mas makapal na armored plating. Ang mga panloob na servo-motor ay nagpapataas ng LAK ng nagsusuot. Ang mga combatant sa powered heavy assault armor ay madalas gumagamit ng malalaking armas. Tinatanggap ng frame ang mga modular enhancement (tulad ng jetpack) at selyado laban sa mga kemikal na sandata at vacuum ng kalawakan.
 
-**Assault Armor (Heavy), Powered:** Katulad ng standard assault armor ngunit mas malaki at may mas makapal na armored plating. Ang mga internal servo-motor ay nagpapataas ng lakas ng nagsusuot. Ang mga combatant sa powered heavy assault armor ay kadalasang gumagamit ng malalaking armas. Ang frame ay tumatanggap ng mga modular enhancement (tulad ng jetpack) at selyado laban sa mga kemikal na armas at vacuum ng kalawakan.
+**Assault Armor (Light), Powered:** Katulad ng heavy powered assault armor, ngunit mas magaan at kulang sa mga extra tulad ng mga selyadong sistema.
 
-**Assault Armor (Light), Powered:** Katulad ng heavy powered assault armor, ngunit mas magaan at kulang sa mga extras tulad ng mga selyadong sistema.
+**Ballistic Cloth:** Gawa sa aramid fiber, ang ballistic cloth armor ay nagbibigay ng katamtamang proteksyon laban sa mga bala, bagaman hindi kasing tibay ng bulletproof vest. Karaniwang isinusuot sa ilalim ng pang-araw-araw na damit o ginagawang kamukha ng normal na damit.
 
-**Ballistic Cloth:** Gawa sa aramid fiber, ang ballistic cloth na baluti ay nagbibigay ng katamtamang proteksyon laban sa mga bala, bagaman hindi kasing dami ng bulletproof vest. Kadalasang isinusuot sa ilalim ng pananamit sa kalye o ginawa upang magmukhang normal na pananamit.
+**Bulletproof Vest, Early:** Isang mas lumang variant ng bulletproof vest, mabigat at mahirap dalhin, na may makapal na metal plates sa isang segmented canvas vest.
 
-**Bulletproof Vest, Early:** Isang mas matandang variant ng bulletproof vest, mabigat at mahirap isuot, na may makapal na metal plates sa isang segmented na canvas na vest.
+**Bulletproof Vest, Modern:** Isang ebolusyon ng bulletproof vest, na gumagamit ng high-impact metal alloys at plastics para sa mas magaan at mas manipis na uri ng proteksyon.
 
-**Bulletproof Vest, Modern:** Isang ebolusyon ng bulletproof vest, gumagamit ng high-impact na mga metal alloy at plastic para sa isang mas magaan, mas manipis na anyo ng proteksyon.
+**Chain:** Ang armor na ito ay binubuo ng mesh na gawa sa mga pinagdugtong-dugtong na metal links. Ito ay sobrang flexible, ngunit medyo mabigat.
 
-**Chain:** Ang baluting ito ay binubuo ng isang mesh na gawa sa hinabing metal links. Ito ay lubhang nababaluktot, ngunit medyo mabigat.
+**Clothing, Heavy:** Katumbas ng pagsusuot ng mabigat na balabal, jacket na pang-winter, masikip na leather na damit, o maraming patong na damit.
 
-**Clothing, Heavy:** Katumbas ng pagsusuot ng makapal na cloak, winter jacket, masikip na leather na damit, o maramihang mga layer ng damit.
+**Energy Armor:** Ang armor na ito ay binubuo ng panloob na power pack na isinusuot sa sinturon o isinasabit sa likod, sa pagitan ng mga balikat, at posibleng nakakonekta sa mga emitter na nakakalat sa buong katawan. Kapag na-activate, binabalutan nito ang karakter ng protektibong energy sheath.
 
-**Energy Armor:** Ang baluting ito ay binubuo ng isang internal power pack na isinusuot sa sinturon o isinasabit sa likod, sa pagitan ng mga balikat, at posibleng nakakonekta sa mga emitter na nakakalat sa buong katawan. Kapag na-activate, tinatakpan nito ang karakter ng isang balabal ng protektadong enerhiya.
+**Flak Jacket:** Ito ay isang full jacket na katulad ng early bulletproof vest, bagaman hindi kasing armored, kapaki-pakinabang para sa mga piloto at ground troop.
 
-**Flak Jacket:** Ito ay isang buong jacket na katulad ng isang maagang bulletproof vest, bagaman hindi gaanong may baluti, kapaki-pakinabang para sa mga piloto at ground troop.
+**Helmet, Heavy o Light:** Halos lahat ng uri ng armor na ito ay may mga helmet. Ang mga buong suit ng armor ay karaniwang may kasamang helmet. Kung walang suot na helmet, bawasan ang armor value ng –1 para sa light helmet, at –2 para sa heavy helmet. Kung gumagamit ng random armor values, baguhin ang range ng –1 o –2, ayon sa nararapat. Kung gumagamit ng hit locations, ang helmet ay may parehong protective value gaya ng braso o binti ng kaukulang materyal ng armor.
 
-**Helmet, Heavy o Light:** Halos lahat ng mga uri ng baluti na ito ay may mga helmet. Ang mga buong suit ng baluti ay kadalasang may kasamang mga helmet. Kung ang helmet ay hindi isinuot, bawasan ang armor value ng –1 para sa isang light helmet, at –2 para sa isang heavy helmet. Kung gumagamit ng mga random na armor value, baguhin ang saklaw ng –1 o –2, ayon sa nararapat. Kung ginagamit ang mga hit location, ang helmet ay may parehong protektadong halaga gaya ng isang braso o binti ng kaugnay na materyales ng baluti.
+**Hide:** Isang tanned o untanned na balat ng hayop, isinusuot bilang balabal o kasuotan, na may kasama pang balahibo.
 
-**Hide:** Isang tanned o untanned na balat ng hayop, isinusuot bilang cloak o damit, na ang balahibo ay buo pa.
+**Lamellar (Studded, Splinted):** Ang armor na ito ay binubuo ng mga manipis na piraso ng metal (splints) na karaniwang nakakabit sa leather backing gamit ang mga rivet (studs).
 
-**Lamellar (Studded, Splinted):** Ang baluting ito ay binubuo ng manipis na metal strips (splints) na kadalasang nakakabit sa leather na backing gamit ang mga rivet (studs).
+**Leather, Soft:** Katumbas ng isang leather jacket o vest, ang soft leather ay madalas isinuot sa ilalim ng iba pang armor bilang karagdagang padding at proteksyon.
 
-**Leather, Soft:** Katumbas ng isang leather jacket o vest, ang malambot na balat ay kadalasang isinusuot sa ilalim ng iba pang baluti bilang dagdag na padding at proteksyon.
+**Leather, Hard:** Ito ay katumbas ng kalahating sentimetro ng cured leather, halos kasing kapal ng suwelas ng pormal na sapatos. Maaari itong magkaroon ng mga leather stud o embossed na disenyo.
 
-**Leather, Hard:** Ito ay katumbas ng kalahating sentimetro ng cured na balat, halos kasing kapal ng sol ng sapatos na pormal. Maaaring mayroon itong mga leather stud o embossed na gawa.
+**Leather, Cuirbouilli:** Makapal at medyo matigas na leather na na-cure at pinakuluan sa langis at wax, pagkatapos ay hinulma ayon sa hugis ng nagsusuot. Madalas itong palamutihan at kulayan nang matingkad.
 
-**Leather, Cuirbouilli:** Makapal at semirigid na balat na na-cured at pinakuluan sa langis at waks, pagkatapos ay hinubog sa anyo ng nagsusuot. Kadalasan itong pinalamutian at makulay na kinulayan.
+**Padded/Quilted:** Ang armor na ito ay binubuo ng mga pinagpatong-patong na matigas at makapal na tela, na tinahi nang magkakasama na parang pad o kumot. Mura at madaling gawin, hindi ito nagbibigay ng masyadong proteksyon, bagaman maaari itong isuot sa ilalim ng metal armor tulad ng halfplate at chain.
 
-**Padded/Quilted:** Ang baluting ito ay binubuo ng sandwiched na mga layer ng matigas na makapal na tela, na tinahi nang magkakasama na parang pad o quilt. Mura at madaling gawin, hindi ito nag-aalok ng masyadong maraming proteksyon, bagaman maaari itong isuot sa ilalim ng metal na baluti tulad ng halfplate at chain.
+**Padded/Quilted, Heavy:** Katulad ng padded o quilted armor, ngunit mas mabigat at mas makapal.
 
-**Padded/Quilted, Heavy:** Katulad ng padded o quilted na baluti, ngunit mas mabigat at mas makapal.
+**Plate, Half:** Ang armor na ito ay binubuo ng bahagyang suit ng plate (tingnan sa ibaba) na hindi sumasakop sa buong katawan. Karaniwan, ito ay breastplate, helmet, at ilang maliliit na piraso, na may chain na sumasakop sa natitirang bahagi.
 
-**Plate, Half:** Ang baluting ito ay binubuo ng isang bahagyang suit ng plate (tingnan sa ibaba) na hindi sumasaklaw sa buong katawan. Kadalasan, ito ay breastplate, helmet, at ilang mas maliliit na piraso, na may chain na sumasaklaw sa natitirang bahagi.
+**Plate, Full:** Ang armor na ito ay binubuo ng mga solidong plato ng metal, na hinulma sa katawan at pinagdugtong-dugtong gamit ang mga leather strap. Sa kasaysayan, ito ang pinakamahusay sa anumang uri ng body armor, ngunit ang pagkakagawa nito na purong metal ang dahilan kaya ito ang pinakamabigat at hindi gaanong komportable.
 
-**Plate, Full:** Ang baluting ito ay binubuo ng mga solidong plate ng metal, na hinubog sa katawan at pinagsama-sama ng mga covered na leather straps. Sa kasaysayan, ito ay superior sa anumang iba pang uri ng baluti sa katawan, ngunit ang all-metal na konstruksyon ang ginagawa itong pinakamabigat at hindi komportable.
+**Ring:** Ito ay soft leather o iba pang basehan na may mga metal ring na tinahi dito sa paraang magkakalapit o nagpapatong-patong.
 
-**Ring:** Ito ay malambot na balat o iba pang backing na may mga metal ring na tinahi dito sa isang malapit o nag-o-overlap na pattern.
+**Riot Gear:** Isang mabigat na bulletproof jacket at toughened clothing coverall, na may mga plato sa mga estratehikong bahagi ng katawan at isang helmet.
 
-**Riot Gear:** Isang mabigat na bulletproof na jacket at toughened na damit na coverall, na may mga plate sa mga estratehikong bahagi ng katawan at isang helmet.
-
-**Scale:** Ang scale na baluti (minsan tinatawag na scale mail) ay binubuo ng mga overlapping na metal scale ng iba't ibang hugis at laki na nakakabit sa isang backing.
+**Scale:** Ang scale armor (minsan tinatawag na scale mail) ay binubuo ng mga nagpapatong-patong na metal scale na may iba't ibang hugis at laki na nakakabit sa isang basehan.
 
 **Splint:** Tingnan ang paglalarawan para sa lamellar.
 
 **Studded:** Tingnan ang paglalarawan para sa lamellar.
 
-##### Mga Primitive na Baluti
+##### Primitive Armors
 
-| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SIZ | Time | Locations | Halaga |
+| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SUK | Time | Locations | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Helmet | +1 | +1 punto | Light | 0.5 | –5% sa mga kakayahan sa Perception | ±1 | 1 | Head | Cheap |
-| Hide | 1 | 1D3–1 | Light | 3.5 | Wala | ±3 | 1 | All | Cheap |
+| Helmet | +1 | +1 point | Light | 0.5 | –5% sa Perception skills | ±1 | 1 | Ulo | Mura |
+| Hide | 1 | 1D3–1 | Light | 3.5 | Wala | ±3 | 1 | Lahat | Mura |
 
-##### Sinauna at Medieval na Baluti
+##### Ancient and Medieval Armor
 
-| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SIZ | Time | Locations | Halaga |
+| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SUK | Time | Locations | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Chain | 7 | 1D8–1 | Moderate | 20.0 | –20% sa mga kakayahan sa Physical | -2 | 3 | All | Expensive |
-| Clothing, Heavy | 1 | 1d2–1 | Wala | 2.5 | Wala | ±2 | 1 | All | Cheap |
-| Helmet, Heavy | +2 | +2 puntos | Light | 2.5 | –50% sa mga kakayahan sa Perception | ±0 | 1 | Head | Average |
-| Helmet, Light | +1 | +1 punto | Wala | 1.5 | –15% sa mga kakayahan sa Perception | ±1 | 1 | Head | Inexpensive |
-| Lamellar | 6 | 1D8–1 | Moderate | 18.0 | –15% sa mga kakayahan sa Physical | ±1 | 2 | All but head | Expensive |
-| Leather, Soft | 1 | 1D6–1 | Light | 3.5 | Wala | ±2 | 2 | All | Inexpensive |
-| Leather, Hard | 2 | 1D6 | Moderate | 5.0 | –10% sa mga kakayahan sa Physical | ±1 | 2 | All | Average |
-| Leather, Cuirbouill | 3 | 2D3 | Light | 5.0 | –10% sa mga kakayahan sa Physical | ±0 | 2 | All | Expensive |
-| Padded/Quilted | 1 | 1D2–1 | Wala | 3.0 | Wala | ±2 | 1 | All | Inexpensive |
-| Padded/Quilted, Heavy | 2 | 1D3–1 | Light | 4.0 | –5% sa mga kakayahan sa Physical | ±1 | 2 | All | Inexpensive |
-| Plate, Full | 8 | 1D10 | Cumbersome | 25.0 | –25% sa mga kakayahan sa Physical | -1 | 5 | All but head | Expensive |
-| Plate, Half | 7 | 1D8 | Moderate | 18.0 | –20% sa mga kakayahan sa Physical | -1 | 4 | All but head | Expensive |
-| Ring | 5 | 1D6 | Light | 10.0 | –10% sa mga kakayahan sa Physical | ±1 | 2 | All but head | Average |
-| Scale | 6 | 2D4–1 | Moderate | 20.0 | –15% sa mga kakayahan sa Physical | ±1 | 2 | All but head | Average |
+| Chain | 7 | 1D8–1 | Moderate | 20.0 | –20% sa Physical skills | –2 | 3 | Lahat | Mahal |
+| Clothing, Heavy | 1 | 1d2–1 | None | 2.5 | Wala | ±2 | 1 | Lahat | Mura |
+| Helmet, Heavy | +2 | +2 points | Light | 2.5 | –50% sa Perception skills | ±0 | 1 | Ulo | Katamtaman |
+| Helmet, Light | +1 | +1 point | None | 1.5 | –15% sa Perception skills | ±1 | 1 | Ulo | Hindi mahal |
+| Lamellar | 6 | 1D8–1 | Moderate | 18.0 | –15% sa Physical skills | ±1 | 2 | Lahat maliban sa ulo | Mahal |
+| Leather, Soft | 1 | 1D6–1 | Light | 3.5 | Wala | ±2 | 2 | Lahat | Hindi mahal |
+| Leather, Hard | 2 | 1D6 | Moderate | 5.0 | –10% sa Physical skills | ±1 | 2 | Lahat | Katamtaman |
+| Leather, Cuirbouill | 3 | 2D3 | Light | 5.0 | –10% sa Physical skills | ±0 | 2 | Lahat | Mahal |
+| Padded/Quilted | 1 | 1D2–1 | None | 3.0 | Wala | ±2 | 1 | Lahat | Hindi mahal |
+| Padded/Quilted, Heavy | 2 | 1D3–1 | Light | 4.0 | –5% sa Physical skills | ±1 | 2 | Lahat | Hindi mahal |
+| Plate, Full | 8 | 1D10 | Cumbersome | 25.0 | –25% sa Physical skills | –1 | 5 | Lahat maliban sa ulo | Mahal |
+| Plate, Half | 7 | 1D8 | Moderate | 18.0 | –20% sa Physical skills | –1 | 4 | Lahat maliban sa ulo | Mahal |
+| Ring | 5 | 1D6 | Light | 10.0 | –10% sa Physical skills | ±1 | 2 | Lahat maliban sa ulo | Katamtaman |
+| Scale | 6 | 2D4–1 | Moderate | 20.0 | –15% sa Physical skills | ±1 | 2 | Lahat maliban sa ulo | Katamtaman |
 
-##### Modernong Baluti
+##### Modern Armor
 
-| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SIZ | Time | Locations | Halaga |
+| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SUK | Time | Locations | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Ballistic Cloth | 3/51 | 1D3/1D6–1 | Light | 4.0 | –10% sa mga kakayahan sa Physical | ±1 | 1 | Arms, Chest | Expensive |
-| Bulletproof Vest, Early | 4 | 1D4 | Moderate | 11.0 | –25% sa mga kakayahan sa Physical | ±1 | 2 | Chest | Expensive |
-| Bulletproof Vest, Modern | 4/81 | 1D4/1D8 | Light | 8.0 | –5% sa mga kakayahan sa Physical | ±3 | 2 | Chest | Expensive |
-| Clothing, Heavy | 1 | 1D2–1 | Wala | 2.5 | Wala | ±2 | 1 | All | Cheap |
-| Flak Jacket | 4 | 1D4 | Moderate | 8.0 | –10% sa mga kakayahan sa Physical | ±2 | 1 | Arms, Chest | Expensive |
-| Helmet, Heavy | +6 | +3 puntos | Light | 3.5 | –25% sa mga kakayahan sa Perception | ±1 | 1 | Head | Average |
-| Helmet, Ight | +3 | +2 puntos | Wala | 2.5 | –10% sa mga kakayahan sa Perception | ±2 | 1 | Head | Inexpensive |
-| Riot Gear | 12/61 | 1D10+2 | Moderate | 12.0 | –10% sa mga kakayahan sa Physical | ±1 | 5 | All2 | Expensive |
+| Ballistic Cloth | 3/51 | 1D3/1D6–1 | Light | 4.0 | –10% sa Physical skills | ±1 | 1 | Arms, Chest | Mahal |
+| Bulletproof Vest, Early | 4 | 1D4 | Moderate | 11.0 | –25% sa Physical skills | ±1 | 2 | Chest | Mahal |
+| Bulletproof Vest, Modern | 4/81 | 1D4/1D8 | Light | 8.0 | –5% sa Physical skills | ±3 | 2 | Chest | Mahal |
+| Clothing, Heavy | 1 | 1D2–1 | None | 2.5 | Wala | ±2 | 1 | Lahat | Mura |
+| Flak Jacket | 4 | 1D4 | Moderate | 8.0 | –10% sa Physical skills | ±2 | 1 | Arms, Chest | Mahal |
+| Helmet, Heavy | +6 | +3 points | Light | 3.5 | –25% sa Perception skills | ±1 | 1 | Ulo | Katamtaman |
+| Helmet, Light | +3 | +2 points | None | 2.5 | –10% sa Perception skills | ±2 | 1 | Ulo | Hindi mahal |
+| Riot Gear | 12/61 | 1D10+2 | Moderate | 12.0 | –10% sa Physical skills | ±1 | 5 | Lahat2 | Mahal |
 
-1. Ang unang halaga ay vs. melee o low-velocity na mga armas sa missile; ang pangalawang halaga ay vs. mga baril.  
-2. May kasamang helmet.
+1. Ang unang value ay vs. melee o low-velocity missile weapons; ang pangalawang value ay vs. firearms.
+2. Kasama ang helmet.
 
-##### Advanced na Baluti
+##### Advanced Armor
 
-| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SIZ | Time | Locations | Halaga |
+| Pangalan | AV | Random AV | Burden | ENC | Skill Modifier | Fits SUK | Time | Locations | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Adaptive Mesh | 6 | 1D4+2 | Light | 2.0 | –5% sa mga kakayahan sa Physical | ±1 | 1 | All | Expensive |
-| Assault Armor, Light | 8 | 2D6 | Moderate | 12.0 | –10% sa mga kakayahan sa Physical | ±1 | 2 | All1 | Expensive |
-| Assault Armor | 10 | 2D4+2 | Moderate | 16.0 | –25% sa mga kakayahan sa Physical | ±1 | 3 | All1 | Expensive |
-| Energy Armor | 1–202 | —2 | Light | 4.0 | –5% sa Hide, Stealth, at Perception na mga kakayahan bawat AV | Anuman | 2 | All3 | Expensive |
-| Helmet, Heavy | +4 | +4 | Light | 5.0 | –15% sa mga kakayahan sa Perception | ±1 | 1 | Head | Average |
-| Helmet, Light | +3 | +2 | Wala | 2.0 | –5% sa mga kakayahan sa Perception | ±2 | 1 | Head | Average |
-| Powered Assault Armor, Light4 | 14 | 2D6+2 | Cumbersome | 36.0 | –20% sa mga kakayahan sa Physical at Manipulation | ±1 | 4 | All | Priceless |
-| Powered Assault Armor, Heavy5 | 16 | 4D4 | Cumbersome | 48.0 | –50% sa mga kakayahan sa Physical at Manipulation | ±1 | 5 | All | Priceless |
+| Adaptive Mesh | 6 | 1D4+2 | Light | 2.0 | –5% sa Physical skills | ±1 | 1 | Lahat | Mahal |
+| Assault Armor, Light | 8 | 2D6 | Moderate | 12.0 | –10% sa Physical skills | ±1 | 2 | Lahat1 | Mahal |
+| Assault Armor | 10 | 2D4+2 | Moderate | 16.0 | –25% sa Physical skills | ±1 | 3 | Lahat1 | Mahal |
+| Energy Armor | 1–202 | —2 | Light | 4.0 | –5% sa Hide, Stealth, at Perception skills bawat AV | Anuman | 2 | Lahat3 | Mahal |
+| Helmet, Heavy | +4 | +4 | Light | 5.0 | –15% sa Perception skills | ±1 | 1 | Ulo | Katamtaman |
+| Helmet, Light | +3 | +2 | None | 2.0 | –5% sa Perception skills | ±2 | 1 | Ulo | Katamtaman |
+| Powered Assault Armor, Light4 | 14 | 2D6+2 | Cumbersome | 36.0 | –20% sa Physical at Manipulation skills | ±1 | 4 | Lahat | Priceless |
+| Powered Assault Armor, Heavy5 | 16 | 4D4 | Cumbersome | 48.0 | –50% sa Physical at Manipulation skills | ±1 | 5 | Lahat | Priceless |
 
-1. May kasamang helmet.  
-2. Ang energy armor ay maaaring itakda ng nagsusuot nito para sa anumang halaga sa pagitan ng 1 at 20 puntos ng AV. Ang bawat combat round na ang baluti ay gumagastos ng mga charge (power point) ay katumbas ng AV nito. Ang mga standard na power supply ng baluti ay humahawak ng 200 charges; ang bawat damage point na nasipsip ay nagkakahalaga ng 1 dagdag na charge. Ang energy armor ay hindi nagpapahintulot ng random na armor value; gamitin ang nakatakdang AV. Tumatagal ito ng 5 DEX rank upang i-adjust ang AV.  
-3. Hindi maaaring isuot sa iba pang baluti.  
-4. Ang light powered assault armor ay binabago ang STR ng +3 at DEX ng –3 (i-adjust ang mga kaugnay na halaga kapag suot). Ang baluti ay may kasamang helmet.  
-5. Ang heavy powered assault armor ay binabago ang STR ng +6 at DEX ng –6 (i-adjust ang mga kaugnay na halaga kapag suot). Ang baluti ay may kasamang helmet.
+1. Kasama ang helmet.
+2. Ang energy armor ay maaaring itakda ng nagsusuot nito para sa anumang value sa pagitan ng 1 at 20 puntos ng AV. Bawat round ng labanan, ang armor ay gumagamit ng charges (power points) na katumbas ng AV nito. Ang mga standard armor power supply ay may 200 charges; bawat damage point na naa-absorb ay kumakain ng karagdagang 1 charge. Hindi pinapayagan ng energy armor ang random armor value; gamitin ang itinakdang AV. Kailangan ng 5 KAD ranks upang i-adjust ang AV.
+3. Hindi maaaring isuot kasabay ng ibang armor.
+4. Ang light powered assault armor ay binabago ang LAK ng +3 at KAD ng –3 (i-adjust ang mga kaukulang value kapag suot). Kasama sa armor ang helmet.
+5. Ang heavy powered assault armor ay binabago ang LAK ng +6 at KAD ng –6 (i-adjust ang mga kaukulang value kapag suot). Kasama sa armor ang helmet.
 
-> ### Mga Espesyal na tuntunin para sa Baluti
+> ### Mga espesyal na tuntunin para sa Armor
 > 
-> Ang mga sumusunod na tuntunin ay nalalapat sa iba't ibang sitwasyon na kinasasangkutan ng baluti.
+> Ang mga sumusunod na tuntunin ay nalalapat sa iba't ibang sitwasyon na may kinalaman sa armor.
 > 
 > #### Armor Encumbrance
 > 
-> Ang encumbrance (ENC) ng baluti ay nakadepende sa SIZ ng karakter na nagsusuot nito. Ang SIZ ng karakter ang tumutukoy sa SIZ ng baluti sa karamihan ng mga kaso. Ang bawat increment ng +5 SIZ ay nagdaragdag sa ENC ng baluti, na nagiging mas mabigat, mas mainit, mas mahirap isuot, atbp. Ang mga SIZ na 11–15 ay standard. Ang bawat 5-point increment ng SIZ sa ibaba ng saklaw na iyon ay 1/5 na mas kaunti ang pagka-encumber. Ang mga sumusunod na halaga ng ENC ay maaaring gamitin para sa mga hit location.
+> Ang armor encumbrance (ENC) ay nakadepende sa SUK ng karakter na nagsusuot nito. Ang SUK ng karakter ang nagtatakda sa SUK ng armor sa karamihan ng mga kaso. Ang bawat dagdag na +5 SUK ay nagdaragdag sa ENC ng armor, dahil ito ay mas mabigat, mas mainit, mas mahirap isuot, atbp. Ang mga SUK na 11–15 ay standard. Ang bawat 5-point increment ng SUK sa ibaba ng range na iyon ay 1/5 na mas mababa ang encumbrance. Ang mga sumusunod na ENC value ay maaaring gamitin para sa mga hit location.
 > 
 > | Hit Location | Fraction ng Kabuuang ENC |
 > | :---- | :---- |
-> | Head | 1/10 |
-> | Arm | 1/10 bawat isa |
+> | Ulo | 1/10 |
+> | Brasong | 1/10 bawat isa |
 > | Chest | 1/5 |
 > | Abdomen | 1/10 |
-> | Leg | 1/5 bawat isa |
+> | Binti | 1/5 bawat isa |
 > 
-> #### Layering na Baluti
+> #### Layering Armor
 > 
-> Posibleng magsuot ng malambot na baluti sa ilalim o sa ibabaw ng matigas na baluti upang magbigay ng dagdag na proteksyon. Ang malambot, madaling baluktutin na baluti lamang tulad ng makapal na tela, padded, o malambot na balat ang madaling maisusuot na layer kasama ang iba pang mga anyo ng baluti, at idinaragdag nila ang kanilang karaniwang armor value pati na rin ang kanilang ENC value. Kapag sinusubukang i-overlap ang anumang bagay maliban sa malambot na baluti sa matigas, pagsamahin ang armor value ngunit i-triple ang ENC ng mas mababang baluti.
+> Posibleng magsuot ng soft armor sa ilalim o ibabaw ng hard armor upang magbigay ng karagdagang proteksyon. Tanging soft, pliable na armor tulad ng heavy cloth, padded, o soft leather lamang ang madaling isuot na may layer sa ibang uri ng armor, at idinaragdag nila ang kanilang karaniwang armor value pati na rin ang kanilang ENC value. Kapag sinusubukang pagpatung-patungin ang anumang bagay maliban sa soft armor sa hard, pagsamahin ang armor value ngunit i-triple ang ENC ng mas mababang armor.
 > 
-> #### Pagsuot ng Baluti
+> #### Pagsusuot ng Armor
 > 
-> Ang ilang mga uri ng baluti ay mas kumplikado isuot kaysa sa pang-araw-araw na pananamit. May mga strap at buckle na dapat ikabit, maraming piraso na isusuot, at maaaring may ilang layer. Tumatagal ng isang combat round para sa bawat punto ng proteksyon na inaalok ng isang suit ng baluti upang isuot ito, sa pag-aakalang ang iyong karakter ay handa, ang baluti ay inilatag, at walang mga mapanganib o nakakaabala na mga elemento sa kapaligiran. Maaaring dagdagan ng iyong gamemaster ang oras na kinakailangan kung dating naabala o natutulog, o sa mga mapanghamong sitwasyon (pagtakbo, mabigat na sugatan, kadiliman, ilalim ng tubig, nakasakay, atbp.). Maaaring mangailangan ito ng roll ng Agility o Idea kung sapat na naabala o naabala.
+> Ang ilang uri ng armor ay mas kumplikado isuot kaysa sa pang-araw-araw na damit. May mga strap at buckle na dapat ikabit, maraming piraso na dapat isuot, at maaaring may ilang patong. Kailangan ng isang combat round para sa bawat punto ng proteksyon na iniaalok ng isang suit ng armor upang isuot ito, sa pag-aakalang handa na ang iyong karakter, ang armor ay nakalatag na, at walang mapanganib o nakakaabalang elemento sa paligid. Maaaring dagdagan ng iyong gamemaster ang oras na kailangan kung dati nang nagulo o natutulog, o sa mga mapanghamong pagkakataon (tumatakbo, malubhang nasugatan, kadiliman, ilalim ng tubig, nakasakay, atbp.). Maaaring mangailangan ito ng Agility o Idea roll kung sapat na nagambala o naabala.
 > 
-> #### Paghubad ng Baluti
+> #### Paghubad ng Armor
 > 
-> Ang paghubad ng baluti ay mas madali kaysa sa pagsusuot nito, dahil ang iyong karakter ay hindi na kailangang tiyakin na ang bawat piraso ay maayos na nakaayos bago isuot ang susunod. Ang iyong karakter ay maaaring maghubad ng 3 armor value bawat combat round (bilugan paitaas) kung mabilis na gumagalaw. Ang isang matagumpay na roll ng Agility ay nagpapataas nito sa 4 na armor value bawat combat round. Gamitin ang maximum na halaga ng baluti kung gumagamit ng mga random na armor value.
-
-> ### Baluti ayon sa Hit Location (Opsyon)
+> Ang paghubad ng armor ay mas madali kaysa sa pagsusuot nito, dahil hindi kailangang tiyakin ng iyong karakter na maayos ang bawat piraso bago isuot ang susunod. Ang iyong karakter ay maaaring mag-alis ng 3 armor value bawat combat round (round up) kung mabilis na kumikilos. Ang isang matagumpay na Agility roll ay nagdaragdag nito sa 4 na armor value bawat combat round. Gamitin ang maximum na value ng armor kung gumagamit ng random armor values.
 > 
-> Kung gumagamit ng hit location system, maaaring naisin mo ang higit pang granularity sa kung paano binalutan ang iyong karakter. Ang bawat uri ng baluti sa mga talahanayan ng baluti ay naglilista ng mga hit location na sakop nito. Ang iyong karakter ay maaaring magbago ng uri ng baluti na kanilang isinusuot sa bawat hit location, gamit ang anumang uri na sumasaklaw sa lokasyong iyon. Ang bawat uri ng baluti na isinusuot ay maaaring may magkakaibang armor value.
+> ### Armor ayon sa Hit Location (Opsyon)
+> 
+> Kung gumagamit ng hit location system, maaaring gusto mo ng higit na detalye sa kung paano naka-armor ang iyong karakter. Bawat uri ng armor sa mga armor table ay naglilista ng mga hit location na sakop nito. Ang iyong karakter ay maaaring mag-iba-iba ng uri ng armor na suot sa bawat hit location, gamit ang anumang uri na sumasakop sa lokasyong iyon. Ang bawat uri ng armor na suot ay maaaring magkaroon ng ibang armor value.
 > 
 > * Upang matukoy ang armor value ng bawat piraso, gamitin ang armor value mula sa mga armor chart.
 > 
-> * Ang burden ay ang sa mga piraso na isinusuot sa dibdib, tiyan, o mga binti, gamit ang pinakamabigat kung ang mga ito ay magkakaiba.
+> * Ang burden ay ang sa mga pirasong suot sa chest, abdomen, o mga binti, gamit ang pinakamabigat kung magkaiba ang mga ito.
 > 
-> * Gamitin ang skill modifier ng pinakamabigat na piraso na isinusuot sa dibdib, tiyan, o mga binti. Ang mga helmet ay may parehong mga modifier.
+> * Gamitin ang skill modifier ng pinakamabigat na piraso na suot sa chest, abdomen, o mga binti. Ang mga helmet ay may parehong modifier.
 > 
-> * Tumatagal ng isang combat round bawat 5 puntos ng armor value (bilugan paitaas) upang isuot ang mga indibidwal na piraso ng baluti.
+> * Kailangan ng isang combat round bawat 5 puntos ng armor value (round up) upang isuot ang mga indibidwal na piraso ng armor.
 > 
-> Maaaring magpasya ang iyong gamemaster na ang ilang mga uri ng baluti ay hindi maaaring gamitin nang pira-piraso, tulad ng karamihan sa mga modernong o advanced na mga uri ng baluti. Ang baluti ayon sa hit location ay hindi inirerekomenda sa random armor value system.
+> Maaaring magpasya ang iyong gamemaster na ang ilang uri ng armor ay hindi maaaring gamitin nang pira-piraso, tulad ng karamihan sa modern o advanced armor types. Ang armor ayon sa hit location ay hindi inirerekomenda kasama ang random armor value system.
 > 
-> Gamitin ang mga tuntunin para sa **Baluti ayon sa Hit Location** at **Layering na Baluti** kapag gumagamit ng baluti ayon sa hit location.
+> Gamitin ang mga tuntunin para sa **Armor ayon sa Hit Location** at **Layering Armor** kapag gumagamit ng armor ayon sa hit location.
 > 
 > #### Mga Helmet
 > 
-> Inilalarawan ng mga talahanayan ng baluti ang mga helmet bilang isang bonus sa armor value. Kapag gumagamit ng baluti ayon sa hit location, ang mga helmet ay may sariling mga armor value. Gamitin ang mga sumusunod na halaga para sa mga helmet:
+> Inilalarawan ng mga armor table ang mga helmet bilang bonus sa armor value. Kapag gumagamit ng armor ayon sa hit location, ang mga helmet ay may sariling mga armor value. Gamitin ang mga sumusunod na value para sa mga helmet:
 > 
 > | Uri | Armor Value |
 > | :---- | :---- |
 > | Helmet (Primitive) | 2 |
-> | Helmet, Heavy (Sinauna at Medieval) | 8 |
-> | Helmet, Light (Sinauna at Medieval) | 4 |
+> | Helmet, Heavy (Ancient and Medieval) | 8 |
+> | Helmet, Light (Ancient and Medieval) | 4 |
 > | Helmet, Heavy (Modern) | 8 |
 > | Helmet, Light (Modern) | 6 |
 > | Helmet, Heavy (Advance) | 16 |
 > | Helmet, Light (Advanced) | 14 |
+> 
+> ## Mga Shield
+> 
+> Ang mga shield ay karaniwang malalaking parrying weapon, na idinisenyo upang ilagay sa pagitan ng iyong karakter at ng isang umatake. Ang isang shield ay karaniwang may hawakan, strap, o mga strap at isinusuot sa braso na hindi ginagamit sa sandata (para sa karamihan ng mga tao, ang kaliwang braso). Ayon sa tradisyon, ang mga shield ay dapat magkaroon ng kompromiso sa pagitan ng tibay, kagaanan, at balanse. Ang mga shield ay may sukat mula sa maliit na buckler (kasinglaki lang ng plato sa hapag-kainan) hanggang sa malaking shield na ginagamit ng mga mandirigmang Hoplite.
+> 
+> Ang mga shield ay kinategorya ayon sa kronolohiya. Sa karamihan ng mga kaso, ang mga shield mula sa mas naunang panahon ay available sa mga susunod na panahon, kaya ang iyong gamemaster ay maaaring pumili kung saan nagtatapos ang availability at payagan ang iyong karakter na makakuha ng mga shield bago ang puntong iyon.
+> 
+> Lahat ng shield ay ginagamit sa melee o upang ipagtanggol laban sa mga missile. Ang isang ibinatong shield ay isang improvised weapon na may range na 10 metro at 05% na pagkakataong tumama (maaari itong tumaas sa karanasan).
+> 
+> Ang bawat uri ng shield ay may mga sumusunod na katangian:
+> 
+> * **Pangalan:** Ang karaniwang pangalan para sa shield.
+> 
+> * **Base:** Ang base na pagkakataon para sa sinumang kukuha ng shield. Ang base na pagkakataong ito ay ang simula ring value para sa pag-atake gamit ang shield.
+> 
+> * **Skill:** Ang skill na ginagamit para sa shield.
+> 
+> * **AV/HP:** Ito ang armor point value ng shield pati na rin ang hit point value nito. Ang halagang ito ay ginagamit kung ang shield ay nasira o tinarget. Tingnan ang Slung Shields (sumusunod) para sa mga detalye.
+> 
+> * **Damage:** Ang halaga ng damage na nagagawa ng shield kung ginamit bilang sandata.
+> 
+> * **Attk:** Ilang atake-bawat-round ang pinapayagan ng shield?
+> 
+> * **Special:** Ang uri ng special success na nagagawa ng shield. Karamihan sa mga shield ay gumagawa ng knockback special success.
+> 
+> * **Burden:** Inilalarawan nito ang pagiging awkward o relatibong encumbrance ng shield.
+> 
+> * **ENC:** (Opsyonal) Ang ENC value ng shield.
+> 
+> * **Locations:** (Opsyonal) Para sa mga hit location, ang mga hit location na sakop ng shield. Karaniwang naaangkop lamang ito para sa mga slung shield. Tingnan ang **Slung Shields**.
+> 
+> * **LAK/KAD:** Ang minimum na LAK at KAD na kinakailangan upang magamit ang shield. Kung ang iyong karakter ay hindi nakakatugon sa minimum na kinakailangang LAK at KAD, ang anumang paggamit ng shield ay Mahirap (Difficult).
+> 
+> * **Value:** Ang halaga ng shield sa isang angkop na setting.
+> 
+> Ang bawat uri ng shield ay inilalarawan sa **Shield Descriptions**.
+> 
+> ### Mga Slung Shield
+> 
+> Karaniwan, ang mga shield ay isinusuot na nakasabit sa braso/balikat o likod kapag hindi aktibong ginagamit sa labanan. Kung ang iyong gamemaster ay gumagamit ng mga hit location, magdagdag ng 1/2 ng armor value ng isang slung shield (round up) sa anumang hit location na tinamaan ng sandata, bilang karagdagan sa armor value na nasa lokasyong iyon. Sa mga shield na inilalarawan sa seksyong ito, tanging ang buckler, primitive, at energy shield lamang ang hindi maaaring isabit (slung). Dahil karamihan sa mga shield ay may mataas na armor value, tinatanggihan nito ang karamihan ng mga atake.
+> 
+> **Halimbawa,** ang iyong karakter ay may shield na nakasabit sa kanilang likod, at ang isang kalaban ay nagpakawala ng palaso mula sa likuran. Ang atake ay tagumpay, at ang hit location na nakuha ay nagpapahiwatig ng torso. Ipinapasiya ng iyong gamemaster na ang shield ay sumasakop sa hit location na ito, kaya ½ ng armor value ng shield ay inilalapat sa damage ng palaso. Sinasabi ng iyong gamemaster sa iyo na "Ang palaso ay tumama sa shield sa iyong likod, ngunit hindi ito nakalusot." Ngayon, ang iyong karakter ay may pagkakataong hawakan nang maayos ang kanilang shield, hindi na umaasang suwertehin muli.### Mga Paglalarawan ng Kalasag
 
-## Mga Kalasag
+Ang seksyong ito ay naglalarawan sa lahat ng uri ng mga kalasag, na nakaayos nang paalpabeto.
 
-Ang mga kalasag ay karaniwang malalaking armas para sa parrying, na idinisenyo upang ilagay sa pagitan ng iyong karakter at ng isang umatake. Ang isang kalasag ay kadalasang may hawakan, strap, o mga strap at isinusuot sa braso na hindi pang-armas (para sa karamihan ng mga tao, ang kaliwang braso). Tradisyonal, ang mga kalasag ay dapat mag-compromise sa pagitan ng tigas, kagaanan, at balanse. Ang mga kalasag ay mula sa maliit na buckler (kasing-laki lang ng dinner plate) hanggang sa malaking kalasag na ginagamit ng mga Hoplite na mandirigma.
+**Buckler:** Isang maliit na kalasag na nagpoprotekta sa ibabang bahagi ng braso, na karaniwang hawak gamit ang grip sa kamay o isang strap. Ang mga ito ay isinusuot sa sinturon (o swash), na nagbigay-daan sa terminong ‘swashbuckler’.
 
-Ang mga kalasag ay ikinategorya ayon sa kronolohikal. Sa karamihan ng mga kaso, ang mga kalasag mula sa isang naunang panahon ay magagamit sa mga susunod na panahon, kaya maaaring piliin lamang ng iyong gamemaster kung saan humihinto ang availability at payagan ang iyong karakter ng access sa mga kalasag bago ang puntong iyon.
-
-Lahat ng mga kalasag ay ginagamit sa melee o upang magtanggol laban sa mga missile. Ang isang inihagis na kalasag ay isang improvised na armas na may saklaw na 10 metro at 05% na pagkakataong tumama (ito ay maaaring tumaas sa karanasan).
-
-Ang bawat uri ng kalasag ay may mga sumusunod na katangian:
-
-* **Name:** Ang karaniwang pangalan para sa kalasag.
-
-* **Base**: Ang batayang pagkakataon para sa sinumang kukuha ng kalasag. Ang base chance na ito ay ang simula ring halaga para sa pakikipag-atake gamit ang kalasag.
-
-* **Skill:** Ang kakayahang ginagamit para sa kalasag.
-
-* **AV/HP:** Ito ang armor point value ng kalasag pati na rin ang hit point value nito. Ang halagang ito ay ginagamit kung ang kalasag ay napinsala o tinarget. Tingnan ang Mga Slung Shield (sumusunod) para sa mga detalye.
-
-* **Damage:** Ang dami ng pinsala na ginagawa ng kalasag kung gagamitin bilang armas.
-
-* **Attk**: Ilang mga atake-bawat-round ang pinahihintulutan ng kalasag?
-
-* **Special:** Ang uri ng espesyal na tagumpay na ginagawa ng kalasag. Karamihan sa mga kalasag ay gumagawa ng mga knockback na espesyal na tagumpay.
-
-* **Burden:** Inilalarawan nito ang awkwardness o kaugnay na encumbrance ng kalasag.
-
-* **ENC:** (Opsyonal) Ang halaga ng ENC ng kalasag.
-
-* **Locations:** (Opsyonal) Para sa mga hit location, ang mga hit location na sakop ng kalasag. Ito ay karaniwang angkop lamang para sa mga slung shield. Tingnan ang **Mga Slung Shield**.
-
-* **STR/DEX:** Ang pinakamababang STR at DEX na kinakailangan upang gamitin ang kalasag. Kung ang iyong karakter ay hindi matutugunan ang pinakamababang kinakailangang STR at DEX, ang anumang paggamit ng kalasag ay Mahirap.
-
-* **Value:** Ang gastos ng kalasag sa isang angkop na setting.
-
-Ang bawat uri ng kalasag ay inilalarawan sa **Mga Paglalarawan ng Kalasag**.
-
-### Mga Slung Shield
-
-Kadalasan ang mga kalasag ay isinusuot na nakasabit sa braso/balikat o likod kapag hindi ginagamit nang aktibo sa labanan. Kung ang iyong gamemaster ay gumagamit ng hit location system, magdagdag ng 1/2 ng armor value ng isang slung shield (bilugan paitaas) sa anumang hit location na tinamaan ng armas, bilang karagdagan sa armor value na nasa lokasyong iyon. Sa mga kalasag na inilarawan sa seksyong ito, ang buckler, primitive, at energy shield lamang ang hindi maaaring isabit. Dahil karamihan sa mga kalasag ay may mataas na armor value, pinapawalang-bisa nito ang karamihan sa mga atake.
-
-**Halimbawa,** ang iyong karakter ay may kalasag na nakasabit sa kanyang likod, at isang kalaban ang nagpaputok ng palaso mula sa likod. Ang atake ay isang tagumpay, at ang hit location na na-roll ay nagpapahiwatig ng torso. Ipinapalagay ng iyong gamemaster na ang kalasag ay sumasaklaw sa hit location na ito, kaya ½ ng armor value ng kalasag ay inilapat sa pinsala ng palaso. Sinabi sa iyo ng iyong gamemaster “Ang palaso ay tumama sa kalasag sa iyong likod, ngunit hindi ito nakalusot.” Ngayon ang iyong karakter ay may pagkakataon na hawakan nang maayos ang kanilang kalasag, dahil hindi na nagtitiwala sa isa pang swerteng break.
-
-### Mga Paglalarawan ng Kalasag
-
-Inilalarawan ng seksyong ito ang lahat ng uri ng kalasag, na nakaayos ayon sa alpabeto.
-
-**Buckler:** Isang maliit na kalasag na nagpoprotekta sa ibabang bahagi ng braso, kadalasang hawak gamit ang handgrip o single strap. Ang mga ito ay isinusuot sa sinturon (o swash), na nagbunga sa terminong ‘swashbuckler’.
-
-**Energy Shield:** Isang defensive na aparato na binubuo ng isang maliit na power pack na nakakabit sa braso ng tagapagtanggol at isang projector na naglalabas ng isang pabilog na kalasag na may variable na laki.
+**Energy Shield:** Isang depensibong kagamitan na binubuo ng isang maliit na power pack na nakakabit sa braso ng tagapagtanggol at isang projector na naglalabas ng pabilog na kalasag na may nagbabagong laki.
 
 **Full Shield:** Mas malaki kaysa sa maliit na kalasag at may iba't ibang hugis, ang isang full shield ay karaniwang sapat ang laki upang takpan ang ibabang mukha at singit ng tagapagtanggol.
 
-**Half Shield:** Isang mas maliit na kalasag na may iba't ibang hugis, karaniwang ginagamit ng mga rider, archer, o light skirmisher (vs. heavy front-line fighters).
+**Half Shield:** Isang mas maliit na kalasag na may iba't ibang hugis, na karaniwang ginagamit ng mga mangangabayo, mamamana, o mga light skirmisher (kumpara sa mga mabibigat na mandirigma sa harapan).
 
-**Heater:** Isang medium na kalasag na hugis parang flatiron heater (at pinangalanan para dito). Ito ang tradisyunal na hugis ng maraming heraldic coats of arms.
+**Heater:** Isang katamtamang kalasag na hugis tulad ng heater ng plantsa (at ipinangalan dito). Ito ang tradisyonal na hugis ng maraming heraldic coat of arms.
 
-**Hoplite:** Isang malaking hugis-parihaba na kalasag, napaka-protektado, ngunit masyadong mabigat at awkward para sa mga mangangabayo. Ang mga kalasag ng Hoplite ay madalas na ginagamit na nakapatong sa lupa. Kadalasan ay hugis-parihaba, ngunit ang ilan ay oblong at may mga bilog na gilid.
+**Hoplite:** Isang malaking hugis-parihaba na kalasag, napakaprotektibo, ngunit masyadong mabigat at malaki para sa mga mangangabayo. Ang mga kalasag na Hoplite ay madalas gamitin habang nakapatong sa lupa. Karaniwang hugis-parihaba, ngunit ang ilan ay oblong at may mga bilugang gilid.
 
-**Kite:** Isang malaki, hugis-teardrop na kalasag na may bilog na tuktok at matulis na ibaba, na sumasaklaw sa katawan mula sa mga balikat hanggang sa tuhod o bukung-bukong.
+**Kite:** Isang malaki, hugis-patak na kalasag na may bilugang tuktok at matulis na ibaba, na tumatakip sa katawan mula sa mga balikat hanggang sa tuhod o bukung-bukong.
 
-**Large Round:** Kapareho ng round na kalasag (sa ibaba), mas malaki lamang.
+**Large Round:** Kapareho ng bilog na kalasag (sa ibaba), mas malaki lamang.
 
-**Primitive:** Isang kalasag na ginagamit sa mga primitive na warlike na kultura. Kadalasan ay wala nang iba kundi isang kahoy na framework na may stretched na balat sa ibabaw nito, wicker, matigas na tela, o kahit lubhang matigas na balat ng hayop.
+**Primitive:** Isang kalasag na ginagamit sa mga primitibong kulturang paladigma. Karaniwang hindi hihigit sa isang kahoy na balangkas na may nakabanat na katad, wicker, matigas na tela, o kahit na napakatigas na balat ng hayop.
 
-**Round:** Isang bilog na kalasag na hinahawakan sa loob ng central boss. Natatangi dahil mayroon itong manipis na walang proteksyong mga gilid na maaaring gamitin upang hulihin at basagin ang mga may-talim na armas gamit ang isang espesyal na maneuver.
+**Round:** Isang bilog na kalasag na hinahawakan sa loob ng gitnang boss. Natatangi dahil mayroon itong manipis na mga gilid na walang proteksyon na maaaring gamitin upang hulihin at baliin ang mga talim na sandata gamit ang isang espesyal na maniobra.
 
-**Riot:** Isang malaking hugis-parihaba na malinaw na plastic na kalasag na ginagamit ng mga riot policeman. Magaan at matigas, pinapayagan nito ang shield wall at nagbibigay ng sapat na depensa laban sa karamihan ng mga umatake.
+**Riot:** Isang malaking hugis-parihaba na malinaw na plastik na kalasag na ginagamit ng mga riot policeman. Magaan at matibay, pinapayagan nito ang mga shield wall at nagbibigay ng sapat na depensa laban sa karamihan ng mga umatake.
 
-**Spiked:** Isang uri ng target na may gitnang spike, isang talim, o serye ng maliliit na spike na nakaharap palabas sa kalaban.
+**Spiked:** Isang uri ng target na may gitnang tulis, isang talim, o serye ng maliliit na tulis na nakaharap palabas sa kalaban.
 
-**Target:** Isang bilog, medium-sized na kalasag, karaniwan sa maraming kultura. Kadalasan ay gawa na may metal na rim.
+**Target:** Isang bilog, katamtamang laki na kalasag, karaniwan sa maraming kultura. Karaniwang gawa na may rim na metal.
 
-##### Mga Primitive na Kalasag
+##### Mga Primitibong Kalasag
 
-| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | STR / DEX | ENC | Halaga |
+| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | LAK / KAD | ENC | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Primitive | 10% | Shield | 10 | 1D2+dm | 1 | Knockback | Light | Arm | 5/7 | 2.0 | Cheap |
+| Primitive | 10% | Shield | 10 | 1D2+dm | 1 | Knockback | Light | Arm | 5/7 | 2.0 | Mura |
 
-##### Sinauna at Medieval na mga Kalasag
+##### Mga Sinaunang at Medieval na Kalasag
 
-| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | STR / DEX | ENC | Halaga |
+| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | LAK / KAD | ENC | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Buckler | 05% | Shield | 15 | 1D2+dm | 1 | Knockback | Light | Arm | 5/7 | 1.0 | Average |
 | Full Shield | 15% | Shield | 22 | 1D4+dm | 1 | Knockback | Moderate | Arm, Chest, Head | 11/9 | 5.0 | Average |
@@ -1283,65 +1269,65 @@ Inilalarawan ng seksyong ito ang lahat ng uri ng kalasag, na nakaayos ayon sa al
 | Large Round | 15% | Shield | 22 | 1D4+dm | 1 | Knockback | Moderate | Abdomen, Arm, Chest | 11/9 | 5.0 | Average |
 | Round | 15% | Shield | 20 | 1D3+dm | 1 | Knockback | Moderate | Arm, Chest | 9/9 | 4.0 | Average |
 | Spiked | 15% | Shield | 20 | 1D3+dm | 1 | Impale | Moderate | Arm, Chest | 9/9 | 5.0 | Average |
-| Target | 15% | Shield | 15 | 1D2+dm | 1 | Knockback | Light | Arm, Chest | 5/7 | 3.0 | Cheap |
+| Target | 15% | Shield | 15 | 1D2+dm | 1 | Knockback | Light | Arm, Chest | 5/7 | 3.0 | Mura |
 
 ##### Mga Modernong Kalasag
 
-| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | STR / DEX | ENC | Halaga |
+| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | LAK / KAD | ENC | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Riot Shield | 15% | Shield | 16 | 1D3 + dm | 1 | Knockback | Moderate | Abdomen, Arm, Chest, Head | 9/9 | 3.0 | Expensive |
+| Riot Shield | 15% | Shield | 16 | 1D3 \+ dm | 1 | Knockback | Moderate | Abdomen, Arm, Chest, Head | 9/9 | 3.0 | Mahal |
 
-##### Advanced na mga Kalasag
+##### Mga Advanced na Kalasag
 
-| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | STR / DEX | ENC | Halaga |
+| Pangalan | Base Chance | Skill | AV/HP | Damage | Attk | Special | Burden | Locations | LAK / KAD | ENC | Value |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Energy Shield | 20% | Shield | 25 | 1D2 + dm | 1  | Knockback | Light | Arm, Chest | 3/3 | 1.0 | Expensive |
+| Energy Shield | 20% | Shield | 25 | 1D2 \+ dm | 1  | Knockback | Light | Arm, Chest | 3/3 | 1.0 | Mahal |
 
-## Artillery
+## Artilerya
 
-Ang Artillery ay naglalarawan ng mga higanteng mekanismo, kadalasang nasa larangan ng digmaan o sa pagtatanggol ng isang instalasyon tulad ng kastilyo, base militar, o nakakabit sa isang sasakyan. Sa mga sinauna at medieval na setting, ang artillery ay pangunahing siege na sandata. Ang mga armas ng artillery ay maaaring ikabit sa mga sasakyan na mula sa laki ng mga motorsiklo, karwahe, jeep, hanggang sa mga battleship at space station. Ang mga malalaking armas na ito ay kadalasang nakakabit at kumplikado sapat na nangangailangan ng higit sa isang operator. Karamihan ay ranged at nagpapaputok ng mga projectile. Ayon sa tradisyon, karamihan ay naghahatid ng tinatawag na indirect fire, na tina-target ang isang lugar sa halip na isang partikular na bagay (isang karakter o sasakyan), bagaman ang ilan ay maaaring gamitin laban sa mga indibidwal na target.
+Ang artilerya ay naglalarawan ng mga higanteng mekanismo, karaniwang nasa larangan ng digmaan o sa pagtatanggol ng isang instalasyon gaya ng kastilyo, base militar, o nakakabit sa isang sasakyan. Sa mga sinauna at medieval na tagpuan, ang artilerya ay pangunahing siege weaponry. Ang mga sandatang artilerya ay maaaring ikabit sa mga sasakyan na may laki mula sa mga motorsiklo, karwahe, jeep, hanggang sa mga battleship at space station. Ang mga malalaking sandatang ito ay karaniwang nakakabit at sapat ang pagkakakumpleto para mangailangan ng higit sa isang operator. Karamihan ay malayuan at nagpapaputok ng mga projectile. Ayon sa tradisyon, karamihan ay naghahatid ng tinatawag na indirect fire, na tina-target ang isang lugar sa halip na isang partikular na bagay (isang karakter o sasakyan), bagaman ang ilan ay maaaring gamitin laban sa mga indibidwal na target.
 
-May halos kasing dami ng mga uri ng armas ng artillery gaya ng mga armas sa kamay, at ang seksyong ito ay sumasaklaw sa isang kinatawang sampling. Ang mas malalaking armas tulad ng mga missile, rocket, at vehicle-vs.-vehicle o vehicle-vs.-structure na mga armas ay lampas sa saklaw ng mga tuntuning ito.
+Mayroong halos kasingdami ng uri ng mga sandatang artilerya gaya ng mga sandatang pangkamay, at ang seksyong ito ay sumasaklaw sa isang kinatawang sampling. Ang mas malalaking sandata gaya ng mga missile, rocket, at mga sandatang vehicle-vs.-vehicle o vehicle-vs.-structure ay labas na sa saklaw ng mga panuntunang ito.
 
-Ang bawat armas ng artillery ay may mga sumusunod na katangian:
+Ang bawat sandatang artilerya ay may mga sumusunod na katangian:
 
-* **Name:** Ang karaniwang pangalan para sa uri ng armas ng artillery.
+* **Pangalan:** Ang karaniwang pangalan para sa uri ng sandatang artilerya.
 
-* **Skill:** Ang kakayahang ginagamit para sa armas ng artillery na ito.
+* **Skill:** Ang skill na ginagamit para sa sandatang artilerya na ito.
 
-* **Base:** Ang batayang pagkakataon na gamitin ang armas ng artillery.
+* **Base:** Ang base chance na gamitin ang sandatang artilerya.
 
-* **Dmg:** Ang pinsalang ginagawa ng armas ng artillery, minsan na ipinahayag bilang dice/meter. Ang pinsala ay bumababa ng 1D6 bawat metro lampas sa paunang radius.
+* **Dmg:** Ang pinsalang idinudulot ng sandatang artilerya, minsan ay ipinapahayag bilang dice/meter. Ang pinsala ay nababawasan ng 1D6 bawat metro lampas sa paunang radius.
 
-* **Attk:** Ilang mga atake bawat round ang pinahihintulutan ng armas ng artillery.
+* **Attk:** Ang bilang ng mga pag-atake bawat round na pinapayagan ng sandatang artilerya.
 
 * **Special:** Ang uri ng espesyal na tagumpay.
 
-* **Rng:** Ang saklaw ng armas.
+* **Rng:** Ang saklaw ng sandata.
 
-* **Crew:** Ang bilang ng mga karakter na kinakailangan ng armas ng artillery upang magamit nang epektibo. Sa ibaba ng bilang na ito, ang lahat ng mga atake ay Mahirap.
+* **Crew:** Ang bilang ng mga karakter na kinakailangan ng sandatang artilerya upang magamit nang epektibo. Sa ibaba ng bilang na ito, lahat ng pag-atake ay itinuturing na Mahirap.
 
-* **HP:** Ang hit point ng armas ng artillery.
+* **HP:** Ang hit points ng sandatang artilerya.
 
-* **AV:** Ang armor value ng armas ng artillery, kung naaangkop.
+* **AV:** Ang armor value ng sandatang artilerya, kung naaangkop.
 
-* **Ammo:** Ang uri ng bala, maging solid, shrapnel, enerhiya, kemikal, o iba pa?
+* **Ammo:** Ang uri ng bala, kung solid, shrapnel, energy, chemical, o iba pa?
 
-* **CAP:** Ang kapasidad ng armas; ilang beses itong makakapagpaputok bago mag-reload o mag-recharge.
+* **CAP:** Ang kapasidad ng sandata; ilang putok ang kaya nitong gawin bago mag-reload o mag-recharge.
 
-* **Mal:** Ang pagkakataon ng armas ng artillery na mag-malfunction.
+* **Mal:** Ang pagkakataon ng sandatang artilerya na magkaroon ng malfunction.
 
-* **Value:** Ang average na gastos ng armas sa isang angkop na setting.
+* **Value:** Ang average na halaga ng sandata sa isang angkop na tagpuan.
 
-* **SIZ:** Ang SIZ ng armas ng artillery.
+* **SUK:** Ang SUK ng sandatang artilerya.
 
-Ang bawat armas ng artillery ay inilalarawan sa **Mga Paglalarawan ng Armas ng Artillery**.
+Ang bawat sandatang artilerya ay inilalarawan sa **Mga Paglalarawan ng Sandatang Artilerya**.
 
-### Mga Klase ng Armas ng Artillery
+### Mga Klasipikasyon ng Sandatang Artilerya
 
-Ang mga klaseng ito ay may ilang overlap, lalo na sa kakayahang Heavy Weapons, at ang kakayahang iyon ay maaaring magpahintulot sa mga manlalaro na gumamit ng mga armas ng artillery na parang Mahirap, o vice versa.
+Ang mga klasipikasyong ito ay may ilang pagkakatulad, lalo na sa Heavy Weapons skill, at ang skill na iyon ay maaaring magpahintulot sa mga manlalaro na gumamit ng mga sandatang artilerya na parang Mahirap, o vice versa.
 
-* **Cannon:** Cannon, energy cannon, field gun, howitzer, tank gun.
+* **Cannon:** Kanyon, energy cannon, field gun, howitzer, tank gun.
 
 * **Launcher:** Mortar.
 
@@ -1353,77 +1339,75 @@ Ang mga klaseng ito ay may ilang overlap, lalo na sa kakayahang Heavy Weapons, a
 
 * **Turret:** Energy turret, flame turret, laser turret, missile turret, machinegun turret, shock turret, spear-thrower turret.
 
-### Mga Epekto ng Armas ng Artillery
+### Mga Epekto ng Sandatang Artilerya
 
-Ang mga armas ng artillery ay bihirang gamitin laban sa mga indibidwal. Sila ay pinapaputok sa mga masa ng mga tao o sa mga pader at iba pang mga estruktura, kadalasang nakakaapekto sa isang lugar na SIZ 40 (mga apat na metro ang radius mula sa sentro, mga SIZ ng isang maliit na eroplano). Sinuman ang mahuhuli sa saklaw na iyon ay nasasaktan. Kung ang isang target ay mas maliit kaysa sa SIZ 40, bawasan ang pagkakataong tumama ng –1% bawat bawat punto ng SIZ na mas maliit kaysa sa 40.
+Ang mga sandatang artilerya ay bihirang gamitin laban sa mga indibidwal. Ang mga ito ay pinapaputok sa mga grupo ng tao o sa mga pader at iba pang istruktura, na karaniwang nakakaapekto sa isang lugar na may SUK 40 (mga apat na metro ang radius mula sa gitna, halos kasing-SUK ng isang maliit na eroplano). Sinumang mahuli sa saklaw na iyon ay masusugatan. Kung ang isang target ay mas maliit kaysa sa SUK 40, bawasan ang pagkakataong tumama ng –1% bawat puntos ng SUK na mas maliit sa 40.
 
-**Halimbawa,** ang paggamit ng armas ng artillery laban sa isang SIZ 14 na tao ay magreresulta sa –26% na pagbawas sa kaugnay na kakayahan.
+**Halimbawa,** ang paggamit ng sandatang artilerya laban sa isang taong may SUK 14 ay magreresulta sa –26% na bawas sa angkop na skill.
 
-Kung ang projectile ay makaligta, gamitin ang mga tuntunin para sa kakayahang Throw upang matukoy kung saan aktwal na nagpunta ang projectile, na pinarami ang distansya ng ×5.
+Kung ang projectile ay hindi tumama, gamitin ang mga panuntunan para sa Throw skill upang matukoy kung saan talaga napunta ang projectile, na pinararami ang distansya ng ×5.
 
-**Halimbawa,** kung ang kakayahang Throw ay nagpapahiwatig na ang isang projectile ay nakaligta ng apat na metro, i-multiply ang resulta ng ×5 para sa resulta na 20 metro. Ito ay upang matiyak na ang isang miss ay miss pa rin.
+**Halimbawa,** kung ang Throw skill ay nagpapahiwatig na ang isang projectile ay hindi tumama ng apat na metro, paramihin ang resulta ng ×5 para sa resulta na 20 metro. Ito ay upang matiyak na ang isang miss ay miss pa rin.
 
 ### Mga Guided Missile
 
-Ang mga anyo ng artillery tulad ng mga missile ay ginagabayan sa pamamagitan ng internal o external na electronic targeting system, na ginagawa silang mas tumpak. Kung ang isang missile ay ginagabayan sa paraang ito, ginagawa nitong Easy ang anumang paggamit ng kakayahan. Kung ito ay self-guided, awtomatiko itong tumatama sa target sa anumang roll maliban sa 99 o 00, bagaman ang isang mobile na target ay maaaring subukang iwasan ang missile. Kung gayon, ang mga pagsubok na umiwas (dodge) ay itinuturing na mga evasive na aksyon, at ang mga dodge laban sa isang guided missile ay Mahirap, maging ang kakayahang Dodge, Drive, o Pilot ang ginagamit.
+Ang mga anyo ng artilerya gaya ng mga missile ay ginagabayan sa pamamagitan ng internal o external na electronic targeting system, na ginagawa silang mas tumpak. Kung ang isang missile ay ginagabayan sa ganitong paraan, ginagawa nitong Madali ang anumang paggamit ng skill. Kung ito ay self-guided, awtomatiko nitong tatamaan ang target sa anumang roll maliban sa 99 o 00, bagaman ang isang mobile target ay maaaring subukang iwasan ang missile. Kung gayon, ang mga pagtatangkang umiwas ay itinuturing na mga evasive action, at ang mga iwas laban sa isang guided missile ay Mahirap, ginamit man ang Dodge, Drive, o Pilot skill.
 
-Ang pinakamahusay na depensa laban sa mga guided missile (bukod sa makapal na baluti) ay electronic jamming. Ang jamming ay ginagawang Mahirap ang pagkakataong umatake ng guided missile. Kung ang isang guided missile ay nakaligta sa target nito, tingnan ang mga tuntunin para sa mga miss ng armas ng artillery (nauna) upang matukoy kung saan aktwal na tumama ang projectile.
+Ang pinakamahusay na depensa laban sa mga guided missile (bukod sa makapal na armor) ay electronic jamming. Ginagawa ng jamming na Mahirap ang pagkakataong umatake ng isang guided missile. Kung ang isang guided missile ay hindi tumama sa target nito, tingnan ang mga panuntunan para sa mga miss ng sandatang artilerya (nauna) upang matukoy kung saan talaga tumama ang projectile.
 
 ### Shrapnel
 
-Maraming armas ng artillery ang maaaring magpaputok ng mga projectile na nagkakapira-piraso, o malalaking payload ng mas maliliit na projectile. Parehong nagsisilbi ang mga ito sa parehong layunin—pagkakalat ng mga matatalim na bagay (shrapnel) sa isang radius sa paligid ng punto ng epekto. Ang ilang mga armas ay nagpapaputok lamang ng mga solidong projectile, ang iba ay nagpapaputok lamang ng shrapnel, at ang ilan ay maaaring magpaputok ng alinman sa uri ng payload.
+Maraming sandatang artilerya ang maaaring magpaputok ng mga projectile na nagkakapira-piraso, o malalaking payload ng maliliit na projectile. Pareho ang layunin nito—ang pagpapakalat ng matatalim na bagay (shrapnel) sa isang radius sa paligid ng punto ng impact. Ang ilang sandata ay nagpapaputok lamang ng mga solid na projectile, ang iba ay nagpapaputok lamang ng shrapnel, at ang ilan ay maaaring magpaputok ng alinman sa dalawang uri ng payload.
 
-Ang shrapnel ay nakakasira sa mga tao, ngunit hindi sa mga gusali (sa isang kapansin-pansing antas). Ang pinsala mula sa shrapnel ay 1/6 lamang ng pinsalang ginawa (hatiin ang bilang ng dice kung posible, kung hindi, i-roll ang dice at hatiin sa 6, bilugan paitaas) ng isang maihahambing na solidong projectile, ngunit ito ay ginagawa sa lahat sa loob ng isang radius na katumbas sa mga metro sa bilang ng dice na tinatawag ng solidong projectile damage roll.
+Ang shrapnel ay nakakasakit sa mga tao, ngunit hindi sa mga gusali (sa isang kapansin-pansing antas). Ang pinsala mula sa shrapnel ay 1/6 lamang ng pinsalang naidulot (hatiin ang bilang ng dice kung maaari, kung hindi, i-roll ang dice at hatiin sa 6, na i-round up) ng isang maihahambing na solid na projectile, ngunit ito ay naidudulot sa lahat ng bagay sa loob ng radius na katumbas sa metro ng bilang ng dice na tinawag para sa solid na projectile damage roll.
 
-Halimbawa, ang isang trebuchet ay nagpapaputok ng projectile na gumagawa ng 12D6 na pinsala kapag tumama. Kung ito ay magpapaputok ng shrapnel, gagawa ito ng 2D6 sa lahat sa loob ng 12-metrong radius ng punto ng epekto.
+Halimbawa, ang isang trebuchet ay nagpapaputok ng isang projectile na nagdudulot ng 12D6 na pinsala kapag ito ay tumama. Kung ito ay magpapaputok ng shrapnel, magdudulot ito ng 2D6 sa lahat ng nasa loob ng 12-metrong radius mula sa punto ng impact.### Mga Deskripsyon ng Sandatang Artilerya
 
-### Mga Paglalarawan ng Armas ng Artillery
+Narito ang isang sampling ng mga sandatang artilerya, na nakaayos ayon sa alpabeto.
 
-Narito ang isang sampling ng mga armas ng artillery, na nakaayos ayon sa alpabeto.
+**Arbalest, Siege:** Isang mas mabigat na bersyon ng arbalest, na kinakargahan sa tulong ng isang cranequin.
 
-**Arbalest, Siege:** Isang mas mabigat na bersyon ng arbalest, na ni-reload sa tulong ng isang cranequin.
+**Ballista:** Isang malaking nakakabit na sandatang pandigma na nagpapatalsik ng mga bolt na gaya ng sa crossbow, kadalasan ay sa mga tao sa larangan ng digmaan sa halip na sa mga istruktura o iba pang sasakyan.
 
-**Ballista:** Isang malaking mounted na siege na armas na naghahagis ng crossbow-style na mga bolt, kadalasang sa mga tao sa larangan ng digmaan sa halip na sa mga estruktura o iba pang sasakyan.
+**Kanyon (Cannon):** Ang kanyon ay nagpapaputok ng mga solidong proyektil gaya ng mga shell, cannonball, o mas maliliit na bala gamit ang isang explosive charge na nasa loob ng base ng bariles. Habang mas matanda ang kanyon, mas hindi sopistikado ang proyektil nito. Ang ilang mga pirata ay nagkakarga ng mga kanyon ng mga tanikala upang sirain ang mga layag.
 
-**Cannon:** Ang isang kanyon ay nagpapaputok ng mga solidong projectile tulad ng mga shell, cannonball, o mas maliliit na shot gamit ang isang pampasabog na karga na nakapaloob sa base ng bariles. Kung mas luma ang kanyon, mas hindi sopistikado ang projectile. Ang ilang mga pirata ay nag-load ng mga kanyon ng mga kadena upang foul ang mga layag.
+**Kanyon, Enerhiya (Cannon, Energy):** Isang sandatang nagpoprodyus ng enerhiya na may mabigat na frame, nagpapaputok ng mga solong pagsabog o gumagamit ng umiikot na serye ng mga bariles para sa maramihang putok. Karaniwang nakakabit sa mga starship o sa mga base, bagaman ang ilan ay madaling dalhin.
 
-**Cannon, Energy:** Isang heavy-framed na armas ng enerhiya projection, na nagpapaputok ng mga solong pagsabog o gumagamit ng umiikot na serye ng mga bariles para sa maramihang pagpapaputok. Kadalasang nakakabit sa mga starship o sa mga base, bagaman ang ilan ay portable.
+**Katapulta (Catapult):** Isang sandatang pandigma na naghahagis ng mga bato at iba pang bagay sa isang parabolic arc patungo sa target na lugar. Dahil sa landas ng paglipad ng mga misil ng katapulta, mainam ang mga ito para abutin ang ibabaw ng mga pader ng mga bukas na kuta o magpaputok sa mga mabagal na sasakyang panlupa o pandagat.
 
-**Catapult:** Isang siege na armas na naghahagis ng mga bato at iba pang mga bagay sa isang parabolic arc papunta sa tinarget na lugar. Dahil sa landas ng paglipad ng mga projectile ng catapult, sila ay mainam para sa pag-abot sa ibabaw ng mga pader ng mga bukas na kuta o pagpapaputok sa mabagal na gumagalaw na mga sasakyan sa lupa o dagat.
+**Baril, Field (Gun, Field):** Isang mas maliit at mas madaling dalhin na kanyon.
 
-**Gun, Field:** Isang mas maliit at mas mobile na kanyon.
+**Baril, Gatling (Gun, Gatling):** Ang unang mabilis na umuulit na baril. Masyadong malaki para dalhin, ang mga Gatling gun ay nakakabit sa mga karwahe o mga cart na parang caisson na may dalawang gulong. Karamihan sa mga modernong machine gun ay nagmula sa disenyong ito.
 
-**Gun, Gatling:** Ang unang mabilis na-repeating na baril. Masyadong malaki upang madala, ang mga Gatling gun ay nakakabit sa mga karwahe o dalawang-gulong na caisson-like na mga cart. Karamihan sa mga modernong machine gun ay nagmula sa paunang disenyong ito.
+**Baril, Rail (Gun, Rail):** Isang napakalaking baril na gumagamit ng serye ng mga magnetic field upang magpatalsik ng proyektil sa isang riles, na nagpapabilis sa proyektil tungo sa hindi kapani-paniwalang bilis.
 
-**Gun, Rail:** Isang napakalaking baril na gumagamit ng serye ng mga magnetic field upang mag-propel ng isang projectile sa kahabaan ng isang riles, na nagpapabilis sa projectile sa napakabilis na bilis.
+**Baril, Tank (Gun, Tank):** Ang pangunahing sandata ng isang tanke, nagpapaputok ng mga high-velocity na malalaking kalibre ng bala mula sa iba't ibang uri ng amunisyon. Ang ilan sa mga karaniwang proyektil na pinuputok mula sa mga baril ng tanke ay high explosive, armor piercing, o mga guided missile.
 
-**Gun, Tank:** Ang pangunahing armas ng isang tangke, na nagpapaputok ng high-velocity na large caliber na mga round mula sa iba't ibang uri ng bala. Ang ilan sa mga mas karaniwang projectile na pinapaputok mula sa mga tank gun ay high explosive, armor piercing, o guided na mga missile.
+**Howitzer:** Isang uri ng field artillery na katulad ng kanyon, bagaman may mas maikli at mas makipot na bariles. Ang mga howitzer ay nagpapaputok ng mga proyektil sa mas mataas na anggulo at trajectory, na naghahatid ng plunging fire (putok na nahuhulog mula sa itaas) sa isang kaaway.
 
-**Howitzer:** Isang uri ng field artillery na katulad ng kanyon, bagaman may mas maikli at mas makipot na bariles. Ang mga howitzer ay nagpapaputok ng mga projectile sa mas mataas na anggulo at trajectory, na naghahatid ng plunging fire (apoy na nahuhulog mula sa itaas) sa isang kalaban.
+**Mortar:** Isang maliit na rocket launcher na nakabase sa lupa, nagpapaputok ng self-propelled na bomba sa isang mataas na arko patungo sa target. Ang mga ito ay madalas na hindi hihigit sa isang solido na base at isang tubo na may simpleng mekanismo ng pagpapaputok.
 
-**Mortar:** Isang maliit na rocket launcher na nakabase sa lupa, na nagpapaputok ng self-propelled na bomba sa isang mataas na arc sa target. Ang mga ito ay madalas na walang iba kundi isang solidong base at isang tubo na may simpleng firing mechanism.
+**Springal:** Katulad ng ballista sa function, ang sandatang pandigma na ito ay naghahagis ng napakalaking sibat sa isang target na lugar, ngunit maaari ring gamitin upang maghagis ng mga bato o bolt. Ang mga bolt ay inilulunsad sa isang direktang trajectory at ang mga bato ay inihahagis nang hindi direkta.
 
-**Springal:** Katulad ng ballista sa function, ang siege na armas na ito ay naghahagis ng napakalaking javelin sa isang tinarget na lugar, ngunit maaari ring gamitin upang maghagis ng mga bato o bolt. Ang mga bolt ay inilulunsad sa isang direktang trajectory at ang mga bato ay inihahagis nang hindi direkta.
+**Torpedo:** Isang self-propelled na misil na ginagamit sa ilalim ng tubig o sa kalawakan, na nakatakdang sumabog sa pagtama sa target. Ang mga mas lumang torpedo ay minsan pinapasabog sa isang kalkuladong distansya upang maiwasan ang mga ito na maging panganib sa paglalayag. Ang mas sopistikadong mga modelo ay may mga guidance system at kakayahang mag-lock sa mga target.
 
-**Torpedo:** Isang self-propelled na missile na ginagamit sa ilalim ng tubig o sa kalawakan, na itinakda upang sumabog sa pakikipag-ugnayan sa target. Ang mga mas lumang torpedo ay minsan itinakda sa isang kalkuladong distansya upang maiwasan silang maging mga navigational hazard. Ang mas sopistikadong mga modelo ay may mga guidance system at kakayahang mag-lock sa mga target.
+**Trebuchet:** Ang siege engine na ito na parang seesaw ay gumagamit ng napakalaking counterweight upang maghagis ng malalaking bato o iba pang kargamento sa target na lugar. Kadalasang binuo sa isang larangan ng digmaan, tina-target lamang nito ang isang solong lugar, at ang tanging paraan upang baguhin ang aim ay ang paikliin ang distansya o ilipat ang buong trebuchet.
 
-**Trebuchet:** Ang seesaw-like na siege engine na ito ay gumagamit ng isang napakalaking counterweight upang maghagis ng malalaking bato o iba pang payload sa tinarget na lugar. Kadalasang binuo sa larangan ng digmaan, tina-target lamang nito ang isang solong lugar, at ang tanging paraan ng pagpapalit ng layunin ay ang pagpapaikli sa distansya o paglipat ng buong trebuchet.
+**Turret, Enerhiya (Turret, Energy):** Ginagamit sa kalawakan o sa lupa, ang isang energy turret ay isang malaking sandatang nagpoprodyus ng enerhiya na kumukuha ng napakalaking dami ng kapangyarihan. Karaniwang ginagamit sa mga space station, medium-to-large na spaceships, o sa malalaking labanan sa lupa. Kung hindi man, katulad ito ng isang machinegun turret (sa ibaba).
 
-**Turret, Energy:** Ginagamit sa kalawakan o sa lupa, ang energy turret ay isang malaking armas na nag-a-project ng enerhiya na humuhugot ng napakalaking dami ng lakas. Karaniwang ginagamit sa mga space station, medium-to-large na mga spaceship, o sa malalaking labanan sa lupa. Kung hindi man ay katulad ng machinegun turret (sa ibaba).
+**Turret, Apoy (Turret, Flame):** Isang turret-mounted na flamethrower, kadalasang may karagdagang armor na nagpoprotekta sa gumagamit, na nag-aalok ng mas mahabang saklaw kaysa sa isang hand-held na flame projector.
 
-**Turret, Flame:** Isang turret-mounted na flamethrower, kadalasang may karagdagang baluti na nagpoprotekta sa gumagamit, na nag-aalok ng mas malawak na saklaw kaysa sa hand-held na flame projector.
+**Turret, Laser (Turret, Laser):** Isang turret-mounted na laser cannon, madalas na nakakabit sa isang space station o defensive satellite. Katulad ng energy turret (sa itaas) ngunit gumagamit ng lased light sa halip na mga hilaw na pagsabog ng enerhiya.
 
-**Turret, Laser:** Isang turret-mounted na laser cannon, kadalasang nakakabit sa isang space station o defensive satellite. Katulad ng energy turret (sa itaas) ngunit gumagamit ng lased na liwanag sa halip na mga raw na pagsabog ng enerhiya.
+**Turret, Machinegun (Turret, Machinegun):** Isang malaking machine gun na nakalagay sa isang umiikot na base, na may kakayahang magkaroon ng malawak na arko ng putok, kadalasang ginagabayan mula sa malayo o mula sa isang internal o external na gunner. Ang mga turret ay karaniwang nakakabit sa mga medium o malalaking eroplano, barko, tanke o iba pang mga motor na sasakyan, o kahit sa mga pader o iba pang estrukturang pandepensa.
 
-**Turret, Machinegun:** Isang malaking machine gun na nakalagay sa isang umiikot na base, na may kakayahang malawak na arc ng pagpapaputok, kadalasang ginagabayan alinman sa malayo o mula sa isang internal o external na gunner. Ang mga turret ay kadalasang nakakabit sa medium o malalaking eroplano, barko, tangke o iba pang sasakyang motor, o kahit sa mga pader o iba pang mga estrukturang nagtatanggol.
+**Turret, Shock (Turret, Shock):** Isang turret na may kakayahang mag-prodyus ng kidlat o electric arc sa isang distansya, kadalasang gumagamit ng ilang uri ng alternating current. Ang isang shock turret ay may +20% to hit laban sa isang metallic na target, o isang target na natatakpan ng metal na armor.
 
-**Turret, Shock:** Isang turret na may kakayahang mag-project ng kidlat o electric arc sa malayo, kadalasang gumagamit ng ilang anyo ng alternating current. Ang shock turret ay may +20% na tumama laban sa isang metal na target, o isang target na natatakpan ng metal na baluti.
+**Turret, Spear-thrower (Turret, Spear-thrower):** Isang turret-mounted na automatic spear-gun, na kadalasang nagpapaputok ng meter-long na mga metal na bolt sa halip na mga tunay na sibat. Ang ilang mga unang modelo ay ginagamit sa industriya ng panghuhuli ng balyena, bagaman ginagamit din ang mga ito sa mga post-apocalyptic na setting.
 
-**Turret, Spear-thrower:** Isang turret-mounted na automatic spear-gun, kadalasang nagpapaputok ng meter-long na metal na bolt sa halip na aktwal na mga sibat. Ang ilang mga maagang modelo ay ginagamit sa industriya ng panghuhuli ng balyena, bagaman sila ay ginagamit din sa mga post-apocalyptic na setting.
+##### Mga Sinaunang Sandatang Artilerya
 
-##### Mga Sinaunang Armas ng Artillery
-
-| Pangalan | Kakayahan | Base | Dmg | Attk | Special | Rng | Crew | HP | AV | Ammo | Cap | Mal | Halaga | SIZ | Rate |
+| Pangalan | Skill | Base | Dmg | Attk | Espesyal | Rng | Crew | HP | AV | Ammo | Cap | Mal | Value | SUK | Rate |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Arbalest, Siege | Crossbow | 10 | 3D6+1 | 1/5 | Impaling | 425 | 1 | 18 | — | Bolts | 1 | 98–00 | Average | 14 | 1/5 rounds |
 | Ballista | Siege Engine | 05 | 10D6 | 1/5 | Impaling | 275 | 3 | 32 | 12 | Bolts | 1 | 99–00 | Average | 42 | 1/5 rounds |
@@ -1432,269 +1416,261 @@ Narito ang isang sampling ng mga armas ng artillery, na nakaayos ayon sa alpabet
 | Springald, Rock-firing | Siege Engine | 05 | 3D6 | 1/5 | Crushing | 270 | 3 | 40 | 12 | Rocks | 1 | 99–00 | Average | 48 | 1/5 rounds |
 | Trebuchet | Siege Engine | 05 | 12D6 | 1/15 | Crushing | 300 | 4 | 44 | 12 | Rocks | 1 | 98–00 | Average | 52 | 1/15 rounds |
 
-##### Mga Historikal at Modernong Armas ng Artillery
+##### Makasaysayan at Modernong Sandatang Artilerya
 
-| Pangalan | Kakayahan | Base | Dmg | Attk | Special | Rng | Crew | HP | AV | Ammo | Cap | Mal | Halaga | SIZ | Rate |
+| Pangalan | Skill | Base | Dmg | Attk | Espesyal | Rng | Crew | HP | AV | Ammo | Cap | Mal | Value | SUK | Rate |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Cannon | Cannon | 01 | 4D8+4 | 1/5 | Crushing | 8,000 | 3 | 36 | 28 | Cannonballs | 1 | 99–00 | Expensive | 44 | 1/5 rounds |
-| Gun, Field | Cannon | 01 | 10D6/2 metro | 1/3 | Crushing | 12,000 | 2 | 48 | 28 | Explosive | 1 | 00 | Restricted | 42 | 1/3 rounds |
+| Gun, Field | Cannon | 01 | 10D6/2 meters | 1/3 | Crushing | 12,000 | 2 | 48 | 28 | Explosive | 1 | 00 | Restricted | 42 | 1/3 rounds |
 | Gun, Gatling | Heavy Weapon | 15 | 2D6+4 | Burst1 | Impaling | 100 | 1 | 20 | 24 | Bullets | 200 | 96–00 | Restricted | 20 | 1/round |
-| Gun, Tank | Cannon | 01 | 15D6/4 metro | 1 | Impaling | 2,000 | 2 | 36 | 28 | Explosive | 1 | 00 | Restricted | 28 | 1/round |
-| Howitzer | Cannon | 01 | 10D6/2 metro | 1/2 | Crushing | 9,000 | 2 | 44 | 28 | Explosive | 1 | 00 | Restricted | 36 | 1/2 rounds |
-| Mortar2 | Launcher | 01 | 10D6/2 metro | 1 | Crushing | 2,500 | 1 | 18 | 12 | Rockets | 1 | 00 | Restricted | 12 | 1/round |
-| Torpedo | Missile | 01 | 20D62 metro | 1/2 | Impaling | 5,000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | Restricted | 243 | 1/2 rounds |
+| Gun, Tank | Cannon | 01 | 15D6/4 meters | 1 | Impaling | 2,000 | 2 | 36 | 28 | Explosive | 1 | 00 | Restricted | 28 | 1/round |
+| Howitzer | Cannon | 01 | 10D6/2 meters | 1/2 | Crushing | 9,000 | 2 | 44 | 28 | Explosive | 1 | 00 | Restricted | 36 | 1/2 rounds |
+| Mortar2 | Launcher | 01 | 10D6/2 meters | 1 | Crushing | 2,500 | 1 | 18 | 12 | Rockets | 1 | 00 | Restricted | 12 | 1/round |
+| Torpedo | Missile | 01 | 20D62 meters | 1/2 | Impaling | 5,000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | Restricted | 243 | 1/2 rounds |
 | Turret, Machinegun | Turret | 05 | 4D6+4 | Burst4 | Impaling | 200 | 1 | 48 | 28 | Bullets | 1,000 | 98–00 | Restricted | 36 | 1/round |
 | Turret, Spear-thrower | Turret | 05 | 2D10+2 | 1 | Impaling | 350 | 1 | 26 | 28 | Spears | 1 | 00 | Expensive | 16 | 1/round |
 
-1. Ang Gatling gun ay nagpapaputok ng 36-round na burst bawat combat round.  
-2. Ito ay isang maliit na man-portable na mortar. Para sa mas malalaking bersyon, gamitin ang mga istatistika para sa isang howitzer.  
-3. Ang SIZ ay para sa torpedo mismo; dapat itong paputukin mula sa isang launch tube, kadalasang bahagi ng isang submarino o iba pang sasakyang-dagat.  
-4. Ang isang standard na machinegun turret ay nagpapaputok ng 120-round na burst bawat combat round.  
-5. Kung ang isang target ay tinamaan, i-roll ang Luck. Kung mabigo ang roll, sila ay nagliliyab at tumatanggap ng 1D6 puntos ng pinsala agad at bawat sumunod na combat round hanggang sa maapula ang apoy o kung hindi man ay ma-neutralize (tingnan ang **Apoy at Init**).  
-6. I-roll ang pinsala at itapat ito vs. CON ng target sa isang resistance roll. Kung matalo ang target, sila ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**).
+##### Mga Advanced na Sandatang Artilerya
 
-##### Mga Advanced na Armas ng Artillery
-
-| Pangalan | Kakayahan | Base | Dmg | Attk | Special | Rng | Crew | HP | AV | Ammo | Cap | Mal | Halaga | SIZ | Rate |
+| Pangalan | Skill | Base | Dmg | Attk | Espesyal | Rng | Crew | HP | AV | Ammo | Cap | Mal | Value | SUK | Rate |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Cannon, Energy | Cannon | 01 | 4D10+4 | 1 | Fire | 1,000 | 3 | 40 | 28 | Energy | Unlimited | 00 | Restricted | 48 | 1/round |
 | Gun, Rail- | Mounted Gun | 01 | 6D8+6 | 1/3 | Impaling | 10,000 | 2 | 64 | 28 | Shells | 1,000 | 00 | Restricted | 72 | 1/3 rounds |
 | Turret, Energy | Turret | 05 | 6D10+6 | 1 | Fire | 400 | 1 | 36 | 28 | Energy | Unlimited | 00 | Restricted | 44 | 1/round |
-| Turret, Flame | Turret | 10 | 4D6/1 metro5 | 1 | Fire | 50 | 1 | 24 | 28 | Fuel | 100 | 98–00 | Restricted | 32 | 1/round |
+| Turret, Flame | Turret | 10 | 4D6/1 meter5 | 1 | Fire | 50 | 1 | 24 | 28 | Fuel | 100 | 98–00 | Restricted | 32 | 1/round |
 | Turret, Laser | Turret | 05 | 4D8+4 | 1 | Fire | 600 | 1 | 32 | 28 | Energy | Unlimited | 99–00 | Restricted | 40 | 1/round |
-| Turret, Missile | Turret | 01 | 8D6+8/2 metro | Burst | Impaling | 1,200 | 1 | 36 | 28 | Missiles | 100 | 00 | Restricted | 44 | 1/round |
-| Turret, Shock | Turret | 05 | 4D6/1 metro6 | 1/2 | Stun | 40 | 1 | 24 | 28 | Energy | Unlimited | 96–00 | Restricted | 32 | 1/2 rounds |
+| Turret, Missile | Turret | 01 | 8D6+8/2 meters | Burst | Impaling | 1,200 | 1 | 36 | 28 | Missiles | 100 | 00 | Restricted | 44 | 1/round |
+| Turret, Shock | Turret | 05 | 4D6/1 meter6 | 1/2 | Stun | 40 | 1 | 24 | 28 | Energy | Unlimited | 96–00 | Restricted | 32 | 1/2 rounds |
 
-1. Ang pinsala ay ipinapahayag sa dice bawat metro; ang pinsala na ginagawa bawat metro lampas sa paunang radius ay bumababa ng 1D bawat metro.  
-2. Ang pinsala ay ini-roll at itinatapat vs. CON ng target na nakabatay sa electronic/electrical o kasalukuyang hit point sa resistance roll. Kung matalo ang target, sila ay dumaranas ng rolled na halaga sa pinsala. Kung ang resistance roll ay matagumpay, ang target ay tumatanggap ng pinakamababang pinsala ng detonator (batay sa saklaw) sa kasalukuyang hit point.  
-3. Ang isang tinamaan na target ay dapat gumawa ng Mahirap na roll ng Luck. Kung mabigo ang roll, sila ay nagliliyab at tumatanggap ng 1D6 puntos ng pinsala agad at bawat sumunod na round hanggang sa maapula ang apoy o ma-neutralize (tingnan ang **Apoy at Init**).  
-4. Laban sa isang nonliving na target, ang pinsala ay itinatapat vs. base CON, armor value, o hit point ng target (gamemaster choice). Kung matalo ang target sa roll, ito ay mababasag o mapipinsala at hindi gagana.  
-5. I-roll ang pinsala at itapat ito vs. CON ng target sa isang resistance roll. Kung matagumpay ang target, sila ay tumatanggap ng pinakamababang pinsala (2) sa halip na ang rolled na pinsala. Kung matalo ang target, sila ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**).
+1. Ang Gatling gun ay nagpapaputok ng 36-round burst bawat combat round.
+2. Ito ay isang maliit na man-portable na mortar. Para sa mas malalaking bersyon, gamitin ang mga istatistika para sa howitzer.
+3. Ang SUK ay para sa torpedo mismo; dapat itong iputok mula sa isang launch tube, kadalasang bahagi ng isang submarine o iba pang sasakyang pandagat.
+4. Ang isang standard na machinegun turret ay nagpapaputok ng 120-round burst bawat combat round.
+5. Kung ang isang target ay tinamaan, mag-roll ng Luck. Kung mabigo ang roll, sila ay nag-aapoy at tumatanggap ng 1D6 na puntos ng pinsala agad at bawat susunod na combat round hanggang sa maapula ang apoy o kung hindi man ay ma-neutralize (tingnan ang **Apoy at Init**).
+6. Mag-roll ng pinsala at itapat ito laban sa TIB ng target sa isang resistance roll. Kung matalo ang target, sila ay ma-stun sa loob ng 1D3+1 na rounds (tingnan ang **Stunning**).
 
-##### Mga Modernong Pampasabog
+##### Modernong mga Pagsabog
 
-| Armas | Kakayahan | Base | Dmg1 | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Sandata | Skill | Base | Dmg1 | Attk | Espesyal | Rng | Hands | HP | Parry | LAK/KAD | Mal | Value | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Blasting Cap | Demolition | — | 2D6/1 metro | 1/2 | Knockback | 3 | — | 3 | No | — | 00 | Average | 0.2 |
-| Dynamite | Demolition | Throw | 5D6/2 metro | 1/2 | Knockback | Thrown | 2H | 1 | No | 5/5 | 99–00 | Average | 0.5 |
-| Explosive, Improvised | Demolition | — | 3D6/2 metro | 1 | Knockback | 8 | — | 4 | No | — | 91–00 | Cheap | 1.0 |
-| Explosive, Plastic | Demolition | — | 6D6/3 metro | 1/3 | Knockback | 21 | — | 15 | No | — | 99–00 | Expensive | 1.0 |
-| Grenade, Concussion | Grenade | Throw | 2D62/2 metro | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 00 | Average | 0.7 |
-| Grenade, Explosive | Grenade | Throw | 4D6/4 metro | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 99–00 | Average | 0.7 |
-| Grenade, Flare | Grenade | Throw | 3/3 metro | 1 | — | Thrown | 1H | 6 | No | 5/5 | 00 | Average | 0.7 |
-| Grenade, Gas | Grenade | Throw | 4/3 metro | 1 | — | Thrown | 1H | 6 | No | 5/5 | 99–00 | Average | 0.7 |
-| Grenade, Phosphorous | Grenade | Throw | 2D65/24 metro | 1 | — | Thrown | 1H | 4 | No | 5/5 | 98–00 | Expensive | 0.7 |
-| Grenade, Shrapnel | Grenade | Throw | 4D6/4 metro | 1 | Impaling | Thrown | 1H | 8 | No | 5/5 | 00 | Average | 0.7 |
-| Grenade, Smoke | Grenade | Throw | 6/3 metro | 1 | — | Thrown | 1H | 6 | No | 5/5 | 00 | Average | 0.3 |
-| Grenade Launcher | Grenade | 25 | 3D6/2 metro | 1/3 | Knockback | 20 | 1H | 12 | No | — | 99–00 | Expensive | 3.0 |
-| Launcher, LAW Rocket | Grenade | 15 | 8D6/1 metro | 1 | Knockback | 150 | 2H | 10 | No | 7/5 | 98–00 | Expensive | 4.5 |
-| Launcher, Rocket | Grenade | 01 | 10D6/5 metro | 1/3 | Impaling, Knockback | 400 | 2H | 12 | No | 11/7 | 99–00 | Expensive | 7.0 |
-| Mine, Antipersonnel | Demolition | — | 4D6/5 metro | — | Knockback | 25 | — | 9 | No | — | 99–00 | Average | 2.0 |
+| Blasting Cap | Demolition | — | 2D6/1 meter | 1/2 | Knockback | 3 | — | 3 | No | — | 00 | Average | 0.2 |
+| Dynamite | Demolition | Throw | 5D6/2 meters | 1/2 | Knockback | Thrown | 2H | 1 | No | 5/5 | 99–00 | Average | 0.5 |
+| Explosive, Improvised | Demolition | — | 3D6/2 meters | 1 | Knockback | 8 | — | 4 | No | — | 91–00 | Cheap | 1.0 |
+| Explosive, Plastic | Demolition | — | 6D6/3 meters | 1/3 | Knockback | 21 | — | 15 | No | — | 99–00 | Expensive | 1.0 |
+| Grenade, Concussion | Grenade | Throw | 2D62/2 meters | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 00 | Average | 0.7 |
+| Grenade, Explosive | Grenade | Throw | 4D6/4 meters | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 99–00 | Average | 0.7 |
+| Grenade, Flare | Grenade | Throw | 3/3 meters | 1 | — | Thrown | 1H | 6 | No | 5/5 | 00 | Average | 0.7 |
+| Grenade, Gas | Grenade | Throw | 4/3 meters | 1 | — | Thrown | 1H | 6 | No | 5/5 | 99–00 | Average | 0.7 |
+| Grenade, Phosphorous | Grenade | Throw | 2D65/24 meters | 1 | — | Thrown | 1H | 4 | No | 5/5 | 98–00 | Expensive | 0.7 |
+| Grenade, Shrapnel | Grenade | Throw | 4D6/4 meters | 1 | Impaling | Thrown | 1H | 8 | No | 5/5 | 00 | Average | 0.7 |
+| Grenade, Smoke | Grenade | Throw | 6/3 meters | 1 | — | Thrown | 1H | 6 | No | 5/5 | 00 | Average | 0.3 |
+| Grenade Launcher | Grenade | 25 | 3D6/2 meters | 1/3 | Knockback | 20 | 1H | 12 | No | — | 99–00 | Expensive | 3.0 |
+| Launcher, LAW Rocket | Grenade | 15 | 8D6/1 meter | 1 | Knockback | 150 | 2H | 10 | No | 7/5 | 98–00 | Expensive | 4.5 |
+| Launcher, Rocket | Grenade | 01 | 10D6/5 meters | 1/3 | Impaling, Knockback | 400 | 2H | 12 | No | 11/7 | 99–00 | Expensive | 7.0 |
+| Mine, Antipersonnel | Demolition | — | 4D6/5 meters | — | Knockback | 25 | — | 9 | No | — | 99–00 | Average | 2.0 |
 | Mine, Antitank | Demolition | — | 6D6+6/ 3D6+2/1D6 | — | Impaling | 10/25/50 | — | 12 | No | — | 99–00 | Average | 3.0 |
 | Molotov Cocktail | Grenade | Throw | 1+Fire7 | 1/2 | — | Thrown | 1H | 1 | No | 5/7 | 95–00 | Cheap | 0.7 |
 
-1. Ang pinsala ay ipinapahayag sa dice bawat metro; ang pinsala bawat metro lampas sa paunang radius ay bumababa ng 1D6.  
-2. Lahat ng mga tinamaang target ay dapat magtagumpay sa Stamina roll o mapapatulog (tingnan ang **Stunning**).  
-3. Nagbibigay ng liwanag sa lugar ng saklaw sa halip na pinsala (tingnan ang **Mga Pinagmumulan ng Liwanag**).  
-4. Pinupuno ang lugar ng nakakalason o hindi nakakalason na gas (tingnan ang **Mga Lason**). Ang halimbawang gas grenade ay maaaring may 2D6+12 POT, instant na epekto, at magdulot ng pagsakal at 1D6 bawat round na pagkawala ng hit point kung ang target ay nabigo sa resistance roll vs. CON.  
-5. Ang mga phosphorous grenade ay gumagawa ng usok at incendiary rin, na nagdudulot ng pinsala bawat round hanggang sa maapula (tingnan ang **Apoy at Init**).  
-6. Pinupuno ang isang lugar ng usok na nakakatakip ng paningin sa halip na pinsala; maaaring takpan ang isang silid na parang madilim (tingnan ang **Kadiliman**).  
-7. Kung ang target ay tinamaan, dapat silang mag-roll ng Luck. Kung mabigo ang roll, sila ay nagliliyab at tumatanggap ng 1D6 puntos ng pinsala agad at bawat sumunod na round hanggang sa maapula ang apoy o ma-neutralize (tingnan ang **Apoy at Init**).
+1. Ang pinsala ay ipinapahayag sa dice bawat metro; ang pinsalang ginawa bawat metro pagkatapos ng paunang radius ay bumababa ng 1D6.
+2. Lahat ng napinsalang target ay dapat magtagumpay sa isang Stamina roll o ma-stun (tingnan ang **Stunning**).
+3. Nag-iilaw ng lugar ng saklaw sa halip na pinsala (tingnan ang **Mga Pinagmulan ng Liwanag**).
+4. Pinupuno ang lugar ng nakakalason o hindi nakakalason na gas (tingnan ang **Mga Lason**). Ang halimbawang gas grenade ay maaaring may 2D6+12 POT, instant effect, at nagdudulot ng pagkasakal at 1D6 bawat round na pagkawala ng hit point kung ang target ay mabigo sa isang resistance roll laban sa TIB.
+5. Ang mga phosphorous grenade ay gumagawa ng usok at isa ring incendiary, na nagdudulot ng pinsala bawat round hanggang sa maapula (tingnan ang **Apoy at Init**).
+6. Pinupuno ang isang lugar ng usok na nakakahadlang sa paningin sa halip na magdulot ng pinsala; maaaring makahadlang sa isang silid na parang madilim (tingnan ang **Kadiliman**).
+7. Kung ang isang target ay tinamaan, dapat silang mag-roll ng Luck. Kung mabigo ang roll, sila ay nag-aapoy at tumatanggap ng 1D6 na puntos ng pinsala agad at bawat susunod na round hanggang sa maapula o ma-neutralize ang apoy (tingnan ang **Apoy at Init**).
 
-##### Mga Advanced na Pampasabog
+##### Advanced na mga Pagsabog
 
-| Armas | Kakayahan | Base | Dmg1 | Attk | Special | Rng | Hands | HP | Parry | STR/DEX | Mal | Halaga | SIZ/Enc |
+| Sandata | Skill | Base | Dmg1 | Attk | Espesyal | Rng | Hands | HP | Parry | LAK/KAD | Mal | Value | SUK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Detonator, Antimatter | Demolition | — | 10D10/10 metro | 1 | — | 110 | — | 12 | No | — | 96–00 | Expensive | 1.5 |
-| Detonator, Fusion | Demolition | — | 10D8/10 metro | 1 | — | 110 | — | 16 | No | — | 98–00 | Expensive | 2.0 |
-| Detonator, EM Pulse | Demolition | — | 6D10/5 metro2 | 1 | — | 35 | — | 12 | No | — | 97–00 | Expensive | 1.0 |
-| Detonator, Plasma | Demolition | — | 6D10/5 metro3 | 1 | — | 35 | — | 10 | No | — | 99–00 | Expensive | 1.4 |
-| Detonator, Sonic | Demolition | — | 4D6/2 metro4 | 1 | Knockback | 10 | — | 8 | No | — | 97–00 | Expensive | 2.0 |
-| Grenade, Disintegrator | Grenade | Throw | 4D10/2 metro | 1 | — | Thrown | 1H | 12 | No | 5/5 | 96–00 | Expensive | 0.8 |
-| Grenade, EM Pulse | Grenade | Throw | 5D8/1 metro | 1 | — | Thrown | 1H | 8 | No | 5/5 | 98–00 | Average | 0.5 |
-| Grenade, Fusion | Grenade | Throw | 6D6/1 metro | 1 | — | Thrown | 1H | 10 | No | 5/5 | 97–00 | Average | 0.8 |
-| Grenade, Plasma | Grenade | Throw | 3D10/2 metro3 | 1 | — | Thrown | 1H | 10 | No | 5/5 | 98–00 | Average | 0.7 |
-| Grenade, Shock | Grenade | Throw | 4D6/1 metro | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 98–0 | Average | 0.5 |
-| Grenade, Stun | Grenade | Throw | 3D8/2 metro5 | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 98–00 | Average | 0.5 |
+| Detonator, Antimatter | Demolition | — | 10D10/10 meters | 1 | — | 110 | — | 12 | No | — | 96–00 | Expensive | 1.5 |
+| Detonator, Fusion | Demolition | — | 10D8/10 meters | 1 | — | 110 | — | 16 | No | — | 98–00 | Expensive | 2.0 |
+| Detonator, EM Pulse | Demolition | — | 6D10/5 meters2 | 1 | — | 35 | — | 12 | No | — | 97–00 | Expensive | 1.0 |
+| Detonator, Plasma | Demolition | — | 6D10/5 meters3 | 1 | — | 35 | — | 10 | No | — | 99–00 | Expensive | 1.4 |
+| Detonator, Sonic | Demolition | — | 4D6/2 meters4 | 1 | Knockback | 10 | — | 8 | No | — | 97–00 | Expensive | 2.0 |
+| Grenade, Disintegrator | Grenade | Throw | 4D10/2 meters | 1 | — | Thrown | 1H | 12 | No | 5/5 | 96–00 | Expensive | 0.8 |
+| Grenade, EM Pulse | Grenade | Throw | 5D8/1 meter | 1 | — | Thrown | 1H | 8 | No | 5/5 | 98–00 | Average | 0.5 |
+| Grenade, Fusion | Grenade | Throw | 6D6/1 meter | 1 | — | Thrown | 1H | 10 | No | 5/5 | 97–00 | Average | 0.8 |
+| Grenade, Plasma | Grenade | Throw | 3D10/2 meters3 | 1 | — | Thrown | 1H | 10 | No | 5/5 | 98–00 | Average | 0.7 |
+| Grenade, Shock | Grenade | Throw | 4D6/1 meter | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 98–0 | Average | 0.5 |
+| Grenade, Stun | Grenade | Throw | 3D8/2 meters5 | 1 | Knockback | Thrown | 1H | 8 | No | 5/5 | 98–00 | Average | 0.5 |
 
-1. Ang pinsala ay ipinapahayag sa dice bawat metro; ang pinsala na ginagawa bawat metro lampas sa paunang radius ay bumababa ng 1D bawat metro.  
-2. Ang pinsala ay ini-roll at itinatapat vs. CON ng target na nakabatay sa electronic/electrical o kasalukuyang hit point sa resistance roll. Kung matalo ang target, sila ay dumaranas ng rolled na halaga sa pinsala. Kung matagumpay ang resistance roll, ang target ay tumatanggap ng pinakamababang pinsala ng detonator (batay sa saklaw) sa kasalukuyang hit point.  
-3. Ang isang tinamaan na target ay dapat gumawa ng Mahirap na roll ng Luck. Kung mabigo ang roll, sila ay nagliliyab at tumatanggap ng 1D6 puntos ng pinsala agad at bawat sumunod na round hanggang sa maapula ang apoy o ma-neutralize (tingnan ang **Apoy at Init**).  
-4. Laban sa isang nonliving na target, ang pinsala ay itinatapat vs. base CON, armor value, o hit point ng target (gamemaster choice). Kung matalo ang target sa roll, ito ay mababasag o mapipinsala at hindi gagana.  
-5. I-roll ang pinsala at itapat ito vs. CON ng target sa isang resistance roll. Kung matagumpay ang target, sila ay tumatanggap ng pinakamababang pinsala (2) sa halip na ang rolled na pinsala. Kung matalo ang target, sila ay mapapatulog (stunned) para sa 1D3+1 rounds (tingnan ang **Stunning**).
+1. Ang pinsala ay ipinapahayag sa dice bawat metro; ang pinsalang ginawa bawat metro pagkatapos ng paunang radius ay bumababa ng 1D bawat metro.
+2. Ang pinsala ay nire-roll at itinatapat laban sa TIB o kasalukuyang hit points ng isang electronic/electrical-based na target sa resistance roll. Kung matalo ang target, natatanggap nila ang na-roll na halaga bilang pinsala. Kung ang resistance roll ay matagumpay, ang target ay tumatanggap ng minimum na pinsala ng detonator (base sa saklaw) sa kasalukuyang hit points.
+3. Ang tinamaang target ay dapat gumawa ng Difficult Luck roll. Kung mabigo ang roll, sila ay nag-aapoy at tumatanggap ng 1D6 na puntos ng pinsala agad at bawat susunod na round hanggang sa maapula o ma-neutralize ang apoy (tingnan ang **Apoy at Init**).
+4. Laban sa isang nonliving na target, ang pinsala ay itinatapat laban sa base TIB, armor value, o hit points ng target (gamemaster choice). Kung mabigo ang target sa roll, ito ay magkakapira-piraso o mawawalan ng kakayahang gumana.
+5. Mag-roll ng pinsala at itapat ito laban sa TIB ng target sa isang resistance roll. Kung magtagumpay ang target, tumatanggap sila ng minimum na pinsala (2) sa halip na ang na-roll na pinsala. Kung matalo ang target, sila ay ma-stun sa loob ng 1D3+1 na rounds (tingnan ang **Stunning**).
 
 ## Mga Robot at Artipisyal na Buhay
 
-Ang isang natatanging uri ng kagamitan ay ang **robot**, isang konstruksyon na itinaturing na parang karakter, na may katulad na saklaw ng mga katangian at kakayahan. Ang mga robot ay mula sa hugis at disenyo na non-Humanoid golems, clumsy at oversized na mga automaton, makinis at kaakit-akit na mga Humanoid, o kahit hindi matukoy mula sa Sangkatauhan. Para sa kaginhawaan, ang lahat ng uri ng mga robot (android, golem, synthetic Humanoid, A.I., atbp.) ay tinutukoy bilang mga robot sa mga tuntuning ito.
+Ang isang natatanging uri ng kagamitan ay ang **robot**, isang konstruksyon na itinuturing na parang isang karakter, na may katulad na saklaw ng mga katangian at kakayahan. Ang mga robot ay mula sa hugis at disenyo ng mga non-Humanoid na golem, mga clumsy at oversized na automaton, makinis at kaakit-akit na mga Humanoid, o kahit na hindi na makilala mula sa pagiging Tao. Para sa kaginhawahan, ang lahat ng uri ng robot (androids, golems, synthetic Humanoids, A.I., atbp.) ay tinutukoy bilang mga robot sa mga panuntunang ito.
 
-Ang lahat ng mga katangian para sa isang robot ay kapareho ng sa isang normal na karakter, na may parehong mga katangian, kakayahan, at kahit mga kapangyarihan. Ang Kabanata Labing-isa: Mga Nilalang ay may sample na robot.
+Ang lahat ng mga attribute para sa isang robot ay kapareho ng sa isang normal na karakter, na may parehong mga katangian, kakayahan, at maging mga kapangyarihan. Ang Kabanata Labing-isa: Mga Nilalang ay may sample na robot.
 
 ### Mga Robot bilang mga Player Character
 
-Sa pahintulot ng iyong gamemaster, ang iyong karakter ay maaaring maging isang robot, alinman sa binuo gamit ang normal na paglikha ng karakter o gamit ang isa sa mga sample bilang template. Kung gayon, ang iyong karakter ay dapat binuo ayon sa mga linya ng isang normal na karakter, bagaman ang POW ay nagiging isang simpleng kakayahan sa imbakan ng baterya, sa halip na aktwal na soul-force. Ang pinaka-angkop na power set para sa isang robot ay ang sistema ng superpower. Ang iyong karakter ay dapat alinman sa kumpunihin sa pamamagitan ng isang naaangkop na kakayahan sa Repair (o Technical Skill, depende sa kung gaano ka-advanced ang iyong karakter), at ang mga pagkukumpuning ito ay maaaring mangailangan ng roll ng Katayuan upang makakuha ng access sa mga kinakailangang bahagi.
+Sa pahintulot ng iyong gamemaster, ang iyong karakter ay maaaring maging isang robot, alinman sa binuo gamit ang normal na paggawa ng karakter o gamit ang isa sa mga sample bilang isang template. Kung gayon, ang iyong karakter ay dapat buuin ayon sa mga linya ng isang normal na karakter, bagaman ang KAP ay nagiging isang simpleng kakayahan sa pag-imbak ng baterya, sa halip na tunay na soul-force. Ang pinakaangkop na power set para sa isang robot ay ang superpowers system. Ang iyong karakter ay dapat ayusin sa pamamagitan ng isang naaangkop na Repair skill (o Technical Skill, depende sa kung gaano ka-advanced ang iyong karakter), at ang mga pagkumpuning ito ay maaaring mangailangan ng isang Status roll upang makakuha ng access sa mga kinakailangang bahagi.### Cybernetics
 
-### Mga Cybernetics
+Kung nais mong magkaroon ang iyong karakter ng ilang cybernetic na aspeto sa kanilang katawan, gaya ng mga artipisyal na paa o organo, makipagtulungan sa iyong gamemaster upang matukoy kung ano ang dapat na epekto ng artipisyal na bahagi ng katawan. Sa karamihan ng mga kaso, kung ang bahagi ng katawan ay hindi nag-aalok ng anumang espesyal na bonus o hindi karaniwang mga katangian, ipalagay na ito ay ituturing na katulad ng isang buhay na bahagi ng katawan, bagaman sa halip na kasanayang First Aid, gumamit ng angkop na kasanayang Repair o Teknikal upang ibalik ang kakayahan ng paa kung ito ay mapinsala sa pamamagitan ng mga epekto ng isang malubhang sugat o pinsala mula sa paggamit ng mga hit location.
 
-Kung nais mong magkaroon ang iyong karakter ng ilang cybernetic na aspeto sa kanilang katawan, tulad ng mga artipisyal na braso o organ, makipagtulungan sa iyong gamemaster upang matukoy kung ano ang dapat na epekto ng artipisyal na bahagi ng katawan. Sa karamihan ng mga kaso, kung ang bahagi ng katawan ay hindi nag-aalok ng anumang mga espesyal na bonus o hindi karaniwang mga katangian, ipagpalagay na ito ay ituturing na parang isang buhay na bahagi ng katawan, bagaman sa halip na kakayahang First Aid, gumamit ng isang naaangkop na kakayahan sa Repair o Technical Skill upang maibalik ang braso sa paggana kung ito ay napinsala sa pamamagitan ng mga epekto ng isang malubhang sugat o pinsala mula sa paggamit ng mga hit location.
+Kung nais mong ang artipisyal na bahagi ng katawan ay magkaroon ng ilang espesyal na kapangyarihan o katangian na higit pa sa mga normal na paa, buuin ang bahagi ng katawan na parang ito ay isang gadget (tingnan ang **Equipment with Superpowers**), na nakakabit lamang nang intrinsiko sa katawan ng iyong karakter. Bilang kahalili, ang artipisyal na paa/organo ay maaaring matanggal o maging modular. Alinman sa dalawa, ang sistema ng gadget ang pinakamahusay na paraan upang gayahin ang cybernetic o iba pang artipisyal na mga bahagi ng katawan.
 
-Kung nais mo ang artipisyal na bahagi ng katawan na magkaroon ng ilang mga espesyal na kapangyarihan o katangian na higit pa sa mga normal na braso, buuin ang braso na parang ito ay isang gadget (tingnan ang **Kagamitan na may mga Superpower**), na nakakabit lamang nang intrinsiko sa katawan ng iyong karakter. Bilang alternatibo, ang artipisyal na braso/organ ay maaaring tanggalin o kahit modular. Alinman sa dalawa, ang sistema ng gadget ang pinakamahusay na paraan ng pag-simulate ng mga cybernetic o kung hindi man ay artipisyal na mga bahagi ng katawan.
-
-> ### Mga Pag-convert sa Metrik
+> ### Metric Conversions
 > 
-> Ang Basic Roleplaying ay gumagamit ng metrik na sistema bilang default nito. Habang ang karamihan sa mundo ay gumagamit ng metrik na sistema, ang mga Imperial na sukat ay madalas na ginagamit sa mga makasaysayang setting, at ikaw at ang iyong gamemaster ay maaaring naisin na gamitin ang gayong mga sukat para sa kadalian at/o flavor. Ang mga conversion sa metrik sa ibaba ay tinatayang at bilugan kung saan maginhawa.
+> Ginagamit ng Basic Roleplaying ang sistemang metric bilang default nito. Bagaman ang karamihan sa mundo ay gumagamit ng sistemang metric, ang mga pagsukat na Imperial ay madalas gamitin sa mga historical setting, at maaaring naisin mo at ng iyong gamemaster na gamitin ang mga sukat na iyon para sa kadalian at/o flavor. Ang mga conversion ng metric sa ibaba ay pagtatantya at ni-round kung saan ito maginhawa.
 > 
-> ##### Mga Equivalency ng Metrik/Imperial
+> ##### Metric/Imperial Equivalencies
 > 
-> | 1 sentimetro = 1/3 pulgada | 0° C = 32° F |
+> | 1 centimeter = 1/3 inch | 0° C = 32° F |
 > | :---- | :---- |
-> | 1/3 metro = 1 talampakan | 10° C = 50° F |
-> | 1 metro = 1 yarda | 20° C = 68° F |
-> | 1 kilometro = 3/5 milya | 30° C = 86° F |
-> | 100 gramo = 3 onsa | 40° C = 104° F |
-> | 1 kilo = 2.2 libra | 100° C = 212° F |
-> | 1 metric ton = 2,200 libra | 200° C = 392° F |
-> | 1 litro = 1 quart | 500° C = 922° F |
-> | 4 na litro = 1 galon | 1,000° C = 1,832° F |
+> | 1/3 meter = 1 foot | 10° C = 50° F |
+> | 1 meter = 1 yard | 20° C = 68° F |
+> | 1 kilometer = 3/5 mile | 30° C = 86° F |
+> | 100 grams = 3 ounces | 40° C = 104° F |
+> | 1 kilogram = 2.2 pounds | 100° C = 212° F |
+> | 1 metric ton = 2,200 pounds | 200° C = 392° F |
+> | 1 liter = 1 quart | 500° C = 922° F |
+> | 4 liters = 1 gallon | 1,000° C = 1,832° F |
 
-## Mga Sasakyan
+## Vehicles
 
-Tulad ng mga uri ng armas at baluti, ang sumusunod na seksyon ay may kasamang iba't ibang sasakyan na nakalista sa **Mga Rate ng Paggalaw**, pati na rin ang iba pang angkop para sa pakikipagsapalaran. Ang mga abstraktong halimbawang ito ay makakatulong sa iyo at sa iyong gamemaster na lumikha ng mga karagdagang uri ng sasakyan, na nagpapalawak o nagbabago sa mga istatistika ayon sa ninanais.
+Tulad ng sa mga uri ng armas at armor, ang sumusunod na seksyon ay kinabibilangan ng iba't ibang sasakyan na nakalista sa **Movement Rates**, pati na rin ang iba pang angkop para sa pakikipagsapalaran. Ang mga abstract na halimbawang ito ay makakatulong sa iyo at sa iyong gamemaster na gumawa ng mga karagdagang uri ng sasakyan, na nagpapalawak o nagbabago ng mga istatistika ayon sa ninanais.
 
 Ang mga sumusunod na termino ay ginagamit upang tukuyin ang bawat sasakyan:
 
 * **Type:** Ang generic na uri ng sasakyan.
 
-* **Skill:** Ang kakayahang gagamitin kapag nagpapatakbo nito.
+* **Skill:** Ang kasanayang gagamitin kapag nagpapatakbo nito.
 
-* **Rated Speed:** Ang maximum na bilis ng sasakyan, isang abstract na halaga na ginagamit sa sistema ng paghabol.
+* **Rated Speed:** Ang pinakamataas na bilis ng sasakyan, isang abstract na halaga na ginagamit sa sistema ng paghabol (chase system).
 
-* **Handling:** Ang modifier na inilapat sa kakayahan ng iyong karakter, na sumasalamin sa maneuverability o kaugnay na kadalian ng paggamit ng sasakyan.
+* **Handling:** Ang modifier na inilalapat sa kasanayan ng iyong karakter, na nagpapakita ng kakayahan ng sasakyan sa pagmaniobra o relatibong kadalian ng paggamit.
 
-* **ACC:** Acceleration, ang bilang ng mga bilis ng increment na maaaring pabilisin o bagalan ng sasakyan mula sa kasalukuyang rated speed nito bawat combat round. Ito ay ibinibigay bilang isang halaga ng ±, at ginagamit sa sistema ng paghabol sa sasakyan.
+* **ACC:** Acceleration, ang bilang ng mga increment ng bilis na maaaring pabilisin o pabagalin ng sasakyan mula sa kasalukuyang rated speed nito sa bawat round ng labanan. Ito ay ibinibigay bilang halaga ng ±, at ginagamit sa sistema ng paghabol sa sasakyan.
 
-* **MOV:** Ang maximum na bilis ng sasakyan sa isang combat round, na ipinahayag sa rating ng MOV nito. Ang MOV ay may sliding value na 1–5 metro; ipinapalagay nito ang median na halaga na 3.
+* **MOV:** Ang pinakamataas na bilis ng sasakyan sa isang round ng labanan, na ipinahayag sa MOV rating nito. Ang MOV ay may sliding value na 1–5 metro; ipinapalagay nito ang median value na 3.
 
-* **Armor:** Ang pangkalahatang armor value ng sasakyan at proteksyong ibinibigay nito sa mga crew o pasahero. Kadalasan, ang mga atake sa mga pasahero ay sa pamamagitan ng bintana o bukas na seksyon ng cabin. Kung ang dalawang numerong ito ay magkaiba, sila ay ipinapahayag bilang dalawang halaga na pinaghihiwalay ng slash. Dapat tukuyin ng iyong gamemaster kung ang isang karakter ay may proteksyon mula sa sasakyan. Ang pag-atake sa isang tao sa loob ng isang sasakyan ay Mahirap.
+* **Armor:** Ang pangkalahatang halaga ng armor ng sasakyan at proteksyong ibinibigay nito sa crew o mga pasahero. Karaniwan, ang mga pag-atake sa mga pasahero ay sa pamamagitan ng bintana o bukas na bahagi ng cabin. Kung ang dalawang numerong ito ay magkaiba, ang mga ito ay ipinapahayag bilang dalawang halaga na pinaghihiwalay ng slash. Dapat tukuyin ng iyong gamemaster kung ang isang karakter ay may proteksyon mula sa sasakyan. Ang pag-atake sa isang tao sa loob ng sasakyan ay Mahirap (Difficult).
 
-* **SIZ:** Ang apparent na halaga ng SIZ ng sasakyan.
+* **SUK:** Ang nakikitang halaga ng SUK ng sasakyan.
 
-* **HP:** Ang hit point ng sasakyan. Ang mga sasakyan ay hindi nakakaranas ng mga secondary effect ng mga espesyal na tagumpay, maliban sa nadagdagan na pinsala, at ang mga critical na tagumpay ay hindi pinapansin ang armor ng sasakyan at gumagawa ng nadagdagan na pinsala.
+* **HP:** Ang mga hit point ng sasakyan. Ang mga sasakyan ay hindi dumaranas ng mga sekundaryong epekto ng mga espesyal na tagumpay (special successes), maliban sa nadagdagang pinsala, at ang mga kritikal na tagumpay (critical successes) ay binabalewala ang armor ng sasakyan at nagdudulot ng nadagdagang pinsala.
 
-* **Crew:** Ang bilang ng mga karakter na kinakailangan upang patakbuhin at mapanatili ang sasakyan sa buong kahusayan habang nasa byahe. Para sa mas malalaking sisidlan, ito ay kadalasang 1/3 ng normal na complement, habang ang mga crew ay nagtatrabaho sa 8-hour shift. Ang mga roll ng kakayahan na may kaugnayan sa sasakyan ay maaaring Mahirap kung ang sasakyan ay under-crewed.
+* **Crew:** Ang bilang ng mga karakter na kinakailangan upang patakbuhin at panatilihin ang sasakyan sa buong kahusayan habang nasa biyahe. Para sa mas malalaking sasakyang pandagat, ito ay karaniwang 1/3 ng normal na bilang, dahil ang mga crew ay nagtatrabaho sa 8-oras na shift. Ang mga roll ng kasanayang may kaugnayan sa sasakyan ay maaaring maging Mahirap (Difficult) kung ang sasakyan ay kulang sa crew.
 
-* **Passengers:** Ang bilang ng mga pasahero na karaniwang dinadala ng sasakyan, na pinagsama sa bilang ng mga off-duty na crewmember (kung naaangkop).
+* **Passengers:** Ang bilang ng mga pasaherong karaniwang dala ng sasakyan, na pinagsama sa bilang ng mga off-duty na miyembro ng crew (kung naaangkop).
 
-* **Cargo:** Ang espasyong mayroon ang sasakyan para sa kargamento, na ipinahayag sa SIZ. Para sa mga layunin ng laro, 1 ENC ay katumbas ng 1 SIZ point.
+* **Cargo:** Ang espasyong mayroon ang sasakyan para sa kargamento, na ipinahayag sa SUK. Para sa layunin ng laro, ang 1 ENC ay katumbas ng 1 SUK point.
 
-* **Value:** Isang pangkalahatang halaga para sa sasakyan, gaya ng inilarawan sa **Pera** at **Pagbili ng Kagamitan**.
+* **Value:** Isang pangkalahatang halaga para sa sasakyan, gaya ng inilarawan sa **Money** at **Purchasing Equipment**.
 
-* **Notes:** Mga karagdagang tala tungkol sa sasakyan at mga kakayahan nito.
+* **Notes:** Mga karagdagang tala tungkol sa sasakyan at sa mga kakayahan nito.
 
-### Mga Paglalarawan ng Sasakyan
+### Vehicle Descriptions
 
-Inilalarawan ng seksyong ito ang iba't ibang sasakyan, na nakaayos ayon sa alpabeto.
+Inilalarawan ng seksyong ito ang iba't ibang sasakyan, na nakaayos nang paalpabeto.
 
-**Air Vehicle, Bomber:** Isang malaking, propeller o turbine-driven na sasakyang panghimpapawid na ginagamit para sa long-range na mga misyon ng pagbobomba, kadalasang nilagyan ng ilang machinegun turret.
+**Air Vehicle, Bomber:** Isang napakalaking sasakyang panghimpapawid na pinapatakbo ng propeller o turbine na ginagamit para sa mahabang distansya ng pagbomba, na karaniwang nilagyan ng ilang machinegun turret.
 
-**Air Vehicle, Dirigible:** Isang lobo na may limitadong structural framework at isang maliit na cabin na nakasabit sa ibaba, kadalasang pinalaki ng isang lighter-than air na gas. Pinapatakbo ng mga rotor.
+**Air Vehicle, Dirigible:** Isang lobo (balloon) na may limitadong structural framework at maliit na cabin na nakabitin sa ibaba, karaniwang pinupuno ng gas na mas magaan kaysa sa hangin. Pinapatakbo ng mga rotor.
 
-**Air Vehicle, Helicopter:** Isang maliit na rotary blade-powered na sasakyang panghimpapawid. Ang mga cabin ay mula sa mga simpleng plexiglass bubble hanggang sa mga may baluti na may mga troop compartment at gun mount.
+**Air Vehicle, Helicopter:** Isang maliit na sasakyang panghimpapawid na pinapatakbo ng rotary blade. Ang mga cabin ay mula sa simpleng plexiglass bubble hanggang sa armored na may mga kompartimento para sa mga tropa at mount para sa baril.
 
-**Air Vehicle, Jet:** Isang mahabang komersyal na jet airliner, na may hindi bababa sa dalawang wing-mounted na jet turbine.
+**Air Vehicle, Jet:** Isang mahabang komersyal na jet airliner, na may hindi bababa sa dalawang jet turbine na nakakabit sa pakpak.
 
-**Air Vehicle, Jet Fighter:** Isang medyo maliit, highly maneuverable na jet na idinisenyo para sa aerial combat at bombing strike.
+**Air Vehicle, Jet Fighter:** Isang medyo maliit at napakabilis na maniobrahin na jet na idinisenyo para sa aerial combat at mga bombing strike.
 
-**Air Vehicle, Propeller Plane:** Isang maliit na propeller-driven na eroplano para sa pasahero.
+**Air Vehicle, Propeller Plane:** Isang maliit na eroplanong pampasahero na pinapatakbo ng propeller.
 
-**Air Vehicle, Skyskimmer:** Isang high-tech na ultralight na sasakyang panghimpapawid na may kakayahan ng vertical takeoff at landing, gamit ang advanced na teknolohiya ng thruster.
+**Air Vehicle, Skyskimmer:** Isang high-tech na ultralight na sasakyang panghimpapawid na kayang mag-vertical takeoff at landing, na gumagamit ng advanced na teknolohiya ng thruster.
 
-**Automobile, Modern Sedan:** Isang average na four-door na modernong sasakyan.
+**Automobile, Modern Sedan:** Isang karaniwang four-door na modernong sasakyan.
 
-**Automobile, Modern Sportscar:** Isang napakabilis na, two-door, two-seat, high-performance na sasakyan.
+**Automobile, Modern Sportscar:** Isang napakabilis, two-door, two-seat, high-performance na sasakyan.
 
 **Automobile, Vintage:** Isang lumang boxy na sasakyan, katumbas ng Model-T.
 
-**Boat, Motor:** Isang maliit na motorboat na may isang propeller at isang maliit na forward cabin.
+**Boat, Motor:** Isang maliit na motorboat na may isang propeller at maliit na forward cabin.
 
-**Boat, Small Rowed:** Isang maliit na two-bench na bangka.
+**Boat, Small Rowed:** Isang maliit na bangkang de-gaod na may dalawang upuan.
 
-**Chariot:** Isang maliit na two-horse na karo, na may silid para sa isang drayber, isang mandirigma, at isang maliit na rack para sa mga armas o personal na gamit.
+**Chariot:** Isang maliit na chariot na hinihila ng dalawang kabayo, na may espasyo para sa isang driver, isang mandirigma, at isang maliit na rack para sa mga armas o personal na gamit.
 
-**Four-Horse Carriage:** Isang open o cloth-top na four-horse na karwahe.
+**Four-Horse Carriage:** Isang open o cloth-top na karwaheng hinihila ng apat na kabayo.
 
-**Four-Horse Wagon:** Isang kahoy na stagecoach na may cramped na cabin para sa pasahero at silid para sa imbakan sa likod at sa itaas.
+**Four-Horse Wagon:** Isang kahoy na stagecoach na may masikip na cabin para sa pasahero at espasyo para sa imbakan sa likod at sa itaas.
 
-**Horse:** Tingnan ang Kabanata Labing-isa: Mga Nilalang.
+**Horse:** Tingnan ang Chapter Eleven: Creatures.
 
-**Hovercraft:** Isang komersyal na hovercraft ferry na angkop para sa mga 20 pasahero sa medyo kalmadong tubig.
+**Hovercraft:** Isang komersyal na hovercraft ferry na angkop para sa humigit-kumulang 20 pasahero sa relatibong kalmadong tubig.
 
-**Land Skimmer:** Isang high-tech na turbine-driven na sasakyan sa lupa na dumadausdos sa isang kama ng compressed na hangin, parang hovercraft.
+**Land Skimmer:** Isang high-tech na sasakyang panlupa na pinapatakbo ng turbine na dumadausdos sa isang bed ng compressed air, gaya ng isang hovercraft.
 
-**Motorcycle:** Isang two-wheeled na sasakyan na may silid para sa isang drayber at isang pasahero. Sidecar opsyonal.
+**Motorcycle:** Isang sasakyang de-motor na may dalawang gulong na may espasyo para sa isang driver at isang pasahero. Opsyonal ang sidecar.
 
-**Ship, Aircraft Carrier:** Isang napakalaking barko (300+ metro ang haba) na may patag na deck na may kakayahang maglunsad ng fighter craft at pasabayin ang mga ito sa paglapag.
+**Ship, Aircraft Carrier:** Isang napakalaking sasakyang pandagat (300+ metro ang haba) na may flat deck na kayang magpalipad ng mga fighter craft at magpalapag ng mga ito.
 
-**Ship, Ancient Rowed:** Isang longship na may single na hanay ng mga sagwan, port at starboard, kadalasang ginagawaran ng mga galley slave o ng mga lalaking mandirigma.
+**Ship, Ancient Rowed:** Isang longship na may solong hanay ng mga gaod, sa kaliwa at kanan, na karaniwang ginagaoran ng mga aliping galley o ng mga mandirigma.
 
-**Ship, Modern Battle:** Isang napakalaking battleship (165+ metro ang haba), na may mabigat na baluti na may malawak na iba't ibang long-range na artillery at missile system.
+**Ship, Modern Battle:** Isang napakalaking battleship (165+ metro ang haba), na mabigat ang pagkaka-armor at may malawak na uri ng long-range artillery at missile system.
 
-**Ship, Modern Cruise:** Isang napakalaking passenger liner (300+ metro ang haba) na nagsisilbi halos bilang isang mobile na hotel, na may mga tindahan, pasilidad para sa entertainment, at hindi mabilang na mga amenities.
+**Ship, Modern Cruise:** Isang napakalaking pampasaherong barko (300+ metro ang haba) na nagsisilbi halos bilang isang mobile hotel, na may mga tindahan, pasilidad para sa entertainment, at hindi mabilang na amenities.
 
-**Ship, Vintage Sailing:** Isang galleon, mga 35 metro ang haba, na may dalawa o higit pang palo.
+**Ship, Vintage Sailing:** Isang galleon, humigit-kumulang 35 metro ang haba, na may dalawa o higit pang palo (mast).
 
-**Space Vehicle, Cargo:** Ang mainstay ng komersyo sa kalawakan, ito ay isang cargo vessel na may maliit na crew. May gaanong baluti at armas. Maaaring may mga energy shield.
+**Space Vehicle, Cargo:** Ang pangunahing sasakyan ng komersiyo sa kalawakan, ito ay isang cargo vessel na may maliit na crew. Bahagyang armored at armado. Maaaring may energy shielding.
 
-**Space Vehicle, Rocket:** Isang multi-stage na fuelled na rocket na may maliit na cabin/landing module para sa pasahero.
+**Space Vehicle, Rocket:** Isang multi-stage na rocket na may panggatong at may maliit na cabin/landing module para sa mga pasahero.
 
-**Space Vehicle, Starfighter:** Isang medyo maliit, highly maneuverable na spaceship na katumbas ng jet fighter. May mabigat na armas, bagaman may gaanong baluti. Maaaring may mga energy shield.
+**Space Vehicle, Starfighter:** Isang medyo maliit at napakabilis na maniobrahin na spaceship na katumbas ng jet fighter. Mabigat ang pagkaka-armas, bagaman bahagyang armored. Maaaring may energy shielding.
 
-**Space Vehicle, Transport:** Isang moderate-sized na spaceship na ginagamit pangunahin para sa transportasyon ng pasahero o kargamento, may gaanong baluti at armas. Maaaring may mga energy shield.
+**Space Vehicle, Transport:** Isang spaceship na may katamtamang laki na pangunahing ginagamit para sa transportasyon ng mga pasahero o kargamento, bahagyang armored at armado. Maaaring may energy shielding.
 
-**Submarine:** Isang submersible na sasakyan na ginagamit ng militar para sa stealth, infiltration ng mga katubigan ng kalaban, at naval combat.
+**Submarine:** Isang submersible na sasakyan na ginagamit ng militar para sa stealth, pagpasok sa mga teritoryo ng kaaway, at naval combat.
 
-**Tank, Modern:** Isang mabigat na baluti na tracked na combat na sasakyan na nilagyan ng malaking-caliber na gitnang baril pati na rin ang iba pang mga armament.
+**Tank, Modern:** Isang mabigat na armored na tracked combat vehicle na nilagyan ng malaking kalibreng central gun pati na rin ng iba pang armament.
 
-**Tank, Vintage:** Isang mabigat na baluti na tracked na combat na sasakyan, kadalasang nilagyan ng malaking-caliber na gitnang baril.
+**Tank, Vintage:** Isang mabigat na armored na tracked combat vehicle, na karaniwang nilagyan ng malaking kalibreng central gun.
 
-**Train, Bullet:** Isang high-speed, streamlined na tren para sa pasahero na binuo sa isang espesyal na riles, kadalasang pinapatakbo ng kuryente.
+**Train, Bullet:** Isang high-speed, streamlined na pampasaherong tren na binuo sa isang espesyal na riles, karaniwang pinapatakbo ng kuryente.
 
-**Train, Mag–lev:** Isang tren na lumulutang sa isang magnetic na riles.
+**Train, Mag–lev:** Isang tren na lumulutang (levitating) sa isang magnetic track.
 
-**Train, Steam Engine:** Isang steam-driven na makina na mula sa huling bahagi ng 1800s. Ang halaga ng SIZ ay bawat kotse.
+**Train, Steam Engine:** Isang makina na pinapatakbo ng singaw (steam) na mula pa noong huling bahagi ng 1800s. Ang halaga ng SUK ay bawat bagon (car).
 
 **Truck, Pickup:** Isang four-wheel drive na pickup truck.
 
-**Truck, Semi (18-wheeler):** Isang malaking komersyal na truck na may maliit na cabin at isang mahabang cargo compartment.
+**Truck, Semi (18-wheeler):** Isang malaking komersyal na truck na may maliit na cabin at mahabang cargo compartment.
 
-##### Mga Sasakyan na Hinahila ng Kabayo at Kabayo
+##### Horse & Horse-Drawn Vehicles
 
-| Uri | Kakayahan | Rated | Handling | ACC | MOV | Armor | SIZ | HP | Crew | Pasahero | Kargamento | Halaga | Tala |
+| Type | Skill | Rated | Handling | ACC | MOV | Armor | SUK | HP | Crew | Passengers | Cargo | Value | Notes |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Horse | Ride | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Average | Tingnan ang Mga Nilalang |
+| Horse | Ride | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Average | See Creatures |
 | Chariot | Drive | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Average | Two-horse variety |
 | Four-Horse Carriage | Drive | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Average | — |
 | Four-Horse Wagon | Drive | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Average | — |
 
-##### Mga Sasakyan: Autos, Trucks, Trains at Tanks
+##### Autos, Trucks, Trains & Tanks
 
-| Uri | Kakayahan | Rated  | Handling  | ACC  | MOV  | Armor  | SIZ  | HP  | Crew  | Pasahero  | Kargamento  | Halaga  | Tala  |
+| Type | Skill | Rated  | Handling  | ACC  | MOV  | Armor  | SUK  | HP  | Crew  | Passengers  | Cargo  | Value  | Notes  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Vintage | Drive | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Average | — |
 | Modern Sedan | Drive | 12 | —  | ±7  | 134  | 14/2  | 50  | 40  | 1  | 3–4  | 24  | Average  | —  |
-| Modern Sportscar | Drive | 15 | +5%  | ±8  | 200  | 10/2  | 45  | 45  | 1  | 1  | 8  | Expensive  | —  |
+| Modern Sportscar | Drive | 15 | \+5%  | ±8  | 200  | 10/2  | 45  | 45  | 1  | 1  | 8  | Expensive  | —  |
 | Pickup Truck | Drive | 12 | —  | ±7  | 134  | 16/2  | 55  | 65  | 1  | 2+  | 36  | Average  | —  |
 | 18-wheeler | Drive | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Expensive | — |
-| Motorcycle | Drive | 13 | +5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Average | — |
-| Land Skimmer | Drive | 20 | +5%  | ±10  | 400  | 12/—  | 30  | 30  | 1  | 3  | 12  | Expensive  | —  |
+| Motorcycle | Drive | 13 | \+5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Average | — |
+| Land Skimmer | Drive | 20 | \+5%  | ±10  | 400  | 12/—  | 30  | 30  | 1  | 3  | 12  | Expensive  | —  |
 | Tank, Vintage | Drive | 4 | –10%  | ±1  | 42  | 18  | 80  | 85  | 4  | —  | 8  | Restricted  | —  |
 | Tank, Modern | Drive | 8 | —  | ±4  | 83  | 24  | 90  | 140  | 4  | —  | 12  | Restricted  | —  |
-| Train, Steam Engine | Drive | 6 | —  | ±2  | 67  | 14/—  | 100  | 120  | 4  | 200+  | 96  | Expensive  | SIZ is per car. Drive rolls are Easy.  |
-| Train, Bullet | Drive | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Priceless | SIZ is per car. Drive rolls are Easy. |
-| Train, Mag–Lev | Drive | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Priceless | SIZ is per car. Drive rolls are Easy. |
+| Train, Steam Engine | Drive | 6 | —  | ±2  | 67  | 14/—  | 100  | 120  | 4  | 200+  | 96  | Expensive  | SUK is per car. Drive rolls are Easy.  |
+| Train, Bullet | Drive | 19 | \+5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Priceless | SUK is per car. Drive rolls are Easy. |
+| Train, Mag–Lev | Drive | 22 | \+10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Priceless | SUK is per car. Drive rolls are Easy. |
 
-##### Mga Bangka at Barko
+##### Boats & Ships
 
-| Uri | Kakayahan | Rated | Handling | ACC | MOV | Armor | SIZ | HP | Crew | Pasahero | Kargamento | Halaga | Tala |
+| Type | Skill | Rated | Handling | ACC | MOV | Armor | SUK | HP | Crew | Passengers | Cargo | Value | Notes |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Small Rowed | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Average | — |
 | Ancient Rowed | Pilot | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Expensive | — |
@@ -1706,129 +1682,264 @@ Inilalarawan ng seksyong ito ang iba't ibang sasakyan, na nakaayos ayon sa alpab
 | Aircraft Carrier | Pilot | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1,000+ | 2,200+ | 320 | Restricted | — |
 | Submarine | Pilot | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | Restricted | — |
 
-##### Mga Sasakyang Panghimpapawid
+##### Air Vehicles
 
-| Uri | Kakayahan | Rated | Handling | ACC | MOV | Armor | SIZ | HP | Crew | Pasahero | Kargamento | Halaga | Tala |
+| Type | Skill | Rated | Handling | ACC | MOV | Armor | SUK | HP | Crew | Passengers | Cargo | Value | Notes |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Small Rowed | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Average | — |
-| Dirigible | Pilot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Priceless | Ang lobo ay walang baluti; ang cabin ay mayroon. |
+| Dirigible | Pilot | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Priceless | Balloon is unarmored; cabin is. |
 | Propeller Plane | Pilot | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Expensive | — |
 | Bomber | Pilot | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Restricted | — |
 | Jet | Pilot | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Priceless | — |
-| Jet Fighter | Pilot | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Restricted | — |
+| Jet Fighter | Pilot | 33 | \+10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Restricted | — |
 | Helicopter | Pilot | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | Priceless | — |
-| Skyskimmer | Pilot | 23 | +5%  | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Expensive | — |
+| Skyskimmer | Pilot | 23 | \+5%  | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Expensive | — |
 
-##### Mga Sasakyan sa Kalawakan
+##### Space Vehicles
 
-| Uri | Kakayahan | Rated | Handling | ACC | MOV | Armor | SIZ | HP | Crew | Pasahero | Kargamento | Halaga | Tala |
+| Type | Skill | Rated | Handling | ACC | MOV | Armor | SUK | HP | Crew | Passengers | Cargo | Value | Notes |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Rocket | Pilot | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Priceless | — |
-| Transport | Pilot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Priceless | Bilis ay sublight; may FTL drive. |
-| Starfighter | Pilot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Restricted | Bilis ay sublight; may FTL drive. |
-| Cargo | Pilot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Expensive | Bilis ay sublight; may FTL drive. |
+| Transport | Pilot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Priceless | Speed is sublight; has FTL drive. |
+| Starfighter | Pilot | 100 | \+10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Restricted | Speed is sublight; has FTL drive. |
+| Cargo | Pilot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Expensive | Speed is sublight; has FTL drive. |
 
-## Ibang Kagamitan
+## Other Equipment
 
-Ang seksyong ito ay sumasaklaw sa iba't ibang kagamitan na maaaring gamitin ng iyong karakter na hindi nahuhulog sa mga naunang kategorya. Ang listahang ito ay hindi kumpleto, ngunit dapat magbigay ng sapat na gabay para sa iyo o sa iyong gamemaster upang matukoy ang mga kaugnay na katangian ng karamihan sa iba pang mga uri ng kagamitan.
+Sakop ng seksyong ito ang iba't ibang kagamitan na maaaring gamitin ng iyong karakter na hindi kasama sa mga naunang kategorya. Ang listahang ito ay hindi kumpleto, ngunit dapat magbigay ng sapat na gabay para sa iyo o sa iyong gamemaster upang matukoy ang mga nauugnay na katangian ng karamihan sa iba pang uri ng kagamitan.
 
-### Mga Lason
+### Poisons
 
-Ang mga tuntunin para sa paghawak ng lason ay tinalakay sa **Mga Lason**, at ang **Talahanayan ng Sample na Lason** ay nagbibigay ng iba't ibang mga sample na lason.
+Ang mga panuntunan para sa paghawak ng lason ay tinatalakay sa **Poisons**, at ang **Sample Poisons Table** ay nagbibigay ng iba't ibang halimbawa ng lason.
 
-> ##### Talahanayan ng Sample na Lason
+> ##### Sample Poisons Table
 > 
-> | Lason | Bilis ng Epekto | POT | Mga Sintomas |
+> | Poison | Speed of Effect | POT | Symptoms |
 > | :---- | :---- | :---- | :---- |
-> | Arsenic | ½ hanggang 24 oras | 16 | Nasusunog na sakit, pagsusuka, matinding pagtatae |
-> | Belladonna | 2 oras hanggang 2 araw | 16 | Mabilis na tibok ng puso, kapansanan sa paningin, mga kumbulsyon. |
-> | Black Widow venom | 2–8 araw | 7 | Panginginig, pagpapawis, pagkahilo. |
-> | Cobra venom | 15–60 minuto | 16 | Mga kumbulsyon, pagkabigo sa paghinga. |
-> | Curare | 1 combat round | 25 | Pagkaparalisa ng kalamnan, pagkabigo sa paghinga. |
-> | Cyanide | 1–15 minuto | 20 | Pagkahilo, mga kumbulsyon, pagkahimatay. |
-> | Rattlesnake venom | 15–60 minuto | 10 | Pagsusuka, matinding spasms, madilaw-dilaw na paningin. |
-> | Scorpion venom | 24–48 oras | 9 | Matinding sakit, kahinaan, pagdurugo. |
-> | Mga sleeping pill | 10–30 minuto | 6 | Normal na pagtulog; bawat dagdag na dosis ay nagpapataas ng pagkakataon ng pagkabigo sa paghinga ng +5%. |
-> | Strychnine | 10–20 minuto | 20 | Matinding contraction ng kalamnan, asphyxiation. |
+> | Arsenic | ½ to 24 hours | 16 | Burning pain, vomiting, violent diarrhea |
+> | Belladonna | 2 hours to 2 days | 16 | Rapid heartbeat, impaired vision, convulsions. |
+> | Black Widow venom | 2–8 days | 7 | Chills, sweating, nausea. |
+> | Cobra venom | 15–60 minutes | 16 | Convulsions, respiratory failure. |
+> | Curare | 1 combat round | 25 | Muscular paralysis, respiratory failure. |
+> | Cyanide | 1–15 minutes | 20 | Dizziness, convulsions, fainting. |
+> | Rattlesnake venom | 15–60 minutes | 10 | Vomiting, violent spasms, yellowish vision. |
+> | Scorpion venom | 24–48 hours | 9 | Intense pain, weakness, hemorrhaging. |
+> | Sleeping pills | 10–30 minutes | 6 | Normal sleep; each additional dose increases the chance of respiratory failure by \+5%. |
+> | Strychnine | 10–20 minutes | 20 | Violent muscle contractions, asphyxiation. |
 
-### Mga Libro at Naka-print na Materyales
+### Books and Printed Materials
 
-Ang kategoryang ito ay sumasaklaw sa isang malaking iba't ibang mga materyales sa pagbabasa, mula sa mga pahayagan, komiks, scroll, paperback, grimoire, o mga libro. Para sa kaginhawaan, ang mga ito ay tinutukoy bilang mga libro. Ang mga libro ay maaaring para sa libangan o para sa mga layuning impormasyon. Ang huling uri lamang ang tinutukoy dito. Ang mga libro ay maaaring magkaroon ng halos anumang halaga, mula sa mura hanggang sa walang presyo, depende sa paksa, petsa ng publikasyon, may-akda, pambihira, o iba pang mga pangyayari.
+Ang kategoryang ito ay sumasaklaw sa malawak na uri ng mga materyales sa pagbabasa, mula sa mga pahayagan, komiks, scroll, paperback, grimoire, o mga libro. Para sa kaginhawaan, tinutukoy sila bilang mga libro. Ang mga libro ay maaaring para sa entertainment o para sa mga layuning pang-impormasyon. Tanging ang huling uri lamang ang tinatalakay dito. Ang mga libro ay maaaring magkaroon ng halos anumang halaga, mula mura hanggang hindi matatawaran, depende sa paksa, petsa ng pagkakalathala, may-akda, pambihira, o iba pang mga pangyayari.
 
-Kapag ang isang libro ay hinahanap o nakatagpo, dapat tukuyin ng iyong gamemaster ang mga sumusunod:
+Kapag ang isang libro ay hinahanap o natagpuan, dapat tukuyin ng iyong gamemaster ang mga sumusunod:
 
-* **Wika:** Kung ang libro ay nakasulat sa isang wikang iba sa katutubong wika ng iyong karakter, dapat nilang ipasalin ang libro o gumawa ng mga roll ng Language ayon sa nararapat (o Literacy, kung ang kakayahang iyon ay ginagamit).
+* **Language:** Kung ang libro ay nakasulat sa wikang iba sa katutubong wika ng iyong karakter, dapat nilang ipasalin ang libro o gumawa ng Language roll ayon sa nararapat (o Literacy, kung ang kasanayang iyon ang ginagamit).
 
-* **Kakayahan:** Maaari bang matuto ang iyong karakter na pahusayin ang isang kakayahan gamit ang librong ito? Sa pangkalahatan, ang isang libro ay naglalaman ng isang kakayahan, bagaman ang mga bihirang volume ay maaaring magsama ng higit sa isa.
+* **Skill:** Maaari bang matuto ang iyong karakter na pahusayin ang isang kasanayan gamit ang librong ito? Sa pangkalahatan, ang isang libro ay naglalaman ng isang kasanayan, bagaman ang mga bihira at pinapahalagahang volume ay maaaring magsama ng higit sa isang paksa.
 
-* **Gantimpala:** Anong bonus sa isang kakayahan ang maaaring makuha sa pamamagitan ng pagbabasa ng libro? Ito ay kadalasang halaga mula 1% para sa isang bagay na maikli o karamihang puno ng mga hindi mahahalagang materyales, hanggang 20% para sa isang komprehensibong volume na nagsisilbing pangwakas na awtoridad sa paksa. Sa pangkalahatan, ang halaga sa pagitan ng +1% at +10% ay angkop. Kung higit sa isang kakayahan ang maaaring matutuhan mula sa libro, dapat tukuyin ng iyong gamemaster ang dalawang rating, kahit na sila ay magkapareho.
+* **Reward:** Anong bonus sa isang kasanayan ang maaaring makuha sa pamamagitan ng pagbabasa ng libro? Ito ay karaniwang halaga mula 1% para sa isang bagay na maikli o karamihang puno ng mga materyales na hindi naman kailangan, hanggang 20% para sa isang komprehensibong volume na nagsisilbing awtoridad sa paksa. Sa pangkalahatan, ang halagang sa pagitan ng +1% at +10% ay angkop. Kung higit sa isang kasanayan ang maaaring matutuhan mula sa libro, dapat tukuyin ng iyong gamemaster ang dalawang rating, kahit na ang mga ito ay magkapareho.
 
-* **Oras para Magbasa:** Gaano katagal ang libro bago mabasa? Kinakatawan nito ang isang masusing pagsusuri ng teksto ng libro at isang pagtatangka na maunawaan ito sa konteksto. Maaaring kailanganin nito ng karagdagang pandagdag na pagbabasa, pananaliksik, o pagsusuri upang mapataas ang pag-unawa at upang master ang materyal.
+* **Time to Read:** Gaano katagal basahin ang libro? Kinakatawan nito ang isang masusing pagsusuri sa teksto ng libro at isang pagtatangkang maunawaan ito sa konteksto. Maaaring kailanganin nito ang karagdagang pandagdag na pagbabasa, pananaliksik, o pagsusuri upang mapataas ang pag-unawa at upang masterin ang materyal.
 
-* **Mga Kapangyarihan:** Ang ilang mga bihirang libro ay naglalaman ng magic o sorcery na mga spell, mga invocation sa mga demonyo o iba pang supernatural na nilalang, o ilang iba pang paraan ng pag-aaral ng isang kapangyarihan. Dapat tukuyin ng iyong gamemaster kung ang libro ay may alinman sa mga ito, ano ang mga ito, at kung magkano ang maaaring matutuhan (tulad ng isang antas o porsyento na limitasyon, kung naaangkop). Sa ilang mga gawa, ang aktwal na pangalan ng kapangyarihan ay maaaring hindi malinaw, upang itago ang mga nilalaman mula sa neophyte. Sumangguni sa mga gabay sa magic at sorcery na mga kapangyarihan para sa pag-aaral ng mga spell. Ang libro ay maaaring walang mga spell, ngunit may kasamang tunay na pangalan ng isang demonyo, elemental, o kahit isang diyos.
+* **Powers:** Ang ilang mga bihirang libro ay naglalaman ng mga magic o sorcery spell, mga pagtawag (invocation) sa mga demonyo o iba pang supernatural na nilalang, o iba pang paraan ng pag-aaral ng isang kapangyarihan. Dapat tukuyin ng iyong gamemaster kung ang libro ay may anuman sa mga ito, kung ano ang mga iyon, at kung magkano ang maaaring matutuhan (gaya ng antas o limitasyon sa porsyento, kung naaangkop). Sa ilang mga gawa, ang aktwal na pangalan ng kapangyarihan ay maaaring hindi malinaw o sadyang malabo, upang protektahan ang mga nilalaman mula sa mga baguhan. Sumangguni sa mga gabay sa magic at sorcery powers para sa pag-aaral ng mga spell. Maaaring walang mga spell ang libro, ngunit kasama ang tunay na pangalan ng isang demonyo, elemental, o maging ng isang diyos.### Mga Uri ng Libro
 
-### Mga Uri ng Libro
+Ang mga sumusunod ay iba't ibang uri ng libro at kung paano sila magagamit sa laro:
 
-Sumusunod ang iba't ibang uri ng libro, at kung paano sila magagamit sa paglalaro:
+* **Instructional Books (Mga Libro sa Pagtuturo):** Isang libro na naglalayong magturo ng isang partikular na paksa o kasanayan, na nakaayos at isinulat para sa layuning iyon. Ipinapalagay na kapag ang iyong karakter ay nagsasanay nang mag-isa, ang mga instructional book ang ginagamit bilang reperensya. Ang mga instructional book, kapag matagumpay na nabasa, ay nagbibigay ng experience check (tingnan ang **Researching Skill Increases**), bagaman maaaring magbigay ang iyong gamemaster ng default na pagtaas ng kasanayan.
 
-* **Instructional Books:** Isang libro na nilayon upang magturo ng isang partikular na paksa o kakayahan, na inorganisa at isinulat na may layuning iyon. Ipinapalagay na kapag ang iyong karakter ay nagsasanay nang mag-isa, ang mga instructional na libro ay ginagamit bilang mga sanggunian. Ang mga instructional na libro, kapag nabasa nang matagumpay, ay nagbibigay ng isang experience check (tingnan ang **Pananaliksik sa Pagtaas ng Kakayahan**), bagaman maaaring mag-award ang iyong gamemaster ng default na pagtaas ng kakayahan.
+* **Lore Books (Mga Libro ng Kaalaman):** Ang lore book ay naglalaman ng espesyal na kaalaman na hindi pang-agham, maging ito man ay okulto, kuwentong-bayan, o iba pang "soft" na larangan. Ang mga ito ay lubhang nagkakaiba sa estruktura, ngunit kadalasang nagbibigay ng impresyon ng isang partikular na larangan ng kaalaman mula sa pananaw ng may-akda, maging ito man ay isang iskolar na pangkalahatang-ideya o ang pribadong talaarawan ng isang taong wala sa katinuan. Ang pagbabasa ng isang lore book ay karaniwang nagpapahintulot sa mambabasa na itaas ang (mga) kasanayan na nakasentro sa libro. Ang mga ito ay katulad ng mga instructional book, bagaman ang matagumpay na pagbabasa ng isang lore book ay nagbibigay ng awtomatikong pagtaas ng antas ng kasanayan. Maaaring magpasya ang iyong gamemaster na ang mga librong naglalaman ng diabolikal o nakapangingilabot na kaalaman ay nagdudulot ng awtomatikong pagkawala ng sanity points nang walang sanity roll para maiwasan ang pagkawala. Para sa mga librong nagpapataas ng kasanayang Knowledge at nagkakahalaga ng sanity points, dapat magpataw ang iyong gamemaster ng limitasyon sa maximum SAN batay sa kabuuang 99 na ibinawas sa antas ng kasanayan sa naturang skill, gaya ng inilalarawan sa paglalarawan ng kasanayang Blasphemous Knowledge at Maximum Sanity.
 
-* **Lore Books:** Ang isang lore book ay naglalaman ng espesyal na kaalaman na hindi pang-agham, maging ito ay occult o folklore o ilang iba pang ‘soft’ na larangan. Ang mga ito ay nag-iiba nang malaki sa estraktura, ngunit madalas na nagbibigay ng impresyon ng isang partikular na larangan ng kaalaman mula sa pananaw ng may-akda, maging ito ay isang scholarly overview o ang pribadong talaarawan ng isang baliw. Ang pagbabasa ng isang lore book ay karaniwang nagpapahintulot sa mambabasa na itaas ang (mga) kakayahan na nakasentro ang libro. Ang mga ito ay katulad ng mga instructional na libro, bagaman ang matagumpay na pagbabasa ng isang lore book ay nagbibigay ng awtomatikong pagtaas ng isang skill rating. Maaaring matukoy ng iyong gamemaster na ang mga libro na naglalaman ng diabolical o horrific na lore ay nagdudulot ng awtomatikong pagkawala ng sanity point nang walang sanity roll upang maiwasan ang pagkawala. Para sa mga libro na nagpapataas ng isang Knowledge na kakayahan at nagkakahalaga ng sanity point, dapat magpataw ang iyong gamemaster ng limitasyon sa maximum na SAN batay sa kabuuan ng 99 minus ang skill rating sa kakayahang iyon, gaya ng inilarawan sa paglalarawan ng kakayahang Blasphemous Knowledge at Maximum Sanity.
+* **Reference Books (Mga Libro ng Reperensya):** Ang isang reference book ay maaaring diksyunaryo, ensiklopedya, o iba pang reperensya sa papel, elektroniko, o iba pang format. Ang pangunahing pagkakaiba sa pagitan ng isang reference book at iba pang uri ng libro ay walang pagtatangkang ilagay ang impormasyon sa konteksto—sa halip, ito ay ipinapakita sa isang non-hierarchical na format, kung saan ang lahat ng impormasyon ay nasa parehong antas. Mahirap matuto mula sa isang reference work nang walang frame of reference o konteksto para sa paksa nito, ngunit ang pagbabasa ng isang reference work ay isang mahusay na paraan ng pagpapalakas ng isa pang kasanayang Knowledge. Kung ang isang reference book ay ginagamit para mag-research ng isang kasanayan para sa pagpapabuti ng kasanayan, kinakailangan ang matagumpay na roll para mabasa ang libro, at pagkatapos ay ang mismong kasanayang pinag-aaralan. Ang oras na kinakailangan para mag-research ng isang kasanayan sa pamamagitan ng isang reference book ay doble sa oras ng isang instructional book. Ang mga matagumpay na skill roll na ginawa para mag-research o magpalakas ng pagtaas ng kasanayan ay hindi nakakakuha ng karagdagang experience check.
 
-* **Reference Books:** Ang isang reference book ay maaaring isang diksyunaryo, ensiklopedya, o isa pang sanggunian sa papel, electronic, o iba pang format. Ang pangunahing pagkakaiba sa pagitan ng isang reference book at isa pang uri ng libro ay walang pagtatangka na i-contextualize ang impormasyon—sa halip, ito ay ipinakita sa isang non-hierarchical na format, na ang lahat ng impormasyon ay nasa parehong antas. Mahirap matuto mula sa isang reference na gawa nang walang frame of reference o konteksto para sa paksa nito, ngunit ang pagbabasa ng isang reference na gawa ay isang mahusay na paraan ng pagpapalaki ng isa pang kakayahan sa Knowledge. Kung ang isang reference book ay ginagamit upang magsaliksik ng isang kakayahan para sa pagpapabuti ng kakayahan, kinakailangan ang isang matagumpay na roll upang mabasa ang libro, pagkatapos ay ang kakayahang pinag-aaralan. Ang oras na kinakailangan upang magsaliksik ng isang kakayahan sa pamamagitan ng isang reference book ay doble kaysa sa isang instructional book. Ang mga matagumpay na roll ng kakayahan na ginawa upang magsaliksik o magpalaki ng pagpapabuti ng kakayahan ay hindi nakakakuha ng karagdagang experience check.
-
-* **Spellbooks:** Tinatawag din na mga grimoire, ang mga ito ay mga libro, scroll, tablet, balat, nakasulat na mga bato, nakabuhol na mga lubid, o iba pang paraan na ginagamit upang ipasa ang impormasyong kinakailangan para sa isang magician o sorcerer upang matuto ng mga magic spell o mag-imbak ng mga spell na alam na nila, o naglalaman ng lihim na impormasyon tungkol sa mga mahiwagang nilalang o demonyo. Ang mga spellbook na ito ay inilalarawan sa magic at sorcery na mga kapangyarihan sa Kabanata Apat: Mga Kapangyarihan.
+* **Spellbooks (Mga Libro ng Salamangka):** Tinatawag ding mga grimoire, ang mga ito ay mga libro, scroll, tablet, balat ng hayop, nakaukit na bato, nakabuhol na lubid, o iba pang paraan na ginagamit upang ihatid ang impormasyong kinakailangan para sa isang salamangkero o sorcerer upang matuto ng mga magic spell o mag-imbak ng mga spell na alam na nila, o naglalaman ng lihim na impormasyon tungkol sa mga mahiwagang nilalang o demonyo. Ang mga spellbook na ito ay inilalarawan sa mga kapangyarihan ng magic at sorcery sa Kabanata Apat: Powers.
 
 ### Paggamit ng Libro
 
-Upang gumamit ng libro, dapat itong mabasa o maintindihan ng iyong karakter kung ito ay hindi nakasulat. Maaaring mangailangan ito ng opsyonal na kakayahang Literacy, kung ginagamit, o isang matagumpay na roll ng Language para sa (mga) wika kung saan nakasulat ang libro. Bilang alternatibo, ang isang pagsasalin ay kadalasang makukuha, bagaman ito ay magastos kung kailangan itong gawin sa komisyon. Dapat tukuyin ng iyong gamemaster kung magkano ang magagastos nito, gamit ang mga gabay para sa mga guro na ibinigay sa Skill Training. Kapag natapos na ang pag-aaral ng libro, ang iyong karakter ay nakakakuha ng mga kaugnay na skill point, kung mayroon man.
+Para gumamit ng libro, dapat itong kayang basahin o intindihin ng iyong karakter kung hindi ito nakasulat. Maaaring mangailangan ito ng opsyonal na kasanayang Literacy, kung gagamitin, o isang matagumpay na Language roll para sa (mga) wika kung saan nakasulat ang libro. Bilang alternatibo, madalas na makakakuha ng pagsasalin, bagaman ito ay magastos kung kailangang ipagawa sa iba bilang komisyon. Dapat tukuyin ng iyong gamemaster kung magkano ang halaga nito, gamit ang mga alituntunin para sa mga guro na ibinigay sa Skill Training. Kapag tapos na ang pag-aaral ng libro, makukuha ng iyong karakter ang kaukulang mga skill point, kung mayroon man.
 
-### Mga Libro bilang mga Bagay
+### Mga Libro bilang mga Objekto
 
-Ang mga pisikal na katangian ng mga libro ay kadalasang hindi gaanong kahanga-hanga kaysa sa mga nilalaman. Karamihan sa mga libro ay may SIZ na 0, 1, o 2, at ang hit point ng isang libro ay katumbas ng SIZ nito. Depende sa kung ano ang gawa nito, ang isang libro ay kadalasang may armor value na 0 (paperback) hanggang 4 na puntos ng baluti (makapal na leather na spine at mga pabalat). Ang isang napakatandang libro ay maaari pang mabigkis sa bakal (6+ armor value). Maliban kung ang libro ay may karagdagang sukat ng proteksyon o matatag na ginawa, maaari itong mabawasan sa mga pira-piraso o masira ng apoy sa kasing dami ng combat round gaya ng mga hit point nito. Kung ang libro ay isang scroll, electronic na gamit sa pagbabasa, holographic na display ng pag-aaral, o computer, dapat tukuyin ng iyong gamemaster ang SIZ at hit point nito batay sa mga halimbawa ng mga gamit sa kabanatang ito.
+Ang pisikal na mga katangian ng mga libro ay kadalasang hindi gaanong kahanga-hanga kaysa sa mga nilalaman nito. Karamihan sa mga libro ay may SUK 0, 1, o 2, at ang hit points ng isang libro ay katumbas ng SUK nito. Depende sa materyales nito, ang isang libro ay kadalasang may armor value na 0 (paperback) hanggang 4 na puntos ng armor (makapal na leather na spine at mga pabalat). Ang isang napakalumang libro ay maaari pang lagyan ng bakal (6+ armor value). Maliban kung ang libro ay may karagdagang sukat ng proteksyon o matibay ang pagkakagawa, maaari itong maging pira-piraso o masira ng apoy sa kasing dami ng combat rounds na katumbas ng hit points nito. Kung ang libro ay isang scroll, electronic reading device, holographic learning display, o computer, dapat tukuyin ng iyong gamemaster ang SUK at hit points nito batay sa mga halimbawa ng mga gamit sa kabanatang ito.
 
 ### Kagamitang Medikal
 
-Ang pisikal na pinsala ay isang patuloy na banta sa iyong karakter, at maraming piraso ng kagamitan ang umiiral upang tumulong sa paggamot ng mga pinsala at karamdaman. Ang sumusunod na kagamitang medikal ay nakalista ayon sa kaugnay na pagiging kumplikado, mula sa mas primitive hanggang sa futuristic. Ang bawat koleksyon ng kagamitan ay tinukoy bilang isang **kit**, isang assortment ng mga gamit at materyales na ginagamit para sa isang partikular na layunin. Matutukoy ng iyong gamemaster kung ang isang partikular na kit ay may inferior, average, o superior na kalidad, na may mga kaugnay na modifier sa paggamit ng kakayahan.
+Ang pisikal na pinsala ay isang patuloy na banta sa iyong karakter, at maraming kagamitan ang umiiral upang tumulong sa paggamot ng mga pinsala at sakit. Ang sumusunod na kagamitang medikal ay nakalista ayon sa pagkakasunod-sunod ng relatibong pagiging kumplikado, mula sa pinaka-primitive hanggang sa futuristic. Ang bawat koleksyon ng kagamitan ay tinutukoy bilang isang **kit**, isang assortment ng mga gamit at materyales na ginagamit para sa isang partikular na layunin. Maaaring tukuyin ng iyong gamemaster kung ang isang partikular na kit ay inferior, average, o superior ang kalidad, na may mga kaukulang modifier sa paggamit ng kasanayan.
 
-* **Herbalist o Midwife’s Kit:** Ginagamit ng mga shaman, physiker, midwife, at linta, ito ay isang assortment ng tela para sa mga bendahe, poultice, sinulid at matalas na karayom (buto o metal), at iba pang mga kakaibang bagay kabilang ang mga herbal na lunas na may iba't ibang antas ng pagiging epektibo. Ang naturang kit ay mura sa karamihan ng mga setting, at kadalasang tinitipon ng may-ari gamit ang kakayahang Knowledge (Herbalism).
+* **Herbalist or Midwife’s Kit:** Ginagamit ng mga shaman, physiker, komadrona, at linta, ito ay isang assortment ng tela para sa mga bendahe, poultice, sinulid at matalas na karayom (buto o metal), at iba pang kakaibang gamit kabilang ang mga halamang gamot na may iba't ibang antas ng bisa. Ang ganitong kit ay mura sa karamihan ng mga setting, at madalas na tinitipon ng may-ari gamit ang kasanayang Knowledge (Herbalism).
 
-* **First Aid Kit:** Ang isang standard na first aid kit ay may kasamang mga katumbas ng malinis (o sterile) na bendahe, guwantes na goma, maliliit na ointment, mga pildoras para sa maliliit na karamdaman o impeksyon, eyewash, paggamot sa lason o venom, at maliliit na tool tulad ng tweezers, gunting, o kahit isang maliit na scalpel. Ang mas malalaking kit ay may mas malawak na iba't ibang mga nabanggit, mas iba't ibang mga gamot, at maaaring may kasamang maliit na first aid manual. Ang isang first aid kit ay ginagamit sa kakayahang First Aid, at kadalasang mura.
+* **First Aid Kit:** Ang isang standard na first aid kit ay may kasamang angkop sa setting na mga katumbas ng malinis (o sterile) na mga bendahe, guwantes na goma, maliliit na ointment, tabletas para sa maliliit na sakit o impeksyon, panghugas ng mata, gamot sa lason o kamandag, at maliliit na kasangkapan tulad ng tweezers, gunting, o kahit maliit na scalpel. Ang mas malalaking kit ay may mas malawak na iba't ibang nabanggit, mas maraming gamot, at maaaring may kasamang maliit na first aid manual. Ang first aid kit ay ginagamit kasama ang kasanayang First Aid, at kadalasang mura.
 
-* **Doctor’s Bag:** Ang isang tradisyunal na doctor’s bag ay may kasamang assortment ng mga pildoras at antibiotic na angkop sa setting, stethoscope, liwanag, prescription pad, at iba't ibang mga medikal na tool at tool para sa on-site na diagnosis at emergency medical treatment. Ang isang doctor’s bag ay ginagamit sa kakayahang First Aid, ngunit maaaring gamitin para sa mga roll ng kakayahang Medicine depende sa pamamaraan. Ang isang doctor’s bag ay mahal.
+* **Doctor’s Bag:** Ang isang tradisyunal na doctor's bag ay kinabibilangan ng angkop sa setting na assortment ng mga tabletas at antibiotics, stethoscope, ilaw, prescription pad, at iba't ibang medikal na kagamitan at kasangkapan para sa on-site diagnosis at emergency medical treatment. Ang doctor's bag ay ginagamit kasama ang kasanayang First Aid, ngunit maaaring gamitin para sa mga roll ng kasanayang Medicine depende sa pamamaraan. Ang doctor's bag ay mahal.
 
-* **Surgery Kit:** Isang set ng mga surgical tool na nakabalot at sterile, handa para gamitin. Naglalaman ito ng ilang guwantes na goma, dressing, antiseptic, suture, atbp., at mahalaga para sa anumang kasangkot na operasyon o paggamit ng kakayahang Medicine na kinasasangkutan ng operasyon. Anumang ospital ay dapat may maramihang lahat ng bagay na napupunta sa isang surgery kit. Ang isang surgery kit ay mahal.
+* **Surgery Kit:** Isang set ng mga surgical tool na naka-package at sterile, handa nang gamitin. Naglalaman ito ng ilang guwantes na goma, dressings, antiseptics, sutures, atbp., at mahalaga para sa anumang kasangkot na operasyon o paggamit ng kasanayang Medicine na may kinalaman sa pag-opera. Ang anumang ospital ay dapat may maramihang kopya ng lahat ng kasama sa isang surgery kit. Ang surgery kit ay mahal.
 
-* **Trauma Kit:** Isang espesyal na koleksyon ng mga medikal na suplay upang harapin ang agarang trauma. Kadalasang nilayon para sa paggamit sa larangan ng digmaan, ang isang trauma kit ay may mga suplay tulad ng adrenalin shot, antitoxin, iba pang mga lunas upang labanan ang mga kemikal na ahente, emergency medical supplies upang agad na harapin ang malaki at bukas na mga sugat, isang portable defibrillator, at isang limitadong set ng mga surgical tool. Ang isang trauma kit ay mahal.
+* **Trauma Kit:** Isang espesyal na koleksyon ng mga medikal na supply para harapin ang agarang trauma. Kadalasang nilayon para sa paggamit sa larangan ng digmaan, ang isang trauma kit ay may mga supply gaya ng adrenalin shots, antitoxins, iba pang gamot para pangontra sa mga kemikal na ahente, emergency medical supplies para agad na harapin ang malalaki at bukas na sugat, portable defibrillator, at limitadong set ng mga surgical tool. Ang trauma kit ay mahal.
 
-* **Medi-kit:** Isang napaka-advanced na set ng kagamitan, kabilang dito ang mga dermal regenerator, hypo-spray, instant blood clotting agent, isang simpleng medical scanner, universal antitoxin at antidote, stimulation shot, synthetic skin spray, spray-on cast at iba pang mga anyo ng instant na pagtatakip ng sugat. Kadalasan ang isang medi-kit ay may maliit na medical computer o reader na may kakayahang maglarawan ng libu-libong mga paggamot at mag-diagnose ng mga simpleng pinsala. Ang paggamit ng isang medi-kit ay ginagawang Easy ang lahat ng pagtatangka sa First Aid, at dinodoble ang bilang ng hit point na nagpapagaling sa isang matagumpay na roll ng First Aid. Kung ito ay magagamit sa iyong setting, ang isang medi-kit ay mahal.
+* **Medi-kit:** Isang napaka-advanced na set ng kagamitan, kabilang dito ang mga dermal regenerator, hypo-spray, instant blood clotting agent, simpleng medical scanner, universal anti-toxin at antidote, stimulation shot, synthetic skin spray, spray-on cast at iba pang anyo ng instant na pagtatakip ng sugat. Kadalasan, ang isang medi-kit ay may maliit na medical computer o reader na kayang maglarawan ng libu-libong gamot at mag-diagnose ng mga simpleng pinsala. Ang paggamit ng medi-kit ay ginagawang Easy ang lahat ng pagtatangka sa First Aid, at dinodoble ang bilang ng hit points na napapagaling ng isang matagumpay na First Aid roll. Kung ito ay available sa iyong setting, ang medi-kit ay mahal.
 
-* **Auto-doc:** Isang fully automated na sistema ng medikal na paggamot na kumpleto sa mga kumplikadong kakayahan sa diagnostic na may kakayahang kumilala at magpatupad ng paggamot para sa halos anumang kilalang medikal na kondisyon. Ang mga auto-doc ay maaaring magsama ng mga robotic na bahagi na may kakayahang magmaniobra ng mga pasyente, o maaaring kasing-laki ng isang silid, na naglalabas ng mga braso at iba pang manipulator upang makipag-ugnayan sa pasyente sa isang central na kama. Ang isang auto-doc ay may 100% na kakayahan sa Medicine at First Aid, at ang isang matagumpay na roll ay nagpapanumbalik ng doble ang bilang ng hit point sa pasyente, na ang mga oras ng paggaling ay nababawasan sa kalahati. Ang isang auto-doc ay mahal o walang presyo, habang ang paggamot dito ay mula libre hanggang walang presyo.
+* **Auto-doc:** Isang fully automated na sistema ng medikal na paggamot na kumpleto sa mga kumplikadong kakayahan sa diagnostic na kayang kumilala at magpatupad ng paggamot para sa halos anumang kilalang kondisyong medikal. Ang mga auto-doc ay maaaring magsama ng mga robotic component na kayang magmaniobra ng mga pasyente, o maaaring kasing laki ng isang silid, na naglalabas ng mga braso at iba pang manipulator para makipag-ugnayan sa pasyente sa isang sentral na kama. Ang isang auto-doc ay may 100% na kasanayan sa Medicine at First Aid, at ang isang matagumpay na roll ay nagpapanumbalik ng doble sa bilang ng hit points sa pasyente, kung saan ang oras ng paggaling ay nababawasan nang kalahati. Ang isang auto-doc ay mahal o hindi matatawaran ang halaga, habang ang paggamot dito ay mula sa libre hanggang sa hindi matatawaran ang halaga.
 
-### Ibang Kagamitan
+### Iba pang Kagamitan
 
-Sumusunod ang iba pang kapaki-pakinabang na mga uri ng gamit na maaaring naisin ng iyong karakter na gamitin. Ang **Mga Kakayahan at Kagamitan** ay naglalaman ng higit pang detalye sa kagamitang kinakailangan para sa o tumutulong sa paggamit ng kakayahan.
+Ang mga sumusunod ay iba pang kapaki-pakinabang na uri ng gamit na maaaring nais gamitin ng iyong karakter. Ang **Skills and Equipment** ay naglalaman ng higit pang detalye tungkol sa kagamitang kinakailangan para sa o tumutulong sa paggamit ng kasanayan.
 
-* **Chemistry Set:** Isang malawak na seleksyon ng maliliit na bahagi ng mga kemikal at substansya, na may microscope at paraan ng paghahalo at pag-iimbak ng mga compound. Kadalasan ay isang tool lamang sa edukasyon, maaari itong gamitin sa kakayahang Science (Chemistry) para sa mga pangunahing gawain. Mura at madaling makuha ng mga estudyante o sinumang iba pa na interesado.
+* **Chemistry Set:** Isang malawak na seleksyon ng maliliit na bahagi ng mga kemikal at sangkap, na may microscope at mga paraan ng paghahalo at pag-iimbak ng mga compound. Kadalasan ay tool na pang-edukasyon lamang, maaari itong gamitin kasama ang kasanayang Science (Chemistry) para sa mga pangunahing gawain. Mura at madaling makuha ng mga estudyante o sinumang interesado.
 
-* **Mga Computer:** Depende sa setting, ang computer ay alinman sa simple (naaalala ang impormasyon kapag tinanong at nagsasagawa ng mga simpleng utos) o kumplikado (nagtataglay ng artificial intelligence o isang approximation ng sentience) na tool na maaaring gamitin kasama ng iba pang mga kakayahan tulad ng Appraise, Art, Gaming, Knowledge, Science, Teach, at lalo na ang Research. Anumang kakayahan na nakikinabang sa isang malawak at mahahanap na base ng kaalaman o malapit-instant na komunikasyon sa iba sa larangan ay maaaring makinabang sa paggamit ng computer. Ang mga programang nakapaloob o naa-access at ang kaugnay na kadalian ng paggamit ay nagbibigay-daan sa isang bonus na hanggang +20% kung ang computer ay angkop para sa kakayahang ginagamit; ang isang average na setup ng computer ay walang bonus; at ang isang inferior o hindi episyenteng setup ng computer ay maaaring magparusa sa isang kakayahan ng hanggang –20%. Kung nais mo at ng iyong gamemaster na ang computer ay magkaroon ng higit na kakayahan kaysa sa isang period-appropriate na computer, buuin ito bilang isang superpowered na gadget na may INT.
+* **Computers:** Depende sa setting, ang computer ay alinman sa simple (nag-aalala ng impormasyon kapag tinanong at gumagawa ng mga simpleng utos) o kumplikadong (nagtataglay ng artificial intelligence o pagtatantya ng sentience) na tool na maaaring gamitin kasama ng iba pang kasanayan tulad ng Appraise, Art, Gaming, Knowledge, Science, Teach, at lalo na ang Research. Ang anumang kasanayan na nakikinabang mula sa malawak at mahahanap na base ng kaalaman o halos instant na komunikasyon sa iba sa larangan ay maaaring makinabang sa paggamit ng computer. Ang mga program na nakapaloob o naa-access at ang relatibong dali ng paggamit ay nagbibigay ng bonus na hanggang +20% kung ang computer ay angkop para sa kasanayang ginagamit; ang isang average na computer setup ay walang ibinibigay na bonus; at ang isang inferior o hindi mahusay na computer setup ay maaaring magpataw ng parusa sa isang kasanayan na hanggang –20%. Kung nais mo at ng iyong gamemaster na ang computer ay magkaroon ng mas maraming kakayahan kaysa sa isang angkop sa panahon na computer, likhain ito bilang isang superpowered gadget na may TAL.
 
-* **Criminology Kit:** Ginagamit ng mga forensics lab at detective, ang isang criminology kit ay may kasamang fingerprint detection methods, mga aparatong panukat, guwantes na goma, collection bag at bote para sa imbakan ng ebidensya, magnifying glass, mga angkop na kemikal at spray, maliliit na tool, black-light at normal na flashlight, at iba pang paraan ng pagtukoy ng mga bakas ng kriminal na aktibidad. Ang isang criminology kit ay mahal.
+* **Criminology Kit:** Ginagamit ng mga forensics lab at detective, ang criminology kit ay naglalaman ng mga paraan ng pagtuklas ng fingerprint, mga panukat na kagamitan, guwantes na goma, mga bag at bote ng koleksyon para sa pag-iimbak ng ebidensya, magnifying glass, mga angkop na kemikal at spray, maliliit na kasangkapan, black-light at normal na flashlight, at iba pang paraan ng pagtuklas ng mga bakas ng kriminal na aktibidad. Ang criminology kit ay mahal.
 
-* **Disguise Kit:** Isang koleksyon ng mga pangkulay ng balat, makeup, at iba pang paraan upang baguhin ang hitsura ng isa, ang isang disguise kit ay kadalasang tinitipon ng gumagamit upang maging maximum na gamit para sa kanilang pisikal na mga tampok at/o kasarian. Ang isang disguise kit ay maaaring magsama ng mga wig, pustiso, maling buhok sa mukha, pangkulay ng buhok at iba pang tool sa pag-aayos, gunting, salamin, maling contact lens o salamin, at kahit mga piraso ng wardrobe. Ang mas sopistikadong mga kit ay maaaring magsama ng mga prosthetic upang baguhin ang mga tampok ng mukha. Ang isang disguise kit ay maaari ring maging general-purpose, ngunit ang naturang kit ay kadalasang hindi kasing epektibo. Maaari itong tipunin mula sa mga commercially-available na mga gamit sa mura hanggang average na gastos, o ang isang high-quality na kit ay maaaring maging mahal.
+* **Disguise Kit:** Isang koleksyon ng mga tina at kulay ng balat, makeup, at iba pang paraan para baguhin ang anyo ng isa, ang disguise kit ay kadalasang tinitipon ng gumagamit upang maging pinakamabisang magamit para sa kanilang pisikal na mga katangian at/o kasarian. Ang disguise kit ay maaaring magsama ng mga peluka, pustiso, pekeng balbas, mga tina ng buhok at iba pang kagamitan sa pag-aayos, gunting, salamin, pekeng contact lens o salamin, at kahit mga piraso ng wardrobe. Ang mas sopistikadong mga kit ay maaaring magsama ng mga prosthetic para baguhin ang mga tampok ng mukha. Ang disguise kit ay maaari ring maging general-purpose, ngunit ang ganitong kit ay kadalasang hindi kasing epektibo. Maaari itong tipunin mula sa mga komersyal na available na item para sa mura hanggang average na halaga, o ang isang high-quality na kit ay maaaring maging mahal.
 
-* **Mga Kit, Iba't Ibang Uri:** Gaya ng inilarawan sa **Mga Kakayahan at Kagamitan**, halos anumang uri ng kakayahang Craft ay maaaring magkaroon ng kit o set ng tool na tumutulong sa paggamit nito. Ang halaga at utility ng mga ito ay dapat matukoy ng iyong gamemaster batay sa setting.
+* **Kits, Various (Iba't ibang Kit):** Gaya ng inilalarawan sa **Skills and Equipment**, halos anumang uri ng kasanayang Craft ay maaaring magkaroon ng kit o tool set na nakakatulong sa paggamit nito. Ang halaga at pagiging kapaki-pakinabang ng mga ito ay dapat tukuyin ng iyong gamemaster batay sa setting.
 
-* **Lockpicks:** Ang mga ito ay maaaring mula sa ilang solong pick hanggang sa isang mas sopistikadong set na may stethoscope, mga drill, at iba't ibang mga tool at implement para sa pagbukas ng pinakakumplikado at mapanghamong mga kandado. Ang mga ito ay maaaring mula sa mura hanggang sa mahal. 
+* **Lockpicks:** Ang mga ito ay maaaring magmula sa ilang solong pick hanggang sa mas sopistikadong set na may stethoscope, drills, at iba't ibang kasangkapan at kagamitan para sa pagbukas ng mga pinaka-kumplikado at mahihirap na kandado. Ang mga ito ay maaaring magmula sa mura hanggang mahal.
 
-* **Stabilizer:** Isang accessory ng baril na nagdaragdag sa katatagan ng armas sa pamamagitan ng recoil compensation, shock absorption, atbp. Maaari silang magdagdag ng +5% o higit pa sa mga susunod na putok matapos ang una sa isang round.
+* **Stabilizer:** Isang accessory para sa baril na nagdaragdag sa katatagan ng sandata sa pamamagitan ng recoil compensation, shock absorption, atbp. Maaaring magdagdag ito ng +5% o higit pa sa mga susunod na putok pagkatapos ng una sa isang round.
 
-* **Mga Suppressor at Silencer:** Ang silencer ay isang mahabang tubo na puno ng mga baffle, nakakabit sa bariles ng isang baril, na nagpapahina sa tunog ng mga putok. Binabagal nito ang bilis ng projectile, na hinahati ang base range nito sa dalawa. Ang silencer ay kadalasang ginagawa ayon sa order para sa isang partikular na uri ng baril, at kadalasang napupudpod matapos ang D100+10 na putok ang dumaan dito. Ang silencer ay hindi maaaring ikabit sa isang shotgun o heavy machinegun, ngunit maaaring gamitin para sa isang light o medium na machinegun. Sa karamihan ng mga setting kung saan sila umiiral, ang mga silencer ay mahal at limitado.
+* **Suppressors and Silencers:** Ang silencer ay isang mahabang tubo na puno ng mga baffle, na nakakabit sa barrel ng isang baril, na nagpapahina sa tunog ng mga putok. Binabagal nito ang bilis ng projectile, na hinahati ang base range nito sa dalawa. Ang silencer ay kadalasang ginagawa para sa isang partikular na uri ng baril, at kadalasang nasisira pagkatapos ng D100+10 na putok. Ang silencer ay hindi maaaring ikabit sa isang shotgun o heavy machinegun, ngunit maaaring gamitin para sa light o medium machinegun. Sa karamihan ng mga setting kung saan sila umiiral, ang mga silencer ay mahal at limitado.
 
-* **Mga Telescopic Scope at Laser Sight:** Ang mga ito ay nakakabit sa isang baril o armas na enerhiya at nagpapahintulot sa iyong karakter na epektibong madoble ang batayang saklaw. Ang mga laser sight ay nag-a-quadruple ng batayang saklaw. Kapag pinagsama sa **Aimed Attacks**, ang alinman ay maaaring maging lubhang epektibo. Ang mga ito ay may average na halaga, bagaman ang mga precision scope ay maaaring mas mahal.
+* **Telescopic Scopes and Laser Sights:** Ang mga ito ay nakakabit sa isang baril o energy weapon at nagbibigay-daan sa iyong karakter na epektibong doblehin ang base range. Ang mga laser sight ay nagpapapatupad ng quadrupling sa base range. Kapag pinagsama sa **Aimed Attacks**, ang alinman sa mga ito ay maaaring maging napaka-epektibo. Ang mga ito ay may average na halaga, bagaman ang mga precision scope ay maaaring mas mahal.
 
 ### Mecha
 
-Ang mecha (minsan pinaikli sa ‘mech’) ay esensyal na isang napakalaking suit ng powered na baluti, na pinapatakbo ng isa o higit pang mga karakter, kadalasang Humanoid o ilang bipedal na estruktura sa anyo, popular sa mga science fiction setting. Ang halimbawang mecha na inilalarawan sa ibaba ay binuo gamit ang mga alituntunin sa superpowered na gadget.
+Ang mecha (minsan ay pinaikli bilang 'mech') ay mahalagang isang masyadong malaking suit ng powered armor, na pinapatakbo ng isa o higit pang karakter, kadalasang Humanoid o ilang bipedal na estruktura sa anyo, na popular sa mga science fiction setting. Ang halimbawang mecha na ipinapakita sa ibaba ay binuo gamit ang mga alituntunin ng superpowered gadget.
 
-> #### Model D1
+> #### Model D142 Mobile Exoframe, a.k.a. ‘Skyhammer’
+> 
+> **Value:** Hindi matatawaran ang halaga
+> 
+> Ang Skyhammer ay isang heavily-armored, Humanoid-shaped mecha na may mahabang torso na nagsisilbing cockpit, kung saan nakalagay ang piloto. Ang ulo nito ay isang array ng sensory equipment, at ang mga braso at binti nito ay functional. Mula sa ‘pusod’ nito ay may lumalabas na malaking laser cannon na nasa itaas nito ang piloto.
+> 
+> **LAK** 100 **TIB** 50 **SUK** 50
+> 
+> **Hit Points:** 50 **Major Wound:** 25 **Power Points:** 110
+> 
+> **Damage Modifier:** +8D6 **MOV:** 15
+> 
+> **Armor:** 30 point alloyed plating (tingnan sa ibaba)
+> 
+> **Weapons:** Laser Cannon (gumagamit ng Projection skill % ng piloto), 75 metrong range, 5D6 damage; Hammer Fists (gumagamit ng Brawling skill % ng piloto), 1D3+8D6 damage
+> 
+> **Skills:** Fine Manipulation 45%, Jump 65%, Listen 65%, Navigate 70%, Pilot (autopilot self) 41%, Repair (internal diagnostics and repair) 55%, Spot 65%, Track 30%, Fly 100%.
+> 
+> **Powers:** Adaptation 6 (cold, heat, high pressure, radiation, vacuum; cost = 15 points); Armor 30 (electric 30, kinetic 30, radiation 30; cost = 90 points); Energy Projection 5 (light; cost = 50 points); Extra Energy 11 (+110 power points; cost = 11 points); Flight 17 (cost = 17 points); Super Characteristics 200 (LAK, TIB, SUK; cost = 200 points); Super Sense 5 (Hearing 5, Vision 5, Dark Vision 5, Infrared Vision 5, Sonar Detection 5; cost = 75 points); Super Skill (Fine Manipulation 2, Jump 2, Listen 2, Navigate 3, Pilot 2, Repair 2, Spot 2, Track 1, Fly 5; cost = 42 points).
+> 
+>**Total Power Budget Cost** = 500 points.
+
+## Pangkalahatang Katangian ng mga Objekto
+
+Bukod sa mga sandata, armor, shield, siege weapon, sasakyan, libro, kit, atbp. anumang iba pang materyal na bagay ay maaaring ilarawan bilang isang objekto. Ito ay kategoryang sumasaklaw sa mga telepono o poste ng telepono, mga bahay o kastilyo, ballpen o Eiffel Tower. Sa pangkalahatan, ang tanging dahilan para magbigay ng attribute para sa isang objekto ay kapag ito ay ginagamit laban sa iyong karakter, ginagamit ng iyong karakter laban sa ibang karakter, sinusubukan ng iyong karakter na sirain ito, o ito ay nakaharang (at potensyal na collateral damage).
+
+### Pinsala sa mga Inanimate Object
+
+Ang mga inanimate object tulad ng mga pinto, upuan, at pader ay malamang na makagambala sa isang hindi matagumpay na pag-atake, o maaaring kailangang gibain o pasabugin. Dapat konsultahin ng iyong gamemaster ang mga SUK value para sa mga sample na item at gamitin ang SUK bilang hit points ng isang objekto, na nagtatalaga ng armor value batay sa katumbas nito (tingnan ang **Armor Protection**). Kung ang pinsala ay lumampas sa armor value ng objekto, ang hit points ay mababawasan ng natitirang pinsala at ang ganoong dami ng damage points ay magpapababa sa armor value nito (na nagrerepresenta kung gaano na ito kahina sa pagtatagal ng pinsala kapag nasira na). Kung ang isang objekto ay mas maliit kaysa sa Human-sized (tulad ng upuan), ito ay lubos na masisira kung ito ay mabawasan sa 0 hit points. Kung ito ay mas malaki kaysa sa Human-sized (tulad ng kahoy na pader) at ang isang seksyon ay mabawasan sa 0 hit points; mayroon itong butas na kasing laki ng tao.
+
+> ### Armor Value ng mga Sustansya
+> 
+> Ang armor value ay nagrerepresenta sa dami ng pinsala na ibinabawas mula sa isang matagumpay na pag-atake. Kung mas mataas ang armor value ng isang objekto, mas mababa ang posibilidad na ito ay masira. Gamit ang mga value para sa iba pang kagamitan o sa ibaba, dapat kayang i-extrapolate ng iyong gamemaster ang mga karagdagang armor value o tantiyahin ang mga ito batay sa mga magaspang na pagkakatumbas. Ang sumusunod ay ang mga armor value ng iba't ibang sustansya:
+> 
+> | Uri ng Sustansya | Armor Value |
+> | :---- | :---- |
+> | 1 cm ng salamin | 1 |
+> | 5 cm makapal na pinto | 3 |
+> | 3 cm ng matigas na kahoy | 6 |
+> | 12 cm ng konkretong semento | 9 |
+> | 3 cm ng bulletproof glass | 22 |
+> | 3 cm ng steel plate | 28 |
+> | Malaking sandbag | 20 |
+> 
+> Ang mga natural na armor value tulad ng mga nasa itaas ay hindi nawawala at hindi lumalala sa pamamagitan ng maramihang pag-atake, maliban kung sa pamamagitan ng ilang paraan sa kapaligiran o isang partikular na pagtatangka na bawasan ang armor value ng isang objekto.
+> 
+> **Halimbawa,** paulit-ulit na hinampas ng iyong karakter ang bintanang gawa sa bulletproof glass gamit ang sledgehammer, na tumatarget sa parehong lugar sa pagtatangkang magdulot ng sapat na pagkabitak para makalusot. Ipinagpasiya ng iyong gamemaster na ipakita ito sa pamamagitan ng pagbabawas ng armor value ng 1 sa bawat matagumpay na tama, at pag-roll ng pinsala. Kapag nalampasan ng damage roll ang patuloy na bumababang armor value, ang bintana ay sasabog.
+> 
+> Ang isang simpleng alituntunin para sa pagsira ng mga objekto ay ang isang average na objekto ay may hit points na halos katumbas ng SUK nito, at kapag nalampasan na ang armor at nawala na ang mga hit points na ito, ang objekto ay hindi na gagana at sira na, o kahit man lang nabawasan sa isang estado kung saan wala na itong nakikitang silbi.
+
+### SUK ng mga Karaniwang Objekto
+
+Malapit dito ay isang listahan ng mga sample na sukat ng iba't ibang objekto. Ang ‘Full’ ay kumakatawan sa buong sukat ng objekto gaya ng paggamit para sa pagbubuhat o pagtukoy ng hit points nito, at ang ‘Segment’ ay kumakatawan sa isang bahaging kasing-laki ng tao ng objekto, para sa mga layunin ng paglusot o pagsira ng isang seksyon para sa daanan. Kung ang pinsalang ginawa sa isang objekto ay hindi lumampas sa SUK ng segment ng objekto, maaaring nagkaroon ng butas na kasing laki at hugis ng pag-atake, ayon sa nararapat. Gaya ng nabanggit sa itaas, ang isang average na objekto ay ipinapalagay na may hit points na katumbas ng SUK nito.### Mga Paghahambing sa Sukat
+
+Ang talahanayang ito ay nagtutumbas ng tinatayang bigat sa SUK ng laro. Sa Basic Roleplaying, ang SUK ay tumutukoy hindi lamang sa bigat kundi pati na rin sa bolyum at taas. Ang talahanayang ito ay hindi eksakto o mahigpit: dapat kang gumamit ng paghuhusga kapag nagtatalaga ng SUK at bigat base sa komposisyon ng bagay o nilalang. Mula sa SUK 330 pataas, ang SUK ay humigit-kumulang 1/10 ng bigat ng bagay o nilalang sa maikling tonelada (short tons).
+
+**Bilang halimbawa**, ang isang kraken na may SUK na 8,000 ay tumitimbang ng 80,000 maikling tonelada.
+
+| SUK | Bigat sa Imperial | Bigat sa Metriko |
+| :---- | :---- | :---- |
+| 1 | 1–12 libra | 0.5–5.4 kilo |
+| 4 | 38–51 libra | 17–23 kilo |
+| 8 | 109–120 libra | 49–54 kilo |
+| 12 | 156–168 libra | 71–76 kilo |
+| 16 | 220–239 libra | 100–108 kilo |
+| 20 | 310–338 libra | 141–153 kilo |
+| 24 | 440–479 libra | 200–217 kilo |
+| 32 | 880–959 libra | 499–435 kilo |
+| 40 | 1760–1919 libra | 798–870 kilo |
+| 48 | 3520–3829 libra | 1,597–1,737 kilo |
+| 56 | 7040–7649 libra | 3,193–3,470 kilo |
+| 64 | 7.1–7.7 tonelada | 6,441–6,985 kilo |
+| 72 | 14.1–15.4 tonelada | 12.8–14 metriko tonelada |
+| 80 | 28.2–30.7 tonelada | 25.6–27.9 metriko tonelada |
+| 88 | 56.5–61.5 tonelada | 51.3–55.8 metriko tonelada |
+| 96 | 96 tonelada | 87 metriko tonelada |
+| 104 | 104 tonelada | 94 metriko tonelada |
+| 112 | 120 tonelada | 109 metriko tonelada |
+| 120 | 144 tonelada | 131 metriko tonelada |
+| 128 | 176 tonelada | 160 metriko tonelada |
+| 136 | 216 tonelada | 196 metriko tonelada |
+| 140 | 240 tonelada | 218 metriko tonelada |
+| 144 | 264 tonelada | 239 metriko tonelada |
+| 152 | 320 tonelada | 290 metriko tonelada |
+| 160 | 384 tonelada | 348 metriko tonelada |
+| 168 | 456 tonelada | 414 metriko tonelada |
+| 176 | 536 tonelada | 486 metriko tonelada |
+| 184 | 624 tonelada | 566 metriko tonelada |
+| 192 | 720 tonelada | 653 metriko tonelada |
+| 200 | 824 tonelada | 748 metriko tonelada |
+| 208 | 936 tonelada | 849 metriko tonelada |
+| 216 | 1,056 tonelada | 958 metriko tonelada |
+| 224 | 1,184 tonelada | 1,074 metriko tonelada |
+| 232 | 1,220 tonelada | 1,107 metriko tonelada |
+| 240 | 1,364 tonelada | 1,237 metriko tonelada |
+| 256 | 1,516 tonelada | 1,375 metriko tonelada |
+| 264 | 1,676 tonelada | 1,520 metriko tonelada |
+| 272 | 1,844 tonelada | 1,673 metriko tonelada |
+| 280 | 2,020 tonelada | 1,833 metriko tonelada |
+| 288 | 2,204 tonelada | 1,999 metriko tonelada |
+| 294 | 2,396 tonelada | 2,174 metriko tonelada |
+| 304 | 2,596 tonelada | 2,355 metriko tonelada |
+| 312 | 2,804 tonelada | 2,544 metriko tonelada |
+| 320 | 3,020 tonelada | 2,740 metriko tonelada |
+| 330 | 3,300 tonelada | 2,994 metriko tonelada |
+| 340 | 3,400 tonelada | 3,084 metriko tonelada |
+| 350 | 3,500 tonelada | 3,175 metriko tonelada |
+
+> ##### Mga Halimbawa ng SUK ng Bagay
+> 
+> | Bagay | Buong SUK | SUK ng Bahagi |
+> | :---- | :---- | :---- |
+> | Salaming bintana | 3 | 3 |
+> | Pinto | 4–8 | 4–8 |
+> | Silya | 4–9 | 4–9 |
+> | Mesa | 4–12 | 4–12 |
+> | Takip ng manhole | 5 | 5 |
+> | Fire hydrant | 5 | 5 |
+> | Halamang paso | 2–5 | 2–5 |
+> | Salaming pinto | 8 | 8 |
+> | Desk | 10–20 | 10–20 |
+> | Poste ng ilaw | 30 | 10 |
+> | Panloob na pader ng bahay | 25–35 | 8 |
+> | Panlabas na pader ng bahay | 25–45 | 20 |
+> | Pader na ladrilyo | 30–50 | 20 |
+> | Pader na konkreto | 30–50 | 20 |
+> | Pader na konkreto at bakal | 35–55 | 25 |
+> | Maliit na sasakyang panghimpapawid | 40 | 10 |
+> | Sasakyan | 50 | 12 |
+> | Pinto ng vault | 60 | 20 |
+> | Katamtamang sasakyang panlupa | 60 | 12 |
+> | Bakal na beam | 65 | 30 |
+> | Sasakyang panghimpapawid, jet fighter | 80 | 18 |
+> | Katamtamang tangke | 80 | 30 |
+> | Lokomotibo | 100 | 20 |
+> | Sasakyang panghimpapawid, jet cargo | 100 | 15 |
+> | Sasakyang panghimpapawid, bomber | 105 | 15 |
+> | Sasakyang panghimpapawid, airliner | 110 | 15 |

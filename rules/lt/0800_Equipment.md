@@ -1,1456 +1,1525 @@
 # 8. Įranga
 
-Šiame skyriuje aptariama viskas, kas nėra tiesiogiai susiję su jūsų veikėju: daiktai, kuriuos jie gali turėti ir su kuriais gali sąveikauti, pavyzdžiui, pinigai, ginklai, šarvai, įranga, transporto priemonės ir pati aplinka – tiek kasdieniška, tiek išskirtinė. Čia taip pat pateikiamos taisyklės, skirtos specialių rūšių įrangai ir tam, kaip su įranga elgtis žaidimo metu.
+Šiame skyriuje aptariama viskas, kas nepriklauso jūsų veikėjui: daiktai, kuriuos jie gali turėti ir su kuriais gali sąveikauti, pavyzdžiui, pinigai, ginklai, šarvai, įranga, transporto priemonės ir pati aplinka, tiek kasdienė, tiek išskirtinė. Čia taip pat pateikiamos taisyklės, skirtos specialiems įrangos tipams ir tam, kaip su įranga elgtis žaidimo metu.
 
 ## Pinigai
 
-**Turtingumas** (Wealth) apima pinigus, tačiau dėl galimo kainų, pajamų ir valiutų diapazono bet kurioje įmanomoje aplinkoje, ši sąvoka yra abstrahuota. Vietoj valiutų keitimo sąrašų ar piniginių abstrakcijų, naudojamos Turtingumo taisyklės (Antras skyrius: Veikėjai) ir Statuso taisyklės (Trečias skyrius: Įgūdžiai). Patogumui jie apibendrinti lentelėje „Turtingumo lygiai“ (priešingame puslapyje).
+**Gerovė** apima pinigus, tačiau dėl galimo kainų, pajamų ir valiutų diapazono bet kokioje įmanomoje aplinkoje ji yra abstrahuota. Vietoj valiutos keitimo sąrašų ar valiutos abstrakcijų naudojamos Gerovės taisyklės (Antras skyrius: Veikėjai) ir Statuso taisyklės (Trečias skyrius: Įgūdžiai). Patogumui jie apibendrinti lentelėje „Gerovės lygiai“ (priešingame puslapyje).
 
-Stulpelis **Daiktų vertė** (Item Value) nurodo daiktų, prieinamų tam tikro turtingumo lygio veikėjui, vertę. Pigūs daiktai kainuoja labai mažai, nebrangi įranga yra pigi ir paprastai žemos kokybės, vidutinė įranga yra geros kokybės ir kainuoja sąžiningą kainą, o brangi įranga yra aukštesnės kokybės arba brangesnė. Neįkainojami daiktai ir įranga laikomi viršijančiais tai, ką galima lengvai nusipirkti: tokių daiktų įsigijimą reikia suderinti arba dėl jo derėtis, net tarp turtingųjų.
+**Daiktų vertės** stulpelis nurodo daiktų, prieinamų to Gerovės lygio veikėjui, vertę. Pigūs daiktai kainuoja labai nedaug, Nebrangi įranga yra pigi ir dažniausiai žemos kokybės, Vidutinė įranga yra geros kokybės ir kainuoja sąžiningą kainą, o Brangi įranga yra aukštesnės kokybės arba kainuoja daugiau. Niekam neįkainojami daiktai ir įranga laikomi viršijančiais tai, ką galima lengvai nusipirkti: tokių pirkinių įsigijimą reikia suderinti arba dėl jų derėtis, net tarp turtingųjų.
 
-Šioje lentelėje nepateiktos dvi papildomos vertės: Nemokamai ir Ribotai. Nemokami daiktai yra būtent tokie – jie nieko nekainuoja ir gali būti rasti be pastangų, o riboti daiktai neprieinami be leidimo, o neteisėtas jų turėjimas dažnai užtraukia baudžiamąją atsakomybę. Ribotiems daiktams, be kokybės, gali būti nustatyta ir tikra vertė, pavyzdžiui, daiktas, kuris yra brangus ir kartu ribotas.
+Šioje lentelėje nepavaizduotos dvi papildomos vertės: Nemokama ir Ribota. Nemokami daiktai yra būtent tokie – jie nieko nekainuoja ir gali būti rasti be pastangų, o Riboti daiktai nepasiekiami be leidimo, o neteisėtas jų turėjimas dažnai užtraukia baudžiamąją atsakomybę. Ribotiems daiktams gali būti priskirta tikra vertė kartu su kokybe, pavyzdžiui, daiktas, kuris yra Brangus ir kartu Ribotas.
 
-Veikėjo kūrimo metu pateikiama informacija apie pradinį jūsų veikėjo turtingumo lygį. Jūsų žaidimo vedlys (GV) gali naudoti tai ir Statuso įgūdį kaip gaires nustatydamas pradinę įrangą, viršijančią gaires, pateiktas veikėjo kūrimo **Aštuntajame žingsnyje**.
+Veikėjo sukūrimas suteikia informaciją apie jūsų veikėjo pradinį Gerovės lygį. Jūsų žaidimo vedlys gali naudoti tai ir Statuso įgūdį kaip gaires nustatant pradinę įrangą, viršijančią gaires, pateiktas veikėjo kūrimo **Aštuntame žingsnyje**.
 
-##### Turtingumo lygiai
+##### Gerovės lygiai
 
-| Turtingumo lygis | Daiktų vertė | Aprašymas |
+| Gerovės lygis | Daiktų vertė | Aprašymas |
 | :---- | :---- | :---- |
-| Turtingas | Neįkainojama | Didžiulis turtas, nieko netrūksta. Bet koks pirkinys yra pagrįstas, o kredito linijos leidžia dar didesnį finansavimą. |
-| Pasiturintis | Brangu | Gerai gyvenantis ir galintis laisvai leisti pinigus nesirūpindamas biudžetu. |
-| Vidutinis | Vidutiniškai | Vidutinės klasės pajamos, patogus gyvenimas, bet ne ekstravagantiškas. Dideli pirkiniai kruopščiai pasveriami. |
-| Vargšas | Nebrangu | Gyvenimas ant ribos. Kasdienis pragyvenimas menkas, o bet koks nuostolis turi pasekmių. |
-| Skurstantis | Pigu | Be pinigų, neturintis net pagrindinių kišenpinigių. Išlikimas yra pagrindinis rūpestis. |
+| Turtingas | Niekam neįkainojamas | Didžiulis turtas, nieko netrūksta. Bet koks pirkinys yra protingumo ribose, o kredito linijos leidžia gauti dar didesnį finansavimą. |
+| Pasiturintis | Brangus | Gerai gyvenantis ir galintis laisvai leisti pinigus nesirūpindamas biudžetu. |
+| Vidutinis | Vidutinis | Viduriniosios klasės pajamos, patogu, bet ne ekstravagantiška. Dideli pirkiniai vertinami atsargiai. |
+| Vargšas | Nebrangus | Gyvenimas ant ribos. Kasdienis pragyvenimas menkas ir bet koks praradimas turi pasekmių. |
+| Beturtis | Pigus | Be pinigų, net be bazinių kišenpinigių. Išgyvenimas yra svarbiausias rūpestis. |
 
 ## Įranga
 
-Kiekvienas įrangos vienetas turi santykinę vertę. Jūsų GV turėtų daryti prielaidą, kad jei jūsų veikėjas yra tokio turtingumo lygio (ar aukštesnio), jis turi laisvą prieigą prie tokios įrangos be jokių problemų. Jūsų veikėjas turi laisvą prieigą prie įrangos, kurios vertė yra žemesnė nei jo turtingumo lygis, laikantis sveiko proto ribų. Jūsų GV gali pareikalauti Statuso metimų, jei norite, kad jūsų veikėjas peržengtų savo statusą ir turėtų aukštesnio turtingumo lygio daiktų. Tai gali reikšti taupymą kažkam, vertingą paveldėtą daiktą arba paslaugos paprašymą.
+Kiekvienas įrangos vienetas turi santykinę vertę. Jūsų žaidimo vedlys turėtų daryti prielaidą, kad jei jūsų veikėjas yra to Gerovės lygio (ar aukštesnio), jis turi prieigą prie tos įrangos be jokių problemų. Jūsų veikėjas turi laisvą prieigą prie įrangos, kurios vertė yra žemesnė nei jų Gerovės lygis, laikantis sveiko proto ribų. Jūsų žaidimo vedlys gali reikalauti Statuso metimų, jei norite, kad jūsų veikėjas peržengtų savo statusą ir įgytų aukštesnio Gerovės lygio daiktų. Tai gali reikšti taupymą kažkam, vertingą palikimą arba paslaugos paprašymą.
 
-GV nuožiūra, jei norite, kad jūsų veikėjas turėtų brangesnės įrangos (aukštesnės nei jo turtingumo lygis), sėkmingas Statuso metimas turėtų būti būtinas norint „įsigyti“ daiktus vienu lygiu aukštesnius nei numatytasis veikėjo turtingumo lygis. Sunkus (Difficult) Statuso metimas turi būti atliekamas daiktams, kurie yra dviem turtingumo lygiais aukštesni, o jūsų GV gali nuspręsti, kad daiktai, kurių vertė daugiau nei dviem lygiais aukštesnė už veikėjo numatytąjį turtingumo lygį, yra tiesiog nepasiekiami. Arba jūsų GV gali nuspręsti, kad tam tikras įrangos vienetas veikėjui buvo duotas, paskirtas ar paskolintas, atsižvelgiant į jo profesiją.
+Žaidimo vedlio nuožiūra, jei norite, kad jūsų veikėjas turėtų brangesnės įrangos (aukštesnės nei jo Gerovės lygis), sėkmingas Statuso metimas turėtų būti reikalaujamas norint „įsigyti“ daiktus vienu lygiu aukščiau nei numatytasis jūsų veikėjo Gerovės lygis. Sunkus Statuso metimas turi būti atliktas daiktams dviem Gerovės lygiais aukščiau, o jūsų žaidimo vedlys gali nuspręsti, kad daiktai, kurių vertė daugiau nei dviem lygiais viršija numatytąjį jūsų veikėjo Gerovės lygį, yra tiesiog nepasiekiami. Arba jūsų žaidimo vedlys gali nuspręsti, kad konkretus įrangos vienetas buvo padovanotas, priskirtas arba paskolintas veikėjui, atsižvelgiant į veikėjo profesiją.
 
-**Pavyzdžiui,** kareivio turtingumo lygis paprastai yra vargšas arba vidutinis, tačiau kareiviams išduodami šaunamieji ginklai ir įranga, gerokai viršijanti jų finansines galimybes. Tikimasi, kad kareivis prižiūrės įrangą ir galbūt jos „neturės“, tačiau įranga prieinama nuotykiams. Tačiau mažai tikėtina, kad astronautas turės savo kosminį laivą už mokslinės fantastikos žanro ribų.
+**Pavyzdžiui,** kareivio Gerovės lygis paprastai yra Vargšas arba Vidutinis, tačiau kareiviams išduodami šaunamieji ginklai ir įranga, gerokai viršijanti jų finansines galimybes. Tikimasi, kad kareivis rūpinsis įranga ir gali jos „nuosavybės teise“ neturėti, tačiau įranga yra prieinama nuotykiams. Tačiau astronautas vargu ar turės savo nuosavą erdvėlaivį ne mokslinės fantastikos aplinkoje.
 
 > ### Kada aprašyti įrangą?
 > 
-> Kada įrangos vienetą reikia aprašyti žaidimo terminais, o kada galima manyti, kad jis yra fono dalis? Tai detalių klausimas: kada reikalingi žaidimo efektai, o kada jie nereikalingi? Nors šį sprendimą priima jūsų GV, nėra teisingo ar neteisingo atsakymo: tik patogumo laipsnis. Idealu, jei laikas, praleistas aiškinantis žaidimo specifiką, yra minimizuotas, siekiant maksimaliai padidinti laiką vaidmenų žaidimui ir nuotykiams.
+> Kada įrangos vienetą reikia aprašyti žaidimo terminais, o kada galima daryti prielaidą, kad jis yra fono dalis? Tai detalumo klausimas: kada reikalingi žaidimo efektai, o kada jie nereikalingi? Nors šį sprendimą priima jūsų žaidimo vedlys, nėra teisingo ar neteisingo atsakymo: tik patogumo laipsnis. Idealiu atveju laikas, praleistas aiškinantis žaidimo specifiką, yra sumažinamas, siekiant maksimaliai padidinti laiką vaidybai ir nuotykiams.
 > 
-> Šiame skyriuje aprašoma įvairi įranga, įskaitant ginklus, šarvus ir transporto priemones. Idealu, jei šių gairių pakanka, kad būtų galima išvesti atitikmenį kitai įrangai arba kad įranga būtų abstrahuota į tiesioginį įgūdžio modifikatorių.
+> Šiame skyriuje aptariama įvairi įranga, įskaitant ginklus, šarvus ir transporto priemones. Idealiu atveju šių gairių pakanka, kad būtų galima išvesti atitikmenį kitam įrangos vienetui arba įrangą abstrahuoti į paprastą įgūdžių modifikatorių.
 
 ### Pradinė įranga
 
-Kaip pažymėta Antro skyriaus: Veikėjai **Aštuntajame žingsnyje**, jūsų veikėjas pradeda su įrankiais ir įranga, atitinkančia jo turtingumo lygį ir profesiją. Paprastai vidutinis veikėjas turi:
+Kaip pažymėta Antro skyriaus (Veikėjai) **Aštuntame žingsnyje**, jūsų veikėjas pradeda su įranga, atitinkančia jų Gerovės lygį ir profesiją. Paprastai vidutinis veikėjas turės:
 
-* Pilną drabužių komplektą, tinkantį jų aplinkai ir žanrui.
-* Kišenpinigius ir asmenines santaupas, atitinkančias turtingumo lygį.
-* Asmeninį daiktą, rodantį ryšį su šeima, nesvarbu, ar tai palikimas, atminimo dovana, nuotrauka ir kt., ar koks nors menkos vertės, bet emocinį ryšį turintis niekutis.
-* Visus profesijai tinkamus įrankius ar įrangą, jei reikia.
-* Bet kokį ginklą, su kuriuo jie turi daugiau nei 50 % įgūdį, jei tinkama.
+* Pilną drabužių komplektą, tinkamą jų aplinkai ir žanrui.
+* Kišenpinigių ir asmeninių santaupų, atitinkančių jų Gerovės lygį.
+* Asmeninį daiktą, rodantį ryšį su šeima, nesvarbu, ar tai palikimas, atminimo daiktas, nuotrauka ir t. t., ar koks nors mažos santykinės vertės niekutis, turintis emocinį ryšį.
+* Bet kokius amato įrankius ar įrangą, tinkamą jų profesijai, jei taikytina.
+* Bet kokį ginklą, su kuriuo jie turi daugiau nei 50 % įgūdį, jei taikytina.
 
-Kiekviena profesija gali turėti papildomos įrangos, pavyzdžiui, pilotas, kuris gali pradėti žaidimą su lėktuvu, laivu ar net kosminiu laivu, atsižvelgiant į aplinką. Stenkitės nesirinkti profesijos vien dėl prieigos prie įrangos – jūsų profesija turėtų būti jūsų norimo vaidinti veikėjo dalis, o ne patogiausias socialinis ar ekonominis pasirinkimas.
+Kiekviena profesija gali turėti papildomos įrangos, pavyzdžiui, pilotas, kuris gali pradėti žaidimą su lėktuvu, laivu ar net erdvėlaiviu, priklausomai nuo aplinkos. Stenkitės nesirinkti profesijos vien dėl prieigos prie įrangos – jūsų profesija turėtų būti veikėjo, kurį norite žaisti, dalis, o ne pati naudingiausia socialinė ar ekonominė išeitis.
 
-**Pavyzdžiui,** jei visi grupės nariai pasirenka kilminguosius, žaidimas gali tapti nuobodus, jei visi veikėjai naudoja savo didžiulius finansinius išteklius problemoms pašalinti.
+**Pavyzdžiui,** jei visi grupės nariai pasirenka kilmingąjį, žaidimas gali tapti nuobodus, jei visi veikėjai naudoja savo didžiulius finansinius išteklius problemoms išspręsti.
 
-Be to, jūs ir jūsų GV turėtumėte atsižvelgti į tai, kad jūsų veikėjo įrangos ir drabužių kokybė bei išvaizda greičiausiai atspindės jų Statuso įgūdžio reitingą ir turtingumą.
+Be to, jūs ir jūsų žaidimo vedlys turėtumėte atsižvelgti į tai, kad jūsų veikėjo įrangos ir drabužių kokybė bei išvaizda greičiausiai atspindės jų Statuso įgūdžio rangą ir Gerovę.
 
-**Pavyzdžiui,** studento drabužiai yra švarūs ir tikriausiai madingi, bet netinka oficialiems renginiams ir prastai tarnauja ekspedicijoje į atokų Tibetą. Įranga, kurią diletantas nusiperka medžioklės ekspedicijai, yra nepriekaištinga ir geriausių prekių ženklų, nors patyręs medžiotojas turi gerokai nudėvėtą ir patikimą įrangą, pasirinktą dėl patikimumo, o ne etiketės.
+**Pavyzdžiui,** studento drabužiai yra švarūs ir tikriausiai madingi, bet netinka oficialiems renginiams ir prastai tarnauja ekspedicijoje į atokų Tibetą. Įranga, kurią diletantas nusiperka medžioklės ekspedicijai, yra nepriekaištinga ir geriausių prekės ženklų, nors patyręs medžiotojas turi gerai dėvėtą ir patikimą įrangą, pasirinktą dėl patikimumo, o ne dėl etiketės.
 
 ### Įrangos pirkimas
 
-Kai jūsų veikėjas nori gauti arba pakeisti įrangą ar daiktus, kurių negali susirinkti, apiplėšti ar atimti iš kito asmens, tai tvarkoma naudojant daikto nustatytą vertę ir galbūt naudojant įgūdžius, tokius kaip Vertinimas (Appraise), Derybos (Bargain) ir Įtikinėjimas (Persuade), arba tiesiog naudojant Statuso metimus.
+Kai jūsų veikėjas nori gauti ar pakeisti įrangą, kurios negali susirinkti, apiplėšti ar atimti iš kieno nors kito, tai tvarkoma naudojant daikto priskirtą vertę ir potencialiai naudojant tokius įgūdžius kaip Vertinimas, Derybos ir Įtikinėjimas arba tiesiog naudojant Statuso metimus, kaip tinka.
 
-Pirmiausia nustatykite, ar įrangą apskritai įmanoma rasti. Jūsų GV gali pareikalauti sėkmingo Tyrimo (Research) metimo ar charakteristikos metimo, tokio kaip Idėja, Sėkmė ar Žinios, norint ją rasti. Gali prireikti komunikacijos įgūdžių, jei reikia derėtis. Dešimtas skyrius: Aplinka pateikia pagrindines gaires dėl daiktų prieinamumo įvairiose aplinkose.
+Pirmiausia nustatykite, ar įrangą apskritai galima rasti. Jūsų žaidimo vedlys gali reikalauti sėkmingo Tyrimo metimo arba charakteristikos metimo, pavyzdžiui, Idėjos, Sėkmės ar Žinių, kad ją surastumėte. Jei reikia derėtis, gali prireikti Komunikacijos įgūdžių. Dešimtas skyrius (Aplinkos) pateikia keletą pagrindinių gairių dėl daiktų prieinamumo įvairiose aplinkose.
 
-Darant prielaidą, kad norimą daiktą galima rasti, tiesiausias būdas jį gauti – Statuso įgūdis, modifikuotas šiais veiksniais:
+Darant prielaidą, kad norimą daiktą galima rasti, pats tiesiausias būdas jį gauti yra Statuso įgūdis, modifikuotas šiais veiksniais:
 
-* Jei daikto vertė yra dviem lygiais žemesnė už jūsų veikėjo turtingumo lygį ir jį galima rasti, jis pasiekiamas automatiškai. Metimo nereikia.
-* Jei daikto vertė yra vienu lygiu žemesnė už jūsų veikėjo turtingumo lygį ir jį galima rasti, vieną daiktą (ar nedidelį daiktų rinkinį) galima gauti nemetant kauliukų.
-* Jei daikto vertė lygi jūsų veikėjo turtingumo lygiui, metimo nereikia.
-* Jei daikto vertė yra vienu lygiu aukštesnė už jūsų veikėjo turtingumo lygį, reikalingas sėkmingas Statuso metimas.
-* Jei daikto vertė yra dviem lygiais aukštesnė už jūsų veikėjo turtingumo lygį, reikalingas sėkmingas Sunkus (Difficult) Statuso metimas.
-* Jei daiktas yra daugiau nei dviem lygiais aukštesnis už jūsų veikėjo turtingumo lygį, joks Statuso metimas jo nesuteiks.
+* Jei daikto vertė yra dviem lygiais žemesnė už jūsų veikėjo Gerovės lygį ir jį galima rasti, jis yra automatiškai prieinamas. Metimo nereikia.
+* Jei daikto vertė yra vienu lygiu žemesnė už jūsų veikėjo Gerovės lygį ir jį galima rasti, vieną daiktą (ar nedidelį daiktų rinkinį, kaip tinka) galima gauti neatliekant metimo.
+* Jei daikto vertė yra lygi jūsų veikėjo Gerovės lygiui, metimo norint jį gauti nereikia.
+* Jei daikto vertė yra vienu lygiu aukštesnė už jūsų veikėjo Gerovės lygį, norint jį gauti reikalingas sėkmingas Statuso metimas.
+* Jei daikto vertė yra dviem lygiais aukštesnė už jūsų veikėjo Gerovės lygį, reikalingas sėkmingas Sunkus Statuso metimas.
+* Jei daikto vertė yra daugiau nei dviem lygiais aukštesnė už jūsų veikėjo Gerovės lygį, joks Statuso metimas jo nepadės gauti.
 
-Galiausiai, norint gauti norimą įrangą, visada yra vagystė arba smurtas. Jei jūsų GV leidžia, jūsų veikėjas gali pradėti žaidimą su pavogtu bet kokios vertės daiktu. Šiuo atveju nustatykite, kam daiktas priklausė anksčiau, ar savininkas žino, kad jis buvo paimtas (ir kas jį paėmė), bei kokio masto ir sunkumo išteklius jis skirs jam susigrąžinti. Pati vagystė gali būti suvaidinta kaip įžanginė scena ar prisiminimas, arba automatiškai laikoma sėkminga. Abiem atvejais jūsų GV turėtų dėti visas pagrįstas pastangas, kad su vagystės padariniais būtų susidorota aplinkai tinkamu būdu, potencialiai įtraukiant susigrąžinimo pastangas į bendrą istoriją ar kampaniją. Kaip ir kitų įgūdžių atveju, sėkmingas įgūdžio metimas, atliktas prieš pradedant nuotykį, nesuteikia teisės į patirties patikrinimą (experience check).
+Galiausiai, visada yra vagystė ar smurtas, norint gauti norimą įrangą. Jei jūsų žaidimo vedlys leidžia, jūsų veikėjas gali pradėti žaidimą su vogtu beveik bet kokios vertės daiktu. Tokiu atveju nustatykite, kam daiktas priklausė iš pradžių, ar jie žino, kad jis buvo paimtas (ir kas jį paėmė), bei kokio laipsnio ir rimtumo išteklius jie skirs jam atgauti. Pati vagystė gali būti suvaidinta kaip įžanginė scena ar prisiminimas, arba automatiškai laikoma sėkminga. Abiem atvejais jūsų žaidimo vedlys turėtų dėti visas pagrįstas pastangas, kad susidorotų su vagystės pasekmėmis aplinkai tinkamu būdu, potencialiai įtraukiant atgavimo pastangas į bendrą istoriją ar kampaniją. Kaip ir kitų įgūdžių atveju, sėkmingas įgūdžio metimas, atliktas prieš pradedant nuotykį, neturi teisės į patirties patikrinimą.
 
 ### Pradinė įranga su galiomis
 
-Galbūt norėsite, kad jūsų veikėjas pradėtų su įrengta įranga, jei aplinkoje naudojamos galios. Jei jūsų GV pritaria, jūsų veikėjas turi „sumokėti“ už tą įrangą iš savo pradinio galių biudžeto, nesvarbu, ar tai būtų pradiniai burtai ar psichinės galios, mutacijos kaina, ar iš jūsų veikėjo galių biudžeto. Galite pradėti su vienu ar keliais įrangos vienetais, kurie naudoja galias, laikydamiesi šių gairių:
+Galbūt norėsite, kad jūsų veikėjas pradėtų su įrengta įranga, jei aplinkoje naudojamos galios. Jei jūsų žaidimo vedlys patvirtina, jūsų veikėjas turi „sumokėti“ už tą įrangos vienetą iš savo pradinio galių biudžeto, nesvarbu, ar tai būtų pradiniai burtai ar psichinės galios, mutacijos kaina, ar iš jūsų veikėjo galių biudžeto. Galite pradėti su vienu ar daugiau įrangos vienetų, kurie naudoja galias, vadovaudamiesi šiomis gairėmis:
 
-* **Magijos galios:** Norint pradėti žaidimą su magišku daiktu, jūsų veikėjas turi paaukoti 1 nuolatinį POW tašką už kiekvieną į daiktą investuotą burtą, plius 1 nuolatinį POW tašką už kiekvieną burtų talpos lygį, kurį daiktas gali naudoti. Be to, jūsų veikėjas privalo mokėti (ar turėti prieigą prie) burtą(-us), kurį(-iuos) daiktas gali naudoti. Daikto galių taškų talpa yra lygi jūsų veikėjo normaliai galių taškų sumai po magiško daikto sukūrimo arba daikto SIZ. Jei jūsų veikėjas nesukūrė magiško daikto, jūsų GV turėtų nustatyti jo galių taškų talpą. Magiško daikto pradinio įgūdžio reitingas turi būti apmokėtas iš jūsų veikėjo asmeninių įgūdžių taškų ir negali būti aukštesnis nei jo kūrėjo įgūdžio reitingas. Jei jūsų veikėjas nesukūrė jo, jūsų GV turėtų nustatyti pradinį įgūdžio reitingą. Kai magiškas daiktas sukuriamas, nustatykite, ar jis yra asmeninis (tik jūsų veikėjas gali jį naudoti), ar jį reikia nugalėti galių taškų prieš galių taškus pasipriešinimo metime, jei jis turi galių taškus, ar jį gali naudoti bet kas. Daugiau informacijos rasite „Magijos daiktai“.
+* **Magijos galios:** Norėdami pradėti žaidimą su magišku daiktu, jūsų veikėjas turi paaukoti 1 nuolatinį GAL tašką už kiekvieną į daiktą investuotą burtą, plius 1 nuolatinį GAL tašką už kiekvieną burtų talpos lygį, kurį daiktas gali naudoti. Be to, jūsų veikėjas turi žinoti (ar turėti prieigą prie) burtą (-us), kurį (-iuos) daiktas gali naudoti. Daiktas turi galios taškų talpą, lygią jūsų veikėjo normaliam galios taškų skaičiui po to, kai magiškas daiktas yra sukurtas, arba daikto DYD. Jei jūsų veikėjas nesukūrė magiško daikto, jūsų žaidimo vedlys turėtų nustatyti jo galios taškų talpą. Magiškas daiktas turi turėti pradinį įgūdžio įvertinimą, apmokėtą iš jūsų veikėjo asmeninių įgūdžių taškų, ir jis negali būti aukštesnis už jo kūrėjo įgūdžio įvertinimą. Jei jūsų veikėjas jo nesukūrė, jūsų žaidimo vedlys turėtų nustatyti pradinius įgūdžių įvertinimus. Kai magiškas daiktas sukuriamas, nustatykite, ar jis yra asmeninis (tik jūsų veikėjas gali jį naudoti), ar jį reikia nugalėti galios taškų prieš galios taškus pasipriešinimo metime, jei jis turi galios taškų, ar jį gali naudoti bet kas. Daugiau informacijos rasite „Magiški daiktai“.
 
-* **Mutacijos:** Norėdami pradėti su mutavusiu daiktu, dirbkite su savo GV, kad pateiktumėte pagrįstą paaiškinimą, kodėl toks daiktas egzistuoja ir kokios mutacijos geriausiai atspindi jo galimybes. Mutavęs daiktas yra jūsų veikėjo dalis ir už jį turi būti sumokėta iš pradinių charakteristikų ir turimų mutacijų. Norėdami pradėti žaidimą su mutavusiu daiktu, jūsų veikėjas turi paaukoti 1 nuolatinį CON tašką už kiekvieną mutacijos lygį (ir lygų skaičių turimų pradinių mutacijų). Bet kokie charakteristikų metimai, kuriuos atlieka daiktas, yra pagrįsti jūsų veikėjo charakteristikomis. Mutavęs daiktas laikomas „gyvu“ ir gydosi tokiu pat greičiu kaip ir jūsų veikėjas. Daugiau informacijos rasite „Mutavę daiktai“.
+* **Mutacijos:** Norėdami pradėti su daiktu, turinčiu mutacijų, dirbkite su savo žaidimo vedliu, kad pateiktumėte pagrįstą paaiškinimą, kodėl toks daiktas egzistuoja ir kokios mutacijos geriausiai atspindi jo sugebėjimus. Mutavęs daiktas yra jūsų veikėjo dalis ir už jį turi būti sumokėta iš jų pradinės charakteristikos ir prieinamų mutacijų. Norėdami pradėti žaidimą su mutavusiu daiktu, jūsų veikėjas turi paaukoti 1 nuolatinį IŠT tašką už kiekvieną mutacijos lygį (ir lygų skaičių prieinamų pradinių mutacijų). Bet kokie charakteristikos metimai, kuriuos atlieka daiktas, yra pagrįsti jūsų veikėjo charakteristikomis. Mutavęs daiktas laikomas „gyvu“ ir gys tokiu pat greičiu kaip ir jūsų veikėjas. Daugiau informacijos rasite „Mutavę daiktai“.
 
-* **Psichinės galios:** Norėdami pradėti su daiktu, kuris naudoja psichines galias, jūsų veikėjas turi paaukoti 1 nuolatinį POW tašką už kiekvieną psichinės galios lygį (ir vieną psichinės galios „lizdą“ iš savo pradinių psichinių galių, jei galia nėra žinoma). Daiktas turi pradinę POW (ir maksimalius galių taškus), lygius jūsų veikėjo POW. Jūsų veikėjas turi sumokėti įgūdžių taškus už daikto psichines galias iš savo asmeninio įgūdžių taškų rezervo. Daugiau informacijos rasite „Įranga su psichinėmis galiomis“.
+* **Psichinės galios:** Norėdami pradėti su daiktu, kuris naudoja psichines galias, jūsų veikėjas turi paaukoti 1 nuolatinį GAL tašką už kiekvieną psichinės galios lygį (ir vieną psichinės galios „lizdą“ iš savo pradinių psichinių galių, jei galia nėra žinoma). Daiktas turi pradinį GAL (ir maksimalius galios taškus), lygų jūsų veikėjo rodikliui. Jūsų veikėjas turi sumokėti įgūdžių taškus už daikto psichines galias iš savo asmeninių įgūdžių taškų fondo. Daugiau informacijos rasite „Įranga su psichinėmis galiomis“.
 
-* **Sorcery (Burtininkavimas):** Norint pradėti žaidimą su artefaktu, jūsų veikėjas turi paaukoti 1 nuolatinį POW tašką už kiekvieną į artefaktą investuotą burtininkavimo burtą ir privalo mokėti (ar turėti prieigą prie) burtą(-us), kurį(-iuos) artefaktas gali naudoti. Artefaktas turi galių taškų rezervuarą, lygų jūsų veikėjo normaliai galių taškų sumai (po artefakto sukūrimo), arba tokį, kuris yra didesnis. Jūsų GV turėtų nustatyti POW ir galių taškų vertę, jei artefakto nesukūrė jūsų veikėjas. Kai artefaktas sukuriamas, turėtumėte nustatyti, ar jis bus asmeninis (tik jūsų veikėjas gali jį naudoti), ar jį reikia nugalėti galių taškų prieš galių taškus pasipriešinimo metime, jei jis turi galių taškus, ar jį gali naudoti bet kas. Daugiau informacijos rasite „Įranga su burtininkavimu“.
+* **Burtininkavimas:** Norėdami pradėti žaidimą su artefaktu, jūsų veikėjas turi paaukoti 1 nuolatinį GAL tašką už kiekvieną burtininkavimo burtą, investuotą į artefaktą, ir turi žinoti (ar turėti prieigą prie) burtą (-us), kurį (-iuos) artefaktas gali naudoti. Artefaktas turi galios taškų rezervuarą, lygų jūsų veikėjo normaliam galios taškų maksimumui (po to, kai artefaktas yra sukurtas), priklausomai nuo to, kuris didesnis. Jūsų žaidimo vedlys turėtų nustatyti GAL ir galios taškų vertę, jei artefakto nesukūrė jūsų veikėjas. Kai artefaktas sukuriamas, turėtumėte nustatyti, ar jis bus asmeninis (tik jūsų veikėjas gali jį naudoti), ar jį reikia nugalėti galios taškų prieš galios taškus pasipriešinimo metime, jei jis turi galios taškų, ar jį gali naudoti bet kas. Daugiau informacijos rasite „Įranga su burtininkavimu“.
 
-* **Supergalios:** Norėdami pradėti žaidimą su įtaisu (gadget), mokėkite už įtaiso galias taip, lyg jos būtų iš jūsų paties galių biudžeto. Rekomenduojama, kad įtaiso galios lygis būtų toks pat, kaip ir jo savininko, nors jūsų GV gali leisti įtaisą, kuris yra galingesnis arba ne toks galingas. Jūsų GV taip pat gali nuspręsti pakeisti santykinį įtaiso ir jūsų veikėjo lygį dėl pusiausvyros sumetimų, todėl, jei įtaisas yra aukštesnio lygio nei kampanijos galių lygis, jūsų veikėjo galių lygis turėtų būti sumažintas vienu lygiu, arba atvirkščiai. Galite pasirinkti galių trūkumą „Supergalios tapatybė turi būti įjungta akivaizdžiu ir išvengiamu būdu“, susietą su daiktu, dažniausiai +1 galių biudžeto premija. Gali būti taikomi kiti galių trūkumai, pavyzdžiui, „Galia turi ribotą naudojimų skaičių per dieną“. Be to, jūsų GV gali leisti jums imtis naujo galių trūkumo: „Galia gaunama iš įtaiso“ už +1 galių biudžeto premiją. Kai taikoma, įtaisas turėtų remtis jūsų veikėjo atitinkamu įgūdžiu. Daugiau informacijos rasite „Įranga su supergaliomis“.
+* **Supergalios:** Norėdami pradėti žaidimą su įtaisu, mokėkite už įtaiso galias taip, lyg jos būtų iš jūsų veikėjo galių biudžeto. Rekomenduojama, kad įtaisas būtų tokio pat galios lygio kaip jo savininkas, nors jūsų žaidimo vedlys gali leisti galingesnį arba silpnesnį įtaisą. Jūsų žaidimo vedlys taip pat gali nuspręsti pakeisti santykinį įtaiso ir jūsų veikėjo lygį pusiausvyros tikslais, todėl jei įtaisas yra lygiu aukštesnis už kampanijos galios lygį, jūsų veikėjo galios lygis turėtų būti paslinktas vienu lygiu žemyn, arba atvirkščiai. Galite pasirinkti galios trūkumą „Supergalios tapatybė turi būti įjungta akivaizdžiu ir išvengiamu būdu“, susietą su daiktu, paprastai +1 galios biudžeto premija. Gali būti taikomi kiti galios trūkumai, pavyzdžiui, „Galia turi ribotą naudojimo skaičių per dieną“. Be to, jūsų žaidimo vedlys gali leisti jums pasirinkti naują galios trūkumą: „Galia gaunama iš įtaiso“, už +1 galios biudžeto premiją. Kai tik taikytina, įtaisas turėtų remtis jūsų veikėjo atitinkamu įgūdžiu. Daugiau informacijos rasite „Įranga su supergaliomis“.
 
-### Įrangos gamyba
+### Įrangos gaminimas
 
-Jūsų veikėjas gali norėti pats susikonstruoti įrangą, o tai paprastai pigiau nei pirkti ir mažiau rizikinga nei vogti. Bet koks jūsų veikėjo pagamintas daiktas (priešingai nei perkamas) laikomas vienu lygiu žemesnės vertės nei jo standartinė kaina. Daroma prielaida, kad jūsų veikėjas yra kvalifikuotas gaminant daiktą (atitinkamas įgūdžių reitingas 75 %+). Daroma prielaida, kad jūsų veikėjas žino, kur rasti patikimų komponentų už gerą kainą (juodoji rinka, pašto užsakymas, laužynas ir kt.), ir skirs laiko medžiagų testavimui bei vertinimui, kad įsitikintų, jog jos veikia. Jūsų GV gali reikalauti, kad šis procesas apimtų kitus įgūdžių metimus ar net Statuso metimus, kaip nurodyta aukščiau. Laiką ir pastangas, praleistas renkant dalis ir/ar žaliavas, nustato jūsų GV, atsižvelgiant į tai, kiek jis nori į tai sutelkti dėmesį žaidimo metu.
+Jūsų veikėjas gali norėti pats pasigaminti įrangos, kas paprastai yra pigiau nei pirkti ir mažiau rizikinga nei vogti. Bet koks daiktas, kurį jūsų veikėjas pasigamina (priešingai nei perka), laikomas vienu vertės lygiu žemesniu nei jo standartinė kaina. Tai daro prielaidą, kad jūsų veikėjas yra įgudęs gaminti tą daiktą (atitinkamas įgūdžio įvertinimas 75%+). Tai daro prielaidą, kad jūsų veikėjas žino, kur rasti patikimų komponentų geromis kainomis (juodoji rinka, pašto užsakymas, laužynas ir t. t.), ir skirs laiko testavimui bei medžiagų vertinimui, kad įsitikintų, jog jos veikia. Jūsų žaidimo vedlys gali reikalauti, kad į šį procesą būtų įtraukti kiti įgūdžių metimai ar net Statuso metimai, kaip minėta aukščiau. Laiką ir pastangas, praleistas renkant dalis ir/ar žaliavas, nustato jūsų žaidimo vedlys, atsižvelgiant į tai, kiek jis nori į tai sutelkti dėmesį žaidimo metu.
 
-Kai kurių daiktų negalima tradiciškai pagaminti iš parduotuvėse pirktų dalių, pavyzdžiui, kopijuojant unikalius meno kūrinius ar artefaktus kaip kažką kito nei kopijas. Nors atskirus daiktus gali būti pigu pagaminti ar rasti, meistriškumas ar daikto retumas gali apriboti jūsų galimybes. Jei jūsų veikėjas nėra pakankamai kvalifikuotas arba nepavyksta atlikti atitinkamų metimų, žaliavų ir komponentų kaina gali būti netgi didesnė nei tradicinė daikto kaina.
+Kai kurių daiktų tradiciškai negalima pagaminti iš parduotuvėse pirktų detalių, pavyzdžiui, unikalių meno kūrinių ar artefaktų dubliavimas kaip kažko kito, išskyrus kopijas. Nors atskiras dalis gali būti pigu pagaminti ar rasti, meistriškumas ar daikto retumas gali apriboti jūsų galimybes. Jei jūsų veikėjas nėra pakankamai įgudęs arba nepavyksta atlikti atitinkamų metimų, žaliavų ir komponentų kaina gali būti net brangesnė nei įprastai kainuoja daiktas.
 
-**Pavyzdžiui,** bandymas pastatyti automobilį iš dalių, pirktų per mažmeninę prekybą, yra daug laiko reikalaujantis ir brangus užsiėmimas, kainuojantis daugiau pinigų ir laiko nei tiesiog nusipirkti automobilį. Tačiau, jei jūsų veikėjas yra kvalifikuotas ir sugeba sėkmingai panaudoti Derybas ir Tyrimą, jis gali rasti laužyną arba sugebėti surinkti visus būtinus elementus daug pigiau nei mokant nustatytą kainą.
+**Pavyzdžiui,** bandymas pastatyti automobilį iš detalių, įsigytų mažmenine prekyba, atima daug laiko ir yra brangus, tai pareikalaus daug daugiau pinigų ir laiko nei tiesiog nusipirkti automobilį. Tačiau jei jūsų veikėjas yra įgudęs ir sugeba sėkmingai panaudoti Derybų ir Tyrimo įgūdžius, jis gali rasti laužyną arba sugebėti surinkti visus būtinus elementus daug pigiau nei mokant nurodytą kainą.
 
-Galiausiai, tik jūsų GV sprendžia, kiek laiko užtrunka pagaminti konkretų daiktą. Jei reikia, darant prielaidą, kad visa reikiama įranga yra po ranka ir visi atitinkami įgūdžių metimai yra sėkmingi: daiktui, kurį pagaminti palyginti paprasta, reikia vienos valandos už SIZ. Jei jis yra vidutinio sudėtingumo, kiekvienas SIZ reikalauja vienos dienos. Jei jis palyginti sudėtingas, kiekvienas SIZ yra viena savaitė. Jei jis labai sudėtingas, kiekvienas SIZ gali užtrukti mėnesį. Jei prie daikto dirba daugiau nei vienas veikėjas, padalinkite SIZ tarp jų. Kai darbas padengia reikalaujamą daikto SIZ, jis yra baigtas. Naudokite SIZ atitikmenų lenteles.
+Galutiniame rezultate jūsų žaidimo vedlys turi nuspręsti, kiek laiko užtrunka pagaminti konkretų daiktą. Jei reikia, darant prielaidą, kad visa reikiama įranga yra po ranka ir visi atitinkami įgūdžių metimai yra sėkmingi: daiktas, kurį palyginti paprasta pagaminti, reikalauja vienos valandos kiekvienam DYD. Jei jis yra vidutinio sudėtingumo, kiekvienas DYD reikalauja vienos dienos. Jei jis palyginti sudėtingas, kiekvienas DYD yra viena savaitė. Jei jis itin sudėtingas, kiekvienas DYD gali užtrukti mėnesį. Jei prie daikto dirba daugiau nei vienas veikėjas, padalinkite DYD tarp jų. Kai darbas apima reikiamą daikto DYD, jis yra baigtas. Naudokite DYD atitikmenų lenteles.
 
-**Pavyzdžiui,** skydą (SIZ 3) yra gana lengva sukonstruoti ir tai užtrunka tris valandas. SIZ 50 automobilis yra vidutinio sudėtingumo ir vienas žmogus jį surenka per 50 darbo dienų, arba du mechanikai per 25 darbo dienas iš detalių. Tačiau SIZ 110 lėktuvas yra itin sudėtingas ir vienam veikėjui prireiktų devynerių metų jį užbaigti. Jūsų GV skatinamas keisti šiuos kiekius atsižvelgiant į įrangą, patalpas ir metimų sėkmės kokybę. Tokiam ilgalaikiam projektui kiekvienas laikotarpis (viena valanda, viena diena arba viena savaitė) reikalauja atskiro ir sėkmingo įgūdžių metimo, jei įgūdžių metimas yra būtinas.
+**Pavyzdžiui,** taikinio skydas (DYD 3) yra palyginti lengvai sukonstruojamas ir užtrunka tris valandas. DYD 50 automobilis yra vidutinio sudėtingumo ir vienam žmogui užtrunka 50 darbo dienų arba dviem mechanikams 25 darbo dienas surinkti iš detalių. Tačiau DYD 110 lėktuvas yra itin sudėtingas ir vienam veikėjui užtruktų devynerius metus jį užbaigti. Jūsų žaidimo vedlys skatinamas modifikuoti šiuos kiekius atsižvelgiant į įrangą, patalpas ir atliktų sėkmių kokybę. Tokiam ilgalaikiam projektui kiekvienas laikotarpis (viena valanda, viena diena arba viena savaitė) reikalauja atskiro ir sėkmingo įgūdžio metimo, jei įgūdžio metimas yra būtinas.
 
-Šios vertės yra abstrakčios, ir jūsų GV skatinamas pateikti tikslesnę informaciją apie gamybos laiką, jei pageidaujama.
+Šios vertės yra abstrakčios, ir jūsų žaidimo vedlys skatinamas pateikti tikslesnę informaciją apie gamybos laiką, jei pageidaujama.### Įrangos kokybės modifikatoriai
 
-### Įrangos kokybės modifikatoriai
+Įgūdžių patikrinimai gali būti keičiami turint po ranka tinkamos ir pritaikomos įrangos. Įranga gali būti bet kas: nuo spynų atrakinimo rinkinio, mechaniko įrankių dėžės, tyrimų bibliotekos, medicinos laboratorijos ar bet ko kito, kas yra naudinga ir tinkama. Įrangos kokybė gali suteikti įgūdžio patikrinimo modifikatorių, kaip aprašyta skyriuje **Situaciniai modifikatoriai**. Šis modifikatorius gali svyruoti nuo prastesnės įrangos, kuri sumažina jūsų veikėjo įgūdžio vertę –20 %, iki aukštesnės kokybės įrangos, suteikiančios +20 % premiją.
 
-Įgūdžių metimai gali būti modifikuoti turint po ranka tinkamą ir reikiamą įrangą. Įranga gali būti bet kas: nuo rakinimo įrankių komplekto, staklininko įrankių rinkinio, mokslinių tyrimų bibliotekos, medicinos laboratorijos ar bet ko kito, kas yra naudinga ir tinkama. Įrangos kokybė gali suteikti modifikatorių įgūdžių metimui, kaip aprašyta **Situaciniuose modifikatoriuose**. Šis modifikatorius gali svyruoti nuo prastesnės kokybės įrangos, nubaudžiančios jūsų veikėjo įgūdžių reitingą –20 %, iki aukštesnės kokybės įrangos, suteikiančios +20 % premiją.
+Dauguma įrangos tipų pasižymi įvairia kokybe. Jūsų žaidimo meistras turėtų nustatyti, ar tam tikra įranga yra prieinama skirtingos kokybės, ir kaip lengva ar brangu ją įsigyti. Dauguma jūsų veikėjo naudojamos įrangos pagal nutylėjimą yra vidutinės kokybės. Tačiau galbūt norėsite, kad jūsų veikėjas turėtų ar naudotų aukštesnės kokybės įrangą, kad padidintų sėkmės tikimybę atliekant atitinkamą įgūdžio patikrinimą.
 
-Dauguma įrangos tipų egzistuoja įvairios kokybės. Jūsų GV turėtų nustatyti, ar konkreti įranga yra prieinama įvairios kokybės ir kaip lengva ar brangu ją gauti. Dauguma įrangos, kurią naudoja jūsų veikėjas, pagal numatytuosius nustatymus yra vidutinės kokybės. Tačiau galbūt norėsite, kad jūsų veikėjas turėtų ar naudotų aukštesnės kokybės įrangą, kad padidintų savo sėkmės galimybes atliekant atitinkamą įgūdžių metimą.
-
-Toliau pateikiamas greitas vadovas, kaip elgtis su skirtingos kokybės įrangos verte ir prieinamumu:
+Toliau pateikiamas trumpas vadovas, kaip vertinti skirtingų kokybės lygių įrangos vertę ir prieinamumą:
 
 | Kokybė | Modifikatorius | Vertė ir galimybės |
 | :---- | :---- | :---- |
-| Prasta | –20 % | Atimkite vieną ar tris vertės lygius |
+| Prasta | –20 % | Atimkite vieną–tris vertės lygius |
 | Vidutinė | Nėra | Kaip įprasta |
-| Aukštesnė | +20 % | Pridėkite vieną ar tris vertės lygius |
+| Puiki | +20 % | Pridėkite vieną–tris vertės lygius |
 
-Norėdami naudoti šią lentelę, suraskite daikto įprastą vertę (ar pasitarkite su savo GV). Tada nustatykite kokybę daikto, kurį norėtumėte turėti savo veikėjui. Pasikonsultuokite su **Vertė ir galimybės** stulpeliu, kad nustatytumėte galutinę įrangos vertę. Įrangos vertė ir prieinamumas paprastai negali būti modifikuoti viršijant įprastas ribas. Daroma prielaida, kad jūsų veikėjas nori geros ar aukštesnės įrangos, kad padidintų savo įgūdžių reitingus, nors, jei biudžetas yra problema, galite pasirinkti, kad jūsų veikėjas naudotų pigesnę žemesnės kokybės įrangą.
+Norėdami naudotis šia lentele, nustatykite įprastą įrangos vertę (arba pasitarkite su žaidimo meistru). Tada nustatykite tokios kokybės daiktą, kokio norėtumėte savo veikėjui. Pasinaudokite stulpeliu **Vertė ir galimybės**, kad nustatytumėte galutinę įrangos vertę. Įrangos vertė ir prieinamumas paprastai negali būti modifikuojami už įprastų ribų. Manoma, kad jūsų veikėjas nori geros ar puikios įrangos, kad padidintų savo įgūdžių vertinimus, tačiau jei biudžetas yra ribotas, galite pasirinkti, kad jūsų veikėjas naudotų pigesnę, žemesnės kokybės įrangą.
 
-GV nuožiūra, įrangai gali būti priskirtos alternatyvios vertės ir/ar modifikatoriai – pateiktos vertės yra gairės.
+Žaidimo meistro nuožiūra įrangai gali būti priskirtos alternatyvios vertės ir (arba) modifikatoriai – pateiktos vertės yra tik gairės.
 
-Turint tinkamą įrangą, modifikatorius nesuteikiamas. Tačiau, jei jūsų veikėjas neturi reikiamos įrangos tam tikram įgūdžiui atlikti, jūsų GV gali padaryti įgūdžio metimą Sunkų (Difficult) arba Neįmanomą (Impossible), arba tiesiog nuspręsti, kad įgūdžio negalima atlikti be tinkamos įrangos.
+Tinkamos įrangos turėjimas nesuteikia jokio modifikatoriaus. Tačiau, jei jūsų veikėjas neturi reikiamos įrangos tam tikram įgūdžiui naudoti, žaidimo meistras gali padaryti įgūdžio patikrinimą sunkiu ar neįmanomu, arba tiesiog nustatyti, kad įgūdžio negalima bandyti be tinkamų priemonių.
 
-**Pavyzdžiui,** jūsų veikėjas susiduria su spyna, kurią reikia atrakinti. Toliau pateikiamos kai kurios baigtys dėl aplinkybių:
+**Pavyzdžiui,** jūsų veikėjas susiduria su spyna, kurią reikia atrakinti. Štai keletas rezultatų atsižvelgiant į aplinkybes:
 
-* Aukštesnės kokybės spynų rinkiniai suteikia +20 % premiją.
-* Vidutinės kokybės įrankiai premijos nesuteikia.
-* Prastos kokybės įrankiai (surūdiję, sulūžę, improvizuoti) modifikuoja įgūdį –20 %.
+* Puikūs spynų atrakinimo įrankiai suteikia +20 % premiją.
 
-Jūsų GV gali pareikšti, kad įgūdžio išvis negalima atlikti, jei jūsų veikėjas neturi net paties elementariausio spynų atrakinimo įrankio. Jis gali pasakyti: „Tu negali atrakinti spynos be spynos atrakiklio ar kažko, ką būtų galima įkišti į spyną. Gal pasižvalgyk dar? Gali rasti kažką, iš ko būtų galima sukurti improvizuotą spynos atrakiklį.“
+* Vidutiniai įrankiai nesuteikia jokios premijos.
 
-Jūsų GV gali suteikti jūsų veikėjui tiesioginę 1 % sėkmės galimybę, net ir be įrankių. Jei metimas sėkmingas, jūsų GV gali pasakyti: „Tau pavyksta klibinti spynos mechanizmą pirmyn ir atgal, kol išgirsti lengvą spragtelėjimą. Arba tau pavyko ją atrakinti pritaikius teisingą vibraciją, arba ji nebuvo tinkamai užrakinta. Bet kuriuo atveju, tai buvo nuostabi sėkmė.“
+* Prasti įrankiai (surūdiję, sulūžę, improvizuoti) pakeičia įgūdį –20 %.
 
-Atminkite, kad situaciniai įgūdžių reitingo modifikatoriai taikomi po to, kai Lengvas (Easy) modifikatorius padvigubinamas arba Sunkus (Difficult) padalinamas perpus.
+Žaidimo meistras gali pareikšti, kad įgūdžio bandyti išvis negalima, jei jūsų veikėjas neturi net pačių primityviausių spynų atrakinimo įrankių. Jis gali pasakyti: „Negalite atrakinti spynos neturėdami atraktuko ar nieko, ką būtų galima įkišti į spyną. Gal pasižvalgykite dar? Gal rasite ką nors, iš ko būtų galima pasigaminti improvizuotą atraktuką.“
+
+Žaidimo meistras gali leisti jūsų veikėjui turėti tiesioginę 1 % sėkmės tikimybę net ir be įrankių. Jei patikrinimas sėkmingas, žaidimo meistras gali pasakyti: „Jums pavyko judinti spynos mechanizmą pirmyn ir atgal, kol išgirdote lengvą spragtelėjimą. Arba pavyko atrakinti pritaikius tinkamas vibracijas, arba ji nebuvo tinkamai užrakinta nuo pat pradžių. Bet kuriuo atveju, tai buvo neįtikėtina sėkmė.“
+
+Atminkite, kad situaciniai modifikatoriai įgūdžio vertei taikomi po to, kai „Lengvas“ modifikatorius padvigubinamas arba „Sunkus“ modifikatorius padalijamas perpus.
 
 ### Įgūdžiai ir įranga
 
-Daugeliui įgūdžių sėkmingai atlikti reikalinga įranga arba jie yra labai patobulinami naudojant įrangą. Kaip minėta anksčiau, kai kurie įgūdžiai yra nubaudžiami už įrangos neturėjimą. Tam tikram įgūdžiui reikalinga įranga skiriasi priklausomai nuo aplinkos, o jūsų GV gali pateikti daugiau informacijos šia tema. Lentelė **Įgūdžiai ir įranga** aprašo potencialią specializuotą arba bendrą įrangą, skirtą naudoti su įgūdžiais. Jei įgūdžio nėra sąraše, jam nereikia jokios įrangos arba tai yra akivaizdu (pavyzdžiui, ginklų įgūdžiai).
+Daugeliui įgūdžių sėkmingam panaudojimui reikalinga įranga, arba įranga gali gerokai pagerinti jų naudojimą. Kaip minėta anksčiau, kai kurie įgūdžiai yra nubaudžiami, jei įrangos nėra. Tam tikram įgūdžiui reikalinga įranga skiriasi priklausomai nuo nustatymų, ir jūsų žaidimo meistras gali pateikti daugiau detalių šia tema. Lentelėje **Įgūdžiai ir įranga** aprašoma potenciali specializuota ar bendroji įranga, naudojama su įgūdžiais. Jei įgūdžio sąraše nėra, vadinasi, jam nereikia jokios įrangos arba tai yra akivaizdu (pvz., ginklų įgūdžiai).
 
-**Kita įranga** pateikia papildomos informacijos apie naudingą įrangą, įskaitant pavyzdinius rinkinius, kuriuos jūsų veikėjas gali naudoti.
+**Kita įranga** pateikia papildomos informacijos apie naudingą įrangą, įskaitant rinkinių pavyzdžius, kuriuos jūsų veikėjas gali naudoti.
 
 > ##### Įgūdžiai ir įranga
 > 
 > | Įgūdis | Potenciali įranga |
 > | :---- | :---- |
-> | Vertinimas (Appraise) | Nėra arba informacinė medžiaga, matavimo prietaisai, didinamasis stiklas ir kt. |
-> | Menas (Art) | Pagal terpę (dažai, kompiuteris, holo-vizualizatorius, purškiami dažai, rašomoji mašinėlė ir kt.). |
-> | Laipiojimas (Climb) | Nėra arba virvė, kabliai, alpinisto batai su spygliais ir kt. |
-> | Amatai (Craft) | Beveik kiekvienas Amatų specializacijos įgūdis naudoja savo įrangą ar įrankius. |
-> | Maskavimasis (Disguise) | Kosmetika, perukai, kostiumų keitimas ir kt. |
-> | Smulkioji manipuliacija (Fine Manipulation) | Nėra arba tikslūs įrankiai. |
-> | Pirmoji pagalba (First Aid) | Nėra arba paprastas pirmosios pagalbos rinkinys ir tvarsčiai. |
-> | Žaidimai (Gaming) | Nėra arba kortos, kauliukai, žaidimo lenta ir kt. |
-> | Žinios (Knowledge) | Nėra arba informacinė medžiaga. |
-> | Kalba (Language) | Nėra arba kalbos žodynas. |
-> | Raštingumas (Literacy) | Nėra arba kalbos žodynas. |
-> | Medicina (Medicine) | Skiriasi priklausomai nuo aplinkos – nuo žolininko medžiagų iki moderniausių ligoninės patalpų ir farmacijos. |
-> | Navigacija (Navigate) | Nėra arba žemėlapiai, astroliabija, kompasas ir kt. |
-> | Remontas (Repair) | Nėra arba konkretaus remonto tipo įrankiai. |
-> | Tyrimas (Research) | Nėra arba tyrimų biblioteka ir informacinė medžiaga. |
-> | Mokslas (Science) | Nėra arba moksliniai instrumentai ir informacinė medžiaga. |
-> | Mokymas (Teach) | Dalykui tinkama švietimo medžiaga. |
-> | Techninis įgūdis (Technical Skill) | Nėra arba konkrečiam įgūdžiui tinkamos medžiagos. |
+> | Vertinimas (Appraise) | Nėra, arba informacinė medžiaga, matavimo prietaisai, didinamasis stiklas ir kt. |
+> | Menas (Art) | Pagal terpę (dažai, kompiuteris, holografinis vaizduoklis, purškiami dažai, rašomoji mašinėlė ir kt.). |
+> | Laipiojimas (Climb) | Nėra, arba virvė, kabliai, alpinisto batai ir kt. |
+> | Amatai (Craft) | Beveik kiekviena amatų specialybė naudoja savo įrangą ar įrankius. |
+> | Maskavimasis (Disguise) | Makiažas, perukai, kostiumų keitimas ir kt. |
+> | Smulkioji manipuliacija (Fine Manipulation) | Nėra, arba preciziniai įrankiai. |
+> | Pirmoji pagalba (First Aid) | Nėra, arba pagrindinis pirmosios pagalbos rinkinys ir tvarsčiai. |
+> | Žaidimai (Gaming) | Nėra, arba kortos, kauliukai, žaidimų lenta ir kt. |
+> | Žinios (Knowledge) | Nėra, arba informacinė medžiaga. |
+> | Kalba (Language) | Nėra, arba kalbos žodynas. |
+> | Raštingumas (Literacy) | Nėra, arba kalbos žodynas. |
+> | Medicina (Medicine) | Skiriasi priklausomai nuo aplinkos: nuo žolininko medžiagų iki moderniausių ligoninės patalpų ir farmacijos produktų. |
+> | Navigacija (Navigate) | Nėra, arba žemėlapiai, astroliabija, kompasas ir kt. |
+> | Taisymas (Repair) | Nėra, arba remonto tipui tinkami įrankiai. |
+> | Tyrimai (Research) | Nėra, arba tyrimų biblioteka ir informacinė medžiaga. |
+> | Mokslas (Science) | Nėra, arba moksliniai instrumentai ir informacinė medžiaga. |
+> | Mokymas (Teach) | Dalykui tinkama mokomoji medžiaga. |
+> | Techninis įgūdis (Technical Skill) | Nėra, arba konkrečiam įgūdžiui tinkamos medžiagos. |
 
 ### Įranga su charakteristikomis
 
-Kai kurios įrangos dalys turi charakteristikų vertes: ar reikšmes visose charakteristikose, kai kuriose, ar tik vienoje. Kai kurios neturi jokių. Tai skiriasi priklausomai nuo daikto, bet jei daiktas turi savybę, reikalaujančią pasipriešinimo metimo, jis turėtų turėti charakteristikos vertę. Įrangai su charakteristikomis šios gairės aprašo, kaip šios vertės veikia, kai taikomos objektams:
+Kai kuri įranga turi charakteristikų vertes: nesvarbu, ar tai vertės visose charakteristikose, kai kuriose, ar tik vienoje. Kai kurios neturi jokių. Tai skiriasi priklausomai nuo daikto, tačiau jei daiktas turi kokybę, kuriai reikalingas pasipriešinimo metimas, jis turėtų turėti charakteristikos vertę. Įrangai su charakteristikomis šios gairės aprašo, kaip šios vertės veikia pritaikytos daiktams:
 
-* **Jėga (STR):** Daiktas su STR turi turėti kažkokią judėjimo priemonę. STR nėra matas to, kiek kažkas atsparu STR: tai vertei žr. jo hit pointų arba šarvų vertę. Daiktai su STR yra transporto priemonės, statybinė įranga, tokia kaip krautuvai ar buldozeriai, robotai arba net hidrauliniai kėlikliai.
+* **JĖG (JĖG):** Daiktas su JĖG turi turėti kažkokį judėjimo būdą. JĖG nėra matas, kaip stipriai kažkas atsparu JĖG: dėl šios vertės žiūrėkite jo pataikymo taškus (HP) arba šarvų vertę. Daiktai su JĖG yra transporto priemonės, statybinė technika, pavyzdžiui, krautuvai ar buldozeriai, robotai arba net hidrauliniai domkratai.
 
-* **Ištvermė (CON):** Daiktas su CON yra retas – hit pointų sumos paprastai pagrįstos žaliu SIZ ir modifikuotos šarvų verte. Nebent jis gali gydytis arba yra paveiktas ligos, nuodų ir kt., jam nereikia CON. Daiktai su CON būtų humanoidiniai androidai.
+* **IŠT (IŠT):** Daiktas su IŠT yra retas – pataikymo taškų sumos paprastai remiasi grynuoju DYD ir yra keičiamos šarvų verte. Jei jis negali sveikti arba nėra veikiamas ligų, nuodų ir t. t., jam IŠT nereikalinga. Daiktų su IŠT pavyzdžiai būtų humanoidiniai androidai.
 
-* **Dydis (SIZ):** SIZ yra pagrindinė objekto charakteristika – beveik viskas turi fizinį buvimą, taigi ir SIZ. Kaip minėta aukščiau, daugumai įrangos vienetų SIZ lemia hit pointų vertes. Kartais daiktas turės daugiau hit pointų, atsižvelgiant į tai, iš ko jis pagamintas. Žr. **Bendrosios objektų savybės** dėl daugiau informacijos apie hit pointus, šarvų vertę ir kitus atributus.
+* **DYD (DYD):** DYD yra pagrindinė daikto charakteristika – beveik viskas turi fizinį pavidalą, todėl ir DYD. Kaip minėta aukščiau, daugumai įrangos dalių DYD nustato pataikymo taškų vertes. Kartais daiktas turės daugiau pataikymo taškų, atsižvelgiant į tai, iš ko jis pagamintas. Daugiau apie pataikymo taškus, šarvų vertę ir kitus atributus žr. **Bendrosios objektų kokybės**.
 
-* **Intelektas (INT):** Retas daiktui, INT atspindi mintį, numanant intuiciją ir problemų sprendimą. INT mažai tikėtinas daiktams, išskyrus kompiuterius ar dirbtinį intelektą, bet magiški daiktai gali turėti INT ir su jais susijusias asmenybes. Daiktas su INT idealiai turėtų turėti kažkokią bendravimo priemonę, pavyzdžiui, ekraną, balsą, telepatiją ar kitą informacijos perdavimo būdą.
+* **INT (INT):** Daiktui reta, INT reiškia mąstymą, intuiciją ir problemų sprendimą. INT vargu ar būdinga kitiems daiktams, išskyrus kompiuterius ar dirbtinį intelektą, tačiau magiški daiktai gali turėti INT ir atitinkamas asmenybes. Daiktas su INT idealiai turėtų turėti kažkokį bendravimo būdą, pavyzdžiui, ekraną, garsą, telepatiją ar kitą informacijos perdavimo metodą.
 
-* **Galia (POW):** POW atspindi dvasinę energiją ir yra beveik išimtinai būdinga gyvoms būtybėms ar magiškiems kūriniams. Tai nereiškia energijos šaltinio – jis yra arba mechaninis (galių taškų rezervas), arba naudojamas per „Papildomos energijos“ (Extra Energy) supergalią.
+* **GAL (GAL):** GAL atspindi dvasinę energiją ir yra beveik išimtinai būdinga gyvoms būtybėms ar magiškiems kūriniams. Tai nereiškia energijos šaltinio – tai yra mechaninis (energijos taškų rezervas) arba naudojant „Papildomos energijos“ supergalią.
 
-* **Vikrumas (DEX):** Bet koks daiktas, gebantis savarankiškai judėti, turėtų turėti DEX. Jei daiktą su DEX turi valdyti jūsų veikėjas, naudokite mažesnį iš veikėjo arba daikto DEX.
+* **VIK (VIK):** Bet koks daiktas, galintis judėti savarankiškai, turi turėti VIK. Jei daiktą su VIK turi valdyti jūsų veikėjas, naudokite mažesnę VIK iš savo veikėjo arba daikto.
 
-* **Charizma (CHA):** Nors CHA apima asmenybės elementus ir asmeninį patrauklumą, daiktui tai gali būti arba estetinis patrauklumas, arba tai gali reikšti, kad daiktas geba komunikuoti ir žavėti. Pagrindinė priežastis priskirti CHA negyvam daiktui yra palyginti jo išvaizdą su kitu daiktu.
+* **CHA (CHA):** Nors CHA apima asmenybės ir asmeninio žavesio elementus, daiktui tai gali būti arba estetinis patrauklumas, arba tai gali rodyti, kad daiktas geba bendrauti ir žavėti. Pagrindinė priežastis priskirti CHA negyvam daiktui yra palyginti jo išvaizdą su kitu daiktu.
 
-* **Išsilavinimas (EDU) (Pasirinktis):** Be to, kad atstovauja apmokymus ar atsisiųstas žinias mąstančiam kompiuteriui, EDU geriausiai tinka įrangai su žinių rezervais. Paprastai toks daiktas arba prideda premiją jūsų veikėjo Tyrimo (Research) įgūdžiui, arba gali padaryti įgūdžių metimus Lengvus ar Sunkius. Kai priskiriama daiktui, EDU reiškia duomenis, prie kurių jis turi tiesioginę prieigą. Šis skaičius dramatiškai auga atsiradus informacijos saugykloms ir prieigai prie duomenų bazių internetu.
+* **IŠS (EDU) (Pasirinktis):** Be mokymų ar atsisiųstų žinių atvaizdavimo mąstančiam kompiuteriui, IŠS geriausiai tinka įrangai su žinių rezervais. Paprastai toks daiktas arba suteikia premiją jūsų veikėjo „Tyrimų“ įgūdžiui, arba gali padaryti įgūdžių patikrinimus „Lengvais“ ar „Sunkiais“. Kai priskiriama daiktui, IŠS reiškia duomenis, kuriuos jis gali pasiekti nedelsiant. Šis skaičius smarkiai išauga atsiradus informacijos saugojimo sistemoms ir internetinei prieigai prie duomenų bazių.
 
-Kaip minėta aukščiau, nebūtina, kad kiekvienas įrangos vienetas ar daiktas turėtų charakteristikas, nebent jų reikia. Jei žaidimo metu jums reikia vertės, kuri nebuvo apibrėžta, sugeneruokite ją atitinkamu D6 skaičiumi arba priskirkite vertę pagal panašius įrangos vienetus.
+Kaip minėta aukščiau, nebūtina, kad kiekvienas įrangos vienetas ar daiktas turėtų charakteristikas, nebent jų reikia. Jei žaidimo metu jums prireikia vertės, kuri nebuvo apibrėžta, sugeneruokite ją metant atitinkamą skaičių šešiasienių kauliukų (D6) arba priskirkite vertę pagal panašius įrangos vienetus.
 
-Galite net nustatyti vertę su Statuso metimu:
+Vertę galite nustatyti net su Statuso metimu:
 
 | Statuso metimo rezultatas | Vertė |
 | :---- | :---- |
-| Fumble | 1 |
-| Nesėkmė | 1D6 |
-| Sėkmė | 2D6 |
-| Speciali sėkmė | 2D6+6 |
-| Kritinė sėkmė | 2D6+12 |
+| Nesėkmė (Fumble) | 1 |
+| Nepasisekė (Failure) | 1D6 |
+| Sėkmė (Success) | 2D6 |
+| Ypatinga sėkmė (Special Success) | 2D6+6 |
+| Kritinė sėkmė (Critical Success) | 2D6+12 |
 
 ### Įranga su įgūdžiais
 
-Kai kuri įranga gali turėti įgūdžių, tvarkomų lygiai taip pat, kaip ir veikėjų įgūdžiai. Bet koks daiktas, gebantis veikti savarankiškai, gali turėti įgūdį. Kai kurie pavyzdžiai galėtų būti automatizuotos gynybos sistemos su Artilerijos (Artillery) įgūdžiu; mokomosios programos naudojant Mokymą (Teach); diagnostikos sistemos naudojant Remontą (Repair) ir t.t. Apskritai, kuo intelektualesnis įrangos vienetas, tuo didesnė tikimybė, kad jis turės vieną ar daugiau įgūdžių.
+Kai kuri įranga gali turėti įgūdžių, kurie tvarkomi lygiai taip pat, kaip veikėjų įgūdžiai. Bet koks įrangos vienetas, galintis veikti savarankiškai, gali turėti įgūdį. Keletas pavyzdžių galėtų būti automatinės gynybos sistemos su „Artilerijos“ įgūdžiu; mokomosios programos, naudojančios „Mokymą“; diagnostinės sistemos, naudojančios „Taisymą“ ir t. t. Paprastai, kuo protingesnis įrangos vienetas, tuo labiau tikėtina, kad jis turės vieną ar daugiau įgūdžių.
 
-Jūsų GV turėtų nustatyti šių įgūdžių vertes, atsižvelgiant į įrangos vieneto pobūdį. Jei jis turi charakteristiką, susijusią su įgūdžiu (pavyzdžiui, INT ir Žinių įgūdžiai), jo įgūdžio lygis gali būti tos charakteristikos kartotinis (x1, x3, x5 ir kt.), priklausomai nuo to, koks jis efektyvus. **Kita įranga** pateikia įrangos su įgūdžiais pavyzdžius. Jei daiktas gali kalbėti ar skaityti, jis turėtų turėti Kalbos (Language) įgūdį – paprastai gimtąją savininko ar kūrėjo kalbą.
+Jūsų žaidimo meistras turėtų nustatyti šių įgūdžių vertes, atsižvelgdamas į įrangos prigimtį. Jei ji turi charakteristiką, susijusią su įgūdžiu (pavyzdžiui, INT ir „Žinių“ įgūdžiai), jos įgūdžio lygis gali būti tos charakteristikos kartotinis (x1, x3, x5 ir kt.), priklausomai nuo to, koks jis efektyvus. **Kita įranga** pateikia įrangos su įgūdžiais pavyzdžių. Jei daiktas gali kalbėti ar skaityti, jis turėtų turėti „Kalbos“ įgūdį – paprastai savininko ar kūrėjo gimtąją kalbą.
 
-Norėdami pradėti žaidimą su daiktu, turinčiu įgūdžius, „sumokėkite“ už daikto įgūdžių taškus iš savo veikėjo asmeninio įgūdžių taškų rezervo (iš veikėjo kūrimo **Septinto žingsnio**) arba iš profesinio rezervo, jei daiktas yra svarbus atliekant jų profesiją.
+Norėdami pradėti žaidimą su daiktu, turinčiu įgūdžių, „sumokėkite“ už daikto įgūdžių taškus iš savo veikėjo asmeninio įgūdžių taškų rezervo (iš **Septinto veiksmo**, skirto veikėjo kūrimui) arba iš profesinio rezervo, jei daiktas yra svarbus atliekant profesines užduotis.
 
-Arba galite elgtis su daiktu taip, lyg jis turėtų supergalių (žr. Ketvirtą skyrių: Galios) ir įsigyti daiktą lyg tai būtų galia. Šiuo atveju taikomos šios sąlygos:
+Arba galite elgtis su daiktu taip, tarsi jis turėtų supergalias (žr. Ketvirtą skyrių: Galios) ir įsigyti jį taip, tarsi tai būtų galia. Šiuo atveju taikomos šios sąlygos:
 
-* Daiktas turi galių trūkumą „Supergalios tapatybė turi būti įjungta akivaizdžiu ir išvengiamu būdu“, susietą su daiktu, dažniausiai +1 galių biudžeto premija.
-* Gali būti taikomi kiti galių trūkumai, pavyzdžiui, „Galia turi ribotą naudojimų skaičių per dieną“ arba „Galia negali pagerėti per patirtį“.
-* Įgūdžiai perkami su „Super-įgūdžio“ (Super Skill) galia. Daroma prielaida, kad visi daiktai turi 0 % pradinį įgūdžio reitingą.
-* Jei nėra akivaizdžių daikto atributų, dirbkite su savo GV, kad nustatytumėte jo energijos tiekimą, diapazoną ir kt. Papildomas supergalias galima įsigyti šiems atributams pagerinti.
+* Daiktas turi veikėjo trūkumą „Supergalių tapatybė turi būti įjungta akivaizdžiu ir išvengiamu būdu“, susietą su daiktu, paprastai tai suteikia +1 galios biudžeto premiją.
+* Gali būti taikomi kiti galios trūkumai, pavyzdžiui, „Galia turi ribotą naudojimo skaičių per dieną“ arba „Galia negali tobulėti per patirtį“.
+* Įgūdžiai perkami su „Super įgūdžio“ galia. Manoma, kad visi daiktai turi 0 % pradinį įgūdžio vertinimą.
+* Jei daiktui nėra jokių akivaizdžių atributų, dirbkite su savo žaidimo meistru, kad nustatytumėte jo energijos tiekimą, diapazoną ir kt. Papildomas supergalias galima įsigyti šiems atributams pagerinti.
 
-Jei investuojate taškus į daiktą, norėsite, kad jis būtų prieinamas. Jūsų GV turėtų padaryti viską, kas įmanoma, kad įsitikintų, jog jūsų daiktas išlieka su jūsų veikėju, yra lengvai taisomas arba kad galima lengvai rasti pakaitalą, atsižvelgiant į jo vertę ir aplinką. Nepaisant to, kad tai atskiras daiktas, jis laikomas jūsų veikėjo dalimi, lygiai taip pat, kaip kito veikėjo įgūdis ar galia, o jo atėmimas iš jūsų veikėjo turėtų būti atliekamas itin atsargiai, nebent tai neišvengiama.
+Jei investuojate taškus į daiktą, norėsite, kad jis būtų prieinamas. Jūsų žaidimo meistras turėtų padaryti viską, kas įmanoma, kad užtikrintų, jog jūsų daiktas išliktų su jūsų veikėju, būtų lengvai pataisomas arba kad jį būtų galima lengvai pakeisti, atsižvelgiant į jo vertę ir aplinką. Nepaisant to, kad tai yra atskiras daiktas, jis laikomas jūsų veikėjo dalimi, lygiai taip pat, kaip kito veikėjo įgūdis ar galia, ir atimti jį iš jūsų veikėjo turėtų būti daroma itin atsargiai, nebent tai neišvengiama.
 
-Daiktų su įgūdžiais įgūdžių reitingai nedidėja per sėkmingą patirtį, nebent daiktas turi INT ir jūsų GV nusprendžia, kad jis tam tikru būdu sugeba mokytis.
+Daiktai su įgūdžiais nepadidina savo įgūdžio vertinimo per sėkmingą patirties naudojimą, nebent daiktas turi INT ir jūsų žaidimo meistras nustato, kad jis tam tikru būdu gali mokytis.### Įranga su galiomis
 
-### Įranga su galiomis
+Įrangos vienetas gali turėti savybių, viršijančių jo įprastas galimybes, ir su žaidimo vedėjo leidimu jūsų veikėjas gali įsigyti daiktą ar įrangą su galia, kaip aprašyta Ketvirtame skyriuje: Galios. Be to, jūsų žaidimo vedėjas gali pasirinkti įrangos vienetą apibūdinti per galią, kad būtų lengviau nustatyti jo efektyvumą prieš galių turintį veikėją, ir atvirkščiai. Tai paprastai būtina tik kampanijose, kuriose naudojamos galios, nes paprastai bazinių daikto atributų pakanka.
 
-Įrangos vienetas gali turėti savybių, viršijančių jo įprastas galimybes, ir su jūsų GV leidimu jūsų veikėjas gali įsigyti daiktą ar įrangos vienetą su galia, kaip aprašyta Ketvirtame skyriuje: Galios. Be to, jūsų GV gali nuspręsti pavaizduoti įrangos vienetą galių terminais, kad būtų lengviau nustatyti jo efektyvumą prieš galių turintį veikėją, ir atvirkščiai. Tai paprastai būtina tik kampanijose, kuriose naudojamos galios, nes paprastai pagrindinių daikto atributų pakanka.
+Toliau pateikiamos gairės įrangai su galiomis, pagrįstos Ketvirto skyriaus: Galios sistemomis.
 
-Toliau pateikiamos gairės įrengtai įrangai, pagrįstos Ketvirtame skyriuje: Galios aprašytomis galių sistemomis.
+**Magiški daiktai:** Įrangos vienetas su vienu ar keliais magiškais burtais vadinamas magišku daiktu. Šis daiktas atrodo magiškas bet kam, kas sugeba tai aptikti, ir leidžia savininkui iškviesti magišką burtą taip, lyg jis pats galėtų tai padaryti. Magiški daiktai privalo turėti įgūdžio įvertinimą konkrečiam burtui. Dauguma magiškų daiktų turi savo galios taškų talpą, o retesni magiški daiktai naudoja savininko galios taškus kaip rezervuarą.
 
-**Magiški daiktai:** Įrangos vienetas su vienu ar daugiau magiškų burtų vadinamas magišku daiktu. Šis daiktas atrodo magiškas kiekvienam, galinčiam aptikti tokius dalykus, ir leidžia savininkui iškviesti magišką burtą taip, lyg jis pats galėtų jį iškviesti. Magiški daiktai privalo turėti įgūdžio reitingą su burtu. Dauguma magiškų daiktų turi savo galių taškų talpą, o retesni magiški daiktai naudoja savininko galių taškus kaip rezervuarą.
+* Magiškas daiktas tampa nenaudingas, jei pasiekia 0 galios taškų, nors jį galima įkrauti. Norėdamas įkrauti magišką daiktą, vartotojas kiekvieną kovos raundą gali perkelti 1 galios tašką iš savo kūno į magišką daiktą.
+* Magiškas daiktas gali talpinti iki dvigubai daugiau nei maksimalus jo galios taškų skaičius. Šie papildomi galios taškai išnyksta taip pat, kaip ir žaidėjo veikėjo atveju.
+* Visi burtai, kuriuos daiktas iškviečia, laikosi visų taisyklių, susijusių su konkrečiu burtu.
+* Kai magiškas daiktas sukuriamas, jūsų žaidimo vedėjas turėtų nustatyti, ar jį gali naudoti tik kūrėjas, ar jį reikia nugalėti galios taškų prieš galios taškus pasipriešinimo metime, ar jį gali naudoti bet kas.
+* Daiktas turi įprastus gyvybės taškus (pagal DYD) ir atitinkamos nemagiškos versijos atributus.
+* Daikto gyvybės taškai riboja galios taškų, kuriuos jis gali saugoti, skaičių. Kai jis gauna žalą, maksimalus galios taškų skaičius, kurį jis gali saugoti, sumažėja. Daiktą galima taisyti įprastai, nors jei jis sulaužomas ar sunaikinamas, jis nustoja būti magiškas ir lieka paprastu daiktu.
+* Jei magiškas daiktas sunaikinamas, bet koks į jį investuotas GAL yra prarandamas.
+* Magiškas daiktas gali turėti vieną ar kelis nuolatinius magiškus burtus, įrištus į jį, kurie visada yra aktyvūs, tačiau tokio daikto sukūrimas kainuoja penkis kartus daugiau nei įprasta GAL kaina. Jūsų žaidimo vedėjas turėtų nustatyti, ar magišką burtą galima visam laikui užburti ant daikto. Jei toks daiktas sukuriamas, jam nereikia galios taškų ir jis tiesiog visada veikia pilna galia.
 
-* Magiškas daiktas yra nenaudingas, jei pasiekia 0 galių taškų, nors jį galima įkrauti. Norėdamas įkrauti magišką daiktą, vartotojas gali perkelti 1 galių tašką iš savo kūno į magišką daiktą kiekvieną kovos raundą.
-* Magiškas daiktas gali išlaikyti iki dvigubai daugiau nei jo maksimalūs galių taškai. Šie papildomi galių taškai išnyksta, kaip ir žaidėjo veikėjo atveju.
-* Visi burtai, kuriuos daiktas iškviečia, atitinka visas taisykles dėl konkretaus burto.
-* Kai magiškas daiktas sukuriamas, jūsų GV turėtų nustatyti, ar tik kūrėjas gali jį naudoti, ar jį reikia nugalėti galių taškų prieš galių taškus pasipriešinimo metime, ar jį gali naudoti bet kas.
-* Daiktas turi įprastus hit pointus (pagal SIZ) ir atitinkamos nemagiškos versijos atributus.
-* Daikto hit pointai riboja galių taškų skaičių, kurį jis gali laikyti. Kai jis patiria žalą, maksimalūs galių taškai, kuriuos jis gali laikyti, sumažėja. Daiktą galima taisyti įprastai, nors jei jis sulaužytas ar sunaikintas, jis nebėra magiškas ir lieka įprastu daiktu.
-* Jei magiškas daiktas sunaikinamas, bet koks POW, išleistas jam, yra prarandamas.
-* Magiškas daiktas gali turėti vieną ar daugiau nuolatinių magiškų burtų, įrištų į jį, kurie visada veikia, tačiau tokio daikto sukūrimas kainuoja penkis kartus daugiau nei įprasta POW kaina. Jūsų GV turėtų nustatyti, ar magiškas burtas gali būti nuolat iškviestas ant daikto. Jei šis daiktas sukuriamas, jam nereikia galių taškų ir jis tiesiog visada veikia visu pajėgumu.
+**Mutavę daiktai:** Daiktai su mutacijomis yra gana reti, nes mutacijos tradiciškai kyla dėl genetinės variacijos, o nedaug negyvų daiktų yra sukuriami pasitelkus genetinę manipuliaciją.
 
-**Mutavę daiktai:** Daiktai su mutacijomis yra gana reti, nes mutacijos tradiciškai kyla dėl genetinės variacijos, o nedaug negyvų daiktų sukuriami genetinės manipuliacijos būdu.
+* Daiktas gali turėti vieną ar kelias neigiamas mutacijas.
+* Daiktas turi įprastus gyvybės taškus (pagal DYD) ir kitus įprastos versijos atributus, nebent mutacija paveikia šias charakteristikas.
+* Bet kokie charakteristikų metimai, kuriuos daiktas privalo atlikti, yra pagrįsti kūrėjo charakteristikomis, jei jis neturi savo paties charakteristikų.
+* Mutavęs daiktas laikomas gyvu ir gyja tuo pačiu tempu kaip jo kūrėjas.
+* Mutavusį daiktą gali naudoti bet kas, sėkmingai atlikęs ištvermės (Stamina) metimą.
+* Bet koks į mutavusį daiktą investuotas IŠT ir mutacijos prarandami, jei jis sunaikinamas.
 
-* Daiktas gali turėti vieną ar daugiau neigiamų mutacijų.
-* Daiktas turi įprastus hit pointus (pagal SIZ) ir kitus normalios versijos atributus, nebent mutacija paveikia šias charakteristikas.
-* Bet kokie charakteristikų metimai, kuriuos turi atlikti daiktas, yra pagrįsti kūrėjo charakteristikomis, jei jis neturi savo charakteristikos.
-* Mutavęs daiktas laikomas gyvu ir gydosi tokiu pat greičiu kaip jo kūrėjas.
-* Mutavusį daiktą gali naudoti bet kas, sėkmingai atlikęs Ištvermės (Stamina) metimą.
-* Bet koks CON ir mutacijos, investuotos į mutavusį daiktą, prarandamos, jei jis sunaikinamas.
+**Įranga su psichinėmis galiomis:** Daiktai su psichinėmis galiomis yra neįtikėtinai reti, net retesni už daiktus su mutacijomis. Šie daiktai neišvengiamai yra įkrauti psichine energija ir turėtų turėti bent GAL. Veikėjas su bet kokia psichine galia automatiškai atpažįsta, kad daiktas turi psichinių galių, ir su Idėjos metimu gali jomis pasinaudoti. Veikėjas be psichinių galių gali nustatyti, ar daiktas turi psichinių savybių, tik sėkmingai atlikęs Idėjos metimą, ir turi arba nugalėti daiktą galios taškų prieš galios taškus pasipriešinimo metime, arba atlikti Sudėtingą Sėkmės metimą. Daikto kūrėjas (ar jūsų žaidimo vedėjas) nusprendžia, kas gali naudoti daiktą.
 
-**Įranga su psichinėmis galiomis:** Daiktai su psichinėmis galiomis yra neįtikėtinai reti, dar labiau nei daiktai su mutacijomis. Šie daiktai neišvengiamai yra įkrauti psichine galia ir turėtų bent jau turėti POW. Veikėjas su bet kokia psichine galia automatiškai atpažįsta, kad daiktas turi psichines galias, ir su Idėjos (Idea) metimu gali jį išnaudoti. Veikėjas be psichinių galių gali tik nustatyti, ar daiktas turi psichinių savybių, su sėkmingu Idėjos metimu, ir privalo arba nugalėti daiktą galių taškų prieš galių taškus pasipriešinimo metime, arba Sunkų (Difficult) Sėkmės (Luck) metimą. Daikto kūrėjas (ar jūsų GV) nusprendžia, kas gali naudoti daiktą.
+* Daiktas turi įprastus gyvybės taškus (pagal DYD) ir kitus įprastos daikto versijos atributus.
+* Psichiniai daiktai nėra gyvi ir gali būti pažeisti. Jie natūraliai negyja, tačiau gali būti suremontuoti sėkmingai atlikus atitinkamą Amatų ar Remonto įgūdžio metimą. Kai jie sunaikinami, jie nustoja veikti. Jei psichinis daiktas sulaužomas į daugiau nei vieną dalį, jūsų žaidimo vedėjas nusprendžia, kuri dalis, jei tokia yra, išlaiko psichinę galią.
 
-* Daiktas turi įprastus hit pointus (pagal SIZ) ir atitinkamos nemagiškos versijos atributus.
-* Psichiniai daiktai nėra gyvi ir gali būti pažeisti. Jie natūraliai negyja, bet gali būti pataisyti su tinkamu Amatų ar Remonto įgūdžio metimu. Kai jie sunaikinami, nustoja veikti. Jei psichinis daiktas sulaužomas į daugiau nei vieną dalį, jūsų GV nusprendžia, kuri dalis, jei tokia yra, išlaiko psichinę galią.
+**Įranga su burtų mokslu:** Įrangos vienetas su vienu ar keliais burtų mokslo burtais vadinamas **artefaktu**. Šis artefaktas atrodo turintis burtų mokslo savybių bet kam, kas sugeba tai aptikti, ir leidžia jūsų veikėjui iškviesti burtų mokslo burtą taip, lyg jis pats galėtų tai padaryti, arba daiktas turi burtų mokslo burtą, užburtą ant jo visam laikui. Dauguma artefaktų turi savo galios taškų rezervuarą, o retesni artefaktai naudoja vartotojo pačių galios taškus.
 
-**Įranga su burtininkavimu (Sorcery):** Įrangos vienetas su vienu ar daugiau burtininkavimo burtų vadinamas **artefaktu**. Šis artefaktas atrodo turintis burtininkavimo savybių kiekvienam, galinčiam aptikti tokius dalykus, ir leidžia jūsų veikėjui iškviesti burtininkavimo burtą taip, lyg jis pats galėtų jį iškviesti, arba daiktas turi burtininkavimo burtą, iškviestą ant savęs nuolat. Dauguma artefaktų turi savo galių taškų rezervuarą, o retesni artefaktai semiasi galių iš paties vartotojo galių taškų.
+* Artefakto kūrėjas privalo paaukoti 1 nuolatinio GAL tašką už kiekvieną burtų mokslo burtą, investuotą į artefaktą, ir privalo žinoti arba turėti prieigą prie burto(-ų), kurį(-iuos) artefaktas gali naudoti.
+* Artefaktas turi galios taškų rezervuarą, lygų jo kūrėjo įprastiems galios taškams po to, kai jis sukuriamas, arba jo DYD, priklausomai nuo to, kuris skaičius didesnis. Jūsų žaidimo vedėjas turėtų nustatyti GAL ir galios taškų talpą, jei artefakto kūrėjas yra nežinomas arba yra ne žaidėjo valdomas veikėjas.
+* Artefaktas arba tampa „be sąmonės“, kai pasiekia 0 galios taškų, arba bus neveiksnus. Norėdamas įkrauti artefaktą, vartotojas kiekvieną kovos raundą gali perkelti 1 galios tašką iš savo kūno į artefaktą.
+* Artefaktas gali talpinti daugiau nei įprastą galios taškų talpą, kaip ir veikėjas, iki dvigubai daugiau nei maksimalus jo galios taškų skaičius. Šie papildomi galios taškai išnyksta taip pat, kaip ir veikėjo atveju.
+* Visi burtų mokslo burtai, iškviesti iš artefakto, laikosi visų įprastų taisyklių, susijusių su konkrečiu burtu.
+* Kai artefaktas sukuriamas, jūsų žaidimo vedėjas turėtų nustatyti, ar jis bus asmeninis (tik kūrėjas gali jį naudoti), ar jį reikia nugalėti galios taškų prieš galios taškus pasipriešinimo metime, jei jis turi galios taškų, ar jį gali naudoti bet kas.
+* Artefaktas turi įprastus gyvybės taškus (pagal DYD) ir atitinkamos neburtų mokslo versijos atributus.
+* Artefakto gyvybės taškai riboja galios taškų, kuriuos galima saugoti jame, skaičių. Kai jis gauna žalą, maksimalus galios taškų skaičius, kurį jis saugo, sumažėja. Artefaktą galima suremontuoti kaip įprastą daiktą, nors jei jis sulaužomas ar sunaikinamas, jis niekada negali būti atstatytas iki artefakto statuso ir liks neburtų mokslo daiktu.
+* Jei artefaktas sunaikinamas, bet koks į jį investuotas GAL yra prarandamas.
 
-* Artefakto kūrėjas turi paaukoti 1 nuolatinį POW tašką už kiekvieną į artefaktą investuotą burtininkavimo burtą ir privalo mokėti (ar turėti prieigą prie) burtą(-us), kurį(-iuos) artefaktas gali naudoti.
-* Artefaktas turi galių taškų rezervuarą, lygų jo kūrėjo normaliai galių taškų sumai po to, kai jis sukuriamas, arba jo SIZ, atsižvelgiant į tai, kuris yra didesnis. Jūsų GV turėtų nustatyti POW ir galių taškų vertę, jei artefakto kūrėjas nežinomas arba yra nežaidžiamas veikėjas (NPC).
-* Artefaktas arba tampa „be sąmonės“, kai pasiekia 0 galių taškų, arba bus inertiškas. Norėdamas įkrauti artefaktą, vartotojas gali perkelti 1 galių tašką iš savo kūno į artefaktą kiekvieną kovos raundą.
-* Artefaktas gali turėti daugiau nei jo normali galių taškų talpa, kaip ir veikėjo atveju, iki dvigubai daugiau nei jo maksimalūs galių taškai. Šie papildomi galių taškai išnyksta, kaip ir veikėjo atveju.
-* Visi burtininkavimo burtai, iškviesti iš artefakto, atitinka visas įprastas taisykles dėl konkretaus burto.
-* Kai artefaktas sukuriamas, jūsų GV turėtų nustatyti, ar jis bus asmeninis (tik jo kūrėjas gali jį naudoti), ar jį reikia nugalėti galių taškų prieš galių taškus pasipriešinimo metime, jei jis turi galių taškus, ar jį gali naudoti bet kas.
-* Artefaktas turi įprastus hit pointus (pagal SIZ) ir atitinkamos neburtininkavimo versijos atributus.
-* Artefakto hit pointai riboja galių taškų skaičių, kurį galima laikyti jame. Kai jis patiria žalą, maksimalūs galių taškai, kuriuos jis laiko, sumažėja. Artefaktą galima taisyti kaip įprastą daiktą, nors jei jis sulaužytas ar sunaikintas, jis niekada negali būti atstatytas į artefakto statusą ir liks neburtininkavimo daiktu.
-* Jei artefaktas sunaikinamas, bet koks POW, investuotas į jį, prarandamas.
+Kai kurie artefaktai turi nuolatinius burtų mokslo burtus, įrištus į juos, kurie visada yra aktyvūs. GAL kaina sukurti šiuos daiktus yra padvigubinta.
 
-Kai kurie artefaktai turi nuolatinius burtininkavimo burtus, įrištus į juos, kurie visada veikia. POW kaina šiems daiktams sukurti yra padvigubinama.
+**Įranga su supergaliomis:** Įrangos vienetas su supergaliomis vadinamas įtaisu (gadget). Įtaisai yra lanksčiausi iš visų galių turinčių daiktų tipų ir gali atrodyti kaip bet kas: nuo kasdieniško ar paprasto iki itin pažangaus. Įtaiso išvaizda yra visiškai kosmetinė ir neturi nieko bendro su jo funkcija: jis gali švytėti, spindėti, skleisti keistus energijos pėdsakus, būti išraižytas senoviniais runomis ir t. t. Įtaisas neatrodo neįprastai galingas, nebent kūrėjas to nori. Jūsų žaidimo vedėjas turėtų nustatyti įtaiso galios lygį naudodamas kampanijos galios lygio gaires, pateiktas Ketvirtame skyriuje: Galios. Jūsų žaidimo vedėjas turėtų priskirti bet kokius supergalių lygius bet kokiam įtaisui, kaip norima, kad atitiktų nustatymus ir daikto reikalavimus.
 
-**Įranga su supergaliomis:** Įrangos vienetas su supergaliomis vadinamas įtaisu (gadget). Įtaisai yra lanksčiausi iš visų galių turinčių daiktų tipų ir gali atrodyti kaip bet kas: nuo kasdieniško ar grubaus iki labai pažangaus. Įtaiso išvaizda yra visiškai kosmetinė ir neturi nieko bendro su jo funkcija: jis gali švytėti, spindėti, skleisti keistus energijos pėdsakus, būti išraižytas senoviniais runomis ir t.t. Įtaisas neatrodo neįprastai galingas, nebent kūrėjas to nori. Jūsų GV turėtų nustatyti įtaiso galių lygį naudodamas kampanijos galių lygio gaires, pateiktas Ketvirtame skyriuje: Galios. Jūsų GV turėtų priskirti bet kokius supergalių lygius bet kokiam įtaisui, kaip pageidaujama, kad atitiktų aplinką ir daikto reikalavimus.
+Toliau pateiktos taisyklės galioja įtaisams:
 
-Įtaisams taikomos šios taisyklės:
+* Įtaiso gyvybės taškai, DYD ir kt. yra pagrįsti įprastu daiktu, kurio dydis ir masė atitinkami. Jei nėra akivaizdaus atitikmens, naudokite **Objekto DYD pavyzdžių** lentelę ir **Šarvų** lentelę gairėms. Norėdami pakeisti jo dydį, naudokite Dydžio keitimo galią.
 
-* Įtaiso hit pointai, SIZ ir kt. yra pagrįsti normaliu atitinkamo dydžio ir masės daiktu. Jei nėra akivaizdaus atitikmens, naudokite **Objektų SIZ pavyzdžių** lentelę ir **Šarvų** lentelę gairėms. Norėdami pakeisti jo dydį, naudokite galios Dydžio keitimas (Size Change) galią.
-* Jei įtaisui reikia charakteristikos (pavyzdžiui, POW galių taškams), jis turėtų būti sukurtas su Super-charakteristikos (Super Characteristic) galia.
-* Įtaisas, kuriam reikalingas energijos šaltinis, didesnis nei jo POW, turėtų turėti „Papildomos energijos“ (Extra Energy) galią.
-* Norėdami padaryti įtaisą patvaresnį nei įprastą daiktą, suteikite jam supergalias, tokias kaip Absorcija, Šarvai, Papildomi hit pointai, Jėgos laukas ir kt.
-* Kai taikoma, įtaisas turėtų remtis savo charakteristikomis. Jei galia reikalauja pasipriešinimo metimo, turėtų būti naudojama įtaiso charakteristika (jei yra). Jei įtaisas neturi atitinkamos charakteristikos, jis automatiškai pralaimi pasipriešinimo metimą.
-* Kai taikoma, įtaisas turėtų remtis savo vartotojo atitinkamu įgūdžiu.
-**Pavyzdžiui,** jei įtaisas yra pistoletas, jis turi būti šaudomas naudojant Šaunamųjų ginklų (Firearm) įgūdį. Jei tai kosmiškai maitinamas apyrankė, leidžianti naudotojui šaudyti radioaktyvius šūvius, naudokite Projekcijos (Projection) įgūdį.
+* Jei įtaisui reikia charakteristikos (pvz., GAL galios taškams), ji turėtų būti sukurta naudojant Super charakteristikos galią.
+* Įtaisui, kuriam reikalingas didesnis energijos tiekimas nei jo GAL, turėtų būti suteikta Papildomos energijos galia.
+* Norėdami padaryti įtaisą patvaresnį nei įprastas daiktas, suteikite jam supergalių, tokių kaip Absorbcija, Šarvai, Papildomi gyvybės taškai, Jėgos laukas ir kt.
+* Kai tik taikoma, įtaisas turėtų remtis savo paties charakteristikomis. Jei galiai reikia pasipriešinimo metimo, turėtų būti naudojama įtaiso charakteristika (jei tokia yra). Jei įtaisas neturi atitinkamos charakteristikos, jis automatiškai pralaimi pasipriešinimo metimą.
+* Kai tik taikoma, įtaisas turėtų remtis savo vartotojo atitinkamu įgūdžiu.
+  **Pavyzdžiui**, jei įtaisas yra pistoletas, jis turi būti šaudomas naudojant Šaunamųjų ginklų įgūdį. Jei tai kosmiškai maitinama apyrankė, kuri leidžia naudotojui šaudyti radioaktyviais pliūpsniais, naudokite Projekcijos įgūdį.
 
-* Jūsų GV turėtų išnagrinėti bet kokius supergalių turinčius daiktus, kad įsitikintų, jog jie nėra pernelyg galingi ar kitaip pusiausvyrą iškreipiantys.
-* Supergalios, investuotos į įtaisą, yra nuolatinės, nebent daiktas sunaikinamas.
+* Jūsų žaidimo vedėjas turėtų išnagrinėti visus supergalių turinčius daiktus, kad įsitikintų, jog jie nėra pernelyg galingi ar kitaip išbalansuojantys.
+* Į įtaisą investuotos supergalios yra nuolatinės, nebent daiktas sunaikinamas.
 
-**Įranga su keliais galių tipais:** Jūsų GV gali norėti sukurti galių turintį daiktą, semiantį energiją iš kelių galių tipų, pavyzdžiui, įtaisą, kuris taip pat yra artefaktas, naudojantis supergalias ir burtininkavimą. Jie turėtų būti prieinami tik jūsų GV nuožiūra. Taikomi šie principai:
+**Įranga su kelių tipų galiomis:** Jūsų žaidimo vedėjas gali norėti sukurti galių turintį daiktą, naudojantį kelių tipų galias, pvz., įtaisą, kuris taip pat yra artefaktas, naudojantis supergalias ir burtų mokslą. Šie daiktai turėtų būti prieinami tik jūsų žaidimo vedėjo nuožiūra. Taikomi šie principai:
 
-* Kai įmanoma, su daiktu elkitės taip, lyg jis būtų sukurtas lyg žaidėjas su keliais galių tipais.
-* Daiktas turi turėti visas atitinkamas charakteristikas ar įgūdžius, kad galėtų naudoti turimas galias.
-* Visos galios semiasi iš to paties išteklių rezervo, nesvarbu, ar tai būtų galių taškai, ar kitas šaltinis. Daikto įkrovimas turi būti atliekamas tinkamu būdu kiekvienam galių rinkiniui.
-* Jei dėl kokių nors priežasčių daiktas turi dvi vertes, iš kurių galima rinktis atliekant tam tikrą veiksmą, naudokite didesnę iš jų, kur tinkama.
+* Kai įmanoma, traktuokite daiktą taip, lyg jis būtų sukurtas kaip žaidėjas su kelių tipų galiomis.
+* Daiktas privalo turėti visas atitinkamas charakteristikas ar įgūdžius, kad galėtų naudoti bet kokias turimas galias.
+* Visos galios semiasi iš to paties resursų telkinio, nesvarbu, ar tai galios taškai, ar kitas šaltinis. Daikto įkrovimas turi būti atliekamas tinkamu būdu kiekvienam galių rinkiniui.
+* Jei dėl kokių nors priežasčių daiktas turi dvi reikšmes, iš kurių galima rinktis atliekant tam tikrą veiksmą, naudokite didesnę iš dviejų reikšmių, kur tai tinkama.
 
 ### Įranga su reikalavimais
 
-Kai kurie įrangos tipai gali turėti reikalavimų, kuriuos jūsų veikėjas privalo atitikti arba viršyti, kad galėtų naudoti įrangą. Pavyzdys yra ginkluotė, kur dauguma ginklų turi minimalų STR ir DEX reikalavimą. Kiti įrangos tipai ribojami kitais būdais, pavyzdžiui, didelis ištvermės (fatigue) taškų poreikis dėvint šarvus ir su tuo susijusios įgūdžių baudos. Nė vienas iš šio skyriaus pagrindinės įrangos tipų neturi jokių reikalavimų, nors jūsų GV gali lengvai įvesti apribojimą daikto naudojimui dviem akivaizdžiais būdais:
+Kai kurie įrangos tipai gali turėti reikalavimų, kuriuos jūsų veikėjas privalo atitikti arba viršyti, kad galėtų jais naudotis. Pavyzdys yra ginkluotė, kur dauguma ginklų turi minimalų JĖG ir VIK reikalavimą. Kiti įrangos tipai yra ribojami kitais būdais, pavyzdžiui, didelis nuovargio taškų poreikis dėvint šarvus ir su tuo susijusios įgūdžių baudos. Jokia pagrindinė įranga šiame skyriuje neturi jokių reikalavimų, nors jūsų žaidimo vedėjas gali lengvai įvesti apribojimą daikto naudojimui dviem akivaizdžiais būdais:
 
-* **Charakteristikos:** Kaip ir ginklų atveju, įrangos vienetas gali būti ribojamas jūsų charakteristikų. Paprastai tai yra STR arba DEX, kaip ginklų atveju, arba SIZ šarvams, bet tai lengvai galėtų būti POW magiškam daiktui, INT kompiuteriui ar koks nors kitas charakteristika pagrįstas minimumas (ar maksimumas).
-* **Įgūdžiai:** Jūsų veikėjas gali pastebėti, kad konkretus įrangos vienetas yra nesuprantamas arba nenaudingas, nebent jo įgūdis yra tam tikrame lygyje. Paprastai įgūdis atspindi įrangos vieneto supratimą ir principus, kuriais jis veikia.
+* **Charakteristikos:** Kaip ir su ginklais, įrangos vienetas gali būti ribojamas jūsų charakteristikomis. Paprastai tai yra JĖG arba VIK, kaip su ginklais, arba DYD šarvams, bet tai lengvai galėtų būti GAL magiškam daiktui, INT kompiuteriui arba koks nors kitas charakteristikomis pagrįstas minimumas (ar maksimumas).
 
-**Pavyzdžiui,** diagnostikos kompiuteris gali reikalauti bent 50 % Techninio (Kompiuterio naudojimas) įgūdžio, kad būtų galima jį valdyti.
+* **Įgūdžiai:** Jūsų veikėjas gali pastebėti, kad specifinė įranga yra nesuprantama arba nenaudinga, nebent jų įgūdžių lygis yra tam tikro lygio. Paprastai įgūdis atspindi įrangos vieneto ir principų, kuriais jis veikia, supratimą.
 
-Rekomenduojama apribojimus naudoti saikingai ir tik tada, jei yra teisėta priežastis jiems egzistuoti. Prieš priskiriant griežtą apribojimą daikto naudojimui, jūsų GV turėtų nustatyti, ar yra kokia nors priemonė apribojimui užtikrinti ir ar yra kokių nors baudų už daikto naudojimą, jei jūsų veikėjas neatitinka reikalavimų. Kai kurios galimos baudos apima papildomus ištvermės taškus naudojimui, susijusių įgūdžių metimų padarymą Sunkiais (Difficult) arba reikalavimą atlikti susijusį charakteristikos metimą, kad būtų išvengta nesėkmių.
+**Pavyzdžiui**, diagnostinis kompiuteris gali reikalauti bent 50% įgūdžio Techniniame (Kompiuterių naudojimas) srityje, kad būtų galima juo operuoti.
 
-### Įkrovos ar riboto naudojimo įranga
+Rekomenduojama apribojimus naudoti saikingai ir tik tada, jei yra pagrįsta priežastis jiems egzistuoti. Prieš priskiriant griežtą apribojimą daikto naudojimui, jūsų žaidimo vedėjas turėtų nustatyti, ar yra kokių nors priemonių reikalavimui įgyvendinti ir ar yra kokių nors baudų už daikto naudojimą, jei jūsų veikėjas neatitinka reikalavimų. Kai kurios galimos baudos apima papildomus nuovargio taškus už naudojimą, bet kokių susijusių įgūdžių metimų padarymą Sudėtingais arba atitinkamo charakteristikos metimo reikalavimą, kad būtų išvengta nesėkmių.
 
-Daug įrangos tipų veikia su maitinimo baterijomis arba gali būti naudojami tik ribotą skaičių kartų. Daugeliu atvejų baterijas galima gana lengvai pakeisti, amuniciją papildyti, o kitus būtinus išteklius įkrauti ar užpildyti. Dauguma šaunamųjų ginklų turi „įkrovas“ šaudmenų pavidalu, tačiau gerai prižiūrimą kardą ar šarvus galima naudoti tol, kol jie sulūžta. Kai tinkama, ištekliai, reikalingi įrangos vienetui užpildyti ar įkrauti, yra arba iš esmės nemokami (pavyzdžiui, elektra ar saulės energija), arba yra dviem ar trimis turtingumo lygiais žemesni už įrangos kainą. Jei reikalingas įkrovimo prietaisas, jis yra įprastos įrangos vieneto vertės dalis.
+### Įkrovos arba riboto naudojimo įranga
 
-Paprastai lengviausia manyti, kad turint pakankamai laiko ir planavimo, jūsų veikėjas turi pakankamai šaudmenų, baterijų, papildymų, kasečių, maitinimo elementų ir kt. visai savo įrangai, nebent aplinka ar aplinkybės daro tai sunku ar neįmanoma. Tokiais atvejais jūsų GV gali pareikalauti Tyrimo, Statuso arba Sėkmės metimo, kad aptiktų atitinkamo tipo įkrovą. Kai kuriose aplinkose (pavyzdžiui, poapokaliptinėje) šaudmenys, benzinas ir/ar maitinimo elementai yra labai sunkiai gaunami ir paprastai yra vertingesni už įrangą, kurioje naudojami.
+Daugelis įrangos tipų veikia su maitinimo baterijomis arba gali būti naudojami tik ribotą skaičių kartų. Daugeliu atvejų baterijas galima gana lengvai pakeisti, šaudmenis papildyti, o kitus reikiamus resursus įkrauti ar pripildyti. Dauguma šaunamųjų ginklų turi „įkrovas“ šaudmenų pavidalu, tačiau jei gerai prižiūrimas, kardą ar šarvų komplektą galima naudoti, kol jis nesulūžta. Kai tik tinkama, resursas, reikalingas įrangos vienetui papildyti ar įkrauti, yra arba iš esmės nemokamas (pvz., elektra ar saulės energija), arba yra dviem ar trimis Turto lygiais žemesnis už daikto kainą. Jei reikalingas įkrovimo įrenginys, jis yra įrangos vieneto įprastos vertės dalis.
+
+Paprastai lengviausia daryti prielaidą, kad turint pakankamai laiko ir planavimo, jūsų veikėjas turi pakankamai šaudmenų, baterijų, papildymų, kasečių, maitinimo elementų ir t. t. visai savo įrangai, nebent aplinka ar aplinkybės daro tai sudėtinga ar neįmanoma. Tokiais atvejais jūsų žaidimo vedėjas gali reikalauti Tyrimo, Statuso ar Sėkmės metimo, norint gauti atitinkamo tipo įkrovą. Kai kuriose aplinkose (pvz., post-apokaliptinėse) šaudmenys, benzinas ir/ar maitinimo elementai yra itin sunkiai gaunami ir paprastai vertingesni už įrangą, kurioje jie naudojami.
 
 ### Įrangos remontas
 
-Jei daiktas buvo sugadintas žaidimo metu, jūsų GV turėtų nustatyti, ar jį galima pataisyti, remiantis sveiku protu ir padarytos žalos pobūdžiu. Daugeliu atvejų atitinkamas Remonto ar Amatų įgūdžio metimas gali būti naudojamas kaip Pirmosios pagalbos įgūdis, atkuriantis sugadintus hit pointus ar SIZ taškus pagal to įgūdžio gaires. Sudėtingos įrangos atveju jūsų GV gali reikalauti Žinių (Know) metimo, norint rasti išteklių atsarginėms dalims, arba net reikalauti Lengvo (Easy) įgūdžio metimo, pagrįsto naudojamu remonto įgūdžiu, kad būtų galima rasti būtinus komponentus. Jei šie komponentai yra brangūs, jūsų GV gali reikalauti Statuso metimo, norint teisėtai gauti reikiamus pakaitalus.
+Jei daiktas buvo pažeistas žaidimo metu, jūsų žaidimo vedėjas turėtų nustatyti, ar jį galima suremontuoti, remdamasis sveiku protu ir padarytos žalos pobūdžiu. Daugeliu atvejų, atitinkamas Remonto ar Amatų įgūdžio metimas gali būti naudojamas kaip Pirmosios pagalbos įgūdis, atstatantis pažeistus gyvybės taškus ar DYD taškus pagal to įgūdžio gaires. Sudėtingos įrangos atveju jūsų žaidimo vedėjas gali reikalauti Žinių metimo, norint rasti resursų keičiamiems komponentams, ar net reikalauti Lengvo įgūdžio metimo, pagrįsto naudojamu remonto įgūdžiu, kad būtų surastos reikalingos dalys. Jei šie komponentai brangūs, jūsų žaidimo vedėjas gali reikalauti Statuso metimo, kad teisėtai įsigytumėte reikiamus pakeitimus.
 
 ## Ginklai
 
-Per visą istoriją dėl technologijų pokyčių, medžiagų prieinamumo ir kintančių mūšio lauko sąlygų išsivystė daug įvairių tipų ginklų. Šiame skyriuje pateikiamas reprezentatyvus šios didžiulės įvairovės pavyzdys. Jei jūsų GV nori sukurti tikslesnius ginklų sąrašus aplinkai, lengva ekstrapoliuoti atitinkamus atributus iš šių pavyzdžių.
+Per istoriją daugybė skirtingų ginklų tipų išsivystė dėl technologijų pokyčių, medžiagų prieinamumo ir kintančių mūšio sąlygų. Šis skyrius pateikia reprezentatyvų šios didelės įvairovės pavyzdį. Jei jūsų žaidimo vedėjas nori sukurti tikslesnius ginklų sąrašus aplinkai, gana lengva ekstrapoliuoti atitinkamus atributus iš šių pavyzdžių.
 
-Šiame skyriuje aprašyti ginklai plačiai klasifikuojami pagal chronologines aplinkas, kad būtų lengviau naudoti. Daugeliu atvejų ankstesnio laikotarpio ginklai yra prieinami vėlesnių laikotarpių žmonėms, todėl jūsų GV gali tiesiog pasirinkti, kur baigiasi ginklų prieinamumas, ir leisti jūsų veikėjui prieigą prie ginklų iki to momento.
+Šiame skyriuje aprašyti ginklai skirstomi plačiai pagal chronologines aplinkas, kad būtų lengviau naudoti. Daugeliu atvejų, ginklai iš ankstesnio laikotarpio yra prieinami žmonėms iš vėlesnių laikotarpių, todėl jūsų žaidimo vedėjas gali tiesiog pasirinkti, kur baigiasi ginklų prieinamumas, ir leisti jūsų veikėjui prieigą prie ginklų iki to taško.
 
 Kiekvienas ginklas turi šiuos atributus:
 
-* **Vardas:** Bendras ginklo pavadinimas.
-* **Įgūdis:** Įgūdis, naudojamas ginklui valdyti.
-* **Bazė:** Bazinis šansas naudoti ginklą.
-* **Žala:** Ginklo padaroma žala. „+dm“ nurodo žalos modifikatorių, o „+½dm“ yra pusė žalos modifikatoriaus (suapvalinti į viršų).
-* **Atakos:** Kiek atakų per raundą leidžia ginklas?
-* **Specialus:** Kokio tipo specialią sėkmę atlieka ginklas?
-* **Diapazonas:** Bazinis ginklo nuotolis. Esant baziniam nuotoliui, įgūdis nemodifikuojamas. Esant vidutiniam nuotoliui (dvigubas bazinis nuotolis), įgūdžio naudojimas tampa Sunkus (Difficult), o esant ilgam nuotoliui (keturgubas bazinis nuotolis) jis tampa 1/5 įprasto įgūdžio reitingo (lygus specialios sėkmės tikimybei).
-* **Rankos:** Kiek rankų reikia ginklui? 1H=viena ranka, 2H=dviem rankomis.
-* **HP:** Ginklo hit pointai.
-* **Parry:** Ar ginklą galima naudoti atmušimui (parry)?
-* **Mal:** Ginklas sugenda, jei iškrenta šis skaičius (žr. **Gedimai**). Jei ginklas nėra šaunamasis, gedimas yra kitokia nesėkmė, neleidžianti nedelsiant pakartotinai naudoti ginklo.
-* **Šaudmenys:** Kiek kartų ginklą galima naudoti prieš jį užtaisant ar įkraunant?
-* **Vertė:** Kokia yra vidutinė ginklo kaina tinkamoje aplinkoje?
-* **STR/DEX:** Kokios minimalios STR ir DEX reikalingos ginklui naudoti?
-* **SIZ/ENC:** Ginklo SIZ ir apkrovos (Encumbrance) vertė.
-* **RF:** (Neprivaloma) Ugnies greitis (žr. **Šaudymas salvėmis**). 1/#CR reiškia, kad ginklas toks nerangus, jog gali būti naudojamas tik kartą per skaičių (#) kovos raundų. X/CR reiškia, kad jis gali būti naudojamas X kartus per kovos raundą šaudant salvėmis.
+* **Pavadinimas:** Bendras ginklo pavadinimas.
 
-### Ginklų aprašymai
+* **Įgūdis:** Įgūdis, naudojamas ginklui valdyti.
+
+* **Bazė:** Bazinė tikimybė naudoti ginklą.
+
+* **Žala:** Ginklo padaroma žala. „+dm“ rodo žalos modifikatorių, o +½dm yra pusė žalos modifikatoriaus (apvalinti į viršų).
+
+* **Atak:** Kiek atakų per raundą leidžia ginklas?
+
+* **Special:** Kokio tipo specialią sėkmę ginklas atlieka?
+
+* **Nuot:** Bazinis ginklo nuotolis. Baziniame nuotolyje įgūdis nemodifikuojamas. Vidutiniame nuotolyje (dvigubai didesnis už bazinį) įgūdžio naudojimas tampa Sudėtingas, o tolimame nuotolyje (keturis kartus didesnis už bazinį) jis tampa 1/5 įprasto įgūdžio įvertinimo (lygu specialios sėkmės tikimybei).
+
+* **Rankos:** Kiek rankų reikia ginklui? 1R = viena ranka, 2R = dvi rankos.
+
+* **GT:** Ginklo gyvybės taškai.
+
+* **Paradas:** Ar ginklą galima naudoti paradui?
+
+* **Sug:** Ginklas sugenda, jei išrieda šis skaičius (žr. **Sugedimai**). Jei ginklas nėra šaunamasis, sugedimas yra koks nors kitas nesklandumas, neleidžiantis nedelsiant pakartotinai panaudoti ginklo.
+
+* **Šov:** Kiek kartų ginklą galima panaudoti neperkraunant ar neįkraunant?
+
+* **Vertė:** Kokia vidutinė ginklo kaina atitinkamoje aplinkoje?
+
+* **JĖG/VIK:** Kokia minimali JĖG ir VIK reikalinga ginklui naudoti?
+
+* **DYD/APB:** Ginklo DYD ir Apkrovos (Encumbrance) vertė.
+
+* **Št:** (Pasirenkamas) Šaudymo tempas (žr. **Šaudymas salvėmis**). 1/#KR reiškia, kad ginklas toks nerangus, kad gali būti naudojamas tik kartą per (#) kovos raundų. X/KR reiškia, kad jis gali būti naudojamas X kartų per kovos raundą naudojant šaudymą salvėmis.### Ginklo aprašymai
 
 Toliau pateikiami visi ginklai iš artimos kovos ir nuotolinių ginklų lentelių, išdėstyti abėcėlės tvarka.
 
-**Arbaletas:** Labai sunkus arbaletas, sunkiai užtaisomas, dažnai naudojamas su prietaisu, vadinamu cranequin. Pataikęs padaro didžiulę žalą.
+**Arbaletas:** Labai sunkus arbaletas, kurį sunku užtaisyti ir paruošti šūviui, dažnai naudojamas su įtaisu, vadinamu „cranequin“. Kai pataiko, padaro milžinišką žalą.
 
-**Kirvis, kovinis:** Viena ranka naudojamas kirvis, skirtas pirmiausia kovai. Jis gali turėti vieną ar du ašmenis.
+**Kirvis, kovinis:** Viena ranka naudojamas kirvis, skirtas pirmiausia kovai. Gali turėti vieną arba dvi geležtes.
 
-**Kirvis, didysis:** Didelis, dviem rankomis naudojamas kirvis, kuris gali būti vienu ar dviem ašmenimis.
+**Kirvis, didysis:** Didelis, abiem rankomis naudojamas kirvis, kuris gali būti su viena arba dviem geležtėmis.
 
-**Kirvis, rankinis:** Mažas viena ranka naudojamas kirvis, kurį galima mesti arba naudoti rankoje. Jis gali turėti vieną ar du ašmenis. Įrankinės versijos naudojamos medienai kapoti.
+**Kirvis, rankinis:** Mažas viena ranka naudojamas kirvis, kurį galima mesti arba naudoti rankoje. Gali turėti vieną arba dvi geležtes. Įrankio versijos naudojamos malkoms skaldyti.
 
-**Kirvis, vibro-:** Ilgos rankenos kirvis su vienu ar dviem ašmenimis, sumontuotais į generatorių kote. Ašmenys vibruoja neįtikėtinu greičiu, pajėgūs perpjauti daugumą medžiagų.
+**Kirvis, vibro-:** Ilgakotis kirvis su viena ar dviem geležtėmis, pritvirtintomis prie koto rankenoje esančio generatoriaus. Geležtės vibruoja neįtikėtinu greičiu ir gali perpjauti daugumą medžiagų.
 
-**Kirvis, medkirčio:** Ilgos rankenos kirvis, kurį galima naudoti viena arba dviem rankomis, su vienu ar du ašmenimis. Jis nėra skirtas kovai, bet kartais taip naudojamas.
+**Kirvis, medkirčio:** Ilgakotis kirvis, kurį galima naudoti viena arba dviem rankomis, su viena ar dviem geležtėmis. Jis nėra skirtas kovai, bet kartais taip naudojamas.
 
-**Juodoji tarka (Blackjack):** Mažas pasiūtas odinis maišelis, pripildytas kažko sunkaus, pavyzdžiui, šratų, naudojamas ką nors nokautuoti atakuojant iš už nugaros.
+**„Blackjack“ (mušamasis maišelis):** Nedidelis odinis maišelis, pripildytas ko nors sunkaus, pavyzdžiui, šratų; naudojamas kam nors prarasti sąmonę atakuojant iš už nugaros. Taip pat vadinamas „sap“ arba „cosh“.
 
-**Pučiamasis vamzdis (Blowgun):** Tuščiaviduris, tiesus vamzdis iki vieno metro ilgio, naudojamas mažiems smiginiams projektuoti pučiant į vieną vamzdžio galą. Šie smiginiai padaro mažai žalos, bet dažnai būna nuodingi.
+**Pučiamasis vamzdis:** Tuščiaviduris, tiesus iki vieno metro ilgio vamzdis, naudojamas mažoms strėlytėms iššauti pučiant į vieną vamzdžio galą. Šios strėlytės padaro nedaug žalos, bet dažnai būna nuodingos.
 
-**Bola:** Du ar trys kieti kamuoliukai, pritvirtinti kartu virvės ar grandinės atkarpa. Šis ginklas metamas priešui supainioti ir pargriauti, žala yra antrinis rūpestis.
+**Bola:** Du arba trys sunkūs rutuliai, sujungti virve arba grandine. Šis ginklas metamas siekiant supančioti ir pargriauti priešą; žala čia yra antraeilis dalykas.
 
-**Bumerangas:** Plokščia, kampuota lazda, pagaminta taip, kad skrietų kreiva trajektorija. Tradiciškai aborigenų medžiotojų naudota apsvaiginti arba nužudyti smulkius gyvūnus.
+**Bumerangas:** Plokščia, kampuota lazda, skirta mesti ją kreivąja trajektorija. Tradiciškai aborigenų medžiotojų naudotas stulbinti arba žudyti smulkius gyvūnus.
 
-**Lankas, sudėtinis (Composite):** Lankas, pagamintas iš medžiagų, kurios daro jį tiek standų, tiek lankstų. Istorinės versijos gaminamos iš medžio ir rago, o šiuolaikinės veislės gaminamos su grafitu ir itin lengvais metalais.
+**Lankas, kompozitinis:** Lankas, pagamintas iš medžiagų, kurios jį daro standų ir kartu lankstų. Istorinės versijos darytos iš medžio ir rago, o modernios – iš grafito ir itin lengvų metalų.
 
-**Lankas, ilgasis (Long):** Lankas, pagamintas iš vieno medžio gabalo (pavyzdžiui, garsusis angliškas ilgas lankas), arba tokiu pat būdu kaip sudėtinis lankas.
+**Lankas, ilgasis:** Lankas, pagamintas arba iš vieno medžio gabalo (kaip garsusis angliškas ilgasis lankas), arba tokiu pat būdu kaip kompozitinis lankas.
 
-**Lankas, paprastas (Self):** Pagrindinis lankas, pagamintas iš vieno ar dviejų medžio gabalų, suformuotų ir išdžiovintų, kad nesulūžtų.
+**Lankas, paprastasis:** Bazinis lankas, pagamintas iš vieno ar dviejų medžio gabalų, suformuotų ir išdžiovintų taip, kad nelūžtų.
 
-**Žalvariniai krumpliai (Brass Knuckles):** Ant kumščio nešiojami metaliniai svoriai, suteikiantys svorio ir kietą briauną smūgiams.
+**Geležiniai krumpliai (Brass Knuckles):** Ant kumščių uždedami metaliniai svoriai, suteikiantys smūgiams svorio ir kietą briauną.
 
-**Cestus:** Metalinės bokso pirštinės su svoriu, įmontuotu pirštinėje didesniam smūgiui. Senovinis žalvarinių krumplių pirmtakas.
+**Cestus:** Metalinės bokso pirštinės su viduje esančiu svoriu stipresniam poveikiui. Senovinis geležinių krumplių pirmtakas.
 
-**Grandininis pjūklas (Chainsaw):** Medienos pjovimo įrankis, susidedantis iš aštrios grandinės, varomos dideliu greičiu aplink plokščią metalinę geležtę.
+**Grandininis pjūklas:** Medžio pjovimo įrankis, sudarytas iš dantytos grandinės, kuri dideliu greičiu sukasi aplink plokščią metalinę plokštę.
 
-**Nagai (Claw):** Aštrus ginklas, primenantis gyvūnų nagus, dažniausiai laikomas rankoje su ašmenimis, kyšančiais tarp pirštų, arba nešiojamas ant plaštakos nugarėlės.
+**Nagai:** Ašmeninis ginklas, primenantis gyvūno nagus; paprastai laikomas rankoje, ašmenims išlendant tarp pirštų, arba nešiojamas ant plaštakos nugarėlės.
 
-**Lazda, sunkioji:** Ilgas sunkus medžio ar metalo gabalas. Tai taip pat apibūdina laužtuvą.
+**Lazda, sunkioji:** Ilgas sunkus medžio arba metalo gabalas. Taip pat apibūdina laužtuvą.
 
-**Lazda, lengvoji:** Lengvesnė sunkiosios lazdos versija. Tai gali būti beisbolo lazda, ratų raktas, lempa, kėdės koja ar guminė lazda.
+**Lazda, lengvoji:** Lengvesnė sunkiosios lazdos versija. Tai gali būti beisbolo lazda, montiruotė, lempa, kėdės koja arba policijos karka.
 
-**Arbaletas, sunkus:** Šį arbaletą reikia užtaisyti svirties aparatu. Lengviau užtaisyti nei arbaletą, bet ne toks galingas.
+**Arbaletas, sunkusis:** Šis arbaletas turi būti užtaisomas svirtiniu įtaisu. Lengviau užtaisomas nei arbaletas, bet mažiau galingas.
 
-**Arbaletas, lengvas:** Šį arbaletą galima užtaisyti rankomis, dažniausiai naudojamas medžioklei ar slaptoms operacijoms, o ne mūšio lauke.
+**Arbaletas, lengvasis:** Šis arbaletas gali būti užtaisomas rankomis, dažniausiai naudojamas medžioklei arba slaptoms operacijoms, o ne mūšio lauke.
 
-**Arbaletas, vidutinis:** Šis arbaletas užtaisomas užkabinant vieną galą koja ir naudojant griebtuvo mechanizmą stygai atitraukti atgal.
+**Arbaletas, vidutinis:** Šis arbaletas užtaisomas užkabinant vieną galą pėda ir naudojant mechaninį skriemulį templės patraukimui atgal.
 
-**Arbaletas, daugiašūvis (Repeating):** Sudėtingas arbaletas su strėlių dėtuve, iš kurios galima šaudyti taip greitai, kaip šaudoma iš lanko. Kai dėtuvė ištuštėja, daugiašūvis arbaletas užtaisomas mažiausiai šešis kovos raundus.
+**Arbaletas, daugiašūvis:** Sudėtingas arbaletas su strėlių dėtuve, iš kurio galima šaudyti taip greitai, kaip ir iš paprasto lanko. Ištuštinus dėtuvę, daugiašūvio arbaleto užtaisymas užtrunka mažiausiai šešis kovos raundus.
 
-**Durklas:** Trumpas aštrus ginklas, paprastai trumpesnis nei 40 cm, aštrus vienu ar abiem kraštais.
+**Durklas:** Trumpas ašmeninis ginklas, paprastai trumpesnis nei 40 centimetrų, aštrus viena arba abiem briaunomis.
 
-**Smiginis:** Trumpas, pasvertas smaigalys, tinkantis mėtymui, plunksnuotas arba paprastas. Dažnai naudojami nuodams pristatyti.
+**Strėlytė:** Trumpas, pasvertas smaigalys, skirtas mėtymui, su plunksnelėmis arba be jų. Dažnai naudojamas nuodams perduoti.
 
-**Detonatorius, antimaterijos:** Galbūt galingiausias asmeninio masto sprogmuo, galintis nušluoti viską siaurame spindulyje. Naudojamas su laikmačiais, koduotais nuotoliniais detonatoriais ir magnetiniais pagrindais.
+**Detonatorius, antimaterinis:** Galbūt galingiausias asmeninio naudojimo sprogmuo, galintis nušluoti viską nedideliu spinduliu. Naudojami su laikmačiais, koduotais nuotolinio valdymo pultais ir magnetiniais pagrindais.
 
-**Detonatorius, elektromagnetinis (EM) impulsas:** Užuot sprogęs, šis prietaisas skleidžia elektromagnetinį impulsą (EMP), skirtą sutrikdyti elektrinius prietaisus ir elektronines grandines. Skirtingai nuo EMP, sugeneruoto kaip antrinis branduolinio ginklo efektas, tai nebranduolinis elektromagnetinis impulsas, trikdantis tik elektroninius prietaisus.
+**Detonatorius, elektromagnetinis (EM) impulsas:** Užuot sprogo, šis įrenginys skleidžia elektromagnetinį impulsą (EMP), skirtą sutrikdyti elektrinių prietaisų ir elektroninių grandinių veikimą. Skirtingai nei EMP, susidarantis kaip šalutinis branduolinio ginklo efektas, tai yra nebranduolinis elektromagnetinis impulsas, kenkiantis tik elektroniniams prietaisams.
 
-**Detonatorius, sintezės (Fusion):** Itin galinga subbranduolinė bomba, turinti milžinišką naikinimo jėgą. Pateikiamas su laikmačiu, koduotu nuotoliniu detonatoriumi ir magnetiniu pagrindu.
+**Detonatorius, termobranduolinis (Fusion):** Itin galinga subbranduolinė bomba, pasižyminti milžiniška griaunamąja galia. Komplektuojama su laikmačiu, koduotu nuotolinio valdymo pultu ir magnetiniu pagrindu.
 
-**Detonatorius, plazmos:** Sprogmuo, gebantis sugeneruoti ir išpurkšti plazmos krūvį, įkaitusią tarpinę būseną tarp dujų ir skysčio. Pateikiamas su laikmačiu, koduotais nuotoliniais detonatoriais ir magnetiniais pagrindais.
+**Detonatorius, plazminis:** Sprogmuo, gebantis sugeneruoti ir išpurkšti plazmos krūvį – superkaitią tarpinę medžiagos būseną tarp dujų ir skysčio. Komplektuojami su laikmačiais, koduotais nuotolinio valdymo pultais ir magnetiniais pagrindais.
 
-**Detonatorius, garsinis (Sonic):** Prietaisas, skleidžiantis griaunantį ir sukrečiantį garsinį impulsą, galintį sudaužyti stiklą ir kitas trapias medžiagas, taip pat apsvaiginti visus gyvus taikinius, patekusius į jo poveikio zoną.
+**Detonatorius, garsinis:** Prietaisas, skleidžiantis griaunamąjį ir sukrečiantį garsinį impulsą, galintį sudaužyti stiklą bei kitas trapias medžiagas, taip pat apstulbinti visus gyvus taikinius, patekusius į jo poveikio zoną.
 
-**Sprogmuo, detonatoriaus kapsulė (Blasting Cap):** Mažas sprogmuo, naudojamas didesniam sprogmeniui uždegti. Senesni naudojo degiklius, o naujesni naudoja elektrą ar kitus sudėtingus metodus sprogmeniui uždegti.
+**Sprogmuo, kapsulė (Blasting Cap):** Nedidelis sprogmuo, naudojamas didesniam sprogmeniui inicijuoti. Senesniuose naudoti degikliai, o naujesniuose – elektra arba sudėtingesni metodai sprogimui sukelti.
 
-**Sprogmuo, dinamitas:** Cheminio sprogmens lazdelės, įmirkytos į kietą medžiagą, pavyzdžiui, pjuvenas, įvyniotos į storą popierių ir uždegamos degiklio kibirkštimis arba mažesniu sprogimu iš detonatoriaus kapsulės. Tai labai pavojinga, nes linkusi „prakaituoti“ nitrogliceriną ir tampa nestabili, jei paliekama ilgam laikui.
+**Sprogmuo, dinamitas:** Cheminio sprogmens strypeliai, įsigėrę į kietą medžiagą (pvz., pjuvenas), suvynioti į storą popierių ir uždegami žiežirbomis iš degiklio arba mažesnio sprogimo nuo kapsulės. Tai labai pavojinga, nes dinamitas linkęs „prakaituoti“ nitroglicerinu ir tampa nestabilus paliktas per ilgai.
 
-**Sprogmuo, improvizuotas:** Paprastai vamzdinė bomba, tai apibūdina daugybę mažų namų gamybos cheminių sprogmenų.
+**Sprogmuo, improvizuotas:** Paprastai vamzdinė bomba; apibūdina daugybę mažų namų gamybos cheminių sprogmenų.
 
-**Sprogmuo, plastinis:** Šiuolaikinis cheminis sprogmuo, sumaišytas su medžiaga, pavyzdžiui, nafta ar vašku, į formuojamą, į glaistą panašią plastinę formą, kurią galima formuoti ir lipdyti pagal poreikį. Naudojamas su laikmačiu ir dažnai uždegamas elektros krūviu. Taip pat vadinamas plastiku (plastique).
+**Sprogmuo, plastinis:** Modernus cheminis sprogmuo, sumaišytas su medžiaga (pvz., vazelinu ar vašku) į plastišką, tešlą primenančią formą, kurią galima formuoti pagal poreikį. Naudojamas su laikmačiu ir dažnai inicijuojamas elektros krūviu. Taip pat vadinamas plastiku.
 
-**Kumštis:** Neapginkluota ataka naudojant Brawling (Muštynių) įgūdį.
+**Kumštis:** Neginkluota ataka naudojant „Brawl“ (kumščių) įgūdį.
 
-**Spragilas (Flail):** Spragilo galva, sumontuota ant trumpos grandinės galo, prijungtos prie maždaug metro ilgio ar ilgesnio koto.
+**Spragilas:** Spragilo galva, pritvirtinta prie trumpos grandinės, sujungtos su maždaug metro ar ilgesniu kotu.
 
-**Spragilas, rytų žvaigždė (Morningstar):** Viduramžių ginklas su rankena, grandinės atkarpa ir dygliuotu kamuoliuku gale. Kai kurie neturi spyglių ir yra tiesiog pasverti ar dygliuoti rutuliai grandinių galuose.
+**Spragilas, rytų žvaigždė (Morningstar):** Viduramžių ginklas su rankena, grandinės atkarpa ir dygliuotu rutuliu gale. Kai kurie neturi dyglių ir yra tiesiog pasverti arba gumbais apkaustyti rutuliai grandinės gale.
 
-**Liepsnosvaidis (Flamethrower):** Bakas, pilnas itin degių cheminių medžiagų, pritvirtintas prie projektoriaus/degiklio, purškiančio degančio skysčio čiurkšles. Liepsnosvaidžiai taip pat gali būti naudojami mirkyti zoną ar daiktą šiose degiose cheminėse medžiagose jų nepadegant. Itin pavojingas dėl trumpo nuotolio, riboto naudojimo laikotarpio ir galimybės pačiam užsidegti. Liepsnosvaidžiai gali sprogti, kai bakas yra pažeidžiamas, padarydami dvigubą žalą visiems penkių metrų spinduliu nuo vartotojo. Atlikite Sėkmės metimą, kad to išvengtumėte.
+**Liepsnosvaidis:** Labai degių cheminių medžiagų bakas, pritvirtintas prie purkštuvo/uždegiklio, purškiantis degančio skysčio sroves. Liepsnosvaidžius taip pat galima naudoti norint sritį ar daiktą aplieti šia degia chemine medžiaga jos neuždegant. Nepaprastai pavojingas dėl trumpo veikimo nuotolio, riboto naudojimo laiko ir galimybės padegti patį naudotoją. Liepsnosvaidžiai gali sprogti, jei pataikoma į baką; tai padaro dvigubą žalą visiems penkių metrų spinduliu nuo naudotojo. Atlikite „Luck“ (sėkmės) metimą, kad to išvengtumėte.
 
-**Garotas (Garrote):** Trumpa virvė, naudojama smaugimui, nesvarbu, ar tai plonas metalinis kabelis, ceremoninė virvė ar improvizuotas šaliko ar diržo naudojimas.
+**Garotas:** Trumpa virvė, naudojama smaugimui – tai gali būti plonas metalinis lynas, apeiginė virvė arba improvizuotas šalikas ar diržas.
 
-**Pirštinė, šarvuota:** Metalinė pirštinė, nešiojama su šarvais arba be jų, pridedanti žalos sėkmingiems smūgiams naudojant Muštynių įgūdį.
+**Šarvuota pirštinė:** Metalinė pirštinė, dėvima su šarvais arba be jų, pridedanti žalą sėkmingiems smūgiams naudojant „Brawl“ įgūdį.
 
-**Griebtuvas (Grapple):** Neapginkluota ataka naudojant Griebimo (Grapple) įgūdį.
+**Imtynės (Grapple):** Neginkluota ataka naudojant „Grapple“ įgūdį.
 
-**Granata, antimaterijos:** Mažas, bet itin galingas sprogstamasis įtaisas, suveikiantis ir metamas į priešus, daiktus ar konstrukcijas. Nors jose yra be galo mažas antimaterijos kiekis, šios granatos dažniausiai šaudomos iš paleidiklių, nes jos yra tokios griaunančios, kad sunku mesti vieną už savo sprogimo spindulio ribų.
+**Granata, antimaterinė:** Nedidelis, bet nepaprastai galingas sprogstamasis įtaisas, aktyvuojamas ir metamas į priešus, daiktus ar konstrukcijas. Nors jose yra be galo maži antimaterijos kiekiai, šios granatos dažniausiai iššaunamos iš paleidimo įrenginių, nes yra tokios destruktyvios, kad sunku jas mesti už savo paties sprogimo zonos ribų.
 
-**Granata, sukrečianti (Concussion):** Mažas sprogstamasis įtaisas, suveikiantis ir metamas į priešus ar į uždaras erdves, kur gali apsvaiginti tuos, kurie pateko į sprogimo spindulį. Kartais vadinama apsvaiginimo granata.
+**Granata, sukrečiamoji:** Nedidelis sprogstamasis įtaisas, aktyvuojamas ir metamas į priešus arba į uždaras patalpas, kur gali apstulbinti visus, patekusius į sprogimo zoną. Kartais vadinama stulbinamąja granata.
 
-**Granata, dezintegracijos:** Granata, galinti suskaidyti visą materiją (ar suardyti molekulinius ryšius) sprogimo spindulyje. Labai pavojingos, dezintegracijos granatos paprastai naudojamos tik kaip kraštutinė priemonė.
+**Granata, dezintegracinė:** Granata, gebanti suskaidyti visą materiją (arba nutraukti molekulinius ryšius) sprogimo zonoje. Labai pavojingos, dezintegracinės granatos paprastai naudojamos tik kaip kraštutinė priemonė.
 
-**Granata, elektromagnetinis (EM) impulsas:** Granata su elektromagnetinio impulso galimybe. Kai metama į metalinį taikinį, magnetinis paviršius prideda +20 % jūsų sėkmingo pataikymo tikimybei.
+**Granata, elektromagnetinis (EM) impulsas:** Granata su EMP funkcija. Metant į metalinį taikinį, magnetinis paviršius prideda +20% prie jūsų pataikymo šanso.
 
-**Granata, sprogstamoji:** Mažas sprogmuo, suveikiantis ir metamas, sukeliantis sprogimo jėgą ir skeveldras.
+**Granata, sprogstamoji:** Nedidelis sprogmuo, aktyvuojamas ir metamas; sukelia sprogimą su smūgine banga ir skeveldromis.
 
-**Granata, šviečiamoji (Flare):** Degių cheminių medžiagų lazdelė, suveikianti ir metama tamsioms vietoms apšviesti arba užtikrinti šviesos žymėjimą oro taikiniams.
+**Granata, šviečiamoji:** Degių cheminių medžiagų strypelis, aktyvuojamas ir metamas siekiant apšviesti tamsias sritis arba suteikti šviesos žymėjimą oro taikiniams.
 
-**Granata, sintezės (Fusion):** Itin galingas subbranduolinis įtaisas, turintis milžinišką naikinimo jėgą. Sintezės granatos šaudomos tik iš paleidiklių arba metamos situacijose, kai vartotojas turi pakankamai laiko pasitraukti iš sprogimo spindulio.
+**Granata, termobranduolinė (Fusion):** Itin galingas subbranduolinis įtaisas, pasižymintis milžiniška griaunamąja galia. Termobranduolinės granatos iššaunamos tik iš paleidimo įrenginių arba metamos situacijose, kai naudotojas turi pakankamai laiko pasitraukti iš sprogimo zonos.
 
-**Granata, dujų:** Mažas cheminis sprogstamasis įtaisas, suveikiantis ir metamas ar ridenamas, skleidžiantis toksiškas ar kitaip kenksmingas dujas. Gali būti pripildytos įvairių dujų (garstyčių, ašarinių, migdančių ir kt.).
+**Granata, dujinė:** Nedidelis cheminis sprogstamasis įtaisas, aktyvuojamas ir metamas arba nuridenamas; skleidžia toksiškas ar kitaip žalingas dujas. Gali būti pripildytos įvairių dujų (iprito, ašarinių, migdomųjų ir kt.).
 
-**Granata, Molotovo kokteilis:** Improvizuotas sprogmuo, pagamintas iš butelio ir degiklio, uždegamas ir sviedžiamas, dažniausiai siekiant kažką padegti.
+**Granata, Molotovo kokteilis:** Improvizuotas sprogmuo, pagamintas iš butelio ir dagties; uždegamas ir sviedžiamas, dažniausiai siekiant kažką padegti.
 
-**Granata, fosforo:** Mažas cheminis sprogstamasis įtaisas, suveikiantis ir metamas. Jis skleidžia itin degią cheminę ugnį, galinčią išlydyti įrangą ir padegti daiktus, arba tiesiog apšviesti tamsią vietą antžeminiam personalui ar taikymuisi iš oro laivų.
+**Granata, fosforinė:** Nedidelis cheminis sprogstamasis įtaisas, aktyvuojamas ir metamas. Skleidžia labai degią cheminę ugnį, galinčią išlydyti įrangą ir padegti objektus, arba tiesiog apšviesti tamsią zoną antžeminėms pajėgoms ar taikiniams iš oro laivų.
 
-**Granata, plazmos:** Granata, naudojanti plazmos technologiją. Itin sprogi ir gebanti sukelti milžinišką naikinimą bei gaisrą.
+**Granata, plazminė:** Granata, naudojanti plazmos technologiją. Itin sprogi, gebanti sukelti milžinišką griovimą ir gaisrą.
 
-**Granata, smūginė (Shock):** Granata, skleidžianti elektros krūvį, su magnetiniais paviršiais, kad priliptų prie bet kokio metalinio paviršiaus, į kurį yra metama. Kai metama į metalinį taikinį, magnetinis paviršius prideda +20 % jūsų sėkmingo pataikymo tikimybei.
+**Granata, šoko:** Granata, išleidžianti elektros krūvį; turi magnetinius paviršius, kad priliptų prie bet kokio metalinio paviršiaus, į kurį yra sviedžiama. Metant į metalinį taikinį, magnetinis paviršius prideda +20% prie jūsų pataikymo šanso.
 
-**Granata, skeveldrinė (Shrapnel):** Mažas sprogstamasis įtaisas, suveikiantis ir metamas į priešus, sukonfigūruotas skleisti mirtinas, kūną veriančias skeveldras.
+**Granata, skeveldrinė:** Nedidelis sprogstamasis įtaisas, aktyvuojamas ir metamas į priešus, skirtas skleisti mirtinas, kūną veriančias skeveldras.
 
-**Granata, dūminė:** Dujų granata (žr. aukščiau), skleidžianti nekenksmingus, bet maskuojančius dūmus.
+**Granata, dūminė:** Dujinė granata (žr. aukščiau), skleidžianti nekenksmingus, bet dengiančius dūmus.
 
-**Granata, garsinė (Sonic):** Granata, naudojanti garsinio impulso technologiją, skleidžianti aukšto dažnio garsinį pliūpsnį, skirtą išjungti ar atitraukti taikinius.
+**Granata, garsinė:** Granata, naudojanti garsinio impulso technologiją; skleidžia aukšto dažnio garsinį pliūpsnį, skirtą neutralizuoti ar atitraukti taikinių dėmesį.
 
-**Granata, apsvaiginimo (Stun):** Granata, skleidžianti lengvai sukrečiantį pliūpsnį, sukurtą specialiai apsvaiginti arba laikinai išjungti taikinius.
+**Granata, stulbinamoji:** Granata, skleidžianti lengvą smūginę bangą, sukurtą specialiai taikiniams apstulbinti ar laikinai neutralizuoti.
 
-**Ginklas, kulkosvaidis:** Greitai šaudantis šaunamasis ginklas su gaiduko nustatymais pavieniams šūviams, trumpoms serijoms ir pilnai automatinei ugniai.
+**Kulkosvaidis:** Greitašaudo šaunamasis ginklas su gaiduko nustatymais pavieniams šūviams, trumpoms serijoms ir automatinei ugniai.
 
-**Ginklas, mini-kulkosvaidis (Mini-gun):** Gatling stiliaus sunkus kulkosvaidis, dažnai montuojamas sraigtasparniuose ar transporto priemonėse. STR reikalavimas galioja, jei naudojamas rankose.
+**Kulkosvaidis, mini-:** „Gatling“ tipo sunkusis kulkosvaidis, dažnai montuojamas sraigtasparniuose ar transporto priemonėse. JĖG reikalavimas taikomas tik naudojant jį laikant rankose.
 
-**Ginklas, pistoletas-kulkosvaidis:** Mažas kulkosvaidis, skirtas naudoti viena ranka.
+**Kulkosvaidis, pistoletas-kulkosvaidis:** Mažas kulkosvaidis, sukurtas naudojimui viena ranka.
 
-**Halebarda:** Platus kirvio ašmuo ant dviejų metrų koto. Dažniausiai naudojama viduramžių miesto sargybinių arba prieš raitus priešus.
+**Alebarda:** Plati kirvio galva ant dviejų metrų koto. Dažniausiai naudojama viduramžių miesto sargybinių arba prieš raituotus priešus.
 
-**Plaktukas:** Įprastas namų apyvokos įrankis, naudojamas dailidystėje, arba mažas, viena ranka naudojamas karinis ginklas su smūgine galvute.
+**Plaktukas:** Įprastas namų apyvokos įrankis, naudojamas dailidystėje, arba mažas, viena ranka naudojamas karinis ginklas su smūgine galva.
 
-**Plaktukas, didysis:** Masyvus plaktukas, naudojamas dviem rankomis.
+**Plaktukas, didysis:** masyvus plaktukas, naudojamas abiem rankomis.
 
-**Plaktukas, kūjis (Sledge):** Sunkus įrankis, naudojamas statybininkų ir griovimo komandų, naudojamas dviem rankomis.
+**Kūjis:** Sunkus įrankis, kurį naudoja statybininkai ir griovimo brigados; naudojamas abiem rankomis.
 
-**Plaktukas, karo:** Sukurtas kaip plaktukas, šis ginklas dažnai turi smaigalį, o ne plokščią galvą, idealus skverbtis per šarvus.
+**Kovos plaktukas:** Sukurtas kaip plaktukas, šis ginklas dažnai turi smaigalį vietoje plokščios galvutės, idealiai tinka šarvams pramušti.
 
-**Galvos smūgis:** Neapginkluota ataka naudojant Brawling (Muštynių) įgūdį.
+**Smūgis galva:** Neginkluota ataka naudojant „Brawl“ įgūdį.
 
-**Ietis, mėtomoji (Javelin):** Trumpa ietis, naudojama viena ar dviem rankomis, arba mėtymui.
+**Ietis, lengvoji:** Trumpa ietis, naudojama viena arba abiem rankomis, arba metimui.
 
-**Katana:** Vienpusio aštrumo, šiek tiek lenktas ilgas kardas, naudojamas viena ar dviem rankomis, fetišizuojamas dėl meistriškumo ir aštrumo.
+**Katana:** Vienašmenis, šiek tiek lenktas ilgas kardas, naudojamas viena arba abiem rankomis, fetišizuojamas dėl savo meistriškumo ir aštrumo.
 
-**Spyris:** Neapginkluota ataka naudojant Brawling (Muštynių) įgūdį.
+**Spyris:** Neginkluota ataka naudojant „Brawl“ įgūdį.
 
-**Peilis:** Įrankis, tinkamas valgymui, gynybai, pjovimui arba improvizuotam nužudymui. Panašus į durklą, nors lengvesnis ir ne toks patvarus.
+**Peilis:** Įrankis, tinkamas valgymui, pjovimui, gynybai ar improvizuotoms žmogžudystėms. Kaip durklas, nors lengvesnis ir mažiau patvarus.
 
-**Peilis, mėsininko:** Didelis sunkus virtuvinis peilis, tinkamas kapoti didelius mėsos gabalus vienu smūgiu.
+**Peilis, mėsininko:** Didelis sunkus virtuvinis peilis, tinkamas vienu smūgiu kapoti didelius mėsos gabalus.
 
 **Peilis, kišeninis:** Mažas sulankstomas peilis, dažnai su keliais ašmenimis.
 
-**Peilis, automatinis (Switchblade):** Iššokantis kišeninis peilis.
+**Peilis, iššokantis:** Atlenkiamas kišeninis peilis.
 
-**Peilis, mėtomasis:** Peilis, subalansuotas mėtymui, dažniausiai be rankenos.
+**Peilis, mėtomas:** Peilis, subalansuotas mėtymui, paprastai neturintis kriaunų (rankenos šonų).
 
-**Peilis, vibro-:** Aukštųjų technologijų peilio ašmenys, įmontuoti į mechaninę rankeną, vibruojantys itin dideliu greičiu. Itin aštrūs, vibracija prideda papildomą kirpimo jėgą net ir lengviems pjūviams.
+**Peilis, vibro-:** Aukštųjų technologijų peilio geležtė, įstatyta į mechaninę rankeną, vibruojanti nepaprastai dideliu greičiu. Ypač aštrus, vibracija prideda papildomą pjaunančią jėgą net ir lengviems pjūviams.
 
-**Ietis, raitelio (Lance):** Ilga ietis, naudojama viena ranka raitams. Raitas užpuolikas naudoja savo žirgo žalos modifikatorių vietoj savo. Ietis taip pat galima naudoti pėsčiomis kaip dviejų rankų ietį su įprastu žalos modifikatoriumi.
+**Ietis, raitininko (Lance):** Ilga ietis, naudojama viena ranka jojant raiteliu. Kol yra balne, užpuolikas naudoja savo jojamojo gyvulio žalos modifikatorių vietoj savo paties. Ietys taip pat gali būti naudojamos pėsčiomis kaip dviejų rankų ietis su įprastu žalos modifikatoriumi.
 
-**Ietis, smūginė (Stun):** Lazdos formos ginklas su įkrautu elektriniu antgaliu viename gale. Kai kurios smūginės ietys turi antgalius abiejuose galuose.
+**Ietis, stulbinamoji:** Lazdos formos ginklas su įkrautu elektriniu antgaliu viename gale. Kai kurios stulbinamosios ietys turi antgalius abiejuose galuose.
 
-**Lasas (Lasso):** Tradicinė virvė, naudojama galvijų gaudymui. Ji nedaro žalos, bet imobilizuoja taikinį naudojant supainiojimo taisykles.
+**Lasas:** Tradicinis arkliakasio įrankis galvijams gaudyti. Nedaro žalos, bet imobilizuoja taikinį pagal supančiojimo taisykles.
 
-**Paleidiklis, granatsvaidis:** Rankinis ar stacionarus paleidiklis, šaudantis granatas dideliais atstumais. Tai gali būti maža platforma, rankinis šaunamojo ginklo formos paleidiklis arba pritvirtintas prie kito šaunamojo ginklo.
+**Paleidimo įrenginys, granatsvaidis:** Rankinis arba stacionarus įrenginys, iššaunantis granatas dideliais atstumais. Tai gali būti maža platforma, rankinis šaunamojo ginklo formos paleidėjas arba priedas prie kito šaunamojo ginklo.
 
-**Paleidiklis, LAW raketa:** Lengvas, vienkartinis raketų paleidiklis, taip pat žinomas kaip lengvasis prieštankinis ginklas (LAW).
+**Paleidimo įrenginys, LAW raketa:** Lengvas, vienkartinis raketų paleidimo įrenginys, dar žinomas kaip lengvasis prieštankinis ginklas (LAW).
 
-**Paleidiklis, raketų:** Mažas vamzdis ir platforma, surenkama mūšio lauke, naudojama raketoms tiksliau šaudyti.
+**Paleidimo įrenginys, raketinis:** Mūšio lauke surenkamas gana nedidelis vamzdis ir platforma, naudojami raketoms tiksliau iššauti.
 
-**Vėzdys, sunkus:** Kotas su sunkiu svoriu gale, dygliuotas, briaunuotas, dygliuotas arba lygus.
+**Vėzdas, sunkusis:** Kotas su sunkiu svoriu gale, dygliuotas, briaunotas, gumbuotas arba lygus.
 
-**Vėzdys, lengvas:** Kotas su lengvu svoriu, naudojamas daužymui ir traiškymui.
+**Vėzdas, lengvasis:** Kotas su lengvu svoriu, naudojamas daužymui ir triuškinimui.
 
-**Kūjis, karo (War Maul):** Ilgos rankenos dvejų galvų plaktukas, naudojamas dviem rankomis.
+**Kovos kūjis (War Maul):** Ilgakotis dvigalvis plaktukas, naudojamas abiem rankomis.
 
-**Mina, pėstininkų:** Sausumos mina, sukurta pirmiausia sužeisti, o ne nužudyti (maksimaliai padidinant sunkumą priešui).
+**Mina, pėstininkinė:** Antžeminė mina, sukurta pirmiausia sužeisti, o ne nužudyti (maksimaliai padidinant sunkumus priešui).
 
-**Muškietė:** Ankstyvas lygiavamzdis šaunamasis ginklas, užtaisomas per vamzdį ir kartais užpildomas skeveldriniais šratais arba didelėmis kamuoliuko formos kulkomis. Lėtas ir nepatikimas, uždegamas titnagu arba ratiniu mechanizmu.
+**Mušketa:** Ankstyvas lygiavamzdis šaunamasis ginklas, užtaisomas per vamzdį ir kartais užpildomas skeveldriniais šratais arba didelėmis rutulio formos kulkomis. Lėtas ir nepatikimas, uždegamas titnagu arba ratukine spyna.
 
-**Mina, prieštankinė:** Mina, skirta sugadinti tankų vikšrus ar priešo transporto priemones.
+**Mina, prieštankinė:** Mina, sukurta sugadinti tanko vikšrus ar priešo transporto priemones.
 
-**Naginata:** Ilga ietis su kardo formos ašmenimis, naudojama pjovimo ir dūrimo atakoms.
+**Naginata:** Ilga ietis su kardo formos antgaliu, naudojama kirtimo ir dūrimo atakoms.
 
-**Tinklas:** Palaida iš austos virvės tinklinė medžiaga, naudojama gaudyti gyvūnus ar didesnius taikinius. Nors mažesni tinklai naudojami smulkiai laukinei gyvūnijai, čia aprašytas tinklas yra pakankamai didelis naudoti prieš žmones.
+**Tinklas:** Palaidas austos virvės tinklas, naudojamas gyvūnams ar didesniems taikiniams gaudyti. Nors mažesni tinklai naudojami smulkiems žvėrims, čia aprašytas tinklas yra pakankamai didelis naudojimui prieš žmones.
 
-**Ietis, ilgoji (Pike):** Ilga ietis (3–5 metrai), naudojama formavimo kovai. Taip pat įprasta miesto sargybiniams ir pilies gynybai. Ilgosios ietys yra geriausia gynyba (išskyrus kulkosvaidžių salvę) nuo kavalerijos atakos.
+**Ietis, ilgoji (Pike):** Ilga ietis (3–5 metrai), naudojama rikiuotės kovose. Taip pat įprasta miesto sargybiniams ir pilies gynybai. Ilgosios ietys yra geriausia gynyba (išskyrus šautuvų salvę) prieš kavalerijos ataką.
 
-**Pistoletas, blasteris:** Pistoletas, šaudantis trumpu energijos pliūpsniu, dažniausiai plazmos, deginantis taikinį ir sukeliantis sukrėtimą. Blasterių pistoletai dažniausiai maitinami apkabomis, kuriose yra egzotiškų cheminių kurų.
+**Pistoletas, blasteris:** Pistoletas, iššaunantis trumpą energijos pliūpsnį, paprastai plazminį, deginantį taikinį ir sukeliantį smūginį poveikį. Blasteriniai pistoletai dažniausiai maitinami apkabomis, kuriose yra egzotiškas cheminis kuras.
 
-**Pistoletas, Derringer:** Mažas rankinis pistoletas, dažniausiai delno dydžio. Lengvai paslepiamas, su maža amunicijos talpa. Kai kurie yra vieno ar dviejų šūvių, kiti turi mažas apkabas. Kartais vadinamas „slėptuvu“ (holdout).
+**Pistoletas, „Derringer“:** Mažytis rankinis pistoletas, paprastai delno dydžio. Lengvai paslepiamas, su maža šaudmenų talpa. Kai kurie yra vieno arba dviejų šūvių, kiti turi mažas apkabas. Kartais vadinamas „slaptuoju“ pistoletu.
 
-**Pistoletas, dezintegracijos:** Pistoletas, šaudantis milžiniškai griaunančiu energijos pliūpsniu, kuris greitai suskaido visą taikinį ar dideles to taikinio dalis. Dezintegracijos pistoletai gali būti maitinami energijos elementais arba kuro apkabomis.
+**Pistoletas, dezintegracinis:** Pistoletas, iššaunantis nepaprastai griaunamą energijos pliūpsnį, kuris greitai išskaido visą taikinį arba dideles jo dalis. Dezintegraciniai pistoletai gali būti maitinami energijos elementais arba kuro apkabomis.
 
-**Pistoletas, elektromagnetinis (EM) impulsas:** Pistoletas, šaudantis nukreipto elektromagnetinio impulso srautą į taikinį, tokį kaip kompiuteris ar robotas, išjungiantis jo grandines.
+**Pistoletas, elektromagnetinis (EM) impulsas:** Pistoletas, iššaunantis nukreiptą elektromagnetinio impulso srautą į taikinį, pavyzdžiui, kompiuterį ar robotą, išjungiant jo grandines.
 
-**Pistoletas, šratinis (Flechette):** Mažas, lengvas pistoletas, varomas arba magnetiniais krūviais, arba dujomis, šaudantis daugybę mažų, aštrių į adatą panašių ašmenų į taikinį. Jie paprastai turi trumpą nuotolį ir nėra labai efektyvūs prieš šarvuotus taikinius, bet yra niokojantys prieš nešarvuotus priešus trumpu atstumu. Naudoja ir šratų amunicijos apkabas, ir dujų balionėlį ar energijos apkabą. Kartais vadinamas „adatiniu ginklu“.
+**Pistoletas, strėlinis (Flechette):** Mažas, lengvas pistoletas, varomas magnetiniais užtaisais arba dujomis, iššaunantis daug mažyčių, aštrių adatų pavidalo ašmenų į taikinį. Jie paprastai turi trumpą nuotolį ir nėra labai efektyvūs prieš šarvuotus taikinius, bet yra niokojantys nešarvuotiems priešams iš arti. Naudoja ir strėlių apkabas, ir dujų balionėlį ar energijos elementą. Kartais vadinamas „adatiniu šautuvu“.
 
-**Pistoletas, titnaginis (Flintlock):** Pistoletas, naudojantis titnagą ir plieną uždegti rankomis užtaisytą parako užtaisą. Panašus į ratinio mechanizmo pistoletą.
+**Pistoletas, titnaginis:** Pistoletas, naudojantis titnagą ir plieną rankomis užtaisytam parako užtaisui uždegti. Panašus į ratukinį pistoletą.
 
-**Pistoletas, sunkus:** Sunkus rėmo pistoletas, pasižymintis puikia stabdymo galia. Lėtesnis nei mažesni, lengvesni pistoletai. .357 magnum yra puikus pavyzdys.
+**Pistoletas, sunkusis:** Sunkios konstrukcijos pistoletas, pasižymintis pranašesne stabdomąja galia. Lėtesnis nei mažesni, lengvesni pistoletai. .357 magnum yra puikus pavyzdys.
 
-**Pistoletas, lazerinis:** Pistoletas, šaudantis didelio intensyvumo šviesos spinduliu, pajėgiu perdeginti daugumą medžiagų, net išlydyti metalą. Dažniausiai maitinamas energijos elementu, turinčiu ribotą įkrovų skaičių.
+**Pistoletas, lazerinis:** Pistoletas, iššaunantis aukšto intensyvumo šviesos spindulį, galintį perdeginti daugumą medžiagų, net išlydyti metalą. Paprastai maitinamas energijos elementu, turinčiu ribotą skaičių šūvių.
 
-**Pistoletas, lengvas:** Lengvo rėmo pistoletas, iškeičiantis stabdymo galią į tikslumą ir ugnies greitį. .22 kalibras yra puikus pavyzdys.
+**Pistoletas, lengvasis:** Lengvos konstrukcijos pistoletas, aukojantis stabdomąją galią dėl taiklumo ir šaudymo greičio. .22 kalibras yra puikus pavyzdys.
 
-**Pistoletas, vidutinis:** Vidutinio rėmo pistoletas, patikimas ir su vidutine ugnies galia bei ugnies greičiu. 9mm pistoletas yra puikus pavyzdys.
+**Pistoletas, vidutinis:** Vidutinės konstrukcijos pistoletas, patikimas, turintis vidutinę ugnies galią ir šaudymo greitį. 9mm pistoletas yra puikus pavyzdys.
 
-**Pistoletas, plazmos:** Pistoletas, šaudantis fokusuotu įkaitusios plazmos srautu, dažniausiai maitinamas energijos arba plazmos elementu.
+**Pistoletas, plazminis:** Pistoletas, iššaunantis sufokusuotą superkaitios plazmos srautą, paprastai maitinamas energijos arba plazmos elementu.
 
-**Pistoletas, smūginis:** Pistoletas, skleidžiantis aukštos įtampos elektros pliūpsnį.
+**Pistoletas, šoko:** Pistoletas, skleidžiantis aukštos įtampos elektros pliūpsnį.
 
-**Pistoletas, garsinis:** Pistoletas, skleidžiantis fokusuotą garsinių bangų kūgį, žalojantį tiek gyvus audinius, tiek negyvą materiją.
+**Pistoletas, garsinis:** Pistoletas, skleidžiantis sufokusuotą garsinių bangų kūgį, kenkiantį tiek gyvam audiniui, tiek negyvai medžiagai.
 
-**Pistoletas, apsvaiginimo:** Pistoletas, skleidžiantis energijos pliūpsnį tuo pačiu dažniu kaip ir žmogaus nervų sistema, trumpo nuotolio ir skirtas raminti. Nenaudingas prieš objektus ir būtybes, didesnes nei humanoidai, nors gali būti pritaikytas kitiems taikiniams. Kartais vadinamas „stunner“.
+**Pistoletas, stulbinamasis:** Pistoletas, iššaunantis žmogaus nervų sistemos dažnio energijos pliūpsnį, trumpo nuotolio, skirtas pacifikacijai. Nenaudingas prieš objektus ir būtybes, didesnes už humanoidus, nors gali būti sureguliuotas ir kitiems taikiniams. Kartais vadinamas „stulbinamuoju“.
 
-**Rapira:** Plonasmenis viena ranka naudojamas kardas, pirmiausia naudojamas dūrimui. Nors kiekviena unikali, tai taip pat apibūdina epee ir foliją, du kitus fechtavimo kardus.
+**Rapira:** Plonasmenis viena ranka naudojamas kardas, pirmiausia skirtas dūrimui. Nors kiekviena unikali, tai taip pat apibūdina špagą ir fleoretą – kitus du fechtavimo kardus.
 
-**Revolveris, sunkus:** Sunkus didelio kalibro pistoletas, kaip .44 magnum ar Colt .45.
+**Revolveris, sunkusis:** Didelio kalibro sunkusis pistoletas, toks kaip .44 magnum ar Colt .45.
 
-**Revolveris, lengvas:** Lengvas pistoletas, paprastai .22 – .32 kalibro.
+**Revolveris, lengvasis:** Lengvas pistoletas, paprastai .22 – .32 kalibro.
 
 **Revolveris, vidutinis:** Vidutinis pistoletas, paprastai .357 – .38 kalibro.
 
-**Šautuvas, atakos (Assault):** Sunkus, tvirtas šautuvas su didele amunicijos talpa, šaudomas kaip kulkosvaidis (pavieniai, trumpos serijos ar automatinė ugnis).
+**Šautuvas, automatinis:** Sunkus, tvirtas šautuvas su didele šaudmenų talpa, iš kurio šaudoma kaip iš kulkosvaidžio (pavieniai šūviai, trumpos serijos arba automatinė ugnis).
 
-**Šautuvas, blasteris:** Šautuvas, šaudantis trumpus energijos pliūpsnius, dažniausiai plazmą, kuri degina plius sukrečiantis smūgis. Blasterių šautuvai dažniausiai maitinami apkabomis, kuriose yra egzotiškų cheminių kurų.
+**Šautuvas, blasteris:** Šautuvas, iššaunantis trumpus energijos pliūpsnius, paprastai plazminius, kurie degina ir sukelia smūginį poveikį. Blasteriniai šautuvai dažniausiai maitinami apkabomis, kuriose yra egzotiškas cheminis kuras.
 
-**Šautuvas, užrakinamas (Bolt-action):** Šautuvas su slankiojančiu užraktu. Kai kurie naudoja apkabas, kiti saugo kulkas dėtuvėse per visą šautuvo vamzdžio ilgį.
+**Šautuvas, su slankiojančia spyna:** Šautuvas su slankiojančia spyna. Kai kurie naudoja apkabas, kiti laiko kulkas dėtuvėse, kurios yra šautuvo vamzdžio ilgio.
 
-**Šautuvas, dezintegracijos:** Šautuvas, skleidžiantis milžiniškai griaunantį energijos pliūpsnį, kuris greitai suskaido visą taikinį ar dideles to taikinio dalis. Dezintegracijos šautuvai gali būti maitinami energijos elementais arba kuro apkabomis.
+**Šautuvas, dezintegracinis:** Šautuvas, skleidžiantis nepaprastai griaunamą energijos pliūpsnį, kuris greitai išskaido visą taikinį arba dideles jo dalis. Dezintegraciniai šautuvai gali būti maitinami energijos elementais arba kuro apkabomis.
 
-**Šautuvas, dramblių:** Didelio kalibro šautuvas, skirtas pargriauti didžiausius laukinius gyvūnus. Kartais dvivamzdis, dažnai užtaisomas iš galo, po vieną storą kulką.
+**Šautuvas, dramblinis:** Didelio kalibro šautuvas, sukurtas didžiausiems medžiojamiems gyvūnams pargriauti. Kartais dvivamzdžiai, dažniausiai užtaisomi per vamzdį, po vieną storą kulką.
 
-**Šautuvas, lazerinis:** Šautuvas, šaudantis didelio intensyvumo šviesos spinduliu, pajėgiu perdeginti daugumą medžiagų, net išlydyti metalą. Lazeriniai šautuvai dažniausiai maitinami energijos elementais su ribotomis įkrovomis.
+**Šautuvas, lazerinis:** Šautuvas, iššaunantis aukšto intensyvumo šviesos spindulį, galintį perdeginti daugumą medžiagų, net išlydyti metalą. Lazeriniai šautuvai paprastai maitinami energijos elementais su ribotu šūvių skaičiumi.
 
-**Šautuvas, svirtinis (Lever-action):** Šautuvas su išorine svirtimi, naudojama ciklui su amunicija. Populiarus tarp medžiotojų, nors nepraktiškas kariniam naudojimui.
+**Šautuvas, su svirtine spyna:** Šautuvas su išorine svirtimi, naudojama šaudmenims pertaisyti. Populiarus tarp medžiotojų, nors nepraktiškas kariniam naudojimui.
 
-**Šautuvas, elektromagnetinis (EM) impulsas:** Elektromagnetinio impulso pistoleto šautuvo versija, skleidžianti fokusuotą elektromagnetinės energijos pliūpsnį į elektros energiją naudojantį ar elektroninį taikinį.
+**Šautuvas, elektromagnetinis (EM) impulsas:** Elektromagnetinio impulso pistoleto šautuvo versija, skleidžianti sufokusuotą elektromagnetinės energijos pliūpsnį į elektrą naudojantį ar elektroninį taikinį.
 
-**Šautuvas, plazmos:** Plazmos pistoleto šautuvo versija, gebanti šaudyti fokusuotą įkaitusios plazmos pliūpsnį į taikinį.
+**Šautuvas, plazminis:** Plazminio pistoleto šautuvo versija, gebanti iššauti sufokusuotą superkaitios plazmos pliūpsnį į taikinį.
 
-**Šautuvas, smūginis:** Smūginio pistoleto šautuvo versija, gebanti šaudyti žaibą primenantį pliūpsnį dideliam nuotoliui ir galiai.
+**Šautuvas, šoko:** Šoko pistoleto šautuvo versija, gebanti iššauti žaibą primenantį pliūpsnį dideliu nuotoliu ir galia.
 
-**Šautuvas, garsinis:** Garsinio pistoleto šautuvo versija, šaudanti kūgio formos garsinio impulso pliūpsnį į taikinį.
+**Šautuvas, garsinis:** Garsinio pistoleto šautuvo versija, iššaunanti kūgio formos garsinį impulsą į taikinį.
 
-**Šautuvas, snaiperinis:** Ilgo vamzdžio šautuvas, naudojamas tolimajam šaudymui, preciziškai sukalibruotas ir dažniausiai aprūpintas tolimojo nuotolio taikikliu.
+**Šautuvas, snaiperinis:** Ilgavamzdis šautuvas, naudojamas tolimiems šūviams, preciziškai sukalibruotas ir dažniausiai aprūpintas tolimojo nuotolio optiniu taikikliu.
 
-**Šautuvas, sportinis:** Lengvo iki vidutinio kalibro (.22 arba .30-06) šautuvas, naudojamas pargriauti mažesnius laukinius gyvūnus, tokius kaip elniai.
+**Šautuvas, sportinis:** Lengvo ar vidutinio kalibro (.22 arba .30–06) šautuvas, naudojamas mažesniems gyvūnams, pavyzdžiui, elniams, medžioti.
 
-**Šautuvas, apsvaiginimo:** Šautuvas, skleidžiantis trumpo nuotolio energijos pliūpsnį tuo pačiu dažniu kaip ir žmogaus nervų sistema, skirtas raminti. Nenaudingas prieš objektus ir būtybes, didesnes nei humanoidai, apsvaiginimo šautuvas gali būti pritaikytas kitiems taikiniams. Kartais vadinamas „stunner“.
+**Šautuvas, stulbinamasis:** Šautuvas, iššaunantis trumpo nuotolio žmogaus nervų sistemos dažnio energijos pliūpsnį, skirtas pacifikacijai. Nenaudingas prieš objektus ir būtybes, didesnes už humanoidus, stulbinamasis šautuvas gali būti sureguliuotas ir kitiems taikiniams. Kartais vadinamas „stulbinamuoju“.
 
-**Akmuo, mestas:** Pats pagrindinis ginklas, kumščio dydžio akmuo.
+**Akmuo, mestas:** Pats bazinis ginklas – kumščio dydžio akmuo.
 
-**Šarvuočių kardas (Saber):** Vienpusio aštrumo, lenktas kardas, dažniausiai naudojamas raitosios kavalerijos ir fechtuojantis.
+**Pobėtis:** Vienašmenis, lenktas kardas, dažniausiai naudojamas raitosios kavalerijos ir fechtavime.
 
-**Sai:** Durklą primenantis ginklas, primenantis trišakį, su plačiu lenktu skersiniu. Sai neturi ašmenų ir naudojami kaip vėzdžiai, dūrimo ginklai ar kardų laužikliai. Dažnai naudojami poromis.
+**Sai:** Durklo tipo ginklas, primenantis trišakį, su plačiu lenktu skersiniu. Sai neturi ašmenų ir naudojami kaip vėzdai, dūrimo ginklai arba kardų laužytuvai. Dažnai naudojami poromis.
 
-**Scimitar:** Vienpusio aštrumo, šiek tiek lenktas, sunkių ašmenų kardas.
+**Simitaras:** Vienašmenis, šiek tiek lenktas, plačių ašmenų kardas.
 
-**Dalgis:** Ilgos rankenos ūkio įrankis su lenktais ašmenimis, nustatytais statmenai kotui, naudojamas javų derliui nuimti, bet kartais su ceremonine paskirtimi.
+**Dalgis:** Ilgakotis žemdirbystės įrankis su lenktais ašmenimis, pritvirtintais statmenai kotui; naudojamas javų pjovimui, kartais atlieka apeiginę funkciją.
 
-**Šautuvas, automatinis (Shotgun):** Šautuvas su didelė amunicijos talpa ir automatiniu užtaisymu, dažniausiai skirtas mūšio laukui ar policijos veiksmams.
+**Šautuvas, automatinis (Shotgun):** Šautuvas su didele šaudmenų talpa ir automatiniu užtaisymu, paprastai naudojamas mūšio lauke arba policijos operacijose.
 
-**Šautuvas, dvivamzdis (Double-barrel):** Užtaisomas iš galo šautuvas.
+**Šautuvas, dvivamzdis:** Per vamzdį užtaisomas šautuvas.
 
-**Šautuvas, nupjautas (Sawed-off):** Sportinis ar dvivamzdis šautuvas su trumpesniu vamzdžiu, pakeistas rankomis arba pagamintas siekiant lengvesnio paslėpimo ir patogumo. Trumpesnis vamzdis iškeičia nuotolį į platesnį amunicijos išsisklaidymą.
+**Šautuvas, nupjautavamzdis:** Sportinis arba dvivamzdis šautuvas su trumpesniu vamzdžiu, perdarytas rankomis arba pagamintas siekiant lengvesnio paslėpimo ir patogumo. Trumpesnis vamzdis aukoja nuotolį dėl platesnio šratų išsibarstymo.
 
-**Šautuvas, sportinis:** Vidutinio ar lengvo kalibro šautuvas (16 ar 20 kalibro), naudojamas medžioklei ir namų apsaugai.
+**Šautuvas, sportinis (Shotgun):** Vidutinio arba lengvo kalibro šautuvas (16 arba 20 kalibro), naudojamas medžioklei ir namų apsaugai.
 
-**Shuriken:** Maži mėtomi ašmenys, dažnai žvaigždės formos. Lengvai paslepiami ir žudikų mėgiami.
+**Šurikenas:** Maži mėtomi ašmenys, dažnai žvaigždės formos. Lengvai paslepiami, žudikų numylėtiniai.
 
-**Pjautuvas:** Pusmėnulio formos plokšti ašmenys, vienpusio aštrumo vidinėje pusėje, naudojami viena ranka javų derliui nuimti arba ceremoniniais tikslais.
+**Pjautuvas:** Pustulnio formos plokšti ašmenys, vienašmeniai vidinėje pusėje, naudojami viena ranka javams pjauti arba apeiginiams tikslams.
 
-**Slinga:** Odinė juostelė su kaušeliu ar įduba akmeniui ar sviediniui laikyti, sukama ir metama su neįtikėtina jėga į taikinį.
+**Svaidyklė:** Odinis dirželis su kaušeliu ar įduba akmeniui arba svaidymo rutuliukui laikyti; sukama ir svaidoma su neįtikėtina jėga į taikinį.
 
-**Ietis, ilgoji:** Maždaug dviejų metrų ilgio medžio atkarpa su metaliniais ar titnaginiais ašmenimis arba ugnimi grūdintu smaigaliu. Turi būti naudojama dviem rankomis. Veikėjai, ginkluoti ilgomis ietimis, dažnai smūgiuoja pirmi kovos raunde.
+**Ietis, ilgoji:** Maždaug dviejų metrų ilgio medžio gabalas su metaliniu ar titnaginiu antgaliu arba ugnimi užgrūdintu smaigaliu. Turi būti naudojama abiem rankomis. Personažai, ginkluoti ilgomis ietimis, dažnai smūgiuoja pirmieji kovos raunde.
 
-**Ietis, trumpoji:** Maždaug 1,5 metro ilgio medžio atkarpa su metaliniais ar titnaginiais ašmenimis arba ugnimi grūdintu smaigaliu. Trumpas ietis galima naudoti viena ar dviem rankomis arba mėtyti.
+**Ietis, trumpoji:** Maždaug 1,5 metro ilgio medžio gabalas su metaliniu ar titnaginiu antgaliu arba ugnimi užgrūdintu smaigaliu. Trumposios ietys gali būti naudojamos viena arba abiem rankomis, arba metamos.
 
-**Purškiklis, cheminis:** Cheminis dirgiklis, projektuojamas iš mažo purkštuvo, dažniausiai į taikinio akis. Trumpo nuotolio ir nemirtinas.
+**Purškiklis, cheminis:** Cheminis dirgiklis, išpurškiamas iš mažo purkštuvo paprastai į taikinio akis. Trumpo nuotolio ir nenaudojantis mirtinos jėgos.
 
-**Lazda, ketvirtinė (Quarter staff):** Ilga medinė lazda, dažnai naudojama kaip vaikščiojimo lazda, naudinga gynybai ir puolimui.
+**Lazda, ilgoji (Quarterstaff):** Ilga medinė lazda, dažnai naudojama kaip ramentas einant, naudinga gynybai ir puolimui.
 
-**Lazda, trumpoji:** Trumpas, siauras medinis vėzdys, primenantis policijos guminę lazdą.
+**Lazda, trumpoji:** Trumpa, siaura medinė lazda, primenanti policijos karką.
 
-**Kardas-lazda (Sword Cane):** Plonasmenis kardas, užmaskuotas taip, kad tilptų į lazdą.
+**Kardas-lazda:** Plonasmenis kardas, užmaskuotas taip, kad tilptų lazdoje.
 
-**Kardas, bastardas:** Tiesus, vieno ar dviejų ašmenų kardas, ilgesnis nei metras, su ilga rankena, naudojamas viena ar dviem rankomis.
+**Kardas, bastardo:** Tiesus, vienašmenis arba dviašmenis kardas, ilgesnis nei metras, su ilga rankena, naudojamas viena arba abiem rankomis.
 
-**Kardas, platus (Broadsword):** Tiesus, vieno ar dviejų ašmenų kardas, apie metrą ilgio, naudojamas viena ranka. Kai kurie turi krepšelio formos rankenas.
+**Kardas, plačiąašmenis:** Tiesus, vienašmenis arba dviašmenis kardas, maždaug metro ilgio, naudojamas viena ranka. Kai kurie turi krepšelio formos rankenas.
 
-**Kardas, energetinis:** Rankena, kurioje yra formuoto lauko emiteris, projektuojantis kardo ilgio energijos ašmenis, primenančius fokusuotos šviesos spindulį. Energetiniai kardai naudoja energijos paketus ir dažnai reikalauja brangių ar retų fokusavimo kristalų.
+**Kardas, energijos:** Rankena, kurioje yra formos lauko emiteris, projektuojantis kardo ilgio energijos ašmenis, primenančius sufokusuotos šviesos spindulį. Energijos kardai naudoja energijos elementus ir dažnai reikalauja brangių ar retų fokusuojančių kristalų.
 
-**Kardas, didysis:** Tiesus, dviejų ašmenų kardas, beveik du metrus ilgio, naudojamas dviem rankomis, dažnai prieš ietininkų formacijas.
+**Kardas, didysis:** Tiesus, dviašmenis kardas, beveik du metrus ilgio, naudojamas abiem rankomis, dažnai prieš ietininkų rikiuotes.
 
-**Kardas, ilgasis:** Tiesus, vieno ar dviejų ašmenų kardas, kartais su krepšelio formos rankena, naudojamas viena ranka. Lengvesnis ir plonesnis už platųjį kardą.
+**Kardas, ilgasis:** Tiesus, vienašmenis arba dviašmenis kardas, kartais su krepšelio formos rankena, naudojamas viena ranka. Lengvesnis ir plonesnis už plačiąašmenį kardą.
 
-**Kardas, monofilamentinis:** Sudėtingas ginklas, susidedantis iš tiksliai vienos molekulės storio ašmenų, įvestų į stazę generatoriaus rankenoje. Kadangi ašmenys gali prasiskverbti tarp atomų, jis pajėgus perpjauti beveik viską. Kadangi ašmenys beveik nematomi, jį itin sunku naudoti, o nesėkmė (fumble) gali būti mirtina.
+**Kardas, monofilamentinis:** Sudėtingas ginklas, sudarytas iš lygiai vienos molekulės storio ašmenų, kuriuos stazėje palaiko rankenoje esantis generatorius. Kadangi ašmenys gali prasiskverbti tarp atomų, jis gali perpjauti beveik viską. Kadangi ašmenys beveik nematomi, jį ypač sunku naudoti, o nesėkmė gali būti mirtina.
 
-**Kardas, trumpasis:** Vieno ar dviejų ašmenų kardas, dažniausiai pusės metro ilgio.
+**Kardas, trumpasis:** Vienašmenis arba dviašmenis kardas, paprastai pusės metro ilgio.
 
-**Kardas, vibro-:** Ilgesnė vibro-peilio versija. Rankena, kurioje yra ilgas kardo formos ašmuo, vibruojantis dideliu greičiu, pajėgus perpjauti daugumą medžiagų.
+**Kardas, vibro-:** Ilgesnė vibro peilio versija. Rankena, kurioje yra ilga kardo formos geležtė, vibruojanti dideliu greičiu, gebanti perpjauti daugumą medžiagų.
 
-**Tazeris, kontaktinis:** Mažas rankinis elektrinis prietaisas, skirtas sutrikdyti taikinio nervinę veiklą, laikinai jį apsvaiginant.
+**Tazeris, kontaktinis:** Mažas rankinis elektrinis įrenginys, skirtas sutrikdyti taikinio nervinę veiklą, akimirkai jį apstulbinant.
 
-**Tazeris, smiginis:** Rankinis tazeris, šaudantis du mažus smiginius su prijungtais laidais. Kai jie pataiko į taikinį, tazeris skleidžia trikdantį elektros krūvį, kuris dažniausiai apsvaigina ar išjungia.
+**Tazeris, strėlinis:** Rankinis tazeris, iššaunantis dvi mažas strėlytes su prijungtais laidais. Kai šios pataiko į taikinį, tazeris išleidžia sutrikdantį elektros krūvį, kuris paprastai apstulbina arba neutralizuoja.
 
-**Deglas (Torch):** Storas medžio pagaliukas, kurio vienas galas įmirkytas degute ar kitoje degioje medžiagoje, kartais suvyniotas į skudurus. Uždegamas ir naudojamas šviesai, deglai dažnai naudojami kaip improvizuoti ginklai.
+**Deglas:** Stora medinė lazda, kurios vienas galas išmirkytas dervoje ar kitame kure, kartais apvyniotas skudurais. Uždegamas ir naudojamas šviesai, deglai dažnai naudojami kaip improvizuoti ginklai.
 
-**Trišakis:** Trijų atšakų ietis, primenanti šakę, su lenktais šoniniais smaigaliais. Trišakiai dažniausiai turi dygliuotus smaigalius, kad užsikabintų taikinio kūne.
+**Trišakis:** Trijų šakų ietis, primenanti šakutę, su lenktais šoniniais smaigaliais. Trišakiai paprastai turi dygliuotus smaigalius, kad įsikabintų į taikinio kūną.
 
-**Wakizashi:** Trumpas kardo variantas, panašus į kataną, dažnai gaminamas kaip deranti pora. Kai kurie turi mažus peilius, įmontuotus į makštis.
+**Vakizašis:** Trumpo kardo versija, atitinkanti kataną, dažnai pagaminamas kaip pora. Kai kurie turi mažus peilius, įmontuotus makštyse.
 
-**Botagas (Whip):** Susukta ir austa odinė virvė su rankena viename gale, naudojama nuplakti priešininką arba sugauti ir imobilizuoti galūnę (žr. **Supainiojimas**).
+**Botagas:** Susukta ir pyninė odinė virvė su rankena viename gale, naudojama priešininkui nuplakti arba galūnei pagauti ir imobilizuoti (žr. **Supančiojimas**).
 
-**Botagas, smūginis (Shock):** Metalinis botagas, generuojantis aukštos įtampos elektros srovę, išleidžiamą į taikinį, kai sėkmingai pataiko.
+**Botagas, šoko:** Metalinis botagas, generuojantis aukštos įtampos elektros srovę, kuri išleidžiama į taikinį sėkmingo smūgio atveju.### Ginklų klasės
 
-### Ginklų klasės
+Ginklų specializacijos „Sunkusis ginklas“ (angl. *Heavy Weapon*), „Artimųjų kovų ginklas“ (angl. *Melee Weapon*) ir „Nuotolinis ginklas“ (angl. *Missile Weapon*) 3 skyriuje: Įgūdžiai nurodo ginklų specialybes ir **ginklų klases**. Ginklo klasė yra bendra grupė, kuriai priklauso ginklas, o **specialybė** – tai jūsų veikėjo įgūdis naudotis tos klasės ginklais. Ginklai skirstomi į klases, o įgūdžiai – į specialybes. Kiekviena ginklų klasė, kartu su konkrečiais pavyzdžiais, pateikiama žemiau. Kai kurie ginklai priklauso kelioms klasėms, priklausomai nuo to, kaip jie naudojami.
 
-Ginklų aprašymuose Sunkiojo ginklo (Heavy Weapon), Artimos kovos ginklo (Melee Weapon) ir Nuotolinio ginklo (Missile Weapon) įgūdžiams Trečiame skyriuje: Įgūdžiai nurodomos ginklų specializacijos ir **ginklų klasės**. Ginklų klasė yra apytikslė grupė, kuriai priklauso ginklas, o **specializacija** yra jūsų veikėjo įgūdis naudojant ginklus toje klasėje. Ginklai skirstomi į klases, o įgūdžiai į specializacijas. Kiekviena ginklų klasė išvardyta žemiau, su konkrečiais pavyzdžiais. Kai kurie ginklai atitinka kelias klases, priklausomai nuo to, kaip jie naudojami.
+* **Kirvis:** Kovos kirvis, didysis kirvis, rankinis kirvis, vibro kirvis, malkinis kirvis.
 
-* **Kirvis:** Kovinis kirvis, didysis kirvis, rankinis kirvis, vibro-kirvis, medkirčio kirvis.
-* **Lankas:** Sudėtinis lankas, ilgasis lankas, paprastas lankas.
-* **Brawl (Muštynės):** Kumštis, galvos smūgis, spyris.
-* **Vėzdys:** Sunkusis vėzdys, lengvasis vėzdys, sai, trumpa lazda.
+* **Lankas:** Kompozitinis lankas, ilgasis lankas, paprastas lankas.
+
+* **Muštynės:** Kumštis, smūgis galva, spyris.
+
+* **Buožė:** Sunki buožė, lengva buožė, sai, trumpas strypas.
+
 * **Arbaletas:** Arbaletas, apgulties arbaletas, sunkusis arbaletas, lengvasis arbaletas, vidutinis arbaletas, daugiašūvis arbaletas.
-* **Durklas:** Mėsininko peilis, durklas, peilis, kišeninis peilis, automatinis peilis, vibro-peilis, sai.
-* **Sprogmuo:** Antimaterijos detonatorius, pėstininkų mina, prieštankinė mina, detonatoriaus kapsulė, dinamitas, elektromagnetinio impulso detonatorius, sintezės detonatorius, improvizuotas sprogmuo, plazmos detonatorius, plastinis sprogmuo, garsinis detonatorius.
-* **Granata:** Antimaterijos granata, sukrečianti granata, dezintegracijos granata, elektromagnetinio impulso granata, sprogstamoji granata, šviečiamoji granata, sintezės granata, dujų granata, granatsvaidis, LAW raketų paleidiklis, Molotovo kokteilis, fosforo granata, plazmos granata, raketų paleidiklis, smūginė granata, skeveldrinė granata, dūminė granata, garsinė granata, apsvaiginimo granata.
-* **Plaktukas:** Plaktukas, didysis plaktukas, kūjis, karo plaktukas, karo kūjis (maul).
-* **Rankos (Hand):** Šarvuota pirštinė, juodoji tarka, žalvariniai krumpliai, cestus, nagai, garotas.
-* **Improvizuotas:** Grandininis pjūklas, mestas akmuo, dalgis, pjautuvas, deglas.
-* **Vėzdys:** Sunkusis vėzdys, lengvasis vėzdys.
-* **Kulkosvaidis:** Kulkosvaidis, mini-kulkosvaidis, pistoletas-kulkosvaidis.
-* **Nuotolinis:** Pučiamasis vamzdis, bola, bumerangas, durklas, smiginis, rankinis kirvis, mėtoma ietis, shuriken, slinga, mėtomas peilis.
-* **Pistoletas, energetinis:** Blasterio pistoletas, dezintegracijos pistoletas, elektromagnetinio impulso pistoletas, lazerinis pistoletas, plazmos pistoletas, smūginis pistoletas, garsinis pistoletas, apsvaiginimo pistoletas.
-* **Pistoletas:** Derringer, šratinis pistoletas, titnaginis pistoletas, sunkusis pistoletas, lengvasis pistoletas, vidutinis pistoletas.
-* **Ietiniai ginklai (Polearm):** Halebarda, ietis, naginata, ilgąja ietis (pike), dalgis, trišakis.
+
+* **Durklas:** Mėsininko peilis, durklas, peilis, kišeninis peilis, lenktinis peilis, vibro peilis, sai.
+
+* **Sprogmenys:** Antimaterijos detonatorius, pėstininkų mina, prieštankinė mina, detonatorius, dinamitas, elektromagnetinio impulso detonatorius, sintezės detonatorius, savadarbis sprogmuo, plazminis detonatorius, plastinis sprogmuo, garsinis detonatorius.
+
+* **Spragilas:** Spragilas, spragilas su dygliuotu rutuliu, botagas.
+
+* **Granata:** Antimaterijos granata, smūginė granata, ardymo granata, elektromagnetinio impulso granata, sprogstamoji granata, šviečiamoji granata, sintezės granata, dujų granata, granatsvaidis, LAW raketų leistuvas, Molotovo kokteilis, fosforo granata, plazminė granata, raketų leistuvas, šoko granata, skeveldrinė granata, dūminė granata, garsinė granata, paralyžiuojanti granata.
+
+* **Plaktukas:** Plaktukas, didysis plaktukas, kūjis, kovos plaktukas, karo kūjis.
+
+* **Rankos:** Šarvuota pirštinė, „blackjack“, kaštetas, cestus, nagas, smaugiklis.
+
+* **Savadarbis:** Grandininis pjūklas, sviedžiamas akmuo, dalgis, pjautuvas, deglas.
+
+* **Vėzdas:** Sunkus vėzdas, lengvas vėzdas.
+
+* **Kulkosvaidis:** Kulkosvaidis, „mini gun“, automatas.
+
+* **Nuotolinis:** Pučiamasis vamzdis, bola, bumerangas, durklas, smiginis, rankinis kirvis, ietis, šurikenas, svaidyklė, mėtomas peilis.
+
+* **Pistoletas, energijos:** Blasterinis pistoletas, ardymo pistoletas, elektromagnetinio impulso pistoletas, lazerinis pistoletas, plazminis pistoletas, šoko pistoletas, garsinis pistoletas, paralyžiuojantis pistoletas.
+
+* **Pistoletas:** „Derringer“, flešetinis pistoletas, titnaginis pistoletas, sunkusis pistoletas, lengvasis pistoletas, vidutinis pistoletas.
+
+* **Ilgakotis ginklas:** Hlebarda, ietis, naginata, pika, dalgis, trišakis.
+
 * **Revolveris:** Sunkusis revolveris, lengvasis revolveris, vidutinis revolveris.
-* **Šautuvas, energetinis:** Blasterio šautuvas, dezintegracijos šautuvas, elektromagnetinio impulso šautuvas, lazerinis šautuvas, plazmos šautuvas, smūginis šautuvas, garsinis šautuvas, apsvaiginimo šautuvas.
-* **Šautuvas:** Atakos šautuvas, užrakinamas šautuvas, dramblių šautuvas, svirtinis šautuvas, muškietė, snaiperinis šautuvas, sportinis šautuvas.
-* **Šautuvas (Shotgun):** Automatinis šautuvas, dvivamzdis šautuvas, nupjautas šautuvas, sportinis šautuvas.
-* **Ietis:** Mėtoma ietis, raitelio ietis, ilgoji ietis, naginata, ilgąja ietis (pike), trumpoji ietis, trišakis.
-* **Lazda:** Ketvirtinė lazda, trumpoji lazda.
-* **Pistoletas-kulkosvaidis:** Pistoletas-kulkosvaidis.
-* **Kardas:** Bastardo kardas, platus kardas, energetinis kardas, didysis kardas, katana, ilgasis kardas, monofilamentinis kardas, rapira, šarvuočių kardas, scimitar, trumpasis kardas, pjautuvas, kardas-lazda, vibro-kardas, wakizashi.
-* **Kita:** Cheminis purškiklis, kontaktinis tazeris, smiginis tazeris, liepsnosvaidis, lasas, tinklas, smūginis botagas, botagas.
 
-### Naudojimasis tos pačios klasės ginklais
+* **Šautuvas, energijos:** Blasterinis šautuvas, ardymo šautuvas, elektromagnetinio impulso šautuvas, lazerinis šautuvas, plazminis šautuvas, šoko šautuvas, garsinis šautuvas, paralyžiuojantis šautuvas.
 
-Savo įgūdžių specializaciją naudokite su visais konkrečios klasės ginklais. Šis apibendrinimas reiškia, kad jūsų veikėjas gali be kliūčių naudoti daugumą panašių ginklų.
+* **Šautuvas:** Automatinis šautuvas, šautuvas su slankiojančia spyna, dramblių medžioklės šautuvas, šautuvas su svirtine spyna, muškieta, snaiperinis šautuvas, sportinis šautuvas.
 
-**Pavyzdžiui,** jei jūsų veikėjas turi įgūdį Artimos kovos ginklas (Kardas), tai taikoma ilgiems kardams, platiems kardams, trumpiems kardams ir t.t., lygiai taip pat, kaip Šaunamasis ginklas (Revolveris) taikomas lengviems, vidutiniams ir sunkiems revolveriams.
+* **Lygiavamzdis šautuvas:** Automatinis lygiavamzdis, dvivamzdis lygiavamzdis, nupjautas lygiavamzdis, sportinis lygiavamzdis.
 
-### Naudojimasis skirtingų klasių ginklais
+* **Ietis:** Ietis, ietis, ilga ietis, naginata, pika, trumpa ietis, trišakis.
 
-Jei turite įgūdį vienoje ginklų klasėje, jūsų GV gali leisti jūsų veikėjui naudoti panašų ginklą kitoje klasėje su tuo pačiu įgūdžių reitingu, lyg įgūdis būtų Sunkus (Difficult).
+* **Strypas:** Ilgas strypas, trumpas strypas.
 
-**Pavyzdžiui,** jei jūsų veikėjas turi Nuotolinis ginklas (Lankas) 60 %, jūsų GV gali leisti naudoti arbaletus (kitos klasės ginklas) kaip Sunkų (Difficult) Nuotolinis ginklas (Lankas) įgūdį, t.y. laikiną 30 % įgūdžio reitingą.
+* **Automatas:** Automatas.
 
-Jei naudojant ginklą su laikinu įgūdžio reitingu pavyksta ir gaunama patirtis, patirties metimas atliekamas nuo bazinio šanso, o ne nuo laikino įgūdžio reitingo. Bet kokia patirtis pridedama prie ginklo ar ginklo įgūdžio bazinio šanso, o ne prie laikino įgūdžio reitingo. Kai jūsų veikėjas viršija laikiną įgūdžio reitingą, faktinis įgūdžio reitingas tampa numatytuoju.
+* **Kardas:** Bastardo kardas, plačiaašmenis kardas, energijos kardas, didysis kardas, katana, ilgasis kardas, monofilamentinis kardas, rapyra, sablas, jataganas, trumpasis kardas, pjautuvas, kardo lazda, vibro kardas, vakizašis.
+
+* **Kita:** Cheminis purkštuvas, kontaktinis elektrošokas, smiginis elektrošokas, liepsnosvaidis, lasas, tinklas, elektrinis botagas, botagas.
+
+### Tos pačios klasės ginklų naudojimas
+
+Naudokite savo įgūdžių specialybę su visais tos klasės ginklais. Šis apibendrinimas reiškia, kad jūsų veikėjas gali be jokių trukdžių naudotis dauguma panašių ginklų tipų.
+
+**Pavyzdžiui,** jei jūsų veikėjas turi įgūdį „Artimųjų kovų ginklas (Kardas)“, tai taikoma ilgiesiems kardams, plačiaašmeniams kardams, trumpiesiems kardams ir t. t., lygiai taip pat, kaip „Šaunamasis ginklas (Revolveris)“ taikomas lengviesiems, vidutiniams ir sunkiesiems revolveriams.### Ginklų naudojimas iš skirtingų klasių
+
+Jei įgudote naudotis vienos klasės ginklu, žaidimo meistras gali leisti jūsų veikėjui naudoti panašų kitos klasės ginklą su tuo pačiu įgūdžių įverčiu, tarsi įgūdis būtų sudėtingas (Difficult).
+
+**Pavyzdžiui,** jei jūsų veikėjo nuotolinio ginklo (lanko) įgūdis yra 60 %, žaidimo meistras gali leisti naudoti arbaletus (kitos klasės ginklus) kaip sudėtingą nuotolinio ginklo (lanko) įgūdį, t. y. laikiną 30 % įgūdžio įvertį.
+
+Jei naudojantis ginklu su laikinu įgūdžio įverčiu pavyksta atlikti veiksmą ir gaunama patirties, patirties metimas atliekamas nuo bazinės tikimybės, o ne nuo laikino įgūdžio įverčio. Bet kokia patirtis pridedama prie ginklo ar ginklo įgūdžio bazinės tikimybės, o ne prie laikino įgūdžio įverčio. Kai jūsų veikėjo įgūdis viršija laikiną įgūdžio įvertį, faktinis įgūdžio įvertis tampa numatytuoju.
 
 ##### Primityvūs artimos kovos ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuotolis | Rankos | HP | Blokavimas | JĖG/VIK | Ged. | Vertė | DYD/Apk. |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirvis, rankinis | Kirvis | 15 | 1D6+1+dm | 1 | Kraujavimas | Trumpas | 1H | 12 | Taip | 7/9 | — | Pigu | 0.5 |
-| Lazda, sunkioji | Vėzdys | 25 | 1D8+dm | 1 | Traiškyk | Vidutinis | 2H | 22 | Taip | 9/7 | — | Pigu | 2.0 |
-| Lazda, lengvoji | Vėzdys | 25 | 1D6+dm | 1 | Traiškyk | Vidutinis | 1H | 15 | Taip | 7/7 | — | Pigu | 1.0 |
-| Kumštis | Muštynės | 25 | 1D3+dm | 1 | Traiškyk | Trumpas | 1H | — | Ne1 | — | — | — | — |
-| Griebtuvas | Griebti | 25 | Special2 | 1 | Supainioti | Trumpas | 2H | — | Ne3 | — | — | — | — |
-| Galvos smūgis | Muštynės | 25 | 1D3+dm | 1 | Traiškyk | Trumpas | — | — | Ne | — | — | — | — |
-| Spyris | Muštynės | 25 | 1D3+dm | 1 | Traiškyk | Trumpas | — | — | Ne | — | — | — | — |
-| Peilis | Durklas | 25 | 1D3+1+dm | 1 | Impalas | Trumpas | 1H | 15 | Taip | 4/4 | — | Pigu | 0.2 |
-| Tinklas | Kita | 05 | Special4 | 1 | Supainioti | Vidutinis | 1H arba 2H | 6 | Taip | 12/10 | 96-005 | Pigu | 3.0 |
-| Ietis, ilgoji | Ietis | 15 | 1D10+1+dm | 1 | Impalas | Ilgas | 2H | 15 | Taip | 11/9 | — | Pigu | 2.0 |
-| Ietis, trumpoji | Ietis | 15 | 1D6+1+dm | 1 | Impalas | Ilgas | 1H arba 2H | 15 | Taip | 7/8 | — | Pigu | 2.0 |
-| Deglas | Vėzdys | 25 | 1D6+ugnis6 | 1 | Traiškyk | Vidutinis | 1H | 15 | Taip | 6/9 | 96-007 | — | 1.0 |
+| Kirvis, rankinis | Kirvis | 15 | 1D6+1+dm | 1 | Kraujavimas | Trumpas | 1R | 12 | Taip | 7/9 | — | Pigus | 0.5 |
+| Kuoka, sunki | Kuoka | 25 | 1D8+dm | 1 | Triuškinimas | Vidutinis | 2R | 22 | Taip | 9/7 | — | Pigus | 2.0 |
+| Kuoka, lengva | Kuoka | 25 | 1D6+dm | 1 | Triuškinimas | Vidutinis | 1R | 15 | Taip | 7/7 | — | Pigus | 1.0 |
+| Kumštis | Kumštynės | 25 | 1D3+dm | 1 | Triuškinimas | Trumpas | 1R | — | Ne1 | — | — | — | — |
+| Imtynės | Kumštynės | 25 | Spec.2 | 1 | Įpainiojimas | Trumpas | 2R | — | Ne3 | — | — | — | — |
+| Galva (smūgis) | Kumštynės | 25 | 1D3+dm | 1 | Triuškinimas | Trumpas | — | — | Ne | — | — | — | — |
+| Spardymas | Kumštynės | 25 | 1D3+dm | 1 | Triuškinimas | Trumpas | — | — | Ne | — | — | — | — |
+| Peilis | Durklas | 25 | 1D3+1+dm | 1 | Persmeigimas | Trumpas | 1R | 15 | Taip | 4/4 | — | Pigus | 0.2 |
+| Tinklas | Kitas | 05 | Spec.4 | 1 | Įpainiojimas | Vidutinis | 1R arba 2R | 6 | Taip | 12/10 | 96–005 | Pigus | 3.0 |
+| Ietis, ilga | Ietis | 15 | 1D10+1+dm | 1 | Persmeigimas | Ilgas | 2R | 15 | Taip | 11/9 | — | Pigus | 2.0 |
+| Ietis, trumpa | Ietis | 15 | 1D6+1+dm | 1 | Persmeigimas | Ilgas | 1R arba 2R | 15 | Taip | 7/8 | — | Pigus | 2.0 |
+| Deglas | Kuoka | 25 | 1D6+liepsna6 | 1 | Triuškinimas | Vidutinis | 1R | 15 | Taip | 6/9 | 96–007 | — | 1.0 |
 
 ##### Primityvūs nuotoliniai ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc | RF |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuot. | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirvis, rankinis (mestas) | Kirvis | 10 | 1D6+½dm | 1 | Kraujavimas | 20 | 1H | 12 | Ne | 9/11 | — | Pigu | 0.5 | 1/CR |
-| Pučiamasis vamzdis | Vamzdis | 10 | 1D38 | 1 | Impalas | 30 | 2H | 49 | Ne | /11 | — | Pigu | 0.5 | 1/CR |
-| Bola (žaloja) | Bola | 05 | 1D4+½dm | 1 | Traiškyk | 15 | 1H | 1 | Ne | 9/13 | — | Pigu | 3.0 | 1/CR |
-| Bola (gaudo) | Bola | 05 | Special4 | 1 | Supainioti | 15 | 1H | 1 | Ne | 9/13 | — | Pigu | 3.0 | 1/CR |
-| Bumerangas | Bumerangas | 05 | 1D4+½dm | ½10 | Traiškyk | 50 | 1H | 3 | Ne | 9/11 | — | Pigu | 0.5 | 1/CR |
-| Lankas, paprastas | Lankas | 10 | 1D6+1+½dm | 1 | Impalas | 80 | 2H | 6 | Ne | 9/9 | — | Pigu | 0.5 | 1/CR |
-| Lazda, lengva (mesta) | Mesti | Mesti | 1D6+½dm | 1 | Traiškyk | 20 | 1H | 15 | Ne | 9/7 | — | Pigu | 1.0 | 1/CR |
-| Smiginis | Smiginis | 10 | 1D6+½dm11 | 1 | Impalas | 20 | 1H | 4 | Ne | /9 | — | Pigu | 0.5 | 1/CR |
-| Ietis, mėtoma | Ietis | 15 | 1D6+½dm | 1 | Impalas | 25 | 1H | 10 | Ne | 9/9 | — | Pigu | 1.5 | 1/CR |
-| Peilis (mestas) | Peilis | 15 | 1D3+½dm | 1 | Impalas | 10 | 1H | 15 | Ne | 7/11 | — | Pigu | 0.2 | 1/CR |
-| Lasas | Kita | 05 | Special4 | ½ | Supainioti | 10 | 2H | 1 | Ne | 9/13 | — | Pigu | 1.0 | 1/5CR |
-| Tinklas (mestas) | Kita | 05 | Special4 | 1 | Supainioti | 5 | 1H | 6 | Ne | 9/12 | 96-0012 | Pigu | 3.0 | 1/3CR |
-| Akmuo (mestas) | Mesti | Mesti | 1D2+½dm | 2 | Traiškyk | 20 | 1H | 20 | Ne | 5/5 | — | — | .05 | 1/CR |
-| Slinga | Slinga | 05 | 1D8+½dm | 1 | Traiškyk | 80 | 1H | 2/1313 | Ne | 7/11 | — | Pigu | 0.1 (.1)14 | 1/CR |
-| Ietis, trumpos (mesta) | Ietis | 05 | 1D6+1+½dm | 1 | Impalas | 15 | 1H | 15 | Ne | 12/10 | — | Pigu | 2.0 | 1/CR |
-| Ietis, ilgoji (mesta) | Ietis | 05 | 1D10+1+½db | 1 | Impalas | 15 | 1H | 15 | Ne | 12/10 | — | Pigu | 2.0 | 1/CR |
+| Kirvis, rankinis (svied.) | Kirvis | 10 | 1D6+½dm | 1 | Kraujavimas | 20 | 1R | 12 | Ne | 9/11 | — | Pigus | 0.5 | 1/CR |
+| Pūstvamzdis | Pūstvamz. | 10 | 1D38 | 1 | Persmeigimas | 30 | 2R | 49 | Ne | /11 | — | Pigus | 0.5 | 1/CR |
+| Bola (žalojanti) | Bola | 05 | 1D4+½dm | 1 | Triuškinimas | 15 | 1R | 1 | Ne | 9/13 | — | Pigus | 3.0 | 1/CR |
+| Bola (gaudanti) | Bola | 05 | Spec.4 | 1 | Įpainiojimas | 15 | 1R | 1 | Ne | 9/13 | — | Pigus | 3.0 | 1/CR |
+| Bumerangas | Bumerang. | 05 | 1D4+½dm | ½10 | Triuškinimas | 50 | 1R | 3 | Ne | 9/11 | — | Pigus | 0.5 | 1/CR |
+| Lankas, paprastas | Lankas | 10 | 1D6+1+½dm | 1 | Persmeigimas | 80 | 2R | 6 | Ne | 9/9 | — | Pigus | 0.5 | 1/CR |
+| Kuoka, lengva (svied.) | Sviedimas | Sviedimas | 1D6+½dm | 1 | Triuškinimas | 20 | 1R | 15 | Ne | 9/7 | — | Pigus | 1.0 | 1/CR |
+| Strėlė (dart) | Strėlė | 10 | 1D6+½dm11 | 1 | Persmeigimas | 20 | 1R | 4 | Ne | /9 | — | Pigus | 0.5 | 1/CR |
+| Ietis (svied.) | Ietis | 15 | 1D6+½dm | 1 | Persmeigimas | 25 | 1R | 10 | Ne | 9/9 | — | Pigus | 1.5 | 1/CR |
+| Peilis (svied.) | Peilis (sv.) | 15 | 1D3+½dm | 1 | Persmeigimas | 10 | 1R | 15 | Ne | 7/11 | — | Pigus | 0.2 | 1/CR |
+| Lasas | Kitas | 05 | Spec.4 | ½ | Įpainiojimas | 10 | 2R | 1 | Ne | 9/13 | — | Pigus | 1.0 | 1/5CR |
+| Tinklas (svied.) | Kitas | 05 | Spec.4 | 1 | Įpainiojimas | 5 | 1R | 6 | Ne | 9/12 | 96–0012 | Pigus | 3.0 | 1/3CR |
+| Akmuo (svied.) | Sviedimas | Sviedimas | 1D2+½dm | 2 | Triuškinimas | 20 | 1R | 20 | Ne | 5/5 | — | — | .05 | 1/CR |
+| Laidynė | Laidynė | 05 | 1D8+½dm | 1 | Triuškinimas | 80 | 1R | 2/1313 | Ne | 7/11 | — | Pigus | 0.1 (.1)14 | 1/CR |
+| Ietis, trumpa (svied.) | Ietis | 05 | 1D6+1+½dm | 1 | Persmeigimas | 15 | 1R | 15 | Ne | 12/10 | — | Pigus | 2.0 | 1/CR |
+| Ietis, ilga (svied.) | Ietis | 05 | 1D10+1+½db | 1 | Persmeigimas | 15 | 1R | 15 | Ne | 12/10 | — | Pigus | 2.0 | 1/CR |
 
-1. Muštynės gali atmušti (parry) Muštynių arba Griebimo atakas (žr. Muštynių įgūdį).
-2. Žr. Griebimo įgūdį.
-3. Griebimas gali atmušti Muštynių arba Griebimo atakas (žr. Griebimo įgūdį).
-4. Žr. **Supainiojimas**.
-5. Tinklo gedimas reiškia, kad jis susipainiojo, prireikia viso raundo ir sėkmingo Sunkaus (Difficult) Agility metimo jam išnarplioti.
+1. Kumštynės leidžia blokuoti kumštynių arba imtynių atakas (žr. Kumštynių įgūdį).
+2. Žr. Imtynių įgūdį.
+3. Imtynės gali blokuoti kumštynių arba imtynių atakas (žr. Imtynių įgūdį).
+4. Žr. **Įpainiojimas**.
+5. Tinklo gedimas reiškia, kad jis susipainiojo; jam išpainioti reikia viso kovos rato ir sėkmingo sudėtingo (Difficult) Vikrumo metimo.
 6. Žr. **Ugnis**.
 7. Gedimas reiškia, kad deglas užgęsta.
-8. Pučiamojo vamzdžio smiginiai dažniausiai būna nuodingi (žr. **Nuodai**).
-9. Pučiamasis vamzdis turi 4 hit pointus, o kiekvienas smiginis turi 0 arba 1 hit pointą.
-10. Jei vartotojas meta bumerangą, kad šis grįžtų, atlikite Agility metimą, kad sugautumėte jį kitame raunde. Jei mėtote kelis bumerangus, atakos dažnis yra 1 per raundą.
-11. Smiginiai dažnai būna nuodingi (žr. **Nuodai**).
-12. Tinklo gedimas reiškia, kad jis susipainiojo, prireikia viso raundo ir sėkmingo Sunkaus (Difficult) Agility metimo jam išnarplioti.
-13. Slinga turi 2 hit pointus, o slingos akmuo turi 12 hit pointų (švino arba akmens).
-14. Pirmasis skaičius yra slingos svoris; skliausteliuose nurodytas kiekvieno slingos akmens svoris.
+8. Pūstvamzdžio strėlytės dažniausiai būna nuodingos (žr. **Nuodai**).
+9. Pūstvamzdis turi 4 pataikymo taškus, o kiekviena strėlytė – 0 arba 1 pataikymo tašką.
+10. Jei naudojate bumerangą taip, kad jis grįžtų, atlikite Vikrumo metimą, kad pagautumėte jį kitame rate. Jei sviedžiate kelis bumerangus, atakos dažnis yra 1 per ratą.
+11. Strėlytės dažnai būna nuodingos (žr. **Nuodai**).
+12. Tinklo gedimas reiškia, kad jis susipainiojo; jam išpainioti reikia viso kovos rato ir sėkmingo sudėtingo (Difficult) Vikrumo metimo.
+13. Laidynė turi 2 pataikymo taškus, o laidynės akmuo (švininis arba akmeninis) – 12 pataikymo taškų.
+14. Pirmasis skaičius yra laidynės svoris; skliausteliuose nurodytas kiekvieno akmens svoris.
 
 ##### Istoriniai artimos kovos ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuotolis | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirvis, kovinis | Kirvis | 15 | 1D8+2+dm | 1 | Kraujavimas | Vidutinis | 1H | 15 | Taip | 9/9 | — | Vidutinė | 1.0 |
-| Kirvis, didysis | Kirvis | 15 | 2D6+2+dm | 1 | Kraujavimas | Vidutinis | 2H | 15 | Taip | 11/9 | — | Vidutinė | 2.0 |
-| Kirvis, medkirčio | Kirvis | 15 | 1D8+2+dm | 1 | Kraujavimas | Vidutinis | 2H | 20 | Taip | 8/7 | — | Nebrangi | 1.5 |
-| Juodoji tarka | Rankos | 25 | 1D8+dm | 1 | Traiškyk | Trumpas | 1H | 10 | Ne | 7/7 | — | Nebrangi | 0.2 |
-| Cestus | Rankos | 25 | 1D3+2+dm | 1 | Traiškyk | Trumpas | 1H | 10 | Taip | 11/7 | — | Vidutinė | 0.1 |
-| Nagai | Rankos | 25 | 1D4+1+dm | 1 | Kraujavimas | Trumpas | 1H | 10 | Taip | 9/9 | — | Vidutinė | 0.1 |
-| Durklas | Durklas | 25 | 1D4+2+dm | 1 | Impalas | Trumpas | 1H | 15 | Taip | 4/4 | — | Vidutinė | 0.5 |
-| Spragilas | Spragilas | 10 | 1D6+dm | 1 | Traiškyk | Vidutinis | 1H | 7 | Taip | 7/6 | — | Vidutinė | 2.0 |
-| Spragilas, rytų žvaigždė | Spragilas | 10 | 1D10+1+dm | 1 | Traiškyk | Vidutinis | 2H | 12 | Taip | 11/7 | — | Vidutinė | 2.0 |
-| Garotas | Rankos | 15 | Special1 | 1 | — | Trumpas | 2H | 1 | Ne | 8/12 | — | Nebrangi | 0.1 |
-| Pirštinė, šarvuota | Rankos | 25 | 1D3+1+dm | 1 | Traiškyk | Trumpas | 1H | 7 | Taip | 7/5 | — | Vidutinė | Kaip šarvai |
-| Halebarda | Ietiniai | 15 | 3D6+dm | 1 | Kraujavimas | Ilgas | 2H | 25 | Taip | 13/9 | — | Vidutinė | 3.0 |
-| Plaktukas | Plaktukas | 25 | 1D6+dm | 1 | Traiškyk | Vidutinis | 1H | 15 | Taip | 9/7 | — | Nebrangi | 1.5 |
-| Plaktukas, didysis | Plaktukas | 25 | 1D10+3+dm | 1 | Traiškyk | Ilgas | 2H | 15 | Taip | 9/9 | — | Vidutinė | 2.5 |
-| Plaktukas, kūjis | Plaktukas | 20 | 2D6+2+dm | 1 | Traiškyk | Vidutinis | 2H | 15 | Taip | 11/7 | — | Nebrangi | 2.0 |
-| Plaktukas, karo | Plaktukas | 25 | 1D6+2+dm | 1 | Traiškyk | Vidutinis | 1H | 20 | Taip | 11/9 | — | Vidutinė | 2.0 |
-| Katana | Kardas | 15 | 1D10+1+dm2 | 1 | Kraujavimas | Vidutinis | 1H arba 2H | 15 | Taip | 11/11 | — | Brangi | 1.5 |
-| Peilis | Durklas | 25 | 1D3+1+dm | 1 | Impalas | Trumpas | 1H | 15 | Taip | 4/4 | — | Nebrangi | 0.5 |
-| Ietis, raitelio | Ietis | 15 | 1D8+1+dm | 1 | Impalas3 | Ilgas | 1H | 15 | Taip | 9/8 | — | Nebrangi | 3.5 |
-| Vėzdys, sunkus | Vėzdys | 25 | 1D8+2+dm | 1 | Traiškyk | Vidutinis | 2H | 20 | Taip | 14/9 | — | Vidutinė | 2.5 |
-| Vėzdys, lengvas | Vėzdys | 25 | 1D6+2+dm | 1 | Traiškyk | Vidutinis | 1H | 20 | Taip | 7/7 | — | Vidutinė | 1.0 |
-| Kūjis, karo | Plaktukas | 25 | 1D10+2+dm | 1 | Traiškyk | Vidutinis | 2H | 20 | Taip | 13/7 | — | Vidutinė | 2.5 |
-| Naginata | Ietiniai | 05 | 2D6+2+dm | 1 | Kraujavimas | Ilgas | 2H | 15 | Taip | 7/11 | — | Brangi | 2.0 |
-| Ietis, ilgoji | Ietiniai | 15 | 1D10+2+dm | 1 | Impalas | Ilgas | 2H | 15 | Taip | 11/7 | — | Nebrangi | 3.5 |
-| Rapira | Kardas | 15 | 1D6+1+dm | 1 | Impalas | Vidutinis | 1H | 15 | Taip | 7/13 | — | Brangi | 1.0 |
-| Šarvuočių kardas | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1H | 20 | Taip | 7/11 | — | Vidutinė | 1.5 |
-| Sai | Durklas | 10 | 1D6+dm | 1 | Traiškyk4 | Vidutinis | 1H | 20 | Taip | 5/11 | — | Nebrangi | 1.0 |
-| Scimitar | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1H | 19 | Taip | 8/8 | — | Vidutinė | 1.5 |
-| Dalgis | Improvizuotas | 05 | 2D6+1+dm | 1 | Impalas | Ilgas | 2H | 20 | Taip | 12/10 | — | Nebrangi | 2.5 |
-| Pjautuvas | Improvizuotas | 10 | 1D6+1+dm | 1 | Impalas | Vidutinis | 1H | 12 | Taip | 7/9 | — | Nebrangi | 0.5 |
-| Lazda, ketvirtinė | Lazda | 25 | 1D8+dm | 1 | Traiškyk | Visi | 2H | 20 | Taip | 9/9 | — | Pigu | 1.5 |
-| Lazda, trumpoji | Lazda | 15 | 1D6+dm | 1 | Traiškyk | Vidutinis | 1H | 15 | Taip | 7/9 | — | Pigu | 0.5 |
-| Kardas-lazda | Kardas | 15 | 1D6+dm | 1 | Impalas | Vidutinis | 1H | 12 | Taip | 7/11 | — | Brangi | 1.0 |
-| Kardas, bastardas | Kardas | 10 | 1D10+1+dm5 | 1 | Kraujavimas | Vidutinis | 1H arba 2H | 20 | Taip | 13 arba 9/96 | — | Vidutinė | 2.0 |
-| Kardas, platus | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1H | 20 | Taip | 9/7 | — | Vidutinė | 1.5 |
-| Kardas, didysis | Kardas | 05 | 2D8+dm | 1 | Kraujavimas | Vidutinis/Ilgas | 2H | 18 | Taip | 14/13 | — | Brangi | 3.5 |
-| Kardas, ilgasis | Kardas | 15 | 1D8+dm | 1 | Kraujavimas | Vidutinis | 1H | 15 | Taip | 7/9 | — | Vidutinė | 1.5 |
-| Kardas, trumpasis | Kardas | 15 | 1D6+1+dm | 1 | Impalas | Vidutinis | 1H | 20 | Taip | 5/5 | — | Pigu | 1.0 |
-| Trišakis | Ietiniai | 15 | 1D6+1+dm | 1 | Impalas | Ilgas | 1H arba 2H | 18 | Taip | 9/7 | — | Vidutinė | 2.0 |
-| Wakizashi | Kardas | 15 | 1D6+1+dm | 1 | Kraujavimas | Vidutinis | 1H | 13 | Taip | 7/9 | — | Brangi | 1.0 |
-| Botagas | Kita | 05 | 1D3-1 | 1 | Supainioti | Ilgas | 1H | 4 | Ne | 9/10 | — | Pigu | 0.5 |
+| Kirvis, kovos | Kirvis | 15 | 1D8+2+dm | 1 | Kraujavimas | Vidutinis | 1R | 15 | Taip | 9/9 | — | Vidutinė | 1.0 |
+| Kirvis, didysis | Kirvis | 15 | 2D6+2+dm | 1 | Kraujavimas | Vidutinis | 2R | 15 | Taip | 11/9 | — | Vidutinė | 2.0 |
+| Kirvis, miško | Kirvis | 15 | 1D8+2+dm | 1 | Kraujavimas | Vidutinis | 2R | 20 | Taip | 8/7 | — | Pigi | 1.5 |
+| Blekdžekas | Rankos | 25 | 1D8+dm | 1 | Triuškinimas | Trumpas | 1R | 10 | Ne | 7/7 | — | Pigi | 0.2 |
+| Cestus | Rankos | 25 | 1D3+2+dm | 1 | Triuškinimas | Trumpas | 1R | 10 | Taip | 11/7 | — | Vidutinė | 0.1 |
+| Nagas | Rankos | 25 | 1D4+1+dm | 1 | Kraujavimas | Trumpas | 1R | 10 | Taip | 9/9 | — | Vidutinė | 0.1 |
+| Durklas | Durklas | 25 | 1D4+2+dm | 1 | Persmeigimas | Trumpas | 1R | 15 | Taip | 4/4 | — | Vidutinė | 0.5 |
+| Spragilas | Spragilas | 10 | 1D6+dm | 1 | Triuškinimas | Vidutinis | 1R | 7 | Taip | 7/6 | — | Vidutinė | 2.0 |
+| Spragilas, rytmečio žvaigždė | Spragilas | 10 | 1D10+1+dm | 1 | Triuškinimas | Vidutinis | 2R | 12 | Taip | 11/7 | — | Vidutinė | 2.0 |
+| Garota | Rankos | 15 | Spec.1 | 1 | — | Trumpas | 2R | 1 | Ne | 8/12 | — | Pigi | 0.1 |
+| Pirštinė, šarvuota | Rankos | 25 | 1D3+1+dm | 1 | Triuškinimas | Trumpas | 1R | 7 | Taip | 7/5 | — | Vidutinė | Kaip šarv. |
+| Alebarda | Ietis (pole) | 15 | 3D6+dm | 1 | Kraujavimas | Ilgas | 2R | 25 | Taip | 13/9 | — | Vidutinė | 3.0 |
+| Plaktukas | Plaktukas | 25 | 1D6+dm | 1 | Triuškinimas | Vidutinis | 1R | 15 | Taip | 9/7 | — | Pigi | 1.5 |
+| Plaktukas, didysis | Plaktukas | 25 | 1D10+3+dm | 1 | Triuškinimas | Ilgas | 2R | 15 | Taip | 9/9 | — | Vidutinė | 2.5 |
+| Kūjis | Plaktukas | 20 | 2D6+2+dm | 1 | Triuškinimas | Vidutinis | 2R | 15 | Taip | 11/7 | — | Pigi | 2.0 |
+| Plaktukas, karo | Plaktukas | 25 | 1D6+2+dm | 1 | Triuškinimas | Vidutinis | 1R | 20 | Taip | 11/9 | — | Vidutinė | 2.0 |
+| Katana | Kardas | 15 | 1D10+1+dm2 | 1 | Kraujavimas | Vidutinis | 1R arba 2R | 15 | Taip | 11/11 | — | Brangi | 1.5 |
+| Peilis | Durklas | 25 | 1D3+1+dm | 1 | Persmeigimas | Trumpas | 1R | 15 | Taip | 4/4 | — | Pigi | 0.5 |
+| Ietis (lance) | Ietis | 15 | 1D8+1+dm | 1 | Persmeigimas3 | Ilgas | 1R | 15 | Taip | 9/8 | — | Pigi | 3.5 |
+| Vėzdas, sunkus | Vėzdas | 25 | 1D8+2+dm | 1 | Triuškinimas | Vidutinis | 2R | 20 | Taip | 14/9 | — | Vidutinė | 2.5 |
+| Vėzdas, lengvas | Vėzdas | 25 | 1D6+2+dm | 1 | Triuškinimas | Vidutinis | 1R | 20 | Taip | 7/7 | — | Vidutinė | 1.0 |
+| Karinis kūjis | Plaktukas | 25 | 1D10+2+dm | 1 | Triuškinimas | Vidutinis | 2R | 20 | Taip | 13/7 | — | Vidutinė | 2.5 |
+| Naginata | Ietis (pole) | 05 | 2d6+2+dm | 1 | Kraujavimas | Ilgas | 2R | 15 | Taip | 7/11 | — | Brangi | 2.0 |
+| Pika | Ietis (pole) | 15 | 1d10+2+dm | 1 | Persmeigimas | Ilgas | 2R | 15 | Taip | 11/7 | — | Pigi | 3.5 |
+| Rapira | Kardas | 15 | 1D6+1+dm | 1 | Persmeigimas | Vidutinis | 1R | 15 | Taip | 7/13 | — | Brangi | 1.0 |
+| Kardas (Saber) | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1R | 20 | Taip | 7/11 | — | Vidutinė | 1.5 |
+| Sai | Durklas | 10 | 1D6+dm | 1 | Triuškinimas4 | Vidutinis | 1R | 20 | Taip | 5/11 | — | Pigi | 1.0 |
+| Scimitara | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1R | 19 | Taip | 8/8 | — | Vidutinė | 1.5 |
+| Dalgis | Imp. | 05 | 2D6+1+dm | 1 | Persmeigimas | Ilgas | 2R | 20 | Taip | 12/10 | — | Pigi | 2.5 |
+| Pjautuvas | Imp. | 10 | 1D6+1+dm | 1 | Persmeigimas | Vidutinis | 1R | 12 | Taip | 7/9 | — | Pigi | 0.5 |
+| Lazda (ketvirčio) | Lazda | 25 | 1D8+dm | 1 | Triuškinimas | Visi | 2R | 20 | Taip | 9/9 | — | Pigi | 1.5 |
+| Lazda, trumpa | Lazda | 15 | 1D6+dm | 1 | Triuškinimas | Vidutinis | 1R | 15 | Taip | 7/9 | — | Pigi | 0.5 |
+| Kardas-lazda | Kardas | 15 | 1D6+dm | 1 | Persmeigimas | Vidutinis | 1R | 12 | Taip | 7/11 | — | Brangi | 1.0 |
+| Kardas, bastardo | Kardas | 10 | 1D10+1+dm5 | 1 | Kraujavimas | Vidutinis | 1R arba 2R | 20 | Taip | 13 arba 9/96 | — | Vidutinė | 2.0 |
+| Kardas, platus | Kardas | 15 | 1D8+1+dm | 1 | Kraujavimas | Vidutinis | 1R | 20 | Taip | 9/7 | — | Vidutinė | 1.5 |
+| Kardas, didysis | Kardas | 05 | 2D8+dm | 1 | Kraujavimas | Vid./Ilgas | 2R | 18 | Taip | 14/13 | — | Brangi | 3.5 |
+| Kardas, ilgas | Kardas | 15 | 1D8+dm | 1 | Kraujavimas | Vidutinis | 1R | 15 | Taip | 7/9 | — | Vidutinė | 1.5 |
+| Kardas, trumpas | Kardas | 15 | 1D6+1+dm | 1 | Persmeigimas | Vidutinis | 1R | 20 | Taip | 5/5 | — | Pigi | 1.0 |
+| Trišakis | Ietis (pole) | 15 | 1D6+1+dm | 1 | Persmeigimas | Ilgas | 1R arba 2R | 18 | Taip | 9/7 | — | Vidutinė | 2.0 |
+| Vakizašis | Kardas | 15 | 1D6+1+dm | 1 | Kraujavimas | Vidutinis | 1R | 13 | Taip | 7/9 | — | Brangi | 1.0 |
+| Botagas | Kitas | 05 | 1D3-1 | 1 | Įpainiojimas | Ilgas | 1R | 4 | Ne | 9/10 | — | Pigi | 0.5 |
 
-1. Žr. **Smaugimas, skendimas ir asfiksija**.
-2. Naudojant kataną viena ranka, žalos modifikatorius yra ½ įprasto.
-3. Turnyrinės ietys dažniausiai yra bukos ir daro traiškančias specialiąsias žalas.
-4. Sai tradiciškai yra bukas ginklas, naudojamas pirmiausia atmušimui ir smūgiams.
-5. Naudojant bastardo kardą viena ranka, žalos modifikatorius yra ½ įprasto.
-6. STR reikalavimas yra 13 naudojant viena ranka; 9 naudojant dviem rankomis.
+1. Žr. **Užspringimas, skendimas ir asfiksija**.
+2. Naudojant kataną viena ranka, žalos modifikatorius yra ½ įprastinio.
+3. Turnyrinės ietys dažniausiai būna atšipusios ir specialiai triuškina.
+4. Sai yra tradiciniai atšipę ginklai, naudojami daugiausia blokavimui ir smūgiams.
+5. Naudojant bastardą viena ranka, žalos modifikatorius yra ½ įprastinio.
+6. JĖG reikalavimas yra 13, kai naudojamas viena ranka; 9, kai naudojamas dviem rankomis.
 
 ##### Istoriniai nuotoliniai ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc | RF |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuot. | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbaletas, apgulties | Arbaletas | 15 | 2D6+4 | 1/3 | Impalas | 90 | 2H | 14 | Ne | 11/91 | 93-00 | Vidutinė | 10.0 (0.5) | 1/4CR |
-| Lankas, sudėtinis | Lankas | 05 | 1D8+1+½dm | 1 | Impalas | 120 | 2H | 12 | Ne | 13/9 | — | Vidutinė | 0.5 (0.5) | 1/CR |
-| Lankas, ilgasis | Lankas | 05 | 1D8+1+½dm | 1 | Impalas | 90 | 2H | 10 | Ne | 11/9 | — | Pigu | 0.5 (0.5) | 1/CR |
-| Arbaletas, sunkus | Arbaletas | 25 | 2D6+2 | 1/3 | Impalas | 55 | 2H | 18 | Ne | 13/7 | 97-00 | Vidutinė | 8.0 (0.5) | 1/3CR |
-| Arbaletas, lengvas | Arbaletas | 25 | 1D6+2 | ½ | Impalas | 40 | 2H | 10 | Ne | 9/7 | 96-00 | Vidutinė | 3.5 (0.5) | 1/2CR |
-| Arbaletas, vidutinis | Arbaletas | 25 | 2D4+2 | ½ | Impalas | 50 | 2H | 14 | Ne | 11/7 | 95-00 | Vidutinė | 5.0 (0.5) | 1/2CR |
-| Arbaletas, daugiašūvis | Arbaletas | 25 | 1D6+2 | 12 | Impalas | 60 | 2H | 12 | Ne | 9/7 | 91-00 | Brangi | 7.5 (0.5) | 1/CR3 |
-| Peilis, mėtomasis | Nuotolinis | 15 | 1D4+½dm | 1 | Impalas | 20 | 1H | 10 | Ne | /11 | — | Pigu | 0.2 | 1/CR |
-| Shuriken | Nuotolinis | 10 | 1D3+½dm | 2 | Impalas | 20 | 1H | 5 | Ne | /13 | — | Pigu | 0.1 | 1/CR |
+| Arbaletas (arbalest) | Arbaletas | 15 | 2D6+4 | 1/3 | Persmeigimas | 90 | 2R | 14 | Ne | 11/91 | 93–00 | Vidutinė | 10.0 (0.5) | 1/4CR |
+| Lankas, kompozit. | Lankas | 05 | 1D8+1+½dm | 1 | Persmeigimas | 120 | 2R | 12 | Ne | 13/9 | — | Vidutinė | 0.5 (0.5) | 1/CR |
+| Lankas, ilgas | Lankas | 05 | 1D8+1+½dm | 1 | Persmeigimas | 90 | 2R | 10 | Ne | 11/9 | — | Pigi | 0.5 (0.5) | 1/CR |
+| Arbaletas, sunkus | Arbaletas | 25 | 2D6+2 | 1/3 | Persmeigimas | 55 | 2R | 18 | Ne | 13/7 | 97–00 | Vidutinė | 8.0 (0.5) | 1/3CR |
+| Arbaletas, lengvas | Arbaletas | 25 | 1D6+2 | ½ | Persmeigimas | 40 | 2R | 10 | Ne | 9/7 | 96–00 | Vidutinė | 3.5 (0.5) | 1/2CR |
+| Arbaletas, vidut. | Arbaletas | 25 | 2D4+2 | ½ | Persmeigimas | 50 | 2R | 14 | Ne | 11/7 | 95–00 | Vidutinė | 5.0 (0.5) | 1/2CR |
+| Arbaletas, kartotinis | Arbaletas | 25 | 1D6+2 | 12 | Persmeigimas | 60 | 2R | 12 | Ne | 9/7 | 91–00 | Brangi | 7.5 (0.5) | 1/CR3 |
+| Peilis (svied.) | Nuotol. | 15 | 1d4+½dm | 1 | Persmeigimas | 20 | 1R | 10 | Ne | /11 | — | Pigi | 0.2 | 1/CR |
+| Šurikenas | Nuotol. | 10 | 1D3+½dm | 2 | Persmeigimas | 20 | 1R | 5 | Ne | /13 | — | Pigi | 0.1 | 1/CR |
 
-1. STR reikalavimas su cranequin (rankiniu suktuvu) yra 11; STR 15 naudojant be jo.
-2. Turi 12 šaudmenų ir visiškai užtaisyti užtrunka šešis raundus.
-3. Daugiašūvis arbaletas turi 6, 8, 10 arba 12 strėlių amunicijos talpą. Užtaisyti vieną daugiašūvį arbaletą užtrunka vieną kovos raundą už vieną strėlę.
+1. JĖG reikalavimas su kranu (rankiniu suktuvu) yra 11; JĖG 15, kai naudojamas be jo.
+2. Turi 12 šaudmenų talpą ir visiškai užtaisyti užtrunka šešis ratus.
+3. Kartotinis arbaletas turi 6, 8, 10 arba 12 varžtų talpą. Vienam varžtui užtaisyti reikia vieno kovos rato.
 
 ##### Modernūs artimos kovos ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuotolis | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Žalvariniai krumpliai | Muštynės | Muštynės | +2 | 1 | Traiškyk | Trumpas | 1H | 18 | Ne | 5/– | — | Pigu | 0.1 |
-| Grandininis pjūklas | Improvizuotas | 20 | 2D8 | 1 | Kraujavimas | Vidutinis | 2H | 20 | Ne | 11/11 | 97-00 | Vidutinė | 8.0 |
-| Peilis, mėsininko | Durklas | 25 | 1D6+dm | 1 | Impalas | Trumpas | 1H | 12 | Ne | 5/7 | — | Pigu | 0.3 |
-| Peilis, kišeninis | Durklas | 25 | 1D4+dm | 1 | Impalas | Trumpas | 1H | 9 | Ne | –/5 | — | Pigu | 0.1 |
-| Peilis, automatinis | Durklas | 25 | 1D4+dm | 1 | Impalas | Trumpas | 1H | 7 | Ne | –/5 | 99-00 | Pigu | 0.1 |
-| Tazeris, kontaktinis | Kita | Muštynės | Special1 | 1 | — | Trumpas | 1H | 7 | Ne | 5/7 | 97-00 | Pigu | 0.3 |
+| Žalvariniai krumpliai | Kumštynės | Kumštyn. | +2 | 1 | Triuškinimas | Trumpas | 1R | 18 | Ne | 5/– | — | Pigi | 0.1 |
+| Grandininis pjūklas | Imp. | 20 | 2D8 | 1 | Kraujavimas | Vidutinis | 2R | 20 | Ne | 11/11 | 97–00 | Vidutinė | 8.0 |
+| Peilis, mėsininko | Durklas | 25 | 1D6+dm | 1 | Persmeigimas | Trumpas | 1R | 12 | Ne | 5/7 | — | Pigi | 0.3 |
+| Peilis, kišeninis | Durklas | 25 | 1D4+dm | 1 | Persmeigimas | Trumpas | 1R | 9 | Ne | –/5 | — | Pigi | 0.1 |
+| Peilis, lenktinis | Durklas | 25 | 1D4+dm | 1 | Persmeigimas | Trumpas | 1R | 7 | Ne | –/5 | 99–00 | Pigi | 0.1 |
+| Tazeris, kontaktinis | Kitas | Kumštyn. | Spec.1 | 1 | — | Trumpas | 1R | 7 | Ne | 5/7 | 97–00 | Pigi | 0.3 |
 
 ##### Modernūs nuotoliniai ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc | RF |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuot. | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Liepsnosvaidis | Kita | 05 | 2D6+ugnis3 | 1 | — | 25 | 2H | 6 | Ne | 10/8 | 93-00 | 6 | Brangi | 8.0 |
-| Ginklas, kulkosvaidis | Kulkosv. | 15 | 2D6+4 | 1, 3, ar serija | Impalas | 90 | 2H | 11 | Ne | 9/5 | 00 | 40 | Brangi | 3.0 |
-| Ginklas, mini-kulkosv. | Kulkosv. | 15 | 2D6+4 | 33 | Impalas | 400 | 2H | 14 | Ne | 16/12 | 98-00 | 4,000 | Brangi | 6.0 |
-| Ginklas, pistoletas-kulk. | Pistoletas-kulk. | 15 | 1D8 | 2 ar serija | Impalas | 40 | 1H arba 2H | 8 | Ne | 9/6 | 98-00 | 32 | Brangi | 2.0 |
-| Pistoletas, Derringer | Pistoletas | 20 | 1D6 | 1 | Impalas | 3 | 1H | 5 | Ne | 5/5 | 00 | 1 arba 2 | Vidutinė | 0.3 |
-| Pistoletas, titnaginis | Pistoletas | 20 | 1D6+1 | ¼ | Impalas | 10 | 1H | 8 | Ne | 7/5 | 95-00 | 1 | Vidutinė | 1.0 |
-| Pistoletas, sunkus | Pistoletas | 20 | 1D10+2 | 1 | Impalas | 15 | 1H | 8 | Ne | 11/7 | 00 | 8 | Vidutinė | 1.5 |
-| Pistoletas, lengvas | Pistoletas | 20 | 1D6 | 3 | Impalas | 10 | 1H | 6 | Ne | 5/5 | 00 | 8 | Vidutinė | 0.7 |
-| Pistoletas, vidutinis | Pistoletas | 20 | 1D8 | 2 | Impalas | 20 | 1H | 8 | Ne | 7/5 | 98-00 | 12 | Vidutinė | 1.0 |
-| Revolveris, sunkus | Revolveris | 20 | 1D10+2 | 1 | Impalas | 20 | 1H | 14 | Ne | 11/5 | 00 | 6 | Vidutinė | 1.5 |
-| Revolveris, lengvas | Revolveris | 20 | 1D6 | 2 | Impalas | 15 | 1H | 10 | Ne | 5/5 | 00 | 6 | Vidutinė | 0.7 |
-| Revolveris, vidutinis | Revolveris | 20 | 1D8 | 1 | Impalas | 25 | 1H | 12 | Ne | 7/5 | 00 | 6 | Vidutinė | 1.0 |
-| Šautuvas, atakos | Šautuvas | 25 | 2D6+2 | 2 ar serija | Impalas | 90 | 2H | 12 | Ne | 10/5 | 00 | 30 | Brangi | 3.5 |
-| Šautuvas, užrakinamas | Šautuvas | 25 | 2D6+4 | ½ | Impalas | 110 | 2H | 12 | Ne | 7/5 | 00 | 5 | Vidutinė | 3.0 |
-| Šautuvas, dramblių | Šautuvas | 15 | 3D6+4 | 1 arba 2 | Impalas | 100 | 2H | 12 | Ne | 13/5 | 00 | 2 | Vidutinė | 4.5 |
-| Muškietė | Šautuvas | 25 | 1D10+4 | ¼ | Impalas | 60 | 2H | 12 | Ne | 9/5 | 95-00 | 1 | Vidutinė | 3.5 |
-| Šautuvas, snaiperinis | Šautuvas | 204 | 2D10+4 | 1 | Impalas | 2505 | 2H | 10 | Ne | 12/7 | 98-00 | 11 | Brangi | 4.0 |
-| Šautuvas, sportinis | Šautuvas | 25 | 2D6 | 1 | Impalas | 80 | 2H | 12 | Ne | 7/5 | 00 | 6 | Vidutinė | 3.0 |
-| Šautuvas, automatinis | Šautuvas | 30 | 4D6/2D6/ 1D66 | 1 arba 2 | Impalas | 10/20/50 | 2H | 14 | Ne | 11/5 | 00 | 8 | Brangi | 4.0 |
-| Šautuvas, dvivamzdis | Šautuvas | 30 | 4D6/2D6/ 1D66 | 1 arba 2 | Impalas | 10/20/50 | 2H | 12 | Ne | 9/5 | 00 | 2 | Vidutinė | 3.5 |
-| Šautuvas, nupjautas | Šautuvas | 30 | 4D6/1D67 | 1 arba 2 | Impalas | 5/20/— | 1H | 14 | Ne | 9/5 | 00 | 1 arba 2 | Vidutinė | 2.0 |
-| Šautuvas, sportinis | Šautuvas | 30 | 4D6/2D6/ 1D66 | 1 | Impalas | 10/20/50 | 2H | 10 | Ne | 7/5 | 00 | 5 | Vidutinė | 3.0 |
-| Purškiklis, cheminis | Kita | 25 | Special8 | 1 | — | 2 | 1H | 2 | Ne | 3/7 | 91-00 | 6 | Vidutinė | 0.2 |
-| Tazeris, smiginis | Kita | 20 | Special1 | ½ | — | DEX | 1H | 8 | Ne | 3/7 | 95-00 | 1 | Brangi | 0.5 |
+| Liepsnosvaidis | Kitas | 05 | 2D6+ugnis3 | 1 | — | 25 | 2R | 6 | Ne | 10/8 | 93–00 | 6 | Brangi | 8.0 |
+| Kulkosvaidis | Kulkosvaid. | 15 | 2D6+4 | 1, 3, ar ser. | Persmeigimas | 90 | 2R | 11 | Ne | 9/5 | 00 | 40 | Brangi | 3.0 |
+| Mini-kulkosvaidis | Kulkosvaid. | 15 | 2D6+4 | 33 | Persmeigimas | 400 | 2R | 14 | Ne | 16/12 | 98–00 | 4 000 | Brangi | 6.0 |
+| Pistoletas-kulksv. | Pistoletas-kulksv. | 15 | 1D8 | 2 ar ser. | Persmeigimas | 40 | 1R arba 2R | 8 | Ne | 9/6 | 98–00 | 32 | Brangi | 2.0 |
+| Pistoletas, Derringer | Pistoletas | 20 | 1D6 | 1 | Persmeigimas | 3 | 1R | 5 | Ne | 5/5 | 00 | 1 arba 2 | Vidutinė | 0.3 |
+| Pistoletas, titn. | Pistoletas | 20 | 1D6+1 | ¼ | Persmeigimas | 10 | 1R | 8 | Ne | 7/5 | 95–00 | 1 | Vidutinė | 1.0 |
+| Pistoletas, sunkus | Pistoletas | 20 | 1D10+2 | 1 | Persmeigimas | 15 | 1R | 8 | Ne | 11/7 | 00 | 8 | Vidutinė | 1.5 |
+| Pistoletas, lengvas | Pistoletas | 20 | 1D6 | 3 | Persmeigimas | 10 | 1R | 6 | Ne | 5/5 | 00 | 8 | Vidutinė | 0.7 |
+| Pistoletas, vidut. | Pistoletas | 20 | 1D8 | 2 | Persmeigimas | 20 | 1R | 8 | Ne | 7/5 | 98–00 | 12 | Vidutinė | 1.0 |
+| Revolveris, sunkus | Revolveris | 20 | 1D10+2 | 1 | Persmeigimas | 20 | 1R | 14 | Ne | 11/5 | 00 | 6 | Vidutinė | 1.5 |
+| Revolveris, lengvas | Revolveris | 20 | 1D6 | 2 | Persmeigimas | 15 | 1R | 10 | Ne | 5/5 | 00 | 6 | Vidutinė | 0.7 |
+| Revolveris, vidut. | Revolveris | 20 | 1D8 | 1 | Persmeigimas | 25 | 1R | 12 | Ne | 7/5 | 00 | 6 | Vidutinė | 1.0 |
+| Šautuvas, atakos | Šautuvas | 25 | 2D6+2 | 2 ar ser. | Persmeigimas | 90 | 2R | 12 | Ne | 10/5 | 00 | 30 | Brangi | 3.5 |
+| Šautuvas, slankiojantis | Šautuvas | 25 | 2D6+4 | ½ | Persmeigimas | 110 | 2R | 12 | Ne | 7/5 | 00 | 5 | Vidutinė | 3.0 |
+| Šautuvas, dramblinis | Šautuvas | 15 | 3D6+4 | 1 arba 2 | Persmeigimas | 100 | 2R | 12 | Ne | 13/5 | 00 | 2 | Vidutinė | 4.5 |
+| Mušketa | Šautuvas | 25 | 1D10+4 | ¼ | Persmeigimas | 60 | 2R | 12 | Ne | 9/5 | 95–00 | 1 | Vidutinė | 3.5 |
+| Šautuvas, snaiperio | Šautuvas | 204 | 2D10+4 | 1 | Persmeigimas | 2505 | 2R | 10 | Ne | 12/7 | 98–00 | 11 | Brangi | 4.0 |
+| Šautuvas, sportinis | Šautuvas | 25 | 2D6 | 1 | Persmeigimas | 80 | 2R | 12 | Ne | 7/5 | 00 | 6 | Vidutinė | 3.0 |
+| Šautuvas, autom. | Šratinis | 30 | 4D6/2D6/ 1D66 | 1 arba 2 | Persmeigimas | 10/20/50 | 2R | 14 | Ne | 11/5 | 00 | 8 | Brangi | 4.0 |
+| Šautuvas, dvivamzdis | Šratinis | 30 | 4D6/2D6/ 1D66 | 1 arba 2 | Persmeigimas | 10/20/50 | 2R | 12 | Ne | 9/5 | 00 | 2 | Vidutinė | 3.5 |
+| Šautuvas, nupjautas | Šratinis | 30 | 4D6/1D67 | 1 arba 2 | Persmeigimas | 5/20/— | 1R | 14 | Ne | 9/5 | 00 | 1 arba 2 | Vidutinė | 2.0 |
+| Šautuvas, sportinis | Šratinis | 30 | 4D6/2D6/ 1D66 | 1 | Persmeigimas | 10/20/50 | 2R | 10 | Ne | 7/5 | 00 | 5 | Vidutinė | 3.0 |
+| Purškiklis, cheminis | Kitas | 25 | Spec.8 | 1 | — | 2 | 1R | 2 | Ne | 3/7 | 91–00 | 6 | Vidutinė | 0.2 |
+| Tazeris, strėlinis | Kitas | 20 | Spec.1 | ½ | — | VIK | 1R | 8 | Ne | 3/7 | 95–00 | 1 | Brangi | 0.5 |
 
-1. Apsvaigina taikinį (žr. **Apsvaiginimas**).
-2. Daugelis modernių šaunamųjų ginklų turi šaudymo serijomis galimybes (žr. **Autofire**).
-3. Jei į taikinį pataiko liepsnosvaidis, jis užsidega ir gauna 1D6+2 taškų žalos per raundą papildomai, kol ugnis užgesinama (žr. **Ugnis ir karštis**).
-4. Snaiperiniai šautuvai paprastai aprūpinti kojomis, dvigubinant tikimybę; be kojų (ar panašaus stabilizatoriaus), modifikuokite bazinį šansą –10 %.
-5. Snaiperiniai šautuvai paprastai aprūpinti teleskopiniais taikikliais, kurie padvigubina jų efektyvų nuotolį; be taikiklio, nuotolis yra 125 metrai.
-6. Šautuvai daro žalą pagal nuotolį; pirmas padidėjimas yra pirmas žalos kauliukas, antras – antras ir t.t.
-7. Šautuvai daro žalą pagal nuotolį; pirmas padidėjimas yra pirmas žalos kauliukas, antras – antras ir t.t. Nupjauti šautuvai nėra efektyvūs toliau nei 20 jardų.
-8. Cheminis purškiklis yra mažo POT kontakto nuodai (žr. **Nuodai**). Pavyzdinis cheminio purškiklio tipas gali turėti 2D6+12 POT, greitą poveikį ir sukelti aklumą, jei taikinys nepraėja pasipriešinimo metimo prieš CON. Sunkiau šaudyti į taikinio akis, bet Lengva (Easy) iš artimo nuotolio, todėl tikimybė nepasikeičia.
+1. Apstulbina taikinį (žr. **Apstulbinimas**).
+2. Dauguma modernių šaunamųjų ginklų turi serijinio šaudymo galimybę (žr. **Autofire**).
+3. Jei taikinį pataiko liepsnosvaidis, jis užsidega ir gauna 1D6+2 taškų per ratą papildomos žalos, kol ugnis užgesinama (žr. **Ugnis ir karštis**).
+4. Snaiperio šautuvai paprastai aprūpinti kojelėmis (bipod), kurios padvigubina tikimybę; be kojelių (ar panašaus stabilizatoriaus), modifikuokite bazinę tikimybę -10 %.
+5. Snaiperio šautuvai paprastai aprūpinti optiniais taikikliais, kurie padvigubina efektyvųjį nuotolį; be taikiklio nuotolis yra 125 metrai.
+6. Šratiniai šautuvai žaloja pagal nuotolį; pirmasis intervalas yra pirmieji žalos kauliukai, antrasis – antrieji ir t. t.
+7. Šratiniai šautuvai žaloja pagal nuotolį; pirmasis intervalas yra pirmieji žalos kauliukai, antrasis – antrieji ir t. t. Nupjauti šautuvai nėra efektyvūs toliau nei 20 jardų.
+8. Cheminis purškiklis yra mažo POT kontakto nuodai (žr. **Nuodai**). Cheminio purškiklio pavyzdys gali turėti 2D6+12 POT, akimirksniu veikiantį poveikį ir sukelti aklumą, jei taikinys nepraeina atsparumo metimo vs. IŠT. Sudėtinga pataikyti į taikinio akis, bet lengva (Easy) iš artimo atstumo, todėl tikimybė nemodifikuojama.
 
 ##### Pažangūs artimos kovos ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuotolis | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirvis, vibro- | Ietiniai | 10% | 2D8+4+dm | 1 | Kraujavimas | Vidutinis | 2H | 20 | Taip | 11/5 | 98-00 | Vidutinė | 3.0 |
-| Peilis, vibro- | Durklas | 25% | 2D4+2+dm | 1 | Kraujavimas | Trumpas | 1H | 16 | Taip | 7/7 | 99-00 | Vidutinė | 0.5 |
-| Ietis, smūginė | Lazda | 15% | 1D6+dm+stun1 | 1 | Atmetimas | Ilgas | 2H | 18 | Taip | 9/5 | 98-00 | Vidutinė | 2.5 |
-| Kardas, energetinis | Kardas | 10% | 2D10+dm2 | 1 | Impalas | Vidutinis | 1H | 30 | Taip | 11/15 | 99-00 | Neįkainojama | 1.0 |
-| Kardas, monofilamentinis | Kardas | 05% | 3D122 | 1 | Kraujavimas | Vidutinis | 1H | 12 | Ne | 5/15 | 91-003 | Brangi | 0.5 |
-| Kardas, vibro- | Kardas | 20% | 2D6+3+dm | 1 | Kraujavimas | Vidutinis | 1H | 18 | Taip | 9/7 | 97-00 | Brangi | 1.5 |
-| Botagas, smūginis | Kita | 05% | 1+½db+stun1 | 1 | Supainioti | Ilgas | 1H | 10 | Ne | 7/9 | 97-00 | Vidutinė | 1.0 |
+| Kirvis, vibro- | Ietis (pole) | 10% | 2D8+4+dm | 1 | Kraujavimas | Vidutinis | 2R | 20 | Taip | 11/5 | 98–00 | Vidutinė | 3.0 |
+| Peilis, vibro- | Durklas | 25% | 2D4+2+dm | 1 | Kraujavimas | Trumpas | 1R | 16 | Taip | 7/7 | 99–00 | Vidutinė | 0.5 |
+| Ietis, stulbinanti | Lazda | 15% | 1D6+dm+stulb.1 | 1 | Atstūmimas | Ilgas | 2R | 18 | Taip | 9/5 | 98–00 | Vidutinė | 2.5 |
+| Kardas, energijos | Kardas | 10% | 2D10+dm2 | 1 | Persmeigimas | Vidutinis | 1R | 30 | Taip | 11/15 | 99–00 | Nepakart. | 1.0 |
+| Kardas, monofilament. | Kardas | 05% | 3D122 | 1 | Kraujavimas | Vidutinis | 1R | 12 | Ne | 5/15 | 91–003 | Brangi | 0.5 |
+| Kardas, vibro- | Kardas | 20% | 2D6+3+dm | 1 | Kraujavimas | Vidutinis | 1R | 18 | Taip | 9/7 | 97–00 | Brangi | 1.5 |
+| Botagas, šoko | Kitas | 05% | 1+½db+stulb.1 | 1 | Įpainiojimas | Ilgas | 1R | 10 | Ne | 7/9 | 97-00 | Vidutinė | 1.0 |
 
 ##### Pažangūs nuotoliniai ginklai
 
-| Ginklas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc | RF |
+| Ginklas | Įgūdis | Bazė | Žala | Atak. | Specialus | Nuot. | Rankos | HP | Blok. | JĖG/VIK | Ged. | Vertė | DYD/Apk. | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Pistoletas, blasteris | Pist. en. | 15% | 1D8+2 | 2 | Impalas | 15 | 1H | 14 | Ne | 7/5 | 99-00 | 30 | Vidutinė | 1.0 |
-| Pistoletas, dezintegr. | Pist. en. | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Ne | 7/5 | 96-00 | 10 | Brangi | 1.0 |
-| Pistoletas, EM impulsas | Pist. en. | 20% | 2D6 vs. tech5 | 1 | — | 15 | 1H | 12 | Ne | 7/5 | 98-00 | 20 | Vidutinė | 1.0 |
-| Pistoletas, šratinis | Pist. en. | 05% | 2D46 | 1 ar serija7 | Impalas | 15 | 1H | 14 | Ne | 5/7 | 99-00 | 6 | Vidutinė | 0.8 |
-| Pistoletas, lazerinis | Pist. en. | 20% | 1D8 | 3 | Impalas | 30 | 1H | 14 | Ne | 5/5 | 99-00 | 20 | Vidutinė | 1.0 |
-| Pistoletas, plazmos | Pist. en. | 15% | 2D10+2 | 1 | Impalas | 20 | 1H | 18 | Ne | 7/5 | 98-00 | 12 | Brangi | 1.2 |
-| Pistoletas, smūginis | Pist. en. | 15% | 2D4 | 1 | Atmetimas | 15 | 1H | 12 | Ne | 5/5 | 98-00 | 12 | Vidutinė | 1.0 |
-| Pistoletas, apsvaiginimo | Pist. en. | 25% | 2D6 stun2 | 1 | Atmetimas | 15 | 1H | 16 | Ne | 5/5 | 00 | 12 | Vidutinė | 1.0 |
-| Šautuvas, blasteris | Šaut. en. | 10% | 2D8+3 | 2 | Impalas | 60 | 2H | 20 | Ne | 9/5 | 99-00 | 20 | Vidutinė | 1.0 |
-| Šautuvas, dezintegr. | Šaut. en. | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Ne | 9/7 | 96-00 | 10 | Brangi | 2.0 |
-| Šautuvas, EM impulsas | Šaut. en. | 25% | 3D8 vs. tech5 | 1 | — | 75 | 2H | 18 | Ne | 7/5 | 98-00 | 12 | Vidutinė | 2.0 |
-| Šautuvas, lazerinis | Šaut. en. | 15% | 2D8 | 2 | Impalas | 100 | 2H | 20 | Ne | 7/7 | 99-00 | 20 | Vidutinė | 1.5 |
-| Šautuvas, plazmos | Šaut. en. | 10% | 2D10+4 | 1 | Impalas | 70 | 2H | 18 | Ne | 9/7 | 98-00 | 16 | Brangi | 2.0 |
-| Šautuvas, smūginis | Šaut. en. | 10% | 3D8 | 1 | Atmetimas | 50 | 2H | 18 | Ne | 9/7 | 98-00 | 12 | Vidutinė | 1.5 |
-| Šautuvas, garsinis | Šaut. en. | 10% | 1D3+28 | 1 | Atmetimas | 50 | 2H | 16 | Ne | 7/7 | 97-00 | 36 | Vidutinė | 2.0 |
-| Šautuvas, apsvaiginimo | Šaut. en. | 20% | 2D8 stun9 | 1 | Atmetimas | 50 | 2H | 22 | Ne | 7/5 | 00 | 24 | Vidutinė | 1.5 |
+| Pistoletas, blasteris | Pistolet. (energ.) | 15% | 1D8+2 | 2 | Persmeigimas | 15 | 1R | 14 | Ne | 7/5 | 99–00 | 30 | Vidutinė | 1.0 |
+| Pistoletas, dezintegr. | Pistolet. (energ.) | 05% | 3D4+1 | 1 | — | 10 | 1R | 12 | Ne | 7/5 | 96–00 | 10 | Brangi | 1.0 |
+| Pistoletas, EM impulsas | Pistolet. (energ.) | 20% | 2D6 vs. tech5 | 1 | — | 15 | 1R | 12 | Ne | 7/5 | 98–00 | 20 | Vidutinė | 1.0 |
+| Pistoletas, flechet. | Pistolet. (energ.) | 05% | 2D46 | 1 ar ser.7 | Persmeigimas | 15 | 1R | 14 | Ne | 5/7 | 99–00 | 6 | Vidutinė | 0.8 |
+| Pistoletas, lazerinis | Pistolet. (energ.) | 20% | 1D8 | 3 | Persmeigimas | 30 | 1R | 14 | Ne | 5/5 | 99–00 | 20 | Vidutinė | 1.0 |
+| Pistoletas, plazminis | Pistolet. (energ.) | 15% | 2D10+2 | 1 | Persmeigimas | 20 | 1R | 18 | Ne | 7/5 | 98–00 | 12 | Brangi | 1.2 |
+| Pistoletas, šoko | Pistolet. (energ.) | 15% | 2D4 | 1 | Atstūmimas | 15 | 1R | 12 | Ne | 5/5 | 98–00 | 12 | Vidutinė | 1.0 |
+| Pistoletas, stulbinantis | Pistolet. (energ.) | 25% | 2D6 stulb.2 | 1 | Atstūmimas | 15 | 1R | 16 | Ne | 5/5 | 00 | 12 | Vidutinė | 1.0 |
+| Šautuvas, blasteris | Šautuvas (energ.) | 10% | 2D8+3 | 2 | Persmeigimas | 60 | 2R | 20 | Ne | 9/5 | 99–00 | 20 | Vidutinė | 1.0 |
+| Šautuvas, dezintegr. | Šautuvas (energ.) | 05% | 3D6+2 | 1 | — | 30 | 2R | 18 | Ne | 9/7 | 96–00 | 10 | Brangi | 2.0 |
+| Šautuvas, EM impulsas | Šautuvas (energ.) | 25% | 3D8 vs. tech5 | 1 | — | 75 | 2R | 18 | Ne | 7/5 | 98–00 | 12 | Vidutinė | 2.0 |
+| Šautuvas, lazerinis | Šautuvas (energ.) | 15% | 2D8 | 2 | Persmeigimas | 100 | 2R | 20 | Ne | 7/7 | 99–00 | 20 | Vidutinė | 1.5 |
+| Šautuvas, plazminis | Šautuvas (energ.) | 10% | 2D10+4 | 1 | Persmeigimas | 70 | 2R | 18 | Ne | 9/7 | 98–00 | 16 | Brangi | 2.0 |
+| Šautuvas, šoko | Šautuvas (energ.) | 10% | 3D8 | 1 | Atstūmimas | 50 | 2R | 18 | Ne | 9/7 | 98–00 | 12 | Vidutinė | 1.5 |
+| Šautuvas, garsinis | Šautuvas (energ.) | 10% | 1D3+28 | 1 | Atstūmimas | 50 | 2R | 16 | Ne | 7/7 | 97–00 | 36 | Vidutinė | 2.0 |
+| Šautuvas, stulbinantis | Šautuvas (energ.) | 20% | 2D8 stulb.9 | 1 | Atstūmimas | 50 | 2R | 22 | Ne | 7/5 | 00 | 24 | Vidutinė | 1.5 |
 
-1. Apsvaigina taikinį (žr. **Apsvaiginimas**).
-2. Taikinio efektyvi šarvų vertė prieš šį ginklą yra pusė (suapvalinta į viršų).
-3. Jei fumble padarote ataką monofilamentiniu kardu, atlikite Sunkų (Difficult) Agility metimą, kad išvengtumėte savęs sužeidimo. Jei nepavyksta, jūsų ataka pataiko į jus, be metimo į artimos kovos ginklo fumble lentelę. Žala ignoruoja ½ šarvų vertės (suapvalinta į viršų).
-4. Daugelis nuotolinių ginklų turi šaudymo serijomis galimybes (žr. **Autofire**).
-5. Jei taikinys yra robotas, mašina arba naudoja elektromagnetinę energiją, ridenkite žalą ir atlikite pasipriešinimo metimą prieš taikinio CON. Jei sėkminga, įrenginys apsvaiginamas 1D3+1 raundams (žr. **Apsvaiginimas**). Jei žala didesnė už taikinio hit pointus, jis „praranda sąmonę“. Žala nuo EMP ginklų yra laikina, o prarastus hit pointus galima atstatyti Remonto (Repair) metimu.
-6. Prieš priešą su kietais šarvais (metalas, plastikas ar plokštės), šratinis pistoletas daro tik ½ žalos (suapvalinta į viršų).
-7. Šratinis pistoletas šaudo šratų grupes, arba vieną „šūvį“, arba ilgą seriją, ištuštinančią apkabą. Kiekvienas šūvis yra viena ataka, daranti 2D4 žalą.
-8. Garsinis šautuvas žaloja gyvus taikinius kiekvieną kovos raundą, kai sėkmingai pataiko. Prieš negyvą taikinį žala per raundą ridenama pasipriešinimo metime prieš taikinio CON, šarvų vertę arba hit pointus (GV pasirinkimas). Jei taikinys pralaimi, jis sutrupa arba yra sugadintas ir nefunkcionalus.
-9. Ridenkite žalą ir pitinkite prieš taikinio CON pasipriešinimo metime. Jei taikinys sėkmingas, jis gauna minimalią žalą (2) vietoj ridenamos žalos. Jei taikinys pralaimi, jis apsvaiginamas 1D3+1 raundams (žr. **Apsvaiginimas**).
+1. Meskite žalos kauliukus ir lyginkite su taikinio IŠT atsparumo metime. Jei taikinys pralaimi, jis apstulbinamas 1D3+1 ratui (žr. **Apstulbinimas**).
+2. Taikinio efektyvioji šarvų vertė prieš šį ginklą yra perpus mažesnė (apvalinkite į viršų).
+3. Jei nevykusiai atakuojate monofilamentiniu kardu, atlikite sudėtingą (Difficult) Vikrumo metimą, kad išvengtumėte savęs sužeidimo. Jei nepavyksta, jūsų ataka pataiko į jus, papildomai prie metimo artimos kovos ginklų fumblių lentelėje. Žala ignoruoja ½ šarvų vertės (apvalinkite į viršų).
+4. Dauguma nuotolinių ginklų turi serijinio šaudymo galimybę (žr. **Autofire**).
+5. Jei taikinys yra robotas, mechanizmas arba naudoja elektromagnetinę energiją, meskite žalą ir atlikite atsparumo metimą vs. taikinio IŠT. Jei sėkminga, prietaisas apstulbinamas 1D3+1 ratui (žr. **Apstulbinimas**). Jei žala didesnė nei taikinio pataikymo taškai, jis praranda sąmonę. Žala nuo EMP ginklų yra laikina, o prarasti pataikymo taškai gali būti atkurti Taisymo (Repair) metimu.
+6. Prieš priešą su tvirtais šarvais (metaliniais, plastikiniais ar plokštiniais), flechečių pistoletas daro tik ½ žalos (apvalinkite į viršų).
+7. Flechečių pistoletas šaudo flechečių spiečiais – arba vienas „šūvis“, arba ilga serija, ištuštinanti dėtuvę. Kiekvienas šūvis yra atskira ataka, padaranti 2D4 žalą.
+8. Garsinis šautuvas žaloja gyvus taikinius kiekviename kovos rate, kai sėkmingai juos kliudo. Prieš negyvą taikinį, žala per ratą lyginama atsparumo metime vs. taikinio IŠT, šarvų vertę ar pataikymo taškus (žaidimo meistro pasirinkimas). Jei taikinys pralaimi, jis sudūžta arba tampa pažeistas ir neveikiantis.
+9. Meskite žalą ir lyginkite su taikinio IŠT atsparumo metime. Jei taikinys sėkmingas, jis patiria minimalią žalą (2) vietoj išmestos žalos. Jei taikinys pralaimi, jis apstulbinamas 1D3+1 ratui (žr. **Apstulbinimas**).
 
-> ### Papildomos taisyklės šaunamiesiems ginklams
+> ### Šaunamųjų ginklų taisyklės
 > 
-> Septintas skyrius: Papildomos taisyklės apima daugelį šaunamųjų ginklų sąlygų, tokių kaip automatinė ugnis, nuotolis ir kt. Toliau pateikiamos papildomos naudojimo taisyklės. Jūsų GV gali pasirinkti leisti joms apimti papildomus nuotolinių ginklų tipus, pavyzdžiui, energijos ar lazerinius ginklus.
+> Septintame skyriuje: „Spot Rules“ aptariamos daugelis šaunamųjų ginklų sąlygų, tokios kaip automatinis šaudymas, nuotolis ir kt. Toliau pateikiamos papildomos naudojimo taisyklės. Žaidimo meistras gali leisti jas taikyti ir kitiems nuotoliniams ginklams, pavyzdžiui, energiniams ar lazeriniams.
 > 
 > #### Šarvai ir šaunamieji ginklai
 > 
-> Ankstesnių laikotarpių šarvų tipai yra palyginti neefektyvūs prieš vėlesnių laikotarpių ginklus; riterio šarvai suteikia menką apsaugą nuo šaunamųjų ginklų. Bet kokie primityvūs, senoviniai ar viduramžių šarvai turi tik pusę savo vertės prieš šaunamuosius ginklus (suapvalinta į viršų). Tas pats pasakytina apie modernius šarvus prieš pažangią ginkluotę. Pažangūs šarvai apsaugo visu pajėgumu nuo visų ginklų. Apibendrinant:
+> Ankstesnių laikotarpių šarvai yra palyginti neefektyvūs prieš vėlesnių laikotarpių ginklus; riterio šarvai menkai apsaugo nuo šaunamųjų ginklų. Visi primityvūs, senoviniai ar viduramžių šarvai turi tik pusę savo vertės prieš šaunamuosius ginklus (apvalinant į viršų). Tas pats galioja moderniems šarvams prieš pažangius ginklus. Pažangūs šarvai apsaugo visu savo stiprumu nuo visų ginklų. Trumpai tariant:
 > 
-> * **Primityvūs ar senoviniai** šarvai siūlo tik ½ apsaugos nuo didelio greičio ar energijos ginklų (suapvalinta į viršų).
-> * **Modernūs** šarvai siūlo ½ apsaugos nuo energijos ginkluotės (suapvalinta į viršų).
-> * **Pažangūs** šarvai siūlo visą apsaugą nuo visų puolimo formų. Jūsų GV gali nuspręsti, kad pažangūs šarvai apsaugo tik ½ savo šarvų vertės nuo energijos ginklų (suapvalinta į viršų).
+> * **Primityvūs arba senoviniai** šarvai siūlo tik ½ apsaugos nuo didelio greičio ar energinių ginklų (apvalinti į viršų).
 > 
-> Jei šarvų vertė nustatoma atsitiktinai, ridenkite šarvų apsaugą, pritaikykite modifikatorius, tada padalinkite pusiau, suapvalindami į viršų. Kai kurie šarvai jau nurodo skirtumą tarp apsaugos nuo artimos kovos ginklų ir didelio greičio ginklų – jų nereikia mažinti du kartus. Kai kurie monstrų tipai taip pat gali būti atsparūs šaunamiesiems ginklams, tai pažymėta jų aprašymuose Vienuoliktame skyriuje: Padarai.
+> * **Modernūs** šarvai siūlo ½ apsaugos nuo energinių ginklų (apvalinti į viršų).
+> 
+> * **Pažangūs** šarvai siūlo pilną apsaugą nuo visų atakų formų. Žaidimo meistras gali nustatyti, kad pažangūs šarvai prieš energinius ginklus apsaugo tik ½ savo vertės (apvalinti į viršų).
+> 
+> Jei šarvų vertė nustatoma atsitiktinai, meskite kauliukus šarvų apsaugai, pritaikykite modifikatorius ir tada padalinkite pusiau, apvalindami į viršų. Kai kurie šarvai jau nurodo apsaugos skirtumą tarp rankinių ginklų ir didelio greičio ginklų – jų nereikia mažinti du kartus. Kai kurių tipų monstrai taip pat gali būti atsparūs šaunamiesiems ginklams, tai nurodyta jų aprašymuose Vienuoliktame skyriuje: „Padarai“.
 > 
 > #### Užtaisyti revolveriai
 > 
-> Kamera tiesiai po revolverio gaiduku dažnai paliekama tuščia siekiant išvengti atsitiktinio iššovimo. Jei laikomasi šios praktikos, sumažinkite amunicijos talpą 1. Norėdami pabrėžti pavojų nešiojant pilnai užtaisytą revolverį, jūsų GV gali reikalauti, kad jūsų veikėjas atliktų sėkmingą Sėkmės (Luck) metimą, kad išvengtų atsitiktinio iššovimo, jei jūsų veikėjas griūva ar yra stipriai sujudinamas, galimai suaktyvinant ginklą. Jei Sėkmės metimas sėkmingas, revolveris neiššauna. Jei nepavyksta, revolveris iššauna, ir jūsų veikėjas bei visi aplink jį esantys asmenys privalo atlikti Sėkmės metimą, kad išvengtų atsitiktinės kulkos. Jūsų GV turėtų nustatyti, ką ta „draugiška ugnis“ kliudo. Jei pradinis Sėkmės metimas yra nesėkmė (fumble), kulka kliudo jūsų veikėjui ir padaro įprastą žalą.
+> Kamera tiesiai po revolverio gaiduku dažnai paliekama tuščia, siekiant išvengti netyčinio šūvio. Jei laikomasi šios praktikos, sumažinkite šaudmenų talpą 1. Norėdamas pabrėžti pavojų nešiojant pilnai užtaisytą revolverį, žaidimo meistras gali reikalauti, kad jūsų veikėjas atliktų sėkmingą Sėkmės (Luck) metimą, kad išvengtų netyčinio šūvio, jei veikėjas pargriūva ar yra smarkiai pastumiamas. Jei Sėkmės metimas sėkmingas, revolveris neiššauna. Jei nepavyksta, revolveris iššauna, ir jūsų veikėjas bei visi aplinkiniai turi atlikti Sėkmės metimą, kad išvengtų atsitiktinės kulkos. Žaidimo meistras turi nustatyti, ką kliudo draugiška ugnis. Jei pradinis Sėkmės metimas yra fumblys, kulka kliudo jūsų veikėją ir padaro įprastą žalą.
 > 
 > #### Gedimai
 > 
-> Jei jūsų veikėjo atakos metimas lygus arba didesnis už ginklo gedimo skaičių, ginklas sugenda ir nebešaus, kol nebus sutvarkytas.
+> Jei jūsų veikėjo atakos metimas yra lygus arba didesnis už ginklo gedimo numerį, ginklas sugenda ir nešaudo, kol su juo nebus susidorota.
 > 
-> * Jei ginklas yra revolveris, užrakinamas šautuvas arba dvivamzdis šautuvas, problema yra tik netikęs šovinys.
-> * Jei ginklas yra automatinis, pusiau automatinis, siurbiamas ar svirtinis, gedimas yra užstrigimas.
+> * Jei ginklas yra revolveris, slankiojantis šautuvas arba dvivamzdis šautuvas, problema yra tik „tuščias šovinys“.
 > 
-> Netikėtą šovinį galima pašalinti ar išmesti per vieną kovos raundą. Užstrigimo taisymas trunka 1D6 kovos raundus ir reikalauja sėkmingo šaunamųjų ginklų įgūdžio arba Remonto metimo – priklausomai nuo to, kas aukštesnis. Jūsų veikėjas gali mėginti, kol pavyks, kiekvienam mėginimui prireikiant papildomų 1D6 kovos raundų. Metimas 96–00 šiame mėginime reiškia, kad šaunamasis ginklas tampa nepataisomai sugadintas ir netinka įprastam remontui.
+> * Jei ginklas yra automatinis, pusiau automatinis, siurbiamojo ar svirtinio užtaisymo – gedimas yra užstrigimas.
 > 
-> Nesėkmė (fumble) taip pat gali sutapti su gedimu. Jei rezultatai prieštaringi, jūsų GV turėtų juos spręsti praktiškiausia tvarka, taikant abu rezultatus, kai tik įmanoma. Ginklai, išskyrus šaunamuosius, taip pat gali sugesti ir gali būti išvalyti tokiu pat būdu. Energijos ginklams „netikęs šovinys“ greičiausiai yra nepilnas arba netinkamas įkrovimas.
+> Tuščias šovinys gali būti perstumtas arba išmestas per vieną kovos ratą. Užstrigimo taisymas užtrunka 1D6 kovos ratus ir reikalauja sėkmingo atitinkamo šaunamojo ginklo įgūdžio arba Taisymo metimo (kuris aukštesnis). Jūsų veikėjas gali bandyti, kol pavyks, kiekvienas bandymas užtrunka papildomus 1D6 kovos ratus. 96–00 metimas bandymo metu reiškia, kad šaunamasis ginklas tampa negrįžtamai sugadintas ir netinkamas paprastam remontui.
+> 
+> Fumblys taip pat gali sutapti su gedimu. Jei abu rezultatai prieštaringi, žaidimo meistras turėtų juos spręsti praktiškiausia tvarka, pritaikydamas abu, jei įmanoma. Ginklai, kurie nėra šaunamieji, taip pat gali sugesti ir būti sutvarkyti tokiu pat būdu. Energiniams ginklams „tuščias šovinys“ greičiausiai yra nepilnas arba netinkamas įkrovimas.
 > 
 > #### Šaunamųjų ginklų užtaisymas
 > 
-> Užtrunka vieną kovos raundą užtaisyti dvi tūtas ar kulkas į bet kokį pistoletą, šautuvą ar lygiavamzdį šautuvą, ir vieną kovos raundą pakeisti apkabą, energijos elementą ar baterijų paketą. Kulkosvaidžio juostos keitimas trunka du kovos raundus. Jei laikas spaudžia, įmanoma įdėti vieną šovinį į šaunamąjį ginklą ir iššauti vieną kartą su ½ jūsų veikėjo normalaus DEX rango (suapvalinti į viršų).
+> Vienam kovos ratui reikia užtaisyti du sviedinius ar kulkas į bet kokį pistoletą, šautuvą ar šratinį šautuvą, ir vienas kovos ratas skiriamas pakeisti dėtuvę, energijos elementą ar bateriją. Kulkosvaidžio juostos keitimas užtrunka du kovos ratus. Jei laikas spaudžia, įmanoma įdėti vieną šovinį į ginklą ir iššauti vieną kartą su ½ jūsų veikėjo normalaus VIK rango (apvalinti į viršų).
 > 
-> #### Netaikyti šūviai
+> #### Netaiklūs šūviai
 > 
-> Atakų per raundą įrašas (**Attk**) nuotoliniams ginklams daro prielaidą, kad jūsų veikėjas stengiasi pataikyti į taikinį tiesiogiai ir stengiasi nusitaikyti. Jei norite, kad jūsų veikėjas apipurkštų zoną šūviais, pavyzdžiui, teikiant dengiamąją ugnį, ir tikslumas nėra svarbus, galite padvigubinti ginklo atakų skaičių per raundą, bet pataikymo tikimybė sumažinama iki 1/5 jūsų veikėjo įgūdžio (lygu specialios sėkmės tikimybei, nors rezultatas yra įprasta sėkmė). Jei taikinių daugiau nei vienas, jūsų GV turėtų atsitiktinai nustatyti, kas yra kliudomas. Jūsų GV nuožiūra, jei jūsų veikėjas pasiruošęs, aprūpintas lazeriniu taikikliu ar lygiaverčiu prietaisu ir turi virš 60 % ginklo įgūdį, pataikymo tikimybė nėra modifikuojama.
+> Atakų per ratą įrašas (**Atak.**) nuotoliniams ginklams daro prielaidą, kad jūsų veikėjas bando pataikyti tiesiai į taikinį ir deda pastangas taikytis. Jei norite, kad jūsų veikėjas apšaudytų zoną, pavyzdžiui, teikiant dengiamąją ugnį, ir taiklumas nėra svarbus, galite padvigubinti ginklo atakų per ratą skaičių, bet tikimybė pataikyti sumažinama iki 1/5 jūsų veikėjo įgūdžio (lygu specialios sėkmės tikimybei, nors rezultatas yra normali sėkmė). Jei taikinių daugiau nei vienas, žaidimo meistras turėtų atsitiktinai nustatyti, kas yra kliudomas. Žaidimo meistro nuožiūra, jei jūsų veikėjas pasiruošęs, aprūpintas lazeriniu taikikliu ar lygiaverčiu prietaisu ir turi didesnį nei 60 % ginklo įgūdį, tikimybė pataikyti nemodifikuojama.
 
 ## Šarvai
 
-Pagrindiniame lygyje šarvai yra sukietinti drabužiai. Priklausomai nuo aplinkos, šarvai gaminami iš odos, metalo, plastiko ar jų derinio, ir dėvimi tam, kad tarp savęs ir pavojaus šaltinio būtų kažkas apsaugančio. Šarvai yra sunkesni už įprastus drabužius ir dažnai nepatogūs bei nepatogūs dėvėti. Jei jūsų veikėjas yra karys, jis tikriausiai bus patogesnis dėvėdamas šarvus nei vidutinis žmogus, nors dėvėti šarvus retai kada patogiau nei jų nedėvėti.
+Pagrindiniu lygiu šarvai yra sutvirtinti drabužiai. Priklausomai nuo aplinkos, šarvai gaminami iš odos, metalo, plastiko ar šių medžiagų derinio ir dėvimi tam, kad tarp savęs ir žalos šaltinio būtų apsauga. Šarvai yra sunkesni už įprastus drabužius ir dažnai nepatogūs bei nepatogiai dėvimi. Jei jūsų veikėjas karys, jam tikriausiai patogiau dėvėti šarvus nei vidutiniam asmeniui, nors šarvų dėvėjimas retai kada būna patogesnis už jų nedėvėjimą.
 
-Šiame skyriuje aprašyti šarvai klasifikuojami chronologiškai, nuorodai. Daugeliu atvejų ankstesnio laikotarpio šarvai yra prieinami vėlesniais laikotarpiais, todėl jūsų GV gali pasirinkti, kur šarvų prieinamumas baigiasi, ir leisti jūsų veikėjui prieigą prie ankstesnių tipų.
+Šiame skyriuje aprašyti šarvai, nuorodos tikslais, suskirstyti laisvai chronologine tvarka. Daugeliu atvejų ankstesnio laikotarpio šarvai prieinami vėlesnių laikotarpių žmonėms, todėl žaidimo meistras gali pasirinkti, kur šarvų prieinamumas baigiasi, ir leisti jūsų veikėjui prieigą prie ankstesnių tipų.
 
 Kiekvienas šarvų tipas turi šiuos atributus:
 
-* **Vardas:** Bendras pavadinimas.
-* **AV:** Šarvų vertė, apsaugos kiekis, kurį suteikia šarvai.
-* **Atsitiktinis AV (Random AV):** (Neprivaloma) Tai šarvų vertė, jei naudojamos atsitiktinės šarvų vertės.
-* **Svoris (Burden):** Šarvų nerangumas ar santykinė apkrova. Jūsų GV gali naudoti šią vertę su neprivaloma nuovargio sistema.
-* **ENC:** Ši vertė skirta vidutinio SIZ veikėjui (11–15). SIZ 6–10 padauginkite ENC vertę iš 0,8; SIZ 16–20 padauginkite iš 1,2; SIZ 21–25 padauginkite iš 1,4 ir t.t. (suapvalinkite į viršų).
-* **Įgūdžių modifikatorius:** Modifikatorius tam tikriems įgūdžiams ar įgūdžių kategorijoms dėvint šarvus, taip pat taikomas bet kokiam atitinkamam įgūdžiui.
-* **Tinka SIZ:** Paklaida, kurią gali apimti šarvų numatytasis SIZ, išreikšta teigiama arba neigiama verte.
-* **Laikas:** Kovos raundų skaičius, reikalingas šarvams apsirengti.
-* **Vietos (Locations):** (Neprivaloma) Jei naudojamos hit vietos, nurodomos šarvų dengiamos hit vietos.
-* **Vertė:** Šarvų kaina vidutinėje aplinkoje.
+* **Pavadinimas**: Bendras pavadinimas.
 
-Skirtingai nuo ginklų ir skydų, šarvai paprastai nepatiria žalos, nebent dėl aplinkos veiksnių. Šarvai sukurti gynybai; jie gali atlaikyti didelį smūgiavimą. Šarvų vertė niekada nemažinama per kovos metu patirtą žalą – vietoj to, bet koks šarvų vertės pasikeitimas turi kilti dėl kokio nors išskirtinio įvykio.
+* **ŠV**: Šarvų vertė, kiek šarvai apsaugo.
 
-### Šarvų aprašymai
+* **Atsitiktinė ŠV**: (Neprivaloma) Tai šarvų vertė, jei naudojamos atsitiktinės šarvų vertės.
 
-Šiame skyriuje aprašyti visi šarvų tipai abėcėlės tvarka.
+* **Svoris (Burden)**: Šarvų nepatogumas ar santykinė apkrova. Žaidimo meistras gali naudoti šią vertę su neprivaloma nuovargio sistema.
 
-**Adaptyvus tinklelis (Adaptive Mesh):** Šis aukštųjų technologijų audinys kietėja ir reaguoja į smūgius, tačiau kitu metu išlieka lankstus ir patogus. Dažniausiai dėvimas kaip kūno kostiumas, gali būti sluoksniuojamas po kitais šarvais.
+* **APK (ENC)**: Ši vertė skirta vidutinio DYD (11–15) veikėjui. DYD 6–10 atveju, padauginkite APK vertę iš 0,8; DYD 16–20 atveju padauginkite iš 1,2; DYD 21–25 atveju padauginkite iš 1,4 ir t. t. (apvalinkite į viršų).
 
-**Puolimo šarvai, lengvi:** Lengvi šarvai, naudojami kareivių apsisaugoti nuo artimos kovos ginklų, kietų sviedinių bei energijos ginklų. Pagaminti iš keramikos, lydinių arba smūgiams atsparių plastikų.
+* **Įgūdžių modifikatorius**: Modifikatorius tam tikriems įgūdžiams ar įgūdžių kategorijoms dėvint šarvus, taip pat taikomas bet kokiam tinkamam įgūdžiui.
 
-**Puolimo šarvai, standartiniai:** Sunkūs šarvai, skirti mūšiams pavojingose aplinkose. Pagaminti iš keramikos, lydinių arba atsparių plastikų, puolimo šarvai suteikia apsaugą nuo galvos iki kojų ir yra mėgstami kariuomenės.
+* **Tinka DYD**: Variacija, kurią numatytoji šarvų DYD gali atlaikyti nuo savo numatytojo DYD, išreikšta teigiama arba neigiama verte.
 
-**Puolimo šarvai (sunkūs), varomi energija (Powered):** Panašūs į standartinius puolimo šarvus, bet masyvesni ir su storesnėmis plokštėmis. Vidiniai servo-varikliai didina dėvėtojo jėgą. Kovotojai dėvintys varomus sunkius puolimo šarvus dažnai naudoja masinius ginklus. Rėmas priima modulinius patobulinimus (pvz., reaktyvinę kuprinę) ir yra hermetiškai užsandarintas nuo cheminių ginklų bei kosmoso vakuumo.
+* **Laikas**: Kiek kovos ratų užtrunka apsivilkti šarvus.
 
-**Puolimo šarvai (lengvi), varomi energija (Powered):** Panašūs į sunkiuosius varomus puolimo šarvus, bet lengvesni ir be priedų, tokių kaip hermetiškos sistemos.
+* **Vietos**: (Neprivaloma) Jei naudojamos pataikymo vietos, šarvų dengiamos vietos.
 
-**Balistinis audinys:** Pagamintas iš aramido pluošto, balistinio audinio šarvai suteikia vidutinę apsaugą nuo kulkų, nors ne tokią kaip neperšaunama liemenė. Paprastai dėvimi po gatvės drabužiais arba sukurti panašiais į įprastus drabužius.
+* **Vertė**: Šarvų kaina vidutinėje aplinkoje.
 
-**Neperšaunama liemenė, ankstyvoji:** Senesnis neperšaunamos liemenės variantas, sunkus ir nerangus, su sustorintomis metalinėmis plokštėmis segmentuotoje drobės liemenėje.
+Skirtingai nei ginklai ir skydai, šarvai paprastai nepatiria žalos, nebent dėl aplinkos veiksnių. Šarvai skirti gynybai; jie gali atlaikyti daug smūgių. Šarvų vertė niekada nemažėja dėl žalos kovoje – vietoj to, bet koks šarvų vertės pasikeitimas turi įvykti dėl kokio nors išskirtinio įvykio.### Šarvų aprašymai
 
-**Neperšaunama liemenė, moderni:** Neperšaunamos liemenės evoliucija, naudojanti didelio atsparumo metalų lydinius ir plastikus lengvesnei, plonesnei apsaugai.
+Šiame skyriuje visi šarvų tipai aprašomi abėcėlės tvarka.
 
-**Grandinė (Chain):** Šiuos šarvus sudaro tinklelis iš austų metalo grandžių. Itin lankstūs, bet gana sunkūs.
+**Adaptacinis tinklelis:** Šis aukštųjų technologijų audinys kietėja reaguodamas į smūgius, tačiau kitu metu išlieka lankstus ir patogus. Dažniausiai dėvimas kaip vientisas kostiumas, gali būti velkamas po kitais šarvais.
 
-**Drabužiai, sunkūs:** Atitikmuo dėvint sunkų apsiaustą, žieminę striukę, aptemptus odinius drabužius ar kelis drabužių sluoksnius.
+**Puolimo šarvai, lengvi:** Lengvi šarvai, naudojami karių apsisaugoti nuo artimos kovos ginklų, kietų sviedinių, taip pat nuo energetinių ginklų. Pagaminti iš keramikos, lydinių arba didelio atsparumo plastiko.
 
-**Energijos šarvai:** Šiuos šarvus sudaro vidinis energijos paketas, dėvimas ant diržo ar permestas per nugarą, tarp pečių, ir galbūt prijungtas prie emiterių, paskirstytų po visą kūną. Kai suaktyvinami, jie apgaubia veikėją apsauginiu energijos sluoksniu.
+**Puolimo šarvai, standartiniai:** Sunkūs šarvai, skirti mūšiams pavojingoje aplinkoje. Pagaminti iš keramikos, lydinių arba atsparaus plastiko, puolimo šarvai suteikia apsaugą nuo galvos iki kojų ir yra kariuomenės pamėgti.
 
-**Flak liemenė:** Tai pilna liemenė, panaši į ankstyvąją neperšaunamą liemenę, nors mažiau šarvuota, naudinga tiek pilotams, tiek sausumos kariams.
+**Puolimo šarvai (sunkūs), energetiniai:** Panašūs į standartinius puolimo šarvus, tačiau masyvesni ir su storesnėmis šarvinėmis plokštėmis. Vidiniai servovarikliai padidina dėvėtojo jėgą. Kovotojai, vilkintys energetinius sunkiuosius puolimo šarvus, dažnai naudoja masyvius ginklus. Karkasas pritaikytas moduliniams patobulinimams (tokiems kaip reaktyvinis variklis) ir yra sandarus prieš cheminius ginklus bei kosmoso vakuumą.
 
-**Šalmas, sunkus arba lengvas:** Beveik visi šie šarvų tipai turi šalmus. Pilni šarvų komplektai paprastai apima šalmus. Jei šalmas nedėvimas, sumažinkite šarvų vertę –1 tašku lengvam šalmui ir –2 taškais sunkiam šalmui. Jei naudojamos atsitiktinės šarvų vertės, modifikuokite diapazoną atitinkamai –1 ar –2 taškais. Jei naudojamos hit vietos, šalmas turi tokią pačią apsauginę vertę kaip ir atitinkamos šarvų medžiagos ranka ar koja.
+**Puolimo šarvai (lengvi), energetiniai:** Panašūs į sunkiuosius energetinius puolimo šarvus, tačiau lengvesni ir neturi priedų, tokių kaip sandarios sistemos.
 
-**Kailis:** Išdirbtas arba neišdirbtas gyvūno kailis, dėvimas kaip apsiaustas arba drabužis, išlaikant kailį.
+**Balistinis audinys:** Pagamintas iš aramido pluošto, balistinio audinio šarvai suteikia vidutinę apsaugą nuo kulkų, nors ir ne tokią gerą, kaip neperšaunama liemenė. Paprastai dėvimi po kasdieniais drabužiais arba pasiūti taip, kad atrodytų kaip įprasta apranga.
 
-**Lamellar (kniedyti, plokšteliniai):** Šiuos šarvus sudaro plonos metalo juostelės (plokštelės), paprastai laikomos ant odinio pagrindo kniedėmis.
+**Neperšaunama liemenė, ankstyvoji:** Senesnis neperšaunamos liemenės variantas, sunkus ir nepatogus, su sustorintomis metalinėmis plokštėmis segmentuotoje drobės liemenėje.
 
-**Oda, minkšta:** Atitikmuo odinei striukei ar liemenei, minkšta oda dažnai dėvima po kitais šarvais kaip papildomas paminkštinimas ir apsauga.
+**Neperšaunama liemenė, moderni:** Neperšaunamos liemenės evoliucija, naudojanti didelio atsparumo metalų lydinius ir plastiką lengvesnei bei plonesnei apsaugos formai.
 
-**Oda, kieta:** Tai lygu pusei centimetro išdirbtos odos, maždaug tokio storio kaip batų padas. Gali turėti odines kniedes arba įspaudus.
+**Grandininiai šarvai:** Šiuos šarvus sudaro tinklelis, pagamintas iš austų metalinių žiedų. Jie itin lankstūs, tačiau gana sunkūs.
 
-**Oda, Cuirbouilli:** Stora ir pusiau standi oda, išdirbta ir virta aliejuje bei vaške, tada suformuota pagal dėvėtojo formą. Dažnai spalvingai papuošta ir nudažyta.
+**Drabužiai, sunkūs:** Prilygsta sunkaus apsiausto, žieminės striukės, prigludusių odinių drabužių arba kelių sluoksnių aprangos dėvėjimui.
 
-**Paminkštinti/Quilted:** Šiuos šarvus sudaro keli standinto storo audinio sluoksniai, susiūti kartu lyg apklotas. Pigi ir lengva pagaminti, tačiau nesiūlo didelės apsaugos, nors gali būti dėvimi po metaliniais šarvais, tokiais kaip pusplokštiniai ir grandininiai.
+**Energetiniai šarvai:** Šiuos šarvus sudaro vidinis energijos blokas, nešiojamas ant diržo arba užsimestas ant nugaros, tarp pečių, ir galbūt prijungtas prie spindulių skleidėjų, išdėstytų visame kūne. Aktyvuoti, jie apgaubia veikėją apsauginės energijos sluoksniu.
 
-**Paminkštinti/Quilted, sunkūs:** Panašūs į paminkštintus ar dygsniuotus šarvus, bet sunkesni ir storesni.
+**Šrapnelinė liemenė:** Tai pilna liemenė, panaši į ankstyvąją neperšaunamą liemenę, nors mažiau šarvuota, naudinga tiek pilotams, tiek sausumos kariams.
 
-**Plokštės, pusplokštiniai (Half-plate):** Šiuos šarvus sudaro dalinis plokštelinių šarvų komplektas, kuris nedengia viso kūno. Paprastai tai krūtinės šarvai, šalmas ir kai kurios mažesnės dalys, likusią dalį dengiant grandinei.
+**Šalmas, sunkus arba lengvas:** Beveik visi šie šarvų tipai turi šalmus. Pilni šarvų komplektai dažniausiai apima šalmus. Jei šalmas nedėvimas, sumažinkite šarvų vertę –1 lengvam šalmui ir –2 sunkiam šalmui. Jei naudojate atsitiktines šarvų vertes, pakoreguokite diapazoną atitinkamai –1 arba –2. Jei naudojamos pataikymo vietos, šalmas turi tokią pačią apsauginę vertę kaip ir atitinkamos šarvų medžiagos ranka ar koja.
 
-**Plokštės, pilni (Full-plate):** Šiuos šarvus sudaro kietos metalo plokštės, suformuotos pagal kūną ir laikomos kartu su oda padengtais dirželiais. Istoriškai tai buvo pranašesni už bet kokius kitus kūno šarvus, bet metalinė konstrukcija daro juos sunkiausiais ir mažiausiai patogiais.
+**Kailiniai šarvai:** Išdirbtas arba neišdirbtas gyvūno kailis, dėvimas kaip apsiaustas ar drabužis, paliekant kailį.
 
-**Žiediniai šarvai (Ring):** Tai minkšta oda ar kitas pagrindas su metaliniais žiedais, prisiūtais persidengiančiu raštu.
+**Lameliniai (kniedyti, plokšteliniai):** Šiuos šarvus sudaro plonos metalinės juostelės (plokštelės), paprastai pritvirtintos prie odinio pagrindo kniedėmis.
 
-**Riaušių malšinimo įranga (Riot Gear):** Sunki neperšaunama liemenė ir kietinti drabužiai (kombinezonas), su plokštėmis strateginėse kūno dalyse ir šalmas.
+**Odiniai, minkšti:** Prilygsta odinei striukei ar liemenei, minkšta oda dažnai dėvima po kitais šarvais kaip papildomas paminkštinimas ir apsauga.
 
-**Žvyniniai šarvai (Scale):** Žvyniniai šarvai (kartais vadinami žvynų grandine) susideda iš persidengiančių įvairių formų ir dydžių metalinių žvynų, pritvirtintų prie pagrindo.
+**Odiniai, kieti:** Tai prilygsta pusės centimetro išdirbtai odai, maždaug tokio storio kaip batų padas. Gali turėti odinių kniedžių ar įspaustų raštų.
 
-**Plokšteliniai (Splint):** Žr. Lamellar aprašymą.
+**Odiniai, virinti (Cuirbouilli):** Stora ir pusiau standi oda, kuri buvo išdirbta ir virta aliejuje bei vaške, tada suformuota pagal dėvėtojo kūno formas. Dažnai dekoruoti ir spalvingai nudažyti.
 
-**Kniedyti (Studded):** Žr. Lamellar aprašymą.
+**Paminkštinti/dygsniuoti:** Šiuos šarvus sudaro susluoksniuoti standaus storo audinio sluoksniai, susiūti tarsi įklotas ar dygsniuota antklodė. Pigūs ir lengvai pagaminami, jie nesuteikia daug apsaugos, nors gali būti dėvimi po metaliniais šarvais, tokiais kaip puskilnis ar grandiniai.
+
+**Paminkštinti/dygsniuoti, sunkūs:** Panašūs į paminkštintus arba dygsniuotus šarvus, tačiau sunkesni ir storesni.
+
+**Puskilnis:** Šiuos šarvus sudaro dalinis plokštelinių šarvų komplektas (žr. žemiau), kuris nedengia viso kūno. Paprastai tai krūtinės plokštė, šalmas ir keletas mažesnių dalių, o visa kita dengia grandiniai šarvai.
+
+**Pilni plokšteliniai:** Šiuos šarvus sudaro tvirtos metalinės plokštės, suformuotos pagal kūną ir sujungtos dengtais odiniais dirželiais. Istoriškai tai buvo pranašesni už bet kokius kitus kūno šarvus, tačiau dėl vientisos metalinės konstrukcijos jie yra sunkiausi ir mažiausiai patogūs.
+
+**Žiediniai šarvai:** Tai minkšta oda ar kitoks pagrindas, ant kurio tankiu ar persidengiančiu raštu prisiūti metaliniai žiedai.
+
+**Riaušių malšinimo įranga:** Sunki neperšaunama striukė ir sutvirtintas kombinezonas, su plokštėmis strategiškai svarbiose kūno vietose ir šalmu.
+
+**Žvyniniai šarvai:** Žvyninius šarvus (kartais vadinamus žvyniniu paštu) sudaro įvairių formų ir dydžių persidengiantys metaliniai žvynai, pritvirtinti prie pagrindo.
+
+**Plokšteliniai:** Žr. lamelinių šarvų aprašymą.
+
+**Kniedyti:** Žr. lamelinių šarvų aprašymą.
 
 ##### Primityvūs šarvai
 
-| Vardas | AV | Atsitiktinis AV | Svoris | ENC | Įgūdžių modifikatorius | Tinka SIZ | Laikas | Vietos | Vertė |
+| Pavadinimas | ŠV | Atsitiktinė ŠV | Sunkumas | SV | Įgūdžių modifikatorius | Tinka DYD | Laikas | Vietos | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Šalmas | +1 | +1 taškas | Lengvas | 0.5 | –5 % Suvokimo įgūdžiams | ±1 | 1 | Galva | Pigu |
-| Kailis | 1 | 1D3–1 | Lengvas | 3.5 | Nėra | ±3 | 1 | Visi | Pigu |
+| Šalmas | +1 | +1 taškas | Lengvas | 0,5 | –5% suvokimo įgūdžiams | ±1 | 1 | Galva | Pigu |
+| Kailiniai | 1 | 1D3–1 | Lengvas | 3,5 | Nėra | ±3 | 1 | Visi | Pigu |
 
-##### Senoviniai ir viduramžių šarvai
+##### Senovės ir viduramžių šarvai
 
-| Vardas | AV | Atsitiktinis AV | Svoris | ENC | Įgūdžių modifikatorius | Tinka SIZ | Laikas | Vietos | Vertė |
+| Pavadinimas | ŠV | Atsitiktinė ŠV | Sunkumas | SV | Įgūdžių modifikatorius | Tinka DYD | Laikas | Vietos | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Grandinė | 7 | 1D8–1 | Vidutinis | 20.0 | –20 % Fiziniams įgūdžiams | -2 | 3 | Visi | Brangi |
-| Drabužiai, sunkūs | 1 | 1D2–1 | Nėra | 2.5 | Nėra | ±2 | 1 | Visi | Pigu |
-| Šalmas, sunkus | +2 | +2 taškai | Lengvas | 2.5 | –50 % Suvokimo įgūdžiams | ±0 | 1 | Galva | Vidutinė |
-| Šalmas, lengvas | +1 | +1 taškas | Nėra | 1.5 | –15 % Suvokimo įgūdžiams | ±1 | 1 | Galva | Nebrangi |
-| Lamellar | 6 | 1D8–1 | Vidutinis | 18.0 | –15 % Fiziniams įgūdžiams | ±1 | 2 | Visi be galvos | Brangi |
-| Oda, minkšta | 1 | 1D6–1 | Lengvas | 3.5 | Nėra | ±2 | 2 | Visi | Nebrangi |
-| Oda, kieta | 2 | 1D6 | Vidutinis | 5.0 | –10 % Fiziniams įgūdžiams | ±1 | 2 | Visi | Vidutinė |
-| Oda, Cuirbouill | 3 | 2D3 | Lengvas | 5.0 | –10 % Fiziniams įgūdžiams | ±0 | 2 | Visi | Brangi |
-| Paminkštinti/Quilted | 1 | 1D2–1 | Nėra | 3.0 | Nėra | ±2 | 1 | Visi | Nebrangi |
-| Paminkštinti/Quilted, sunkus | 2 | 1D3–1 | Lengvas | 4.0 | –5 % Fiziniams įgūdžiams | ±1 | 2 | Visi | Nebrangi |
-| Plokštės, pilni | 8 | 1D10 | Nerangūs | 25.0 | –25 % Fiziniams įgūdžiams | -1 | 5 | Visi be galvos | Brangi |
-| Plokštės, pusplokštiniai | 7 | 1D8 | Vidutinis | 18.0 | –20 % Fiziniams įgūdžiams | -1 | 4 | Visi be galvos | Brangi |
-| Žiediniai | 5 | 1D6 | Lengvas | 10.0 | –10 % Fiziniams įgūdžiams | ±1 | 2 | Visi be galvos | Vidutinė |
-| Žvyniniai | 6 | 2D4–1 | Vidutinis | 20.0 | –15 % Fiziniams įgūdžiams | ±1 | 2 | Visi be galvos | Vidutinė |
+| Grandiniai | 7 | 1D8–1 | Vidutinis | 20,0 | –20% fiziniams įgūdžiams | –2 | 3 | Visi | Brangu |
+| Drabužiai, sunkūs | 1 | 1d2–1 | Nėra | 2,5 | Nėra | ±2 | 1 | Visi | Pigu |
+| Šalmas, sunkus | +2 | +2 taškai | Lengvas | 2,5 | –50% suvokimo įgūdžiams | ±0 | 1 | Galva | Vidutiniška |
+| Šalmas, lengvas | +1 | +1 taškas | Nėra | 1,5 | –15% suvokimo įgūdžiams | ±1 | 1 | Galva | Nebrangu |
+| Lameliniai | 6 | 1D8–1 | Vidutinis | 18,0 | –15% fiziniams įgūdžiams | ±1 | 2 | Visi išskyrus galvą | Brangu |
+| Odiniai, minkšti | 1 | 1D6–1 | Lengvas | 3,5 | Nėra | ±2 | 2 | Visi | Nebrangu |
+| Odiniai, kieti | 2 | 1D6 | Vidutinis | 5,0 | –10% fiziniams įgūdžiams | ±1 | 2 | Visi | Vidutiniška |
+| Odiniai, virinti | 3 | 2D3 | Lengvas | 5,0 | –10% fiziniams įgūdžiams | ±0 | 2 | Visi | Brangu |
+| Paminkštinti/dygsniuoti | 1 | 1D2–1 | Nėra | 3,0 | Nėra | ±2 | 1 | Visi | Nebrangu |
+| Paminkštinti/dygsniuoti, sunkūs | 2 | 1D3–1 | Lengvas | 4,0 | –5% fiziniams įgūdžiams | ±1 | 2 | Visi | Nebrangu |
+| Pilni plokšteliniai | 8 | 1D10 | Griozdiškas | 25,0 | –25% fiziniams įgūdžiams | –1 | 5 | Visi išskyrus galvą | Brangu |
+| Puskilnis | 7 | 1D8 | Vidutinis | 18,0 | –20% fiziniams įgūdžiams | –1 | 4 | Visi išskyrus galvą | Brangu |
+| Žiediniai | 5 | 1D6 | Lengvas | 10,0 | –10% fiziniams įgūdžiams | ±1 | 2 | Visi išskyrus galvą | Vidutiniška |
+| Žvyniniai | 6 | 2D4–1 | Vidutinis | 20,0 | –15% fiziniams įgūdžiams | ±1 | 2 | Visi išskyrus galvą | Vidutiniška |
 
 ##### Modernūs šarvai
 
-| Vardas | AV | Atsitiktinis AV | Svoris | ENC | Įgūdžių modifikatorius | Tinka SIZ | Laikas | Vietos | Vertė |
+| Pavadinimas | ŠV | Atsitiktinė ŠV | Sunkumas | SV | Įgūdžių modifikatorius | Tinka DYD | Laikas | Vietos | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Balistinis audinys | 3/51 | 1D3/1D6–1 | Lengvas | 4.0 | –10 % Fiziniams įgūdžiams | ±1 | 1 | Rankos, Krūtinė | Brangi |
-| Neperšaunama liemenė, ankstyvoji | 4 | 1D4 | Vidutinis | 11.0 | –25 % Fiziniams įgūdžiams | ±1 | 2 | Krūtinė | Brangi |
-| Neperšaunama liemenė, moderni | 4/81 | 1D4/1D8 | Lengvas | 8.0 | –5 % Fiziniams įgūdžiams | ±3 | 2 | Krūtinė | Brangi |
-| Drabužiai, sunkūs | 1 | 1D2–1 | Nėra | 2.5 | Nėra | ±2 | 1 | Visi | Pigu |
-| Flak liemenė | 4 | 1D4 | Vidutinis | 8.0 | –10 % Fiziniams įgūdžiams | ±2 | 1 | Rankos, Krūtinė | Brangi |
-| Šalmas, sunkus | +6 | +3 taškai | Lengvas | 3.5 | –25 % Suvokimo įgūdžiams | ±1 | 1 | Galva | Vidutinė |
-| Šalmas, lengvas | +3 | +2 taškai | Nėra | 2.5 | –10 % Suvokimo įgūdžiams | ±2 | 1 | Galva | Nebrangi |
-| Riaušių malšinimo įranga | 12/61 | 1D10+2 | Vidutinis | 12.0 | –10 % Fiziniams įgūdžiams | ±1 | 5 | Visi2 | Brangi |
+| Balistinis audinys | 3/51 | 1D3/1D6–1 | Lengvas | 4,0 | –10% fiziniams įgūdžiams | ±1 | 1 | Rankos, Krūtinė | Brangu |
+| Neperšaunama liemenė, ankstyvoji | 4 | 1D4 | Vidutinis | 11,0 | –25% fiziniams įgūdžiams | ±1 | 2 | Krūtinė | Brangu |
+| Neperšaunama liemenė, moderni | 4/81 | 1D4/1D8 | Lengvas | 8,0 | –5% fiziniams įgūdžiams | ±3 | 2 | Krūtinė | Brangu |
+| Drabužiai, sunkūs | 1 | 1D2–1 | Nėra | 2,5 | Nėra | ±2 | 1 | Visi | Pigu |
+| Šrapnelinė liemenė | 4 | 1D4 | Vidutinis | 8,0 | –10% fiziniams įgūdžiams | ±2 | 1 | Rankos, Krūtinė | Brangu |
+| Šalmas, sunkus | +6 | +3 taškai | Lengvas | 3,5 | –25% suvokimo įgūdžiams | ±1 | 1 | Galva | Vidutiniška |
+| Šalmas, lengvas | +3 | +2 taškai | Nėra | 2,5 | –10% suvokimo įgūdžiams | ±2 | 1 | Galva | Nebrangu |
+| Riaušių malšinimo įranga | 12/61 | 1D10+2 | Vidutinis | 12,0 | –10% fiziniams įgūdžiams | ±1 | 5 | Visi2 | Brangu |
 
-1. Pirmoji vertė yra prieš artimos kovos ar mažo greičio nuotolinius ginklus; antroji vertė yra prieš šaunamuosius ginklus.
+1. Pirmoji vertė yra prieš artimos kovos ar mažo greičio sviedinius; antroji vertė yra prieš šaunamuosius ginklus.
 2. Apima šalmą.
 
 ##### Pažangūs šarvai
 
-| Vardas | AV | Atsitiktinis AV | Svoris | ENC | Įgūdžių modifikatorius | Tinka SIZ | Laikas | Vietos | Vertė |
+| Pavadinimas | ŠV | Atsitiktinė ŠV | Sunkumas | SV | Įgūdžių modifikatorius | Tinka DYD | Laikas | Vietos | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Adaptyvus tinklelis | 6 | 1D4+2 | Lengvas | 2.0 | –5 % Fiziniams įgūdžiams | ±1 | 1 | Visi | Brangi |
-| Puolimo šarvai, lengvi | 8 | 2D6 | Vidutinis | 12.0 | –10 % Fiziniams įgūdžiams | ±1 | 2 | Visi1 | Brangi |
-| Puolimo šarvai | 10 | 2D4+2 | Vidutinis | 16.0 | –25 % Fiziniams įgūdžiams | ±1 | 3 | Visi1 | Brangi |
-| Energijos šarvai | 1–202 | —2 | Lengvas | 4.0 | –5 % į Hide, Stealth ir Suvokimo įgūdžius už AV | Bet koks | 2 | Visi3 | Brangi |
-| Šalmas, sunkus | +4 | +4 | Lengvas | 5.0 | –15 % Suvokimo įgūdžiams | ±1 | 1 | Galva | Vidutinė |
-| Šalmas, lengvas | +3 | +2 | Nėra | 2.0 | –5 % Suvokimo įgūdžiams | ±2 | 1 | Galva | Vidutinė |
-| Puolimo šarvai, lengvi, varomi energija4 | 14 | 2D6+2 | Nerangūs | 36.0 | –20 % Fiziniams ir Manipuliacijos įgūdžiams | ±1 | 4 | Visi | Neįkainojama |
-| Puolimo šarvai, sunkūs, varomi energija5 | 16 | 4D4 | Nerangūs | 48.0 | –50 % Fiziniams ir Manipuliacijos įgūdžiams | ±1 | 5 | Visi | Neįkainojama |
+| Adaptacinis tinklelis | 6 | 1D4+2 | Lengvas | 2,0 | –5% fiziniams įgūdžiams | ±1 | 1 | Visi | Brangu |
+| Puolimo šarvai, lengvi | 8 | 2D6 | Vidutinis | 12,0 | –10% fiziniams įgūdžiams | ±1 | 2 | Visi1 | Brangu |
+| Puolimo šarvai | 10 | 2D4+2 | Vidutinis | 16,0 | –25% fiziniams įgūdžiams | ±1 | 3 | Visi1 | Brangu |
+| Energetiniai šarvai | 1–202 | —2 | Lengvas | 4,0 | –5% Slėpimosi, Sėlinimo ir suvokimo įgūdžiams už kiekvieną ŠV | Bet kokie | 2 | Visi3 | Brangu |
+| Šalmas, sunkus | +4 | +4 | Lengvas | 5,0 | –15% suvokimo įgūdžiams | ±1 | 1 | Galva | Vidutiniška |
+| Šalmas, lengvas | +3 | +2 | Nėra | 2,0 | –5% suvokimo įgūdžiams | ±2 | 1 | Galva | Vidutiniška |
+| Puolimo šarvai, lengvi energetiniai4 | 14 | 2D6+2 | Griozdiškas | 36,0 | –20% fiziniams ir manipuliacijos įgūdžiams | ±1 | 4 | Visi | Neįkainojama |
+| Puolimo šarvai, sunkūs energetiniai5 | 16 | 4D4 | Griozdiškas | 48,0 | –50% fiziniams ir manipuliacijos įgūdžiams | ±1 | 5 | Visi | Neįkainojama |
 
 1. Apima šalmą.
-2. Energijos šarvus dėvėtojas gali nustatyti bet kokiai vertei tarp 1 ir 20 AV taškų. Kiekvieną kovos raundą šarvai išleidžia įkrovas (galių taškus), lygius savo AV. Standartiniai šarvų energijos šaltiniai turi 200 įkrovų; kiekvienas sugertas žalos taškas kainuoja 1 papildomą įkrovą. Energijos šarvai neleidžia atsitiktinės šarvų vertės; naudokite nustatytą AV. Užtrunka 5 DEX rangus AV sureguliuoti.
+2. Energetinius šarvus dėvėtojas gali nustatyti bet kokiai vertei nuo 1 iki 20 ŠV. Kiekvieną kovos raundą šarvai išnaudoja energijos sąnaudas (energijos taškus), lygias savo ŠV. Standartiniuose šarvų energijos šaltiniuose telpa 200 taškų; kiekvienas sugertas žalos taškas kainuoja 1 papildomą tašką. Energetiniai šarvai neleidžia naudoti atsitiktinės šarvų vertės; naudokite nustatytą ŠV. ŠV sureguliavimas užtrunka 5 VIK rangus.
 3. Negalima dėvėti su kitais šarvais.
-4. Lengvi varomi puolimo šarvai modifikuoja STR +3 ir DEX –3 (koreguokite atitinkamas vertes dėvint). Šarvai apima šalmą.
-5. Sunkūs varomi puolimo šarvai modifikuoja STR +6 ir DEX –6 (koreguokite atitinkamas vertes dėvint). Šarvai apima šalmą.
+4. Lengvi energetiniai puolimo šarvai modifikuoja JĖG +3 ir VIK –3 (dėvint pakoreguokite atitinkamas vertes). Šarvai apima šalmą.
+5. Sunkūs energetiniai puolimo šarvai modifikuoja JĖG +6 ir VIK –6 (dėvint pakoreguokite atitinkamas vertes). Šarvai apima šalmą.
 
 > ### Specialios taisyklės šarvams
-> 
-> Šios taisyklės taikomos įvairiose situacijose, susijusiose su šarvais.
-> 
-> #### Šarvų apkrova (ENC)
-> 
-> Šarvų apkrova (ENC) priklauso nuo juos dėvinčio veikėjo SIZ. Veikėjo SIZ daugeliu atvejų lemia šarvų SIZ. Kiekvienas +5 SIZ padidėjimas prisideda prie šarvų ENC, jie tampa sunkesni, karštesni, nerangesni dėvėti ir t.t. 11–15 SIZ yra standartinis. Kiekvienas 5 balų SIZ padidėjimas žemiau šio diapazono yra 1/5 mažiau apkraunantis. Šios ENC vertės gali būti naudojamos hit vietoms.
-> 
-> | Hit vieta | ENC dalis |
+>
+> Šios taisyklės taikomos įvairioms situacijoms, susijusioms su šarvais.
+>
+> #### Šarvų svoris (SV)
+>
+> Šarvų svoris (SV) priklauso nuo juos dėvinčio veikėjo DYD. Daugeliu atvejų veikėjo DYD lemia šarvų DYD. Kiekvienas +5 DYD priedas didina šarvų SV, nes jie tampa sunkesni, karštesni, griozdiškesni ir t. t. 11–15 DYD yra standartas. Kiekvienas 5 taškų DYD prieaugis žemiau šio diapazono sumažina svorį 1/5. Šie SV dydžiai gali būti naudojami pataikymo vietoms.
+>
+> | Pataikymo vieta | Viso SV dalis |
 > | :---- | :---- |
 > | Galva | 1/10 |
-> | Ranka | 1/10 kiekviena |
+> | Ranka | 1/10 kiekvienai |
 > | Krūtinė | 1/5 |
 > | Pilvas | 1/10 |
-> | Koja | 1/5 kiekviena |
-> 
+> | Koja | 1/5 kiekvienai |
+>
 > #### Šarvų sluoksniavimas
-> 
-> Galima dėvėti minkštus šarvus po arba virš kietų šarvų, kad būtų suteikta papildoma apsauga. Tik minkšti, lankstūs šarvai, tokie kaip sunkūs audiniai, paminkštinti ar minkšta oda, gali būti lengvai dėvimi sluoksniuojant su kitais šarvų tipais, ir jie prideda savo įprastą šarvų vertę bei savo ENC vertę. Bandant persidengti kažką kita nei minkštus šarvus su kietais, sumuokite šarvų vertę, bet patrigubinkite mažiau svarbių šarvų ENC.
-> 
-> #### Apsirengimas šarvais
-> 
-> Kai kuriuos šarvų tipus sunkiau apsirengti nei kasdienius drabužius. Yra dirželių ir sagčių, kuriuos reikia užsegioti, daug dalių, kurias reikia apsirengti, ir gali būti keli sluoksniai. Užtrunka vieną kovos raundą už kiekvieną apsaugos tašką, kurį suteikia šarvų komplektas, darant prielaidą, kad jūsų veikėjas pasiruošęs, šarvai išdėlioti ir nėra pavojingų ar blaškančių elementų aplinkoje. Jūsų GV gali padidinti laiką, jei veikėjas prieš tai buvo išblaškytas ar miegojo, arba sunkiomis aplinkybėmis (bėgimas, stipriai sužeistas, tamsa, po vandeniu, raitas ir kt.). Tai gali reikalauti Agility ar Idėjos metimo, jei veikėjas pakankamai išblaškytas ar patiria nepatogumų.
-> 
-> #### Nusiėmimas
-> 
-> Nusiimti šarvus daug lengviau nei apsirengti, nes jūsų veikėjui nereikia įsitikinti, kad kiekviena dalis tinkamai išdėstyta prieš uždedant kitą. Jūsų veikėjas gali nusiimti 3 šarvų vertės taškus per kovos raundą (suapvalinti į viršų), jei juda greitai. Sėkmingas Agility metimas padidina tai iki 4 šarvų vertės taškų per kovos raundą. Naudokite maksimalią šarvų vertę, jei naudojate atsitiktines šarvų vertes.
-> 
-> ### Šarvai pagal hit vietą (Neprivaloma)
-> 
-> Jei naudojate hit vietų sistemą, galbūt norėsite daugiau detalumo, kaip jūsų veikėjas šarvuotas. Kiekvienas šarvų tipas šarvų lentelėse nurodo hit vietas, kurias jis dengia. Jūsų veikėjas gali keisti dėvimų šarvų tipą kiekvienoje hit vietoje, naudodamas bet kokį tipą, kuris dengia tą vietą. Kiekvienas dėvimas šarvų tipas gali turėti skirtingą šarvų vertę.
-> 
+>
+> Įmanoma dėvėti minkštus šarvus po kietaisiais šarvais arba virš jų, kad būtų suteikta papildoma apsauga. Tik minkšti, lankstūs šarvai, tokie kaip sunkus audinys, paminkštinti arba minkšti odiniai šarvai, gali būti lengvai derinami su kitomis šarvų formomis, ir jie prideda savo įprastą šarvų vertę bei SV vertę. Bandant suderinti bet ką, išskyrus minkštus šarvus, su kietaisiais, sumuokite šarvų vertę, tačiau patrigubinkite silpnesnių šarvų SV.
+>
+> #### Šarvų apsivilkimas
+>
+> Kai kuriuos šarvų tipus apsivilkti sudėtingiau nei kasdienius drabužius. Yra dirželių ir sagčių, kuriuos reikia užsegti, keletas dalių, kurias reikia užsidėti, ir gali būti keli sluoksniai. Apsivilkti šarvus užtrunka po vieną kovos raundą kiekvienam šarvų suteikiamo apsaugos taškui, darant prielaidą, kad jūsų veikėjas yra pasirengęs, šarvai yra išdėlioti ir nėra jokių pavojingų ar blaškančių aplinkos elementų. Jūsų žaidimo vedėjas gali padidinti laiką, jei veikėjas buvo blaškomas ar miegojo, arba sudėtingomis aplinkybėmis (bėgimas, sunkiai sužeistas, tamsa, po vandeniu, raitas ir t. t.). Tam gali prireikti judrumo arba idėjos metimo, jei veikėjas pakankamai išsiblaškęs ar nepatogioje padėtyje.
+>
+> #### Šarvų nusivilkimas
+>
+> Nusivilkti šarvus yra daug lengviau nei apsivilkti, nes jūsų veikėjui nereikia įsitikinti, kad kiekviena dalis yra tinkamai sutvarkyta prieš dedantis kitą. Jūsų veikėjas gali nusivilkti 3 šarvų vertės taškus per kovos raundą (apvalinant į viršų), jei juda greitai. Sėkmingas judrumo metimas padidina tai iki 4 šarvų vertės taškų per kovos raundą. Naudokite maksimalią šarvų vertę, jei naudojate atsitiktines šarvų vertes.
+>
+> ### Šarvai pagal pataikymo vietą (pasirinktinai)
+>
+> Jei naudojate pataikymo vietų sistemą, galbūt norėsite daugiau detalumo, kaip jūsų veikėjas yra šarvuotas. Kiekvienas šarvų tipas šarvų lentelėse nurodo, kurias pataikymo vietas jis dengia. Jūsų veikėjas gali keisti šarvų tipą kiekvienoje pataikymo vietoje, naudodamas bet kokį tipą, kuris dengia tą vietą. Kiekvienas dėvimas šarvų tipas gali turėti skirtingą šarvų vertę.
+>
 > * Norėdami nustatyti kiekvienos dalies šarvų vertę, naudokite šarvų vertę iš šarvų lentelių.
-> * Svoris yra tas pats, kuris dėvimas ant krūtinės, pilvo ar kojų, naudojant sunkiausią, jei šie skiriasi.
-> * Naudokite sunkiausios dalies, dėvimos ant krūtinės, pilvo ar kojų, įgūdžių modifikatorių. Šalmai turi tuos pačius modifikatorius.
-> * Užtrunka vieną kovos raundą už kiekvienus 5 šarvų vertės taškus (suapvalinti į viršų), norint apsirengti atskiras šarvų dalis.
-> 
-> Jūsų GV gali nuspręsti, kad kai kurių šarvų tipų negalima naudoti dalimis, pavyzdžiui, daugumos modernių ar pažangių šarvų tipų. Šarvai pagal hit vietą nerekomenduojami su atsitiktinių šarvų verčių sistema.
-> 
-> Naudokite taisykles dėl **Šarvai pagal hit vietą** ir **Šarvų sluoksniavimas**, kai naudojate šarvus pagal hit vietą.
-> 
+>
+> * Sunkumas yra toks pat, kaip ant krūtinės, pilvo ar kojų dėvimų dalių, naudojant sunkiausią, jei jos skiriasi.
+>
+> * Naudokite sunkiausios ant krūtinės, pilvo ar kojų dėvimos dalies įgūdžių modifikatorių. Šalmai turi tuos pačius modifikatorius.
+>
+> * Individualių šarvų dalių užsidėjimas užtrunka po vieną kovos raundą už kiekvienus 5 šarvų vertės taškus (apvalinant į viršų).
+>
+> Jūsų žaidimo vedėjas gali nustatyti, kad kai kurie šarvų tipai negali būti naudojami dalimis, pavyzdžiui, dauguma modernių ar pažangių šarvų tipų. Šarvai pagal pataikymo vietas nerekomenduojami naudojant atsitiktinę šarvų vertės sistemą.
+>
+> Naudokite **Šarvų pagal pataikymo vietą** ir **Šarvų sluoksniavimo** taisykles, kai naudojate šarvus pagal pataikymo vietą.
+>
 > #### Šalmai
-> 
-> Šarvų lentelės aprašo šalmus kaip šarvų vertės priedą. Naudojant šarvus pagal hit vietą, šalmai turi savo šarvų vertes. Naudokite šias šalmų vertes:
-> 
+>
+> Šarvų lentelėse šalmai aprašomi kaip priedas prie šarvų vertės. Kai naudojami šarvai pagal pataikymo vietą, šalmai turi savo šarvų vertes. Naudokite šias šalmų vertes:
+>
 > | Tipas | Šarvų vertė |
 > | :---- | :---- |
-> | Šalmas (Primityvus) | 2 |
-> | Šalmas, sunkus (Senovės ir viduramžių) | 8 |
-> | Šalmas, lengvas (Senovės ir viduramžių) | 4 |
-> | Šalmas, sunkus (Modernus) | 8 |
-> | Šalmas, lengvas (Modernus) | 6 |
-> | Šalmas, sunkus (Pažangus) | 16 |
-> | Šalmas, lengvas (Pažangus) | 14 |
+> | Šalmas (primityvus) | 2 |
+> | Šalmas, sunkus (senovės ir viduramžių) | 8 |
+> | Šalmas, lengvas (senovės ir viduramžių) | 4 |
+> | Šalmas, sunkus (modernus) | 8 |
+> | Šalmas, lengvas (modernus) | 6 |
+> | Šalmas, sunkus (pažangus) | 16 |
+> | Šalmas, lengvas (pažangus) | 14 |
+>
+> ## Skydai
+>
+> Skydai iš esmės yra dideli atmušimo ginklai, skirti būti įterptiems tarp jūsų veikėjo ir užpuoliko. Skydas paprastai turi rankeną, dirželį ar dirželius ir yra nešiojamas ant ginklą nelaikančios rankos (daugumai žmonių – kairės rankos). Tradiciškai skydai turi rasti kompromisą tarp tvirtumo, lengvumo ir balanso. Skydų dydžiai svyruoja nuo mažo skydelio (vos pietų lėkštės dydžio) iki didelio skydo, kurį naudojo hoplitų kariai.
+>
+> Skydai skirstomi chronologiškai. Daugeliu atvejų ankstesnio laikotarpio skydai yra prieinami vėlesniais laikotarpiais, todėl jūsų žaidimo vedėjas gali tiesiog pasirinkti, kur baigiasi prieinamumas, ir leisti jūsų veikėjui naudotis skydais iki to momento.
+>
+> Visi skydai naudojami artimoje kovoje arba ginantis nuo sviedinių. Mestas skydas yra improvizuotas ginklas, kurio nuotolis yra 10 metrų ir 05% tikimybė pataikyti (tai gali padidėti su patirtimi).
+>
+> Kiekvienas skydo tipas turi šiuos atributus:
+>
+> * **Pavadinimas:** Įprastas skydo pavadinimas.
+>
+> * **Bazė:** Bazinė tikimybė bet kam, kas paima skydą. Ši bazinė tikimybė taip pat yra pradinė vertė puolant skydu.
+>
+> * **Įgūdis:** Skydui naudojamas įgūdis.
+>
+> * **ŠV/SP:** Tai skydo šarvų taškų vertė bei jo struktūriniai taškai. Šis kiekis naudojamas, jei skydas yra pažeidžiamas arba į jį taikomasi. Daugiau informacijos rasite skiltyje „Pakabinti skydai“.
+>
+> * **Žala:** Žalos kiekis, kurį skydas padaro, jei naudojamas kaip ginklas.
+>
+> * **Atak:** Kiek atakų per raundą leidžia skydas?
+>
+> * **Specialus:** Specialios sėkmės tipas, kurį skydas suteikia. Dauguma skydų atlieka specialią atstūmimo sėkmę.
+>
+> * **Sunkumas:** Tai apibūdina nepatogumą ar santykinį skydo svorį.
+>
+> * **SV:** (Pasirinktinai) Skydo SV vertė.
+>
+> * **Vietos:** (Pasirinktinai) Pataikymo vietoms – pataikymo vietos, kurias dengia skydas. Tai dažniausiai tinka tik pakabintiems skydams. Žr. **Pakabinti skydai**.
+>
+> * **JĖG/VIK:** Minimali JĖG ir VIK, reikalinga skydui naudoti. Jei jūsų veikėjas neatitinka minimalių reikalaujamų JĖG ir VIK, bet koks skydo naudojimas yra Sunkus.
+>
+> * **Vertė:** Skydo kaina atitinkamoje aplinkoje.
+>
+> Kiekvienas skydo tipas aprašytas **Skydų aprašymuose**.
+>
+> ### Pakabinti skydai
+>
+> Paprastai skydai nešiojami pakabinti ant rankos/peties ar nugaros, kai aktyviai nenaudojami kovoje. Jei jūsų žaidimo vedėjas naudoja pataikymo vietas, pridėkite 1/2 pakabinto skydo šarvų vertės (apvalinant į viršų) prie bet kurios pataikymo vietos, į kurią pataikė ginklas, be jau esamos šarvų vertės toje vietoje. Iš šiame skyriuje aprašytų skydų tik skydelis, primityvūs ir energetiniai skydai negali būti pakabinami. Kadangi dauguma skydų turi aukštą šarvų vertę, tai atremia daugumą atakų.
+>
+> **Pavyzdžiui,** jūsų veikėjas turi skydą pakabintą ant nugaros, o priešininkas šauna strėlę iš užnugario. Ataka sėkminga, o iškritusi pataikymo vieta rodo liemenį. Jūsų žaidimo vedėjas nustato, kad skydas dengia šią pataikymo vietą, todėl 1/2 skydo šarvų vertės pridedama prie strėlės žalos. Jūsų žaidimo vedėjas jums pasako: „Strėlė atsitrenkia į skydą ant tavo nugaros, bet jo nepramuša.“ Dabar jūsų veikėjas turi galimybę tinkamai laikyti skydą, nebesitikėdamas dar vienos sėkmės.### Skydų aprašymai
 
-## Skydai
+Šiame skyriuje aprašomi visi skydų tipai, suskirstyti abėcėlės tvarka.
 
-Skydai iš esmės yra dideli atmušimui (parry) skirti ginklai, sukurti įsiterpti tarp jūsų veikėjo ir užpuoliko. Skydas paprastai turi rankeną, dirželį ar dirželius ir yra nešiojamas ant ne ginklinės rankos (daugumai žmonių – ant kairės rankos). Tradiciškai skydai turi ieškoti kompromiso tarp tvirtumo, lengvumo ir pusiausvyros. Skydų dydis svyruoja nuo mažo buckler (vos vakarienės lėkštės dydžio) iki didelio skydo, kurį naudojo hoplitų kariai.
+**Buckler (Mažas skydas):** Nedidelis skydas, saugantis apatinę rankos dalį, dažniausiai laikomas už rankenos arba vieno dirželio. Jie būdavo nešiojami prie diržo (angl. *swash*), nuo ko ir kilo terminas „swashbuckler“ (švaštbuckleris).
 
-Skydai skirstomi chronologiškai. Daugeliu atvejų ankstesnio laikotarpio skydai yra prieinami vėlesniais laikotarpiais, todėl jūsų GV gali tiesiog pasirinkti, kur baigiasi prieinamumas, ir leisti jūsų veikėjui prieigą prie ankstesnių laikotarpių skydų.
+**Energy Shield (Energijos skydas):** Gynybos prietaisas, susidedantis iš mažo energijos bloko, pritvirtinto prie gynėjo rankos, ir projektoriaus, skleidžiančio kintamo dydžio apskritą skydą.
 
-Visi skydai naudojami artimoje kovoje arba gynybai nuo sviedinių. Mestas skydas yra improvizuotas ginklas, kurio nuotolis yra 10 metrų ir 05 % pataikymo tikimybė (tai gali padidėti per patirtį).
+**Full Shield (Pilnas skydas):** Didesnis nei mažas skydas ir įvairių formų; pilnas skydas paprastai yra pakankamai didelis, kad uždengtų gynėjo apatinę veido dalį ir kirkšnis.
 
-Kiekvienas skydo tipas turi šiuos atributus:
+**Half Shield (Pusinis skydas):** Mažesnis įvairių formų skydas, dažniausiai naudojamas raitelių, lankininkų ar lengvųjų pėstininkų (priešingai nei sunkiųjų fronto kovotojų).
 
-* **Vardas:** Bendras skydo pavadinimas.
-* **Bazė (Base Chance):** Bazinis šansas bet kam, kas paima skydą. Šis bazinis šansas taip pat yra pradinis vertės dydis atakuojant su skydu.
-* **Įgūdis:** Įgūdis, naudojamas skydui.
-* **AV/HP:** Tai skydo šarvų taškų vertė, taip pat jo hit pointų vertė. Ši suma naudojama, jei skydas sugadinamas arba į jį taikomasi. Žr. **Permesti skydai** dėl detalių.
-* **Žala (Damage):** Žalos kiekis, kurį skydas padaro, jei naudojamas kaip ginklas.
-* **Atakos (Attk):** Kiek atakų per raundą leidžia skydas?
-* **Specialus:** Specialios sėkmės tipas, kurį atlieka skydas. Dauguma skydų atlieka atmetimo (knockback) specialiąsias sėkmes.
-* **Svoris (Burden):** Tai apibūdina skydo nerangumą ar santykinę apkrovą.
-* **ENC:** (Neprivaloma) Skydo ENC vertė.
-* **Vietos (Locations):** (Neprivaloma) Jei naudojamos hit vietos, nurodomos skydo dengiamos hit vietos. Tai paprastai tinka tik permestiems skydams. Žr. **Permesti skydai**.
-* **STR/DEX:** Minimalios STR ir DEX reikalingos skydui naudoti. Jei jūsų veikėjas neatitinka minimalių reikalaujamų STR ir DEX, bet koks skydo naudojimas yra Sunkus (Difficult).
-* **Vertė:** Skydo kaina atitinkamoje aplinkoje.
+**Heater (Lygintuvo formos skydas):** Vidutinis skydas, kurio forma primena lygintuvą (iš čia ir pavadinimas). Tai tradicinė daugelio heraldinių herbų forma.
 
-Kiekvienas skydo tipas aprašytas **Skydų aprašymuose**.
+**Hoplite (Hoplo skydas):** Didelis stačiakampis skydas, labai apsaugantis, bet per sunkus ir nepatogus raiteliams. Hoplo skydai dažnai naudojami atremiant juos į žemę. Dažniausiai stačiakampio formos, tačiau kai kurie yra pailgi ir užapvalintais kraštais.
 
-### Permesti skydai (Slung Shields)
+**Kite (Ašaros formos skydas):** Didelis ašaros formos skydas apvaliu viršumi ir smailiu apačia, dengiantis kūną nuo pečių iki kelių ar kulkšnių.
 
-Paprastai skydai nešiojami permesti per ranką/petį arba nugarą, kai nėra aktyviai naudojami kovoje. Jei jūsų GV naudoja hit vietų sistemą, pridėkite 1/2 permesto skydo šarvų vertės (suapvalinti į viršų) prie bet kurios hit vietos, į kurią pataikė ginklas, papildomai prie šarvų vertės, jau esančios toje vietoje. Iš šiame skyriuje aprašytų skydų tik buckler, primityvūs ir energetiniai skydai negali būti permesti. Kadangi dauguma skydų turi aukštą šarvų vertę, tai neutralizuoja daugumą atakų.
+**Large Round (Didelis apvalus skydas):** Identiškas apvaliam skydui (žr. žemiau), tik didesnis.
 
-**Pavyzdžiui,** jūsų veikėjas turi skydą permestą per nugarą, o oponentas paleidžia strėlę iš už nugaros. Ataka sėkminga, o hit vieta rodo liemenį. Jūsų GV nusprendžia, kad skydas dengia šią hit vietą, todėl 1/2 skydo šarvų vertės pridedama prie strėlės žalos. Jūsų GV sako: „Strėlė atsitrenkia į skydą ant tavo nugaros, bet nepramuša jo.“ Dabar jūsų veikėjas turi galimybę laikyti skydą tinkamai, nebetikėdamas laimingu atsitiktinumu.
+**Primitive (Primityvus skydas):** Skydas, naudojamas primityviose karingose kultūrose. Paprastai tai tėra medinis karkasas su ant jo ištempta oda, pintas karkasas, standus audinys ar net ypač tvirtas gyvulio kailis.
 
-### Skydų aprašymai
+**Round (Apvalus skydas):** Apvalus skydas, laikomas už centrinės dalies. Unikalus tuo, kad turi plonus neapsaugotus kraštus, kurie specialiu manevru gali būti naudojami sulaikyti ir sulaužyti aštrius ginklus.
 
-Šiame skyriuje aprašyti visi skydų tipai, išdėstyti abėcėlės tvarka.
+**Riot (Riaušių skydas):** Didelis stačiakampis skaidraus plastiko skydas, naudojamas riaušių policijos. Lengvi ir tvirti, jie leidžia formuoti skydų sienas ir užtikrina tinkamą gynybą nuo daugumos užpuolikų.
 
-**Buckler:** Mažas skydas, saugantis apatinę rankos dalį, dažniausiai laikomas su rankena ar vienu dirželiu. Jie buvo nešiojami ant diržo (swash), iš ko kilo terminas „swashbuckler“.
+**Spiked (Spygliuotas skydas):** Taikinio tipo skydas su centriniu smailiu, ašmenimis arba eile mažų spyglių, nukreiptų į priešininką.
 
-**Skydas, energetinis:** Gynybos prietaisas, susidedantis iš mažo galių paketo, pritvirtinto prie gynėjo rankos, ir projektoriaus, skleidžiančio kintamo dydžio apskritą skydą.
-
-**Skydas, pilnas:** Didesnis už mažą skydą ir įvairių formų, pilnas skydas paprastai yra pakankamai didelis, kad uždengtų gynėjo apatinę veido dalį ir kirkšnis.
-
-**Skydas, pusinis:** Mažesnis įvairių formų skydas, dažniausiai naudojamas raitelių, lankininkų ar lengvųjų pėstininkų (prieš sunkiuosius fronto kovotojus).
-
-**Skydas, šildytuvas (Heater):** Vidutinis skydas, suformuotas kaip plokščias lygintuvas (ir nuo to pavadintas). Tai tradicinė daugelio heraldinių herbų forma.
-
-**Hoplitų skydas:** Didelis stačiakampis skydas, labai apsaugantis, bet per sunkus ir nerangus raiteliams. Hoplitų skydai dažnai naudojami atremiant į žemę. Dažniausiai stačiakampio formos, bet kai kurie yra pailgi ir suapvalintais kraštais.
-
-**Kaitinis skydas (Kite):** Didelis, ašaros formos skydas su apvaliu viršumi ir smailiu apačia, dengiantis kūną nuo pečių iki kelio ar kulkšnies.
-
-**Skydas, didelis apvalus:** Identiškas apvaliam skydui (žemiau), tik didesnis.
-
-**Primityvus:** Skydas, naudojamas primityviose karingose kultūrose. Dažniausiai tai tik medinis karkasas su įtempta oda, vytelėmis, standintu audiniu ar net itin standžia gyvūno oda.
-
-**Apvalus skydas:** Apvalus skydas, laikomas už centrinio gumburo. Unikalus tuo, kad turi plonus neapsaugotus kraštus, kurie gali būti naudojami sugauti ir sulaužyti aštrius ginklus specialiu manevru.
-
-**Riaušių malšinimo skydas (Riot):** Didelis stačiakampis skaidraus plastiko skydas, naudojamas riaušių policijos pareigūnų. Lengvas ir tvirtas, jie įgalina skydų sienas ir suteikia tinkamą gynybą nuo daugumos užpuolikų.
-
-**Skydas, dygliuotas (Spiked):** Skydas su centriniu smaigaliu, ašmenimis ar serija mažų smaigalių, nukreiptų į priešininką.
-
-**Taikinys (Target):** Apvalus, vidutinio dydžio skydas, įprastas daugelyje kultūrų. Dažniausiai pagamintas su metaliniu apvadu.
+**Target (Taikinys/Vidutinis skydas):** Apvalus, vidutinio dydžio skydas, paplitęs daugelyje kultūrų. Dažniausiai gaminamas su metaliniu apvadu.
 
 ##### Primityvūs skydai
 
-| Vardas | Bazinis šansas | Įgūdis | AV/HP | Žala | Atakos | Specialus | Svoris | Vietos | STR/DEX | ENC | Vertė |
+| Pavadinimas | Bazė | Įgūdis | AV/HP | Žala | Atakų sk. | Specialus | Našta | Vietos | JĖG / VIK | APK | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Primityvus | 10% | Skydas | 10 | 1D2+dm | 1 | Atmetimas | Lengvas | Ranka | 5/7 | 2.0 | Pigu |
+| Primityvus | 10% | Skydas | 10 | 1D2+dm | 1 | Atstūmimas | Lengva | Ranka | 5/7 | 2.0 | Pigi |
 
-##### Senoviniai ir viduramžių skydai
+##### Senovės ir viduramžių skydai
 
-| Vardas | Bazinis šansas | Įgūdis | AV/HP | Žala | Atakos | Specialus | Svoris | Vietos | STR/DEX | ENC | Vertė |
+| Pavadinimas | Bazė | Įgūdis | AV/HP | Žala | Atakų sk. | Specialus | Našta | Vietos | JĖG / VIK | APK | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Buckler | 05% | Skydas | 15 | 1D2+dm | 1 | Atmetimas | Lengvas | Ranka | 5/7 | 1.0 | Vidutinė |
-| Skydas, pilnas | 15% | Skydas | 22 | 1D4+dm | 1 | Atmetimas | Vidutinis | Ranka, Krūtinė, Galva | 11/9 | 5.0 | Vidutinė |
-| Skydas, pusinis | 15% | Skydas | 15 | 1D2+dm | 1 | Atmetimas | Vidutinis | Ranka, Krūtinė | 5/7 | 3.0 | Vidutinė |
-| Heater | 15% | Skydas | 20 | 1D3+dm | 1 | Atmetimas | Vidutinis | Ranka, Krūtinė | 9/9 | 3.0 | Vidutinė |
-| Hoplitų | 15% | Skydas | 26 | 1D4+dm | 1 | Atmetimas | Nerangus | Pilvas, Ranka, Krūtinė | 12/8 | 7.0 | Vidutinė |
-| Kite | 15% | Skydas | 22 | 1D4+dm | 1 | Atmetimas | Vidutinis | Pilvas, Ranka, Krūtinė | 11/9 | 5.0 | Vidutinė |
-| Skydas, didelis apvalus | 15% | Skydas | 22 | 1D4+dm | 1 | Atmetimas | Vidutinis | Pilvas, Ranka, Krūtinė | 11/9 | 5.0 | Vidutinė |
-| Apvalus | 15% | Skydas | 20 | 1D3+dm | 1 | Atmetimas | Vidutinis | Ranka, Krūtinė | 9/9 | 4.0 | Vidutinė |
-| Dygliuotas | 15% | Skydas | 20 | 1D3+dm | 1 | Impalas | Vidutinis | Ranka, Krūtinė | 9/9 | 5.0 | Vidutinė |
-| Taikinys | 15% | Skydas | 15 | 1D2+dm | 1 | Atmetimas | Lengvas | Ranka, Krūtinė | 5/7 | 3.0 | Pigu |
+| Buckler | 05% | Skydas | 15 | 1D2+dm | 1 | Atstūmimas | Lengva | Ranka | 5/7 | 1.0 | Vidutinė |
+| Full Shield | 15% | Skydas | 22 | 1D4+dm | 1 | Atstūmimas | Vidutinė | Ranka, Krūtinė, Galva | 11/9 | 5.0 | Vidutinė |
+| Half Shield | 15% | Skydas | 15 | 1D2+dm | 1 | Atstūmimas | Vidutinė | Ranka, Krūtinė | 5/7 | 3.0 | Vidutinė |
+| Heater | 15% | Skydas | 20 | 1D3+dm | 1 | Atstūmimas | Vidutinė | Ranka, Krūtinė | 9/9 | 3.0 | Vidutinė |
+| Hoplite | 15% | Skydas | 26 | 1D4+dm | 1 | Atstūmimas | Sunki | Pilvas, Ranka, Krūtinė | 12/8 | 7.0 | Vidutinė |
+| Kite | 15% | Skydas | 22 | 1D4+dm | 1 | Atstūmimas | Vidutinė | Pilvas, Ranka, Krūtinė | 11/9 | 5.0 | Vidutinė |
+| Large Round | 15% | Skydas | 22 | 1D4+dm | 1 | Atstūmimas | Vidutinė | Pilvas, Ranka, Krūtinė | 11/9 | 5.0 | Vidutinė |
+| Round | 15% | Skydas | 20 | 1D3+dm | 1 | Atstūmimas | Vidutinė | Ranka, Krūtinė | 9/9 | 4.0 | Vidutinė |
+| Spiked | 15% | Skydas | 20 | 1D3+dm | 1 | Prismeigimas | Vidutinė | Ranka, Krūtinė | 9/9 | 5.0 | Vidutinė |
+| Target | 15% | Skydas | 15 | 1D2+dm | 1 | Atstūmimas | Lengva | Ranka, Krūtinė | 5/7 | 3.0 | Pigi |
 
 ##### Modernūs skydai
 
-| Vardas | Bazinis šansas | Įgūdis | AV/HP | Žala | Atakos | Specialus | Svoris | Vietos | STR/DEX | ENC | Vertė |
+| Pavadinimas | Bazė | Įgūdis | AV/HP | Žala | Atakų sk. | Specialus | Našta | Vietos | JĖG / VIK | APK | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Riaušių skydas | 15% | Skydas | 16 | 1D3+dm | 1 | Atmetimas | Vidutinis | Pilvas, Ranka, Krūtinė, Galva | 9/9 | 3.0 | Brangi |
+| Riaušių skydas | 15% | Skydas | 16 | 1D3 + dm | 1 | Atstūmimas | Vidutinė | Pilvas, Ranka, Krūtinė, Galva | 9/9 | 3.0 | Brangi |
 
 ##### Pažangūs skydai
 
-| Vardas | Bazinis šansas | Įgūdis | AV/HP | Žala | Atakos | Specialus | Svoris | Vietos | STR/DEX | ENC | Vertė |
+| Pavadinimas | Bazė | Įgūdis | AV/HP | Žala | Atakų sk. | Specialus | Našta | Vietos | JĖG / VIK | APK | Vertė |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Skydas, energetinis | 20% | Skydas | 25 | 1D2+dm | 1 | Atmetimas | Lengvas | Ranka, Krūtinė | 3/3 | 1.0 | Brangi |
+| Energijos skydas | 20% | Skydas | 25 | 1D2 + dm | 1 | Atstūmimas | Lengva | Ranka, Krūtinė | 3/3 | 1.0 | Brangi |
 
 ## Artilerija
 
-Artilerija apibūdina milžiniškus mechanizmus, dažniausiai esančius mūšio lauke arba naudojamus gynyboje, pavyzdžiui, pilies, karinės bazės ar sumontuotus ant transporto priemonės. Senovės ir viduramžių aplinkose artilerija pirmiausia yra apgulties ginklai. Artilerijos ginklai gali būti montuojami ant transporto priemonių, pradedant motociklais, vežimais, visureigiais, ir baigiant karo laivais bei kosminėmis stotimis. Šie masiniai ginklai dažniausiai yra sumontuoti ir pakankamai sudėtingi, kad reikalautų daugiau nei vieno operatoriaus. Dauguma yra nuotolinio veikimo ir šaudo sviediniais. Tradiciškai dauguma vykdo netiesioginę ugnį, nukreiptą į plotą, o ne į konkretų objektą (veikėją ar transporto priemonę), nors kai kurie gali būti naudojami prieš individualius taikinius.
+Artilerija apibūdina milžiniškus mechanizmus, dažniausiai naudojamus mūšio lauke arba įrenginių, tokių kaip pilys ar karinės bazės, gynybai, arba montuojamus ant transporto priemonių. Senovės ir viduramžių aplinkoje artilerija visų pirma yra apgulties ginkluotė. Artilerijos ginklai gali būti montuojami ant įvairaus dydžio transporto priemonių – nuo motociklų, vežimų ir džipų iki karo laivų bei kosminių stočių. Šie masyvūs ginklai dažniausiai yra stacionarūs ir pakankamai sudėtingi, kad jiems valdyti reikia daugiau nei vieno operatoriaus. Dauguma jų yra tolimojo nuotolio ir šaudo sviediniais. Tradiciškai dauguma vykdo netiesioginę ugnį, nusitaikydami į plotą, o ne į konkretų objektą (veikėją ar transporto priemonę), nors kai kurie gali būti naudojami ir prieš individualius taikinius.
 
-Yra beveik tiek pat tipų artilerijos ginklų, kiek ir artimos kovos ginklų, ir šiame skyriuje pateikiamas reprezentatyvus pavyzdys. Didesni ginklai, tokie kaip raketos, šaudmenys ir transporto priemonė prieš transporto priemonę ar transporto priemonė prieš konstrukciją ginklai, yra už šių taisyklių ribų.
+Yra beveik tiek pat artilerijos ginklų tipų, kiek ir artimos kovos ginklų, o šiame skyriuje pateikiamas reprezentatyvus pavyzdžių rinkinys. Didesni ginklai, tokie kaip raketos ir ginklai „transporto priemonė prieš transporto priemonę“ arba „transporto priemonė prieš statinį“, viršija šių taisyklių apimtį.
 
 Kiekvienas artilerijos ginklas turi šiuos atributus:
 
-* **Vardas:** Bendras artilerijos ginklo tipo pavadinimas.
-* **Įgūdis:** Įgūdis, naudojamas su šiuo artilerijos ginklu.
-* **Bazė:** Bazinis šansas naudoti artilerijos ginklą.
-* **Žala:** Artilerijos ginklo padaroma žala, kartais išreikšta kauliukais/metrais. Žala sumažėja 1D6 per metrą už pradinio spindulio.
-* **Atakos:** Atakų per raundą skaičius, kurį leidžia artilerijos ginklas.
+* **Pavadinimas:** Bendrinis artilerijos ginklo tipo pavadinimas.
+
+* **Įgūdis:** Įgūdis, naudojamas šiam artilerijos ginklui valdyti.
+
+* **Bazė:** Bazinė tikimybė naudoti artilerijos ginklą.
+
+* **Žala:** Artilerijos ginklo daroma žala, kartais išreiškiama kauliukais/metrais. Žala sumažėja 1D6 už kiekvieną metrą už pradinio spindulio ribų.
+
+* **Atakos:** Atakų skaičius per raundą, kurį leidžia artilerijos ginklas.
+
 * **Specialus:** Specialios sėkmės tipas.
-* **Diapazonas:** Ginklo nuotolis.
-* **Įgula:** Veikėjų skaičius, reikalingas artilerijos ginklui efektyviai naudoti. Esant mažesniam skaičiui, visos atakos yra Sunkios (Difficult).
-* **HP:** Artilerijos ginklo hit pointai.
+
+* **Nuotolis:** Ginklo šaudymo nuotolis.
+
+* **Įgula:** Veikėjų skaičius, reikalingas efektyviam artilerijos ginklo naudojimui. Esant mažesniam skaičiui, visos atakos laikomos sudėtingomis.
+
+* **HP:** Artilerijos ginklo sveikatos taškai.
+
 * **AV:** Artilerijos ginklo šarvų vertė, jei taikoma.
-* **Amunicija:** Amunicijos tipas – kietos, skeveldros, energijos, cheminės ar kitos?
-* **CAP:** Ginklo talpa; kiek šūvių jis gali iššauti prieš užtaisant ar įkraunant.
-* **Mal:** Artilerijos ginklo gedimo tikimybė.
+
+* **Šaudmenys:** Šaudmenų tipas: kieti sviediniai, skeveldros, energija, cheminiai ar kiti?
+
+* **Talpa:** Ginklo talpa; kiek šūvių gali paleisti prieš užtaisymą ar įkrovimą.
+
+* **Gedimas:** Artilerijos ginklo sugedimo tikimybė.
+
 * **Vertė:** Vidutinė ginklo kaina atitinkamoje aplinkoje.
-* **SIZ:** Artilerijos ginklo SIZ.
+
+* **DYD:** Artilerijos ginklo DYD.
 
 Kiekvienas artilerijos ginklas aprašytas **Artilerijos ginklų aprašymuose**.
 
 ### Artilerijos ginklų klasės
 
-Šios klasės turi tam tikrų sutapimų, ypač su Sunkiojo ginklo (Heavy Weapons) įgūdžiu, ir tas įgūdis gali leisti žaidėjams naudoti artilerijos ginklus lyg jie būtų Sunkūs (Difficult), arba atvirkščiai.
+Šios klasės turi tam tikrų sutapimų, ypač su sunkiųjų ginklų įgūdžiu, ir šis įgūdis gali leisti žaidėjams naudoti artilerijos ginklus kaip „sudėtingus“ arba atvirkščiai.
 
-* **Patranka:** Patranka, energetinė patranka, lauko pabūklas, haubica, tanko patranka.
-* **Paleidiklis:** Minosvaidis.
-* **Sumontuotas ginklas:** Bėginis ginklas (rail gun).
+* **Patranka:** Patranka, energijos patranka, lauko pabūklas, haubica, tanko pabūklas.
+
+* **Leistuvas:** Minosvaidis.
+
+* **Montuojamas ginklas:** Elektromagnetinis pabūklas (Rail gun).
+
 * **Apgulties mašina:** Balista, katapulta, springalas, trebušetas.
+
 * **Raketa:** Torpeda.
-* **Bokštelis:** Energetinis bokštelis, liepsnos bokštelis, lazerinis bokštelis, raketų bokštelis, kulkosvaidžio bokštelis, smūginis bokštelis, ieties svaidymo bokštelis.
 
-### Artilerijos ginklų efektai
+* **Bokštelis:** Energijos bokštelis, liepsnosvaidžio bokštelis, lazerinis bokštelis, raketų bokštelis, kulkosvaidžio bokštelis, elektros smūgio bokštelis, ieties svaidymo bokštelis.
 
-Artilerijos ginklai retai naudojami prieš individus. Jie šaudomi į žmonių mases arba į sienas bei kitas konstrukcijas, paprastai paveikdami SIZ 40 plotą (apie keturis metrus spinduliu nuo centro, maždaug mažo lėktuvo SIZ). Kiekvienas, patekęs į tą diapazoną, sužalojamas. Jei taikinys mažesnis nei SIZ 40, sumažinkite pataikymo tikimybę –1 % už kiekvieną SIZ tašką mažesnį nei 40.
+### Artilerijos ginklų poveikis
 
-**Pavyzdžiui,** naudojant artilerijos ginklą prieš SIZ 14 žmogų, rezultatas būtų –26 % atitinkamo įgūdžio sumažinimas.
+Artilerijos ginklai retai naudojami prieš individualius asmenis. Jie šaudomi į žmonių mases, į sienas ar kitus statinius, paprastai paveikdami 40 DYD plotą (apie keturių metrų spinduliu nuo centro, maždaug mažo lėktuvo dydžio). Kiekvienas, patekęs į tą spindulį, yra sužeidžiamas. Jei taikinys yra mažesnis nei 40 DYD, sumažinkite pataikymo tikimybę –1% už kiekvieną DYD vienetą, mažesnį nei 40.
 
-Jei sviedinys nepataiko, naudokite Mėtymo (Throw) įgūdžio taisykles, kad nustatytumėte, kur sviedinys iš tikrųjų nuskrido, padauginant atstumą iš x5.
+**Pavyzdžiui,** naudojant artilerijos ginklą prieš 14 DYD dydžio asmenį, atitinkamas įgūdis sumažėtų 26%.
 
-**Pavyzdžiui,** jei Mėtymo įgūdis rodo, kad sviedinys nepataikė keturiais metrais, padauginkite rezultatą iš x5 – gausite 20 metrų. Tai užtikrina, kad nepataikymas vis tiek yra nepataikymas.
+Jei sviedinys nepataiko, naudokite metimo įgūdžio taisykles, kad nustatytumėte, kur iš tikrųjų nuskrido sviedinys, padaugindami atstumą ×5.
+
+**Pavyzdžiui,** jei metimo įgūdis rodo, kad sviedinys nepataikė keturiais metrais, padauginkite rezultatą iš ×5, kad gautumėte 20 metrų. Tai užtikrina, kad pro šalį paleistas šūvis tikrai praskrietų pro šalį.
 
 ### Valdomos raketos
 
-Artilerijos formos, tokios kaip raketos, valdomos per vidines ar išorines elektronines taikymosi sistemas, todėl jos yra daug tikslesnės. Jei raketa valdoma tokiu būdu, bet koks įgūdžio naudojimas tampa Lengvas (Easy). Jei ji valdoma savarankiškai, ji automatiškai pataiko į taikinį bet kokiu metimu, išskyrus 99 ar 00, nors judantis taikinys gali bandyti išvengti raketos. Jei taip, išsisukimo bandymai laikomi manevrais, ir išsisukimai prieš valdomą raketą yra Sunkūs (Difficult), ar naudojamas Dodge, Drive ar Pilot įgūdis.
+Artilerijos formos, tokios kaip raketos, yra valdomos vidinėmis arba išorinėmis elektroninėmis taikymo sistemomis, todėl jos yra daug tikslesnės. Jei raketa valdoma tokiu būdu, bet koks įgūdžio panaudojimas tampa lengvu. Jei ji yra savaeigė, ji automatiškai pataiko į taikinį bet kokiu atveju, išskyrus 99 ar 00, nors judantis taikinys gali bandyti nuo jos išsisukti. Jei taip atsitinka, išsisukimo bandymai laikomi vengimo manevrais, o išsisukimas nuo valdomos raketos yra sudėtingas, nesvarbu, ar naudojamas vengimo, vairavimo ar pilotavimo įgūdis.
 
-Geriausia gynyba prieš valdomas raketas (išskyrus storus šarvus) yra elektroninis trukdymas. Trikdymas padaro valdomos raketos atakos tikimybę Sunkią (Difficult). Jei valdoma raketa nepataiko į taikinį, žr. artilerijos ginklo nepataikymo taisykles (anksčiau), kad nustatytumėte, kur sviedinys iš tikrųjų smogia.
+Geriausia gynyba nuo valdomų raketų (be storų šarvų) yra elektroninis trukdymas. Trukdymas padaro valdomos raketos atakos tikimybę sudėtinga. Jei valdoma raketa nepataiko į taikinį, žr. artilerijos ginklų nepataikymo taisykles (prieš tai), kad nustatytumėte, kur sviedinys iš tikrųjų atsitrenkia.
 
 ### Skeveldros
 
-Daugelis artilerijos ginklų gali šaudyti sviedinius, kurie fragmentuojasi, arba didelius mažesnių sviedinių užtaisus. Abu jie tarnauja tam pačiam tikslui – išbarstyti aštrius objektus (skeveldras) spinduliu aplink smūgio tašką. Kai kurie ginklai šaudo tik kietus sviedinius, kiti – tik skeveldras, o kai kurie gali šaudyti abiejų tipų užtaisus.
+Daugelis artilerijos ginklų gali šaudyti sviediniais, kurie suskyla, arba dideliais kiekiais mažesnių sviedinių. Abu šie dalykai tarnauja tam pačiam tikslui – paskleisti aštrius objektus (skeveldras) spinduliu aplink smūgio tašką. Kai kurie ginklai šaudo tik vientisus sviedinius, kiti – tik skeveldrinius, o kai kurie gali šaudyti abiejų tipų užtaisais.
 
-Skeveldros žaloja žmones, bet ne pastatus (pastebimu mastu). Žala nuo skeveldrų yra tik 1/6 žalos, padarytos palyginamu kietu sviediniu (padalinkite kauliukų skaičių, jei įmanoma, jei ne – ridenkite kauliukus ir padalinkite iš 6, suapvalindami į viršų), bet ji padaroma viskam spinduliu, lygiu metrais kauliukų skaičiui, nurodytam kieta sviedinio žalos ridenime.
+Skeveldros sužeidžia žmones, bet (kiek reikšmingiau) ne pastatus. Skeveldrų daroma žala yra tik 1/6 žalos, kurią padarytų (padalinkite kauliukų skaičių, jei įmanoma; jei ne, ridenkite kauliukus ir padalinkite iš 6, suapvalindami į viršų) palyginamas vientisas sviedinys, tačiau ši žala padaroma viskam, kas yra spinduliu, lygiu metrais kauliukų skaičiui, nurodytam vientiso sviedinio žalos ridenimui.
 
-**Pavyzdžiui,** trebušetas iššauna sviedinį, padarantį 12D6 žalos, kai pataiko. Jei jis šaudo skeveldras, jis padarys 2D6 kiekvienam 12 metrų spinduliu nuo smūgio taško.
+Pavyzdžiui, trebušetas iššauna sviedinį, kuris pataikydamas padaro 12D6 žalą. Jei jis iššauna skeveldras, kiekvienas žmogus 12 metrų spinduliu nuo smūgio taško patirs 2D6 žalą.### Artilerijos ginklų aprašymai
 
-### Artilerijos ginklų aprašymai
+Štai artilerijos ginklų pavyzdžiai, pateikti abėcėlės tvarka.
 
-Čia yra artilerijos ginklų pavyzdžiai, išdėstyti abėcėlės tvarka.
+**Arbaletas, apgulties:** sunkesnė arbaleto versija, užtaisoma naudojant mechaninį suktuvą (vadinamąjį „cranequin“).
 
-**Arbaletas, apgulties:** Sunkesnė arbaleto versija, užtaisoma su cranequin pagalba.
+**Balista:** didelis stacionarus apgulties ginklas, šaudantis arbaleto tipo varžtais, dažniausiai nukreiptas į žmones mūšio lauke, o ne į statinius ar kitas transporto priemones.
 
-**Balista:** Didelis sumontuotas apgulties ginklas, mėtantis arbaleto tipo strėles, dažniausiai į žmones mūšio lauke, o ne į struktūras ar kitas transporto priemones.
+**Patranka:** patranka šaudo kietais sviediniais, tokiais kaip skeveldros, patrankų sviediniai ar smulkesnė amunicija, naudodama sprogstamąjį užtaisą, esantį vamzdžio gale. Kuo senesnė patranka, tuo primityvesnis jos sviedinis. Kai kurie piratai į patrankas dėdavo grandines, kad sudraskytų bures.
 
-**Patranka:** Patranka šaudo kietus sviedinius, tokius kaip apvalkalai, patrankų sviediniai ar mažesni šratai, naudojant sprogstamąjį užtaisą, esantį vamzdžio pagrinde. Kuo senesnė patranka, tuo mažiau sudėtingas sviedinys. Kai kurie piratai užtaisydavo patrankas grandinėmis, kad sugadintų bures.
+**Patranka, energijos:** sunkiarėmis energijos projekcijos ginklas, šaudantis pavieniais pliūpsniais arba naudojantis besisukančių vamzdžių seriją serijinei ugniai. Dažniausiai montuojama ant žvaigždėlaivių ar bazių, nors kai kurie modeliai yra nešiojami.
 
-**Patranka, energetinė:** Sunkus energetinio projektavimo ginklas, šaudantis pavieniais pliūpsniais arba naudojantis besisukančią vamzdžių seriją daugkartinei ugniai. Dažniausiai montuojama erdvėlaiviuose arba bazėse, nors kai kurios yra nešiojamos.
+**Katapulta:** apgulties ginklas, svaidantis akmenis ir kitus objektus paraboline trajektorija į taikinio zoną. Dėl katapultos sviedinių skrydžio trajektorijos jos idealiai tinka šaudyti virš atvirų įtvirtinimų sienų arba į lėtai judančias antžemines ar jūrų transporto priemones.
 
-**Katapulta:** Apgulties ginklas, sviedžiantis akmenis ir kitus objektus paraboline trajektorija į taikytą plotą. Dėl katapultos sviedinių skrydžio kelio jie idealiai tinka pasiekti virš atvirų įtvirtinimų sienų arba šaudyti į lėtai judančias sausumos ar jūros transporto priemones.
+**Pabūklas, lauko:** mažesnė ir mobilesnė patrankos versija.
 
-**Ginklas, lauko (Field):** Mažesnė ir mobilesnė patranka.
+**Pabūklas, „Gatling“:** pirmasis greitašaudis šaunamasis ginklas. „Gatling“ pabūklai yra per dideli nešioti rankomis, todėl montuojami ant vežimų ar dviračių kaseono tipo platformų. Dauguma šiuolaikinių kulkosvaidžių kilo iš šio pirminio dizaino.
 
-**Ginklas, Gatling:** Pirmasis greitai šaudantis šaunamasis ginklas. Per didelis nešiojimui, Gatling ginklai montuojami ant vežimų ar dviračių vežimėlių. Dauguma modernių kulkosvaidžių kyla iš šios pradinės konstrukcijos.
+**Pabūklas, bėginis:** milžiniškas ginklas, naudojantis magnetinių laukų seriją sviediniui bėgiais varyti, įsibėgėjant iki neįtikėtino greičio.
 
-**Ginklas, bėginis (Rail):** Milžiniškas ginklas, naudojantis magnetinių laukų seriją sviediniui varyti išilgai bėgio, pagreitinant sviedinį iki neįtikėtino greičio.
+**Pabūklas, tanko:** pagrindinis tanko ginklas, šaudantis didelio kalibro sviediniais dideliu greičiu naudojant įvairių tipų amuniciją. Dažniausiai tankų ginkluose naudojami skeveldriniai, šarvamušiai arba valdomi raketiniai sviediniai.
 
-**Ginklas, tanko:** Pagrindinis tanko ginklas, šaudantis didelio greičio didelio kalibro šovinius iš įvairių tipų amunicijos. Kai kurie iš dažniausiai naudojamų sviedinių, šaudomų iš tankų patrankų, yra sprogstamieji, šarvamušiai arba valdomos raketos.
+**Haubica:** lauko artilerijos tipas, panašus į patranką, tačiau su trumpesniu ir siauresniu vamzdžiu. Haubicos šaudo sviedinius didesniu kampu ir trajektorija, sukurdamos smingamąją ugnį (ugnį, krentančią iš viršaus) į priešą.
 
-**Haubica:** Lauko artilerijos tipas, panašus į patranką, nors su trumpesniu ir siauresniu vamzdžiu. Haubicos šaudo sviedinius aukštesniu kampu ir trajektorija, pristatydamos krintančią ugnį (ugnį, krentančią iš viršaus) į priešą.
+**Minosvaidis:** nedidelis ant žemės montuojamas raketinis leistuvas, šaudantis savaeigę bombą aukšta arka į taikinį. Dažnai tai tėra tvirtas pagrindas ir vamzdis su paprastu šaudymo mechanizmu.
 
-**Minosvaidis:** Mažas raketų paleidiklis ant žemės, šaudantis savaeigę bombą aukštu lanku į taikinį. Tai dažnai yra tik tvirtas pagrindas ir vamzdis su paprastu uždegimo mechanizmu.
+**Springalas:** pagal funkciją panašus į balistą, šis apgulties ginklas svaido milžiniškas ietis į taikinio zoną, tačiau gali būti naudojamas ir akmenims ar varžtams šaudyti. Varžtai paleidžiami tiesiogine trajektorija, o akmenys – netiesiogine.
 
-**Springalas:** Pagal funkciją panašus į balistą, šis apgulties ginklas sviedžia milžiniškas ietis į taikytą plotą, bet taip pat gali būti naudojamas mėtyti akmenis ar strėles. Strėlės paleidžiamos tiesiogine trajektorija, o akmenys metami netiesiogiai.
+**Torpeda:** savaeigis sviedinys, naudojamas po vandeniu arba kosmose, sukonstruotas sprogti susidūrus su taikiniu. Senesnės torpedos kartais būdavo detonuojamos apskaičiuotu atstumu, kad netaptų navigacijos pavojumi. Sudėtingesni modeliai turi taikinių sekimo sistemas ir galimybę „užsirakinti“ į taikinį.
 
-**Torpeda:** Savaeigė raketa, naudojama po vandeniu ar kosmose, nustatyta sprogti susidūrus su taikiniu. Senesnės torpedos kartais būdavo nustatomos sprogti apskaičiuotu atstumu, kad netaptų navigacijos pavojumi. Sudėtingesni modeliai turi taikymosi sistemas ir gebėjimą užfiksuoti taikinius.
+**Trebušetas:** šis sūpynių tipo apgulties įrenginys naudoja milžinišką atsvarą dideliems akmenims ar kitiems kroviniams mesti į taikinio zoną. Paprastai surenkamas mūšio lauke, jis nusitaiko tik į vieną zoną, o vienintelis būdas pakeisti taikymą – sutrumpinti atstumą arba perkelti visą trebušetą.
 
-**Trebušetas:** Šis sūpuokles primenantis apgulties variklis naudoja didžiulį atsvarą, kad sviestų didelius akmenis ar kitus užtaisus į taikytą plotą. Dažniausiai surenkamas mūšio lauke, jis taikosi tik į vieną plotą, o vienintelis būdas pakeisti taikymą – sutrumpinti atstumą arba perkelti visą trebušetą.
+**Bokštelis, energijos:** naudojamas kosmose ar ant žemės; energijos bokštelis yra didelis energiją projektuojantis ginklas, sunaudojantis milžinišką galios kiekį. Dažniausiai naudojamas kosminėse stotyse, vidutiniuose ar dideliuose erdvėlaiviuose arba dideliuose antžeminiuose mūšiuose. Kitu atveju panašus į kulkosvaidžio bokštelį (žr. žemiau).
 
-**Bokštelis, energetinis:** Naudojamas kosmose ar ant žemės, energetinis bokštelis yra didelis energiją projektuojantis ginklas, suvartojantis milžinišką energijos kiekį. Dažniausiai naudojamas kosminėse stotyse, vidutinio dydžio ar dideliuose erdvėlaiviuose arba dideliuose sausumos mūšiuose. Kitu atveju panašus į kulkosvaidžio bokštelį (žemiau).
+**Bokštelis, liepsnos:** ant bokštelio montuojamas liepsnosvaidis, dažniausiai su papildomais šarvais, saugančiais naudotoją, pasižymintis didesniu nuotoliu nei rankinis liepsnos projektorius.
 
-**Bokštelis, liepsnos:** Bokštelyje sumontuotas liepsnosvaidis, dažniausiai su papildomais šarvais, saugančiais vartotoją, siūlantis didesnį nuotolį nei rankinis liepsnos projektorius.
+**Bokštelis, lazerinis:** ant bokštelio montuojama lazerinė patranka, dažnai įrengiama kosminėje stotyje ar gynybos palydove. Panaši į energijos bokštelį (aukščiau), tačiau naudoja lazerio šviesą, o ne neapdorotus energijos pliūpsnius.
 
-**Bokštelis, lazerinis:** Bokštelyje sumontuota lazerinė patranka, dažnai montuojama kosminėje stotyje ar gynybiniame palydove. Panašus į energetinį bokštelį (aukščiau), bet naudojantis lazeriuotą šviesą, o ne neapdorotus energijos pliūpsnius.
+**Bokštelis, kulkosvaidžio:** didelis kulkosvaidis, pritvirtintas ant besisukančio pagrindo, galintis apšaudyti plačią zoną, paprastai valdomas iš toli arba vidinio ar išorinio šaulio. Bokšteliai dažniausiai montuojami ant vidutinių ar didelių lėktuvų, laivų, tankų ar kitų motorinių transporto priemonių, arba net ant sienų ir kitų gynybinių įtvirtinimų.
 
-**Bokštelis, kulkosvaidis:** Didelis kulkosvaidis, nustatytas ant besisukančio pagrindo, pajėgus dideliam ugnies lankui, dažniausiai valdomas iš toli arba iš vidinio ar išorinio šaulio. Bokšteliai dažniausiai montuojami vidutiniuose ar dideliuose lėktuvuose, laivuose, tankuose ar kitose motorinėse transporto priemonėse, arba net ant sienų ar kitų gynybinių struktūrų.
+**Bokštelis, šoko:** bokštelis, galintis projektuoti žaibo ar elektros išlydžius per atstumą, dažnai naudojantis tam tikros formos kintamąją srovę. Šoko bokštelis turi +20 % tikslumo premiją prieš metalinius taikinius arba taikinius, padengtus metaliniais šarvais.
 
-**Bokštelis, smūginis (Shock):** Bokštelis, pajėgus projektuoti žaibus ar elektros lankus per atstumą, dažnai naudojant tam tikrą kintamosios srovės formą. Smūginis bokštelis turi +20 % prie pataikymo prieš metalinį taikinį arba taikinį, padengtą metaliniais šarvais.
+**Bokštelis, ieties svaidyklė:** ant bokštelio montuojama automatinė ieties svaidyklė, dažniausiai šaudanti metrinius metalinius varžtus, o ne tikras ietis. Kai kurie ankstyvieji modeliai buvo naudojami banginių medžioklės pramonėje, tačiau jie taip pat naudojami postapokaliptinėse aplinkose.
 
-**Bokštelis, ieties svaidymo:** Bokštelyje sumontuotas automatinis ieties ginklas, dažniausiai šaudantis metro ilgio metalines strėles, o ne tikras ietis. Kai kurie ankstyvieji modeliai naudojami banginių medžioklės pramonėje, nors jie taip pat naudojami poapokaliptinėse aplinkose.
+##### Senovės artilerijos ginklai
 
-##### Senoviniai artilerijos ginklai
-
-| Vardas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Įgula | HP | AV | Amunicija | Talpa | Mal | Vertė | SIZ | Greitis |
+| Pavadinimas | Įgūdis | Bazė | Žala | Atak | Specialu | Nuot | Įgula | HP | AV | Amun | Talp | Mal | Vertė | DYD | Temp |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbaletas, apgulties | Arbaletas | 10 | 3D6+1 | 1/5 | Impalas | 425 | 1 | 18 | — | Strėlės | 1 | 98-00 | Vidutinė | 14 | 1/5 raundų |
-| Balista | Apgulties var. | 05 | 10D6 | 1/5 | Impalas | 275 | 3 | 32 | 12 | Strėlės | 1 | 99-00 | Vidutinė | 42 | 1/5 raundų |
-| Katapulta | Apgulties var. | 10 | 6D6 | 1/5 | Traiškyk | 325 | 3 | 36 | 12 | Akmenys | 1 | 00 | Pigu | 44 | 1/5 raundų |
-| Springalas, strėlių | Apgulties var. | 05 | 3D6 | 1/6 | Impalas | 300 | 3 | 40 | 1 | Strėlės | 1 | 99-00 | Vidutinė | 48 | 1/6 raundų |
-| Springalas, akmenų | Apgulties var. | 05 | 3D6 | 1/5 | Traiškyk | 270 | 3 | 40 | 12 | Akmenys | 1 | 99-00 | Vidutinė | 48 | 1/5 raundų |
-| Trebušetas | Apgulties var. | 05 | 12D6 | 1/15 | Traiškyk | 300 | 4 | 44 | 12 | Akmenys | 1 | 98-00 | Vidutinė | 52 | 1/15 raundų |
+| Arbaletas, apgulties | Arbaletas | 10 | 3D6+1 | 1/5 | Pradūrimas | 425 | 1 | 18 | — | Varžtai | 1 | 98–00 | Vidutinė | 14 | 1/5 raundų |
+| Balista | Apgulties įranga | 05 | 10D6 | 1/5 | Pradūrimas | 275 | 3 | 32 | 12 | Varžtai | 1 | 99–00 | Vidutinė | 42 | 1/5 raundų |
+| Katapulta | Apgulties įranga | 10 | 6D6 | 1/5 | Sutraiškymas | 325 | 3 | 36 | 12 | Akmenys | 1 | 00 | Pigi | 44 | 1/5 raundų |
+| Springalas, šaudantis varžtais | Apgulties įranga | 05 | 3D6 | 1/6 | Pradūrimas | 300 | 3 | 40 | 1 | Varžtai | 1 | 99–00 | Vidutinė | 48 | 1/6 raundų |
+| Springalas, šaudantis akmenimis | Apgulties įranga | 05 | 3D6 | 1/5 | Sutraiškymas | 270 | 3 | 40 | 12 | Akmenys | 1 | 99–00 | Vidutinė | 48 | 1/5 raundų |
+| Trebušetas | Apgulties įranga | 05 | 12D6 | 1/15 | Sutraiškymas | 300 | 4 | 44 | 12 | Akmenys | 1 | 98–00 | Vidutinė | 52 | 1/15 raundų |
 
-##### Istoriniai ir modernūs artilerijos ginklai
+##### Istoriniai ir šiuolaikiniai artilerijos ginklai
 
-| Vardas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Įgula | HP | AV | Amunicija | Talpa | Mal | Vertė | SIZ | Greitis |
+| Pavadinimas | Įgūdis | Bazė | Žala | Atak | Specialu | Nuot | Įgula | HP | AV | Amun | Talp | Mal | Vertė | DYD | Temp |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Patranka | Patranka | 01 | 4D8+4 | 1/5 | Traiškyk | 8,000 | 3 | 36 | 28 | Patrankų sv. | 1 | 99-00 | Brangi | 44 | 1/5 raundų |
-| Ginklas, lauko | Patranka | 01 | 10D6/2m | 1/3 | Traiškyk | 12,000 | 2 | 48 | 28 | Sprogst. | 1 | 00 | Ribota | 42 | 1/3 raundų |
-| Ginklas, Gatling | Sunkus ginklas | 15 | 2D6+4 | Serija1 | Impalas | 100 | 1 | 20 | 24 | Kulkos | 200 | 96-00 | Ribota | 20 | 1/raundą |
-| Ginklas, tanko | Patranka | 01 | 15D6/4m | 1 | Impalas | 2,000 | 2 | 36 | 28 | Sprogst. | 1 | 00 | Ribota | 28 | 1/raundą |
-| Haubica | Patranka | 01 | 10D6/2m | 1/2 | Traiškyk | 9,000 | 2 | 44 | 28 | Sprogst. | 1 | 00 | Ribota | 36 | 1/2 raundų |
-| Minosvaidis2 | Paleidiklis | 01 | 10D6/2m | 1 | Traiškyk | 2,500 | 1 | 18 | 12 | Raketos | 1 | 00 | Ribota | 12 | 1/raundą |
-| Torpeda | Raketa | 01 | 20D6/2m | 1/2 | Impalas | 5,000 | 1 | 36 | 6 | Torpeda | 1 | 99-00 | Ribota | 243 | 1/2 raundų |
-| Bokštelis, kulkosv. | Bokštelis | 05 | 4D6+4 | Serija4 | Impalas | 200 | 1 | 48 | 28 | Kulkos | 1,000 | 98-00 | Ribota | 36 | 1/raundą |
-| Bokštelis, ieties svaid. | Bokštelis | 05 | 2D10+2 | 1 | Impalas | 350 | 1 | 26 | 28 | Ietys | 1 | 00 | Brangi | 16 | 1/raundą |
-
-1. Gatling ginklas iššauna 36 šūvių seriją kiekvieną kovos raundą.
-2. Tai mažas nešiojamas minosvaidis. Didesnėms versijoms naudokite haubicos statistiką.
-3. SIZ yra skirtas pačiai torpedai; ji turi būti iššauta iš paleidimo vamzdžio, paprastai esančio povandeniniame laive ar kitame laive.
-4. Standartinis kulkosvaidžio bokštelis iššauna 120 šūvių seriją kiekvieną kovos raundą.
+| Patranka | Patranka | 01 | 4D8+4 | 1/5 | Sutraiškymas | 8 000 | 3 | 36 | 28 | Sviediniai | 1 | 99–00 | Brangi | 44 | 1/5 raundų |
+| Pabūklas, lauko | Patranka | 01 | 10D6/2 metrai | 1/3 | Sutraiškymas | 12 000 | 2 | 48 | 28 | Sprogst. | 1 | 00 | Ribota | 42 | 1/3 raundų |
+| Pabūklas, „Gatling“ | Sunkusis ginklas | 15 | 2D6+4 | Serija1 | Pradūrimas | 100 | 1 | 20 | 24 | Kulka | 200 | 96–00 | Ribota | 20 | 1/raundą |
+| Pabūklas, tanko | Patranka | 01 | 15D6/4 metrai | 1 | Pradūrimas | 2 000 | 2 | 36 | 28 | Sprogst. | 1 | 00 | Ribota | 28 | 1/raundą |
+| Haubica | Patranka | 01 | 10D6/2 metrai | 1/2 | Sutraiškymas | 9 000 | 2 | 44 | 28 | Sprogst. | 1 | 00 | Ribota | 36 | 1/2 raundų |
+| Minosvaidis2 | Leistuvas | 01 | 10D6/2 metrai | 1 | Sutraiškymas | 2 500 | 1 | 18 | 12 | Raketos | 1 | 00 | Ribota | 12 | 1/raundą |
+| Torpeda | Raketa | 01 | 20D6/2 metrai | 1/2 | Pradūrimas | 5 000 | 1 | 36 | 6 | Torpeda | 1 | 99–00 | Ribota | 24 | 1/2 raundų |
+| Bokštelis, kulkosvaidžio | Bokštelis | 05 | 4D6+4 | Serija4 | Pradūrimas | 200 | 1 | 48 | 28 | Kulka | 1 000 | 98–00 | Ribota | 36 | 1/raundą |
+| Bokštelis, ieties svaidyklė | Bokštelis | 05 | 2D10+2 | 1 | Pradūrimas | 350 | 1 | 26 | 28 | Ietys | 1 | 00 | Brangi | 16 | 1/raundą |
 
 ##### Pažangūs artilerijos ginklai
 
-| Vardas | Įgūdis | Bazė | Žala | Atakos | Specialus | Nuotol. | Įgula | HP | AV | Amunicija | Talpa | Mal | Vertė | SIZ | Greitis |
+| Pavadinimas | Įgūdis | Bazė | Žala | Atak | Specialu | Nuot | Įgula | HP | AV | Amun | Talp | Mal | Vertė | DYD | Temp |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Patranka, energetinė | Patranka | 01 | 4D10+4 | 1 | Ugnis | 1,000 | 3 | 40 | 28 | Energija | Neribota | 00 | Ribota | 48 | 1/raundą |
-| Ginklas, bėginis | Sumont. | 01 | 6D8+6 | 1/3 | Impalas | 10,000 | 2 | 64 | 28 | Sviediniai | 1,000 | 00 | Ribota | 72 | 1/3 raundų |
-| Bokštelis, energetinis | Bokštelis | 05 | 6D10+6 | 1 | Ugnis | 400 | 1 | 36 | 28 | Energija | Neribota | 00 | Ribota | 44 | 1/raundą |
-| Bokštelis, liepsnos | Bokštelis | 10 | 4D6/1m5 | 1 | Ugnis | 50 | 1 | 24 | 28 | Kuras | 100 | 98-00 | Ribota | 32 | 1/raundą |
-| Bokštelis, lazerinis | Bokštelis | 05 | 4D8+4 | 1 | Ugnis | 600 | 1 | 32 | 28 | Energija | Neribota | 99-00 | Ribota | 40 | 1/raundą |
-| Bokštelis, raketų | Bokštelis | 01 | 8D6+8/2m | Serija | Impalas | 1,200 | 1 | 36 | 28 | Raketos | 100 | 00 | Ribota | 44 | 1/raundą |
-| Bokštelis, smūginis | Bokštelis | 05 | 4D6/1m6 | 1/2 | Apsvaig. | 40 | 1 | 24 | 28 | Energija | Neribota | 96-00 | Ribota | 32 | 1/2 raundų |
+| Patranka, energijos | Patranka | 01 | 4D10+4 | 1 | Ugnis | 1 000 | 3 | 40 | 28 | Energ. | Nerib. | 00 | Ribota | 48 | 1/raundą |
+| Pabūklas, bėginis | Mont. ginklas | 01 | 6D8+6 | 1/3 | Pradūrimas | 10 000 | 2 | 64 | 28 | Svied. | 1 000 | 00 | Ribota | 72 | 1/3 raundų |
+| Bokštelis, energijos | Bokštelis | 05 | 6D10+6 | 1 | Ugnis | 400 | 1 | 36 | 28 | Energ. | Nerib. | 00 | Ribota | 44 | 1/raundą |
+| Bokštelis, liepsnos | Bokštelis | 10 | 4D6/1 metras5 | 1 | Ugnis | 50 | 1 | 24 | 28 | Degalai | 100 | 98–00 | Ribota | 32 | 1/raundą |
+| Bokštelis, lazerinis | Bokštelis | 05 | 4D8+4 | 1 | Ugnis | 600 | 1 | 32 | 28 | Energ. | Nerib. | 99–00 | Ribota | 40 | 1/raundą |
+| Bokštelis, raketinis | Bokštelis | 01 | 8D6+8/2 metrai | Serija | Pradūrimas | 1 200 | 1 | 36 | 28 | Raketos | 100 | 00 | Ribota | 44 | 1/raundą |
+| Bokštelis, šoko | Bokštelis | 05 | 4D6/1 metras6 | 1/2 | Stun | 40 | 1 | 24 | 28 | Energ. | Nerib. | 96–00 | Ribota | 32 | 1/2 raundų |
 
-1. Jei taikinys pataikomas, ridenkite Sėkmę (Luck). Jei metimas nepavyksta, jie užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną vėlesnį kovos raundą, kol ugnis užgesinama ar kitaip neutralizuojama (žr. **Ugnis ir karštis**).
-2. Ridenkite žalą ir pitinkite prieš elektronika pagrįstą taikinį CON ar dabartinius hit pointus pasipriešinimo metime. Jei taikinys pralaimi, jie patiria ridenamą žalos sumą. Jei pasipriešinimo metimas sėkmingas, taikinys gauna minimalią detonuotojo žalą (pagal diapazoną) į dabartinius hit pointus.
-3. Taikinys turi atlikti Sunkų (Difficult) Sėkmės (Luck) metimą. Jei metimas nepavyksta, jie užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną vėlesnį raundą, kol ugnis užgesinama ar neutralizuojama (žr. **Ugnis ir karštis**).
-4. Prieš negyvą taikinį žala pitinama prieš taikinio bazinį CON, šarvų vertę arba hit pointus (GV pasirinkimas). Jei taikinys pralaimi metimą, jis sudūžta arba tampa nefunkcionalus.
-5. Ridenkite žalą ir pitinkite prieš taikinio CON pasipriešinimo metime. Jei taikinys sėkmingas, jis gauna minimalią žalą (2) vietoj ridenamos žalos. Jei taikinys pralaimi, jis apsvaiginamas 1D3+1 raundams (žr. **Apsvaiginimas**).
+1. „Gatling“ pabūklas per kiekvieną kovos raundą iššauna 36 šūvių seriją.
+2. Tai nedidelis, žmogaus nešiojamas minosvaidis. Didesnėms versijoms naudokite haubicos statistiką.
+3. DYD nurodytas pačiai torpedai; ji turi būti paleidžiama iš paleidimo vamzdžio, paprastai esančio povandeniniame laive ar kitoje transporto priemonėje.
+4. Standartinis kulkosvaidžio bokštelis per kiekvieną kovos raundą iššauna 120 šūvių seriją.
+5. Jei taikinys pataikomas, ridenkite Sėkmę. Jei ridenimas nepavyksta, taikinys užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną paskesnį kovos raundą, kol ugnis bus užgesinta ar kitaip neutralizuota (žr. **Ugnis ir karštis**).
+6. Ridenkite žalą ir sugretinkite ją su taikinio IŠT pasipriešinimo metime. Jei taikinys pralaimi, jis yra apstulbęs 1D3+1 raundą (žr. **Apstulbinimas**).
 
-##### Modernūs sprogmenys
+##### Šiuolaikiniai sprogmenys
 
-| Ginklas | Įgūdis | Bazė | Žala1 | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala1 | Atak | Specialu | Nuot | Rankos | HP | Parry | JĖG/VIK | Mal | Vertė | DYD/Svor |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Detonatoriaus kapsulė | Griovimas | — | 2D6/1m | 1/2 | Atmetimas | 3 | — | 3 | Ne | — | 00 | Vidutinė | 0.2 |
-| Dinamitas | Griovimas | Mesti | 5D6/2m | 1/2 | Atmetimas | Mestas | 2H | 1 | Ne | 5/5 | 99-00 | Vidutinė | 0.5 |
-| Sprogmuo, improvizuotas | Griovimas | — | 3D6/2m | 1 | Atmetimas | 8 | — | 4 | Ne | — | 91-00 | Pigu | 1.0 |
-| Sprogmuo, plastinis | Griovimas | — | 6D6/3m | 1/3 | Atmetimas | 21 | — | 15 | Ne | — | 99-00 | Brangi | 1.0 |
-| Granata, sukrečianti | Granata | Mesti | 2D62/2m | 1 | Atmetimas | Mesta | 1H | 8 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
-| Granata, sprogstamoji | Granata | Mesti | 4D6/4m | 1 | Atmetimas | Mesta | 1H | 8 | Ne | 5/5 | 99-00 | Vidutinė | 0.7 |
-| Granata, šviečiamoji | Granata | Mesti | 3/3m | 1 | — | Mesta | 1H | 6 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
-| Granata, dujų | Granata | Mesti | 4/3m | 1 | — | Mesta | 1H | 6 | Ne | 99-00 | Vidutinė | 0.7 |
-| Granata, fosforo | Granata | Mesti | 2D65/24m | 1 | — | Mesta | 1H | 4 | Ne | 5/5 | 98-00 | Brangi | 0.7 |
-| Granata, skeveldrinė | Granata | Mesti | 4D6/4m | 1 | Impalas | Mesta | 1H | 8 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
-| Granata, dūminė | Granata | Mesti | 6/3m | 1 | — | Mesta | 1H | 6 | Ne | 00 | Vidutinė | 0.3 |
-| Granatsvaidis | Granata | 25 | 3D6/2m | 1/3 | Atmetimas | 20 | 1H | 12 | Ne | — | 99-00 | Brangi | 3.0 |
-| Paleidiklis, LAW raketa | Granata | 15 | 8D6/1m | 1 | Atmetimas | 150 | 2H | 10 | Ne | 7/5 | 98-00 | Brangi | 4.5 |
-| Paleidiklis, raketa | Granata | 01 | 10D6/5m | 1/3 | Impalas, Atmetimas | 400 | 2H | 12 | Ne | 11/7 | 99-00 | Brangi | 7.0 |
-| Mina, pėstininkų | Griovimas | — | 4D6/5m | — | Atmetimas | 25 | — | 9 | Ne | — | 99-00 | Vidutinė | 2.0 |
-| Mina, prieštankinė | Griovimas | — | 6D6+6/ 3D6+2/1D6 | — | Impalas | 10/25/50 | — | 12 | Ne | — | 99-00 | Vidutinė | 3.0 |
-| Molotovo kokteilis | Granata | Mesti | 1+Ugnis7 | 1/2 | — | Mestas | 1H | 1 | Ne | 5/7 | 95-00 | Pigu | 0.7 |
+| Sprogdiklis | Demoliavimas | — | 2D6/1 metras | 1/2 | Atstūmimas | 3 | — | 3 | Ne | — | 00 | Vidutinė | 0.2 |
+| Dinamitas | Demoliavimas | Svaidymas | 5D6/2 metrai | 1/2 | Atstūmimas | Svaid. | 2R | 1 | Ne | 5/5 | 99–00 | Vidutinė | 0.5 |
+| Sprogmuo, improvizuotas | Demoliavimas | — | 3D6/2 metrai | 1 | Atstūmimas | 8 | — | 4 | Ne | — | 91–00 | Pigi | 1.0 |
+| Sprogmuo, plastikinis | Demoliavimas | — | 6D6/3 metrai | 1/3 | Atstūmimas | 21 | — | 15 | Ne | — | 99–00 | Brangi | 1.0 |
+| Granata, koncentracinė | Granata | Svaidymas | 2D62/2 metrai | 1 | Atstūmimas | Svaid. | 1R | 8 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
+| Granata, sprogstamoji | Granata | Svaidymas | 4D6/4 metrai | 1 | Atstūmimas | Svaid. | 1R | 8 | Ne | 5/5 | 99–00 | Vidutinė | 0.7 |
+| Granata, šviesinė | Granata | Svaidymas | 3/3 metrai | 1 | — | Svaid. | 1R | 6 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
+| Granata, dujų | Granata | Svaidymas | 4/3 metrai | 1 | — | Svaid. | 1R | 6 | Ne | 5/5 | 99–00 | Vidutinė | 0.7 |
+| Granata, fosforo | Granata | Svaidymas | 2D65/24 metrai | 1 | — | Svaid. | 1R | 4 | Ne | 5/5 | 98–00 | Brangi | 0.7 |
+| Granata, skeveldrinė | Granata | Svaidymas | 4D6/4 metrai | 1 | Pradūrimas | Svaid. | 1R | 8 | Ne | 5/5 | 00 | Vidutinė | 0.7 |
+| Granata, dūminė | Granata | Svaidymas | 6/3 metrai | 1 | — | Svaid. | 1R | 6 | Ne | 5/5 | 00 | Vidutinė | 0.3 |
+| Granatsvaidis | Granata | 25 | 3D6/2 metrai | 1/3 | Atstūmimas | 20 | 1R | 12 | Ne | — | 99–00 | Brangi | 3.0 |
+| Leistuvas, LAW raketa | Granata | 15 | 8D6/1 metras | 1 | Atstūmimas | 150 | 2R | 10 | Ne | 7/5 | 98–00 | Brangi | 4.5 |
+| Leistuvas, raketinis | Granata | 01 | 10D6/5 metrai | 1/3 | Pradūrimas, Atstūmimas | 400 | 2R | 12 | Ne | 11/7 | 99–00 | Brangi | 7.0 |
+| Mina, pėstininkų | Demoliavimas | — | 4D6/5 metrai | — | Atstūmimas | 25 | — | 9 | Ne | — | 99–00 | Vidutinė | 2.0 |
+| Mina, prieštankinė | Demoliavimas | — | 6D6+6/ 3D6+2/1D6 | — | Pradūrimas | 10/25/50 | — | 12 | Ne | — | 99–00 | Vidutinė | 3.0 |
+| Molotovo kokteilis | Granata | Svaidymas | 1+Ugnis7 | 1/2 | — | Svaid. | 1R | 1 | Ne | 5/7 | 95–00 | Pigi | 0.7 |
 
-1. Žala išreikšta kauliukais per metrus; žala per metrą už pradinio spindulio sumažėja 1D6.
-2. Visi sužaloti taikiniai privalo sėkmingai atlikti Stamina metimą arba būti apsvaiginti (žr. **Apsvaiginimas**).
-3. Apšviečia diapazono plotą vietoje žalos (žr. **Šviesos šaltiniai**).
-4. Užpildo plotą toksiškomis ar netoksiškomis dujomis (žr. **Nuodai**). Pavyzdinė dujų granata gali turėti 2D6+12 POT, greitą poveikį ir sukelti asfiksiją bei 1D6 hit pointų praradimą per raundą, jei taikinys nepraėja pasipriešinimo metimo prieš CON.
-5. Fosforo granatos gamina dūmus ir taip pat yra padegamosios, sukeliančios žalą kiekvieną raundą, kol užgesinamos (žr. **Ugnis ir karštis**).
-6. Užpildo plotą regėjimą slepiančiais dūmais vietoje žalos; gali užtemdyti kambarį lyg būtų tamsu (žr. **Tamsa**).
-7. Jei taikinys pataikomas, jis privalo ridenti Sėkmę (Luck). Jei metimas nepavyksta, jis užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną vėlesnį raundą, kol ugnis užgesinama ar neutralizuojama (žr. **Ugnis ir karštis**).
+1. Žala išreikšta kauliukais metrams; žala už kiekvieną metrą už pradinio spindulio mažėja 1D6.
+2. Visi pažeisti taikiniai privalo sėkmingai atlikti IŠT metimą arba bus apstulbę (žr. **Apstulbinimas**).
+3. Apšviečia srities nuotolį, užuot dariusi žalą (žr. **Šviesos šaltiniai**).
+4. Užpildo sritį toksiškomis arba netoksiškomis dujomis (žr. **Nuodai**). Pavyzdinė dujų granata gali turėti 2D6+12 POT, momentinį poveikį ir sukelti dusimą bei 1D6 žalos taškų nuostolį kiekvieną raundą, jei taikinys nepraėja pasipriešinimo metimo prieš IŠT.
+5. Fosforo granatos sukuria dūmus ir yra padegamosios, darančios žalą kiekvieną raundą, kol yra užgesinamos (žr. **Ugnis ir karštis**).
+6. Užpildo sritį regėjimą ribojančiais dūmais, užuot dariusi žalą; gali užtemdyti kambarį taip, tarsi būtų tamsu (žr. **Tamsa**).
+7. Jei taikinys pataikomas, jis privalo ridenti Sėkmę. Jei ridenimas nepavyksta, jis užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną paskesnį raundą, kol ugnis bus užgesinta ar neutralizuota (žr. **Ugnis ir karštis**).
 
 ##### Pažangūs sprogmenys
 
-| Ginklas | Įgūdis | Bazė | Žala1 | Atakos | Specialus | Diapazonas | Rankos | HP | Parry | STR/DEX | Mal | Vertė | SIZ/Enc |
+| Ginklas | Įgūdis | Bazė | Žala1 | Atak | Specialu | Nuot | Rankos | HP | Parry | JĖG/VIK | Mal | Vertė | DYD/Svor |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Detonatorius, antimaterijos | Griovimas | — | 10D10/10m | 1 | — | 110 | — | 12 | Ne | — | 96-00 | Brangi | 1.5 |
-| Detonatorius, sintezės | Griovimas | — | 10D8/10m | 1 | — | 110 | — | 16 | Ne | — | 98-00 | Brangi | 2.0 |
-| Detonatorius, EM impulsas | Griovimas | — | 6D10/5m2 | 1 | — | 35 | — | 12 | Ne | — | 97-00 | Brangi | 1.0 |
-| Detonatorius, plazmos | Griovimas | — | 6D10/5m3 | 1 | — | 35 | — | 10 | Ne | — | 99-00 | Brangi | 1.4 |
-| Detonatorius, garsinis | Griovimas | — | 4D6/2m4 | 1 | Atmetimas | 10 | — | 8 | Ne | — | 97-00 | Brangi | 2.0 |
-| Granata, dezintegracijos | Granata | Mesti | 4D10/2m | 1 | — | Mesta | 1H | 12 | Ne | 5/5 | 96-00 | Brangi | 0.8 |
-| Granata, EM impulsas | Granata | Mesti | 5D8/1m | 1 | — | Mesta | 1H | 8 | Ne | 5/5 | 98-00 | Vidutinė | 0.5 |
-| Granata, sintezės | Granata | Mesti | 6D6/1m | 1 | — | Mesta | 1H | 10 | Ne | 5/5 | 97-00 | Vidutinė | 0.8 |
-| Granata, plazmos | Granata | Mesti | 3D10/2m3 | 1 | — | Mesta | 1H | 10 | Ne | 5/5 | 98-00 | Vidutinė | 0.7 |
-| Granata, smūginė | Granata | Mesti | 4D6/1m | 1 | Atmetimas | Mesta | 1H | 8 | Ne | 5/5 | 98-0 | Vidutinė | 0.5 |
-| Granata, apsvaiginimo | Granata | Mesti | 3D8/2m5 | 1 | Atmetimas | Mesta | 1H | 8 | Ne | 5/5 | 98-00 | Vidutinė | 0.5 |
+| Sprogdiklis, antimaterijos | Demoliavimas | — | 10D10/10 metrų | 1 | — | 110 | — | 12 | Ne | — | 96–00 | Brangi | 1.5 |
+| Sprogdiklis, termobranduolinis | Demoliavimas | — | 10D8/10 metrų | 1 | — | 110 | — | 16 | Ne | — | 98–00 | Brangi | 2.0 |
+| Sprogdiklis, EM impulsas | Demoliavimas | — | 6D10/5 metrai2 | 1 | — | 35 | — | 12 | Ne | — | 97–00 | Brangi | 1.0 |
+| Sprogdiklis, plazminis | Demoliavimas | — | 6D10/5 metrai3 | 1 | — | 35 | — | 10 | Ne | — | 99–00 | Brangi | 1.4 |
+| Sprogdiklis, garsinis | Demoliavimas | — | 4D6/2 metrai4 | 1 | Atstūmimas | 10 | — | 8 | Ne | — | 97–00 | Brangi | 2.0 |
+| Granata, dezintegracinė | Granata | Svaidymas | 4D10/2 metrai | 1 | — | Svaid. | 1R | 12 | Ne | 5/5 | 96–00 | Brangi | 0.8 |
+| Granata, EM impulsas | Granata | Svaidymas | 5D8/1 metras | 1 | — | Svaid. | 1R | 8 | Ne | 5/5 | 98–00 | Vidutinė | 0.5 |
+| Granata, termobranduolinė | Granata | Svaidymas | 6D6/1 metras | 1 | — | Svaid. | 1R | 10 | Ne | 5/5 | 97–00 | Vidutinė | 0.8 |
+| Granata, plazminė | Granata | Svaidymas | 3D10/2 metrai3 | 1 | — | Svaid. | 1R | 10 | Ne | 5/5 | 98–00 | Vidutinė | 0.7 |
+| Granata, šoko | Granata | Svaidymas | 4D6/1 metras | 1 | Atstūmimas | Svaid. | 1R | 8 | Ne | 5/5 | 98–0 | Vidutinė | 0.5 |
+| Granata, apstulbinimo | Granata | Svaidymas | 3D8/2 metrai5 | 1 | Atstūmimas | Svaid. | 1R | 8 | Ne | 5/5 | 98–00 | Vidutinė | 0.5 |
 
-1. Žala išreikšta kauliukais per metrus; žala per metrą už pradinio spindulio sumažėja 1D per metrą.
-2. Žala ridenama ir pitinama prieš elektroninį/elektrinį taikinį CON ar dabartinius hit pointus pasipriešinimo metime. Jei taikinys pralaimi, jie patiria ridenamą žalos sumą. Jei pasipriešinimo metimas sėkmingas, taikinys gauna minimalią detonuotojo žalą (pagal diapazoną) į dabartinius hit pointus.
-3. Smūgio atveju taikinys privalo atlikti Sunkų (Difficult) Sėkmės (Luck) metimą. Jei metimas nepavyksta, jie užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną vėlesnį raundą, kol ugnis užgesinama ar neutralizuojama (žr. **Ugnis ir karštis**).
-4. Prieš negyvą taikinį žala pitinama prieš taikinio bazinį CON, šarvų vertę arba hit pointus (GV pasirinkimas). Jei taikinys pralaimi metimą, jis sudūžta arba tampa nefunkcionalus.
-5. Ridenkite žalą ir pitinkite prieš taikinio CON pasipriešinimo metime. Jei taikinys sėkmingas, jis gauna minimalią žalą (2) vietoj ridenamos žalos. Jei taikinys pralaimi, jis apsvaiginamas 1D3+1 raundams (žr. **Apsvaiginimas**).
+1. Žala išreikšta kauliukais metrams; žala už kiekvieną metrą už pradinio spindulio mažėja 1D už metrą.
+2. Žala ridenama ir sugretinama su elektroninio/elektrinio taikinio IŠT arba esamais žalos taškais pasipriešinimo metime. Jei taikinys pralaimi, jis patiria išridotą žalos kiekį. Jei pasipriešinimo metimas sėkmingas, taikinys gauna minimalią sprogdiklio žalą (pagal atstumą) į esamus žalos taškus.
+3. Pataikytas taikinys privalo atlikti sudėtingą Sėkmės metimą. Jei ridenimas nepavyksta, taikinys užsidega ir gauna 1D6 žalos taškų iškart ir kiekvieną paskesnį raundą, kol ugnis bus užgesinta ar neutralizuota (žr. **Ugnis ir karštis**).
+4. Prieš negyvą taikinį žala sugretinama su taikinio bazine IŠT, šarvų verte ar žalos taškais (žaidimo meistro pasirinkimu). Jei taikinys pralaimi metimą, jis sudūžta arba tampa nefunkcionalus.
+5. Ridenkite žalą ir sugretinkite ją su taikinio IŠT pasipriešinimo metime. Jei taikinys sėkmingas, jis gauna minimalią žalą (2), o ne išridotą. Jei taikinys pralaimi, jis yra apstulbęs 1D3+1 raundą (žr. **Apstulbinimas**).
 
-## Robotai ir dirbtinis gyvenimas
+## Robotai ir dirbtinė gyvybė
 
-Unikalus įrangos tipas yra **robotas** – konstrukcija, su kuria elgiamasi kaip su veikėju, turinti panašų charakteristikų ir įgūdžių diapazoną. Robotai svyruoja savo forma ir dizainu: nuo ne-humanoidinių golemų, nerangių ir didelių automatų, iki elegantiškų ir patrauklių humanoidų ar net tokių, kurie neatskiriami nuo žmonijos. Patogumui visi robotų tipai (androidai, golemai, sintetiniai humanoidai, DI ir kt.) šiose taisyklėse vadinami robotais.
+Vienas unikalus įrangos tipas yra **robotas** – konstrukcija, su kuria elgiamasi kaip su veikėju, turinčiu panašų charakteristikų ir įgūdžių spektrą. Robotų formos ir dizainas svyruoja nuo nehumanoidinių golemų, nerangių ir per didelių automatų, dailių ir patrauklių humanoidų iki visiškai nuo žmonių neatskiriamų modelių. Patogumo dėlei, visų tipų robotai (androidai, golemai, sintetiniai humanoidai, dirbtinis intelektas ir kt.) šiose taisyklėse vadinami robotais.
 
-Visi roboto atributai yra identiški įprasto veikėjo atributams, su tokiomis pačiomis charakteristikomis, įgūdžiais ir net galiomis. Vienuoliktame skyriuje: Padarai yra pavyzdinis robotas.
+Visi roboto atributai yra identiški įprasto veikėjo atributams, su tomis pačiomis charakteristikomis, įgūdžiais ir net galiomis. Vienuoliktame skyriuje („Būtybės“) pateiktas roboto pavyzdys.
 
 ### Robotai kaip žaidėjų veikėjai
 
-Su jūsų GV leidimu jūsų veikėjas gali būti net robotas, sukurtas naudojant įprastą veikėjų kūrimą arba naudojant vieną iš pavyzdžių kaip šabloną. Tokiu atveju jūsų veikėjas turėtų būti sukurtas pagal įprasto veikėjo modelį, nors POW tampa paprasta baterijų talpa, o ne tikra sielos jėga. Tinkamiausias galių rinkinys robotui yra supergalių sistema. Jūsų veikėjas privalo būti taisomas per atitinkamą Remonto įgūdį (ar techninį įgūdį, priklausomai nuo to, koks jūsų veikėjas pažangus), ir šiems remontams gali prireikti Statuso metimo, norint gauti prieigą prie reikiamų komponentų.
+Gavus žaidimo meistro leidimą, jūsų veikėjas gali būti net robotas – sukurtas naudojant įprastą veikėjo kūrimo procesą arba pasirinkus vieną iš pavyzdžių kaip šabloną. Tokiu atveju jūsų veikėjas turėtų būti kuriamas pagal įprasto veikėjo modelį, nors GAL tampa paprasta baterijos talpa, o ne tikra sielos jėga. Tinkamiausias galių rinkinys robotui yra supergalių sistema. Jūsų veikėjas privalo būti taisomas naudojant atitinkamą Remonto įgūdį (arba Techninį įgūdį, priklausomai nuo to, kiek pažangus yra jūsų veikėjas), o šiam taisymui gali prireikti statuso metimo, kad būtų gauta prieiga prie reikiamų komponentų.### Kibernetika
 
-### Kibernetika
+Jei norite, kad jūsų veikėjas turėtų kokių nors kibernetinių kūno aspektų, pavyzdžiui, dirbtinių galūnių ar organų, su savo žaidimo meistru (GM) nustatykite, kokį poveikį turėtų šios dirbtinės kūno dalys. Daugeliu atvejų, jei kūno dalis nesuteikia jokių specialių premijų ar neįprastų atributų, laikykite ją lygiaverte gyvai kūno daliai, tačiau vietoj įgūdžio „Pirmoji pagalba“ (First Aid), jai suremontuoti, jei ji sugadinama dėl didelio sužalojimo ar sužeidimų naudojant kūno dalių hitų sistemą, naudokite atitinkamą „Remonto“ (Repair) ar techninį įgūdį.
 
-Jei norite, kad jūsų veikėjas turėtų kibernetinių savo kūno aspektų, pavyzdžiui, dirbtines galūnes ar organus, dirbkite su savo GV, kad nustatytumėte, kokius efektus turėtų turėti dirbtinė kūno dalis. Daugeliu atvejų, jei kūno dalis nesuteikia jokių specialių premijų ar neįprastų atributų, darykite prielaidą, kad su ja elgiamasi lygiai taip pat, kaip su gyva kūno dalimi, nors vietoj Pirmosios pagalbos įgūdžio naudokite atitinkamą Remonto ar Techninį įgūdį, norint atstatyti galūnės funkcionalumą, jei ji sugadinta dėl sunkaus sužeidimo ar traumos naudojant hit vietas.
+Jei norite, kad dirbtinė kūno dalis turėtų kokių nors specialių galių ar atributų, viršijančių įprastos galūnės galimybes, sukonstruokite šią galūnę kaip įtaisą (žr. **Įranga su supergaliomis**), tik priskirtą prie paties veikėjo kūno. Arba dirbtinė galūnė/organas gali būti nuimami ar net moduliniai. Bet kuriuo atveju, įtaisų sistema yra geriausias būdas modeliuoti kibernetines ar kitokias dirbtines kūno dalis.
 
-Jei norite, kad dirbtinė kūno dalis turėtų kokių nors specialių galių ar atributų, viršijančių įprastos galūnės, sukonstruokite galūnę lyg tai būtų įtaisas (žr. **Įranga su supergaliomis**), tik integruotą į jūsų veikėjo kūną. Arba dirbtinė galūnė/organas gali būti nuimamas ar net modulinis. Bet kuriuo atveju, įtaiso sistema yra geriausia priemonė kibernetinėms ar kitaip dirbtinėms kūno dalims imituoti.
-
-> ### Metriniai konvertavimai
+> ### Metriniai perskaičiavimai
 > 
-> *Basic Roleplaying* numatytai naudoja metrinę sistemą. Nors didžioji pasaulio dalis naudoja metrinę sistemą, imperiniai matavimai dažnai naudojami istoriniose aplinkose, ir jūs bei jūsų GV gali norėti naudoti tokius matus dėl patogumo ir/ar skonio. Žemiau pateikti metriniai konvertavimai yra apytiksliai ir suapvalinti ten, kur patogu.
+> „Basic Roleplaying“ sistemoje pagal nutylėjimą naudojama metrinė sistema. Nors didžioji pasaulio dalis naudoja metrinę sistemą, imperiniai matavimo vienetai dažnai naudojami istoriniame kontekste, tad jūs ir jūsų žaidimo meistras gali norėti juos naudoti dėl patogumo ir/ar atmosferos. Žemiau pateikti metriniai perskaičiavimai yra apytiksliai ir suapvalinti ten, kur tai patogu.
 > 
-> ##### Metrinės/Imperinės ekvivalencijos
+> ##### Metrinių/Imperinių vienetų atitikmenys
 > 
 > | 1 centimetras = 1/3 colio | 0° C = 32° F |
 > | :---- | :---- |
@@ -1458,181 +1527,419 @@ Jei norite, kad dirbtinė kūno dalis turėtų kokių nors specialių galių ar 
 > | 1 metras = 1 jardas | 20° C = 68° F |
 > | 1 kilometras = 3/5 mylios | 30° C = 86° F |
 > | 100 gramų = 3 uncijos | 40° C = 104° F |
-> | 1 kilogramas = 2.2 svaro | 100° C = 212° F |
+> | 1 kilogramas = 2,2 svaro | 100° C = 212° F |
 > | 1 metrinė tona = 2 200 svarų | 200° C = 392° F |
 > | 1 litras = 1 kvarta | 500° C = 922° F |
 > | 4 litrai = 1 galonas | 1 000° C = 1 832° F |
 
 ## Transporto priemonės
 
-Kaip ir su ginklų bei šarvų tipais, šiame skyriuje įtraukta įvairių transporto priemonių, išvardytų **Judėjimo greičiuose**, taip pat kitų, tinkančių nuotykiams. Šie abstraktūs pavyzdžiai gali padėti jums ir jūsų GV sukurti papildomus transporto priemonių tipus, plečiant ar keičiant statistiką pagal pageidavimą.
+Kaip ir ginklų bei šarvų tipų atveju, šiame skyriuje pateikiama įvairių transporto priemonių, išvardytų **Judėjimo greičiuose**, taip pat kitų, tinkančių nuotykiams. Šie abstraktūs pavyzdžiai padės jums ir jūsų žaidimo meistrui sukurti papildomus transporto priemonių tipus, plečiant ar keičiant statistikas pagal poreikį.
 
 Kiekvienai transporto priemonei apibrėžti naudojami šie terminai:
 
-* **Tipas:** Bendras transporto priemonės tipas.
-* **Įgūdis:** Įgūdis, kurį naudoti pilotuojant.
-* **Įvertintas greitis:** Maksimalus transporto priemonės greitis, abstrakti vertė, naudojama persekiojimo sistemoje.
-* **Valdymas:** Modifikatorius, taikomas jūsų veikėjo įgūdžiui, atspindintis transporto priemonės manevringumą ar santykinį naudojimo patogumą.
-* **ACC:** Pagreitis, greičio vienetų skaičius, kuriuo transporto priemonė gali greitėti ar lėtėti nuo savo dabartinio įvertinto greičio kiekvieną kovos raundą. Tai pateikiama kaip ± vertė ir naudojama transporto priemonių persekiojimo sistemoje.
-* **MOV:** Maksimalus transporto priemonės greitis kovos raunde, išreikštas jos MOV reitingu. MOV turi kintančią 1–5 metrų vertę; daroma prielaida, kad tai 3 metrų mediana.
-* **Šarvai:** Bendra transporto priemonės šarvų vertė ir apsauga, kurią ji suteikia įgulai ar keleiviams. Paprastai atakos prieš keleivius vyksta per langą ar atvirą kajutės dalį. Jei šie du skaičiai skiriasi, jie pateikiami kaip dvi vertės, atskirtos pasviruoju brūkšniu. Jūsų GV turėtų nustatyti, ar veikėjas turi apsaugą nuo transporto priemonės. Atakuoti ką nors transporto priemonėje yra Sunkiau (Difficult).
-* **SIZ:** Transporto priemonės SIZ vertė.
-* **HP:** Transporto priemonės hit pointai. Transporto priemonės nepatiria antrinių specialios sėkmės efektų, išskyrus padidėjusią žalą, o kritinės sėkmės ignoruoja transporto priemonės šarvus ir padaro padidintą žalą.
-* **Įgula:** Veikėjų skaičius, reikalingas pilotuoti ir prižiūrėti transporto priemonę visu pajėgumu kelyje. Didesniems laivams tai paprastai yra 1/3 normalios komplektacijos, nes įgulos dirba 8 valandų pamainomis. Įgūdžių metimai, susiję su transporto priemone, gali būti Sunkesni (Difficult), jei transporto priemonė nepakankamai aprūpinta įgula.
-* **Keleiviai:** Keleivių skaičius, kurį transporto priemonė paprastai veža, kartu su nebudinčių įgulos narių skaičiumi (jei tinkama).
-* **Krovinys:** Erdvė, kurią transporto priemonė turi kroviniui, išreikšta SIZ. Žaidimo tikslais 1 ENC lygus 1 SIZ taškui.
-* **Vertė:** Bendra transporto priemonės vertė, kaip aprašyta **Pinigai** ir **Įrangos pirkimas**.
-* **Pastabos:** Papildomos pastabos apie transporto priemonę ir jos galimybes.
+* **Tipas (Type):** Bendrasis transporto priemonės tipas.
+
+* **Įgūdis (Skill):** Įgūdis, naudojamas jai valdyti.
+
+* **Vardinis greitis (Rated Speed):** Maksimalus transporto priemonės greitis, abstrakti vertė, naudojama gaudynių sistemoje.
+
+* **Valdymas (Handling):** Modifikatorius, taikomas veikėjo įgūdžiui, atspindintis transporto priemonės manevringumą ar santykinį naudojimo paprastumą.
+
+* **ACC:** Pagreitis (Acceleration), greičio pakopų skaičius, kuriuo transporto priemonė gali paspartinti arba sulėtinti greitį nuo esamo vardinio greičio per kiekvieną kovos raundą. Pateikiama kaip ± vertė ir naudojama transporto priemonių gaudynių sistemoje.
+
+* **MOV:** Maksimalus transporto priemonės greitis per kovos raundą, išreikštas MOV įverčiu. MOV turi slankiąją 1–5 metrų vertę; čia daroma prielaida, kad vidutinė vertė yra 3.
+
+* **Šarvai (Armor):** Bendroji transporto priemonės šarvų vertė ir apsauga, kurią ji suteikia įgulai ar keleiviams. Paprastai atakos prieš keleivius vykdomos per langą ar atvirą kabinos dalį. Jei šie du skaičiai skiriasi, jie pateikiami kaip dvi vertės, atskirtos pasviruoju brūkšniu. Žaidimo meistras turėtų nustatyti, ar veikėjas turi apsaugą nuo transporto priemonės. Ataka prieš ką nors transporto priemonės viduje yra „Sunki“ (Difficult).
+
+* **DYD (DYD):** Transporto priemonės DYD vertė.
+
+* **HP:** Transporto priemonės gyvybės taškai (hit points). Transporto priemonės nepatiria antrinio specialių sėkmių poveikio, išskyrus padidintą žalą, o kritinės sėkmės ignoruoja transporto priemonės šarvus ir padaro padidintą žalą.
+
+* **Įgula (Crew):** Veikėjų skaičius, reikalingas transporto priemonei pilotuoti ir išlaikyti pilną efektyvumą kelionės metu. Didesniems laivams tai paprastai yra 1/3 įprasto personalo, nes įgulos dirba 8 valandų pamainomis. Su transporto priemonėmis susiję įgūdžių metimai gali būti „Sunkūs“ (Difficult), jei transporto priemonė nėra visiškai sukomplektuota.
+
+* **Keleiviai (Passengers):** Keleivių skaičius, kurį transporto priemonė įprastai gabena, kartu su nebudinčiais įgulos nariais (jei tinka).
+
+* **Krovinys (Cargo):** Transporto priemonės erdvė kroviniui, išreikšta DYD. Žaidimo tikslais 1 ENC lygus 1 DYD taškui.
+
+* **Vertė (Value):** Bendroji transporto priemonės vertė, kaip aprašyta skyriuose **Pinigai** ir **Įrangos pirkimas**.
+
+* **Pastabos (Notes):** Papildomos pastabos apie transporto priemonę ir jos galimybes.
 
 ### Transporto priemonių aprašymai
 
 Šiame skyriuje aprašytos įvairios transporto priemonės, išdėstytos abėcėlės tvarka.
 
-**Oro transporto priemonė, bombonešis:** Milžiniškas, sraigtu arba turbina varomas orlaivis, skirtas tolimųjų nuotolių bombardavimo misijoms, dažniausiai aprūpintas keliais kulkosvaidžių bokšteliais.
+**Oro transportas, bombonešis:** Didžiulis, sraigtinis arba turbininis orlaivis, naudojamas tolimojo nuotolio bombardavimo misijoms, paprastai aprūpintas keliais kulkosvaidžių bokšteliais.
 
-**Oro transporto priemonė, dirižablis:** Balionas su ribotu struktūriniu karkasu ir maža kajute, kabančia apačioje, dažniausiai pripildytas lengvesnėmis už orą dujomis. Varomas rotoriais.
+**Oro transportas, dirižablis:** Balionas su ribota struktūrine sistema ir maža kabina, kabančia apačioje, paprastai pripildytas lengvesnėmis už orą dujomis. Varomas rotorių.
 
-**Oro transporto priemonė, sraigtasparnis:** Nedidelė oro transporto priemonė, varoma rotoriais. Kajutės svyruoja nuo paprastų pleksiglaso burbulų iki šarvuotų su karių skyriais ir ginklų laikikliais.
+**Oro transportas, sraigtasparnis:** Nedidelis oro transportas, varomas besisukančių menčių. Kabinos varijuoja nuo paprastų pleksiglaso burbulų iki šarvuotų su karių skyriais ir ginklų laikikliais.
 
-**Oro transporto priemonė, reaktyvinis lėktuvas:** Ilgas komercinis reaktyvinis laineris su bent dviem ant sparnų sumontuotomis reaktyvinėmis turbinomis.
+**Oro transportas, reaktyvinis lėktuvas:** Ilgas komercinis reaktyvinis keleivinis lėktuvas su bent dviem ant sparnų montuojamomis reaktyvinėmis turbinomis.
 
-**Oro transporto priemonė, reaktyvinis naikintuvas:** Santykinai mažas, itin manevringas reaktyvinis lėktuvas, skirtas oro kovai ir bombardavimo smūgiams.
+**Oro transportas, reaktyvinis naikintuvas:** Palyginti nedidelis, itin manevringas reaktyvinis lėktuvas, skirtas oro kovoms ir bombardavimo smūgiams.
 
-**Oro transporto priemonė, sraigtinis lėktuvas:** Mažas sraigtu varomas keleivinis lėktuvas.
+**Oro transportas, sraigtinis lėktuvas:** Nedidelis sraigtinis keleivinis lėktuvas.
 
-**Oro transporto priemonė, skyskimmer:** Aukštųjų technologijų itin lengva oro transporto priemonė, pajėgi vertikaliai kilti ir tūpti, naudojanti pažangią traukos technologiją.
+**Oro transportas, „Skyskimmer“:** Aukštųjų technologijų ultralengvasis oro transportas, galintis vertikaliai kilti ir tūpti, naudojantis pažangią reaktyvinių variklių technologiją.
 
-**Automobilis, modernus sedanas:** Vidutinis ketverių durų modernus automobilis.
+**Automobilis, modernus sedanas:** Vidutinis keturių durų modernus automobilis.
 
-**Automobilis, modernus sportinis:** Itin greitas, dvejų durų, dviejų vietų, didelio našumo automobilis.
+**Automobilis, modernus sportinis automobilis:** Itin greitas, dviejų durų, dviejų vietų, didelio našumo automobilis.
 
 **Automobilis, vintažinis:** Senas kampuotas automobilis, atitinkantis „Model-T“.
 
-**Valtis, motorinė:** Nedidelė motorinė valtis su vienu sraigtu ir maža priekine kajute.
+**Valtis, motorinė:** Nedidelė motorinė valtis su vienu sraigtu ir maža priekine kabina.
 
-**Valtis, maža irklinė:** Nedidelė dviejų suolų irklinė valtis.
+**Valtis, maža irklinė:** Maža dviejų suolų irklinė valtis.
 
-**Vežimas (Chariot):** Mažas dviejų arklių vežimas su vieta vienam vairuotojui, vienam kariui ir nedidele lentyna ginklams ar asmeniniams daiktams.
+**Karieta:** Maža dviejų arklių tempiama karieta, kurioje yra vietos vienam vežėjui, vienam kariui ir mažai lentynai ginklams ar asmeniniams daiktams.
 
-**Vežimas, keturių arklių:** Atviras arba medžiaginiu stogu keturių arklių vežimas.
+**Keturkinkė karieta:** Atvira arba drobe dengta keturių arklių tempiama karieta.
 
-**Vežimas, keturių arklių kroviniams:** Medinis diližanas su ankšta keleivių kajute ir vieta kroviniams gale bei viršuje.
+**Keturkinkis vežimas:** Medinis diližanas su ankšta keleivių kabina ir vieta bagažui gale bei viršuje.
 
-**Arklys:** Žr. Vienuoliktą skyrių: Padarai.
+**Arklys:** Žr. vienuoliktą skyrių: Padarai.
 
-**Hoverkraftas:** Komercinis hoverkraftas-keltas, tinkantis apie 20 keleivių palyginti ramiame vandenyje.
+**Paviršinis laivas (Hovercraft):** Komercinis oro pagalvės laivas, tinkamas maždaug 20 keleivių gana ramiame vandenyje.
 
-**Sausumos skimmeris (Land Skimmer):** Aukštųjų technologijų turbina varoma sausumos transporto priemonė, sklendžianti ant suspausto oro pagalvės, kaip hoverkraftas.
+**Sausumos „Skimmer“:** Aukštųjų technologijų turbininė sausumos transporto priemonė, sklendžianti suspausto oro pagalve, panašiai kaip oro pagalvės laivas.
 
-**Motociklas:** Dviejų ratų motorinė transporto priemonė su vieta vairuotojui ir vienam keleiviui. Šoninė priekaba neprivaloma.
+**Motociklas:** Dviejų ratų motorinė transporto priemonė su vieta vairuotojui ir vienam keleiviui. Galima priekaba.
 
-**Laivas, lėktuvnešis:** Milžiniškas laivas (300+ metrų ilgio) su plokščiu deniu, pajėgus paleisti naikintuvus ir leisti jiems nusileisti.
+**Laivas, lėktuvnešis:** Didžiulis laivas (300+ metrų ilgio) su plokščiu deniu, galinčiu paleisti naikintuvus ir priimti juos tūpimui.
 
-**Laivas, senovinis irklinis:** Ilgalaivis laivas su vienomis irklų eilėmis, bortuose, dažniausiai irkluojamas galerų vergų arba kovojančių vyrų.
+**Laivas, senovinis irklinis:** Ilgalaivis su viena irklų eile (kairėje ir dešinėje), paprastai irkluojamas vergų arba kovotojų.
 
-**Laivas, modernus kovinis:** Didžiulis karo laivas (165+ metrų ilgio), sunkiai šarvuotas su įvairia tolimojo nuotolio artilerija ir raketų sistemomis.
+**Laivas, modernus karo laivas:** Masinis linijinis laivas (165+ metrų ilgio), sunkiai šarvuotas su įvairia tolimojo nuotolio artilerija ir raketų sistemomis.
 
-**Laivas, modernus kruizinis:** Didžiulis keleivinis laineris (300+ metrų ilgio), tarnaujantis beveik kaip mobilus viešbutis, su parduotuvėmis, pramogų įstaigomis ir nesuskaičiuojamais patogumais.
+**Laivas, modernus kruizinis laivas:** Masinis keleivinis laineris (300+ metrų ilgio), veikiantis beveik kaip mobilus viešbutis su parduotuvėmis, pramogų įstaigomis ir daugybe patogumų.
 
-**Laivas, vintažinis burinis:** Galionas, maždaug 35 metrų ilgio, su dviem ar daugiau stiebų.
+**Laivas, vintažinis burlaivis:** Galionas, maždaug 35 metrų ilgio, su dviem ar daugiau stiebų.
 
-**Kosmoso transporto priemonė, krovininė:** Kosmoso komercijos pagrindas, tai krovininis laivas su maža įgula. Lengvai šarvuotas ir ginkluotas. Gali turėti energijos skydus.
+**Kosminė transporto priemonė, krovininė:** Kosminės prekybos pagrindas – krovininis laivas su maža įgula. Lengvai šarvuotas ir ginkluotas. Gali turėti energijos skydus.
 
-**Kosmoso transporto priemonė, raketa:** Kelių pakopų kuru varoma raketa su maža keleivių kajute/nusileidimo moduliu.
+**Kosminė transporto priemonė, raketa:** Kelių pakopų kuruojama raketa su maža keleivių kabina/nusileidimo moduliu.
 
-**Kosmoso transporto priemonė, žvaigždžių naikintuvas:** Santykinai mažas, itin manevringas erdvėlaivis, atitinkantis naikintuvą. Sunkiai ginkluotas, nors lengvai šarvuotas. Gali turėti energijos skydus.
+**Kosminė transporto priemonė, žvaigždėlaivis-naikintuvas:** Palyginti nedidelis, itin manevringas erdvėlaivis, prilygstantis reaktyviniam naikintuvui. Sunkiai ginkluotas, nors lengvai šarvuotas. Gali turėti energijos skydus.
 
-**Kosmoso transporto priemonė, transportinis:** Vidutinio dydžio erdvėlaivis, naudojamas pirmiausia keleivių ar krovinių pervežimui, lengvai šarvuotas ir ginkluotas. Gali turėti energijos skydus.
+**Kosminė transporto priemonė, transportinis laivas:** Vidutinio dydžio erdvėlaivis, naudojamas daugiausia keleiviams ar kroviniams gabenti, lengvai šarvuotas ir ginkluotas. Gali turėti energijos skydus.
 
-**Povandeninis laivas:** Panardinamas laivas, naudojamas kariuomenės slaptumui, infiltracijai į priešo vandenis ir jūrų kovai.
+**Povandeninis laivas:** Paneriantis laivas, naudojamas kariuomenės slaptai veiklai, infiltravimuisi į priešo vandenis ir jūrų kovoms.
 
-**Tankas, modernus:** Sunkiai šarvuota vikšrinė kovos transporto priemonė, aprūpinta didelio kalibro centriniu ginklu bei kita ginkluote.
+**Tankas, modernus:** Sunkiai šarvuota vikšrinė kovinė transporto priemonė, aprūpinta didelio kalibro centriniu pabūklu bei kita ginkluote.
 
-**Tankas, vintažinis:** Sunkiai šarvuota vikšrinė kovos transporto priemonė, dažniausiai aprūpinta didelio kalibro centriniu ginklu.
+**Tankas, vintažinis:** Sunkiai šarvuota vikšrinė kovinė transporto priemonė, paprastai aprūpinta didelio kalibro centriniu pabūklu.
 
-**Traukinys, greitasis (Bullet):** Didelio greičio, supaprastintas keleivinis traukinys, važiuojantis specializuotu bėgiu, dažniausiai varomas elektra.
+**Traukinys, greitasis (Bullet):** Didelio greičio, supaprastintas keleivinis traukinys, važiuojantis specialiais bėgiais, paprastai varomas elektra.
 
-**Traukinys, Mag-lev:** Traukinys, levituojantis virš magnetinio bėgio.
+**Traukinys, maglevas:** Traukinys, levituojantis ant magnetinių bėgių.
 
-**Traukinys, garvežys:** Garo varomas variklis, datuojamas vėlyvuoju 1800-ųjų laikotarpiu. SIZ vertė yra vienam vagonui.
+**Traukinys, garvežys:** Garu varomas lokomotyvas, datuojamas vėlyvuoju XIX a. DYD vertė nurodyta vienam vagonui.
 
-**Sunkvežimis, pikapas:** Keturių varomų ratų pikapas.
+**Sunkvežimis, pikapas:** Keturių varančiųjų ratų pikapas.
 
-**Sunkvežimis, puspriekabė (18-ratis):** Didelis komercinis sunkvežimis su maža kajute ir ilgu krovininiu skyriumi.
+**Sunkvežimis, puspriekabė (18-ratų):** Didelis komercinis sunkvežimis su maža kabina ir ilgu krovinių skyriumi.
 
-##### Arklys ir arklio traukiamos transporto priemonės
+##### Arklių ir arklių traukiamos transporto priemonės
 
-| Tipas | Įgūdis | Įvertintas | Valdymas | ACC | MOV | Šarvai | SIZ | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
+| Tipas | Įgūdis | Vardinis | Valdymas | ACC | MOV | Šarvai | DYD | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Arklys | Jojimas | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Vidutinė | Žr. Padarus |
-| Vežimas | Vairavimas | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Vidutinė | Dviejų arklių įvairovė |
-| Vežimas, keturių arklių | Vairavimas | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Vidutinė | — |
-| Vežimas, keturių kroviniams | Vairavimas | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Vidutinė | — |
+| Karieta | Vairavimas | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Vidutinė | Dviejų arklių tipas |
+| Keturkinkė karieta | Vairavimas | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Vidutinė | — |
+| Keturkinkis vežimas | Vairavimas | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Vidutinė | — |
 
 ##### Automobiliai, sunkvežimiai, traukiniai ir tankai
 
-| Tipas | Įgūdis | Įvertintas | Valdymas | ACC | MOV | Šarvai | SIZ | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
+| Tipas | Įgūdis | Vardinis | Valdymas | ACC | MOV | Šarvai | DYD | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Vintažinis | Vairavimas | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Vidutinė | — |
 | Modernus sedanas | Vairavimas | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Vidutinė | — |
-| Modernus sportinis | Vairavimas | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Brangi | — |
+| Modernus sportinis automobilis | Vairavimas | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Brangi | — |
 | Pikapas | Vairavimas | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Vidutinė | — |
-| 18-ratis | Vairavimas | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Brangi | — |
+| 18-ratų | Vairavimas | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Brangi | — |
 | Motociklas | Vairavimas | 13 | +5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Vidutinė | — |
-| Land Skimmer | Vairavimas | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Brangi | — |
+| Sausumos „Skimmer“ | Vairavimas | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Brangi | — |
 | Tankas, vintažinis | Vairavimas | 4 | –10% | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | Ribota | — |
 | Tankas, modernus | Vairavimas | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | Ribota | — |
-| Traukinys, garvežys | Vairavimas | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Brangi | SIZ už vagoną. Vairavimas Lengvas. |
-| Traukinys, greitasis | Vairavimas | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Neįkainoj. | SIZ už vagoną. Vairavimas Lengvas. |
-| Traukinys, Mag-lev | Vairavimas | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Neįkainoj. | SIZ už vagoną. Vairavimas Lengvas. |
+| Traukinys, garvežys | Vairavimas | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Brangi | DYD nurodytas vienam vagonui. Vairavimo metimai yra lengvi. |
+| Traukinys, greitasis | Vairavimas | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Nepakartojama | DYD nurodytas vienam vagonui. Vairavimo metimai yra lengvi. |
+| Traukinys, maglevas | Vairavimas | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Nepakartojama | DYD nurodytas vienam vagonui. Vairavimo metimai yra lengvi. |
 
 ##### Valtys ir laivai
 
-| Tipas | Įgūdis | Įvertintas | Valdymas | ACC | MOV | Šarvai | SIZ | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
+| Tipas | Įgūdis | Vardinis | Valdymas | ACC | MOV | Šarvai | DYD | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Maža irklinė | Pilotas | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Vidutinė | — |
-| Senovinė irklinė | Pilotas | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Brangi | — |
-| Vintažinis burinis | Pilotas | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Brangi | — |
-| Hoverkraftas | Pilotas | 4 | –5% | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | Brangi | — |
-| Motorinė valtis | Pilotas | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Vidutinė | — |
-| Modernus kruizinis | Pilotas | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2,000+ | 120 | Neįkainoj. | — |
-| Modernus karo laivas | Pilotas | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1,200+ | 200 | Ribota | — |
-| Lėktuvnešis | Pilotas | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1,000+ | 2,200+ | 320 | Ribota | — |
-| Povandeninis | Pilotas | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | Ribota | — |
+| Maža irklinė | Pilotavimas | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Vidutinė | — |
+| Senovinis irklinis | Pilotavimas | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Brangi | — |
+| Vintažinis burlaivis | Pilotavimas | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Brangi | — |
+| Paviršinis laivas | Pilotavimas | 4 | –5% | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | Brangi | — |
+| Motorinė valtis | Pilotavimas | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Vidutinė | — |
+| Modernus kruizinis laivas | Pilotavimas | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2 000+ | 120 | Nepakartojama | — |
+| Modernus karo laivas | Pilotavimas | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1 200+ | 200 | Ribota | — |
+| Lėktuvnešis | Pilotavimas | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1 000+ | 2 200+ | 320 | Ribota | — |
+| Povandeninis laivas | Pilotavimas | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | Ribota | — |
 
-##### Oro transporto priemonės
+##### Oro transportas
 
-| Tipas | Įgūdis | Įvertintas | Valdymas | ACC | MOV | Šarvai | SIZ | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
+| Tipas | Įgūdis | Vardinis | Valdymas | ACC | MOV | Šarvai | DYD | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Diržablis | Pilotas | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Neįkainoj. | Balionas nešarvuotas |
-| Propelerinis lėktuvas | Pilotas | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Brangi | — |
-| Bombonešis | Pilotas | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Ribota | — |
-| Reaktyvinis lėktuvas | Pilotas | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Neįkainoj. | — |
-| Reaktyvinis naikintuvas | Pilotas | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Ribota | — |
-| Sraigtasparnis | Pilotas | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | Neįkainoj. | — |
-| Skyskimmer | Pilotas | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Brangi | — |
+| Maža irklinė | Pilotavimas | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Vidutinė | — |
+| Dirižablis | Pilotavimas | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Nepakartojama | Balionas nešarvuotas; kabina – šarvuota. |
+| Sraigtinis lėktuvas | Pilotavimas | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Brangi | — |
+| Bombonešis | Pilotavimas | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Ribota | — |
+| Reaktyvinis lėktuvas | Pilotavimas | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Nepakartojama | — |
+| Reaktyvinis naikintuvas | Pilotavimas | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Ribota | — |
+| Sraigtasparnis | Pilotavimas | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | Nepakartojama | — |
+| Skyskimmer | Pilotavimas | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Brangi | — |
 
-##### Kosmoso transporto priemonės
+##### Kosminės transporto priemonės
 
-| Tipas | Įgūdis | Įvertintas | Valdymas | ACC | MOV | Šarvai | SIZ | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
+| Tipas | Įgūdis | Vardinis | Valdymas | ACC | MOV | Šarvai | DYD | HP | Įgula | Keleiviai | Krovinys | Vertė | Pastabos |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Raketa | Pilotas | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Neįkainoj. | — |
-| Transportinis | Pilotas | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Neįkainoj. | Turi FTL pavarą |
-| Žvaigždžių naikintuvas | Pilotas | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Ribota | Turi FTL pavarą |
-| Krovininis | Pilotas | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Brangi | Turi FTL pavarą |
+| Raketa | Pilotavimas | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Nepakartojama | — |
+| Transportinis laivas | Pilotavimas | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Nepakartojama | Greitis ikigarsinis; turi FTL variklį. |
+| Žvaigždėlaivis-naikintuvas | Pilotavimas | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Ribota | Greitis ikigarsinis; turi FTL variklį. |
+| Krovininis laivas | Pilotavimas | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Brangi | Greitis ikigarsinis; turi FTL variklį. |
 
 ## Kita įranga
 
-Šiame skyriuje aprašoma įvairi kita įranga, kurią jūsų veikėjas gali naudoti ir kuri nepatenka į ankstesnes kategorijas. Šis sąrašas nėra baigtinis, tačiau turėtų suteikti pakankamai nurodymų jums ar jūsų GV nustatyti kitų įrangos tipų atitinkamus atributus.
+Šiame skyriuje aptariama įvairi kita įranga, kurią jūsų veikėjas gali naudoti ir kuri nepatenka į ankstesnes kategorijas. Šis sąrašas nėra baigtinis, tačiau turėtų suteikti pakankamai nurodymų, kad jūs ar jūsų žaidimo meistras galėtų nustatyti svarbius daugumos kitų įrangos tipų atributus.
 
 ### Nuodai
 
-Nuodų tvarkymo taisyklės aptariamos **Nuoduose**, o **Nuodų pavyzdžių lentelė** pateikia įvairius nuodus.
+Nuodų tvarkymo taisyklės aptariamos skyriuje **Nuodai**, o **Nuodų pavyzdžių lentelėje** pateikiama įvairių nuodų pavyzdžių.
 
 > ##### Nuodų pavyzdžių lentelė
 > 
-> | Nuodai | Poveikio greitis | POT | Simptomai |
+> | Nuodas | Poveikio greitis | GAL | Simptomai |
 > | :---- | :---- | :---- | :---- |
-> | Arsenas | ½ iki 24 val. | 16 | Degantis skausmas, vėmimas, stiprus viduriavimas |
-> | Belladonna | 2 val. iki 2 dienų | 16 | Greitas širdies plakimas, sutrikęs regėjimas, traukuliai |
-> | Juodosios našlės nuodai | 2–8 dienos | 7 | Šaltkrė
+> | Arsenas | Nuo ½ iki 24 val. | 16 | Deginantis skausmas, vėmimas, smarkus viduriavimas |
+> | Belladonna | Nuo 2 val. iki 2 parų | 16 | Dažnas širdies plakimas, sutrikęs regėjimas, traukuliai. |
+> | Juodosios našlės nuodai | 2–8 paros | 7 | Šaltkrėtis, prakaitavimas, pykinimas. |
+> | Kobros nuodai | 15–60 minučių | 16 | Traukuliai, kvėpavimo nepakankamumas. |
+> | Kurarė | 1 kovos raundas | 25 | Raumenų paralyžius, kvėpavimo sustojimas. |
+> | Cianidas | 1–15 minučių | 20 | Svaigulys, traukuliai, apalpimas. |
+> | Barškuolės nuodai | 15–60 minučių | 10 | Vėmimas, smarkūs spazmai, gelsvas matymas. |
+> | Skorpiono nuodai | 24–48 valandos | 9 | Intensyvus skausmas, silpnumas, kraujavimas. |
+> | Migdomieji | 10–30 minučių | 6 | Normalus miegas; kiekviena papildoma dozė padidina kvėpavimo nepakankamumo riziką +5%. |
+> | Strichninas | 10–20 minučių | 20 | Smarkūs raumenų susitraukimai, uždusimas. |
+
+### Knygos ir spausdinta medžiaga
+
+Ši kategorija apima daugybę įvairios skaitomos medžiagos: nuo laikraščių, komiksų, ritinių, popierinių knygų, grimoarų iki knygų. Patogumo dėlei jie vadinami knygomis. Knygos gali būti skirtos pramogai arba informaciniais tikslais. Čia aptariamas tik pastarasis tipas. Knygų vertė gali būti įvairi – nuo pigių iki nepakartojamų, priklausomai nuo temos, išleidimo datos, autoriaus, retumo ar kitų aplinkybių.
+
+Kai knygos ieškoma ar ji aptinkama, žaidimo meistras turėtų nustatyti šiuos dalykus:
+
+* **Kalba:** Jei knyga parašyta ne gimtąja veikėjo kalba, jis turi išversti knygą arba atlikti atitinkamus kalbos metimus (arba „Raštingumo“, jei naudojamas šis įgūdis).
+
+* **Įgūdis:** Ar veikėjas gali išmokti patobulinti įgūdį naudodamasis šia knyga? Paprastai knygoje pateikiamas vienas įgūdis, nors retuose ir vertinamuose tomuose gali būti daugiau nei viena tema.
+
+* **Atlygis:** Kokią premiją įgūdžiui galima gauti perskaičius knygą? Tai paprastai yra nuo 1 % už kažką trumpo arba daugiausia užpildyto nebūtina medžiaga, iki 20 % už išsamų tomą, kuris tarnauja kaip pagrindinis autoritetas šia tema. Paprastai tinkama vertė yra nuo +1 % iki +10 %. Jei iš knygos galima išmokti daugiau nei vieną įgūdį, žaidimo meistras turėtų nustatyti du įverčius, net jei jie yra identiški.
+
+* **Skaitymo laikas:** Kiek laiko užtrunka perskaityti knygą? Tai reiškia nuodugnų teksto išnagrinėjimą ir bandymą jį suprasti kontekste. Tai gali apimti papildomą skaitymą, tyrimus ar analizę, siekiant padidinti suvokimą ir įvaldyti medžiagą.
+
+* **Galiose:** Kai kuriose retose knygose yra magijos ar burtų kerų, demonų ar kitų antgamtinių būtybių šaukimų arba kitokių būdų išmokti galią. Žaidimo meistras turėtų nustatyti, ar knygoje yra tokių dalykų, kokie jie yra ir kiek jų galima išmokti (pavyzdžiui, lygį ar procentinę ribą, jei tinka). Kai kuriuose kūriniuose tikrasis galios pavadinimas gali būti neaiškus ar tyčia miglotas, kad apsaugotų turinį nuo pradedančiųjų. Dėl kerų mokymosi žr. gaires magijos ir burtų galių skyriuose. Knygoje gali nebūti kerų, bet joje gali būti nurodytas tikrasis demono, elemento ar net dievo vardas.### Knygų tipai
+
+Žemiau pateikiama įvairių knygų tipų apžvalga ir jų naudojimo žaidime būdai:
+
+* **Mokomosios knygos:** Knygos, skirtos išmokyti konkretaus dalyko ar įgūdžio, struktūrizuotos ir parašytos su šiuo tikslu. Manoma, kad kai jūsų veikėjas mokosi savarankiškai, kaip informaciniai šaltiniai naudojamos mokomosios knygos. Sėkmingai perskaitytos mokomosios knygos suteikia patirties patikrą (žr. **Įgūdžių didinimas per tyrimus**), nors jūsų žaidimo vedėjas gali skirti numatytąjį įgūdžio padidinimą.
+
+* **Žinių knygos:** Žinių knygose pateikiamos specializuotos ne mokslinio pobūdžio žinios, nesvarbu, ar tai būtų okultizmas, folkloras ar kita „minkštoji“ sritis. Jų struktūra labai įvairi, tačiau jos dažnai suteikia supratimą apie konkrečią sritį iš autoriaus perspektyvos, nesvarbu, ar tai būtų mokslinė apžvalga, ar pamišėlio privatus dienoraštis. Žinių knygos skaitymas dažniausiai leidžia skaitytojui padidinti įgūdį (-žius), į kurį (-iuos) orientuota knyga. Jos panašios į mokomąsias knygas, nors sėkmingas žinių knygos perskaitymas suteikia automatinį įgūdžio įvertinimo padidėjimą. Jūsų žaidimo vedėjas gali nuspręsti, kad knygos, kuriose pateikiamos velniškos ar siaubingos žinios, sukelia automatinį sveiko proto (SAN) taškų praradimą be būtinybės atlikti SAN patikrą. Knygoms, kurios didina žinių įgūdį ir kainuoja SAN taškus, jūsų žaidimo vedėjas turėtų nustatyti maksimalią SAN ribą, remdamasis 99 minus įgūdžio vertė, kaip aprašyta „Šventvagiškų žinių“ įgūdžio aprašyme ir skiltyje „Maksimalus sveikas protas“.
+
+* **Informacinės knygos:** Informacinė knyga gali būti žodynas, enciklopedija ar kitas informacinis leidinys popieriniu, elektroniniu ar kitu formatu. Pagrindinis skirtumas tarp informacinės knygos ir kito tipo knygos yra tas, kad čia nesiekiama informacijos kontekstualizuoti — vietoj to ji pateikiama nehierarchiniu formatu, visa informacija yra viename lygmenyje. Sudėtinga mokytis iš informacinio darbo neturint atskaitos taško ar konteksto apie temą, tačiau informacinio darbo skaitymas yra puikus būdas papildyti kitus žinių įgūdžius. Jei informacinė knyga naudojama tiriant įgūdį jo tobulinimo tikslais, būtina sėkmingai atlikti patikrą, kad knyga būtų perskaityta, o tada — patikrinti patį tiriamą įgūdį. Laikas, reikalingas įgūdžiui tirti per informacinę knygą, yra dvigubai ilgesnis nei per mokomąją knygą. Sėkmingi įgūdžių patikrinimai, atlikti siekiant ištirti ar padidinti įgūdį, neuždirba papildomos patirties patikros.
+
+* **Burtų knygos:** Taip pat vadinamos grimoarais, tai knygos, ritiniai, lentelės, odos, užrašyti akmenys, mazgais surištos virvės ar kitos priemonės, naudojamos perduoti informaciją, būtiną magui ar burtininkui išmokti magijos burtus, saugoti jau žinomus burtus arba turinčios slaptos informacijos apie magiškas būtybes ar demonus. Šios burtų knygos aprašytos magijos ir burtininkavimo galių skyriuje: Ketvirtas skyrius: Galios.
+
+### Knygos naudojimas
+
+Norint naudotis knyga, jūsų veikėjas turi mokėti ją perskaityti arba suprasti, jei ji nėra užrašyta. Tam gali prireikti pasirenkamo „Raštingumo“ įgūdžio (jei naudojamas) arba sėkmingos kalbos patikros tai kalbai, kuria knyga parašyta. Arba dažnai galima gauti vertimą, nors tai brangu, jei tenka užsisakyti atskirai. Jūsų žaidimo vedėjas turėtų nustatyti, kiek tai kainuotų, naudodamasis mokytojams skirtomis gairėmis, pateiktomis skyriuje „Įgūdžių mokymas“. Kai knygos studijos baigtos, jūsų veikėjas uždirba atitinkamus įgūdžių taškus (jei tokių yra).
+
+### Knygos kaip objektai
+
+Fizinės knygų savybės dažniausiai yra mažiau įspūdingos nei jų turinys. Dauguma knygų yra DYD 0, 1 arba 2, o knygos sveikatos taškai (HP) lygūs jos DYD. Priklausomai nuo to, iš ko knyga pagaminta, ji paprastai turi nuo 0 (popierinis viršelis) iki 4 šarvų taškų (sunki odinė nugarėlė ir viršeliai). Ypač sena knyga gali būti net aptaisyta geležimi (6+ šarvų vertė). Nebent knyga turi papildomų apsaugos priemonių arba yra tvirtai sukonstruota, ją galima paversti skudurais arba sunaikinti ugnimi per tiek kovos raundų, kiek ji turi sveikatos taškų. Jei knyga yra ritinys, elektroninis skaitymo įrenginys, holografinis mokymosi ekranas ar kompiuteris, jūsų žaidimo vedėjas turėtų nustatyti jos DYD ir sveikatos taškus remdamasis šio skyriaus daiktų pavyzdžiais.
+
+### Medicinos įranga
+
+Fizinė žala yra nuolatinė grėsmė jūsų veikėjui, todėl egzistuoja daugybė įrangos vienetų, padedančių gydyti sužalojimus ir ligas. Toliau nurodyta medicinos įranga išvardyta pagal santykinį sudėtingumą, nuo primityvios iki futuristinės. Kiekvienas toks įrangos rinkinys apibrėžiamas kaip **rinkinys** — įrankių ir medžiagų asortimentas, naudojamas konkrečiam tikslui. Jūsų žaidimo vedėjas gali nustatyti, ar konkretus rinkinys yra prastesnės, vidutinės ar aukštesnės kokybės, taikydamas atitinkamus modifikatorius įgūdžių naudojimui.
+
+* **Žolininko arba akušerės rinkinys:** Naudojamas šamanų, gydytojų, akušerių ir „dėlių“ (gydytojų), tai audinių atraižų tvarsčiams, gydomiesiems kompresams, siūlų ir aštrios adatos (kaulinės ar metalinės) asortimentas, kartu su kitomis smulkmenomis, įskaitant įvairaus veiksmingumo žolelių preparatus. Toks rinkinys daugumoje aplinkų yra pigus ir dažnai surenkamas paties savininko, naudojant „Žinias (žolininkystė)“.
+
+* **Pirmosios pagalbos rinkinys:** Standartinį pirmosios pagalbos rinkinį sudaro aplinką atitinkantys švarių (ar sterilių) tvarsčių, guminių pirštinių, lengvų tepalų, tablečių nuo smulkių ligų ar infekcijų, akių plovimo skysčio, nuodų ar įkandimų gydymo priemonių ir mažų įrankių, tokių kaip pincetai, žirklės ar net mažas skalpelis, atitikmenys. Didesniuose rinkiniuose yra didesnė minėtų priemonių įvairovė, daugiau įvairių vaistų, taip pat gali būti pridedamas mažas pirmosios pagalbos vadovas. Pirmosios pagalbos rinkinys naudojamas su „Pirmosios pagalbos“ įgūdžiu ir paprastai yra pigus.
+
+* **Gydytojo krepšys:** Tradiciniame gydytojo krepšyje yra aplinką atitinkantis tablečių ir antibiotikų asortimentas, stetoskopas, šviesos šaltinis, receptų blankai ir įvairūs medicinos įrankiai, skirti diagnozei vietoje ir skubiai medicininei pagalbai. Gydytojo krepšys naudojamas su „Pirmosios pagalbos“ įgūdžiu, tačiau, priklausomai nuo procedūros, gali būti naudojamas ir „Medicinos“ įgūdžio patikrinimams. Gydytojo krepšys yra brangus.
+
+* **Chirurgijos rinkinys:** Sterilių chirurginių įrankių rinkinys, paruoštas naudojimui. Jame yra keletas porų guminių pirštinių, tvarsčių, antiseptikų, siūlų ir t. t., ir jis būtinas bet kokiai sudėtingesnei chirurginei operacijai ar naudojant „Medicinos“ įgūdį operacijų metu. Bet kurioje ligoninėje turėtų būti daugybė visų chirurgijos rinkinio komponentų. Chirurgijos rinkinys yra brangus.
+
+* **Traumos rinkinys:** Specializuotas medicinos reikmenų rinkinys, skirtas skubiai traumai gydyti. Dažnai skirtas naudoti mūšio lauke, traumų rinkinyje yra tokių priemonių kaip adrenalino injekcijos, antitoksinai, kitos priemonės apsaugai nuo cheminių agentų, skubios medicininės priemonės didelėms ir atviroms žaizdoms nedelsiant gydyti, nešiojamas defibriliatorius ir ribotas chirurginių įrankių rinkinys. Traumos rinkinys yra brangus.
+
+* **Medi-rinkinys (Medi-kit):** Labai pažangus įrangos rinkinys, kurį sudaro odos regeneratoriai, purškiami vaistai, momentiniai kraujo krešėjimo agentai, paprastas medicininis skeneris, universalūs antitoksinai ir priešnuodžiai, stimuliuojančios injekcijos, sintetinės odos purškiklis, purškiami įtvarai ir kitos momentinio žaizdų uždarymo formos. Paprastai medi-rinkinyje yra mažas medicininis kompiuteris arba skaitytuvas, gebantis aprašyti tūkstančius gydymo būdų ir diagnozuoti paprastus sužalojimus. Naudojantis medi-rinkiniu, visi „Pirmosios pagalbos“ bandymai tampa Lengvi ir padvigubina sveikatos taškų kiekį, kurį atkuria sėkminga „Pirmosios pagalbos“ patikra. Jei jis prieinamas jūsų aplinkoje, medi-rinkinys yra brangus.
+
+* **Auto-gydytojas (Auto-doc):** Visiškai automatizuota medicininio gydymo sistema, pasižyminti sudėtingomis diagnostinėmis galimybėmis, gebanti atpažinti ir taikyti gydymą beveik bet kokiai žinomai medicininei būklei. Auto-gydytojai gali turėti robotizuotų komponentų, gebančių manevruoti pacientus, arba gali būti kambario dydžio, išstumiantys galūnes ir kitus manipuliatorius, kad galėtų sąveikauti su pacientu ant centrinės lovos. Auto-gydytojas turi 100 % „Medicinos“ ir „Pirmosios pagalbos“ įgūdį, o sėkminga patikra atkuria dvigubai daugiau sveikatos taškų pacientui, o sveikimo laikas sumažėja perpus. Auto-gydytojas yra brangus arba neįkainojamas, o gydymas jame svyruoja nuo nemokamo iki neįkainojamo.
+
+### Kita įranga
+
+Žemiau pateikiama kita naudinga įranga, kurią jūsų veikėjas gali norėti panaudoti. **Įgūdžiai ir įranga** skyriuje pateikiama daugiau informacijos apie įrangą, reikalingą įgūdžių naudojimui arba jiems palengvinti.
+
+* **Chemijos rinkinys:** Platus mažų cheminių medžiagų ir substratų porcijų pasirinkimas, su mikroskopu ir priemonėmis junginiams maišyti bei saugoti. Paprastai tai tik edukacinė priemonė, ji gali būti naudojama su „Mokslo (Chemija)“ įgūdžiu atliekant pagrindines užduotis. Pigu ir lengvai prieinama studentams ar bet kam kitam, besidominčiam šia sritimi.
+
+* **Kompiuteriai:** Priklausomai nuo aplinkos, kompiuteris yra arba paprastas (atkuria informaciją, kai užklausiama, ir vykdo paprastas komandas), arba sudėtingas (turintis dirbtinį intelektą ar sąmonės imitaciją) įrankis, kuris gali būti naudojamas kartu su kitais įgūdžiais, tokiais kaip „Vertinimas“, „Menas“, „Žaidimai“, „Žinios“, „Mokslas“, „Mokymas“ ir ypač „Tyrimai“. Bet kuris įgūdis, kuriam naudinga plati ir ieškoma žinių bazė arba beveik momentinis bendravimas su kitais srities specialistais, gali gauti naudos iš kompiuterio naudojimo. Programos, kurios yra įdiegtos ar pasiekiamos, bei santykinis naudojimo lengvumas leidžia gauti iki +20 % premiją, jei kompiuteris tinkamas naudojamam įgūdžiui; vidutinė kompiuterinė sistema premijos nesuteikia; o prasta ar neefektyvi kompiuterinė sistema gali sumažinti įgūdį iki –20 %. Jei jūs ir jūsų žaidimo vedėjas norite, kad kompiuteris turėtų daugiau galimybių nei to laikotarpio įrenginys, sukurkite jį kaip supergalių įtaisą su INT.
+
+* **Kriminologijos rinkinys.** Naudojamas kriminalistikos laboratorijų ir detektyvų, kriminologijos rinkinyje yra pirštų atspaudų aptikimo metodai, matavimo prietaisai, guminės pirštinės, maišeliai ir buteliukai įrodymams surinkti, didinamieji stiklai, atitinkami chemikalai ir purškikliai, smulkūs įrankiai, ultravioletiniai ir paprasti žibintuvėliai bei kitos priemonės nusikalstamos veiklos pėdsakams aptikti. Kriminologijos rinkinys yra brangus.
+
+* **Persirengimo (maskuotės) rinkinys.** Odos dažų ir spalvų, makiažo ir kitų priemonių išvaizdai pakeisti kolekcija. Persirengimo rinkinį vartotojas dažniausiai susikomplektuoja pats, kad jis būtų maksimaliai naudingas atsižvelgiant į jo fizinius bruožus ir/ar lytį. Persirengimo rinkinyje gali būti perukai, dirbtiniai dantys, dirbtiniai veido plaukai, plaukų dažai ir kitos formavimo priemonės, žirklės, veidrodis, dirbtiniai kontaktiniai lęšiai ar akiniai ir net drabužių dalys. Sudėtingesni rinkiniai gali apimti protezus veido bruožams pakeisti. Persirengimo rinkinys taip pat gali būti bendrosios paskirties, tačiau toks rinkinys paprastai nėra toks efektyvus. Jį galima surinkti iš komerciškai prieinamų daiktų už pigią ar vidutinę kainą, arba aukštos kokybės rinkinys gali būti brangus.
+
+* **Rinkiniai, įvairūs:** Kaip aprašyta skyriuje **Įgūdžiai ir įranga**, beveik bet koks „Amatų“ įgūdis gali turėti rinkinį ar įrankių komplektą, kuris padeda jį naudoti. Jų vertę ir naudingumą turėtų nustatyti jūsų žaidimo vedėjas, atsižvelgdamas į aplinką.
+
+* **Laužikliai (rakinimo įrankiai):** Tai gali būti nuo kelių pavienių atlenkiamų įrankių iki sudėtingesnio rinkinio su stetoskopu, grąžtais ir įvairiais įrankiais bei priemonėmis pačioms sudėtingiausioms ir sunkiausioms spynoms atidaryti. Jų kaina gali svyruoti nuo pigių iki brangių.
+
+* **Stabilizatorius:** Šaunamojo ginklo priedas, kuris padidina ginklo stabilumą per atatrankos kompensavimą, smūgio absorbciją ir pan. Jie gali pridėti +5 % ar daugiau prie vėlesnių šūvių po pirmojo raunde.
+
+* **Slopintuvai ir duslintuvai.** Duslintuvas yra ilgas vamzdis, užpildytas pertvaromis, pritvirtinamas prie šaunamojo ginklo vamzdžio, kuris prislopina šūvio garsą. Tai sumažina sviedinio greitį, perpus sumažindama jo bazinį nuotolį. Duslintuvas paprastai gaminamas pagal užsakymą konkrečiam ginklo tipui ir dažniausiai susidėvi po D100+10 šūvių. Duslintuvo negalima pritvirtinti prie lygiavamzdžio šautuvo ar sunkiojo kulkosvaidžio, tačiau jis gali būti naudojamas lengvajam ar vidutiniam kulkosvaidžiui. Daugumoje aplinkų, kuriose jie egzistuoja, duslintuvai yra brangūs ir ribojami.
+
+* **Teleskopiniai taikikliai ir lazeriniai taikikliai.** Jie pritvirtinami prie šaunamojo ar energetinio ginklo ir leidžia jūsų veikėjui efektyviai padvigubinti bazinį nuotolį. Lazeriniai taikikliai padidina bazinį nuotolį keturis kartus. Derinant su **Taikliaisiais šūviais**, bet kuris iš jų gali būti gana efektyvus. Jie yra vidutinės vertės, nors tikslūs taikikliai gali būti brangesni.
+
+### Mechanizuoti kovos įrenginiai (Mecha)
+
+„Mecha“ (kartais sutrumpinamas iki „mech“) yra iš esmės per didelis šarvuotas kostiumas, valdomas vieno ar daugiau veikėjų, paprastai humanoidinės ar kokios nors dvikojės struktūros formos, populiarus mokslinės fantastikos aplinkose. Žemiau pavaizduotas mecha pavyzdys buvo sukurtas naudojantis supergalių įtaisų kūrimo gairėmis.
+
+> #### Modelis D142 Mobilus egzo-rėmas, dar žinomas kaip „Dangaus kūjis“ (Skyhammer)
+> 
+> **Vertė:** Neįkainojama
+> 
+> „Dangaus kūjis“ – tai stipriai šarvuotas, humanoidinės formos mecha su pailgu liemeniu, tarnaujančiu kaip kabina pilotui. Jo galva yra jutimo įrangos masyvas, o galūnės yra funkcionalios. Iš jo „bambos“ išsikiša didelis lazerinis pabūklas, virš kurio sėdi pilotas.
+> 
+> **JĖG** 100 **IŠT** 50 **DYD** 50
+> 
+> **Sveikatos taškai:** 50 **Sunkus sužeidimas:** 25 **Galios taškai:** 110
+> 
+> **Žalos modifikatorius:** +8D6 **JUD:** 15
+> 
+> **Šarvai:** 30 taškų legiruoto plieno plokštės (žr. žemiau)
+> 
+> **Ginklai:** Lazerinis pabūklas (naudoja piloto „Projektavimo“ įgūdį %), 75 metrų nuotolis, 5D6 žala; Kūjo kumščiai (naudoja piloto „Muštynių“ įgūdį %), 1D3+8D6 žala
+> 
+> **Įgūdžiai:** Smulkioji manipuliacija 45 %, Šuolis 65 %, Klausymas 65 %, Navigacija 70 %, Pilotavimas (autopilotas) 41 %, Remontas (vidinė diagnostika ir remontas) 55 %, Pastebėjimas 65 %, Pėdsakų sekimas 30 %, Skrydis 100 %.
+> 
+> **Galios:** Adaptacija 6 (šaltis, karštis, aukštas slėgis, radiacija, vakuumas; kaina = 15 taškų); Šarvai 30 (elektra 30, kinetika 30, radiacija 30; kaina = 90 taškų); Energijos projekcija 5 (šviesa; kaina = 50 taškų); Papildoma energija 11 (+110 galios taškų; kaina = 11 taškų); Skrydis 17 (kaina = 17 taškų); Super-charakteristikos 200 (JĖG, IŠT, DYD; kaina = 200 taškų); Super-pojūčiai 5 (Klausa 5, Rega 5, Rega tamsoje 5, Infraraudonoji rega 5, Sonarinis aptikimas 5; kaina = 75 taškų); Super-įgūdžiai (Smulkioji manipuliacija 2, Šuolis 2, Klausymas 2, Navigacija 3, Pilotavimas 2, Remontas 2, Pastebėjimas 2, Pėdsakų sekimas 1, Skrydis 5; kaina = 42 taškai).
+>
+> **Bendras galios biudžetas** = 500 taškų.
+
+## Bendrosios objektų savybės
+
+Be ginklų, šarvų, skydų, apgulties ginklų, transporto priemonių, knygų, rinkinių ir t. t., bet koks kitas materialus daiktas gali būti apibūdintas kaip objektas. Tai kategorija, apimanti telefonus ar telefono stulpus, namus ar pilis, tušinukus ar Eifelio bokštą. Paprastai vienintelė priežastis suteikti objektui atributą yra tada, kai jis naudojamas prieš jūsų veikėją, jūsų veikėjas jį naudoja prieš kitą veikėją, jūsų veikėjas bando jį sunaikinti arba jis stovi kelyje (ir potencialiai gali patirti šalutinę žalą).
+
+### Žala negyviems objektams
+
+Negyvi objektai, tokie kaip durys, kėdės ir sienos, greičiausiai trukdys nepataikytam puolimui arba gali tekti juos išversti ar susprogdinti. Jūsų žaidimo vedėjas turėtų peržiūrėti DYD vertes objektų pavyzdžiams ir naudoti DYD kaip objekto sveikatos taškus, priskirdamas šarvų vertę pagal jo atitikmenį (žr. **Šarvų apsauga**). Jei padaryta žala viršija objekto šarvų vertę, sveikatos taškai sumažinami likusia žala, o tiek pat žalos taškų sumažina jo šarvų vertę (parodant, kiek mažiau jis geba atlaikyti žalą, kai jau yra apgadintas). Jei objektas yra mažesnis nei žmogaus dydžio (pvz., kėdė), jis visiškai sunaikinamas, jei jo sveikatos taškai sumažinami iki 0. Jei jis didesnis nei žmogaus dydžio (pvz., medinė siena) ir jo dalies sveikatos taškai sumažinami iki 0, jame atsiranda žmogaus dydžio skylė.
+
+> ### Medžiagų šarvų vertė
+> 
+> Šarvų vertė atspindi žalos kiekį, atimamą iš sėkmingo puolimo. Kuo didesnė objekto šarvų vertė, tuo mažesnė tikimybė, kad jis bus apgadintas. Naudodamasis kitos įrangos vertėmis ar žemiau pateiktomis vertėmis, jūsų žaidimo vedėjas turėtų sugebėti ekstrapoliuoti papildomas šarvų vertes arba įvertinti jas pagal apytikrius atitikmenis. Štai įvairių medžiagų šarvų vertės:
+> 
+> | Medžiagos tipas | Šarvų vertė |
+> | :---- | :---- |
+> | 1 cm stiklo | 1 |
+> | 5 cm storio durys | 3 |
+> | 3 cm kietmedžio | 6 |
+> | 12 cm betono | 9 |
+> | 3 cm neperšaunamo stiklo | 22 |
+> | 3 cm plieno plokštė | 28 |
+> | Didelis smėlio maišas | 20 |
+> 
+> Natūralios šarvų vertės, tokios kaip nurodytos aukščiau, nedingsta ir neblogėja po kelių atakų, nebent naudojamos kokios nors aplinkos priemonės arba specialiai bandoma sumažinti objekto šarvų vertę.
+> 
+> **Pavyzdžiui,** jūsų veikėjas kūju nuolat daužo per neperšaunamą stiklą, taikydamasis į tą pačią vietą, siekdamas sukelti pakankamai įtrūkimų, kad prasiveržtų. Jūsų žaidimo vedėjas nusprendžia tai pavaizduoti sumažinant šarvų vertę 1 tašku po kiekvieno sėkmingo smūgio ir metant kauliuką žalai nustatyti. Kai žalos metimas įveikia nuolat mažėjančią šarvų vertę, stiklas sudūžta.
+> 
+> Paprasta gairė objektų naikinimui yra ta, kad vidutinis objektas turi sveikatos taškus, apytikriai lygius jo DYD, ir kai šarvai yra įveikiami bei šie sveikatos taškai prarandami, objektas tampa neveikiantis ir sunaikintas, arba bent jau sumažintas iki būklės, kai jis nebeturi jokios akivaizdžios naudos.
+
+### Dažniausiai sutinkamų objektų DYD
+
+Šalia yra įvairių objektų DYD pavyzdžių sąrašas. „Pilnas“ atspindi visą objekto dydį, naudojamą keliant ar nustatant jo sveikatos taškus, o „Segmentas“ atspindi žmogaus dydžio objekto dalį, skirtą prasilaužimui ar dalies sunaikinimui siekiant praeiti. Jei objektui padaryta žala neviršija objekto segmento DYD, gali būti išmušta skylė pagal atakos dydį ir formą, atitinkamai. Kaip minėta aukščiau, daroma prielaida, kad vidutinis objektas turi sveikatos taškus, lygius jo DYD.### Palyginamieji dydžiai
+
+Šioje lentelėje nurodytas apytikslis svoris ir jo atitikmuo žaidimo DYD. „Basic Roleplaying“ sistemoje DYD yra susijęs ne tik su svoriu, bet ir su tūriu bei ūgiu. Ši lentelė nėra tiksli ar ribojanti: skirdami DYD ir svorį turėtumėte vadovautis sveiku protu, atsižvelgdami į objekto ar būtybės sandarą. Nuo 330 DYD šis rodiklis yra maždaug 1/10 objekto ar būtybės svorio trumposiomis tonomis.
+
+**Pavyzdžiui**, 8 000 DYD krakanas sveria 80 000 trumpųjų tonų.
+
+| DYD | Imperinis svoris | Metrinis svoris |
+| :---- | :---- | :---- |
+| 1 | 1–12 svarų | 0,5–5,4 kilogramo |
+| 4 | 38–51 svaras | 17–23 kilogramai |
+| 8 | 109–120 svarų | 49–54 kilogramai |
+| 12 | 156–168 svarai | 71–76 kilogramai |
+| 16 | 220–239 svarai | 100–108 kilogramai |
+| 20 | 310–338 svarai | 141–153 kilogramai |
+| 24 | 440–479 svarai | 200–217 kilogramų |
+| 32 | 880–959 svarai | 499–435 kilogramai |
+| 40 | 1760–1919 svarų | 798–870 kilogramų |
+| 48 | 3520–3829 svarai | 1 597–1 737 kilogramai |
+| 56 | 7040–7649 svarų | 3 193–3 470 kilogramai |
+| 64 | 7,1–7,7 tonos | 6 441–6 985 kilogramai |
+| 72 | 14,1–15,4 tonos | 12,8–14 metrinių tonų |
+| 80 | 28,2–30,7 tonos | 25,6–27,9 metrinės tonos |
+| 88 | 56,5–61,5 tonos | 51,3–55,8 metrinės tonos |
+| 96 | 96 tonos | 87 metrinės tonos |
+| 104 | 104 tonos | 94 metrinės tonos |
+| 112 | 120 tonų | 109 metrinės tonos |
+| 120 | 144 tonos | 131 metrinė tona |
+| 128 | 176 tonos | 160 metrinių tonų |
+| 136 | 216 tonų | 196 metrinės tonos |
+| 140 | 240 tonų | 218 metrinių tonų |
+| 144 | 264 tonos | 239 metrinės tonos |
+| 152 | 320 tonų | 290 metrinių tonų |
+| 160 | 384 tonos | 348 metrinės tonos |
+| 168 | 456 tonos | 414 metrinių tonų |
+| 176 | 536 tonos | 486 metrinės tonos |
+| 184 | 624 tonos | 566 metrinės tonos |
+| 192 | 720 tonų | 653 metrinės tonos |
+| 200 | 824 tonos | 748 metrinės tonos |
+| 208 | 936 tonos | 849 metrinių tonų |
+| 216 | 1 056 tonos | 958 metrinės tonos |
+| 224 | 1 184 tonos | 1 074 metrinės tonos |
+| 232 | 1 220 tonų | 1 107 metrinių tonų |
+| 240 | 1 364 tonos | 1 237 metrinių tonų |
+| 256 | 1 516 tonų | 1 375 metrinių tonų |
+| 264 | 1 676 tonos | 1 520 metrinių tonų |
+| 272 | 1 844 tonos | 1 673 metrinės tonos |
+| 280 | 2 020 tonų | 1 833 metrinės tonos |
+| 288 | 2 204 tonos | 1 999 metrinių tonų |
+| 294 | 2 396 tonos | 2 174 metrinės tonos |
+| 304 | 2 596 tonos | 2 355 metrinės tonos |
+| 312 | 2 804 tonos | 2 544 metrinės tonos |
+| 320 | 3 020 tonų | 2 740 metrinių tonų |
+| 330 | 3 300 tonų | 2 994 metrinės tonos |
+| 340 | 3 400 tonų | 3 084 metrinės tonos |
+| 350 | 3 500 tonų | 3 175 metrinių tonų |
+
+> ##### Objekto DYD pavyzdžiai
+> 
+> | Objektas | Pilnas DYD | Segmentinis DYD |
+> | :---- | :---- | :---- |
+> | Stiklinis langas | 3 | 3 |
+> | Durys | 4–8 | 4–8 |
+> | Kėdė | 4–9 | 4–9 |
+> | Stalas | 4–12 | 4–12 |
+> | Šulinio dangtis | 5 | 5 |
+> | Priešgaisrinis hidrantas | 5 | 5 |
+> | Augalas vazone | 2–5 | 2–5 |
+> | Stiklinės durys | 8 | 8 |
+> | Rašomasis stalas | 10–20 | 10–20 |
+> | Žibinto stulpas | 30 | 10 |
+> | Vidaus siena | 25–35 | 8 |
+> | Lauko siena | 25–45 | 20 |
+> | Plytų siena | 30–50 | 20 |
+> | Betoninė siena | 30–50 | 20 |
+> | Betono ir plieno siena | 35–55 | 25 |
+> | Maža oro transporto priemonė | 40 | 10 |
+> | Automobilis | 50 | 12 |
+> | Saugos durys | 60 | 20 |
+> | Vidutinė sausumos transporto priemonė | 60 | 12 |
+> | Plieninė sija | 65 | 30 |
+> | Oro transporto priemonė, reaktyvinis naikintuvas | 80 | 18 |
+> | Vidutinis tankas | 80 | 30 |
+> | Lokomotyvas | 100 | 20 |
+> | Oro transporto priemonė, krovininis lėktuvas | 100 | 15 |
+> | Oro transporto priemonė, bombonešis | 105 | 15 |
+> | Oro transporto priemonė, keleivinis lėktuvas | 110 | 15 |

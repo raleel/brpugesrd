@@ -1,188 +1,186 @@
 # 8\. Varusteet
 
-Tämä luku käsittelee kaikkea hahmosi ulkopuolella olevaa: esineitä, joita hahmosi voi omistaa ja joita hän voi käyttää, kuten rahaa, aseita, haarniskoja, varusteita, ajoneuvoja ja itse ympäristöä, olivatpa ne tavallisia tai poikkeuksellisia. Tässä esitellään myös säännöt erityisille varustetyypeille ja se, miten varusteita käsitellään pelin aikana.
+Tämä luku kattaa kaiken hahmosi ulkopuolisen: esineet, joita he voivat omistaa ja joiden kanssa he voivat toimia, kuten rahan, aseet, haarniskat, varusteet, ajoneuvot ja itse ympäristön, olivatpa ne arkipäiväisiä tai poikkeuksellisia. Tässä on myös säännöt erikoistyyppisille varusteille ja varusteiden käsittelylle pelin aikana.
 
 ## Raha
 
-**Varallisuus** (Wealth) käsittelee rahaa, mutta se on abstrahoitu johtuen hintojen, tulojen ja valuuttojen mahdollisesta kirjosta missä tahansa mahdollisessa pelimaailmassa. Valuutanvaihtoluetteloiden tai raha-abstraktioiden sijaan käytetään Varallisuus-sääntöjä (Luku kaksi: Hahmot) ja Status-sääntöjä (Luku kolme: Taidot). Selkeyden vuoksi nämä on koottu Varallisuustasot-taulukkoon (vastakkaisella sivulla).
+**Varallisuus** käsittelee rahaa, mutta se on abstrahoitu hintojen, tulojen ja valuuttojen laajan kirjon vuoksi kaikissa mahdollisissa pelimaailmoissa. Valuutanvaihtolistojen tai valuutta-abstraktioiden sijaan käytetään Varallisuus-sääntöjä (Luku kaksi: Hahmot) ja Status-sääntöjä (Luku kolme: Taidot). Kätevyyden vuoksi nämä on tiivistetty vastakkaisella sivulla olevaan Varallisuustasot-taulukkoon.
 
-**Esineen arvo** -sarake edustaa niiden esineiden arvoa, jotka ovat kyseisen varallisuustason hahmon saatavilla. Halvat esineet maksavat hyvin vähän, Edulliset varusteet ovat halpoja ja yleensä heikkolaatuisia, Keskiverrot varusteet ovat laadukkaita ja kohtuuhintaisia, kun taas Kalliit varusteet ovat korkealaatuisempia tai hintavampia. Korvaamattomia esineitä ja varusteita pidetään sellaisina, joita ei voi helposti ostaa: niiden hankkiminen on järjestettävä tai niistä on neuvoteltava, jopa varakkaiden keskuudessa.
+**Esineen arvo** -sarake edustaa kyseisellä varallisuustasolla olevan hahmon saatavilla olevien esineiden arvoa. Halvat esineet ovat arvottomia, Edulliset varusteet ovat halpoja ja yleensä heikkolaatuisia, Keskiverto-varusteet ovat laadukkaita ja kohtuuhintaisia, kun taas Kalliit varusteet ovat korkealaatuisempia tai arvokkaampia. Hintavia ja harvinaisia esineitä pidetään arvoiltaan korkeampina kuin mitä voidaan helposti ostaa: niiden hankkiminen on järjestettävä tai neuvoteltava, jopa varakkaiden keskuudessa.
 
-Tässä taulukossa ei ole kahta lisäarvoa: Ilmainen ja Rajoitettu. Ilmaiset esineet ovat juuri sitä—ne eivät maksa mitään ja niitä voi löytää vaivatta, kun taas Rajoitettuja esineitä ei saa ilman lupaa, ja luvaton omistaminen johtaa usein rikossyytteisiin. Rajoitetuilla esineillä voi olla todellinen arvo laadun lisäksi, kuten esine, joka on Kallis mutta myös Rajoitettu.
+Kaksi lisäarvoa ei ole edustettuna tässä taulukossa: Ilmainen ja Rajoitettu. Ilmaiset esineet ovat juuri sitä—ne eivät maksa mitään ja niitä voi löytää vaivatta, kun taas Rajoitetut esineet eivät ole saatavilla ilman lupaa, ja luvaton omistaminen johtaa usein rikossyytteisiin. Rajoitetuilla esineillä voi olla todellinen arvo laadun lisäksi, kuten esine, joka on Kallis ja samalla Rajoitettu.
 
-Hahmon luonnin yhteydessä annetaan tietoa hahmosi lähtökohtaisesta varallisuustasosta. Pelinjohtajasi voi käyttää tätä ja Status-taitoa ohjeistuksena lähtövarusteiden määrittämisessä, jotka menevät hahmonluonnin **Vaiheessa kahdeksan** esitettyjen ohjeiden yli.
+Hahmonluonti tarjoaa tietoa hahmosi lähtövarallisuustasosta. Pelinjohtajasi voi käyttää tätä ja Status-taitoa ohjeistuksena lähtövarusteiden määrittämiseen hahmonluonnin **Vaiheessa kahdeksan**.
 
 ##### Varallisuustasot
 
 | Varallisuustaso | Esineen arvo | Kuvaus |
 | :---- | :---- | :---- |
-| Varakas | Korvaamaton | Valtava varallisuus, ei puutetta mistään. Jokainen hankinta on kohtuullinen, ja luottolimiitit mahdollistavat entistä suuremman rahoituksen. |
-| Varakas (Affluent) | Kallis | Hyvin toimeentuleva ja kykenee kuluttamaan vapaasti ilman huolta budjetista. |
-| Keskiverto | Keskiverto | Keskiluokkaiset tulot, mukava elämä, mutta ei pröystäilevä. Suuret hankinnat harkitaan tarkkaan. |
+| Varakas | Korvaamaton | Valtava varallisuus, ei puutetta mistään. Mikä tahansa hankinta on järkevissä rajoissa ja luottorajat sallivat vielä suuremman rahoituksen. |
+| Varakas | Kallis | Hyvissä varoissa ja kykenee kuluttamaan vapaasti ilman huolta budjetista. |
+| Keskiverto | Keskiverto | Keskiluokkaiset tulot, mukava elintaso, mutta ei tuhlaileva. Suuret hankinnat harkitaan huolellisesti. |
 | Köyhä | Edullinen | Elämää veitsenterällä. Päivittäinen ravinto on niukkaa ja jokaisella menetyksellä on seurauksia. |
-| Varaton | Halpa | Rahaton, vailla edes perustason taskurahaa. Selviytyminen on ensisijainen huolenaihe. |
+| Varaton | Halpa | Rahaton, ilman edes perus taskurahaa. Selviytyminen on ensisijainen huoli. |
 
 ## Varusteet
 
-Jokaisella varusteella on suhteellinen arvo. Pelinjohtajasi tulisi olettaa, että jos hahmosi on kyseisellä varallisuustasolla (tai sen yli), hänellä on pääsy kyseiseen varusteeseen ilman ongelmia. Hahmosi pääsee vapaasti käsiksi varusteisiin, joiden arvo on hänen varallisuustasoaan alhaisempi, kohtuullisuuden rajoissa. Pelinjohtaja voi vaatia Status-heittoja, jos haluat hahmosi ylittävän asemansa ja omistavan korkeamman varallisuustason esineitä. Tämä voi edustaa säästämistä, arvokasta perintöä tai palveluksen pyytämistä.
+Jokaisella varusteella on suhteellinen arvo. Pelinjohtajasi tulisi olettaa, että jos hahmosi on kyseisellä varallisuustasolla (tai sen yläpuolella), heillä on pääsy kyseiseen varusteeseen ilman ongelmia. Hahmosi pääsee vapaasti käsiksi varusteisiin, joiden arvo on heidän varallisuustasonsa alapuolella, järjen rajoissa. Pelinjohtajasi voi vaatia Status-heittoja, jos haluat hahmosi ylittävän asemansa ja hankkivan korkeamman varallisuustason esineitä. Tämä voi kuvastaa säästämistä jotain varten, arvokasta perintökalleutta tai palveluksen pyytämistä.
 
-Pelinjohtajan harkinnan mukaan, jos haluat hahmosi omistavan kalliimpia varusteita (hänen varallisuustasonsa yläpuolelta), onnistunut Status-heitto vaaditaan sellaisten esineiden "ostamiseen", jotka ovat yhtä tasoa hahmosi oletusarvoista varallisuustasoa korkeammalla. Vaikea Status-heitto on suoritettava esineistä, jotka ovat kaksi varallisuustasoa korkeammalla, ja pelinjohtaja voi päättää, etteivät yli kaksi tasoa hahmosi oletusarvoa arvokkaammat esineet ole yksinkertaisesti saatavilla. Vaihtoehtoisesti pelinjohtaja voi päättää, että tietty varuste on annettu, osoitettu tai lainattu hahmolle tämän ammatin perusteella.
+Pelinjohtajan harkinnan mukaan, jos haluat hahmosi omistavan kalliimpia varusteita (varallisuustason yläpuolella), onnistunut Status-heitto vaaditaan esineiden "ostamiseen" yhtä tasoa hahmosi oletusvarallisuustason yläpuolelta. Vaikea Status-heitto on tehtävä esineille, jotka ovat kaksi varallisuustasoa korkeammalla, ja pelinjohtajasi voi päättää, että hahmosi oletusvarallisuustason yläpuolella olevat, enemmän kuin kaksi tasoa arvokkaammat esineet ovat yksinkertaisesti tavoittamattomissa. Vaihtoehtoisesti pelinjohtajasi voi päättää, että tietty varuste on annettu, määrätty tai lainattu hahmolle hahmon ammatin perusteella.
 
-**Esimerkiksi,** sotilaan varallisuustaso on yleensä Köyhä tai Keskiverto, mutta sotilaille jaetaan tuliaseita ja varusteita, jotka ovat kaukana heidän taloudellisten mahdollisuuksiensa yläpuolella. Sotilaan odotetaan pitävän huolta varusteistaan eikä hän ehkä "omista" niitä, mutta varusteet ovat käytettävissä seikkailuja varten. Astronautti ei kuitenkaan todennäköisesti omista avaruusalustaan tieteiskirjallisuuden ulkopuolella.
+**Esimerkiksi,** sotilaan varallisuustaso on yleensä Köyhä tai Keskiverto, mutta sotilaille jaetaan tuliaseita ja varusteita, jotka ovat kaukana heidän taloudellisista mahdollisuuksistaan. Sotilaan odotetaan pitävän huolta varusteistaan eikä hän välttämättä "omista" niitä, mutta varusteet ovat käytettävissä seikkailuja varten. Astronautti tuskin kuitenkaan omistaa omaa avaruusalustaan tieteiskirjallisuuden ulkopuolella.
 
-> ### Milloin varusteet pitäisi kuvata?
+> ### Milloin varusteita kuvataan?
 > 
-> Milloin varuste on kuvattava pelitermein, ja milloin se voidaan olettaa osaksi taustaa? Kyse on yksityiskohdista: milloin pelimekaanisia vaikutuksia tarvitaan ja milloin ne ovat tarpeettomia? Vaikka tämä päätös kuuluu pelinjohtajalle, ei ole olemassa oikeaa tai väärää vastausta: kyse on vain mukavuusasteesta. Ihannetapauksessa pelimekaanisten yksityiskohtien pohtimiseen käytetty aika minimoidaan roolipelaamiseen ja seikkailuihin käytettävän ajan maksimoimiseksi.
+> Milloin varuste tarvitsee kuvata pelitermein, ja milloin sen voi olettaa olevan osa taustaa? Tämä on yksityiskohtien kysymys: milloin pelimekaanisia vaikutuksia tarvitaan ja milloin ne ovat tarpeettomia? Vaikka tämä päätös kuuluu pelinjohtajallesi, ei ole olemassa oikeaa tai väärää vastausta: kyse on vain mukavuuden asteesta. Ihanteellisesti pelimekaniikkojen selvittämiseen käytetty aika minimoidaan roolipelaamisen ja seikkailujen maksimoimiseksi.
 > 
-> Tämä luku kattaa monenlaisia varusteita, mukaan lukien aseet, haarniskat ja ajoneuvot. Ihannetapauksessa nämä ohjeet riittävät siihen, että muiden varusteiden vastineita voidaan johtaa tai varuste voidaan abstrahoida suoraviivaiseksi taitomuokkaukseksi.
+> Tämä luku kattaa monenlaisia varusteita, kuten aseita, haarniskoja ja ajoneuvoja. Ihanteellisesti nämä ohjeet riittävät siihen, että muiden varusteiden vastaavat arvot voidaan johtaa tai varuste voidaan abstrahoida yksinkertaiseksi taitomuokkaukseksi.
 
-### Lähtövarusteet
+### Aloitusvarusteet
 
-Kuten luvun kaksi (Hahmot) **Vaiheessa kahdeksan** mainittiin, hahmosi aloittaa varusteilla, jotka vastaavat hänen varallisuustasoaan ja ammattiaan. Yleensä keskivertohahmolla on:
+Kuten luvun kaksi (Hahmot) **Vaiheessa kahdeksan** mainittiin, hahmosi aloittaa varusteilla, jotka vastaavat heidän varallisuustasoaan ja ammattiaan. Yleensä keskivertohahmolla on:
 
 * Täydellinen vaatekerta, joka sopii ympäristöön ja genreen.
-* Taskurahaa ja henkilökohtaisia säästöjä varallisuustason mukaisesti.
-* Henkilökohtainen esine, jolla on yhteys perheeseen, kuten perintökalleus, muistoesine, valokuva jne., tai jokin vähäarvoinen rihkama, jolla on tunnearvoa.
-* Kaikki ammattia vastaavat työkalut tai varusteet, jos aiheellista.
-* Mikä tahansa ase, jossa hahmon taitotaso on yli 50 %, jos aiheellista.
+* Taskurahaa ja henkilökohtaisia säästöjä, jotka vastaavat varallisuustasoa.
+* Henkilökohtainen esine, joka osoittaa yhteyden perheeseen, kuten perintökalleus, muistoesine, valokuva jne., tai jokin vähäarvoinen mutta tunnearvoltaan merkittävä rihkama.
+* Ammattiin sopivat työkalut tai varusteet, jos aiheellista.
+* Mikä tahansa ase, jossa hahmolla on yli 50 % taitotaso, jos aiheellista.
 
-Jokaisella ammatilla voi olla lisävarusteita, kuten lentäjällä, joka voi pelin alussa hallita lentokonetta, laivaa tai jopa avaruusalusta asetelmasta riippuen. Älä yritä valita ammattia pelkästään varusteiden saatavuuden perusteella—ammatin tulisi olla osa hahmoa, jota haluat pelata, eikä se edullisin sosiaalinen tai taloudellinen valinta.
+Jokaisella ammatilla voi olla lisävarusteita, kuten lentäjällä, joka saattaa aloittaa pelin lentokoneella, laivalla tai jopa avaruusaluksella, riippuen pelimaailmasta. Älä valitse ammattia vain varusteiden saannin vuoksi – ammattisi tulisi olla osa hahmoa, jota haluat pelata, ei kaikkein edullisin sosiaalinen tai taloudellinen valinta.
 
-**Esimerkiksi,** jos jokainen ryhmän jäsen valitsee aatelisen, peli voi muuttua tylsäksi, jos kaikki hahmot käyttävät valtavia taloudellisia resurssejaan ongelmien poistamiseen.
+**Esimerkiksi,** jos kaikki ryhmän jäsenet valitsevat aatelisen, peli voi muuttua tylsäksi, jos kaikki hahmot käyttävät valtavia taloudellisia resurssejaan ongelmien ratkomiseen.
 
-Lisäksi sinun ja pelinjohtajasi tulisi ottaa huomioon, että hahmosi varusteiden ja vaatteiden laatu ja ulkonäkö heijastavat todennäköisesti myös hänen Status-taitotasoaan ja varallisuuttaan.
+Lisäksi sinun ja pelinjohtajasi tulisi huomioida, että hahmosi varusteiden ja vaatteiden laatu ja ulkonäkö heijastavat todennäköisesti myös Status-taitotasoa ja varallisuutta.
 
-**Esimerkiksi,** opiskelijan vaatteet ovat puhtaat ja todennäköisesti muodikkaat, mutta eivät sovi juhlatilaisuuksiin, ja ne palvelisivat huonosti retkikuntaa syrjäisellä Tiibetillä. Diletantin metsästysretkelle ostamat varusteet ovat uudenkarheita ja huippumerkkejä, vaikka kokeneella metsästäjällä on kuluneet ja luotettavat varusteet, jotka on valittu luotettavuuden, ei merkin vuoksi.
+**Esimerkiksi,** opiskelijan vaatteet ovat puhtaat ja luultavasti muodikkaat, mutta ne eivät sovellu juhlatilaisuuksiin, ja ne palvelevat huonosti retkikunnassa syrjäisessä Tiibetissä. Varusteet, jotka harrastelija ostaa metsästysretkelle, ovat uudenkarheita ja parhaita merkkejä, vaikka kokeneella metsästäjällä on kuluneet ja luotettavat varusteet, jotka on valittu luotettavuuden, ei merkin perusteella.
 
 ### Varusteiden ostaminen
 
-Kun hahmosi haluaa hankkia tai korvata varusteita tai tarvikkeita, joita hän ei voi etsiä roskista, ryöstää tai ottaa joltain toiselta, tämä hoidetaan käyttämällä esineen määritettyä arvoa ja mahdollisesti taitoja kuten Arviointi, Tinkiminen ja Suostuttelu, tai yksinkertaisesti käyttämällä Status-heittoja tarpeen mukaan.
+Kun hahmosi haluaa hankkia tai korvata varusteita, joita he eivät voi löytää, varastaa tai ottaa keneltäkään muulta, tämä hoidetaan esineelle määritetyn arvon perusteella, ja mahdollisesti käyttämällä taitoja kuten Arviointi, Tinkiminen ja Suostuttelu, tai yksinkertaisesti käyttämällä Status-heittoja tarpeen mukaan.
 
-Määritä ensin, voiko varustetta ylipäätään löytää. Pelinjohtaja voi vaatia onnistuneen Tutkimus-heiton tai ominaisuusheiton kuten Idea, Onni tai Tieto löytääkseen sen. Kommunikaatiotaitoja voidaan tarvita, jos tinkiminen tai neuvottelu on tarpeen. Luku kymmenen (Ympäristöt) antaa joitakin perusohjeita esineiden saatavuudesta eri ympäristöissä.
+Määritä ensin, onko varuste ylipäätään löydettävissä. Pelinjohtajasi voi vaatia onnistuneen Tutkimus-heiton tai ominaisuusheiton, kuten Idea, Onni tai Tieto, sen löytämiseksi. Viestintätaitoja voidaan tarvita, jos tinkiminen tai neuvottelu on välttämätöntä. Luku kymmenen (Pelimaailmat) tarjoaa perusohjeita esineiden saatavuudesta eri ympäristöissä.
 
-Olettaen, että haluttu esine löytyy, suorin tapa hankkia se on Status-taito, jota muokkaavat seuraavat tekijät:
+Olettaen, että haluttu esine löytyy, suorin tapa hankkia se on Status-taito, jota muokataan seuraavilla tekijöillä:
 
-* Jos esineen arvo on kaksi tasoa hahmosi varallisuustasoa alempi ja se on löydettävissä, se on automaattisesti saatavilla. Heittoa ei tarvita.
-* Jos esineen arvo on yhden tason hahmosi varallisuustasoa alempi ja se on löydettävissä, yksittäinen esine (tai pieni setti esineitä, tarpeen mukaan) voidaan hankkia ilman heittoa.
-* Jos esineen arvo on sama kuin hahmosi varallisuustaso, heittoa ei vaadita sen hankkimiseksi.
-* Jos esine on yhden arvotason hahmosi varallisuustasoa korkeampi, onnistunut Status-heitto vaaditaan sen hankkimiseksi.
-* Jos esine on kaksi arvotasoa hahmosi varallisuustasoa korkeampi, onnistunut Vaikea Status-heitto vaaditaan sen hankkimiseksi.
-* Jos esine on yli kaksi arvotasoa hahmosi varallisuustasoa korkeampi, mikään Status-heitto ei saa sitä hankittua.
+* Jos esineen arvo on kaksi tasoa hahmosi varallisuustason alapuolella ja se on löydettävissä, se on automaattisesti saatavilla. Heittoa ei tarvita.
+* Jos esineen arvo on yhden tason hahmosi varallisuustason alapuolella ja se on löydettävissä, yksittäinen esine (tai pieni sarja esineitä, tarpeen mukaan) voidaan saada ilman heittoa.
+* Jos esineen arvo on sama kuin hahmosi varallisuustaso, sen hankkimiseen ei vaadita heittoa.
+* Jos esine on yhden arvotason hahmosi varallisuustason yläpuolella, onnistunut Status-heitto vaaditaan sen hankkimiseksi.
+* Jos esine on kaksi arvotasoa hahmosi varallisuustason yläpuolella, onnistunut Vaikea Status-heitto vaaditaan sen hankkimiseksi.
+* Jos esine on enemmän kuin kaksi arvotasoa hahmosi varallisuustason yläpuolella, mikään Status-heitto ei saa sitä hankituksi.
 
-Lopuksi, aina on olemassa varkaus tai väkivalta halutun varusteen hankkimiseksi. Jos pelinjohtajasi sallii, hahmosi voi aloittaa pelin varastetulla esineellä, jonka arvo on lähes mikä tahansa. Tässä tapauksessa määritä, kuka esineen alun perin omisti, tietävätkö he sen tulleen viedyksi (ja kuka sen vei), sekä resurssien määrä ja vakavuus, jonka he käyttävät sen takaisinsaamiseen. Itse varkaus voidaan roolipelata johdantokohtauksena tai takaumana, tai sen voidaan olettaa onnistuneen automaattisesti. Kummassakin tapauksessa pelinjohtajan tulee tehdä kohtuullisia ponnisteluja varkauden seurauksien käsittelemiseksi asetelmalle sopivalla tavalla, mahdollisesti sisällyttäen takaisinhankintapyrkimykset osaksi yleistä tarinaa tai kampanjaa. Kuten muidenkin taitojen kohdalla, ennen seikkailun alkua suoritettu onnistunut taitotaito ei oikeuta kokemustarkistukseen.
+Lopulta on aina olemassa varkaus tai väkivalta halutun varusteen saamiseksi. Jos pelinjohtajasi sallii, hahmosi voi aloittaa pelin varastetulla esineellä, jonka arvo on lähes mikä tahansa. Tässä tapauksessa määritä, kuka esineen omisti alun perin, tietävätkö he sen tulleen viedyksi (ja kuka sen vei), sekä resurssien määrä ja vakavuus, jonka he uhraavat sen takaisin saamiseksi. Itse varkaus voidaan roolipelata johdantokohtauksena tai takautumana, tai sen voidaan olettaa onnistuneen automaattisesti. Kummassakin tapauksessa pelinjohtajasi tulee tehdä kohtuulliset ponnistelut käsitelläkseen varkauden seuraukset ympäristöön sopivalla tavalla, mahdollisesti sisällyttäen takaisinhankintapyrkimykset osaksi tarinaa tai kampanjaa. Kuten muiden taitojen kohdalla, ennen seikkailun alkua tehty onnistunut taitoheitto ei oikeuta kokemustarkistukseen.
 
-### Varusteet ja kyvyt
+### Aloitusvarusteet ja voimat
 
-Haluat ehkä hahmosi aloittavan voimallisen varusteen kanssa, jos asetelmassa käytetään kykyjä. Jos pelinjohtaja hyväksyy, hahmosi on "maksettava" kyseinen varuste omasta lähtöbudjetistaan kyvyille, olivatpa ne sitten aloitusloitsuja tai psyykkisiä kykyjä, mutaation kustannuksella tai hahmosi kykybudjetista. Voit aloittaa yhdellä tai useammalla kykyjä hyödyntävällä varusteella seuraavin ohjein:
+Voit haluta hahmosi aloittavan varusteella, jossa on voimia, jos voimia käytetään pelimaailmassa. Jos pelinjohtajasi hyväksyy, hahmosi on "maksettava" kyseisestä varusteesta omasta aloitusbudjetistaan voimia varten, olivatpa ne alkuperäisiä loitsuja tai psyykkisiä kykyjä, mutaation hinnalla tai hahmosi voimabudjetista. Voit aloittaa yhdellä tai useammalla varusteella, jotka hyödyntävät voimia, noudattaen seuraavia ohjeita:
 
-* **Magia:** Aloittaaksesi pelin taikaesineellä, hahmosi on uhrattava 1 pysyvä VOI-piste per esineeseen investoitu loitsu, plus 1 pysyvä VOI-piste per loitsukapasiteettitaso, jota esine voi käyttää. Lisäksi hahmosi on osattava (tai hänellä on oltava pääsy) loitsuun/loitsuihin, joita esine voi käyttää. Esineen voimapistekapasiteetti on yhtä suuri kuin hahmosi normaali voimapistetotal taikaesineen luomisen jälkeen, tai esineen KOK. Jos hahmosi ei luonut taikaesinettä, pelinjohtajan tulisi määrittää sen voimapistekapasiteetti. Taikaesineellä on oltava alkuperäinen taitotaso, joka on maksettu hahmosi henkilökohtaisista taitopisteistä, eikä se voi olla korkeampi kuin sen luojan taitotaso. Jos hahmosi ei luonut sitä, pelinjohtajan tulisi määrittää alkuperäiset taitotasot. Kun taikaesine luodaan, määritä, onko se henkilökohtainen (vain hahmosi voi käyttää sitä), onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, jos sillä on voimapisteitä, vai voiko kuka tahansa käyttää sitä. Katso lisätietoja kohdasta Taikaesineet.
+* **Magiavoimat:** Aloittaaksesi pelin taikaesineen kanssa, hahmosi on uhrattava 1 piste pysyvää MAH:ia jokaista esineeseen investoitua loitsua kohden, plus 1 piste pysyvää MAH:ia jokaista loitsukapasiteettitasoa kohden, jota esine voi käyttää. Lisäksi hahmosi on tunnettava (tai hänellä on oltava pääsy) loitsuun/loitsuihin, joita esine voi käyttää. Esineellä on voimapistekapasiteetti, joka vastaa hahmosi normaalia voimapistesummaa taikaesineen luomisen jälkeen, tai esineen KOK. Jos hahmosi ei luonut taikaesinettä, pelinjohtajasi tulisi määrittää sen voimapistekapasiteetti. Taikaesineellä on oltava alkuperäinen taitoluokitus, joka on maksettu hahmosi henkilökohtaisista taitopisteistä, eikä se voi olla korkeampi kuin sen luojan taitoluokitus. Jos hahmosi ei luonut sitä, pelinjohtajasi tulisi määrittää alkuperäiset taitoluokitukset. Kun taikaesine luodaan, määritä, onko se henkilökohtainen (vain hahmosi voi käyttää sitä), onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, jos sillä on voimapisteitä, tai voiko kuka tahansa käyttää sitä. Katso lisätietoja kohdasta Taikaesineet.
 
-* **Mutaatiot:** Aloittaaksesi esineellä, jolla on mutaatioita, työskentele pelinjohtajan kanssa antaaksesi järkevän selityksen sille, miksi tällainen esine on olemassa ja mitkä mutaatiot edustavat parhaiten sen kykyjä. Mutaatioesine on osa hahmoasi ja se on maksettava hahmosi alkuperäisistä ominaisuuksista ja käytettävissä olevista mutaatioista. Aloittaaksesi pelin mutaatioesineellä, hahmosi on uhrattava 1 pysyvä KES-piste per mutaatiotaso (ja yhtä suuri määrä käytettävissä olevia aloitusehtoisia mutaatioita). Kaikki ominaisuusheitot, joita esine tekee, perustuvat hahmosi omiin ominaisuuksiin. Mutaatioesinettä pidetään "elävänä" ja se paranee samalla nopeudella kuin hahmosi. Katso lisätietoja kohdasta **Mutaatioesineet**.
+* **Mutaatiot:** Aloittaaksesi esineellä, jossa on mutaatioita, työskentele pelinjohtajasi kanssa tarjotaksesi järkevän selityksen sille, miksi tällainen esine on olemassa ja mitkä mutaatiot parhaiten edustavat sen kykyjä. Mutaatioesine on osa hahmoasi ja se on maksettava hahmosi alkuperäisistä ominaisuuksista ja käytettävissä olevista mutaatioista. Aloittaaksesi pelin mutaatioesineellä, hahmosi on uhrattava 1 piste pysyvää KES:iä jokaista mutaatiotasoa kohden (ja yhtä suuri määrä käytettävissä olevia aloitusmutaatioita). Kaikki ominaisuusheitot, joita esine tekee, perustuvat hahmosi omiin ominaisuuksiin. Mutaatioesinettä pidetään "elävänä" ja se paranee samalla nopeudella kuin hahmosi. Katso lisätietoja kohdasta **Mutaatioesineet**.
 
-* **Psyykkiset kyvyt:** Aloittaaksesi esineellä, joka käyttää psyykkisiä kykyjä, hahmosi on uhrattava 1 pysyvä VOI-piste per psyykkisen kyvyn taso (ja yksi psyykkisen kyvyn "paikka" aloituspsyykkisistä kyvyistä, jos kykyä ei tunneta). Esineellä on aloitus-VOI (ja maksimivoimapisteet) yhtä suuri kuin hahmollasi. Hahmosi on maksettava esineen psyykkisten kykyjen taitopisteet henkilökohtaisesta taitopistepoolistaan. Katso lisätietoja kohdasta **Psyykkisiä kykyjä hyödyntävät varusteet**.
+* **Psyykkiset kyvyt:** Aloittaaksesi esineellä, joka käyttää psyykkisiä kykyjä, hahmosi on uhrattava 1 piste pysyvää MAH:ia jokaista psyykkisen kyvyn tasoa kohden (ja yksi psyykkisen kyvyn "paikka" aloituspsyykkisistä kyvyistä, jos kykyä ei tunneta). Esineellä on aloitus-MAH (ja maksimivoimapisteet), joka vastaa hahmosi arvoja. Hahmosi on maksettava taitopisteet esineen psyykkisistä kyvyistä henkilökohtaisesta taitopistepoolistaan. Katso lisätietoja kohdasta **Psyykkisillä kyvyillä varustetut varusteet**.
 
-* **Sorcery (Velhous):** Aloittaaksesi pelin artefaktilla, hahmosi on uhrattava 1 pysyvä VOI-piste per artefaktiin investoitu sorcery-loitsu, ja hahmon on osattava (tai oltava pääsy) loitsuun/loitsuihin, joita artefakti voi käyttää. Artefaktilla on voimapistereservi, joka on yhtä suuri kuin hahmosi normaali voimapistemaksimi (artefaktin luomisen jälkeen), riippuen siitä, kumpi on suurempi. Pelinjohtajan tulisi määrittää VOI- ja voimapistearvo, jos hahmosi ei luonut artefaktia. Kun artefakti luodaan, määritä, onko se henkilökohtainen (vain hahmosi voi käyttää sitä), onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, jos sillä on voimapisteitä, vai voiko kuka tahansa käyttää sitä. Katso lisätietoja kohdasta **Velhous-varusteet**.
+* **Sorcery (Velhous):** Aloittaaksesi pelin artefaktin kanssa, hahmosi on uhrattava 1 piste pysyvää MAH:ia jokaista artefaktiin investoitua velhousloitsua kohden ja hahmon on tunnettava (tai hahmolla on oltava pääsy) loitsuun/loitsuihin, joita artefakti voi käyttää. Artefaktilla on voimapistereservi, joka vastaa hahmosi normaalia voimapistemaksimia (artefaktin luomisen jälkeen), tai suurempi arvo. Pelinjohtajasi tulisi asettaa MAH- ja voimapistearvo, jos hahmosi ei luonut artefaktia. Kun artefakti luodaan, sinun tulisi määrittää, onko se henkilökohtainen (vain hahmosi voi käyttää sitä), onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, jos sillä on voimapisteitä, tai voiko kuka tahansa käyttää sitä. Katso lisätietoja kohdasta **Velhousvarusteet**.
 
-* **Supervoimat:** Aloittaaksesi pelin gadgetilla (laitteella), maksa laitteen kyvyt ikään kuin ne olisivat hahmosi omasta kykybudjetista. On suositeltavaa, että laite on samalla voimatasolla kuin omistajansa, vaikka pelinjohtaja voi sallia tehokkaamman tai heikomman laitteen. Pelinjohtaja voi myös päättää muuttaa laitteen ja hahmon suhteellista tasoa tasapainon vuoksi, joten jos laite on tasoa korkeampi kuin kampanjan voimataso, hahmosi voimatasoa tulisi siirtää taso alaspäin tai päinvastoin. Voit ottaa laitteeseen liittyvän voimapuutteeen "Supervoimainen identiteetti on kytkettävä päälle ilmeisellä ja estettävissä olevalla tavalla", yleensä +1 voimabudjettibonus. Muita voimapuutteita voi olla, kuten "Kyvyllä on rajoitettu määrä käyttökertoja päivässä". Lisäksi pelinjohtaja voi sallia sinun ottavan uuden voimapuutteeen: "Kyky on peräisin laitteesta" +1 voimabudjettibonuksella. Aina kun mahdollista, laitteen tulisi perustua hahmosi taitoihin. Katso lisätietoja kohdasta **Supervoimavarusteet**.
+* **Supervoimat:** Aloittaaksesi pelin laitteen kanssa, maksa laitteen voimista ikään kuin ne olisivat osa hahmosi omaa voimabudjettia. On suositeltavaa, että laite on samalla voimatasolla kuin sen omistaja, vaikka pelinjohtajasi voi sallia tehokkaamman tai heikomman laitteen. Pelinjohtajasi voi myös päättää muuttaa laitteen ja hahmosi suhteellista tasoa tasapainotussyistä, joten jos laite on tason korkeammalla kuin kampanjan voimataso, hahmosi voimatasoa tulisi siirtää yksi taso alaspäin, tai päinvastoin. Voit ottaa esineeseen liittyvän voiman heikkouden "Supervoimainen identiteetti on kytkettävä päälle ilmeisellä ja estettävissä olevalla tavalla", joka on yleensä +1 voimabudjettibonus. Muita voiman heikkouksia voi soveltaa, kuten "Voimalla on rajoitettu määrä käyttökertoja päivässä". Lisäksi pelinjohtajasi voi sallia sinun ottavan uuden voiman heikkouden: "Voima tulee laitteesta" +1 voimabudjettibonuksesta. Aina kun mahdollista, laitteen tulisi nojautua hahmosi asiaankuuluvaan taitoon. Katso lisätietoja kohdasta **Supervoimavarusteet**.
 
 ### Varusteiden valmistaminen
 
-Hahmosi saattaa haluta rakentaa varusteen itse, mikä on yleensä halvempaa kuin ostaminen ja vähemmän riskialtista kuin varastaminen. Mitä tahansa esinettä hahmosi tekee (sen sijaan, että ostaisi sen), pidetään yhdellä arvoluokalla halvempana kuin sen standardihinta. Tämä olettaa, että hahmosi on taitava esineen valmistuksessa (relevantti taitotaso 75 %+). Tämä olettaa, että hahmosi tietää, mistä löytää luotettavia komponentteja hyvään hintaan (musta pörssi, postimyynti, romuttamo jne.), ja käyttää aikaa materiaalien testaamiseen ja arvioimiseen varmistaakseen, että ne toimivat. Pelinjohtaja voi vaatia, että tähän prosessiin sisältyy muita taitotaitoja tai jopa Status-heittoja kuten edellä. Aika ja vaiva, joka käytetään osien ja/tai raaka-aineiden hankkimiseen, on pelinjohtajan määritettävissä, riippuen siitä, kuinka paljon he haluavat keskittyä siihen pelin aikana.
+Hahmosi saattaa haluta todella rakentaa varusteen, mikä on yleensä halvempaa kuin sen ostaminen ja vähemmän riskialtista kuin sen varastaminen. Mitä tahansa esinettä hahmosi valmistaa (toisin kuin ostaa), pidetään yhtä arvotasoa halvempana kuin sen standardihintaa. Tämä olettaa, että hahmosi on taitava kyseisen esineen valmistuksessa (asiaankuuluva taitoluokitus 75%+). Tämä olettaa, että hahmosi tietää, mistä löytää luotettavia komponentteja hyvään hintaan (musta pörssi, postimyynti, romuttamo jne.), ja viettää aikaa testaten ja arvioiden materiaaleja varmistaakseen niiden toimivuuden. Pelinjohtajasi voi vaatia, että tämä prosessi sisältää muita taitoheittoja tai jopa yllä mainittuja Status-heittoja. Osien ja/tai raaka-aineiden keräämiseen käytetty aika ja vaiva riippuu pelinjohtajastasi, sen perusteella, kuinka paljon hän haluaa keskittyä siihen pelin aikana.
 
-Joitakin esineitä ei voida perinteisesti valmistaa kaupasta ostetuista osista, kuten ainutlaatuisten taideteosten tai artefaktien kopioiminen muuten kuin jäljennöksinä. Vaikka yksittäiset osat olisivat halpoja valmistaa tai löytää, käsityötaito tai esineen harvinaisuus voi rajoittaa vaihtoehtojasi. Jos hahmosi ei ole tarpeeksi taitava tai epäonnistuu tarvittavissa heitoissa, raaka-aineiden ja komponenttien hinta voi olla jopa kalliimpi kuin esine perinteisesti on.
+Jotkut esineet eivät perinteisesti ole valmistettavissa kaupasta ostetuista osista, kuten ainutlaatuisten taideteosten tai artefaktien kopioiminen muuksi kuin replikoiksi. Vaikka yksittäiset osat olisivat halpoja valmistaa tai löytää, käsityötaito tai esineen harvinaisuus voi rajoittaa vaihtoehtojasi. Jos hahmosi ei ole tarpeeksi taitava tai epäonnistuu asiaankuuluvissa heitoissa, raaka-aineiden ja komponenttien hinta voi olla jopa kalliimpi kuin esine perinteisesti on.
 
-**Esimerkiksi,** auton rakentaminen vähittäiskaupasta ostetuista osista on aikaavievää ja kallista, ja se vie paljon enemmän rahaa ja aikaa kuin auton ostaminen suoraan. Kuitenkin, jos hahmosi on taitava ja kykenee käyttämään Tinkimistä ja Tutkimusta onnistuneesti, hän saattaa löytää romuttamon tai kyetä keräämään kaikki tarvittavat elementit paljon halvemmalla kuin maksamalla pyyntihinnan.
+**Esimerkiksi,** auton rakentaminen vähittäismyynnistä ostetuista osista on aikaavievää ja kallista, ja se vie paljon enemmän rahaa ja aikaa kuin auton ostaminen suoraan. Jos kuitenkin hahmosi on taitava ja kykenee käyttämään Tinkimistä ja Tutkimusta onnistuneesti, hän saattaa löytää romuttamon tai kyetä keräämään kaikki tarvittavat elementit paljon halvemmalla kuin pyyntihintaa maksamalla.
 
-Viime kädessä pelinjohtajan on päätettävä, kuinka paljon aikaa tietyn esineen valmistaminen vie. Jos tarpeen, olettaen että kaikki tarvittavat varusteet ovat käsillä ja kaikki relevantit taitotaitot onnistuvat: esine, joka on suhteellisen helppo tehdä, vaatii yhden tunnin per KOK. Jos se on keskivertoa monimutkaisempi, jokainen KOK vaatii yhden päivän. Jos se on suhteellisen monimutkainen, jokainen KOK on yksi viikko. Jos esineen parissa työskentelee useampi kuin yksi hahmo, jaa KOK heidän kesken. Kun työ on kattanut esineen vaaditun KOK:n, se on valmis. Käytä KOK-vastaavuustaulukoita.
+Viime kädessä pelinjohtajasi päättää, kuinka paljon aikaa tietyn esineen valmistaminen vie. Tarvittaessa, olettaen että kaikki tarvittavat varusteet ovat käsillä ja kaikki asiaankuuluvat taitoheitot onnistuvat: esine, joka on suhteellisen helppo valmistaa, vaatii yhden tunnin per KOK. Jos se on keskimääräisen monimutkainen, jokainen KOK vaatii yhden päivän. Jos se on suhteellisen monimutkainen, jokainen KOK on yksi viikko. Jos se on erittäin monimutkainen, jokainen KOK voi viedä kuukauden. Jos useampi kuin yksi hahmo työskentelee esineen parissa, jaa KOK heidän kesken. Kun työ on kattanut esineen vaaditun KOK:n, se on valmis. Käytä KOK-vastaavuustaulukoita.
 
-**Esimerkiksi,** kohdesuoja (KOK 3) on suhteellisen helppo rakentaa ja se vie kolme tuntia. KOK 50 auto on keskivertoa monimutkaisempi ja yhden ihmisen rakentaminen osista vie 50 työpäivää tai kahdelta mekaanikolta 25 työpäivää. KOK 110 matkustajakone on kuitenkin erittäin monimutkainen, ja yhden hahmon rakentaminen veisi yhdeksän vuotta. Pelinjohtajaa kannustetaan muokkaamaan näitä määriä varusteiden, tilojen ja heitettyjen onnistumisten laadun perusteella. Tällaista pitkäaikaista projektia varten jokainen ajanjakso (yksi tunti, yksi päivä tai yksi viikko) vaatii erillisen ja onnistuneen taitotaiton, jos taitotaitoa tarvitaan.
+**Esimerkiksi,** kohdekilpi (KOK 3) on suhteellisen helppo rakentaa ja se vie kolme tuntia. KOK 50 auto on keskimääräisen monimutkainen ja vie yhdeltä ihmiseltä 50 työpäivää tai kahdelta mekaanikolta 25 työpäivää koota osista. KOK 110 matkustajakone taas on erittäin monimutkainen, ja yhden hahmon valmistamana se veisi yhdeksän vuotta. Pelinjohtajaasi kannustetaan muokkaamaan näitä määriä varusteiden, tilojen ja heitettyjen onnistumisten laadun perusteella. Tällaista pitkäaikaista projektia varten jokainen ajanjakso (yksi tunti, yksi päivä tai yksi viikko) vaatii erillisen ja onnistuneen taitoheiton, jos taitoheitto on tarpeen.
 
-Nämä arvot ovat abstrakteja, ja pelinjohtajaa kannustetaan antamaan tarkempia tietoja valmistusajasta, jos halutaan.
+Nämä arvot ovat abstrakteja, ja pelinjohtajaasi kannustetaan tarjoamaan tarkempaa tietoa valmistusajasta, jos niin halutaan.### Varusteiden laatumuuttujat
 
-### Varusteiden laatumuokkaukset
+Taitojen onnistumisheittoja voidaan muokata käyttämällä tilanteeseen sopivia varusteita. Varusteet voivat olla mitä tahansa tiirikoista, konemekaanikon työkalupakista, tutkimuskirjastosta tai lääketieteellisestä laboratoriosta aina mihin tahansa muuhun hyödylliseen ja sopivaan välineistöön. Varusteiden laatu voi tarjota muuttujan taitoheittoon, kuten kohdassa **Tilannekohtaiset muuttujat** on kuvattu. Tämä muuttuja voi vaihdella –20 % heikompilaatuisilla varusteilla aina +20 % bonukseen erinomaisilla varusteilla.
 
-Taitotaitoja voidaan muokata pitämällä käsillä relevantteja ja sopivia varusteita. Varusteet voivat olla mitä tahansa tiirikoista, koneistajan työkalusarjasta, tutkimuskirjastosta, lääketieteellisestä laboratoriosta tai mistä tahansa muusta hyödyllisestä ja sopivasta. Varusteiden laatu voi tarjota muokkauksen taitotaitoon, kuten on kuvattu **Tilannekohtaisissa muokkauksissa**. Tämä muokkaus voi vaihdella huonompilaatuisten varusteiden aiheuttamasta –20 % haitasta hahmosi taitotasoon aina ylivertaisen laadun tarjoamaan +20 % bonukseen.
+Useimmista varusteista on olemassa monia eri laatutasoja. Pelinjohtajasi tulee päättää, onko tiettyä varustetta saatavilla eri laatutasoina ja kuinka helppoa tai kallista kyseisen varusteen hankkiminen on. Useimmat hahmosi käyttämät varusteet ovat oletusarvoisesti keskinkertaista laatua. Saatat kuitenkin haluta hahmosi omistavan tai käyttävän erinomaisia varusteita parantaaksesi onnistumismahdollisuuksiaan asiaankuuluvissa taitoheitoissa.
 
-Useimpia varustetyyppejä on saatavilla monen laatuisina. Pelinjohtajan tulisi määrittää, onko tietty varuste saatavilla eri laatuisena ja kuinka helppoa tai kallista kyseisen varusteen hankkiminen on. Useimmat hahmosi käyttämät varusteet ovat oletusarvoisesti keskivertolaatua. Hahmosi saattaa kuitenkin haluta omistaa tai käyttää ylivertaista laatua olevia varusteita lisätäkseen onnistumismahdollisuuksiaan relevantissa taitotaitossa.
+Alla on pikaopas varusteiden eri laatutasojen arvon ja saatavuuden käsittelyyn:
 
-Seuraavassa on pikaopas erilaatuisten varusteiden arvon ja saatavuuden käsittelyyn:
-
-| Laatu | Muokkaus | Arvo ja kyky |
+| Laatu | Muuttuja | Arvo ja kyky |
 | :---- | :---- | :---- |
-| Huono | –20 % | Vähennä yksi-kolme arvotasoa |
-| Keskiverto | Ei mitään | Kuten tavallinen |
-| Ylivertainen | +20 % | Lisää yksi-kolme arvotasoa |
+| Heikko | –20 % | Vähennä yhdestä kolmeen arvotasoa |
+| Keskinkertainen | Ei mitään | Kuten tavallisesti |
+| Erinomainen | +20 % | Lisää yhdestä kolmeen arvotasoa |
 
-Käytä tätä taulukkoa etsimällä varusteen normaali arvo (tai kysy pelinjohtajaltasi). Määritä seuraavaksi esineen laatu, jonka haluat hahmollesi. Katso **Arvo ja kyky** -sarakkeesta varusteen lopullinen arvo. Varusteen arvoa ja saatavuutta ei yleensä voi muokata normaalien rajojen yli. Oletettavasti hahmosi haluaa hyviä tai ylivertaisia varusteita lisätäkseen taitotasojaan, vaikka budjetin ollessa rajoite saatat valita hahmosi käyttävän edullisempia ja heikkolaatuisempia varusteita.
+Käytä tätä taulukkoa etsimällä ensin varusteen normaali arvo (tai neuvottele pelinjohtajan kanssa). Määritä seuraavaksi hahmollesi haluamasi laatutaso. Katso **Arvo ja kyky** -sarakkeesta varusteen lopullinen arvo. Varusteen arvoa ja saatavuutta ei yleensä voi muuttaa normaalien rajojen ulkopuolelle. Oletettavasti hahmosi haluaa hyviä tai erinomaisia varusteita taitotasojen nostamiseksi, vaikka budjettirajoitteiden vuoksi voitkin päättää hahmosi käyttävän edullisempia, heikompilaatuisia varusteita.
 
-Pelinjohtajan harkinnan mukaan varusteille voidaan määrittää vaihtoehtoisia arvoja ja/tai muokkauksia—esitetyt arvot ovat ohjeellisia.
+Pelinjohtajan harkinnan mukaan varusteille voidaan määrittää vaihtoehtoisia arvoja ja/tai muuttujia—esitetyt arvot ovat ohjeellisia.
 
-Riittävien varusteiden hallussapito ei tarjoa mitään muokkausta. Kuitenkin, jos hahmollasi ei ole tarvittavia varusteita tietyn taidon käyttämiseen, pelinjohtaja voi tehdä taidon onnistumismahdollisuudesta Vaikean tai Mahdottoman, tai yksinkertaisesti todeta, ettei taitoa voi yrittää ilman oikeita välineitä.
+Asianmukaiset varusteet eivät anna taitoheittoon minkäänlaista muuttujaa. Jos hahmollasi ei kuitenkaan ole tarvittavia varusteita tietyn taidon käyttämiseen, pelinjohtaja voi muuttaa taitoheiton vaikeaksi tai mahdottomaksi, tai yksinkertaisesti todeta, ettei taitoa voi yrittää ilman oikeita välineitä.
 
-**Esimerkiksi,** hahmosi kohtaa lukon, joka on tiirikoitava. Seuraavassa on joitakin tuloksia olosuhteista johtuen:
+**Esimerkki:** Hahmosi kohtaa lukon, joka täytyy tiirikoida. Alla on joitakin mahdollisia tilanteesta johtuvia lopputuloksia:
 
-* Ylivertaiset tiirikat ja muut työkalut tarjoavat +20 % bonuksen.
+* Erinomaiset tiirikat ja muut työkalut tarjoavat +20 % bonuksen.
 
-* Keskiverrot työkalut eivät tarjoa bonusta.
+* Keskinkertaiset työkalut eivät anna bonusta.
 
-* Huonot työkalut (ruosteiset, rikkinäiset, improvisoidut) muokkaavat taitoa –20 %.
+* Heikot työkalut (ruosteiset, rikkoutuneet, improvisoidut) muuttavat taitoheittoa –20 %.
 
-Pelinjohtaja voi todeta, ettei taitoa voi yrittää lainkaan, jos hahmollasi ei ole edes alkeellisimpia tiirikointityökaluja. Hän saattaa sanoa: "Et voi tiirikoida lukkoa ilman tiirikkaa tai mitään, mitä voisit työntää lukkoon. Ehkä etsiskelet vielä lisää? Saatat löytää jotain, josta muotoilla improvisoitu tiirikka."
+Pelinjohtaja voi ilmoittaa, ettei taitoa voi yrittää lainkaan, jos hahmollasi ei ole edes alkeellisimpia tiirikoita. Hän saattaa sanoa: "Et voi tiirikoida lukkoa ilman tiirikkaa tai mitään, mitä voisit työntää lukkoon. Ehkä kannattaisi katsella ympärilleen? Saatat löytää jotain, josta voit väsätä improvisoidun tiirikan."
 
-Pelinjohtaja voi antaa hahmollesi suoran 1 % onnistumismahdollisuuden, jopa ilman työkaluja. Jos heitto onnistuu, pelinjohtaja saattaa sanoa: "Onnistut heiluttamaan lukon osia edestakaisin, kunnes kuulet pienen napsahduksen. Joko onnistuit avaamaan lukon kohdistamalla oikeat värinät tai sitten se ei ollut lukossa oikein alusta alkaen. Oli miten oli, se oli hämmästyttävää onnea."
+Pelinjohtaja voi sallia hahmollesi suoran 1 % onnistumismahdollisuuden, vaikka työkalujakaan ei olisi. Jos heitto onnistuu, pelinjohtaja saattaa sanoa: "Onnistut heiluttamaan lukkoa edestakaisin, kunnes kuulet vaimean napsahduksen. Joko onnistuit avaamaan sen oikealla värinällä tai lukko ei ollut alun perinkään kunnolla kiinni. Joka tapauksessa, se oli valtavaa tuuria."
 
-Muista, että taitotason tilannekohtaiset muokkaukset sovelletaan sen jälkeen, kun Helppo muokkaus on tuplattu tai Vaikea on puolittanut sen.
+Muista, että taitoon kohdistuvat tilannekohtaiset muuttujat lasketaan vasta sen jälkeen, kun helppo muuttuja on tuplattu tai vaikea muuttuja on puolitettu.
 
 ### Taidot ja varusteet
 
-Monet taidot vaativat varusteita onnistuakseen, tai ne tehostuvat huomattavasti varusteiden avulla. Kuten aiemmin todettiin, joitakin taitoja rangaistaan, jos varusteita ei ole. Tiettyyn taitoon tarvittavat varusteet vaihtelevat asetelman mukaan, ja pelinjohtajasi voi antaa lisätietoja tästä aiheesta. **Taidot ja varusteet** -taulukko kuvailee mahdollisia erikoistuneita tai yleisiä varusteita, joita taitojen kanssa käytetään. Jos taitoa ei ole listattu, se ei vaadi mitään varusteita, tai se on itsestään selvää (kuten aseiden taitot).
+Monet taidot vaativat varusteita onnistuakseen, tai niitä voidaan tehostaa huomattavasti varusteilla. Kuten aiemmin todettiin, joihinkin taitoihin sovelletaan sakkoa, jos varusteita ei ole. Tiettyyn taitoon tarvittavat varusteet vaihtelevat ympäristön mukaan, ja pelinjohtaja voi antaa aiheesta lisätietoja. **Taidot & varusteet** -taulukko kuvailee mahdollisia erikoistuneita tai yleisiä varusteita taitojen käytön tueksi. Jos taitoa ei ole luettelossa, se ei vaadi varusteita tai niiden tarve on itsestäänselvä (kuten aseiden kohdalla).
 
-**Muut varusteet** sisältää lisätietoja hyödyllisistä varusteista, mukaan lukien esimerkkisarjoja, joita hahmosi saattaa käyttää.
+**Muut varusteet** sisältää lisätietoa hyödyllisistä varusteista, mukaan lukien esimerkkipakkaukset, joita hahmosi saattaa käyttää.
 
-> ##### Taidot ja varusteet
+> ##### Taidot & varusteet
 > 
-> | Taito | Mahdollinen varuste |
+> | Taito | Mahdolliset varusteet |
 > | :---- | :---- |
-> | Arviointi | Ei mitään, tai viitemateriaaleja, mittalaitteita, suurennuslasi jne. |
-> | Taide | Välineen mukaan (maalit, tietokone, holo-kuvaaja, spraymaali, kirjoituskone jne.). |
-> | Kiipeily | Ei mitään, tai köysi, pitonit, jääraudat jne. |
-> | Käsityö | Lähes jokainen käsityön erikoisala käyttää omia varusteitaan tai työkalujaan. |
-> | Naamiointi | Meikki, peruukit, puvun vaihdot jne. |
-> | Hienomekaniikka | Ei mitään, tai tarkkuustyökaluja. |
-> | Ensiapu | Ei mitään, tai perusensiapulaukku ja siteitä. |
-> | Pelit | Ei mitään, tai kortit, nopat, pelilauta jne. |
-> | Tieto | Ei mitään, tai viitemateriaaleja. |
-> | Kieli | Ei mitään, tai sanakirja. |
-> | Lukutaito | Ei mitään, tai sanakirja. |
-> | Lääketiede | Vaihtelee asetelman mukaan, rohdosvalmistajien materiaaleista huippuluokan sairaalatiloihin ja lääkeaineisiin. |
-> | Navigointi | Ei mitään, tai kartat, astrolabi, kompassi jne. |
-> | Korjaus | Ei mitään, tai korjaustyyppiin sopivat työkalut. |
-> | Tutkimus | Ei mitään, tai tutkimuskirjasto ja viitemateriaaleja. |
-> | Tiede | Ei mitään, tai tieteelliset instrumentit ja viitemateriaaleja. |
-> | Opetus | Oppiaineeseen sopiva opetusmateriaali. |
-> | Tekninen taito | Ei mitään, tai tiettyyn taitoon sopivat materiaalit. |
+> | Arviointi (Appraise) | Ei mitään, tai lähdemateriaaleja, mittalaitteita, suurennuslasi jne. |
+> | Taide (Art) | Välineen mukaan (maaleja, tietokone, hologrammiprojektori, spraymaali, kirjoituskone jne.). |
+> | Kiipeily (Climb) | Ei mitään, tai köysi, pitoneja, kiipeilyraudat jne. |
+> | Käsityö (Craft) | Lähes jokainen käsityön erikoisala käyttää omia varusteitaan tai työkalujaan. |
+> | Naamioituminen (Disguise) | Meikki, peruukit, asun vaihto jne. |
+> | Hienomotoriikka (Fine Manipulation) | Ei mitään, tai tarkkuustyökalut. |
+> | Ensiapu (First Aid) | Ei mitään, tai perusensiapupakkaus ja siteitä. |
+> | Pelit (Gaming) | Ei mitään, tai kortit, nopat, pelilauta jne. |
+> | Tieto (Knowledge) | Ei mitään, tai lähdemateriaaleja. |
+> | Kieli (Language) | Ei mitään, tai sanakirja. |
+> | Lukutaito (Literacy) | Ei mitään, tai sanakirja. |
+> | Lääketiede (Medicine) | Vaihtelee ympäristön mukaan, rohdoksista huipputason sairaalatiloihin ja lääkeaineisiin. |
+> | Navigointi (Navigate) | Ei mitään, tai karttoja, astrolabi, kompassi jne. |
+> | Korjaus (Repair) | Ei mitään, tai korjaustyypin mukaiset työkalut. |
+> | Tutkimus (Research) | Ei mitään, tai tutkimuskirjasto ja lähdemateriaaleja. |
+> | Tiede (Science) | Ei mitään, tai tieteelliset instrumentit ja lähdemateriaaleja. |
+> | Opettaminen (Teach) | Aiheeseen soveltuvat opetusmateriaalit. |
+> | Tekninen taito (Technical Skill) | Ei mitään, tai erityistaitoon soveltuvat materiaalit. |
 
 ### Varusteet ja ominaisuudet
 
-Joillakin varusteilla on ominaisuusarvoja: olivatpa arvot kaikissa ominaisuuksissa, joissakin tai vain yhdessä. Joillakin ei ole yhtään. Tämä vaihtelee esineittäin, mutta jos esineellä on ominaisuus, joka vaatii vastustusheiton, sillä tulisi olla ominaisuusarvo. Ominaisuuksilla varustettujen varusteiden osalta seuraavat ohjeet kuvaavat, miten nämä arvot toimivat sovellettaessa esineisiin:
+Joillakin varusteilla on ominaisuusarvoja: joko arvoja kaikissa ominaisuuksissa, joissakin tai vain yhdessä. Joillakin ei ole lainkaan. Tämä vaihtelee esinekohtaisesti, mutta jos esineellä on laatu, joka vaatii vastustusheiton, sillä tulisi olla ominaisuusarvo. Ominaisuusarvoja sisältävien varusteiden kohdalla seuraavat ohjeet kuvaavat, kuinka nämä arvot toimivat esineisiin sovellettuna:
 
-* **Voima (VOI):** Esineellä, jolla on VOI, on oltava jokin keino liikkua. VOI ei ole mitta sille, kuinka vastustuskykyinen jokin on VOI:ta vastaan: tätä arvoa varten katso sen osumapiste- tai haarniska-arvoa. Esineitä, joilla on VOI, ovat ajoneuvot, rakennusvälineet kuten trukit tai puskutraktorit, robotit tai jopa hydrauliset tunkit.
+* **Voima (VOI):** Esineellä, jolla on VOI, täytyy olla jokin tapa liikkua. VOI ei ole mitta sille, kuinka hyvin esine vastustaa VOI-pohjaisia vaikutuksia: tätä varten tarkista sen osumapisteet tai panssariarvo. Esineitä, joilla on VOI, ovat ajoneuvot, rakennuskoneet kuten trukit tai puskutraktorit, robotit tai jopa hydrauliset tunkit.
 
-* **Kestävyys (KES):** Esine, jolla on KES, on harvinainen—osumapistetotalit perustuvat yleensä raakaan KOK:hon ja niitä muokataan haarniska-arvolla. Ellei se voi parantua tai se kärsi taudeista, myrkkyistä jne., se ei vaadi KES:ää. Esimerkkejä KES:n omaavista esineistä olisivat humanoidit androidit.
+* **Kestävyys (KES):** KES-arvon omaava esine on harvinainen—osumapisteiden kokonaismäärä perustuu yleensä raakaan KOK-arvoon ja sitä muokataan panssariarvolla. Ellei esine kykene parantumaan tai ole altis taudeille, myrkyille jne., se ei tarvitse KES-arvoa. Esimerkki KES-arvon omaavasta esineestä voisi olla humanoidi-androidi.
 
-* **Koko (KOK):** KOK on esineen ensisijainen ominaisuus—lähes kaikella on fyysistä läsnäoloa ja siten KOK. Kuten edellä todettiin, useimmille varusteille KOK määrittää osumapisteet. Joskus esineellä on enemmän osumapisteitä, riippuen siitä, mistä se on valmistettu. Katso **Objektien yleiset ominaisuudet** lisätietoja osumapisteistä, haarniska-arvosta ja muista ominaisuuksista.
+* **Koko (KOK):** KOK on esineen ensisijainen ominaisuus—lähes kaikella on fyysistä kokoa, ja siten KOK. Kuten edellä todettiin, useimpien varusteiden kohdalla KOK määrittää osumapisteet. Joskus esineellä voi olla enemmän osumapisteitä riippuen sen valmistusmateriaalista. Katso **Esineiden yleiset laadut** -kohdasta lisää osumapisteistä, panssariarvosta ja muista määreistä.
 
-* **Älykkyys (ÄLY):** Harvinainen esineelle, ÄLY edustaa ajattelua, mikä viittaa intuitioon ja ongelmanratkaisuun. ÄLY on epätodennäköinen muille esineille kuin tietokoneille tai tekoälyille, mutta taikaesineillä voi olla ÄLY ja siihen liittyvät persoonallisuudet. Esineellä, jolla on ÄLY, tulisi ihannetapauksessa olla jokin keino kommunikoida, kuten näyttö, ruutu, ääni, telepatia tai muu menetelmä tiedon välittämiseksi.
+* **Äly (ÄLY):** Harvinainen esineen kohdalla; ÄLY edustaa ajattelua, viitaten intuitioon ja ongelmanratkaisuun. ÄLY on epätodennäköinen muilla kuin tietokoneilla tai tekoälyillä, mutta taikaesineillä saattaa olla ÄLY ja siihen liittyvä persoonallisuus. ÄLY-arvon omaavalla esineellä tulisi ihannetapauksessa olla jokin tapa kommunikoida, kuten näyttö, ruutu, ääni, telepatia tai muu menetelmä tiedon välittämiseen.
 
-* **Voima (POW):** POW edustaa henkistä energiaa, ja se on lähes yksinomaan elävien olentojen tai maagisten luomusten omaisuutta. Tämä ei edusta virtalähdettä—se on joko mekaaninen (voimapistereservi) tai hyödyntää Lisäenergia-supervoimaa.
+* **Mahti (MAH):** MAH edustaa henkistä energiaa ja on lähes yksinomaan elävien olentojen tai maagisten luomusten ominaisuus. Tämä ei edusta energianlähdettä—se on joko mekaaninen (voimapistevaranto) tai perustuu Extra Energy -erikoisvoimaan.
 
-* **Ketteryys (KET):** Millä tahansa esineellä, joka kykenee itsenäiseen liikkumiseen, tulisi olla KET. Jos hahmosi on käytettävä esinettä, jolla on KET, käytä joko hahmosi tai esineen alhaisempaa KET-arvoa.
+* **Ketteryys (KET):** Millä tahansa esineellä, joka kykenee itsenäiseen liikkeeseen, tulisi olla KET. Jos hahmosi täytyy operoida KET-arvon omaavaa esinettä, käytä hahmosi tai esineen KET-arvoista pienempää.
 
-* **Karisma (KAR):** Vaikka KAR sisältää persoonallisuuden ja henkilökohtaisen karisman elementtejä, esineelle se voi olla joko esteettinen vetovoima tai se voi edustaa sitä, että esine kykenee kommunikointiin ja charmiin. Pääsyy määrittää KAR elottomalle esineelle on verrata sen ulkonäköä toiseen esineeseen.
+* **Karisma (KAR):** Vaikka KAR sisältää piirteitä persoonallisuudesta ja henkilökohtaisesta karismasta, esineen kohdalla se voi tarkoittaa joko esteettistä houkuttelevuutta tai sitä, että esine kykenee kommunikointiin ja charmiin. Pääasiallinen syy määrittää KAR elottomalle esineelle on verrata sen ulkonäköä toiseen esineeseen.
 
-* **Koulutus (KOU) (Valinnainen):** Sen lisäksi, että se edustaa ajattelevan tietokoneen koulutusta tai ladattua tietoa, KOU on parhaimmillaan käytettynä varusteisiin, joissa on tietovarastoja. Yleensä tällainen esine joko lisää bonuksen hahmosi Tutkimus-taitoon tai voi tehdä taitotaitoja Helpoiksi tai Vaikeiksi. Kun se määritetään esineelle, KOU tarkoittaa tietoa, johon sillä on välitön pääsy. Tämä luku kasvaa dramaattisesti tiedon tallennuksen ja tietokantojen online-yhteyksien myötä.
+* **Koulutus (EDU) (Valinnainen):** Sen lisäksi, että se edustaa ajattelevan tietokoneen koulutusta tai ladattua tietoa, EDU on parhaimmillaan varusteissa, joissa on tietovarantoja. Yleensä tällainen esine joko antaa bonuksen hahmosi Tutkimus-taitoon tai voi tehdä taitoheitoista helppoja tai vaikeita. Esineelle määritettynä EDU tarkoittaa dataa, johon esineellä on välitön pääsy. Tämä luku kasvaa dramaattisesti tiedon tallennuksen ja tietokantojen verkkoyhteyksien myötä.
 
-Kuten edellä todettiin, ei ole välttämätöntä, että jokaisella varusteella tai esineellä on ominaisuuksia, ellei niitä tarvita. Jos pelin aikana tarvitset arvon, jota ei ole määritelty, luo se heittämällä sopiva määrä D6-noppia tai määritä sille arvo samankaltaisten varusteiden perusteella.
+Kuten edellä todettiin, ei ole välttämätöntä, että jokaisella varusteella tai esineellä on ominaisuuksia, ellei niitä tarvita. Jos pelin aikana tarvitset arvon, jota ei ole määritelty, generoi se heittämällä sopiva määrä D6-noppia tai määritä arvo vastaavien varusteiden perusteella.
 
 Voit jopa määrittää arvon Status-heitolla:
 
@@ -191,918 +189,946 @@ Voit jopa määrittää arvon Status-heitolla:
 | Moka | 1 |
 | Epäonnistuminen | 1D6 |
 | Onnistuminen | 2D6 |
-| Erityinen onnistuminen | 2D6+6 |
+| Erikoistason onnistuminen | 2D6+6 |
 | Kriittinen onnistuminen | 2D6+12 |
 
 ### Varusteet ja taidot
 
-Joillakin varusteilla voi olla taitoja, joita käsitellään aivan kuten hahmon taitoja. Millä tahansa esineellä, joka kykenee itsenäiseen toimintaan, voi olla taito. Esimerkkejä voivat olla automatisoidut puolustusjärjestelmät, joilla on Tykistö-taito; koulutusohjelmat, jotka käyttävät Opetusta; diagnostiikkajärjestelmät, jotka käyttävät Korjausta jne. Yleisesti ottaen, mitä älykkäämpi varuste on, sitä todennäköisemmin sillä on yksi tai useampi taito.
+Joillakin varusteilla voi olla taitoja, joita käsitellään aivan kuten hahmon taitoja. Millä tahansa esineellä, joka kykenee itsenäiseen toimintaan, voi olla taito. Joitakin esimerkkejä voivat olla automatisoidut puolustusjärjestelmät, joilla on Tykistö-taito; opetusohjelmat, jotka käyttävät Opettamista; diagnostiikkajärjestelmät, jotka käyttävät Korjausta jne. Yleisesti ottaen, mitä älykkäämpi varuste on, sitä todennäköisemmin sillä on yksi tai useampi taito.
 
-Pelinjohtajan tulisi määrittää näiden taitojen arvot varusteen luonteen perusteella. Jos sillä on taitoon liittyvä ominaisuus (esimerkiksi ÄLY ja Tieto-taidot), sen taitotaso voi olla kyseisen ominaisuuden monikerta (x1, x3, x5 jne.), riippuen siitä, kuinka tehokas se on. **Muut varusteet** tarjoaa esimerkkejä varusteista, joilla on taitoja. Jos esine osaa puhua tai lukea, sillä tulisi olla Kieli-taito—yleensä omistajan tai luojan äidinkieli.
+Pelinjohtajasi tulisi asettaa näiden taitojen arvot varusteen luonteen perusteella. Jos esineellä on taitoon liittyvä ominaisuus (esimerkiksi ÄLY ja Tieto-taidot), sen taitotaso voi olla ominaisuuden monikerta (×1, ×3, ×5 jne.) riippuen siitä, kuinka tehokas se on. **Muut varusteet** antaa esimerkkejä varusteista, joilla on taitoja. Jos esine osaa puhua tai lukea, sillä tulisi olla Kieli-taito—yleensä omistajan tai luojan äidinkieli.
 
-Aloittaaksesi pelin taitoja omaavalla esineellä, "maksa" esineen taitopisteet hahmosi henkilökohtaisesta taitopistepoolista (hahmon luonnin **Vaiheesta seitsemän**) tai ammatillisesta poolista, jos esine on tärkeä heidän ammattinsa harjoittamiselle.
+Aloittaaksesi pelin varusteella, jolla on taitoja, "maksa" esineen taitopisteet hahmosi henkilökohtaisesta taitopistevarannosta (hahmonluonnin **vaiheesta seitsemän**) tai ammatillisesta varannosta, jos esine on tärkeä hahmosi ammatin harjoittamisen kannalta.
 
-Vaihtoehtoisesti voit käsitellä esinettä ikään kuin sillä olisi supervoimia (katso luku neljä: Kyvyt) ja ostaa esine ikään kuin se olisi kyky. Tässä tapauksessa pätevät seuraavat ehdot:
+Vaihtoehtoisesti voit käsitellä esinettä ikään kuin sillä olisi erikoisvoimia (katso luku Neljä: Voimat) ja ostaa esineen kuin se olisi voima. Tässä tapauksessa pätevät seuraavat ehdot:
 
-* Esineellä on hahmon puute "Supervoimainen identiteetti on kytkettävä päälle ilmeisellä ja estettävissä olevalla tavalla" sidottuna esineeseen, yleensä +1 voimabudjettibonus.
-* Muita voimapuutteita voi olla, kuten "Kyvyllä on rajoitettu määrä käyttökertoja päivässä" tai "Kyky ei voi parantua kokemuksen myötä."
-* Taidot ostetaan Supertaito-kyvyllä. Oletetaan, että kaikilla esineillä on 0 % aloitustaitotaso.
-* Jos esineellä ei ole ilmeisiä attribuutteja, työskentele pelinjohtajan kanssa määrittääksesi sen virtalähteen, kantaman jne. Lisäsupervoimia voidaan ostaa näiden attribuuttien parantamiseksi.
+* Esineellä on hahmon epäonnistuminen "Supervoimainen identiteetti on kytkettävä päälle ilmeisellä ja estettävissä olevalla tavalla", joka on sidottu esineeseen, yleensä +1 voimabudjettibonus.
+* Muita voimien epäonnistumisia voidaan soveltaa, kuten "Voimalla on rajoitettu määrä käyttökertoja päivässä" tai "Voima ei voi parantua kokemuksen myötä."
+* Taidot ostetaan Supertaito (Super Skill) -voimalla. Oletetaan, että kaikkien esineiden lähtötaitotaso on 0 %.
+* Jos esineellä ei ole ilmeisiä attribuutteja, määritä yhdessä pelinjohtajan kanssa sen virtalähde, kantama jne. Lisää erikoisvoimia voidaan ostaa näiden attribuuttien parantamiseksi.
 
-Jos investoit pisteitä esineeseen, haluat tietenkin, että se on käytettävissäsi. Pelinjohtajan tulisi tehdä voitavansa varmistaakseen, että esineesi selviää hahmosi mukana, on helposti korjattavissa tai että sen korvike löytyy helposti, sen arvon ja asetelman mukaisesti. Huolimatta siitä, että se on erillinen esine, sitä pidetään osana hahmoasi, aivan kuten toisen hahmon taito tai kyky, ja sen poistaminen hahmosi hallusta tulisi tehdä äärimmäistä varovaisuutta noudattaen, ellei se ole väistämätöntä.
+Jos sijoitat pisteitä esineeseen, haluat tietenkin pitää sen saatavilla. Pelinjohtajasi tulisi tehdä kaikkensa varmistaakseen, että esineesi säilyy hahmosi mukana, on helposti korjattavissa tai että sen tilalle löytyy helposti korvike, sen arvon ja ympäristön mukaisesti. Huolimatta siitä, että kyseessä on erillinen esine, sitä pidetään hahmosi osana, aivan kuten toisen hahmon taitoa tai voimaa, ja sen poistaminen hahmosi hallusta tulisi tehdä erittäin varovasti, ellei se ole välttämätöntä.
 
-Taitoja omaavat esineet eivät kasvata taitotasoaan kokemuksen kautta, ellei esineellä ole ÄLYä ja pelinjohtajasi määritä, että se kykenee oppimaan jollakin tavalla.
+Esineiden taitotasot eivät kasva onnistuneen kokemuksen myötä, ellei esineellä ole ÄLY-arvoa ja pelinjohtajasi päätä, että se kykenee oppimaan jollakin tavalla.### Varusteet, joilla on voimia
 
-### Varusteet ja kyvyt
+Varusteella voi olla ominaisuuksia, jotka ylittävät sen normaalit kyvyt. Pelinjohtajasi luvalla hahmosi voi ostaa esineen tai varusteen, jolla on luvussa neljä (Voimat) kuvattu voima. Lisäksi pelinjohtajasi voi päättää kuvata varustetta voiman kautta, jotta sen tehokkuuden määrittäminen voimia omaavaa hahmoa vastaan (ja päinvastoin) olisi helpompaa. Tämä on yleensä tarpeen vain kampanjoissa, joissa käytetään voimia, sillä yleensä esineen perusominaisuudet riittävät.
 
-Varusteella voi olla ominaisuuksia, jotka ylittävät sen normaalit kyvyt, ja pelinjohtajan luvalla hahmosi voi ostaa esineen tai varusteen, jolla on luvun neljä (Kyvyt) mukainen kyky. Lisäksi pelinjohtaja voi päättää esittää varusteen kyvyn muodossa helpottaakseen sen tehokkuuden määrittämistä suhteessa kykyjä omaavaan hahmoon, ja päinvastoin. Tämä on yleensä tarpeen vain kampanjoissa, joissa käytetään kykyjä, sillä normaalisti esineen perusominaisuudet riittävät.
+Seuraavassa on ohjeita voimia omaaville varusteille, perustuen luvun neljä (Voimat) voimajärjestelmiin.
 
-Seuraavassa on ohjeita kykyjä hyödyntäville varusteille, perustuen luvun neljä (Kyvyt) kykyjärjestelmiin.
+**Taikaesineet:** Varustetta, jossa on yksi tai useampi taikaloitsu, kutsutaan taikaesineeksi. Tämä esine näyttää maagiselta kenelle tahansa, joka pystyy havaitsemaan sellaisia asioita, ja se antaa omistajalle mahdollisuuden käyttää taikaloitsua ikään kuin hän osaisi käyttää sitä itse. Taikaesineellä on oltava taitotaso kyseiseen loitsuun. Useimmilla taikaesineillä on oma voimapisteiden kapasiteetti, kun taas harvinaisemmat taikaesineet käyttävät omistajan voimapisteitä säiliönä.
 
-**Taikaesineet:** Varustetta, jolla on yksi tai useampi loitsu, kutsutaan taikaesineeksi. Tämä esine vaikuttaa maagiselta kenelle tahansa, joka kykenee havaitsemaan sellaisia asioita, ja se sallii omistajan heittää loitsun ikään kuin hän voisi heittää sen itse. Taikaesineellä on oltava taitotaso loitsun kanssa. Useimmilla taikaesineillä on oma voimapistekapasiteetti, kun taas harvinaisemmat taikaesineet käyttävät omistajan voimapisteitä reservinä.
+* Taikaesine on hyödytön, jos sen voimapisteet laskevat nollaan, vaikka se voidaankin ladata uudelleen. Ladatakseen taikaesineen käyttäjä voi siirtää 1 voimapisteen kehostaan taikaesineeseen jokaisella taistelukierroksella.
+* Taikaesine voi sisältää jopa kaksinkertaisen määrän maksimivoimapisteisiinsä nähden. Nämä ylimääräiset voimapisteet katoavat samalla tavalla kuin pelaajahahmoillakin.
+* Kaikki esineen käyttämät loitsut noudattavat kaikkia kyseistä loitsua koskevia sääntöjä.
+* Kun taikaesine luodaan, pelinjohtajasi tulee päättää, saako vain sen luoja käyttää sitä, onko se voitettava voimapisteet vastaan voimapisteet -vastustusheitossa, vai saako kuka tahansa käyttää sitä.
+* Esineellä on normaalit osumapisteet (perustuen KOK:iin) ja ominaisuudet, jotka vastaavat sen ei-maagista versiota.
+* Esineen osumapisteet rajoittavat sitä, kuinka monta voimapistettä se voi varastoida. Kun se ottaa vahinkoa, sen suurin varastoitavissa oleva voimapistemäärä pienenee. Esine voidaan korjata normaalisti, mutta jos se rikkoutuu tai tuhoutuu, se lakkaa olemasta maaginen ja jää tavalliseksi esineeksi.
+* Jos taikaesine tuhoutuu, kaikki siihen käytetyt MAH-pisteet menetetään.
+* Taikaesineeseen voidaan sitoa yksi tai useampi pysyvä loitsu, jotka ovat aina aktiivisia, mutta tällaisen esineen luominen maksaa viisi kertaa normaalin MAH-kustannuksen verran. Pelinjohtajasi tulee päättää, voiko taikaloitsun kutoa esineeseen pysyvästi. Jos tällainen esine luodaan, se ei vaadi voimapisteitä ja on yksinkertaisesti aina päällä täydellä teholla.
 
-* Taikaesine on hyödytön, jos se saavuttaa 0 voimapistettä, vaikka se voidaan ladata uudelleen. Ladatakseen taikaesineen uudelleen, käyttäjä voi siirtää 1 voimapisteen kehostaan taikaesineeseen jokaisella taistelukierroksella.
-* Taikaesine voi sisältää jopa kaksinkertaisen määrän maksimivoimapisteistään. Nämä ylimääräiset voimapisteet katoavat, kuten pelaajahahmon kohdalla.
-* Kaikki loitsut, jotka esine heittää, noudattavat kaikkia kyseiseen loitsuun liittyviä sääntöjä.
-* Kun taikaesine luodaan, pelinjohtajan tulisi määrittää, voiko vain luoja käyttää sitä, onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, vai voiko kuka tahansa käyttää sitä.
-* Esineellä on sopivan ei-maagisen version normaalit osumapisteet (perustuen KOK:hon) ja ominaisuudet.
-* Esineen osumapisteet rajoittavat voimapisteiden määrää, joita se voi tallentaa. Kun se ottaa vahinkoa, maksimivoimapisteet, joita se voi tallentaa, vähenevät. Esine voidaan korjata normaalisti, vaikka jos se rikkoutuu tai tuhoutuu, se ei ole enää maaginen ja pysyy tavallisena esineenä.
-* Jos taikaesine tuhoutuu, kaikki siihen käytetyt VOI-pisteet menetetään.
-* Taikaesineeseen voi olla sidottu yksi tai useampi pysyvä taikaloitsu, jotka ovat aina aktiivisia, mutta tällaisen esineen luominen maksaa viisi kertaa normaalin VOI-kustannuksen. Pelinjohtajan tulisi määrittää, voidaanko loitsu heittää pysyvästi esineeseen. Jos tämä esine luodaan, se ei vaadi voimapisteitä ja on yksinkertaisesti aina päällä täydellä teholla.
-
-**Mutaatioesineet:** Mutaatioita sisältävät esineet ovat melko harvinaisia, sillä mutaatiot aiheutuvat perinteisesti geneettisestä vaihtelusta, ja harvoja elottomia esineitä luodaan geneettisen manipulaation kautta.
+**Mutatoituneet esineet:** Mutaatioita sisältävät esineet ovat melko harvinaisia, sillä mutaatiot aiheutuvat perinteisesti geneettisestä vaihtelusta, ja vain harvoja elottomia esineitä luodaan geneettisen muokkauksen kautta.
 
 * Esineellä voi olla yksi tai useampi haitallinen mutaatio.
-* Esineellä on normaalin version normaalit osumapisteet (perustuen KOK:hon) ja muut ominaisuudet, ellei mutaatio vaikuta näihin ominaisuuksiin.
-* Kaikki ominaisuusheitot, joita esineen on tehtävä, perustuvat luojan ominaisuuksiin, jos sillä ei ole omia ominaisuuksia.
-* Mutaatioesinettä pidetään elävänä ja se paranee samalla nopeudella kuin sen luoja.
-* Kuka tahansa voi käyttää mutaatioesinettä onnistuneella Kestävyys-heitolla.
-* Kaikki mutaatioesineeseen investoidut KES-pisteet ja mutaatiot menetetään, jos se tuhoutuu.
+* Esineellä on normaalin version mukaiset osumapisteet (perustuen KOK:iin) ja muut ominaisuudet, ellei mutaatio vaikuta näihin ominaisuuksiin.
+* Kaikki esineen suorittamat ominaisuusheitot perustuvat luojan ominaisuuksiin, jos esineellä ei ole omia ominaisuuksia.
+* Mutatoitunutta esinettä pidetään elävänä, ja se paranee samalla nopeudella kuin sen luoja.
+* Kuka tahansa voi käyttää mutatoitunutta esinettä onnistuneen Kestävyys-heiton myötä.
+* Kaikki mutatoituneeseen esineeseen sijoitetut KES-pisteet ja mutaatiot menetetään, jos esine tuhoutuu.
 
-**Psyykkisiä kykyjä hyödyntävät varusteet:** Psyykkisiä kykyjä hyödyntävät esineet ovat uskomattoman harvinaisia, jopa harvinaisempia kuin mutaatioesineet. Nämä esineet ovat vääjäämättä varautuneet psyykkisellä voimalla, ja niillä tulisi olla vähintään POW. Psyykkisiä kykyjä omaava hahmo tunnistaa automaattisesti, että esineellä on psyykkisiä kykyjä, ja Idea-heitolla hän voi hyödyntää sitä. Hahmo, jolla ei ole psyykkisiä kykyjä, voi selvittää, onko esineellä psyykkisiä ominaisuuksia vain onnistuneella Idea-heitolla, ja hänen on joko voitettava esine voimapiste vs. voimapiste -vastustusheitossa tai Vaikeassa Onni-heitossa. Esineen luoja (tai pelinjohtaja) päättää, kuka voi käyttää esinettä.
+**Psyykkisiä kykyjä sisältävät varusteet:** Psyykkisiä kykyjä sisältävät esineet ovat uskomattoman harvinaisia, jopa harvinaisempia kuin mutatoituneet esineet. Nämä esineet ovat väistämättä ladattuja psyykkisellä voimalla, ja niillä tulisi vähintään olla MAH-arvo. Hahmo, jolla on psyykkisiä kykyjä, tunnistaa automaattisesti esineen psyykkiset ominaisuudet ja voi käyttää sitä Idea-heitolla. Hahmo, jolla ei ole psyykkisiä kykyjä, voi määrittää esineen psyykkiset ominaisuudet vain onnistuneella Idea-heitolla, ja hänen on joko voitettava esine voimapisteet vastaan voimapisteet -vastustusheitossa tai tehtävä vaikea Onni-heitto. Esineen luoja (tai pelinjohtajasi) päättää, kuka voi käyttää esinettä.
 
-* Esineellä on sen normaalin version normaalit osumapisteet (perustuen KOK:hon) ja muut ominaisuudet.
-* Psyykkiset esineet eivät ole eläviä, ja ne voivat vahingoittua. Ne eivät parane luonnollisesti, mutta ne voidaan korjata onnistuneella Käsityö- tai Korjaus-taitoheitolla. Kun ne tuhoutuvat, ne lakkaavat toimimasta. Jos psyykkinen esine rikkoutuu useampaan osaan, pelinjohtaja päättää, mikä osa, jos mikään, säilyttää psyykkisen kyvyn.
+* Esineellä on normaalin version mukaiset osumapisteet (perustuen KOK:iin) ja muut ominaisuudet.
+* Psyykkiset esineet eivät ole eläviä ja ne voivat vaurioitua. Ne eivät parane luonnollisesti, mutta ne voidaan korjata asianmukaisella Käsityö- tai Korjaus-taitotason heitolla. Kun ne tuhoutuvat, ne lakkaavat toimimasta. Jos psyykkinen esine rikkoutuu useampaan osaan, pelinjohtajasi päättää, mikä osa (jos mikään) säilyttää psyykkiset kyvyt.
 
-**Velhous-varusteet:** Varustetta, jolla on yksi tai useampi sorcery-loitsu, kutsutaan **artefaktiksi**. Tämä artefakti vaikuttaa maagiselta kenelle tahansa, joka kykenee havaitsemaan sellaisia asioita, ja se sallii hahmosi heittää sorcery-loitsun ikään kuin hän voisi heittää sen itse, tai loitsu on heitetty pysyvästi esineeseen. Useimmilla artefakteilla on oma voimapistereservi, kun taas harvinaisemmat artefaktit ammentavat käyttäjän omista voimapisteistä.
+**Noiduttavat varusteet:** Varustetta, jossa on yksi tai useampi noituussloitsu, kutsutaan **artefaktiksi**. Tämä artefakti näyttää noidutuilta kenelle tahansa, joka pystyy havaitsemaan sellaisia asioita, ja se antaa hahmollesi mahdollisuuden käyttää noituussloitsua ikään kuin hän osaisi käyttää sitä itse, tai loitsu on valettu esineeseen pysyvästi. Useimmilla artefakteilla on oma voimapistesäiliö, kun taas harvinaisemmat artefakti ammentavat käyttäjän omista voimapisteistä.
 
-* Artefaktin luojan on uhrattava 1 pysyvä VOI-piste per artefaktiin investoitu sorcery-loitsu, ja hänen on osattava tai hänellä on oltava pääsy loitsuun/loitsuihin, joita artefakti voi käyttää.
-* Artefaktilla on voimapistereservi, joka on yhtä suuri kuin sen luojan normaali voimapiste määrä (artefaktin luomisen jälkeen), tai sen KOK, riippuen siitä, kumpi on suurempi. Pelinjohtajan tulisi asettaa VOI- ja voimapistearvo, jos artefaktin luoja on tuntematon tai on ei-pelaajahahmo.
-* Artefakti joko menee "tajuttomaksi" 0 voimapisteessä tai jää toimintakyvyttömäksi. Ladatakseen artefaktin uudelleen, käyttäjä voi siirtää 1 voimapisteen kehostaan artefaktiin jokaisella taistelukierroksella.
-* Artefakti voi sisältää enemmän kuin normaalin voimapistekapasiteettinsa, hahmon tapaan, jopa kaksinkertaiseen määrään maksimivoimapisteistään. Nämä ylimääräiset voimapisteet katoavat, kuten hahmon kohdalla.
-* Kaikki artefaktista heitetyt sorcery-loitsut noudattavat kaikkia normaaleja sääntöjä koskien kyseistä loitsua.
-* Kun artefakti luodaan, pelinjohtajan tulisi määrittää, onko se henkilökohtainen (vain sen luoja voi käyttää sitä), onko se voitettava voimapiste vs. voimapiste -vastustusheitossa, jos sillä on voimapisteitä, vai voiko kuka tahansa käyttää sitä.
-* Artefaktilla on normaalin ei-maagisen version osumapisteet (perustuen KOK:hon) ja ominaisuudet.
-* Artefaktin osumapisteet rajoittavat voimapisteiden määrää, joita siihen voidaan tallentaa. Kun se ottaa vahinkoa, maksimivoimapisteet, joita se tallentaa, vähenevät. Artefakti voidaan korjata normaalina esineenä, vaikka jos se rikkoutuu tai tuhoutuu, sitä ei voi koskaan palauttaa artefaktitilaan ja se pysyy ei-maagisena esineenä.
-* Jos artefakti tuhoutuu, kaikki siihen investoidut VOI-pisteet menetetään.
+* Artefaktin luojan on uhrattava 1 pysyvä MAH-piste per artefaktiin sijoitettu noituussloitsu, ja hänen on osattava tai hänellä on oltava pääsy loitsuihin, joita artefakti voi käyttää.
+* Artefaktin voimapistesäiliö on luomisen jälkeen joko yhtä suuri kuin sen luojan normaalit voimapisteet tai sen KOK, sen mukaan kumpi on suurempi. Pelinjohtajasi tulee asettaa MAH-arvo ja voimapisteiden kapasiteetti, jos artefaktin luoja on tuntematon tai pelinjohtajan hahmo.
+* Artefakti joko menee "tajuttomaksi" voimapisteiden ollessa nollassa tai muuttuu toimintakyvyttömäksi. Ladatakseen artefaktin käyttäjä voi siirtää 1 voimapisteen kehostaan artefaktiin jokaisella taistelukierroksella.
+* Artefakti voi sisältää enemmän kuin normaalin voimapistekapasiteettinsa verran (kuten hahmo), aina kaksinkertaiseen maksimimäärään asti. Nämä ylimääräiset voimapisteet katoavat samalla tavalla kuin hahmolla.
+* Kaikki artefaktista käytetyt noituussloitsut noudattavat kaikkia kyseistä loitsua koskevia normaaleja sääntöjä.
+* Kun artefakti luodaan, pelinjohtajasi tulee päättää, onko se henkilökohtainen (vain luoja voi käyttää sitä), onko se voitettava voimapisteet vastaan voimapisteet -vastustusheitossa, jos sillä on voimapisteitä, vai saako kuka tahansa käyttää sitä.
+* Artefaktilla on normaalin ei-noidutun version mukaiset osumapisteet (perustuen KOK:iin) ja ominaisuudet.
+* Artefaktin osumapisteet rajoittavat siihen varastoitavien voimapisteiden määrää. Kun se ottaa vahinkoa, sen suurin varastoitavissa oleva voimapistemäärä pienenee. Artefakti voidaan korjata kuten tavallinen esine, mutta jos se rikkoutuu tai tuhoutuu, sitä ei voi enää palauttaa artefaktiksi ja se jää ei-noidutuksi esineeksi.
+* Jos artefakti tuhoutuu, kaikki siihen sijoitetut MAH-pisteet menetetään.
 
-Joihinkin artefakteihin on sidottu pysyviä sorcery-loitsuja, jotka ovat aina aktiivisia. Näiden esineiden luomisen VOI-kustannus on tuplattu.
+Joihinkin artefakteihin on sidottu pysyviä noituussloitsuja, jotka ovat aina aktiivisia. Näiden esineiden luomisen MAH-kustannus on kaksinkertainen.
 
-**Supervoimavarusteet:** Supervoimia sisältävää varustetta kutsutaan gadgetiksi. Gadgetit ovat kaikkein joustavimpia kaikista kykyjä omaavista esineistä, ja ne voivat näyttää miltä tahansa; tavallisilta tai raaoilta, aina valtavan edistyksellisiin. Gadgetin ulkonäkö on täysin kosmeettinen, eikä sillä ole mitään tekemistä sen toiminnan kanssa: se voi hehkua, loistaa, päästää outoja energian jälkiä, olla kaiverrettu muinaisilla riimuilla jne. Gadget ei vaikuta epätavallisen voimakkaalta, ellei luoja halua sen vaikuttavan. Pelinjohtajan tulisi asettaa gadgetin voimataso käyttämällä kampanjan voimatason ohjeita, jotka on esitetty luvussa neljä: Kyvyt. Pelinjohtajan tulisi määrittää gadgetin supervoimatasot haluamallaan tavalla asetelman ja esineen vaatimusten mukaan.
+**Supervoimia sisältävät varusteet:** Supervoimia sisältävää varustetta kutsutaan vempaimeksi. Vempaimet ovat joustavimpia kaikista voimia omaavista esineistä, ja ne voivat näyttää miltä tahansa; arkipäiväisiltä tai kömpelöiltä, aina erittäin kehittyneisiin asti. Vempaimen ulkonäkö on täysin kosmeettinen, eikä sillä ole mitään tekemistä sen toiminnan kanssa: se voi hehkua, loistaa, päästää erikoisia energian jälkiä, siinä voi olla muinaisia riimuja jne. Vempain ei näytä epätavallisen voimakkaalta, ellei luoja niin halua. Pelinjohtajasi tulee asettaa vempaimen voimataso luvun neljä (Voimat) kampanjan voimatasosuositusten mukaisesti. Pelinjohtajasi tulisi jakaa supervoimien tasot mille tahansa vempaimelle halutulla tavalla, jotta ne sopivat ympäristöön ja esineen vaatimuksiin.
 
-Gadgetteihin pätevät seuraavat säännöt:
+Vempaimiin sovelletaan seuraavia sääntöjä:
 
-* Gadgetin osumapisteet, KOK jne. perustuvat vastaavan kokoiseen ja massaan normaaliesineeseen. Jos ilmeistä vastinetta ei ole olemassa, käytä ohjeina **Objektien KOK-esimerkkejä** -taulukkoa ja **Haarniska**-taulukkoa. Muuttaaksesi sen kokoa, käytä Koko-muutos-kykyä.
-* Jos gadget tarvitsee ominaisuuden (kuten POW-pisteitä varten), se tulisi rakentaa Superominaisuus-kyvyllä.
-* Gadgetin, joka vaatii suurempaa virtalähdettä kuin sen oma POW, tulisi olla Lisäenergia-kyky.
-* Tehdäksesi gadgetista kestävämmän kuin normaaliesineestä, anna sille supervoimia kuten Absorptio, Haarniska, Lisäosumapisteet, Voimakenttä jne.
-* Aina kun mahdollista, gadgetin tulisi perustua omiin ominaisuuksiinsa. Jos kyky vaatii vastustusheiton, gadgetin ominaisuutta (jos sellainen on) tulisi käyttää. Jos gadgetilla ei ole relevanttia ominaisuutta, se epäonnistuu vastustusheitossa automaattisesti.
-* Aina kun mahdollista, gadgetin tulisi perustua käyttäjänsä taitoon. **Esimerkiksi,** jos gadget on pistooli, sitä on ammuttava Tuliaseet-taidolla. Jos se on kosmista voimaa hyödyntävä ranneke, joka sallii käyttäjän ampua radioaktiivisia purkauksia, käytä Projektio-taitoa.
-* Pelinjohtajan tulisi tarkastella kaikkia supervoimaisia esineitä varmistaakseen, etteivät ne ole ylivoimaisia tai muuten epätasapainottavia.
-* Gadgettiin investoidut supervoimat ovat pysyviä, ellei esinettä tuhota.
+* Vempaimen osumapisteet, KOK jne. perustuvat vastaavan kokoiseen ja painoiseen normaaliin esineeseen. Jos ilmeistä vastinetta ei ole, käytä **Esineen KOK-esimerkit** -taulukkoa ja **Panssari**-taulukkoa ohjeina. Muuttaaksesi sen kokoa, käytä Koko-muutos-voimaa.
+* Jos vempain tarvitsee ominaisuuden (kuten MAH voimapisteitä varten), se tulisi rakentaa Superominaisuus-voimalla.
+* Vempain, joka vaatii suuremman virtalähteen kuin sen MAH-arvo, tulisi varustaa Lisäenergia-voimalla.
+* Tehdäksesi vempaimesta kestävämmän kuin normaaliesine, anna sille supervoimia kuten Absorptio, Panssari, Lisäosumapisteet, Voimakenttä jne.
+* Aina kun mahdollista, vempaimen tulisi nojata omiin ominaisuuksiinsa. Jos voima vaatii vastustusheiton, tulee käyttää vempaimen ominaisuutta (jos sellainen on). Jos vempaimella ei ole kyseistä ominaisuutta, se epäonnistuu automaattisesti vastustusheitossa.
+* Aina kun mahdollista, vempaimen tulisi nojata käyttäjänsä asiaankuuluvaan taitoon.
+  **Esimerkiksi:** jos vempain on pistooli, sitä on käytettävä Ampuma-aseet-taidolla. Jos se on kosmisesti toimiva ranneke, joka antaa käyttäjän ampua radioaktiivisia purkauksia, käytä Projektio-taitoa.
+* Pelinjohtajasi tulisi tarkastaa kaikki supervoimia sisältävät esineet varmistaakseen, etteivät ne ole liian voimakkaita tai muutoin epätasapainoisia.
+* Vempaimeen sijoitetut supervoimat ovat pysyviä, ellei esine tuhoudu.
 
-**Usean kykytyypin varusteet:** Pelinjohtajasi saattaa haluta luoda kykyjä omaavan esineen, joka ammentaa useista kykytyypeistä, kuten gadget, joka on myös artefakti, hyödyntäen supervoimia ja sorcerya. Näiden tulisi olla saatavilla vain pelinjohtajan harkinnan mukaan. Seuraavat periaatteet pätevät:
+**Varusteet, joilla on useita voimatyyppejä:** Pelinjohtajasi saattaa haluta luoda voimia omaavan esineen, joka ammentaa useista voimatyypeistä, kuten vempaimen, joka on myös artefakti, käyttäen supervoimia ja noituutta. Nämä tulisi olla saatavilla vain pelinjohtajan harkinnan mukaan. Seuraavat periaatteet pätevät:
 
-* Kun mahdollista, käsittele esinettä ikään kuin se olisi luotu hahmoksi, jolla on useita kykytyyppejä.
-* Esineellä on oltava kaikki relevantit ominaisuudet tai taidot käyttääkseen omistamiaan kykyjä.
-* Kaikki kyvyt ammentavat samasta resurssipoolista, olivatpa ne voimapisteitä tai jokin muu lähde. Esineen lataaminen on hoidettava kullekin kykysetille sopivalla tavalla.
-* Jos jostain syystä esineellä on kaksi arvoa valittavanaan tietyn toiminnon suorittamiseksi, käytä näistä kahdesta korkeampaa arvoa.
+* Mahdollisuuksien mukaan kohtele esinettä kuin se olisi luotu pelaajaksi, jolla on useita voimatyyppejä.
+* Esineellä on oltava kaikki tarvittavat ominaisuudet tai taidot käyttääkseen mitä tahansa voimiaan.
+* Kaikki voimat ammentavat samasta resurssialtaasta, olivatpa ne voimapisteitä tai jokin muu lähde. Esineen lataaminen on hoidettava kunkin voimajoukon mukaisella tavalla.
+* Jos esineellä on jostain syystä kaksi arvoa valittavana tietyn toiminnon suorittamiseen, käytä tarvittaessa korkeampaa arvoa.
 
-### Varusteet ja vaatimukset
+### Varusteet, joilla on vaatimuksia
 
-Joillakin varustetyypeillä voi olla vaatimuksia, jotka on täytettävä tai ylitettävä, jotta hahmosi voi käyttää niitä. Esimerkkinä ovat aseet, joissa useimmilla aseilla on vähimmäisvaatimus VOI- ja KET-ominaisuuksille. Muut varustetyypit on rajoitettu muilla tavoin, kuten haarniskan käyttämisen aiheuttama korkea uupumuspisteiden tarve ja siihen liittyvät taitorangaistukset. Millään tämän luvun perusvarusteista ei ole vaatimuksia, vaikka pelinjohtajasi voi helposti ottaa käyttöön rajoituksen esineen käytölle kahdella ilmeisellä tavalla:
+Joillakin varustetyypeillä voi olla vaatimuksia, jotka on täytettävä tai ylitettävä, jotta hahmosi voi käyttää niitä. Esimerkki on aseistus, jossa useimmilla aseilla on vähimmäisvaatimus VOI- ja KET-arvoille. Muunlaiset varusteet ovat rajoitettuja muilla tavoilla, kuten panssarin käyttämisestä johtuva korkea väsymispisteiden tarve ja siihen liittyvät taitorangaistukset. Millään tämän luvun perusvarusteista ei ole vaatimuksia, vaikka pelinjohtajasi voi helposti asettaa rajoituksia esineen käytölle kahdella ilmeisellä tavalla:
 
-* **Ominaisuudet:** Kuten aseiden kohdalla, varusteen käyttöä voidaan rajoittaa ominaisuuksillasi. Yleensä tämä on VOI tai KET, kuten aseiden kohdalla, tai KOK haarniskan kohdalla, mutta se voi helposti olla VOI taikaesineelle, ÄLY tietokoneelle tai jokin muu ominaisuuteen perustuva minimi (tai maksimi).
-* **Taidot:** Hahmosi saattaa huomata, että tietty varuste on käsittämätön tai hyödytön, ellei hänen taitotasonsa ole tietyllä tasolla. Yleensä taito edustaa varusteen ja sen toimintaperiaatteiden ymmärtämistä.
+* **Ominaisuudet:** Kuten aseiden kohdalla, varusteen käyttöä voidaan rajoittaa ominaisuuksillasi. Yleensä tämä tarkoittaa VOI:ta tai KET:iä (kuten aseissa) tai KOK:ia (panssareissa), mutta se voisi helposti olla MAH taikaesineelle, ÄLY tietokoneelle tai jokin muu ominaisuuteen perustuva vähimmäisvaatimus (tai enimmäismäärä).
 
-**Esimerkiksi,** diagnostiikkatietokone voi vaatia vähintään 50 % taitotason Tekninen taito (Tietokoneenkäyttö) -taidossa, jotta sitä voi käyttää.
+* **Taidot:** Hahmosi saattaa huomata, että tietty varuste on käsittämätön tai hyödytön, ellei hänen taitotasonsa ole tietyllä tasolla. Yleensä taito edustaa ymmärrystä varusteesta ja periaatteista, joilla se toimii.
 
-On suositeltavaa käyttää rajoituksia säästeliäästi ja vain, jos on olemassa oikeutettu syy niille. Ennen kuin määrität suoran rajoituksen esineen käytölle, pelinjohtajan tulisi määrittää, onko olemassa keinoja valvoa rajoitusta, ja onko olemassa rangaistuksia esineen käyttämisestä, jos hahmosi ei täytä vaatimuksia. Mahdollisia rangaistuksia ovat ylimääräiset uupumuspisteet käytöstä, kaikkien liittyvien taitotaitojen tekeminen Vaikeiksi tai liityvän ominaisuusheiton vaatiminen onnettomuuksien välttämiseksi.
+**Esimerkiksi:** diagnostiikkatietokone saattaa vaatia vähintään 50 % taitotason Tekniikka (Tietokoneiden käyttö) -taidossa toimiakseen.
 
-### Käyttökerrat tai rajoitetun käytön varusteet
+On suositeltavaa, että rajoituksia käytetään säästeliäästi ja vain, jos niille on olemassa perusteltu syy. Ennen kuin asetat ehdottoman rajoituksen esineen käytölle, pelinjohtajasi tulisi määrittää, onko rajoituksen valvontaan olemassa keinoja ja onko esineen käytöstä rangaistuksia, jos hahmosi ei täytä vaatimuksia. Joitakin mahdollisia rangaistuksia ovat ylimääräiset väsymispisteet, liittyvien taitojen heittojen tekeminen vaikeiksi tai vaatimus suorittaa ominaisuusheitto välttääkseen vahingot.
 
-Monet varustetyypit toimivat paristoilla tai niitä voidaan käyttää vain rajoitetun määrän kertoja. Useimmissa tapauksissa paristot voidaan vaihtaa melko helposti, ammukset täydentää ja muut vaaditut resurssit ladata tai täyttää. Useimmilla tuliaseilla on "käyttökertoja" ammusten muodossa, mutta jos niitä huolletaan hyvin, miekkaa tai haarniskaa voidaan käyttää niiden rikkoutumiseen asti. Aina kun aiheellista, varusteen täyttämiseen tai lataamiseen vaadittava resurssi on joko olennaisesti ilmainen (kuten sähkö tai aurinkovoima), tai se on kaksi tai kolme varallisuustasoa halvempi kuin varusteen hinta. Jos latauslaite vaaditaan, se on osa varusteen normaalia arvoa.
+### Varaukset tai rajoitetun käytön varusteet
 
-Yleensä on helpointa olettaa, että riittävällä ajalla ja suunnittelulla hahmollasi on riittävästi ammuksia, paristoja, täydennyksiä, patruunoita, virtakennoja jne. kaikille varusteilleen, ellei asetelma tai olosuhteet tee tästä vaikeaa tai mahdotonta. Näissä tapauksissa pelinjohtaja voi vaatia Tutkimus-, Status- tai Onni-heiton löytääkseen tarvittavan tyyppisen latauksen. Joissakin asetelmissa (esim. maailmanlopun jälkeen) ammukset, bensiini ja/tai virtakennot ovat erittäin vaikeasti saatavilla ja ne ovat yleensä arvokkaampia kuin varusteet, joissa niitä käytetään.
+Monet varustetyypit toimivat paristoilla tai niitä voi käyttää vain rajoitetun määrän kertoja. Useimmissa tapauksissa paristot voidaan vaihtaa melko helposti, ammukset täydentää ja muut vaaditut resurssit ladata tai täyttää. Useimmissa ampuma-aseissa on "varauksia" ammusten muodossa, mutta jos miekkaa tai panssaria huolletaan hyvin, niitä voi käyttää, kunnes ne rikkoutuvat. Aina kun mahdollista, varusteen täyttämiseen tai lataamiseen vaadittava resurssi on joko olennaisesti ilmainen (kuten sähkö tai aurinkoenergia) tai se on kaksi tai kolme vauraustasoa alhaisempi kuin varusteen hinta. Jos latauslaite on tarpeen, se sisältyy varusteen normaaliin arvoon.
+
+Yleensä on helpointa olettaa, että riittävällä ajalla ja suunnittelulla hahmollasi on riittävästi ammuksia, paristoja, täyttöjä, patruunoita, virtakennoja jne. kaikille varusteilleen, ellei ympäristö tai olosuhteet tee tästä vaikeaa tai mahdotonta. Näissä tapauksissa pelinjohtajasi saattaa vaatia Tutkimus-, Status- tai Onni-heittoa löytääkseen tarvittavan lataustyypin. Joissakin ympäristöissä (esimerkiksi post-apokalyptisissä) ammukset, bensiini ja/tai virtakennot ovat erittäin vaikeasti löydettävissä ja yleensä arvokkaampia kuin varusteet, joissa niitä käytetään.
 
 ### Varusteiden korjaaminen
 
-Jos esine on vahingoittunut pelin kuluessa, pelinjohtajan on määritettävä, voidaanko se korjata, perustuen maalaisjärkeen ja aiheutetun vahingon luonteeseen. Useimmissa tapauksissa relevanttia Korjaus- tai Käsityö-taitoheittoa voidaan käyttää kuten Ensiapu-taitoa, palauttaen vahingoittuneita osumapisteitä tai KOK-pisteitä kyseisen taidon ohjeiden mukaisesti. Monimutkaisten varusteiden kohdalla pelinjohtaja voi vaatia Tieto-heittoa löytääkseen resurssin varaosille, tai jopa vaatia Helpon taitotaitoheiton käytetyn korjaustaidon perusteella tarvittavien osien paikantamiseksi. Jos nämä komponentit ovat kalliita, pelinjohtaja voi vaatia Status-heittoa saadakseen tarvittavat varaosat laillisesti.
+Jos esine on vaurioitunut pelin kuluessa, pelinjohtajasi tulisi päättää, voidaanko se korjata, perustuen maalaisjärkeen ja aiheutetun vahingon luonteeseen. Useimmissa tapauksissa asianmukaista Korjaus- tai Käsityö-taitotason heittoa voidaan käyttää kuin Ensiapu-taitoa, palauttaen vaurioituneita osumapisteitä tai KOK-pisteitä kyseisen taidon ohjeiden mukaisesti. Monimutkaisten varusteiden kohdalla pelinjohtajasi saattaa vaatia Tieto-heittoa löytääkseen resurssin varaosille, tai jopa vaatia Helpon taitotason heiton käytettävän korjaustaidon pohjalta löytääkseen tarvittavat osat. Jos nämä komponentit ovat kalliita, pelinjohtajasi saattaa vaatia Status-heittoa saadakseen tarvittavat varaosat laillisesti.
 
 ## Aseet
 
-Historian saatossa on kehittynyt monia erilaisia asetyyppejä teknologian muutosten, materiaalien saatavuuden ja muuttuvien taistelukentän olosuhteiden seurauksena. Tämä osio esittelee edustavan otoksen tästä laajasta kirjosta. Jos pelinjohtaja haluaa luoda tarkempia aseluetteloita asetelmalle, relevanttien attribuuttien ekstrapolointi näistä esimerkeistä on helppoa.
+Historian saatossa on kehittynyt monia erilaisia asetyyppejä teknologian muutosten, materiaalien saatavuuden ja muuttuvien taistelukentän olosuhteiden seurauksena. Tämä osio esittelee edustavan näytteen tästä laajasta valikoimasta. Jos pelinjohtajasi haluaa luoda tarkempia aseluetteloita ympäristöä varten, on helppoa ekstrapoloida vastaavat ominaisuudet näistä esimerkeistä.
 
-Tässä osiossa kuvatut aseet on luokiteltu laajasti kronologisten asetelmien mukaan käytön helpottamiseksi. Useimmissa tapauksissa aiemman kauden aseet ovat myöhempien kausien ihmisten saatavilla, joten pelinjohtajasi voi yksinkertaisesti valita, mihin asti aseiden saatavuus ulottuu, ja antaa hahmollesi pääsyn kyseistä ajankohtaa edeltäviin aseisiin.
+Tässä osiossa kuvatut aseet on luokiteltu laajasti kronologisten ympäristöjen mukaan käytön helpottamiseksi. Useimmissa tapauksissa aiemman kauden aseet ovat myöhemmän kauden ihmisten saatavilla, joten pelinjohtajasi voi yksinkertaisesti valita, mistä aseiden saatavuus päättyy, ja antaa hahmollesi pääsyn aseisiin ennen sitä pistettä.
 
-Jokaisella aseella on seuraavat attribuutit:
+Jokaisella aseella on seuraavat ominaisuudet:
 
 * **Nimi:** Aseen yleisnimi.
 
-* **Taito:** Sen käyttöön tarvittava taito.
+* **Taito:** Aseen käyttämiseen tarvittava taito.
 
 * **Perus:** Aseen käyttämisen perustodennäköisyys.
 
-* **Vah:** Aseen tekemä vahinko. "+dm" tarkoittaa vahinkomuokkaajaa, ja "+½dm" on puolet vahinkomuokkaajasta (pyöristä ylöspäin).
+* **Vah:** Aseen aiheuttama vahinko. "+dm" tarkoittaa vahinkomuuttujaa, ja +½dm on puolet vahinkomuuttujasta (pyöristä ylöspäin).
 
 * **Hyök:** Kuinka monta hyökkäystä kierroksessa ase sallii?
 
-* **Erikois:** Minkä tyyppisen erityisen onnistumisen ase tekee?
+* **Erikois:** Minkä tyyppinen erikoisonnistuminen aseella on?
 
-* **Et:** Aseen peruskantama. Peruskantamalla taito on muokkaamaton. Keskikantamalla (kaksinkertainen peruskantama) taitokäyttö muuttuu Vaikeaksi, ja pitkällä kantamalla (nelinkertainen peruskantama) se on 1/5 normaalista taitotasosta (vastaa erityisen onnistumisen mahdollisuutta).
+* **Etä:** Aseen perusetäisyys. Perusetäisyydellä taito on muuttamaton. Keskietäisyydellä (kaksinkertainen perusetäisyys) taitotason käyttö muuttuu vaikeaksi, ja pitkällä etäisyydellä (nelinkertainen perusetäisyys) se on 1/5 normaalista taitotasosta (vastaa erikoisonnistumisen todennäköisyyttä).
 
 * **Kädet:** Kuinka monta kättä ase vaatii? 1K=yksikätinen, 2K=kaksikätinen.
 
 * **OP:** Aseen osumapisteet.
 
-* **Torjunta:** Voiko asetta käyttää torjumiseen?
+* **Torj:** Voiko asetta käyttää torjumiseen?
 
-* **Moka:** Ase menee epäkuntoon, jos tämä luku heitetään (katso **Mokat**). Jos ase ei ole tuliase, moka on jokin muu onnettomuus, joka estää aseen välittömän uudelleenkäytön.
+* **Virhe:** Ase menee epäkuntoon, jos tämä heitetään (katso **Epäkuntoisuus**). Jos ase ei ole ampuma-ase, virhe on jokin muu onnettomuus, joka estää aseen välittömän uudelleenkäytön.
 
-* **Amm:** Kuinka monta kertaa asetta voi käyttää ilman lataamista tai lataamista uudelleen?
+* **Ammus:** Kuinka monta kertaa asetta voi käyttää ilman uudelleenlatausta tai lataamista?
 
-* **Arvo:** Mikä on aseen keskivertohinta kyseisessä asetelmassa?
+* **Arvo:** Mikä on aseen keskimääräinen hinta sopivassa ympäristössä?
 
-* **VOI/KET:** Mitkä ovat aseen käyttöön tarvittavat vähimmäis-VOI ja -KET?
+* **VOI/KET:** Mitkä ovat VOI- ja KET-vähimmäisvaatimukset aseen käytölle?
 
-* **KOK/ENC:** Aseen KOK ja ENC-arvo.
+* **KOK/PAI:** Aseen KOK ja painoarvo (ENC).
 
-* **TT:** (Valinnainen) Tulinopeus (katso **Sarjatuli**). 1/#KR tarkoittaa, että ase on niin kömpelö, että sitä voi käyttää vain kerran #-taistelukierroksen välein. X/KR tarkoittaa, että sitä voidaan käyttää X kertaa taistelukierroksessa, kun käytetään sarjatulta.
+* **RT:** (Valinnainen) Tulinopeus (katso **Ryhmätuli**). 1/#TK tarkoittaa, että ase on niin kömpelö, että sitä voi käyttää vain kerran tietyn (#) taistelukierrosmäärän välein. X/TK tarkoittaa, että sitä voi käyttää X kertaa taistelukierroksessa ryhmätulta käytettäessä.### Aseiden kuvaukset
 
-### Aseiden kuvaukset
+Seuraavassa on kaikki lähitaistelu- ja ammuttavat aseet asetaulukoista aakkosjärjestyksessä.
 
-Seuraavassa on kaikki aseet lähitaistelu- ja heittoasetulukoista, aakkosjärjestyksessä.
+**Arbalesti:** Erittäin raskas varsijousi, jota on vaikea virittää ja ladata; käytetään usein koneistolla, jota kutsutaan kampavirittimeksi. Se aiheuttaa osuessaan valtavaa vahinkoa.
 
-**Arbalesti:** Erittäin raskas varsijousi, vaikea virittää ja ladata, käytetään usein cranequin-nimisen laitteen kanssa. Se tekee valtavaa vahinkoa osuessaan.
+**Kirves, taistelu:** Yhden käden kirves, jota käytetään ensisijaisesti taistelussa. Siinä voi olla yksi tai kaksi terää.
 
-**Kirves, taistelukirves:** Yksikätinen kirves, jota käytetään ensisijaisesti taistelussa. Siinä voi olla yksi tai kaksi terää.
+**Kirves, suuri:** Suuri kahden käden kirves, jossa voi olla yksi tai kaksi terää.
 
-**Kirves, suurkirves:** Suuri, kaksikätinen kirves, jossa voi olla yksi tai kaksi terää.
+**Kirves, käsi:** Pieni yhden käden kirves, jota voi heittää tai käyttää kädessä. Siinä voi olla yksi tai kaksi terää. Työkalumalleja käytetään puun hakkaamiseen.
 
-**Kirves, käsikirves:** Pieni yksikätinen kirves, jota voidaan heittää tai käyttää käsin. Siinä voi olla yksi tai kaksi terää. Työkalumuotoja käytetään puun hakkaamiseen.
+**Kirves, vibro-:** Pitkävartinen kirves, jonka varressa on generaattoriin yhdistetty yksi tai kaksi terää. Terät värisevät poikkeuksellisen nopeasti ja kykenevät leikkaamaan useimpien aineiden läpi.
 
-**Kirves, vibro-:** Pitkävartinen kirves, jossa on yksi tai kaksi terää asennettuna varressa olevaan generaattoriin. Terät värisevät poikkeuksellisella nopeudella ja pystyvät leikkaamaan useimpien aineiden läpi.
+**Kirves, puunhakkuu:** Pitkävartinen kirves, jota voi käyttää yhdellä tai kahdella kädellä ja jossa on yksi tai kaksi terää. Sitä ei ole rakennettu taisteluun, mutta sitä käytetään joskus sellaisena.
 
-**Kirves, puunhakkuukirves:** Pitkävartinen kirves, jota voidaan käyttää yhdellä tai kahdella kädellä, ja jossa on yksi tai kaksi terää. Sitä ei ole tehty taisteluun, mutta sitä käytetään joskus siihen.
+**Blackjack:** Pieni ommeltu nahkapussi täynnä painavaa ainetta, kuten haulia; käytetään vastustajan tyrmäämiseen hyökättäessä selän takaa. Kutsutaan myös pamppunsa tai lyömäaseeksi.
 
-**Blackjack (Pampun tyyppinen):** Pieni ommeltu nahkapussi, joka on täytetty jollain raskaalla, kuten lyijyhauleilla; käytetään jonkun tyrmäämiseen hyökättäessä takaa.
+**Puhallusputki:** Ontto, suora jopa metrin mittainen putki, jota käytetään pienten nuolien ampumiseen puhaltamalla putken toiseen päähän. Nämä nuolet tekevät vähän vahinkoa, mutta ovat usein myrkytettyjä.
 
-**Puhallusputki:** Ontto, suora putki, jopa metrin pituinen, jota käytetään pienten nuolten sinkoamiseen puhaltamalla putken toiseen päähän. Nämä nuolet tekevät vähän vahinkoa, mutta ovat usein myrkytettyjä.
+**Bola:** Kaksi tai kolme kovaa palloa, jotka on kiinnitetty toisiinsa narulla tai ketjulla. Tämä ase heitetään vihollisen sitomiseksi ja kaatamiseksi; vahingon tekeminen on toissijaista.
 
-**Bola:** Kaksi tai kolme kovaa palloa, jotka on kiinnitetty toisiinsa narulla tai ketjulla. Tätä asetta heitetään vihollisen sotkemiseksi ja kaatamiseksi, jolloin vahinko on toissijainen huolenaihe.
+**Bumerangi:** Litteä, kulman muotoinen keppi, joka on tehty heitettäväksi kaarevaa rataa pitkin. Alkuperäiskansojen metsästäjät käyttivät sitä perinteisesti pienten eläinten tainnuttamiseen tai tappamiseen.
 
-**Bumerangi:** Litteä, kulman muotoinen keppi, joka on tehty heitettäväksi kaarevalla radalla. Sitä käyttivät perinteisesti aboriginaalien metsästäjät pienten eläinten tyrmäämiseen tai tappamiseen.
+**Jousi, komposiitti:** Jousi, joka on tehty materiaaleista, jotka tekevät siitä sekä jäykän että joustavan. Historialliset versiot on valmistettu puusta ja sarvesta, modernit versiot grafiitista ja ultrakevyistä metalleista.
 
-**Jousi, komposiittijousi:** Jousi, joka on tehty materiaaleista, jotka tekevät siitä sekä jäykän että joustavan. Historialliset versiot on tehty puusta ja sarvesta, ja modernit versiot on tehty grafiitista ja ultrakevyistä metalleista.
+**Jousi, pitkä:** Jousi, joka on valmistettu joko yhdestä puunkappaleesta (kuten kuuluisa englantilainen pitkäjousi) tai samalla tavalla kuin komposiittijousi.
 
-**Jousi, pitkäjousi:** Jousi, joka on tehty joko yhdestä puukappaleesta (kuten kuuluisa englantilainen pitkäjousi) tai samalla tavalla kuin komposiittijousi.
+**Jousi, itse tehty:** Yksinkertainen jousi, joka on valmistettu yhdestä tai kahdesta puunkappaleesta, jotka on muotoiltu ja käsitelty rikkoutumisen estämiseksi.
 
-**Jousi, perusjousi:** Yksinkertainen jousi, joka on tehty yhdestä tai kahdesta puukappaleesta, jotka on muotoiltu ja kovetettu rikkoutumisen estämiseksi.
+**Nyrkkirauta:** Nyrkkiin puettavat metallipainot, jotka lisäävät lyöntien painoa ja tekevät niistä kovempia.
 
-**Nyrkkiraudat:** Nyrkkiin puettavat metallipainot, jotka lisäävät lyönteihin painoa ja kovan reunan.
+**Cestus:** Metalliset nyrkkeilyhanskat, joiden sisällä on paino lisäämään iskua. Nyrkkirautojen muinainen edeltäjä.
 
-**Cestus:** Metalliset nyrkkeilyhanskat, joiden sisään on asetettu paino suurempaa iskua varten. Muinaisen nyrkkiraudan edeltäjä.
+**Moottorisaha:** Puuntyöstötyökalu, joka koostuu teräketjusta, jota pyöritetään suurella nopeudella litteän metalliterän ympäri.
 
-**Moottorisaha:** Puunhakkuutyökalu, joka koostuu teräketjusta, jota käytetään pyörimään suurella nopeudella litteän metalliterän ympärillä.
+**Kynsi:** Eläimen kynsien muotoinen teräase, jota pidetään yleensä kädessä niin, että terät pistävät sormien välistä tai se puetaan kädenselän päälle.
 
-**Kynsi:** Teräase, joka on muotoiltu eläimen kynsien tapaan, yleensä kädessä pidettävä siten, että terät pistävät sormien läpi, tai pukeutuna käden selkämykseen.
-
-**Nuija, raskas:** Pitkä, raskas puun tai metallin kappale. Tämä kuvaa myös sorkkarautaa.
+**Nuija, raskas:** Pitkä ja painava puun tai metallin pala. Tämä kuvaa myös sorkkarautaa.
 
 **Nuija, kevyt:** Raskaan nuijan kevyempi versio. Tämä voi olla pesäpallomaila, rengasrauta, lamppu, tuolin jalka tai pamppu.
 
 **Varsijousi, raskas:** Tämä varsijousi on viritettävä vipukoneistolla. Helpompi ladata kuin arbalesti, mutta vähemmän tehokas.
 
-**Varsijousi, kevyt:** Tämä varsijousi voidaan virittää käsin, käytetään pääasiassa metsästykseen tai hiipimiseen, ei taistelukentällä.
+**Varsijousi, kevyt:** Tämä varsijousi voidaan virittää käsin; käytetään enimmäkseen metsästykseen tai hiiviskelyyn, ei taistelukentällä.
 
-**Varsijousi, keskikokoinen:** Tämä varsijousi viritetään koukistamalla toinen pää jaloilla ja käyttämällä kynsimekanismia jänteen vetämiseksi taakse.
+**Varsijousi, keskikokoinen:** Tämä varsijousi viritetään koukistamalla jousen toinen pää jalalla ja vetämällä jänne taakse kynsimekanismilla.
 
-**Varsijousi, toistava:** Monimutkainen varsijousi, jossa on nuolilipas, joka voidaan ampua niin nopeasti kuin jousi voidaan ampua. Kun lipas on tyhjä, toistavan varsijousen lataaminen kestää vähintään kuusi taistelukierrosta.
+**Varsijousi, sarjatuli:** Monimutkainen varsijousi, jossa on pulttimakasiini ja jota voidaan ampua yhtä nopeasti kuin jousta. Kun makasiini on tyhjä, sarjatulivarsijousen lataamiseen menee vähintään kuusi taistelukierrosta.
 
-**Tikari:** Lyhytteräinen ase, yleensä alle 40 cm pitkä, terävä yhdeltä tai molemmilta reunoilta.
+**Tikari:** Lyhytteräinen ase, yleensä alle 40 senttimetriä pitkä, terävä toiselta tai molemmilta puolilta.
 
-**Nuoli:** Lyhyet, painotetut kärjet, jotka sopivat heitettäväksi, joko höyhenillä tai ilman. Niitä käytetään usein myrkyn toimittamiseen.
+**Heittoputki/tikka:** Lyhyet, painotetut kärjet, jotka soveltuvat heittämiseen, joko sulilla tai ilman. Niitä käytetään usein myrkyn levittämiseen.
 
-**Detonaattori, antimateria:** Kenties tehokkain henkilökohtaisen mittakaavan räjähde, joka voi pyyhkiä kaiken tiukalta säteeltä. Näitä käytetään ajastimien, koodattujen etädetonaattoreiden ja magneettipohjien kanssa.
+**Detonaattori, antimateria:** Kenties tehokkain henkilökohtaisen mittakaavan räjähde, joka voi tuhota kaiken tiukalla säteellä. Näitä käytetään ajastimilla, koodatuilla kauko-ohjattavilla detonaattoreilla ja magneettisilla alustoilla.
 
-**Detonaattori, sähkömagneettinen (EM) pulssi:** Räjähtämisen sijaan tämä laite lähettää sähkömagneettisen pulssin (EMP), joka on suunniteltu häiritsemään sähkölaitteita ja elektronisia piirejä. Toisin kuin ydinaseen toissijaisena vaikutuksena syntyvä EMP, tämä on ei-ydinvoimainen sähkömagneettinen pulssi, joka häiritsee yksinomaan elektronisia laitteita.
+**Detonaattori, sähkömagneettinen (EM) pulssi:** Räjähtämisen sijaan tämä laite lähettää sähkömagneettisen pulssin (EMP), joka on suunniteltu häiritsemään sähkölaitteita ja elektronisia piirejä. Toisin kuin ydinaseen toissijaisena vaikutuksena syntyvä EMP, tämä on ei-ydinkäyttöinen sähkömagneettinen pulssi, joka häiritsee vain sähkölaitteita.
 
-**Detonaattori, fuusio:** Äärimmäisen tehokas sub-ydinpommi, joka kykenee valtavaan tuhoavaan voimaan. Mukana tulee ajastin, koodattu etädetonaattori ja magneettipohja.
+**Detonaattori, fuusio:** Äärimmäisen tehokas alaydinpommi, joka kykenee valtavaan tuhovoimaan. Varustettu ajastimella, koodatulla kauko-ohjattavalla detonaattorilla ja magneettisella alustalla.
 
-**Detonaattori, plasma:** Räjähde, joka kykenee tuottamaan ja suihkuttamaan plasmalatauksen, superkuumennetun välitilan kaasun ja nesteen välillä. Mukana tulee ajastin, koodattu etädetonaattori ja magneettipohja.
+**Detonaattori, plasma:** Räjähde, joka kykenee luomaan ja suihkuttamaan plasmalatauksen, joka on kaasun ja nesteen välissä oleva ylikuumennettu tila. Nämä toimitetaan ajastimilla, koodatuilla kauko-ohjattavilla detonaattoreilla ja magneettisilla alustoilla.
 
-**Detonaattori, ääni:** Laite, joka lähettää tuhoavan ja tärähdyksiä aiheuttavan äänipulssin, joka voi rikkoa lasia ja muuta haurasta ainetta, sekä tyrmätä kaikki elävät kohteet, jotka jäävät sen vaikutusalueelle.
+**Detonaattori, ääni:** Laite, joka lähettää tuhoisan ja täräyttävän äänipulssin, joka voi särkeä lasia ja muuta haurasta ainetta sekä tainnuttaa kaikki vaikutusalueelle jäävät elävät kohteet.
 
-**Räjähde, sytytin:** Pieni räjähde, jota käytetään suuremman räjähteen räjäyttämiseen. Vanhemmat käyttivät sytytyslankoja, kun taas uudemmat käyttävät sähköä tai hienostuneempia menetelmiä räjähteen räjäyttämiseen.
+**Räjähde, nalli:** Pieni räjähde, jota käytetään suuremman räjähteen laukaisemiseen. Vanhemmat mallit käyttivät sytytyslankoja, kun taas uudemmat käyttävät sähköä tai hienostuneempia menetelmiä räjähteen laukaisemiseen.
 
-**Räjähde, dynamiitti:** Kemiallista räjähdettä kiinteään aineeseen, kuten sahanpuruun, imeytettyjä tankoja, jotka on kääritty paksuun paperiin ja sytytetty sytytyslangan kipinöillä tai sytyttimen pienemmällä räjähdyksellä. Tämä on erittäin vaarallista, sillä se pyrkii "hikoilemaan" nitroglyseriiniä ja muuttuu epävakaaksi, jos se jätetään yksin liian pitkäksi aikaa.
+**Räjähde, dynamiitti:** Kemiallisella räjähteellä kyllästettyyn kiinteään aineeseen, kuten sahanpuruun, imeytettyjä tikkuja, jotka on kääritty paksuun paperiin ja sytytetty sytytyslangasta tulevilla kipinöillä tai pienemmän räjähteen laukaisulla. Tämä on erittäin vaarallista, koska se pyrkii "hikoilemaan" nitroglyseriiniä ja muuttuu epävakaaksi, jos se jätetään liian pitkäksi aikaa yksin.
 
-**Räjähde, improvisoitu:** Yleensä putkipommi, tämä kuvaa mitä tahansa pientä kotitekoista kemiallista räjähdettä.
+**Räjähde, improvisoitu:** Yleensä putkipommi; kuvaa monia pieniä kotitekoisia kemiallisia räjähteitä.
 
-**Räjähde, muoviräjähde:** Moderni kemiallinen räjähde, joka on sekoitettu aineeseen kuten öljyyn tai vahaan muovailtavaan, kittiä muistuttavaan muotoon, jota voidaan muotoilla ja muokata tarpeen mukaan. Käytetään ajastimen kanssa ja räjäytetään usein sähkövarauksella. Kutsutaan myös plastiikaksi.
+**Räjähde, muovailtava:** Moderni kemiallinen räjähde, joka on sekoitettu aineeseen, kuten öljyyn tai vahaan, muovailtavaksi, kittiä muistuttavaksi massaksi, jota voidaan muotoilla tarpeen mukaan. Käytetään ajastimen kanssa ja laukaistaan usein sähkövarauksella. Kutsutaan myös muoviräjähteeksi.
 
-**Nyrkki:** Aseistamaton hyökkäys, jossa käytetään Brawl-taitoa.
+**Nyrkki:** Aseeton hyökkäys, jossa käytetään Brawl-taitoa.
 
-**Varsijousi, nuijapää:** Nuijapää, joka on asennettu lyhyen ketjun päähän, joka on yhdistetty noin metrin pituiseen tai pidempään varteen.
+**Varsinuija:** Nuijan pää kiinnitettynä lyhyen, noin metrin tai pidemmän varren päässä olevan ketjun päähän.
 
-**Varsijousi, aamutähti:** Keskiaikainen ase, jossa on varsi, ketjun pätkä ja piikikäs pallo päässä. Joissakin ei ole piikkejä, vaan ne ovat yksinkertaisesti painotettuja tai nastoitettuja palloja ketjun päässä.
+**Varsinuija, aamutähti:** Keskiaikainen ase, jossa on varsi, ketju ja piikikäs pallo päässä. Joissakin ei ole piikkejä, vaan ne ovat vain painotettuja tai nastoitettuja palloja ketjun päässä.
 
-**Liekinheitin:** Erittäin palavaa kemikaalia täynnä oleva säiliö, joka on kiinnitetty heittimeen/sytyttimeen, joka suihkuttaa palavia nesteitä. Liekinheitintä voidaan käyttää myös alueen tai esineen liottamiseen tähän palavaan kemikaaliin sytyttämättä sitä tuleen. Uskomattoman vaarallinen lyhyen kantaman, rajoitetun käyttöajan ja itseensä sytyttämisen mahdollisuuden vuoksi. Liekinheittimet voivat räjähtää, kun säiliöön osuu, aiheuttaen kaksinkertaisen vahingon kaikille viiden metrin säteellä käyttäjästä. Tee Onni-heitto välttääksesi tämän.
+**Liekinheitin:** Erittäin palavan kemikaalin täyttämä säiliö, joka on kiinnitetty projektoriin/sytyttimeen, joka suihkuttaa liekehtivän nesteen suihkuja. Liekinheittimiä voidaan käyttää myös alueen tai kohteen kasteluun tällä palavalla kemikaalilla sytyttämättä sitä tuleen. Uskomattoman vaarallinen lyhyen kantaman, rajoitetun käyttöajan ja itseensä sytyttämisen riskin vuoksi. Liekinheittimet voivat räjähtää, kun säiliöön osuu, aiheuttaen kaksinkertaisen heitetyn vahingon kaikille viiden metrin säteellä käyttäjästä. Tee Luck-heitto tämän välttämiseksi.
 
-**Kuristusnaru:** Lyhyt naru, jota käytetään kuristamiseen, olipa se ohut metallivaijeri, seremoniallinen köysi tai improvisoitu huivi tai vyö.
+**Kuristusnuora:** Lyhyt naru, jota käytetään kuristamiseen; se voi olla ohut metallivaijeri, seremoniallinen köysi tai improvisoitu huivi tai vyö.
 
-**Gauntlet, panssaroitu:** Metallinen hanska, jota käytetään haarniskan kanssa tai ilman, mikä lisää vahinkoa onnistuneilla iskuilla Brawl-taidolla.
+**Gauntlet, panssaroitu:** Panssarin kanssa tai ilman käytettävä metallinen gauntlet, joka lisää vahinkoa Brawl-taidolla tehdyissä onnistuneissa iskuissa.
 
-**Paini:** Aseistamaton hyökkäys, jossa käytetään Paini-taitoa.
+**Paini:** Aseeton hyökkäys, jossa käytetään Grapple-taitoa.
 
-**Kranaatti, antimateria:** Pieni, mutta äärimmäisen tehokas räjähdelaite, joka laukaistaan ja heitetään vihollisia, esineitä tai rakenteita kohti. Vaikka sisältävät äärettömän pieniä määriä antimateriaa, nämä kranaatit ammutaan yleensä laukaisimista, koska ne ovat niin tuhoisia, että heittäminen räjähdyssäteen ulkopuolelle on vaikeaa.
+**Kranaatti, antimateria:** Pieni mutta poikkeuksellisen tehokas räjähdelaite, joka laukaistaan ja heitetään vihollisten, kohteiden tai rakenteiden päälle. Vaikka ne sisältävät äärettömän pieniä määriä antimateriaa, nämä kranaatit ammutaan yleensä laukaisimista, koska ne ovat niin tuhoisia, että yhden heittäminen oman räjähdysalueen ulkopuolelle on vaikeaa.
 
-**Kranaatti, tärähdys:** Pieni räjähdelaite, joka laukaistaan ja heitetään vihollisia kohti tai suljettuihin tiloihin, missä se voi tyrmätä räjähdyssäteelle jääneet. Kutsutaan joskus tainnutuskranaatiksi.
+**Kranaatti, tärähdys:** Pieni räjähdelaite, joka laukaistaan ja heitetään vihollisten päälle tai suljettuihin tiloihin, missä se voi tainnuttaa räjähdysalueelle jääneet. Kutsutaan joskus tainnutuskranaatiksi.
 
-**Kranaatti, hajottaja:** Kranaatti, joka kykenee hajottamaan kaiken aineen (tai murtamaan molekyylisidokset) räjähdyssäteellä. Erittäin vaarallisia, hajottajakranaatteja käytetään yleensä vain viimeisenä keinona.
+**Kranaatti, hajottaja:** Kranaatti, joka kykenee hajottamaan kaiken aineen (tai särkemään molekyylisidokset) räjähdysalueella. Erittäin vaarallisia, hajottajakranaatteja käytetään yleensä vain viimeisenä keinona.
 
-**Kranaatti, sähkömagneettinen (EM) pulssi:** Kranaatti, jossa on sähkömagneettinen pulssikyky. Kun heitetään metalliseen kohteeseen, magneettinen pinta lisää +20 % mahdollisuuttasi osua onnistuneesti.
+**Kranaatti, sähkömagneettinen (EM) pulssi:** Kranaatti, jossa on sähkömagneettinen pulssikyky. Kun se heitetään metalliseen kohteeseen, magneettinen pinta lisää +20% mahdollisuuttasi osua onnistuneesti.
 
-**Kranaatti, räjähde:** Pieni räjähde, joka laukaistaan ja heitetään, aiheuttaen tärähdyksen ja sirpaleiden räjähdyksen.
+**Kranaatti, räjähdys:** Pieni räjähde, joka laukaistaan ja heitetään, mikä aiheuttaa tärähtävän voiman ja sirpaleiden räjähdyksen.
 
-**Kranaatti, soihtu:** Syttyvistä kemikaaleista tehty tikku, joka laukaistaan ja heitetään pimeiden alueiden valaisemiseksi tai ilmamaalin valaisemiseksi.
+**Kranaatti, valaisu:** Palavista kemikaaleista koostuva tikku, joka laukaistaan ja heitetään pimeiden alueiden valaisemiseksi tai ilmamaalien merkitsemiseksi.
 
-**Kranaatti, fuusio:** Äärimmäisen tehokas sub-ydinlaite, joka kykenee valtavaan tuhoavaan voimaan. Fuusiokranaatit ammutaan vain laukaisimista tai heitetään tilanteissa, joissa käyttäjällä on riittävästi aikaa päästä pois räjähdyssäteeltä.
+**Kranaatti, fuusio:** Äärimmäisen tehokas alaydinlaite, joka kykenee valtavaan tuhovoimaan. Fuusiokranaatteja ammutaan vain laukaisimilla tai heitetään tilanteissa, joissa käyttäjällä on riittävästi aikaa päästä pois räjähdysalueelta.
 
-**Kranaatti, kaasu:** Pieni kemiallinen räjähdelaite, joka laukaistaan ja heitetään tai vieritetään, aiheuttaen myrkyllistä tai muuten haitallista kaasua. Nämä voidaan täyttää useilla kaasuilla (sinappi, kyynel, tainnutus jne.).
+**Kranaatti, kaasu:** Pieni kemiallinen räjähdelaite, joka laukaistaan ja heitetään tai vieritetään ja joka vapauttaa myrkyllistä tai muuten haitallista kaasua. Nämä voidaan täyttää useilla kaasuilla (sinappi, kyynel, tyrmäys jne.).
 
-**Kranaatti, Molotovin cocktail:** Improvisoitu räjähde, joka on tehty pullosta ja sytytyslangasta, sytytetty ja heitetty, yleensä kohteen sytyttämiseksi tuleen.
+**Kranaatti, Molotovin cocktail:** Pullosta ja sytytyslangasta valmistettu improvisoitu räjähde, joka sytytetään ja heitetään yleensä kohteen sytyttämiseksi tuleen.
 
-**Kranaatti, fosfori:** Pieni kemiallinen räjähdelaite, joka laukaistaan ja heitetään. Se lähettää erittäin syttyvän kemiallisen tulen, joka voi sulattaa varusteita ja sytyttää esineitä tuleen, tai yksinkertaisesti valaista pimeän alueen maajoukoille tai ilmalaivojen maalinosoittimille.
+**Kranaatti, fosfori:** Pieni kemiallinen räjähdelaite, joka laukaistaan ja heitetään. Se lähettää erittäin palavan kemiallisen tulen, joka voi sulattaa varusteita ja sytyttää kohteita palamaan, tai yksinkertaisesti valaista pimeän alueen maajoukoille tai ilma-alusten kohdistamiseen.
 
-**Kranaatti, plasma:** Kranaatti, joka käyttää plasmateknologiaa. Erittäin räjähtävä ja kykenee aiheuttamaan valtavaa tuhoa ja tulta.
+**Kranaatti, plasma:** Plasmatekniikkaa käyttävä kranaatti. Erittäin räjähdysaltis ja kykenee aiheuttamaan valtavaa tuhoa ja tulta.
 
-**Kranaatti, sähköisku:** Kranaatti, joka vapauttaa sähkövarauksen, varustettuna magneettipinnoilla, jotta se tarttuu mihin tahansa metallipintaan, johon se heitetään. Kun heitetään metalliseen kohteeseen, magneettinen pinta lisää +20 % mahdollisuuttasi osua onnistuneesti.
+**Kranaatti, isku:** Kranaatti, joka vapauttaa sähkövarauksen; varustettu magneettipinnoilla, jotta se tarttuisi mihin tahansa metallipintaan, johon se heitetään. Kun heitetään metallikohteeseen, magneettinen pinta lisää +20% mahdollisuuttasi osua onnistuneesti.
 
-**Kranaatti, sirpale:** Pieni räjähdelaite, joka laukaistaan ja heitetään vihollisia kohti, asetettu lähettämään tappavia, lihaa lävistäviä sirpaleita.
+**Kranaatti, sirpale:** Pieni räjähdelaite, joka laukaistaan ja heitetään vihollisten päälle, asetettu lähettämään tappavia, lihaa lävistäviä sirpaleita.
 
-**Kranaatti, savu:** Kaasukranaatti (katso yllä), joka lähettää vaaratonta mutta peittävää savua.
+**Kranaatti, savu:** Kaasukranaatti (katso yllä), joka vapauttaa vaaratonta mutta peittävää savua.
 
-**Kranaatti, ääni:** Kranaatti, joka käyttää äänipulssiteknologiaa, joka lähettää korkeataajuisen äänipurkauksen kohteiden lamauttamiseksi tai häiritsemiseksi.
+**Kranaatti, ääni:** Äänipulssitekniikkaa käyttävä kranaatti, joka lähettää korkeataajuisen äänipurskeen kohteiden lamauttamiseksi tai häiritsemiseksi.
 
-**Kranaatti, tainnutus:** Kranaatti, joka lähettää kevyesti tärähdyksiä aiheuttavan purkauksen, joka on suunniteltu nimenomaan tyrmäämään tai väliaikaisesti lamauttamaan kohteet.
+**Kranaatti, tainnutus:** Kranaatti, joka lähettää kevyen tärähtävän räjähdyksen, joka on suunniteltu erityisesti tainnuttamaan tai tilapäisesti lamauttamaan kohteita.
 
-**Konekivääri:** Nopeasti toistuva tuliase, jossa on liipaisinasetukset yksittäiselle laukaukselle, lyhyille sarjoille ja täydelle sarjatulelle.
+**Konekivääri:** Nopeasti toistuva ampuma-ase, jossa on liipaisinasetukset yksittäislaukauksille, lyhyille sarjoille ja täysautomaattiselle tulelle.
 
-**Minigun:** Gatling-tyylinen raskas konekivääri, usein asennettu helikoptereihin tai ajoneuvoihin. VOI-vaatimus on, jos sitä käytetään käsin.
+**Minigun:** Gatling-tyylinen raskas konekivääri, joka on usein asennettu helikoptereihin tai ajoneuvoihin. VOI-vaatimus on voimassa, jos asetta käytetään käsin.
 
-**Konepistooli:** Pieni konekivääri, joka on suunniteltu yksikätiseen käyttöön.
+**Konepistooli:** Pieni konekivääri, joka on suunniteltu yhden käden käyttöön.
 
-**Hilpari:** Leveä kirveen pää kahden metrin varressa. Käytetään yleisesti keskiaikaisten kaupunginvartijoiden toimesta tai ratsuväkeä vastaan.
+**Hilpari:** Leveä kirveenpää kahden metrin varressa. Käytetään yleisesti keskiaikaisten kaupunkivartijoiden keskuudessa tai ratsuväkeä vastaan.
 
-**Vasara:** Yleinen kotitaloustyökalu, jota käytetään puusepän töissä, tai pieni, yksikätinen sotilasase, jossa on iskevä pää.
+**Vasara:** Yleinen kotitaloustyökalu, jota käytetään puusepäntyössä, tai pieni, yhden käden sotilasase, jossa on iskevä pää.
 
-**Vasara, suuri vasara:** Massiivinen vasara, jota käytetään kahdella kädellä.
+**Vasara, suuri:** Massiivinen vasara, jota käytetään kahdella kädellä.
 
-**Lekka:** Rakennustyöläisten ja purkuryhmien käyttämä raskas työkalu, jota käytetään kahdella kädellä.
+**Leka:** Rakennustyöntekijöiden ja purkuryhmien käyttämä raskas työkalu, jota käytetään kahdella kädellä.
 
-**Sotavasara:** Suunniteltu vasaran tapaan, tässä aseessa on usein piikki litteän pään sijaan, mikä on ihanteellinen haarniskan läpi lyömiseen.
+**Sotavasara:** Kuten vasara, mutta tässä aseessa on usein piikki tasaisen pään sijaan; ihanteellinen panssarin läpäisemiseen.
 
-**Pääpuskut:** Aseistamaton hyökkäys, jossa käytetään Brawl-taitoa.
+**Puskeminen:** Aseeton hyökkäys, jossa käytetään Brawl-taitoa.
 
-**Heittokeihäs:** Lyhyt keihäs, jota käytetään yhdellä tai kahdella kädellä, tai heittämiseen.
+**Heittokeihäs:** Lyhyt keihäs, jota käytetään yhdellä tai kahdella kädellä tai heittämiseen.
 
-**Katana:** Yksiteräinen, hieman kaareva pitkä miekka, jota käytetään yhdellä tai kahdella kädellä, ja jota fetisoidaan sen työn jäljen ja terävyyden vuoksi.
+**Katana:** Yksiteräinen, hieman kaareva pitkä miekka, jota käytetään yhdellä tai kahdella kädellä ja jota fetisoidaan sen työn jäljen ja terävyyden vuoksi.
 
-**Potku:** Aseistamaton hyökkäys, jossa käytetään Brawl-taitoa.
+**Potku:** Aseeton hyökkäys, jossa käytetään Brawl-taitoa.
 
-**Veitsi:** Työkalu, joka sopii syömiseen, leikkaamiseen, puolustautumiseen tai äkilliseen salamurhaan. Kuten tikari, mutta kevyempi ja vähemmän kestävä.
+**Veitsi:** Työkalu, joka soveltuu syömiseen, leikkaamiseen, puolustukseen tai äkilliseen salamurhaan. Kuten tikari, mutta kevyempi ja vähemmän kestävä.
 
-**Veitsi, teurastajan veitsi:** Suuri raskas keittiöveitsi, joka sopii suurten lihapalojen pilkkomiseen yhdellä iskulla.
+**Veitsi, teurastajan:** Suuri ja raskas keittiöveitsi, joka soveltuu suurten lihapalojen hakkaamiseen yhdellä iskulla.
 
-**Veitsi, taskuveitsi:** Pieni taittoveitsi, usein usealla terällä.
+**Veitsi, tasku:** Pieni taitettava veitsi, usein useilla terillä.
 
-**Veitsi, linkkuveitsi:** Sisäänvedettävä taskuveitsi.
+**Linkkuveitsi:** Sisäänvedettävä taskuveitsi.
 
-**Veitsi, heittoveitsi:** Tasapainotettu heittämistä varten, yleensä ilman kahvaa.
+**Veitsi, heitto:** Tasapainotettu heittämiseen, yleensä ilman väistintä.
 
-**Veitsi, vibroveitsi:** Korkean teknologian veitsenterä, joka on asetettu mekaaniseen kahvaan ja värisee erittäin suurella nopeudella. Poikkeuksellisen terävä, värinä lisää leikkausvoimaa pieniinkin haavoihin.
+**Veitsi, vibro-:** Korkeateknologinen veitsenterä, joka on asetettu mekaaniseen kahvaan ja joka värisee erittäin suurella nopeudella. Poikkeuksellisen terävä; värinä lisää ylimääräistä leikkausvoimaa jopa pieniin viiltoihin.
 
-**Peitsi:** Pitkä keihäs, jota käytetään yhdellä kädellä hevosen selästä. Ratsastettaessa hyökkääjä käyttää ratsun vahinkomuokkaajaa omansa sijasta. Peitsiä voidaan käyttää myös jalkaisin kahden käden keihäänä, jolloin käytetään normaalia vahinkomuokkaajaa.
+**Peitsi:** Pitkä keihäs, jota käytetään yhdellä kädellä hevosen selästä. Ratsastaessa hyökkääjä käyttää ratsun vahinkomuuntajaa omanaan. Peitsiä voi käyttää myös jalkaisin kahden käden keihäänä normaalilla vahinkomuuntajalla.
 
-**Peitsi, tainnutuspeitsi:** Sauvamuotoinen ase, jonka toisessa päässä on sähköinen pisto. Joissakin on piikkejä molemmissa päissä.
+**Peitsi, tainnutus:** Sauvan muotoinen ase, jonka toisessa päässä on sähköinen sähkökärki. Joissakin tainnutuspeitsissä on sähkökärjet molemmissa päissä.
 
-**Lasso:** Perinteinen karjapaimenen lassoköysi. Se ei tee vahinkoa, mutta lamauttaa kohteen sitomissääntöjen mukaisesti.
+**Lasso:** Perinteinen karjanpyydystykseen käytettävä lariatti. Se ei tee vahinkoa, mutta lamauttaa kohteen käyttämällä sitomissääntöjä.
 
-**Kranaatinheitin:** Käsikäyttöinen tai kiinteä laukaisin, joka ampuu kranaatteja pitkiä matkoja. Se voi olla pieni alusta, käsikäyttöinen tuliaseen muotoinen laukaisin tai se voi olla kiinnitetty toiseen tuliaseeseen.
+**Kranaatinheitin:** Kädessä pidettävä tai kiinteä laukaisin, joka ampuu kranaatteja suuria matkoja. Se voi olla pieni alusta, kädessä pidettävä ampuma-aseen muotoinen laukaisin tai kiinnitettynä toiseen ampuma-aseeseen.
 
-**Sinko, LAW-raketti:** Kevyt, kertakäyttöinen yhden laukauksen raketinheitin, tunnetaan myös kevyenä panssarintorjunta-aseena.
+**Laukaisin, LAW-raketti:** Kevyt, kertakäyttöinen yhden laukauksen raketinheitin, joka tunnetaan myös nimellä kevyt panssarintorjunta-ase (LAW).
 
-**Sinko, raketinheitin:** Pienehkö putki ja alusta, joka on koottu taistelukentälle, jota käytetään rakettien ampumiseen tarkemmin.
+**Laukaisin, raketti:** Taistelukentällä koottava pienehkö putki ja alusta, jota käytetään rakettien ampumiseen tarkemmin.
 
-**Nuija, raskas:** Varsi, jonka päässä on raskas paino, piikikäs, laipallinen, nastoitettu tai sileä.
+**Nuija, raskas:** Varsi, jonka päässä on painava nuijan pää; piikikäs, laippa- tai nystyräpää tai sileä.
 
-**Nuija, kevyt:** Varsi, jonka päässä on kevyt paino, käytetään iskemiseen ja murskaamiseen.
+**Nuija, kevyt:** Varsi, jonka päässä on kevyt paino, jota käytetään lyömiseen ja murskaamiseen.
 
-**Lekka, sotalekka:** Pitkävartinen, kaksipäinen vasara, jota käytetään kahdella kädellä.
+**Sotanuija:** Pitkävartinen kaksipäinen vasara, jota käytetään kahdella kädellä.
 
-**Miina, henkilömiina:** Maamiina, joka on rakennettu ensisijaisesti haavoittamaan tappamisen sijaan (maksimoimalla vihollisen vaikeudet).
+**Miina, henkilövastainen:** Maamiina, joka on rakennettu ensisijaisesti haavoittamaan pikemmin kuin tappamaan (maksimoiden vaikeuden viholliselle).
 
-**Musketti:** Varhainen sileäpiippuinen tuliase, joka ladataan piipun kautta ja täytetään joskus joko sirpalehauleilla tai suurilla kuulilla. Hidas ja epäluotettava, sytytetään piikivi- tai pyörälukolla.
+**Musketti:** Varhainen sileäputkinen ampuma-ase, joka ladataan piipun kautta ja täytetään joskus joko sirpaleilla tai suurilla kuulan muotoisilla luodeilla. Hidas ja epäluotettava, sytytetään piikivi- tai pyörälukolla.
 
-**Miina, panssarimiina:** Miina, joka on tehty vaurioittamaan panssarivaunun teloja tai vihollisen ajoneuvoja.
+**Miina, panssarintorjunta:** Miina, joka on tehty vaurioittamaan panssarivaunun teloita tai vihollisen ajoneuvoja.
 
-**Naginata:** Pitkä keihäs, jossa on miekkamainen pää, käytetään leikkaaviin ja pistäviin hyökkäyksiin.
+**Naginata:** Pitkä keihäs, jossa on miekkamainen pää; käytetään leikkaaviin ja pistäviin hyökkäyksiin.
 
-**Verkko:** Löysä kudotusta narusta tehty silmukka, jota käytetään eläinten tai suurempien kohteiden pyydystämiseen. Vaikka pienempiä verkkoja käytetään pieneen riistaan, tässä kuvattu verkko on tarpeeksi suuri käytettäväksi ihmisiä vastaan.
+**Verkko:** Kudotusta narusta valmistettu löysä verkko, jota käytetään eläinten tai suurempien kohteiden pyydystämiseen. Vaikka pienempiä verkkoja käytetään pikkuriistalle, tässä kuvattu verkko on tarpeeksi suuri ihmisiä vastaan.
 
-**Pike (Pitkä keihäs):** Pitkä keihäs (3–5 metriä), jota käytetään muodostelmissa. Myös yleinen kaupunginvartijoilla ja linnan puolustuksessa. Pike on paras puolustus (lukuun ottamatta tuliaseiden sarjaa) ratsuväen hyökkäystä vastaan.
+**Pii:** Pitkä (3–5 metrin) keihäs, jota käytetään muodostelmataistelussa. Yleinen myös kaupunginvartijoilla ja linnanpuolustuksessa. Piikit ovat paras puolustus (lyhyttä ampuma-aseiden sarjatulta lukuun ottamatta) ratsuväen hyökkäystä vastaan.
 
-**Pistooli, blaster:** Pistooli, joka ampuu lyhyen energiasarjan, yleensä plasmaa, polttaen kohteen ja aiheuttaen tärähdyksen. Blaster-pistoolit toimivat yleensä eksoottisia kemiallisia polttoaineita sisältävillä lippailla.
+**Pistooli, blaster:** Pistooli, joka ampuu lyhyen energiasuihkun, yleensä plasmaa, joka polttaa kohteen ja aiheuttaa tärähdyksen. Blaster-pistoolit toimivat yleensä eksoottisia kemiallisia polttoaineita sisältävillä lippailla.
 
-**Pistooli, Derringer:** Pieni käsikäyttöinen pistooli, yleensä kämmenen kokoinen. Helppo piilottaa, alhainen ammuskapasiteetti. Jotkut ovat yhden tai kahden laukauksen aseita, toisilla on pienet lippaat.
+**Pistooli, Derringer:** Pieni kädessä pidettävä pistooli, yleensä kämmenen kokoinen. Helppo piilottaa, pieni ammuskapasiteetti. Jotkut ovat yhden tai kahden laukauksen aseita, toisissa on pienet lippaat. Kutsutaan joskus ”piiloaseeksi”.
 
-**Pistooli, hajottaja:** Pistooli, joka ampuu äärimmäisen tuhoavan energiasarjan, joka hajottaa kohteen nopeasti tai suuria osia siitä. Hajottajapistoolit voidaan ladata energiasoluilla tai polttoainelippailla.
+**Pistooli, hajottaja:** Pistooli, joka ampuu erittäin tuhoisan energiasuihkun, joka hajottaa nopeasti koko kohteen tai suuria osia siitä. Hajottajapistoolit voivat toimia energiasoluilla tai polttoainelippailla.
 
-**Pistooli, sähkömagneettinen (EM) pulssi:** Pistooli, joka ampuu suunnatun sähkömagneettisen pulssivirran kohteeseen, kuten tietokoneeseen tai robottiin, lamauttaen sen virtapiirit.
+**Pistooli, sähkömagneettinen (EM) pulssi:** Pistooli, joka ampuu suunnatun sähkömagneettisen pulssisuihkun kohteeseen, kuten tietokoneeseen tai robottiin, lamauttaen sen piirit.
 
-**Pistooli, flechette:** Pieni, kevyt pistooli, joka toimii joko magneettivarauksilla tai kaasulla, ampuen monia pieniä, teräviä neulamaisia teriä kohteeseen. Näillä on yleensä lyhyt kantama eivätkä ne ole kovin tehokkaita haarniskoituja kohteita vastaan, mutta ne ovat tuhoisia suojaamattomia vihollisia vastaan lyhyellä kantamalla. Ne käyttävät sekä flechette-ammuslippaita että kaasusäiliötä tai energialipasta.
+**Pistooli, flechette:** Pieni, kevyt pistooli, joka toimii magneettivarauksilla tai kaasulla ja ampuu monia pieniä, teräviä neulamaisia teriä kohteeseen. Näillä on yleensä lyhyt kantama, eivätkä ne ole kovin tehokkaita panssaroituja kohteita vastaan, mutta ne ovat tuhoisia panssaroimattomia vihollisia vastaan lyhyellä etäisyydellä. Ne käyttävät sekä flechette-ammuslippaita että kaasupatruunaa tai energiasolua. Kutsutaan joskus ”neulapistooliksi”.
 
-**Pistooli, piikkilukko:** Pistooli, joka käyttää piikiveä ja terästä käsin pakatun ruutipanoksen sytyttämiseen. Samankaltainen kuin pyörälukollinen pistooli.
+**Pistooli, piikivimalli:** Pistooli, joka käyttää piikiveä ja terästä sytyttämään käsin ladatun ruutipanoksen. Samankaltainen kuin pyörälukko-pistooli.
 
-**Pistooli, raskas:** Raskasrakenteinen pistooli, jolla on ylivertainen pysäytysvoima. Hitaampi kuin pienemmät, kevyemmät pistoolit. .357 magnum on erinomainen esimerkki.
+**Pistooli, raskas:** Raskasrunkoinen pistooli, jolla on erinomainen pysäytysvoima. Hitaampi kuin pienemmät, kevyemmät pistoolit. .357 magnum on erinomainen esimerkki.
 
-**Pistooli, laser:** Pistooli, joka ampuu korkeaintensiteettisen valonsäteen, joka kykenee polttamaan läpi useimpien aineiden, jopa sulattamaan metallia. Yleensä toimii energiasolulla, jossa on rajoitettu määrä varauksia.
+**Pistooli, laser:** Pistooli, joka ampuu korkeaintensiivisen valonsäteen, joka kykenee polttamaan useimpien aineiden läpi, jopa sulattamaan metallia. Toimii yleensä energiasolulla, jossa on rajoitettu määrä varauksia.
 
-**Pistooli, kevyt:** Kevytrakenteinen pistooli, joka vaihtaa pysäytysvoiman tarkkuuteen ja tulinopeuteen. .22-kaliiperi on erinomainen esimerkki.
+**Pistooli, kevyt:** Kevytrunkoinen pistooli, joka vaihtaa pysäytysvoiman tarkkuuteen ja tulinopeuteen. .22-kaliiperi on erinomainen esimerkki.
 
-**Pistooli, keskikokoinen:** Keskirakenteinen pistooli, luotettava ja kohtalaisella tulivoimalla ja tulinopeudella. 9mm pistooli on erinomainen esimerkki.
+**Pistooli, keskikokoinen:** Keskikokoinen pistooli, luotettava ja kohtalaisella tulivoimalla ja tulinopeudella. 9mm pistooli on erinomainen esimerkki.
 
-**Pistooli, plasma:** Pistooli, joka ampuu fokusoitua superkuumennetun plasman virtaa, yleensä energia- tai plasmasolun toimittamana.
+**Pistooli, plasma:** Pistooli, joka ampuu kohdistetun suihkun ylikuumennettua plasmaa; toimii yleensä energia- tai plasmasolulla.
 
-**Pistooli, sähköisku:** Pistooli, joka lähettää korkeajännitteisen sähköpurkauksen.
+**Pistooli, isku:** Pistooli, joka lähettää korkeajännitteisen sähköpurkauksen.
 
-**Pistooli, ääni:** Pistooli, joka lähettää fokusoitua ääniaaltojen kartiota, vahingollinen sekä elävälle kudokselle että elottomalle aineelle.
+**Pistooli, ääni:** Pistooli, joka lähettää kohdistetun kartion ääniaaltoja, jotka vahingoittavat sekä elävää kudosta että elotonta ainetta.
 
-**Pistooli, tainnutus:** Pistooli, joka lähettää ihmisen hermoston kanssa samalla taajuudella olevan energiapurkauksen, lyhyen kantaman ase, joka on suunniteltu rauhoittamiseen. Hyödytön esineitä ja humanoidia suurempia olentoja vastaan, vaikka ne voidaan säätää muille kohteille. Kutsutaan joskus "tainnuttajaksi".
+**Pistooli, tainnutus:** Pistooli, joka lähettää ihmisen hermoston taajuudella olevan energiapurskeen; lyhyen kantaman ase, joka on suunniteltu rauhoittamiseen. Hyödytön esineitä ja ihmistä suurempia olentoja vastaan, vaikka niitä voidaan säätää muille kohteille. Kutsutaan joskus ”tainnuttajaksi”.
 
-**Rapier:** Ohutteräinen yksikätinen miekka, jota käytetään ensisijaisesti pistämiseen. Vaikka jokainen on ainutlaatuinen, tämä kuvaa myös epeetä ja florettia, kahta muuta miekkailumiekkaa.
+**Rapier:** Hoikatteräinen yhden käden miekka, jota käytetään ensisijaisesti pistämiseen. Vaikka jokainen on yksilöllinen, tämä kuvaa myös kalpaa ja florettia, kahta muuta miekkailumiekkaa.
 
 **Revolveri, raskas:** Suuren kaliiperin raskas pistooli, kuten .44 magnum tai Colt .45.
 
-**Revolveri, kevyt:** Kevyt pistooli, yleensä .22–.32 kaliiperin välillä.
+**Revolveri, kevyt:** Kevyt pistooli, yleensä .22– .32 kaliiperin välillä.
 
-**Revolveri, keskikokoinen:** Keskikokoinen pistooli, yleensä .357–.38 kaliiperin välillä.
+**Revolveri, keskikokoinen:** Keskikokoinen pistooli, yleensä .357– .38 kaliiperin välillä.
 
-**Rynnäkkökivääri:** Raskas, kestävä kivääri, jossa on suuri ammuskapasiteetti, ammutaan kuin konekivääriä (yksittäislaukaukset, lyhyet sarjat tai sarjatuli).
+**Rynnäkkökivääri:** Raskas, kestävä kivääri, jossa on suuri ammuskapasiteetti; ammutaan kuin konekivääriä (yksittäislaukaukset, lyhyet sarjat tai sarjatuli).
 
-**Kivääri, blaster:** Kivääri, joka ampuu lyhyitä energiasarjoja, yleensä plasmaa, joka polttaa ja aiheuttaa tärähdyksen. Blaster-kiväärit toimivat yleensä eksoottisia kemiallisia polttoaineita sisältävillä lippailla.
+**Kivääri, blaster:** Kivääri, joka ampuu lyhyitä energiasuihkuja, yleensä plasmaa, joka polttaa ja iskee tärähtävästi. Blaster-kiväärit toimivat yleensä eksoottisia kemiallisia polttoaineita sisältävillä lippailla.
 
-**Kivääri, pulttilukko:** Kivääri, jossa on liukuva pultti. Jotkut käyttävät lippaita, kun taas toiset varastoivat luoteja kiväärin piipun pituisissa makasiineissa.
+**Kivääri, pulttilukko:** Kivääri, jossa on liukuva lukko. Jotkut käyttävät lippaita, kun taas toiset säilyttävät luoteja kiväärin piipun pituisissa makasiineissa.
 
-**Kivääri, hajottaja:** Kivääri, joka lähettää äärimmäisen tuhoavan energiasarjan, joka hajottaa kohteen nopeasti tai suuria osia siitä. Hajottajakiväärit voidaan ladata energiasoluilla tai polttoainelippailla.
+**Kivääri, hajottaja:** Kivääri, joka lähettää erittäin tuhoisan energiasuihkun, joka hajottaa nopeasti koko kohteen tai suuria osia siitä. Hajottajakiväärit voivat toimia energiasoluilla tai polttoainelippailla.
 
-**Kivääri, norsunmetsästyskivääri:** Valtavan kaliiperin kivääri, joka on suunniteltu suurimpien riistaeläinten kaatamiseen. Joskus kaksipiippuinen, nämä ladataan usein piipun päästä, yksi paksu luoti kerrallaan.
+**Kivääri, norsunkaato:** Suuren kaliiperin kivääri, joka on suunniteltu kaatamaan suurimpia riistaeläimiä. Joskus kaksipiippuinen, nämä ovat usein taittuvia, yksi paksu luoti kerrallaan.
 
-**Kivääri, laser:** Kivääri, joka ampuu korkeaintensiteettisen valonsäteen, joka kykenee polttamaan läpi useimpien aineiden, jopa sulattamaan metallia. Laserkiväärit toimivat yleensä energiasoluilla, joissa on rajoitettu määrä varauksia.
+**Kivääri, laser:** Kivääri, joka ampuu korkeaintensiivisen valonsäteen, joka kykenee polttamaan useimpien aineiden läpi, jopa sulattamaan metallia. Laser-kiväärit toimivat yleensä energiasoluilla, joissa on rajoitettu määrä varauksia.
 
 **Kivääri, vipulukko:** Kivääri, jossa on ulkoinen vipu ammusten vaihtamiseen. Suosittu metsästäjien keskuudessa, vaikka epäkäytännöllinen sotilaskäyttöön.
 
-**Kivääri, sähkömagneettinen (EM) pulssi:** Sähkömagneettisen pulssipistoolin kivääriversio, joka lähettää fokusoitua sähkömagneettisen energian purkausta sähköä käyttävään tai elektroniseen kohteeseen.
+**Kivääri, sähkömagneettinen (EM) pulssi:** Sähkömagneettisen pulssipistoolin kivääriversio, joka lähettää kohdistetun sähkömagneettisen energian purkauksen sähköä käyttävään tai elektroniseen kohteeseen.
 
-**Kivääri, plasma:** Plasmapistoolin kivääriversio, joka kykenee ampumaan fokusoitua superkuumennetun plasman sarjaa kohteeseen.
+**Kivääri, plasma:** Plasmapistoolin kivääriversio, joka kykenee ampumaan kohdistetun ylikuumennetun plasman purkauksen kohteeseen.
 
-**Kivääri, sähköisku:** Sähköiskupistoolin kivääriversio, joka kykenee ampumaan salamanomaisen purkauksen huomattavalle etäisyydelle ja voimalla.
+**Kivääri, isku:** Iskupistoolin kivääriversio, joka kykenee ampumaan salamamaisen purkauksen huomattavalla kantamalla ja teholla.
 
-**Kivääri, ääni:** Äänipistoolin kivääriversio, joka ampuu kartiomaisen äänipulssisarjan kohteeseen.
+**Kivääri, ääni:** Äänipistoolin kivääriversio, joka ampuu kartion muotoisen äänipulssipurkauksen kohteeseen.
 
-**Kivääri, tarkkuuskivääri:** Pitkäpiippuinen kivääri, jota käytetään pitkän kantaman tulitukseen, tarkkuuskalibroitu ja yleensä varustettu pitkän kantaman tähtäimellä.
+**Kivääri, tarkkuus:** Pitkäpiippuinen kivääri, jota käytetään pitkän matkan tulitukseen; tarkasti kalibroitu ja yleensä varustettu kaukoputkella.
 
-**Kivääri, urheilukivääri:** Kevyen–keskikokoisen kaliiperin (.22 tai .30–06) kivääri, jota käytetään pienempien riistaeläinten, kuten peurojen, kaatamiseen.
+**Kivääri, urheilu:** Kevyt- tai keskikaliiperinen (.22 tai .30–06) kivääri, jota käytetään pienempien riistaeläinten, kuten peurojen, kaatamiseen.
 
-**Kivääri, tainnutus:** Kivääri, joka lähettää lyhyen kantaman energiapurkauksen, joka on ihmisen hermoston kanssa samalla taajuudella, tarkoitettu rauhoittamiseen. Hyödytön esineitä ja humanoidia suurempia olentoja vastaan, tainnutuskivääri voidaan säätää muille kohteille. Kutsutaan joskus "tainnuttajaksi".
+**Kivääri, tainnutus:** Kivääri, joka lähettää lyhyen kantaman energiapurskeen samalla taajuudella kuin ihmisen hermosto, tarkoitettu rauhoittamiseen. Hyödytön esineitä ja ihmistä suurempia olentoja vastaan, tainnutuskivääri voidaan säätää muille kohteille. Kutsutaan joskus ”tainnuttajaksi”.
 
 **Kivi, heitetty:** Kaikkein perustavanlaatuisin ase, nyrkin kokoinen kivi.
 
 **Sapeli:** Yksiteräinen, kaareva miekka, jota käyttävät yleisimmin ratsuväki ja miekkailijat.
 
-**Sai:** Kolmikärjen muotoinen tikarimainen ase, jossa on leveä kaareva ristikappale. Sai-aseilla ei ole terää, ja niitä käytetään nuijina, pistämisaseina tai miekan murtajina. Niitä käytetään usein pareittain.
+**Sai:** Kolmikärjen muotoinen tikarimainen ase, jossa on leveä kaareva poikkipuu. Sailla ei ole terää, ja niitä käytetään nuijina, pistotyökaluina tai miekanmurtajina. Käytetään usein pareittain.
 
-**Simitari:** Yksiteräinen, hieman kaareva, raskas teräinen miekka.
+**Sotaveitsi:** Yksiteräinen, hieman kaareva, raskasteräinen miekka.
 
-**Viikate:** Pitkävartinen maataloustyökalu, jossa on kaareva terä kohtisuorassa varteen nähden, käytetään viljan sadonkorjuuseen, mutta joskus seremonialliseen tarkoitukseen.
+**Viikate:** Pitkävartinen maataloustyökalu, jossa on varteen nähden kohtisuorassa oleva kaareva terä; käytetään viljan korjuuseen, mutta toisinaan myös seremoniallisiin tarkoituksiin.
 
-**Haulikko, automaattinen:** Haulikko, jossa on suuri ammuskapasiteetti ja automaattinen lataus, yleensä taistelu- tai poliisikäyttöön.
+**Haulikko, automaattinen:** Haulikko, jossa on suuri ammuskapasiteetti ja automaattinen lataus, yleensä taistelukentän tai poliisin käyttöön.
 
-**Haulikko, kaksipiippuinen:** Piippujen kautta ladattava haulikko.
+**Haulikko, kaksipiippuinen:** Taittuva haulikko.
 
-**Haulikko, katkaistu:** Urheilu- tai kaksipiippuinen haulikko, jossa on lyhyempi piippu, käsin muokattu tai valmistettu piilottamisen helpottamiseksi ja mukavuuden vuoksi. Lyhyempi piippu vaihtaa kantaman laajempaan ammusten hajoamiseen.
+**Haulikko, katkaistu:** Urheilu- tai kaksipiippuinen haulikko, jossa on lyhyempi piippu; käsin muokattu tai valmistettu piilottamisen helpottamiseksi ja mukavuuden vuoksi. Lyhyempi piippu vaihtaa kantaman laajempaan ammusten hajontaan.
 
-**Haulikko, urheiluhaulikko:** Keskikokoinen tai kevyt haulikko (16- tai 20-kaliiperinen), käytetään metsästykseen ja kodinsuojeluun.
+**Haulikko, urheilu:** Keski- tai kevytkaliiperinen (16- tai 20-kaliiperinen) haulikko, jota käytetään metsästykseen ja kodin suojaamiseen.
 
-**Shuriken:** Pieniä heittoteriä, usein tähden muotoisia. Helppoja piilottaa ja salamurhaajien suosikkeja.
+**Shuriken:** Pieniä heittoteriä, usein tähden muotoisia. Helppo piilottaa, salamurhaajien suosikki.
 
-**Sirppi:** Kuun muotoinen litteä terä, yksiteräinen sisäpuolelta, käytetään yhdellä kädellä viljan sadonkorjuuseen tai seremoniallisiin tarkoituksiin.
+**Sirppi:** Puolikuun muotoinen litteä terä, jossa on yksiteräinen sisäreuna; käytetään yhdellä kädellä viljan korjuuseen tai seremoniallisiin tarkoituksiin.
 
-**Linko:** Nahkainen hihna, jossa on kuppi tai syvennys kiven tai linkopallon pitelemiseen, pyöritetty ja heitetty uskomattomalla voimalla kohteeseen.
+**Linko:** Nahkainen hihna, jossa on kuppi tai syvennys kiven tai lingonammuksen pitämiseksi; pyöritetään ja heitetään uskomattomalla voimalla kohteeseen.
 
-**Keihäs, pitkä keihäs:** Noin kaksi metriä pitkä puunpätkä, jossa on metallinen tai piikivinen pää tai tulessa kovetettu kärki. Näitä on käytettävä kahdella kädellä. Pitkillä keihäillä aseistetut hahmot iskevät usein ensimmäisenä taistelukierroksella.
+**Keihäs, pitkä:** Noin kahden metrin pituinen puunvarsi, jossa on metalli- tai piikivikärki tai tulessa karkaistu kärki. Näitä on käytettävä kahdella kädellä. Pitkillä keihäillä aseistetut hahmot iskevät usein ensin taistelukierroksella.
 
-**Keihäs, lyhyt keihäs:** Noin 1,5 metriä pitkä puunpätkä, jossa on metallinen tai piikivinen pää tai tulessa kovetettu kärki. Lyhyitä keihäitä voidaan käyttää yhdellä tai kahdella kädellä, tai heittää.
+**Keihäs, lyhyt:** Noin 1,5 metrin pituinen puunvarsi, jossa on metalli- tai piikivikärki tai tulessa karkaistu kärki. Lyhyitä keihäitä voi käyttää yhdellä tai kahdella kädellä tai heittää.
 
-**Suihke, kemiallinen:** Kemiallinen ärsyke, joka suihkutetaan pienestä suihkuttimesta yleensä kohteen silmiin. Lyhyen kantaman ja ei-tappava.
+**Suihke, kemiallinen:** Pienestä suihkuttimesta heijastettava kemiallinen ärsyke, yleensä kohteen silmiin. Lyhyen kantaman ja tappamaton.
 
-**Sauva, neljännessauva:** Pitkä puusauva, jota käytetään usein kävelysauvana, hyödyllinen puolustautumiseen ja hyökkäämiseen.
+**Sauva, neljännes:** Pitkä puusauva, jota käytetään usein kävelysauvana, hyödyllinen puolustautumiseen ja hyökkäämiseen.
 
-**Sauva, lyhyt sauva:** Lyhyt, kapea puunuija, kuten poliisin pamppu.
+**Sauva, lyhyt:** Lyhyt, kapea puunuija, kuin poliisin pamppu.
 
 **Miekkakeppi:** Ohutteräinen miekka, joka on naamioitu sopimaan kepin sisään.
 
-**Miekka, bastard-miekka:** Suora, yksi- tai kaksiteräinen miekka, yli metrin pitkä, pitkällä kahvalla, jota käytetään yhdellä tai kahdella kädellä.
+**Miekka, bastard:** Suora, yksiteräinen tai kaksiteräinen miekka, yli metrin pituinen, pitkällä kahvalla, jota käytetään yhdellä tai kahdella kädellä.
 
-**Miekka, leveämiekka:** Suora, yksi- tai kaksiteräinen miekka, noin metrin pitkä, käytetään yhdellä kädellä. Joissakin on korikahva.
+**Miekka, leveä:** Suora, yksiteräinen tai kaksiteräinen miekka, noin metrin pituinen, jota käytetään yhdellä kädellä. Joissakin on korikahva.
 
-**Miekka, energiamiekka:** Kahva, joka sisältää muotoillun kentänlähettimen, joka heijastaa miekan pituisen energiaterän, kuin fokusoitu valonsäde. Energiamiekat käyttävät virtapaketteja, ja vaativat usein kalliita tai harvinaisia fokusoivia kristalleja.
+**Miekka, energia:** Kahva, joka sisältää muotoillun kenttäemitterin, joka heijastaa miekan pituisen energiaterän, kuin kohdistetun valonsäteen. Energiamiekat käyttävät virtalähteitä ja vaativat usein kalliita tai harvinaisia tarkennuskristalleja.
 
-**Miekka, suurmiekka:** Suora, kaksiteräinen miekka, lähes kaksi metriä pitkä, käytetään kahdella kädellä, usein keihäsmuodostelmia vastaan.
+**Miekka, suuri:** Suora, kaksiteräinen miekka, lähes kaksi metriä pitkä, jota käytetään kahdella kädellä, usein keihäsmuodostelmia vastaan.
 
-**Miekka, pitkämiekka:** Suora, yksi- tai kaksiteräinen miekka, joskus korikahvalla, käytetään yhdellä kädellä. Kevyempi ja ohuempi kuin leveämiekka.
+**Miekka, pitkä:** Suora, yksiteräinen tai kaksiteräinen miekka, joskus korikahvalla, jota käytetään yhdellä kädellä. Kevyempi ja hoikempi kuin leveämiekka.
 
-**Miekka, monofilamenttimiekka:** Hienostunut ase, joka koostuu tarkalleen yhden molekyylin paksuisesta terästä, joka on asetettu staasiin kahvan generaattorilla. Koska terä pystyy liukumaan atomien väliin, se kykenee leikkaamaan lähes minkä tahansa läpi. Koska terä on lähes näkymätön, sitä on erittäin vaikea käyttää, ja moka voi olla kohtalokas.
+**Miekka, monofilamentti:** Hienostunut ase, joka koostuu tarkalleen yhden molekyylin paksuisesta terästä, joka on asetettu stasikseen kahvan generaattorilla. Koska terä kykenee liukumaan atomien väliin, se kykenee leikkaamaan lähes minkä tahansa läpi. Koska terä on lähes näkymätön, sitä on erittäin vaikea käyttää, ja kömmähdys voi olla kohtalokas.
 
-**Miekka, lyhyttiekka:** Yksi- tai kaksiteräinen miekka, yleensä puolen metrin pituinen.
+**Miekka, lyhyt:** Yksiteräinen tai kaksiteräinen miekka, yleensä puoli metriä pitkä.
 
-**Miekka, vibromiekka:** Pidempi versio vibroveitsestä. Kahva, joka sisältää pitkän miekkamaisen terän, joka värisee suurella nopeudella, kykenee leikkaamaan useimpien aineiden läpi.
+**Miekka, vibro-:** Pidempi versio vibroveitsestä. Kahva sisältää pitkän miekkamaisen terän, joka värisee suurella nopeudella ja kykenee leikkaamaan useimpien aineiden läpi.
 
-**Taser, kontakti:** Pieni käsikäyttöinen sähkölaite, joka on suunniteltu häiritsemään kohteen hermostoa, tyrmäten heidät hetkellisesti.
+**Taser, kosketus:** Pieni kädessä pidettävä sähkölaite, joka on suunniteltu häiritsemään kohteen hermotoimintaa, tainnuttaen heidät hetkellisesti.
 
-**Taser, nuoli:** Käsikäyttöinen taser, joka ampuu kaksi pientä nuolta, joihin on kiinnitetty johdot. Kun nämä osuvat kohteeseen, taser lähettää häiritsevän sähkövarauksen, joka yleensä tyrmää tai lamauttaa.
+**Taser, nuoli:** Kädessä pidettävä taser, joka ampuu kaksi pientä nuolta, joissa on johdot. Kun ne osuvat kohteeseen, taser lähettää häiritsevän sähköpurkauksen, joka yleensä tainnuttaa tai lamauttaa.
 
-**Soihtu:** Paksu puukeppi, jonka toinen pää on kastettu pihkaan tai muuhun polttoaineeseen, joskus kääritty rättiin. Sytytettynä ja valoa varten käytettynä soihdut ovat usein käytössä improvisoituina aseina.
+**Soihtu:** Paksu puunkappale, jonka toinen pää on kastettu pihkaan tai muuhun polttoaineeseen, joskus kääritty rättiin. Sytytetään ja käytetään valona; soihtuja käytetään usein improvisoituina aseina.
 
-**Kolmikärki:** Kolmipiikkinen keihäs, kuin haarukka, jossa on kaarevat sivupiikit. Kolmikärjissä on yleensä väkäpäät, jotka tarttuvat kohteen lihaan.
+**Kolmikärki:** Kolmipiikkinen keihäs, kuin haarukka, jossa on kaarevat sivupiikit. Kolmikärjissä on yleensä väkäselliset kärjet, jotka tarttuvat kohteen lihaan.
 
-**Wakizashi:** Lyhyen miekan versio katanasta, usein tehty täsmääväksi pariksi. Joissakin on pieniä veitsiä rakennettuna tuppiin.
+**Wakizashi:** Katanan lyhyt miekkaversio, valmistetaan usein yhteensopivana parina. Joissakin on pieniä veitsiä rakennettuna tuppiin.
 
-**Ruoska:** Kierrettyn toisiinsa kiedottu nahkaköysi, jossa on kahva toisessa päässä, käytetään vastustajan lyömiseen tai raajan kiinni ottamiseen ja lamauttamiseen (katso **Sotkeminen**).
+**Ruoska:** Kierteinen ja kudottu nahkaköysi, jonka toisessa päässä on kahva; käytetään vastustajan lyömiseen tai raajan kiinni ottamiseen ja lamauttamiseen (katso **Sitominen**).
 
-**Ruoska, sähköruoska:** Metallinen ruoska, joka tuottaa korkeajännitteisen sähkövirran, joka vapautuu kohteeseen, kun se osuu onnistuneesti.
+**Ruoska, isku:** Metallinen ruoska, joka tuottaa korkeajännitteisen sähkövirran, joka vapautuu kohteeseen, kun se osuu onnistuneesti.### Aseluokat
 
-### Aseiden luokat
+Luvussa 3: Taidot olevat kuvaukset Raskas ase, Lähitaisteluase ja Ampuma-ase viittaavat asespesialisaatioihin ja **aseluokkiin**. Aseluokka on karkea ryhmä, johon ase kuuluu, kun taas **spesialisaatio** on hahmosi taito käyttää kyseisen luokan aseita. Aseet jaetaan luokkiin ja taidot spesialisaatioihin. Jokainen aseluokka on lueteltu alla esimerkkeineen. Jotkin aseet kuuluvat useaan luokkaan riippuen siitä, miten niitä käytetään.
 
-Aseiden kuvaukset Raskas ase-, Lähitaisteluase- ja Heittoase-taidoissa luvussa kolme (Taidot) viittaavat aseryhmiin ja **aseluokkiin**. Aseluokka on karkea ryhmä, johon ase kuuluu, kun taas **erikoisala** on hahmosi taito käyttää kyseisen luokan aseita. Aseet kuuluvat luokkiin, ja taidot erikoisaloihin. Jokainen aseluokka on listattu alla, erityisesimerkein. Jotkut aseet kuuluvat useisiin luokkiin, riippuen siitä, miten niitä käytetään.
+* **Kirves:** Taistelukirves, suurkirves, heittokirves, vibro-kirves, puunhakkuukirves.
 
-* **Kirves:** Taistelukirves, suurkirves, käsikirves, vibrokirves, puunhakkuukirves.
-* **Jousi:** Komposiittijousi, pitkäjousi, perusjousi.
-* **Brawl (Nyrkkitaistelu):** Nyrkki, pääpuskut, potku.
+* **Jousi:** Komposiittijousi, pitkäjousi, perinteinen jousi.
+
+* **Tappelu:** Nyrkki, puskupää, potku.
+
 * **Nuija:** Raskas nuija, kevyt nuija, sai, lyhyt sauva.
-* **Varsijousi:** Arbalesti, piiritysarbalesti, raskas varsijousi, kevyt varsijousi, keskikokoinen varsijousi, toistava varsijousi.
-* **Tikari:** Teurastajan veitsi, tikari, veitsi, taskuveitsi, linkkuveitsi, vibroveitsi, sai.
-* **Räjähde:** Antimateriadetonaattori, henkilömiina, panssarimiina, sytytin, dynamiitti, sähkömagneettisen pulssin detonaattori, fuusiodetonaattori, improvisoitu räjähde, plasmadetonaattori, muoviräjähde, äänidetonaattori.
-* **Ruoska:** Ruoska, aamutähtiruoska, ruoska.
-* **Kranaatti:** Antimateriakranaatti, tärähdyskranaatti, hajottajakranaatti, sähkömagneettisen pulssin kranaatti, räjähdekranaatti, soihtukranaatti, fuusiokranaatti, kaasukranaatti, kranaatinheitin, LAW-raketinheitin, Molotovin cocktail, fosforikranaatti, plasmakranaatti, raketinheitin, sähköiskukranaatti, sirpalekranaatti, savukranaatti, äänikranaatti, tainnutuskranaatti.
-* **Vasara:** Vasara, suuri vasara, leka, sotavasara, sotalekka.
-* **Käsi:** Panssaroitu gauntlet, blackjack, nyrkkiraudat, cestii, kynsi, kuristusnaru.
-* **Improvisoitu:** Moottorisaha, heitetty kivi, viikate, sirppi, soihtu.
-* **Nuija:** Raskas nuija, kevyt nuija.
+
+* **Varsijousi:** Arbalesti, piiritysarbalesti, raskas varsijousi, kevyt varsijousi, keskikokoinen varsijousi, toistovarsijousi.
+
+* **Tikari:** Teurastusveitsi, tikari, veitsi, taskuveitsi, linkkuveitsi, vibro-veitsi, sai.
+
+* **Räjähteet:** Antimateriaräjähdin, jalkaväkimiina, panssarimiina, sytytin, dynamiitti, sähkömagneettinen pulssiräjähdin, fuusioräjähdin, improvisoitu räjähde, plasmaräjähdin, muoviräjähde, ääniräjähdin.
+
+* **Piiska:** Piiska, aamutähti-piiska, ruoska.
+
+* **Käsikranaatti:** Antimateriakranaatti, paineaaltokranaatti, hajottajakranaatti, sähkömagneettinen pulssikranaatti, räjähdekranaatti, soihtukranaatti, fuusiokranaatti, kaasukranaatti, kranaatinheitin, LAW-raketinheitin, Molotovin cocktail, fosforikranaatti, plasmakranaatti, raketinheitin, shokkikranaatti, sirpalekranaatti, savukranaatti, äänikranaatti, tainnutuskranaatti.
+
+* **Vasara:** Vasara, suurvasara, leka, sotavasara, sotanuija.
+
+* **Käsi:** Panssaroitu hansikas, pamppu, nyrkkirauta, cestii, kynsi, kuristusvaijeri.
+
+* **Improvisoitu:** Moottorisaha, heittokivi, viikate, sirppi, soihtu.
+
+* **Nuija (mace):** Raskas nuija, kevyt nuija.
+
 * **Konekivääri:** Konekivääri, minigun, konepistooli.
-* **Heittoase:** Puhallusputki, bola, bumerangi, tikari, nuoli, käsikirves, heittokeihäs, shuriken, linko, heittoveitsi.
-* **Pistooli, Energia:** Blaster-pistooli, hajottajapistooli, sähkömagneettisen pulssin pistooli, laserpistooli, plasmapistooli, sähköiskupistooli, äänipistooli, tainnutuspistooli.
-* **Pistooli:** Derringer, flechette-pistooli, piikkilukkopistooli, raskas pistooli, kevyt pistooli, keskikokoinen pistooli.
-* **Varsiaset:** Hilpari, peitsi, naginata, pike, viikate, kolmikärki.
+
+* **Ohjus:** Puhallusputki, bola, bumerangi, tikari, tikka, heittokirves, keihäs, heittotähti, linko, heittoveitsi.
+
+* **Pistooli, energia:** Blaster-pistooli, hajottajapistooli, sähkömagneettinen pulssipistooli, laserpistooli, plasmapistooli, shokkipistooli, äänipistooli, tainnutuspistooli.
+
+* **Pistooli:** Derringer, flechette-pistooli, piilukko-pistooli, raskas pistooli, kevyt pistooli, keskikokoinen pistooli.
+
+* **Varsiase:** Hilpari, peitsi, naginata, seiväs, viikate, kolmikärki.
+
 * **Revolveri:** Raskas revolveri, kevyt revolveri, keskikokoinen revolveri.
-* **Kivääri, Energia:** Blaster-kivääri, hajottajakivääri, sähkömagneettisen pulssin kivääri, laserkivääri, plasmakivääri, sähköiskukivääri, äänikivääri, tainnutuskivääri.
-* **Kivääri:** Rynnäkkökivääri, pulttilukkoinen kivääri, norsunmetsästyskivääri, vipulukollinen kivääri, musketti, tarkkuuskivääri, urheilukivääri.
-* **Haulikko:** Automaattihaulikko, kaksipiippuinen haulikko, katkaistu haulikko, urheiluhaulikko.
-* **Keihäs:** Heittokeihäs, peitsi, pitkä keihäs, naginata, pike, lyhyt keihäs, kolmikärki.
-* **Sauva:** Neljännessauva, lyhyt sauva.
+
+* **Kivääri, energia:** Blaster-kivääri, hajottajakivääri, sähkömagneettinen pulssikivääri, laserkivääri, plasmakivääri, shokkikivääri, äänikivääri, tainnutuskivääri.
+
+* **Kivääri:** Rynnäkkökivääri, pulttilukkoinen kivääri, norsunmetsästyskivääri, vipulukkokivääri, musketti, tarkkuuskivääri, metsästyskivääri.
+
+* **Haulikko:** Automaattihaulikko, kaksipiippuinen haulikko, katkaistupiippuinen haulikko, metsästyshaulikko.
+
+* **Keihäs:** Keihäs, peitsi, pitkä keihäs, naginata, seiväs, lyhyt keihäs, kolmikärki.
+
+* **Sauva:** Pitkä sauva, lyhyt sauva.
+
 * **Konepistooli:** Konepistooli.
-* **Miekka:** Bastard-miekka, leveämiekka, energiamiekka, suurmiekka, katana, pitkämiekka, monofilamenttimiekka, rapier, sapeli, simitari, lyhyttiekka, sirppi, miekkakeppi, vibromiekka, wakizashi.
-* **Muu:** Kemiallinen suihke, kontakti-taser, nuoli-taser, liekinheitin, lasso, verkko, sähköruoska, ruoska.
 
-### Saman luokan aseiden käyttäminen
+* **Miekka:** Bastardimiekka, leveämiekka, energiamiekka, suurmiekka, katana, pitkämiekka, monofilamenttimiekka, rapier, sapeli, skimitaari, lyhytyksemiekka, sirppi, miekkakeppi, vibro-miekka, wakizashi.
 
-Käytä taitoerikoisalaasi kaikkien kyseisen luokan aseiden kanssa. Tämä yleistys tarkoittaa, että hahmosi voi käyttää useimpia samankaltaisia aseita ilman haittaa.
+* **Muu:** Kemikaalisuihke, kosketustaseri, tikkutaseri, liekinheitin, lassonheitin, verkko, shokkipiiska, piiska.
 
-**Esimerkiksi,** jos hahmollasi on taito Lähitaisteluase (Miekka), tämä pätee pitkämiekkoihin, leveämiekkoihin, lyhyisiin miekkoihin jne., aivan kuten Tuliase (Revolveri) pätee kevyisiin, keskikokoisiin ja raskaisiin revolvereihin.
+### Saman aseluokan aseiden käyttäminen
 
-### Eri luokan aseiden käyttäminen
+Käytä taitospesialisaatiotasi kaikkien kyseisen luokan aseiden kanssa. Tämä yleistys tarkoittaa, että hahmosi voi käyttää useimpia samankaltaisia aseita ilman haittaa.
 
-Jos sinulla on taito yhdessä aseluokassa, pelinjohtaja voi sallia hahmosi käyttää samankaltaista asetta eri luokassa samalla taitotasolla ikään kuin taito olisi Vaikea.
+**Esimerkiksi:** jos hahmollasi on taito Lähitaisteluase (Miekka), tämä koskee pitkämiekkoja, leveämiekkoja, lyhytmiekkoja jne., aivan kuten Ampuma-ase (Revolveri) koskee kevyt-, keskikokoisia ja raskaita revolvereita.### Aseiden käyttäminen eri luokista
 
-**Esimerkiksi,** jos hahmollasi on Heittoase (Jousi) 60 %, pelinjohtaja voi sallia varsijousien (eri aseluokka) käytön Vaikeana Heittoase (Jousi) -taitona, väliaikaisena taitotasona 30 %.
+Jos hallitset yhden aseluokan, pelinjohtajasi voi sallia hahmosi käyttää samankaltaista asetta toisesta luokasta samalla taitotasolla kuin jos taito olisi vaikea (Difficult).
 
-Jos väliaikaisella taitotasolla käyttäminen onnistuu ja kokemusta kertyy, kokemuspisteheitto tehdään perustodennäköisyydestä eikä väliaikaisesta taitotasosta. Kokemuspisteet lisätään ase- tai asetaidon perustodennäköisyyteen väliaikaisen taitotason sijaan. Kun hahmosi ylittää väliaikaisen taitotason, todellisesta taitotasosta tulee oletusarvo.
+**Esimerkiksi:** jos hahmollasi on Ampuma-ase (Jousi) 60 %, pelinjohtajasi voi sallia varsijousien (eri aseluokka) käytön vaikeana Ampuma-ase (Jousi) -taitona, jolloin väliaikainen taitotaso on 30 %.
 
-##### Alkeelliset lähitaisteluaseet
+Jos väliaikaisella taitotasolla varustetun aseen käyttö onnistuu ja kokemusta kertyy, kokemuspisteheitto tehdään perusmahdollisuudesta eikä väliaikaisesta taitotasosta. Mahdollinen kokemuskertymä lisätään aseen tai asetaitojen perusmahdollisuuteen, ei väliaikaiseen taitotasoon. Kun hahmosi taito ylittää väliaikaisen taitotason, varsinaisesta taitotasosta tulee oletusarvoinen.
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Kantama | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+##### Primitiiviset lähitaisteluaseet
+
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kantama | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirves, käsikirves | Kirves | 15 | 1D6+1+dm | 1 | Verenvuoto | Lyhyt | 1K | 12 | Kyllä | 7/9 | — | Halpa | 0.5 |
-| Nuija, raskas | Nuija | 25 | 1D8+dm | 1 | Murskaus | Keskipitkä | 2K | 22 | Kyllä | 9/7 | — | Halpa | 2.0 |
-| Nuija, kevyt | Nuija | 25 | 1D6+dm | 1 | Murskaus | Keskipitkä | 1K | 15 | Kyllä | 7/7 | — | Halpa | 1.0 |
-| Nyrkki | Brawl | 25 | 1D3+dm | 1 | Murskaus | Lyhyt | 1K | — | Ei1 | — | — | — | — |
-| Paini | Brawl | 25 | Erikois2 | 1 | Sotkeminen | Lyhyt | 2K | — | Ei3 | — | — | — | — |
-| Pääpuskut | Brawl | 25 | 1D3+dm | 1 | Murskaus | Lyhyt | — | — | Ei | — | — | — | — |
-| Potku | Brawl | 25 | 1D3+dm | 1 | Murskaus | Lyhyt | — | — | Ei | — | — | — | — |
-| Veitsi | Tikari | 25 | 1D3+1+dm | 1 | Pisto | Lyhyt | 1K | 15 | Kyllä | 4/4 | — | Halpa | 0.2 |
-| Verkko | Muu | 05 | Erikois4 | 1 | Sotkeminen | Keskipitkä | 1K/2K | 6 | Kyllä | 12/10 | 96–005 | Halpa | 3.0 |
-| Keihäs, pitkä | Keihäs | 15 | 1D10+1+dm | 1 | Pisto | Pitkä | 2K | 15 | Kyllä | 11/9 | — | Halpa | 2.0 |
-| Keihäs, lyhyt | Keihäs | 15 | 1D6+1+dm | 1 | Pisto | Pitkä | 1K/2K | 15 | Kyllä | 7/8 | — | Halpa | 2.0 |
-| Soihtu | Nuija | 25 | 1D6+liekki6 | 1 | Murskaus | Keskipitkä | 1K | 15 | Kyllä | 6/9 | 96–007 | — | 1.0 |
+| Kirves, käsi | Kirves | 15 | 1D6+1+dm | 1 | Verenvuoto | Lyhyt | 1H | 12 | Kyllä | 7/9 | — | Halpa | 0.5 |
+| Nuija, raskas | Nuija | 25 | 1D8+dm | 1 | Murskaava | Keskipitkä | 2H | 22 | Kyllä | 9/7 | — | Halpa | 2.0 |
+| Nuija, kevyt | Nuija | 25 | 1D6+dm | 1 | Murskaava | Keskipitkä | 1H | 15 | Kyllä | 7/7 | — | Halpa | 1.0 |
+| Nyrkki | Nujakointi | 25 | 1D3+dm | 1 | Murskaava | Lyhyt | 1H | — | Ei1 | — | — | — | — |
+| Painiote | Nujakointi | 25 | Erikois2 | 1 | Kietova | Lyhyt | 2H | — | Ei3 | — | — | — | — |
+| Puskeminen | Nujakointi | 25 | 1D3+dm | 1 | Murskaava | Lyhyt | — | — | Ei | — | — | — | — |
+| Potku | Nujakointi | 25 | 1D3+dm | 1 | Murskaava | Lyhyt | — | — | Ei | — | — | — | — |
+| Veitsi | Tikari | 25 | 1D3+1+dm | 1 | Lävistävä | Lyhyt | 1H | 15 | Kyllä | 4/4 | — | Halpa | 0.2 |
+| Verkko | Muu | 05 | Erikois4 | 1 | Kietova | Keskipitkä | 1H tai 2H | 6 | Kyllä | 12/10 | 96–005 | Halpa | 3.0 |
+| Keihäs, pitkä | Keihäs | 15 | 1D10+1+dm | 1 | Lävistävä | Pitkä | 2H | 15 | Kyllä | 11/9 | — | Halpa | 2.0 |
+| Keihäs, lyhyt | Keihäs | 15 | 1D6+1+dm | 1 | Lävistävä | Pitkä | 1H tai 2H | 15 | Kyllä | 7/8 | — | Halpa | 2.0 |
+| Soihtu | Nuija | 25 | 1D6+liekki6 | 1 | Murskaava | Keskipitkä | 1H | 15 | Kyllä | 6/9 | 96–007 | — | 1.0 |
 
-##### Alkeelliset heittoaseet
+##### Primitiiviset etäaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Et | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC | TT |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kant | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirves, käsikirves (heitto) | Kirves | 10 | 1D6+½dm | 1 | Verenvuoto | 20 | 1K | 12 | Ei | 9/11 | — | Halpa | 0.5 | 1/KR |
-| Puhallusputki | Puhallus | 10 | 1D38 | 1 | Pisto | 30 | 2K | 49 | Ei | /11 | — | Halpa | 0.5 | 1/KR |
-| Bola (vahingoittava) | Bola | 05 | 1D4+½dm | 1 | Murskaus | 15 | 1K | 1 | Ei | 9/13 | — | Halpa | 3.0 | 1/KR |
-| Bola (sotkeva) | Bola | 05 | Erikois4 | 1 | Sotkeminen | 15 | 1K | 1 | Ei | 9/13 | — | Halpa | 3.0 | 1/KR |
-| Bumerangi | Bumerangi | 05 | 1D4+½dm | ½10 | Murskaus | 50 | 1K | 3 | Ei | 9/11 | — | Halpa | 0.5 | 1/KR |
-| Jousi, perusjousi | Jousi | 10 | 1D6+1+½dm | 1 | Pisto | 80 | 2K | 6 | Ei | 9/9 | — | Halpa | 0.5 | 1/KR |
-| Nuija, kevyt (heitto) | Heitto | Heitto | 1D6+½dm | 1 | Murskaus | 20 | 1K | 15 | Ei | 9/7 | — | Halpa | 1.0 | 1/KR |
-| Nuoli | Nuoli | 10 | 1d6+½dm11 | 1 | Pisto | 20 | 1K | 4 | Ei | /9 | — | Halpa | 0.5 | 1/KR |
-| Keihäs, lyhyt | Keihäs | 15 | 1D6+½dm | 1 | Pisto | 25 | 1K | 10 | Ei | 9/9 | — | Halpa | 1.5 | 1/KR |
-| Veitsi (heitto) | Heittoveitsi | 15 | 1D3+½dm | 1 | Pisto | 10 | 1K | 15 | Ei | 7/11 | — | Halpa | 0.2 | 1/KR |
-| Lasso | Muu | 05 | Erikois4 | ½ | Sotkeminen | 10 | 2K | 1 | Ei | 9/13 | — | Halpa | 1.0 | 1/5KR |
-| Verkko (heitto) | Muu | 05 | Erikois4 | 1 | Sotkeminen | 5 | 1K | 6 | Ei | 9/12 | 96–0012 | Halpa | 3.0 | 1/3KR |
-| Kivi (heitto) | Heitto | Heitto | 1D2+½dm | 2 | Murskaus | 20 | 1K | 20 | Ei | 5/5 | — | — | .05 | 1/KR |
-| Linko | Linko | 05 | 1D8+½dm | 1 | Murskaus | 80 | 1K | 2/1313 | Ei | 7/11 | — | Halpa | 0.1 (.1)14 | 1/KR |
-| Keihäs, lyhyt (heitto) | Keihäs | 05 | 1D6+1+½dm | 1 | Pisto | 15 | 1K | 15 | Ei | 12/10 | — | Halpa | 2.0 | 1/KR |
-| Keihäs, pitkä (heitto) | Keihäs | 05 | 1D10+1+½db | 1 | Pisto | 15 | 1K | 15 | Ei | 12/10 | — | Halpa | 2.0 | 1/KR |
+| Kirves, käsi (heitto) | Kirves | 10 | 1D6+½dm | 1 | Verenvuoto | 20 | 1H | 12 | Ei | 9/11 | — | Halpa | 0.5 | 1/CR |
+| Puhallusputki | Puhallusputki | 10 | 1D38 | 1 | Lävistävä | 30 | 2H | 49 | Ei | /11 | — | Halpa | 0.5 | 1/CR |
+| Bola (vahingoittava) | Bola | 05 | 1D4+½dm | 1 | Murskaava | 15 | 1H | 1 | Ei | 9/13 | — | Halpa | 3.0 | 1/CR |
+| Bola (sitova) | Bola | 05 | Erikois4 | 1 | Kietova | 15 | 1H | 1 | Ei | 9/13 | — | Halpa | 3.0 | 1/CR |
+| Bumerangi | Bumerangi | 05 | 1D4+½dm | ½10 | Murskaava | 50 | 1H | 3 | Ei | 9/11 | — | Halpa | 0.5 | 1/CR |
+| Jousi, yksinkertainen | Jousi | 10 | 1D6+1+½dm | 1 | Lävistävä | 80 | 2H | 6 | Ei | 9/9 | — | Halpa | 0.5 | 1/CR |
+| Nuija, kevyt (heitto) | Heitto | Heitto | 1D6+½dm | 1 | Murskaava | 20 | 1H | 15 | Ei | 9/7 | — | Halpa | 1.0 | 1/CR |
+| Tikka | Tikka | 10 | 1d6+½dm11 | 1 | Lävistävä | 20 | 1H | 4 | Ei | /9 | — | Halpa | 0.5 | 1/CR |
+| Keihäs (heitto) | Keihäs | 15 | 1D6+½dm | 1 | Lävistävä | 25 | 1H | 10 | Ei | 9/9 | — | Halpa | 1.5 | 1/CR |
+| Veitsi (heitto) | Veitsenheitto | 15 | 1D3+½dm | 1 | Lävistävä | 10 | 1H | 15 | Ei | 7/11 | — | Halpa | 0.2 | 1/CR |
+| Lasso | Muu | 05 | Erikois4 | ½ | Kietova | 10 | 2H | 1 | Ei | 9/13 | — | Halpa | 1.0 | 1/5CR |
+| Verkko (heitto) | Muu | 05 | Erikois4 | 1 | Kietova | 5 | 1H | 6 | Ei | 9/12 | 96–0012 | Halpa | 3.0 | 1/3CR |
+| Kivi (heitto) | Heitto | Heitto | 1D2+½dm | 2 | Murskaava | 20 | 1H | 20 | Ei | 5/5 | — | — | .05 | 1/CR |
+| Linko | Linko | 05 | 1D8+½dm | 1 | Murskaava | 80 | 1H | 2/1313 | Ei | 7/11 | — | Halpa | 0.1 (.1)14 | 1/CR |
+| Keihäs, lyhyt (heitto) | Keihäs | 05 | 1D6+1+½dm | 1 | Lävistävä | 15 | 1H | 15 | Ei | 12/10 | — | Halpa | 2.0 | 1/CR |
+| Keihäs, pitkä (heitto) | Keihäs | 05 | 1D10+1+½db | 1 | Lävistävä | 15 | 1H | 15 | Ei | 12/10 | — | Halpa | 2.0 | 1/CR |
 
-1. Brawl voi torjua Brawl- tai Paini-hyökkäyksiä (katso Brawl-taito).
-2. Katso Paini-taito.
-3. Paini voi torjua Brawl- tai Paini-hyökkäyksiä (katso Paini-taito).
-4. Katso **Sotkeminen**.
-5. Verkon moka tarkoittaa sen sotkeutumista, mikä vaatii täyden kierroksen ja onnistuneen Vaikean Ketteryys-heiton avaamiseen.
+1. Nujakointi voi torjua Nujakointi- tai Painiote-hyökkäyksiä (katso Nujakointi-taito).
+2. Katso Painiote-taito.
+3. Painiote voi torjua Nujakointi- tai Painiote-hyökkäyksiä (katso Painiote-taito).
+4. Katso **Kietova**.
+5. Verkon toimintahäiriö tarkoittaa, että se on sotkeutunut; sen selvittämiseen menee täysi kierros ja onnistunut vaikea Ketteryysheitto.
 6. Katso **Tuli**.
-7. Moka tarkoittaa soihtu sammuu.
-8. Puhallusputken nuolet ovat yleensä myrkytettyjä (katso **Myrkyt**).
-9. Puhallusputkella on 4 osumapistettä ja puhallusputken nuolilla on 0 tai 1 osumapiste.
-10. Jos heität bumerangin palaamaan, tee Ketteryys-heitto saadaksesi sen kiinni seuraavalla kierroksella. Jos heität useita bumerangeja, hyökkäysnopeus on 1 per kierros.
-11. Nuolet ovat usein myrkytettyjä (katso **Myrkyt**).
-12. Verkon moka tarkoittaa sen sotkeutumista, mikä vaatii täyden kierroksen ja onnistuneen Vaikean Ketteryys-heiton avaamiseen.
-13. Lingolla on 2 osumapistettä ja linkokivellä 12 osumapistettä (lyijy tai kivi).
-14. Ensimmäinen luku on lingon paino; suluissa oleva paino on jokaiselle linkokivelle.
+7. Toimintahäiriö tarkoittaa, että soihtu sammuu.
+8. Puhallusputken tikat ovat yleensä myrkytettyjä (katso **Myrkyt**).
+9. Puhallusputkella on 4 osumapistettä, ja jokaisella tikalla on 0 tai 1 osumapiste.
+10. Jos heittäjä heittää bumerangin palaamaan, tee Ketteryysheitto sen kiinniottamiseksi seuraavalla kierroksella. Jos heität useita bumerangeja, hyökkäystahti on 1 per kierros.
+11. Tikat ovat usein myrkytettyjä (katso **Myrkyt**).
+12. Verkon toimintahäiriö tarkoittaa, että se on sotkeutunut; sen selvittämiseen menee täysi kierros ja onnistunut vaikea Ketteryysheitto.
+13. Lingolla on 2 osumapistettä ja lingon kivellä on 12 osumapistettä (lyijy tai kivi).
+14. Ensimmäinen luku on lingon paino; suluissa oleva paino on jokaisen lingon kiven paino.
 
 ##### Historialliset lähitaisteluaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Kantama | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kantama | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirves, taistelukirves | Kirves | 15 | 1D8+2+dm | 1 | Verenvuoto | Keskipitkä | 1K | 15 | Kyllä | 9/9 | — | Keskiverto | 1.0 |
-| Kirves, suurkirves | Kirves | 15 | 2D6+2+dm | 1 | Verenvuoto | Keskipitkä | 2K | 15 | Kyllä | 11/9 | — | Keskiverto | 2.0 |
-| Kirves, puunhakkuukirves | Kirves | 15 | 1D8+2+dm | 1 | Verenvuoto | Keskipitkä | 2K | 20 | Kyllä | 8/7 | — | Edullinen | 1.5 |
-| Blackjack | Käsi | 25 | 1D8+dm | 1 | Murskaus | Lyhyt | 1K | 10 | Ei | 7/7 | — | Edullinen | 0.2 |
-| Cestus | Käsi | 25 | 1D3+2+dm | 1 | Murskaus | Lyhyt | 1K | 10 | Kyllä | 11/7 | — | Keskiverto | 0.1 |
-| Kynsi | Käsi | 25 | 1D4+1+dm | 1 | Verenvuoto | Lyhyt | 1K | 10 | Kyllä | 9/9 | — | Keskiverto | 0.1 |
-| Tikari | Tikari | 25 | 1D4+2+dm | 1 | Pisto | Lyhyt | 1K | 15 | Kyllä | 4/4 | — | Keskiverto | 0.5 |
-| Flail | Flail | 10 | 1D6+dm | 1 | Murskaus | Keskipitkä | 1K | 7 | Kyllä | 7/6 | — | Keskiverto | 2.0 |
-| Flail, aamutähti | Flail | 10 | 1D10+1+dm | 1 | Murskaus | Keskipitkä | 2K | 12 | Kyllä | 11/7 | — | Keskiverto | 2.0 |
-| Kuristusnaru | Käsi | 15 | Erikois1 | 1 | — | Lyhyt | 2K | 1 | Ei | 8/12 | — | Edullinen | 0.1 |
-| Gauntlet, panssaroitu | Käsi | 25 | 1D3+1+dm | 1 | Murskaus | Lyhyt | 1K | 7 | Kyllä | 7/5 | — | Keskiverto | Kuten haarniska |
-| Hilpari | Varsiaset | 15 | 3D6+dm | 1 | Verenvuoto | Pitkä | 2K | 25 | Kyllä | 13/9 | — | Keskiverto | 3.0 |
-| Vasara | Vasara | 25 | 1D6+dm | 1 | Murskaus | Keskipitkä | 1K | 15 | Kyllä | 9/7 | — | Edullinen | 1.5 |
-| Vasara, suuri | Vasara | 25 | 1D10+3+dm | 1 | Murskaus | Pitkä | 2K | 15 | Kyllä | 9/9 | — | Keskiverto | 2.5 |
-| Vasara, leka | Vasara | 20 | 2D6+2+dm | 1 | Murskaus | Keskipitkä | 2K | 15 | Kyllä | 11/7 | — | Edullinen | 2.0 |
-| Vasara, sotavasara | Vasara | 25 | 1D6+2+dm | 1 | Murskaus | Keskipitkä | 1K | 20 | Kyllä | 11/9 | — | Keskiverto | 2.0 |
-| Katana | Miekka | 15 | 1D10+1+dm2 | 1 | Verenvuoto | Keskipitkä | 1K/2K | 15 | Kyllä | 11/11 | — | Kallis | 1.5 |
-| Veitsi | Tikari | 25 | 1D3+1+dm | 1 | Pisto | Lyhyt | 1K | 15 | Kyllä | 4/4 | — | Edullinen | 0.5 |
-| Peitsi | Keihäs | 15 | 1D8+1+dm | 1 | Pisto3 | Pitkä | 1K | 15 | Kyllä | 9/8 | — | Edullinen | 3.5 |
-| Nuija, raskas | Nuija | 25 | 1D8+2+dm | 1 | Murskaus | Keskipitkä | 2K | 20 | Kyllä | 14/9 | — | Keskiverto | 2.5 |
-| Nuija, kevyt | Nuija | 25 | 1D6+2+dm | 1 | Murskaus | Keskipitkä | 1K | 20 | Kyllä | 7/7 | — | Keskiverto | 1.0 |
-| Lekka, sotalekka | Vasara | 25 | 1D10+2+dm | 1 | Murskaus | Keskipitkä | 2K | 20 | Kyllä | 13/7 | — | Keskiverto | 2.5 |
-| Naginata | Varsiaset | 05 | 2d6+2+dm | 1 | Verenvuoto | Pitkä | 2K | 15 | Kyllä | 7/11 | — | Kallis | 2.0 |
-| Pike | Varsiaset | 15 | 1d10+2+dm | 1 | Pisto | Pitkä | 2K | 15 | Kyllä | 11/7 | — | Edullinen | 3.5 |
-| Rapier | Miekka | 15 | 1D6+1+dm | 1 | Pisto | Keskipitkä | 1K | 15 | Kyllä | 7/13 | — | Kallis | 1.0 |
-| Sapeli | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1K | 20 | Kyllä | 7/11 | — | Keskiverto | 1.5 |
-| Sai | Tikari | 10 | 1D6+dm | 1 | Murskaus4 | Keskipitkä | 1K | 20 | Kyllä | 5/11 | — | Edullinen | 1.0 |
-| Simitari | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1K | 19 | Kyllä | 8/8 | — | Keskiverto | 1.5 |
-| Viikate | Improvisoitu | 05 | 2D6+1+dm | 1 | Pisto | Pitkä | 2K | 20 | Kyllä | 12/10 | — | Edullinen | 2.5 |
-| Sirppi | Improvisoitu | 10 | 1D6+1+dm | 1 | Pisto | Keskipitkä | 1K | 12 | Kyllä | 7/9 | — | Edullinen | 0.5 |
-| Sauva, neljännessauva | Sauva | 25 | 1D8+dm | 1 | Murskaus | Kaikki | 2K | 20 | Kyllä | 9/9 | — | Halpa | 1.5 |
-| Sauva, lyhyt sauva | Sauva | 15 | 1D6+dm | 1 | Murskaus | Keskipitkä | 1K | 15 | Kyllä | 7/9 | — | Halpa | 0.5 |
-| Miekkakeppi | Miekka | 15 | 1D6+dm | 1 | Pisto | Keskipitkä | 1K | 12 | Kyllä | 7/11 | — | Kallis | 1.0 |
-| Miekka, bastard-miekka | Miekka | 10 | 1D10+1+dm5 | 1 | Verenvuoto | Keskipitkä | 1K/2K | 20 | Kyllä | 13 tai 9/96 | — | Keskiverto | 2.0 |
-| Miekka, leveämiekka | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1K | 20 | Kyllä | 9/7 | — | Keskiverto | 1.5 |
-| Miekka, suurmiekka | Miekka | 05 | 2D8+dm | 1 | Verenvuoto | Keskipitkä/Pitkä | 2K | 18 | Kyllä | 14/13 | — | Kallis | 3.5 |
-| Miekka, pitkämiekka | Miekka | 15 | 1D8+dm | 1 | Verenvuoto | Keskipitkä | 1K | 15 | Kyllä | 7/9 | — | Keskiverto | 1.5 |
-| Miekka, lyhyttiekka | Miekka | 15 | 1D6+1+dm | 1 | Pisto | Keskipitkä | 1K | 20 | Kyllä | 5/5 | — | Halpa | 1.0 |
-| Kolmikärki | Varsiaset | 15 | 1D6+1+dm | 1 | Pisto | Pitkä | 1K/2K | 18 | Kyllä | 9/7 | — | Keskiverto | 2.0 |
-| Wakizashi | Miekka | 15 | 1D6+1+dm | 1 | Verenvuoto | Keskipitkä | 1K | 13 | Kyllä | 7/9 | — | Kallis | 1.0 |
-| Ruoska | Muu | 05 | 1D3-1 | 1 | Sotkeminen | Pitkä | 1K | 4 | Ei | 9/10 | — | Halpa | 0.5 |
+| Kirves, taistelu | Kirves | 15 | 1D8+2+dm | 1 | Verenvuoto | Keskipitkä | 1H | 15 | Kyllä | 9/9 | — | Keskitaso | 1.0 |
+| Kirves, suuri | Kirves | 15 | 2D6+2+dm | 1 | Verenvuoto | Keskipitkä | 2H | 15 | Kyllä | 11/9 | — | Keskitaso | 2.0 |
+| Kirves, puu | Kirves | 15 | 1D8+2+dm | 1 | Verenvuoto | Keskipitkä | 2H | 20 | Kyllä | 8/7 | — | Edullinen | 1.5 |
+| Pamppu | Käsi | 25 | 1D8+dm | 1 | Murskaava | Lyhyt | 1H | 10 | Ei | 7/7 | — | Edullinen | 0.2 |
+| Cestus | Käsi | 25 | 1D3+2+dm | 1 | Murskaava | Lyhyt | 1H | 10 | Kyllä | 11/7 | — | Keskitaso | 0.1 |
+| Kynsi | Käsi | 25 | 1D4+1+dm | 1 | Verenvuoto | Lyhyt | 1H | 10 | Kyllä | 9/9 | — | Keskitaso | 0.1 |
+| Tikari | Tikari | 25 | 1D4+2+dm | 1 | Lävistävä | Lyhyt | 1H | 15 | Kyllä | 4/4 | — | Keskitaso | 0.5 |
+| Varsta | Varsta | 10 | 1D6+dm | 1 | Murskaava | Keskipitkä | 1H | 7 | Kyllä | 7/6 | — | Keskitaso | 2.0 |
+| Varsta, aamutähti | Varsta | 10 | 1D10+1+dm | 1 | Murskaava | Keskipitkä | 2H | 12 | Kyllä | 11/7 | — | Keskitaso | 2.0 |
+| Garrotti | Käsi | 15 | Erikois1 | 1 | — | Lyhyt | 2H | 1 | Ei | 8/12 | — | Edullinen | 0.1 |
+| Gauntlet, panssaroitu | Käsi | 25 | 1D3+1+dm | 1 | Murskaava | Lyhyt | 1H | 7 | Kyllä | 7/5 | — | Keskitaso | Kuten panssari |
+| Hilpari | Varsiaste | 15 | 3D6+dm | 1 | Verenvuoto | Pitkä | 2H | 25 | Kyllä | 13/9 | — | Keskitaso | 3.0 |
+| Vasara | Vasara | 25 | 1D6+dm | 1 | Murskaava | Keskipitkä | 1H | 15 | Kyllä | 9/7 | — | Edullinen | 1.5 |
+| Vasara, suuri | Vasara | 25 | 1D10+3+dm | 1 | Murskaava | Pitkä | 2H | 15 | Kyllä | 9/9 | — | Keskitaso | 2.5 |
+| Vasara, leka | Vasara | 20 | 2D6+2+dm | 1 | Murskaava | Keskipitkä | 2H | 15 | Kyllä | 11/7 | — | Edullinen | 2.0 |
+| Vasara, sota | Vasara | 25 | 1D6+2+dm | 1 | Murskaava | Keskipitkä | 1H | 20 | Kyllä | 11/9 | — | Keskitaso | 2.0 |
+| Katana | Miekka | 15 | 1D10+1+dm2 | 1 | Verenvuoto | Keskipitkä | 1H tai 2H | 15 | Kyllä | 11/11 | — | Kallis | 1.5 |
+| Veitsi | Tikari | 25 | 1D3+1+dm | 1 | Lävistävä | Lyhyt | 1H | 15 | Kyllä | 4/4 | — | Edullinen | 0.5 |
+| Peitsi | Keihäs | 15 | 1D8+1+dm | 1 | Lävistävä3 | Pitkä | 1H | 15 | Kyllä | 9/8 | — | Edullinen | 3.5 |
+| Nuija, raskas | Nuija | 25 | 1D8+2+dm | 1 | Murskaava | Keskipitkä | 2H | 20 | Kyllä | 14/9 | — | Keskitaso | 2.5 |
+| Nuija, kevyt | Nuija | 25 | 1D6+2+dm | 1 | Murskaava | Keskipitkä | 1H | 20 | Kyllä | 7/7 | — | Keskitaso | 1.0 |
+| Sotanuija, suuri | Vasara | 25 | 1D10+2+dm | 1 | Murskaava | Keskipitkä | 2H | 20 | Kyllä | 13/7 | — | Keskitaso | 2.5 |
+| Naginata | Varsiaste | 05 | 2d6+2+dm | 1 | Verenvuoto | Pitkä | 2H | 15 | Kyllä | 7/11 | — | Kallis | 2.0 |
+| Piikki | Varsiaste | 15 | 1d10+2+dm | 1 | Lävistävä | Pitkä | 2H | 15 | Kyllä | 11/7 | — | Edullinen | 3.5 |
+| Rapier | Miekka | 15 | 1D6+1+dm | 1 | Lävistävä | Keskipitkä | 1H | 15 | Kyllä | 7/13 | — | Kallis | 1.0 |
+| Sapeli | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1H | 20 | Kyllä | 7/11 | — | Keskitaso | 1.5 |
+| Sai | Tikari | 10 | 1D6+dm | 1 | Murskaava4 | Keskipitkä | 1H | 20 | Kyllä | 5/11 | — | Edullinen | 1.0 |
+| Skimitar | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1H | 19 | Kyllä | 8/8 | — | Keskitaso | 1.5 |
+| Viikate | Improvisoitu | 05 | 2D6+1+dm | 1 | Lävistävä | Pitkä | 2H | 20 | Kyllä | 12/10 | — | Edullinen | 2.5 |
+| Sirppi | Improvisoitu | 10 | 1D6+1+dm | 1 | Lävistävä | Keskipitkä | 1H | 12 | Kyllä | 7/9 | — | Edullinen | 0.5 |
+| Sauva | Sauva | 25 | 1D8+dm | 1 | Murskaava | Kaikki | 2H | 20 | Kyllä | 9/9 | — | Halpa | 1.5 |
+| Sauva, lyhyt | Sauva | 15 | 1D6+dm | 1 | Murskaava | Keskipitkä | 1H | 15 | Kyllä | 7/9 | — | Halpa | 0.5 |
+| Miekkakeppi | Miekka | 15 | 1D6+dm | 1 | Lävistävä | Keskipitkä | 1H | 12 | Kyllä | 7/11 | — | Kallis | 1.0 |
+| Miekka, bastard | Miekka | 10 | 1D10+1+dm5 | 1 | Verenvuoto | Keskipitkä | 1H tai 2H | 20 | Kyllä | 13 tai 9/96 | — | Keskitaso | 2.0 |
+| Miekka, leveä | Miekka | 15 | 1D8+1+dm | 1 | Verenvuoto | Keskipitkä | 1H | 20 | Kyllä | 9/7 | — | Keskitaso | 1.5 |
+| Miekka, suuri | Miekka | 05 | 2D8+dm | 1 | Verenvuoto | Keskipitkä/Pitkä | 2H | 18 | Kyllä | 14/13 | — | Kallis | 3.5 |
+| Miekka, pitkä | Miekka | 15 | 1D8+dm | 1 | Verenvuoto | Keskipitkä | 1H | 15 | Kyllä | 7/9 | — | Keskitaso | 1.5 |
+| Miekka, lyhyt | Miekka | 15 | 1D6+1+dm | 1 | Lävistävä | Keskipitkä | 1H | 20 | Kyllä | 5/5 | — | Halpa | 1.0 |
+| Tridantti | Varsiaste | 15 | 1D6+1+dm | 1 | Lävistävä | Pitkä | 1H tai 2H | 18 | Kyllä | 9/7 | — | Keskitaso | 2.0 |
+| Wakizashi | Miekka | 15 | 1D6+1+dm | 1 | Verenvuoto | Keskipitkä | 1H | 13 | Kyllä | 7/9 | — | Kallis | 1.0 |
+| Ruoska | Muu | 05 | 1D3-1 | 1 | Kietova | Pitkä | 1H | 4 | Ei | 9/10 | — | Halpa | 0.5 |
 
 1. Katso **Kuristuminen, hukkuminen ja tukehtuminen**.
-2. Kun käytät katanaa yhdellä kädellä, vahinkomuokkaaja on ½ normaali.
-3. Turnauspeitset ovat yleensä tylppiä ja tekevät murskaus-erikoisia.
-4. Sai ovat perinteisesti tylppiä aseita, joita käytetään ensisijaisesti torjumiseen ja iskemiseen.
-5. Kun käytät bastard-miekkaa yhdellä kädellä, vahinkomuokkaaja on ½ normaali.
+2. Kun käytät katanaa yhdellä kädellä, vahingon muuttaja on ½ normaalista.
+3. Turnauspeitset ovat yleensä tylppiä, ja niillä tehdään murskaavia erikoishyökkäyksiä.
+4. Sai on perinteisesti tylppä ase, jota käytetään pääasiassa torjumiseen ja lyömiseen.
+5. Kun käytät bastard-miekkaa yhdellä kädellä, vahingon muuttaja on ½ normaalista.
 6. VOI-vaatimus on 13 yhdellä kädellä käytettäessä; 9 kahdella kädellä käytettäessä.
 
-##### Historialliset heittoaseet
+##### Historialliset etäaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Et | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC | TT |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kant | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbalesti | Varsijousi | 15 | 2D6+4 | 1/3 | Pisto | 90 | 2K | 14 | Ei | 11/91 | 93–00 | Keskiverto | 10.0 (0.5) | 1/4KR |
-| Jousi, komposiittijousi | Jousi | 05 | 1D8+1+½dm | 1 | Pisto | 120 | 2K | 12 | Ei | 13/9 | — | Keskiverto | 0.5 (0.5) | 1/KR |
-| Jousi, pitkäjousi | Jousi | 05 | 1D8+1+½dm | 1 | Pisto | 90 | 2K | 10 | Ei | 11/9 | — | Halpa | 0.5 (0.5) | 1/KR |
-| Varsijousi, raskas | Varsijousi | 25 | 2D6+2 | 1/3 | Pisto | 55 | 2K | 18 | Ei | 13/7 | 97–00 | Keskiverto | 8.0 (0.5) | 1/3KR |
-| Varsijousi, kevyt | Varsijousi | 25 | 1D6+2 | ½ | Pisto | 40 | 2K | 10 | Ei | 9/7 | 96–00 | Keskiverto | 3.5 (0.5) | 1/2KR |
-| Varsijousi, keskikokoinen | Varsijousi | 25 | 2D4+2 | ½ | Pisto | 50 | 2K | 14 | Ei | 11/7 | 95–00 | Keskiverto | 5.0 (0.5) | 1/2KR |
-| Varsijousi, toistava | Varsijousi | 25 | 1D6+2 | 12 | Pisto | 60 | 2K | 12 | Ei | 9/7 | 91–00 | Kallis | 7.5 (0.5) | 1/KR3 |
-| Veitsi, heittoveitsi | Heitto | 15 | 1d4+½dm | 1 | Pisto | 20 | 1K | 10 | Ei | /11 | — | Halpa | 0.2 | 1/KR |
-| Shuriken | Heitto | 10 | 1D3+½dm | 2 | Pisto | 20 | 1K | 5 | Ei | /13 | — | Halpa | 0.1 | 1/KR |
+| Arbalesti | Varsijousi | 15 | 2D6+4 | 1/3 | Lävistävä | 90 | 2H | 14 | Ei | 11/91 | 93–00 | Keskitaso | 10.0 (0.5) | 1/4CR |
+| Jousi, komposiitti | Jousi | 05 | 1D8+1+½dm | 1 | Lävistävä | 120 | 2H | 12 | Ei | 13/9 | — | Keskitaso | 0.5 (0.5) | 1/CR |
+| Jousi, pitkä | Jousi | 05 | 1D8+1+½dm | 1 | Lävistävä | 90 | 2H | 10 | Ei | 11/9 | — | Halpa | 0.5 (0.5) | 1/CR |
+| Varsijousi, raskas | Varsijousi | 25 | 2D6+2 | 1/3 | Lävistävä | 55 | 2H | 18 | Ei | 13/7 | 97–00 | Keskitaso | 8.0 (0.5) | 1/3CR |
+| Varsijousi, kevyt | Varsijousi | 25 | 1D6+2 | ½ | Lävistävä | 40 | 2H | 10 | Ei | 9/7 | 96–00 | Keskitaso | 3.5 (0.5) | 1/2CR |
+| Varsijousi, keskipitkä | Varsijousi | 25 | 2D4+2 | ½ | Lävistävä | 50 | 2H | 14 | Ei | 11/7 | 95–00 | Keskitaso | 5.0 (0.5) | 1/2CR |
+| Varsijousi, toistava | Varsijousi | 25 | 1D6+2 | 12 | Lävistävä | 60 | 2H | 12 | Ei | 9/7 | 91–00 | Kallis | 7.5 (0.5) | 1/CR3 |
+| Veitsi, heitto | Ampuma-ase | 15 | 1d4+½dm | 1 | Lävistävä | 20 | 1H | 10 | Ei | /11 | — | Halpa | 0.2 | 1/CR |
+| Shuriken | Ampuma-ase | 10 | 1D3+½dm | 2 | Lävistävä | 20 | 1H | 5 | Ei | /13 | — | Halpa | 0.1 | 1/CR |
 
-1. VOI-vaatimus cranequinin (käsikammella toimiva) kanssa on 11; VOI 15 käytettäessä ilman.
-2. Ammuskapasiteetti 12 ja lataaminen vie kuusi kierrosta kokonaan.
-3. Toistavassa varsijousessa on 6, 8, 10 tai 12 nuolen kapasiteetti. Lataaminen vie yhden taistelukierroksen per nuoli.
+1. VOI-vaatimus cranequin-kammella on 11; VOI 15 ilman sitä.
+2. Ammuskapasiteetti 12, lataaminen kokonaan kestää kuusi kierrosta.
+3. Toistavassa varsijousessa on 6, 8, 10 tai 12 nuolen ammuskapasiteetti. Yhden nuolen lataaminen kestää yhden taistelukierroksen.
 
 ##### Modernit lähitaisteluaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Kantama | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kantama | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Nyrkkiraudat | Brawl | Brawl | +2 | 1 | Murskaus | Lyhyt | 1K | 18 | Ei | 5/– | — | Halpa | 0.1 |
-| Moottorisaha | Improvisoitu | 20 | 2D8 | 1 | Verenvuoto | Keskipitkä | 2K | 20 | Ei | 11/11 | 97–00 | Keskiverto | 8.0 |
-| Veitsi, teurastajan veitsi | Tikari | 25 | 1D6+dm | 1 | Pisto | Lyhyt | 1K | 12 | Ei | 5/7 | — | Halpa | 0.3 |
-| Veitsi, taskuveitsi | Tikari | 25 | 1D4+dm | 1 | Pisto | Lyhyt | 1K | 9 | Ei | –/5 | — | Halpa | 0.1 |
-| Veitsi, linkkuveitsi | Tikari | 25 | 1D4+dm | 1 | Pisto | Lyhyt | 1K | 7 | Ei | –/5 | 99–00 | Halpa | 0.1 |
-| Taser, kontakti | Muu | Brawl | Erikois1 | 1 | — | Lyhyt | 1K | 7 | Ei | 5/7 | 97–00 | Halpa | 0.3 |
+| Nyrkkirauta | Nujakointi | Nujakointi | +2 | 1 | Murskaava | Lyhyt | 1H | 18 | Ei | 5/– | — | Halpa | 0.1 |
+| Moottorisaha | Improvisoitu | 20 | 2D8 | 1 | Verenvuoto | Keskipitkä | 2H | 20 | Ei | 11/11 | 97–00 | Keskitaso | 8.0 |
+| Veitsi, teurastajan | Tikari | 25 | 1D6+dm | 1 | Lävistävä | Lyhyt | 1H | 12 | Ei | 5/7 | — | Halpa | 0.3 |
+| Taskuveitsi | Tikari | 25 | 1D4+dm | 1 | Lävistävä | Lyhyt | 1H | 9 | Ei | –/5 | — | Halpa | 0.1 |
+| Linkkuveitsi | Tikari | 25 | 1D4+dm | 1 | Lävistävä | Lyhyt | 1H | 7 | Ei | –/5 | 99–00 | Halpa | 0.1 |
+| Taser, kontakti | Muu | Nujakointi | Erikois1 | 1 | — | Lyhyt | 1H | 7 | Ei | 5/7 | 97–00 | Halpa | 0.3 |
 
-##### Modernit heittoaseet
+##### Modernit etäaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Et | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC | TT |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kant | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Liekinheitin | Muu | 05 | 2D6+tuli3 | 1 | — | 25 | 2K | 6 | Ei | 10/8 | 93–00 | 6 | Kallis | 8.0 |
-| Konekivääri | Konekivääri | 15 | 2D6+4 | 1, 3, tai sarja | Pisto | 90 | 2K | 11 | Ei | 9/5 | 00 | 40 | Kallis | 3.0 |
-| Minigun | Konekivääri | 15 | 2D6+4 | 33 | Pisto | 400 | 2K | 14 | Ei | 16/12 | 98–00 | 4,000 | Kallis | 6.0 |
-| Konepistooli | Konepistooli | 15 | 1D8 | 2 tai sarja | Pisto | 40 | 1K/2K | 8 | Ei | 9/6 | 98–00 | 32 | Kallis | 2.0 |
-| Pistooli, Derringer | Pistooli | 20 | 1D6 | 1 | Pisto | 3 | 1K | 5 | Ei | 5/5 | 00 | 1 tai 2 | Keskiverto | 0.3 |
-| Pistooli, piikkilukko | Pistooli | 20 | 1D6+1 | ¼ | Pisto | 10 | 1K | 8 | Ei | 7/5 | 95–00 | 1 | Keskiverto | 1.0 |
-| Pistooli, raskas | Pistooli | 20 | 1D10+2 | 1 | Pisto | 15 | 1K | 8 | Ei | 11/7 | 00 | 8 | Keskiverto | 1.5 |
-| Pistooli, kevyt | Pistooli | 20 | 1D6 | 3 | Pisto | 10 | 1K | 6 | Ei | 5/5 | 00 | 8 | Keskiverto | 0.7 |
-| Pistooli, keskikokoinen | Pistooli | 20 | 1D8 | 2 | Pisto | 20 | 1K | 8 | Ei | 7/5 | 98–00 | 12 | Keskiverto | 1.0 |
-| Revolveri, raskas | Revolveri | 20 | 1D10+2 | 1 | Pisto | 20 | 1K | 14 | Ei | 11/5 | 00 | 6 | Keskiverto | 1.5 |
-| Revolveri, kevyt | Revolveri | 20 | 1D6 | 2 | Pisto | 15 | 1K | 10 | Ei | 5/5 | 00 | 6 | Keskiverto | 0.7 |
-| Revolveri, keskikokoinen | Revolveri | 20 | 1D8 | 1 | Pisto | 25 | 1K | 12 | Ei | 7/5 | 00 | 6 | Keskiverto | 1.0 |
-| Rynnäkkökivääri | Kivääri | 25 | 2D6+2 | 2 tai sarja | Pisto | 90 | 2K | 12 | Ei | 10/5 | 00 | 30 | Kallis | 3.5 |
-| Kivääri, pulttilukko | Kivääri | 25 | 2D6+4 | ½ | Pisto | 110 | 2K | 12 | Ei | 7/5 | 00 | 5 | Keskiverto | 3.0 |
-| Kivääri, norsunmetsästyskivääri | Kivääri | 15 | 3D6+4 | 1 tai 2 | Pisto | 100 | 2K | 12 | Ei | 13/5 | 00 | 2 | Keskiverto | 4.5 |
-| Musketti | Kivääri | 25 | 1D10+4 | ¼ | Pisto | 60 | 2K | 12 | Ei | 9/5 | 95–00 | 1 | Keskiverto | 3.5 |
-| Kivääri, tarkkuuskivääri | Kivääri | 204 | 2D10+4 | 1 | Pisto | 2505 | 2K | 10 | Ei | 12/7 | 98–00 | 11 | Kallis | 4.0 |
-| Kivääri, urheilukivääri | Kivääri | 25 | 2D6 | 1 | Pisto | 80 | 2K | 12 | Ei | 7/5 | 00 | 6 | Keskiverto | 3.0 |
-| Haulikko, automaatti | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 tai 2 | Pisto | 10/20/50 | 2K | 14 | Ei | 11/5 | 00 | 8 | Kallis | 4.0 |
-| Haulikko, kaksipiippuinen | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 tai 2 | Pisto | 10/20/50 | 2K | 12 | Ei | 9/5 | 00 | 2 | Keskiverto | 3.5 |
-| Haulikko, katkaistu | Haulikko | 30 | 4D6/1D67 | 1 tai 2 | Pisto | 5/20/— | 1K | 14 | Ei | 9/5 | 00 | 1 tai 2 | Keskiverto | 2.0 |
-| Haulikko, urheiluhaulikko | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 | Pisto | 10/20/50 | 2K | 10 | Ei | 7/5 | 00 | 5 | Keskiverto | 3.0 |
-| Suihke, kemiallinen | Muu | 25 | Erikois8 | 1 | — | 2 | 1K | 2 | Ei | 3/7 | 91–00 | 6 | Keskiverto | 0.2 |
-| Taser, nuoli | Muu | 20 | Erikois1 | ½ | — | KET | 1K | 8 | Ei | 3/7 | 95–00 | 1 | Kallis | 0.5 |
+| Liekinheitin | Muu | 05 | 2D6+tuli3 | 1 | — | 25 | 2H | 6 | Ei | 10/8 | 93–00 | 6 | Kallis | 8.0 |
+| Konepistooli | Konepistooli | 15 | 2D6+4 | 1, 3, tai sarja | Lävistävä | 90 | 2H | 11 | Ei | 9/5 | 00 | 40 | Kallis | 3.0 |
+| Minigun | Konepistooli | 15 | 2D6+4 | 33 | Lävistävä | 400 | 2H | 14 | Ei | 16/12 | 98–00 | 4,000 | Kallis | 6.0 |
+| Konepistooli (Sub) | Konepistooli (Sub) | 15 | 1D8 | 2 tai sarja | Lävistävä | 40 | 1H tai 2H | 8 | Ei | 9/6 | 98–00 | 32 | Kallis | 2.0 |
+| Pistooli, Derringer | Pistooli | 20 | 1D6 | 1 | Lävistävä | 3 | 1H | 5 | Ei | 5/5 | 00 | 1 tai 2 | Keskitaso | 0.3 |
+| Pistooli, piilukko | Pistooli | 20 | 1D6+1 | ¼ | Lävistävä | 10 | 1H | 8 | Ei | 7/5 | 95–00 | 1 | Keskitaso | 1.0 |
+| Pistooli, raskas | Pistooli | 20 | 1D10+2 | 1 | Lävistävä | 15 | 1H | 8 | Ei | 11/7 | 00 | 8 | Keskitaso | 1.5 |
+| Pistooli, kevyt | Pistooli | 20 | 1D6 | 3 | Lävistävä | 10 | 1H | 6 | Ei | 5/5 | 00 | 8 | Keskitaso | 0.7 |
+| Pistooli, keskipitkä | Pistooli | 20 | 1D8 | 2 | Lävistävä | 20 | 1H | 8 | Ei | 7/5 | 98–00 | 12 | Keskitaso | 1.0 |
+| Revolveri, raskas | Revolveri | 20 | 1D10+2 | 1 | Lävistävä | 20 | 1H | 14 | Ei | 11/5 | 00 | 6 | Keskitaso | 1.5 |
+| Revolveri, kevyt | Revolveri | 20 | 1D6 | 2 | Lävistävä | 15 | 1H | 10 | Ei | 5/5 | 00 | 6 | Keskitaso | 0.7 |
+| Revolveri, keskipitkä | Revolveri | 20 | 1D8 | 1 | Lävistävä | 25 | 1H | 12 | Ei | 7/5 | 00 | 6 | Keskitaso | 1.0 |
+| Kivääri, rynnäkkö | Kivääri | 25 | 2D6+2 | 2 tai sarja | Lävistävä | 90 | 2H | 12 | Ei | 10/5 | 00 | 30 | Kallis | 3.5 |
+| Kivääri, pulttilukko | Kivääri | 25 | 2D6+4 | ½ | Lävistävä | 110 | 2H | 12 | Ei | 7/5 | 00 | 5 | Keskitaso | 3.0 |
+| Kivääri, norsukivääri | Kivääri | 15 | 3D6+4 | 1 tai 2 | Lävistävä | 100 | 2H | 12 | Ei | 13/5 | 00 | 2 | Keskitaso | 4.5 |
+| Musketti | Kivääri | 25 | 1D10+4 | ¼ | Lävistävä | 60 | 2H | 12 | Ei | 9/5 | 95–00 | 1 | Keskitaso | 3.5 |
+| Kivääri, tarkkuus | Kivääri | 204 | 2D10+4 | 1 | Lävistävä | 2505 | 2H | 10 | Ei | 12/7 | 98–00 | 11 | Kallis | 4.0 |
+| Kivääri, urheilu | Kivääri | 25 | 2D6 | 1 | Lävistävä | 80 | 2H | 12 | Ei | 7/5 | 00 | 6 | Keskitaso | 3.0 |
+| Haulikko, automaatti | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 tai 2 | Lävistävä | 10/20/50 | 2H | 14 | Ei | 11/5 | 00 | 8 | Kallis | 4.0 |
+| Haulikko, kaksipiippuinen | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 tai 2 | Lävistävä | 10/20/50 | 2H | 12 | Ei | 9/5 | 00 | 2 | Keskitaso | 3.5 |
+| Haulikko, katkaistu | Haulikko | 30 | 4D6/1D67 | 1 tai 2 | Lävistävä | 5/20/— | 1H | 14 | Ei | 9/5 | 00 | 1 tai 2 | Keskitaso | 2.0 |
+| Haulikko, urheilu | Haulikko | 30 | 4D6/2D6/ 1D66 | 1 | Lävistävä | 10/20/50 | 2H | 10 | Ei | 7/5 | 00 | 5 | Keskitaso | 3.0 |
+| Spray, kemiallinen | Muu | 25 | Erikois8 | 1 | — | 2 | 1H | 2 | Ei | 3/7 | 91–00 | 6 | Keskitaso | 0.2 |
+| Taser, tikka | Muu | 20 | Erikois1 | ½ | — | KET | 1H | 8 | Ei | 3/7 | 95–00 | 1 | Kallis | 0.5 |
 
 1. Tyrmää kohteen (katso **Tyrmääminen**).
-2. Monilla moderneilla tuliaseilla on sarjatulimahdollisuus (katso **Sarjatuli**).
-3. Jos kohde osuu liekinheittimeen, se palaa ja ottaa 1D6+2 pistettä vahinkoa per kierros lisävahinkona, kunnes tuli sammutetaan (katso **Tuli ja kuumuus**).
-4. Tarkkuuskiväärit on yleensä varustettu haaratuella, mikä tuplaa mahdollisuuden; ilman haaratukea (tai vastaavaa vakainta), muokkaa perustodennäköisyyttä –10 %.
-5. Tarkkuuskiväärit on yleensä varustettu teleskooppitähtäimillä, jotka tuplaavat niiden tehollisen kantaman; jos ilman tähtäintä, kantama on 125 metriä.
-6. Haulikoilla on vahinko kantaman mukaan; ensimmäinen lisäys on ensimmäinen vahinkonoppa, toinen on toinen jne.
-7. Haulikoilla on vahinko kantaman mukaan; ensimmäinen lisäys on ensimmäinen vahinkonoppa, toinen on toinen jne. Katkaistut haulikot eivät ole tehokkaita yli 20 jaardin etäisyydellä.
-8. Kemiallinen suihke on matalan POT-arvon kontaktimyrkky (katso **Myrkyt**). Esimerkkityyppisellä kemiallisella suihkeella voi olla 2D6+12 POT, välitön vaikutus, ja se aiheuttaa sokeuden, jos kohde epäonnistuu vastustusheitossa vs. KES. Silmiin ampuminen on Vaikeaa, mutta lähietäisyydeltä Helppoa.
+2. Monissa nykyaikaisissa ampuma-aseissa on sarjatuliominaisuus (katso **Automaattituli**).
+3. Jos liekinheitin osuu kohteeseen, se syttyy palamaan ja ottaa 1D6+2 pistettä lisävahinkoa per kierros, kunnes tuli sammutetaan (katso **Tuli ja kuumuus**).
+4. Tarkkuuskiväärit on yleensä varustettu kaksijalalla, mikä tuplaa osumamahdollisuuden; ilman kaksijalkaa (tai vastaavaa tukea) muokkaa perusmahdollisuutta -10 %.
+5. Tarkkuuskiväärit on yleensä varustettu kiikaritähtäimillä, jotka tuplaavat niiden tehokkaan kantaman; ilman tähtäintä kantama on 125 metriä.
+6. Haulikon vahinko riippuu kantamasta; ensimmäinen väli on ensimmäinen vahinkonoppa, toinen on toinen, jne.
+7. Haulikon vahinko riippuu kantamasta; ensimmäinen väli on ensimmäinen vahinkonoppa, toinen on toinen, jne. Katkaistut haulikot eivät ole tehokkaita yli 20 jaardin etäisyydellä.
+8. Kemiallinen spray on matalan POT-arvon kosketusmyrkky (katso **Myrkyt**). Esimerkki kemiallisesta spraysta voisi olla 2D6+12 POT, välitön vaikutus, ja se aiheuttaa sokeuden, jos kohde epäonnistuu KES-vastusheitossa. Kohteen silmiin ampuminen on vaikeaa, mutta lähietäisyydeltä se on helppoa, jolloin mahdollisuutta ei muokata.
 
-##### Kehittyneet lähitaisteluaseet
+##### Edistyneet lähitaisteluaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Kantama | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kantama | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kirves, vibro- | Varsiaset | 10 % | 2D8+4+dm | 1 | Verenvuoto | Keskipitkä | 2K | 20 | Kyllä | 11/5 | 98–00 | Keskiverto | 3.0 |
-| Veitsi, vibro- | Tikari | 25 % | 2D4+2+dm | 1 | Verenvuoto | Lyhyt | 1K | 16 | Kyllä | 7/7 | 99–00 | Keskiverto | 0.5 |
-| Peitsi, tainnutus | Sauva | 15 % | 1D6+dm+stun1 | 1 | Takaisinlyönti | Pitkä | 2K | 18 | Kyllä | 9/5 | 98–00 | Keskiverto | 2.5 |
-| Miekka, energiamiekka | Miekka | 10 % | 2D10+dm2 | 1 | Pisto | Keskipitkä | 1K | 30 | Kyllä | 11/15 | 99–00 | Korvaamaton | 1.0 |
-| Miekka, monofilamentti | Miekka | 05 % | 3D122 | 1 | Verenvuoto | Keskipitkä | 1K | 12 | Ei | 5/15 | 91–003 | Kallis | 0.5 |
-| Miekka, vibromiekka | Miekka | 20 % | 2D6+3+dm | 1 | Verenvuoto | Keskipitkä | 1K | 18 | Kyllä | 9/7 | 97–00 | Kallis | 1.5 |
-| Ruoska, sähköruoska | Muu | 05 % | 1+½db+stun1 | 1 | Sotkeminen | Pitkä | 1K | 10 | Ei | 7/9 | 97-00 | Keskiverto | 1.0 |
+| Kirves, vibro- | Varsiaste | 10% | 2D8+4+dm | 1 | Verenvuoto | Keskipitkä | 2H | 20 | Kyllä | 11/5 | 98–00 | Keskitaso | 3.0 |
+| Veitsi, vibro- | Tikari | 25% | 2D4+2+dm | 1 | Verenvuoto | Lyhyt | 1H | 16 | Kyllä | 7/7 | 99–00 | Keskitaso | 0.5 |
+| Peitsi, sähkö- | Sauva | 15% | 1D6+dm+tyrmäys1 | 1 | Työntö | Pitkä | 2H | 18 | Kyllä | 9/5 | 98–00 | Keskitaso | 2.5 |
+| Miekka, energia- | Miekka | 10% | 2D10+dm2 | 1 | Lävistävä | Keskipitkä | 1H | 30 | Kyllä | 11/15 | 99–00 | Arvoton | 1.0 |
+| Miekka, monofilamentti | Miekka | 05% | 3D122 | 1 | Verenvuoto | Keskipitkä | 1H | 12 | Ei | 5/15 | 91–003 | Kallis | 0.5 |
+| Miekka, vibro- | Miekka | 20% | 2D6+3+dm | 1 | Verenvuoto | Keskipitkä | 1H | 18 | Kyllä | 9/7 | 97–00 | Kallis | 1.5 |
+| Ruoska, sähkö- | Muu | 05% | 1+½dm+tyrmäys1 | 1 | Kietova | Pitkä | 1H | 10 | Ei | 7/9 | 97-00 | Keskitaso | 1.0 |
 
-##### Kehittyneet heittoaseet
+##### Edistyneet etäaseet
 
-| Ase | Taito | Perus | Vah | Hyök | Erikois | Kantama | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC | TT |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Pistooli, blaster | Energia-pistooli | 15 % | 1D8+2 | 2 | Pisto | 15 | 1K | 14 | Ei | 7/5 | 99–00 | 30 | Keskiverto | 1.0 |
-| Pistooli, hajottaja | Energia-pistooli | 05 % | 3D4+1 | 1 | — | 10 | 1K | 12 | Ei | 7/5 | 96–00 | 10 | Kallis | 1.0 |
-| Pistooli, EM-pulssi | Energia-pistooli | 20 % | 2D6 vs. tech5 | 1 | — | 15 | 1K | 12 | Ei | 7/5 | 98–00 | 20 | Keskiverto | 1.0 |
-| Pistooli, flechette | Energia-pistooli | 05 % | 2D46 | 1 tai sarja7 | Pisto | 15 | 1K | 14 | Ei | 5/7 | 99–00 | 6 | Keskiverto | 0.8 |
-| Pistooli, laser | Energia-pistooli | 20 % | 1D8 | 3 | Pisto | 30 | 1K | 14 | Ei | 5/5 | 99–00 | 20 | Keskiverto | 1.0 |
-| Pistooli, plasma | Energia-pistooli | 15 % | 2D10+2 | 1 | Pisto | 20 | 1K | 18 | Ei | 7/5 | 98–00 | 12 | Kallis | 1.2 |
-| Pistooli, sähköisku | Energia-pistooli | 15 % | 2D4 | 1 | Takaisinlyönti | 15 | 1K | 12 | Ei | 5/5 | 98–00 | 12 | Keskiverto | 1.0 |
-| Pistooli, tainnutus | Energia-pistooli | 25 % | 2D6 stun2 | 1 | Takaisinlyönti | 15 | 1K | 16 | Ei | 5/5 | 00 | 12 | Keskiverto | 1.0 |
-| Kivääri, blaster | Energia-kivääri | 10 % | 2D8+3 | 2 | Pisto | 60 | 2K | 20 | Ei | 9/5 | 99–00 | 20 | Keskiverto | 1.0 |
-| Kivääri, hajottaja | Energia-kivääri | 05 % | 3D6+2 | 1 | — | 30 | 2K | 18 | Ei | 9/7 | 96–00 | 10 | Kallis | 2.0 |
-| Kivääri, EM-pulssi | Energia-kivääri | 25 % | 3D8 vs. tech5 | 1 | — | 75 | 2K | 18 | Ei | 7/5 | 98–00 | 12 | Keskiverto | 2.0 |
-| Kivääri, laser | Energia-kivääri | 15 % | 2D8 | 2 | Pisto | 100 | 2K | 20 | Ei | 7/7 | 99–00 | 20 | Keskiverto | 1.5 |
-| Kivääri, plasma | Energia-kivääri | 10 % | 2D10+4 | 1 | Pisto | 70 | 2K | 18 | Ei | 9/7 | 98–00 | 16 | Kallis | 2.0 |
-| Kivääri, sähköisku | Energia-kivääri | 10 % | 3D8 | 1 | Takaisinlyönti | 50 | 2K | 18 | Ei | 9/7 | 98–00 | 12 | Keskiverto | 1.5 |
-| Kivääri, ääni | Energia-kivääri | 10 % | 1D3+28 | 1 | Takaisinlyönti | 50 | 2K | 16 | Ei | 7/7 | 97–00 | 36 | Keskiverto | 2.0 |
-| Kivääri, tainnutus | Energia-kivääri | 20 % | 2D8 stun9 | 1 | Takaisinlyönti | 50 | 2K | 22 | Ei | 7/5 | 00 | 24 | Keskiverto | 1.5 |
+| Ase | Taito | Perus | Vah | Hyökk | Erikois | Kant | Kädet | KP | Torj | VOI/KET | Mal | Arvo | KOK/Enc | RF |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Pistooli, blaster | Energia-ase | 15% | 1D8+2 | 2 | Lävistävä | 15 | 1H | 14 | Ei | 7/5 | 99–00 | 30 | Keskitaso | 1.0 |
+| Pistooli, purkaja | Energia-ase | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Ei | 7/5 | 96–00 | 10 | Kallis | 1.0 |
+| Pistooli, EM-pulssi | Energia-ase | 20% | 2D6 vs. tekn5 | 1 | — | 15 | 1H | 12 | Ei | 7/5 | 98–00 | 20 | Keskitaso | 1.0 |
+| Pistooli, flechette | Energia-ase | 05% | 2D46 | 1 tai sarja7 | Lävistävä | 15 | 1H | 14 | Ei | 5/7 | 99–00 | 6 | Keskitaso | 0.8 |
+| Pistooli, laser | Energia-ase | 20% | 1D8 | 3 | Lävistävä | 30 | 1H | 14 | Ei | 5/5 | 99–00 | 20 | Keskitaso | 1.0 |
+| Pistooli, plasma | Energia-ase | 15% | 2D10+2 | 1 | Lävistävä | 20 | 1H | 18 | Ei | 7/5 | 98–00 | 12 | Kallis | 1.2 |
+| Pistooli, sähkö- | Energia-ase | 15% | 2D4 | 1 | Työntö | 15 | 1H | 12 | Ei | 5/5 | 98–00 | 12 | Keskitaso | 1.0 |
+| Pistooli, tyrmäys | Energia-ase | 25% | 2D6 tyrm2 | 1 | Työntö | 15 | 1H | 16 | Ei | 5/5 | 00 | 12 | Keskitaso | 1.0 |
+| Kivääri, blaster | Energia-ase | 10% | 2D8+3 | 2 | Lävistävä | 60 | 2H | 20 | Ei | 9/5 | 99–00 | 20 | Keskitaso | 1.0 |
+| Kivääri, purkaja | Energia-ase | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Ei | 9/7 | 96–00 | 10 | Kallis | 2.0 |
+| Kivääri, EM-pulssi | Energia-ase | 25% | 3D8 vs. tekn5 | 1 | — | 75 | 2H | 18 | Ei | 7/5 | 98–00 | 12 | Keskitaso | 2.0 |
+| Kivääri, laser | Energia-ase | 15% | 2D8 | 2 | Lävistävä | 100 | 2H | 20 | Ei | 7/7 | 99–00 | 20 | Keskitaso | 1.5 |
+| Kivääri, plasma | Energia-ase | 10% | 2D10+4 | 1 | Lävistävä | 70 | 2H | 18 | Ei | 9/7 | 98–00 | 16 | Kallis | 2.0 |
+| Kivääri, sähkö- | Energia-ase | 10% | 3D8 | 1 | Työntö | 50 | 2H | 18 | Ei | 9/7 | 98–00 | 12 | Keskitaso | 1.5 |
+| Kivääri, ääni | Energia-ase | 10% | 1D3+28 | 1 | Työntö | 50 | 2H | 16 | Ei | 7/7 | 97–00 | 36 | Keskitaso | 2.0 |
+| Kivääri, tyrmäys | Energia-ase | 20% | 2D8 tyrm9 | 1 | Työntö | 50 | 2H | 22 | Ei | 7/5 | 00 | 24 | Keskitaso | 1.5 |
 
-1. Tyrmää kohteen (katso **Tyrmääminen**).
-2. Kohteen tehollinen haarniska-arvo tätä asetta vastaan on puolittunut (pyöristä ylöspäin).
-3. Jos mokaat monofilamenttimiekan hyökkäyksen, tee Vaikea Ketteryys-heitto välttääksesi osumasta itseesi. Jos epäonnistut, hyökkäyksesi osuu sinuun lähitaisteluaseiden mokataulukon lisäksi. Vahinko jättää huomioimatta ½ haarniska-arvosta (pyöristä ylöspäin).
-4. Monilla moderneilla tuliaseilla on sarjatulimahdollisuus (katso **Sarjatuli**).
-5. Jos kohde on robotti, kone tai käyttää sähkömagneettista energiaa, heitä vahinko ja suorita vastustusheitto vs. kohteen KES. Jos onnistuu, laite tyrmätään 1D3+1 kierrokseksi (katso **Tyrmääminen**). Jos vahinko on suurempi kuin kohteen osumapisteet, se menee "tajuttomaksi". EMP-aseiden vahinko on väliaikaista, ja menetetyt osumapisteet voidaan palauttaa Korjaus-heitolla.
-6. Kovaa haarniskaa (metalli, muovi tai levyt) vastaan flechette-pistooli tekee vain ½ vahingon (pyöristä ylöspäin).
-7. Flechette-pistooli ampuu flechette-ryppäitä, joko yhdellä "laukauksella" tai pitkällä sarjalla, joka tyhjentää lippaan. Jokainen laukaus on yksittäinen hyökkäys, tehden 2D4 vahinkoa.
-8. Äänikivääri vahingoittaa eläviä kohteita jokaisella taistelukierroksella, kun se osuu niihin. Elotonta kohdetta vastaan vahinko per kierros heitetään vastustusheitossa kohteen KES-, haarniska-arvoa tai osumapisteitä vastaan (pelinjohtajan valinta). Jos kohde epäonnistuu, se särkyy tai vaurioituu ja muuttuu toimintakyvyttömäksi.
-9. Heitä vahinko ja aseta se vastakkain kohteen KES-heiton kanssa. Jos kohde onnistuu, se ottaa minimivahingon (2) rullatun vahingon sijaan. Jos kohde epäonnistuu, se on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**).
+1. Heitä vahinko ja vertaa kohteen KES-arvoon vastusheitossa. Jos kohde häviää, se on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**).
+2. Kohteen tehollinen panssariarvo tätä asetta vastaan on puolittunut (pyöristä ylös).
+3. Jos tunlaat hyökkäyksen monofilamenttimiekalla, tee vaikea Ketteryysheitto välttääksesi osumasta itseesi. Jos epäonnistut, hyökkäyksesi osuu sinuun lähitaisteluaseiden tunlaus-taulukon heiton lisäksi. Vahinko jättää huomioimatta ½ panssariarvosta (pyöristä ylös).
+4. Monissa etäaseissa on sarjatuliominaisuus (katso **Automaattituli**).
+5. Jos kohde on robotti, kone tai käyttää sähkömagneettista energiaa, heitä vahinko ja tee vastusheitto kohteen KES-arvoa vastaan. Jos onnistut, laite on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**). Jos vahinko on suurempi kuin kohteen osumapisteet, se kytkeytyy 'tietoisuudettomaksi'. EMP-aseiden vahinko on väliaikaista, ja menetetyt osumapisteet voidaan palauttaa Korjaus-heitolla.
+6. Kovakuorista panssaria (metalli, muovi tai levyt) vastaan flechette-pistooli tekee vain ½ vahinkoa (pyöristä ylös).
+7. Flechette-pistooli ampuu flechette-ryppäitä, joko yhtenä 'laukauksena' tai pitkänä sarjana, joka tyhjentää lippaan. Jokainen laukaus on yksittäinen hyökkäys, joka tekee 2D4 vahinkoa.
+8. Äänikivääri vahingoittaa eläviä kohteita jokaisella taistelukierroksella, jolloin se onnistuneesti osuu niihin. Elotonta kohdetta vastaan vahinko per kierros heitetään vastusheitossa kohteen KES-arvoa, panssariarvoa tai osumapisteitä vastaan (pelinjohtajan valinta). Jos kohde epäonnistuu, se särkyy tai vaurioituu ja lakkaa toimimasta.
+9. Heitä vahinko ja vertaa kohteen KES-arvoon vastusheitossa. Jos kohde onnistuu, se ottaa minimivahingon (2) heitetyn vahingon sijaan. Jos kohde häviää, se on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**).
 
-> ### Sääntöhuomioita tuliaseista
+> ### Ampuma-aseiden täsmäsäännöt
 > 
-> Luku seitsemän (Täsmäsäännöt) käsittelee monia ehtoja tuliaseisiin liittyen, kuten automaattituli, kantama jne. Seuraavassa on lisäsääntöjä käyttöön. Pelinjohtajasi voi sallia näiden kattavan myös muita etäaseita, kuten energia- tai laseraseita.
+> Seitsemäs luku: Täsmäsäännöt käsittelee monia ampuma-aseisiin liittyviä olosuhteita, kuten automaattitulta, kantamaa jne. Seuraavassa on lisäsääntöjä niiden käyttöön. Pelinjohtajasi voi valita sallia nämä koskemaan myös muun tyyppisiä etäaseita, kuten energia- tai laseraseita.
 > 
-> #### Haarniska ja tuliaseet
+> #### Panssari ja ampuma-aseet
 > 
-> Aiemman ajan haarniskatyypit ovat suhteellisen tehottomia myöhemmän ajan aseita vastaan; ritarin haarniska tarjoaa niukan suojan tuliaseilta. Kaikki alkeelliset, muinaiset tai keskiaikaiset haarniskat tarjoavat vain puolet arvostaan tuliaseita vastaan (pyöristä ylöspäin). Sama pätee moderniin haarniskaan kehittyneitä aseita vastaan. Kehittynyt haarniska suojaa täydellä arvolla kaikkia aseita vastaan. Yhteenvetona:
+> Aiemmilta kausilta peräisin olevat panssarit ovat suhteellisen tehottomia myöhempien kausien aseita vastaan; ritarin haarniska tarjoaa niukan suojan ampuma-aseilta. Kaikki primitiiviset, muinaiset tai keskiaikaiset panssarit antavat vain puolet arvostaan ampuma-aseita vastaan (pyöristettynä ylös). Sama pätee moderneihin panssareihin edistyneitä aseita vastaan. Edistynyt panssari suojaa täydellä arvollaan kaikkia aseita vastaan. Yhteenvetona:
 > 
-> * **Alkeellinen tai muinainen** haarniska tarjoaa vain ½ suojan suuren nopeuden tai energia-aseita vastaan (pyöristä ylöspäin).
+> * **Primitiiviset tai muinaiset** panssarit tarjoavat vain ½ suojan suurnopeus- tai energia-aseita vastaan (pyöristä ylös).
 > 
-> * **Moderni** haarniska tarjoaa ½ suojan energia-aseita vastaan (pyöristä ylöspäin).
+> * **Modernit** panssarit tarjoavat ½ suojan energia-aseita vastaan (pyöristä ylös).
 > 
-> * **Kehittynyt** haarniska tarjoaa täyden suojan kaikkia hyökkäysmuotoja vastaan. Pelinjohtajasi voi todeta, että kehittynyt haarniska suojaa vain ½ haarniska-arvostaan energia-aseita vastaan (pyöristä ylöspäin).
+> * **Edistyneet** panssarit tarjoavat täyden suojan kaikkia hyökkäysmuotoja vastaan. Pelinjohtajasi voi päättää, että edistynyt panssari suojaa vain ½ panssariarvostaan energia-aseita vastaan (pyöristä ylös).
 > 
-> Jos haarniska-arvo määritetään satunnaisesti, heitä haarniskan suojaukselle, sovella mahdolliset muokkaukset ja jaa sitten kahdella, pyöristäen ylöspäin. Jotkut haarniskat ilmoittavat jo eron käsiaseiden ja suuren nopeuden aseiden välillä—näitä ei tarvitse vähentää kahdesti. Jotkut hirviötyypit voivat myös olla vastustuskykyisiä tuliaseille, mikä on merkitty niiden kuvauksiin luvussa yksitoista (Olennot).
+> Jos panssariarvo määritetään satunnaisesti, heitä panssarin suojauksesta, sovella mahdolliset muokkaajat ja jaa sitten kahdella pyöristäen ylös. Jotkut panssarit ilmoittavat jo suojan eron käsiaseiden ja suurnopeusaseiden välillä – näitä ei tarvitse vähentää kahdesti. Jotkut hirviötyypit voivat myös olla vastustuskykyisiä ampuma-aseille, mikä on merkitty niiden kuvauksiin yhdennessätoista luvussa: Luodut.
 > 
 > #### Ladatut revolverit
 > 
-> Revolverin iskurin alla oleva kammio jätetään usein tyhjäksi vahinkolaukauksen välttämiseksi. Jos tätä käytäntöä noudatetaan, alenna ammuskapasiteettia 1:llä. Korostaakseen täyteen ladatun revolverin kantamisen vaaraa, pelinjohtajasi voi vaatia hahmoasi tekemään onnistuneen Onni-heiton vahinkolaukauksen välttämiseksi, jos hahmosi kaatuu tai häntä tönitään tarpeeksi rajusti aseen laukeamispotentiaalin vuoksi. Jos Onni-heitto onnistuu, revolveri ei laukea. Jos se epäonnistuu, revolveri laukeaa, ja hahmosi sekä kaikki hahmosi ympärillä olevat on tehtävä Onni-heitto välttääkseen osumasta harhaluotiin. Pelinjohtajan tulisi määrittää, kehen ystävällismielinen tuli osuu. Jos alkuperäinen Onni-heitto on moka, luoti osuu hahmoosi ja tekee normaalin vahingon.
+> Revolverin iskurin alla oleva patruunapesä jätetään usein tyhjäksi vahinkolaukauksen välttämiseksi. Jos tätä käytäntöä noudatetaan, laske ammuskapasiteettia yhdellä. Täyteen ladatun revolverin kantamisen vaaran korostamiseksi pelinjohtajasi voi vaatia hahmoasi tekemään onnistuneen Onni-heiton vahinkolaukauksen välttämiseksi, jos hahmosi kaatuu tai tönäistään riittävän rajusti laukaistakseen aseen. Jos Onni-heitto onnistuu, revolveri ei laukea. Jos se epäonnistuu, revolveri laukeaa, ja hahmosi sekä kaikki hahmosi lähellä olevat onnistuvat Onni-heitossa välttääkseen osumasta harhaluotiin. Pelinjohtajan tulee päättää, keneen mahdollinen omatuli osuu. Jos alkuperäinen Onni-heitto on tunlaus, luoti osuu hahmoosi ja tekee normaalia vahinkoa.
 > 
-> #### Mokat
+> #### Toimintahäiriöt
 > 
-> Jos hahmosi hyökkäysheitto on yhtä suuri tai korkeampi kuin aseen mokaluku, ase menee epäkuntoon eikä laukea ennen kuin sitä on käsitelty.
+> Jos hahmosi hyökkäysheitto on yhtä suuri tai suurempi kuin aseen toimintahäiriönumero, ase menee epäkuntoon eikä laukea ennen kuin se on hoidettu.
 > 
-> * Jos ase on revolveri, pulttilukko tai kaksipiippuinen haulikko, ongelma on vain sytytyshäiriö.
-> * Jos ase on automaattinen, puoliautomaattinen, pumppuhaulikko tai vipulukollinen, moka on jumiutuminen.
+> * Jos ase on revolveri, pulttilukkoinen kivääri tai kaksipiippuinen haulikko, ongelma on vain viallinen patruuna.
 > 
-> Sytytyshäiriö voidaan poistaa tai ejectata yhdessä taistelukierroksessa. Jumiutumisen korjaaminen vie 1D6 taistelukierrosta ja vaatii onnistuneen taitotaiton joko tuliase- tai Korjaus-taidolla, riippuen siitä, kumpi on korkeampi. Hahmosi voi yrittää uudelleen, kunnes onnistuu, jokaisen yrityksen viedessä ylimääräiset 1D6 taistelukierrosta. 96–00 -heitto tässä yrityksessä johtaa tuliaseen peruuttamattomaan vaurioitumiseen ja korjauskelvottomuuteen.
+> * Jos ase on automaatti, puoliautomaatti, pumppuhaulikko tai vipulukko, toimintahäiriö on jumi.
 > 
-> Moka voi myös päällekkäin mennä epäkuntoon joutumisen kanssa. Jos tulokset ovat ristiriidassa, pelinjohtajan tulisi käsitellä ne käytännöllisimmässä järjestyksessä, soveltaen molempia tuloksia aina kun mahdollista. Muut kuin tuliaseet voivat myös mennä epäkuntoon, ja ne voidaan puhdistaa samalla tavalla. Energia-aseiden kohdalla "sytytyshäiriö" on todennäköisesti epätäydellinen tai viallinen lataus.
+> Viallinen patruuna voidaan pyörittää ohi tai poistaa yhdellä taistelukierroksella. Jumin korjaaminen vie 1D6 taistelukierrosta ja vaatii onnistuneen taitoheiton joko ampuma-asetaidosta tai Korjaus-taidosta, kumpi on korkeampi. Hahmosi voi yrittää, kunnes onnistuu, ja jokainen yritys vie ylimääräiset 1D6 taistelukierrosta. Tämän yrityksen tulos 96–00 johtaa siihen, että ampuma-ase vaurioituu pysyvästi eikä ole korjattavissa helposti.
 > 
-> #### Tuliaseiden lataaminen
+> Tunlaus voi myös mennä päällekkäin toimintahäiriön kanssa. Jos molemmat tulokset ovat ristiriidassa, pelinjohtajasi tulee käsitellä ne käytännöllisimmässä järjestyksessä ja soveltaa molempia aina kun mahdollista. Muut kuin ampuma-aseet voivat myös mennä epäkuntoon, ja ne voidaan puhdistaa samalla tavalla. Energia-aseiden kohdalla 'viallinen patruuna' on todennäköisesti epätäydellinen tai viallinen varaus.
 > 
-> Yhden taistelukierroksen vie ladata kaksi hylsyä tai luotia mihin tahansa käsiaseeseen, kivääriin tai haulikkoon, ja yhden kierroksen vaihtaa lipas, energiasolu tai paristopaketti. Konekiväärin vyön vaihtaminen vie kaksi kierrosta. Jos aika on kortilla, on mahdollista laittaa yksi ammus tuliaseeseen ja saada yksi laukaus irti ½ hahmosi normaalista KET-sijoituksesta (pyöristä ylöspäin).
+> #### Ampuma-aseiden lataaminen
+> 
+> Kahden patruunan lataaminen mihin tahansa käsiaseeseen, kivääriin tai haulikkoon vie yhden taistelukierroksen, samoin kuin lippaan, energiakennon tai paristopaketin vaihtaminen. Konekiväärin vyön vaihtaminen vie kaksi taistelukierrosta. Jos aika on kortilla, on mahdollista ladata yksi patruuna ampuma-aseeseen ja tehdä yksi laukaus hahmosi normaalilla KET-arvolla ½ (pyöristä ylös).
 > 
 > #### Tähtäämättömät laukaukset
 > 
-> Etäaseiden hyökkäykset-per-kierros (Hyök) olettaa, että hahmosi yrittää osua kohteeseen suoraan ja yrittää tähdätä. Jos haluat hahmosi suihkuttavan aluetta laukauksilla, kuten tarjotessasi suojaavaa tulta, ja tarkkuus ei ole huolenaihe, voit tuplata aseen hyökkäykset-per-kierros, mutta mahdollisuus osua on 1/5 hahmosi taidosta (vastaa erityisen onnistumisen mahdollisuutta, vaikka tulos on normaali onnistuminen). Jos kohteita on enemmän kuin yksi, pelinjohtajan tulisi määrittää satunnaisesti, kuka osuu. Pelinjohtajan harkinnan mukaan, jos hahmosi on valmistautunut, varustettu lasertähtäimellä tai vastaavalla kohdistuslaitteella, ja hahmolla on yli 60 % asetaidoton, osumismahdollisuus ei muutu.
+> Etäaseiden hyökkäykset per kierros (**Hyökk**) olettaa, että hahmosi yrittää osua kohteeseen suoraan ja yrittää tähdätä. Jos haluat hahmosi suihkuttavan aluetta laukauksilla, esimerkiksi antaessasi suojatulta, eikä tarkkuus ole huolenaihe, voit tuplata aseen hyökkäykset per kierros, mutta osumamahdollisuus laskee 1/5 hahmosi taidosta (vastaa erikoisonnistumisen mahdollisuutta, vaikka tulos on normaali onnistuminen). Jos kohteita on useampi kuin yksi, pelinjohtajasi tulee päättää satunnaisesti, keneen osuma kohdistuu. Pelinjohtajan harkinnan mukaan, jos hahmosi on valmistautunut, varustettu lasertähtäimellä tai vastaavalla tähtäyslaitteella ja hänellä on yli 60 % asetaito, osumamahdollisuutta ei muokata.
 
-## Haarniska
+## Panssari
 
-Perustasolla haarniska on kovetettua vaatetusta. Asetelmasta riippuen haarniska on valmistettu nahasta, metallista, muovista tai näiden materiaalien yhdistelmästä, ja sitä pidetään, jotta käyttäjän ja vahingonlähteen välissä olisi jotain suojaavaa. Haarniska on raskaampaa kuin tavalliset vaatteet ja usein epämukava ja kömpelö kantaa. Jos hahmosi on soturi, hän on todennäköisesti mukavampi haarniskassa kuin keskivertoihminen, vaikka haarniskan kantaminen on harvoin mukavampaa kuin ilman sitä.
+Perustasolla panssari on kovetettua vaatetusta. Asetuksesta riippuen panssari on valmistettu nahasta, metallista, muovista tai näiden materiaalien yhdistelmästä, ja sitä käytetään, jotta itsensä ja vahingonlähteen välissä olisi jotain suojaavaa. Panssari on painavampaa kuin tavalliset vaatteet ja usein epämukavaa ja kömpelöä käyttää. Jos hahmosi on soturi, hän tuntee olonsa todennäköisesti mukavammaksi panssarissa kuin keskivertoihminen, vaikka panssarin käyttö on harvoin mukavampaa kuin ilman panssaria olo.
 
-Tässä osiossa kuvattu haarniska on luokiteltu löyhästi kronologisesti, viitteeksi. Useimmissa tapauksissa aiemman kauden haarniskat ovat myöhempien kausien ihmisten saatavilla, joten pelinjohtajasi voi valita, mihin haarniskan saatavuus ulottuu, ja antaa hahmollesi pääsyn aiempiin tyyppeihin.
+Tässä osiossa kuvattu panssari on luokiteltu löyhästi kronologisesti viitteeksi. Useimmissa tapauksissa aiemman kauden panssari on saatavilla myöhemmän kauden ihmisille, joten pelinjohtajasi voi valita, missä panssarin saatavuus päättyy, ja sallia hahmollesi pääsyn aiempiin tyyppeihin.
 
-Jokaisella haarniskatyypillä on seuraavat attribuutit:
+Jokaisella panssarityypillä on seuraavat ominaisuudet:
 
 * **Nimi**: Yleisnimi.
-* **HA**: Haarniska-arvo, haarniskan tarjoama suoja.
-* **Satunnainen HA**: (Valinnainen) Tämä on haarniska-arvo, jos käytetään satunnaisia haarniska-arvoja.
-* **Taakka**: Haarniskan kömpelyys tai suhteellinen kuormittavuus. Pelinjohtajasi voi käyttää tätä arvoa valinnaisen uupumusjärjestelmän kanssa.
-* **ENC**: Tämä arvo on keskiverto-KOK:n hahmolle (11–15). KOK:ille 6–10, kerro ENC-arvo 0,8:lla; KOK:ille 16–20 kerro arvo 1,2:lla; KOK:ille 21–25 kerro se 1,4:llä jne. (pyöristä ylöspäin).
-* **Taitomuokkaus**: Tiettyjen taitojen tai taitoluokkien muokkaus haarniskaa käytettäessä, sovelletaan myös kaikkiin soveltuviin taitoihin.
-* **Sopiva KOK**: Hajonta, jonka haarniskan oletus-KOK voi mukauttaa oletus-KOK:sta, ilmaistuna positiivisena tai negatiivisena arvona.
-* **Aika**: Kuinka monta taistelukierrosta haarniskan pukemiseen kuluu.
-* **Sijainnit**: (Valinnainen) Jos osumakohtia käytetään, haarniskan peittämät osumakohdat.
-* **Arvo**: Haarniskan hinta keskivertoasetelmassa.
 
-Toisin kuin aseet ja kilvet, haarniska ei yleensä kärsi vahinkoa, paitsi ympäristötekijöistä. Haarniska on suunniteltu puolustukseen; se kestää paljon iskua. Haarniska-arvo ei koskaan laske taistelun aikana—sen sijaan haarniska-arvon muutoksen on tultava jostain poikkeuksellisesta tapahtumasta.
+* **PA**: Panssariarvo, määrä, jonka panssari suojaa.
 
-### Haarniskojen kuvaukset
+* **Satunnainen PA**: (Valinnainen) Tämä on panssariarvo, jos käytetään satunnaisia panssariarvoja.
 
-Tämä osio kuvailee kaikki haarniskatyypit aakkosjärjestyksessä.
+* **Taakka**: Panssarin kömpelyys tai suhteellinen kuormittavuus. Pelinjohtajasi voi käyttää tätä arvoa valinnaisen väsymysjärjestelmän kanssa.
 
-**Mukautuva verkko:** Tämä korkean teknologian kangas kovettuu ja reagoi iskuihin, mutta pysyy taipuisana ja mukavana muun ajan. Yleensä puetaan vartaloa myötäilevänä asuna, voidaan kerroksistaa muiden haarniskojen alle.
+* **ENC**: Tämä arvo on keskimääräiselle KOK-arvon (11–15) hahmolle. KOK 6–10 -hahmoille kerro ENC-arvo 0,8:lla; KOK 16–20 -hahmoille kerro arvo 1,2:lla; KOK 21–25 -hahmoille kerro se 1,4:llä jne. (pyöristä ylös).
 
-**Rynnäkköhaarniska, kevyt:** Sotilaiden käyttämä kevyt haarniska vastustamaan lähitaisteluaseita, kiinteitä ammuksia sekä energia-aseita. Valmistettu keramiikasta, seoksista tai iskunkestävistä muoveista.
+* **Taitomuokkaaja**: Muokkaaja tiettyihin taitoihin tai taitoluokkiin panssarin käytön aikana, sovelletaan myös kaikkiin asianmukaisiin taitoihin.
 
-**Rynnäkköhaarniska, standardi:** Raskas haarniska, valmistettu taisteluihin vaarallisissa ympäristöissä. Valmistettu keramiikasta, seoksista tai kestävistä muoveista, rynnäkköhaarniska tarjoaa suojan päästä varpaisiin ja on armeijan suosima.
+* **Sopiva KOK**: Hajonta, jonka panssarin oletus-KOK voi sallia oletus-KOK:sta, ilmaistuna positiivisena tai negatiivisena arvona.
 
-**Rynnäkköhaarniska (raskas), voimahaarniska:** Samankaltainen kuin standardirynnäkköhaarniska, mutta massiivisempi ja paksummilla panssarilevyillä. Sisäiset servomoottorit tehostavat kantajan voimia. Raskaassa voimahaarniskassa olevat taistelijat käyttävät usein valtavia aseita. Runko hyväksyy modulaarisia parannuksia (kuten rakettirepun) ja on sinetöity kemiallisia aseita ja avaruuden tyhjiötä vastaan.
+* **Aika**: Kuinka monta taistelukierrosta panssarin pukeminen kestää.
 
-**Rynnäkköhaarniska (kevyt), voimahaarniska:** Samankaltainen kuin raskas voimahaarniska, mutta kevyempi ja vailla lisävarusteita kuten sinetöityjä järjestelmiä.
+* **Sijainnit**: (Valinnainen) Jos osumakohtia käytetään, panssarin peittämät osumakohdat.
 
-**Ballistinen kangas:** Valmistettu aramidikuidusta, ballistinen kangashuarniska tarjoaa kohtalaisen suojan luoteja vastaan, tosin ei niin paljon kuin luotiliivit. Yleensä pidetään katuvaatteiden alla tai muotoiltu muistuttamaan tavallisia vaatteita.
+* **Arvo**: Panssarin hinta keskimääräisessä ympäristössä.
 
-**Luotiliivit, varhaiset:** Vanhempi luotiliivien variantti, raskas ja kömpelö, segmentoituun kangasliiviin asennetut paksut metallilevyt.
+Toisin kuin aseet ja kilvet, panssari ei yleensä kärsi vahinkoa, paitsi ympäristötekijöiden vuoksi. Panssari on suunniteltu puolustukseen; se kestää paljon iskua. Panssariarvoa ei koskaan pienennetä taistelussa tapahtuvan vahingon kautta – sen sijaan panssariarvon muutoksen on tultava jostain poikkeuksellisesta tapahtumasta.### Panssarien kuvaukset
 
-**Luotiliivit, modernit:** Luotiliivien evoluutio, käyttäen iskunkestäviä metalliseoksia ja muoveja kevyemmän ja ohuemman suojan saamiseksi.
+Tämä osio kuvaa kaikki panssarityypit aakkosjärjestyksessä.
 
-**Ketjupaita:** Koostuu kudotuista metallirenkaista tehdystä verkosta. Erittäin joustava, mutta melko painava.
+**Mukautuva verkko (Adaptive Mesh):** Tämä korkean teknologian kangas kovettuu ja reagoi iskuihin, mutta pysyy muuten joustavana ja mukavana. Käytetään yleensä kokovartalopukuna, ja se voidaan pukea muiden panssarien alle.
 
-**Vaatteet, raskaat:** Vastine paksun viitan, talvitakin, tiukan nahkavaatetuksen tai useiden vaatekerrosten kantamiselle.
+**Rynnäkköpanssari, kevyt:** Sotilaiden käyttämä kevyt panssari, joka suojaa lähitaisteluaseilta, kiinteiltä ammuksilta sekä energia-aseilta. Valmistettu keramiikasta, metalliseoksista tai iskunkestävistä muoveista.
 
-**Energiahaarniska:** Koostuu vyöllä tai selässä, lapaluiden välissä kannettavasta virtapaketista, joka on mahdollisesti kytketty pitkin kehoa jaettuihin emittereihin. Aktivoituna se peittää hahmon suojaavalla energiavaipalla.
+**Rynnäkköpanssari, standardi:** Raskas panssari, joka on tehty taisteluihin vaarallisissa ympäristöissä. Valmistettu keramiikasta, metalliseoksista tai kestävistä muoveista. Rynnäkköpanssari tarjoaa suojan päästä varpaisiin ja on sotilasvoimien suosiossa.
 
-**Sirpaleliivit:** Täysi takki samankaltainen kuin varhaiset luotiliivit, joskin vähemmän panssaroitu, hyödyllinen lentäjille ja maajoukoille.
+**Rynnäkköpanssari (raskas), voimakäyttöinen:** Samankaltainen kuin standardi rynnäkköpanssari, mutta massiivisempi ja paksummilla panssarilevyillä. Sisäiset servomoottorit tehostavat käyttäjän VOI-arvoa. Voimakäyttöistä raskasta rynnäkköpanssaria käyttävät taistelijat kantavat usein massiivisia aseita. Runko hyväksyy modulaarisia parannuksia (kuten suihkurepun) ja on tiivistetty kemiallisia aseita sekä avaruuden tyhjiötä vastaan.
 
-**Kypärä, raskas tai kevyt:** Lähes kaikissa haarniskatyypeissä on kypärä. Kokohaarniskapukuihin sisältyy kypärät. Jos kypärää ei pidetä, alenna haarniska-arvoa –1 kevyelle kypärälle ja –2 raskaalle. Jos käytetään satunnaisia haarniska-arvoja, muokkaa aluetta –1 tai –2, tarpeen mukaan. Jos käytetään osumakohtia, kypärällä on sama suoja-arvo kuin haarniskan materiaaliin liittyvällä kädellä tai jalalla.
+**Rynnäkköpanssari (kevyt), voimakäyttöinen:** Samankaltainen kuin raskas voimakäyttöinen rynnäkköpanssari, mutta kevyempi ja vailla lisävarusteita, kuten tiivistysjärjestelmiä.
 
-**Vuota:** Parkittu tai parkitsematon eläimen nahka, jota pidetään viittana tai vaatteena, turkki ehjänä.
+**Ballistinen kangas:** Aramidikuidusta valmistettu ballistinen kangaspanssari tarjoaa kohtuullisen suojan luoteja vastaan, vaikkakaan ei yhtä paljon kuin luotiliivit. Käytetään yleensä katumuodin alla tai muotoiltuna näyttämään normaalilta vaatetukselta.
 
-**Lamelli (Nastoitettu, Splint):** Koostuu ohuista metalliliuskoista (splints), jotka yleensä pidetään niiteillä nahkataustassa.
+**Luotiliivit, varhaiset:** Vanhempi muunnelma luotiliiveistä; raskas ja kömpelö, koostuu paksunnetuista metallilevyistä segmentoidussa kangasliivissä.
 
-**Nahka, pehmeä:** Vastaa nahkatakkia tai liiviä, pehmeää nahkaa pidetään usein muiden haarniskojen alla lisäpehmusteena ja suojana.
+**Luotiliivit, modernit:** Luotiliivien kehitysversio, joka käyttää iskunkestäviä metalliseoksia ja muoveja kevyemmän ja ohuemman suojan saavuttamiseksi.
 
-**Nahka, kova:** Vastaa puolen senttimetrin paksuista parkittua nahkaa, noin paksu kuin miesten kengän pohja. Siinä voi olla nahkanastoja tai kohokuviointia.
+**Rengaspanssari:** Tämä panssari koostuu kudotuista metallirenkaista tehdystä verkosta. Se on erittäin joustava, mutta melko painava.
 
-**Nahka, Cuirbouilli:** Paksua ja puolijäykkää nahkaa, joka on parkittu ja keitetty öljyssä ja vahassa, sitten muotoiltu kantajan mukaan. Usein koristeltu ja värjätty värikkäästi.
+**Vaatetus, raskas:** Vastaa raskaan viitan, talvitakin, tiukkojen nahkavaatteiden tai useiden vaatekerrosten pukemista.
 
-**Pehmustettu/Tikattu:** Koostuu kerroksista jäykistettyä paksua kangasta, ommeltu yhteen kuin pehmuste tai tilkkupeitto. Halpa ja helppo valmistaa, ei tarjoa paljon suojaa, vaikka voidaan pitää metallihaarniskojen kuten puolihaarniskan ja ketjupaidan alla.
+**Energia-panssari:** Tämä panssari koostuu vyöllä tai selässä lapaluiden välissä kannettavasta sisäisestä virtalähteestä, joka on mahdollisesti yhdistetty ympäri kehoa sijoitettuihin säteilijöihin. Aktivoituna se peittää hahmon suojaavalla energiakerroksella.
 
-**Pehmustettu/Tikattu, raskas:** Samankaltainen kuin pehmustettu tai tikattu haarniska, mutta raskaampi ja paksumpi.
+**Sirpale-liivit (Flak Jacket):** Tämä on kokonainen takki, joka muistuttaa varhaisia luotiliivejä, mutta on vähemmän panssaroitu. Hyödyllinen niin lentäjille kuin jalkaväellekin.
 
-**Levy, puolipanssari:** Koostuu osittaisesta levypanssaripuvusta (katso alla), joka ei peitä koko kehoa. Yleensä rintapanssari, kypärä ja joitakin pienempiä osia, ketjupaidan peittäessä muun.
+**Kypärä, raskas tai kevyt:** Lähes kaikissa näissä panssarityypeissä on kypärä. Kokonaisiin panssaripukuihin sisältyvät yleensä kypärät. Jos kypärää ei käytetä, vähennä panssariarvoa –1 kevyen kypärän kohdalla ja –2 raskaan kypärän kohdalla. Jos käytät satunnaisia panssariarvoja, muokkaa vaihteluväliä –1 tai –2 verran sopivasti. Jos osumakohtia käytetään, kypärällä on sama suoja-arvo kuin kyseisen panssarimateriaalin kädellä tai jalalla.
 
-**Levy, kokopanssari:** Koostuu kiinteistä metallilevyistä, muotoiltu kehon mukaan ja pidetty yhdessä katetuilla nahkahihnoilla. Historiallisesti tämä oli ylivertainen muihin vartalonhaarniskoihin verrattuna, mutta kokometallirakenne tekee siitä raskaimman ja vähiten mukavan.
+**Vuota:** Parkittu tai parkitsematon eläimen nahka, jota käytetään viittana tai vaatteena turkki tallella.
 
-**Rengaspanssari:** Pehmeää nahkaa tai muuta taustaa, johon on ommeltu metallirenkaita lomittaisena tai limittäisenä kuviona.
+**Lamelli (niitattu, säle):** Tämä panssari koostuu ohuista metalliliuskoista (säleistä), jotka on yleensä kiinnitetty nahkaiseen taustaan niiteillä.
 
-**Mellakkavarusteet:** Raskas luotiliivi ja vahvistettu vaatetusalue, levyjä strategisissa kehon osissa ja kypärä.
+**Nahka, pehmeä:** Vastaa nahkatakkia tai -liiviä; pehmeää nahkaa käytetään usein muiden panssarien alla lisäpehmusteena ja -suojana.
 
-**Suomu:** Suomupanssari koostuu limittäisistä metallisuomuista, jotka on kiinnitetty taustaan.
+**Nahka, kova:** Tämä vastaa puolentoista senttimetrin paksuista parkittua nahkaa, suunnilleen yhtä paksua kuin juhlakengän pohja. Siinä voi olla nahkaisia nasta- tai kohokuvioita.
 
-**Splint:** Katso lamellin kuvaus.
+**Nahka, cuirbouilli:** Paksua ja puolikovaa nahkaa, joka on parkittu ja keitetty öljyssä ja vahassa, ja sitten muovattu käyttäjän muotoon. Se on usein koristeltu ja värikkäästi värjätty.
 
-**Nastoitettu:** Katso lamellin kuvaus.
+**Topattu/tikatattu:** Tämä panssari koostuu päällekkäisistä, jäykistetyistä paksun kankaan kerroksista, jotka on ommeltu yhteen kuin pehmuste tai peitto. Halpa ja helppo valmistaa; se ei tarjoa kovin paljoa suojaa, vaikka sitä voi käyttää metallipanssarien, kuten puolilevypanssarin ja rengaspanssarin, alla.
 
-##### Alkeelliset haarniskat
+**Topattu/tikatattu, raskas:** Samankaltainen kuin topattu tai tikatattu panssari, mutta painavampi ja paksumpi.
 
-| Nimi | HA | Satunnainen HA | Taakka | ENC | Taitomuokkaus | Sopiva KOK | Aika | Sijainnit | Arvo |
+**Puolilevypanssari:** Tämä panssari koostuu osittaisesta levypanssarista (katso alta), joka ei peitä koko vartaloa. Yleensä se on rintapanssari, kypärä ja joitakin pienempiä osia, muiden osien ollessa rengaspanssaria.
+
+**Täyslevypanssari:** Tämä panssari koostuu kiinteistä metallilevyistä, jotka on muovattu kehon mukaan ja pidetty koossa päällystetyillä nahkahihnoilla. Historiallisesti tämä oli ylivoimainen kaikkiin muihin vartalopanssareihin verrattuna, mutta kokometallinen rakenne tekee siitä raskaimman ja vähiten mukavan.
+
+**Rengaspanssari (erilliset renkaat):** Tämä on pehmeää nahkaa tai muuta taustamateriaalia, johon on ommeltu metallirenkaita lähekkäin tai limittäin.
+
+**Mellakkavarusteet:** Raskaat luotiliivit ja vahvistettu kokopuku, jossa on levyt strategisissa kehon osissa sekä kypärä.
+
+**Suomupanssari:** Suomupanssari koostuu limittäisistä erimuotoisista ja -kokoisista metallisuomuista, jotka on kiinnitetty taustaan.
+
+**Sälepanssari:** Katso lamellipanssarin kuvaus.
+
+**Niittipanssari:** Katso lamellipanssarin kuvaus.
+
+##### Alkeelliset panssarit
+
+| Nimi | PA | Satunnainen PA | Rasite | ENC | Taitomuokkaaja | KOK-sovitus | Aika | Sijainnit | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kypärä | +1 | +1 piste | Kevyt | 0.5 | –5 % Havaintotaidot | ±1 | 1 | Pää | Halpa |
+| Kypärä | +1 | +1 piste | Kevyt | 0.5 | –5% Havaintotaidot | ±1 | 1 | Pää | Halpa |
 | Vuota | 1 | 1D3–1 | Kevyt | 3.5 | Ei mitään | ±3 | 1 | Kaikki | Halpa |
 
-##### Muinainen ja keskiaikainen haarniska
+##### Muinaiset ja keskiaikaiset panssarit
 
-| Nimi | HA | Satunnainen HA | Taakka | ENC | Taitomuokkaus | Sopiva KOK | Aika | Sijainnit | Arvo |
+| Nimi | PA | Satunnainen PA | Rasite | ENC | Taitomuokkaaja | KOK-sovitus | Aika | Sijainnit | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Ketjupaita | 7 | 1D8–1 | Kohtalainen | 20.0 | –20 % Fyysiset taidot | -2 | 3 | Kaikki | Kallis |
-| Vaatteet, raskaat | 1 | 1d2–1 | Ei mitään | 2.5 | Ei mitään | ±2 | 1 | Kaikki | Halpa |
-| Kypärä, raskas | +2 | +2 pistettä | Kevyt | 2.5 | –50 % Havaintotaidot | ±0 | 1 | Pää | Keskiverto |
-| Kypärä, kevyt | +1 | +1 piste | Ei mitään | 1.5 | –15 % Havaintotaidot | ±1 | 1 | Pää | Edullinen |
-| Lamelli | 6 | 1D8–1 | Kohtalainen | 18.0 | –15 % Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Kallis |
+| Rengaspanssari | 7 | 1D8–1 | Kohtalainen | 20.0 | –20% Fyysiset taidot | –2 | 3 | Kaikki | Kallis |
+| Vaatetus, raskas | 1 | 1d2–1 | Ei mitään | 2.5 | Ei mitään | ±2 | 1 | Kaikki | Halpa |
+| Kypärä, raskas | +2 | +2 pistettä | Kevyt | 2.5 | –50% Havaintotaidot | ±0 | 1 | Pää | Keskiverto |
+| Kypärä, kevyt | +1 | +1 piste | Ei mitään | 1.5 | –15% Havaintotaidot | ±1 | 1 | Pää | Edullinen |
+| Lamelli | 6 | 1D8–1 | Kohtalainen | 18.0 | –15% Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Kallis |
 | Nahka, pehmeä | 1 | 1D6–1 | Kevyt | 3.5 | Ei mitään | ±2 | 2 | Kaikki | Edullinen |
-| Nahka, kova | 2 | 1D6 | Kohtalainen | 5.0 | –10 % Fyysiset taidot | ±1 | 2 | Kaikki | Keskiverto |
-| Nahka, Cuirbouill | 3 | 2D3 | Kevyt | 5.0 | –10 % Fyysiset taidot | ±0 | 2 | Kaikki | Kallis |
-| Pehmustettu/Tikattu | 1 | 1D2–1 | Ei mitään | 3.0 | Ei mitään | ±2 | 1 | Kaikki | Edullinen |
-| Pehmustettu/Tikattu, raskas | 2 | 1D3–1 | Kevyt | 4.0 | –5 % Fyysiset taidot | ±1 | 2 | Kaikki | Edullinen |
-| Levy, kokopanssari | 8 | 1D10 | Kömpelö | 25.0 | –25 % Fyysiset taidot | -1 | 5 | Kaikki paitsi pää | Kallis |
-| Levy, puolipanssari | 7 | 1D8 | Kohtalainen | 18.0 | –20 % Fyysiset taidot | -1 | 4 | Kaikki paitsi pää | Kallis |
-| Rengaspanssari | 5 | 1D6 | Kevyt | 10.0 | –10 % Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Keskiverto |
-| Suomu | 6 | 2D4–1 | Kohtalainen | 20.0 | –15 % Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Keskiverto |
+| Nahka, kova | 2 | 1D6 | Kohtalainen | 5.0 | –10% Fyysiset taidot | ±1 | 2 | Kaikki | Keskiverto |
+| Nahka, cuirbouilli | 3 | 2D3 | Kevyt | 5.0 | –10% Fyysiset taidot | ±0 | 2 | Kaikki | Kallis |
+| Topattu/tikatattu | 1 | 1D2–1 | Ei mitään | 3.0 | Ei mitään | ±2 | 1 | Kaikki | Edullinen |
+| Topattu/tikatattu, raskas | 2 | 1D3–1 | Kevyt | 4.0 | –5% Fyysiset taidot | ±1 | 2 | Kaikki | Edullinen |
+| Täyslevypanssari | 8 | 1D10 | Kömpelö | 25.0 | –25% Fyysiset taidot | –1 | 5 | Kaikki paitsi pää | Kallis |
+| Puolilevypanssari | 7 | 1D8 | Kohtalainen | 18.0 | –20% Fyysiset taidot | –1 | 4 | Kaikki paitsi pää | Kallis |
+| Rengaspanssari (renkaat) | 5 | 1D6 | Kevyt | 10.0 | –10% Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Keskiverto |
+| Suomupanssari | 6 | 2D4–1 | Kohtalainen | 20.0 | –15% Fyysiset taidot | ±1 | 2 | Kaikki paitsi pää | Keskiverto |
 
-##### Moderni haarniska
+##### Modernit panssarit
 
-| Nimi | HA | Satunnainen HA | Taakka | ENC | Taitomuokkaus | Sopiva KOK | Aika | Sijainnit | Arvo |
+| Nimi | PA | Satunnainen PA | Rasite | ENC | Taitomuokkaaja | KOK-sovitus | Aika | Sijainnit | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Ballistinen kangas | 3/51 | 1D3/1D6–1 | Kevyt | 4.0 | –10 % Fyysiset taidot | ±1 | 1 | Käsivarret, rinta | Kallis |
-| Luotiliivit, varhaiset | 4 | 1D4 | Kohtalainen | 11.0 | –25 % Fyysiset taidot | ±1 | 2 | Rinta | Kallis |
-| Luotiliivit, modernit | 4/81 | 1D4/1D8 | Kevyt | 8.0 | –5 % Fyysiset taidot | ±3 | 2 | Rinta | Kallis |
-| Vaatteet, raskaat | 1 | 1D2–1 | Ei mitään | 2.5 | Ei mitään | ±2 | 1 | Kaikki | Halpa |
-| Sirpaleliivit | 4 | 1D4 | Kohtalainen | 8.0 | –10 % Fyysiset taidot | ±2 | 1 | Käsivarret, rinta | Kallis |
-| Kypärä, raskas | +6 | +3 pistettä | Kevyt | 3.5 | –25 % Havaintotaidot | ±1 | 1 | Pää | Keskiverto |
-| Kypärä, kevyt | +3 | +2 pistettä | Ei mitään | 2.5 | –10 % Havaintotaidot | ±2 | 1 | Pää | Edullinen |
-| Mellakkavarusteet | 12/61 | 1D10+2 | Kohtalainen | 12.0 | –10 % Fyysiset taidot | ±1 | 5 | Kaikki2 | Kallis |
+| Ballistinen kangas | 3/51 | 1D3/1D6–1 | Kevyt | 4.0 | –10% Fyysiset taidot | ±1 | 1 | Kädet, rinta | Kallis |
+| Luotiliivit, varhaiset | 4 | 1D4 | Kohtalainen | 11.0 | –25% Fyysiset taidot | ±1 | 2 | Rinta | Kallis |
+| Luotiliivit, modernit | 4/81 | 1D4/1D8 | Kevyt | 8.0 | –5% Fyysiset taidot | ±3 | 2 | Rinta | Kallis |
+| Vaatetus, raskas | 1 | 1D2–1 | Ei mitään | 2.5 | Ei mitään | ±2 | 1 | Kaikki | Halpa |
+| Sirpale-liivit | 4 | 1D4 | Kohtalainen | 8.0 | –10% Fyysiset taidot | ±2 | 1 | Kädet, rinta | Kallis |
+| Kypärä, raskas | +6 | +3 pistettä | Kevyt | 3.5 | –25% Havaintotaidot | ±1 | 1 | Pää | Keskiverto |
+| Kypärä, kevyt | +3 | +2 pistettä | Ei mitään | 2.5 | –10% Havaintotaidot | ±2 | 1 | Pää | Edullinen |
+| Mellakkavarusteet | 12/61 | 1D10+2 | Kohtalainen | 12.0 | –10% Fyysiset taidot | ±1 | 5 | Kaikki2 | Kallis |
 
-1. Ensimmäinen arvo on lähitaistelu- tai matalan nopeuden heittoaseita vastaan; toinen arvo on tuliaseita vastaan.
+1. Ensimmäinen arvo on lähitaistelu- tai hitaan ammuksen aseita vastaan; toinen arvo on ampuma-aseita vastaan.  
 2. Sisältää kypärän.
 
-##### Kehittynyt haarniska
+##### Edistyneet panssarit
 
-| Nimi | HA | Satunnainen HA | Taakka | ENC | Taitomuokkaus | Sopiva KOK | Aika | Sijainnit | Arvo |
+| Nimi | PA | Satunnainen PA | Rasite | ENC | Taitomuokkaaja | KOK-sovitus | Aika | Sijainnit | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Mukautuva verkko | 6 | 1D4+2 | Kevyt | 2.0 | –5 % Fyysiset taidot | ±1 | 1 | Kaikki | Kallis |
-| Rynnäkköhaarniska, kevyt | 8 | 2D6 | Kohtalainen | 12.0 | –10 % Fyysiset taidot | ±1 | 2 | Kaikki1 | Kallis |
-| Rynnäkköhaarniska | 10 | 2D4+2 | Kohtalainen | 16.0 | –25 % Fyysiset taidot | ±1 | 3 | Kaikki1 | Kallis |
-| Energiahaarniska | 1–202 | —2 | Kevyt | 4.0 | –5 % piiloutumiseen, hiiviskelyyn, havaintotaitoihin per HA | Mikä tahansa | 2 | Kaikki3 | Kallis |
-| Kypärä, raskas | +4 | +4 | Kevyt | 5.0 | –15 % Havaintotaidot | ±1 | 1 | Pää | Keskiverto |
-| Kypärä, kevyt | +3 | +2 | Ei mitään | 2.0 | –5 % Havaintotaidot | ±2 | 1 | Pää | Keskiverto |
-| Voimahaarniska, kevyt4 | 14 | 2D6+2 | Kömpelö | 36.0 | –20 % Fyysiset ja manipulointitaidot | ±1 | 4 | Kaikki | Korvaamaton |
-| Voimahaarniska, raskas5 | 16 | 4D4 | Kömpelö | 48.0 | –50 % Fyysiset ja manipulointitaidot | ±1 | 5 | Kaikki | Korvaamaton |
+| Mukautuva verkko | 6 | 1D4+2 | Kevyt | 2.0 | –5% Fyysiset taidot | ±1 | 1 | Kaikki | Kallis |
+| Rynnäkköpanssari, kevyt | 8 | 2D6 | Kohtalainen | 12.0 | –10% Fyysiset taidot | ±1 | 2 | Kaikki1 | Kallis |
+| Rynnäkköpanssari | 10 | 2D4+2 | Kohtalainen | 16.0 | –25% Fyysiset taidot | ±1 | 3 | Kaikki1 | Kallis |
+| Energia-panssari | 1–202 | —2 | Kevyt | 4.0 | –5% Piiloutuminen, hiiviskely ja havaintotaidot per PA | Mikä tahansa | 2 | Kaikki3 | Kallis |
+| Kypärä, raskas | +4 | +4 | Kevyt | 5.0 | –15% Havaintotaidot | ±1 | 1 | Pää | Keskiverto |
+| Kypärä, kevyt | +3 | +2 | Ei mitään | 2.0 | –5% Havaintotaidot | ±2 | 1 | Pää | Keskiverto |
+| Voimakäyttöinen rynnäkköpanssari, kevyt4 | 14 | 2D6+2 | Kömpelö | 36.0 | –20% Fyysiset ja manipulointitaidot | ±1 | 4 | Kaikki | Korvaamaton |
+| Voimakäyttöinen rynnäkköpanssari, raskas5 | 16 | 4D4 | Kömpelö | 48.0 | –50% Fyysiset ja manipulointitaidot | ±1 | 5 | Kaikki | Korvaamaton |
 
-1. Sisältää kypärän.
-2. Energiahaarniskan kantaja voi asettaa arvoksi mitä tahansa 1 ja 20 HA-pisteen välillä. Jokainen taistelukierros haarniska kuluttaa varauksia (voimapisteitä) HA-arvonsa verran. Standardihaarniskan virtalähteet sisältävät 200 varausta; jokainen absorboitu vahinkopiste maksaa 1 ylimääräisen varauksen. Energiahaarniska ei salli satunnaista haarniska-arvoa; käytä asetettua HA:ta. 5 KET-sijoitusta kuluu HA-arvon säätämiseen.
-3. Ei voida pitää muiden haarniskojen kanssa.
-4. Kevyt voimahaarniska muokkaa VOI-arvoa +3 ja KET-arvoa –3 (säädä relevantit arvot käytettäessä). Haarniska sisältää kypärän.
-5. Raskas voimahaarniska muokkaa VOI-arvoa +6 ja KET-arvoa –6 (säädä relevantit arvot käytettäessä). Haarniska sisältää kypärän.
+1. Sisältää kypärän.  
+2. Energia-panssarin PA-arvon voi asettaa välille 1–20. Panssari kuluttaa joka taistelukierros PA-arvoaan vastaavan määrän varauksia (energiapisteitä). Standardit virtalähteet sisältävät 200 varausta; jokainen absorboitu vahinkopiste maksaa 1 lisävarauksen. Energia-panssarissa ei käytetä satunnaista panssariarvoa; käytä asetettua PA-arvoa. PA-arvon säätäminen vie 5 KET-vuoroa.  
+3. Ei voi käyttää muiden panssarien kanssa.  
+4. Kevyt voimakäyttöinen rynnäkköpanssari muokkaa VOI +3 ja KET –3 (säädä asiaankuuluvat arvot käytettäessä). Panssari sisältää kypärän.  
+5. Raskas voimakäyttöinen rynnäkköpanssari muokkaa VOI +6 ja KET –6 (säädä asiaankuuluvat arvot käytettäessä). Panssari sisältää kypärän.
 
-> ### Haarniskoja koskevat erikoissäännöt
+> ### Panssarien erityissäännöt
 > 
-> Seuraavat säännöt pätevät haarniskoihin liittyvissä tilanteissa.
+> Seuraavat säännöt koskevat useita eri tilanteita panssareihin liittyen.
 > 
-> #### Haarniskan kuormitus
+> #### Panssarin kuormittavuus (ENC)
 > 
-> Haarniskan kuormitus (ENC) riippuu sen kantajan KOK:sta. Hahmon KOK määrittää useimmissa tapauksissa haarniskan KOK:n. Jokainen +5 KOK-lisäys lisää haarniskan ENC-arvoa, ollen raskaampi, kuumempi, kömpelömpi jne. 11–15 KOK-arvot ovat vakioita. Jokainen 5 pisteen KOK-lisäys kyseisen alueen alapuolella on 1/5 vähemmän kuormittava. Seuraavia ENC-arvoja voidaan käyttää osumakohdille.
+> Panssarin kuormittavuus (ENC) riippuu käyttävän hahmon KOK-arvosta. Hahmon KOK määrittää useimmissa tapauksissa panssarin koon. Jokainen +5 KOK lisäys lisää panssarin ENC-arvoa, sillä se on raskaampi, kuumempi ja kömpelömpi käyttää. 11–15 KOK ovat standardeja. Jokainen 5 pisteen KOK-lisäys tämän alueen alapuolella on 1/5 vähemmän kuormittava. Seuraavia ENC-arvoja voidaan käyttää osumakohdille.
 > 
-> | Osumakohta | Osuus kokonais-ENC:stä |
+> | Osumakohta | ENC:n osuus kokonaismäärästä |
 > | :---- | :---- |
 > | Pää | 1/10 |
 > | Käsi | 1/10 kukin |
@@ -1110,361 +1136,388 @@ Tämä osio kuvailee kaikki haarniskatyypit aakkosjärjestyksessä.
 > | Vatsa | 1/10 |
 > | Jalka | 1/5 kukin |
 > 
-> #### Haarniskojen kerrostaminen
+> #### Panssarien kerrostaminen
 > 
-> Pehmeää haarniskaa on mahdollista pitää kovan haarniskan alla tai päällä lisäsuojan tarjoamiseksi. Vain pehmeää, taipuisaa haarniskaa, kuten raskasta kangasta, pehmustettua tai pehmeää nahkaa, voidaan helposti pitää kerroksittain muiden haarniskamuotojen kanssa, ja ne lisäävät tavanomaisen haarniska-arvonsa sekä ENC-arvonsa. Kun yrität limittää mitä tahansa muuta kuin pehmeää haarniskaa kovan kanssa, laske yhteen haarniska-arvot, mutta kolminkertaista vähemmän suojaavan haarniskan ENC.
+> Pehmeää panssaria on mahdollista pukea kovan panssarin alle tai päälle lisäsuojan saamiseksi. Vain pehmeää ja taipuisaa panssaria, kuten raskasta kangasta, topattua tai pehmeää nahkaa, voidaan helposti käyttää muiden panssarityyppien alla, ja ne lisäävät sekä normaalin panssariarvonsa että ENC-arvonsa. Kun yrität yhdistää muuta kuin pehmeää panssaria kovan panssarin kanssa, laske yhteen panssariarvot, mutta kolminkertaista heikomman panssarin ENC.
 > 
-> #### Haarniskan pukeminen
+> #### Panssarin pukeminen
 > 
-> Jotkin haarniskatyypit ovat monimutkaisempia pukea kuin jokapäiväiset vaatteet. Siinä on hihnoja ja solkia kiinnitettäväksi, useita osia puettavaksi, ja siinä voi olla useita kerroksia. Haarniskan pukeminen vie yhden taistelukierroksen jokaista haarniskapuvun tarjoamaa suojauspistettä kohden, olettaen että hahmosi on valmis, haarniska on aseteltu valmiiksi, eikä ympäristössä ole vaarallisia tai häiritseviä elementtejä. Pelinjohtajasi voi lisätä aikaa, jos hahmo on ollut aiemmin häiriintynyt tai unessa, tai haastavissa olosuhteissa (juokseminen, raskaasti loukkaantunut, pimeys, veden alla, ratsain jne.). Tämä saattaa vaatia Ketteryys- tai Idea-heiton, jos häiriötekijöitä tai haittoja on riittävästi.
+> Jotkut panssarityypit ovat monimutkaisempia pukea kuin jokapäiväiset vaatteet. Kiinnitettävänä on hihnoja ja solkia, useita osia puettavana, ja kerroksia voi olla useita. Yhden panssaripuvun tarjoaman suoja-arvon pukeminen kestää yhden taistelukierroksen, olettaen että hahmosi on valmis, panssari on asetettu valmiiksi eikä ympäristössä ole vaarallisia tai häiritseviä elementtejä. Pelinjohtajasi voi lisätä pukemiseen kuluvaa aikaa, jos hahmo on aiemmin ollut hajamielinen tai nukkumassa, tai haastavissa olosuhteissa (juokseminen, vakavasti loukkaantunut, pimeys, veden alla, ratsain jne.). Tämä saattaa vaatia Ketteryys- tai Äly-heiton, jos hahmo on riittävän häiriintynyt tai estynyt.
 > 
-> #### Haarniskan riisuminen
+> #### Panssarin riisuminen
 > 
-> Haarniskan riisuminen on paljon helpompaa kuin sen pukeminen, koska hahmosi ei tarvitse varmistaa, että jokainen osa on oikein aseteltu ennen seuraavan pukemista. Hahmosi voi riisua 3 haarniska-arvoa per taistelukierros (pyöristä ylöspäin), jos hän liikkuu nopeasti. Onnistunut Ketteryys-heitto lisää tämän 4 haarniska-arvoon per taistelukierros. Käytä haarniskan maksimiarvoa, jos käytät satunnaisia haarniska-arvoja.
-
-> ### Haarniska osumakohtien mukaan (Valinnainen)
+> Panssarin riisuminen on paljon helpompaa kuin sen pukeminen, sillä hahmon ei tarvitse varmistaa jokaisen osan oikeaa järjestystä ennen seuraavan pukemista. Hahmosi voi riisua 3 panssariarvoa taistelukierrosta kohden (pyöristettynä ylöspäin), jos hän liikkuu nopeasti. Onnistunut Ketteryys-heitto kasvattaa tämän 4 panssariarvoon per taistelukierros. Käytä panssarin maksimiarvoa, jos käytät satunnaisia panssariarvoja.
 > 
-> Jos käytät osumakohtajärjestelmää, saatat haluta lisää tarkkuutta siihen, miten hahmosi on haarniskoitu. Jokainen haarniskataulukoiden haarniskatyyppi listaa peittämänsä osumakohdat. Hahmosi voi vaihdella haarniskatyyppiä jokaisessa osumakohdassa käyttäen mitä tahansa tyyppiä, joka peittää kyseisen kohdan. Jokaisella pidetyllä haarniskatyypillä voi olla eri haarniska-arvo.
+> ### Panssarointi osumakohdittain (Valinnainen)
 > 
-> * Määrittääksesi kunkin osan haarniska-arvon, käytä haarniskakaavioiden arvoa.
-> * Taakka on rinnassa, vatsassa tai jaloissa pidetyistä osista, käyttäen raskainta, jos nämä eroavat.
-> * Käytä rinnassa, vatsassa tai jaloissa pidetyn raskaimman osan taitomuokkausta. Kypärillä on samat muokkaukset.
-> * Yksittäisten haarniskan osien pukeminen vie yhden taistelukierroksen per 5 haarniska-arvopistettä (pyöristä ylöspäin).
+> Jos käytät osumakohtajärjestelmää, saatat haluta enemmän yksityiskohtia hahmosi panssarointiin. Jokainen panssarityyppi panssaritaulukoissa listaa osumakohdat, jotka se peittää. Hahmosi voi vaihdella käyttämäänsä panssarityyppiä kussakin osumakohdassa käyttäen mitä tahansa tyyppiä, joka kyseisen kohdan peittää. Jokaisella käytetyllä panssarityypillä voi olla eri panssariarvo.
 > 
-> Pelinjohtajasi voi todeta, ettei joitakin haarniskatyyppejä voi käyttää paloittain, kuten useimpia moderneja tai kehittyneitä haarniskatyyppejä. Haarniskaa osumakohtien mukaan ei suositella käytettäväksi satunnaisen haarniska-arvojärjestelmän kanssa.
+> * Määritä kunkin osan panssariarvo käyttämällä panssaritaulukoiden arvoja.
 > 
-> Käytä **Haarniska osumakohtien mukaan** ja **Haarniskojen kerrostaminen** -sääntöjä, kun käytät haarniskaa osumakohtien mukaan.
+> * Rasite on sama kuin rinnassa, vatsassa tai jaloissa käytetyillä osilla; käytä painavinta, jos nämä eroavat toisistaan.
+> 
+> * Käytä rinnassa, vatsassa tai jaloissa käytetyn painavimman osan taitomuokkaajaa. Kypärillä on omat vastaavat muokkaajat.
+> 
+> * Yksittäisten panssariosien pukeminen kestää yhden taistelukierroksen jokaista 5 panssariarvon pistettä kohden (pyöristettynä ylöspäin).
+> 
+> Pelinjohtajasi voi päättää, ettei joitakin panssarityyppejä, kuten useimpia moderneja tai edistyneitä panssareita, voida käyttää palasina. Osumakohdittain tapahtuva panssarointi ei ole suositeltavaa käytettäväksi yhdessä satunnaisen panssariarvojärjestelmän kanssa.
+> 
+> Käytä **Panssarointi osumakohdittain**- ja **Panssarien kerrostaminen** -sääntöjä, kun käytät osumakohdittaista panssarointia.
 > 
 > #### Kypärät
 > 
-> Haarniskataulukot kuvailevat kypärät bonuksena haarniska-arvoon. Kun käytät haarniskaa osumakohtien mukaan, kypärillä on omat haarniska-arvonsa. Käytä kypärille seuraavia arvoja:
+> Panssaritaulukot kuvaavat kypärät bonuksena panssariarvoon. Kun käytät osumakohdittaista panssarointia, kypärillä on omat panssariarvonsa. Käytä kypärille seuraavia arvoja:
 > 
-> | Tyyppi | Haarniska-arvo |
+> | Tyyppi | Panssariarvo |
 > | :---- | :---- |
 > | Kypärä (Alkeellinen) | 2 |
 > | Kypärä, raskas (Muinainen ja keskiaikainen) | 8 |
 > | Kypärä, kevyt (Muinainen ja keskiaikainen) | 4 |
 > | Kypärä, raskas (Moderni) | 8 |
 > | Kypärä, kevyt (Moderni) | 6 |
-> | Kypärä, raskas (Kehittynyt) | 16 |
-> | Kypärä, kevyt (Kehittynyt) | 14 |
+> | Kypärä, raskas (Edistynyt) | 16 |
+> | Kypärä, kevyt (Edistynyt) | 14 |
+> 
+> ## Kilvet
+> 
+> Kilvet ovat pohjimmiltaan suuria torjunta-aseita, jotka on suunniteltu asetettavaksi hahmosi ja hyökkääjän väliin. Kilvessä on yleensä kahva, hihna tai hihnoja, ja sitä pidetään ei-aseistettuna olevassa kädessä (useimmilla ihmisillä vasen käsi). Perinteisesti kilpien on tehtävä kompromissi kestävyyden, keveyden ja tasapainon välillä. Kilpiä on kooltaan pienistä bucklereista (tuskin ruokalautasta suurempia) suuriin kilpiin, joita hopliittisoturit käyttivät.
+> 
+> Kilvet on luokiteltu kronologisesti. Useimmissa tapauksissa aikaisemman ajanjakson kilpiä on saatavilla myöhemmilläkin kausilla, joten pelinjohtajasi voi yksinkertaisesti valita, missä saatavuus loppuu ja antaa hahmollesi pääsyn sitä edeltäviin kilpiin.
+> 
+> Kaikkia kilpiä käytetään lähitaistelussa tai torjumaan ammuksia. Heitetty kilpi on improvisoitu ase, jonka kantama on 10 metriä ja osumatodennäköisyys 05% (tämä voi kasvaa kokemuksen myötä).
+> 
+> Jokaisella kilpityypillä on seuraavat attribuutit:
+> 
+> * **Nimi:** Kilven yleisnimi.
+> 
+> * **Perusarvo (Base):** Perusmahdollisuus kenelle tahansa, joka ottaa kilven käteensä. Tämä perusarvo on myös alkupiste kilvellä hyökkäämiselle.
+> 
+> * **Taito (Skill):** Kilven käyttämiseen käytettävä taito.
+> 
+> * **PA/KP (AV/HP):** Tämä on kilven panssaripistearvo sekä osumapistearvo. Tätä määrää käytetään, jos kilpi vahingoittuu tai on kohteena. Katso yksityiskohdat kohdasta **Selässä kannettavat kilvet** (alla).
+> 
+> * **Vahinko (Damage):** Vahinko, jonka kilpi tekee, jos sitä käytetään aseena.
+> 
+> * **Hyökkäykset (Attk):** Kuinka monta hyökkäystä kierroksessa kilpi sallii?
+> 
+> * **Erikoistaito (Special):** Erikoistaitotyyppi, jonka kilpi tekee. Useimmat kilvet tekevät torjuntavoittoja (knockback).
+> 
+> * **Rasite (Burden):** Kuvaa kilven kömpelyyttä tai suhteellista kuormittavuutta.
+> 
+> * **ENC:** (Valinnainen) Kilven ENC-arvo.
+> 
+> * **Sijainnit (Locations):** (Valinnainen) Osumakohdat, jotka kilpi peittää. Tämä on yleensä sovellettavissa vain selässä kannettaviin kilpiin. Katso **Selässä kannettavat kilvet**.
+> 
+> * **VOI/KET (VOI/KET):** Kilven käyttämiseen vaadittavat minimi VOI- ja KET-arvot. Jos hahmosi ei täytä vaadittuja minimiarvoja, kaikki kilven käytöt ovat Vaikeita.
+> 
+> * **Arvo:** Kilven hinta sopivassa ympäristössä.
+> 
+> Jokainen kilpityyppi on kuvattu kohdassa **Kilpien kuvaukset**.
+> 
+> ### Selässä kannettavat kilvet
+> 
+> Kilpiä kannetaan yleensä selässä tai olkapäällä, kun niitä ei käytetä aktiivisesti taistelussa. Jos pelinjohtajasi käyttää osumakohtia, lisää 1/2 selässä kannettavan kilven panssariarvosta (pyöristettynä ylöspäin) kaikkiin osumakohtiin, joihin ase osuu, sen lisäksi, mikä panssariarvo kyseisessä kohdassa jo on. Tässä osiossa kuvatuista kilvistä vain buckleria, alkeellisia kilpiä ja energikilpiä ei voi kantaa selässä. Koska useimmilla kilvillä on korkea panssariarvo, tämä torjuu useimmat hyökkäykset.
+> 
+> **Esimerkki:** Hahmosi kantaa kilpeä selässään, ja vastustaja ampuu nuolen takaa. Hyökkäys onnistuu, ja heitetty osumakohta osoittaa torsoa. Pelinjohtajasi päättää, että kilpi peittää tämän osumakohdan, joten 1/2 kilven panssariarvosta lisätään nuolen vahinkoon. Pelinjohtaja kertoo: "Nuoli kolahtaa selässäsi olevaan kilpeen, muttei läpäise sitä." Nyt hahmollasi on mahdollisuus ottaa kilpi oikeaoppiseen käyttöön, luottamatta enää toiseen onnenkantamoiseen.### Kilpikuvaukset
 
-## Kilvet
+Tämä osio kuvaa kaikki kilpityypit aakkosjärjestyksessä.
 
-Kilvet ovat perusluonteeltaan suuria torjumiseen tarkoitettuja aseita, jotka on suunniteltu sijoitettavaksi hahmosi ja hyökkääjän väliin. Kilvessä on yleensä kahva, hihna tai hihnat, ja sitä kannetaan ei-asekädessä (useimmille ihmisille vasemmassa kädessä). Perinteisesti kilpien on tehtävä kompromissi kestävyyden, keveyden ja tasapainon välillä. Kilpien koko vaihtelee pienestä bucklerista (tuskin ruokalautasta suurempi) suureen kilpeen, jota hopliittisoturit käyttivät.
+**Pieni pyöreä kilpi (Buckler):** Pieni kilpi, joka suojaa käsivarren alaosaa ja jota pidetään yleensä kädensijasta tai yhdellä hihnalla. Näitä pidettiin vyöllä (tai miekkavyöllä), mistä juontuu termi "swashbuckler".
 
-Kilvet on luokiteltu kronologisesti. Useimmissa tapauksissa aiemman kauden kilvet ovat myöhemmillä kausilla saatavilla, joten pelinjohtajasi voi yksinkertaisesti valita, mihin saatavuus ulottuu, ja antaa hahmollesi pääsyn kyseistä ajankohtaa edeltäviin kilpiin.
+**Energia-suojakilpi (Energy Shield):** Puolustuslaite, joka koostuu puolustajan käsivarteen kiinnitetystä pienestä virtalähteestä ja heittimestä, joka emittoi säädettävän kokoisen pyöreän suojakentän.
 
-Kaikkia kilpiä käytetään lähitaistelussa tai puolustautumiseen ammuksia vastaan. Heitetty kilpi on improvisoitu ase, jonka kantama on 10 metriä ja osumismahdollisuus 05 % (tämä voi kasvaa kokemuksen myötä).
+**Täysikilpi (Full Shield):** Pientä kilpeä suurempi ja muodoltaan vaihteleva; täysikilpi on yleensä riittävän suuri peittämään puolustajan alakasvot ja nivuset.
 
-Jokaisella kilpityypillä on seuraavat attribuutit:
+**Puolikilpi (Half Shield):** Pienempi ja muodoltaan vaihteleva kilpi, jota käyttävät yleisesti ratsastajat, jousiampujat tai kevyet häirintäjoukot (vastakohtana raskaiden etulinjan taistelijoiden kilville).
 
-* **Nimi:** Kilven yleisnimi.
-* **Perus:** Perustodennäköisyys kenelle tahansa, joka poimii kilven. Tämä perustodennäköisyys on myös lähtöarvo kilvellä hyökättäessä.
-* **Taito:** Kilven käyttöön tarvittava taito.
-* **HA/OP:** Tämä on kilven haarniskapiste-arvo sekä sen osumapistearvo. Tätä määrää käytetään, jos kilpi vaurioituu tai jos se otetaan kohteeksi. Katso Lisätiedot kohdasta **Slingatut kilvet**.
-* **Vahinko:** Vahinko, jonka kilpi tekee, jos sitä käytetään aseena.
-* **Hyök:** Kuinka monta hyökkäystä kierroksessa kilpi sallii?
-* **Erikois:** Erikoisen onnistumisen tyyppi. Useimmat kilvet tekevät takaisinlyönti-erikoisonnistumisia.
-* **Taakka:** Tämä kuvaa kilven kömpelyyttä tai suhteellista kuormittavuutta.
-* **ENC:** (Valinnainen) Kilven ENC-arvo.
-* **Sijainnit:** (Valinnainen) Osumakohtia varten kilven peittämät osumakohdat. Tämä on yleensä aiheellista vain slingatuille kilville. Katso **Slingatut kilvet**.
-* **VOI/KET:** Kilven käyttöön tarvittavat vähimmäis-VOI ja -KET. Jos hahmosi ei täytä vähimmäisvaatimuksia, kaikki kilven käytöt ovat Vaikeita.
-* **Arvo:** Kilven hinta sopivassa asetelmassa.
+**Heater-kilpi:** Keskikokoinen kilpi, joka on muotoiltu silitysraudan mukaan (ja nimetty sen mukaan). Tämä on monien heraldisten vaakunoiden perinteinen muoto.
 
-Jokainen kilpityyppi on kuvattu **Kilpien kuvaukset** -osiossa.
+**Hoplite-kilpi:** Suuri suorakaiteen muotoinen kilpi, erittäin suojaava, mutta liian raskas ja kömpelö ratsumiehille. Hoplite-kilpiä käytetään usein maata vasten tuettuina. Yleisesti suorakaiteen muotoisia, mutta jotkut ovat pitkänomaisia ja reunoiltaan pyöristettyjä.
 
-### Slingatut kilvet
+**Kite-kilpi:** Suuri, kyynelen muotoinen kilpi, jossa on pyöreä yläosa ja terävä alaosa; se peittää kehon hartioista polviin tai nilkkoihin asti.
 
-Kilpiä kannetaan yleensä slingattuna käsivarren/olkapään tai selän yli, kun niitä ei käytetä aktiivisesti taistelussa. Jos pelinjohtajasi käyttää osumakohtajärjestelmää, lisää ½ slingatun kilven haarniska-arvosta (pyöristä ylöspäin) mihin tahansa osumakohtaan, johon ase osuu, sen osumakohdan jo olemassa olevan haarniska-arvon lisäksi. Tässä osiossa kuvatuista kilvistä vain buckleria, alkeellista ja energiakilpeä ei voi slingata. Koska useimmilla kilvillä on korkea haarniska-arvo, tämä mitätöi suurimman osan hyökkäyksistä.
+**Suuri pyöreä kilpi (Large Round):** Identtinen pyöreän kilven kanssa (alla), mutta suurempi.
 
-**Esimerkiksi,** hahmollasi on kilpi slingattuna selkäänsä, ja vastustaja ampuu nuolen takaa. Hyökkäys on onnistunut, ja heitetty osumakohta osoittaa torsoa. Pelinjohtajasi toteaa, että kilpi peittää tämän osumakohdan, joten ½ kilven haarniska-arvosta sovelletaan nuolen vahinkoon. Pelinjohtaja sanoo: "Nuoli tömähtää selässäsi olevaan kilpeen, mutta se ei pääse läpi." Nyt hahmollasi on tilaisuus pitää kilpeään oikein, luottamatta enää onneen.
+**Alkeellinen kilpi (Primitive):** Primitiivisissä sotaisissa kulttuureissa käytetty kilpi. Yleensä vain puinen kehys, jonka päällä on venytettyä nahkaa, pajua, kovetettua kangasta tai jopa erittäin jäykkää eläimen nahkaa.
 
-### Kilpien kuvaukset
+**Pyöreä kilpi (Round):** Pyöreä kilpi, jota pidetään keskellä olevasta kupuran sisäpuolelta. Ainutlaatuinen siinä mielessä, että siinä on ohuet suojaamattomat reunat, joita voidaan käyttää teräaseiden kiinni ottamiseen ja murtamiseen erikoistekniikalla.
 
-Tämä osio kuvailee kaikki kilpityypit, aakkosjärjestyksessä.
+**Mellakkakilpi (Riot):** Mellakkapoliisien käyttämä suuri, suorakaiteen muotoinen kirkas muovikilpi. Kevyt ja kestävä, mahdollistaa kilpimuodostelmat ja tarjoaa riittävän suojan useimpia hyökkääjiä vastaan.
 
-**Buckler:** Pieni kilpi, joka suojaa käsivarren alaosaa, yleensä pidetty kädensijalla tai yhdellä hihnalla. Näitä pidettiin vyöllä, mistä syntyi termi "swashbuckler".
+**Piikkikilpi (Spiked):** Target-kilven tyyppi, jossa on keskellä piikki, terä tai sarja pieniä piikkejä osoittamassa ulospäin vastustajaa kohti.
 
-**Energiakilpi:** Puolustuslaite, joka koostuu puolustajan käsivarteen kiinnitetystä pienestä virtapaketista ja projektorista, joka lähettää erikokoisen pyöreän kilven.
-
-**Täysikilpi:** Pientä kilpeä suurempi ja eri muotoinen, täysikilpi on yleensä tarpeeksi suuri peittämään puolustajan alakasvot ja nivuset.
-
-**Puolikilpi:** Pienempi kilpi, eri muotoinen, jota käyttävät yleisesti ratsastajat, jousiampujat tai kevyet häirintäjoukot (vs. raskas etulinjan taistelija).
-
-**Heater-kilpi:** Keskikokoinen kilpi, joka on muotoiltu kuin silitysrauta (ja nimetty sen mukaan). Tämä on monien heraldisen vaakunan perinteinen muoto.
-
-**Hopliittikilpi:** Suuri suorakaiteen muotoinen kilpi, erittäin suojaava, mutta liian raskas ja kömpelö ratsumiehille. Hopliittikilpiä käytetään usein maassa lepäävinä. Yleensä suorakaiteen muotoinen, mutta jotkut ovat pitkänomaisia ja pyöristetyillä reunoilla.
-
-**Leijakilpi:** Suuri, kyynelpisaran muotoinen kilpi, jossa on pyöreä yläosa ja terävä alaosa, peittäen kehon hartioista polveen tai nilkkaan asti.
-
-**Suuri pyöreä kilpi:** Identtinen pyöreän kilven kanssa (alla), mutta suurempi.
-
-**Alkeellinen:** Alkeellisissa sotaisissa kulttuureissa käytetty kilpi. Yleensä vain puinen kehikko, jonka päälle on pingotettu nahkaa, pajua, kovetettua kangasta tai jopa erittäin jäykkää eläimen nahkaa.
-
-**Pyöreä kilpi:** Pyöreä kilpi, jota pidetään keskellä olevan keskiosan (boss) sisäpuolelta. Ainutlaatuinen siinä, että sillä on ohuet suojaamattomat reunat, joita voidaan käyttää teräaseiden kiinniottamiseen ja murtamiseen erikoistekniikalla.
-
-**Mellakkakilpi:** Suuri suorakaiteen muotoinen kirkas muovikilpi, jota mellakkopoliisit käyttävät. Kevyt ja kova, nämä mahdollistavat kilpimuurit ja tarjoavat riittävän suojan useimpia hyökkääjiä vastaan.
-
-**Piikkikilpi:** Target-kilven tyyppi, jossa on keskellä piikki, terä tai sarja pieniä piikkejä, jotka osoittavat ulospäin vastustajaa kohti.
-
-**Target-kilpi:** Pyöreä, keskikokoinen kilpi, yleinen monissa kulttuureissa. Yleensä valmistettu metallireunalla.
+**Target-kilpi:** Pyöreä, keskikokoinen kilpi, yleinen monissa kulttuureissa. Yleensä metallireunainen.
 
 ##### Alkeelliset kilvet
 
-| Nimi | Perustodennäköisyys | Taito | HA/OP | Vahinko | Hyök | Erikois | Taakka | Sijainnit | VOI / KET | ENC | Arvo |
+| Nimi | Perustodennäköisyys | Taito | AV/HP | Vahinko | Hyökk. | Erikois | Rasite | Sijainnit | VOI / KET | ENC | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Alkeellinen | 10 % | Kilpi | 10 | 1D2+dm | 1 | Takaisinlyönti | Kevyt | Käsi | 5/7 | 2.0 | Halpa |
+| Alkeellinen | 10% | Kilpi | 10 | 1D2+dm | 1 | Työntö | Kevyt | Käsivarsi | 5/7 | 2.0 | Halpa |
 
 ##### Muinaiset ja keskiaikaiset kilvet
 
-| Nimi | Perustodennäköisyys | Taito | HA/OP | Vahinko | Hyök | Erikois | Taakka | Sijainnit | VOI / KET | ENC | Arvo |
+| Nimi | Perustodennäköisyys | Taito | AV/HP | Vahinko | Hyökk. | Erikois | Rasite | Sijainnit | VOI / KET | ENC | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Buckler | 05 % | Kilpi | 15 | 1D2+dm | 1 | Takaisinlyönti | Kevyt | Käsi | 5/7 | 1.0 | Keskiverto |
-| Täysikilpi | 15 % | Kilpi | 22 | 1D4+dm | 1 | Takaisinlyönti | Kohtalainen | Käsi, Rinta, Pää | 11/9 | 5.0 | Keskiverto |
-| Puolikilpi | 15 % | Kilpi | 15 | 1D2+dm | 1 | Takaisinlyönti | Kohtalainen | Käsi, Rinta | 5/7 | 3.0 | Keskiverto |
-| Heater-kilpi | 15 % | Kilpi | 20 | 1D3+dm | 1 | Takaisinlyönti | Kohtalainen | Käsi, Rinta | 9/9 | 3.0 | Keskiverto |
-| Hopliitti | 15 % | Kilpi | 26 | 1D4+dm | 1 | Takaisinlyönti | Kömpelö | Vatsa, Käsi, Rinta | 12/8 | 7.0 | Keskiverto |
-| Leijakilpi | 15 % | Kilpi | 22 | 1D4+dm | 1 | Takaisinlyönti | Kohtalainen | Vatsa, Käsi, Rinta | 11/9 | 5.0 | Keskiverto |
-| Suuri pyöreä | 15 % | Kilpi | 22 | 1D4+dm | 1 | Takaisinlyönti | Kohtalainen | Vatsa, Käsi, Rinta | 11/9 | 5.0 | Keskiverto |
-| Pyöreä | 15 % | Kilpi | 20 | 1D3+dm | 1 | Takaisinlyönti | Kohtalainen | Käsi, Rinta | 9/9 | 4.0 | Keskiverto |
-| Piikkikilpi | 15 % | Kilpi | 20 | 1D3+dm | 1 | Pisto | Kohtalainen | Käsi, Rinta | 9/9 | 5.0 | Keskiverto |
-| Target-kilpi | 15 % | Kilpi | 15 | 1D2+dm | 1 | Takaisinlyönti | Kevyt | Käsi, Rinta | 5/7 | 3.0 | Halpa |
+| Pieni pyöreä | 05% | Kilpi | 15 | 1D2+dm | 1 | Työntö | Kevyt | Käsivarsi | 5/7 | 1.0 | Keskiarvo |
+| Täysikilpi | 15% | Kilpi | 22 | 1D4+dm | 1 | Työntö | Kohtalainen | Käsivarsi, Rinta, Pää | 11/9 | 5.0 | Keskiarvo |
+| Puolikilpi | 15% | Kilpi | 15 | 1D2+dm | 1 | Työntö | Kohtalainen | Käsivarsi, Rinta | 5/7 | 3.0 | Keskiarvo |
+| Heater-kilpi | 15% | Kilpi | 20 | 1D3+dm | 1 | Työntö | Kohtalainen | Käsivarsi, Rinta | 9/9 | 3.0 | Keskiarvo |
+| Hoplite-kilpi | 15% | Kilpi | 26 | 1D4+dm | 1 | Työntö | Kömpelö | Vatsa, Käsivarsi, Rinta | 12/8 | 7.0 | Keskiarvo |
+| Kite-kilpi | 15% | Kilpi | 22 | 1D4+dm | 1 | Työntö | Kohtalainen | Vatsa, Käsivarsi, Rinta | 11/9 | 5.0 | Keskiarvo |
+| Suuri pyöreä | 15% | Kilpi | 22 | 1D4+dm | 1 | Työntö | Kohtalainen | Vatsa, Käsivarsi, Rinta | 11/9 | 5.0 | Keskiarvo |
+| Pyöreä | 15% | Kilpi | 20 | 1D3+dm | 1 | Työntö | Kohtalainen | Käsivarsi, Rinta | 9/9 | 4.0 | Keskiarvo |
+| Piikkikilpi | 15% | Kilpi | 20 | 1D3+dm | 1 | Lävistys | Kohtalainen | Käsivarsi, Rinta | 9/9 | 5.0 | Keskiarvo |
+| Target-kilpi | 15% | Kilpi | 15 | 1D2+dm | 1 | Työntö | Kevyt | Käsivarsi, Rinta | 5/7 | 3.0 | Halpa |
 
 ##### Modernit kilvet
 
-| Nimi | Perustodennäköisyys | Taito | HA/OP | Vahinko | Hyök | Erikois | Taakka | Sijainnit | VOI / KET | ENC | Arvo |
+| Nimi | Perustodennäköisyys | Taito | AV/HP | Vahinko | Hyökk. | Erikois | Rasite | Sijainnit | VOI / KET | ENC | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Mellakkakilpi | 15 % | Kilpi | 16 | 1D3 + dm | 1 | Takaisinlyönti | Kohtalainen | Vatsa, Käsi, Rinta, Pää | 9/9 | 3.0 | Kallis |
+| Mellakkakilpi | 15% | Kilpi | 16 | 1D3 + dm | 1 | Työntö | Kohtalainen | Vatsa, Käsivarsi, Rinta, Pää | 9/9 | 3.0 | Kallis |
 
-##### Kehittyneet kilvet
+##### Edistyneet kilvet
 
-| Nimi | Perustodennäköisyys | Taito | HA/OP | Vahinko | Hyök | Erikois | Taakka | Sijainnit | VOI / KET | ENC | Arvo |
+| Nimi | Perustodennäköisyys | Taito | AV/HP | Vahinko | Hyökk. | Erikois | Rasite | Sijainnit | VOI / KET | ENC | Arvo |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Energiakilpi | 20 % | Kilpi | 25 | 1D2 + dm | 1 | Takaisinlyönti | Kevyt | Käsi, Rinta | 3/3 | 1.0 | Kallis |
+| Energia-suojakilpi | 20% | Kilpi | 25 | 1D2 + dm | 1 | Työntö | Kevyt | Käsivarsi, Rinta | 3/3 | 1.0 | Kallis |
 
 ## Tykistö
 
-Tykistö kuvailee valtavia mekanismeja, yleensä taistelukentällä tai laitoksen puolustuksessa, kuten linna, sotilastukikohta, tai asennettuna ajoneuvoon. Muinaisissa ja keskiaikaisissa asetelmissa tykistö on ensisijaisesti piiritysaseistusta. Tykistöaseita voidaan asentaa ajoneuvoihin, joiden koko vaihtelee moottoripyöristä, vankkureista ja jeepeistä aina taistelulaivoihin ja avaruusasemiin asti. Nämä massiiviset aseet ovat yleensä asennettuja ja tarpeeksi monimutkaisia vaatimaan useamman kuin yhden käyttäjän. Useimmat ovat kaukotaistelua varten ja ampuvat ammuksia. Perinteisesti useimmat toimittavat niin kutsuttua epäsuoraa tulta, kohdistuen alueeseen tietyn kohteen (hahmon tai ajoneuvon) sijaan, vaikka jotkut voidaan käyttää yksittäisiä kohteita vastaan.
+Tykistö tarkoittaa jättimäisiä mekanismeja, yleensä taistelukentällä tai laitosten, kuten linnan, sotilastukikohdan puolustuksessa tai ajoneuvoon asennettuna. Muinaisissa ja keskiaikaisissa ympäristöissä tykistö on ensisijaisesti piiritysasemistoa. Tykistöaseita voidaan asentaa ajoneuvoihin, joiden koko vaihtelee moottoripyöristä, vaunuista ja jeepeistä taistelulaivoihin ja avaruusasemiin asti. Nämä massiiviset aseet ovat yleensä kiinteitä ja tarpeeksi monimutkaisia vaatimaan useamman kuin yhden käyttäjän. Useimmat ovat kaukoaseita ja ampuvat ammuksia. Perinteisesti useimmat toimittavat niin kutsuttua epäsuoraa tulta, kohdistaen alueeseen pikemminkin kuin tiettyyn kohteeseen (hahmoon tai ajoneuvoon), vaikka joitakin voidaan käyttää yksittäisiä kohteita vastaan.
 
-Tykistöaseita on lähes yhtä monta tyyppiä kuin lähitaisteluaseita, ja tämä osio kattaa edustavan otoksen. Suuremmat aseet, kuten ohjukset, raketit ja ajoneuvo-vs-ajoneuvo- tai ajoneuvo-vs-rakenne-aseet, jäävät näiden sääntöjen ulkopuolelle.
+Tykistöaseita on lähes yhtä monta tyyppiä kuin lähitaisteluaseita, ja tämä osio käsittelee niistä edustavaa otosta. Suuremmat aseet, kuten ohjukset, raketit ja ajoneuvo-vastaan-ajoneuvo tai ajoneuvo-vastaan-rakenne-aseet, ovat näiden sääntöjen soveltamisalan ulkopuolella.
 
-Jokaisella tykistöaseella on seuraavat attribuutit:
+Jokaisella tykistöaseella on seuraavat ominaisuudet:
 
 * **Nimi:** Tykistöaseen yleisnimi.
-* **Taito:** Tähän tykistöaseeseen käytetty taito.
-* **Perus:** Perustodennäköisyys käyttää tykistöasetta.
-* **Vah:** Tykistöaseen tekemä vahinko, joskus ilmaistuna noppina/metri. Vahinko laskee 1D6 per metri alkusäteen ulkopuolella.
-* **Hyök:** Kuinka monta hyökkäystä kierroksessa tykistöase sallii.
-* **Erikois:** Erikoisen onnistumisen tyyppi.
-* **Et:** Aseen kantama.
-* **Miehistö:** Hahmojen määrä, jonka tykistöase tarvitsee toimiakseen tehokkaasti. Tätä määrää pienemmällä miehistöllä kaikki hyökkäykset ovat Vaikeita.
-* **OP:** Tykistöaseen osumapisteet.
-* **HA:** Tykistöaseen haarniska-arvo, jos aiheellista.
-* **Amm:** Ammustyyppi, oliko se kiinteä, sirpale, energia, kemiallinen vai muu?
-* **KAP:** Aseen kapasiteetti; kuinka monta laukausta se voi ampua ennen lataamista tai lataamista uudelleen.
-* **Moka:** Tykistöaseen mahdollisuus mennä epäkuntoon.
-* **Arvo:** Aseen keskivertohinta sopivassa asetelmassa.
+
+* **Taito:** Tässä tykistöaseessa käytettävä taito.
+
+* **Base:** Perustodennäköisyys tykistöaseen käyttämiseen.
+
+* **Dmg:** Tykistöaseen aiheuttama vahinko, joskus ilmaistuna noppina/metreinä. Vahinko pienenee 1D6 per metri alkusäteen ulkopuolella.
+
+* **Attk:** Tykistöaseen sallimien hyökkäysten määrä kierroksessa.
+
+* **Special:** Erikoisonnistumisen tyyppi.
+
+* **Rng:** Aseen kantama.
+
+* **Crew:** Hahmojen määrä, jonka tykistöase vaatii tehokkaaseen käyttöön. Tätä pienemmällä määrällä kaikki hyökkäykset ovat Vaikeita.
+
+* **HP:** Tykistöaseen osumapisteet.
+
+* **AV:** Tykistöaseen panssariarvo, jos sovellettavissa.
+
+* **Ammo:** Ammustyyppi, onko se kiinteä, sirpale-, energia-, kemiallinen vai muu?
+
+* **CAP:** Aseen kapasiteetti; kuinka monta laukausta se voi ampua ennen lataamista tai uudelleenlatausta.
+
+* **Mal:** Tykistöaseen toimintahäiriön todennäköisyys.
+
+* **Arvo:** Aseen keskimääräinen hinta sopivassa ympäristössä.
+
 * **KOK:** Tykistöaseen KOK.
 
-Jokainen tykistöase on kuvattu **Tykistöaseiden kuvaukset** -osiossa.
+Jokainen tykistöase on kuvattu **Tykistöaseiden kuvauksissa**.
 
-### Tykistöaseluokat
+### Tykistöaseluookat
 
-Näillä luokilla on jonkin verran päällekkäisyyttä erityisesti Raskaat aseet -taidon kanssa, ja kyseinen taito voi sallia pelaajien käyttää tykistöaseita ikään kuin ne olisivat Vaikeita, tai päinvastoin.
+Näillä luokilla on jonkin verran päällekkäisyyttä, erityisesti Raskaiden aseiden taidon kanssa, ja kyseinen taito saattaa antaa pelaajien käyttää tykistöaseita ikään kuin ne olisivat Vaikeita, tai päinvastoin.
 
-* **Tykit:** Tykki, energiatykki, kenttätykki, haupitsi, tankkitykki.
+* **Kanuuna:** Kanuuna, energiatykki, kenttätykki, haupitsi, panssarivaunun tykki.
+
 * **Heitin:** Kranaatinheitin.
-* **Asennettu ase:** Kiskotykki.
+
+* **Asennettu ase:** Ratatykki.
+
 * **Piirityskone:** Ballista, katapultti, springal, trebuchet.
+
 * **Ohjus:** Torpedo.
-* **Torni:** Energiasuoja, liekkitorni, lasertorni, ohjustorni, konekivääritorni, sähköiskutorni, keihäänheitintorni.
+
+* **Torni:** Energiasuojaustorni, liekkitorni, lasertorni, ohjustorni, konekivääritorni, shokkitorni, keihäänheittotorni.
 
 ### Tykistöaseiden vaikutukset
 
-Tykistöaseita käytetään harvoin yksilöitä vastaan. Niitä ammutaan ihmismassoihin tai muureihin ja muihin rakenteisiin, mikä yleensä vaikuttaa KOK 40 alueeseen (noin neljän metrin säteellä keskipisteestä, noin pienen lentokoneen KOK). Kuka tahansa tällä alueella jää vahingon kohteeksi. Jos kohde on pienempi kuin KOK 40, pienennä osumismahdollisuutta –1 % jokaiselta KOK-pisteeltä, joka on pienempi kuin 40.
+Tykistöaseita käytetään harvoin yksilöitä vastaan. Niitä ammutaan ihmismassoihin tai muureja ja muita rakenteita kohti, vaikuttaen yleensä KOK 40 alueelle (noin neljän metrin säteellä keskipisteestä, suunnilleen pienen lentokoneen KOK). Kuka tahansa tällä alueella oleva loukkaantuu. Jos kohde on pienempi kuin KOK 40, pienennä osumistodennäköisyyttä –1 % jokaista 40:tä pienempää KOK-pistettä kohden.
 
-**Esimerkiksi,** tykistöaseen käyttäminen KOK 14 henkilöä vastaan johtaisi –26 % vähennykseen relevantissa taidossa.
+**Esimerkiksi,** tykistöaseen käyttäminen KOK 14 henkilöä vastaan johtaisi –26 % vähennykseen kyseisessä taidossa.
 
-Jos ammus menee ohi, käytä Heitto-taidon sääntöjä määrittääksesi, mihin ammus todellisuudessa päätyi, kertoen etäisyyden x5:llä.
+Jos ammus menee ohi, käytä Heitto-taidon sääntöjä määrittämään, mihin ammus todellisuudessa osui, kertomalla etäisyys ×5.
 
-**Esimerkiksi,** jos Heitto-taito osoittaa, että ammus meni ohi neljä metriä, kerro tulos x5:llä, jolloin tulos on 20 metriä. Tämä varmistaa, että huti on edelleen huti.
+**Esimerkiksi,** jos Heitto-taito osoittaa, että ammus meni ohi neljä metriä, kerro tulos ×5, jolloin lopputulos on 20 metriä. Tämä varmistaa, että huti on edelleen huti.
 
 ### Ohjatut ohjukset
 
-Tykistöaseiden muodot, kuten ohjukset, ohjataan sisäisten tai ulkoisten elektronisten kohdistusjärjestelmien kautta, mikä tekee niistä paljon tarkempia. Jos ohjus on ohjattu tällä tavoin, se tekee mistä tahansa taitokäytöstä Helpon. Jos se on itseohjautuva, se osuu automaattisesti kohteeseen millä tahansa muulla kuin 99 tai 00 heitolla, vaikka liikkuva kohde voi yrittää väistää ohjuksen. Jos näin tapahtuu, väistöyrityksiä pidetään väistöliikkeinä, ja ohjattua ohjusta vastaan tehdyt väistöt ovat Vaikeita, käytettiinpä sitten Väistö-, Ajo- tai Lentotaitoa.
+Tykistön muodot, kuten ohjukset, ohjataan sisäisten tai ulkoisten elektronisten kohdistusjärjestelmien kautta, mikä tekee niistä paljon tarkempia. Jos ohjusta ohjataan tällä tavalla, se tekee kaikesta taidon käytöstä Helppoa. Jos se on itseohjautuva, se osuu automaattisesti kohteeseen millä tahansa muulla heitolla kuin 99 tai 00, vaikka liikkuva kohde voi yrittää väistää ohjuksen. Jos näin tapahtuu, väistöyrityksiä pidetään väistöliikkeinä, ja väistöt ohjattua ohjusta vastaan ovat Vaikeita, riippumatta siitä, käytetäänkö Väistö-, Ajo- vai Ohjaus-taitoa.
 
-Paras puolustus ohjattuja ohjuksia vastaan (muu kuin paksu haarniska) on elektroninen häirintä. Häirintä tekee ohjatun ohjuksen hyökkäysmahdollisuudesta Vaikean. Jos ohjattu ohjus menee ohi kohteestaan, katso tykistöaseen huti-sääntöjä (aiemmin) määrittääksesi, mihin ammus todellisuudessa iskeytyy.
+Paras puolustus ohjattuja ohjuksia vastaan (paksun panssarin lisäksi) on elektroninen häirintä. Häirintä tekee ohjatun ohjuksen hyökkäystodennäköisyydestä Vaikean. Jos ohjattu ohjus menee ohi kohteestaan, katso tykistöaseiden ohiampumisen sääntöjä (aiemmin) määrittääksesi, mihin ammus todellisuudessa osuu.
 
 ### Sirpaleet
 
-Monet tykistöaseet voivat ampua ammuksia, jotka pirstoutuvat, tai suuria hyötykuormia pienempiä ammuksia. Molemmat palvelevat samaa tarkoitusta—terävien esineiden (sirpaleiden) hajottaminen säteelle osumapisteen ympärillä. Jotkut aseet ampuvat vain kiinteitä ammuksia, toiset ampuvat vain sirpalekuormia, ja jotkut voivat ampua kumpaakin tyyppiä.
+Monet tykistöaseet voivat ampua ammuksia, jotka pirstoutuvat, tai suuria määriä pienempiä ammuksia. Molemmat palvelevat samaa tarkoitusta – terävien esineiden (sirpaleiden) levittämistä säteittäisesti osumapisteen ympärille. Jotkut aseet ampuvat vain kiinteitä ammuksia, toiset vain sirpaleita, ja jotkut voivat ampua kumpaakin tyyppiä.
 
-Sirpaleet vahingoittavat ihmisiä, mutta eivät rakennuksia (huomattavassa määrin). Sirpaleiden vahinko on vain 1/6 vertailukelpoisen kiinteän ammuksen tekemästä vahingosta (jaa noppien määrä jos mahdollista, jos ei, heitä noppia ja jaa 6:lla, pyöristä ylöspäin), mutta se tehdään kaikkeen säteellä, joka on metreinä sama kuin kiinteän ammuksen vahinkonopan määrä.
+Sirpaleet vahingoittavat ihmisiä, mutta eivät rakennuksia (merkittävässä määrin). Sirpaleiden vahinko on vain 1/6 verrattavissa olevan kiinteän ammuksen aiheuttamasta vahingosta (jaa noppien määrä jos mahdollista; jos ei, heitä nopat ja jaa 6:lla, pyöristä ylöspäin), mutta se kohdistuu kaikkeen sellaisella säteellä, joka vastaa kiinteän ammuksen vahinkonoppien määrää metreissä.
 
-Esimerkiksi trebuchet ampuu ammuksen, joka tekee 12D6 vahinkoa osuessaan. Jos se ampuu sirpaleita, se tekee 2D6 vahinkoa kaikille 12 metrin säteellä osumapisteestä.
+Esimerkiksi, trebuchet ampuu ammuksen, joka tekee 12D6 vahinkoa osuessaan. Jos se ampuu sirpaleita, se tekee 2D6 vahinkoa kaikille 12 metrin säteellä osumapisteestä.### Tykistöaseiden kuvaukset
 
-### Tykistöaseiden kuvaukset
+Tässä on valikoima tykistöaseita aakkosjärjestyksessä.
 
-Tässä on otos tykistöaseista, aakkosjärjestyksessä.
+**Arbalesti, piiritys:** Raskaampi versio arbalestista, joka ladataan cranequin-kammen avulla.
 
-**Arbalesti, piiritys:** Raskaampi versio arbalestista, ladattu cranequinin avulla.
+**Ballista:** Suuri jalustalle asennettu piiritysase, joka ampuu varsijousityylisiä nuolia, yleensä taistelukentällä olevia ihmisiä eikä rakenteita tai muita ajoneuvoja kohti.
 
-**Ballista:** Suuri asennettu piiritysase, joka heittää varsijousityylisiä nuolia, yleensä ihmisiä kohti taistelukentällä rakenteiden tai muiden ajoneuvojen sijaan.
+**Tykki:** Tykki ampuu kiinteitä ammuksia, kuten kranaatteja, tykinkuulia tai pienempiä ammuksia piipun tyveen sijoitetun räjähdyspanoksen avulla. Mitä vanhempi tykki, sitä alkeellisempi ammus. Jotkut merirosvot latasivat tykkeihin ketjuja purjeiden rikkomiseksi.
 
-**Tykki:** Tykki ampuu kiinteitä ammuksia kuten kuulia, kanuunankuulia tai pienempiä hauleja käyttämällä piipun pohjassa olevaa räjähdyspanosta. Mitä vanhempi tykki, sitä yksinkertaisempi ammus. Jotkut merirosvot latasivat tykkejä ketjuilla purjeiden vaurioittamiseksi.
+**Tykki, energia-:** Raskaaseen runkoon asennettu energianheitin, joka ampuu yksittäisiä purkauksia tai käyttää pyörivää piippusarjaa monilaukauksiseen tuleen. Yleensä asennettu tähtialuksiin tai tukikohtiin, vaikka jotkut ovat kannettavia.
 
-**Tykki, energia:** Raskasrakenteinen energiaprojektioase, joka ampuu yksittäisiä purkauksia tai käyttää pyörivää piippusarjaa moninkertaiseen tuleen. Yleensä asennettu tähtilaivoihin tai tukikohtiin, vaikka jotkut ovat siirrettäviä.
+**Katapultti:** Piiritysase, joka linkoaa kiviä ja muita esineitä paraabeliradalla kohteeseen. Katapultin ammusten lentoradan vuoksi ne ovat ihanteellisia avointen linnoitusten muurien yli ampumiseen tai hitaasti liikkuviin maa- tai meriajoneuvoihin tähtäämiseen.
 
-**Katapultti:** Piiritysase, joka heittelee kiviä ja muita esineitä parabolista rataa pitkin kohdealueelle. Katapultoitujen ohjusten lentoradan vuoksi ne ovat ihanteellisia avoimien linnoitusten muurien yli tai hitaasti liikkuvia maa- tai meriajoneuvoja kohti ampumiseen.
+**Tykkipatteri, kenttä:** Pienempi ja liikkuvampi tykki.
 
-**Tykki, kenttätykki:** Pienempi ja mobiilimpi tykki.
+**Gatling-konekivääri:** Ensimmäinen nopeasti toistava ampuma-ase. Liian suuri kannettavaksi, Gatling-konekiväärit asennetaan vaunujen tai kaksipyöräisten ammuskärryjen päälle. Useimmat nykyaikaiset konekiväärit juontavat juurensa tästä alkuperäisestä suunnitelmasta.
 
-**Gatling-konekivääri:** Ensimmäinen nopeasti toistuva tuliase. Liian suuri kannettavaksi, Gatling-konekiväärit on asennettu vankkureihin tai kaksipyöräisiin kärryihin. Useimmat modernit konekiväärit polveutuvat tästä alkuperäisestä mallista.
+**Kiskotykki:** Valtava ase, joka hyödyntää magneettikenttiä kiihdyttääkseen ammuksen kiskolla uskomattomaan nopeuteen.
 
-**Kiskotykki:** Valtava tykki, joka käyttää magneettikenttiä kiihdyttämään ammusta pitkin kiskoa, saavuttaen uskomattoman nopeuden.
+**Panssarivaunutykki:** Panssarivaunun pääase, joka ampuu suurnopeuksisia ja suurikaliiperisia ammuksia useista eri ammustyypeistä. Joitakin yleisimmistä panssarivaunutykeistä ammuttavista ammuksista ovat räjähdys-, panssarinläpäisy- tai ohjautuvat ohjukset.
 
-**Tankkitykki:** Panssarivaunun pääase, joka ampuu suuren kaliiperin ammuksia useista ammustyypeistä. Joitakin yleisimmistä tykistöaseista ovat korkearäjähteiset, panssaria lävistävät tai ohjatut ohjukset.
+**Haupitsi:** Kenttätykistön tyyppi, joka muistuttaa tykkiä, mutta jossa on lyhyempi ja kapeampi piippu. Haupitsit ampuvat ammuksia jyrkemmässä kulmassa ja korkeammalla radalla, mikä mahdollistaa ylhäältä putoavan tulen (syöksytuli) vihollisen päälle.
 
-**Haupitsi:** Kenttätykistön tyyppi, joka muistuttaa tykkiä, mutta lyhyemmällä ja kapeammalla piipulla. Haupitsit ampuvat ammuksia korkeammassa kulmassa ja radalla, toimittaen ylhäältä putoavaa tulta vihollisen niskaan.
+**Kranaatinheitin:** Maahan asetettu pieni raketinheitin, joka ampuu itseohjautuvan pommin korkeassa kaaressa kohteeseen. Nämä ovat usein vain tukeva jalusta ja putki yksinkertaisella laukaisumekanismilla.
 
-**Kranaatinheitin:** Maahan asetettu pieni raketinheitin, joka ampuu itsestään liikkuvan pommin korkealla kaarella kohteeseen. Nämä ovat usein vain vankka alusta ja putki, jossa on yksinkertainen laukaisumekanismi.
+**Springal:** Toiminnaltaan ballistaa muistuttava piiritysase, joka linkoaa valtavia keihäitä kohteeseen, mutta sitä voidaan käyttää myös kivien tai nuolien ampumiseen. Nuolet laukaistaan suoralla radalla ja kivet epäsuorasti.
 
-**Springal:** Toiminnallisuudeltaan ballistan kaltainen, tämä piiritysase heittää valtavia keihäitä kohdealueelle, mutta sitä voidaan käyttää myös kivien tai nuolten heittämiseen. Nuolet laukaistaan suoralla radalla ja kiviä heitetään epäsuorasti.
+**Torpedo:** Veden alla tai avaruudessa käytettävä itseohjautuva ohjus, joka on säädetty räjähtämään osuessaan kohteeseen. Vanhemmat torpedot laukaistiin joskus lasketulla etäisyydellä, jotta ne eivät muodostuisi navigointivaaroiksi. Kehittyneemmissä malleissa on ohjausjärjestelmät ja kyky lukittua kohteisiin.
 
-**Torpedo:** Itsestään liikkuva ohjus, jota käytetään veden alla tai avaruudessa, asetettu räjähtämään kosketuksesta kohteen kanssa. Vanhemmat torpedot asetettiin räjähtämään laskennallisella etäisyydellä estämään niitä muodostumasta navigointivaaroiksi. Hienostuneemmissa malleissa on ohjausjärjestelmät ja kyky lukittua kohteisiin.
+**Trebuchet:** Tämä keinulautamainen piirityskone käyttää valtavaa vastapainoa heittääkseen suuria kiviä tai muuta lastia kohteeseen. Yleensä taistelukentällä koottava laite tähtää vain yhdelle alueelle, ja ainoa tapa muuttaa tähtäystä on lyhentää etäisyyttä tai siirtää koko trebuchetia.
 
-**Trebuchet:** Tämä keinulautamainen piirityskone käyttää valtavaa vastapainoa heittämään suuria kiviä tai muita hyötykuormia kohdealueelle. Yleensä koottu taistelukentällä, se kohdistuu vain yhteen alueeseen, ja ainoa tapa muuttaa tähtäystä on lyhentää etäisyyttä tai siirtää koko trebuchetia.
+**Tykkitorni, energia-:** Avaruudessa tai maassa käytettävä energianheitintorni on suuri ase, joka kuluttaa valtavan määrän virtaa. Käytetään yleisesti avaruusasemilla, keskikokoisilla tai suurilla tähtialuksilla tai suurissa maataisteluissa. Muuten samankaltainen kuin konekivääritorni (alla).
 
-**Torni, energia:** Käytetään avaruudessa tai maalla, energiatyykki on suuri energiaa projisoiva ase, joka kuluttaa valtavan määrän virtaa. Käytetään yleisesti avaruusasemilla, keskikokoisilla ja suurilla avaruusaluksilla tai suurissa maataisteluissa. Muuten samankaltainen kuin konekiväritorni (alla).
+**Tykkitorni, liekinheitin:** Torniin asennettu liekinheitin, yleensä käyttäjää suojaavalla lisäpanssarilla, joka tarjoaa pidemmän kantaman kuin käsikäyttöinen liekinheitin.
 
-**Torni, liekki:** Torni-asennettu liekinheitin, yleensä lisähaarniskalla, joka suojaa käyttäjää, tarjoten pidemmän kantaman kuin käsikäyttöinen liekinheitin.
+**Tykkitorni, laser-:** Torniin asennettu lasertykki, joka asennetaan usein avaruusasemalle tai puolustussatelliittiin. Samankaltainen kuin energianheitintorni (yllä), mutta käyttää laservaloa raakojen energianpurkausten sijaan.
 
-**Torni, laser:** Torni-asennettu lasertykki, usein asennettu avaruusasemalle tai puolustussatelliittiin. Samankaltainen kuin energiatykki (yllä), mutta käyttää laseroitua valoa raa’an energian purkauksen sijaan.
+**Tykkitorni, konekivääri-:** Pyörivälle alustalle asetettu suuri konekivääri, joka kykenee laajaan tulisektoriin ja jota ohjataan yleensä kaukaa tai sisäisestä tai ulkoisesta ampumapaikasta. Tornit asennetaan yleensä keskikokoisiin tai suuriin lentokoneisiin, laivoihin, panssarivaunuihin tai muihin moottoriajoneuvoihin, tai jopa muureihin tai muihin puolustusrakenteisiin.
 
-**Torni, konekivääri:** Suuri konekivääri asetettuna pyörivälle alustalle, kykenee suureen tulisektoriin, yleensä ohjattuna etäältä tai sisäisestä tai ulkoisesta ampujasta. Tornit on yleensä asennettu keskikokoisiin tai suuriin lentokoneisiin, aluksiin, tankkeihin tai muihin moottoriajoneuvoihin, tai jopa seinille tai muihin puolustusrakenteisiin.
+**Tykkitorni, shokki-:** Torni, joka kykenee heittämään salamoita tai sähkökaaria etäisyyden päähän, hyödyntäen usein jonkinlaista vaihtovirtaa. Shokkitornilla on +20 % osumatarkkuus metallista kohdetta tai metallipanssarilla suojattua kohdetta vastaan.
 
-**Torni, sähköisku:** Torni, joka kykenee projisoimaan salamoita tai sähkökaaria etäisyyden yli, usein hyödyntäen jonkinlaista vaihtovirtaa. Sähköiskutornilla on +20 % osumismahdollisuus metalliseen kohteeseen tai kohteeseen, joka on peitetty metallisella haarniskalla.
-
-**Torni, keihäänheitin:** Torni-asennettu automaattinen keihäskivääri, joka ampuu yleensä metrin pituisia metallisia pultteja varsinaisten keihäiden sijaan. Joitakin varhaisia malleja käytetään valaanpyyntiteollisuudessa, mutta niitä käytetään myös maailmanlopun jälkeisissä asetelmissa.
+**Tykkitorni, keihäänheitin:** Torniin asennettu automaattinen keihäänheitin, joka ampuu yleensä metrin pituisia metallinuolia varsinaisten keihäiden sijaan. Joitakin varhaisia malleja käytetään valaanpyynnissä, mutta niitä käytetään myös post-apokalyptisissä ympäristöissä.
 
 ##### Muinaiset tykistöaseet
 
-| Nimi | Taito | Perus | Vah | Hyök | Erikois | Et | Miehistö | OP | HA | Amm | Kap | Moka | Arvo | KOK | TT |
+| Nimi | Taito | Perus | Vah | Hyök | Erityistä | Kantama | Miehistö | KES | PV | Ammus | Kap | Mal | Arvo | KOK | Nopeus |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbalesti, piiritys | Varsijousi | 10 | 3D6+1 | 1/5 | Pisto | 425 | 1 | 18 | — | Nuolet | 1 | 98–00 | Keskiverto | 14 | 1/5 kierrosta |
-| Ballista | Piirityskone | 05 | 10D6 | 1/5 | Pisto | 275 | 3 | 32 | 12 | Nuolet | 1 | 99–00 | Keskiverto | 42 | 1/5 kierrosta |
-| Katapultti | Piirityskone | 10 | 6D6 | 1/5 | Murskaus | 325 | 3 | 36 | 12 | Kivet | 1 | 00 | Halpa | 44 | 1/5 kierrosta |
-| Springald, nuolia ampuva | Piirityskone | 05 | 3D6 | 1/6 | Pisto | 300 | 3 | 40 | 1 | Nuolet | 1 | 99–00 | Keskiverto | 48 | 1/6 kierrosta |
-| Springald, kiviä ampuva | Piirityskone | 05 | 3D6 | 1/5 | Murskaus | 270 | 3 | 40 | 12 | Kivet | 1 | 99–00 | Keskiverto | 48 | 1/5 kierrosta |
-| Trebuchet | Piirityskone | 05 | 12D6 | 1/15 | Murskaus | 300 | 4 | 44 | 12 | Kivet | 1 | 98–00 | Keskiverto | 52 | 1/15 kierrosta |
+| Arbalesti, piiritys | Varsijousi | 10 | 3D6+1 | 1/5 | Läpäisevä | 425 | 1 | 18 | — | Nuolet | 1 | 98–00 | Keski | 14 | 1/5 kierrosta |
+| Ballista | Piirityskone | 05 | 10D6 | 1/5 | Läpäisevä | 275 | 3 | 32 | 12 | Nuolet | 1 | 99–00 | Keski | 42 | 1/5 kierrosta |
+| Katapultti | Piirityskone | 10 | 6D6 | 1/5 | Murskaava | 325 | 3 | 36 | 12 | Kivet | 1 | 00 | Halpa | 44 | 1/5 kierrosta |
+| Springal, nuolia ampuva | Piirityskone | 05 | 3D6 | 1/6 | Läpäisevä | 300 | 3 | 40 | 1 | Nuolet | 1 | 99–00 | Keski | 48 | 1/6 kierrosta |
+| Springal, kiviä ampuva | Piirityskone | 05 | 3D6 | 1/5 | Murskaava | 270 | 3 | 40 | 12 | Kivet | 1 | 99–00 | Keski | 48 | 1/5 kierrosta |
+| Trebuchet | Piirityskone | 05 | 12D6 | 1/15 | Murskaava | 300 | 4 | 44 | 12 | Kivet | 1 | 98–00 | Keski | 52 | 1/15 kierrosta |
 
-##### Historialliset ja modernit tykistöaseet
+##### Historialliset ja nykyaikaiset tykistöaseet
 
-| Nimi | Taito | Perus | Vah | Hyök | Erikois | Et | Miehistö | OP | HA | Amm | Kap | Moka | Arvo | KOK | TT |
+| Nimi | Taito | Perus | Vah | Hyök | Erityistä | Kantama | Miehistö | KES | PV | Ammus | Kap | Mal | Arvo | KOK | Nopeus |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Tykki | Tykki | 01 | 4D8+4 | 1/5 | Murskaus | 8,000 | 3 | 36 | 28 | Kuulat | 1 | 99–00 | Kallis | 44 | 1/5 kierrosta |
-| Tykki, kenttätykki | Tykki | 01 | 10D6/2 metriä | 1/3 | Murskaus | 12,000 | 2 | 48 | 28 | Räjähde | 1 | 00 | Rajoitettu | 42 | 1/3 kierrosta |
-| Gatling-konekivääri | Raskas ase | 15 | 2D6+4 | Sarja1 | Pisto | 100 | 1 | 20 | 24 | Luodit | 200 | 96–00 | Rajoitettu | 20 | 1/kierros |
-| Tykki, tankkitykki | Tykki | 01 | 15D6/4 metriä | 1 | Pisto | 2,000 | 2 | 36 | 28 | Räjähde | 1 | 00 | Rajoitettu | 28 | 1/kierros |
-| Haupitsi | Tykki | 01 | 10D6/2 metriä | 1/2 | Murskaus | 9,000 | 2 | 44 | 28 | Räjähde | 1 | 00 | Rajoitettu | 36 | 1/2 kierrosta |
-| Kranaatinheitin2 | Heitin | 01 | 10D6/2 metriä | 1 | Murskaus | 2,500 | 1 | 18 | 12 | Raketit | 1 | 00 | Rajoitettu | 12 | 1/kierros |
-| Torpedo | Ohjus | 01 | 20D6/2 metriä | 1/2 | Pisto | 5,000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | Rajoitettu | 243 | 1/2 kierrosta |
-| Torni, konekivääri | Torni | 05 | 4D6+4 | Sarja4 | Pisto | 200 | 1 | 48 | 28 | Luodit | 1,000 | 98–00 | Rajoitettu | 36 | 1/kierros |
-| Torni, keihäänheitin | Torni | 05 | 2D10+2 | 1 | Pisto | 350 | 1 | 26 | 28 | Keihäät | 1 | 00 | Kallis | 16 | 1/kierros |
+| Tykki | Tykki | 01 | 4D8+4 | 1/5 | Murskaava | 8 000 | 3 | 36 | 28 | Tykinkuulat | 1 | 99–00 | Kallis | 44 | 1/5 kierrosta |
+| Tykkipatteri, kenttä | Tykki | 01 | 10D6/2 metriä | 1/3 | Murskaava | 12 000 | 2 | 48 | 28 | Räjähtävä | 1 | 00 | Rajoitettu | 42 | 1/3 kierrosta |
+| Gatling-konekivääri | Raskas ase | 15 | 2D6+4 | Sarja1 | Läpäisevä | 100 | 1 | 20 | 24 | Luodit | 200 | 96–00 | Rajoitettu | 20 | 1/kierros |
+| Panssarivaunutykki | Tykki | 01 | 15D6/4 metriä | 1 | Läpäisevä | 2 000 | 2 | 36 | 28 | Räjähtävä | 1 | 00 | Rajoitettu | 28 | 1/kierros |
+| Haupitsi | Tykki | 01 | 10D6/2 metriä | 1/2 | Murskaava | 9 000 | 2 | 44 | 28 | Räjähtävä | 1 | 00 | Rajoitettu | 36 | 1/2 kierrosta |
+| Kranaatinheitin2 | Laukaiseva | 01 | 10D6/2 metriä | 1 | Murskaava | 2 500 | 1 | 18 | 12 | Raketit | 1 | 00 | Rajoitettu | 12 | 1/kierros |
+| Torpedo | Ohjus | 01 | 20D6/2 metriä | 1/2 | Läpäisevä | 5 000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | Rajoitettu | 243 | 1/2 kierrosta |
+| Tykkitorni, konekivääri | Tykkitorni | 05 | 4D6+4 | Sarja4 | Läpäisevä | 200 | 1 | 48 | 28 | Luodit | 1 000 | 98–00 | Rajoitettu | 36 | 1/kierros |
+| Tykkitorni, keihäänheitin | Tykkitorni | 05 | 2D10+2 | 1 | Läpäisevä | 350 | 1 | 26 | 28 | Keihäät | 1 | 00 | Kallis | 16 | 1/kierros |
 
 ##### Kehittyneet tykistöaseet
 
-| Nimi | Taito | Perus | Vah | Hyök | Erikois | Et | Miehistö | OP | HA | Amm | Kap | Moka | Arvo | KOK | TT |
+| Nimi | Taito | Perus | Vah | Hyök | Erityistä | Kantama | Miehistö | KES | PV | Ammus | Kap | Mal | Arvo | KOK | Nopeus |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Tykki, energia | Tykki | 01 | 4D10+4 | 1 | Tuli | 1,000 | 3 | 40 | 28 | Energia | Rajoittamaton | 00 | Rajoitettu | 48 | 1/kierros |
-| Tykki, kiskotykki | Asennettu ase | 01 | 6D8+6 | 1/3 | Pisto | 10,000 | 2 | 64 | 28 | Kuoret | 1,000 | 00 | Rajoitettu | 72 | 1/3 kierrosta |
-| Torni, energia | Torni | 05 | 6D10+6 | 1 | Tuli | 400 | 1 | 36 | 28 | Energia | Rajoittamaton | 00 | Rajoitettu | 44 | 1/kierros |
-| Torni, liekki | Torni | 10 | 4D6/1 metri5 | 1 | Tuli | 50 | 1 | 24 | 28 | Polttoaine | 100 | 98–00 | Rajoitettu | 32 | 1/kierros |
-| Torni, laser | Torni | 05 | 4D8+4 | 1 | Tuli | 600 | 1 | 32 | 28 | Energia | Rajoittamaton | 99–00 | Rajoitettu | 40 | 1/kierros |
-| Torni, ohjus | Torni | 01 | 8D6+8/2 metriä | Sarja | Pisto | 1,200 | 1 | 36 | 28 | Ohjukset | 100 | 00 | Rajoitettu | 44 | 1/kierros |
-| Torni, sähköisku | Torni | 05 | 4D6/1 metri6 | 1/2 | Tyrmäys | 40 | 1 | 24 | 28 | Energia | Rajoittamaton | 96–00 | Rajoitettu | 32 | 1/2 kierrosta |
+| Tykki, energia- | Tykki | 01 | 4D10+4 | 1 | Tuli | 1 000 | 3 | 40 | 28 | Energia | Rajoittamaton | 00 | Rajoitettu | 48 | 1/kierros |
+| Kiskotykki | Asennettu tykki | 01 | 6D8+6 | 1/3 | Läpäisevä | 10 000 | 2 | 64 | 28 | Kranaatit | 1 000 | 00 | Rajoitettu | 72 | 1/3 kierrosta |
+| Tykkitorni, energia- | Tykkitorni | 05 | 6D10+6 | 1 | Tuli | 400 | 1 | 36 | 28 | Energia | Rajoittamaton | 00 | Rajoitettu | 44 | 1/kierros |
+| Tykkitorni, liekinheitin | Tykkitorni | 10 | 4D6/1 metri5 | 1 | Tuli | 50 | 1 | 24 | 28 | Polttoaine | 100 | 98–00 | Rajoitettu | 32 | 1/kierros |
+| Tykkitorni, laser- | Tykkitorni | 05 | 4D8+4 | 1 | Tuli | 600 | 1 | 32 | 28 | Energia | Rajoittamaton | 99–00 | Rajoitettu | 40 | 1/kierros |
+| Tykkitorni, ohjus- | Tykkitorni | 01 | 8D6+8/2 metriä | Sarja | Läpäisevä | 1 200 | 1 | 36 | 28 | Ohjukset | 100 | 00 | Rajoitettu | 44 | 1/kierros |
+| Tykkitorni, shokki- | Tykkitorni | 05 | 4D6/1 metri6 | 1/2 | Tyrmäys | 40 | 1 | 24 | 28 | Energia | Rajoittamaton | 96–00 | Rajoitettu | 32 | 1/2 kierrosta |
 
-1. Gatling-konekivääri ampuu 36-laukauksen sarjan jokaisella taistelukierroksella.
-2. Tämä on pieni, miehen kannettava kranaatinheitin. Suurempia versioita varten käytä haupitsin tilastoja.
-3. KOK on itse torpedolle; se on ammuttava laukaisuputkesta, yleensä osa sukellusvenettä tai muuta alusta.
-4. Standardi konekivääritorni ampuu 120-laukauksen sarjan jokaisella taistelukierroksella.
-5. Jos kohde osuu, heitä Onni. Jos heitto epäonnistuu, kohde palaa ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla taistelukierroksella, kunnes tuli sammutetaan tai muuten neutraloidaan (katso **Tuli ja kuumuus**).
-6. Heitä vahinko ja aseta se vastakkain kohteen KES-heiton kanssa. Jos kohde häviää, se on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**).
+1. Gatling-konekivääri ampuu 36 luodin sarjan jokaisella taistelukierroksella.
+2. Tämä on pieni, ihmisen kannettava kranaatinheitin. Suuremmille versioille käytä haupitsin tilastoja.
+3. KOK koskee itse torpedoa; se on ammuttava laukaisuputkesta, joka on yleensä osa sukellusvenettä tai muuta alusta.
+4. Vakio konekivääritorni ampuu 120 luodin sarjan jokaisella taistelukierroksella.
+5. Jos kohde osuu, heitä Onnea. Jos heitto epäonnistuu, kohde syttyy palamaan ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla taistelukierroksella, kunnes tuli on sammutettu tai muuten neutraloitu (katso **Tuli ja kuumuus**).
+6. Heitä vahinko ja vertaa kohteen KES-arvoon vastustusheitossa. Jos kohde häviää, se tyrmätään 1D3+1 kierroksen ajaksi (katso **Tyrmääminen**).
 
-##### Modernit räjähteet
+##### Nykyaikaiset räjähteet
 
-| Ase | Taito | Perus | Vah1 | Hyök | Erikois | Et | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+| Ase | Taito | Perus | Vah1 | Hyök | Erityistä | Kantama | Kädet | KES | Torjunta | VOI/KET | Mal | Arvo | KOK/Kanta |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Sytytin | Purku | — | 2D6/1 metri | 1/2 | Takaisinlyönti | 3 | — | 3 | Ei | — | 00 | Keskiverto | 0.2 |
-| Dynamiitti | Purku | Heitto | 5D6/2 metriä | 1/2 | Takaisinlyönti | Heitetty | 2K | 1 | Ei | 5/5 | 99–00 | Keskiverto | 0.5 |
-| Räjähde, improvisoitu | Purku | — | 3D6/2 metriä | 1 | Takaisinlyönti | 8 | — | 4 | Ei | — | 91–00 | Halpa | 1.0 |
-| Räjähde, muoviräjähde | Purku | — | 6D6/3 metriä | 1/3 | Takaisinlyönti | 21 | — | 15 | Ei | — | 99–00 | Kallis | 1.0 |
-| Kranaatti, tärähdys | Kranaatti | Heitto | 2D62/2 metriä | 1 | Takaisinlyönti | Heitetty | 1K | 8 | Ei | 5/5 | 00 | Keskiverto | 0.7 |
-| Kranaatti, räjähde | Kranaatti | Heitto | 4D6/4 metriä | 1 | Takaisinlyönti | Heitetty | 1K | 8 | Ei | 5/5 | 99–00 | Keskiverto | 0.7 |
-| Kranaatti, soihtu | Kranaatti | Heitto | 3/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 00 | Keskiverto | 0.7 |
-| Kranaatti, kaasu | Kranaatti | Heitto | 4/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 99–00 | Keskiverto | 0.7 |
+| Sytytin | Purkutyö | — | 2D6/1 metri | 1/2 | Työntö | 3 | — | 3 | Ei | — | 00 | Keski | 0.2 |
+| Dynamiitti | Purkutyö | Heitto | 5D6/2 metriä | 1/2 | Työntö | Heitetty | 2K | 1 | Ei | 5/5 | 99–00 | Keski | 0.5 |
+| Räjähde, improvisoitu | Purkutyö | — | 3D6/2 metriä | 1 | Työntö | 8 | — | 4 | Ei | — | 91–00 | Halpa | 1.0 |
+| Räjähde, muovailtava | Purkutyö | — | 6D6/3 metriä | 1/3 | Työntö | 21 | — | 15 | Ei | — | 99–00 | Kallis | 1.0 |
+| Kranaatti, sokaisu | Kranaatti | Heitto | 2D62/2 metriä | 1 | Työntö | Heitetty | 1K | 8 | Ei | 5/5 | 00 | Keski | 0.7 |
+| Kranaatti, räjähdys | Kranaatti | Heitto | 4D6/4 metriä | 1 | Työntö | Heitetty | 1K | 8 | Ei | 5/5 | 99–00 | Keski | 0.7 |
+| Kranaatti, valo | Kranaatti | Heitto | 3/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 00 | Keski | 0.7 |
+| Kranaatti, kaasu | Kranaatti | Heitto | 4/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 99–00 | Keski | 0.7 |
 | Kranaatti, fosfori | Kranaatti | Heitto | 2D65/24 metriä | 1 | — | Heitetty | 1K | 4 | Ei | 5/5 | 98–00 | Kallis | 0.7 |
-| Kranaatti, sirpale | Kranaatti | Heitto | 4D6/4 metriä | 1 | Pisto | Heitetty | 1K | 8 | Ei | 5/5 | 00 | Keskiverto | 0.7 |
-| Kranaatti, savu | Kranaatti | Heitto | 6/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 00 | Keskiverto | 0.3 |
-| Kranaatinheitin | Kranaatti | 25 | 3D6/2 metriä | 1/3 | Takaisinlyönti | 20 | 1K | 12 | Ei | — | 99–00 | Kallis | 3.0 |
-| Sinko, LAW-raketti | Kranaatti | 15 | 8D6/1 metri | 1 | Takaisinlyönti | 150 | 2K | 10 | Ei | 7/5 | 98–00 | Kallis | 4.5 |
-| Sinko, raketinheitin | Kranaatti | 01 | 10D6/5 metriä | 1/3 | Pisto, Takaisinlyönti | 400 | 2K | 12 | Ei | 11/7 | 99–00 | Kallis | 7.0 |
-| Miina, henkilömiina | Purku | — | 4D6/5 metriä | — | Takaisinlyönti | 25 | — | 9 | Ei | — | 99–00 | Keskiverto | 2.0 |
-| Miina, panssarimiina | Purku | — | 6D6+6/ 3D6+2/1D6 | — | Pisto | 10/25/50 | — | 12 | Ei | — | 99–00 | Keskiverto | 3.0 |
+| Kranaatti, sirpale | Kranaatti | Heitto | 4D6/4 metriä | 1 | Läpäisevä | Heitetty | 1K | 8 | Ei | 5/5 | 00 | Keski | 0.7 |
+| Kranaatti, savu | Kranaatti | Heitto | 6/3 metriä | 1 | — | Heitetty | 1K | 6 | Ei | 5/5 | 00 | Keski | 0.3 |
+| Kranaatinheitin | Kranaatti | 25 | 3D6/2 metriä | 1/3 | Työntö | 20 | 1K | 12 | Ei | — | 99–00 | Kallis | 3.0 |
+| Raketinheitin, LAW | Kranaatti | 15 | 8D6/1 metri | 1 | Työntö | 150 | 2K | 10 | Ei | 7/5 | 98–00 | Kallis | 4.5 |
+| Raketinheitin | Kranaatti | 01 | 10D6/5 metriä | 1/3 | Läpäisevä, Työntö | 400 | 2K | 12 | Ei | 11/7 | 99–00 | Kallis | 7.0 |
+| Miina, jalkaväki | Purkutyö | — | 4D6/5 metriä | — | Työntö | 25 | — | 9 | Ei | — | 99–00 | Keski | 2.0 |
+| Miina, panssarintorjunta | Purkutyö | — | 6D6+6/ 3D6+2/1D6 | — | Läpäisevä | 10/25/50 | — | 12 | Ei | — | 99–00 | Keski | 3.0 |
 | Molotovin cocktail | Kranaatti | Heitto | 1+Tuli7 | 1/2 | — | Heitetty | 1K | 1 | Ei | 5/7 | 95–00 | Halpa | 0.7 |
 
-1. Vahinko on ilmaistu noppina per metri; vahinko per metri alkusäteen ulkopuolella laskee 1D6:lla.
-2. Kaikkien vahingoittuneiden kohteiden on onnistuttava Kestävyys-heitossa tai heidät tyrmätään (katso **Tyrmääminen**).
-3. Valaisee alueen vahingon sijaan (katso **Valonlähteet**).
-4. Täyttää alueen myrkyllisellä tai myrkyttömällä kaasulla (katso **Myrkyt**). Esimerkkikaasukranaatti voi olla 2D6+12 POT, välitön vaikutus, ja aiheuttaa tukehtumista ja 1D6 osumapistemenetystä per kierros, jos kohde epäonnistuu vastustusheitossa vs. KES.
-5. Fosforikranaatit tuottavat savua ja ovat myös polttavia, aiheuttaen vahinkoa joka kierros, kunnes sammuvat (katso **Tuli ja kuumuus**).
-6. Täyttää alueen näkyvyyttä peittävällä savulla vahingon sijaan; voi peittää huoneen kuin se olisi pimennetty (katso **Pimeys**).
-7. Jos kohde osuu, sen on heitettävä Onni. Jos heitto epäonnistuu, se palaa ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla kierroksella, kunnes tuli sammutetaan tai neutraloidaan (katso **Tuli ja kuumuus**).
+1. Vahinko ilmaistaan noppina per metri; vahinko per metri alkuperäisen säteen jälkeen vähenee 1D6:lla.
+2. Kaikkien vaurioituneiden kohteiden on onnistuttava Kestävyys-heitossa tai heidät tyrmätään (katso **Tyrmääminen**).
+3. Valaisee kantaman alueen vahingon sijaan (katso **Valonlähteet**).
+4. Täyttää alueen myrkyllisellä tai myrkyttömällä kaasulla (katso **Myrkyt**). Esimerkkikaasukranaatilla voisi olla 2D6+12 VAI, välitön vaikutus, ja se aiheuttaa tukehtumista ja 1D6 osumapisteen menetystä per kierros, jos kohde epäonnistuu vastustusheitossa KES-arvoa vastaan.
+5. Fosforikranaatit tuottavat savua ja ovat myös sytyttäviä, aiheuttaen vahinkoa jokaisella kierroksella kunnes tuli on sammutettu (katso **Tuli ja kuumuus**).
+6. Täyttää alueen näkyvyyttä estävällä savulla vahingon sijaan; voi peittää huoneen kuin se olisi pimeä (katso **Pimeys**).
+7. Jos kohde osuu, sen on heitettävä Onnea. Jos heitto epäonnistuu, se syttyy palamaan ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla kierroksella, kunnes tuli on sammutettu tai neutraloitu (katso **Tuli ja kuumuus**).
 
 ##### Kehittyneet räjähteet
 
-| Ase | Taito | Perus | Vah1 | Hyök | Erikois | Et | Kädet | OP | Torjunta | VOI/KET | Moka | Arvo | KOK/ENC |
+| Ase | Taito | Perus | Vah1 | Hyök | Erityistä | Kantama | Kädet | KES | Torjunta | VOI/KET | Mal | Arvo | KOK/Kanta |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Detonaattori, antimateria | Purku | — | 10D10/10 metriä | 1 | — | 110 | — | 12 | Ei | — | 96–00 | Kallis | 1.5 |
-| Detonaattori, fuusio | Purku | — | 10D8/10 metriä | 1 | — | 110 | — | 16 | Ei | — | 98–00 | Kallis | 2.0 |
-| Detonaattori, EM-pulssi | Purku | — | 6D10/5 metriä2 | 1 | — | 35 | — | 12 | Ei | — | 97–00 | Kallis | 1.0 |
-| Detonaattori, plasma | Purku | — | 6D10/5 metriä3 | 1 | — | 35 | — | 10 | Ei | — | 99–00 | Kallis | 1.4 |
-| Detonaattori, ääni | Purku | — | 4D6/2 metriä4 | 1 | Takaisinlyönti | 10 | — | 8 | Ei | — | 97–00 | Kallis | 2.0 |
+| Detonaattori, antimateria | Purkutyö | — | 10D10/10 metriä | 1 | — | 110 | — | 12 | Ei | — | 96–00 | Kallis | 1.5 |
+| Detonaattori, fuusio | Purkutyö | — | 10D8/10 metriä | 1 | — | 110 | — | 16 | Ei | — | 98–00 | Kallis | 2.0 |
+| Detonaattori, EM-pulssi | Purkutyö | — | 6D10/5 metriä2 | 1 | — | 35 | — | 12 | Ei | — | 97–00 | Kallis | 1.0 |
+| Detonaattori, plasma | Purkutyö | — | 6D10/5 metriä3 | 1 | — | 35 | — | 10 | Ei | — | 99–00 | Kallis | 1.4 |
+| Detonaattori, soninen | Purkutyö | — | 4D6/2 metriä4 | 1 | Työntö | 10 | — | 8 | Ei | — | 97–00 | Kallis | 2.0 |
 | Kranaatti, hajottaja | Kranaatti | Heitto | 4D10/2 metriä | 1 | — | Heitetty | 1K | 12 | Ei | 5/5 | 96–00 | Kallis | 0.8 |
-| Kranaatti, EM-pulssi | Kranaatti | Heitto | 5D8/1 metri | 1 | — | Heitetty | 1K | 8 | Ei | 5/5 | 98–00 | Keskiverto | 0.5 |
-| Kranaatti, fuusio | Kranaatti | Heitto | 6D6/1 metri | 1 | — | Heitetty | 1K | 10 | Ei | 5/5 | 97–00 | Keskiverto | 0.8 |
-| Kranaatti, plasma | Kranaatti | Heitto | 3D10/2 metriä3 | 1 | — | Heitetty | 1K | 10 | Ei | 5/5 | 98–00 | Keskiverto | 0.7 |
-| Kranaatti, sähköisku | Kranaatti | Heitto | 4D6/1 metri | 1 | Takaisinlyönti | Heitetty | 1K | 8 | Ei | 5/5 | 98–0 | Keskiverto | 0.5 |
-| Kranaatti, tainnutus | Kranaatti | Heitto | 3D8/2 metriä5 | 1 | Takaisinlyönti | Heitetty | 1K | 8 | Ei | 5/5 | 98–00 | Keskiverto | 0.5 |
+| Kranaatti, EM-pulssi | Kranaatti | Heitto | 5D8/1 metri | 1 | — | Heitetty | 1K | 8 | Ei | 5/5 | 98–00 | Keski | 0.5 |
+| Kranaatti, fuusio | Kranaatti | Heitto | 6D6/1 metri | 1 | — | Heitetty | 1K | 10 | Ei | 5/5 | 97–00 | Keski | 0.8 |
+| Kranaatti, plasma | Kranaatti | Heitto | 3D10/2 metriä3 | 1 | — | Heitetty | 1K | 10 | Ei | 5/5 | 98–00 | Keski | 0.7 |
+| Kranaatti, shokki- | Kranaatti | Heitto | 4D6/1 metri | 1 | Työntö | Heitetty | 1K | 8 | Ei | 5/5 | 98–0 | Keski | 0.5 |
+| Kranaatti, tyrmäys | Kranaatti | Heitto | 3D8/2 metriä5 | 1 | Työntö | Heitetty | 1K | 8 | Ei | 5/5 | 98–00 | Keski | 0.5 |
 
-1. Vahinko ilmaistaan noppina per metri; vahinko per metri alkusäteen ulkopuolella laskee 1D:llä per metri.
-2. Vahinko heitetään ja asetetaan vastakkain elektronisen/sähköpohjaisen kohteen KES:n tai osumapisteiden kanssa vastustusheitossa. Jos kohde epäonnistuu, se kärsii rullatun vahingon. Jos vastustusheitto onnistuu, kohde ottaa detonaattorin minimivahingon (kantaman perusteella) osumapisteisiin.
-3. Iskeytyneen kohteen on tehtävä Vaikea Onni-heitto. Jos heitto epäonnistuu, se palaa ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla kierroksella, kunnes tuli sammutetaan tai neutraloidaan (katso **Tuli ja kuumuus**).
-4. Elotonta kohdetta vastaan vahinko asetetaan vastakkain kohteen perus-KES:n, haarniska-arvon tai osumapisteiden kanssa (pelinjohtajan valinta). Jos kohde epäonnistuu heitossa, se särkyy tai muuttuu toimintakyvyttömäksi.
-5. Heitä vahinko ja aseta se vastakkain kohteen KES-heiton kanssa. Jos kohde onnistuu, se ottaa minimivahingon (2) rullatun vahingon sijaan. Jos kohde epäonnistuu, se on tyrmätty 1D3+1 kierrosta (katso **Tyrmääminen**).
+1. Vahinko ilmaistaan noppina per metri; vahinko per metri alkuperäisen säteen jälkeen vähenee 1D:llä per metri.
+2. Vahinko heitetään ja verrataan sähköisen/elektronisen kohteen KES-arvoon tai sen nykyisiin osumapisteisiin vastustusheitossa. Jos kohde häviää, se kärsii heitetyn määrän vahinkoa. Jos vastustusheitto onnistuu, kohde ottaa detonaattorin minimivahingon (kantaman perusteella) nykyisiin osumapisteisiin.
+3. Osuman saaneen kohteen on tehtävä Vaikea Onnenheitto. Jos heitto epäonnistuu, se syttyy palamaan ja ottaa 1D6 pistettä vahinkoa välittömästi ja jokaisella seuraavalla kierroksella, kunnes tuli on sammutettu tai neutraloitu (katso **Tuli ja kuumuus**).
+4. Elottomaa kohdetta vastaan vahinko verrataan kohteen perus-KES-arvoon, panssarivahinkoon tai osumapisteisiin (pelinjohtajan valinta). Jos kohde epäonnistuu heitossa, se särkyy tai muuttuu toimintakyvyttömäksi.
+5. Heitä vahinko ja vertaa kohteen KES-arvoon vastustusheitossa. Jos kohde onnistuu, se ottaa minimivahingon (2) heitetyn vahingon sijaan. Jos kohde häviää, se tyrmätään 1D3+1 kierroksen ajaksi (katso **Tyrmääminen**).
 
-## Robotit ja keinoelämä
+## Robotit ja tekoelämä
 
-Yksi ainutlaatuinen varustetyyppi on **robotti**, konstruktio, jota käsitellään kuten hahmoa, jolla on vastaava ominaisuuksien ja taitojen kirjo. Robotit vaihtelevat muodoltaan ja rakenteeltaan ei-humanoidi-golemeista, kömpelöistä ja ylisuurista automaateista, siroihin ja houkutteleviin humanoideihin tai jopa ihmisistä erottamattomiin. Selkeyden vuoksi kaikkia robottityyppejä (androidit, golemit, synteettiset humanoidit, tekoälyt jne.) kutsutaan näissä säännöissä roboteiksi.
+Yksi ainutlaatuinen laitteistotyyppi on **robotti**, joka on hahmon tavoin kohdeltava konstruktio, jolla on samankaltainen ominaisuuksien ja taitojen valikoima. Robotit vaihtelevat muodoltaan ja rakenteeltaan ei-humanoidisista goleemeista, kömpelöistä ja ylisuurista automaateista, siroihin ja houkutteleviin humanoideihin tai jopa ihmisistä erottamattomiin. Käytännön syistä kaikkia robottityyppejä (androidit, goleemit, synteettiset humanoidit, tekoäly jne.) kutsutaan näissä säännöissä roboteiksi.
 
-Kaikki robotin attribuutit ovat identtisiä normaalin hahmon kanssa, samoilla ominaisuuksilla, taidoilla ja jopa kyvyillä. Luvussa yksitoista (Olennot) on esimerkkirobotti.
+Kaikki robotin ominaisuudet ovat identtisiä normaalin hahmon kanssa, samoilla ominaisuuksilla, taidoilla ja jopa voimilla. Luvussa yksitoista: Olennot on esimerkki robotista.
 
 ### Robotit pelaajahahmoina
 
-Pelinjohtajan luvalla hahmosi voi olla jopa robotti, joko rakennettuna normaalin hahmonluonnin avulla tai käyttämällä yhtä malleista pohjana. Tällöin hahmosi tulisi rakentaa normaalin hahmon tapaan, vaikka VOI muuttuu yksinkertaiseksi akkukapasiteetiksi, eikä todelliseksi sielunvoimaksi. Roboteille sopivin kykyryhmä on supervoimajärjestelmä. Hahmosi on korjattava asianmukaisella Korjaus-taidolla (tai Teknisellä taidolla, riippuen siitä, kuinka edistynyt hahmosi on), ja nämä korjaukset saattavat vaatia Status-heiton pääsyn saamiseksi tarvittaviin komponentteihin.
+Pelinjohtajan luvalla hahmosi voi olla jopa robotti, joka on rakennettu joko normaalin hahmonluonnin avulla tai käyttämällä jotakin esimerkeistä mallina. Tällöin hahmosi tulee rakentaa normaalin hahmon tapaan, vaikka MAH muuttuu yksinkertaiseksi akun varauskyvyksi todellisen sielunvoiman sijaan. Sopivin voimajärjestelmä robotille on supervoimajärjestelmä. Hahmosi on joko korjattava asianmukaisella Korjaus-taidolla (tai teknisellä taidolla, riippuen siitä kuinka kehittynyt hahmosi on), ja nämä korjaukset saattavat vaatia Statushoitotarkistuksen pääsyn saamiseksi tarvittaviin komponentteihin.### Kybernetiikka
 
-### Kybernetiikka
+Jos haluat hahmollasi olevan kyberneettisiä piirteitä, kuten tekojäseniä tai -elimiä, keskustele pelinjohtajan kanssa päättääksenne, mitä vaikutuksia keinotekoisilla ruumiinosilla on. Useimmissa tapauksissa, jos ruumiinosa ei tarjoa erityisiä bonuksia tai epätavallisia ominaisuuksia, oleta sen toimivan aivan kuten elävän ruumiinosan, paitsi että Ensiapu-taidon sijaan käytetään asianmukaista Korjaus- tai Tekniikka-taitoa raajan toimintakyvyn palauttamiseen, jos se vaurioituu vakavan haavan tai osumakohtiin kohdistuvan vamman seurauksena.
 
-Jos haluat hahmollasi olevan joitakin kyberneettisiä piirteitä kehossaan, kuten tekoelimiä tai -elimiä, työskentele pelinjohtajan kanssa määrittääksesi, mitä vaikutuksia keinoelimellä tulisi olla. Useimmissa tapauksissa, jos ruumiinosa ei tarjoa erityisiä bonuksia tai epätavallisia attribuutteja, oleta, että sitä kohdellaan aivan kuten elävää ruumiinosaa, tosin Ensiapu-taidon sijaan käytetään asianmukaista Korjaus- tai Teknistä taitoa raajan palauttamiseksi toimintaan, jos se vaurioituu vakavan haavan tai osumakohtien käytöstä johtuvan vamman vuoksi.
+Jos haluat keinotekoisella ruumiinosalla olevan erityisvoimia tai ominaisuuksia, jotka ylittävät normaalin raajan kyvyt, rakenna raaja kuin se olisi laite (katso **Varusteet ja supervoimat**), mutta se on kiinnitetty pysyvästi hahmosi kehoon. Vaihtoehtoisesti keinotekoinen raaja/elin voi olla irrotettava tai jopa modulaarinen. Joka tapauksessa laitejärjestelmä on paras tapa simuloida kyberneettisiä tai muita keinotekoisia ruumiinosia.
 
-Jos haluat keinotekoisella ruumiinosalla olevan erityisvoimia tai attribuutteja normaalin raajan yläpuolella, rakenna raaja ikään kuin se olisi gadget (laitteisto) (katso **Varusteet ja supervoimat**), vain hahmosi kehoon kiinnitettynä. Vaihtoehtoisesti keinoelimen/elimen voi irrottaa tai se voi olla modulaarinen. Kummassakin tapauksessa gadget-järjestelmä on paras tapa simuloida kyberneettisiä tai muuten keinotekoisia ruumiinosia.
-
-> ### Metrimuunnokset
+> ### Metrijärjestelmän muunnokset
 > 
-> Basic Roleplaying käyttää oletuksena metrijärjestelmää. Vaikka suurin osa maailmasta käyttää metrijärjestelmää, keisarillisia mittayksiköitä käytetään usein historiallisissa asetelmissa, ja sinä ja pelinjohtajasi saatatte haluta käyttää näitä mittoja helppouden ja/tai tunnelman vuoksi. Alla olevat metrimuunnokset ovat likimääräisiä ja pyöristettyjä siellä, missä se on kätevää.
+> Basic Roleplaying käyttää metrijärjestelmää oletuksena. Vaikka suurin osa maailmasta käyttää metrijärjestelmää, brittiläisiä mittayksiköitä käytetään usein historiallisissa ympäristöissä, ja sinä ja pelinjohtajasi saatatte haluta käyttää näitä mittoja helpotuksen ja/tai tunnelman vuoksi. Alla olevat metrijärjestelmän muunnokset ovat likimääräisiä ja pyöristettyjä tarvittaessa.
 > 
-> ##### Metri/Keisarilliset vastaavuudet
+> ##### Metrijärjestelmän ja brittiläisten mittayksiköiden vastaavuudet
 > 
 > | 1 senttimetri = 1/3 tuumaa | 0° C = 32° F |
 > | :---- | :---- |
@@ -1472,222 +1525,419 @@ Jos haluat keinotekoisella ruumiinosalla olevan erityisvoimia tai attribuutteja 
 > | 1 metri = 1 jaardi | 20° C = 68° F |
 > | 1 kilometri = 3/5 mailia | 30° C = 86° F |
 > | 100 grammaa = 3 unssia | 40° C = 104° F |
-> | 1 kilogramma = 2.2 paunaa | 100° C = 212° F |
-> | 1 tonni (metrinen) = 2,200 paunaa | 200° C = 392° F |
-> | 1 litra = 1 kvartti | 500° C = 922° F |
-> | 4 litraa = 1 gallona | 1,000° C = 1,832° F |
+> | 1 kilogramma = 2,2 paunaa | 100° C = 212° F |
+> | 1 metrinen tonni = 2 200 paunaa | 200° C = 392° F |
+> | 1 litra = 1 kortteli | 500° C = 922° F |
+> | 4 litraa = 1 gallona | 1 000° C = 1 832° F |
 
 ## Ajoneuvot
 
-Aivan kuten aseiden ja haarniskojen tyyppien kohdalla, seuraava osio sisältää valikoiman ajoneuvoja, jotka on lueteltu **Liikenopeuksissa**, sekä muita seikkailuun sopivia. Nämä abstraktit esimerkit voivat auttaa sinua ja pelinjohtajaasi luomaan lisää ajoneuvotyyppejä, laajentaen tai muuttaen tilastoja tarpeen mukaan.
+Aivan kuten aseiden ja panssarityyppien kohdalla, seuraava osio sisältää valikoiman ajoneuvoja, jotka on lueteltu kohdassa **Liikkumisnopeudet**, sekä muita seikkailuihin sopivia kulkuneuvoja. Nämä abstraktit esimerkit voivat auttaa sinua ja pelinjohtajaasi luomaan lisää ajoneuvotyyppejä laajentamalla tai muuttamalla tilastoja tarpeen mukaan.
 
-Seuraavia termejä käytetään kunkin ajoneuvon määrittelemiseen:
+Seuraavia termejä käytetään kunkin ajoneuvon määrittelyyn:
 
-* **Tyyppi:** Ajoneuvon yleistyyppi.
-* **Taito:** Taito, jota käytetään sitä ohjattaessa.
-* **Nopeusluokka:** Ajoneuvon maksiminopeus, abstrakti arvo, jota käytetään takaa-ajojärjestelmässä.
-* **Käsittely:** Hahmosi taitoon sovellettava muokkaus, joka heijastaa ajoneuvon ohjattavuutta tai suhteellista helppokäyttöisyyttä.
-* **KIH:** Kiihtyvyys, nopeusaskelten määrä, jonka ajoneuvo voi kiihtyä tai hidastua nykyisestä nopeusluokastaan jokaisella taistelukierroksella. Tämä annetaan ±-arvona, ja sitä käytetään ajoneuvojen takaa-ajojärjestelmässä.
-* **LII:** Ajoneuvon maksiminopeus taistelukierroksella, ilmaistuna sen LII-arvona. LII-arvolla on liukuva 1–5 metrin arvo; tämä olettaa keskiarvoksi 3.
-* **Haarniska:** Ajoneuvon yleinen haarniska-arvo ja suoja, jonka se tarjoaa miehistölle tai matkustajille. Yleensä hyökkäykset matkustajia vastaan tapahtuvat ikkunan tai avoimen hyttiosan kautta. Jos nämä kaksi numeroa ovat erilaisia, ne ilmaistaan kahdella vinoviivalla erotetulla arvolla. Pelinjohtajan on määritettävä, onko hahmolla suoja ajoneuvosta. Ajoneuvossa olevan hahmon hyökkääminen on Vaikeaa.
-* **KOK:** Ajoneuvon ilmeinen KOK-arvo.
-* **OP:** Ajoneuvon osumapisteet. Ajoneuvot eivät kärsi erikoisonnistumisten toissijaisista vaikutuksista, lukuun ottamatta lisääntynyttä vahinkoa, ja kriittiset onnistumiset jättävät huomioimatta ajoneuvon haarniskan ja tekevät lisävahinkoa.
-* **Miehistö:** Hahmojen määrä, joka tarvitaan ohjaamaan ja huoltamaan ajoneuvoa täydellä tehokkuudella matkan aikana. Suuremmille aluksille tämä on yleensä 1/3 normaalista miehistöstä, miehistön työskennellessä 8 tunnin vuoroissa. Ajoneuvoon liittyvät taitotaitoheitot voivat olla Vaikeita, jos ajoneuvo on alimiehitetty.
-* **Matkustajat:** Matkustajien määrä, jonka ajoneuvo normaalisti kuljettaa, yhdistettynä vapaavuorossa olevien miehistön jäsenten määrään (jos aiheellista).
-* **Rahti:** Tila, joka ajoneuvolla on rahdille, ilmaistuna KOK:na. Pelitarkoituksessa 1 ENC vastaa 1 KOK-pistettä.
-* **Arvo:** Yleinen arvo ajoneuvolle, kuten on kuvattu **Raha** ja **Varusteiden ostaminen** -kohdissa.
-* **Huomautukset:** Lisähuomautuksia ajoneuvosta ja sen kyvyistä.
+* **Tyyppi:** Ajoneuvon yleinen tyyppi.
+
+* **Taito:** Taito, jota käytetään ajoneuvoa ohjattaessa.
+
+* **Nopeusluokitus:** Ajoneuvon maksiminopeus; abstrakti arvo, jota käytetään takaa-ajojärjestelmässä.
+
+* **Käsittely:** Hahmosi taitoon lisättävä muuttuja, joka heijastaa ajoneuvon ohjattavuutta tai suhteellista helppokäyttöisyyttä.
+
+* **ACC:** Kiihtyvyys, eli nopeuslisäysten määrä, jonka ajoneuvo voi kiihdyttää tai hidastaa nykyisestä nopeusluokituksestaan joka taistelukierros. Tämä annetaan ±-arvona, ja sitä käytetään ajoneuvojen takaa-ajojärjestelmässä.
+
+* **MOV:** Ajoneuvon maksiminopeus taistelukierroksen aikana, ilmaistuna MOV-arvona. MOV:n liukuva arvo on 1–5 metriä; tämä olettaa keskiarvoksi 3.
+
+* **Panssari:** Ajoneuvon yleinen panssariarvo ja suoja, jonka se tarjoaa miehistölle tai matkustajille. Yleensä hyökkäykset matkustajia vastaan tapahtuvat ikkunan tai avoimen hyttiosan kautta. Jos nämä kaksi lukua ovat erilaisia, ne ilmaistaan kahdella arvolla, jotka on erotettu vinoviivalla. Pelinjohtajan tulee päättää, onko hahmolla suoja ajoneuvosta. Ajoneuvossa olevan henkilön hyökkääminen on Vaikeaa.
+
+* **KOK:** Ajoneuvon näennäinen KOK-arvo.
+
+* **KP:** Ajoneuvon kestopisteet. Ajoneuvot eivät kärsi erityisonnistumisten toissijaisista vaikutuksista, lukuun ottamatta lisääntynyttä vahinkoa, ja kriittiset onnistumiset ohittavat ajoneuvon panssarin ja aiheuttavat lisävahinkoa.
+
+* **Miehistö:** Hahmojen määrä, joka tarvitaan ajoneuvon ohjaamiseen ja ylläpitoon täydellä teholla matkan aikana. Suuremmille aluksille tämä on yleensä 1/3 normaalista miehistöstä, koska miehistö työskentelee 8 tunnin vuoroissa. Ajoneuvoon liittyvät taitoheitot voivat olla Vaikeita, jos miehistö on vajaalukuinen.
+
+* **Matkustajat:** Matkustajien määrä, jonka ajoneuvo normaalisti kuljettaa, yhdistettynä vapaalla olevien miehistön jäsenten määrään (tarvittaessa).
+
+* **Lasti:** Ajoneuvon tila lastille, ilmaistuna KOK-yksikköinä. Peliteknisesti 1 ENC vastaa 1 KOK-pistettä.
+
+* **Arvo:** Ajoneuvon yleinen arvo, kuten on kuvattu kohdissa **Raha** ja **Varusteiden ostaminen**.
+
+* **Huomautukset:** Lisähuomautukset ajoneuvosta ja sen kyvyistä.
 
 ### Ajoneuvojen kuvaukset
 
-Tämä osio kuvailee useita ajoneuvoja aakkosjärjestyksessä.
+Tämä osio kuvaa valikoiman ajoneuvoja, jotka on järjestetty aakkosjärjestykseen.
 
-**Ilma-alus, pommikone:** Valtava, potkuri- tai turbiinikäyttöinen lentokone, jota käytetään pitkän kantaman pommituslennoilla, yleensä varustettu useilla konekivääritorneilla.
+**Ilma-alus, Pommikone:** Valtava, potkuri- tai turbiinikäyttöinen lentokone, jota käytetään pitkän kantaman pommituslennoilla ja joka on yleensä varustettu useilla konekivääritorneilla.
 
-**Ilma-alus, ilmalaiva:** Ilmapallo, jossa on rajoitettu rakenteellinen runko ja pieni hytti alla, yleensä täytetty ilmaa kevyemmällä kaasulla. Roottorikäyttöinen.
+**Ilma-alus, Ilmalaiva:** Ilmapallo, jossa on rajoitettu rakenteellinen runko ja alla roikkuva pieni hytti, joka on yleensä täytetty ilmaa kevyemmällä kaasulla. Roottorikäyttöinen.
 
-**Ilma-alus, helikopteri:** Pienehkö roottorikäyttöinen ilma-alus. Hytit vaihtelevat yksinkertaisista pleksilasikuplista panssaroituihin joukkojenkuljetustiloihin ja asekiinnikkeisiin.
+**Ilma-alus, Helikopteri:** Pienehkö roottorilapavoimainen ilma-alus. Hytit vaihtelevat yksinkertaisista pleksilasi-kuvuista panssaroituihin versioihin, joissa on joukko-osastoja ja asekiinnikkeitä.
 
-**Ilma-alus, suihkukone:** Pitkä kaupallinen matkustajasuihkukone, jossa on vähintään kaksi siipiin asennettua suihkuturbiinia.
+**Ilma-alus, Suihkukone:** Pitkä kaupallinen suihkumatkustajakone, jossa on vähintään kaksi siipiin asennettua suihkuturbiinia.
 
-**Ilma-alus, suihkuhävittäjä:** Suhteellisen pieni, erittäin ohjattava suihkukone, joka on suunniteltu ilmataisteluun ja pommitusiskuihin.
+**Ilma-alus, Suihkuhävittäjä:** Suhteellisen pieni, erittäin ketterä suihkukone, joka on suunniteltu ilmataisteluun ja pommituksiin.
 
-**Ilma-alus, potkurilentokone:** Pieni potkurikäyttöinen matkustajakone.
+**Ilma-alus, Potkurikone:** Pieni potkurikäyttöinen matkustajakone.
 
-**Ilma-alus, taivaskulkija (skyskimmer):** Korkean teknologian ultrakevyt ilma-alus, joka kykenee pystysuoraan lentoonlähtöön ja laskeutumiseen hyödyntäen edistynyttä moottoriteknologiaa.
+**Ilma-alus, Taivaanliitäjä (Skyskimmer):** Korkean teknologian ultrakevyt ilma-alus, joka kykenee pystysuoraan nousuun ja laskuun edistyneen suihkumoottoriteknologian avulla.
 
-**Auto, moderni sedan:** Tavallinen neliovinen moderni auto.
+**Auto, Moderni Sedan:** Keskimääräinen neliovinen moderni auto.
 
-**Auto, moderni urheiluauto:** Erittäin nopea, kaksiovinen, kaksipaikkainen suorituskykyinen auto.
+**Auto, Moderni urheiluauto:** Erittäin nopea, kaksiovinen, kaksipaikkainen, korkean suorituskyvyn auto.
 
-**Auto, vintage:** Vanha laatikkomainen auto, vastine Model-T:lle.
+**Auto, Vintage:** Vanha laatikkoinen auto, vastaa T-Fordia.
 
-**Vene, moottorivene:** Pienehkö moottorivene, jossa on yksi potkuri ja pieni keulahytti.
+**Vene, Moottorivene:** Pienehkö moottorivene, jossa on yksi potkuri ja pieni etuhytti.
 
-**Vene, pieni soutuvene:** Pieni kahden penkin soutuvene.
+**Vene, Pieni soutuvene:** Pieni kaksipenkkinen soutuvene.
 
-**Sotavaunu:** Pieni kahden hevosen sotavaunu, jossa on tilaa yhdelle ajajalle, yhdelle soturille ja pieni teline aseille tai henkilökohtaisille tavaroille.
+**Sotavaunut:** Pienet kaksivetoiset sotavaunut, joissa on tilaa yhdelle ajajalle, yhdelle soturille ja pieni teline aseille tai henkilökohtaisille tavaroille.
 
-**Neljän hevosen vaunut:** Avoin tai kangaskattoinen neljän hevosen vedettävä vaunu.
+**Hevosvaunut, Nelivetoiset:** Avoin tai kankaan peittämä nelivetoiset hevosvaunut.
 
-**Neljän hevosen vankkuri:** Puinen postivaunu, jossa on ahdas matkustajahytti ja tilaa tavaroille takana ja päällä.
+**Hevosvaunut, Nelivetoiset katetut:** Puinen postivaunu, jossa on ahdas matkustajahytti ja tilaa tavaroille takana ja katolla.
 
-**Hevonen:** Katso luku yksitoista (Olennot).
+**Hevonen:** Katso luku yksitoista: Otukset.
 
-**Ilmatyynyalus:** Kaupallinen ilmatyynyalus-lautta, joka soveltuu noin 20 matkustajalle suhteellisen tyynessä vedessä.
+**Ilmatyynyalus:** Kaupallinen ilmatyynyaluslautta, joka soveltuu noin 20 matkustajalle suhteellisen tyynellä vedellä.
 
-**Maakulkija:** Korkean teknologian turbiinikäyttöinen maataisteluajoneuvo, joka kulkee puristetun ilman päällä, kuten ilmatyynyalus.
+**Maaliitäjä:** Korkean teknologian turbiinikäyttöinen maata pitkin liikkuva ajoneuvo, joka liukuu ilmatyynyn päällä, kuten ilmatyynyalus.
 
 **Moottoripyörä:** Kaksipyöräinen moottoriajoneuvo, jossa on tilaa kuljettajalle ja yhdelle matkustajalle. Sivuvaunu valinnainen.
 
-**Laiva, lentotukialus:** Valtava alus (300+ metriä pitkä) tasaisella kannella, joka kykenee laukaisemaan hävittäjiä ja vastaanottamaan niitä.
+**Laiva, Lentotukialus:** Valtava alus (yli 300 metriä pitkä), jossa on tasakansi, jolta voi laukaista hävittäjiä ja jolle ne voivat laskeutua.
 
-**Laiva, muinainen soutulaiva:** Pitkäalus, jossa on yhdet airot, paapuuri- ja styyrpuuripuolella, yleensä orjien tai taistelevien miesten soutama.
+**Laiva, Muinainen soutulaiva:** Pitkäalus, jossa on yksittäiset airorivit paapuurin ja styyrpuurin puolella, yleensä kaleeriorjien tai taistelijoiden soutama.
 
-**Laiva, moderni taistelulaiva:** Massiivinen taistelulaiva (165+ metriä pitkä), raskaasti panssaroitu, varustettu laajalla valikoimalla pitkän kantaman tykistö- ja ohjusjärjestelmiä.
+**Laiva, Moderni taistelulaiva:** Valtava sotalaiva (yli 165 metriä pitkä), raskaasti panssaroitu ja varustettu laajalla valikoimalla pitkän kantaman tykistö- ja ohjusjärjestelmiä.
 
-**Laiva, moderni risteilijä:** Massiivinen matkustajalaiva (300+ metriä pitkä), joka toimii lähes liikkuvana hotellina, sisältäen kauppoja, viihdetiloja ja lukemattomia mukavuuksia.
+**Laiva, Moderni risteilyalus:** Valtava matkustajalaiva (yli 300 metriä pitkä), joka toimii lähes liikkuvana hotellina, sisältäen kauppoja, viihdepalveluita ja lukemattomia mukavuuksia.
 
-**Laiva, vintage-purjelaiva:** Kaljuuna, noin 35 metriä pitkä, kahdella tai useammalla mastolla.
+**Laiva, Vintage-purjelaiva:** Kaljuuna, noin 35 metriä pitkä, jossa on kaksi tai useampi masto.
 
-**Avaruusalus, rahtialus:** Avaruuskaupan peruspilari, rahtialus pienellä miehistöllä. Kevyesti panssaroitu ja aseistettu. Voi sisältää energiasuojausta.
+**Avaruusalus, Rahtialus:** Avaruuskaupan peruspilari, tämä on rahtialus, jossa on pieni miehistö. Kevyesti panssaroitu ja aseistettu. Voi sisältää energiasuojat.
 
-**Avaruusalus, raketti:** Monivaiheinen polttoaineraketti, jossa on pieni matkustajahytti/laskeutumismoduuli.
+**Avaruusalus, Raketti:** Monivaiheinen polttoaineraketti, jossa on pieni matkustajahytti/laskeutumismoduuli.
 
-**Avaruusalus, tähtihävittäjä:** Suhteellisen pieni, erittäin ohjattava avaruusalus, vastine suihkuhävittäjälle. Raskaasti aseistettu, vaikkakin kevyesti panssaroitu. Voi sisältää energiasuojausta.
+**Avaruusalus, Tähtihävittäjä:** Suhteellisen pieni, erittäin ketterä avaruusalus, joka vastaa suihkuhävittäjää. Raskaasti aseistettu, mutta kevyesti panssaroitu. Voi sisältää energiasuojat.
 
-**Avaruusalus, kuljetusalus:** Keskikokoinen avaruusalus, jota käytetään ensisijaisesti matkustaja- tai rahtikuljetuksiin, kevyesti panssaroitu ja aseistettu. Voi sisältää energiasuojausta.
+**Avaruusalus, Kuljetusalus:** Keskikokoinen avaruusalus, jota käytetään ensisijaisesti matkustajien tai rahdin kuljettamiseen, kevyesti panssaroitu ja aseistettu. Voi sisältää energiasuojat.
 
-**Sukellusvene:** Vedenalainen alus, jota armeija käyttää hiiviskelyyn, vihollisen vesille tunkeutumiseen ja meritaisteluun.
+**Sukellusvene:** Sukellusalus, jota armeija käyttää salailuun, vihollisen vesille tunkeutumiseen ja meritaisteluun.
 
-**Tankki, moderni:** Raskaasti panssaroitu telaketjuajoneuvo, joka on varustettu suurella keskitetyllä tykillä sekä muulla aseistuksella.
+**Panssarivaunu, Moderni:** Raskaasti panssaroitu telaketjuilla varustettu taisteluajoneuvo, joka on varustettu suurikaliiperisella keskitykillä sekä muilla aseilla.
 
-**Tankki, vintage:** Raskaasti panssaroitu telaketjuajoneuvo, yleensä varustettu suurella keskitetyllä tykillä.
+**Panssarivaunu, Vintage:** Raskaasti panssaroitu telaketjuilla varustettu taisteluajoneuvo, joka on yleensä varustettu suurikaliiperisella keskitykillä.
 
-**Juna, suurnopeusjuna:** Nopea, virtaviivainen matkustajajuna, joka on rakennettu erikoisradalle, yleensä sähkökäyttöinen.
+**Juna, Luotijuna:** Suurnopeusjuna, virtaviivainen matkustajajuna, joka kulkee erikoisraiteilla ja on yleensä sähkökäyttöinen.
 
-**Juna, maglev:** Magneettiradalla leijuva juna.
+**Juna, Maglev-juna:** Magneettiraiteella leijuva juna.
 
-**Juna, höyryjuna:** 1800-luvun lopun höyrykäyttöinen veturi. KOK-arvo on vaunua kohden.
+**Juna, Höyryjuna:** 1800-luvun lopulta peräisin oleva höyrykäyttöinen veturi. KOK-arvo on vaunua kohden.
 
-**Avolava-auto:** Nelivetoinen avolava-auto.
+**Pakettiauto, Lava-auto:** Nelivetoinen lava-auto.
 
-**Rekka (18-pyöräinen):** Suuri kaupallinen rekka, jossa on pieni hytti ja pitkä rahtiosasto.
+**Rekka, Puoliperävaunu (18-pyöräinen):** Suuri kaupallinen rekka, jossa on pieni ohjaamo ja pitkä rahtitila.
 
-##### Hevos- ja hevosvetoiset ajoneuvot
+##### Hevoset ja hevosajoneuvot
 
-| Tyyppi | Taito | Nopeus | Käsittely | KIH | LII | Haarniska | KOK | OP | Miehistö | Matkustajat | Rahti | Arvo | Huomautukset |
+| Tyyppi | Taito | Nopeus | Käsittely | ACC | MOV | Panssari | KOK | KP | Miehistö | Matkustajat | Lasti | Arvo | Huomautukset |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Hevonen | Ratsastus | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Keskiverto | Katso Olennot |
-| Sotavaunu | Ajo | 2 | –5 % | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Keskiverto | Kahden hevosen malli |
-| Neljän hevosen vaunut | Ajo | 2 | –5 % | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Keskiverto | — |
-| Neljän hevosen vankkuri | Ajo | 2 | –10 % | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Keskiverto | — |
+| Hevonen | Ratsastus | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Keskimääräinen | Katso Otukset |
+| Sotavaunut | Ajo | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Keskimääräinen | Kaksivetoinen malli |
+| Hevosvaunut | Ajo | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Keskimääräinen | — |
+| Nelivetoiset katetut | Ajo | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Keskimääräinen | — |
 
-##### Autot, rekat, junat ja tankit
+##### Autot, rekat, junat ja panssarivaunut
 
-| Tyyppi | Taito | Nopeus | Käsittely | KIH | LII | Haarniska | KOK | OP | Miehistö | Matkustajat | Rahti | Arvo | Huomautukset |
+| Tyyppi | Taito | Nopeus | Käsittely | ACC | MOV | Panssari | KOK | KP | Miehistö | Matkustajat | Lasti | Arvo | Huomautukset |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Vintage | Ajo | 6 | –5 % | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Keskiverto | — |
-| Moderni sedan | Ajo | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Keskiverto | — |
-| Moderni urheiluauto | Ajo | 15 | +5 % | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Kallis | — |
-| Avolava-auto | Ajo | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Keskiverto | — |
-| 18-pyöräinen rekka | Ajo | 10 | –10 % | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Kallis | — |
-| Moottoripyörä | Ajo | 13 | +5 % | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Keskiverto | — |
-| Maakulkija | Ajo | 20 | +5 % | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Kallis | — |
-| Tankki, vintage | Ajo | 4 | –10 % | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | Rajoitettu | — |
-| Tankki, moderni | Ajo | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | Rajoitettu | — |
-| Juna, höyryveturi | Ajo | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Kallis | KOK per vaunu. Ajoheitot Helppoja. |
-| Juna, suurnopeusjuna | Ajo | 19 | +5 % | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Korvaamaton | KOK per vaunu. Ajoheitot Helppoja. |
-| Juna, maglev | Ajo | 22 | +10 % | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Korvaamaton | KOK per vaunu. Ajoheitot Helppoja. |
+| Vintage | Ajo | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Keskimääräinen | — |
+| Moderni Sedan | Ajo | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Keskimääräinen | — |
+| Moderni urheiluauto | Ajo | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | Kallis | — |
+| Lava-auto | Ajo | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Keskimääräinen | — |
+| 18-pyöräinen | Ajo | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | Kallis | — |
+| Moottoripyörä | Ajo | 13 | +5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Keskimääräinen | — |
+| Maaliitäjä | Ajo | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | Kallis | — |
+| Panssarivaunu, Vintage | Ajo | 4 | –10% | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | Rajoitettu | — |
+| Panssarivaunu, Moderni | Ajo | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | Rajoitettu | — |
+| Juna, Höyryjuna | Ajo | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | Kallis | KOK per vaunu. Ajoheitot Helppoja. |
+| Juna, Luotijuna | Ajo | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | Korvaamaton | KOK per vaunu. Ajoheitot Helppoja. |
+| Juna, Mag-Lev | Ajo | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | Korvaamaton | KOK per vaunu. Ajoheitot Helppoja. |
 
 ##### Veneet ja laivat
 
-| Tyyppi | Taito | Nopeus | Käsittely | KIH | LII | Haarniska | KOK | OP | Miehistö | Matkustajat | Rahti | Arvo | Huomautukset |
+| Tyyppi | Taito | Nopeus | Käsittely | ACC | MOV | Panssari | KOK | KP | Miehistö | Matkustajat | Lasti | Arvo | Huomautukset |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Soutuvene | Ohjaus | 2 | –5 % | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskiverto | — |
+| Pieni soutuvene | Ohjaus | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskimääräinen | — |
 | Muinainen soutulaiva | Ohjaus | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | Kallis | — |
-| Vintage-purjelaiva | Ohjaus | 3 | –5 % | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Kallis | — |
-| Ilmatyynyalus | Ohjaus | 4 | –5 % | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | Kallis | — |
-| Moottorivene | Ohjaus | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Keskiverto | — |
-| Moderni risteilijä | Ohjaus | 6 | –10 % | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2,000+ | 120 | Korvaamaton | — |
-| Moderni taistelulaiva | Ohjaus | 10 | –10 % | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1,200+ | 200 | Rajoitettu | — |
-| Lentotukialus | Ohjaus | 8 | –25 % | ±2 | 83 | 24/— | 640 | 600 | 1,000+ | 2,200+ | 320 | Rajoitettu | — |
+| Vintage-purjelaiva | Ohjaus | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | Kallis | — |
+| Ilmatyynyalus | Ohjaus | 4 | –5% | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | Kallis | — |
+| Moottorivene | Ohjaus | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Keskimääräinen | — |
+| Moderni risteilyalus | Ohjaus | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2 000+ | 120 | Korvaamaton | — |
+| Moderni taistelulaiva | Ohjaus | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1 200+ | 200 | Rajoitettu | — |
+| Lentotukialus | Ohjaus | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1 000+ | 2 200+ | 320 | Rajoitettu | — |
 | Sukellusvene | Ohjaus | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | Rajoitettu | — |
 
 ##### Ilma-alukset
 
-| Tyyppi | Taito | Nopeus | Käsittely | KIH | LII | Haarniska | KOK | OP | Miehistö | Matkustajat | Rahti | Arvo | Huomautukset |
+| Tyyppi | Taito | Nopeus | Käsittely | ACC | MOV | Panssari | KOK | KP | Miehistö | Matkustajat | Lasti | Arvo | Huomautukset |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Soutuvene | Ohjaus | 2 | –5 % | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskiverto | — |
-| Ilmalaiva | Ohjaus | 12 | — | ±2 | 134 | –/12 | 100 | 100 | 40+ | 72+ | 36 | Korvaamaton | Pallo on suojaamaton; hytti on. |
-| Potkurilentokone | Ohjaus | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Kallis | — |
-| Pommikone | Ohjaus | 17 | –10 % | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Rajoitettu | — |
+| Pieni soutuvene | Ohjaus | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Keskimääräinen | — |
+| Ilmalaiva | Ohjaus | 12 | — | ±2 | 134 | —/12 | 100 | 100 | 40+ | 72+ | 36 | Korvaamaton | Pallo on panssaroimaton; hytti on. |
+| Potkurikone | Ohjaus | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | Kallis | — |
+| Pommikone | Ohjaus | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | Rajoitettu | — |
 | Suihkukone | Ohjaus | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | Korvaamaton | — |
-| Suihkuhävittäjä | Ohjaus | 33 | +10 % | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Rajoitettu | — |
+| Suihkuhävittäjä | Ohjaus | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | Rajoitettu | — |
 | Helikopteri | Ohjaus | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | Korvaamaton | — |
-| Skyskimmer | Ohjaus | 23 | +5 % | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Kallis | — |
+| Taivaanliitäjä | Ohjaus | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | Kallis | — |
 
 ##### Avaruusalukset
 
-| Tyyppi | Taito | Nopeus | Käsittely | KIH | LII | Haarniska | KOK | OP | Miehistö | Matkustajat | Rahti | Arvo | Huomautukset |
+| Tyyppi | Taito | Nopeus | Käsittely | ACC | MOV | Panssari | KOK | KP | Miehistö | Matkustajat | Lasti | Arvo | Huomautukset |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Raketti | Ohjaus | 70 | –10 % | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Korvaamaton | — |
-| Kuljetusalus | Ohjaus | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Korvaamaton | Nopeus on alivalonnopeutta; FTL-ajo. |
-| Tähtihävittäjä | Ohjaus | 100 | +10 % | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Rajoitettu | Nopeus on alivalonnopeutta; FTL-ajo. |
-| Rahtialus | Ohjaus | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Kallis | Nopeus on alivalonnopeutta; FTL-ajo. |
+| Raketti | Ohjaus | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | Korvaamaton | — |
+| Kuljetusalus | Ohjaus | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | Korvaamaton | Nopeus valoa hitaampi; FTL-ajo. |
+| Tähtihävittäjä | Ohjaus | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | Rajoitettu | Nopeus valoa hitaampi; FTL-ajo. |
+| Rahtialus | Ohjaus | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | Kallis | Nopeus valoa hitaampi; FTL-ajo. |
 
 ## Muut varusteet
 
-Tämä osio kattaa valikoiman muita varusteita, joita hahmosi saattaa käyttää ja jotka eivät kuulu aiempiin luokkiin. Tämä lista on keskeneräinen, mutta sen pitäisi tarjota riittävä ohjeistus sinulle tai pelinjohtajallesi useimpien muiden varustetyyppien relevanttien attribuuttien määrittämiseksi.
+Tämä osio kattaa valikoiman muita varusteita, joita hahmosi voi käyttää ja jotka eivät kuulu edellisiin kategorioihin. Tämä lista on epätäydellinen, mutta sen pitäisi tarjota riittävästi ohjeistusta sinulle tai pelinjohtajallesi useimpien muiden varustetyyppien vastaavien ominaisuuksien määrittämiseksi.
 
 ### Myrkyt
 
-Myrkkyjen käsittelyä koskevat säännöt käsitellään kohdassa **Myrkyt**, ja **Myrkkytaulukko** tarjoaa valikoiman myrkkyjä.
+Myrkkyjen käsittelyä koskevat säännöt käsitellään kohdassa **Myrkyt**, ja **Esimerkkimyrkkyjen taulukko** tarjoaa valikoiman näytteitä myrkyistä.
 
-> ##### Myrkkytaulukko
+> ##### Esimerkkimyrkkyjen taulukko
 > 
 > | Myrkky | Vaikutusaika | POT | Oireet |
 > | :---- | :---- | :---- | :---- |
-> | Arseeni | ½–24 tuntia | 16 | Polttava kipu, oksentelu, raju ripuli |
-> | Belladonna | 2 tuntia–2 päivää | 16 | Nopea syke, näköhäiriöt, kouristukset. |
+> | Arsenikki | ½ – 24 tuntia | 16 | Polttava kipu, oksentelu, voimakas ripuli |
+> | Belladonna | 2 tuntia – 2 päivää | 16 | Nopea sydämen syke, heikentynyt näkö, kouristukset. |
 > | Mustalesken myrkky | 2–8 päivää | 7 | Vilunväristykset, hikoilu, pahoinvointi. |
-> | Kobran myrkky | 15–60 minuuttia | 16 | Kouristukset, hengityksen pettäminen. |
-> | Curare | 1 taistelukierros | 25 | Lihashalvaus, hengityksen pettäminen. |
+> | Kobran myrkky | 15–60 minuuttia | 16 | Kouristukset, hengitysvajaus. |
+> | Kurare | 1 taistelukierros | 25 | Lihashalvaus, hengitysvajaus. |
 > | Syanidi | 1–15 minuuttia | 20 | Huimaus, kouristukset, pyörtyminen. |
-> | Kalkkarokäärmeen myrkky | 15–60 minuuttia | 10 | Oksentelu, rajuja kouristuksia, kellertävä näkö. |
-> | Skorpionin myrkky | 24–48 tuntia | 9 | Kova kipu, heikkous, verenvuoto. |
-> | Unilääkkeet | 10–30 minuuttia | 6 | Normaali uni; jokainen ylimääräinen annos lisää hengityksen pettämisen mahdollisuutta +5 %. |
-> | Strykniini | 10–20 minuuttia | 20 | Raju lihaskontraktio, tukehtuminen. |
+> | Kalkkarokäärmeen myrkky | 15–60 minuuttia | 10 | Oksentelu, väkivaltaiset kouristukset, kellertävä näkö. |
+> | Skorpionin myrkky | 24–48 tuntia | 9 | Voimakas kipu, heikkous, verenvuoto. |
+> | Unilääkkeet | 10–30 minuuttia | 6 | Normaali uni; jokainen lisäannos kasvattaa hengitysvajauksen mahdollisuutta +5%. |
+> | Strykniini | 10–20 minuuttia | 20 | Väkivaltaiset lihassupistukset, tukehtuminen. |
 
-### Kirjat ja painettu materiaali
+### Kirjat ja painetut materiaalit
 
-Tämä luokka kattaa suuren valikoiman lukumateriaalia, aina sanomalehdistä, sarjakuvista, kääröistä, pokkareista, taikakirjoista tai kirjoista. Selkeyden vuoksi niihin viitataan kirjoina. Kirjoja voi olla viihdettä tai tiedonhakua varten. Vain jälkimmäinen tyyppi käsitellään tässä. Kirjoilla voi olla lähes mikä tahansa arvo, halvasta korvaamattomaan, riippuen aiheesta, julkaisupäivästä, kirjailijasta, harvinaisuudesta tai muista olosuhteista.
+Tämä kategoria kattaa laajan valikoiman lukemateriaaleja, kuten sanomalehtiä, sarjakuvia, kääröjä, pokkareita, loitsukirjoja tai tavallisia kirjoja. Mukavuussyistä niihin viitataan nimellä kirjat. Kirjoja voi olla viihteen tai tiedon hankinnan vuoksi. Vain jälkimmäistä tyyppiä käsitellään tässä. Kirjojen arvo voi olla mitä tahansa, halvasta korvaamattomaan, riippuen aihepiiristä, julkaisupäivästä, kirjoittajasta, harvinaisuudesta tai muista olosuhteista.
 
-Kun kirjaa etsitään tai se kohdataan, pelinjohtajan tulisi määrittää seuraavat:
+Kun kirjaa etsitään tai se kohdataan, pelinjohtajan tulee määrittää seuraavat asiat:
 
-* **Kieli:** Jos kirja on kirjoitettu muulla kielellä kuin hahmosi äidinkielellä, se on käännettävä tai tehtävä asianmukaiset Kielitaitoheitot (tai Lukutaito, jos sitä taitoa käytetään).
-* **Taito:** Voiko hahmosi oppia parantamaan taitoa tämän kirjan avulla? Yleensä kirja sisältää yhden taidon, vaikka harvinaiset ja arvostetut teokset voivat sisältää enemmän kuin yhden aiheen.
-* **Palkinto:** Mikä bonus taitoon voidaan saada kirjaa lukemalla? Tämä on yleensä määrä 1 %:sta jostakin lyhyestä tai pääasiassa ei-välttämättömillä materiaaleilla täytetystä, jopa 20 %:iin kattavasta teoksesta, joka toimii aiheen lopullisena auktoriteettina. Yleensä määrä väliltä +1 % ja +10 % on sopiva. Jos kirjasta voidaan oppia useampi kuin yksi taito, pelinjohtajan tulisi määrittää kaksi arvosanaa, vaikka ne olisivat identtiset.
-* **Lukuaika:** Kuinka kauan kirjan lukeminen vie? Tämä edustaa tekstin perusteellista tutkimista ja yritystä ymmärtää se asiayhteydessään. Tämä voi sisältää lisälukemista, tutkimusta tai analyysia ymmärryksen lisäämiseksi ja materiaalin hallitsemiseksi.
-* **Kyvyt:** Jotkut harvinaiset kirjat sisältävät magiaa tai velhousloitsuja, kutsuja demoneille tai muille yliluonnollisille olennoille, tai muun keinon oppia kyky. Pelinjohtajan tulisi määrittää, onko kirjassa mitään näitä, mitä ne ovat ja kuinka paljon voidaan oppia (kuten tason tai prosenttirajan, jos aiheellista). Joissakin teoksissa kyvyn todellinen nimi voi olla hämärä tai tarkoituksellisesti epämääräinen sisällön suojelemiseksi aloittelijalta. Viittaa magia- ja velhouskykyjen ohjeisiin loitsujen oppimiseksi. Kirjassa ei ehkä ole loitsuja, mutta se sisältää demonin, elementaalin tai jopa jumalan toisen nimen.
+* **Kieli:** Jos kirja on kirjoitettu kielellä, joka ei ole hahmosi äidinkieli, hänen on käännätettävä kirja tai tehtävä Kieli-heittoja tarvittaessa (tai Lukutaito-heittoja, jos kyseistä taitoa käytetään).
 
-### Kirjatyypit
+* **Taito:** Voiko hahmosi oppia parantamaan taitoa tämän kirjan avulla? Yleensä kirja sisältää yhden taidon, vaikka harvinaiset ja arvostetut teokset voivat sisältää useamman kuin yhden aiheen.
 
-Seuraavassa on valikoima kirjojen tyyppejä ja miten niitä voidaan käyttää pelissä:
+* **Palkinto:** Mikä taitobonus kirjasta lukemalla on saatavissa? Tämä on yleensä 1 %:n määrä lyhyestä tai pääasiassa epäolennaisella materiaalilla täytetystä teoksesta, aina 20 %:iin asti kattavasta teoksesta, joka toimii aiheen lopullisena auktoriteettina. Yleensä +1 % – +10 % on sopiva määrä. Jos kirjasta voidaan oppia useampi kuin yksi taito, pelinjohtajan tulisi määrittää kaksi arvoa, vaikka ne olisivat identtiset.
 
-* **Ohjekirjat:** Kirja, joka on tarkoitettu opettamaan tiettyä aihetta tai taitoa, järjestetty ja kirjoitettu tähän tavoitteeseen. Oletetaan, että kun hahmosi kouluttautuu itse, käytössä on ohjekirjoja. Ohjekirjat, kun ne luetaan onnistuneesti, tarjoavat kokemustarkistuksen (katso **Taitojen kasvu tutkimalla**), vaikka pelinjohtaja voi myöntää oletustaitojen kasvun.
-* **Tietokirjat:** Tietokirja sisältää erikoistunutta tietoa ei-tieteellisestä laadusta, oli se sitten okkultismia tai kansanperinnettä tai jotain muuta "pehmeää" alaa. Nämä vaihtelevat rakenteeltaan valtavasti, mutta antavat usein kuvan tietystä tiedonalasta kirjailijan näkökulmasta, olipa se tieteellinen yleiskatsaus tai mielipuolen yksityispäiväkirja. Tietokirjan lukeminen yleensä sallii lukijan kasvattaa taitoa/taitoja, joiden ympärille kirja keskittyy. Nämä ovat samankaltaisia kuin ohjekirjat, vaikka tietokirjan onnistunut lukeminen myöntää automaattisen taitotason nousun. Pelinjohtaja voi päättää, että pahaenteistä tai kauhistuttavaa tietoa sisältävät kirjat aiheuttavat automaattisen mielenterveyspisteiden menetyksen ilman mielenterveysheittoa menetyksen estämiseksi. Kirjoista, jotka kasvattavat Tieto-taitoa ja maksavat mielenterveyspisteitä, pelinjohtajan tulisi asettaa maksimi-Mieli-raja, joka perustuu yhteensä 99 miinus kyseisen taidon taitotaso, kuten on kuvattu **Rienaava tieto** -taidon kuvauksessa ja Maksimimielenterveydessä.
-* **Viitekirjat:** Viitekirja voi olla sanakirja, tietosanakirja tai muu viite paperisessa, elektronisessa tai muussa muodossa. Ensisijainen ero viitekirjan ja muun kirjatyypin välillä on se, ettei informaatiota yritetä kontekstualisoida—sen sijaan se esitetään ei-hierarkkisessa muodossa, jossa kaikki tieto on samalla tasolla. Viitekirjasta on haastavaa oppia ilman viitekehystä tai asiayhteyttä aiheelle, mutta viiteteoksen lukeminen on erinomainen tapa laajentaa muuta Tieto-taitoa. Jos viitekirjaa käytetään tutkimukseen taitojen parantamiseksi, vaaditaan onnistunut heitto kirjan lukemiseen, sitten itse opiskeltava taito. Taitojen tutkimiseen viiteteoksen kautta kuluva aika on kaksinkertainen verrattuna ohjekirjaan. Onnistuneet taitotaitot, jotka tehdään tutkimus- tai taitojen kasvun laajentamiseksi, eivät ansaitse ylimääräistä kokemustarkistusta.
-* **Taikakirjat:** Tunnetaan myös nimellä grimoiret, nämä ovat kirjoja, kääröjä, tauluja, nahkoja, kirjoitettuja kiviä, solmittuja köysiä tai muita keinoja, joita velho tai sorcerer käyttää oppiakseen loitsuja tai tallentaakseen loitsuja, jotka he jo osaavat, tai sisältäen salaista tietoa maagisista olennoista tai demoneista. Nämä taikakirjat on kuvattu magia- ja velhouskykyjen luvussa neljä (Kyvyt).
+* **Lukuaika:** Kuinka kauan kirjan lukeminen kestää? Tämä edustaa kirjan tekstin perusteellista tarkastelua ja pyrkimystä ymmärtää se asiayhteydessään. Tämä saattaa vaatia lisälukemista, tutkimusta tai analyysia ymmärryksen lisäämiseksi ja materiaalin hallitsemiseksi.
+
+* **Voimat:** Jotkin harvinaiset kirjat sisältävät taikuutta tai noituuden loitsuja, kutsuja demoneille tai muille yliluonnollisille olennoille tai muita tapoja oppia jokin voima. Pelinjohtajan tulee päättää, onko kirjassa näitä, mitä ne ovat ja kuinka paljon niitä voi oppia (kuten tason tai prosenttirajan, jos se on sopivaa). Joissakin teoksissa voiman varsinainen nimi voi olla hämärä tai tarkoituksellisen epämääräinen, jotta sisältö suojeltaisiin alokkailta. Katso ohjeita loitsujen oppimiseen taikuus- ja noituusvoimien kuvauksista. Kirjassa ei ehkä ole loitsuja, mutta se voi sisältää demonin, elementaalin tai jopa jumalan todellisen nimen.### Kirjatyypit
+
+Seuraavassa on erilaisia kirjallisuuden tyyppejä ja tapoja, joilla niitä voidaan käyttää pelin aikana:
+
+* **Oppikirjat:** Kirja, jonka tarkoitus on opettaa tiettyä aihetta tai taitoa, ja joka on järjestetty ja kirjoitettu tätä tavoitetta silmällä pitäen. Oletuksena on, että kun hahmosi harjoittelee itse, käytetään oppikirjoja viitteinä. Kun oppikirja luetaan onnistuneesti, se tarjoaa kokemustarkistuksen (katso **Taitojen kehittämisen tutkiminen**), vaikka pelinjohtajasi saattaa myös myöntää oletusarvoisen taitokorotuksen.
+
+* **Tietokirjat:** Tietokirja sisältää erikoistunutta tietoa, joka ei ole tieteellistä, olipa se okkultismia, kansanperinnettä tai jotakin muuta ”pehmeää” alaa. Nämä vaihtelevat suuresti rakenteeltaan, mutta antavat usein tietyn näkökulman kirjoittajan perspektiivistä, oli se sitten akateeminen katsaus tai mielipuolen yksityinen päiväkirja. Tietokirjan lukeminen antaa lukijalle yleensä mahdollisuuden korottaa taitoa/taitoja, joihin kirja keskittyy. Nämä ovat samankaltaisia kuin oppikirjat, vaikka tietokirjan onnistunut lukeminen myöntää automaattisen taitoluokituksen korotuksen. Pelinjohtajasi voi päättää, että pirullista tai kauhistuttavaa tietoa sisältävät kirjat aiheuttavat automaattisen järkipisteiden menetyksen ilman, että järkitarkistusta tarvitsee suorittaa menetyksen estämiseksi. Niiden kirjojen kohdalla, jotka korottavat Tietotaitoa ja maksavat järkipisteitä, pelinjohtajasi tulisi asettaa maksimi-SAN-raja, joka perustuu lukuun 99 vähennettynä kyseisen taidon taitoluokituksella, kuten on kuvattu Jumalattoman tiedon taitokuvauksessa ja kohdassa Maksimijärki.
+
+* **Hakuteokset:** Hakuteos voi olla sanakirja, tietosanakirja tai muu viitemateriaali paperisessa, elektronisessa tai muussa muodossa. Ensisijainen ero hakuteoksen ja muiden kirjojen välillä on se, ettei tietoa yritetä kontekstualisoida – sen sijaan se esitetään hierarkiattomassa muodossa, jossa kaikki tieto on samalla tasolla. Hakuteoksesta on haastavaa oppia ilman viitekehystä tai asiayhteyttä aiheeseen, mutta hakuteoksen lukeminen on erinomainen keino täydentää toista Tietotaitoa. Jos hakuteosta käytetään taidon tutkimiseen taitojen kehittämiseksi, lukemiseen vaaditaan onnistunut heitto, ja sen jälkeen varsinaisen tutkittavan taidon heitto. Hakuteoksen kautta tehtävään tutkimiseen kuluva aika on kaksinkertainen oppikirjaan verrattuna. Onnistuneet taitotarkistukset, jotka on tehty taidon tutkimiseksi tai taitokorotuksen täydentämiseksi, eivät tuota ylimääräistä kokemustarkistusta.
+
+* **Loitsukirjat:** Näitä kutsutaan myös grimoireiksi. Ne ovat kirjoja, kääröjä, tauluja, nahkoja, kirjoitettuja kiviä, solmittuja köysiä tai muita keinoja, joilla välitetään magian tai noituuden opetteluun tarvittavaa tietoa, tallennetaan jo opittuja loitsuja tai säilytetään salaista tietoa maagisista olennoista tai demoneista. Nämä loitsukirjat on kuvattu magian ja noituuden voimien kohdalla luvussa neljä: Voimat.
 
 ### Kirjan käyttäminen
 
-Kirjan käyttämiseksi hahmosi on kyettävä lukemaan se tai ymmärtämään sitä, jos se ei ole kirjoitettu muistiin. Tämä voi vaatia valinnaista Lukutaito-taitoa, jos käytössä, tai onnistunutta Kielitaitoheittoa kielellä, jolla kirja on kirjoitettu. Vaihtoehtoisesti käännöksen voi hankkia, vaikka se on kallista, jos se on tehtävä tilauksesta. Pelinjohtajan tulisi päättää, kuinka paljon tämä maksaisi, käyttäen taitojen kouluttajien ohjeita, jotka on annettu kohdassa Taitokoulutus. Kun kirjan opiskelu on valmis, hahmosi ansaitsee relevantit taitopisteet, jos niitä on.
+Käyttääkseen kirjaa hahmosi on kyettävä lukemaan sitä tai ymmärtämään sitä, jos sitä ei ole kirjoitettu ylös. Tämä voi vaatia valinnaista Lukutaito-taitoa, jos se on käytössä, tai onnistunutta Kielitaito-heittoa kirjan kielellä. Vaihtoehtoisesti käännöksen voi usein hankkia, vaikka se on kallista, jos se on teetettävä tilauksesta. Pelinjohtajasi tulisi määrittää tämän hinta käyttämällä opettajille annettuja ohjeita kohdassa Taitokoulutus. Kun kirjan tutkiminen on valmis, hahmosi ansaitsee tarvittavat taitopisteet, jos niitä on.
 
 ### Kirjat esineinä
 
-Kirjojen fyysiset ominaisuudet ovat yleensä vähemmän vaikuttavia kuin niiden sisältö. Useimmat kirjat ovat KOK 0, 1 tai 2, ja kirjan osumapisteet vastaavat sen KOK:ta. Siitä riippuen, mistä se on tehty, kirjalla on yleensä 0 (pokkari) – 4 haarniska-arvopistettä (raskas nahkaselkämys ja kannet). Erityisen vanha kirja voi olla jopa rautaan sidottu (6+ haarniska-arvoa). Ellei kirjassa ole lisäsuojaa tai se ole tukevasti rakennettu, se voidaan tuhota tai pienentää silpuksi tulella yhtä monessa taistelukierroksessa kuin sillä on osumapisteitä. Jos kyseessä on käärö, elektroninen lukulaite, holografinen oppimisnäyttö tai tietokone, pelinjohtajan tulisi määrittää sen KOK ja osumapisteet tämän luvun esimerkkien perusteella.
+Kirjojen fyysiset ominaisuudet ovat yleensä vähemmän vaikuttavia kuin niiden sisältö. Useimmat kirjat ovat KOK 0, 1 tai 2, ja kirjan osumapisteet vastaavat sen KOK-arvoa. Valmistusmateriaalista riippuen kirjalla on yleensä 0 panssaripistettä (pehmeäkantinen) aina 4 panssaripisteeseen asti (paksu nahkaselkämys ja kannet). Erityisen vanha kirja voi olla jopa rautaan sidottu (panssariarvo 6+). Ellei kirjassa ole jotakin lisäsuojaa tai se ole rakenteeltaan tukeva, se voidaan silputa tai tuhota tulella yhtä monessa taistelukierroksessa kuin sillä on osumapisteitä. Jos kyseessä on käärö, elektroninen lukulaite, holografinen oppimisnäyttö tai tietokone, pelinjohtajasi tulisi määrittää sen KOK ja osumapisteet tämän luvun esimerkkien perusteella.
 
-### Lääketieteelliset varusteet
+### Lääkintävälineet
 
-Fyysinen vahinko on jatkuva uhka hahmollesi, ja monia varusteita on olemassa vammojen ja sairauksien hoitamiseksi. Seuraavat lääketieteelliset varusteet on listattu suhteellisen monimutkaisuuden mukaisessa järjestyksessä, alkukantaisimmasta futuristisiin. Jokainen tällainen kokoelma varusteita on määritelty **setiksi**, tiettyyn tarkoitukseen käytetyksi varusteiden ja materiaalien valikoim
+Fyysinen vahinko on hahmollesi jatkuva uhka, ja olemassa on monia varusteita, jotka auttavat vammojen ja sairauksien hoidossa. Seuraavat lääkintävälineet on listattu niiden suhteellisen monimutkaisuuden mukaisessa järjestyksessä, alkeellisimmasta futuristisiin. Kukin tällainen välinekokoelma määritellään **pakkaukseksi**, joka on tiettyyn tarkoitukseen käytettävien varusteiden ja materiaalien valikoima. Pelinjohtajasi voi päättää, onko tietty pakkaus laadultaan ala-arvoinen, keskitasoa vai erinomainen, ja soveltaa vastaavia muuntimia taitojen käyttöön.
+
+* **Yrtti- tai kätilöpakkaus:** Shamaanien, lääkintämiesten, kätilöiden ja iilimatojen käyttämä pakkaus, joka sisältää kankaita siteiksi, kääreitä, lankaa ja terävän neulan (luuta tai metallia) sekä muita sekalaisia tarvikkeita, mukaan lukien eritasoisia yrttilääkkeitä. Tällainen pakkaus on useimmissa ympäristöissä halpa, ja omistaja kerää sen usein itse Käyttäen Tieto (Yrttilääkintä) -taitoa.
+
+* **Ensiapupakkaus:** Tavallinen ensiapupakkaus sisältää ympäristöön sopivia vastaavia välineitä: puhtaita (tai steriilejä) siteitä, kumihanskat, pieniä voiteita, pillereitä lieviin sairauksiin tai infektioihin, silmähuuhdetta, myrkkyjen tai puremien hoitoon tarkoitettuja aineita sekä pieniä työkaluja, kuten pinsetit, sakset tai jopa pienen skalpellin. Suuremmissa pakkauksissa on laajempi valikoima edellä mainittuja, monipuolisempia lääkkeitä, ja ne saattavat sisältää pienen ensiapuoppaan. Ensiapupakkausta käytetään Ensiapu-taidolla, ja se on yleensä halpa.
+
+* **Lääkärin laukku:** Perinteinen lääkärin laukku sisältää ympäristöön sopivan valikoiman pillereitä ja antibiootteja, stetoskoopin, valon, reseptivihkon sekä erilaisia lääkinnällisiä välineitä ja työkaluja paikan päällä tehtävää diagnosointia ja hätälääkinnällistä hoitoa varten. Lääkärin laukkua käytetään Ensiapu-taidolla, mutta sitä voidaan käyttää Lääketiede-taitotarkistuksiin toimenpiteestä riippuen. Lääkärin laukku on kallis.
+
+* **Kirurgiapakkaus:** Sarja kirurgisia työkaluja pakattuna ja steriloituna, valmiina käyttöön. Se sisältää useita kumihanskoja, sidoksia, antiseptisiä aineita, tikkejä jne., ja on välttämätön kaikessa vaativassa kirurgiassa tai Lääketiede-taidon käytössä, joka vaatii leikkausta. Jokaisessa sairaalassa tulisi olla moninkertaisesti kaikkea sitä, mitä kirurgiapakkaus sisältää. Kirurgiapakkaus on kallis.
+
+* **Traumapakkaus:** Erikoistunut lääkintätarvikkeiden kokoelma välittömään traumahoitoon. Usein taistelukenttäkäyttöön tarkoitettu traumapakkaus sisältää tarvikkeita, kuten adrenaliiniruiskuja, vastamyrkkyjä, muita kemiallisilta aineilta suojaavia lääkkeitä, hätälääkintätarvikkeita suurten ja avoimien haavojen välittömään hoitoon, kannettavan defibrillaattorin ja rajoitetun sarjan kirurgisia työkaluja. Traumapakkaus on kallis.
+
+* **Lääkintäpakkaus (Medi-kit):** Erittäin edistynyt varustesarja, joka sisältää ihon uudistajia, suihkeruiskuja, välittömiä veren hyytymisaineita, yksinkertaisen lääketieteellisen skannerin, universaaleja vastamyrkkyjä ja vastalääkkeitä, piristysruiskeita, synteettistä ihosuihketta, suihkutettavia kipsauksia ja muita välittömiä haavojen sulkumuotoja. Yleensä lääkintäpakkauksessa on pieni lääketieteellinen tietokone tai lukija, joka pystyy kuvailemaan tuhansia hoitomuotoja ja diagnosoimaan yksinkertaisia vammoja. Lääkintäpakkauksen käyttö tekee kaikista Ensiapu-yrityksistä Helppoja ja kaksinkertaistaa onnistuneella Ensiapu-heitolla parannettujen osumapisteiden määrän. Jos se on saatavilla pelimaailmassasi, lääkintäpakkaus on kallis.
+
+* **Auto-doc:** Täysin automatisoitu lääkinnällinen hoitojärjestelmä, joka on täydennetty monimutkaisilla diagnostiikkakyvyillä ja pystyy tunnistamaan ja toteuttamaan hoidon lähes mihin tahansa tunnettuun lääketieteelliseen tilaan. Auto-doc-järjestelmiin voi sisältyä robottikomponentteja, jotka kykenevät liikuttamaan potilaita, tai ne voivat olla huoneen kokoisia ja varustettu raajoilla ja muilla manipulaattoreilla, jotka ovat vuorovaikutuksessa potilaan kanssa keskeisellä vuoteella. Auto-docilla on 100 % taito Lääketieteessä ja Ensiavussa, ja onnistunut heitto palauttaa potilaalle kaksinkertaisen määrän osumapisteitä ja puolittaa toipumisajat. Auto-doc on kallis tai korvaamaton, ja hoito siinä vaihtelee ilmaisesta korvaamattomaan.
+
+### Muut varusteet
+
+Seuraavassa on muita hyödyllisiä varustetyyppejä, joita hahmosi saattaa haluta käyttää. **Taidot ja varusteet** sisältää yksityiskohtaisempaa tietoa varusteista, joita tarvitaan taitojen käytössä tai jotka avustavat niissä.
+
+* **Kemian sarja:** Laaja valikoima pieniä määriä kemikaaleja ja aineita, mukana mikroskooppi ja välineet yhdisteiden sekoittamiseen ja säilyttämiseen. Yleensä vain opetusväline, jota voidaan käyttää Tiede (Kemia) -taidon kanssa perustehtävissä. Halpa ja helposti opiskelijoiden tai muiden kiinnostuneiden saatavilla.
+
+* **Tietokoneet:** Pelimaailmasta riippuen tietokone on joko yksinkertainen (palauttaa tietoa kysyttäessä ja suorittaa yksinkertaisia komentoja) tai monimutkainen (sisältää tekoälyä tai on tietoisuutta lähestyvä) työkalu, jota voidaan käyttää muiden taitojen, kuten Arviointi, Taide, Pelaaminen, Tieto, Tiede, Opettaminen ja erityisesti Tutkiminen, kanssa. Jokainen taito, joka hyötyy laajasta ja haettavissa olevasta tietokannasta tai lähes välittömästä viestinnästä alan muiden ihmisten kanssa, voi hyötyä tietokoneen käytöstä. Sisältyvät tai käytettävissä olevat ohjelmat ja suhteellinen helppokäyttöisyys sallivat jopa +20 % bonuksen, jos tietokone soveltuu käytettävälle taidolle; keskitasoinen tietokonekokoonpano ei tarjoa bonusta; ja ala-arvoinen tai tehoton tietokonekokoonpano voi rangaista taitoa jopa –20 %. Jos sinä ja pelinjohtajasi haluatte tietokoneen omaavan enemmän kyvykkyyttä kuin aikakaudelle sopiva tietokone, luokaa se supervoimaisena laitteena, jolla on ÄLY.
+
+* **Rikostutkintapakkaus:** Forensisten laboratorioiden ja etsivien käyttämä rikostutkintapakkaus sisältää sormenjälkien tunnistusmenetelmiä, mittalaitteita, kumihanskat, keräyspussit ja -pullot todisteiden säilyttämiseen, suurennuslasit, asianmukaiset kemikaalit ja suihkeet, pienet työkalut, mustavalot ja tavalliset taskulamput sekä muita keinoja rikollisen toiminnan jälkien havaitsemiseen. Rikostutkintapakkaus on kallis.
+
+* **Naamiopakkaus:** Kokoelma ihovärejä ja sävyjä, meikkejä ja muita keinoja ulkonäön muuttamiseen. Käyttäjä kokoaa naamiopakkauksen yleensä itse, jotta se on mahdollisimman hyödyllinen hänen fyysisten piirteidensä ja/tai sukupuolensa kannalta. Naamiopaketti voi sisältää peruukkeja, tekohampaita, tekokasvokarvoja, hiusvärejä ja muita muotoiluvälineitä, sakset, peilin, piilolinssit tai silmälasit ja jopa vaatekappaleita. Kehittyneemmät pakkaukset voivat sisältää proteeseja kasvonpiirteiden muuttamiseen. Naamiopaketti voi olla myös yleiskäyttöinen, mutta tällainen pakkaus ei yleensä ole yhtä tehokas. Sellaisen voi koota kaupallisesti saatavilla olevista tuotteista halvalla tai keskihinnalla, tai korkealaatuinen pakkaus voi olla kallis.
+
+* **Pakkaukset, sekalaiset:** Kuten kohdassa **Taidot ja varusteet** on kuvattu, lähes jokaisella Käsityö-taidolla voi olla pakkaus tai työkalusarja, joka auttaa sen käytössä. Pelinjohtajasi tulisi määrittää näiden arvo ja hyödyllisyys pelimaailman perusteella.
+
+* **Tiirikat:** Nämä voivat vaihdella muutamasta yksittäisestä tiirikasta monimutkaisempaan sarjaan, jossa on stetoskooppi, poria ja erilaisia työkaluja ja välineitä monimutkaisimpien ja haastavimpien lukkojen avaamiseen. Nämä voivat vaihdella halvoista kalliisiin. 
+
+* **Vakain:** Ampuma-aseen lisävaruste, joka lisää aseen vakautta rekyylin kompensoinnin, iskunvaimennuksen jne. avulla. Nämä voivat lisätä +5 % tai enemmän seuraaviin laukauksiin ensimmäisen kierroksen laukauksen jälkeen.
+
+* **Äänenvaimentimet ja hiljentimet:** Hiljennin on pitkä putki, joka on täytetty välilevyillä ja kiinnitetty ampuma-aseen piippuun, mikä vaimentaa laukausten ääntä. Tämä hidastaa ammuksen nopeutta ja puolittaa sen peruskantaman. Hiljennin tehdään yleensä tilauksesta tietyn tyyppiselle ampuma-aseelle, ja se kuluu yleensä loppuun, kun sen läpi on ammuttu D100+10 laukausta. Hiljennintä ei voi kiinnittää haulikkoon tai raskaaseen konekivääriin, mutta sitä voidaan käyttää kevyeen tai keskikokoiseen konekivääriin. Useimmissa ympäristöissä, joissa niitä on olemassa, hiljentimet ovat kalliita ja rajoitettuja.
+
+* **Teleskooppitähtäimet ja lasertähtäimet:** Nämä kiinnitetään ampuma-aseeseen tai energia-aseeseen ja antavat hahmosi käytännössä kaksinkertaistaa peruskantaman. Lasertähtäimet nelinkertaistavat peruskantaman. Kun nämä yhdistetään **Tähdättyihin hyökkäyksiin**, kumpi tahansa voi olla varsin tehokas. Nämä ovat arvoltaan keskitasoa, vaikka tarkkuustähtäimet voivat olla kalliimpia.
+
+### Mekat
+
+Meka (lyhennettynä joskus 'mech') on periaatteessa ylikokoinen voimapanssaripuku, jota ohjaa yksi tai useampi hahmo. Se on yleensä humanoidin tai jonkin kaksijalkaisen rakenteen muodossa ja suosittu tieteiskirjallisuuden ympäristöissä. Alla kuvattu esimerkkimeka rakennettiin supervoimaisten laitteiden ohjeita käyttäen.
+
+> #### Malli D142 Mobile Exoframe, tunnetaan nimellä 'Skyhammer'
+> 
+> **Arvo:** Korvaamaton
+> 
+> Skyhammer on raskaasti panssaroitu, humanoidin muotoinen meka, jossa on pitkänomainen runko, joka toimii ohjaamona ja majoittaa lentäjän. Sen pää on joukko sensorilaitteita, ja sen raajat ovat toiminnalliset. Sen 'navasta' työntyy suuri lasertykki, jonka yläpuolella lentäjä istuu.
+> 
+> **VOI** 100 **KES** 50 **KOK** 50
+> 
+> **Osumapisteet:** 50 **Vakava vamma:** 25 **Mah-pisteet:** 110
+> 
+> **Vahinkomuunnin:** +8D6 **LIIK:** 15
+> 
+> **Panssari:** 30 pisteen seospinnoite (katso alla)
+> 
+> **Aseet:** Lasertykki (käyttää lentäjän Projektio-taitoa %), 75 metrin kantama, 5D6 vahinkoa; Vasaranyrkit (käyttää lentäjän Tappelu-taitoa %), 1D3+8D6 vahinkoa
+> 
+> **Taidot:** Hienomotoriikka 45 %, Hyppy 65 %, Kuuntelu 65 %, Navigointi 70 %, Ohjaus (automaattiohjaus) 41 %, Korjaus (sisäinen diagnostiikka ja korjaus) 55 %, Tarkkailu 65 %, Jäljitys 30 %, Lento 100 %.
+> 
+> **Voimat:** Adaptaatio 6 (kylmä, kuumuus, korkea paine, säteily, tyhjiö; hinta = 15 pistettä); Panssari 30 (sähkö 30, kineettinen 30, säteily 30; hinta = 90 pistettä); Energian projektio 5 (valo; hinta = 50 pistettä); Lisäenergia 11 (+110 mah-pistettä; hinta = 11 pistettä); Lento 17 (hinta = 17 pistettä); Superominaisuudet 200 (VOI, KES, KOK; hinta = 200 pistettä); Superaisti 5 (Kuulo 5, Näkö 5, Pimeänäkö 5, Infrapunanäkö 5, Kaikuluotaus 5; hinta = 75 pistettä); Supertaito (Hienomotoriikka 2, Hyppy 2, Kuuntelu 2, Navigointi 3, Ohjaus 2, Korjaus 2, Tarkkailu 2, Jäljitys 1, Lento 5; hinta = 42 pistettä).  
+> 
+>**Voimien kokonaisbudjettihinta** = 500 pistettä.
+
+## Esineiden yleiset ominaisuudet
+
+Muita kuin aseita, panssareita, kilpiä, piirityskoneita, ajoneuvoja, kirjoja, pakkauksia jne. mitä tahansa materiaalista esinettä voidaan kuvata esineeksi. Tämä kategoria kattaa puhelimet tai sähköpylväät, talot tai linnat, kuulakärkikynät tai Eiffel-tornin. Yleisesti ottaen ainoa syy antaa attribuutti esineelle on silloin, kun sitä käytetään hahmoasi vastaan, hahmosi käyttää sitä toista hahmoa vastaan, hahmosi yrittää tuhota sen tai se on tiellä (ja mahdollisesti sivullinen vahinko).
+
+### Vahinko elottomille esineille
+
+Elottomat esineet, kuten ovet, tuolit ja seinät, häiritsevät todennäköisesti ohilaukausta, tai ne on ehkä kaadettava tai räjäytettävä. Pelinjohtajasi tulisi tarkistaa KOK-arvot esimerkkiesineille ja käyttää KOK-arvoa esineen osumapisteinä, määrittäen panssariarvon vastaavuuden perusteella (katso **Panssarin suoja**). Jos vahinko ylittää esineen panssariarvon, osumapisteet vähenevät jäljellä olevalla vahingolla ja yhtä moni vahinkopiste vähentää sen panssariarvoa (edustaen sitä, kuinka paljon vähemmän se pystyy vastustamaan vahinkoa vaurioitumisen jälkeen). Jos esine on ihmistä pienempi (kuten tuoli), se tuhoutuu täysin, jos se vähennetään 0 osumapisteeseen. Jos se on ihmistä suurempi (kuten puuseinä) ja osa vähennetään 0 osumapisteeseen, siihen tulee ihmisen kokoinen reikä.
+
+> ### Aineiden panssariarvo
+> 
+> Panssariarvo edustaa onnistuneesta hyökkäyksestä vähennettävää vahingon määrää. Mitä korkeampi esineen panssariarvo on, sitä epätodennäköisemmin se vaurioituu. Käyttämällä muiden varusteiden arvoja tai alla olevia, pelinjohtajasi pitäisi pystyä ekstrapoloimaan lisäpanssariarvoja tai arvioimaan niitä karkeiden vastaavuuksien perusteella. Seuraavassa on eri aineiden panssariarvoja:
+> 
+> | Aineen tyyppi | Panssariarvo |
+> | :---- | :---- |
+> | 1 cm lasia | 1 |
+> | 5 cm paksu ovi | 3 |
+> | 3 cm kovapuuta | 6 |
+> | 12 cm betonia | 9 |
+> | 3 cm luodinkestävää lasia | 22 |
+> | 3 cm teräslevyä | 28 |
+> | Suuri hiekkasäkki | 20 |
+> 
+> Luonnolliset panssariarvot, kuten edellä mainitut, eivät häviä eivätkä heikkene useiden hyökkäysten myötä, ellei kyseessä ole jokin ympäristötekijä tai erityinen yritys vähentää esineen panssariarvoa.
+> 
+> **Esimerkiksi,** hahmosi hakkaa luodinkestävästä lasista tehtyä ikkunaa toistuvasti leka-haaralla, tähdäten samaan kohtaan yrittäen aiheuttaa tarpeeksi säröjä läpäisyyn. Pelinjohtajasi päättää kuvata tätä vähentämällä panssariarvoa 1:llä jokaisella onnistuneella osumalla ja heittämällä vahingon. Kun vahinkoheitto ylittää tasaisesti vähenevän panssariarvon, ikkuna särkyy.
+> 
+> Yksinkertainen ohje esineiden tuhoamiseen on se, että keskivertoesineellä on osumapisteitä suunnilleen KOK-arvonsa verran, ja kun panssari on ohitettu ja nämä osumapisteet menetetty, esine on toimintakyvytön ja tuhoutunut, tai ainakin vähennetty tilaan, jossa se ei ole ilmeisessä käytössä.
+
+### Yleisten esineiden KOK
+
+Lähistöllä on lista esimerkkikokoisia esineitä. 'Koko' edustaa esineen kokoa sellaisena kuin sitä käytetään nostamiseen tai sen osumapisteiden määrittämiseen, ja 'Segmentti' edustaa ihmisen kokoista osaa esineestä, tarkoituksena läpi murtaminen tai osan tuhoaminen läpikulkua varten. Jos esineelle aiheutettu vahinko ei ylitä esinesegmentin KOK-arvoa, hyökkäyksen muodossa ja koossa voi olla syntynyt reikä, soveltuvin osin. Kuten edellä on todettu, oletuksena on, että keskivertoesineen osumapisteet vastaavat sen KOK-arvoa.### Vertailukokoiset
+
+Tämä taulukko yhdistää likimääräisen painon pelin KOK-arvoon. Basic Roleplaying -järjestelmässä KOK ei koske vain painoa, vaan myös tilavuutta ja pituutta. Tämä taulukko ei ole tarkka tai rajoittava: käytä harkintakykyäsi määrittäessäsi KOK-arvoa ja painoa esineen tai olennon rakenteen perusteella. KOK 330:stä eteenpäin KOK on karkeasti 1/10 esineen tai olennon painosta lyhyinä tonneina.
+
+**Esimerkiksi**, KOK 8 000:n jättiläiskalmari painaa 80 000 lyhyttä tonnia.
+
+| KOK | Brittiläinen paino (Imperial) | Metrinen paino |
+| :---- | :---- | :---- |
+| 1 | 1–12 paunaa | 0,5–5,4 kilogrammaa |
+| 4 | 38–51 paunaa | 17–23 kilogrammaa |
+| 8 | 109–120 paunaa | 49–54 kilogrammaa |
+| 12 | 156–168 paunaa | 71–76 kilogrammaa |
+| 16 | 220–239 paunaa | 100–108 kilogrammaa |
+| 20 | 310–338 paunaa | 141–153 kilogrammaa |
+| 24 | 440–479 paunaa | 200–217 kilogrammaa |
+| 32 | 880–959 paunaa | 499–435 kilogrammaa |
+| 40 | 1760–1919 paunaa | 798–870 kilogrammaa |
+| 48 | 3520–3829 paunaa | 1 597–1 737 kilogrammaa |
+| 56 | 7040–7649 paunaa | 3 193–3 470 kilogrammaa |
+| 64 | 7,1–7,7 tonnia | 6 441–6 985 kilogrammaa |
+| 72 | 14,1–15,4 tonnia | 12,8–14 tonnia |
+| 80 | 28,2–30,7 tonnia | 25,6–27,9 tonnia |
+| 88 | 56,5–61,5 tonnia | 51,3–55,8 tonnia |
+| 96 | 96 tonnia | 87 tonnia |
+| 104 | 104 tonnia | 94 tonnia |
+| 112 | 120 tonnia | 109 tonnia |
+| 120 | 144 tonnia | 131 tonnia |
+| 128 | 176 tonnia | 160 tonnia |
+| 136 | 216 tonnia | 196 tonnia |
+| 140 | 240 tonnia | 218 tonnia |
+| 144 | 264 tonnia | 239 tonnia |
+| 152 | 320 tonnia | 290 tonnia |
+| 160 | 384 tonnia | 348 tonnia |
+| 168 | 456 tonnia | 414 tonnia |
+| 176 | 536 tonnia | 486 tonnia |
+| 184 | 624 tonnia | 566 tonnia |
+| 192 | 720 tonnia | 653 tonnia |
+| 200 | 824 tonnia | 748 tonnia |
+| 208 | 936 tonnia | 849 tonnia |
+| 216 | 1 056 tonnia | 958 tonnia |
+| 224 | 1 184 tonnia | 1 074 tonnia |
+| 232 | 1 220 tonnia | 1 107 tonnia |
+| 240 | 1 364 tonnia | 1 237 tonnia |
+| 256 | 1 516 tonnia | 1 375 tonnia |
+| 264 | 1 676 tonnia | 1 520 tonnia |
+| 272 | 1 844 tonnia | 1 673 tonnia |
+| 280 | 2 020 tonnia | 1 833 tonnia |
+| 288 | 2 204 tonnia | 1 999 tonnia |
+| 294 | 2 396 tonnia | 2 174 tonnia |
+| 304 | 2 596 tonnia | 2 355 tonnia |
+| 312 | 2 804 tonnia | 2 544 tonnia |
+| 320 | 3 020 tonnia | 2 740 tonnia |
+| 330 | 3 300 tonnia | 2 994 tonnia |
+| 340 | 3 400 tonnia | 3 084 tonnia |
+| 350 | 3 500 tonnia | 3 175 tonnia |
+
+> ##### Esimerkkejä esineiden KOK-arvoista
+> 
+> | Esine | KOK yhteensä | KOK segmentti |
+> | :---- | :---- | :---- |
+> | Lasi-ikkuna | 3 | 3 |
+> | Ovi | 4–8 | 4–8 |
+> | Tuoli | 4–9 | 4–9 |
+> | Pöytä | 4–12 | 4–12 |
+> | Kaivonkansi | 5 | 5 |
+> | Paloposti | 5 | 5 |
+> | Ruukkukasvi | 2–5 | 2–5 |
+> | Lasiovi | 8 | 8 |
+> | Työpöytä | 10–20 | 10–20 |
+> | Lyhtypylväs | 30 | 10 |
+> | Sisäseinä (talo) | 25–35 | 8 |
+> | Ulkoseinä (talo) | 25–45 | 20 |
+> | Tiiliseinä | 30–50 | 20 |
+> | Betoniseinä | 30–50 | 20 |
+> | Betoni- ja terässeinä | 35–55 | 25 |
+> | Pieni ilma-alus | 40 | 10 |
+> | Henkilöauto | 50 | 12 |
+> | Holvin ovi | 60 | 20 |
+> | Keskikokoinen maataisteluajoneuvo | 60 | 12 |
+> | Teräspalkki | 65 | 30 |
+> | Ilma-alus, suihkuhävittäjä | 80 | 18 |
+> | Keskiraskas panssarivaunu | 80 | 30 |
+> | Veturi | 100 | 20 |
+> | Ilma-alus, rahtisuihkukone | 100 | 15 |
+> | Ilma-alus, pommikone | 105 | 15 |
+> | Ilma-alus, matkustajakone | 110 | 15 |

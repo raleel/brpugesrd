@@ -1,109 +1,107 @@
-# 8\. Pajisjet
+# 8. Pajisjet
 
-Ky kapitull mbulon gjithçka jashtë personazhit tuaj: sende që ata mund t’i zotërojnë dhe me të cilat mund të ndërveprojnë, si paratë, armët, parzmoret, pajisjet, automjetet dhe vetë mjedisi, qoftë i zakonshëm apo i jashtëzakonshëm. Këtu gjenden gjithashtu rregullat për llojet e veçanta të pajisjeve dhe si të menaxhohen pajisjet gjatë lojës.
+Ky kapitull mbulon gjithçka jashtë personazhit tuaj: artikujt që ata mund të zotërojnë dhe me të cilët mund të ndërveprojnë, si paratë, armët, forcaçat, pajisjet, mjetet e transportit dhe vetë mjedisi, qoftë i zakonshëm apo i jashtëzakonshëm. Këtu gjenden gjithashtu rregullat për lloje të veçanta të pajisjeve dhe se si të menaxhoni pajisjet gjatë lojës.
 
-## Paratë
+## Paraja
 
-**Mirëqenia** trajton paratë, por është e abstraktuar për shkak të gamës së mundshme të çmimeve, të ardhurave dhe monedhave në çdo mjedis të mundshëm. Në vend të listave të këmbimit të monedhave ose abstraksioneve të monedhave, përdoren rregullat e Mirëqenies (Kapitulli i Dytë: Personazhet) dhe rregullat e Statusit (Kapitulli i Tretë: Aftësitë). Për lehtësi, këto janë përmbledhur në tabelën e Niveleve të Mirëqenies (përballë).
+**Pasuria** adreson paranë, por ajo është e abstraktuar për shkak të gamës së mundshme të çmimeve, të ardhurave dhe monedhave në çdo mjedis të mundshëm. Në vend të listave të këmbimit valutor ose abstraktimeve të monedhës, përdoren rregullat e Pasurisë (Kapitulli Dy: Personazhet) dhe rregullat e Statusit (Kapitulli Tre: Aftësitë). Për lehtësi, këto janë përmbledhur në tabelën e Niveleve të Pasurisë (përballë).
 
-Kolona **Vlera e Sendit** përfaqëson vlerën e sendeve që janë të disponueshme për një personazh të atij niveli Mirëqenieje. Sendet e lira vlejnë shumë pak, pajisjet e përballueshme janë të lira dhe zakonisht të cilësisë së ulët, pajisjet Mesatare janë të një cilësie të mirë dhe kushtojnë një çmim të drejtë, ndërsa pajisjet e shtrenjta janë të një cilësie më të lartë ose më të kushtueshme. Sendet dhe pajisjet e paçmueshme konsiderohen përtej asaj që mund të blihet lehtë: blerja e tyre duhet të rregullohet ose të negociohet, madje edhe midis të pasurve.
+Kolona **Vlera e Artikullit** përfaqëson vlerën e artikujve të disponueshëm për një personazh të atij niveli Pasurie. Artikujt e lirë kanë vlerë shumë të vogël, pajisjet e përballueshme janë të lira dhe zakonisht të cilësisë së ulët, pajisjet mesatare janë të një cilësie të mirë dhe kushtojnë një çmim të drejtë, ndërsa pajisjet e shtrenjta janë të cilësisë më të lartë ose më të kushtueshme. Artikujt dhe pajisjet e çmueshme (të pazëvendësueshme) konsiderohen përtej asaj që mund të blihet lehtësisht: blerja e këtyre duhet të organizohet ose negociohet, madje edhe mes të pasurve.
 
-Dy vlera shtesë nuk janë të përfaqësuara në këtë tabelë: Falas dhe të Kufizuara. Sendet Falas janë pikërisht të tilla—nuk kushtojnë asgjë dhe mund të gjenden pa përpjekje, ndërsa sendet e Kufizuara nuk janë të disponueshme pa leje dhe zotërimi i paautorizuar shpesh sjell akuza penale. Sendet e kufizuara mund të kenë një vlerë aktuale përveç cilësisë, si p.sh. një send që është i shtrenjtë dhe gjithashtu i kufizuar.
+Dy vlera shtesë nuk janë të përfaqësuara në këtë tabelë: Falas dhe të Kufizuara. Artikujt Falas janë pikërisht të tillë—ato nuk kushtojnë asgjë dhe mund të gjenden pa përpjekje, ndërsa artikujt e Kufizuar nuk janë të disponueshëm pa një leje dhe zotërimi i paautorizuar shpesh sjell akuza penale. Artikujt e kufizuar mund të kenë një vlerë reale përveç cilësisë, si p.sh. një artikull që është i Shtrenjtë dhe gjithashtu i Kufizuar.
 
-Krijimi i personazhit ofron informacion rreth nivelit fillestar të Mirëqenies së personazhit tuaj. Udhëheqësi i lojës (Gamemaster) mund ta përdorë këtë dhe aftësinë Status si udhëzime për caktimin e pajisjeve fillestare përtej atyre udhëzimeve të paraqitura në **Hapin e Tetë** të krijimit të personazhit.
+Krijimi i personazhit ofron informacion rreth nivelit fillestar të Pasurisë së personazhit tuaj. Udhërrëfyesi juaj (Game Master) mund ta përdorë këtë dhe aftësinë Status si udhëzues për caktimin e pajisjeve fillestare përtej atyre udhëzimeve të paraqitura në **Hapin e Tetë** të krijimit të personazhit.
 
-##### Nivelet e Mirëqenies
+##### Nivelet e Pasurisë
 
-| Niveli i Mirëqenies | Vlera e Sendit | Përshkrimi |
+| Niveli i Pasurisë | Vlera e Artikullit | Përshkrimi |
 | :---- | :---- | :---- |
-| I pasur | I paçmueshëm | Pasuri e madhe, nuk i mungon asgjë. Çdo blerje është brenda arsyes dhe linjat e kredisë lejojnë financim edhe më të madh. |
-| Me të ardhura të mira | I shtrenjtë | I kamur dhe në gjendje të shpenzojë lirisht pa u shqetësuar për buxhetin. |
-| Mesatar | Mesatar | Të ardhura të klasës së mesme, të rehatshme, por jo ekstravagante. Blerjet e mëdha peshohen me kujdes. |
-| I varfër | I përballueshëm | Jeta në prag të mbijetesës. Ushqimi ditor është i pakët dhe çdo humbje ka pasoja. |
-| Skamnor | I lirë | Pa para, madje pa para të xhepit. Mbijetesa është shqetësimi kryesor. |
+| I pasur | I çmueshëm | Pasuri e madhe, nuk të mungon asgjë. Çdo blerje është brenda arsyes dhe linjat e kredisë lejojnë financim edhe më të madh. |
+| Shumë i pasur | I shtrenjtë | Mirëqenie dhe aftësi për të shpenzuar lirshëm pa u shqetësuar për buxhetin. |
+| Mesatar | Mesatar | Të ardhura të klasës së mesme, të rehatshme, por jo ekstravagante. Blerjet e mëdha vlerësohen me kujdes. |
+| I varfër | I përballueshëm | Jetë në kufi. Ushqimi i përditshëm është i pakët dhe çdo humbje ka pasoja. |
+| Skamnor | I lirë | Pa para, pa as para të thjeshta në xhep. Mbijetesa është një shqetësim kryesor. |
 
 ## Pajisjet
 
-Secila pjesë e pajisjeve ka një vlerë relative. Udhëheqësi i lojës suaj duhet të supozojë se nëse personazhi juaj është i atij niveli Mirëqenieje (ose më lart), ata kanë akses në atë pjesë të pajisjeve pa ndonjë problem. Personazhi juaj ka akses të lirë në pajisjet me vlera nën nivelin e tyre të Mirëqenies, brenda arsyes. Udhëheqësi i lojës suaj mund të kërkojë hedhje të zaret për Status nëse dëshironi që personazhi juaj të arrijë mbi pozitën e tij dhe të zotërojë sende të një niveli më të lartë Mirëqenieje. Kjo mund të përfaqësojë kursimin e parave për diçka, një send të vlefshëm të trashëguar ose kërkimin e një favore.
+Çdo pjesë e pajisjeve ka një vlerë relative. Udhërrëfyesi juaj duhet të supozojë se nëse personazhi juaj është në atë nivel Pasurie (ose më lart), ata kanë qasje në atë pajisje pa asnjë problem. Personazhi juaj ka qasje të lirë në pajisjet me vlera nën nivelin e Pasurisë së tyre, brenda arsyes. Udhërrëfyesi juaj mund të kërkojë hedhje të zarit për Statusin nëse dëshironi që personazhi juaj të tejkalojë pozitën e tij dhe të posedojë artikuj të një niveli më të lartë Pasurie. Kjo mund të përfaqësojë kursimin e parave për diçka, një trashëgimi të vlefshme ose kërkimin e një nderi.
 
-Sipas gjykimit të udhëheqësit të lojës, nëse dëshironi që personazhi juaj të zotërojë pajisje më të shtrenjta (mbi nivelin e tyre të Mirëqenies), duhet të kërkohet një hedhje e suksesshme e zaret për Status për të 'blerë' sende një nivel mbi nivelin e parazgjedhur të Mirëqenies së personazhit tuaj. Një hedhje e vështirë për Status duhet të bëhet për sendet dy nivele Mirëqenieje më lart, dhe udhëheqësi i lojës suaj mund të vendosë që sendet me vlerë më shumë se dy nivele mbi nivelin e parazgjedhur të Mirëqenies së personazhit tuaj janë thjesht të paarritshme. Përndryshe, udhëheqësi i lojës mund të vendosë që një pjesë e veçantë e pajisjeve i është dhënë, caktuar ose huazuar personazhit, bazuar në profesionin e tij.
+Sipas gjykimit të udhërrëfyesit tuaj, nëse dëshironi që personazhi juaj të posedojë pajisje më të shtrenjta (mbi nivelin e Pasurisë së tyre), duhet të kërkohet një hedhje e suksesshme e zarit për Statusin për të 'blerë' artikuj një nivel mbi nivelin e paracaktuar të Pasurisë së personazhit tuaj. Një hedhje e vështirë e Statusit duhet të bëhet për artikuj dy nivele Pasurie më lart, dhe udhërrëfyesi juaj mund të vendosë që artikujt më shumë se dy nivele vlere mbi nivelin e paracaktuar të Pasurisë së personazhit tuaj janë thjesht të paarritshëm. Përndryshe, udhërrëfyesi juaj mund të vendosë që një pjesë specifike e pajisjeve i është dhënë, caktuar ose huazuar personazhit, bazuar në profesionin e tij.
 
-**Për shembull,** niveli i Mirëqenies së një ushtari është zakonisht i varfër ose mesatar, por ushtarëve u jepen armë zjarri dhe pajisje shumë mbi mundësitë e tyre financiare. Një ushtari i kërkohet të kujdeset për pajisjet dhe mund të mos i 'zotërojë' ato, por pajisjet janë të disponueshme për aventurë. Megjithatë, një astronaut ka pak gjasa të zotërojë anijen e tij kozmike jashtë një mjedisi të fantashkencës.
+**Për shembull,** niveli i Pasurisë së një ushtari është zakonisht i Varfër ose Mesatar, por ushtarëve u jepen armë zjarri dhe pajisje shumë mbi mundësitë e tyre financiare. Një ushtari i kërkohet të kujdeset për pajisjet dhe mund të mos i 'zotërojë' ato, por pajisjet janë të disponueshme për aventura. Megjithatë, një astronaut ka pak gjasa të zotërojë anijen e vet kozmike jashtë një mjedisi të fantashkencës.
 
 > ### Kur duhet të përshkruhen pajisjet?
 > 
-> Kur duhet të përshkruhet një pjesë e pajisjeve në terma të lojës, përkundrejt kur mund të supozohet se është pjesë e sfondit? Kjo është çështje detaji: kur nevojiten efekte loje dhe kur janë të panevojshme? Edhe pse ky vendim është për udhëheqësin e lojës, nuk ka përgjigje të saktë apo të gabuar: vetëm shkalla e komoditetit. Idealisht, koha e shpenzuar për të llogaritur specifikat e lojës minimizohet në favor të maksimizimit të kohës për lojë me role dhe aventura.
+> Kur një pjesë e pajisjeve duhet të përshkruhet me terma të lojës, kundrejt kur mund të supozohet se është pjesë e sfondit? Kjo është një çështje detajesh: kur kërkohen efekte të lojës dhe kur janë të panevojshme? Ndonëse ky vendim i takon udhërrëfyesit tuaj, nuk ka përgjigje të saktë apo të gabuar: thjesht shkalla e komoditetit. Idealisht, koha e shpenzuar për të kuptuar specifikat e lojës minimizohet në favor të maksimizimit të kohës për lojë rolesh dhe aventura.
 > 
-> Ky kapitull mbulon një shumëllojshmëri pajisjesh, duke përfshirë armët, parzmoret dhe automjetet. Idealisht, këto udhëzime janë të mjaftueshme që një ekuivalent me ndonjë pjesë tjetër të pajisjeve të mund të rrjedhë, ose një pjesë e pajisjeve mund të abstraktohet në një modifikues të thjeshtë aftësie.
+> Ky kapitull mbulon një shumëllojshmëri pajisjesh, duke përfshirë armë, forcaça dhe mjete transporti. Idealisht, këto udhëzime janë të mjaftueshme që të mund të nxirret një ekuivalent për ndonjë pjesë tjetër të pajisjeve, ose një pajisje të mund të abstrahtohet në një modifikues të thjeshtë aftësie.
 
-### Pajisjet fillestare
+### Pajisjet Fillestare
 
-Siç u theksua në **Hapin e Tetë** të Kapitullit të Dytë: Personazhet, personazhi juaj fillon me mjete dhe pajisje të përshtatshme për nivelin e tyre të Mirëqenies dhe profesionin e tyre. Zakonisht, një personazh mesatar do të ketë:
+Siç u theksua në **Hapin e Tetë** të Kapitullit Dy: Personazhet, personazhi juaj fillon me mjete dhe pajisje të përshtatshme për nivelin e tyre të Pasurisë dhe profesionin. Zakonisht, një personazh mesatar do të ketë:
 
-* Një komplet të plotë veshjesh të përshtatshme për mjedisin dhe zhanrin e tyre.
-* Para xhepi dhe kursime personale të përshtatshme për nivelin e tyre të Mirëqenies.
-* Një send personal që tregon një lidhje me familjen e tyre, qoftë një trashëgimi, suvenir, foto, etj. ose ndonjë zbukurim me pak vlerë relative por me një lidhje emocionale.
-* Çdo mjet tregtar ose pajisje e përshtatshme për profesionin e tyre, nëse është e nevojshme.
-* Çdo armë në të cilën ata kanë një aftësi mbi 50%, nëse është e nevojshme.
+* Një komplet të plotë veshjesh të përshtatshme për mjedisin dhe zhanrin e tyre.  
+* Para xhepi dhe kursime personale të përshtatshme për nivelin e tyre të Pasurisë.  
+* Një artikull personal që tregon një lidhje me familjen e tyre, qoftë një trashëgimi, suvenir, foto, etj., ose ndonjë bizhuteri me vlerë të vogël relative, por me një lidhje emocionale.  
+* Çdo mjet tregtie ose pajisje të përshtatshme për profesionin e tyre, nëse është e nevojshme.  
+* Çdo armë për të cilën ata kanë një aftësi mbi 50%, nëse është e nevojshme.
 
-Secili profesion mund të ketë pajisje shtesë, si piloti, i cili mund të fillojë lojën me një aeroplan, anije apo edhe një anije kozmike, bazuar në mjedis. Mundohuni të mos zgjidhni një profesion vetëm për aksesin në pajisje—profesioni juaj duhet të jetë pjesë e personazhit që dëshironi të luani, jo zgjedhja më e favorshme sociale ose ekonomike.
+Çdo profesion mund të ketë pajisje shtesë, si piloti, i cili mund të fillojë lojën me një aeroplan, anije, apo edhe një anije kozmike, bazuar në mjedis. Mundohuni të mos zgjidhni një profesion vetëm për qasjen në pajisje—profesioni juaj duhet të jetë pjesë e personazhit që dëshironi të luani, jo zgjedhja më e favorshme sociale ose ekonomike.
 
 **Për shembull,** nëse të gjithë në grup zgjedhin një fisnik, loja mund të bëhet e mërzitshme nëse të gjithë personazhet përdorin burimet e tyre të mëdha financiare për t'i bërë problemet të zhduken.
 
-Për më tepër, ju dhe udhëheqësi i lojës duhet të merrni parasysh se cilësia dhe pamja e pajisjeve dhe veshjeve të personazhit tuaj ka të ngjarë të pasqyrojnë gjithashtu renditjen e aftësisë së tyre Status dhe Mirëqenien.
+Për më tepër, ju dhe udhërrëfyesi juaj duhet të konsideroni se cilësia dhe pamja e pajisjeve dhe veshjeve të personazhit tuaj ka të ngjarë të pasqyrojnë gjithashtu renditjen e tyre të aftësisë Status dhe Pasurinë.
 
-**Për shembull,** veshjet e një studenti janë të pastra dhe ndoshta në modë, por jo të përshtatshme për evente solemne, dhe u shërbejnë atyre keq në një ekspeditë në Tibetin e largët. Pajisjet që blen një amator për një ekspeditë gjuetie janë të pacënuara dhe të markave më të mira, ndërsa një gjahtar me përvojë ka pajisje të përdorura mirë dhe të besueshme, të zgjedhura për besueshmëri mbi etiketën.
+**Për shembull,** veshjet e një studenti janë të pastra dhe ndoshta në modë, por jo të përshtatshme për ngjarje zyrtare, dhe u shërbejnë atyre dobët në një ekspeditë në Tibetin e largët. Pajisjet që një diletant blen për një ekspeditë gjuetie janë të pacënuara dhe të markave më të mira, ndonëse një gjuetar me përvojë ka pajisje të përdorura mirë dhe të besueshme, të zgjedhura për besueshmëri përpara etiketës.
 
-### Blerja e pajisjeve
+### Blerja e Pajisjeve
 
-Kur personazhi juaj dëshiron të marrë ose të zëvendësojë pajisje ose mjete që nuk mund t'i gjejë, t'i grabisë ose t'i marrë nga dikush, kjo trajtohet duke përdorur vlerën e caktuar të sendit dhe potencialisht duke përdorur aftësi të tilla si Vlerësimi, Pazarimi dhe Bindja, ose thjesht duke përdorur hedhjet për Status sipas nevojës.
+Kur personazhi juaj dëshiron të marrë ose të zëvendësojë pajisje ose mjete që nuk mund t'i gjejë, t'i marrë si plaçkë ose t'i marrë nga dikush, kjo trajtohet duke përdorur vlerën e caktuar të artikullit dhe potencialisht duke përdorur aftësi të tilla si Vlerësimi (Appraise), Pazar (Bargain) dhe Bindja (Persuade), ose thjesht duke përdorur hedhjet e Statusit sipas rastit.
 
-Së pari, përcaktoni nëse pajisjet mund të gjenden fare. Udhëheqësi i lojës suaj mund të kërkojë një hedhje të suksesshme për Kërkim ose një hedhje karakteristike si Ide, Fat ose Njohuri për ta gjetur atë. Aftësitë e komunikimit mund të kërkohen nëse është i nevojshëm pazarimi ose negocimi. Kapitulli i Dhjetë: Mjediset ofron disa udhëzime bazë për disponueshmërinë e sendeve në një sërë mjedisesh.
+Së pari, përcaktoni nëse pajisja mund të gjendet fare. Udhërrëfyesi juaj mund të kërkojë një hedhje të suksesshme të Kërkimit (Research) ose një hedhje të karakteristikës si Ideja, Fati (Luck) ose Njohuria (Knowledge) për ta gjetur atë. Aftësitë e komunikimit mund të kërkohen nëse është i nevojshëm pazari ose negocimi. Kapitulli Dhjetë: Mjediset ofron disa udhëzime bazë për disponueshmërinë e artikujve në një shumëllojshmëri mjedisesh.
 
-Duke supozuar se sendi i dëshiruar mund të gjendet, mënyra më e drejtpërdrejtë për ta marrë atë është me aftësinë Status, e modifikuar nga këta faktorë:
+Duke supozuar se artikulli i dëshiruar mund të gjendet, mënyra më e drejtpërdrejtë për ta marrë atë është me aftësinë Status, të modifikuar nga këta faktorë:
 
-* Nëse sendi ka një vlerë dy nivele nën nivelin e Mirëqenies së personazhit tuaj dhe mund të gjendet, ai është automatikisht i disponueshëm. Nuk nevojitet asnjë hedhje zaret.
-* Nëse sendi ka një vlerë një nivel nën nivelin e Mirëqenies së personazhit tuaj dhe mund të gjendet, një send i vetëm (ose një grup i vogël sendesh, sipas rastit) mund të merret pa bërë asnjë hedhje zaret.
-* Nëse sendi ka një vlerë të barabartë me nivelin e Mirëqenies së personazhit tuaj, nuk kërkohet asnjë hedhje zaret për ta marrë atë.
-* Nëse sendi është një nivel vlere mbi nivelin e Mirëqenies së personazhit tuaj, kërkohet një hedhje e suksesshme për Status për ta marrë atë.
-* Nëse sendi është dy nivele vlere mbi nivelin e Mirëqenies së personazhit tuaj, kërkohet një hedhje e suksesshme dhe e vështirë për Status për ta marrë atë.
-* Nëse sendi është më shumë se dy nivele vlere mbi nivelin e Mirëqenies së personazhit tuaj, asnjë hedhje Statusi nuk do ta marrë atë.
+* Nëse artikulli ka vlerë dy nivele nën nivelin e Pasurisë së personazhit tuaj dhe mund të gjendet, ai është automatikisht i disponueshëm. Nuk nevojitet asnjë hedhje.  
+* Nëse artikulli ka vlerë një nivel nën nivelin e Pasurisë së personazhit tuaj dhe mund të gjendet, një artikull i vetëm (ose një grup i vogël artikujsh, sipas rastit) mund të merret pa bërë hedhje.  
+* Nëse artikulli ka vlerë të barabartë me nivelin e Pasurisë së personazhit tuaj, nuk kërkohet asnjë hedhje për ta marrë atë.  
+* Nëse artikulli është një nivel vlere mbi nivelin e Pasurisë së personazhit tuaj, kërkohet një hedhje e suksesshme e Statusit për ta marrë atë.  
+* Nëse artikulli është dy nivele vlere mbi nivelin e Pasurisë së personazhit tuaj, kërkohet një hedhje e suksesshme e Vështirë e Statusit për ta marrë atë.  
+* Nëse artikulli është më shumë se dy nivele vlere mbi nivelin e Pasurisë së personazhit tuaj, asnjë hedhje e Statusit nuk do ta marrë atë.
 
-Së fundi, gjithmonë ekziston vjedhja ose dhuna për të marrë një pjesë të dëshiruar pajisjeje. Nëse udhëheqësi i lojës suaj lejon, personazhi juaj mund të fillojë lojën me një send të vjedhur të pothuajse çdo vlere. Në këtë rast, përcaktoni se kush e zotëronte sendin fillimisht, nëse ata e dinë se është marrë (dhe kush e mori) dhe shkallën e ashpërsisë së burimeve që ata do të përkushtojnë për ta rikuperuar atë. Vjedhja vetë mund të luhet si një skenë hyrëse ose rikthim në kohë, ose të supozohet automatikisht se ka qenë e suksesshme. Në çdo rast, udhëheqësi i lojës duhet të bëjë çdo përpjekje të arsyeshme për të trajtuar pasojat e vjedhjes në një mënyrë të përshtatshme për mjedisin, duke përfshirë potencialisht përpjekjet e rikuperimit në historinë ose fushatën e përgjithshme. Si me aftësitë e tjera, një hedhje e suksesshme e zaret për aftësi e bërë para fillimit të një aventure nuk kualifikohet për një kontroll përvoje.
+Së fundi, gjithmonë ekziston vjedhja ose dhuna për të marrë një pjesë të dëshiruar të pajisjeve. Nëse udhërrëfyesi juaj lejon, personazhi juaj mund të fillojë lojën me një artikull të vjedhur të pothuajse çdo vlere. Në këtë rast, përcaktoni se kush e zotëronte artikullin fillimisht, nëse ata e dinë se është marrë (dhe kush e mori), dhe shkallën e ashpërsisë së burimeve që ata do t'i kushtojnë rikuperimit të tij. Vetë vjedhja mund të luhet si një skenë hyrëse ose flashback, ose të supozohet automatikisht se ka qenë e suksesshme. Në çdo rast, udhërrëfyesi juaj duhet të bëjë çdo përpjekje të arsyeshme për të trajtuar pasojat e vjedhjes në një mënyrë të përshtatshme për mjedisin, duke përfshirë potencialisht përpjekjet e rikuperimit në historinë ose fushatën e përgjithshme. Ashtu si me aftësitë e tjera, një hedhje e suksesshme e aftësisë e bërë përpara se të fillojë një aventurë nuk kualifikohet për një kontroll përvoje.
 
-### Pajisjet fillestare me Fuqi
+### Pajisjet Fillestare me Fuqi
 
-Ju mund të dëshironi që personazhi juaj të fillojë me një pjesë të pajisjeve me fuqi, nëse përdoren fuqitë në mjedis. Nëse udhëheqësi i lojës suaj miraton, personazhi juaj duhet të 'paguajë' për atë pjesë të pajisjeve nga buxheti i tyre fillestar për fuqitë, qoftë në magji fillestare ose aftësi psikike, me koston e një mutacioni, ose nga buxheti i fuqisë së personazhit tuaj. Ju mund të filloni me një ose më shumë pjesë të pajisjeve që përdorin fuqi, me udhëzimet e mëposhtme:
+Ju mund të dëshironi që personazhi juaj të fillojë me një pjesë të pajisjeve me fuqi, nëse fuqitë përdoren në mjedis. Nëse udhërrëfyesi juaj miraton, personazhi juaj duhet të 'paguajë' për atë pjesë të pajisjeve nga buxheti i tij fillestar për fuqitë, qoftë në magji fillestare ose aftësi psikike, me koston e një mutacioni, ose nga buxheti i fuqisë së personazhit tuaj. Ju mund të filloni me një ose më shumë pajisje që përdorin fuqi, me udhëzimet e mëposhtme:
 
-* **Fuqitë Magjike:** Për të filluar lojën me një send magjik, personazhi juaj duhet të sakrifikojë 1 pikë POW të përhershme për çdo magji të investuar në send, plus 1 pikë POW të përhershme për çdo nivel të kapacitetit të magjisë që sendi mund të përdorë. Për më tepër, personazhi juaj duhet të dijë (ose të ketë akses në) magjinë/magjitë që sendi mund të përdorë. Sendi ka një kapacitet pikësh fuqie të barabartë me totalin normal të pikëve të fuqisë së personazhit tuaj pasi të krijohet sendi magjik, ose SIZ të sendit. Nëse personazhi juaj nuk e krijoi sendin magjik, udhëheqësi i lojës suaj duhet të përcaktojë kapacitetin e tij të pikëve të fuqisë. Një send magjik duhet të ketë një vlerësim fillestar aftësie të paguar nga pikët personale të aftësive të personazhit tuaj dhe nuk mund të jetë më i lartë se vlerësimi i aftësisë së krijuesit të tij. Nëse personazhi juaj nuk e krijoi atë, udhëheqësi i lojës suaj duhet të përcaktojë vlerësimet fillestare të aftësive. Kur krijohet sendi magjik, përcaktoni nëse është personal (vetëm personazhi juaj mund ta përdorë), nëse duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë vs. pikëve të fuqisë nëse ka pikë fuqie, ose nëse kushdo mund ta përdorë atë. Shihni Sendet Magjike për më shumë informacion.
+* **Fuqitë Magjike:** Për të filluar lojën me një artikull magjik, personazhi juaj duhet të sakrifikojë 1 pikë të FUQ-së së përhershme për çdo magji të investuar në artikull, plus 1 pikë të FUQ-së së përhershme për çdo nivel të kapacitetit të magjisë që artikulli mund të përdorë. Për më tepër, personazhi juaj duhet të dijë (ose të ketë qasje në) magjinë(t) që artikulli mund të përdorë. Artikulli ka një kapacitet të pikëve të fuqisë të barabartë me totalin normal të pikëve të fuqisë së personazhit tuaj pas krijimit të artikullit magjik, ose MAD-in e artikullit. Nëse personazhi juaj nuk e krijoi artikullin magjik, udhërrëfyesi juaj duhet të përcaktojë kapacitetin e pikëve të fuqisë së tij. Një artikull magjik duhet të ketë një vlerësim fillestar aftësie të paguar nga pikët e aftësive personale të personazhit tuaj, dhe nuk mund të jetë më i lartë se vlerësimi i aftësisë së krijuesit të tij. Nëse personazhi juaj nuk e krijoi atë, udhërrëfyesi juaj duhet të përcaktojë vlerësimet fillestare të aftësive. Kur krijohet artikulli magjik, përcaktoni nëse ai është personal (vetëm personazhi juaj mund ta përdorë), nëse ai duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë kundrejt pikëve të fuqisë nëse ai ka pikë fuqie, ose nëse dikush mund ta përdorë atë. Shihni Artikujt Magjikë për më shumë informacion.
 
-* **Mutacionet:** Për të filluar me një send me mutacione, punoni me udhëheqësin e lojës për të dhënë një shpjegim të arsyeshëm pse ekziston një send i tillë dhe cilat mutacione përfaqësojnë më mirë aftësitë e tij. Sendi i mutuar është pjesë e personazhit tuaj dhe duhet të paguhet nga karakteristikat e tij fillestare dhe mutacionet e disponueshme. Për të filluar lojën me një send të mutuar, personazhi juaj duhet të sakrifikojë 1 pikë CON të përhershme për çdo nivel të mutacionit (dhe një numër të barabartë mutacionesh fillestare të disponueshme). Çdo hedhje karakteristike që bën sendi bazohet në karakteristikat e vetë personazhit tuaj. Një send i mutuar konsiderohet të jetë 'i gjallë' dhe do të shërohet me të njëjtin ritëm si personazhi juaj. Shihni **Sendet e Mutuara** për më shumë informacion.
+* **Mutacionet:** Për të filluar me një artikull me mutacione, punoni me udhërrëfyesin tuaj për të dhënë një shpjegim të arsyeshëm pse ekziston një artikull i tillë dhe cilat mutacione janë më të mira për të përfaqësuar aftësitë e tij. Artikulli i mutuar është pjesë e personazhit tuaj dhe duhet të paguhet nga karakteristika e tyre fillestare dhe mutacionet e disponueshme. Për të filluar lojën me një artikull të mutuar, personazhi juaj duhet të sakrifikojë 1 pikë të QEN-it të përhershëm për nivel të mutacionit (dhe një numër të barabartë mutacionesh fillestare të disponueshme). Çdo hedhje e karakteristikës që bën artikulli bazohet në karakteristikat e vetë personazhit tuaj. Një artikull i mutuar konsiderohet se është 'gjallë' dhe do të shërohet me të njëjtin ritëm si personazhi juaj. Shihni **Artikujt e Mutuar** për më shumë informacion.
 
-* **Aftësitë Psikike:** Për të filluar me një send që përdor aftësi psikike, personazhi juaj duhet të sakrifikojë 1 pikë POW të përhershme për çdo nivel të aftësisë psikike (dhe një 'slot' aftësie psikike nga aftësitë e tyre fillestare psikike nëse aftësia nuk njihet). Sendi ka një POW fillestar (dhe pikë maksimale fuqie) të barabartë me atë të personazhit tuaj. Personazhi juaj duhet të paguajë pikët e aftësive për aftësitë psikike të sendit nga grupi i tyre personal i pikëve të aftësive. Shihni **Pajisjet me Aftësi Psikike** për më shumë informacion.
+* **Aftësitë Psikike:** Për të filluar me një artikull që përdor aftësi psikike, personazhi juaj duhet të sakrifikojë 1 pikë të FUQ-së së përhershme për çdo nivel të aftësisë psikike (dhe një 'vend' aftësie psikike nga aftësitë e tyre fillestare psikike nëse aftësia nuk njihet). Artikulli ka një FUQ fillestare (dhe pikë maksimale fuqie) të barabartë me atë të personazhit tuaj. Personazhi juaj duhet të paguajë pikët e aftësive për aftësitë psikike të artikullit nga grupi i tij personal i pikëve të aftësive. Shihni **Pajisjet me Aftësi Psikike** për më shumë informacion.
 
-* **Sorcery (Magjia e Zezë/Magjistari):** Për të filluar lojën me një artefakt, personazhi juaj duhet të sakrifikojë 1 pikë POW të përhershme për çdo magji të investuar në artefakt dhe duhet të dijë (ose të ketë akses në) magjinë/magjitë që artefakti mund të përdorë. Artefakti ka një rezervuar pikësh fuqie të barabartë me maksimumin normal të pikëve të fuqisë së personazhit tuaj (pasi të krijohet artefakti), cilado që është më e madhe. Udhëheqësi i lojës suaj duhet të vendosë POW-në dhe vlerën e pikëve të fuqisë nëse artefakti nuk është krijuar nga personazhi juaj. Kur krijohet artefakti, duhet të përcaktoni nëse do të jetë personal (vetëm personazhi juaj mund ta përdorë), nëse duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë vs. pikëve të fuqisë nëse ka pikë fuqie, ose nëse kushdo mund ta përdorë atë. Shihni **Pajisjet me Sorcery** për më shumë informacion.
+* **Magjia (Sorcery):** Për të filluar lojën me një artefakt, personazhi juaj duhet të sakrifikojë 1 pikë të FUQ-së së përhershme për magji të investuar në artefakt dhe duhet të dijë (ose të ketë qasje në) magjinë(t) që artefakti mund të përdorë. Artefakti ka një rezervuar pikësh fuqie të barabartë me maksimumin normal të pikëve të fuqisë së personazhit tuaj (pas krijimit të artefaktit), cilido që është më i madh. Udhërrëfyesi juaj duhet të caktojë FUQ-në dhe vlerën e pikëve të fuqisë nëse artefakti nuk është krijuar nga personazhi juaj. Kur krijohet artefakti, ju duhet të përcaktoni nëse ai do të jetë personal (vetëm personazhi juaj mund ta përdorë), nëse ai duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë kundrejt pikëve të fuqisë nëse ai ka pikë fuqie, ose nëse dikush mund ta përdorë atë. Shihni **Pajisjet me Magji (Sorcery)** për më shumë informacion.
 
-* **Superfuqitë:** Për të filluar lojën me një vegël (gadget), paguani për fuqitë e veglës sikur ato të vinin nga buxheti juaj i fuqive. Rekomandohet që vegla të jetë në të njëjtin nivel fuqie si pronari i saj, megjithëse udhëheqësi i lojës mund të lejojë një vegël më shumë ose më pak të fuqishme. Udhëheqësi i lojës gjithashtu mund të vendosë të ndryshojë nivelin relativ të veglës dhe personazhit tuaj për qëllime ekuilibri, kështu që nëse vegla është një nivel më e lartë se niveli i fuqisë së fushatës, niveli i fuqisë së personazhit tuaj duhet të zhvendoset një nivel më poshtë, ose anasjelltas. Mund të merrni dështimin e fuqisë “Identiteti me superfuqi duhet të ndizet në një mënyrë të dukshme dhe të parandalueshme” të lidhur me sendin, zakonisht një bonus +1 për buxhetin e fuqisë. Mund të zbatohen dështime të tjera të fuqisë, si “Fuqia ka një numër të kufizuar përdorimesh në ditë”. Gjithashtu, udhëheqësi i lojës mund t'ju lejojë të merrni një dështim të ri të fuqisë: “Fuqia vjen nga një vegël” për një bonus +1 për buxhetin e fuqisë. Sa herë që është e aplikueshme, vegla duhet të mbështetet në aftësinë përkatëse të personazhit tuaj. Shihni **Pajisjet me Superfuqi** për më shumë informacion.
+* **Superfuqitë:** Për të filluar lojën me një vegël (gadget), paguani për fuqitë e veglës sikur të ishin nga buxheti i fuqisë së vetë personazhit tuaj. Rekomandohet që vegla të jetë në të njëjtin nivel fuqie si pronari i saj, ndonëse udhërrëfyesi juaj mund të lejojë një vegël më të fuqishme ose më pak të fuqishme. Udhërrëfyesi juaj gjithashtu mund të vendosë të ndryshojë nivelin relativ të veglës dhe personazhit tuaj për qëllime ekuilibri, kështu që nëse vegla është një nivel më e lartë se niveli i fuqisë së fushatës, niveli i fuqisë së personazhit tuaj duhet të zhvendoset një nivel më poshtë, ose anasjelltas. Ju mund të merrni dështimin e fuqisë "Identiteti i superfuqishëm duhet të ndizet në një mënyrë të dukshme dhe të parandalueshme" të lidhur me artikullin, zakonisht një bonus buxheti fuqie +1. Dështime të tjera të fuqisë mund të zbatohen, si "Fuqia ka një numër të kufizuar përdorimesh në ditë". Gjithashtu, udhërrëfyesi juaj mund t'ju lejojë të merrni një dështim të ri të fuqisë: "Fuqia vjen nga një vegël" për një bonus buxheti fuqie +1. Kurdoherë që është e aplikueshme, vegla duhet të mbështetet në aftësinë përkatëse të personazhit tuaj. Shihni **Pajisjet me Superfuqi** për më shumë informacion.
 
-### Krijimi i pajisjeve
+### Prodhimi i Pajisjeve
 
-Personazhi juaj mund të dëshirojë të ndërtojë realisht një pjesë të pajisjeve, gjë që zakonisht është më e lirë se blerja dhe më pak e rrezikshme se vjedhja. Çdo send që personazhi juaj bën (në krahasim me blerjen) konsiderohet të jetë një nivel vlere më i ulët se çmimi i tij standard. Kjo supozon se personazhi juaj është i aftë në prodhimin e sendit (një vlerësim përkatës aftësie prej 75%+). Kjo supozon se personazhi juaj di se ku të gjejë komponentë të besueshëm me çmime të mira (tregu i zi, porosi me postë, oborri i skrapit, etj.) dhe do të shpenzojë kohë duke testuar dhe vlerësuar materialet për t'u siguruar që ato funksionojnë. Udhëheqësi i lojës suaj mund të kërkojë që ky proces të përfshijë hedhje të tjera aftësish, ose edhe hedhje për Status si më sipër. Koha dhe përpjekja e shpenzuar për mbledhjen e pjesëve dhe/ose lëndëve të para varet nga udhëheqësi i lojës për të përcaktuar, bazuar në sa shumë dëshirojnë të fokusohen tek kjo gjatë lojës.
+Personazhi juaj mund të dëshirojë vërtet të ndërtojë një pjesë të pajisjeve, gjë që zakonisht është më e lirë se blerja e saj dhe më pak e rrezikshme se vjedhja. Çdo artikull që personazhi juaj e bën (në kundërshtim me blerjen) konsiderohet të jetë një nivel vlere më i ulët se çmimi i tij standard. Kjo supozon se personazhi juaj është i aftë në prodhimin e artikullit (një vlerësim përkatës i aftësisë prej 75%+). Kjo supozon se personazhi juaj di se ku të gjejë komponentë të besueshëm me çmime të mira (treg i zi, porosi me postë, vend grumbullimi mbeturinash, etj.), dhe do të shpenzojë kohë duke testuar dhe vlerësuar materialet për t'u siguruar që ato funksionojnë. Udhërrëfyesi juaj mund të kërkojë që ky proces të përfshijë hedhje të tjera të aftësive, ose madje edhe hedhje të Statusit si më sipër. Koha dhe përpjekja e shpenzuar për mbledhjen e pjesëve dhe/ose lëndëve të para varet nga udhërrëfyesi juaj për t'u përcaktuar, bazuar në sa shumë dëshiron ai të fokusohet tek kjo gjatë lojës.
 
-Disa sende nuk mund të formësohen në mënyrë tradicionale nga pjesë të blera në dyqan, si p.sh. kopjimi i veprave unike të artit ose artefakteve si çdo gjë tjetër përveç kopjeve. Megjithëse pjesët individuale mund të jenë të lira për t'u bërë ose gjetur, mjeshtëria ose rrallësia e sendit mund të kufizojë opsionet tuaja. Nëse personazhi juaj nuk është mjaft i aftë, ose dështon në hedhjet përkatëse, kostoja e lëndëve të para dhe komponentëve mund të jetë edhe më e shtrenjtë se sa është sendi në mënyrë tradicionale.
+Disa artikuj nuk mund të krijohen tradicionalisht nga pjesë të blera në dyqan, si p.sh. kopjimi i pjesëve unike të artit ose artefakteve si çdo gjë tjetër përveçse replikave. Ndonëse pjesët individuale mund të jenë të lira për t'u bërë ose gjetur, mjeshtëria ose rrallësia e artikullit mund t'i kufizojë opsionet tuaja. Nëse personazhi juaj nuk është mjaftueshëm i aftë, ose dështon në hedhjet përkatëse, kostoja e lëndëve të para dhe komponentëve mund të jetë edhe më e shtrenjtë se sa artikulli tradicionalisht është.
 
-**Për shembull,** përpjekja për të ndërtuar një makinë nga pjesë të blera me pakicë është një proces që kërkon kohë dhe para, dhe shumë më shumë para e kohë se sa thjesht blerja e një makine. Megjithatë, nëse personazhi juaj është i aftë dhe është në gjendje të përdorë me sukses Pazarimin dhe Kërkimin, ata mund të gjejnë një oborr skrapi ose të jenë në gjendje të pastrojnë të gjitha elementet e nevojshme shumë më lirë se sa të paguajnë çmimin e kërkuar.
+**Për shembull,** përpjekja për të ndërtuar një makinë nga pjesë të blera përmes shitjes me pakicë është shumë kohëshpenzuese dhe e shtrenjtë, dhe kërkon shumë më shumë para dhe kohë se sa blerja e thjeshtë e një makine. Megjithatë, nëse personazhi juaj është i aftë dhe është në gjendje të përdorë Pazarin (Bargain) dhe Kërkimin (Research) me sukses, ata mund të gjejnë një vend grumbullimi mbeturinash ose të jenë në gjendje të grumbullojnë të gjithë elementët e nevojshëm shumë më lirë se sa pagesa e çmimit të kërkuar.
 
-Në fund, i takon udhëheqësit të lojës të vendosë sa kohë duhet për të prodhuar një send të veçantë. Nëse është e nevojshme, duke supozuar se të gjitha pajisjet e kërkuara janë në dorë dhe të gjitha hedhjet përkatëse të aftësive janë të suksesshme: një send që është relativisht i thjeshtë për t'u bërë kërkon një orë për SIZ. Nëse është me kompleksitet mesatar, çdo SIZ kërkon një ditë. Nëse është relativisht kompleks, çdo SIZ është një javë. Nëse është jashtëzakonisht kompleks, çdo SIZ mund të marrë një muaj. Nëse më shumë se një personazh po punon në send, ndajeni SIZ midis tyre. Kur puna ka mbuluar SIZ-in e kërkuar të sendit, ai është i plotë. Përdorni tabelat e ekuivalencës SIZ.
+Në fund të fundit, varet nga udhërrëfyesi juaj të vendosë se sa kohë duhet për të prodhuar një artikull specifik. Nëse është e nevojshme, duke supozuar se të gjitha pajisjet e kërkuara janë në dispozicion dhe të gjitha hedhjet përkatëse të aftësive janë të suksesshme: një artikull që është relativisht i thjeshtë për t'u bërë kërkon një orë për MAD. Nëse është me kompleksitet mesatar, çdo MAD kërkon një ditë. Nëse është relativisht kompleks, çdo MAD është një javë. Nëse është jashtëzakonisht kompleks, çdo MAD mund të kërkojë një muaj. Nëse më shumë se një personazh po punon për artikullin, ndani MAD-in midis tyre. Kur puna ka mbuluar MAD-in e kërkuar të artikullit, ai është i plotë. Përdorni tabelat e ekuivalencës së MAD-it.
 
-**Për shembull,** një mburojë (SIZ 3) është relativisht e lehtë për t'u ndërtuar dhe merr tri orë. Një makinë SIZ 50 është me kompleksitet mesatar dhe merr një personi 50 ditë punë ose dy mekanikëve 25 ditë punë për t'u montuar nga pjesët. Megjithatë, një aeroplan SIZ 110 është jashtëzakonisht kompleks dhe do t'i merrte një personazhi nëntë vjet për ta përfunduar. Udhëheqësi i lojës inkurajohet të modifikojë këto shuma bazuar në pajisjet, objektet dhe cilësinë e sukseseve të hedhura. Për një projekt afatgjatë të tillë, çdo periudhë kohore (një orë, një ditë ose një javë) kërkon një hedhje të veçantë dhe të suksesshme të aftësisë, nëse është e nevojshme një hedhje aftësie.
+**Për shembull,** një mburojë shënjestër (MAD 3) është relativisht e lehtë për t'u ndërtuar dhe kërkon tri orë. Një makinë me MAD 50 është me kompleksitet mesatar dhe kërkon që një person i vetëm të punojë 50 ditë ose dy mekanikë të punojnë 25 ditë për ta montuar nga pjesët. Një avion me MAD 110, megjithatë, është jashtëzakonisht kompleks dhe do t'i kërkonte një personazhi të vetëm nëntë vjet për ta përfunduar. Udhërrëfyesi juaj inkurajohet t'i modifikojë këto shuma bazuar në pajisjet, objektet dhe cilësinë e sukseseve të hedhura. Për një projekt kaq afatgjatë, çdo periudhë kohore (një orë, një ditë ose një javë) kërkon një hedhje të veçantë dhe të suksesshme të aftësisë, nëse kërkohet një hedhje e tillë.
 
-Këto vlera janë abstrakte dhe udhëheqësi i lojës inkurajohet të sigurojë informacion më të saktë mbi kohën e prodhimit, nëse dëshirohet.
+Këto vlera janë abstrakte dhe udhërrëfyesi juaj inkurajohet të ofrojë informacion më të saktë për kohën e prodhimit, nëse dëshirohet.### Modifikuesit e Cilësisë së Pajisjeve
 
-### Modifikuesit e cilësisë së pajisjeve
+Hedhjet e aftësive mund të modifikohen duke pasur pajisje përkatëse dhe të përshtatshme në dispozicion. Pajisjet mund të jenë çdo gjë, nga një komplet vegla për hapjen e bravave, një set veglash mekaniku, një bibliotekë kërkimore, një laborator mjekësor, ose çdo gjë tjetër që është e dobishme dhe e përshtatshme. Cilësia e pajisjeve mund të sigurojë një modifikues për një hedhje aftësie, siç përshkruhet te **Modifikuesit Situacionalë**. Ky modifikues mund të variojë nga pajisjet inferiore që penalizojnë nivelin e aftësisë së karakterit tuaj me –20%, deri te pajisjet e cilësisë superiore që ofrojnë një bonus prej +20%.
 
-Hedhjet e aftësive mund të modifikohen duke pasur pajisje përkatëse dhe të përshtatshme në dorë. Pajisjet mund të jenë çdo gjë nga një komplet lockpicks (zgjedhës bravash), një komplet mjetesh mekaniku, një bibliotekë kërkimore, një laborator mjekësor, ose çdo gjë tjetër që është e dobishme dhe e përshtatshme. Cilësia e pajisjeve mund të sigurojë një modifikues për një hedhje aftësie, siç përshkruhet në **Situational Modifiers** (Modifikuesit Situacional). Ky modifikues mund të variojë nga pajisjet inferiore që penalizojnë vlerësimin e aftësisë së personazhit tuaj me –20%, deri te pajisjet e cilësisë superiore që ofrojnë një bonus +20%.
-
-Shumica e llojeve të pajisjeve ekzistojnë në një shumëllojshmëri të gjerë cilësish. Udhëheqësi i lojës suaj duhet të përcaktojë nëse një pjesë e veçantë e pajisjeve është e disponueshme në një gamë cilësish dhe sa e lehtë ose e shtrenjtë mund të jetë marrja e pajisjeve të thëna. Shumica e pajisjeve që përdor personazhi juaj janë si parazgjedhje të cilësisë mesatare. Megjithatë, ju mund të dëshironi që personazhi juaj të zotërojë ose përdorë pajisje të cilësisë superiore, për të rritur shanset e tyre për sukses me një hedhje përkatëse të aftësisë.
+Shumica e llojeve të pajisjeve ekzistojnë në një shumëllojshmëri cilësish. Gamemaster-i juaj duhet të përcaktojë nëse një pajisje e veçantë është e disponueshme në një gamë cilësish dhe sa e lehtë ose e shtrenjtë mund të jetë për ta siguruar atë pajisje. Shumica e pajisjeve që përdor karakteri juaj janë si parazgjedhje të cilësisë mesatare. Megjithatë, mund të dëshironi që karakteri juaj të zotërojë ose përdorë pajisje të cilësisë superiore, për të rritur shanset e suksesit me një hedhje përkatëse të aftësisë.
 
 Më poshtë është një udhëzues i shpejtë për trajtimin e vlerës dhe disponueshmërisë së niveleve të ndryshme të cilësisë së pajisjeve:
 
@@ -113,1395 +111,1819 @@ Më poshtë është një udhëzues i shpejtë për trajtimin e vlerës dhe dispo
 | Mesatare | Asnjë | Si normalisht |
 | Superiore | +20% | Shtoni një deri në tre nivele vlere |
 
-Për të përdorur këtë tabelë, gjeni vlerën normale të pajisjes (ose konsultohuni me udhëheqësin e lojës). Më pas, përcaktoni cilësinë e sendit që dëshironi për personazhin tuaj. Konsultohuni me kolonën **Vlera dhe Aftësia** për të përcaktuar vlerën përfundimtare të pajisjeve. Vlera dhe disponueshmëria e pajisjeve zakonisht nuk mund të modifikohet përtej limiteve normale. Supozohet se personazhi juaj dëshiron pajisje të mira ose superiore për të rritur vlerësimet e aftësive të tyre, megjithëse nëse buxheti është problem, mund të zgjidhni që personazhi juaj të përdorë pajisje më të përballueshme të cilësisë së ulët.
+Për ta përdorur këtë tabelë, gjeni vlerën normale të pajisjes (ose konsultohuni me Gamemaster-in tuaj). Më pas, përcaktoni cilësinë e artikullit që dëshironi për karakterin tuaj. Konsultoni kolonën **Vlera dhe Aftësia** për të përcaktuar vlerën përfundimtare të pajisjes. Vlera dhe disponueshmëria e një pajisjeje zakonisht nuk mund të modifikohen përtej kufijve normalë. Me sa duket, karakteri juaj dëshiron pajisje të mira ose superiore për të rritur nivelet e aftësive të tyre, megjithëse nëse buxheti është një problem, mund të zgjidhni që karakteri juaj të përdorë pajisje më të përballueshme të cilësisë së ulët.
 
-Sipas gjykimit të udhëheqësit të lojës, vlera dhe/ose modifikues të ndryshëm mund t'u caktohen pajisjeve—vlerat e paraqitura janë udhëzime.
+Sipas gjykimit të Gamemaster-it tuaj, vlera dhe/ose modifikues alternativë mund t'i caktohen pajisjeve—vlerat e paraqitura janë udhëzuese.
 
-Pasja e mjeteve adekuate nuk ofron asnjë modifikues. Megjithatë, nëse personazhi juaj nuk zotëron pajisjet e kërkuara për të përdorur një aftësi të veçantë, udhëheqësi i lojës mund ta bëjë shansin e aftësisë të Vështirë ose të Pamundur, ose thjesht të vendosë që aftësia nuk mund të provohet pa mjetet e duhura.
+Të pasurit pajisje adekuate nuk siguron asnjë modifikues. Megjithatë, nëse karakteri juaj nuk zotëron pajisjet e kërkuara për të përdorur një aftësi të caktuar, Gamemaster-i juaj mund ta bëjë shansin e aftësisë të Vështirë ose të Pamundur, ose thjesht të vendosë që aftësia nuk mund të provohet pa pajisjet e duhura.
 
-**Për shembull,** personazhi juaj ndeshet me një bravë që duhet të hapet. Më poshtë janë disa nga rezultatet për shkak të rrethanave:
+**Për shembull,** karakteri juaj has një bravë që duhet hapur. Më poshtë janë disa nga rezultatet për shkak të rrethanave:
 
-* Mjetet superiore të hapjes së bravave ofrojnë një bonus +20%.
-* Mjetet mesatare nuk ofrojnë asnjë bonus.
-* Mjetet inferiore (të ndryshkura, të thyera, të improvizuara) modifikuan aftësinë me –20%.
+* Veglat superiore të hapjes së bravave dhe mjete të tjera ofrojnë një bonus prej +20%.
 
-Udhëheqësi i lojës mund të deklarojë se aftësia nuk mund të provohet fare nëse personazhi juaj nuk ka as mjetet më elementare të hapjes së bravave. Ata mund të thonë “Nuk mund ta hapësh bravën pa një zgjedhës brave, ose diçka për të futur në bravë. Ndoshta shiko përreth pak më shumë? Mund të gjesh diçka për ta shndërruar në një zgjedhës brave të improvizuar.”
+* Veglat mesatare nuk ofrojnë asnjë bonus.
 
-Udhëheqësi i lojës mund t'i lejojë personazhit tuaj një shans të drejtpërdrejtë prej 1% për sukses, edhe pa mjete. Nëse hedhja është e suksesshme, udhëheqësi i lojës mund të thotë: “Ti arrin ta lëkundësh mekanizmin e bravës para-mbrapa derisa dëgjon një kërcitje të lehtë. Ose ia dole ta hapësh duke aplikuar vibracionet e duhura, ose nuk ishte mbyllur siç duhet në vend të parë. Sido që të jetë, ishte fat i jashtëzakonshëm.”
+* Veglat inferiore (të ndryshkura, të thyera, të improvizuara) modifikuan aftësinë me –20%.
 
-Mos harroni se modifikuesit situacionalë për një vlerësim aftësie zbatohen pas dyfishimit të një modifikuesi të Lehtë ose përgjysmimit të një modifikuesi të Vështirë.
+Gamemaster-i juaj mund të deklarojë se aftësia nuk mund të provohet fare nëse karakteri juaj nuk ka as mjetet më elementare të hapjes së bravave. Ata mund të thonë: "Nuk mund ta hapësh bravën pa një mjete hapëse, ose ndonjë gjë për ta futur brenda bravës. Ndoshta shiko përreth pak më shumë? Mund të gjesh diçka për ta kthyer në një mjet të improvizuar hapës."
+
+Gamemaster-i juaj mund t'i lejojë karakterit tuaj një shans të drejtpërdrejtë prej 1% për sukses, edhe pa mjete. Nëse hedhja është e suksesshme, Gamemaster-i juaj mund të thotë: "Ia del të lëvizësh mekanizmin e bravës para e mbrapa derisa dëgjon një kërcitje të lehtë. Ose ia dole ta zhbllokosh duke aplikuar dridhjet e duhura, ose nuk ishte mbyllur siç duhet që në fillim. Sido që të jetë, ishte fat i jashtëzakonshëm."
+
+Mbani mend se modifikuesit situacionalë ndaj një niveli aftësie zbatohen pasi modifikuesi i Lehtë të dyfishohet ose i Vështiri të përgjysmohet.
 
 ### Aftësitë dhe Pajisjet
 
-Shumë aftësi kërkojnë pajisje për t'u përdorur me sukses, ose janë përmirësuar shumë me pajisje. Siç u përmend më parë, disa aftësi penalizohen për mungesë pajisjesh. Pajisjet e nevojshme për një aftësi të veçantë ndryshojnë sipas mjedisit dhe udhëheqësi i lojës mund të ofrojë më shumë detaje mbi këtë temë. Tabela **Skills & Equipment** (Aftësitë dhe Pajisjet) përshkruan pajisjet e mundshme të specializuara ose të përgjithshme për t'u përdorur me aftësitë. Nëse aftësia nuk është e listuar, ajo nuk kërkon ndonjë pajisje, ose është e qartë (si p.sh. aftësitë e armëve).
+Shumë aftësi kërkojnë pajisje për t'u përdorur me sukses, ose përmirësohen shumë me pajisje. Siç u përmend më parë, disa aftësi penalizohen për mungesë pajisjesh. Pajisjet e nevojshme për një aftësi të caktuar ndryshojnë sipas mjedisit, dhe Gamemaster-i juaj mund të japë më shumë detaje për këtë temë. Tabela **Aftësitë & Pajisjet** përshkruan pajisje të mundshme të specializuara ose të përgjithshme për t'u përdorur me aftësitë. Nëse aftësia nuk është e listuar, ajo nuk kërkon asnjë pajisje, ose është e dukshme (si p.sh. aftësitë e armëve).
 
-**Other Equipment** (Pajisje të tjera) përmban informacion shtesë mbi pajisjet e dobishme, duke përfshirë komplete mostër që personazhi juaj mund t'i përdorë.
+**Pajisje të Tjera** përmban informacion shtesë mbi pajisjet e dobishme, duke përfshirë komplete shembullore që karakteri juaj mund të përdorë.
 
-> ##### Aftësitë dhe Pajisjet
+> ##### Aftësitë & Pajisjet
 > 
-> | Aftësia | Pajisje të mundshme |
+> | Aftësia | Pajisje të Mundshme |
 > | :---- | :---- |
-> | Vlerësimi | Asnjë, ose materiale referuese, pajisje matëse, xham zmadhues, etj. |
-> | Arti | Sipas mediumit (bojëra, kompjuter, holo-imazher, bojë me spërkatje, makinë shkrimi, etj.). |
-> | Ngjitja | Asnjë, ose litar, kunja, kramponë, etj. |
-> | Zejtaria | Pothuajse çdo specialitet i Zejtarisë përdor pajisjet ose mjetet e veta. |
-> | Maskimi | Makeup, paruke, ndërrime kostumesh, etj. |
-> | Manipulimi i imët | Asnjë, ose mjete precize. |
-> | Ndihma e parë | Asnjë, ose komplet bazë i ndihmës së parë dhe fasho. |
-> | Lojërat | Asnjë, ose letra, zare, tabelë loje, etj. |
-> | Njohuria | Asnjë, ose materiale referuese. |
-> | Gjuha | Asnjë, ose fjalor gjuhësor. |
-> | Shkrim-leximi | Asnjë, ose fjalor gjuhësor. |
-> | Mjekësia | Ndryshon sipas mjedisit, duke filluar nga materialet e herbalistit deri te pajisjet spitalore moderne dhe farmaceutikët. |
-> | Lundrimi | Asnjë, ose harta, astrolab, busull, etj. |
-> | Riparimi | Asnjë, ose mjete të përshtatshme për llojin e riparimit. |
-> | Kërkimi | Asnjë, ose bibliotekë kërkimore dhe materiale referuese. |
-> | Shkenca | Asnjë, ose instrumente shkencore dhe materiale referuese. |
-> | Mësimdhënia | Materiale edukative të përshtatshme për lëndën. |
+> | Vlerësim | Asnjë, ose materiale referimi, pajisje matëse, xham zmadhues, etj. |
+> | Art | Sipas mediumit (bojëra, kompjuter, imazher-holo, bojë spërkatëse, makinë shkrimi, etj.). |
+> | Ngjitje | Asnjë, ose litar, gozhdë shkëmbi, kramponë, etj. |
+> | Zejtari | Pothuajse çdo specialitet Zejtarie përdor pajisjet ose veglat e veta. |
+> | Maskim | Grim, paruke, ndryshime kostumesh, etj. |
+> | Manipulim i Imët | Asnjë, ose mjete precize. |
+> | Ndihma e Parë | Asnjë, ose komplet bazë i ndihmës së parë dhe fasho. |
+> | Lojëra | Asnjë, ose letra, zare, tabelë loje, etj. |
+> | Njohuri | Asnjë, ose materiale referimi. |
+> | Gjuhë | Asnjë, ose një fjalor gjuhësor. |
+> | Arsimim | Asnjë, ose një fjalor gjuhësor. |
+> | Mjekësi | Ndryshon sipas mjedisit, nga materialet e baristeve deri te facilitetet spitalore të teknologjisë së fundit dhe farmaceutikët. |
+> | Navigim | Asnjë, ose harta, astrolab, busull, etj. |
+> | Riparim | Asnjë, ose mjete të përshtatshme për llojin e riparimit. |
+> | Kërkim | Asnjë, ose bibliotekë kërkimore dhe materiale referimi. |
+> | Shkencë | Asnjë, ose instrumente shkencore dhe materiale referimi. |
+> | Mësimdhënie | Materiale edukative të përshtatshme për lëndën. |
 > | Aftësi Teknike | Asnjë, ose materiale të përshtatshme për aftësi specifike. |
 
 ### Pajisjet me Karakteristika
 
-Disa pajisje kanë vlera karakteristike: qoftë vlera në të gjitha karakteristikat, disa, ose vetëm një. Disa nuk kanë asnjë. Kjo ndryshon nga sendi në send, por nëse një send ka një cilësi që kërkon një hedhje rezistence, ai duhet të ketë një vlerë karakteristike. Për pajisjet me karakteristika, udhëzimet e mëposhtme përshkruajnë se si funksionojnë këto vlera kur zbatohen në objekte:
+Disa pajisje kanë vlera karakteristikash: qoftë vlera në të gjitha karakteristikat, disa, ose vetëm një. Disa nuk kanë asnjë. Kjo ndryshon nga artikulli në artikull, por nëse një artikull ka një cilësi që kërkon një hedhje rezistence, ai duhet të ketë një vlerë karakteristike. Për pajisjet me karakteristika, udhëzimet e mëposhtme përshkruajnë se si funksionojnë këto vlera kur aplikohen te objektet:
 
-* **Forca (STR):** Një send me STR duhet të ketë ndonjë mjet lëvizjeje. STR nuk është një masë e asaj se sa rezistent është diçka ndaj STR: për atë vlerë, shihni pikët e goditjes ose vlerën e parzmores. Sendet me STR janë automjete, pajisje ndërtimi si pirunë ngarkimi ose buldozerë, robotë, ose edhe çikrikë hidraulikë.
+* **Forca (FOR):** Një artikull me FOR duhet të ketë ndonjë mjet lëvizjeje. FOR nuk është një masë se sa rezistent është diçka ndaj FOR: për atë vlerë, shihni pikët e goditjes ose vlerën e armaturës. Artikujt me FOR janë automjete, pajisje ndërtimi si pirunë apo buldozerë, robotë, ose madje edhe kriko hidraulikë.
 
-* **Kushtetuta (CON):** Një send me CON është i rrallë—totalet e pikëve të goditjes zakonisht bazohen në SIZ të papërpunuar dhe modifikohen nga vlera e parzmores. Përveç nëse mund të shërohet ose preket nga sëmundje, helm, etj., nuk kërkon CON. Shembuj sendesh me CON do të ishin androidët humanoidë.
+* **Qëndrueshmëria (QEN):** Një artikull me QEN është i rrallë—totalet e pikëve të goditjes zakonisht bazohen në MAD bruto dhe modifikohen nga vlera e armaturës. Përveç nëse mund të shërohet ose ndikohet nga sëmundje, helme, etj., ai nuk kërkon QEN. Artikuj shembull me QEN do të ishin androidët humanoidë.
 
-* **Madhësia (SIZ):** SIZ është karakteristika kryesore për një send—pothuajse çdo gjë ka prani fizike dhe për rrjedhojë SIZ. Siç u theksua më sipër, për shumicën e pajisjeve, SIZ përcakton vlerat e pikëve të goditjes. Ndonjëherë një send do të ketë më shumë pikë goditjeje, bazuar në atë se prej çfarë është bërë. Shihni **General Qualities of Objects** për më shumë mbi pikët e goditjes, vlerën e parzmores dhe atribute të tjera.
+* **Madhësia (MAD):** MAD është karakteristika kryesore për një artikull—pothuajse gjithçka ka prani fizike dhe rrjedhimisht MAD. Siç u përmend më lart, për shumicën e pajisjeve, MAD përcakton vlerat e pikëve të goditjes. Ndonjëherë një artikull do të ketë më shumë pikë goditjeje, bazuar në atë se prej çfarë është bërë. Shihni **Cilësitë e Përgjithshme të Objekteve** për më shumë mbi pikët e goditjes, vlerën e armaturës dhe atribute të tjera.
 
-* **Inteligjenca (INT):** E rrallë për një send, INT përfaqëson mendimin, duke nënkuptuar intuitën dhe zgjidhjen e problemeve. INT nuk ka gjasa për sende të tjera përveç kompjuterëve ose inteligjencave artificiale, por sendet magjike mund të kenë INT dhe personalitete përkatëse. Një send me INT duhet idealisht të ketë ndonjë mjet komunikimi, si një ekran, zë, telepati ose metodë tjetër për të përcjellë informacionin.
+* **Zgjuarsia (ZGJ):** E rrallë për një artikull, ZGJ përfaqëson mendimin, duke nënkuptuar intuitën dhe zgjidhjen e problemeve. ZGJ është e pamundur për artikuj të tjerë përveç kompjuterëve ose inteligjencave artificiale, por artikujt magjikë mund të kenë ZGJ dhe personalitete shoqëruese. Një artikull me ZGJ duhet idealisht të ketë ndonjë mjet komunikimi, si një ekran, ekzhibicion, zë, telepati, ose metodë tjetër për transmetimin e informacionit.
 
-* **Fuqia (POW):** POW përfaqëson energjinë shpirtërore dhe është pothuajse ekskluzive për qeniet e gjalla ose krijimet magjike. Kjo nuk përfaqëson një burim fuqie—kjo është ose mekanike (një rezervë pikësh fuqie) ose duke përdorur superfuqinë Extra Energy (Energji Shtesë).
+* **Fuqia (FUQ):** FUQ përfaqëson energjinë shpirtërore, dhe është pothuajse ekskluzive për qeniet e gjalla ose krijimet magjike. Kjo nuk përfaqëson një burim energjie—kjo është ose mekanike (një rezervë pikësh energjie) ose duke përdorur super-fuqinë Energji Shtesë.
 
-* **Shkathtësia (DEX):** Çdo send i aftë për lëvizje të pavarur duhet të ketë DEX. Nëse një send me DEX duhet të operohet nga personazhi juaj, përdorni DEX më të ulët ose të personazhit tuaj ose të sendit.
+* **Shkathtësia (SHK):** Çdo artikull i aftë për lëvizje të pavarur duhet të ketë SHK. Nëse një artikull me SHK duhet të operohet nga karakteri juaj, përdorni SHK-në më të ulët të karakterit tuaj ose të artikullit.
 
-* **Karizma (CHA):** Ndërsa CHA ka elemente të personalitetit dhe karizmës personale të përfshira, për një send mund të jetë ose tërheqja estetike, ose mund të përfaqësojë se sendi është i aftë për komunikim dhe sharm. Arsyeja kryesore për t'i caktuar CHA një sendi inanimat është të krahasosh pamjen e tij me një send tjetër.
+* **Karakteri (KAR):** Ndërsa KAR ka elemente të personalitetit dhe karizmës personale të përfshira, për një artikull ai mund të jetë ose tërheqja estetike, ose mund të përfaqësojë se artikulli është i aftë për komunikim dhe sharm. Arsyeja kryesore për t'i caktuar KAR një artikulli jo të gjallë është për të krahasuar pamjen e tij me një artikull tjetër.
 
-* **Arsimimi (EDU) (Opsion):** Përveç përfaqësimit të trajnimit ose njohurive të shkarkuara për një kompjuter që mendon, EDU përdoret më së miri për pajisje me rezerva njohurish. Zakonisht një send i tillë ose shton një bonus në aftësinë e Kërkimit të personazhit tuaj, ose mund t'i bëjë hedhjet për aftësi të Lehta ose të Vështira. Kur caktohet në një send, EDU qëndron për të dhënat të cilave u ka akses të menjëhershëm. Kjo shifër zgjerohet në mënyrë dramatike me ardhjen e ruajtjes së informacionit dhe aksesit në internet në baza të dhënash.
+* **Arsimimi (EDU) (Opsion):** Përveç përfaqësimit të trajnimit ose njohurive të shkarkuara për një kompjuter mendues, EDU përdoret më së miri për pajisje me rezerva njohurish. Zakonisht një artikull i tillë ose shton një bonus në aftësinë Kërkim të karakterit tuaj, ose mund t'i bëjë hedhjet e aftësive të Lehta ose të Vështira. Kur caktohet te një artikull, EDU qëndron për të dhënat që ai ka qasje të menjëhershme. Kjo shifër zgjerohet në mënyrë dramatike me shfaqjen e ruajtjes së informacionit dhe qasjes online në baza të dhënash.
 
-Siç u theksua më sipër, nuk është thelbësore që çdo pjesë e pajisjeve ose sendit të ketë karakteristika përveç nëse ato janë të nevojshme. Nëse gjatë lojës keni nevojë për një vlerë që nuk është përcaktuar, gjenerojeni atë me një hedhje të numrit përkatës të D6-ve ose caktojini asaj një vlerë bazuar në pjesë të ngjashme të pajisjeve.
+Siç u përmend më lart, nuk është thelbësore që çdo pjesë e pajisjes ose artikullit të ketë karakteristika përveç nëse ato janë të nevojshme. Nëse gjatë lojës, ju duhet një vlerë që nuk është përcaktuar, gjenerojeni atë me një hedhje të një numri të përshtatshëm zaresh D6 ose caktojini një vlerë bazuar në pjesë të ngjashme pajisjesh.
 
-Ju madje mund ta përcaktoni vlerën me një hedhje për Status:
+Madje mund ta përcaktoni vlerën me një hedhje Statusi:
 
-| Rezultati i hedhjes së Statusit | Vlera |
+| Rezultati i Hedhjes së Statusit | Vlera |
 | :---- | :---- |
-| Dështim kritik (Fumble) | 1 |
+| Gabim (Fumble) | 1 |
 | Dështim | 1D6 |
 | Sukses | 2D6 |
-| Sukses i veçantë | 2D6+6 |
-| Sukses kritik | 2D6+12 |
+| Sukses Special | 2D6+6 |
+| Sukses Kritik | 2D6+12 |
 
 ### Pajisjet me Aftësi
 
-Disa pajisje mund të posedojnë aftësi, të trajtuara pikërisht si aftësitë e personazhit. Çdo pjesë e pajisjeve e aftë për veprim të pavarur mund të ketë një aftësi. Disa shembuj mund të jenë sistemet e automatizuara të mbrojtjes me aftësinë Artileri; programet arsimore duke përdorur Mësimdhënien; sistemet diagnostikuese duke përdorur Riparimin; etj. Në përgjithësi, sa më inteligjente të jetë një pjesë e pajisjeve, aq më shumë gjasa ka të ketë një ose më shumë aftësi.
+Disa pajisje mund të zotërojnë aftësi, të trajtuara pikërisht si aftësitë e karakterit. Çdo pjesë pajisjeje e aftë për veprim të pavarur mund të ketë një aftësi. Disa shembuj mund të jenë sistemet e mbrojtjes së automatizuar me aftësinë Artileri; programet edukative që përdorin Mësimdhënie; sistemet diagnostikuese që përdorin Riparim; etj. Në përgjithësi, sa më inteligjente të jetë një pajisje, aq më shumë ka gjasa të ketë një ose më shumë aftësi.
 
-Udhëheqësi i lojës suaj duhet të vendosë vlerat e këtyre aftësive, bazuar në natyrën e pjesës së pajisjeve. Nëse ka një karakteristikë të lidhur me aftësinë (për shembull, INT dhe aftësitë e Njohurisë), niveli i aftësisë së saj mund të jetë një shumëfish i asaj karakteristike (×1, ×3, ×5, etj.), varësisht se sa efikase është. **Other Equipment** (Pajisje të tjera) ofron shembuj të pajisjeve me aftësi. Nëse sendi mund të flasë ose të lexojë, ai duhet të ketë një aftësi Gjuhe—zakonisht gjuhën amtare të pronarit ose krijuesit.
+Gamemaster-i juaj duhet të vendosë vlerat e këtyre aftësive, bazuar në natyrën e pajisjes. Nëse ka një karakteristikë të lidhur me aftësinë (për shembull, ZGJ dhe aftësitë e Njohurive), niveli i aftësisë së tij mund të jetë një shumëfish i asaj karakteristike (×1, ×3, ×5, etj.), varësisht nga sa efikas është. **Pajisje të Tjera** ofron shembuj të pajisjeve me aftësi. Nëse artikulli mund të flasë ose të lexojë, ai duhet të ketë një aftësi Gjuhë—zakonisht gjuhën amtare të pronarit ose krijuesit.
 
-Për të filluar lojën me një send që posedon aftësi, 'paguani' për pikët e aftësive të sendit nga grupi personal i pikëve të aftësive të personazhit tuaj (nga **Hapi i Shtatë** i krijimit të personazhit) ose nga grupi profesional nëse sendi është i rëndësishëm për performancën e profesionit të tyre.
+Për të filluar lojën me një artikull që zotëron aftësi, "paguani" për pikët e aftësisë së artikullit nga grupi personal i pikëve të aftësisë së karakterit tuaj (nga **Hapi i Shtatë** i krijimit të karakterit) ose grupi profesional nëse artikulli është i rëndësishëm për performancën e profesionit të tyre.
 
-Përndryshe, mund ta trajtoni sendin sikur të kishte superfuqi (shih Kapitullin e Katërt: Fuqitë) dhe ta blini sendin sikur të ishte një fuqi. Në këtë rast, zbatohen kushtet e mëposhtme:
+Përndryshe, mund ta trajtoni artikullin sikur të kishte superfuqi (shih Kapitullin Katër: Fuqitë) dhe ta blini artikullin sikur të ishte një fuqi. Në këtë rast, zbatohen kushtet e mëposhtme:
 
-* Sendi ka dështimin e personazhit “Identiteti me superfuqi duhet të ndizet në një mënyrë të dukshme dhe të parandalueshme” të lidhur me sendin, zakonisht një bonus +1 për buxhetin e fuqisë.
-* Mund të zbatohen dështime të tjera të fuqisë, si “Fuqia ka një numër të kufizuar përdorimesh në ditë” ose “Fuqia nuk mund të përmirësohet përmes përvojës”.
-* Aftësitë blihen me fuqinë Super Aftësi. Supozohet se të gjitha sendet kanë një vlerësim fillestar aftësie prej 0%.
-* Nëse nuk ekzistojnë atribute të dukshme për sendin, punoni me udhëheqësin e lojës për të përcaktuar furnizimin e tij me energji, rrezen, etj. Superfuqitë shtesë mund të blihen për të përmirësuar këto atribute.
+* Artikulli ka të metën "Identiteti me superfuqi duhet të aktivizohet në një mënyrë të dukshme dhe të parandalueshme" të lidhur me artikullin, zakonisht një bonus prej +1 në buxhetin e fuqisë.
+* Të meta të tjera të fuqisë mund të zbatohen, si "Fuqia ka një numër të kufizuar përdorimesh në ditë" ose "Fuqia nuk mund të përmirësohet përmes përvojës."
+* Aftësitë blihen me fuqinë Super Aftësi. Supozohet se të gjithë artikujt kanë një nivel fillestar aftësie prej 0%.
+* Nëse nuk ekzistojnë atribute të dukshme për artikullin, punoni me Gamemaster-in tuaj për të përcaktuar furnizimin e tij me energji, rrezen, etj. Superfuqi shtesë mund të blihen për të përmirësuar këto atribute.
 
-Nëse investoni pikë në një send, do të dëshironi ta keni atë në dispozicion. Udhëheqësi i lojës suaj duhet të bëjë gjithçka që mundet për t'u siguruar që sendi juaj mbijeton me personazhin tuaj, është lehtësisht i riparueshëm, ose një zëvendësues mund të gjendet lehtësisht, sipas vlerës së tij dhe mjedisit. Pavarësisht faktit se është një send i dallueshëm, ai konsiderohet të jetë pjesë e personazhit tuaj, ashtu si aftësia ose fuqia e një personazhi tjetër, dhe heqja e tij nga zotërimi i personazhit tuaj duhet të bëhet me shumë kujdes, përveç nëse është e pashmangshme.
+Nëse investoni pikë në një artikull, do të dëshironi ta keni atë në dispozicion. Gamemaster-i juaj duhet të bëjë gjithçka që mundet për t'u siguruar që artikulli juaj mbijeton me karakterin tuaj, është lehtësisht i riparueshëm, ose një zëvendësues mund të gjendet lehtësisht, sipas vlerës së tij dhe mjedisit. Pavarësisht faktit se është një artikull i dallueshëm, ai konsiderohet të jetë pjesë e karakterit tuaj, ashtu si aftësia ose fuqia e një karakteri tjetër, dhe heqja e tij nga posedimi i karakterit tuaj duhet të bëhet me kujdes ekstrem, përveç nëse është e pashmangshme.
 
-Sendet me aftësi nuk e rrisin vlerësimin e tyre të aftësisë përmes përdorimit të suksesshëm të përvojës, përveç nëse sendi ka një INT dhe udhëheqësi i lojës suaj përcakton se është i aftë të mësojë në ndonjë mënyrë.
+Artikujt me aftësi nuk e rrisin nivelin e aftësisë së tyre përmes përdorimit të suksesshëm të përvojës, përveç nëse artikulli ka një ZGJ dhe Gamemaster-i juaj përcakton se ai është i aftë të mësojë në një farë mënyre.### Pajisjet me Fuqi
 
-### Pajisjet me Fuqi
+Një pajisje mund të ketë veti përtej aftësive të saj normale dhe, me lejen e mjeshtrit tuaj të lojës, personazhi juaj mund të blejë një artikull ose pajisje me një fuqi siç përshkruhet në Kapitullin Katër: Fuqitë. Për më tepër, mjeshtri juaj i lojës mund të zgjedhë ta përfaqësojë një pajisje në terma të një fuqie për të lehtësuar përcaktimin e efektivitetit të saj kundër një personazhi me fuqi, dhe anasjelltas. Kjo është zakonisht e nevojshme vetëm në fushata që përdorin fuqi, pasi normalisht atributet bazë për një artikull janë të mjaftueshme.
 
-Një pjesë e pajisjeve mund të ketë veti përtej aftësive të saj normale dhe, me lejen e udhëheqësit të lojës, personazhi juaj mund të blejë një send ose pjesë të pajisjeve me një fuqi siç përshkruhet në Kapitullin e Katërt: Fuqitë. Për më tepër, udhëheqësi i lojës suaj mund të zgjedhë të përfaqësojë një pjesë të pajisjeve në terma të një fuqie për lehtësinë e përcaktimit të efektivitetit të saj kundër një personazhi me fuqi, dhe anasjelltas. Kjo është zakonisht e nevojshme vetëm në fushata që përdorin fuqi, pasi normalisht atributet bazë për një send janë të mjaftueshme.
+Më poshtë janë udhëzimet për pajisjet me fuqi, bazuar në sistemet e fuqive në Kapitullin Katër: Fuqitë.
 
-Më poshtë janë udhëzimet për pajisjet me fuqi, bazuar në sistemet e fuqisë në Kapitullin e Katërt: Fuqitë.
+**Artikujt Magjikë:** Një pajisje me një ose më shumë magji quhet artikull magjik. Ky artikull duket magjik për këdo që është në gjendje të zbulojë gjëra të tilla dhe i lejon pronarit të hedhë një magji sikur të ishte në gjendje ta hidhte vetë. Artikulli magjik duhet të ketë një vlerësim aftësie me magjinë. Shumica e artikujve magjikë kanë kapacitetin e tyre të pikëve të fuqisë, ndërsa artikujt magjikë më të rrallë përdorin pikët e fuqisë të pronarit si rezervuar.
 
-**Sendet Magjike:** Një pjesë e pajisjeve me një ose më shumë magji quhet send magjik. Ky send duket magjik për këdo që është në gjendje të zbulojë gjëra të tilla dhe i lejon pronarit të hedhë një magji sikur të ishte në gjendje ta hidhte vetë. Sendi magjik duhet të ketë një vlerësim aftësie me magjinë. Shumica e sendeve magjike kanë një kapacitet pikësh fuqie të tyre, ndërsa sendet magjike më të rralla përdorin pikët e fuqisë së pronarit si rezervuar.
+* Një artikull magjik është i padobishëm nëse arrin 0 pikë fuqie, megjithëse mund të rimbushet. Për të rimbushur një artikull magjik, përdoruesi mund të lëvizë 1 pikë fuqie nga trupi i tij në artikullin magjik çdo raund luftimi.
+* Një artikull magjik mund të mbajë deri në dyfishin e pikëve të tij maksimale të fuqisë. Këto pikë shtesë fuqie zhduken ashtu siç ndodh me një personazh lojtar.
+* Çdo magji që hedh artikulli ndjek të gjitha rregullat për magjinë përkatëse.
+* Kur krijohet artikulli magjik, mjeshtri juaj i lojës duhet të përcaktojë nëse vetëm krijuesi mund ta përdorë atë, nëse duhet të mposhtet në një hedhje rezistence pikë fuqie kundrejt pikëve të fuqisë, apo nëse çdokush mund ta përdorë atë.
+* Artikulli ka pikët normale të goditjes (bazuar në MAD) dhe atributet e një versioni përkatës jo-magjik.
+* Pikët e goditjes të artikullit kufizojnë numrin e pikëve të fuqisë që mund të ruajë. Ndërsa merr dëme, pikët maksimale të fuqisë që mund të ruajë reduktohen. Artikulli mund të riparohet normalisht, megjithëse nëse është i thyer ose i shkatërruar, ai nuk është më magjik dhe mbetet një artikull normal.
+* Nëse një artikull magjik shkatërrohet, çdo FUQ e shpenzuar për të humbet.
+* Një artikull magjik mund të ketë një ose më shumë magji të përhershme të lidhura në të që janë gjithmonë aktive, por krijimi i një artikulli të tillë kushton pesë herë më shumë se kostoja normale e FUQ-së. Mjeshtri juaj i lojës duhet të përcaktojë nëse një magji mund të hidhet përgjithmonë mbi një artikull. Nëse krijohet ky artikull, ai nuk kërkon pikë fuqie dhe është thjesht gjithmonë i ndezur në fuqi të plotë.
 
-* Një send magjik është i padobishëm nëse arrin 0 pikë fuqie, megjithëse mund të rimbushet. Për të rimbushur një send magjik, përdoruesi mund të lëvizë 1 pikë fuqie nga trupi i tij në sendin magjik çdo raund luftimi.
-* Një send magjik mund të mbajë deri në dyfishin e pikëve të tij maksimale të fuqisë. Këto pikë fuqie shtesë zhduken siç ndodh me një personazh lojtar.
-* Çdo magji që hedh sendi ndjek të gjitha rregullat në lidhje me magjinë përkatëse.
-* Kur krijohet sendi magjik, udhëheqësi i lojës suaj duhet të përcaktojë nëse vetëm krijuesi mund ta përdorë, nëse duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë vs. pikëve të fuqisë, ose nëse kushdo mund ta përdorë.
-* Sendi ka pikët normale të goditjes (bazuar në SIZ) dhe atributet e një versioni përkatës jo-magjik.
-* Pikët e goditjes së sendit kufizojnë numrin e pikëve të fuqisë që mund të ruajë. Ndërsa merr dëme, pikët maksimale të fuqisë që mund të ruajë reduktohen. Sendi mund të riparohet normalisht, megjithëse nëse është i thyer ose i shkatërruar, ai nuk është më magjik dhe mbetet një send normal.
-* Nëse një send magjik shkatërrohet, çdo POW i shpenzuar për të humbet.
-* Një send magjik mund të ketë një ose më shumë magji të përhershme të lidhura në të që janë gjithmonë aktive, por krijimi i një sendi të tillë kushton pesë herë më shumë se kostoja normale e POW. Udhëheqësi i lojës suaj duhet të përcaktojë nëse një magji mund të hidhet përgjithmonë në një send. Nëse ky send krijohet, ai nuk kërkon pikë fuqie dhe është thjesht gjithmonë i ndezur me forcë të plotë.
+**Artikujt e Mutuar:** Artikujt me mutacione janë mjaft të rrallë, pasi mutacionet tradicionalisht shkaktohen përmes variancës gjenetike dhe pak artikuj jo të gjallë krijohen përmes manipulimit gjenetik.
 
-**Sendet e Mutuara:** Sendet me mutacione janë mjaft të rralla, pasi mutacionet shkaktohen tradicionalisht përmes variancës gjenetike dhe pak sende inanimat krijohen përmes manipulimit gjenetik.
+* Një artikull mund të ketë një ose më shumë mutacione të dëmshme.
+* Artikulli ka pikët normale të goditjes (bazuar në MAD) dhe atribute të tjera të një versioni normal, përveç nëse mutacioni ndikon në këto karakteristika.
+* Çdo hedhje karakteristikash që duhet të bëjë artikulli bazohet në karakteristikat e krijuesit nëse ai nuk ka karakteristikën e vet.
+* Një artikull i mutuar konsiderohet të jetë i gjallë dhe shërohet me të njëjtën shpejtësi si krijuesi i tij.
+* Një artikull i mutuar mund të përdoret nga kushdo që bën një hedhje të suksesshme të Qëndrueshmërisë.
+* Çdo QEN dhe mutacion i investuar në një artikull të mutuar humbet nëse ai shkatërrohet.
 
-* Një send mund të ketë një ose më shumë mutacione negative.
-* Sendi ka pikët normale të goditjes (bazuar në SIZ) dhe atribute të tjera të një versioni normal, përveç nëse mutacioni ndikon në këto karakteristika.
-* Çdo hedhje karakteristike që duhet të bëjë sendi bazohet në karakteristikat e krijuesit nëse ai nuk ka karakteristikat e veta.
-* Një send i mutuar konsiderohet të jetë i gjallë dhe shërohet me të njëjtin ritëm si krijuesi i tij.
-* Një send i mutuar mund të përdoret nga kushdo që bën një hedhje të suksesshme të Stamina (Qëndrueshmëria).
-* Çdo CON dhe mutacion i investuar në një send të mutuar humbet nëse ai shkatërrohet.
+**Pajisjet me Aftësi Psikike:** Artikujt me aftësi psikike janë tepër të rrallë, madje më shumë se artikujt me mutacione. Këta artikuj janë në mënyrë të pashmangshme të ngarkuar me fuqi psikike dhe duhet të kenë të paktën FUQ. Një personazh me ndonjë aftësi psikike e njeh automatikisht se një artikull ka aftësi psikike dhe, me një hedhje Ideje, mund ta përdorë atë. Një personazh pa aftësi psikike mund të përcaktojë vetëm nëse një artikull ka veti psikike me një hedhje të suksesshme Ideje, dhe duhet ose ta mposhtë artikullin në një hedhje rezistence pikë fuqie kundrejt pikëve të fuqisë, ose një hedhje të Vështirë të Fatit. Krijuesi i artikullit (ose mjeshtri juaj i lojës) vendos se kush mund ta përdorë artikullin.
 
-**Pajisjet me Aftësi Psikike:** Sendet me aftësi psikike janë tepër të rralla, madje më shumë se sendet me mutacione. Këto sende janë pashmangshmërisht të mbushura me fuqi psikike dhe duhet të kenë të paktën POW. Një personazh me çdo aftësi psikike njeh automatikisht se një send ka aftësi psikike, dhe me një hedhje për Ide, mund ta përdorë atë. Një personazh pa aftësi psikike mund të përcaktojë vetëm nëse një send ka veti psikike me një hedhje të suksesshme për Ide, dhe duhet ose ta mposhtë sendin në një hedhje rezistence të pikëve të fuqisë vs. pikëve të fuqisë ose një hedhje të vështirë për Fat. Krijuesi i sendit (ose udhëheqësi i lojës suaj) vendos se kush mund ta përdorë sendin.
+* Artikulli ka pikët normale të goditjes (bazuar në MAD) dhe atribute të tjera të një versioni normal të atij artikulli.
+* Artikujt psikikë nuk janë të gjallë dhe mund të dëmtohen. Ata nuk shërohen natyrshëm, por mund të riparohen me një hedhje të aftësisë përkatëse Artizanat ose Riparim. Kur shkatërrohen, ata pushojnë së funksionuari. Nëse një artikull psikik thyhet në më shumë se një pjesë, mjeshtri juaj i lojës vendos se cila pjesë, nëse ka, ruan aftësinë psikike.
 
-* Sendi ka pikët normale të goditjes (bazuar në SIZ) dhe atribute të tjera të një versioni normal të atij sendi.
-* Sendet psikike nuk janë të gjalla dhe mund të dëmtohen. Ato nuk shërohen natyrshëm, por mund të riparohen me një hedhje të aftësisë përkatëse Zejtari ose Riparim. Kur ato shkatërrohen, ato pushojnë së funksionuari. Nëse një send psikik thyhet në më shumë se një pjesë, udhëheqësi i lojës suaj vendos se cila pjesë, nëse ka, ruan aftësinë psikike.
+**Pajisjet me Magji (Sorcery):** Një pajisje me një ose më shumë magji të llojit "sorcery" quhet **artefakt**. Ky artefakt duket se ka veti magjike për këdo që është në gjendje të zbulojë gjëra të tilla dhe i lejon personazhit tuaj të hedhë një magji "sorcery" sikur të mund ta hidhte vetë, ose artikulli e ka magjinë të hedhur mbi veten përgjithmonë. Shumica e artefakteve kanë një rezervuar pikësh fuqie të tyre, ndërsa artefaktet më të rralla tërheqin nga pikët e fuqisë të vetë përdoruesit.
 
-**Pajisjet me Sorcery (Magji të zezë):** Një pjesë e pajisjeve me një ose më shumë magji sorcery quhet **artefakt**. Ky artefakt duket se ka veti sorcerous për këdo që është në gjendje të zbulojë gjëra të tilla dhe i lejon personazhit tuaj të hedhë një magji sorcery sikur të ishte në gjendje ta hidhte vetë, ose sendi e ka magjinë sorcery të hedhur përgjithmonë mbi vete. Shumica e artefakteve kanë një rezervuar pikësh fuqie të tyre, ndërsa artefaktet më të rralla tërheqin pikët e fuqisë së vetë përdoruesit.
+* Krijuesi i një artefakti duhet të sakrifikojë 1 pikë FUQ-je të përhershme për çdo magji të investuar në artefakt dhe duhet të dijë ose të ketë akses te magjia/magjitë që artefakti mund të përdorë.
+* Artefakti ka një rezervuar pikësh fuqie të barabartë me pikët normale të fuqisë së krijuesit të tij pasi të jetë krijuar, ose MAD-in e tij, cilido që është më i madh. Mjeshtri juaj i lojës duhet të caktojë FUQ-në dhe kapacitetin e pikëve të fuqisë nëse krijuesi i artefaktit është i panjohur ose është një personazh jo-lojtar.
+* Artefakti ose bëhet "pa ndjenja" kur është në 0 pikë fuqie, ose do të jetë inert. Për të rimbushur një artefakt, përdoruesi mund të lëvizë 1 pikë fuqie nga trupi i tij në artefakt çdo raund luftimi.
+* Një artefakt mund të përmbajë më shumë se kapaciteti i tij normal i pikëve të fuqisë, sipas një personazhi, deri në dyfishin e pikëve të tij maksimale të fuqisë. Këto pikë shtesë fuqie zhduken ashtu siç ndodh me një personazh.
+* Çdo magji "sorcery" e hedhur nga artefakti ndjek të gjitha rregullat normale për magjinë përkatëse.
+* Kur krijohet artefakti, mjeshtri juaj i lojës duhet të përcaktojë nëse ai do të jetë personal (vetëm krijuesi i tij mund ta përdorë), nëse duhet të mposhtet në një hedhje rezistence pikë fuqie kundrejt pikëve të fuqisë nëse ka pikë fuqie, apo nëse çdokush mund ta përdorë atë.
+* Artefakti ka pikët normale të goditjes (bazuar në MAD) dhe atributet e një versioni përkatës jo-magjik (jo-sorcerous).
+* Pikët e goditjes të artefaktit kufizojnë numrin e pikëve të fuqisë që mund të ruhen në të. Ndërsa merr dëme, pikët maksimale të fuqisë që ruan reduktohen. Artefakti mund të riparohet si një artikull normal, megjithëse nëse është i thyer ose i shkatërruar, ai nuk mund të rikthehet kurrë në statusin e artefaktit dhe do të mbetet një artikull jo-magjik.
+* Nëse një artefakt shkatërrohet, çdo FUQ e investuar në të humbet.
 
-* Krijuesi i një artefakti duhet të sakrifikojë 1 pikë POW të përhershme për çdo magji sorcery të investuar në artefakt dhe duhet të dijë ose të ketë akses në magjinë/magjitë që artefakti mund të përdorë.
-* Artefakti ka një rezervuar pikësh fuqie të barabartë me pikët normale të fuqisë së krijuesit të tij pasi të krijohet (ose SIZ e tij, cilado që është më e madhe). Udhëheqësi i lojës suaj duhet të vendosë POW-në dhe kapacitetin e pikëve të fuqisë nëse krijuesi i artefaktit është i panjohur ose është një personazh jo-lojtar (NPC).
-* Artefakti ose bëhet 'pa ndjenja' kur është në 0 pikë fuqie, ose do të jetë inert. Për të rimbushur një artefakt, përdoruesi mund të lëvizë 1 pikë fuqie nga trupi i tij në artefakt çdo raund luftimi.
-* Një artefakt mund të përmbajë më shumë se kapaciteti i tij normal i pikëve të fuqisë, sipas një personazhi, deri në dyfishin e pikëve maksimale të fuqisë. Këto pikë fuqie shtesë zhduken siç ndodh me një personazh.
-* Çdo magji sorcery e hedhur nga artefakti ndjek të gjitha rregullat normale në lidhje me magjinë përkatëse.
-* Kur krijohet artefakti, udhëheqësi i lojës suaj duhet të përcaktojë nëse do të jetë personal (vetëm krijuesi i tij mund ta përdorë), nëse duhet të mposhtet në një hedhje rezistence të pikëve të fuqisë vs. pikëve të fuqisë nëse ka pikë fuqie, ose nëse kushdo mund ta përdorë atë.
-* Artefakti ka pikët normale të goditjes (bazuar në SIZ) dhe atribute të një versioni përkatës jo-sorcerous.
-* Pikët e goditjes së artefaktit kufizojnë numrin e pikëve të fuqisë që mund të ruhen në të. Ndërsa merr dëme, pikët maksimale të fuqisë që ruan reduktohen. Artefakti mund të riparohet si një send normal, megjithëse nëse është i thyer ose i shkatërruar, ai nuk mund të kthehet kurrë në statusin e artefaktit dhe do të mbetet një send jo-sorcerous.
-* Nëse një artefakt shkatërrohet, çdo POW i investuar në të humbet.
+Disa artefakte kanë magji të përhershme të lidhura në to që janë gjithmonë aktive. Kostoja në FUQ për të krijuar këta artikuj dyfishohet.
 
-Disa artefakte kanë magji të përhershme sorcery të lidhura në to që janë gjithmonë aktive. Kostoja e POW për të krijuar këto sende dyfishohet.
-
-**Pajisjet me Superfuqi:** Një pjesë e pajisjeve me superfuqi quhet vegël (gadget). Veglat janë më fleksiblat nga të gjitha llojet e sendeve me fuqi dhe mund të duken si çdo gjë; nga e zakonshme ose e thjeshtë deri te shumë e avancuar. Pamja e një vegle është krejtësisht kozmetike dhe nuk ka lidhje me funksionin e saj: mund të shkëlqejë, ndrisë, lëshojë gjurmë të çuditshme energjie, të gdhendet me runa antike, etj. Një vegël nuk duket jashtëzakonisht e fuqishme përveç nëse krijuesi dëshiron që ajo të jetë. Udhëheqësi i lojës suaj duhet të vendosë nivelin e fuqisë së veglës duke përdorur udhëzimet e nivelit të fuqisë së fushatës të paraqitura në Kapitullin e Katërt: Fuqitë. Udhëheqësi i lojës duhet të caktojë çdo nivel të superfuqive në çdo vegël sipas dëshirës, për t'iu përshtatur mjedisit dhe kërkesave të sendit.
+**Pajisjet me Superfuqi:** Një pajisje me superfuqi quhet vegël (gadget). Veglat janë më fleksiblat nga të gjitha llojet e artikujve me fuqi dhe mund të duken si çdo gjë; nga të zakonshme ose të thjeshta deri te shumë të avancuara. Pamja e një vegle është tërësisht kozmetike dhe nuk ka asnjë lidhje me funksionin e saj: ajo mund të ndriçojë, të shkëlqejë, të lëshojë gjurmë të çuditshme energjie, të gdhendet me runa antike, etj. Një vegël nuk duket jashtëzakonisht e fuqishme përveç nëse krijuesi dëshiron që ajo të jetë. Mjeshtri juaj i lojës duhet të caktojë nivelin e fuqisë së veglës duke përdorur udhëzimet e nivelit të fuqisë së fushatës të paraqitura në Kapitullin Katër: Fuqitë. Mjeshtri juaj i lojës duhet të caktojë çdo nivel superfuqish për çdo vegël sipas dëshirës, për t'iu përshtatur mjedisit dhe kërkesave të artikullit.
 
 Rregullat e mëposhtme zbatohen për veglat:
 
-* Pikët e goditjes, SIZ, etj. të veglës bazohen në një send normal me madhësi dhe masë ekuivalente. Nëse nuk ekziston asnjë ekuivalent i qartë, përdorni tabelën **Object SIZ Examples** (Shembujt e SIZ-it të Objekteve) dhe tabelën **Armor** (Parzmoret) për udhëzime. Për të ndryshuar madhësinë e tij, përdorni fuqinë Size Change (Ndryshimi i Madhësisë).
+* Pikët e goditjes të veglës, MAD-i, etj., bazohen në një artikull normal me madhësi dhe masë ekuivalente. Nëse nuk ekziston asnjë ekuivalent i qartë, përdorni tabelën **Shembuj MAD të Objekteve** dhe tabelën **Armaturë** për udhëzime. Për të ndryshuar madhësinë e saj, përdorni fuqinë Ndryshim Madhësie.
+* Nëse vegla ka nevojë për një karakteristikë (si FUQ për pikët e fuqisë), duhet të ndërtohet me fuqinë Super Karakteristikë.
+* Një vegël që kërkon një furnizim me energji më të madh se FUQ-ja e saj duhet të ketë fuqinë Energji Shtesë.
+* Për ta bërë veglën më të qëndrueshme se një artikull normal, jepini asaj superfuqi si Absorbim, Armaturë, Pikë Goditje Shtesë, Fushë Force, etj.
+* Kurdo që është e zbatueshme, vegla duhet të mbështetet në karakteristikat e veta. Nëse një fuqi kërkon një hedhje rezistence, duhet të përdoret karakteristika e veglës (nëse ka). Nëse vegla nuk e ka karakteristikën përkatëse, ajo dështon automatikisht në hedhjen e rezistencës.
+* Kurdo që është e zbatueshme, vegla duhet të mbështetet në aftësinë përkatëse të përdoruesit të saj.
+  **Për shembull,** nëse vegla është një pistoletë, ajo duhet të shkrepet me aftësinë Armë zjarri. Nëse është një byzylyk me fuqi kozmike që i lejon mbajtësit të lëshojë shpërthime radioaktive, përdorni aftësinë Projeksion.
 
-* Nëse vegla ka nevojë për një karakteristikë (si p.sh. POW për pikë fuqie), duhet të ndërtohet me fuqinë Super Characteristic (Super Karakteristikë).
-* Një vegël që kërkon një furnizim me energji më të madh se POW-ja e saj duhet të ketë fuqinë Extra Energy (Energji Shtesë).
-* Për ta bërë veglën më të qëndrueshme se një send normal, jepini superfuqi si Absorption (Absorbimi), Armor (Parzmore), Extra Hit Points (Pikë Goditjeje Shtesë), Force Field (Fushë Force), etj.
-* Sa herë që është e aplikueshme, vegla duhet të mbështetet në karakteristikat e veta. Nëse një fuqi kërkon një hedhje rezistence, duhet të përdoret karakteristika e veglës (nëse ka). Nëse vegla nuk ka karakteristikën përkatëse, ajo dështon automatikisht në hedhjen e rezistencës.
-* Sa herë që është e aplikueshme, vegla duhet të mbështetet në aftësinë përkatëse të përdoruesit të saj.
-  **Për shembull,** nëse vegla është një pistoletë, ajo duhet të shkrepet me aftësinë Armë zjarri. Nëse është një byzylyk me fuqi kozmike që i lejon mbajtësit të lëshojë shpërthime radioaktive, përdorni aftësinë Projection (Projekcion).
+* Mjeshtri juaj i lojës duhet të shqyrtojë çdo artikull me superfuqi për t'u siguruar që ato nuk janë tepër të fuqishme ose ndryshe të pabalansuara.
+* Superfuqitë e investuara në një vegël janë të përhershme përveç nëse artikulli shkatërrohet.
 
-* Udhëheqësi i lojës suaj duhet të shqyrtojë çdo send me superfuqi për t'u siguruar që ato nuk janë tepër të fuqishme ose ndryshe jashtë ekuilibrit.
-* Superfuqitë e investuara në një vegël janë të përhershme përveç nëse sendi shkatërrohet.
+**Pajisjet me Lloje të Shumëfishta Fuqie:** Mjeshtri juaj i lojës mund të dëshirojë të krijojë një artikull me fuqi që tërheq nga lloje të shumta fuqie, si një vegël që është gjithashtu një artefakt, duke përdorur superfuqi dhe magji. Këto duhet të jenë të disponueshme vetëm sipas gjykimit të mjeshtrit tuaj të lojës. Zbatohen parimet e mëposhtme:
 
-**Pajisjet me Lloje të Shumëfishta Fuqie:** Udhëheqësi i lojës suaj mund të dëshirojë të krijojë një send me fuqi që tërheq nga lloje të shumta fuqie, si një vegël që është gjithashtu një artefakt, duke përdorur superfuqi dhe sorcery. Këto duhet të jenë të disponueshme vetëm sipas gjykimit të udhëheqësit të lojës suaj. Zatohen parimet e mëposhtme:
-
-* Kur është e mundur, trajtojeni sendin sikur të ishte krijuar si një lojtar me lloje të shumta fuqie.
-* Një send duhet të ketë të gjitha karakteristikat ose aftësitë përkatëse për të përdorur çdo fuqi që posedon.
-* Të gjitha fuqitë tërheqin nga i njëjti rezervuar burimesh, qoftë pikë fuqie ose një burim tjetër. Rimbushja e sendit duhet të trajtohet në mënyrën e duhur për çdo grup fuqish.
-* Nëse për ndonjë arsye një send ka dy vlera për të zgjedhur për të kryer një veprim të caktuar, përdorni vlerën më të lartë nga të dyja, ku është e përshtatshme.
+* Kur është e mundur, trajtojeni artikullin sikur të jetë krijuar si një lojtar me lloje të shumta fuqie.
+* Një artikull duhet të ketë të gjitha karakteristikat ose aftësitë përkatëse për të përdorur çdo fuqi që zotëron.
+* Të gjitha fuqitë tërheqin nga i njëjti grup burimesh, qofshin ato pikë fuqie apo një burim tjetër. Rimbushja e artikullit duhet të trajtohet në mënyrën e duhur për çdo grup fuqish.
+* Nëse për ndonjë arsye një artikull ka dy vlera për të zgjedhur për të kryer një veprim të caktuar, përdorni vlerën më të lartë nga të dyja, kur është e përshtatshme.
 
 ### Pajisjet me Kërkesa
 
-Disa lloje pajisjesh mund të kenë kërkesa që duhet të përmbushen ose tejkalohen për t'u përdorur nga personazhi juaj. Një shembull janë armët, ku shumica e armëve kanë një kërkesë minimale STR dhe DEX. Lloje të tjera pajisjesh janë të kufizuara në mënyra të tjera, si kërkesa e lartë për pikë lodhjeje nga mbajtja e parzmores dhe penalitetet e aftësive të lidhura me të. Asnjë nga pajisjet bazë në këtë kapitull nuk ka ndonjë kërkesë, megjithëse udhëheqësi i lojës suaj mund të prezantojë lehtësisht një kufizim për përdorimin e një sendi në dy mënyra të qarta:
+Disa lloje pajisjesh mund të kenë kërkesa që duhet të përmbushen ose tejkalohen për t'u përdorur nga personazhi juaj. Një shembull është armatimi, ku shumica e armëve kanë një kërkesë minimale për FOR dhe SHK. Lloje të tjera pajisjesh janë të kufizuara në mënyra të tjera, si kërkesa e lartë për pikë lodhjeje nga mbajtja e armaturës dhe penalitetet e aftësive të lidhura me të. Asnjë nga pajisjet bazë në këtë kapitull nuk ka ndonjë kërkesë, megjithëse mjeshtri juaj i lojës mund të vendosë lehtësisht një kufizim në përdorimin e një artikulli në dy mënyra të dukshme:
 
-* **Karakteristikat:** Si me armët, një pjesë e pajisjeve mund të kufizohet nga karakteristikat tuaja. Zakonisht kjo është STR ose DEX, siç është me armët, ose SIZ për parzmoret, por mund të jetë lehtësisht POW për një send magjik, INT për një kompjuter, ose ndonjë kërkesë tjetër minimale (ose maksimale) bazuar në karakteristika.
+* **Karakteristikat:** Ashtu si me armët, një pajisje mund të kufizohet nga karakteristikat tuaja. Zakonisht kjo është FOR ose SHK, siç është me armët, ose MAD për armaturën, por mund të jetë lehtësisht FUQ për një artikull magjik, ZGJ për një kompjuter, ose ndonjë minimum (ose maksimum) tjetër i bazuar në karakteristika.
 
-* **Aftësitë:** Personazhi juaj mund të zbulojë se një pjesë specifike e pajisjeve është e pakuptueshme ose e padobishme nëse aftësia e tyre nuk është në një nivel të caktuar. Zakonisht aftësia përfaqëson një kuptim të pjesës së pajisjeve dhe parimeve mbi të cilat ajo funksionon.
+* **Aftësitë:** Personazhi juaj mund të zbulojë se një pajisje specifike është e pakuptueshme ose e padobishme nëse aftësia e tij nuk është në një nivel të caktuar. Zakonisht aftësia përfaqëson një kuptim të pajisjes dhe parimeve mbi të cilat ajo funksionon.
 
 **Për shembull,** një kompjuter diagnostikues mund të kërkojë një aftësi prej të paktën 50% në Teknikë (Përdorimi i Kompjuterit) për të funksionuar.
 
-Rekomandohet që kufizimet të përdoren rrallë dhe vetëm nëse ka një arsye legjitime për ekzistencën e tyre. Përpara se të caktoni një kufizim të drejtpërdrejtë në përdorimin e një sendi, udhëheqësi i lojës suaj duhet të përcaktojë nëse ka ndonjë mjet për të zbatuar kufizimin dhe nëse ka ndonjë penalitet për përdorimin e sendit nëse personazhi juaj nuk i përmbush kërkesat. Disa penalitete të mundshme përfshijnë pikë shtesë lodhjeje për t'u përdorur, duke i bërë çdo hedhje të lidhur për aftësi të Vështira, ose duke kërkuar një hedhje përkatëse karakteristike për të shmangur aksidentet.
+Rekomandohet që kufizimet të përdoren rrallë dhe vetëm nëse ka një arsye legjitime për ekzistencën e tyre. Përpara se të vendosni një kufizim të plotë për përdorimin e një artikulli, mjeshtri juaj i lojës duhet të përcaktojë nëse ka ndonjë mjet për zbatimin e kufizimit dhe nëse ka ndonjë penalitet për përdorimin e artikullit nëse personazhi juaj nuk i përmbush kërkesat. Disa penalitete të mundshme përfshijnë pikë shtesë lodhjeje për t'u përdorur, bërjen e çdo hedhjeje aftësie të lidhur të Vështirë, ose kërkimin e një hedhjeje karakteristike të lidhur për të shmangur fatkeqësitë.
 
-### Pajisjet me ngarkesë ose përdorim të kufizuar
+### Ngarkesat ose Pajisjet me Përdorim të Kufizuar
 
-Shumë lloje pajisjesh funksionojnë me bateri ose mund të përdoren vetëm një numër të kufizuar herësh. Në shumicën e rasteve, bateritë mund të zëvendësohen mjaft lehtë, municioni të plotësohet dhe burimet e tjera të kërkuara të rimbushen ose të mbushen. Shumica e armëve të zjarrit kanë 'ngarkesa' në formën e municionit, por nëse mirëmbahet mirë, një shpatë ose një parzmore mund të përdoret derisa të thyhet. Sa herë që është e përshtatshme, burimi i kërkuar për të mbushur ose rimbushur një pjesë të pajisjeve është ose thelbësisht falas (si energjia elektrike ose energjia diellore), ose është dy ose tri nivele Mirëqenieje më i ulët se kostoja e pajisjes. Nëse kërkohet një pajisje rimbushëse, ajo është pjesë e vlerës normale të pajisjes.
+Shumë lloje pajisjesh funksionojnë me bateri ose mund të përdoren vetëm një numër të kufizuar herësh. Në shumicën e rasteve, bateritë mund të zëvendësohen mjaft lehtë, municioni mund të plotësohet dhe burimet e tjera të nevojshme të rimbushen ose mbushen. Shumica e armëve të zjarrit kanë "ngarkesa" në formën e municionit, por nëse mirëmbahet mirë, një shpatë ose një kostum armaturë mund të përdoret derisa të thyhet. Kurdo që është e përshtatshme, burimi i nevojshëm për të mbushur ose rimbushur një pajisje është ose thelbësisht falas (si elektriciteti ose energjia diellore), ose është dy ose tre nivele Pasurie më i ulët se kostoja e pajisjes. Nëse kërkohet një pajisje mbushjeje, ajo është pjesë e vlerës normale të pajisjes.
 
-Zakonisht është më e lehtë të supozohet se duke pasur kohë dhe planifikim adekuat, personazhi juaj ka municion, bateri, mbushje, fishekë, qeliza energjie, etj. adekuate për të gjitha pajisjet e tyre, përveç nëse mjedisi ose rrethanat e bëjnë këtë të vështirë ose të pamundur. Në këto raste, udhëheqësi i lojës suaj mund të kërkojë një hedhje për Kërkim, Status ose Fat për të hasur në llojin përkatës të ngarkesës. Në disa mjedise (pas-apokaliptike, për shembull) municioni, benzina dhe/ose qelizat e energjisë janë jashtëzakonisht të vështira për t'u gjetur dhe zakonisht janë më të vlefshme se pajisjet në të cilat përdoren.
+Zakonisht është më e lehtë të supozohet se duke pasur kohë dhe planifikim adekuat, personazhi juaj ka municion, bateri, mbushje, fishekë, qeliza energjie, etj. adekuate për të gjitha pajisjet e tij, përveç nëse mjedisi ose rrethanat e bëjnë këtë të vështirë ose të pamundur. Në këto raste, mjeshtri juaj i lojës mund të kërkojë një hedhje Kërkimi, Statusi ose Fati për të gjetur llojin përkatës të ngarkesës. Në disa mjedise (pas-apokaliptike, për shembull) municioni, benzina dhe/ose qelizat e energjisë janë jashtëzakonisht të vështira për t'u gjetur dhe zakonisht janë më të vlefshme se pajisjet në të cilat përdoren.
 
-### Riparimi i pajisjeve
+### Riparimi i Pajisjeve
 
-Nëse një send është dëmtuar gjatë lojës, udhëheqësi i lojës suaj duhet të përcaktojë nëse mund të riparohet, bazuar në gjykimin e shëndoshë dhe natyrën e dëmit të shkaktuar. Në shumicën e rasteve, një hedhje përkatëse e aftësisë Riparim ose Zejtari mund të përdoret si aftësia Ndihma e parë, duke rivendosur pikët e dëmtuara të goditjes ose pikët SIZ sipas udhëzimeve për atë aftësi. Në rastin e pajisjeve komplekse, udhëheqësi i lojës suaj mund të kërkojë një hedhje për Njohuri për të gjetur një burim për komponentët zëvendësues, ose madje të kërkojë një hedhje të lehtë për aftësi bazuar në aftësinë e riparimit që po përdoret për të lokalizuar pjesët e nevojshme. Nëse këta komponentë janë të shtrenjtë, udhëheqësi i lojës suaj mund të kërkojë një hedhje për Status për të marrë në mënyrë legjitime zëvendësimet e kërkuara.
+Nëse një artikull është dëmtuar gjatë lojës, mjeshtri juaj i lojës duhet të përcaktojë nëse ai mund të riparohet, bazuar në sensin e përbashkët dhe natyrën e dëmit të shkaktuar. Në shumicën e rasteve, një hedhje e aftësisë përkatëse Riparim ose Artizanat mund të përdoret si aftësia Ndihma e Parë, duke rikthyer pikët e dëmtuara të goditjes ose pikët e MAD-it sipas udhëzimeve për atë aftësi. Në rastin e pajisjeve komplekse, mjeshtri juaj i lojës mund të kërkojë një hedhje Njohurie për të gjetur një burim për komponentët zëvendësues, ose madje të kërkojë një hedhje të thjeshtë aftësie bazuar në aftësinë e riparimit që përdoret për të gjetur pjesët e nevojshme. Nëse këta komponentë janë të shtrenjtë, mjeshtri juaj i lojës mund të kërkojë një hedhje Statusi për të marrë në mënyrë legjitime zëvendësimet e kërkuara.
 
 ## Armët
 
-Gjatë historisë, shumë lloje të ndryshme armësh janë zhvilluar si rezultat i ndryshimeve në teknologji, disponueshmërisë së materialeve dhe ndryshimit të kushteve të fushëbetejës. Ky seksion paraqet një mostrë përfaqësuese të kësaj shumëllojshmërie të gjerë. Nëse udhëheqësi i lojës suaj dëshiron të krijojë lista më të sakta armësh për një mjedis, është mjaft e lehtë të ekstrapolohen atributet përkatëse nga këta shembuj.
+Gjatë historisë, shumë lloje të ndryshme armësh janë zhvilluar si rezultat i ndryshimeve në teknologji, disponueshmërisë së materialeve dhe ndryshimit të kushteve të fushëbetejës. Ky seksion paraqet një mostër përfaqësuese të këtij larmie të gjerë. Nëse mjeshtri juaj i lojës dëshiron të krijojë lista më të sakta armësh për një mjedis, është mjaft e lehtë të ekstrapolohen atributet përkatëse nga këta shembuj.
 
-Armët e përshkruara në këtë seksion kategorizohen gjerësisht sipas mjediseve kronologjike për lehtësi përdorimi. Në shumicën e rasteve, armët nga një periudhë e mëparshme janë të disponueshme për njerëzit nga periudha të mëvonshme, kështu që udhëheqësi i lojës suaj thjesht mund të zgjedhë se ku ndalet disponueshmëria e armëve dhe t'i lejojë personazhit tuaj akses në armë para asaj pike.
+Armët e përshkruara në këtë seksion janë kategorizuar gjerësisht sipas mjediseve kronologjike për lehtësi përdorimi. Në shumicën e rasteve, armët nga një periudhë e mëparshme janë të disponueshme për njerëzit nga periudha të mëvonshme, kështu që mjeshtri juaj i lojës mund thjesht të zgjedhë se ku ndalet disponueshmëria e armëve dhe t'i lejojë personazhit tuaj akses te armët para asaj pike.
 
-Secila armë ka atributet e mëposhtme:
+Çdo armë ka atributet e mëposhtme:
 
 * **Emri:** Emri i zakonshëm për armën.
-
-* **Aftësia:** Aftësia e përdorur për ta mbajtur atë.
-
+* **Aftësia:** Aftësia e përdorur për ta përdorur atë.
 * **Baza:** Shansi bazë për të përdorur armën.
-
-* **Dëmi:** Dëmi i shkaktuar nga arma. Një ‘+dm’ tregon modifikues dëmi, dhe +½dm është gjysma e modifikuesit të dëmit (rrumbullakosni lart).
-
+* **Dëmi:** Dëmi i bërë nga arma. Një "+dm" tregon modifikuesin e dëmit dhe +½dm është gjysma e modifikuesit të dëmit (rrumbullakoseni lart).
 * **Sulmi:** Sa sulme për raund lejon arma?
+* **Special:** Çfarë lloj suksesi special bën arma?
+* **Rangu:** Rangu bazë i armës. Në rangun e tij bazë, aftësia është e pamodifikuar. Në rangun mesatar (dyfishi i rangut bazë), përdorimi i aftësisë bëhet i Vështirë, dhe në rangun e gjatë (katër herë rangu bazë) bëhet 1/5 e vlerësimit normal të aftësisë (e barabartë me shansin e një speciale).
+* **Duart:** Sa duar kërkon arma? 1D=një dorë, 2D=dy duar.
+* **PG:** Pikët e goditjes të armës.
+* **Parimi:** A mund të përdoret arma për të paruar (parry)?
+* **Def:** Arma ka një defekt nëse kjo rezulton (shih **Defektet**). Nëse arma nuk është një armë zjarri, defekti është ndonjë fatkeqësi tjetër që parandalon ripërdorimin e menjëhershëm të armës.
+* **Ammo:** Sa herë mund të përdoret arma pa u rimbushur ose rimbushur?
+* **Vlera:** Cila është kostoja mesatare e armës në një mjedis përkatës?
+* **FOR/SHK:** Cilat janë FOR dhe SHK minimale të kërkuara për të përdorur armën?
+* **MAD/ENC:** MAD-i i armës dhe vlera e Ngarkesës.
+* **RF:** (Opsionale) Shkalla e zjarrit (shih **Zjarri me Breshëri**). 1/#RA do të thotë që arma është aq e ngathët sa mund të përdoret vetëm një herë për një numër (#) raundesh luftimi. X/RA do të thotë që mund të përdoret X herë për raund luftimi kur përdoret zjarr me breshëri.### Përshkrimet e Armëve
 
-* **E veçantë:** Çfarë lloji të suksesit të veçantë bën arma?
+Më poshtë janë të gjitha armët nga tabelat e armëve për luftim trup-me-trup dhe armëve hedhëse, të organizuara në mënyrë alfabetike.
 
-* **Rrezja:** Rrezja bazë e armës. Në rrezen e saj bazë, aftësia është e pamodifikuar. Në rrezen mesatare (dyfishi i rrezes bazë), përdorimi i aftësisë bëhet i Vështirë, dhe në rrezen e gjatë (katër herë rrezja bazë) bëhet 1/5 e vlerësimit normal të aftësisë (e barabartë me shansin e një suksesi të veçantë).
+**Arbalest:** Një arbalestë shumë e rëndë, e vështirë për t'u tendosur dhe mbushur, që shpesh përdoret me një pajisje të quajtur çark-mbushës. Ajo shkakton dëme të jashtëzakonshme kur godet.
 
-* **Duart:** Sa duar kërkon arma? 1H=një-dorëshe, 2H=dy-dorëshe.
+**Spatë, Beteje:** Një spatë me një dorë që përdoret kryesisht në luftim. Mund të ketë një teh ose dy.
 
-* **HP:** Pikët e goditjes së armës.
+**Spatë, e Madhe:** Një spatë e madhe me dy duar, e cila mund të jetë me një ose dy tehe.
 
-* **Parimi:** A mund të përdoret arma për të mbrojtur (parry)?
+**Spatë, dore:** Një spatë e vogël me një dorë që mund të hidhet ose të përdoret me dorë. Mund të ketë një teh ose dy. Versionet e mjeteve të punës përdoren për të prerë dru.
 
-* **Mal:** Arma dështon nëse kjo hidhet (shih **Malfunctions**). Nëse arma nuk është armë zjarri, dështimi është një lloj tjetër aksidenti që parandalon ripërdorimin e menjëhershëm të armës.
+**Spatë, Vibro-:** Një spatë me dorezë të gjatë me një ose dy tehe të montuara në një gjenerator në bisht. Tehet vibrojnë me një shpejtësi të jashtëzakonshme, duke qenë të afta të presin shumicën e substancave.
 
-* **Municioni:** Sa herë mund të përdoret arma pa u rimbushur ose rimbushur?
+**Spatë, Druri:** Një spatë me dorezë të gjatë që mund të përdoret me një ose dy duar, me një teh ose dy. Nuk është ndërtuar për luftim, por ndonjëherë përdoret si e tillë.
 
-* **Vlera:** Cili është kostoja mesatare e armës në një mjedis përkatës?
+**Blackjack:** Një qese e vogël prej lëkure e qepur, e mbushur me diçka të rëndë si saçma plumbi, që përdoret për të rrëzuar dikë pa ndjenja kur sulmohet nga pas. Quhet gjithashtu "sap" ose "cosh".
 
-* **STR/DEX:** Cilat janë STR dhe DEX minimale të kërkuara për të përdorur armën?
+**Pështyese (Blowgun):** Një gyp i zbrazët dhe i drejtë deri në një metër gjatësi, që përdoret për të lëshuar shigjeta të vogla duke fryrë në njërin skaj të gypit. Këto shigjeta bëjnë pak dëm, por shpesh janë të helmuara.
 
-* **SIZ/ENC:** SIZ-i i armës dhe vlera e Ngarkesës (Encumbrance).
+**Bola:** Dy ose tre topa të fortë të lidhur së bashku me një gjatësi kordoni ose zinxhiri. Kjo armë hidhet për të ngatërruar dhe rrëzuar një kundërshtar, ku dëmi është shqetësim dytësor.
 
-* **RF:** (Opsion) Shkalla e zjarrit (shih **Volley Fire**). 1/#CR do të thotë se arma është aq e ngathët sa mund të përdoret vetëm një herë për një numër (#) raundesh luftimi. X/CR do të thotë se mund të përdoret X herë për raund luftimi kur përdoret zjarr në breshëri.
+**Bumerang:** Një shkop i sheshtë në formë këndi, i bërë për t'u hedhur në një trajektore harkore. Tradicionalisht përdorej nga gjuetarët aborigjenë për të trullosur ose vrarë kafshë të vogla.
 
-### Përshkrimet e armëve
+**Hark, i Përbërë (Composite):** Një hark i bërë nga materiale që e bëjnë atë njëkohësisht të ngurtë dhe fleksibël. Versionet historike janë bërë nga dru dhe brirë, ndërsa varietetet moderne bëhen me grafit dhe metale ultra të lehta.
 
-Më poshtë janë të gjitha armët nga tabelat e armëve të dyluftimit dhe raketave (projektileve), të organizuara në mënyrë alfabetike.
+**Hark, i Gjatë (Long):** Një hark i bërë ose nga një copë e vetme druri (si harku i famshëm anglez), ose në të njëjtën mënyrë si një hark i përbërë.
 
-**Arbalest:** Një hark i rëndë, i vështirë për t'u tendosur dhe mbushur, shpesh i përdorur me një pajisje të quajtur çikrik. Ai bën dëme të jashtëzakonshme kur godet.
+**Hark, i Thjeshtë (Self):** Një hark bazik i bërë nga një ose dy pjesë druri të formuara dhe të përpunuara për të parandaluar thyerjen.
 
-**Spatë (Spatë beteje):** Një spatë një-dorëshe e përdorur kryesisht në dyluftim. Mund të ketë një teh ose dy.
+**Doreza hekuri (Brass Knuckles):** Pesha metalike që mbahen në grusht për t'i shtuar peshë dhe një buzë të fortë grushteve.
 
-**Spatë (Spatë e madhe):** Një spatë e madhe, dy-dorëshe që mund të jetë me një ose dy tehe.
+**Cestus:** Doreza boksi metalike, me një peshë të vendosur brenda dorezës për më shumë ndikim. Një pararendës i lashtë i dorezave të hekurit.
 
-**Spatë (Spatë dore):** Një spatë e vogël një-dorëshe që mund të hidhet ose të përdoret me dorë. Mund të ketë një teh ose dy. Versionet e mjeteve përdoren për të prerë dru.
+**Sharrë zinxhirore:** Një mjet për prerjen e drurit që përbëhet nga një zinxhir me tehe, i shtyrë të rrotullohet me shpejtësi të madhe përreth një lame metalike të sheshtë.
 
-**Spatë (Vibro-spatë):** Një spatë me dorezë të gjatë me një ose dy tehe të montuara në një gjenerator në bisht. Tehet vibrojnë me një shpejtësi të jashtëzakonshme, të afta për të prerë shumicën e substancave.
+**Kthetra:** Një armë me tehe në formën e kthetrave të kafshëve, zakonisht mbahet në dorë me tehet që dalin mes gishtave, ose vishet në pjesën e pasme të dorës.
 
-**Spatë (Spatë druri):** Një spatë me dorezë të gjatë që mund të përdoret me një ose dy duar, me një teh ose dy. Nuk është ndërtuar për dyluftim, por ndonjëherë përdoret kështu.
+**Shkop, i Rëndë:** Një pjesë e gjatë dhe e rëndë druri ose metali. Kjo përshkruan gjithashtu një levë hekuri.
 
-**Blackjack (Çomage lëkure):** Një qese e vogël lëkure e qepur plot me diçka të rëndë si plumb, e përdorur për të rrëzuar dikë kur sulmon nga prapa. Gjithashtu quhet sap ose cosh.
+**Shkop, i Lehtë:** Një version më i lehtë i shkopit të rëndë. Kjo mund të jetë një shkop bejsbolli, hekur gome, llambë, këmbë karrigeje ose shkop policie.
 
-**Blowgun (Gyp fryrjeje):** Një gyp i zbrazët, i drejtë deri në një metër i gjatë, i përdorur për të projektuar shigjeta të vogla duke fryrë në njërin skaj të gypit. Këto shigjeta bëjnë pak dëme por shpesh janë të helmuara.
+**Arbalestë, e Rëndë:** Kjo arbalestë duhet të tendoset me një mekanizëm levë. Më e lehtë për t'u mbushur se një arbalestë e madhe, por më pak e fuqishme.
 
-**Bola:** Dy ose tre topa të fortë të lidhur së bashku nga një gjatësi kordoni ose zinxhiri. Kjo armë hidhet për të ngatërruar dhe për të rrëzuar një kundërshtar, me dëmin si shqetësim dytësor.
+**Arbalestë, e Lehtë:** Kjo arbalestë mund të tendoset me dorë, përdoret kryesisht për gjueti ose fshehtësi, në vend të fushëbetejës.
 
-**Boomerang:** Një shkop i sheshtë, në formë këndi, i bërë për t'u hedhur në një rrugë të lakuar. Tradicionalisht përdorej nga gjahtarët aborigjenë për të trullosur ose vrarë kafshë të vogla.
+**Arbalestë, e Mesme:** Kjo arbalestë tendoset duke kapur një skaj me këmbë dhe duke përdorur një mekanizëm kthetre për të tërhequr fillin.
 
-**Hark (Hark i përbërë):** Një hark i bërë nga materiale që e bëjnë atë si të ngurtë ashtu edhe fleksibël. Versionet historike janë bërë nga dru dhe brirë, dhe varietetet moderne janë bërë me grafit dhe metale ultra-të lehta.
+**Arbalestë, Shumëfishe:** Një arbalestë komplekse me një karikator shigjetash që mund të shkrepen aq shpejt sa mund të shkrepet një hark. Pasi karikatori zbrazet, arbalestës shumëfishe i duhen të paktën gjashtë raunde luftarake për t'u rimbushur.
 
-**Hark (Hark i gjatë):** Një hark i bërë ose nga një copë dru (si harku i famshëm anglez i gjatë), ose në të njëjtën mënyrë si një hark i përbërë.
+**Thikë me majë (Dagger):** Një armë me teh të shkurtër, zakonisht më pak se 40 centimetra e gjatë, e mprehtë në njërin ose të dyja anët.
 
-**Hark (Hark i thjeshtë):** Një hark bazë i bërë nga një ose dy pjesë druri të formuara dhe të kuruara për të parandaluar thyerjen.
+**Shigjetë hedhëse:** Maja të shkurtra dhe të peshuara të përshtatshme për t'u hedhur, me ose pa pupla. Ato shpesh përdoren për të injektuar helm.
 
-**Brass Knuckles (Përforcues grushti):** Pesha metalike të veshura në grusht për të shtuar peshë dhe një buzë të fortë në grushtat.
+**Detonator, Antimaterie:** Ndoshta eksplozivi më i fuqishëm në shkallë personale, ky mund të zhdukë gjithçka në një rreze të ngushtë. Këto përdoren me kohëmatës, detonatorë të koduar në distancë dhe baza magnetike.
 
-**Cestus (Dorashka metalike):** Dorashka boksi metalike, me një peshë të vendosur brenda dorashkës për më shumë ndikim. Një pararendës antik i përforcuesve të grushtit.
+**Detonator, Impuls Elektromagnetik (EM):** Në vend që të shpërthejë, kjo pajisje lëshon një impuls elektromagnetik (EMP) të dizajnuar për të prishur pajisjet elektrike dhe qarqet elektronike. Ndryshe nga EMP-ja e krijuar si efekt dytësor i një arme bërthamore, ky është një impuls elektromagnetik jobërthamor, shkatërrues vetëm për pajisjet elektronike.
 
-**Sharrë elektrike (Chainsaw):** Një mjet për prerjen e drurit që përbëhet nga një zinxhir me tehe i drejtuar për t'u rrotulluar me shpejtësi të lartë rreth një tehu të sheshtë metalik.
+**Detonator, Fuzion:** Një bombë nën-bërthamore jashtëzakonisht e fuqishme, e aftë për forcë të jashtëzakonshme shkatërruese. Vjen me kohëmatës, detonator të koduar në distancë dhe bazë magnetike.
 
-**Kthetra (Claw):** Një armë me teh në formën e kthetrave të kafshëve, zakonisht e mbajtur në dorë me tehet që depërtojnë përmes gishtërinjve, ose e veshur në pjesën e prapme të dorës.
+**Detonator, Plazma:** Një eksploziv i aftë për të gjeneruar dhe spërkatur një ngarkesë plazme, gjendja e ndërmjetme e mbinxehur midis gazit dhe lëngut. Këto vijnë me kohëmatës, detonatorë të koduar në distancë dhe baza magnetike.
 
-**Shkop, i rëndë:** Një pjesë e gjatë e rëndë druri ose metali. Kjo përshkruan gjithashtu një levë.
+**Detonator, Sonik:** Një pajisje që lëshon një impuls sonik shkatërrues dhe goditës që mund të thyejë xhamin dhe lëndë të tjera të brishta, si dhe të trullosë çdo shënjestër të gjallë brenda rrezes së efektit të tij.
 
-**Shkop, i lehtë:** Një version më i lehtë i shkopit të rëndë. Ky mund të jetë një shkop bejsbolli, hekur gome, llambë, këmbë karrigeje ose shkop policie.
+**Eksploziv, Kapsulë Shpërthyese:** Një eksploziv i vogël që përdoret për të aktivizuar një eksploziv më të madh. Ato më të vjetrat përdornin fitila, ndërsa ato më të rejat përdorin energji elektrike ose metoda më të sofistikuara për të aktivizuar eksplozivin.
 
-**Hark (Arbalest i rëndë):** Ky hark duhet të tendoset nga një mekanizëm levash. Më i lehtë për t'u mbushur se një arbalest, por më pak i fuqishëm.
+**Eksploziv, Dinamit:** Shkopa eksplozivi kimik të thithur në një ngurtës si tallashi, të mbështjellë me letër të trashë dhe të ndezur nga shkëndijat prej një fitili ose një shpërthimi më të vogël nga një kapsulë shpërthyese. Kjo është shumë e rrezikshme, pasi priret të "djersijë" nitroglicerinë dhe bëhet e paqëndrueshme kur lihet vetëm për shumë kohë.
 
-**Hark (Hark i lehtë):** Ky hark mund të tendoset me dorë, kryesisht i përdorur për gjueti ose fshehtësi, në vend që të jetë në fushën e betejës.
+**Eksploziv, i Improvizuar:** Zakonisht një bombë gypi, kjo përshkruan çdo numër eksplozivësh kimikë të vegjël të bërë në shtëpi.
 
-**Hark (Hark mesatar):** Ky hark tendoset duke kapur një skaj me një këmbë dhe duke përdorur një mekanizëm kthetrash për të tërhequr telin prapa.
+**Eksploziv, Plastik:** Një eksploziv kimik modern i përzier me një substancë si nafta ose dylli në një formë plastike të lakueshme, si stuko, që mund të modelohet dhe formohet sipas nevojës. Përdoret me kohëmatës dhe shpesh aktivizohet me ngarkesë elektrike. Quhet edhe plastike.
 
-**Hark (Hark përsëritës):** Një hark kompleks me një revistë shigjetash që mund të qëllohen aq shpejt sa mund të qëllohet një hark. Sapo revista të jetë shteruar, harku përsëritës merr të paktën gjashtë raunde luftimi për t'u rimbushur.
+**Grusht:** Një sulm i paarmatosur duke përdorur aftësinë "Brawl" (Përleshje).
 
-**Kamë (Dagger):** Një armë me teh të shkurtër, zakonisht më pak se 40 centimetra e gjatë, e mprehtë në njërin ose të dy skajet.
+**Fushë (Flail):** Një kokë flail-i e montuar në fund të një zinxhiri të shkurtër të lidhur me një bisht rreth një metër të gjatë, ose më shumë.
 
-**Shigjetë (Dart):** Maja të shkurtra, të peshuara të përshtatshme për t'u hedhur, ose me pendë ose të thjeshta. Ato shpesh përdoren për të shpërndarë helm.
+**Fushë, Morningstar:** Një armë mesjetare me një dorezë, një gjatësi zinxhiri dhe një top me thumba në fund. Disa nuk kanë thumba dhe janë thjesht topa të rënduar ose me gunga në fund të zinxhirëve.
 
-**Detonator (Detonator Antimaterie):** Ndoshta shpërthyesi më i fuqishëm në shkallë personale, ky mund të shkatërrojë gjithçka në një rreze të ngushtë. Këto përdoren me kohëmatës, detonatorë të koduar në distancë dhe baza magnetike.
+**Hedhës flakësh:** Një depozitë plot me një kimikat shumë të djegshëm e lidhur me një projektues/ndezës që spërkat jetë lëngu të zjarrtë. Hedhësit e flakëve mund të përdoren gjithashtu për të njomur një zonë ose send në këtë kimikat të djegshëm pa e ndezur atë. Jashtëzakonisht të rrezikshëm për shkak të rrezes së shkurtër, periudhës së kufizuar të përdorimit dhe mundësisë për ta ndezur veten në flakë. Hedhësit e flakëve mund të shpërthejnë kur depozita goditet, duke shkaktuar dëm të dyfishtë të hedhur ndaj kujtdo brenda pesë metrave nga përdoruesi. Bëni një hedhje Fati për ta shmangur këtë.
 
-**Detonator (Impulsi Elektromagnetik):** Në vend që të shpërthejë, kjo pajisje lëshon një impuls elektromagnetik (EMP) të krijuar për të ndërprerë pajisjet elektrike dhe qarqet elektronike. Ndryshe nga EMP e gjeneruar si efekt dytësor i një arme bërthamore, ky është një impuls elektromagnetik jo-bërthamor, i dëmshëm vetëm për pajisjet elektronike.
+**Garrotë:** Një kordon i shkurtër që përdoret për mbytje, qoftë një kabllo e hollë metalike, litar ceremonial, apo përdorim i improvizuar i një shalli ose rripi.
 
-**Detonator (Fuzioni):** Një bombë jashtëzakonisht e fuqishme sub-bërthamore, e aftë për forcë të madhe shkatërruese. Vjen me kohëmatës, detonator të koduar në distancë dhe bazë magnetike.
+**Dorezë, e Armatosur:** Një dorezë metalike që vishet me armaturë ose pa të, duke shtuar dëmin në goditjet e suksesshme me aftësinë "Brawl".
 
-**Detonator (Plazma):** Një shpërthyes i aftë për të gjeneruar dhe spërkatur një ngarkesë plazme, gjendja e ndërmjetme e mbinxehur midis gazit dhe lëngut. Këto vijnë me kohëmatës, detonatorë të koduar në distancë dhe baza magnetike.
+**Kapje (Grapple):** Një sulm i paarmatosur duke përdorur aftësinë "Grapple" (Kapje).
 
-**Detonator (Sonic):** Një pajisje që lëshon një impuls zanor shkatërrues dhe goditës që mund të thyejë qelqin dhe materie të tjera të brishta, si dhe të trullosë çdo objektiv të gjallë të kapur në rrezen e tij të efektit.
+**Granatë, Antimaterie:** Një pajisje shpërthyese e vogël, por jashtëzakonisht e fuqishme, e aktivizuar dhe e hedhur drejt armiqve, sendeve ose strukturave. Megjithëse përmbajnë sasi pafundësisht të vogla të antimateries, këto granata zakonisht shkrepen nga lëshues, pasi janë aq shkatërruese sa është e vështirë të hedhësh një të tillë jashtë rrezes së vet të shpërthimit.
 
-**Shpërthyes (Kapsulë shpërthyese):** Një shpërthyes i vogël i përdorur për të shkrepur një shpërthyes më të madh. Ato më të vjetrat përdornin fitila, ndërsa ato më të rejat përdorin elektricitet ose metoda më të sofistikuara për të shkrepur shpërthyesin.
+**Granatë, Goditëse:** Një pajisje shpërthyese e vogël e aktivizuar dhe e hedhur drejt armiqve ose në zona të mbyllura, ku mund të trullosë ata që kapen në rrezen e shpërthimit. Ndonjëherë quhet granatë trullosëse.
 
-**Shpërthyes (Dinamit):** Shkopinj shpërthyesi kimik të zhytur në një të ngurtë si tallashi, të mbështjellë me letër të trashë dhe të ndezur nga shkëndija nga një fitil ose një shpërthim më i vogël nga një kapsulë shpërthyese. Kjo është jashtëzakonisht e rrezikshme, pasi ka tendencë të 'djersijë' nitroglicerinë dhe bëhet e paqëndrueshme kur lihet vetëm për shumë kohë.
+**Granatë, Shkatërruese:** Një granatë e aftë për të shkatërruar të gjithë lëndën (ose për të thyer lidhjet molekulare) në rrezen e shpërthimit. Shumë të rrezikshme, granatat shkatërruese përdoren përgjithësisht vetëm si armë të mundësisë së fundit.
 
-**Shpërthyes (I improvizuar):** Zakonisht një bombë tubi, kjo përshkruan çdo numër shpërthyesish të vegjël kimikë të bërë në shtëpi.
+**Granatë, Impuls Elektromagnetik (EM):** Një granatë me aftësi të impulsit elektromagnetik. Kur hidhet ndaj një shënjestre metalike, sipërfaqja magnetike shton +20% në shansin tuaj për të goditur me sukses.
 
-**Shpërthyes (Plastik):** Një shpërthyes modern kimik i përzier me një substancë si nafta ose dylli në një formë plastike të lakueshme, të ngjashme me stuko, e aftë të formësohet dhe të modifikohet sipas nevojës. Përdoret me kohëmatës dhe shpesh shkrepet me një ngarkesë elektrike. Gjithashtu quhet plastik.
+**Granatë, Shpërthyese:** Një eksploziv i vogël i aktivizuar dhe i hedhur, duke rezultuar në një shpërthim force goditëse dhe shrapnelesh.
 
-**Grusht (Fist):** Një sulm i paarmatosur duke përdorur aftësinë Brawl (Dyluftim).
+**Granatë, Ndriçuese:** Një shkop me kimikate të djegshme i aktivizuar dhe i hedhur për të ndriçuar zonat e errëta ose për të siguruar shënjim drite për shënjestrim ajror.
 
-**Flail (Topuz me zinxhir):** Një kokë flail e montuar në fund të një zinxhiri të shkurtër të lidhur me një dorezë rreth një metër të gjatë, ose më gjatë.
+**Granatë, Fuzion:** Një pajisje nën-bërthamore jashtëzakonisht e fuqishme, e aftë për forcë të jashtëzakonshme shkatërruese. Granatat e fuzionit shkrepen vetëm nga lëshues ose hidhen në situata ku përdoruesi ka kohë të mjaftueshme për të dalë jashtë rrezes së shpërthimit.
 
-**Flail (Morningstar):** Një armë mesjetare me një dorezë, një gjatësi zinxhiri dhe një top me gjemba në fund. Disa nuk kanë gjemba dhe janë thjesht topa të rënduar ose të mbushur në fund të zinxhirëve.
+**Granatë, Gaz:** Një pajisje shpërthyese kimike e vogël e aktivizuar dhe e hedhur ose e rrotulluar, duke lëshuar një gaz toksik ose ndryshe të dëmshëm. Këto mund të mbushen me një shumëllojshmëri gazesh (mustardë, lotësjellës, gjumësjellës, etj.).
 
-**Flamethrower (Hedhës flakësh):** Një tank plot me një kimikat shumë të djegshëm të lidhur me një projektues/ndezës që spërkat rrëke lëngu në flakë. Hedhësit e flakëve mund të përdoren gjithashtu për të zhytur një zonë ose send në këtë kimikat të ndezshëm pa e ndezur atë. Jashtëzakonisht i rrezikshëm për shkak të rrezes së shkurtër, periudhës së kufizuar të përdorimit dhe potencialit për të ndezur veten. Hedhësit e flakëve mund të shpërthejnë kur goditet tanku, duke shkaktuar dëme të dyfishta të hedhura për këdo brenda pesë metrave nga përdoruesi. Bëni një hedhje për Fat për ta shmangur këtë.
+**Granatë, Koktej Molotov:** Një eksploziv i improvizuar i bërë nga një shishe dhe fitil, i ndezur dhe i hedhur, zakonisht për t'i vënë zjarrin atij ose asaj.
 
-**Garrote (Tel mbytës):** Një kordon i shkurtër i përdorur për mbytje, qoftë një kabllo e hollë metalike, litar ceremonial, ose përdorim i improvizuar i një shalli ose rripi.
+**Granatë, Fosfori:** Një pajisje shpërthyese kimike e vogël e aktivizuar dhe e hedhur. Ajo lëshon një zjarr kimik shumë të djegshëm që mund të shkrijë pajisjet dhe t'u vërë zjarrin objekteve, ose thjesht të ndriçojë një zonë të errët për personelin tokësor ose shënjestrimin nga aeroplanët.
 
-**Doreza (Armored Gauntlet):** Një dorezë metalike e veshur me parzmore ose pa të, duke shtuar dëme në goditjet e suksesshme me aftësinë Brawl.
+**Granatë, Plazma:** Një granatë që përdor teknologjinë e plazmës. Jashtëzakonisht shpërthyese dhe e aftë për të shkaktuar shkatërrim të jashtëzakonshëm dhe zjarr.
 
-**Gr grapple (Përleshje):** Një sulm i paarmatosur duke përdorur aftësinë Grapple (Përleshje).
+**Granatë, Shok:** Një granatë që lëshon një ngarkesë elektrike, e pajisur me sipërfaqe magnetike për t'u ngjitur në çdo sipërfaqe metalike ku hidhet. Kur hidhet ndaj një shënjestre metalike, sipërfaqja magnetike shton +20% në shansin tuaj për të goditur me sukses.
 
-**Granatë (Antimaterie):** Një pajisje shpërthyese e vogël por jashtëzakonisht e fuqishme e shkrepur dhe hedhur ndaj armiqve, sendeve ose strukturave. Megjithëse përmban sasi pafundësisht të vogla antimaterie, këto granata zakonisht shkrepen nga lëshuesit, pasi janë aq shkatërruese sa është e vështirë të hedhësh një jashtë rrezes së saj të shpërthimit.
+**Granatë, Shrapnel:** Një pajisje shpërthyese e vogël e aktivizuar dhe e hedhur ndaj armiqve, e vendosur për të lëshuar shrapnele vdekjeprurëse që shpojnë mishin.
 
-**Granatë (Goditëse):** Një pajisje shpërthyese e vogël e shkrepur dhe hedhur ndaj armiqve ose në zona të mbyllura, ku mund të trullosë ata që kapen në rrezen e shpërthimit. Ndonjëherë quhet granatë trullosëse.
+**Granatë, Tymuese:** Një granatë gazi (shih më lart) që lëshon tym të padëmshëm, por mbulues.
 
-**Granatë (Çintegruese):** Një granatë e aftë për të çintegruar të gjithë materien (ose për të thyer lidhjet molekulare) në rrezen e shpërthimit. Jashtëzakonisht të rrezikshme, granatat çintegruese përdoren përgjithësisht vetëm si armë të mjetit të fundit.
+**Granatë, Sonike:** Një granatë që përdor teknologjinë e impulsit sonik që lëshon një shpërthim sonik me frekuencë të lartë për të çaktivizuar ose shpërqendruar shënjestrat.
 
-**Granatë (Impulsi Elektromagnetik):** Një granatë me aftësi impulsi elektromagnetik. Kur hidhet ndaj një objektivi metalik, sipërfaqja magnetike shton +20% në shansin tuaj për të goditur me sukses.
+**Granatë, Trullosëse:** Një granatë që lëshon një shpërthim lehtësisht goditës, i dizajnuar posaçërisht për të trullosur ose çaktivizuar përkohësisht shënjestrat.
 
-**Granatë (Shpërthyese):** Një shpërthyes i vogël i shkrepur dhe hedhur, duke rezultuar në një shpërthim force goditëse dhe shrapneli.
+**Armë, Automatike:** Një armë zjarri me përsëritje të shpejtë me cilësime këmbëze për shkrepje të vetme, shpërthime të shkurtra dhe zjarr të plotë automatik.
 
-**Granatë (Flare):** Një shkop me kimikate të ndezshme të shkrepur dhe hedhur për të ndriçuar zona të errësuara ose për të siguruar shënjimin e dritës për shënjestrim ajror.
+**Armë, Mini-:** Një armë e rëndë automatike e stilit Gatling, shpesh e montuar në helikopterë ose automjete. Kërkesa FOR (Forcë) është nëse mbahet në dorë.
 
-**Granatë (Fuzioni):** Një pajisje jashtëzakonisht e fuqishme sub-bërthamore, e aftë për forcë të madhe shkatërruese. Granatat e fuzionit shkrepen vetëm nga lëshuesit ose hidhen në situata ku përdoruesi ka kohë adekuate për të dalë nga rrezja e shpërthimit.
+**Armë, Nën-automatike:** Një armë automatike e vogël, e dizajnuar për përdorim me një dorë.
 
-**Granatë (Gazi):** Një pajisje e vogël shpërthyese kimike e shkrepur dhe hedhur ose rrotulluar, duke lëshuar një gaz toksik ose ndryshe të dëmshëm. Këto mund të mbushen me një shumëllojshmëri gazesh (mustardë, gaz lotsjellës, trullosës, etj.).
+**Spatë, e Gjatë (Halberd):** Një kokë spate e gjerë në një bisht dy-metërsh. Zakonisht përdoret nga rojet e qytetit mesjetar ose kundër armiqve të hipur mbi kalë.
 
-**Granatë (Kokteji Molotov):** Një shpërthyes i improvizuar i bërë nga një shishe dhe fitil, ndezur dhe hedhur, zakonisht për t'i vënë flakën atyre ose sendit.
+**Çekiç:** Një mjet i zakonshëm shtëpiak që përdoret për marangozë ose një armë ushtarake e vogël me një dorë me kokë goditëse.
 
-**Granatë (Fosfori):** Një pajisje e vogël shpërthyese kimike e shkrepur dhe hedhur. Ajo lëshon një zjarr kimik shumë të ndezshëm që mund të shkrijë pajisjet dhe t'i vërë flakën objekteve, ose thjesht të ndriçojë një zonë të errësuar për personelin tokësor ose shënjestrimin nga anijet ajrore.
+**Çekiç, i Madh:** Një çekiç masiv që përdoret me dy duar.
 
-**Granatë (Plazma):** Një granatë që përdor teknologjinë e plazmës. Jashtëzakonisht shpërthyese dhe e aftë për të shkaktuar shkatërrim të madh dhe zjarr.
+**Çekiç, Sledge:** Një mjet i rëndë që përdoret nga punëtorët e ndërtimit dhe ekipet e shembjes, përdoret me dy duar.
 
-**Granatë (Goditëse elektrike):** Një granatë që lëshon një ngarkesë elektrike, e pajisur me sipërfaqe magnetike për t'u ngjitur në çdo sipërfaqe metalike ku hidhet. Kur hidhet ndaj një objektivi metalik, sipërfaqja magnetike shton +20% në shansin tuaj për të goditur me sukses.
+**Çekiç, Lufte:** I dizajnuar si një çekiç, kjo armë shpesh ka një thumb në vend të një koke të sheshtë, ideale për të shpuar armaturën.
 
-**Granatë (Shrapnel):** Një pajisje e vogël shpërthyese e shkrepur dhe hedhur ndaj armiqve, e vendosur për të lëshuar shrapnel vdekjeprurës që depërton në mish.
+**Goditje me kokë:** Një sulm i paarmatosur duke përdorur aftësinë "Brawl".
 
-**Granatë (Tymi):** Një granatë gazi (shih më sipër) që lëshon tym të padëmshëm por që fsheh.
+**Hedhëse (Javelin):** Një shtizë e shkurtër që përdoret me një ose dy duar, ose për hedhje.
 
-**Granatë (Zanore):** Një granatë që përdor teknologjinë e impulsit zanor që lëshon një shpërthim zanor me frekuencë të lartë për të çaktivizuar ose shpërqendruar objektivat.
+**Katana:** Një shpatë e gjatë me një teh, pak e lakuar, e përdorur me një ose dy duar, e fetishizuar për punimin dhe mprehtësinë e saj.
 
-**Granatë (Trullosëse):** Një granatë që lëshon një shpërthim lehtësisht goditës të krijuar posaçërisht për të trullosur ose çaktivizuar përkohësisht objektivat.
+**Shkelm:** Një sulm i paarmatosur duke përdorur aftësinë "Brawl".
 
-**Mitraloz (Machine Gun):** Një armë zjarri që përsëritet me shpejtësi me cilësime këmbëze për një plumb, breshëri të shkurtra dhe zjarr automatik të plotë.
+**Thikë:** Një mjet i përshtatshëm për të ngrënë, prerë, mbrojtje ose vrasje të papritur. Si një thikë me majë, megjithëse më e lehtë dhe më pak e qëndrueshme.
 
-**Mitraloz (Mini Gun):** Një mitraloz i rëndë i stilit Gatling, shpesh i montuar në helikopterë ose automjete. Kërkesa STR është nëse mbahet në dorë.
+**Thikë, Kasapi:** Një thikë e madhe dhe e rëndë kuzhine, e përshtatshme për të prerë copa të mëdha mishi me një goditje të vetme.
 
-**Mitraloz (Submachine Gun):** Një mitraloz i vogël, i krijuar për përdorim me një dorë.
+**Thikë, Xhepi:** Një thikë e vogël palosëse, shpesh me shumë tehe.
 
-**Spatë (Halberd):** Një kokë spatë e gjerë në një bosht dy-metërsh. Përdoret zakonisht nga rojet e qytetit mesjetar ose kundër kundërshtarëve të montuar.
+**Thikë, Switchblade:** Një thikë xhepi me teh të tërheqshëm.
 
-**Çekiç (Hammer):** Një mjet i zakonshëm shtëpiak i përdorur për marangozë ose një armë e vogël ushtarake një-dorëshe me një kokë goditëse.
+**Thikë, Hedhëse:** Një thikë e balancuar për hedhje, zakonisht pa bisht.
 
-**Çekiç (Great Hammer):** Një çekiç masiv i përdorur me dy duar.
+**Thikë, Vibro:** Një teh thike e teknologjisë së lartë e vendosur në një bisht mekanik, që vibron me një shpejtësi jashtëzakonisht të lartë. Jashtëzakonisht e mprehtë, vibrimi shton forcë shtesë prerëse edhe në prerjet më të lehta.
 
-**Çekiç (Sledge Hammer):** Një mjet i rëndë i përdorur nga punëtorët e ndërtimit dhe ekipet e shkatërrimit, i përdorur me dy duar.
+**Shtizë, Kalorësie (Lance):** Një shtizë e gjatë që përdoret me një dorë mbi kalë. Gjatë kalërimit, sulmuesi përdor modifikuesin e dëmit të kafshës në vend të të tijit. Shtizat e kalorësisë mund të përdoren gjithashtu në këmbë si një shtizë me dy duar, me modifikuesin e saj normal të dëmit.
 
-**Çekiç (War Hammer):** I krijuar si një çekiç, kjo armë shpesh ka një thumb në vend të një koke të sheshtë, ideale për të depërtuar përmes parzmoreve.
+**Shtizë, Trullosëse:** Një armë në formë shkopi me një majë elektrike të ngarkuar në njërin skaj. Disa shtiza trullosëse kanë majë në të dy skajet.
 
-**Goditje me kokë (Head Butt):** Një sulm i paarmatosur duke përdorur aftësinë Brawl (Dyluftim).
+**Laso:** Lariat-i tradicional që përdoret për mbledhjen e bagëtive. Nuk bën dëm, por e imobilizon shënjestrën duke përdorur rregullat e ngatërrimit.
 
-**Shtizë (Javelin):** Një shtizë e shkurtër e përdorur me një ose dy duar, ose për t'u hedhur.
+**Lëshues, Granatash:** Një lëshues dore ose stacionar që shkrep granata në distanca të mëdha. Mund të jetë një platformë e vogël, një lëshues dore në formë arme zjarri, ose i bashkangjitur në një armë tjetër zjarri.
 
-**Katana:** Një spatë e gjatë me një teh, pak e lakuar, e përdorur me një ose dy duar, e fetishizuar për mjeshtërinë dhe mprehtësinë e saj.
+**Lëshues, Raketa LAW:** Një lëshues raketash i lehtë, i disponueshëm për një përdorim, i njohur gjithashtu si arma e lehtë antitank (LAW).
 
-**Shkelm (Kick):** Një sulm i paarmatosur duke përdorur aftësinë Brawl (Dyluftim).
+**Lëshues, Raketash:** Një tub dhe platformë mjaft e vogël e montuar në fushëbetejë, e përdorur për të shkrepur raketa me më shumë saktësi.
 
-**Thikë (Knife):** Një mjet i përshtatshëm për të ngrënë, prerë, mbrojtje ose vrasje të menjëhershme. Si një kamë, megjithëse më e lehtë dhe më pak e qëndrueshme.
+**Topuz, i Rëndë:** Një bisht me një peshë të rëndë për kokë, me thumba, fllanxha, gunga ose i thjeshtë.
 
-**Thikë (Butcher Knife):** Një thikë kuzhine e madhe dhe e rëndë, e përshtatshme për të prerë copa të mëdha mishi me një goditje të vetme.
+**Topuz, i Lehtë:** Një bisht me një peshë të lehtë që përdoret për të goditur dhe shtypur.
 
-**Thikë (Pocket Knife):** Një thikë e vogël palosëse, shpesh me tehe të shumta.
+**Çekiç, Lufte (Maul):** Një çekiç me dorezë të gjatë dhe me dy koka, që përdoret me dy duar.
 
-**Thikë (Switchblade):** Një thikë xhepi që tërhiqet.
+**Minë, Antipersonel:** Një minë tokësore e ndërtuar kryesisht për të plagosur në vend që të vrasë (duke maksimizuar vështirësinë për armikun).
 
-**Thikë (Throwing Knife):** Një thikë e balancuar për t'u hedhur, zakonisht pa dorezë.
+**Musketë:** Një armë zjarri e hershme me tytë të lëmuar, e mbushur nga tyta dhe ndonjëherë e mbushur ose me saçme shrapneli ose me plumba të mëdhenj si topa. E ngadaltë dhe e pabesueshme, e ndezur me çakmak ose mekanizëm rrotullues.
 
-**Thikë (Vibro Knife):** Një teh thike me teknologji të lartë i vendosur në një dorezë mekanike, që vibron me një shpejtësi jashtëzakonisht të lartë. Jashtëzakonisht e mprehtë, vibrimi shton forcë shtesë prerëse edhe në prerje të lehta.
-
-**Lënxë (Lance):** Një shtizë e gjatë e përdorur me një dorë mbi kalë. Ndërsa është i montuar, sulmuesi përdor modifikuesin e dëmit të kalit në vend të tijit. Lënxat mund të përdoren gjithashtu në këmbë si një shtizë dy-dorëshe, me modifikuesin e saj normal të dëmit.
-
-**Lënxë (Stun Lance):** Një armë në formë shkopi me një prod elektrik të ngarkuar në njërin skaj. Disa lënxat trullosëse kanë goditës në të dy skajet.
-
-**Lasso (Litar):** Litari tradicional i përdorur për mbajtjen e bagëtive. Nuk bën dëme, por imobilizon objektivin duke përdorur rregullat e ngatërrimit.
-
-**Lëshues (Grenade Launcher):** Një lëshues i mbajtur në dorë ose stacionar që hedh granata në distanca të mëdha. Mund të jetë një platformë e vogël, një lëshues në formë arme zjarri, ose i lidhur me një armë tjetër zjarri.
-
-**Lëshues (LAW Rocket):** Një lëshues raketash i lehtë, i disponueshëm me një shkrepje, i njohur gjithashtu si arma e lehtë kundër tankeve (LAW).
-
-**Lëshues (Rocket Launcher):** Një tub pak i madh dhe platformë e montuar në fushën e betejës, e përdorur për të shkrepur raketa me më shumë saktësi.
-
-**Topuz (Heavy Mace):** Një bisht me një peshë të rëndë për kokën, me gjemba, me fllanxha, me thumba ose i thjeshtë.
-
-**Topuz (Light Mace):** Një bisht me një peshë të lehtë të përdorur për të goditur dhe shtypur.
-
-**Mauz (War Maul):** Një çekiç me dy koka me dorezë të gjatë i përdorur me dy duar.
-
-**Minë (Antipersonnel):** Një minë tokësore e ndërtuar kryesisht për të plagosur në vend që të vrasë (duke maksimizuar vështirësinë për armikun).
-
-**Musket (Musketi):** Një armë zjarri e hershme me tytë të lëmuar e mbushur nga tyta dhe ndonjëherë e mbushur ose me shrapnel ose me plumba të mëdhenj si topa. E ngadaltë dhe e pabesueshme, e ndezur me një strall ose mekanizëm rrotullues.
-
-**Minë (Antitank):** Një minë e bërë për të dëmtuar zinxhirët e tankeve ose automjetet e armikut.
+**Minë, Antitank:** Një minë e bërë për të dëmtuar zinxhirët e tankeve ose automjetet e armikut.
 
 **Naginata:** Një shtizë e gjatë me një kokë si shpatë, e përdorur për sulme prerëse dhe shpuese.
 
-**Rrjetë (Net):** Një rrjetë e lirshme me kordon të endur e përdorur për të kapur kafshë ose objektiva më të mëdhenj. Megjithëse rrjetat më të vogla përdoren për lojëra të vogla, rrjeta e përshkruar këtu është mjaft e madhe për t'u përdorur kundër Qenieve Njerëzore.
+**Rrjetë:** Një rrjetë e lirshme me kordon të endur që përdoret për të kapur kafshë ose shënjestra më të mëdha. Ndërsa rrjetat më të vogla përdoren për kafshë të vogla, rrjeta e përshkruar këtu është mjaft e madhe për t'u përdorur kundër njerëzve.
 
-**Shtizë (Pike):** Një shtizë e gjatë (3–5 metra) e përdorur në dyluftimin e formacionit. Gjithashtu e zakonshme për rojet e qytetit dhe mbrojtjen e kështjellës. Shtizat janë mbrojtja më e mirë (përveç një breshërie armësh zjarri) kundër një sulmi me kalorësi.
+**Shtizë, e Gjatë (Pike):** Një shtizë e gjatë (3–5 metra) e përdorur në luftimet në formacion. Gjithashtu e zakonshme për rojet e qytetit dhe mbrojtjen e kështjellës. Shtizat janë mbrojtja më e mirë (përveç një breshërie armësh zjarri) kundër një sulmi me kalorësi.
 
-**Pistoletë (Blaster):** Një pistoletë që shkrep një shpërthim të shkurtër energjie, zakonisht plazmë, duke djegur objektivin dhe duke shkaktuar tronditje. Pistoletat blaster zakonisht fuqizohen nga kapëse që përmbajnë lëndë djegëse ekzotike kimike.
+**Pistoletë, Blaster:** Një pistoletë që shkrep një shpërthim të shkurtër energjie, zakonisht plazmë, duke djegur shënjestrën dhe duke shkaktuar tronditje. Pistoletat blaster zakonisht fuqizohen nga karikatorë që përmbajnë lëndë djegëse kimike ekzotike.
 
-**Pistoletë (Derringer):** Një pistoletë e vogël e mbajtur në dorë, zakonisht në madhësinë e pëllëmbës. Lehtësisht e fshehshme, me kapacitet të ulët municioni. Disa janë me një ose dy shkrepje, të tjerat kanë kapëse të vogla. Ndonjëherë quhet pistoletë 'holdout'.
+**Pistoletë, Derringer:** Një pistoletë e vogël dore, zakonisht në madhësinë e pëllëmbës. Lehtësisht e fshehshme, me kapacitet të ulët municioni. Disa janë me një ose dy shkrepje, të tjerat kanë karikatorë të vegjël. Ndonjëherë quhet pistoletë "mbajtëse".
 
-**Pistoletë (Çintegruese):** Një pistoletë që shkrep një shpërthim energjie jashtëzakonisht shkatërrues që çintegron me shpejtësi një objektiv të tërë, ose pjesë të mëdha të atij objektivi. Pistoletat çintegruese mund të fuqizohen me qeliza energjie ose kapëse karburanti.
+**Pistoletë, Shkatërruese:** Një pistoletë që shkrep një shpërthim energjie jashtëzakonisht shkatërruese që shkatërron me shpejtësi një shënjestër të tërë, ose pjesë të mëdha të asaj shënjestre. Pistoletat shkatërruese mund të fuqizohen me qeliza energjie ose karikatorë karburanti.
 
-**Pistoletë (Impulsi Elektromagnetik):** Një pistoletë që shkrep një rrymë impulsi elektromagnetik të drejtuar ndaj një objektivi si një kompjuter ose robot, duke çaktivizuar qarqet e tij.
+**Pistoletë, Impuls Elektromagnetik (EM):** Një pistoletë që shkrep një rrymë impulsi elektromagnetik të drejtuar ndaj një shënjestre si një kompjuter ose robot, duke çaktivizuar qarqet e tij.
 
-**Pistoletë (Flechette):** Një pistoletë e vogël, e lehtë e fuqizuar nga ngarkesa magnetike ose gaz, duke shkrepur shumë tehe të vogla, të mprehta si gjilpëra ndaj një objektivi. Këto përgjithësisht kanë rreze të shkurtër dhe nuk janë shumë efektive kundër objektivave të parzmozuar, por janë shkatërruese për armiqtë e paparzmozuar në rreze të shkurtër. Ato përdorin si kapëse municioni flechette ashtu edhe një cilindër gazi ose qelizë energjie. Ndonjëherë quhet 'armë gjilpëre'.
+**Pistoletë, Flechette:** Një pistoletë e vogël dhe e lehtë e fuqizuar nga ngarkesa magnetike ose gaz, që shkrep shumë tehe të vogla dhe të mprehta si gjilpëra drejt një shënjestre. Këto përgjithësisht kanë rreze të shkurtër dhe nuk janë shumë efektive kundër shënjestrave të armatosura, por janë shkatërruese për armiqtë e paarmatosur në distancë të shkurtër. Ato përdorin karikatorë municioni flechette dhe një cilindër gazi ose qelizë energjie. Ndonjëherë quhet "armë gjilpërash".
 
-**Pistoletë (Flintlock):** Një pistoletë që përdor strall dhe çelik për të ndezur një mbushje baruti të paketuar me dorë. E ngjashme me pistoletën me rrotë.
+**Pistoletë, Flintlock:** Një pistoletë që përdor gur stralli dhe çelik për të ndezur një mbushje baruti të paketuar me dorë. E ngjashme me një pistoletë me mekanizëm rrotullues.
 
-**Pistoletë (Heavy):** Një pistoletë me kornizë të rëndë që posedon fuqi të shkëlqyer ndaluese. Më e ngadaltë se pistoletat më të vogla dhe më të lehta. Magnum .357 është një shembull i shkëlqyer.
+**Pistoletë, e Rëndë:** Një pistoletë me kornizë të rëndë që posedon fuqi superiore ndaluese. Më e ngadaltë se pistoletat më të vogla dhe më të lehta. Magnum .357 është një shembull i shkëlqyer.
 
-**Pistoletë (Laser):** Një pistoletë që shkrep një rreze drite me intensitet të lartë të aftë për të djegur shumicën e substancave, madje duke shkrirë metalin. Zakonisht e fuqizuar nga një qelizë energjie që përmban një numër të kufizuar shkrepjesh.
+**Pistoletë, Laser:** Një pistoletë që shkrep një rreze drite me intensitet të lartë të aftë për të djegur shumicën e substancave, madje duke shkrirë metalin. Zakonisht fuqizohet nga një qelizë energjie që përmban një numër të kufizuar ngarkesash.
 
-**Pistoletë (Light):** Një pistoletë me kornizë të lehtë që tregton fuqinë ndaluese për saktësi dhe shkallë zjarri. Kalibri .22 është një shembull i shkëlqyer.
+**Pistoletë, e Lehtë:** Një pistoletë me kornizë të lehtë që shkëmben fuqinë ndaluese për saktësi dhe shpejtësi zjarri. Kalibri .22 është një shembull i shkëlqyer.
 
-**Pistoletë (Medium):** Një pistoletë me kornizë mesatare, e besueshme dhe me fuqi zjarri dhe shkallë zjarri mesatare. Pistoleta 9mm është një shembull i shkëlqyer.
+**Pistoletë, e Mesme:** Një pistoletë me kornizë të mesme, e besueshme dhe me fuqi zjarri e shpejtësi zjarri të moderuar. Pistoleta 9mm është një shembull i shkëlqyer.
 
-**Pistoletë (Plasma):** Një pistoletë që shkrep një rrymë të fokusuar të plazmës së mbinxehur, zakonisht e fuqizuar nga një qelizë energjie ose plazme.
+**Pistoletë, Plazma:** Një pistoletë që shkrep një rrymë të përqendruar plazme të mbinxehur, zakonisht e fuqizuar nga një qelizë energjie ose plazme.
 
-**Pistoletë (Shock):** Një pistoletë që lëshon një shpërthim elektrik me tension të lartë.
+**Pistoletë, Shok:** Një pistoletë që lëshon një shpërthim elektrik me tension të lartë.
 
-**Pistoletë (Sonic):** Një pistoletë që lëshon një kon të fokusuar valësh zanore, të dëmshme për indet e gjalla dhe materien inerte njësoj.
+**Pistoletë, Sonike:** Një pistoletë që lëshon një kon të përqendruar valësh sonike, të dëmshme për indet e gjalla dhe lëndën inerte njësoj.
 
-**Pistoletë (Stun):** Një pistoletë që lëshon një shpërthim energjie me të njëjtën frekuencë si sistemi nervor njerëzor, me rreze të shkurtër dhe e krijuar për paqësim. E padobishme kundër objekteve dhe qenieve më të mëdha se Humanoidët, megjithëse ato mund të rregullohen për objektiva të tjerë. Ndonjëherë quhet 'stunner'.
+**Pistoletë, Trullosëse:** Një pistoletë që lëshon një shpërthim energjie të së njëjtës frekuencë si sistemi nervor njerëzor, me rreze të shkurtër dhe e dizajnuar për paqësim. E padobishme kundër objekteve dhe qenieve më të mëdha se humanoidët, megjithëse mund të rregullohen për shënjestra të tjera. Ndonjëherë quhet "trullosëse".
 
-**Rapier:** Një shpatë me teh të hollë një-dorëshe, e përdorur kryesisht për shpim. Megjithëse secila është unike, kjo përshkruan gjithashtu epee dhe foil, dy shpata të tjera skermimi.
+**Rapierë:** Një shpatë me teh të hollë me një dorë, e përdorur kryesisht për shpim. Megjithëse secila është unike, kjo përshkruan gjithashtu epee-në dhe foil-in, dy shpata të tjera të skermës.
 
-**Revolver (Heavy):** Një pistoletë e rëndë me kalibër të madh, si .44 magnum ose Colt .45.
+**Revolver, i Rëndë:** Një pistoletë e rëndë me kalibër të madh, si .44 magnum ose Colt .45.
 
-**Revolver (Light):** Një pistoletë e lehtë, zakonisht në rangun e kalibrit .22 deri .32.
+**Revolver, i Lehtë:** Një pistoletë e lehtë, zakonisht në diapazonin e kalibrit .22 deri në .32.
 
-**Revolver (Medium):** Një pistoletë mesatare, zakonisht kalibër .357 deri .38.
+**Revolver, i Mesëm:** Një pistoletë e mesme, zakonisht kalibri .357 deri në .38.
 
-**Pushkë (Assault Rifle):** Një pushkë e rëndë, e fortë me një kapacitet të madh municioni, e shkrepur si një mitraloz (një shkrepje, breshëri të shkurtra ose zjarr automatik).
+**Pushkë, Sulmi:** Një pushkë e rëndë dhe e qëndrueshme me një kapacitet të madh municioni, e shkrepur si një armë automatike (shkrepje e vetme, shpërthime të shkurtra ose zjarr automatik).
 
-**Pushkë (Blaster):** Një pushkë që shkrep shpërthime të shkurtra energjie, zakonisht plazmë që djeg plus ndikim goditës. Pushkët blaster zakonisht fuqizohen nga kapëse që përmbajnë lëndë djegëse ekzotike kimike.
+**Pushkë, Blaster:** Një pushkë që shkrep shpërthime të shkurtra energjie, zakonisht plazmë që djeg plus ndikim goditës. Pushkët blaster zakonisht fuqizohen nga karikatorë që përmbajnë lëndë djegëse kimike ekzotike.
 
-**Pushkë (Bolt-action):** Një pushkë me një mekanizëm rrëshqitës. Disa përdorin kapëse, ndërsa të tjerët ruajnë plumba në magazina gjatë gjatësisë së tytës së pushkës.
+**Pushkë, me Mekanizëm Shul:** Një pushkë me një shul rrëshqitës. Disa përdorin karikatorë, ndërsa të tjerat ruajnë plumba në magazinat sa gjatësia e tytës së pushkës.
 
-**Pushkë (Çintegruese):** Një pushkë që lëshon një shpërthim energjie jashtëzakonisht shkatërrues që çintegron me shpejtësi një objektiv të tërë ose pjesë të mëdha të atij objektivi. Pushkët çintegruese mund të fuqizohen me qeliza energjie ose kapëse karburanti.
+**Pushkë, Shkatërruese:** Një pushkë që lëshon një shpërthim energjie jashtëzakonisht shkatërruese që shkatërron me shpejtësi një shënjestër të tërë ose pjesë të mëdha të asaj shënjestre. Pushkët shkatërruese mund të fuqizohen me qeliza energjie ose karikatorë karburanti.
 
-**Pushkë (Elephant):** Një pushkë me kalibër të madh e krijuar për të rrëzuar kafshët e gjuetisë më të mëdha. Ndonjëherë me dy tytë, këto shpesh janë të mbushura nga prapa, një plumb i trashë për çdo herë.
+**Pushkë, Elefantësh:** Një pushkë me kalibër të madh e dizajnuar për të rrëzuar kafshët më të mëdha të gjahut. Ndonjëherë me dy tytë, këto shpesh mbushen nga prapësimi, një plumb i trashë për çdo herë.
 
-**Pushkë (Laser):** Një pushkë që shkrep një rreze drite me intensitet të lartë të aftë për të djegur shumicën e substancave, madje duke shkrirë metalin. Pushkët lazer zakonisht fuqizohen nga qeliza energjie me shkrepje të kufizuara.
+**Pushkë, Laser:** Një pushkë që shkrep një rreze drite me intensitet të lartë të aftë për të djegur shumicën e substancave, madje duke shkrirë metalin. Pushkët lazer zakonisht fuqizohen nga qeliza energjie me ngarkesa të kufizuara.
 
-**Pushkë (Lever-action):** Një pushkë me një levë të jashtme të përdorur për të cikluar municionin. Popullore me gjahtarët, megjithëse jopraktike për përdorim ushtarak.
+**Pushkë, me Mekanizëm Leva:** Një pushkë me një levë të jashtme që përdoret për të qarkulluar municionin. Popullore tek gjuetarët, megjithëse jopraktike për përdorim ushtarak.
 
-**Pushkë (Impulsi Elektromagnetik):** Një version pushke i pistoletës me impuls elektromagnetik, duke lëshuar një shpërthim të fokusuar të energjisë elektromagnetike ndaj një objektivi që përdor energji elektrike ose elektronike.
+**Pushkë, Impuls Elektromagnetik (EM):** Një version pushke i pistoletës me impuls elektromagnetik, që lëshon një shpërthim të përqendruar të energjisë elektromagnetike ndaj një shënjestre elektrike ose elektronike.
 
-**Pushkë (Plasma):** Një version pushke i një pistolete plazme, i aftë për të shkrepur një shpërthim të fokusuar të plazmës së mbinxehur ndaj objektivit.
+**Pushkë, Plazma:** Një version pushke i një pistoletë plazme, e aftë për të shkrepur një shpërthim të përqendruar të plazmës së mbinxehur ndaj shënjestrës.
 
-**Pushkë (Shock):** Një version pushke i pistoletës me goditje elektrike, i aftë për të shkrepur një shpërthim si rrufe për rreze dhe fuqi të konsiderueshme.
+**Pushkë, Shok:** Një version pushke i pistoletës shok, e aftë për të shkrepur një shpërthim si vetëtima për rreze dhe fuqi të konsiderueshme.
 
-**Pushkë (Sonic):** Një version pushke i pistoletës zanore, duke shkrepur një shpërthim impulsi zanor në formë koni ndaj objektivit.
+**Pushkë, Sonike:** Një version pushke i pistoletës sonike, që shkrep një shpërthim impulsi sonik në formë koni ndaj shënjestrës.
 
-**Pushkë (Sniper):** Një pushkë me tytë të gjatë e përdorur për zjarr në distancë të gjatë, e kalibruar me saktësi dhe zakonisht e pajisur me një dylbi me rreze të gjatë.
+**Pushkë, Snajper:** Një pushkë me tytë të gjatë e përdorur për zjarr në distancë të largët, e kalibruar me saktësi dhe zakonisht e pajisur me një dylbi me rreze të gjatë.
 
-**Pushkë (Sporting):** Një pushkë me kalibër të lehtë deri në mesatar (.22 ose .30–06) e përdorur për të rrëzuar kafshë të vogla gjuetie si dreri.
+**Pushkë, Sportive:** Një pushkë me kalibër të lehtë deri në të mesëm (.22 ose .30–06) e përdorur për të rrëzuar kafshë gjahu më të vogla si dreri.
 
-**Pushkë (Stun):** Një pushkë që lëshon një shpërthim energjie me rreze të shkurtër me të njëjtën frekuencë si sistemi nervor njerëzor, për qëllime paqësimi. E padobishme kundër objekteve dhe qenieve më të mëdha se Humanoidët, një pushkë trullosëse mund të rregullohet për objektiva të tjerë. Ndonjëherë quhet 'stunner'.
+**Pushkë, Trullosëse:** Një pushkë që lëshon një shpërthim energjie me rreze të shkurtër në të njëjtën frekuencë si sistemi nervor njerëzor, e menduar për paqësim. E padobishme kundër objekteve dhe qenieve më të mëdha se humanoidët, një pushkë trullosëse mund të rregullohet për shënjestra të tjera. Ndonjëherë quhet "trullosëse".
 
-**Gur (Thrown Rock):** Arma më bazë, një gur sa grushti.
+**Gur, i Hedhur:** Arma më bazike, një gur sa grushti.
 
-**Saber (Spatë):** Një spatë me një teh, e lakuar, e përdorur më së shpeshti nga kalorësia e montuar dhe në skermë.
+**Shpatë, e Lakuar (Saber):** Një shpatë me një teh, e lakuar, e përdorur më shpesh nga kalorësia dhe në skermë.
 
-**Sai:** Një armë si kamë në formën e një sfurku, me një trare të gjerë të lakuar. Sai nuk kanë teh dhe përdoren si shkopinj, armë shpuese ose thyes shpatash. Ato shpesh përdoren në çift.
+**Sai:** Një armë si thikë në formën e një sfurku, me një trare të gjerë të lakuar. Sai nuk kanë teh dhe përdoren si topuza, armë shpuese ose thyes të shpatave. Ato shpesh përdoren në çift.
 
-**Scimitar:** Një spatë me teh të rëndë, pak e lakuar, me një teh.
+**Scimitar:** Një shpatë me teh të rëndë, pak e lakuar dhe me një teh.
 
-**Kosa (Scythe):** Një mjet bujqësor me dorezë të gjatë me një teh të lakuar të vendosur pingul me bishtin, i përdorur për vjeljen e drithërave, por herë pas here me qëllim ceremonial.
+**Kosa:** Një mjet bujqësor me dorezë të gjatë me një teh të lakuar të vendosur pingul me bishtin, i përdorur për korrjen e drithërave, por ndonjëherë me qëllim ceremonial.
 
-**Shotgun (Automatic):** Një shotgun me kapacitet të madh municioni dhe mbushje automatike, zakonisht për fushëbetejë ose aksion policor.
+**Shtënë-shpejtë, Automatike:** Një shtënë-shpejtë me kapacitet të madh municioni dhe mbushje automatike, zakonisht për fushëbetejë ose veprim policor.
 
-**Shotgun (Double-barrel):** Një shotgun me mbushje nga prapa.
+**Shtënë-shpejtë, me Dy Tyta:** Një shtënë-shpejtë me mbushje nga prapësimi.
 
-**Shotgun (Sawed-off):** Një shotgun sportive ose me dy tytë me një tytë më të shkurtër, e ndryshuar me dorë ose e prodhuar për lehtësi fshehjeje dhe komoditet. Tyta më e shkurtër tregton rrezen për shpërndarje më të gjerë të municionit.
+**Shtënë-shpejtë, me Tytë të Shkurtuar:** Një shtënë-shpejtë sportive ose me dy tyta me një tytë më të shkurtër, të ndryshuar me dorë ose të prodhuar për lehtësi fshehjeje dhe komoditet. Tyta më e shkurtër shkëmben rrezen për një shpërndarje më të gjerë të municionit.
 
-**Shotgun (Sporting):** Një shotgun me kalibër mesatar deri të lehtë (kalibri 16 ose 20), i përdorur për gjueti dhe mbrojtje në shtëpi.
+**Shtënë-shpejtë, Sportive:** Një shtënë-shpejtë me kalibër të mesëm deri në të lehtë (kalibri 16 ose 20), e përdorur për gjueti dhe mbrojtje të shtëpisë.
 
-**Shuriken:** Tehe të vogla hedhëse, shpesh në formë ylli. Lehtësisht e fshehshme dhe e preferuar e vrasësve.
+**Shuriken:** Tehe të vogla hedhëse, shpesh në formë ylli. Lehtësisht të fshehshme dhe të preferuara nga vrasësit.
 
-**Drep (Sickle):** Një teh i sheshtë në formë gjysmëhëne, me një teh në pjesën e brendshme të gjysmëhënës, e përdorur me një dorë për të korrur drithëra ose për qëllime ceremoniale.
+**Drapër:** Një teh i sheshtë në formë gjysmëhëne, me një teh në pjesën e brendshme të gjysmëhënës, përdoret me një dorë për të korrur drithëra ose për qëllime ceremoniale.
 
-**Fingël (Sling):** Një rrip lëkure me një kupë ose zgavër për të mbajtur një gur, i rrotulluar dhe hedhur me forcë të pabesueshme ndaj objektivit.
+**Llastiqe:** Një rrip lëkure me një kupë ose zgavër për të mbajtur një gur, që rrotullohet dhe hidhet me forcë të pabesueshme ndaj shënjestrës.
 
-**Shtizë (Long Spear):** Një gjatësi druri rreth dy metra e gjatë, me një kokë me teh metalik ose stralli ose një majë të ngurtësuar me zjarr. Këto duhet të përdoren me dy duar. Personazhet të armatosur me shtiza të gjata shpesh godasin të parët në një raund luftimi.
+**Shtizë, e Gjatë:** Një gjatësi druri rreth dy metra e gjatë, me një kokë me teh metalik ose stralli ose një majë të fortë nga zjarri. Këto duhet të përdoren me dy duar. Personazhet të armatosur me shtiza të gjata shpesh godasin të parët në një raund luftimi.
 
-**Shtizë (Short Spear):** Një gjatësi druri rreth 1.5 metra e gjatë, me një kokë me teh metalik ose stralli ose një majë të ngurtësuar me zjarr. Shtizat e shkurtra mund të përdoren me një ose dy duar, ose të hidhen.
+**Shtizë, e Shkurtër:** Një gjatësi druri rreth 1.5 metra e gjatë, me një kokë me teh metalik ose stralli ose një majë të fortë nga zjarri. Shtizat e shkurtra mund të përdoren me një ose dy duar, ose të hidhen.
 
-**Spray (Chemical):** Një irritues kimik i projektuar nga një spërkatës i vogël, zakonisht në sytë e një objektivi. Me rreze të shkurtër dhe jo-vdekjeprurës.
+**Sprej, Kimik:** Një irritues kimik i projektuar nga një spërkatës i vogël, zakonisht në sytë e një shënjestre. Me rreze të shkurtër dhe jo-vdekjeprurës.
 
-**Shkop (Quarter Staff):** Një shkop i gjatë druri shpesh i përdorur si shkop ecjeje, i dobishëm për mbrojtje dhe sulm.
+**Shkop, i Gjatë (Quarterstaff):** Një shkop i gjatë druri që shpesh përdoret si shkop ecjeje, i dobishëm për mbrojtje dhe sulm.
 
-**Shkop (Short Staff):** Një shkop i shkurtër, i ngushtë druri si një shkop policie.
+**Shkop, i Shkurtër:** Një shkop i shkurtër dhe i ngushtë prej druri si një shkop policie.
 
-**Sword Cane (Shpatë-shkop):** Një shpatë me teh të hollë e maskuar për t'u përshtatur brenda një shkopi.
+**Shpatë-Bastun:** Një shpatë me teh të hollë e maskuar për t'u përshtatur brenda një bastuni.
 
-**Spatë (Bastard):** Një spatë e drejtë, me një ose dy tehe, mbi një metër e gjatë, me një dorezë të gjatë e mbajtur me një ose dy duar.
+**Shpatë, Bastard:** Një shpatë e drejtë, me një ose dy tehe, mbi një metër e gjatë, me një dorezë të gjatë që përdoret me një ose dy duar.
 
-**Spatë (Broad):** Një spatë e drejtë, me një ose dy tehe rreth një metër e gjatë, e përdorur me një dorë. Disa kanë doreza si shportë.
+**Shpatë, e Gjerë:** Një shpatë e drejtë, me një ose dy tehe, rreth një metër e gjatë, e përdorur me një dorë. Disa kanë doreza me shportë.
 
-**Spatë (Energy):** Një dorezë që përmban një emitues të fushës së formuar që projekton një teh energjie sa gjatësia e një shpate, si një rreze drite e fokusuar. Shpatat e energjisë përdorin pako fuqie dhe shpesh kërkojnë kristale fokusimi të shtrenjta ose të rralla.
+**Shpatë, Energjie:** Një dorezë që përmban një emetues fushe të formësuar që projekton një teh energjie sa gjatësia e shpatës, si një rreze drite e përqendruar. Shpatat e energjisë përdorin paketa energjie dhe shpesh kërkojnë kristale fokusimi të shtrenjta ose të rralla.
 
-**Spatë (Great):** Një spatë e drejtë, me dy tehe pothuajse dy metra e gjatë, e përdorur me dy duar, shpesh kundër formacioneve të shtizave.
+**Shpatë, e Madhe:** Një shpatë e drejtë, me dy tehe, gati dy metra e gjatë, e përdorur me dy duar, shpesh kundër formacioneve me shtiza.
 
-**Spatë (Long):** Një spatë e drejtë, me një ose dy tehe, ndonjëherë me dorezë shportë, e përdorur me një dorë. Më e lehtë dhe më e hollë se një broadsword.
+**Shpatë, e Gjatë (Long):** Një shpatë e drejtë, me një ose dy tehe, ndonjëherë me dorezë me shportë, e përdorur me një dorë. Më e lehtë dhe më e hollë se një shpatë e gjerë.
 
-**Spatë (Monofilament):** Një armë e sofistikuar që përbëhet nga një teh saktësisht një molekulë i trashë, i vendosur në stazë nga një gjenerator në dorezë. Me tehun të aftë për të rrëshqitur midis atomeve, ai është i aftë të presë pothuajse çdo gjë. Duke qenë se tehu është pothuajse i padukshëm, është jashtëzakonisht e vështirë për t'u përdorur, dhe një dështim (fumble) mund të jetë fatal.
+**Shpatë, Monofilament:** Një armë e sofistikuar që përbëhet nga një teh saktësisht një molekulë i trashë, i vendosur në stazë nga një gjenerator në dorezë. Me tehun që është në gjendje të rrëshqasë midis atomeve, ajo është e aftë të presë pothuajse çdo gjë. Duke qenë se tehu është pothuajse i padukshëm, është jashtëzakonisht e vështirë për t'u përdorur, dhe një gabim mund të jetë fatal.
 
-**Spatë (Short):** Një spatë me një ose dy tehe, zakonisht gjysmë metri e gjatë.
+**Shpatë, e Shkurtër:** Një shpatë me një ose dy tehe, zakonisht gjysmë metri e gjatë.
 
-**Spatë (Vibro-):** Një version më i gjatë i një thike vibro. Një dorezë që përmban një teh të gjatë si shpatë që vibron me një shpejtësi të lartë, e aftë për të prerë shumicën e substancave.
+**Shpatë, Vibro-:** Një version më i gjatë i një thike vibro. Një dorezë që përmban një teh të gjatë si shpatë që vibron me një shpejtësi të lartë, e aftë për të prerë shumicën e substancave.
 
-**Taser (Contact):** Një pajisje elektrike e vogël e mbajtur në dorë e krijuar për të ndërprerë aktivitetin nervor të objektit, duke i trullosur momentalisht.
+**Taser, Kontakti:** Një pajisje elektrike e vogël dore e dizajnuar për të prishur aktivitetin nervor të shënjestrës, duke i trullosur përkohësisht.
 
-**Taser (Dart):** Një taser i mbajtur në dorë që shkrep dy shigjeta të vogla me tela të lidhur. Pasi këto godasin objektin e tyre, taser-i lëshon një ngarkesë elektrike ndërprerëse që zakonisht trullos ose çaktivizon.
+**Taser, Shigjetë:** Një taser dore që shkrep dy shigjeta të vogla me tela të bashkangjitur. Pasi këto godasin shënjestrën e tyre, taser-i lëshon një ngarkesë elektrike shkatërruese që zakonisht trullos ose çaktivizon.
 
-**Pishtar (Torch):** Një shkop i trashë druri me një skaj të zhytur në rrëshirë ose ndonjë lëndë tjetër djegëse, herë pas here i mbështjellë me lecka. I ndezur dhe i përdorur për dritë, pishtarët shpesh përdoren si armë të improvizuara.
+**Pishtar:** Një shkop i trashë druri me një skaj të njomur në katran ose ndonjë lëndë tjetër djegëse, ndonjëherë i mbështjellë me lecka. I ndezur dhe i përdorur për dritë, pishtarët shpesh përdoren si armë të improvizuara.
 
-**Sfurk (Trident):** Një shtizë me tri dhëmbë, si pirun, me kthetra anësore të lakuara. Sfurqet zakonisht kanë maja me gjemba për t'u ngulur në mishin e objektivit të tyre.
+**Sfurk, Tre-dhëmbësh (Trident):** Një shtizë me tre dhëmbë, si një pirun, me majë anësore të lakuara. Sfurqet tre-dhëmbëshe zakonisht kanë maja me thumba për t'u kapur në mishin e shënjestrës së tyre.
 
-**Wakizashi:** Një version i shkurtër i shpatës së katanës, shpesh e bërë si një çift i përshtatshëm. Disa kanë thika të vogla të ndërtuara në këllëfët e tyre.
+**Wakizashi:** Një version shpatë e shkurtër e katanës, shpesh e bërë si çift i përputhshëm. Disa kanë thika të vogla të ndërtuara në këllëfët e tyre.
 
-**Kamxhik (Whip):** Një litar lëkure i mbështjellë dhe i endur me një dorezë në njërin skaj, i përdorur për të fshikulluar një kundërshtar ose për të kapur dhe imobilizuar një gjymtyrë (shih **Entangling**).
+**Kamxhik:** Një litar lëkure i mbështjellë dhe i endur me një dorezë në njërin skaj, i përdorur për të goditur një kundërshtar ose për të kapur dhe imobilizuar një gjymtyrë (shih **Ngatërrimi**).
 
-**Kamxhik (Shock):** Një kamxhik metalik që gjeneron një rrymë elektrike me tension të lartë, e lëshuar mbi objektin kur godet me sukses.
+**Kamxhik, Shok:** Një kamxhik metalik që gjeneron një rrymë elektrike me tension të lartë, e lëshuar mbi shënjestër kur godet me sukses.### Klasat e Armëve
 
-### Klasat e armëve
+Përshkrimet për aftësitë Armë e Rëndë, Armë Përleshjeje dhe Armë Projektili në Kapitullin e Tretë: Aftësitë, u referohen specialiteteve të armëve dhe **klasave të armëve**. Një klasë arme është një grup i përafërt të cilit i përket arma, ndërsa **specialiteti** është aftësia e personazhit tuaj për të përdorur armët në atë klasë. Armët ndahen në klasa, me aftësitë në specialitete. Secila klasë arme është renditur më poshtë, me shembuj specifikë. Disa armë përshtaten në klasa të shumta, në varësi të mënyrës se si përdoren.
 
-Përshkrimet për aftësitë Armë e Rëndë, Armë Dyluftimi dhe Armë Raketore në Kapitullin e Tretë: Aftësitë i referohen specialiteteve të armëve dhe **klasave të armëve**. Një klasë armësh është një grup i përafërt të cilit i përket arma, ndërsa **specialiteti** është aftësia e personazhit tuaj duke përdorur armë në atë klasë. Armët bien në klasa, me aftësi në specialitete. Secila klasë armësh është renditur më poshtë, me shembuj specifikë. Disa armë përshtaten në klasa të shumta, varësisht se si përdoren.
+* **Sëpatë:** Sëpatë beteje, sëpatë e madhe, sëpatë dore, vibro-sëpatë, sëpatë druri.
 
-* **Spatë (Axe):** Spatë beteje, spatë e madhe, spatë dore, vibro-spatë, spatë druri.
+* **Hark:** Hark i përbërë, hark i gjatë, hark i thjeshtë.
 
-* **Hark (Bow):** Hark i përbërë, hark i gjatë, hark i thjeshtë.
-
-* **Brawl (Dyluftim):** Grusht, goditje me kokë, shkelm.
+* **Përleshje:** Grusht, goditje me kokë, shqelm.
 
 * **Shkop (Club):** Shkop i rëndë, shkop i lehtë, sai, shkop i shkurtër.
 
-* **Hark (Crossbow):** Arbalest, arbalest rrethimi, hark i rëndë, hark i lehtë, hark mesatar, hark përsëritës.
+* **Arbaletë:** Arbaletë, arbaletë rrethimi, arbaletë e rëndë, arbaletë e lehtë, arbaletë mesatare, arbaletë me shkrepje të njëpasnjëshme.
 
-* **Kamë (Dagger):** Thikë kasapi, kamë, thikë, thikë xhepi, switchblade, vibro-thikë, sai.
+* **Thikë:** Thikë kasapi, thikë, thikë xhepi, thikë me sustë, vibro-thikë, sai.
 
-* **Shpërthyes (Explosive):** Detonator antimaterie, minë antipersonel, minë antitank, kapsulë shpërthyese, dinamit, detonator impulsi elektromagnetik, detonator fuzioni, shpërthyes i improvizuar, detonator plazme, shpërthyes plastik, detonator zanor.
+* **Eksploziv:** Detonator antimaterie, minë kundër personelit, minë antitank, kapsollë shpërthyese, dinamit, detonator me impuls elektromagnetik, detonator fuzioni, eksploziv i improvizuar, detonator plazme, eksploziv plastik, detonator sonik.
 
-* **Flail (Topuz me zinxhir):** Flail, flail morningstar, kamxhik.
+* **Fshikull (Flail):** Fshikull, fshikull me topuz me gjemba (morningstar), kamxhik.
 
-* **Granatë (Grenade):** Granatë antimaterie, granatë goditëse, granatë çintegruese, granatë impulsi elektromagnetik, granatë shpërthyese, granatë ndriçuese, granatë fuzioni, granatë gazi, lëshues granatash, lëshues raketash LAW, kokteji Molotov, granatë fosfori, granatë plazme, lëshues raketash, granatë goditëse elektrike, granatë shrapneli, granatë tymi, granatë zanore, granatë trullosëse.
+* **Granatë:** Granatë antimaterie, granatë tronditëse, granatë shpërbërëse, granatë me impuls elektromagnetik, granatë shpërthyese, granatë ndriçuese, granatë fuzioni, granatë gazi, lëshues granatash, lëshues raketash LAW, koktej Molotov, granatë fosfori, granatë plazme, lëshues raketash, granatë goditëse, granatë me copëza, granatë tymuese, granatë sonike, granatë paralizuese.
 
-* **Çekiç (Hammer):** Çekiç, çekiç i madh, çekiç sledge, çekiç lufte, mauz lufte.
+* **Çekiç:** Çekiç, çekiç i madh, çekiç i rëndë (sledge hammer), çekiç lufte, gur lufte (war maul).
 
-* **Dorë (Hand):** Dorezë e parzmozuar, blackjack, përforcues grushti, cestii, kthetra, tel mbytës.
+* **Dore:** Dorezë e blinduar, shkop dore (blackjack), doreza hekuri, cestii, kthetra, lak fyti.
 
-* **I improvizuar (Improvised):** Sharrë elektrike, gur i hedhur, kosë, drep, pishtar.
+* **E improvizuar:** Sharrë elektrike, gur i hedhur, kosë, drapër, pishtar.
 
-* **Topuz (Mace):** Topuz i rëndë, topuz i lehtë.
+* **Topuz:** Topuz i rëndë, topuz i lehtë.
 
-* **Mitraloz (Machine Gun):** Mitraloz, mini gun, submachine gun.
+* **Mitraloz:** Mitraloz, mini-mitraloz, automatik (submachine gun).
 
-* **Raketë/Projektil (Missile):** Gyp fryrjeje, bola, boomerang, kamë, shigjetë, spatë dore, shtizë, shuriken, fingël, thikë hedhëse.
+* **Projektil:** Fryrëse shigjetash, bola, bumerang, thikë, shigjetë, sëpatë dore, heshtë e lehtë, yll hedhës (shuriken), llastiqe, thikë hedhëse.
 
-* **Pistoletë, Energji (Pistol, Energy):** Pistoletë blaster, pistoletë çintegruese, pistoletë impulsi elektromagnetik, pistoletë lazer, pistoletë plazme, pistoletë goditëse, pistoletë zanore, pistoletë trullosëse.
+* **Pistoletë, Energji:** Pistoletë blaster, pistoletë shpërbërëse, pistoletë me impuls elektromagnetik, pistoletë lazeri, pistoletë plazme, pistoletë goditëse, pistoletë sonike, pistoletë paralizuese.
 
-* **Pistoletë (Pistol):** Derringer, pistoletë flechette, pistoletë stralli, pistoletë e rëndë, pistoletë e lehtë, pistoletë mesatare.
+* **Pistoletë:** Derringer, pistoletë me shigjeta, pistoletë me strall, pistoletë e rëndë, pistoletë e lehtë, pistoletë mesatare.
 
-* **Polearm (Shtizë/Spatë):** Halberd, lënxë, naginata, pike, kosë, sfurk.
+* **Armë e gjatë (Polearm):** Sëpatë lufte (halberd), heshtë kalorësi, naginata, heshtë e gjatë, kosë, trekëndësh (trident).
 
-* **Revolver (Revolver):** Revolver i rëndë, revolver i lehtë, revolver mesatar.
+* **Revolver:** Revolver i rëndë, revolver i lehtë, revolver mesatar.
 
-* **Pushkë, Energji (Rifle, Energy):** Pushkë blaster, pushkë çintegruese, pushkë impulsi elektromagnetik, pushkë lazer, pushkë plazme, pushkë goditëse, pushkë zanore, pushkë trullosëse.
+* **Pushkë, Energji:** Pushkë blaster, pushkë shpërbërëse, pushkë me impuls elektromagnetik, pushkë lazeri, pushkë plazme, pushkë goditëse, pushkë sonike, pushkë paralizuese.
 
-* **Pushkë (Rifle):** Pushkë sulmi, pushkë bolt-action, pushkë elefanti, pushkë lever-action, musket, pushkë snajper, pushkë sportive.
+* **Pushkë:** Pushkë sulmi, pushkë me mekanizëm bolt-action, pushkë për gjah të madh, pushkë me levë, musketë, pushkë snajper, pushkë sportive.
 
-* **Shotgun (Shotgun):** Shotgun automatik, shotgun me dy tytë, shotgun me tytë të shkurtuar, shotgun sportive.
+* **Shotgun:** Shotgun automatik, shotgun me tytë të dyfishtë, shotgun me tytë të shkurtuar, shotgun sportiv.
 
-* **Shtizë (Spear):** Shtizë, lënxë, shtizë e gjatë, naginata, pike, shtizë e shkurtër, sfurk.
+* **Heshtë:** Heshtë e lehtë (javelin), heshtë kalorësi, heshtë e gjatë, naginata, heshtë e gjatë (pike), heshtë e shkurtër, trekëndësh (trident).
 
-* **Shkop (Staff):** Shkop i gjatë, shkop i shkurtër.
+* **Shkop (Staff):** Shkop i gjatë (quarter staff), shkop i shkurtër.
 
-* **Mitraloz (Submachine Gun):** Mitraloz i lehtë.
+* **Automatik:** Automatik (submachine gun).
 
-* **Spatë (Sword):** Spatë bastarde, broadsword, spatë energjie, spatë e madhe, katana, spatë e gjatë, spatë monofilamenti, rapier, saber, scimitar, spatë e shkurtër, drep, shpatë-shkop, vibro-spatë, wakizashi.
+* **Shpatë:** Shpatë bastarde, shpatë e gjerë, shpatë energjie, shpatë e madhe, katana, shpatë e gjatë, shpatë monofilament, shpatë rapierë, saber, jatagan, shpatë e shkurtër, drapër, shpatë-shkop, vibro-shpatë, wakizashi.
 
-* **Tjetër (Other):** Spray kimik, taser kontakti, taser shigjete, hedhës flakësh, litar (lasso), rrjetë, kamxhik goditës, kamxhik.
+* **Tjetër:** Sfungjer kimik, taser kontakti, taser me shigjetë, flakëhedhës, litar me lak, rrjetë, kamxhik goditës, kamxhik.
 
-### Përdorimi i armëve të së njëjtës klasë
+### Përdorimi i Armëve të së Njëjtës Klasë
 
-Përdorni specialitetin e aftësisë suaj me të gjitha armët e asaj klase të veçantë. Ky përgjithësim do të thotë se personazhi juaj mund të përdorë shumicën e llojeve të armëve të ngjashme pa pengesë.
+Përdorni specialitetin tuaj të aftësisë me të gjitha armët e asaj klase të veçantë. Kjo përgjithësim do të thotë që personazhi juaj mund të përdorë shumicën e llojeve të armëve të ngjashme pa pengesa.
 
-**Për shembull,** nëse personazhi juaj ka aftësinë Armë Dyluftimi (Spatë), kjo vlen për spatat e gjata, broadswords, spatat e shkurtra, etj., ashtu si Armë zjarri (Revolver) vlen për revolverët e lehtë, mesatarë dhe të rëndë.
+**Për shembull,** nëse personazhi juaj ka aftësinë Armë Përleshjeje (Shpatë), kjo vlen për shpatat e gjata, shpatat e gjera, shpatat e shkurtra, etj., ashtu siç Armë Zjarri (Revolver) vlen për revolverët e lehtë, mesatarë dhe të rëndë.### Përdorimi i Armëve të Klasave të Ndryshme
 
-### Përdorimi i armëve të klasave të ndryshme
+Nëse keni aftësi në një klasë armësh, mjeshtri i lojës mund t'i lejojë personazhit tuaj të përdorë një armë të ngjashme në një klasë tjetër me të njëjtin vlerësim aftësie, sikur aftësia të ishte e Vështirë.
 
-Nëse keni aftësi në një klasë armësh, udhëheqësi i lojës suaj mund t'i lejojë personazhit tuaj të përdorë një armë të ngjashme në një klasë të ndryshme me të njëjtin vlerësim aftësie sikur aftësia të ishte e Vështirë.
+**Për shembull,** nëse personazhi juaj ka Aftësi me Armë Predhë (Hark) 60%, mjeshtri i lojës mund të lejojë përdorimin e arbaletave (një klasë tjetër armësh) si një aftësi e Vështirë për Armë Predhë (Hark), një vlerësim i përkohshëm aftësie prej 30%.
 
-**Për shembull,** nëse personazhi juaj ka Armë Raketore (Hark) 60%, udhëheqësi i lojës suaj mund të lejojë përdorimin e harqeve (një klasë tjetër armësh) si një aftësi e Vështirë Armë Raketore (Hark), një vlerësim i përkohshëm aftësie prej 30%.
+Nëse përdorimi i një arme me një vlerësim të përkohshëm aftësie është i suksesshëm dhe fitohet ndonjë përvojë, hedhja për përvojë bëhet nga shansi bazë dhe jo nga vlerësimi i përkohshëm i aftësisë. Çdo përvojë shtohet te shansi bazë i armës ose i aftësisë së armës në vend të vlerësimit të përkohshëm të aftësisë. Kur personazhi juaj e tejkalon vlerësimin e përkohshëm të aftësisë, vlerësimi aktual i aftësisë bëhet ai i parazgjedhur.
 
-Nëse përdorimi i një arme me një vlerësim të përkohshëm aftësie është i suksesshëm dhe fitohet ndonjë përvojë, hedhja e përvojës bëhet nga shansi bazë në vend të vlerësimit të përkohshëm të aftësisë. Çdo përvojë shtohet te shansi bazë i armës ose aftësisë së armës në vend të vlerësimit të përkohshëm të aftësisë. Kur personazhi juaj tejkalon vlerësimin e përkohshëm të aftësisë, vlerësimi aktual i aftësisë bëhet i parazgjedhuri.
+##### Armë Primitive për Luftim Trup më Trup
 
-##### Armët Primitive të Dyluftimit
-
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rrezja | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Spatë dore | Spatë | 15 | 1D6+1+dm | 1 | Gjakosje | E shkurtër | 1H | 12 | Po | 7/9 | — | I lirë | 0.5 |
-| Shkop i rëndë | Shkop | 25 | 1D8+dm | 1 | Shtypje | Mesatare | 2H | 22 | Po | 9/7 | — | I lirë | 2.0 |
-| Shkop i lehtë | Shkop | 25 | 1D6+dm | 1 | Shtypje | Mesatare | 1H | 15 | Po | 7/7 | — | I lirë | 1.0 |
-| Grusht | Dyluftim | 25 | 1D3+dm | 1 | Shtypje | E shkurtër | 1H | — | Jo1 | — | — | — | — |
-| Grapple | Dyluftim | 25 | Special2 | 1 | Ngatërrim | E shkurtër | 2H | — | Jo3 | — | — | — | — |
-| Goditje me kokë | Dyluftim | 25 | 1D3+dm | 1 | Shtypje | E shkurtër | — | — | Jo | — | — | — | — |
-| Shkelm | Dyluftim | 25 | 1D3+dm | 1 | Shtypje | E shkurtër | — | — | Jo | — | — | — | — |
-| Kamë | Kamë | 25 | 1D3+1+dm | 1 | Shpim | E shkurtër | 1H | 15 | Po | 4/4 | — | I lirë | 0.2 |
-| Rrjetë | Tjetër | 05 | Special4 | 1 | Ngatërrim | Mesatare | 1H ose 2H | 6 | Po | 12/10 | 96–005 | I lirë | 3.0 |
-| Shtizë e gjatë | Shtizë | 15 | 1D10+1+dm | 1 | Shpim | E gjatë | 2H | 15 | Po | 11/9 | — | I lirë | 2.0 |
-| Shtizë e shkurtër | Shtizë | 15 | 1D6+1+dm | 1 | Shpim | E gjatë | 1H ose 2H | 15 | Po | 7/8 | — | I lirë | 2.0 |
-| Pishtar | Shkop | 25 | 1D6+flakë6 | 1 | Shtypje | Mesatare | 1H | 15 | Po | 6/9 | 96–007 | — | 1.0 |
+| Sëpatë, Dore | Sëpatë | 15 | 1D6+1+dm | 1 | Gjakderdhje | Shkurtër | 1H | 12 | Po | 7/9 | — | Lirë | 0.5 |
+| Shkop, i Rëndë | Shkop | 25 | 1D8+dm | 1 | Shtypje | Mesme | 2H | 22 | Po | 9/7 | — | Lirë | 2.0 |
+| Shkop, i Lehtë | Shkop | 25 | 1D6+dm | 1 | Shtypje | Mesme | 1H | 15 | Po | 7/7 | — | Lirë | 1.0 |
+| Grusht | Sherr | 25 | 1D3+dm | 1 | Shtypje | Shkurtër | 1H | — | Jo1 | — | — | — | — |
+| Kapje | Sherr | 25 | Special2 | 1 | Ngatërrim | Shkurtër | 2H | — | Jo3 | — | — | — | — |
+| Përplasje Koke | Sherr | 25 | 1D3+dm | 1 | Shtypje | Shkurtër | — | — | Jo | — | — | — | — |
+| Shkelm | Sherr | 25 | 1D3+dm | 1 | Shtypje | Shkurtër | — | — | Jo | — | — | — | — |
+| Thikë | Hanxhar | 25 | 1D3+1+dm | 1 | Shpim | Shkurtër | 1H | 15 | Po | 4/4 | — | Lirë | 0.2 |
+| Rrjetë | Tjetër | 05 | Special4 | 1 | Ngatërrim | Mesme | 1H ose 2H | 6 | Po | 12/10 | 96–005 | Lirë | 3.0 |
+| Heshtatë, e Gjatë | Heshtatë | 15 | 1D10+1+dm | 1 | Shpim | Gjatë | 2H | 15 | Po | 11/9 | — | Lirë | 2.0 |
+| Heshtatë, e Shkurtër | Heshtatë | 15 | 1D6+1+dm | 1 | Shpim | Gjatë | 1H ose 2H | 15 | Po | 7/8 | — | Lirë | 2.0 |
+| Pishtar | Shkop | 25 | 1D6+flakë6 | 1 | Shtypje | Mesme | 1H | 15 | Po | 6/9 | 96–007 | — | 1.0 |
 
-##### Armët Primitive Raketore (Projektile)
+##### Armë Primitive Predhë
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc | RF |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrez | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Spatë dore (hedhur) | Spatë | 10 | 1D6+½dm | 1 | Gjakosje | 20 | 1H | 12 | Jo | 9/11 | — | I lirë | 0.5 | 1/CR |
-| Gyp fryrjeje | Gyp fryrjeje | 10 | 1D38 | 1 | Shpim | 30 | 2H | 49 | Jo | /11 | — | I lirë | 0.5 | 1/CR |
-| Bola (dëmtuese) | Bola | 05 | 1D4+½dm | 1 | Shtypje | 15 | 1H | 1 | Jo | 9/13 | — | I lirë | 3.0 | 1/CR |
-| Bola (kapëse) | Bola | 05 | Special4 | 1 | Ngatërrim | 15 | 1H | 1 | Jo | 9/13 | — | I lirë | 3.0 | 1/CR |
-| Boomerang | Boomerang | 05 | 1D4+½dm | ½10 | Shtypje | 50 | 1H | 3 | Jo | 9/11 | — | I lirë | 0.5 | 1/CR |
-| Hark i thjeshtë | Hark | 10 | 1D6+1+½dm | 1 | Shpim | 80 | 2H | 6 | Jo | 9/9 | — | I lirë | 0.5 | 1/CR |
-| Shkop i lehtë (hedhur) | Hedh | Hedh | 1D6+½dm | 1 | Shtypje | 20 | 1H | 15 | Jo | 9/7 | — | I lirë | 1.0 | 1/CR |
-| Shigjetë | Shigjetë | 10 | 1d6+½dm11 | 1 | Shpim | 20 | 1H | 4 | Jo | /9 | — | I lirë | 0.5 | 1/CR |
-| Shtizë (Javelin) | Shtizë | 15 | 1D6+½dm | 1 | Shpim | 25 | 1H | 10 | Jo | 9/9 | — | I lirë | 1.5 | 1/CR |
-| Thikë (hedhur) | Hedh thikë | 15 | 1D3+½dm | 1 | Shpim | 10 | 1H | 15 | Jo | 7/11 | — | I lirë | 0.2 | 1/CR |
-| Litar (Lasso) | Tjetër | 05 | Special4 | ½ | Ngatërrim | 10 | 2H | 1 | Jo | 9/13 | — | I lirë | 1.0 | 1/5CR |
-| Rrjetë (hedhur) | Tjetër | 05 | Special4 | 1 | Ngatërrim | 5 | 1H | 6 | Jo | 9/12 | 96–0012 | I lirë | 3.0 | 1/3CR |
-| Gur (hedhur) | Hedh | Hedh | 1D2+½dm | 2 | Shtypje | 20 | 1H | 20 | Jo | 5/5 | — | — | .05 | 1/CR |
-| Fingël | Fingël | 05 | 1D8+½dm | 1 | Shtypje | 80 | 1H | 2/1313 | Jo | 7/11 | — | I lirë | 0.1 (.1)14 | 1/CR |
-| Shtizë e shkurtër (hedhur) | Shtizë | 05 | 1D6+1+½dm | 1 | Shpim | 15 | 1H | 15 | Jo | 12/10 | — | I lirë | 2.0 | 1/CR |
-| Shtizë e gjatë (hedhur) | Shtizë | 05 | 1D10+1+½db | 1 | Shpim | 15 | 1H | 15 | Jo | 12/10 | — | I lirë | 2.0 | 1/CR |
+| Sëpatë, Dore (hedhur) | Sëpatë | 10 | 1D6+½dm | 1 | Gjakderdhje | 20 | 1H | 12 | Jo | 9/11 | — | Lirë | 0.5 | 1/CR |
+| Pështymëz | Pështymëz | 10 | 1D38 | 1 | Shpim | 30 | 2H | 49 | Jo | /11 | — | Lirë | 0.5 | 1/CR |
+| Bola (dëmtuese) | Bola | 05 | 1D4+½dm | 1 | Shtypje | 15 | 1H | 1 | Jo | 9/13 | — | Lirë | 3.0 | 1/CR |
+| Bola (kapëse) | Bola | 05 | Special4 | 1 | Ngatërrim | 15 | 1H | 1 | Jo | 9/13 | — | Lirë | 3.0 | 1/CR |
+| Bumerang | Bumerang | 05 | 1D4+½dm | ½10 | Shtypje | 50 | 1H | 3 | Jo | 9/11 | — | Lirë | 0.5 | 1/CR |
+| Hark, i thjeshtë | Hark | 10 | 1D6+1+½dm | 1 | Shpim | 80 | 2H | 6 | Jo | 9/9 | — | Lirë | 0.5 | 1/CR |
+| Shkop, i Lehtë (hedhur) | Hedhje | Hedhje | 1D6+½dm | 1 | Shtypje | 20 | 1H | 15 | Jo | 9/7 | — | Lirë | 1.0 | 1/CR |
+| Shigjetë e vogël | Shigjetë | 10 | 1d6+½dm11 | 1 | Shpim | 20 | 1H | 4 | Jo | /9 | — | Lirë | 0.5 | 1/CR |
+| Heshtatë | Heshtatë | 15 | 1D6+½dm | 1 | Shpim | 25 | 1H | 10 | Jo | 9/9 | — | Lirë | 1.5 | 1/CR |
+| Thikë (hedhur) | Thikë Hedhje | 15 | 1D3+½dm | 1 | Shpim | 10 | 1H | 15 | Jo | 7/11 | — | Lirë | 0.2 | 1/CR |
+| Litar | Tjetër | 05 | Special4 | ½ | Ngatërrim | 10 | 2H | 1 | Jo | 9/13 | — | Lirë | 1.0 | 1/5CR |
+| Rrjetë (hedhur) | Tjetër | 05 | Special4 | 1 | Ngatërrim | 5 | 1H | 6 | Jo | 9/12 | 96–0012 | Lirë | 3.0 | 1/3CR |
+| Gur (hedhur) | Hedhje | Hedhje | 1D2+½dm | 2 | Shtypje | 20 | 1H | 20 | Jo | 5/5 | — | — | .05 | 1/CR |
+| Llastiqe | Llastiqe | 05 | 1D8+½dm | 1 | Shtypje | 80 | 1H | 2/1313 | Jo | 7/11 | — | Lirë | 0.1 (.1)14 | 1/CR |
+| Heshtatë, Shkurtër (hedhur) | Heshtatë | 05 | 1D6+1+½dm | 1 | Shpim | 15 | 1H | 15 | Jo | 12/10 | — | Lirë | 2.0 | 1/CR |
+| Heshtatë, Gjatë (hedhur) | Heshtatë | 05 | 1D10+1+½db | 1 | Shpim | 15 | 1H | 15 | Jo | 12/10 | — | Lirë | 2.0 | 1/CR |
 
-1. Brawl mund të mbrojë (parry) kundër sulmeve Brawl ose Grapple (shih aftësinë Brawl).
-2. Shih aftësinë Grapple.
-3. Grapple mund të mbrojë (parry) kundër sulmeve Brawl ose Grapple (shih aftësinë Grapple).
-4. Shih **Entangling** (Ngatërrimi).
-5. Një dështim (fumble) i rrjetës do të thotë se ajo është ngatërruar, duke marrë një raund të plotë dhe një hedhje të suksesshme të vështirë për Agjilitet për ta shpërngatërruar.
-6. Shih **Zjarrin**.
-7. Një dështim do të thotë se pishtari fiket.
-8. Shigjetat e gypit të fryrjes zakonisht janë të helmuara (shih **Poisons**).
-9. Një gyp fryrjeje ka 4 pikë goditjeje dhe shigjetat e gypit secila ka 0 ose 1 pikë goditjeje.
-10. Nëse përdoruesi hedh boomerang-un për t'u kthyer, bëni një hedhje për Agjilitet për ta kapur në raundin tjetër. Nëse hidhni shumë boomerang, shkalla e sulmit është 1 për raund.
-11. Shigjetat shpesh janë të helmuara (shih **Poisons**).
-12. Një dështim i rrjetës do të thotë se ajo është ngatërruar, duke marrë një raund të plotë dhe një hedhje të suksesshme të vështirë për Agjilitet për ta shpërngatërruar.
-13. Një fingël ka 2 pikë goditjeje dhe një gur fingëlli ka 12 pikë goditjeje (plumb ose gur).
-14. Numri i parë është pesha e fingëllit; pesha në kllapa është për çdo gur fingëlli.
+1. Sherri mund të mbrojë sulmet e Sherrit ose Kapjes (shih aftësinë Sherr).
+2. Shih aftësinë Kapje.
+3. Kapja mund të mbrojë sulmet e Sherrit ose Kapjes (shih aftësinë Kapje).
+4. Shih **Ngatërrim**.
+5. Një keqfunksionim i rrjetës do të thotë se ajo është ngatërruar, duke kërkuar një raund të plotë dhe një hedhje të suksesshme të Vështirë për Shkathtësi për t'u shpërbërë.
+6. Shih **Zjarr**.
+7. Një keqfunksionim do të thotë se pishtari fiket.
+8. Shigjetat e vogla të pështymëzës janë zakonisht të helmuara (shih **Helmet**).
+9. Një pështymëz ka 4 pikë goditjeje dhe shigjetat e saj kanë secila 0 ose 1 pikë goditjeje.
+10. Nëse përdoruesi e hedh bumerangun për t'u kthyer, bëni një hedhje për Shkathtësi për ta kapur në raundin tjetër. Nëse hidhni bumerangë të shumtë, shkalla e sulmit është 1 për raund.
+11. Shigjetat e vogla shpesh janë të helmuara (shih **Helmet**).
+12. Një keqfunksionim i rrjetës do të thotë se ajo është ngatërruar, duke kërkuar një raund të plotë dhe një hedhje të suksesshme të Vështirë për Shkathtësi për t'u shpërbërë.
+13. Një llastiqe ka 2 pikë goditjeje dhe një gur llastiqeje ka 12 pikë goditjeje (plumb ose gur).
+14. Numri i parë është pesha e llastiqes; pesha në kllapa është për çdo gur llastiqeje.
 
-##### Armët Historike të Dyluftimit
+##### Armë Historike për Luftim Trup më Trup
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Spatë beteje | Spatë | 15 | 1D8+2+dm | 1 | Gjakosje | Mesatare | 1H | 15 | Po | 9/9 | — | Mesatare | 1.0 |
-| Spatë e madhe | Spatë | 15 | 2D6+2+dm | 1 | Gjakosje | Mesatare | 2H | 15 | Po | 11/9 | — | Mesatare | 2.0 |
-| Spatë druri | Spatë | 15 | 1D8+2+dm | 1 | Gjakosje | Mesatare | 2H | 20 | Po | 8/7 | — | I përballueshëm | 1.5 |
-| Blackjack | Dorë | 25 | 1D8+dm | 1 | Shtypje | E shkurtër | 1H | 10 | Jo | 7/7 | — | I përballueshëm | 0.2 |
-| Cestus | Dorë | 25 | 1D3+2+dm | 1 | Shtypje | E shkurtër | 1H | 10 | Po | 11/7 | — | Mesatare | 0.1 |
-| Kthetra | Dorë | 25 | 1D4+1+dm | 1 | Gjakosje | E shkurtër | 1H | 10 | Po | 9/9 | — | Mesatare | 0.1 |
-| Kamë | Kamë | 25 | 1D4+2+dm | 1 | Shpim | E shkurtër | 1H | 15 | Po | 4/4 | — | Mesatare | 0.5 |
-| Flail | Flail | 10 | 1D6+dm | 1 | Shtypje | Mesatare | 1H | 7 | Po | 7/6 | — | Mesatare | 2.0 |
-| Flail (Morningstar) | Flail | 10 | 1D10+1+dm | 1 | Shtypje | Mesatare | 2H | 12 | Po | 11/7 | — | Mesatare | 2.0 |
-| Garrote | Dorë | 15 | Special1 | 1 | — | E shkurtër | 2H | 1 | Jo | 8/12 | — | I përballueshëm | 0.1 |
-| Dorezë (Armored) | Dorë | 25 | 1D3+1+dm | 1 | Shtypje | E shkurtër | 1H | 7 | Po | 7/5 | — | Mesatare | Si parzm |
-| Halberd | Polearm | 15 | 3D6+dm | 1 | Gjakosje | E gjatë | 2H | 25 | Po | 13/9 | — | Mesatare | 3.0 |
-| Çekiç | Çekiç | 25 | 1D6+dm | 1 | Shtypje | Mesatare | 1H | 15 | Po | 9/7 | — | I përballueshëm | 1.5 |
-| Çekiç i madh | Çekiç | 25 | 1D10+3+dm | 1 | Shtypje | E gjatë | 2H | 15 | Po | 9/9 | — | Mesatare | 2.5 |
-| Çekiç Sledge | Çekiç | 20 | 2D6+2+dm | 1 | Shtypje | Mesatare | 2H | 15 | Po | 11/7 | — | I përballueshëm | 2.0 |
-| Çekiç lufte | Çekiç | 25 | 1D6+2+dm | 1 | Shtypje | Mesatare | 1H | 20 | Po | 11/9 | — | Mesatare | 2.0 |
-| Katana | Spatë | 15 | 1D10+1+dm2 | 1 | Gjakosje | Mesatare | 1H ose 2H | 15 | Po | 11/11 | — | I shtrenjtë | 1.5 |
-| Thikë | Kamë | 25 | 1D3+1+dm | 1 | Shpim | E shkurtër | 1H | 15 | Po | 4/4 | — | I përballueshëm | 0.5 |
-| Lënxë | Shtizë | 15 | 1D8+1+dm | 1 | Shpim3 | E gjatë | 1H | 15 | Po | 9/8 | — | I përballueshëm | 3.5 |
-| Topuz i rëndë | Topuz | 25 | 1D8+2+dm | 1 | Shtypje | Mesatare | 2H | 20 | Po | 14/9 | — | Mesatare | 2.5 |
-| Topuz i lehtë | Topuz | 25 | 1D6+2+dm | 1 | Shtypje | Mesatare | 1H | 20 | Po | 7/7 | — | Mesatare | 1.0 |
-| Mauz lufte | Çekiç | 25 | 1D10+2+dm | 1 | Shtypje | Mesatare | 2H | 20 | Po | 13/7 | — | Mesatare | 2.5 |
-| Naginata | Polearm | 05 | 2d6+2+dm | 1 | Gjakosje | E gjatë | 2H | 15 | Po | 7/11 | — | I shtrenjtë | 2.0 |
-| Shtizë (Pike) | Polearm | 15 | 1d10+2+dm | 1 | Shpim | E gjatë | 2H | 15 | Po | 11/7 | — | I përballueshëm | 3.5 |
-| Rapier | Spatë | 15 | 1D6+1+dm | 1 | Shpim | Mesatare | 1H | 15 | Po | 7/13 | — | I shtrenjtë | 1.0 |
-| Saber | Spatë | 15 | 1D8+1+dm | 1 | Gjakosje | Mesatare | 1H | 20 | Po | 7/11 | — | Mesatare | 1.5 |
-| Sai | Kamë | 10 | 1D6+dm | 1 | Shtypje4 | Mesatare | 1H | 20 | Po | 5/11 | — | I përballueshëm | 1.0 |
-| Scimitar | Spatë | 15 | 1D8+1+dm | 1 | Gjakosje | Mesatare | 1H | 19 | Po | 8/8 | — | Mesatare | 1.5 |
-| Kosë | I improvizuar | 05 | 2D6+1+dm | 1 | Shpim | E gjatë | 2H | 20 | Po | 12/10 | — | I përballueshëm | 2.5 |
-| Drep | I improvizuar | 10 | 1D6+1+dm | 1 | Shpim | Mesatare | 1H | 12 | Po | 7/9 | — | I përballueshëm | 0.5 |
-| Shkop i gjatë | Shkop | 25 | 1D8+dm | 1 | Shtypje | Të gjitha | 2H | 20 | Po | 9/9 | — | I lirë | 1.5 |
-| Shkop i shkurtër | Shkop | 15 | 1D6+dm | 1 | Shtypje | Mesatare | 1H | 15 | Po | 7/9 | — | I lirë | 0.5 |
-| Shpatë-shkop | Spatë | 15 | 1D6+dm | 1 | Shpim | Mesatare | 1H | 12 | Po | 7/11 | — | I shtrenjtë | 1.0 |
-| Spatë bastarde | Spatë | 10 | 1D10+1+dm5 | 1 | Gjakosje | Mesatare | 1H ose 2H | 20 | Po | 13 ose 9/96 | — | Mesatare | 2.0 |
-| Spatë broad | Spatë | 15 | 1D8+1+dm | 1 | Gjakosje | Mesatare | 1H | 20 | Po | 9/7 | — | Mesatare | 1.5 |
-| Spatë e madhe | Spatë | 05 | 2D8+dm | 1 | Gjakosje | M/E | 2H | 18 | Po | 14/13 | — | I shtrenjtë | 3.5 |
-| Spatë e gjatë | Spatë | 15 | 1D8+dm | 1 | Gjakosje | Mesatare | 1H | 15 | Po | 7/9 | — | Mesatare | 1.5 |
-| Spatë e shkurtër | Spatë | 15 | 1D6+1+dm | 1 | Shpim | Mesatare | 1H | 20 | Po | 5/5 | — | I lirë | 1.0 |
-| Sfurk | Polearm | 15 | 1D6+1+dm | 1 | Shpim | E gjatë | 1H ose 2H | 18 | Po | 9/7 | — | Mesatare | 2.0 |
-| Wakizashi | Spatë | 15 | 1D6+1+dm | 1 | Gjakosje | Mesatare | 1H | 13 | Po | 7/9 | — | I shtrenjtë | 1.0 |
-| Kamxhik | Tjetër | 05 | 1D3-1 | 1 | Ngatërrim | E gjatë | 1H | 4 | Jo | 9/10 | — | I lirë | 0.5 |
+| Sëpatë, Beteje | Sëpatë | 15 | 1D8+2+dm | 1 | Gjakderdhje | Mesme | 1H | 15 | Po | 9/9 | — | Mesatare | 1.0 |
+| Sëpatë, Madhe | Sëpatë | 15 | 2D6+2+dm | 1 | Gjakderdhje | Mesme | 2H | 15 | Po | 11/9 | — | Mesatare | 2.0 |
+| Sëpatë, Druri | Sëpatë | 15 | 1D8+2+dm | 1 | Gjakderdhje | Mesme | 2H | 20 | Po | 8/7 | — | Përballueshme | 1.5 |
+| Blackjack | Dorë | 25 | 1D8+dm | 1 | Shtypje | Shkurtër | 1H | 10 | Jo | 7/7 | — | Përballueshme | 0.2 |
+| Cestus | Dorë | 25 | 1D3+2+dm | 1 | Shtypje | Shkurtër | 1H | 10 | Po | 11/7 | — | Mesatare | 0.1 |
+| Kthetra | Dorë | 25 | 1D4+1+dm | 1 | Gjakderdhje | Shkurtër | 1H | 10 | Po | 9/9 | — | Mesatare | 0.1 |
+| Thikë | Hanxhar | 25 | 1D4+2+dm | 1 | Shpim | Shkurtër | 1H | 15 | Po | 4/4 | — | Mesatare | 0.5 |
+| Kamxhik i rëndë | Kamxhik | 10 | 1D6+dm | 1 | Shtypje | Mesme | 1H | 7 | Po | 7/6 | — | Mesatare | 2.0 |
+| Kamxhik, Morningstar | Kamxhik | 10 | 1D10+1+dm | 1 | Shtypje | Mesme | 2H | 12 | Po | 11/7 | — | Mesatare | 2.0 |
+| Garrote | Dorë | 15 | Special1 | 1 | — | Shkurtër | 2H | 1 | Jo | 8/12 | — | Përballueshme | 0.1 |
+| Dorezë, Armatosur | Dorë | 25 | 1D3+1+dm | 1 | Shtypje | Shkurtër | 1H | 7 | Po | 7/5 | — | Mesatare | Si armaturë |
+| Halebarda | Armë shtizë | 15 | 3D6+dm | 1 | Gjakderdhje | Gjatë | 2H | 25 | Po | 13/9 | — | Mesatare | 3.0 |
+| Çekiç | Çekiç | 25 | 1D6+dm | 1 | Shtypje | Mesme | 1H | 15 | Po | 9/7 | — | Përballueshme | 1.5 |
+| Çekiç, i Madh | Çekiç | 25 | 1D10+3+dm | 1 | Shtypje | Gjatë | 2H | 15 | Po | 9/9 | — | Mesatare | 2.5 |
+| Çekiç, Sledge | Çekiç | 20 | 2D6+2+dm | 1 | Shtypje | Mesme | 2H | 15 | Po | 11/7 | — | Përballueshme | 2.0 |
+| Çekiç, Lufte | Çekiç | 25 | 1D6+2+dm | 1 | Shtypje | Mesme | 1H | 20 | Po | 11/9 | — | Mesatare | 2.0 |
+| Katana | Shpatë | 15 | 1D10+1+dm2 | 1 | Gjakderdhje | Mesme | 1H ose 2H | 15 | Po | 11/11 | — | Shtrenjtë | 1.5 |
+| Thikë | Hanxhar | 25 | 1D3+1+dm | 1 | Shpim | Shkurtër | 1H | 15 | Po | 4/4 | — | Përballueshme | 0.5 |
+| Heshtatë Kalorësi | Heshtatë | 15 | 1D8+1+dm | 1 | Shpim3 | Gjatë | 1H | 15 | Po | 9/8 | — | Përballueshme | 3.5 |
+| Topuz, i Rëndë | Topuz | 25 | 1D8+2+dm | 1 | Shtypje | Mesme | 2H | 20 | Po | 14/9 | — | Mesatare | 2.5 |
+| Topuz, i Lehtë | Topuz | 25 | 1D6+2+dm | 1 | Shtypje | Mesme | 1H | 20 | Po | 7/7 | — | Mesatare | 1.0 |
+| Çekiç Lufte, i Madh | Çekiç | 25 | 1D10+2+dm | 1 | Shtypje | Mesme | 2H | 20 | Po | 13/7 | — | Mesatare | 2.5 |
+| Naginata | Armë shtizë | 05 | 2d6+2+dm | 1 | Gjakderdhje | Gjatë | 2H | 15 | Po | 7/11 | — | Shtrenjtë | 2.0 |
+| Paja | Armë shtizë | 15 | 1d10+2+dm | 1 | Shpim | Gjatë | 2H | 15 | Po | 11/7 | — | Përballueshme | 3.5 |
+| Rapier | Shpatë | 15 | 1D6+1+dm | 1 | Shpim | Mesme | 1H | 15 | Po | 7/13 | — | Shtrenjtë | 1.0 |
+| Saber | Shpatë | 15 | 1D8+1+dm | 1 | Gjakderdhje | Mesme | 1H | 20 | Po | 7/11 | — | Mesatare | 1.5 |
+| Sai | Hanxhar | 10 | 1D6+dm | 1 | Shtypje4 | Mesme | 1H | 20 | Po | 5/11 | — | Përballueshme | 1.0 |
+| Scimitar | Shpatë | 15 | 1D8+1+dm | 1 | Gjakderdhje | Mesme | 1H | 19 | Po | 8/8 | — | Mesatare | 1.5 |
+| Kosë | Improvizuar | 05 | 2D6+1+dm | 1 | Shpim | Gjatë | 2H | 20 | Po | 12/10 | — | Përballueshme | 2.5 |
+| Drapi | Improvizuar | 10 | 1D6+1+dm | 1 | Shpim | Mesme | 1H | 12 | Po | 7/9 | — | Përballueshme | 0.5 |
+| Shkop, Quarter- | Shkop | 25 | 1D8+dm | 1 | Shtypje | Gjithë | 2H | 20 | Po | 9/9 | — | Lirë | 1.5 |
+| Shkop, Shkurtër | Shkop | 15 | 1D6+dm | 1 | Shtypje | Mesme | 1H | 15 | Po | 7/9 | — | Lirë | 0.5 |
+| Shpatë Bastun | Shpatë | 15 | 1D6+dm | 1 | Shpim | Mesme | 1H | 12 | Po | 7/11 | — | Shtrenjtë | 1.0 |
+| Shpatë, Bastard | Shpatë | 10 | 1D10+1+dm5 | 1 | Gjakderdhje | Mesme | 1H ose 2H | 20 | Po | 13 ose 9/96 | — | Mesatare | 2.0 |
+| Shpatë, Broad | Shpatë | 15 | 1D8+1+dm | 1 | Gjakderdhje | Mesme | 1H | 20 | Po | 9/7 | — | Mesatare | 1.5 |
+| Shpatë, Madhe | Shpatë | 05 | 2D8+dm | 1 | Gjakderdhje | Mesme/Gjatë | 2H | 18 | Po | 14/13 | — | Shtrenjtë | 3.5 |
+| Shpatë, Gjatë | Shpatë | 15 | 1D8+dm | 1 | Gjakderdhje | Mesme | 1H | 15 | Po | 7/9 | — | Mesatare | 1.5 |
+| Shpatë, Shkurtër | Shpatë | 15 | 1D6+1+dm | 1 | Shpim | Mesme | 1H | 20 | Po | 5/5 | — | Lirë | 1.0 |
+| Trident | Armë shtizë | 15 | 1D6+1+dm | 1 | Shpim | Gjatë | 1H ose 2H | 18 | Po | 9/7 | — | Mesatare | 2.0 |
+| Wakizashi | Shpatë | 15 | 1D6+1+dm | 1 | Gjakderdhje | Mesme | 1H | 13 | Po | 7/9 | — | Shtrenjtë | 1.0 |
+| Kamxhik | Tjetër | 05 | 1D3-1 | 1 | Ngatërrim | Gjatë | 1H | 4 | Jo | 9/10 | — | Lirë | 0.5 |
 
-1. Shih **Choking, Drowning, and Asphyxiation** (Mbytja, Fundosja dhe Asfiksia).
-2. Kur përdorni një katana me një dorë, modifikuesi i dëmit është ½ normal.
-3. Lënxat e turneut janë zakonisht të shurdhër dhe bëjnë suksese të veçanta për shtypje.
-4. Sai janë armë tradicionale të shurdhëra të përdorura kryesisht për mbrojtje dhe goditje.
-5. Kur përdorni një spatë bastarde me një dorë, modifikuesi i dëmit është ½ normal.
-6. Kërkesa STR është 13 kur përdoret me një dorë; 9 kur përdoret me dy duar.
+1. Shih **Mbytje, Fundosje dhe Asfiksi**.
+2. Kur përdorni një katana me një dorë, modifikuesi i dëmtimit është ½ nga ai normal.
+3. Heshtatë e turneve janë zakonisht të pamprehta dhe bëjnë dëmtime speciale shtypëse.
+4. Sai janë tradicionalisht armë të pamprehta të përdorura kryesisht për mbrojtje dhe goditje.
+5. Kur përdorni një shpatë bastard me një dorë, modifikuesi i dëmtimit është ½ nga ai normal.
+6. Kërkesa FOR është 13 kur përdoret me një dorë; 9 kur përdoret me dy duar.
 
-##### Armët Historike Raketore
+##### Armë Historike Predhë
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc | RF |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrez | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbalest | Hark | 15 | 2D6+4 | 1/3 | Shpim | 90 | 2H | 14 | Jo | 11/91 | 93–00 | Mesatare | 10.0 (0.5) | 1/4CR |
-| Hark i përbërë | Hark | 05 | 1D8+1+½dm | 1 | Shpim | 120 | 2H | 12 | Jo | 13/9 | — | Mesatare | 0.5 (0.5) | 1/CR |
-| Hark i gjatë | Hark | 05 | 1D8+1+½dm | 1 | Shpim | 90 | 2H | 10 | Jo | 11/9 | — | I lirë | 0.5 (0.5) | 1/CR |
-| Hark i rëndë | Hark | 25 | 2D6+2 | 1/3 | Shpim | 55 | 2H | 18 | Jo | 13/7 | 97–00 | Mesatare | 8.0 (0.5) | 1/3CR |
-| Hark i lehtë | Hark | 25 | 1D6+2 | ½ | Shpim | 40 | 2H | 10 | Jo | 9/7 | 96–00 | Mesatare | 3.5 (0.5) | 1/2CR |
-| Hark mesatar | Hark | 25 | 2D4+2 | ½ | Shpim | 50 | 2H | 14 | Jo | 11/7 | 95–00 | Mesatare | 5.0 (0.5) | 1/2CR |
-| Hark përsëritës | Hark | 25 | 1D6+2 | 12 | Shpim | 60 | 2H | 12 | Jo | 9/7 | 91–00 | I shtrenjtë | 7.5 (0.5) | 1/CR3 |
-| Thikë (hedhur) | Raketore | 15 | 1d4+½dm | 1 | Shpim | 20 | 1H | 10 | Jo | /11 | — | I lirë | 0.2 | 1/CR |
-| Shuriken | Raketore | 10 | 1D3+½dm | 2 | Shpim | 20 | 1H | 5 | Jo | /13 | — | I lirë | 0.1 | 1/CR |
+| Arbalest | Arbaletë | 15 | 2D6+4 | 1/3 | Shpim | 90 | 2H | 14 | Jo | 11/91 | 93–00 | Mesatare | 10.0 (0.5) | 1/4CR |
+| Hark, Kompozit | Hark | 05 | 1D8+1+½dm | 1 | Shpim | 120 | 2H | 12 | Jo | 13/9 | — | Mesatare | 0.5 (0.5) | 1/CR |
+| Hark, i Gjatë | Hark | 05 | 1D8+1+½dm | 1 | Shpim | 90 | 2H | 10 | Jo | 11/9 | — | Lirë | 0.5 (0.5) | 1/CR |
+| Arbaletë, e Rëndë | Arbaletë | 25 | 2D6+2 | 1/3 | Shpim | 55 | 2H | 18 | Jo | 13/7 | 97–00 | Mesatare | 8.0 (0.5) | 1/3CR |
+| Arbaletë, e Lehtë | Arbaletë | 25 | 1D6+2 | ½ | Shpim | 40 | 2H | 10 | Jo | 9/7 | 96–00 | Mesatare | 3.5 (0.5) | 1/2CR |
+| Arbaletë, e Mesme | Arbaletë | 25 | 2D4+2 | ½ | Shpim | 50 | 2H | 14 | Jo | 11/7 | 95–00 | Mesatare | 5.0 (0.5) | 1/2CR |
+| Arbaletë, Përsëritëse | Arbaletë | 25 | 1D6+2 | 12 | Shpim | 60 | 2H | 12 | Jo | 9/7 | 91–00 | Shtrenjtë | 7.5 (0.5) | 1/CR3 |
+| Thikë, Hedhje | Predhë | 15 | 1d4+½dm | 1 | Shpim | 20 | 1H | 10 | Jo | /11 | — | Lirë | 0.2 | 1/CR |
+| Shuriken | Predhë | 10 | 1D3+½dm | 2 | Shpim | 20 | 1H | 5 | Jo | /13 | — | Lirë | 0.1 | 1/CR |
 
-1. Kërkesa STR me një çikrik (me dorë) është 11; STR 15 kur përdoret pa një.
-2. Ka municion prej 12 dhe merr gjashtë raunde për t'u rimbushur plotësisht.
-3. Një hark përsëritës ka një kapacitet municioni prej 6, 8, 10, ose 12 shigjetash. Duhet një raund luftimi për çdo shigjetë për të rimbushur një hark përsëritës.
+1. Kërkesa FOR me një çikrik (me dorë) është 11; FOR 15 kur përdoret pa të.
+2. Ka municion prej 12 dhe kërkon gjashtë raunde për t'u rimbushur plotësisht.
+3. Një arbaletë përsëritëse ka një kapacitet municioni prej 6, 8, 10, ose 12 shigjetash. Ajo kërkon një raund luftimi për çdo shigjetë për të rimbushur një arbaletë përsëritëse.
 
-##### Armët Moderne të Dyluftimit
+##### Armë Moderne për Luftim Trup më Trup
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Brass Knuckles | Dyluftim | Dyluftim | +2 | 1 | Shtypje | E shkurtër | 1H | 18 | Jo | 5/– | — | I lirë | 0.1 |
-| Sharrë elektrike | I improvizuar | 20 | 2D8 | 1 | Gjakosje | Mesatare | 2H | 20 | Jo | 11/11 | 97–00 | Mesatare | 8.0 |
-| Thikë (Butcher) | Kamë | 25 | 1D6+dm | 1 | Shpim | E shkurtër | 1H | 12 | Jo | 5/7 | — | I lirë | 0.3 |
-| Thikë (Pocket) | Kamë | 25 | 1D4+dm | 1 | Shpim | E shkurtër | 1H | 9 | Jo | –/5 | — | I lirë | 0.1 |
-| Thikë (Switchblade) | Kamë | 25 | 1D4+dm | 1 | Shpim | E shkurtër | 1H | 7 | Jo | –/5 | 99–00 | I lirë | 0.1 |
-| Taser kontakti | Tjetër | Dyluftim | Special1 | 1 | — | E shkurtër | 1H | 7 | Jo | 5/7 | 97–00 | I lirë | 0.3 |
+| Grusht hekuri | Sherr | Sherr | \+2 | 1 | Shtypje | Shkurtër | 1H | 18 | Jo | 5/– | — | Lirë | 0.1 |
+| Sharrë elektrike | Improvizuar | 20 | 2D8 | 1 | Gjakderdhje | Mesme | 2H | 20 | Jo | 11/11 | 97–00 | Mesatare | 8.0 |
+| Thikë, Kasapi | Hanxhar | 25 | 1D6+dm | 1 | Shpim | Shkurtër | 1H | 12 | Jo | 5/7 | — | Lirë | 0.3 |
+| Thikë, Xhepi | Hanxhar | 25 | 1D4+dm | 1 | Shpim | Shkurtër | 1H | 9 | Jo | –/5 | — | Lirë | 0.1 |
+| Thikë, me sustë | Hanxhar | 25 | 1D4+dm | 1 | Shpim | Shkurtër | 1H | 7 | Jo | –/5 | 99–00 | Lirë | 0.1 |
+| Taser, Kontakti | Tjetër | Sherr | Special1 | 1 | — | Shkurtër | 1H | 7 | Jo | 5/7 | 97–00 | Lirë | 0.3 |
 
-##### Armët Moderne Raketore
+##### Armë Moderne Predhë
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc | RF |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrez | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Flamethrower | Tjetër | 05 | 2D6+zjarr3 | 1 | — | 25 | 2H | 6 | Jo | 10/8 | 93–00 | 6 | I shtrenjtë | 8.0 |
-| Mitraloz | Mitraloz | 15 | 2D6+4 | 1, 3, ose breshëri | Shpim | 90 | 2H | 11 | Jo | 9/5 | 00 | 40 | I shtrenjtë | 3.0 |
-| Mini gun | Mitraloz | 15 | 2D6+4 | 33 | Shpim | 400 | 2H | 14 | Jo | 16/12 | 98–00 | 4,000 | I shtrenjtë | 6.0 |
-| Submachine gun | Submachine Gun | 15 | 1D8 | 2 ose breshëri | Shpim | 40 | 1H ose 2H | 8 | Jo | 9/6 | 98–00 | 32 | I shtrenjtë | 2.0 |
-| Pistoletë (Derringer) | Pistoletë | 20 | 1D6 | 1 | Shpim | 3 | 1H | 5 | Jo | 5/5 | 00 | 1 ose 2 | Mesatare | 0.3 |
-| Pistoletë (Flintlock) | Pistoletë | 20 | 1D6+1 | ¼ | Shpim | 10 | 1H | 8 | Jo | 7/5 | 95–00 | 1 | Mesatare | 1.0 |
-| Pistoletë (Heavy) | Pistoletë | 20 | 1D10+2 | 1 | Shpim | 15 | 1H | 8 | Jo | 11/7 | 00 | 8 | Mesatare | 1.5 |
-| Pistoletë (Light) | Pistoletë | 20 | 1D6 | 3 | Shpim | 10 | 1H | 6 | Jo | 5/5 | 00 | 8 | Mesatare | 0.7 |
-| Pistoletë (Medium) | Pistoletë | 20 | 1D8 | 2 | Shpim | 20 | 1H | 8 | Jo | 7/5 | 98–00 | 12 | Mesatare | 1.0 |
-| Revolver (Heavy) | Revolver | 20 | 1D10+2 | 1 | Shpim | 20 | 1H | 14 | Jo | 11/5 | 00 | 6 | Mesatare | 1.5 |
-| Revolver (Light) | Revolver | 20 | 1D6 | 2 | Shpim | 15 | 1H | 10 | Jo | 5/5 | 00 | 6 | Mesatare | 0.7 |
-| Revolver (Medium) | Revolver | 20 | 1D8 | 1 | Shpim | 25 | 1H | 12 | Jo | 7/5 | 00 | 6 | Mesatare | 1.0 |
-| Pushkë (Assault) | Pushkë | 25 | 2D6+2 | 2 ose breshëri | Shpim | 90 | 2H | 12 | Jo | 10/5 | 00 | 30 | I shtrenjtë | 3.5 |
-| Pushkë (Bolt-action) | Pushkë | 25 | 2D6+4 | ½ | Shpim | 110 | 2H | 12 | Jo | 7/5 | 00 | 5 | Mesatare | 3.0 |
-| Pushkë (Elephant) | Pushkë | 15 | 3D6+4 | 1 ose 2 | Shpim | 100 | 2H | 12 | Jo | 13/5 | 00 | 2 | Mesatare | 4.5 |
+| Flakëhedhëse | Tjetër | 05 | 2D6+zjarr3 | 1 | — | 25 | 2H | 6 | Jo | 10/8 | 93–00 | 6 | Shtrenjtë | 8.0 |
+| Mitraloz | Mitraloz | 15 | 2D6+4 | 1, 3, ose breshëri | Shpim | 90 | 2H | 11 | Jo | 9/5 | 00 | 40 | Shtrenjtë | 3.0 |
+| Mini-armë | Mitraloz | 15 | 2D6+4 | 33 | Shpim | 400 | 2H | 14 | Jo | 16/12 | 98–00 | 4,000 | Shtrenjtë | 6.0 |
+| Armë Gjysmëautomatike | Pistoletë automatike | 15 | 1D8 | 2 ose breshëri | Shpim | 40 | 1H ose 2H | 8 | Jo | 9/6 | 98–00 | 32 | Shtrenjtë | 2.0 |
+| Pistoletë, Derringer | Pistoletë | 20 | 1D6 | 1 | Shpim | 3 | 1H | 5 | Jo | 5/5 | 00 | 1 ose 2 | Mesatare | 0.3 |
+| Pistoletë, Flintlock | Pistoletë | 20 | 1D6+1 | ¼ | Shpim | 10 | 1H | 8 | Jo | 7/5 | 95–00 | 1 | Mesatare | 1.0 |
+| Pistoletë, e Rëndë | Pistoletë | 20 | 1D10+2 | 1 | Shpim | 15 | 1H | 8 | Jo | 11/7 | 00 | 8 | Mesatare | 1.5 |
+| Pistoletë, e Lehtë | Pistoletë | 20 | 1D6 | 3 | Shpim | 10 | 1H | 6 | Jo | 5/5 | 00 | 8 | Mesatare | 0.7 |
+| Pistoletë, e Mesme | Pistoletë | 20 | 1D8 | 2 | Shpim | 20 | 1H | 8 | Jo | 7/5 | 98–00 | 12 | Mesatare | 1.0 |
+| Revolver, i Rëndë | Revolver | 20 | 1D10+2 | 1 | Shpim | 20 | 1H | 14 | Jo | 11/5 | 00 | 6 | Mesatare | 1.5 |
+| Revolver, i Lehtë | Revolver | 20 | 1D6 | 2 | Shpim | 15 | 1H | 10 | Jo | 5/5 | 00 | 6 | Mesatare | 0.7 |
+| Revolver, i Mesme | Revolver | 20 | 1D8 | 1 | Shpim | 25 | 1H | 12 | Jo | 7/5 | 00 | 6 | Mesatare | 1.0 |
+| Pushkë, Sulmi | Pushkë | 25 | 2D6+2 | 2 ose breshëri | Shpim | 90 | 2H | 12 | Jo | 10/5 | 00 | 30 | Shtrenjtë | 3.5 |
+| Pushkë, Bolt-action | Pushkë | 25 | 2D6+4 | ½ | Shpim | 110 | 2H | 12 | Jo | 7/5 | 00 | 5 | Mesatare | 3.0 |
+| Pushkë, Elefanti | Pushkë | 15 | 3D6+4 | 1 ose 2 | Shpim | 100 | 2H | 12 | Jo | 13/5 | 00 | 2 | Mesatare | 4.5 |
 | Musket | Pushkë | 25 | 1D10+4 | ¼ | Shpim | 60 | 2H | 12 | Jo | 9/5 | 95–00 | 1 | Mesatare | 3.5 |
-| Pushkë (Sniper) | Pushkë | 204 | 2D10+4 | 1 | Shpim | 2505 | 2H | 10 | Jo | 12/7 | 98–00 | 11 | I shtrenjtë | 4.0 |
-| Pushkë (Sporting) | Pushkë | 25 | 2D6 | 1 | Shpim | 80 | 2H | 12 | Jo | 7/5 | 00 | 6 | Mesatare | 3.0 |
-| Shotgun (Automatic) | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 ose 2 | Shpim | 10/20/50 | 2H | 14 | Jo | 11/5 | 00 | 8 | I shtrenjtë | 4.0 |
-| Shotgun (Double-barrel) | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 ose 2 | Shpim | 10/20/50 | 2H | 12 | Jo | 9/5 | 00 | 2 | Mesatare | 3.5 |
-| Shotgun (Sawed-off) | Shotgun | 30 | 4D6/1D67 | 1 ose 2 | Shpim | 5/20/— | 1H | 14 | Jo | 9/5 | 00 | 1 ose 2 | Mesatare | 2.0 |
-| Shotgun (Sporting) | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 | Shpim | 10/20/50 | 2H | 10 | Jo | 7/5 | 00 | 5 | Mesatare | 3.0 |
-| Spray (Chemical) | Tjetër | 25 | Special8 | 1 | — | 2 | 1H | 2 | Jo | 3/7 | 91–00 | 6 | Mesatare | 0.2 |
-| Taser (Dart) | Tjetër | 20 | Special1 | ½ | — | DEX | 1H | 8 | Jo | 3/7 | 95–00 | 1 | I shtrenjtë | 0.5 |
+| Pushkë, Snajper | Pushkë | 204 | 2D10+4 | 1 | Shpim | 2505 | 2H | 10 | Jo | 12/7 | 98–00 | 11 | Shtrenjtë | 4.0 |
+| Pushkë, Sporti | Pushkë | 25 | 2D6 | 1 | Shpim | 80 | 2H | 12 | Jo | 7/5 | 00 | 6 | Mesatare | 3.0 |
+| Shotgun, Automatik | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 ose 2 | Shpim | 10/20/50 | 2H | 14 | Jo | 11/5 | 00 | 8 | Shtrenjtë | 4.0 |
+| Shotgun, Dy-tyta | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 ose 2 | Shpim | 10/20/50 | 2H | 12 | Jo | 9/5 | 00 | 2 | Mesatare | 3.5 |
+| Shotgun, Sawed-off | Shotgun | 30 | 4D6/1D67 | 1 ose 2 | Shpim | 5/20/— | 1H | 14 | Jo | 9/5 | 00 | 1 ose 2 | Mesatare | 2.0 |
+| Shotgun, Sporti | Shotgun | 30 | 4D6/2D6/ 1D66 | 1 | Shpim | 10/20/50 | 2H | 10 | Jo | 7/5 | 00 | 5 | Mesatare | 3.0 |
+| Spray, Kimik | Tjetër | 25 | Special8 | 1 | — | 2 | 1H | 2 | Jo | 3/7 | 91–00 | 6 | Mesatare | 0.2 |
+| Taser, Shigjetë | Tjetër | 20 | Special1 | ½ | — | SHK | 1H | 8 | Jo | 3/7 | 95–00 | 1 | Shtrenjtë | 0.5 |
 
-1. Trullos objektin (shih **Stunning** (Trullosja)).
-2. Shumë armë zjarri moderne kanë aftësi të zjarrit në breshëri (shih **Autofire**).
-3. Nëse një objektiv goditet nga një hedhës flakësh, ai vihet në flakë dhe merr 1D6+2 pikë për raund në dëme shtesë derisa zjarri të shuhet (shih **Fire and Heat** (Zjarri dhe Nxehtësia)).
-4. Pushkët snajper zakonisht janë të pajisura me një bipod, duke dyfishuar shansin; pa bipod (ose stabilizues të ngjashëm), modifikoni shansin bazë me –10%.
-5. Pushkët snajper zakonisht janë të pajisura me dylbi teleskopike që dyfishojnë rrezen e tyre efektive; nëse pa dylbi, rrezja është 125 metra.
-6. Shotgun-et bëjnë dëme sipas rrezes; shtimi i parë është dice-i i parë i dëmit, i dyti është i dyti, etj.
-7. Shotgun-et bëjnë dëme sipas rrezes; shtimi i parë është dice-i i parë i dëmit, i dyti është i dyti, etj. Shotgun-et me tytë të shkurtuar nuk janë efektive përtej 20 jardëve.
-8. Spray-i kimik është një helm kontakti me POT të ulët (shih **Poisons** (Helmet)). Një lloj shembull spërkatjeje kimike mund të ketë 2D6+12 POT, efekt të menjëhershëm dhe të shkaktojë verbëri nëse objektivi dështon në një hedhje rezistence vs. CON. Është e Vështirë të gjuash në sytë e një objektivi, por e Lehtë në rreze të afërt, duke e bërë shansin të pandikuar.
+1. Trullos objektivin (shih **Trullosja**).
+2. Shumë armë zjarri moderne kanë aftësi për zjarr me breshëri (shih **Zjarr automatik**).
+3. Nëse një objektiv goditet nga një flakëhedhëse, ai merr zjarr dhe merr 1D6+2 pikë për raund dëmtim shtesë derisa zjarri të shuhet (shih **Zjarri dhe Nxehtësia**).
+4. Pushkët e snajperit janë zakonisht të pajisura me një mbështetëse, duke dyfishuar shansin; pa mbështetëse (ose stabilizues të ngjashëm), modifikoni shansin bazë me -10%.
+5. Pushkët e snajperit janë zakonisht të pajisura me dylbi teleskopike që dyfishojnë rrezen e tyre efektive; nëse janë pa dylbi, rrezja është 125 metra.
+6. Shotgun-ët bëjnë dëmtime sipas rrezes; rritja e parë është zareja e parë e dëmtimit, e dyta është e dyta, etj.
+7. Shotgun-ët bëjnë dëmtime sipas rrezes; rritja e parë është zareja e parë e dëmtimit, e dyta është e dyta, etj. Shotgun-ët e shkurtuar nuk janë efektivë përtej 20 jardëve.
+8. Spray-i kimik është një helm kontakti me POT të ulët (shih **Helmet**). Një lloj shembulli i spray-it kimik mund të ketë 2D6+12 POT, efekt të menjëhershëm, dhe shkakton verbëri nëse objektivi dështon në një hedhje rezistence kundrejt QEN. Është e Vështirë të qëllosh në sytë e një objektivi, por e Lehtë në distancë të afërt, duke bërë që shansi të mos modifikohet.
 
-##### Armët e Avancuara të Dyluftimit
+##### Armë të Avancuara për Luftim Trup më Trup
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Spatë (Vibro-) | Polearm | 10% | 2D8+4+dm | 1 | Gjakosje | Mesatare | 2H | 20 | Po | 11/5 | 98–00 | Mesatare | 3.0 |
-| Thikë (Vibro-) | Kamë | 25% | 2D4+2+dm | 1 | Gjakosje | E shkurtër | 1H | 16 | Po | 7/7 | 99–00 | Mesatare | 0.5 |
-| Lënxë (Stun) | Shkop | 15% | 1D6+dm+trullosje1 | 1 | Shtytje prapa | E gjatë | 2H | 18 | Po | 9/5 | 98–00 | Mesatare | 2.5 |
-| Spatë (Energy) | Spatë | 10% | 2D10+dm2 | 1 | Shpim | Mesatare | 1H | 30 | Po | 11/15 | 99–00 | I paçmueshëm | 1.0 |
-| Spatë (Monofilament) | Spatë | 05% | 3D122 | 1 | Gjakosje | Mesatare | 1H | 12 | Jo | 5/15 | 91–003 | I shtrenjtë | 0.5 |
-| Spatë (Vibro-) | Spatë | 20% | 2D6+3+dm | 1 | Gjakosje | Mesatare | 1H | 18 | Po | 9/7 | 97–00 | I shtrenjtë | 1.5 |
-| Kamxhik (Shock) | Tjetër | 05% | 1+½db+trullosje1 | 1 | Ngatërrim | E gjatë | 1H | 10 | Jo | 7/9 | 97-00 | Mesatare | 1.0 |
+| Sëpatë, Vibro- | Armë shtizë | 10% | 2D8+4+dm | 1 | Gjakderdhje | Mesme | 2H | 20 | Po | 11/5 | 98–00 | Mesatare | 3.0 |
+| Thikë, Vibro- | Hanxhar | 25% | 2D4+2+dm | 1 | Gjakderdhje | Shkurtër | 1H | 16 | Po | 7/7 | 99–00 | Mesatare | 0.5 |
+| Heshtatë, Trullosëse | Shkop | 15% | 1D6+dm+trullos1 | 1 | Prapaveprim | Gjatë | 2H | 18 | Po | 9/5 | 98–00 | Mesatare | 2.5 |
+| Shpatë, Energjie | Shpatë | 10% | 2D10+dm2 | 1 | Shpim | Mesme | 1H | 30 | Po | 11/15 | 99–00 | E çmuar | 1.0 |
+| Shpatë, Monofilament | Shpatë | 05% | 3D122 | 1 | Gjakderdhje | Mesme | 1H | 12 | Jo | 5/15 | 91–003 | Shtrenjtë | 0.5 |
+| Shpatë, Vibro- | Shpatë | 20% | 2D6+3+dm | 1 | Gjakderdhje | Mesme | 1H | 18 | Po | 9/7 | 97–00 | Shtrenjtë | 1.5 |
+| Kamxhik, Shok | Tjetër | 05% | 1+½db+trullos1 | 1 | Ngatërrim | Gjatë | 1H | 10 | Jo | 7/9 | 97-00 | Mesatare | 1.0 |
 
-##### Armët e Avancuara Raketore
+##### Armë të Avancuara Predhë
 
-| Arma | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc | RF |
+| Armë | Aftësi | Bazë | Dëmt | Sulm | Speciale | Rrez | Duar | HP | Mbrojtje | FOR/SHK | Gab | Vlerë | MAD/Enc | RF |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Pistoletë (Blaster) | Pistoletë, Energji | 15% | 1D8+2 | 2 | Shpim | 15 | 1H | 14 | Jo | 7/5 | 99–00 | 30 | Mesatare | 1.0 |
-| Pistoletë (Çintegruese) | Pistoletë, Energji | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Jo | 7/5 | 96–00 | 10 | I shtrenjtë | 1.0 |
-| Pistoletë (EM Pulse) | Pistoletë, Energji | 20% | 2D6 vs. tech5 | 1 | — | 15 | 1H | 12 | Jo | 7/5 | 98–00 | 20 | Mesatare | 1.0 |
-| Pistoletë (Flechette) | Pistoletë, Energji | 05% | 2D46 | 1 ose breshëri7 | Shpim | 15 | 1H | 14 | Jo | 5/7 | 99–00 | 6 | Mesatare | 0.8 |
-| Pistoletë (Laser) | Pistoletë, Energji | 20% | 1D8 | 3 | Shpim | 30 | 1H | 14 | Jo | 5/5 | 99–00 | 20 | Mesatare | 1.0 |
-| Pistoletë (Plasma) | Pistoletë, Energji | 15% | 2D10+2 | 1 | Shpim | 20 | 1H | 18 | Jo | 7/5 | 98–00 | 12 | I shtrenjtë | 1.2 |
-| Pistoletë (Shock) | Pistoletë, Energji | 15% | 2D4 | 1 | Shtytje prapa | 15 | 1H | 12 | Jo | 5/5 | 98–00 | 12 | Mesatare | 1.0 |
-| Pistoletë (Stun) | Pistoletë, Energji | 25% | 2D6 trullos2 | 1 | Shtytje prapa | 15 | 1H | 16 | Jo | 5/5 | 00 | 12 | Mesatare | 1.0 |
-| Pushkë (Blaster) | Pushkë, Energji | 10% | 2D8+3 | 2 | Shpim | 60 | 2H | 20 | Jo | 9/5 | 99–00 | 20 | Mesatare | 1.0 |
-| Pushkë (Çintegruese) | Pushkë, Energji | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Jo | 9/7 | 96–00 | 10 | I shtrenjtë | 2.0 |
-| Pushkë (EM Pulse) | Pushkë, Energji | 25% | 3D8 vs. tech5 | 1 | — | 75 | 2H | 18 | Jo | 7/5 | 98–00 | 12 | Mesatare | 2.0 |
-| Pushkë (Laser) | Pushkë, Energji | 15% | 2D8 | 2 | Shpim | 100 | 2H | 20 | Jo | 7/7 | 99–00 | 20 | Mesatare | 1.5 |
-| Pushkë (Plasma) | Pushkë, Energji | 10% | 2D10+4 | 1 | Shpim | 70 | 2H | 18 | Jo | 9/7 | 98–00 | 16 | I shtrenjtë | 2.0 |
-| Pushkë (Shock) | Pushkë, Energji | 10% | 3D8 | 1 | Shtytje prapa | 50 | 2H | 18 | Jo | 9/7 | 98–00 | 12 | Mesatare | 1.5 |
-| Pushkë (Sonic) | Pushkë, Energji | 10% | 1D3+28 | 1 | Shtytje prapa | 50 | 2H | 16 | Jo | 7/7 | 97–00 | 36 | Mesatare | 2.0 |
-| Pushkë (Stun) | Pushkë, Energji | 20% | 2D8 trullos9 | 1 | Shtytje prapa | 50 | 2H | 22 | Jo | 7/5 | 00 | 24 | Mesatare | 1.5 |
+| Pistoletë, Blaster | Pistoletë, Energjie | 15% | 1D8+2 | 2 | Shpim | 15 | 1H | 14 | Jo | 7/5 | 99–00 | 30 | Mesatare | 1.0 |
+| Pistoletë, Shpërbërëse | Pistoletë, Energjie | 05% | 3D4+1 | 1 | — | 10 | 1H | 12 | Jo | 7/5 | 96–00 | 10 | Shtrenjtë | 1.0 |
+| Pistoletë, Impuls EM | Pistoletë, Energjie | 20% | 2D6 kundrejt teknologjisë5 | 1 | — | 15 | 1H | 12 | Jo | 7/5 | 98–00 | 20 | Mesatare | 1.0 |
+| Pistoletë, Flechette | Pistoletë, Energjie | 05% | 2D46 | 1 ose breshëri7 | Shpim | 15 | 1H | 14 | Jo | 5/7 | 99–00 | 6 | Mesatare | 0.8 |
+| Pistoletë, Laser | Pistoletë, Energjie | 20% | 1D8 | 3 | Shpim | 30 | 1H | 14 | Jo | 5/5 | 99–00 | 20 | Mesatare | 1.0 |
+| Pistoletë, Plazma | Pistoletë, Energjie | 15% | 2D10+2 | 1 | Shpim | 20 | 1H | 18 | Jo | 7/5 | 98–00 | 12 | Shtrenjtë | 1.2 |
+| Pistoletë, Shok | Pistoletë, Energjie | 15% | 2D4 | 1 | Prapaveprim | 15 | 1H | 12 | Jo | 5/5 | 98–00 | 12 | Mesatare | 1.0 |
+| Pistoletë, Trullosëse | Pistoletë, Energjie | 25% | 2D6 trullos2 | 1 | Prapaveprim | 15 | 1H | 16 | Jo | 5/5 | 00 | 12 | Mesatare | 1.0 |
+| Pushkë, Blaster | Pushkë, Energjie | 10% | 2D8+3 | 2 | Shpim | 60 | 2H | 20 | Jo | 9/5 | 99–00 | 20 | Mesatare | 1.0 |
+| Pushkë, Shpërbërëse | Pushkë, Energjie | 05% | 3D6+2 | 1 | — | 30 | 2H | 18 | Jo | 9/7 | 96–00 | 10 | Shtrenjtë | 2.0 |
+| Pushkë, Impuls EM | Pushkë, Energjie | 25% | 3D8 kundrejt teknologjisë5 | 1 | — | 75 | 2H | 18 | Jo | 7/5 | 98–00 | 12 | Mesatare | 2.0 |
+| Pushkë, Laser | Pushkë, Energjie | 15% | 2D8 | 2 | Shpim | 100 | 2H | 20 | Jo | 7/7 | 99–00 | 20 | Mesatare | 1.5 |
+| Pushkë, Plazma | Pushkë, Energjie | 10% | 2D10+4 | 1 | Shpim | 70 | 2H | 18 | Jo | 9/7 | 98–00 | 16 | Shtrenjtë | 2.0 |
+| Pushkë, Shok | Pushkë, Energjie | 10% | 3D8 | 1 | Prapaveprim | 50 | 2H | 18 | Jo | 9/7 | 98–00 | 12 | Mesatare | 1.5 |
+| Pushkë, Zanore | Pushkë, Energjie | 10% | 1D3+28 | 1 | Prapaveprim | 50 | 2H | 16 | Jo | 7/7 | 97–00 | 36 | Mesatare | 2.0 |
+| Pushkë, Trullosëse | Pushkë, Energjie | 20% | 2D8 trullos9 | 1 | Prapaveprim | 50 | 2H | 22 | Jo | 7/5 | 00 | 24 | Mesatare | 1.5 |
 
-1. Hidhni për dëm dhe vëreni atë vs. CON të objektivit në një hedhje rezistence. Nëse objektivi humbet, ata trullosen për 1D3+1 raunde (shih **Stunning** (Trullosja)).
-2. Vlera efektive e parzmores së objektivit kundër kësaj arme përgjysmohet (rrumbullakosni lart).
-3. Nëse dështoni në një sulm me monofilament sword, bëni një hedhje të vështirë për Agjilitet për të shmangur goditjen e vetvetes. Nëse dështoni, sulmi juaj ju godet juve përveç hedhjes në tabelën e dështimit të armëve të dyluftimit. Dëmi shpërfill ½ e vlerës së parzmores (rrumbullakosni lart).
-4. Shumë armë raketore kanë aftësi zjarri në breshëri (shih **Autofire** (Zjarr automatik)).
-5. Nëse objektivi është një robot, makinë, ose përdor energji elektromagnetike, hidhni për dëm dhe bëni një hedhje rezistence vs. CON të objektivit. Nëse keni sukses, pajisja trulloset për 1D3+1 raunde. Nëse dëmi është më i lartë se pikët e goditjes së objektivit, ai trulloset. Dëmi nga armët EMP është i përkohshëm dhe pikët e humbura të goditjes mund të rikthehen me një hedhje për Riparim.
-6. Kundër një kundërshtari me parzmore të fortë (metal, plastik, ose pllaka), pistoleta flechette bën vetëm ½ dëme (rrumbullakosni lart).
-7. Një pistoletë flechette shkrep grupe flechettash, ose një 'shkrepje' ose një breshëri të gjatë që zbraz magazinën. Çdo shkrepje është një sulm i vetëm, duke bërë 2D4 dëme.
-8. Një pushkë zanore dëmton objektivat e gjallë çdo raund luftimi që i godet me sukses. Kundër një objektivi jo të gjallë, dëmi për raund hidhet në një hedhje rezistence vs. CON, vlerës së parzmores ose pikëve të goditjes së objektivit (zgjedhja e udhëheqësit të lojës). Nëse objektivi dështon, ai thyhet ose dëmtohet dhe nuk funksionon.
-9. Hidhni për dëm dhe vëreni atë vs. CON të objektivit në një hedhje rezistence. Nëse objektivi fiton, ata marrin dëmin minimal (2) në vend të dëmit të hedhur. Nëse objektivi humbet, ata trullosen për 1D3+1 raunde (shih **Stunning** (Trullosja)).
+1. Hidheni dëmtimin dhe përballeni me QEN e objektivit në një hedhje rezistence. Nëse objektivi humbet, ai trulloset për 1D3+1 raunde (shih **Trullosja**).
+2. Vlera efektive e armaturës së objektivit kundrejt kësaj arme përgjysmohet (rrumbullakosni lart).
+3. Nëse bëni një gabim gjatë një sulmi me një shpatë monofilament, bëni një hedhje të Vështirë për Shkathtësi për të shmangur goditjen e vetvetes. Nëse dështoni, sulmi juaj ju godet juve përveç hedhjes në tabelën e gabimeve të armëve për luftim trup më trup. Dëmtimi injoron ½ e vlerës së armaturës (rrumbullakosni lart).
+4. Shumë armë predhë kanë aftësi për zjarr me breshëri (shih **Zjarr automatik**).
+5. Nëse objektivi është robot, makinë, ose përdor energji elektromagnetike, hidhni dëmtimin dhe bëni një hedhje rezistence kundrejt QEN të objektivit. Nëse është i suksesshëm, pajisja trulloset për 1D3+1 raunde (shih **Trullosja**). Nëse dëmtimi është më i lartë se pikët e goditjes së objektivit, ai bie 'pa ndjenja'. Dëmtimi nga armët EMP është i përkohshëm dhe pikët e humbura të goditjes mund të restaurohen me një hedhje për Riparim.
+6. Kundrejt një armiku me armaturë të fortë (metal, plastikë, ose pllaka), një pistoletë flechette bën vetëm ½ dëmtim (rrumbullakosni lart).
+7. Një pistoletë flechette qëllon grupe flechettes, ose një 'të shtënë' ose një breshëri të gjatë që zbraz karikatorin. Çdo e shtënë është një sulm i vetëm, duke bërë 2D4 dëmtim.
+8. Një pushkë zanore dëmton objektivat e gjallë çdo raund luftimi që i godet me sukses. Kundrejt një objektivi të pajallë, dëmtimi për raund hidhet në një hedhje rezistence kundrejt QEN, vlerës së armaturës, ose pikëve të goditjes së objektivit (zgjedhja e mjeshtrit të lojës). Nëse objektivi dështon, ai thyhet ose dëmtohet dhe bëhet jofunksional.
+9. Hidheni dëmtimin dhe përballeni me QEN e objektivit në një hedhje rezistence. Nëse objektivi ia del mbanë, ai merr dëmtimin minimal (2) në vend të dëmtimit të hedhur. Nëse objektivi humbet, ai trulloset për 1D3+1 raunde (shih **Trullosja**).
 
-> ### Rregulla të shpejta për armët e zjarrit
-> 
-> Kapitulli i Shtatë: Rregulla të shpejta (Spot Rules) mbulon shumë kushte në lidhje me armët e zjarrit, si zjarri automatik, rrezja, etj. Më poshtë janë rregulla shtesë të përdorimit. Udhëheqësi i lojës suaj mund të zgjedhë t'i lejojë këto për të mbuluar lloje shtesë të armëve me rreze, si armët me energji ose lazer.
-> 
-> #### Parzmorja dhe Armët e zjarrit
-> 
-> Llojet e parzmoreve nga periudhat e mëparshme janë relativisht joefektive kundër armëve nga periudhat e mëvonshme; parzmorja e një kalorësi ofron pak mbrojtje nga armët e zjarrit. Çdo parzmore primitive, antike ose mesjetare ka vetëm gjysmën e vlerës së saj kundër armëve të zjarrit (rrumbullakosur lart). E njëjta gjë vlen për parzmoren moderne kundër armëve të avancuara. Parzmorja e avancuar mbron me vlerë të plotë kundër të gjitha armëve. Për të përmbledhur:
-> 
-> * **Primitive ose Antike** parzmorja ofron vetëm ½ mbrojtje kundër armëve me shpejtësi të lartë ose energjie (rrumbullakosur lart).
-> 
-> * **Moderne** parzmorja ofron ½ mbrojtje kundër armëve me energji (rrumbullakosur lart).
-> 
-> * **Avancuar** parzmorja ofron mbrojtje të plotë kundër të gjitha formave të sulmit. Udhëheqësi i lojës suaj mund të vendosë që parzmorja e avancuar mbron vetëm me ½ të vlerës së parzmores së saj kundër armëve me energji (rrumbullakosur lart).
-> 
-> Nëse vlera e parzmores përcaktohet rastësisht, hidhni për mbrojtjen e parzmores, aplikoni çdo modifikues, pastaj pjesëtojeni me dy, duke rrumbullakosur lart. Disa parzmore tashmë tregojnë ndryshimin në mbulim midis armëve të dyluftimit dhe armëve me shpejtësi të lartë—këto nuk kanë nevojë të reduktohen dy herë. Disa lloje përbindëshash gjithashtu mund të jenë rezistente ndaj armëve të zjarrit, të vërejtura në përshkrimet e tyre në Kapitullin e Njëmbëdhjetë: Krijesat.
-> 
-> #### Revolverët e mbushur
-> 
-> Dhoma direkt nën çekiçin e një revolveri shpesh lihet bosh kundër një shkrepjeje aksidentale. Nëse kjo praktikë ndiqet, ulni kapacitetin e municionit me 1. Për të theksuar rrezikun e mbajtjes së një revolveri plotësisht të mbushur, udhëheqësi i lojës suaj mund t'i kërkojë personazhit tuaj të bëjë një hedhje të suksesshme për Fat për të shmangur një shkrepje aksidentale nëse personazhi juaj bie ose përplaset mjaft ashpër sa të mund të shkaktojë armën. Nëse hedhja për Fat ka sukses, revolveri nuk shkrep. Nëse dështon, revolveri shkrep, dhe personazhi juaj dhe të gjithë rreth personazhit tuaj duhet të bëjnë një hedhje për Fat për të shmangur goditjen nga plumbi i humbur. Udhëheqësi i lojës suaj duhet të përcaktojë kë godet zjarri miqësor. Nëse hedhja fillestare për Fat është një dështim kritik (fumble), plumbi godet personazhin tuaj dhe bën dëme normale.
-> 
-> #### Dështimet (Malfunctions)
-> 
-> Nëse hedhja e sulmit të personazhit tuaj është e barabartë ose më e lartë se numri i dështimit të armës, arma dështon dhe nuk do të shkrepë derisa të jetë trajtuar.
-> 
-> * Nëse arma është një revolver, pushkë bolt-action, ose shotgun me dy tytë, problemi është vetëm një fishek i dështuar (dud).
-> 
-> * Nëse arma është automatike, gjysmë-automatike, pump-action, ose lever-action, dështimi është një bllokim.
-> 
-> Një fishek i dështuar mund të kalohet ose nxirret në një raund luftimi. Rregullimi i një bllokimi merr 1D6 raunde luftimi dhe kërkon një hedhje të suksesshme të aftësisë ose të aftësisë së armëve të zjarrit ose të Riparimit, cilado që është më e lartë. Personazhi juaj mund të vazhdojë të provojë derisa të ketë sukses, me çdo përpjekje që merr 1D6 raunde shtesë luftimi. Një hedhje prej 96–00 në këtë përpjekje rezulton në dëmtimin e pariparueshëm të armës së zjarrit.
-> 
-> Një dështim (fumble) gjithashtu mund të mbivendoset me një dështim të funksionimit. Nëse rezultatet e të dyjave janë kontradiktore, udhëheqësi i lojës suaj duhet t'i adresojë ato në rendin më praktik, duke aplikuar të dy rezultatet kur është e mundur. Armët përveç armëve të zjarrit mund të dështojnë, dhe mund të pastrohen në të njëjtën mënyrë. Për armët me energji, 'fisheku i dështuar' ka të ngjarë të jetë një ngarkesë jo e plotë ose me defekt.
-> 
-> #### Rimbushja e armëve të zjarrit
-> 
-> Merr një raund luftimi për të mbushur dy predha ose plumba në çdo pistoletë, pushkë ose shotgun, dhe një raund luftimi për të shkëmbyer një kapëse, qelizë energjie ose pako baterie. Ndërrimi i një rripi mitralozi merr dy raunde luftimi. Nëse koha është e rëndësishme, është e mundur të futësh një plumb në një armë zjarri dhe të shkrepësh një goditje të vetme në ½ të rendit normal të DEX të personazhit tuaj (rrumbullakosni lart).
-> 
-> #### Goditjet pa shënjestër
-> 
-> Hyrja e sulmeve-për-raund (Attk) për armët me rreze supozon se personazhi juaj po përpiqet të godasë një objektiv drejtpërdrejt dhe po bën një përpjekje për të shënjestruar. Nëse dëshironi që personazhi juaj të spërkatë një zonë me plumba, si p.sh. nëse siguroni zjarr mbulues dhe saktësia nuk është shqetësim, mund të dyfishoni sulmet-për-raund të armës, por shansi për të goditur reduktohet në 1/5 e aftësisë së personazhit tuaj (e barabartë me shansin e një suksesi të veçantë, megjithëse rezultati është një sukses normal). Nëse ka më shumë se një objektiv, udhëheqësi i lojës suaj duhet të përcaktojë rastësisht se kush goditet. Sipas gjykimit të udhëheqësit të lojës, nëse personazhi juaj është i përgatitur, i pajisur me një shënjestër lazer ose pajisje tëkuivalente dhe ka një aftësi arme mbi 60%, shansi për të goditur nuk modifikohet.
+> ### Rregulla të shpejta për Armët e Zjarrit
+>
+> Kapitulli i Shtatë: Rregullat e Shpejta mbulon shumë kushte lidhur me armët e zjarrit, si zjarri automatik, rrezja, etj. Më poshtë janë rregulla shtesë të përdorimit. Mjeshtri i lojës mund të zgjedhë t'i lejojë këto për të mbuluar lloje shtesë të armëve me rreze, si armët e energjisë ose laserit.
+>
+> #### Armatura dhe Armët e Zjarrit
+>
+> Llojet e armaturës nga periudha të mëparshme janë relativisht joefektive kundrejt armëve nga periudha të mëvonshme; armatura e një kalorësi ofron pak mbrojtje nga armët e zjarrit. Çdo armaturë primitive, antike ose mesjetare ka vetëm gjysmën e vlerës së saj kundrejt armëve të zjarrit (të rrumbullakosura lart). E njëjta gjë vlen për armaturën moderne kundrejt armatimit të avancuar. Armatura e avancuar mbron me vlerë të plotë kundrejt të gjitha armëve. Për të përmbledhur:
+>
+> * **Primitive ose Antike** armatura ofron vetëm ½ mbrojtje kundrejt armëve me shpejtësi të lartë ose energji (rrumbullakosni lart).
+>
+> * **Moderne** armatura ofron ½ mbrojtje kundrejt armatimit të energjisë (rrumbullakosni lart).
+>
+> * **Avancuar** armatura ofron mbrojtje të plotë kundrejt të gjitha formave të sulmit. Mjeshtri i lojës mund të vendosë që armatura e avancuar mbron vetëm me ½ e vlerës së saj të armaturës kundrejt armëve të energjisë (rrumbullakosni lart).
+>
+> Nëse vlera e armaturës përcaktohet rastësisht, hidhni për mbrojtjen e armaturës, aplikoni çdo modifikues, pastaj pjesëtojeni përgjysmë, duke rrumbullakosur lart. Disa armatura deklarojnë tashmë diferencën në mbulim midis armëve të dorës dhe armëve me shpejtësi të lartë—këto nuk kanë nevojë të reduktohen dy herë. Disa lloje përbindëshash mund të jenë gjithashtu rezistente ndaj armëve të zjarrit, të shënuara në përshkrimet e tyre në Kapitullin Njëmbëdhjetë: Krijesat.
+>
+> #### Revolverët e Mbushur
+>
+> Dhoma direkt nën çekiçin e një revolveri shpesh lihet bosh kundrejt një shkarkimi aksidental. Nëse kjo praktikë ndiqet, ulni kapacitetin e municionit me 1. Për të theksuar rrezikun e mbajtjes së një revolveri të mbushur plotësisht, mjeshtri i lojës mund të kërkojë që personazhi juaj të bëjë një hedhje të suksesshme për Fat për të shmangur një shkarkim aksidental nëse personazhi juaj bie ose shtyhet mjaftueshëm për të shkaktuar potencialisht armën. Nëse hedhja për Fat është e suksesshme, revolveri nuk shkarkohet. Nëse dështon, revolveri shkarkohet, dhe personazhi juaj dhe të gjithë rreth personazhit tuaj duhet të bëjnë një hedhje për Fat për të shmangur goditjen nga plumbi i humbur. Mjeshtri i lojës duhet të përcaktojë se kë godet zjarri miqësor. Nëse hedhja fillestare për Fat është një gabim, plumbi godet personazhin tuaj dhe bën dëmtim normal.
+>
+> #### Keqfunksionimet
+>
+> Nëse hedhja për sulm e personazhit tuaj është e barabartë ose më e lartë se numri i keqfunksionimit të armës, arma keqfunksionon dhe nuk do të qëllojë derisa të jetë trajtuar.
+>
+> * Nëse arma është një revolver, pushkë bolt-action, ose një shotgun me dy tyta, problemi është vetëm një fishek që nuk shpërthen.
+>
+> * Nëse arma është automatike, gjysmë-automatike, pump-action, ose lever-action, keqfunksionimi është një bllokim.
+>
+> Një fishek që nuk shpërthen mund të nxirret jashtë në një raund luftimi. Rregullimi i një bllokimi merr 1D6 raunde luftimi dhe kërkon një hedhje të suksesshme të aftësisë ose të aftësisë së armës së zjarrit ose të Riparimit, cilado që është më e lartë. Personazhi juaj mund të vazhdojë të përpiqet derisa të ketë sukses, me çdo përpjekje që merr 1D6 raunde shtesë luftimi. Një hedhje prej 96–00 në këtë përpjekje rezulton në armën e zjarrit që dëmtohet në mënyrë të pariparueshme.
+>
+> Një gabim mund të mbivendoset gjithashtu me një keqfunksionim. Nëse rezultatet e të dyjave janë kontradiktore, mjeshtri i lojës duhet t'i adresojë ato në radhën më praktike, duke aplikuar të dy rezultatet kur është e mundur. Armët përveç armëve të zjarrit mund të keqfunksionojnë, dhe mund të rregullohen në të njëjtën mënyrë. Për armët e energjisë, 'fisheku që nuk shpërthen' është ndoshta një ngarkesë jo e plotë ose me defekt.
+>
+> #### Rimbushja e Armëve të Zjarrit
+>
+> Merr një raund luftimi për të futur dy fishekë në çdo pistoletë, pushkë, ose shotgun, dhe një raund luftimi për të ndërruar një karikator, qelizë energjie, ose paketë baterish. Ndërrimi i një rripi mitralozi merr dy raunde luftimi. Nëse koha është e rëndësishme, është e mundur të vendosni një fishek në një armë zjarri dhe të bëni një të shtënë të vetme në ½ të rangut tuaj normal të SHK (rrumbullakosni lart).
+>
+> #### Të shtënat e pa-shënjestruara
+>
+> Hyrja e sulmeve-për-raund (**Sulm**) për armët me rreze supozon se personazhi juaj po përpiqet të godasë një objektiv drejtpërdrejt, dhe po bën një përpjekje për të shënjestruar. Nëse dëshironi që personazhi juaj të spërkatë një zonë me të shtëna, si për shembull nëse ofroni zjarr mbulues, dhe saktësia nuk është shqetësim, mund ta dyfishoni shkallën e sulmeve-për-raund të armës, por shansi për të goditur reduktohet në 1/5 e aftësisë së personazhit tuaj (e barabartë me shansin e një suksesi special, megjithëse rezultati është një sukses normal). Nëse ka më shumë se një objektiv, mjeshtri i lojës duhet të përcaktojë rastësisht se kush goditet. Sipas gjykimit të mjeshtrit të lojës, nëse personazhi juaj është i përgatitur, i pajisur me një dritë laser ose pajisje shënjestrimi ekuivalente, dhe ka një aftësi arme mbi 60%, shansi për të goditur nuk modifikohet.
 
-## Parzmorja (Armor)
+## Armatura
 
-Në një nivel bazë, parzmorja është veshje e ngurtësuar. Varësisht nga mjedisi, parzmorja është bërë nga lëkurë, metal, plastik, ose ndonjë kombinim i këtyre materialeve, dhe vishet për të pasur diçka mbrojtëse midis vetes dhe një burimi dëmi. Parzmorja është më e rëndë se veshjet normale dhe shpesh e pakëndshme dhe e vështirë për t'u veshur. Nëse personazhi juaj është një luftëtar, ata kanë më shumë gjasa të jenë më të rehatshëm me parzmore se personi mesatar, megjithëse veshja e parzmores rrallë është më e rehatshme se mospasja e saj.
+Në një nivel bazë, armatura është veshje e forcuar. Në varësi të mjedisit, armatura është bërë prej lëkure, metali, plastike, ose një kombinim i këtyre materialeve, dhe vishet për të pasur diçka mbrojtëse midis vetes dhe një burimi dëmtimi. Armatura është më e rëndë se veshjet normale dhe shpesh e pakëndshme dhe e vështirë për t'u veshur. Nëse personazhi juaj është një luftëtar, ai ka të ngjarë të jetë më rehat në armaturë se personi mesatar, megjithëse veshja e armaturës është rrallë më e rehatshme se mosveshja e saj.
 
-Parzmorja e përshkruar në këtë seksion kategorizohet lirshëm kronologjikisht, për referencë. Në shumicën e rasteve, parzmorja nga një periudhë e mëparshme është e disponueshme në periudha të mëvonshme, kështu që udhëheqësi i lojës suaj mund të zgjedhë se ku ndalet disponueshmëria e parzmores dhe t'i lejojë personazhit tuaj akses në lloje të mëparshme.
+Armatura e përshkruar në këtë seksion është kategorizuar lirshëm kronologjikisht, për referencë. Në shumicën e rasteve, armatura nga një periudhë e mëparshme është e disponueshme për njerëzit nga periudha të mëvonshme, kështu që mjeshtri i lojës mund të zgjedhë se ku ndalon disponueshmëria e armaturës dhe t'i lejojë personazhit tuaj akses në lloje të mëparshme.
 
-Secili lloj parzmoreje ka atributet e mëposhtme:
+Çdo lloj armature ka atributet e mëposhtme:
 
 * **Emri**: Emri i zakonshëm.
-* **AV**: Vlera e parzmores, sasia që mbron parzmorja.
-* **Random AV**: (Opsion) Kjo është vlera e parzmores nëse përdoren vlera të rastësishme të parzmores.
-* **Burden (Ngarkesa)**: Ngathësia ose ngarkesa relative e parzmores. Udhëheqësi i lojës suaj mund ta përdorë këtë vlerë me sistemin opsional të lodhjes.
-* **ENC**: Kjo vlerë është për një personazh me SIZ mesatar (11–15). Për SIZ 6–10, shumëzoni vlerën ENC me .8; për SIZ 16–20 shumëzoni vlerën me 1.2; për SIZ 21–25 shumëzoni me 1.4, etj. (rrumbullakosni lart).
-* **Skill Modifier (Modifikuesi i aftësisë)**: Një modifikues për aftësi të caktuara ose kategori aftësish ndërsa mbahet parzmorja, gjithashtu zbatohet për çdo aftësi përkatëse.
-* **Fits SIZ (Përshtatet SIZ)**: Varianca që SIZ-i i parazgjedhur i parzmores mund të akomodojë nga SIZ-i i saj i parazgjedhur, e shprehur si një vlerë pozitive ose negative.
-* **Time**: Sa raunde luftimi duhen për të veshur parzmoren.
-* **Locations (Vendndodhjet)**: (Opsion) Nëse përdoren vendndodhjet e goditjes, vendndodhjet e goditjes të mbuluara nga parzmorja.
-* **Vlera**: Kostoja e parzmores në një mjedis mesatar.
 
-Për ndryshim nga armët dhe mburojat, parzmorja përgjithësisht nuk pëson dëme, përveçse nga faktorë mjedisorë. Parzmorja është krijuar për mbrojtje; ajo mund të marrë shumë goditje. Vlera e parzmores kurrë nuk reduktohet përmes dëmeve në dyluftim—përkundrazi, çdo ndryshim në vlerën e parzmores duhet të vijë nga ndonjë ngjarje e jashtëzakonshme.
+* **AV**: Vlera e armaturës, sasia që armatura mbron.
 
-### Përshkrimet e parzmoreve
+* **AV Rastësore**: (Opsionale) Kjo është vlera e armaturës nëse përdoren vlera rastësore të armaturës.
 
-Ky seksion përshkruan të gjitha llojet e parzmoreve, në mënyrë alfabetike.
+* **Barrë**: Vështirësia ose ngarkesa relative e armaturës. Mjeshtri i lojës mund ta përdorë këtë vlerë me sistemin opsional të lodhjes.
 
-**Rrjetë adaptuese (Adaptive Mesh):** Kjo pëlhurë e teknologjisë së lartë ngurtësohet dhe reagon ndaj goditjeve, por mbetet e lakueshme dhe e rehatshme pjesën tjetër të kohës. Zakonisht vishet si kostum trupi, mund të shtresohet nën parzmore të tjera.
+* **ENC**: Kjo vlerë është për një personazh me MAD mesatare (11–15). Për MAD 6–10, shumëzoni vlerën ENC me .8; për MAD 16–20 shumëzoni vlerën me 1.2; për MAD 21–25 shumëzoni atë me 1.4, etj. (rrumbullakosni lart)
 
-**Parzmore sulmi (Light):** Parzmore e lehtë e përdorur nga ushtarët për t'i rezistuar armëve të dyluftimit, predhave të forta, si dhe kundër armëve të energjisë. E bërë nga qeramika, aliazhe ose plastikë me ndikim të lartë.
+* **Modifikues Aftësie**: Një modifikues për aftësi të caktuara ose kategori aftësish ndërsa vishet armatura, i aplikuar gjithashtu për çdo aftësi të përshtatshme.
 
-**Parzmore sulmi (Standard):** Parzmore e rëndë, e bërë për beteja në mjedise të rrezikshme. E bërë nga qeramika, aliazhe ose plastikë rezistente, parzmorja e sulmit ofron mbrojtje nga koka te këmbët dhe favorizohet nga ushtria.
+* **Përshtatje MAD**: Diferenca që MAD-i i parazgjedhur i armaturës mund të akomodojë nga MAD-i i saj i parazgjedhur, e shprehur si një vlerë pozitive ose negative.
 
-**Parzmore sulmi (Heavy, Powered):** E ngjashme me parzmoren standarde të sulmit, por më masive dhe me mbështjellje më të trashë të parzmores. Servo-motorët e brendshëm rrisin forcën e mbajtësit. Luftëtarët në parzmore sulmi të rëndë me fuqi shpesh përdorin armë masive. Korniza pranon përmirësime modulare (si një jetpack) dhe është e mbyllur hermetikisht kundër armëve kimike dhe vakumit të hapësirës.
+* **Kohë**: Sa raunde luftimi duhen për të veshur armaturën.
 
-**Parzmore sulmi (Light, Powered):** E ngjashme me parzmoren e rëndë të sulmit me fuqi, por më e lehtë dhe pa shtesa si sistemet e mbyllura.
+* **Vendndodhje**: (Opsionale) Nëse përdoren vendndodhjet e goditjeve, vendndodhjet e goditjeve të mbuluara nga armatura.
 
-**Pëlhurë balistike:** E bërë nga fibra aramid, parzmorja prej pëlhure balistike ofron mbrojtje të moderuar kundër plumbave, megjithëse jo aq sa një jelek anti-plumb. Zakonisht vishet nën veshjet e rrugës ose e stiluar për t'i ngjajtur veshjeve normale.
+* **Vlerë**: Kostoja e armaturës në një mjedis mesatar.
 
-**Jelek anti-plumb (Early):** Një variant më i vjetër i jelekut anti-plumb, i rëndë dhe i ngathët, me pllaka metalike të trasha në një jelek kanavacë të segmentuar.
+Për ndryshim nga armët dhe mburojat, armatura përgjithësisht nuk pëson dëmtim, përveç faktorëve mjedisorë. Armatura është dizajnuar për mbrojtje; ajo mund të marrë shumë goditje. Vlera e armaturës nuk reduktohet kurrë përmes dëmtimit në luftim—në vend të kësaj, çdo ndryshim në vlerën e armaturës duhet të vijë nga ndonjë ngjarje e jashtëzakonshme.### Përshkrimet e Pajisjeve Mbrojtëse
 
-**Jelek anti-plumb (Modern):** Një evolucion i jelekut anti-plumb, duke përdorur aliazhe metalike me ndikim të lartë dhe plastikë për një formë mbrojtjeje më të lehtë dhe më të hollë.
+Ky seksion përshkruan të gjitha llojet e pajisjeve mbrojtëse, në rend alfabetik.
 
-**Zinxhir (Chain):** Kjo parzmore përbëhet nga një rrjetë e bërë nga lidhje metalike të endura. Është jashtëzakonisht fleksibël, por mjaft e rëndë.
+**Rrjetë Përshtatëse (Adaptive Mesh):** Kjo pëlhurë e teknologjisë së lartë forcohet dhe reagon ndaj goditjeve, por mbetet fleksibël dhe e rehatshme në kohën tjetër. Zakonisht vishet si kostum trupi, dhe mund të vishet nën pajisje të tjera mbrojtëse.
 
-**Veshje (Heavy):** Ekuivalenti i veshjes së një pelerine të rëndë, një xhakete dimërore, veshjeve të ngushta prej lëkure, ose shtresave të shumta të veshjeve.
+**Pajisje Sulmi, e Lehtë:** Pajisje e lehtë që përdoret nga ushtarët për t'i rezistuar armëve të dorës, predhave të forta, si dhe ndaj armëve të energjisë. E bërë nga qeramika, lidhje metalike ose plastikë me rezistencë të lartë ndaj goditjeve.
 
-**Parzmore energjie:** Kjo parzmore përbëhet nga një pako e brendshme fuqie e veshur në brez ose e varur mbi shpinë, midis shpatullave dhe ndoshta e lidhur me emitues të shpërndarë në të gjithë trupin. Kur aktivizohet, ajo mbulon personazhin me një mbështjellje energjie mbrojtëse.
+**Pajisje Sulmi, Standarde:** Pajisje e rëndë, e krijuar për beteja në mjedise të rrezikshme. E bërë nga qeramika, lidhje metalike ose plastikë rezistente, pajisja e sulmit siguron mbrojtje nga koka te këmbët dhe favorizohet nga ushtria.
 
-**Jelek Flak:** Ky është një jelek i plotë i ngjashëm me jelekun e hershëm anti-plumb, megjithëse më pak i parzmozuar, i dobishëm për pilotët dhe trupat tokësore.
+**Pajisje Sulmi (e Rëndë), e Motorizuar:** E ngjashme me pajisjen standarde të sulmit, por më masive dhe me mbështjellje më të trashë mbrojtëse. Servomotorët e brendshëm rritin forcën e mbajtësit. Luftëtarët me pajisje sulmi të rëndë të motorizuar shpesh përdorin armë masive. Korniza pranon përmirësime modulare (si një çantë me reaktiv) dhe është e izoluar kundër armëve kimike dhe vakumit të hapësirës.
 
-**Përkrenare (Heavy ose Light):** Pothuajse të gjitha këto lloje parzmoresh kanë përkrenare. Kostumet e plota të parzmores përfshijnë përkrenare. Nëse nuk vishet një përkrenare, ulni vlerën e parzmores me –1 për një përkrenare të lehtë, dhe –2 për një përkrenare të rëndë. Nëse përdoren vlera të rastësishme të parzmores, modifikoni gamën me –1 ose –2, sipas rastit. Nëse përdoren vendndodhjet e goditjes, një përkrenare ka të njëjtën vlerë mbrojtëse si një krah ose këmbë e materialit përkatës të parzmores.
+**Pajisje Sulmi (e Lehtë), e Motorizuar:** E ngjashme me pajisjen e rëndë të sulmit të motorizuar, por më e lehtë dhe pa shtesa të tilla si sistemet e izoluara.
 
-**Lëkurë (Hide):** Një lëkurë e kafshës e rrezuar ose e pa rrezuar, e veshur si pelerinë ose veshje, me qime të paprekura.
+**Pëlhurë Balistike:** E bërë nga fibra aramide, pajisja mbrojtëse prej pëlhure balistike siguron mbrojtje të moderuar kundër plumbave, megjithëse jo aq sa një jelek anti-plumb. Zakonisht vishet nën rrobat e përditshme ose krijohet për t'u dukur si rroba normale.
 
-**Lamellar (Studded, Splinted):** Kjo parzmore përbëhet nga shirita të hollë metalikë (splints) që zakonisht mbahen në mbështetjen e lëkurës me thumba (studs).
+**Jelek Anti-plumb, i Hershëm:** Një variant i vjetër i jelekut anti-plumb, i rëndë dhe i rëndomtë, me pllaka metalike të trasha në një jelek kanavacë të segmentuar.
 
-**Lëkurë (Soft):** Ekuivalent me një xhaketë ose jelek lëkure, lëkura e butë shpesh vishet nën parzmore të tjera si mbushje dhe mbrojtje shtesë.
+**Jelek Anti-plumb, Modern:** Një evolucion i jelekut anti-plumb, duke përdorur lidhje metalike dhe plastikë me rezistencë të lartë ndaj goditjeve për një formë mbrojtjeje më të lehtë dhe më të hollë.
 
-**Lëkurë (Hard):** Kjo është e barabartë me një gjysmë centimetri lëkure të kuruar, rreth aq e trashë sa thembra e një këpucë të mirë. Mund të ketë thumba lëkure ose punime me stampim.
+**Zinxhire:** Kjo pajisje mbrojtëse përbëhet nga një rrjetë e bërë prej lidhjesh metalike të gërshetuara. Është jashtëzakonisht fleksibël, por mjaft e rëndë.
 
-**Lëkurë (Cuirbouilli):** Lëkurë e trashë dhe gjysmë-e ngurtë që është kuruar dhe zier në vaj dhe dyll, pastaj e formuar sipas formës së mbajtësit. Shpesh është e zbukuruar dhe e lyer me ngjyra.
+**Rroba, të Rënda:** Ekuivalenti i veshjes së një manteli të rëndë, një xhakete dimri, rrobave të ngushta prej lëkure, ose shtresave të shumta të rrobave.
 
-**Mbushur/Kuiltuar (Padded/Quilted):** Kjo parzmore përbëhet nga shtresa të sanduicuara prej pëlhure të ngurtësuar, të qepura së bashku sikur të ishte një mbushje ose kuiltë. E lirë dhe e lehtë për t'u bërë, ajo nuk ofron shumë mbrojtje, megjithëse mund të vishet nën parzmore metalike si gjysmë-pllaka dhe zinxhirë.
+**Pajisje Energjetike:** Kjo pajisje mbrojtëse përbëhet nga një paketë energjie e brendshme që mbahet në brez ose hidhet mbi shpinë, midis shpatullave, dhe ndoshta e lidhur me emetues të shpërndarë nëpër trup. Kur aktivizohet, ajo mbulon personazhin me një shtresë energjie mbrojtëse.
 
-**Mbushur/Kuiltuar (Heavy):** E ngjashme me parzmoren e mbushur ose kuiltuar, por më e rëndë dhe më e trashë.
+**Jelek Flak (Flak Jacket):** Kjo është një xhaketë e plotë e ngjashme me një jelek anti-plumb të hershëm, megjithëse më pak e blinduar, e dobishme për pilotët dhe trupat tokësore.
 
-**Pllakë (Half):** Kjo parzmore përbëhet nga një kostum i pjesshëm pllake (shih më poshtë) që nuk mbulon të gjithë trupin. Zakonisht, është një parzmore gjoksi, përkrenare dhe disa pjesë të tjera më të vogla, me zinxhir që mbulon pjesën tjetër.
+**Përkrenare, e Rëndë ose e Lehtë:** Pothuajse të gjitha këto lloje pajisjesh mbrojtëse kanë përkrenare. Kostumet e plota të pajisjeve mbrojtëse zakonisht përfshijnë përkrenare. Nëse nuk vishet një përkrenare, ulet vlera e mbrojtjes për –1 për një përkrenare të lehtë, dhe –2 për një përkrenare të rëndë. Nëse përdoren vlera të rastësishme të pajisjeve mbrojtëse, modifikoni diapazonin me –1 ose –2, sipas rastit. Nëse përdoren vendndodhjet e goditjeve, një përkrenare ka të njëjtën vlerë mbrojtëse si një krah ose këmbë e materialit përkatës të pajisjes.
 
-**Pllakë (Full):** Kjo parzmore përbëhet nga pllaka të forta metalike, të formuara sipas trupit dhe të mbajtura së bashku me rripa lëkure të mbuluara. Historikisht, kjo ishte superiore ndaj çdo lloji tjetër parzmoreje trupi, por ndërtimi i plotë metalik e bën atë më të rëndën dhe më pak të rehatshme.
+**Lëkurë Kafshe:** Një lëkurë kafshe e rrezuar ose e pa rrezuar, e veshur si mantel ose rrobë, me qime të paprekura.
 
-**Unazë (Ring):** Kjo është lëkurë e butë ose mbështetje tjetër me unaza metalike të qepura mbi të në një model të mbyllur ose të mbivendosur.
+**Lamellare (me Gozhdë, me Shufra):** Kjo pajisje mbrojtëse përbëhet nga shirita të hollë metalikë (shufra) që zakonisht mbahen në një bazë lëkure me thumba (gozhdë).
 
-**Parzmore trazirash (Riot Gear):** Një jelek i rëndë anti-plumb dhe veshje e fortë, me pllaka në pjesë strategjike të trupit dhe një përkrenare.
+**Lëkurë, e Butë:** Një ekuivalent me një xhaketë ose jelek lëkure, lëkura e butë shpesh vishet nën pajisje të tjera mbrojtëse si mbushje dhe mbrojtje shtesë.
 
-**Shkallë (Scale):** Parzmoreja e shkallëve (ndonjëherë quhet scale mail) përbëhet nga shkallë metalike të mbivendosura të formave dhe madhësive të ndryshme të fiksuara në një mbështetje.
+**Lëkurë, e Fortë:** Kjo është e barabartë me gjysmë centimetri lëkurë të kuruar, rreth aq e trashë sa thembra e një këpuce zyrtare. Mund të ketë thumba lëkure ose punim të stampuar.
 
-**Splint (Shiritë):** Shih përshkrimin për lamellar.
+**Lëkurë, Cuirbouilli:** Lëkurë e trashë dhe gjysmë-e ngurtë që është kuruar dhe zier në vaj dhe dyllë, pastaj e formuar sipas formës së mbajtësit. Shpesh është e zbukuruar dhe e lyer me ngjyra.
 
-**Studded (Me thumba):** Shih përshkrimin për lamellar.
+**Mbushur/Kuiltuar:** Kjo pajisje mbrojtëse përbëhet nga shtresa të ngjeshura pëlhure të trashë, të qepura së bashku si një mbushje ose kuiltë. E lirë dhe e lehtë për t'u bërë, ajo nuk ofron shumë mbrojtje, megjithëse mund të vishet nën pajisje metalike si gjysmë-pllakë dhe zinxhirë.
 
-##### Parzmoret Primitive
+**Mbushur/Kuiltuar, e Rëndë:** E ngjashme me pajisjen e mbushur ose të kuiltuar, por më e rëndë dhe më e trashë.
 
-| Emri | AV | AV e rastësishme | Ngarkesa | ENC | Modifikuesi i aftësisë | Përshtatet SIZ | Koha | Vendndodhjet | Vlera |
+**Pllakë, Gjysmë:** Kjo pajisje mbrojtëse përbëhet nga një kostum i pjesshëm pllakash (shih më poshtë) që nuk mbulon të gjithë trupin. Zakonisht, është një parzmore, përkrenare, dhe disa pjesë më të vogla, me zinxhirë që mbulojnë pjesën tjetër.
+
+**Pllakë, e Plotë:** Kjo pajisje mbrojtëse përbëhet nga pllaka të ngurta metali, të formuara sipas trupit dhe të mbajtura së bashku me rripa lëkure të mbuluar. Historikisht, kjo ishte superiore ndaj çdo lloji tjetër të pajisjes mbrojtëse të trupit, por ndërtimi tërësisht prej metali e bën atë më të rëndën dhe më pak të rehatshmen.
+
+**Unaza:** Kjo është lëkurë e butë ose bazë tjetër me unaza metalike të qepura mbi të në një model të ngushtë ose të mbivendosur.
+
+**Pajisje për Trazira:** Një xhaketë e rëndë anti-plumb dhe veshje e fortë mbrojtëse, me pllaka në pjesë strategjike të trupit dhe një përkrenare.
+
+**Pllaka (Scale):** Pajisja mbrojtëse me pllaka (ndonjëherë e quajtur parzmore me luspa) përbëhet nga luspa metalike të mbivendosura të formave dhe madhësive të ndryshme të lidhura në një bazë.
+
+**Shufra (Splint):** Shih përshkrimin për lamellaren.
+
+**Me thumba (Studded):** Shih përshkrimin për lamellaren.
+
+##### Pajisje Mbrojtëse Primitive
+
+| Emri | AV | AV i Rastësishëm | Ngarkesa | ENC | Modifikues i Aftësisë | Përshtatet me MAD | Koha | Vendndodhjet | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Përkrenare | +1 | +1 pikë | Light | 0.5 | –5% për aftësitë e perceptimit | ±1 | 1 | Koka | I lirë |
-| Lëkurë (Hide) | 1 | 1D3–1 | Light | 3.5 | Asnjë | ±3 | 1 | Të gjitha | I lirë |
+| Përkrenare | +1 | +1 pikë | Lehtë | 0.5 | –5% për aftësitë e Perceptimit | ±1 | 1 | Koka | I lirë |
+| Lëkurë Kafshe | 1 | 1D3–1 | Lehtë | 3.5 | Asnjë | ±3 | 1 | Të gjitha | I lirë |
 
-##### Parzmoret e Lashta dhe Mesjetare
+##### Pajisje Mbrojtëse të Antikitetit dhe Mesjetës
 
-| Emri | AV | AV e rastësishme | Ngarkesa | ENC | Modifikuesi i aftësisë | Përshtatet SIZ | Koha | Vendndodhjet | Vlera |
+| Emri | AV | AV i Rastësishëm | Ngarkesa | ENC | Modifikues i Aftësisë | Përshtatet me MAD | Koha | Vendndodhjet | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Zinxhir | 7 | 1D8–1 | Moderate | 20.0 | –20% për aftësitë fizike | -2 | 3 | Të gjitha | I shtrenjtë |
-| Veshje (Heavy) | 1 | 1d2–1 | None | 2.5 | Asnjë | ±2 | 1 | Të gjitha | I lirë |
-| Përkrenare (Heavy) | +2 | +2 pikë | Light | 2.5 | –50% për aftësitë e perceptimit | ±0 | 1 | Koka | Mesatare |
-| Përkrenare (Light) | +1 | +1 pikë | None | 1.5 | –15% për aftësitë e perceptimit | ±1 | 1 | Koka | I përballueshëm |
-| Lamellar | 6 | 1D8–1 | Moderate | 18.0 | –15% për aftësitë fizike | ±1 | 2 | Përveç kokës | I shtrenjtë |
-| Lëkurë (Soft) | 1 | 1D6–1 | Light | 3.5 | Asnjë | ±2 | 2 | Të gjitha | I përballueshëm |
-| Lëkurë (Hard) | 2 | 1D6 | Moderate | 5.0 | –10% për aftësitë fizike | ±1 | 2 | Të gjitha | Mesatare |
-| Lëkurë (Cuirbouill) | 3 | 2D3 | Light | 5.0 | –10% për aftësitë fizike | ±0 | 2 | Të gjitha | I shtrenjtë |
-| Mbushur/Kuiltuar | 1 | 1D2–1 | None | 3.0 | Asnjë | ±2 | 1 | Të gjitha | I përballueshëm |
-| Mbushur (Heavy) | 2 | 1D3–1 | Light | 4.0 | –5% për aftësitë fizike | ±1 | 2 | Të gjitha | I përballueshëm |
-| Pllakë (Full) | 8 | 1D10 | Cumbersome | 25.0 | –25% për aftësitë fizike | -1 | 5 | Përveç kokës | I shtrenjtë |
-| Pllakë (Half) | 7 | 1D8 | Moderate | 18.0 | –20% për aftësitë fizike | -1 | 4 | Përveç kokës | I shtrenjtë |
-| Unazë | 5 | 1D6 | Light | 10.0 | –10% për aftësitë fizike | ±1 | 2 | Përveç kokës | Mesatare |
-| Shkallë | 6 | 2D4–1 | Moderate | 20.0 | –15% për aftësitë fizike | ±1 | 2 | Përveç kokës | Mesatare |
+| Zinxhire | 7 | 1D8–1 | Moderuar | 20.0 | –20% për aftësitë Fizike | -2 | 3 | Të gjitha | I shtrenjtë |
+| Rroba, të Rënda | 1 | 1d2–1 | Asnjë | 2.5 | Asnjë | ±2 | 1 | Të gjitha | I lirë |
+| Përkrenare, e Rëndë | +2 | +2 pikë | Lehtë | 2.5 | –50% për aftësitë e Perceptimit | ±0 | 1 | Koka | Mesatar |
+| Përkrenare, e Lehtë | +1 | +1 pikë | Asnjë | 1.5 | –15% për aftësitë e Perceptimit | ±1 | 1 | Koka | Jo i shtrenjtë |
+| Lamellare | 6 | 1D8–1 | Moderuar | 18.0 | –15% për aftësitë Fizike | ±1 | 2 | Të gjitha përveç kokës | I shtrenjtë |
+| Lëkurë, e Butë | 1 | 1D6–1 | Lehtë | 3.5 | Asnjë | ±2 | 2 | Të gjitha | Jo i shtrenjtë |
+| Lëkurë, e Fortë | 2 | 1D6 | Moderuar | 5.0 | –10% për aftësitë Fizike | ±1 | 2 | Të gjitha | Mesatar |
+| Lëkurë, Cuirbouilli | 3 | 2D3 | Lehtë | 5.0 | –10% për aftësitë Fizike | ±0 | 2 | Të gjitha | I shtrenjtë |
+| Mbushur/Kuiltuar | 1 | 1D2–1 | Asnjë | 3.0 | Asnjë | ±2 | 1 | Të gjitha | Jo i shtrenjtë |
+| Mbushur/Kuiltuar, e Rëndë | 2 | 1D3–1 | Lehtë | 4.0 | –5% për aftësitë Fizike | ±1 | 2 | Të gjitha | Jo i shtrenjtë |
+| Pllakë, e Plotë | 8 | 1D10 | Rënduese | 25.0 | –25% për aftësitë Fizike | -1 | 5 | Të gjitha përveç kokës | I shtrenjtë |
+| Pllakë, Gjysmë | 7 | 1D8 | Moderuar | 18.0 | –20% për aftësitë Fizike | -1 | 4 | Të gjitha përveç kokës | I shtrenjtë |
+| Unaza | 5 | 1D6 | Lehtë | 10.0 | –10% për aftësitë Fizike | ±1 | 2 | Të gjitha përveç kokës | Mesatar |
+| Pllaka (Scale) | 6 | 2D4–1 | Moderuar | 20.0 | –15% për aftësitë Fizike | ±1 | 2 | Të gjitha përveç kokës | Mesatar |
 
-##### Parzmore Moderne
+##### Pajisje Mbrojtëse Moderne
 
-| Emri | AV | AV e rastësishme | Ngarkesa | ENC | Modifikuesi i aftësisë | Përshtatet SIZ | Koha | Vendndodhjet | Vlera |
+| Emri | AV | AV i Rastësishëm | Ngarkesa | ENC | Modifikues i Aftësisë | Përshtatet me MAD | Koha | Vendndodhjet | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Pëlhurë balistike | 3/51 | 1D3/1D6–1 | Light | 4.0 | –10% për aftësitë fizike | ±1 | 1 | Krahët, Gjoksi | I shtrenjtë |
-| Jelek anti-plumb (Early) | 4 | 1D4 | Moderate | 11.0 | –25% për aftësitë fizike | ±1 | 2 | Gjoksi | I shtrenjtë |
-| Jelek anti-plumb (Modern) | 4/81 | 1D4/1D8 | Light | 8.0 | –5% për aftësitë fizike | ±3 | 2 | Gjoksi | I shtrenjtë |
-| Veshje (Heavy) | 1 | 1D2–1 | None | 2.5 | Asnjë | ±2 | 1 | Të gjitha | I lirë |
-| Jelek Flak | 4 | 1D4 | Moderate | 8.0 | –10% për aftësitë fizike | ±2 | 1 | Krahët, Gjoksi | I shtrenjtë |
-| Përkrenare (Heavy) | +6 | +3 pikë | Light | 3.5 | –25% për aftësitë e perceptimit | ±1 | 1 | Koka | Mesatare |
-| Përkrenare (Light) | +3 | +2 pikë | None | 2.5 | –10% për aftësitë e perceptimit | ±2 | 1 | Koka | I përballueshëm |
-| Riot Gear | 12/61 | 1D10+2 | Moderate | 12.0 | –10% për aftësitë fizike | ±1 | 5 | Të gjitha2 | I shtrenjtë |
+| Pëlhurë Balistike | 3/51 | 1D3/1D6–1 | Lehtë | 4.0 | –10% për aftësitë Fizike | ±1 | 1 | Krahët, Kraharori | I shtrenjtë |
+| Jelek Anti-plumb, i Hershëm | 4 | 1D4 | Moderuar | 11.0 | –25% për aftësitë Fizike | ±1 | 2 | Kraharori | I shtrenjtë |
+| Jelek Anti-plumb, Modern | 4/81 | 1D4/1D8 | Lehtë | 8.0 | –5% për aftësitë Fizike | ±3 | 2 | Kraharori | I shtrenjtë |
+| Rroba, të Rënda | 1 | 1D2–1 | Asnjë | 2.5 | Asnjë | ±2 | 1 | Të gjitha | I lirë |
+| Jelek Flak | 4 | 1D4 | Moderuar | 8.0 | –10% për aftësitë Fizike | ±2 | 1 | Krahët, Kraharori | I shtrenjtë |
+| Përkrenare, e Rëndë | +6 | +3 pikë | Lehtë | 3.5 | –25% për aftësitë e Perceptimit | ±1 | 1 | Koka | Mesatar |
+| Përkrenare, e Lehtë | +3 | +2 pikë | Asnjë | 2.5 | –10% për aftësitë e Perceptimit | ±2 | 1 | Koka | Jo i shtrenjtë |
+| Pajisje për Trazira | 12/61 | 1D10+2 | Moderuar | 12.0 | –10% për aftësitë Fizike | ±1 | 5 | Të gjitha2 | I shtrenjtë |
 
-1. Vlera e parë është kundër armëve të dyluftimit ose predhave me shpejtësi të ulët; vlera e dytë është kundër armëve të zjarrit.
+1. Vlera e parë është kundër armëve në përleshje ose armëve me predha me shpejtësi të ulët; vlera e dytë është kundër armëve të zjarrit.
 2. Përfshin përkrenaren.
 
-##### Parzmore e Avancuar
+##### Pajisje Mbrojtëse të Avancuara
 
-| Emri | AV | AV e rastësishme | Ngarkesa | ENC | Modifikuesi i aftësisë | Përshtatet SIZ | Koha | Vendndodhjet | Vlera |
+| Emri | AV | AV i Rastësishëm | Ngarkesa | ENC | Modifikues i Aftësisë | Përshtatet me MAD | Koha | Vendndodhjet | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Adaptive Mesh | 6 | 1D4+2 | Light | 2.0 | –5% për aftësitë fizike | ±1 | 1 | Të gjitha | I shtrenjtë |
-| Parzmore sulmi (Light) | 8 | 2D6 | Moderate | 12.0 | –10% për aftësitë fizike | ±1 | 2 | Të gjitha1 | I shtrenjtë |
-| Parzmore sulmi | 10 | 2D4+2 | Moderate | 16.0 | –25% për aftësitë fizike | ±1 | 3 | Të gjitha1 | I shtrenjtë |
-| Parzmore energjie | 1–202 | —2 | Light | 4.0 | –5% për aftësitë Hide, Stealth, dhe Perceptimit për AV | Çdo | 2 | Të gjitha3 | I shtrenjtë |
-| Përkrenare (Heavy) | +4 | +4 | Light | 5.0 | –15% për aftësitë e perceptimit | ±1 | 1 | Koka | Mesatare |
-| Përkrenare (Light) | +3 | +2 | None | 2.0 | –5% për aftësitë e perceptimit | ±2 | 1 | Koka | Mesatare |
-| Powered Assault Armor, Light4 | 14 | 2D6+2 | Cumbersome | 36.0 | –20% për aftësitë fizike dhe manipulimi | ±1 | 4 | Të gjitha | I paçmueshëm |
-| Powered Assault Armor, Heavy5 | 16 | 4D4 | Cumbersome | 48.0 | –50% për aftësitë fizike dhe manipulimi | ±1 | 5 | Të gjitha | I paçmueshëm |
+| Rrjetë Përshtatëse | 6 | 1D4+2 | Lehtë | 2.0 | –5% për aftësitë Fizike | ±1 | 1 | Të gjitha | I shtrenjtë |
+| Pajisje Sulmi, e Lehtë | 8 | 2D6 | Moderuar | 12.0 | –10% për aftësitë Fizike | ±1 | 2 | Të gjitha1 | I shtrenjtë |
+| Pajisje Sulmi | 10 | 2D4+2 | Moderuar | 16.0 | –25% për aftësitë Fizike | ±1 | 3 | Të gjitha1 | I shtrenjtë |
+| Pajisje Energjetike | 1–202 | —2 | Lehtë | 4.0 | –5% për aftësitë Fshehje, Vjedhje, dhe Perceptim për AV | Çdo | 2 | Të gjitha3 | I shtrenjtë |
+| Përkrenare, e Rëndë | +4 | +4 | Lehtë | 5.0 | –15% për aftësitë e Perceptimit | ±1 | 1 | Koka | Mesatar |
+| Përkrenare, e Lehtë | +3 | +2 | Asnjë | 2.0 | –5% për aftësitë e Perceptimit | ±2 | 1 | Koka | Mesatar |
+| Pajisje Sulmi e Motorizuar, e Lehtë4 | 14 | 2D6+2 | Rënduese | 36.0 | –20% për aftësitë Fizike dhe Manipulimi | ±1 | 4 | Të gjitha | E paçmueshme |
+| Pajisje Sulmi e Motorizuar, e Rëndë5 | 16 | 4D4 | Rënduese | 48.0 | –50% për aftësitë Fizike dhe Manipulimi | ±1 | 5 | Të gjitha | E paçmueshme |
 
 1. Përfshin përkrenaren.
-2. Parzmorja e energjisë mund të vendoset nga mbajtësi i saj për çdo vlerë midis 1 dhe 20 pikëve të AV. Çdo raund luftimi parzmorja shpenzon ngarkesa (pikë fuqie) të barabarta me AV-në e saj. Furnizimet standarde të energjisë së parzmores mbajnë 200 ngarkesa; çdo pikë dëmi e absorbuar kushton 1 ngarkesë shtesë. Parzmorja e energjisë nuk lejon vlerë të rastësishme të parzmores; përdorni AV-në e vendosur. Duhen 5 renditje DEX për të rregulluar AV-në.
-3. Nuk mund të vishet me parzmore të tjera.
-4. Parzmorja e lehtë e sulmit me fuqi modifikon STR me +3 dhe DEX me –3 (rregulloni vlerat përkatëse kur vishet). Parzmorja përfshin përkrenaren.
-5. Parzmorja e rëndë e sulmit me fuqi modifikon STR me +6 dhe DEX me –6 (rregulloni vlerat përkatëse kur vishet). Parzmorja përfshin përkrenaren.
+2. Pajisja energjetike mund të caktohet nga mbajtësi i saj për çdo vlerë midis 1 dhe 20 pikësh të AV. Çdo raund luftimi pajisja shpenzon ngarkesa (pikë energjie) të barabarta me AV-në e saj. Furnizimet standarde të energjisë së pajisjes mbajnë 200 ngarkesa; çdo pikë dëmi e absorbuar kushton 1 ngarkesë shtesë. Pajisja energjetike nuk lejon vlerë të rastësishme të pajisjes mbrojtëse; përdorni AV-në e caktuar. Duhen 5 gradë SHK për të rregulluar AV-në.
+3. Nuk mund të vishet me pajisje të tjera mbrojtëse.
+4. Pajisja e sulmit e motorizuar e lehtë modifikon FOR me +3 dhe SHK me –3 (rregulloni vlerat përkatëse kur vishet). Pajisja përfshin përkrenaren.
+5. Pajisja e sulmit e motorizuar e rëndë modifikon FOR me +6 dhe SHK me –6 (rregulloni vlerat përkatëse kur vishet). Pajisja përfshin përkrenaren.
 
-> ### Rregulla speciale për parzmoren
+> ### Rregulla të veçanta për Pajisjet Mbrojtëse
 > 
-> Rregullat e mëposhtme zbatohen për situata të ndryshme që përfshijnë parzmoren.
+> Rregullat e mëposhtme zbatohen në situata të ndryshme që përfshijnë pajisjet mbrojtëse.
 > 
-> #### Ngarkesa e parzmores (Armor Encumbrance)
+> #### Ngarkesa (ENC) e Pajisjeve Mbrojtëse
 > 
-> Ngarkesa e parzmores (ENC) varet nga SIZ i personazhit që e vesh atë. SIZ i personazhit përcakton SIZ-in e parzmores në shumicën e rasteve. Çdo rritje prej +5 SIZ shtohet në ENC të parzmores, duke qenë më e rëndë, më e nxehtë, më e ngathët për t'u veshur, etj. SIZ-et nga 11–15 janë standarde. Çdo rritje prej 5 pikësh të SIZ nën atë gamë është 1/5 më pak ngarkuese. Vlerat e mëposhtme ENC mund të përdoren për vendndodhjet e goditjes.
+> Ngarkesa (ENC) e pajisjes mbrojtëse varet nga MAD e personazhit që e mban atë. MAD e personazhit përcakton MAD e pajisjes në shumicën e rasteve. Çdo rritje prej +5 MAD shton ENC e pajisjes, duke qenë më e rëndë, më e nxehtë, më e vështirë për t'u veshur, etj. MAD-et 11–15 janë standarde. Çdo rritje prej 5 pikësh të MAD nën atë diapazon është 1/5 më pak ngarkuese. Vlerat e mëposhtme të ENC mund të përdoren për vendndodhjet e goditjeve.
 > 
-> | Vendndodhja e goditjes | Fraksioni i ENC-së totale |
+> | Vendndodhja e Goditjes | Pjesa e ENC Totale |
 > | :---- | :---- |
 > | Koka | 1/10 |
 > | Krahu | 1/10 secili |
-> | Gjoksi | 1/5 |
-> | Abdomeni | 1/10 |
-> | Këmbët | 1/5 secila |
+> | Kraharori | 1/5 |
+> | Barku | 1/10 |
+> | Këmba | 1/5 secili |
 > 
-> #### Shtresimi i parzmores
+> #### Shtresimi i Pajisjeve Mbrojtëse
 > 
-> Është e mundur të vishni parzmore të butë nën ose mbi parzmore të fortë për të siguruar mbrojtje shtesë. Vetëm parzmorja e butë dhe e lakueshme si pëlhura e rëndë, e mbushur, ose lëkura e butë mund të vishet lehtësisht me forma të tjera parzmoreje, dhe ato shtojnë vlerën e tyre të zakonshme të parzmores si dhe vlerën e tyre ENC. Kur përpiqeni të mbivendosni çdo gjë tjetër përveç parzmores së butë me të fortë, totalizoni vlerën e parzmores por trefishoni ENC-në e parzmores më të vogël.
+> Është e mundur të vishet pajisje mbrojtëse e butë nën ose mbi pajisje të forta për të siguruar mbrojtje shtesë. Vetëm pajisjet mbrojtëse të buta dhe fleksibël si pëlhura e rëndë, e mbushur, ose lëkura e butë mund të vishen lehtësisht të shtresuara me forma të tjera të pajisjeve mbrojtëse, dhe ato shtojnë vlerën e tyre të zakonshme të mbrojtjes si dhe vlerën e tyre të ENC. Kur përpiqeni të mbivendosni diçka tjetër përveç pajisjes së butë me të fortën, mblidhni vlerën e mbrojtjes por trefishoni ENC e pajisjes më të lehtë.
 > 
-> #### Veshja e parzmores
+> #### Veshja e Pajisjeve Mbrojtëse
 > 
-> Disa lloje parzmoresh janë më të ndërlikuara për t'u veshur se veshjet e përditshme. Ka rripa dhe kopsa për t'u shtrënguar, pjesë të shumta për t'u veshur, dhe mund të ketë disa shtresa. Duhet një raund luftimi për çdo pikë mbrojtjeje që ofron një kostum parzmoreje për ta veshur, duke supozuar se personazhi juaj është gati, parzmorja është shtruar dhe nuk ka elemente mjedisore të rrezikshme ose shpërqendruese. Udhëheqësi i lojës suaj mund të rrisë kohën që duhet nëse personazhi ka qenë i shpërqendruar ose në gjumë, ose në rrethana sfiduese (të vrapuarit, i lënduar rëndë, errësira, nën ujë, i montuar, etj.). Kjo mund të kërkojë një hedhje për Agjilitet ose Ide nëse personazhi është mjaftueshëm i shpërqendruar ose i shqetësuar.
+> Disa lloje të pajisjeve mbrojtëse janë më të ndërlikuara për t'u veshur sesa rrobat e përditshme. Ka rripa dhe kopsa për t'u lidhur, pjesë të shumta për t'u veshur, dhe mund të ketë disa shtresa. Duhet një raund luftimi për çdo pikë mbrojtjeje që ofron një pajisje mbrojtëse për ta veshur atë, duke supozuar se personazhi juaj është gati, pajisja është përgatitur, dhe nuk ka elemente mjedisore të rrezikshme ose shpërqendruese. Udhëheqësi i lojës mund të rrisë kohën që duhet nëse keni qenë të shpërqendruar ose në gjumë, ose në rrethana sfiduese (vrapim, të plagosur rëndë, errësirë, nën ujë, mbi kalë, etj.). Kjo mund të kërkojë një hedhje zari për Agjilitetin ose ZGJ nëse jeni mjaftueshëm të shpërqendruar ose të penguar.
 > 
-> #### Heqja e parzmores
+> #### Heqja e Pajisjeve Mbrojtëse
 > 
-> Heqja e parzmores është shumë më e lehtë se veshja e saj, pasi personazhi juaj nuk duhet të sigurohet që çdo pjesë është rregulluar siç duhet para se të veshë tjetrën. Personazhi juaj mund të heqë 3 vlera parzmoreje për raund luftimi (rrumbullakosni lart) nëse lëviz shpejt. Një hedhje e suksesshme për Agjilitet e rrit këtë në 4 vlera parzmoreje për raund luftimi. Përdorni vlerën maksimale të parzmores nëse përdorni vlera të rastësishme të parzmores.
-
-> ### Parzmorja sipas vendndodhjes së goditjes (Opsion)
+> Heqja e pajisjes mbrojtëse është shumë më e lehtë sesa veshja e saj, pasi personazhi juaj nuk duhet të sigurohet që çdo pjesë të jetë rregulluar siç duhet përpara se të veshë tjetrën. Personazhi juaj mund të heqë 3 vlera mbrojtëse për raund luftimi (rrumbullakosje lart) nëse lëviz shpejt. Një hedhje e suksesshme zari për Agjilitetin e rrit këtë në 4 vlera mbrojtëse për raund luftimi. Përdorni vlerën maksimale të pajisjes nëse përdorni vlera të rastësishme të pajisjeve mbrojtëse.
 > 
-> Nëse përdorni sistemin e vendndodhjes së goditjes, mund të dëshironi më shumë granularitet në mënyrën se si personazhi juaj është i parzmozuar. Secili lloj parzmoreje në tabelat e parzmoreve liston vendndodhjet e goditjes që mbulon. Personazhi juaj mund të ndryshojë llojin e parzmores që mban në çdo vendndodhje goditjeje, duke përdorur çdo lloj që mbulon atë vendndodhje. Secili lloj parzmoreje e mbajtur mund të ketë një vlerë të ndryshme parzmoreje.
+> ### Pajisjet Mbrojtëse sipas Vendndodhjes së Goditjes (Opsion)
 > 
-> * Për të përcaktuar vlerën e parzmores së çdo pjese, përdorni vlerën e parzmores nga tabelat e parzmoreve.
-> * Ngarkesa është ajo e pjesëve të mbajtura në gjoks, abdomen ose këmbë, duke përdorur më të rëndën nëse këto ndryshojnë.
-> * Përdorni modifikuesin e aftësisë së pjesës më të rëndë të mbajtur në gjoks, abdomen ose këmbë. Përkrenaret kanë të njëjtët modifikues.
-> * Duhet një raund luftimi për çdo 5 pikë vlere parzmoreje (rrumbullakosni lart) për të veshur pjesë individuale të parzmores.
+> Nëse përdorni sistemin e vendndodhjes së goditjes, mund të dëshironi më shumë detaje se si është pajisur personazhi juaj. Çdo lloj pajisjeje mbrojtëse në tabelat e pajisjeve rendit vendndodhjet e goditjeve që mbulon. Personazhi juaj mund të ndryshojë llojin e pajisjes që mban në secilën vendndodhje goditjeje, duke përdorur çdo lloj që mbulon atë vendndodhje. Çdo lloj pajisjeje e veshur mund të ketë një vlerë të ndryshme mbrojtjeje.
 > 
-> Udhëheqësi i lojës suaj mund të vendosë që disa lloje parzmoresh nuk mund të përdoren pjesë-pjesë, si shumica e llojeve moderne ose të avancuara të parzmoreve. Parzmorja sipas vendndodhjeve të goditjes nuk rekomandohet me sistemin e vlerës së rastësishme të parzmores.
+> * Për të përcaktuar vlerën e mbrojtjes të secilës pjesë, përdorni vlerën e mbrojtjes nga tabelat e pajisjeve.
 > 
-> Përdorni rregullat për **Armor by Hit Location** (Parzmorja sipas vendndodhjes së goditjes) dhe **Layering Armor** (Shtresimi i parzmores) kur përdorni parzmoren sipas vendndodhjes së goditjes.
+> * Ngarkesa është ajo e pjesëve të veshura në kraharor, bark, ose këmbë, duke përdorur më të rëndën nëse këto ndryshojnë.
+> 
+> * Përdorni modifikuesin e aftësisë të pjesës më të rëndë të veshur në kraharor, bark ose këmbë. Përkrenaret kanë të njëjtët modifikues.
+> 
+> * Duhet një raund luftimi për çdo 5 pikë të vlerës së mbrojtjes (rrumbullakosje lart) për të veshur pjesë individuale të pajisjes mbrojtëse.
+> 
+> Udhëheqësi i lojës mund të vendosë që disa lloje të pajisjeve mbrojtëse nuk mund të përdoren pjesë-pjesë, si shumica e llojeve moderne ose të avancuara të pajisjeve. Pajisja mbrojtëse sipas vendndodhjes së goditjes nuk rekomandohet me sistemin e vlerës së rastësishme të pajisjes.
+> 
+> Përdorni rregullat për **Pajisjen Mbrojtëse sipas Vendndodhjes së Goditjes** dhe **Shtresimin e Pajisjeve Mbrojtëse** kur përdorni pajisjen mbrojtëse sipas vendndodhjes së goditjes.
 > 
 > #### Përkrenaret
 > 
-> Tabelat e parzmoreve i përshkruajnë përkrenaret si një bonus ndaj vlerës së parzmores. Kur përdorni parzmoren sipas vendndodhjes së goditjes, përkrenaret kanë vlerat e tyre të parzmores. Përdorni vlerat e mëposhtme për përkrenaret:
+> Tabelat e pajisjeve mbrojtëse i përshkruajnë përkrenaret si një bonus për vlerën e mbrojtjes. Kur përdorni pajisjen mbrojtëse sipas vendndodhjes së goditjes, përkrenaret kanë vlera të mbrojtjes të tyret. Përdorni vlerat e mëposhtme për përkrenaret:
 > 
-> | Tipi | Vlera e parzmores |
+> | Lloji | Vlera e Mbrojtjes |
 > | :---- | :---- |
 > | Përkrenare (Primitive) | 2 |
-> | Përkrenare, e rëndë (Antike dhe Mesjetare) | 8 |
-> | Përkrenare, e lehtë (Antike dhe Mesjetare) | 4 |
-> | Përkrenare, e rëndë (Moderne) | 8 |
-> | Përkrenare, e lehtë (Moderne) | 6 |
-> | Përkrenare, e rëndë (Avancuar) | 16 |
-> | Përkrenare, e lehtë (Avancuar) | 14 |
-
-## Mburojat
-
-Mburojat janë në thelb armë të mëdha mbrojtëse, të krijuara për t'u ndërfutur midis personazhit tuaj dhe një sulmuesi. Një mburojë zakonisht ka një dorezë, rrip ose rripa dhe mbahet në krahun që nuk është për armë (për shumicën e njerëzve, krahu i majtë). Tradicionalisht, mburojat duhet të bëjnë kompromis midis qëndrueshmërisë, lehtësisë dhe balancës. Mburojat variojnë në madhësi nga buckler-i i vogël (sa madhësia e një pjate darke) deri te mburoja e madhe e përdorur nga luftëtarët Hoplite.
-
-Mburojat kategorizohen kronologjikisht. Në shumicën e rasteve, mburojat nga një periudhë e mëparshme janë të disponueshme në periudha të mëvonshme, kështu që udhëheqësi i lojës suaj thjesht mund të zgjedhë se ku ndalet disponueshmëria dhe t'i lejojë personazhit tuaj akses në mburoja para asaj pike.
-
-Të gjitha mburojat përdoren në dyluftim ose për t'u mbrojtur kundër raketave (predhave). Një mburojë e hedhur është një armë e improvizuar me një rreze prej 10 metrash dhe një shans 05% për të goditur (kjo mund të rritet me përvojë).
-
-Secili lloj mburoje ka atributet e mëposhtme:
-
-* **Emri:** Emri i zakonshëm për mburojën.
-* **Baza**: Shansi bazë për këdo që merr mburojën. Ky shans bazë është gjithashtu vlera fillestare për të sulmuar me mburojën.
-* **Aftësia:** Aftësia e përdorur për mburojën.
-* **AV/HP:** Kjo është vlera e pikëve të parzmores së mburojës si dhe pikët e saj të goditjes. Kjo shumë përdoret nëse mburoja dëmtohet ose shënjestrohet. Shih Mburojat e varura (në vijim) për detaje.
-* **Dëmi:** Sasia e dëmit që bën mburoja nëse përdoret si armë.
-* **Sulmi**: Sa sulme për raund lejon mburoja?
-* **E veçantë:** Lloji i suksesit të veçantë që bën mburoja. Shumica e mburojave bëjnë suksese të veçanta për shtytje prapa.
-* **Ngarkesa (Burden):** Kjo përshkruan ngathësinë ose ngarkesën relative të mburojës.
-* **ENC:** (Opsion) Vlera ENC e mburojës.
-* **Vendndodhjet:** (Opsion) Për vendndodhjet e goditjes, vendndodhjet e goditjes të mbuluara nga mburoja. Kjo zakonisht është e përshtatshme vetëm për mburojat e varura. Shih **Slung Shields** (Mburojat e varura).
-* **STR/DEX:** STR dhe DEX minimale të kërkuara për të përdorur mburojën. Nëse personazhi juaj nuk i përmbush minimumin e kërkuar STR dhe DEX, çdo përdorim i mburojës është i Vështirë.
-* **Vlera:** Kostoja e mburojës në një mjedis përkatës.
-
-Secili lloj mburoje përshkruhet në **Shield Descriptions** (Përshkrimet e mburojave).
-
-### Mburojat e varura (Slung Shields)
-
-Zakonisht mburojat mbahen të varura mbi krah/shpatull ose shpinë kur nuk përdoren në mënyrë aktive në dyluftim. Nëse udhëheqësi i lojës suaj po përdor sistemin e vendndodhjeve të goditjes, shtoni 1/2 e vlerës së parzmores së një mburoje të varur (rrumbullakosni lart) në çdo vendndodhje goditjeje të goditur nga një armë, përveç vlerës së parzmores që është tashmë në atë vendndodhje. Nga mburojat e përshkruara në këtë seksion, vetëm buckler-i, mburojat primitive dhe ato të energjisë nuk mund të varen. Duke qenë se shumica e mburojave kanë një vlerë të lartë parzmoreje, kjo neutralizon shumicën e sulmeve.
-
-**Për shembull,** personazhi juaj ka një mburojë të varur mbi shpinë, dhe një kundërshtar shkrep një shigjetë nga prapa. Sulmi është një sukses, dhe vendndodhja e goditjes e hedhur tregon gjoksin. Udhëheqësi i lojës suaj vendos që mburoja mbulon këtë vendndodhje të goditjes, kështu që ½ e vlerës së parzmores së mburojës aplikohet në dëmin e shigjetës. Udhëheqësi i lojës ju thotë: "Shigjeta bie në mburojën në shpinën tënde, por nuk depërton." Tani personazhi juaj ka një shans ta mbajë mburojën siç duhet, duke mos i besuar një tjetër fati të mirë.
-
-### Përshkrimet e mburojave
+> | Përkrenare, e Rëndë (Antike dhe Mesjetare) | 8 |
+> | Përkrenare, e Lehtë (Antike dhe Mesjetare) | 4 |
+> | Përkrenare, e Rëndë (Moderne) | 8 |
+> | Përkrenare, e Lehtë (Moderne) | 6 |
+> | Përkrenare, e Rëndë (e Avancuar) | 16 |
+> | Përkrenare, e Lehtë (e Avancuar) | 14 |
+> 
+> ## Mburojat
+> 
+> Mburojat janë në thelb armë të mëdha për parim (mbrojtje), të dizajnuara për t'u vendosur midis personazhit tuaj dhe një sulmuesi. Një mburojë zakonisht ka një dorezë, rrip ose rripa dhe mbahet në krahun që nuk përdoret për armë (për shumicën e njerëzve, krahu i majtë). Tradicionalisht, mburojat duhet të bëjnë kompromis midis qëndrueshmërisë, lehtësisë dhe ekuilibrit. Mburojat variojnë në madhësi nga buckler-i i vogël (sa madhësia e një pjate darke) deri te mburoja e madhe e përdorur nga luftëtarët Hoplitë.
+> 
+> Mburojat kategorizohen në mënyrë kronologjike. Në shumicën e rasteve, mburojat nga një periudhë e mëparshme janë të disponueshme në periudhat e mëvonshme, kështu që udhëheqësi i lojës mund të zgjedhë thjesht se ku ndalon disponueshmëria dhe t'i lejojë personazhit tuaj qasje në mburoja para asaj pike.
+> 
+> Të gjitha mburojat përdoren në përleshje ose për t'u mbrojtur kundër predhave. Një mburojë e hedhur është një armë e improvizuar me një rreze prej 10 metrash dhe një shans 05% për të goditur (kjo mund të rritet me përvojën).
+> 
+> Çdo lloj mburoje ka atributet e mëposhtme:
+> 
+> * **Emri:** Emri i zakonshëm për mburojën.
+> 
+> * **Baza**: Shansi bazë për këdo që merr mburojën. Ky shans bazë është gjithashtu vlera fillestare për sulmin me mburojë.
+> 
+> * **Aftësia:** Aftësia e përdorur për mburojën.
+> 
+> * **AV/HP:** Kjo është vlera e pikëve të mbrojtjes së mburojës si dhe vlera e saj e pikëve të jetës. Kjo sasi përdoret nëse mburoja është dëmtuar ose është shënjestruar. Shih Mburojat e Varura (në vijim) për detaje.
+> 
+> * **Dëmi:** Sasia e dëmit që bën mburoja nëse përdoret si armë.
+> 
+> * **Sulmi**: Sa sulme për raund lejon mburoja?
+> 
+> * **Special:** Lloji i suksesit special që bën mburoja. Shumica e mburojave bëjnë suksese speciale të shtytjes (knockback).
+> 
+> * **Ngarkesa:** Kjo përshkruan sikletin ose ngarkesën relative të mburojës.
+> 
+> * **ENC:** (Opsionale) Vlera ENC e mburojës.
+> 
+> * **Vendndodhjet:** (Opsionale) Për vendndodhjet e goditjeve, vendndodhjet e goditjeve të mbuluara nga mburoja. Kjo zakonisht është e përshtatshme vetëm për mburojat e varura. Shih **Mburojat e Varura**.
+> 
+> * **FOR/SHK:** FOR dhe SHK minimale të kërkuara për të përdorur mburojën. Nëse personazhi juaj nuk plotëson FOR dhe SHK minimale të kërkuara, çdo përdorim i mburojës është i Vështirë.
+> 
+> * **Vlera:** Kostoja e mburojës në një mjedis të përshtatshëm.
+> 
+> Çdo lloj mburoje është përshkruar në **Përshkrimet e Mburojave**.
+> 
+> ### Mburojat e Varura
+> 
+> Zakonisht mburojat mbahen të varura mbi krah/shpatull ose shpinë kur nuk përdoren në mënyrë aktive në luftim. Nëse udhëheqësi i lojës është duke përdorur vendndodhjet e goditjeve, shtoni 1/2 e vlerës së mbrojtjes të një mburoje të varur (rrumbullakosje lart) në çdo vendndodhje goditjeje të goditur nga një armë, përveç vlerës së mbrojtjes që ndodhet tashmë në atë vendndodhje. Nga mburojat e përshkruara në këtë seksion, vetëm buckler-i, mburojat primitive dhe mburojat energjetike nuk mund të varen. Meqenëse shumica e mburojave kanë një vlerë të lartë mbrojtjeje, kjo neutralizon shumicën e sulmeve.
+> 
+> **Për shembull,** personazhi juaj ka një mburojë të varur mbi shpinë, dhe një kundërshtar shkrep një shigjetë nga pas. Sulmi është një sukses, dhe vendndodhja e goditjes së hedhur tregon trungun. Udhëheqësi i lojës vendos që mburoja mbulon këtë vendndodhje goditjeje, kështu që ½ e vlerës së mbrojtjes së mburojës zbatohet ndaj dëmit të shigjetës. Udhëheqësi i lojës ju thotë: "Shigjeta godet mburojën në shpinën tuaj, por nuk e kalon atë." Tani personazhi juaj ka një shans për ta mbajtur mburojën siç duhet, duke mos iu besuar një fati tjetër të mirë.### Përshkrimet e Mburojave
 
 Ky seksion përshkruan të gjitha llojet e mburojave, të organizuara në mënyrë alfabetike.
 
-**Buckler:** Një mburojë e vogël që mbron pjesën e poshtme të krahut, zakonisht e mbajtur me një dorezë dore ose rrip të vetëm. Këto mbaheshin në brez (ose shpatë), gjë që i dha shkas termit 'swashbuckler'.
+**Buckler (Mburojë e vogël):** Një mburojë e vogël që mbron pjesën e poshtme të krahut, zakonisht e mbajtur me një dorezë ose një rrip të vetëm. Këto mbaheshin në brez (ose "swash"), gjë që çoi në krijimin e termit "swashbuckler".
 
-**Mburojë energjie:** Një pajisje mbrojtëse që përbëhet nga një pako e vogël fuqie e montuar në krahun e mbrojtësit dhe një projektues që lëshon një mburojë rrethore me madhësi të ndryshueshme.
+**Mburojë Energjie:** Një pajisje mbrojtëse që përbëhet nga një paketë e vogël energjie e montuar në krahun e mbrojtësit dhe një projektor që lëshon një mburojë rrethore me përmasa të ndryshueshme.
 
-**Mburojë e plotë (Full Shield):** Më e madhe se një mburojë e vogël dhe me forma të ndryshme, një mburojë e plotë është zakonisht mjaft e madhe për të mbuluar fytyrën e poshtme dhe ijët e mbrojtësit.
+**Mburojë e Plotë:** Më e madhe se një mburojë e vogël dhe me forma të ndryshme, një mburojë e plotë është zakonisht mjaft e madhe për të mbuluar pjesën e poshtme të fytyrës dhe ijët e mbrojtësit.
 
-**Mburojë e gjysmë (Half Shield):** Një mburojë më e vogël me forma të ndryshme, e përdorur zakonisht nga kalorësit, harkëtarët ose luftëtarët e lehtë (vs. luftëtarët e rëndë të vijës së parë).
+**Gjysmë-Mburojë:** Një mburojë më e vogël me forma të ndryshme, e përdorur zakonisht nga kalorësit, harkëtarët ose luftëtarët e lehtë (kundrejt luftëtarëve të rëndë të vijës së parë).
 
-**Heater:** Një mburojë mesatare në formën e një hekuri të sheshtë (dhe e emërtuar për të). Kjo është forma tradicionale e shumë mburojave heraldike të armëve.
+**Heater (Mburojë në formë hekuri):** Një mburojë mesatare në formën e një hekuri për rroba (dhe e emërtuar për këtë). Kjo është forma tradicionale e shumë stemave heraldike.
 
-**Hoplite:** Një mburojë e madhe drejtkëndore, shumë mbrojtëse, por shumë e rëndë dhe e ngathët për kalorësit. Mburojat Hoplite shpesh përdoren duke u mbështetur në tokë. Në përgjithësi në formë drejtkëndore, por disa janë të zgjatura dhe me skaje të rrumbullakosura.
+**Hoplite (Mburojë Hoplite):** Një mburojë e madhe drejtkëndore, shumë mbrojtëse, por tepër e rëndë dhe e ngathët për kalorësit. Mburojat Hoplite shpesh përdoren duke u mbështetur në tokë. Përgjithësisht kanë formë drejtkëndore, por disa janë ovale dhe me skaje të rrumbullakosura.
 
-**Kite:** Një mburojë e madhe, në formë loti, me një majë të rrumbullakët dhe fund të mprehtë, që mbulon trupin nga shpatullat deri te gjuri ose kyçi i këmbës.
+**Kite (Mburojë në formë kite):** Një mburojë e madhe në formë loti me një pjesë të sipërme të rrumbullakët dhe fund të mprehtë, që mbulon trupin nga supet deri te gjuri ose kyçi i këmbës.
 
-**Large Round:** Identike me mburojën e rrumbullakët (më poshtë), vetëm më e madhe.
+**E Rrumbullakët e Madhe:** Identike me një mburojë të rrumbullakët (më poshtë), vetëm se më e madhe.
 
-**Primitive:** Një mburojë e përdorur në kultura primitive luftarake. Zakonisht jo më shumë se një kornizë druri me lëkurë të shtrirë mbi të, thurje, pëlhurë e ngurtësuar, ose madje lëkurë kafshësh jashtëzakonisht e fortë.
+**Primitive:** Një mburojë e përdorur në kulturat primitive luftarake. Zakonisht nuk është asgjë më shumë se një strukturë druri me lëkurë të shtrirë mbi të, thupra, pëlhurë të ngurtësuar, apo edhe lëkurë kafshësh jashtëzakonisht të fortë.
 
-**Round:** Një mburojë e rrumbullakët e kapur brenda boss-it qendror. Unike në atë që ka skaje të holla të pambrojtura që mund të përdoren për të kapur dhe thyer armët me teh me një manovër të veçantë.
+**E Rrumbullakët:** Një mburojë e rrumbullakët që kapet nga brenda në pjesën qendrore. Unike për faktin se ka skaje të holla të pambrojtura të cilat mund të përdoren për të kapur dhe thyer armët me teh përmes një manovre të veçantë.
 
-**Riot (Për trazira):** Një mburojë e madhe drejtkëndore nga plastika e tejdukshme e përdorur nga policët e trazirave. E lehtë dhe e fortë, këto mundësojnë muret e mburojave dhe sigurojnë mbrojtje adekuate kundër shumicës së sulmuesve.
+**Kundër Trazirave:** Një mburojë e madhe drejtkëndore prej plastike transparente e përdorur nga policia e trazirave. E lehtë dhe e fortë, ato mundësojnë formimin e "mureve të mburojave" dhe ofrojnë mbrojtje adekuate kundër shumicës së sulmuesve.
 
-**Spiked (Me gjemba):** Një lloj mburoje me një thumb qendror, një teh, ose seri thumbash të vegjël të kthyer nga jashtë drejt kundërshtarit.
+**Me thumba:** Një lloj mburoje e rrumbullakët (target) me një thumb qendror, një teh, ose një seri thumbash të vegjël të kthyer nga jashtë drejt kundërshtarit.
 
-**Target:** Një mburojë e rrumbullakët, me madhësi mesatare, e zakonshme në shumë kultura. Zakonisht e bërë me një buzë metalike.
+**Target (Mburojë e rrumbullakët mesatare):** Një mburojë e rrumbullakët, me përmasa mesatare, e zakonshme në shumë kultura. Zakonisht e bërë me një kornizë metalike.
 
 ##### Mburojat Primitive
 
-| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulmi | E veçantë | Ngarkesa | Vendndodhjet | STR / DEX | ENC | Vlera |
+| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulme | Speciale | Ngarkesa | Vendndodhjet | FOR / SHK | ENC | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Primitive | 10% | Mburojë | 10 | 1D2+dm | 1 | Shtytje prapa | Light | Krahu | 5/7 | 2.0 | I lirë |
+| Primitive | 10% | Mburojë | 10 | 1D2+dm | 1 | Prapagoditje | Lehtë | Krahu | 5/7 | 2.0 | E lirë |
 
-##### Mburojat Antike dhe Mesjetare
+##### Mburojat e Lashta dhe Mesjetare
 
-| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulmi | E veçantë | Ngarkesa | Vendndodhjet | STR / DEX | ENC | Vlera |
+| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulme | Speciale | Ngarkesa | Vendndodhjet | FOR / SHK | ENC | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Buckler | 05% | Mburojë | 15 | 1D2+dm | 1 | Shtytje prapa | Light | Krahu | 5/7 | 1.0 | Mesatare |
-| Mburojë e plotë | 15% | Mburojë | 22 | 1D4+dm | 1 | Shtytje prapa | Moderate | Krahu, Gjoksi, Koka | 11/9 | 5.0 | Mesatare |
-| Mburojë gjysmë | 15% | Mburojë | 15 | 1D2+dm | 1 | Shtytje prapa | Moderate | Krahu, Gjoksi | 5/7 | 3.0 | Mesatare |
-| Heater | 15% | Mburojë | 20 | 1D3+dm | 1 | Shtytje prapa | Moderate | Krahu, Gjoksi | 9/9 | 3.0 | Mesatare |
-| Hoplite | 15% | Mburojë | 26 | 1D4+dm | 1 | Shtytje prapa | Cumbersome | Abdomeni, Krahu, Gjoksi | 12/8 | 7.0 | Mesatare |
-| Kite | 15% | Mburojë | 22 | 1D4+dm | 1 | Shtytje prapa | Moderate | Abdomeni, Krahu, Gjoksi | 11/9 | 5.0 | Mesatare |
-| Large Round | 15% | Mburojë | 22 | 1D4+dm | 1 | Shtytje prapa | Moderate | Abdomeni, Krahu, Gjoksi | 11/9 | 5.0 | Mesatare |
-| Round | 15% | Mburojë | 20 | 1D3+dm | 1 | Shtytje prapa | Moderate | Krahu, Gjoksi | 9/9 | 4.0 | Mesatare |
-| Spiked | 15% | Mburojë | 20 | 1D3+dm | 1 | Shpim | Moderate | Krahu, Gjoksi | 9/9 | 5.0 | Mesatare |
-| Target | 15% | Mburojë | 15 | 1D2+dm | 1 | Shtytje prapa | Light | Krahu, Gjoksi | 5/7 | 3.0 | I lirë |
+| Buckler | 05% | Mburojë | 15 | 1D2+dm | 1 | Prapagoditje | Lehtë | Krahu | 5/7 | 1.0 | Mesatare |
+| Full Shield | 15% | Mburojë | 22 | 1D4+dm | 1 | Prapagoditje | Moderuar | Krahu, Gjoksi, Koka | 11/9 | 5.0 | Mesatare |
+| Half Shield | 15% | Mburojë | 15 | 1D2+dm | 1 | Prapagoditje | Moderuar | Krahu, Gjoksi | 5/7 | 3.0 | Mesatare |
+| Heater | 15% | Mburojë | 20 | 1D3+dm | 1 | Prapagoditje | Moderuar | Krahu, Gjoksi | 9/9 | 3.0 | Mesatare |
+| Hoplite | 15% | Mburojë | 26 | 1D4+dm | 1 | Prapagoditje | Rënduese | Barku, Krahu, Gjoksi | 12/8 | 7.0 | Mesatare |
+| Kite | 15% | Mburojë | 22 | 1D4+dm | 1 | Prapagoditje | Moderuar | Barku, Krahu, Gjoksi | 11/9 | 5.0 | Mesatare |
+| Large Round | 15% | Mburojë | 22 | 1D4+dm | 1 | Prapagoditje | Moderuar | Barku, Krahu, Gjoksi | 11/9 | 5.0 | Mesatare |
+| Round | 15% | Mburojë | 20 | 1D3+dm | 1 | Prapagoditje | Moderuar | Krahu, Gjoksi | 9/9 | 4.0 | Mesatare |
+| Spiked | 15% | Mburojë | 20 | 1D3+dm | 1 | Shpim | Moderuar | Krahu, Gjoksi | 9/9 | 5.0 | Mesatare |
+| Target | 15% | Mburojë | 15 | 1D2+dm | 1 | Prapagoditje | Lehtë | Krahu, Gjoksi | 5/7 | 3.0 | E lirë |
 
 ##### Mburojat Moderne
 
-| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulmi | E veçantë | Ngarkesa | Vendndodhjet | STR / DEX | ENC | Vlera |
+| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulme | Speciale | Ngarkesa | Vendndodhjet | FOR / SHK | ENC | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Riot Shield | 15% | Mburojë | 16 | 1D3 + dm | 1 | Shtytje prapa | Moderate | Abdomen, Krahu, Gjoksi, Koka | 9/9 | 3.0 | I shtrenjtë |
+| Riot Shield | 15% | Mburojë | 16 | 1D3 + dm | 1 | Prapagoditje | Moderuar | Barku, Krahu, Gjoksi, Koka | 9/9 | 3.0 | E shtrenjtë |
 
 ##### Mburojat e Avancuara
 
-| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulmi | E veçantë | Ngarkesa | Vendndodhjet | STR / DEX | ENC | Vlera |
+| Emri | Shansi Bazë | Aftësia | AV/HP | Dëmi | Sulme | Speciale | Ngarkesa | Vendndodhjet | FOR / SHK | ENC | Vlera |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Mburojë energjie | 20% | Mburojë | 25 | 1D2 + dm | 1 | Shtytje prapa | Light | Krahu, Gjoksi | 3/3 | 1.0 | I shtrenjtë |
+| Energy Shield | 20% | Mburojë | 25 | 1D2 + dm | 1 | Prapagoditje | Lehtë | Krahu, Gjoksi | 3/3 | 1.0 | E shtrenjtë |
 
 ## Artileria
 
-Artileria përshkruan mekanizma gjigantë, zakonisht në fushëbetejë ose në mbrojtje të një instalimi si një kështjellë, bazë ushtarake, ose të montuar në një automjet. Në mjedise antike dhe mesjetare, artileria është kryesisht armatim rrethimi. Armët e artilerisë mund të montohen në automjete që variojnë në madhësi nga motoçikletat, karrocat, xhipat, deri te anijet luftarake dhe stacionet hapësinore. Këto armë masive zakonisht janë të montuara dhe mjaft komplekse sa të kërkojnë më shumë se një operator. Shumica janë me rreze dhe shkrepin predha. Tradicionalisht, shumica dërgojnë atë që njihet si zjarr indirekt, duke shënjestruar një zonë në vend të një objekti specifik (një personazh ose automjet), megjithëse disa mund të përdoren kundër objektivave individualë.
+Artileria përshkruan mekanizma gjigantë, zakonisht në fushën e betejës ose në mbrojtjen e një instalimi si një kështjellë, bazë ushtarake, ose të montuar në një mjet. Në mjediset e lashta dhe mesjetare, artileria është kryesisht armatim rrethimi. Armët e artilerisë mund të montohen në mjete që variojnë nga madhësia e motorëve, karrocave, xhipave, e deri te anijet luftarake dhe stacionet hapësinore. Këto armë masive zakonisht janë të montuara dhe mjaft komplekse saqë kërkojnë më shumë se një operator. Shumica janë me rreze të gjatë dhe qëllojnë predha. Tradicionalisht, shumica ofrojnë atë që njihet si zjarr indirekt, duke shënjestruar një zonë në vend të një objekti specifik (një personazh ose mjet), megjithëse disa mund të përdoren kundër shënjestrave individuale.
 
-Ka pothuajse aq shumë lloje armësh artilerie sa ka armë dyluftimi, dhe ky seksion mbulon një mostrë përfaqësuese. Armë më të mëdha si raketat, predhat dhe armët automjet-vs.-automjet ose automjet-vs.-strukturë janë jashtë fushës së këtyre rregullave.
+Ka pothuajse aq lloje armësh artilerie sa ka edhe armë luftarake trup-me-trup, dhe ky seksion mbulon një mostër përfaqësuese. Armët më të mëdha si raketat, predhat dhe armët mjet-kundër-mjetit ose mjet-kundër-strukturës janë përtej fushëveprimit të këtyre rregullave.
 
-Secila armë artilerie ka atributet e mëposhtme:
+Çdo armë artilerie ka atributet e mëposhtme:
 
 * **Emri:** Emri i zakonshëm për llojin e armës së artilerisë.
+
 * **Aftësia:** Aftësia e përdorur për këtë armë artilerie.
-* **Baza:** Shansi bazë për të përdorur armën e artilerisë.
-* **Dëmi:** Dëmi i bërë nga arma e artilerisë, ndonjëherë i shprehur si zare/metër. Dëmi zvogëlohet me 1D6 për metër përtej rrezes fillestare.
-* **Sulmi:** Numri i sulmeve në një raund që lejon arma e artilerisë.
-* **E veçantë:** Lloji i suksesit të veçantë.
-* **Rz.:** Rrezja e armës.
-* **Ekuipazhi:** Numri i personazheve që kërkon arma e artilerisë për t'u përdorur në mënyrë efektive. Nën këtë numër, të gjitha sulmet janë të Vështira.
-* **HP:** Pikët e goditjes së armës së artilerisë.
-* **AV:** Vlera e parzmores së armës së artilerisë, nëse është e aplikueshme.
+
+* **Bazë:** Shansi bazë për të përdorur armën e artilerisë.
+
+* **Dëmi:** Dëmi i shkaktuar nga arma e artilerisë, ndonjëherë i shprehur si zare/metër. Dëmi zvogëlohet me 1D6 për metër përtej rrezes fillestare.
+
+* **Sulme:** Numri i sulmeve për raund që lejon arma e artilerisë.
+
+* **Speciale:** Lloji i suksesit special.
+
+* **Rrezja:** Rrezja e veprimit të armës.
+
+* **Ekuipazhi:** Numri i personazheve që kërkon arma e artilerisë për t'u përdorur në mënyrë efektive. Nën këtë numër, të gjitha sulmet janë të vështira (Difficult).
+
+* **HP:** Pikët e goditjes (hit points) të armës së artilerisë.
+
+* **AV:** Vlera e armaturës së armës së artilerisë, nëse është e aplikueshme.
+
 * **Municioni:** Lloji i municionit, qoftë i ngurtë, shrapnel, energji, kimik, apo tjetër?
-* **KAP:** Kapaciteti i armës; sa shkrepje mund të bëjë para se të rimbushet ose të rimbushet.
-* **Mal:** Shansi i armës së artilerisë për të dështuar (malfunction).
+
+* **KAPACITETI:** Kapaciteti i armës; sa të shtëna mund të qëllojë përpara se të rimbushet ose rimbushet me energji.
+
+* **Keqfunksionimi:** Shansi i armës së artilerisë për të pasur keqfunksionim.
+
 * **Vlera:** Kostoja mesatare e armës në një mjedis përkatës.
-* **SIZ:** SIZ-i i armës së artilerisë.
 
-Secila armë artilerie përshkruhet në **Përshkrimet e armëve të artilerisë**.
+* **MAD:** MAD (madhësia) e armës së artilerisë.
 
-### Klasat e armëve të artilerisë
+Çdo armë artilerie përshkruhet te **Përshkrimet e Armëve të Artilerisë**.
 
-Këto klasa kanë një mbivendosje, veçanërisht me aftësinë Armë të Rënda, dhe ajo aftësi mund t'i lejojë lojtarët të përdorin armët e artilerisë sikur të ishin të Vështira, ose anasjelltas.
+### Klasat e Armëve të Artilerisë
 
-* **Top (Cannon):** Top, top energjie, top fushe, obus, top tanku.
+Këto klasa kanë njëfarë mbivendosjeje, veçanërisht me aftësinë Armët e Rënda, dhe ajo aftësi mund t'i lejojë lojtarët të përdorin armët e artilerisë sikur të ishin të vështira, ose anasjelltas.
+
+* **Top:** Top, top energjie, top fushe, obus, top tanku.
+
 * **Lëshues:** Mortajë.
-* **Armë e montuar:** Rail gun.
-* **Motor rrethimi:** Ballista, katapultë, springal, trebuchet.
-* **Raketë:** Torpedo.
-* **Kullëz (Turret):** Kullëz energjie, kullëz flakësh, kullëz lazer, kullëz raketash, kullëz mitralozi, kullëz goditëse, kullëz hedhëse shtizash.
 
-### Efektet e armëve të artilerisë
+* **Armë e montuar:** Top hekurudhor (Rail gun).
 
-Armët e artilerisë rrallë përdoren kundër individëve. Ato shkrepen ndaj masave të njerëzve ose ndaj mureve dhe strukturave të tjera, zakonisht duke prekur një zonë prej SIZ 40 (rreth katër metra në rreze nga qendra, rreth SIZ-it të një aeroplani të vogël). Kushdo i kapur në atë rreze lëndohet. Nëse një objektiv është më i vogël se SIZ 40, ulni shansin për të goditur me –1% për çdo pikë SIZ më të vogël se 40.
+* **Motor Rrethimi:** Balista, katapultë, springal, trebuchet.
 
-**Për shembull,** përdorimi i një arme artilerie kundër një personi SIZ 14 do të rezultonte në një reduktim prej –26% të aftësisë përkatëse.
+* **Raketë:** Torpedë.
 
-Nëse predha humbet, përdorni rregullat për aftësinë Hedh për të përcaktuar se ku shkoi realisht predha, duke shumëzuar distancën me ×5.
+* **Kullëz:** Kullëz energjie, kullëz flakëhedhëse, kullëz lazeri, kullëz raketash, kullëz mitralozi, kullëz goditëse, kullëz hedhëse shtizash.
 
-**Për shembull,** nëse aftësia Hedh tregon se një predhë humbi me katër metra, shumëzoni rezultatin me ×5 për një rezultat prej 20 metrash. Kjo është për të siguruar që një humbje është ende një humbje.
+### Efektet e Armëve të Artilerisë
 
-### Raketat e drejtuara (Guided Missiles)
+Armët e artilerisë përdoren rrallë kundër individëve. Ato qëllohen ndaj masave të njerëzve ose ndaj mureve dhe strukturave të tjera, zakonisht duke prekur një zonë me MAD 40 (rreth katër metra në rreze nga qendra, afërsisht MAD e një aeroplani të vogël). Kushdo që kapet në atë rreze lëndohet. Nëse një shënjestër është më e vogël se MAD 40, zvogëloni shansin e goditjes me –1% për çdo pikë MAD më të vogël se 40.
 
-Format e artilerisë si raketat drejtohen përmes sistemeve elektronike të brendshme ose të jashtme të shënjestrimit, duke i bërë ato shumë më të sakta. Nëse një raketë drejtohet në këtë mënyrë, ajo e bën çdo përdorim të aftësisë të Lehtë. Nëse është e vetë-drejtuar, ajo automatikisht godet objektivin në çdo hedhje përveç 99 ose 00, megjithëse një objektiv lëvizës mund të përpiqet ta shmangë raketën. Nëse po, përpjekjet për shmangie konsiderohen si veprime evazive, dhe shmangiet kundër një rakete të drejtuar janë të Vështira, qoftë aftësia Dodge, Drive, ose Pilot.
+**Për shembull,** përdorimi i një arme artilerie kundër një personi me MAD 14 do të rezultonte në një reduktim prej –26% të aftësisë përkatëse.
 
-Mbrojtja më e mirë kundër raketave të drejtuara (përveç parzmores së trashë) është bllokimi elektronik. Bllokimi e bën shansin e sulmit të raketës së drejtuar të Vështirë. Nëse një raketë e drejtuar humbet objektivin e saj, shihni rregullat për humbjet e armëve të artilerisë (më parë) për të përcaktuar se ku godet realisht predha.
+Nëse predha nuk godet, përdorni rregullat për aftësinë Hedhje (Throw) për të përcaktuar se ku shkoi predha në të vërtetë, duke shumëzuar distancën me ×5.
 
-### Shrapneli
+**Për shembull,** nëse aftësia Hedhje tregon se një predhë gaboi për katër metra, shumëzoni rezultatin me ×5 për një rezultat prej 20 metrash. Kjo është për të siguruar që një dështim të mbetet dështim.
 
-Shumë armë artilerie mund të shkrepin predha që fragmentohen, ose ngarkesa të mëdha të predhave më të vogla. Të dyja këto shërbejnë për të njëjtin qëllim—shpërndarjen e objekteve të mprehta (shrapnel) në një rreze rreth pikës së ndikimit. Disa armë shkrepin vetëm predha të ngurta, të tjera shkrepin vetëm ngarkesa shrapneli dhe disa mund të shkrepin secilin lloj ngarkese.
+### Raketat e Drejtuara
 
-Shrapneli dëmton njerëzit, por jo ndërtesat (në një shkallë të dukshme). Dëmi nga shrapneli është vetëm 1/6 e dëmit të bërë (pjesëtoni numrin e zareve nëse është e mundur, nëse jo, hidhni zaret dhe pjesëtojeni me 6, duke rrumbullakosur lart) nga një predhë e krahasueshme e ngurtë, por kjo bëhet ndaj gjithçkaje brenda një rrezeje në metra të barabartë me numrin e zareve të thirrura nga hedhja e dëmit të predhës së ngurtë.
+Format e artilerisë si raketat drejtohen përmes sistemeve elektronike të brendshme ose të jashtme të shënjestrimit, duke i bërë ato shumë më të sakta. Nëse një raketë drejtohet në këtë mënyrë, çdo përdorim i aftësisë bëhet i lehtë (Easy). Nëse është vetë-drejtuese, ajo godet automatikisht shënjestrën në çdo hedhje përveç 99 ose 00, megjithëse një shënjestër lëvizëse mund të përpiqet ta shmangë raketën. Nëse ndodh kjo, përpjekjet për shmangie konsiderohen si veprime evazive, dhe shmangiet kundër një rakete të drejtuar janë të vështira (Difficult), pavarësisht nëse përdoret aftësia Shmangie (Dodge), Drejtim Mjeti (Drive), ose Pilotim (Pilot).
 
-Për shembull, një trebuchet shkrep një predhë që bën 12D6 dëme kur godet. Nëse shkrep shrapnel, do të bëjë 2D6 për këdo brenda një rrezeje 12-metërshe nga pika e ndikimit.
+Mbrojtja më e mirë kundër raketave të drejtuara (përveç armaturës së trashë) është bllokimi elektronik (jamming). Bllokimi e bën shansin e sulmit të një rakete të drejtuar të vështirë (Difficult). Nëse një raketë e drejtuar nuk e godet shënjestrën e saj, shikoni rregullat për dështimet e armëve të artilerisë (më lart) për të përcaktuar se ku godet predha në të vërtetë.
 
-### Përshkrimet e armëve të artilerisë
+### Shrapnel (Copëzat)
 
-Këtu është një mostrë e armëve të artilerisë, të organizuara në mënyrë alfabetike.
+Shumë armë artilerie mund të qëllojnë predha që fragmentohen, ose ngarkesa të mëdha me predha më të vogla. Të dyja shërbejnë për të njëjtin qëllim: shpërndarjen e objekteve të mprehta (shrapnel) në një rreze përreth pikës së goditjes. Disa armë qëllojnë vetëm predha të ngurta, të tjera vetëm shrapnel, dhe disa mund të qëllojnë secilin lloj ngarkese.
 
-**Arbalest, Rrethimi:** Një version më i rëndë i arbalest-it, i rimbushur me ndihmën e një çikriku.
+Shrapnel-i dëmton njerëzit, por jo ndërtesat (në një shkallë të konsiderueshme). Dëmi nga shrapnel-i është vetëm 1/6 e dëmit të bërë (pjesëtoni numrin e zareve nëse është e mundur, nëse jo, hidhni zaret dhe pjesëtojini me 6, duke rrumbullakosur lart) nga një predhë e ngurtë e krahasueshme, por dëmi u bëhet të gjithëve brenda një rrezeje në metra të barabartë me numrin e zareve të kërkuara nga hedhja e dëmit të predhës së ngurtë.
 
-**Ballista:** Një armë rrethimi e madhe e montuar që hedh shigjeta në stilin e harkut, zakonisht ndaj njerëzve në fushëbetejë në vend të strukturave ose automjeteve të tjera.
+Për shembull, një trebuchet qëllon një predhë që bën 12D6 dëmtim kur godet. Nëse qëllohet me shrapnel, do të bëjë 2D6 dëmtim për këdo brenda një rrezeje prej 12 metrash nga pika e goditjes.### Përshkrimet e Armëve të Artilerisë
 
-**Top (Cannon):** Një top shkrep predha të ngurta si predha, topa topash, ose shkrepje më të vogla duke përdorur një ngarkesë shpërthyese të përmbajtur brenda bazës së tytës. Sa më i vjetër top, aq më pak e sofistikuar predha. Disa piratë i mbushnin topat me zinxhirë për të dëmtuar velat.
+Këtu është një mostër e armëve të artilerisë, të organizuara në mënyrë alfabetike.
 
-**Top (Energy Cannon):** Një armë e rëndë e projeksionit të energjisë, duke shkrepur shpërthime të vetme ose duke përdorur një seri rrotulluese tytash për zjarr të shumëfishtë. Zakonisht i montuar në anije kozmike ose në baza, megjithëse disa janë të lëvizshme.
+**Arbalest, Rrethimi:** Një version më i rëndë i arbalestës, që rimbushet me ndihmën e një mekanizmi "cranequin".
 
-**Katapultë:** Një armë rrethimi që hedh gurë dhe objekte të tjera në një hark parabolik mbi zonën e shënjestruar. Për shkak të rrugës së fluturimit të raketave të katapultuara, ato janë ideale për të arritur mbi muret e fortifikimeve të hapura ose për të qëlluar ndaj automjeteve tokësore ose detare që lëvizin ngadalë.
+**Balista:** Një armë e madhe rrethimi e montuar që hedh shigjeta të stilit të harkut, zakonisht kundër njerëzve në fushën e betejës sesa kundër strukturave ose mjeteve të tjera.
 
-**Top (Field Gun):** Një top më i vogël dhe më i lëvizshëm.
+**Top:** Një top gjuan predha të ngurta si gjyle topash ose predha më të vogla duke përdorur një karikim shpërthyes brenda bazës së grykës. Sa më i vjetër të jetë topi, aq më pak e sofistikuar është predha. Disa piratë i mbushnin topat me zinxhirë për të dëmtuar velat.
 
-**Mitraloz (Gatling):** Arma e parë e zjarrit që përsëritet me shpejtësi. Shumë e madhe për t'u mbajtur, mitralozët Gatling montohen në karroca ose karroca dy-rrotëshe. Shumica e mitralozëve modernë rrjedhin nga ky dizajn fillestar.
+**Top, Energjie:** Një armë me kornizë të rëndë për projeksionin e energjisë, që gjuan shpërthime të vetme ose përdor një seri grykash rrotulluese për zjarr të shumëfishtë. Zakonisht montohet në anije kozmike ose në baza, megjithëse disa janë të lëvizshme.
 
-**Top (Rail Gun):** Një top i jashtëzakonshëm që përdor një sërë fushash magnetike për të shtyrë një predhë përgjatë një hekurudhe, duke përshpejtuar predhën në shpejtësi të jashtëzakonshme.
+**Katapultë:** Një armë rrethimi që hedh gurë dhe objekte të tjera në një hark parabolik mbi zonën e synuar. Për shkak të trajektores së raketave të katapultuara, ato janë ideale për të arritur mbi muret e fortifikimeve të hapura ose për të qëlluar mbi mjete të ngadalta tokësore apo detare.
 
-**Top (Tank Gun):** Arma kryesore e një tanku, duke shkrepur raunde me kalibër të madh me shpejtësi të lartë nga një shumëllojshmëri llojesh municioni. Disa nga predhat më të zakonshme të shkrepura nga topat e tankeve janë shpërthyese, shpuese të parzmores ose raketa të drejtuara.
+**Top, Fushor:** Një top më i vogël dhe më i lëvizshëm.
 
-**Obus (Howitzer):** Një lloj artilerie fushe e ngjashme me topin, megjithëse me një tytë më të shkurtër dhe më të ngushtë. Obuset shkrepin predha në një kënd dhe trajektore më të lartë, duke dërguar zjarr (zjarr që bie nga lart) ndaj një armiku.
+**Mitraloz, Gatling:** Armë zjarri e parë me përsëritje të shpejtë. Shumë i madh për t'u mbajtur, mitralozët Gatling montohen në karro ose karroca me dy rrota. Shumica e mitralozëve modernë rrjedhin nga ky dizajn fillestar.
 
-**Mortajë (Mortar):** Një lëshues i vogël raketash i bazuar në tokë, duke shkrepur një bombë të vetë-propulsuar në një hark të lartë drejt objektivit. Këto shpesh janë pak më shumë se një bazë e ngurtë dhe një tub me një mekanizëm të thjeshtë shkrepjeje.
+**Top, Hekurudhor (Rail Gun):** Një top i jashtëzakonshëm që përdor një seri fushash magnetike për të shtyrë një predhë përgjatë një shinë, duke e përshpejtuar predhën në një shpejtësi të pabesueshme.
 
-**Springal:** I ngjashëm me ballistën në funksion, kjo armë rrethimi hedh shtiza të mëdha ndaj një zone të shënjestruar, por mund të përdoret gjithashtu për të hedhur gurë ose bulona. Bulonat hidhen në një trajektore të drejtpërdrejtë dhe gurët hidhen në mënyrë indirekte.
+**Top, Tanku:** Arma kryesore e një tanku, që gjuan predha me kalibër të madh dhe shpejtësi të lartë nga një shumëllojshmëri llojesh municioni. Disa nga predhat më të zakonshme të lëshuara nga topat e tankeve janë shpërthyese të larta, shpuese të blindave ose raketa të drejtuara.
 
-**Torpedo:** Një raketë e vetë-propulsuar e përdorur nën ujë ose në hapësirë, e vendosur për të shpërthyer pas kontaktit me objektivin. Torpedoet më të vjetra ndonjëherë shkrepreshin në një distancë të llogaritur për t'i parandaluar ato të bëheshin rreziqe lundrimi. Modelet më të sofistikuara kanë sisteme drejtimi dhe aftësinë për të kyçur objektivat.
+**Obus:** Një lloj artilerie fushore e ngjashme me topin, por me një grykë më të shkurtër dhe më të ngushtë. Obusët gjuajnë predha në një kënd dhe trajektore më të lartë, duke shkaktuar zjarr zhytës (zjarr që bie nga lart) mbi një armik.
 
-**Trebuchet:** Ky motor rrethimi si lëkundje përdor një kundërpeshë të jashtëzakonshme për të hedhur gurë të mëdhenj ose ngarkesa të tjera ndaj zonës së shënjestruar. Zakonisht i montuar në një fushëbetejë, ai shënjestron vetëm një zonë, dhe e vetmja mënyrë për të ndryshuar qëllimin është të shkurtosh distancën ose të zhvendosësh të gjithë trebuchet-in.
+**Mortajë:** Një lëshues i vogël raketash i vendosur në tokë, që gjuan një bombë të vetëlëvizshme në një hark të lartë drejt objektivit. Këto shpesh nuk janë asgjë më shumë se një bazë e fortë dhe një tub me një mekanizëm të thjeshtë shkrepjeje.
 
-**Kullëz (Energy):** E përdorur në hapësirë ose në tokë, një kullëz energjie është një armë e madhe projektuese energjie që tërheq një sasi të pamatë fuqie. Zakonisht përdoret në stacione hapësinore, anije kozmike të mesme deri të mëdha, ose në beteja të mëdha tokësore. Përndryshe e ngjashme me një kullëz mitralozi (më poshtë).
+**Springal:** I ngjashëm me balistën në funksion, kjo armë rrethimi hedh ushta të mëdha në një zonë të synuar, por mund të përdoret gjithashtu për të hedhur gurë ose shigjeta. Shigjetat lëshohen në një trajektore të drejtpërdrejtë dhe gurët hidhen në mënyrë indirekte.
 
-**Kullëz (Flame):** Një hedhës flakësh i montuar në kullëz, zakonisht me parzmore shtesë që mbron përdoruesin, duke ofruar rreze më të madhe se një projektues flakësh i mbajtur në dorë.
+**Torpedo:** Një raketë e vetëlëvizshme e përdorur nën ujë ose në hapësirë, e vendosur të shpërthejë pas kontaktit me objektivin. Torpedot më të vjetra ndonjëherë shkrepreshin në një distancë të llogaritur për t'i parandaluar ato të bëheshin rreziqe lundrimi. Modelet më të sofistikuara kanë sisteme drejtimi dhe aftësinë për të "kyçur" objektivat.
 
-**Kullëz (Laser):** Një top lazer i montuar në kullëz, shpesh i montuar në një stacion hapësinor ose satelit mbrojtës. E ngjashme me një kullëz energjie (më sipër) por duke përdorur dritë të lazerizuar në vend të shpërthimeve të papërpunuara të energjisë.
+**Trebuchet:** Kjo makinë rrethimi e ngjashme me një lëkundëse përdor një kundërpeshë të madhe për të hedhur gurë të mëdhenj ose ngarkesa të tjera në zonën e synuar. Zakonisht montohet në fushën e betejës, ajo synon vetëm një zonë të vetme, dhe e vetmja mënyrë për të ndryshuar shënjestrën është shkurtimi i distancës ose lëvizja e gjithë trebuchet-it.
 
-**Kullëz (Machinegun):** Një mitraloz i madh i vendosur në një bazë rrotulluese, i aftë për një hark të madh zjarri, zakonisht i drejtuar ose nga larg ose nga një qitës i brendshëm ose i jashtëm. Kullëzat zakonisht montohen në aeroplanë të mesëm ose të mëdhenj, anije, tanke ose automjete të tjera motorike, ose madje në mure ose struktura të tjera mbrojtëse.
+**Kullë (Turret), Energjie:** Përdoret në hapësirë ose në tokë, një kullë energjie është një armë e madhe që projekton energji dhe tërheq një sasi të pamasë fuqie. Përdoret zakonisht në stacione hapësinore, anije kozmike të mesme në të mëdha, ose në beteja të mëdha tokësore. Përndryshe e ngjashme me një kullë mitralozi (më poshtë).
 
-**Kullëz (Shock):** Një kullëz e aftë për të projektuar rrufe ose harqe elektrike në një distancë, shpesh duke përdorur ndonjë formë të rrymës alternative. Një kullëz goditëse ka +20% për të goditur kundër një objektivi metalik, ose një objektiv i mbuluar me parzmore metalike.
+**Kullë, Flakëhedhëse:** Një flakëhedhës i montuar në kullë, zakonisht me blindim shtesë që mbron përdoruesin, duke ofruar rreze më të madhe se një projektues flakësh dore.
 
-**Kullëz (Spear-thrower):** Një armë me shtiza automatike e montuar në kullëz, zakonisht duke shkrepur bulona metalike një-metërshe në vend të shtizave aktuale. Disa modele të hershme përdoren në industrinë e gjuetisë së balenave, megjithëse ato përdoren gjithashtu në mjedise pas-apokaliptike.
+**Kullë, Lazer:** Një top lazer i montuar në kullë, shpesh i vendosur në një stacion hapësinor ose satelit mbrojtës. I ngjashëm me një kullë energjie (më lart), por duke përdorur dritë të përqendruar (lazer) në vend të shpërthimeve të pastra të energjisë.
 
-##### Armët e Artilerisë Antike
+**Kullë, Mitraloz:** Një mitraloz i madh i vendosur në një bazë rrotulluese, i aftë për një hark të gjerë zjarri, zakonisht i udhëzuar nga larg ose nga një gjuajtës i brendshëm ose i jashtëm. Kullat zakonisht montohen në avionë të mesëm ose të mëdhenj, anije, tanke ose mjete të tjera motorike, apo edhe në mure ose struktura të tjera mbrojtëse.
 
-| Emri | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Ekuip. | HP | AV | Municioni | Kap | Mal | Vlera | SIZ | Shkalla |
+**Kullë, Shokuese:** Një kullë e aftë për të projektuar rrufe ose harqe elektrike nëpër një distancë, duke përdorur shpesh ndonjë formë të rrymës alternative. Një kullë shokuese ka +20% shans për të goditur kundër një objektivi metalik, ose një objektivi të mbuluar me parzmore metalike.
+
+**Kullë, Lëshues-Shtizash:** Një armë automatike e montuar në kullë, që zakonisht gjuan shigjeta metalike një metër të gjata në vend të shtizave të vërteta. Disa modele të hershme përdoren në industrinë e gjuetisë së balenave, megjithëse ato përdoren gjithashtu në mjedise post-apokaliptike.
+
+##### Armët e Artilerisë së Lashtë
+
+| Emri | Aftësia | Bazë | Dëmtimi | Sulm | Special | Rrezja | Ekuipazhi | HP | AV | Municioni | Kapaciteti | Mal | Vlera | MAD | Shkalla |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Arbalest, Rrethimi | Hark | 10 | 3D6+1 | 1/5 | Shpim | 425 | 1 | 18 | — | Bulona | 1 | 98–00 | Mesatare | 14 | 1/5 raunde |
-| Ballista | Motor rrethimi | 05 | 10D6 | 1/5 | Shpim | 275 | 3 | 32 | 12 | Bulona | 1 | 99–00 | Mesatare | 42 | 1/5 raunde |
-| Katapultë | Motor rrethimi | 10 | 6D6 | 1/5 | Shtypje | 325 | 3 | 36 | 12 | Gurë | 1 | 00 | I lirë | 44 | 1/5 raunde |
-| Springald, Bulona | Motor rrethimi | 05 | 3D6 | 1/6 | Shpim | 300 | 3 | 40 | 1 | Bulona | 1 | 99–00 | Mesatare | 48 | 1/6 raunde |
-| Springald, Gurë | Motor rrethimi | 05 | 3D6 | 1/5 | Shtypje | 270 | 3 | 40 | 12 | Gurë | 1 | 99–00 | Mesatare | 48 | 1/5 raunde |
-| Trebuchet | Motor rrethimi | 05 | 12D6 | 1/15 | Shtypje | 300 | 4 | 44 | 12 | Gurë | 1 | 98–00 | Mesatare | 52 | 1/15 raunde |
+| Arbalest, Rrethimi | Hark | 10 | 3D6+1 | 1/5 | Shpim | 425 | 1 | 18 | — | Shigjeta | 1 | 98–00 | Mesatare | 14 | 1/5 raunde |
+| Balistë | Makinë Rrethimi | 05 | 10D6 | 1/5 | Shpim | 275 | 3 | 32 | 12 | Shigjeta | 1 | 99–00 | Mesatare | 42 | 1/5 raunde |
+| Katapultë | Makinë Rrethimi | 10 | 6D6 | 1/5 | Shtypje | 325 | 3 | 36 | 12 | Gurë | 1 | 00 | E lirë | 44 | 1/5 raunde |
+| Springal, Gjuajtës-Shigjetash | Makinë Rrethimi | 05 | 3D6 | 1/6 | Shpim | 300 | 3 | 40 | 1 | Shigjeta | 1 | 99–00 | Mesatare | 48 | 1/6 raunde |
+| Springal, Gjuajtës-Gurësh | Makinë Rrethimi | 05 | 3D6 | 1/5 | Shtypje | 270 | 3 | 40 | 12 | Gurë | 1 | 99–00 | Mesatare | 48 | 1/5 raunde |
+| Trebuchet | Makinë Rrethimi | 05 | 12D6 | 1/15 | Shtypje | 300 | 4 | 44 | 12 | Gurë | 1 | 98–00 | Mesatare | 52 | 1/15 raunde |
 
 ##### Armët e Artilerisë Historike dhe Moderne
 
-| Emri | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Ekuip. | HP | AV | Municioni | Kap | Mal | Vlera | SIZ | Shkalla |
+| Emri | Aftësia | Bazë | Dëmtimi | Sulm | Special | Rrezja | Ekuipazhi | HP | AV | Municioni | Kapaciteti | Mal | Vlera | MAD | Shkalla |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Top | Top | 01 | 4D8+4 | 1/5 | Shtypje | 8,000 | 3 | 36 | 28 | Topa | 1 | 99–00 | I shtrenjtë | 44 | 1/5 raunde |
-| Top fushe | Top | 01 | 10D6/2 m | 1/3 | Shtypje | 12,000 | 2 | 48 | 28 | Shpërthyese | 1 | 00 | I kufizuar | 42 | 1/3 raunde |
-| Gatling | Armë e rëndë | 15 | 2D6+4 | Breshëri1 | Shpim | 100 | 1 | 20 | 24 | Plumba | 200 | 96–00 | I kufizuar | 20 | 1/raund |
-| Top tanku | Top | 01 | 15D6/4 m | 1 | Shpim | 2,000 | 2 | 36 | 28 | Shpërthyese | 1 | 00 | I kufizuar | 28 | 1/raund |
-| Obus | Top | 01 | 10D6/2 m | 1/2 | Shtypje | 9,000 | 2 | 44 | 28 | Shpërthyese | 1 | 00 | I kufizuar | 36 | 1/2 raunde |
-| Mortajë2 | Lëshues | 01 | 10D6/2 m | 1 | Shtypje | 2,500 | 1 | 18 | 12 | Raketa | 1 | 00 | I kufizuar | 12 | 1/raund |
-| Torpedo | Raketë | 01 | 20D62 m | 1/2 | Shpim | 5,000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | I kufizuar | 243 | 1/2 raunde |
-| Kullëz mitralozi | Kullëz | 05 | 4D6+4 | Breshëri4 | Shpim | 200 | 1 | 48 | 28 | Plumba | 1,000 | 98–00 | I kufizuar | 36 | 1/raund |
-| Kullëz hedhëse shtizash | Kullëz | 05 | 2D10+2 | 1 | Shpim | 350 | 1 | 26 | 28 | Shtiza | 1 | 00 | I shtrenjtë | 16 | 1/raund |
+| Top | Top | 01 | 4D8+4 | 1/5 | Shtypje | 8,000 | 3 | 36 | 28 | Gjyle | 1 | 99–00 | E shtrenjtë | 44 | 1/5 raunde |
+| Top, Fushor | Top | 01 | 10D6/2 metra | 1/3 | Shtypje | 12,000 | 2 | 48 | 28 | Shpërthyese | 1 | 00 | E kufizuar | 42 | 1/3 raunde |
+| Mitraloz, Gatling | Armë e Rëndë | 15 | 2D6+4 | Breshëri1 | Shpim | 100 | 1 | 20 | 24 | Plumba | 200 | 96–00 | E kufizuar | 20 | 1/raund |
+| Top, Tanku | Top | 01 | 15D6/4 metra | 1 | Shpim | 2,000 | 2 | 36 | 28 | Shpërthyese | 1 | 00 | E kufizuar | 28 | 1/raund |
+| Obus | Top | 01 | 10D6/2 metra | 1/2 | Shtypje | 9,000 | 2 | 44 | 28 | Shpërthyese | 1 | 00 | E kufizuar | 36 | 1/2 raunde |
+| Mortajë2 | Lëshues | 01 | 10D6/2 metra | 1 | Shtypje | 2,500 | 1 | 18 | 12 | Raketa | 1 | 00 | E kufizuar | 12 | 1/raund |
+| Torpedo | Raketë | 01 | 20D62 metra | 1/2 | Shpim | 5,000 | 1 | 36 | 6 | Torpedo | 1 | 99–00 | E kufizuar | 243 | 1/2 raunde |
+| Kullë, Mitraloz | Kullë | 05 | 4D6+4 | Breshëri4 | Shpim | 200 | 1 | 48 | 28 | Plumba | 1,000 | 98–00 | E kufizuar | 36 | 1/raund |
+| Kullë, Lëshues-Shtizash | Kullë | 05 | 2D10+2 | 1 | Shpim | 350 | 1 | 26 | 28 | Shtiza | 1 | 00 | E shtrenjtë | 16 | 1/raund |
 
 ##### Armët e Artilerisë së Avancuar
 
-| Emri | Aftësia | Baza | Dëmi | Sulmi | E veçantë | Rz. | Ekuip. | HP | AV | Municioni | Kap | Mal | Vlera | SIZ | Shkalla |
+| Emri | Aftësia | Bazë | Dëmtimi | Sulm | Special | Rrezja | Ekuipazhi | HP | AV | Municioni | Kapaciteti | Mal | Vlera | MAD | Shkalla |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Top energjie | Top | 01 | 4D10+4 | 1 | Zjarr | 1,000 | 3 | 40 | 28 | Energji | Pafund | 00 | I kufizuar | 48 | 1/raund |
-| Rail gun | Armë e mont. | 01 | 6D8+6 | 1/3 | Shpim | 10,000 | 2 | 64 | 28 | Predha | 1,000 | 00 | I kufizuar | 72 | 1/3 raunde |
-| Kullëz energjie | Kullëz | 05 | 6D10+6 | 1 | Zjarr | 400 | 1 | 36 | 28 | Energji | Pafund | 00 | I kufizuar | 44 | 1/raund |
-| Kullëz flakësh | Kullëz | 10 | 4D6/1 m5 | 1 | Zjarr | 50 | 1 | 24 | 28 | Karburant | 100 | 98–00 | I kufizuar | 32 | 1/raund |
-| Kullëz lazer | Kullëz | 05 | 4D8+4 | 1 | Zjarr | 600 | 1 | 32 | 28 | Energji | Pafund | 99–00 | I kufizuar | 40 | 1/raund |
-| Kullëz raketash | Kullëz | 01 | 8D6+8/2 m | Breshëri | Shpim | 1,200 | 1 | 36 | 28 | Raketa | 100 | 00 | I kufizuar | 44 | 1/raund |
-| Kullëz goditëse | Kullëz | 05 | 4D6/1 m6 | 1/2 | Trullos | 40 | 1 | 24 | 28 | Energji | Pafund | 96–00 | I kufizuar | 32 | 1/2 raunde |
+| Top, Energjie | Top | 01 | 4D10+4 | 1 | Zjarr | 1,000 | 3 | 40 | 28 | Energji | Pafund | 00 | E kufizuar | 48 | 1/raund |
+| Top, Hekurudhor | Top i Montuar | 01 | 6D8+6 | 1/3 | Shpim | 10,000 | 2 | 64 | 28 | Predha | 1,000 | 00 | E kufizuar | 72 | 1/3 raunde |
+| Kullë, Energjie | Kullë | 05 | 6D10+6 | 1 | Zjarr | 400 | 1 | 36 | 28 | Energji | Pafund | 00 | E kufizuar | 44 | 1/raund |
+| Kullë, Flakëhedhëse | Kullë | 10 | 4D6/1 metër5 | 1 | Zjarr | 50 | 1 | 24 | 28 | Karburant | 100 | 98–00 | E kufizuar | 32 | 1/raund |
+| Kullë, Lazer | Kullë | 05 | 4D8+4 | 1 | Zjarr | 600 | 1 | 32 | 28 | Energji | Pafund | 99–00 | E kufizuar | 40 | 1/raund |
+| Kullë, Raketore | Kullë | 01 | 8D6+8/2 metra | Breshëri | Shpim | 1,200 | 1 | 36 | 28 | Raketa | 100 | 00 | E kufizuar | 44 | 1/raund |
+| Kullë, Shokuese | Kullë | 05 | 4D6/1 metër6 | 1/2 | Marramendje | 40 | 1 | 24 | 28 | Energji | Pafund | 96–00 | E kufizuar | 32 | 1/2 raunde |
 
-1. Një mitraloz Gatling shkrep një breshëri prej 36 plumbash çdo raund luftimi.
-2. Kjo është një mortajë e vogël e lëvizshme. Për versione më të mëdha, përdorni statistikat për një obus.
-3. SIZ është për vetë torpedon; ajo duhet të shkrepet nga një tub lëshimi, zakonisht pjesë e një nëndetëseje ose anijeje tjetër.
-4. Një kullëz standarde mitralozi shkrep një breshëri prej 120 plumbash çdo raund luftimi.
-5. Nëse një objektiv goditet, hidhni për Fat. Nëse hedhja dështon, ata janë në flakë dhe marrin 1D6 pikë dëmi menjëherë dhe çdo raund pasues luftimi derisa zjarri të shuhet ose të neutralizohet (shih **Fire and Heat** (Zjarri dhe Nxehtësia)).
-6. Hidhni për dëm dhe vëreni atë vs. CON të objektivit në një hedhje rezistence. Nëse objektivi humbet, ata trullosen për 1D3+1 raunde (shih **Stunning** (Trullosja)).
+1. Një mitraloz Gatling gjuan një breshëri prej 36 plumbash çdo raund luftimi.
+2. Kjo është një mortajë e vogël e lëvizshme nga njeriu. Për versione më të mëdha, përdorni statistikat për një obus.
+3. MAD është për vetë torpedon; ajo duhet të lëshohet nga një tub lëshimi, zakonisht pjesë e një nëndetëseje ose anije tjetër.
+4. Një kullë standarde mitralozi gjuan një breshëri prej 120 plumbash çdo raund luftimi.
+5. Nëse një objektiv goditet, hidhni një zë (Luck). Nëse hedhja dështon, ata përfshihen nga zjarri dhe marrin 1D6 pikë dëmtimi menjëherë dhe çdo raund pasues luftimi derisa zjarri të shuhet ose të neutralizohet ndryshe (shih **Zjarri dhe Nxehtësia**).
+6. Hidhni dëmtimin dhe përballeni atë kundër QEN (QEN) të objektivit në një hedhje rezistence. Nëse objektivi humbet, ata mbeten të trullosur për 1D3+1 raunde (shih **Trullosja**).
 
-##### Shpërthyes Modernë
+##### Eksplozivët Modernë
 
-| Arma | Aftësia | Baza | Dëmi1 | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësia | Bazë | Dëmtimi1 | Sulm | Special | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Mal | Vlera | MAD/Ngarkesa |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Kapsulë shpërthyese | Demolim | — | 2D6/1 m | 1/2 | Shtytje prapa | 3 | — | 3 | Jo | — | 00 | Mesatare | 0.2 |
-| Dinamit | Demolim | Hedh | 5D6/2 m | 1/2 | Shtytje prapa | Hedhur | 2H | 1 | Jo | 5/5 | 99–00 | Mesatare | 0.5 |
-| Shpërthyes (I improvizuar) | Demolim | — | 3D6/2 m | 1 | Shtytje prapa | 8 | — | 4 | Jo | — | 91–00 | I lirë | 1.0 |
-| Shpërthyes (Plastik) | Demolim | — | 6D6/3 m | 1/3 | Shtytje prapa | 21 | — | 15 | Jo | — | 99–00 | I shtrenjtë | 1.0 |
-| Granatë (Goditëse) | Granatë | Hedh | 2D62/2 m | 1 | Shtytje prapa | Hedhur | 1H | 8 | Jo | 5/5 | 00 | Mesatare | 0.7 |
-| Granatë (Shpërthyese) | Granatë | Hedh | 4D6/4 m | 1 | Shtytje prapa | Hedhur | 1H | 8 | Jo | 5/5 | 99–00 | Mesatare | 0.7 |
-| Granatë (Ndriçuese) | Granatë | Hedh | 3/3 m | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 00 | Mesatare | 0.7 |
-| Granatë (Gazi) | Granatë | Hedh | 4/3 m | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 99–00 | Mesatare | 0.7 |
-| Granatë (Fosfori) | Granatë | Hedh | 2D65/24 m | 1 | — | Hedhur | 1H | 4 | Jo | 5/5 | 98–00 | I shtrenjtë | 0.7 |
-| Granatë (Shrapneli) | Granatë | Hedh | 4D6/4 m | 1 | Shpim | Hedhur | 1H | 8 | Jo | 5/5 | 00 | Mesatare | 0.7 |
-| Granatë (Tymi) | Granatë | Hedh | 6/3 m | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 00 | Mesatare | 0.3 |
-| Lëshues granatash | Granatë | 25 | 3D6/2 m | 1/3 | Shtytje prapa | 20 | 1H | 12 | Jo | — | 99–00 | I shtrenjtë | 3.0 |
-| Lëshues raketash LAW | Granatë | 15 | 8D6/1 m | 1 | Shtytje prapa | 150 | 2H | 10 | Jo | 7/5 | 98–00 | I shtrenjtë | 4.5 |
-| Lëshues raketash | Granatë | 01 | 10D6/5 m | 1/3 | Shpim, Shtytje prapa | 400 | 2H | 12 | Jo | 11/7 | 99–00 | I shtrenjtë | 7.0 |
-| Minë (Antipersonel) | Demolim | — | 4D6/5 m | — | Shtytje prapa | 25 | — | 9 | Jo | — | 99–00 | Mesatare | 2.0 |
-| Minë (Antitank) | Demolim | — | 6D6+6/ 3D6+2/1D6 | — | Shpim | 10/25/50 | — | 12 | Jo | — | 99–00 | Mesatare | 3.0 |
-| Kokteji Molotov | Granatë | Hedh | 1+Zjarr7 | 1/2 | — | Hedhur | 1H | 1 | Jo | 5/7 | 95–00 | I lirë | 0.7 |
+| Kapsulë Shpërthyese | Demolim | — | 2D6/1 metër | 1/2 | Hedhje | 3 | — | 3 | Jo | — | 00 | Mesatare | 0.2 |
+| Dinamit | Demolim | Hedhje | 5D6/2 metra | 1/2 | Hedhje | Hedhur | 2H | 1 | Jo | 5/5 | 99–00 | Mesatare | 0.5 |
+| Eksploziv, i Improvizuar | Demolim | — | 3D6/2 metra | 1 | Hedhje | 8 | — | 4 | Jo | — | 91–00 | E lirë | 1.0 |
+| Eksploziv, Plastik | Demolim | — | 6D6/3 metra | 1/3 | Hedhje | 21 | — | 15 | Jo | — | 99–00 | E shtrenjtë | 1.0 |
+| Granatë, Tronditëse | Granatë | Hedhje | 2D62/2 metra | 1 | Hedhje | Hedhur | 1H | 8 | Jo | 5/5 | 00 | Mesatare | 0.7 |
+| Granatë, Shpërthyese | Granatë | Hedhje | 4D6/4 metra | 1 | Hedhje | Hedhur | 1H | 8 | Jo | 5/5 | 99–00 | Mesatare | 0.7 |
+| Granatë, Ndriçuese | Granatë | Hedhje | 3/3 metra | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 00 | Mesatare | 0.7 |
+| Granatë, Gaz | Granatë | Hedhje | 4/3 metra | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 99–00 | Mesatare | 0.7 |
+| Granatë, Fosfori | Granatë | Hedhje | 2D65/24 metra | 1 | — | Hedhur | 1H | 4 | Jo | 5/5 | 98–00 | E shtrenjtë | 0.7 |
+| Granatë, Shrapnel | Granatë | Hedhje | 4D6/4 metra | 1 | Shpim | Hedhur | 1H | 8 | Jo | 5/5 | 00 | Mesatare | 0.7 |
+| Granatë, Tymuese | Granatë | Hedhje | 6/3 metra | 1 | — | Hedhur | 1H | 6 | Jo | 5/5 | 00 | Mesatare | 0.3 |
+| Lëshues Granatash | Granatë | 25 | 3D6/2 metra | 1/3 | Hedhje | 20 | 1H | 12 | Jo | — | 99–00 | E shtrenjtë | 3.0 |
+| Lëshues, Raketë LAW | Granatë | 15 | 8D6/1 metër | 1 | Hedhje | 150 | 2H | 10 | Jo | 7/5 | 98–00 | E shtrenjtë | 4.5 |
+| Lëshues, Raketash | Granatë | 01 | 10D6/5 metra | 1/3 | Shpim, Hedhje | 400 | 2H | 12 | Jo | 11/7 | 99–00 | E shtrenjtë | 7.0 |
+| Minë, Kundër-Personelit | Demolim | — | 4D6/5 metra | — | Hedhje | 25 | — | 9 | Jo | — | 99–00 | Mesatare | 2.0 |
+| Minë, Kundër-Tankut | Demolim | — | 6D6+6/ 3D6+2/1D6 | — | Shpim | 10/25/50 | — | 12 | Jo | — | 99–00 | Mesatare | 3.0 |
+| Koktej Molotov | Granatë | Hedhje | 1+Zjarr7 | 1/2 | — | Hedhur | 1H | 1 | Jo | 5/7 | 95–00 | E lirë | 0.7 |
 
-1. Dëmi shprehet në zare për metër; dëmi i bërë për metër pas rrezes fillestare zvogëlohet me 1D6.
-2. Të gjithë objektivat e dëmtuar duhet të kenë sukses me një hedhje për Stamina ose të trullosen (shih **Stunning**).
-3. Ndriçon zonën e rrezes në vend të dëmit (shih **Light Sources**).
-4. Mbush zonën me gaz toksik ose jo-toksik (shih **Poisons**). Një granatë gazi shembull mund të ketë 2D6+12 POT, efekt të menjëhershëm dhe të shkaktojë mbytje dhe 1D6 humbje pikësh goditjeje për raund nëse objektivi dështon në një hedhje rezistence vs. CON.
-5. Granatat e fosforit prodhojnë tym dhe janë gjithashtu ndezëse, duke shkaktuar dëme çdo raund derisa të shuhen (shih **Fire and Heat**).
-6. Mbush një zonë me tym që pengon shikimin në vend që të bëjë dëme; mund të errësojë një dhomë sikur të ishte errësuar (shih **Darkness**).
-7. Nëse një objektiv goditet, ata duhet të hedhin për Fat. Nëse hedhja dështon, ata janë në flakë dhe marrin 1D6 pikë dëmi menjëherë dhe çdo raund pasues derisa zjarri të shuhet ose të neutralizohet (shih **Fire and Heat**).
+1. Dëmtimi shprehet në zare për metër; dëmtimi i bërë për metër përtej rrezes fillestare zvogëlohet me 1D6.
+2. Të gjithë objektivat e dëmtuar duhet të kenë sukses me një hedhje Qëndrese (Stamina) ose të jenë të trullosur (shih **Trullosja**).
+3. Ndriçon zonën e rrezes në vend të dëmtimit (shih **Burimet e Dritës**).
+4. Mbush zonën me gaz toksik ose jo-toksik (shih **Helmet**). Një shembull granate gazi mund të ketë 2D6+12 POT, efekt të menjëhershëm, dhe shkakton mbytje dhe 1D6 humbje pikësh goditjeje për raund nëse objektivi dështon një hedhje rezistence kundër QEN (QEN).
+5. Granatat e fosforit prodhojnë tym dhe janë gjithashtu ndezëse, duke shkaktuar dëmtim çdo raund derisa të shuhen (shih **Zjarri dhe Nxehtësia**).
+6. Mbush një zonë me tym që errëson shikimin në vend që të shkaktojë dëmtim; mund të errësojë një dhomë sikur të ishte errësirë (shih **Errësira**).
+7. Nëse një objektiv goditet, ata duhet të hedhin një zë (Luck). Nëse hedhja dështon, ata përfshihen nga zjarri dhe marrin 1D6 pikë dëmtimi menjëherë dhe çdo raund pasues derisa zjarri të shuhet ose neutralizohet (shih **Zjarri dhe Nxehtësia**).
 
-##### Shpërthyes të Avancuar
+##### Eksplozivë të Avancuar
 
-| Arma | Aftësia | Baza | Dëmi1 | Sulmi | E veçantë | Rz. | Duart | HP | Parimi | STR/DEX | Mal | Vlera | SIZ/Enc |
+| Armë | Aftësia | Bazë | Dëmtimi1 | Sulm | Special | Rrezja | Duar | HP | Mbrojtje | FOR/SHK | Mal | Vlera | MAD/Ngarkesa |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Detonator (Antimaterie) | Demolim | — | 10D10/10 m | 1 | — | 110 | — | 12 | Jo | — | 96–00 | I shtrenjtë | 1.5 |
-| Detonator (Fuzioni) | Demolim | — | 10D8/10 m | 1 | — | 110 | — | 16 | Jo | — | 98–00 | I shtrenjtë | 2.0 |
-| Detonator (EM Pulse) | Demolim | — | 6D10/5 m2 | 1 | — | 35 | — | 12 | Jo | — | 97–00 | I shtrenjtë | 1.0 |
-| Detonator (Plazma) | Demolim | — | 6D10/5 m3 | 1 | — | 35 | — | 10 | Jo | — | 99–00 | I shtrenjtë | 1.4 |
-| Detonator (Sonic) | Demolim | — | 4D6/2 m4 | 1 | Shtytje prapa | 10 | — | 8 | Jo | — | 97–00 | I shtrenjtë | 2.0 |
-| Granatë (Çintegruese) | Granatë | Hedh | 4D10/2 m | 1 | — | Hedhur | 1H | 12 | Jo | 5/5 | 96–00 | I shtrenjtë | 0.8 |
-| Granatë (EM Pulse) | Granatë | Hedh | 5D8/1 m | 1 | — | Hedhur | 1H | 8 | Jo | 5/5 | 98–00 | Mesatare | 0.5 |
-| Granatë (Fuzioni) | Granatë | Hedh | 6D6/1 m | 1 | — | Hedhur | 1H | 10 | Jo | 5/5 | 97–00 | Mesatare | 0.8 |
-| Granatë (Plazma) | Granatë | Hedh | 3D10/2 m3 | 1 | — | Hedhur | 1H | 10 | Jo | 5/5 | 98–00 | Mesatare | 0.7 |
-| Granatë (Shock) | Granatë | Hedh | 4D6/1 m | 1 | Shtytje prapa | Hedhur | 1H | 8 | Jo | 5/5 | 98–0 | Mesatare | 0.5 |
-| Granatë (Stun) | Granatë | Hedh | 3D8/2 m5 | 1 | Shtytje prapa | Hedhur | 1H | 8 | Jo | 5/5 | 98–00 | Mesatare | 0.5 |
+| Detonator, Antimaterie | Demolim | — | 10D10/10 metra | 1 | — | 110 | — | 12 | Jo | — | 96–00 | E shtrenjtë | 1.5 |
+| Detonator, Fuzion | Demolim | — | 10D8/10 metra | 1 | — | 110 | — | 16 | Jo | — | 98–00 | E shtrenjtë | 2.0 |
+| Detonator, Impuls EM | Demolim | — | 6D10/5 metra2 | 1 | — | 35 | — | 12 | Jo | — | 97–00 | E shtrenjtë | 1.0 |
+| Detonator, Plazma | Demolim | — | 6D10/5 metra3 | 1 | — | 35 | — | 10 | Jo | — | 99–00 | E shtrenjtë | 1.4 |
+| Detonator, Sonik | Demolim | — | 4D6/2 metra4 | 1 | Hedhje | 10 | — | 8 | Jo | — | 97–00 | E shtrenjtë | 2.0 |
+| Granatë, Dezintegruese | Granatë | Hedhje | 4D10/2 metra | 1 | — | Hedhur | 1H | 12 | Jo | 5/5 | 96–00 | E shtrenjtë | 0.8 |
+| Granatë, Impuls EM | Granatë | Hedhje | 5D8/1 metër | 1 | — | Hedhur | 1H | 8 | Jo | 5/5 | 98–00 | Mesatare | 0.5 |
+| Granatë, Fuzion | Granatë | Hedhje | 6D6/1 metër | 1 | — | Hedhur | 1H | 10 | Jo | 5/5 | 97–00 | Mesatare | 0.8 |
+| Granatë, Plazma | Granatë | Hedhje | 3D10/2 metra3 | 1 | — | Hedhur | 1H | 10 | Jo | 5/5 | 98–00 | Mesatare | 0.7 |
+| Granatë, Shokuese | Granatë | Hedhje | 4D6/1 metër | 1 | Hedhje | Hedhur | 1H | 8 | Jo | 5/5 | 98–0 | Mesatare | 0.5 |
+| Granatë, Trullosëse | Granatë | Hedhje | 3D8/2 metra5 | 1 | Hedhje | Hedhur | 1H | 8 | Jo | 5/5 | 98–00 | Mesatare | 0.5 |
 
-1. Dëmi shprehet në zare për metër; dëmi i bërë për metër pas rrezes fillestare zvogëlohet me 1D për metër.
-2. Dëmi hidhet dhe vërehet vs. CON të një objektivi elektronik ose bazuar në elektricitet në një hedhje rezistence. Nëse objektivi humbet, ata pësojnë shumën e hedhur në dëme. Nëse hedhja për rezistencë është e suksesshme, objektivi merr dëmin minimal të detonatorit (bazuar në rreze) në pikët e goditjes aktuale.
-3. Një objektiv i goditur duhet të bëjë një hedhje të vështirë për Fat. Nëse hedhja dështon, ata janë në flakë dhe marrin 1D6 pikë dëmi menjëherë dhe çdo raund pasues derisa zjarri të shuhet ose të neutralizohet (shih **Fire and Heat**).
-4. Kundër një objektivi jo të gjallë, dëmi hidhet vs. CON bazë të objektit, vlerës së parzmores ose pikëve të goditjes (zgjedhja e udhëheqësit të lojës). Nëse objektivi dështon hedhjen, ai thyhet ose bëhet jo-funksional.
-5. Hidhni për dëm dhe vëreni atë vs. CON të objektivit në një hedhje rezistence. Nëse objektivi fiton, ata marrin dëmin minimal (2) në vend të dëmit të hedhur. Nëse objektivi humbet, ata trullosen për 1D3+1 raunde (shih **Stunning**).
+1. Dëmtimi shprehet në zare për metër; dëmtimi i bërë për çdo metër përtej rrezes fillestare zvogëlohet me 1D për metër.
+2. Dëmtimi hidhet dhe përballet kundër QEN (QEN) ose pikëve aktuale të goditjes të një objektivi elektronik/elektrik në hedhjen e rezistencës. Nëse objektivi humbet, ata vuajnë shumën e hedhur në dëmtim. Nëse hedhja e rezistencës është e suksesshme, objektivi merr dëmtimin minimal të detonatorit (bazuar në rreze) ndaj pikëve aktuale të goditjes.
+3. Një objektiv i goditur duhet të bëjë një hedhje të vështirë të Fatit (Luck). Nëse hedhja dështon, ata përfshihen nga zjarri dhe marrin 1D6 pikë dëmtimi menjëherë dhe çdo raund pasues derisa zjarri të shuhet ose neutralizohet (shih **Zjarri dhe Nxehtësia**).
+4. Kundër një objektivi jo të gjallë, dëmtimi përballet kundër QEN (QEN) bazë të objektivit, vlerës së parzmores ose pikëve të goditjes (zgjedhja e mjeshtrit të lojës). Nëse objektivi dështon hedhjen, ai thyhet ose bëhet jofunksional.
+5. Hidhni dëmtimin dhe përballeni atë kundër QEN (QEN) të objektivit në një hedhje rezistence. Nëse objektivi ka sukses, ata marrin dëmtim minimal (2) në vend të dëmtimit të hedhur. Nëse objektivi humbet, ata mbeten të trullosur për 1D3+1 raunde (shih **Trullosja**).
 
-## Robotët dhe Jeta Artificiale
+## Robotët & Jeta Artificiale
 
-Një lloj unik i pajisjeve është **roboti**, një konstrukt i trajtuar si një personazh, me një gamë të ngjashme karakteristikash dhe aftësish. Robotët variojnë në formë dhe dizajn nga golemët jo-Humanoidë, automatë të ngathët dhe tepër të mëdhenj, Humanoidë elegantë dhe tërheqës, ose madje të padallueshëm nga Njerëzimi. Për lehtësi, të gjitha llojet e robotëve (androidë, golemë, humanoidë sintetikë, A.I., etj.) referohen si robotë në këto rregulla.
+Një lloj unik pajisjeje është **roboti**, një konstruksion që trajtohet si një personazh, me një gamë të ngjashme karakteristikash dhe aftësish. Robotët variojnë në formë dhe dizajn nga golemë jo-humanoidë, automatë të ngathët dhe të stërmadh, humanoidë të hijshëm dhe tërheqës, apo edhe të padallueshëm nga njerëzimi. Për lehtësi, të gjitha llojet e robotëve (androidët, golemët, humanoidët sintetikë, I.A., etj.) referohen si robotë në këto rregulla.
 
-Të gjitha atributet për një robot janë identike me ato të një personazhi normal, me të njëjtat karakteristika, aftësi, madje edhe fuqi. Kapitulli i Njëmbëdhjetë: Krijesat ka një robot shembull.
+Të gjitha atributet për një robot janë identike me ato të një personazhi normal, me të njëjtat karakteristika, aftësi, madje edhe fuqi. Kapitulli Njëmbëdhjetë: Krijesat ka një robot mostër.
 
-### Robotët si Personazhe Lojtarë
+### Robotët si Personazhe Lojtari
 
-Me lejen e udhëheqësit të lojës suaj, personazhi juaj mund të jetë madje një robot, qoftë i ndërtuar duke përdorur krijimin normal të personazhit ose duke përdorur një nga shembujt si shabllon. Nëse po, personazhi juaj duhet të ndërtohet përgjatë linjave të një personazhi normal, megjithëse POW bëhet një aftësi e thjeshtë ruajtjeje baterie, në vend të forcës së shpirtit aktual. Kompleti më i përshtatshëm i fuqive për një robot është sistemi i superfuqive. Personazhi juaj duhet ose të riparohet përmes një aftësie përkatëse Riparim (ose Aftësi Teknike, varësisht se sa i avancuar është personazhi juaj), dhe këto riparime mund të kërkojnë një hedhje për Status për të marrë akses në komponentët e kërkuar.
+Me lejen e mjeshtrit të lojës, personazhi juaj mund të jetë madje edhe një robot, i ndërtuar duke përdorur krijimin normal të personazhit ose duke përdorur një nga mostrat si model. Nëse është kështu, personazhi juaj duhet të ndërtohet sipas vijave të një personazhi normal, megjithëse FUQ (FUQ) bëhet një aftësi e thjeshtë e ruajtjes së baterisë, në vend të forcës së vërtetë të shpirtit. Grupi më i përshtatshëm i fuqive për një robot është sistemi i super-fuqive. Personazhi juaj duhet ose të riparohet përmes një aftësie përkatëse Riparimi (ose Aftësi Teknike, varësisht se sa i avancuar është personazhi juaj), dhe këto riparime mund të kërkojnë një hedhje Statusi për të fituar akses në komponentët e kërkuar.### Kibernetika
 
-### Kibernetika
+Nëse dëshironi që personazhi juaj të ketë disa aspekte kibernetike në trupin e tij, si gjymtyrë ose organe artificiale, bashkëpunoni me mjeshtrin e lojës (gamemaster) për të përcaktuar se çfarë efektesh duhet të ketë pjesa artificiale e trupit. Në shumicën e rasteve, nëse pjesa e trupit nuk ofron ndonjë bonus të veçantë ose atribute të pazakonta, supozoni se ajo duhet trajtuar njësoj si një pjesë e gjallë e trupit, megjithëse në vend të aftësisë Ndihma e Parë, përdorni një Aftësi të përshtatshme Riparimi ose Teknike për ta rikthyer gjymtyrën në funksionalitet nëse ajo dëmtohet nga efektet e një plage të madhe ose një dëmtimi nga përdorimi i vendndodhjeve të goditjeve.
 
-Nëse dëshironi që personazhi juaj të ketë disa aspekte kibernetike në trupin e tyre, si gjymtyrë ose organe artificiale, punoni me udhëheqësin e lojës për të përcaktuar se çfarë efektesh duhet të ketë pjesa artificiale e trupit. Në shumicën e rasteve, nëse pjesa e trupit nuk ofron ndonjë bonus të veçantë ose atribute të pazakonta, supozoni se ajo duhet të trajtohet njësoj si një pjesë e trupit të gjallë, megjithëse në vend të aftësisë Ndihma e parë, përdorni një aftësi përkatëse Riparim ose Aftësi Teknike për të rivendosur gjymtyrën në funksionalitet nëse dëmtohet përmes efekteve të një plage të madhe ose një dëmtimi nga përdorimi i vendndodhjeve të goditjes.
+Nëse dëshironi që pjesa artificiale e trupit të ketë disa fuqi ose atribute të veçanta përtej atyre të një gjymtyre normale, ndërtojeni gjymtyrën sikur të ishte një pajisje (shih **Pajisje me Superfuqi**), vetëm se e bashkangjitur në mënyrë thelbësore me trupin e personazhit tuaj. Përndryshe, gjymtyra/organi artificial mund të jetë i heqshëm ose edhe modular. Sido që të jetë, sistemi i pajisjeve është mënyra më e mirë për të simuluar pjesët kibernetike ose pjesët e tjera artificiale të trupit.
 
-Nëse dëshironi që pjesa artificiale e trupit të ketë disa fuqi ose atribute të veçanta përtej atyre të një gjymtyre normale, ndërtojeni gjymtyrën sikur të ishte një vegël (shih **Equipment with Superpowers**), vetëm e bashkangjitur në mënyrë thelbësore në trupin e personazhit tuaj. Përndryshe, gjymtyra/organi artificial mund të jetë i lëvizshëm ose madje modular. Sido që të jetë, sistemi i veglave është mjeti më i mirë për të simuluar pjesët kibernetike ose ndryshe artificiale të trupit.
-
-> ### Konvertimet metrike
+> ### Shndërrimet Metrike
 > 
-> Basic Roleplaying përdor sistemin metrik si parazgjedhje. Ndërsa shumica e botës përdor sistemin metrik, matjet perandorake përdoren shpesh në mjedise historike, dhe ju dhe udhëheqësi i lojës suaj mund të dëshironi të përdorni masa të tilla për lehtësi dhe/ose shije. Konvertimet metrike më poshtë janë të përafërta dhe të rrumbullakosura aty ku është e përshtatshme.
+> Basic Roleplaying përdor sistemin metrik si parazgjedhje. Ndërsa pjesa më e madhe e botës përdor sistemin metrik, matjet perandorake përdoren shpesh në mjedise historike, dhe ju e mjeshtri juaj i lojës mund të dëshironi t'i përdorni këto matje për lehtësi dhe/ose shije. Shndërrimet metrike më poshtë janë të përafërta dhe të rrumbullakosura kur është e përshtatshme.
 > 
-> ##### Ekuivalencat Metrike/Perandorake
+> ##### Ekuivalentët Metrikë/Perandorakë
 > 
 > | 1 centimetër = 1/3 inç | 0° C = 32° F |
 > | :---- | :---- |
 > | 1/3 metër = 1 këmbë | 10° C = 50° F |
 > | 1 metër = 1 jard | 20° C = 68° F |
 > | 1 kilometër = 3/5 milje | 30° C = 86° F |
-> | 100 gramë = 3 ons | 40° C = 104° F |
+> | 100 gramë = 3 onca | 40° C = 104° F |
 > | 1 kilogram = 2.2 paund | 100° C = 212° F |
 > | 1 ton metrik = 2,200 paund | 200° C = 392° F |
 > | 1 litër = 1 kuart | 500° C = 922° F |
-> | 4
+> | 4 litra = 1 gallon | 1,000° C = 1,832° F |
+
+## Mjetet e Transportit
+
+Ashtu si me llojet e armëve dhe armaturave, seksioni vijues përfshin një shumëllojshmëri mjetesh transporti të listuara në **Shpejtësitë e Lëvizjes**, si dhe të tjera të përshtatshme për aventurë. Këto shembuj abstraktë mund t'ju ndihmojnë juve dhe mjeshtrit tuaj të lojës të krijoni lloje shtesë të mjeteve të transportit, duke zgjeruar ose ndryshuar statistikat sipas dëshirës.
+
+Termat e mëposhtëm përdoren për të përcaktuar çdo mjet transporti:
+
+* **Lloji:** Lloji gjenerik i mjetit të transportit.
+
+* **Aftësia:** Aftësia që duhet përdorur gjatë pilotimit të tij.
+
+* **Shpejtësia e Vlerësuar:** Shpejtësia maksimale e mjetit, një vlerë abstrakte që përdoret në sistemin e ndjekjes.
+
+* **Drejtimi:** Modifikuesi i aplikuar ndaj aftësisë së personazhit tuaj, që pasqyron manovrueshmërinë e mjetit ose lehtësinë relative të përdorimit.
+
+* **ACC:** Përshpejtimi, numri i shkallëve të shpejtësisë me të cilat mjeti mund të përshpejtojë ose ngadalësojë nga shpejtësia e tij aktuale e vlerësuar në çdo raund luftimi. Kjo jepet si një vlerë ± dhe përdoret në sistemin e ndjekjes së mjeteve.
+
+* **MOV:** Shpejtësia maksimale e mjetit në një raund luftimi, e shprehur në vlerësimin e tij MOV. MOV ka një vlerë rrëshqitëse prej 1–5 metrash; kjo supozon një vlerë mesatare prej 3.
+
+* **Armatura:** Vlera e përgjithshme e armaturës së mjetit dhe mbrojtja që u siguron ekuipazhit ose pasagjerëve. Zakonisht, sulmet ndaj pasagjerëve bëhen përmes një dritareje ose një seksioni të hapur të kabinës. Nëse këto dy numra janë të ndryshëm, ata shprehen si dy vlera të ndara me një vizë të pjerrët. Mjeshtri juaj i lojës duhet të përcaktojë nëse një personazh ka mbrojtje nga mjeti. Sulmi ndaj dikujt brenda një mjeti është i Vështirë.
+
+* **MAD:** Vlera e dukshme MAD e mjetit.
+
+* **HP:** Pikët e goditjes (HP) të mjetit. Mjetet e transportit nuk vuajnë efektet dytësore të sukseseve të veçanta, përveç dëmit të shtuar, dhe sukseset kritike shpërfillin armaturën e mjetit dhe shkaktojnë dëm të shtuar.
+
+* **Ekuipazhi:** Numri i personazheve të kërkuar për të pilotuar dhe mirëmbajtur mjetin me efikasitet të plotë gjatë udhëtimit. Për anije më të mëdha, kjo është zakonisht 1/3 e numrit normal, pasi ekuipazhet punojnë në turne 8-orëshe. Hedhjet e zareve për aftësitë që lidhen me mjetin mund të jenë të Vështira nëse mjeti është me ekuipazh të pamjaftueshëm.
+
+* **Pasagjerët:** Numri i pasagjerëve që mjeti mban zakonisht, i kombinuar me numrin e anëtarëve të ekuipazhit jashtë detyrës (nëse është e përshtatshme).
+
+* **Ngarkesa:** Hapësira që mjeti ka për ngarkesë, e shprehur në MAD. Për qëllime loje, 1 ENC është e barabartë me 1 pikë MAD.
+
+* **Vlera:** Një vlerë e përgjithshme për mjetin, siç përshkruhet te **Paratë** dhe **Blerja e Pajisjeve**.
+
+* **Shënime:** Shënime shtesë rreth mjetit dhe aftësive të tij.
+
+### Përshkrimet e Mjeteve të Transportit
+
+Ky seksion përshkruan një shumëllojshmëri mjetesh transporti, të organizuara në mënyrë alfabetike.
+
+**Mjet Ajror, Bombardues:** Një avion i madh, me helikë ose turbinë, i përdorur për misione bombardimi me rreze të gjatë, zakonisht i pajisur me disa kulla mitralozësh.
+
+**Mjet Ajror, Dirigjibël:** Një tullumbace me një kornizë strukturore të kufizuar dhe një kabinë të vogël që varet poshtë, zakonisht e fryrë me një gaz më të lehtë se ajri. Drejtohet nga rotorë.
+
+**Mjet Ajror, Helikopter:** Një mjet ajror i vogël me helikë rrotulluese. Kabinat variojnë nga flluska të thjeshta pleksiglasi deri tek ato të blinduara me ndarje për trupat dhe montime armësh.
+
+**Mjet Ajror, Avion Reaktiv (Jet):** Një avion pasagjerësh reaktiv tregtar, me të paktën dy turbina reaktive të montuara në krahë.
+
+**Mjet Ajror, Avion Luftarak Reaktiv:** Një avion reaktiv relativisht i vogël dhe shumë manovrues, i dizajnuar për luftim ajror dhe sulme bombarduese.
+
+**Mjet Ajror, Avion me Helikë:** Një avion i vogël pasagjerësh me helikë.
+
+**Mjet Ajror, Skyskimmer:** Një mjet ajror ultralehtë i teknologjisë së lartë i aftë për ngritje dhe ulje vertikale, duke përdorur teknologji të avancuar të shtytësve.
+
+**Automobil, Sedan Modern:** Një automobil modern mesatar me katër dyer.
+
+**Automobil, Makinë Sportive Moderne:** Një automobil jashtëzakonisht i shpejtë, me dy dyer, dy vende, me performancë të lartë.
+
+**Automobil, Vintage:** Një automobil i vjetër katror, ekuivalent me Model–T.
+
+**Varkë, me Motor:** Një varkë motorike relativisht e vogël me një helikë të vetme dhe një kabinë të vogël përpara.
+
+**Varkë, e Vogël me Rrema:** Një varkë e vogël me dy banka.
+
+**Qerre (Chariot):** Një qerre e vogël me dy kuaj, me hapësirë për një drejtues, një luftëtar dhe një raft të vogël për armë ose sende personale.
+
+**Karrocë me Katër Kuaj:** Një karrocë e hapur ose me mbulesë pëlhure me katër kuaj.
+
+**Qerre e Madhe me Katër Kuaj:** Një karrocë druri me një kabinë pasagjerësh të ngushtë dhe hapësirë për ruajtje prapa dhe lart.
+
+**Kalë:** Shih Kapitullin Njëmbëdhjetë: Krijesat.
+
+**Hovercraft:** Një traget tregtar hovercraft i përshtatshëm për rreth 20 pasagjerë në ujë relativisht të qetë.
+
+**Land Skimmer:** Një mjet tokësor me turbinë të teknologjisë së lartë që lëviz mbi një shtrat ajri të ngjeshur, si një hovercraft.
+
+**Motoçikletë:** Një mjet motorik me dy rrota me hapësirë për një drejtues dhe një pasagjer. Shporta anësore opsionale.
+
+**Anije, Transportues Avionësh:** Një anije e pamasë (mbi 300 metra e gjatë) me një kuvertë të sheshtë të aftë për të lëshuar avionë luftarakë dhe për t'i lejuar ata të ulen mbi të.
+
+**Anije, e Lashtë me Rrema:** Një anije e gjatë me radhë të vetme rremash, në port dhe starboard, zakonisht e drejtuar nga skllevër të galerave ose nga luftëtarë.
+
+**Anije, Luftarake Moderne:** Një luftanije masive (mbi 165 metra e gjatë), e blinduar rëndë me një shumëllojshmëri të gjerë artilerie me rreze të gjatë dhe sisteme raketore.
+
+**Anije, Lundrim Moderne (Kruizer):** Një anije pasagjerësh masive (mbi 300 metra e gjatë) që shërben pothuajse si një hotel lëvizës, me dyqane, objekte argëtimi dhe komoditete të panumërta.
+
+**Anije, Vintage me Vela:** Një galeon, rreth 35 metra i gjatë, me dy ose më shumë shtylla.
+
+**Mjet Hapësinor, Ngarkese:** Shtylla kurrizore e tregtisë hapësinore, ky është një mjet transporti ngarkesash me një ekuipazh të vogël. I blinduar dhe i armatosur lehtë. Mund të ketë mburoja energjie.
+
+**Mjet Hapësinor, Raketë:** Një raketë me lëndë djegëse me shumë faza me një kabinë të vogël pasagjerësh/modul uljeje.
+
+**Mjet Hapësinor, Luftarak Hapësinor:** Një anije kozmike relativisht e vogël dhe shumë manovruese, ekuivalente me një avion luftarak reaktiv. I armatosur rëndë, megjithëse i blinduar lehtë. Mund të ketë mburoja energjie.
+
+**Mjet Hapësinor, Transportues:** Një anije kozmike me madhësi mesatare e përdorur kryesisht për transport pasagjerësh ose ngarkesash, e blinduar dhe e armatosur lehtë. Mund të ketë mburoja energjie.
+
+**Nëndetëse:** Një mjet zhytës i përdorur nga ushtria për fshehtësi, infiltrim në ujërat e armikut dhe luftim detar.
+
+**Tank, Modern:** Një mjet luftarak me gjurmë (zinxhirë) i blinduar rëndë, i pajisur me një top qendror të kalibrit të madh si dhe armatime të tjera.
+
+**Tank, Vintage:** Një mjet luftarak me gjurmë i blinduar rëndë, zakonisht i pajisur me një top qendror të kalibrit të madh.
+
+**Tren, i Shpejtë (Bullet):** Një tren pasagjerësh me shpejtësi të lartë dhe të thjeshtëzuar, i ndërtuar në një shinë të specializuar, zakonisht i drejtuar nga energjia elektrike.
+
+**Tren, Mag–lev:** Një tren që leviton mbi një shinë magnetike.
+
+**Tren, me Avull:** Një motor i drejtuar nga avulli që daton nga fundi i viteve 1800. Vlera MAD është për vagon.
+
+**Kamion, Pickup:** Një kamion pickup me katër rrota.
+
+**Kamion, Semi (me 18 rrota):** Një kamion i madh tregtar me një kabinë të vogël dhe një ndarje të gjatë ngarkese.
+
+##### Kuajt & Mjetet e Tërhequra nga Kuajt
+
+| Lloji | Aftësia | Vlerësuar | Drejtimi | ACC | MOV | Armatura | MAD | HP | Ekuipazhi | Pasagjerët | Ngarkesa | Vlera | Shënime |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Kalë | Kalërim | 2 | — | ±2 | 10 | 1/— | 26 | 20 | 1 | 1 | 8 | Mesatare | Shih Krijesat |
+| Qerre | Drejtim | 2 | –5% | ±1 | 10 | 6/— | 35 | 20 | 1 | 1 | 18 | Mesatare | Varieteti me dy kuaj |
+| Karrocë me Katër Kuaj | Drejtim | 2 | –5% | ±1 | 10 | 8/— | 55 | 30 | 2 | 4 | 18 | Mesatare | — |
+| Qerre e Madhe me Katër Kuaj | Drejtim | 2 | –10% | ±1 | 10 | 8/— | 60 | 35 | 1 | 4+ | 36 | Mesatare | — |
+
+##### Automjetet, Kamionët, Trenat & Tanket
+
+| Lloji | Aftësia | Vlerësuar | Drejtimi | ACC | MOV | Armatura | MAD | HP | Ekuipazhi | Pasagjerët | Ngarkesa | Vlera | Shënime |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Vintage | Drejtim | 6 | –5% | ±1 | 67 | 10/1 | 60 | 35 | 1 | 3 | 12 | Mesatare | — |
+| Sedan Modern | Drejtim | 12 | — | ±7 | 134 | 14/2 | 50 | 40 | 1 | 3–4 | 24 | Mesatare | — |
+| Makinë Sportive Moderne | Drejtim | 15 | +5% | ±8 | 200 | 10/2 | 45 | 45 | 1 | 1 | 8 | E shtrenjtë | — |
+| Kamion Pickup | Drejtim | 12 | — | ±7 | 134 | 16/2 | 55 | 65 | 1 | 2+ | 36 | Mesatare | — |
+| Me 18 rrota | Drejtim | 10 | –10% | ±4 | 100 | 16/2 | 90 | 90 | 1 | 3+ | 72 | E shtrenjtë | — |
+| Motoçikletë | Drejtim | 13 | +5% | ±8 | 166 | 10/— | 18 | 25 | 1 | 1 | 6 | Mesatare | — |
+| Land Skimmer | Drejtim | 20 | +5% | ±10 | 400 | 12/— | 30 | 30 | 1 | 3 | 12 | E shtrenjtë | — |
+| Tank, Vintage | Drejtim | 4 | –10% | ±1 | 42 | 18 | 80 | 85 | 4 | — | 8 | I kufizuar | — |
+| Tank, Modern | Drejtim | 8 | — | ±4 | 83 | 24 | 90 | 140 | 4 | — | 12 | I kufizuar | — |
+| Tren, me Avull | Drejtim | 6 | — | ±2 | 67 | 14/— | 100 | 120 | 4 | 200+ | 96 | E shtrenjtë | MAD është për vagon. Hedhjet për Drejtim janë të Lehta. |
+| Tren, i Shpejtë | Drejtim | 19 | +5% | ±4 | 366 | 14/1 | 110 | 125 | 4 | 400+ | 72 | I çmuar | MAD është për vagon. Hedhjet për Drejtim janë të Lehta. |
+| Tren, Mag–Lev | Drejtim | 22 | +10% | ±4 | 534 | 12/2 | 120 | 100 | 2 | 400+ | 72 | I çmuar | MAD është për vagon. Hedhjet për Drejtim janë të Lehta. |
+
+##### Varkat & Anijet
+
+| Lloji | Aftësia | Vlerësuar | Drejtimi | ACC | MOV | Armatura | MAD | HP | Ekuipazhi | Pasagjerët | Ngarkesa | Vlera | Shënime |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| E vogël me rrema | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Mesatare | — |
+| E lashtë me rrema | Pilot | 2 | — | ±1 | 10 | 10/— | 84 | 42 | 50+ | 10+ | 64 | E shtrenjtë | — |
+| Vintage me vela | Pilot | 3 | –5% | ±1 | 15 | 10/— | 96 | 96 | 25+ | 8+ | 80 | E shtrenjtë | — |
+| Hovercraft | Pilot | 4 | –5% | ±2 | 42 | 10/— | 80 | 40 | 2 | 20+ | 48 | E shtrenjtë | — |
+| Varkë motorike | Pilot | 8 | — | ±2 | 83 | 6/— | 40 | 40 | 1 | 5+ | 24 | Mesatare | — |
+| Anije kruizer moderne | Pilot | 6 | –10% | ±2 | 67 | 10/— | 200 | 320 | 200+ | 2,000+ | 120 | I çmuar | — |
+| Luftanije moderne | Pilot | 10 | –10% | ±2 | 100 | 36/— | 240 | 480 | 600+ | 1,200+ | 200 | I kufizuar | — |
+| Transportues avionësh | Pilot | 8 | –25% | ±2 | 83 | 24/— | 640 | 600 | 1,000+ | 2,200+ | 320 | I kufizuar | — |
+| Nëndetëse | Pilot | 8 | — | ±4 | 83 | 16/— | 140 | 240 | 100+ | 24+ | 48 | I kufizuar | — |
+
+##### Mjetet Ajrore
+
+| Lloji | Aftësia | Vlerësuar | Drejtimi | ACC | MOV | Armatura | MAD | HP | Ekuipazhi | Pasagjerët | Ngarkesa | Vlera | Shënime |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| E vogël me rrema | Pilot | 2 | –5% | ±1 | 10 | 4/— | 18 | 20 | 1+ | 1 | 12 | Mesatare | — |
+| Dirigjibël | Pilot | 12 | — | ±2 | 134 | —/12 | 100 | 100 | 40+ | 72+ | 36 | I çmuar | Tullumbacja është e pablinduar; kabina është. |
+| Avion me helikë | Pilot | 15 | — | ±1 | 200 | 4/1 | 55 | 55 | 1–2 | 2+ | 12 | E shtrenjtë | — |
+| Bombardues | Pilot | 17 | –10% | ±1 | 334 | 6/2 | 105 | 105 | 6+ | 4+ | 48 | I kufizuar | — |
+| Avion reaktiv | Pilot | 30 | — | ±2 | 1084 | 8/3 | 110 | 110 | 1–2 | 48+ | 48 | I çmuar | — |
+| Avion luftarak reaktiv | Pilot | 33 | +10% | ±10 | 1334 | 6/2 | 80 | 80 | 1 | — | 2 | I kufizuar | — |
+| Helikopter | Pilot | 15 | — | ±10 | 200 | 4/2 | 48 | 48 | 1 | 3+ | 12 | I çmuar | — |
+| Skyskimmer | Pilot | 23 | +5% | ±10 | 584 | 8/4 | 72 | 72 | 1 | 5+ | 18 | E shtrenjtë | — |
+
+##### Mjetet Hapësinore
+
+| Lloji | Aftësia | Vlerësuar | Drejtimi | ACC | MOV | Armatura | MAD | HP | Ekuipazhi | Pasagjerët | Ngarkesa | Vlera | Shënime |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Raketë | Pilot | 70 | –10% | ±1 | 33K | 10/8 | 100 | 85 | 4+ | — | 8 | I çmuar | — |
+| Transportues | Pilot | 92 | — | ±10 | 50K | 24/18 | 120 | 180 | 2+ | 8+ | 48 | I çmuar | Shpejtësia është nën dritë; ka motor FTL. |
+| Luftarak hapësinor | Pilot | 100 | +10% | ±20 | 65K | 18/12 | 50 | 150 | 1+ | 1 | 6 | I kufizuar | Shpejtësia është nën dritë; ka motor FTL. |
+| Ngarkese | Pilot | 90 | — | ±10 | 42K | 25 | 150 | 750 | 2+ | 4+ | 100 | E shtrenjtë | Shpejtësia është nën dritë; ka motor FTL. |
+
+## Pajisje të Tjera
+
+Ky seksion mbulon një shumëllojshmëri pajisjesh të tjera që personazhi juaj mund të përdorë dhe që nuk futen në kategoritë e mëparshme. Kjo listë është e paplotë, por duhet të ofrojë udhëzime të mjaftueshme që ju ose mjeshtri juaj i lojës të përcaktoni atributet përkatëse të shumicës së llojeve të tjera të pajisjeve.
+
+### Helme
+
+Rregullat për trajtimin e helmeve diskutohen te **Helmet**, dhe **Tabela e Shembujve të Helmeve** ofron një shumëllojshmëri helmesh shembull.
+
+> ##### Tabela e Shembujve të Helmeve
+> 
+> | Helm | Shpejtësia e Efektit | POT | Simptomat |
+> | :---- | :---- | :---- | :---- |
+> | Arsenik | ½ në 24 orë | 16 | Dhimbje djegëse, të vjella, diarre e dhunshme |
+> | Beladona | 2 orë në 2 ditë | 16 | Rrahje të shpejta të zemrës, shikim i dëmtuar, konvulsione. |
+> | Helmi i Merimangës së Vejushës së Zezë | 2–8 ditë | 7 | Të dridhura, djersitje, të përziera. |
+> | Helmi i Kobrës | 15–60 minuta | 16 | Konvulsione, dështim i frymëmarrjes. |
+> | Kurare | 1 raund luftimi | 25 | Paralizë muskulore, dështim i frymëmarrjes. |
+> | Cianid | 1–15 minuta | 20 | Marramendje, konvulsione, të fikët. |
+> | Helmi i Gjarprit me Zile | 15–60 minuta | 10 | Të vjella, spazma të dhunshme, shikim në ngjyrë të verdhë. |
+> | Helmi i Akrepit | 24–48 orë | 9 | Dhimbje intensive, dobësi, hemoragji. |
+> | Pilula gjumi | 10–30 minuta | 6 | Gjumë normal; çdo dozë shtesë rrit shansin e dështimit të frymëmarrjes me +5%. |
+> | Strikninë | 10–20 minuta | 20 | Kontraktime të dhunshme muskulore, asfiksi. |
+
+### Libra dhe Materiale të Printuara
+
+Kjo kategori mbulon një shumëllojshmëri të gjerë materialesh leximi, duke filluar nga gazetat, stripet, dorëshkrimet, librat me kapakë të butë, grimuarët ose librat. Për lehtësi, ato quhen libra. Librat mund të jenë për argëtim ose për qëllime informuese. Këtu trajtohet vetëm lloji i fundit. Librat mund të kenë pothuajse çdo vlerë, nga të lira në të paçmuara, në varësi të tematikës, datës së publikimit, autorit, rrallësisë ose rrethanave të tjera.
+
+Kur një libër kërkohet ose haset, mjeshtri juaj i lojës duhet të përcaktojë sa vijon:
+
+* **Gjuha:** Nëse libri është shkruar në një gjuhë tjetër përveç gjuhës amtare të personazhit tuaj, ata duhet ta përkthejnë librin ose të bëjnë hedhje për Aftësinë Gjuhë siç është e përshtatshme (ose Shkrim-Lexim, nëse përdoret ajo aftësi).
+
+* **Aftësia:** A mund të mësojë personazhi juaj të përmirësojë një aftësi me këtë libër? Në përgjithësi, një libër përmban një aftësi të vetme, megjithëse vëllime të rralla dhe të çmuara mund të përfshijnë më shumë se një temë.
+
+* **Shpërblimi:** Çfarë bonusi për një aftësi mund të fitohet duke lexuar librin? Kjo është zakonisht një sasi nga 1% për diçka të shkurtër ose kryesisht të mbushur me materiale jo-thelbësore, deri në 20% për një vëllim gjithëpërfshirës që shërben si autoriteti përfundimtar mbi temën. Në përgjithësi, një sasi midis +1% dhe +10% është e përshtatshme. Nëse mund të mësohet më shumë se një aftësi nga libri, mjeshtri juaj i lojës duhet të përcaktojë dy vlerësime, edhe nëse ato janë identike.
+
+* **Koha për të Lexuar:** Sa kohë duhet për të lexuar librin? Kjo përfaqëson një shqyrtim të plotë të tekstit të librit dhe një përpjekje për ta kuptuar atë në kontekst. Kjo mund të përfshijë lexim shtesë mbështetës, kërkime ose analiza për të rritur të kuptuarit dhe për të zotëruar materialin.
+
+* **Fuqitë:** Disa libra të rrallë përmbajnë magji ose shortari, thirrje ndaj demonëve ose qenieve të tjera mbinatyrore, ose ndonjë mënyrë tjetër për të mësuar një fuqi. Mjeshtri juaj i lojës duhet të përcaktojë nëse libri ka ndonjë nga këto, cilat janë ato dhe sa mund të mësohet (siç është një nivel ose kufi përqindjeje, nëse është e përshtatshme). Në disa vepra, emri aktual i fuqisë mund të jetë i errët ose qëllimisht i paqartë, për të mbrojtur përmbajtjen nga fillestari. Referojuni udhëzimeve në fuqitë e magjisë dhe shortarisë për mësimin e magjive. Libri mund të mos ketë magji, por mund të përfshijë emrin e vërtetë të një demoni, elementari apo edhe të një perëndie.### Llojet e Librave
+
+Më poshtë është një larmi llojesh librash dhe mënyra se si mund të përdoren gjatë lojës:
+
+* **Libra Udhëzues:** Një libër i destinuar për të mësuar një lëndë ose aftësi të caktuar, i organizuar dhe shkruar me atë qëllim. Supozohet se kur personazhi juaj po stërvitet vetë, librat udhëzues përdoren si referenca. Librat udhëzues, kur lexohen me sukses, sigurojnë një kontroll përvoje (shih **Kërkimi për Rritjen e Aftësive**), megjithëse mjeshtri juaj i lojës mund të japë një rritje të paracaktuar të aftësisë.
+
+* **Libra të Diturisë:** Një libër diturie përmban njohuri të specializuara të llojit jo-shkencor, qoftë okulte, folklorike apo ndonjë fushë tjetër "e butë". Këta ndryshojnë jashtëzakonisht shumë në strukturë, por shpesh japin një përshtypje të një fushe specifike njohurish nga këndvështrimi i autorit, qoftë një përmbledhje shkencore apo ditarët privatë të një të çmenduri. Leximi i një libri diturie zakonisht i lejon lexuesit të rrisë aftësinë(t) rreth së cilës është përqendruar libri. Këta janë të ngjashëm me librat udhëzues, megjithëse leximi me sukses i një libri diturie jep një rritje automatike të vlerësimit të aftësisë. Mjeshtri juaj i lojës mund të përcaktojë se librat që përmbajnë njohuri djallëzore ose të tmerrshme shkaktojnë humbje automatike të pikëve të shëndetit mendor pa pasur nevojë për një hedhje zari për ta parandaluar humbjen. Për librat që rrisin një aftësi të Njohurive dhe kushtojnë pikë shëndeti mendor, mjeshtri juaj i lojës duhet të vendosë një kufi për SAN-in maksimal bazuar në totalin prej 99 minus vlerësimin e aftësisë në atë aftësi, siç përshkruhet në përshkrimin e aftësisë Njohuri Profane dhe Shëndeti Mendor Maksimal.
+
+* **Libra Referimi:** Një libër referimi mund të jetë një fjalor, enciklopedi ose një referencë tjetër në format letre, elektronik ose ndonjë format tjetër. Dallimi kryesor midis një libri referimi dhe një lloji tjetër libri është se nuk ka asnjë përpjekje për ta kontekstualizuar informacionin—përkundrazi, ai paraqitet në një format jo-hierarkik, me të gjithë informacionin në të njëjtin nivel. Është sfiduese të mësosh nga një vepër referimi pa një kornizë referimi ose kontekst për temën e saj, por leximi i një vepre referimi është një mjet i shkëlqyer për të shtuar një aftësi tjetër të Njohurive. Nëse një libër referimi po përdoret për të kërkuar një aftësi për përmirësimin e saj, kërkohet një hedhje zari e suksesshme për të lexuar librin, pastaj vetë aftësia që po studiohet. Koha e nevojshme për të hulumtuar një aftësi përmes një libri referimi është dyfishi i asaj të një libri udhëzues. Hedhjet e suksesshme të zarit të aftësive të bëra për të hulumtuar ose rritur një aftësi nuk fitojnë një kontroll shtesë përvoje.
+
+* **Libra Magjish:** Të referuar gjithashtu si grimuarë, këta janë libra, rrotulla, pllaka, lëkura, gurë të shkruar, litarë të lidhur ose mjete të tjera që përdoren për të përcjellë informacionin e nevojshëm për një magjistar ose shtrigan për të mësuar magji ose për të ruajtur magjitë që ata tashmë dinë, ose që përmbajnë informacione sekrete rreth qenieve magjike ose demonëve. Këta libra magjish përshkruhen në fuqitë e magjisë dhe shtrigërisë në Kapitullin Katër: Fuqitë.
+
+### Përdorimi i një Libri
+
+Për të përdorur një libër, personazhi juaj duhet të jetë në gjendje ta lexojë ose ta kuptojë atë nëse nuk është i shkruar. Kjo mund të kërkojë aftësinë fakultative të Lexim-Shkrimit, nëse përdoret, ose një hedhje zari të suksesshme të Gjuhës për gjuhën(-ët) në të cilën është shkruar libri. Përndryshe, shpesh mund të sigurohet një përkthim, megjithëse kjo është e kushtueshme nëse duhet të bëhet me porosi. Mjeshtri juaj i lojës duhet të përcaktojë se sa do të kushtonte kjo, duke përdorur udhëzimet për mësuesit të dhëna në Trajnimin e Aftësive. Kur studimi i librit përfundon, personazhi juaj fiton pikët përkatëse të aftësisë, nëse ka të tilla.
+
+### Librat si Objekte
+
+Karakteristikat fizike të librave janë zakonisht më pak mbresëlënëse se përmbajtja. Shumica e librave kanë MAD 0, 1 ose 2, dhe pikët e goditjes të një libri janë të barabarta me MAD-in e tij. Në varësi të asaj se nga çfarë është bërë, një libër zakonisht ka një vlerë armatimi prej 0 (libër me kapak të butë) deri në 4 pikë armatimi (kurbim i rëndë prej lëkure dhe kapakë). Një libër veçanërisht i vjetër mund të jetë edhe i lidhur me hekur (vlerë armatimi 6+). Nëse libri nuk ka ndonjë masë shtesë mbrojtjeje ose nuk është ndërtuar në mënyrë të qëndrueshme, ai mund të reduktohet në copa ose të shkatërrohet nga zjarri në aq raunde luftimi sa ka pikë goditjeje. Nëse libri është një rrotull, pajisje leximi elektronike, ekran mësimor holografik ose kompjuter, mjeshtri juaj i lojës duhet të përcaktojë MAD-in dhe pikët e tij të goditjes bazuar në shembujt e artikujve në këtë kapitull.
+
+### Pajisjet Mjekësore
+
+Dëmtimi fizik është një kërcënim i vazhdueshëm për personazhin tuaj dhe ekzistojnë shumë pajisje për të ndihmuar në trajtimin e lëndimeve dhe sëmundjeve. Pajisjet mjekësore të mëposhtme janë renditur sipas kompleksitetit relativ, nga ato më primitive tek ato futuriste. Çdo koleksion i tillë pajisjesh përkufizohet si një **komplet**, një asortiment mjetesh dhe materialesh të përdorura për një qëllim specifik. Mjeshtri juaj i lojës mund të përcaktojë nëse një komplet i caktuar është i cilësisë së dobët, mesatare ose superiore, me modifikuesit përkatës për përdorimin e aftësisë.
+
+* **Kompleti i Herbalistit ose Mamisë:** I përdorur nga shamanët, mjekët, mamitë dhe shëruesit, ky është një asortiment pëlhurash për fasha, kompresa, fill dhe një gjilpërë të mprehtë (kockë ose metal), si dhe disa sende të tjera të çuditshme, duke përfshirë mjete bimore të niveleve të ndryshme të efikasitetit. Një komplet i tillë është i lirë në shumicën e mjediseve dhe shpesh mblidhet nga pronari duke përdorur aftësinë Njohuri (Herbalizëm).
+
+* **Kompleti i Ndihmës së Shpejtë:** Një komplet standard i ndihmës së shpejtë përfshin ekuivalentët e përshtatshëm për mjedisin: fasha të pastra (ose sterile), doreza gome, pomada të lehta, pilula për sëmundje ose infeksione të lehta, locion për sy, trajtim kundër helmit ose kafshimeve helmuese dhe mjete të vogla si piskatore, gërshërë ose madje një bisturi të vogël. Kompletet më të mëdha kanë një shumëllojshmëri më të madhe të mjeteve të mësipërme, ilaçe të ndryshme dhe mund të vijnë me një manual të vogël të ndihmës së shpejtë. Një komplet i ndihmës së shpejtë përdoret me aftësinë Ndihma e Shpejtë dhe zakonisht është i lirë.
+
+* **Çanta e Doktorit:** Një çantë tradicionale doktori përfshin një asortiment pilulash dhe antibiotikësh të përshtatshëm për mjedisin, një stetoskop, dritë, një bllok recetash dhe mjete të ndryshme mjekësore për diagnozën në vend dhe trajtimin mjekësor urgjent. Çanta e doktorit përdoret me aftësinë Ndihma e Shpejtë, por mund të përdoret për hedhjet e zarit të aftësisë Mjekësi, në varësi të procedurës. Një çantë doktori është e shtrenjtë.
+
+* **Kompleti i Kirurgjisë:** Një grup mjetesh kirurgjikale të paketuara dhe sterile, gati për përdorim. Ky përmban disa doreza gome, fasho, antiseptikë, penj për qepje, etj., dhe është thelbësor për çdo kirurgji të përfshirë ose përdorim të aftësisë Mjekësi që kërkon operacion. Çdo spital duhet të ketë shumë kopje të gjithçkaje që përmban një komplet kirurgjie. Një komplet kirurgjie është i shtrenjtë.
+
+* **Kompleti i Traumës:** Një koleksion i specializuar i furnizimeve mjekësore për të trajtuar traumat e menjëhershme. Shpesh i destinuar për përdorim në fushën e betejës, një komplet traume ka furnizime të tilla si injeksione adrenaline, antitoksina, mjete të tjera për t'u mbrojtur nga agjentët kimikë, furnizime mjekësore urgjente për të trajtuar menjëherë plagët e mëdha dhe të hapura, një defibrilator portativ dhe një grup të kufizuar mjetesh kirurgjikale. Një komplet traume është i shtrenjtë.
+
+* **Medi-komplet:** Një grup pajisjesh shumë të avancuara, i cili përfshin rigjenerues dermalë, injeksione me presion (hypo-sprays), agjentë të mpiksjes së menjëhershme të gjakut, një skaner të thjeshtë mjekësor, antitoksina dhe antidota universale, injeksione stimuluese, sprej për lëkurë sintetike, allçi me sprej dhe forma të tjera të mbylljes së menjëhershme të plagëve. Zakonisht një medi-komplet ka një kompjuter ose lexues të vogël mjekësor të aftë për të përshkruar mijëra trajtime dhe për të diagnostikuar lëndime të thjeshta. Përdorimi i një medi-kompleti i bën të gjitha përpjekjet e Ndihmës së Shpejtë të Lehta dhe dyfishon numrin e pikëve të goditjes që shëron një hedhje e suksesshme e zarit të Ndihmës së Shpejtë. Nëse është i disponueshëm në mjedisin tuaj, një medi-komplet është i shtrenjtë.
+
+* **Auto-doc:** Një sistem trajtimi mjekësor plotësisht i automatizuar, i kompletuar me aftësi komplekse diagnostikuese, i aftë për të njohur dhe zbatuar trajtimin për pothuajse çdo gjendje mjekësore të njohur. Auto-doc-ët mund të përfshijnë komponentë robotikë të aftë për të manovruar pacientët, ose mund të jenë të madhësisë së një dhome, duke nxjerrë gjymtyrë dhe manipulatorë të tjerë për të ndërvepruar me pacientin në një shtrat qendror. Një auto-doc ka 100% aftësi në Mjekësi dhe Ndihmë të Shpejtë, dhe një hedhje e suksesshme e zarit rikthen dyfishin e numrit të pikëve të goditjes tek pacienti, me kohët e rikuperimit të përgjysmuara. Një auto-doc është i shtrenjtë ose i paçmueshëm, ndërsa trajtimi në të varion nga falas deri në të paçmueshëm.
+
+### Pajisje të Tjera
+
+Më poshtë janë lloje të tjera pajisjesh të dobishme që personazhi juaj mund të dëshirojë t'i përdorë. **Aftësitë dhe Pajisjet** përmbajnë më shumë detaje mbi pajisjet e kërkuara për ose që ndihmojnë në përdorimin e aftësive.
+
+* **Kompleti i Kimisë:** Një përzgjedhje e gjerë e pjesëve të vogla të kimikateve dhe substancave, me një mikroskop dhe mjete për përzierjen dhe ruajtjen e përbërjeve. Zakonisht është vetëm një mjet edukativ, por mund të përdoret me aftësinë Shkencë (Kimi) për detyra bazë. I lirë dhe lehtësisht i disponueshëm për studentët ose këdo tjetër të interesuar.
+
+* **Kompjuterët:** Në varësi të mjedisit, një kompjuter është ose një mjet i thjeshtë (rikujton informacionin kur kërkohet dhe kryen komanda të thjeshta) ose kompleks (që posedon inteligjencë artificiale ose një përafrim të ndërgjegjes) që mund të përdoret së bashku me aftësi të tjera si Vlerësim, Art, Lojëra, Njohuri, Shkencë, Mësimdhënie dhe veçanërisht Hulumtim. Çdo aftësi që përfiton nga një bazë e gjerë dhe e kërkueshme njohurish ose komunikim pothuajse i menjëhershëm me të tjerët në fushë mund të përfitojë nga përdorimi i një kompjuteri. Programet e përfshira ose të aksesueshme dhe lehtësia relative e përdorimit lejojnë një bonus deri në +20% nëse kompjuteri është i përshtatshëm për aftësinë që po përdoret; një konfigurim mesatar kompjuteri nuk ofron asnjë bonus; dhe një konfigurim inferior ose joefikas mund të penalizojë një aftësi deri në –20%. Nëse ju dhe mjeshtri juaj i lojës dëshironi që kompjuteri të ketë më shumë aftësi se një kompjuter i përshtatshëm për periudhën, krijojeni atë si një pajisje super-fuqish me ZGJ.
+
+* **Kompleti i Kriminologjisë.** I përdorur nga laboratorët e mjekësisë ligjore dhe detektivët, një komplet kriminologjie përmban metoda të zbulimit të gjurmëve të gishtërinjve, pajisje matëse, doreza gome, çanta dhe shishe për ruajtjen e provave, lupa, kimikate dhe sprejë të përshtatshëm, mjete të vogla, drita ultravjollcë dhe elektrikë dore normalë, si dhe mjete të tjera për zbulimin e gjurmëve të aktivitetit kriminal. Një komplet kriminologjie është i shtrenjtë.
+
+* **Kompleti i Maskimit.** Një koleksion bojërash dhe ngjyrash për lëkurën, grim dhe mjete të tjera për të ndryshuar pamjen e dikujt, një komplet maskimi zakonisht montohet nga përdoruesi për të qenë sa më efikas për tiparet e tij fizike dhe/ose gjininë. Një komplet maskimi mund të përfshijë paruke, dhëmbë false, qime false për fytyrën, bojëra flokësh dhe mjete të tjera stilimi, gërshërë, një pasqyrë, lente kontakti false ose syze, madje edhe pjesë gardërobe. Kompletet më të sofistikuara mund të përfshijnë proteza për të ndryshuar tiparet e fytyrës. Një komplet maskimi mund të jetë gjithashtu me përdorim të përgjithshëm, por një komplet i tillë zakonisht nuk është aq efektiv. Një i tillë mund të montohet nga artikujt e disponueshëm komercialisht për një kosto të ulët deri mesatare, ose një me cilësi të lartë mund të jetë i shtrenjtë.
+
+* **Komplete, të Ndryshme:** Siç përshkruhet në **Aftësitë dhe Pajisjet**, pothuajse çdo lloj aftësie Zejtari mund të ketë një komplet ose grup mjetesh që ndihmojnë në përdorimin e saj. Vlera dhe dobia e tyre duhet të përcaktohen nga mjeshtri juaj i lojës bazuar në mjedis.
+
+* **Vegla për Kyçe (Lockpicks):** Këto mund të variojnë nga disa vegla të thjeshta deri në një grup më të sofistikuar me stetoskop, stërvitje dhe një shumëllojshmëri mjetesh dhe instrumentesh për hapjen e kyçeve më komplekse dhe sfiduese. Këto mund të variojnë nga të lira në të shtrenjta.
+
+* **Stabilizues:** Një aksesor për armë zjarri që shton qëndrueshmërinë e armës përmes kompensimit të zmbrapsjes, thithjes së goditjeve, etj. Këto mund të shtojnë +5% ose më shumë në të shtënat pasuese pas të parës në një raund.
+
+* **Shtypës (Suppressors) dhe Silenciatorë.** Një silenciator është një tub i gjatë i mbushur me mure ndarëse, i lidhur me tytën e një arme zjarri, i cili mbyt zhurmën e të shtënave. Kjo ngadalëson shpejtësinë e predhës, duke përgjysmuar rrezen e saj bazë. Një silenciator zakonisht bëhet me porosi për një lloj specifik arme zjarri dhe zakonisht konsumohet pasi të jenë shkrepur D100+10 të shtëna përmes tij. Një silenciator nuk mund të lidhet me një çifte ose një mitraloz të rëndë, por mund të përdoret për një mitraloz të lehtë ose të mesëm. Në shumicën e mjediseve ku ekzistojnë, silenciatorët janë të shtrenjtë dhe të kufizuar.
+
+* **Dylbi Teleskopike dhe Shënjestra me Laser.** Këto lidhen me një armë zjarri ose armë energjetike dhe i lejojnë personazhit tuaj të dyfishojë në mënyrë efektive rrezen bazë. Shënjestrat me laser katërfishojnë rrezen bazë. Kur kombinohen me **Sulme të Shënjestruara**, secila mund të jetë mjaft efektive. Këto janë të një vlere mesatare, megjithëse dylbitë precize mund të jenë më të shtrenjta.
+
+### Mecha
+
+Një mecha (ndonjëherë i shkurtuar në ‘mech’) është në thelb një kostum tepër i madh armatimi të fuqizuar, i pilotuar nga një ose më shumë personazhe, zakonisht në formë njerëzore ose me ndonjë strukturë bipede, popullor në mjediset e trillimeve shkencore. Shembulli i mecha-s i paraqitur më poshtë është ndërtuar duke përdorur udhëzimet për pajisjet super-fuqish.
+
+> #### Model D142 Mobile Exoframe, i njohur si ‘Skyhammer’
+> 
+> **Vlera:** E paçmueshme
+> 
+> Skyhammer është një mecha rëndësisht e blinduar, në formë njerëzore me një trung të zgjatur që shërben si kabinë, ku strehohet piloti. Koka e tij është një grup pajisjesh shqisore dhe gjymtyrët e tij janë funksionale. Nga ‘kërthiza’ e tij del një top i madh laserik mbi të cilin ulet piloti.
+> 
+> **FOR** 100 **QEN** 50 **MAD** 50
+> 
+> **Pikë Goditjeje:** 50 **Plagë e Rëndë**: 25 **Pikë Fuqie:** 110
+> 
+> **Modifikues i Dëmtimit:** +8D6 **LËVIZ:** 15
+> 
+> **Armatim:** 30 pikë shtresë lidhëse (shih më poshtë)
+> 
+> **Armët:** Top Laserik (përdor % e aftësisë Projeksion të pilotit), rreze 75 metra, 5D6 dëmtim; Grushta Çekiç (përdor % e aftësisë Përleshje të pilotit), 1D3+8D6 dëmtim
+> 
+> **Aftësi:** Manipulim i Imët 45%, Kërcim 65%, Dëgjim 65%, Navigim 70%, Pilotim (vetë-autopilot) 41%, Riparim (diagnostikim i brendshëm dhe riparim) 55%, Vështrim 65%, Gjurmim 30%, Fluturim 100%.
+> 
+> **Fuqi:** Përshtatje 6 (i ftohtë, i nxehtë, presion i lartë, rrezatim, vakum; kosto = 15 pikë); Armatim 30 (elektrik 30, kinetik 30, rrezatim 30; kosto = 90 pikë); Projeksion Energjie 5 (dritë; kosto = 50 pikë); Energji Shtesë 11 (+110 pikë fuqie; kosto = 11 pikë); Fluturim 17 (kosto = 17 pikë); Super Karakteristika 200 (FOR, QEN, MAD; kosto = 200 pikë); Super Shqisa 5 (Dëgjim 5, Vështrim 5, Vështrim në Errësirë 5, Vështrim Infra-të kuq 5, Zbulim me Sonar 5; kosto = 75 pikë); Super Aftësi (Manipulim i Imët 2, Kërcim 2, Dëgjim 2, Navigim 3, Pilotim 2, Riparim 2, Vështrim 2, Gjurmim 1, Fluturim 5; kosto = 42 pikë).
+> 
+>**Kosto Totale e Buxhetit të Fuqisë** = 500 pikë.
+
+## Cilësitë e Përgjithshme të Objekteve
+
+Përveç armëve, armatimit, mburojave, armëve të rrethimit, automjeteve, librave, kompleteve, etj., çdo objekt tjetër material mund të përshkruhet si një objekt. Kjo është një kategori që mbulon telefonat ose shtyllat telefonike, shtëpitë ose kështjellat, stilolapsat ose Kullën Eifel. Në përgjithësi, e vetmja arsye për të dhënë një atribut për një objekt është kur ai po përdoret kundër personazhit tuaj, personazhi juaj po e përdor atë kundër një personazhi tjetër, personazhi juaj po përpiqet ta shkatërrojë atë, ose është në rrugë (dhe potencialisht dëm kolateral).
+
+### Dëmtimi i Objekteve të Inanimate
+
+Objektet e pajetë si dyert, karriget dhe muret ka gjasa të pengojnë një sulm të humbur, ose mund të kenë nevojë të rrëzohen ose të shpërthehen. Mjeshtri juaj i lojës duhet të konsultojë vlerat MAD për artikujt e mostrës dhe të përdorë MAD-in si pikë goditjeje të një objekti, duke caktuar një vlerë armatimi bazuar në ekuivalentin e tij (shih **Mbrojtja e Armatimit**). Nëse dëmi tejkalon vlerën e armatimit të objektit, atëherë pikët e goditjes reduktohen nga dëmi i mbetur dhe ai numër pikësh dëmtimi redukton vlerën e armatimit të tij (duke përfaqësuar se sa më pak është në gjendje të përballojë dëmtimin pasi është dëmtuar). Nëse një objekt është më i vogël se madhësia njerëzore (si një karrige), ai shkatërrohet totalisht nëse reduktohet në 0 pikë goditjeje. Nëse është më i madh se madhësia njerëzore (si një mur druri) dhe një seksion reduktohet në 0 pikë goditjeje; ai ka një vrimë të madhësisë njerëzore në të.
+
+> ### Vlera e Armatimit të Substancave
+> 
+> Vlera e armatimit përfaqëson sasinë e dëmit të zbritur nga një sulm i suksesshëm. Sa më e lartë të jetë vlera e armatimit të një objekti, aq më pak ka gjasa që ai të dëmtohet. Duke përdorur vlerat për pajisje të tjera ose më poshtë, mjeshtri juaj i lojës duhet të jetë në gjendje të ekstrapolojë vlera shtesë të armatimit ose t'i vlerësojë ato bazuar në ekuivalenca të përafërta. Më poshtë janë vlerat e armatimit të substancave të ndryshme:
+> 
+> | Lloji i Substancës | Vlera e Armatimit |
+> | :---- | :---- |
+> | 1 cm xham | 1 |
+> | Derë 5 cm e trashë | 3 |
+> | 3 cm dru i fortë | 6 |
+> | 12 cm beton | 9 |
+> | 3 cm xham anti-plumb | 22 |
+> | 3 cm pllakë çeliku | 28 |
+> | Saco rëre e madhe | 20 |
+> 
+> Vlerat natyrore të armatimit si ato më lart nuk humbasin dhe nuk përkeqësohen përmes sulmeve të shumta, përveçse përmes ndonjë mjeti mjedisor ose një përpjekjeje specifike për të reduktuar vlerën e armatimit të një objekti.
+> 
+> **Për shembull,** personazhi juaj godet një dritare prej xhami anti-plumb vazhdimisht me një vare, duke shënjestruar të njëjtin vend në një përpjekje për të shkaktuar mjaft krisje për të thyer atë. Mjeshtri juaj i lojës vendos ta përfaqësojë këtë duke reduktuar vlerën e armatimit me 1 me çdo goditje të suksesshme dhe duke hedhur zarin për dëmin. Kur hedhja e dëmit kapërcen vlerën e armatimit që reduktohet vazhdimisht, dritarja shpërthen.
+> 
+> Një udhëzim i thjeshtë për shkatërrimin e objekteve është se një objekt mesatar ka pikë goditjeje afërsisht të barabarta me MAD-in e tij, dhe pasi armatimi të kalohet dhe këto pikë goditjeje të humbasin, objekti është jo-funksional dhe i shkatërruar, ose të paktën i reduktuar në një gjendje ku nuk ka ndonjë përdorim të dukshëm.
+
+### MAD i Objekteve të Përbashkëta
+
+Pranë është një listë e madhësive të mostrës së objekteve të ndryshme. ‘I Plotë’ përfaqëson madhësinë e tërë të objektit ashtu siç përdoret për ngritje ose përcaktimin e pikëve të tij të goditjes, dhe ‘Segment’ përfaqëson një pjesë të madhësisë njerëzore të objektit, për qëllime të thyerjes ose shkatërrimit të një seksioni për kalim. Nëse dëmi i bërë ndaj një objekti nuk tejkalon MAD-in e segmentit të objektit, mund të jetë thyer një vrimë në madhësinë dhe formën e sulmit, sipas rastit. Siç u përmend më lart, një objekt mesatar supozohet se ka pikë goditjeje të barabarta me MAD-in e tij.### Përmasat Krahasuese
+
+Kjo tabelë barazon peshën e përafërt me MAD-in e lojës. Në Basic Roleplaying, MAD nuk i përket vetëm peshës, por edhe vëllimit dhe lartësisë. Kjo tabelë nuk është e saktë apo kufizuese: duhet të përdorni gjykimin tuaj kur caktoni MAD-in dhe peshën bazuar në përbërjen e objektit ose krijesës. Nga MAD 330 e tutje, MAD është afërsisht 1/10 e peshës së objektit ose krijesës në tonë të shkurtra.
+
+**Për shembull**, një kraken me MAD 8,000 peshon 80,000 tonë të shkurtra.
+
+| MAD | Pesha Perandorake | Pesha Metrike |
+| :---- | :---- | :---- |
+| 1 | 1–12 paund | 0.5–5.4 kilogramë |
+| 4 | 38–51 paund | 17–23 kilogramë |
+| 8 | 109–120 paund | 49–54 kilogramë |
+| 12 | 156–168 paund | 71–76 kilogramë |
+| 16 | 220–239 paund | 100–108 kilogramë |
+| 20 | 310–338 paund | 141–153 kilogramë |
+| 24 | 440–479 paund | 200–217 kilogramë |
+| 32 | 880–959 paund | 499–435 kilogramë |
+| 40 | 1760–1919 paund | 798–870 kilogramë |
+| 48 | 3520–3829 paund | 1,597–1,737 kilogramë |
+| 56 | 7040–7649 paund | 3,193–3,470 kilogramë |
+| 64 | 7.1–7.7 tonë | 6,441–6,985 kilogramë |
+| 72 | 14.1–15.4 tonë | 12.8–14 tonë metrikë |
+| 80 | 28.2–30.7 tonë | 25.6–27.9 tonë metrikë |
+| 88 | 56.5–61.5 tonë | 51.3–55.8 tonë metrikë |
+| 96 | 96 tonë | 87 tonë metrikë |
+| 104 | 104 tonë | 94 tonë metrikë |
+| 112 | 120 tonë | 109 tonë metrikë |
+| 120 | 144 tonë | 131 tonë metrikë |
+| 128 | 176 tonë | 160 tonë metrikë |
+| 136 | 216 tonë | 196 tonë metrikë |
+| 140 | 240 tonë | 218 tonë metrikë |
+| 144 | 264 tonë | 239 tonë metrikë |
+| 152 | 320 tonë | 290 tonë metrikë |
+| 160 | 384 tonë | 348 tonë metrikë |
+| 168 | 456 tonë | 414 tonë metrikë |
+| 176 | 536 tonë | 486 tonë metrikë |
+| 184 | 624 tonë | 566 tonë metrikë |
+| 192 | 720 tonë | 653 tonë metrikë |
+| 200 | 824 tonë | 748 tonë metrikë |
+| 208 | 936 tonë | 849 tonë metrikë |
+| 216 | 1,056 tonë | 958 tonë metrikë |
+| 224 | 1,184 tonë | 1,074 tonë metrikë |
+| 232 | 1,220 tonë | 1,107 tonë metrikë |
+| 240 | 1,364 tonë | 1,237 tonë metrikë |
+| 256 | 1,516 tonë | 1,375 tonë metrikë |
+| 264 | 1,676 tonë | 1,520 tonë metrikë |
+| 272 | 1,844 tonë | 1,673 tonë metrikë |
+| 280 | 2,020 tonë | 1,833 tonë metrikë |
+| 288 | 2,204 tonë | 1,999 tonë metrikë |
+| 294 | 2,396 tonë | 2,174 tonë metrikë |
+| 304 | 2,596 tonë | 2,355 tonë metrikë |
+| 312 | 2,804 tonë | 2,544 tonë metrikë |
+| 320 | 3,020 tonë | 2,740 tonë metrikë |
+| 330 | 3,300 tonë | 2,994 tonë metrikë |
+| 340 | 3,400 tonë | 3,084 tonë metrikë |
+| 350 | 3,500 tonë | 3,175 tonë metrikë |
+
+> ##### Shembuj të MAD-it të Objekteve
+> 
+> | Objekti | MAD i Plotë | MAD i Segmentit |
+> | :---- | :---- | :---- |
+> | Dritare qelqi | 3 | 3 |
+> | Derë | 4–8 | 4–8 |
+> | Karrige | 4–9 | 4–9 |
+> | Tavolinë | 4–12 | 4–12 |
+> | Kapak pusi | 5 | 5 |
+> | Hidrant zjarrfikës | 5 | 5 |
+> | Bimë në vazo | 2–5 | 2–5 |
+> | Derë xhami | 8 | 8 |
+> | Tavolinë pune | 10–20 | 10–20 |
+> | Shtyllë llambe | 30 | 10 |
+> | Mur i brendshëm shtëpie | 25–35 | 8 |
+> | Mur i jashtëm shtëpie | 25–45 | 20 |
+> | Mur me tulla | 30–50 | 20 |
+> | Mur betoni | 30–50 | 20 |
+> | Mur betoni dhe çeliku | 35–55 | 25 |
+> | Mjet i vogël ajror | 40 | 10 |
+> | Automobil | 50 | 12 |
+> | Derë kasaforte | 60 | 20 |
+> | Mjet i mesëm tokësor | 60 | 12 |
+> | Tra çeliku | 65 | 30 |
+> | Mjet ajror, avion luftarak | 80 | 18 |
+> | Tank i mesëm | 80 | 30 |
+> | Lokomotivë | 100 | 20 |
+> | Mjet ajror, avion mallrash | 100 | 15 |
+> | Mjet ajror, bombardues | 105 | 15 |
+> | Mjet ajror, avion pasagjerësh | 110 | 15 |
