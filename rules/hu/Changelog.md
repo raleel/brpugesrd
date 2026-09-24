@@ -1,11 +1,11 @@
 # Változási napló
 
 ## V0.3.0
-*2023. okt. 26.*
+*2023. október 26.*
 
 ### Funkciók
 
-- Hozzáadva a Fontawesome bővítmény az ingyenes ikonokhoz
+- Hozzáadva a fontawesome bővítmény az ingyenes ikonokhoz
 - Hozzáadva a Material Icons bővítmény az ingyenes ikonokhoz
 
 ### Hibajavítások
@@ -14,13 +14,13 @@
 
 ---
 
-*2023. okt. 23.*
+*2023. október 23.*
 
 ### Funkciók
 
 - Hozzáadva a Flexible Alerts bővítmény
-- A Sample.md frissítve a Flexible Alerts új formázási lehetőségeivel
-- Útmutató hozzáadva a címsorok és az oldal betűtípusának módosításához a **Hogyan tovább** részben
+- A Sample.md frissítése a Flexible Alerts új formázási lehetőségeivel
+- Hozzáadva az útmutató a címsorok és az oldal betűtípusainak módosításához a **Hogyan tovább** részben
 
 ### Hibajavítások
 
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*2023. okt. 20.*
+*2023. október 20.*
 
 ### Funkciók
 
-- Hozzáadva a (8.) lépés az útmutatóhoz a ".nojekyll" fájl létrehozásának biztosításához.
+- Hozzáadva a (8)-as lépés az útmutatóhoz a ".nojekyll" fájl létrehozásának biztosítására.
 
 ### Hibajavítások
 
@@ -57,9 +57,9 @@
 
 ### Funkciók
 
-- Hozzáadva a világos/sötét mód közötti váltás funkciója (Innen: )
-- Fejlesztett navigáció: A hamburger menü áthelyezve a képernyő bal felső sarkába (a bal alsó sarokból)
-- Javított olvashatóság: Hozzáadva az Open Sans és Orbitron betűtípusok
+- Hozzáadva a Világos/Sötét mód váltásának lehetősége
+- Fejlesztett navigáció: A hamburger menü a képernyő bal felső sarkába került (a bal alsóból)
+- Jobb olvashatóság: Hozzáadva az Open Sans és Orbitron betűtípusok
 
 ### Hibajavítások
 

@@ -1,7 +1,7 @@
 # Registro de cambios
 
 ## V0.3.0
-*26 de octubre de 2023*
+*26 de octubre de 23*
 
 ### Características
 
@@ -14,12 +14,12 @@
 
 ---
 
-*23 de octubre de 2023*
+*23 de octubre de 23*
 
 ### Características
 
 - Se añadió el plugin Flexible Alerts
-- Se actualizó Sample.md con nuevas opciones de formato de Flexible Alerts
+- Actualización de Sample.md CON nuevas opciones de formato de Flexible Alerts
 - Se añadieron instrucciones para cambiar las fuentes de encabezado y sitio en **Cómo hacerlo**
 
 ### Corrección de errores
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*20 de octubre de 2023*
+*20 de octubre de 23*
 
 ### Características
 
-- Se añadió el paso (8) en las instrucciones para asegurar que se cree el archivo ".nojekyll".
+- Se añadió el paso (8) en las instrucciones para asegurar que el archivo ".nojekyll" sea creado.
 
 ### Corrección de errores
 
@@ -57,8 +57,8 @@
 
 ### Características
 
-- Se añadió la funcionalidad de alternar entre modo claro/oscuro
-- Navegación mejorada: El menú hamburguesa se movió a la parte superior izquierda de la pantalla (desde la parte inferior izquierda)
+- Se añadió funcionalidad de alternancia entre modo claro/oscuro
+- Navegación mejorada: El menú de hamburguesa se movió a la parte superior izquierda de la pantalla (desde la parte inferior izquierda)
 - Legibilidad mejorada: Se añadieron las fuentes Open Sans y Orbitron
 
 ### Corrección de errores

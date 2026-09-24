@@ -10,7 +10,7 @@
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funkcionalnosti
 
-- Dodana funkcionalnost preklopa med svetlim/temnim načinom (od )
-- Izboljšana navigacija: meni "hamburger" premaknjen v zgornji levi kot zaslona (prej spodnji levi)
+- Dodana funkcionalnost preklopa med svetlim/temnim načinom
+- Izboljšana navigacija: meni "hamburger" prestavljen zgoraj levo na zaslonu (prej spodaj levo)
 - Izboljšana berljivost: dodani pisavi Open Sans in Orbitron
 
 ### Popravki napak
 
-- N/A
+- Nič

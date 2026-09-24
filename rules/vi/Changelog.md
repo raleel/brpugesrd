@@ -1,35 +1,35 @@
 # Nhật ký thay đổi
 
 ## V0.3.0
-*Ngày 26 tháng 10 năm 2023*
+*26 tháng 10 năm 23*
 
 ### Tính năng
 
-- Đã thêm plugin fontawesome cho các biểu tượng miễn phí
-- Đã thêm plugin Material Icons cho các biểu tượng miễn phí
+- Thêm plugin fontawesome cho các biểu tượng miễn phí
+- Thêm plugin Material Icons cho các biểu tượng miễn phí
 
 ### Sửa lỗi
 
-- N/A
+- Không có
 
 ---
 
-*Ngày 23 tháng 10 năm 2023*
+*23 tháng 10 năm 23*
 
 ### Tính năng
 
-- Đã thêm Plugin Cảnh báo Linh hoạt (Flexible Alerts)
-- Cập nhật Sample.md với các tùy chọn định dạng mới từ Cảnh báo Linh hoạt
-- Đã thêm hướng dẫn thay đổi phông chữ Tiêu đề & Trang web trong phần **Hướng dẫn**
+- Đã thêm Plugin Flexible Alerts
+- Cập nhật Sample.md với các tùy chọn định dạng mới từ Flexible Alerts
+- Đã thêm hướng dẫn thay đổi cả phông chữ Tiêu đề & Trang web trong phần **Cách thực hiện**
 
 ### Sửa lỗi
 
-- N/A
+- Không có
 
 ---
 
 ## V0.1.2
-*Ngày 20 tháng 10 năm 2023*
+*20 tháng 10 năm 23*
 
 ### Tính năng
 
@@ -37,7 +37,7 @@
 
 ### Sửa lỗi
 
-- N/A
+- Không có
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Tính năng
 
-- Đã thêm "Hướng dẫn sử dụng"
+- Đã thêm "Hướng dẫn cách thực hiện"
 
 ### Sửa lỗi
 
-- N/A
+- Không có
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Tính năng
 
-- Đã thêm chức năng chuyển đổi chế độ Sáng/Tối (Từ )
-- Cải thiện Điều hướng: Biểu tượng menu (hamburger) đã được di chuyển lên góc trên bên trái màn hình (thay vì góc dưới bên trái)
+- Đã thêm chức năng chuyển đổi chế độ Sáng/Tối
+- Cải thiện Điều hướng: Nút menu chuyển lên trên cùng bên trái màn hình (từ dưới cùng bên trái)
 - Cải thiện khả năng đọc: Đã thêm Phông chữ Open Sans & Orbitron
 
 ### Sửa lỗi
 
-- N/A
+- Không có

@@ -10,7 +10,7 @@
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -19,12 +19,12 @@
 ### Funktsioonid
 
 - Lisatud Flexible Alerts pistikprogramm
-- Uuendatud Sample.md uute vormindusvalikutega Flexible Alerts pistikprogrammist
-- Lisatud juhised nii pealkirja kui ka saidi fontide muutmiseks jaotises **Kuidas teha**
+- Uuendatud Sample.md uute vormindamisvalikutega Flexible Alertsist
+- Lisatud juhised pealkirjade ja saidi fontide muutmiseks jaotises **Kuidas teha**
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### Funktsioonid
 
-- Lisatud juhiste punkt (8), et tagada ".nojekyll" faili loomine.
+- Lisatud juhiste samm (8), et tagada ".nojekyll" faili loomine.
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funktsioonid
 
-- Lisatud heleda/tumeda režiimi lüliti funktsionaalsus (allikast )
-- Täiustatud navigeerimine: Hamburger-menüü liigutatud ekraani vasakusse ülanurka (vasakust alanurgast)
-- Täiustatud loetavus: Lisatud Open Sans & Orbitron fondid
+- Lisatud heleda/tumeda režiimi vahetamise funktsionaalsus
+- Täiustatud navigeerimine: hamburger-menüü liigutatud ekraani vasakusse ülanurka (vasakust alanurgast)
+- Täiustatud loetavus: Lisatud Open Sans ja Orbitron fondid
 
 ### Veaparandused
 
-- N/A
+- Pole

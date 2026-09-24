@@ -20,7 +20,7 @@
 
 - Pridėtas „Flexible Alerts“ įskiepis
 - Atnaujintas „Sample.md“ su naujomis „Flexible Alerts“ formatavimo parinktimis
-- Pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus skiltyje **Kaip atlikti**
+- Pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus skyriuje **Kaip atlikti**
 
 ### Klaidų pataisymai
 
@@ -33,7 +33,7 @@
 
 ### Funkcijos
 
-- Pridėtas (8) žingsnis instrukcijose, užtikrinantis, kad būtų sukurtas „.nojekyll“ failas.
+- Instrukcijų (8) žingsnyje pridėta informacija apie tai, kaip užtikrinti, kad būtų sukurtas „.nojekyll“ failas.
 
 ### Klaidų pataisymai
 
@@ -57,8 +57,8 @@
 
 ### Funkcijos
 
-- Pridėtas šviesaus/tamsaus režimo perjungimo funkcionalumas
-- Patobulinta navigacija: „mėsainio“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
+- Pridėta šviesaus/tamsaus režimo perjungimo funkcija
+- Patobulinta navigacija: „Mėsainio“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
 - Patobulintas skaitomumas: pridėti „Open Sans“ ir „Orbitron“ šriftai
 
 ### Klaidų pataisymai

@@ -5,8 +5,8 @@
 
 ### Funkcionalnosti
 
-- Dodat fontawesome dodatak za besplatne ikonice
-- Dodat Material Icons dodatak za besplatne ikonice
+- Dodat fontawesome dodatak za besplatne ikone
+- Dodat Material Icons dodatak za besplatne ikone
 
 ### Ispravke bagova
 
@@ -18,9 +18,9 @@
 
 ### Funkcionalnosti
 
-- Dodat Flexible Alerts dodatak
-- Ažuriran Sample.md sa novim opcijama formatiranja iz Flexible Alerts
-- Dodata uputstva za promenu fontova naslova i sajta u **Kako da** (How To)
+- Dodat dodatak Flexible Alerts
+- Ažuriran Sample.md novim opcijama formatiranja iz Flexible Alerts
+- Dodata uputstva za promenu fontova naslova i sajta u odeljku **Kako uraditi**
 
 ### Ispravke bagova
 
@@ -33,7 +33,7 @@
 
 ### Funkcionalnosti
 
-- Dodat korak (8) u uputstvima za obezbeđivanje kreiranja ".nojekyll" fajla.
+- Dodat korak (8) u uputstvima za osiguravanje kreiranja fajla „.nojekyll“.
 
 ### Ispravke bagova
 
@@ -45,7 +45,7 @@
 
 ### Funkcionalnosti
 
-- Dodata "Kako da" uputstva
+- Dodata „Uputstva za rad“
 
 ### Ispravke bagova
 
@@ -57,8 +57,8 @@
 
 ### Funkcionalnosti
 
-- Dodata funkcionalnost prebacivanja Svetlog/Tamnog režima
-- Poboljšana navigacija: Hamburg (meni) ikonica pomerena u gornji levi ugao ekrana (sa donjeg levog)
+- Dodata funkcionalnost prebacivanja između svetlog/tamnog režima
+- Poboljšana navigacija: „hamburger“ meni pomeren u gornji levi ugao ekrana (sa donjeg levog)
 - Poboljšana čitljivost: Dodati Open Sans i Orbitron fontovi
 
 ### Ispravke bagova

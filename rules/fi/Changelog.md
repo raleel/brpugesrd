@@ -8,7 +8,7 @@
 - Lisätty fontawesome-liitännäinen ilmaisia kuvakkeita varten
 - Lisätty Material Icons -liitännäinen ilmaisia kuvakkeita varten
 
-### Virheenkorjaukset
+### Virhekorjaukset
 
 - Ei sovellettavissa
 
@@ -19,10 +19,10 @@
 ### Ominaisuudet
 
 - Lisätty Flexible Alerts -liitännäinen
-- Päivitetty Sample.md uusilla muotoiluasetuksilla Flexible Alerts -liitännäisestä
-- Lisätty ohjeet otsikko- ja sivustofonttien vaihtamiseen kohdassa **How To**
+- Päivitetty Sample.md uusilla muotoiluvalinnoilla Flexible Alertsista
+- Lisätty ohjeet otsikko- ja sivustofonttien vaihtamiseen kohdassa **How To** (Ohjeet)
 
-### Virheenkorjaukset
+### Virhekorjaukset
 
 - Ei sovellettavissa
 
@@ -33,9 +33,9 @@
 
 ### Ominaisuudet
 
-- Lisätty vaihe (8) ohjeisiin ".nojekyll"-tiedoston luomisen varmistamiseksi.
+- Lisätty vaihe (8) ohjeisiin, joilla varmistetaan ".nojekyll"-tiedoston luominen.
 
-### Virheenkorjaukset
+### Virhekorjaukset
 
 - Ei sovellettavissa
 
@@ -45,9 +45,9 @@
 
 ### Ominaisuudet
 
-- Lisätty "How To -ohjeet"
+- Lisätty "How To instructions" (Käyttöohjeet)
 
-### Virheenkorjaukset
+### Virhekorjaukset
 
 - Ei sovellettavissa
 
@@ -58,9 +58,9 @@
 ### Ominaisuudet
 
 - Lisätty vaalean/tumman tilan vaihtotoiminto
-- Parannettu navigointi: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (alavasemmalta)
-- Parannettu luettavuus: Lisätty Open Sans- ja Orbitron-fontit
+- Parannettu navigointia: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (alavasemmalta)
+- Parannettu luettavuutta: Lisätty Open Sans- ja Orbitron-fontit
 
-### Virheenkorjaukset
+### Virhekorjaukset
 
 - Ei sovellettavissa

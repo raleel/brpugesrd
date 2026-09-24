@@ -1,12 +1,12 @@
-# Dnevnik promjena (Changelog)
+# Dnevnik promjena
 
 ## V0.3.0
-*26. oktobar 2023.*
+*26. okt 23.*
 
 ### Funkcionalnosti
 
-- Dodat fontawesome dodatak za besplatne ikone
-- Dodat Material Icons dodatak za besplatne ikone
+- Dodat fontawesome dodatak za besplatne ikonice
+- Dodat Material Icons dodatak za besplatne ikonice
 
 ### Ispravke grešaka
 
@@ -14,13 +14,13 @@
 
 ---
 
-*23. oktobar 2023.*
+*23. okt 23.*
 
 ### Funkcionalnosti
 
-- Dodat dodatak Flexible Alerts
+- Dodat Flexible Alerts dodatak
 - Ažuriran Sample.md sa novim opcijama formatiranja iz Flexible Alerts
-- Dodata uputstva za promjenu fontova zaglavlja i stranice u **Kako da (How To)**
+- Dodata uputstva za promjenu fontova zaglavlja i stranice u **Kako da**
 
 ### Ispravke grešaka
 
@@ -29,7 +29,7 @@
 ---
 
 ## V0.1.2
-*20. oktobar 2023.*
+*20. okt 23.*
 
 ### Funkcionalnosti
 
@@ -45,7 +45,7 @@
 
 ### Funkcionalnosti
 
-- Dodata "Uputstva za rad (How To instructions)"
+- Dodata "Kako da" uputstva
 
 ### Ispravke grešaka
 
@@ -57,9 +57,9 @@
 
 ### Funkcionalnosti
 
-- Dodata funkcionalnost prebacivanja između svijetlog/tamnog moda
-- Poboljšana navigacija: "Hamburger" meni pomjeren u gornji lijevi ugao ekrana (sa donjeg lijevog ugla)
-- Poboljšana čitljivost: Dodati fontovi Open Sans i Orbitron
+- Dodata funkcija za prebacivanje između svijetlog/tamnog režima
+- Poboljšana navigacija: Hamburg meni pomjeren na gornji lijevi dio ekrana (sa donjeg lijevog)
+- Poboljšana čitljivost: Dodati Open Sans i Orbitron fontovi
 
 ### Ispravke grešaka
 

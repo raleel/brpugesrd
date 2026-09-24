@@ -5,12 +5,12 @@
 
 ### Funksjoner
 
-- La til fontawesome-utvidelse for gratis ikoner
-- La til Material Icons-utvidelse for gratis ikoner
+- La til fontawesome-programtillegg for gratisikoner
+- La til Material Icons-programtillegg for gratisikoner
 
 ### Feilrettinger
 
-- N/A
+- I/R
 
 ---
 
@@ -18,13 +18,13 @@
 
 ### Funksjoner
 
-- La til Flexible Alerts-utvidelse
+- La til programtillegget Flexible Alerts
 - Oppdaterte Sample.md med nye formateringsalternativer fra Flexible Alerts
-- La til instruksjoner for endring av både overskrifts- og nettstedsfonter i **Hvordan gjøre det**
+- La til instruksjoner for endring av både overskrifts- og nettstedskrifttyper i **Hvordan gjøre det**
 
 ### Feilrettinger
 
-- N/A
+- I/R
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### Funksjoner
 
-- La til steg (8) i instruksjonene for å sikre at ".nojekyll"-filen blir opprettet.
+- La til trinn (8) i instruksjonene for å sikre at filen ".nojekyll" blir opprettet.
 
 ### Feilrettinger
 
-- N/A
+- I/R
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Feilrettinger
 
-- N/A
+- I/R
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funksjoner
 
-- La til funksjonalitet for veksling mellom lys/mørk modus (Fra )
+- La til funksjonalitet for veksling mellom lys/mørk modus
 - Forbedret navigasjon: Hamburgermeny flyttet til øverst til venstre på skjermen (fra nederst til venstre)
-- Forbedret lesbarhet: La til fontene Open Sans og Orbitron
+- Forbedret lesbarhet: La til skrifttypene Open Sans og Orbitron
 
 ### Feilrettinger
 
-- N/A
+- I/R

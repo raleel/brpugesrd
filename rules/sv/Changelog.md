@@ -5,8 +5,8 @@
 
 ### Funktioner
 
-- Lade till fontawesome-plugin för gratisikoner
-- Lade till Material Icons-plugin för gratisikoner
+- Lade till fontawesome-insticksprogram för gratisikoner
+- Lade till Material Icons-insticksprogram för gratisikoner
 
 ### Buggfixar
 
@@ -18,9 +18,9 @@
 
 ### Funktioner
 
-- Lade till Flexible Alerts-plugin
+- Lade till Flexible Alerts-insticksprogram
 - Uppdaterade Sample.md med nya formateringsalternativ från Flexible Alerts
-- Lade till instruktioner för att ändra både rubrik- och webbplatstypsnitt i **How To**
+- Lade till instruktioner för att ändra både rubrik- och webbplatstypsnitt i **Instruktioner**
 
 ### Buggfixar
 
@@ -45,7 +45,7 @@
 
 ### Funktioner
 
-- Lade till "How To-instruktioner"
+- Lade till "Instruktioner"
 
 ### Buggfixar
 
@@ -57,7 +57,7 @@
 
 ### Funktioner
 
-- Lade till funktionalitet för att växla mellan ljust/mörkt läge (Från )
+- Lade till funktionalitet för att växla mellan ljust/mörkt läge
 - Förbättrad navigering: Hamburgermenyn flyttad till skärmens övre vänstra hörn (från nedre vänstra)
 - Förbättrad läsbarhet: Lade till typsnitten Open Sans & Orbitron
 

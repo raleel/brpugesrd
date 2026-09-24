@@ -1,43 +1,43 @@
 # Breytingaskrá
 
 ## V0.3.0
-*26. okt. 23*
+*26. október 23*
 
 ### Eiginleikar
 
-- Bætti við fontawesome-viðbót fyrir ókeypis táknmyndir
-- Bætti við Material Icons-viðbót fyrir ókeypis táknmyndir
+- Bætti við fontawesome-viðbót fyrir ókeypis tákn
+- Bætti við Material Icons-viðbót fyrir ókeypis tákn
 
-### Lagfæringar
+### Villuleiðréttingar
 
-- N/A
+- Á ekki við
 
 ---
 
-*23. okt. 23*
+*23. október 23*
 
 ### Eiginleikar
 
 - Bætti við Flexible Alerts-viðbót
 - Uppfærði Sample.md með nýjum sniðmöguleikum frá Flexible Alerts
-- Bætti við leiðbeiningum um að breyta bæði fyrirsagna- og veffletri í **Hvernig á að gera**
+- Bætti við leiðbeiningum fyrir breytingar á bæði fyrirsagna- og veffletum í **Hvernig á að**
 
-### Lagfæringar
+### Villuleiðréttingar
 
-- N/A
+- Á ekki við
 
 ---
 
 ## V0.1.2
-*20. okt. 23*
+*20. október 23*
 
 ### Eiginleikar
 
 - Bætti við skrefi (8) í leiðbeiningum til að tryggja að ".nojekyll" skrá sé búin til.
 
-### Lagfæringar
+### Villuleiðréttingar
 
-- N/A
+- Á ekki við
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Eiginleikar
 
-- Bætti við "Leiðbeiningum"
+- Bætti við „Hvernig á að leiðbeiningum“
 
-### Lagfæringar
+### Villuleiðréttingar
 
-- N/A
+- Á ekki við
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Eiginleikar
 
-- Bætti við virkni fyrir ljósa/dökka stillingu (Frá )
-- Bætt leiðsögn: Hamborgaravalmynd færð efst til vinstri á skjá (úr neðra vinstra horni)
+- Bætti við virkni fyrir víxl á milli ljóss/dökks ham
+- Bætt leiðsögn: Hamborgaravalmynd færð efst til vinstri á skjá (frá neðst til vinstri)
 - Bætt læsileiki: Bætti við Open Sans & Orbitron leturgerðum
 
-### Lagfæringar
+### Villuleiðréttingar
 
-- N/A
+- Á ekki við

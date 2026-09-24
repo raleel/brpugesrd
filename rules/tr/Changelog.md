@@ -20,7 +20,7 @@
 
 - Esnek Uyarılar (Flexible Alerts) Eklentisi eklendi
 - Sample.md dosyası, Esnek Uyarılar'dan gelen yeni biçimlendirme seçenekleriyle güncellendi
-- **Nasıl Yapılır (How To)** bölümüne hem Başlık hem de Site yazı tiplerini değiştirme talimatları eklendi
+- **Nasıl Yapılır** bölümüne hem Başlık hem de Site yazı tiplerini değiştirmek için talimatlar eklendi
 
 ### Hata Düzeltmeleri
 
@@ -33,7 +33,7 @@
 
 ### Özellikler
 
-- ".nojekyll" dosyasının oluşturulduğundan emin olunması için talimatlara (8). adım eklendi.
+- ".nojekyll" dosyasının oluşturulduğundan emin olmak için talimatlara (8). adım eklendi.
 
 ### Hata Düzeltmeleri
 
@@ -57,9 +57,9 @@
 
 ### Özellikler
 
-- Açık/Koyu mod geçiş işlevi eklendi
-- Geliştirilmiş Gezinme: Hamburger menü ekranın sol altından sol üstüne taşındı
-- Geliştirilmiş okunabilirlik: Open Sans ve Orbitron Yazı Tipleri eklendi
+- Açık/Koyu mod değiştirme işlevi eklendi
+- Navigasyon iyileştirildi: Hamburger menü ekranın sol alt kısmından sol üst kısmına taşındı
+- Okunabilirlik iyileştirildi: Open Sans ve Orbitron Yazı Tipleri eklendi
 
 ### Hata Düzeltmeleri
 

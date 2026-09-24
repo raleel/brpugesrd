@@ -10,7 +10,7 @@
 
 ### Pembaikan Pepijat
 
-- N/A
+- T/A
 
 ---
 
@@ -18,13 +18,13 @@
 
 ### Ciri-ciri
 
-- Menambah Pemalam Flexible Alerts
-- Mengemas kini Sample.md dengan pilihan pemformatan baharu daripada Flexible Alerts
-- Menambah arahan untuk menukar kedua-dua fon Tajuk & Laman dalam **Cara-cara**
+- Menambah Pemalam Makluman Fleksibel (Flexible Alerts Plugin)
+- Mengemas kini Sample.md dengan pilihan pemformatan baharu daripada Makluman Fleksibel
+- Menambah arahan untuk menukar kedua-dua fon Tajuk & Tapak dalam **Cara**
 
 ### Pembaikan Pepijat
 
-- N/A
+- T/A
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Pembaikan Pepijat
 
-- N/A
+- T/A
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Ciri-ciri
 
-- Menambah "Arahan Cara-cara"
+- Menambah "Arahan Cara"
 
 ### Pembaikan Pepijat
 
-- N/A
+- T/A
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Ciri-ciri
 
-- Menambah kefungsian togol Mod Cerah/Gelap (Daripada )
-- Navigasi dipertingkat: Hamburger dialihkan ke bahagian atas kiri skrin (daripada bahagian bawah kiri)
+- Menambah fungsi togol mod Cerah/Gelap
+- Navigasi dipertingkat: Hamburger dialihkan ke kiri atas pada skrin (daripada kiri bawah)
 - Kebolehbacaan dipertingkat: Menambah Fon Open Sans & Orbitron
 
 ### Pembaikan Pepijat
 
-- N/A
+- T/A

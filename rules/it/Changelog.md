@@ -1,7 +1,7 @@
-# Changelog
+# Registro delle modifiche
 
 ## V0.3.0
-*26 ottobre 23*
+*26 ott 23*
 
 ### Funzionalità
 
@@ -10,26 +10,26 @@
 
 ### Correzioni di bug
 
-- N/A
+- N/D
 
 ---
 
-*23 ottobre 23*
+*23 ott 23*
 
 ### Funzionalità
 
 - Aggiunto plugin Flexible Alerts
-- Aggiornato Sample.md con le nuove opzioni di formattazione di Flexible Alerts
-- Aggiunte istruzioni per modificare i font delle intestazioni e del sito in **How To**
+- Aggiornato Sample.md COS le nuove opzioni di formattazione da Flexible Alerts
+- Aggiunte istruzioni per modificare i font delle intestazioni e del sito in **Come fare**
 
 ### Correzioni di bug
 
-- N/A
+- N/D
 
 ---
 
 ## V0.1.2
-*20 ottobre 23*
+*20 ott 23*
 
 ### Funzionalità
 
@@ -37,7 +37,7 @@
 
 ### Correzioni di bug
 
-- N/A
+- N/D
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Funzionalità
 
-- Aggiunte "Istruzioni How To"
+- Aggiunte "Istruzioni su come fare"
 
 ### Correzioni di bug
 
-- N/A
+- N/D
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funzionalità
 
-- Aggiunta funzionalità di attivazione modalità Chiaro/Scuro (Da )
+- Aggiunta funzionalità di attivazione modalità Chiara/Scura
 - Navigazione migliorata: Menu hamburger spostato in alto a sinistra sullo schermo (da in basso a sinistra)
 - Leggibilità migliorata: Aggiunti font Open Sans e Orbitron
 
 ### Correzioni di bug
 
-- N/A
+- N/D

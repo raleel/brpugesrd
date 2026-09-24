@@ -5,10 +5,10 @@
 
 ### Vipengele
 
-- Imeongeza plagi ya fontawesome kwa aikoni zisizolipishwa
-- Imeongeza plagi ya Material Icons kwa aikoni zisizolipishwa
+- Imeongeza plagi-in ya fontawesome kwa aikoni zisizolipishwa
+- Imeongeza plagi-in ya Material Icons kwa aikoni zisizolipishwa
 
-### Urekebishaji wa Hitilafu
+### Marekebisho ya Hitilafu
 
 - N/A
 
@@ -18,11 +18,11 @@
 
 ### Vipengele
 
-- Imeongeza Plagi ya Flexible Alerts
-- Imeboresha Sample.md kwa chaguo mpya za uumbizaji kutoka Flexible Alerts
-- Imeongeza maelekezo ya kubadilisha fonti za Kichwa na Tovuti katika **Jinsi ya (How To)**
+- Imeongeza Plagi-in ya Flexible Alerts
+- Imesasisha Sample.md na chaguzi mpya za uumbizaji kutoka kwa Flexible Alerts
+- Imeongeza maagizo ya kubadilisha fonti za Kichwa na Tovuti katika **Jinsi ya Kufanya (How To)**
 
-### Urekebishaji wa Hitilafu
+### Marekebisho ya Hitilafu
 
 - N/A
 
@@ -33,9 +33,9 @@
 
 ### Vipengele
 
-- Imeongeza hatua ya (8) katika maelekezo ya kuhakikisha faili ya ".nojekyll" imeundwa.
+- Imeongeza hatua ya (8) katika maagizo ya kuhakikisha faili ya ".nojekyll" imeundwa.
 
-### Urekebishaji wa Hitilafu
+### Marekebisho ya Hitilafu
 
 - N/A
 
@@ -45,9 +45,9 @@
 
 ### Vipengele
 
-- Imeongeza "Maelekezo ya Jinsi ya (How To instructions)"
+- Imeongeza "Maagizo ya Jinsi ya Kufanya (How To)"
 
-### Urekebishaji wa Hitilafu
+### Marekebisho ya Hitilafu
 
 - N/A
 
@@ -58,9 +58,9 @@
 ### Vipengele
 
 - Imeongeza utendaji wa kubadilisha hali ya Mwanga/Giza (Light/Dark mode)
-- Urambazaji ulioboreshwa: Menyu ya "Hamburger" imehamishiwa juu kushoto mwa skrini (kutoka chini kushoto)
-- Usomeki ulioboreshwa: Imeongeza Fonti za Open Sans & Orbitron
+- Urambazaji ulioboreshwa: Aikoni ya menyu (Hamburger) imehamishiwa juu kushoto kwenye skrini (kutoka chini kushoto)
+- Usomeki ulioboreshwa: Imeongeza Fonti za Open Sans na Orbitron
 
-### Urekebishaji wa Hitilafu
+### Marekebisho ya Hitilafu
 
 - N/A

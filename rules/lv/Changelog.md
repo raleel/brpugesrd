@@ -18,8 +18,8 @@
 
 ### Funkcijas
 
-- Pievienots "Flexible Alerts" spraudnis
-- Atjaunināts Sample.md ar jaunām formatēšanas opcijām no "Flexible Alerts"
+- Pievienots elastīgo brīdinājumu (Flexible Alerts) spraudnis
+- Atjaunināts Sample.md ar jaunām formatēšanas opcijām no elastīgajiem brīdinājumiem
 - Pievienotas instrukcijas virsrakstu un vietnes fontu maiņai sadaļā **Kā to izdarīt**
 
 ### Kļūdu labojumi
@@ -33,7 +33,7 @@
 
 ### Funkcijas
 
-- Pievienots (8.) solis instrukcijās, lai nodrošinātu ".nojekyll" faila izveidi.
+- Pievienots (8). solis instrukcijās, lai nodrošinātu ".nojekyll" faila izveidi.
 
 ### Kļūdu labojumi
 
@@ -57,9 +57,9 @@
 
 ### Funkcijas
 
-- Pievienota gaišā/tumšā režīma pārslēgšanas funkcionalitāte (no )
-- Uzlabota navigācija: "Hamburger" izvēlne pārvietota uz ekrāna augšējo kreiso stūri (iepriekš apakšējā kreisajā stūrī)
-- Uzlabota lasāmība: Pievienoti Open Sans un Orbitron fonti
+- Pievienota gaišā/tumšā režīma pārslēgšanas funkcionalitāte
+- Uzlabota navigācija: "Hamburger" izvēlne pārvietota uz ekrāna augšējo kreiso stūri (no apakšējā kreisā stūra)
+- Uzlabota lasāmība: pievienoti Open Sans un Orbitron fonti
 
 ### Kļūdu labojumi
 

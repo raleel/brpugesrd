@@ -20,7 +20,7 @@
 
 - Flexible Alerts-Plugin hinzugefügt
 - Sample.md mit neuen Formatierungsoptionen aus Flexible Alerts aktualisiert
-- Anweisungen zum Ändern der Überschriften- & Website-Schriftarten in **How To** hinzugefügt
+- Anweisungen zum Ändern der Schriftarten für Überschriften und Website in **Anleitung** hinzugefügt
 
 ### Fehlerbehebungen
 
@@ -33,7 +33,7 @@
 
 ### Funktionen
 
-- Schritt (8) in den Anweisungen hinzugefügt, um sicherzustellen, dass die Datei ".nojekyll" erstellt wird.
+- Schritt (8) in der Anleitung zum Sicherstellen der Erstellung einer ".nojekyll"-Datei hinzugefügt.
 
 ### Fehlerbehebungen
 
@@ -45,7 +45,7 @@
 
 ### Funktionen
 
-- "How To"-Anweisungen hinzugefügt
+- "Anleitung" hinzugefügt
 
 ### Fehlerbehebungen
 
@@ -57,9 +57,9 @@
 
 ### Funktionen
 
-- Funktionalität zum Umschalten zwischen Hell-/Dunkelmodus hinzugefügt (Von )
-- Verbesserte Navigation: Hamburger-Menü oben links auf dem Bildschirm verschoben (von unten links)
-- Verbesserte Lesbarkeit: Open Sans- & Orbitron-Schriftarten hinzugefügt
+- Funktionalität für Hell-/Dunkelmodus-Umschaltung hinzugefügt
+- Navigation verbessert: Hamburger-Menü nach oben links auf den Bildschirm verschoben (von unten links)
+- Lesbarkeit verbessert: Open Sans & Orbitron Schriftarten hinzugefügt
 
 ### Fehlerbehebungen
 

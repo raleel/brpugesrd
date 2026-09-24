@@ -1,41 +1,41 @@
 # Changelog
 
 ## V0.3.0
-*26 Oktober 23*
+*26th Oct 23*
 
-### Fitur
+### Features
 
 - Menambahkan plugin fontawesome untuk ikon gratis
 - Menambahkan plugin Material Icons untuk ikon gratis
 
-### Perbaikan Bug
+### Bug Fixes
 
 - N/A
 
 ---
 
-*23 Oktober 23*
+*23th Oct 23*
 
-### Fitur
+### Features
 
 - Menambahkan Plugin Flexible Alerts
 - Memperbarui Sample.md dengan opsi pemformatan baru dari Flexible Alerts
-- Menambahkan instruksi untuk mengubah font Heading & Situs di **Cara**
+- Menambahkan instruksi untuk mengubah font Heading & Situs di **How To**
 
-### Perbaikan Bug
+### Bug Fixes
 
 - N/A
 
 ---
 
 ## V0.1.2
-*20 Oktober 23*
+*20th Oct 23*
 
-### Fitur
+### Features
 
 - Menambahkan langkah (8) dalam instruksi untuk memastikan file ".nojekyll" dibuat.
 
-### Perbaikan Bug
+### Bug Fixes
 
 - N/A
 
@@ -43,11 +43,11 @@
 
 ## V0.1.1
 
-### Fitur
+### Features
 
-- Menambahkan "Instruksi Cara"
+- Menambahkan "Instruksi How To"
 
-### Perbaikan Bug
+### Bug Fixes
 
 - N/A
 
@@ -55,12 +55,12 @@
 
 ## V0.1.0
 
-### Fitur
+### Features
 
-- Menambahkan fungsionalitas tombol mode Terang/Gelap (Dari )
+- Menambahkan fungsionalitas toggle mode Terang/Gelap
 - Navigasi yang ditingkatkan: Hamburger dipindahkan ke kiri atas layar (dari kiri bawah)
 - Keterbacaan yang ditingkatkan: Menambahkan Font Open Sans & Orbitron
 
-### Perbaikan Bug
+### Bug Fixes
 
 - N/A

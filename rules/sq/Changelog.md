@@ -1,14 +1,14 @@
-# Regjistri i ndryshimeve (Changelog)
+# Regjistri i ndryshimeve
 
 ## V0.3.0
 *26 Tetor 23*
 
-### Veçori
+### Veçoritë
 
-- Shtuar plugin-in fontawesome për ikona falas
-- Shtuar plugin-in Material Icons për ikona falas
+- U shtua shtojca fontawesome për ikona falas
+- U shtua shtojca Material Icons për ikona falas
 
-### Rregullime të gabimeve
+### Rregullime gabimesh
 
 - N/A
 
@@ -16,13 +16,13 @@
 
 *23 Tetor 23*
 
-### Veçori
+### Veçoritë
 
-- Shtuar plugin-in Flexible Alerts
-- Përditësuar Sample.md me opsione të reja formatimi nga Flexible Alerts
-- Shtuar udhëzime për ndryshimin e shkronjave të Titujve dhe të Sajtit në **Si t'ia bëni** (How To)
+- U shtua shtojca Flexible Alerts
+- Përditësimi i Sample.md me mundësi të reja formatimi nga Flexible Alerts
+- U shtuan udhëzime për ndryshimin e fonteve të titujve dhe faqes në **Si të bëhet**
 
-### Rregullime të gabimeve
+### Rregullime gabimesh
 
 - N/A
 
@@ -31,11 +31,11 @@
 ## V0.1.2
 *20 Tetor 23*
 
-### Veçori
+### Veçoritë
 
-- Shtuar hapin (8) në udhëzime për sigurimin e krijimit të skedarit ".nojekyll".
+- U shtua hapi (8) në udhëzime për sigurimin që skedari ".nojekyll" të krijohet.
 
-### Rregullime të gabimeve
+### Rregullime gabimesh
 
 - N/A
 
@@ -43,11 +43,11 @@
 
 ## V0.1.1
 
-### Veçori
+### Veçoritë
 
-- Shtuar "Udhëzimet se si t'ia bëni" (How To instructions)
+- U shtuan "Udhëzime se si të bëhet"
 
-### Rregullime të gabimeve
+### Rregullime gabimesh
 
 - N/A
 
@@ -55,12 +55,12 @@
 
 ## V0.1.0
 
-### Veçori
+### Veçoritë
 
-- Shtuar funksionalitetin e ndërrimit të modalitetit Dritë/Errët (Light/Dark)
-- Navigim i përmirësuar: Menyja "hamburger" u zhvendos në të majtë lart në ekran (nga e majta poshtë)
-- Lexueshmëri e përmirësuar: Shtuar fontet Open Sans dhe Orbitron
+- U shtua funksionaliteti i kalimit midis modalitetit të ndritshëm/të errët
+- Navigim i përmirësuar: Butoni i menysë (hamburger) u zhvendos lart majtas në ekran (nga poshtë majtas)
+- Lexueshmëri e përmirësuar: U shtuan fontet Open Sans dhe Orbitron
 
-### Rregullime të gabimeve
+### Rregullime gabimesh
 
 - N/A

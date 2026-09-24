@@ -18,9 +18,9 @@
 
 ### Značajke
 
-- Dodan dodatak Flexible Alerts
-- Ažurirana datoteka Sample.md s novim opcijama oblikovanja iz Flexible Alerts
-- Dodane upute za promjenu fontova naslova i stranice u **Kako koristiti**
+- Dodan Flexible Alerts dodatak
+- Ažurirana datoteka Sample.md s novim mogućnostima oblikovanja iz Flexible Alerts
+- Dodane upute za promjenu fontova naslova i stranice u odjeljku **Kako koristiti**
 
 ### Ispravci programskih pogrešaka
 
@@ -45,7 +45,7 @@
 
 ### Značajke
 
-- Dodane "Upute za korištenje"
+- Dodane "Upute za uporabu"
 
 ### Ispravci programskih pogrešaka
 
@@ -57,8 +57,8 @@
 
 ### Značajke
 
-- Dodana funkcija prebacivanja svijetlog/tamnog načina rada
-- Poboljšana navigacija: "Hamburger" izbornik pomaknut u gornji lijevi kut zaslona (s donjeg lijevog)
+- Dodana funkcionalnost prebacivanja između svijetlog/tamnog načina rada
+- Poboljšana navigacija: Izbornik (hamburger ikona) premješten u gornji lijevi kut zaslona (s donjeg lijevog kuta)
 - Poboljšana čitljivost: Dodani fontovi Open Sans i Orbitron
 
 ### Ispravci programskih pogrešaka
