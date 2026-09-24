@@ -1,267 +1,265 @@
 # 3\. Shkathtësitë
 
-Karakteri juaj duhet të marrë shumë vendime, të përballet me shumë sfida dhe të përfundojë shumë detyra gjatë lojës. Veprimet më të rëndësishme përkufizohen si **shkathtësi** të cilat karakteri juaj mund t'i provojë. Ky seksion liston shkathtësitë më të zakonshme, i përkufizon ato dhe i lidh me detyrat që karakteri juaj mund të provojë t'i kryejë gjatë lojës.
+Karakteri juaj duhet të marrë shumë vendime, të përballet me shumë sfida dhe të përmbushë shumë detyra gjatë lojës. Veprimet më të rëndësishme përkufizohen si **shkathtësi** që karakteri juaj mund t'i provojë. Ky seksion liston shkathtësitë më të zakonshme, i përkufizon ato dhe i lidh me detyrat që karakteri juaj mund të përpiqet të bëjë në lojë.
 
 ## Përkufizimi i Shkathtësive
 
-Një shkathtësi përfaqëson një grup specifik njohurish dhe aftësish. Çdo shkathtësi vlerësohet në një shkallë përqindjeje nga 0 në 100 (ose më lart). Kjo quhet **vlerësim i shkathtësisë**. Sa më i lartë, aq më mirë.
+Një shkathtësi përfaqëson një grup specifik njohurish dhe aftësish. Çdo shkathtësi vlerësohet në një shkallë përqindjeje nga 0 deri në 100 (ose më shumë). Kjo quhet **vlerësim i shkathtësisë**. Sa më i lartë, aq më mirë.
 
-Lista e shkathtësive në këtë libër nuk është gjithëpërfshirëse: lojëra të ndryshme mund të kërkojnë shkathtësi shtesë, dhe udhëheqësi i lojës (gamemaster) inkurajohet të krijojë shkathtësi të reja sipas dëshirës. Për më tepër, udhëheqësi i lojës mund të dëshirojë të riemërtojë ose riklasifikojë shkathtësitë, të eliminojë disa, të shtojë specialitete të reja (të përshkruara më poshtë) ose t'i heqë ato, siç e sheh të arsyeshme.
+Lista e shkathtësive në këtë libër është larg së qeni shteruese: lojëra të ndryshme mund të kërkojnë shkathtësi shtesë dhe mjeshtri i lojës (gamemaster) nxitet të krijojë shkathtësi të reja sipas dëshirës. Për më tepër, mjeshtri i lojës mund të dëshirojë të riemërtojë ose riklasifikojë shkathtësitë, të eliminojë disa, të shtojë specialitete të reja (të përshkruara më poshtë) ose t'i heqë ato, sipas rastit.
 
 ### Specialitetet e Shkathtësive
 
-Shumë shkathtësi janë të gjera dhe kërkojnë që të përcaktoni një specialitet, një aspekt më të fokusuar të asaj shkathtësie. Arti, për shembull, është një kategori e gjerë, prandaj ndahet në specialitete si Vizatim, Pikturë, Skulpturë, Shkrim, etj. Këto listohen pas emrit të shkathtësisë në kllapa. Kështu, Armë e Ftohtë (Shpatë) dhe Armë e Ftohtë (Shtizë) konsiderohen dy shkathtësi të ndryshme. Sipas gjykimit të udhëheqësit të lojës, nëse karakterit tuaj i mungon një vlerësim për një specialitet përkatës, mund të përdorni vlerësimin e një shkathtësie ose specialiteti të lidhur, të përgjysmuar (duke rrumbullakosur lart), për të bërë hedhjet e shkathtësisë.
+Shumë shkathtësi janë të gjera dhe kërkojnë që ju të përcaktoni një specialitet, një aspekt më të fokusuar të asaj shkathtësie. Arti, për shembull, është një kategori e gjerë, ndaj ndahet në specialitete si Vizatim, Pikturë, Skulpturë, Shkrim, etj. Këto janë të listuara pas emrit të shkathtësisë në kllapa. Kështu, Armë e Afërt (Shpatë) dhe Armë e Afërt (Shtizë) konsiderohen dy shkathtësi të ndryshme. Sipas gjykimit të mjeshtrit të lojës, nëse karakterit tuaj i mungon një vlerësim shkathtësie në një specialitet të përshtatshëm, mund të përdorni vlerësimin e një shkathtësie ose specialiteti të ngjashëm të përgjysmuar (duke rrumbullakuar lart), për të bërë hedhjet e shkathtësisë.
 
-Për shembull, *karakteri juaj mund të përdorë gjysmën e vlerësimit të shkathtësisë së tyre në Shkencë (Astronomi) për të bërë hedhje që normalisht do të kërkonin Shkencë (Fizikë) ose Shkencë (Matematikë), pasi këto janë shkathtësi të lidhura. Megjithatë, ky vlerësim astronomik është i pavlefshëm nëse udhëheqësi i lojës kërkon një hedhje për Shkencë (Biologji) ose Njohuri (Histori).*
+Për shembull, *karakteri juaj mund të përdorë gjysmën e vlerësimit të shkathtësisë së tyre në Shkencë (Astronomi) për të bërë hedhje shkathtësie që normalisht do të kërkonin Shkencë (Fizikë) ose Shkencë (Matematikë), pasi këto janë shkathtësi të lidhura. Megjithatë, kjo aftësi astronomike është e pavlerë nëse mjeshtri i lojës kërkon një hedhje shkathtësie në Shkencë (Biologji) ose Njohuri (Histori).*
 
 ### Përdorimi i Shkathtësive
 
-Sa herë që karakteri juaj dëshiron të ndërmarrë një veprim ose të kryejë një detyrë ku rezultati është i dyshimtë, ju duhet të deklaroni veprimin e dëshiruar. Udhëheqësi i lojës më pas do të kërkojë një hedhje të D100 kundrejt vlerësimit përkatës të shkathtësisë. Në terma të përgjithshëm, një hedhje e D100 e barabartë ose nën vlerësimin e modifikuar të shkathtësisë sjell sukses në detyrë, ndërsa një hedhje më e lartë se vlerësimi dështon.
+Sa herë që karakteri juaj dëshiron të ndërmarrë një veprim ose të përmbushë një detyrë ku rezultati është në dyshim, duhet të deklaroni veprimin e dëshiruar. Mjeshtri i lojës do të kërkojë atëherë një hedhje D100 kundër vlerësimit përkatës të shkathtësisë. Në terma të përgjithshëm, një hedhje D100 e barabartë ose nën vlerësimin e modifikuar të shkathtësisë sjell sukses në detyrë, ndërsa një hedhje më e lartë se vlerësimi dështon.
 
 Vështirësia e detyrës ose modifikues të tjerë rrethanorë mund të rregullojnë vlerësimin e një shkathtësie lart ose poshtë. Modifikuesit e vështirësisë janë:
 
 * **Automatik** nuk kërkohet hedhje
-* **Lehtë** shkathtësia dyfishohet
-* **Mesatare** asnjë modifikim i shkathtësisë
-* **Vështirë** shkathtësia përgjysmohet
-* **E pamundur** nuk ka hedhje, ose 01% shans sipas gjykimit të udhëheqësit të lojës
+* **I lehtë** shkathtësia dyfishohet
+* **Mesatar** asnjë modifikim në shkathtësi
+* **I vështirë** shkathtësia përgjysmohet
+* **I pamundur** asnjë hedhje, ose 01% shans sipas gjykimit të mjeshtrit të lojës
 
-Shikoni **Modifikimi i Hedhjeve të Veprimit** për më shumë informacion. Nëse nuk tregohet asnjë modifikues, supozoni se hedhja është në vështirësi Mesatare.
+Shihni **Modifikimi i Hedhjeve të Veprimit** për më shumë informacion. Nëse nuk tregohet asnjë modifikues, supozoni se hedhja është me vështirësi Mesatare.
 
-Në shumicën e rasteve, shkathtësia e duhur për një veprim të caktuar është e qartë. Rrethanat e paparashikuara, megjithatë, mund të çojnë në përdorime të reja të një shkathtësie. Ju inkurajoheni të gjeni aplikime alternative të shkathtësive të karakterit tuaj, por të gjitha këto përdorime duhet të kenë miratimin e udhëheqësit të lojës.
+Në shumicën e rasteve, shkathtësia e përshtatshme për një veprim të caktuar është e qartë. Rrethanat e paparashikuara, megjithatë, mund të çojnë në përdorime të reja të një shkathtësie. Ju nxiteni të gjeni aplikime alternative të shkathtësive të karakterit tuaj, por të gjitha përdorimet e tilla të shkathtësisë duhet të kenë miratimin e mjeshtrit të lojës.
 
-Ndërsa shumë shkathtësi janë të orientuara drejt veprimeve, ato gjithashtu tregojnë njohuri të përgjithshme për llojet e detyrave që qeverisen nga ajo shkathtësi.
+Ndërsa shumë shkathtësi janë të orientuara drejt veprimeve, ato gjithashtu tregojnë njohuri të përgjithshme për llojet e detyrave që drejtohen nga ajo shkathtësi.
 
-Për shembull, *një luftëtar mesjetar mund të përdorë shkathtësinë Armë e Ftohtë (Shpatë) në vend të Vlerësimit për të gjykuar cilësinë e një shpate. Shkathtësia e Arteve Marciale mund të përdoret në mënyrë të ngjashme për të ditur për dojot e ndryshme në një qytet dhe kush janë senseit e tyre.*
+Për shembull, *një luftëtar mesjetar mund të përdorë shkathtësinë Armë e Afërt (Shpatë) në vend të Vlerësimit për të gjykuar cilësinë e një shpate. Shkathtësia e Arteve Marciale mund të përdoret në mënyrë të ngjashme për të ditur mbi dojot e ndryshme në një qytet dhe kush janë senseit e tyre.*
 
 ### Hedhje të Fshehura të Shkathtësive
 
-Udhëheqësi i lojës mund të bëjë gjithashtu hedhje të shkathtësive për karakterin tuaj, në rastet kur udhëheqësi i lojës nuk dëshiron që ju të dini rezultatin e hedhjes ose se po bëhet një hedhje fare. Udhëheqësi i lojës mund të dëshirojë të mbajë një kopje të fletës së karakterit tuaj pranë ose mund t'ju kërkojë një listë të gradave aktuale të karakterit tuaj në shkathtësitë përkatëse (veçanërisht shkathtësitë e Perceptimit) në mënyrë që hedhjet e fshehta të mund të bëhen pa ju paralajmëruar juve dhe lojtarët e tjerë se karakteret tuaja mund të humbasin diçka kur hedhjet dështojnë. Kjo metodë i lejon udhëheqësit të lojës të përdorë hedhjet e dështuara për t'ju çuar potencialisht në rrugë të gabuar, gjë që është një taktikë e dobishme për hedhjet e Perceptimit ose ato mendore.
+Mjeshtri i lojës gjithashtu mund të bëjë hedhje shkathtësie për karakterin tuaj, në raste kur mjeshtri i lojës ose nuk dëshiron që ju të dini rezultatin e hedhjes, ose që një hedhje shkathtësie po bëhet fare. Mjeshtri i lojës mund të dëshirojë të mbajë një kopje të fletës së karakterit tuaj ose mund t'ju kërkojë një listë të gradave aktuale të karakterit tuaj në shkathtësi përkatëse (veçanërisht shkathtësitë e Perceptimit), në mënyrë që hedhjet e fshehta të mund të bëhen pa ju alarmuar ju dhe lojtarët e tjerë se karakteret tuaja mund të humbasin diçka kur hedhjet dështojnë. Kjo metodë i lejon mjeshtrit të lojës të përdorë hedhjet e dështuara për t'ju keqinformuar ose keqdrejtuar, gjë që është një taktikë e dobishme për hedhjet e Perceptimit ose ato të bazuara në Mendje.
 
-Disa nga hedhjet më të qarta të shkathtësive që mund të kryhen fshehurazi, ose pa qenë ju në dijeni të rezultatit, janë si vijon: Vlerësim, Art, Pazar, Komandë, Zeje, Maskim, Etiketë, Të folur shpejt, Lojëra fati, Fshehje, Intuicion, Njohuri, Gjuhë, Dëgjim, Shkrim-Lexim, Mjekësi, Navigim, Performancë, Bindje, Psikoterapi, Kërkim, Shkencë, Ndjesi, Shkathtësi manuale, Pikasje, Status, Vjedhurazi, Strategji, Mësimdhënie, Shkathtësi teknike dhe Gjurmim. Shkathtësi të tjera mund të kryhen gjithashtu fshehurazi, varësisht nga rrethanat.
+Disa nga hedhjet më të qarta të shkathtësive që mund të kryhen fshehurazi, ose pa qenë ju në dijeni të rezultatit, janë si më poshtë: Vlerësimi, Arti, Pazarllëku, Komanda, Zejtaria, Maskimi, Etiketa, Fjalimi i Shpejtë, Lojërat e Fatit, Fshehja, Intuita, Njohuria, Gjuha, Dëgjimi, Shkrim-leximi, Mjekësia, Navigimi, Performanca, Bindja, Psikoterapia, Hulumtimi, Shkenca, Ndjeshmëria, Shkathtësia e Duarve, Vëzhgimi, Statusi, Fshehtësia, Strategjia, Mësimdhënia, Shkathtësia Teknike dhe Gjurmimi. Shkathtësi të tjera gjithashtu mund të kryhen fshehurazi, varësisht nga rrethanat.
 
-Këto hedhje nuk duhet të jenë plotësisht të fshehta dhe udhëheqësi i lojës mund t'ju tregojë se po bëhet një hedhje kundrejt një shkathtësie të veçantë. Në varësi të stilit të lojës, ju dhe udhëheqësi i lojës mund të zgjidhni të bëni hedhje të fshehura ku ju i hidhni zaret në një zonë ku nuk mund të shihni se si bien, si p.sh. pas një ekrani të udhëheqësit të lojës ose një fshehje tjetër.
+Këto hedhje nuk duhet të jenë plotësisht të fshehta dhe mjeshtri i lojës mund t'ju tregojë se një hedhje po bëhet kundër një shkathtësie të caktuar. Varësisht nga stilet e lojës, ju dhe mjeshtri i lojës mund të zgjidhni të bëni hedhje të fshehura ku ju hidhni zaret në një zonë ku nuk mund të shihni se si bien, si p.sh. pas një ekrani të mjeshtrit të lojës ose ndonjë fshehje tjetër.
 
-Nëse shkathtësia është e suksesshme, udhëheqësi i lojës duhet t'ju tregojë se karakteri juaj e ka përdorur me sukses shkathtësinë përkatëse dhe të lejojë një kontroll përvoje, nëse është e zbatueshme. Nëse hedhja dështon, udhëheqësi i lojës duhet t'ju informojë, t'ju dezinformojë ose të përmbahet nga informimi juaj (dhe i karakterit tuaj) për rezultatin, siç është e përshtatshme.
+Nëse shkathtësia është e suksesshme, mjeshtri i lojës duhet t'ju tregojë se karakteri juaj ka përdorur me sukses shkathtësinë përkatëse dhe të lejojë një kontroll përvoje, nëse është e aplikueshme. Nëse hedhja e shkathtësisë dështon, mjeshtri i lojës duhet t'ju informojë, t'ju keqinformojë ose të përmbahet nga informimi juaj (dhe i karakterit tuaj) për rezultatin, sipas rastit.
 
 ## Kategoritë e Shkathtësive
 
-Shkathtësitë ndahen në gjashtë kategori:
+Shkathtësitë ndahen në gjashtë kategori shkathtësish:
 
 * **Luftarake** shkathtësitë matin aftësinë me armë dhe manovrat luftarake.
-* **Komunikim** shkathtësitë qeverisin bisedat, leximin dhe shkëmbimet ndërpersonale.
-* **Manipulim** shkathtësitë përkufizojnë detyrat që kërkojnë koordinim të saktë dorë-sy.
-* **Mendore** shkathtësitë matin njohuri specifike dhe gjykim individual.
-* **Perceptim** shkathtësitë mbledhin dhe interpretojnë informacione nga mjedisi.
-* **Fizike** shkathtësitë qeverisin shfaqjet e forcës, shkathtësisë dhe atletikës.
+* **Komunikimi** shkathtësitë qeverisin bisedat, leximin dhe shkëmbimet ndërpersonale.
+* **Manipulimi** shkathtësitë përcaktojnë detyrat që kërkojnë koordinim të saktë dorë-sy.
+* **Mendore** shkathtësitë matin njohuri specifike dhe gjykimin individual.
+* **Perceptimi** shkathtësitë mbledhin dhe interpretojnë informacione nga mjedisi.
+* **Fizike** shkathtësitë qeverisin bëmat e forcës, shkathtësisë dhe atletikës.
 
-Kategoritë e shkathtësive shërbejnë si udhëzues të përgjithshëm për llojet e veprimeve që mund të kryejë një shkathtësi, si dhe ofrojnë një kornizë për ju dhe udhëheqësin e lojës për të krijuar shkathtësi të reja. Kategoritë e shkathtësive lidhin vlerësimet e karakterit tuaj me rezultatet e tyre më me ndikim të karakteristikave përmes bonuseve të kategorisë, një sistem fakultativ.
+Kategoritë e shkathtësive shërbejnë si udhëzues të përgjithshëm për llojet e veprimeve që një shkathtësi mund të përmbushë, si dhe ofrojnë një kornizë për ju dhe mjeshtrin e lojës për të krijuar shkathtësi të reja. Kategoritë e shkathtësive lidhin vlerësimet e shkathtësive të karakterit tuaj me rezultatet e tyre më me ndikim të karakteristikave përmes bonuseve të kategorisë, një sistem fakultativ.
 
 ### Shkathtësi të Reja
 
-Ka vija të zbrazëta në seksionin e shkathtësive të fletës së karakterit. Këto janë për shkathtësi të reja që ju ose udhëheqësi i lojës mund të krijoni. Për shembull, *Kapitulli i Katërt: Fuqitë* prezanton një shkathtësi të re fakultative të quajtur Projeksion, e përdorur në lidhje me shumë fuqi. Ju mund të sugjeroni dhe përkufizoni një shkathtësi të re, por vetëm udhëheqësi i lojës mund të lejojë përdorimin e saj në lojën tuaj.
+Ka vija të zbrazëta në seksionin e shkathtësive të fletës së karakterit. Këto janë për shkathtësi të reja që ju ose mjeshtri i lojës mund të krijoni. Për shembull, *Kapitulli Katër: Fuqitë* prezanton një shkathtësi të re fakultative të quajtur Projeksion, e përdorur në lidhje me shumë fuqi. Ju mund të sugjeroni dhe përkufizoni një shkathtësi të re, por vetëm mjeshtri i lojës mund të lejojë përdorimin e saj në lojën tuaj.
 
 ### Ndryshimi i Listës së Shkathtësive
 
-Po aq lehtë sa ju dhe udhëheqësi i lojës mund të krijoni shkathtësi të reja, mund t'i riemërtoni shkathtësitë për t'iu përshtatur një mjedisi të veçantë. Për shembull, Manipulimi i Imët mund të riemërtohet "Hapje Brava" për një mjedis mesjetar ose fantastik. Udhëheqësi i lojës mund të zgjedhë gjithashtu të eliminojë plotësisht shkathtësi të caktuara nëse ato nuk i përshtaten stilit të tyre të lojës. Rekomandohet shumë që çdo ndryshim i tillë të përcaktohet përpara krijimit të karakterit dhe të bëhet i qartë, në mënyrë që të mos zgjidhni shkathtësi që mund të përjashtohen ose ndryshohen nga udhëheqësi i lojës.
+Po aq lehtë sa ju dhe mjeshtri i lojës mund të krijoni shkathtësi të reja, ju mund të riemërtoni shkathtësitë që t'i përshtaten një mjedisi të caktuar. Për shembull, Manipulimi i Imët mund të riemërtohet në Shpikje ose Hapje Brave për një mjedis mesjetar ose fantastik. Mjeshtri juaj i lojës mund të zgjedhë gjithashtu të eliminojë plotësisht shkathtësi të caktuara nëse ato nuk i përshtaten stilit të tyre të lojës. Rekomandohet shumë që çdo ndryshim i tillë të përcaktohet përpara krijimit të karakterit dhe të bëhet i qartë, në mënyrë që të mos zgjidhni shkathtësi që mund të përjashtohen ose ndryshohen nga mjeshtri i lojës.
 
-> ### Bonuset e Kategorisë së Shkathtësive
->
-> Siç përshkruhet në **Bonuset e Kategorisë së Shkathtësive**, karakteri juaj merr një bonus ose penalitet në kategoritë e shkathtësive bazuar në rezultatet e karakteristikave të tyre. Aplikoni bonusin e kategorisë në çdo shkathtësi në atë kategori, përveç shansit bazë të listuar, nëse ka, siç listohet në përshkrimin e shkathtësisë. Shikoni **Tabelën e Bonuseve të Kategorisë së Shkathtësive** për formulat e përdorura për të llogaritur bonuset.
+> ### Bonuset e Kategorisë së Shkathtësisë
+> 
+> Siç përshkruhet në **Bonuset e Kategorisë së Shkathtësisë**, karakteri juaj merr një bonus ose penalitet për kategoritë e shkathtësive bazuar në rezultatet e karakteristikave të tyre. Aplikoni bonusin e kategorisë në çdo shkathtësi në atë kategori, përveç shansit bazë të listuar, nëse ka, siç është listuar në përshkrimin e shkathtësisë. Shihni **Tabelën e Bonusit të Kategorisë së Shkathtësisë** për formulat e përdorura për të llogaritur bonuset e kategorisë së shkathtësive.
 
 ## Shanset Bazë
 
-Shumica e njerëzve mjaftueshëm të shëndetshëm dhe në formë fizike mund të lëkundin një shkop, të ngjiten në një pemë ose të flasin gjuhën e tyre amtare. Prandaj, çdo shkathtësi ka një shans bazë të lidhur me të: karakteri juaj supozohet se ka këtë vlerësim bazë në shkathtësi përpara se të shtohen pikë shtesë. Nëse përdoren bonuset e kategorisë së shkathtësive (shih **Bonuset e Kategorisë së Shkathtësive**), shtojini (ose zbritini) ato nga shansi bazë i secilës shkathtësi.
+Shumica e njerëzve mjaftueshëm të shëndetshëm dhe në formë fizike mund të tundin një shkop, të ngjiten në një pemë ose të flasin gjuhën e tyre amtare. Çdo shkathtësi, pra, ka një shans bazë të lidhur me të: karakteri juaj supozohet të ketë këtë vlerësim bazë në shkathtësi përpara se të shtohen ndonjë pikë shtesë shkathtësie. Nëse përdoren bonuset e kategorisë së shkathtësisë (shih **Bonuset e Kategorisë së Shkathtësisë**), shtojini (ose zbritini) ato nga shansi bazë i çdo shkathtësie.
 
-Shansi bazë i një shkathtësie varet shumë nga epoka e një fushate: karakteret në një fushatë të vendosur në Evropën mesjetare kanë vlerësime bazë më të larta në Njohuri (Fe) sesa qytetarët modernë të SHBA-së, ndërsa qytetarët e SHBA-së mund të kenë një avantazh në shkathtësitë mjekësore për shkak të trajnimit rudimentar të ndihmës së parë në shkollat publike dhe vendin e punës. Çdo përshkrim shkathtësie liston disa shanse bazë për epoka të ndryshme, siç është e përshtatshme. Udhëheqësi i lojës duhet të ndihet i lirë të ndryshojë shanset bazë për shkathtësitë për t'iu përshtatur mjediseve të ndryshme.
+Shansi bazë i një shkathtësie varet shumë nga epoka e një fushate: karakteret në një fushatë të vendosur në Evropën mesjetare kanë vlerësime bazë më të larta në Njohuri (Fe) sesa qytetarët modernë të SHBA-së, ndërsa qytetarët e SHBA-së mund të kenë një avantazh në shkathtësitë Mjekësore për shkak të trajnimit fillestar të ndihmës së parë në shkollat publike dhe vendin e punës. Çdo përshkrim i shkathtësisë liston disa shanse bazë për epoka të ndryshme, sipas rastit. Mjeshtri i lojës duhet të ndihet i lirë të ndryshojë shanset bazë për shkathtësitë që t'i përshtaten mjediseve të ndryshme.
 
 > #### Veprimi pa Shkathtësi
->
-> Ndonjëherë karakteri juaj duhet të provojë një veprim duke përdorur një shkathtësi pa asnjë vlerësim (0%). Nëse udhëheqësi i lojës pajtohet se suksesi në detyrë është i mundur, bëni një hedhje duke përdorur një nga këto opsione:
->
-> * **Bonusi i Kategorisë së Shkathtësive:** Nëse përdorni sistemin fakultativ të kategorisë së shkathtësive, përdorni modifikuesin e kategorisë së shkathtësive si shans bazë. Talenti i pastër ndonjëherë mund të mposhtë mungesën e trajnimit. Nëse është i suksesshëm dhe shkathtësia mund të përmirësohet nga përvoja, duhet të bëhet një kontroll përvoje.
->
-> * **Shans i Egër:** Provoni, por me vetëm 1% shans suksesi ose një përpjekje të fundit "Hail Mary" prej FUQIx1 nëse fati i verbër mund të jetë një faktor, me miratimin e udhëheqësit të lojës. Asnjë kontroll përvoje nuk lejohet për këtë, pasi është fat i verbër kundrejt çdo lloj shkathtësie ose talenti natyror.
+> 
+> Ndonjëherë karakteri juaj duhet të provojë një veprim duke përdorur një shkathtësi pa asnjë vlerësim shkathtësie (0%). Nëse mjeshtri i lojës pajtohet që suksesi në detyrë është i mundur, bëni një hedhje duke përdorur një nga këto opsione:
+> 
+> * **Bonusi i Kategorisë së Shkathtësisë:** Nëse përdorni sistemin fakultativ të kategorisë së shkathtësisë, përdorni modifikuesin e kategorisë së shkathtësisë si shans bazë. Talenti i pastër ndonjëherë mund të mposhtë mungesën e trajnimit. Nëse është i suksesshëm dhe shkathtësia mund të përmirësohet nga përvoja, duhet të bëhet një kontroll përvoje.
+> 
+> * **Shansi i Rastësishëm:** Provoni, por me vetëm 1% shans suksesi ose një përpjekje të fundit 'Hail Mary' prej FUQ×1 nëse fati i verbër mund të jetë një faktor, me miratimin e mjeshtrit të lojës. Nuk lejohet asnjë kontroll përvoje për këtë, pasi është fat i verbër përkundrejt çfarëdo lloj shkathtësie ose talenti natyror.
 
 ### Matja e Vlerësimeve të Shkathtësive
 
-Vlerësimet e shkathtësive të karakterit tuaj përcaktojnë aftësitë e tyre gjatë lojës. Por çfarë do të thotë një vlerësim i dhënë shkathtësie në terma më të përgjithshëm? Përdorni udhëzimet e mëposhtme si një udhërrëfyes për kompetencën. Në gradë të caktuara shkathtësie dhe në rrethana jokritike ose jodramatike, një hedhje mund të mos jetë as e nevojshme—në kushte rutinë, karakteret në një nivel të caktuar kompetence mund t'i kryejnë rregullisht këto shkathtësi pa pasur nevojë të hedhin zare për sukses, megjithëse suksesi *Automatik* nuk meriton kontrolle përvoje.
+Vlerësimet e shkathtësive të karakterit tuaj përcaktojnë aftësitë e tyre gjatë lojës. Por çfarë do të thotë një vlerësim i dhënë shkathtësie në terma më të përgjithshëm? Përdorni udhëzimet e mëposhtme si një udhërrëfyes për kompetencën. Në rangje të caktuara të shkathtësisë dhe në rrethana jo-kritike ose jo-dramatike, një hedhje mund të mos jetë as e nevojshme—në kushte rutinë, karakteret në një nivel të caktuar kompetence mund të kryejnë rregullisht këto shkathtësi pa pasur nevojë të hedhin zare për sukses, megjithëse suksesi *Automatik* nuk meriton kontrolle përvoje.
 
-##### Tabela e Vlerësimeve të Shkathtësive
+##### Tabela e Vlerësimit të Shkathtësive
 
 | Vlerësimi i Shkathtësisë | Kompetenca | Përshkrimi |
 | :---- | :---- | :---- |
-| 00–05% | Fillestar | Një amator i plotë me pak shpresë për sukses edhe në detyra të Lehta. Ju duhet të hidhni zare sa herë që karakteri juaj provon këtë shkathtësi, qoftë në një situatë plot stres apo në rrethana ideale. |
-| 06–25% | Neofit | Ose një fillestar ose me pak njohuri për temën në fjalë. Siç thonë, 'Di aq sa për të qenë i rrezikshëm'. Suksesi ndodh rastësisht dhe si rezultat mund të bëhen tepër të sigurt. Hidhni zare sa herë që karakteri juaj provon këtë shkathtësi, edhe nëse detyra është e Lehtë. |
-| 26–50% | Amator | Pak talent, pak trajnim ose hobi. Karakteri juaj është mezi i kualifikuar, por mund t'i besohen detyra Automatike ose të Lehta. Në situata pa stres, karakteri juaj mund të kryejë aktivitete rutinë duke përdorur këtë shkathtësi pa pasur nevojë të hedhë zare. |
-| 51–75% | Profesional | Në 51%, karakteri juaj mund të fitojë besueshëm jetesën duke përdorur shkathtësinë. Ata zakonisht nuk kanë nevojë të shqetësohen për dështimin në detyrat e Lehta dhe janë mjaft me përvojë ose të aftë për të shërbyer si udhëheqës ose menaxher të të tjerëve. Një 51% është afërsisht i barabartë me një diplomë bachelor në një disiplinë specifike. Shumica e shkathtësive nuk mund të rriten mbi 75% vetëm përmes arsimit ose trajnimit: karakteri juaj duhet të përparojë më tej përmes përdorimit praktik. Karakteri juaj zakonisht mund të kryejë aktivitete rutinë ose edhe komplekse që lidhen me shkathtësinë dhe ju kërkohet të hidhni zare vetëm kur ka një element rreziku, ose kur shansi i dështimit është dramatik. |
-| 76–90% | Ekspert | Ekspertizë e avancuar në fushën e dhënë: karakteri juaj ka një shans të arsyeshëm për të pasur sukses edhe në detyra të Vështira. Vetëm profesionistët e përkushtuar arrijnë një zotërim të tillë të një shkathtësie të dhënë, dhe ata që e arrijnë respektohen dhe mbështeten për ekspertizën e tyre. Shkathtësitë në këtë interval korrespondojnë me një diplomë të avancuar (Master ose Ph.D.), ose shumë vite përvojë. Shumica e karaktereve mesatare nuk mund të fillojnë lojën me asnjë shkathtësi më të lartë se 75%. Karakteri juaj duhet të jetë në gjendje të kryejë veprime komplekse dhe sfiduese që lidhen me këtë shkathtësi në rrethana rutinë pa hedhur zare, duke supozuar se ata marrin kohë dhe kanë objektet dhe/ose pajisjet e duhura në dispozicion. |
-| 91% ose më lart | Mjeshtër | Pak arrijnë këtë nivel zotërimi. Vetëm detyrat më të vështira janë përtej aftësive të tyre, dhe ekspertiza e tyre me gjasë i ka bërë këta mjeshtër të famshëm brenda fushës së tyre dhe ndonjëherë në botë në përgjithësi. Në situata rutinë, karakteri juaj mund të kryejë pothuajse mrekulli, dhe rrallë do t'ju duhet të hidhni zare përveçse në detyrat më të vështira ose në rrethana të tmerrshme. Nëse në një fushatë përdoren rregullat fakultative të Shëndetit Mendor, arritja e një vlerësimi prej 91% në një shkathtësi rikthen menjëherë 2D6 pikë SHM, duke përfaqësuar vetëbesimin dhe disiplinën që lidhet me zotërimin e një shkathtësie (ky është një bonus një herë). Nëse karakteri juaj fillon me këtë vlerësim shkathtësie ose më lart, nuk ka fitim SHM. |
+| 00–05% | Fillestar | Një amator i plotë me pak shpresë për të pasur sukses edhe në detyra të Lehta. Ju duhet të hidhni zare çdo herë që karakteri juaj provon këtë shkathtësi, qoftë në një situatë plot stres ose në rrethana ideale. |
+| 06–25% | Neofit | Ose një fillestar ose me një sasi të vogël njohurish për temën në dorë. Siç thonë, 'Di mjaftueshëm për të qenë i rrezikshëm.' Suksesi ndodh herë pas here dhe mund të bëhet i mbivlerësuar si rezultat. Hidheni zarin sa herë që karakteri juaj provon këtë shkathtësi, edhe nëse detyra është e Lehtë. |
+| 26–50% | Amator | Pak talent, ndonjë trajnim, ose praktikë e nivelit të hobiit. Karakteri juaj është mezi i kualifikuar, por mund t'i besohen detyra Automatike ose të Lehta. Në situata pa stres, karakteri juaj mund të kryejë aktivitete rutinë duke përdorur këtë shkathtësi pa pasur nevojë të hidhni zare. |
+| 51–75% | Profesional | Në 51%, karakteri juaj mund të fitojë për jetesë në mënyrë të besueshme duke përdorur shkathtësinë. Ata zakonisht nuk kanë nevojë të shqetësohen për dështimin në detyra të Lehta dhe janë mjaft me përvojë ose kompetentë për të shërbyer si lider ose menaxher i të tjerëve. Një 51% është përafërsisht e barabartë me një diplomë bachelor në një disiplinë specifike. Shumica e shkathtësive nuk mund të rriten mbi 75% vetëm përmes arsimimit ose trajnimit: karakteri juaj duhet të avancojë më tej përmes përdorimit praktik. Karakteri juaj zakonisht mund të kryejë aktivitete rutinë ose edhe komplekse lidhur me shkathtësinë dhe ju kërkohet të hidhni zare vetëm kur ka një element rreziku, ose kur shansi i dështimit është dramatik. |
+| 76–90% | Ekspert | Ekspertizë e avancuar në fushën e dhënë: karakteri juaj ka një shans të arsyeshëm për të pasur sukses edhe në detyra të Vështira. Vetëm profesionistët e dedikuar arrijnë një zotërim të tillë të një shkathtësie të dhënë, dhe ata që e bëjnë këtë respektohen dhe mbështeten për ekspertizën e tyre. Shkathtësitë në këtë rang korrespondojnë me një diplomë të avancuar (Master ose Ph.D.), ose shumë vite përvojë. Shumica e karaktereve mesatare nuk mund të fillojnë lojën me asnjë shkathtësi më të lartë se 75%. Karakteri juaj duhet të jetë në gjendje të kryejë veprime komplekse dhe sfiduese lidhur me këtë shkathtësi në rrethana rutinë pa hedhur zare, duke supozuar se ata marrin kohë dhe kanë facilitetet dhe/ose pajisjet e duhura në dispozicion. |
+| 91% ose më shumë | Mjeshtër | Pak njerëz arrijnë këtë nivel zotërimi. Vetëm detyrat më të vështira janë përtej aftësive të tyre, dhe ekspertiza e tyre me gjasë i ka bërë këta mjeshtër të famshëm brenda fushës së tyre dhe ndonjëherë në botë në përgjithësi. Në situata rutinë karakteri juaj mund të bëjë mrekulli, dhe ju rrallë do të keni nevojë të hidhni zaret përveçse në detyrat më të vështira ose në rrethana të tmerrshme. Nëse rregullat fakultative të Mendjes së Shëndoshë (Sanity) po përdoren në një fushatë, arritja e një vlerësimi 91% në një shkathtësi rikthen në çast 2D6 pikë MSH, duke përfaqësuar vetëbesimin dhe disiplinën e lidhur me zotërimin e një shkathtësie (ky është një bonus një herë). Nëse karakteri juaj fillon me këtë vlerësim shkathtësie ose më lart, nuk ka fitim MSH. |
 
 ### Vlerësimet e Shkathtësive mbi 100%
 
-Bonusi i përvojës së karakterit tuaj e bën të mundur rritjen e vlerësimeve të shkathtësive mbi 100%. Shkathtësitë më të larta se 100% përdorin sistemet standarde për të llogaritur shanset e sukseseve speciale ose kritike, si dhe ofrojnë shanse më të mira për sukses në detyra të Vështira ose përballë modifikuesve negativë rrethanorë. Për më tepër, nëse karakteri juaj ka një shkathtësi luftarake më të lartë se 100%, ata mund të ndërmarrin sulme të shumëfishta në një raund luftarak, siç përshkruhet në **Sulmet dhe Parimet mbi 100%**.
+Bonusi i përvojës së karakterit tuaj e bën të mundur rritjen e vlerësimeve të shkathtësive mbi 100%. Shkathtësitë më të larta se 100% përdorin sistemet standarde për të llogaritur shanset e sukseseve speciale ose kritike, si dhe ofrojnë shanse më të mira për sukses në detyra të Vështira ose përballë modifikuesve negativë rrethanorë. Për më tepër, nëse karakteri juaj ka një shkathtësi luftarake më të lartë se 100%, ata mund të ndërmarrin sulme të shumta në një raund luftimi, siç përshkruhet në **Sulmet dhe Parimet mbi 100%**.
 
 ### Lista e Shkathtësive sipas Kategorisë
 
-Vijon një listë e plotë e shkathtësive të ndara sipas kategorisë.
+Një listë e plotë e shkathtësive të ndara sipas kategorive vijon.
 
-| Luftarake | Komunikim | Manipulim | Mendore |
+| Luftarake | Komunikimi | Manipulimi | Mendore |
 | :---- | :---- | :---- | :---- |
-| Artileri (të ndryshme) | Pazar | Art (të ndryshme) | Vlerësim |
-| Përleshje | Komandë | Zeje (të ndryshme) | Ndihmë e parë |
-| Armë energjie (të ndryshme) | Maskim | Prishje/Demolim | Lojëra fati |
-| Armë zjarri (të ndryshme) | Etiketë (të ndryshme) | Manipulim i imët | Njohuri (të ndryshme) |
-| Mundje | Të folur shpejt | Makineri e rëndë (të ndryshme) | Shkrim-Lexim (Fakultative) |
-| Armë e rëndë (të ndryshme) | Performancë | Riparim (të ndryshme) | Mjekësi |
-| Arte marciale | Bindje | Shkathtësi manuale | Psikoterapi |
-| Armë e ftohtë (të ndryshme) | Status | | Shkencë (të ndryshme) |
-| Armë raketore (të ndryshme) | Mësimdhënie | | Strategji |
-| Parim/Bllokim (të ndryshme) | | | Shkathtësi teknike (të ndryshme) |
+| Artileri (të ndryshme) | Pazarllëk | Art (të ndryshme) | Vlerësimi |
+| Sherr | Komandë | Zejtari (të ndryshme) | Ndihma e Parë |
+| Armë Energjie (të ndryshme) | Maskim | Demolim | Lojëra të Fatit |
+| Armë Zjarri (të ndryshme) | Etiketa (të ndryshme) | Manipulim i Imët | Njohuri (të ndryshme) |
+| Përleshje | Fjalim i Shpejtë | Makineri e Rëndë (të ndryshme) | Shkrim-leximi (Fakultative) |
+| Armë e Rëndë (të ndryshme) | Gjuhë (të ndryshme) | Riparim (të ndryshme) | Mjekësia |
+| Arte Marciale | Performancë | Shkathtësia e Duarve | Psikoterapia |
+| Armë e Afërt (të ndryshme) | Bindje | | Shkencë (të ndryshme) |
+| Armë Raketore (të ndryshme) | Status | | Strategjia |
+| Parim (të ndryshme) | Mësimdhënie | | Shkathtësi Teknike (të ndryshme) |
 | Mburojë | | | |
 
-| Perceptim | Fizike | Fizike |
+| Perceptimi | Fizike | Fizike |
 | :---- | :---- | :---- |
-| Intuicion | Ngjitje | Projeksion |
+| Intuita | Ngjitje | Projeksion |
 | Dëgjim | Shmangie | Kalërim (të ndryshme) |
-| Navigim | Drejtim (të ndryshme) | Vjedhurazi |
-| Kërkim | Fluturim | Not |
-| Ndjesi | Fshehje | Hedhje |
-| Pikasje | Kërcim | |
-| Gjurmim | Pilotim (të ndryshme) | |
+| Navigim | Drejtim (të ndryshme) | Fshehtësia |
+| Hulumtim | Fluturim | Not |
+| Ndjeshmëri | Fshehje | Hedhje |
+| Vëzhgim | Kërcim | |
+| Gjurmim | Pilotim (të ndryshme) | |### Shkalla Alfabetike e Aftësive
 
-### Lista Alfabetike e Shkathtësive
+Më poshtë vijon një listë e alfabetizuar e të gjitha aftësive në këtë seksion. Çdo hyrje rendit kategorinë e aftësisë dhe shansin bazë të saj.
 
-Vijon një listë e alfabetizuar e të gjitha shkathtësive në këtë seksion. Çdo hyrje liston kategorinë e shkathtësisë dhe shansin e saj bazë.
-
-| Shkathtësi | Kategoria | Shansi Bazë % |
+| Aftësi | Kategori | % Bazë |
 | :---- | :---- | :---- |
-| Vlerësim | Mendore | 15% |
+| Vlerësim (Appraise) | Mendore | 15% |
 | Art (të ndryshme) | Manipulim | 05% |
-| Artileri (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Pazar | Komunikim | 05% |
-| Përleshje | Luftarake | 25% |
-| Ngjitje | Fizike | 40% |
-| Komandë | Komunikim | 05% |
-| Zeje (të ndryshme) | Manipulim | 05% |
-| Prishje/Demolim | Manipulim | 01% |
-| Maskim | Komunikim | 01% |
-| Shmangie | Fizike | DEXx2 |
-| Drejtim (të ndryshme) | Fizike | 20% ose 01% |
-| Armë energjie (të ndryshme) | Luftarake | sipas specialitetit të armës |
+| Artileri (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Pazar (Bargain) | Komunikim | 05% |
+| Sherr (Brawl) | Luftim | 25% |
+| Ngjitje (Climb) | Fizike | 40% |
+| Komandim | Komunikim | 05% |
+| Zejtari (të ndryshme) | Manipulim | 05% |
+| Prishje (Demolition) | Manipulim | 01% |
+| Maskim (Disguise) | Komunikim | 01% |
+| Shmangie (Dodge) | Fizike | SHK×2 |
+| Drejtim mjeti (të ndryshme) | Fizike | 20% ose 01% |
+| Armë Energjie (të ndryshme) | Luftim | sipas specialitetit të armës |
 | Etiketë (të ndryshme) | Komunikim | 05% |
-| Të folur shpejt | Komunikim | 05% |
+| Fjalë të shpejta (Fast Talk) | Komunikim | 05% |
 | Manipulim i imët | Manipulim | 05% |
-| Armë zjarri (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Ndihmë e parë | Mendore | 30% |
-| Fluturim | Fizike | DEXx4 ose 1/2 DEX |
-| Lojëra fati | Mendore | INT+POW |
-| Mundje | Luftarake | 25% |
+| Armë zjarri (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Ndihma e parë | Mendore | 30% |
+| Fluturim | Fizike | SHKx4 ose 1/2 SHK |
+| Lojëra (Gaming) | Mendore | ZGJ+FUQ |
+| Mundje (Grapple) | Luftim | 25% |
 | Makineri e rëndë (të ndryshme) | Manipulim | 01% |
-| Armë e rëndë (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Fshehje | Fizike | 10% |
-| Intuicion | Perceptim | 05% |
-| Kërcim | Fizike | 25% |
+| Armë e rëndë (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Fshehje (Hide) | Fizike | 10% |
+| Depërtim (Insight) | Perceptim | 05% |
+| Kërcim (Jump) | Fizike | 25% |
 | Njohuri (të ndryshme) | Mendore | 05% ose 00% |
-| Gjuhë (të ndryshme) | Komunikim | INT (ose EDU)x5 ose 00% |
-| Dëgjim | Perceptim | 25% |
-| Shkrim-Lexim (fakultative) | Mendore | 00% ose e barabartë me Gjuhën |
-| Arte marciale | Luftarake | 01% |
+| Gjuhë (të ndryshme) | Komunikim | ZGJ (ose EDU)×5 ose 00% |
+| Dëgjim (Listen) | Perceptim | 25% |
+| Lexim (opsionale) | Mendore | 00% ose e barabartë me Gjuhën |
+| Arte Marciale | Luftim | 01% |
 | Mjekësi | Mendore | 05% |
-| Armë e ftohtë (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Armë raketore (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Navigim | Perceptim | 10% |
-| Parim/Bllokim (të ndryshme) | Luftarake | sipas specialitetit të armës |
-| Performancë | Komunikim | 05% |
-| Bindje | Komunikim | 15% |
+| Armë të ftohta (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Armë hedhëse (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Orientim (Navigate) | Perceptim | 10% |
+| Mbrojtje (Parry) (të ndryshme) | Luftim | sipas specialitetit të armës |
+| Interpretim (Perform) | Komunikim | 05% |
+| Bindje (Persuade) | Komunikim | 15% |
 | Pilotim (të ndryshme) | Fizike | 01% |
-| Projeksion | Fizike | DEXx2 |
+| Projeksion | Fizike | SHK×2 |
 | Psikoterapi | Mendore | 01% ose 00% |
 | Riparim (të ndryshme) | Manipulim | 15% |
-| Kërkim | Perceptim | 25% |
+| Kërkim (Research) | Perceptim | 25% |
 | Kalërim (të ndryshme) | Fizike | 05% |
 | Shkencë (të ndryshme) | Mendore | 01% |
-| Ndjesi | Perceptim | 10% |
-| Mburojë | Luftarake | sipas mburojës |
-| Shkathtësi manuale | Manipulim | 05% |
-| Pikasje | Perceptim | 25% |
-| Status | Komunikim | 15% ose e ndryshme |
-| Vjedhurazi | Fizike | 10% |
+| Shqisë (Sense) | Perceptim | 10% |
+| Mburojë | Luftim | sipas mburojës |
+| Shkathtësi dore | Manipulim | 05% |
+| Vështrim (Spot) | Perceptim | 25% |
+| Status | Komunikim | 15% ose të ndryshme |
+| Fshehtësi (Stealth) | Fizike | 10% |
 | Strategji | Mendore | 01% |
 | Not | Fizike | 25% |
 | Mësimdhënie | Komunikim | 10% |
-| Shkathtësi teknike (të ndryshme) | Mendore | 05% |
-| Hedhje | Fizike | 25% |
-| Gjurmim | Perceptim | 10% |
+| Aftësi Teknike (të ndryshme) | Mendore | 05% |
+| Hedhje (Throw) | Fizike | 25% |
+| Gjurmim (Track) | Perceptim | 10% |
 
-> ### Shtesa dhe Shkathtësi plotësuese
->
-> Disa shkathtësi janë ngushtësisht të lidhura me të tjera, dhe ekspertiza në një fushë mund të përfitojë nga një tjetër. Me lejen e udhëheqësit të lojës, karakteri juaj mund të shtojë përkohësisht 1/5 e vlerësimit tuaj në një **shkathtësi plotësuese** në vlerësimin tuaj në një shkathtësi tjetër për hedhjet. Shumë përdorime plotësuese janë shënuar në përshkrimet e shkathtësive që vijojnë. Ju dhe lojtarët e tjerë padyshim do të krijoni më shumë.
->
-> Vetëm një shkathtësi mund të jetë plotësuese për një tjetër kur përdoret për të ndihmuar çdo hedhje të dhënë. Nëse mund të zbatohen shumë shkathtësi ose përdoren për të provuar të merrni këtë bonus, përfitimet nuk grumbullohen—lojtari dhe udhëheqësi i lojës duhet të zgjedhin bonusin më të lartë për t'u përdorur, ose cilindo që është më i përshtatshëm për situatën në fjalë.
->
-> Nëse hedhja kryesore e shkathtësisë është një sukses, karakteri juaj merr një kontroll përvoje vetëm për shkathtësinë kryesore, jo për shkathtësinë plotësuese të përdorur.
->
-> Për shembull, *karakteri juaj ka një shkathtësi Mjekësi prej 65% dhe një Shkencë (Farmaci) prej 40%. Ata po përpiqen të trajtojnë një pacient të sëmurë. Për sa kohë që karakteri juaj ka pajisje mjekësore dhe medikamente të mjaftueshme, ata mund të shtojnë 8% (1/5 e vlerësimit të tyre Shkencë(Farmaci)) në vlerësimin e shkathtësisë Mjekësi, për një vlerësim të modifikuar prej 73%. Karakteri juaj nuk mund të shtojë 1/5 e shkathtësisë së tij Ndihmë e parë ose Shkencë (Biologji) mbi bonusin e Farmacisë. Në këtë rast, udhëheqësi i lojës vendos që shkathtësia Shkencë (Farmaci) është më e përshtatshmja për bonusin.*
->
-> Një **shtesë (augment)** në një shkathtësi është e ngjashme, por funksionon në një mënyrë pak më ndryshe. Nëse udhëheqësi i lojës e lejon, ju mund të provoni një hedhje të një shkathtësie plotësuese për të mbështetur, ose shtuar, një hedhje tjetër të shkathtësisë kryesore.
->
-> * Nëse hedhja e shkathtësisë shtuese është e suksesshme, ju mund të rregulloni vështirësinë e shkathtësisë kryesore me një shkallë, si p.sh. shndërrimi i një hedhjeje *Vështirë* në një *Mesatare*, ose një detyrë *Mesatare* në *Lehtë*.
->
-> * Kjo nuk mund të bëhet njëkohësisht me një bonus shkathtësie plotësuese, megjithatë, dhe është i mundur vetëm një shkallë rregullimi.
->
-> * Nëse shtesa dështon, shkathtësia kryesore rregullohet me një shkallë në drejtim të kundërt, si p.sh. një shkathtësi *Normale* që bëhet *Vështirë* për shkak të konfuzionit ose informacioneve konfliktuale.
->
-> * Nëse keni sukses me hedhjen e shkathtësisë shtuese, mund ta kontrolloni atë për përvojë si normalisht, si dhe me shkathtësinë kryesore. Nëse hedhja kryesore dështon, shkathtësia shtuese nuk merr një kontroll përvoje.
->
-> Ju nuk mund të shtoni një shkathtësi dhe të përdorni një bonus shkathtësie plotësuese njëkohësisht për të njëjtën hedhje të shkathtësisë.
+> ### Shtesa dhe aftësi plotësuese
+> 
+> Disa aftësi janë të lidhura ngushtë me të tjera dhe ekspertiza në një fushë mund të përfitojë një tjetër. Me lejen e gamemaster-it tuaj, personazhi juaj mund të shtojë përkohësisht 1/5 e vlerësimit tuaj në një **aftësi plotësuese** te vlerësimi juaj në një aftësi tjetër për hedhjet e zareve të aftësive. Shumë përdorime plotësuese janë shënuar në përshkrimet e aftësive që vijojnë. Ju dhe lojtarët e tjerë pa dyshim do të shpikni të tjera.
+> 
+> Vetëm një aftësi mund të jetë plotësuese e një tjetre kur përdoret për të ndihmuar çdo hedhje të dhënë. Nëse aftësi të shumta mund të jenë të zbatueshme ose përdoren për të provuar të merrni këtë bonus, përfitimet nuk grumbullohen—lojtari dhe gamemaster-i duhet të zgjedhin bonusin më të lartë për t'u përdorur, ose cilindo që është më i përshtatshëm për situatën në dorë.
+> 
+> Nëse hedhja kryesore e aftësisë është një sukses, personazhi juaj merr një kontroll përvojë vetëm për aftësinë kryesore, jo për aftësinë plotësuese të përdorur.
+> 
+> Për shembull, *personazhi juaj ka një aftësi Mjekësie prej 65% dhe një Shkencë (Farmaci) prej 40%. Ata po përpiqen të trajtojnë një pacient të sëmurë. Për sa kohë që personazhi juaj ka furnizime mjekësore dhe medikamente të mjaftueshme në dispozicion, ata mund të shtojnë 8% (1/5 e vlerësimit të tyre Shkencë (Farmaci)) te vlerësimi i aftësisë Mjekësi, për një vlerësim të modifikuar prej 73%. Personazhi juaj nuk mund të shtojë 1/5 e aftësisë së tij Ndihma e parë ose Shkencë (Biologji) mbi bonusin e Farmacisë. Në këtë rast, gamemaster-i vendos se aftësia Shkencë (Farmaci) është më e përshtatshmja për bonusin.*
+> 
+> Një **shtesë (augment)** në një aftësi është e ngjashme, por funksionon në një mënyrë paksa të ndryshme. Nëse gamemaster-i juaj e lejon, mund të provoni një hedhje të një aftësie plotësuese për të mbështetur, ose shtuar, një hedhje tjetër të aftësisë primare.
+> 
+> * Nëse hedhja e aftësisë shtuese është e suksesshme, ju mund të rregulloni vështirësinë e aftësisë primare me një shkallë, si p.sh. kthimin e një hedhjeje *Të vështirë* në një *Mesatare*, ose një detyrë *Mesatare* në *Të lehtë*.
+> 
+> * Kjo nuk mund të bëhet njëkohësisht me një bonus aftësie plotësuese, megjithatë, dhe vetëm një shkallë rregullimi është e mundur.
+> 
+> * Nëse shtesa dështon, aftësia primare rregullohet me një shkallë në drejtimin e kundërt, si p.sh. një aftësi *Normale* që bëhet *E vështirë* për shkak të konfuzionit ose informacionit konfliktual.
+> 
+> * Nëse keni sukses me hedhjen e aftësisë shtuese, mund ta kontrolloni atë për përvojë si zakonisht, si dhe me aftësinë primare. Nëse hedhja primare dështon, aftësia shtuese nuk merr një kontroll përvojë.
+> 
+> Ju nuk mund të shtoni një aftësi dhe të përdorni një bonus aftësie plotësuese njëkohësisht për të njëjtën hedhje aftësie.
 
 > ### Përshkrimi i Rezultateve të Sukseseve
->
-> Në përgjithësi, rezultatet e hedhjeve të shkathtësive janë të qarta, por nëse keni dyshime, përdorni udhëzimet e mëposhtme kur përcaktoni rezultatet:
->
-> * Një **dështim kritik (fumble)** zakonisht do të thotë se është arritur e kundërta e rezultatit të dëshiruar, duke siguruar informacion mashtrues, duke krijuar ndonjë lloj pengese, ose madje duke e vënë karakterin në një disavantazh.
->
+> 
+> Në përgjithësi, rezultatet e hedhjeve të aftësive janë të dukshme, por nëse keni dyshime, përdorni udhëzimet e mëposhtme kur përcaktoni rezultatet:
+> 
+> * Një **dështim fatal (fumble)** zakonisht do të thotë se është arritur e kundërta e rezultatit të dëshiruar, duke dhënë informacion mashtrues, duke krijuar ndonjë lloj pengese, ose madje duke e vënë personazhin në disavantazh.
+> 
 > * **Dështimi** do të thotë se rezultati i dëshiruar nuk është arritur.
->
-> * Një **sukses** normal do të thotë se është arritur një qëllim i arsyeshëm dhe mesatar. Udhëheqësi i lojës është arbitri përfundimtar i rezultateve, por efekti duhet të jetë i qartë.
->
-> * Një **sukses special** ka dyfishin e efektivitetit të një suksesi të rregullt dhe/ose siguron informacion shtesë për temën.
->
-> * Një **sukses kritik** ka trefishin e efektivitetit të një suksesi të rregullt, dhe/ose siguron informacion të konsiderueshëm për temën.
->
-> Siç u theksua më lart, shkathtësitë ku rezultatet janë shumë specifike dhe ku kërkohet detaj, kanë ruajtur rezultatin e përkufizuar.
+> 
+> * Një **sukses** normal do të thotë se një objektiv i arsyeshëm dhe mesatar është arritur. Gamemaster-i është arbitri përfundimtar i rezultateve, por efekti duhet të jetë i dukshëm.
+> 
+> * Një **sukses special** ka dyfishin e efektivitetit të një suksesi të rregullt dhe/ose siguron informacion shtesë rreth subjektit.
+> 
+> * Një **sukses kritik** ka trefishin e efektivitetit të një suksesi të rregullt, dhe/ose siguron informacion të konsiderueshëm rreth subjektit.
+> 
+> Siç u përmend më lart, aftësitë ku rezultatet janë shumë specifike dhe ku kërkohet detaj, kanë ruajtur rezultatin e përcaktuar.
 
-## Përshkrimet e Shkathtësive
+## Përshkrimet e Aftësive
 
-Vijon një listë gjithëpërfshirëse, alfabetike e shkathtësive. Çdo hyrje përmban informacionin e mëposhtëm:
+Më poshtë vijon një listë gjithëpërfshirëse dhe alfabetike e aftësive. Çdo hyrje përmban informacionin vijues:
 
-* **Emri i Shkathtësisë:** Emri i shkathtësisë.
-* **Shansi Bazë:** Vlerësimi i shkathtësisë që të gjitha karakteret kanë në shkathtësi, i specializuar sipas epokës nëse është e zbatueshme.
-* **Kategoria:** Kategoria e shkathtësisë në të cilën bie shkathtësia, për qëllime të klasifikimit të përgjithshëm dhe bonuseve fakultative të kategorisë.
-* **Përshkrimi:** Një përshkrim i shkurtër i llojeve të detyrave që mund të kryhen duke përdorur shkathtësinë.
-* **Specialitetet:** Një listë e specialiteteve të dallueshme të shkathtësisë, nëse ka. Jo të gjitha shkathtësitë me specialitete i kanë ato të përpunuara në një listë me pika—vetëm ato që janë më mekanike në natyrë, si shkathtësitë Luftarake, janë detajuar në këtë mënyrë.
-* **Efektet:** Rezultatet e një hedhjeje të shkathtësisë, për çdo shkallë suksesi, ku kërkohet. Shkurtimisht, një rezultat i shkathtësisë është një dështim kritik (rezultati më i keq i mundshëm, zakonisht një hedhje prej 99 ose 00), një dështim (një hedhje mbi vlerësimin tuaj të shkathtësisë), një sukses (nën vlerësimin tuaj të shkathtësisë), një sukses special (1/5 ose më pak e vlerësimit tuaj të shkathtësisë), ose një sukses kritik (1/20 e vlerësimit tuaj të shkathtësisë). *Kapitulli i Pestë: Sistemi* e shpjegon këtë në detaje. Shikoni gjithashtu shiritin anësor "Përshkrimi i Rezultateve të Sukseseve".
-* **Shënime për Mjedisin:** Informacion shtesë rreth shkathtësisë në mjedise të ndryshme. Nëse kjo hyrje nuk është e pranishme, shkathtësia funksionon e pandryshuar në pothuajse çdo mjedis.
+* **Emri i Aftësisë:** Emri i aftësisë.
+* **Shansi Bazë:** Vlerësimi i aftësisë që kanë të gjithë personazhet në aftësi, i specializuar sipas epokës nëse është e aplikueshme.
+* **Kategori:** Kategoria e aftësisë në të cilën bie aftësia, për qëllime të klasifikimit të përgjithshëm dhe bonuseve opsionale të kategorisë.
+* **Përshkrim:** Një përshkrim i shkurtër i llojeve të detyrave që mund të kryhen duke përdorur aftësinë.
+* **Specialitete:** Një listë e specialiteteve të dallueshme të aftësisë, nëse ka. Jo të gjitha aftësitë me specialitete i kanë ato të detajuara në një listë me pika—vetëm ato që janë më mekanike në natyrë, siç janë aftësitë e Luftimit, detajohen në këtë mënyrë.
+* **Efekte:** Rezultatet e një hedhjeje aftësie, për çdo shkallë suksesi, aty ku kërkohet. Shkurtimisht, një rezultat aftësie është një dështim fatal (rezultati më i keq i mundshëm, zakonisht një hedhje prej 99 ose 00), një dështim (një hedhje mbi vlerësimin e aftësisë tuaj), një sukses (nën vlerësimin e aftësisë tuaj), një sukses special (1/5 ose më pak e vlerësimit të aftësisë tuaj), ose një sukses kritik (1/20 e vlerësimit të aftësisë tuaj). Kapitulli Pesë: Sistemi e shpjegon këtë në detaje. Shihni gjithashtu shiritin anësor Përshkrimi i Rezultateve të Sukseseve.
+* **Shënime për Mjedisin:** Informacion shtesë rreth aftësisë në mjedise të ndryshme. Nëse kjo hyrje nuk është e pranishme, aftësia funksionon e pandryshuar në pothuajse çdo mjedis.
 * **Shënime për Sistemin:** Rregulla ose sisteme përkatëse, nëse ka.
 
-### Vlerësim
+### Vlerësim (Appraise)
 
 **Shansi Bazë:** 15%
 
-**Kategoria:** Mendore
+**Kategori:** Mendore
 
-Përdoreni këtë shkathtësi për të vlerësuar vlerën e një objekti, qoftë një pikturë e vjetër, një gur i çmuar, një armë ose një kalë për kalërim. Dështimi do të thotë se ata nuk kanë asnjë ide, ndërsa një dështim kritik jep informacion të rremë. Një sukses special ose kritik jep informacion shtesë.
+Përdoreni këtë aftësi për të vlerësuar vlerën e një objekti, qoftë një pikturë e vjetër, një gur i çmuar, një armë ose një kalë për kalërim. Dështimi do të thotë se ata nuk kanë asnjë ide, ndërsa një dështim fatal jep informacion të rremë. Një sukses special ose kritik jep informacion shtesë.
 
 ### Art (të ndryshme)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Përdoreni këtë shkathtësi për të krijuar një vepër arti në pikturë ose skulpturë, ose për të kompozuar një histori, poemë ose vepër muzikore. Një sukses kritik ose special jep një klasik të përjetshëm me vlerë dhe prestigj konsiderueshëm më të lartë, një dështim është punë mediokre, dhe një dështim kritik mund të dëmtojë reputacionin e krijuesit. Do të përdornit Performancë për aktrim, vallëzim, këndim ose luajtje të një instrumenti muzikor.
+Përdoreni këtë aftësi për të krijuar një vepër arti në pikturë ose skulpturë, ose për të kompozuar një histori, poezi ose vepër muzikore. Një sukses kritik ose special jep një klasik të përjetshëm me vlerë dhe prestigj dukshëm më të madh, një dështim është punë mediokre, dhe një dështim fatal mund të dëmtojë reputacionin e krijuesit. Do të përdornit Interpretim (Perform) për aktrim, vallëzim, këndim ose luajtje të një instrumenti muzikor.
 
-**Specialitetet:** Kaligrafi, Kompozim, Art Konceptual, Art Dixhital, Vizatim, Pikturë, Fotografi, Poezi, Skulpturë, Skicim, Shkrim Këngësh, Shkrim, etj.
+**Specialitete:** Kaligrafi, Kompozim, Art Konceptual, Art Dixhital, Vizatim, Pikturë, Fotografi, Poezi, Skulpturë, Skicim, Shkrim Këngësh, Shkrim, etj.
 
 **Shënime për Mjedisin:** Arti është universal, megjithëse mund të ketë specialitete specifike për epokën ose mjedisin.
 
@@ -269,330 +267,323 @@ Përdoreni këtë shkathtësi për të krijuar një vepër arti në pikturë ose
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për të shkrehur pjesë masive të artilerisë dhe armë të rënda mjetesh, në thelb çdo armë që është tepër e madhe për t'u lëvizur ose manovruar nga një person i vetëm, si një top, trebuchet ose balista.
+Përdoreni këtë aftësi për të shkrepur armë masive fushore dhe armë të rënda të automjeteve, thelbësisht çdo armë shumë e madhe që një person i vetëm të mund ta lëvizë ose manovrojë, si një top, katapultë ose ballistë.
 
-**Specialitetet:** Specialitetet janë ekuivalente me llojet. Shikoni **Klasat e Armëve** në Kapitullin Tetë: Pajisjet për llojet e artilerisë.
+**Specialitete:** Specialitetet janë të barasvlershme me llojet. Shihni **Klasat e Armëve** në Kapitullin Tetë: Pajisjet për llojet e artilerisë.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Raketore** për efekte specifike.
+**Efekte:** Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve Fatale të Armëve Hedhëse** për efekte specifike.
 
-**Shënime për Mjedisin:** E përshtatshme për shumë mjedise, duke filluar nga motorët e rrethimit deri te artileria moderne ose futuristike dhe armët e mjeteve. Në shumicën e mjediseve, kërkohet një sfond ushtarak për të mësuar këtë shkathtësi.
+**Shënime për Mjedisin:** E përshtatshme për shumë mjedise, duke filluar nga makineritë e rrethimit deri te artileria moderne ose futuristike dhe armët e automjeteve. Në shumicën e mjediseve, kërkohet një sfond ushtarak për të mësuar këtë aftësi.
 
-**Shënime për Sistemin:** Shumë armë të mëdha kërkojnë një ekuipazh për të operuar; përpjekja për të përdorur një të tillë vetëm është një veprim i Vështirë ose mund të jetë i Pamundur. Mund të duhen raunde të shumëfishta ose edhe turne për të ngarkuar dhe përgatitur një sistem armësh ndërmjet goditjeve. Shumë armë të mëdha përdorin zjarr automatik ose qëllojnë me municion shpërthyes. Shikoni **Zjarr Automatik** dhe **Shpërthim**. Të gjitha goditjet shkojnë diku; udhëheqësi i lojës duhet të vendosë se ku ndikojnë goditjet shpërthyese ose energjetike të humbura.
+**Shënime për Sistemin:** Shumë armë të mëdha kërkojnë një ekuipazh për t'u operuar; përpjekja për të përdorur një të tillë vetëm është një veprim i Vështirë ose mund të jetë i Pamundur. Mund të kërkohen raunde të shumta apo edhe kthesa për të mbushur dhe përgatitur një sistem arme midis shkrepjeve. Shumë armë të mëdha përdorin zjarr automatik ose shkrepin predha shpërthyese. Shihni **Zjarrin Automatik** dhe **Shpërthimin**. Të gjitha shkrepjet shkojnë diku; gamemaster-i duhet të vendosë se ku godasin shkrepjet e humbura shpërthyese ose të energjisë.
 
-### Pazar
+### Pazar (Bargain)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të bërë pazar për çmimet, dhe sa herë që mendimet kundërshtuese takohen në negociata dhe kompromis. Përdorni hedhje të kundërta të shkathtësive për të vendosur marrëveshje të rëndësishme, dhe hedhje të thjeshta të shkathtësive për përpjekje triviale (kursimi i parave për pajisje ose strehim, për shembull). Pazari ka të bëjë me kompromisin: përdorni Të folur shpejt ose Bindje për të zgjidhur argumentet që fitohen ose humben absolutisht. Një dështim kritik mund të kthejë një tregtar në një armik, suksesi do të thotë që ju merrni një marrëveshje, dhe rezultate më të mira sjellin zbritje më të larta ose kushte më të favorshme për anën tuaj.
+Përdoreni këtë aftësi për të bërë pazar për çmimet, dhe sa herë që mendime të kundërta takohen në negociata dhe kompromise. Përdorni hedhje të kundërta të aftësive për të vendosur marrëveshje të rëndësishme, dhe hedhje të thjeshta të aftësive për përpjekje të parëndësishme (kursimi i parave për pajisje ose akomodim, për shembull). Bërja e pazarit ka të bëjë me kompromisin: përdorni Fjalë të shpejta ose Bindje për të zgjidhur argumentet që janë fituar ose humbur plotësisht. Një dështim fatal mund të nënkuptojë kthimin e një tregtari në armik, suksesi do të thotë që ju merrni një marrëveshje, dhe rezultatet më të mira japin zbritje më të larta ose kushte më të favorshme për palën tuaj.
 
-### Përleshje
+### Sherr (Brawl)
 
 **Shansi Bazë:** 25%
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për luftim pa armë: shkelma, grushte, goditje me kokë, etj.
+Përdoreni këtë aftësi për luftim pa armë: shkelma, grushta, goditje me kokë, etj.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Natyrore dhe Luftimit Pa Armë**.
+**Efekte:** Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve Fatale të Sulmit dhe Mbrojtjes me Armë Natyrore**.
 
-**Shënime për Sistemin:** Përleshja mund të përdoret për të paruar (shih Parim) por një parim i suksesshëm shkakton dëmin minimal të armës në krahun ose këmbën paruese, sipas rastit. Përdorimi i Përleshjes kundër një kundërshtari që ka kapur (mundje) karakterin tuaj (shih Mundje) është Lehtë. Përdoret në lidhje me Artet Marciale dhe me fuqitë e Armëve Natyrore dhe Luftimit Pa Armë nga Kapitulli i Katërt: Fuqitë.
+**Shënime për Sistemin:** Sherri mund të përdoret për të mbrojtur (shihni Mbrojtje), por një mbrojtje e suksesshme shkakton dëmin minimal të armës në krahun ose këmbën mbrojtëse, sipas rastit. Përdorimi i Sherrit kundër një kundërshtari që e ka kapur personazhin tuaj (shihni Mundje) është i Lehtë. Përdoret në lidhje me Artet Marciale dhe me fuqitë e Armëve Natyrore dhe Luftimit pa Armë nga Kapitulli Katër: Fuqitë.
 
-### Ngjitje
+### Ngjitje (Climb)
 
 **Shansi Bazë:** 40%
 
-**Kategoria:** Fizike
+**Kategori:** Fizike
 
-Përdoreni këtë shkathtësi për t'u ngjitur lart ose poshtë mureve, pemëve, shkëmbinjve ose çdo sipërfaqeje tjetër. Supozohet se janë të pranishme mbajtëse të mjaftueshme për duar dhe këmbë: modifikoni vështirësinë bazuar në kushtet ose sipërfaqen që po ngjitet. Dështimi kritik do të thotë se bini rëndë (shih **Rënia**), dështimi do të thotë se keni mbetur të mbërthyer ose bini (zgjedhja e udhëheqësit të lojës, bazuar në rrethana), dhe sukseset superiore ju lejojnë të ngjiteni më shpejt dhe më larg.
+Përdoreni këtë aftësi për t'u ngjitur lart ose poshtë mureve, pemëve, shkëmbinjve ose çdo sipërfaqeje tjetër. Supozohet se janë të pranishme mbajtëse të bollshme për duart dhe këmbët: modifikoni vështirësinë bazuar në kushtet ose sipërfaqen që po ngjitet. Dështimi fatal do të thotë që bini rëndë (shihni **Rënie**), dështimi do të thotë që jeni ngecur ose bini (zgjedhja e gamemaster-it, bazuar në rrethana), dhe sukseset superiore ju lejojnë të ngjiteni më shpejt dhe më larg.
 
-**Shënime për Sistemin:** Në përgjithësi, ngjitja është me 1/5 e shkallës MOV, dhe kafshët me aftësi natyrore ngjitjeje mund të lëvizin me shkallën e tyre të plotë MOV. Ngjitja e shkallëve është Automatike. Shkallët ose pemët shumë të larta janë të Lehta. Ngjitja pa përdorur këmbët e karakterit tuaj është e Vështirë. Për ngjitje të zgjatura, udhëheqësi i lojës duhet të kërkojë një hedhje shkathtësie një herë në minutë, ose 10 metra ngjitje. Karakteri juaj nuk mund të ndërmarrë asnjë veprim tjetër gjatë ngjitjes, dhe të gjitha veprimet e marra gjatë ngjitjes janë të Vështira, me çdo dështim kritik që shkakton rënie.
+**Shënime për Sistemin:** Në përgjithësi, ngjitja është në 1/5 e normës së LËVIZJES (MOV), dhe kafshët me aftësi natyrore ngjitjeje mund të lëvizin me normën e tyre të plotë të LËVIZJES. Ngjitja e shkallëve është Automatike. Shkallët ose pemët shumë të larta janë të Lehta. Ngjitja pa përdorur këmbët e personazhit tuaj është e Vështirë. Për ngjitje të zgjatura, gamemaster-i duhet të kërkojë një hedhje aftësie një herë në minutë, ose 10 metra ngjitje. Personazhi juaj nuk mund të ndërmarrë asnjë veprim tjetër gjatë ngjitjes, dhe të gjitha veprimet e ndërmarra gjatë ngjitjes janë të Vështira, me çdo dështim fatal që shkakton një rënie.
 
-### Komandë
-
-**Shansi Bazë:** 05%
-
-**Kategoria:** Komunikim
-
-Përdoreni këtë shkathtësi për të frymëzuar, drejtuar dhe koordinuar vartësit, duke i udhëhequr ata në detyra komplekse dhe duke përmirësuar efektivitetin e grupit. Oficerët ushtarakë, fisnikët, politikanët dhe drejtuesit e biznesit krijohen ose shkatërrohen bazuar në aftësinë e tyre për të menaxhuar dhe udhëhequr. Personaliteti, një zë i fortë dhe një vullnet i hekurt janë mjete të paçmueshme të komandës. Një dështim kritik nxit kryengritje, dështimi është jofrymëzues dhe konfuz, dhe suksesi ju lejon të shtoni 1/5 e shkathtësive tuaja të Komandës si një bonus shkathtësie plotësuese për të gjithë vartësit tuaj për çdo raund që i komandoni, për sa kohë që ata ndjekin urdhrat tuaj. Hidhni çdo raund në luftim, ose çdo turn në luftim masiv.
-
-**Shënime për Sistemin:** Përdoret kryesisht në luftim, megjithëse mund të shtrihet në negociata korporative, etj. Artileria, Armë e Rëndë, Armë e Ftohtë, Armë Raketore dhe Strategjia janë shkathtësitë më të përshtatshme për të marrë këtë përfitim.
-
-### Zeje (të ndryshme)
+### Komandim
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Manipulim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të ndërtuar ose krijuar gjëra, nga një karrige deri te një vakt apo një shtëpi. Shpesh kërkohen mjete të specializuara për këtë shkathtësi dhe kërkon kohë dhe lëndë të para. Kjo shkathtësi mund të përdoret gjithashtu për të identifikuar se si është bërë një objekt, dhe ndoshta për të identifikuar artizanin që e ka bërë atë. Një dështim kritik shkatërron materialin dhe nuk jep asgjë të dobishme, suksesi do të thotë se funksionon, dhe një cilësi më e mirë suksesi jep një version më të imët, më të fortë ose më të vlefshëm të gjësë që po bëhet, ndoshta me cilësi shtesë si një +10% ose +20% në efikasitetin e saj kur përdoret, pikë goditjeje më të larta, etj. Kjo ka të bëjë me funksionin dhe prakticitetin: krijimi i objekteve vetëm për qëllime estetike bie nën Art.
+Përdoreni këtë aftësi për të frymëzuar, drejtuar dhe koordinuar vartësit, duke i udhëzuar ata në detyra komplekse dhe duke përmirësuar efektivitetin e grupit. Oficerët ushtarakë, fisnikët, politikanët dhe ekzekutivët e biznesit bëhen ose shkatërrohen bazuar në aftësinë e tyre për të menaxhuar dhe udhëhequr. Personaliteti, një zë i fuqishëm dhe një vullnet i hekurt janë mjete të paçmueshme të komandës. Një dështim fatal nxit kryengritjen, dështimi është i pafrymëzuar dhe konfuz, dhe suksesi ju lejon të shtoni 1/5 e aftësisë tuaj të Komandimit si një bonus aftësie plotësuese për të gjithë vartësit tuaj për çdo raund që i komandoni, për sa kohë që ata ndjekin urdhrat tuaja. Hidhni zaret çdo raund në luftim, ose çdo kthesë në luftimin masiv.
 
-**Specialitetet:** Farkëtim, Marangozëri, Qeramikë, Gatim, Përpunim Lëkure, Hapje Bravash, Metalurgji, Murgëri, dhe të tjera sipas rastit.
+**Shënime për Sistemin:** Përdoret kryesisht në luftim, megjithëse mund të shtrihet në negociata korporative, etj. Artileria, Armët e Rënda, Armët e Ftohta, Armët Hedhëse dhe Strategjia janë aftësitë më të përshtatshme për të marrë këtë përfitim.
 
-**Shënime për Sistemin:** Përdorimi i Zejes pa mjetet e duhura është e Vështirë. Shikoni Kapitullin Tetë: Pajisjet për më shumë informacion rreth krijimit, modifikimit ose riparimit të pajisjeve. Posedimi i një artikulli të imët veshjeje ose pajisjeje mund të rrisë madje CHA ndërsa artikulli vishet ose shfaqet.
+### Zejtari (të ndryshme)
 
-### Prishje/Demolim
+**Shansi Bazë:** 05%
+
+**Kategori:** Manipulim
+
+Përdoreni këtë aftësi për të ndërtuar ose bërë gjëra, nga një karrige te një vakt ose një shtëpi. Mjetet e specializuara shpesh kërkohen për këtë aftësi, dhe kërkon kohë dhe lëndë të para. Kjo aftësi mund të përdoret gjithashtu për të identifikuar se si është bërë një objekt, dhe mundësisht të identifikojë zejtarin që e bëri atë. Një dështim fatal shkatërron materialin dhe nuk jep asgjë të dobishme, suksesi do të thotë që funksionon, dhe një cilësi më e mirë suksesi jep një version më të bukur, më të qëndrueshëm ose më të vlefshëm të gjësë që po bëhet, ndoshta me cilësi shtesë si një +10% ose +20% në efikasitetin e saj kur përdoret, pikë goditjeje më të larta, etj. Kjo ka të bëjë me funksionin dhe prakticitetin: krijimi i objekteve vetëm për qëllime estetike bie nën Artin.
+
+**Specialitete:** Kovaçëri, Marangozëri, Qeramikë, Gatim, Përpunim lëkure, Kyçëri, Metalurgji, Muratorë guri, dhe të tjera sipas rastit.
+
+**Shënime për Sistemin:** Përdorimi i Zejtarisë pa mjetet e duhura është i Vështirë. Shihni Kapitullin Tetë: Pajisjet për më shumë informacion rreth krijimit, modifikimit ose riparimit të pajisjeve. Zotërimi i një artikulli të mirë veshjeje ose pajisjesh mund të rrisë madje KAR-in ndërsa artikulli është veshur ose ekspozuar.
+
+### Prishje (Demolition)
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Përdoreni këtë shkathtësi për të ruajtur, transportuar, vendosur dhe shpërthyer eksplozivë, nga fuçi baruti deri te dinamiti, kokteje molotov, eksplozivë plastikë të avancuar dhe bomba kundër-lëndore. Kushdo mund thjesht të shpërthejë një bombë: kjo është për të arritur një efekt specifik me shpërthimin; shembja e një ndërtese në mënyrë të sigurt, shkatërrimi i një ure ose hapja e derës së një kasaforte pa dëmtuar përmbajtjen. Prishja mbulon gjithashtu njohuritë e aksesorëve të përshtatshëm për eksplozivë, duke përfshirë kordonin primer, fitila dhe detonatorë. Përdorni Shkencë (Kimi) për të prodhuar komponime shpërthyese ose Shkathtësi teknike për të krijuar eksplozivë të tjerë. Një dështim kritik i hedh gjërat në fytyrën tuaj, dështimi do të thotë se efekti i dëshiruar nuk arrihet (një dështim i shkrepjes ose një dështim), dhe sukseset superiore japin rezultate më mbresëlënëse, qoftë dëmtim më i madh, më pak dëme kolaterale, efekte speciale si "Knockback", zonë shtesë efekti, etj.
+Përdoreni këtë aftësi për të ruajtur, transportuar, vendosur dhe shpërthyer eksplozivë, nga fuçitë e barutit te dinamiti, koktejet molotov, eksplozivët plastikë të avancuar dhe bombat anti-materie. Kushdo mund të shkrepë thjesht një bombë: kjo është për të arritur një efekt specifik me shpërthimin; shembjen e një ndërtese në mënyrë të sigurt, shkatërrimin e një ure ose hedhjen në erë të derës së një kasaforte pa dëmtuar përmbajtjen. Prishja mbulon gjithashtu njohurinë për aksesorët e përshtatshëm për eksplozivë, duke përfshirë kordonin primer, fitilat dhe detonatorët. Përdorni Shkencë (Kimi) për të prodhuar komponime eksplozive ose Aftësi Teknike për të sajuar eksplozivë të tjerë. Një dështim fatal hedh gjërat në erë në fytyrën tuaj, një dështim do të thotë se efekti i dëshiruar nuk arrihet (një shkrepje e gabuar ose dështim), dhe sukseset superiore japin rezultate më mbresëlënëse, qoftë më shumë dëmtim, më pak dëmtim kolateral, efekte speciale si Kthim Mbrapa (Knockback), zonë shtesë efekti, etj.
 
-**Shënime për Sistemin:** Me një vlerësim shkathtësie prej 60%+, përdorimet normale të kësaj shkathtësie kanë sukses automatikisht. Eksplozivët e paqëndrueshëm (dinamiti i djersitur) mund të kërkojnë një hedhje Prishjeje çdo raund që po trajtohen ose përdoren. Shembja e një strukture masive (urë, digë, bunker ose ndërtesë) është e Vështirë nëse karakteri juaj nuk ka qasje në planimetri ose planet e objektivit. Përpjekja për të përdorur këtë shkathtësi pa mjete të përshtatshme (fitila, etj.), ose përdorimi i eksplozivëve jashtë fushës normale të ekspertizës së karakterit tuaj mund të jetë e Vështirë ose madje e Pamundur. Disa lloje eksplozivësh si granatat mund të përdoren pa këtë shkathtësi. Shikoni Kapitullin Tetë: Pajisjet për eksplozivët dhe efektet e tyre.
+**Shënime për Sistemin:** Me një vlerësim aftësie prej 60%+, përdorimet normale të kësaj aftësie kanë sukses automatikisht. Eksplozivët e paqëndrueshëm (dinamiti me djersë) mund të kërkojnë një Prishje çdo raund që po trajtohen ose përdoren. Prishja e një strukture masive (urë, digë, bunker ose ndërtesë) është e Vështirë përveç nëse personazhi juaj ka akses në skica ose plane të objektivit. Përpjekja për të përdorur këtë aftësi pa mjetet e përshtatshme (fitila, etj.), ose përdorimi i eksplozivëve jashtë fushës normale të ekspertizës së personazhit tuaj mund të jetë e Vështirë ose madje e Pamundur. Disa lloje eksplozivësh si granatat mund të përdoren pa këtë aftësi. Shihni Kapitullin Tetë: Pajisjet për eksplozivët dhe efektet e tyre.
 
-### Maskim
+### Maskim (Disguise)
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të përdorur qëndrimin, kostumin, zërin dhe truke të tjera për t'u shfaqur si një person tjetër, ose një lloj tjetër personi. Drita e zbehtë, grimi teatror dhe ndryshimet e rëndësishme të fytyrës (një prerje flokësh ose paruke, mjekra të rreme ose një rruajtje e shpejtë) mund të shtojnë një bonus +20%, sipas gjykimit të udhëheqësit të lojës. Kalimtarët që shqyrtojnë karakterin tuaj të maskuar ose angazhohen në bisedë me ta mund të bëjnë një kontroll të kundërt të shkathtësisë Pikasje ose Intuicion kundrejt hedhjes së Maskimit të karakterit tuaj për të parë përmes trukut. Karakteri juaj i maskuar mund të përdorë shkathtësinë e tyre Të folur shpejt për kontrollin e kundërt nëse angazhojnë kalimtarin në bisedë, duke i shpërqendruar nga shqyrtimi i afërt. Një dështim kritik është haptazi i dukshëm, dështimi nuk gënjen askënd që hedh një vështrim të dytë, dhe sukseset superiore mund të shtojnë madje një bonus plotësues në hedhjet e Komunikimit kundrejt atyre që po mashtrohen, ose e bën zbulimin më të vështirë.
+Përdoreni këtë aftësi për të përdorur qëndrimin, kostumin, zërin dhe truke të tjera për t'u shfaqur si një person tjetër, ose një lloj tjetër personi. Drita e zbehtë, grimi teatral dhe ndryshimet e rëndësishme të fytyrës (një prerje flokësh ose paruke, mjekra të rreme ose një rruajtje e shpejtë) mund të shtojnë deri në një bonus +20%, sipas gjykimit të gamemaster-it. Shikuesit që ekzaminojnë personazhin tuaj të maskuar ose angazhohen në bisedë me ta mund të bëjnë një kontroll të kundërt të aftësisë Vështrim (Spot) ose Depërtim (Insight) kundër hedhjes së Maskimit të personazhit tuaj për të parë përmes mashtrimit. Personazhi juaj i maskuar mund të përdorë aftësinë e tij Fjalë të shpejta për kontrollin e kundërt nëse ata angazhojnë shikuesin në bisedë, duke e shpërqendruar nga ekzaminimi i afërt. Një dështim fatal është haptazi i dukshëm, një dështim nuk mashtron askënd që hedh një vështrim të dytë, dhe sukseset superiore mund të shtojnë madje një bonus plotësues në hedhjet e Komunikimit kundër atyre që po mashtrohen, ose e bën zbulimin më të vështirë.
 
-**Shënime për Sistemin:** Përdorimi i kësaj shkathtësie për të imituar një lloj të veçantë personi (ushtar, polic, etj.) është një veprim normal. Imitimi i dikujt shumë të ndryshëm (specie tjetër, dikush shumë më i gjatë ose më i shkurtër, anëtar i gjinisë së kundërt) ose një personi specifik të njohur (një fisnik, një i famshëm, etj.), ose përpjekja për një maskim pa veshje ose rekuizita të përshtatshme është e Vështirë. Udhëheqësi i lojës mund të caktojë penalitete shtesë për barrierat kulturore ose gjuhësore, ose nëse zbatohen kushte të shumta të Vështira. Shumë shtrirje mund të jetë thjesht e Pamundur.
+**Shënime për Sistemin:** Përdorimi i kësaj aftësie për t'u prezantuar si një lloj i caktuar personi (ushtar, polic, etj.) është një veprim normal. Prezantimi si dikush shumë i ndryshëm (specie tjetër, dikush shumë më i gjatë ose më i shkurtër, anëtar i gjinisë së kundërt) ose një person specifik i njohur (një fisnik, një i famshëm, etj.), ose përpjekja për një maskim pa veshje ose rekuizita të përshtatshme është e Vështirë. Gamemaster-i mund të caktojë penalitete shtesë për barrierat kulturore ose gjuhësore, ose nëse aplikohen kushte të shumta të Vështira. Shumë zgjatje mund të jetë thjesht e Pamundur.
 
-### Shmangie
+### Shmangie (Dodge)
 
-**Shansi Bazë:** DEX×2
+**Shansi Bazë:** SHK×2
 
-**Kategoria:** Fizike
+**Kategori:** Fizike
 
-Mbrojtja më e mirë në luftim, siç e di çdo luftëtar, është të mos jesh atje. Shmangia lejon karakterin tuaj të shmangë sulmet hyrëse, duke përdorur shkathtësinë për të shmangur ose minimizuar dëmtimin.
+Mbrojtja më e mirë në luftim, siç e di çdo luftëtar, është të mos jesh atje. Shmangia i lejon personazhit tuaj të shmangë sulmet që vijnë, duke përdorur shkathtësinë për të shmangur ose minimizuar lëndimin.
 
-**Efektet:** Një hedhje e suksesshme e Shmangies modifikon rezultatin e një sulmi të suksesshëm, duke e kthyer atë në një dështim. Një rezultat special për një hedhje Shmangieje modifikon një sulm me dy shkallë (një sukses special bëhet dështim), dhe një sukses kritik në një hedhje Shmangieje modifikon një sulm të suksesshëm me tre shkallë (një sulm kritik bëhet dështim). Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Natyrore dhe Parimit** për efekte specifike. Një hedhje e suksesshme e Shmangies nuk mund të zvogëlojë suksesin e një sulmi hyrës më poshtë se dështimi.
+**Efekte:** Një hedhje e suksesshme Shmangieje modifikon rezultatin e një sulmi të suksesshëm, duke e kthyer atë në një dështim. Një rezultat special për një hedhje Shmangieje modifikon një sulm me dy shkallë (një sukses special bëhet një dështim), dhe një sukses kritik në një hedhje Shmangieje modifikon një sulm të suksesshëm me tri shkallë (një sulm kritik bëhet një dështim). Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve Fatale të Sulmit dhe Mbrojtjes me Armë Natyrore** për efekte specifike. Një hedhje e suksesshme Shmangieje nuk mund ta zvogëlojë suksesin e një sulmi që vjen më poshtë se dështimi.
 
-**Shënime për Sistemin:** Siç përshkruhet në **Shmangie** në Kapitullin Gjashtë: Luftimi, karakteri juaj mund të Shmangë ose Parojë në një raund luftarak, por nuk mund të bëjë të dyja. Nëse karakteri juaj sulmohet nga shumë kundërshtarë, ata mund të bëjnë përpjekje të shumëfishta Shmangieje në një raund, por çdo hedhje pas të parës bëhet me një penalitet kumulativ prej –30% në vlerësimin e shkathtësisë. Disa sulme raketore janë të Vështira ose të Pamundura për t'u shmangur (shih Shmangia e Armëve Raketore).
+**Shënime për Sistemin:** Siç përshkruhet te **Shmangia** në Kapitullin Gjashtë: Luftimi, personazhi juaj mund të Shmangë ose Mbrojë në një raund luftimi, por nuk mund t'i bëjë të dyja. Nëse personazhi juaj sulmohet nga shumë armiq, ata mund të bëjnë përpjekje të shumta Shmangieje në një raund, por çdo hedhje pas të parës bëhet me një penalitet kumulativ –30% ndaj vlerësimit të aftësisë. Disa sulme hedhëse janë të Vështira ose të Pamundura për t'u shmangur (shihni Shmangien e Armëve Hedhëse).
 
-### Drejtim (të ndryshme)
+### Drejtim mjeti (të ndryshme)
 
-**Shansi Bazë:** 20% ose 01% (shih më poshtë)
+**Shansi Bazë:** 20% ose 01% (shihni më poshtë)
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Përdoreni Drejtimin për të drejtuar, manovruar dhe kontrolluar një mjet tokësor, qoftë të tërhequr nga kafshë apo të fuqizuar nga një motor. Për mjetet e zakonshme, shansi bazë është 20%, për mjete të panjohura/të rralla, është 01%. Një dështim kritik kur drejtoni normalisht do të thotë se mjeti mund të mos ndizet, ose një përplasje ose rrëzim. Suksesi do të thotë që karakteri juaj arrin atje ku është nisur, ose është në gjendje të korrigjojë një gjendje të keqe (si një rrëshqitje ose rrotullim), dhe sukseset superiore nënkuptojnë më shumë distancë të përshkuar në më pak kohë, më pak karburant të përdorur, ose ndonjë përfitim tjetër.
+Përdoreni Drejtimin e mjetit për të drejtuar, manovruar dhe kontrolluar një automjet tokësor, qoftë të tërhequr nga kafshë ose të mundësuar nga një motor. Për automjetet e zakonshme, shansi bazë është 20%, për automjetet e panjohura/të rralla, është 01%. Një dështim fatal kur drejtoni normalisht do të thotë se automjeti mund të mos ndizet, ose një përplasje ose rrëzim. Suksesi do të thotë që personazhi juaj arrin atje ku po shkon, ose është në gjendje të korrigjojë një gjendje të keqe (si një rrëshqitje ose rrotullim), dhe sukseset superiore do të thotë më shumë distancë e përshkuar në më pak kohë, më pak karburant i përdorur, ose ndonjë përfitim tjetër.
 
-**Specialitetet:** Automobil, Biçikletë, Karrocë, Qerre, Qerre lufte, Tren me qen, Motoçikletë, Kamion, Slitë, etj.
+**Specialitete:** Automobil, Biçikletë, Karrocë, Qerre, Koçi, Sani me qen, Motoçikletë, Kamion, Sani, etj.
 
-**Shënime për Mjedisin:** Rregulloni shansin bazë sipas njohjes së përdoruesit kur është e përshtatshme, por kur keni dyshime, supozoni se parimet bazë zbatohen.
+**Shënime për Mjedisin:** Rregulloni shansin bazë sipas njohurisë së përdoruesit aty ku është e përshtatshme, por kur keni dyshime, supozoni se parimet bazë zbatohen.
 
-**Shënime për Sistemin:** Shumica e drejtimit të përditshëm është një detyrë Automatike—një hedhje Drejtimi vetëm në kushte të pafavorshme ose për drejtim të jashtëzakonshëm (shpejtim nëpër një zonë të ngarkuar të qytetit, ndjekja e një mjeti tjetër, etj.). Për të ndjekur një mjet tjetër pa u vënë re, përdorni një kontroll të kundërt Drejtimi kundrejt Pikasjes së shoferit tjetër. Për të zgjidhur ndjekjet e mjeteve, shihni Ndjekjet.
-
-### Armë energjie (të ndryshme)
+**Shënime për Sistemin:** Shumica e drejtimit të përditshëm është një detyrë Automatike—një hedhje për Drejtim mjeti bëhet vetëm në kushte të pafavorshme ose për drejtim të jashtëzakonshëm (shpejtim përmes një zone të ngarkuar të qytetit, ndjekja e një automjeti tjetër, etj.). Për të ndjekur një automjet tjetër pa u vënë re, përdorni një kontroll të kundërt të Drejtimit të mjetit kundrejt Vështrimit (Spot) të shoferit tjetër. Për të zgjidhur ndjekjet e automjeteve, shihni Ndjekjet.### Armë Energjie (të ndryshme)
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë për të shkrehur çdo lloj arme dore me energji të drejtuar ose rreze (lazer, blaster, disruptorë, etj.).
+Përdoreni këtë për të shkrehur çdo lloj arme energjie të drejtuar ose arme me rreze (lazer, blaster, disruptor, etj.).
 
-**Specialitetet:** Pistoletë energjie, Pushkë energjie, etj. Specialitetet janë ekuivalente me llojet. Shikoni **Klasat e Armëve** në Kapitullin Tetë: Pajisjet për llojet e armëve të zjarrit.
+**Specialitetet:** Pistoletë Energjie, Pushkë Energjie, etj. Specialitetet janë ekuivalente me llojet. Shihni **Klasat e Armëve** në Kapitullin e Tetë: Pajisjet për llojet e armëve të zjarrit.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Raketore** për efekte specifike. Armët e energjisë zakonisht shpojnë (impale).
+**Efektet:** Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimit të Armëve me Predha** për efekte specifike. Armët e energjisë zakonisht shpojnë (impale).
 
-**Shënime për Mjedisin:** Armët e energjisë zakonisht shfaqen vetëm në mjedise futuristike. Kushdo nga një kulturë pa to duhet të bëjë një hedhje të Vështirë të Idésë për të kuptuar se si të përdorë një të tillë, dhe ndoshta vetëm pasi ta ketë parë të përdorur. Dështimet ose dështimet kritike mund të jenë katastrofike, për armën ose përdoruesin! Një sfond ushtarak mund të kërkohet për të mësuar këtë shkathtësi.
+**Shënime për Mjedisin:** Armët e energjisë zakonisht shfaqen vetëm në mjedise futuristike. Kushdo nga një kulturë pa to duhet të bëjë një hedhje të vështirë të ZGJ për të kuptuar se si ta përdorë, dhe mbase vetëm pasi ta ketë parë atë në përdorim. Dështimet ose gabimet mund të jenë katastrofike, për armën ose për përdoruesin! Një prapavijë ushtarake mund të kërkohet për të mësuar këtë aftësi.
 
-**Shënime për Sistemin:** Disa armë energjie kanë një kërkesë minimale STR dhe DEX për të përdorur armën, sipas tabelave të armëve në Kapitullin Tetë: Pajisjet. Armët e energjisë nuk përdorin modifikues dëmtimi, por mund të përdoren për sulme të synuara. Ato nuk mund të shmangen, megjithëse lëvizja dhe orientimi i objektivit mund të imponojnë penalitete në goditje, siç përshkruhet në Shmangia e Armëve Raketore. Bllokimi i goditjeve energjetike me shkathtësinë Mburojë është e Vështirë.
+**Shënime për Sistemin:** Disa armë energjie kanë një kërkesë minimale për FOR dhe SHK për të përdorur armën, sipas tabelave të armëve në Kapitullin e Tetë: Pajisjet. Armët e energjisë nuk përdorin modifikues dëmi, por mund të përdoren për sulme të shënjestruara. Ato nuk mund të shmangen, megjithëse lëvizja dhe orientimi i objektivit mund të imponojnë ndëshkime për goditjen, siç përshkruhet te Shmangia e Armëve me Predha. Bllokimi i goditjeve të energjisë me aftësinë Mburojë është i vështirë.
 
 ### Etiketë (të ndryshme)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Shumica e kulturave, kastave ose grupeve kanë rregulla sociale dhe kode sjelljeje. Veshja e duhur, mënyrat e të folurit, sjelljet specifike, gjuha e trupit, ose madje gjykimet përmes luftimit mund të luajnë një rol në etiketin e një grupi. Përdoreni këtë shkathtësi sa herë që karakteri juaj duhet të sillet në mënyrë të përshtatshme, qoftë duke marrë pjesë në një mbrëmje darke viktoriane, një intervistë të rëndësishme pune ose duke iu bashkuar një familjeje të krimit të organizuar. Hedhjet e Etiketës mund të fitojnë një audiencë me një personazh të rëndësishëm jo-lojtar ose të bëjnë përshtypje të tjerëve me njohuritë tuaja për zakonet e tyre sociale. Një dështim kritik përfaqëson një gabim katastrofik, dështimi nuk bën përshtypje, dhe suksesi ose më mirë jep rezultate superiore dhe përmirëson pritjen e dikujt.
+Shumica e kulturave, kastave ose grupeve kanë rregulla shoqërore dhe kode sjelljeje. Veshja e duhur, mënyrat e të folurit, sjelljet specifike, gjuha e trupit, apo edhe gjyqet përmes dyluftimit, të gjitha mund të luajnë një rol në etiketën e një grupi. Përdoreni këtë aftësi sa herë që personazhi juaj duhet të sillet në mënyrë të përshtatshme, qoftë kur merr pjesë në një darkë viktoriane, një intervistë të rëndësishme pune, ose kur i bashkohet një familjeje të krimit të organizuar. Hedhjet e Etiketës mund të sigurojnë një audiencë me një personazh të rëndësishëm jo-lojtar ose mund të impresionojnë të tjerët me njohuritë tuaja për moralin e tyre shoqëror. Një dështim përfaqëson një gafë katastrofike, një dështim i thjeshtë nuk lë përshtypje, ndërsa suksesi ose më mirë sjell rezultate superiore dhe përmirëson pritjen e dikujt.
 
-**Specialiteti:** Sipas grupit. Për të mësuar sjelljet e një grupi të dytë, mësoni një shkathtësi të dytë Etiketë me atë specialitet.
+**Specialiteti:** Sipas grupit. Për të mësuar mënyrat e një grupi të dytë, mësoni një aftësi të dytë Etikete me atë specialitet.
 
-**Shënime për Sistemin:** Udhëheqësi i lojës duhet të kërkojë hedhje të Etiketës vetëm në rrethana të rëndësishme: për shembull, herën e parë që ndërveproni me një grup të rëndësishëm, një rast domethënës, ose kur përpiqeni të avanconi statusin brenda grupit.
+**Shënime për Sistemin:** Udhëheqësi i lojës duhet të kërkojë hedhje Etikete vetëm në rrethana të rëndësishme: për shembull, herën e parë që ndërveproni me një grup të rëndësishëm, një rast domethënës, ose kur përpiqeni të avanconi statusin brenda grupit.
 
-### Të folur shpejt
-
-**Shansi Bazë:** 05%
-
-**Kategoria:** Komunikim
-
-Arma e preferuar e shitësve, spiunëve ose njerëzve të besueshëm, përdoreni këtë shkathtësi për të bindur shpejt një objektiv për diçka që ata mund të mos e besojnë, ose për t'i bindur ata të marrin një vendim të shpejtë kundër gjykimit të tyre më të mirë. Përdoreni këtë për të kaluar me bllof një portier ose për të bërë një shitje të vështirë të shkojë shpejt. Të folurit shpejt është i shpejtë për t'u përdorur, dhe zakonisht i përkohshëm: disa minuta më vonë dhe një hedhje e suksesshme e Idésë, dhe objektivi mund të vijë në vete. Për të ndryshuar vërtet mendjen e dikujt, përdorni shkathtësitë Pazar ose Bindje. Një dështim kritik zakonisht tërheq armiqësi, dështimi nuk ju çon askund, dhe suksesi ose më mirë ka efektivitet të përmirësuar, ose madje bind dikë përgjithmonë për pozicionin tuaj.
-
-**Shënime për Sistemin:** Roleplay i mirë dhe/ose një argument efektiv mund ta bëjnë një përpjekje të "Të folurit shpejt" të Lehtë, ashtu si roleplay i dobët dhe/ose një argument i dobët mund ta bëjnë atë të Vështirë. Përpjekja për t'i folur shpejt një objektivi pasi një përpjekje e parë te Pazar, Të folur shpejt ose Bindje dështon është e Vështirë.
-
-### Manipulim i imët
+### Fast Talk (Të folur të shpejtë)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Manipulim
+**Kategori:** Komunikim
 
-Një masë e qëndrueshmërisë dhe koordinimit dorë-sy, kjo shkathtësi mbulon çdo përdorim të kujdesshëm të duarve dhe gishtave. Përdoreni atë kur hapni brava, çarmatosni një kurth, lidhni ose zgjidhni nyje, dhe çmontoni pajisje mekanike. Një dështim kritik prish gjërat, ndoshta duke thyer ose bllokuar artikullin që po manipulohet. Sukseset superiore marrin më pak kohë, e bëjnë të lehtë në të ardhmen, nuk tregojnë shenja manipulimi, ose ndonjë përfitim tjetër të ngjashëm.
+Arma e preferuar e shitësve, spiunëve ose mashtruesve, përdoreni këtë aftësi për të bindur shpejt një objektiv për diçka që mund të mos e besojnë, ose për t'i bindur ata të marrin një vendim të shpejtë kundër gjykimit të tyre më të mirë. Përdoreni këtë për të kaluar një portier ose për të bërë një shitje të vështirë të shkojë shpejt. Fast Talk është e shpejtë për t'u përdorur dhe zakonisht e përkohshme: disa minuta dhe një hedhje e suksesshme e ZGJ më vonë, dhe objektivi mund të vijë në vete. Për të ndryshuar vërtet mendjen e dikujt, përdorni aftësitë Pazar (Bargain) ose Bindje (Persuade). Një dështim zakonisht shkakton armiqësi, një dështim nuk ju çon askund, dhe suksesi ose më mirë ka efektivitet të përmirësuar, ose madje bind dikë përgjithmonë për pozicionin tuaj.
 
-**Shënime për Sistemin:** Përdorimi i kësaj shkathtësie pa mjetet e duhura, ku kërkohet, është e Vështirë.
+**Shënime për Sistemin:** Interpretimi i mirë dhe/ose një argument efektiv mund ta bëjnë një përpjekje Fast Talk të Lehtë, ashtu si interpretimi i dobët dhe/ose një argument i dobët mund ta bëjë atë të Vështirë. Përpjekja për të bërë Fast Talk ndaj një objektivi pasi një përpjekje e parë për Pazar, Fast Talk ose Bindje dështon, është e Vështirë.
 
-### Armë zjarri (të ndryshme)
+### Manipulim i Imët (Fine Manipulation)
+
+**Shansi Bazë:** 05%
+
+**Kategori:** Manipulim
+
+Një masë e qëndrueshmërisë dhe koordinimit sy-dorë, kjo aftësi mbulon çdo përdorim të kujdesshëm të duarve dhe gishtërinjve. Përdoreni atë kur hapni dryna, çaktivizoni një kurth, lidhni ose zgjidhni nyje dhe çmontoni pajisje mekanike. Një dështim prish punët, mbase duke thyer ose bllokuar sendin që po manipulohet. Suksese superiore marrin më pak kohë, e bëjnë të lehtë në të ardhmen, nuk tregojnë shenja ndërhyrjeje ose ndonjë përfitim tjetër të ngjashëm.
+
+**Shënime për Sistemin:** Përdorimi i kësaj aftësie pa mjetet e duhura, aty ku kërkohet, është e Vështirë.
+
+### Armë Zjarri (të ndryshme)
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Kjo shkathtësi mat saktësinë me armë zjarri, dhe siguron njohje me trajtimin, mirëmbajtjen dhe riparimet bazë.
+Kjo aftësi mat saktësinë me armët e zjarrit dhe siguron familjaritet me trajtimin, mirëmbajtjen dhe riparimet bazë.
 
-**Specialitetet:** Mitraloz, Pistoletë, Revolver, Pushkë, Shotgun, Nën-mitraloz. Specialitetet janë ekuivalente me llojet. Shikoni **Klasat e Armëve** në Kapitullin Tetë: Pajisjet për llojet e armëve të zjarrit.
+**Specialitetet:** Mitraloz, Pistoletë, Revolver, Pushkë, Shotgun, Automat. Specialitetet janë ekuivalente me llojet. Shihni **Klasat e Armëve** në Kapitullin e Tetë: Pajisjet për llojet e armëve të zjarrit.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Raketore** për efekte specifike. Armët e zjarrit zakonisht shpojnë (shih Kapitullin Tetë: Pajisjet për detaje).
+**Efektet:** Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimit të Armëve me Predha** për efekte specifike. Armët e zjarrit zakonisht shpojnë (shihni Kapitullin e Tetë: Pajisjet për detaje).
 
-**Shënime për Mjedisin:** Çdo karakter i panjohur me armët e zjarrit duhet të bëjë një hedhje të Vështirë të Idésë për të kuptuar se si të përdorë një të tillë nëse nuk e ka parë në përdorim. Dështimet ose dështimet kritike mund të jenë katastrofike, për armën ose përdoruesin!
+**Shënime për Mjedisin:** Çdo personazh i pa njohur me armët e zjarrit duhet të bëjë një hedhje të vështirë të ZGJ për të kuptuar se si ta përdorë, nëse nuk e ka parë atë në përdorim. Dështimet ose gabimet mund të jenë katastrofike, për armën ose për përdoruesin!
 
-**Shënime për Sistemin:** Disa armë zjarri kanë një kërkesë minimale STR dhe DEX, sipas tabelave të armëve në Kapitullin Tetë: Pajisjet. Armët e zjarrit nuk përdorin modifikues dëmtimi, dhe mund të përdoren për sulme të synuara.
+**Shënime për Sistemin:** Disa armë zjarri kanë një kërkesë minimale për FOR dhe SHK, sipas tabelave të armëve në Kapitullin e Tetë: Pajisjet. Armët e zjarrit nuk përdorin modifikues dëmi dhe mund të përdoren për sulme të shënjestruara.
 
-### Ndihmë e parë
+### Ndihma e Parë
 
 **Shansi Bazë:** 30%
 
-**Kategoria:** Mendore
+**Kategori:** Mendore
 
-Përdoreni këtë shkathtësi për të ndaluar gjakderdhjen, për të lidhur plagët dhe për të trajtuar djegie të lehta, për të rregulluar një gjymtyrë të thyer, për të ringjallur dikë që po mbytet, ose për të sjellë në vete një person pa ndjenja. Ajo shtrihet në triazh dhe kujdes mjekësor rudimentar, por ka pak efekt në helme, sëmundje ose sëmundje subtile fizike: këto duhet të trajtohen me shkathtësinë Mjekësi, megjithëse udhëheqësi i lojës mund të lejojë një hedhje të Vështirë për trajtimin emergjent të helmit ose sëmundjes. Ndihma e parë kërkon një raund të plotë luftarak dhe zakonisht nuk mund të kryhet gjatë luftimit. Nëse ndërpritet, përpjekja duhet të riniset.
+Përdoreni këtë aftësi për të ndaluar gjakderdhjen, për të lidhur plagët dhe për të trajtuar djegiet e lehta, për të fiksuar një gjymtyrë të thyer, për të ringjallur dikë që po mbytet, ose për të kthyer në vetëdije një person të pavetëdijshëm. Ajo shtrihet në triazh dhe kujdes mjekësor fillestar, por ka pak efekt në helme, sëmundje ose sëmundje delikate fizike: këto duhet të trajtohen me aftësinë Mjekësi, megjithëse udhëheqësi i lojës mund të lejojë një hedhje të vështirë për trajtimin urgjent të helmit ose sëmundjes. Ndihma e parë kërkon një raund të plotë luftimi dhe normalisht nuk mund të kryhet gjatë luftimit. Nëse ndërpritet, përpjekja duhet të riniset.
 
 **Efektet:** Ndihma e parë ka efekte specifike:
 
-* **Dështim kritik:** Pacienti merr 1 pikë dëmtimi të përgjithshëm, dhe gjendja e tij mbetet e pandryshuar.
-* **Dështim:** Asnjë efekt, dhe nuk mund të bëhen përpjekje të mëtejshme për Ndihmë të parë.
-* **Sukses:** Një nga sa vijon (zgjedhja e lojtarit):
-  * Shëroni 1D3 pikë goditjeje për një plagë ose lëndim të vetëm.
+* **Dështim (Fumble):** Pacienti merr 1 pikë dëmi të përgjithshëm dhe gjendja e tij mbetet e pandryshuar.
+* **Dështim:** Asnjë efekt dhe nuk mund të bëhen përpjekje të tjera për Ndihmën e Parë.
+* **Sukses:** Një nga sa më poshtë (zgjedhja e lojtarit):
+  * Shëroni 1D3 pikë jete për një plagë ose dëmtim të vetëm.
+  * Një personazh me 0 ose më pak pikë jete në këtë raund ose në raundin e mëparshëm mund të kthehet në jetë nëse totali i pikëve të jetës së tij çohet në 1+.
+  * Ringjallja e një personazhi të pavetëdijshëm.
+  * Ndalimi i dëmit nga gjakderdhja nga një sukses i veçantë gjakderdhjeje ose çdo dëmtim tjetër të vazhdueshëm në një vend trupor (shihni **Pikët e Jetës për Vend në Trup**).
+* **Special:** Si më sipër, por duke shëruar 2D3 pikë jete.
+* **Kritik:** Si më sipër, por duke shëruar 3+1D3 pikë jete.
 
-  * Një karakter me 0 ose pikë goditjeje negative në këtë ose raundin e mëparshëm, mund të rikthehet në jetë nëse totali i pikëve të goditjes së tij çohet në 1+.
+**Shënime për Sistemin:** Mbani gjurmët e dëmtimeve individuale, pasi Ndihma e Parë mund të përdoret për çdo dëmtim, duke e shëruar potencialisht deri në sasinë e pikëve të jetës që ka shkaktuar dëmtimi. Mund të bëhet vetëm një përpjekje për plagë. Kushtet e rrezikshme ose jo higjienike mund t'i bëjnë hedhjet të vështira. Personazhi juaj mund të shtojë 1/2 e vlerësimit të aftësisë së Mjekësisë dhe 1/5 e vlerësimit të aftësisë së Shkencës (Farmaci) si një bonus të përkohshëm për hedhjet e Ndihmës së Parë. Pajisjet moderne mjekësore (ilaçe kundër dhimbjeve, fasho ose ilaçe) mund të shtojnë deri në një bonus +20% në vlerësimet e aftësive, ndërsa teknologjia mjekësore futuriste (lëkurë artificiale me spërkatje, skanues mjekësorë, shërues nanoteknologjikë) mund t'i bëjë të gjitha hedhjet e Ndihmës së Parë të Lehta.
 
-  * Ringjallja e një karakteri pa ndjenja.
+### Fluturim (Fly)
 
-  * Ndalimi i dëmtimit nga gjakderdhja nga një sukses special ose çdo dëmtim tjetër në vazhdim në një vendndodhje goditjeje (shih **Pikët e Goditjes për Vendndodhje Goditjeje**).
-* **Special:** Si më lart por shërimi i 2D3 pikëve të goditjes.
-* **Kritik:** Si më lart por shërimi i 3+1D3 pikëve të goditjes.
+**Shansi Bazë:** SHK×4 ose 1/2 SHK (shihni më poshtë)
 
-**Shënime për Sistemin:** Mbani gjurmët e lëndimeve individuale, pasi Ndihma e parë mund të përdoret për secilin lëndim, duke e shëruar potencialisht deri në sasinë e pikëve të goditjes që lëndimi shkaktoi. Mund të bëhet vetëm një përpjekje për plagë. Kushtet e rrezikshme ose johigjienike mund t'i bëjnë hedhjet të Vështira. Karakteri juaj mund të shtojë 1/2 e vlerësimit të shkathtësisë së tyre Mjekësi dhe 1/5 e vlerësimit të tyre Shkencë (Farmaci) si një bonus të përkohshëm në hedhjet e Ndihmës së parë. Pajisjet moderne mjekësore (qetësues, fashë, ose ilaçe) mund të shtojnë deri në një bonus +20% në vlerësimet e shkathtësive, ndërsa teknologjia mjekësore futuristike (lëkurë artificiale, skanerë mjekësorë, shërues nanoteknologjikë) i bën të gjitha hedhjet e Ndihmës së parë të Lehta.
+**Kategori:** Fizike
 
-### Fluturim
-
-**Shansi Bazë:** DEX×4 ose 1/2 DEX (shih më poshtë)
-
-**Kategoria:** Fizike
-
-Për qeniet me krahë, pajisjet e përshtatshme (rrip kundër gravitetit, çizme raketore, etj.), ose fuqitë e fluturimit, përdoreni këtë shkathtësi për të manovruar në ajër pa mjet. Përdoreni Fluturimin për të kryer manovra ajrore ose akrobaci pa humbur kontrollin, për të manovruar një kundërshtar në luftim ajror, ose për të fluturuar në kushte të këqija moti. Shansi bazë është DEX×4 për krijesat me krahë; 1/2 DEX për të gjithë të tjerët. Për "jet pack", "hang-glider", etj., përdorni shkathtësinë Pilotim. Shikoni **Luftimin Ajror** dhe **Ndjekjet** për më shumë informacion.
+Për qeniet me krahë, pajisjet e përshtatshme (rrip antigraviteti, çizme raketë, etj.) ose fuqi fluturimi, përdoreni këtë aftësi për të manovruar në ajër pa automjet. Përdoreni Fluturimin për të kryer manovra ajrore ose akrobaci pa humbur kontrollin, për të tejkaluar një kundërshtar në luftimin ajror, ose për të fluturuar në kushte të këqija moti. Shansi bazë është SHK×4 për krijesat me krahë; 1/2 SHK për të gjithë të tjerët. Për pajisjet me motorë reaktivë, parashutat, etj., përdorni aftësinë Pilot. Shihni **Luftimi Ajror** dhe **Ndjekjet** për më shumë informacion.
 
 **Efektet:** Fluturimi ka efekte specifike:
 
-* **Dështim kritik:** Ndalesë dhe ndoshta madje rënie. Karakteret me krahë duhet të bëjnë një hedhje të suksesshme të Qëndrueshmërisë ose të pësojnë 1D3–1 pikë dëmtimi nga një shtrembërim ose tendosje. Një pajisje ndalet ose dështon dhe nuk mund ta mbajë karakterin tuaj lart. Fluturuesi bie një raund për çdo nivel lartësie mbi tokë. Bëni një hedhje të Vështirë Fluturimi për të qëndruar lart—dështimi do të thotë një përplasje (shih **Rënia**).
+* **Dështim (Fumble):** Stall (humbje e vrullit) dhe mbase edhe rënie. Personazhet me krahë duhet të bëjnë një hedhje të suksesshme të QEN ose të pësojnë 1D3–1 pikë dëmi nga një shtrembërim ose sforcim. Një pajisje dështon dhe nuk mund ta mbajë personazhin tuaj lart. Fluturuesi bie një raund për çdo nivel lartësie mbi tokë. Bëni një hedhje të Vështirë Fluturimi për të qëndruar lart—dështimi do të thotë një përplasje (shihni **Rënia**).
 * **Dështim:** Jashtë kursit ose bie në një lartësi të padëshiruar. Nuk shkon askund.
-* **Sukses:** Përfundon manovrën e dëshiruar ose mban pozicionin në një ndjekje
-* **Special:** Përfundon manovrën e dëshiruar dhe fiton një bonus +10% në hedhjen e ardhshme të Shmangies, Fluturimit ose sulmit të bërë në luftimin ajror.
-* **Kritik:** Përfundon manovrën e dëshiruar dhe fiton një bonus +25% në hedhjen e ardhshme të Shmangies, Fluturimit ose sulmit të bërë në luftimin ajror.
+* **Sukses:** Kryen manovrën e dëshiruar ose mban pozicionin në një ndjekje.
+* **Special:** Kryen manovrën e dëshiruar dhe fiton një bonus +10% në hedhjen tjetër të Shmangies, Fluturimit ose sulmit të bërë në luftimin ajror.
+* **Kritik:** Kryen manovrën e dëshiruar dhe fiton një bonus +25% në hedhjen tjetër të Shmangies, Fluturimit ose sulmit të bërë në luftimin ajror.
 
-**Shënime për Sistemin:** Fluturimet e shkurtra dhe pa ngjarje në kushte normale ose të moderuara janë Automatike. Shikoni **Kushtet e Motit** për modifikuesit e fluturimit. Hedhjet e Qëndrueshmërisë kërkohen për fluturime në distanca të gjata, me shumëfishuesin e karakteristikës që ulet me një çdo katër orë ose pjesë të saj të kaluar në ajër. Fluturimi normal nuk shpenzon pikë lodhjeje, ndërsa manovrimi ose fluturimi stresues është një aktivitet i mundimshëm. Fluturimi ndërsa vishni armaturë ose pajisje të rënda shkakton një penalitet të barabartë me totalin aktual të ENC të karakterit tuaj (shih **Ngarkesa**). Një karakter fluturues që mban një objekt të rëndë duhet të përputhë STR-në e tij kundrejt SIZ-it të objektit të mbajtur në tabelën e rezistencës për të qëndruar lart.
+**Shënime për Sistemin:** Fluturimet e shkurtra dhe pa ngjarje në kushte normale ose të moderuara janë Automatike. Shihni **Kushtet e Motit** për modifikuesit e fluturimit. Hedhjet e QEN kërkohen për fluturimet në distanca të gjata, me shumëfishuesin e karakteristikës që ulet me një çdo katër orë ose pjesë të saj të kaluar në ajër. Fluturimi normal nuk harxhon pikë lodhjeje, ndërsa manovrimi ose fluturimi stresues është një aktivitet rraskapitës. Fluturimi ndërsa mbani forca të blinduara ose pajisje të rënda sjell një ndëshkim të barabartë me totalin aktual të ENC të personazhit tuaj (shihni **Ngarkesën**). Një personazh fluturues që mban një objekt të rëndë duhet të përputhë FOR e tyre kundrejt MAD të objektit të mbajtur në tabelën e rezistencës për të qëndruar lart.
 
-### Lojëra fati
+### Lojëra (Gaming)
 
-**Shansi Bazë:** INT+POW%
+**Shansi Bazë:** ZGJ+FUQ%
 
-**Kategoria:** Mendore
+**Kategori:** Mendore
 
-Përdoreni këtë shkathtësi gjatë lojërave, nga shahu ose backgammon deri te garat e lojërave të fatit që përfshijnë letra, zare ose elementë të tjerë të rastësishëm ose strategjikë. Kumarxhinjtë fitojnë jetesën e tyre duke përdorur këtë shkathtësi, por për shumicën e të tjerëve është thjesht një burim argëtimi. Një dështim kritik ju pastron dhe potencialisht ju fut në borxhe, dështimi do të thotë se humbisni raundin, suksesi jep një fitore të vogël, dhe sukseset superiore korrin përfitime më të mëdha dhe ndoshta madje përmirësojnë statusin e dikujt.
+Përdoreni këtë aftësi gjatë lojërave, nga shahu ose tavlla te garat e bixhozit që përfshijnë letra, zare ose elemente të tjera të rastësishme ose strategjike. Bixhozçinjtë e fitojnë bukën e gojës duke përdorur këtë aftësi, por për shumicën e të tjerëve ajo është thjesht një burim argëtimi. Një dështim (fumble) ju lë pa gjë dhe potencialisht ju fut në borxhe, dështimi do të thotë se humbisni raundin, suksesi sjell një fitore të vogël, dhe suksese superiore korrin përfitime më të mëdha dhe mbase edhe përmirësojnë statusin e dikujt.
 
-**Shënime për Sistemin:** Përdoreni këtë për të zgjidhur lojëra ku shkathtësia dhe strategjia luajnë ndonjë rol, me lojtarët e tjerë që bëjnë një hedhje të kundërt. Për të mashtruar, përdorni Shkathtësi manuale ose Të folur shpejt, të kundërshtuar nga Vëzhgimi ose Intuicioni. Rezultatet krejtësisht të rastësishme përdorin hedhje Fati.
+**Shënime për Sistemin:** Përdoreni këtë për të zgjidhur lojërat ku aftësia dhe strategjia luajnë ndonjë rol, me lojtarët e tjerë që bëjnë një hedhje të kundërt. Për të mashtruar, përdorni Shkathtësi (Sleight of Hand) ose Fast Talk, të kundërshtuara nga Vëzhgimi (Observe) ose Intuita (Insight). Rezultatet krejtësisht të rastësishme përdorin hedhjet e Fatit.
 
-### Mundje
+### Kapje (Grapple)
 
 **Shansi Bazë:** 25%
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për mundje ose çdo luftim ku qëllimi është të nënshtroni një objektiv pa shkaktuar dëm. Zakonisht kjo është jovdekjeprurëse, por mund të përdoret për të shkaktuar dëm të vërtetë.
+Përdoreni këtë aftësi për mundje ose çdo luftim ku qëllimi është të nënshtroni një objektiv pa shkaktuar dëm. Zakonisht kjo është pa vdekje, por mund të përdoret për të shkaktuar dëm real.
 
-**Efektet:** Mundja ka efekte specifike:
+**Efektet:** Kapja ka efekte specifike:
 
-* **Dështim kritik:** Hidhni në tabelën e **Dështimeve të Armëve Natyrore**.
-* **Dështim:** Objektivi shmanget nga mbajtja, ose një përpjekje për arratisje dështon.
-* **Sukses:** Objektivi është kapur, sulmuesi mund të aplikojë një efekt mundjeje (shih **Efektet e Mundjes** më poshtë) raundin tjetër nëse mbajtja ruhet.
-* **Special:** Sulmuesi ka sukses automatikisht në hedhjen e tij të ardhshme të Mundjes për të ruajtur mbajtjen dhe fiton një bonus +3 të karakteristikës në çdo hedhje rezistence për efektet e mundjes të bëra këtë raund.
-* **Kritik:** Sulmuesi ka sukses automatikisht në hedhjen e tij të ardhshme të Mundjes për të ruajtur mbajtjen, dhe karakteristikat e objektivit përgjysmohen në çdo hedhje rezistence për efektet e mundjes gjatë pjesës së mbetur të atij raundi luftarak.
+* **Dështim (Fumble):** Hidhni në tabelën e **Dështimit të Armëve Natyrore**.
+* **Dështim:** Objektivi shmanget nga mbajtja, ose një përpjekje për t'u arratisur dështon.
+* **Sukses:** Objektivi kapet, sulmuesi mund të aplikojë një efekt kapjeje (shihni **Efektet e Kapjes** më poshtë) raundin tjetër nëse mbahet mbajtja.
+* **Special:** Sulmuesi automatikisht ka sukses në hedhjen e tij të ardhshme të Kapjes për të ruajtur mbajtjen dhe fiton një bonus +3 të karakteristikës në çdo hedhje rezistence për efektet e kapjes të bëra këtë raund.
+* **Kritik:** Sulmuesi automatikisht ka sukses në hedhjen e tij të ardhshme të Kapjes për të ruajtur mbajtjen, dhe karakteristikat e objektivit përgjysmohen në çdo hedhje rezistence për efektet e kapjes gjatë pjesës tjetër të atij raundi luftimi.
 
-**Shënime për Sistemin:** Sulmuesi duhet të bëjë një Mundje me sukses për të vendosur një mbajtje mbi objektiv. Sulmet e suksesshme kapin një vendndodhje të rastësishme të goditjes (nëse përdoret ai sistem). Mundjet mund të parohen me shkathtësinë Mundje: nëse mbrojtësi paron me një armë ose mburojë, sulmuesi automatikisht kap krahun e armës ose krahun e mburojës nëse hedhja e Mundjes është e suksesshme. Pasi të vendoset një mbajtje, sulmuesi duhet të bëjë një hedhje të suksesshme të Mundjes çdo raund për të ruajtur mbajtjen. Ndërmarrja e çdo veprimi përveç njërit prej efekteve të mundjes e thyen mbajtjen. Pasi të mbahet, objektivi mund të sulmojë sulmuesin e tij nëse ka një gjymtyrë të lirë, duke përdorur Përleshje ose ndonjë armë të vogël (thika ose pistoleta). Nëse të dyja duart janë të lira, objektivi mund të provojë të Mundë përsëri.
+**Shënime për Sistemin:** Sulmuesi duhet të bëjë një Kapje me sukses për të vendosur një mbajtje mbi objektiv. Sulmet e suksesshme kapin një vend trupor të rastësishëm (nëse përdoret ai sistem). Kapjet mund të shmangen me aftësinë Kapje: nëse mbrojtësi shmanget me një armë ose mburojë, sulmuesi kap automatikisht krahun e armës ose krahun e mburojës nëse hedhja e Kapjes është e suksesshme. Pasi të vendoset një mbajtje, sulmuesi duhet të bëjë një hedhje të suksesshme Kapjeje çdo raund për ta ruajtur atë. Kryerja e çdo veprimi tjetër përveç njërit prej efekteve të kapjes e thyen mbajtjen. Pasi të jetë kapur, objektivi mund ta sulmojë sulmuesin e tij nëse kanë një gjymtyrë të lirë, duke përdorur Përleshje (Brawl) ose ndonjë armë të vogël (thika ose pistoleta). Nëse të dyja duart janë të lira, objektivi mund të përpiqet të kapë (Grapple) përsëri.
 
-Sulmues të shumtë mund të provojnë të kapin një objektiv të vetëm, megjithëse jo më shumë se dy sulmues mund të mbajnë çdo vendndodhje. Kombinoni vlerësimet STR të të dy sulmuesve në të gjitha testet e kontestuara.
+Sulmues të shumtë mund të përpiqen të kapin një objektiv të vetëm, megjithëse jo më shumë se dy sulmues mund të mbajnë ndonjë vendndodhje. Kombinoni vlerësimet FOR të të dy sulmuesve në të gjitha testet e kontestuara.
 
-> ### Efektet e Mundjes
+> ### Efektet e Kapjes
 >
-> Një sulmues me një mbajtje mbi objektivin e tij mund të provojë çdo nga efektet e mëposhtme, një për raund, duke filluar raundin pas kapjes së Mundjes. Disa efekte mund të përdoren vetëm nëse sulmuesi ka kapur një pjesë specifike të trupit (shih më poshtë). Meqenëse disa efekte përfshijnë vendndodhje specifike të goditjes, udhëheqësi i lojës mund të ketë nevojë të interpretojë rezultatet.
+> Një sulmues me një mbajtje mbi objektivin e tij mund të provojë ndonjë nga efektet e mëposhtme, një për raund, duke filluar raundin pasi Kapja të ketë marrë vend. Disa efekte mund të përdoren vetëm nëse sulmuesi ka kapur një pjesë specifike të trupit (shihni më poshtë). Meqenëse disa efekte përfshijnë vende specifike të trupit, udhëheqësi i lojës mund të duhet të interpretojë rezultatet.
 >
-> * **Ndrysho Mbajtjen (Çdo):** Përputh DEX vs. DEX në tabelën e rezistencës. Nëse është i suksesshëm, sulmuesi zhvendos mbajtjen në një vendndodhje tjetër të goditjes së zgjedhur. Nëse është i pasuksesshëm, objektivi mund të ndërmarrë një veprim, megjithëse sulmuesi ende ka një mbajtje në vendndodhjen origjinale.
+> * **Ndrysho Mbajtjen (Kudo):** Përputh SHK vs. SHK në tabelën e rezistencës. Nëse ka sukses, sulmuesi zhvendos mbajtjen në një vend tjetër trupor të zgjedhur. Nëse nuk ka sukses, objektivi mund të kryejë një veprim, megjithëse sulmuesi ende ka një mbajtje në vendndodhjen origjinale.
 >
-> * **Çarmatos Objektivin (Krah):** Sulmuesi përputh STR+SIZ vs. STR-në e objektivit në tabelën e rezistencës. Nëse sulmuesi ka sukses, objektivi lëshon çdo gjë në atë dorë, dhe krahu mbetet i palëvizshëm. Nëse është i pasuksesshëm, objektivi varet nga artikulli(et) e mbajtur, megjithëse krahu i tij mbetet i palëvizshëm. Sulmuesi ruan mbajtjen.
+> * **Çarmatos Objektivin (Krah):** Sulmuesi përputh FOR+MAD vs. FOR të objektivit në tabelën e rezistencës. Nëse sulmuesi ka sukses, objektivi lëshon çdo gjë në atë dorë dhe krahu mbetet i palëvizshëm. Nëse nuk ka sukses, objektivi mbahet pas sendit(eve) të mbajtura, megjithëse krahu i tij mbetet i palëvizshëm. Sulmuesi ruan mbajtjen.
 >
-> * **Kap një Vendndodhje të Dytë (Krah/Këmbë):** Sulmuesi përpiqet të kapë dhe mbajë një vendndodhje tjetër të goditjes së zgjedhur. Përputh DEX-in e sulmuesit vs. DEX+SIZ-in e objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, ai kap vendndodhjen e dytë dhe e mban gjymtyrën tashmë të kapur të bllokuar. Nëse është i pasuksesshëm, objektivi përputh menjëherë STR-në e tij vs. STR-në e sulmuesit në tabelën e rezistencës për të thyer të gjitha mbajtjet. Sulmuesi mund të mbajë aq vendndodhje sa ka duar.
+> * **Kap një Vend të Dytë (Krah/Këmbë):** Sulmuesi përpiqet të kapë dhe të mbajë një vend tjetër trupor të zgjedhjes së tij. Përputh SHK të sulmuesit vs. SHK+MAD të objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, ai kap vendin e dytë dhe mban të bllokuar gjymtyrën tashmë të kapur. Nëse nuk ka sukses, objektivi menjëherë përputh FOR e tij vs. FOR të sulmuesit në tabelën e rezistencës për të thyer të gjitha mbajtjet. Sulmuesi mund të mbajë aq vende sa ka duar.
 >
-> * **Imobilizo Gjymtyrën (Krah/Këmbë):** Përputh STR-në e sulmuesit vs. STR-në e objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, asnjë veprim nuk mund të ndërmerret me atë gjymtyrë derisa mbajtja të thyhet. Nëse është i pasuksesshëm, objektivi mund të ndërmarrë një veprim, megjithëse sulmuesi ende ka një mbajtje në gjymtyrë.
+> * **Imobilizo Gjymtyrën (Krah/Këmbë):** Përputh FOR të sulmuesit vs. FOR të objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, asnjë veprim nuk mund të kryhet me atë gjymtyrë derisa të thyhet mbajtja. Nëse nuk ka sukses, objektivi mund të kryejë një veprim, megjithëse sulmuesi ende ka një mbajtje në gjymtyrë.
 >
-> * **Lëndo Objektivin (Kokë/Kraharor/Bark):** Sulmuesi godet me bërryl, gërvisht ose shtrydh, duke shkaktuar 1D3 pikë dëmtimi plus modifikuesin e tij të dëmtimit në objektiv (të përgjithshëm ose në vendndodhjen e mbajtur të goditjes). Objektivi mund të përputhë menjëherë STR-në e tij vs. STR-në e sulmuesit në tabelën e rezistencës për të thyer mbajtjen.
+> * **Lëndo Objektivin (Kokë/Kraharor/Bark):** Sulmuesi godet me bërryl, shpon ose shtrydh, duke shkaktuar 1D3 pikë dëmi plus modifikuesin e tij të dëmit ndaj objektivit (të përgjithshëm ose ndaj vendit të kapur të trupit). Objektivi mund të përputhë menjëherë FOR e tij vs. FOR të sulmuesit në tabelën e rezistencës për të thyer mbajtjen.
 >
-> * **Imobilizo Objektivin (Kokë/Kraharor/Bark):** Përputh STR-në e sulmuesit vs. STR-në e objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, objektivi nuk mund të ndërmarrë asnjë veprim derisa mbajtja të thyhet. Nëse është i pasuksesshëm, objektivi ende mund të ndërmarrë veprime, megjithëse sulmuesi ende ka një mbajtje.
+> * **Imobilizo Objektivin (Kokë/Kraharor/Bark):** Përputh FOR të sulmuesit vs. FOR të objektivit në tabelën e rezistencës. Nëse sulmuesi fiton, objektivi nuk mund të kryejë asnjë veprim derisa të thyhet mbajtja. Nëse nuk ka sukses, objektivi mund të kryejë ende veprime, megjithëse sulmuesi ende ka një mbajtje.
 >
-> * **Rrëzo Objektivin (Kokë/Kraharor/Bark):** Sulmuesi automatikisht mposht objektivin, duke i zvarritur të dy karakteret të prirur. Objektivi duhet të bëjë një hedhje Shkathtësie ose të pësojë 1 pikë dëmtim të përgjithshëm (ose në një vendndodhje të rastësishme goditjeje).
+> * **Rrëzo Objektivin (Kokë/Kraharor/Bark):** Sulmuesi automatikisht e mposht objektivin, duke i zvarritur të dy personazhet në tokë. Objektivi duhet të bëjë një hedhje Agjiliteti ose të pësojë 1 pikë dëmi të përgjithshëm (ose në një vend trupor të rastësishëm).
 >
-> * **Mbyt Objektivin (Kokë):** Objektivi duhet të bëjë një hedhje CON×1% çdo raund ose të pësojë 1D3 pikë goditjeje në pikët e tyre të përgjithshme të goditjes. Objektivi mund të përputhë menjëherë STR-në e tij vs. STR-në e karakterit të sulmuesit në tabelën e rezistencës për të thyer mbajtjen. Pasi sulmuesi fillon të mbytë, ai nuk ka nevojë të bëjë hedhje të mëtejshme të Mundjes çdo raund për të ruajtur mbajtjen. Objektivi duhet të provojë të çlirohet (shih **Mbytja, Mbytja në ujë dhe Asfiksia**).
+> * **Mbyt Objektivin (Kokë):** Objektivi duhet të bëjë një hedhje QEN×1% çdo raund ose të pësojë 1D3 pikë jete dëmi në pikët e tij të përgjithshme të jetës. Objektivi mund të përputhë menjëherë FOR e tij vs. FOR të sulmuesit në tabelën e rezistencës për të thyer mbajtjen. Pasi sulmuesi fillon mbytjen, ai nuk ka nevojë të bëjë hedhje të mëtejshme Kapjeje çdo raund për të ruajtur mbajtjen. Objektivi duhet të përpiqet të shkëputet (shihni **Mbytja, Mbytja në Ujë dhe Asfiksia**).
 >
-> * **Hidhe Objektivin (Special):** Përputh STR+DEX të sulmuesit kundrejt SIZ+DEX të objektivit në tabelën e rezistencës. Hedhja e një objektivi lëshon çdo mbajtje. Nëse sulmuesi është i suksesshëm, objektivi hidhet 1D6 metra, rrëzohet automatikisht dhe duhet të bëjë një hedhje Shkathtësie ose të pësojë 1D6 pikë dëmtim të përgjithshëm (ose në një vendndodhje të rastësishme goditjeje). Një hedhje prej DEX×1% i lejon ata të bien në këmbë pa pësuar dëme. Nëse hedhja është e pasuksesshme, objektivi nuk hidhet dhe mund të ndërmarrë një veprim, megjithëse sulmuesi ruan një mbajtje. Një hedhje mund të provohet me çdo gjymtyrë të mbajtur, por një hedhje e suksesshme me kokën thjesht shkakton 1D6 pikë dëmtim të përgjithshëm (ose në vendndodhjen e kokës) dhe nuk rezulton në një hedhje.
+> * **Hidhe Objektivin (Special):** Përputh FOR+SHK të sulmuesit kundrejt MAD+SHK të objektivit në tabelën e rezistencës. Hedhja e një objektivi liron çdo mbajtje. Nëse sulmuesi ka sukses, objektivi hidhet 1D6 metra, rrëzohet automatikisht dhe duhet të bëjë një hedhje Agjiliteti ose të pësojë 1D6 pikë dëmi të përgjithshëm (ose në një vend trupor të rastësishëm). Një hedhje e SHK×1% i lejon ata të bien në këmbët e tyre pa pësuar dëm. Nëse hedhja është e pasuksesshme, objektivi nuk hidhet dhe mund të kryejë një veprim, megjithëse sulmuesi ruan një mbajtje. Një hedhje mund të provohet me çdo gjymtyrë të kapur, por një hedhje e suksesshme me kokën thjesht shkakton 1D6 pikë dëmi të përgjithshëm (ose në vendin trupor të kokës) dhe nuk rezulton në një hedhje.
 
-### Makineri e rëndë (të ndryshme)
+### Makineri e Rëndë (të ndryshme)
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Përdoreni këtë shkathtësi për të operuar çdo makineri më të madhe se një person dhe çdo mjet me rrota më të rëndë se një kamion lëvizës, si një pirun, tank, buldozer, vinç, lokomotivë, ose për të operuar motorët në një mjet të madh detar. Makineria e rëndë mbulon gjithashtu kujdesin bazë dhe mirëmbajtjen parandaluese, megjithëse pasi një makineri e rëndë dështon, kërkohet një shkathtësi Riparimi për ta rregulluar atë. Për mjete ajrore, përdorni shkathtësinë Pilotim. Një dështim kritik rezulton në një përplasje, probleme me motorin, dhe/ose dëme pronësore, ndërsa dështimi do të thotë se makineria nuk e kryen detyrën e dëshiruar. Sukseset dhe sukseset superiore tregojnë efektivitet më të madh.
+Përdoreni këtë aftësi për të operuar çdo makinë më të madhe se një person dhe çdo automjet me rrota më të rëndë se një furgon lëvizës, si p.sh. një pirun, tank, buldozer, vinç, lokomotivë, ose për të operuar motorët në një anije të madhe detare. Makineria e Rëndë gjithashtu mbulon kujdesin bazë dhe mirëmbajtjen parandaluese, megjithëse pasi një makineri e rëndë dështon, kërkohet një aftësi Riparimi për ta rregulluar atë. Për avionët, përdorni aftësinë Pilot. Një dështim rezulton në një përplasje, probleme me motorin dhe/ose dëmtim të pronës, ndërsa dështimi do të thotë se makina nuk e kryen detyrën e dëshiruar. Suksese dhe suksese superiore tregojnë efektivitet më të madh.
 
-**Specialitetet:** Sipas llojit të mjetit (Mjete të blinduara, Kazanë, Buldozerë, Vinça, Motorë, Turbina, etj.).
+**Specialitetet:** Sipas llojit të automjetit (Automjete të Blinduara, Kazanë, Buldozerë, Vinça, Motorë, Turbina, etj.).
 
-**Shënime për Sistemin:** Në përgjithësi, makineritë e rënda nuk janë në gjendje të marrin pjesë në ndjekje, por lloje të caktuara makinerish mund të përdoren si armë, duke bërë 3D6 deri në 6D6 dëme, bazuar në madhësinë e pajisjes. Përdorimi i kësaj shkathtësie jashtë performancës normale është e Vështirë, ashtu si operimi dhe mirëmbajtja në kushte ekstreme.
+**Shënime për Sistemin:** Në përgjithësi, makineritë e rënda nuk janë në gjendje të marrin pjesë në ndjekje, por lloje të caktuara makinerish mund të përdoren si armë, duke bërë 3D6 deri në 6D6 dëme, bazuar në madhësinë e pajisjes. Përdorimi i kësaj aftësie jashtë performancës normale është e Vështirë, siç është operimi dhe mirëmbajtja në kushte ekstreme.
 
-### Armë e rëndë (të ndryshme)
+### Armë e Rëndë (të ndryshme)
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për të operuar armë shpërthyese ose armë të mëdha me zjarr të drejtpërdrejtë që shtyjnë kufijtë e transportueshmërisë, siç përfshihen bazukët, lëshuesit e raketave, mitralozët e rëndë, topat lazer me trekëmbësh, dhe të tjerë. Përdorni shkathtësinë Artileri për municione më të rënda si topa, motorë rrethimi ose armë të montuara në mjete.
+Përdoreni këtë aftësi për të operuar armë shpërthyese ose armë të mëdha me zjarr të drejtpërdrejtë që shtyjnë kufijtë e transportueshmërisë, siç janë bazukat, lëshuesit e raketave, mitralozët e rëndë, topat me lazer të montuar në trekëmbësh dhe të tjera. Përdorni aftësinë Artileri për mjete më të rënda si topat, makinat e rrethimit ose armët e montuara në automjete ose në mbështetëse.
 
-**Specialitetet:** Armët e rënda bien midis armëve tradicionale dhe artilerisë dhe shpesh përdoren për të dërguar eksplozivë. Specialitetet janë sipas llojit të armës, dhe përfshijnë Bazukë, Flamethrower, Mini Gun, Lëshues Raketash, etj. Shikoni **Artileria dhe Eksplozivët** në Kapitullin Tetë: Pajisjet për më shumë detaje.
+**Specialitetet:** Armët e rënda bien midis armëve tradicionale dhe artilerisë dhe shpesh përdoren për të shpërndarë eksplozivë. Specialitetet janë sipas llojit të armës dhe përfshijnë Bazuka, Hedhës Flakësh, Mini Gun, Lëshues Raketash, etj. Shihni **Artileria dhe Eksplozivët** në Kapitullin e Tetë: Pajisjet për më shumë detaje.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Raketore** për efekte specifike. Armët e rënda zakonisht shpojnë ose shkaktojnë "knockback".
+**Efektet:** Shihni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimit të Armëve me Predha** për efekte specifike. Armët e rënda zakonisht shpojnë ose shkaktojnë zmbrapsje.
 
-**Shënime për Sistemin:** Shumica e armëve të rënda përdorin zjarr automatik, ose qëllojnë municion shpërthyes. Shikoni **Zjarr Automatik** dhe **Shpërthime**. Të gjitha goditjet e humbura shkojnë diku; udhëheqësi i lojës duhet të vendosë se ku ndikojnë goditjet shpërthyese të humbura.
+**Shënime për Sistemin:** Shumica e armëve të rënda përdorin zjarr automatik ose shkarkojnë predha shpërthyese. Shihni **Zjarri Automatik** dhe **Shpërthimet**. Të gjitha goditjet e humbura shkojnë diku; udhëheqësi i lojës duhet të vendosë se ku ndikojnë goditjet shpërthyese të humbura.
 
-### Fshehje
+### Fshehje (Hide)
 
 **Shansi Bazë:** 10%
 
-**Kategoria:** Fizike
+**Kategori:** Fizike
 
-Arti i fshehjes së një objekti ose të vetes nga shikimi. Karakteri juaj duhet ta përdorë këtë shkathtësi për të shpëtuar gjatë ndjekjes, për të mbajtur një objekt larg zbulimit të lehtë, ose për të shmangur mbikëqyrjen. Një dështim kritik tërheq vëmendjen e menjëhershme, dështimi do të thotë se hedhja e Pikasjes për të gjetur fshehësin bëhet *e Lehtë*, një sukses kërkon një hedhje Pikasjeje për t'u gjetur, dhe sukseset superiore ose e bëjnë hedhjen e Pikasjes *të Vështirë* ose *të Pamundur*.
+Arti i fshehjes së një objekti ose vetvetes nga shikimi. Personazhi juaj duhet ta përdorë këtë aftësi për të shpëtuar gjatë ndjekjes, për ta mbajtur një objekt larg zbulimit të lehtë ose për të shmangur mbikëqyrjen. Një dështim (fumble) tërheq vëmendjen e menjëhershme, dështimi do të thotë që hedhja e Vëzhgimit (Spot) për të gjetur fshehësin bëhet *e Lehtë*, një sukses kërkon një hedhje të Vëzhgimit për t'u gjetur, dhe suksese superiore ose e bëjnë hedhjen e Vëzhgimit *të Vështirë* ose *të Pamundur*.
 
-**Shënime për Sistemin:** Kontrollet e Fshehjes kundërshtohen nga Pikasja e një vëzhguesi ose kërkuesi. Mbulesa adekuate është thelbësore; fshehja në mbulesë të pakët është e Vështirë, dhe mungesa totale e mbulesës (hapësirë e gjerë, dritë e ditës) e bën atë të Pamundur. Veshjet ose pajisjet speciale (bojë fytyre, veshje kamuflazhi, etj.) mund të shtojnë një bonus deri në +20%, varësisht nga cilësia e tyre. Kushtet mjedisore mund të ofrojnë bonuse shtesë. Dikush që fshihet duhet të qëndrojë sa më i qetë që të jetë e mundur; lëvizja gjatë përdorimit të Fshehjes është e Vështirë, dhe lëvizja më shumë se një metër në një raund luftarak kërkon hedhje të Fshehjes dhe Vjedhurazisë. Fshehja është efektive vetëm kundër zbulimit vizual dhe dëgjimor; sensorët e avancuar mund të gjejnë një karakter që fshihet nga nxehtësia e trupit, ose një hundë e mprehtë mund t'i gjejë ata duke përdorur shkathtësinë Ndjesi.
+**Shënime për Sistemin:** Kontrollet e fshehjes kundërshtohen nga Vëzhgimi i një vëzhguesi ose kërkuesi. Mbulesa adekuate është thelbësore; fshehja në mbulesë të paktë është e Vështirë, dhe një mungesë totale e mbulesës (hapësirë e gjerë, dritë e plotë e ditës) e bën atë të Pamundur. Veshjet ose pajisjet speciale (bojë fytyre, veshje të kamufluara, etj.) mund të shtojnë një bonus deri në +20%, varësisht nga cilësia e tyre. Kushtet mjedisore mund të ofrojnë bonuse shtesë. Dikush që fshihet duhet të qëndrojë sa më i qetë; lëvizja gjatë përdorimit të Fshehjes është e Vështirë, dhe lëvizja më shumë se një metër në një raund luftimi kërkon hedhje të Fshehjes dhe Vjedhjes (Stealth). Fshehja është efektive vetëm kundër zbulimit vizual dhe dëgjimor; sensorët e avancuar mund të gjejnë një personazh që fshihet nga nxehtësia e trupit, ose një hundë e mprehtë mund t'i gjejë ata duke përdorur aftësinë Ndjesi (Sense).
 
-### Intuicion
+### Intuita (Insight)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Perceptim
+**Kategori:** Perceptim
 
-Përdoreni këtë shkathtësi për të vlerësuar karakterin, gjendjen emocionale dhe motivet e një personi tjetër bazuar në gjuhën e trupit, modelet e të folurit dhe faktorë të tjerë të paprekshëm. Intuicioni i lejon një kumarxhiu të ndiejë një bllof, ose një detektivi të nuhatë një gënjeshtër. Një dështim kritik jep informacion mashtrues, dështimi nuk jep asgjë, suksesi ju lejon të dini se çfarë mund të jetë duke menduar objektivi, dhe sukseset superiore zbulojnë për ju mendimet e tyre më të thella (brenda arsyes).
+Përdoreni këtë aftësi për të vlerësuar karakterin e një personi tjetër, gjendjen emocionale dhe motivet bazuar në gjuhën e trupit, modelet e të folurit dhe faktorë të tjerë të paprekshëm. Intuita i lejon një bixhozçiu të ndiejë një bllof, ose një detektivi të nuhatë një gënjeshtër. Një dështim (fumble) ofron informacion mashtrues, dështimi nuk sjell asgjë, suksesi ju lë të dini se çfarë mund të jetë duke menduar objektivi, dhe suksese superiore ju zbulojnë mendimet e tyre më të thella (brenda arsyes).
 
-**Shënime për Sistemin:** Kjo shkathtësi mund të kundërshtohet nga Etiketa, Të folur shpejt, ose madje Bindja. Përdorimi i kësaj shkathtësie ndaj miqve të ngushtë, anëtarëve të familjes ose bashkëshortëve është e Lehtë. Nëse përdoret sistemi **Tiparet e Personalitetit**, Intuicioni mund të përcaktojë forcën e atyre tipareve të personalitetit në terma të përgjithshëm (si "Shumë egoist", për shembull).
-
-### Kërcim
+**Shënime për Sistemin:** Kjo aftësi mund të kundërshtohet nga Etiketa, Fast Talk, ose madje edhe Bindja. Përdorimi i kësaj aftësie te miqtë e ngushtë, anëtarët e familjes ose bashkëshortët është i Lehtë. Nëse përdoret sistemi i **Tipareve të Personalitetit**, Intuita mund të përcaktojë forcën e atyre tipareve të personalitetit në terma të përgjithshëm (si "Shumë egoist", për shembull).### Kërcim (Jump)
 
 **Shansi Bazë:** 25%
 
 **Kategoria:** Fizike
 
-Përdoreni këtë shkathtësi për të kërcyer për lartësi ose distancë, për të kërcyer mbi pengesa. Në rrethana normale, një Human mjaftueshëm në formë mund të kërcejë lartësinë e tij horizontalisht dhe gjysmën e lartësisë së tij vertikalisht nga një pozicion në këmbë, dhe afërsisht tre metra horizontalisht me një vrapim fillestar. Një dështim kritik rezulton në një rënie (1D6 dëmtim i përgjithshëm i pikëve të goditjes ose në një vendndodhje të goditjes), një sukses rezulton në një kërcim siç përshkruhet më lart, një sukses special e rrit sasinë me 50%, dhe një sukses kritik e dyfishon atë. Kërcimi mund të zvogëlojë gjithashtu dëmin nga rënia me 1D6 për çdo nivel suksesi (sukses normal me –1D6, special me –2D6, kritik me –3D6).
+Përdoreni këtë aftësi për të kërcyer për lartësi ose distancë, për të kapërcyer pengesa. Në rrethana normale, një njeri me formë fizike të arsyeshme mund të kërcejë gjatësinë e trupit të tij horizontalisht dhe gjysmën e gjatësisë vertikalisht nga një pozicion në këmbë, dhe afërsisht tre metra horizontalisht me një start vrapimi. Një dështim (fumble) rezulton në rrëzim (1D6 dëmtim të pikëve të jetës së përgjithshme ose në një vendgoditje), një sukses rezulton në një kërcim siç përshkruhet më lart, një sukses special e rrit sasinë me 50%, dhe një sukses kritik e dyfishon atë. Kërcimi gjithashtu mund të zvogëlojë dëmtimin nga rënia me 1D6 për çdo nivel suksesi (sukses normal me –1D6, special me –2D6, kritik me –3D6).
 
-**Shënime për Sistemin:** Një kërcim në këmbë kërkon 1 rang DEX. Një kërcim me vrapim përdor të njëjtin rang DEX si lëvizja normale e vrapimit. Kryerja e kërcimeve të shkëlqyera ose shfaqëse (rrotullime, prapakthehu, etj.) është e Vështirë.
+**Shënime të Sistemit:** Një kërcim nga pozicioni në këmbë kërkon 1 rang SHK. Një kërcim me vrapim përdor të njëjtin rang SHK si lëvizja normale e vrapimit. Kryerja e kërcimeve "të stilit" ose spektakolare (salto, rrotullime, etj.) konsiderohet e Vështirë.
 
 ### Njohuri (të ndryshme)
 
@@ -600,129 +591,129 @@ Përdoreni këtë shkathtësi për të kërcyer për lartësi ose distancë, pë
 
 **Kategoria:** Mendore
 
-Kjo shkathtësi përfaqëson përvojën ose studimin akademik të një dege njohurie. Përdorni një shkathtësi Njohurie për të mbajtur mend fakte përkatëse, për të analizuar ose identifikuar të dhëna, për të bërë supozime logjike dhe për të kujtuar kuriozitete mbresëlënëse. Për ato më shkencore, shihni Shkencën. Një dështim kritik rezulton në gënjeshtra mashtruese dhe të pasakta, dhe sukseset japin informacion më të dobishëm dhe të detajuar.
+Kjo aftësi përfaqëson përvojën ose studimin akademik të një dege të dijes. Përdoreni një aftësi Njohurie për të mbajtur mend fakte të rëndësishme, për të analizuar ose identifikuar prova, për të bërë supozime logjike dhe për të kujtuar kuriozitete mbresëlënëse. Për ato më shkencore, shihni Shkenca. Një dështim (fumble) rezulton në të pavërteta mashtruese dhe të pasakta, ndërsa sukseset sjellin informacion më të dobishëm dhe të detajuar.
 
-**Specialitetet:** Kontabilitet, Antropologji, Arkeologji, Histori, Drejtësi, Okultizëm, Fe, etj. (shih listën aty pranë). Udhëheqësi i lojës duhet të përcaktojë nëse shkathtësia Njohuri ka një shans bazë prej 05% për specialitetet që janë të zakonshme, ose 00% për ato që kërkojnë kërkim dhe studim për të pasur madje një kuptim rudimentar.
+**Specialitetet:** Kontabilitet, Antropologji, Arkeologji, Histori, Drejtësi, Okultizëm, Fe, etj. (shih listën përkatëse). Udhëheqësi i lojës (gamemaster) duhet të përcaktojë nëse aftësia e Njohurisë ka një shans bazë prej 05% për specialitetet që janë të zakonshme, ose 00% për ato që kërkojnë kërkime dhe studime për të pasur qoftë edhe një kuptim elementar.
 
-**Shënime për Mjedisin:** Në mjedise fantastike dhe historike, ekziston vetëm një nëngrup i vogël specialitetesh. Ndërsa mjediset bëhen më moderne, specialitetet shtohen.
+**Shënime të Mjedisit:** Në mjediset fantastike dhe historike, ekziston vetëm një nëngrup i vogël specialitetesh. Ndërsa mjediset bëhen më moderne, specialitetet shtohen.
 
-**Shënime për Sistemin:** Karakteristika fakultative EDU dhe hedhja e "Know" mbulojnë shumicën e njohurive të zakonshme—informacioni i specializuar përfaqësohet nga një specialitet i përshtatshëm i një shkathtësie Njohurie.
+**Shënime të Sistemit:** Karakteristika opsionale EDU dhe hedhja e zarit për Njohuri (Know) mbulojnë shumicën e njohurive të zakonshme—informacioni i specializuar përfaqësohet nga një specialitet përkatës i aftësisë Njohuri.
 
-> ### Specialitetet e Njohurive
->
-> Këto specialitete nuk janë gjithëpërfshirëse dhe mund të zgjerohen sipas nevojës. Disa specialitete kanë nënspecialitete, fokusime specifike në një subjekt të vetëm brenda asaj fushe. Shkruajini ato si kjo: Njohuri (Grup/Templarët) ose Njohuri (Templarët), sipas dëshirës.
->
-> **Lore Akademike (Vetëm Epokat e Lashta):** Në epokat kur e gjithë njohuria e shkruar mund të përmbahet në një bibliotekë të vetme, kjo përfaqëson se sa "i mësuar" është dikush. Përdoreni atë si një hedhje "Know" për pothuajse çdo fushë njohurie.
->
-> **Kontabilitet:** Përdoreni atë për analizimin e kontabilitetit, analizën financiare (borxhi, falimentimi, pasuria, vlera neto, etj.), dhe për të identifikuar parregullsi financiare (shpenzime të çuditshme, përvetësim, ose fitime të çuditshme).
->
-> **Antropologji:** Studimi i kulturave, duke përfshirë zakonet, artin dhe sjelljen. Përdoreni atë për të identifikuar kulturën amtare të një personi ose artefakti ose për të përcaktuar zakonet dhe sjelljet sociale të një kulture.
->
-> **Arkeologji:** Studimi i kulturave të lashta dhe të zhdukura. Përdoreni atë për të identifikuar një artefakt nga një kulturë e vdekur, për të pikasur një falsifikim, ose për të kryer një gërmim dhe për të bërë supozime të arsyeshme rreth historisë së një vendi ose rajoni.
->
-> **Histori e Artit:** Studimi i artit nga epoka dhe vende të ndryshme, duke përfshirë stilin, artistët e famshëm dhe vepra specifike. Përdoreni atë për të identifikuar origjinën e një vepre arti, për të pikasur një falsifikim, ose për t'ia atribuar një vepër një mjeshtri të njohur.
->
-> **Lore Blasfemuese:** Studimi i sekreteve okulte të tmerrshme dhe të këqijave të lashta. Sa më shumë nga kjo njohuri të ketë dikush, aq më pak kontroll ka mbi shëndetin e tij mendor (shih Shëndeti Mendor). Shkathtësia e Lore-s Blasfemuese fillon në 0%, jo 05%, dhe nuk mund të rritet me përvojë.
->
-> **Biznes:** Studimi i praktikave sipërmarrëse, rregulloreve të esnafeve, ligjeve korporative dhe teknikave të menaxhimit për një ndërmarrje tregtare. Përdoreni atë për të identifikuar lojtarët kryesorë në një fushë ose treg, për të parashikuar trendet ekonomike dhe për të bërë fitim.
->
-> **Spiunazh:** Njohuri për organizatat e spiunëve, spiunët dhe agjentët e famshëm ose famëkeq; metodologjia, figura të shquara, organizata, taktika, etj. Përdoreni atë për të ditur për agjencitë dhe modus operandi-n e tyre. Thyerja e kodeve trajtohet me Shkencë (Kriptografi).
->
-> **Folklor:** Njohuri për zakonet, tregimet, tekstet e këngëve, tregimet e gjata dhe legjendat e një populli ose rajoni të caktuar. Përdoreni këtë shkathtësi për të identifikuar ose mbajtur mend elementë të një përrallë popullore ose fabule, qoftë rurale ose mbinatyrore.
->
-> **Grup/Nënspecialitet:** Informacion i përgjithshëm për një kulturë, kombësi, grup, klub ose klasë sociale të caktuar. Përdoreni këtë shkathtësi për të identifikuar një anëtar të atij grupi, për të ditur "kush është kush" brenda atij grupi, dhe për të mbajtur mend zakonet sociale dhe zakonet e grupit.
->
-> **Histori:** Studimi i ngjarjeve dhe epokave të kaluara. Përdoreni këtë shkathtësi për të mbajtur mend rëndësinë e çdo vendi, personi, ngjarjeje ose objekti, ose për të supozuar saktësisht se kur është bërë një objekt ose dokument.
->
-> **Drejtësi:** Studimi i praktikës dhe precedentit ligjor. Përdoreni këtë shkathtësi për të gjykuar ligjshmërinë e një veprimi të propozuar, për të gjetur precedente ligjore, për ta çliruar veten nga problemet me autoritetet, ose për të ndërtuar një çështje për ose kundër një krimineli.
->
-> **Linguistikë:** Studimi i vetë gjuhës, nga themelet e gramatikës dhe fjalorit deri te mënyra se si shoqëritë formojnë gjuhët. Përdoreni këtë shkathtësi për të identifikuar gjuhë të panjohura ose për të zgjidhur disa fjalë ose për të kuptuar një kuptim bazë, megjithëse kjo shkathtësi nuk është zëvendësim për shkathtësinë përkatëse Gjuhë.
->
-> **Letërsi:** Studimi i prozës, poezisë dhe eseve të rëndësishme, zakonisht nga një kulturë e vetme. Përdoreni këtë shkathtësi për të identifikuar saktësisht një citat ose aludim për një vepër specifike, për të identifikuar se kur dhe ku mund të jetë shkruar një fragment i panjohur, për t'ia atribuar një vepër misterioze një autori të njohur, për të pikasur një falsifikim letrar, ose për të cituar pasazhe kërcënuese të përshtatshme nga vepra të famshme të letërsisë.
->
-> **Bota Natyrore:** Njohuri për mjedisin, modelet e motit, florën, faunën dhe historinë natyrore të një zone, kryesisht nga një kuptim praktik sesa një sfond shkencor.
->
-> **Okultizëm:** Njohuri për magjinë, legjendat e paqarta dhe të ashtuquajturën "histori sekrete" që mbulon gjithçka nga filozofitë arcane deri te teoritë moderne të konspiracionit. Përdoreni këtë shkathtësi për të kuptuar rëndësinë e simboleve alkimike ose astrologjike, për të identifikuar se cila traditë magjike krijoi një hapësirë rituali, për të ditur emrat e shpirtrave të fuqishëm, ose për të identifikuar fraksionet sekrete që komplotojnë për të manipuluar një situatë.
->
-> **Filozofi:** Studimi i ekzistencës dhe kuptimit të saj, nga logjika bazë te ekzistencializmi, nihilizmi dhe më gjerë. Përdoreni këtë shkathtësi për të mbajtur mend parimet e një filozofie të caktuar, për të identifikuar prirjet filozofike të argumentit të një autori ose folësi, dhe për t'u angazhuar në debat filozofik.
->
-> **Politikë:** Studimi dhe njohuria për sistemet politike ose mjete të tjera të qeverisjes të imponuara ose të zgjedhura nga qytetaria. Përdoreni këtë shkathtësi për të kuptuar blloqet kryesore të pushtetit në një zonë, se si të ndikoni në strukturën politike, dhe se si qytetarët do të reagojnë ndaj ndryshimit politik ose ndikimit.
->
-> **Rajon/Nënspecialitet:** Informacion i përgjithshëm për një qytet, rajon ose komb të caktuar, duke përfshirë njerëz të rëndësishëm, pika referimi lokale dhe historinë rajonale. Përdoreni këtë shkathtësi për të gjetur strehim të lirë në një qytet të zhurmshëm, për të mbajtur mend hanin më të mirë buzë rrugës në provincë, për të kuptuar politikën lokale, ose për të gjetur tregtarë ose artizanë specifikë.
->
-> **Fe/Nënspecialitet:** Detajet e mitosit, liturgjisë dhe praktikave të një feje specifike. Përdoreni këtë shkathtësi për të shmangur shkeljen e tabuve, për të kujtuar ligjet dhe detyrimet e një besimi, për të debatuar me sukses pikat e teologjisë, për të identifikuar regalinë ose tekstet fetare, për të ndarë ortodoksinë nga herezia, ose për të udhëhequr si duhet një ceremoni fetare.
->
-> **Streetwise:** Njohuri për segmentet më të errëta të një shoqërie, nga protokollet e të varfërve deri te mënyrat e botës kriminale. Përdoreni këtë shkathtësi për të gjetur një shtëpi të sigurt, për të identifikuar një ndërmjetës për mallra të vjedhura, ose për të ditur se kë të pyesni për favore të tjera gjysmë-ligjore ose të paligjshme.
+> ### Specialitetet e Njohurisë
+> 
+> Këto specialitete nuk janë gjithëpërfshirëse dhe mund të zgjerohen sipas nevojës. Disa specialitete kanë nënspecialitete, përqendrime specifike në një subjekt të vetëm brenda atij fushë. Shkruajini kështu: Njohuri (Grup/Templarët) ose Njohuri (Templarët), sipas dëshirës.
+> 
+> **Dituria Akademike (Vetëm për Epokat e Lashta):** Në epokat kur e gjithë dija e shkruar mund të përmbahet në një bibliotekë të vetme, kjo përfaqëson sa "i ditur" është dikush. Përdoreni si një hedhje zari për Njohuri për pothuajse çdo fushë të dijes.
+> 
+> **Kontabiliteti:** Përdoreni për analizimin e librave të llogarive, analizën financiare (borxhi, falimentimi, pasuria, vlera neto, etj.), dhe për të identifikuar parregullsi financiare (shpenzime të çuditshme, përvetësim fondesh, ose të ardhura të papritura).
+> 
+> **Antropologjia:** Studimi i kulturave, duke përfshirë zakonet, artin dhe sjelljen. Përdoreni për të identifikuar kulturën vendase të një personi ose artefakti, ose për të përcaktuar normat dhe sjelljet sociale të një kulture.
+> 
+> **Arkeologjia:** Studimi i kulturave të lashta dhe të zhdukura. Përdoreni për të identifikuar një artefakt nga një kulturë e vdekur, për të pikasur një falsifikim, ose për të kryer një gërmim dhe për të bërë konkluzione të arsyeshme rreth historisë së një vendi ose rajoni.
+> 
+> **Historia e Artit:** Studimi i artit nga epoka dhe vende të ndryshme, duke përfshirë stilin, artistët e famshëm dhe vepra specifike. Përdoreni për të identifikuar origjinën e një vepre arti, për të pikasur një falsifikim, ose për t'ia atribuuar një vepër një mjeshtri të njohur.
+> 
+> **Dituria Blasfemuese:** Studimi i sekreteve okulte të tmerrshme dhe të këqijave të lashta. Sa më shumë nga kjo njohuri të kesh, aq më pak kontroll ke mbi shëndetin mendor (shih Shëndeti Mendor/Sanity). Aftësia Dituria Blasfemuese fillon në 0%, jo 05%, dhe nuk mund të rritet me përvojë.
+> 
+> **Biznesi:** Studimi i praktikave sipërmarrëse, rregulloreve të esnafeve, ligjeve korporative dhe teknikave të menaxhimit për një ndërmarrje tregtare. Përdoreni për të identifikuar aktorët kryesorë në një fushë ose treg, për të parashikuar trendet ekonomike dhe për të nxjerrë fitim.
+> 
+> **spiunazhi:** Njohuri për organizatat e spiunazhit, spiunët dhe agjentët e famshëm ose famëkeq; metodologjia, figurat e shquara, organizatat, taktikat, etj. Përdoreni për të ditur rreth agjencive dhe modus operandi-it të tyre. Kodimi trajtohet me Shkencë (Kriptografi).
+> 
+> **Folklori:** Njohuri për zakonet, tregimet, tekstet e këngëve, përrallat dhe legjendat e një populli ose rajoni të caktuar. Përdoreni këtë aftësi për të identifikuar ose kujtuar elemente të një përralle popullore ose legjende, qoftë rurale apo mbinatyrore.
+> 
+> **Grup/Nënspecialitet:** Informacion i përgjithshëm për një kulturë, kombësi, grup, klub ose klasë shoqërore të caktuar. Përdoreni këtë aftësi për të identifikuar një anëtar të atij grupi, për të ditur "kush është kush" brenda atij grupi dhe për të mbajtur mend zakonet dhe normat sociale të grupit.
+> 
+> **Historia:** Studimi i ngjarjeve dhe epokave të kaluara. Përdoreni këtë aftësi për të mbajtur mend domethënien e çdo vendi, personi, ngjarjeje ose objekti, ose për të gjetur saktësisht se kur është krijuar një objekt ose dokument.
+> 
+> **Drejtësia:** Studimi i praktikës ligjore dhe precedentëve. Përdoreni këtë aftësi për të gjykuar ligjshmërinë e një veprimi të propozuar, për të gjetur precedentë ligjorë, për të liruar veten nga telashet me autoritetet, ose për të ndërtuar një çështje për ose kundër një krimineli.
+> 
+> **Linguistika:** Studimi i vetë gjuhës, nga themelet e gramatikës dhe fjalorit deri te mënyra se si shoqëritë formësojnë gjuhët. Përdoreni këtë aftësi për të identifikuar gjuhë të panjohura ose për të deshifruar disa fjalë ose për të kapur një kuptim bazë, megjithëse kjo aftësi nuk zëvendëson aftësinë përkatëse të Gjuhës.
+> 
+> **Letërsia:** Studimi i prozës, poezisë dhe eseve të rëndësishme, zakonisht nga një kulturë e vetme. Përdoreni këtë aftësi për të identifikuar siç duhet një citim ose aludim për një vepër specifike, për të identifikuar se kur dhe ku mund të jetë shkruar një fragment i panjohur, për t'ia atribuuar një vepër misterioze një autori të njohur, për të pikasur një falsifikim letrar, ose për të cituar pasazhe ogurzeza të përshtatshme nga vepra të famshme letrare.
+> 
+> **Bota Natyrore:** Njohuri për mjedisin, modelet e motit, florën, faunën dhe historinë natyrore të një zone, kryesisht nga një këndvështrim praktik dhe jo nga një sfond shkencor.
+> 
+> **Okultizmi:** Njohuri për magjinë, legjendat e errëta dhe të ashtuquajturën "histori sekrete" që mbulon gjithçka, nga filozofitë arkane deri te teoritë moderne të konspiracionit. Përdoreni këtë aftësi për të kuptuar domethënien e simboleve alkimike ose astrologjike, për të identifikuar se cila traditë magjike krijoi një hapësirë rituale, për të ditur emrat e shpirtrave të fuqishëm, ose për të identifikuar fraksionet sekrete që konspirojnë për të manipuluar një situatë.
+> 
+> **Filozofia:** Studimi i ekzistencës dhe domethënies së saj, nga logjika bazë deri te ekzistencializmi, nihilizmi dhe më gjerë. Përdoreni këtë aftësi për të mbajtur mend parimet e një filozofie të caktuar, për të identifikuar prirjet filozofike të argumentit të një autori ose folësi, dhe për t'u angazhuar në debate filozofike.
+> 
+> **Politika:** Studimi dhe njohuria për sistemet politike ose mjete të tjera të qeverisjes së imponuara ose të zgjedhura nga qytetarët. Përdoreni këtë aftësi për të kuptuar blloqet kryesore të fuqisë në një zonë, se si të ndikoni në strukturën politike dhe se si qytetarët do të reagojnë ndaj ndryshimit ose ndikimit politik.
+> 
+> **Rajoni/Nënspecialitet:** Informacion i përgjithshëm për një qytet, rajon ose komb të caktuar, duke përfshirë njerëz të rëndësishëm, monumente lokale dhe histori rajonale. Përdoreni këtë aftësi për të gjetur strehim të lirë në një qytet të zhurmshëm, për të mbajtur mend hanin më të mirë buzë rrugës në krahinë, për të kuptuar politikën lokale, ose për të gjetur tregtarë apo zejtarë specifikë.
+> 
+> **Feja/Nënspecialitet:** Detaje të mitologjisë, liturgjisë dhe praktikave të një feje specifike. Përdoreni këtë aftësi për të shmangur shkeljen e tabuve, për të kujtuar ligjet dhe detyrimet e një besimi, për të debatuar me sukses pika të teologjisë, për të identifikuar regjialet ose tekstet fetare, për të dalluar ortodoksinë nga herezia, ose për të udhëhequr siç duhet një ceremoni fetare.
+> 
+> **Njohja e Rrugës (Streetwise):** Njohuri për segmentet më të errëta të një shoqërie, nga protokollet e të varfërve deri te rrugët e botës së krimit. Përdoreni këtë aftësi për të gjetur një vend të sigurt, për të identifikuar një tregtar të mallrave të vjedhura, ose për të ditur se kë të pyesni për favore të tjera gjysmë-ligjore ose të paligjshme.
 
 ### Gjuhë (të ndryshme)
 
-**Shansi Bazë:** INT×5 (ose EDUx5) ose 00% (shih më poshtë)
+**Shansi Bazë:** ZGJ×5 (ose EDUx5) ose 00% (shih më poshtë)
 
 **Kategoria:** Komunikim
 
-Aftësia për të komunikuar verbalisht në një gjuhë, qoftë gjuha amtare e dikujt apo një tjetër. Gjuhë të tjera mund të mësohen në shtëpi, shkollë, kishë, në vendin e punës, ose në rrugë, varësisht nga kultura dhe edukimi. Shumica e karaktereve fillojnë duke ditur gjuhën e tyre me INT×5. Karakteret dygjuhëshe duhet të kenë shpenzuar pikë shkathtësie në një shkathtësi tjetër gjuhe. Biseda e përditshme në gjuhën e dikujt është Automatike dhe nuk kërkon një hedhje shkathtësie. Hedhjet e shkathtësive kërkohen vetëm kur komunikoni koncepte të vështira ose në situata të vështira dhe të pazakonta, si p.sh. përkthimi. Kjo shkathtësi mbulon komunikimin verbal—leximi dhe shkrimi përdorin Shkrim-Leximin. Një dështim kritik do të thotë keqkuptim katastrofik, ndërsa sukseset sjellin komunikim të rrjedhshëm dhe ndonjëherë elokuent.
+Aftësia për të komunikuar verbalisht në një gjuhë, qoftë gjuhën amtare ose një tjetër. Gjuhë të tjera mund të mësohen në shtëpi, shkollë, kishë, në vendin e punës, ose në rrugë, varësisht nga kultura dhe edukimi. Shumica e personazheve fillojnë duke ditur gjuhën e tyre në ZGJ×5. Personazhet dygjuhëshe duhet të kenë shpenzuar pika aftësie në një aftësi tjetër Gjuhë. Biseda e përditshme në gjuhën e dikujt është Automatike dhe nuk kërkon hedhje zari për aftësi. Hedhjet e zaret për aftësi kërkohen vetëm kur komunikoni koncepte të vështira ose në situata të vështira dhe të pazakonta, si përkthimi. Kjo aftësi mbulon komunikimin verbal—leximi dhe shkrimi përdorin Shkrim-Lexim. Një dështim (fumble) nënkupton keqkuptim katastrofik, ndërsa sukseset sjellin komunikim të rrjedhshëm dhe ndonjëherë elokuent.
 
-**Specialitetet:** Për gjuhë. Çdo specialitet zbatohet për një gjuhë të vetme; nëse dëshironi që karakteri juaj të mësojë një gjuhë shtesë, ata duhet të ndërtojnë një shkathtësi tjetër Gjuhë.
+**Specialitetet:** Për gjuhë. Çdo specialitet zbatohet për një gjuhë të vetme; nëse dëshironi që personazhi juaj të mësojë një gjuhë shtesë, ata duhet të ndërtojnë një aftësi shtesë Gjuhë.
 
-**Shënime për Sistemin:** Nëse përdoret rregulli fakultativ EDU, zgjidhni më të lartën midis INT×5 ose EDU×5 për shansin bazë. Kuptimi i dialekteve të paqarta ose varieteteve të lashta të një gjuhe është e Vështirë. Dokumente ose biseda komplekse ose të gjata me disa pika të rëndësishme mund të kërkojnë hedhje të shumta gjuhe, një për çdo pikë. Shikoni tabelën e **Rrjedhshmërisë së Gjuhës** për detaje rreth asaj se si vlerësimi i shkathtësisë ndikon në komunikim dhe rrjedhshmëri.
+**Shënime të Sistemit:** Nëse përdoret rregulli opsional EDU, zgjidhni vlerën më të lartë midis ZGJ×5 ose EDU×5 për shansin bazë. Kuptimi i dialekteve të errëta ose varieteteve të lashta të një gjuhe është i Vështirë. Dokumente komplekse ose të gjata ose biseda me disa pika të rëndësishme mund të kërkojnë hedhje të shumta zari për gjuhën për t'u kuptuar, një për çdo pikë. Shih tabelën **Rrjedhshmëria e Gjuhës** për detaje rreth mënyrës se si vlerësimi i aftësisë ndikon në komunikim dhe rrjedhshmëri.
 
 ##### Rrjedhshmëria e Gjuhës
 
-| Vlerësimi i Shkathtësisë | Rrjedhshmëria |
+| Vlerësimi i Aftësisë | Rrjedhshmëria |
 | :---- | :---- |
-| 01–05 | Di vetëm disa duzina fjalë, mund të numërojë deri në 10. Mund të komunikojë vetëm ide të thjeshta. Komunikimi kompleks (Pazar, Bindje, etj.) është jashtë çdo diskutimi. Për shembull, "Ushqim. Ju lutem më shisni." |
-| 6–25 | Përcjell kërkesa të thjeshta, mjaftueshëm për t'u kuptuar dhe për të mbijetuar nga dita në ditë. Komunikimi kompleks (Pazar, Bindje, etj.) janë të Vështira. Për shembull, "Sa para për këtë kofshë qengji?" |
-| 26–50 | Komunikim i sigurt. Folësi mund të flasë më mirë se një fëmijë, duke përcjellë shumicën e ideve. Shkathtësitë e komunikimit nuk janë të kufizuara, por veprime të caktuara mund të jenë ende të Vështira. Për shembull, "Sa? Por ky qengj ishte shumë më lirë dje!" |
-| 51–75 | Lejon folësin të tregojë histori, saga, këngë, etj. Idiomat dhe shakatë bëhen të arritshme. Mund të kalojë si vendas. Komunikimet komplekse tani hidhen me vlerësimin e plotë të shkathtësisë së folësit. Për shembull, "Shiko këtë prerje! Qengji ishte i kalbur para se të therrej dhe qartësisht nuk vlen as sa djersa e punëtorit që e solli këtu." |
-| 76–00 | Gjuha e poetëve, filozofëve, shkencëtarëve dhe diplomatëve. Jo vetëm që folësi mund të kalojë si vendas, por ai mund të imitojë gjithashtu një ose më shumë dialekte lokale. Zhargoni dhe format e paqarta të të folurit vijnë lehtë. Për shembull, "Sigurisht që vlerësimi i këtij ekzemplari të ushqimit mund të rivlerësohej në dritën e gjendjes së tij të avancuar të dekompozimit." |
+| 01–05 | Di vetëm disa dhjetëra fjalë, di të numërojë deri në 10. Mund të komunikojë vetëm ide të thjeshta. Komunikimi kompleks (Pazar, Bindje, etj.) është i pamundur. Për shembull, "Ushqim. Të lutem më shit." |
+| 6–25 | Përcjell kërkesa të thjeshta, mjaftueshëm për t'u kuptuar dhe për të mbijetuar ditë pas dite. Komunikimi kompleks (Pazar, Bindje, etj.) është i Vështirë. Për shembull, "Sa para për këtë kofshë qengji?" |
+| 26–50 | Komunikim i sigurt. Folësi mund të flasë më mirë se një fëmijë, duke përcjellë shumicën e ideve. Aftësitë e komunikimit nuk janë të kufizuara, por veprime të caktuara mund të jenë ende të Vështira. Për shembull, "Sa? Por ky qengj ishte shumë më lirë dje!" |
+| 51–75 | Lejon folësin të tregojë histori, saga, këngë, etj. Idiomat dhe shakatë bëhen të aksesueshme. Mund të kalojë si vendas. Komunikimet komplekse tani hidhen me vlerësimin e plotë të aftësisë së folësit. Për shembull, "Shiko këtë pjesë! Qengji ishte prishur para se të therrej dhe qartazi nuk ia vlen as djerës e punëtorit që e solli këtu." |
+| 76–00 | Gjuha e poetëve, filozofëve, shkencëtarëve dhe diplomatëve. Jo vetëm që folësi mund të kalojë si vendas, por ata gjithashtu mund të imitojnë një ose më shumë dialekte lokale. Zhargoni dhe format e errëta të të folurit vijnë lehtë. Për shembull, "Sigurisht që vlerësimi i këtij ekzemplari ushqimi mund të rivlerësohej në dritën e gjendjes së tij të avancuar të dekompozimit." |
 
-### Dëgjim
+### Dëgjim (Listen)
 
 **Shansi Bazë:** 25%
 
 **Kategoria:** Perceptim
 
-Përdoreni këtë shkathtësi për të dëgjuar, interpretuar dhe kuptuar tingujt, qofshin murmurima pas një dere të mbyllur, pëshpëritje tinëzare, hapa të fshehtë dhe degë të thyera. Përdoreni këtë shkathtësi për të parë nëse një zhurmë zgjon një karakter në gjumë, ose për të parë nëse ata mund të njohin një tingull ose zë specifik. Rrezja normale për të dëgjuar një zë Human që flet me një volum të sjellshëm është 15 metra—zërat më të lartë barten më larg, dhe ato më të qetë kanë një rreze më të shkurtër. Një dështim kritik do të thotë keqkuptim ose injorancë e plotë e një tingulli, ndërsa sukseset japin vetëdije dhe informacion rreth burimit të tij.
+Përdoreni këtë aftësi për të dëgjuar, interpretuar dhe kuptuar tingujt, qofshin murmurima pas një dere të mbyllur, pëshpërima tinëzare, hapa të fshehtë dhe degë të këputura. Përdoreni këtë aftësi për të parë nëse një zhurmë zgjon një personazh që fle, ose për të parë nëse ata mund të njohin një tingull ose zë specifik. Diapazoni normal për dëgjimin e një zëri njerëzor që flet me një volum të sjellshëm është 15 metra—zërat më të lartë mbërrijnë më larg, dhe ata më të ulët kanë një diapazon më të shkurtër. Një dështim (fumble) nënkupton keqkuptim ose injorim të plotë të një tingulli, ndërsa sukseset sjellin vetëdije dhe informacion rreth burimit të tij.
 
-**Shënime për Sistemin:** Dëgjimi është shkathtësi aktive dhe pasive: karakteri juaj mund të provojë të Dëgjojë për zhurma të dyshimta, ose udhëheqësi i lojës mund të kërkojë hedhje Dëgjimi kur është e përshtatshme. Kundërshtoni Dëgjimin me Vjedhurazinë për të zgjidhur përpjekjet për t'u futur fshehurazi pranë një dëgjuesi vigjilent ose pavigjilent. Udhëheqësi i lojës mund të zgjedhë të bëjë hedhje Dëgjimi fshehurazi dhe t'ju informojë për rezultatin, për të shmangur dhënien e ndonjë gjëje nëse hedhja dështon.
+**Shënime të Sistemit:** Dëgjimi është aftësi aktive dhe pasive: personazhi juaj mund të përpiqet të Dëgjojë për zhurma të dyshimta, ose udhëheqësi i lojës mund të kërkojë hedhje zari për Dëgjim kur është e përshtatshme. Kundërshtojeni Dëgjimin me Fshehtësi për të zgjidhur përpjekjet për t'u shpëtuar një dëgjuesi të kujdesshëm ose të pakujdesshëm. Udhëheqësi i lojës mund të zgjedhë t'i bëjë hedhjet e zaret për Dëgjim fshehurazi dhe t'ju informojë për rezultatin, për të shmangur zbulimin e diçkaje nëse hedhja dështon.
 
 ### Shkrim-Lexim (të ndryshme)
 
-**Shansi Bazë:** 00% ose e barabartë me Gjuhën (Amtare/Tjetër) (shih më poshtë)
+**Shansi Bazë:** 00% ose baras me Gjuhën (Amtare/Tjetër) (shih më poshtë)
 
 **Kategoria:** Mendore
 
-Aftësia për të lexuar dhe shkruar merret si e mirëqenë në epokën moderne: në epokat e mëparshme, leximi dhe shkrimi ishin produkte të arsimit elitar dhe shenja dallimi ose statusi. Në shoqëritë moderne, shansi bazë për Shkrim-Lexim është i barabartë me Gjuhën (Amtare) ose (Tjetër) të karakterit tuaj, përveç nëse dëshirohet ndryshe. Një dështim kritik do të thotë keqkuptim katastrofik, dështimi do të thotë se kuptimi humbet, sukseset japin informacion kritik ose nuanca, madje edhe famë për punën e prodhuar.
+Aftësia për të lexuar dhe shkruar merret si e mirëqenë në epokën moderne: në epokat e mëparshme, leximi dhe shkrimi ishin produkte të arsimit elitar dhe shenja dallimi ose statusi. Në shoqëritë moderne, shansi bazë për Shkrim-Lexim është i barabartë me Gjuhën bazë (Amtare) ose (Tjetër) të personazhit, përveç nëse dëshirohet ndryshe. Një dështim (fumble) nënkupton keqkuptim katastrofik, dështimi nënkupton humbje të kuptimit, sukseset sjellin informacion kritik ose nuanca, madje edhe famë për punën e prodhuar.
 
-**Specialitetet:** Për gjuhë. Çdo specialitet zbatohet për një gjuhë të vetme të shkruar; gjuhët shtesë janë specialitete të veçanta të Shkrim-Leximit. Në shoqëritë moderne, Shkrim-Leximi është gjithmonë i barabartë me shkathtësinë tuaj Gjuhë.
+**Specialitetet:** Sipas gjuhës. Çdo specialitet zbatohet për një gjuhë të vetme të shkruar; gjuhët shtesë janë specialitete të veçanta Shkrim-Leximi. Në shoqëritë moderne, Shkrim-Leximi është gjithmonë i barabartë me aftësinë tuaj të Gjuhës.
 
-**Shënime për Sistemin:** Kuptimi i dialekteve të paqarta ose varieteteve të lashta të një gjuhe të shkruar është e Vështirë. Dokumente komplekse ose të gjata (si libra) me pika të shumta të rëndësishme mund të kërkojnë hedhje të shumta Shkrim-Leximi, një për çdo pikë.
+**Shënime të Sistemit:** Kuptimi i dialekteve të errëta ose varieteteve të lashta të një gjuhe të shkruar është i Vështirë. Dokumente komplekse ose të gjata (si libra) me pika të shumta të rëndësishme mund të kërkojnë hedhje të shumta zari për Shkrim-Lexim, një për çdo pikë.
 
-### Arte marciale
+### Arte Marciale
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Luftarake
+**Kategoria:** Luftim
 
-Kjo përfaqëson studimin dhe zotërimin e një stili specifik luftarak. Përdoreni këtë shkathtësi për të bërë lëvizje dhe goditje specifike që shkaktojnë dëmin maksimal në objektiv. Artet marciale përdoren gjithmonë në kombinim me një shkathtësi tjetër: Përleshje, Armë të Ftohta, Armë Raketore, ose Mundje, sipas rastit. Kjo shkathtësi nuk është e nevojshme për të bërë ato sulme—ajo përfaqëson një nivel më të lartë trajnimi që lejon efektivitet më të madh.
+Kjo përfaqëson studimin dhe mjeshtërinë e një stili specifik luftimi. Përdoreni këtë aftësi për të bërë lëvizje dhe goditje specifike që shkaktojnë dëmin maksimal ndaj objektivit. Artet Marciale përdoren gjithmonë në kombinim me një aftësi tjetër: Përleshje (Brawl), Armë për Afër, Armë Predhë, ose Mundje (Grapple), siç është e përshtatshme. Kjo aftësi nuk është e nevojshme për të bërë ato sulme—ajo përfaqëson një nivel më të lartë trajnimi që lejon efektivitet më të madh.
 
-**Specialitetet:** Sipas traditës së arteve marciale: boks, capoeira, escrima, skermë, jeet kun do, karate, kenjutsu, kikboks, kung fu, kyujutsu, pugilizëm, savate, etj. Udhëheqësi i lojës mund të kufizojë llojet e shkathtësive luftarake që mund të çiftohen me një Arte Marciale, si p.sh. lejimi i vetëm i Armëve Raketore (Hark) me kyujutsu, për shembull.
+**Specialitetet:** Sipas traditës së arteve marciale: boks, kapoeira, eskrima, skermë, jeet kun do, karate, kenjutsu, kikboks, kung fu, kyujutsu, pugilizëm, savate, etj. Udhëheqësi i lojës mund të kufizojë llojet e aftësive të luftimit që mund të çiftohen me një Art Marcial, si p.sh. lejimi vetëm i Armëve Predhë (Hark) me kyujutsu, për shembull.
 
-**Efektet:** Artet marciale nuk hidhen veçmas kur bëhet një sulm. Hidhni kundrejt shkathtësisë kryesore dhe krahasoni rezultatin me shkathtësinë e Arteve Marciale. Rezultatet kanë këto efekte:
+**Efektet:** Artet Marciale nuk hidhen veçmas kur bëhet një sulm. Hidhni zarin kundër aftësisë primare dhe krahasoni rezultatin me aftësinë e Arteve Marciale. Rezultatet kanë këto efekte:
 
-* **Dështim kritik:** Përdorni rezultatin përkatës të dështimit (shih tabelat e sulmit dhe dështimit në Kapitullin Gjashtë: Luftimi).
-* **Dështim:** Nëse rezultati i hedhur është mbi vlerësimin e Arteve Marciale, por ende i barabartë ose nën shkathtësinë luftarake, sulmi godet normalisht. Sulmet e hedhura mbi shkathtësinë luftarake humbasin, pavarësisht vlerësimit të shkathtësisë së Arteve Marciale.
-* **Sukses:** Nëse rezultati i hedhur është më i vogël ose i barabartë me artet marciale dhe shkathtësinë luftarake, hidhni për dëmin bazë dy herë dhe totalizoni rezultatin. Modifikuesi i dëmtimit të karakterit tuaj nuk dyfishohet kurrë.
-* **Special:** Si më lart. Për një sukses special, hedhja shtesë e dëmit bazë i shtohet efekteve të suksesit special të shkathtësisë luftarake, nëse ka.
-* **Kritik:** Si më lart. Nëse hedhja luftarake është një sukses kritik, mbrojtja e armaturës së objektivit (natyrore ose e veshur) injorohet, dhe hedhja shtesë e dëmit bazë i shtohet efekteve të suksesit special të shkathtësisë luftarake, nëse ka.
+* **Dështim (Fumble):** Përdorni rezultatin përkatës të dështimit (shih tabelat e sulmit dhe dështimit në Kapitullin Gjashtë: Luftimi).  
+* **Dështim:** Nëse rezultati i hedhur është mbi vlerësimin e aftësisë së Arteve Marciale, por ende i barabartë ose nën aftësinë e luftimit, sulmi godet normalisht. Sulmet e hedhura mbi aftësinë e luftimit humbasin, pavarësisht nga vlerësimi i aftësisë së Arteve Marciale.  
+* **Sukses:** Nëse rezultati i hedhur është më i vogël ose i barabartë me Artet Marciale dhe aftësinë e luftimit, hidhni zarin për dëmin bazë dy herë dhe mblidhni rezultatin. Modifikuesi i dëmit të personazhit tuaj nuk dyfishohet kurrë.  
+* **Special:** Si më lart. Për një sukses special, hedhja shtesë e dëmit bazë i shtohet efekteve të rezultatit special të aftësisë së luftimit, nëse ka.  
+* **Kritik:** Si më lart. Nëse hedhja e luftimit është një sukses kritik, mbrojtja e armaturës së objektivit (natyrore ose e veshur) injorohet, dhe hedhja shtesë e dëmit bazë i shtohet efekteve të rezultatit special të aftësisë së luftimit, nëse ka.
 
-**Shënime për Sistemin:** Shkathtësia e Arteve Marciale funksionon në lidhje me një shkathtësi tjetër luftarake, dhe zakonisht me një gamë të ngushtë specialitetesh për atë shkathtësi. Kjo fuqi mund të përdoret në lidhje me mutacionin e Armëve Natyrore dhe fuqinë e Luftimit Pa Armë.
+**Shënime të Sistemit:** Aftësia e Arteve Marciale punon në lidhje me një aftësi tjetër luftimi, dhe zakonisht me një gamë të ngushtë specialitetesh për atë aftësi. Ky fuqi mund të përdoret në lidhje me mutacionin Armatim Natyror dhe fuqinë Luftimi Pa Armë.
 
-Nëse bëhen sulme të shumëfishta në një raund, sulmuesi duhet të alokojë shkathtësinë e Arteve Marciale në përputhje me rrethanat, duke e ndarë atë siç dëshiron midis sulmeve të shumëfishta, ose duke e aplikuar atë vetëm në një sulm të vetëm.
+Nëse bëhen sulme të shumta në një raund, sulmuesi duhet të alokojë aftësinë e Arteve Marciale në përputhje me rrethanat, duke e ndarë atë sipas dëshirës midis sulmeve të shumta, ose duke e aplikuar atë vetëm në një sulm të vetëm.
 
-Për shembull, *nëse karakteri juaj ka Përleshje 120% dhe Arte Marciale 46%, dhe po bën dy sulme me 60% në një raund, duhet të zgjidhni ta ndani shkathtësinë e Arteve Marciale midis këtyre dy sulmeve (23% secili, ose ndonjë kombinim që barazohet me 46%), ose të zgjidhni që ajo të zbatohet vetëm në njërin nga sulmet.*
+Për shembull, *nëse personazhi juaj ka Përleshje (Brawl) 120% dhe Arte Marciale 46%, dhe po bën dy sulme në 60% në një raund, duhet të zgjidhni ta ndani aftësinë e Arteve Marciale midis këtyre dy sulmeve (23% secili, ose ndonjë kombinim që barazohet me 46%), ose të zgjidhni që ajo të aplikohet vetëm në një nga sulmet.*
 
-Për shkak të fuqisë së saj relative, udhëheqësi i lojës mund të vendosë që vlerësimi fillestar i shkathtësisë në këtë shkathtësi të kufizohet, që rritjet në këtë shkathtësi mund të kufizohen në trajnim sesa përvojë normale, që trajnimi mund të jetë jashtëzakonisht i vështirë për t'u marrë, ose të tria këto kushte.
+Për shkak të fuqisë së saj relative, udhëheqësi i lojës mund të vendosë që vlerësimi fillestar i aftësisë në këtë aftësi të jetë i kufizuar, që rritjet në këtë aftësi të jenë të kufizuara në trajnim në vend të përvojës normale, që trajnimi mund të jetë jashtëzakonisht i vështirë për t'u marrë, ose të tria këto kushte.
 
 ### Mjekësi
 
@@ -730,358 +721,369 @@ Për shkak të fuqisë së saj relative, udhëheqësi i lojës mund të vendosë
 
 **Kategoria:** Mendore
 
-Përdoreni këtë shkathtësi për të diagnostikuar dhe trajtuar lëndime serioze, për të trajtuar sëmundje, për të kundërshtuar helmimet dhe për të bërë rekomandime të përgjithshme shëndetësore, si dhe për të kryer kirurgji dhe për të këshilluar kujdes afatgjatë për gjendje kronike shëndetësore.
+Përdoreni këtë aftësi për të diagnostikuar dhe trajtuar dëmtime serioze, për të trajtuar sëmundje, për të kundërshtuar helmimet dhe për të bërë rekomandime të përgjithshme shëndetësore, si dhe për të kryer kirurgji dhe për të këshilluar kujdes afatgjatë për kushte kronike shëndetësore.
 
 **Efektet:** Mjekësia ka rezultate specifike:
 
-* **Dështim kritik:** Pacienti merr 1 pikë goditjeje të përgjithshme (për lëndime) gjatë trajtimit të lëndimeve, ose humbet pikë të karakteristikave (për helme ose sëmundje), dhe gjendja e tij mbetet e pandryshuar.
+* **Dështim (Fumble):** Pacienti merr 1 pikë jete të përgjithshme (për dëmtime) gjatë trajtimit të dëmtimeve, ose humbet pikë karakteristike (për helm ose sëmundje), dhe gjendja e tyre mbetet e pandryshuar.
+
 * **Dështim:** Gjendja e pacientit nuk ndryshon, dhe një përpjekje e dytë mund të kryhet vetëm të nesërmen.
+
 * **Sukses:** Zgjidhni një nga efektet e mëposhtme (zgjedhja e lojtarit):
-  * Çdo efekt i një hedhjeje të suksesshme të Ndihmës së parë.
 
-  * Shkalla e shërimit të pacientit dyfishohet nga 1D3 në 2D3 pikë goditjeje në javë.
+  * Çdo efekt i një hedhjeje të suksesshme të Ndihmës së Parë.
 
-  * Dëmtimi i vazhdueshëm i karakteristikave ose pikëve të goditjes nga helm ose sëmundje ndalohet.
+  * Shkalla e shërimit të pacientit dyfishohet nga 1D3 në 2D3 pikë jete në javë.
 
-  * Një karakter i helmuar ose i sëmurë stabilizohet dhe shërohet 1D3–1 pikë goditjeje ose pikë karakteristike në javë. Ky rezultat mund të zgjidhet vetëm një herë për javë trajtimi.
-* **Special:** Si më lart, por një lëndim shërohet me 2D3 pikë goditjeje, ose 1D3 pikë karakteristike rikuperohen.
-* **Kritik:** Si më lart, por një plagë ose lëndim shërohet me 1D3+3 pikë goditjeje, ose 1D3+1 pikë karakteristike rikuperohen.
+  * Dëmtimi i vazhdueshëm i karakteristikave ose pikëve të jetës nga helmi ose sëmundja ndalet.
 
-**Shënime për Sistemin:** Çdo përdorim i Mjekësisë zbatohet për një sëmundje të vetme: pasi të jetë trajtuar dhe kuruar plotësisht, hedhjet shtesë të suksesshme të Mjekësisë nuk kanë efekt. Lëndime ose sëmundje të tjera, megjithatë, mund të trajtohen. Kushtet e pasigurta ose johigjienike mund t'i bëjnë hedhjet e Mjekësisë të Vështira. Pajisjet ose ilaçet speciale mund të shtojnë deri në +20% në vlerësimin e shkathtësisë, ndërsa teknologjia mjekësore futuristike (lëkurë artificiale, skanerë mjekësorë, shërues nanoteknologjikë) i bën hedhjet e Mjekësisë të Lehta. Trajtimi i sëmundjeve të zakonshme dhe jo kërcënuese për jetën është Automatik.
+  * Një personazh i helmuar ose i sëmurë stabilizohet dhe rikuperon 1D3–1 pikë jete ose pikë karakteristike në javë. Ky rezultat mund të zgjidhet vetëm një herë për javë trajtimi.
 
-### Armë e ftohtë (të ndryshme)
+* **Special:** Si më lart, por një dëmtim shërohet me 2D3 pikë jete, ose rikuperohen 1D3 pikë karakteristike.
 
-**Shansi Bazë:** Sipas specialitetit të armës
+* **Kritik:** Si më lart, por një plagë ose dëmtim shërohet me 1D3+3 pikë jete, ose rikuperohen 1D3+1 pikë karakteristike.
 
-**Kategoria:** Luftarake
+**Shënime të Sistemit:** Çdo përdorim i Mjekësisë aplikohet për një sëmundje të vetme: pasi të jetë trajtuar dhe të jetë kuruar plotësisht, hedhjet shtesë të suksesshme të Mjekësisë nuk kanë efekt. Megjithatë, plagë ose sëmundje të tjera mund të trajtohen. Kushtet e pasigurta ose jo higjienike mund t'i bëjnë hedhjet e zaret për Mjekësi të Vështira. Pajisjet speciale ose mjekësia mund të shtojnë deri në +20% në vlerësimin e aftësisë, ndërsa teknologjia mjekësore futuristike (lëkurë artificiale me spërkatje, skanera mjekësorë, shërues nanoteknologjikë) i bëjnë hedhjet e Mjekësisë të Lehta. Trajtimi i sëmundjeve të zakonshme dhe jo kërcënuese për jetën është Automatik.
 
-Përdoreni këtë shkathtësi për të mbajtur një lloj të caktuar arme në luftimin dorë-më-dorë, qoftë duke sulmuar apo duke paruar.
-
-**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve. Shikoni **Klasat e Armëve** të Kapitullit Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët nga ajo kategori armësh: por udhëheqësi i lojës mund të lejojë përdorimin e një klase të ngjashme armësh si të Vështira. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një shkathtësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
-
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Sulmit me Armë të Ftohta** dhe **Tabelën e Dështimeve të Parimit me Armë të Ftohta** në Kapitullin Gjashtë: Luftimi për efekte specifike.
-
-**Shënime për Sistemin:** Karakteri juaj mund të provojë më shumë se një parim për raund, por çdo hedhje pas të parës bëhet me një –30% kumulativ. Sipas gjykimit të udhëheqësit të lojës, karakteri juaj mund të mbajë një armë nga një kategori e ngjashme ose e ngjashme armësh, me hedhjen që është e Vështirë.
-
-### Armë raketore (të ndryshme)
+### Armë për Afër (të ndryshme)
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategoria:** Luftim
 
-Përdoreni këtë për të mbajtur çdo armë raketore dore të vetë-propulsueshme si harqe, hark-pushkë, sëpata hedhëse, shtiza, yje hedhëse, shigjeta, pistoleta me fryrje, armë shtizash, ose madje bumerangë. Për granata, përdorni Hedhjen.
+Përdoreni këtë aftësi për të përdorur një lloj specifik arme në luftim dorë-më-dorë, qoftë duke sulmuar ose duke u mbrojtur (parrying).
 
-**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve. Shikoni **Klasat e Armëve** të Kapitullit Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët nga ajo kategori armësh: por udhëheqësi i lojës mund të lejojë përdorimin e një klase të ngjashme armësh si të Vështira. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një shkathtësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
+**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve. Shih **Klasat e Armëve** të Kapitullit Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët nga ajo kategori arme; por udhëheqësi i lojës mund të lejojë përdorimin e një klase të ngjashme arme sikur të ishte e Vështirë. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një aftësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Armëve Raketore** për efekte specifike. Shigjetat dhe armët me majë zakonisht shpojnë (impale). Nëse dëshironi të dini se ku shkon një sulm i humbur me armë raketore, shihni shkathtësinë Hedhje.
+**Efektet:** Shih **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Sulmit me Armë për Afër** dhe **Tabelën e Dështimeve të Mbrojtjes me Armë për Afër** në Kapitullin Gjashtë: Luftimi për efekte specifike.
 
-**Shënime për Sistemin:** Të gjitha armët raketore kanë një STR dhe DEX minimale të nevojshme për të përdorur armën, siç listohet në Kapitullin Tetë: Pajisjet. Në mënyrë tipike, modifikuesi i dëmtimit të sulmuesit përgjysmohet për armët raketore, dhe për armët plotësisht të vetë-propulsueshme (pistoleta me fryrje, hark-pushkë, etj.), modifikuesi i dëmtimit nuk aplikohet. Armët raketore mund të përdoren për sulme të synuara.
+**Shënime të Sistemit:** Personazhi juaj mund të përpiqet për më shumë se një mbrojtje (parry) për raund, por çdo hedhje pas të parës bëhet me një –30% kumulative. Sipas gjykimit të udhëheqësit të lojës, personazhi juaj mund të përdorë një armë nga një kategori arme e lidhur ose e ngjashme, me hedhjen që konsiderohet e Vështirë.### Armë Projektuese (të ndryshme)
 
-### Navigim
+**Shansi Bazë:** Sipas specialitetit të armës
+
+**Kategori:** Luftim
+
+Përdore këtë për të përdorur çdo armë projektuese të mbajtur në dorë, si harqe, arbaleta, sëpata hedhëse, heshta, yje hedhëse, xhida, fryrëse (blowguns), pushkë heshtash ose madje edhe bumerangë. Për granatat, përdor Hedhjen (Throw).
+
+**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve. Shih **Klasat e Armëve** në Kapitullin e Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët nga ajo kategori: por mjeshtri i lojës mund të lejojë përdorimin e një klase të ngjashme arme sikur të ishte e Vështirë. Nëse je i suksesshëm, bëj një kontroll përvoje. Nëse hedhja për përvojë është e suksesshme, fillo një aftësi të re me një specialitet në atë nivel, plus përvojën e fituar.
+
+**Efektet:** Shih **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Gabimeve të Armëve Projektuese** për efekte specifike. Shigjetat dhe armët me majë zakonisht shpojnë (impale). Nëse dëshiron të dish se ku shkon një sulm i humbur me armë projektuese, shih aftësinë Hedhje (Throw).
+
+**Shënimet e Sistemit:** Të gjitha armët projektuese kanë një FOR dhe SHK minimale të kërkuar për të përdorur armën, siç është renditur në Kapitullin e Tetë: Pajisjet. Zakonisht, modifikuesi i dëmtimit të sulmuesit përgjysmohet për armët projektuese, dhe për armët plotësisht të vetë-lëvizshme (fryrëse, arbaleta, etj.), modifikuesi i dëmtimit nuk zbatohet. Aftësia Armë Projektuese mund të përdoret për sulme të shënjestruara.
+
+### Lundrim (Navigate)
 
 **Shansi Bazë:** 10%
 
-**Kategoria:** Perceptim
+**Kategori:** Perceptim
 
-Përdoreni këtë shkathtësi për të gjetur rrugën drejt një destinacioni qoftë me busullë, harta detare, yje, ose thjesht duke përdorur perceptimin, kujtesën dhe intuitën si udhëzues. Një dështim kritik do të thotë se dikush është humbur pa shpresë dhe hedhja e mëpasme nga kushdo për të gjetur rrugën është *e Vështirë*. Dështimi do të thotë vonesa dhe një shkallë e ngadalësuar udhëtimi, ndërsa sukseset do të thotë gjetja e rrugës në mënyrë efektive dhe madje bërja e progresit më të mirë se sa pritej.
+Përdore këtë aftësi për të gjetur rrugën drejt një destinacioni, qoftë me busull, harta detare, yjet, ose thjesht duke përdorur perceptimin, kujtesën dhe intuitën si udhëzues. Një gabim do të thotë se dikush është humbur pashpresë dhe çdo hedhje e mëvonshme nga kushdo për t'u gjetur është *e Vështirë*. Dështimi nënkupton vonesa dhe një shpejtësi të ngadaltë udhëtimi, ndërsa sukseset nënkuptojnë gjetjen e rrugës në mënyrë efektive dhe madje bërjen e një përparimi më të mirë se sa pritej.
 
-**Shënime për Sistemin:** Provoni një hedhje shkathtësie Navigimi çdo katër orë të një udhëtimi në vazhdim. Përdorimi i një harte ose busulle mund të përmirësojë renditjen e shkathtësisë deri në +20%. Navigimi në një peizazh pa tipare (në det, në errësirë ose mot të keq, në një shkretëtirë, ose në xhungël të dendur) pa instrumente ose harta është e Vështirë. Mjetet ndihmëse të avancuara të navigimit (teknologjia e shërbimit global të pozicionimit, etj.) ose njohja me zonën i bëjnë përpjekjet e Navigimit të Lehta.
+**Shënimet e Sistemit:** Provo një hedhje të aftësisë Lundrim çdo katër orë të një udhëtimi në vazhdim. Përdorimi i një harte ose busulle mund të përmirësojë renditjen e aftësisë deri në +20%. Lundrimi në një peizazh pa veçori (në det, në errësirë ose mot të keq, në një shkretëtirë ose në xhungël të dendur) pa instrumente ose harta është e Vështirë. Ndihmat e avancuara të lundrimit (teknologjia e shërbimit të pozicionit global, etj.) ose familjariteti me zonën i bëjnë përpjekjet e Lundrimit të Lehta.
 
-### Parim/Bllokim (të ndryshme)
+### Parim (Parry)
 
 **Shansi Bazë:** Sipas specialitetit të armës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për të shmangur një sulm hyrës nëse nuk adresohet me një shkathtësi tjetër. Kjo shkathtësi mbulohet në detaje në Parim dhe Matricën e Sulmit dhe Mbrojtjes. Udhëheqësi i lojës mund të vendosë që një sulm i veçantë nuk mund të parohet, si p.sh. nga një sulmues shumë më i madh (dyfishi ose më shumë i SIZ-it të mbrojtësit, për shembull) ose kur sulmuesi po përdor një sulm zone ose rrëshqitës.
+Përdore këtë aftësi për të devijuar një sulm në hyrje nëse nuk trajtohet me një aftësi tjetër. Kjo aftësi mbulohet në detaje te Parimi (Parry) dhe Matrica e Sulmit dhe Mbrojtjes. Mjeshtri i lojës mund të vendosë që një sulm i caktuar nuk mund të parry-het, si për shembull nga një sulmues shumë më i madh (dyfishi ose më shumë i MAD të mbrojtësit, për shembull) ose kur sulmuesi po përdor një sulm zone ose spastrimi.
 
-**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve ose mburojave. Shikoni **Klasat e Armëve** të Kapitullit Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët ose mburojat nga ajo kategori armësh: por udhëheqësi i lojës mund të lejojë përdorimin e një klase të ngjashme armësh si të Vështira. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një shkathtësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
+**Specialitetet:** Specialitetet janë ekuivalente me klasat e armëve ose mburojave. Shih **Klasat e Armëve** në Kapitullin e Tetë: Pajisjet. Çdo specialitet zbatohet vetëm për armët ose mburojat nga ajo kategori: por mjeshtri i lojës mund të lejojë përdorimin e një klase të ngjashme arme sikur të ishte e Vështirë. Nëse je i suksesshëm, bëj një kontroll përvoje. Nëse hedhja për përvojë është e suksesshme, fillo një aftësi të re me një specialitet në atë nivel, plus përvojën e fituar.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelat e Dështimeve të Parimit me Armë të Ftohta** në Kapitullin Gjashtë: Luftimi për efekte specifike.
+**Efektet:** Shih **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelat e Gabimeve të Parimit të Armëve të Ftohta** në Kapitullin Gjashtë: Luftimi për efekte specifike.
 
-**Shënime për Sistemin:** Mund të provohet më shumë se një parim për raund, por çdo hedhje pas të parës është me një penalitet kumulativ prej –30%. Kjo shkathtësi mund të injorohet në favor të përdorimit të shkathtësisë kryesore të armës ose mburojës, nëse dëshirohet. Sipas gjykimit të udhëheqësit të lojës, mund të parohet me një armë ose mburojë nga një kategori e ngjashme ose e ngjashme, me hedhjen që është e Vështirë.
+**Shënimet e Sistemit:** Mund të provohet më shumë se një parry për raund, por çdo parry pas të parit është me një penalitet kumulativ prej –30%. Kjo aftësi mund të injorohet në favor të përdorimit të aftësisë kryesore të armës ose mburojës, nëse dëshirohet. Me vendimin e mjeshtrit të lojës, mund të bëhet parry me një armë ose mburojë nga një kategori e lidhur ose e ngjashme, ku hedhja konsiderohet e Vështirë.
 
-### Performancë (të ndryshme)
+### Performim (të ndryshme)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të performuar muzikë, qoftë duke aktruar, vallëzuar, luajtur instrument, kënduar, ose disa forma të tjera të shprehjes artistike duke përdorur performancën. Një dështim kritik është një poshtërim, dështimi është jofrymëzues, ndërsa sukseset japin vëmendje pozitive, brohoritje, dhe ndoshta miratim kritik dhe shpërblime financiare. Nëse regjistrohet dhe shpërndahet, ajo mund të vazhdojë të frymëzojë dhe të fitojë shumë pas performancës origjinale.
+Përdore këtë aftësi për të performuar muzikë, qoftë aktrim, kërcim, luajtje në instrument, këndim, ose forma të tjera të shprehjes artistike duke përdorur performancën. Një gabim është një poshtërim, dështimi është i pamotivuar, ndërsa sukseset sjellin vëmendje pozitive, brohoritje dhe ndoshta vlerësime kritike dhe shpërblime financiare. Nëse regjistrohet dhe shpërndahet, mund të vazhdojë të frymëzojë dhe të fitojë shumë kohë pas performancës origjinale.
 
-**Specialitetet:** Aktro, Drejto Orkestër, Vallëzo, Xhonglo, Orato, Luaj Instrument (nënspecialitet), Recito, Ritual, Këndo, etj.
+**Specialitetet:** Aktrim, Dirigjim Orkestre, Kërcim, Zhonglim, Oratori, Luajtje Instrumenti (nën-specialitet), Recitim, Ritual, Këndim, etj.
 
-**Shënime për Sistemin:** Përdorimi i suksesshëm i Performancës (Ritual) mund të shtojë një fuqi magjike ose të sigurojë përfitime shtesë, sipas gjykimit të udhëheqësit të lojës.
+**Shënimet e Sistemit:** Përdorimi i suksesshëm i Performimit (Ritual) mund të shtojë një fuqi magjike ose të sigurojë përfitime shtesë, sipas vendimit të mjeshtrit të lojës.
 
-### Bindje
+### Bindje (Persuade)
 
 **Shansi Bazë:** 15%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të bindur dikë se një ide ose besim i veçantë është i drejtë, i saktë, ose ndryshe i pranueshëm, pavarësisht nga mendimi i tyre origjinal (nëse ka) qoftë përmes logjikës Sokratike, debatit të strukturuar, oratorisë së zjarrtë, empatisë, ose frikësimit brutal. Dëgjuesit mund të binden të ndërmarrin veprime ose të pranojnë një kërkesë. Ashtu si Të folur shpejt, e vërteta është e parëndësishme. Ndryshe nga Të folur shpejt, efektet e bindjes së suksesshme zgjasin pafundësisht, derisa një hedhje tjetër e Bindjes ose përvojë dramatike zhvendos opinionin e subjektit. Një dështim kritik do të thotë që subjekti mund të bëhet armiqësor, duke përqafuar të kundërtën e opinionit të dëshiruar. Dështimi është i pabindshëm. Suksesi lëkund opinionin e tyre, dhe sukseset superiore japin rezultate edhe më të mira.
+Përdore këtë aftësi për të bindur dikë se një ide ose besim i caktuar është i drejtë, i saktë ose përndryshe i pranueshëm, pavarësisht nga mendimi i tyre fillestar (nëse ka), qoftë përmes logjikës sokratike, debatit të strukturuar, oratorisë së zjarrtë, empatisë ose frikësimit brutal. Dëgjuesit mund të binden të ndërmarrin veprime ose të pranojnë një kërkesë. Ashtu si te Biseda e Shpejtë (Fast Talk), e vërteta është e parëndësishme. Ndryshe nga Biseda e Shpejtë, efektet e një bindjeje të suksesshme zgjasin pafundësisht, derisa një tjetër hedhje Bindjeje ose një përvojë dramatike të ndryshojë mendimin e subjektit. Një gabim do të thotë se subjekti mund të bëhet armiqësor, duke përqafuar të kundërtën e mendimit të dëshiruar. Dështimi është mosbindës. Suksesi ndryshon mendimin e tyre, dhe sukseset superiore sjellin rezultate edhe më të mira.
 
-**Shënime për Sistemin:** Përdorimi i Bindjes përmes një barriere gjuhësore (nëse të dy folësit kanë më pak se 50% në gjuhë) është e Vështirë, ashtu si bindja e dikujt për diçka që bie ndesh me personalitetin ose besimet e tyre thelbësore. Udhëheqësi i lojës mund të shpërblejë argumentet efektive ose roleplay-in e mirë me një bonus deri në +20%. Varësisht nga rrethanat, Bindja mund të marrë minuta, orë, ose madje ditë, dhe përpjekjet e zgjatura mund të marrin hedhje të shumta për të përfunduar.
+**Shënimet e Sistemit:** Përdorimi i Bindjes përmes një pengese gjuhësore (nëse të dy folësit kanë më pak se 50% në gjuhë) është e Vështirë, ashtu si bindja e dikujt për diçka që bie ndesh me personalitetin ose besimet e tyre thelbësore. Mjeshtri i lojës mund të shpërblejë argumentet efektive ose roleplay-in e mirë me një bonus deri në +20%. Në varësi të rrethanave, Bindja mund të marrë minuta, orë ose madje ditë, dhe përpjekjet e zgjatura mund të kërkojnë hedhje të shumta për t'u përfunduar.
 
 ### Pilotim (të ndryshme)
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Fizike
+**Kategori:** Fizike
 
-Përdoreni këtë shkathtësi për të drejtuar, manovruar dhe kontrolluar një mjet përmes ajrit, mbi ose nën ujë, ose në hapësirë. Mjetet më të mëdha mund të kërkojnë pilotë të shumtë, dhe një hedhje duhet të bëhet çdo katër orë kur nuk jeni në luftim, dhe një herë për raund gjatë luftimit ose kur kryeni manovra mjetesh.
+Përdore këtë aftësi për të drejtuar, manovruar dhe kontrolluar një mjet lëvizës nëpër ajër, mbi ose nën ujë, ose në hapësirë. Mjetet më të mëdha mund të kërkojnë pilotë të shumtë, dhe një hedhje duhet të bëhet çdo katër orë kur nuk jeni në luftime, dhe një herë për raund gjatë luftimit ose kur kryeni manovra me mjetin.
 
-**Specialitetet:** Aeroplan, Anije ajrore, Tullumbace, Varkë, Helikopter, Hovercraft, Avion reaktiv, Jetpack, Anije kozmike, Nënujëse, etj. Sipas gjykimit të udhëheqësit të lojës, një pilot mund të pilotojë një mjet me një specialitet të ngjashëm si të Vështira. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një shkathtësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
+**Specialitetet:** Aeroplan, Aerostat, Balonë, Varkë, Helikopter, Hovercraft, Avion me Reaktiv, Jetpack, Anije Hapësinore, Nëndetëse, etj. Sipas vendimit të mjeshtrit të lojës, një pilot mund të pilotojë një mjet me një specialitet të ngjashëm sikur të ishte e Vështirë. Nëse je i suksesshëm, bëj një kontroll përvoje. Nëse hedhja për përvojë është e suksesshme, fillo një aftësi të re me një specialitet në atë nivel, plus përvojën e fituar.
 
-**Efektet:** Shumica e pilotimit të përditshëm është Automatik—hidhni zare vetëm në kushte të pafavorshme ose për situata të jashtëzakonshme. Një dështim kritik pothuajse në mënyrë të pashmangshme shkakton që një motor të ndalet ose madje të përplaset, dështimi do të thotë se destinacioni nuk arrihet në kornizën e dëshiruar kohore, suksesi arrin aty ku dëshiron dikush, dhe sukseset superiore japin pilotim më ekspert dhe rezultate. Shikoni **Luftimin Ajror** dhe **Ndjekjet** për më shumë informacion, dhe **Tabelën e Problemeve të Ndjekjes** për aksidente.
+**Efektet:** Pjesa më e madhe e pilotimit të përditshëm është Automatik—hidh zaret vetëm në kushte të pafavorshme ose për situata të jashtëzakonshme. Një gabim pothuajse në mënyrë të pashmangshme shkakton ndalimin e motorit ose madje rrëzimin, dështimi do të thotë se destinacioni nuk arrihet në afatin kohor të dëshiruar, suksesi të çon atje ku dëshiron, dhe sukseset superiore sjellin pilotim dhe rezultate më eksperte. Shih **Luftimin Ajror** dhe **Ndjekjet** për më shumë informacion, dhe **Tabelën e Problemeve të Ndjekjes** për aksidentet.
 
-### Projeksion
+### Projektim (Projection)
 
-**Shansi Bazë:** DEX×2%
+**Shansi Bazë:** SHK×2%
 
-**Kategoria:** Fizike
+**Kategori:** Fizike
 
-Kjo shkathtësi fakultative përdoret nga karakteret që përdorin fuqi për të shënjestruar sulme të bazuara në fuqi. Përshkruhet në *Kapitullin e Katërt: Fuqitë* dhe përdoret vetëm në lojëra me fuqi përkatëse.
+Kjo aftësi opsionale përdoret nga personazhet që përdorin fuqi për të shënjestruar sulmet e bazuara në fuqi. Ajo përshkruhet në *Kapitullin Katër: Fuqitë* dhe përdoret vetëm në lojërat me fuqi të përshtatshme.
 
 ### Psikoterapi
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Mendore
+**Kategori:** Mendore
 
-Përdoreni këtë shkathtësi për të vlerësuar dhe trajtuar sëmundje mendore ose trauma, veçanërisht për të rikthyer pikët e humbura të Shëndetit Mendor. Në terma praktikë, Psikoterapia mund të përdoret për të përshkruar ilaçe dhe medikamente, të cilat me kalimin e kohës mund të pezullojnë, trajtojnë dhe madje kthejnë psikoza ose sëmundje mendore dobësuese. Medikamentet dhe marrja në pyetje intensive mund të hulumtojnë thellësitë e një psike të dëmtuar dhe të sjellin përsëri shpresë nga tmerri dhe dëshpërimi. Shikoni **Shëndeti Mendor** për më shumë informacion.
+Përdore këtë aftësi për të vlerësuar dhe trajtuar sëmundjet mendore ose traumat, veçanërisht për të rikthyer pikët e humbura të Shëndetit Mendor (Sanity). Në terma praktikë, Psikoterapia mund të përdoret për të përshkruar barna dhe ilaçe, të cilat me kalimin e kohës mund të pezullojnë, trajtojnë dhe madje kthejnë prapa psikozat ose sëmundjet mendore dobësuese. Medikamentet dhe pyetjet intensive mund të depërtojnë në thellësitë e një psikike të dëmtuar dhe të kthejnë shpresën nga terrori dhe dëshpërimi. Shih **Shëndetin Mendor** për më shumë informacion.
 
 **Efektet:** Psikoterapia ka efekte specifike:
 
-* **Dështim kritik:** Një nga sa vijon ndodh (zgjedhja e udhëheqësit të lojës):
-  * Pacienti duhet të bëjë një hedhje të re të Shëndetit Mendor, për një humbje prej 1/1D3 SHM.
-  * Rrisni vlerësimin POW të një prej çmendurive të pacaktuar të pacientit me +1.
-  * Pacienti shkëmben një çmenduri të pacaktuar me një tjetër: një fobi mund të zvogëlohet, por me koston e një varësie ndaj ilaçeve stabilizuese të humorit.
-* **Dështim:** Trajtimi nuk ka efekt. Pacienti mbetet i njëjtë.
-* **Sukses:** Trajtimi merr hov, me një nga efektet e mëposhtme:
-  * Pas një muaji trajtimi, pacienti rikuperon 1D3–1 pikë SHM. Kjo shkathtësi nuk mund të rrisë SHM-në e pacientit mbi POW×5 minus çdo penalitet të përshtatshëm për njohuritë për tmerrin blasfemues ose të pashprehshëm. Shikoni "Shëndeti Mendor Maksimal" për detaje.
-  * Burimi i një çmendurie të pacaktuar diagnostikohet siç duhet.
-  * Pasi burimi i një çmendurie të pacaktuar të jetë diagnostikuar, POW-i i tij mund të zvogëlohet me –1 pas një muaji trajtimi. Hedhje të veçanta duhet të bëhen për çdo sëmundje mendore të trajtuar.
-* **Special:** Si më lart, por fitimi i SHM-së është 1D3 ose reduktimi i POW-it është –2.
-* **Kritik:** Si më lart, por fitimi i SHM-së është 1D3+1 ose reduktimi i POW-it është –1D3+1.
+* **Gabim (Fumble):** Ndodh një nga sa vijon (zgjedhja e mjeshtrit të lojës):
 
-**Shënime për Sistemin:** Kjo shkathtësi është kryesisht për lojëra ku përdoret Shëndeti Mendor. Trajtimi kërkon katër deri në pesë orë terapi në muaj për çmenduri të pacaktuar. Sipas gjykimit të udhëheqësit të lojës, Psikoterapia mund të përdoret për të manipuluar një tipar personaliteti thuajse sikur të ishte një rezultat SHM, duke e zhvendosur atë pozitivisht ose negativisht me të njëjtin numër pikësh.
+  * Pacienti duhet të bëjë një hedhje të re për Shëndetin Mendor, për një humbje prej 1/1D3 SHM.
+
+  * Rritja e nivelit të FUQ të një prej çrregullimeve mendore të pacaktuar të pacientit me +1.
+
+  * Pacienti shkëmben një çrregullim mendor të pacaktuar me një tjetër: një fobi mund të zbutet, por me koston e një varësie nga barnat stabilizuese të humorit.
+
+* **Dështim:** Trajtimi nuk ka efekt. Pacienti mbetet i njëjtë.
+
+* **Suksese:** Trajtimi fillon të funksionojë, me një nga efektet e mëposhtme:
+
+  * Pas një muaji trajtim, pacienti rifiton 1D3–1 pikë SHM. Kjo aftësi nuk mund ta rrisë SHM-në e pacientit mbi FUQ×5 minus çdo penalitet të përshtatshëm për njohuritë rreth tmerreve blasfemuese ose të papërshkrueshme. Shih Shëndetin Mendor Maksimal për detaje.
+
+  * Burimi i një çrregullimi mendor të pacaktuar diagnostikohet siç duhet.
+
+  * Pasi burimi i një çrregullimi mendor të pacaktuar të jetë diagnostikuar, FUQ-ja e tij mund të reduktohet me –1 pas një muaji trajtim. Hedhje të veçanta duhet të bëhen për çdo sëmundje mendore të trajtuar.
+
+* **Special:** Si më lart, por fitimi i SHM-së është 1D3 ose reduktimi i FUQ-së është –2.
+
+* **Kritik:** Si më lart, por fitimi i SHM-së është 1D3+1 ose reduktimi i FUQ-së është –1D3+1.
+
+**Shënimet e Sistemit:** Kjo aftësi është kryesisht për lojërat ku përdoret Shëndeti Mendor. Trajtimi kërkon katër deri në pesë orë terapi në muaj për çdo çrregullim mendor të pacaktuar. Sipas vendimit të mjeshtrit të lojës, Psikoterapia mund të përdoret për të manipuluar një tipar personaliteti sikur të ishte një rezultat SHM, duke e zhvendosur atë pozitivisht ose negativisht me të njëjtin numër pikësh.
 
 ### Riparim (të ndryshme)
 
 **Shansi Bazë:** 15%
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Pajisjet dhe objektet e tjera dëmtohen ose ndalojnë së funksionuari. Përdorni Riparimin për t'i rregulluar ato ose për të bërë modifikime dhe përshtatje të lehta.
+Pajisjet dhe objektet e tjera dëmtohen ose ndalojnë së funksionuari. Përdor Riparimin për t'i rregulluar ato ose për të bërë modifikime dhe përshtatje të lehta.
 
 **Specialitetet:** Elektrike, Elektronike, Inxhinieri, Hidroelektrike, Mekanike, Strukturore, Kuantike, etj.
 
-**Efektet:** Një dështim kritik e dëmton artikullin më tej dhe mund madje të lëndojë atë që bën përpjekjen për riparim (1D3 pikë goditjeje për secilin, për shembull) dhe i bën riparimet e mëtejshme të Vështira. Dështimi nuk arrin asgjë, suksesi rikuperon 1D3 pikë goditjeje dhe artikulli bëhet përsëri i përdorshëm ose kthehet në gjendje pune. Sukseset superiore japin përfitime të ngjashme, ndoshta duke përdorur shkathtësinë Ndihmë e parë dhe gjykimin e udhëheqësit të lojës si udhëzues. Një kritik mund madje të përmirësojë artikullin në një mënyrë të vogël, si p.sh. shtimi në pikët e tij totale të goditjes, pikët e armaturës, ose shtimi i një bonusi të lehtë kur shfrytëzohet.
+**Efektet:** Një gabim e dëmton më tej artikullin dhe mund të lëndojë madje edhe atë që bën përpjekjen e riparimit (1D3 pikë goditjeje për secilin, për shembull) dhe i bën riparimet e mëtejshme të Vështira. Dështimi nuk arrin asgjë, suksesi restauron 1D3 pikë goditjeje dhe artikulli bëhet sërish i përdorshëm ose kthehet në gjendje pune. Sukseset superiore sjellin përfitime të ngjashme, ndoshta duke përdorur aftësinë Ndihma e Parë dhe gjykimin e mjeshtrit të lojës si udhëzues. Një sukses kritik mund madje ta përmirësojë artikullin në një mënyrë të vogël, si shtimi në pikët totale të goditjes, pikët e armaturës ose shtimi i një bonusi të lehtë kur përdoret.
 
-### Kërkim
+### Kërkim (Research)
 
 **Shansi Bazë:** 25%
 
-**Kategoria:** Perceptim
+**Kategori:** Perceptim
 
-Përdoreni këtë shkathtësi për të gjetur dhe identifikuar burime të mundshme informacioni në një bibliotekë, arkiv ose rrjet. Hedhjet e suksesshme japin informacionin e dëshiruar nga libra, dokumente, artikuj, databaza, arkiva ose faqe interneti, me sukseset superiore që japin informacion shtesë ose më specifik. Pavarësisht gamës së gjerë të llojeve të burimeve, parimet janë të njëjta. Një përpjekje në këtë shkathtësi kërkon katër orë normalisht, megjithëse metodat elektronike janë shumë më të shpejta. Një dështim kritik çon në keqkuptim katastrofik dhe rezulton në informacion të gabuar. Dështimi shpërdoron kohë pa asnjë rezultat solid ose siguron minimumin e informacionit pas dyfishit të sasisë normale të kohës.
+Përdore këtë aftësi për të lokalizuar dhe identifikuar burimet potenciale të informacionit në një bibliotekë, arkiv ose rrjet. Hedhjet e suksesshme sigurojnë informacionin e dëshiruar nga libra, dokumente, artikuj, baza të dhënash, arkiva ose faqe interneti, me sukseset superiore që japin informacion shtesë ose më specifik. Pavarësisht gamës së gjerë të llojeve të burimeve, parimet janë të njëjta. Një përpjekje për këtë aftësi zgjat katër orë normalisht, megjithëse metodat elektronike janë shumë më të shpejta. Një gabim çon në një keqkuptim katastrofik dhe rezulton në informacion të gabuar. Dështimi humbet kohë pa ndonjë rezultat solid ose ofron minimumin e mundshëm të informacionit pas dyfishit të kohës normale.
 
-**Shënime për Sistemin:** Udhëheqësi i lojës këshillohet që një hedhje e dështuar e Kërkimit të marrë më shumë kohë, të japë informacion paksa mashtrues ose të komplikuar, të nxisë ndonjë lloj alarmi ose vëmendje të padëshiruar, ose ndonjë pengesë tjetër sesa thjesht mosdhënia e rezultateve. Dështimi rrallë është i këndshëm në lojëra, dhe për misteret, të dhënat e paarritshme janë një rrugë pa krye dramatike.
+**Shënimet e Sistemit:** Mjeshtrit të lojës i këshillohet që një hedhje e dështuar e Kërkimit të marrë më shumë kohë, të japë informacion paksa mashtrues ose të ndërlikuar, të ngrejë ndonjë lloj alarmi ose vëmendjeje të padëshiruar, ose ndonjë pengesë tjetër në vend që thjesht të mos japë asnjë rezultat. Dështimi rrallë është i këndshëm në lojëra, dhe për misteret, të dhënat e paarritshme janë një rrugë pa krye dramatike.
 
 ### Kalërim (të ndryshme)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Komunikim
+**Kategori:** Komunikim
 
-Përdoreni këtë shkathtësi për të kalëruar, trajtuar dhe kujdesur për një lloj të caktuar kafshe të gjallë. Me Kalërimin, karakteri juaj mund të drejtojë një kafshë për manovra speciale ose terren të vështirë, ta nxisë në shpejtësi maksimale, ose të mbajë kontrollin nëse ajo çohet në këmbë ose pengohet. Një dështim kritik shkakton humbjen e kontrollit të kafshës, ndoshta duke rezultuar në hedhjen në tokë për 1D6 pikë dëmtim (të përgjithshëm ose në një vendndodhje të rastësishme goditjeje). Një hedhje e suksesshme e Kërcimit zbret 1D6 nga totali i dëmit, ndërsa kafsha galopon larg me shpejtësi maksimale. Dështimi shkakton që kafsha të trembet, dhe sukseset e bëjnë atë të performojë siç dëshirohet ose madje të tejkalojë pritshmëritë. Sukseset superiore mund të japin bonuse për veprimet luftarake ndërsa jeni mbi kafshë.
+Përdore këtë aftësi për të kalëruar, trajtuar dhe kujdesur për një lloj specifik kafshe të gjallë. Me Kalërimin, personazhi yt mund të drejtojë një montues përmes manovrave speciale ose terrenit të vështirë, ta nxisë atë në shpejtësi maksimale, ose të ruajë kontrollin nëse ai ngrihet në këmbët e pasme ose pengohet. Një gabim shkakton humbjen e kontrollit të montuesit, ndoshta duke rezultuar në hedhje përtokë për 1D6 pikë dëmtimi (të përgjithshme ose në një vend goditjeje të rastësishëm). Një hedhje e suksesshme e Kërcimit (Jump) zbret 1D6 nga totali i dëmtimit, ndërsa kafsha galopon larg me shpejtësi maksimale. Dështimi shkakton që kafsha të trembet, dhe sukseset bëjnë që ajo të performojë siç dëshirohet ose madje të tejkalojë pritshmëritë. Sukseset superiore mund të sjellin bonuse për veprimet luftarake ndërsa jeni mbi kalë.
 
-**Specialitetet:** Sipas llojit të kafshës. Shikoni *Kapitullin Njëmbëdhjetë: Krijesat* për shembuj kafshësh. Sipas gjykimit të udhëheqësit të lojës, një lloj i ngjashëm kafshe mund të kalërohet si e Vështirë. Nëse është i suksesshëm, bëni një kontroll përvoje. Nëse hedhja e përvojës është e suksesshme, filloni një shkathtësi të re me një specialitet në atë vlerësim, plus përvojën e fituar.
+**Specialitetet:** Sipas llojit të kafshës. Shih Kapitullin Njëmbëdhjetë: Krijesat për montues shembullorë. Sipas vendimit të mjeshtrit të lojës, një lloj i ngjashëm kafshe mund të kapej sikur të ishte e Vështirë. Nëse je i suksesshëm, bëj një kontroll përvoje. Nëse hedhja për përvojë është e suksesshme, fillo një aftësi të re me një specialitet në atë nivel, plus përvojën e fituar.
 
-**Shënime për Sistemin:** Zgjidhni garat midis të njëjtave raca kafshësh duke përdorur kontrolle të kundërta Kalërimi. Shkathtësitë e Luftimit dhe Kalërimit duhet të jenë 50%+ për të luftuar normalisht në luftimin mbi kafshë. Nëse shkathtësia e Kalërimit është më pak se 50%, kërkohet një kontroll Kalërimi çdo raund për të mbajtur kontrollin e kafshës. Nëse shkathtësia luftarake është më pak se 50%, të gjitha sulmet janë të Vështira. Edhe nëse të dyja shkathtësitë janë më të larta se 50%, përdorni më të ulëtin e dy vlerësimeve të shkathtësisë për sulme dhe parime. Nëse kafsha bie, shembet ose ngordh, trajtojeni kalorësin sikur të ishte hedhur. Shikoni **Luftimin mbi Kafshë** për më shumë informacion.
+**Shënimet e Sistemit:** Zgjidh garat midis të njëjtave raca kafshësh duke përdorur kontrollin e kundërt të Kalërimit. Aftësitë e Luftimit dhe Kalërimit duhet të jenë 50%+ për të luftuar normalisht në luftime të hipura. Nëse aftësia e Kalërimit është më pak se 50%, kërkohet një kontroll Kalërimi çdo raund për të ruajtur kontrollin e montuesit. Nëse aftësia luftarake është më pak se 50%, të gjitha sulmet janë të Vështira. Edhe nëse të dyja aftësitë janë më të larta se 50%, përdor më të ulëtin nga dy vlerësimet e aftësive për sulmet dhe parimet. Nëse montuesi rrëzohet, shembet ose ngordh, trajtoje kalorësin sikur të jetë hedhur. Shih **Luftimin e Hipur** për më shumë informacion.
 
 ### Shkencë (të ndryshme)
 
 **Shansi Bazë:** 01%
 
-**Kategoria:** Mendore
+**Kategori:** Mendore
 
-Përdoreni këtë shkathtësi për të ditur informacione dhe parime shkencore nga një fushë e caktuar, dhe për të vëzhguar fenomene dhe për të nxjerrë përfundime të bazuara në të dhëna. Informacioni përkatës përfshin historinë e shkencës, njohjen me pajisjet dhe metodologjinë, dhe një ndërgjegjësim për figura të rëndësishme dhe shkolla të mendimit në atë specialitet.
+Përdore këtë aftësi për të ditur informacion dhe parime shkencore nga një fushë e caktuar, dhe për të vëzhguar fenomene dhe për të nxjerrë përfundime të bazuara në të dhëna. Informacioni i lidhur përfshin historinë e shkencës, familjaritetin me pajisjet dhe metodologjinë, dhe një ndërgjegjësim për figura të rëndësishme dhe shkolla të mendimit në atë specialitet.
 
-**Specialitetet:** Astronomi, Shkencë e Sjelljes, Biologji, Botanikë, Kimi (ose Alkimi), Kriptografi, Gjenetikë, Gjeologji, Matematikë, Meteorologji, Histori Natyrore, Farmakologji, Fizikë, Planetologji, Psikologji, Mekanikë Kuantike, Xenobiologji, Zoologji, etj. Sipas gjykimit të udhëheqësit të lojës, shkathtësia me një specialitet të lidhur mund të hidhet si e Vështirë, megjithëse një hedhje e suksesshme nuk jep një kontroll përvoje ose shansin për të filluar një shkathtësi të re me atë specialitet.
+**Specialitetet:** Astronomi, Shkenca e Sjelljes, Biologji, Botanikë, Kimi (ose Alkimi), Kriptografi, Gjenetikë, Gjeologji, Matematikë, Meteorologji, Historia Natyrore, Farmakologji, Fizikë, Planetologji, Psikologji, Mekanikë Kuantike, Ksenobiologji, Zoologji, etj. Sipas vendimit të mjeshtrit të lojës, aftësia me një specialitet të lidhur mund të hidhet sikur të ishte e Vështirë, megjithëse një hedhje e suksesshme nuk jep një kontroll përvoje ose mundësinë për të filluar një aftësi të re me atë specialitet.
 
-**Shënime për Sistemin:** Shumë specialitete të Shkencës kërkojnë pajisje të specializuara, instrumente matës, kompjuterë, ose madje një laborator. Hedhjet e Shkencës mund të marrin nga 30 minuta deri në javë ose muaj, sipas gjykimit të udhëheqësit të lojës: katër orë për një eksperiment është një mesatare e mirë. Përpjekja për një hedhje Shkence pa kohë ose pajisje të mjaftueshme është ose e Vështirë ose e Pamundur.
+**Shënimet e Sistemit:** Shumë specialitete të Shkencës kërkojnë pajisje të specializuara, instrumente matëse, kompjuterë, ose madje një laborator. Hedhjet e Shkencës mund të marrin nga 30 minuta deri në javë ose muaj, sipas vendimit të mjeshtrit të lojës: katër orë për një eksperiment është një mesatare e mirë. Përpjekja për një hedhje të Shkencës pa kohë ose pajisje të mjaftueshme është ose e Vështirë ose e Pamundur.
 
-### Ndjesi
+### Ndjesi (Sense)
 
 **Shansi Bazë:** 10%
 
-**Kategoria:** Perceptim
+**Kategori:** Perceptim
 
-Shkathtësia kryesisht qeveris shijen, prekjen dhe nuhatjen; por mund të shtrihet në disa nga shqisat e tjera më pak të njohura (orientimi fizik, graviteti, presioni dhe ekuilibri, temperatura, etj.). Përdoreni atë për të vënë re ose identifikuar një lloj të caktuar stimulimi që nuk është shikim (Pikasje) ose tingull (Dëgjim), si gjetja e një artikulli në errësirë me prekje, identifikimi i një ere misterioze ose shijeje të zbehtë, ndjerja e një frakture të hollë, etj. Sipas gjykimit të udhëheqësit të lojës, kjo mund të shtrihet madje në një "shqisë të gjashtë" ose intuitë. Një dështim kritik është katastrofikisht mashtrues ose zbulon injorancë të plotë të stimulit, dështimi është dështim i thjeshtë për të vënë re, dhe shkallë të ndryshme suksesi japin perceptim më të saktë.
+Aftësia kryesisht qeveris shijen, prekjen dhe nuhatjen; por mund të shtrihet në disa nga shqisat e tjera më pak të njohura (orientimi fizik, graviteti, presioni dhe ekuilibri, temperatura, etj.). Përdore për të vënë re ose identifikuar një lloj të veçantë stimulimi që nuk është shikim (Spot) ose dëgjim (Listen), si p.sh. gjetja e një artikulli në errësirë me prekje, identifikimi i një arome misterioze ose shijeje të lehtë, ndjerja e një krisjeje të imët, etj. Sipas vendimit të mjeshtrit të lojës, kjo mund të shtrihet madje edhe në një "shqisë të gjashtë" ose intuitë. Një gabim është mashtrues në mënyrë katastrofike ose zbulon padituri të plotë për stimulimin, dështimi është dështim i thjeshtë për të vënë re, dhe shkallë të ndryshme suksesi sjellin perceptim më të saktë.
 
-**Shënime për Sistemin:** Ashtu si Dëgjimi dhe Pikasja, Ndjesia është shkathtësi aktive dhe pasive: ju mund t'i kërkoni karakterit tuaj të bëjë një hedhje Ndjesie, ose udhëheqësi i lojës mund të kërkojë një hedhje në situata të përshtatshme. Stimujt e fortë ose të njohur janë hedhje të Lehta për Ndjesi, ndërsa ata të zbehtë ose të panjohur janë të Vështira.
+**Shënimet e Sistemit:** Ashtu si Dëgjimi dhe Spot-imi, Ndjesia është si aktive ashtu edhe pasive: mund t'i kërkosh personazhit tënd të bëjë një hedhje Ndjesie, ose mjeshtri i lojës mund të kërkojë një hedhje në situata të përshtatshme. Stimujt e fortë ose të njohur janë hedhje të Lehta për Ndjesinë, ndërsa ato të zbehta ose të panjohura janë të Vështira.
 
-### Mburojë
+### Mburojë (Shield)
 
 **Shansi Bazë:** Sipas llojit të mburojës
 
-**Kategoria:** Luftarake
+**Kategori:** Luftim
 
-Përdoreni këtë shkathtësi për të bllokuar sulmet hyrëse me një mburojë ose pajisje tjetër të përshtatshme. Të gjitha bllokimet me mburojë ndjekin të njëjtat rregulla për parimin: shih **Mburojat** dhe **Parimin** në Kapitullin Gjashtë: Luftimi. Dikush mund të sulmojë me një mburojë, duke trajtuar këtë shkathtësi sikur të ishte një shkathtësi Armë e Ftohtë. Vlerësimet e dëmit jepen për mburojat në listat e armëve. Mburojat bëjnë rezultate speciale dërrmuese, mund të shkaktojnë "knockback", dhe mund të përdoren për sulme të synuara.
+Përdore këtë aftësi për të bllokuar sulmet në hyrje me një mburojë ose instrument tjetër të përshtatshëm. Të gjitha bllokimet me mburojë ndjekin të njëjtat rregulla për parimin: shih **Mburojat** dhe **Parimin** në Kapitullin Gjashtë: Luftimi. Mund të sulmosh me një mburojë, duke e trajtuar këtë aftësi sikur të ishte një aftësi e Armëve të Ftohta. Vlerësimet e dëmtimit jepen për mburojat në listat e armëve. Mburojat bëjnë rezultate speciale shkatërruese, mund të shkaktojnë zmbrapsje dhe mund të përdoren për sulme të shënjestruara.
 
-**Efektet:** Shikoni **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Dështimeve të Parimit me Armë të Ftohta**.
+**Efektet:** Shih **Matricën e Sulmit dhe Mbrojtjes** dhe **Tabelën e Gabimeve të Parimit të Armëve të Ftohta**.
 
-**Shënime për Sistemin:** Bllokimet me mburojë janë parime. Një karakter mund të bëjë më shumë se një hedhje mburoje në një raund, por çdo hedhje shtesë sjell një penalitet –30% në vlerësimin e shkathtësisë së mburojës ose parimit. Mburojat e mëdha mund të sigurojnë mbulesë kundër sulmeve raketore ose madje me armë zjarri.
+**Shënimet e Sistemit:** Bllokimet me mburojë janë parime. Një personazh mund të bëjë më shumë se një hedhje mburoje në një raund, por çdo hedhje shtesë sjell një penalitet prej –30% në vlerësimin e aftësisë së mburojës ose parimit. Mburojat e mëdha mund të sigurojnë mbrojtje kundër sulmeve projektuese ose madje edhe armëve të zjarrit.
 
-### Shkathtësi manuale
+### Shkathtësi Manuale (Sleight of Hand)
 
 **Shansi Bazë:** 05%
 
-**Kategoria:** Manipulim
+**Kategori:** Manipulim
 
-Përdoreni këtë shkathtësi për të manipuluar objekte të vogla (zare, letra, monedha, portofolë, letra, etj.) në një mënyrë mashtruese ose pa tërhequr vëmendjen, si p.sh. kur vidhni xhepat, mashtroni me letra, ose performoni magji skenike. Një dështim kritik është haptazi i dukshëm: qoftë artikulli që bie, ose hajduti i mundshëm që kapet me dorë në xhepin e objektivit. Dështimi do të thotë se asgjë nuk arrihet, dhe një objektiv i pafajshëm që ka sukses në një hedhje të Idésë mund të kuptojë se po mashtrohet.
+Përdore këtë aftësi për të manipuluar objekte të vogla (zare, letra, monedha, portofola, letra, etj.) në një mënyrë mashtruese ose pa tërhequr vëmendjen, si kur vjedh xhepat, mashtron me letra, ose performon magji skenike. Një gabim është dukshëm i qartë: qoftë nëse artikulli bie, ose hajduti i mundshëm kapet me dorën në xhepin e shënjestrës. Dështimi do të thotë se nuk arrihet asgjë, dhe një shënjestër e pashqetësuar që ka sukses në një hedhje Ideje mund të kuptojë se po mashtrohet.
 
-**Shënime për Sistemin:** Shkathtësia kundërshtohet nga Pikasja atje ku është e përshtatshme. Pasi një objekt të jetë marrë ose palmuar, përdorni Fshehjen për ta fshehur nga një kërkim i përqendruar.
+**Shënimet e Sistemit:** Aftësia kundërshtohet nga Spot-imi aty ku është e përshtatshme. Pasi një objekt të jetë fshehur në shuplakë ose marrë, përdor Fshehjen (Hide) për ta fshehur nga një kërkim i organizuar.
 
-### Pikasje
+### Spot (Spot)
 
 **Shansi Bazë:** 25%
 
-**Kategoria:** Perceptim
+**Kategori:** Perceptim
 
-Përdoreni këtë shkathtësi për të kërkuar në një dhomë për detaje potencialisht të rëndësishme, për të gjetur një ndarje të fshehur, për të vënë re një detaj të shpejtë, për të njohur një kundërshtar të maskuar, ose për të pikasur armiq që qëndrojnë në pritë. Një dështim kritik është një keqperceptim ose përshtypje e gabuar tepër shpërqendruese, dhe shkallë të ndryshme suksesi japin informacion më të dobishëm dhe përkatës.
+Përdore këtë aftësi për të kërkuar në një dhomë për detaje potencialisht të rëndësishme, për të gjetur një ndarje të fshehur, për të vënë re një detaj kalimtar, për të njohur një armik të maskuar, ose për të parë armiqtë që qëndrojnë në pritë. Një gabim është një perceptim i gabuar ose përshtypje e gabuar shumë shpërqendruese, dhe shkallë të ndryshme suksesi sjellin informacion më të dobishëm dhe më të përshtatshëm.
 
-**Shënime për Sistemin:** Pikasja është si një shkathtësi aktive ashtu edhe pasive: karakteri juaj mund të bëjë një hedhje Pikasjeje për të kërkuar ose ekzaminuar në mënyrë aktive, ose udhëheqësi i lojës mund të kërkojë një hedhje Pikasjeje për të parë nëse karakteri juaj vë re një detaj të shpejtë. Fshehja ose fshehja e qëllimshme kërkon një test të kundërt Pikasje vs. Fshehje për t'u zgjidhur. Pikasja është gjithashtu shpesh e kundërshtuar vs. Maskimi ose Shkathtësia manuale. Në errësirë të plotë, Pikasja është e Pamundur, dhe drita e ulët ose mjegulla e dendur e bën atë të Vështirë.
-
-### Status
+**Shënimet e Sistemit:** Spot është një aftësi si aktive ashtu edhe pasive: personazhi yt mund të bëjë një hedhje Spot për të kërkuar ose ekzaminuar në mënyrë aktive, ose mjeshtri i lojës mund të kërkojë një hedhje Spot për të parë nëse personazhi yt vë re një detaj kalimtar. Fshehja ose maskimi i qëllimshëm kërkon një test të kundërt Spot kundrejt Fshehjes (Hide) për t'u zgjidhur. Spot-imi është gjithashtu shpesh i kundërt me Maskimin ose Shkathtësinë Manuale. Në errësirë të plotë, Spot-imi është i Pamundur, dhe drita e ulët ose mjegulla e dendur e bëjnë atë të Vështirë.### Status
 
 **Shansi Bazë:** 15%
 
 **Kategoria:** Komunikim
 
-Statusi është një masë e reputacionit, kredencialeve profesionale, klasës sociale, prosperitetit, famës, madje edhe nderit personal. Përdoreni këtë shkathtësi për të ndikuar te të tjerët duke treguar peshë, si p.sh. bindja e një banke për të bërë një kredi ose faljen e një borxhi, frikësimi i një personazhi jo-lojtar për t'ju bërë një favor, bindja e një tregtari për të pranuar një I.O.U., ose presionin ndaj autoriteteve për ta mbajtur një çështje të qetë. Një dështim kritik është një gabim i përmasave më të mëdha, duke shkaktuar turp, duke tërhequr vëmendje të padëshiruar, dhe ka të kundërtën absolute të rezultatit të dëshiruar. Sukseset japin rezultatet e kërkuara ose madje favore dhe konsideratë shtesë. Statusi nuk është pasuri, megjithatë, dhe ndërsa ato shpesh janë të lidhura, ato nuk janë intrinsikisht të lidhura me njëri-tjetrin.
+Statusi është një masë e reputacionit, kredencialeve profesionale, klasës shoqërore, prosperitetit, famës dhe madje edhe nderit personal. Përdoreni këtë aftësi për të ndikuar tek të tjerët duke ushtruar presion, si për shembull duke bindur një bankë që të japë një hua ose të falë një borxh, duke frikësuar një personazh jo-lojtar për t'i bërë një nder, duke bindur një shitës që të pranojë një premtim pagese (I.O.U.), ose duke bërë presion ndaj autoriteteve që ta mbajnë një çështje të qetë. Një dështim kritik (fumble) është një gafë e përmasave të mëdha, që shkakton turp, tërheq vëmendje të padëshiruar dhe ka efektin e kundërt të atij të dëshiruarit. Sukseset sjellin rezultatet e kërkuara apo edhe favore dhe konsideratë shtesë. Megjithatë, Statusi nuk është pasuri dhe, ndonëse shpesh janë të lidhura, ato nuk janë të ndërvarura në mënyrë thelbësore.
 
-**Specialitetet:** Çdo specialitet përfaqëson një klasë të vetme sociale, profesion, grup social, ose zonë ndikimi.
+**Specialitetet:** Çdo specialitet përfaqëson një klasë të vetme shoqërore, profesion, grup shoqëror ose fushë ndikimi.
 
-**Shënime për Sistemin:** Statusi funksionon vetëm brenda një zone të dhënë, sipas specialitetit, dhe përdorimi i tij jashtë zonës së ndikimit është i Vështirë. Statusi nuk përmirësohet me përvojë, trajnim ose përmirësime të tjera. Udhëheqësi i lojës duhet të ofrojë Status si shpërblim për shërbim besnik, vepra të guximshme ose meritë të jashtëzakonshme midis skenarëve. Një pikë për aventurë është e arsyeshme, me vepra ose arritje të jashtëzakonshme që rrisin fitimin në 1D3, 1D4, ose ndoshta madje 1D6 pikë. Në mënyrë të ngjashme, dështimi, skandalet, kundërvajtjet dhe shkeljet sociale mund të ulin Statusin. Statusi mund të përdoret për të bërë përshtypje, por edhe për të shërbyer si një mjet për të përcaktuar famën. Karakteri juaj hedh kundrejt Statusit të dikujt tjetër për t'i identifikuar ata, dhe një personazh jo-lojtar mund të hedhë kundrejt Statusit të karakterit tuaj për të përcaktuar se çfarë, nëse ka, ata dinë për karakterin.
+**Shënimet e Sistemit:** Statusi funksionon vetëm brenda një zone të caktuar, sipas specialitetit, dhe përdorimi i tij jashtë zonës së ndikimit është i Vështirë. Statusi nuk përmirësohet me përvojë, stërvitje ose përmirësime të tjera. Udhëheqësi i lojës duhet ta ofrojë Statusin si shpërblim për shërbim besnik, vepra guximtare ose meritë të jashtëzakonshme midis skenarëve. Një pikë për aventurë është e arsyeshme, me vepra ose arritje të jashtëzakonshme që e rrisin fitimin në 1D3, 1D4, ose ndoshta edhe 1D6 pikë. Në mënyrë të ngjashme, dështimet, skandalet, kundërvajtjet dhe shkeljet shoqërore mund ta ulin Statusin. Statusi mund të përdoret për të bërë përshtypje, por edhe si një mjet për të përcaktuar famën. Personazhi juaj hedh zaret kundrejt Statusit të dikujt tjetër për ta identifikuar atë, dhe një personazh jo-lojtar mund të hedhë zaret kundrejt Statusit të personazhit tuaj për të përcaktuar se çfarë di, nëse di ndonjë gjë, për personazhin.
 
-> ### Shkathtësia Status, Statusi Social dhe Pasuria e Karakterit
->
-> Siç përshkruhet në **Krijimi i një Karakteri** dhe **Profesionet e Karakterit**, Statusi mund të ketë një efekt dramatik në qëndrimin social dhe pasurinë. Më poshtë janë tri tabela që caktojnë një gradë sociale dhe pasuri mesatare bazuar në Status, me një pasuri maksimale për atë Status. Ndërsa dikush fiton Status, pozicioni dhe fati i tij ka të ngjarë të përmirësohen. Udhëheqësi i lojës duhet t'i rishikojë këto tabela ose të krijojë të reja, sipas dëshirës.
->
-> ##### Statusi Parahistorik
->
-> | Statusi | Grada Sociale | Vlerësimi i Pasurisë | Pasuria Maksimale |
+> ### Aftësia Status, Statusi Shoqëror & Pasuria e Personazhit
+> 
+> Siç përshkruhet në **Krijimi i një Personazhi** dhe **Profesionet e Personazhit**, Statusi mund të ndikojë në mënyrë dramatike në pozicionin shoqëror dhe pasurinë. Më poshtë janë tri tabela që caktojnë një rang shoqëror dhe pasurinë mesatare bazuar në Status, me një pasuri maksimale për atë Status. Ndërsa dikush fiton Status, pozicioni dhe fati i tij ka të ngjarë të përmirësohen. Udhëheqësi juaj i lojës duhet t'i rishikojë këto tabela ose të krijojë të reja, sipas dëshirës.
+> 
+> ##### Statusi Prehistorik
+> 
+> | Status | Rang Shoqëror | Vlerësimi i Pasurisë | Pasuria Maksimale |
 > | :---- | :---- | :---- | :---- |
-> | 01–15 | Skllav (Klasa e ulët) | I varfër | I varfër |
-> | 16–95 | Anëtar fisi (Klasa e mesme) | I varfër | Mesatar |
-> | 96–00 | Fisnikëri (Klasa e lartë) | I pasur | I pasur |
->
-> ##### Statusi i Lashtë/Epoka e Errët/Mesjetare/Imperiale
->
-> | Statusi | Grada Sociale | Vlerësimi i Pasurisë | Pasuria Maksimale |
+> | 01–15 | Skllav (Klasa e Ulët) | I varfër | I varfër |
+> | 16–95 | Anëtar fisi (Klasa e Mesme) | I varfër | Mesatar |
+> | 96–00 | Fisnikëri (Klasa e Lartë) | I begatë | I pasur |
+> 
+> ##### Statusi i Antikitetit/Mesjetës së Errët/Mesjetës/Perandorak
+> 
+> | Status | Rang Shoqëror | Vlerësimi i Pasurisë | Pasuria Maksimale |
 > | :---- | :---- | :---- | :---- |
-> | 01–39 | Klasa e ulët | Destitut | Destitut |
-> | 40–43 | Klasa e mesme e ulët | I varfër | Mesatar |
-> | 44–47 | Klasa e mesme | Mesatar | Mesatar |
-> | 48–49 | Klasa e mesme e lartë | Mesatar | Mesatar |
-> | 50–75 | Klasa e lartë | I pasur | I pasur |
-> | 76–95 | Fisnikëri | I pasur | I pasur |
+> | 01–39 | Klasa e Ulët | Skamnor | Skamnor |
+> | 40–43 | Klasa e Ulët e Mesme | I varfër | Mesatar |
+> | 44–47 | Klasa e Mesme | Mesatar | Mesatar |
+> | 48–49 | Klasa e Lartë e Mesme | Mesatar | Mesatar |
+> | 50–75 | Klasa e Lartë | I begatë | I begatë |
+> | 76–95 | Fisnikëri | I begatë | I pasur |
 > | 96–00 | Monarki | I pasur | I pasur |
->
+> 
 > ##### Statusi Viktorian/Perëndimor/Pulp/Modern
->
-> | Statusi | Grada Sociale | Vlerësimi i Pasurisë | Kapaku i Pasurisë |
+> 
+> | Status | Rang Shoqëror | Vlerësimi i Pasurisë | Kufiri i Pasurisë |
 > | :---- | :---- | :---- | :---- |
-> | 01–14 | Klasa e ulët | Destitut | I varfër |
-> | 15–29 | Klasa e ulët | I varfër | Mesatar |
-> | 30–39 | Klasa e mesme e ulët | Mesatar | I pasur |
-> | 40–75 | Klasa e mesme | Mesatar | I pasur |
-> | 76–95 | Klasa e mesme e lartë | I pasur | I pasur |
-> | 96–00 | Klasa e lartë | I pasur | I pasur |
->
-> Statusi mund të ndikojë gjithashtu në pajisjet fillestare me të cilat fillon karakteri juaj. Sipas gjykimit të udhëheqësit të lojës, ju mund të bëni hedhje Statusi për të përcaktuar nëse karakteri juaj fillon me pajisje më të mira se sa tregojnë niveli i tyre i pasurisë dhe profesioni. Shikoni Pajisjet Fillestare në *Kapitullin Tetë: Pajisjet*. Hedhjet e Statusit të bëra para lojës nuk kualifikohen për kontrolle përvoje.
+> | 01–14 | Klasa e Ulët | Skamnor | I varfër |
+> | 15–29 | Klasa e Ulët | I varfër | Mesatar |
+> | 30–39 | Klasa e Ulët e Mesme | Mesatar | I begatë |
+> | 40–75 | Klasa e Mesme | Mesatar | I begatë |
+> | 76–95 | Klasa e Lartë e Mesme | I begatë | I pasur |
+> | 96–00 | Klasa e Lartë | I pasur | I pasur |
+> 
+> Statusi mund të ndikojë gjithashtu në pajisjet fillestare me të cilat fillon personazhi juaj. Sipas gjykimit të udhëheqësit të lojës, ju mund të bëni hedhje zaret për Statusin për të përcaktuar nëse personazhi juaj fillon me pajisje më të mira sesa tregojnë niveli i pasurisë dhe profesioni i tij. Shihni Pajisjet Fillestare në *Kapitullin Tetë: Pajisjet*. Hedhjet e zaret për Statusin të bëra përpara lojës nuk janë të kualifikuara për kontrollet e përvojës.
 
-### Vjedhurazi
+### Fshehtësia (Stealth)
 
 **Shansi Bazë:** 10%
 
 **Kategoria:** Fizike
 
-Përdoreni këtë shkathtësi për t'u futur fshehurazi në një zonë pa tërhequr vëmendje. Nuk kërkohet mbulesë, por një hap i lehtë, besim dhe disiplinë kërkohen. Për të shmangur t'u parë ndërsa jeni të palëvizshëm, përdorni Fshehjen. Një dështim kritik tërheq vëmendje të padëshiruar, dështimi do të thotë se nuk bëhet asnjë përparim, dhe karakteri është i dukshëm për këdo që shikon, ndërsa sukseset ofrojnë shkallë të njëpasnjëshme të fshehjes.
+Përdoreni këtë aftësi për t'u futur fshehurazi nëpër një zonë pa tërhequr vëmendje. Nuk kërkohet mbulesë, por kërkohet ecje e lehtë, vetëbesim dhe disiplinë. Për të shmangur t'u parë ndërsa jeni të palëvizshëm, përdorni Fshehjen (Hide). Një dështim kritik tërheq vëmendje të padëshiruar, një dështim do të thotë që nuk bëhet asnjë përparim dhe personazhi është i dukshëm për këdo që shikon, ndërsa sukseset ofrojnë shkallë të njëpasnjëshme fshehjeje.
 
-**Shënime për Sistemin:** Vjedhurazi supozon lëvizje të ngadaltë. Lëvizja më larg se 1/2 e MOV të dikujt në një raund luftarak është e Vështirë. Faktorët mjedisorë (zhurma e ambientit, qilima të trashë, dysheme që kërcasin, etj.) ose pajisjet (këpucë me thembra të buta, armaturë e zhurmshme, pajisje voluminoze, etj.) mund të modifikojnë hedhjet e Vjedhurazisë, sipas gjykimit të udhëheqësit të lojës. Vjedhurazia kundërshtohet nga Pikasja ose Dëgjimi, sipas rastit.
+**Shënimet e Sistemit:** Fshehtësia supozon lëvizje të ngadaltë. Lëvizja më larg se 1/2 e MOV-it tuaj në një raund luftimi është e Vështirë. Faktorët mjedisorë (zhurma e ambientit, qilima të trashë, dysheme që kërcasin, etj.) ose pajisjet (këpucë me shollë të butë, parzmore që bën zhurmë, pajisje të rënda, etj.) mund të modifikojnë hedhjet e zaret për Fshehtësinë, sipas gjykimit të udhëheqësit të lojës. Fshehtësia kundërshtohet nga Vëzhgimi (Spot) ose Dëgjimi (Listen), sipas rastit.
 
-### Strategji
+### Strategjia
 
 **Shansi Bazë:** 01%
 
 **Kategoria:** Mendore
 
-Përdoreni këtë shkathtësi për të udhëhequr forcat në betejë, nga një skuadër e vogël deri te një ushtri masive ose flotë, për të organizuar dhe koordinuar logjistikën për një ushtri, për të planifikuar dhe ekzekutuar një ndërmarrje ushtarake në shkallë të gjerë, dhe për të përcaktuar se çfarë mund të jetë duke menduar një strateg tjetër. Kjo shkathtësi supozon gjithashtu një njohuri bazë të historisë ushtarake dhe taktikave, dhe figura domethënëse në to. Një dështim kritik përfaqëson një katastrofë ushtarake dhe mund të çojë në humbje të plotë, ndërsa shkallë të ndryshme suksesi japin avantazhe strategjike dhe mund të nënkuptojnë bonuse për moralin dhe efektivitetin luftarak.
+Përdoreni këtë aftësi për të udhëhequr forcat në betejë, nga një skuadër e vogël deri tek një ushtri apo flotë masive, për të organizuar dhe koordinuar logjistikën për një ushtri, për të planifikuar dhe ekzekutuar një sipërmarrje ushtarake në shkallë të gjerë, dhe për të përcaktuar se çfarë mund të jetë duke menduar një strateg tjetër. Kjo aftësi supozon gjithashtu një njohuri bazë të historisë ushtarake dhe taktikave, dhe figurave të rëndësishme në to. Një dështim kritik përfaqëson një fatkeqësi ushtarake dhe mund të çojë në humbje të plotë, ndërsa shkallë të ndryshme suksesi sjellin përparësi strategjike dhe mund të nënkuptojnë bonuse për moralin dhe efektivitetin e luftimit.
 
-**Shënime për Sistemin:** Angazhimet ushtarake masive duhet të zgjidhen në mënyrë abstrakte, me një hedhje të kundërt Strategjie midis udhëheqësve kundërshtarë që ndikon në rezultatin (mund të kërkohen hedhje të shumta për angazhime më të mëdha ose më të gjata). Përdorimi i Strategjisë në kushte të pafavorshme (në numër më të vogël, keq të furnizuar, etj.) është e Vështirë. Kjo shkathtësi përdoret shpesh së bashku me Komandën: Strategjia përfaqëson planin, Komanda është se si ajo përcillet qartë për ata që duhet ta ekzekutojnë.
+**Shënimet e Sistemit:** Angazhimet masive ushtarake duhet të zgjidhen në mënyrë abstrakte, me një hedhje zaret të kundërshtuar të Strategjisë midis udhëheqësve kundërshtarë që ndikon në rezultat (mund të kërkohen hedhje të shumta për angazhime më të mëdha ose më të gjata). Përdorimi i Strategjisë në kushte të pafavorshme (në numër më të vogël, me furnizim të dobët, etj.) është i Vështirë. Kjo aftësi shpesh përdoret së bashku me Komandën: Strategjia përfaqëson planin, Komanda është se sa qartë përcillet ai tek ata që duhet ta ekzekutojnë.
 
-### Not
+### Noti
 
 **Shansi Bazë:** 25%
 
 **Kategoria:** Fizike
 
-Përdoreni këtë shkathtësi për të lëvizur nëpër ose nën ujë. Në përgjithësi, hedhjet e Notit duhet të përdoren vetëm për situata të rrezikshme ose stresuese. Notimi, lëvizja si qen dhe qëndrimi në ujë në kushte normale janë *Automatike*. Një dështim kritik do të thotë se filloni të mbyteni (shih *Mbytja, Mbytja në ujë dhe Asfiksia*). Pasi karakteri juaj fillon të mbytet, vetëm një hedhje e *Vështirë* e Notit ose ndihma e jashtme mund t'i kthejë ata në sipërfaqe për të marrë frymë përsëri. Suksesi do të thotë manovrim normal në ujë, ndërsa sukseset superiore nënkuptojnë shpejtësi dhe manovrueshmëri shtesë.
+Përdoreni këtë aftësi për të lëvizur nëpër ose nën ujë. Në përgjithësi, hedhjet e zaret për Notin duhet të përdoren vetëm për situata të rrezikshme ose stresuese. Notimi në sipërfaqe, noti "qençe" dhe qëndrimi në vend në ujë në kushte normale janë *Automatike*. Një dështim kritik do të thotë që filloni të mbyteni (shih *Mbytja, Fundosja dhe Asfiksia*). Sapo personazhi juaj fillon të mbytet, vetëm një hedhje *e Vështirë* e Notit ose ndihma e jashtme mund t'i kthejë ata përsëri në sipërfaqe për të marrë frymë. Suksesi do të thotë manovrim normal në ujë, ndërsa sukseset superiore nënkuptojnë shpejtësi dhe manovrueshmëri shtesë.
 
-**Shënime për Sistemin:** Në ujëra të qeta, hedhjet e Notit nevojiten vetëm një herë për turn. Notimi në ujëra të ashpra kërkon një kontroll Noti çdo raund. Notimi ndërsa mbani diçka kërkon një hedhje Përpjekjeje ose një hedhje rezistence STR, varësisht nga situata. Pajisjet e specializuara (notues, pendë noti, etj.) ofrojnë modifikues deri në +20%. Notimi aktiv kushton 1 pikë lodhjeje për turn. Zgjidhni garat në ujë si hedhje të kundërta të Notit, duke kushtuar 1 pikë lodhjeje për raund. Zbrisni çdo ENC që ka një notues nga vlerësimi i tij i Notit. Nëse ENC-ja e tyre tejkalon STR-në e tyre, ata zhyten dhe duhet të heqin peshë ose të mbyten. Karakteret me armaturë kanë një penalitet të aplikuar në Not (shih **Armaturë**). Për të hequr armaturën në ujë, bëni një hedhje Noti një herë për raund luftarak për pikë të vlerës më të lartë të armaturës (vlerësimi maksimal nëse përdoren vlera të rastësishme të armaturës). Armatura natyrore ose armatura e dhënë nga një fuqi nuk ka penalitet në ujë.
+**Shënimet e Sistemit:** Në ujëra të qeta, hedhjet e zaret për Notin nevojiten vetëm një herë për raund. Notimi në ujëra të trazuara kërkon një kontroll të Notit çdo raund. Notimi ndërsa mbani diçka kërkon një hedhje zaret për Përpjekje ose një hedhje zaret për rezistencë të FOR-it, varësisht nga situata. Pajisjet e specializuara (notuese, flatrat e notit, etj.) ofrojnë modifikues deri në +20%. Notimi aktiv kushton 1 pikë lodhjeje për raund. Zgjidhini garat në ujë si hedhje të kundërshtuara të Notit, duke kushtuar 1 pikë lodhjeje për raund. Zbrisni çdo ENC që ka notari nga vlerësimi i tij i Notit. Nëse ENC-ja e tyre tejkalon FOR-in e tyre, ata fundosen dhe duhet të heqin peshë ose të mbyten. Personazhet e veshur me parzmore kanë një dënim (penallti) të aplikuar për Notin (shih **Parzmoret**). Për të hequr parzmoren në ujë, bëni një hedhje zaret për Notin një herë për raund luftimi për çdo pikë të vlerës më të lartë të parzmores (hedhje maksimale nëse përdoren vlera të rastësishme të parzmores). Parzmorja natyrale ose parzmorja e dhënë nga një fuqi nuk ka dënim në ujë.
 
-Në luftimin dorë-më-dorë nënujor, një sulmues përdor më të ulëtin e vlerësimeve të shkathtësisë luftarake ose të Notit për të zgjidhur sulmet, dhe përpjekja për të Shmangur është e Vështirë. Vetëm armët shpuese janë të dobishme—të gjitha të tjerat bëjnë 1D3–1 pikë dëmtim për goditje. Rezistenca e ujit shton gjithashtu 3 pikë vlerë armature për çdo objektiv. Shikoni **Luftimin Nënujor** për më shumë informacion.
+Në luftimin trup-me-trup nën ujë, një sulmues përdor më të ulëtin e vlerësimeve të aftësive të tyre të luftimit ose Notit për të zgjidhur sulmet, dhe përpjekja për t'u Shmangur (Dodge) është e Vështirë. Vetëm armët shpuese janë të dobishme—të gjitha të tjerat bëjnë 1D3–1 pikë dëmtim për goditje. Rezistenca e ujit shton gjithashtu 3 pikë vlerë parzmore për çdo objektiv. Shihni **Luftimi Nënujor** për më shumë informacion.
 
-### Mësimdhënie
+### Mësimdhënia
 
 **Shansi Bazë:** 10%
 
 **Kategoria:** Komunikim
 
-Përdoreni këtë shkathtësi sa herë që karakteri juaj provon të trajnojë ose mësojë informacione ose teknika tek dikush tjetër, duke përdorur leksione, ushtrime, ose stërvitje fizike. Një dështim kritik është retrograd dhe shkakton që studentët ndoshta të humbasin 1D2 pikë shkathtësie nëse nuk bëjnë një hedhje të Idésë për të njohur mësimdhënien e dobët, ndërsa suksesi mëson sipas rregullave normale për trajnimin dhe sukseset superiore përmirësojnë trajnimin e shkathtësisë në 1D6 (special) dhe 1D6+2 (kritik).
+Përdoreni këtë aftësi sa herë që personazhi juaj përpiqet të stërvitë ose t'i mësojë një tjetri informacione ose teknika, duke përdorur ligjërata, ushtrime ose përleshje fizike. Një dështim kritik është regresiv dhe shkakton që studentët ndoshta të humbasin 1D2 pikë aftësie nëse nuk bëjnë një hedhje zaret për Ide për të njohur mësimdhënien e dobët, ndërsa suksesi mëson sipas rregullave normale për stërvitjen dhe sukseset superiore e përmirësojnë stërvitjen e aftësive në 1D6 (special) dhe 1D6+2 (kritik).
 
-**Shënime për Sistemin:** Për të mësuar një shkathtësi të caktuar, mësuesi duhet të ketë dyfishin e vlerësimit të shkathtësisë së studentit, ose një vlerësim shkathtësie prej 50% (cili të jetë më i ulët). Shikoni **Trajnimin e Shkathtësive** për më shumë detaje.
+**Shënimet e Sistemit:** Për të mësuar një aftësi të caktuar, mësuesi duhet të ketë dyfishin e vlerësimit të aftësisë së studentit, ose një vlerësim aftësie prej 50% (cilado që është më e ulët). Shihni **Stërvitja e Aftësive** për më shumë detaje.
 
-### Shkathtësi teknike (të ndryshme)
+### Aftësi Teknike (të ndryshme)
 
 **Shansi Bazë:** 05%
 
 **Kategoria:** Mendore
 
-Përdoreni këtë shkathtësi për të operuar dhe mirëmbajtur pajisje teknologjike të avancuara si sisteme kompjuterike, robotë, ose pajisje të tjera të larta. Mund të përdoret gjithashtu për të modifikuar pajisje për të përmirësuar performancën e tyre ose për t'i përdorur ato për një qëllim të ri jashtë parametrave të tyre. Një dështim kritik potencialisht prish pajisjen ose e bllokon atë në ndonjë mënyrë, ndërsa sukseset dhe sukseset superiore bëjnë që mekanizmi të performojë siç është projektuar, ose përtej pritshmërive.
+Përdoreni këtë aftësi për të operuar dhe mirëmbajtur pajisje teknologjike të avancuara si sisteme kompjuterike, robotë ose pajisje të tjera të larta. Ajo gjithashtu mund të përdoret për të modifikuar pajisjet për të përmirësuar performancën e tyre ose për t'i përdorur ato për një qëllim të ri jashtë parametrave të tyre. Një dështim kritik potencialisht prish pajisjen ose e bllokon atë në ndonjë mënyrë, ndërsa sukseset dhe sukseset superiore bëjnë që mekanizmi të funksionojë siç është projektuar, ose përtej pritshmërive.
 
-**Specialitetet:** Mekanizëm me kurdisje, Kompjuterë, Kibernetikë, Elektronikë, Robotikë, Senserë, Motorë rrethimi, Kurthe, etj.
+**Specialitetet:** Mekanizma me sahat (Clockwork), Kompjuterë, Kibernetikë, Elektronikë, Robotikë, Sensorë, Pajisje rrethimi, Kurthe, etj.
 
-**Shënime për Mjedisin:** Shkathtësia teknike në mjedise fantastike ose historike mbulon kurthet, pajisjet me kurdisje ose me ingranazhe, motorë rrethimi, etj.
+**Shënimet e Mjedisit:** Aftësia Teknike në mjediset fantazi ose historike mbulon kurthet, mekanizmat me sahat ose pajisjet me ingranazhe, pajisjet e rrethimit, etj.
 
-### Hedhje
+### Hedhja (Throw)
 
 **Shansi Bazë:** 25%
 
 **Kategoria:** Fizike
 
-Përdoreni këtë shkathtësi për të goditur një objektiv me një objekt të hedhur, ose për të hedhur një armë që përndryshe nuk është e balancuar për hedhje (si hedhja e një shpate të madhe ose mburoje). Kjo mbulon objekte të hedhura të improvizuara, granata, shkopinj dinamiti, armë që zakonisht nuk hidhen, ose jo-armë. Laset gjithashtu mbulohen nga kjo shkathtësi, si dhe kapja e artikujve. Nëse arma është bërë për t'u hedhur, përdorni Armë Raketore.
+Përdoreni këtë aftësi për të goditur një objektiv me një objekt të hedhur, ose për të hedhur një armë që përndryshe nuk është e balancuar për hedhje (si p.sh. hedhja e një shpate të madhe ose mburoje). Kjo mbulon objekte të hedhura në mënyrë improvizuar, granata, shkopinj dinamiti, armë që zakonisht nuk hidhen, ose objekte që nuk janë armë. Lasso-t mbulohen gjithashtu nga kjo aftësi, si dhe kapja e sendeve. Nëse arma është bërë për t'u hedhur, përdorni Armë Raketore (Missile Weapon).
 
 **Efektet:** Hedhja ka efekte specifike:
 
-* **Dështim kritik:** Objekti bie ose humbet. Në luftim, përdorni **Tabelën e Dështimeve të Armëve Raketore**.
-* **Dështim:** Objekti humbet dhe shkon 1D6 metra në një drejtim të rastësishëm.
-* **Sukses:** Objekti ulet aty ku synohej. Hidhni dëmin normalisht, nëse ka.
-* **Special:** Objekti ulet aty ku synohej dhe bën dëmin special të llojit të përshtatshëm për formën e tij (shih **Suksese Speciale**).
-* **Kritik:** Objekti ulet aty ku synohej me rezultate të jashtëzakonshme, duke injoruar armaturën dhe duke bërë dëmin kritik, nëse është e përshtatshme.
+* **Dështim Kritik (Fumble):** Objekti bie ose humbet. Në luftim, përdorni **Tabelën e Dështimeve Kritike të Armëve Raketore**.
+* **Dështim:** Objekti humb shënjestrën dhe shkon 1D6 metra në një drejtim të rastësishëm.
+* **Sukses:** Objekti bie aty ku ishte menduar. Hidhni zaret për dëmtimin normalisht, nëse ka të tillë.
+* **Special:** Objekti bie aty ku ishte menduar dhe bën llojin e dëmtimit special të përshtatshëm për formën e tij (shih **Sukseset Speciale**).
+* **Kritik:** Objekti bie aty ku ishte menduar me rezultate të jashtëzakonshme, duke shpërfillur parzmoren dhe duke bërë dëmtim kritik, nëse është e përshtatshme.
 
-**Shënime për Sistemin:** Shtoni 1/2 modifikuesin e dëmit (rrumbullakosni lart) në dëmin bazë të një arme të hedhur. Shumica e artikujve mund të hidhen në metrat e STR-së së hedhësit, dhe rrezja përtej asaj është e Vështirë. Objektet e hedhura mund të synohen.
+**Shënimet e Sistemit:** Shtoni 1/2 e modifikuesit të dëmtimit (rrumbullakosni lart) në dëmtimin bazë të një arme të hedhur. Shumica e sendeve mund të hidhen në distancën e FOR-it të hedhësit në metra, dhe diapazoni përtej kësaj është i Vështirë. Objektet e hedhura mund të shënjestrohen.
 
-### Gjurmim
+### Gjurmimi (Track)
 
 **Shansi Bazë:** 10%
 
 **Kategoria:** Perceptim
 
-Përdoreni këtë shkathtësi për të identifikuar gjurmë ose për të ndjekur një shteg—qoftë person, mjet, ose kafshë—mbi tokë, përmes shkurreve, borës, dhe përgjatë tokës së thyer. Një dështim kritik humbet shtegun dhe ndoshta vetë gjurmuesin. Shkallë të ndryshme suksesi japin rezultate më të mira, duke përfshirë potencialisht të qenit në gjendje të vlerësoni informacione rreth subjektit që po ndiqet ose të parashikoni saktësisht se ku po shkojnë.
+Përdoreni këtë aftësi për të identifikuar gjurmët ose për të ndjekur një shteg—qoftë person, automjet ose kafshë—mbi tokë, nëpër shkurre, borë dhe nëpër terrene të thyer. Një dështim kritik humbet shtegun dhe ndoshta vetë gjurmuesin. Shkallë të ndryshme suksesi sjellin rezultate më të mira, duke përfshirë potencialisht mundësinë për të vlerësuar informacione rreth subjektit që po ndiqet ose për të parashikuar me saktësi se ku po shkojnë.
 
-**Shënime për Sistemin:** Një hedhje Gjurmimi kërkon 1D3 minuta, dhe një përpjekje e zgjatur gjurmimi mund të kërkojë hedhje të shumta. Varësisht nga mjedisi, hedhja mund të jetë e Vështirë (një natë me shi) ose e Lehtë (një ditë e ndritshme me borë). Nëse një shteg humbet, gjetja e tij përsëri është e Vështirë. Përpjekja për të fshehur gjurmët e dikujt është një hedhje e kundërt Gjurmimi. Pajisjet e avancuara mund të shtojnë deri në +20% në vlerësimin e shkathtësisë.
+**Shënimet e Sistemit:** Një hedhje zaret për Gjurmim merr 1D3 minuta, dhe një përpjekje e zgjatur gjurmimi mund të kërkojë hedhje të shumta. Në varësi të mjedisit, hedhja mund të jetë e Vështirë (një natë me shi) ose e Lehtë (një ditë e ndritshme me borë). Nëse një shteg humbet, gjetja e tij përsëri është e Vështirë. Përpjekja për të fshehur gjurmët e dikujt është një hedhje e kundërshtuar e Gjurmimit. Pajisjet e avancuara mund të shtojnë deri në +20% në vlerësimin e aftësisë.

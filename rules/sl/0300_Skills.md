@@ -1,1081 +1,1081 @@
-# 3\. Veščine
+# 3. Veščine
 
-Med igro bo moral vaš lik sprejeti številne odločitve, se soočiti s številnimi izzivi in opraviti številne naloge. Najpomembnejša dejanja so opredeljena kot **veščine**, ki jih lahko vaš lik poskusi izvesti. Ta razdelek navaja najpogostejše veščine, jih opredeljuje in povezuje z nalogami, ki jih lahko vaš lik poskuša opraviti med igro.
+Med igro bo vaš lik moral sprejeti številne odločitve, se soočiti z mnogimi izzivi in opraviti kopico nalog. Najpomembnejša dejanja so opredeljena kot **veščine**, ki jih lahko vaš lik poskusi izvesti. Ta razdelek navaja najpogostejše veščine, jih opredeljuje in povezuje z nalogami, ki jih lahko vaš lik poskusi opraviti med igro.
 
-## Opredelitev veščin
+## Opredeljevanje veščin
 
-Veščina predstavlja specifičen nabor znanja in sposobnosti. Vsaka veščina je ocenjena na odstotkovni lestvici od 0 do 100 (ali več). To se imenuje **stopnja veščine**. Višja kot je, boljša je.
+Veščina predstavlja določen nabor znanja in sposobnosti. Vsaka veščina je ocenjena na odstotkovni lestvici od 0 do 100 (ali več). To se imenuje **ocena veščine**. Višja kot je, boljše je.
 
-Seznam veščin v tej knjigi še zdaleč ni izčrpen: različne igre lahko zahtevajo dodatne veščine in igralnega mojstra (gamemasterja) spodbujamo, da po želji ustvari nove. Poleg tega lahko igralni mojster po potrebi preimenuje ali prekategorizira veščine, nekatere odstrani, doda nove specialnosti (opisane spodaj) ali jih odstrani.
+Seznam veščin v tej knjigi še zdaleč ni izčrpen: različne igre lahko zahtevajo dodatne veščine, igralni mojster (IM) pa je spodbujen, da po želji ustvari nove. Poleg tega bo IM morda želel preimenovati ali preklasificirati veščine, nekatere odstraniti, dodati nove specialnosti (opisane spodaj) ali jih odstraniti, kakor se mu zdi primerno.
 
 ### Specialnosti veščin
 
-Mnoge veščine so široke in zahtevajo, da določite specialnost, bolj osredotočen vidik te veščine. Umetnost je na primer široka kategorija, zato je razdeljena na specialnosti, kot so risanje, slikanje, kiparstvo, pisanje itd. Te so navedene za imenom veščine v oklepaju. Tako se bližinsko orožje (meč) in bližinsko orožje (kopje) obravnavata kot dve različni veščini. Po presoji igralnega mojstra lahko, če vašemu liku manjka stopnja veščine v ustrezni specialnosti, za mete na veščino uporabite sorodno veščino ali stopnjo specialnosti, razpolovljeno (zaokroženo navzgor).
+Mnoge veščine so široke in zahtevajo, da opredelite specialnost, bolj osredotočen vidik te veščine. Umetnost je na primer široka kategorija, zato je razdeljena na specialnosti, kot so risanje, slikanje, kiparstvo, pisanje itd. Te so navedene v oklepajih za imenom veščine. Tako se veščini Orožje za bližnji boj (meč) in Orožje za bližnji boj (kopje) obravnavata kot dve različni veščini. Po presoji igralnega mojstra lahko, če vašemu liku manjka ocena veščine v ustrezni specialnosti, za metanje na veščine uporabite polovico ocene (zaokroženo navzgor) povezane veščine ali specialnosti.
 
-Na primer: *vaš lik lahko uporabi polovico svoje stopnje veščine Znanost (astronomija) za mete na veščino, ki bi običajno zahtevali Znanost (fizika) ali Znanost (matematika), saj gre za sorodni veščini. Vendar je ta astronomska pronicljivost neuporabna, če igralni mojster zahteva met na veščino Znanost (biologija) ali Znanje (zgodovina).*
+Na primer, *vaš lik lahko uporabi polovico svoje ocene veščine Znanost (astronomija) za mete na veščino, ki bi običajno zahtevali Znanost (fizika) ali Znanost (matematika), saj sta to povezani veščini. Vendar pa je ta astronomska bistrost nekoristna, če igralni mojster zahteva met na veščino Znanost (biologija) ali Znanje (zgodovina).*
 
 ### Uporaba veščin
 
-Kadar koli želi vaš lik izvesti dejanje ali opraviti nalogo, pri kateri je izid negotov, morate napovedati želeno dejanje. Igralni mojster bo nato zahteval met 1D100 proti ustrezni stopnji veščine. Na splošno velja, da met 1D100, ki je enak ali manjši od modificirane stopnje veščine, pomeni uspeh pri nalogi, medtem ko met, ki je višji od stopnje, pomeni neuspeh.
+Kadar koli želi vaš lik izvesti dejanje ali opraviti nalogo, pri kateri je izid dvomljiv, morate razglasiti želeno dejanje. Igralni mojster bo nato zahteval met D100 proti ustrezni oceni veščine. Na splošno velja, da met D100, ki je enak ali manjši od prilagojene ocene veščine, pomeni uspeh pri nalogi, medtem ko met, višji od ocene, pomeni neuspeh.
 
-Težavnost naloge ali drugi okoliščinski modifikatorji lahko povečajo ali zmanjšajo stopnjo veščine. Modifikatorji težavnosti so:
+Težavnost naloge ali drugi okoliščinski modifikatorji lahko prilagodijo oceno veščine navzgor ali navzdol. Modifikatorji težavnosti so:
 
 * **Samodejno** met ni potreben
-* **Lahko** veščina se podvoji
-* **Povprečno** brez modifikacije veščine
-* **Težko** veščina se razpolovi
-* **Nemogoče** ni meta ali po presoji igralnega mojstra 01 % možnosti
+* **Lahko** ocena veščine se podvoji
+* **Povprečno** brez spremembe veščine
+* **Težko** ocena veščine se prepolovi
+* **Nemogoče** ni meta ali pa 01 % možnosti po presoji igralnega mojstra
 
-Za več informacij glejte **Modificiranje metov za dejanja**. Če modifikator ni naveden, predpostavite, da je met povprečne težavnosti.
+Za več informacij glejte **Spreminjanje metov za dejanja**. Če modifikator ni naveden, predpostavite, da je met povprečne težavnosti.
 
-V večini primerov je ustrezna veščina za določeno dejanje očitna. Nepredvidene okoliščine pa lahko vodijo do novih načinov uporabe veščine. Spodbujamo vas, da poiščete alternativne uporabe veščin svojega lika, vendar morajo biti vse takšne uporabe veščin odobrene s strani igralnega mojstra.
+V večini primerov je ustrezna veščina za določeno dejanje očitna. Nepredvidene okoliščine pa lahko vodijo do novih načinov uporabe veščine. Spodbujamo vas, da poiščete alternativne načine uporabe veščin svojega lika, vendar mora vsaka takšna uporaba veščine dobiti odobritev igralnega mojstra.
 
-Čeprav so mnoge veščine usmerjene k dejanjem, kažejo tudi na splošno znanje o vrstah nalog, ki jih ta veščina ureja.
+Čeprav so mnoge veščine usmerjene v dejanja, kažejo tudi na splošno znanje o vrstah nalog, ki jih ta veščina ureja.
 
-Na primer: *srednjeveški bojevnik bi lahko namesto Ocenjevanja uporabil veščino Bližinsko orožje (meč), da bi presodil kakovost meča. Veščino Borilne veščine bi lahko podobno uporabili za poznavanje različnih dojojev v mestu in kdo so njihovi senseiji.*
+Na primer, *srednjeveški bojevnik bi lahko uporabil veščino Orožje za bližnji boj (meč) namesto Ocene, da bi presodil kakovost meča. Veščina Borilne veščine bi se lahko podobno uporabila za poznavanje različnih dojojev v mestu in kdo so njihovi senseiji.*
 
 ### Skrivni ali prikriti meti na veščine
 
-Igralni mojster lahko izvaja mete na veščine tudi za vaš lik v primerih, ko igralni mojster bodisi ne želi, da poznate izid meta na veščino, ali da sploh veste, da se izvaja met na veščino. Igralni mojster si morda želi imeti kopijo vašega lista lika pri roki ali pa vas bo prosil za seznam trenutnih stopenj veščin vašega lika (zlasti veščin zaznavanja), tako da se lahko skrivni meti izvedejo, ne da bi vas ali druge igralce opozorili, da bi lahko vaš lik kaj spregledal, ko meti na veščino spodletijo. Ta metoda omogoča igralnemu mojstru, da uporabi spodletele mete, da vas potencialno zavede ali usmeri v napačno smer, kar je uporabna taktika za veščine zaznavanja ali mentalne veščine.
+Igralni mojster lahko opravi mete na veščine za vaš lik v primerih, ko IM bodisi ne želi, da bi vedeli za izid meta na veščino, bodisi ne želi, da sploh veste, da se met izvaja. Igralni mojster bo morda želel imeti pri roki kopijo vašega lista lika ali pa vas bo prosil za seznam trenutnih stopenj veščin vašega lika (zlasti zaznavnih veščin), tako da se lahko skrivni meti izvedejo, ne da bi vas in druge igralce opozorili, da bi liki morda kaj zgrešili, ko meti na veščine ne uspejo. Ta metoda igralnemu mojstru omogoča, da neuspešne mete uporabi za potencialno zavajanje ali usmerjanje v napačno smer, kar je uporabna taktika za mete na zaznavo ali mentalne mete.
 
-Nekatere bolj očitne veščine, ki se lahko izvajajo skrivaj ali brez vaše vednosti o izidu, so naslednje: Ocenjevanje, Umetnost, Barantanje, Poveljevanje, Rokodelstvo, Preobleka, Etiketa, Hitri govor, Igre na srečo, Skrivanje, Vpogled, Znanje, Jezik, Poslušanje, Pismenost, Medicina, Navigacija, Nastopanje, Prepričevanje, Psihoterapija, Raziskovanje, Znanost, Občutek, Pridne roke, Opazovanje, Status, Prikradanje, Strategija, Poučevanje, Tehnična veščina in Sledenje. Odvisno od okoliščin se lahko skrivaj izvajajo tudi druge veščine.
+Nekatere bolj očitne mete na veščine, ki se lahko izvedejo skrivaj ali brez vaše vednosti o izidu, so: Ocena, Umetnost, Barantanje, Ukazovanje, Obrt, Preobleka, Etiketa, Hitro govorjenje, Igre na srečo, Skrivanje, Vpogled, Znanje, Jezik, Poslušanje, Pismenost, Medicina, Navigacija, Nastopanje, Prepričevanje, Psihoterapija, Raziskovanje, Znanost, Zaznavanje, Spretne roke, Opazovanje, Status, Prikradanje, Strategija, Poučevanje, Tehnična veščina in Sledenje. Odvisno od okoliščin se lahko skrivaj izvajajo tudi druge veščine.
 
-Ti meti ne rabijo biti popolnoma skrivni in igralni mojster vam lahko pove, da se met izvaja proti določeni veščini. Odvisno od stilov igranja se lahko vi in igralni mojster odločita za skrite mete, kjer kocke vržete na območju, kjer ne vidite, kako pristanejo, na primer za zaslonom igralnega mojstra ali drugim prikritjem.
+Ti meti ne rabijo biti povsem skrivni in igralni mojster vam lahko pove, da se izvaja met proti določeni veščini. Glede na sloge igranja se lahko z igralnim mojstrom dogovorite za izvedbo skritih metov, pri katerih vržete kocke na območju, kjer ne vidite, kako pristanejo, na primer za zaslonom igralnega mojstra ali drugo prikritostjo.
 
-Če je veščina uspešna, bi vam moral igralni mojster povedati, da je vaš lik uspešno uporabil ustrezno veščino, in omogočiti preverjanje izkušenj, če je to primerno. Če met na veščino spodleti, vas mora igralni mojster obvestiti, dezinformirati ali se vzdržati obveščanja vas (in vašega lika) o izidu, kot je primerno.
+Če je veščina uspešna, vam mora igralni mojster povedati, da je vaš lik uspešno uporabil ustrezno veščino, in omogočiti preverjanje izkušenj, če je to primerno. Če met na veščino ne uspe, vas mora igralni mojster obvestiti, napačno obvestiti ali se vzdržati obveščanja vas (in vašega lika) o izidu, kakor je primerno.
 
 ## Kategorije veščin
 
-Veščine so razdeljene na šest kategorij veščin:
+Veščine so razdeljene v šest kategorij:
 
-* **Bojne** veščine merijo usposobljenost z orožjem in bojnimi manevri.
+* **Bojevne** veščine merijo usposobljenost z orožjem in bojnimi manevri.
 * **Komunikacijske** veščine urejajo pogovor, branje in medosebne izmenjave.
-* **Manipulacijske** veščine določajo naloge, ki zahtevajo natančno koordinacijo rok in oči.
+* **Manipulacijske** veščine določajo naloge, ki zahtevajo natančno koordinacijo oči in rok.
 * **Mentalne** veščine merijo specifično znanje in individualno presojo.
 * **Zaznavne** veščine zbirajo in interpretirajo informacije iz okolja.
 * **Fizične** veščine urejajo podvige moči, gibčnosti in atletike.
 
-Kategorije veščin služijo kot splošni vodniki za vrste dejanj, ki jih lahko veščina opravi, in nudijo okvir za vas in igralnega mojstra pri ustvarjanju novih veščin. Kategorije veščin povezujejo stopnje veščin vašega lika z njegovimi najvplivnejšimi karakteristikami prek bonusov kategorij, kar je neobvezen sistem.
+Kategorije veščin služijo kot splošna vodila za vrste dejanj, ki jih lahko veščina opravi, ter ponujajo okvir za vas in igralnega mojstra pri ustvarjanju novih veščin. Kategorije veščin povezujejo ocene veščin vašega lika z njihovimi najbolj vplivnimi karakteristikami prek bonusov kategorij, kar je neobvezen sistem.
 
 ### Nove veščine
 
-V razdelku za veščine na listu lika so prazne vrstice. Te so namenjene novim veščinam, ki jih lahko ustvarite vi ali igralni mojster. Na primer, *Poglavje štiri: Moči* uvaja neobvezno novo veščino, imenovano Projekcija, ki se uporablja v povezavi s številnimi močmi. Predlagate in opredelite lahko novo veščino, vendar lahko samo igralni mojster dovoli njeno uporabo v vaši igri.
+Na listu lika so prazne vrstice v razdelku za veščine. Te so namenjene novim veščinam, ki jih lahko ustvarite vi ali igralni mojster. Na primer, *Poglavje štiri: Moči* uvaja neobvezno novo veščino, imenovano Projekcija, ki se uporablja v povezavi s številnimi močmi. Lahko predlagate in definirate novo veščino, vendar lahko samo igralni mojster dovoli njeno uporabo v vaši igri.
 
 ### Spreminjanje seznama veščin
 
-Prav tako lahko vi in igralni mojster ustvarita nove veščine, kot lahko preimenujeta veščine, da ustrezajo določenemu okolju. Na primer, Fino manipulacijo lahko preimenujete v Snovanje ali Odklepanje za srednjeveško ali fantazijsko okolje. Vaš igralni mojster se lahko tudi odloči, da popolnoma odstrani določene veščine, če ne ustrezajo njegovemu slogu igranja. Zelo priporočljivo je, da se o takšnih spremembah odločite pred ustvarjanjem lika in da so jasne, da ne boste izbrali veščin, ki bi jih igralni mojster lahko zavrnil ali spremenil.
+Prav tako enostavno, kot lahko vi in igralni mojster ustvarite nove veščine, lahko veščine preimenujete, da ustrezajo določenemu okolju. Na primer, Fino manipulacijo lahko preimenujete v Izmišljotino ali Odklepanje ključavnic za srednjeveško ali fantazijsko okolje. Vaš igralni mojster se lahko odloči tudi, da nekatere veščine popolnoma odstrani, če ne ustrezajo njegovemu slogu igranja. Zelo priporočljivo je, da se vse takšne spremembe določijo pred ustvarjanjem lika in jasno opredelijo, da ne boste izbrali veščin, ki bi jih igralni mojster lahko izključil ali spremenil.
 
 > ### Bonusi kategorij veščin
 >
-> Kot je opisano v **Bonusi kategorij veščin**, vaš lik prejme bonus ali kazen za kategorije veščin glede na svoje rezultate karakteristik. Bonus kategorije uporabite za vsako veščino v tej kategoriji, poleg navedene osnovne možnosti, če obstaja, kot je navedeno v opisu veščine. Glejte **Tabelo bonusov kategorij veščin** za formule, uporabljene za izračun bonusov kategorij veščin.
+> Kot je opisano v **Bonusih kategorij veščin**, vaš lik prejme bonus ali kazen za kategorije veščin na podlagi svojih ocen karakteristik. Uporabite bonus kategorije za vsako veščino v tej kategoriji, poleg navedene osnovne možnosti, če obstaja, kot je navedeno v opisu veščine. Glejte **Tabelo bonusov kategorij veščin** za formule, ki se uporabljajo za izračun bonusov kategorij veščin.
 
 ## Osnovne možnosti
 
-Večina razumno zdravih in fizično pripravljenih ljudi lahko zamahne s kijem, spleza na drevo ali govori svoj materni jezik. Vsaka veščina ima zato povezano osnovno možnost: predpostavlja se, da ima vaš lik to osnovno stopnjo veščine, preden se dodajo kakršne koli dodatne točke veščin. Če se uporabljajo bonusi kategorij veščin (glejte **Bonusi kategorij veščin**), jih dodajte (ali odštejte) od osnovne možnosti vsake veščine.
+Večina razumno zdravih in fizično sposobnih ljudi lahko zamahne s kijem, spleza na drevo ali govori svoj materni jezik. Vsaka veščina ima torej z njo povezano osnovno možnost: predpostavlja se, da ima vaš lik to osnovno oceno veščine, preden se dodajo kakršne koli dodatne točke veščin. Če se uporabljajo bonusi kategorij veščin (glejte **Bonuse kategorij veščin**), jih dodajte (ali odštejte) od osnovne možnosti vsake veščine.
 
-Osnovna možnost veščine je močno odvisna od obdobja kampanje: liki v kampanji, postavljeni v srednjeveško Evropo, imajo višje osnovne ocene pri Znanju (religija) kot sodobni državljani ZDA, medtem ko imajo držani ZDA morda prednost pri veščinah medicine zaradi osnovnega usposabljanja prve pomoči v javnih šolah in na delovnem mestu. Vsak opis veščine navaja več osnovnih možnosti za različna obdobja, kot je primerno. Igralni mojster naj brez oklevanja spremeni osnovne možnosti za veščine, da ustrezajo različnim okoljem.
+Osnovna možnost veščine je močno odvisna od obdobja kampanje: liki v kampanji, postavljeni v srednjeveško Evropo, imajo višje osnovne ocene veščine Znanje (religija) kot sodobni državljani ZDA, medtem ko imajo državljani ZDA morda prednost pri veščinah Medicine zaradi osnovnega usposabljanja prve pomoči v javnih šolah in na delovnem mestu. Vsak opis veščine navaja več osnovnih možnosti za različna obdobja, kot je primerno. Igralni mojster naj se počuti svobodnega pri spreminjanju osnovnih možnosti za veščine, da ustrezajo različnim okoljem.
 
-> #### Igranje brez veščine
+> #### Delovanje brez veščine
 >
-> Včasih mora vaš lik poskusiti dejanje z uporabo veščine, za katero nima nobene stopnje (0 %). Če se igralni mojster strinja, da je uspeh pri nalogi mogoč, izvedite met z uporabo ene od teh možnosti:
+> Včasih mora vaš lik poskusiti dejanje z uporabo veščine brez kakršne koli ocene veščine (0 %). Če se igralni mojster strinja, da je uspeh pri nalogi mogoč, opravite met z uporabo ene od teh možnosti:
 >
-> * **Bonus kategorije veščin:** Če uporabljate neobvezen sistem kategorij veščin, uporabite modifikator kategorije veščin kot osnovno možnost. Surovi talent lahko včasih premaga pomanjkanje usposabljanja. Če je uspešen in se lahko veščina izboljša z izkušnjami, je treba opraviti preverjanje izkušenj.
+> * **Bonus kategorije veščin:** Če uporabljate neobvezen sistem kategorij veščin, uporabite modifikator kategorije veščin kot osnovno možnost. Surov talent lahko včasih premaga pomanjkanje usposabljanja. Če je uspešno in se veščino lahko izboljša z izkušnjami, je treba opraviti preverjanje izkušenj.
 >
-> * **Divja možnost:** Poskusite, vendar z le 1 % možnosti za uspeh ali zadnjim obupanim poskusom "Hail Mary" v višini POW×1, če je lahko faktor sreča, z odobritvijo igralnega mojstra. Za to ni dovoljeno preverjanje izkušenj, saj gre za slepo srečo v primerjavi s kakršno koli veščino ali naravnim talentom.
+> * **Divja možnost:** Poskusite, vendar le z 1-odstotno možnostjo uspeha ali zadnjo možnostjo "na srečo" ENE×1, če je lahko dejavnik slepa sreča, z odobritvijo igralnega mojstra. Za to ni dovoljeno preverjanje izkušenj, saj gre za slepo srečo v nasprotju s kakršno koli veščino ali naravnim talentom.
 
-### Merjenje stopenj veščin
+### Merjenje ocen veščin
 
-Stopnje veščin vašega lika določajo njegove zmožnosti med igro. Toda kaj pomeni določena stopnja veščine v bolj splošnem smislu? Uporabite naslednje smernice kot vodilo za usposobljenost. Pri določenih stopnjah veščin in v nekritičnih ali nedramatičnih okoliščinah met morda sploh ni potreben – v rutinskih pogojih lahko liki na določeni ravni usposobljenosti redno izvajajo te veščine, ne da bi morali metati za uspeh, čeprav *Samodejni* uspeh ni vreden preverjanja izkušenj.
+Ocene veščin vašega lika definirajo njegove zmožnosti med igro. Toda kaj pomeni določena ocena veščine v bolj splošnem smislu? Uporabite naslednje smernice kot vodilo za usposobljenost. Pri določenih stopnjah veščin in v nekritičnih ali nedramatičnih okoliščinah met morda sploh ni potreben—v rutinskih razmerah lahko liki določene stopnje usposobljenosti redno izvajajo te veščine, ne da bi morali metati za uspeh, čeprav *samodejni* uspeh ni vreden preverjanja izkušenj.
 
-##### Tabela stopenj veščin
+##### Tabela ocen veščin
 
-| Stopnja veščine | Usposobljenost | Opis |
+| Ocena veščine | Usposobljenost | Opis |
 | :---- | :---- | :---- |
-| 00–05 % | Novinec | Popoln amater z malo upanja na uspeh tudi pri lahkih nalogah. Metati bi morali vsakič, ko vaš lik poskusi to veščino, bodisi v stresni situaciji ali v idealnih okoliščinah. |
-| 06–25 % | Neofit | Bodisi začetnik bodisi z majhno količino znanja o zadevni temi. Kot pravijo, 've dovolj, da je nevaren'. Občasno uspe in je lahko zaradi tega preveč samozavesten. Metajte vsakič, ko vaš lik poskusi to veščino, tudi če je naloga lahka. |
-| 26–50 % | Amater | Malo talenta, nekaj usposabljanja ali ljubiteljsko ukvarjanje. Vaš lik je komaj kvalificiran, vendar mu lahko zaupate samodejne ali lahke naloge. V nestresnih situacijah lahko vaš lik izvaja rutinske dejavnosti z uporabo te veščine, ne da bi moral metati. |
-| 51–75 % | Profesionalec | Pri 51 % lahko vaš lik zanesljivo preživlja z uporabo te veščine. Običajno jim ni treba skrbeti za neuspeh pri lahkih nalogah in so dovolj izkušeni ali usposobljeni, da služijo kot vodja ali upravitelj drugih. 51 % je približno enako diplomirani stopnji na specifičnem področju. Večine veščin ni mogoče dvigniti nad 75 % samo z izobraževanjem ali usposabljanjem: vaš lik mora napredovati naprej s praktično uporabo. Vaš lik običajno lahko izvaja rutinske ali celo kompleksne dejavnosti, povezane z veščino, in metati morate le, kadar obstaja element tveganja ali kadar je možnost neuspeha dramatična. |
-| 76–90 % | Strokovnjak | Napredna strokovnost na danem področju: vaš lik ima razumno možnost za uspeh tudi pri težkih nalogah. Le predani profesionalci dosežejo takšno mojstrstvo določene veščine in tisti, ki ga dosežejo, so spoštovani in se nanje zanašajo zaradi njihove strokovnosti. Veščine v tem razponu ustrezajo napredni stopnji (magisterij ali doktorat) ali dolgoletnim izkušnjam. Večina povprečnih likov ne more začeti igre z nobeno veščino, višjo od 75 %. Vaš lik bi moral biti sposoben izvajati kompleksna in zahtevna dejanja, povezana s to veščino v rutinskih okoliščinah, ne da bi moral metati, ob predpostavki, da si vzame čas in ima na voljo ustrezne zmogljivosti in/ali opremo. |
-| 91 % ali več | Mojster | Le redki dosežejo to raven mojstrstva. Le najtežje naloge so onkraj njihovih sposobnosti in njihova strokovnost je te mojstre verjetno naredila slavne na njihovem področju in včasih po vsem svetu. V rutinskih situacijah lahko vaš lik izvaja skoraj čudeže in redko boste morali metati kocke, razen pri najtežjih nalogah ali v hudih okoliščinah. Če se v kampanji uporabljajo neobvezna pravila o Razumu, pridobitev 91 % stopnje veščine takoj obnovi 2D6 točk RAZ, kar predstavlja samozavest in disciplino, povezano z obvladovanjem veščine (to je enkratni bonus). Če vaš lik začne s to stopnjo veščine ali višjo, ni pridobitve RAZ. |
+| 00–05 % | Novinec | Popoln amater z malo upanja na uspeh celo pri lahkih nalogah. Metati bi morali vsakič, ko vaš lik poskusi to veščino, bodisi v stresni situaciji bodisi v idealnih okoliščinah. |
+| 06–25 % | Neofit | Bodisi začetnik bodisi nekdo z malo znanja o obravnavani temi. Kot pravijo: 'Ve dovolj, da je nevaren.' Občasno uspe in je lahko zaradi tega preveč samozavesten. Metajte vsakič, ko vaš lik poskusi to veščino, tudi če je naloga lahka. |
+| 26–50 % | Amater | Malo talenta, nekaj treninga ali hobijsko ukvarjanje. Vaš lik je komaj usposobljen, vendar mu lahko zaupate samodejne ali lahke naloge. V nestresnih situacijah lahko vaš lik izvaja rutinske dejavnosti z uporabo te veščine, ne da bi moral metati. |
+| 51–75 % | Profesionalec | Pri 51 % si lahko vaš lik zanesljivo služi kruh z uporabo veščine. Običajno jim ni treba skrbeti za neuspeh pri lahkih nalogah in so dovolj izkušeni ali usposobljeni, da služijo kot vodje ali upravitelji drugih. 51 % je približno enako diplomirani stopnji v določeni disciplini. Večine veščin ni mogoče dvigniti nad 75 % samo z izobraževanjem ali usposabljanjem: vaš lik mora napredovati z praktično uporabo. Vaš lik običajno lahko izvaja rutinske ali celo zapletene dejavnosti, povezane z veščino, in metati morate le, kadar obstaja element tveganja ali kadar je možnost neuspeha dramatična. |
+| 76–90 % | Strokovnjak | Napredna strokovnost na danem področju: vaš lik ima razumno možnost za uspeh celo pri težkih nalogah. Le predani profesionalci dosežejo takšno mojstrstvo dane veščine, tisti, ki ga, pa so spoštovani in se zanašajo na njihovo strokovnost. Veščine v tem razponu ustrezajo napredni stopnji (magisterij ali doktorat) ali dolgoletnim izkušnjam. Večina povprečnih likov ne more začeti igre z nobeno veščino, višjo od 75 %. Vaš lik bi moral biti sposoben izvajati zapletene in zahtevne akcije, povezane s to veščino v rutinskih okoliščinah brez metanja, ob predpostavki, da si vzame čas in ima na voljo ustrezne objekte in/ali opremo. |
+| 91 % ali več | Mojster | Le redki dosežejo to stopnjo mojstrstva. Le najtežje naloge so onkraj njihovih sposobnosti in njihova strokovnost je te mojstre verjetno naredila slavne na njihovem področju in včasih v svetu nasploh. V rutinskih situacijah lahko vaš lik izvaja skoraj čudeže in le redko boste morali metati kocke, razen pri najtežjih nalogah ali v grozljivih okoliščinah. Če se v kampanji uporabljajo neobvezna pravila za prisebnost, doseganje 91-odstotne ocene v veščini takoj obnovi 2D6 točk PRI, kar predstavlja samozavest in disciplino, povezano z obvladovanjem veščine (to je enkratni bonus). Če vaš lik začne s to oceno veščine ali višjo, ni pridobitve PRI. |
 
-### Stopnje veščin nad 100 %
+### Ocene veščin nad 100 %
 
-Izkušnja vašega lika omogoča dvig stopenj veščin nad 100 %. Veščine, višje od 100 %, uporabljajo standardne sisteme za izračun možnosti posebnih ali kritičnih uspehov, kot tudi ponujajo boljše možnosti za uspeh pri težkih nalogah ali ob negativnih okoliščinskih modifikatorjih. Poleg tega, če ima vaš lik bojno veščino, višjo od 100 %, lahko izvaja več napadov v bojem krogu, kot je opisano v **Napadi in obrambe nad 100 %**.
+Bonus izkušenj vašega lika omogoča dvig ocen veščin nad 100 %. Veščine nad 100 % uporabljajo standardne sisteme za izračun možnosti za posebne ali kritične uspehe, pa tudi ponujajo boljše možnosti za uspeh pri težkih nalogah ali ob negativnih okoliščinskih modifikatorjih. Poleg tega, če ima vaš lik bojno veščino, višjo od 100 %, lahko izvede več napadov v bojni rundi, kot je opisano v **Napadi in pariranja nad 100 %**.
 
 ### Seznam veščin po kategorijah
 
 Sledi popoln seznam veščin, razdeljen po kategorijah.
 
-| Bojne | Komunikacijske | Manipulacijske | Mentalne |
+| Bojevanje | Komunikacija | Manipulacija | Mentalne |
 | :---- | :---- | :---- | :---- |
-| Topništvo (razno) | Barantanje | Umetnost (razno) | Ocenjevanje |
-| Pretepanje | Poveljevanje | Rokodelstvo (razno) | Prva pomoč |
+| Topništvo (razno) | Barantanje | Umetnost (razno) | Ocena |
+| Pretepanje | Ukazovanje | Obrt (razno) | Prva pomoč |
 | Energijsko orožje (razno) | Preobleka | Rušenje | Igre na srečo |
 | Strelno orožje (razno) | Etiketa (razno) | Fina manipulacija | Znanje (razno) |
-| Grabljenje | Hitri govor | Težki stroj (razno) | Pismenost (neobvezno) |
+| Rokoborba | Hitro govorjenje | Težki stroji (razno) | Pismenost (neobvezno) |
 | Težko orožje (razno) | Jezik (razno) | Popravilo (razno) | Medicina |
-| Borilne veščine | Nastopanje | Pridne roke | Psihoterapija |
-| Bližinsko orožje (razno) | Prepričevanje | | Znanost (razno) |
-| Izstrelno orožje (razno) | Status | | Strategija |
-| Obramba (razno) | Poučevanje | | Tehnična veščina (razno) |
+| Borilne veščine | Nastopanje | Spretne roke | Psihoterapija |
+| Orožje za bližnji boj (razno) | Prepričevanje | | Znanost (razno) |
+| Orožje za metanje (razno) | Status | | Strategija |
+| Pariranje (razno) | Poučevanje | | Tehnična veščina (razno) |
 | Ščit | | | |
 
-| Zaznavne | Fizične | Fizične |
+| Zaznavanje | Fizične | Fizične |
 | :---- | :---- | :---- |
 | Vpogled | Plezanje | Projekcija |
 | Poslušanje | Izmikanje | Jahanje (razno) |
 | Navigacija | Vožnja (razno) | Prikradanje |
 | Raziskovanje | Letenje | Plavanje |
-| Občutek | Skrivanje | Metanje |
+| Zaznavanje | Skrivanje | Metanje |
 | Opazovanje | Skakanje | |
-| Sledenje | Pilotiranje (razno) | |
+| Sledenje | Pilotiranje (razno) | |### Abecedni seznam veščin
 
-### Abecedni seznam veščin
-
-Sledi abecedni seznam vseh veščin v tem razdelku. Vsak vnos navaja kategorijo veščine in njeno osnovno možnost.
+Sledi abecedni seznam vseh veščin v tem poglavju. Vsak vnos navaja kategorijo veščine in njeno osnovno možnost.
 
 | Veščina | Kategorija | Osnovno % |
-| :---- | :---- | :---- |
-| Ocenjevanje | Mentalne | 15 % |
-| Umetnost (razno) | Manipulacijske | 05 % |
-| Topništvo (razno) | Bojne | po specialnosti orožja |
-| Barantanje | Komunikacijske | 05 % |
-| Pretepanje | Bojne | 25 % |
-| Plezanje | Fizične | 40 % |
-| Poveljevanje | Komunikacijske | 05 % |
-| Rokodelstvo (razno) | Manipulacijske | 05 % |
-| Rušenje | Manipulacijske | 01 % |
-| Preobleka | Komunikacijske | 01 % |
-| Izmikanje | Fizične | DEX×2 |
-| Vožnja (razno) | Fizične | 20 % ali 01 % |
-| Energijsko orožje (razno) | Bojne | po specialnosti orožja |
-| Etiketa (razno) | Komunikacijske | 05 % |
-| Hitri govor | Komunikacijske | 05 % |
-| Fina manipulacija | Manipulacijske | 05 % |
-| Strelno orožje (razno) | Bojne | po specialnosti orožja |
-| Prva pomoč | Mentalne | 30 % |
-| Letenje | Fizične | DEXx4 ali 1/2 DEX |
-| Igre na srečo | Mentalne | INT+POW |
-| Grabljenje | Bojne | 25 % |
-| Težki stroj (razno) | Manipulacijske | 01 % |
-| Težko orožje (razno) | Bojne | po specialnosti orožja |
-| Skrivanje | Fizične | 10 % |
-| Vpogled | Zaznavne | 05 % |
-| Skakanje | Fizične | 25 % |
-| Znanje (razno) | Mentalne | 05 % ali 00 % |
-| Jezik (razno) | Komunikacijske | INT (ali EDU)×5 ali 00 % |
-| Poslušanje | Zaznavne | 25 % |
-| Pismenost (neobvezno) | Mentalne | 00 % ali enako jeziku |
-| Borilne veščine | Bojne | 01 % |
-| Medicina | Mentalne | 05 % |
-| Bližinsko orožje (razno) | Bojne | po specialnosti orožja |
-| Izstrelno orožje (razno) | Bojne | po specialnosti orožja |
-| Navigacija | Zaznavne | 10 % |
-| Obramba (razno) | Bojne | po specialnosti orožja |
-| Nastopanje | Komunikacijske | 05 % |
-| Prepričevanje | Komunikacijske | 15 % |
-| Pilotiranje (razno) | Fizične | 01 % |
-| Projekcija | Fizične | DEX×2 |
-| Psihoterapija | Mentalne | 01 % ali 00 % |
-| Popravilo (razno) | Manipulacijske | 15 % |
-| Raziskovanje | Zaznavne | 25 % |
-| Jahanje (razno) | Fizične | 05 % |
-| Znanost (razno) | Mentalne | 01 % |
-| Občutek | Zaznavne | 10 % |
-| Ščit | Bojne | po ščitu |
-| Pridne roke | Manipulacijske | 05 % |
-| Opazovanje | Zaznavne | 25 % |
-| Status | Komunikacijske | 15 % ali razno |
-| Prikradanje | Fizične | 10 % |
-| Strategija | Mentalne | 01 % |
-| Plavanje | Fizične | 25 % |
-| Poučevanje | Komunikacijske | 10 % |
-| Tehnična veščina (razno) | Mentalne | 05 % |
-| Metanje | Fizične | 25 % |
-| Sledenje | Zaznavne | 10 % |
+| :--- | :--- | :--- |
+| Cenitev (Appraise) | Mentalna | 15% |
+| Umetnost (razno) | Manipulacija | 05% |
+| Topništvo (razno) | Bojna | po specializaciji orožja |
+| Barantanje | Komunikacija | 05% |
+| Pretepanje | Bojna | 25% |
+| Plezanje | Fizična | 40% |
+| Poveljevanje | Komunikacija | 05% |
+| Rokodelstvo (razno) | Manipulacija | 05% |
+| Rušenje | Manipulacija | 01% |
+| Preobleka | Komunikacija | 01% |
+| Izmikanje | Fizična | SPR×2 |
+| Vožnja (razno) | Fizična | 20% ali 01% |
+| Energijsko orožje (razno) | Bojna | po specializaciji orožja |
+| Etiketa (razno) | Komunikacija | 05% |
+| Hitro govorjenje | Komunikacija | 05% |
+| Fina manipulacija | Manipulacija | 05% |
+| Strelno orožje (razno) | Bojna | po specializaciji orožja |
+| Prva pomoč | Mentalna | 30% |
+| Letenje | Fizična | SPR×4 ali 1/2 SPR |
+| Igre na srečo | Mentalna | INT+ENE |
+| Borba (Grapple) | Bojna | 25% |
+| Težki stroji (razno) | Manipulacija | 01% |
+| Težko orožje (razno) | Bojna | po specializaciji orožja |
+| Skrivanje | Fizična | 10% |
+| Vpogled | Zaznavanje | 05% |
+| Skakanje | Fizična | 25% |
+| Znanje (razno) | Mentalna | 05% ali 00% |
+| Jezik (razno) | Komunikacija | INT (ali EDU)×5 ali 00% |
+| Poslušanje | Zaznavanje | 25% |
+| Pismenost (izbirno) | Mentalna | 00% ali enako jeziku |
+| Borilne veščine | Bojna | 01% |
+| Medicina | Mentalna | 05% |
+| Orožje za bližnji boj (razno) | Bojna | po specializaciji orožja |
+| Orožje za metanje (razno) | Bojna | po specializaciji orožja |
+| Navigacija | Zaznavanje | 10% |
+| Pariranje (razno) | Bojna | po specializaciji orožja |
+| Nastopanje | Komunikacija | 05% |
+| Prepričevanje | Komunikacija | 15% |
+| Pilotiranje (razno) | Fizična | 01% |
+| Projiciranje | Fizična | SPR×2 |
+| Psihoterapija | Mentalna | 01% ali 00% |
+| Popravilo (razno) | Manipulacija | 15% |
+| Raziskovanje | Zaznavanje | 25% |
+| Jahanje (razno) | Fizična | 05% |
+| Znanost (razno) | Mentalna | 01% |
+| Zaznavanje (Sense) | Zaznavanje | 10% |
+| Ščit | Bojna | po ščitu |
+| Spretne roke | Manipulacija | 05% |
+| Opazovanje (Spot) | Zaznavanje | 25% |
+| Status | Komunikacija | 15% ali razno |
+| Prikritost | Fizična | 10% |
+| Strategija | Mentalna | 01% |
+| Plavanje | Fizična | 25% |
+| Poučevanje | Komunikacija | 10% |
+| Tehnična veščina (razno) | Mentalna | 05% |
+| Metanje | Fizična | 25% |
+| Sledenje | Zaznavanje | 10% |
 
-> ### Dodatki in dopolnilne veščine
->
-> Nekatere veščine so tesno povezane z drugimi in strokovnost na enem področju lahko koristi drugemu. Z dovoljenjem igralnega mojstra lahko vaš lik začasno doda 1/5 svoje stopnje v **dopolnilni veščini** k svoji stopnji v drugi veščini za mete na veščine. Številne dopolnilne uporabe so navedene v opisih veščin, ki sledijo. Vi in ostali igralci boste nedvomno zasnovali še več.
->
-> Pri pomoči pri katerem koli danem metu je lahko dopolnilna le ena veščina. Če je lahko uporabnih več veščin ali se uporabijo za poskus pridobitve tega bonusa, se koristi ne seštevajo – igralec in igralni mojster naj izbereta najvišji bonus za uporabo ali tistega, ki je najbolj primeren za zadevno situacijo.
->
-> Če je glavni met na veščino uspešen, vaš lik prejme preverjanje izkušenj samo za glavno veščino, ne za uporabljeno dopolnilno veščino.
->
-> Na primer: *vaš lik ima veščino Medicina 65 % in Znanost (farmacija) 40 %. Poskušata zdraviti obolelega pacienta. Dokler ima vaš lik na voljo zadostno količino medicinskega materiala in zdravil, lahko doda 8 % (1/5 njegove stopnje Znanost (farmacija)) k stopnji veščine Medicina, za modificirano stopnjo 73 %. Vaš lik ne more dodati 1/5 svoje veščine Prva pomoč ali Znanost (biologija) poleg bonusa farmacije. V tem primeru igralni mojster odloči, da je veščina Znanost (farmacija) najbolj primerna za bonus.*
->
-> **Dodatek (augment)** k veščini je podoben, vendar deluje na nekoliko drugačen način. Če vaš igralni mojster to dovoli, lahko poskusite z metom ene dopolnilne veščine, da podprete ali dodate k drugemu primarnemu metu na veščino.
->
-> * Če je met dopolnilne veščine uspešen, lahko prilagodite težavnost primarne veščine za eno stopnjo, na primer s spremembo *težkega* meta v *povprečnega* ali *povprečne* naloge v *lahko*.
->
-> * Tega ni mogoče storiti hkrati z bonusom dopolnilne veščine in mogoča je le ena stopnja prilagoditve.
->
-> * Če dodatek spodleti, se primarna veščina prilagodi za eno stopnjo v nasprotni smeri, na primer *normalna* veščina postane *težka* zaradi zmede ali nasprotujočih si informacij.
->
-> * Če ste uspešni z metom dopolnilne veščine, lahko preverite za izkušnje kot običajno, prav tako pri primarni veščini. Če primarni met spodleti, dopolnilna veščina ne prejme preverjanja izkušenj.
->
-> Ne morete hkrati dodati k veščini in uporabiti bonusa dopolnilne veščine za isti met na veščino.
+> ### Povečave (Augments) in dopolnilne veščine
+> 
+> Nekatere veščine so tesno povezane z drugimi in strokovnost na enem področju lahko koristi drugemu. Z dovoljenjem vašega vodje igre (gamemaster) lahko vaš lik začasno doda 1/5 svoje ocene v **dopolnilni veščini** k svoji oceni v drugi veščini pri metih za veščine. Številni primeri dopolnilne uporabe so navedeni v nadaljnjih opisih veščin. Vi in ostali igralci boste nedvomno odkrili še več možnosti.
+> 
+> Pri določenem metu lahko kot dopolnilno uporabite le eno veščino. Če je lahko uporabnih več veščin ali se jih uporablja za poskus pridobitve tega bonusa, se koristi ne seštevajo — igralec in vodja igre naj izbereta najvišji bonus ali tistega, ki je v dani situaciji najustreznejši.
+> 
+> Če je met za glavno veščino uspešen, vaš lik prejme preizkus izkušenj le za glavno veščino, ne pa za uporabljeno dopolnilno veščino.
+> 
+> Na primer, *vaš lik ima veščino Medicina 65% in Znanost (Farmacija) 40%. Poskuša zdraviti bolnega pacienta. Dokler ima vaš lik na voljo zadostno količino medicinskih pripomočkov in zdravil, lahko k svoji oceni veščine Medicina doda 8% (1/5 ocene za Znanost (Farmacija)), kar nanese skupaj 73%. Vaš lik ne more poleg bonusa za farmacijo dodati še 1/5 veščine Prva pomoč ali Znanost (Biologija). V tem primeru vodja igre odloči, da je za bonus najprimernejša veščina Znanost (Farmacija).*
+> 
+> **Povečava (augment)** veščine je podobna, vendar deluje nekoliko drugače. Če vodja igre to dovoli, lahko poskusite z metom za eno dopolnilno veščino podpreti ali povečati drug met za glavno veščino.
+> 
+> * Če je met za povečevalno veščino uspešen, lahko težavnost primarne veščine prilagodite za eno stopnjo, na primer *težaven* met spremenite v *povprečen* ali *povprečno* nalogo v *lahko*.
+> 
+> * Tega ni mogoče storiti hkrati z bonusom za dopolnilno veščino in mogoča je le prilagoditev za eno stopnjo.
+> 
+> * Če povečava ne uspe, se primarna veščina prilagodi za eno stopnjo v nasprotno smer, na primer *običajna* veščina postane *težavna* zaradi zmede ali nasprotujočih si informacij.
+> 
+> * Če je met za povečevalno veščino uspešen, ga lahko preverite za izkušnje kot običajno, prav tako pa tudi primarno veščino. Če primarni met ne uspe, povečevalna veščina ne prejme preizkusa izkušenj.
+> 
+> Pri istem metu za veščino ne morete hkrati uporabiti povečave veščine in bonusa za dopolnilno veščino.
 
 > ### Opisovanje rezultatov uspehov
->
-> Na splošno so rezultati metov na veščine očitni, če pa ste v dvomih, uporabite naslednje smernice pri določanju izidov:
->
-> * **Napak (fumble)** običajno pomeni, da je doseženo nasprotje želenega rezultata, kar zagotavlja zavajajoče informacije, ustvari nekakšen nazadovanje ali celo postavi lik v slabši položaj.
->
-> * **Neuspeh** pomeni, da želeni rezultat ni dosežen.
->
-> * Normalen **uspeh** pomeni, da je dosežen razumen in povprečen cilj. Igralni mojster je končni razsodnik rezultatov, vendar bi moral biti učinek očiten.
->
-> * **Poseben uspeh** ima dvojno učinkovitost običajnega uspeha in/ali zagotavlja dodatne informacije o zadevi.
->
-> * **Kritični uspeh** ima trojno učinkovitost običajnega uspeha in/ali zagotavlja precejšnje informacije o zadevi.
->
+> 
+> Rezultati metov za veščine so na splošno očitni, vendar v dvomih pri določanju izidov uporabite naslednje smernice:
+> 
+> * **Fumble** (napaka) običajno pomeni, da je dosežen nasprotni rezultat od želenega, kar zagotavlja zavajajoče informacije, ustvari nekakšen nazadovanje ali celo postavi lik v neugoden položaj.
+> 
+> * **Neuspeh** pomeni, da želenega rezultata niste dosegli.
+> 
+> * Običajen **uspeh** pomeni, da je bil dosežen razumen in povprečen cilj. Vodja igre je končni razsodnik rezultatov, vendar mora biti učinek očiten.
+> 
+> * **Poseben uspeh** ima dvakratno učinkovitost običajnega uspeha in/ali zagotavlja dodatne informacije o predmetu.
+> 
+> * **Kritični uspeh** ima trikratno učinkovitost običajnega uspeha in/ali zagotavlja znatne informacije o predmetu.
+> 
 > Kot je navedeno zgoraj, so veščine, kjer so izidi zelo specifični in kjer so potrebne podrobnosti, ohranile opredeljen rezultat.
 
 ## Opisi veščin
 
-Sledi izčrpen, abecedni seznam veščin. Vsak vnos vsebuje naslednje informacije:
+Sledi izčrpen abecedni seznam veščin. Vsak vnos vsebuje naslednje informacije:
 
 * **Ime veščine:** Ime veščine.
-* **Osnovna možnost:** Stopnja veščine, ki jo imajo vsi liki, specializirana po obdobju, če je primerno.
-* **Kategorija:** Kategorija veščine, v katero spada, za namene splošne klasifikacije in neobveznih bonusov kategorij.
-* **Opis:** Kratek opis vrst nalog, ki jih je mogoče opraviti z uporabo veščine.
-* **Specialnosti:** Seznam različnih specialnosti veščine, če obstajajo. Vse veščine s specialnostmi nimajo le-teh podrobno opisanih na seznamu – podrobno so opisane le tiste, ki so bolj mehanske narave, kot so bojne veščine.
-* **Učinki:** Rezultati meta na veščino, za vsako stopnjo uspeha, kjer je zahtevano. Na kratko, rezultat veščine je napak (najslabši možni rezultat, običajno met 99 ali 00), neuspeh (met nad stopnjo vaše veščine), uspeh (pod stopnjo vaše veščine), poseben uspeh (1/5 ali manj stopnje vaše veščine) ali kritični uspeh (1/20 stopnje vaše veščine). *Poglavje pet: Sistem* to podrobno pojasnjuje. Glejte tudi stransko vrstico Opisovanje rezultatov uspehov.
-* **Opombe k okolju:** Dodatne informacije o veščini v različnih okoljih. Če ta vnos ni prisoten, veščina deluje nespremenjeno v skoraj katerem koli okolju.
-* **Opombe k sistemu:** Ustrezna pravila ali sistemi, če obstajajo.
+* **Osnovna možnost:** Ocena veščine, ki jo imajo vsi liki, po potrebi specializirana glede na obdobje.
+* **Kategorija:** Kategorija veščine za namene splošne klasifikacije in izbirnih bonusov kategorij.
+* **Opis:** Kratek opis vrst nalog, ki jih je mogoče opraviti z veščino.
+* **Specializacije:** Seznam ločenih specializacij veščine, če obstajajo. Niso vse veščine s specializacijami podrobno opisane v seznamu s točkami – podrobno so opisane le tiste, ki so bolj mehanske narave, kot so bojne veščine.
+* **Učinki:** Rezultati meta za veščino za vsako stopnjo uspeha, kjer je to potrebno. Na kratko, rezultat veščine je napaka (fumble; najslabši možni rezultat, običajno met 99 ali 00), neuspeh (met nad vašo oceno veščine), uspeh (pod vašo oceno veščine), poseben uspeh (1/5 ali manj vaše ocene veščine) ali kritični uspeh (1/20 vaše ocene veščine). Peto poglavje: Sistem to podrobno pojasnjuje. Glejte tudi stransko vrstico Opisovanje rezultatov uspehov.
+* **Opombe o okolju:** Dodatne informacije o veščini v različnih okoljih. Če ta vnos ni prisoten, veščina v skoraj vseh okoljih deluje nespremenjeno.
+* **Sistemske opombe:** Ustrezna pravila ali sistemi, če obstajajo.
 
-### Ocenjevanje
+### Cenitev (Appraise)
 
-**Osnovna možnost:** 15 %
+**Osnovna možnost:** 15%
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino za oceno vrednosti predmeta, bodisi gre za staro sliko, dragulj, orožje ali jahalnega konja. Neuspeh pomeni, da nimajo pojma, medtem ko napak prinese napačne informacije. Poseben ali kritičen uspeh prinese dodatne informacije.
+Uporabite to veščino za oceno vrednosti predmeta, bodisi stare slike, dragulja, orožja ali jahalnega konja. Neuspeh pomeni, da nimajo pojma, medtem ko napaka (fumble) prinese napačne informacije. Poseben ali kritični uspeh prinese dodatne informacije.
 
 ### Umetnost (razno)
 
-**Osnovna možnost:** 05 %
+**Osnovna možnost:** 05%
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite to veščino za ustvarjanje umetniškega dela v barvah ali kiparstvu ali za sestavljanje zgodbe, pesmi ali glasbenega dela. Kritični ali poseben uspeh prinese brezčasno klasiko znatno večje vrednosti in ugleda, neuspeh je povprečno fušanje, napak pa lahko škoduje ustvarjalčevemu ugledu. Za igranje, ples, petje ali igranje glasbila uporabite Nastopanje.
+Uporabite to veščino za ustvarjanje umetniškega dela v slikarstvu ali kiparstvu oziroma za sestavljanje zgodbe, pesmi ali glasbenega dela. Kritični ali poseben uspeh prinese brezčasno klasiko znatno večje vrednosti in prestiža, neuspeh je medlo delo, napaka (fumble) pa lahko škoduje ustvarjalčevemu ugledu. Za igranje, ples, petje ali igranje na glasbeni instrument uporabite Nastopanje.
 
-**Specialnosti:** Kaligrafija, Skladanje, Konceptualna umetnost, Digitalna umetnost, Risanje, Slikanje, Fotografija, Poezija, Kiparstvo, Skiciranje, Pisanje pesmi, Pisanje itd.
+**Specializacije:** Kaligrafija, Skladateljstvo, Konceptualna umetnost, Digitalna umetnost, Risanje, Slikarstvo, Fotografija, Poezija, Kiparstvo, Skiciranje, Pisanje pesmi, Pisanje itd.
 
-**Opombe k okolju:** Umetnost je univerzalna, čeprav ima lahko specialnosti, specifične za obdobje ali okolje.
+**Opombe o okolju:** Umetnost je univerzalna, čeprav ima lahko specializacije, specifične za obdobje ali okolje.
 
 ### Topništvo (razno)
 
-**Osnovna možnost:** Po specialnosti orožja
+**Osnovna možnost:** Kot pri specializaciji orožja
 
-**Kategorija:** Bojne
+**Kategorija:** Bojna
 
-Uporabite to veščino za streljanje z masivnimi poljskimi topovi in težkim voznim orožjem, v bistvu s katerim koli orožjem, ki je preveliko, da bi ga ena oseba premaknila ali manevrirala, kot so top, trebušet ali balista.
+Uporabite to veščino za streljanje z masivnimi poljskimi kosi in težkim orožjem na vozilih, v bistvu s katerim koli orožjem, ki je preveliko, da bi ga ena oseba premikala ali z njim manevrirala, kot so top, katapult ali balista.
 
-**Specialnosti:** Specialnosti so enakovredne tipom. Glejte **Razredi orožja** v *Poglavju osem: Oprema* za tipe topništva.
+**Specializacije:** Specializacije so enakovredne tipom. Za tipe topništva glejte **Razredi orožja** v osmem poglavju: Oprema.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak izstrelnega orožja**.
+**Učinki:** Za posebne učinke glejte **Matriko napada in obrambe** ter **Tabelo napak pri orožju za metanje**.
 
-**Opombe k okolju:** Primerno za mnoga okolja, od oblegovalnih naprav do sodobnega ali futurističnega topništva in voznega orožja. V večini okolij je za učenje te veščine potrebno vojaško ozadje.
+**Opombe o okolju:** Primerno za številna okolja, od oblegovalnih strojev do sodobnega ali futurističnega topništva in orožja na vozilih. V večini okolij je za učenje te veščine potrebna vojaška izobrazba.
 
-**Opombe k sistemu:** Mnoga velika orožja zahtevajo posadko za delovanje; poskus uporabe enega samega je težko dejanje ali pa je lahko nemogoč. Za polnjenje in pripravo orožnega sistema med streli lahko traja več krogov ali celo obratov. Mnoga velika orožja uporabljajo avtomatski ogenj ali streljajo eksplozivno strelivo. Glejte **Avtomatski ogenj** in **Eksplozija**. Vsi streli gredo nekam; igralni mojster naj se odloči, kam udarijo zgrešeni eksplozivni ali energijski streli.
+**Sistemske opombe:** Za upravljanje številnih velikih orožij je potrebna posadka; poskus uporabe le-tega samega je *težavno* dejanje ali pa je lahko nemogoče. Med streli lahko traja več rund ali celo potez, da se orožni sistem napolni in pripravi. Številna velika orožja uporabljajo avtomatsko streljanje ali izstreljujejo eksplozivna sredstva. Glejte **Avtomatsko streljanje** in **Eksplozija**. Vsi streli gredo nekam; vodja igre naj odloči, kam udarijo zgrešeni eksplozivni ali energijski streli.
 
 ### Barantanje
 
-**Osnovna možnost:** 05 %
+**Osnovna možnost:** 05%
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino za barantanje o cenah in kadar koli se nasprotujoča si mnenja srečajo v pogajanjih in kompromisih. Uporabite nasprotujoče si mete na veščine za odločanje o pomembnih poslih in preproste mete na veščine za trivialne poskuse (npr. prihranek denarja pri opremi ali nastanitvi). Barantanje je kompromis: za reševanje argumentov, ki so absolutno dobljeni ali izgubljeni, uporabite Hitri govor ali Prepričevanje. Napak lahko pomeni spremembo trgovca v sovražnika, uspeh pomeni, da sklenete posel, boljši rezultati pa prinesejo višje popuste ali ugodnejše pogoje za vašo stran.
+Uporabite to veščino za barantanje o cenah in vedno, ko se nasprotujoča si mnenja srečajo pri pogajanjih in kompromisih. Za odločanje o pomembnih poslih uporabite nasprotne mete za veščine, za postranske poskuse (na primer varčevanje pri opremi ali prenočišču) pa preproste mete za veščine. Barantanje je kompromis: za reševanje prepirov, ki so absolutno dobljeni ali izgubljeni, uporabite Hitro govorjenje ali Prepričevanje. Napaka (fumble) lahko pomeni, da trgovca spremenite v sovražnika, uspeh pomeni, da sklenete posel, boljši rezultati pa prinesejo višje popuste ali ugodnejše pogoje za vašo stran.
 
 ### Pretepanje
 
-**Osnovna možnost:** 25 %
+**Osnovna možnost:** 25%
 
-**Kategorija:** Bojne
+**Kategorija:** Bojna
 
-Uporabite to veščino za nenaorožen boj: brce, udarce, udarce z glavo itd.
+Uporabite to veščino za neoborožen boj: brce, udarce, udarce z glavo itd.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak napada z naravnim orožjem in obrambe**.
+**Učinki:** Glejte **Matriko napada in obrambe** ter **Tabelo napak pri napadu in pariranju z naravnim orožjem**.
 
-**Opombe k sistemu:** Pretepanje se lahko uporablja za obrambo (glejte Obramba), vendar uspešna obramba povzroči minimalno škodo z orožjem na roki ali nogi, ki se brani, kot je primerno. Uporaba Pretepanja proti sovražniku, ki je zgrabil vaš lik (glejte Grabljenje), je lahka. Uporablja se v povezavi z Borilnimi veščinami in močmi Naravno orožje in Nenaorožen boj iz *Poglavja štiri: Moči*.
+**Sistemske opombe:** Pretepanje se lahko uporablja za pariranje (glej Pariranje), vendar uspešno pariranje povzroči minimalno škodo orožja na parirajoči roki ali nogi, kot je primerno. Uporaba pretepanja proti nasprotniku, ki je zgrabil vaš lik (glej Borba), je *lahka*. Uporablja se v povezavi z Borilnimi veščinami in močmi Naravno orožje ter Neoborožen boj iz četrtega poglavja: Moči.
 
 ### Plezanje
 
-**Osnovna možnost:** 40 %
+**Osnovna možnost:** 40%
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Uporabite to veščino za plezanje gor ali dol po stenah, drevesih, pečinah ali kateri koli drugi površini. Predpostavlja se, da so na voljo zadostni ročaji za roke in noge: spremenite težavnost glede na pogoje ali površino, po kateri plezate. Napak pomeni, da močno padete (glejte **Padanje**), neuspeh pomeni, da ste obtičali ali padli (izbira igralnega mojstra glede na okoliščine), vrhunski uspehi pa vam omogočijo hitrejše in dlje plezanje.
+Uporabite to veščino za plezanje navzgor ali navzdol po stenah, drevesih, pečinah ali kateri koli drugi površini. Predpostavlja se, da so na voljo zadostni oprijemki za roke in noge: težavnost prilagodite glede na pogoje ali površino, po kateri plezate. Napaka pri plezanju (fumble) pomeni, da močno padete (glej **Padanje**), neuspeh pomeni, da ste obtičali ali padli (izbira vodje igre, odvisno od okoliščin), boljši uspehi pa vam omogočajo, da plezate hitreje in dlje.
 
-**Opombe k sistemu:** Na splošno je plezanje pri 1/5 hitrosti MOV, živali z naravno sposobnostjo plezanja pa se lahko premikajo s svojo polno hitrostjo MOV. Plezanje po lestvah je samodejno. Zelo visoke lestve ali drevesa so lahka. Plezanje brez uporabe nog vašega lika je težko. Za dolgotrajna plezanja naj igralni mojster zahteva met na veščino enkrat na minuto ali 10 metrov plezanja. Vaš lik med plezanjem ne more izvajati nobenega drugega dejanja in vsa dejanja, izvedena med plezanjem, so težka, pri čemer vsak napak povzroči padec.
+**Sistemske opombe:** Na splošno plezanje poteka z 1/5 stopnje MOV, živali z naravno sposobnostjo plezanja pa se lahko premikajo s svojo polno stopnjo MOV. Plezanje po lestvah je samodejno. Zelo visoke lestve ali drevesa so *lahka*. Plezanje brez uporabe nog vašega lika je *težavno*. Pri dolgem plezanju naj vodja igre zahteva met za veščino enkrat na minuto ali na vsakih 10 metrov plezanja. Vaš lik med plezanjem ne more izvajati nobenega drugega dejanja in vsa dejanja, izvedena med plezanjem, so *težavna*, pri čemer vsaka napaka povzroči padec.
 
 ### Poveljevanje
 
-**Osnovna možnost:** 05 %
+**Osnovna možnost:** 05%
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino za navdihovanje, usmerjanje in usklajevanje podrejenih, vodenje skozi kompleksne naloge in izboljšanje učinkovitosti skupine. Vojaški častniki, plemiči, politiki in poslovni izvršitelji so ustvarjeni ali uničeni na podlagi svoje sposobnosti upravljanja in vodenja. Osebnost, močan glas in železna volja so neprecenljiva orodja poveljevanja. Napak spodbudi upor, neuspeh je nenavdihujoč in zmeden, uspeh pa vam omogoča, da dodate 1/5 svoje veščine Poveljevanje kot dopolnilni bonus k veščini vsem svojim podrejenim za vsak krog, ko jim poveljujete, dokler sledijo vašim ukazom. V boju mečite vsak krog ali v množičnem boju vsak obrat.
+Uporabite to veščino za navdihovanje, usmerjanje in usklajevanje podrejenih, vodenje skozi zapletene naloge in izboljšanje učinkovitosti skupine. Vojaški častniki, plemiči, politiki in poslovni vodje so ustvarjeni ali uničeni na podlagi svoje sposobnosti upravljanja in vodenja. Osebnost, močan glas in železna volja so neprecenljiva orodja poveljevanja. Napaka (fumble) spodbuja upor, neuspeh ni navdihujoč in zmeden, uspeh pa vam omogoča, da dodate 1/5 svoje veščine Poveljevanje kot bonus dopolnilne veščine vsem svojim podrejenim za vsako rundo, ko jim poveljujete, če sledijo vašim ukazom. Mečite vsako rundo v boju ali vsako potezo v množičnem boju.
 
-**Opombe k sistemu:** Uporablja se predvsem v boju, čeprav se lahko razširi na korporativna pogajanja itd. Topništvo, Težko orožje, Bližinsko orožje, Izstrelno orožje in Strategija so najbolj primerne veščine za prejemanje te ugodnosti.
+**Sistemske opombe:** Uporablja se predvsem v boju, čeprav se lahko razširi na korporativna pogajanja itd. Topništvo, Težko orožje, Orožje za bližnji boj, Orožje za metanje in Strategija so najprimernejše veščine za prejemanje te ugodnosti.
 
 ### Rokodelstvo (razno)
 
-**Osnovna možnost:** 05 %
+**Osnovna možnost:** 05%
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite to veščino za izdelavo ali ustvarjanje stvari, od stola do obroka ali hiše. Za to veščino so pogosto potrebna specializirana orodja, zahteva pa čas in surovine. To veščino lahko uporabite tudi za prepoznavanje, kako je bil predmet narejen, in po možnosti za prepoznavanje rokodelca, ki ga je izdelal. Napak uniči material in ne prinese nič uporabnega, uspeh pomeni, da deluje, boljša kakovost uspeha pa prinese lepšo, trdnejšo ali vrednejšo različico izdelane stvari, morda z dodatnimi lastnostmi, kot je +10 % ali +20 % k njeni učinkovitosti pri uporabi, višje zadetne točke itd. To se nanaša na funkcijo in praktičnost: oblikovanje predmetov izključno za estetske namene spada pod Umetnost.
+Uporabite to veščino za izdelavo ali izdelovanje stvari, od stola do obroka ali hiše. Za to veščino je pogosto potrebno specializirano orodje, zahteva pa čas in surovine. To veščino lahko uporabite tudi za identifikacijo, kako je bil predmet izdelan, in morda za identifikacijo obrtnika, ki ga je izdelal. Napaka (fumble) uniči material in ne prinese nič koristnega, uspeh pomeni, da stvar deluje, boljša kakovost uspeha pa prinese lepšo, trdnejšo ali vrednejšo različico izdelane stvari, morda z dodatnimi lastnostmi, kot je +10% ali +20% k njeni učinkovitosti pri uporabi, višje točke zadetkov itd. To se nanaša na funkcijo in praktičnost: oblikovanje predmetov izključno v estetske namene spada pod Umetnost.
 
-**Specialnosti:** Kovaštvo, Mizarstvo, Keramika, Kuhanje, Usnjarstvo, Ključavničarstvo, Metalurgija, Zidarstvo in druge, kot je primerno.
+**Specializacije:** Kovaštvo, Mizarstvo, Keramika, Kuhanje, Usnjarstvo, Ključavničarstvo, Metalurgija, Kamnoseštvo in druge, kot je primerno.
 
-**Opombe k sistemu:** Uporaba Rokodelstva brez ustreznih orodij je težka. Glejte *Poglavje osem: Oprema* za več informacij o izdelavi, spreminjanju ali popravilu opreme. Posest finega kosa oblačil ali opreme lahko celo poveča CHA, medtem ko se predmet nosi ali prikazuje.
+**Sistemske opombe:** Uporaba Rokodelstva brez ustreznega orodja je *težavna*. Za več informacij o izdelavi, spreminjanju ali popravljanju opreme glejte osmo poglavje: Oprema. Posedovanje finega kosa oblačil ali opreme lahko celo poveča KAR, medtem ko se predmet nosi ali prikazuje.
 
 ### Rušenje
 
-**Osnovna možnost:** 01 %
+**Osnovna možnost:** 01%
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite to veščino za shranjevanje, prevoz, nastavitev in detonacijo eksplozivov, od sodov smodnika do dinamita, Molotovk, naprednih plastičnih eksplozivov in bomb na antimaterijo. Vsakdo lahko preprosto sproži bombo: to je za doseganje specifičnega učinka z eksplozijo; varno zrušitev zgradbe, uničenje mostu ali razstrelitev vrat sefa, ne da bi škodovali vsebini. Rušenje pokriva tudi poznavanje ustreznih dodatkov za eksplozive, vključno z vžigalno vrvico, varovalkami in detonatorji. Za proizvodnjo eksplozivnih spojin uporabite Znanost (kemija) ali Tehnično veščino za izdelavo drugih eksplozivov. Napak vam razstreli stvari v obraz, neuspeh pomeni, da želeni učinek ni dosežen (zgrešen vžig ali neuspešnica), vrhunski uspehi pa prinesejo bolj impresivne rezultate, bodisi večjo škodo, manjšo stransko škodo, posebne učinke, kot je Knockback, dodatno območje učinka itd.
+Uporabite to veščino za shranjevanje, prevoz, nastavitev in detonacijo eksplozivov, od sodov smodnika do dinamita, molotovk, naprednih plastičnih eksplozivov in bomb na antimaterijo. Vsakdo lahko preprosto sproži bombo: to je za doseganje specifičnega učinka z eksplozijo; varno zrušiti zgradbo, uničiti most ali razstreliti vrata sefa, ne da bi poškodovali vsebino. Rušenje zajema tudi znanje o ustreznih dodatkih za eksplozive, vključno z vžigalnimi vrvicami, varovalkami in detonatorji. Za proizvodnjo eksplozivnih spojin uporabite Znanost (Kemija) ali za izdelavo drugih eksplozivov Tehnično veščino. Napaka (fumble) razstreli stvari v vaš obraz, neuspeh pomeni, da želeni učinek ni dosežen (zgrešen vžig ali odpoved), boljši uspehi pa prinesejo bolj impresivne rezultate, bodisi večjo škodo, manj kolateralne škode, posebne učinke, kot je Odbijanje (Knockback), dodatno območje učinka itd.
 
-**Opombe k sistemu:** S stopnjo veščine 60 %+ normalne uporabe te veščine samodejno uspejo. Nestabilni eksplozivi (poten dinamit) lahko zahtevajo Rušenje vsak krog, ko se z njimi rokuje ali uporabljajo. Rušenje masivne strukture (most, jez, bunker ali zgradba) je težko, razen če ima vaš lik dostop do načrtov ali planov cilja. Poskus uporabe te veščine brez ustreznih orodij (varovalke itd.) ali uporaba eksplozivov zunaj običajnega področja strokovnosti vašega lika je lahko težko ali celo nemogoče. Nekatere vrste eksplozivov, kot so granate, se lahko uporabljajo brez te veščine. Glejte *Poglavje osem: Oprema* za eksplozive in njihove učinke.
+**Sistemske opombe:** Z oceno veščine 60%+ običajna uporaba te veščine samodejno uspe. Nestabilni eksplozivi (potni dinamit) lahko zahtevajo met za Rušenje vsako rundo, ko se z njimi rokuje ali uporabljajo. Rušenje masivne strukture (most, jez, bunker ali zgradba) je *težavno*, razen če ima vaš lik dostop do načrtov ali tlorisov tarče. Poskus uporabe te veščine brez ustreznega orodja (varovalk itd.) ali uporaba eksplozivov zunaj običajnega področja strokovnosti vašega lika je lahko *težavno* ali celo nemogoče. Nekatere vrste eksplozivov, kot so granate, se lahko uporabljajo brez te veščine. Za eksplozive in njihove učinke glejte osmo poglavje: Oprema.
 
 ### Preobleka
 
-**Osnovna možnost:** 01 %
+**Osnovna možnost:** 01%
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino za uporabo drže, kostuma, glasu in drugih trikov, da se pojavite kot druga oseba ali druga vrsta osebe. Šibka svetloba, gledališka ličila in znatne obrazne spremembe (striženje ali lasulja, lažne brade ali hitro britje) lahko dodajo +20 % bonus, po presoji igralnega mojstra. Opazovalci, ki podrobno preiskujejo vašega preoblečenega lika ali se z njim zapletejo v pogovor, lahko opravijo nasprotujoči si preizkus veščine Opazovanje ali Vpogled proti metu za Preobleko vašega lika, da spregledajo prevaro. Vaš preoblečeni lik lahko uporabi svojo veščino Hitri govor za nasprotujoči si preizkus, če zaplete opazovalca v pogovor, s čimer ga odvrne od natančnega pregleda. Napak je očitno razkrit, neuspeh ne prevara nikogar, ki pogleda dvakrat, vrhunski uspehi pa lahko celo dodajo dopolnilni bonus k komunikacijskim metom proti tistim, ki jih prevarajo, ali otežijo zaznavanje.
+Uporabite to veščino za uporabo drže, kostuma, glasu in drugih trikov, da se pojavite kot druga oseba ali druga vrsta osebe. Temna svetloba, gledališka ličila in znatne obrazne spremembe (frizura ali lasulja, lažne brade ali hitro britje) lahko po presoji vodje igre dodajo +20% bonus. Opazovalci, ki natančno pregledajo vašega preoblečenega lika ali se z njim spustijo v pogovor, lahko opravijo nasprotni met za veščino Opazovanje ali Vpogled proti metu za veščino Preobleka vašega lika, da spregledajo pretvezo. Vaš preoblečeni lik lahko uporabi svojo veščino Hitro govorjenje za nasprotni met, če se spusti v pogovor z opazovalcem, kar ga odvrne od natančnega pregleda. Napaka (fumble) je očitna, neuspeh ne preslepi nikogar, ki pogleda dvakrat, boljši uspehi pa lahko celo dodajo dopolnilni bonus k metom za Komunikacijo proti tistim, ki jih zavajate, ali pa naredijo odkrivanje težje.
 
-**Opombe k sistemu:** Uporaba te veščine za imitacijo določene vrste osebe (vojak, policaj itd.) je normalno dejanje. Imitacija nekoga, ki je bistveno drugačen (druga vrsta, nekdo precej višji ali nižji, pripadnik nasprotnega spola) ali določene znane osebe (plemič, zvezdnik itd.) ali poskus preobleke brez ustreznih oblačil ali rekvizitov je težko. Igralni mojster lahko dodeli dodatne kazni za kulturne ali jezikovne ovire ali če velja več težkih pogojev. Preveč raztegnjena preobleka je lahko preprosto nemogoča.
+**Sistemske opombe:** Uporaba te veščine za posnemanje določene vrste osebe (vojak, policaj itd.) je *običajno* dejanje. Posnemanje nekoga, ki je bistveno drugačen (druga vrsta, nekdo veliko višji ali nižji, član nasprotnega spola) ali določene znane osebe (plemič, zvezdnik itd.) ali poskus preobleke brez ustreznih oblačil ali rekvizitov je *težavno*. Vodja igre lahko dodeli dodatne kazni za kulturne ali jezikovne ovire ali če velja več *težavnih* pogojev. Prevelik razpon je lahko preprosto nemogoč.
 
 ### Izmikanje
 
-**Osnovna možnost:** DEX×2
+**Osnovna možnost:** SPR×2
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Najboljša obramba v boju, kot ve vsak borec, je, da te ni tam. Izmikanje omogoča vašemu liku, da se izogne prihajajočim napadom, z uporabo gibčnosti, da se izogne ali zmanjša poškodbo.
+Najboljša obramba v boju, kot ve vsak borec, je, da te ni tam. Izmikanje vašemu liku omogoča, da se izogne prihajajočim napadom, pri čemer uporabi agilnost za izogibanje ali zmanjšanje poškodb.
 
-**Učinki:** Uspešen met za Izmikanje modificira rezultat uspešnega napada, kar ga spremeni v neuspeh. Poseben rezultat za met za Izmikanje modificira napad za dve stopnji (poseben uspeh postane neuspeh), kritični uspeh pri metu za Izmikanje pa modificira uspešen napad za tri stopnje (kritičen napad postane neuspeh). Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak pri napadu z naravnim orožjem in obrambi**. Uspešen met za Izmikanje ne more zmanjšati uspeha prihajajočega napada nižje od neuspeha.
+**Učinki:** Uspešen met za Izmikanje spremeni rezultat uspešnega napada in ga spremeni v neuspeh. Poseben rezultat za met za Izmikanje spremeni napad za dve stopnji (poseben uspeh postane neuspeh), kritični uspeh pri metu za Izmikanje pa spremeni uspešen napad za tri stopnje (kritičen napad postane neuspeh). Za posebne učinke glejte **Matriko napada in obrambe** ter **Tabelo napak pri napadu in pariranju z naravnim orožjem**. Uspešen met za Izmikanje ne more zmanjšati uspeha prihajajočega napada pod neuspeh.
 
-**Opombe k sistemu:** Kot je opisano v **Izmikanju** v *Poglavju šest: Boj*, lahko vaš lik v bojem krogu izvede Izmikanje ali Obrambo, vendar ne obeh. Če vaš lik napade veliko sovražnikov, lahko v krogu izvede več poskusov Izmikanja, vendar se vsak met po prvem izvede s kumulativno kaznijo –30 % na stopnjo veščine. Nekaterim izstrelnim napadom se je težko ali nemogoče izogniti (glejte Izmikanje izstrelnim orožjem).
+**Sistemske opombe:** Kot je opisano v razdelku **Izmikanje** v šestem poglavju: Boj, lahko vaš lik v bojni rundi izvede Izmikanje ali Pariranje, vendar ne obojega. Če vaš lik napade veliko nasprotnikov, lahko v rundi opravi več poskusov Izmikanja, vendar se vsak met po prvem opravi s kumulativno kaznijo –30% k oceni veščine. Nekaterim napadom z izstrelki se je *težavno* ali nemogoče izogniti (glej Izmikanje orožju za metanje).
 
 ### Vožnja (razno)
 
-**Osnovna možnost:** 20 % ali 01 % (glejte spodaj)
+**Osnovna možnost:** 20% ali 01% (glej spodaj)
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite Vožnjo za krmiljenje, manevriranje in nadzor kopenskega vozila, bodisi ga vlečejo živali bodisi ga poganja motor. Za običajna vozila je osnovna možnost 20 %, za neznana/nenavadna vozila pa 01 %. Napak pri normalni vožnji pomeni, da se vozilo morda ne bo zagnalo ali pa pride do trčenja ali nesreče. Uspeh pomeni, da vaš lik pride tja, kamor gre, ali je sposoben popraviti slabo stanje (kot je zdrs ali vrtenje), vrhunski uspehi pa pomenijo večjo razdaljo v manj časa, manj porabljenega goriva ali kakšno drugo ugodnost.
+Uporabite Vožnjo za krmiljenje, manevriranje in nadzor nad kopenskim vozilom, ne glede na to, ali ga vlečejo živali ali ga poganja motor. Za običajna vozila je osnovna možnost 20%, za neznana/nenavadna vozila pa 01%. Napaka (fumble) pri normalni vožnji pomeni, da vozilo morda ne bo vžgalo, ali trčenje oziroma nesrečo. Uspeh pomeni, da vaš lik pride tja, kamor je namenjen, ali je sposoben popraviti slabo stanje (kot je drsenje ali vrtenje), boljši uspehi pa pomenijo večjo prevoženo razdaljo v krajšem času, manjšo porabo goriva ali kakšno drugo korist.
 
-**Specialnosti:** Avtomobil, Kolo, Kočija, Voz, Bojni voz, Pasja vprega, Motorno kolo, Tovornjak, Sani itd.
+**Specializacije:** Avtomobil, Kolo, Kočija, Voz, Bojni voz, Pasja vprega, Motorno kolo, Tovornjak, Sani itd.
 
-**Opombe k okolju:** Osnovno možnost prilagodite glede na seznanjenost uporabnika, kadar je primerno, vendar v dvomih predpostavite, da veljajo osnovna načela.
+**Opombe o okolju:** Osnovno možnost prilagodite glede na seznanjenost uporabnika, kadar je to primerno, vendar v dvomih predpostavite, da veljajo osnovna načela.
 
-**Opombe k sistemu:** Večina vsakodnevne vožnje je samodejna naloga – met za Vožnjo samo v neugodnih pogojih ali za izjemno vožnjo (hitra vožnja skozi zasedeno središče mesta, lovljenje drugega vozila itd.). Za sledenje drugemu vozilu, ne da bi bili opaženi, uporabite nasprotujoči si preizkus Vožnje proti Opazovanju drugega voznika. Za reševanje avtomobilskih lovov glejte Lovljenja.
+**Sistemske opombe:** Večina vsakodnevne vožnje je *samodejno* opravilo – met za Vožnjo se opravi le v neugodnih pogojih ali za izredno vožnjo (hitra vožnja skozi zasedeno središče mesta, lovljenje drugega vozila itd.). Za sledenje drugemu vozilu, ne da bi bili opaženi, uporabite nasprotni met za Vožnjo proti metu za Opazovanje drugega voznika. Za reševanje lovljenja z vozili glejte Lovljenja.### Energijsko orožje (različno)
 
-### Energijsko orožje (razno)
+**Osnovna možnost:** Kot je določeno v specialnosti orožja
 
-**Osnovna možnost:** Po specialnosti orožja
+**Kategorija:** Boj
 
-**Kategorija:** Bojne
+Uporabite to za streljanje s katero koli vrsto ročnega usmerjenega energijskega orožja ali orožja z žarkom (laserji, blasterji, razbijalci itd.).
 
-Uporabite to za streljanje s katero koli vrsto ročnega usmerjenega energijskega ali žarkovnega orožja (laserji, blasterji, motilci itd.).
+**Specialnosti:** Energijska pištola, energijska puška itd. Specialnosti so enakovredne vrstam. Glejte **Razrede orožja** v osmem poglavju: Oprema za vrste strelnega orožja.
 
-**Specialnosti:** Energijska pištola, Energijska puška itd. Specialnosti so enakovredne tipom. Glejte **Razredi orožja** v *Poglavju osem: Oprema* za tipe strelnega orožja.
+**Učinki:** Za določene učinke glejte **Matriko napada in obrambe** ter **Tabelo nerodnosti pri strelnem orožju**. Energijsko orožje običajno prebode.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak izstrelnega orožja**. Energijsko orožje običajno prebode.
+**Opombe o okolju:** Energijsko orožje se običajno pojavi le v futurističnih okoljih. Vsakdo iz kulture, ki ga ne pozna, mora opraviti težak met na INT, da ugotovi, kako ga uporabiti, in morda šele potem, ko ga je videl v uporabi. Neuspehi ali nerodnosti so lahko katastrofalni za orožje ali uporabnika! Za učenje te veščine bo morda potrebna vojaška izobrazba.
 
-**Opombe k okolju:** Energijsko orožje se običajno pojavi le v futurističnih okoljih. Kdor koli iz kulture brez njih mora opraviti težak met za Idejo, da ugotovi, kako uporabiti enega, in morda šele potem, ko ga vidi v uporabi. Neuspehi ali napake so lahko katastrofalni, za orožje ali uporabnika! Za učenje te veščine je morda potrebno vojaško ozadje.
+**Sistemske opombe:** Nekatera energijska orožja imajo minimalno zahtevo po MOČ in SPR za uporabo orožja, kot je določeno v tabelah orožja v osmem poglavju: Oprema. Energijsko orožje ne uporablja modifikatorjev poškodb, vendar se lahko uporablja za merjene napade. Temu se ni mogoče izogniti z uhajanjem, čeprav lahko gibanje in orientacija tarče naložita kazni pri strelu, kot je opisano v Uhajanju pred projektili. Blokiranje energijskih strelov z veščino Ščit je težko.
 
-**Opombe k sistemu:** Nekatero energijsko orožje ima minimalno zahtevo STR in DEX za uporabo orožja, kot je navedeno v tabelah orožja v *Poglavju osem: Oprema*. Energijsko orožje ne uporablja modifikatorjev škode, vendar se lahko uporablja za namerjene napade. Tem se ni mogoče izogniti, čeprav lahko gibanje in usmerjenost tarče vneseta kazni na strel, kot je opisano v Izmikanju izstrelnim orožjem. Blokiranje energijskih strelov z veščino Ščit je težko.
-
-### Etiketa (razno)
+### Bonton (različno)
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Večina kultur, kast ali skupin ima družbena pravila in kodekse vedenja. Ustrezna oblačila, načini govora, specifična vedenja, govorica telesa ali celo sodni boji lahko igrajo vlogo pri etiketi skupine. Uporabite to veščino, kadar mora vaš lik ravnati primerno, bodisi ob udeležbi na viktorijanski večerji, pomembnem razgovoru za službo ali pridružitvi organizirani kriminalni združbi. Meti za Etiketo lahko pridobijo avdienco pri pomembnem neigralskem liku ali navdušijo druge s svojim poznavanjem njihovih družbenih običajev. Napak predstavlja katastrofalno družbeno napako, neuspeh ne navduši, uspeh ali bolje pa prinese vrhunske rezultate in izboljša sprejem.
+Večina kultur, kast ali skupin ima družbena pravila in vedenjske kodekse. Ustrezna oblačila, načini govora, določeno vedenje, govorica telesa ali celo preizkušnje z bojem so lahko del bontona skupine. To veščino uporabite vedno, ko se mora vaš lik vesti primerno, bodisi na viktorijanski večerji, pomembnem razgovoru za službo ali pri pridružitvi kriminalni združbi. Meti na Bonton lahko prinesejo avdienco pri pomembnem neigralskem liku ali navdušijo druge z vašim poznavanjem njihovih družbenih norm. Nerodnost predstavlja katastrofalen spodrsljaj, neuspeh ne navduši, uspeh ali bolje pa prinese vrhunske rezultate in izboljša vaš sprejem.
 
-**Specialnost:** Po skupini. Če se želite naučiti manir druge skupine, se naučite druge veščine Etiketa s to specialnostjo.
+**Specialnost:** Po skupini. Če se želite naučiti manir druge skupine, se naučite drugo veščino Bonton s to specialnostjo.
 
-**Opombe k sistemu:** Igralni mojster naj zahteva mete za Etiketo le v pomembnih okoliščinah: na primer pri prvem stiku s pomembno skupino, pomembni priložnosti ali pri poskusu napredovanja statusa znotraj skupine.
+**Sistemske opombe:** Vodja igre naj zahteva mete na Bonton le v pomembnih okoliščinah: na primer ob prvem srečanju s pomembno skupino, ob pomembni priložnosti ali pri poskusu napredovanja v statusu znotraj skupine.
 
 ### Hitri govor
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Najljubše orožje prodajalcev, vohunov ali prevarantov, uporabite to veščino, da tarčo hitro prepričate o nečem, čemur morda ne verjame, ali da jo prepričate, da se hitro odloči proti svoji boljši presoji. Uporabite to za blefiranje mimo vratarja ali hitro prodajo. Hitri govor je hiter za uporabo in običajno začasen: čez nekaj minut in po uspešnem metu za Idejo se lahko tarča strezni. Za resnično spremembo mnenja nekoga uporabite veščini Barantanje ali Prepričevanje. Napak običajno izzove sovražnost, neuspeh vas ne pripelje nikamor, uspeh ali bolje pa ima izboljšano učinkovitost ali celo trajno prepriča nekoga o vašem položaju.
+Prednostno orožje prodajalcev, vohunov ali goljufov; to veščino uporabite, da tarčo hitro prepričate o nečem, v kar morda ne verjame, ali da jo prepričate v hitro odločitev proti njeni boljši presoji. Uporabite to za blefiranje mimo vratarja ali za hitro sklenitev težkega posla. Hitri govor se uporablja hitro in je običajno začasen: nekaj minut in uspešen met na INT kasneje se lahko tarča strezni. Če želite nekoga resnično premisliti, uporabite veščini Barantanje ali Prepričevanje. Nerodnost običajno izzove sovražnost, neuspeh vas ne pripelje nikamor, uspeh ali bolje pa poveča učinkovitost ali celo nekoga trajno prepriča o vašem stališču.
 
-**Opombe k sistemu:** Dobro igranje vlog in/ali učinkovit argument lahko naredita poskus Hitrega govora lahek, prav tako kot slabo igranje vlog in/ali šibek argument lahko naredita težkega. Poskus Hitrega govora tarče po tem, ko prvi poskus Barantanja, Hitrega govora ali Prepričevanja spodleti, je težak.
+**Sistemske opombe:** Dobro igranje vlog in/ali učinkovit argument lahko naredita poskus Hitrega govora lahek, tako kot slabo igranje vlog in/ali šibek argument naredita poskus težak. Poskus Hitrega govora na tarči po tem, ko prvi poskus Barantanja, Hitrega govora ali Prepričevanja ne uspe, je težak.
 
 ### Fina manipulacija
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Merilo mirnosti in koordinacije rok in oči, ta veščina pokriva vsako skrbno uporabo rok in prstov. Uporabite jo pri odklepanju ključavnic, odstranjevanju pasti, vezanju ali razvezovanju vozlov in razstavljanju mehanskih naprav. Napak zamoči stvari, morda zlomi ali zagozdi predmet, s katerim se manipulira. Vrhunski uspehi zahtevajo manj časa, olajšajo v prihodnje, ne kažejo znakov nedovoljenega poseganja ali kakšno drugo podobno ugodnost.
+Kot merilo stabilnosti in koordinacije rok in oči ta veščina zajema vsako previdno uporabo rok in prstov. Uporabite jo pri odklepanju ključavnic, razoroževanju pasti, vezanju ali razvezovanju vozlov in razstavljanju mehanskih naprav. Nerodnost pokvari stvari, morda zlomi ali zagozdi predmet, s katerim manipulirate. Vrhunski uspehi zahtevajo manj časa, olajšajo delo v prihodnosti, ne kažejo znakov nedovoljenega posega ali prinesejo kakšno drugo podobno korist.
 
-**Opombe k sistemu:** Uporaba te veščine brez ustreznih orodij, kjer so potrebna, je težka.
+**Sistemske opombe:** Uporaba te veščine brez ustreznega orodja, kjer je to potrebno, je težka.
 
-### Strelno orožje (razno)
+### Strelno orožje (različno)
 
-**Osnovna možnost:** Po specialnosti orožja
+**Osnovna možnost:** Kot je določeno v specialnosti orožja
 
-**Kategorija:** Bojne
+**Kategorija:** Boj
 
-Ta veščina meri natančnost s strelnim orožjem in zagotavlja seznanjenost z ravnanjem, vzdrževanjem in osnovnimi popravili.
+Ta veščina meri natančnost s strelnim orožjem in zagotavlja poznavanje ravnanja, vzdrževanja in osnovnih popravil.
 
-**Specialnosti:** Strojnica, Pištola, Revolver, Puška, Šibrenica, Avtomatska puška. Specialnosti so enakovredne tipom. Glejte **Razredi orožja** v *Poglavju osem: Oprema* za tipe strelnega orožja.
+**Specialnosti:** Strojnica, pištola, revolver, puška, šibrenica, brzostrelka. Specialnosti so enakovredne vrstam. Glejte **Razrede orožja** v osmem poglavju: Oprema za vrste strelnega orožja.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak izstrelnega orožja**. Strelno orožje običajno prebode (glejte *Poglavje osem: Oprema* za podrobnosti).
+**Učinki:** Za določene učinke glejte **Matriko napada in obrambe** ter **Tabelo nerodnosti pri strelnem orožju**. Strelno orožje običajno prebode (podrobnosti glejte v osmem poglavju: Oprema).
 
-**Opombe k okolju:** Vsak lik, ki ni seznanjen s strelnim orožjem, mora opraviti težak met za Idejo, da ugotovi, kako uporabiti enega, če ga ni videl v uporabi. Neuspehi ali napake so lahko katastrofalni, za orožje ali uporabnika!
+**Opombe o okolju:** Vsak lik, ki ne pozna strelnega orožja, mora opraviti težak met na INT, da ugotovi, kako ga uporabiti, če ga še ni videl v uporabi. Neuspehi ali nerodnosti so lahko katastrofalni za orožje ali uporabnika!
 
-**Opombe k sistemu:** Nekatero strelno orožje ima minimalno zahtevo STR in DEX, kot je navedeno v tabelah orožja v *Poglavju osem: Oprema*. Strelno orožje ne uporablja modifikatorjev škode in se lahko uporablja za namerjene napade.
+**Sistemske opombe:** Nekatero strelno orožje ima minimalno zahtevo po MOČ in SPR, kot je določeno v tabelah orožja v osmem poglavju: Oprema. Strelno orožje ne uporablja modifikatorjev poškodb in se lahko uporablja za merjene napade.
 
 ### Prva pomoč
 
 **Osnovna možnost:** 30 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino za zaustavitev krvavitve, povijanje ran in zdravljenje manjših opeklin, nastavitev zlomljenega uda, oživljanje nekoga, ki se utaplja, ali oživljanje nezavestne osebe. Razširi se na triažo in osnovno medicinsko oskrbo, vendar nima nobenega učinka na strupe, bolezni ali subtilne fizične bolezni: te je treba zdraviti z veščino Medicina, čeprav lahko vaš igralni mojster dovoli težak met za nujno zdravljenje strupa ali bolezni. Prva pomoč vzame cel bojni krog in je običajno ni mogoče izvajati med bojem. Če je prekinjena, je treba poskus ponovno začeti.
+To veščino uporabite za zaustavitev krvavitve, obvezovanje ran in zdravljenje manjših opeklin, naravnavanje zlomljenega uda, oživljanje utopljenca ali prebujanje nezavestne osebe. Razširi se na triažo in osnovno medicinsko oskrbo, vendar ima majhen učinek na strupe, bolezni ali subtilne fizične tegobe: te je treba zdraviti z veščino Medicina, čeprav lahko vaš vodja igre dovoli težak met za nujno zdravljenje strupa ali bolezni. Prva pomoč vzame celoten bojni krog in se običajno ne more izvajati med bojem. Če je prekinjena, je treba poskus začeti znova.
 
-**Učinki:** Prva pomoč ima specifične učinke:
+**Učinki:** Prva pomoč ima določene učinke:
 
-* **Napak:** Pacient prejme 1 splošno zadetno točko škode in njegovo stanje ostane nespremenjeno.
-* **Neuspeh:** Brez učinka in ni mogoče izvesti nadaljnjih poskusov Prve pomoči.
-* **Uspeh:** Eden od naslednjih (izbira igralca):
-  * Zaceli 1D3 zadetnih točk na eno rano ali poškodbo.
-  * Lik z 0 ali negativnimi zadetnimi točkami v tem ali prejšnjem krogu se lahko obudi v življenje, če se njegova skupna zadetna točka dvigne na 1+.
-  * Obujanje nezavestnega lika.
-  * Zaustavitev krvaveče škode zaradi krvavečega posebnega uspeha ali katere koli druge trenutne škode na zadetnem mestu (glejte **Zadetne točke na zadetno mesto**).
-* **Poseben:** Kot zgoraj, vendar celi 2D3 zadetne točke.
-* **Kritičen:** Kot zgoraj, vendar celi 3+1D3 zadetne točke.
+* **Nerodnost:** Bolnik prejme 1 splošno točko poškodbe in njegovo stanje ostane nespremenjeno.
+* **Neuspeh:** Brez učinka in nadaljnji poskusi Prve pomoči niso možni.
+* **Uspeh:** Ena od naslednjih možnosti (izbira igralca):
+  * Zacelite 1D3 točk poškodb na eni rani ali poškodbi.
+  * Lik z 0 ali negativnimi točkami poškodb v tem ali prejšnjem krogu se lahko obudi v življenje, če se njegovo število točk poškodb dvigne na 1+.
+  * Prebujanje nezavestnega lika.
+  * Zaustavitev škode zaradi krvavitve zaradi posebnega uspeha pri krvavitvi ali katere koli druge trajne škode na lokaciji zadetka (glejte **Točke poškodb na lokacijo zadetka**).
+* **Posebno:** Kot zgoraj, vendar zacelite 2D3 točk poškodb.
+* **Kritično:** Kot zgoraj, vendar zacelite 3+1D3 točk poškodb.
 
-**Opombe k sistemu:** Spremljajte posamezne poškodbe, saj se Prva pomoč lahko uporabi na vsaki poškodbi, kar potencialno zaceli do zneska zadetnih točk, ki jih je poškodba povzročila. Na rano se lahko izvede le en poskus. Nevarne ali nehigienske razmere lahko naredijo mete težke. Vaš lik lahko doda 1/2 svoje stopnje veščine Medicina in 1/5 svoje stopnje veščine Znanost (farmacija) kot začasni bonus k metom za Prvo pomoč. Sodobna medicinska oprema (proti bolečinam, povoji ali zdravila) lahko doda do +20 % bonus k stopnjam veščin, medtem ko futuristična medicinska tehnologija (umetna razpršilna koža, medicinski skenerji, nanotehnični zdravilci) lahko naredi vse mete Prve pomoči lahke.
+**Sistemske opombe:** Beležite posamezne poškodbe, saj se Prva pomoč lahko uporabi na vsaki poškodbi, kar potencialno zaceli do zneska točk poškodb, ki jih je poškodba povzročila. Na rano se lahko opravi le en poskus. Nevarne ali nehigienske razmere lahko naredijo mete težke. Vaš lik lahko doda 1/2 svoje ocene veščine Medicina in 1/5 svoje ocene veščine Znanost (Farmacija) kot začasni bonus k metom za Prvo pomoč. Sodobna medicinska oprema (protibolečinska sredstva, povoji ali zdravila) lahko doda do +20 % bonusa k ocenam veščin, medtem ko lahko futuristična medicinska tehnologija (umetna koža v spreju, medicinski skenerji, nanotehnološki zdravilci) naredi vse mete za Prvo pomoč lahke.
 
 ### Letenje
 
-**Osnovna možnost:** DEX×4 ali 1/2 DEX (glejte spodaj)
+**Osnovna možnost:** SPR×4 ali 1/2 SPR (glejte spodaj)
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Za bitja s krili, ustrezno opremo (antigravitacijski pas, raketni škornji itd.) ali leteče moči uporabite to veščino za manevriranje v zraku brez vozila. Uporabite Letenje za izvajanje zračnih manevrov ali akrobacij, ne da bi izgubili nadzor, prehiteli sovražnika v zračnem boju ali leteli v slabih vremenskih razmerah. Osnovna možnost je DEX×4 za krilata bitja; 1/2 DEX za vse ostale. Za reaktivne nahrbtnike, zmaje itd. uporabite veščino Pilotiranje. Glejte **Zračni boj** in **Lovljenja** za več informacij.
+Za bitja s krili, ustrezno opremo (antigravitacijski pas, raketni škornji itd.) ali letalske moči uporabite to veščino za manevriranje v zraku brez vozila. Uporabite Letenje za izvajanje letalskih manevrov ali akrobacij brez izgube nadzora, za manevriranje nasprotnika v letalskem boju ali za letenje v slabih vremenskih razmerah. Osnovna možnost je SPR×4 za krilata bitja; 1/2 SPR za vse ostale. Za reaktivne nahrbtnike, zmaje itd. uporabite veščino Pilotiranje. Za več informacij glejte **Letalski boj** in **Zasledovanja**.
 
-**Učinki:** Letenje ima specifične učinke:
+**Učinki:** Letenje ima določene učinke:
 
-* **Napak:** Zastoj in morda celo padec. Krilati liki morajo opraviti uspešen met za Vzdržljivost ali utrpeti 1D3–1 točk škode zaradi zvina ali nategnjenja. Naprava zastane ali odpove in ne more obdržati vašega lika v zraku. Letalec pade en krog na nadmorsko stopnjo nad tlemi. Opravite težak met za Letenje, da ostanete v zraku – neuspeh pomeni strmoglavljenje (glejte **Padanje**).
-* **Neuspeh:** Izven smeri ali padec na nezaželeno višino. Ne gre nikamor.
-* **Uspeh:** Dokonča želeni manever ali drži položaj v lovu.
-* **Poseben:** Dokonča želeni manever in pridobi +10 % bonus k naslednjemu metu za Izmikanje, Letenje ali napad v zračnem boju.
-* **Kritičen:** Dokonča želeni manever in pridobi bonus +25 % k naslednjemu metu za Izmikanje, Letenje ali napad v zračnem boju.
+* **Nerodnost:** Zaustavitev in morda celo padec. Krilati liki morajo opraviti uspešen met na VZD ali utrpijo 1D3–1 točk škode zaradi zvina ali nategnjenja. Naprava se zaustavi ali odpove in ne more obdržati vašega lika v zraku. Letalec pade en krog na raven nadmorske višine nad tlemi. Opravite težak met na Letenje, da ostanete v zraku – neuspeh pomeni strmoglavljenje (glejte **Padanje**).
+* **Neuspeh:** Izven smeri ali spust na nezaželeno višino. Ne premakne se nikamor.
+* **Uspeh:** Dokonča želeni manever ali obdrži položaj v zasledovanju.
+* **Posebno:** Dokonča želeni manever in pridobi bonus +10 % k naslednjemu metu za Uhajanje, Letenje ali napad, opravljenemu v letalskem boju.
+* **Kritično:** Dokonča želeni manever in pridobi bonus +25 % k naslednjemu metu za Uhajanje, Letenje ali napad, opravljenemu v letalskem boju.
 
-**Opombe k sistemu:** Kratki, brez dogodkov polni leti v normalnih ali zmernih pogojih so samodejni. Glejte **Vremenski pogoji** za modifikatorje za letenje. Mesti za Vzdržljivost so potrebni za dolge lete, pri čemer se multiplikator karakteristike zmanjša za enega na vsake štiri ure ali del le-teh, preživetih v zraku. Normalno letenje ne porablja točk utrujenosti, medtem ko je manevriranje ali stresno letenje naporna dejavnost. Letenje med nošenjem oklepa ali težke opreme povzroči kazen, enako trenutni skupni ENC vašega lika (glejte **Obremenjenost**). Leteči lik, ki nosi težak predmet, mora uskladiti svojo STR s SIZ prenašanega predmeta na tabeli odpornosti, da ostane v zraku.
+**Sistemske opombe:** Kratki, mirni leti v normalnih ali zmernih razmerah so samodejni. Za modifikatorje letenja glejte **Vremenske razmere**. Za lete na dolge razdalje so potrebni meti na VZD, pri čemer se multiplikator značilnosti zmanjša za ena vsake štiri ure ali del le-teh, preživetih v zraku. Normalno letenje ne porablja točk utrujenosti, medtem ko je manevriranje ali stresno letenje naporna dejavnost. Letenje z nošenjem oklepa ali težke opreme povzroči kazen, enako trenutni skupni VRE vašega lika (glejte **Obremenitev**). Leteči lik, ki nosi težak predmet, mora na tabeli odpornosti primerjati svojo MOČ z VEL nošenega predmeta, da ostane v zraku.
 
-### Igre na srečo
+### Igranje iger
 
-**Osnovna možnost:** INT+POW%
+**Osnovna možnost:** INT+ENE%
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino med igranjem iger, od šaha ali backgammona do stavnih tekmovanj, ki vključujejo karte, kocke ali druge naključne ali strateške elemente. Hazarderji si z to veščino služijo preživetje, večini drugih pa je le vir zabave. Napak vas izprazni in vas potencialno zadolži, neuspeh pomeni, da izgubite krog, uspeh prinese manjšo zmago, vrhunski uspehi pa prinesejo večje ugodnosti in morda celo izboljšajo status.
+Uporabite to veščino med igranjem iger, od šaha ali backgammona do iger na srečo, ki vključujejo karte, kocke ali druge naključne ali strateške elemente. Kockarji si služijo kruh s to veščino, za večino drugih pa je le vir zabave. Nerodnost vas izčisti in potencialno zadolži, neuspeh pomeni, da izgubite krog, uspeh prinese manjšo zmago, vrhunski uspehi pa prinesejo večje koristi in morda celo izboljšajo status.
 
-**Opombe k sistemu:** Uporabite to za reševanje iger, kjer veščina in strategija igrata del, pri čemer drugi igralci opravijo nasprotujoči si met. Za goljufanje uporabite Pridne roke ali Hitri govor, nasprotujoče opazovanju ali Vpogledu. Popolnoma naključni izidi uporabljajo mete za Srečo.
+**Sistemske opombe:** Uporabite to za reševanje iger, kjer imata veščina in strategija svojo vlogo, pri čemer drugi igralci opravijo nasprotni met. Za goljufanje uporabite Spretne roke ali Hitri govor, ki sta nasprotna Opazovanju ali Uvidu. Popolnoma naključni rezultati uporabljajo mete na Srečo.
 
-### Grabljenje
+### Oprijem
 
 **Osnovna možnost:** 25 %
 
-**Kategorija:** Bojne
+**Kategorija:** Boj
 
-Uporabite to veščino za rokoborbo ali kateri koli boj, kjer je cilj obvladati tarčo, ne da bi povzročili škodo. Običajno je to nenasilno, vendar se lahko uporabi za povzročitev prave škode.
+Uporabite to veščino za rokoborbo ali kakršen koli boj, kjer je cilj ukrotiti tarčo brez povzročanja škode. Običajno je to nismrtonosno, vendar se lahko uporabi za povzročitev prave škode.
 
-**Učinki:** Grabljenje ima specifične učinke:
+**Učinki:** Oprijem ima določene učinke:
 
-* **Napak:** Mečite na tabeli **Napak pri naravnem orožju**.
-* **Neuspeh:** Tarča se izogne prijemu ali pa poskus pobega spodleti.
-* **Uspeh:** Tarča je zgrabljena, napadalec lahko v naslednjem krogu uporabi en učinek grabljenja (glejte **Učinki grabljenja** spodaj), če se primec ohrani.
-* **Poseben:** Napadalec samodejno uspe pri svojem naslednjem metu za Grabljenje, da ohrani primec, in pridobi +3 bonus karakteristike pri vseh odpornostnih metih za učinke grabljenja, izvedenih v tem krogu.
-* **Kritičen:** Napadalec samodejno uspe pri svojem naslednjem metu za Grabljenje, da ohrani primec, karakteristike tarče pa se razpolovijo pri vseh odpornostnih metih za učinke grabljenja med preostankom tega bojnega kroga.
+* **Nerodnost:** Mečite na tabeli **Nerodnost naravnega orožja**.
+* **Neuspeh:** Tarča se izogne držanju ali poskus pobega ne uspe.
+* **Uspeh:** Tarča je v oprijemu, napadalec lahko v naslednjem krogu uporabi en učinek oprijema (glejte **Učinki oprijema** spodaj), če se oprijem ohrani.
+* **Posebno:** Napadalec samodejno uspe pri naslednjem metu na Oprijem za ohranitev držanja in pridobi bonus +3 k značilnostim pri vseh metih na odpornost za učinke oprijema, opravljenih v tem krogu.
+* **Kritično:** Napadalec samodejno uspe pri naslednjem metu na Oprijem za ohranitev držanja, značilnosti tarče pa se prepolovijo pri vseh metih na odpornost za učinke oprijema med preostankom tega bojnega kroga.
 
-**Opombe k sistemu:** Napadalec mora uspešno izvesti Grabljenje, da vzpostavi primec na tarči. Uspešni napadi zgrabijo naključno zadetno mesto (če se uporablja ta sistem). Grabljenje se lahko brani z veščino Grabljenje: če se branilec brani z orožjem ali ščitom, napadalec samodejno zgrabi orožno roko ali ščitno roko, če je met za Grabljenje uspešen. Ko je primec vzpostavljen, mora napadalec vsak krog uspešno opraviti met za Grabljenje, da ohrani primec. Vsako dejanje, razen enega od učinkov grabljenja, prekine primec. Ko je tarča zgrabljena, lahko napade napadalca, če ima prost ud, z uporabo Pretepanja ali katerega koli majhnega orožja (noži ali pištole). Če sta obe roki prosti, lahko tarča poskusi zgrabiti nazaj.
+**Sistemske opombe:** Napadalec mora uspešno opraviti Oprijem, da vzpostavi držanje tarče. Uspešni napadi zgrabijo naključno lokacijo zadetka (če se uporablja ta sistem). Oprijeme se lahko odbije z veščino Oprijem: če branilec odbije z orožjem ali ščitom, napadalec samodejno zgrabi roko z orožjem ali roko s ščitom, če je met na Oprijem uspešen. Ko je držanje vzpostavljeno, mora napadalec vsak krog opraviti uspešen met na Oprijem, da ohrani držanje. Vsako dejanje, razen enega od učinkov oprijema, prekine držanje. Ko je tarča prijeta, lahko napade svojega napadalca, če ima prost ud, z uporabo pretepanja ali katerega koli majhnega orožja (noži ali pištole). Če sta obe roki prosti, lahko tarča poskusi z Oprijemom nazaj.
 
-Več napadalcev lahko poskusi zgrabiti eno tarčo, čeprav nobeno mesto ne moreta držati več kot dva napadalca. Združite ocene STR obeh napadalcev pri vseh spornih preizkusih.
+Več napadalcev lahko poskusi prijeti eno tarčo, čeprav nobena lokacija ne more biti držana z več kot dvema napadalcema. Združite MOČ obeh napadalcev pri vseh spornih preizkusih.
 
-> ### Učinki grabljenja
->
-> Napadalec s primcem na tarči lahko poskusi kateri koli od naslednjih učinkov, enega na krog, začenši v krogu po tem, ko primec začne veljati. Nekateri učinki se lahko uporabijo le, če je napadalec zgrabil določen del telesa (glejte spodaj). Ker nekateri učinki vključujejo določena zadetna mesta, bo igralni mojster morda moral interpretirati rezultate.
->
-> * **Sprememba prijema (Katero koli):** Uskladi DEX proti DEX na tabeli odpornosti. Če je uspešen, napadalec premakne primec na zadetno mesto po izbiri. Če je neuspešen, lahko tarča opravi dejanje, čeprav napadalec še vedno drži prvotno mesto.
->
-> * **Razorožitev tarče (Roka):** Napadalec uskladi STR+SIZ proti STR tarče na tabeli odpornosti. Če napadalec uspe, tarča spusti karkoli v tisti roki, roka pa ostane imobilizirana. Če je neuspešen, tarča obdrži predmete, čeprav roka ostane imobilizirana. Napadalec obdrži primec.
->
-> * **Zgrabitev drugega mesta (Roka/Noga):** Napadalec poskusi zgrabiti in držati drugo zadetno mesto po izbiri. Uskladi DEX napadalca proti DEX+SIZ tarče na tabeli odpornosti. Če napadalec zmaga, zgrabi drugo mesto in obdrži že zgrabljen ud ujet. Če je neuspešen, tarča takoj uskladi svojo STR proti STR napadalca na tabeli odpornosti, da prekine vse prijeme. Napadalec lahko drži toliko mest, kolikor ima rok.
->
-> * **Imobilizacija uda (Roka/Noga):** Uskladi STR napadalca proti STR tarče na tabeli odpornosti. Če napadalec zmaga, z tistim udom ni mogoče opraviti nobenega dejanja, dokler se primec ne prekine. Če je neuspešen, lahko tarča opravi dejanje, čeprav napadalec še vedno drži ud.
->
-> * **Poškodovanje tarče (Glava/Prsi/Trebuh):** Napadalec udari s komolcem, izkopa ali stisne, kar tarči povzroči 1D3 točk škode plus njegov modifikator škode (splošno ali na zgrabljeno zadetno mesto). Tarča lahko takoj uskladi svojo STR proti STR napadalca na tabeli odpornosti, da prekine primec.
->
-> * **Imobilizacija tarče (Glava/Prsi/Trebuh):** Uskladi STR napadalca proti STR tarče na tabeli odpornosti. Če napadalec zmaga, tarča ne more opraviti nobenega dejanja, dokler se primec ne prekine. Če je neuspešen, lahko tarča še vedno opravi dejanja, čeprav napadalec še vedno drži primec.
->
-> * **Podrtje tarče (Glava/Prsi/Trebuh):** Napadalec samodejno povozi tarčo, s čimer oba lika padeta. Tarča mora opraviti met za Gibčnost ali utrpeti 1 točko splošne škode (ali na naključno zadetno mesto).
->
-> * **Zadavitev tarče (Glava):** Tarča mora vsak krog opraviti met za CON×1 % ali utrpeti 1D3 zadetnih točk škode na svoje splošne zadetne točke. Tarča lahko takoj uskladi svojo STR proti STR napadalca na tabeli odpornosti, da prekine primec. Ko napadalec začne zadavljevati, mu ni treba vsak krog opravljati metov za Grabljenje, da ohrani primec. Tarča mora poskusiti pobegniti (glejte **Dušenje, utapljanje in asfiksija**).
->
-> * **Metanje tarče (Posebno):** Uskladi STR+DEX napadalca proti SIZ+DEX tarče na tabeli odpornosti. Metanje tarče sprosti vsak primec. Če je napadalec uspešen, je tarča vržena 1D6 metrov, samodejno podrta in mora opraviti met za Gibčnost ali utrpeti 1D6 točk splošne škode (ali na naključno zadetno mesto). Met DEX×1 % jim omogoči, da pristanejo na nogah, ne da bi utrpeli škodo. Če met ni uspešen, tarča ni vržena in lahko opravi dejanje, čeprav napadalec obdrži primec. Metanje se lahko poskusi z vsakim zgrabljenim udom, vendar uspešen met z glavo preprosto povzroči 1D6 točk splošne škode (ali na zadetno mesto glave) in ne rezultira v metu.
+> ### Učinki oprijema
+> 
+> Napadalec, ki drži svojo tarčo, lahko poskusi kateri koli od naslednjih učinkov, enega na krog, začenši v krogu po tem, ko se Oprijem vzpostavi. Nekateri učinki se lahko uporabijo le, če je napadalec zgrabil določen del telesa (glejte spodaj). Ker nekateri učinki vključujejo določene lokacije zadetkov, bo morda moral vodja igre interpretirati rezultate.
+> 
+> * **Sprememba držanja (katero koli):** Primerjajte SPR vs. SPR na tabeli odpornosti. Če je uspešen, napadalec premakne držanje na izbrano lokacijo zadetka. Če ni uspešen, lahko tarča opravi dejanje, čeprav napadalec še vedno drži prvotno lokacijo.
+> 
+> * **Razorožitev tarče (roka):** Napadalec primerja MOČ+VEL vs. MOČ tarče na tabeli odpornosti. Če napadalec uspe, tarča izpusti vse, kar ima v tisti roki, roka pa ostane imobilizirana. Če ni uspešen, tarča zadrži predmet(e), čeprav njena roka ostane imobilizirana. Napadalec obdrži držanje.
+> 
+> * **Zgrabitev druge lokacije (roka/noga):** Napadalec poskusi zgrabiti in držati drugo lokacijo zadetka po svoji izbiri. Primerjajte SPR napadalca vs. SPR+VEL tarče na tabeli odpornosti. Če napadalec zmaga, zgrabi drugo lokacijo in zadrži že ujet ud. Če ni uspešen, tarča takoj primerja svojo MOČ vs. MOČ napadalca na tabeli odpornosti, da prekine vsa držanja. Napadalec lahko drži toliko lokacij, kolikor ima rok.
+> 
+> * **Imobilizacija uda (roka/noga):** Primerjajte MOČ napadalca vs. MOČ tarče na tabeli odpornosti. Če napadalec zmaga, z tistim udom ni mogoče opraviti nobenega dejanja, dokler držanje ni prekinjeno. Če ni uspešen, lahko tarča opravi dejanje, čeprav napadalec še vedno drži ud.
+> 
+> * **Poškodovanje tarče (glava/prsni koš/trebuh):** Napadalec udari s komolcem, suni s prstom ali stisne, kar povzroči 1D3 točk škode plus njegov modifikator poškodbe tarči (splošno ali na držano lokacijo zadetka). Tarča lahko takoj primerja svojo MOČ vs. MOČ napadalca na tabeli odpornosti, da prekine držanje.
+> 
+> * **Imobilizacija tarče (glava/prsni koš/trebuh):** Primerjajte MOČ napadalca vs. MOČ tarče na tabeli odpornosti. Če napadalec zmaga, tarča sploh ne more opraviti nobenega dejanja, dokler držanje ni prekinjeno. Če ni uspešen, lahko tarča še vedno opravi dejanja, čeprav napadalec še vedno drži.
+> 
+> * **Podrtje tarče (glava/prsni koš/trebuh):** Napadalec samodejno prevlada nad tarčo, pri čemer oba lika padeta na tla. Tarča mora opraviti met na Agilnost ali utrpeti 1 točko splošne škode (ali na naključno lokacijo zadetka).
+> 
+> * **Zadavitev tarče (glava):** Tarča mora vsak krog opraviti met na VZD×1% ali utrpeti 1D3 točk škode na svoje splošne točke poškodb. Tarča lahko takoj primerja svojo MOČ vs. MOČ napadalca na tabeli odpornosti, da prekine držanje. Ko napadalec začne daviti, mu ni treba vsak krog opravljati nadaljnjih metov na Oprijem, da ohrani držanje. Tarča se mora poskusiti iztrgati (glejte **Dušenje, utapljanje in asfiksija**).
+> 
+> * **Metanje tarče (posebno):** Primerjajte MOČ+SPR napadalca proti VEL+SPR tarče na tabeli odpornosti. Metanje tarče sprosti vsako držanje. Če je napadalec uspešen, tarča odleti 1D6 metrov, je samodejno podrta in mora opraviti met na Agilnost ali utrpeti 1D6 točk splošne škode (ali na naključno lokacijo zadetka). Met na SPR×1% ji omogoči, da pristane na nogah, ne da bi utrpela škodo. Če met ni uspešen, tarča ni vržena in lahko opravi dejanje, čeprav napadalec obdrži držanje. Metanje se lahko poskusi s katerim koli držanim udom, vendar uspešen met z glavo povzroči le 1D6 točk splošne škode (ali na lokacijo zadetka glave) in ne rezultira v met.
 
-### Težki stroj (razno)
+### Težki stroji (različno)
 
 **Osnovna možnost:** 01 %
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite to veščino za upravljanje katerega koli stroja, večjega od osebe, in katerega koli kolesnega vozila, težjega od selitvenega kombija, kot so viličar, tank, buldožer, žerjav, lokomotiva, ali za upravljanje motorjev na velikem čezoceanskem plovilu. Težki stroj pokriva tudi osnovno nego in preventivno vzdrževanje, čeprav je za popravilo težkega stroja, ko ta odpove, potrebna veščina Popravilo. Za letala uporabite veščino Pilotiranje. Napak povzroči nesrečo, težave z motorjem in/ali škodo na lastnini, neuspeh pa pomeni, da stroj ne opravi želene naloge. Uspehi in vrhunski uspehi kažejo na večjo učinkovitost.
+Uporabite to veščino za upravljanje katerega koli stroja, večjega od osebe, in katerega koli kolesnega vozila, težjega od kombija za selitve, kot so viličar, tank, buldožer, žerjav, lokomotiva, ali za upravljanje motorjev na velikem pomorskem plovilu. Težki stroji zajemajo tudi osnovno nego in preventivno vzdrževanje, čeprav je po okvari težkega stroja za popravilo potrebna veščina Popravilo. Za letala uporabite veščino Pilotiranje. Nerodnost rezultira v nesreči, težavah z motorjem in/ali škodi na lastnini, medtem ko neuspeh pomeni, da stroj ne opravi želenega opravila. Uspehi in vrhunski uspehi kažejo na večjo učinkovitost.
 
-**Specialnosti:** Po tipu vozila (oklepna vozila, kotli, buldožerji, žerjavi, motorji, turbine itd.).
+**Specialnosti:** Po vrsti vozila (oklepna vozila, kotli, buldožerji, žerjavi, motorji, turbine itd.).
 
-**Opombe k sistemu:** Na splošno težki stroji ne morejo sodelovati v lovljenjih, vendar se nekatere vrste strojev lahko uporabijo kot orožje, kar povzroči 3D6 do 6D6 škode, odvisno od velikosti naprave. Uporaba te veščine zunaj normalne zmogljivosti je težka, prav tako upravljanje in vzdrževanje v ekstremnih pogojih.
+**Sistemske opombe:** Težki stroji na splošno ne morejo sodelovati v zasledovanjih, vendar se nekatere vrste strojev lahko uporabljajo kot orožje, ki povzroči 3D6 do 6D6 škode, odvisno od velikosti naprave. Uporaba te veščine izven normalnega delovanja je težka, prav tako upravljanje in vzdrževanje v ekstremnih razmerah.
 
-### Težko orožje (razno)
+### Težko orožje (različno)
 
-**Osnovna možnost:** Po specialnosti orožja
+**Osnovna možnost:** Kot je določeno v specialnosti orožja
 
-**Kategorija:** Bojne
+**Kategorija:** Boj
 
-Uporabite to veščino za upravljanje eksplozivnega orožja ali velikega orožja za neposredno streljanje, ki meji na meje prenosljivosti, kot so bazuke, raketometi, težke strojnice, na trinožnik nameščene laserske topove in drugi. Za težje strelivo, kot so topovi, oblegovalne naprave ali na vozilo ali zatič nameščeno orožje, uporabite veščino Topništvo.
+Uporabite to veščino za upravljanje eksplozivnega orožja ali velikega orožja z neposrednim ognjem, ki premika meje prenosljivosti, kot so bazuke, raketometi, težke strojnice, na trinožnik nameščeni laserski topovi in drugo. Za težjo oborožitev, kot so topovi, oblegovalne naprave ali na vozilo oziroma vrtljivo ležišče nameščeno orožje, uporabite veščino Topništvo.
 
-**Specialnosti:** Težko orožje se nahaja med tradicionalnim orožjem in topništvom in se pogosto uporablja za dostavo eksplozivov. Specialnosti so po tipu orožja in vključujejo bazuko, metalec ognja, mini pištolo, raketomet itd. Za več podrobnosti glejte **Topništvo in eksplozivi** v *Poglavju osem: Oprema*.
+**Specialnosti:** Težko orožje se nahaja med tradicionalnim orožjem in topništvom ter se pogosto uporablja za izstrelitev eksplozivov. Specialnosti so po vrsti orožja in vključujejo bazuko, metalec ognja, mini pištolo, raketomet itd. Za več podrobnosti glejte **Topništvo in eksplozivi** v osmem poglavju: Oprema.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak izstrelnega orožja**. Težko orožje običajno prebode ali povzroči Knockback.
+**Učinki:** Za določene učinke glejte **Matriko napada in obrambe** ter **Tabelo nerodnosti pri strelnem orožju**. Težko orožje običajno prebode ali povzroči odbijanje.
 
-**Opombe k sistemu:** Večina težkega orožja uporablja avtomatski ogenj ali strelja eksplozivno strelivo. Glejte **Avtomatski ogenj** in **Eksplozije**. Vsi zgrešeni streli gredo nekam; igralni mojster naj se odloči, kam udarijo zgrešeni eksplozivni streli.
+**Sistemske opombe:** Večina težkega orožja uporablja avtomatski ogenj ali strelja eksplozivno strelivo. Glejte **Avtomatski ogenj** in **Eksplozije**. Vsi zgrešeni streli nekam zadenejo; vodja igre naj se odloči, kam udarijo zgrešeni eksplozivni streli.
 
 ### Skrivanje
 
 **Osnovna možnost:** 10 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Umetnost skrivanja predmeta ali sebe pred pogledom. Vaš lik naj uporabi to veščino za pobeg med zasledovanjem, za varovanje predmeta pred lahkim zaznavanjem ali izogibanje nadzoru. Napak takoj pritegne pozornost, neuspeh pomeni, da postane met za Opazovanje za iskanje tistega, ki se skriva, *lahek*, uspeh zahteva met za Opazovanje, da ga najdejo, vrhunski uspehi pa naredijo met za Opazovanje *težek* ali *nemogoč*.
+Umetnost skrivanja predmeta ali sebe pred pogledom. Vaš lik naj uporabi to veščino za pobeg med zasledovanjem, za zaščito predmeta pred zaznavo ali za izogibanje nadzoru. Nerodnost pritegne takojšnjo pozornost, neuspeh pomeni, da postane met na Opazovanje za iskanje skrivača *lahek*, uspeh zahteva met na Opazovanje, da ga najdejo, vrhunski uspehi pa naredijo met na Opazovanje *težek* ali *nemogoč*.
 
-**Opombe k sistemu:** Preizkusi Skrivanja so nasprotujoči si preizkusu Opazovanja opazovalca ali iskalca. Primerno kritje je nujno; skrivanje v skopem kritju je težko, popolno pomanjkanje kritja (široko odprto, sredi belega dne) pa naredi to nemogoče. Posebna oblačila ali oprema (poslikava obraza, kamuflažna oblačila itd.) lahko dodajo bonus do +20 %, odvisno od kakovosti. Okoljski pogoji lahko ponudijo dodatne bonuse. Nekdo, ki se skriva, naj ostane čim bolj pri miru; premikanje med uporabo Skrivanja je težko, premikanje več kot meter v bojem krogu pa zahteva tako mete za Skrivanje kot Prikradanje. Skrivanje je učinkovito le proti vizualnemu in slušnemu zaznavanju; napredni senzorji lahko najdejo skritega lika s telesno toploto ali pa ga lahko najde oster nos z uporabo veščine Občutek.
+**Sistemske opombe:** Meti na Skrivanje so nasprotni Opazovanju opazovalca ali iskalca. Ustrezno kritje je bistvenega pomena; skrivanje v pomanjkljivem kritju je težko, popolno pomanjkanje kritja (široko odprt prostor, bela dan) pa ga naredi nemogočega. Posebna oblačila ali oprema (poslikava obraza, kamuflažna oblačila itd.) lahko dodajo bonus do +20 %, odvisno od njihove kakovosti. Okoljske razmere lahko ponudijo dodatne bonuse. Kdor se skriva, naj bo čim bolj pri miru; premikanje med uporabo Skrivanja je težko, premikanje za več kot meter v bojnem krogu pa zahteva tako mete na Skrivanje kot na Prikradanje. Skrivanje je učinkovito le proti vizualni in slušni zaznavi; napredni senzorji lahko najdejo skrivajočega se lika po telesni toploti, ali pa ga oster nos lahko najde z uporabo veščine Zaznavanje.
 
-### Vpogled
+### Uvid
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za ocenjevanje značaja, čustvenega stanja in motivov druge osebe na podlagi govorice telesa, vzorcev govora in drugih neoprijemljivih dejavnikov. Vpogled omogoča hazarderju, da zazna blef, ali detektivu, da nanjuši laž. Napak zagotavlja zavajajoče informacije, neuspeh ne prinese ničesar, uspeh vam omogoči vedeti, kaj tarča morda misli, vrhunski uspehi pa vam razkrijejo njihove najgloblje misli (v razumnih mejah).
+Uporabite to veščino za ocenjevanje značaja, čustvenega stanja in motivov druge osebe na podlagi govorice telesa, vzorcev govora in drugih neoprijemljivih dejavnikov. Uvid kockarju omogoči, da zazna blef, ali detektivu, da zavoha laž. Nerodnost nudi zavajajoče informacije, neuspeh ne prinese ničesar, uspeh vam pove, kaj tarča morda misli, vrhunski uspehi pa vam razkrijejo njene najgloblje misli (v razumnih mejah).
 
-**Opombe k sistemu:** To veščino lahko nasprotujejo Etiketa, Hitri govor ali celo Prepričevanje. Uporaba te veščine na tesnih prijateljih, družinskih članih ali zakoncih je lahka. Če uporabljate sistem **Osebnostnih lastnosti**, lahko Vpogled določi moč teh osebnostnih lastnosti v splošnih izrazih (na primer "zelo sebičen").
-
-### Skakanje
+**Sistemske opombe:** Ta veščina je lahko nasprotna Bontonu, Hitremu govoru ali celo Prepričevanju. Uporaba te veščine na bližnjih prijateljih, družinskih članih ali zakoncih je lahka. Če uporabljate sistem **Osebnostnih lastnosti**, lahko Uvid določi moč teh osebnostnih lastnosti v splošnih izrazih (kot na primer "zelo sebičen").### Skok (Jump)
 
 **Osnovna možnost:** 25 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Uporabite to veščino za skok v višino ali dolžino, preskakovanje ovir. V normalnih okoliščinah lahko razumno fit človek skoči svojo višino vodoravno in polovico svoje višine navpično iz stoječega položaja, in približno tri metre vodoravno s tekom. Napak rezultira v padcu (1D6 splošne zadetne točke škode ali na zadetno mesto), uspeh rezultira v skoku, kot je opisano zgoraj, poseben uspeh poveča znesek za 50 %, kritični uspeh pa ga podvoji. Skakanje lahko tudi zmanjša škodo zaradi padca za 1D6 na stopnjo uspeha (normalen uspeh za –1D6, poseben za –2D6, kritičen za –3D6).
+Uporabite to spretnost za skok v višino ali daljino ter za preskakovanje ovir. V običajnih okoliščinah lahko razumno pripravljen človek iz stoječega položaja skoči vodoravno za svojo višino in navpično za polovico svoje višine, z zaletom pa približno tri metre vodoravno. Padec (fumble) povzroči padec (1D6 splošne škode točk življenja ali škode na določenem delu telesa), uspeh povzroči skok, kot je opisano zgoraj, poseben uspeh poveča razdaljo za 50 %, kritični uspeh pa jo podvoji. Skok lahko tudi zmanjša škodo ob padcu za 1D6 na stopnjo uspeha (običajen uspeh za –1D6, poseben za –2D6, kritičen za –3D6).
 
-**Opombe k sistemu:** Stoječi skok zahteva 1 DEX obrat. Tekoči skok uporablja isti DEX obrat kot normalno tekoče gibanje. Izvajanje vpadljivih ali razkazovalnih skokov (salte, obrati itd.) je težko.
+**Sistemske opombe:** Stoječi skok zahteva 1 stopnjo SPR. Skok z zaletom porabi enako stopnjo SPR kot običajen tek. Izvajanje vpadljivih ali akrobatskih skokov (salte, premeti itd.) je Težavno.
 
 ### Znanje (razno)
 
-**Osnovna možnost:** 05 % ali 00 % (glejte spodaj)
+**Osnovna možnost:** 05 % ali 00 % (glej spodaj)
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Ta veščina predstavlja izkušnje ali akademski študij veje znanja. Uporabite veščino Znanje za zapomnitev ustreznih dejstev, za analizo ali prepoznavanje namigov, logična domnevanja in priklic impresivnih trivialnosti. Za bolj znanstvene glejte Znanost. Napak prinese zavajajoče in netočne neresnice, uspehi pa prinesejo bolj koristne in podrobne informacije.
+Ta spretnost predstavlja izkušnje ali akademski študij določenega področja znanja. Uporabite spretnost Znanje, da se spomnite ustreznih dejstev, analizirate ali identificirate namige, sprejemate logične sklepe in se spomnite zanimivih drobnarij. Za bolj znanstvena področja glej Znanost. Padec povzroči zavajajoče in netočne neresnice, medtem ko uspehi prinesejo bolj uporabne in podrobne informacije.
 
-**Specialnosti:** Računovodstvo, Antropologija, Arheologija, Zgodovina, Pravo, Okultizem, Religija itd. (glejte bližnji seznam) Igralni mojster naj določi, ali ima veščina Znanje osnovno možnost 05 % za specialnosti, ki so pogoste, ali 00 % za tiste, ki zahtevajo raziskovanje in študij za vsaj osnovno razumevanje.
+**Specialnosti:** Računovodstvo, antropologija, arheologija, zgodovina, pravo, okultizem, religija itd. (glej seznam v bližini). Igralni vodja naj določi, ali ima spretnost Znanje osnovno možnost 05 % za specialnosti, ki so pogoste, ali 00 % za tiste, ki zahtevajo raziskovanje in študij, da bi o njih sploh imeli osnovno razumevanje.
 
-**Opombe k okolju:** V fantazijskih in zgodovinskih okoljih obstaja le majhna podmnožica specialnosti. Ker okolja postajajo bolj sodobna, se specialnosti povečujejo.
+**Opombe o okolju:** V domišljijskih in zgodovinskih okoljih obstaja le majhen nabor specialnosti. Z razvojem okolij v bolj moderna se število specialnosti povečuje.
 
-**Opombe k sistemu:** Neobvezna karakteristika EDU in met za Vednost pokrijeta večino skupnega znanja – specializirane informacije predstavlja ustrezna specialnost veščine Znanje.
+**Sistemske opombe:** Opcijska značilnost EDU in met za Znanje pokrivata večino splošnega znanja – specializirane informacije predstavlja ustrezna specialnost spretnosti Znanje.
 
-> ### Specialnosti Znanja
->
-> Te specialnosti niso izčrpne in se lahko po potrebi razširijo. Nekatere specialnosti imajo podspecialnosti, specifične poudarke na enem predmetu znotraj tega področja. Napišite jih takole: Znanje (skupina/templarji) ali Znanje (templarji), kot želite.
->
-> **Akademska vednost (samo antična obdobja):** V obdobjih, ko je celotno napisano znanje vsebovano v eni knjižnici, to predstavlja, kako "učen" je nekdo. Uporabite jo kot met za Vednost za skoraj katero koli področje znanja.
->
-> **Računovodstvo:** Uporabite jo za analiziranje knjigovodstva, finančno analizo (dolg, stečaj, bogastvo, neto vrednost itd.) in za prepoznavanje finančnih nepravilnosti (nenavadna poraba, poneverba ali nenavadni nepričakovani dobički).
->
-> **Antropologija:** Študij kultur, vključno z navadami, umetnostjo in vedenjem. Uporabite jo za prepoznavanje kulture osebe ali artefakta ali za določanje družbenih običajev in vedenja kulture.
->
-> **Arheologija:** Študij antičnih in izginulih kultur. Uporabite jo za prepoznavanje artefakta iz mrtve kulture, prepoznavanje ponaredka ali izvedbo izkopavanja in utemeljeno sklepanje o zgodovini najdišča ali regije.
->
-> **Umetnostna zgodovina:** Študij umetnosti iz različnih obdobij in krajev, vključno s slogom, znanimi umetniki in določenimi deli. Uporabite jo za prepoznavanje izvora umetniškega dela, prepoznavanje ponaredka ali pripisovanje dela znanemu mojstru.
->
-> **Bogokletna vednost:** Študij grozljivih okultnih skrivnosti in antičnih zlih sil. Več ko ima nekdo tega znanja, manjši je njegov oprijem na razum (glejte Razum). Veščina Bogokletna vednost se začne pri 0 %, ne 05 %, in je ni mogoče povečati z izkušnjami.
->
-> **Posel:** Študij podjetniških praks, cehovskih predpisov, korporativnih zakonov in tehnik upravljanja za komercialno podjetje. Uporabite jo za prepoznavanje glavnih igralcev na področju ali trgu, napovedovanje gospodarskih trendov in ustvarjanje dobička.
->
-> **Vohunstvo:** Poznavanje vohunskih organizacij, znanih ali razvpitih vohunov in agentov; metodologija, pomembne osebnosti, organizacije, taktike itd. Uporabite jo za informacije o agencijah in njihovem načinu delovanja (modus operandi). Razbijanje kod se obravnava z Znanostjo (kriptografija).
->
-> **Folklora:** Poznavanje običajev, zgodb, besedil, visokih pripovedi in legend določenega ljudstva ali regije. Uporabite to veščino za prepoznavanje ali zapomnitev elementov ljudske pravljice ali basni, bodisi kmečke bodisi nadnaravne.
->
-> **Skupina/podspecialnost:** Splošne informacije o določeni kulturi, narodnosti, skupini, klubu ali družbenem razredu. Uporabite to veščino za prepoznavanje člana te skupine, poznavanje "kdo je kdo" znotraj te skupine in zapomnitev družbenih običajev in navad skupine.
->
-> **Zgodovina:** Študij preteklih dogodkov in obdobij. Uporabite to veščino za zapomnitev pomena katerega koli kraja, osebe, dogodka ali predmeta ali za pravilno ugibanje, kdaj je bil predmet ali dokument narejen.
->
-> **Pravo:** Študij pravne prakse in precedensa. Uporabite to veščino za presojo zakonitosti predlaganega dejanja, iskanje pravnih precedentov, osvoboditev iz težav z oblastmi ali izgradnjo primera za ali proti kriminalcu.
->
-> **Lingvistika:** Študij samega jezika, od temeljev slovnice in besedišča do tega, kako družbe oblikujejo jezike. Uporabite to veščino za prepoznavanje neznanih jezikov ali ugibanje nekaj besed ali dojemanje osnovnega pomena, čeprav ta veščina ni nadomestilo za ustrezno veščino Jezik.
->
-> **Literatura:** Študij pomembne proze, poezije in esejev, običajno iz ene kulture. Uporabite to veščino za pravilno prepoznavanje citata ali aluzije na določeno delo, prepoznavanje, kdaj in kje bi lahko bilo napisano neznano besedilo, pripisovanje skrivnostnega dela znanemu avtorju, prepoznavanje literarnega ponaredka ali zlovešče navajanje primernih odlomkov iz znanih literarnih del.
->
-> **Naravni svet:** Poznavanje okolja, vremenskih vzorcev, rastlinstva, živalstva in naravne zgodovine območja, predvsem v praktičnem smislu in ne iz znanstvenega ozadja.
->
-> **Okultizem:** Poznavanje magije, nejasnih legend in tako imenovane "skrivne zgodovine", ki pokriva vse, od arkanskih filozofij do sodobnih teorij zarote. Uporabite to veščino za spoznavanje pomena alkimističnih ali astroloških simbolov, prepoznavanje, katera magijska tradicija je ustvarila ritualni delovni prostor, poznavanje imen močnih duhov ali prepoznavanje skrivnih frakcij, ki zarotujejo za manipulacijo situacije.
->
-> **Filozofija:** Študij obstoja in njegovega pomena, od osnovne logike do eksistencializma, nihilizma in naprej. Uporabite to veščino za zapomnitev načel določene filozofije, prepoznavanje filozofskih nagnjenj avtorja ali govorčevega argumenta in za sodelovanje v filozofski debati.
->
-> **Politika:** Študij in poznavanje političnih sistemov ali drugih sredstev upravljanja, ki jih vsiljujejo ali volijo državljani. Uporabite to veščino za razumevanje glavnih blokov moči na območju, kako vplivati na politično strukturo in kako se bodo državljani odzvali na politične spremembe ali vpliv.
->
-> **Regija/podspecialnost:** Splošne informacije o določenem mestu, regiji ali državi, vključno s pomembnimi ljudmi, lokalnimi znamenitostmi in regionalno zgodovino. Uporabite to veščino za iskanje poceni prenočišč v živahnem mestu, zapomnitev najboljše obcestne gostilne v provinci, razumevanje lokalne politike ali iskanje določenih trgovcev ali obrtnikov.
->
-> **Religija/podspecialnost:** Podrobnosti o mitosu, liturgiji in praksah določene religije. Uporabite to veščino za izogibanje kršenju tabujev, priklic zakonov in dolžnosti vere, uspešno debato o teoloških točkah, prepoznavanje regalij ali verskih besedil, ločevanje pravoslavja od krivoverstva ali pravilno vodenje verskega obreda.
->
-> **Ulično znanje:** Poznavanje bolj senčnih segmentov družbe, od protokolov revnih do načinov kriminalnega podzemlja. Uporabite to veščino za iskanje varnega skrivališča, prepoznavanje preprodajalca ukradenega blaga ali poznavanje, koga prositi za druge polzakonite ali nezakonite usluge.
+> ### Specialnosti znanja
+> 
+> Te specialnosti niso izčrpne in jih je mogoče po potrebi razširiti. Nekatere specialnosti imajo podpodišča, posebne poudarke na enem samem predmetu znotraj tega področja. Zapišite jih takole: Znanje (Skupina/Templarji) ali Znanje (Templarji), po želji.
+> 
+> **Akademska vednost (samo za stara obdobja):** V obdobjih, ko je mogoče celotno zapisano znanje spraviti v eno knjižnico, to predstavlja, kako »učen« je nekdo. Uporabite jo kot met za Znanje za skoraj vsako področje vednosti.
+> 
+> **Računovodstvo:** Uporabite jo za analiziranje knjigovodstva, finančne analize (dolg, stečaj, premoženje, neto vrednost itd.) in za odkrivanje finančnih nepravilnosti (nenavadna poraba, poneverba ali čudni nepričakovani dobički).
+> 
+> **Antropologija:** Preučevanje kultur, vključno s šegami, umetnostjo in vedenjem. Uporabite jo za identifikacijo izvorne kulture osebe ali artefakta ali za določanje družbenih norm in vedenja kulture.
+> 
+> **Arheologija:** Preučevanje starih in izginulih kultur. Uporabite jo za identifikacijo artefakta iz mrtve kulture, odkritje ponaredka ali izvedbo izkopavanja in sprejemanje razumnih sklepov o zgodovini najdišča ali regije.
+> 
+> **Zgodovina umetnosti:** Preučevanje umetnosti iz različnih obdobij in krajev, vključno s slogi, slavnimi umetniki in specifičnimi deli. Uporabite jo za identifikacijo izvora umetnine, odkritje ponaredka ali pripisovanje dela znanemu mojstru.
+> 
+> **Bogokletna vednost:** Preučevanje grozljivih okultnih skrivnosti in starodavnih zlih sil. Več ko ima nekdo tega znanja, manjši je njegov stik z razumom (glej Razum). Spretnost Bogokletna vednost se začne pri 0 %, ne pri 05 %, in je z izkušnjami ni mogoče povečati.
+> 
+> **Poslovanje:** Preučevanje podjetniških praks, cehovskih predpisov, korporacijskega prava in upravljalskih tehnik za komercialne dejavnosti. Uporabite jo za identifikacijo ključnih akterjev na področju ali trgu, napovedovanje gospodarskih trendov in ustvarjanje dobička.
+> 
+> **Vohunstvo:** Poznavanje vohunskih organizacij, slavnih ali razvpitih vohunov in agentov; metodologija, pomembne osebnosti, organizacije, taktike itd. Uporabite jo za poznavanje agencij in njihovega načina delovanja (modus operandi). Razbijanje kod se obravnava z Znanostjo (kriptografija).
+> 
+> **Folklora:** Poznavanje šeg, zgodb, besedil pesmi, pripovedk in legend določenega ljudstva ali regije. Uporabite to spretnost za prepoznavanje ali priklic elementov ljudske pravljice ali basni, bodisi podeželske ali nadnaravne.
+> 
+> **Skupina/Podspecialnost:** Splošne informacije o določeni kulturi, narodnosti, skupini, klubu ali družbenem sloju. Uporabite to spretnost za identifikacijo člana te skupine, poznavanje »kdo je kdo« znotraj te skupine ter za priklic družbenih šeg in norm skupine.
+> 
+> **Zgodovina:** Preučevanje preteklih dogodkov in obdobij. Uporabite to spretnost, da se spomnite pomena katerega koli kraja, osebe, dogodka ali predmeta oziroma da pravilno uganete, kdaj je bil predmet ali dokument izdelan.
+> 
+> **Pravo:** Preučevanje pravne prakse in sodne prakse. Uporabite to spretnost za presojo zakonitosti predlaganega dejanja, iskanje pravnih precedensov, reševanje iz težav z oblastmi ali za pripravo tožbe oziroma obrambe za kriminalca.
+> 
+> **Lingvistika:** Preučevanje samega jezika, od temeljev slovnice in besedišča do tega, kako družbe oblikujejo jezike. Uporabite to spretnost za identifikacijo neznanih jezikov, ugibanje pomena besed ali razumevanje osnovnega pomena, čeprav ta spretnost ni nadomestilo za ustrezno jezikovno spretnost.
+> 
+> **Literatura:** Preučevanje pomembne proze, poezije in esejev, običajno iz ene kulture. Uporabite to spretnost za pravilno identifikacijo citata ali aluzije na določeno delo, identifikacijo, kdaj in kje je bil napisan neznan fragment, pripisovanje skrivnostnega dela znanemu avtorju, odkritje literarnega ponaredka ali citiranje zlovešče primernih odlomkov iz slavnih literarnih del.
+> 
+> **Naravni svet:** Poznavanje okolja, vremenskih vzorcev, flore, favne in naravne zgodovine območja, predvsem v praktičnem smislu in ne iz znanstvenega ozadja.
+> 
+> **Okultizem:** Poznavanje magije, nejasnih legend in tako imenovane »skrivne zgodovine«, ki zajema vse od arhaičnih filozofij do sodobnih teorij zarote. Uporabite to spretnost, da spoznate pomen alkimističnih ali astroloških simbolov, ugotovite, katera magična tradicija je ustvarila ritualni prostor, poznate imena mogočnih duhov ali identificirate skrivne frakcije, ki zarotniško manipulirajo s situacijo.
+> 
+> **Filozofija:** Preučevanje obstoja in njegovega pomena, od osnovne logike do eksistencializma, nihilizma in naprej. Uporabite to spretnost za priklic naukov določene filozofije, identifikacijo filozofskih nagnjenj avtorja ali govorčevega argumenta in za sodelovanje v filozofski debati.
+> 
+> **Politika:** Preučevanje in poznavanje političnih sistemov ali drugih načinov upravljanja, ki so jih državljani sprejeli ali izvolili. Uporabite to spretnost za razumevanje glavnih blokov moči na območju, kako vplivati na politično strukturo in kako se bodo državljani odzvali na politične spremembe ali vpliv.
+> 
+> **Regija/Podspecialnost:** Splošne informacije o določenem mestu, regiji ali državi, vključno s pomembnimi ljudmi, lokalnimi znamenitostmi in regionalno zgodovino. Uporabite to spretnost, da najdete poceni prenočišče v živahnem mestu, se spomnite najboljše gostilne ob cesti v provinci, razumete lokalno politiko ali najdete specifične trgovce oziroma obrtnike.
+> 
+> **Religija/Podspecialnost:** Podrobnosti o mitologiji, liturgiji in praksah določene vere. Uporabite to spretnost, da se izognete kršenju tabujev, prikličete zakone in dolžnosti vere, uspešno razpravljate o teoloških točkah, identificirate insignije ali verska besedila, ločite ortodoksijo od herezije ali pravilno vodite verski obred.
+> 
+> **Ulična modrost:** Poznavanje bolj senčnih segmentov družbe, od protokolov revnih do poti kriminalnega podzemlja. Uporabite to spretnost za iskanje varne hiše, identifikacijo preprodajalca ukradenega blaga ali poznavanje tega, koga prositi za druge polzakonite ali nezakonite usluge.
 
 ### Jezik (razno)
 
-**Osnovna možnost:** INT×5 (ali EDUx5) ali 00 % (glejte spodaj)
+**Osnovna možnost:** INT×5 (ali EDUx5) ali 00 % (glej spodaj)
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Sposobnost ustnega komuniciranja v jeziku, bodisi v lastnem maternem jeziku ali drugem. Drugih jezikov se lahko naučite doma, v šoli, cerkvi, na delovnem mestu ali na ulicah, odvisno od kulture in vzgoje. Večina likov začne z znanjem svojega lastnega jezika pri INT×5. Dvojezični liki morajo porabiti točke veščin za drugo veščino Jezik. Vsakodnevni pogovor v lastnem jeziku je samodejen in ne zahteva meta na veščino. Meti na veščino so potrebni le pri komuniciranju težkih konceptov ali v težkih in neobičajnih situacijah, kot je prevajanje. Ta veščina pokriva ustno komunikacijo – branje in pisanje uporabljata Pismenost. Napak pomeni katastrofalno nerazumevanje, medtem ko uspehi prinesejo tekočo in včasih zgovorno komunikacijo.
+Sposobnost verbalnega komuniciranja v jeziku, bodisi v svojem maternem jeziku bodisi v drugem. Druge jezike se lahko naučite doma, v šoli, cerkvi, na delovnem mestu ali na ulici, odvisno od kulture in vzgoje. Večina likov začne z znanjem lastnega jezika pri INT×5. Dvojezični liki morajo porabiti točke spretnosti za drugo jezikovno spretnost. Vsakodnevni pogovor v lastnem jeziku je samodejen in ne zahteva meta spretnosti. Meti spretnosti so potrebni le pri komuniciranju težkih konceptov ali v težkih in nenavadnih situacijah, kot je prevajanje. Ta spretnost zajema verbalno komunikacijo – branje in pisanje uporablja Pismenost. Padec pomeni katastrofalno nerazumevanje, medtem ko uspehi prinesejo gladko in včasih zgovorno komunikacijo.
 
-**Specialnosti:** Po jeziku. Vsaka specialnost velja za en sam jezik; če želite, da se vaš lik nauči dodatnega jezika, mora zgraditi dodatno veščino Jezik.
+**Specialnosti:** Po jezikih. Vsaka specialnost velja za en sam jezik; če želite, da se vaš lik nauči dodatnega jezika, mora zgraditi dodatno spretnost Jezik.
 
-**Opombe k sistemu:** Če se uporablja neobvezno pravilo EDU, za osnovno možnost izberite višjo vrednost med INT×5 ali EDU×5. Razumevanje nejasnih narečij ali antičnih različic jezika je težko. Kompleksni ali dolgi dokumenti ali pogovori z več pomembnimi točkami lahko zahtevajo več metov za jezik za razumevanje, po enega za vsako točko. Glejte tabelo **Tekočnost jezika** za podrobnosti o tem, kako stopnja veščine vpliva na komunikacijo in tekočnost.
+**Sistemske opombe:** Če se uporablja opcijsko pravilo EDU, izberite višjo vrednost med INT×5 ali EDU×5 za osnovno možnost. Razumevanje nejasnih narečij ali starih različic jezika je Težavno. Kompleksni ali dolgi dokumenti ali pogovori z več poudarki lahko zahtevajo več metov za jezik za razumevanje, po enega za vsako točko. Glej tabelo **Jezikovna tekočnost** za podrobnosti o tem, kako stopnja spretnosti vpliva na komunikacijo in tekočnost.
 
-##### Tekočost jezika
+##### Jezikovna tekočnost
 
-| Stopnja veščine | Tekočost |
+| Stopnja spretnosti | Tekočnost |
 | :---- | :---- |
-| 01–05 | Pozna le nekaj ducatov besed, lahko šteje do 10. Lahko komunicira le preproste ideje. Kompleksna komunikacija (Barantanje, Prepričevanje itd.) sploh ne pride v poštev. Na primer: "Hrana. Prosim, prodaj mi." |
-| 6–25 | Prenese preproste zahteve, dovolj, da se ga razume in preživi iz dneva v dan. Kompleksna komunikacija (Barantanje, Prepričevanje itd.) sta težki. Na primer: "Koliko denarja za to jagnječjo stegno?" |
-| 26–50 | Zagotovljena komunikacija. Govorec lahko govori bolje kot otrok, pri čemer prenese večino idej. Komunikacijske veščine niso omejene, vendar so nekatera dejanja lahko še vedno težka. Na primer: "Koliko? Toda to jagnje je bilo včeraj precej cenejše!" |
-| 51–75 | Omogoča govorcu pripovedovanje zgodb, sag, pesmi itd. Idiomi in šale postanejo dostopni. Lahko se izdaja za domačina. Kompleksne komunikacije se zdaj mečejo pri govorčevi polni stopnji veščine. Na primer: "Poglejte ta kos! Jagnje je bilo gnilo, še preden je bilo razkosano, in očitno ni vredno niti potu delavca, ki ga je prinesel sem." |
-| 76–00 | Jezik pesnikov, filozofov, znanstvenikov in diplomatov. Govorec se ne more le izdajati za domačina, temveč lahko tudi posnema enega ali več lokalnih narečij. Žargon in nejasni načini govora pridejo zlahka. Na primer: "Zagotovo bi bilo mogoče ponovno ovrednotiti oceno tega primerka hrane glede na njegovo napredno stanje razpadanja." |
+| 01–05 | Pozna le nekaj ducat besed, zna šteti do 10. Lahko komunicira le preproste ideje. Kompleksna komunikacija (barantanje, prepričevanje itd.) ne pride v poštev. Na primer: »Hrana. Prosim, prodaj mi.« |
+| 6–25 | Prenese preproste zahteve, dovolj, da je razumljen in preživi vsakdan. Kompleksna komunikacija (barantanje, prepričevanje itd.) je Težavna. Na primer: »Koliko denarjev za to jagnječje stegno?« |
+| 26–50 | Zagotovljena komunikacija. Govorec lahko govori bolje kot otrok in prenese večino idej. Komunikacijske spretnosti niso omejene, vendar so lahko nekatera dejanja še vedno Težavna. Na primer: »Koliko? Ampak to jagnje je bilo včeraj precej cenejše!« |
+| 51–75 | Omogoča govorcu, da pripoveduje zgodbe, sage, poje pesmi itd. Idiomi in šale postanejo dostopni. Lahko se izdaja za domačina. Kompleksne komunikacije se zdaj mečejo pri polni stopnji spretnosti govorca. Na primer: »Poglej ta kos! Jagnje je bilo gnilo, še preden je bilo zaklano, in očitno ni vredno niti potu delavca, ki ga je prinesel sem.« |
+| 76–00 | Jezik pesnikov, filozofov, znanstvenikov in diplomatov. Govorec se lahko ne le izdaja za domačina, ampak lahko tudi posnema enega ali več lokalnih narečij. Žargon in nejasni načini govora pridejo zlahka. Na primer: »Zagotovo bi bilo mogoče oceno tega primerka hrane ponovno ovrednotiti glede na njegovo napredno stopnjo razkroja.« |
 
-### Poslušanje
+### Poslušanje (Listen)
 
 **Osnovna možnost:** 25 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za slišanje, interpretacijo in razumevanje zvokov, bodisi šepetov za zaprtimi vrati, skrivnostnih šepetov, prikradajočih se korakov in zlomljenih vejic. Uporabite to veščino, da preverite, ali hrup zbudi spečega lika, ali da preverite, ali lahko prepoznajo določen zvok ali glas. Normalno območje za slišanje človeškega glasu, ki govori z vljudno glasnostjo, je 15 metrov – glasnejši glasovi nesejo dlje, tišji pa imajo krajši doseg. Napak pomeni nerazumevanje ali popolno nevednost o zvoku, medtem ko uspehi prinesejo zavedanje in informacije o njegovem viru.
+Uporabite to spretnost za slišanje, interpretacijo in razumevanje zvokov, bodisi mrmranja za zaprtimi vrati, skrivnostnega šepetanja, prikritih korakov in pokanja vejic. Uporabite to spretnost, da preverite, ali hrup zbudi spečega lika, ali pa da vidite, ali lahko prepozna določen zvok ali glas. Običajno območje za slišanje človeškega glasu, ki govori pri vljudni glasnosti, je 15 metrov – glasnejši glasovi nesejo dlje, tišji pa imajo krajši doseg. Padec pomeni nerazumevanje ali popolno nevednost o zvoku, medtem ko uspehi prinesejo zavedanje in informacije o njegovem viru.
 
-**Opombe k sistemu:** Poslušanje je tako aktivna kot pasivna veščina: vaš lik lahko poskuša Poslušati sumljive hrupe ali pa igralni mojster zahteva mete za Poslušanje, kadar je primerno. Poslušanje nasprotuje Prikradanju za reševanje poskusov tihotapljenja mimo previdnega ali neprevidnega poslušalca. Igralni mojster se lahko odloči, da opravi mete za Poslušanje skrivaj in vas obvesti o rezultatu, da se izogne razkritju česar koli, če met spodleti.
+**Sistemske opombe:** Poslušanje je tako aktivna kot pasivna spretnost: vaš lik lahko poskuša Poslušati sumljive zvoke, ali pa igralni vodja zahteva mete za Poslušanje, kadar je to primerno. Poslušanju postavite nasproti Prikritost, da razrešite poskuse tihotapljenja mimo previdnega ali nepazljivega poslušalca. Igralni vodja se lahko odloči, da mete za Poslušanje opravi skrivaj in vas obvesti o rezultatu, da ne bi v primeru neuspešnega meta razkril česar koli.
 
 ### Pismenost (razno)
 
-**Osnovna možnost:** 00 % ali enako jeziku (lasten/drugi) (glejte spodaj)
+**Osnovna možnost:** 00 % ali enako Jeziku (lasten/drugi) (glej spodaj)
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Sposobnost branja in pisanja se v sodobni dobi jemlje kot samoumevna: v prejšnjih obdobjih sta bila branje in pisanje izdelka elitnega izobraževanja in znaka razlikovanja ali statusa. V sodobnih družbah je osnovna možnost za Pismenost enaka likovi osnovi Jezik (lasten) ali (drugi), razen če je želeno drugače. Napak pomeni katastrofalno nerazumevanje, neuspeh pomeni, da se pomen izgubi, uspehi prinesejo kritične informacije ali nianse, celo ugled za ustvarjeno delo.
+Sposobnost branja in pisanja se v moderni dobi jemlje kot samoumevna: v preteklih obdobjih sta bili branje in pisanje plod elitne izobrazbe in znak razlikovanja ali statusa. V modernih družbah je osnovna možnost za Pismenost enaka osnovnemu Jeziku (lasten) ali (drugi), razen če je določeno drugače. Padec pomeni katastrofalno nerazumevanje, neuspeh pomeni, da je pomen izgubljen, uspehi prinesejo kritične informacije ali nianse, celo ugled za ustvarjeno delo.
 
-**Specialnosti:** Po jeziku. Vsaka specialnost velja za en sam pisni jezik; dodatni jeziki so ločene specialnosti Pismenosti. V sodobnih družbah je Pismenost vedno enaka vaši veščini Jezik.
+**Specialnosti:** Po jezikih. Vsaka specialnost velja za en sam pisni jezik; dodatni jeziki so ločene specialnosti Pismenosti. V modernih družbah je Pismenost vedno enaka vaši spretnosti Jezik.
 
-**Opombe k sistemu:** Razumevanje nejasnih narečij ali antičnih različic pisnega jezika je težko. Kompleksni ali dolgi dokumenti (kot so knjige) z več pomembnimi točkami lahko zahtevajo več metov za Pismenost, po enega za vsako točko.
+**Sistemske opombe:** Razumevanje nejasnih narečij ali starih različic pisnega jezika je Težavno. Kompleksni ali dolgi dokumenti (kot so knjige) z več poudarki lahko zahtevajo več metov za Pismenost, po enega za vsako točko.
 
-### Borilne veščine
+### Borilne veščine (Martial Arts)
 
 **Osnovna možnost:** 01 %
 
-**Kategorija:** Bojne
+**Kategorija:** Bojna
 
-To predstavlja študij in mojstrstvo določenega borilnega sloga. Uporabite to veščino za izvajanje specifičnih potez in udarcev, ki tarči povzročijo maksimalno škodo. Borilne veščine se vedno uporabljajo v kombinaciji z drugo veščino: Pretepanje, Bližinsko orožje, Izstrelno orožje ali Grabljenje, kot je primerno. Ta veščina ni potrebna za izvajanje teh napadov – predstavlja večjo stopnjo usposabljanja, ki omogoča večjo učinkovitost.
+To predstavlja študij in mojstrstvo določenega sloga bojevanja. Uporabite to spretnost za izvajanje posebnih potez in udarcev, ki tarči povzročijo maksimalno škodo. Borilne veščine se vedno uporabljajo v kombinaciji z drugo spretnostjo: pretepanjem, orožjem za bližinski boj, orožjem na daleč ali prerivanjem, kot je primerno. Ta spretnost ni nujna za izvajanje teh napadov – predstavlja višjo raven usposobljenosti, ki omogoča večjo učinkovitost.
 
-**Specialnosti:** Po tradiciji borilnih veščin: boks, capoeira, escrima, sabljanje, jeet kun do, karate, kenjutsu, kickboxing, kung fu, kyujutsu, pugilizem, savate itd. Igralni mojster lahko omeji tipe bojnih veščin, ki jih je mogoče seznaniti z Borilno veščino, na primer z dovoljenjem samo Izstrelnega orožja (lok) s kyujutsujem.
+**Specialnosti:** Po tradiciji borilnih veščin: boks, capoeira, escrima, sabljanje, jeet kune do, karate, kenjutsu, kickboks, kung fu, kyujutsu, pugilizem, savate itd. Igralni vodja lahko omeji vrste bojnih spretnosti, ki jih je mogoče združiti z Borilnimi veščinami, na primer tako, da dovoli le orožja na daleč (lok) s kyujutsujem.
 
-**Učinki:** Borilne veščine se pri izvajanju napada ne mečejo ločeno. Mečite proti primarni veščini in rezultat primerjajte z veščino Borilne veščine. Rezultati imajo te učinke:
+**Učinki:** Borilne veščine se pri izvajanju napada ne mečejo ločeno. Mečite proti primarni spretnosti in rezultat primerjajte s spretnostjo Borilne veščine. Rezultati imajo naslednje učinke:
 
-* **Napak:** Uporabite ustrezen rezultat napake (glejte tabele napada in napak v *Poglavju šest: Boj*).
-* **Neuspeh:** Če je rezultat meta nad stopnjo veščine Borilne veščine, vendar še vedno enak ali pod bojno veščino, napad zadene normalno. Napadi, vrženi nad bojno veščino, zgrešijo, ne glede na stopnjo veščine Borilne veščine.
-* **Uspeh:** Če je rezultat meta manjši ali enak tako Borilni veščini kot bojni veščini, mečite za osnovno škodo dvakrat in seštejte rezultat. Modifikator škode vašega lika se nikoli ne podvoji.
-* **Poseben:** Kot zgoraj. Za poseben uspeh se dodatni met za osnovno škodo doda učinkom posebnega rezultata bojne veščine, če obstaja.
-* **Kritičen:** Kot zgoraj. Če je bojni met kritičen uspeh, se zaščita oklepa tarče (naravna ali nošena) ignorira in dodatni met za osnovno škodo se doda učinkom posebnega rezultata bojne veščine, če obstaja.
+* **Padec (Fumble):** Uporabite ustrezen rezultat padca (glej tabele napadov in padcev v šestem poglavju: Boj).
+* **Neuspeh:** Če je rezultat meta nad stopnjo spretnosti Borilne veščine, a še vedno enak ali manjši od bojne spretnosti, napad zadene normalno. Napadi, vrženi nad bojno spretnostjo, zgrešijo, ne glede na stopnjo spretnosti Borilne veščine.
+* **Uspeh:** Če je rezultat meta manjši ali enak tako Borilnim veščinam kot bojni spretnosti, dvakrat mečite za osnovno škodo in rezultat seštejte. Modifikator škode vašega lika se nikoli ne podvoji.
+* **Poseben:** Kot zgoraj. Za poseben uspeh se dodaten met za osnovno škodo doda k učinkom posebnega rezultata bojne spretnosti, če ta obstaja.
+* **Kritičen:** Kot zgoraj. Če je bojni met kritičen uspeh, se zaščita oklepa tarče (naravna ali nošena) ignorira in dodaten met za osnovno škodo se doda k učinkom posebnega rezultata bojne spretnosti, če ta obstaja.
 
-**Opombe k sistemu:** Veščina Borilne veščine deluje v povezavi z eno drugo bojno veščino in običajno z ozkim razponom specialnosti za to veščino. Ta moč se lahko uporablja v povezavi z mutacijo Naravna oborožitev in močjo Nenaorožen boj.
+**Sistemske opombe:** Spretnost Borilne veščine deluje v povezavi z eno drugo bojno spretnostjo in običajno z ozkim naborom specialnosti za to spretnost. Ta moč se lahko uporablja v povezavi z mutacijo Naravno orožje in močjo Nenoroženi boj.
 
-Če je v krogu izvedenih več napadov, mora napadalec ustrezno razporediti veščino Borilne veščine, jo razdeliti po želji med več napadov ali jo uporabiti samo za en napad.
+Če se v krogu izvede več napadov, mora napadalec ustrezno razporediti spretnost Borilne veščine, tako da jo po želji razdeli med več napadov ali jo uporabi le za en sam napad.
 
-Na primer: *če ima vaš lik Pretepanje 120 % in Borilne veščine 46 % in izvaja dva napada pri 60 % v krogu, morate izbrati razdelitev veščine Borilne veščine med ta dva napada (23 % vsak ali neka kombinacija, ki skupaj znaša 46 %) ali izbrati, da se uporabi samo za enega od napadov.*
+Na primer, *če ima vaš lik Pretepanje 120 % in Borilne veščine 46 % ter izvaja dva napada pri 60 % v krogu, se morate odločiti, da razdelite spretnost Borilne veščine med ta dva napada (23 % vsak ali kakšna kombinacija, ki skupaj znaša 46 %) ali pa se odločite, da jo uporabite le za enega od napadov.*
 
-Zaradi njene relativne moči lahko igralni mojster odloči, da je začetna stopnja veščine v tej veščini omejena, da so povečanja te veščine lahko omejena na usposabljanje namesto na normalne izkušnje, da je usposabljanje lahko neverjetno težko pridobiti ali vse tri te pogoje.
+Zaradi njene relativne moči lahko igralni vodja odloči, da je začetna stopnja te spretnosti omejena, da so povečanja te spretnosti omejena na trening namesto na običajne izkušnje, da je trening izjemno težko pridobiti, ali pa vse troje.
 
 ### Medicina
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino za diagnosticiranje in zdravljenje resnih poškodb, zdravljenje bolezni, boj proti zastrupitvam in podajanje splošnih zdravstvenih priporočil, pa tudi za izvajanje kirurgije in svetovanje dolgoročne oskrbe za kronične zdravstvene težave.
+Uporabite to spretnost za diagnosticiranje in zdravljenje resnih poškodb, zdravljenje bolezni, odpravljanje zastrupitev in podajanje splošnih zdravstvenih priporočil, pa tudi za izvajanje operacij in svetovanje pri dolgotrajni oskrbi kroničnih zdravstvenih stanj.
 
 **Učinki:** Medicina ima specifične rezultate:
 
-* **Napak:** Pacient prejme 1 splošno zadetno točko (za poškodbe) med zdravljenjem poškodb ali izgubi točko karakteristike (za strupe ali bolezen) in njegovo stanje ostane nespremenjeno.
+* **Padec (Fumble):** Pacient prejme 1 splošno točko življenja škode (pri poškodbah) med zdravljenjem poškodb, ali izgubi točko značilnosti (pri zastrupitvah ali boleznih), njegovo stanje pa ostane nespremenjeno.
 * **Neuspeh:** Stanje pacienta se ne spremeni in drugi poskus se lahko izvede šele naslednji dan.
 * **Uspeh:** Izberite enega od naslednjih učinkov (izbira igralca):
-  * Kateri koli učinek uspešnega meta za Prvo pomoč.
-  * Stopnja zdravljenja pacienta se podvoji z 1D3 na 2D3 zadetne točke na teden.
-  * Tekoča škoda karakteristike ali zadetnih točk zaradi strupa ali bolezni se zaustavi.
-  * Zastrupljen ali obolel lik se stabilizira in si opomore 1D3–1 zadetnih točk ali točk karakteristike na teden. Ta rezultat je mogoče izbrati le enkrat na teden zdravljenja.
-* **Poseben:** Kot zgoraj, vendar se poškodba zaceli za 2D3 zadetne točke ali si opomore 1D3 točk karakteristike.
-* **Kritičen:** Kot zgoraj, vendar se rana ali poškodba zaceli za 1D3+3 zadetne točke ali si opomore 1D3+1 točk karakteristike.
+    * Kateri koli učinek uspešnega meta za Prvo pomoč.
+    * Hitrost celjenja pacienta se podvoji z 1D3 na 2D3 točk življenja na teden.
+    * Tekoča škoda značilnosti ali točk življenja zaradi zastrupitve ali bolezni se zaustavi.
+    * Zastrupljen ali bolan lik se stabilizira in okreva 1D3–1 točk življenja ali točk značilnosti na teden. Ta rezultat lahko izberete le enkrat na teden zdravljenja.
+* **Poseben:** Kot zgoraj, vendar se poškodba zaceli za 2D3 točk življenja ali pa se povrne 1D3 točk značilnosti.
+* **Kritičen:** Kot zgoraj, vendar se rana ali poškodba zaceli za 1D3+3 točk življenja ali pa se povrne 1D3+1 točk značilnosti.
 
-**Opombe k sistemu:** Vsaka uporaba Medicine velja za eno bolezen: ko je enkrat zdravljena in popolnoma ozdravljena, nadaljnji uspešni meti za Medicino nimajo nobenega učinka. Druge rane ali bolezni pa se lahko zdravijo. Nevarni ali nehigienski pogoji lahko naredijo mete za Medicino težke. Posebna oprema ali zdravila lahko dodajo do +20 % k stopnji veščine, medtem ko futuristična medicinska tehnologija (umetna razpršilna koža, medicinski skenerji, nanotehnični zdravilci) naredi mete za Medicino lahke. Zdravljenje običajnih in življenjsko nevarnih bolezni je samodejno.
+**Sistemske opombe:** Vsaka uporaba Medicine velja za eno bolezen: ko je bila ta zdravljena in popolnoma ozdravljena, nadaljnji uspešni meti Medicine nimajo učinka. Druge rane ali bolezni pa se lahko zdravijo. Nevarni ali nehigienski pogoji lahko naredijo mete za Medicino Težavne. Posebna oprema ali zdravila lahko dodajo do +20 % k stopnji spretnosti, medtem ko futuristična medicinska tehnologija (umetna koža v spreju, medicinski skenerji, nanotehnološki zdravilci) naredi mete za Medicino Lahke. Zdravljenje običajnih in ne življenjsko nevarnih bolezni je Samodejno.
 
-### Bližinsko orožje (razno)
+### Orožje za bližinski boj (razno)
 
-**Osnovna možnost:** Po specialnosti orožja
+**Osnovna možnost:** Kot določa specialnost orožja
 
-**Kategorija:** Bojne
+**Kategorija:** Bojna
 
-Uporabite to veščino za uporabo določene vrste orožja v boju iz bližine, bodisi za napad bodisi za obrambo.
+Uporabite to spretnost za vihtenje določene vrste orožja v boju iz bližine, bodisi pri napadu ali pariranju.
 
-**Specialnosti:** Specialnosti so enakovredne razredom orožja. Glejte **Razredi orožja** v *Poglavju osem: Oprema*. Vsaka specialnost velja samo za orožje iz te kategorije orožja: vendar lahko igralni mojster dovoli uporabo podobnega razreda orožja kot težko. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo veščino s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
+**Specialnosti:** Specialnosti so enakovredne razredom orožja. Glej **Razredi orožja** v osmem poglavju: Oprema. Vsaka specialnost velja le za orožja iz te kategorije orožja: vendar lahko igralni vodja dovoli uporabo podobnega razreda orožja kot Težavno. Če ste uspešni, opravite preverjanje izkušenj. Če je met za izkušnje uspešen, začnite novo spretnost s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak napada z bližinskim orožjem** in **Tabelo napak obrambe z bližinskim orožjem** v *Poglavju šest: Boj*.
+**Učinki:** Glej **Matriko napada in obrambe** ter **Tabelo padcev pri napadu z orožjem za bližinski boj** in **Tabelo padcev pri pariranju z orožjem za bližinski boj** v šestem poglavju: Boj za specifične učinke.
 
-**Opombe k sistemu:** Vaš lik lahko poskusi več kot eno obrambo na krog, vendar se vsak met po prvem izvede s kumulativno kaznijo –30 %. Po presoji igralnega mojstra lahko vaš lik uporablja orožje iz sorodne ali podobne kategorije orožja, pri čemer je met težek.
+**Sistemske opombe:** Vaš lik lahko poskusi več kot eno pariranje na krog, vendar se vsak met po prvem izvede pri kumulativnem –30 %. Po presoji igralnega vodje lahko vaš lik vihti orožje iz sorodnega ali podobnega razreda orožja, pri čemer je met Težaven.### Orožje na daljavo (različno)
 
-### Izstrelno orožje (razno)
+**Osnovna možnost:** Kot je določeno pri specializaciji orožja
 
-**Osnovna možnost:** Po specialnosti orožja
+**Kategorija:** Boj
 
-**Kategorija:** Bojne
+To uporabite za rokovanje s katerim koli ročnim orožjem na daljavo, ki se poganja samo, kot so loki, samostreli, metanjske sekire, kopja, metalne zvezde, sulice, pihalniki, podvodne puške ali celo bumerangi. Za granate uporabite spretnost Metanje.
 
-Uporabite to za uporabo katerega koli ročnega samopogonskega izstrelnega orožja, kot so loki, samostreli, metalne sekire, kopja, metalne zvezde, sulice, pihalniki, podvodne puške ali celo bumerangi. Za granate uporabite Metanje.
+**Specializacije:** Specializacije so enakovredne razredom orožja. Glejte **Razredi orožja** v osmem poglavju: Oprema. Vsaka specializacija velja samo za orožje iz te kategorije: vendar lahko mojster igre dovoli uporabo podobnega razreda orožja, kot da bi bilo to *Težko*. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo spretnost s specializacijo pri tej oceni, plus pridobljene izkušnje.
 
-**Specialnosti:** Specialnosti so enakovredne razredom orožja. Glejte **Razredi orožja** v *Poglavju osem: Oprema*. Vsaka specialnost velja samo za orožje iz te kategorije orožja: vendar lahko igralni mojster dovoli uporabo podobnega razreda orožja kot težko. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo veščino s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
+**Učinki:** Glejte **Matriko napada in obrambe** ter **Tabelo nerodnosti orožja na daljavo** za specifične učinke. Puščice in koničasto orožje običajno prebodejo. Če želite izvedeti, kam gre zgrešen napad z orožjem na daljavo, glejte spretnost Metanje.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak izstrelnega orožja**. Puščice in koničasto orožje običajno prebodejo. Če želite vedeti, kam gre zgrešen napad z izstrelnim orožjem, glejte veščino Metanje.
-
-**Opombe k sistemu:** Vso izstrelno orožje ima minimalno zahtevo STR in DEX za uporabo orožja, kot je navedeno v *Poglavju osem: Oprema*. Običajno se napadalčev modifikator škode prepolovi za izstrelno orožje, za popolnoma samopogonsko orožje (pihalniki, samostreli itd.) pa se modifikator škode ne uporablja. Izstrelno orožje se lahko uporablja za namerjene napade.
+**Sistemske opombe:** Vse orožje na daljavo ima za uporabo zahtevano minimalno MOČ in SPR, kot je navedeno v osmem poglavju: Oprema. Običajno se napadalčev modifikator škode prepolovi za orožje na daljavo, za popolnoma samopogonsko orožje (pihalniki, samostreli itd.) pa se modifikator škode ne uporablja. Orožje na daljavo se lahko uporablja za usmerjene napade.
 
 ### Navigacija
 
 **Osnovna možnost:** 10 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za iskanje poti do cilja, bodisi s kompasom, pomorskimi kartami, zvezdami ali preprosto z uporabo zaznavanja, spomina in intuicije kot vodila. Napak pomeni, da je nekdo brezupno izgubljen in je naslednji met kogar koli, da bi se našel, *težek*. Neuspeh pomeni zamude in upočasnjeno hitrost potovanja, medtem ko uspehi pomenijo učinkovito iskanje poti in celo doseganje boljšega napredka od pričakovanega.
+To spretnost uporabite za iskanje poti do cilja, ne glede na to, ali uporabljate kompas, pomorske karte, zvezde ali preprosto uporabljate zaznavanje, spomin in intuicijo kot vodilo. Nerodnost pomeni, da je oseba brezupno izgubljena, vsak nadaljnji met katere koli osebe, da bi se našla, pa je *Težek*. Neuspeh pomeni zamude in upočasnjeno hitrost potovanja, medtem ko uspehi pomenijo učinkovito iskanje poti in celo boljši napredek od pričakovanega.
 
-**Opombe k sistemu:** Poskusite met na veščino Navigacija vsake štiri ure potovanja. Uporaba zemljevida ali kompasa lahko izboljša stopnjo veščine do +20 %. Navigacija v brezlični pokrajini (na morju, v temi ali slabem vremenu, v puščavi ali gosti džungli) brez instrumentov ali zemljevidov je težka. Napredni navigacijski pripomočki (tehnologija globalnega pozicioniranja itd.) ali seznanjenost z območjem naredijo poskuse Navigacije lahke.
+**Sistemske opombe:** Poskusite opraviti met za spretnost Navigacija na vsake štiri ure tekočega potovanja. Uporaba zemljevida ali kompasa lahko izboljša rang spretnosti do +20 %. Navigacija v neprepoznavni pokrajini (na morju, v temi ali slabem vremenu, v puščavi ali v gostem džungli) brez instrumentov ali zemljevidov je *Težka*. Napredni navigacijski pripomočki (tehnologija globalnega pozicioniranja itd.) ali poznavanje območja naredijo poskuse navigacije *Lahke*.
 
-### Obramba (razno)
+### Pariranje (Parry)
 
-**Osnovna možnost:** Po specialnosti orožja
+**Osnovna možnost:** Kot je določeno pri specializaciji orožja
 
-**Kategorija:** Bojne
+**Kategorija:** Boj
 
-Uporabite to veščino za odbijanje prihajajočega napada, če se ga ne obravnava z drugo veščino. Ta veščina je podrobno obravnavana v Obrambi in Matriki napada in obrambe. Igralni mojster lahko odloči, da določenega napada ni mogoče odbiti, na primer od bistveno večjega napadalca (dvojno ali večje od SIZ branilca, na primer) ali ko napadalec uporablja napad na območje ali zamah.
+To spretnost uporabite za odbijanje prihajajočega napada, če ga ne naslovite z drugo spretnostjo. Ta spretnost je podrobno zajeta v razdelku Pariranje in Matrika napada in obrambe. Mojster igre lahko odloči, da določenega napada ni mogoče parirati, na primer pri napadalcu, ki je bistveno večji (na primer dvakrat večji ali večji od VEL branilca), ali ko napadalec uporablja napad na območju ali pometanje.
 
-**Specialnosti:** Specialnosti so enakovredne razredom orožja ali ščitov. Glejte **Razredi orožja** v *Poglavju osem: Oprema*. Vsaka specialnost velja samo za orožje ali ščite iz te kategorije orožja: vendar lahko igralni mojster dovoli uporabo podobnega razreda orožja kot težko. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo veščino s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
+**Specializacije:** Specializacije so enakovredne razredom orožja ali ščitov. Glejte **Razredi orožja** v osmem poglavju: Oprema. Vsaka specializacija velja samo za orožje ali ščite iz te kategorije: vendar lahko mojster igre dovoli uporabo podobnega razreda orožja, kot da bi bilo to *Težko*. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo spretnost s specializacijo pri tej oceni, plus pridobljene izkušnje.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabele napak obrambe z bližinskim orožjem** v *Poglavju šest: Boj*.
+**Učinki:** Glejte **Matriko napada in obrambe** ter **Tabele nerodnosti pri pariranju z orožjem za bližnji boj** v šestem poglavju: Boj za specifične učinke.
 
-**Opombe k sistemu:** Več kot eno obrambo se lahko poskusi na krog, vendar je vsaka po prvi pri kumulativni –30 %. Ta veščina se lahko ignorira v korist uporabe primarnega orožja ali veščine ščita, če je to želeno. Po presoji igralnega mojstra se lahko brani z orožjem ali ščitom iz sorodne ali podobne kategorije, pri čemer je met težek.
+**Sistemske opombe:** Na krog se lahko poskusi več kot eno pariranje, vendar ima vsako po prvem kumulativno –30 % kazni. To spretnost lahko po želji prezrete v korist uporabe primarnega orožja ali spretnosti s ščitom. Po presoji mojstra igre lahko parirate z orožjem ali ščitom iz sorodne ali podobne kategorije, pri čemer je met *Težak*.
 
-### Nastopanje (razno)
+### Nastopanje (različno)
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino za izvajanje glasbe, bodisi igranje, ples, igranje na inštrument, petje ali druge oblike umetniškega izražanja z nastopanjem. Napak je ponižanje, neuspeh je nenavdihujoč, medtem ko uspehi prinesejo pozitivno pozornost, vzklike in morda kritično odobravanje ter finančne nagrade. Če je posneto in distribuirano, lahko še naprej navdihuje in zasluži še dolgo po izvirnem nastopu.
+To spretnost uporabite za glasbeni nastop, bodisi igranje, ples, igranje na inštrument, petje ali druge oblike umetniškega izražanja z nastopanjem. Nerodnost je ponižanje, neuspeh je nezanimiv, medtem ko uspehi prinesejo pozitivno pozornost, aplavz in morda kritiško hvalo ter finančne nagrade. Če je posneto in razširjeno, lahko še naprej navdihuje in prinaša zaslužek še dolgo po prvotnem nastopu.
 
-**Specialnosti:** Igranje, Vodenje orkestra, Ples, Žongliranje, Govorništvo, Igranje na inštrument (podspecialnost), Recitiranje, Ritual, Petje itd.
+**Specializacije:** Igranje, Dirigiranje orkestra, Ples, Žongliranje, Govorništvo, Igranje na inštrument (podspecializacija), Recitiranje, Ritual, Petje itd.
 
-**Opombe k sistemu:** Uspešna uporaba Nastopanja (ritual) lahko poveča moč magije ali zagotovi dodatne ugodnosti, po presoji igralnega mojstra.
+**Sistemske opombe:** Uspešna uporaba Nastopanja (Ritual) lahko poveča magično moč ali zagotovi dodatne ugodnosti, po presoji mojstra igre.
 
 ### Prepričevanje
 
 **Osnovna možnost:** 15 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino, da nekoga prepričate, da je določena ideja ali prepričanje pravilno, točno ali kako drugače sprejemljivo, ne glede na njihovo prvotno mnenje (če obstaja), bodisi s sokratsko logiko, strukturirano debato, ognjenim govorništvom, empatijo ali surovo ustrahovanjem. Poslušalce se lahko prepriča, da ukrepajo ali ugodijo prošnji. Kot pri Hitrem govoru je resnica nepomembna. Za razliko od Hitrega govora traja učinek uspešnega prepričevanja nedoločen čas, dokler drug met za Prepričevanje ali dramatična izkušnja ne spremeni mnenja subjekta. Napak pomeni, da lahko subjekt postane sovražen, sprejme nasprotje želenega mnenja. Neuspeh je neprepričljiv. Uspeh premakne njihovo mnenje, vrhunski uspehi pa prinesejo še boljše rezultate.
+To spretnost uporabite, da nekoga prepričate, da je določena ideja ali prepričanje pravilno, točno ali kako drugače sprejemljivo, ne glede na njihovo prvotno mnenje (če sploh kakšnega imajo), bodisi s sokratsko logiko, strukturirano debato, ognjenim govorništvom, empatijo ali surovo ustrahovanjem. Poslušalce se lahko prepriča, da ukrepajo ali ugodijo prošnji. Tako kot pri Hitrem govorjenju (Fast Talk) resnica ni pomembna. Za razliko od Hitrega govorjenja učinki uspešnega prepričevanja trajajo neomejeno dolgo, dokler drug met za Prepričevanje ali dramatična izkušnja ne spremeni mnenja subjekta. Nerodnost pomeni, da lahko subjekt postane sovražen in sprejme nasprotje želenega mnenja. Neuspeh ni prepričljiv. Uspeh spremeni njihovo mnenje, vrhunski uspehi pa prinesejo še boljše rezultate.
 
-**Opombe k sistemu:** Uporaba Prepričevanja čez jezikovno oviro (če imata oba govorca manj kot 50 % v jeziku) je težka, prav tako kot prepričevanje nekoga o nečem, kar nasprotuje njegovi osebnosti ali temeljnim prepričanjem. Igralni mojster lahko nagradi učinkovite argumente ali dobro igranje vlog z bonusom do +20 %. Odvisno od okoliščin lahko Prepričevanje traja minute, ure ali celo dni, dolgotrajni napori pa lahko zahtevajo več metov za dokončanje.
+**Sistemske opombe:** Uporaba Prepričevanja prek jezikovne pregrade (če imata oba govorca manj kot 50 % znanja jezika) je *Težka*, prav tako prepričevanje nekoga o nečem, kar nasprotuje njegovi osebnosti ali temeljnim prepričanjem. Mojster igre lahko nagradi učinkovite argumente ali dobro igranje vlog z bonusom do +20 %. Odvisno od okoliščin lahko Prepričevanje traja minute, ure ali celo dni, podaljšani napori pa lahko zahtevajo več metov za dokončanje.
 
-### Pilotiranje (razno)
+### Upravljanje (različno)
 
 **Osnovna možnost:** 01 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizično
 
-Uporabite to veščino za krmiljenje, manevriranje in nadzor vozila v zraku, na ali pod vodo ali v vesolju. Večja vozila lahko zahtevajo več pilotov, met pa je treba opraviti vsake štiri ure, ko ni v boju, in enkrat na krog med bojem ali pri izvajanju vozniških manevrov.
+To spretnost uporabite za krmiljenje, manevriranje in nadzor vozila v zraku, na ali pod vodo oziroma v vesolju. Večja vozila lahko zahtevajo več pilotov, met pa je treba opraviti na vsake štiri ure, ko niste v boju, in enkrat na krog med bojem ali pri izvajanju manevrov z vozilom.
 
-**Specialnosti:** Letalo, Zračna ladja, Balon, Čoln, Helikopter, Hovercraft, Reaktivno letalo, Reaktivni nahrbtnik, Vesoljska ladja, Podmornica itd. Po presoji igralnega mojstra lahko pilot pilotira plovilo s podobno specialnostjo, kot če bi bilo težko. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo veščino s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
+**Specializacije:** Letalo, Zračna ladja, Balon, Čoln, Helikopter, Vozilo na zračni blazini, Reaktivno letalo, Reaktivni nahrbtnik, Vesoljska ladja, Podmornica itd. Po presoji mojstra igre lahko pilot upravlja plovilo s podobno specializacijo, kot da bi bilo to *Težko*. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo spretnost s specializacijo pri tej oceni, plus pridobljene izkušnje.
 
-**Učinki:** Večina vsakodnevnega pilotiranja je samodejna – metite le v neugodnih pogojih ali za izjemne situacije. Napak skoraj neizogibno povzroči zastoj motorja ali celo strmoglavljenje, neuspeh pomeni, da cilj ni dosežen v želenem časovnem okviru, uspeh vas pripelje tja, kamor želite, vrhunski uspehi pa prinesejo bolj strokovno pilotiranje in rezultate. Za več informacij glejte **Zračni boj** in **Lovljenja** ter **Tabelo težav pri lovljenju** za nesreče.
+**Učinki:** Večina vsakodnevnega upravljanja je samodejna – mečite le v neugodnih razmerah ali v izrednih situacijah. Nerodnost skoraj neizogibno povzroči zastoj motorja ali celo strmoglavljenje, neuspeh pomeni, da cilj ni dosežen v želenem časovnem okviru, uspeh vas pripelje tja, kamor želite, vrhunski uspehi pa prinesejo bolj strokovno upravljanje in rezultate. Za več informacij glejte **Zračni boj** in **Pregoni**, za nezgode pa **Tabelo težav pri pregonu**.
 
 ### Projekcija
 
-**Osnovna možnost:** DEX×2 %
+**Osnovna možnost:** SPR×2 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizično
 
-Ta neobvezna veščina se uporablja za like, ki uporabljajo moči, za ciljanje napadov, ki temeljijo na močeh. Opisana je v *Poglavju štiri: Moči* in se uporablja le v igrah z ustreznimi močmi.
+To neobvezno spretnost uporabljajo liki z močmi za usmerjanje napadov, ki temeljijo na močeh. Opisana je v *Četrtem poglavju: Moči* in se uporablja samo v igrah z ustreznimi močmi.
 
 ### Psihoterapija
 
 **Osnovna možnost:** 01 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalno
 
-Uporabite to veščino za diagnosticiranje in zdravljenje duševnih bolezni ali travm, zlasti za obnovitev izgubljenih točk Razuma. V praktičnem smislu se Psihoterapija lahko uporabi za predpisovanje zdravil in medicinskih pripravkov, ki lahko sčasoma suspendirajo, zdravijo in celo obrnejo hude psihoze ali duševne bolezni. Zdravila in intenzivno spraševanje lahko sondirajo globine poškodovane psihe in vrnejo upanje iz groze in obupa. Za več informacij glejte **Razum**.
+To spretnost uporabite za ocenjevanje in zdravljenje duševnih bolezni ali travm, zlasti za obnavljanje izgubljenih točk Razuma (Sanity). V praktičnem smislu se Psihoterapija lahko uporablja za predpisovanje zdravil in medikamentov, ki lahko sčasoma ustavijo, zdravijo in celo obrnejo hude psihoze ali duševne bolezni. Zdravila in intenzivno spraševanje lahko raziščejo globine poškodovane psihe in prinesejo upanje iz groze in obupa. Za več informacij glejte **Razum**.
 
-**Učinki:** Psihoterapija ima specifične učinke:
+**Učinki:** Psihoterapija ima posebne učinke:
 
-* **Napak:** Zgodi se eden od naslednjih (izbira igralnega mojstra):
-  * Pacient mora opraviti nov met za Razum, za izgubo 1/1D3 RAZ.
-  * Povečajte stopnjo POW ene od pacientovih nedoločenih norosti za +1.
-  * Pacient zamenja eno nedoločeno norost za drugo: fobija se lahko zmanjša, vendar za ceno odvisnosti od zdravil za stabilizacijo razpoloženja.
-* **Neuspeh:** Zdravljenje nima učinka. Pacient ostane enak.
-* **Uspeh:** Zdravljenje prime, z enim od naslednjih učinkov:
-  * Po mesecu zdravljenja pacient obnovi 1D3–1 točk RAZ. Ta veščina ne more povečati pacientovega RAZ nad POW×5 minus morebitne ustrezne kazni za znanje o bogokletni ali neizrekljivi grozi. Glejte Maksimalni razum za podrobnosti.
-  * Vir nedoločene norosti je pravilno diagnosticiran.
-  * Ko je vir nedoločene norosti diagnosticiran, se lahko njegov POW zmanjša za –1 po enem mesecu zdravljenja. Za vsako zdravljeno duševno bolezen je treba opraviti ločene mete.
-* **Poseben:** Kot zgoraj, vendar je pridobitev RAZ 1D3 ali zmanjšanje POW za –2.
-* **Kritičen:** Kot zgoraj, vendar je pridobitev RAZ 1D3+1 ali zmanjšanje POW za –1D3+1.
+* **Nerodnost:** Zgodi se nekaj od naslednjega (izbira mojstra igre):
 
-**Opombe k sistemu:** Ta veščina je primarno za igre, kjer se uporablja Razum. Zdravljenje zahteva štiri do pet ur terapije na mesec za vsako nedoločeno norost. Po presoji igralnega mojstra se Psihoterapija lahko uporabi za manipulacijo osebnostne lastnosti, podobno kot če bi bila RAZ rezultat, pri čemer se jo premakne pozitivno ali negativno za enako število točk.
+  * Pacient mora opraviti nov met za Razum, pri čemer izgubi 1/1D3 točke RAZ.
 
-### Popravilo (razno)
+  * Povečajte oceno ENE ene od pacientovih nedoločenih bolezni za +1.
+
+  * Pacient zamenja eno nedoločeno bolezen za drugo: fobija se lahko zmanjša, vendar za ceno odvisnosti od zdravil za stabilizacijo razpoloženja.
+
+* **Neuspeh:** Zdravljenje nima nobenega učinka. Pacient ostane enak.
+
+* **Uspeh:** Zdravljenje začne delovati z enim od naslednjih učinkov:
+
+  * Po mesecu zdravljenja pacient povrne 1D3–1 točk RAZ. Ta spretnost ne more povečati pacientovega RAZ nad ENE×5 minus kakršne koli ustrezne kazni za znanje o bogokletnih ali neizrekljivih grozotah. Za podrobnosti glejte Največji razum.
+
+  * Vir nedoločene bolezni je pravilno diagnosticiran.
+
+  * Ko je vir nedoločene bolezni diagnosticiran, se lahko njegova ENE zmanjša za –1 po enem mesecu zdravljenja. Za vsako zdravljeno duševno bolezen je treba opraviti ločene mete.
+
+* **Posebno:** Kot zgoraj, vendar je pridobitev RAZ 1D3 ali zmanjšanje ENE –2.
+
+* **Kritično:** Kot zgoraj, vendar je pridobitev RAZ 1D3+1 ali zmanjšanje ENE –1D3+1.
+
+**Sistemske opombe:** Ta spretnost je primarno namenjena igram, kjer se uporablja Razum. Zdravljenje zahteva štiri do pet ur terapije na mesec za vsako nedoločeno bolezen. Po presoji mojstra igre se lahko Psihoterapija uporabi za manipulacijo osebnostne lastnosti, podobno kot če bi bila to ocena RAZ, s premikanjem pozitivno ali negativno za isto število točk.
+
+### Popravilo (različno)
 
 **Osnovna možnost:** 15 %
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Oprema in drugi predmeti se poškodujejo ali prenehajo delovati. Uporabite Popravilo, da jih popravite ali naredite majhne spremembe in prilagoditve.
+Oprema in drugi predmeti se poškodujejo ali prenehajo delovati. Uporabite Popravilo, da jih popravite ali naredite manjše modifikacije in prilagoditve.
 
-**Specialnosti:** Električno, Elektronsko, Inženiring, Hidroelektrično, Mehansko, Strukturno, Kvantno itd.
+**Specializacije:** Električno, Elektronsko, Inženirsko, Hidroelektrično, Mehansko, Strukturno, Kvantno itd.
 
-**Učinki:** Napak predmet še bolj poškoduje in bi lahko celo poškodoval tistega, ki poskuša popravilo (1D3 zadetne točke za oba, na primer) in naredi nadaljnja popravila težka. Neuspeh ne doseže ničesar, uspeh obnovi 1D3 zadetne točke in predmet postane spet uporaben ali se vrne v delujoče stanje. Vrhunski uspehi prinesejo podobne ugodnosti, morda z uporabo veščine Prva pomoč in presojo igralnega mojstra kot vodila. Kritičen uspeh lahko predmet celo malce izboljša, na primer dodajanje k skupnim zadetnim točkam, točkam oklepa ali dodajanje rahlega bonusa pri njegovi uporabi.
+**Učinki:** Nerodnost predmet še dodatno poškoduje in lahko celo poškoduje tistega, ki poskuša popravilo (na primer 1D3 točke zdravja za katerega koli), nadaljnja popravila pa postavi kot *Težka*. Neuspeh ne doseže ničesar, uspeh obnovi 1D3 točk zdravja in predmet postane spet uporaben ali se vrne v delujoče stanje. Vrhunski uspehi prinesejo podobne koristi, morda ob uporabi spretnosti Prva pomoč in presoji mojstra igre kot vodila. Kritični uspeh lahko predmet celo nekoliko izboljša, na primer z dodajanjem k njegovim skupnim točkam zdravja, točkam oklepa ali dodajanjem rahlega bonusa, ko se uporablja.
 
 ### Raziskovanje
 
 **Osnovna možnost:** 25 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za iskanje in prepoznavanje potencialnih virov informacij v knjižnici, arhivu ali omrežju. Uspešni meti prinesejo želene informacije iz knjig, dokumentov, člankov, podatkovnih baz, arhivov ali spletnih strani, pri čemer vrhunski uspehi podelijo dodatne ali bolj specifične informacije. Kljub širokemu naboru tipov virov so načela enaka. Poskus te veščine običajno vzame štiri ure, čeprav so elektronske metode veliko hitrejše. Napak vodi do katastrofalnega nerazumevanja in povzroči napačne informacije. Neuspeh zapravlja čas brez trdnih rezultatov ali prinese minimum informacij po dvakratni običajni količini časa.
+To spretnost uporabite za iskanje in prepoznavanje potencialnih virov informacij v knjižnici, arhivu ali omrežju. Uspešni meti prinesejo želene informacije iz knjig, dokumentov, člankov, podatkovnih bank, arhivov ali spletnih strani, pri čemer vrhunski uspehi prinesejo dodatne ali bolj specifične informacije. Kljub širokemu razponu vrst virov so načela enaka. Poskus te spretnosti običajno traja štiri ure, čeprav so elektronske metode veliko hitrejše. Nerodnost vodi do katastrofalnega nesporazuma in povzroči napačne informacije. Neuspeh zapravlja čas brez trdnih rezultatov ali zagotovi le najosnovnejše informacije po dvakratnem običajnem času.
 
-**Opombe k sistemu:** Igralcu mojstru svetujemo, da naj spodletel met za Raziskovanje vzame dlje časa, poda nekoliko zavajajoče ali zapletene informacije, sproži nekakšen alarm ali neželeno pozornost ali kakšno drugo oviro, namesto da le ne prinese nobenih rezultatov. Neuspeh v igrah redko prinaša užitek, za skrivnosti pa so nedostopni namigi dramatična slepa ulica.
+**Sistemske opombe:** Mojstru igre se svetuje, da neuspešen met za Raziskovanje traja dlje, poda rahlo zavajajoče ali zapletene informacije, sproži nekakšen alarm ali nezaželeno pozornost ali kakšen drug zastoj, namesto da preprosto ne poda nobenih rezultatov. Neuspeh je v igrah redko prijeten, pri skrivnostih pa so nedostopni namigi dramatična slepa ulica.
 
-### Jahanje (razno)
+### Jahanje (različno)
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino za jahanje, ravnanje in nego določene vrste žive živali. Z Jahanjem lahko vaš lik krmili goro skozi posebne manevre ali po razgibanem terenu, jo zvabi do najvišje hitrosti ali ohrani nadzor, če se vzpne ali spotakne. Napak povzroči izgubo nadzora nad goro, kar morda rezultira v padcu na tla za 1D6 zadetnih točk škode (splošno ali na naključno zadetno mesto). Uspešen met za Skakanje odšteje 1D6 od skupne škode, medtem ko gora zbeži z najvišjo hitrostjo. Neuspeh povzroči, da se žival upre, uspehi pa rezultirajo v tem, da deluje, kot je želeno, ali celo preseže pričakovanja. Vrhunski uspehi lahko prinesejo bonuse k bojnimi dejanjem med jahanjem.
+To spretnost uporabite za jahanje, obvladovanje in skrb za določeno vrsto žive živali. Z Jahanjem lahko vaš lik vodi goro skozi posebne manevre ali zahteven teren, jo spodbudi do najvišje hitrosti ali ohrani nadzor, če se vzpenja ali spotakne. Nerodnost povzroči izgubo nadzora nad goro, kar lahko povzroči padec na tla in 1D6 točk škode (splošno ali na naključno lokacijo zadetka). Uspešen met za Skakanje odšteje 1D6 od skupne škode, medtem ko gora zgalopira stran z najvišjo hitrostjo. Neuspeh povzroči, da se žival upre, uspehi pa prinesejo to, da izvaja želeno ali celo preseže pričakovanja. Vrhunski uspehi lahko prinesejo bonuse za bojne akcije med jahanjem.
 
-**Specialnosti:** Po tipu živali. Glejte *Poglavje enajst: Bitja* za primere gor. Po presoji igralnega mojstra se lahko podobna vrsta živali jaha, kot če bi bila težka. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo veščino s specialnostjo pri tej stopnji, plus pridobljene izkušnje.
+**Specializacije:** Po vrsti živali. Za primere gor glejte Enajsto poglavje: Bitja. Po presoji mojstra igre se lahko jaha podobno vrsto živali, kot da bi bilo to *Težko*. Če ste uspešni, opravite preverjanje izkušenj. Če je preverjanje izkušenj uspešno, začnite novo spretnost s specializacijo pri tej oceni, plus pridobljene izkušnje.
 
-**Opombe k sistemu:** Rešite dirke med enakimi pasmami živali z nasprotujočimi si preizkusi Jahanja. Boj in veščine Jahanja morajo biti 50 %+, da se lahko normalno borite v boju z goro. Če je veščina Jahanja manjša od 50 %, je potreben met za Jahanje vsak krog za ohranitev nadzora nad goro. Če je bojna veščina manjša od 50 %, so vsi napadi težki. Tudi če sta obe veščini višji od 50 %, za napade in obrambe uporabite nižjo od dveh stopenj veščin. Če gora pade, se zruši ali umre, ravnajte z jahačem, kot da bi bil vržen. Za več informacij glejte **Boj z goro**.
+**Sistemske opombe:** Dirke med istimi pasmami živali rešite z nasprotujočimi si meti za Jahanje. Boj in spretnosti Jahanja morajo biti 50 %+, da se lahko normalno borite v boju na konju. Če je spretnost Jahanja manjša od 50 %, je potreben met za Jahanje vsak krog, da ohranite nadzor nad goro. Če je spretnost boja manjša od 50 %, so vsi napadi *Težki*. Tudi če sta obe spretnosti višji od 50 %, za napade in pariranja uporabite nižjo od obeh ocen spretnosti. Če gora pade, se zruši ali umre, ravnajte z jezdecem, kot da bi bil vržen. Za več informacij glejte **Boj na konju**.
 
-### Znanost (razno)
+### Znanost (različno)
 
 **Osnovna možnost:** 01 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalno
 
-Uporabite to veščino za poznavanje znanstvenih informacij in načel z določenega področja ter za opazovanje pojavov in črpanje zaključkov na podlagi podatkov. Povezane informacije vključujejo zgodovino znanosti, seznanjenost z opremo in metodologijo ter zavedanje pomembnih osebnosti in miselnih šol v tej specialnosti.
+To spretnost uporabite za poznavanje znanstvenih informacij in načel s določenega področja ter za opazovanje pojavov in črpanje podatkovno utemeljenih zaključkov. Sorodne informacije vključujejo zgodovino znanosti, poznavanje opreme in metodologije ter zavedanje pomembnih osebnosti in miselnih šol v tej specializaciji.
 
-**Specialnosti:** Astronomija, Vedenjska znanost, Biologija, Botanika, Kemija (ali Alkemija), Kriptografija, Genetika, Geologija, Matematika, Meteorologija, Naravna zgodovina, Farmakologija, Fizika, Planetologija, Psihologija, Kvantna mehanika, Ksenobiologija, Zoologija itd. Po presoji igralnega mojstra se lahko veščina s sorodno specialnostjo meče, kot če bi bila težka, čeprav uspešen met ne prinese preverjanja izkušenj ali možnosti za začetek nove veščine s to specialnostjo.
+**Specializacije:** Astronomija, Vedenjska znanost, Biologija, Botanika, Kemija (ali Alkemija), Kriptografija, Genetika, Geologija, Matematika, Meteorologija, Naravoslovje, Farmakologija, Fizika, Planetologija, Psihologija, Kvantna mehanika, Ksenobiologija, Zoologija itd. Po presoji mojstra igre se lahko spretnost s sorodno specializacijo meče, kot da bi bilo to *Težko*, čeprav uspešen met ne prinese preverjanja izkušenj ali možnosti za začetek nove spretnosti s to specializacijo.
 
-**Opombe k sistemu:** Mnoge specialnosti Znanosti zahtevajo specializirano opremo, merilne instrumente, računalnike ali celo laboratorij. Meti za Znanost lahko vzamejo kjer koli od 30 minut do tednov ali mesecev, po presoji igralnega mojstra: štiri ure za eksperiment je dobro povprečje. Poskus meta za Znanost brez dovolj časa ali opreme je ali težek ali nemogoč.
+**Sistemske opombe:** Mnoge specializacije Znanosti zahtevajo specializirano opremo, merilne instrumente, računalnike ali celo laboratorij. Množenje za Znanost lahko traja od 30 minut do tednov ali mesecev, po presoji mojstra igre: štiri ure za eksperiment je dobro povprečje. Poskus meta za Znanost brez dovolj časa ali opreme je bodisi *Težek* ali *Nemogoč*.
 
-### Občutek
+### Zaznavanje (Sense)
 
 **Osnovna možnost:** 10 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Veščina primarno ureja okus, dotik in vonj; vendar se lahko razširi na nekatere manj znane druge čute (fizična usmerjenost, gravitacija, pritisk in ravnotežje, temperatura itd.). Uporabite jo za zaznavanje ali prepoznavanje določene vrste dražljaja, ki ni vid (Opazovanje) ali zvok (Poslušanje), kot je iskanje predmeta v temi z dotikom, prepoznavanje skrivnostnega vonja ali rahlega okusa, občutenje lasnega zloma itd. Po presoji igralnega mojstra se to lahko razširi celo na "šesti čut" ali intuicijo. Napak je katastrofalno zavajajoč ali razkriva popolno nevednost o dražljaju, neuspeh je preprost neuspeh pri zaznavanju, različne stopnje uspeha pa prinesejo bolj natančno zaznavanje.
+Spretnost primarno ureja okus, dotik in vonj; lahko pa se razširi na nekatere manj znane druge čute (fizična orientacija, gravitacija, pritisk in ravnotežje, temperatura itd.). Uporabite jo za zaznavanje ali prepoznavanje določene vrste dražljaja, ki ni vid (Opazovanje) ali zvok (Poslušanje), kot je iskanje predmeta v temi z dotikom, prepoznavanje skrivnostnega vonja ali rahlega okusa, čutenje lasaste razpoke itd. Po presoji mojstra igre se lahko to razširi celo na "šesti čut" ali intuicijo. Nerodnost je katastrofalno zavajajoča ali razkriva popolno nevednost o dražljaju, neuspeh je preprost neuspeh pri zaznavanju, različne stopnje uspeha pa prinesejo bolj natančno zaznavanje.
 
-**Opombe k sistemu:** Tako kot Poslušanje in Opazovanje je Občutek tako aktivna kot pasivna veščina: lahko zahtevate, da vaš lik opravi met za Občutek, ali pa igralni mojster zahteva met v ustreznih situacijah. Močni ali znani dražljaji so lahki meti za Občutek, medtem ko so nejasni ali neznani težki.
+**Sistemske opombe:** Tako kot Poslušanje in Opazovanje je Zaznavanje tako aktivno kot pasivno: lahko zahtevate, da vaš lik opravi met za Zaznavanje, ali pa mojster igre lahko zahteva met v ustreznih situacijah. Močni ali znani dražljaji so *Lahki* meti za Zaznavanje, medtem ko so šibki ali neznani *Težki*.
 
 ### Ščit
 
-**Osnovna možnost:** Po tipu ščita
+**Osnovna možnost:** Kot je določeno pri vrsti ščita
 
-**Kategorija:** Bojne
+**Kategorija:** Boj
 
-Uporabite to veščino za blokiranje prihajajočih napadov s ščitom ali drugim ustreznim pripomočkom. Vsi bloki s ščitom sledijo istim pravilom za obrambo: glejte **Ščiti** in **Obramba** v *Poglavju šest: Boj*. Z ščitom se lahko napade, pri čemer se to veščino obravnava, kot da bi bila veščina Bližinsko orožje. Ocene škode so podane za ščite v seznamih orožja. Ščiti povzročajo posebne rezultate drobljenja, lahko povzročijo Knockback in se lahko uporabijo za namerjene napade.
+To spretnost uporabite za blokiranje prihajajočih napadov s ščitom ali drugim ustreznim pripomočkom. Vsi bloki s ščitom sledijo enakim pravilom kot pariranje: glejte **Ščiti** in **Pariranje** v šestem poglavju: Boj. S ščitom lahko napadete, pri čemer to spretnost obravnavate, kot da bi bila spretnost z orožjem za bližnji boj. Ocene škode so za ščite podane v seznamih orožja. Ščiti imajo posebne rezultate pri drobljenju, lahko povzročijo odbijanje in se lahko uporabljajo za usmerjene napade.
 
-**Učinki:** Za specifične učinke glejte **Matriko napada in obrambe** ter **Tabelo napak obrambe z bližinskim orožjem**.
+**Učinki:** Glejte **Matriko napada in obrambe** ter **Tabelo nerodnosti pri pariranju z orožjem za bližnji boj**.
 
-**Opombe k sistemu:** Bloki s ščitom so obrambe. Lik lahko v krogu izvede več metov s ščitom, vendar vsak dodaten met povzroči kazen –30 % na stopnjo veščine ščita ali obrambe. Veliki ščiti lahko nudijo kritje pred napadom z izstrelki ali celo strelnim orožjem.
+**Sistemske opombe:** Bloki s ščitom so pariranja. Lik lahko v krogu opravi več kot en met za ščit, vendar vsak dodaten met prinese –30 % kazni k oceni spretnosti ščita ali pariranja. Veliki ščiti lahko zagotovijo kritje pred napadi z orožjem na daljavo ali celo strelnim orožjem.
 
-### Pridne roke
+### Spretne roke
 
 **Osnovna možnost:** 05 %
 
-**Kategorija:** Manipulacijske
+**Kategorija:** Manipulacija
 
-Uporabite to veščino za manipulacijo majhnih predmetov (kocke, karte, kovanci, denarnice, pisma itd.) na zavajajoč način ali ne da bi pritegnili pozornost, na primer pri kraji žepov, goljufanju pri kartah ali izvajanju odrske magije. Napak je očitno razkrit: bodisi predmet pade bodisi bi bil tat ujet z roko v žepu tarče. Neuspeh pomeni, da ni nič doseženo, tarča, ki nič ne sumi in uspe pri metu za Idejo, pa lahko spozna, da je bila prevarana.
+To spretnost uporabite za manipulacijo majhnih predmetov (kocke, karte, kovanci, denarnice, pisma itd.) na zavajajoč način ali brez pritegovanja pozornosti, na primer pri kraji denarnic, goljufanju pri kartah ali izvajanju odrskih čarovnij. Nerodnost je očitno opazna: bodisi predmet pade, bodisi bodočega tatu ujamejo z roko v žepu tarče. Neuspeh pomeni, da ni nič doseženo, in nezavedna tarča, ki uspešno opravi met za Idejo, lahko spozna, da je bila ogoljufana.
 
-**Opombe k sistemu:** Veščini nasprotuje Opazovanje, kjer je primerno. Ko je predmet dlani ali odvzet, uporabite Skrivanje, da ga skrijete pred usklajenim iskanjem.
+**Sistemske opombe:** Spretnost je nasprotujoča metom za Opazovanje, kjer je to ustrezno. Ko je predmet skrit v dlan ali odvzet, uporabite Skrivanje, da ga skrijete pred načrtovanim iskanjem.
 
-### Opazovanje
+### Opazovanje (Spot)
 
 **Osnovna možnost:** 25 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za preiskovanje sobe za potencialno pomembne podrobnosti, iskanje skritega predalčka, opazitev bežne podrobnosti, prepoznavanje preoblečenega sovražnika ali opazovanje sovražnikov v zasedi. Napak je močno odvrnila napačna percepcija ali napačen vtis, različne stopnje uspeha pa prinesejo bolj koristne in pomembne informacije.
+To spretnost uporabite za preiskovanje sobe za potencialno pomembne podrobnosti, iskanje skritega predalčka, opazovanje bežne podrobnosti, prepoznavanje zamaskiranega sovražnika ali opažanje sovražnikov, ki ležijo v zasedi. Nerodnost je močno moteče napačno zaznavanje ali napačen vtis, različne stopnje uspeha pa prinesejo bolj koristne in relevantne informacije.
 
-**Opombe k sistemu:** Opazovanje je tako aktivna kot pasivna veščina: vaš lik lahko opravi met za Opazovanje za aktivno iskanje ali pregled, ali pa igralni mojster zahteva met za Opazovanje, da preveri, ali vaš lik opazi bežno podrobnost. Skrivanje ali namerno prikrivanje zahteva nasprotujoči si preizkus Opazovanja proti Skrivanju za reševanje. Opazovanje se pogosto nasprotuje Preobleki ali Pridnim rokam. V popolni temi je Opazovanje nemogoče, šibka svetloba ali gosta megla pa ga naredita težkega.
+**Sistemske opombe:** Opazovanje je tako aktivna kot pasivna spretnost: vaš lik lahko opravi met za Opazovanje, da aktivno išče ali preiskuje, ali pa mojster igre lahko zahteva met za Opazovanje, da vidi, ali vaš lik opazi bežno podrobnost. Skrivanje ali namerno prikrivanje zahteva za razrešitev nasprotujoči preizkus Opazovanja proti Skrivanju. Opazovanje je pogosto nasprotujoče tudi preizkusom Kamuflaže ali Spretnih rok. V popolni temi je Opazovanje *Nemogoče*, šibka svetloba ali gosta megla pa ga naredita *Težkega*.### Status
 
-### Status
+**Osnovna verjetnost:** 15 %
 
-**Osnovna možnost:** 15 %
+**Kategorija:** Komunikacija
 
-**Kategorija:** Komunikacijske
+Status je merilo ugleda, poklicnih kvalifikacij, družbenega razreda, blaginje, slave in celo osebne časti. Uporabite to veščino, da vplivate na druge z uveljavljanjem svoje teže, na primer tako, da banko prepričate, da vam odobri posojilo ali odpusti dolg, zastrašite neigralni lik, da vam naredi uslugo, prepričate prodajalca, da sprejme zadolžnico, ali pritisnete na oblasti, da zadevo zamolčijo. Ponesrečena poteza (fumble) je družbena nerodnost največje razsežnosti, ki povzroči sramoto, pritegne neželeno pozornost in ima popolnoma nasproten učinek od želenega. Uspehi prinesejo želene rezultate ali celo dodatne usluge in obravnavo. Status pa ni isto kot bogastvo; čeprav sta pogosto povezana, nista neločljivo vezana drug na drugega.
 
-Status je merilo ugleda, poklicnih poverilnic, družbenega razreda, blaginje, slave in celo osebne časti. Uporabite to veščino za vplivanje na druge tako, da vržete težo, na primer prepričevanje banke, da izvede denarno posojilo ali odpusti dolg, ustrahovanje neigralskega lika, da ugodi uslugi, prepričevanje prodajalca, da se zadovolji z menico, ali pritisk na oblasti, da zadevo zadržijo v tišini. Napak je družbena napaka največje razsežnosti, ki povzroča sram, pritegne neželeno pozornost in ima absolutno nasprotje želenega učinka. Uspehi prinesejo iskane rezultate ali celo dodatne usluge in obzirnost. Status pa ni bogastvo in čeprav sta pogosto povezana, nista neločljivo vezana drug na drugega.
+**Specializacije:** Vsaka specializacija predstavlja posamezen družbeni razred, poklic, družbeno skupino ali področje vpliva.
 
-**Specialnosti:** Vsaka specialnost predstavlja en družbeni razred, poklic, družbeno skupino ali področje vpliva.
-
-**Opombe k sistemu:** Status deluje le znotraj danega območja, po specialnosti, in uporaba zunaj območja vpliva je težka. Status se ne izboljša z izkušnjami, usposabljanjem ali drugimi izboljšavami. Igralni mojster naj Status ponudi kot nagrado za zvesto službo, drzna dejanja ali izjemne zasluge med scenariji. Ena točka na pustolovščino je razumna, z izjemnimi dejanji ali dosežki, ki povečajo pridobitev na 1D3, 1D4 ali morda celo 1D6 točk. Podobno lahko neuspeh, škandali, prekrški in družbene neprimernosti znižajo Status. Status se lahko uporabi za navduševanje, pa tudi kot sredstvo za določanje slovesa. Vaš lik meče proti Statusu drugega, da ga identificira, neigralski lik pa lahko meče proti Statusu vašega lika, da določi, kaj, če sploh kaj, vedo o liku.
+**Sistemske opombe:** Status deluje le znotraj določenega področja, glede na specializacijo, uporaba zunaj področja vpliva pa je Težka. Statusa se ne izboljšuje z izkušnjami, usposabljanjem ali drugimi izboljšavami. Vodja igre bi moral Status ponuditi kot nagrado za zvesto službo, drzna dejanja ali izjemne zasluge med scenariji. Ena točka na pustolovščino je razumna, pri čemer izjemna dejanja ali dosežki povečajo pridobitev na 1D3, 1D4 ali morda celo 1D6 točk. Podobno lahko neuspehi, škandali, prekrški in družbene neprimernosti Status znižajo. Status se lahko uporablja za ustvarjanje vtisa, služi pa tudi kot sredstvo za določanje slovesa. Vaš lik meče kocko proti Statusu drugega lika, da bi ga prepoznal, neigralni lik pa lahko meče proti Statusu vašega lika, da določi, kaj, če sploh kaj, ve o njem.
 
 > ### Veščina Status, družbeni status in bogastvo lika
->
-> Kot je opisano v **Ustvarjanju lika** in **Poklicih likov**, lahko Status dramatično vpliva na družbeni položaj in bogastvo. Spodaj so tri tabele, ki dodelijo družbeni rang in povprečno bogastvo na podlagi Statusa, z maksimalnim bogastvom za ta Status. Ko si nekdo prisluži Status, se bosta njegov položaj in premoženje verjetno izboljšala. Vaš igralni mojster naj revidira te tabele ali ustvari nove, kot želi.
->
-> ##### Status v prazgodovini
->
-> | Status | Družbeni rang | Ocena bogastva | Maksimalno bogastvo |
+> 
+> Kot je opisano v poglavjih **Ustvarjanje lika** in **Poklici likov**, lahko Status dramatično vpliva na družbeni položaj in bogastvo. Spodaj so tri tabele, ki določajo družbeni rang in povprečno bogastvo glede na Status, z najvišjo ravnjo bogastva za ta Status. Z pridobivanjem Statusa se bodo položaj in premoženje lika verjetno izboljšali. Vaš vodja igre naj po želji revidira te tabele ali ustvari nove.
+> 
+> ##### Prazgodovinski status
+> 
+> | Status | Družbeni rang | Ocena bogastva | Največje bogastvo |
 > | :---- | :---- | :---- | :---- |
-> | 01–15 | Suženj (spodnji razred) | Reven | Reven |
-> | 16–95 | Plemenjak (srednji razred) | Reven | Povprečen |
-> | 96–00 | Plemič (zgornji razred) | Premožen | Bogat |
->
-> ##### Status v antiki/temnem veku/srednjem veku/imperialni dobi
->
-> | Status | Družbeni rang | Ocena bogastva | Maksimalno bogastvo |
+> | 01–15 | Suženj (nižji razred) | Revno | Revno |
+> | 16–95 | Član plemena (srednji razred) | Revno | Povprečno |
+> | 96–00 | Plemstvo (višji razred) | Premožno | Bogato |
+> 
+> ##### Status v starem veku/mračnem srednjem veku/srednjem veku/cesarstvu
+> 
+> | Status | Družbeni rang | Ocena bogastva | Največje bogastvo |
 > | :---- | :---- | :---- | :---- |
-> | 01–39 | Spodnji razred | Destituten | Destituten |
-> | 40–43 | Nižji srednji razred | Reven | Povprečen |
-> | 44–47 | Srednji razred | Povprečen | Povprečen |
-> | 48–49 | Višji srednji razred | Povprečen | Povprečen |
-> | 50–75 | Zgornji razred | Premožen | Premožen |
-> | 76–95 | Plemič | Premožen | Bogat |
-> | 96–00 | Monarhija | Bogat | Bogat |
->
-> ##### Status v viktorijanski/zahodni/pulp/sodobni dobi
->
-> | Status | Družbeni rang | Ocena bogastva | Meja bogastva |
+> | 01–39 | Nižji razred | Prikrajšano | Prikrajšano |
+> | 40–43 | Nižji srednji razred | Revno | Povprečno |
+> | 44–47 | Srednji razred | Povprečno | Povprečno |
+> | 48–49 | Višji srednji razred | Povprečno | Povprečno |
+> | 50–75 | Višji razred | Premožno | Premožno |
+> | 76–95 | Plemstvo | Premožno | Bogato |
+> | 96–00 | Monarhija | Bogato | Bogato |
+> 
+> ##### Status v viktorijanski dobi/na divjem zahodu/v pulp literaturi/sodobnosti
+> 
+> | Status | Družbeni rang | Ocena bogastva | Omejitev bogastva |
 > | :---- | :---- | :---- | :---- |
-> | 01–14 | Spodnji razred | Destituten | Reven |
-> | 15–29 | Spodnji razred | Reven | Povprečen |
-> | 30–39 | Nižji srednji razred | Povprečen | Premožen |
-> | 40–75 | Srednji razred | Povprečen | Premožen |
-> | 76–95 | Višji srednji razred | Premožen | Bogat |
-> | 96–00 | Zgornji razred | Bogat | Bogat |
->
-> Status lahko vpliva tudi na začetno opremo, s katero začne vaš lik. Po presoji igralnega mojstra lahko opravite mete za Status, da določite, ali vaš lik začne z boljšo opremo, kot kažejo njegova raven bogastva in poklic. Glejte Začetno opremo v *Poglavju osem: Oprema*. Meti za Status, izvedeni pred igro, niso upravičeni do preverjanja izkušenj.
+> | 01–14 | Nižji razred | Prikrajšano | Revno |
+> | 15–29 | Nižji razred | Revno | Povprečno |
+> | 30–39 | Nižji srednji razred | Povprečno | Premožno |
+> | 40–75 | Srednji razred | Povprečno | Premožno |
+> | 76–95 | Višji srednji razred | Premožno | Bogato |
+> | 96–00 | Višji razred | Bogato | Bogato |
+> 
+> Status lahko vpliva tudi na začetno opremo, s katero začne vaš lik. Po presoji vodje igre lahko opravite mete za Status, da določite, ali vaš lik začne z boljšo opremo, kot jo nakazujeta raven bogastva in poklic. Glejte Začetna oprema v *Osem poglavje: Oprema*. Meti za Status, opravljeni pred začetkom igre, niso primerni za preverjanje izkušenj.
 
-### Prikradanje
+### Prikradanje (Stealth)
 
-**Osnovna možnost:** 10 %
+**Osnovna verjetnost:** 10 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Uporabite to veščino za tihotapljenje po območju, ne da bi pritegnili pozornost. Kritje ni zahtevano, vendar se zahteva lahka hoja, samozavest in disciplina. Za izogibanje opazovanju med mirovanjem uporabite Skrivanje. Napak pritegne neželeno pozornost, neuspeh pomeni, da ni napredka, lik pa je očiten vsakomur, ki pogleda, medtem ko uspehi ponujajo zaporedne stopnje prikritosti.
+Uporabite to veščino, da se prikradete skozi območje, ne da bi pritegnili pozornost. Kritje ni potrebno, zahtevata pa se tiha hoja, samozavest in disciplina. Če se želite izogniti opazovanju med mirovanjem, uporabite Skrivanje (Hide). Ponesrečena poteza pritegne neželeno pozornost, neuspeh pomeni, da ni napredka in je lik očiten vsakomur, ki pogleda, medtem ko uspehi nudijo različne stopnje prikritosti.
 
-**Opombe k sistemu:** Prikradanje predpostavlja počasno gibanje. Premikanje dlje kot 1/2 hitrosti MOV v bojem krogu je težko. Okoljski dejavniki (hrup okolice, debele preproge, škripajoča tla itd.) ali oprema (čevlji z mehkim podplatom, hrupen oklep, obsežna oprema itd.) lahko modificirajo mete za Prikradanje, po presoji igralnega mojstra. Prikradanje nasprotuje Opazovanju ali Poslušanju, kot je primerno.
+**Sistemske opombe:** Prikradanje predpostavlja počasno gibanje. Gibanje, ki presega 1/2 lastnega premikanja (MOV) v bojnem krogu, je Težko. Okoljski dejavniki (hrup iz okolice, debele preproge, škripajoča tla itd.) ali oprema (čevlji z mehkimi podplati, hrupni oklepi, nerodna oprema itd.) lahko spremenijo mete za Prikradanje po presoji vodje igre. Prikradanje se nasprotuje z Opazovanjem (Spot) ali Poslušanjem (Listen), kot je primerno.
 
 ### Strategija
 
-**Osnovna možnost:** 01 %
+**Osnovna verjetnost:** 01 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino za vodenje sil v bitki, od majhnega voda do masivne vojske ali flote, organiziranje in usklajevanje logistike za vojsko, načrtovanje in izvedbo vojaškega podviga velikega obsega ter določanje, kaj morda misli drug strateg. Ta veščina predpostavlja tudi osnovno poznavanje vojaške zgodovine in taktik ter pomembne osebnosti v njej. Napak predstavlja vojaško katastrofo in lahko vodi do popolnega poraza, medtem ko različne stopnje uspeha prinesejo strateške prednosti in lahko pomenijo bonuse za moralo in učinkovitost v boju.
+Uporabite to veščino za vodenje sil v bitki, od majhne enote do ogromne vojske ali flote, organizacijo in koordinacijo logistike za vojsko, načrtovanje in izvedbo obsežnega vojaškega podviga ter za ugotavljanje, kaj bi lahko razmišljal drug strateg. Ta veščina predpostavlja tudi osnovno poznavanje vojaške zgodovine in taktike ter pomembnih osebnosti v njih. Ponesrečena poteza predstavlja vojaško katastrofo in lahko vodi do popolnega poraza, medtem ko različne stopnje uspeha prinašajo strateške prednosti in lahko pomenijo bonuse za moralo in bojno učinkovitost.
 
-**Opombe k sistemu:** Masivne vojaške spopade je treba reševati abstraktno, z nasprotujočim si metom za Strategijo med nasprotnima vodjema, ki vpliva na izid (za večje ali daljše spopade je morda potrebnih več metov). Uporaba Strategije v neugodnih pogojih (številčno premoč, slaba oskrba itd.) je težka. Ta veščina se pogosto uporablja ob Poveljevanju: Strategija predstavlja načrt, Poveljevanje pa to, kako jasno se prenese tistim, ki morajo načrt izvesti.
+**Sistemske opombe:** Obsežne vojaške spopade je treba reševati abstraktno, z nasprotnim metom za Strategijo med nasprotnima vodjema, ki vpliva na izid (za večje ali daljše spopade je morda potrebnih več metov). Uporaba Strategije v neugodnih razmerah (številčna premoč nasprotnika, slaba oskrba itd.) je Težka. Ta veščina se pogosto uporablja skupaj z ukazovanjem (Command): Strategija predstavlja načrt, ukazovanje pa pomeni, kako jasno je ta načrt prenesen tistim, ki ga morajo izvesti.
 
 ### Plavanje
 
-**Osnovna možnost:** 25 %
+**Osnovna verjetnost:** 25 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Uporabite to veščino za gibanje skozi ali pod vodo. Na splošno naj se meti za Plavanje uporabljajo le za nevarne ali stresne situacije. Lebdenje, pasje veslanje in prestopanje vode v normalnih pogojih je *samodejno*. Napak pomeni, da se začnete utapljati (glejte *Dušenje, utapljanje in asfiksija*). Ko se vaš lik začne utapljati, ga lahko le *težek* met za Plavanje ali zunanja pomoč spravi nazaj na površje, da zadiha. Uspeh pomeni normalno manevriranje v vodi, medtem ko vrhunski uspehi pomenijo dodatno hitrost in manevriranje.
+Uporabite to veščino za premikanje po vodi ali pod njo. Na splošno je treba mete za Plavanje uporabljati le v nevarnih ali stresnih situacijah. Lebdenje, plavanje s pasjim slogom in brcanje v vodi v običajnih razmerah so *Samodejni*. Ponesrečena poteza pomeni, da se začnete utapljati (glejte *Dušenje, utapljanje in zadušitev*). Ko se vaš lik začne utapljati, ga lahko na površje, da zadiha, vrne le *Težek* met za Plavanje ali zunanja pomoč. Uspeh pomeni normalno manevriranje v vodi, vrhunski uspehi pa dodatno hitrost in okretnost.
 
-**Opombe k sistemu:** V mirnih vodah so meti za Plavanje potrebni le enkrat na obrat. Plavanje v razburkanih vodah zahteva preizkus Plavanja vsak krog. Plavanje med nošenjem česar koli zahteva met za Naprezanje ali met za odpornost STR, odvisno od situacije. Specializirana oprema (plovci, plavuti itd.) ponuja modifikatorje do +20 %. Aktivno plavanje stane 1 točko utrujenosti na obrat. Rešite dirke v vodi kot nasprotujoče si mete za Plavanje, ki stanejo 1 točko utrujenosti na krog. Odštejte kateri koli ENC, ki ga ima plavalec, od svoje stopnje Plavanja. Če njihova ENC presega njihovo STR, se potopijo in morajo odvreči težo ali se utopiti. Oklepljeni liki imajo kazen za Plavanje (glejte **Oklep**). Za odstranitev oklepa v vodi opravite met za Plavanje enkrat na bojni krog na točko najvišje vrednosti oklepa (maksimalni met, če se uporabljajo naključne vrednosti oklepa). Naravni oklep ali oklep, podeljen z močjo, nima kazni v vodi.
+**Sistemske opombe:** V mirnih vodah so meti za Plavanje potrebni le enkrat na krog. Plavanje v nemirnih vodah zahteva met za Plavanje vsak krog. Plavanje z bremenom zahteva met za Napor (Effort) ali met za odpornost MOČ, odvisno od situacije. Specializirana oprema (plovci, plavuti itd.) ponuja modifikatorje do +20 %. Aktivno plavanje stane 1 točko utrujenosti na krog. Tekme v vodi rešujte kot nasprotne mete za Plavanje, pri čemer vsak krog stane 1 točko utrujenosti. Od ocene Plavanja odštejte kakršno koli opremo (ENC), ki jo plavalec nosi. Če njihova ENC preseže njihovo MOČ, potonejo in morajo odvreči težo ali se utopiti. Oklepljeni liki imajo pri Plavanju kazen (glejte **Oklep**). Če želite v vodi sneti oklep, opravite met za Plavanje enkrat na bojni krog na točko najvišje vrednosti oklepa (največji met, če se uporabljajo naključne vrednosti oklepa). Naravni oklep ali oklep, ki ga daje moč, v vodi nima kazni.
 
-V podvodnem boju iz bližine napadalec uporablja nižjo stopnjo veščine boja ali Plavanja za reševanje napadov, poskus Izmikanja pa je težek. Uporabno je le orožje za prebadanje – vsa ostala povzročijo 1D3–1 točk škode na zadetek. Vodni upor doda tudi 3 točke vrednosti oklepa kateri koli tarči. Za več informacij glejte **Podvodni boj**.
+V podvodnem boju od blizu napadalec za razrešitev napadov uporabi nižjo od svojih veščin boja ali Plavanja, poskus izogibanja (Dodge) pa je Težek. Uporabna so le orožja, primerna za prebadanje – vsa ostala povzročijo 1D3–1 točke škode na zadetek. Vodni upor doda tudi 3 točke vrednosti oklepa vsaki tarči. Za več informacij glejte **Podvodni boj**.
 
-### Poučevanje
+### Poučevanje (Teach)
 
-**Osnovna možnost:** 10 %
+**Osnovna verjetnost:** 10 %
 
-**Kategorija:** Komunikacijske
+**Kategorija:** Komunikacija
 
-Uporabite to veščino, kadar koli vaš lik poskuša usposobiti ali poučiti informacije ali tehniko drugemu, z uporabo predavanja, vaje ali fizičnega sparinga. Napak je retrograden in povzroči, da učenci morda izgubijo 1D2 točki veščin, če ne opravijo meta za Idejo, da bi prepoznali fušarsko poučevanje, medtem ko uspeh poučuje v skladu z normalnimi pravili za usposabljanje, vrhunski uspehi pa izboljšajo usposabljanje veščin na 1D6 (poseben) in 1D6+2 (kritičen).
+Uporabite to veščino vsakič, ko vaš lik poskuša trenirati ali poučiti drugega o informacijah ali tehniki, z uporabo predavanj, vaj ali fizičnega sparinga. Ponesrečena poteza je regresivna in povzroči, da učenci morda izgubijo 1D2 točki veščin, če ne opravijo meta za Idejo (Idea), da prepoznajo slabo poučevanje, medtem ko uspeh pouči po običajnih pravilih za trening, vrhunski uspehi pa izboljšajo trening veščin na 1D6 (posebno) in 1D6+2 (kritično).
 
-**Opombe k sistemu:** Za poučevanje določene veščine mora učitelj imeti dvakratno stopnjo veščine učenca ali stopnjo veščine 50 % (kar koli je nižje). Za več podrobnosti glejte **Usposabljanje veščin**.
+**Sistemske opombe:** Za poučevanje določene veščine mora imeti učitelj dvakratno oceno veščine učenca ali oceno veščine 50 % (kar koli je manjše). Za več podrobnosti glejte **Trening veščin**.
 
-### Tehnična veščina (razno)
+### Tehnična veščina (razne)
 
-**Osnovna možnost:** 05 %
+**Osnovna verjetnost:** 05 %
 
-**Kategorija:** Mentalne
+**Kategorija:** Mentalna
 
-Uporabite to veščino za upravljanje in vzdrževanje naprednih tehnoloških naprav, kot so računalniški sistemi, roboti ali druge visoke naprave. Uporabi se lahko tudi za spreminjanje naprav za izboljšanje njihove zmogljivosti ali uporabo za nov namen zunaj njihovih parametrov. Napak potencialno pokvari napravo ali jo na kakšen način zagozdi, medtem ko uspehi in vrhunski uspehi povzročijo, da mehanizem deluje, kot je bilo načrtovano, ali preseže pričakovanja.
+Uporabite to veščino za upravljanje in vzdrževanje naprednih tehnoloških naprav, kot so računalniški sistemi, roboti ali druge napredne naprave. Uporabite jo lahko tudi za spreminjanje naprav, da izboljšate njihovo delovanje ali jih uporabite za nov namen zunaj njihovih parametrov. Ponesrečena poteza potencialno pokvari napravo ali jo na nek način zagozdi, medtem ko uspehi in vrhunski uspehi povzročijo, da mehanizem deluje, kot je zasnovan, ali preseže pričakovanja.
 
-**Specialnosti:** Ura, Računalniki, Kibernetika, Elektronika, Robotika, Senzorji, Oblegovalne naprave, Pasti itd.
+**Specializacije:** Urarstvo, Računalništvo, Kibernetika, Elektronika, Robotika, Senzorji, Oblegovalne naprave, Pasti itd.
 
-**Opombe k okolju:** Tehnična veščina v fantazijskih ali zgodovinskih okoljih pokriva pasti, urne ali zobniške naprave, oblegovalne naprave itd.
+**Opombe okolja:** Tehnična veščina v domišljijskih ali zgodovinskih okoljih zajema pasti, urarske ali zobniške naprave, oblegovalne naprave itd.
 
-### Metanje
+### Metanje (Throw)
 
-**Osnovna možnost:** 25 %
+**Osnovna verjetnost:** 25 %
 
-**Kategorija:** Fizične
+**Kategorija:** Fizična
 
-Uporabite to veščino za zadetek tarče z vrženim predmetom ali za metanje orožja, ki sicer ni uravnoteženo za metanje (kot je metanje velikega meča ali ščita). To pokriva improvizirane vržene predmete, granate, palice dinamita, orožje, ki se običajno ne meče, ali ne-orožje. Zanke so prav tako zajete v tej veščini, kot tudi lovljenje predmetov. Če je orožje narejeno za metanje, uporabite Izstrelno orožje.
+Uporabite to veščino, da z vrženim predmetom zadenete tarčo ali vržete orožje, ki sicer ni uravnoteženo za metanje (kot je metanje velikega meča ali ščita). To zajema improvizirane vržene predmete, granate, palice dinamita, orožje, ki se običajno ne meče, ali predmete, ki niso orožje. Lasso prav tako spada pod to veščino, kot tudi lovljenje predmetov. Če je orožje narejeno za metanje, uporabite Izstrelitveno orožje (Missile Weapon).
 
-**Učinki:** Metanje ima specifične učinke:
+**Učinki:** Metanje ima posebne učinke:
 
-* **Napak:** Predmet pade ali se izgubi. V boju uporabite **Tabelo napak izstrelnega orožja**.
-* **Neuspeh:** Predmet zgreši in gre 1D6 metrov v naključni smeri.
-* **Uspeh:** Predmet pristane tam, kjer je bilo namenjeno. Mečite za škodo normalno, če obstaja.
-* **Poseben:** Predmet pristane tam, kjer je bilo namenjeno, in povzroči posebno vrsto škode, primerno njegovi obliki (glejte **Posebni uspehi**).
-* **Kritičen:** Predmet pristane tam, kjer je bilo namenjeno, do izjemnih rezultatov, ignorira oklep in povzroči kritično škodo, če je primerno.
+* **Ponesrečena poteza (Fumble):** Predmet spustite ali izgubite. V boju uporabite **Tabelo ponesrečenih potez z izstrelitvenim orožjem**.  
+* **Neuspeh:** Predmet zgreši in odleti 1D6 metrov v naključni smeri.  
+* **Uspeh:** Predmet pristane tam, kjer je bilo načrtovano. Normalno mečite za škodo, če obstaja.  
+* **Posebno:** Predmet pristane tam, kjer je bilo načrtovano, in povzroči posebno vrsto škode, primerno njegovi obliki (glejte **Posebni uspehi**).  
+* **Kritično:** Predmet pristane tam, kjer je bilo načrtovano, z izjemnimi rezultati, ignorira oklep in povzroči kritično škodo, če je primerno.
 
-**Opombe k sistemu:** K osnovni škodi vrženega orožja dodajte 1/2 modifikatorja škode (zaokrožite navzgor). Večino predmetov lahko mečeš v območju STR metalca v metrih, obseg čez to pa je težek. Vržene predmete je mogoče nameriti.
+**Sistemske opombe:** K osnovni škodi vrženega orožja dodajte 1/2 modifikatorja škode (zaokrožite navzgor). Večino predmetov lahko vržete na razdaljo do števila metrov, ki je enaka MOČ metalca, razpon čez to razdaljo pa je Težak. Vržene predmete je mogoče meriti.
 
-### Sledenje
+### Sledenje (Track)
 
-**Osnovna možnost:** 10 %
+**Osnovna verjetnost:** 10 %
 
-**Kategorija:** Zaznavne
+**Kategorija:** Zaznavanje
 
-Uporabite to veščino za prepoznavanje sledi ali sledenje poti – bodisi osebi, vozilu ali živali – po tleh, skozi grmovje, sneg in čez razgiban teren. Napak izgubi sled in morda samega sledilca. Različne stopnje uspeha prinesejo boljše rezultate, vključno s potencialno sposobnostjo ocenjevanja informacij o subjektu, ki se mu sledi, ali natančnim napovedovanjem, kam gre.
+Uporabite to veščino za prepoznavanje sledi ali sledenje poti – bodisi osebe, vozila ali živali – po tleh, skozi grmovje, sneg in čez razgiban teren. Ponesrečena poteza pomeni izgubo sledi in morda celo izgubo samega sledilca. Različne stopnje uspeha prinašajo boljše rezultate, vključno s potencialno sposobnostjo ocenjevanja informacij o subjektu, ki mu sledijo, ali natančnega predvidevanja, kam gre.
 
-**Opombe k sistemu:** Met za Sledenje vzame 1D3 minute, dolgotrajen poskus sledenja pa lahko zahteva več metov. Glede na okolje je met lahko težek (deževna noč) ali lahek (svetel zasnežen dan). Če je sled izgubljena, je iskanje ponovno težko. Poskus prikrivanja lastnih sledi je nasprotujoči si met za Sledenje. Napredna oprema lahko doda do +20 % k stopnji veščine.
+**Sistemske opombe:** Met za Sledenje traja 1D3 minute, razširjen poskus sledenja pa lahko zahteva več metov. Glede na okolje je lahko met Težak (deževna noč) ali Enostaven (svetel snežen dan). Če sled izgubite, je ponovno iskanje Težko. Poskus prikrivanja lastnih sledi je nasprotni met za Sledenje. Napredna oprema lahko oceni veščine doda do +20 %.

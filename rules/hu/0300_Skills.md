@@ -1,298 +1,303 @@
 # 3. Képzettségek
 
-A játék során a karakterednek számos döntést kell hoznia, kihívásokkal szembenéznie és feladatokat végrehajtania. A legfontosabb cselekvéseket **képzettségek** határozzák meg, amelyekre a karaktered kísérletet tehet. Ez a fejezet felsorolja a leggyakoribb képzettségeket, definiálja azokat, és összeköti a karaktered által megkísérelhető feladatokkal.
+Karakterednek számos döntést kell meghoznia, kihívással szembenéznie és feladatot teljesítenie a játék során. A legtöbb fontos cselekvés olyan **képzettségként** van meghatározva, amelyet a karaktered megkísérelhet. Ez a szakasz felsorolja a leggyakoribb képzettségeket, meghatározza azokat, és összeköti a karaktered által a játék során megkísérelhető feladatokkal.
 
 ## Képzettségek meghatározása
 
-A képzettség egy meghatározott tudásanyagot és készséget jelöl. Minden képzettség százalékos skálán mozog 0-tól 100-ig (vagy magasabb). Ezt nevezzük **képzettségi szintnek**. Minél magasabb, annál jobb.
+A képzettség egy meghatározott tudáskészletet és készséget jelöl. Minden képzettség értékelése 0-tól 100-ig (vagy magasabb) terjedő százalékos skálán történik. Ezt nevezzük **képzettségi szintnek**. Minél magasabb, annál jobb.
 
-A könyvben szereplő képzettséglista korántsem teljes: a különböző játékok eltérő képzettségeket követelhetnek meg, és a mesélőt bátorítjuk, hogy igény szerint alkosson újakat. Emellett a mesélő átnevezheti vagy átsorolhatja a képzettségeket, törölhet közülük, új specializációkat (lásd alább) adhat hozzájuk, vagy elveheti azokat, ahogy az indokolt.
+Az ebben a könyvben található képzettségek listája korántsem teljes: a különböző játékok további képzettségeket igényelhetnek, és a mesélőt bátorítjuk arra, hogy hozzon létre új képzettségeket igény szerint. Emellett a mesélő átnevezheti vagy átsorolhatja a képzettségeket, kihagyhat néhányat, hozzáadhat új specialitásokat (lásd alább), vagy eltávolíthatja azokat, ahogy az megfelelőnek tűnik.
 
-### Képzettségi specializációk
+### Képzettségi specialitások
 
-Sok képzettség tág körű, ezért szükséges egy specializációt, azaz a képzettség egy szűkebb aspektusát meghatározni. A Művészet például tág kategória, így fel van osztva olyan specializációkra, mint a Rajzolás, Festészet, Szobrászat, Írás stb. Ezek a képzettség neve után, zárójelben szerepelnek. Így a Közelharci fegyver (Kard) és a Közelharci fegyver (Lándzsa) két különböző képzettségnek számít. A mesélő döntése alapján, ha a karaktered nem rendelkezik képzettségi szinttel egy adott specializációban, használhatja egy kapcsolódó képzettség vagy specializáció szintjének felét (felfelé kerekítve) a képzettségi dobásokhoz.
+Sok képzettség tág körű, és megköveteli, hogy meghatározz egy specialitást, a képzettség egy célzottabb aspektusát. A Művészet például egy tág kategória, ezért olyan specialitásokra osztják, mint a Rajzolás, Festés, Szobrászat, Írás stb. Ezek a képzettség neve után, zárójelben vannak felsorolva. Így a Közelharci fegyver (Kard) és a Közelharci fegyver (Lándzsa) két különböző képzettségnek számít. A mesélő döntése alapján, ha karakterednek nincs képzettségi szintje a megfelelő specialitásban, használhatod egy rokon képzettség vagy specialitás szintjének felét (felfelé kerekítve) a képzettségi próbákhoz.
 
-Például: *a karaktered használhatja a Tudomány (Csillagászat) képzettségének felét olyan dobásokhoz, amelyek normál esetben Tudomány (Fizika) vagy Tudomány (Matematika) képzettséget igényelnének, mivel ezek kapcsolódó területek. Ez a csillagászati éleslátás azonban haszontalan, ha a mesélő Tudomány (Biológia) vagy Ismeret (Történelem) képzettségpróbát kér.*
+Például: *karaktered használhatja a Tudomány (Csillagászat) képzettségének felét olyan próbákhoz, amelyek normál esetben a Tudomány (Fizika) vagy a Tudomány (Matematika) képzettséget igényelnék, mivel ezek rokon képzettségek. Azonban ez a csillagászati tudás haszontalan, ha a mesélő Tudomány (Biológia) vagy Ismeret (Történelem) képzettségi próbát kér.*
 
 ### Képzettségek használata
 
-Valahányszor a karaktered egy olyan cselekvést vagy feladatot akar végrehajtani, amelynek kimenetele kétséges, be kell jelentened a kívánt akciót. A mesélő ekkor D100-as dobást kér a megfelelő képzettségi szint ellen. Általánosságban elmondható, hogy a módosított képzettségi szintnél alacsonyabb vagy azzal egyenlő D100-as dobás sikert jelent a feladatban, míg a szintnél magasabb dobás kudarcot.
+Amikor a karaktered cselekedni akar, vagy végrehajtani egy feladatot, ahol a kimenetel kétséges, be kell jelentened a kívánt cselekvést. A mesélő ekkor kérni fog egy D100-as dobást a megfelelő képzettségi szint ellen. Általánosságban elmondható, hogy a módosított képzettségi szinttel megegyező vagy az alatti D100-as dobás sikeresnek számít az adott feladatban, míg a szintnél magasabb dobás sikertelen.
 
-A feladat nehézsége vagy egyéb körülményi módosítók felfelé vagy lefelé befolyásolhatják a képzettség szintjét. A nehézségi módosítók a következők:
+A feladat nehézsége vagy egyéb körülményi módosítók a képzettség szintjét feljebb vagy lejjebb állíthatják. A nehézségi módosítók a következők:
 
-* **Automatikus:** nincs szükség dobásra
-* **Könnyű:** a képzettség duplázódik
-* **Átlagos:** nincs módosítás
-* **Nehéz:** a képzettség feleződik
-* **Lehetetlen:** nincs dobás, vagy a mesélő belátása szerint 01%-os esély
+* **Automatikus** nincs szükség dobásra
+* **Könnyű** a képzettség megduplázódik
+* **Átlagos** nincs módosítás a képzettségen
+* **Nehéz** a képzettség megfeleződik
+* **Lehetetlen** nincs dobás, vagy a mesélő döntése szerint 01% esély
 
-További információkért lásd a **Cselekvésdobások módosítása** részt. Ha nincs jelölve módosító, az Átlagos nehézséggel kell számolni.
+További információért lásd a **Cselekvéspróbák módosítása** című részt. Ha nincs módosító feltüntetve, feltételezd, hogy a dobás Átlagos nehézségű.
 
-A legtöbb esetben az adott cselekvéshez tartozó megfelelő képzettség nyilvánvaló. Előre nem látható körülmények azonban a képzettségek újfajta használatához vezethetnek. Bátorítunk, hogy találj alternatív alkalmazásokat a karaktered képzettségeire, de minden ilyen felhasználáshoz a mesélő jóváhagyása szükséges.
+A legtöbb esetben az adott cselekvéshez tartozó megfelelő képzettség nyilvánvaló. Az előre nem látható körülmények azonban a képzettség újfajta felhasználásához vezethetnek. Bátorítunk arra, hogy találj alternatív alkalmazásokat karaktered képességeihez, de minden ilyen képzettséghasználatot a mesélőnek kell jóváhagynia.
 
-Bár sok képzettség cselekvésorientált, általános ismeretekről is árulkodnak az adott képzettség által irányított feladatok körében.
+Bár sok képzettség cselekvésorientált, jelzik az adott képzettség által szabályozott feladatokhoz kapcsolódó általános tudást is.
 
-Például: *egy középkori harcos használhatja a Közelharci fegyver (Kard) képzettségét a Becslés helyett egy kard minőségének megítélésére. A Harcművészet képzettsége hasonlóképpen használható arra, hogy az illető ismerje a város különböző dojo-it és mestereiket.*
+Például: *egy középkori harcos használhatja a Közelharci fegyver (Kard) képzettségét a Becslés helyett, hogy megítélje egy kard minőségét. A Harcművészet képzettség hasonlóképpen használható arra, hogy az illető ismerje a város különböző dódzsóit és a mestereiket.*
 
-### Titkos vagy rejtett képzettségpróbák
+### Titkos vagy rejtett képzettségi próbák
 
-A mesélő a karaktered helyett is dobhat képzettségi próbákat olyan esetekben, amikor nem akarja, hogy tudd a dobás eredményét, vagy hogy egyáltalán történt-e képzettségpróba. A mesélő tarthat magánál egy másolatot a karakterlapodról, vagy kérhet egy listát a karaktered aktuális szintjeiről a releváns képzettségekben (különösen Észlelés képzettségek), így a titkos dobások anélkül elvégezhetőek, hogy felhívnák a figyelmedet és a többi játékosét arra, hogy a karakterek esetleg elkerülnek valamit, amikor a próbák kudarcot vallanak. Ez a módszer lehetővé teszi a mesélő számára, hogy a sikertelen dobásokat félrevezetésre használja, ami hasznos taktika Észlelés vagy mentális alapú próbáknál.
+A mesélő a karaktered helyett is dobhat képzettségi próbákat olyan esetekben, amikor nem akarja, hogy tudd a dobás kimenetelét, vagy hogy egyáltalán történt-e képzettségi próba. A mesélő esetleg szeretne egy másolatot a karakterlapodról, vagy kérhet tőled egy listát a karaktered jelenlegi képzettségi szintjeiről a releváns készségekben (különösen az Észlelés képzettségekben), így a titkos dobások elvégezhetőek anélkül, hogy téged vagy a többi játékost figyelmeztetné, hogy a karakteretek esetleg lemarad valamiről, ha a próbák sikertelenek. Ez a módszer lehetővé teszi a mesélő számára, hogy a sikertelen dobásokat esetleg félrevezetésre használja, ami hasznos taktika Észlelés vagy Mentális alapú próbáknál.
 
-Néhány nyilvánvalóbb képzettség, amely titokban is elvégezhető, vagy ahol a játékos nem biztos a kimenetelben: Becslés, Művészet, Alkudozás, Parancsolás, Mesterség, Álcázás, Etikett, Dumálás, Szerencsejáték, Rejtőzés, Megérzés, Ismeret, Nyelv, Figyelés, Írás-olvasás, Orvoslás, Navigáció, Előadás, Meggyőzés, Pszichoterápia, Kutatás, Tudomány, Érzékelés, Kézügyesség, Fürkészés, Státusz, Lopózás, Stratégia, Tanítás, Technikai képzettség és Nyomkövetés. Egyéb képzettségek is elvégezhetőek titokban, a körülményektől függően.
+Néhány a nyilvánvalóbb képzettségi próbák közül, amelyek titokban, vagy a kimenetel ismerete nélkül elvégezhetőek: Becslés, Művészet, Alkudozás, Parancsolás, Mesterség, Álcázás, Etikett, Gyors beszéd, Játék, Rejtőzés, Beleérzés, Ismeret, Nyelv, Figyelés, Írás-olvasás, Gyógyászat, Navigáció, Előadás, Meggyőzés, Pszichoterápia, Kutatás, Tudomány, Érzékelés, Ügyeskedés, Keresés, Státusz, Lopakodás, Stratégia, Tanítás, Technikai képzettség és Nyomkövetés. Más képzettségek is elvégezhetőek titokban, a körülményektől függően.
 
-Ezeknek a dobásoknak nem kell teljesen titkosnak lenniük; a mesélő megmondhatja, hogy egy adott képzettségre dobás történik. A játékstílustól függően te és a mesélő dönthettek úgy, hogy rejtett dobásokat alkalmaztok, ahol a dobás olyan helyen történik, ahol nem látod, hogyan esnek a kockák, például a mesélő ernyője mögött vagy más eltakart helyen.
+Ezeknek a dobásoknak nem kell teljesen titkosnak lenniük, és a mesélő elmondhatja neked, hogy egy adott képzettségre történik dobás. A játékstílustól függően te és a mesélőd dönthettek úgy, hogy rejtett dobásokat végeztek, ahol a dobókockákkal olyan területen dobtok, ahol nem láthatod, hogyan érkeznek – például egy mesélői paraván mögött vagy más eltakart helyen.
 
-Ha a próbálkozás sikeres, a mesélőnek közölnie kell, hogy a karaktered sikeresen használta a megfelelő képzettséget, és lehetővé kell tennie a tapasztalati próbát, ha az alkalmazható. Ha a képzettségpróba sikertelen, a mesélőnek tájékoztatnia kell, félre kell vezetnie, vagy tartózkodnia kell a kimenetel közlésétől (a karaktered felé is), ahogy az indokolt.
+Ha a képzettségi próba sikeres, a mesélőnek közölnie kell veled, hogy a karaktered sikeresen használta az adott képzettséget, és ha alkalmazható, lehetővé kell tennie a tapasztalati próbát. Ha a képzettségi próba sikertelen, a mesélőnek tájékoztatnia, félrevezetnie kell, vagy tartózkodnia kell a kimenetel közlésétől (téged és a karakteredet illetően), ahogy az helyénvaló.
 
-## Képzettségi kategóriák
+## Képzettségkategóriák
 
-A képzettségek hat kategóriára oszthatók:
+A képzettségek hat kategóriába vannak osztva:
 
-* **Harci** képzettségek: fegyverekkel és harci manőverekkel kapcsolatos jártasságot mérik.
-* **Kommunikációs** képzettségek: a beszélgetést, olvasást és társas érintkezést szabályozzák.
-* **Manipulációs** képzettségek: olyan feladatokat definiálnak, amelyek pontos kéz-szem koordinációt igényelnek.
-* **Mentális** képzettségek: specifikus tudást és egyéni megítélést mérik.
-* **Észlelési** képzettségek: információk gyűjtése és értelmezése a környezetből.
-* **Fizikai** képzettségek: erő, ügyesség és atlétikai teljesítmények szabályozása.
+* **Harci** képzettségek a fegyverekkel és harci manőverekkel kapcsolatos jártasságot mérik.
+* **Kommunikációs** képzettségek a beszélgetést, olvasást és személyközi érintkezést szabályozzák.
+* **Manipulációs** képzettségek azokat a feladatokat határozzák meg, amelyek pontos kéz-szem koordinációt igényelnek.
+* **Mentális** képzettségek a konkrét tudást és egyéni ítélőképességet mérik.
+* **Észlelési** képzettségek a környezetből származó információk gyűjtését és értelmezését szolgálják.
+* **Fizikai** képzettségek az erőt, ügyességet és atlétikai teljesítményeket szabályozzák.
 
-A képzettségi kategóriák általános útmutatóként szolgálnak ahhoz, hogy milyen típusú akciókat hajthat végre egy képzettség, valamint keretet biztosítanak neked és a mesélőnek új képzettségek alkotásához. A képzettségi kategóriák a kategória-bónuszokon keresztül (opcionális rendszer) a karaktered képzettségi szintjeit a legbefolyásosabb tulajdonságértékeihez kötik.
+A képzettségkategóriák általános útmutatóként szolgálnak az adott képzettséggel elvégezhető cselekvésekhez, valamint keretet kínálnak neked és a mesélőnek új képzettségek létrehozásához. A képzettségkategóriák összekötik a karaktered képzettségi szintjeit a legbefolyásosabb tulajdonságértékeivel a kategóriabónuszokon keresztül, amely egy választható rendszer.
 
 ### Új képzettségek
 
-A karakterlap képzettségek részében üres sorok találhatók. Ezek az új képzettségek számára vannak, amelyeket te vagy a mesélő hozhattok létre. Például *a Negyedik fejezet: Erők* bemutat egy opcionális új képzettséget, a Vetítést, amelyet számos erővel együtt lehet használni. Javasolhatsz és definiálhatsz új képzettséget, de csak a mesélő engedélyezheti a használatát a játékban.
+A karakterlap képzettségek szakaszában üres sorok találhatók. Ezek az új képzettségek számára szolgálnak, amelyeket te vagy a mesélő hozhattok létre. Például: *A negyedik fejezet: Erők* bevezet egy új, opcionális képzettséget, a Projekciót, amelyet számos erővel együtt lehet használni. Javasolhatsz és meghatározhatsz új képzettséget, de csak a mesélő engedélyezheti annak használatát a játékban.
 
 ### A képzettséglista módosítása
 
-Ugyanolyan könnyen, ahogy te és a mesélő új képzettségeket alkothattok, át is nevezhetitek őket, hogy illeszkedjenek egy adott környezethez. Például a Finom manipuláció átnevezhető Mechanikai eszközök vagy Zárfeltörés névre egy középkori vagy fantasy környezetben. A mesélő dönthet úgy is, hogy teljesen eltöröl bizonyos képzettségeket, ha azok nem illenek a játékstílusához. Erősen ajánlott, hogy az ilyen változtatásokat még a karakteralkotás előtt határozzátok meg és tegyétek egyértelművé, hogy ne olyan képzettségeket válassz, amelyeket a mesélő később kizárhat vagy megváltoztathat.
+Ahogy te és a mesélő könnyedén létrehozhattok új képzettségeket, úgy átnevezhetitek a meglévőket is, hogy illeszkedjenek egy adott környezethez. Például a Finom manipuláció átnevezhető Eszközhasználatra vagy Zárfeltörésre egy középkori vagy fantasy környezetben. A mesélő dönthet úgy is, hogy bizonyos képzettségeket teljesen elhagy, ha azok nem illenek a játékstílusához. Kifejezetten ajánlott, hogy az ilyen változtatásokat még a karakteralkotás előtt tisztázzátok, így nem választasz olyan képzettségeket, amelyeket a mesélő kizárhat vagy megváltoztathat.
 
-> ### Képzettségi kategória-bónuszok
+> ### Képzettségkategória-bónuszok
 >
-> Ahogy a **Képzettségi kategória-bónuszok** részben leírtuk, a karaktered a tulajdonságértékei alapján bónuszt vagy büntetést kap a képzettségi kategóriákra. Alkalmazd a kategória-bónuszt a kategória minden egyes képzettségére a listázott alapértéken felül (ha van ilyen), a képzettség leírása szerint. Lásd a **Képzettségi kategória-bónusz táblázatot** a bónuszok kiszámításához használt képletekért.
+> A **Képzettségkategória-bónuszok** részben leírtak szerint karaktered bónuszt vagy büntetést kap a képzettségkategóriákra a tulajdonságértékei alapján. Alkalmazd a kategóriabónuszt az adott kategória minden képzettségére a felsorolt alap esélyen felül, ha van ilyen, ahogy az a képzettség leírásában szerepel. A bónuszok kiszámításához használt képletekért lásd a **Képzettségkategória-bónusz táblázatot**.
 
-## Alapértékek
+## Alapesélyek
 
-A legtöbb ésszerűen egészséges és fizikailag fitt ember képes meglengetni egy bunkósbotot, megmászni egy fát vagy beszélni az anyanyelvét. Ezért minden képzettségnek van egy alapértéke: a karakteredről feltételezzük, hogy rendelkezik ezzel az alapvető szinttel, mielőtt további képzettségi pontokat adnánk hozzá. Ha a képzettségi kategória-bónuszokat (lásd **Képzettségi kategória-bónuszok**) használjátok, add hozzá (vagy vond ki) azokat minden képzettség alapértékéből.
+A legtöbb ésszerűen egészséges és fizikailag fitt ember tud forgatni egy dorongot, felmászni egy fára vagy beszélni az anyanyelvén. Ezért minden képzettséghez tartozik egy alapesély: feltételezzük, hogy a karaktered ezzel az alapvető szinttel rendelkezik a képzettségben, mielőtt bármilyen további képzettségi pontot hozzáadna. Ha képzettségkategória-bónuszokat (lásd **Képzettségkategória-bónuszok**) használtok, add hozzá (vagy vond ki) azokat minden képzettség alapesélyéhez.
 
-A képzettségek alapértéke nagyban függ a kampány korától: a középkori Európában játszódó kampányok karakterei magasabb alapértékekkel rendelkeznek az Ismeret (Vallás) területén, mint a modern amerikai állampolgárok, míg az utóbbiak előnyben lehetnek az Orvoslás képzettségekben az iskolai és munkahelyi elsősegély-képzés miatt. Minden képzettség leírása felsorol több alapértéket a különböző koroknak megfelelően. A mesélőnek bátran módosítania kell az alapértékeket a különböző beállításokhoz.
+Egy képzettség alapesélye nagyban függ a kampány korától: a középkori Európában játszódó kampány karaktereinek magasabb az alapesélyük az Ismeret (Vallás) képzettségben, mint a modern amerikai állampolgároknak, míg az amerikaiak előnyben lehetnek az orvosi képzettségekben a közoktatásban és a munkahelyeken zajló alapvető elsősegély-képzések miatt. Minden képzettség leírása több alapesélyt sorol fel a különböző korokhoz, ahogy az megfelelő. A mesélő bátran változtassa meg a képzettségek alapesélyeit, hogy azok illeszkedjenek a különböző környezetekhez.
 
 > #### Cselekvés képzettség nélkül
 >
-> Néha a karakterednek olyan akciót kell megkísérelnie, amelyhez semmilyen képzettségi szinttel (0%) nem rendelkezik. Ha a mesélő egyetért abban, hogy a feladat sikere lehetséges, dobj az alábbi lehetőségek egyikével:
+> Néha a karakterednek olyan cselekvést kell megkísérelnie, amelyhez semmilyen képzettségi szintje nincs (0%). Ha a mesélő egyetért azzal, hogy a feladat sikeres végrehajtása lehetséges, dobj az alábbi lehetőségek egyikével:
 >
-> * **Képzettségi kategória-bónusz:** Ha az opcionális képzettségi kategória rendszert használjátok, használd a kategória módosítót alapértékként. A nyers tehetség néha legyőzheti a képzés hiányát. Ha sikeres és a képzettség fejleszthető tapasztalattal, akkor tapasztalati próbát kell tenni.
+> * **Képzettségkategória-bónusz:** Ha az opcionális képzettségkategória-rendszert használjátok, használd a képzettségkategória módosítóját alapesélyként. A nyers tehetség néha legyőzheti a képzés hiányát. Ha sikeres, és a képzettség fejleszthető tapasztalattal, akkor tapasztalati próbát kell tenni.
 >
-> * **Vak szerencse:** Próbálkozz, de csak 1%-os eséllyel, vagy egy kétségbeesett "mindent vagy semmit" erőfeszítéssel (TÖE×1), ha a vakszerencse szerepet játszhat, a mesélő jóváhagyásával. Erre nem adható tapasztalati próba, mivel ez vakszerencse, nem pedig képzettség vagy természetes tehetség.
+> * **Vad esély:** Próbáld meg, de csak 1%-os eséllyel a sikerre, vagy egy utolsó esélyként a HAT×1 dobással, ha a vakszerencse tényező lehet, a mesélő jóváhagyásával. Ehhez nem jár tapasztalati próba, mivel ez vakszerencse, szemben bármilyen képzettséggel vagy természetes tehetséggel.
 
 ### Képzettségi szintek mérése
 
-A karaktered képzettségi szintjei definiálják a képességeit a játék során. De mit jelent egy adott szint általános értelemben? Használd az alábbi irányelveket a jártasság mérésére. Bizonyos szinteken, nem kritikus vagy drámai körülmények között, a dobás akár el is hagyható—rutinszerű feltételek mellett az adott kompetenciaszinttel rendelkező karakterek rendszeresen végrehajthatják ezeket a feladatokat dobás nélkül, bár az *Automatikus* siker nem érdemel tapasztalati próbát.
+Karaktered képzettségi szintjei meghatározzák a képességeit a játék során. De mit jelent egy adott képzettségi szint általánosabb értelemben? Használd az alábbi irányelveket a jártasság mérésére. Bizonyos képzettségi fokokon, nem kritikus vagy nem drámai körülmények között, a dobásra talán nincs is szükség—rutinszerű helyzetekben az adott kompetenciaszinttel rendelkező karakterek rendszeresen végrehajthatják ezeket a képzettségeket anélkül, hogy sikerességi dobásra lenne szükségük, bár az *Automatikus* siker nem érdemel tapasztalati próbát.
 
 ##### Képzettségi szint táblázat
 
 | Képzettségi szint | Kompetencia | Leírás |
-| :--- | :--- | :--- |
-| 00–05% | Kezdő | Teljes amatőr, csekély eséllyel még a Könnyű feladatoknál is. Minden alkalommal dobj, amikor a karaktered megkísérli a képzettséget, legyen szó stresszes helyzetről vagy ideális körülményekről. |
-| 06–25% | Tanonc | Kezdő vagy csekély tudással rendelkezik a tárgyban. Ahogy mondják, "annyit tud, hogy veszélyes legyen". Időnként sikeres, és emiatt túlzottan magabiztossá válhat. Dobj minden alkalommal, amikor a karaktered próbálkozik, még akkor is, ha a feladat Könnyű. |
-| 26–50% | Amatőr | Kevés tehetség, némi képzés, vagy hobbyszintű próbálkozás. A karaktered alig képzett, de rábízhatók Automatikus vagy Könnyű feladatok. Nem stresszes helyzetekben a karaktered dobás nélkül végezhet rutintevékenységeket. |
-| 51–75% | Profi | 51%-tól a karaktered megbízhatóan megélhet a képzettségből. Nem kell aggódnia a Könnyű feladatok kudarcáért, elég tapasztalt ahhoz, hogy vezetője vagy menedzsere legyen másoknak. Az 51% nagyjából megfelel egy főiskolai diplomának egy adott szakterületen. A legtöbb képzettség nem emelhető 75% fölé pusztán oktatással vagy képzéssel: a karakterednek gyakorlati tapasztalat útján kell tovább fejlődnie. A karaktered általában képes rutinfeladatokra, és csak akkor kell dobnod, ha kockázat áll fenn, vagy a kudarc esélye drámai. |
-| 76–90% | Szakértő | Haladó szakértelem az adott területen: a karakterednek ésszerű esélye van a Nehéz feladatok teljesítésére is. Csak elhivatott profik érik el ezt a szintet, akiket tisztelnek és akikre számítanak szakértelmük miatt. Ez a tartomány egy felsőfokú végzettségnek (mester vagy PhD) vagy több éves tapasztalatnak felel meg. A legtöbb átlagos karakter nem kezdheti a játékot 75%-nál magasabb képzettséggel. A karakterednek képesnek kell lennie összetett, kihívást jelentő cselekvésekre rutinkörülmények között dobás nélkül, feltéve, hogy van rá ideje, megfelelő felszerelése. |
-| 91% vagy magasabb | Mester | Kevesen érik el ezt a szintet. Csak a legnehezebb feladatok haladják meg a képességeiket, szakértelmük miatt híresek szakterületükön, néha az egész világon. Rutinhelyzetekben a karaktered csodákra képes, és ritkán kell kockával dobnod, kivéve a legnehezebb feladatoknál vagy drasztikus körülmények között. Ha az opcionális Épség szabályokat használjátok, egy 91%-os szint elérése azonnal visszaállít 2D6 ÉP-t, reprezentálva a mesteri szinttel járó önbizalmat és fegyelmet (ez egy egyszeri bónusz). Ha a karaktered már eleve ezzel vagy magasabb szinttel kezd, nincs ÉP bónusz. |
+| :---- | :---- | :---- |
+| 00–05% | Kezdő | Teljes amatőr, csekély reménnyel a sikerre még Könnyű feladatoknál is. Minden alkalommal dobnod kell, amikor a karaktered megkísérli ezt a képzettséget, legyen szó stresszes helyzetről vagy ideális körülményekről. |
+| 06–25% | Újonc | Vagy kezdő, vagy csekély tudással rendelkezik az adott témáról. Ahogy mondani szokták: „Épp eleget tud ahhoz, hogy veszélyes legyen.” Alkalmanként sikeres, és ennek eredményeként túlzottan magabiztossá válhat. Dobj, valahányszor a karaktered megkísérli ezt a képzettséget, még akkor is, ha a feladat Könnyű. |
+| 26–50% | Amatőr | Kevés tehetség, némi képzés, vagy hobbyszintű belekóstolás. Karaktered éppen csak képes, de rá lehet bízni Automatikus vagy Könnyű feladatokat. Nem stresszes helyzetekben karaktered képes elvégezni rutintevékenységeket ezzel a képzettséggel dobás nélkül. |
+| 51–75% | Profi | 51%-on a karaktered megbízhatóan képes megélni a képzettség használatával. Általában nem kell aggódnia a Könnyű feladatok elrontása miatt, és elég tapasztalt vagy jártas ahhoz, hogy vezetőként vagy mások irányítójaként szolgáljon. Az 51% nagyjából egy alapdiplomának felel meg egy adott tudományágban. A legtöbb képzettség nem emelhető 75% fölé pusztán oktatással vagy képzéssel: karakterednek gyakorlati alkalmazással kell tovább fejlődnie. Karaktered általában képes elvégezni a képzettséghez kapcsolódó rutinszerű vagy akár összetett tevékenységeket, és csak akkor kell dobnod, ha kockázati elem merül fel, vagy ha a kudarc esélye drámai. |
+| 76–90% | Szakértő | Haladó szakértelem az adott területen: a karakterednek ésszerű esélye van a sikerre még Nehéz feladatoknál is. Csak elkötelezett szakemberek érik el a képzettség ilyen fokú uralását, és akinek ez sikerül, azt tisztelik és támaszkodnak a szakértelmére. Ebben a tartományban a képzettségek megfelelnek egy haladó diplomának (Masters vagy Ph.D.), vagy sokéves tapasztalatnak. A legtöbb átlagos karakter nem kezdheti a játékot 75%-nál magasabb képzettséggel. Karakterednek képesnek kell lennie összetett és kihívást jelentő cselekvések elvégzésére ezzel a képzettséggel rutinszerű körülmények között dobás nélkül, feltéve, hogy rászánja az időt, és rendelkezésre állnak a megfelelő létesítmények és/vagy felszerelés. |
+| 91% vagy magasabb | Mester | Kevesen érik el ezt a mesteri szintet. Csak a legnehezebb feladatok haladják meg a képességeiket, és szakértelmük nagy valószínűséggel híressé tette ezeket a mestereket a saját területükön, és néha az egész világon. Rutinszerű helyzetekben a karaktered csodákra képes, és ritkán kell dobnod a kockákkal, kivéve a legnehezebb feladatoknál vagy súlyos körülmények között. Ha az opcionális Épérzéki szabályokat használjátok egy kampányban, a 91%-os képzettségi szint elérése azonnal visszaállít 2D6 ÉP pontot, ami a képzettség elsajátításával járó önbizalmat és fegyelmet képviseli (ez egyszeri bónusz). Ha a karaktered ezzel a képzettségi szinttel vagy magasabbal kezd, nincs ÉP-növekedés. |
 
 ### 100% feletti képzettségi szintek
 
-A karaktered tapasztalati bónusza lehetővé teszi, hogy 100% fölé emeld a képzettségi szintet. A 100% feletti képzettségek a standard rendszereket használják a különleges vagy kritikus sikerek esélyének kiszámítására, valamint jobb esélyeket kínálnak a Nehéz feladatokhoz vagy negatív körülményi módosítók esetén. Ezenkívül, ha a karakterednek 100% feletti harci képzettsége van, több támadást is végrehajthat egy harci körben, ahogy a **Támadások és hárítások 100% felett** részben leírtuk.
+A karaktered tapasztalati bónusza lehetővé teszi, hogy 100% fölé emeld a képzettségi szinteket. A 100%-nál magasabb képzettségek a standard rendszereket használják a különleges vagy kritikus sikerek esélyének kiszámításához, valamint jobb esélyeket kínálnak a sikerre Nehéz feladatoknál vagy negatív körülményi módosítók esetén. Emellett, ha karaktered 100% feletti harci képzettséggel rendelkezik, több támadást is végrehajthat egy harci körben, ahogy azt a **100% feletti támadások és hárítások** rész leírja.
 
 ### Képzettségek listája kategóriák szerint
 
-Az alábbiakban a kategóriákra osztott teljes képzettséglista következik.
+Alább következik a képzettségek teljes listája kategóriákra osztva.
 
 | Harci | Kommunikációs | Manipulációs | Mentális |
-| :--- | :--- | :--- | :--- |
-| Tüzérség (különböző) | Alkudozás | Művészet (különböző) | Becslés |
-| Verekedés | Parancsolás | Mesterség (különböző) | Elsősegély |
-| Energiafegyver (különböző) | Álcázás | Robbantás | Szerencsejáték |
-| Lőfegyver (különböző) | Etikett (különböző) | Finom manipuláció | Ismeret (különböző) |
-| Bírkózás | Dumálás | Nehézgép (különböző) | Írás-olvasás (Opcionális) |
-| Nehézfegyver (különböző) | Nyelv (különböző) | Javítás (különböző) | Orvoslás |
-| Harcművészet | Előadás | Kézügyesség | Pszichoterápia |
-| Közelharci fegyver (különböző) | Meggyőzés | | Tudomány (különböző) |
-| Lőtávolságú fegyver (különböző) | Státusz | | Stratégia |
-| Hárítás (különböző) | Tanítás | | Technikai képzettség (különböző) |
+| :---- | :---- | :---- | :---- |
+| Tüzérség (különféle) | Alkudozás | Művészet (különféle) | Becslés |
+| Berekedés | Parancsolás | Mesterség (különféle) | Elsősegély |
+| Energiafegyver (különféle) | Álcázás | Robbantás | Játék |
+| Lőfegyver (különféle) | Etikett (különféle) | Finom manipuláció | Ismeret (különféle) |
+| Bírkózás | Gyors beszéd | Nehézgép (különféle) | Írás-olvasás (Opcionális) |
+| Nehézfegyver (különféle) | Nyelv (különféle) | Javítás (különféle) | Gyógyászat |
+| Harcművészet | Előadás | Ügyeskedés | Pszichoterápia |
+| Közelharci fegyver (különféle) | Meggyőzés | | Tudomány (különféle) |
+| Dobófegyver (különféle) | Státusz | | Stratégia |
+| Hárítás (különféle) | Tanítás | | Technikai képzettség (különféle) |
 | Pajzs | | | |
 
 | Észlelési | Fizikai | Fizikai |
-| :--- | :--- | :--- |
-| Megérzés | Mászás | Vetítés |
-| Figyelés | Kitérés | Lovaglás (különböző) |
-| Navigáció | Vezetés (különböző) | Lopózás |
+| :---- | :---- | :---- |
+| Beleérzés | Mászás | Projekció |
+| Figyelés | Kitérés | Lovaglás (különféle) |
+| Navigáció | Vezetés (különféle) | Lopakodás |
 | Kutatás | Repülés | Úszás |
 | Érzékelés | Rejtőzés | Dobás |
-| Fürkészés | Ugrás | |
-| Nyomkövetés | Pilótázás (különböző) | |
+| Keresés | Ugrás | |
+| Nyomkövetés | Pilótázás (különféle) | |### Betűrendes képzettséglista
 
-### Képzettségek betűrendes listája
-
-Az alábbiakban az összes képzettség betűrendbe szedett listája következik, kategóriával és alapértékkel.
+Az alábbiakban a fejezet összes képzettségének betűrendes listája olvasható. Minden bejegyzés tartalmazza a képzettség kategóriáját és alapértékét.
 
 | Képzettség | Kategória | Alap % |
-| :--- | :--- | :--- |
-| Becslés | Mentális | 15% |
-| Művészet (különböző) | Manipulációs | 05% |
-| Tüzérség (különböző) | Harci | fegyverspecializációnként |
-| Alkudozás | Kommunikációs | 05% |
-| Verekedés | Harci | 25% |
+| :---- | :---- | :---- |
+| Értékbecslés | Mentális | 15% |
+| Művészet (különböző) | Manipuláció | 05% |
+| Tüzérség (különböző) | Harc | fegyverspecialitásonként |
+| Alkudozás | Kommunikáció | 05% |
+| Verekedés | Harc | 25% |
 | Mászás | Fizikai | 40% |
-| Parancsolás | Kommunikációs | 05% |
-| Mesterség (különböző) | Manipulációs | 05% |
-| Robbantás | Manipulációs | 01% |
-| Álcázás | Kommunikációs | 01% |
-| Kitérés | Fizikai | TÖE×2 |
+| Parancsnokság | Kommunikáció | 05% |
+| Mesterség (különböző) | Manipuláció | 05% |
+| Rombolás | Manipuláció | 01% |
+| Álcázás | Kommunikáció | 01% |
+| Kitérés | Fizikai | ÜGY×2 |
 | Vezetés (különböző) | Fizikai | 20% vagy 01% |
-| Energiafegyver (különböző) | Harci | fegyverspecializációnként |
-| Etikett (különböző) | Kommunikációs | 05% |
-| Dumálás | Kommunikációs | 05% |
-| Finom manipuláció | Manipulációs | 05% |
-| Lőfegyver (különböző) | Harci | fegyverspecializációnként |
+| Energiafegyver (különböző) | Harc | fegyverspecialitásonként |
+| Etikett (különböző) | Kommunikáció | 05% |
+| Duma | Kommunikáció | 05% |
+| Finom manipuláció | Manipuláció | 05% |
+| Lőfegyver (különböző) | Harc | fegyverspecialitásonként |
 | Elsősegély | Mentális | 30% |
-| Repülés | Fizikai | TÖE×4 vagy 1/2 TÖE |
-| Szerencsejáték | Mentális | INT+TÖE |
-| Bírkózás | Harci | 25% |
-| Nehézgép (különböző) | Manipulációs | 01% |
-| Nehézfegyver (különböző) | Harci | fegyverspecializációnként |
+| Repülés | Fizikai | ÜGY×4 vagy 1/2 ÜGY |
+| Játék | Mentális | INT+HAT |
+| Birkózás | Harc | 25% |
+| Nehézgép (különböző) | Manipuláció | 01% |
+| Nehézfegyver (különböző) | Harc | fegyverspecialitásonként |
 | Rejtőzés | Fizikai | 10% |
-| Megérzés | Észlelési | 05% |
+| Beleérzés | Észlelés | 05% |
 | Ugrás | Fizikai | 25% |
-| Ismeret (különböző) | Mentális | 05% vagy 00% |
-| Nyelv (különböző) | Kommunikációs | INT (vagy EDU)×5 vagy 00% |
-| Figyelés | Észlelési | 25% |
-| Írás-olvasás (opcionális) | Mentális | 00% vagy Nyelvvel egyenlő |
-| Harcművészet | Harci | 01% |
-| Orvoslás | Mentális | 05% |
-| Közelharci fegyver (különböző) | Harci | fegyverspecializációnként |
-| Lőtávolságú fegyver (különböző) | Harci | fegyverspecializációnként |
-| Navigáció | Észlelési | 10% |
-| Hárítás (különböző) | Harci | fegyverspecializációnként |
-| Előadás | Kommunikációs | 05% |
-| Meggyőzés | Kommunikációs | 15% |
-| Pilótázás (különböző) | Fizikai | 01% |
-| Vetítés | Fizikai | TÖE×2 |
+| Tudás (különböző) | Mentális | 05% vagy 00% |
+| Nyelv (különböző) | Kommunikáció | INT (vagy EDU)×5 vagy 00% |
+| Figyelés | Észlelés | 25% |
+| Írás-olvasás (opcionális) | Mentális | 00% vagy megegyezik a Nyelvvel |
+| Harcművészet | Harc | 01% |
+| Orvostudomány | Mentális | 05% |
+| Közelharci fegyver (különböző) | Harc | fegyverspecialitásonként |
+| Lőtávolsági fegyver (különböző) | Harc | fegyverspecialitásonként |
+| Navigáció | Észlelés | 10% |
+| Hárítás (különböző) | Harc | fegyverspecialitásonként |
+| Előadóművészet | Kommunikáció | 05% |
+| Meggyőzés | Kommunikáció | 15% |
+| Pilóta (különböző) | Fizikai | 01% |
+| Vetés | Fizikai | ÜGY×2 |
 | Pszichoterápia | Mentális | 01% vagy 00% |
-| Javítás (különböző) | Manipulációs | 15% |
-| Kutatás | Észlelési | 25% |
+| Javítás (különböző) | Manipuláció | 15% |
+| Kutatás | Észlelés | 25% |
 | Lovaglás (különböző) | Fizikai | 05% |
 | Tudomány (különböző) | Mentális | 01% |
-| Érzékelés | Észlelési | 10% |
-| Pajzs | Harci | pajzsonként |
-| Kézügyesség | Manipulációs | 05% |
-| Fürkészés | Észlelési | 25% |
-| Státusz | Kommunikációs | 15% vagy változó |
-| Lopózás | Fizikai | 10% |
+| Érzékelés | Észlelés | 10% |
+| Pajzs | Harc | pajzsonként |
+| Kézügyesség | Manipuláció | 05% |
+| Észrevétel | Észlelés | 25% |
+| Státusz | Kommunikáció | 15% vagy különböző |
+| Lopakodás | Fizikai | 10% |
 | Stratégia | Mentális | 01% |
 | Úszás | Fizikai | 25% |
-| Tanítás | Kommunikációs | 10% |
+| Tanítás | Kommunikáció | 10% |
 | Technikai képzettség (különböző) | Mentális | 05% |
 | Dobás | Fizikai | 25% |
-| Nyomkövetés | Észlelési | 10% |
+| Nyomkövetés | Észlelés | 10% |
 
-> ### Kiegészítő képzettségek
->
-> Néhány képzettség szorosan kapcsolódik másokhoz, és az egyik területen szerzett jártasság előnyös lehet a másikban. A mesélő engedélyével a karaktered átmenetileg hozzáadhatja egy **kiegészítő képzettség** szintjének 1/5-ét egy másik képzettség szintjéhez a próbák során. Sok kiegészítő felhasználás meg van jegyezve az alábbi képzettségleírásokban. Te és a többi játékos kétségkívül találtok majd újakat is.
->
-> Egyszerre csak egy képzettség lehet kiegészítője egy másiknak egy adott próba során. Ha több képzettség is alkalmazható, vagy használják őket a bónusz eléréséhez, a hatások nem összeadódnak – a játékosnak és a mesélőnek ki kell választania a legmagasabb használható bónuszt, vagy azt, amelyik leginkább megfelel az adott helyzetnek.
->
-> Ha a fő képzettségpróba sikeres, a karaktered csak a fő képzettségre kap tapasztalati próbát, a kiegészítőre nem.
->
-> Például: *a karakterednek 65%-os Orvoslás és 40%-os Tudomány (Gyógyszerészet) képzettsége van. Beteget próbálnak kezelni. Amíg a karakterednek elegendő orvosi felszerelése és gyógyszere áll rendelkezésre, hozzáadhat 8%-ot (a Tudomány (Gyógyszerészet) 1/5-ét) az Orvoslás képzettség szintjéhez, ami így 73%-os módosított szintre emelkedik. A karaktered nem adhat hozzá még az Elsősegély vagy a Tudomány (Biológia) képzettségének 1/5-ét is a gyógyszerészeti bónusz tetejére. Ebben az esetben a mesélő úgy dönt, hogy a Tudomány (Gyógyszerészet) a legmegfelelőbb a bónuszhoz.*
->
-> Egy képzettség **támogatása** hasonló, de kissé másképp működik. Ha a mesélő engedélyezi, megkísérelhetsz egy kiegészítő képzettségpróbát, hogy támogasd a fő képzettségpróbát.
->
-> * Ha a támogató képzettségpróba sikeres, egy fokozattal módosíthatod a fő képzettség nehézségét, például egy *Nehéz* próbát *Átlagossá*, vagy egy *Átlagos* feladatot *Könnyűvé*.
-> * Ez nem tehető meg egyidejűleg a kiegészítő képzettség bónuszával, és csak egyfokozatú módosítás lehetséges.
-> * Ha a támogatás kudarcot vall, a fő képzettség nehézsége az ellenkező irányba módosul egy fokozattal, például egy *Normál* képzettség *Nehézzé* válik zavar vagy egymásnak ellentmondó információk miatt.
-> * Ha a támogató képzettségpróba sikeres, akkor a szokásos módon tapasztalati próbát tehetsz rá, csakúgy, mint a fő képzettségre. Ha a fő próba sikertelen, a támogató képzettség nem kap tapasztalati próbát.
->
-> Nem támogathatsz egy képzettséget és használhatsz kiegészítő képzettség bónuszt egyszerre ugyanahhoz a próba dobáshoz.
+> ### Kiegészítő és komplementer képzettségek
+> 
+> Egyes képzettségek szorosan összefüggnek másokkal, és az egyik területen szerzett jártasság előnyös lehet egy másikban. A mesélő engedélyével a karaktered időlegesen hozzáadhatja egy **komplementer képzettség** értékének 1/5-ét egy másik képzettség próbájához. Számos komplementer alkalmazási lehetőség fel van tüntetve az alábbi képzettségleírásokban. Te és a többi játékos kétségkívül találtok majd továbbiakat is.
+> 
+> Bármely adott próba segítésére csak egyetlen képzettség használható komplementerként. Ha több képzettség is alkalmazható lenne, vagy ha ezeket a bónusz elérésére használnák, a hatások nem adódnak össze — a játékosnak és a mesélőnek ki kell választania a legmagasabb bónuszt, vagy azt, amelyik a legjobban illik az adott helyzethez.
+> 
+> Ha a fő képzettségpróba sikeres, a karaktered csak a fő képzettségre kap tapasztalati próbát, a felhasznált komplementer képzettségre nem.
+> 
+> Például: *a karaktered Orvostudomány képzettsége 65%, a Tudomány (Gyógyszerészet) képzettsége 40%. Megpróbál meggyógyítani egy beteg pácienst. Amíg a karaktered rendelkezik elegendő orvosi felszereléssel és gyógyszerrel, hozzáadhat 8%-ot (a Tudomány (Gyógyszerészet) értéke 1/5-ét) az Orvostudomány értékéhez, így a módosított érték 73% lesz. A karaktered nem adhatja hozzá az Elsősegély vagy a Tudomány (Biológia) képzettsége 1/5-ét a Gyógyszerészet bónuszon felül. Ebben az esetben a mesélő úgy dönt, hogy a Tudomány (Gyógyszerészet) képzettség a legmegfelelőbb a bónuszhoz.*
+> 
+> A képzettség **kiegészítése (augment)** hasonló, de némileg eltérő módon működik. Ha a mesélő megengedi, megpróbálhatod egy komplementer képzettség próbáját végrehajtani egy másik fő képzettségpróba támogatására, azaz kiegészítésére.
+> 
+> * Ha a kiegészítő képzettségpróba sikeres, egy fokozattal módosíthatod a fő képzettség nehézségét, például egy *Nehéz* próbát *Átlagosra*, vagy egy *Átlagos* feladatot *Könnyűre* változtathatsz.
+> 
+> * Ez azonban nem történhet egyidejűleg a komplementer képzettség bónuszával, és csak egy fokozatú módosítás lehetséges.
+> 
+> * Ha a kiegészítés sikertelen, a fő képzettség nehézsége egy fokozattal az ellenkező irányba módosul, például egy *Normál* képzettség *Nehézzé* válik a zavar vagy az ellentmondásos információk miatt.
+> 
+> * Ha a kiegészítő képzettségpróba sikeres, azt a szokásos módon próbálhatod tapasztalati szempontból, a fő képzettséggel együtt. Ha a fő próba sikertelen, a kiegészítő képzettség nem kap tapasztalati próbát.
+> 
+> Ugyanazon képzettségpróbánál nem használhatsz egyszerre kiegészítést és komplementer képzettség bónuszt.
 
 > ### A sikerek eredményeinek leírása
->
-> Általában a képzettségpróbák eredménye nyilvánvaló, de ha kétségeid vannak, használd az alábbi irányelveket a kimenetel meghatározásakor:
->
-> * Egy **baki** általában azt jelenti, hogy a kívánt eredmény ellentétje következett be: félrevezető információt nyújt, valamilyen visszalépést okoz, vagy akár hátrányba hozza a karaktert.
-> * A **kudarc** azt jelenti, hogy a kívánt eredmény nem valósult meg.
-> * Egy normál **siker** azt jelenti, hogy egy ésszerű és átlagos cél megvalósult. A mesélő a végső döntőbíró, de a hatásnak nyilvánvalónak kell lennie.
-> * Egy **különleges siker** kétszeres hatékonyságú a normál sikerhez képest, és/vagy további információt nyújt a tárgyról.
-> * Egy **kritikus siker** háromszoros hatékonyságú, és/vagy jelentős információt szolgáltat a tárgyról.
->
-> Ahogy fentebb említettük, azoknál a képzettségeknél, ahol az eredmények nagyon specifikusak és részletekre van szükség, a definiált eredmények megmaradtak.
+> 
+> Általában a képzettségpróbák eredménye egyértelmű, de ha kétségeid támadnának, használd az alábbi útmutatót az eredmények meghatározásakor:
+> 
+> * A **baki** általában azt jelenti, hogy a kívánt eredmény ellenkezője következett be, félrevezető információkhoz vezetett, valamilyen visszaesést okozott, vagy akár hátrányba is hozta a karaktert.
+> 
+> * A **sikertelenség** azt jelenti, hogy a kívánt eredmény nem valósult meg.
+> 
+> * Egy normál **siker** azt jelenti, hogy egy ésszerű és átlagos cél megvalósult. A mesélő az eredmények végső döntőbírája, de a hatásnak egyértelműnek kell lennie.
+> 
+> * A **különleges siker** a normál siker hatásosságának dupláját eredményezi, és/vagy további információkat szolgáltat az adott témáról.
+> 
+> * A **kritikus siker** a normál siker hatásosságának tripláját eredményezi, és/vagy jelentős információkat szolgáltat az adott témáról.
+> 
+> Mint fentebb említettük, azoknál a képzettségeknél, ahol az eredmények nagyon specifikusak és részletekre van szükség, a meghatározott eredmények megmaradtak.
 
-## Képzettségek leírása
+## Képzettségleírások
 
-A képzettségek átfogó, betűrendes listája következik. Minden bejegyzés a következő információkat tartalmazza:
+Az alábbiakban a képzettségek átfogó, betűrendes listája következik. Minden bejegyzés a következő információkat tartalmazza:
 
 * **Képzettség neve:** A képzettség neve.
-* **Alapérték:** A képzettségi szint, amellyel minden karakter rendelkezik, korszak szerint specializálva, ha alkalmazható.
-* **Kategória:** A képzettségi kategória, amelybe a képzettség tartozik, az általános osztályozás és az opcionális kategória-bónuszok céljából.
-* **Leírás:** Rövid leírás azokról a feladatokról, amelyeket a képzettséggel végre lehet hajtani.
-* **Specializációk:** A képzettség különálló specializációinak listája, ha vannak. Nem minden specializációval rendelkező képzettség van kibontva listában – csak azok, amelyek mechanikusabb természetűek, például a harci képzettségek.
-* **Hatások:** A képzettségpróba eredménye minden sikerfokozatra, ahol szükséges. Röviden: a baki (a lehető legrosszabb eredmény, általában 99 vagy 00), kudarc (a képzettségi szint feletti dobás), siker (a képzettségi szint alatti dobás), különleges siker (a képzettségi szint 1/5-e vagy kevesebb), vagy kritikus siker (a képzettségi szint 1/20-a). Az Ötödik fejezet: Rendszer ezt részletesen elmagyarázza. Lásd még a Sikerek leírása oldalsávot.
-* **Beállítási jegyzetek:** További információ a képzettségről különböző beállításokban. Ha ez a bejegyzés hiányzik, a képzettség szinte bármilyen beállításban változatlanul működik.
+* **Alapérték:** Az a képzettségi szint, amellyel minden karakter rendelkezik, adott esetben korszak szerint specializálva.
+* **Kategória:** Az a képzettségkategória, amelybe a képzettség tartozik, az általános osztályozás és az opcionális kategóriabónuszok céljából.
+* **Leírás:** Rövid leírás azokról a feladatokról, amelyek a képzettség használatával elvégezhetők.
+* **Specialitások:** A képzettség különálló specialitásainak felsorolása, ha vannak. Nem minden specialitásokkal rendelkező képzettség van kifejtve golyós listában — csak azok, amelyek inkább mechanikai jellegűek, például a harci képzettségek.
+* **Hatások:** A képzettségpróba eredménye minden sikerszintnél, ahol szükséges. Röviden: a képzettség eredménye lehet baki (a lehető legrosszabb eredmény, általában 99-es vagy 00-s dobás), sikertelenség (a képzettségi szinted feletti dobás), siker (a képzettségi szinted alatti dobás), különleges siker (a képzettségi szinted 1/5-e vagy kevesebb), vagy kritikus siker (a képzettségi szinted 1/20-a). Az ötödik fejezet: Rendszer ezt részletesen kifejti. Lásd még a Sikereredmények leírása oldalsávot is.
+* **Beállítási jegyzetek:** További információk a képzettségről különböző beállításokban. Ha ez a bejegyzés nem szerepel, a képzettség szinte minden beállításban változatlanul működik.
 * **Rendszerjegyzetek:** Releváns szabályok vagy rendszerek, ha vannak.
 
-### Becslés
+### Értékbecslés
 
 **Alapérték:** 15%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget egy tárgy értékének megbecslésére, legyen szó régi festményről, drágakőről, fegyverről vagy hátaslóról. A kudarc azt jelenti, hogy fogalmuk sincs, míg a baki téves információt eredményez. A különleges vagy kritikus siker további információt ad.
+Használd ezt a képzettséget egy tárgy értékének felbecslésére, legyen szó egy régi festményről, drágakőről, fegyverről vagy hátaslóról. A sikertelenség azt jelenti, hogy fogalmuk sincs, míg a baki hamis információt eredményez. A különleges vagy kritikus siker további információkat nyújt.
 
 ### Művészet (különböző)
 
 **Alapérték:** 05%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd ezt a képzettséget műalkotás létrehozására festmény vagy szobor formájában, vagy történet, vers, zenemű szerzésére. A kritikus vagy különleges siker időtálló klasszikust eredményez, amely jóval értékesebb és tekintélyesebb; a kudarc középszerű, a baki pedig árthat az alkotó hírnevének. Színészkedéshez, tánchoz, énekléshez vagy hangszeren való játékhoz használd az Előadást.
+Használd ezt a képzettséget műalkotás készítésére festészettel vagy szobrászattal, vagy történet, vers, illetve zenemű komponálására. A kritikus vagy különleges siker egy időtlen klasszikust eredményez, amely lényegesen értékesebb és nagyobb presztízzsel bír, a sikertelenség középszerű, összecsapott munkát jelent, a baki pedig árthat az alkotó hírnevének. Színészkedéshez, tánchoz, énekléshez vagy hangszeres játékhoz az Előadóművészet képzettséget kell használnod.
 
-**Specializációk:** Kalligráfia, Zeneszerzés, Konceptuális művészet, Digitális művészet, Rajzolás, Festészet, Fotózás, Költészet, Szobrászat, Vázlatkészítés, Dalszerzés, Írás stb.
+**Specialitások:** Kalligráfia, Komponálás, Koncepcionális művészet, Digitális művészet, Rajz, Festészet, Fotózás, Költészet, Szobrászat, Vázlatkészítés, Dalszerzés, Írás stb.
 
-**Beállítási jegyzetek:** A művészet univerzális, bár lehetnek korszak- vagy beállítás-specifikus specializációi.
+**Beállítási jegyzetek:** A művészet univerzális, bár korszak- vagy beállítás-specifikus specialitásai lehetnek.
 
 ### Tüzérség (különböző)
 
-**Alapérték:** Fegyverspecializációnként
+**Alapérték:** Fegyverspecialitásonként
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget hatalmas tüzérségi lövegek és nehéz járműfegyverek elsütésére, lényegében minden olyan fegyvernél, amely túl nagy ahhoz, hogy egy ember mozgassa vagy kezelje, például ágyú, trebuchet vagy balliszta.
+Használd ezt a képzettséget masszív ágyúk és nehéz járműfegyverek tüzelésére, lényegében bármilyen olyan fegyverre, amely túl nagy ahhoz, hogy egyetlen személy mozgassa vagy manőverezze, például ágyú, trebuchet vagy balliszta.
 
-**Specializációk:** A specializációk a típusoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés a tüzérségi típusokhoz.
+**Specialitások:** A specialitások a típusokkal egyenértékűek. Lásd a **Fegyverosztályok** című részt a nyolcadik fejezetben: Felszerelés a tüzérségi típusokhoz.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolságú fegyver baki táblázatot** a konkrét hatásokért.
+**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolsági fegyver bakik táblázatot** a konkrét hatásokért.
 
-**Beállítási jegyzetek:** Sokféle beállításhoz alkalmas, az ostromgépektől a modern vagy futurisztikus tüzérségig és járműfegyverekig. A legtöbb beállításban katonai háttér szükséges a képzettség elsajátításához.
+**Beállítási jegyzetek:** Számos környezethez alkalmas, az ostromgépektől a modern vagy futurisztikus tüzérségi és járműfegyverekig. A legtöbb környezetben katonai háttér szükséges a képzettség megtanulásához.
 
-**Rendszerjegyzetek:** Sok nagy fegyver kezeléséhez legénységre van szükség; egyedül megpróbálni használni azokat Nehéz cselekvés, vagy akár Lehetetlen is lehet. Több körbe vagy akár fordulóba is telhet egy fegyverrendszer betöltése és előkészítése a lövések között. Sok nagy fegyver sorozatlövést alkalmaz vagy robbanótöltetet lő. Lásd a **Sorozatlövést** és a **Robbanást**. Minden lövés valahová becsapódik; a mesélőnek el kell döntenie, hová csapódnak be a célt tévesztett robbanó- vagy energiatöltetek.
+**Rendszerjegyzetek:** Sok nagy fegyver kezeléséhez személyzet szükséges; az egyedül történő használatuk Nehéz cselekedet, vagy akár Lehetetlen is lehet. Több körbe vagy akár turnusba is telhet a fegyverrendszer töltése és előkészítése a lövések között. Sok nagy fegyver sorozatlövést alkalmaz vagy robbanóeszközöket lő. Lásd a **Sorozatlövés** és **Robbanás** részeket. Minden lövés valahová becsapódik; a mesélőnek el kell döntenie, hová csapódnak be a tévesztett robbanó- vagy energialövések.
 
 ### Alkudozás
 
 **Alapérték:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget árak kialkudására, és valahányszor ellentétes vélemények találkoznak a tárgyalások és kompromisszumok során. Használj ellentétes képzettségi próbákat fontos üzletek eldöntésére, és egyszerű próbákat triviális kísérleteknél (pl. pénz megtakarítása felszerelésen vagy szálláson). Az alkudozás a kompromisszumról szól: használj Dumálást vagy Meggyőzést az olyan viták rendezésére, amelyeket abszolút meg kell nyerni vagy el kell veszíteni. A baki egy kereskedőt ellenséggé változtathat, a siker üzletet jelent, a jobb eredmények pedig magasabb kedvezményeket vagy kedvezőbb feltételeket biztosítanak a te oldaladnak.
+Használd ezt a képzettséget árak alkudozására, és amikor ellentétes vélemények találkoznak tárgyalások és kompromisszumok során. Használj ellentétes képzettségpróbákat a fontos üzletek eldöntésére, és egyszerű képzettségpróbákat a jelentéktelenebb kísérleteknél (például pénzmegtakarítás felszerelésen vagy szálláson). Az alkudozás a kompromisszumról szól: használj Dumát vagy Meggyőzést a teljesen megnyerhető vagy elveszíthető viták rendezésére. A baki egy kereskedőt ellenséggé változtathat, a siker üzletet jelent, a jobb eredmények pedig magasabb kedvezményeket vagy kedvezőbb feltételeket biztosítanak a te oldaladnak.
 
 ### Verekedés
 
 **Alapérték:** 25%
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget fegyvertelen harcra: rúgások, ütések, fejelések stb.
+Használd ezt a képzettséget puszta kezes harchoz: rúgások, ütések, fejjel való ütés stb.
 
 **Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Természetes fegyver támadás és hárítás baki táblázatot**.
 
-**Rendszerjegyzetek:** A verekedés használható hárításra (lásd Hárítás), de a sikeres hárítás minimális fegyversebzést okoz a hárító karon vagy lábon, ahogy az indokolt. A verekedés használata egy olyan ellenfél ellen, aki megbírkózott a karaktereddel (lásd Bírkózás), Könnyű. A Harcművészettel és a Negyedik fejezet: Erők Természetes fegyver és Fegyvertelen harc erőivel együtt alkalmazható.
+**Rendszerjegyzetek:** A verekedés használható hárításra (lásd Hárítás), de a sikeres hárítás minimális fegyversebzést okoz a hárító karon vagy lábon, értelemszerűen. A Verekedés használata olyan ellenfél ellen, aki megragadta a karakteredet (lásd Birkózás), Könnyű. A negyedik fejezet: Erők Harcművészetével, valamint a Természetes fegyver és Fegyvertelen harc képességeivel együtt használatos.
 
 ### Mászás
 
@@ -300,767 +305,785 @@ Használd ezt a képzettséget fegyvertelen harcra: rúgások, ütések, fejelé
 
 **Kategória:** Fizikai
 
-Használd ezt a képzettséget falak, fák, sziklák vagy bármilyen más felület megmászására fel vagy le. Feltételezzük, hogy bőséges kéz- és lábtartás áll rendelkezésre: módosítsd a nehézséget a körülmények vagy a mászandó felület alapján. A baki nagy esést jelent (lásd **Esés**), a kudarc azt jelenti, hogy elakadtál vagy leestél (a mesélő döntése alapján, a körülményektől függően), a kiváló sikerek pedig lehetővé teszik a gyorsabb és távolabbi mászást.
+Használd ezt a képzettséget falak, fák, sziklák vagy bármilyen más felület megmászására vagy lemászására. Feltételezzük, hogy bőséges kéz- és lábtartó van: módosítsd a nehézséget a körülmények vagy a mászott felület alapján. A baki azt jelenti, hogy nagyot zuhansz (lásd **Zuhanás**), a sikertelenség azt jelenti, hogy beragadtál vagy lezuhantál (a mesélő döntése a körülmények alapján), a kiváló sikerek pedig lehetővé teszik, hogy gyorsabban és messzebbre mássz.
 
-**Rendszerjegyzetek:** Általában a mászás a MOZ érték 1/5-e, és a természetes mászó képességgel rendelkező állatok teljes MOZ értékükkel mozoghatnak. A létrán való mászás Automatikus. Nagyon magas létrák vagy fák Könnyűek. Lábhasználat nélküli mászás Nehéz. Hosszabb mászások esetén a mesélő kérjen képzettségi próbát percenként vagy 10 méternyi mászásonként. A karaktered mászás közben nem hajthat végre más cselekvést, és minden mászás közben végrehajtott cselekvés Nehéz, bármilyen baki esést okozhat.
+**Rendszerjegyzetek:** Általában a mászás a MOZ érték 1/5-e, a természetes mászóképességgel rendelkező állatok pedig a teljes MOZ értékükkel mozoghatnak. A létrák megmászása Automatikus. A nagyon magas létrák vagy fák Könnyűek. A lábak használata nélküli mászás Nehéz. Hosszabb mászások esetén a mesélőnek percenként, vagy 10 méternyi mászásonként képzettségpróbát kell kérnie. A karaktered a mászás közben más akciót nem hajthat végre, és mászás közben minden akció Nehéz, minden baki zuhanást okoz.
 
-### Parancsolás
+### Parancsnokság
 
 **Alapérték:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget beosztottak inspirálására, irányítására és koordinálására, segítve őket összetett feladatokban és javítva a csoport hatékonyságát. Katonai tisztek, nemesek, politikusok és üzleti vezetők sorsa a vezetői és irányítási képességeiken múlik. A személyiség, az erős hang és a vasakarat a parancsolás felbecsülhetetlen eszközei. A baki lázadást szít, a kudarc nem inspiráló és zavaró, a siker pedig lehetővé teszi, hogy a Parancsolás képzettséged 1/5-ét kiegészítő képzettségi bónuszként add hozzá minden beosztottadnak minden körben, amíg parancsolod őket, feltéve, hogy követik az utasításaidat. Dobj minden körben harcban, vagy minden fordulóban tömeges harcban.
+Használd ezt a képzettséget beosztottak inspirálására, irányítására és koordinálására, bonyolult feladatokban való útmutatásra és a csoport hatékonyságának javítására. A katonai tisztek, nemesek, politikusok és üzleti vezetők sikeressége vagy kudarca a csoport menedzselésének és vezetésének képességén múlik. A személyiség, az erős hang és a vasakarat a parancsnokság felbecsülhetetlen eszközei. A baki lázadást szít, a sikertelenség nem inspiráló és zavaros, a siker pedig lehetővé teszi, hogy a Parancsnokság képzettséged 1/5-ét komplementer képzettségi bónuszként add hozzá minden beosztottadhoz minden körben, amikor parancsnokolsz nekik, amíg követik az utasításaidat. Dobj minden körben harc közben, vagy minden turnusban tömeges harcban.
 
-**Rendszerjegyzetek:** Főleg harcban használatos, bár kiterjedhet vállalati tárgyalásokra stb. A Tüzérség, Nehézfegyver, Közelharci fegyver, Lőtávolságú fegyver és Stratégia azok a képzettségek, amelyek a leginkább kaphatják ezt a bónuszt.
+**Rendszerjegyzetek:** Elsősorban harcban használatos, bár kiterjedhet vállalati tárgyalásokra stb. A Tüzérség, Nehézfegyver, Közelharci fegyver, Lőtávolsági fegyver és Stratégia a legmegfelelőbb képzettségek ezen előnyök fogadására.
 
 ### Mesterség (különböző)
 
 **Alapérték:** 05%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd ezt a képzettséget dolgok építésére vagy készítésére, a széktől az ételig vagy a házig. Ehhez a képzettséghez gyakran speciális eszközökre, időre és nyersanyagokra van szükség. Ezzel a képzettséggel azonosítható, hogyan készült egy tárgy, és esetleg azonosítható az alkotója is. A baki tönkreteszi az anyagot és semmi hasznosat nem eredményez, a siker azt jelenti, hogy működik, a magasabb siker pedig finomabb, szilárdabb vagy értékesebb változatot eredményez, esetleg olyan tulajdonságokkal, mint +10% vagy +20% a használati hatékonyságban, több életerőpont stb. Ez a funkcióról és praktikusságról szól: a pusztán esztétikai célú tárgyak készítése a Művészet alá tartozik.
+Használd ezt a képzettséget dolgok megépítésére vagy elkészítésére, egy széktől kezdve egy ételen át egy házig. Ehhez a képzettséghez gyakran speciális eszközök szükségesek, és időt, valamint nyersanyagokat igényel. Ez a képzettség arra is használható, hogy azonosítsd, hogyan készült egy tárgy, és esetleg azonosítsd a készítőt is. A baki elpusztítja az anyagot és semmi hasznosat nem eredményez, a siker azt jelenti, hogy működik, a jobb siker pedig finomabb, szilárdabb vagy értékesebb változatát eredményezi az elkészített dolognak, esetleg további minőségekkel, mint pl. +10% vagy +20% hatékonyságnövelés használat közben, magasabb életerőpont stb. Ez a funkcióról és praktikusságról szól: a kizárólag esztétikai célú tárgyak készítése a Művészet alá tartozik.
 
-**Specializációk:** Kovácsmesterség, Asztalosmunka, Kerámia, Főzés, Bőrművesség, Lakatosmunka, Kohászat, Kőművesmunka és egyéb, ahogy indokolt.
+**Specialitások:** Kovácsolás, Asztalosmunka, Kerámia, Főzés, Bőrművesség, Lakatosmunka, Kohászat, Kőművesség és egyéb, szükség szerint.
 
-**Rendszerjegyzetek:** A Mesterség használata megfelelő eszközök nélkül Nehéz. További információkért a felszerelés készítéséről, módosításáról vagy javításáról lásd a Nyolcadik fejezetet: Felszerelés. Egy finom ruhadarab vagy felszerelés birtoklása még a KAR értékét is növelheti, amíg az tárgy rajtad van vagy közszemlére teszed.
+**Rendszerjegyzetek:** A Mesterség megfelelő eszközök nélküli használata Nehéz. Lásd a nyolcadik fejezetet: Felszerelés a felszerelés készítésével, módosításával vagy javításával kapcsolatos további információkért. Egy finom ruhadarab vagy felszerelés birtoklása még a KAR-t is növelheti, amíg a tárgyat viselik vagy bemutatják.
 
-### Robbantás
+### Rombolás
 
 **Alapérték:** 01%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd ezt a képzettséget robbanóanyagok tárolására, szállítására, elhelyezésére és felrobbantására, a puskaporos hordóktól a dinamitig, Molotov-koktélokig, fejlett plasztikrobbanószerekig és antianyag-bombákig. Bárki képes felrobbantani egy bombát: ez a képzettség a robbanás specifikus hatásának elérésére szolgál; épület biztonságos összeomlasztása, híd lerombolása vagy széf ajtajának berobbantása a tartalom károsítása nélkül. A Robbantás magában foglalja a robbanószerek megfelelő tartozékainak ismeretét is, beleértve a gyutacsot, biztosítékokat és detonátorokat. Használj Tudományt (Kémia) robbanóanyagok előállításához vagy Technikai képzettséget egyéb robbanószerek készítéséhez. A baki az arcodba robbantja a dolgokat, a kudarc azt jelenti, hogy a kívánt hatás nem érhető el (elhibázott vagy dudarobbantás), a kiváló sikerek pedig lenyűgözőbb eredményeket hoznak, legyen szó több sebzésről, kevesebb járulékos kárról, különleges hatásokról, mint a Visszalökés, nagyobb hatótávolság stb.
+Használd ezt a képzettséget robbanóanyagok tárolására, szállítására, elhelyezésére és felrobbantására, a puskaporos hordóktól a dinamitig, Molotov-koktélokig, fejlett plasztikrobbanóanyagokig és antianyag bombákig. Bárki képes egyszerűen felrobbantani egy bombát: ez a képzettség arra való, hogy konkrét hatást érj el a robbanással; biztonságosan összeomlasztani egy épületet, lerombolni egy hidat, vagy bevenni egy széf ajtaját a tartalom károsítása nélkül. A Rombolás kiterjed a robbanóanyagokhoz tartozó kiegészítők ismeretére is, beleértve a gyutacsokat, kanócokat és robbantókat. Használd a Tudomány (Kémia) képzettséget robbanóvegyületek előállítására, vagy Technikai képzettséget más robbanóanyagok készítésére. A baki az arcodba robbantja a dolgokat, a sikertelenség azt jelenti, hogy a kívánt hatás nem érhető el (félresikerült robbantás vagy dud), a kiváló sikerek pedig lenyűgözőbb eredményeket hoznak, legyen szó több sebzésről, kisebb járulékos kárról, különleges hatásokról, mint pl. Visszalökés, további hatótávolság stb.
 
-**Rendszerjegyzetek:** 60%+ képzettségi szinttel a képzettség normál használata automatikusan sikerül. Instabil robbanószereknél (izzadó dinamit) minden körben Robbantás próbát kellhet tenni, amíg azokat kezelik vagy használják. Hatalmas szerkezet (híd, gát, bunker vagy épület) lerombolása Nehéz, hacsak a karaktered nem fér hozzá a céltervrajzokhoz. A képzettség használata megfelelő eszközök (gyutacsok stb.) nélkül, vagy a karaktered szakértelmének körén kívüli robbanószerek használata Nehéz vagy akár Lehetetlen is lehet. Néhány robbanószer-típus, például a kézigránát, használható e képzettség nélkül is. Lásd a Nyolcadik fejezetet: Felszerelés a robbanószerekért és hatásaikért.
+**Rendszerjegyzetek:** 60%+ képzettségi szinttel a képzettség normál használata automatikusan sikeres. Az instabil robbanóanyagok (izzadt dinamit) minden körben Rombolás próbát igényelhetnek, amikor kezelik vagy használják őket. Egy masszív szerkezet (híd, gát, bunker vagy épület) lerombolása Nehéz, hacsak a karaktered nem fér hozzá a céltervrajzokhoz vagy terveihez. Megpróbálni ezt a képzettséget nem megfelelő eszközökkel (gyutacsok stb.) használni, vagy a karaktered szakértelmén kívüli robbanóanyagokat használni Nehéz vagy akár Lehetetlen is lehet. Bizonyos típusú robbanóanyagok, mint például a gránátok, használhatók e képzettség nélkül is. Lásd a nyolcadik fejezetet: Felszerelés a robbanóanyagokért és hatásaikért.
 
 ### Álcázás
 
 **Alapérték:** 01%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget testtartás, jelmez, hang és egyéb trükkök alkalmazására, hogy más személyként, vagy másfajta személyként tűnj fel. Gyenge fényviszonyok, színházi smink és jelentős arcváltoztatások (hajvágás vagy paróka, álruhák vagy egy gyors borotválkozás) +20% bónuszt adhatnak, a mesélő belátása szerint. Azok a bámészkodók, akik alaposan megvizsgálják az álcázott karakteredet vagy beszélgetésbe elegyednek velük, ellentétes Fürkészés vagy Megérzés próbát tehetnek a karaktered Álcázás próbája ellen, hogy átlássanak a szitán. Az álcázott karaktered használhatja a Dumálás képzettségét az ellentétes próbához, ha beszélgetésbe elegyedik a bámészkodóval, elterelve figyelmét az alapos vizsgálatról. A baki nyilvánvalóan leleplez, a kudarc senkit sem téveszt meg, aki másodszor is ránéz, a kiváló sikerek pedig még kiegészítő bónuszt is adhatnak a megtévesztettek elleni kommunikációs próbákhoz, vagy megnehezíthetik a leleplezést.
+Használd ezt a képzettséget testtartás, jelmez, hang és egyéb trükkök alkalmazására, hogy más személynek, vagy másfajta személynek tűnj. A félhomály, színházi smink és jelentős arcváltoztatások (hajvágás vagy paróka, műszakáll vagy egy gyors borotválkozás) a mesélő belátása szerint +20% bónuszt adhatnak. Azok a szemlélők, akik alaposan megvizsgálják az álcázott karakteredet vagy beszélgetésbe elegyednek vele, ellentétes Észrevétel vagy Beleérzés képzettségpróbát tehetnek a karaktered Álcázás dobásával szemben, hogy átlássanak a cselen. Az álcázott karaktered használhatja a Duma képzettségét az ellentétes próbához, ha beszélgetésbe vonja a szemlélőt, elterelve a figyelmét a szoros vizsgálódástól. A baki kirívóan nyilvánvaló, a sikertelenség nem bolondít meg senkit, aki egy második pillantást vet rád, a kiváló sikerek pedig akár komplementer bónuszt is adhatnak a Kommunikáció próbákhoz azokkal szemben, akiket éppen félrevezetsz, vagy nehezebbé teszik a leleplezést.
 
-**Rendszerjegyzetek:** Ezt a képzettséget egy adott típusú személy (katona, rendőr stb.) megszemélyesítésére használni normál cselekvés. Valaki egészen másfajta megszemélyesítése (más faj, sokkal magasabb vagy alacsonyabb, az ellenkező nem tagja) vagy egy konkrét ismert személy (nemes, híresség stb.), illetve álcázás megkísérlése megfelelő ruházat vagy kellékek nélkül Nehéz. A mesélő további büntetéseket szabhat ki kulturális vagy nyelvi korlátok miatt, vagy ha több Nehéz körülmény áll fenn. A túlzott próbálkozás egyszerűen Lehetetlen lehet.
+**Rendszerjegyzetek:** Ezt a képzettséget egy bizonyos típusú személy (katona, rendőr stb.) megszemélyesítésére használni normál cselekedet. Valaki egészen más (más faj, sokkal magasabb vagy alacsonyabb, az ellenkező nem tagja) vagy egy konkrét ismert személy (nemes, híresség stb.) megszemélyesítése, vagy álcázás megkísérlése megfelelő ruházat vagy kellékek nélkül Nehéz. A mesélő további büntetéseket szabhat ki kulturális vagy nyelvi akadályok miatt, vagy ha több Nehéz körülmény áll fenn. Túl nagy vállalás esetén a feladat egyszerűen Lehetetlen is lehet.
 
 ### Kitérés
 
-**Alapérték:** TÖE×2
+**Alapérték:** ÜGY×2
 
 **Kategória:** Fizikai
 
-A harcban a legjobb védekezés, mint minden harcos tudja, az, ha nem vagy ott. A Kitérés lehetővé teszi a karakterednek az érkező támadások elkerülését, az ügyességét használva a sérülés elkerülésére vagy minimalizálására.
+A harcban a legjobb védekezés, ahogy minden harcos tudja, az, ha nem vagy ott. A Kitérés lehetővé teszi a karaktered számára, hogy kikerülje a beérkező támadásokat, mozgékonyságát felhasználva a sérülések elkerülésére vagy minimalizálására.
 
-**Hatások:** Egy sikeres Kitérés próbája módosítja a sikeres támadás eredményét, kudarccá változtatva azt. A Kitérés dobására kapott különleges eredmény két fokozattal módosítja a támadást (a különleges siker kudarccá válik), egy kritikus siker pedig három fokozattal (a kritikus támadás kudarccá válik). Lásd a **Támadás és védekezés mátrixot** és a **Természetes fegyverek támadás és hárítás baki táblázatot** a konkrét hatásokért. Egy sikeres Kitérés próbája nem csökkentheti az érkező támadás sikerét kudarcnál alacsonyabb szintre.
+**Hatások:** Egy sikeres Kitérés dobás módosítja a sikeres támadás eredményét, sikertelenséggé változtatva azt. A Kitérés dobás különleges eredménye két fokozattal módosítja a támadást (a különleges siker sikertelenséggé válik), a Kitérés dobás kritikus sikere pedig három fokozattal módosítja a sikeres támadást (a kritikus támadás sikertelenséggé válik). Lásd a **Támadás és védekezés mátrixot** és a **Természetes fegyverek támadás és hárítás baki táblázatot** a konkrét hatásokért. Egy sikeres Kitérés dobás nem csökkentheti a beérkező támadás sikerét a sikertelenségnél alacsonyabbra.
 
-**Rendszerjegyzetek:** Ahogy a Hatodik fejezet: Harc **Kitérés** részében leírtuk, a karaktered egy harci körben vagy Kitérhet vagy Háríthat, de a kettőt egyszerre nem. Ha a karakteredet sok ellenfél támadja, több Kitérés próbát is tehet egy körben, de az első utáni minden dobás halmozott –30%-os büntetéssel jár a képzettségi szintre. Néhány lőtávolságú támadás Nehéz vagy Lehetetlen kitérni (lásd Lőtávolságú fegyverek kitérese).
+**Rendszerjegyzetek:** A hatodik fejezet: Harc **Kitérés** részében leírtak szerint a karaktered egy harci körben vagy Kitérhet, vagy Háríthat, de mindkettőt nem teheti. Ha a karakteredet sok ellenfél támadja, egy körben több Kitérés próbát is tehet, de minden dobás az első után kumulatív –30%-os büntetést kap a képzettségi szintre. Egyes lőtávolsági támadásokat Nehéz vagy Lehetetlen kikerülni (lásd Lőtávolsági fegyverek kikerülése).
 
 ### Vezetés (különböző)
 
-**Alapérték:** 20% vagy 01% (lásd alább)
+**Alapérték:** 20% vagy 01% (lásd lentebb)
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd a Vezetést egy földi jármű kormányzására, manőverezésére és irányítására, legyen az állatok által vontatott vagy motoros. Gyakori járműveknél az alapérték 20%, ismeretlen/ritka járműveknél 01%. A baki normál vezetésnél azt jelenti, hogy a jármű nem indul be, vagy ütközés/baleset történik. A siker azt jelenti, hogy a karaktered eljut oda, ahová tart, vagy képes korrigálni egy rossz állapotot (mint csúszás vagy pörgés), a kiváló sikerek pedig rövidebb idő alatt több megtett távolságot, kevesebb üzemanyag-felhasználást vagy egyéb előnyt jelentenek.
+Használd a Vezetést földi jármű kormányzására, manőverezésére és irányítására, akár állatok húzzák, akár motor hajtja. Gyakori járműveknél az alapérték 20%, ismeretlen/nem gyakori járműveknél 01%. A baki normál vezetés közben azt jelenti, hogy a jármű esetleg nem indul be, vagy ütközés, illetve baleset történik. A siker azt jelenti, hogy a karaktered eljut oda, ahová tart, vagy képes korrigálni egy rossz helyzetet (például csúszást vagy pörgést), a kiváló sikerek pedig több megtett távolságot jelentenek rövidebb idő alatt, kevesebb felhasznált üzemanyagot, vagy egyéb előnyöket.
 
-**Specializációk:** Gépkocsi, Kerékpár, Hintó, Szekér, Harci szekér, Kutyaszán, Motorkerékpár, Teherautó, Szán stb.
+**Specialitások:** Gépkocsi, Kerékpár, Hintó, Szekér, Harci szekér, Kutyaszán, Motorkerékpár, Teherautó, Szán stb.
 
-**Beállítási jegyzetek:** Állítsd be az alapértéket a felhasználó ismeretsége szerint, de ha kétségeid vannak, feltételezd az alapelvek érvényességét.
+**Beállítási jegyzetek:** Állítsd be az alapértéket a felhasználó jártassága szerint, ahol szükséges, de ha kétségeid vannak, feltételezd, hogy az alapelvek érvényesek.
 
-**Rendszerjegyzetek:** A legtöbb mindennapi vezetés Automatikus feladat – a Vezetés próbát csak kedvezőtlen körülmények között vagy rendkívüli vezetésnél (száguldás forgalmas belvárosban, másik jármű üldözése stb.) kell dobni. Egy másik jármű észrevétlen követéséhez használj ellentétes Vezetés próbát a másik sofőr Fürkészése ellen. Járműüldözések megoldásához lásd az Üldözések részt.
+**Rendszerjegyzetek:** A legtöbb mindennapi vezetés Automatikus feladat – Vezetés próbát csak hátrányos körülmények között vagy rendkívüli vezetés esetén (forgalmas belvárosban száguldás, másik jármű üldözése stb.) kell tenni. Másik jármű követéséhez észrevétlenül, használj ellentétes Vezetés próbát a másik sofőr Észrevétel próbájával szemben. A járműüldözések megoldásához lásd az Üldözések részt.### Energiafegyver (különböző)
 
-### Energiafegyver (különböző)
+**Alapesély:** A fegyver szakterülete szerint
 
-**Alapérték:** Fegyverspecializációnként
+**Kategória:** Harc
 
-**Kategória:** Harci
+Ezt a készséget bármilyen kézi irányított energia- vagy sugárfegyver (lézer, plazmavető, diszruptor stb.) elsütésére használhatod.
 
-Használd ezt bármilyen kézi irányított energia- vagy sugárfegyver (lézer, sugárpisztoly, zavaró stb.) elsütésére.
+**Szakterületek:** Energiamarkolat, Energiaspuska stb. A szakterületek a típusokkal egyenértékűek. Lásd a **Fegyverosztályok** című részt a nyolcadik fejezetben (Felszerelés) a lőfegyvertípusokhoz.
 
-**Specializációk:** Energia-pisztoly, Energia-puska stb. A specializációk a típusoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés a lőfegyvertípusokhoz.
+**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolsági fegyverek balsiker-táblázatát** a konkrét hatásokért. Az energiafegyverek általában szúrnak.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolságú fegyver baki táblázatot** a konkrét hatásokért. Az energiafegyverek általában szúrnak.
+**Világspecifikus megjegyzések:** Az energiafegyverek általában csak futurisztikus világokban jelennek meg. Bárkinek, aki olyan kultúrából származik, ahol ezek ismeretlenek, egy Nehéz INT-próbát kell dobnia, hogy rájöjjön, hogyan kell használni egyet, és talán csak azután, hogy látta másokat használni. A kudarc vagy a balsiker katasztrofális lehet a fegyverre vagy a felhasználóra nézve! E készség elsajátításához katonai háttérre lehet szükség.
 
-**Beállítási jegyzetek:** Az energiafegyverek általában csak futurisztikus beállításokban jelennek meg. Bárkinek, aki olyan kultúrából származik, ahol nem léteznek, Nehéz Ötletpróbát kell tennie, hogy rájöjjön, hogyan kell használni, és talán csak azután, hogy látta használni. A kudarcok vagy bakik katasztrofálisak lehetnek a fegyverre vagy a felhasználóra nézve! Katonai háttér szükséges lehet a képzettség elsajátításához.
-
-**Rendszerjegyzetek:** Néhány energiafegyvernek minimális TÖE és ÜGY követelménye van a használathoz, a Nyolcadik fejezet: Felszerelés fegyvertáblázatai szerint. Az energiafegyverek nem használnak sebzésmódosítót, de használhatók célzott támadásokhoz. Nem lehet kitéreni előlük, bár a célpont mozgása és orientációja büntetéseket róhat a lövésre, ahogy a Lőtávolságú fegyverek kitérese részben leírtuk. Az energialövések blokkolása Pajzs képzettséggel Nehéz.
+**Rendszermegjegyzések:** Egyes energiafegyverek használatához minimális ERŐ és ÜGY követelmény tartozik, a nyolcadik fejezetben (Felszerelés) található fegyvertáblázatok szerint. Az energiafegyverek nem használnak sebzésmódosítókat, de célzott támadásokhoz használhatók. Nem lehet előlük elugrani, bár a célpont mozgása és tájolása büntetéseket róhat a lövésre, a Lőtávolsági fegyverek elkerülése című részben leírtak szerint. Az energialövések kivédése Pajzs készséggel Nehéz.
 
 ### Etikett (különböző)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-A legtöbb kultúrának, kasztnak vagy csoportnak megvannak a társasági szabályai és viselkedési kódexei. A megfelelő öltözködés, beszédmód, specifikus viselkedés, testbeszéd, sőt még a párbaj általi ítélet is szerepet játszhat egy csoport etikettjében. Használd ezt a képzettséget valahányszor a karakterednek megfelelően kell viselkednie, legyen szó viktoriánus vacsoráról, fontos állásinterjúról vagy szervezett bűnözői családhoz való csatlakozásról. Az etikettpróbák bebocsátást nyerhetnek egy fontos nemjátékos karakterhez, vagy lenyűgözhetnek másokat a társadalmi szokásaik ismeretével. A baki katasztrofális modortalanságot jelent, a kudarc nem nyűgöz le senkit, a siker vagy jobb eredmény pedig kiváló benyomást kelt és javítja a fogadtatást.
+A legtöbb kultúrának, kasztnak vagy csoportnak megvannak a társadalmi szabályai és viselkedési kódexei. A megfelelő öltözködés, beszédmódok, sajátos viselkedésformák, testbeszéd vagy akár a párbaj általi ítélet is szerepet játszhat egy csoport etikettjében. Használd ezt a készséget, amikor a karakterednek megfelelően kell viselkednie, legyen szó egy viktoriánus vacsoráról, egy fontos állásinterjúról vagy egy szervezett bűnözői családhoz való csatlakozásról. Az Etikett-próbák révén kihallgatást nyerhetsz egy fontos nemjátékos karakternél, vagy lenyűgözhetsz másokat a társadalmi normáik ismeretével. A balsiker katasztrofális modortalanságot, a sikertelen próbálkozás semmilyen hatást nem eredményez, míg a siker vagy annál jobb eredmény kiváló benyomást kelt és javítja a megítélésedet.
 
-**Specializáció:** Csoportonként. Egy második csoport modorának elsajátításához tanulj egy második Etikett képzettséget azzal a specializációval.
+**Szakterület:** Csoportonként. Egy másik csoport modorának megtanulásához egy második Etikett készséget kell tanulnod az adott szakterülettel.
 
-**Rendszerjegyzetek:** A mesélő csak fontos körülmények között kérjen Etikett próbát: például az első alkalommal, amikor kapcsolatba kerülsz egy fontos csoporttal, jelentős eseményen, vagy amikor a csoporton belüli státuszodat akarod növelni.
+**Rendszermegjegyzések:** A kalandmester csak fontos körülmények között kérjen Etikett-próbát: például egy fontos csoporttal való első találkozáskor, jelentős alkalmakkor, vagy ha a csoporton belüli státuszodat szeretnéd növelni.
 
-### Dumálás
+### Szélhámosság (Fast Talk)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Az ügynökök, kémek vagy szélhámosok kedvenc fegyvere; használd ezt a képzettséget arra, hogy gyorsan meggyőzz valakit valamiről, amit esetleg nem hisz el, vagy rávedd őket gyors döntésre a józan ítélőképességük ellenére. Használd ezt arra, hogy átjuss egy portáson, vagy gyorsan nyélbe üss egy nehéz üzletet. A Dumálás gyorsan használható, és általában ideiglenes: pár perc és egy sikeres Ötletpróba után a célszemély észhez térhet. Valakinek a véleményét igazán megváltoztatni az Alkudozás vagy Meggyőzés képzettségekkel lehet. A baki általában ellenségességet vált ki, a kudarc sehová sem vezet, a siker vagy jobb eredmény pedig javítja a hatékonyságot, vagy akár tartósan meggyőz valakit az álláspontodról.
+Az ügynökök, kémek vagy szélhámosok kedvenc fegyvere; használd ezt a készséget, hogy gyorsan meggyőzz valakit valamiről, amit esetleg nem hisz el, vagy hogy rávedd egy gyors döntésre a józan ítélőképessége ellenére. Használd arra, hogy bejuss egy portás mellett, vagy hogy egy nehéz üzletet gyorsan lezárj. A Szélhámosság gyorsan alkalmazható, és hatása általában ideiglenes: néhány perc elteltével és egy sikeres INT-próba után a célpont észreveheti a turpisságot. Ahhoz, hogy valaki meggyőződését tartósan megváltoztasd, használd az Alkudozás vagy a Meggyőzés készségeket. A balsiker általában ellenszenvet vált ki, a kudarc nem vezet sehova, a siker vagy jobb eredmény pedig megnövekedett hatékonyságot jelent, vagy akár véglegesen meggyőz valakit az álláspontodról.
 
-**Rendszerjegyzetek:** A jó szerepjáték és/vagy egy hatásos érv Könnyűvé tehet egy Dumálás kísérletet, ugyanúgy, ahogy a rossz szerepjáték és/vagy egy gyenge érv Nehézzé teheti azt. Megpróbálni Dumálni egy célt egy sikertelen Alkudozás, Dumálás vagy Meggyőzés kísérlet után Nehéz.
+**Rendszermegjegyzések:** A jó szerepjáték és/vagy egy hatékony érvelés Könnyűvé teheti a Szélhámosság-kísérletet, ugyanúgy, ahogy a rossz szerepjáték és/vagy egy gyenge érv Nehézzé. Egy Alkudozás, Szélhámosság vagy Meggyőzés kísérlet kudarca után megpróbálni újra Szélhámossággal hatni a célpontra Nehéz.
 
 ### Finom manipuláció
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-A kéz-szem koordináció és a kézbiztosság mértéke; ez a képzettség lefedi a kéz és ujjak minden gondos használatát. Használd zárak nyitásánál, csapda hatástalanításánál, csomók kötésénél vagy kibogozásánál, valamint mechanikai eszközök szétszerelésénél. A baki elrontja a dolgokat, esetleg eltöri vagy elakasztja a manipulált tárgyat. A kiváló sikerek kevesebb időt vesznek igénybe, könnyebbé teszik a jövőbeli próbálkozást, nem hagynak nyomot a manipuláción stb.
+A kézügyesség és a szem-kéz koordináció mértéke; ez a készség a kezek és ujjak bármilyen óvatos használatát lefedi. Használd zárak feltörésekor, csapdák hatástalanításakor, csomók kötésekor vagy kibontásakor, valamint mechanikus eszközök szétszerelésekor. A balsiker elrontja a dolgokat, esetleg eltöri vagy elakasztja a manipulált tárgyat. A kiemelkedő siker kevesebb időt vesz igénybe, megkönnyíti a jövőbeli próbálkozást, nem hagy nyomot a beavatkozáson, vagy egyéb hasonló előnnyel jár.
 
-**Rendszerjegyzetek:** A képzettség használata megfelelő eszközök nélkül, ahol azok szükségesek, Nehéz.
+**Rendszermegjegyzések:** A készség használata megfelelő szerszámok nélkül, ahol szükséges, Nehéz.
 
 ### Lőfegyver (különböző)
 
-**Alapérték:** Fegyverspecializációnként
+**Alapesély:** A fegyver szakterülete szerint
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Ez a képzettség a lőfegyverekkel való pontosságot méri, és biztosítja a kezeléshez, karbantartáshoz és alapvető javításokhoz szükséges ismereteket.
+Ez a készség méri a lőfegyverekkel való pontosságot, és jártasságot biztosít a kezelésben, karbantartásban és alapvető javításokban.
 
-**Specializációk:** Géppuska, Pisztoly, Revolver, Puska, Sörétes puska, Géppisztoly. A specializációk a típusoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés a lőfegyvertípusokhoz.
+**Szakterületek:** Géppuska, Pisztoly, Revolver, Puska, Sörétes puska, Géppisztoly. A szakterületek a típusokkal egyenértékűek. Lásd a **Fegyverosztályok** című részt a nyolcadik fejezetben (Felszerelés) a lőfegyvertípusokhoz.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolságú fegyver baki táblázatot** a konkrét hatásokért. A lőfegyverek általában szúrnak (részletekért lásd a Nyolcadik fejezetet: Felszerelés).
+**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolsági fegyverek balsiker-táblázatát** a konkrét hatásokért. A lőfegyverek általában szúrnak (részletekért lásd a nyolcadik fejezetet: Felszerelés).
 
-**Beállítási jegyzetek:** Bárki, aki nem ismeri a lőfegyvereket, Nehéz Ötletpróbát kell tegyen, hogy rájöjjön, hogyan kell használni azokat, ha nem látta használat közben. A kudarcok vagy bakik katasztrofálisak lehetnek a fegyverre vagy a felhasználóra nézve!
+**Világspecifikus megjegyzések:** Bármely karakternek, aki nem ismeri a lőfegyvereket, Nehéz INT-próbát kell dobnia, hogy rájöjjön, hogyan kell használni egyet, ha korábban nem látta használat közben. A kudarc vagy a balsiker katasztrofális lehet a fegyverre vagy a felhasználóra nézve!
 
-**Rendszerjegyzetek:** Néhány lőfegyvernek minimális TÖE és ÜGY követelménye van, a Nyolcadik fejezet: Felszerelés fegyvertáblázatai szerint. A lőfegyverek nem használnak sebzésmódosítót, és használhatók célzott támadásokhoz.
+**Rendszermegjegyzések:** Egyes lőfegyverek minimális ERŐ és ÜGY követelményt igényelnek, a nyolcadik fejezetben (Felszerelés) található fegyvertáblázatok szerint. A lőfegyverek nem használnak sebzésmódosítókat, és célzott támadásokhoz használhatók.
 
 ### Elsősegély
 
-**Alapérték:** 30%
+**Alapesély:** 30%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget vérzés csillapítására, sebek bekötözésére és kisebb égési sérülések kezelésére, törött végtag sínbe helyezésére, fuldokló újraélesztésére vagy eszméletlen személy magához térítésére. Kiterjed a triázsra és az alapvető orvosi ellátásra, de csekély hatása van mérgekre, betegségekre vagy finomabb fizikai bajokra: ezeket az Orvoslás képzettséggel kell kezelni, bár a mesélő megengedhet Nehéz próbát méreg vagy betegség sürgősségi kezelésére. Az Elsősegély egy teljes harci körbe telik, és normál esetben nem hajtható végre harc közben. Ha megszakítják, a kísérletet újra kell kezdeni.
+Használd ezt a készséget vérzés elállítására, sebek bekötözésére és kisebb égési sérülések kezelésére, törött végtag sínbe helyezésére, fulladozó személy újraélesztésére vagy eszméletlen személy magához térítésére. Kiterjed a triázsra és az alapvető orvosi ellátásra, de kevés hatással van mérgezésekre, betegségekre vagy finomabb fizikai bántalmakra: ezeket az Orvoslás készséggel kell kezelni, bár a kalandmester engedélyezhet egy Nehéz próbát a mérgezés vagy betegség sürgősségi kezelésére. Az Elsősegély egy teljes harci kört vesz igénybe, és normál esetben nem hajtható végre harc közben. Ha megszakítják, a kísérletet újra kell kezdeni.
 
-**Hatások:** Az Elsősegélynek specifikus hatásai vannak:
+**Hatások:** Az Elsősegélynek konkrét hatásai vannak:
 
-* **Baki:** A páciens 1 általános ÉP sebzést szenved, és állapota változatlan marad.
-* **Kudarc:** Nincs hatás, és több Elsősegély kísérlet nem tehető.
-* **Siker:** Az alábbiak közül egy (játékos választása):
-  * 1D3 ÉP gyógyítása egyetlen seben vagy sérülésen.
-  * Egy karakter, aki 0 vagy negatív ÉP-n van ebben vagy az előző körben, visszahozható az életbe, ha az életerőpontja 1+-ra nő.
-  * Eszméletlen karakter magához térítése.
-  * Vérzésből származó sebzés csillapítása (vérző különleges siker) vagy bármilyen más folyamatos sebzés egy testtájra (lásd **Életerőpontok testtájanként**).
-* **Különleges:** Mint fent, de 2D3 ÉP gyógyítása.
-* **Kritikus:** Mint fent, de 3+1D3 ÉP gyógyítása.
+* **Balsiker:** A beteg 1 általános életerőpont sebzést szenved, és az állapota változatlan marad.
+* **Kudarc:** Nincs hatás, és további Elsősegély-kísérlet nem tehető.
+* **Siker:** Az alábbiak egyike (játékos választása szerint):
+  * 1D3 életerőpont gyógyítása egyetlen seben vagy sérülésen.
+  * Egy 0 vagy negatív életerőponttal rendelkező karakter, ebben vagy az előző körben, visszahozható az életbe, ha az életerőpontjainak összege eléri az 1+-t.
+  * Egy eszméletlen karakter magához térítése.
+  * Vérzésből származó sebzés megállítása egy vérző speciális siker vagy bármilyen más folyamatos sebzés esetén egy testtájon (lásd **Életerőpontok testtájanként**).
+* **Speciális:** Mint fent, de 2D3 életerőpont gyógyítása.
+* **Kritikus:** Mint fent, de 3+1D3 életerőpont gyógyítása.
 
-**Rendszerjegyzetek:** Kövesd nyomon az egyes sérüléseket, mivel az Elsősegély mindegyikre használható, potenciálisan meggyógyítva azt az összeget, amit a sebzés okozott. Vegenként csak egy kísérlet tehető. Veszélyes vagy egészségtelen körülmények Nehézzé tehetik a próbákat. A karaktered hozzáadhatja az Orvoslás képzettségi szintje felét és a Tudomány (Gyógyszerészet) 1/5-ét kiegészítő bónuszként az Elsősegély próbákhoz. A modern orvosi felszerelés (fájdalomcsillapító, kötszerek, gyógyszer) +20% bónuszt adhat a képzettségi szintekre, míg a futurisztikus orvosi technológia (mesterséges permetbőr, orvosi szkennerek, nanotech gyógyítók) minden Elsősegély próbát Könnyűvé tesz.
+**Rendszermegjegyzések:** Kövesd nyomon az egyes sérüléseket, mivel az Elsősegély minden sérülésen használható, potenciálisan meggyógyítva azt a sérülés által okozott életerőpont-veszteség mértékéig. Sebenként csak egy kísérlet tehető. A veszélyes vagy higiéniátlan körülmények Nehézzé tehetik a próbákat. A karaktered hozzáadhatja az Orvoslás készségének 1/2-ét és a Tudomány (Gyógyszerészet) készségének 1/5-ét ideiglenes bónuszként az Elsősegély-próbákhoz. A modern orvosi felszerelések (fájdalomcsillapítók, kötszerek vagy gyógyszerek) akár +20%-os bónuszt is adhatnak a készségértékekhez, míg a futurisztikus orvosi technológia (mesterséges permetbőr, orvosi szkennerek, nanotech gyógyítók) minden Elsősegély-próbát Könnyűvé tehet.
 
 ### Repülés
 
-**Alapérték:** TÖE×4 vagy 1/2 TÖE (lásd alább)
+**Alapesély:** ÜGY×4 vagy 1/2 ÜGY (lásd lentebb)
 
 **Kategória:** Fizikai
 
-A szárnyas lények, megfelelő felszerelés (antigravitációs öv, rakétacsizma stb.) vagy repülési erők esetén használd ezt a képzettséget a levegőben való manőverezésre jármű nélkül. Használd a Repülést légimanőverek vagy akrobatika végrehajtására irányításvesztés nélkül, ellenfél túljárására légi harcban vagy rossz időjárási körülmények között való repülésre. Az alapérték TÖE×4 szárnyas lényeknek; 1/2 TÖE mindenki másnak. Jetpack, sárkányrepülő stb. esetén használd a Pilótázást. Lásd **Légi harc** és **Üldözések** további információkért.
+Szárnyas lények, megfelelő felszereléssel (antigravitációs öv, rakétacsizma stb.) rendelkező karakterek vagy repülési képességgel rendelkezők esetében használd ezt a készséget a levegőben való manőverezéshez jármű nélkül. Használd a Repülést légtéri manőverek vagy akrobatika végrehajtására uralomvesztés nélkül, ellenfél kijátszására légi harcban, vagy repülésre kedvezőtlen időjárási körülmények között. Az alapesély szárnyas lényeknél ÜGY×4; mindenki másnál 1/2 ÜGY. Jetpackek, sárkányrepülők stb. esetében használd a Pilóta készséget. További információkért lásd a **Légi harc** és **Üldözések** részt.
 
-**Hatások:** A Repülésnek specifikus hatásai vannak:
+**Hatások:** A Repülésnek konkrét hatásai vannak:
 
-* **Baki:** Átesés, esetleg zuhanás. A szárnyas karaktereknek sikeres Állóképesség próbát kell tenniük, különben 1D3–1 sebzést szenvednek rándulás vagy húzódás miatt. Egy eszköz elakad vagy meghibásodik, és nem tudja a karakteredet a levegőben tartani. A repülő zuhan, minden körben egy szintet a földszint felett. Tegyél egy Nehéz Repülés próbát, hogy a levegőben maradj – a kudarc zuhanást jelent (lásd **Esés**).
-* **Kudarc:** Eltér a pályáról vagy nemkívánatos magasságba zuhan. Sehová sem jut.
-* **Siker:** Végrehajtja a kívánt manővert vagy tartja a pozíciót egy üldözésben.
-* **Különleges:** Végrehajtja a kívánt manővert és +10% bónuszt kap a következő Kitérés, Repülés vagy támadás próbára, amit légi harcban tesz.
-* **Kritikus:** Végrehajtja a kívánt manővert és +25% bónuszt kap a következő Kitérés, Repülés vagy támadás próbára, amit légi harcban tesz.
+* **Balsiker:** Átesés (stall) és esetleg zuhanás. A szárnyas karaktereknek sikeres ÁLL-próbát kell tenniük, különben 1D3–1 pont sebzést szenvednek rándulás vagy húzódás miatt. A szerkezet leáll vagy meghibásodik, és nem tudja a levegőben tartani a karaktert. A repülő körönként egy szintet zuhan a föld feletti magassági szintjéhez képest. Tegyél egy Nehéz Repülés-próbát a levegőben maradáshoz – a kudarc zuhanást jelent (lásd **Zuhanás**).
+* **Kudarc:** Letérés a pályáról vagy nemkívánatos magasságra süllyedés. Nem halad előre.
+* **Siker:** Végrehajtja a kívánt manővert, vagy tartja a pozíciót egy üldözésben.
+* **Speciális:** Végrehajtja a kívánt manővert, és +10% bónuszt kap a következő Kitérés, Repülés vagy támadás próbájához légi harcban.
+* **Kritikus:** Végrehajtja a kívánt manővert, és +25% bónuszt kap a következő Kitérés, Repülés vagy támadás próbájához légi harcban.
 
-**Rendszerjegyzetek:** Rövid, eseménytelen repülések normál vagy mérsékelt körülmények között Automatikusak. Lásd az **Időjárási körülmények** részt a repülési módosítókért. Hosszú távú repülésekhez Állóképesség próbák szükségesek, a tulajdonság-szorzó négyóránként vagy annak töredéke alatt egyel csökken a levegőben töltött idő alapján. A normál repülés nem fogyaszt fáradtságpontokat, míg a manőverezés vagy stresszes repülés megerőltető tevékenység. Páncélban vagy nehéz felszerelésben repülés a karakter aktuális TEHER értékével egyenlő büntetést von maga után (lásd **Teher**). Egy nehéz tárgyat cipelő repülő karakternek a TÖE-jét kell összevetnie a cipelt tárgy TÉZ értékével az ellenállás táblázaton, hogy a levegőben maradjon.
+**Rendszermegjegyzések:** A rövid, eseménytelen repülések normál vagy mérsékelt körülmények között Automatikusak. Lásd az **Időjárási körülmények** részt a repülési módosítókhoz. Hosszú távú repülésekhez ÁLL-próbák szükségesek, ahol a jellemző szorzó négyóránként (vagy annak töredékénként) csökken eggyel a levegőben töltött idő után. A normál repülés nem használ ki fáradtságpontokat, míg a manőverezés vagy a stresszes repülés megterhelő tevékenység. Páncélban vagy nehéz felszereléssel való repülés a karakter aktuális TEH összegével egyenlő büntetést von maga után (lásd **Teherbírás**). Nehéz tárgyat szállító repülő karakternek a resistance táblázaton meg kell mérnie az ERŐ-jét a szállított tárgy MÉR-jével, hogy a levegőben maradhasson.
 
 ### Szerencsejáték
 
-**Alapérték:** INT+TÖE%
+**Alapesély:** INT+HAT%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget játékok közben, a sakktól vagy ostáblától kezdve a kártya-, kocka- vagy egyéb véletlenszerű vagy stratégiai elemeket tartalmazó szerencsejátékokig. A szerencsejátékosok ebből a képzettségből élnek, de legtöbbeknek ez csupán szórakozás forrása. A baki tönkretesz és adósságba verhet, a kudarc azt jelenti, hogy elveszítetted a kört, a siker csekély nyereséget hoz, a kiváló sikerek pedig nagyobb hasznot hoznak és esetleg a státuszodat is javítják.
+Használd ezt a készséget játék közben, a sakktól vagy ostáblától kezdve a kártyákkal, kockákkal vagy más véletlenszerű vagy stratégiai elemekkel járó szerencsejátékokig. A szerencsejátékosok ebből a készségből élnek, de a legtöbbek számára ez csupán szórakozás. A balsiker tönkretesz és potenciálisan adósságba ver, a kudarc azt jelenti, hogy elveszítetted a kört, a siker kisebb nyereményt eredményez, a kiemelkedő siker pedig nagyobb hasznot hoz, és akár a státuszodat is javíthatja.
 
-**Rendszerjegyzetek:** Használd ezt olyan játékok megoldására, ahol a képzettség és stratégia szerepet játszik, a többi játékos ellentétes próbát tesz. Csaláshoz használj Kézügyességet vagy Dumálást, Fürkészéssel vagy Megérzéssel szemben. A teljesen véletlenszerű eredményekhez Szerencsepróbát használj.
+**Rendszermegjegyzések:** Használd ezt olyan játékok megoldására, ahol a képesség és a stratégia szerepet játszik, a többi játékos ellenpróbát dob. Csaláshoz használd az Ügyeskedést vagy a Szélhámosságot, Megfigyelés vagy Megérzés ellenzéssel. A teljesen véletlenszerű kimeneteleknél használj Szerencse-próbát.
 
-### Bírkózás
+### Birkózás
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget birkózásra vagy bármilyen harcra, ahol a cél a célpont leigázása kárt okozás nélkül. Általában ez nem halálos, de valódi károkozásra is használható.
+Használd ezt a készséget birkózáshoz vagy bármilyen harchoz, ahol a cél a célpont ártalmatlanítása kár okozása nélkül. Ez általában nem halálos, de valódi kár okozására is használható.
 
-**Hatások:** A bírkózásnak specifikus hatásai vannak:
+**Hatások:** A birkózásnak konkrét hatásai vannak:
 
-* **Baki:** Dobj a **Természetes fegyverek baki** táblázaton.
-* **Kudarc:** A célszemély kitér a fogás elől, vagy egy menekülési kísérlet meghiúsul.
-* **Siker:** A célszemély bírkózás alatt áll, a támadó alkalmazhat egy bírkózási hatást (lásd **Bírkózási hatások** alább) a következő körben, ha a fogást fenntartja.
-* **Különleges:** A támadó automatikusan sikeres a következő Bírkózás próbájában a fogás fenntartásához, és +3 tulajdonság-bónuszt kap a bírkózási hatásokra vonatkozó minden ellenálláspróbán ebben a körben.
-* **Kritikus:** A támadó automatikusan sikeres a következő Bírkózás próbájában a fogás fenntartásához, és a célpont tulajdonságai feleződnek a bírkózási hatásokra vonatkozó ellenálláspróbákon a harci kör hátralévő részében.
+* **Balsiker:** Dobj a **Természetes fegyverek balsiker-táblázatán**.
+* **Kudarc:** A célpont kicsúszik a fogásból, vagy a menekülési kísérlet meghiúsul.
+* **Siker:** A célpont fogásba kerül, a támadó a következő körben egy birkózási hatást alkalmazhat (lásd lentebb: **Birkózási hatások**), ha a fogást fenntartja.
+* **Speciális:** A támadó automatikusan sikerrel jár a következő Birkózás-próbájában a fogás fenntartásához, és +3 jellemző bónuszt kap minden, ebben a körben végrehajtott birkózási hatás elleni ellenpróbára.
+* **Kritikus:** A támadó automatikusan sikerrel jár a következő Birkózás-próbájában a fogás fenntartásához, és a célpont jellemzői a felére csökkennek minden birkózási hatás elleni ellenpróbában az adott harci kör hátralévő részében.
 
-**Rendszerjegyzetek:** A támadónak sikeres Bírkózás próbát kell tennie, hogy fogást létesítsen a célszemélyen. A sikeres támadások véletlenszerű testtájat ragadnak meg (ha ezt a rendszert használjátok). A bírkózást a Bírkózás képzettséggel lehet hárítani: ha a védő fegyverrel vagy pajzzsal hárít, a támadó automatikusan megragadja a fegyveres vagy pajzsos kart, ha a Bírkózás próba sikeres. Amint a fogás létrejött, a támadónak minden körben sikeres Bírkózás próbát kell tennie a fogás fenntartásához. A bírkózási hatásokon kívüli bármilyen cselekvés megszakítja a fogást. Amint fogva van, a célszemély támadhatja a támadóját, ha van szabad végtagja, Verekedés vagy bármilyen kis fegyver (kés vagy kézifegyver) használatával. Ha mindkét kéz szabad, a célpont megpróbálhat vissza-bírkózni.
+**Rendszermegjegyzések:** A támadónak sikeres Birkózás-próbát kell tennie, hogy fogást alakítson ki a célponton. A sikeres támadások véletlenszerű testtájat ragadnak meg (ha az a rendszer használatban van). A birkózás hárítható Birkózás készséggel: ha a védő fegyverrel vagy pajzzsal hárít, a támadó automatikusan megragadja a fegyveres vagy pajzsos kart, ha a Birkózás-próba sikeres. Amint a fogás létrejött, a támadónak körönként sikeres Birkózás-próbát kell tennie a fogás fenntartásához. Bármilyen, a birkózási hatásoktól eltérő cselekvés megszakítja a fogást. Amint fogva van, a célpont megtámadhatja a támadóját, ha van szabad végtagja, Verekedés vagy bármilyen kis fegyver (kés vagy kézifegyver) használatával. Ha mindkét kéz szabad, a célpont megpróbálhat visszabirkózni.
 
-Több támadó is megpróbálhat bírkózni egyetlen célszeméllyel, bár legfeljebb két támadó tarthat egyetlen testtájat. Kombináld mindkét támadó TÖE értékét minden versengő próbában.
+Több támadó megpróbálhat birkózni egyetlen célponttal, bár egyetlen testtájat legfeljebb két támadó tarthat. Add össze mindkét támadó ERŐ-értékét az összes vitatott próbában.
 
-> ### Bírkózási hatások
->
-> Egy támadó, aki fogást tart a célszemélyen, a következő hatások bármelyikét megkísérelheti, körönként egyet, a Bírkózás létrejöttét követő körben kezdve. Néhány hatás csak akkor használható, ha a támadó megragadott egy bizonyos testrészt (lásd alább). Mivel egyes hatások specifikus testtájakat érintenek, a mesélőnek esetleg értelmeznie kell az eredményeket.
->
-> * **Fogás váltása (Bármelyik):** vesd össze TÖE vs. TÖE-t az ellenállás táblázaton. Ha sikeres, a támadó a fogást egy választott másik testtájra helyezi át. Ha sikertelen, a célszemély cselekedhet, bár a támadó továbbra is tartja az eredeti testtájt.
-> * **Célszemély lefegyverzése (Kar):** A támadó összeveti TÖE+TÉZ értékét a célpont TÖE értékével az ellenállás táblázaton. Ha a támadó sikeres, a célpont elejti, ami a kezében van, és a kar mozgásképtelen marad. Ha sikertelen, a célpont megtartja a fogott tárgyat, bár a karja mozgásképtelen marad. A támadó megtartja a fogást.
-> * **Második testtáj megragadása (Kar/Láb):** A támadó megpróbál megragadni és tartani egy másik választott testtájt. Vesd össze a támadó TÖE-jét a célpont TÖE+TÉZ értékével az ellenállás táblázaton. Ha a támadó nyer, megragadja a második testtájt és fogva tartja a már megragadott végtagot. Ha sikertelen, a célpont azonnal összeveti TÖE-jét a támadó TÖE-jével az ellenállás táblázaton, hogy kitörjön minden fogásból. A támadó annyi testtájt tarthat, ahány keze van.
-> * **Végtag mozgásképtelenítése (Kar/Láb):** Vesd össze a támadó TÖE-jét a célpont TÖE-jével az ellenállás táblázaton. Ha a támadó nyer, azzal a végtaggal nem hajtható végre cselekvés, amíg a fogás meg nem szakad. Ha sikertelen, a célpont cselekedhet, bár a támadó továbbra is tartja a végtagot.
-> * **Célszemély sérülése (Fej/Mellkas/Has):** A támadó könyököl, váj vagy szorít, 1D3 sebzést okozva plusz a sebzésmódosítója a célpontnak (általános vagy a fogott testtájra). A célpont azonnal összevetheti TÖE-jét a támadó TÖE-jével az ellenállás táblázaton, hogy megtörje a fogást.
-> * **Célszemély mozgásképtelenítése (Fej/Mellkas/Has):** Vesd össze a támadó TÖE-jét a célpont TÖE-jével az ellenállás táblázaton. Ha a támadó nyer, a célpont semmilyen cselekvést nem hajthat végre, amíg a fogás meg nem szakad. Ha sikertelen, a célpont még cselekedhet, bár a támadó továbbra is tartja.
-> * **Célszemély földre vitele (Fej/Mellkas/Has):** A támadó automatikusan túlerőlteti a célpontot, mindkét karaktert hasra fektetve. A célpontnak sikeres Ügyesség próbát kell tennie, különben 1 pont általános sebzést (vagy véletlenszerű testtájra) szenved.
-> * **Célszemély fojtogatása (Fej):** A célpontnak minden körben TÖE×1% próbát kell tennie, különben 1D3 ÉP sebzést szenved általános életerőpontjaiból. A célpont azonnal összevetheti TÖE-jét a támadó TÖE-jével az ellenállás táblázaton, hogy megtörje a fogást. Amint a támadó elkezdi fojtogatni, nem kell további Bírkózás próbát tennie minden körben a fogás fenntartásához. A célpontnak meg kell próbálnia kiszabadulni (lásd **Fojtogatás, Fulladás és Asphyxiation**).
-> * **Célszemély dobása (Különleges):** Vesd össze a támadó TÖE+TÖE értékét a célpont TÉZ+TÖE értékével az ellenállás táblázaton. A célpont eldobása megszakít minden fogást. Ha a támadó sikeres, a célpont 1D6 métert repül, automatikusan földre kerül, és Ügyesség próbát kell tennie, különben 1D6 általános sebzést (vagy véletlenszerű testtájra) szenved. Egy TÖE×1% dobás lehetővé teszi, hogy a lábára érkezzen sebzés nélkül. Ha a próba sikertelen, a célpont nem repül el és cselekedhet, bár a támadó megtartja a fogást. Dobást bármelyik fogott végtaggal meg lehet kísérelni, de a fejjel végzett sikeres próba egyszerűen 1D6 általános sebzést (vagy a fej testtájra) okoz és nem eredményez dobást.
+> ### Birkózási hatások
+> 
+> A célpontját fogó támadó az alábbi hatások közül megkísérelhet egyet körönként, a fogás létrejöttét követő körtől kezdve. Egyes hatások csak akkor használhatók, ha a támadó megragadott egy adott testrészt (lásd lentebb). Mivel egyes hatások konkrét testtájakhoz kötődnek, a kalandmesternek értelmeznie kell az eredményeket.
+> 
+> * **Fogásváltás (Bármely):** Mérd össze az ÜGY-t az ÜGY ellen a resistance táblázaton. Ha sikerül, a támadó áthelyezi a fogást a választott testtájra. Ha nem sikerül, a célpont cselekedhet, bár a támadó továbbra is fogja az eredeti testtájt.
+> 
+> * **Célpont lefegyverzése (Kar):** A támadó összeadja az ERŐ+MÉR értékét, és azt méri össze a célpont ERŐ-jével a resistance táblázaton. Ha a támadó sikerrel jár, a célpont elejti a kezében lévő tárgyat, és a kar mozgásképtelen marad. Ha nem sikerül, a célpont megtartja a tárgyat/tárgyakat, de a karja mozgásképtelen marad. A támadó megtartja a fogást.
+> 
+> * **Második testtáj megragadása (Kar/Láb):** A támadó megpróbál megragadni és tartani egy másik választott testtájat. Mérd össze a támadó ÜGY-jét a célpont ÜGY+MÉR értékével a resistance táblázaton. Ha a támadó nyer, megragadja a második testtájt és fogva tartja a már megragadott végtagot. Ha nem sikerül, a célpont azonnal összeméri az ERŐ-jét a támadó ERŐ-jével a resistance táblázaton, hogy kiszabaduljon az összes fogásból. A támadó annyi testtájt foghat, ahány keze van.
+> 
+> * **Végtag mozgásképtelenné tétele (Kar/Láb):** Mérd össze a támadó ERŐ-jét a célpont ERŐ-jével a resistance táblázaton. Ha a támadó nyer, az adott végtaggal nem hajtható végre cselekvés, amíg a fogás meg nem szűnik. Ha nem sikerül, a célpont cselekedhet, bár a támadó továbbra is fogja a végtagot.
+> 
+> * **Célpont sérülése (Fej/Mellkas/Has):** A támadó könyököl, váj vagy szorít, 1D3 pont sebzést, plusz a sebzésmódosítót okozva a célpontnak (általános vagy a megragadott testtájra). A célpont azonnal összemérheti az ERŐ-jét a támadó ERŐ-jével a resistance táblázaton, hogy kiszabaduljon a fogásból.
+> 
+> * **Célpont mozgásképtelenné tétele (Fej/Mellkas/Has):** Mérd össze a támadó ERŐ-jét a célpont ERŐ-jével a resistance táblázaton. Ha a támadó nyer, a célpont semmilyen cselekvést nem hajthat végre, amíg a fogás meg nem szűnik. Ha nem sikerül, a célpont továbbra is cselekedhet, bár a támadó továbbra is fogja.
+> 
+> * **Célpont földre vitele (Fej/Mellkas/Has):** A támadó automatikusan földre viszi a célpontot, mindkét karaktert hanyatt döntve. A célpontnak Agilitás-próbát kell tennie, különben 1 pont általános sebzést szenved (vagy véletlenszerű testtájra).
+> 
+> * **Célpont fojtogatása (Fej):** A célpontnak minden körben ÁLL×1%-os próbát kell tennie, különben 1D3 életerőpont sebzést szenved az általános életerőpontjaira. A célpont azonnal összemérheti az ERŐ-jét a támadó ERŐ-jével a resistance táblázaton, hogy kiszabaduljon a fogásból. Amint a támadó elkezdi a fojtogatást, nem kell további Birkózás-próbákat tennie körönként a fogás fenntartásához. A célpontnak meg kell próbálnia kiszabadulni (lásd **Fojtás, fulladás és oxigénhiány**).
+> 
+> * **Célpont eldobása (Speciális):** Mérd össze a támadó ERŐ+ÜGY értékét a célpont MÉR+ÜGY értékével a resistance táblázaton. A célpont eldobása megszüntet minden fogást. Ha a támadó sikeres, a célpont 1D6 métert repül, automatikusan földre kerül, és Agilitás-próbát kell tennie, különben 1D6 pont általános sebzést szenved (vagy véletlenszerű testtájra). Egy ÜGY×1%-os dobással talpra érkezhet sérülés nélkül. Ha a próba sikertelen, a célpontot nem dobja el, és cselekedhet, bár a támadó megtartja a fogást. Dobást bármely fogott végtaggal meg lehet kísérelni, de a fejjel végzett sikeres dobás csak 1D6 pont általános sebzést okoz (vagy a fej testtájra), és nem eredményez eldobást.
 
 ### Nehézgép (különböző)
 
-**Alapérték:** 01%
+**Alapesély:** 01%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd ezt a képzettséget bármely, embernél nagyobb gép és bármely költöztető furgonnál nehezebb kerekes jármű kezelésére, mint pl. targonca, tank, dózer, daru, mozdony, vagy nagy tengerjáró hajó motorjának kezelésére. A Nehézgép magában foglalja az alapvető gondozást és megelőző karbantartást, bár ha egy nehézgép meghibásodik, Javítás képzettség szükséges a megjavításához. Repülőgépekhez használd a Pilótázást. A baki zuhanást, motorhibát és/vagy anyagi kárt eredményez, a kudarc azt jelenti, hogy a gép nem végzi el a kívánt feladatot. A sikerek és kiváló sikerek nagyobb hatékonyságot jeleznek.
+Használd ezt a készséget bármilyen embernél nagyobb gép és bármilyen költöztető teherautónál nehezebb kerekes jármű kezelésére, mint például targonca, tank, buldózer, daru, mozdony, vagy nagy tengerjáró hajó motorjainak működtetésére. A Nehézgép az alapvető gondozást és megelőző karbantartást is lefedi, bár amint egy nehézgép meghibásodik, Javítás készség szükséges a megjavításához. Repülőgépeknél használd a Pilóta készséget. A balsiker balesetet, motorhibát és/vagy anyagi kárt eredményez, míg a kudarc azt jelenti, hogy a gép nem hajtja végre a kívánt feladatot. A sikerek és kiemelkedő sikerek nagyobb hatékonyságot jeleznek.
 
-**Specializációk:** Járműtípus szerint (Páncélozott járművek, Kazánok, Dózerek, Daruk, Motorok, Turbinák stb.).
+**Szakterületek:** Járműtípus szerint (Páncélosok, Kazánok, Buldózerek, Daruk, Motorok, Turbinák stb.).
 
-**Rendszerjegyzetek:** Általában a nehézgépek nem vehetnek részt üldözésekben, de bizonyos típusú gépek fegyverként használhatók, 3D6-tól 6D6 sebzést okozva, az eszköz mérete alapján. A képzettség használata normál teljesítményen kívül Nehéz, csakúgy, mint a kezelése és karbantartása szélsőséges körülmények között.
+**Rendszermegjegyzések:** Általánosságban a nehézgépek nem képesek üldözésekben részt venni, de bizonyos gépek fegyverként használhatók, 3D6-tól 6D6-ig terjedő sebzést okozva, az eszköz méretétől függően. A készség használata a normál teljesítményen kívül Nehéz, csakúgy mint a kezelés és karbantartás szélsőséges körülmények között.
 
 ### Nehézfegyver (különböző)
 
-**Alapérték:** Fegyverspecializációnként
+**Alapesély:** A fegyver szakterülete szerint
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget robbanószerek vagy nagy, közvetlen irányzékú fegyverek kezelésére, amelyek feszegetik a hordozhatóság határait, mint pl. bazooka, rakétavető, nehéz géppuska, állványra szerelt lézerágyú és mások. Használd a Tüzérség képzettséget nehezebb lövedékekhez, mint ágyúk, ostromgépek vagy járműre/forgózsámolyra szerelt fegyverek.
+Használd ezt a készséget robbanó fegyverek vagy olyan nagy közvetlen tüzelésű fegyverek kezelésére, amelyek feszegetik a hordozhatóság határait, mint például a bazookák, rakétavetők, nehézgéppuskák, állványra szerelt lézerágyúk és mások. Használd a Tüzérség készséget olyan nehezebb hadianyagokhoz, mint az ágyúk, ostromgépek vagy járműre/forgózsámolyra szerelt fegyverek.
 
-**Specializációk:** A nehézfegyverek a hagyományos fegyverek és a tüzérség közé esnek, és gyakran használják őket robbanóanyagok célba juttatására. A specializációk fegyvertípus szerintiek, beleértve a Bazooka, Lángszóró, Mini Gun, Rakétavető stb. Lásd a **Tüzérséget és Robbanószereket** a Nyolcadik fejezetben: Felszerelés további részletekért.
+**Szakterületek:** A nehézfegyverek a hagyományos fegyverek és a tüzérség közé esnek, és gyakran robbanószerek célba juttatására használják őket. A szakterületek fegyvertípus szerintiek, beleértve a Bazooka, Lángszóró, Mini Gun, Rakétavető stb. kategóriákat. További részletekért lásd a **Tüzérség és robbanószerek** részt a nyolcadik fejezetben (Felszerelés).
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolságú fegyver baki táblázatot** a konkrét hatásokért. A nehézfegyverek általában szúrnak vagy visszalöknek.
+**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolsági fegyverek balsiker-táblázatát** a konkrét hatásokért. A nehézfegyverek általában szúrnak vagy visszalöknek.
 
-**Rendszerjegyzetek:** A legtöbb nehézfegyver sorozatlövést alkalmaz, vagy robbanótöltetet lő. Lásd a **Sorozatlövést** és a **Robbanásokat**. Minden célt tévesztett lövés valahová becsapódik; a mesélőnek el kell döntenie, hová csapódnak be a célt tévesztett robbanótöltetek.
+**Rendszermegjegyzések:** A legtöbb nehézfegyver sorozatlövést alkalmaz, vagy robbanó töltetet lő ki. Lásd a **Sorozatlövés** és **Robbanások** részeket. Minden elhibázott lövés valahol landol; a kalandmesternek kell eldöntenie, hová csapódnak az elhibázott robbanó lövések.
 
 ### Rejtőzés
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
 **Kategória:** Fizikai
 
-Tárgy vagy önmagunk elrejtésének művészete a szem elől. A karaktered ezt a képzettséget menekülés közbeni elrejtőzésre, tárgy észrevétlen tartására vagy megfigyelés elkerülésére használja. A baki azonnali figyelmet vonz, a kudarc azt jelenti, hogy az elrejtőző megtalálásához szükséges Fürkészés próba *Könnyű* lesz, a siker Fürkészés próbát igényel a megtaláláshoz, a kiváló sikerek pedig a Fürkészés próbát *Nehézzé* vagy *Lehetetlenné* teszik.
+Egy tárgy vagy saját magunk elrejtésének művészete a szem elől. A karakterednek ezt a készséget üldözés közbeni menekülésre, tárgy könnyű észrevételtől való megóvására vagy megfigyelés elkerülésére kell használnia. A balsiker azonnali figyelmet vonz, a kudarc azt jelenti, hogy a hider (rejtőzködő) megtalálásához szükséges Megfigyelés-próba *Könnyűvé* válik, a siker esetén Megfigyelés-próba szükséges a megtaláláshoz, a kiemelkedő siker pedig a Megfigyelés-próbát *Nehézzé* vagy *Lehetetlenné* teszi.
 
-**Rendszerjegyzetek:** A Rejtőzés próbák ellenállnak egy megfigyelő vagy kereső Fürkészésének. Megfelelő fedezék elengedhetetlen; hiányos fedezékben rejtőzni Nehéz, a teljes fedezékhiány (széles nyílt tér, fényes nappal) pedig Lehetetlenné teszi. Speciális ruházat vagy felszerelés (arcfestés, terepszínű ruházat stb.) +20%-ig terjedő bónuszt adhat, minőségétől függően. Környezeti feltételek további bónuszokat kínálhatnak. A rejtőzködőnek a lehető legmozdulatlanabbnak kell maradnia; mozgás közben Rejtőzni Nehéz, és több mint egy métert mozogni egy harci körben mind Rejtőzés, mind Lopózás próbát igényel. A Rejtőzés csak vizuális és hallási észlelés ellen hatásos; fejlett szenzorok testhő alapján találhatják meg a rejtőzködő karaktert, vagy egy éles orr az Érzékelés képzettséggel találhat rá.
+**Rendszermegjegyzések:** A Rejtőzés-próbákat a megfigyelő vagy kutató Megfigyelés-próbája ellenzi. A megfelelő fedezék elengedhetetlen; ritka fedezékben rejtőzni Nehéz, a fedezék teljes hiánya (nyílt terep, tűző napfény) pedig Lehetetlenné teszi. Speciális ruházat vagy felszerelés (arcfestés, álcázóruha stb.) minőségétől függően akár +20%-os bónuszt is adhat. A környezeti feltételek további bónuszokat kínálhatnak. Az elrejtőzőnek a lehető legmozdulatlanabbnak kell maradnia; mozgás közben használni a Rejtőzést Nehéz, és egy harci körben egy méternél többet mozogni Rejtőzés és Lopakodás próbákat is igényel. A Rejtőzés csak vizuális és hallási észlelés ellen hatékony; a fejlett érzékelők testhő alapján találhatják meg a rejtőzködő karaktert, vagy egy éles orr az Érzékelés készséggel találhat rá.
 
-### Megérzés
+### Megérzés (Insight)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget egy másik személy karakterének, érzelmi állapotának és indítékainak értékelésére testbeszéd, beszédminták és egyéb immateriális tényezők alapján. A Megérzés lehetővé teszi a szerencsejátékosnak, hogy megérezze a blöfföt, vagy egy nyomozónak, hogy kiszagolja a hazugságot. A baki félrevezető információt ad, a kudarc nem eredményez semmit, a siker tudtára adja, mire gondolhat a célpont, a kiváló sikerek pedig feltárják előtted legbensőbb gondolataikat (az észszerűség határain belül).
+Használd ezt a készséget egy másik személy karakterének, érzelmi állapotának és indítékainak értékelésére testbeszéd, beszédminták és más nem kézzelfogható tényezők alapján. A Megérzés lehetővé teszi a szerencsejátékos számára, hogy megérezze a blöfföt, vagy a nyomozónak, hogy kiszagolja a hazugságot. A balsiker félrevezető információt nyújt, a kudarc semmit sem ér, a siker tudtára adja, mire gondolhat a célpont, a kiemelkedő siker pedig feltárja előtted legbensőbb gondolataikat (ésszerű kereteken belül).
 
-**Rendszerjegyzetek:** Ez a képzettség ellentétbe állítható Etikettel, Dumálással vagy akár Meggyőzéssel. Ezt a képzettséget közeli barátokon, családtagokon vagy házastársakon használni Könnyű. Ha a **Személyiségjegyek** rendszert használjátok, a Megérzés általános kifejezésekkel (például "nagyon önző") meg tudja határozni azok erősségét.
+**Rendszermegjegyzések:** Ez a készség Etikett, Szélhámosság vagy akár Meggyőzés ellen is alkalmazható. A közeli barátokon, családtagokon vagy házastársakon használni ezt a készséget Könnyű. Ha a **Személyiségjegyek** rendszert használod, a Megérzés meghatározhatja ezeknek a személyiségjegyeknek az erősségét általános kifejezésekben (például „Nagyon önző”).### Ugrás
 
-### Ugrás
-
-**Alapérték:** 25%
+**Alapesély:** 25%
 
 **Kategória:** Fizikai
 
-Használd ezt a képzettséget magasságba vagy távolságba ugrásra, akadályok átugrására. Normál körülmények között egy ésszerűen fitt ember a magassága dupláját képes vízszintesen és a magassága felét függőlegesen ugrani álló helyzetből, és nagyjából három métert vízszintesen futásból. A baki esést eredményez (1D6 általános életerőpont sebzés vagy testtájra), a siker az ugrás leírtak szerinti teljesítése, a különleges siker 50%-kal növeli az összeget, a kritikus siker pedig duplázza. Az Ugrás csökkentheti az esési sebzést 1D6-tal sikerfokozatonként (normál siker –1D6, különleges –2D6, kritikus –3D6).
+Ezt a képességet magasságba vagy távolságba történő ugráshoz, valamint akadályok átugrásához használd. Normál körülmények között egy átlagos fizikumú ember álló helyzetből a saját magasságának megfelelő távolságra, illetve a magasságának felére képes felugrani, nekifutásból pedig körülbelül három méter távolságra. A botlás (fumble) esést eredményez (1D6 általános életerő-veszteség vagy végtagsérülés), a siker a fent leírt ugrást eredményezi, a különleges siker 50%-kal növeli a távolságot, a kritikus siker pedig megduplázza azt. Az Ugrás képességgel a zuhanásból eredő sebzés is csökkenthető, sikerszintenként 1D6-tal (normál siker esetén –1D6, különleges esetén –2D6, kritikus esetén –3D6).
 
-**Rendszerjegyzetek:** Az álló ugrás 1 ÜGY fokozatot igényel. A futó ugrás ugyanazt az ÜGY fokozatot használja, mint a normál futó mozgás. Látványos ugrások (szaltók, bukfencek stb.) végrehajtása Nehéz.
+**Rendszermegjegyzések:** Az álló helyzetből történő ugrás 1 ÜGY-kezdeményezést igényel. A nekifutásból történő ugrás ugyanazt az ÜGY-kezdeményezést használja, mint a normál futó mozgás. A díszes vagy látványos ugrások (szaltók, bukfencek stb.) Nehezek.
 
 ### Ismeret (különböző)
 
-**Alapérték:** 05% vagy 00% (lásd alább)
+**Alapesély:** 05% vagy 00% (lásd alább)
 
 **Kategória:** Mentális
 
-Ez a képzettség egy tudáságban szerzett tapasztalatot vagy akadémiai tanulmányt reprezentál. Használj Ismeret képzettséget releváns tények felidézésére, nyomok elemzésére vagy azonosítására, logikai feltételezések tételére és lenyűgöző trivia felidézésére. A tudományosabbakért lásd a Tudományt. A baki félrevezető és pontatlan hazugságokat eredményez, a sikerek pedig hasznosabb és részletesebb információt hoznak.
+Ez a képesség egy tudományágban szerzett tapasztalatot vagy akadémiai tanulmányokat reprezentál. Az Ismeret képességet a vonatkozó tények felidézésére, nyomok elemzésére vagy azonosítására, logikai következtetések levonására és lenyűgöző apróságok felidézésére használd. A tudományosabb témákhoz lásd a Tudomány képességet. A botlás félrevezető és pontatlan hamisságokat eredményez, a sikerek pedig hasznosabb és részletesebb információkkal szolgálnak.
 
-**Specializációk:** Könyvelés, Antropológia, Régészet, Történelem, Jog, Okkultizmus, Vallás stb. (lásd a közeli listát). A mesélőnek el kell döntenie, hogy az Ismeret képzettség alapértéke 05%-e a gyakori specializációknál, vagy 00%-e azoknál, amelyek kutatást és tanulmányt igényelnek a kezdetleges megértéshez is.
+**Szakirányok:** Könyvelés, Antropológia, Régészet, Történelem, Jog, Okkultizmus, Vallás stb. (lásd a közeli listát). A mesélő határozza meg, hogy egy Ismeret képesség alapesélye 05% (általános szakirányok esetén), vagy 00% (olyanok esetén, amelyek kutatást és tanulmányozást igényelnek az alapvető megértéshez is).
 
-**Beállítási jegyzetek:** Fantasy és történelmi beállításokban csak a specializációk kis része létezik. Ahogy a beállítások modernizálódnak, a specializációk száma nő.
+**Világbeállítási megjegyzések:** Fantasy és történelmi környezetben csak a szakirányok egy szűk köre létezik. Ahogy a környezet modernizálódik, a szakirányok száma nő.
 
-**Rendszerjegyzetek:** Az opcionális EDU tulajdonság és az Ismeret dobás lefedi a legtöbb közös ismeretet – a speciális információt egy Ismeret képzettség megfelelő specializációja reprezentálja.
+**Rendszermegjegyzések:** Az opcionális INT-jellemző és a Tudás-próba lefedi a legtöbb általános ismeretet – a speciális információkat egy megfelelő Ismeret képesség szakiránya reprezentálja.
 
-> ### Ismeret specializációk
->
-> Ezek a specializációk nem átfogóak és szükség szerint bővíthetők. Néhány specializációnak van alspecializációja, egyetlen témára fókuszáló vizsgálat az adott területen belül. Írd őket így: Ismeret (Csoport/Templomosok) vagy Ismeret (Templomosok), tetszés szerint.
->
-> **Akadémiai tudás (Csak ősi korok):** Azokban a korokban, amikor az írott tudás egésze elfér egyetlen könyvtárban, ez reprezentálja, mennyire vagy "művelt". Használd Know dobásként szinte bármilyen tudásterületen.
->
-> **Könyvelés:** Használd könyvelés elemzésére, pénzügyi elemzésre (adósság, csőd, vagyon, nettó érték stb.), és pénzügyi szabálytalanságok (furcsa kiadások, sikkasztás vagy szokatlan pénzeső) azonosítására.
->
-> **Antropológia:** Kultúrák tanulmányozása, beleértve a szokásokat, művészetet és viselkedést. Használd személy vagy tárgy eredeti kultúrájának azonosítására vagy egy kultúra társadalmi szokásainak és viselkedésének meghatározására.
->
-> **Régészet:** Ősi és eltűnt kultúrák tanulmányozása. Használd holt kultúrából származó tárgy azonosítására, hamisítvány kiszúrására, vagy ásatás lefolytatására és ésszerű következtetések levonására egy lelőhely vagy régió történelméről.
->
-> **Művészettörténet:** Különböző korokból és helyekről származó művészet tanulmányozása, beleértve a stílust, híres művészeket és konkrét műveket. Használd egy műalkotás eredetének azonosítására, hamisítvány kiszúrására vagy egy ismert mesternek tulajdonításra.
->
-> **Káromló tudás:** Borzalmas okkult titkok és ősi gonoszságok tanulmányozása. Minél többet tud valaki ebből, annál kevésbé ép az elméje (lásd Épség). A Káromló tudás képzettsége 0%-ról indul, nem 05%-ról, és nem növelhető tapasztalattal.
->
-> **Üzlet:** Vállalkozói gyakorlatok, céhszabályok, vállalati törvények és vezetési technikák tanulmányozása egy kereskedelmi vállalkozáshoz. Használd a terület vagy piac főszereplőinek azonosítására, gazdasági trendek előrejelzésére és profit termelésére.
->
-> **Kémkedés:** Kémszervezetek, híres vagy hírhedt kémek és ügynökök ismerete; módszertan, nevezetes személyek, szervezetek, taktikák stb. Használd ügynökségek és modus operandiuk ismeretére. A kódfejtés a Tudomány (Kriptográfia) részét képezi.
->
-> **Folklór:** Egy nép vagy régió szokásainak, történeteinek, dalszövegeinek, mendemondáinak és legendáinak ismerete. Használd a népmese vagy mese elemeinek azonosítására vagy felidézésére, legyen az rusztikus vagy természetfeletti.
->
-> **Csoport/Alspecializáció:** Általános információ egy adott kultúráról, nemzetiségről, csoportról, klubról vagy társadalmi osztályról. Használd a képzettséget egy csoport tagjának azonosítására, annak ismeretére, "kicsoda-kicsoda" a csoporton belül, és a csoport társadalmi szokásainak és erkölcsének felidézésére.
->
-> **Történelem:** Múltbeli események és korszakok tanulmányozása. Használd a képzettséget bármely hely, személy, esemény vagy tárgy jelentőségének felidézésére, vagy annak helyes kitalálására, mikor készült egy tárgy vagy dokumentum.
->
-> **Jog:** Jogi gyakorlat és precedens tanulmányozása. Használd javasolt cselekvés jogszerűségének megítélésére, jogi precedensek keresésére, a hatóságokkal való bajból való kimenekülésre, vagy ügy építésére bűnöző ellen vagy érdekében.
->
-> **Nyelvészet:** Magának a nyelvnek a tanulmányozása, a nyelvtan és szókincs alapjaitól kezdve addig, hogyan alakítják a társadalmak a nyelveket. Használd ismeretlen nyelvek azonosítására vagy néhány szó megfejtésére vagy az alapvető jelentés megragadására, bár ez a képzettség nem helyettesíti a megfelelő Nyelv képzettséget.
->
-> **Irodalom:** Jelentős prózai művek, költészet és esszék tanulmányozása, általában egyetlen kultúrából. Használd a képzettséget idézet vagy utalás helyes azonosítására egy adott műre, azonosítására, mikor és hol íródhatott ismeretlen töredék, titokzatos mű tulajdonítására ismert szerzőnek, irodalmi hamisítvány kiszúrására, vagy vészjóslóan megfelelő részletek idézésére irodalmi klasszikusokból.
->
-> **Természeti világ:** A környezet, időjárási minták, flóra, fauna és egy terület természetrajzának ismerete, elsősorban gyakorlati értelemben, nem tudományos háttérrel.
->
-> **Okkultizmus:** Mágia, homályos legendák és úgynevezett "titkos történelem" ismerete, amely az arkanikus filozófiáktól a modern összeesküvés-elméletekig mindent lefed. Használd a képzettséget alkímiai vagy asztrológiai szimbólumok jelentőségének felismerésére, annak azonosítására, mely mágikus tradíció hozott létre egy rituális munkaterületet, hatalmas szellemek nevének ismeretére, vagy a helyzet manipulálására szövetkező titkos frakciók azonosítására.
->
-> **Filozófia:** A létezés és annak értelme tanulmányozása, az alapvető logikától az egzisztencializmusig, nihilizmusig és tovább. Használd a képzettséget egy adott filozófia elveinek felidézésére, egy szerző vagy beszélő érvelésének filozófiai irányultságának azonosítására, és filozófiai vitában való részvételre.
->
-> **Politika:** Politikai rendszerek vagy az állampolgárokra kirótt/általuk választott egyéb kormányzási eszközök tanulmányozása és ismerete. Használd a képzettséget egy terület fő hatalmi blokkjainak megértésére, a politikai struktúra befolyásolására, és annak megértésére, hogyan reagálnak az állampolgárok politikai változásokra vagy befolyásra.
->
-> **Régió/Alspecializáció:** Általános információ egy adott városról, régióról vagy nemzetről, beleértve fontos embereket, helyi nevezetességeket és regionális történelmet. Használd a képzettséget olcsó szállás keresésére nyüzsgő városban, a tartomány legjobb út menti fogadójának felidézésére, helyi politika megértésére vagy konkrét kereskedők vagy iparosok keresésére.
->
-> **Vallás/Alspecializáció:** Egy adott vallás mítoszainak, liturgiájának és gyakorlatának részletei. Használd a képzettséget tabuk megsértésének elkerülésére, egy hit törvényeinek és kötelezettségeinek felidézésére, teológiai pontok sikeres megvitatására, regáliák vagy vallási szövegek azonosítására, ortodoxia és eretnekség megkülönböztetésére vagy vallási szertartás megfelelő vezetésére.
->
-> **Alvilági ismeretek:** A társadalom sötétebb részeinek ismerete, a szegények protokolljaitól a bűnözői alvilág útjaiig. Használd a képzettséget búvóhely keresésére, lopott áruk orgazdájának azonosítására vagy annak ismeretére, kitől kérj félig-legális vagy illegális szívességeket.
+> ### Ismeret szakirányok
+> 
+> Ezek a szakirányok nem teljes körűek, és szükség szerint bővíthetők. Néhány szakirányhoz tartoznak al-szakirányok, amelyek egy adott témán belüli konkrét fókuszok. Ezeket így jelöld: Ismeret (Csoport/Templomosok) vagy Ismeret (Templomosok), igény szerint.
+> 
+> **Akadémiai tudás (Csak ókori korok):** Olyan korokban, amikor a teljes írott tudás egyetlen könyvtárban elfér, ez azt mutatja, mennyire „művelt” valaki. Szinte bármilyen ismereti területen használható úgy, mint egy Tudás-próba.
+> 
+> **Könyvelés:** Könyvelés elemzésére, pénzügyi vizsgálatra (adósság, csőd, vagyon, nettó érték stb.) és pénzügyi szabálytalanságok (furcsa költések, sikkasztás vagy szokatlan bevételek) azonosítására használd.
+> 
+> **Antropológia:** A kultúrák tanulmányozása, beleértve a szokásokat, a művészetet és a viselkedést. Használd egy személy vagy műtárgy őshonos kultúrájának azonosítására, vagy egy kultúra társadalmi szokásainak és viselkedésmintáinak meghatározására.
+> 
+> **Régészet:** Az ősi és eltűnt kultúrák tanulmányozása. Használd egy holt kultúrából származó műtárgy azonosítására, hamisítvány kiszűrésére, vagy ásatások lefolytatására, illetve egy helyszín vagy régió történelmére vonatkozó ésszerű következtetések levonására.
+> 
+> **Művészettörténet:** Különböző korok és helyszínek művészetének tanulmányozása, beleértve a stílusokat, híres művészeket és konkrét alkotásokat. Használd egy műalkotás eredetének azonosítására, hamisítvány kiszűrésére vagy egy mű egy ismert mesterhez való hozzárendelésére.
+> 
+> **Káromló tudás:** Borzalmas okkult titkok és ősi gonoszságok tanulmányozása. Minél több ilyen ismerete van valakinek, annál kevésbé tartja kézben a józan eszét (lásd Elmeállapot). A Káromló tudás képesség 0%-ról indul, nem 05%-ról, és tapasztalattal nem növelhető.
+> 
+> **Üzleti ismeretek:** Vállalkozói gyakorlatok, céhes szabályzatok, vállalati törvények és kereskedelmi vállalkozások irányítási technikáinak tanulmányozása. Használd a terület vagy piac főbb szereplőinek azonosítására, gazdasági trendek előrejelzésére és nyereség elérésére.
+> 
+> **Kémkedés:** Kémszervezetek, híres vagy hírhedt kémek és ügynökök ismerete; módszertan, jelentős személyek, szervezetek, taktikák stb. Használd ügynökségek és azok működési módjának ismeretéhez. A kódfejtés a Tudomány (Kriptográfia) képességhez tartozik.
+> 
+> **Folklór:** Egy adott nép vagy régió szokásainak, történeteinek, dalainak, hiedelmeinek és legendáinak ismerete. Használd ezt a képességet népmesék vagy mondák elemeinek azonosítására vagy felidézésére, legyenek azok népiesek vagy természetfelettiek.
+> 
+> **Csoport/Al-szakirány:** Általános információk egy adott kultúráról, nemzetiségről, csoportról, klubról vagy társadalmi osztályról. Használd ezt a képességet egy csoporttag azonosítására, annak ismeretére, hogy „ki kicsoda” a csoporton belül, valamint a csoport társadalmi szokásainak és erkölcsének felidézésére.
+> 
+> **Történelem:** Múltbeli események és korszakok tanulmányozása. Használd ezt a képességet bármely hely, személy, esemény vagy tárgy jelentőségének felidézésére, vagy annak helyes kitalálására, mikor készült egy tárgy vagy dokumentum.
+> 
+> **Jog:** A joggyakorlat és precedensek tanulmányozása. Használd ezt a képességet egy javasolt cselekedet jogszerűségének megítélésére, jogi precedensek keresésére, magad hatósági bajból való kimentésére, vagy egy bűnöző elleni vagy melletti ügy felépítésére.
+> 
+> **Nyelvészet:** Magának a nyelvnek a tanulmányozása, a nyelvtan és szókincs alapjaitól kezdve egészen addig, hogyan formálják a társadalmak a nyelveket. Használd ezt a képességet ismeretlen nyelvek azonosítására vagy néhány szó megfejtésére, esetleg alapvető jelentés megragadására, bár ez a képesség nem helyettesíti a megfelelő Nyelv képességet.
+> 
+> **Irodalom:** Jelentős prózai művek, költészet és esszék tanulmányozása, általában egyetlen kultúrán belül. Használd ezt a képességet egy idézet vagy egy adott műre való utalás helyes azonosítására, annak beazonosítására, hogy egy ismeretlen töredék mikor és hol íródhatott, egy titokzatos mű egy ismert szerzőhöz való hozzárendelésére, irodalmi hamisítvány kiszűrésére, vagy híres irodalmi művekből származó, baljósan odaillő passzusok idézésére.
+> 
+> **Természeti világ:** A környezet, az időjárási minták, a flóra, a fauna és egy terület természettörténetének ismerete, elsősorban gyakorlati értelemben, nem pedig tudományos háttérrel.
+> 
+> **Okkultizmus:** Mágia, homályos legendák és az úgynevezett „titkos történelem” ismerete, amely mindent lefed az ezoterikus filozófiáktól a modern összeesküvés-elméletekig. Használd ezt a képességet alkímiai vagy asztrológiai szimbólumok jelentőségének felismerésére, annak azonosítására, mely mágikus tradíció hozott létre egy rituális munkateret, az erőteljes szellemek nevének ismeretére, vagy egy helyzet manipulálására összeesküvő titkos frakciók azonosítására.
+> 
+> **Filozófia:** A létezés és értelmének tanulmányozása, az alapvető logikától az egzisztencializmuson, nihilizmuson és azon túl. Használd ezt a képességet egy adott filozófia alapelveinek felidézésére, egy szerző vagy beszélő érvelésének filozófiai irányultságának azonosítására, és filozófiai vitákban való részvételre.
+> 
+> **Politika:** Politikai rendszerek vagy az állampolgárokra kirótt, illetve általuk választott kormányzati formák ismerete. Használd ezt a képességet egy terület főbb hatalmi blokkjainak megértésére, a politikai struktúra befolyásolására, és annak ismeretére, hogyan reagálnak az állampolgárok a politikai változásokra vagy befolyásra.
+> 
+> **Régió/Al-szakirány:** Általános információk egy adott városról, régióról vagy nemzetről, beleértve a fontos személyeket, helyi nevezetességeket és a regionális történelmet. Használd ezt a képességet olcsó szállás keresésére egy nyüzsgő városban, a tartomány legjobb út menti fogadójának felidézésére, a helyi politika megértésére, vagy konkrét kereskedők és iparosok megtalálására.
+> 
+> **Vallás/Al-szakirány:** Egy adott vallás mitológiájának, liturgiájának és gyakorlatának részletei. Használd ezt a képességet a tabuk megsértésének elkerülésére, a hit törvényeinek és kötelezettségeinek felidézésére, teológiai pontok sikeres megvitatására, jelvények vagy vallási szövegek azonosítására, az ortodoxia elválasztására az eretnekségtől, vagy vallási szertartások megfelelő vezetésére.
+> 
+> **Utcai ismeretek:** A társadalom sötétebb szeleteinek ismerete, a szegények protokoljaitól kezdve a bűnözői alvilág módszereiig. Használd ezt a képességet rejtekhely megtalálására, lopott áruk értékesítőjének (orgazdának) azonosítására, vagy annak ismeretére, kihez fordulhatsz más félig legális vagy illegális szívességekért.
 
 ### Nyelv (különböző)
 
-**Alapérték:** INT×5 (vagy EDU×5) vagy 00% (lásd alább)
+**Alapesély:** INT×5 (vagy EDUx5) vagy 00% (lásd alább)
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Verbális kommunikáció képessége egy nyelvben, akár anyanyelv, akár más. Más nyelvek elsajátíthatók otthon, iskolában, templomban, munkahelyen vagy az utcán, kultúrától és neveltetéstől függően. A legtöbb karakter az anyanyelvét INT×5 szinten ismeri. A kétnyelvű karaktereknek képzettségi pontokat kell költeniük egy másik nyelvre. A mindennapi beszélgetés saját nyelven Automatikus és nem igényel próbát. Képzettségi próba csak akkor szükséges, ha nehéz fogalmakat kell közvetíteni, vagy nehéz és szokatlan helyzetekben, mint pl. fordításnál. Ez a képzettség szóbeli kommunikációt fed le – olvasás és írás esetén használd az Írás-olvasást. A baki katasztrofális félreértést jelent, a sikerek pedig gördülékeny és néha választékos kommunikációt eredményeznek.
+Verbális kommunikáció képessége egy adott nyelven, legyen az az anyanyelv vagy más. Más nyelvek otthon, iskolában, templomban, munkahelyen vagy az utcán tanulhatók, a kultúrától és neveltetéstől függően. A legtöbb karakter a saját nyelvét INT×5 szinten ismeri kezdetben. A kétnyelvű karaktereknek képességpontokat kell költeniük egy másik nyelvi képességre. A saját nyelven történő mindennapi beszélgetés automatikus, és nem igényel képességpróbát. Képességpróbára csak nehéz fogalmak közlésekor, vagy nehéz és szokatlan helyzetekben, például tolmácsoláskor van szükség. Ez a képesség a szóbeli kommunikációt fedi le – az olvasás és írás az Írástudás képességhez tartozik. A botlás katasztrofális félreértést jelent, míg a sikerek gördülékeny és olykor ékes kommunikációt eredményeznek.
 
-**Specializációk:** Nyelvenként. Minden specializáció egyetlen nyelvre vonatkozik; ha azt szeretnéd, hogy a karaktered megtanuljon egy további nyelvet, további Nyelv képzettséget kell fejlesztenie.
+**Szakirányok:** Nyelvenként. Minden szakirány egyetlen nyelvre vonatkozik; ha azt szeretnéd, hogy a karaktered megtanuljon egy további nyelvet, egy újabb Nyelv képességet kell felépítenie.
 
-**Rendszerjegyzetek:** Ha az EDU opcionális szabályt használjátok, válaszd az INT×5 vagy EDU×5 közül a magasabbat az alapértékhez. Homályos dialektusok vagy egy nyelv ősi változatainak megértése Nehéz. Összetett vagy hosszú dokumentumok vagy több fontos pontot tartalmazó beszélgetések több nyelvpróbát igényelhetnek, minden ponthoz egyet. Lásd a **Nyelvi folyékonyság** táblázatot a részletekért, hogyan befolyásolja a képzettségi szint a kommunikációt és folyékonyságot.
+**Rendszermegjegyzések:** Ha az EDU opcionális szabályt használod, válaszd az INT×5 vagy EDU×5 közül a magasabbat az alapesélyhez. A homályos nyelvjárások vagy egy nyelv archaikus változatainak megértése Nehéz. Összetett vagy hosszú dokumentumok, illetve több lényeges pontot érintő beszélgetések megértéséhez több nyelvpróbára lehet szükség, pontonként egyre. A képességszint kommunikációra és folyékonyságra gyakorolt hatásáról lásd a **Nyelvi folyékonyság** táblázatot.
 
 ##### Nyelvi folyékonyság
 
-| Képzettségi szint | Folyékonyság |
-| :--- | :--- |
-| 01–05 | Csak néhány tucat szót ismer, 10-ig tud számolni. Csak egyszerű ötleteket tud közvetíteni. Összetett kommunikáció (Alkudozás, Meggyőzés stb.) szóba sem jöhet. Például: „Étel. Kérlek, adj el.” |
-| 06–25 | Egyszerű kéréseket közvetít, eleget ahhoz, hogy megértsék és túlélje a mindennapokat. Összetett kommunikáció (Alkudozás, Meggyőzés stb.) Nehéz. Például: „Mennyibe kerül ez a báránycomb?” |
-| 26–50 | Magabiztos kommunikáció. A beszélő jobban beszél, mint egy gyerek, a legtöbb ötletet át tudja adni. A kommunikációs képességek nincsenek korlátozva, de bizonyos cselekvések még mindig Nehezek lehetnek. Például: „Mennyibe? De ez a bárány tegnap sokkal olcsóbb volt!” |
-| 51–75 | Lehetővé teszi a beszélőnek, hogy történeteket, sagákat, dalokat stb. meséljen. Idiómák és viccek elérhetővé válnak. Anyanyelvinek hathat. Az összetett kommunikációk most a beszélő teljes képzettségi szintjén történnek. Például: „Nézd ezt a darabot! A bárány már rohadt volt, mielőtt levágták, és láthatóan nem éri meg annak a munkásnak az izzadságát sem, aki idehozta.” |
-| 76–100 | A költők, filozófusok, tudósok és diplomaták nyelve. A beszélő nemcsak anyanyelvinek hathat, de képes egy vagy több helyi dialektust is utánozni. A szakzsargon és a homályos beszédmódok könnyen jönnek. Például: „Bizonyára a provender eme példányának értékelése újraértékelhető lenne az előrehaladott bomlási állapota fényében.” |
+| Képességszint | Folyékonyság |
+| :---- | :---- |
+| 01–05 | Csak néhány tucat szót ismer, 10-ig tud számolni. Csak egyszerű ötleteket képes közölni. Az összetett kommunikáció (Alkudozás, Meggyőzés stb.) szóba sem jöhet. Például: „Étel. Kérem eladni.” |
+| 6–25 | Egyszerű kéréseket képes kifejezni, épp eleget ahhoz, hogy megértsék és túlélje a mindennapokat. Az összetett kommunikáció (Alkudozás, Meggyőzés stb.) Nehéz. Például: „Mennyi pénz ez a báránycomb?” |
+| 26–50 | Magabiztos kommunikáció. A beszélő egy gyermeknél jobban tud beszélni, a legtöbb gondolatot képes átadni. A kommunikációs képességek nincsenek korlátozva, de bizonyos cselekvések továbbra is Nehezek lehetnek. Például: „Mennyi? De ez a bárány tegnap sokkal olcsóbb volt\!” |
+| 51–75 | Lehetővé teszi a beszélőnek, hogy történeteket, sagákat, dalokat stb. meséljen. Az idiómák és viccek elérhetővé válnak. Anyanyelvi szinten elboldogul. Az összetett kommunikáció már a beszélő teljes képességszintjével dobható. Például: „Nézd ezt a vágást! A bárány már a mészárlás előtt romlott volt, és egyértelműen még a munkás verejtékét sem éri, aki idehozta.” |
+| 76–00 | A költők, filozófusok, tudósok és diplomaták nyelve. A beszélő nemcsak eladhatja magát anyanyelvinek, de egy vagy több helyi nyelvjárást is képes utánozni. A szakzsargon és a homályos beszédformák könnyen mennek. Például: „Kétségtelen, hogy az ezen élelmiszer-mintán végzett értékelés újraértékelhető lenne a fejlett bomlási állapota tükrében.” |
 
 ### Figyelés
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget hangok meghallására, értelmezésére és megértésére, legyen szó suttogásról egy zárt ajtó mögött, furtív suttogásokról, lopakodó léptekről és roppanó gallyakról. Használd ezt a képzettséget annak eldöntésére, felébreszt-e egy zaj egy alvó karaktert, vagy felismer-e egy adott hangot vagy beszédet. A normál tartomány egy emberi hang udvarias hangerőn való hallására 15 méter – hangosabb hangok messzebb hallatszanak, a halkabbaké rövidebb. A baki félreértést vagy a hang teljes figyelmen kívül hagyását jelenti, a sikerek pedig tudatosságot és információt adnak a forrásáról.
+Használd ezt a képességet hangok meghallására, értelmezésére és megértésére, legyen szó csukott ajtó mögötti morajlásról, lopva suttogásról, nesztelen léptekről és roppanó gallyakról. Használd ezt a képességet annak ellenőrzésére, hogy egy zaj felébreszt-e egy alvó karaktert, vagy hogy képes-e felismerni egy konkrét hangot vagy beszélőt. Az emberi hang udvarias hangerőn történő meghallásának normál távolsága 15 méter – a hangosabb hangok messzebbre visznek, a halkabbaké rövidebb hatótávolságú. A botlás félreértést vagy a hang figyelmen kívül hagyását jelenti, míg a sikerek tudatosságot és információt adnak a forrásáról.
 
-**Rendszerjegyzetek:** A Figyelés egyszerre aktív és passzív képzettség: a karaktered megkísérelhet Figyelni gyanús zajokra, vagy a mesélő kérhet Figyelés próbát, amikor indokolt. Versengj a Figyeléssel a Lopózás ellen, hogy megoldd a gyanakvó vagy gyanútlan hallgató mellett elsurranási kísérleteket. A mesélő dönthet úgy, hogy a Figyelés dobásokat titokban teszi, és közli veled az eredményt, elkerülve az információk kiadását, ha a dobás sikertelen.
+**Rendszermegjegyzések:** A Figyelés aktív és passzív képesség is: a karaktered megpróbálhat gyanús zajokra Figyelni, vagy a mesélő kérhet Figyelés-próbát, amikor az indokolt. A gyanakvó vagy gyanútlan hallgató mellett elsurranni próbálókkal szemben a Figyelést Lopakodással ellensúlyozd. A mesélő dönthet úgy, hogy a Figyelés-próbákat titokban dobja meg, és csak az eredményről tájékoztat, hogy ne áruljon el semmit, ha a próba sikertelen.
 
-### Írás-olvasás (különböző)
+### Írástudás (különböző)
 
-**Alapérték:** 00% vagy Nyelvvel (saját/más) egyenlő (lásd alább)
+**Alapesély:** 00% vagy megegyezik a Nyelv (Saját/Más) képességgel (lásd alább)
 
 **Kategória:** Mentális
 
-Az olvasás és írás képességét a modern korban magától értetődőnek tekintik: korábbi korokban az írás és olvasás az elit oktatás terméke és a megkülönböztetés vagy státusz jele volt. Modern társadalmakban az Írás-olvasás alapértéke egyenlő a karaktered alap Nyelv (saját) vagy (más) értékével, hacsak másképp nem kívánod. A baki katasztrofális félreértést jelent, a kudarc azt jelenti, hogy a jelentés elvész, a sikerek kritikus információt vagy árnyalatokat eredményeznek, sőt még elismertséget is az előállított művekért.
+Az olvasás és írás képessége a modern korban magától értetődő: korábbi korszakokban az írástudás az elit oktatás terméke, valamint a megkülönböztetés vagy státusz jele volt. A modern társadalmakban az Írástudás alapesélye megegyezik a karakter alap Nyelv (Saját) vagy (Más) képességével, hacsak másképp nem kívánatos. A botlás katasztrofális félreértést jelent, a sikertelenség azt, hogy az értelem elvész, a sikerek pedig kritikus információkkal vagy árnyalatokkal szolgálnak, sőt, az alkotások révén hírnevet is hozhatnak.
 
-**Specializációk:** Nyelvenként. Minden specializáció egyetlen írott nyelvre vonatkozik; a további nyelvek külön Írás-olvasás specializációk. Modern társadalmakban az Írás-olvasás mindig egyenlő a Nyelv képzettségeddel.
+**Szakirányok:** Nyelvenként. Minden szakirány egyetlen írott nyelvre vonatkozik; a további nyelvek külön Írástudás szakirányok. A modern társadalmakban az Írástudás mindig megegyezik a Nyelv képességeddel.
 
-**Rendszerjegyzetek:** Homályos dialektusok vagy egy írott nyelv ősi változatainak megértése Nehéz. Összetett vagy hosszú dokumentumok (például könyvek), amelyek több fontos pontot tartalmaznak, több Írás-olvasás próbát igényelhetnek, minden ponthoz egyet.
+**Rendszermegjegyzések:** A homályos nyelvjárások vagy egy írott nyelv archaikus változatainak megértése Nehéz. Összetett vagy hosszú dokumentumok (például könyvek), amelyek több lényeges pontot tartalmaznak, több Írástudás-próbát igényelhetnek, pontonként egyet.
 
 ### Harcművészet
 
-**Alapérték:** 01%
+**Alapesély:** 01%
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Ez egy specifikus harci stílus tanulmányozását és elsajátítását reprezentálja. Használd ezt a képzettséget specifikus mozdulatok és csapások végrehajtására, amelyek maximális sebzést okoznak a célszemélynek. A Harcművészetet mindig egy másik képzettséggel kombinálva használják: Verekedés, Közelharci fegyverek, Lőtávolságú fegyverek vagy Bírkózás, ahogy indokolt. Ez a képzettség nem szükséges e támadások végrehajtásához – ez a képzés magasabb szintjét reprezentálja, amely nagyobb hatékonyságot tesz lehetővé.
+Ez egy konkrét harci stílus tanulmányozását és mesteri szintű űzését jelenti. Használd ezt a képességet olyan konkrét mozdulatok és csapások végrehajtására, amelyek maximális sebzést okoznak a célpontnak. A Harcművészetet mindig egy másik képességgel kombinálva kell használni: Verekedés, Közelharci fegyver, Távolsági fegyver vagy Bírkózás, ahogy az indokolt. Ez a képesség nem szükséges a támadások végrehajtásához – ez egy magasabb szintű képzést jelöl, amely nagyobb hatékonyságot tesz lehetővé.
 
-**Specializációk:** Harcművészeti tradíciónként: ökölvívás, capoeira, escrima, vívás, jeet kun do, karate, kenjutsu, kickbox, kung fu, kyujutsu, pugilizmus, savate stb. A mesélő korlátozhatja, milyen típusú harci képzettségek párosíthatók a Harcművészettel, például csak Lőtávolságú fegyverek (Íj) engedélyezése kyujutsuval.
+**Szakirányok:** Harcművészeti hagyomány szerint: ökölvívás, capoeira, escrima, vívás, jeet kun do, karate, kendzsucu, kick-box, kung-fu, kjúdzsucu, pugilizmus, savate stb. A mesélő korlátozhatja, milyen típusú harci képességek párosíthatók a Harcművészettel, például csak a Távolsági fegyverek (Íj) engedélyezése a kjúdzsucuval.
 
-**Hatások:** A Harcművészet nem külön dobandó támadás végrehajtásakor. Dobj a fő képzettség ellen és hasonlítsd az eredményt a Harcművészet képzettséghez. Az eredményeknek ezek a hatásai vannak:
+**Hatások:** A Harcművészetre nem kell külön dobni támadáskor. Dobj az elsődleges képességre, és az eredményt vesd össze a Harcművészet képességgel. Az eredmények a következő hatásokkal járnak:
 
-* **Baki:** Használd a megfelelő baki eredményt (lásd a Hatodik fejezet: Harc támadás és baki táblázatait).
-* **Kudarc:** Ha a dobott eredmény a Harcművészet képzettség felett van, de még mindig egyenlő vagy kisebb, mint a harci képzettség, a támadás normálisan talál. A harci képzettségnél magasabb dobások kudarccal végződnek, a Harcművészet képzettségi szinttől függetlenül.
-* **Siker:** Ha a dobott eredmény kisebb vagy egyenlő a Harcművészettel és a harci képzettséggel is, dobj az alapsebzésre kétszer és add össze az eredményt. A karaktered sebzésmódosítója soha nem duplázódik.
-* **Különleges:** Mint fent. Különleges siker esetén a kiegészítő alapsebzés-dobás hozzáadódik a harci képzettség különleges eredményének hatásaihoz, ha van ilyen.
-* **Kritikus:** Mint fent. Ha a harci dobás kritikus siker, a célpont páncélvédelme (természetes vagy viselt) figyelmen kívül marad, és a kiegészítő alapsebzés-dobás hozzáadódik a harci képzettség különleges eredményének hatásaihoz, ha van ilyen.
+* **Botlás:** Használd a megfelelő botlás-eredményt (lásd a támadási és botlás-táblázatokat a Hatodik fejezet: Harc részben).
+* **Sikertelenség:** Ha a dobott eredmény magasabb, mint a Harcművészet képességszintje, de még mindig egyenlő vagy kisebb, mint a harci képesség, a támadás normál módon talál. A harci képességnél magasabb dobások mindenképpen elhibázzák a célpontot, függetlenül a Harcművészet képességszintjétől.
+* **Siker:** Ha a dobott eredmény kisebb vagy egyenlő mind a Harcművészet, mind a harci képesség értékével, dobj kétszer az alapsebzésre, és add össze az eredményt. A karaktered sebzésmódosítója soha nem duplázódik.
+* **Különleges:** Mint fent. Különleges siker esetén az extra alapsebzés-dobás hozzáadódik a harci képesség különleges eredményének hatásaihoz, ha van ilyen.
+* **Kritikus:** Mint fent. Ha a harci dobás kritikus siker, a célpont páncélvédelme (természetes vagy viselt) figyelmen kívül marad, és az extra alapsebzés-dobás hozzáadódik a harci képesség különleges eredményének hatásaihoz, ha van ilyen.
 
-**Rendszerjegyzetek:** A Harcművészet képzettség egy másik harci képzettséggel működik együtt, általában az adott képzettség szűk specializáció-tartományával. Ez az erő alkalmazható a Természetes fegyverzet mutációval és a Fegyvertelen harc erővel együtt.
+**Rendszermegjegyzések:** A Harcművészet képesség egy másik harci képességgel együtt működik, általában az adott képesség szűkebb szakiránykörével. Ez a képesség használható együtt a Természetes fegyverzet mutációval és a Fegyvertelen harc képességgel.
 
-Ha több támadás történik egy körben, a támadónak a Harcművészet képzettséget megfelelően kell allokálnia, megosztva azt a több támadás között, vagy csak egyetlen támadásra alkalmazva.
+Ha egy körben több támadás történik, a támadónak ennek megfelelően kell elosztania a Harcművészet képességet, tetszés szerint megosztva a több támadás között, vagy csak egyetlen támadásra alkalmazva azt.
 
-Például: *ha a karakterednek 120%-os Verekedés és 46%-os Harcművészet képzettsége van, és két támadást hajt végre 60%-kal egy körben, választanod kell, hogy megosztod a Harcművészetet a két támadás között (23% mindegyikre, vagy valamilyen kombináció, ami 46%-ot ad), vagy csak az egyik támadásra alkalmazod.*
+Például, *ha a karakterednek Verekedés 120%-a és Harcművészet 46%-a van, és két 60%-os támadást hajt végre egy körben, választanod kell, hogy elosztod a Harcművészet képességet a két támadás között (23%-23%, vagy valamilyen kombináció, ami 46-ot ad ki), vagy úgy döntesz, hogy csak az egyik támadásra alkalmazod.*
 
-Relatív ereje miatt a mesélő elrendelheti, hogy az e képzettségben szerzett kezdeti szint korlátozott legyen, a fejlesztések képzésre korlátozódjanak a normál tapasztalat helyett, vagy hogy a képzés rendkívül nehezen megszerezhető legyen, esetleg mindhárom feltétel.
+Relatív ereje miatt a mesélő szabályozhatja, hogy az elsődleges képességszint ebben a képességben korlátozott legyen, a képesség növelése a normál tapasztalat helyett csak edzéssel történhessen, vagy a képzés hihetetlenül nehezen beszerezhető legyen – esetleg mindhárom feltétel érvényesülhet.
 
-### Orvoslás
+### Orvostudomány
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget súlyos sérülések diagnosztizálására és kezelésére, betegségek kezelésére, mérgezések ellensúlyozására és általános egészségügyi ajánlások tételére, valamint műtétek elvégzésére és hosszú távú gondozás tanácsadására krónikus egészségügyi állapotoknál.
+Használd ezt a képességet súlyos sérülések diagnosztizálására és kezelésére, betegségek gyógyítására, mérgezések ellensúlyozására és általános egészségügyi ajánlások tételére, valamint műtétek elvégzésére és krónikus egészségügyi állapotok hosszú távú gondozására.
 
-**Hatások:** Az Orvoslásnak specifikus eredményei vannak:
+**Hatások:** Az Orvostudománynak konkrét eredményei vannak:
 
-* **Baki:** A páciens 1 általános ÉP-t veszít (sérülések esetén) sérülések kezelése közben, vagy elveszít egy tulajdonságpontot (mérgek vagy betegség esetén), és állapota változatlan marad.
-* **Kudarc:** A páciens állapota nem változik, és második kísérlet csak a következő napon végezhető.
-* **Siker:** Válaszd az alábbi hatások egyikét (játékos választása):
-  * Sikeres Elsősegély próba bármely hatása.
-  * A páciens gyógyulási üteme megduplázódik 1D3-ról 2D3 ÉP-re hetente.
-  * Folyamatos tulajdonság- vagy életerőpont-vesztés méregből vagy betegségből leáll.
-  * Egy mérgezett vagy beteg karakter stabilizálódik és hetente 1D3–1 ÉP-t vagy tulajdonságpontot regenerál. Ez az eredmény csak hetente egyszer választható kezelésenként.
-* **Különleges:** Mint fent, de egy sérülés 2D3 ÉP-vel gyógyul, vagy 1D3 tulajdonságpont regenerálódik.
-* **Kritikus:** Mint fent, de egy seb vagy sérülés 1D3+3 ÉP-vel gyógyul, vagy 1D3+1 tulajdonságpont regenerálódik.
+* **Botlás:** A páciens 1 általános életerőpontot veszít (sérülések esetén) a kezelés alatt, vagy elveszít egy jellemzőpontot (mérgek vagy betegség esetén), és az állapota változatlan marad.
 
-**Rendszerjegyzetek:** Minden Orvoslás használat egyetlen bajra vonatkozik: amint teljesen meggyógyult, a további sikeres Orvoslás próbáknak nincs hatása. Más sebek vagy bajok azonban kezelhetők. Nem biztonságos vagy egészségtelen körülmények Nehézzé tehetik az Orvoslás próbákat. Speciális felszerelés vagy gyógyszer +20%-ot adhat a képzettségi szinthez, míg a futurisztikus orvosi technológia (mesterséges permetbőr, orvosi szkennerek, nanotech gyógyítók) Könnyűvé teszi az Orvoslás próbákat. Gyakori és nem életveszélyes betegségek kezelése Automatikus.
+* **Sikertelenség:** A páciens állapota nem változik, és második kísérlet csak másnap hajtható végre.
+
+* **Siker:** Válaszd az alábbi hatások egyikét (játékos döntése):
+
+  * Az Elsősegély-próba bármely sikeres hatása.
+
+  * A páciens gyógyulási üteme megduplázódik, heti 1D3 életerőpontról 2D3-ra.
+
+  * A méreg vagy betegség okozta folyamatos jellemző- vagy életerő-veszteség megáll.
+
+  * A mérgezett vagy beteg karakter stabilizálódik, és heti 1D3–1 életerőpontot vagy jellemzőpontot nyer vissza. Ez az eredmény kezelési hetenként csak egyszer választható.
+
+* **Különleges:** Mint fent, de egy sérülés 2D3 életerőponttal gyógyul, vagy 1D3 jellemzőpont áll helyre.
+
+* **Kritikus:** Mint fent, de egy seb vagy sérülés 1D3+3 életerőponttal gyógyul, vagy 1D3+1 jellemzőpont áll helyre.
+
+**Rendszermegjegyzések:** Az Orvostudomány minden használata egyetlen betegségre vonatkozik: miután kezelték és teljesen meggyógyult, a további sikeres Orvostudomány-próbáknak nincs hatása. Más sebek vagy betegségek azonban kezelhetők. A nem biztonságos vagy egészségtelen körülmények az Orvostudomány-próbákat Nehézzé tehetik. Speciális felszerelés vagy orvosság akár +20%-ot is adhat a képességszinthez, míg a futurisztikus orvosi technológia (mesterséges bőrspray, orvosi szkennerek, nanotech gyógyítók) Könnyűvé teszi az Orvostudomány-próbákat. A hétköznapi és nem életveszélyes betegségek kezelése Automatikus.
 
 ### Közelharci fegyver (különböző)
 
-**Alapérték:** Fegyverspecializációnként
+**Alapesély:** Fegyverszakirány szerint
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget egy adott típusú fegyver forgatására kézitusában, legyen szó támadásról vagy hárításról.
+Használd ezt a képességet egy adott típusú fegyver forgatására közelharcban, legyen szó támadásról vagy hárításról.
 
-**Specializációk:** A specializációk a fegyverosztályoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés. Minden specializáció csak az adott fegyverkategóriába tartozó fegyverekre vonatkozik: de a mesélő megengedheti egy hasonló fegyverosztály használatát Nehézként. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati próba sikeres, kezdj új képzettséget egy specializációval azon a szinten, plusz a megszerzett tapasztalat.
+**Szakirányok:** A szakirányok a fegyverosztályoknak felelnek meg. Lásd a Nyolcadik fejezet: Felszerelés **Fegyverosztályok** részét. Minden szakirány csak az adott osztályba tartozó fegyverekre vonatkozik; a mesélő azonban engedélyezheti egy hasonló fegyverosztály használatát Nehéz próbaként. Ha sikerül, hajts végre egy tapasztalati próbát. Ha a tapasztalati dobás sikeres, kezdj egy új képességet a szakiránnyal az adott szinten, plusz a megszerzett tapasztalattal.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Közelharci fegyver támadás baki táblázatot** és a **Közelharci fegyver hárítás baki táblázatot** a Hatodik fejezetben: Harc a konkrét hatásokért.
+**Hatások:** Lásd a Hatodik fejezet: Harc **Támadási és védelmi mátrix**, **Közelharci fegyver támadási botlás-táblázat** és **Közelharci fegyver hárítási botlás-táblázat** részeit a konkrét hatásokért.
 
-**Rendszerjegyzetek:** A karaktered körönként több hárítást is megkísérelhet, de az első utáni minden dobás halmozott –30%-kal történik. A mesélő belátása szerint a karaktered forgathat egy kapcsolódó vagy hasonló fegyverkategóriából származó fegyvert, a próba Nehéz.
+**Rendszermegjegyzések:** A karaktered körönként több mint egy hárítást is megkísérelhet, de az első utáni minden dobás halmozott –30%-kal történik. A mesélő belátása szerint a karaktered forgathat egy rokon vagy hasonló fegyverosztályba tartozó fegyvert, a próba ebben az esetben Nehéz.### Lövőfegyver (különböző)
 
-### Lőtávolságú fegyver (különböző)
+**Alapesély:** A fegyver-specializációnak megfelelően
 
-**Alapérték:** Fegyverspecializációnként
+**Kategória:** Harc
 
-**Kategória:** Harci
+Ezt használd bármilyen kézi, önmeghajtású lövőfegyver forgatására, mint például íjak, számszeríjak, dobóbalták, dárdák, dobócsillagok, hajítódárdák, fúvócsövek, szigonyok vagy akár bumerángok. Gránátokhoz használd a Dobás képzettséget.
 
-Használd ezt bármilyen kézi önmeghajtású lőtávolságú fegyver forgatására, mint íjak, számszeríjak, dobóbalták, lándzsák, dobócsillagok, gerelyek, fúvócsövek, szigonyok vagy bumerángok. Gránátokhoz használd a Dobást.
+**Specializációk:** A specializációk a fegyverosztályokkal egyenértékűek. Lásd a **Fegyverosztályok** című részt a nyolcadik fejezetben: Felszerelés. Minden specializáció csak az adott fegyverkategóriába tartozó fegyverekre vonatkozik; a mesélő azonban engedélyezheti egy hasonló fegyverosztály használatát *Nehéz* próbával. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati dobás sikeres, kezdj el egy új képzettséget az adott specializációval azon az értéken, plusz a megszerzett tapasztalat.
 
-**Specializációk:** A specializációk a fegyverosztályoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés. Minden specializáció csak az adott fegyverkategóriába tartozó fegyverekre vonatkozik: de a mesélő megengedheti egy hasonló fegyverosztály használatát Nehézként. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati próba sikeres, kezdj új képzettséget egy specializációval azon a szinten, plusz a megszerzett tapasztalat.
+**Hatások:** Lásd a **Támadási és Védelmi Mátrixot** és a **Lövőfegyver Balsiker Táblázatot** a konkrét hatásokért. A nyilak és hegyes fegyverek általában szúrnak. Ha tudni szeretnéd, hová megy egy elhibázott lövőfegyver-támadás, lásd a Dobás képzettséget.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Lőtávolságú fegyver baki táblázatot** a konkrét hatásokért. A nyilak és hegyes fegyverek általában szúrnak. Ha tudni akarod, hová megy egy célt tévesztett lőtávolságú támadás, lásd a Dobás képzettséget.
-
-**Rendszerjegyzetek:** Minden lőtávolságú fegyvernek minimális TÖE és ÜGY követelménye van a használathoz, a Nyolcadik fejezet: Felszerelés szerint. Általában a támadó sebzésmódosítója feleződik lőtávolságú fegyvereknél, a teljesen önmeghajtású fegyvereknél (fúvócsövek, számszeríjak stb.) a sebzésmódosító nem alkalmazandó. A Lőtávolságú fegyver használható célzott támadásokhoz.
+**Rendszermegjegyzések:** Minden lövőfegyvernek van egy minimális ERŐ és ÜGY követelménye a használathoz, ahogy azt a nyolcadik fejezet: Felszerelés részletezi. Jellemzően a támadó sebzésmódosítója megfeleződik a lövőfegyvereknél, a teljesen önmeghajtású fegyvereknél (fúvócsövek, számszeríjak stb.) pedig a sebzésmódosító nem alkalmazandó. A Lövőfegyver használható célzott támadásokhoz is.
 
 ### Navigáció
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget az úticélhoz vezető út megtalálására iránytűvel, tengeri térképekkel, csillagokkal, vagy egyszerűen észlelést, memóriát és intuíciót használva vezetőként. A baki azt jelenti, hogy menthetetlenül elvesztél, és bárki későbbi próbálkozása az út megtalálására *Nehéz*. A kudarc késéseket és lassabb utazási ütemet jelent, míg a sikerek az út hatékony megtalálását és a vártnál jobb haladást jelzik.
+Ezt a képzettséget használd az úticélhoz vezető út megtalálására, legyen szó iránytűről, tengeri térképekről, csillagokról, vagy egyszerűen az észlelésedre, memóriádra és megérzéseidre támaszkodva. A balsiker azt jelenti, hogy a karakter reménytelenül eltévedt, és bárki későbbi dobása, hogy megtalálja a kiutat, *Nehéz* lesz. A kudarc késedelmet és lelassult utazást jelent, míg a sikerek az út hatékony megtalálását, sőt a vártnál jobb haladást is eredményezhetnek.
 
-**Rendszerjegyzetek:** Tegyél Navigáció képzettségi próbát egy folyamatban lévő utazás minden négy órájában. Térkép vagy iránytű használata +20%-kal javíthatja a képzettségi szintet. Navigálás jellegtelen tájon (tengeren, sötétségben vagy rossz időben, sivatagban vagy sűrű dzsungelben) műszerek vagy térképek nélkül Nehéz. Fejlett navigációs segédeszközök (GPS technológia stb.) vagy a terület ismerete Könnyűvé teszi a Navigáció kísérleteket.
+**Rendszermegjegyzések:** Minden négy órányi folyamatos utazás után tegyél Navigáció próbát. Térkép vagy iránytű használata akár +20%-kal is javíthatja a képzettség értékét. Jellemzők nélküli tájon (tengeren, sötétben vagy rossz időben, sivatagban vagy sűrű dzsungelben) navigálni eszközök vagy térkép nélkül *Nehéz*. A fejlett navigációs segédeszközök (globális helymeghatározó technológia stb.) vagy a terület ismerete *Könnyűvé* teszi a Navigáció próbákat.
 
 ### Hárítás
 
-**Alapérték:** Fegyverspecializációnként
+**Alapesély:** A fegyver-specializációnak megfelelően
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget érkező támadások kivédésére, ha azokat nem más képzettséggel kezelik. Ez a képzettség részletesen le van írva a Hárítás és a Támadás és védekezés mátrixban. A mesélő elrendelheti, hogy egy adott támadás nem hárítható, például egy jóval nagyobb támadótól (például a védő TÉZ-ének duplája vagy több) vagy amikor a támadó terület- vagy elsöprő támadást használ.
+Használd ezt a képzettséget a beérkező támadások elhárítására, ha azt nem más képzettséggel hárítod. Ez a képzettség részletesen tárgyalva van a Hárítás és a Támadási és Védelmi Mátrixban. A mesélő dönthet úgy, hogy egy adott támadás nem hárítható, például egy lényegesen nagyobb támadó esetén (például a védő MÉR értékének kétszerese vagy több), vagy ha a támadó területre ható vagy elsöprő támadást alkalmaz.
 
-**Specializációk:** A specializációk a fegyver- vagy pajzsosztályoknak felelnek meg. Lásd a **Fegyverosztályokat** a Nyolcadik fejezetben: Felszerelés. Minden specializáció csak az adott fegyver- vagy pajzskategóriába tartozó fegyverekre vonatkozik: de a mesélő megengedheti egy hasonló fegyverosztály használatát Nehézként. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati próba sikeres, kezdj új képzettséget egy specializációval azon a szinten, plusz a megszerzett tapasztalat.
+**Specializációk:** A specializációk a fegyver- vagy pajzsosztályokkal egyenértékűek. Lásd a **Fegyverosztályok** című részt a nyolcadik fejezetben: Felszerelés. Minden specializáció csak az adott fegyver- vagy pajzskategóriába tartozó eszközökre vonatkozik; a mesélő azonban engedélyezheti egy hasonló osztály használatát *Nehéz* próbával. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati dobás sikeres, kezdj el egy új képzettséget az adott specializációval azon az értéken, plusz a megszerzett tapasztalat.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Közelharci fegyver hárítás baki táblázatokat** a Hatodik fejezetben: Harc a konkrét hatásokért.
+**Hatások:** Lásd a **Támadási és Védelmi Mátrixot** és a **Közelharci Fegyver Hárítás Balsiker Táblázatokat** a hatodik fejezetben: Harc, a konkrét hatásokért.
 
-**Rendszerjegyzetek:** Körönként több hárítás is megkísérelhető, de az első utáni minden dobás halmozott –30%-os büntetéssel jár. Ez a képzettség figyelmen kívül hagyható a fő fegyver vagy pajzs képzettség használata mellett, ha kívánod. A mesélő belátása szerint háríthatsz egy kapcsolódó vagy hasonló kategóriából származó fegyverrel vagy pajzzsal, a próba Nehéz.
+**Rendszermegjegyzések:** Körönként egynél több hárítás kísérelhető meg, de az első utáni minden további próbára halmozódó –30% levonás jár. Ez a képzettség figyelmen kívül hagyható, ha inkább az elsődleges fegyver- vagy pajzsképzettséget kívánod használni. A mesélő belátása szerint egy rokon vagy hasonló kategóriájú fegyverrel vagy pajzzsal is lehet hárítani, de a dobás ebben az esetben *Nehéz*.
 
-### Előadás (különböző)
+### Előadóművészet (különböző)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget zenei előadásra, színészkedésre, táncra, hangszeren való játékra, éneklésre vagy más művészi kifejezésformákra. A baki megaláztatás, a kudarc nem inspiráló, míg a sikerek pozitív figyelmet, éljenzést és esetleg kritikai elismerést és anyagi jutalmat hoznak. Ha rögzítik és terjesztik, az eredeti előadás után is inspirálhat és kereshet.
+Használd ezt a képzettséget zenei előadáshoz, legyen szó színészetről, táncról, hangszeres játékról, éneklésről vagy más művészi kifejezésmódról. A balsiker megalázó, a kudarc unalmas, míg a sikerek pozitív figyelmet, tapsot, és esetleg kritikai elismerést vagy anyagi jutalmat eredményeznek. Ha rögzítik és terjesztik, az előadás az eredeti esemény után még sokáig inspirálhat és hozhat bevételt.
 
-**Specializációk:** Színészet, Zenekari vezénylés, Tánc, Zsonglőrködés, Szónoklat, Hangszerjáték (alspecializáció), Versmondás, Rituálé, Ének stb.
+**Specializációk:** Színészet, Zenekari vezénylés, Tánc, Zsonglőrködés, Szónoklat, Hangszeres játék (alspecializáció), Versmondás, Rituálé, Éneklés stb.
 
-**Rendszerjegyzetek:** Az Előadás (Rituálé) sikeres használata kiegészíthet egy mágikus erőt vagy további előnyöket biztosíthat, a mesélő belátása szerint.
+**Rendszermegjegyzések:** Az Előadóművészet (Rituálé) sikeres használata felerősíthet egy mágikus erőt vagy további előnyöket biztosíthat a mesélő belátása szerint.
 
 ### Meggyőzés
 
-**Alapérték:** 15%
+**Alapesély:** 15%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget arra, hogy meggyőzz valakit, hogy egy adott ötlet vagy hit igaz, helyes vagy elfogadható, függetlenül az eredeti véleményétől (ha van ilyen), legyen szó szókratészi logikáról, strukturált vitáról, tüzes szónoklatról, empátiáról vagy nyers megfélemlítésről. A hallgatókat meg lehet győzni cselekvésre vagy kérés teljesítésére. Mint a Dumálásnál, az igazság itt is irreleváns. A Dumálással ellentétben a sikeres meggyőzés hatásai korlátlan ideig tartanak, amíg egy másik Meggyőzés próba vagy drámai élmény el nem mozdítja az alany véleményét. A baki azt jelenti, hogy az alany ellenségessé válhat, a kívánt vélemény ellenkezőjét vallva. A kudarc nem meggyőző. A siker elmozdítja a véleményüket, a kiváló sikerek pedig még jobb eredményeket hoznak.
+Használd ezt a képzettséget arra, hogy meggyőzz valakit arról, hogy egy adott ötlet vagy hit helyes, igaz vagy más módon elfogadható, függetlenül az eredeti véleményétől (ha volt ilyen), legyen szó szókratészi logikáról, strukturált vitáról, tüzes szónoklatról, empátiáról vagy nyers megfélemlítésről. A hallgatókat rá lehet venni cselekvésre vagy egy kérés teljesítésére. A Gyorsbeszédhez hasonlóan az igazság itt is irreleváns. A Gyorsbeszéddel ellentétben a Meggyőzés sikeres hatásai határozatlan ideig tartanak, egészen addig, amíg egy újabb Meggyőzés dobás vagy drámai élmény meg nem változtatja az alany véleményét. A balsiker azt jelenti, hogy az alany ellenségessé válhat, és a kívánt vélemény ellentétét vallhatja magáénak. A kudarc nem meggyőző. A siker megváltoztatja a véleményüket, a kiváló sikerek pedig még jobb eredményeket hoznak.
 
-**Rendszerjegyzetek:** Meggyőzést használni nyelvi korlátokon túl (ha mindkét beszélő 50% alatti nyelvtudással rendelkezik) Nehéz, csakúgy, mint meggyőzni valakit valamiről, ami ellentétes a személyiségével vagy alapvető hiedelmeivel. A mesélő jutalmazhat hatásos érveket vagy jó szerepjátékot +20%-ig terjedő bónusszal. Körülményektől függően a Meggyőzés percekbe, órákba vagy napokba is telhet, és a kitartó erőfeszítések több próbát is igényelhetnek.
+**Rendszermegjegyzések:** Nyelvi korlátokon átívelő Meggyőzés (ha mindkét beszélő nyelvtudása 50% alatti) *Nehéz*, csakúgy, mint valakit olyasmiről meggyőzni, ami szembemegy a személyiségével vagy alapvető meggyőződésével. A mesélő a hatékony érvelést vagy a jó szerepjátékot akár +20%-os bónusszal is jutalmazhatja. A körülményektől függően a Meggyőzés percekig, órákig vagy akár napokig is eltarthat, és a hosszabb erőfeszítések több dobást is igényelhetnek.
 
-### Pilótázás (különböző)
+### Vezetés (különböző)
 
-**Alapérték:** 01%
-
-**Kategória:** Fizikai
-
-Használd ezt a képzettséget jármű kormányzására, manőverezésére és irányítására a levegőben, a vízen vagy alatta, vagy űrben. Nagyobb járművek több pilótát igényelhetnek, és minden négy órában próbát kell tenni, ha nem harcban vagy, és körönként egyszer harcban vagy járműmanőverek végrehajtásakor.
-
-**Specializációk:** Repülőgép, Léghajó, Hőlégballon, Csónak, Helikopter, Légpárnás hajó, Sugárhajtású repülőgép, Jetpack, Űrhajó, Tengeralattjáró stb. A mesélő belátása szerint a pilóta pilótázhat hasonló specializációjú hajót Nehézként. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati próba sikeres, kezdj új képzettséget egy specializációval azon a szinten, plusz a megszerzett tapasztalat.
-
-**Hatások:** A legtöbb mindennapi pilótázás Automatikus – csak kedvezőtlen körülmények között vagy rendkívüli helyzetekben dobj. A baki szinte elkerülhetetlenül motorleállást vagy zuhanást okoz, a kudarc azt jelenti, hogy az úticél nem érhető el a kívánt időkereten belül, a siker eljuttat oda, ahová szeretnél, a kiváló sikerek pedig szakértőbb pilótázást és eredményeket hoznak. Lásd a **Légi harc** és **Üldözések** részt további információkért, és az **Üldözési baki táblázatot** a szerencsétlenségekért.
-
-### Vetítés
-
-**Alapérték:** TÖE×2%
+**Alapesély:** 01%
 
 **Kategória:** Fizikai
 
-Ez az opcionális képzettség az erőt használó karakterek által használt erőalapú támadások célzására szolgál. A *Negyedik fejezet: Erők* rész írja le, és csak megfelelő erőkkel rendelkező játékokban használatos.
+Használd ezt a képzettséget jármű kormányzására, manőverezésére és irányítására levegőben, vízen vagy víz alatt, illetve az űrben. A nagyobb járművek több pilótát igényelhetnek, és dobást kell tenni minden négy órában, amikor nem harcolsz, illetve körönként egyszer harc közben vagy járműmanőverek végrehajtásakor.
+
+**Specializációk:** Repülőgép, Léghajó, Hőlégballon, Hajó, Helikopter, Légpárnás, Sugárhajtású repülőgép, Jetpack, Csillaghajó, Tengeralattjáró stb. A mesélő belátása szerint a pilóta egy hasonló specializációjú járművet is vezethet *Nehéz* próbával. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati dobás sikeres, kezdj el egy új képzettséget az adott specializációval azon az értéken, plusz a megszerzett tapasztalat.
+
+**Hatások:** A legtöbb mindennapi vezetés automatikus – csak kedvezőtlen körülmények között vagy rendkívüli helyzetekben kell dobni. A balsiker szinte elkerülhetetlenül motorleállást vagy akár zuhanást okoz, a kudarc azt jelenti, hogy az úticélt nem érik el a kívánt időn belül, a sikerrel eljutnak, ahová szeretnének, a kiváló sikerek pedig szakértőbb vezetést és eredményeket hoznak. További információkért lásd a **Légi Harc** és az **Üldözések** részt, valamint a **Üldözési Problémák Táblázatot** a balesetekért.
+
+### Kivetítés
+
+**Alapesély:** ÜGY×2%
+
+**Kategória:** Fizikai
+
+Ezt az opcionális képzettséget az erőkkel rendelkező karakterek használják az erőkön alapuló támadások célzására. A *Negyedik fejezet: Erők* részben van leírva, és csak az annak megfelelő erőkkel rendelkező játékokban használatos.
 
 ### Pszichoterápia
 
-**Alapérték:** 01%
+**Alapesély:** 01%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget mentális betegség vagy trauma értékelésére és kezelésére, különösen az elvesztett Épség pontok helyreállítására. Gyakorlati értelemben a Pszichoterápia használható kábítószerek és gyógyszerek felírására, amelyek idővel felfüggeszthetik, kezelhetik és akár visszafordíthatják a legyengítő pszichózisokat vagy mentális betegségeket. A gyógyszerek és intenzív kikérdezés feltárhatja a sérült psziché mélységeit, és reményt hozhat a terrorból és kétségbeesésből. Lásd az **Épség** részt további információkért.
+Használd ezt a képzettséget mentális betegségek vagy traumák értékelésére és kezelésére, különösen az elveszett Épérzék-pontok helyreállítására. Gyakorlati értelemben a Pszichoterápia használható drogok és gyógyszerek felírására, amelyek idővel felfüggeszthetik, kezelhetik, sőt visszafordíthatják a legyengítő pszichózisokat vagy mentális betegségeket. A gyógyszerek és az intenzív kérdezés mélyen behatolhat a sérült pszichébe, és reményt hozhat a rettegésből és kétségbeesésből. További információkért lásd az **Épérzék** részt.
 
 **Hatások:** A Pszichoterápiának specifikus hatásai vannak:
 
-* **Baki:** Az alábbiak egyike következik be (mesélő választása):
-  * A páciensnek új Épség próbát kell tennie, 1/1D3 Épség vesztéssel.
-  * A páciens egyik határozatlan őrületének TÖE szintjét +1-gyel növeli.
-  * A páciens egyik határozatlan őrületét egy másikra cseréli: a fóbia csökkenhet, de a hangulatstabilizáló gyógyszerek iránti függőség árán.
-* **Kudarc:** A kezelésnek nincs hatása. A páciens állapota változatlan marad.
-* **Siker:** A kezelés hatást fejt ki, az alábbi hatások egyikével:
-  * Egy hónap kezelés után a páciens 1D3–1 Épség pontot nyer vissza. Ez a képzettség nem növelheti a páciens Épségét a TÖE×5 érték fölé, leszámítva a blaszfém vagy kimondhatatlan horror ismeretéből származó büntetéseket. Lásd Maximális Épség részletekért.
-  * Egy határozatlan őrület forrása megfelelően diagnosztizálva.
-  * Miután egy határozatlan őrület forrását diagnosztizálták, annak TÖE-je -1-gyel csökkenthető egy hónap kezelés után. Külön próbákat kell tenni minden kezelt mentális betegségre.
-* **Különleges:** Mint fent, de az Épség nyereség 1D3 vagy a TÖE csökkenés -2.
-* **Kritikus:** Mint fent, de az Épség nyereség 1D3+1 vagy a TÖE csökkenés -1D3+1.
+* **Balsiker:** Az alábbiak egyike történik (mesélő választása):
 
-**Rendszerjegyzetek:** Ez a képzettség elsősorban olyan játékokhoz való, ahol az Épség használatban van. A kezelés határozatlan őrületenként havonta négy-öt óra terápiát igényel. A mesélő belátása szerint a Pszichoterápia használható személyiségjegy manipulálására, mintha az egy Épség pontszám lenne, pozitívan vagy negatívan eltolva azt ugyanannyi ponttal.
+  * A páciensnek új Épérzék-dobást kell tennie, 1/1D3 ÉP vesztéssel.
+
+  * Növeld a páciens egyik határozatlan elmezavarának HAT értékét +1-gyel.
+
+  * A páciens elcserél egy határozatlan elmezavart egy másikra: a fóbia enyhülhet, de egy hangulatjavító gyógyszerfüggőség árán.
+
+* **Kudarc:** A kezelésnek nincs hatása. A páciens állapota változatlan.
+
+* **Siker:** A kezelés hat, az alábbi hatások egyike érvényesül:
+
+  * Egy hónapnyi kezelés után a páciens 1D3–1 Épérzék-pontot visszanyer. Ez a képzettség nem növelheti a páciens ÉP-jét a HAT×5-nél magasabbra, levonva a káromló vagy kimondhatatlan borzalmak ismeretéért járó büntetéseket. A részletekért lásd az Épérzék Maximumot.
+
+  * A határozatlan elmezavar forrása megfelelően diagnosztizálva.
+
+  * Miután a határozatlan elmezavar forrását diagnosztizálták, a HAT értéke 1 hónap kezelés után –1-gyel csökkenthető. Minden kezelt mentális betegségre külön dobást kell tenni.
+
+* **Különleges:** Mint fent, de az ÉP-nyereség 1D3, vagy a HAT-csökkenés –2.
+
+* **Kritikus:** Mint fent, de az ÉP-nyereség 1D3+1, vagy a HAT-csökkenés –1D3+1.
+
+**Rendszermegjegyzések:** Ez a képzettség elsősorban olyan játékokhoz való, ahol használják az Épérzéket. A kezelés határozatlan elmezavaronként havi négy-öt óra terápiát igényel. A mesélő belátása szerint a Pszichoterápia felhasználható egy személyiségjegy manipulálására is, mintha az egy ÉP-pontszám lenne, ugyanannyi ponttal pozitív vagy negatív irányba tolva azt.
 
 ### Javítás (különböző)
 
-**Alapérték:** 15%
+**Alapesély:** 15%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-A felszerelés és egyéb tárgyak megsérülnek vagy elromlanak. Használd a Javítást azok megjavítására vagy kisebb módosítások és adaptációk végrehajtására.
+A felszerelések és más tárgyak megsérülhetnek vagy elromolhatnak. Használd a Javítást ezek megszerelésére vagy apróbb módosítások és adaptációk elvégzésére.
 
-**Specializációk:** Elektromos, Elektronikus, Mérnöki, Vízierőművi, Mechanikai, Strukturális, Kvantum stb.
+**Specializációk:** Elektromos, Elektronikai, Mérnöki, Vízierőművi, Mechanikai, Szerkezeti, Kvantum, stb.
 
-**Hatások:** A baki tovább rongálja a tárgyat és akár meg is sértheti a javítást megkísérlőt (például 1D3 ÉP bármelyikre), és a további javítási kísérleteket Nehézzé teszi. A kudarc nem ér el semmit, a siker 1D3 ÉP-t helyreállít és a tárgy újra használhatóvá válik vagy visszatér működő állapotba. A kiváló sikerek hasonló előnyöket hoznak, esetleg az Elsősegély képzettséget és a mesélő ítéletét útmutatóként használva. A kritikus siker még kismértékben javíthat is a tárgyon, például hozzáadhat az életerőpontjához, páncélpontjához, vagy kis bónuszt adhat a használatakor.
+**Hatások:** A balsiker tovább károsítja a tárgyat, és megsebesítheti a javítást végzőt is (például 1D3 életerőpontot), továbbá *Nehézzé* teszi a további javítási kísérleteket. A kudarc semmit sem ér el, a siker 1D3 életerőpontot állít helyre, és a tárgy újra használhatóvá válik vagy visszatér a működőképes állapotba. A kiváló sikerek hasonló előnyökkel járnak, esetleg az Elsősegély képzettséget és a mesélő ítélőképességét használva útmutatóként. A kritikus siker még javíthat is a tárgyon valamilyen kis mértékben, például hozzáadhat az életerőpontjához, páncélpontjához, vagy kis bónuszt adhat a használatakor.
 
 ### Kutatás
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget potenciális információforrások megtalálására és azonosítására könyvtárban, archívumban vagy hálózatban. A sikeres próbák meghozzák a kívánt információt könyvekből, dokumentumokból, cikkekből, adatbankokból, archívumokból vagy weboldalakról, a kiváló sikerek további vagy konkrétabb információt nyújtanak. A források széles skálája ellenére az alapelvek ugyanazok. E képzettség egy kísérlete normál esetben négy órába telik, bár az elektronikus módszerek sokkal gyorsabbak. A baki katasztrofális félreértéshez vezet és hibás információt eredményez. A kudarc időpocsékolás eredmények nélkül, vagy a legszükségesebb minimumot nyújtja a normál idő duplája után.
+Használd ezt a képzettséget az információforrások felkutatására és azonosítására könyvtárban, archívumban vagy hálózaton. A sikeres dobások könyvekből, dokumentumokból, cikkekből, adatbankokból, archívumokból vagy weboldalakról nyerik ki a kívánt információt, a kiváló sikerek pedig további vagy pontosabb információkat biztosítanak. Az erőforrások széles körétől függetlenül az elvek ugyanazok. A képzettség használata normál esetben négy órát vesz igénybe, bár az elektronikus módszerek sokkal gyorsabbak. A balsiker katasztrofális félreértéshez és hibás információkhoz vezet. A kudarc időpocsékolás szilárd eredmények nélkül, vagy a normál idő kétszerese után is csak minimális információt ad.
 
-**Rendszerjegyzetek:** A mesélőnek azt tanácsoljuk, hogy egy sikertelen Kutatás próba tartson tovább, adjon kissé félrevezető vagy bonyolult információt, keltsen figyelmet, vagy legyen más akadálya, mint az, hogy nem eredményez semmit. A kudarc ritkán élvezetes játékokban, és rejtélyeknél a hozzáférhetetlen nyomok drámai zsákutcát jelentenek.
+**Rendszermegjegyzések:** A mesélőnek azt tanácsoljuk, hogy egy sikertelen Kutatás dobás tovább tartson, kissé félrevezető vagy bonyolult információkat adjon, valamilyen riasztást vagy nem kívánt figyelmet vonzzon, vagy más hátráltató tényezővel járjon, mintsem egyszerűen csak eredménytelen legyen. A kudarc ritkán élvezetes a játékokban, a rejtélyeknél pedig a hozzáférhetetlen nyomok drámai zsákutcát jelentenek.
 
 ### Lovaglás (különböző)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget egy bizonyos élő állat lovaglására, kezelésére és gondozására. Lovaglással a karaktered különleges manővereken vagy durva terepen kormányozhat egy hátast, maximális sebességre ösztönözheti, vagy megtarthatja az irányítást, ha az ágaskodik vagy megbotlik. A baki a hátas irányításának elvesztését okozza, talán 1D6 ÉP sebzést eredményezve (általános vagy véletlenszerű testtájra), amikor a lovas a földre kerül. Egy sikeres Ugrás próba 1D6-ot levon a sebzés összegéből, miközben a hátas teljes sebességgel elvágtat. A kudarc azt eredményezi, hogy az állat ágaskodik, a sikerek pedig azt, hogy az állat a kívánt módon teljesít vagy akár felülmúlja az elvárásokat. A kiváló sikerek bónuszokat hozhatnak harci cselekvésekhez lovaglás közben.
+Használd ezt a képzettséget egy adott állatfaj meglovaglására, irányítására és gondozására. A Lovaglással a karaktered speciális manővereken vagy nehéz terepen kormányozhatja a hátasát, ráveheti a csúcssebességre, vagy megőrizheti az uralmat, ha az ágaskodik vagy botladozik. A balsiker a hátas feletti uralom elvesztését okozza, ami esetleg a földre eséssel és 1D6 életerőpontnyi sebzéssel jár (általános vagy véletlenszerű találati hely). Egy sikeres Ugrás dobás 1D6-ot levon a sebzésösszegből, miközben a hátas teljes sebességgel elvágtat. A kudarc miatt az állat megtorpan, a sikerek pedig eredményezik a kívánt teljesítményt, vagy akár felülmúlják az elvárásokat. A kiváló sikerek bónuszokat adhatnak a lovas harci akciókhoz.
 
-**Specializációk:** Állattípus szerint. Lásd a 11. fejezetet: Lények a hátaspéldákért. A mesélő belátása szerint hasonló típusú állatot lovagolni Nehézként lehet. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati próba sikeres, kezdj új képzettséget egy specializációval azon a szinten, plusz a megszerzett tapasztalat.
+**Specializációk:** Állatfajtánként. Lásd a Tizenegyedik fejezet: Lények részt a hátaspéldákért. A mesélő belátása szerint egy hasonló típusú állat *Nehéz* próbával lovagolható meg. Ha sikeres, tegyél tapasztalati próbát. Ha a tapasztalati dobás sikeres, kezdj el egy új képzettséget az adott specializációval azon az értéken, plusz a megszerzett tapasztalat.
 
-**Rendszerjegyzetek:** Az azonos fajtájú állatok közötti versenyeket ellentétes Lovaglás próbákkal oldd meg. A harci és Lovaglás képzettségeknek 50%+ szintűnek kell lenniük, hogy normálisan lehessen harcolni lovaglás közben. Ha a Lovaglás képzettség 50% alatti, minden körben Lovaglás próba szükséges a hátas feletti irányítás megtartásához. Ha a harci képzettség 50% alatti, minden támadás Nehéz. Még ha mindkét képzettség magasabb is 50%-nál, használd a két képzettségi szint közül az alacsonyabbat a támadásokhoz és hárításokhoz. Ha a hátas elesik, összeesik vagy elpusztul, kezeld a lovast úgy, mintha ledobták volna. Lásd **Lovas harc** további információkért.
+**Rendszermegjegyzések:** Az azonos fajtájú állatok közötti versenyeket ellentétes Lovaglás próbákkal döntsd el. A harchoz és a Lovaglás képzettséghez is 50%+ szükséges a normál lovas harchoz. Ha a Lovaglás képzettség kevesebb mint 50%, akkor körönként Lovaglás dobás szükséges a hátas feletti uralom megtartásához. Ha a harci képzettség kevesebb mint 50%, minden támadás *Nehéz*. Még ha mindkét képzettség magasabb is mint 50%, a két képzettségérték közül a kisebbet használd a támadásokhoz és hárításokhoz. Ha a hátas elesik, összeesik vagy elpusztul, kezeld a lovast úgy, mintha ledobták volna. További információkért lásd a **Lovas Harc** részt.
 
 ### Tudomány (különböző)
 
-**Alapérték:** 01%
+**Alapesély:** 01%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget tudományos információk és alapelvek ismeretére egy adott területről, jelenségek megfigyelésére és adat alapú következtetések levonására. A kapcsolódó információk közé tartozik a tudomány története, az eszközök és módszertan ismerete, valamint az adott specializáció jelentős alakjainak és gondolatiskoláinak ismerete.
+Használd ezt a képzettséget egy adott terület tudományos információinak és elveinek ismeretére, valamint jelenségek megfigyelésére és adatalapú következtetések levonására. A kapcsolódó információk közé tartozik a tudomány története, a berendezések és módszertan ismerete, valamint az adott specializáció jelentős személyiségeinek és gondolati iskoláinak ismerete.
 
-**Specializációk:** Csillagászat, Viselkedéstudomány, Biológia, Botanika, Kémia (vagy Alkímia), Kriptográfia, Genetika, Geológia, Matematika, Meteorológia, Természetrajz, Farmakológia, Fizika, Bolygókutatás, Pszichológia, Kvantummechanika, Xenobiológia, Zoológia stb. A mesélő belátása szerint egy kapcsolódó specializációval szerzett képzettséget Nehézként lehet dobni, bár a sikeres próba nem eredményez tapasztalati próbát vagy új képzettség kezdésének esélyét azzal a specializációval.
+**Specializációk:** Csillagászat, Viselkedéstudomány, Biológia, Botanika, Kémia (vagy Alkímia), Kriptográfia, Genetika, Geológia, Matematika, Meteorológia, Természettudomány, Farmakológia, Fizika, Planetológia, Pszichológia, Kvantummechanika, Xenobiológia, Zoológia stb. A mesélő belátása szerint egy rokon specializáció képzettsége *Nehéz* próbával dobható, bár a sikeres dobás nem eredményez tapasztalati próbát vagy új képzettség kezdésének lehetőségét azzal a specializációval.
 
-**Rendszerjegyzetek:** Sok Tudomány specializáció speciális felszerelést, mérőműszereket, számítógépeket vagy akár laboratóriumot igényel. A Tudomány próbák 30 perctől hetekig vagy hónapokig tarthatnak, a mesélő belátása szerint: négy óra egy kísérletre jó átlag. Tudomány próbát tenni elegendő idő vagy felszerelés nélkül Nehéz vagy Lehetetlen.
+**Rendszermegjegyzések:** Sok Tudomány specializáció speciális berendezéseket, mérőeszközöket, számítógépeket vagy akár laboratóriumot igényel. A Tudomány dobások a mesélő belátása szerint 30 perctől hetekig vagy hónapokig tarthatnak: négy óra egy kísérletre jó átlag. A Tudomány dobás megkísérlése elegendő idő vagy felszerelés nélkül vagy *Nehéz*, vagy *Lehetetlen*.
 
 ### Érzékelés
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Ez a képzettség elsősorban az ízlelést, tapintást és szaglást szabályozza; de kiterjedhet kevésbé ismert egyéb érzékekre is (fizikai orientáció, gravitáció, nyomás és egyensúly, hőmérséklet stb.). Használd olyan specifikus ingerek észlelésére vagy azonosítására, amelyek nem látás (Fürkészés) vagy hang (Figyelés), mint tárgy megtalálása sötétben tapintással, titokzatos szag vagy halvány íz azonosítása, hajszálrepedés érzése stb. A mesélő belátása szerint ez kiterjedhet "hatodik érzékre" vagy intuícióra. A baki katasztrofálisan félrevezető vagy az inger teljes ismeretlenségét tárja fel, a kudarc az inger észrevételének egyszerű kudarca, a különböző sikerfokozatok pedig pontosabb észlelést eredményeznek.
+A képzettség elsősorban az ízlelést, az érintést és a szaglást irányítja, de kiterjedhet néhány kevésbé ismert egyéb érzékre is (fizikai tájékozódás, gravitáció, nyomás és egyensúly, hőmérséklet stb.). Használd olyan stimulusok észlelésére vagy azonosítására, amelyek nem látáshoz (Szimat) vagy halláshoz (Figyelés) kötődnek, például egy tárgy megtalálása sötétben érintéssel, titokzatos szag vagy halvány íz azonosítása, hajszálrepedés érzékelése stb. A mesélő belátása szerint ez kiterjedhet „hatodik érzékre” vagy megérzésre is. A balsiker katasztrofálisan félrevezető vagy a stimulus teljes nemtudását eredményezi, a kudarc az észlelés egyszerű hiánya, a különböző sikerfokok pedig pontosabb észlelést eredményeznek.
 
-**Rendszerjegyzetek:** Mint a Figyelés és Fürkészés, az Érzékelés egyszerre aktív és passzív: kérheted a karakteredet Érzékelés próbára, vagy a mesélő kérhet próbát megfelelő helyzetekben. Az erős vagy ismerős ingereket Könnyű érzékelni, míg a halvány vagy ismeretlenek Nehezek.
+**Rendszermegjegyzések:** A Figyeléshez és Szimathoz hasonlóan az Érzékelés is aktív és passzív: kérheted, hogy a karaktered tegyen Érzékelés dobást, vagy a mesélő is kérhet dobást megfelelő helyzetekben. Erős vagy ismert stimulusok esetén az Érzékelés dobások *Könnyűek*, míg a halvány vagy ismeretlen stimulusok esetén *Nehezek*.
 
 ### Pajzs
 
-**Alapérték:** Pajzstípus szerint
+**Alapesély:** Pajzstípus szerint
 
-**Kategória:** Harci
+**Kategória:** Harc
 
-Használd ezt a képzettséget érkező támadások blokkolására pajzzsal vagy más megfelelő eszközzel. Minden pajzsblokkolás ugyanazokat a szabályokat követi, mint a hárítás: lásd **Pajzsok** és **Hárítás** a Hatodik fejezetben: Harc. Támadhatsz pajzzsal, a képzettséget úgy kezelve, mintha Közelharci fegyver képzettség lenne. A fegyverlisták tartalmazzák a pajzsok sebzésértékeit. A pajzsok zúzó különleges eredményeket okoznak, visszalökést okozhatnak, és használhatók célzott támadásokhoz.
+Használd ezt a képzettséget a beérkező támadások hárítására pajzzsal vagy más megfelelő eszközzel. Minden pajzsblokk ugyanazokat a szabályokat követi, mint a hárítás: lásd a **Pajzsok** és **Hárítás** részeket a hatodik fejezetben: Harc. Lehet pajzzsal támadni is, ezt a képzettséget úgy kezelve, mintha Közelharci fegyver képzettség lenne. A pajzsok sebzési értékei megtalálhatóak a fegyverlistákban. A pajzsok zúzó speciális eredményeket okoznak, hátralökhetnek, és használhatók célzott támadásokhoz.
 
-**Hatások:** Lásd a **Támadás és védekezés mátrixot** és a **Közelharci fegyver hárítás baki táblázatot**.
+**Hatások:** Lásd a **Támadási és Védelmi Mátrixot** és a **Közelharci Fegyver Hárítás Balsiker Táblázatot**.
 
-**Rendszerjegyzetek:** A pajzsblokkolások hárítások. Egy karakter körönként több pajzs próbát is tehet, de minden további dobás –30%-os büntetést ró a pajzs vagy hárítás képzettségi szintjére. A nagy pajzsok fedezéket nyújthatnak lőtávolságú vagy akár lőfegyveres támadásokkal szemben.
+**Rendszermegjegyzések:** A pajzsblokkok hárításoknak számítanak. A karakter körönként egynél több pajzs dobást tehet, de minden további dobás –30%-os büntetést von maga után a pajzs vagy hárítás képzettség értékére. A nagy pajzsok fedezéket nyújthatnak lövő- vagy akár lőfegyvertámadások ellen.
 
-### Kézügyesség
+### Ügyeskedés
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
-**Kategória:** Manipulációs
+**Kategória:** Manipuláció
 
-Használd ezt a képzettséget kis tárgyak (kockák, kártyák, érmék, pénztárcák, levelek stb.) félrevezető módon vagy figyelemfelkeltés nélkül történő manipulálására, mint pl. zsebtolvajlásnál, kártyázás közbeni csalásnál vagy bűvészmutatványoknál. A baki szembetűnően nyilvánvaló: akár elejti a tárgyat, akár a tolvajt rajtakapják a célszemély zsebében. A kudarc azt jelenti, hogy semmi sem sikerült, és egy gyanútlan célszemély, ha sikerül egy Ötletpróbája, rájöhet, hogy átverik.
+Használd ezt a képzettséget kisméretű tárgyak (kockák, kártyák, érmék, pénztárcák, levelek stb.) félrevezető módon vagy feltűnés nélkül történő manipulálására, például zsebtolvajláskor, kártyacsaláskor vagy színpadi bűvészkedésnél. A balsiker szembetűnően nyilvánvaló: akár leejti a tárgyat, akár a leendő tolvajt kapják el a célpont zsebében lévő kézzel. A kudarc azt jelenti, hogy semmit sem sikerült elérni, és egy gyanútlan célpont, ha sikeres Ötlet dobást tesz, rájöhet, hogy átverik.
 
-**Rendszerjegyzetek:** A képzettség szükség szerint Fürkészéssel szemben áll. Amint egy tárgyat megszerzett, használd a Rejtőzést az elrejtéséhez egy szervezett keresés elől.
+**Rendszermegjegyzések:** A képzettséget adott esetben a Szimat ellenpályázza. Miután egy tárgyat elrejtettek vagy elvettek, használd az Elrejtést, hogy megvédd a célzott kutatástól.
 
-### Fürkészés
+### Szimat
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget szoba átkutatására potenciálisan fontos részletekért, rejtett rekesz megtalálására, múló részlet észrevételére, álcázott ellenfél felismerésére vagy lesben álló ellenség észrevételére. A baki hatalmas figyelemelterelő tévedés vagy téves benyomás, a különböző sikerfokozatok pedig hasznosabb és relevánsabb információt hoznak.
+Használd ezt a képzettséget egy szoba átkutatására potenciálisan fontos részletek után, rejtett rekesz megtalálására, múló részlet észlelésére, álruhás ellenség felismerésére vagy lesben álló ellenség észrevételére. A balsiker egy hatalmas figyelemelterelő félreérzékelés vagy téves benyomás, a különböző sikerfokok pedig hasznosabb és relevánsabb információkat eredményeznek.
 
-**Rendszerjegyzetek:** A Fürkészés egyszerre aktív és passzív képzettség: a karaktered Fürkészés próbát tehet aktív keresésre vagy vizsgálatra, vagy a mesélő kérhet Fürkészés próbát annak ellenőrzésére, észreveszi-e a karaktered a múló részletet. A rejtőzés vagy szándékos elrejtőzés ellentétes Fürkészés vs. Rejtőzés próbát igényel a megoldáshoz. A Fürkészés gyakran áll szemben Álcázással vagy Kézügyességgel is. Teljes sötétségben a Fürkészés Lehetetlen, gyenge fényviszonyok vagy sűrű köd esetén Nehéz.
+**Rendszermegjegyzések:** A Szimat aktív és passzív képzettség is: a karaktered tehet Szimat dobást az aktív kereséshez vagy vizsgálathoz, vagy a mesélő kérhet Szimat dobást annak ellenőrzésére, hogy a karaktered észrevesz-e egy múló részletet. A rejtőzködés vagy szándékos elrejtés megoldásához szembeállított Szimat vs. Elrejtés teszt szükséges. A Szimat gyakran szemben áll az Álcázással vagy az Ügyeskedéssel is. Teljes sötétségben a Szimat *Lehetetlen*, a gyenge fény vagy sűrű köd pedig *Nehézzé* teszi.### Státusz
 
-### Státusz
+**Alapesély:** 15%
 
-**Alapérték:** 15%
+**Kategória:** Kommunikáció
 
-**Kategória:** Kommunikációs
-
-A státusz a hírnév, szakmai hitelesség, társadalmi osztály, jólét, hírnév, sőt a személyes becsület mértéke. Használd ezt a képzettséget mások befolyásolására a súlyod fitogtatásával, mint pl. bank meggyőzése készpénzkölcsön nyújtására vagy adósság elengedésére, nemjátékos karakter megfélemlítése szívességért, eladó meggyőzése I.O.U. elfogadására, vagy hatóságok nyomás alá helyezése az ügy csendben tartásáért. A baki a legnagyobb mértékű modortalanság, ami szégyent okoz, nemkívánatos figyelmet vonz és pontosan a kívánt hatás ellenkezőjét váltja ki. A sikerek meghozzák a keresett eredményeket, vagy akár további szívességeket és figyelmet. A státusz nem vagyon, bár gyakran összefüggenek, nem intrinsically kötöttek egymáshoz.
+A Státusz a hírnév, a szakmai hitelesség, a társadalmi osztály, a jólét, a hírnév, sőt, a személyes becsület mértéke. Használd ezt a képességet mások befolyásolására azzal, hogy súlyt adsz a szavaidnak: például meggyőzöl egy bankot készpénzkölcsön nyújtásáról vagy adósság elengedéséről, megfélemlítesz egy nemjátékos karaktert egy szívességért cserébe, ráveszel egy kereskedőt, hogy fogadjon el egy tartozáselismerő elismervényt, vagy nyomást gyakorolsz a hatóságokra egy ügy elhallgatása érdekében. A kudarc (fumble) a legnagyobb mértékű társadalmi baki, amely szégyent okoz, nem kívánt figyelmet vonz, és az elért eredménynek épp az ellenkezőjét váltja ki. A sikerek elérik a kívánt eredményeket, vagy akár további szívességeket és figyelmet is hozhatnak. A Státusz azonban nem egyenlő a vagyonnal; bár gyakran összefüggenek, nem feltétlenül kapcsolódnak egymáshoz.
 
 **Specializációk:** Minden specializáció egyetlen társadalmi osztályt, szakmát, társadalmi csoportot vagy befolyási területet képvisel.
 
-**Rendszerjegyzetek:** A státusz csak egy adott területen belül működik, specializációnként, és azt befolyási területen kívül használni Nehéz. A státusz nem javítható tapasztalattal, képzéssel vagy más fejlődéssel. A mesélőnek a státuszt hűséges szolgálatért, vakmerő tettekért vagy rendkívüli érdemekért kell felajánlania a forgatókönyvek között. Kalandonként egy pont ésszerű, rendkívüli tettek vagy eredmények esetén a nyereség 1D3, 1D4 vagy akár 1D6 pontra is nőhet. Hasonlóképpen, kudarcok, botrányok, kihágások és társadalmi illetlenségek csökkenthetik a Státuszt. A státusz használható benyomáskeltésre, de a hírnév meghatározására is. A karaktered dob a másik státusza ellen, hogy azonosítsa, és egy nemjátékos karakter dobhat a karaktered státusza ellen, hogy meghatározza, mit tudnak (ha tudnak valamit) a karakterről.
+**Rendszermegjegyzések:** A Státusz csak egy adott területen, specializációnként működik, és a befolyási területen kívül történő használata Nehéz. A Státusz nem fejleszthető tapasztalattal, képzéssel vagy egyéb fejlesztéssel. A mesélő a Státuszt hűséges szolgálatért, vakmerő tettekért vagy rendkívüli érdemekért jutalomként ajánlhatja fel a forgatókönyvek között. Kalandonként egy pont ésszerű, míg rendkívüli tettek vagy eredmények esetén a nyereség 1D3, 1D4 vagy akár 1D6 pontra is nőhet. Hasonlóképpen, a kudarcok, botrányok, vétségek és társadalmi illetlenségek csökkenthetik a Státuszt. A Státusz felhasználható benyomáskeltésre, de a hírnév meghatározására is szolgálhat. A karaktered a másik Státusza ellen dob, hogy azonosítsa őt, és egy nemjátékos karakter is dobhat a karaktered Státusza ellen, hogy meghatározza, mit tud a karakterről, ha egyáltalán tud valamit.
 
 > ### Státusz képzettség, Társadalmi státusz és Karaktervagyon
->
-> Ahogy a **Karakteralkotás** és **Karakterprofessziók** részekben leírtuk, a státusz drámai hatással lehet a társadalmi helyzetre és vagyonra. Alább három táblázat található, amelyek társadalmi rangot és átlagos vagyont rendelnek a státuszhoz, az adott státuszhoz tartozó maximális vagyonnal. Ahogy státuszt szerzel, a pozíciód és vagyonod valószínűleg javulni fog. A mesélőnek igény szerint módosítania kell ezeket a táblázatokat vagy újakat alkotnia.
->
-> ##### Prehisztorikus státusz
->
-> | Státusz | Társadalmi rang | Vagyonérték | Maximális vagyon |
-> | :--- | :--- | :--- | :--- |
-> | 01–15 | Rabszolga (Alsó osztály) | Szegény | Szegény |
+> 
+> Ahogy a **Karakteralkotás** és a **Karakterhivatások** fejezetben leírtuk, a Státusz drámai hatással lehet a társadalmi helyzetre és a vagyonra. Alább három táblázat található, amelyek Státusz alapján társadalmi rangot és átlagos vagyont rendelnek hozzá, az adott Státuszhoz tartozó maximális vagyonnal. Ahogy a karakter Státuszt szerez, a helyzete és vagyona valószínűleg javulni fog. A mesélő igény szerint módosíthatja ezeket a táblázatokat, vagy újakat hozhat létre.
+> 
+> ##### Őskori státusz
+> 
+> | Státusz | Társadalmi rang | Vagyoni besorolás | Maximális vagyon |
+> | :---- | :---- | :---- | :---- |
+> | 01–15 | Szolga (Alsóbb osztály) | Szegény | Szegény |
 > | 16–95 | Törzstag (Középosztály) | Szegény | Átlagos |
-> | 96–00 | Nemesség (Felső osztály) | Tehetős | Gazdag |
->
-> ##### Ókori/Sötét kor/Középkori/Császári státusz
->
-> | Státusz | Társadalmi rang | Vagyonérték | Maximális vagyon |
-> | :--- | :--- | :--- | :--- |
-> | 01–39 | Alsó osztály | Nincstelen | Nincstelen |
-> | 40–43 | Alsó középosztály | Szegény | Átlagos |
+> | 96–00 | Nemesség (Felsőbb osztály) | Módos | Gazdag |
+> 
+> ##### Ókori/Sötét középkori/Középkori/Császári státusz
+> 
+> | Státusz | Társadalmi rang | Vagyoni besorolás | Maximális vagyon |
+> | :---- | :---- | :---- | :---- |
+> | 01–39 | Alsóbb osztály | Nincstelen | Nincstelen |
+> | 40–43 | Alsó-középosztály | Szegény | Átlagos |
 > | 44–47 | Középosztály | Átlagos | Átlagos |
-> | 48–49 | Felső középosztály | Átlagos | Átlagos |
-> | 50–75 | Felső osztály | Tehetős | Tehetős |
-> | 76–95 | Nemesség | Tehetős | Gazdag |
-> | 96–00 | Monarchia | Gazdag | Gazdag |
->
+> | 48–49 | Felső-középosztály | Átlagos | Átlagos |
+> | 50–75 | Felsőbb osztály | Módos | Módos |
+> | 76–95 | Nemesség | Módos | Gazdag |
+> | 96–00 | Uralkodóház | Gazdag | Gazdag |
+> 
 > ##### Viktoriánus/Western/Pulp/Modern státusz
->
-> | Státusz | Társadalmi rang | Vagyonérték | Vagyonkorlát |
-> | :--- | :--- | :--- | :--- |
-> | 01–14 | Alsó osztály | Nincstelen | Szegény |
-> | 15–29 | Alsó osztály | Szegény | Átlagos |
-> | 30–39 | Alsó középosztály | Átlagos | Tehetős |
-> | 40–75 | Középosztály | Átlagos | Tehetős |
-> | 76–95 | Felső középosztály | Tehetős | Gazdag |
-> | 96–00 | Felső osztály | Gazdag | Gazdag |
->
-> A státusz befolyásolhatja a kezdeti felszerelést is, amivel a karaktered kezd. A mesélő belátása szerint státuszpróbákat tehetsz annak meghatározására, hogy a karaktered jobb felszereléssel kezdi-e a játékot, mint amit a vagyoni szintje és szakmája indokolna. Lásd Kezdő felszerelés a *Nyolcadik fejezetben: Felszerelés*. A játék előtt tett státuszpróbák nem jogosultak tapasztalati próbára.
+> 
+> | Státusz | Társadalmi rang | Vagyoni besorolás | Vagyoni korlát |
+> | :---- | :---- | :---- | :---- |
+> | 01–14 | Alsóbb osztály | Nincstelen | Szegény |
+> | 15–29 | Alsóbb osztály | Szegény | Átlagos |
+> | 30–39 | Alsó-középosztály | Átlagos | Módos |
+> | 40–75 | Középosztály | Átlagos | Módos |
+> | 76–95 | Felső-középosztály | Módos | Gazdag |
+> | 96–00 | Felsőbb osztály | Gazdag | Gazdag |
+> 
+> A Státusz befolyásolhatja a karakter kezdeti felszerelését is. A mesélő belátása szerint dobhatsz Státusz-próbát, hogy kiderüljön, a karaktered a vagyoni szintje és hivatása által jelzettnél jobb felszereléssel kezdi-e a játékot. Lásd a Kezdő felszerelés részt a *Nyolcadik fejezet: Felszerelés* c. részben. A játék előtt végrehajtott Státusz-próbák nem jogosítanak tapasztalati próbára.
 
-### Lopózás
+### Lopakodás
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
 **Kategória:** Fizikai
 
-Használd ezt a képzettséget egy területen való lopakodáshoz figyelmefelkeltés nélkül. Nincs szükség fedezékre, de könnyű léptek, magabiztosság és fegyelem szükségesek. Hogy mozdulatlanul elrejtőzz, használd a Rejtőzést. A baki nemkívánatos figyelmet vonz, a kudarc azt jelenti, hogy semmilyen előrehaladás nem történik, és a karakter nyilvánvaló mindenki számára, aki ránéz, míg a sikerek egymást követő elrejtőzési fokozatokat kínálnak.
+Használd ezt a képességet arra, hogy észrevétlenül osonj át egy területen. Fedezék nem szükséges, de könnyed léptekre, magabiztosságra és fegyelemre van szükség. Az álló helyzetben történő észrevétlenséghez használd a Rejtőzés képességet. A kudarc (fumble) nem kívánt figyelmet vonz, a sikertelen próbálkozás azt jelenti, hogy nem történt előrehaladás, és a karakter észrevehető bárki számára, aki ránéz, míg a sikerek különböző fokozatú elrejtőzést kínálnak.
 
-**Rendszerjegyzetek:** A Lopózás lassú mozgást feltételez. A MOZ értéked felénél messzebbre mozogni egy harci körben Nehéz. Környezeti tényezők (zaj, vastag szőnyeg, nyikorgó padló stb.) vagy felszerelés (puha talpú cipő, zajos páncél, terjedelmes felszerelés stb.) módosíthatják a Lopózás próbákat, a mesélő belátása szerint. A Lopózás Fürkészéssel vagy Figyeléssel áll szemben, ahogy indokolt.
+**Rendszermegjegyzések:** A Lopakodás lassú mozgást feltételez. A harci körön belüli, a mozgássebesség (MOV) felénél nagyobb távolság megtétele Nehéz. Környezeti tényezők (háttérzaj, vastag szőnyegek, nyikorgó padló stb.) vagy felszerelés (puha talpú cipő, zajos páncél, terjedelmes felszerelés stb.) a mesélő belátása szerint módosíthatják a Lopakodás-próbákat. A Lopakodást a Keresés vagy a Figyelés képességekkel vetik szembe, ahogy az indokolt.
 
 ### Stratégia
 
-**Alapérték:** 01%
+**Alapesély:** 01%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget erők irányítására csatában, kis osztagtól hatalmas hadseregig vagy flottáig, logisztika szervezésére és koordinálására egy hadsereg számára, nagyszabású katonai vállalkozás tervezésére és végrehajtására, és annak meghatározására, mire gondolhat egy másik stratéga. Ez a képzettség feltételezi a hadtörténet és taktika alapvető ismeretét, valamint az abban részt vevő jelentős alakokét. A baki katonai katasztrófát reprezentál, és totális vereséghez vezethet, míg a különböző sikerfokozatok stratégiai előnyöket hoznak, és bónuszokat jelenthetnek a morálra és harci hatékonyságra.
+Használd ezt a képességet erők irányítására a csatában, egy kisebb osztagtól kezdve egy hatalmas seregig vagy flottáig; hadsereg logisztikájának megszervezésére és koordinálására; nagyszabású katonai vállalkozások megtervezésére és végrehajtására, valamint annak meghatározására, hogy mire gondolhat egy másik stratéga. Ez a képesség feltételezi a hadtörténelem és a taktika, valamint az abban szerepet játszó jelentős személyek alapvető ismeretét. A kudarc (fumble) katonai katasztrófát jelent, és teljes vereséghez vezethet, míg a különböző fokú sikerek stratégiai előnyöket biztosítanak, és bónuszt jelenthetnek a morálra és a harci hatékonyságra.
 
-**Rendszerjegyzetek:** Hatalmas katonai elkötelezettségeket absztraktban kell megoldani, az ellentétes vezető közötti versengő Stratégia próbával, amely befolyásolja az eredményt (több próba is szükséges lehet nagyobb vagy hosszabb elkötelezettségeknél). Stratégiát használni kedvezőtlen körülmények között (túlerő, rossz ellátmány stb.) Nehéz. Ez a képzettség gyakran a Parancsolattal együtt használatos: a Stratégia reprezentálja a tervet, a Parancsolat pedig azt, milyen világosan közvetítik azoknak, akiknek végre kell hajtaniuk.
+**Rendszermegjegyzések:** A hatalmas katonai ütközeteket absztrakt módon kell megoldani, a szembenálló vezetők közötti ellentétes Stratégia-próbával, amely befolyásolja az eredményt (nagyobb vagy hosszabb ütközetek esetén több dobás is szükségessé válhat). A Stratégia kedvezőtlen körülmények közötti használata (túlerő, rossz ellátmány stb.) Nehéz. Ezt a képességet gyakran a Parancsnoklás mellett használják: a Stratégia képviseli a tervet, a Parancsnoklás pedig azt, hogy milyen tisztán jut el azokhoz, akiknek végre kell hajtaniuk.
 
 ### Úszás
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
 **Kategória:** Fizikai
 
-Használd ezt a képzettséget vízben vagy víz alatt való mozgásra. Általában Úszás próbákat csak veszélyes vagy stresszes helyzetekben kell alkalmazni. A lebegés, kutyázás és taposás normál körülmények között *Automatikus*. A baki azt jelenti, hogy fuldokolni kezdesz (lásd *Fojtogatás, Fulladás és Asphyxiation*). Amint a karaktered fuldokolni kezd, csak *Nehéz* Úszás próba vagy külső segítség hozhatja vissza a felszínre levegőért. A siker normál manőverezést jelent a vízben, a kiváló sikerek pedig nagyobb sebességet és manőverezhetőséget.
+Használd ezt a képességet vízben vagy víz alatt történő mozgáshoz. Általában az Úszás-próbákat csak veszélyes vagy stresszes helyzetekben kell használni. Normál körülmények között az úszkálás, a kutyázás és a taposóvízben tartózkodás *Automatikus*. A kudarc (fumble) azt jelenti, hogy elkezdesz fulladni (lásd *Fulladás, vízbefúlás és aszfixia*). Amint a karaktered fulladni kezd, csak egy *Nehéz* Úszás-próba vagy külső segítség hozhatja vissza a felszínre levegőért. A siker normál manőverezést jelent a vízben, míg a kiváló sikerek további sebességet és manőverezőképességet biztosítanak.
 
-**Rendszerjegyzetek:** Nyugodt vizekben Úszás próbákra csak körönként egyszer van szükség. Durva vizekben úszáshoz minden körben Úszás próba szükséges. Úszni valamit cipelés közben Erőfeszítés próbát vagy TÖE ellenálláspróbát igényel, helyzettől függően. Speciális felszerelés (úszóeszközök, uszonyok stb.) +20%-ig terjedő módosítókat kínál. Az aktív úszás 1 fáradtságpontba kerül fordulónként. A vízben való versenyeket ellentétes Úszás próbákként oldd meg, körönként 1 fáradtságpontba kerül. Vond le az úszó TEHER értékét az Úszás értékéből. Ha a TEHER meghaladja a TÖE-t, elmerül, és súlyt kell ledobnia vagy megfullad. A páncélozott karakterekre büntetést alkalmaznak az Úszásnál (lásd **Páncél**). A páncél levételéhez vízben tegyél Úszás próbát harci körönként a páncél legmagasabb értékének pontszámával (a maximális dobás, ha véletlenszerű páncélértékeket használtok). A természetes páncélnak vagy az erő által adott páncélnak nincs büntetése vízben.
+**Rendszermegjegyzések:** Nyugodt vízben az Úszás-próbákra csak körönként egyszer van szükség. Hullámzó vízben történő úszáshoz minden körben szükség van egy Úszás-próbára. Valaminek a cipelése közben történő úszás Erőfeszítés-próbát vagy ERŐ-ellenálláspróbát igényel, a helyzettől függően. A speciális felszerelések (úszógumik, békatalpak stb.) akár +20%-os módosítót is kínálhatnak. Az aktív úszás körönként 1 fáradtságpontba kerül. A vízben zajló versenyeket ellentétes Úszás-próbákkal oldd meg, ami körönként 1 fáradtságpontba kerül. Vonj le minden, az úszónál lévő teherértéket (ENC) az Úszás-értékéből. Ha az ENC meghaladja az ERŐ-t, az úszó elsüllyed, és meg kell szabadulnia a súlytól, különben megfullad. A páncélos karakterek büntetést kapnak az Úszás képességre (lásd **Páncél**). A páncél vízben történő eltávolításához hajts végre egy Úszás-próbát minden harci körben, a páncél legmagasabb értékének pontonkénti arányában (véletlenszerű páncélértékek használata esetén a maximális dobással). A természetes páncél vagy az erő által biztosított páncél a vízben nem jár büntetéssel.
 
-Víz alatti közelharcban a támadó a harci vagy Úszás képzettségi szintje közül az alacsonyabbat használja a támadások megoldásához, és a Kitérés Nehéz. Csak szúró fegyverek hasznosak – minden más 1D3–1 sebzést okoz találatonként. A vízellenállás 3 páncélpontot is ad minden célpontnak. Lásd **Víz alatti harc** további információkért.
+Víz alatti közelharcban a támadó a támadási vagy az Úszás képzettsége közül a kisebbet használja a támadások megoldására, és a Kitérésre tett kísérlet Nehéz. Csak a szúrófegyverek hasznosak — minden más találatonként 1D3–1 pont sebzést okoz. A vízellenállás emellett 3 pont páncélértéket ad minden célpontnak. További információkért lásd: **Víz alatti harc**.
 
 ### Tanítás
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
-**Kategória:** Kommunikációs
+**Kategória:** Kommunikáció
 
-Használd ezt a képzettséget valahányszor a karaktered információt vagy technikát kísérel meg oktatni vagy tanítani valakinek, előadás, gyakorlat vagy fizikai sparring használatával. A baki retrográd és azt okozhatja, hogy a tanulók esetleg 1D2 képzettségi pontot veszítenek, ha nem tesznek Ötletpróbát a silány tanítás felismerésére, míg a siker a normál képzési szabályok szerint tanít, a kiváló sikerek pedig 1D6-ra (különleges) és 1D6+2-re (kritikus) javítják a képzési képzést.
+Használd ezt a képességet, amikor a karaktered megpróbál információt vagy technikát tanítani vagy betanítani másnak, előadások, gyakorlatok vagy fizikai küzdelem (sparing) útján. A kudarc (fumble) visszafejlődést okoz, és a diákok esetleg 1D2 képzettségi pontot is veszíthetnek, ha nem dobnak sikeres Intelligencia-próbát a rossz tanítás felismerésére; a siker a normál kiképzési szabályok szerint tanít, a kiváló sikerek pedig 1D6 (speciális) és 1D6+2 (kritikus) pontra fejlesztik a képzést.
 
-**Rendszerjegyzetek:** Egy adott képzettség tanításához a tanárnak a tanuló képzettségi szintjének duplájával, vagy 50%-os képzettségi szinttel kell rendelkeznie (amelyik alacsonyabb). Lásd **Képzettségi képzés** további részletekért.
+**Rendszermegjegyzések:** Egy adott képzettség tanításához a tanárnak a diák képzettségi szintjének kétszeresével vagy 50%-os képzettségi szinttel kell rendelkeznie (amelyik alacsonyabb). További részletekért lásd: **Képzettség-kiképzés**.
 
-### Technikai képzettség (különböző)
+### Technikai képzettség (különféle)
 
-**Alapérték:** 05%
+**Alapesély:** 05%
 
 **Kategória:** Mentális
 
-Használd ezt a képzettséget fejlett technológiai eszközök, mint számítógépes rendszerek, robotok vagy más magas eszközök kezelésére és karbantartására. Használható eszközök módosítására is, hogy javítsák teljesítményüket vagy új célra használják őket paramétereiken kívül. A baki potenciálisan eltöri az eszközt vagy valamilyen módon elakasztja, míg a sikerek és kiváló sikerek hatására a mechanizmus a tervezettek szerint, vagy azon túl teljesít.
+Használd ezt a képességet fejlett technológiai eszközök, például számítógépes rendszerek, robotok vagy más csúcstechnológiás eszközök működtetésére és karbantartására. Használható az eszközök módosítására is a teljesítményük javítása érdekében, vagy új célra történő felhasználására a paramétereiken kívül. A kudarc (fumble) potenciálisan tönkreteszi az eszközt vagy valamilyen módon elakasztja azt, míg a sikerek és a kiváló sikerek hatására a mechanizmus a terveknek megfelelően, vagy a várakozásokat felülmúlva működik.
 
-**Specializációk:** Óramű, Számítógépek, Kibernetika, Elektronika, Robotika, Szenzorok, Ostromgépek, Csapdák stb.
+**Specializációk:** Óraműves szerkezetek, Számítógépek, Kibernetika, Elektronika, Robotika, Szenzorok, Ostromgépek, Csapdák stb.
 
-**Beállítási jegyzetek:** A technikai képzettség fantasy vagy történelmi beállításokban csapdákat, óramű vagy fogaskerekes eszközöket, ostromgépeket stb. fed le.
+**Világépítési megjegyzések:** A Technikai képzettség fantasy vagy történelmi környezetben a csapdákra, óraműves vagy fogaskerekes eszközökre, ostromgépekre stb. vonatkozik.
 
 ### Dobás
 
-**Alapérték:** 25%
+**Alapesély:** 25%
 
 **Kategória:** Fizikai
 
-Használd ezt a képzettséget egy célpont eltalálására dobott tárggyal, vagy olyan fegyver dobására, amely egyébként nem kiegyensúlyozott dobásra (mint pl. nagy kard vagy pajzs dobása). Ez lefedi az improvizált dobott tárgyakat, gránátokat, dinamitrudakat, nem szokványos fegyvereket vagy nem fegyvereket. A lasszók szintén ehhez a képzettséghez tartoznak, csakúgy, mint a tárgyak elkapása. Ha a fegyver dobásra készült, használd a Lőtávolságú fegyvert.
+Használd ezt a képességet, hogy eltalálj egy célpontot egy eldobott tárggyal, vagy hogy eldobj egy olyan fegyvert, amely egyébként nem kiegyensúlyozott dobásra (például kétkezes kard vagy pajzs dobása). Ez magában foglalja az improvizált dobott tárgyakat, gránátokat, dinamitrudakat, nem kifejezetten dobásra készült fegyvereket vagy nem fegyvernek számító tárgyakat. A lasszó is ebbe a képességbe tartozik, csakúgy, mint a tárgyak elkapása. Ha a fegyvert kifejezetten dobásra készítették, használd a Lőfegyverek képzettséget.
 
-**Hatások:** A Dobásnak specifikus hatásai vannak:
+**Hatások:** A Dobásnak meghatározott hatásai vannak:
 
-* **Baki:** A tárgy leesik vagy elveszik. Harcban használd a **Lőtávolságú fegyver baki táblázatot**.
-* **Kudarc:** A tárgy elhibázza a célt és 1D6 métert repül véletlenszerű irányba.
-* **Siker:** A tárgy a kívánt helyre érkezik. Dobj normálisan sebzésre, ha van.
-* **Különleges:** A tárgy a kívánt helyre érkezik és különleges sebzéstípust okoz, az alakjának megfelelően (lásd **Különleges sikerek**).
-* **Kritikus:** A tárgy kivételes eredménnyel érkezik a kívánt helyre, figyelmen kívül hagyva a páncélt és kritikus sebzést okozva, ha indokolt.
+* **Kudarc (Fumble):** A tárgy kiesik a kézből vagy elveszik. Harcban használd a **Lőfegyver-kudarctáblázatot**.
+* **Sikertelen:** A tárgy elvéti a célt, és véletlenszerű irányba 1D6 métert repül.
+* **Siker:** A tárgy a szándékolt helyre érkezik. Dobd ki a sebzést normálisan, ha van.
+* **Speciális:** A tárgy a szándékolt helyre érkezik, és az alakjának megfelelő speciális sebzéstípus lép érvénybe (lásd **Speciális sikerek**).
+* **Kritikus:** A tárgy kivételes eredményt elérve ér célba, figyelmen kívül hagyva a páncélzatot, és kritikus sebzést okozva, ha az indokolt.
 
-**Rendszerjegyzetek:** Add hozzá a sebzésmódosító 1/2-ét (kerekíts felfelé) a dobott fegyver alapsebzéséhez. A legtöbb tárgyat a dobó TÖE-jének megfelelő méterig lehet dobni, és az ezen túli tartomány Nehéz. A dobott tárgyak célzásra használhatók.
+**Rendszermegjegyzések:** Add hozzá a dobott fegyver alapsebzéséhez a sebzésmódosító felét (felfelé kerekítve). A legtöbb tárgyat a dobó ERŐ-jének megfelelő méterig lehet eldobni, az ezen túli távolság már Nehéz. A dobott tárgyak célzottak lehetnek.
 
 ### Nyomkövetés
 
-**Alapérték:** 10%
+**Alapesély:** 10%
 
-**Kategória:** Észlelési
+**Kategória:** Észlelés
 
-Használd ezt a képzettséget nyomok azonosítására vagy nyomvonal követésére – legyen szó személyről, járműről vagy állatról – a földön, bozóton, havon és törött talajon keresztül. A baki elveszíti a nyomvonalat és talán magát a nyomkövetőt is. A különböző sikerfokozatok jobb eredményeket hoznak, beleértve potenciálisan a nyomkövetett alanyról szóló információk értékelését vagy annak pontos előrejelzését, hová tartanak.
+Használd ezt a képességet nyomok azonosítására vagy ösvény követésére — legyen az személy, jármű vagy állat — a földön, bozóton, havon és töredezett terepen keresztül. A kudarc (fumble) a nyom elvesztésével, és esetleg magának a nyomkövetőnek az eltévedésével jár. A különböző mértékű sikerek jobb eredményeket hoznak, beleértve azt a lehetőséget is, hogy információkat értékeljünk a követett alanyról, vagy pontosan megjósoljuk, merre tart.
 
-**Rendszerjegyzetek:** Egy Nyomkövetés próba 1D3 percig tart, és egy kiterjesztett nyomkövetési kísérlet több próbát is igényelhet. A környezettől függően a próba lehet Nehéz (esős éjszaka) vagy Könnyű (fényes havas nap). Ha egy nyomvonal elveszik, az ismételt megtalálása Nehéz. A nyomok elrejtése ellentétes Nyomkövetés próba. Fejlett felszerelés +20%-kal javíthatja a képzettségi szintet.
+**Rendszermegjegyzések:** Egy Nyomkövetés-próba 1D3 percet vesz igénybe, és egy kiterjesztett nyomkövetési kísérlet több dobást is igényelhet. A környezettől függően a próba lehet Nehéz (esős éjszaka) vagy Könnyű (fényes, havas nap). Ha a nyom elveszett, a megtalálása Nehéz. A saját nyomok elrejtésének kísérlete egy ellentétes Nyomkövetés-próba. A fejlett felszerelés akár +20%-ot is adhat a képzettségi szinthez.

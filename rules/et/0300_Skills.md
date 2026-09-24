@@ -1,1097 +1,1085 @@
-# 3\. Oskused
+# 3. Oskused
 
-Teie tegelane peab mängu jooksul tegema palju otsuseid, seisma silmitsi paljude väljakutsetega ja sooritama palju ülesandeid. Kõige olulisemad tegevused on määratletud **oskustena**, mida teie tegelane saab proovida. See jaotis loetleb kõige levinumad oskused, määratleb need ja seostab need ülesannetega, mida teie tegelane võib mängus proovida.
+Teie tegelane peab mängu jooksul tegema palju otsuseid, seisma silmitsi paljude väljakutsetega ja täitma palju ülesandeid. Enamik olulisi tegevusi on määratletud **oskustena**, mida teie tegelane saab proovida sooritada. See jaotis loetleb kõige levinumad oskused, määratleb need ja seostab need ülesannetega, mida teie tegelane saab mängus proovida.
 
 ## Oskuste määratlemine
 
-Oskus tähistab konkreetset teadmiste ja võimekuse kogumit. Iga oskust hinnatakse protsentuaalsel skaalal 0 kuni 100 (või rohkem). Seda nimetatakse **oskustasemeks**. Mida kõrgem, seda parem.
+Oskus tähistab teatud teadmiste ja võimekuse kogumit. Iga oskus on hinnatud protsendiskaalal 0 kuni 100 (või enam). Seda nimetatakse **oskuspunktideks**. Mida kõrgem on väärtus, seda parem.
 
-Selles raamatus olev oskuste loetelu pole kaugeltki terviklik: erinevad mängud võivad nõuda täiendavaid oskusi ja mängujuhti julgustatakse looma uusi oskusi vastavalt soovile. Lisaks võib mängujuht soovi korral oskusi ümber nimetada või ümber klassifitseerida, mõned kõrvaldada, lisada uusi erialasid (kirjeldatud allpool) või need eemaldada, nagu asjakohane.
+Selles raamatus toodud oskuste loend pole kaugeltki ammendav: erinevad mängud võivad nõuda lisaoskusi ja mängujuhti julgustatakse looma uusi oskusi vastavalt soovile. Lisaks võib mängujuht soovida oskusi ümber nimetada või ümber klassifitseerida, mõned kõrvaldada, lisada uusi erialasid (kirjeldatud allpool) või need eemaldada, kui see on asjakohane.
 
 ### Oskuste erialad
 
-Paljud oskused on laiaulatuslikud ja nõuavad eriala määratlemist, mis on selle oskuse rohkem keskendunud aspekt. Kunst on näiteks lai kategooria, seega on see jaotatud erialadeks nagu joonistamine, maalimine, skulptuur, kirjutamine jne. Need on loetletud pärast oskuse nime sulgudes. Seega peetakse lähivõitlusrelva (mõõk) ja lähivõitlusrelva (oda) kaheks erinevaks oskuseks. Mängujuhi äranägemisel, kui teie tegelasel puudub sobiva eriala oskustase, võite oskuste veeremiseks kasutada seotud oskuse või eriala taset poole võrra vähendatuna (ümardades ülespoole).
+Paljud oskused on laiaulatuslikud ja nõuavad eriala määratlemist – oskuse fokuseeritumat aspekti. Kunst on näiteks lai kategooria, mistõttu on see jaotatud erialadeks nagu Joonistamine, Maalimine, Skulptuur, Kirjutamine jne. Need on loetletud pärast oskuse nime sulgudes. Seega loetakse Lähivõitlusrelv (Mõõk) ja Lähivõitlusrelv (Oda) kaheks erinevaks oskuseks. Mängujuhi äranägemisel, kui teie tegelasel puudub oskuspunktide tase sobivas erialas, võite kasutada seotud oskuse või eriala taset poolitatuna (ülespoole ümardatuna), et teha oskuse kontrollimisi.
 
-Näiteks *teie tegelane võib kasutada poolt oma teaduse (astronoomia) oskustasemest, et teha oskuste veeremisi, mis tavaliselt nõuaksid teadust (füüsika) või teadust (matemaatika), kuna need on seotud oskused. Kuid see astronoomiline taipamine on kasutu, kui mängujuht nõuab teaduse (bioloogia) või teadmiste (ajalugu) oskuse veeremist.*
+Näiteks *teie tegelane saab kasutada poolt oma teaduse (Astronoomia) oskustasemest, et teha oskuse kontrollimisi, mis tavaliselt nõuaksid teaduse (Füüsika) või teaduse (Matemaatika) oskust, kuna need on seotud oskused. Kuid see astronoomiline taip on kasutu, kui mängujuht nõuab teaduse (Bioloogia) või teadmiste (Ajalugu) oskuse kontrollimist.*
 
 ### Oskuste kasutamine
 
-Alati, kui teie tegelane soovib sooritada tegevust või täita ülesannet, mille tulemus on kahtlane, peate deklareerima soovitud tegevuse. Mängujuht nõuab seejärel D100 veeremist vastava oskustaseme vastu. Üldiselt tähendab D100 veeremine, mis on võrdne muudetud oskustasemega või sellest madalam, ülesande õnnestumist, samas kui tasemest kõrgem tulemus ebaõnnestub.
+Alati, kui teie tegelane soovib sooritada tegevust või täita ülesannet, mille tulemus on ebakindel, peate teatama soovitud tegevusest. Mängujuht nõuab seejärel D100 viset vastava oskustaseme vastu. Üldiselt tähendab D100 vise, mis on võrdne muudetud oskustasemega või sellest madalam, ülesande õnnestumist, samas kui kõrgem vise ebaõnnestumist.
 
-Ülesande raskusaste või muud olukorrast tulenevad modifikaatorid võivad oskuse taset tõsta või langetada. Raskusastme modifikaatorid on:
+Ülesande raskus või muud asjaoludest tulenevad modifikaatorid võivad oskuse taset tõsta või langetada. Raskusastme modifikaatorid on:
 
-* **Automaatne** – veeremist pole vaja
-* **Lihtne** – oskustase kahekordistatakse
-* **Keskmine** – oskustaseme muutmist pole
-* **Raske** – oskustase poolitatakse
-* **Võimatu** – veeremist pole või 01% võimalus mängujuhi äranägemisel
+* **Automaatne** – viset pole vaja
+* **Lihtne** – oskus kahekordistub
+* **Keskmine** – oskuse muudatust pole
+* **Raske** – oskus poolitatakse
+* **Võimatu** – viset pole või 01% võimalus mängujuhi äranägemisel
 
-Lisateabe saamiseks vt **Tegevuse veeremiste muutmine**. Kui modifikaatorit pole märgitud, eeldage, et veeremine on keskmise raskusastmega.
+Lisateabe saamiseks vaadake jaotist **Tegevusvisete muutmine**. Kui modifikaatorit pole märgitud, eeldage, et vise on Keskmise raskusastmega.
 
-Enamikul juhtudel on antud tegevuse jaoks sobiv oskus ilmne. Ettenägematud asjaolud võivad aga viia oskuse uute kasutusviisideni. Teid julgustatakse leidma oma tegelase oskuste alternatiivseid rakendusi, kuid kõik sellised oskuste kasutamised peavad saama mängujuhi heakskiidu.
+Enamikul juhtudel on antud tegevuse jaoks sobiv oskus ilmne. Ettenägematud asjaolud võivad aga viia oskuse uute kasutusviisideni. Teid julgustatakse leidma oma tegelase oskustele alternatiivseid rakendusi, kuid kõik sellised oskuste kasutamised peavad saama mängujuhi heakskiidu.
 
-Kuigi paljud oskused on suunatud tegevustele, näitavad need ka üldisi teadmisi seda oskust reguleerivatest ülesannetest.
+Kuigi paljud oskused on suunatud tegevustele, näitavad need ka üldisi teadmisi oskusega hõlmatud ülesannete liikidest.
 
-Näiteks *keskaegne sõdalane võib mõõga kvaliteedi hindamiseks kasutada oskust Lähivõitlusrelv (mõõk) asemel oskust Hinnata. Võitluskunstide oskust võiks sarnaselt kasutada selleks, et teada erinevate dojo’de kohta linnas ja kes on nende senseid.*
+Näiteks *keskaegne sõdalane võib mõõga kvaliteedi hindamiseks kasutada Lähivõitlusrelv (Mõõk) oskust Hindamise asemel. Võitluskunstide oskust võib sarnaselt kasutada selleks, et teada linna erinevate doojode ja nende senseide kohta.*
 
-### Salajased või varjatud oskuste veeremised
+### Salajased või varjatud oskuse visked
 
-Mängujuht võib teie tegelase eest ka oskuste veeremisi teha juhtudel, kui ta ei soovi, et teaksite oskuse veeremise tulemust või et oskuse veeremist üldse tehakse. Mängujuht võib soovida hoida teie tegelase lehe koopiat käepärast või paluda teil nimekirja oma tegelase hetketasemetest vastavates oskustes (eriti tajumisoskustes), et salajasi veeremisi saaks teha ilma teid ja teisi mängijaid hoiatamata, et teie tegelased võivad midagi märkamata jätta, kui oskuse veeremised ebaõnnestuvad. See meetod võimaldab mängujuhil kasutada ebaõnnestunud veeremisi teid potentsiaalselt eksitada või valele teele juhtida, mis on kasulik taktika taju- või vaimupõhiste veeremiste puhul.
+Mängujuht võib teha oskuse viskeid ka teie tegelase eest juhtudel, kui mängujuht ei soovi, et teaksite oskuse viske tulemust või üldse seda, et oskuse viset tehakse. Mängujuht võib soovida hoida teie tegelase lehe koopiat käepärast või paluda teil loetleda oma tegelase praegused tasemed asjakohastes oskustes (eriti Taju oskustes), et salajasi viskeid saaks teha ilma, et teid ja teisi mängijaid hoiatataks, et teie tegelased võivad millestki ilma jääda, kui oskuse visked ebaõnnestuvad. See meetod võimaldab mängujuhil kasutada ebaõnnestunud viskeid, et teid potentsiaalselt eksitada või vales suunas juhtida, mis on kasulik taktika Taju või vaimupõhiste visete puhul.
 
-Mõned ilmsemad oskuste veeremised, mida võidakse teha salaja või ilma, et oleksite tulemusest teadlik, on järgmised: Hinnata, Kunst, Kaubelda, Käsutada, Käsitöö, Maskeering, Etikett, Kiirkõne, Mängimine, Peituda, Taiplikkus, Teadmised, Keel, Kuulda, Kirjaoskus, Meditsiin, Navigeerida, Esineda, Veenda, Psühhoteraapia, Uurida, Teadus, Tunnetada, Osavus, Märgata, Staatus, Hiilida, Strateegia, Õpetada, Tehniline oskus ja Jälitada. Sõltuvalt asjaoludest võib salaja teha ka muid oskuste veeremisi.
+Mõned ilmsemad oskuse visked, mida võib teha salaja või ilma, et te teaksite tulemust, on järgmised: Hindamine, Kunst, Kauplemine, Käsklus, Käsitöö, Maskeerumine, Etikett, Sorav jutt, Mängurlus, Peitmine, Sisekaemus, Teadmised, Keel, Kuulamine, Kirjaoskus, Meditsiin, Navigeerimine, Esitamine, Veenmine, Psühhoteraapia, Uurimine, Teadus, Taju, Osavus, Märkamine, Staatus, Hiilimine, Strateegia, Õpetamine, Tehniline oskus ja Jälitamine. Olenevalt asjaoludest võib ka teisi oskusi sooritada salaja.
 
-Need veeremised ei pea olema täielikult salajased ja mängujuht võib teile öelda, et veeremine tehakse konkreetse oskuse vastu. Sõltuvalt mängustiilist võivad teie ja mängujuht otsustada teha varjatud veeremisi, kus veerete täringuid kohas, kus te ei näe, kuidas need maanduvad, näiteks mängujuhi ekraani või muu varjestuse taga.
+Need visked ei pea olema täielikult salajased ja mängujuht võib teile öelda, et vise tehakse konkreetse oskuse vastu. Sõltuvalt mängustiilist võite teie ja mängujuht valida varjatud visked, kus veeretate täringuid kohas, kus te ei näe, kuidas need maanduvad, näiteks mängujuhi sirmi taga või muu varjatuse korral.
 
-Kui oskus õnnestub, peaks mängujuht teile ütlema, et teie tegelane on sobivat oskust edukalt kasutanud, ja võimaldama kogemuste kontrolli, kui see on asjakohane. Kui oskuse veeremine ebaõnnestub, peaks mängujuht teid (ja teie tegelast) tulemusest teavitama, valesti teavitama või sellest hoiduma, nagu asjakohane.
+Kui oskus on edukas, peaks mängujuht teile ütlema, et teie tegelane on sobivat oskust edukalt kasutanud, ja lubama kogemuste kontrollimist, kui see on kohaldatav. Kui oskuse vise ebaõnnestub, peaks mängujuht teid (ja teie tegelast) tulemusest teavitama, valesti teavitama või jätma teavitamata, vastavalt asjaoludele.
 
 ## Oskuste kategooriad
 
-Oskused on jagatud kuueks oskuste kategooriaks:
+Oskused on jagatud kuude oskuste kategooriasse:
 
-* **Võitlusoskused** mõõdavad vilumust relvade ja võitlusmanöövritega.
-* **Suhtlusoskused** reguleerivad vestlust, lugemist ja inimestevahelist suhtlust.
-* **Manipulatsioonioskused** määratlevad ülesandeid, mis nõuavad täpset silma-käe koordinatsiooni.
-* **Vaimsed oskused** mõõdavad konkreetseid teadmisi ja individuaalset otsustusvõimet.
-* **Tajumisoskused** koguvad ja tõlgendavad teavet keskkonnast.
-* **Füüsilised oskused** reguleerivad jõu, väleduse ja kergejõustiku saavutusi.
+* **Võitlus** – mõõdab vilumust relvade ja lahingumanöövritega.
+* **Suhtlus** – reguleerib vestlust, lugemist ja inimestevahelist suhtlust.
+* **Manipulatsioon** – määratleb ülesandeid, mis nõuavad täpset silma-käe koordinatsiooni.
+* **Vaimsed** – mõõdavad konkreetseid teadmisi ja individuaalset otsustusvõimet.
+* **Taju** – koguvad ja tõlgendavad teavet ümbritsevast keskkonnast.
+* **Füüsilised** – reguleerivad jõu, väleduse ja kergejõustiku sooritusi.
 
-Oskuste kategooriad toimivad üldiste juhistena selle kohta, milliseid tegevusi oskus suudab korda saata, ning pakuvad teile ja mängujuhile raamistikku uute oskuste loomiseks. Oskuste kategooriad seovad teie tegelase oskustasemed nende mõjukaimate omaduste skooridega läbi kategooriaboonuste, mis on vabatahtlik süsteem.
+Oskuste kategooriad on üldsuunised oskuse abil teostatavate tegevuste liikide jaoks, pakkudes samas raamistikku uute oskuste loomiseks nii teile kui ka mängujuhile. Oskuste kategooriad seovad teie tegelase oskustasemed nende kõige mõjukamate karakteristikute skooridega läbi kategooriaboonuste (valikuline süsteem).
 
 ### Uued oskused
 
-Tegelase lehe oskuste jaotises on tühjad read. Need on mõeldud uute oskuste jaoks, mida teie või mängujuht võite luua. Näiteks *Neljas peatükk: Võimed* tutvustab vabatahtlikku uut oskust nimega Projektsioon, mida kasutatakse koos paljude võimetega. Võite uue oskuse välja pakkuda ja määratleda, kuid ainult mängujuht saab lubada selle kasutamist teie mängus.
+Tegelase lehe oskuste jaotises on tühjad read. Need on mõeldud uute oskuste jaoks, mida teie või mängujuht võite luua. Näiteks *Neljas peatükk: Võimed* tutvustab valikulist uut oskust nimega Projektsioon, mida kasutatakse koos paljude võimetega. Võite soovitada ja määratleda uue oskuse, kuid ainult mängujuht saab lubada selle kasutamist teie mängus.
 
-### Oskuste loetelu muutmine
+### Oskuste loendi muutmine
 
-Nii lihtsalt, kui teie ja mängujuht saate luua uusi oskusi, saate oskusi ümber nimetada, et need vastaksid konkreetsele keskkonnale. Näiteks võib peenmanipulatsiooni ümber nimetada seadmete käsitsemiseks või luku muukimiseks keskaegse või fantaasiakeskkonna jaoks. Teie mängujuht võib samuti otsustada teatud oskused üldse kõrvaldada, kui need ei sobi tema mängustiiliga. On tungivalt soovitatav, et kõik sellised muudatused otsustataks enne tegelase loomist ja tehtaks selgeks, et te ei valiks oskusi, mida mängujuht võib välistada või muuta.
+Nii nagu saate koos mängujuhiga luua uusi oskusi, saate ka oskusi ümber nimetada, et need sobiksid konkreetse olustikuga. Näiteks Peenmanipulatsiooni võib keskaegses või fantaasiakeskkonnas ümber nimetada kui Meisterdamine või Lukuavamine. Teie mängujuht võib samuti otsustada teatud oskused täielikult kõrvaldada, kui need ei sobi tema mängustiiliga. On tungivalt soovitatav, et kõik sellised muudatused määratletaks enne tegelase loomist ja tehtaks selgeks, et te ei valiks oskusi, mille mängujuht võib välistada või muuta.
 
-> ### Oskuste kategooriaboonused
->
-> Nagu on kirjeldatud jaotises **Oskuste kategooriaboonused**, saab teie tegelane oskuste kategooriatele boonust või karistust vastavalt oma omaduste skooridele. Rakendage kategooriaboonust igale selle kategooria oskusele, lisaks loetletud baasvõimalusele, kui see on oskuse kirjelduses toodud. Formulaaride kohta, mida kasutatakse oskuste kategooriaboonuste arvutamiseks, vt **Oskuste kategooriaboonuste tabelit**.
+> ### Oskuste kategooria boonused
+> 
+> Nagu on kirjeldatud jaotises **Oskuste kategooria boonused**, saab teie tegelane oskuste kategooriate puhul boonuse või karistuse, lähtudes oma karakteristikute skooridest. Rakendage kategooriaboonust igale selle kategooria oskusele, lisaks loetletud baasvõimalusele, nagu on kirjas oskuse kirjelduses. Vaadake **Oskuste kategooria boonuste tabelit**, et näha valemeid, mida kasutatakse oskuste kategooria boonuste arvutamiseks.
 
 ## Baasvõimalused
 
-Enamik mõistlikult terveid ja füüsiliselt heas vormis inimesi oskab nuiaga vehkida, puu otsa ronida või oma emakeeles rääkida. Seetõttu on igal oskusel sellega seotud baasvõimalus: eeldatakse, et teie tegelasel on see oskuse baastase enne mis tahes täiendavate oskuspunktide lisamist. Kui kasutatakse oskuste kategooriaboonuseid (vt **Oskuste kategooriaboonused**), lisage (või lahutage) need iga oskuse baasvõimalusest.
+Enamik mõistlikult terveid ja füüsiliselt heas vormis inimesi oskab nuiaga vehkida, puu otsa ronida või oma emakeelt rääkida. Seetõttu on igal oskusel sellega seotud baasvõimalus: eeldatakse, et teie tegelasel on see põhitase oskuses olemas enne täiendavate oskuspunktide lisamist. Kui kasutatakse oskuste kategooria boonuseid (vaadake **Oskuste kategooria boonused**), lisage (või lahutage) need iga oskuse baasvõimalusest.
 
-Oskuse baasvõimalus sõltub suuresti kampaania ajastust: keskaegse Euroopa kampaanias olevatel tegelastel on kõrgemad baastasemed teadmiste (religioon) alal kui tänapäeva USA kodanikel, samas kui USA kodanikel võib olla eelis meditsiinilistes oskustes tänu elementaarsele esmaabiõppele avalikes koolides ja töökohal. Iga oskuse kirjeldus loetleb vastavalt vajadusele mitmeid baasvõimalusi erinevate ajastute jaoks. Mängujuht peaks tundma end vabalt oskuste baasvõimaluste muutmiseks vastavalt erinevatele seadetele.
+Oskuse baasvõimalus sõltub suuresti kampaania ajastust: keskaegse Euroopa kampaanias osalevatel tegelastel on kõrgemad baastasemed Teadmised (Religioon) kui kaasaegsetel USA kodanikel, samas kui USA kodanikel võib olla eelis Meditsiinilistes oskustes tänu avalikes koolides ja töökohas antavale esmaabiväljaõppele. Iga oskuse kirjeldus loetleb vastavalt mitu baasvõimalust erinevate ajastute jaoks. Mängujuht peaks tundma vabadust muuta oskuste baasvõimalusi vastavalt erinevatele olustikele.
 
 > #### Tegutsemine ilma oskuseta
->
-> Mõnikord peab teie tegelane proovima tegevust, kasutades oskust ilma igasuguse oskustaseta (0%). Kui mängujuht nõustub, et ülesande õnnestumine on võimalik, tehke veeremine ühe järgmise valiku abil:
->
-> * **Oskuste kategooriaboonus:** Kui kasutate vabatahtlikku oskuste kategooria süsteemi, kasutage baasvõimalusena oskuste kategooria modifikaatorit. Toores talent võib mõnikord ületada väljaõppe puudumist. Kui see õnnestub ja oskust saab kogemustega täiendada, tuleks teha kogemuste kontroll.
->
-> * **Metsik võimalus:** Proovige, kuid ainult 1% edukuse tõenäosusega või viimase võimaluse „päästeingli“ pingutusena POW×1, kui pime õnn võib olla tegur, mängujuhi heakskiidul. Selle eest ei lubata kogemuste kontrolli, kuna see on pime õnn võrreldes mis tahes oskuse või loomuliku andega.
+> 
+> Mõnikord peab teie tegelane proovima tegevust, kasutades oskust, milles tal puudub tase (0%). Kui mängujuht nõustub, et ülesande õnnestumine on võimalik, tehke vise, kasutades ühte neist võimalustest:
+> 
+> * **Oskuste kategooria boonus:** Kui kasutate valikulist oskuste kategooria süsteemi, kasutage baasvõimalusena oskuste kategooria modifikaatorit. Toores talent suudab mõnikord ületada väljaõppe puudumist. Kui vise õnnestub ja oskust saab kogemuste kaudu parandada, tuleks teha kogemuste kontrollimine.
+> 
+> * **Metsik juhus:** Proovige, kuid ainult 1% eduvõimalusega või viimase võimalusena "Hail Mary" pingutusena VÄG×1, kui pime õnn võib olla teguriks (mängujuhi heakskiidul). Selle eest kogemuste kontrollimist ei lubata, kuna see on pime õnn, mitte mingi oskus või loomulik talent.
 
 ### Oskustasemete mõõtmine
 
-Teie tegelase oskustasemed määravad nende võimekuse mängu ajal. Kuid mida tähendab antud oskustase üldisemalt? Kasutage juhistena järgmisi põhimõtteid. Teatud oskusastmete juures ja mitte-kriitilistes või mitte-dramaatilistes olukordades ei pruugi veeremist isegi vaja minna — rutiinsetes tingimustes saavad teatud tasemel pädevusega tegelased neid oskusi regulaarselt sooritada ilma veeremise vajaduseta, ehkki *automaatne* õnnestumine ei vääri kogemuste kontrolli.
+Teie tegelase oskustasemed määratlevad nende võimekuse mängu ajal. Kuid mida tähendab antud oskustase üldisemas mõttes? Kasutage järgmisi juhiseid vilumuse hindamiseks. Teatud oskuste tasemetel ja mitte-kriitilistes või mitte-dramaatilistes olukordades ei pruugi viset isegi vaja minna—rutiinsetes tingimustes saavad teatud pädevustasemega tegelased neid oskusi regulaarselt sooritada ilma, et oleks vaja edu nimel veeretada, kuigi *Automaatne* edu ei vääri kogemuste kontrollimist.
 
 ##### Oskustasemete tabel
 
 | Oskustase | Pädevus | Kirjeldus |
 | :---- | :---- | :---- |
-| 00–05% | Algaja | Täielik asjaarmastaja, kellel on vähe lootust õnnestuda isegi lihtsate ülesannete puhul. Peaksite veerema iga kord, kui teie tegelane seda oskust proovib, olgu stressirohkes olukorras või ideaalsetes tingimustes. |
-| 06–25% | Neofüüt | Kas algaja või omab vähesel määral teadmisi käsilolevast teemast. Nagu öeldakse, „teab piisavalt, et olla ohtlik“. Õnnestub aeg-ajalt ja võib selle tulemusel muutuda liiga enesekindlaks. Veerige alati, kui teie tegelane seda oskust proovib, isegi kui ülesanne on lihtne. |
-| 26–50% | Asjaarmastaja | Natuke annet, mingi väljaõpe või hobi tasemel nokitsemine. Teie tegelane on vaevalt kvalifitseeritud, kuid talle võib usaldada automaatseid või lihtsaid ülesandeid. Mittestressirohketes olukordades saab teie tegelane rutiinseid tegevusi selle oskusega sooritada ilma veeremise vajaduseta. |
-| 51–75% | Professionaal | 51% juures saab teie tegelane selle oskuse abil usaldusväärselt elatist teenida. Tavaliselt ei pea nad muretsema lihtsate ülesannete ebaõnnestumise pärast ning on piisavalt kogenud või vilunud, et tegutseda teiste juhi või juhina. 51% on ligikaudu võrdne bakalaureusekraadiga konkreetses distsipliinis. Enamikku oskusi ei saa ainult hariduse või väljaõppe abil üle 75% tõsta: teie tegelane peab edasi liikuma praktilise kasutamise kaudu. Teie tegelane suudab tavaliselt sooritada rutiinseid või isegi keerukaid oskusega seotud tegevusi ja veeremine on nõutav ainult siis, kui on olemas riskielement või kui ebaõnnestumise võimalus on dramaatiline. |
-| 76–90% | Ekspert | Kõrgetasemeline ekspertiis antud valdkonnas: teie tegelasel on mõistlik võimalus õnnestuda isegi rasketes ülesannetes. Ainult pühendunud professionaalid saavutavad sellise meisterlikkuse antud oskuses ning neid, kes seda teevad, austatakse ja neile toetutakse nende ekspertiisi tõttu. Selles vahemikus olevad oskused vastavad kõrgharidusele (magister või doktor) või paljudele aastatele kogemusele. Enamik keskmisi tegelasi ei saa alustada mängu ühegi oskusega üle 75%. Teie tegelane peaks suutma rutiinsetes olukordades selle oskusega seotud keerukaid ja väljakutsuvaid tegevusi sooritada ilma veeremata, eeldades, et nad võtavad aega ja neil on olemas nõuetekohased vahendid ja/või seadmed. |
-| 91% või rohkem | Meister | Vähesed saavutavad sellise meisterlikkuse taseme. Ainult kõige raskemad ülesanded on väljaspool nende võimeid ja nende ekspertiis on tõenäoliselt teinud nendest meistritest kuulsad oma valdkonnas ja mõnikord maailmas üldiselt. Rutiinsetes olukordades suudab teie tegelane sooritada peaaegu imesid ja harva on vaja täringuid veeretada, välja arvatud kõige raskemate ülesannete puhul või kohutavates olukordades. Kui kampaanias kasutatakse vabatahtlikke vaimse tervise reegleid, taastab 91% taseme saavutamine oskuses koheselt 2D6 vaimse tervise punkti, mis esindab oskuse omandamisega seotud enesekindlust ja distsipliini (see on ühekordne boonus). Kui teie tegelane alustab selle või kõrgema oskustasemega, vaimse tervise kasvu ei toimu. |
+| 00–05% | Algaja | Täielik asjaarmastaja, kellel on vähe lootust õnnestuda isegi Lihtsate ülesannete puhul. Peaksite veerema iga kord, kui teie tegelane seda oskust proovib, olgu see siis pingelises olukorras või ideaalsetes tingimustes. |
+| 06–25% | Neofüüt | Kas algaja või väheste teadmistega antud teemast. Nagu öeldakse: „Teab piisavalt, et olla ohtlik.” Õnnestub vahel ja võib selle tulemusena muutuda ülienesekindlaks. Veeretage alati, kui teie tegelane seda oskust proovib, isegi kui ülesanne on Lihtne. |
+| 26–50% | Amatöör | Natuke annet, mingi väljaõpe või hobi tasemel nokitsemine. Teie tegelane on vaevu kvalifitseeritud, kuid talle võib usaldada Automaatseid või Lihtsaid ülesandeid. Mittepingelistes olukordades saab teie tegelane teha rutiinseid tegevusi seda oskust kasutades ilma vajaduseta veeretada. |
+| 51–75% | Professionaal | 51% tasemel suudab teie tegelane oskust kasutades usaldusväärselt elatist teenida. Nad ei pea tavaliselt muretsema Lihtsate ülesannete ebaõnnestumise pärast ning on piisavalt kogenud või vilunud, et olla teiste juht või mänedžer. 51% on ligikaudu võrdne bakalaureusekraadiga konkreetses distsipliinis. Enamikku oskusi ei saa ainult hariduse või väljaõppe kaudu tõsta üle 75%: teie tegelane peab edasi arenema praktilise kasutamise kaudu. Teie tegelane saab tavaliselt teha rutiinseid või isegi keerulisi oskusega seotud tegevusi ja veeretama peate vaid siis, kui on olemas riskielement või kui ebaõnnestumise võimalus on dramaatiline. |
+| 76–90% | Ekspert | Arenenud ekspertiis antud valdkonnas: teie tegelasel on mõistlik võimalus õnnestuda isegi Raskete ülesannete puhul. Ainult pühendunud professionaalid saavutavad sellise oskuslikkuse ja need, kes seda teevad, on austatud ning neile loodetakse nende ekspertiisi tõttu. Selles vahemikus olevad oskused vastavad kõrgemale kraadile (magister või doktor) või paljudele aastatele kogemustele. Enamik keskmisi tegelasi ei saa mängu alustada ühegi oskusega, mis on kõrgem kui 75%. Teie tegelane peaks suutma rutiinsetes olukordades selle oskusega seotud keerulisi ja väljakutsuvaid tegevusi sooritada ilma veeretamata, eeldades, et nad võtavad aega ja neil on olemas nõuetekohased vahendid ja/või varustus. |
+| 91% või kõrgem | Meister | Vähesed saavutavad selle meisterlikkuse taseme. Ainult kõige raskemad ülesanded on väljaspool nende võimeid ja nende ekspertiis on tõenäoliselt teinud need meistrid kuulsaks oma valdkonnas ja mõnikord maailmas laiemalt. Rutiinsetes olukordades suudab teie tegelane teha imesid ja te peate täringuid veeretama harva, välja arvatud kõige raskemate ülesannete puhul või rasketes oludes. Kui kampaanias kasutatakse valikulisi Vaimse tervise reegleid, taastab oskuse 91% taseme saavutamine koheselt 2D6 VTR punkti, esindades enesekindlust ja distsipliini, mis on seotud oskuse valdamisega (see on ühekordne boonus). Kui teie tegelane alustab selle oskustasemega või kõrgemaga, VTR-i juurdekasvu ei toimu. |
 
 ### Oskustasemed üle 100%
 
-Teie tegelase kogemuste boonus võimaldab tõsta oskustasemeid üle 100%. Üle 100% ulatuvad oskused kasutavad standardseid süsteeme erakordsete või kriitiliste õnnestumiste tõenäosuse arvutamiseks, pakkudes samuti paremaid võimalusi õnnestumiseks rasketes ülesannetes või negatiivsete olukorrast tulenevate modifikaatorite korral. Lisaks, kui teie tegelasel on võitlusoskus üle 100%, saab ta võitlusvoorus teha mitu rünnakut, nagu on kirjeldatud jaotises **Rünnakud ja tõrjumised üle 100%**.
+Teie tegelase kogemusteboonus võimaldab tõsta oskustasemeid üle 100%. Üle 100% oskuste puhul kasutatakse standardseid süsteeme eriliste või kriitiliste õnnestumiste arvutamiseks, samuti pakuvad need paremaid võimalusi Raskete ülesannete puhul või negatiivsete asjaoludest tulenevate modifikaatorite korral. Lisaks, kui teie tegelasel on võitlusoskus üle 100%, saab ta teha mitu rünnakut ühes lahinguvoorus, nagu on kirjeldatud jaotises **Rünnakud ja tõrjumised üle 100%**.
 
-### Oskuste loetelu kategooriate kaupa
+### Oskuste loend kategooriate kaupa
 
-Järgneb terviklik oskuste loetelu kategooriate kaupa jaotatuna.
+Järgneb täielik oskuste loend jaotatuna kategooriate kaupa.
 
-| Võitlus | Suhtlus | Manipulatsioon | Vaimne |
+| Võitlus | Suhtlus | Manipulatsioon | Vaimsed |
 | :---- | :---- | :---- | :---- |
-| Suurtükivägi (erinevad) | Kaubelda | Kunst (erinevad) | Hinnata |
-| Kaklus | Käsutada | Käsitöö (erinevad) | Esmaabi |
-| Energiarelv (erinevad) | Maskeering | Lammutamine | Mängimine |
+| Suurtükivägi (erinevad) | Kauplemine | Kunst (erinevad) | Hindamine |
+| Kähmlus | Käsklus | Käsitöö (erinevad) | Esmaabi |
+| Energiarelv (erinevad) | Maskeerumine | Demolitsioon | Mängurlus |
 | Tulirelv (erinevad) | Etikett (erinevad) | Peenmanipulatsioon | Teadmised (erinevad) |
-| Maadlus | Kiirkõne | Rasketehnika (erinevad) | Kirjaoskus (vabatahtlik) |
-| Raskerelv (erinevad) | Esineda | Remont (erinevad) | Meditsiin |
-| Võitluskunstid | Veenda | Osavus | Psühhoteraapia |
-| Lähivõitlusrelv (erinevad) | Staatus | | Teadus (erinevad) |
-| Kaugvõitlusrelv (erinevad) | Õpetada | | Strateegia |
-| Tõrjuda (erinevad) | | | Tehniline oskus (erinevad) |
-| Kilp | | | |
+| Maadlus | Sorav jutt | Rasketehnika (erinevad) | Kirjaoskus (valikuline) |
+| Raskerelv (erinevad) | Keel (erinevad) | Remont (erinevad) | Meditsiin |
+| Võitluskunstid | Esitamine | Osavus | Psühhoteraapia |
+| Lähivõitlusrelv (erinevad) | Veenmine |  | Teadus (erinevad) |
+| Kaugvõitlusrelv (erinevad) | Staatus |  | Strateegia |
+| Tõrjumine (erinevad) | Õpetamine |  | Tehniline oskus (erinevad) |
+| Kilp |  |  |  |
 
-| Taju | Füüsiline | Füüsiline |
+| Taju | Füüsilised | Füüsilised |
 | :---- | :---- | :---- |
-| Taiplikkus | Ronida | Projektsioon |
-| Kuulda | Põigelda | Ratsutada (erinevad) |
-| Navigeerida | Sõita (erinevad) | Hiilida |
-| Uurida | Lennata | Ujuda |
-| Tunnetada | Peituda | Visata |
-| Märgata | Hüpata | |
-| Jälitada | Piloteerida (erinevad) | |
+| Sisekaemus | Ronimine | Projektsioon |
+| Kuulamine | Põiklemine | Ratsutamine (erinevad) |
+| Navigeerimine | Sõiduki juhtimine (erinevad) | Hiilimine |
+| Uurimine | Lendamine | Ujumine |
+| Taju | Peitmine | Viskamine |
+| Märkamine | Hüppamine |  |
+| Jälitamine | Piloteerimine (erinevad) |  |### Tähestikuline oskuste nimekiri
 
-### Tähestikuline oskuste loetelu
-
-Järgneb selle jaotise kõigi oskuste tähestikuline loetelu. Iga kirje loetleb oskuse kategooria ja baasvõimaluse.
+Järgneb kõigi selle jaotise oskuste tähestikuline nimekiri. Iga kirje loetleb oskuse kategooria ja selle baastõenäosuse.
 
 | Oskus | Kategooria | Baas % |
 | :---- | :---- | :---- |
-| Hinnata | Vaimne | 15% |
+| Hindamine | Vaimne | 15% |
 | Kunst (erinevad) | Manipulatsioon | 05% |
 | Suurtükivägi (erinevad) | Võitlus | vastavalt relva erialale |
-| Kaubelda | Suhtlus | 05% |
-| Kaklus | Võitlus | 25% |
-| Ronida | Füüsiline | 40% |
-| Käsutada | Suhtlus | 05% |
+| Kauplemine | Suhtlus | 05% |
+| Kähmlus | Võitlus | 25% |
+| Ronimine | Füüsiline | 40% |
+| Käskimine | Suhtlus | 05% |
 | Käsitöö (erinevad) | Manipulatsioon | 05% |
 | Lammutamine | Manipulatsioon | 01% |
-| Maskeering | Suhtlus | 01% |
-| Põigelda | Füüsiline | DEX×2 |
-| Sõita (erinevad) | Füüsiline | 20% või 01% |
+| Maskeerimine | Suhtlus | 01% |
+| Põiklemine | Füüsiline | OSA×2 |
+| Sõiduki juhtimine (erinevad) | Füüsiline | 20% või 01% |
 | Energiarelv (erinevad) | Võitlus | vastavalt relva erialale |
 | Etikett (erinevad) | Suhtlus | 05% |
 | Kiirkõne | Suhtlus | 05% |
 | Peenmanipulatsioon | Manipulatsioon | 05% |
 | Tulirelv (erinevad) | Võitlus | vastavalt relva erialale |
 | Esmaabi | Vaimne | 30% |
-| Lennata | Füüsiline | DEXx4 või 1/2 DEX |
-| Mängimine | Vaimne | INT+POW |
+| Lendamine | Füüsiline | OSAx4 või 1/2 OSA |
+| Mängimine | Vaimne | INT+VÄG |
 | Maadlus | Võitlus | 25% |
 | Rasketehnika (erinevad) | Manipulatsioon | 01% |
 | Raskerelv (erinevad) | Võitlus | vastavalt relva erialale |
-| Peituda | Füüsiline | 10% |
+| Peitumine | Füüsiline | 10% |
 | Taiplikkus | Taju | 05% |
-| Hüpata | Füüsiline | 25% |
+| Hüppamine | Füüsiline | 25% |
 | Teadmised (erinevad) | Vaimne | 05% või 00% |
-| Keel (erinevad) | Suhtlus | INT (või EDU)×5 või 00% |
-| Kuulda | Taju | 25% |
-| Kirjaoskus (vabatahtlik) | Vaimne | 00% või võrdne keelega |
+| Keel (erinevad) | Suhtlus | INT (või HAR)×5 või 00% |
+| Kuulamine | Taju | 25% |
+| Kirjaoskus (valikuline) | Vaimne | 00% või võrdne Keelega |
 | Võitluskunstid | Võitlus | 01% |
 | Meditsiin | Vaimne | 05% |
 | Lähivõitlusrelv (erinevad) | Võitlus | vastavalt relva erialale |
 | Kaugvõitlusrelv (erinevad) | Võitlus | vastavalt relva erialale |
-| Navigeerida | Taju | 10% |
-| Tõrjuda (erinevad) | Võitlus | vastavalt relva erialale |
-| Esineda | Suhtlus | 05% |
-| Veenda | Suhtlus | 15% |
-| Piloteerida (erinevad) | Füüsiline | 01% |
-| Projektsioon | Füüsiline | DEX×2 |
+| Navigeerimine | Taju | 10% |
+| Tõrjumine (erinevad) | Võitlus | vastavalt relva erialale |
+| Esinemine | Suhtlus | 05% |
+| Veenmine | Suhtlus | 15% |
+| Piloteerimine (erinevad) | Füüsiline | 01% |
+| Projitseerimine | Füüsiline | OSA×2 |
 | Psühhoteraapia | Vaimne | 01% või 00% |
 | Remont (erinevad) | Manipulatsioon | 15% |
-| Uurida | Taju | 25% |
-| Ratsutada (erinevad) | Füüsiline | 05% |
+| Uurimine | Taju | 25% |
+| Ratsutamine (erinevad) | Füüsiline | 05% |
 | Teadus (erinevad) | Vaimne | 01% |
-| Tunnetada | Taju | 10% |
-| Kilp | Võitlus | vastavalt kilbi tüübile |
-| Osavus | Manipulatsioon | 05% |
-| Märgata | Taju | 25% |
-| Staatus | Suhtlus | 15% või erinevad |
-| Hiilida | Füüsiline | 10% |
+| Tajumine | Taju | 10% |
+| Kilp | Võitlus | vastavalt kilbile |
+| Käteosavus | Manipulatsioon | 05% |
+| Märkamine | Taju | 25% |
+| Staatus | Suhtlus | 15% või erinev |
+| Hiilimine | Füüsiline | 10% |
 | Strateegia | Vaimne | 01% |
-| Ujuda | Füüsiline | 25% |
-| Õpetada | Suhtlus | 10% |
+| Ujumine | Füüsiline | 25% |
+| Õpetamine | Suhtlus | 10% |
 | Tehniline oskus (erinevad) | Vaimne | 05% |
-| Visata | Füüsiline | 25% |
-| Jälitada | Taju | 10% |
+| Viskamine | Füüsiline | 25% |
+| Jälitamine | Taju | 10% |
 
 > ### Võimendused ja täiendavad oskused
->
-> Mõned oskused on tihedalt seotud teistega ja ekspertiis ühes valdkonnas võib teisele kasuks tulla. Mängujuhi loal võib teie tegelane ajutiselt lisada 1/5 oma **täiendava oskuse** tasemest teise oskuse tasemele oskuste veeremiste puhul. Paljud täiendavad kasutusviisid on märgitud järgnevates oskuste kirjeldustes. Teie ja teised mängijad loovad kahtlemata rohkem.
->
-> Iga antud veeremise abistamiseks võib ühe oskuse puhul kasutada ainult ühte täiendavat oskust. Kui kohaldatavaid oskusi võib olla mitu või neid kasutatakse selle boonuse saamiseks, siis eelised ei summeeru – mängija ja mängujuht peaksid valima kõrgeima boonuse või selle, mis on antud olukorras kõige sobivam.
->
-> Kui peamine oskuse veeremine õnnestub, saab teie tegelane kogemuste kontrolli ainult peamise oskuse, mitte kasutatud täiendava oskuse puhul.
->
-> Näiteks *teie tegelasel on Meditsiini oskus 65% ja Teadus (Farmaatsia) 40%. Ta üritab haiget patsienti ravida. Kuni teie tegelasel on piisavalt meditsiinitarbeid ja ravimeid, saab ta lisada 8% (1/5 oma Teaduse (Farmaatsia) tasemest) Meditsiini oskuse tasemele, saades muudetud tasemeks 73%. Teie tegelane ei saa Farmaatsia boonuse peale lisada 1/5 oma Esmaabi või Teaduse (Bioloogia) oskusest. Sel juhul otsustab mängujuht, et Teadus (Farmaatsia) oskus on boonuse jaoks kõige sobivam.*
->
-> Oskuse **võimendamine** on sarnane, kuid töötab veidi teistmoodi. Kui mängujuht seda lubab, võite proovida ühe täiendava oskuse veeremist, et toetada või võimendada teist peamist oskuse veeremist.
->
-> * Kui võimendava oskuse veeremine õnnestub, võite kohandada peamise oskuse raskusastet ühe astme võrra, näiteks muutes *raske* veeremise *keskmiseks* või *keskmise* ülesande *lihtsaks*.
->
-> * Seda ei saa teha samaaegselt täiendava oskuse boonusega ja võimalik on ainult üheastmeline kohandamine.
->
-> * Kui võimendus ebaõnnestub, kohandatakse peamist oskust ühe astme võrra vastupidises suunas, näiteks muutub *tavaline* oskus segaduse või vastuolulise teabe tõttu *raskeks*.
->
-> * Kui võimendava oskuse veeremine õnnestub, võite seda kogemuste osas kontrollida nagu tavaliselt, samuti peamist oskust. Kui peamine veeremine ebaõnnestub, siis võimendav oskus kogemuste kontrolli ei saa.
->
-> Te ei saa sama oskuse veeremise jaoks samaaegselt võimendada oskust ja kasutada täiendava oskuse boonust.
+> 
+> Mõned oskused on teistega tihedalt seotud ning ekspertiis ühes valdkonnas võib tulla kasuks teises. Mängujuhi loal võib teie tegelane ajutiselt lisada 1/5 oma **täiendava oskuse** väärtusest teise oskuse väärtusele oskuste kontrollimisel. Paljud täiendavad kasutusvõimalused on märgitud järgnevates oskuste kirjeldustes. Teie ja teised mängijad leiate kahtlemata veelgi rohkem võimalusi.
+> 
+> Iga antud veeretuse abistamiseks võib ühe oskuse puhul kasutada ainult ühte täiendavat oskust. Kui mitu oskust võivad olla kohaldatavad või neid kasutatakse selle boonuse saamiseks, siis eelised ei summeeru – mängija ja mängujuht peaksid valima kõrgeima kasutatava boonuse või selle, mis on antud olukorda silmas pidades kõige sobivam.
+> 
+> Kui peamise oskuse veeretamine on edukas, saab teie tegelane kogemuskontrolli ainult peamisele oskusele, mitte kasutatud täiendavale oskusele.
+> 
+> Näiteks, *teie tegelasel on Meditsiini oskus 65% ja Teadus (Farmaatsia) 40%. Ta üritab haiget patsienti ravida. Kuni teie tegelasel on piisavalt meditsiinitarbeid ja ravimeid, saab ta lisada 8% (1/5 oma Teadus (Farmaatsia) tasemest) Meditsiini oskuse tasemele, saades muudetud tasemeks 73%. Teie tegelane ei saa lisada 1/5 oma Esmaabi või Teadus (Bioloogia) oskusest Farmaatsia boonuse peale. Sel juhul otsustab mängujuht, et Teadus (Farmaatsia) oskus on boonuse jaoks kõige sobivam.*
+> 
+> Oskuse **võimendus** on sarnane, kuid toimib veidi teistmoodi. Kui mängujuht seda lubab, võite proovida ühe täiendava oskuse veeretamist, et toetada või võimendada teist peamise oskuse veeretust.
+> 
+> * Kui võimendava oskuse veeretamine on edukas, võite kohandada peamise oskuse raskusastet ühe astme võrra, näiteks muutes *Raske* veeretuse *Keskmiseks* või *Keskmise* ülesande *Lihtsaks*.
+> 
+> * Seda ei saa teha samaaegselt täiendava oskuse boonusega ja võimalik on vaid üheastmeline kohandamine.
+> 
+> * Kui võimendus ebaõnnestub, kohandatakse peamist oskust ühe astme võrra vastupidises suunas, näiteks *Tavaline* oskus muutub *Raskeks* segaduse või vastuolulise teabe tõttu.
+> 
+> * Kui võimendava oskuse veeretamine on edukas, võite seda kogemuse jaoks kontrollida nagu tavaliselt, samuti peamist oskust. Kui peamine veeretamine ebaõnnestub, ei saa võimendav oskus kogemuskontrolli.
+> 
+> Te ei saa samaaegselt võimendada oskust ja kasutada täiendava oskuse boonust ühe ja sama oskuse veeretuse jaoks.
+
 
 > ### Edu tulemuste kirjeldamine
->
-> Üldiselt on oskuste veeremiste tulemused ilmsed, kuid kahtluse korral kasutage tulemuste kindlaksmääramisel järgmisi põhimõtteid:
->
-> * **Äpardus (fumble)** tähendab tavaliselt, et saavutati soovitud tulemuse vastand, pakkudes eksitavat teavet, luues mingisuguse tagasilöögi või seades tegelase ebasoodsasse olukorda.
->
-> * **Ebaõnnestumine** tähendab, et soovitud tulemust ei saavutata.
->
-> * Tavaline **õnnestumine** tähendab, et mõistlik ja keskmine eesmärk on saavutatud. Mängujuht on tulemuste ülim kohtunik, kuid mõju peaks olema ilmne.
->
-> * **Erakordsel õnnestumisel** on tavaõnnestumisega võrreldes kahekordne tõhusus ja/või see annab teema kohta täiendavat teavet.
->
-> * **Kriitilisel õnnestumisel** on tavaõnnestumisega võrreldes kolmekordne tõhusus ja/või see annab teema kohta märkimisväärset teavet.
->
+> 
+> Üldiselt on oskuste veeretuste tulemused ilmsed, kuid kahtluse korral kasutage tulemuste määramisel järgmisi juhiseid:
+> 
+> * **Koperdamine** tähendab tavaliselt, et saavutati soovitud tulemuse vastand, pakkudes eksitavat teavet, tekitades mingi tagasilöögi või seades tegelase koguni ebasoodsasse olukorda.
+> 
+> * **Ebaõnnestumine** tähendab, et soovitud tulemust ei saavutatud.
+> 
+> * Tavaline **edu** tähendab, et mõistlik ja keskmine eesmärk on saavutatud. Mängujuht on tulemuste lõplik kohtunik, kuid mõju peaks olema ilmne.
+> 
+> * **Eriedu** puhul on tõhusus kahekordne ja/või see annab teema kohta lisateavet.
+> 
+> * **Kriitiline edu** on kolmekordse tõhususega ja/või annab teema kohta märkimisväärset teavet.
+> 
 > Nagu eespool märgitud, on oskustel, kus tulemused on väga spetsiifilised ja kus on vaja üksikasju, säilinud määratletud tulemus.
 
 ## Oskuste kirjeldused
 
-Järgneb põhjalik, tähestikuline oskuste loetelu. Iga kirje sisaldab järgmist teavet:
+Järgneb terviklik, tähestikuline oskuste nimekiri. Iga kirje sisaldab järgmist teavet:
 
-* **Oskuse nimi:** Oskuse nimi.
-* **Baasvõimalus:** Oskustase, mis kõigil tegelastel on, vajadusel ajastuti spetsialiseeritud.
-* **Kategooria:** Oskuse kategooria, kuhu see kuulub üldise klassifitseerimise ja vabatahtlike kategooriaboonuste eesmärgil.
-* **Kirjeldus:** Lühike kirjeldus tegevustest, mida saab oskuse abil sooritada.
-* **Erialad:** Oskuse eristuvate erialade loetelu, kui neid on. Mitte kõik erialadega oskused ei ole täpploetelus lahti kirjutatud – detailsemalt on käsitletud ainult neid, mis on mehaanilisemad, näiteks võitlusoskused.
-* **Mõjud:** Oskuse veeremise tulemused iga õnnestumise astme puhul, kus see on vajalik. Lühidalt: oskuse tulemuseks on äpardus (halvim võimalik tulemus, tavaliselt 99 või 00), ebaõnnestumine (veeremine üle oskustaseme), õnnestumine (alla oskustaseme), erakordne õnnestumine (1/5 või vähem oskustasemest) või kriitiline õnnestumine (1/20 oskustasemest). *Viies peatükk: Süsteem* selgitab seda üksikasjalikult. Vt ka külgriba "Edu tulemuste kirjeldamine".
-* **Seadete märkused:** Lisateave oskuse kohta erinevates seadetes. Kui seda kirjet pole, töötab oskus peaaegu igas seades muutmata kujul.
-* **Süsteemi märkused:** Asjakohased reeglid või süsteemid, kui neid on.
+* **Oskuse nimi:** Oskuse nimetus.
+* **Baastõenäosus:** Oskuse tase, mis on kõigil tegelastel, vajadusel ajastuti spetsialiseeritud.
+* **Kategooria:** Oskuse kategooria, üldise klassifikatsiooni ja valikuliste kategooriaboonuste jaoks.
+* **Kirjeldus:** Lühikirjeldus ülesannetest, mida selle oskusega saab täita.
+* **Erialad:** Oskuse eristuvate erialade loetelu, kui neid on. Mitte kõik erialadega oskused ei ole punktidena lahti kirjutatud – detailsemalt on välja toodud vaid need, millel on mehaanilisem iseloom, näiteks võitlusoskused.
+* **Mõjud:** Oskuse veeretamise tulemused iga edukuse astme kohta, kus see on nõutav. Lühidalt: oskuse tulemuseks on koperdamine (halvim võimalik tulemus, tavaliselt 99 või 00), ebaõnnestumine (veeretus üle oskuse taseme), edu (alla oskuse taseme), eriedu (1/5 või vähem oskuse tasemest) või kriitiline edu (1/20 oskuse tasemest). Viies peatükk: Süsteem selgitab seda üksikasjalikult. Vaata ka kõrvalmärget Edu tulemuste kirjeldamine.
+* **Seadete märkmed:** Lisateave oskuse kohta erinevates seadetes. Kui seda kirjet pole, töötab oskus peaaegu igas seades muutumatult.
+* **Süsteemi märkmed:** Asjakohased reeglid või süsteemid, kui neid on.
 
-### Hinnata
+### Hindamine
 
-**Baasvõimalus:** 15%
+**Baastõenäosus:** 15%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust eseme väärtuse hindamiseks, olgu selleks vana maal, vääriskivi, relv või ratsahobune. Ebaõnnestumine tähendab, et neil pole aimugi, samas kui äpardus annab valet teavet. Erakordne või kriitiline õnnestumine annab täiendavat teavet.
+Kasutage seda oskust eseme väärtuse hindamiseks, olgu see vana maal, vääriskivi, relv või ratsahobune. Ebaõnnestumine tähendab, et tegelasel pole aimugi, samas kui koperdamine annab väärat teavet. Eri- või kriitiline edu annab lisateavet.
 
 ### Kunst (erinevad)
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Manipulatsioon
 
-Kasutage seda oskust kunstiteose loomiseks maalimises või skulptuuris või loo, luuletuse või muusikateose komponeerimiseks. Kriitiline või erakordne õnnestumine annab ajatu klassiku, millel on tunduvalt suurem väärtus ja prestiiž, ebaõnnestumine on keskpärane käsitöö ja äpardus võib kahjustada looja mainet. Näitlemise, tantsimise, laulmise või muusikariistal mängimise puhul kasutaksite oskust Esineda.
+Kasutage seda oskust kunstiteose loomiseks värvides või skulptuuris, või loo, luuletuse või muusikateose komponeerimiseks. Kriitiline või eriedu toob kaasa märkimisväärselt väärtuslikuma ja prestiižsema ajatu klassika, ebaõnnestumine on keskpärane käkerdis ja koperdamine võib kahjustada looja mainet. Näitlemise, tantsimise, laulmise või muusikariista mängimise puhul kasutage Esinemist.
 
 **Erialad:** Kalligraafia, komponeerimine, kontseptuaalkunst, digitaalkunst, joonistamine, maalimine, fotograafia, luule, skulptuur, visandamine, laulukirjutamine, kirjutamine jne.
 
-**Seadete märkused:** Kunst on universaalne, ehkki sellel võib olla ajastu- või seadepõhiseid erialasid.
+**Seadete märkmed:** Kunst on universaalne, kuigi sellel võib olla ajastu- või seadepõhiseid erialasid.
 
 ### Suurtükivägi (erinevad)
 
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust massiivsete välisuurtükkide ja raskete sõidukirelvade tulistamiseks, mis on põhimõtteliselt mis tahes relv, mis on ühe inimese jaoks liiga suur liigutamiseks või manööverdamiseks, nagu kahur, trebuchet või ballista.
+Kasutage seda oskust massiivsete välisuurtükkide ja raskete sõidukirelvade tulistamiseks, sisuliselt kõigi relvade puhul, mis on liiga suured, et üks inimene neid liigutaks või manööverdaks, nagu kahur, trebuchet või ballista.
 
-**Erialad:** Erialad on samaväärsed tüüpidega. Vt **Relvaklassid** *Kaheksandas peatükis: Varustus* suurtükiväe tüüpide kohta.
+**Erialad:** Erialad on samaväärsed tüüpidega. Vaata **Relvaklassid** kaheksandas peatükis: Varustus suurtükiväe tüüpide kohta.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Kaugvõitlusrelva äparduste tabel** konkreetsete mõjude kohta.
+**Mõjud:** Vaata **Rünnaku ja kaitse maatriksit** ja **Kaugvõitlusrelvade koperdamise tabelit** konkreetsete mõjude kohta.
 
-**Seadete märkused:** Sobib paljudele seadetele, ulatudes piiramismasinatest kuni tänapäevaste või futuristlike suurtükiväe- ja sõidukirelvadeni. Enamikus seadetes on selle oskuse õppimiseks vajalik sõjaline taust.
+**Seadete märkmed:** Sobib paljudesse seadetesse, alates piiramismasinatest kuni kaasaegse või futuristliku suurtükiväe ja sõidukirelvadeni. Enamikus seadetes on selle oskuse õppimiseks vajalik sõjaline taust.
 
-**Süsteemi märkused:** Paljud suured relvad nõuavad meeskonda; üksi nende kasutamine on Raske tegevus või võib olla Võimatu. Relvasüsteemi laadimiseks ja ettevalmistamiseks laskude vahel võib kuluda mitu vooru või isegi käiku. Paljud suured relvad kasutavad automaattuld või tulistavad lõhkeainet. Vt **Automaattuli** ja **Plahvatus**. Kõik lasud lähevad kuhugi; mängujuht peaks otsustama, kuhu möödaläinud lõhkeaine- või energialasud tabavad.
+**Süsteemi märkmed:** Paljud suured relvad vajavad kasutamiseks meeskonda; üksi üritamine on Raske tegevus või võib olla Võimatu. Relvasüsteemi laadimiseks ja laskude vahel ettevalmistamiseks võib kuluda mitu vooru või isegi käiku. Paljud suured relvad kasutavad automaattuld või lasevad lõhkemoona. Vaata **Automaattuli** ja **Plahvatus**. Kõik lasud tabavad kuhugi; mängujuht peaks otsustama, kuhu möödaläinud lõhke- või energialasud tabavad.
 
-### Kaubelda
+### Kauplemine
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Suhtlus
 
-Kasutage seda oskust hindade üle kauplemiseks ja alati, kui läbirääkimistel ja kompromissides kohtuvad vastandlikud arvamused. Kasutage oluliste tehingute otsustamiseks vastandlikke oskuste veeremisi ja triviaalsete katsete (näiteks varustuse või majutuse pealt raha säästmise) puhul lihtsaid oskuste veeremisi. Kauplemine seisneb kompromissis: kasutage Kiirkõne või Veenda oskust vaidluste lahendamiseks, mis on absoluutselt võidetud või kaotatud. Äpardus võib muuta kaupmehe vaenlaseks, õnnestumine tähendab tehingu saamist ja paremad tulemused annavad suuremaid allahindlusi või soodsamaid tingimusi teie poolele.
+Kasutage seda oskust hindade üle tingimiseks ja alati, kui läbirääkimistel ja kompromisside tegemisel kohtuvad vastandlikud arvamused. Kasutage oluliste tehingute otsustamiseks vastandatud oskuste veeretusi ja lihtsate katsete puhul (näiteks varustuse või majutuse pealt raha kokkuhoidmiseks) lihtsaid oskuste veeretusi. Kauplemine on kompromiss: kasutage Kiirkõnet või Veenmist, et lahendada vaidlusi, mis on absoluutselt võidetud või kaotatud. Koperdamine võib muuta kaupmehe vaenlaseks, edu tähendab, et saate tehingu, ja paremad tulemused annavad teie poolele suuremaid allahindlusi või soodsamaid tingimusi.
 
-### Kaklus
+### Kähmlus
 
-**Baasvõimalus:** 25%
+**Baastõenäosus:** 25%
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust relvastamata võitluseks: jalalöögid, rusikalöögid, pealöögid jne.
+Kasutage seda oskust relvastamata võitluseks: jalalöögid, rusikahoobid, pealöögid jne.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Loomuliku relva rünnaku ja tõrjumise äparduste tabel**.
+**Mõjud:** Vaata **Rünnaku ja kaitse maatriksit** ja **Loomuliku rünnaku ja tõrjumise koperdamise tabelit**.
 
-**Süsteemi märkused:** Kaklust saab kasutada tõrjumiseks (vt Tõrjuda), kuid edukas tõrjumine tekitab minimaalse relvakahjustuse tõrjuvale käele või jalale, nagu asjakohane. Kakluse kasutamine vastase vastu, kes on teie tegelase haaranud (vt Maadlus), on Lihtne. Kasutatakse koos Võitluskunstidega ja *Neljanda peatüki: Võimed* loomuliku relva ja relvastamata võitluse võimetega.
+**Süsteemi märkmed:** Kähmlust saab kasutada tõrjumiseks (vaata Tõrjumine), kuid edukas tõrje tekitab tõrjuvale käele või jalale vastavalt miinimumkahjustuse. Kähmluse kasutamine vastase vastu, kes on teie tegelase haaranud (vaata Maadlus), on Lihtne. Kasutatakse koos Võitluskunstidega ning neljanda peatüki: Võimed Loomuliku rünnaku ja relvastamata võitluse võimetega.
 
-### Ronida
+### Ronimine
 
-**Baasvõimalus:** 40%
+**Baastõenäosus:** 40%
 
 **Kategooria:** Füüsiline
 
-Kasutage seda oskust seinte, puude, kaljude või mis tahes muu pinna otsa ronimiseks või alla tulemiseks. Eeldatakse, et olemas on piisavalt käe- ja jalatuge: muutke raskusastet vastavalt tingimustele või ronitavale pinnale. Äpardumine tähendab kõvasti kukkumist (vt **Kukkumine**), ebaõnnestumine tähendab, et olete kinni jäänud või kukute (mängujuhi valik, põhinedes asjaoludel) ja suurepärased õnnestumised võimaldavad kiiremini ja kaugemale ronida.
+Kasutage seda oskust seintele, puudele, kaljudele või mis tahes muule pinnale ronimiseks üles või alla. Eeldatakse, et käe- ja jalatugesid on piisavalt: muutke raskusastet vastavalt tingimustele või ronitavale pinnale. Koperdamine tähendab rasket kukkumist (vaata **Kukkumine**), ebaõnnestumine tähendab, et olete kinni jäänud või kukute (mängujuhi valik, lähtudes asjaoludest), ja paremad õnnestumised võimaldavad teil ronida kiiremini ja kaugemale.
 
-**Süsteemi märkused:** Üldiselt on ronimine 1/5 MOV määrast ja loomuliku ronimisvõimega loomad võivad liikuda oma täieliku MOV määra ulatuses. Redelitel ronimine on Automaatne. Väga kõrged redelid või puud on Lihtne. Ilma jalgadeta ronimine on Raske. Pikema ronimise korral peaks mängujuht nõudma oskuse veeremist kord minutis või iga 10 meetri ronimise järel. Teie tegelane ei saa ronimise ajal muid tegevusi teha ja kõik ronimise ajal tehtud tegevused on Rasked, kusjuures igasugune äpardus põhjustab kukkumise.
+**Süsteemi märkmed:** Üldiselt on ronimine 1/5 MOV-määrast ning loomuliku ronimisvõimega loomad võivad liikuda oma täie MOV-määraga. Redelitel ronimine on Automaatne. Väga kõrged redelid või puud on Lihtsad. Ilma jalgadeta ronimine on Raske. Pikemate ronimiste puhul peaks mängujuht nõudma oskuse veeretust kord minutis või iga 10 ronitud meetri järel. Ronimise ajal ei saa teie tegelane teha ühtegi muud tegevust ja kõik ronimise ajal tehtud toimingud on Rasked, kusjuures iga koperdamine põhjustab kukkumise.
 
-### Käsutada
+### Käskimine
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Suhtlus
 
-Kasutage seda oskust alluvate inspireerimiseks, suunamiseks ja koordineerimiseks, neid keerukates ülesannetes juhtides ja grupi tõhusust parandades. Sõjaväeohvitserid, aadlikud, poliitikud ja ärijuhid tehakse või murtakse nende võime põhjal hallata ja juhtida. Isiksus, tugev hääl ja raudne tahe on hindamatud käsutamise tööriistad. Äpardus õhutab mässu, ebaõnnestumine on mitteinspireeriv ja segadusttekitav ning õnnestumine võimaldab teil lisada 1/5 oma Käsutamise oskusest täiendava oskuse boonusena kõigile oma alluvatele igas voorus, mil neid käsutate, niikaua kui nad teie korraldusi järgivad. Veerige igas voorus võitluses või igal käigul massivõitluses.
+Kasutage seda oskust alluvate inspireerimiseks, suunamiseks ja koordineerimiseks, juhendades neid keerukates ülesannetes ja parandades grupi tõhusust. Sõjaväeohvitserid, aadlikud, poliitikud ja ärijuhid saavad edukaks või ebaõnnestuvad oma võime põhjal juhtida ja eest vedada. Isiksus, tugev hääl ja raudne tahe on hindamatud käskimise tööriistad. Koperdamine õhutab mässu, ebaõnnestumine on mitteinspireeriv ja segadusttekitav ning edu võimaldab teil lisada 1/5 oma Käskimise oskusest täiendava oskuse boonusena kõigile oma alluvatele iga vooru eest, mil te neid käskite, kuni nad teie korraldusi täidavad. Veeretage igas võitlusvoorus või massilahingus iga käigu järel.
 
-**Süsteemi märkused:** Kasutatakse peamiselt võitluses, ehkki see võib laieneda korporatiivsetele läbirääkimistele jne. Suurtükivägi, Raskerelv, Lähivõitlusrelv, Kaugvõitlusrelv ja Strateegia on kõige sobivamad oskused selle kasu saamiseks.
+**Süsteemi märkmed:** Kasutatakse peamiselt võitluses, ehkki see võib laieneda ka korporatiivsetele läbirääkimistele jne. Suurtükivägi, Raskerelv, Lähivõitlusrelv, Kaugvõitlusrelv ja Strateegia on kõige sobivamad oskused selle eelise saamiseks.
 
 ### Käsitöö (erinevad)
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Manipulatsioon
 
-Kasutage seda oskust asjade ehitamiseks või tegemiseks, toolist toiduni või majani. Selle oskuse jaoks on sageli vaja spetsiaalseid tööriistu ning see võtab aega ja toorainet. Seda oskust saab kasutada ka selleks, et tuvastada, kuidas ese on tehtud, ja võib-olla tuvastada käsitööline, kes selle tegi. Äpardus hävitab materjali ja ei anna midagi kasulikku, õnnestumine tähendab, et see töötab, ja parem õnnestumise kvaliteet annab peenema, tugevama või väärtuslikuma versiooni tehtavast asjast, võib-olla täiendavate omadustega, nagu +10% või +20% tõhususele selle kasutamisel, kõrgemad tabamispunktid jne. See puudutab funktsionaalsust ja praktilisust: ainult esteetilistel eesmärkidel esemete moodustamine kuulub Kunsti alla.
+Kasutage seda oskust asjade ehitamiseks või tegemiseks, toolist toiduni või majani. Selleks oskuseks on sageli vaja spetsiaalseid tööriistu ning see nõuab aega ja toormaterjali. Seda oskust saab kasutada ka selle tuvastamiseks, kuidas ese on tehtud, ja võimalusel selle tegija tuvastamiseks. Koperdamine hävitab materjali ja ei anna midagi kasulikku, edu tähendab, et see toimib, ja kvaliteetsem edu toob kaasa peenema, vastupidavama või väärtuslikuma versiooni tehtavast esemest, võib-olla täiendavate omadustega, nagu +10% või +20% tõhususele kasutamisel, kõrgemad tabamispunktid jne. See puudutab funktsionaalsust ja praktilisust: esemete loomine ainult esteetilistel eesmärkidel kuulub Kunsti alla.
 
-**Erialad:** Sepistamine, puusepatöö, keraamika, toiduvalmistamine, nahatöö, lukksepatöö, metallurgia, kiviraidumine ja muud vastavalt vajadusele.
+**Erialad:** Sepistamine, puusepatöö, keraamika, kokandus, nahatöö, lukksepatöö, metallurgia, kiviraidumine ja muud vastavalt vajadusele.
 
-**Süsteemi märkused:** Selle oskuse kasutamine ilma nõuetekohaste tööriistadeta on Raske. Lisateabe saamiseks varustuse tegemise, muutmise või parandamise kohta vt *Kaheksandat peatükki: Varustus*. Peene rõiva- või varustuseseme omamine võib isegi tõsta CHA-d, kui eset kantakse või eksponeeritakse.
+**Süsteemi märkmed:** Käsitöö kasutamine ilma õigete tööriistadeta on Raske. Vaata kaheksandat peatükki: Varustus lisateabe saamiseks varustuse valmistamise, muutmise või parandamise kohta. Peene riietuse või varustuse omamine võib isegi tõsta KAR-i, kui eset kantakse või eksponeeritakse.
 
 ### Lammutamine
 
-**Baasvõimalus:** 01%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Manipulatsioon
 
-Kasutage seda oskust lõhkeainete hoidmiseks, transportimiseks, seadistamiseks ja detoneerimiseks, alates püssirohuvaatidest kuni dünamiidi, Molotovi kokteilide, täiustatud plastlõhkeainete ja antiaine-pommideni. Igaüks võib lihtsalt pommi õhkida: see on mõeldud plahvatusega konkreetse efekti saavutamiseks; hoone ohutuks kokkuvarisemiseks, silla hävitamiseks või seifi ukse õhkamiseks ilma sisu kahjustamata. Lammutamine hõlmab ka teadmisi lõhkeainete jaoks sobivate tarvikute kohta, sealhulgas sütikud, kaitsmed ja detonaatorid. Kasutage Teadust (Keemia) lõhkeainete tootmiseks või Tehnilist oskust muude lõhkeainete valmistamiseks. Äpardus laseb asjad teie näo ees õhku, ebaõnnestumine tähendab, et soovitud efekti ei saavutata (tõrge või uinak) ja suurepärased õnnestumised annavad muljetavaldavamaid tulemusi, olgu selleks suurem kahju, vähem kaaskahju, eriefektid nagu tagasilöök, täiendav mõjuala jne.
+Kasutage seda oskust lõhkeainete hoidmiseks, transportimiseks, paigaldamiseks ja õhkulaskmiseks, alates püssirohutünnidest kuni dünamiidi, Molotovi kokteilide, täiustatud plastlõhkeainete ja antimaterjapommideni. Igaüks võib pommi lihtsalt plahvatama panna: see on mõeldud plahvatusega konkreetse efekti saavutamiseks; hoone ohutuks kokkuvarisemiseks, silla hävitamiseks või seifi ukse õhkulaskmiseks ilma sisu kahjustamata. Lammutamine hõlmab ka teadmisi lõhkeainete jaoks sobivatest lisaseadmetest, sealhulgas süütenööridest, süüturitest ja detonaatoritest. Kasutage Teadus (Keemia) lõhkeainete tootmiseks või Tehnilist oskust muude lõhkeainete valmistamiseks. Koperdamine laseb asjad teie näo ees õhku, ebaõnnestumine tähendab, et soovitud efekti ei saavutata (tõrge või uinak), ja paremad õnnestumised annavad muljetavaldavamaid tulemusi, olgu selleks suurem kahju, väiksem kaasnev kahju, eriefektid nagu Tagasilöök, täiendav mõjuala jne.
 
-**Süsteemi märkused:** Oskustasemega 60%+ õnnestuvad selle oskuse tavakasutused automaatselt. Ebastabiilse lõhkeaine (higi-dünamiidi) käsitsemisel või kasutamisel võib iga voor nõuda Lammutamise veeremist. Massiivse ehitise (sild, tamm, punker või hoone) lammutamine on Raske, välja arvatud juhul, kui teie tegelasel on juurdepääs sihtmärgi plaanidele. Selle oskuse kasutamine ilma sobivate tööriistadeta (kaitsmed jne) või lõhkeainete kasutamine väljaspool teie tegelase tavapärast ekspertiisivaldkonda võib olla Raske või isegi Võimatu. Mõningaid lõhkeainetüüpe, nagu granaadid, võib kasutada ilma selle oskuseta. Lõhkeainete ja nende mõjude kohta vt *Kaheksandat peatükki: Varustus*.
+**Süsteemi märkmed:** 60%+ oskustasemega õnnestuvad selle oskuse tavakasutused automaatselt. Ebastabiilne lõhkeaine (higi-dünamiit) võib nõuda Lammutamist igal voorul, mil seda käsitletakse või kasutatakse. Massiivse struktuuri (sild, tamm, punker või hoone) lammutamine on Raske, välja arvatud juhul, kui teie tegelasel on juurdepääs sihtmärgi joonistele või plaanidele. Selle oskuse kasutamine ilma sobivate tööriistadeta (süüturid jne) või lõhkeainete kasutamine väljaspool teie tegelase tavapärast ekspertiisivaldkonda võib olla Raske või isegi Võimatu. Mõningaid lõhkeaineid, nagu granaate, võib kasutada ilma selle oskuseta. Vaata kaheksandat peatükki: Varustus lõhkeainete ja nende mõjude kohta.
 
-### Maskeering
+### Maskeerimine
 
-**Baasvõimalus:** 01%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Suhtlus
 
-Kasutage seda oskust kehahoia, kostüümi, hääle ja muude nippide kasutamiseks, et näida teise inimesena või teist tüüpi inimesena. Hämar valgus, teatraalne meik ja märkimisväärsed näomuutused (soeng või parukas, võluhabemed või kiire raseerimine) võivad mängujuhi äranägemisel anda +20% boonuse. Pealtvaatajad, kes teie maskeeritud tegelast uurivad või nendega vestlevad, saavad teha vastandliku Märgata või Taiplikkuse oskuse kontrolli teie tegelase Maskeeringu veeremise vastu, et pettust läbi näha. Teie maskeeritud tegelane saab vastandliku kontrolli jaoks kasutada oma Kiirkõne oskust, kui nad vestlevad pealtvaatajaga, hajutades neid lähedasest kontrollist. Äpardus on ilmselgelt ilmne, ebaõnnestumine ei peta kedagi, kes teist korda vaatab, ja suurepärased õnnestumised võivad isegi lisada täiendava boonuse Suhtluse veeremistele nende suhtes, keda petetakse, või muudab tuvastamise keerulisemaks.
+Kasutage seda oskust rühi, kostüümi, hääle ja muude nippide kasutamiseks, et näida teise inimesena või teist tüüpi inimesena. Hämar valgus, teatrigrimm ja märkimisväärsed näomuutused (juukselõikus või parukas, võluhabemed või kiire raseerimine) võivad mängujuhi äranägemisel anda +20% boonuse. Pealtvaatajad, kes kontrollivad teie maskeeritud tegelast või vestlevad temaga, saavad teha vastandatud Märkamise või Taiplikkuse oskuse kontrolli teie tegelase Maskeerimise veeretuse vastu, et pettust läbi näha. Teie maskeeritud tegelane saab vastandatud kontrolli jaoks kasutada oma Kiirkõne oskust, kui nad kaasavad pealtvaataja vestlusesse, juhtides nende tähelepanu lähedalt uurimiselt kõrvale. Koperdamine on ilmselgelt märgatav, ebaõnnestumine ei peta kedagi, kes teist korda vaatab, ja paremad õnnestumised võivad isegi lisada täiendava boonuse Suhtluse veeretustele nende suhtes, keda petetakse, või muuta tuvastamise raskemaks.
 
-**Süsteemi märkused:** Selle oskuse kasutamine konkreetse inimese (sõdur, politseinik jne) kehastamiseks on tavaline tegevus. Kellegi teise (teine liik, palju pikem või lühem, vastassoost isik) või konkreetse tuntud isiku (aadlik, kuulsus jne) kehastamine või maskeeringu proovimine ilma sobivate rõivaste või rekvisiitideta on Raske. Mängujuht võib määrata täiendavaid karistusi kultuuriliste või keeleliste barjääride korral või kui kohaldub mitu Rasket tingimust. Liiga suur pingutus võib lihtsalt olla Võimatu.
+**Süsteemi märkmed:** Selle oskuse kasutamine kindlat tüüpi inimese (sõdur, politseinik jne) kehastamiseks on tavaline tegevus. Kellegi väga erineva (teine liik, palju pikem või lühem, vastassoost isik) või kindla tuntud isiku (aadlik, kuulsus jne) kehastamine või maskeerimise katsetamine ilma sobivate riiete või rekvisiitideta on Raske. Mängujuht võib määrata täiendavaid karistusi kultuuri- või keelebarjääride tõttu või kui kehtivad mitmed Rasked tingimused. Liiga kaugeleulatuv katse võib olla lihtsalt Võimatu.
 
-### Põigelda
+### Põiklemine
 
-**Baasvõimalus:** DEX×2
+**Baastõenäosus:** OSA×2
 
 **Kategooria:** Füüsiline
 
-Parim kaitse võitluses, nagu iga võitleja teab, on mitte seal olla. Põigelda võimaldab teie tegelasel vältida sissetulevaid rünnakuid, kasutades väledust vigastuste vältimiseks või minimeerimiseks.
+Parim kaitse võitluses, nagu iga võitleja teab, on mitte seal olla. Põiklemine võimaldab teie tegelasel vältida sissetulevaid rünnakuid, kasutades väledust vigastuste vältimiseks või minimeerimiseks.
 
-**Mõjud:** Edukas Põigelda veeremine muudab eduka rünnaku tulemust, muutes selle ebaõnnestumiseks. Põigelda veeremise erakordne tulemus muudab rünnakut kahe astme võrra (erakordne õnnestumine muutub ebaõnnestumiseks) ja Põigelda veeremise kriitiline õnnestumine muudab eduka rünnaku kolme astme võrra (kriitiline rünnak muutub ebaõnnestumiseks). Vt **Rünnaku ja kaitse maatriks** ja **Loomulike relvade rünnaku ja tõrjumise äparduste tabel** konkreetsete mõjude kohta. Edukas Põigelda veeremine ei saa vähendada sissetuleva rünnaku õnnestumist ebaõnnestumisest madalamaks.
+**Mõjud:** Edukas Põiklemise veeretamine muudab eduka rünnaku tulemust, muutes selle ebaõnnestumiseks. Põiklemise veeretamise eritulemus muudab rünnakut kahe astme võrra (eriedu muutub ebaõnnestumiseks) ja kriitiline edu Põiklemise veeretamisel muudab eduka rünnaku kolme astme võrra (kriitiline rünnak muutub ebaõnnestumiseks). Vaata **Rünnaku ja kaitse maatriksit** ja **Loomulike rünnakute ja tõrjumise koperdamise tabelit** konkreetsete mõjude kohta. Edukas Põiklemise veeretamine ei saa vähendada sissetuleva rünnaku edukust allapoole ebaõnnestumist.
 
-**Süsteemi märkused:** Nagu on kirjeldatud jaotises **Põigelda** *Kuuendas peatükis: Võitlus*, võib teie tegelane võitlusvoorus kas Põigelda või Tõrjuda, kuid ei saa teha mõlemat. Kui teie tegelast ründavad paljud vaenlased, võib ta voorus teha mitu Põigelda katset, kuid iga veeremine pärast esimest tehakse kumulatiivse –30% karistusega oskustasemele. Mõnda kaugvõitlusrelva rünnakut on Raske või Võimatu vältida (vt Kaugvõitlusrelvade vältimine).
+**Süsteemi märkmed:** Nagu kirjeldatud **Põiklemises** kuuendas peatükis: Võitlus, võib teie tegelane võitlusvoorus kas Põigelda või Tõrjuda, kuid ei saa teha mõlemat. Kui teie tegelast ründab palju vastaseid, võib ta vooru jooksul teha mitu Põiklemise katset, kuid iga veeretus pärast esimest tehakse kumulatiivse –30% karistusega oskuse tasemele. Mõningaid kaugvõitlusrelvade rünnakuid on Raske või Võimatu vältida (vaata Kaugvõitlusrelvade eest põiklemine).
 
-### Sõita (erinevad)
+### Sõiduki juhtimine (erinevad)
 
-**Baasvõimalus:** 20% või 01% (vt allpool)
+**Baastõenäosus:** 20% või 01% (vaata allpool)
 
 **Kategooria:** Manipulatsioon
 
-Kasutage Sõita roolimiseks, manööverdamiseks ja maasõiduki kontrollimiseks, olgu see siis loomade poolt veetav või mootoriga töötav. Tavaliste sõidukite puhul on baasvõimalus 20%, teadmata/ebatavaliste sõidukite puhul 01%. Äpardus tavalisel sõitmisel tähendab, et sõiduk ei pruugi käivituda, või kokkupõrget või avariid. Õnnestumine tähendab, et teie tegelane jõuab sinna, kuhu läheb, või suudab halba olukorda (näiteks libisemist või pöörlemist) korrigeerida, ja suurepärased õnnestumised tähendavad suuremat läbitud vahemaad lühema ajaga, vähem kulutatud kütust või muud kasu.
+Kasutage Sõiduki juhtimist maapealse sõiduki roolimiseks, manööverdamiseks ja juhtimiseks, olgu see siis loomade poolt veetav või mootoriga töötav. Levinud sõidukite puhul on baastõenäosus 20%, tundmatute/haruldaste sõidukite puhul 01%. Koperdamine tavapärasel sõitmisel tähendab, et sõiduk ei pruugi käivituda või toimub kokkupõrge või avarii. Edu tähendab, et teie tegelane jõuab sinna, kuhu ta läheb, või suudab halva olukorra (nagu libisemine või keerlemine) korrigeerida, ja paremad õnnestumised tähendavad suuremat läbitud vahemaad lühema ajaga, väiksemat kütusekulu või mõnda muud kasu.
 
-**Erialad:** Auto, jalgratas, vanker, kärud, kaarikud, koerarakend, mootorratas, veoauto, saanid jne.
+**Erialad:** Auto, jalgratas, vanker, kärud, kaarik, koerarakend, mootorratas, veok, saan jne.
 
-**Seadete märkused:** Kohandage baasvõimalust vastavalt kasutaja tundmistele, kuid kahtluse korral eeldage, et kehtivad põhiprintsiibid.
+**Seadete märkmed:** Kohandage baastõenäosust vastavalt kasutaja tuttavlikkusele, kuid kahtluse korral eeldage, et kehtivad põhiprintsiibid.
 
-**Süsteemi märkused:** Enamik igapäevasest sõitmisest on Automaatne ülesanne – Sõita veeremine toimub ainult ebasoodsates tingimustes või erakorralise sõidu puhul (kiirustamine läbi tiheda kesklinna, teise sõiduki tagaajamine jne). Teise sõiduki jälitamiseks nii, et teid ei märgataks, kasutage vastandlikku Sõita kontrolli teise juhi Märgata vastu. Sõidukite tagaajamiste lahendamiseks vt Tagaajamised.
+**Süsteemi märkmed:** Enamik igapäevasest sõitmisest on Automaatne ülesanne – Sõiduki juhtimise veeretamine on vajalik vaid ebasoodsates tingimustes või erakordse sõidu puhul (kihutamine läbi hõivatud kesklinna, teise sõiduki tagaajamine jne). Teise sõiduki jälgimiseks ilma märkamata kasutage vastandatud Sõiduki juhtimise kontrolli teise juhi Märkamise vastu. Sõidukite tagaajamiste lahendamiseks vaata Tagaajamised.### Energiarelv (mitmesugused)
 
-### Energiarelv (erinevad)
-
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda mis tahes tüüpi käeshoitava suunatud energia- või kiirrelva (laserid, lõhkajad, hävitajad jne) tulistamiseks.
+Kasutage seda oskust mis tahes käsitsi juhitava energia- või kiirgusrelva (laserid, lõhkajad, hävitajad jne) tulistamiseks.
 
-**Erialad:** Energiarevolver, energialaser, jne. Erialad on samaväärsed tüüpidega. Vt **Relvaklassid** *Kaheksandas peatükis: Varustus* tulirelvade tüüpide kohta.
+**Erialad:** Energiaspüstol, energiavintpüss jne. Erialad on võrdsed tüüpidega. Tulirelvade tüüpide kohta vt kaheksanda peatüki **Varustus** jaotist **Relvaklassid**.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Kaugvõitlusrelva äparduste tabel** konkreetsete mõjude kohta. Energiarelvad tavaliselt läbistavad.
+**Mõjud:** Konkreetsete mõjude kohta vt **Ründe- ja kaitsemaatriksit** ning **Kaugrelvade äparduste tabelit**. Energiarelvad tekitavad tavaliselt läbistava vigastuse.
 
-**Seadete märkused:** Energiarelvad ilmuvad tavaliselt ainult futuristlikes seadetes. Igaüks kultuurist, kus neid pole, peab tegema Raske Taiplikkuse veeremise, et mõista, kuidas ühte kasutada, ja võib-olla alles pärast selle kasutamist nägemist. Ebaõnnestumised või äpardused võivad olla katastroofilised, kas relvale või kasutajale! Selle oskuse õppimiseks võib olla vajalik sõjaline taust.
+**Sätte märkused:** Energiarelvad esinevad tavaliselt vaid futuristlikes keskkondades. Kõik, kes pärinevad kultuurist, kus neid pole, peavad tegema raske INT-i täringuviske, et mõista, kuidas sellist relva kasutada, ja sedagi võib-olla alles pärast selle kasutamise nägemist. Ebaõnnestumised või äpardused võivad olla katastroofilised – nii relvale kui ka kasutajale! Selle oskuse õppimiseks võib olla nõutav sõjaline taust.
 
-**Süsteemi märkused:** Mõnedel energiarelvadel on minimaalne STR ja DEX nõue relva kasutamiseks, vastavalt *Kaheksanda peatüki: Varustus* relvatabelitele. Energiarelvad ei kasuta kahjustuse modifikaatoreid, kuid neid saab kasutada sihitud rünnakuteks. Neid ei saa vältida, kuigi sihtmärgi liikumine ja orientatsioon võivad lasule karistusi määrata, nagu on kirjeldatud jaotises Kaugvõitlusrelvade vältimine. Energia-laskude blokeerimine Kilbi oskusega on Raske.
+**Süsteemi märkused:** Mõnel energiarelval on relva kasutamiseks minimaalne JÕU- ja OSA-nõue vastavalt kaheksanda peatüki **Varustus** relvatabelitele. Energiarelvad ei kasuta vigastusmodifikaatoreid, kuid neid saab kasutada sihitud rünnakuteks. Nende eest ei saa kõrvale põigelda, kuigi sihtmärgi liikumine ja orientatsioon võivad lasule karistusi määrata, nagu on kirjeldatud jaotises „Kaugrelvade eest põiklemine“. Energiarelva laskude blokeerimine Kilbi oskusega on raske.
 
-### Etikett (erinevad)
+### Etikett (mitmesugused)
 
-**Baasvõimalus:** 05%
-
-**Kategooria:** Suhtlus
-
-Enamikul kultuuridel, kastidel või gruppidel on sotsiaalsed reeglid ja käitumiskoodeksid. Korralik riietus, kõneviisid, spetsiifilised käitumised, kehakeel või isegi võitluskohtumised võivad kõik mängida rolli grupi etiketi puhul. Kasutage seda oskust alati, kui teie tegelane peab sobivalt käituma, olgu see siis Victoria ajastu õhtusöögil, olulisel tööintervjuul või organiseeritud kuritegeliku perekonnaga liitumisel. Etiketi veeremised võivad võita audientsi olulise mittemängijast tegelasega või avaldada teistele muljet teie teadmistega nende sotsiaalsetest tavadest. Äpardus kujutab endast katastroofilist komistust, ebaõnnestumine ei avalda muljet ning õnnestumine või parem annab suurepäraseid tulemusi ja parandab vastuvõttu.
-
-**Erialad:** Grupi kaupa. Teise grupi kommete õppimiseks õppige teine Etiketi oskus selle erialaga.
-
-**Süsteemi märkused:** Mängujuht peaks Etiketi veeremisi nõudma ainult olulistes olukordades: näiteks esimest korda suheldes olulise grupiga, märkimisväärsel sündmusel või üritades grupis staatust edendada.
-
-### Kiirkõne
-
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Suhtlus
 
-Müügimeeste, spioonide või petiste eelistatud relv, kasutage seda oskust sihtmärgi kiireks veenmiseks millestki, mida nad ei pruugi uskuda, või veenmiseks tegema kiiret otsust oma parema otsustusvõime vastaselt. Kasutage seda uksehoidjast mööda bluffimiseks või kiire müügi tegemiseks. Kiirkõne on kiire kasutatav ja tavaliselt ajutine: mõne minuti ja eduka Taiplikkuse veeremise järel võib sihtmärk tulla oma mõistuse juurde. Kellegi meelt tõeliselt muuta, kasutage oskusi Kaubelda või Veenda. Äpardus tekitab tavaliselt vaenulikkust, ebaõnnestumine ei vii kuhugi ja õnnestumine või parem on tõhusam või isegi veenab kedagi jäädavalt teie seisukohta uskuma.
+Enamikul kultuuridel, kastidel või rühmadel on sotsiaalsed reeglid ja käitumisnormid. Korralik riietus, kõneviis, konkreetsed käitumisviisid, kehakeel või isegi kohtulahingud võivad mängida rolli grupi etiketi puhul. Kasutage seda oskust alati, kui teie tegelane peab käituma asjakohaselt, olgu tegemist viktoriaanliku õhtusöögi, olulise tööintervjuu või organiseeritud kuritegeliku perekonnaga liitumisega. Etiketi täringuvisked võivad võimaldada pääsu olulise mitte-mängijast tegelase juurde või avaldada teistele muljet oma teadmistega nende sotsiaalsetest tavadest. Äpardus tähendab katastroofilist taktika- või käitumisviga, ebaõnnestumine ei avalda muljet, aga õnnestumine või parem tulemus toob kaasa suurepärased tulemused ja parandab vastuvõttu.
 
-**Süsteemi märkused:** Hea rollimäng ja/või tõhus argument võib muuta Kiirkõne katse Lihtsaks, samamoodi nagu kehv rollimäng ja/või õhuke argument võib muuta selle Raskeks. Sihtmärgi Kiirkõne proovimine pärast esimest Kaubelda, Kiirkõne või Veenda katse ebaõnnestumist on Raske.
+**Eriala**: Grupi järgi. Teise grupi kommete õppimiseks omandage teine Etiketi oskus selle erialaga.
+
+**Süsteemi märkused:** Mängujuht peaks paluma Etiketi täringuviskeid ainult olulistes olukordades: näiteks esimest korda suheldes olulise grupiga, märkimisväärsel sündmusel või püüdes grupis staatust tõsta.
+
+### Kiirkõne (Fast Talk)
+
+**Baastõenäosus:** 05%
+
+**Kategooria:** Suhtlus
+
+Müügimeeste, spioonide või petturite eelistatud relv. Kasutage seda oskust, et veenda sihtmärki kiiresti milleski, mida ta ei pruugi uskuda, või sundida teda kiiresti otsustama oma parema äranägemise vastaselt. Kasutage seda uksehoidjast mööda pääsemiseks või kiire tehingu sõlmimiseks. Kiirkõne on kiire kasutada ja tavaliselt ajutine: mõne minuti ja eduka INT-i täringuviske järel võib sihtmärk mõistusele tulla. Kellegi seisukoha tõeliseks muutmiseks kasutage Kauplemise või Veenmise oskusi. Äpardus kutsub tavaliselt esile vaenulikkuse, ebaõnnestumine ei vii kuhugi, aga õnnestumine või parem tulemus suurendab tõhusust või veenab kedagi isegi jäädavalt teie seisukohtades.
+
+**Süsteemi märkused:** Hea rollimäng ja/või tõhus argument võib muuta Kiirkõne katse lihtsaks, samas kui halb rollimäng ja/või nõrk argument võib muuta selle raskeks. Pärast esimest ebaõnnestunud Kauplemise, Kiirkõne või Veenmise katset on sihtmärgi uuesti kiirkõnele sundimine raske.
 
 ### Peenmanipulatsioon
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Manipulatsioon
 
-Kindlustunde ja silma-käe koordinatsiooni mõõdupuu, see oskus katab igasugust käte ja sõrmede hoolikat kasutamist. Kasutage seda lukkude muukimisel, lõksu desarmeerimisel, sõlmede sidumisel või lahtisidumisel ja mehaaniliste seadmete lahtivõtmisel. Äpardus ajab asjad segamini, võib-olla purustades või kinni kiiludes manipuleeritava eseme. Suurepärased õnnestumised võtavad vähem aega, muudavad selle tulevikus lihtsaks, ei näita mingeid märke rikkumisest või muud sarnast kasu.
+See oskus on stabiilsuse ja käe-silma koordinatsiooni mõõdupuu ning hõlmab käte ja sõrmede mis tahes hoolikat kasutamist. Kasutage seda lukkude muukimisel, lõksude kahjutustamisel, sõlmede sidumisel või lahtisidumisel ja mehaaniliste seadmete lahtivõtmisel. Äpardus ajab asjad sassi, võib-olla purustades või kinni kiiludes manipuleeritava eseme. Suurepärased õnnestumised võtavad vähem aega, muudavad selle tulevikus lihtsamaks, jätavad mulje, et sekkumist pole toimunud, või pakuvad muud sarnast kasu.
 
-**Süsteemi märkused:** Selle oskuse kasutamine ilma nõuetekohaste tööriistadeta, kus see on nõutav, on Raske.
+**Süsteemi märkused:** Selle oskuse kasutamine ilma vajalike tööriistadeta (kus need on nõutavad) on raske.
 
-### Tulirelv (erinevad)
+### Tulirelv (mitmesugused)
 
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-See oskus mõõdab tulirelvade täpsust ja pakub vilumust käsitsemisel, hooldamisel ja elementaarsetel remonditöödel.
+See oskus mõõdab täpsust tulirelvadega ja annab vilumuse nende käsitsemisel, hooldamisel ja lihtsamate remonditööde tegemisel.
 
-**Erialad:** Kuulipilduja, püstol, revolver, vintpüss, haavlipüss, püstolkuulipilduja. Erialad on samaväärsed tüüpidega. Vt **Relvaklassid** *Kaheksandas peatükis: Varustus* tulirelvade tüüpide kohta.
+**Erialad:** Kuulipilduja, püstol, revolver, vintpüss, jahipüss, püstolkuulipilduja. Erialad on võrdsed tüüpidega. Tulirelvade tüüpide kohta vt kaheksanda peatüki **Varustus** jaotist **Relvaklassid**.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Kaugvõitlusrelva äparduste tabel** konkreetsete mõjude kohta. Tulirelvad tavaliselt läbistavad (üksikasjade kohta vt *Kaheksandat peatükki: Varustus*).
+**Mõjud:** Konkreetsete mõjude kohta vt **Ründe- ja kaitsemaatriksit** ning **Kaugrelvade äparduste tabelit**. Tulirelvad tekitavad tavaliselt läbistava vigastuse (üksikasju vt kaheksanda peatüki **Varustus** alt).
 
-**Seadete märkused:** Igaüks, kes on tulirelvadega võõras, peab tegema Raske Taiplikkuse veeremise, et mõista, kuidas ühte kasutada, kui nad pole seda kasutuses näinud. Ebaõnnestumised või äpardused võivad olla katastroofilised, kas relvale või kasutajale!
+**Sätte märkused:** Iga tegelane, kes ei ole tulirelvadega tuttav, peab tegema raske INT-i täringuviske, et mõista, kuidas seda kasutada, kui ta ei ole varem näinud, kuidas seda kasutatakse. Ebaõnnestumised või äpardused võivad olla katastroofilised – nii relvale kui ka kasutajale!
 
-**Süsteemi märkused:** Mõnedel tulirelvadel on minimaalne STR ja DEX nõue, vastavalt *Kaheksanda peatüki: Varustus* relvatabelitele. Tulirelvad ei kasuta kahjustuse modifikaatoreid ja neid saab kasutada sihitud rünnakuteks.
+**Süsteemi märkused:** Mõnel tulirelval on minimaalne JÕU- ja OSA-nõue vastavalt kaheksanda peatüki **Varustus** relvatabelitele. Tulirelvad ei kasuta vigastusmodifikaatoreid ja neid saab kasutada sihitud rünnakuteks.
 
 ### Esmaabi
 
-**Baasvõimalus:** 30%
+**Baastõenäosus:** 30%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust verejooksu peatamiseks, haavade sidumiseks ja väikeste põletuste raviks, luumurru lahastamiseks, uppuva inimese elustamiseks või teadvuseta inimese äratamiseks. See ulatub triaaži ja algelise arstiabini, kuid sellel on vähe mõju mürkidele, haigustele või peentele füüsilistele tervisehädadele: neid tuleb ravida Meditsiini oskusega, ehkki teie mängujuht võib lubada Rasket veeremist mürgi või haiguse hädaabiks. Esmaabi võtab ühe täieliku võitlusvooru ja seda ei saa tavaliselt võitluse ajal sooritada. Kui see katkestatakse, tuleb katset taaskäivitada.
+Kasutage seda oskust verejooksu peatamiseks, haavade sidumiseks, väiksemate põletuste raviks, murtud jäseme fikseerimiseks, uppunu elustamiseks või teadvuseta inimese äratamiseks. See laieneb triaažile ja elementaarsele meditsiiniabile, kuid mõjutab vähe mürgistusi, haigusi või peenemaid füüsilisi vaevusi: neid tuleb ravida Meditsiini oskusega, ehkki mängujuht võib lubada rasket täringuviset mürgituse või haiguse erakorraliseks raviks. Esmaabi võtab ühe täieliku võitlusvooru ja seda ei saa tavaliselt võitluse ajal teha. Kui tegevus katkeb, tuleb katset korrata.
 
 **Mõjud:** Esmaabil on konkreetsed mõjud:
 
-* **Äpardus:** Patsient saab 1 üldise tabamispunkti kahju ja nende seisund jääb muutumatuks.
-* **Ebaõnnestumine:** Mingit mõju pole ja täiendavaid Esmaabi katseid teha ei saa.
-* **Õnnestumine:** Üks järgmistest (mängija valik):
+* **Äpardus:** Patsient saab 1 üldise tabamispunkti kahju ja tema seisund jääb muutumatuks.
+* **Ebaõnnestumine:** Mõju puudub ja edasisi Esmaabi katseid ei saa teha.
+* **Õnnestumine:** Üks järgmistest (mängija valikul):
+  * Ravib 1D3 tabamispunkti ühele haavale või vigastusele.
 
-  * Parandage 1D3 tabamispunkti ühele haavale või vigastusele.
-
-  * 0 või negatiivsete tabamispunktidega tegelase saab elustada, kui nende tabamispunktide kogusumma viiakse 1+-ni.
+  * Tegelase, kelle tabamispunktid on selles või eelmises voorus 0 või negatiivsed, saab elustada, kui tema tabamispunktide kogusumma viiakse 1+ peale.
 
   * Teadvuseta tegelase äratamine.
 
-  * Verejooksust tingitud kahju peatamine erakordsel õnnestumisel või mis tahes muu käimasolev kahju tabamiskohale (vt **Tabamispunktid tabamiskoha kohta**).
-* **Erakordne:** Nagu ülal, kuid parandades 2D3 tabamispunkti.
-* **Kriitiline:** Nagu ülal, kuid parandades 3+1D3 tabamispunkti.
+  * Verejooksu peatamine, mis on tingitud läbistavast erilisest õnnestumisest või muust jätkuvast kahjust tabamiskohas (vt **Tabamispunktid tabamiskoha kohta**).
+* **Eriline:** Nagu ülalpool, kuid ravib 2D3 tabamispunkti.
+* **Kriitiline:** Nagu ülalpool, kuid ravib 3+1D3 tabamispunkti.
 
-**Süsteemi märkused:** Jälgige individuaalseid vigastusi, kuna Esmaabi saab kasutada iga vigastuse puhul, parandades selle potentsiaalselt kuni tabamispunktideni, mille vigastus tekitas. Iga haava kohta saab teha ainult ühe katse. Ohtlikud või ebapuhastustingimused võivad muuta veeremised Raskeks. Teie tegelane võib lisada 1/2 oma Meditsiini oskuse tasemest ja 1/5 oma Teaduse (Farmaatsia) oskuse tasemest ajutise boonusena Esmaabi veeremistele. Tänapäevased meditsiinitarbed (valuvaigistid, sidemed või ravimid) võivad lisada kuni +20% boonust oskustasemetele, samas kui futuristlik meditsiinitehnoloogia (tehispihustatud nahk, meditsiinilised skannerid, nanotehnoloogilised tervendajad) teevad kõik Esmaabi veeremised Lihtsaks.
+**Süsteemi märkused:** Jälgige vigastusi, sest Esmaabi saab kasutada iga vigastuse puhul, ravides seda potentsiaalselt kuni selle kahju tekitatud tabamispunktide ulatuses. Ühe haava kohta saab teha vaid ühe katse. Ohtlikud või ebapuhastes tingimustes tehtavad täringuvisked võivad olla rasked. Teie tegelane võib lisada ajutise boonusena 1/2 oma Meditsiini oskuse tasemest ja 1/5 oma Teaduse (Farmakoloogia) oskuse tasemest Esmaabi täringuvisetesse. Kaasaegsed meditsiiniseadmed (valuvaigistid, sidemed või ravimid) võivad lisada kuni +20% boonust oskuste tasemetele, samas kui futuristlik meditsiinitehnoloogia (kunstlik pihustatav nahk, meditsiinilised skannerid, nanotehnoloogilised ravijad) võib muuta kõik Esmaabi täringuvisked lihtsaks.
 
-### Lennata
+### Lendamine
 
-**Baasvõimalus:** DEX×4 või 1/2 DEX (vt allpool)
+**Baastõenäosus:** OSA×4 või 1/2 OSA (vt allpool)
 
 **Kategooria:** Füüsiline
 
-Tiibadega olendite, nõuetekohase varustuse (antigravitatsioonivöö, rakett-saapad jne) või lennuvõimetega olendite puhul kasutage seda oskust õhus manööverdamiseks ilma sõidukita. Kasutage Lennata õhumanöövrite või akrobaatika sooritamiseks kontrolli kaotamata, vaenlase üle kavaldamiseks õhuvõitluses või lendamiseks halva ilmaga. Baasvõimalus on DEX×4 tiibadega olenditele; 1/2 DEX kõigile teistele. Reaktiivseadmete, rippliugurite jne jaoks kasutage Piloteerida oskust. Vt **Õhuvõitlus** ja **Tagaajamised** lisateabe saamiseks.
+Tiibadega olendite, vastava varustuse (antigravitatsioonivöö, reaktiivsaapad jne) või lennuvõimete puhul kasutage seda oskust õhus manööverdamiseks ilma sõidukita. Kasutage Lendamist õhuakrobaatika või manöövrite sooritamiseks ilma kontrolli kaotamata, vaenlase üle kavaldamiseks õhuvõitluses või lendamiseks halbades ilmastikuoludes. Baastõenäosus on tiivuliste olendite puhul OSA×4, kõigi teiste puhul 1/2 OSA. Reaktiivseljakottide, ripp-plaanerite jms puhul kasutage Pilootimise oskust. Lisateavet vt jaotistest **Õhuvõitlus** ja **Tagaajamised**.
 
-**Mõjud:** Lennata on konkreetsed mõjud:
+**Mõjud:** Lendamisel on konkreetsed mõjud:
 
-* **Äpardus:** Seiskumine ja võib-olla isegi kukkumine. Tiibadega tegelased peavad tegema eduka Vastupidavuse veeremise või kannatama 1D3–1 punkti kahju nikastusest või pingutusest. Seade seiskub või ebaõnnestub ega suuda teie tegelast üleval hoida. Lendur kukub ühe vooru iga kõrgustaseme kohta maapinnast kõrgemal. Tehke Raske Lennata veeremine üleval püsimiseks – ebaõnnestumine tähendab avariid (vt **Kukkumine**).
-* **Ebaõnnestumine:** Kursist kõrval või langeb ebasoovitavale kõrgusele. Ei liigu kuhugi.
-* **Õnnestumine:** Lõpetab soovitud manöövri või hoiab positsiooni tagaajamises
-* **Erakordne:** Lõpetab soovitud manöövri ja saab +10% boonuse järgmisele Põigelda, Lennata või rünnaku veeremisele õhuvõitluses.
-* **Kriitiline:** Lõpetab soovitud manöövri ja saab +25% boonuse järgmisele Põigelda, Lennata või rünnaku veeremisele õhuvõitluses.
+* **Äpardus:** Seiskumine ja võib-olla isegi kukkumine. Tiivulised tegelased peavad tegema eduka Vastupidavuse täringuviske või saama 1D3–1 punkti kahju nihestusest või venitusest. Seade seiskub või ebaõnnestub ega suuda tegelast üleval hoida. Lendur kukub ühe vooru iga kõrgustaseme kohta maapinnast kõrgemal. Tehke raske Lendamise täringuvise, et õhku jääda – ebaõnnestumine tähendab kukkumist (vt **Kukkumine**).
+* **Ebaõnnestumine:** Kurssilt kõrvale kaldumine või soovimatule kõrgusele langemine. Ei liigu kuhugi.
+* **Õnnestumine:** Sooritab soovitud manöövri või hoiab positsiooni tagaajamisel.
+* **Eriline:** Sooritab soovitud manöövri ja saab +10% boonuse järgmisele Põiklemise, Lendamise või ründe täringuviskele õhuvõitluses.
+* **Kriitiline:** Sooritab soovitud manöörvi ja saab +25% boonuse järgmisele Põiklemise, Lendamise või ründe täringuviskele õhuvõitluses.
 
-**Süsteemi märkused:** Lühikesed, sündmustevaesed lennud tavalistes või mõõdukates tingimustes on Automaatsed. Vt **Ilmastikutingimused** lendamise modifikaatorite jaoks. Vastupidavuse veeremised on nõutavad pikamaalendude jaoks, kusjuures omaduste kordaja väheneb ühe võrra iga nelja tunni või selle osa kohta, mis on õhus veedetud. Tavaline lendamine ei kuluta väsimuspunkte, samas kui manööverdamine või stressirohke lendamine on kurnav tegevus. Soomust või rasket varustust kandev lendav tegelane kannab karistust, mis võrdub teie tegelase hetke ENC-summaaga (vt **Koormatus**). Rasket eset kandev lendav tegelane peab vastupanu tabelis oma STR-i võrdlema kantava eseme SIZ-ga, et üleval püsida.
+**Süsteemi märkused:** Lühikesed, sündmustevaesed lennud normaalsetes või mõõdukates tingimustes on automaatsed. Vt **Ilmastikuolud** lennutingimuste muutujate kohta. Pikkade lendude puhul on nõutavad Vastupidavuse täringuvisked, kusjuures karakterikordaja väheneb ühe võrra iga nelja tunni või selle osa kohta, mis on õhus veedetud. Normaalne lendamine ei kuluta väsimuspunkte, samas kui manööverdamine või pingeline lendamine on kurnav tegevus. Soomusrüü või raske varustuse kandmine lendamise ajal toob kaasa karistuse, mis võrdub tegelase hetkelise KANDEKAALU (ENC) summaga (vt **Kandekaal**). Rasket objekti kandev lendav tegelane peab õhku jäämiseks võrdlema oma JÕU-d kantava objekti SUU-ga vastupanutabelis.
 
-### Mängimine
+### Mängimine (Gaming)
 
-**Baasvõimalus:** INT+POW%
+**Baastõenäosus:** INT+VÄG%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust mänge mängides, alates malest või backgammonist kuni hasartmängukonkurssideni, mis hõlmavad kaarte, täringuid või muid juhuslikke või strateegilisi elemente. Hasartmängijad teenivad elatist seda oskust kasutades, kuid enamiku teiste jaoks on see lihtsalt meelelahutus. Äpardus puhastab teid ja võib-olla paneb võlgadesse, ebaõnnestumine tähendab vooru kaotamist, õnnestumine toob väikese võidu ja suurepärased õnnestumised lõikavad suuremat kasu ja võib-olla isegi parandavad staatust.
+Kasutage seda oskust mängude mängimisel, alates malest või backgammonist kuni hasartmängudeni, mis hõlmavad kaarte, täringuid või muid juhuslikke või strateegilisi elemente. Hasartmängurid teenivad selle oskusega elatist, kuid enamiku jaoks on see lihtsalt meelelahutus. Äpardus jätab teid tühjade kätega ja võib-olla võlgadesse, ebaõnnestumine tähendab vooru kaotamist, õnnestumine toob väikese võidu ning suurepärased õnnestumised toovad suuremat kasu ja võib-olla isegi parandavad staatust.
 
-**Süsteemi märkused:** Kasutage seda mängude lahendamiseks, kus osaliselt on vaja oskust ja strateegiat, kus teised mängijad teevad vastandliku veeremise. Petmiseks kasutage Osavust või Kiirkõnet, millele on vastandatud Märgata või Taiplikkus. Täiesti juhuslikud tulemused kasutavad Õnne veeremisi.
+**Süsteemi märkused:** Kasutage seda mängude lahendamiseks, kus oskus ja strateegia mängivad rolli, kusjuures teised mängijad teevad vastandatud täringuviskeid. Petmiseks kasutage Osavust või Kiirkõnet, millele vastanduvad Vaatlemine või Intuitsioon. Täiesti juhuslikud tulemused kasutavad Õnne täringuviskeid.
 
-### Maadlus
+### Maadlus (Grapple)
 
-**Baasvõimalus:** 25%
+**Baastõenäosus:** 25%
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust maadluseks või mis tahes võitluseks, kus eesmärk on sihtmärki alistada ilma kahju tekitamata. Tavaliselt on see mittesurmav, kuid seda saab kasutada tõelise kahju tekitamiseks.
+Kasutage seda oskust maadlemiseks või mis tahes võitluseks, kus eesmärk on sihtmärki kahjustamata alistada. Tavaliselt on see mittesurmav, kuid seda saab kasutada ka tõelise kahju tekitamiseks.
 
 **Mõjud:** Maadlusel on konkreetsed mõjud:
 
-* **Äpardus:** Veerige tabelis **Loomulike relvade äpardus**.
-* **Ebaõnnestumine:** Sihtmärk hoidub kinni haaramisest või katse põgeneda ebaõnnestub.
-* **Õnnestumine:** Sihtmärk on haaratud, ründaja saab rakendada ühe maadlusefekti (vt **Maadlusefektid** allpool) järgmisel voorul, kui haare säilib.
-* **Erakordne:** Ründaja õnnestub automaatselt oma järgmises Maadluse veeremises haaret säilitada ja saab +3 omaduste boonuse mis tahes vastupanu veeremistele maadlusefektide jaoks sel voorul.
-* **Kriitiline:** Ründaja õnnestub automaatselt oma järgmises Maadluse veeremises haaret säilitada ja sihtmärgi omadused poole võrra vähendatakse vastupanu veeremistes maadlusefektide jaoks ülejäänud võitlusvooru jooksul.
+* **Äpardus:** Tehke täringuvise **Loodusrelvade äparduste** tabelis.
+* **Ebaõnnestumine:** Sihtmärk pääseb haardest või katse põgeneda ebaõnnestub.
+* **Õnnestumine:** Sihtmärk on haaratud, ründaja saab rakendada ühe maadlusefekti (vt allpool **Maadlusefektid**), kui haare säilib järgmisel voorul.
+* **Eriline:** Ründaja õnnestub automaatselt oma järgmisel Maadluse täringuviskel, et hoida haaret, ja saab +3 karakteriboonuse igale vastupanu täringuviskele maadlusefektide puhul selles voorus.
+* **Kriitiline:** Ründaja õnnestub automaatselt oma järgmisel Maadluse täringuviskel haarde hoidmiseks ja sihtmärgi karakterid on poole võrra vähendatud kõigis vastupanu täringuvisketes maadlusefektide puhul ülejäänud võitlusvooru jooksul.
 
-**Süsteemi märkused:** Ründaja peab tegema Maadluse edukalt, et luua sihtmärgil haare. Edukad rünnakud haaravad juhusliku tabamiskoha (kui seda süsteemi kasutatakse). Maadlust saab Tõrjuda Maadluse oskusega: kui kaitsja Tõrjub relva või kilbiga, haarab ründaja automaatselt relvakäe või kilbikäe, kui Maadluse veeremine õnnestub. Kui haare on loodud, peab ründaja haarde säilitamiseks igas voorus tegema eduka Maadluse veeremise. Mis tahes muu tegevuse kui ühe maadlusefekti sooritamine katkestab haarde. Kui sihtmärk on haaratud, saab ta ründajat rünnata, kui tal on vaba jäse, kasutades Kaklust või mis tahes väikest relva (noad või käsirelvad). Kui mõlemad käed on vabad, saab sihtmärk proovida tagasi Maadelda.
+**Süsteemi märkused:** Ründaja peab tegema eduka Maadluse täringuviske, et sihtmärk kinni haarata. Edukad rünnakud haaravad juhusliku tabamiskoha (kui seda süsteemi kasutatakse). Maadlust saab tõrjuda Maadluse oskusega: kui kaitsja tõrjub relva või kilbiga, haarab ründaja eduka Maadluse täringuviske korral automaatselt relvakäest või kilbikäest. Kui haare on saavutatud, peab ründaja iga voor tegema eduka Maadluse täringuviske, et haaret hoida. Mis tahes muu tegevuse kui ühe maadlusefekti sooritamine katkestab haarde. Kui sihtmärk on haaratud, saab ta ründajat rünnata, kui tal on vaba jäse, kasutades rusikavõitlust või mõnda väikest relva (noad või käsirelvad). Kui mõlemad käed on vabad, saab sihtmärk proovida vastu maadleda.
 
-Mitu ründajat võivad proovida ühte sihtmärki haaretada, ehkki rohkem kui kaks ründajat ei saa ühte asukohta kinni hoida. Ühendage mõlema ründaja STR-tasemed kõigis vaidlustatud testides.
+Mitu ründajat võib proovida ühte sihtmärki maadleda, kuigi mitte rohkem kui kaks ründajat saavad hoida ühte asukohta. Kombineerige mõlema ründaja JÕU-tase kõigis vaidlustatud testides.
 
 > ### Maadlusefektid
->
-> Ründaja, kellel on oma sihtmärgil haare, saab proovida mis tahes järgmistest efektidest, ühe vooru jooksul, alates voorust pärast Maadluse haaret. Mõnda efekti saab kasutada ainult siis, kui ründaja on haaranud konkreetse kehaosa (vt allpool). Kuna mõned efektid hõlmavad konkreetseid tabamiskohti, peab mängujuht võib-olla tulemusi tõlgendama.
->
-> * **Muuda haaret (kõik):** Võrrelge DEX vs. DEX vastupanu tabelis. Kui õnnestub, nihutab ründaja haarde valitud erinevasse tabamiskohta. Kui ei õnnestu, saab sihtmärk tegevuse sooritada, ehkki ründajal on endiselt haare algses asukohas.
->
-> * **Relvitu sihtmärk (käsi):** Ründaja võrdleb STR+SIZ vs. sihtmärgi STR vastupanu tabelis. Kui ründaja õnnestub, pillab sihtmärk kõik selles käes oleva ja käsi jääb immobiliseerituks. Kui ei õnnestu, hoiab sihtmärk haaratud eseme(te)st kinni, ehkki nende käsi jääb immobiliseerituks. Ründaja säilitab haarde.
->
-> * **Haara teine asukoht (käsi/jalg):** Ründaja proovib haarata ja hoida teist valitud tabamiskohta. Võrrelge ründaja DEX vs. sihtmärgi DEX+SIZ vastupanu tabelis. Kui ründaja võidab, haarab ta teise asukoha ja hoiab juba haaratud jäseme lõksus. Kui ei õnnestu, võrdleb sihtmärk kohe oma STR vs. ründaja STR vastupanu tabelis, et kõik haarded katkestada. Ründaja saab hoida nii palju asukohti, kui tal on käsi.
->
-> * **Immobiliseeri jäse (käsi/jalg):** Võrrelge ründaja STR vs. sihtmärgi STR vastupanu tabelis. Kui ründaja võidab, ei saa selle jäsemega tegevusi sooritada, kuni haare on murtud. Kui ei õnnestu, saab sihtmärk tegevuse sooritada, ehkki ründajal on endiselt haare jäsemel.
->
-> * **Vigasta sihtmärki (pea/rind/kõht):** Ründaja lööb küünarnukiga, torkab või pigistab, tekitades sihtmärgile 1D3 punkti kahju pluss oma kahjustuse modifikaator (üldiselt või haaratud tabamiskohale). Sihtmärk võib kohe võrrelda oma STR vs. ründaja STR vastupanu tabelis, et haare katkestada.
->
-> * **Immobiliseeri sihtmärk (pea/rind/kõht):** Võrrelge ründaja STR vs. sihtmärgi STR vastupanu tabelis. Kui ründaja võidab, ei saa sihtmärk üldse tegevusi sooritada, kuni haare on murtud. Kui ei õnnestu, saab sihtmärk endiselt tegevusi sooritada, ehkki ründajal on endiselt haare.
->
-> * **Lükka sihtmärk pikali (pea/rind/kõht):** Ründaja surub sihtmärgi automaatselt maha, vedades mõlemad tegelased pikali. Sihtmärk peab tegema Väleduse veeremise või kannatama 1 punkti üldist kahju (või juhuslikule tabamiskohale).
->
-> * **Kägista sihtmärki (pea):** Sihtmärk peab igas voorus tegema CON×1% veeremise või kannatama 1D3 tabamispunkti kahju oma üldistele tabamispunktidele. Sihtmärk võib kohe võrrelda oma STR vs. ründaja STR vastupanu tabelis, et haare katkestada. Kui ründaja hakkab kägistama, ei pea ta enam Maadluse veeremisi tegema igas voorus, et haaret säilitada. Sihtmärk peab proovima vabaks pääseda (vt **Kägistamine, uppumine ja lämbumine**).
->
-> * **Viska sihtmärk (eriline):** Võrrelge ründaja STR+DEX sihtmärgi SIZ+DEX vastu vastupanu tabelis. Sihtmärgi viskamine vabastab haarde. Kui ründaja on edukas, visatakse sihtmärk 1D6 meetrit, ta lükatakse automaatselt pikali ja peab tegema Väleduse veeremise või kannatama 1D6 punkti üldist kahju (või juhuslikule tabamiskohale). DEX×1% veeremine võimaldab neil jalgadele maanduda ilma kahju saamata. Kui veeremine ei õnnestu, sihtmärki ei visata ja ta võib tegevuse sooritada, ehkki ründaja säilitab haarde. Viset võib proovida mis tahes haaratud jäsemega, kuid edukas veeremine peaga tekitab lihtsalt 1D6 punkti üldist kahju (või pea tabamiskohale) ja ei põhjusta viset.
+> 
+> Ründaja, kes hoiab sihtmärki, võib proovida mis tahes järgmistest efektidest, ühe vooru kohta, alustades voorust pärast Maadluse saavutamist. Mõningaid efekte saab kasutada ainult siis, kui ründaja on haaranud teatud kehaosa (vt allpool). Kuna mõned efektid hõlmavad konkreetseid tabamiskohti, peab mängujuht tulemusi tõlgendama.
+> 
+> * **Haarde muutmine (Igaüks):** Võrrelge JÕU-d vs. JÕU-d vastupanutabelis. Kui see õnnestub, nihutab ründaja haarde valitud tabamiskohta. Kui ebaõnnestub, saab sihtmärk teha tegevuse, kuigi ründaja hoiab endiselt algset asukohta.
+> 
+> * **Sihtmärgi relvitustamine (Käsi):** Ründaja võrdleb JÕU+SUU vs. sihtmärgi JÕU-d vastupanutabelis. Kui ründaja õnnestub, pillab sihtmärk käes oleva eseme ja käsi jääb liikumatuks. Kui ebaõnnestub, hoiab sihtmärk esemest kinni, kuigi käsi jääb liikumatuks. Ründaja säilitab haarde.
+> 
+> * **Teise asukoha haaramine (Käsi/Jalg)**: Ründaja proovib haarata ja hoida teist valitud tabamiskohta. Võrrelge ründaja OSA-t vs. sihtmärgi OSA+SUU-d vastupanutabelis. Kui ründaja võidab, haarab ta teise asukoha ja hoiab juba haaratud jäset lõksus. Kui ebaõnnestub, võrdleb sihtmärk kohe oma JÕU-d ründaja JÕU-ga vastupanutabelis, et haare murda. Ründaja saab hoida nii palju asukohti, kui tal on käsi.
+> 
+> * **Jäseme immobiliseerimine (Käsi/Jalg)**: Võrrelge ründaja JÕU-d sihtmärgi JÕU-ga vastupanutabelis. Kui ründaja võidab, ei saa selle jäsemege midagi teha, kuni haare on murtud. Kui ebaõnnestub, saab sihtmärk tegevust sooritada, kuigi ründaja hoiab endiselt jäset.
+> 
+> * **Sihtmärgi vigastamine (Pea/Rind/Kõht)**: Ründaja lööb küünarnukiga, torkab või pigistab, tekitades 1D3 punkti kahju pluss oma vigastusmodifikaator sihtmärgile (üldine või hoitavasse tabamiskohta). Sihtmärk võib kohe võrrelda oma JÕU-d ründaja JÕU-ga vastupanutabelis, et haare murda.
+> 
+> * **Sihtmärgi immobiliseerimine (Pea/Rind/Kõht)**: Võrrelge ründaja JÕU-d sihtmärgi JÕU-ga vastupanutabelis. Kui ründaja võidab, ei saa sihtmärk teha ühtegi tegevust, kuni haare on murtud. Kui ebaõnnestub, saab sihtmärk endiselt tegutseda, kuigi ründaja hoiab endiselt haaret.
+> 
+> * **Sihtmärgi pikali paiskamine (Pea/Rind/Kõht):** Ründaja surub sihtmärgi automaatselt maha, lohistades mõlemad tegelased pikali. Sihtmärk peab tegema Osavuse täringuviske või saama 1 punkti üldist kahju (või juhuslikku tabamiskohta).
+> 
+> * **Sihtmärgi kägistamine (Pea):** Sihtmärk peab tegema iga voor OSA×1% täringuviske või saama 1D3 tabamispunkti kahju oma üldistest tabamispunktidest. Sihtmärk võib kohe võrrelda oma JÕU-d ründaja JÕU-ga vastupanutabelis, et haare murda. Kui ründaja alustab kägistamist, ei pea ta enam igas voorus tegema edukaid Maadluse täringuviskeid haarde säilitamiseks. Sihtmärk peab proovima vabaks pääseda (vt **Kägistamine, uppumine ja lämbumine**).
+> 
+> * **Sihtmärgi viskamine (Eriline):** Võrrelge ründaja JÕU+OSA sihtmärgi SUU+OSA-ga vastupanutabelis. Sihtmärgi viskamine vabastab haarde. Kui ründaja õnnestub, visatakse sihtmärk 1D6 meetrit eemale, paisatakse automaatselt pikali ja ta peab tegema Osavuse täringuviske või saama 1D6 punkti üldist kahju (või juhuslikku tabamiskohta). OSA×1% täringuvise võimaldab neil maanduda jalgadele ilma kahju saamata. Kui täringuvise ebaõnnestub, ei visata sihtmärki ja ta võib tegevuse sooritada, kuigi ründaja säilitab haarde. Viset võib proovida mis tahes hoitava jäsemega, kuid edukas täringuvise pea puhul tekitab lihtsalt 1D6 punkti üldist kahju (või pea tabamiskohta) ega põhjusta viskamist.
 
-### Rasketehnika (erinevad)
+### Rasketehnika (mitmesugused)
 
-**Baasvõimalus:** 01%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Manipulatsioon
 
-Kasutage seda oskust mis tahes inimesest suurema masina ja mis tahes ratassõiduki, mis on raskem kui kolimisauto, juhtimiseks, nagu tõstuk, tank, buldooser, kraana, vedur või suurte meresõidukite mootorite juhtimiseks. Rasketehnika hõlmab ka elementaarset hooldust ja ennetavat hooldust, ehkki kui raske masin tõrkub, on selle parandamiseks vajalik Remondi oskus. Õhusõidukite jaoks kasutage Piloteerida oskust. Äpardus lõpeb avarii, mootoririkete ja/või varakahjuga, samas kui ebaõnnestumine tähendab, et masin soovitud ülesannet ei täida. Õnnestumised ja suurepärased õnnestumised näitavad suuremat tõhusust.
+Kasutage seda oskust mis tahes inimesest suurema masina ja mis tahes liikurauto, mis on raskem kui kolimisauto, juhtimiseks, näiteks tõstuk, tank, buldooser, kraana, vedur, või suure merelaeva mootorite käitamiseks. Rasketehnika hõlmab ka elementaarset hooldust ja ennetustöid, kuid kui raske masin rikki läheb, on selle parandamiseks vaja Remondi oskust. Õhusõidukite puhul kasutage Pilootimise oskust. Äpardus toob kaasa krahhi, mootoririkked ja/või varakahju, samas kui ebaõnnestumine tähendab, et masin ei tee soovitud ülesannet. Õnnestumised ja suurepärased õnnestumised viitavad suuremale tõhususele.
 
-**Erialad:** Sõiduki tüübi järgi (soomussõidukid, katlad, buldooserid, kraanad, mootorid, turbiinid jne).
+**Erialad:** Sõiduki tüübi järgi (soomusmasinad, katlad, buldooserid, kraanad, mootorid, turbiinid jne).
 
-**Süsteemi märkused:** Üldiselt ei suuda rasked masinad tagaajamistes osaleda, kuid teatud tüüpi masinaid saab kasutada relvadena, tehes 3D6 kuni 6D6 kahju, olenevalt seadme suurusest. Selle oskuse kasutamine väljaspool tavalist jõudlust on Raske, nagu ka kasutamine ja hooldus äärmuslikes tingimustes.
+**Süsteemi märkused:** Üldiselt ei saa raskemasinad tagaajamistes osaleda, kuid teatud tüüpi masinaid saab kasutada relvadena, tekitades 3D6 kuni 6D6 kahju, sõltuvalt seadme suurusest. Selle oskuse kasutamine väljaspool tavapärast toimimist on raske, nagu ka kasutamine ja hooldus ekstreemsetes tingimustes.
 
-### Raskerelv (erinevad)
+### Raskerelv (mitmesugused)
 
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust lõhkeainete või suurte otsetule-relvade kasutamiseks, mis suruvad kaasaskantavuse piire, nagu bazookad, raketilaskjad, raskekuulipildujad, statiivile paigaldatud laserikahurid ja teised. Raskema laskemoona nagu kahurite, piiramismasinate või sõidukile või pöördtapile paigaldatud relvade puhul kasutage Suurtükiväe oskust.
+Kasutage seda oskust lõhkekehade või suurte otsetulirelvade käitamiseks, mis piiravad teisaldatavust, näiteks bazookad, raketiheitjad, raskekuulipildujad, statiivile paigaldatud laserikahurid jms. Kasutage Suurtükiväe oskust raskema laskemoona jaoks, nagu kahurid, piiramismasinad või sõidukile/alusele paigaldatud relvad.
 
-**Erialad:** Raskerelvad jäävad traditsiooniliste relvade ja suurtükiväe vahele ning neid kasutatakse sageli lõhkeaine edastamiseks. Erialad on relva tüübi järgi ja hõlmavad bazookat, leegiheitjat, mini-kuulipildujat, raketilaskjat jne. Lisateabe saamiseks vt **Suurtükivägi ja lõhkeained** *Kaheksandas peatükis: Varustus*.
+**Erialad:** Raskerelvad jäävad traditsiooniliste relvade ja suurtükiväe vahele ning neid kasutatakse sageli lõhkeaine edastamiseks. Erialad on relvatüübi järgi ja hõlmavad Bazookat, Leegiheitjat, Minikuulipildujat, Raketiheitjat jne. Lisateavet vt kaheksanda peatüki **Varustus** jaotist **Suurtükivägi ja lõhkeained**.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Kaugvõitlusrelva äparduste tabel** konkreetsete mõjude kohta. Raskerelvad tavaliselt läbistavad või tekitavad tagasilöögi.
+**Mõjud:** Konkreetsete mõjude kohta vt **Ründe- ja kaitsemaatriksit** ning **Kaugrelvade äparduste tabelit**. Raskerelvad tekitavad tavaliselt läbistava vigastuse või tagasilöögi.
 
-**Süsteemi märkused:** Enamik raskerelvi kasutab automaattuld või tulistab lõhkeainet. Vt **Automaattuli** ja **Plahvatused**. Kõik möödaläinud lasud lähevad kuhugi; mängujuht peaks otsustama, kuhu möödaläinud lõhkeainelasud tabavad.
+**Süsteemi märkused:** Enamik raskerelvi kasutab automaattuld või laseb lõhkeainet. Vt **Automaattuli** ja **Plahvatused**. Kõik möödalasud maanduvad kuhugi; mängujuht peaks otsustama, kuhu möödalastud lõhkelaengud tabavad.
 
-### Peituda
+### Peitumine
 
-**Baasvõimalus:** 10%
+**Baastõenäosus:** 10%
 
 **Kategooria:** Füüsiline
 
-Objekti või iseenda varjamise kunst vaateväljast. Teie tegelane peaks seda oskust kasutama tagaajamise ajal põgenemiseks, objekti hõlpsa tuvastamise eest hoidmiseks või järelevalve vältimiseks. Äpardus tõmbab kohest tähelepanu, ebaõnnestumine tähendab, et Märgata veeremine peitunu leidmiseks muutub *Lihtsaks*, õnnestumine nõuab leidmiseks Märgata veeremist ja suurepärased õnnestumised muudavad Märgata veeremise kas *Raskeks* või *Võimatuks*.
+Objekti või enda vaateväljast varjamise kunst. Teie tegelane peaks seda oskust kasutama tagaajamise ajal põgenemiseks, objekti hõlpsa avastamise vältimiseks või jälgimise eest hoidumiseks. Äpardus tõmbab kohest tähelepanu, ebaõnnestumine tähendab, et Märkamise täringuvise peitunu leidmiseks muutub *lihtsaks*, õnnestumine nõuab Märkamise täringuviset, et teda leida, ja suurepärased õnnestumised muudavad Märkamise täringuviske kas *raskeks* või *võimatuks*.
 
-**Süsteemi märkused:** Peituda kontrolle vastandatakse vaatleja või otsija Märgata veeremistele. Piisav varjamine on hädavajalik; varjamine väheses varjus on Raske ja varjumise täielik puudumine (lagedal, lauspäeval) muudab selle Võimatuks. Spetsiaalsed rõivad või varustus (näovärv, kamuflaažriided jne) võivad anda kuni +20% boonuse, sõltuvalt nende kvaliteedist. Keskkonnatingimused võivad pakkuda täiendavaid boonuseid. Peituv inimene peaks hoiduma nii liikumatuna kui võimalik; liikumine Peituda kasutamise ajal on Raske ja rohkem kui meetri läbimine võitlusvoorus nõuab nii Peituda kui ka Hiilida veeremisi. Peituda on efektiivne ainult visuaalse ja auditiivse tuvastamise vastu; täiustatud sensorid võivad peituvat tegelast leida kehasoojuse järgi või terav nina võib neid leida Tunnetada oskust kasutades.
+**Süsteemi märkused:** Peitumise täringuvise vastandub vaatleja või otsija Märkamise oskusele. Piisav varjukoht on hädavajalik; hõredas varjus peitumine on raske ja täielik varjukohtade puudumine (avatud väljak, keskpäevane päike) muudab selle võimatuks. Spetsiaalne riietus või varustus (näovärv, kamuflaažirõivad jne) võib lisada kuni +20% boonust, sõltuvalt kvaliteedist. Keskkonnatingimused võivad pakkuda täiendavaid boonuseid. Peituv inimene peaks hoidma võimalikult liikumatuna; liikumine Peitumise ajal on raske ja rohkem kui ühe meetri liikumine võitlusvoorus nõuab nii Peitumise kui ka Hiilimise täringuviseid. Peitumine on tõhus ainult visuaalse ja kuulmisalase tuvastamise vastu; arenenud sensorid võivad peituva tegelase leida kehasoojuse järgi või terav nina võib nad leida Meelte oskuse abil.
 
-### Taiplikkus
+### Intuitsioon (Insight)
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust teise inimese iseloomu, emotsionaalse seisundi ja motiivide hindamiseks, tuginedes kehakeelele, kõnemustritele ja muudele mittemateriaalsetele teguritele. Taiplikkus võimaldab hasartmängijal blufi ära tunda või detektiivil valedest aru saada. Äpardus annab eksitavat teavet, ebaõnnestumine ei anna midagi, õnnestumine laseb teada, mida sihtmärk võib mõelda ja suurepärased õnnestumised paljastavad teile nende sisimad mõtted (mõistuse piires).
+Kasutage seda oskust teise inimese iseloomu, emotsionaalse seisundi ja motiivide hindamiseks, tuginedes kehakeelele, kõnemustritele ja muudele tabamatutele teguritele. Intuitsioon võimaldab hasartmängijal bluffi tajuda või detektiivil valesid nuhkida. Äpardus annab eksitavat teavet, ebaõnnestumine ei anna midagi, õnnestumine laseb teada, mida sihtmärk võib mõelda, ja suurepärased õnnestumised paljastavad teile nende sisimad mõtted (mõistlikkuse piires).
 
-**Süsteemi märkused:** Sellele oskusele saab vastanduda Etikett, Kiirkõne või isegi Veenda. Selle oskuse kasutamine lähedaste sõprade, pereliikmete või abikaasade puhul on Lihtne. Kui kasutatakse **Isiksuseomaduste** süsteemi, saab Taiplikkus määrata nende isiksuseomaduste tugevust üldiselt (näiteks "väga isekas").
+**Süsteemi märkused:** See oskus võib vastanduda Etiketile, Kiirkõnele või isegi Veenmisele. Selle oskuse kasutamine lähedaste sõprade, pereliikmete või abikaasade puhul on lihtne. Kui kasutate **Isiksuseomaduste** süsteemi, võib Intuitsioon määrata nende isiksuseomaduste tugevuse üldiselt (näiteks "väga isekas").### Hüpe
 
-### Hüpata
-
-**Baasvõimalus:** 25%
+**Baasprotsent:** 25%
 
 **Kategooria:** Füüsiline
 
-Kasutage seda oskust kõrguse või vahemaa peale hüppamiseks, takistustest ülehüppamiseks. Tavatingimustes võib mõistlikult heas vormis inimene hüpata oma pikkuse horisontaalselt ja poole oma pikkusest vertikaalselt seisvast asendist ning ligikaudu kolm meetrit horisontaalselt jooksuhoo pealt. Äpardus põhjustab kukkumise (1D6 üldist tabamispunktide kahju või tabamiskohale), õnnestumine toob kaasa hüppe vastavalt ülaltoodule, erakordne õnnestumine suurendab kogust 50% ja kriitiline õnnestumine kahekordistab seda. Hüpata võib samuti vähendada kukkumiskahju 1D6 võrra iga õnnestumise astme kohta (tavaline õnnestumine –1D6, erakordne –2D6, kriitiline –3D6).
+Kasuta seda oskust kõrgusesse või kaugusesse hüppamiseks ning takistustest ülehüppamiseks. Tavaolukorras suudab mõistlikult heas füüsilises vormis inimene hüpata paigalt oma kehapikkuse jagu horisontaalselt ja poole oma kehapikkusest vertikaalselt, ning hoovõtuga ligikaudu kolm meetrit horisontaalselt. Eksimus (fumble) toob kaasa kukkumise (1D6 üldist elupunktide kahju või tabamuskohta), õnnestumine toob kaasa ülal kirjeldatud hüppe, eriline õnnestumine suurendab vahemaad 50% ja kriitiline õnnestumine kahekordistab selle. Hüpe võib samuti vähendada kukkumiskahju 1D6 võrra iga õnnestumistaseme kohta (tavaline õnnestumine –1D6, eriline –2D6, kriitiline –3D6).
 
-**Süsteemi märkused:** Seisvalt hüppamine nõuab 1 DEX astet. Jooksuhüpe kasutab sama DEX astet mis tavaline jooksu liikumine. Säravate või show-hüpete (saltod, klapid jne) tegemine on Raske.
+**Süsteemi märkused:** Paigalt hüpe nõuab 1 OSA järku. Hoovõtuga hüpe kasutab sama OSA järku mis tavaline jooksmine. Uhkeldavate või silmapaistvate hüpete sooritamine (saltod, flippamine jne) on Raske.
 
-### Teadmised (erinevad)
+### Teadmised (mitmesugused)
 
-**Baasvõimalus:** 05% või 00% (vt allpool)
+**Baasprotsent:** 05% või 00% (vt allpool)
 
 **Kategooria:** Vaimne
 
-See oskus esindab kogemust või akadeemilist õpet teadmiste harus. Kasutage Teadmiste oskust asjakohaste faktide meenutamiseks, vihjete analüüsimiseks või tuvastamiseks, loogiliste oletuste tegemiseks ja muljetavaldava trivia meenutamiseks. Teaduslikumate teemade jaoks vt Teadus. Äpardus põhjustab eksitavaid ja ebatäpseid valeväiteid ning õnnestumised annavad kasulikumat ja üksikasjalikumat teavet.
+See oskus esindab kogemust või akadeemilist õpet mingis teadmiste valdkonnas. Kasuta Teadmiste oskust asjakohaste faktide meenutamiseks, vihjete analüüsimiseks või tuvastamiseks, loogiliste järelduste tegemiseks ja muljetavaldavate tühiasjade meenutamiseks. Teaduslikumate teemade jaoks vt Teadus. Eksimus toob kaasa eksitavaid ja ebatäpseid valeväiteid, õnnestumised annavad aga kasulikumat ja üksikasjalikumat teavet.
 
-**Erialad:** Raamatupidamine, antropoloogia, arheoloogia, ajalugu, õigus, okultism, religioon jne. (vt läheduses olevat loetelu). Mängujuht peaks määrama, kas Teadmiste oskusel on baasvõimalus 05% tavaliste erialade jaoks või 00% nende jaoks, mis nõuavad uurimistööd ja õpinguid, et omada isegi algelisi teadmisi.
+**Erialad:** Raamatupidamine, Antropoloogia, Arheoloogia, Ajalugu, Õigusteadus, Okultism, Religioon jne (vt kõrvalolevat loendit). Mängujuht peaks määrama, kas Teadmiste oskuse baasprotsent on 05% levinumate erialade puhul või 00% nende puhul, mis nõuavad uurimist ja õppimist, et omada isegi alusteadmisi.
 
-**Seadete märkused:** Fantaasia- ja ajaloolistes seadetes on olemas ainult väike alamhulk erialasid. Kui seaded muutuvad kaasaegsemaks, erialad suurenevad.
+**Maailma märkused:** Fantaasia- ja ajaloolistes maailmades on olemas vaid väike osa erialadest. Maailmade moderniseerudes erialade hulk kasvab.
 
-**Süsteemi märkused:** Vabatahtlik EDU omadus ja Teada veeremine katavad enamiku tavateadmisi – spetsialiseeritud teavet esindab Teadmiste oskuse sobiv eriala.
+**Süsteemi märkused:** Valikuline INT tunnus ja Teadmiste (Know) vise katavad enamiku levinud teadmistest – spetsialiseeritud teavet esindab Teadmiste oskuse vastav eriala.
 
 > ### Teadmiste erialad
->
-> Need erialad ei ole terviklikud ja neid saab vastavalt vajadusele laiendada. Mõnel erialal on alamerialad, spetsiifilised keskendumised ühele teemale selles valdkonnas. Kirjutage need nii: Teadmised (Grupp/Templirüütlid) või Teadmised (Templirüütlid), vastavalt soovile.
->
-> **Akadeemiline pärimus (ainult iidsed ajastud):** Ajastutel, mil kogu kirjalikku teavet saab mahutada ühte raamatukokku, esindab see seda, kui "õppinud" keegi on. Kasutage seda nagu Teada veeremist peaaegu iga teadmiste valdkonna jaoks.
->
-> **Raamatupidamine:** Kasutage seda raamatupidamise analüüsimiseks, finantsanalüüsiks (võlg, pankrot, rikkus, puhasväärtus jne) ja finantsiliste eeskirjade eiramiste (kummalised kulutused, omastamine või ootamatud sissetulekud) tuvastamiseks.
->
-> **Antropoloogia:** Kultuuride uurimine, sealhulgas kombed, kunst ja käitumine. Kasutage seda isiku või artefakti päritolukultuuri tuvastamiseks või kultuuri sotsiaalsete tavade ja käitumisviiside määramiseks.
->
-> **Arheoloogia:** Iidsete ja kadunud kultuuride uurimine. Kasutage seda surnud kultuuri artefakti tuvastamiseks, võltsingu märkamiseks või väljakaevamise läbiviimiseks ja koha või piirkonna ajaloo kohta mõistlike järelduste tegemiseks.
->
-> **Kunstiajalugu:** Kunsti uurimine erinevatest ajastutest ja kohtadest, sealhulgas stiil, kuulsad kunstnikud ja konkreetsed teosed. Kasutage seda kunstiteose päritolu tuvastamiseks, võltsingu märkamiseks või teose omistamiseks teadaolevale meistrile.
->
-> **Blasfeemiline pärimus:** Hirmsate okultsete saladuste ja iidsete kurjuste uurimine. Mida rohkem on inimesel neid teadmisi, seda väiksem on nende haare vaimse tervise üle (vt Vaimne tervis). Blasfeemiline pärimus algab 0%, mitte 05% ja seda ei saa kogemustega suurendada.
->
-> **Äri:** Ettevõtlike tavade, gildieeskirjade, korporatiivseaduste ja juhtimistehnikate uurimine kaubandusettevõtte jaoks. Kasutage seda suuremate tegijate tuvastamiseks valdkonnas või turul, majandustrendide ennustamiseks ja kasumi teenimiseks.
->
-> **Spionaaž:** Teadmised spiooniorganisatsioonidest, kuulsatest või kurikuulsatest spioonidest ja agentidest; metoodika, märkimisväärsed figuurid, organisatsioonid, taktikad jne. Kasutage seda agentuuride ja nende töömeetodite kohta teadmiseks. Koodimurdmist käsitletakse Teaduse (Krüptograafia) abil.
->
-> **Folkloor:** Teadmised konkreetse rahva või piirkonna kommetest, lugudest, sõnadest, pikkadest juttudest ja legendidest. Kasutage seda oskust folkloori või muinasjutu elementide tuvastamiseks või meenutamiseks, olgu see siis maaeluline või üleloomulik.
->
-> **Grupp/Alameriala:** Üldine teave konkreetse kultuuri, rahvuse, grupi, klubi või sotsiaalse klassi kohta. Kasutage seda oskust selle grupi liikme tuvastamiseks, "kes on kes" teadmiseks selles grupis ja grupi sotsiaalsete tavade meenutamiseks.
->
-> **Ajalugu:** Mineviku sündmuste ja ajastute uurimine. Kasutage seda oskust mis tahes koha, inimese, sündmuse või objekti tähtsuse meenutamiseks või õigesti arvamiseks, millal ese või dokument tehti.
->
-> **Õigus:** Õiguspraktika ja pretsedentide uurimine. Kasutage seda oskust kavandatud tegevuse seaduslikkuse hindamiseks, õiguslike pretsedentide leidmiseks, endale võimudega seotud probleemide vabastamiseks või kriminaalasja või -kaitsja kasuks kohtuasja ehitamiseks.
->
-> **Lingvistika:** Keele enda uurimine, alates grammatika ja sõnavara alustest kuni selleni, kuidas ühiskonnad kujundavad keeli. Kasutage seda oskust tundmatute keelte tuvastamiseks või mõne sõna lahendamiseks või põhitähenduse haaramiseks, ehkki see oskus ei asenda vastavat Keele oskust.
->
-> **Kirjandus:** Olulise proosa, luule ja esseede uurimine, tavaliselt ühest kultuurist. Kasutage seda oskust tsitaadi või viite õigeks tuvastamiseks konkreetsele teosele, tuvastamiseks, millal ja kus võidi kirjutada tundmatu fragment, tundmatu teose omistamiseks teadaolevale autorile, kirjandusliku võltsingu märkamiseks või kuulsatest kirjandusteostest kurjakuulutavalt asjakohaste lõikude tsiteerimiseks.
->
-> **Loodusmaailm:** Teadmised keskkonnast, ilmastiku mustritest, taimestikust, loomastikust ja piirkonna loodusloost, peamiselt praktilises mõttes, mitte teadusliku taustana.
->
-> **Okultism:** Teadmised maagiast, varjatud legendidest ja nii-öelda "salajasest ajaloost", mis katab kõike alates arkaanilistest filosoofiatest kuni tänapäevaste vandenõuteooriateni. Kasutage seda oskust alkeemiliste või astroloogiliste sümbolite tähtsuse mõistmiseks, tuvastamiseks, milline maagiline traditsioon lõi rituaalse tööruumi, teadmiseks võimsate vaimude nimesid või tuvastamiseks salajasi fraktsioone, mis vandenõustavad olukorda manipuleerima.
->
-> **Filosoofia:** Eksistentsi ja selle tähenduse uurimine, alates põhiloogikast kuni eksistentsialismi, nihilismi ja kaugemale. Kasutage seda oskust konkreetse filosoofia ettekirjutuste meenutamiseks, autori või kõneleja argumendi filosoofiliste kalduvuste tuvastamiseks ja filosoofiliseks debatiks.
->
-> **Poliitika:** Poliitiliste süsteemide või muude kodanikele pealesurutud või nende poolt valitud valitsemisviiside uurimine ja teadmised. Kasutage seda oskust piirkonna suurte jõudude mõistmiseks, kuidas poliitilist struktuuri mõjutada ja kuidas kodanikud reageerivad poliitilisele muutusele või mõjule.
->
-> **Piirkond/Alameriala:** Üldine teave konkreetse linna, piirkonna või rahva kohta, sealhulgas olulised inimesed, kohalikud vaatamisväärsused ja piirkondlik ajalugu. Kasutage seda oskust odava majutuse leidmiseks kiirest linnast, maakonna parima teeäärse võõrastemaja meenutamiseks, kohaliku poliitika mõistmiseks või konkreetsete kaupmeeste või käsitööliste leidmiseks.
->
-> **Religioon/Alameriala:** Konkreetse religiooni müütide, liturgia ja tavade üksikasjad. Kasutage seda oskust tabude rikkumise vältimiseks, usu seaduste ja kohustuste meenutamiseks, teoloogiapunktide edukaks arutamiseks, regaalide või usutekstide tuvastamiseks, õigeusu eristamiseks ketserlusest või religioosse tseremoonia nõuetekohaseks läbiviimiseks.
->
-> **Tänavatarkus:** Teadmised ühiskonna varjulisematest segmentidest, alates vaeste protokollidest kuni kuritegeliku allilma viisideni. Kasutage seda oskust varjupaiga leidmiseks, varastatud kaupade jaoks vahendaja tuvastamiseks või teadmiseks, kellelt küsida muid seaduslikke või ebaseaduslikke teeneid.
+> 
+> Need erialad ei ole ammendavad ja neid võib vastavalt vajadusele laiendada. Mõnel erialal on alamerialad, mis keskenduvad ühele konkreetsele teemale antud valdkonna sees. Kirjuta need järgmiselt: Teadmised (Grupp/Templirüütlid) või Teadmised (Templirüütlid), vastavalt soovile.
+> 
+> **Akadeemilised teadmised (ainult muinasaeg):** Ajastutel, mil kogu kirjalikke teadmisi saab mahutada ühte raamatukokku, esindab see inimese „haritust“. Kasuta seda nagu Teadmiste (Know) viset peaaegu igas teadmiste valdkonnas.
+> 
+> **Raamatupidamine:** Kasuta seda raamatupidamisandmete analüüsimiseks, finantsanalüüsiks (võlg, pankrot, rikkus, netoväärtus jne) ja finantsrikkumiste (kummalised kulutused, omastamine või ootamatud sissetulekud) tuvastamiseks.
+> 
+> **Antropoloogia:** Kultuuride uurimine, sealhulgas kombed, kunst ja käitumine. Kasuta seda isiku või eseme põliskultuuri tuvastamiseks või kultuuri sotsiaalsete normide ja käitumisviiside määramiseks.
+> 
+> **Arheoloogia:** Muistsete ja kadunud kultuuride uurimine. Kasuta seda väljasurnud kultuuri eseme tuvastamiseks, võltsingu märkamiseks või väljakaevamiste läbiviimiseks ja paiga või piirkonna ajaloo kohta mõistlike järelduste tegemiseks.
+> 
+> **Kunstiajalugu:** Erinevate ajastute ja paikade kunsti uurimine, sealhulgas stiilid, kuulsad kunstnikud ja konkreetsed teosed. Kasuta seda kunstiteose päritolu tuvastamiseks, võltsingu märkamiseks või teose omistamiseks tuntud meistrile.
+> 
+> **Jumalavallatu teadmine:** Hirmuäratavate okultsete saladuste ja muistsete kurjusevormide uurimine. Mida rohkem on selliseid teadmisi, seda väiksem on side reaalsusega (vt Mõistus). Jumalavallatu teadmise oskus algab 0% juurest, mitte 05% juurest, ja seda ei saa kogemuste kaudu suurendada.
+> 
+> **Äritegevus:** Ettevõtlustavade, gildi eeskirjade, äriõiguse ja äriühingu juhtimistehnikate uurimine. Kasuta seda valdkonna või turu suurtegijate tuvastamiseks, majandustrendide ennustamiseks ja kasumi teenimiseks.
+> 
+> **Spionaaž:** Teadmised spiooniorganisatsioonidest, kuulsatest või kurikuulsatest spioonidest ja agentidest; metoodika, märkimisväärsed isikud, organisatsioonid, taktikad jne. Kasuta seda agentuuride ja nende töömeetodite tundmiseks. Krüpteerimisega tegeleb Teadus (Krüptograafia).
+> 
+> **Folkloor:** Teadmised konkreetse rahva või piirkonna kommetest, lugudest, laulusõnadest, pajatusest ja legendidest. Kasuta seda oskust rahvajutu või muinasjutu elementide tuvastamiseks või meenutamiseks, olgu need maalähedased või üleloomulikud.
+> 
+> **Grupp/Alameriala:** Üldteave konkreetse kultuuri, rahvuse, grupi, klubi või sotsiaalse klassi kohta. Kasuta seda oskust grupi liikme tuvastamiseks, teadmiseks, „kes on kes“ grupis, ning sotsiaalsete kommete ja normide meenutamiseks.
+> 
+> **Ajalugu:** Mineviku sündmuste ja ajastute uurimine. Kasuta seda oskust mis tahes koha, isiku, sündmuse või eseme tähtsuse meenutamiseks või õigesti oletamiseks, millal ese või dokument on valmistatud.
+> 
+> **Õigusteadus:** Õiguspraktika ja pretsedentide uurimine. Kasuta seda oskust kavandatava tegevuse seaduslikkuse hindamiseks, juriidiliste pretsedentide leidmiseks, probleemidest ametivõimudega vabanemiseks või kriminaalasja algatamiseks või selle vastu seismiseks.
+> 
+> **Lingvistika:** Keele uurimine, alates grammatika ja sõnavara alustest kuni selleni, kuidas ühiskonnad keeli kujundavad. Kasuta seda oskust tundmatute keelte tuvastamiseks või mõne sõna dešifreerimiseks või üldise tähenduse haaramiseks, ehkki see oskus ei asenda vastavat Keeleoskust.
+> 
+> **Kirjandus:** Tähtsa proosa, luule ja esseede uurimine, tavaliselt ühe kultuuri piires. Kasuta seda oskust tsitaadi või konkreetse teose viite õigeks tuvastamiseks, tundmatu fragmendi kirjutamisaja ja -koha määramiseks, salapärase teose omistamiseks tuntud autorile, kirjandusliku võltsingu märkamiseks või kuulsatest kirjandusteostest kurjakuulutavalt sobivate lõikude tsiteerimiseks.
+> 
+> **Loodusmaailm:** Teadmised keskkonnast, ilmastikuoludest, taimestikust, loomastikust ja piirkonna loodusloost, eelkõige praktilisest aspektist, mitte teadusliku taustaga.
+> 
+> **Okultism:** Teadmised maagiast, hämaratest legendidest ja nn „salajasest ajaloost“, mis hõlmab kõike alates arkaansetest filosoofiatest kuni tänapäevaste vandenõuteooriateni. Kasuta seda oskust alkeemiliste või astroloogiliste sümbolite tähenduse mõistmiseks, rituaalse tööruumi maagilise traditsiooni tuvastamiseks, vägevate vaimude nimede teadmiseks või olukorda manipuleerivate salaühingute tuvastamiseks.
+> 
+> **Filosoofia:** Olemasolu ja selle tähenduse uurimine, alates põhiloogikast kuni eksistentsialismi, nihilismi ja kaugemaleni. Kasuta seda oskust konkreetse filosoofia põhimõtete meenutamiseks, autori või kõneleja argumendi filosoofiliste kallakute tuvastamiseks ja filosoofilistes vaidlustes osalemiseks.
+> 
+> **Poliitika:** Poliitiliste süsteemide või muude kodanikele kehtestatud või nende poolt valitud valitsemisviiside uurimine ja teadmised. Kasuta seda oskust piirkonna suurte võimublokkide mõistmiseks, poliitilise struktuuri mõjutamiseks ja kodanike reaktsioonide ennustamiseks poliitiliste muutuste või mõjutuste suhtes.
+> 
+> **Piirkond/Alameriala:** Üldteave konkreetse linna, piirkonna või rahvuse kohta, sealhulgas olulised isikud, kohalikud maamärgid ja piirkondlik ajalugu. Kasuta seda oskust odava majutuse leidmiseks elavas linnas, maakonna parima teeäärse võõrastemaja meenutamiseks, kohaliku poliitika mõistmiseks või konkreetsete kaupmeeste või käsitööliste leidmiseks.
+> 
+> **Religioon/Alameriala:** Konkreetse religiooni müütide, liturgiate ja tavade üksikasjad. Kasuta seda oskust tabude rikkumise vältimiseks, usu seaduste ja kohustuste meenutamiseks, edukaks teoloogiliste punktide arutamiseks, regaalia või usuliste tekstide tuvastamiseks, õigeusu eristamiseks ketserlusest või religioosse tseremoonia nõuetekohaseks läbiviimiseks.
+> 
+> **Tänavatarkus:** Teadmised ühiskonna varjulisematest segmentidest, alates vaeste protokollist kuni kuritegeliku allmaailma viisideni. Kasuta seda oskust turvamaja leidmiseks, varastatud kauba edasimüüja tuvastamiseks või teadmiseks, kelle poole pöörduda muude poollegaalsete või illegaalsete teenete palumiseks.
 
-### Keel (erinevad)
+### Keel (mitmesugused)
 
-**Baasvõimalus:** INT×5 (või EDUx5) või 00% (vt allpool)
+**Baasprotsent:** INT×5 (või EDU×5) või 00% (vt allpool)
 
 **Kategooria:** Suhtlus
 
-Võime suuliselt suhelda keeles, olgu see siis emakeel või muu keel. Teisi keeli saab õppida kodus, koolis, kirikus, töökohal või tänavatel, sõltuvalt kultuurist ja kasvatusest. Enamik tegelasi alustab oma keele tundmisega INT×5 tasemel. Kakskeelsed tegelased peavad olema kulutanud oskuspunkte teisele keele oskusele. Igapäevane vestlus omas keeles on Automaatne ja ei nõua oskuse veeremist. Oskuste veeremised on vajalikud ainult raskete mõistete edastamisel või rasketes ja ebatavalistes olukordades, nagu tõlkimine. See oskus katab suulise suhtluse – lugemine ja kirjutamine kasutavad Kirjaoskust. Äpardus tähendab katastroofilist arusaamatust, samas kui õnnestumised annavad sujuva ja mõnikord kõneka suhtluse.
+Suutlikkus suuliselt suhelda keeles, olgu see emakeel või muu keel. Muud keeled võivad olla omandatud kodus, koolis, kirikus, töökohal või tänaval, sõltuvalt kultuurist ja kasvatusest. Enamik tegelasi alustab oma emakeele tundmisega tasemel INT×5. Kakskeelsed tegelased peavad olema investeerinud oskuspunkte teise keele oskusse. Igapäevane vestlus omas keeles on Automaatne ega vaja oskuse viskamist. Oskuse visked on vajalikud ainult keeruliste kontseptsioonide edastamisel või keerulistes ja ebatavalistes olukordades, näiteks tõlkimisel. See oskus katab suulise suhtluse – lugemine ja kirjutamine kasutavad Kirjaoskust. Eksimus tähendab katastroofilist arusaamatust, samas kui õnnestumised annavad ladusa ja mõnikord kõneka suhtluse.
 
-**Erialad:** Keele kaupa. Iga eriala kehtib ühele keelele; kui soovite, et teie tegelane õpiks lisakeele, peavad nad üles ehitama täiendava Keele oskuse.
+**Erialad:** Keelte kaupa. Iga eriala kehtib ühele keelele; kui soovid, et tegelane õpiks lisakeele, peab ta arendama täiendavat Keeleoskust.
 
-**Süsteemi märkused:** Kui kasutatakse EDU vabatahtlikku reeglit, valige baasvõimaluse jaoks INT×5 või EDU×5 hulgast suurem. Hämarate murrete või keele iidsete vormide mõistmine on Raske. Keerukad või pikad dokumendid või vestlused mitme olulise punktiga võivad nõuda mitut keele veeremist mõistmiseks, ühe iga punkti kohta. Üksikasjade kohta, kuidas oskustase mõjutab suhtlust ja sujuvust, vt tabelit **Keele sujuvus**.
+**Süsteemi märkused:** Kui kasutatakse EDU valikulist reeglit, vali baasprotsendiks INT×5 ja EDU×5 vahel kõrgem. Hämarate murrete või keele muistsete vormide mõistmine on Raske. Keerulised või pikad dokumendid või mitme olulise punktiga vestlused võivad nõuda mitut keeleoskuse viset, ühe iga punkti kohta. Vt **Keeleoskuse (Language Fluency)** tabelit, et saada teavet selle kohta, kuidas oskuse tase mõjutab suhtlust ja ladusust.
 
-##### Keele sujuvus
+##### Keeleoskus
 
-| Oskustase | Sujuvus |
+| Oskuse tase | Ladusus |
 | :---- | :---- |
-| 01–05 | Teab ainult mõnikümmend sõna, oskab loendada 10-ni. Saab edastada ainult lihtsaid ideid. Keerukas suhtlus (Kaubelda, Veenda jne) on välistatud. Näiteks: "Toit. Palun müü mulle." |
-| 6–25 | Saab edasi lihtsad soovid, piisavalt, et olla mõistetav ja igapäevaselt ellu jääda. Keerukas suhtlus (Kaubelda, Veenda jne) on Raske. Näiteks: "Kui palju raha selle lambakintsu eest?" |
-| 26–50 | Kindel suhtlus. Kõneleja räägib paremini kui laps, edastades enamiku ideid. Suhtlusoskused ei ole piiratud, kuid teatud tegevused võivad siiski olla Rasked. Näiteks: "Kui palju? Aga see lammas oli eile palju odavam!" |
-| 51–75 | Võimaldab kõnelejal jutustada lugusid, saagasid, laule jne. Idomid ja naljad muutuvad kättesaadavaks. Saab läbi minna kohalikuna. Keerukad suhtlused on nüüd kõneleja täieliku oskustaseme veeremised. Näiteks: "Vaata seda lõiget! Lammas oli enne lihunikuks saamist mäda ja pole ilmselgelt väärt isegi seda higi, mida tööline siia toomisega nägi." |
-| 76–00 | Luuletajate, filosoofide, teadlaste ja diplomaatide keel. Kõneleja ei saa mitte ainult kohalikuna läbi, vaid võib ka matkida ühte või mitut kohalikku murret. Žargoon ja hämara kõne vormid tulevad kergelt. Näiteks: "Kindlasti saaks selle proviandieksemplari hinnangut ümber hinnata, pidades silmas selle edasijõudnud lagunemisastet." |
+| 01–05 | Tunneb vaid paarkümmend sõna, oskab loendada 10-ni. Võib suhelda vaid lihtsate ideedega. Keeruline suhtlus (Kauplemine, Veenmine jne) on välistatud. Näiteks: „Toit. Palun müü mulle.“ |
+| 6–25 | Edastab lihtsaid palveid, piisavalt, et olla mõistetud ja igapäevaselt toime tulla. Keeruline suhtlus (Kauplemine, Veenmine jne) on Raske. Näiteks: „Kui palju raha selle lambakoiva eest?“ |
+| 26–50 | Enesekindel suhtlus. Kõneleja suudab rääkida paremini kui laps, andes enamiku ideedest edasi. Suhtlusoskused ei ole piiratud, kuid teatud tegevused võivad siiski olla Rasked. Näiteks: „Kui palju? Aga see lamba kints oli eile palju odavam!“ |
+| 51–75 | Võimaldab kõnelejal jutustada lugusid, saagasid, laule jne. Idioomid ja naljad muutuvad arusaadavaks. Võib eksida kohaliku pähe. Keerulisi suhtlusolukordi veeretatakse nüüd kõneleja täie oskustaseme juures. Näiteks: „Vaata seda lõiget! Lamba kints oli enne tükeldamist juba roiskunud ja pole ilmselgelt väärt isegi töömehe higi, kes selle siia kandis.“ |
+| 76–00 | Poeetide, filosoofide, teadlaste ja diplomaatide keel. Kõneleja ei saa mitte ainult kohaliku pähe esineda, vaid suudab matkida ka ühte või mitut kohalikku murret. Žargoon ja hämarad kõnevormid tulevad kergelt. Näiteks: „Kahtlemata võiks selle toiduaine isendi hindamist uuesti kaaluda, võttes arvesse selle kaugelearenenud lagunemisastet.“ |
 
-### Kuulda
+### Kuulamine
 
-**Baasvõimalus:** 25%
+**Baasprotsent:** 25%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust helide kuulmiseks, tõlgendamiseks ja mõistmiseks, olgu selleks sosinad suletud ukse taga, furtid sosinad, hiilivad sammud ja murdunud oksad. Kasutage seda oskust, et näha, kas müra äratab magava tegelase, või et näha, kas nad suudavad ära tunda konkreetset heli või häält. Inimese hääle kuulmise normaalne vahemik viisakas helitugevuses on 15 meetrit – valjemad hääled kannavad kaugemale ja vaiksemad on lühema vahemikuga. Äpardus tähendab arusaamatust või heli täielikku eiramist, samas kui õnnestumised annavad teadlikkuse ja teavet selle allika kohta.
+Kasuta seda oskust helide kuulmiseks, tõlgendamiseks ja mõistmiseks, olgu selleks sosinad suletud ukse taga, varglikud sosinad, hiilivad sammud või klõpsatavad oksad. Kasuta seda oskust, et näha, kas müra äratab magava tegelase, või kas ta suudab ära tunda konkreetset heli või häält. Inimese hääle tavapärane kuulmisulatus viisakal helitugevusel on 15 meetrit – valjemad hääled kanduvad kaugemale ja vaiksemad on lühema ulatusega. Eksimus tähendab heli vääritimõistmist või täielikku ignoreerimist, samas kui õnnestumised annavad teadlikkuse ja teavet selle allika kohta.
 
-**Süsteemi märkused:** Kuulda on nii aktiivne kui ka passiivne oskus: teie tegelane saab proovida Kuulda kahtlaseid mürasid või mängujuht saab nõuda Kuulda veeremist, kui see on asjakohane. Vastanduge Kuulda Hiilida oskusega, et lahendada katseid hiilida mööda ettevaatlikust või mitteettevaatlikust kuulajast. Mängujuht võib valida Kuulda veeremiste tegemise salaja ja teavitada teid tulemusest, et vältida millegi reetmist, kui veeremine ebaõnnestub.
+**Süsteemi märkused:** Kuulamine on nii aktiivne kui ka passiivne oskus: tegelane saab üritada kuulata kahtlasi helisid või mängujuht võib vastaval juhul nõuda Kuulamise viskeid. Hiilimisest möödumiseks vastanda Kuulamist Hiilimisele, kui üritatakse hiilida ettevaatliku või hooletu kuulaja eest. Mängujuht võib valida Kuulamise visete tegemise salajas ja teavitada sind tulemusest, et mitte paljastada midagi, kui vise ebaõnnestub.
 
-### Kirjaoskus (erinevad)
+### Kirjaoskus (mitmesugused)
 
-**Baasvõimalus:** 00% või võrdne keelega (oma/muu) (vt allpool)
+**Baasprotsent:** 00% või võrdne Keelega (Oma/Muu) (vt allpool)
 
 **Kategooria:** Vaimne
 
-Lugemise ja kirjutamise oskust peetakse tänapäeval iseenesestmõistetavaks: varasematel ajastutel olid lugemine ja kirjutamine eliithariduse produktid ja staatuse märgid. Kaasaegsetes ühiskondades on Kirjaoskuse baasvõimalus võrdne tegelase baas Keelega (oma) või (muu), välja arvatud juhul, kui soovite teisiti. Äpardus tähendab katastroofilist arusaamatust, ebaõnnestumine tähendab, et tähendus läheb kaotsi, õnnestumised annavad kriitilist teavet või nüansse, isegi kuulsust toodetud töö eest.
+Lugemis- ja kirjutamisoskust peetakse tänapäeval enesestmõistetavaks: varasematel aegadel olid lugemine ja kirjutamine eliithariduse produktid ning eristumise või staatuse märgid. Kaasaegsetes ühiskondades on Kirjaoskuse baasprotsent võrdne tegelase baas Keelega (Oma) või (Muu), kui pole soovitud teisiti. Eksimus tähendab katastroofilist arusaamatust, ebaõnnestumine tähendab tähenduse kadumist, õnnestumised annavad kriitilist teavet või nüansse, isegi kuulsust loodud töö eest.
 
-**Erialad:** Keele kaupa. Iga eriala kehtib ühele kirjalikule keelele; täiendavad keeled on eraldi Kirjaoskuse erialad. Kaasaegsetes ühiskondades on Kirjaoskus alati võrdne teie Keele oskusega.
+**Erialad:** Keelte kaupa. Iga eriala kehtib ühele kirjalikule keelele; lisakeeled on eraldi Kirjaoskuse erialad. Kaasaegsetes ühiskondades on Kirjaoskus alati võrdne sinu Keeleoskusega.
 
-**Süsteemi märkused:** Hämarate murrete või kirjaliku keele iidsete vormide mõistmine on Raske. Keerukad või pikad dokumendid (nagu raamatud) mitme olulise punktiga võivad nõuda mitut Kirjaoskuse veeremist, ühe iga punkti kohta.
+**Süsteemi märkused:** Hämarate murrete või kirjaliku keele muistsete vormide mõistmine on Raske. Keerulised või pikad dokumendid (näiteks raamatud), millel on mitu olulist punkti, võivad nõuda mitut Kirjaoskuse viset, ühe iga punkti kohta.
 
 ### Võitluskunstid
 
-**Baasvõimalus:** 01%
+**Baasprotsent:** 01%
 
 **Kategooria:** Võitlus
 
-See esindab konkreetse võitlusstiili õppimist ja meisterlikkust. Kasutage seda oskust konkreetsete liigutuste ja löökide tegemiseks, mis põhjustavad sihtmärgile maksimaalset kahju. Võitluskunstid kasutatakse alati kombinatsioonis teise oskusega: Kaklus, Lähivõitlusrelv, Kaugvõitlusrelv või Maadlus, vastavalt asjakohasusele. See oskus ei ole nende rünnakute tegemiseks vajalik – see esindab suuremat väljaõppe taset, mis võimaldab suuremat tõhusust.
+See esindab konkreetse võitlusstiili õppimist ja valdamist. Kasuta seda oskust konkreetsete liigutuste ja löökide tegemiseks, mis põhjustavad sihtmärgile maksimaalset kahju. Võitluskunste kasutatakse alati kombinatsioonis teise oskusega: Kaklemine, Lähivõitlusrelv, Kaugvõitlusrelv või Maadlus, vastavalt vajadusele. See oskus ei ole nende rünnakute tegemiseks vajalik – see esindab kõrgemat väljaõppetaset, mis võimaldab suuremat tõhusust.
 
-**Erialad:** Võitluskunstide traditsiooni järgi: poks, capoeira, escrima, vehklemine, jeet kun do, karate, kenjutsu, kikkpoks, kung fu, kyujutsu, rusikavõitlus, savate jne. Mängujuht võib piirata võitlusoskuste tüüpe, mida saab Võitluskunstidega siduda, näiteks lubades kyujutsu puhul ainult Kaugvõitlusrelva (vibu), näiteks.
+**Erialad:** Võitluskunstide traditsioonide kaupa: poks, capoeira, escrima, vehklemine, jeet kune do, karate, kenjutsu, kikkpoks, kung fu, kyujutsu, rusikavõitlus, savate jne. Mängujuht võib piirata võitlusoskuste tüüpe, mida saab Võitluskunstidega siduda, lubades näiteks ainult Kaugvõitlusrelvi (vibu) koos kyujutsuga.
 
-**Mõjud:** Võitluskunstid ei ole eraldi veeremisel rünnaku tegemisel. Veerige peamise oskuse vastu ja võrrelge tulemust Võitluskunstide oskusega. Tulemustel on need mõjud:
+**Mõjud:** Võitluskunste ei veeretata rünnaku tegemisel eraldi. Veereta peamise oskuse vastu ja võrdle tulemust Võitluskunstide oskusega. Tulemustel on järgmised mõjud:
 
-* **Äpardus:** Kasutage sobivat äparduse tulemust (vt rünnaku ja äparduste tabeleid *Kuuendas peatükis: Võitlus*).
-* **Ebaõnnestumine:** Kui veeremise tulemus on üle Võitluskunstide oskuse taseme, kuid siiski võrdne või madalam kui võitlusoskus, tabab rünnak tavaliselt. Oskustasemest kõrgemad rünnakud mööduvad, olenemata Võitluskunstide oskustasemest.
-* **Õnnestumine:** Kui veeremise tulemus on vähem või võrdne nii Võitluskunstide kui ka võitlusoskusega, veerige baaskahju kaks korda ja liitke tulemus. Teie tegelase kahjustuse modifikaatorit ei korrutata kunagi.
-* **Erakordne:** Nagu ülal. Erakordse õnnestumise puhul lisatakse täiendav baaskahju veeremine võitlusoskuse erakordse tulemuse mõjudele, kui neid on.
-* **Kriitiline:** Nagu ülal. Kui võitlusveeremine on kriitiline õnnestumine, ignoreeritakse sihtmärgi soomuse kaitset (loomulikku või kantavat) ja täiendav baaskahju veeremine lisatakse võitlusoskuse erakordse tulemuse mõjudele, kui neid on.
+* **Eksimus:** Kasuta vastavat eksimuse tulemust (vt rünnaku- ja eksimustabeleid kuuendas peatükis: Võitlus).
+* **Ebaõnnestumine:** Kui veeretatud tulemus on kõrgem kui Võitluskunstide oskuse tase, kuid siiski võrdne või madalam kui võitlusoskus, tabab rünnak tavaliselt. Võitlusoskusest kõrgemad rünnakud mööduvad, olenemata Võitluskunstide oskuse tasemest.
+* **Õnnestumine:** Kui veeretatud tulemus on väiksem või võrdne nii Võitluskunstide kui ka võitlusoskusega, veereta baaskahju kaks korda ja liida tulemus kokku. Tegelase kahjumuutujat ei kahekordistata kunagi.
+* **Eriline:** Nagu ülal. Erilise õnnestumise korral lisatakse täiendav baaskahju vise võitlusoskuse erilise tulemuse mõjudele, kui neid on.
+* **Kriitiline:** Nagu ülal. Kui võitlusvise on kriitiline õnnestumine, ignoreeritakse sihtmärgi soomuse kaitset (looduslikku või kantavat) ja täiendav baaskahju vise lisatakse võitlusoskuse erilise tulemuse mõjudele, kui neid on.
 
-**Süsteemi märkused:** Võitluskunstide oskus töötab koos ühe teise võitlusoskusega ja tavaliselt kitsa erialade vahemikuga selle oskuse jaoks. Seda võimet saab kasutada koos Loomuliku relvastuse mutatsiooniga ja Relvastamata võitluse võimega.
+**Süsteemi märkused:** Võitluskunstide oskus töötab koos ühe teise võitlusoskusega ja tavaliselt kitsa erialade vahemikuga selle oskuse jaoks. Seda võimet saab kasutada koos Loodusliku Relvastuse mutatsiooni ja Relvastamata Võitluse võimega.
 
-Kui voorus tehakse mitu rünnakut, peab ründaja Võitluskunstide oskuse vastavalt jaotama, jagades selle soovi korral mitme rünnaku vahel või rakendades seda ainult ühele rünnakule.
+Kui voorus tehakse mitu rünnakut, peab ründaja jaotama Võitluskunstide oskuse vastavalt, jagades seda soovikohaselt mitme rünnaku vahel või rakendades seda ainult ühele rünnakule.
 
-Näiteks *kui teie tegelasel on Kaklus 120% ja Võitluskunstid 46% ja ta teeb voorus kaks rünnakut 60% juures, peate otsustama jaotada Võitluskunstide oskuse nende kahe rünnaku vahel (23% igaühe kohta või mõni kombinatsioon, mis võrdub 46%) või valida, et see kehtiks ainult ühele rünnakule.*
+Näiteks: *kui sinu tegelasel on Kaklemine 120% ja Võitluskunstid 46% ning ta teeb voorus kaks rünnakut 60%-ga, pead valima, kas jagada Võitluskunstide oskus nende kahe rünnaku vahel (23% kummalegi või mingi kombinatsioon, mis teeb 46%) või lasta sel kehtida ainult ühele rünnakule.*
 
-Oma suhtelise võimsuse tõttu võib mängujuht otsustada, et esialgne oskustase selles oskuses oleks piiratud, et selle oskuse suurendamine võib olla piiratud väljaõppega, mitte tavalise kogemusega, et väljaõpet võib olla uskumatult raske saada, või kõik kolm tingimust.
+Selle suhtelise võimsuse tõttu võib mängujuht otsustada, et esialgne oskuse tase on piiratud, et oskuse suurendamine võib piirduda väljaõppega, mitte tavalise kogemusega, et väljaõpet võib olla uskumatult raske saada, või et kehtivad kõik need kolm tingimust.
 
 ### Meditsiin
 
-**Baasvõimalus:** 05%
+**Baasprotsent:** 05%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust tõsiste vigastuste diagnoosimiseks ja raviks, haiguste raviks, mürgituste neutraliseerimiseks ja üldiste tervisesoovituste andmiseks, samuti operatsioonide tegemiseks ja krooniliste terviseseisundite pikaajaliseks raviks.
+Kasuta seda oskust tõsiste vigastuste diagnoosimiseks ja raviks, haiguste raviks, mürgistuste vastumeetmeteks ja üldiste tervisealaste soovituste andmiseks, samuti kirurgia teostamiseks ja pikaajalise hoolduse soovitamiseks krooniliste terviseprobleemide korral.
 
 **Mõjud:** Meditsiinil on konkreetsed tulemused:
 
-* **Äpardus:** Patsient saab 1 üldise tabamispunkti kahju (vigastuste korral) vigastuste ravimisel või kaotab omaduste punkti (mürgituste või haiguse korral) ja nende seisund jääb muutumatuks.
-* **Ebaõnnestumine:** Patsiendi seisund ei muutu ja teist katset saab teha alles järgmisel päeval.
-* **Õnnestumine:** Valige üks järgmistest efektidest (mängija valik):
+* **Eksimus:** Patsient saab vigastuste ravimisel 1 üldise elupunkti kahju (vigastuste korral) või kaotab tunnuse punkti (mürgistuste või haiguste korral) ja tema seisund jääb muutumatuks.
+* **Ebaõnnestumine:** Patsiendi seisund ei muutu ja teise katse saab sooritada alles järgmisel päeval.
+* **Õnnestumine:** Vali üks järgmistest mõjudest (mängija valik):
+    * Mis tahes eduka Esmaabi viske mõju.
+    * Patsiendi paranemise määr kahekordistub 1D3-lt 2D3 elupunktile nädalas.
+    * Mürgistusest või haigusest tingitud pidev tunnuse või elupunktide kadu peatatakse.
+    * Mürgitatud või haigestunud tegelane stabiliseeritakse ja ta taastab 1D3–1 elupunkti või tunnuse punkti nädalas. Seda tulemust saab valida ainult üks kord ravonädala kohta.
+* **Eriline:** Nagu ülal, kuid vigastus paraneb 2D3 elupunkti võrra või taastatakse 1D3 tunnuse punkti.
+* **Kriitiline:** Nagu ülal, kuid haav või vigastus paraneb 1D3+3 elupunkti võrra või taastatakse 1D3+1 tunnuse punkti.
 
-  * Mis tahes eduka Esmaabi veeremise efekt.
+**Süsteemi märkused:** Iga Meditsiini kasutus kehtib ühele vaevusele: kui see on ravitud ja täielikult välja ravitud, ei ole täiendavatel edukatel Meditsiini visetel mõju. Teisi haavu või vaevusi saab aga ravida. Ebakindlad või ebasanitaarsed tingimused võivad muuta Meditsiini visked Raskeks. Spetsiaalsed seadmed või ravimid võivad lisada kuni +20% oskuse tasemele, samas kui futuristlik meditsiinitehnoloogia (tehislik pihustatav nahk, meditsiinilised skannerid, nanotehnilised ravijad) muudab Meditsiini visked Lihtsaks. Tavaliste ja eluohtlike vaevuste ravimine on Automaatne.
 
-  * Patsiendi paranemise määr kahekordistub 1D3-lt 2D3-le tabamispunktile nädalas.
+### Lähivõitlusrelv (mitmesugused)
 
-  * Käimasolev omaduste või tabamispunktide kahju mürgist või haigusest peatatakse.
-
-  * Mürgitatud või haige tegelane stabiliseeritakse ja ta paraneb 1D3–1 tabamispunkti või omaduste punkti nädalas. Seda tulemust saab valida ainult üks kord ravikuu kohta.
-* **Erakordne:** Nagu ülal, kuid vigastus paraneb 2D3 tabamispunktiga või taastub 1D3 omaduste punkti.
-* **Kriitiline:** Nagu ülal, kuid haav või vigastus paraneb 1D3+3 tabamispunktiga või taastub 1D3+1 omaduste punkti.
-
-**Süsteemi märkused:** Iga Meditsiini kasutamine kehtib ühele tervisehädale: kui see on ravitud ja täielikult paranenud, ei ole täiendavatel edukatel Meditsiini veeremistel mingit mõju. Teisi haavu või tervisehädasid saab aga ravida. Ebaturvalised või ebapuhastustingimused võivad muuta Meditsiini veeremised Raskeks. Spetsiaalne varustus või ravimid võivad lisada kuni +20% oskustasemele, samas kui futuristlik meditsiinitehnoloogia (tehispihustatud nahk, meditsiinilised skannerid, nanotehnoloogilised tervendajad) teeb Meditsiini veeremised Lihtsaks. Tavaliste ja mitte eluohtlike tervisehädade ravimine on Automaatne.
-
-### Lähivõitlusrelv (erinevad)
-
-**Baasvõimalus:** Vastavalt relva erialale
+**Baasprotsent:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust konkreetset tüüpi relvade käsitlemiseks lähivõitluses, olgu rünnates või tõrjudes.
+Kasuta seda oskust konkreetse relvatüübi valdamiseks lähivõitluses, olgu rünnates või tõrjudes.
 
-**Erialad:** Erialad on samaväärsed relvaklassidega. Vt *Kaheksanda peatüki: Varustus* relvaklasside kohta. Iga eriala kehtib ainult selle kategooria relvadele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist kui Rasket. Kui õnnestub, tehke kogemuste kontroll. Kui kogemuste veeremine õnnestub, alustage uut oskust erialaga sellel tasemel, pluss saadud kogemus.
+**Erialad:** Erialad on samaväärsed relvaklassidega. Vt kaheksanda peatüki: Varustus jaotist **Relvaklassid**. Iga eriala kehtib ainult selle kategooria relvadele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist kui Rasket tegevust. Kui õnnestub, tee kogemuse kontroll. Kui kogemuse vise õnnestub, alusta uut oskust sellel tasemel erialaga, pluss saadud kogemus.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ning **Lähivõitlusrelva rünnaku äparduste tabel** ja **Lähivõitlusrelva tõrjumise äparduste tabel** *Kuuendas peatükis: Võitlus* konkreetsete mõjude kohta.
+**Mõjud:** Vt **Rünnaku ja kaitse maatriksit** ning **Lähivõitlusrelva rünnaku eksimuste tabelit** ja **Lähivõitlusrelva tõrjumise eksimuste tabelit** kuuendas peatükis: Võitlus konkreetsete mõjude jaoks.
 
-**Süsteemi märkused:** Teie tegelane võib voorus proovida rohkem kui ühte tõrjumist, kuid iga veeremine pärast esimest tehakse kumulatiivse –30% karistusega. Mängujuhi äranägemisel võib teie tegelane kasutada relva sarnasest või samalaadsest relvakategooriast, kusjuures veeremine on Raske.
+**Süsteemi märkused:** Sinu tegelane võib üritada teha voorus rohkem kui ühe tõrje, kuid iga vise pärast esimest tehakse kumulatiivse –30%-ga. Mängujuhi äranägemisel võib sinu tegelane kasutada relva seotud või sarnasest relvakategooriast, kusjuures vise on Raske.### Laskur-relv (mitmesugused)
 
-### Kaugvõitlusrelv (erinevad)
-
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda mis tahes käeshoitava iseliikuva kaugvõitlusrelva käsitlemiseks, nagu vibud, ambid, viskekirved, odad, visketähed, viskeod, puhkpüssid, odapüssid või isegi bumerangid. Granaatide jaoks kasutage Visata oskust.
+Kasuta seda mis tahes käeshoitava iseliikuva laskur-relva käsitsemiseks, nagu vibud, ambud, heitekirved, odad, visketähed, viskeodad, puhkpüssid, harpuunid või isegi bumerangid. Granaatide puhul kasuta oskust Viske-relv.
 
-**Erialad:** Erialad on samaväärsed relvaklassidega. Vt **Relvaklassid** *Kaheksandas peatükis: Varustus*. Iga eriala kehtib ainult selle kategooria relvadele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist kui Rasket. Kui õnnestub, tehke kogemuste kontroll. Kui kogemuste veeremine õnnestub, alustage uut oskust erialaga sellel tasemel, pluss saadud kogemus.
+**Erialad:** Erialad on võrdsed relvaklassidega. Vaata kaheksanda peatüki **Relvaklassid**: Varustus. Iga eriala kehtib ainult selle kategooria relvadele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist, kui see on Raske. Kui see õnnestub, tee kogemuse kontroll. Kui kogemuse täringuviske tulemus on edukas, alusta uut oskust selle erialaga antud tasemel, pluss saadud kogemus.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Kaugvõitlusrelva äparduste tabel** konkreetsete mõjude kohta. Nooled ja teravad relvad tavaliselt läbistavad. Kui soovite teada, kuhu möödaläinud kaugvõitlusrelva rünnak läheb, vt Visata oskust.
+**Mõjud:** Vaata konkreetsete mõjude kohta **Rünnaku ja kaitse maatriksit** ning **Laskur-relvade äparduste tabelit**. Nooled ja teravad relvad tekitavad tavaliselt läbistava haava. Kui soovid teada, kuhu möödaläinud laskur-relva rünnak suundub, vaata oskust Viske-relv.
 
-**Süsteemi märkused:** Kõigil kaugvõitlusrelvadel on minimaalne STR ja DEX nõue relva kasutamiseks, nagu on loetletud *Kaheksandas peatükis: Varustus*. Tavaliselt on ründaja kahjustuse modifikaator kaugvõitlusrelvade puhul poolitatud ja täielikult iseliikuvate relvade puhul (puhkpüssid, ambid jne) kahjustuse modifikaatorit ei kohaldata. Kaugvõitlusrelva saab kasutada sihitud rünnakuteks.
+**Süsteemimärkused:** Kõigil laskur-relvadel on relva kasutamiseks nõutav minimaalne JÕU ja OSA, nagu on loetletud kaheksandas peatükis: Varustus. Tavaliselt on ründaja kahjumodifikaator laskur-relvade puhul poolitatud ja täielikult iseliikuvate relvade (puhkpüssid, ambud jne) puhul kahjumodifikaatorit ei rakendata. Laskur-relva oskust saab kasutada sihitud rünnakuteks.
 
-### Navigeerida
+### Navigeerimine
 
-**Baasvõimalus:** 10%
+**Baastõenäosus:** 10%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust tee leidmiseks sihtkohta, olgu kompassi, merekaartide, tähtede abil või lihtsalt kasutades taju, mälu ja intuitsiooni juhisena. Äpardus tähendab, et ollakse lootusetult eksinud ja iga järgnev veeremine kellegi poolt, et eksimusest vabaneda, on *Raske*. Ebaõnnestumine tähendab viivitusi ja aeglasemat reisikiirust, samas kui õnnestumised tähendavad tee tõhusat leidmist ja isegi oodatust parema edu saavutamist.
+Kasuta seda oskust sihtkohta tee leidmiseks, olgu selleks kompass, merekaardid, tähed või lihtsalt taju, mälu ja intuitsioon kui teejuht. Äpardus tähendab, et ollakse lootusetult eksinud ja järgnev katse kellegi poolt taas teed leida on *Raske*. Ebaõnnestumine tähendab viivitusi ja aeglasemat reisikiirust, samas kui õnnestumine tähendab tee tõhusat leidmist ja isegi oodatust paremat edasijõudmist.
 
-**Süsteemi märkused:** Tehke Navigeerida oskuse veeremine iga nelja tunni järel toimuva reisi ajal. Kaardi või kompassi kasutamine võib oskustaset parandada kuni +20%. Navigeerimine iseloomutul maastikul (merel, pimeduses või halva ilmaga, kõrbes või tihedas džunglis) ilma instrumentide või kaartideta on Raske. Täiustatud navigeerimisvahendid (globaalne positsioneerimistehnoloogia jne) või piirkonna tundmine teevad Navigeerida katsed Lihtsaks.
+**Süsteemimärkused:** Tee navigeerimisoskuse kontroll iga nelja tunni järel kestval teekonnal. Kaardi või kompassi kasutamine võib oskuse taset parandada kuni +20%. Navigeerimine ilmetul maastikul (merel, pimeduses või halva ilmaga, kõrbes või tihedas džunglis) ilma instrumentide või kaartideta on Raske. Täiustatud navigatsiooniabivahendid (globaalne positsioneerimistehnoloogia jne) või piirkonna tundmine muudavad navigeerimiskatsed Kergeks.
 
-### Tõrjuda (erinevad)
+### Tõrjumine
 
-**Baasvõimalus:** Vastavalt relva erialale
+**Baastõenäosus:** Vastavalt relva erialale
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust sissetuleva rünnaku kõrvalejuhtimiseks, kui seda pole teise oskusega käsitletud. Seda oskust käsitletakse üksikasjalikult jaotises Tõrjuda ja **Rünnaku ja kaitse maatriks**. Mängujuht võib otsustada, et konkreetset rünnakut ei saa tõrjuda, näiteks tunduvalt suuremalt ründajalt (näiteks kahekordse või suurema kaitsja SIZ-ga) või kui ründaja kasutab ala- või pühkimisrünnakut.
+Kasuta seda oskust sissetuleva rünnaku tõrjumiseks, kui sellele ei vastata mõne muu oskusega. Seda oskust on üksikasjalikult käsitletud tõrjumise ning rünnaku ja kaitse maatriksis. Mängujuht võib otsustada, et konkreetset rünnakut ei saa tõrjuda, näiteks märgatavalt suurema ründaja puhul (näiteks kahekordne või suurem kaitsja SUU) või kui ründaja kasutab ala- või pühkimisrünnakut.
 
-**Erialad:** Erialad on samaväärsed relva- või kilbiklassidega. Vt **Relvaklassid** *Kaheksandas peatükis: Varustus*. Iga eriala kehtib ainult selle kategooria relvadele või kilpidele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist kui Rasket. Kui õnnestub, tehke kogemuste kontroll. Kui kogemuste veeremine õnnestub, alustage uut oskust erialaga sellel tasemel, pluss saadud kogemus.
+**Erialad:** Erialad on võrdsed relva- või kilbiklassidega. Vaata kaheksanda peatüki **Relvaklassid**: Varustus. Iga eriala kehtib ainult selle kategooria relvadele või kilpidele: kuid mängujuht võib lubada sarnase relvaklassi kasutamist, kui see on Raske. Kui see õnnestub, tee kogemuse kontroll. Kui kogemuse täringuviske tulemus on edukas, alusta uut oskust selle erialaga antud tasemel, pluss saadud kogemus.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Lähivõitlusrelva tõrjumise äparduste tabel** *Kuuendas peatükis: Võitlus* konkreetsete mõjude kohta.
+**Mõjud:** Vaata konkreetsete mõjude kohta kuuenda peatüki **Rünnaku ja kaitse maatriksit** ning **Lähivõitlusrelvade tõrjumise äparduste tabelit**: Võitlus.
 
-**Süsteemi märkused:** Voorus võib proovida rohkem kui ühte tõrjumist, kuid iga veeremine pärast esimest tehakse kumulatiivse –30% karistusega. Seda oskust võib soovi korral ignoreerida, eelistades kasutada peamist relva või kilbi oskust. Mängujuhi äranägemisel võib ühe relva või kilbiga tõrjuda sarnasest või samalaadsest kategooriast, kusjuures veeremine on Raske.
+**Süsteemimärkused:** Voorus võib proovida rohkem kui ühte tõrjumist, kuid iga järgnev pärast esimest on kumulatiivse –30% karistusega. Seda oskust võib soovi korral eirata, eelistades kasutada esmast relva või kilbioskust. Mängujuhi äranägemisel võib tõrjuda relva või kilbiga seotud või sarnasest kategooriast, kusjuures täringuvise on Raske.
 
-### Esineda (erinevad)
+### Esitamine (mitmesugused)
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
-**Kategooria:** Suhtlus
+**Kategooria:** Suhtlemine
 
-Kasutage seda oskust muusika esitamiseks, olgu näitlemise, tantsimise, muusikariistal mängimise, laulmise või muude kunstilise väljenduse vormide puhul. Äpardus on alandav, ebaõnnestumine on mitteinspireeriv, samas kui õnnestumised annavad positiivset tähelepanu, rõõmuhõiskeid ja võib-olla kriitilist tunnustust ning rahalist kasu. Kui salvestatud ja levitatud, võib see jätkata inspireerimist ja teenimist kaua pärast esialgset esitust.
+Kasuta seda oskust muusika esitamiseks, olgu selleks näitlemine, tantsimine, pillimäng, laulmine või muud kunstilise väljenduse vormid. Äpardus on alandav, ebaõnnestumine ei ole inspireeriv, samas kui õnnestumine toob positiivset tähelepanu, ovatsioone ja võib-olla kriitilist tunnustust ning rahalisi preemiaid. Kui see on salvestatud ja levitatud, võib see inspireerida ja tulu tuua veel kaua pärast algset esitust.
 
-**Erialad:** Näitlemine, orkestri juhatamine, tantsimine, žongleerimine, kõnelemine, muusikariistal mängimine (alameriala), etlemine, rituaal, laulmine jne.
+**Erialad:** Näitlemine, orkestri juhatamine, tantsimine, žongleerimine, kõnepidamine, pillimäng (alameriala), deklameerimine, rituaal, laulmine jne.
 
-**Süsteemi märkused:** Edukas Esineda (Rituaal) oskuse kasutamine võib võimendada maagilist võimet või pakkuda täiendavaid eeliseid, mängujuhi äranägemisel.
+**Süsteemimärkused:** Esitamise (Rituaal) edukas kasutamine võib võimendada maagilist jõudu või pakkuda mängujuhi äranägemisel täiendavaid hüvesid.
 
-### Veenda
+### Veenmine
 
-**Baasvõimalus:** 15%
+**Baastõenäosus:** 15%
 
-**Kategooria:** Suhtlus
+**Kategooria:** Suhtlemine
 
-Kasutage seda oskust, et veenda kedagi, et mingi idee või veendumus on õige, korrektne või muul viisil vastuvõetav, olenemata nende algsest arvamusest (kui seda oli), olgu see siis Sokratose loogika, struktureeritud debati, tulise kõnekunsti, empaatia või toore hirmutamise kaudu. Kuulajaid võib veenda tegutsema või taotlust rahuldama. Nagu Kiirkõne puhul, pole tõde oluline. Erinevalt Kiirkõnest kestavad eduka veenmise mõjud määramata aja, kuni teine Veenda veeremine või dramaatiline kogemus nihutab subjekti arvamust. Äpardus tähendab, et subjekt võib muutuda vaenulikuks, võttes omaks soovitud arvamuse vastandi. Ebaõnnestumine pole veenev. Õnnestumine kõigutab nende arvamust ja suurepärased õnnestumised annavad veelgi paremaid tulemusi.
+Kasuta seda oskust kellegi veenmiseks, et teatud idee või uskumus on õige, korrektne või muul viisil vastuvõetav, sõltumata tema algsest arvamusest (kui seda oli), olgu see siis sokraatilise loogika, struktureeritud väitluse, tulise kõne, empaatia või toore hirmutamise kaudu. Kuulajaid saab veenda tegutsema või palvet täitma. Sarnaselt Kiirjutamisega on tõde ebaoluline. Erinevalt Kiirjutamisest kestavad veenmise eduka kasutamise mõjud määramata aja, kuni uus Veenmise täringuvise või dramaatiline kogemus subjekti arvamust muudab. Äpardus tähendab, et subjekt võib muutuda vaenulikuks, omaks võttes soovitud arvamusele vastupidise seisukoha. Ebaõnnestumine ei ole veenev. Õnnestumine kõigutab nende arvamust ja suurepärased õnnestumised toovad veelgi paremaid tulemusi.
 
-**Süsteemi märkused:** Veenda kasutamine üle keelebarjääri (kui mõlemal kõnelejal on keeles alla 50%) on Raske, nagu ka kellegi veenmine milleski, mis käib vastu nende isiksusele või põhiveendumustele. Mängujuht võib premeerida tõhusaid argumente või head rollimängu kuni +20% boonusega. Olenevalt asjaoludest võib Veenda võtta minuteid, tunde või isegi päevi ja pikemaajalised jõupingutused võivad täitmiseks nõuda mitut veeremist.
+**Süsteemimärkused:** Veenmise kasutamine üle keelebarjääri (kui mõlemal kõnelejal on keeleoskus alla 50%) on Raske, nagu ka kellegi veenmine milleski, mis on vastuolus tema isiksuse või põhiuskumustega. Mängujuht võib premeerida tõhusaid argumente või head rollimängu kuni +20% boonusega. Olenevalt asjaoludest võib Veenmine võtta minuteid, tunde või isegi päevi ning pikemaajalised jõupingutused võivad lõpuleviimiseks vajada mitut täringuviset.
 
-### Piloteerida (erinevad)
+### Piloteerimine (mitmesugused)
 
-**Baasvõimalus:** 01%
-
-**Kategooria:** Füüsiline
-
-Kasutage seda oskust sõiduki juhtimiseks, manööverdamiseks ja kontrollimiseks õhus, vee peal või all või kosmoses. Suuremad sõidukid võivad nõuda mitut pilooti ja veeremine peaks toimuma iga nelja tunni järel, kui ei ole võitluses, ja kord voorus võitluse ajal või sõidukite manöövrite sooritamisel.
-
-**Erialad:** Lennuk, õhulaev, õhupall, paat, helikopter, hõljuk, reaktiivlennuk, reaktiivseade, kosmoselaev, allveelaev jne. Mängujuhi äranägemisel võib piloot piloteerida sarnase erialaga alust, kui veeremine on Raske. Kui õnnestub, tehke kogemuste kontroll. Kui kogemuste veeremine õnnestub, alustage uut oskust erialaga sellel tasemel, pluss saadud kogemus.
-
-**Mõjud:** Enamik igapäevast piloteerimist on Automaatne – veerige ainult ebasoodsates tingimustes või erakorraliste olukordade puhul. Äpardus põhjustab peaaegu vältimatult mootori seiskumise või avarii, ebaõnnestumine tähendab, et sihtkohta ei jõuta soovitud ajaraamis, õnnestumine jõuab soovitud kohta ja suurepärased õnnestumised annavad rohkem ekspert-piloteerimist ja tulemusi. Vt **Õhuvõitlus** ja **Tagaajamised** lisateabe saamiseks ja **Tagaajamise murede tabel** õnnetuste kohta.
-
-### Projektsioon
-
-**Baasvõimalus:** DEX×2%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Füüsiline
 
-Seda vabatahtlikku oskust kasutavad võimete-kasutajatest tegelased võimetepõhiste rünnakute sihtimiseks. See on kirjeldatud *Neljandas peatükis: Võimed* ja seda kasutatakse ainult vastavate võimetega mängudes.
+Kasuta seda oskust sõiduki juhtimiseks, manööverdamiseks ja kontrollimiseks õhus, vee peal või all, või kosmoses. Suuremad sõidukid võivad nõuda mitut pilooti ning täringuvise tuleks teha iga nelja tunni järel, kui ei toimu võitlust, ja kord voorus võitluse ajal või sõiduki manöövreid sooritades.
+
+**Erialad:** Lennuk, õhulaev, õhupall, paat, helikopter, hõljuk, reaktiivlennuk, reaktiivseljakott, kosmoselaev, allveelaev jne. Mängujuhi äranägemisel võib piloot juhtida sarnase erialaga alust, kui see on Raske. Kui see õnnestub, tee kogemuse kontroll. Kui kogemuse täringuviske tulemus on edukas, alusta uut oskust selle erialaga antud tasemel, pluss saadud kogemus.
+
+**Mõjud:** Suurem osa igapäevasest piloteerimisest on Automaatne — tee täringuvise ainult ebasoodsates oludes või erakorralistes olukordades. Äpardus põhjustab peaaegu vältimatult mootori seiskumise või isegi kukkumise, ebaõnnestumine tähendab, et sihtkohta ei jõuta soovitud aja jooksul, õnnestumine viib soovitud kohta ja suurepärased õnnestumised toovad kaasa asjatundlikuma piloteerimise ja tulemused. Lisateabe saamiseks vaata **Õhuvõitlust** ja **Jagamisi** ning äparduste jaoks **Jagamise hädade tabelit**.
+
+### Projitseerimine
+
+**Baastõenäosus:** OSA×2%
+
+**Kategooria:** Füüsiline
+
+Seda valikulist oskust kasutavad jõupõhiseid rünnakuid sihtivad jõude kasutavad tegelased. Seda kirjeldatakse *Neljandas peatükis: Jõud* ja kasutatakse ainult vastavate jõududega mängudes.
 
 ### Psühhoteraapia
 
-**Baasvõimalus:** 01%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust vaimuhaiguste või trauma hindamiseks ja raviks, eriti kaotatud vaimse tervise punktide taastamiseks. Praktilises mõttes saab Psühhoteraapiat kasutada ravimite ja ravimite väljakirjutamiseks, mis aja jooksul võivad peatada, ravida ja isegi pöörata kurnavaid psühhoose või vaimuhaigusi. Ravimid ja intensiivne küsitlemine võivad puurida kahjustatud psüühika sügavustesse ja tuua tagasi lootuse terrorist ja meeleheitest. Lisateabe saamiseks vt **Vaimne tervis**.
+Kasuta seda oskust vaimuhaiguste või trauma hindamiseks ja raviks, eriti kaotatud Mõistuse punktide taastamiseks. Praktilises mõttes saab Psühhoteraapiat kasutada ravimite ja medikamentide väljakirjutamiseks, mis aja jooksul võivad kurnavaid psühhoose või vaimuhaigusi peatada, ravida ja isegi tagasi pöörata. Ravimid ja intensiivne küsitlemine võivad uurida kahjustatud psüühika sügavusi ja tuua hirmu ja meeleheite keskelt tagasi lootuse. Lisateabe saamiseks vaata **Mõistust**.
 
-**Mõjud:** Psühhoteraapial on konkreetsed tulemused:
+**Mõjud:** Psühhoteraapial on konkreetsed mõjud:
 
-* **Äpardus:** Üks järgmistest juhtub (mängujuhi valik):
+* **Äpardus:** Juhtub üks järgmistest (mängujuhi valik):
 
-  * Patsient peab tegema uue vaimse tervise veeremise 1/1D3 SAN kaotuse jaoks.
+  * Patsient peab tegema uue Mõistuse viske, kaotades 1/1D3 VÄG.
 
-  * Suurendage ühe patsiendi määramata hullumeelsuse POW taset +1 võrra.
+  * Suurenda patsiendi ühe määramata hullumeelsuse VÄG taset +1 võrra.
 
-  * Patsient vahetab ühe määramata hullumeelsuse teise vastu: foobia võib väheneda, kuid meeleolu stabiliseerivate ravimite sõltuvuse hinnaga.
+  * Patsient vahetab ühe määramata hullumeelsuse teise vastu: foobia võib väheneda, kuid tujustabiliseerivate ravimite sõltuvuse hinnaga.
 
-* **Ebaõnnestumine:** Ravil puudub mõju. Patsient jääb samaks.
+* **Ebaõnnestumine:** Ravi ei mõju. Patsient jääb samaks.
 
-* **Õnnestumine:** Ravi hakkab mõjuma, ühe järgmise efektiga:
+* **Õnnestumine:** Ravi hakkab mõjuma ühe järgmise mõjuga:
 
-  * Pärast kuuajalist ravi saab patsient tagasi 1D3–1 SAN punkti. See oskus ei saa suurendada patsiendi SAN-i üle POW×5, millest on lahutatud kõik asjakohased karistused teadmiste eest blasfeemilisest või kirjeldamatust õudusest. Üksikasjade kohta vt maksimaalset vaimset tervist.
+  * Pärast kuuajalist ravi taastab patsient 1D3–1 punkti VÄG. See oskus ei saa tõsta patsiendi VÄG üle VÄG×5, millest on lahutatud kõik asjakohased karistused jumalavallatu või kirjeldamatu õuduse tundmise eest. Üksikasjade jaoks vaata Maksimaalset Mõistust.
 
   * Määramata hullumeelsuse allikas on õigesti diagnoositud.
 
-  * Kui määramata hullumeelsuse allikas on diagnoositud, saab selle POW-d vähendada –1 võrra pärast kuuajalist ravi. Iga ravitud vaimuhaiguse jaoks tuleb teha eraldi veeremised.
-* **Erakordne:** Nagu ülal, kuid SAN-i kasv on 1D3 või POW vähenemine –2.
-* **Kriitiline:** Nagu ülal, kuid SAN-i kasv on 1D3+1 või POW vähenemine –1D3+1.
+  * Kui määramata hullumeelsuse allikas on diagnoositud, saab selle VÄG-d pärast kuuajalist ravi vähendada –1 võrra. Iga ravitud vaimuhaiguse kohta tuleb teha eraldi täringuvisked.
 
-**Süsteemi märkused:** See oskus on peamiselt mängude jaoks, kus kasutatakse vaimset tervist. Ravi nõuab neli kuni viis tundi teraapiat kuus iga määramata hullumeelsuse kohta. Mängujuhi äranägemisel võib Psühhoteraapiat kasutada isiksuseomaduse manipuleerimiseks, nagu oleks see SAN-skoor, nihutades seda positiivselt või negatiivselt sama arvu punktide võrra.
+* **Eriline:** Nagu ülal, kuid VÄG juurdekasv on 1D3 või VÄG vähenemine on –2.
 
-### Remont (erinevad)
+* **Kriitiline:** Nagu ülal, kuid VÄG juurdekasv on 1D3+1 või VÄG vähenemine on –1D3+1.
 
-**Baasvõimalus:** 15%
+**Süsteemimärkused:** See oskus on mõeldud peamiselt mängudele, kus kasutatakse Mõistust. Ravi nõuab neli kuni viis tundi teraapiat kuus iga määramata hullumeelsuse kohta. Mängujuhi äranägemisel võib Psühhoteraapiat kasutada isiksuseomaduse manipuleerimiseks, justkui see oleks VÄG skoor, nihutades seda positiivselt või negatiivselt sama punktide arvuga.
 
-**Kategooria:** Manipulatsioon
+### Parandamine (mitmesugused)
 
-Varustus ja muud esemed saavad kahjustada või lakkavad töötamast. Kasutage Remont nende parandamiseks või kergete muudatuste ja kohanduste tegemiseks.
+**Baastõenäosus:** 15%
 
-**Erialad:** Elektriline, elektrooniline, inseneritöö, hüdroelektriline, mehaaniline, struktuurne, kvant jne.
+**Kategooria:** Manipuleerimine
 
-**Mõjud:** Äpardus kahjustab eset veelgi ja võib isegi haiget teha parandaja katsele (näiteks 1D3 tabamispunkti kummalelegi) ja muudab edasised parandused Raskeks. Ebaõnnestumine ei saavuta midagi, õnnestumine taastab 1D3 tabamispunkti ja ese muutub taas kasutatavaks või naaseb töökorda. Suurepärased õnnestumised annavad sarnaseid eeliseid, kasutades võib-olla Esmaabi oskust ja mängujuhi hinnangut juhisena. Kriitiline võib isegi eset vähesel määral parandada, nagu lisamine selle üldistele tabamispunktidele, soomuspunktidele või kerge boonuse lisamine selle kasutamisel.
+Seadmed ja muud objektid saavad kahjustada või lakkavad töötamast. Kasuta Parandamist nende parandamiseks või väikeste muudatuste ja kohanduste tegemiseks.
 
-### Uurida
+**Erialad:** Elektri, elektroonika, inseneriteaduse, hüdroelektri, mehaanika, struktuurne, kvantteadus jne.
 
-**Baasvõimalus:** 25%
+**Mõjud:** Äpardus kahjustab eset veelgi ja võib isegi parandamise katsetajat vigastada (näiteks 1D3 tabamispunkti kummalegi) ning muudab edasised parandused Raskeks. Ebaõnnestumine ei saavuta midagi, õnnestumine taastab 1D3 tabamispunkti ja ese muutub taas kasutatavaks või naaseb töökorras olekusse. Suurepärased õnnestumised annavad sarnaseid hüvesid, kasutades võib-olla juhisena Esmaabi oskust ja mängujuhi hinnangut. Kriitiline tulemus võib eset isegi vähesel määral parandada, näiteks lisades selle kogunemis-tabamispunktidele, soomuspunktidele või lisades selle kasutamisel väikese boonuse.
+
+### Uurimistöö
+
+**Baastõenäosus:** 25%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust teabeallikate leidmiseks ja tuvastamiseks raamatukogus, arhiivis või võrgus. Edukad veeremised annavad soovitud teabe raamatutest, dokumentidest, artiklitest, andmebaasidest, arhiividest või veebisaitidelt, kusjuures suurepärased õnnestumised annavad täiendavat või täpsemat teavet. Hoolimata allikate laiaulatuslikkusest on põhimõtted samad. Selle oskuse katse võtab tavaliselt neli tundi, ehkki elektroonilised meetodid on palju kiiremad. Äpardus viib katastroofilise arusaamatuseni ja tulemuseks on vigane teave. Ebaõnnestumine raiskab aega ilma kindlate tulemusteta või annab minimaalse teabe pärast kaks korda pikemat aega.
+Kasuta seda oskust potentsiaalsete infoallikate leidmiseks ja tuvastamiseks raamatukogus, arhiivis või võrgus. Edukad täringuvisked annavad soovitud teabe raamatutest, dokumentidest, artiklitest, andmepankadest, arhiividest või veebisaitidest, kusjuures suurepärased õnnestumised annavad täiendavat või täpsemat teavet. Vaatamata ressursside laiale tüübivalikule on põhimõtted samad. Selle oskuse katse võtab tavaliselt neli tundi, kuigi elektroonilised meetodid on palju kiiremad. Äpardus viib hukatusliku arusaamatuseni ja tulemuseks on vigane teave. Ebaõnnestumine raiskab aega ilma kindlate tulemusteta või annab minimaalse teabe pärast kahekordset tavapärast aega.
 
-**Süsteemi märkused:** Mängujuhil soovitatakse muuta ebaõnnestunud Uurida veeremine kauem kestvaks, anda veidi eksitavat või keerulist teavet, tõsta mingit alarmit või soovimatut tähelepanu või muud tagasilööki, selle asemel et lihtsalt tulemusi mitte anda. Ebaõnnestumine on mängudes harva nauditav ja saladuste puhul on kättesaamatud vihjed dramaatiline ummiktee.
+**Süsteemimärkused:** Mängujuhil soovitatakse muuta ebaõnnestunud Uurimistöö katse pikemaks, anda veidi eksitavat või keerulist teavet, tõstatada mingi alarm või soovimatu tähelepanu, või muu tagasilöök, selle asemel et lihtsalt tulemusi mitte anda. Ebaõnnestumine pole mängudes harva nauditav ja saladuste puhul on kättesaamatud vihjed dramaatiline ummiktee.
 
-### Ratsutada (erinevad)
+### Ratsutamine (mitmesugused)
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
-**Kategooria:** Suhtlus
+**Kategooria:** Suhtlemine
 
-Kasutage seda oskust konkreetset tüüpi elusloomaga ratsutamiseks, selle käsitlemiseks ja hooldamiseks. Ratsutada oskusega saab teie tegelane juhtida ratsut läbi erimanöövrite või raske maastiku, meelitada selle tippkiirusele või säilitada kontrolli, kui see tagumikule tõuseb või komistab. Äpardus põhjustab ratsu üle kontrolli kaotamise, mis võib viia mahaviskamiseni maapinnale 1D6 tabamispunkti kahju jaoks (üldine või juhuslik tabamiskoht). Edukas Hüpata veeremine lahutab 1D6 kahjusummast, samas kui ratsu galopeerib minema tippkiirusel. Ebaõnnestumine põhjustab looma tõrkumise ja õnnestumised annavad soovitud tulemuse või isegi ootuste ületamise. Suurepärased õnnestumised võivad anda boonuseid võitlustegevustele ratsutamisel.
+Kasuta seda oskust konkreetse eluslooma ratsutamiseks, käsitlemiseks ja hooldamiseks. Ratsutamisega saab sinu tegelane juhtida ratsut läbi erimanöövrite või karedal maastikul, meelitada see tippu kiirusele või säilitada kontrolli, kui see tagajalgadele tõuseb või komistab. Äpardus põhjustab kontrolli kaotamise ratsu üle, mille tulemuseks võib olla mahaviskamine 1D6 tabamispunkti ulatuses (üldine või juhuslikule tabamiskohale). Edukas Hüppe täringuvise lahutab kahjude kogusummast 1D6, samal ajal kui ratsu galopeerib täiskiirusel minema. Ebaõnnestumine põhjustab looma tõrkumise ja õnnestumised toovad tulemuse, kus see esineb soovitud viisil või isegi ületab ootusi. Suurepärased õnnestumised võivad anda boonuseid võitlusaktsioonidele ratsa olles.
 
-**Erialad:** Looma tüübi järgi. Näidisratsude kohta vt *Üheteistkümnendat peatükki: Olendid*. Mängujuhi äranägemisel võib sarnast tüüpi looma ratsutada, kui veeremine on Raske. Kui õnnestub, tehke kogemuste kontroll. Kui kogemuste veeremine õnnestub, alustage uut oskust erialaga sellel tasemel, pluss saadud kogemus.
+**Erialad:** Looma tüübi järgi. Näidisratsude jaoks vaata üheteistkümnendat peatükki: Olendid. Mängujuhi äranägemisel võib sarnast tüüpi looma ratsutada, kui see on Raske. Kui see õnnestub, tee kogemuse kontroll. Kui kogemuse täringuviske tulemus on edukas, alusta uut oskust selle erialaga antud tasemel, pluss saadud kogemus.
 
-**Süsteemi märkused:** Lahendage võistlused sama tõugu loomade vahel vastandlike Ratsutada kontrollidega. Võitluse ja Ratsutada oskused peavad olema 50%+, et ratsutamisel võitluses normaalselt võidelda. Kui Ratsutada oskus on alla 50%, on vajalik Ratsutada kontroll igas voorus, et hoida ratsu üle kontrolli. Kui võitlusoskus on alla 50%, on kõik rünnakud Rasked. Isegi kui mõlemad oskused on kõrgemad kui 50%, kasutage rünnakute ja tõrjumiste jaoks neist kahest oskustasemest madalamat. Kui ratsu kukub, variseb kokku või sureb, kohelge ratsanikku, nagu oleks ta maha visatud. Lisateabe saamiseks vt **Ratsavõitlus**.
+**Süsteemimärkused:** Lahenda võistlused sama tõugu loomade vahel vastandlike Ratsutamise kontrollidega. Võitlus ja Ratsutamise oskused peavad olema 50%+ tasemel, et ratsa olles tavapäraselt võidelda. Kui Ratsutamise oskus on alla 50%, on vaja iga vooru järel Ratsutamise kontrolli, et säilitada kontroll ratsu üle. Kui võitlusoskus on alla 50%, on kõik rünnakud Rasked. Isegi kui mõlemad oskused on üle 50%, kasuta rünnakute ja tõrjumiste jaoks madalamat kahest oskustasemest. Kui ratsu kukub, variseb kokku või sureb, kohtle ratsanikku kui mahavisatut. Lisateabe saamiseks vaata **Ratsavõitlust**.
 
-### Teadus (erinevad)
+### Teadus (mitmesugused)
 
-**Baasvõimalus:** 01%
+**Baastõenäosus:** 01%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust teadusliku teabe ja põhimõtete teadmiseks konkreetsest valdkonnast ning nähtuste vaatlemiseks ja andmepõhiste järelduste tegemiseks. Seotud teave hõlmab teaduse ajalugu, vilumust seadmete ja metoodikaga ning teadlikkust olulistest figuuridest ja koolkondadest selles erialas.
+Kasuta seda oskust teadusliku teabe ja põhimõtete tundmiseks konkreetses valdkonnas ning nähtuste vaatlemiseks ja andmepõhiste järelduste tegemiseks. Seotud teave hõlmab teaduse ajalugu, varustuse ja metoodika tundmist ning teadlikkust olulistest figuuridest ja mõttekoolkondadest selles erialas.
 
-**Erialad:** Astronoomia, käitumisteadus, bioloogia, botaanika, keemia (või alkeemia), krüptograafia, geneetika, geoloogia, matemaatika, meteoroloogia, looduslugu, farmakoloogia, füüsika, planetoloogia, psühholoogia, kvantmehaanika, ksenobioloogia, zooloogia jne. Mängujuhi äranägemisel võib sarnase eriala oskust veereda kui Rasket, ehkki edukas veeremine ei anna kogemuste kontrolli ega võimalust alustada uut oskust selle erialaga.
+**Erialad:** Astronoomia, käitumisteadus, bioloogia, botaanika, keemia (või alkeemia), krüptograafia, geneetika, geoloogia, matemaatika, meteoroloogia, looduslugu, farmakoloogia, füüsika, planetoloogia, psühholoogia, kvantmehaanika, ksenobioloogia, zooloogia jne. Mängujuhi äranägemisel võib seotud eriala oskust veeretada, kui see on Raske, kuigi edukas vise ei too kaasa kogemuse kontrolli ega võimalust alustada uut oskust selle erialaga.
 
-**Süsteemi märkused:** Paljud Teaduse erialad nõuavad spetsiaalseid seadmeid, mõõteriistu, arvuteid või isegi laborit. Teaduse veeremised võivad võtta aega 30 minutist kuni nädalate või kuudeni, mängujuhi äranägemisel: neli tundi eksperimendi jaoks on hea keskmine. Teaduse veeremise proovimine ilma piisava aja või varustuseta on kas Raske või Võimatu.
+**Süsteemimärkused:** Paljud Teaduse erialad nõuavad spetsiaalset varustust, mõõteriistu, arvuteid või isegi laboratooriumi. Teaduse täringuvisked võivad võtta 30 minutist kuni nädalate või kuudeni, mängujuhi äranägemisel: neli tundi katse jaoks on hea keskmine. Teaduse täringuviske proovimine ilma piisava aja või varustuseta on kas Raske või Võimatu.
 
-### Tunnetada
+### Tunnetus
 
-**Baasvõimalus:** 10%
+**Baastõenäosus:** 10%
 
 **Kategooria:** Taju
 
-Oskus reguleerib peamiselt maitset, puudutust ja lõhna; kuid võib laieneda mõnele vähemtuntud muule meelele (füüsiline orientatsioon, gravitatsioon, rõhk ja tasakaal, temperatuur jne). Kasutage seda teatud tüüpi stiimuli märkamiseks või tuvastamiseks, mis pole nägemine (Märgata) või kuulmine (Kuulda), nagu eseme leidmine pimeduses puudutusega, salapärase lõhna või nõrga maitse tuvastamine, juuspeene murru tundmine jne. Mängujuhi äranägemisel võib see isegi laieneda "kuuendale meelele" või intuitsioonile. Äpardus on katastroofiliselt eksitav või paljastab täieliku teadmatuse stiimuli suhtes, ebaõnnestumine on lihtne märkamata jätmine ja erinevad õnnestumiste astmed annavad täpsemat taju.
+Oskus reguleerib peamiselt maitset, puudutust ja lõhna; kuid võib laieneda mõnele vähemtuntud muule meelele (füüsiline orientatsioon, gravitatsioon, rõhk ja tasakaal, temperatuur jne). Kasuta seda, et märgata või tuvastada teatud tüüpi stiimulit, mis ei ole nägemine (Märkamine) või heli (Kuulamine), nagu eseme leidmine pimedas puudutuse kaudu, salapärase lõhna või nõrga maitse tuvastamine, juuspeene prao tundmine jne. Mängujuhi äranägemisel võib see isegi laieneda "kuuendale meelele" või intuitsioonile. Äpardus on hukatuslikult eksitav või paljastab täieliku teadmatuse stiimuli suhtes, ebaõnnestumine on lihtsalt märkamata jätmine ja erinevad õnnestumise astmed annavad täpsema taju.
 
-**Süsteemi märkused:** Nagu Kuulda ja Märgata puhul, on Tunnetada nii aktiivne kui ka passiivne: te võite paluda oma tegelasel teha Tunnetada veeremine või mängujuht võib nõuda veeremist sobivates olukordades. Tugevad või tuttavad stiimulid on Lihtsad veeremised Tunnetada, samas kui nõrgad või võõrad on Rasked.
+**Süsteemimärkused:** Sarnaselt Kuulamisele ja Märkamisele on Tunnetus nii aktiivne kui ka passiivne: võid paluda oma tegelasel teha Tunnetuse täringuviske või mängujuht võib asjakohastes olukordades kutsuda üles täringuviskele. Tugevad või tuttavad stiimulid on Kerged Tunnetuse täringuvisked, samas kui nõrgad või võõrad on Rasked.
 
 ### Kilp
 
-**Baasvõimalus:** Vastavalt kilbi tüübile
+**Baastõenäosus:** Vastavalt kilbi tüübile
 
 **Kategooria:** Võitlus
 
-Kasutage seda oskust sissetulevate rünnakute blokeerimiseks kilbi või muu sobiva vahendiga. Kõik kilbi blokeerimised järgivad Tõrjumise reegleid: vt **Kilbid** ja **Tõrjuda** *Kuuendas peatükis: Võitlus*. Kilbiga saab rünnata, käsitledes seda oskust nagu Lähivõitlusrelva oskust. Kilpide kahjustuse tasemed on toodud relvanimekirjades. Kilbid teevad purustavaid erakordseid tulemusi, võivad põhjustada tagasilööke ja neid saab kasutada sihitud rünnakuteks.
+Kasuta seda oskust sissetulevate rünnakute blokeerimiseks kilbi või muu sobiva vahendiga. Kõik kilbiplokid järgivad samu reegleid, mis tõrjumine: vaata **Kilpe** ja **Tõrjumist** kuuendas peatükis: Võitlus. Kilbiga saab rünnata, käsitledes seda oskust kui Lähivõitlusrelva oskust. Kilpide kahjuastmed on toodud relvanimekirjades. Kilbid teevad purustavaid eritulemusi, võivad põhjustada tagasilööke ja neid saab kasutada sihitud rünnakuteks.
 
-**Mõjud:** Vt **Rünnaku ja kaitse maatriks** ja **Lähivõitlusrelva tõrjumise äparduste tabel**.
+**Mõjud:** Vaata **Rünnaku ja kaitse maatriksit** ning **Lähivõitlusrelvade tõrjumise äparduste tabelit**.
 
-**Süsteemi märkused:** Kilbi blokeerimised on tõrjumised. Tegelane võib voorus teha rohkem kui ühe kilbi veeremise, kuid iga täiendav veeremine toob kaasa –30% karistuse kilbi või tõrjumise oskustasemele. Suured kilbid võivad pakkuda kaitset kaugvõitlus- või isegi tulirelvade rünnakute eest.
+**Süsteemimärkused:** Kilbiplokid on tõrjumised. Tegelane võib voorus teha rohkem kui ühe kilbi täringuviske, kuid iga täiendav vise toob kaasa –30% karistuse kilbi või tõrjumise oskuse tasemele. Suured kilbid võivad pakkuda katet laskur- või isegi tulirelvade rünnaku vastu.
 
-### Osavus
+### Sõrmosavus
 
-**Baasvõimalus:** 05%
+**Baastõenäosus:** 05%
 
-**Kategooria:** Manipulatsioon
+**Kategooria:** Manipuleerimine
 
-Kasutage seda oskust väikeste esemete (täringud, kaardid, mündid, rahakotid, kirjad jne) manipuleerimiseks eksitaval viisil või tähelepanu äratamata, nagu taskuvargusel, kaartidel petmisel või lavamaagia esitamisel. Äpardus on ilmselgelt silmatorkav: kas ese kukub maha või jääb varas vahele oma käega sihtmärgi taskus. Ebaõnnestumine tähendab, et midagi ei saavutata ja pahaaimamatu sihtmärk, kes õnnestub Taiplikkuse veeremises, võib aru saada, et neid petetakse.
+Kasuta seda oskust väikeste objektide (täringud, kaardid, mündid, rahakotid, kirjad jne) manipuleerimiseks eksitaval viisil või ilma tähelepanu äratamata, nagu taskute tühjendamisel, kaartidega petmisel või lavamaagia esitamisel. Äpardus on silmatorkavalt ilmne: olgu ese maha pillatud või kui pätte sooviv varas jääb vahele, kui tema käsi on sihtmärgi taskus. Ebaõnnestumine tähendab, et midagi ei saavutata, ja midagi aimamatu sihtmärk, kes sooritab eduka Idee täringuviske, võib mõista, et teda petetakse.
 
-**Süsteemi märkused:** Oskusele vastandub vajadusel Märgata. Kui ese on peopesa peidetud või võetud, kasutage Peituda selle varjamiseks põhjaliku otsingu eest.
+**Süsteemimärkused:** Oskus on vastandatud Märkamisega, kui see on asjakohane. Kui objekt on peopessa peidetud või võetud, kasuta Varjamist, et seda organiseeritud otsingu eest peita.
 
-### Märgata
+### Märkamine
 
-**Baasvõimalus:** 25%
+**Baastõenäosus:** 25%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust ruumi otsimiseks potentsiaalselt oluliste detailide jaoks, peidetud kambri leidmiseks, mööduva detaili märkamiseks, maskeeritud vaenlase tuvastamiseks või varitsuses lamavate vaenlaste märkamiseks. Äpardus on tohutult tähelepanu hajutav väär taju või ekslik mulje ja erinevad õnnestumiste astmed annavad kasulikumat ja asjakohasemat teavet.
+Kasuta seda oskust ruumi otsimiseks potentsiaalselt oluliste detailide leidmiseks, peidiku leidmiseks, mööduva detaili märkamiseks, maskeeritud vaenlase tuvastamiseks või varitsuses lebavate vaenlaste märkamiseks. Äpardus on tohutult tähelepanu kõrvale juhtiv väärtaju või ekslik mulje ning erinevad õnnestumise astmed annavad kasulikumat ja asjakohasemat teavet.
 
-**Süsteemi märkused:** Märgata on nii aktiivne kui ka passiivne oskus: teie tegelane saab teha Märgata veeremise aktiivseks otsimiseks või uurimiseks või mängujuht saab nõuda Märgata veeremist, et näha, kas teie tegelane märkab mööduvat detaili. Peituda või tahtlik varjamine nõuab vastandlikku Märgata vs. Peituda testi lahendamiseks. Märgata on sageli vastandlik Maskeeringu või Osavuse vastu. Täielikus pimeduses on Märgata Võimatu ning hämar valgus või paks udu muudavad selle Raskeks.
+**Süsteemimärkused:** Märkamine on nii aktiivne kui ka passiivne oskus: sinu tegelane saab teha Märkamise täringuviske aktiivseks otsimiseks või uurimiseks, või mängujuht võib kutsuda üles Märkamise täringuviskele, et näha, kas sinu tegelane märkab mööduvat detaili. Varjamine või tahtlik peitmine nõuab lahendamiseks vastandlikku Märkamise vs. Varjamise testi. Märkamine on sageli vastandatud ka Maskeeringu või Sõrmosavusega. Täielikus pimeduses on Märkamine Võimatu ning hämar valgus või tihe udu muudavad selle Raskeks.### Staatus
 
-### Staatus
-
-**Baasvõimalus:** 15%
+**Baasprotsent:** 15%
 
 **Kategooria:** Suhtlus
 
-Staatus on maine, ametialaste volikirjade, sotsiaalse klassi, jõukuse, kuulsuse ja isegi isikliku au mõõdupuu. Kasutage seda oskust teiste mõjutamiseks oma kaalu lisamisega, nagu panga veenmine sularahalaenu andma või võla andestamine, mittemängijast tegelase hirmutamine teene saamiseks, müüja veenmine I.O.U.-ga leppima või võimude survestamine asja vaikivana hoidmiseks. Äpardus on suurima ulatusega komistus, põhjustades häbi, tõmmates soovimatut tähelepanu ja saavutades soovitud tulemuse täieliku vastandi. Õnnestumised annavad soovitud tulemusi või isegi täiendavaid teeneid ja arvestust. Staatus pole aga rikkus ja ehkki nad on sageli seotud, pole nad sisemiselt teineteisega seotud.
+Staatus on maine, ametialase usaldusväärsuse, sotsiaalse klassi, jõukuse, kuulsuse ja isegi isikliku au mõõdupuu. Kasuta seda oskust teiste mõjutamiseks oma kaalu lisamisega, näiteks panga veenmisega rahalist laenu andma või võlga andestama, mitte-mängija tegelase (NPC) hirmutamisega teene saamiseks, müüja veenmisega võlakirjaga leppima või ametivõimude survestamisega mingit asja saladuses hoidmiseks. Fumble on suurima ulatusega taktitusetus, mis põhjustab häbi, tõmbab soovimatut tähelepanu ja saavutab täiesti vastupidise tulemuse soovitud efektile. Edukad tulemused annavad taotletud tulemusi või isegi lisateeneid ja tähelepanu. Staatus ei ole aga rikkus ja kuigi need on sageli seotud, ei ole need olemuslikult omavahel seotud.
 
-**Erialad:** Iga eriala esindab ühte sotsiaalset klassi, elukutset, sotsiaalset gruppi või mõjupiirkonda.
+**Eriala:** Iga eriala tähistab ühte sotsiaalset klassi, elukutset, sotsiaalset gruppi või mõjupiirkonda.
 
-**Süsteemi märkused:** Staatus toimib ainult antud piirkonnas, erialade kaupa, ja selle kasutamine väljaspool mõjupiirkonda on Raske. Staatust ei parandata kogemuste, väljaõppe ega muu paranemisega. Mängujuht peaks pakkuma staatust preemiana lojaalse teenistuse, julgete tegude või erakordsete teenete eest stsenaariumide vahel. Üks punkt seikluse kohta on mõistlik, erakordsed teod või saavutused suurendavad kasvu 1D3, 1D4 või võib-olla isegi 1D6 punktini. Samamoodi võivad ebaõnnestumised, skandaalid, väärteod ja sotsiaalsed sobimatused staatust langetada. Staatust saab kasutada mulje avaldamiseks, aga ka vahendina tuntuse määramiseks. Teie tegelane veerib teise Staatuse vastu nende tuvastamiseks ja mittemängijast tegelane võib veereda teie tegelase Staatuse vastu, et teha kindlaks, mida, kui üldse, nad tegelase kohta teavad.
+**Süsteemi märkused:** Staatus toimib ainult antud piirkonnas, erialade kaupa, ja selle kasutamine väljaspool mõjupiirkonda on Raske. Staatust ei parandata kogemuse, väljaõppe ega muu arendamisega. Mängujuht peaks pakkuma Staatust tasuna lojaalse teenistuse, julgete tegude või erakordsete teenete eest stsenaariumide vahel. Üks punkt seikluse kohta on mõistlik, kusjuures erakordsed teod või saavutused võivad tõsta juurdekasvu 1D3, 1D4 või võib-olla isegi 1D6 punktini. Samamoodi võivad ebaõnnestumised, skandaalid, väärteod ja sotsiaalsed kohatused Staatust langetada. Staatust saab kasutada mulje avaldamiseks, kuid see võib toimida ka tuntuse määramise vahendina. Sinu tegelane veeretab täringuid teise Staatuse vastu, et teda tuvastada, ja mitte-mängija tegelane võib veeretada sinu tegelase Staatuse vastu, et teha kindlaks, mida, kui üldse, nad tegelase kohta teavad.
 
-> ### Staatuse oskus, sotsiaalne staatus ja tegelase rikkus
->
-> Nagu on kirjeldatud jaotises **Tegelase loomine** ja **Tegelase elukutsed**, võib Staatusel olla dramaatiline mõju sotsiaalsele seisundile ja rikkusele. Allpool on kolm tabelit, mis määravad sotsiaalse auastme ja keskmise rikkuse Staatuse põhjal, koos maksimaalse rikkusega selle Staatuse jaoks. Staatuse teenides nende positsioon ja varandus tõenäoliselt paranevad. Teie mängujuht peaks neid tabeleid muutma või soovi korral uusi looma.
->
+> ### Staatusoskus, sotsiaalne staatus ja tegelase rikkus
+> 
+> Nagu on kirjeldatud peatükkides **Tegelase loomine** ja **Tegelase elukutsed**, võib Staatusel olla dramaatiline mõju sotsiaalsele positsioonile ja rikkusele. Allpool on kolm tabelit, mis määravad sotsiaalse auastme ja keskmise rikkuse Staatuse põhjal, koos maksimaalse rikkusega selle Staatuse jaoks. Staatuse teenimisel paranevad tõenäoliselt tegelase positsioon ja varandus. Sinu mängujuht peaks soovi korral neid tabeleid muutma või looma uusi.
+> 
 > ##### Eelajalooline staatus
->
+> 
 > | Staatus | Sotsiaalne auaste | Rikkuse tase | Maksimaalne rikkus |
 > | :---- | :---- | :---- | :---- |
 > | 01–15 | Ori (alamklass) | Vaene | Vaene |
 > | 16–95 | Hõimuliige (keskklass) | Vaene | Keskmine |
-> | 96–00 | Aadlik (ülemklass) | Jõukas | Rikas |
->
-> ##### Iidne/Pime ajastu/keskaeg/imperiaalne staatus
->
+> | 96–00 | Aadel (ülemklass) | Jõukas | Rikas |
+> 
+> ##### Vanaaja/Pimeda keskaja/Keskaja/Impeeriumi staatus
+> 
 > | Staatus | Sotsiaalne auaste | Rikkuse tase | Maksimaalne rikkus |
 > | :---- | :---- | :---- | :---- |
-> | 01–39 | Alamklass | Paljasjalgne | Paljasjalgne |
+> | 01–39 | Alamklass | Puudustkannatav | Puudustkannatav |
 > | 40–43 | Alam-keskklass | Vaene | Keskmine |
 > | 44–47 | Keskklass | Keskmine | Keskmine |
 > | 48–49 | Ülem-keskklass | Keskmine | Keskmine |
 > | 50–75 | Ülemklass | Jõukas | Jõukas |
-> | 76–95 | Aadlik | Jõukas | Rikas |
+> | 76–95 | Aadel | Jõukas | Rikas |
 > | 96–00 | Monarhia | Rikas | Rikas |
->
-> ##### Victoria/Lääne/Pulp/Tänapäeva staatus
->
-> | Staatus | Sotsiaalne auaste | Rikkuse tase | Rikkuse piirmäär |
+> 
+> ##### Viktoriaanlik/Vestern/Pulp/Moodne staatus
+> 
+> | Staatus | Sotsiaalne auaste | Rikkuse tase | Rikkuse lagi |
 > | :---- | :---- | :---- | :---- |
-> | 01–14 | Alamklass | Paljasjalgne | Vaene |
+> | 01–14 | Alamklass | Puudustkannatav | Vaene |
 > | 15–29 | Alamklass | Vaene | Keskmine |
 > | 30–39 | Alam-keskklass | Keskmine | Jõukas |
 > | 40–75 | Keskklass | Keskmine | Jõukas |
 > | 76–95 | Ülem-keskklass | Jõukas | Rikas |
 > | 96–00 | Ülemklass | Rikas | Rikas |
->
-> Staatus võib mõjutada ka algset varustust, millega teie tegelane alustab. Mängujuhi äranägemisel võite teha Staatuse veeremisi, et teha kindlaks, kas teie tegelane alustab parema varustusega kui nende rikkuse tase ja elukutse näitavad. Vt *Kaheksanda peatüki: Varustus* Algvarustus. Enne mängu tehtud Staatuse veeremised ei ole kogemuste kontrolli jaoks abikõlblikud.
+> 
+> Staatus võib mõjutada ka algvarustust, millega su tegelane alustab. Mängujuhi äranägemisel võid teha Staatus-veeretusi, et otsustada, kas su tegelane alustab parema varustusega, kui tema rikkuse tase ja elukutse lubaksid. Vt Algvarustus peatükist *Kaheksas peatükk: Varustus*. Enne mängu tehtud Staatus-veeretused ei ole kõlblikud kogemuskontrollideks.
 
-### Hiilida
+### Hiilimine (Stealth)
 
-**Baasvõimalus:** 10%
+**Baasprotsent:** 10%
 
 **Kategooria:** Füüsiline
 
-Kasutage seda oskust hiilimiseks läbi piirkonna tähelepanu äratamata. Katet pole vaja, kuid vaja on kerget sammu, enesekindlust ja distsipliini. Varjumiseks liikumatu olles kasutage Peituda oskust. Äpardus tõmbab soovimatut tähelepanu, ebaõnnestumine tähendab, et edasiminekut ei toimu ja tegelane on ilmselge kõigile, kes vaatavad, samas kui õnnestumised pakuvad järjestikuseid varjamise astmeid.
+Kasuta seda oskust piirkonnas hiilimiseks ilma tähelepanu äratamata. Varjumist pole vaja, kuid vaja on nii kerget sammu, enesekindlust kui ka distsipliini. Liikumatuna märkamatuks jäämiseks kasuta Peitumist. Fumble tõmbab soovimatut tähelepanu, ebaõnnestumine tähendab, et edasiminekut ei toimu ja tegelane on igaühele nähtav, samas kui õnnestumised pakuvad erineval tasemel varjatust.
 
-**Süsteemi märkused:** Hiilida eeldab aeglast liikumist. Kaugemale kui 1/2 oma MOV-st liikumine võitlusvoorus on Raske. Keskkonnategurid (ümbritsev müra, paksud vaibad, kriuksuvad põrandad jne) või varustus (pehmetallalised jalanõud, lärmakas soomus, mahukas varustus jne) võivad Hiilida veeremisi muuta, mängujuhi äranägemisel. Hiilida on vastandatud Märgata või Kuulda veeremistega, vastavalt asjakohasusele.
+**Süsteemi märkused:** Hiilimine eeldab aeglast liikumist. Kaugemale kui 1/2 oma MOV-st liikumine võitlusvoorus on Raske. Keskkonnategurid (ümbritsev müra, paksud vaibad, kriuksuvad põrandad jne) või varustus (pehme tallaga kingad, mürarikas turvis, kohmakas varustus jne) võivad mängujuhi äranägemisel Hiilimise veeretusi muuta. Hiilimine on vastandatud Märkamisele või Kuulamisele, vastavalt olukorrale.
 
 ### Strateegia
 
-**Baasvõimalus:** 01%
+**Baasprotsent:** 01%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust jõudude juhtimiseks lahingus, väikesest rühmast kuni massiivse armee või laevastikuni, korraldage ja koordineerige armee logistikat, planeerige ja viige läbi suuremahuline sõjaline ettevõtmine ja määrake, mida teine strateeg võib mõelda. See oskus eeldab ka elementaarseid teadmisi sõjaajaloost ja taktikatest ning nendes valdkondades olulistest tegelastest. Äpardus esindab sõjalist katastroofi ja võib viia täieliku lüüasaamiseni, samas kui erinevad õnnestumiste astmed annavad strateegilisi eeliseid ja võivad tähendada boonuseid moraali ja võitlustõhususe osas.
+Kasuta seda oskust jõudude juhtimiseks lahingus, väikesest rühmast kuni tohutu armee või laevastikuni, armee logistika korraldamiseks ja koordineerimiseks, suureulatusliku sõjalise ettevõtmise kavandamiseks ja elluviimiseks ning teise strateegi mõttekäigu kindlakstegemiseks. See oskus eeldab ka põhilisi teadmisi sõjaajaloost ja taktikast ning selles vallas tegutsenud märkimisväärsetest isikutest. Fumble tähistab sõjalist katastroofi ja võib viia täieliku lüüasaamiseni, samas kui erinevad õnnestumise tasemed annavad strateegilisi eeliseid ning võivad tähendada boonuseid moraali ja võitlusvõime osas.
 
-**Süsteemi märkused:** Massiivsed sõjalised kokkupõrked tuleks lahendada abstraktselt, kusjuures vastandlik Strateegia veeremine vastandlike juhtide vahel mõjutab tulemust (suuremate või pikemate kokkupõrgete jaoks võib olla vaja mitut veeremist). Strateegia kasutamine ebasoodsates tingimustes (vähemuses, halvasti varustatud jne) on Raske. Seda oskust kasutatakse sageli koos Käsutada oskusega: Strateegia esindab plaani, Käsutada on see, kui selgelt see edastatakse neile, kes peavad seda täitma.
+**Süsteemi märkused:** Massiivseid sõjalisi kokkupõrkeid tuleks lahendada abstraktselt, kus vastandatud Strateegia-veeretus vastandlike juhtide vahel mõjutab tulemust (suuremate või pikemate kokkupõrgete puhul võib vaja minna mitut veeretust). Strateegia kasutamine ebasoodsates tingimustes (vähemuses olemine, kehv varustus jne) on Raske. Seda oskust kasutatakse sageli koos Käsklusega: Strateegia tähistab plaani, Käsklus on viis, kuidas see selgelt edastatakse neile, kes peavad selle ellu viima.
 
-### Ujuda
+### Ujumine
 
-**Baasvõimalus:** 25%
+**Baasprotsent:** 25%
 
 **Kategooria:** Füüsiline
 
-Kasutage seda oskust vees või vee all liikumiseks. Üldiselt tuleks Ujuda veeremisi kasutada ainult ohtlike või stressirohkete olukordade puhul. Ujumine, koerapadldamine ja vee peal püsimine tavatingimustes on *Automaatne*. Äpardus tähendab, et hakkate uppuma (vt *Kägistamine, uppumine ja lämbumine*). Kui teie tegelane hakkab uppuma, saab ainult *Raske* Ujuda veeremine või väline abi nad tagasi pinnale hingama tuua. Õnnestumine tähendab normaalset manööverdamist vees, samas kui suurepärased õnnestumised tähendavad täiendavat kiirust ja manööverdusvõimet.
+Kasuta seda oskust vees või vee all liikumiseks. Üldiselt tuleks Ujumise veeretusi kasutada ainult ohtlikes või stressirohketes olukordades. Vee peal püsimine, koeraujumine ja vees tammumine normaalsetes tingimustes on *Automaatne*. Fumble tähendab, et hakkad uppuma (vt *Lämbumine, uppumine ja asfüksia*). Kui su tegelane hakkab uppuma, saab ta pinnale hingama naasta ainult *Raske* Ujumise veeretuse või välise abi abil. Õnnestumine tähendab normaalset manööverdamist vees, samas kui suurepärased õnnestumised tähendavad lisakiirust ja manööverdamisvõimet.
 
-**Süsteemi märkused:** Rahulikus vees on Ujuda veeremised vajalikud ainult kord voorus. Karedas vees ujumine nõuab Ujuda kontrolli igas voorus. Millegi kandmine ujumise ajal nõuab Pingutuse veeremist või STR vastupanu veeremist, olenevalt olukorrast. Spetsiaalne varustus (ujumispadi, uimed jne) pakub kuni +20% modifikaatoreid. Aktiivne ujumine maksab 1 väsimuspunkti vooru kohta. Lahendage võistlused vees vastandlike Ujuda kontrollidena, makstes 1 väsimuspunkti vooru kohta. Lahutage ujujalt mis tahes ENC. Kui nende ENC ületab nende STR-i, nad vajuvad ja peavad kaalu vähendama või uppuma. Soomustatud tegelastele rakendatakse Ujuda puhul karistus (vt **Soomus**). Soomuse eemaldamiseks vees tehke Ujuda veeremine kord võitlusvoorus iga soomuse kõrgeima väärtuse punkti kohta (kui kasutatakse juhuslikke soomusväärtusi, siis maksimaalne veeremine). Loomulikul soomusel või võimest saadud soomusel vees karistust ei ole.
+**Süsteemi märkused:** Rahulikus vees on Ujumise veeretusi vaja vaid kord vooru kohta. Karmi veega ujumine nõuab Ujumise kontrollveeretust igas voorus. Millegi kandmine ujumise ajal nõuab Pingutuse veeretust või JÕU vastupanuveeretust, sõltuvalt olukorrast. Erivarustus (ujujaid abistavad vahendid, lestad jne) pakub kuni +20% modifikaatoreid. Aktiivne ujumine maksab 1 väsimuspunkti vooru kohta. Lahenda võiduujumisi vastandatud Ujumise veeretustena, makstes 1 väsimuspunkti ringi kohta. Lahuta ujuja kogu ENC tema Ujumise reitingust. Kui ENC ületab tema JÕU, siis ta vajub põhja ning peab raskuse maha viskama või uppuma. Soomustatud tegelastele rakendub Ujumise miinus (vt **Turvis**). Turvise eemaldamiseks vees tee Ujumise veeretust kord võitlusvoorus iga turvise kõrgeima väärtuse punkti kohta (maksimaalne veeretustulemus, kui kasutatakse juhuslikke turvise väärtusi). Looduslikul turvisel või võimega saadud turvisel vees miinust ei ole.
 
-Veealuses lähivõitluses kasutab ründaja rünnakute lahendamiseks oma võitlus- või Ujuda oskuse tasemetest madalamat ja Põigelda proovimine on Raske. Ainult läbistavad relvad on kasulikud – kõik teised teevad 1D3–1 tabamispunkti kahju tabamuse kohta. Veetakistus lisab sihtmärgile ka 3 punkti soomusväärtust. Lisateabe saamiseks vt **Veealune võitlus**.
+Veealuses lähivõitluses kasutab ründaja rünnakute lahendamiseks oma võitlusoskuse või Ujumise oskuse madalamat reitingut ja Põiklemine on Raske. Kasulikud on ainult torkerelvad—kõik teised teevad 1D3–1 punkti kahju tabamuse kohta. Veetakistus lisab igale sihtmärgile ka 3 punkti turvise väärtust. Lisateavet vt **Veealune võitlus**.
 
-### Õpetada
+### Õpetamine
 
-**Baasvõimalus:** 10%
+**Baasprotsent:** 10%
 
 **Kategooria:** Suhtlus
 
-Kasutage seda oskust alati, kui teie tegelane üritab õpetada teavet või tehnikat teisele, kasutades loengut, harjutust või füüsilist sparringut. Äpardus on tagasikäik ja põhjustab õpilastel võib-olla 1D2 oskuspunkti kaotamist, kui nad ei tee Taiplikkuse veeremist shoddy õpetuse äratundmiseks, samas kui õnnestumine õpetab vastavalt tavapärastele koolitusreeglitele ja suurepärased õnnestumised parandavad oskuste väljaõpet 1D6-ni (erakordne) ja 1D6+2-ni (kriitiline).
+Kasuta seda oskust alati, kui su tegelane üritab teist treenida või õpetada teavet või tehnikat, kasutades loengut, harjutust või füüsilist sparringut. Fumble on tagurlik ja põhjustab õpilastel võib-olla 1D2 oskuspunkti kaotuse, kui nad ei tee Intellekti veeretust, et ära tunda kehva õpetamist, samas kui õnnestumine õpetab vastavalt tavalistele treeningureeglitele ja suurepärased õnnestumised parandavad oskuste treeningut 1D6 (eriline) ja 1D6+2 (kriitiline) võrra.
 
-**Süsteemi märkused:** Konkreetse oskuse õpetamiseks peab õpetajal olema kaks korda õpilase oskustase või oskustase 50% (olenevalt sellest, kumb on madalam). Lisateabe saamiseks vt **Oskuste väljaõpe**.
+**Süsteemi märkused:** Konkreetse oskuse õpetamiseks peab õpetajal olema kaks korda suurem oskuste reiting kui õpilasel või 50% oskuste reiting (olenevalt sellest, kumb on madalam). Vt **Oskuste treening** lisateabe saamiseks.
 
-### Tehniline oskus (erinevad)
+### Tehniline oskus (mitmesugused)
 
-**Baasvõimalus:** 05%
+**Baasprotsent:** 05%
 
 **Kategooria:** Vaimne
 
-Kasutage seda oskust täiustatud tehnoloogiliste seadmete, nagu arvutisüsteemide, robotite või muude kõrgtehnoloogiliste seadmete kasutamiseks ja hooldamiseks. Seda saab kasutada ka seadmete muutmiseks nende jõudluse parandamiseks või kasutamiseks uuel eesmärgil väljaspool nende parameetreid. Äpardus potentsiaalselt purustab seadme või kiilub selle kuidagi kinni, samas kui õnnestumised ja suurepärased õnnestumised panevad mehhanismi toimima vastavalt kavandatule või ootustele.
+Kasuta seda oskust täiustatud tehnoloogiliste seadmete, nagu arvutisüsteemide, robotite või muude kõrgtehnoloogiliste seadmete käitamiseks ja hooldamiseks. Seda saab kasutada ka seadmete muutmiseks, et parandada nende jõudlust või kasutada neid uuel eesmärgil väljaspool nende parameetreid. Fumble võib seadme lõhkuda või seda mingil moel ummistada, samas kui õnnestumised ja suurepärased õnnestumised panevad mehhanismi toimima kavandatud viisil või üle ootuste.
 
-**Erialad:** Kellamehhanismid, arvutid, küberneetika, elektroonika, robootika, sensorid, piiramismasinad, lõksud jne.
+**Eriala:** Kellavärk, Arvutid, Küberneetika, Elektroonika, Robootika, Sensorid, Piiramismasinad, Lõksud jne.
 
-**Seadete märkused:** Fantaasia- või ajaloolistes seadetes katab Tehniline oskus lõkse, kellamehhanisme või hammasratastega seadmeid, piiramismasinaid jne.
+**Seade märkused:** Tehniline oskus fantaasia- või ajaloolistes seadetes hõlmab lõkse, kellavärki või hammasratastega seadmeid, piiramismasinaid jne.
 
-### Visata
+### Viska
 
-**Baasvõimalus:** 25%
+**Baasprotsent:** 25%
 
 **Kategooria:** Füüsiline
 
-Kasutage seda oskust sihtmärgi tabamiseks visatud esemega või relva viskamiseks, mis pole muul viisil viskamiseks tasakaalustatud (näiteks kahekäemõõga või kilbi viskamine). See katab improviseeritud viskeesemeid, granaate, dünamiidipulki, relvi, mida tavaliselt ei visata, või mitterelvi. Lassod on samuti selle oskuse alla kuuluvad, samuti esemete kinnipüüdmine. Kui relv on tehtud viskamiseks, kasutage Kaugvõitlusrelva.
+Kasuta seda oskust sihtmärgi tabamiseks visatava esemega või relvaga, mis pole muidu viskamiseks tasakaalustatud (näiteks kahekäemõõga või kilbi viskamine). See hõlmab improviseeritud visatavaid esemeid, granaate, dünamiidipulki, tavaliselt mittevisatavaid relvi või mitterelvi. Lassod on samuti selle oskuse alla kuuluvad, samuti esemete kinnipüüdmine. Kui relv on mõeldud viskamiseks, kasuta Laskerelva.
 
-**Mõjud:** Visata on konkreetsed mõjud:
+**Efektid:** Viskamisel on konkreetsed efektid:
 
-* **Äpardus:** Ese kukub maha või läheb kaduma. Võitluses kasutage **Kaugvõitlusrelva äparduste tabelit**.
-* **Ebaõnnestumine:** Ese möödub ja läheb 1D6 meetrit juhuslikus suunas.
-* **Õnnestumine:** Ese maandub kavandatud kohta. Veerige kahju tavapäraselt, kui seda on.
-* **Erakordne:** Ese maandub kavandatud kohta ja teeb erilist tüüpi kahju vastavalt oma kujule (vt **Erakordsed õnnestumised**).
-* **Kriitiline:** Ese maandub erakordsete tulemustega kavandatud kohta, ignoreerides soomust ja tehes kriitilist kahju, kui see on asjakohane.
+* **Fumble:** Ese kukub maha või läheb kaduma. Võitluses kasuta **Laskerelvade Fumble'i tabelit**.
+* **Ebaõnnestumine:** Ese möödub sihtmärgist ja lendab 1D6 meetrit juhuslikus suunas.
+* **Õnnestumine:** Ese maandub soovitud kohta. Veereta kahju tavapäraselt, kui seda on.
+* **Eriline:** Ese maandub soovitud kohta ja teeb vastavalt oma kujule erilist tüüpi kahju (vt **Suurepärased õnnestumised**).
+* **Kriitiline:** Ese maandub soovitud kohta erakordsete tulemustega, ignoreerides turvist ja tehes kriitilist kahju, kui see on asjakohane.
 
-**Süsteemi märkused:** Lisage 1/2 kahjustuse modifikaatorist (ümardage üles) visatud relva baaskahjule. Enamik esemeid saab visata viskaja STR meetritesse ja vahemik väljaspool seda on Raske. Visatud esemeid saab sihitud rünnakuteks kasutada.
+**Süsteemi märkused:** Lisa 1/2 kahjumodifikaatorist (ümardatult ülespoole) visatava relva baaskahjule. Enamikku esemeid saab visata viskaja JÕU väärtuse meetrites, ja sellest kaugemale ulatuv vahemaa on Raske. Visatavaid esemeid saab sihtida.
 
-### Jälitada
+### Jälgi
 
-**Baasvõimalus:** 10%
+**Baasprotsent:** 10%
 
 **Kategooria:** Taju
 
-Kasutage seda oskust jälgede tuvastamiseks või raja järgimiseks – olgu inimene, sõiduk või loom – üle maa, läbi võsa, lume ja üle purustatud pinnase. Äpardus kaotab raja ja võib-olla ka jälitaja enda. Erinevad õnnestumiste astmed annavad paremaid tulemusi, sealhulgas potentsiaalselt võimaluse hinnata teavet jälitatava kohta või ennustada täpselt, kuhu nad lähevad.
+Kasuta seda oskust jälgede tuvastamiseks või raja järgimiseks—olgu selleks inimene, sõiduk või loom—üle maapinna, läbi võsa, lume ja üle rasketel maastikel. Fumble tähendab raja kaotamist ja võib-olla ka jälitaja enda eksimist. Erinevad õnnestumise tasemed annavad paremaid tulemusi, sealhulgas võimaluse hinnata teavet jälitatava subjekti kohta või täpselt ennustada, kuhu nad suunduvad.
 
-**Süsteemi märkused:** Jälitada veeremine võtab 1D3 minutit ja pikendatud jälituskatse võib nõuda mitut veeremist. Olenevalt keskkonnast võib veeremine olla Raske (vihmane öö) või Lihtne (helge lumine päev). Kui rada läheb kaduma, on selle uuesti leidmine Raske. Oma jälgede varjamise proovimine on vastandlik Jälitada veeremine. Täiustatud varustus võib lisada kuni +20% oskustasemele.
+**Süsteemi märkused:** Jälgi veeretust tehakse 1D3 minutit ja pikendatud jälituskatse võib nõuda mitut veeretust. Sõltuvalt keskkonnast võib veeretamine olla Raske (vihmane öö) või Lihtne (helge lumine päev). Kui rada on kaotatud, on selle uuesti leidmine Raske. Oma jälgede varjamine on vastandatud Jälgi-veeretus. Täiustatud varustus võib lisada kuni +20% oskuste reitingule.

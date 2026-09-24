@@ -1,411 +1,407 @@
 # 3\. Kemahiran
 
-Watak anda perlu membuat banyak keputusan, menghadapi banyak cabaran, dan menyelesaikan banyak tugas semasa permainan. Kebanyakan tindakan penting ditakrifkan sebagai **kemahiran** yang boleh dicuba oleh watak anda. Bahagian ini menyenaraikan kemahiran yang paling biasa, mentakrifkannya, dan menghubungkannya dengan tugasan yang boleh dicuba oleh watak anda dalam permainan.
+Watak anda perlu membuat banyak keputusan, menghadapi banyak cabaran, dan menyelesaikan banyak tugasan sepanjang permainan. Kebanyakan tindakan penting ditakrifkan sebagai **kemahiran** yang boleh cuba dilakukan oleh watak anda. Bahagian ini menyenaraikan kemahiran yang paling biasa, mentakrifkannya, dan menghubungkannya dengan tugasan yang boleh cuba dilakukan oleh watak anda dalam permainan.
 
 ## Mentakrifkan Kemahiran
 
-Sesuatu kemahiran mewakili set pengetahuan dan kebolehan yang khusus. Setiap kemahiran dinilai pada skala persentil daripada 0 hingga 100 (atau lebih tinggi). Ini dipanggil **penilaian kemahiran** (*skill rating*). Semakin tinggi, semakin baik.
+Sesuatu kemahiran mewakili set pengetahuan dan kebolehan tertentu. Setiap kemahiran dinilai pada skala peratusan dari 0 hingga 100 (atau lebih tinggi). Ini dipanggil **penilaian kemahiran**. Semakin tinggi, semakin baik.
 
-Senarai kemahiran dalam buku ini jauh daripada menyeluruh: permainan yang berbeza mungkin memerlukan kemahiran tambahan, dan gamemaster digalakkan untuk mencipta kemahiran baharu mengikut kehendak. Selain itu, gamemaster mungkin ingin menamakan semula atau mengelaskan semula kemahiran, menghapuskan beberapa daripadanya, menambah kepakaran baharu (diterangkan di bawah), atau membuangnya, mengikut kesesuaian.
+Senarai kemahiran dalam buku ini jauh daripada menyeluruh: permainan yang berbeza mungkin memerlukan kemahiran tambahan, dan pengurus permainan digalakkan untuk mencipta kemahiran baharu mengikut keinginan. Selain itu, pengurus permainan mungkin ingin menamakan semula atau mengklasifikasikan semula kemahiran, menghapuskan beberapa kemahiran, menambah kepakaran baharu (diterangkan di bawah), atau membuang kemahiran yang tidak sesuai.
 
 ### Kepakaran Kemahiran
 
-Banyak kemahiran bersifat luas dan memerlukan anda menentukan kepakaran, iaitu aspek yang lebih tertumpu bagi kemahiran tersebut. Seni, sebagai contoh, adalah kategori yang luas, jadi ia dibahagikan kepada kepakaran seperti Melukis, Mengecat, Arca, Menulis, dan sebagainya. Ini disenaraikan selepas nama kemahiran dalam kurungan. Oleh itu, Senjata Jarak Dekat (Pedang) dan Senjata Jarak Dekat (Lembing) dianggap sebagai dua kemahiran yang berbeza. Atas budi bicara gamemaster, jika watak anda tidak mempunyai penilaian kemahiran dalam kepakaran yang sesuai, anda boleh menggunakan penilaian kemahiran atau kepakaran berkaitan yang dibahagi dua (dibulatkan ke atas), untuk membuat lemparan kemahiran.
+Banyak kemahiran adalah luas dan memerlukan anda menentukan kepakaran, iaitu aspek yang lebih fokus bagi kemahiran tersebut. Seni, sebagai contoh, adalah kategori yang luas, jadi ia dibahagikan kepada kepakaran seperti Melukis, Mengecat, Memahat, Menulis, dan sebagainya. Ini disenaraikan selepas nama kemahiran di dalam kurungan. Oleh itu, Senjata Jarak Dekat (Pedang) dan Senjata Jarak Dekat (Lembing) dianggap sebagai dua kemahiran yang berbeza. Atas budi bicara pengurus permainan, jika watak anda kekurangan penilaian kemahiran dalam kepakaran yang sesuai, anda boleh menggunakan penilaian kemahiran atau kepakaran yang berkaitan yang dibahagikan dua (digenapkan ke atas), untuk membuat lemparan kemahiran.
 
-Sebagai contoh, *watak anda boleh menggunakan separuh daripada penilaian kemahiran mereka dalam Sains (Astronomi) untuk membuat lemparan kemahiran yang biasanya memerlukan Sains (Fizik) atau Sains (Matematik), kerana ini adalah kemahiran yang berkaitan. Walau bagaimanapun, ketajaman astronomi ini tidak berguna jika gamemaster meminta lemparan kemahiran Sains (Biologi) atau Pengetahuan (Sejarah).*
+Sebagai contoh, *watak anda boleh menggunakan separuh daripada penilaian kemahiran mereka dalam Sains (Astronomi) untuk membuat lemparan kemahiran yang biasanya memerlukan Sains (Fizik) atau Sains (Matematik), kerana ini adalah kemahiran yang berkaitan. Walau bagaimanapun, ketajaman astronomi ini tidak berguna jika pengurus permainan meminta lemparan kemahiran Sains (Biologi) atau Pengetahuan (Sejarah).*
 
 ### Menggunakan Kemahiran
 
-Apabila watak anda ingin melakukan tindakan atau menyelesaikan tugas di mana hasilnya diragui, anda mesti mengisytiharkan tindakan yang diingini. Gamemaster kemudian akan meminta lemparan D100 berbanding penilaian kemahiran yang sesuai. Secara amnya, lemparan D100 yang sama dengan atau di bawah penilaian kemahiran yang diubah suai memberikan kejayaan dalam tugas tersebut, manakala lemparan yang lebih tinggi daripada penilaian tersebut adalah gagal.
+Setiap kali watak anda ingin melakukan tindakan atau menyelesaikan tugasan di mana hasilnya diragui, anda mesti mengisytiharkan tindakan yang diinginkan. Pengurus permainan kemudian akan meminta lemparan D100 terhadap penilaian kemahiran yang sesuai. Secara amnya, lemparan D100 yang sama atau di bawah penilaian kemahiran yang diubah suai memberikan kejayaan pada tugasan tersebut, manakala lemparan yang lebih tinggi daripada penilaian tersebut adalah gagal.
 
-Kesukaran tugas atau pengubah suai keadaan lain boleh melaraskan penilaian kemahiran ke atas atau ke bawah. Pengubah suai kesukaran adalah:
+Kesukaran tugasan atau pengubah suai keadaan yang lain boleh melaraskan penilaian kemahiran ke atas atau ke bawah. Pengubah suai kesukaran adalah:
 
 * **Automatik** tiada lemparan diperlukan
 * **Mudah** kemahiran digandakan
 * **Purata** tiada pengubahsuaian pada kemahiran
-* **Sukar** kemahiran dibahagi dua
-* **Mustahil** tiada lemparan, atau peluang 01% mengikut budi bicara gamemaster
+* **Sukar** kemahiran dibahagikan dua
+* **Mustahil** tiada lemparan, atau peluang 01% atas budi bicara pengurus permainan
 
-Lihat **Mengubah Suai Lemparan Tindakan** untuk maklumat lanjut. Jika tiada pengubah suai dinyatakan, anggap lemparan tersebut berada pada kesukaran Purata.
+Lihat **Mengubah Suai Lemparan Tindakan** untuk maklumat lanjut. Jika tiada pengubah suai ditunjukkan, anggap lemparan tersebut pada kesukaran Purata.
 
-Dalam kebanyakan kes, kemahiran yang sesuai untuk sesuatu tindakan adalah jelas. Walau bagaimanapun, keadaan yang tidak dijangka boleh membawa kepada kegunaan baharu bagi sesuatu kemahiran. Anda digalakkan untuk mencari aplikasi alternatif bagi kemahiran watak anda, tetapi semua penggunaan kemahiran sedemikian mesti mendapat kelulusan gamemaster.
+Dalam kebanyakan kes, kemahiran yang sesuai untuk tindakan tertentu adalah jelas. Walau bagaimanapun, keadaan yang tidak dijangka boleh membawa kepada penggunaan baharu sesuatu kemahiran. Anda digalakkan untuk mencari aplikasi alternatif bagi kemahiran watak anda, tetapi semua penggunaan kemahiran sedemikian mesti mendapat kelulusan pengurus permainan.
 
-Walaupun banyak kemahiran berorientasikan tindakan, ia juga menunjukkan pengetahuan umum tentang jenis tugas yang dikawal oleh kemahiran tersebut.
+Walaupun banyak kemahiran berorientasikan kepada tindakan, ia juga menunjukkan pengetahuan am mengenai jenis tugasan yang dikawal oleh kemahiran tersebut.
 
-Sebagai contoh, *seorang pahlawan zaman pertengahan mungkin menggunakan kemahiran Senjata Jarak Dekat (Pedang) dan bukannya Menilai untuk menentukan kualiti pedang. Kemahiran Seni Mempertahankan Diri mungkin digunakan dengan cara yang sama untuk mengetahui tentang dojo yang berbeza di bandar dan siapa sensei mereka.*
+Sebagai contoh, *seorang pahlawan zaman pertengahan mungkin menggunakan kemahiran Senjata Jarak Dekat (Pedang) dan bukannya Menilai untuk menentukan kualiti pedang. Kemahiran Seni Mempertahankan Diri mungkin digunakan dengan cara yang sama untuk mengetahui tentang dojo yang berbeza di sebuah bandar dan siapa sensei mereka.*
 
 ### Lemparan Kemahiran Rahsia atau Tersembunyi
 
-Gamemaster juga boleh membuat lemparan kemahiran untuk watak anda, dalam kes di mana gamemaster sama ada tidak mahu anda mengetahui hasil lemparan kemahiran tersebut atau tidak mahu anda tahu bahawa lemparan kemahiran sedang dibuat sama sekali. Gamemaster mungkin ingin menyimpan salinan helaian watak anda atau mungkin meminta anda memberikan senarai pangkat semasa watak anda dalam kemahiran yang berkaitan (terutamanya kemahiran Persepsi) supaya lemparan rahsia boleh dibuat tanpa memaklumkan anda dan pemain lain bahawa watak anda mungkin terlepas sesuatu apabila lemparan kemahiran gagal. Kaedah ini membolehkan gamemaster menggunakan lemparan yang gagal untuk berpotensi mengelirukan atau menyesatkan anda, yang merupakan taktik berguna untuk lemparan berasaskan Persepsi atau Mental.
+Pengurus permainan juga boleh membuat lemparan kemahiran untuk watak anda, dalam kes di mana pengurus permainan sama ada tidak mahu anda mengetahui hasil lemparan kemahiran tersebut atau tidak mahu anda tahu bahawa lemparan kemahiran sedang dibuat. Pengurus permainan mungkin ingin menyimpan salinan helaian watak anda atau mungkin meminta anda memberikan senarai pangkat semasa watak anda dalam kemahiran yang berkaitan (terutamanya kemahiran Persepsi) supaya lemparan rahsia boleh dibuat tanpa memaklumkan anda dan pemain lain bahawa watak anda mungkin terlepas sesuatu apabila lemparan kemahiran gagal. Kaedah ini membolehkan pengurus permainan menggunakan lemparan yang gagal untuk berpotensi mengelirukan atau menyesatkan anda, yang merupakan taktik berguna untuk lemparan berasaskan Persepsi atau Mental.
 
-Beberapa lemparan kemahiran yang lebih jelas yang boleh dilakukan secara rahsia, atau tanpa anda menyedari hasilnya, adalah seperti berikut: Menilai, Seni, Tawar-menawar, Perintah, Kraf, Menyamar, Etiket, Cakap Laju, Permainan, Bersembunyi, Wawasan, Pengetahuan, Bahasa, Mendengar, Literasi, Perubatan, Navigasi, Persembahan, Memujuk, Psikoterapi, Penyelidikan, Sains, Deria, Ketangkasan Tangan, Mengesan, Status, Stealth, Strategi, Mengajar, Kemahiran Teknikal, dan Menjejak. Kemahiran lain juga boleh dilakukan secara rahsia, bergantung kepada keadaan.
+Beberapa lemparan kemahiran yang lebih jelas yang mungkin dilakukan secara rahsia, atau tanpa anda menyedari hasilnya, adalah seperti berikut: Menilai, Seni, Tawar-menawar, Perintah, Kraf, Menyamar, Etika, Bercakap Laju, Permainan, Bersembunyi, Wawasan, Pengetahuan, Bahasa, Mendengar, Literasi, Perubatan, Navigasi, Persembahan, Memujuk, Psikoterapi, Penyelidikan, Sains, Deria, Ketangkasan Tangan, Mengesan, Status, Senyap, Strategi, Mengajar, Kemahiran Teknikal, dan Menjejak. Kemahiran lain juga boleh dilakukan secara rahsia, bergantung pada keadaan.
 
-Lemparan ini tidak semestinya benar-benar rahsia, dan gamemaster mungkin memberitahu anda bahawa lemparan sedang dibuat terhadap kemahiran tertentu. Bergantung pada gaya permainan, anda dan gamemaster boleh memilih untuk membuat lemparan tersembunyi di mana anda melontar dadu di kawasan yang anda tidak dapat melihat di mana ia mendarat, seperti di sebalik skrin gamemaster atau penyembunyian lain.
+Lemparan ini tidak semestinya benar-benar rahsia, dan pengurus permainan mungkin memberitahu anda bahawa lemparan sedang dibuat terhadap kemahiran tertentu. Bergantung pada gaya permainan, anda dan pengurus permainan boleh memilih untuk membuat lemparan tersembunyi di mana anda melontar dadu di kawasan yang anda tidak dapat melihat di mana ia mendarat, seperti di sebalik skrin pengurus permainan atau pelindung lain.
 
-Jika kemahiran tersebut berjaya, gamemaster harus memberitahu anda bahawa watak anda telah berjaya menggunakan kemahiran yang sesuai dan membenarkan pemeriksaan pengalaman, jika berkenaan. Jika lemparan kemahiran gagal, gamemaster harus memaklumkan, memberikan maklumat salah, atau menahan diri daripada memaklumkan anda (dan watak anda) tentang hasilnya, mengikut kesesuaian.
+Jika kemahiran itu berjaya, pengurus permainan harus memberitahu anda bahawa watak anda telah berjaya menggunakan kemahiran yang sesuai dan membenarkan semakan pengalaman, jika berkenaan. Jika lemparan kemahiran gagal, pengurus permainan harus memaklumkan, memberi maklumat salah, atau tidak memaklumkan anda (dan watak anda) tentang hasilnya, mengikut kesesuaian.
 
 ## Kategori Kemahiran
 
 Kemahiran dibahagikan kepada enam kategori kemahiran:
 
-* **Tempur** kemahiran mengukur kecekapan dengan senjata dan gerakan tempur.
-* **Komunikasi** kemahiran mengawal perbualan, pembacaan, dan pertukaran interpersonal.
-* **Manipulasi** kemahiran mentakrifkan tugas yang memerlukan koordinasi tangan-mata yang tepat.
+* **Tempur** kemahiran mengukur kecekapan dengan senjata dan pergerakan tempur.
+* **Komunikasi** kemahiran mengawal perbualan, pembacaan, dan pertukaran antara peribadi.
+* **Manipulasi** kemahiran mentakrifkan tugasan yang memerlukan koordinasi tangan-mata yang tepat.
 * **Mental** kemahiran mengukur pengetahuan khusus dan pertimbangan individu.
 * **Persepsi** kemahiran mengumpul dan mentafsir maklumat daripada persekitaran.
 * **Fizikal** kemahiran mengawal pencapaian kekuatan, ketangkasan, dan olahraga.
 
-Kategori kemahiran berfungsi sebagai panduan umum kepada jenis tindakan yang boleh diselesaikan oleh sesuatu kemahiran, serta menawarkan rangka kerja untuk anda dan gamemaster mencipta kemahiran baharu. Kategori kemahiran mengikat penilaian kemahiran watak anda kepada skor ciri mereka yang paling berpengaruh melalui bonus kategori, satu sistem pilihan.
+Kategori kemahiran berfungsi sebagai panduan am kepada jenis tindakan yang boleh diselesaikan oleh sesuatu kemahiran, serta menawarkan rangka kerja untuk anda dan pengurus permainan mencipta kemahiran baharu. Kategori kemahiran mengikat penilaian kemahiran watak anda kepada skor ciri yang paling berpengaruh melalui bonus kategori, satu sistem pilihan.
 
 ### Kemahiran Baharu
 
-Terdapat baris kosong dalam bahagian kemahiran pada helaian watak. Ini adalah untuk kemahiran baharu yang mungkin anda atau gamemaster cipta. Sebagai contoh, *Bab Empat: Kuasa* memperkenalkan kemahiran baharu pilihan yang dipanggil Unjuran, digunakan bersama banyak kuasa. Anda boleh mencadangkan dan mentakrifkan kemahiran baharu, tetapi hanya gamemaster yang boleh membenarkan penggunaannya dalam permainan anda.
+Terdapat baris kosong dalam bahagian kemahiran helaian watak. Ini adalah untuk kemahiran baharu yang anda atau pengurus permainan mungkin cipta. Sebagai contoh, *Bab Empat: Kuasa* memperkenalkan kemahiran baharu pilihan yang dipanggil Unjuran, digunakan bersama dengan banyak kuasa. Anda boleh mencadangkan dan mentakrifkan kemahiran baharu, tetapi hanya pengurus permainan yang boleh membenarkan penggunaannya dalam permainan anda.
 
 ### Menukar Senarai Kemahiran
 
-Sama seperti anda dan gamemaster boleh mencipta kemahiran baharu, anda boleh menamakan semula kemahiran untuk disesuaikan dengan tetapan tertentu. Sebagai contoh, Manipulasi Halus mungkin dinamakan semula sebagai Mencipta atau Membuka Kunci untuk persekitaran zaman pertengahan atau fantasi. Gamemaster anda juga mungkin memilih untuk menghapuskan kemahiran tertentu sama sekali jika ia tidak sesuai dengan gaya permainan mereka. Adalah sangat disyorkan agar sebarang perubahan sedemikian ditentukan sebelum penciptaan watak dan dijelaskan dengan jelas, supaya anda tidak memilih kemahiran yang mungkin ditolak atau ditukar oleh gamemaster.
+Sama mudahnya seperti anda dan pengurus permainan boleh mencipta kemahiran baharu, anda boleh menamakan semula kemahiran agar sesuai dengan tetapan tertentu. Sebagai contoh, Manipulasi Halus mungkin dinamakan semula sebagai Mencipta atau Membuka Kunci untuk persekitaran zaman pertengahan atau fantasi. Pengurus permainan anda juga mungkin memilih untuk menghapuskan kemahiran tertentu sama sekali jika ia tidak sesuai dengan gaya permainan mereka. Adalah sangat disyorkan agar sebarang perubahan sedemikian ditentukan sebelum penciptaan watak dan dibuat jelas, supaya anda tidak memilih kemahiran yang mungkin diketepikan atau ditukar oleh pengurus permainan.
 
 > ### Bonus Kategori Kemahiran
-> 
-> Seperti yang diterangkan dalam **Bonus Kategori Kemahiran**, watak anda menerima bonus atau penalti kepada kategori kemahiran berdasarkan skor ciri mereka. Gunakan bonus kategori pada setiap kemahiran dalam kategori tersebut, sebagai tambahan kepada peluang asas yang disenaraikan, jika ada, seperti yang disenaraikan dalam perihalan kemahiran. Lihat **Jadual Bonus Kategori Kemahiran** untuk formula yang digunakan bagi mengira bonus kategori kemahiran.
+>
+> Seperti yang diterangkan dalam **Bonus Kategori Kemahiran**, watak anda menerima bonus atau penalti kepada kategori kemahiran berdasarkan skor ciri mereka. Gunakan bonus kategori kepada setiap kemahiran dalam kategori itu, sebagai tambahan kepada peluang asas yang disenaraikan, jika ada, seperti yang disenaraikan dalam perihalan kemahiran. Lihat **Jadual Bonus Kategori Kemahiran** untuk formula yang digunakan bagi mengira bonus kategori kemahiran.
 
 ## Peluang Asas
 
-Kebanyakan orang yang sihat dan cergas secara fizikal boleh mengayunkan kayu, memanjat pokok, atau bercakap dalam bahasa ibunda mereka. Oleh itu, setiap kemahiran mempunyai peluang asas yang berkaitan dengannya: watak anda dianggap mempunyai penilaian asas ini dalam kemahiran tersebut sebelum sebarang mata kemahiran tambahan ditambah. Jika bonus kategori kemahiran (lihat **Bonus Kategori Kemahiran**) digunakan, tambah (atau tolak) daripadanya daripada peluang asas setiap kemahiran.
+Kebanyakan orang yang sihat dan cergas secara fizikal boleh mengayunkan belantan, memanjat pokok, atau bercakap dalam bahasa ibunda mereka. Oleh itu, setiap kemahiran mempunyai peluang asas yang dikaitkan dengannya: watak anda dianggap mempunyai penilaian asas ini dalam kemahiran tersebut sebelum sebarang mata kemahiran tambahan ditambah. Jika bonus kategori kemahiran (lihat **Bonus Kategori Kemahiran**) digunakan, tambah (atau tolak) bonus tersebut daripada peluang asas setiap kemahiran.
 
-Peluang asas sesuatu kemahiran sangat bergantung pada era kempen: watak dalam kempen yang ditetapkan di Eropah zaman pertengahan mempunyai penilaian asas yang lebih tinggi dalam Pengetahuan (Agama) berbanding rakyat A.S. moden, manakala rakyat A.S. mungkin mempunyai kelebihan dalam kemahiran Perubatan kerana latihan pertolongan cemas asas di sekolah awam dan tempat kerja. Setiap perihalan kemahiran menyenaraikan beberapa peluang asas untuk era yang berbeza, mengikut kesesuaian. Gamemaster harus berasa bebas untuk mengubah peluang asas bagi kemahiran untuk disesuaikan dengan tetapan yang berbeza.
+Peluang asas sesuatu kemahiran sangat bergantung pada era kempen: watak dalam kempen yang ditetapkan di Eropah zaman pertengahan mempunyai penilaian asas yang lebih tinggi dalam Pengetahuan (Agama) berbanding rakyat A.S. moden, manakala rakyat A.S. mungkin mempunyai kelebihan dalam kemahiran Perubatan disebabkan latihan pertolongan cemas asas di sekolah awam dan tempat kerja. Setiap perihalan kemahiran menyenaraikan beberapa peluang asas untuk era yang berbeza, mengikut kesesuaian. Pengurus permainan harus berasa bebas untuk mengubah peluang asas bagi kemahiran agar sesuai dengan tetapan yang berbeza.
 
 > #### Bertindak tanpa Kemahiran
-> 
-> Kadangkala watak anda mesti mencuba tindakan menggunakan kemahiran tanpa sebarang penilaian kemahiran (0%). Jika gamemaster bersetuju bahawa kejayaan dalam tugas tersebut adalah mungkin, buat lemparan menggunakan salah satu pilihan ini:
-> 
-> * **Bonus Kategori Kemahiran:** Jika menggunakan sistem kategori kemahiran pilihan, gunakan pengubah suai kategori kemahiran sebagai peluang asas. Bakat semula jadi kadangkala boleh mengatasi kekurangan latihan. Jika berjaya dan kemahiran tersebut boleh ditingkatkan melalui pengalaman, pemeriksaan pengalaman harus dibuat.
-> 
-> * **Peluang Liar:** Cuba, tetapi dengan hanya 1% peluang kejayaan atau usaha terakhir 'Hail Mary' iaitu POW×1 jika nasib buta boleh menjadi faktor, dengan kelulusan gamemaster. Tiada pemeriksaan pengalaman dibenarkan untuk ini, kerana ia adalah nasib buta berbanding sebarang jenis kemahiran atau bakat semula jadi.
+>
+> Kadangkala watak anda mesti mencuba tindakan menggunakan kemahiran tanpa sebarang penilaian kemahiran (0%). Jika pengurus permainan bersetuju bahawa kejayaan pada tugasan itu mungkin, buat lemparan menggunakan salah satu daripada pilihan ini:
+>
+> * **Bonus Kategori Kemahiran:** Jika menggunakan sistem kategori kemahiran pilihan, gunakan pengubah suai kategori kemahiran sebagai peluang asas. Bakat semula jadi kadangkala boleh mengatasi kekurangan latihan. Jika berjaya dan kemahiran itu boleh dipertingkatkan melalui pengalaman, semakan pengalaman harus dibuat.
+>
+> * **Peluang Liar:** Cuba, tetapi dengan hanya 1% peluang kejayaan atau usaha terakhir 'Hail Mary' sebanyak KUR×1 jika nasib buta boleh menjadi faktor, dengan kelulusan pengurus permainan. Tiada semakan pengalaman dibenarkan untuk ini, kerana ia adalah nasib buta berbanding sebarang bentuk kemahiran atau bakat semula jadi.
 
 ### Mengukur Penilaian Kemahiran
 
-Penilaian kemahiran watak anda mentakrifkan keupayaan mereka semasa permainan. Tetapi apakah maksud penilaian kemahiran tertentu dalam istilah yang lebih umum? Gunakan garis panduan berikut sebagai panduan kepada kecekapan. Pada pangkat kemahiran tertentu dan dalam keadaan yang tidak kritikal atau tidak dramatik, lemparan mungkin tidak diperlukan—di bawah keadaan rutin, watak pada tahap kecekapan tertentu boleh melakukan kemahiran ini secara kerap tanpa perlu melontar untuk kejayaan, walaupun kejayaan *Automatik* tidak melayakkan pemeriksaan pengalaman.
+Penilaian kemahiran watak anda mentakrifkan keupayaan mereka semasa bermain. Tetapi apakah maksud penilaian kemahiran tertentu dalam istilah yang lebih umum? Gunakan garis panduan berikut sebagai panduan kepada kecekapan. Pada pangkat kemahiran tertentu dan dalam keadaan yang tidak kritikal atau tidak dramatik, lemparan mungkin tidak diperlukan—dalam keadaan rutin, watak pada tahap kecekapan tertentu boleh melakukan kemahiran ini secara kerap tanpa perlu melontar dadu untuk kejayaan, walaupun kejayaan *Automatik* tidak melayakkan semakan pengalaman.
 
 ##### Jadual Penilaian Kemahiran
 
 | Penilaian Kemahiran | Kecekapan | Perihalan |
 | :---- | :---- | :---- |
-| 00–05% | Novis | Seorang amatur lengkap dengan harapan yang tipis untuk berjaya walaupun pada tugas Mudah. Anda harus melontar setiap kali watak anda mencuba kemahiran ini, sama ada dalam situasi yang penuh tekanan atau di bawah keadaan ideal. |
-| 06–25% | Neofit | Sama ada pemula atau dengan sedikit pengetahuan tentang subjek yang dihadapi. Seperti kata pepatah, 'Tahu cukup untuk menjadi berbahaya.' Berjaya sekali-sekala dan mungkin menjadi terlalu yakin akibatnya. Melontar setiap kali watak anda mencuba kemahiran ini, walaupun tugas itu Mudah. |
-| 26–50% | Amatur | Sedikit bakat, beberapa latihan, atau cebisan hobi. Watak anda hampir tidak berkelayakan tetapi boleh diamanahkan dengan tugas Automatik atau Mudah. Dalam situasi tidak stres, watak anda boleh melakukan aktiviti rutin menggunakan kemahiran ini tanpa perlu melontar. |
-| 51–75% | Profesional | Pada 51%, watak anda boleh mencari rezeki dengan pasti menggunakan kemahiran tersebut. Mereka biasanya tidak perlu risau tentang kegagalan tugas Mudah dan cukup berpengalaman atau cekap untuk berkhidmat sebagai pemimpin atau pengurus orang lain. 51% adalah lebih kurang sama dengan ijazah sarjana muda dalam disiplin tertentu. Kebanyakan kemahiran tidak boleh dinaikkan melebihi 75% melalui pendidikan atau latihan sahaja: watak anda mesti maju lebih jauh melalui penggunaan praktikal. Watak anda biasanya boleh melakukan aktiviti rutin atau kompleks yang berkaitan dengan kemahiran tersebut dan anda hanya diminta untuk melontar apabila terdapat elemen risiko, atau apabila peluang kegagalan adalah dramatik. |
-| 76–90% | Pakar | Kepakaran lanjutan dalam bidang yang diberikan: watak anda mempunyai peluang yang munasabah untuk berjaya walaupun pada tugas Sukar. Hanya profesional berdedikasi mencapai penguasaan sedemikian dalam sesuatu kemahiran, dan mereka yang melakukannya dihormati dan dipercayai kerana kepakaran mereka. Kemahiran dalam julat ini sepadan dengan ijazah lanjutan (Sarjana atau Ph.D.), atau pengalaman bertahun-tahun. Kebanyakan watak purata tidak boleh memulakan permainan dengan mana-mana kemahiran lebih tinggi daripada 75%. Watak anda sepatutnya boleh melakukan tindakan kompleks dan mencabar yang berkaitan dengan kemahiran ini di bawah keadaan rutin tanpa melontar, dengan andaian mereka mengambil masa dan mempunyai kemudahan dan/atau peralatan yang betul tersedia. |
-| 91% atau lebih tinggi | Master | Sedikit yang mencapai tahap penguasaan ini. Hanya tugas yang paling sukar berada di luar keupayaan mereka, dan kepakaran mereka berkemungkinan menjadikan master ini terkenal dalam bidang mereka dan kadangkala di dunia secara amnya. Dalam situasi rutin, watak anda boleh melakukan keajaiban, dan anda jarang perlu melontar dadu kecuali pada tugas yang paling sukar atau dalam keadaan yang teruk. Jika peraturan Kewarasan pilihan digunakan dalam kempen, mencapai penilaian 91% dalam kemahiran serta-merta memulihkan 2D6 mata SAN, mewakili keyakinan diri dan disiplin yang dikaitkan dengan menguasai kemahiran (ini adalah bonus sekali sahaja). Jika watak anda bermula dengan penilaian kemahiran ini atau lebih tinggi, tiada keuntungan SAN. |
+| 00–05% | Novis | Seorang amatur yang lengkap dengan sedikit harapan untuk berjaya walaupun pada tugasan Mudah. Anda harus melontar dadu setiap kali watak anda mencuba kemahiran ini, sama ada dalam situasi yang penuh tekanan atau dalam keadaan ideal. |
+| 06–25% | Neofit | Sama ada pemula atau mempunyai sedikit pengetahuan tentang subjek yang dihadapi. Seperti yang mereka katakan, 'Tahu cukup untuk menjadi berbahaya.' Berjaya sekali-sekala dan mungkin menjadi terlalu yakin sebagai hasilnya. Lontar dadu setiap kali watak anda mencuba kemahiran ini, walaupun tugasan itu Mudah. |
+| 26–50% | Amatur | Sedikit bakat, latihan, atau hobi. Watak anda hampir tidak layak tetapi boleh diamanahkan dengan tugasan Automatik atau Mudah. Dalam situasi yang tidak tertekan, watak anda boleh melakukan aktiviti rutin menggunakan kemahiran ini tanpa perlu melontar dadu. |
+| 51–75% | Profesional | Pada 51%, watak anda boleh mencari rezeki dengan pasti menggunakan kemahiran tersebut. Mereka biasanya tidak perlu risau tentang kegagalan dalam tugasan Mudah dan berpengalaman atau cukup cekap untuk berkhidmat sebagai ketua atau pengurus orang lain. 51% adalah lebih kurang sama dengan ijazah sarjana muda dalam disiplin tertentu. Kebanyakan kemahiran tidak boleh dinaikkan melebihi 75% melalui pendidikan atau latihan sahaja: watak anda mesti maju lebih jauh melalui penggunaan praktikal. Watak anda biasanya boleh melakukan aktiviti rutin atau kompleks yang berkaitan dengan kemahiran tersebut dan anda hanya diminta untuk melontar dadu apabila terdapat elemen risiko, atau apabila peluang kegagalan adalah dramatik. |
+| 76–90% | Pakar | Kepakaran lanjutan dalam bidang yang diberikan: watak anda mempunyai peluang yang munasabah untuk berjaya walaupun pada tugasan Sukar. Hanya profesional yang berdedikasi mencapai penguasaan kemahiran tertentu sebegitu, dan mereka yang melakukannya dihormati dan bergantung harap atas kepakaran mereka. Kemahiran dalam julat ini sepadan dengan ijazah lanjutan (Sarjana atau Ph.D.), atau pengalaman bertahun-tahun. Kebanyakan watak purata tidak boleh memulakan permainan dengan sebarang kemahiran lebih tinggi daripada 75%. Watak anda sepatutnya boleh melakukan tindakan kompleks dan mencabar yang berkaitan dengan kemahiran ini dalam keadaan rutin tanpa melontar dadu, dengan andaian mereka mengambil masa dan mempunyai kemudahan dan/atau peralatan yang betul tersedia. |
+| 91% atau lebih tinggi | Guru | Hanya segelintir yang mencapai tahap penguasaan ini. Hanya tugasan yang paling sukar berada di luar kemampuan mereka, dan kepakaran mereka mungkin telah menjadikan guru-guru ini terkenal dalam bidang mereka dan kadangkala di dunia secara amnya. Dalam situasi rutin, watak anda boleh melakukan keajaiban, dan anda jarang perlu melontar dadu kecuali pada tugasan yang paling sukar atau dalam keadaan yang terdesak. Jika peraturan Siuman pilihan digunakan dalam kempen, mencapai penilaian 91% dalam kemahiran serta-merta memulihkan 2D6 mata SIUMAN, mewakili keyakinan diri dan disiplin yang dikaitkan dengan menguasai kemahiran (ini adalah bonus sekali sahaja). Jika watak anda bermula dengan penilaian kemahiran ini atau lebih tinggi, tiada keuntungan SIUMAN. |
 
 ### Penilaian Kemahiran Melebihi 100%
 
-Bonus pengalaman watak anda membolehkan untuk meningkatkan penilaian kemahiran melebihi 100%. Kemahiran yang lebih tinggi daripada 100% menggunakan sistem standard untuk mengira peluang kejayaan khas atau kritikal, serta menawarkan peluang kejayaan yang lebih baik pada tugas Sukar atau dalam menghadapi pengubah suai keadaan negatif. Selain itu, jika watak anda mempunyai kemahiran tempur yang lebih tinggi daripada 100%, mereka boleh melakukan beberapa serangan dalam pusingan tempur, seperti yang diterangkan dalam **Serangan dan Parri Melebihi 100%**.
+Bonus pengalaman watak anda memungkinkan untuk menaikkan penilaian kemahiran melebihi 100%. Kemahiran yang lebih tinggi daripada 100% menggunakan sistem standard untuk mengira peluang kejayaan istimewa atau kritikal, serta menawarkan peluang yang lebih baik untuk kejayaan pada tugasan Sukar atau dalam menghadapi pengubah suai keadaan negatif. Selain itu, jika watak anda mempunyai kemahiran tempur yang lebih tinggi daripada 100%, mereka boleh melakukan berbilang serangan dalam satu pusingan tempur, seperti yang diterangkan dalam **Serangan dan Tangkisan Melebihi 100%**.
 
-### Senarai Kemahiran Mengikut Kategori
+### Senarai Kemahiran mengikut Kategori
 
-Senarai lengkap kemahiran yang dibahagikan mengikut kategori berikut.
+Senarai lengkap kemahiran yang dibahagikan mengikut kategori adalah seperti berikut.
 
 | Tempur | Komunikasi | Manipulasi | Mental |
 | :---- | :---- | :---- | :---- |
 | Artileri (pelbagai) | Tawar-menawar | Seni (pelbagai) | Menilai |
-| Berbual (Brawl) | Perintah | Kraf (pelbagai) | Pertolongan Cemas |
-| Senjata Tenaga (pelbagai) | Menyamar | Demolisi | Permainan |
-| Senjata Api (pelbagai) | Etiket (pelbagai) | Manipulasi Halus | Pengetahuan (pelbagai) |
-| Bergusti | Cakap Laju | Mesin Berat (pelbagai) | Literasi (Pilihan) |
-| Senjata Berat (pelbagai) | Bahasa (pelbagai) | Pembaikan (pelbagai) | Perubatan |
+| Pergaduhan | Perintah | Kraf (pelbagai) | Pertolongan Cemas |
+| Senjata Tenaga (pelbagai) | Menyamar | Perobohan | Permainan |
+| Senjata Api (pelbagai) | Etika (pelbagai) | Manipulasi Halus | Pengetahuan (pelbagai) |
+| Gusti | Bercakap Laju | Mesin Berat (pelbagai) | Literasi (Pilihan) |
+| Senjata Berat (pelbagai) | Bahasa (pelbagai) | Membaiki (pelbagai) | Perubatan |
 | Seni Mempertahankan Diri | Persembahan | Ketangkasan Tangan | Psikoterapi |
-| Senjata Jarak Dekat (pelbagai) | Memujuk | | Sains (pelbagai) |
-| Senjata Peluru (pelbagai) | Status | | Strategi |
-| Parri (pelbagai) | Mengajar | | Kemahiran Teknikal (pelbagai) |
-| Perisai | | | |
+| Senjata Jarak Dekat (pelbagai) | Memujuk |  | Sains (pelbagai) |
+| Senjata Peluru (pelbagai) | Status |  | Strategi |
+| Tangkisan (pelbagai) | Mengajar |  | Kemahiran Teknikal (pelbagai) |
+| Perisai |  |  |  |
 
 | Persepsi | Fizikal | Fizikal |
 | :---- | :---- | :---- |
 | Wawasan | Memanjat | Unjuran |
 | Mendengar | Mengelak | Menunggang (pelbagai) |
-| Navigasi | Memandu (pelbagai) | Stealth |
+| Navigasi | Memandu (pelbagai) | Senyap |
 | Penyelidikan | Terbang | Berenang |
 | Deria | Bersembunyi | Melontar |
-| Mengesan | Melompat | |
-| Menjejak | Juruterbang (pelbagai) | |
+| Mengesan | Melompat |  |
+| Menjejak | Juruterbang (pelbagai) |  |### Senarai Kemahiran Mengikut Abjad
 
-### Senarai Kemahiran Mengikut Abjad
+Senarai abjad bagi semua kemahiran dalam bahagian ini adalah seperti berikut. Setiap entri menyenaraikan kategori kemahiran tersebut, dan peratusan asasnya.
 
-Senarai abjad bagi semua kemahiran dalam bahagian ini berikut. Setiap entri menyenaraikan kategori kemahiran, dan peluang asasnya.
-
-| Kemahiran | Kategori | Asas % |
+| Kemahiran | Kategori | % Asas |
 | :---- | :---- | :---- |
-| Menilai | Mental | 15% |
-| Seni (pelbagai) | Manipulasi | 05% |
-| Artileri (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Tawar-menawar | Komunikasi | 05% |
-| Berbual (Brawl) | Tempur | 25% |
-| Memanjat | Fizikal | 40% |
-| Perintah | Komunikasi | 05% |
-| Kraf (pelbagai) | Manipulasi | 05% |
-| Demolisi | Manipulasi | 01% |
-| Menyamar | Komunikasi | 01% |
-| Mengelak | Fizikal | DEX×2 |
-| Memandu (pelbagai) | Fizikal | 20% atau 01% |
-| Senjata Tenaga (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Etiket (pelbagai) | Komunikasi | 05% |
-| Cakap Laju | Komunikasi | 05% |
-| Manipulasi Halus | Manipulasi | 05% |
-| Senjata Api (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Pertolongan Cemas | Mental | 30% |
-| Terbang | Fizikal | DEXx4 atau 1/2 DEX |
-| Permainan | Mental | INT+POW |
-| Bergusti | Tempur | 25% |
-| Mesin Berat (pelbagai) | Manipulasi | 01% |
-| Senjata Berat (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Bersembunyi | Fizikal | 10% |
-| Wawasan | Persepsi | 05% |
-| Melompat | Fizikal | 25% |
-| Pengetahuan (pelbagai) | Mental | 05% atau 00% |
-| Bahasa (pelbagai) | Komunikasi | INT (atau EDU)×5 atau 00% |
-| Mendengar | Persepsi | 25% |
-| Literasi (pilihan) | Mental | 00% atau sama dengan Bahasa |
-| Seni Mempertahankan Diri | Tempur | 01% |
-| Perubatan | Mental | 05% |
-| Senjata Jarak Dekat (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Senjata Peluru (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Navigasi | Persepsi | 10% |
-| Parri (pelbagai) | Tempur | mengikut kepakaran senjata |
-| Persembahan | Komunikasi | 05% |
-| Memujuk | Komunikasi | 15% |
-| Juruterbang (pelbagai) | Fizikal | 01% |
-| Unjuran | Fizikal | DEX×2 |
-| Psikoterapi | Mental | 01% atau 00% |
-| Pembaikan (pelbagai) | Manipulasi | 15% |
-| Penyelidikan | Persepsi | 25% |
-| Menunggang (pelbagai) | Fizikal | 05% |
-| Sains (pelbagai) | Mental | 01% |
-| Deria | Persepsi | 10% |
-| Perisai | Tempur | mengikut perisai |
-| Ketangkasan Tangan | Manipulasi | 05% |
-| Mengesan | Persepsi | 25% |
+| Appraise | Mental | 15% |
+| Art (pelbagai) | Manipulasi | 05% |
+| Artillery (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Bargain | Komunikasi | 05% |
+| Brawl | Tempur | 25% |
+| Climb | Fizikal | 40% |
+| Command | Komunikasi | 05% |
+| Craft (pelbagai) | Manipulasi | 05% |
+| Demolition | Manipulasi | 01% |
+| Disguise | Komunikasi | 01% |
+| Dodge | Fizikal | KTG×2 |
+| Drive (pelbagai) | Fizikal | 20% atau 01% |
+| Energy Weapon (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Etiquette (pelbagai) | Komunikasi | 05% |
+| Fast Talk | Komunikasi | 05% |
+| Fine Manipulation | Manipulasi | 05% |
+| Firearm (pelbagai) | Tempur | mengikut kepakaran senjata |
+| First Aid | Mental | 30% |
+| Fly | Fizikal | KTGx4 atau 1/2 KTG |
+| Gaming | Mental | KEC+KUR |
+| Grapple | Tempur | 25% |
+| Heavy Machine (pelbagai) | Manipulasi | 01% |
+| Heavy Weapon (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Hide | Fizikal | 10% |
+| Insight | Persepsi | 05% |
+| Jump | Fizikal | 25% |
+| Knowledge (pelbagai) | Mental | 05% atau 00% |
+| Language (pelbagai) | Komunikasi | KEC (atau EDU)×5 atau 00% |
+| Listen | Persepsi | 25% |
+| Literacy (pilihan) | Mental | 00% atau sama dengan Bahasa |
+| Martial Arts | Tempur | 01% |
+| Medicine | Mental | 05% |
+| Melee Weapon (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Missile Weapon (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Navigate | Persepsi | 10% |
+| Parry (pelbagai) | Tempur | mengikut kepakaran senjata |
+| Perform | Komunikasi | 05% |
+| Persuade | Komunikasi | 15% |
+| Pilot (pelbagai) | Fizikal | 01% |
+| Projection | Fizikal | KTG×2 |
+| Psychotherapy | Mental | 01% atau 00% |
+| Repair (pelbagai) | Manipulasi | 15% |
+| Research | Persepsi | 25% |
+| Ride (pelbagai) | Fizikal | 05% |
+| Science (pelbagai) | Mental | 01% |
+| Sense | Persepsi | 10% |
+| Shield | Tempur | mengikut perisai |
+| Sleight of Hand | Manipulasi | 05% |
+| Spot | Persepsi | 25% |
 | Status | Komunikasi | 15% atau pelbagai |
 | Stealth | Fizikal | 10% |
-| Strategi | Mental | 01% |
-| Berenang | Fizikal | 25% |
-| Mengajar | Komunikasi | 10% |
-| Kemahiran Teknikal (pelbagai) | Mental | 05% |
-| Melontar | Fizikal | 25% |
-| Menjejak | Persepsi | 10% |
+| Strategy | Mental | 01% |
+| Swim | Fizikal | 25% |
+| Teach | Komunikasi | 10% |
+| Technical Skill (pelbagai) | Mental | 05% |
+| Throw | Fizikal | 25% |
+| Track | Persepsi | 10% |
 
-> ### Augmen dan Kemahiran Pelengkap
+> ### Penambah dan Kemahiran Pelengkap
 > 
-> Sesetengah kemahiran berkait rapat dengan yang lain, dan kepakaran dalam satu bidang boleh memberi manfaat kepada yang lain. Dengan kebenaran gamemaster anda, watak anda boleh menambah sementara 1/5 daripada penilaian anda dalam **kemahiran pelengkap** kepada penilaian anda dalam kemahiran lain untuk lemparan kemahiran. Banyak kegunaan pelengkap dinyatakan dalam perihalan kemahiran yang berikut. Anda dan pemain lain pastinya akan mencipta lebih banyak lagi.
+> Sesetengah kemahiran berkait rapat dengan yang lain, dan kepakaran dalam satu bidang boleh memberi manfaat kepada yang lain. Dengan kebenaran pengurus permainan (gamemaster) anda, watak anda boleh menambah sementara 1/5 daripada penarafan anda dalam **kemahiran pelengkap** kepada penarafan anda dalam kemahiran lain untuk balingan kemahiran. Banyak kegunaan pelengkap dinyatakan dalam perihalan kemahiran yang menyusul. Anda dan pemain lain pastinya akan mencipta lebih banyak lagi.
 > 
-> Hanya satu kemahiran boleh menjadi pelengkap kepada yang lain apabila digunakan untuk membantu mana-mana lemparan yang diberikan. Jika berbilang kemahiran mungkin terpakai atau digunakan untuk cuba mendapatkan bonus ini, manfaat tidak terkumpul—pemain dan gamemaster harus memilih bonus tertinggi untuk digunakan, atau yang paling sesuai dengan situasi semasa.
+> Hanya satu kemahiran yang boleh menjadi pelengkap kepada kemahiran lain apabila digunakan untuk membantu mana-mana balingan tertentu. Jika pelbagai kemahiran boleh digunakan atau digunakan untuk cuba mendapatkan bonus ini, manfaatnya tidak bertimbun—pemain dan pengurus permainan harus memilih bonus tertinggi untuk digunakan, atau yang paling sesuai dengan situasi semasa.
 > 
-> Jika lemparan kemahiran utama berjaya, watak anda menerima pemeriksaan pengalaman hanya kepada kemahiran utama, bukan kepada kemahiran pelengkap yang digunakan.
+> Jika balingan kemahiran utama berjaya, watak anda menerima semakan pengalaman hanya pada kemahiran utama, bukan pada kemahiran pelengkap yang digunakan.
 > 
-> Sebagai contoh, *watak anda mempunyai kemahiran Perubatan sebanyak 65% dan Sains (Farmasi) sebanyak 40%. Mereka sedang cuba merawat pesakit yang sakit. Selagi watak anda mempunyai bekalan perubatan dan ubat yang mencukupi, mereka boleh menambah 8% (1/5 daripada penilaian Sains(Farmasi) mereka) kepada penilaian kemahiran Perubatan, untuk penilaian yang diubah suai sebanyak 73%. Watak anda tidak boleh menambah 1/5 daripada kemahiran Pertolongan Cemas atau Sains (Biologi) mereka di atas bonus Farmasi. Dalam kes ini, gamemaster memutuskan bahawa kemahiran Sains (Farmasi) adalah yang paling sesuai untuk bonus tersebut.*
+> Sebagai contoh, *watak anda mempunyai kemahiran Perubatan 65% dan Sains (Farmasi) 40%. Mereka sedang mencuba untuk merawat pesakit yang berpenyakit. Selagi watak anda mempunyai bekalan perubatan dan ubat-ubatan yang mencukupi, mereka boleh menambah 8% (1/5 daripada penarafan Sains(Farmasi) mereka) kepada penarafan kemahiran Perubatan, untuk penarafan yang diubah suai sebanyak 73%. Watak anda tidak boleh menambah 1/5 daripada kemahiran Pertolongan Cemas atau Sains (Biologi) di atas bonus Farmasi. Dalam kes ini, pengurus permainan memutuskan bahawa kemahiran Sains (Farmasi) adalah yang paling sesuai untuk bonus tersebut.*
 > 
-> **Augmen** kepada kemahiran adalah serupa tetapi berfungsi dengan cara yang sedikit berbeza. Jika gamemaster anda membenarkannya, anda boleh mencuba lemparan satu kemahiran pelengkap untuk menyokong, atau mengaugmen, lemparan kemahiran utama yang lain.
+> **Penambah (augment)** kepada sesuatu kemahiran adalah serupa tetapi berfungsi dengan cara yang sedikit berbeza. Jika pengurus permainan anda membenarkannya, anda boleh mencuba balingan satu kemahiran pelengkap untuk menyokong, atau menambah, balingan kemahiran utama yang lain.
 > 
-> * Jika lemparan kemahiran mengaugmen berjaya, anda boleh melaraskan kesukaran kemahiran utama sebanyak satu langkah, seperti mengubah lemparan *Sukar* menjadi *Purata*, atau tugas *Purata* kepada *Mudah*.
+> * Jika balingan kemahiran penambah berjaya, anda boleh melaraskan kesukaran kemahiran utama sebanyak satu tahap, seperti menukar balingan *Sukar* kepada balingan *Purata*, atau tugasan *Purata* menjadi *Mudah*.
 > 
-> * Ini tidak boleh dilakukan serentak dengan bonus kemahiran pelengkap, walau bagaimanapun, dan hanya satu tahap pelarasan yang mungkin.
+> * Walau bagaimanapun, ini tidak boleh dilakukan serentak dengan bonus kemahiran pelengkap, dan hanya satu tahap pelarasan yang mungkin.
 > 
-> * Jika augmen gagal, kemahiran utama dilaraskan sebanyak satu langkah ke arah bertentangan, seperti kemahiran *Normal* menjadi *Sukar* akibat kekeliruan atau maklumat yang bercanggah.
+> * Jika penambah gagal, kemahiran utama dilaraskan sebanyak satu tahap ke arah bertentangan, seperti kemahiran *Normal* menjadi *Sukar* disebabkan oleh kekeliruan atau maklumat yang bercanggah.
 > 
-> * Jika berjaya dengan lemparan kemahiran mengaugmen, anda boleh memeriksanya untuk pengalaman seperti biasa, serta dengan kemahiran utama. Jika lemparan utama gagal, kemahiran mengaugmen tidak menerima pemeriksaan pengalaman.
+> * Jika berjaya dengan balingan kemahiran penambah, anda boleh menyemaknya untuk pengalaman seperti biasa, dan juga dengan kemahiran utama. Jika balingan utama gagal, kemahiran penambah tidak menerima semakan pengalaman.
 > 
-> Anda tidak boleh mengaugmen kemahiran dan menggunakan bonus kemahiran pelengkap serentak untuk lemparan kemahiran yang sama.
+> Anda tidak boleh menambah kemahiran dan menggunakan bonus kemahiran pelengkap serentak untuk balingan kemahiran yang sama.
 
 > ### Memerihalkan Hasil Kejayaan
 > 
-> Secara amnya, hasil lemparan kemahiran adalah jelas, tetapi jika ragu-ragu, gunakan garis panduan berikut apabila menentukan hasil:
+> Secara amnya, hasil balingan kemahiran adalah jelas, tetapi jika ragu-ragu, gunakan garis panduan berikut apabila menentukan hasil:
 > 
-> * **Fumble** biasanya bermakna hasil yang bertentangan dengan yang diingini telah dicapai, memberikan maklumat yang mengelirukan, mencipta sebarang jenis kemunduran, atau bahkan meletakkan watak dalam kedudukan yang kurang baik.
+> * **Gagal teruk (fumble)** biasanya bermakna hasil yang bertentangan dengan hasil yang diingini telah dicapai, memberikan maklumat yang mengelirukan, mencipta sesuatu kemunduran, atau malah meletakkan watak dalam keadaan yang tidak menguntungkan.
 > 
-> * **Kegagalan** bermakna hasil yang diingini tidak dicapai.
+> * **Gagal** bermakna hasil yang diingini tidak dicapai.
 > 
-> * **Kejayaan** biasa bermakna matlamat yang munasabah dan purata telah dicapai. Gamemaster adalah penentu muktamad bagi hasil, tetapi kesannya harus jelas.
+> * **Kejayaan** biasa bermakna matlamat yang munasabah dan purata telah dicapai. Pengurus permainan adalah penimbang tara muktamad bagi keputusan tersebut, tetapi kesannya haruslah jelas.
 > 
-> * **Kejayaan khas** mempunyai dua kali ganda keberkesanan kejayaan biasa dan/atau memberikan maklumat tambahan tentang subjek tersebut.
+> * **Kejayaan istimewa** mempunyai dua kali ganda keberkesanan kejayaan biasa dan/atau menyediakan maklumat tambahan mengenai subjek tersebut.
 > 
-> * **Kejayaan kritikal** mempunyai tiga kali ganda keberkesanan kejayaan biasa, dan/atau memberikan maklumat yang banyak tentang subjek tersebut.
+> * **Kejayaan kritikal** mempunyai tiga kali ganda keberkesanan kejayaan biasa, dan/atau menyediakan maklumat yang banyak mengenai subjek tersebut.
 > 
 > Seperti yang dinyatakan di atas, kemahiran di mana hasil adalah sangat khusus dan di mana perincian diperlukan, telah mengekalkan hasil yang ditakrifkan.
 
 ## Perihalan Kemahiran
 
-Senarai kemahiran yang komprehensif dan mengikut abjad berikut. Setiap entri mengandungi maklumat berikut:
+Senarai kemahiran yang komprehensif dan mengikut abjad menyusul. Setiap entri mengandungi maklumat berikut:
 
 * **Nama Kemahiran:** Nama kemahiran tersebut.
-* **Peluang Asas:** Penilaian kemahiran yang dimiliki oleh semua watak dalam kemahiran tersebut, dikhususkan mengikut era jika berkenaan.
-* **Kategori:** Kategori kemahiran di mana kemahiran tersebut tergolong, untuk tujuan klasifikasi am dan bonus kategori pilihan.
-* **Perihalan:** Perihalan ringkas tentang jenis tugas yang boleh diselesaikan menggunakan kemahiran tersebut.
-* **Kepakaran:** Senarai kepakaran berbeza kemahiran tersebut, jika ada. Tidak semua kemahiran dengan kepakaran mempunyai kepakaran yang dihuraikan dalam senarai bertitik—hanya yang lebih bersifat mekanikal, seperti kemahiran Tempur, diperincikan dengan cara ini.
-* **Kesan:** Hasil lemparan kemahiran, untuk setiap tahap kejayaan, jika diperlukan. Secara ringkas, hasil kemahiran ialah fumble (hasil yang paling teruk, biasanya lemparan 99 atau 00), kegagalan (lemparan di atas penilaian kemahiran anda), kejayaan (di bawah penilaian kemahiran anda), kejayaan khas (1/5 atau kurang daripada penilaian kemahiran anda), atau kejayaan kritikal (1/20 daripada penilaian kemahiran anda). Bab Lima: Sistem menerangkan perkara ini secara terperinci. Lihat juga bar sisi Memerihalkan Hasil Kejayaan.
-* **Nota Tetapan:** Maklumat tambahan tentang kemahiran dalam tetapan yang berbeza. Jika entri ini tidak hadir, kemahiran berfungsi tanpa perubahan dalam hampir mana-mana tetapan.
+* **Peluang Asas:** Penarafan kemahiran yang dimiliki oleh semua watak dalam kemahiran tersebut, dikhususkan mengikut era jika berkenaan.
+* **Kategori:** Kategori kemahiran di mana kemahiran tersebut berada, untuk tujuan klasifikasi umum dan bonus kategori pilihan.
+* **Perihalan:** Perihalan ringkas tentang jenis tugasan yang boleh diselesaikan menggunakan kemahiran tersebut.
+* **Kepakaran:** Senarai kepakaran kemahiran yang berbeza, jika ada. Tidak semua kemahiran dengan kepakaran mempunyai perincian dalam senarai bertitik—hanya kemahiran yang lebih bercorak mekanikal, seperti kemahiran Tempur, diperincikan dengan cara ini.
+* **Kesan:** Hasil balingan kemahiran, bagi setiap tahap kejayaan, di mana perlu. Secara ringkas, hasil kemahiran ialah kegagalan teruk (fumble) (hasil paling buruk yang mungkin, biasanya balingan 99 atau 00), kegagalan (balingan melebihi penarafan kemahiran anda), kejayaan (di bawah penarafan kemahiran anda), kejayaan istimewa (1/5 atau kurang daripada penarafan kemahiran anda), atau kejayaan kritikal (1/20 daripada penarafan kemahiran anda). Bab Lima: Sistem menjelaskan perkara ini secara terperinci. Lihat juga bar sisi Memerihalkan Hasil Kejayaan.
+* **Nota Tetapan:** Maklumat tambahan tentang kemahiran dalam tetapan yang berbeza. Jika entri ini tidak hadir, kemahiran tersebut berfungsi tanpa perubahan dalam hampir mana-mana tetapan.
 * **Nota Sistem:** Peraturan atau sistem yang berkaitan, jika ada.
 
-### Menilai
+### Appraise
 
 **Peluang Asas:** 15%
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini untuk menganggarkan nilai sesuatu objek, sama ada lukisan lama, batu permata, senjata, atau kuda tunggangan. Kegagalan bermakna mereka tidak tahu, manakala fumble memberikan maklumat palsu. Kejayaan khas atau kritikal memberikan maklumat tambahan.
+Gunakan kemahiran ini untuk menganggarkan nilai sesuatu objek, sama ada lukisan lama, batu permata, senjata, atau kuda tunggangan. Kegagalan bermakna mereka tidak tahu, manakala kegagalan teruk (fumble) menghasilkan maklumat palsu. Kejayaan istimewa atau kritikal menghasilkan maklumat tambahan.
 
-### Seni (pelbagai)
+### Art (pelbagai)
 
 **Peluang Asas:** 05%
 
 **Kategori:** Manipulasi
 
-Gunakan kemahiran ini untuk mencipta karya seni dalam cat atau arca, atau untuk mengarang cerita, puisi, atau karya muzik. Kejayaan kritikal atau khas menghasilkan karya klasik yang abadi dengan nilai dan prestij yang jauh lebih tinggi, kegagalan adalah kerja biasa yang tidak memuaskan, dan fumble mungkin menjejaskan reputasi pencipta. Anda akan menggunakan Persembahan untuk berlakon, menari, menyanyi, atau memainkan alat muzik.
+Gunakan kemahiran ini untuk mencipta karya seni dalam cat atau arca, atau untuk menyusun cerita, puisi, atau karya muzik. Kejayaan kritikal atau istimewa menghasilkan karya klasik abadi yang mempunyai nilai dan prestij yang jauh lebih tinggi, kegagalan adalah kerja biasa yang sederhana, dan kegagalan teruk mungkin menjejaskan reputasi pencipta. Anda akan menggunakan Perform untuk berlakon, menari, menyanyi, atau bermain alat muzik.
 
-**Kepakaran:** Kaligrafi, Mengarang, Seni Konseptual, Seni Digital, Melukis, Mengecat, Fotografi, Puisi, Arca, Melakar, Menulis Lagu, Menulis, dll.
+**Kepakaran:** Kaligrafi, Menggubah, Seni Konseptual, Seni Digital, Melukis, Mengecat, Fotografi, Puisi, Arca, Melakar, Menulis Lagu, Menulis, dll.
 
 **Nota Tetapan:** Seni adalah universal, walaupun ia mungkin mempunyai kepakaran khusus era atau tetapan.
 
-### Artileri (pelbagai)
+### Artillery (pelbagai)
 
-**Peluang Asas:** Mengikut kepakaran senjata
+**Peluang Asas:** Seperti mengikut kepakaran senjata
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk menembak meriam medan besar dan senjata kenderaan berat, pada dasarnya mana-mana senjata yang terlalu besar untuk digerakkan atau diolah oleh seorang individu, seperti meriam, trebuchet, atau ballista.
+Gunakan kemahiran ini untuk menembak kepingan medan besar dan senjata kenderaan berat, pada asasnya mana-mana senjata yang terlalu besar untuk seseorang individu bergerak atau mengolah, seperti meriam, trebuchet, atau ballista.
 
-**Kepakaran:** Kepakaran adalah setara dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis artileri.
+**Kepakaran:** Kepakaran adalah bersamaan dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis artileri.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Senjata Peluru** untuk kesan khusus.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Teruk Senjata Peluru** untuk kesan khusus.
 
-**Nota Tetapan:** Sesuai untuk banyak tetapan, daripada enjin pengepungan hingga artileri moden atau futuristik dan senjata kenderaan. Dalam kebanyakan tetapan, latar belakang ketenteraan diperlukan untuk mempelajari kemahiran ini.
+**Nota Tetapan:** Sesuai untuk banyak tetapan, bermula daripada enjin pengepungan hingga artileri moden atau futuristik dan senjata kenderaan. Dalam kebanyakan tetapan, latar belakang tentera diperlukan untuk mempelajari kemahiran ini.
 
-**Nota Sistem:** Banyak senjata besar memerlukan krew untuk beroperasi; mencuba untuk menggunakannya secara sendirian adalah tindakan Sukar atau mungkin Mustahil. Ia mungkin mengambil beberapa pusingan atau bahkan giliran untuk mengisi dan menyediakan sistem senjata antara tembakan. Banyak senjata besar menggunakan tembakan automatik atau menembak peluru letupan. Lihat **Tembakan Automatik** dan **Letupan**. Semua tembakan pergi ke suatu tempat; gamemaster harus memutuskan di mana tembakan letupan atau tenaga yang tersasar memberi impak.
+**Nota Sistem:** Banyak senjata besar memerlukan kru untuk beroperasi; mencuba untuk menggunakannya secara sendirian adalah tindakan Sukar atau mungkin Mustahil. Ia mungkin mengambil masa beberapa pusingan atau giliran untuk memuatkan dan menyediakan sistem senjata antara tembakan. Banyak senjata besar menggunakan tembakan automatik atau menembak peluru berletup. Lihat **Tembakan Automatik** dan **Letupan**. Semua tembakan akan terkena di suatu tempat; pengurus permainan harus memutuskan di mana tembakan letupan atau tenaga yang tersasar itu terkena.
 
-### Tawar-menawar
+### Bargain
 
 **Peluang Asas:** 05%
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk tawar-menawar harga, dan apabila pendapat yang bertentangan bertemu dalam rundingan dan kompromi. Gunakan lemparan kemahiran bertentangan untuk memutuskan perjanjian penting, dan lemparan kemahiran mudah untuk percubaan remeh (menjimatkan wang untuk peralatan atau penginapan, contohnya). Tawar-menawar adalah tentang kompromi: gunakan Cakap Laju atau Memujuk untuk menyelesaikan hujah yang benar-benar dimenangi atau kalah. Fumble mungkin bermakna menjadikan pedagang sebagai musuh, kejayaan bermakna anda mendapat perjanjian, dan hasil yang lebih baik menghasilkan diskaun yang lebih tinggi atau syarat yang lebih baik untuk pihak anda.
+Gunakan kemahiran ini untuk tawar-menawar harga, dan pada bila-bila masa pendapat yang bertentangan bertemu dalam rundingan dan kompromi. Gunakan balingan kemahiran bertentangan untuk memutuskan tawaran penting, dan balingan kemahiran mudah untuk percubaan remeh (menjimatkan wang untuk peralatan atau penginapan, sebagai contoh). Tawar-menawar adalah tentang kompromi: gunakan Fast Talk atau Persuade untuk menyelesaikan hujah yang menang atau kalah sepenuhnya. Kegagalan teruk mungkin bermakna menukar pedagang menjadi musuh, kejayaan bermakna anda mendapat tawaran, dan hasil yang lebih baik menghasilkan diskaun yang lebih tinggi atau syarat yang lebih baik untuk pihak anda.
 
-### Berbual (Brawl)
+### Brawl
 
 **Peluang Asas:** 25%
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk tempur tanpa senjata: sepakan, tumbukan, tandukan, dll.
+Gunakan kemahiran ini untuk pertempuran tanpa senjata: tendangan, tumbukan, tandukan, dll.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Serangan dan Parri Senjata Semula Jadi**.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Teruk Serangan dan Tangkisan Senjata Semulajadi**.
 
-**Nota Sistem:** Berbual boleh digunakan untuk parri (lihat Parri) tetapi parri yang berjaya memberikan kerosakan senjata minimum pada lengan atau kaki yang memarri, mengikut kesesuaian. Menggunakan Berbual terhadap musuh yang telah bergusti dengan watak anda (lihat Bergusti) adalah Mudah. Digunakan bersama dengan Seni Mempertahankan Diri dan dengan kuasa Senjata Semula Jadi dan Tempur Tanpa Senjata daripada Bab Empat: Kuasa.
+**Nota Sistem:** Pergaduhan (brawling) boleh digunakan untuk menangkis (lihat Parry) tetapi tangkisan yang berjaya mengakibatkan kerosakan senjata minimum pada lengan atau kaki yang menangkis, mengikut kesesuaian. Menggunakan Brawl terhadap musuh yang telah merangkul (grapple) watak anda (lihat Grapple) adalah Mudah. Digunakan bersama dengan Seni Mempertahankan Diri (Martial Arts) dan dengan kuasa Senjata Semulajadi dan Tempur Tanpa Senjata daripada Bab Empat: Kuasa.
 
-### Memanjat
+### Climb
 
 **Peluang Asas:** 40%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk memanjat naik atau turun dinding, pokok, tebing, atau mana-mana permukaan lain. Pegangan tangan dan kaki yang mencukupi dianggap ada: ubah suai kesukaran berdasarkan keadaan atau permukaan yang dipanjat. Fumble bermakna anda jatuh dengan kuat (lihat **Jatuh**), gagal bermakna anda tersekat atau anda jatuh (pilihan gamemaster, berdasarkan keadaan), dan kejayaan yang lebih tinggi membolehkan anda memanjat dengan lebih pantas dan jauh.
+Gunakan kemahiran ini untuk memanjat naik atau turun dinding, pokok, tebing, atau mana-mana permukaan lain. Pegangan tangan dan kaki yang mencukupi dianggap wujud: ubah suai kesukaran berdasarkan keadaan atau permukaan yang dipanjat. Kegagalan teruk bermakna anda jatuh dengan kuat (lihat **Jatuh**), kegagalan bermakna anda tersangkut atau anda jatuh (pilihan pengurus permainan, berdasarkan keadaan), dan kejayaan yang lebih tinggi membolehkan anda memanjat lebih pantas dan lebih jauh.
 
-**Nota Sistem:** Secara amnya, memanjat adalah pada 1/5 kadar MOV, dan haiwan dengan keupayaan memanjat semula jadi boleh bergerak pada kadar MOV penuh mereka. Memanjat tangga adalah Automatik. Tangga atau pokok yang sangat tinggi adalah Mudah. Memanjat tanpa menggunakan kaki watak anda adalah Sukar. Untuk pendakian yang berpanjangan, gamemaster harus meminta lemparan kemahiran sekali setiap minit, atau 10 meter pendakian. Watak anda tidak boleh mengambil tindakan lain semasa memanjat, dan semua tindakan yang diambil semasa memanjat adalah Sukar, dengan sebarang fumble menyebabkan jatuh.
+**Nota Sistem:** Secara amnya, memanjat adalah pada 1/5 kadar MOV, dan haiwan yang mempunyai keupayaan memanjat semulajadi boleh bergerak pada kadar MOV penuh mereka. Memanjat tangga adalah Automatik. Tangga atau pokok yang sangat tinggi adalah Mudah. Memanjat tanpa menggunakan kaki watak anda adalah Sukar. Untuk pendakian yang berpanjangan, pengurus permainan harus meminta balingan kemahiran sekali setiap minit, atau setiap 10 meter pendakian. Watak anda tidak boleh mengambil tindakan lain semasa memanjat, dan semua tindakan yang diambil semasa memanjat adalah Sukar, dengan sebarang kegagalan teruk menyebabkan jatuh.
 
-### Perintah
+### Command
 
 **Peluang Asas:** 05%
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk memberi inspirasi, mengarah, dan menyelaraskan orang bawahan, membimbing mereka dalam tugas yang kompleks dan meningkatkan keberkesanan kumpulan. Pegawai tentera, bangsawan, ahli politik, dan eksekutif perniagaan dicipta atau dihancurkan berdasarkan keupayaan mereka untuk mengurus dan memimpin. Personaliti, suara yang kuat, dan kemahuan besi adalah alat perintah yang tidak ternilai. Fumble mencetuskan pemberontakan, gagal adalah tidak memberi inspirasi dan mengelirukan, dan kejayaan membolehkan anda menambah 1/5 kemahiran Perintah anda sebagai bonus kemahiran pelengkap kepada semua orang bawahan anda untuk setiap pusingan anda memerintah mereka, selagi mereka mengikut perintah anda. Melontar setiap pusingan dalam tempur, atau setiap giliran dalam tempur besar-besaran.
+Gunakan kemahiran ini untuk memberi inspirasi, mengarah, dan menyelaras orang bawahan, membimbing mereka dalam tugasan yang kompleks dan meningkatkan keberkesanan kumpulan. Pegawai tentera, bangsawan, ahli politik, dan eksekutif perniagaan dibentuk atau hancur berdasarkan keupayaan mereka untuk mengurus dan memimpin. Personaliti, suara yang kuat, dan kehendak besi adalah alat arahan yang tidak ternilai. Kegagalan teruk mencetuskan pemberontakan, kegagalan tidak memberi inspirasi dan mengelirukan, dan kejayaan membolehkan anda menambah 1/5 kemahiran Command anda sebagai bonus kemahiran pelengkap kepada semua orang bawahan anda untuk setiap pusingan anda memerintah mereka, selagi mereka mengikut arahan anda. Baling setiap pusingan dalam pertempuran, atau setiap giliran dalam pertempuran besar.
 
-**Nota Sistem:** Digunakan terutamanya dalam tempur, walaupun ia boleh dilanjutkan kepada rundingan korporat, dll. Artileri, Senjata Berat, Senjata Jarak Dekat, Senjata Peluru, dan Strategi adalah kemahiran yang paling sesuai untuk menerima manfaat ini.
+**Nota Sistem:** Digunakan terutamanya dalam pertempuran, walaupun ia boleh meluas kepada rundingan korporat, dll. Artileri, Senjata Berat, Senjata Jarak Dekat, Senjata Peluru, dan Strategi adalah kemahiran yang paling sesuai untuk menerima faedah ini.
 
-### Kraf (pelbagai)
+### Craft (pelbagai)
 
 **Peluang Asas:** 05%
 
 **Kategori:** Manipulasi
 
-Gunakan kemahiran ini untuk membina atau membuat sesuatu, dari kerusi hingga makanan hingga rumah. Alat khusus sering diperlukan untuk kemahiran ini, dan ia mengambil masa serta bahan mentah. Kemahiran ini juga boleh digunakan untuk mengenal pasti cara sesuatu objek dibuat, dan mungkin mengenal pasti tukang yang membuatnya. Fumble memusnahkan bahan dan tidak memberikan apa-apa yang berguna, kejayaan bermakna ia berfungsi, dan kualiti kejayaan yang lebih baik menghasilkan versi benda yang dibuat yang lebih halus, lebih kukuh, atau lebih berharga, mungkin dengan kualiti tambahan seperti +10% atau +20% kepada keberkesanannya apabila digunakan, mata nyawa yang lebih tinggi, dll. Ini adalah tentang fungsi dan kepraktisan: membuat objek semata-mata untuk tujuan estetika jatuh di bawah Seni.
+Gunakan kemahiran ini untuk membina atau membuat sesuatu, daripada kerusi kepada makanan kepada rumah. Alat khusus sering diperlukan untuk kemahiran ini, dan ia mengambil masa serta bahan mentah. Kemahiran ini juga boleh digunakan untuk mengenal pasti cara sesuatu objek dibuat, dan mungkin mengenal pasti pembuat yang menghasilkannya. Kegagalan teruk memusnahkan bahan dan tidak menghasilkan apa-apa yang berguna, kejayaan bermakna ia berfungsi, dan kualiti kejayaan yang lebih baik menghasilkan versi barangan yang lebih halus, lebih kukuh, atau lebih berharga, mungkin dengan kualiti tambahan seperti +10% atau +20% pada keberkesanannya apabila digunakan, mata nyawa yang lebih tinggi, dll. Ini adalah mengenai fungsi dan praktikaliti: membentuk objek semata-mata untuk tujuan estetik berada di bawah Art.
 
-**Kepakaran:** Kerja Besi, Pertukangan, Seramik, Memasak, Kerja Kulit, Membuka Kunci, Metalurgi, Kerja Batu, dan lain-lain mengikut kesesuaian.
+**Kepakaran:** Pandai Besi, Pertukangan Kayu, Seramik, Memasak, Kerja Kulit, Kerja Kunci, Metalurgi, Kerja Batu, dan lain-lain mengikut kesesuaian.
 
-**Nota Sistem:** Menggunakan Kraf tanpa alat yang betul adalah Sukar. Lihat Bab Lapan: Peralatan untuk maklumat lanjut tentang membuat, mengubah suai, atau membaiki peralatan. Memiliki pakaian atau peralatan yang halus mungkin juga meningkatkan CHA semasa item tersebut dipakai atau dipamerkan.
+**Nota Sistem:** Menggunakan Craft tanpa alat yang betul adalah Sukar. Lihat Bab Lapan: Peralatan untuk maklumat lanjut tentang membuat, mengubah suai, atau membaiki peralatan. Memiliki barangan pakaian atau gear yang bagus mungkin meningkatkan KAR apabila item tersebut dipakai atau dipamerkan.
 
-### Demolisi
+### Demolition
 
 **Peluang Asas:** 01%
 
 **Kategori:** Manipulasi
 
-Gunakan kemahiran ini untuk menyimpan, mengangkut, menyediakan, dan meletupkan bahan letupan, daripada tong serbuk mesiu kepada dinamit, koktel Molotov, bahan letupan plastik canggih, dan bom anti-jirim. Sesiapa sahaja boleh meletupkan bom: ini adalah untuk mencapai kesan khusus dengan letupan; meruntuhkan bangunan dengan selamat, memusnahkan jambatan, atau meletupkan pintu peti besi tanpa membahayakan kandungannya. Demolisi juga meliputi pengetahuan tentang aksesori yang sesuai untuk bahan letupan, termasuk kord primer, fius, dan detonator. Gunakan Sains (Kimia) untuk menghasilkan sebatian letupan atau Kemahiran Teknikal untuk mencipta bahan letupan lain. Fumble meletupkan benda di muka anda, kegagalan bermakna kesan yang diingini tidak dicapai (tembakan tersasar atau gagal), dan kejayaan yang lebih tinggi menghasilkan hasil yang lebih mengagumkan, sama ada lebih banyak kerosakan, kurang kerosakan sampingan, kesan khas seperti Tolakan, kawasan kesan tambahan, dll.
+Gunakan kemahiran ini untuk menyimpan, mengangkut, memasang, dan meletupkan bahan letupan, daripada tong serbuk mesiu kepada dinamit, koktel Molotov, bahan letupan plastik canggih, dan bom anti-jirim. Sesiapa sahaja boleh meletupkan bom: ini adalah untuk mencapai kesan tertentu dengan letupan; meruntuhkan bangunan dengan selamat, memusnahkan jambatan, atau meletupkan pintu peti besi tanpa merosakkan kandungannya. Demolition juga merangkumi pengetahuan tentang aksesori yang sesuai untuk bahan letupan, termasuk kord primer, fius, dan detonator. Gunakan Science (Kimia) untuk menghasilkan sebatian letupan atau Technical Skill untuk membuat bahan letupan lain. Kegagalan teruk meletupkan benda di muka anda, kegagalan bermakna kesan yang diingini tidak dicapai (misfire atau dud), dan kejayaan yang lebih tinggi menghasilkan keputusan yang lebih mengagumkan, sama ada lebih banyak kerosakan, kurang kerosakan kolateral, kesan khas seperti Tolakan (Knockback), kawasan kesan tambahan, dll.
 
-**Nota Sistem:** Dengan penilaian kemahiran 60%+, kegunaan biasa kemahiran ini berjaya secara automatik. Bahan letupan tidak stabil (dinamit berpeluh) mungkin memerlukan lemparan Demolisi setiap pusingan ia dikendalikan atau digunakan. Meruntuhkan struktur besar (jambatan, empangan, bunker, atau bangunan) adalah Sukar melainkan watak anda mempunyai akses kepada pelan tindakan atau pelan sasaran. Mencuba untuk menggunakan kemahiran ini tanpa alat yang sesuai (fius, dll.), atau menggunakan bahan letupan di luar bidang kepakaran biasa watak anda mungkin Sukar atau bahkan Mustahil. Sesetengah jenis bahan letupan seperti bom tangan mungkin digunakan tanpa kemahiran ini. Lihat Bab Lapan: Peralatan untuk bahan letupan dan kesannya.
+**Nota Sistem:** Dengan penarafan kemahiran 60%+, kegunaan biasa kemahiran ini berjaya secara automatik. Bahan letupan yang tidak stabil (dinamit berpeluh) mungkin memerlukan Demolition setiap pusingan ia dikendalikan atau digunakan. Meruntuhkan struktur besar (jambatan, empangan, bunker, atau bangunan) adalah Sukar melainkan watak anda mempunyai akses kepada pelan tindakan atau rancangan sasaran. Cuba menggunakan kemahiran ini tanpa alatan yang sesuai (fius, dll.), atau menggunakan bahan letupan di luar bidang kepakaran biasa watak anda mungkin Sukar atau malah Mustahil. Sesetengah jenis bahan letupan seperti bom tangan mungkin digunakan tanpa kemahiran ini. Lihat Bab Lapan: Peralatan untuk bahan letupan dan kesannya.
 
-### Menyamar
+### Disguise
 
 **Peluang Asas:** 01%
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk menggunakan postur, kostum, suara, dan helah lain untuk kelihatan sebagai orang yang berbeza, atau jenis orang yang berbeza. Cahaya malap, solekan teater, dan perubahan wajah yang ketara (potongan rambut atau rambut palsu, janggut palsu atau cukuran cepat) boleh menambah bonus +20%, mengikut budi bicara gamemaster. Pemerhati yang meneliti watak anda yang menyamar atau terlibat dalam perbualan dengan mereka boleh membuat lemparan kemahiran Mengesan atau Wawasan bertentangan terhadap lemparan Menyamar watak anda untuk melihat melalui muslihat tersebut. Watak anda yang menyamar boleh menggunakan kemahiran Cakap Laju mereka untuk lemparan bertentangan jika mereka terlibat dalam perbualan dengan pemerhati, mengalihkan perhatian mereka daripada penelitian rapi. Fumble adalah jelas nyata, kegagalan tidak menipu sesiapa yang melihat dua kali, dan kejayaan yang lebih tinggi mungkin juga menambah bonus pelengkap kepada lemparan Komunikasi terhadap mereka yang ditipu, atau menjadikan pengesanan lebih sukar.
+Gunakan kemahiran ini untuk menggunakan postur, kostum, suara, dan tipu daya lain untuk kelihatan seperti orang yang berbeza, atau jenis orang yang berbeza. Cahaya malap, solekan teater, dan perubahan wajah yang ketara (potongan rambut atau rambut palsu, janggut palsu atau bercukur pantas) boleh menambah bonus +20%, mengikut budi bicara pengurus permainan. Pemerhati yang meneliti watak anda yang menyamar atau terlibat dalam perbualan dengan mereka boleh membuat balingan kemahiran Spot atau Insight yang bertentangan dengan balingan Disguise watak anda untuk melihat tipu helah tersebut. Watak anda yang menyamar boleh menggunakan kemahiran Fast Talk mereka untuk balingan bertentangan jika mereka melibatkan pemerhati dalam perbualan, mengalihkan perhatian mereka daripada penelitian rapi. Kegagalan teruk adalah sangat jelas, kegagalan tidak memperdayakan sesiapa yang melihat dua kali, dan kejayaan yang lebih tinggi mungkin menambah bonus pelengkap kepada balingan Komunikasi terhadap mereka yang diperdayakan, atau menjadikan pengesanan lebih sukar.
 
-**Nota Sistem:** Menggunakan kemahiran ini untuk menyamar sebagai jenis orang tertentu (askar, polis, dll.) adalah tindakan biasa. Menyamar sebagai seseorang yang sangat berbeza (spesies berbeza, seseorang yang jauh lebih tinggi atau rendah, ahli jantina yang berbeza) atau orang terkenal tertentu (bangsawan, selebriti, dll.), atau mencuba penyamaran tanpa pakaian atau prop yang sesuai adalah Sukar. Gamemaster boleh memberikan penalti tambahan untuk halangan budaya atau bahasa, atau jika beberapa keadaan Sukar dikenakan. Terlalu jauh untuk dicuba mungkin hanya Mustahil.
+**Nota Sistem:** Menggunakan kemahiran ini untuk menyamar sebagai jenis orang tertentu (askar, polis, dll.) adalah tindakan biasa. Menyamar sebagai seseorang yang sangat berbeza (spesies berbeza, seseorang yang jauh lebih tinggi atau lebih rendah, ahli jantina bertentangan) atau orang terkenal tertentu (bangsawan, selebriti, dll.), atau mencuba penyamaran tanpa pakaian atau prop yang sesuai adalah Sukar. Pengurus permainan boleh menetapkan penalti tambahan untuk halangan budaya atau bahasa, atau jika beberapa keadaan Sukar dikenakan. Terlalu banyak usaha yang keterlaluan mungkin hanya Mustahil.
 
-### Mengelak
+### Dodge
 
-**Peluang Asas:** DEX×2
+**Peluang Asas:** KTG×2
 
 **Kategori:** Fizikal
 
-Pertahanan terbaik dalam tempur, seperti yang diketahui oleh mana-mana pejuang, adalah dengan tidak berada di sana. Mengelak membolehkan watak anda mengelak serangan masuk, menggunakan ketangkasan untuk mengelak atau meminimumkan kecederaan.
+Pertahanan terbaik dalam pertempuran, seperti yang diketahui oleh mana-mana petempur, adalah dengan tidak berada di sana. Dodge membolehkan watak anda mengelak serangan yang datang, menggunakan ketangkasan untuk mengelak atau meminimumkan kecederaan.
 
-**Kesan:** Lemparan Mengelak yang berjaya mengubah suai hasil serangan yang berjaya, mengubahnya menjadi kegagalan. Hasil khas untuk lemparan Mengelak mengubah serangan dua langkah (kejayaan khas menjadi kegagalan), dan kejayaan kritikal pada lemparan Mengelak mengubah serangan yang berjaya sebanyak tiga langkah (serangan kritikal menjadi kegagalan). Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Serangan dan Parri Senjata Semula Jadi** untuk kesan khusus. Lemparan Mengelak yang berjaya tidak boleh mengurangkan kejayaan serangan masuk lebih rendah daripada kegagalan.
+**Kesan:** Balingan Dodge yang berjaya mengubah suai keputusan serangan yang berjaya, mengubahnya menjadi kegagalan. Keputusan istimewa bagi balingan Dodge mengubah suai serangan sebanyak dua langkah (kejayaan istimewa menjadi kegagalan), dan kejayaan kritikal pada balingan Dodge mengubah suai serangan yang berjaya sebanyak tiga langkah (serangan kritikal menjadi kegagalan). Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Teruk Serangan dan Tangkisan Senjata Semulajadi** untuk kesan khusus. Balingan Dodge yang berjaya tidak boleh mengurangkan kejayaan serangan yang datang lebih rendah daripada kegagalan.
 
-**Nota Sistem:** Seperti yang diterangkan dalam **Mengelak** dalam Bab Enam: Tempur, watak anda boleh sama ada Mengelak atau Parri dalam pusingan tempur tetapi tidak boleh melakukan kedua-duanya. Jika watak anda diserang oleh ramai musuh, mereka boleh membuat beberapa percubaan Mengelak dalam satu pusingan, tetapi setiap lemparan selepas yang pertama dibuat dengan penalti terkumpul –30% kepada penilaian kemahiran. Sesetengah serangan peluru adalah Sukar atau Mustahil untuk dielakkan (lihat Mengelak Senjata Peluru).
+**Nota Sistem:** Seperti yang diterangkan dalam **Dodge** dalam Bab Enam: Tempur, watak anda boleh sama ada Mengelak (Dodge) atau Menangkis (Parry) dalam pusingan tempur tetapi tidak boleh melakukan kedua-duanya. Jika watak anda diserang oleh ramai musuh, mereka boleh membuat beberapa percubaan Dodge dalam satu pusingan, tetapi setiap balingan selepas yang pertama dibuat pada penalti kumulatif –30% kepada penarafan kemahiran. Sesetengah serangan peluru adalah Sukar atau Mustahil untuk dielakkan (lihat Mengelak Senjata Peluru).
 
-### Memandu (pelbagai)
+### Drive (pelbagai)
 
 **Peluang Asas:** 20% atau 01% (lihat di bawah)
 
 **Kategori:** Manipulasi
 
-Gunakan Memandu untuk memandu, mengolah, dan mengawal kenderaan darat, sama ada ditarik oleh haiwan atau dikuasakan oleh enjin. Untuk kenderaan biasa, peluang asas ialah 20%, untuk kenderaan yang tidak diketahui/tidak biasa, ia adalah 01%. Fumble apabila memandu secara normal bermakna kenderaan mungkin tidak dihidupkan, atau perlanggaran atau kemalangan. Kejayaan bermakna watak anda sampai ke tempat yang mereka tuju, atau dapat membetulkan keadaan buruk (seperti gelincir atau pusing), dan kejayaan yang lebih tinggi bermakna lebih banyak jarak yang diliputi dalam masa yang kurang, kurang bahan api yang digunakan, atau beberapa manfaat lain.
+Gunakan Drive untuk memandu, mengolah, dan mengawal kenderaan darat, sama ada ditarik oleh haiwan atau dikuasakan oleh enjin. Untuk kenderaan biasa, peluang asas ialah 20%, untuk kenderaan yang tidak diketahui/tidak biasa, ia adalah 01%. Kegagalan teruk apabila memandu secara normal bermakna kenderaan mungkin tidak bermula, atau perlanggaran atau kemalangan. Kejayaan bermakna watak anda sampai ke tempat yang dituju, atau mampu membetulkan keadaan buruk (seperti gelincir atau berpusing), dan kejayaan yang lebih tinggi bermakna jarak yang lebih jauh diliputi dalam masa yang kurang, kurang bahan api digunakan, atau beberapa faedah lain.
 
 **Kepakaran:** Kereta, Basikal, Kereta Kuda, Kereta Sorong, Pedati, Kereta Luncur Anjing, Motosikal, Lori, Kereta Luncur, dll.
 
-**Nota Tetapan:** Laraskan peluang asas mengikut kebiasaan pengguna mengikut kesesuaian, tetapi apabila ragu-ragu, anggap prinsip asas terpakai.
+**Nota Tetapan:** Laraskan peluang asas mengikut kebiasaan pengguna jika perlu, tetapi jika ragu-ragu, anggap bahawa prinsip asas terpakai.
 
-**Nota Sistem:** Kebanyakan pemanduan harian adalah tugas Automatik—lemparan Memandu hanya di bawah keadaan buruk atau untuk pemanduan luar biasa (memandu laju melalui kawasan bandar yang sibuk, mengejar kenderaan lain, dll.). Untuk mengekori kenderaan lain tanpa disedari, gunakan lemparan Memandu bertentangan lwn. Mengesan pemandu lain. Untuk menyelesaikan pengejaran kenderaan, lihat Pengejaran.
-
-### Senjata Tenaga (pelbagai)
+**Nota Sistem:** Kebanyakan pemanduan harian adalah tugasan Automatik—balingan Drive hanya perlu di bawah keadaan buruk atau untuk pemanduan luar biasa (memandu laju melalui kawasan bandar yang sibuk, mengejar kenderaan lain, dll.). Untuk mengekori kenderaan lain tanpa disedari, gunakan balingan Drive yang bertentangan lwn Spot pemandu lain. Untuk menyelesaikan pengejaran kenderaan, lihat Pengejaran.### Senjata Tenaga (pelbagai)
 
 **Peluang Asas:** Mengikut kepakaran senjata
 
 **Kategori:** Tempur
 
-Gunakan ini untuk menembak sebarang jenis senjata tenaga atau alur yang dipegang tangan (laser, blaster, disruptor, dll.).
+Gunakan ini untuk menembak sebarang jenis senjata tenaga atau alur tangan (laser, peletup, pemusnah, dsb.).
 
-**Kepakaran:** Pistol Tenaga, Rifle Tenaga, dll. Kepakaran adalah setara dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis senjata api.
+**Kepakaran:** Pistol Tenaga, Raifal Tenaga, dsb. Kepakaran adalah setara dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis senjata api.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Senjata Peluru** untuk kesan khusus. Senjata tenaga biasanya menembusi.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Senjata Peluru** untuk kesan khusus. Senjata tenaga biasanya menembus.
 
-**Nota Tetapan:** Senjata tenaga biasanya hanya muncul dalam tetapan futuristik. Sesiapa daripada budaya tanpa senjata tenaga mesti membuat lemparan Idea Sukar untuk mengetahui cara menggunakannya, dan mungkin hanya selepas melihatnya digunakan. Kegagalan atau fumble boleh menjadi bencana, kepada senjata atau pengguna! Latar belakang ketenteraan mungkin diperlukan untuk mempelajari kemahiran ini.
+**Nota Tetapan:** Senjata tenaga biasanya hanya muncul dalam tetapan futuristik. Sesiapa sahaja daripada budaya yang tidak mempunyainya mesti membuat lemparan KEC Sukar untuk memikirkan cara menggunakannya, dan mungkin hanya selepas melihatnya digunakan. Kegagalan atau kesilapan boleh membawa bencana, kepada senjata atau pengguna! Latar belakang ketenteraan mungkin diperlukan untuk mempelajari kemahiran ini.
 
-**Nota Sistem:** Sesetengah senjata tenaga mempunyai keperluan STR dan DEX minimum untuk menggunakan senjata tersebut, mengikut jadual senjata dalam Bab Lapan: Peralatan. Senjata tenaga tidak menggunakan pengubah suai kerosakan tetapi boleh digunakan untuk serangan yang disasarkan. Ia tidak boleh dielakkan, walaupun pergerakan dan orientasi sasaran boleh mengenakan penalti pada tembakan, seperti yang diterangkan dalam Mengelak Senjata Peluru. Menyekat tembakan tenaga dengan kemahiran Perisai adalah Sukar.
+**Nota Sistem:** Sesetengah senjata tenaga mempunyai keperluan KEK dan KTG minimum untuk menggunakan senjata tersebut, mengikut jadual senjata dalam Bab Lapan: Peralatan. Senjata tenaga tidak menggunakan pengubah suai kerosakan tetapi boleh digunakan untuk serangan sasaran. Ia tidak boleh dielak, walaupun pergerakan dan orientasi sasaran boleh mengenakan penalti kepada tembakan, seperti yang diterangkan dalam Mengelak Senjata Peluru. Menyekat tembakan tenaga dengan kemahiran Perisai adalah Sukar.
 
-### Etiket (pelbagai)
+### Etika (pelbagai)
 
 **Peluang Asas:** 05%
 
 **Kategori:** Komunikasi
 
-Kebanyakan budaya, kasta, atau kumpulan mempunyai peraturan sosial dan kod tingkah laku. Pakaian yang betul, cara bercakap, tingkah laku khusus, bahasa badan, atau bahkan perbicaraan melalui tempur semuanya boleh memainkan peranan dalam etiket kumpulan. Gunakan kemahiran ini apabila watak anda perlu berkelakuan dengan sewajarnya, sama ada menghadiri majlis makan malam Victorian, temu duga kerja yang penting, atau menyertai keluarga jenayah terancang. Lemparan etiket mungkin mendapat pertemuan dengan watak bukan pemain yang penting atau menarik perhatian orang lain dengan pengetahuan anda tentang adat sosial mereka. Fumble mewakili faux pas yang dahsyat, kegagalan tidak menarik perhatian, dan kejayaan atau lebih baik menghasilkan hasil yang lebih baik dan meningkatkan penerimaan seseorang.
+Kebanyakan budaya, kasta, atau kumpulan mempunyai peraturan sosial dan kod kelakuan. Pakaian yang sesuai, cara pertuturan, kelakuan khusus, bahasa badan, atau perbicaraan melalui tempur boleh memainkan peranan dalam etika sesuatu kumpulan. Gunakan kemahiran ini apabila watak anda perlu berkelakuan sewajarnya, sama ada menghadiri majlis makan malam Victoria, temu duga kerja yang penting, atau menyertai keluarga jenayah terancang. Lemparan Etika mungkin mendapat pertemuan dengan watak bukan pemain yang penting atau menarik perhatian orang lain dengan pengetahuan anda tentang adat sosial mereka. Kegagalan (fumble) mewakili kesilapan sosial yang memalukan, gagal bermakna tidak menarik perhatian, dan kejayaan atau lebih baik memberikan hasil yang unggul serta meningkatkan penerimaan seseorang.
 
-**Kepakaran**: Mengikut kumpulan. Untuk mempelajari adab kumpulan kedua, pelajari kemahiran Etiket kedua dengan kepakaran tersebut.
+**Kepakaran**: Mengikut kumpulan. Untuk mempelajari adab kumpulan kedua, pelajari kemahiran Etika kedua dengan kepakaran tersebut.
 
-**Nota Sistem:** Gamemaster hanya perlu meminta lemparan Etiket dalam keadaan penting: sebagai contoh, kali pertama berinteraksi dengan kumpulan penting, majlis penting, atau apabila cuba memajukan status dalam kumpulan tersebut.
+**Nota Sistem:** Pengurus permainan hanya perlu meminta lemparan Etika dalam keadaan penting: contohnya, kali pertama berinteraksi dengan kumpulan penting, peristiwa penting, atau apabila cuba meningkatkan status dalam kumpulan.
 
 ### Cakap Laju
 
@@ -413,9 +409,9 @@ Kebanyakan budaya, kasta, atau kumpulan mempunyai peraturan sosial dan kod tingk
 
 **Kategori:** Komunikasi
 
-Senjata pilihan jurujual, pengintip, atau penipu, gunakan kemahiran ini untuk meyakinkan sasaran dengan cepat tentang sesuatu yang mungkin tidak mereka percayai, atau meyakinkan mereka untuk membuat keputusan pantas yang bertentangan dengan pertimbangan mereka sendiri. Gunakan ini untuk menipu penjaga pintu atau membuat jualan sukar dilakukan dengan cepat. Cakap Laju cepat digunakan, dan biasanya sementara: beberapa minit dan lemparan Idea yang berjaya kemudian, sasaran mungkin sedar. Untuk benar-benar mengubah fikiran seseorang, gunakan kemahiran Tawar-menawar atau Memujuk. Fumble biasanya menarik permusuhan, gagal tidak membawa anda ke mana-mana, dan kejayaan atau lebih baik mempunyai keberkesanan yang lebih baik, atau bahkan meyakinkan seseorang secara kekal tentang kedudukan anda.
+Senjata pilihan jurujual, pengintip, atau penipu, gunakan kemahiran ini untuk meyakinkan sasaran dengan cepat tentang sesuatu yang mungkin tidak mereka percayai, atau meyakinkan mereka untuk membuat keputusan pantas yang bertentangan dengan pertimbangan mereka. Gunakan ini untuk memujuk penjaga pintu atau membuat jualan sukar berjalan dengan cepat. Cakap Laju pantas untuk digunakan, dan biasanya bersifat sementara: beberapa minit kemudian dengan lemparan KEC yang berjaya, sasaran mungkin kembali sedar. Untuk benar-benar mengubah fikiran seseorang, gunakan kemahiran Tawar-menawar atau Pujuk. Kegagalan (fumble) biasanya menarik permusuhan, gagal tidak membawa anda ke mana-mana, dan kejayaan atau lebih baik mempunyai keberkesanan yang lebih baik, atau malah meyakinkan seseorang secara kekal tentang pendirian anda.
 
-**Nota Sistem:** Main peranan yang baik dan/atau hujah yang berkesan mungkin menjadikan percubaan Cakap Laju Mudah, sama seperti main peranan yang buruk dan/atau hujah yang lemah mungkin menjadikannya Sukar. Mencuba untuk Cakap Laju sasaran selepas percubaan pertama pada Tawar-menawar, Cakap Laju, atau Memujuk gagal adalah Sukar.
+**Nota Sistem:** Permainan peranan yang baik dan/atau hujah yang berkesan mungkin menjadikan percubaan Cakap Laju menjadi Mudah, begitu juga permainan peranan yang lemah dan/atau hujah yang tipis mungkin menjadikannya Sukar. Cuba untuk menggunakan Cakap Laju ke atas sasaran selepas percubaan pertama Tawar-menawar, Cakap Laju, atau Pujuk gagal adalah Sukar.
 
 ### Manipulasi Halus
 
@@ -423,9 +419,9 @@ Senjata pilihan jurujual, pengintip, atau penipu, gunakan kemahiran ini untuk me
 
 **Kategori:** Manipulasi
 
-Ukuran ketenangan dan koordinasi tangan-mata, kemahiran ini merangkumi sebarang penggunaan tangan dan jari yang berhati-hati. Gunakannya apabila membuka kunci, melucutkan perangkap, mengikat atau membuka simpulan, dan membuka peranti mekanikal. Fumble menyebabkan kerosakan, mungkin memecahkan atau menyekat item yang dimanipulasi. Kejayaan yang lebih tinggi mengambil masa yang kurang, menjadikannya mudah pada masa hadapan, tidak menunjukkan tanda-tanda gangguan, atau beberapa manfaat lain yang serupa.
+Satu ukuran kestabilan dan koordinasi tangan-mata, kemahiran ini merangkumi sebarang penggunaan tangan dan jari yang teliti. Gunakannya apabila membuka kunci, melucutkan perangkap, mengikat atau meleraikan simpulan, dan meleraikan peranti mekanikal. Kegagalan (fumble) merosakkan keadaan, mungkin mematahkan atau menyekat item yang dimanipulasi. Kejayaan unggul mengambil masa yang kurang, menjadikannya mudah pada masa hadapan, tidak menunjukkan tanda-tanda gangguan, atau beberapa faedah lain yang serupa.
 
-**Nota Sistem:** Menggunakan kemahiran ini tanpa alat yang sesuai, di mana perlu, adalah Sukar.
+**Nota Sistem:** Menggunakan kemahiran ini tanpa alatan yang sesuai, di mana diperlukan, adalah Sukar.
 
 ### Senjata Api (pelbagai)
 
@@ -435,13 +431,13 @@ Ukuran ketenangan dan koordinasi tangan-mata, kemahiran ini merangkumi sebarang 
 
 Kemahiran ini mengukur ketepatan dengan senjata api, dan menyediakan kebiasaan dengan pengendalian, penyelenggaraan, dan pembaikan asas.
 
-**Kepakaran:** Mesingan, Pistol, Revolver, Rifle, Senapang Patah, Submesingan. Kepakaran adalah setara dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis senjata api.
+**Kepakaran:** Mesingan, Pistol, Revolver, Raifal, Shotgun, Submesingan. Kepakaran adalah setara dengan jenis. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan untuk jenis senjata api.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Senjata Peluru** untuk kesan khusus. Senjata api biasanya menembusi (lihat Bab Lapan: Peralatan untuk butiran).
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Senjata Peluru** untuk kesan khusus. Senjata api biasanya menembus (lihat Bab Lapan: Peralatan untuk butiran).
 
-**Nota Tetapan:** Mana-mana watak yang tidak biasa dengan senjata api mesti membuat lemparan Idea Sukar untuk mengetahui cara menggunakannya jika mereka tidak pernah melihatnya digunakan. Kegagalan atau fumble boleh menjadi bencana, kepada senjata atau pengguna!
+**Nota Tetapan:** Mana-mana watak yang tidak biasa dengan senjata api mesti membuat lemparan KEC Sukar untuk memikirkan cara menggunakannya jika mereka belum pernah melihatnya digunakan. Kegagalan atau kesilapan boleh membawa bencana, kepada senjata atau pengguna!
 
-**Nota Sistem:** Sesetengah senjata api mempunyai keperluan STR dan DEX minimum, mengikut jadual senjata dalam Bab Lapan: Peralatan. Senjata api tidak menggunakan pengubah suai kerosakan, dan boleh digunakan untuk serangan yang disasarkan.
+**Nota Sistem:** Sesetengah senjata api mempunyai keperluan KEK dan KTG minimum, mengikut jadual senjata dalam Bab Lapan: Peralatan. Senjata api tidak menggunakan pengubah suai kerosakan, dan boleh digunakan untuk serangan sasaran.
 
 ### Pertolongan Cemas
 
@@ -449,103 +445,103 @@ Kemahiran ini mengukur ketepatan dengan senjata api, dan menyediakan kebiasaan d
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini untuk menghentikan pendarahan, membalut luka dan merawat lecuran kecil, menetapkan anggota badan yang patah, memulihkan seseorang yang lemas, atau menyedarkan orang yang tidak sedarkan diri. Ia meluas kepada triaj dan penjagaan perubatan asas tetapi mempunyai sedikit kesan ke atas racun, penyakit, atau penyakit fizikal yang halus: ini mesti dirawat dengan kemahiran Perubatan, walaupun gamemaster anda mungkin membenarkan lemparan Sukar untuk rawatan kecemasan racun atau penyakit. Pertolongan Cemas mengambil masa satu pusingan tempur penuh dan biasanya tidak boleh dilakukan semasa dalam tempur. Jika terganggu, percubaan mesti dimulakan semula.
+Gunakan kemahiran ini untuk menghentikan pendarahan, membalut luka dan merawat lecuran kecil, membetulkan anggota badan yang patah, memulihkan seseorang yang lemas, atau menyedarkan orang yang pengsan. Ia merangkumi triage dan penjagaan perubatan asas tetapi mempunyai sedikit kesan ke atas racun, penyakit, atau penyakit fizikal yang halus: ini mesti dirawat dengan kemahiran Perubatan, walaupun pengurus permainan anda mungkin membenarkan lemparan Sukar untuk rawatan kecemasan bagi racun atau penyakit. Pertolongan Cemas mengambil masa satu pusingan tempur penuh dan biasanya tidak boleh dilakukan semasa dalam tempur. Jika terganggu, percubaan mesti dimulakan semula.
 
 **Kesan:** Pertolongan Cemas mempunyai kesan khusus:
 
-* **Fumble:** Pesakit mengambil 1 mata kerosakan nyawa umum, dan keadaan mereka kekal tidak berubah.
-* **Kegagalan:** Tiada kesan, dan tiada lagi percubaan Pertolongan Cemas boleh dibuat.
-* **Kejayaan:** Salah satu daripada berikut (pilihan pemain):
-  * Sembuhkan 1D3 mata nyawa kepada satu luka atau kecederaan.
-  * Watak pada 0 atau mata nyawa negatif dalam pusingan ini atau sebelumnya, boleh dipulihkan kepada kehidupan jika jumlah mata nyawa mereka dibawa ke 1+.
-  * Menyedarkan watak yang tidak sedarkan diri.
-  * Menghentikan kerosakan pendarahan daripada kejayaan khas pendarahan atau sebarang kerosakan berterusan lain pada lokasi anggota badan (lihat **Mata Nyawa setiap Lokasi Anggota Badan**).
-* **Khas:** Seperti di atas tetapi menyembuhkan 2D3 mata nyawa.
-* **Kritikal:** Seperti di atas tetapi menyembuhkan 3+1D3 mata nyawa.
+* **Kegagalan (fumble):** Pesakit mengalami 1 mata kerosakan titik hayat umum, dan keadaan mereka kekal tidak berubah.
+* **Gagal:** Tiada kesan, dan tiada percubaan Pertolongan Cemas selanjutnya boleh dibuat.
+* **Berjaya:** Salah satu daripada berikut (pilihan pemain):
+  * Menyembuhkan 1D3 titik hayat kepada satu luka atau kecederaan.
+  * Watak pada 0 atau titik hayat negatif dalam pusingan ini atau sebelumnya, boleh dipulihkan kepada kehidupan jika jumlah titik hayat mereka dibawa kepada 1+.
+  * Menyedarkan watak yang pengsan.
+  * Menghentikan kerosakan pendarahan daripada kejayaan khas pendarahan atau sebarang kerosakan berterusan lain pada lokasi sasaran (lihat **Titik Hayat setiap Lokasi Sasaran**).
+* **Khas:** Seperti di atas tetapi menyembuhkan 2D3 titik hayat.
+* **Kritikal:** Seperti di atas tetapi menyembuhkan 3+1D3 titik hayat.
 
-**Nota Sistem:** Jejaki kecederaan individu, kerana Pertolongan Cemas boleh digunakan pada setiap kecederaan, berpotensi menyembuhkannya sehingga jumlah mata nyawa yang disebabkan oleh kecederaan tersebut. Hanya satu percubaan boleh dibuat bagi setiap luka. Keadaan berbahaya atau tidak bersih mungkin menjadikan lemparan Sukar. Watak anda boleh menambah 1/2 daripada penilaian kemahiran Perubatan mereka dan 1/5 daripada penilaian kemahiran Sains (Farmasi) mereka sebagai bonus sementara kepada lemparan Pertolongan Cemas. Peralatan perubatan moden (penahan sakit, pembalut, atau ubat) boleh menambah bonus sehingga +20% kepada penilaian kemahiran, manakala teknologi perubatan futuristik (kulit semburan tiruan, pengimbas perubatan, penyembuh nanotech) boleh menjadikan semua lemparan Pertolongan Cemas Mudah.
+**Nota Sistem:** Jejaki kecederaan individu, kerana Pertolongan Cemas boleh digunakan pada setiap kecederaan, berpotensi menyembuhkannya sehingga jumlah titik hayat yang diakibatkan oleh kecederaan tersebut. Hanya satu percubaan boleh dibuat bagi setiap luka. Keadaan berbahaya atau tidak bersih mungkin menjadikan lemparan Sukar. Watak anda boleh menambah 1/2 daripada penarafan kemahiran Perubatan mereka dan 1/5 daripada penarafan kemahiran Sains (Farmasi) mereka sebagai bonus sementara kepada lemparan Pertolongan Cemas. Peralatan perubatan moden (penahan sakit, pembalut, atau ubat) boleh menambah sehingga +20% bonus kepada penarafan kemahiran, manakala teknologi perubatan futuristik (kulit semburan tiruan, pengimbas perubatan, penyembuh nanotech) boleh menjadikan semua lemparan Pertolongan Cemas menjadi Mudah.
 
 ### Terbang
 
-**Peluang Asas:** DEX×4 atau 1/2 DEX (lihat di bawah)
+**Peluang Asas:** KTG×4 atau 1/2 KTG (lihat di bawah)
 
 **Kategori:** Fizikal
 
-Bagi makhluk yang mempunyai sayap, peralatan yang sesuai (tali pinggang antigraviti, but roket, dll.), atau kuasa terbang, gunakan kemahiran ini untuk bergerak di udara tanpa kenderaan. Gunakan Terbang untuk melakukan gerakan udara atau akrobatik tanpa kehilangan kawalan, mengatasi musuh dalam tempur udara, atau terbang dalam keadaan cuaca buruk. Peluang asas ialah DEX×4 untuk makhluk bersayap; 1/2 DEX untuk semua yang lain. Untuk pek jet, layang gantung, dll. gunakan kemahiran Juruterbang. Lihat **Tempur Udara** dan **Pengejaran** untuk maklumat lanjut.
+Bagi makhluk yang mempunyai sayap, peralatan yang sesuai (tali pinggang antigraviti, but roket, dsb.), atau kuasa terbang, gunakan kemahiran ini untuk bergerak di udara tanpa kenderaan. Gunakan Terbang untuk melakukan aksi udara atau akrobatik tanpa kehilangan kawalan, mengatasi lawan dalam tempur udara, atau terbang dalam keadaan cuaca buruk. Peluang asas adalah KTG×4 untuk makhluk bersayap; 1/2 KTG untuk semua yang lain. Untuk pek jet, layang gantung, dsb. gunakan kemahiran Juruterbang. Lihat **Tempur Udara** dan **Kejar-mengejar** untuk maklumat lanjut.
 
 **Kesan:** Terbang mempunyai kesan khusus:
 
-* **Fumble:** Terhenti dan mungkin juga jatuh. Watak bersayap mesti membuat lemparan Stamina yang berjaya atau mengalami 1D3–1 mata kerosakan daripada terseliuh atau tegang. Peranti terhenti atau gagal dan tidak dapat memastikan watak anda terapung. Terbang jatuh satu pusingan setiap tahap altitud di atas tanah. Buat lemparan Terbang Sukar untuk kekal terapung—gagal bermakna terhempas (lihat **Jatuh**).
-* **Kegagalan:** Keluar dari laluan atau jatuh ke altitud yang tidak diingini. Tidak pergi ke mana-mana.
-* **Kejayaan:** Melengkapkan gerakan yang diingini atau memegang kedudukan dalam pengejaran.
-* **Khas:** Melengkapkan gerakan yang diingini dan memperoleh bonus +10% kepada lemparan Mengelak, Terbang atau serangan seterusnya yang dibuat dalam tempur udara.
-* **Kritikal:** Melengkapkan gerakan yang diingini dan memperoleh bonus +25% kepada lemparan Mengelak, Terbang atau serangan seterusnya yang dibuat dalam tempur udara.
+* **Kegagalan (fumble):** Terhenti (stall) dan mungkin juga jatuh. Watak bersayap mesti membuat lemparan Ketahanan yang berjaya atau mengalami 1D3–1 mata kerosakan akibat terseliuh atau tegang. Peranti terhenti atau gagal dan tidak dapat mengekalkan watak anda di udara. Pelayang jatuh satu pusingan bagi setiap tahap ketinggian di atas tanah. Buat lemparan Terbang Sukar untuk kekal di udara—gagal bermakna terhempas (lihat **Jatuh**).
+* **Gagal:** Terkeluar dari kursus atau jatuh ke ketinggian yang tidak diingini. Tidak pergi ke mana-mana.
+* **Berjaya:** Melengkapkan aksi yang diingini atau memegang posisi dalam kejar-mengejar.
+* **Khas:** Melengkapkan aksi yang diingini dan memperoleh bonus +10% kepada lemparan Elak, Terbang atau serangan seterusnya yang dibuat dalam tempur udara.
+* **Kritikal:** Melengkapkan aksi yang diingini dan memperoleh bonus +25% kepada lemparan Elak, Terbang atau serangan seterusnya yang dibuat dalam tempur udara.
 
-**Nota Sistem:** Penerbangan pendek, tanpa kejadian di bawah keadaan biasa atau sederhana adalah Automatik. Lihat **Keadaan Cuaca** untuk pengubah suai kepada penerbangan. Lemparan Stamina diperlukan untuk penerbangan jarak jauh, dengan pengganda ciri berkurangan satu setiap empat jam atau sebahagian daripadanya yang dihabiskan di udara. Penerbangan biasa tidak menghabiskan mata keletihan, manakala gerakan atau penerbangan yang menekan adalah aktiviti yang berat. Terbang semasa memakai perisai atau peralatan berat menimbulkan penalti yang sama dengan jumlah ENC semasa watak anda (lihat **Encumbrance**). Watak yang terbang membawa objek berat mesti memadankan STR mereka terhadap SIZ objek yang dibawa pada jadual rintangan untuk kekal terapung.
+**Nota Sistem:** Penerbangan pendek dan tidak penting dalam keadaan biasa atau sederhana adalah Automatik. Lihat **Keadaan Cuaca** untuk pengubah suai kepada penerbangan. Lemparan Ketahanan diperlukan untuk penerbangan jarak jauh, dengan pengganda ciri berkurangan sebanyak satu bagi setiap empat jam atau pecahan daripadanya yang dihabiskan di udara. Penerbangan biasa tidak menggunakan mata keletihan, manakala penerbangan yang melakukan aksi atau tertekan adalah aktiviti yang berat. Terbang sambil memakai perisai atau peralatan berat akan dikenakan penalti bersamaan dengan jumlah ENC semasa watak anda (lihat **Beban**). Watak terbang yang membawa objek berat mesti memadankan KEK mereka dengan SAI objek yang dibawa pada jadual rintangan untuk kekal di udara.
 
 ### Permainan
 
-**Peluang Asas:** INT+POW%
+**Peluang Asas:** KEC+KUR%
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini semasa bermain permainan, daripada catur atau backgammon hingga pertandingan perjudian yang melibatkan kad, dadu, atau elemen rawak atau strategik lain. Penjudi mencari rezeki menggunakan kemahiran ini, tetapi bagi kebanyakan orang lain ia hanyalah sumber hiburan. Fumble membersihkan anda dan berpotensi meletakkan anda dalam hutang, kegagalan bermakna anda kalah pusingan tersebut, kejayaan menghasilkan kemenangan kecil, dan kejayaan yang lebih tinggi meraih faedah yang lebih besar dan mungkin juga meningkatkan status seseorang.
+Gunakan kemahiran ini semasa bermain permainan, daripada catur atau backgammon kepada pertandingan perjudian yang melibatkan kad, dadu, atau unsur rawak atau strategik lain. Penjudi mencari rezeki menggunakan kemahiran ini, tetapi bagi kebanyakan orang lain ia hanyalah sumber hiburan. Kegagalan (fumble) membersihkan wang anda dan berpotensi menyebabkan anda berhutang, gagal bermakna anda kalah dalam pusingan tersebut, berjaya menghasilkan kemenangan kecil, dan kejayaan unggul memperoleh faedah yang lebih besar dan mungkin juga meningkatkan status seseorang.
 
-**Nota Sistem:** Gunakan ini untuk menyelesaikan permainan di mana kemahiran dan strategi memainkan peranan, dengan pemain lain membuat lemparan bertentangan. Untuk menipu, gunakan Ketangkasan Tangan atau Cakap Laju, bertentangan dengan Memerhati atau Wawasan. Hasil yang benar-benar rawak menggunakan lemparan Nasib.
+**Nota Sistem:** Gunakan ini untuk menyelesaikan permainan di mana kemahiran dan strategi memainkan peranan, dengan pemain lain membuat lemparan bertentangan. Untuk menipu, gunakan Ketangkasan Tangan atau Cakap Laju, ditentang oleh Perhati atau Wawasan. Hasil yang benar-benar rawak menggunakan lemparan Nasib.
 
-### Bergusti
+### Gusti
 
 **Peluang Asas:** 25%
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk gusti atau sebarang pergaduhan di mana matlamatnya adalah untuk menundukkan sasaran tanpa menyebabkan kemudaratan. Biasanya ini tidak membawa maut, tetapi ia boleh digunakan untuk memberikan kemudaratan sebenar.
+Gunakan kemahiran ini untuk gusti atau sebarang pertempuran di mana matlamatnya adalah untuk menundukkan sasaran tanpa menyebabkan kemudaratan. Biasanya ini tidak membawa maut, tetapi ia boleh digunakan untuk memberikan kemudaratan sebenar.
 
-**Kesan:** Bergusti mempunyai kesan khusus:
+**Kesan:** Gusti mempunyai kesan khusus:
 
-* **Fumble:** Melontar pada jadual **Fumble Senjata Semula Jadi**.
-* **Kegagalan:** Sasaran mengelak daripada dipegang, atau percubaan untuk melarikan diri gagal.
-* **Kejayaan:** Sasaran digusti, penyerang boleh menggunakan satu kesan gusti (lihat **Kesan Bergusti** di bawah) pusingan seterusnya jika pegangan dikekalkan.
-* **Khas:** Penyerang secara automatik berjaya dalam lemparan Bergusti seterusnya untuk mengekalkan pegangan dan memperoleh bonus +3 ciri pada sebarang lemparan rintangan untuk kesan gusti yang dibuat pusingan ini.
-* **Kritikal:** Penyerang secara automatik berjaya dalam lemparan Bergusti seterusnya untuk mengekalkan pegangan, dan ciri sasaran dibahagi dua dalam sebarang lemparan rintangan untuk kesan gusti sepanjang baki pusingan tempur tersebut.
+* **Kegagalan (fumble):** Lempar pada jadual **Kegagalan Senjata Semulajadi**.
+* **Gagal:** Sasaran mengelak daripada dipegang, atau percubaan untuk melarikan diri gagal.
+* **Berjaya:** Sasaran digusti, penyerang boleh menggunakan satu kesan gusti (lihat **Kesan Gusti** di bawah) pada pusingan seterusnya jika pegangan dikekalkan.
+* **Khas:** Penyerang secara automatik berjaya dalam lemparan Gusti seterusnya untuk mengekalkan pegangan dan memperoleh bonus +3 ciri pada sebarang lemparan rintangan untuk kesan gusti yang dibuat pada pusingan ini.
+* **Kritikal:** Penyerang secara automatik berjaya dalam lemparan Gusti seterusnya untuk mengekalkan pegangan, dan ciri sasaran dibahagikan dua dalam sebarang lemparan rintangan untuk kesan gusti sepanjang baki pusingan tempur tersebut.
 
-**Nota Sistem:** Penyerang mesti membuat Bergusti dengan berjaya untuk menetapkan pegangan pada sasaran. Serangan yang berjaya merebut lokasi anggota badan rawak (jika sistem itu digunakan). Gusti boleh diparri dengan kemahiran Bergusti: jika pertahanan memarri dengan senjata atau perisai, penyerang secara automatik merebut lengan senjata atau lengan perisai jika lemparan Bergusti berjaya. Sebaik sahaja pegangan ditetapkan, penyerang mesti membuat lemparan Bergusti yang berjaya setiap pusingan untuk mengekalkan pegangan. Mengambil sebarang tindakan selain daripada salah satu kesan gusti memecahkan pegangan. Sebaik sahaja dipegang, sasaran boleh menyerang penyerang mereka jika mereka mempunyai anggota badan yang bebas, menggunakan Berbual atau sebarang senjata kecil (pisau atau pistol). Jika kedua-dua tangan bebas, sasaran boleh cuba untuk Bergusti kembali.
+**Nota Sistem:** Penyerang mesti membuat Gusti dengan berjaya untuk menetapkan pegangan pada sasaran. Serangan yang berjaya mencengkam lokasi sasaran secara rawak (jika sistem itu digunakan). Gusti boleh ditepis dengan kemahiran Gusti: jika pertahanan menepis dengan senjata atau perisai, penyerang secara automatik mencengkam lengan senjata atau lengan perisai jika lemparan Gusti berjaya. Sebaik sahaja pegangan ditetapkan, penyerang mesti membuat lemparan Gusti yang berjaya setiap pusingan untuk mengekalkan pegangan tersebut. Melakukan sebarang tindakan selain daripada salah satu kesan gusti akan memutuskan pegangan. Sebaik sahaja dipegang, sasaran boleh menyerang penyerang mereka jika mereka mempunyai anggota badan yang bebas, menggunakan Bergelut atau sebarang senjata kecil (pisau atau pistol). Jika kedua-dua tangan bebas, sasaran boleh cuba untuk Menggusti kembali.
 
-Berbilang penyerang boleh cuba untuk menggusti sasaran tunggal, walaupun tidak lebih daripada dua penyerang boleh memegang mana-mana satu lokasi. Gabungkan penilaian STR kedua-dua penyerang dalam semua ujian yang dipertandingkan.
+Berbilang penyerang boleh cuba untuk menggusti sasaran tunggal, walaupun tidak lebih daripada dua penyerang boleh memegang mana-mana lokasi. Gabungkan penarafan KEK kedua-dua penyerang dalam semua ujian yang dipertandingkan.
 
-> ### Kesan Bergusti
+> ### Kesan Gusti
 > 
-> Penyerang yang memegang sasaran mereka boleh mencuba mana-mana kesan berikut, satu setiap pusingan, bermula pusingan selepas Bergusti mengambil pegangan. Sesetengah kesan hanya boleh digunakan jika penyerang telah merebut bahagian badan tertentu (lihat di bawah). Oleh kerana sesetengah kesan melibatkan lokasi anggota badan tertentu, gamemaster mungkin perlu mentafsir hasil.
+> Penyerang yang memegang sasaran mereka boleh mencuba sebarang kesan berikut, satu setiap pusingan, bermula pusingan selepas Gusti mengambil pegangan. Sesetengah kesan hanya boleh digunakan jika penyerang telah mencengkam bahagian badan yang tertentu (lihat di bawah). Memandangkan sesetengah kesan melibatkan lokasi sasaran tertentu, pengurus permainan mungkin perlu mentafsirkan hasil.
 > 
-> * **Tukar Pegangan (Mana-mana):** Padankan DEX lwn. DEX pada jadual rintangan. Jika berjaya, penyerang beralih pegangan ke lokasi anggota badan pilihan yang berbeza. Jika tidak berjaya, sasaran boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan pada lokasi asal.
+> * **Tukar Pegangan (Mana-mana):** Padankan KTG vs. KTG pada jadual rintangan. Jika berjaya, penyerang menukar pegangan ke lokasi sasaran pilihan yang berbeza. Jika tidak berjaya, sasaran boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan pada lokasi asal.
 > 
-> * **Lucutkan Senjata Sasaran (Lengan):** Penyerang memadankan STR+SIZ lwn. STR sasaran pada jadual rintangan. Jika penyerang berjaya, sasaran menjatuhkan apa sahaja di tangan itu, dan lengan kekal tidak bergerak. Jika tidak berjaya, sasaran memegang item yang dipegang, walaupun lengan mereka kekal tidak bergerak. Penyerang mengekalkan pegangan.
+> * **Lucut Senjata Sasaran (Lengan):** Penyerang memadankan KEK+SAI vs. KEK sasaran pada jadual rintangan. Jika penyerang berjaya, sasaran menjatuhkan apa sahaja di tangan itu, dan lengan kekal tidak bergerak. Jika tidak berjaya, sasaran tetap memegang item yang dipegang, walaupun lengan mereka kekal tidak bergerak. Penyerang mengekalkan pegangan.
 > 
-> * **Rebut Lokasi Kedua (Lengan/Kaki)**: Penyerang cuba merebut dan memegang lokasi lain pilihan mereka. Padankan DEX penyerang lwn. DEX+SIZ sasaran pada jadual rintangan. Jika penyerang menang, mereka merebut lokasi kedua dan mengekalkan anggota badan yang sudah dipegang terperangkap. Jika tidak berjaya, sasaran segera memadankan STR mereka lwn. STR penyerang pada jadual rintangan untuk memecahkan semua pegangan. Penyerang boleh memegang seberapa banyak lokasi yang mereka ada tangan.
+> * **Cengkam Lokasi Kedua (Lengan/Kaki)**: Penyerang cuba mencengkam dan memegang lokasi sasaran lain pilihan mereka. Padankan KTG penyerang vs. KTG+SAI sasaran pada jadual rintangan. Jika penyerang menang, mereka mencengkam lokasi kedua dan memastikan anggota badan yang sudah dipegang terperangkap. Jika tidak berjaya, sasaran serta-merta memadankan KEK mereka vs. KEK penyerang pada jadual rintangan untuk memecahkan semua pegangan. Penyerang boleh memegang seberapa banyak lokasi mengikut jumlah tangan yang mereka ada.
 > 
-> * **Immobilkan Anggota Badan (Lengan/Kaki)**: Padankan STR penyerang lwn. STR sasaran pada jadual rintangan. Jika penyerang menang, tiada tindakan boleh diambil dengan anggota badan itu sehingga pegangan dipecahkan. Jika tidak berjaya, sasaran boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan pada anggota badan itu.
+> * **Tidak Gerakkan Anggota (Lengan/Kaki)**: Padankan KEK penyerang vs. KEK sasaran pada jadual rintangan. Jika penyerang menang, tiada tindakan boleh diambil dengan anggota tersebut sehingga pegangan dipecahkan. Jika tidak berjaya, sasaran boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan pada anggota tersebut.
 > 
-> * **Cederakan Sasaran (Kepala/Dada/Perut)**: Penyerang menyiku, mencungkil, atau memerah, menyebabkan 1D3 mata kerosakan ditambah pengubah suai kerosakan mereka kepada sasaran (umum atau kepada lokasi anggota badan yang dipegang). Sasaran boleh segera memadankan STR mereka lwn. STR penyerang pada jadual rintangan untuk memecahkan pegangan.
+> * **Cederakan Sasaran (Kepala/Dada/Perut)**: Penyerang menyiku, mencungkil, atau memerah, menyebabkan 1D3 mata kerosakan ditambah pengubah suai kerosakan mereka kepada sasaran (umum atau kepada lokasi sasaran yang dipegang). Sasaran boleh serta-merta memadankan KEK mereka vs. KEK penyerang pada jadual rintangan untuk memecahkan pegangan.
 > 
-> * **Immobilkan Sasaran (Kepala/Dada/Perut)**: Padankan STR penyerang lwn. STR sasaran pada jadual rintangan. Jika penyerang menang, sasaran tidak boleh mengambil sebarang tindakan sehingga pegangan dipecahkan. Jika tidak berjaya, sasaran masih boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan.
+> * **Tidak Gerakkan Sasaran (Kepala/Dada/Perut)**: Padankan KEK penyerang vs. KEK sasaran pada jadual rintangan. Jika penyerang menang, sasaran tidak boleh mengambil sebarang tindakan sama sekali sehingga pegangan dipecahkan. Jika tidak berjaya, sasaran masih boleh mengambil tindakan, walaupun penyerang masih mempunyai pegangan.
 > 
-> * **Jatuhkan Sasaran (Kepala/Dada/Perut):** Penyerang secara automatik mengatasi sasaran, menyeret kedua-dua watak ke arah meniarap. Sasaran mesti membuat lemparan Ketangkasan atau mengalami 1 mata kerosakan umum (atau kepada lokasi anggota badan rawak).
+> * **Jatuhkan Sasaran (Kepala/Dada/Perut):** Penyerang secara automatik menindih sasaran, mengheret kedua-dua watak jatuh ke tanah. Sasaran mesti membuat lemparan Ketangkasan atau mengalami 1 mata kerosakan umum (atau kepada lokasi sasaran rawak).
 > 
-> * **Cekik Sasaran (Kepala):** Sasaran mesti membuat lemparan CON×1% setiap pusingan atau mengalami 1D3 mata nyawa kerosakan kepada mata nyawa umum mereka. Sasaran boleh segera memadankan STR mereka lwn. STR watak penyerang pada jadual rintangan untuk memecahkan pegangan. Sebaik sahaja penyerang mula mencekik, mereka tidak perlu membuat lemparan Bergusti lanjut setiap pusingan untuk mengekalkan pegangan. Sasaran mesti cuba untuk membebaskan diri (lihat **Tercekik, Lemas, dan Asfiksia**).
+> * **Cekik Sasaran (Kepala):** Sasaran mesti membuat lemparan KET×1% setiap pusingan atau mengalami 1D3 titik hayat kerosakan kepada titik hayat umum mereka. Sasaran boleh serta-merta memadankan KEK mereka vs. KEK watak penyerang pada jadual rintangan untuk memecahkan pegangan. Sebaik sahaja penyerang mula mencekik, mereka tidak perlu membuat lemparan Gusti selanjutnya setiap pusingan untuk mengekalkan pegangan. Sasaran mesti cuba untuk melepaskan diri (lihat **Tercekik, Lemas, dan Asfiksia**).
 > 
-> * **Lontar Sasaran (Khas):** Padankan STR+DEX penyerang terhadap SIZ+DEX sasaran pada jadual rintangan. Melontar sasaran melepaskan sebarang pegangan. Jika penyerang berjaya, sasaran dilontar 1D6 meter, secara automatik jatuh, dan mesti membuat lemparan Ketangkasan atau mengalami 1D6 mata kerosakan umum (atau kepada lokasi anggota badan rawak). Lemparan DEX×1% membolehkan mereka mendarat dengan kaki tanpa mengalami kerosakan. Jika lemparan tidak berjaya, sasaran tidak dilontar dan boleh mengambil tindakan, walaupun penyerang mengekalkan pegangan. Lontaran mungkin dicuba dengan mana-mana anggota badan yang dipegang, tetapi lemparan berjaya dengan kepala hanya menyebabkan 1D6 mata kerosakan umum (atau kepada lokasi anggota badan kepala) dan tidak menghasilkan lontaran.
+> * **Lempar Sasaran (Khas):** Padankan KEK+KTG penyerang terhadap SAI+KTG sasaran pada jadual rintangan. Melontar sasaran melepaskan sebarang pegangan. Jika penyerang berjaya, sasaran dilontar sejauh 1D6 meter, secara automatik jatuh, dan mesti membuat lemparan Ketangkasan atau mengalami 1D6 mata kerosakan umum (atau kepada lokasi sasaran rawak). Lemparan KTG×1% membolehkan mereka mendarat dengan kaki tanpa mengalami kerosakan. Jika lemparan tidak berjaya, sasaran tidak dilontar dan boleh mengambil tindakan, walaupun penyerang mengekalkan pegangan. Lontaran boleh dicuba dengan mana-mana anggota badan yang dipegang, tetapi lemparan yang berjaya dengan kepala hanya menyebabkan 1D6 mata kerosakan umum (atau kepada lokasi sasaran kepala) dan tidak mengakibatkan lontaran.
 
-### Mesin Berat (pelbagai)
+### Jentera Berat (pelbagai)
 
 **Peluang Asas:** 01%
 
 **Kategori:** Manipulasi
 
-Gunakan kemahiran ini untuk mengendalikan mana-mana mesin yang lebih besar daripada seseorang dan mana-mana kenderaan beroda yang lebih berat daripada van bergerak, seperti forklift, kereta kebal, jentolak, kren, lokomotif, atau mengendalikan enjin pada kapal laut yang besar. Mesin Berat juga merangkumi penjagaan asas dan penyelenggaraan pencegahan, walaupun sebaik sahaja mesin berat gagal, kemahiran Pembaikan diperlukan untuk membaikinya. Untuk pesawat, gunakan kemahiran Juruterbang. Fumble mengakibatkan kemalangan, masalah enjin, dan/atau kerosakan harta benda, manakala kegagalan bermakna mesin tidak melakukan tugas yang diingini. Kejayaan dan kejayaan yang lebih tinggi menunjukkan keberkesanan yang lebih besar.
+Gunakan kemahiran ini untuk mengendalikan sebarang mesin yang lebih besar daripada seseorang dan sebarang kenderaan beroda yang lebih berat daripada van pemindah, seperti forklift, kereta kebal, jentolak, kren, lokomotif, atau mengendalikan enjin pada kapal laut yang besar. Jentera Berat juga merangkumi penjagaan asas dan penyelenggaraan pencegahan, walaupun apabila jentera berat gagal, kemahiran Membaiki diperlukan untuk membaikinya. Untuk pesawat, gunakan kemahiran Juruterbang. Kegagalan (fumble) mengakibatkan terhempas, masalah enjin, dan/atau kerosakan harta benda, manakala gagal bermakna mesin tidak melakukan tugas yang diingini. Kejayaan dan kejayaan unggul menunjukkan keberkesanan yang lebih besar.
 
-**Kepakaran:** Mengikut jenis kenderaan (Kenderaan Berperisai, Dandang, Jentolak, Kren, Enjin, Turbin, dll.).
+**Kepakaran:** Mengikut jenis kenderaan (Kenderaan Berperisai, Dandang, Jentolak, Kren, Enjin, Turbin, dsb.).
 
-**Nota Sistem:** Secara amnya, mesin berat tidak dapat menyertai pengejaran, tetapi jenis mesin tertentu boleh digunakan sebagai senjata, melakukan 3D6 hingga 6D6 kerosakan, berdasarkan saiz peranti. Menggunakan kemahiran ini di luar prestasi biasa adalah Sukar, begitu juga operasi dan penyelenggaraan dalam keadaan melampau.
+**Nota Sistem:** Secara umumnya, jentera berat tidak dapat mengambil bahagian dalam kejar-mengejar, tetapi jenis jentera tertentu boleh digunakan sebagai senjata, melakukan 3D6 hingga 6D6 kerosakan, berdasarkan saiz peranti. Menggunakan kemahiran ini di luar prestasi biasa adalah Sukar, begitu juga pengendalian dan penyelenggaraan dalam keadaan melampau.
 
 ### Senjata Berat (pelbagai)
 
@@ -553,23 +549,23 @@ Gunakan kemahiran ini untuk mengendalikan mana-mana mesin yang lebih besar darip
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk mengendalikan senjata letupan atau senjata tembakan terus besar yang menolak had mudah alih, seperti bazooka, pelancar roket, mesingan berat, meriam laser yang dipasang pada tripod, dan lain-lain. Gunakan kemahiran Artileri untuk persenjataan yang lebih berat seperti meriam, enjin pengepungan, atau senjata yang dipasang pada kenderaan atau pintle.
+Gunakan kemahiran ini untuk mengendalikan senjata letupan atau senjata tembakan terus besar yang menolak had mudah alih, seperti bazooka, pelancar roket, mesingan berat, meriam laser yang dipasang pada tripod, dan lain-lain. Gunakan kemahiran Artileri untuk persenjataan yang lebih berat seperti meriam, enjin pengepungan, atau senjata yang dipasang pada kenderaan.
 
-**Kepakaran:** Senjata berat jatuh di antara senjata tradisional dan artileri dan sering digunakan untuk menghantar bahan letupan. Kepakaran adalah mengikut jenis senjata, dan termasuk Bazooka, Penyembur Api, Mesingan Mini, Pelancar Roket, dll. Lihat **Artileri dan Bahan Letupan** dalam Bab Lapan: Peralatan untuk butiran lanjut.
+**Kepakaran:** Senjata berat berada di antara senjata tradisional dan artileri dan sering digunakan untuk menghantar bahan letupan. Kepakaran adalah mengikut jenis senjata, dan termasuk Bazooka, Penyembur api, Senapang Mini, Pelancar Roket, dsb. Lihat **Artileri dan Bahan Letupan** dalam Bab Lapan: Peralatan untuk butiran lanjut.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Senjata Peluru** untuk kesan khusus. Senjata berat biasanya menembusi atau menolak.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Senjata Peluru** untuk kesan khusus. Senjata berat biasanya menembus atau menolak ke belakang (knockback).
 
-**Nota Sistem:** Kebanyakan senjata berat menggunakan tembakan automatik, atau menembak peluru letupan. Lihat **Tembakan Automatik** dan **Letupan**. Semua tembakan yang tersasar pergi ke suatu tempat; gamemaster harus memutuskan di mana tembakan letupan yang tersasar memberi impak.
+**Nota Sistem:** Kebanyakan senjata berat menggunakan tembakan automatik, atau menembak persenjataan letupan. Lihat **Tembakan Automatik** dan **Letupan**. Semua tembakan yang tersasar pergi ke suatu tempat; pengurus permainan harus memutuskan di mana tembakan letupan yang tersasar memberi kesan.
 
-### Bersembunyi
+### Sembunyi
 
 **Peluang Asas:** 10%
 
 **Kategori:** Fizikal
 
-Seni menyembunyikan objek atau diri sendiri daripada pandangan. Watak anda harus menggunakan kemahiran ini untuk melarikan diri semasa pengejaran, memastikan objek tidak mudah dikesan, atau mengelakkan pengawasan. Fumble menarik perhatian serta-merta, kegagalan bermakna lemparan Mengesan untuk mencari penyembunyi menjadi *Mudah*, kejayaan memerlukan lemparan Mengesan untuk ditemui, dan kejayaan yang lebih tinggi sama ada menjadikan lemparan Mengesan *Sukar* atau *Mustahil*.
+Seni menyembunyikan objek atau diri sendiri daripada pandangan. Watak anda harus menggunakan kemahiran ini untuk melarikan diri semasa pengejaran, memastikan objek tidak mudah dikesan, atau mengelakkan pengawasan. Kegagalan (fumble) menarik perhatian serta-merta, gagal bermakna lemparan Perhati untuk mencari penyembunyi menjadi *Mudah*, kejayaan memerlukan lemparan Perhati untuk ditemui, dan kejayaan unggul menjadikan lemparan Perhati sama ada *Sukar* atau *Mustahil*.
 
-**Nota Sistem:** Semakan Bersembunyi ditentang oleh Mengesan pemerhati atau pencari. Perlindungan yang mencukupi adalah penting; bersembunyi dalam perlindungan yang sedikit adalah Sukar, dan kekurangan perlindungan sepenuhnya (terbuka luas, siang hari) menjadikannya Mustahil. Pakaian atau peralatan khas (cat muka, pakaian penyamaran, dll.) boleh menambah bonus sehingga +20%, bergantung pada kualitinya. Keadaan persekitaran mungkin menawarkan bonus tambahan. Seseorang yang bersembunyi harus diam seboleh mungkin; bergerak semasa menggunakan Bersembunyi adalah Sukar, dan bergerak lebih daripada satu meter dalam pusingan tempur memerlukan kedua-dua lemparan Bersembunyi dan Stealth. Bersembunyi hanya berkesan terhadap pengesanan visual dan pendengaran; penderia canggih mungkin mencari watak yang bersembunyi melalui haba badan, atau hidung yang tajam mungkin mencari mereka menggunakan kemahiran Deria.
+**Nota Sistem:** Ujian Sembunyi ditentang oleh Perhati pemerhati atau pencari. Perlindungan yang mencukupi adalah penting; bersembunyi dalam perlindungan yang jarang adalah Sukar, dan ketiadaan perlindungan langsung (terbuka luas, siang hari) menjadikannya Mustahil. Pakaian atau peralatan khas (cat muka, pakaian penyamaran, dsb.) boleh menambah bonus sehingga +20%, bergantung kepada kualitinya. Keadaan persekitaran mungkin menawarkan bonus tambahan. Seseorang yang bersembunyi harus kekal sediam mungkin; bergerak semasa menggunakan Sembunyi adalah Sukar, dan bergerak lebih daripada satu meter dalam satu pusingan tempur memerlukan kedua-dua lemparan Sembunyi dan Senyap. Sembunyi hanya berkesan terhadap pengesanan visual dan pendengaran; penderia canggih mungkin menemui watak yang bersembunyi melalui haba badan, atau deria bau yang tajam mungkin menemui mereka menggunakan kemahiran Deria.
 
 ### Wawasan
 
@@ -577,19 +573,17 @@ Seni menyembunyikan objek atau diri sendiri daripada pandangan. Watak anda harus
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk menilai watak, keadaan emosi, dan motif orang lain berdasarkan bahasa badan, corak pertuturan, dan faktor tidak ketara yang lain. Wawasan membolehkan penjudi merasakan tipu daya, atau detektif menghidu pembohongan. Fumble memberikan maklumat yang mengelirukan, kegagalan tidak memberikan apa-apa, kejayaan membolehkan anda mengetahui apa yang mungkin difikirkan oleh sasaran, dan kejayaan yang lebih tinggi mendedahkan kepada anda pemikiran terdalam mereka (dalam sebab yang munasabah).
+Gunakan kemahiran ini untuk menilai watak orang lain, keadaan emosi, dan motif berdasarkan bahasa badan, corak pertuturan, dan faktor tidak ketara yang lain. Wawasan membolehkan penjudi merasakan penipuan, atau detektif menghidu pembohongan. Kegagalan (fumble) memberikan maklumat yang mengelirukan, gagal tidak menghasilkan apa-apa, berjaya membolehkan anda mengetahui apa yang mungkin difikirkan oleh sasaran, dan kejayaan unggul mendedahkan kepada anda pemikiran dalaman mereka (dalam alasan yang munasabah).
 
-**Nota Sistem:** Kemahiran ini boleh ditentang oleh Etiket, Cakap Laju, atau bahkan Memujuk. Menggunakan kemahiran ini pada rakan rapat, ahli keluarga, atau pasangan adalah Mudah. Jika menggunakan sistem **Sifat Personaliti**, Wawasan boleh menentukan kekuatan sifat personaliti dalam istilah umum (seperti "Sangat mementingkan diri", contohnya).
-
-### Melompat
+**Nota Sistem:** Kemahiran ini boleh ditentang oleh Etika, Cakap Laju, atau malah Pujuk. Menggunakan kemahiran ini ke atas kawan rapat, ahli keluarga, atau pasangan adalah Mudah. Jika menggunakan sistem **Sifat Personaliti**, Wawasan boleh menentukan kekuatan sifat personaliti tersebut secara umum (seperti “Sangat mementingkan diri sendiri”, sebagai contoh).### Lompat
 
 **Peluang Asas:** 25%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk melompat untuk ketinggian atau jarak, melompat melepasi halangan. Di bawah keadaan biasa, manusia yang cergas secara munasabah boleh melompat ketinggian mereka secara mendatar dan separuh ketinggian mereka secara menegak dari posisi berdiri, dan kira-kira tiga meter secara mendatar dengan permulaan larian. Fumble mengakibatkan jatuh (1D6 kerosakan mata nyawa umum atau kepada lokasi anggota badan), kejayaan menghasilkan lompatan seperti yang diterangkan di atas, kejayaan khas meningkatkan jumlah sebanyak 50%, dan kejayaan kritikal menggandakannya. Melompat juga boleh mengurangkan kerosakan jatuh sebanyak 1D6 bagi setiap tahap kejayaan (kejayaan biasa sebanyak –1D6, khas sebanyak –2D6, kritikal sebanyak –3D6).
+Gunakan kemahiran ini untuk melompat bagi mendapatkan ketinggian atau jarak, atau melompat melepasi halangan. Dalam keadaan biasa, seorang Manusia yang mempunyai kecergasan yang munasabah boleh melompat setinggi ketinggian mereka secara mendatar dan separuh daripada ketinggian mereka secara menegak dari kedudukan berdiri, serta kira-kira tiga meter secara mendatar dengan awalan larian. Kegagalan kritikal (*fumble*) mengakibatkan jatuh (1D6 kerosakan mata nyawa umum atau pada lokasi terkena), kejayaan menghasilkan lompatan seperti yang diterangkan di atas, kejayaan istimewa meningkatkan jumlah tersebut sebanyak 50%, dan kejayaan kritikal menggandakannya. Lompat juga boleh mengurangkan kerosakan jatuh sebanyak 1D6 bagi setiap tahap kejayaan (kejayaan biasa sebanyak –1D6, istimewa sebanyak –2D6, kritikal sebanyak –3D6).
 
-**Nota Sistem:** Lompatan berdiri memerlukan 1 pangkat DEX. Lompatan larian menggunakan pangkat DEX yang sama seperti pergerakan larian biasa. Melakukan lompatan yang mencolok atau menonjol (salto, balik kuang, dll.) adalah Sukar.
+**Nota Sistem:** Lompatan berdiri memerlukan 1 pangkat KTG. Lompatan berlari menggunakan pangkat KTG yang sama seperti pergerakan larian biasa. Melakukan lompatan yang bergaya atau menonjol (somo, flip, dll.) adalah Sukar.
 
 ### Pengetahuan (pelbagai)
 
@@ -597,81 +591,81 @@ Gunakan kemahiran ini untuk melompat untuk ketinggian atau jarak, melompat melep
 
 **Kategori:** Mental
 
-Kemahiran ini mewakili pengalaman atau kajian akademik bagi cabang pengetahuan. Gunakan kemahiran Pengetahuan untuk mengingati fakta yang berkaitan, untuk menganalisis atau mengenal pasti petunjuk, membuat andaian logik, dan mengingati trivia yang mengagumkan. Untuk yang lebih saintifik, lihat Sains. Fumble menghasilkan kepalsuan yang mengelirukan dan tidak tepat, dan kejayaan menghasilkan maklumat yang lebih berguna dan terperinci.
+Kemahiran ini mewakili pengalaman atau kajian akademik dalam cabang ilmu. Gunakan kemahiran Pengetahuan untuk mengingati fakta yang berkaitan, untuk menganalisis atau mengenal pasti petunjuk, membuat andaian logik, dan mengingati trivia yang mengagumkan. Untuk bidang yang lebih saintifik, lihat Sains. Kegagalan kritikal (*fumble*) mengakibatkan pembohongan yang mengelirukan dan tidak tepat, manakala kejayaan memberikan maklumat yang lebih berguna dan terperinci.
 
-**Kepakaran:** Perakaunan, Antropologi, Arkeologi, Sejarah, Undang-undang, Okultisme, Agama, dll. (lihat senarai berdekatan) Gamemaster harus menentukan sama ada kemahiran Pengetahuan mempunyai peluang asas 05% untuk kepakaran yang biasa, atau 00% untuk mereka yang memerlukan penyelidikan dan kajian untuk mempunyai pemahaman asas.
+**Kepakaran:** Perakaunan, Antropologi, Arkeologi, Sejarah, Undang-undang, Okultisme, Agama, dsb. (lihat senarai berdekatan). Pengurus permainan harus menentukan sama ada kemahiran Pengetahuan mempunyai peluang asas 05% untuk kepakaran yang biasa, atau 00% untuk kepakaran yang memerlukan penyelidikan dan kajian untuk sekadar mempunyai pemahaman asas.
 
-**Nota Tetapan:** Dalam tetapan fantasi dan sejarah, hanya sebilangan kecil kepakaran wujud. Apabila tetapan menjadi lebih moden, kepakaran meningkat.
+**Nota Latar:** Dalam latar fantasi dan sejarah, hanya subset kecil kepakaran yang wujud. Apabila latar menjadi lebih moden, kepakaran bertambah.
 
-**Nota Sistem:** Ciri EDU pilihan dan lemparan Tahu merangkumi kebanyakan pengetahuan umum—maklumat khusus diwakili oleh kepakaran kemahiran Pengetahuan yang sesuai.
+**Nota Sistem:** Ciri pilihan EDU dan lemparan Tahu (*Know*) merangkumi kebanyakan pengetahuan umum—maklumat khusus diwakili oleh kepakaran yang sesuai dalam kemahiran Pengetahuan.
 
 > ### Kepakaran Pengetahuan
 > 
-> Kepakaran ini tidak menyeluruh dan boleh dikembangkan mengikut keperluan. Sesetengah kepakaran mempunyai sub-kepakaran, fokus khusus pada satu subjek dalam bidang tersebut. Tulis seperti ini: Pengetahuan (Kumpulan/Templar) atau Pengetahuan (Templar), mengikut kehendak.
+> Kepakaran ini tidak menyeluruh dan boleh dikembangkan mengikut keperluan. Sesetengah kepakaran mempunyai sub-kepakaran, fokus khusus pada satu subjek dalam bidang tersebut. Tuliskan seperti ini: Pengetahuan (Kumpulan/Templar) atau Pengetahuan (Templar), mengikut keinginan.
 > 
-> **Pengetahuan Akademik (Hanya Era Purba):** Dalam era apabila keseluruhan pengetahuan bertulis boleh terkandung dalam satu perpustakaan, ini mewakili betapa 'terpelajar' seseorang itu. Gunakannya seperti lemparan Tahu untuk hampir mana-mana bidang pengetahuan.
+> **Ilmu Akademik (Era Purba Sahaja):** Dalam era di mana keseluruhan pengetahuan bertulis boleh dimuatkan dalam satu perpustakaan, ini mewakili betapa 'terpelajar' seseorang itu. Gunakannya seperti lemparan Tahu untuk hampir mana-mana bidang pengetahuan.
 > 
-> **Perakaunan:** Gunakannya untuk menganalisis simpan kira, analisis kewangan (hutang, muflis, kekayaan, nilai bersih, dll.), dan untuk mengenal pasti penyelewengan kewangan (perbelanjaan pelik, pecah amanah, atau durian runtuh yang ganjil).
+> **Perakaunan:** Gunakannya untuk menganalisis simpan kira, analisis kewangan (hutang, bankrap, kekayaan, nilai bersih, dll.), dan untuk mengenal pasti penyelewengan kewangan (perbelanjaan pelik, pecah amanah, atau rezeki nomplok yang ganjil).
 > 
-> **Antropologi:** Kajian budaya, termasuk adat, seni, dan tingkah laku. Gunakannya untuk mengenal pasti budaya asli seseorang atau artifak atau untuk menentukan adat sosial dan tingkah laku budaya.
+> **Antropologi:** Kajian tentang budaya, termasuk adat resam, seni, dan tingkah laku. Gunakannya untuk mengenal pasti budaya asal seseorang atau artifak, atau untuk menentukan norma sosial dan tingkah laku sesuatu budaya.
 > 
-> **Arkeologi:** Kajian budaya purba dan yang telah pupus. Gunakannya untuk mengenal pasti artifak daripada budaya mati, mengesan palsu, atau menjalankan penggalian dan membuat kesimpulan yang munasabah tentang sejarah tapak atau wilayah.
+> **Arkeologi:** Kajian tentang budaya purba dan yang telah hilang. Gunakannya untuk mengenal pasti artifak daripada budaya yang telah mati, mengesan barangan tiruan, atau menjalankan penggalian dan membuat inferens yang munasabah tentang sejarah sesuatu tapak atau wilayah.
 > 
-> **Sejarah Seni:** Kajian seni daripada pelbagai era dan tempat, termasuk gaya, artis terkenal, dan karya tertentu. Gunakannya untuk mengenal pasti asal usul karya seni, mengesan palsu, atau mengaitkan karya dengan master yang dikenali.
+> **Sejarah Seni:** Kajian tentang seni daripada pelbagai era dan tempat, termasuk gaya, artis terkenal, dan karya tertentu. Gunakannya untuk mengenal pasti asal usul sesuatu karya seni, mengesan barangan tiruan, atau mengaitkan sesuatu karya dengan tokoh agung yang dikenali.
 > 
-> **Pengetahuan Menghujat:** Kajian rahsia okultisme yang ngeri dan kejahatan purba. Semakin banyak pengetahuan ini dimiliki, semakin kurang cengkaman mereka terhadap kewarasan (lihat Kewarasan). Kemahiran Pengetahuan Menghujat bermula pada 0%, bukan 05%, dan tidak boleh ditingkatkan dengan pengalaman.
+> **Ilmu Hujat (Blasphemous Lore):** Kajian tentang rahsia okultisme yang ngeri dan kejahatan purba. Semakin banyak pengetahuan ini dimiliki seseorang, semakin hilang kewarasan mereka (lihat Kewarasan). Kemahiran Ilmu Hujat bermula pada 0%, bukan 05%, dan tidak boleh ditingkatkan dengan pengalaman.
 > 
-> **Perniagaan:** Kajian amalan keusahawanan, peraturan persatuan, undang-undang korporat, dan teknik pengurusan untuk perusahaan komersial. Gunakannya untuk mengenal pasti pemain utama dalam bidang atau pasaran, meramalkan arah aliran ekonomi, dan mendapat keuntungan.
+> **Perniagaan:** Kajian tentang amalan keusahawanan, peraturan persatuan, undang-undang korporat, dan teknik pengurusan untuk perusahaan komersial. Gunakannya untuk mengenal pasti pemain utama dalam sesuatu bidang atau pasaran, meramalkan aliran ekonomi, dan menjana keuntungan.
 > 
-> **Pengintipan:** Pengetahuan tentang organisasi perisikan, pengintip dan ejen terkenal atau terkenal; metodologi, tokoh terkenal, organisasi, taktik, dll. Gunakan untuk mengetahui tentang agensi dan modus operandi mereka. Pemecahan kod dikendalikan dengan Sains (Kriptografi).
+> **Perisikan:** Pengetahuan tentang organisasi perisikan, perisik dan ejen yang terkenal atau terkenal; metodologi, tokoh penting, organisasi, taktik, dll. Gunakannya untuk mengetahui tentang agensi dan modus operandi mereka. Pemecahan kod dikendalikan dengan Sains (Kriptografi).
 > 
-> **Folklor:** Pengetahuan tentang adat, cerita, lirik, kisah dongeng, dan legenda orang atau wilayah tertentu. Gunakan kemahiran ini untuk mengenal pasti atau mengingati elemen kisah rakyat atau dongeng, sama ada desa atau ghaib.
+> **Cerita Rakyat:** Pengetahuan tentang adat resam, cerita, lirik, kisah dongeng, dan legenda sesuatu kaum atau wilayah. Gunakan kemahiran ini untuk mengenal pasti atau mengingati elemen cerita rakyat atau dongeng, sama ada bersifat desa atau ghaib.
 > 
-> **Kumpulan/Sub-kepakaran:** Maklumat umum tentang budaya, kewarganegaraan, kumpulan, kelab, atau kelas sosial tertentu. Gunakan kemahiran ini untuk mengenal pasti ahli kumpulan tersebut, mengetahui 'siapa siapa' dalam kumpulan tersebut, dan mengingati adat sosial dan norma kumpulan.
+> **Kumpulan/Sub-kepakaran:** Maklumat umum tentang budaya, kewarganegaraan, kumpulan, kelab, atau kelas sosial tertentu. Gunakan kemahiran ini untuk mengenal pasti ahli kumpulan tersebut, mengetahui 'siapa siapa' dalam kumpulan itu, dan mengingati adat resam serta norma sosial kumpulan tersebut.
 > 
-> **Sejarah:** Kajian peristiwa dan era masa lalu. Gunakan kemahiran ini untuk mengingati kepentingan mana-mana tempat, orang, peristiwa, atau objek, atau untuk meneka dengan betul bila objek atau dokumen dibuat.
+> **Sejarah:** Kajian tentang peristiwa dan era masa lalu. Gunakan kemahiran ini untuk mengingati kepentingan mana-mana tempat, orang, peristiwa, atau objek, atau untuk meneka dengan betul bila sesuatu objek atau dokumen dibuat.
 > 
-> **Undang-undang:** Kajian amalan undang-undang dan duluan. Gunakan kemahiran ini untuk menilai kesahihan tindakan yang dicadangkan, mencari duluan undang-undang, membebaskan diri daripada masalah dengan pihak berkuasa, atau membina kes untuk atau menentang penjenayah.
+> **Undang-undang:** Kajian tentang amalan dan preseden undang-undang. Gunakan kemahiran ini untuk menilai kesahan sesuatu tindakan yang dicadangkan, mencari preseden undang-undang, membebaskan diri daripada masalah dengan pihak berkuasa, atau membina kes untuk atau menentang penjenayah.
 > 
-> **Linguistik:** Kajian bahasa itu sendiri, daripada asas tatabahasa dan kosa kata kepada bagaimana masyarakat membentuk bahasa. Gunakan kemahiran ini untuk mengenal pasti bahasa yang tidak diketahui atau menyelesaikan beberapa perkataan atau memahami makna asas, walaupun kemahiran ini bukan pengganti kemahiran Bahasa yang sesuai.
+> **Linguistik:** Kajian tentang bahasa itu sendiri, daripada asas tatabahasa dan kosa kata hinggalah kepada bagaimana masyarakat membentuk bahasa. Gunakan kemahiran ini untuk mengenal pasti bahasa yang tidak dikenali atau memikirkan beberapa perkataan atau memahami makna asas, walaupun kemahiran ini bukan pengganti kepada kemahiran Bahasa yang sesuai.
 > 
-> **Kesusasteraan**: Kajian prosa, puisi, dan esei yang signifikan, biasanya daripada satu budaya. Gunakan kemahiran ini untuk mengenal pasti petikan atau kiasan dengan betul kepada karya tertentu, mengenal pasti bila dan di mana fragmen yang tidak diketahui mungkin ditulis, mengaitkan karya misteri dengan pengarang yang dikenali, mengesan palsu sastera, atau memetik petikan yang menyeramkan daripada karya sastera terkenal.
+> **Kesusasteraan:** Kajian tentang prosa, puisi, dan esei yang penting, biasanya daripada satu budaya. Gunakan kemahiran ini untuk mengenal pasti petikan atau kiasan kepada sesuatu karya dengan betul, mengenal pasti bila dan di mana serpihan yang tidak diketahui mungkin ditulis, mengaitkan karya misteri dengan penulis yang dikenali, mengesan tiruan sastera, atau memetik petikan yang sesuai secara menakutkan daripada karya sastera terkenal.
 > 
-> **Dunia Semula Jadi**: Pengetahuan tentang persekitaran, corak cuaca, flora, fauna, dan sejarah semula jadi kawasan, terutamanya daripada rasa praktikal dan bukannya latar belakang saintifik.
+> **Dunia Semula Jadi:** Pengetahuan tentang alam sekitar, corak cuaca, flora, fauna, dan sejarah semula jadi sesuatu kawasan, terutamanya daripada sudut praktikal dan bukannya latar belakang saintifik.
 > 
-> **Okultisme:** Pengetahuan tentang sihir, legenda kabur, dan apa yang dipanggil 'sejarah rahsia' yang merangkumi segala-galanya daripada falsafah arcane kepada teori konspirasi moden. Gunakan kemahiran ini untuk merealisasikan kepentingan simbol alkimia atau astrologi, mengenal pasti tradisi sihir mana yang mencipta ruang kerja ritual, mengetahui nama roh yang berkuasa, atau mengenal pasti puak rahsia yang berkonspirasi untuk memanipulasi situasi.
+> **Okultisme:** Pengetahuan tentang sihir, legenda yang tidak jelas, dan apa yang dipanggil 'sejarah rahsia' yang merangkumi segala-galanya daripada falsafah mistik kepada teori konspirasi moden. Gunakan kemahiran ini untuk menyedari kepentingan simbol alkimia atau astrologi, mengenal pasti tradisi sihir mana yang mencipta ruang kerja ritual, mengetahui nama roh yang berkuasa, atau mengenal pasti puak rahsia yang berpakat untuk memanipulasi situasi.
 > 
-> **Falsafah:** Kajian kewujudan dan maknanya, daripada logik asas kepada eksistensialisme, nihilisme, dan seterusnya. Gunakan kemahiran ini untuk mengingati ajaran falsafah tertentu, mengenal pasti kecenderungan falsafah hujah pengarang atau penceramah, dan terlibat dalam perdebatan falsafah.
+> **Falsafah:** Kajian tentang kewujudan dan maknanya, daripada logik asas kepada eksistensialisme, nihilisme, dan seterusnya. Gunakan kemahiran ini untuk mengingati ajaran sesuatu falsafah, mengenal pasti kecenderungan falsafah hujah pengarang atau penceramah, dan untuk terlibat dalam perdebatan falsafah.
 > 
-> **Politik:** Kajian dan pengetahuan tentang sistem politik atau cara tadbir urus lain yang dikenakan ke atas atau dipilih oleh warganegara. Gunakan kemahiran ini untuk memahami blok kuasa utama di sesuatu kawasan, cara mempengaruhi struktur politik, dan cara warganegara akan bertindak balas terhadap perubahan atau pengaruh politik.
+> **Politik:** Kajian dan pengetahuan tentang sistem politik atau cara tadbir urus lain yang dikenakan ke atas atau dipilih oleh rakyat. Gunakan kemahiran ini untuk memahami blok kuasa utama di sesuatu kawasan, cara mempengaruhi struktur politik, dan cara rakyat akan bertindak balas terhadap perubahan atau pengaruh politik.
 > 
-> **Wilayah/Sub-kepakaran:** Maklumat umum tentang bandar, wilayah, atau negara tertentu, termasuk orang penting, tanda tempat tempatan, dan sejarah wilayah. Gunakan kemahiran ini untuk mencari penginapan murah di bandar yang sibuk, mengingati rumah penginapan tepi jalan terbaik di wilayah itu, memahami politik tempatan, atau mencari pedagang atau tukang tertentu.
+> **Wilayah/Sub-kepakaran:** Maklumat umum tentang bandar, wilayah, atau negara tertentu, termasuk orang penting, mercu tanda tempatan, dan sejarah wilayah. Gunakan kemahiran ini untuk mencari penginapan murah di bandar yang sibuk, mengingati rumah tumpangan tepi jalan yang terbaik di wilayah tersebut, memahami politik tempatan, atau mencari pedagang atau tukang tertentu.
 > 
-> **Agama/Sub-kepakaran:** Butiran mitos, liturgi, dan amalan agama tertentu. Gunakan kemahiran ini untuk mengelakkan melanggar pantang larang, mengingati undang-undang dan kewajipan iman, berjaya membahaskan perkara teologi, mengenal pasti regalia atau teks agama, memisahkan ortodoks daripada bidaah, atau mengetuai upacara keagamaan dengan betul.
+> **Agama/Sub-kepakaran:** Butiran mitos, liturgi, dan amalan sesuatu agama tertentu. Gunakan kemahiran ini untuk mengelakkan daripada melanggar pantang larang, mengingati undang-undang dan kewajipan sesuatu kepercayaan, berdebat tentang perkara teologi dengan jayanya, mengenal pasti regalia atau teks agama, memisahkan ortodoks daripada bidaah, atau memimpin upacara keagamaan dengan betul.
 > 
-> **Streetwise:** Pengetahuan tentang segmen masyarakat yang lebih teduh, daripada protokol orang miskin kepada cara dunia bawah tanah jenayah. Gunakan kemahiran ini untuk mencari rumah selamat, mengenal pasti pagar untuk barang curian, atau mengetahui siapa yang perlu diminta untuk bantuan separa undang-undang atau haram yang lain.
+> **Jalanan (Streetwise):** Pengetahuan tentang segmen masyarakat yang lebih gelap, daripada protokol golongan miskin hinggalah kepada cara dunia jenayah. Gunakan kemahiran ini untuk mencari rumah selamat, mengenal pasti penjual barang curi, atau mengetahui siapa yang perlu diminta bantuan yang bersifat separa undang-undang atau haram.
 
 ### Bahasa (pelbagai)
 
-**Peluang Asas:** INT×5 (atau EDUx5) atau 00% (lihat di bawah)
+**Peluang Asas:** KEC×5 (atau EDUx5) atau 00% (lihat di bawah)
 
 **Kategori:** Komunikasi
 
-Keupayaan untuk berkomunikasi secara lisan dalam bahasa, sama ada bahasa ibunda sendiri atau bahasa lain. Bahasa lain boleh dipelajari di rumah, sekolah, gereja, di tempat kerja, atau di jalanan, bergantung pada budaya dan didikan. Kebanyakan watak bermula dengan mengetahui bahasa mereka sendiri pada INT×5. Watak dwibahasa mesti telah membelanjakan mata kemahiran pada kemahiran bahasa yang lain. Perbualan harian dalam Bahasa sendiri adalah Automatik dan tidak memerlukan lemparan kemahiran. Lemparan kemahiran hanya diperlukan apabila berkomunikasi dengan konsep yang sukar atau dalam keadaan yang sukar dan luar biasa, seperti menterjemah. Kemahiran ini merangkumi komunikasi lisan—membaca dan menulis menggunakan Literasi. Fumble bermakna salah faham yang dahsyat, manakala kejayaan menghasilkan komunikasi yang lancar dan kadangkala fasih.
+Keupayaan untuk berkomunikasi secara lisan dalam sesuatu bahasa, sama ada bahasa ibunda seseorang atau bahasa lain. Bahasa lain boleh dipelajari di rumah, sekolah, gereja, di tempat kerja, atau di jalanan, bergantung kepada budaya dan asuhan. Kebanyakan watak bermula dengan mengetahui bahasa mereka sendiri pada KEC×5. Watak dwibahasa mestilah telah membelanjakan mata kemahiran pada kemahiran bahasa lain. Perbualan seharian dalam Bahasa sendiri adalah Automatik dan tidak memerlukan lemparan kemahiran. Lemparan kemahiran hanya diperlukan apabila menyampaikan konsep yang sukar atau dalam situasi yang sukar dan luar biasa, seperti menterjemah. Kemahiran ini merangkumi komunikasi lisan—membaca dan menulis menggunakan Literasi. Kegagalan kritikal bermakna salah faham yang membawa bencana, manakala kejayaan menghasilkan komunikasi yang lancar dan kadangkala petah.
 
-**Kepakaran:** Per bahasa. Setiap kepakaran terpakai kepada satu bahasa; jika anda ingin watak anda mempelajari bahasa tambahan, mereka mesti membina kemahiran Bahasa tambahan.
+**Kepakaran:** Mengikut bahasa. Setiap kepakaran digunakan untuk satu bahasa; jika anda mahu watak anda mempelajari bahasa tambahan, mereka mesti membina kemahiran Bahasa tambahan.
 
-**Nota Sistem:** Jika peraturan pilihan EDU digunakan, pilih yang lebih tinggi daripada INT×5 atau EDU×5 untuk peluang asas. Memahami dialek kabur atau varieti kuno sesuatu bahasa adalah Sukar. Dokumen atau perbualan yang kompleks atau panjang dengan beberapa titik penting mungkin memerlukan beberapa lemparan bahasa untuk difahami, satu untuk setiap titik. Lihat jadual **Kelancaran Bahasa** untuk butiran tentang cara penilaian kemahiran memberi kesan kepada komunikasi dan kelancaran.
+**Nota Sistem:** Jika peraturan pilihan EDU digunakan, pilih nilai yang lebih tinggi antara KEC×5 atau EDU×5 untuk peluang asas. Memahami dialek yang tidak jelas atau jenis bahasa purba adalah Sukar. Dokumen atau perbualan yang kompleks atau panjang dengan beberapa perkara penting mungkin memerlukan beberapa lemparan bahasa untuk difahami, satu bagi setiap perkara. Lihat jadual **Kelancaran Bahasa** untuk butiran tentang bagaimana penarafan kemahiran memberi kesan kepada komunikasi dan kelancaran.
 
 ##### Kelancaran Bahasa
 
-| Penilaian Kemahiran | Kelancaran |
+| Penarafan Kemahiran | Kelancaran |
 | :---- | :---- |
-| 01–05 | Tahu hanya beberapa dozen perkataan, boleh mengira hingga 10. Mungkin hanya berkomunikasi idea mudah. Komunikasi kompleks (Tawar-menawar, Memujuk, dll.) tidak mungkin dilakukan. Sebagai contoh, “Makanan. Sila jual saya.” |
-| 6–25 | Menyampaikan permintaan mudah, cukup untuk difahami dan terus hidup dari hari ke hari. Komunikasi kompleks (Tawar-menawar, Memujuk, dll.) adalah Sukar. Sebagai contoh, “Berapa wang untuk paha kambing ini?” |
-| 26–50 | Komunikasi terjamin. Penutur boleh bercakap lebih baik daripada kanak-kanak, menyampaikan kebanyakan idea. Kemahiran komunikasi tidak terhad, tetapi tindakan tertentu mungkin masih Sukar. Sebagai contoh, “Berapa? Tapi kambing ini jauh lebih murah semalam!” |
-| 51–75 | Membolehkan penutur menceritakan kisah, saga, lagu, dll. Idiom dan jenaka menjadi boleh diakses. Boleh menyamar sebagai orang tempatan. Komunikasi kompleks kini dilontar pada pangkat kemahiran penuh penutur. Sebagai contoh, “Lihat potongan ini! Kambing itu sudah busuk sebelum disembelih dan jelas tidak berbaloi dengan peluh buruh yang membawanya ke sini.” |
-| 76–00 | Bahasa penyair, ahli falsafah, saintis, dan diplomat. Bukan sahaja penutur boleh menyamar sebagai orang tempatan, tetapi mereka juga boleh meniru satu atau lebih dialek tempatan. Jargon dan bentuk pertuturan yang kabur datang dengan mudah. Sebagai contoh, “Sudah tentu penilaian spesimen provender ini boleh dinilai semula berdasarkan keadaan penguraiannya yang maju.” |
+| 01–05 | Hanya tahu beberapa dozen perkataan, boleh mengira hingga 10. Mungkin hanya boleh menyampaikan idea mudah. Komunikasi kompleks (Tawar-menawar, Memujuk, dll.) tidak mungkin dilakukan. Contohnya, "Makanan. Tolong jual saya." |
+| 6–25 | Dapat menyampaikan permintaan mudah, cukup untuk difahami dan meneruskan kehidupan seharian. Komunikasi kompleks (Tawar-menawar, Memujuk, dll.) adalah Sukar. Contohnya, "Berapa harganya untuk paha kambing ini?" |
+| 26–50 | Komunikasi terjamin. Penutur boleh bercakap lebih baik daripada kanak-kanak, menyampaikan kebanyakan idea. Kemahiran komunikasi tidak terhad, tetapi tindakan tertentu mungkin masih Sukar. Contohnya, "Berapa? Tapi kambing ini jauh lebih murah semalam!" |
+| 51–75 | Membolehkan penutur bercerita, menyampaikan saga, lagu, dll. Simpulan bahasa dan jenaka menjadi boleh diakses. Boleh menyamar sebagai orang tempatan. Komunikasi kompleks kini dilempar pada penarafan kemahiran penuh penutur. Contohnya, "Lihat potongan ini! Kambing itu sudah busuk sebelum disembelih dan jelas tidak berbaloi dengan peluh buruh yang membawanya ke sini." |
+| 76–00 | Bahasa penyair, ahli falsafah, saintis, dan diplomat. Penutur bukan sahaja boleh menyamar sebagai orang tempatan, malah mereka juga boleh meniru satu atau lebih dialek tempatan. Jargon dan bentuk pertuturan yang tidak jelas datang dengan mudah. Contohnya, "Pastinya penilaian spesimen makanan ini boleh dinilai semula memandangkan tahap pereputannya yang sudah lanjut." |
 
 ### Mendengar
 
@@ -679,9 +673,9 @@ Keupayaan untuk berkomunikasi secara lisan dalam bahasa, sama ada bahasa ibunda 
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk mendengar, mentafsir, dan memahami bunyi, sama ada gumaman di sebalik pintu tertutup, bisikan rahsia, langkah kaki yang curi-curi, dan ranting yang patah. Gunakan kemahiran ini untuk melihat sama ada bunyi mengejutkan watak yang sedang tidur, atau untuk melihat sama ada mereka boleh mengenali bunyi atau suara tertentu. Julat biasa untuk mendengar suara manusia bercakap pada volum sopan ialah 15 meter—suara yang lebih kuat membawa lebih jauh, dan suara yang lebih perlahan mempunyai julat yang lebih pendek. Fumble bermakna salah faham atau kejahilan lengkap terhadap bunyi, manakala kejayaan menghasilkan kesedaran dan maklumat tentang sumbernya.
+Gunakan kemahiran ini untuk mendengar, mentafsir, dan memahami bunyi, sama ada bisikan di sebalik pintu tertutup, bisikan yang curi-curi, langkah kaki yang senyap, dan ranting yang patah. Gunakan kemahiran ini untuk melihat sama ada bunyi mengejutkan watak yang sedang tidur, atau untuk melihat sama ada mereka boleh mengenali bunyi atau suara tertentu. Julat biasa untuk mendengar suara Manusia yang bercakap pada kelantangan yang sopan ialah 15 meter—suara yang lebih kuat membawa lebih jauh, dan yang lebih perlahan mempunyai julat yang lebih pendek. Kegagalan kritikal bermakna salah faham atau tidak menyedari langsung sesuatu bunyi, manakala kejayaan menghasilkan kesedaran dan maklumat tentang sumbernya.
 
-**Nota Sistem:** Mendengar adalah kemahiran aktif dan pasif: watak anda boleh mencuba untuk Mendengar bunyi yang mencurigakan, atau gamemaster boleh meminta lemparan Mendengar apabila sesuai. Bertentangan dengan Mendengar dengan Stealth untuk menyelesaikan percubaan untuk menyelinap melepasi pendengar yang berwaspada atau tidak berwaspada. Gamemaster boleh memilih untuk membuat lemparan Mendengar secara rahsia dan memaklumkan anda tentang hasilnya, untuk mengelakkan daripada memberikan apa-apa jika lemparan gagal.
+**Nota Sistem:** Mendengar adalah kemahiran aktif dan pasif: watak anda boleh cuba Mendengar bunyi yang mencurigakan, atau pengurus permainan boleh meminta lemparan Mendengar apabila sesuai. Lawan Mendengar dengan Senyap untuk menyelesaikan percubaan untuk menyelinap melepasi pendengar yang berwaspada atau tidak berwaspada. Pengurus permainan mungkin memilih untuk membuat lemparan Mendengar secara rahsia dan memaklumkan anda tentang keputusannya, untuk mengelakkan daripada mendedahkan apa-apa jika lemparan itu gagal.
 
 ### Literasi (pelbagai)
 
@@ -689,11 +683,11 @@ Gunakan kemahiran ini untuk mendengar, mentafsir, dan memahami bunyi, sama ada g
 
 **Kategori:** Mental
 
-Keupayaan untuk membaca dan menulis dianggap remeh dalam era moden: dalam zaman sebelumnya, membaca dan menulis adalah hasil pendidikan elit dan tanda perbezaan atau status. Dalam masyarakat moden, peluang asas untuk Literasi adalah sama dengan Bahasa (Sendiri) atau (Lain) watak anda melainkan dikehendaki sebaliknya. Fumble bermakna salah faham yang dahsyat, kegagalan bermakna makna hilang, kejayaan menghasilkan maklumat kritikal atau nuansa, bahkan kemasyhuran untuk kerja yang dihasilkan.
+Keupayaan untuk membaca dan menulis dianggap remeh pada era moden: pada zaman sebelumnya, membaca dan menulis adalah produk pendidikan elit dan tanda perbezaan atau status. Dalam masyarakat moden, peluang asas untuk Literasi adalah sama dengan Bahasa (Sendiri) atau (Lain) asas watak melainkan diingini sebaliknya. Kegagalan kritikal bermakna salah faham yang membawa bencana, kegagalan bermakna makna hilang, kejayaan menghasilkan maklumat atau nuansa penting, malah kemasyhuran untuk karya yang dihasilkan.
 
-**Kepakaran:** Per bahasa. Setiap kepakaran terpakai kepada bahasa bertulis tunggal; bahasa tambahan adalah kepakaran Literasi yang berasingan. Dalam masyarakat moden, Literasi sentiasa sama dengan kemahiran Bahasa anda.
+**Kepakaran:** Mengikut bahasa. Setiap kepakaran digunakan untuk satu bahasa bertulis; bahasa tambahan adalah kepakaran Literasi yang berasingan. Dalam masyarakat moden, Literasi sentiasa sama dengan kemahiran Bahasa anda.
 
-**Nota Sistem:** Memahami dialek kabur atau varieti kuno bahasa bertulis adalah Sukar. Dokumen kompleks atau panjang (seperti buku) dengan beberapa titik penting mungkin memerlukan beberapa lemparan Literasi, satu untuk setiap titik.
+**Nota Sistem:** Memahami dialek yang tidak jelas atau jenis bahasa bertulis purba adalah Sukar. Dokumen atau perbualan yang kompleks atau panjang (seperti buku) dengan beberapa perkara penting mungkin memerlukan beberapa lemparan Literasi, satu bagi setiap perkara.
 
 ### Seni Mempertahankan Diri
 
@@ -701,25 +695,25 @@ Keupayaan untuk membaca dan menulis dianggap remeh dalam era moden: dalam zaman 
 
 **Kategori:** Tempur
 
-Ini mewakili kajian dan penguasaan gaya perjuangan tertentu. Gunakan kemahiran ini untuk membuat gerakan dan serangan khusus yang menyebabkan kerosakan maksimum kepada sasaran. Seni Mempertahankan Diri sentiasa digunakan dalam kombinasi dengan kemahiran lain: Berbual, Senjata Jarak Dekat, Senjata Peluru, atau Bergusti, mengikut kesesuaian. Kemahiran ini tidak perlu untuk membuat serangan tersebut—ia mewakili tahap latihan yang lebih tinggi yang membolehkan keberkesanan yang lebih besar.
+Ini mewakili kajian dan penguasaan gaya bertarung tertentu. Gunakan kemahiran ini untuk melakukan pergerakan dan serangan tertentu yang menyebabkan kerosakan maksimum kepada sasaran. Seni Mempertahankan Diri sentiasa digunakan dalam kombinasi dengan kemahiran lain: Brawel, Senjata Jarak Dekat, Senjata Jarak Jauh, atau Gusti, mengikut kesesuaian. Kemahiran ini tidak perlu untuk melakukan serangan tersebut—ia mewakili tahap latihan yang lebih tinggi yang membolehkan keberkesanan yang lebih besar.
 
-**Kepakaran:** Mengikut tradisi seni mempertahankan diri: tinju, capoeira, escrima, pagar, jeet kun do, karate, kenjutsu, kickboxing, kung fu, kyujutsu, pugilisme, savate, dll. Gamemaster boleh mengehadkan jenis kemahiran tempur yang boleh dipasangkan dengan Seni Mempertahankan Diri, seperti hanya membenarkan Senjata Peluru (Busur) dengan kyujutsu, contohnya.
+**Kepakaran:** Mengikut tradisi seni mempertahankan diri: tinju, capoeira, escrima, lawan pedang, jeet kun do, karate, kenjutsu, kickboxing, kung fu, kyujutsu, pugilism, savate, dll. Pengurus permainan boleh mengehadkan jenis kemahiran tempur yang boleh dipadankan dengan Seni Mempertahankan Diri, contohnya hanya membenarkan Senjata Jarak Jauh (Busur) dengan kyujutsu.
 
-**Kesan:** Seni Mempertahankan Diri tidak dilontar secara berasingan apabila membuat serangan. Melontar terhadap kemahiran utama dan bandingkan hasil dengan kemahiran Seni Mempertahankan Diri. Hasil mempunyai kesan ini:
+**Kesan:** Seni Mempertahankan Diri tidak dilempar secara berasingan apabila membuat serangan. Lempar terhadap kemahiran utama dan bandingkan keputusan dengan kemahiran Seni Mempertahankan Diri. Keputusan mempunyai kesan ini:
 
-* **Fumble:** Gunakan hasil fumble yang sesuai (lihat jadual serangan dan fumble dalam Bab Enam: Tempur).
-* **Kegagalan:** Jika hasil yang dilontar berada di atas penilaian kemahiran Seni Mempertahankan Diri tetapi masih sama dengan atau di bawah kemahiran tempur, serangan terkena secara normal. Serangan yang dilontar di atas kemahiran tempur tersasar, tanpa mengira penilaian kemahiran Seni Mempertahankan Diri.
-* **Kejayaan:** Jika hasil yang dilontar kurang daripada atau sama dengan kedua-dua Seni Mempertahankan Diri dan kemahiran tempur, lontar untuk kerosakan asas dua kali dan jumlahkan hasilnya. Pengubah suai kerosakan watak anda tidak pernah digandakan.
-* **Khas:** Seperti di atas. Untuk kejayaan khas, lontaran kerosakan asas tambahan ditambah kepada kesan hasil khas kemahiran tempur, jika ada.
-* **Kritikal:** Seperti di atas. Jika lemparan tempur adalah kejayaan kritikal, perlindungan perisai sasaran (semula jadi atau dipakai) diabaikan, dan lontaran kerosakan asas tambahan ditambah kepada kesan hasil khas kemahiran tempur, jika ada.
+* **Kegagalan Kritikal (*Fumble*):** Gunakan keputusan kegagalan kritikal yang sesuai (lihat jadual serangan dan kegagalan kritikal dalam Bab Enam: Tempur).
+* **Kegagalan:** Jika keputusan yang dilempar adalah di atas penarafan kemahiran Seni Mempertahankan Diri tetapi masih sama dengan atau di bawah kemahiran tempur, serangan itu terkena secara normal. Serangan yang dilempar di atas kemahiran tempur terlepas, tanpa mengira penarafan kemahiran Seni Mempertahankan Diri.
+* **Kejayaan:** Jika keputusan yang dilempar kurang daripada atau sama dengan kedua-dua Seni Mempertahankan Diri dan kemahiran tempur, lempar untuk kerosakan asas sebanyak dua kali ganda dan jumlahkan keputusan tersebut. Pengubah kerosakan watak anda tidak pernah digandakan.
+* **Istimewa:** Seperti di atas. Untuk kejayaan istimewa, lemparan kerosakan asas tambahan ditambah kepada kesan keputusan istimewa kemahiran tempur, jika ada.
+* **Kritikal:** Seperti di atas. Jika lemparan tempur adalah kejayaan kritikal, perlindungan perisai sasaran (semula jadi atau yang dipakai) diabaikan, dan lemparan kerosakan asas tambahan ditambah kepada kesan keputusan istimewa kemahiran tempur, jika ada.
 
-**Nota Sistem:** Kemahiran Seni Mempertahankan Diri berfungsi bersama dengan satu lagi kemahiran tempur, dan biasanya dengan julat kepakaran yang sempit untuk kemahiran tersebut. Kuasa ini boleh digunakan bersama mutasi Senjata Semula Jadi dan kuasa Tempur Tanpa Senjata.
+**Nota Sistem:** Kemahiran Seni Mempertahankan Diri berfungsi bersama dengan satu lagi kemahiran tempur, dan biasanya dengan julat kepakaran yang sempit untuk kemahiran tersebut. Kuasa ini boleh digunakan bersama dengan mutasi Senjata Semula Jadi dan kuasa Tempur Tanpa Senjata.
 
-Jika berbilang serangan dibuat dalam pusingan, penyerang mesti memperuntukkan kemahiran Seni Mempertahankan Diri dengan sewajarnya, membahagikannya mengikut kehendak antara berbilang serangan, atau mengaplikasikannya hanya kepada serangan tunggal.
+Jika berbilang serangan dilakukan dalam satu pusingan, penyerang mesti memperuntukkan kemahiran Seni Mempertahankan Diri dengan sewajarnya, membahagikannya mengikut keinginan antara berbilang serangan tersebut, atau mengaplikasikannya hanya pada satu serangan.
 
-Sebagai contoh, *jika watak anda mempunyai Berbual 120% dan Seni Mempertahankan Diri 46%, dan sedang membuat dua serangan pada 60% dalam pusingan, anda mesti memilih untuk membahagikan kemahiran Seni Mempertahankan Diri antara dua serangan ini (23% setiap satu, atau beberapa kombinasi yang berjumlah 46%), atau memilih untuk membiarkannya terpakai hanya kepada salah satu serangan.*
+Contohnya, *jika watak anda mempunyai Brawel 120% dan Seni Mempertahankan Diri 46%, dan sedang melakukan dua serangan pada 60% dalam satu pusingan, anda mesti memilih untuk membahagikan kemahiran Seni Mempertahankan Diri antara dua serangan ini (23% setiap satu, atau beberapa kombinasi yang berjumlah 46%), atau memilih untuk mengaplikasikannya pada hanya satu daripada serangan tersebut.*
 
-Disebabkan kuasa relatifnya, gamemaster mungkin memutuskan bahawa penilaian kemahiran awal dalam kemahiran ini dihadkan, bahawa peningkatan kepada kemahiran ini mungkin dihadkan kepada latihan dan bukannya pengalaman biasa, bahawa latihan mungkin sangat sukar diperoleh, atau ketiga-tiga keadaan ini.
+Disebabkan kuasanya yang relatif, pengurus permainan boleh menetapkan bahawa penarafan kemahiran awal dalam kemahiran ini dihadkan, bahawa peningkatan kepada kemahiran ini mungkin dihadkan kepada latihan dan bukannya pengalaman biasa, bahawa latihan mungkin sangat sukar diperolehi, atau ketiga-tiga syarat ini.
 
 ### Perubatan
 
@@ -729,19 +723,19 @@ Disebabkan kuasa relatifnya, gamemaster mungkin memutuskan bahawa penilaian kema
 
 Gunakan kemahiran ini untuk mendiagnosis dan merawat kecederaan serius, merawat penyakit, menangani keracunan, dan membuat cadangan kesihatan umum, serta melakukan pembedahan dan menasihati penjagaan jangka panjang untuk keadaan kesihatan kronik.
 
-**Kesan:** Perubatan mempunyai hasil khusus:
+**Kesan:** Perubatan mempunyai keputusan khusus:
 
-* **Fumble:** Pesakit mengambil 1 mata nyawa umum (untuk kecederaan) semasa merawat kecederaan, atau kehilangan mata ciri (untuk racun atau penyakit), dan keadaan mereka kekal tidak berubah.
+* **Kegagalan Kritikal (*Fumble*):** Pesakit mengambil 1 mata nyawa umum (untuk kecederaan) semasa merawat kecederaan, atau kehilangan mata ciri (untuk racun atau penyakit), dan keadaan mereka kekal tidak berubah.
 * **Kegagalan:** Keadaan pesakit tidak berubah, dan percubaan kedua hanya boleh dilakukan pada hari berikutnya.
-* **Kejayaan:** Pilih salah satu daripada kesan berikut (pilihan pemain):
-  * Sebarang kesan lemparan Pertolongan Cemas yang berjaya.
-  * Kadar penyembuhan pesakit berganda daripada 1D3 kepada 2D3 mata nyawa seminggu.
-  * Kerosakan ciri atau mata nyawa yang berterusan daripada racun atau penyakit dihentikan.
-  * Watak yang diracuni atau sakit distabilkan dan pulih 1D3–1 mata nyawa atau mata ciri seminggu. Hasil ini hanya boleh dipilih sekali setiap minggu rawatan.
-* **Khas:** Seperti di atas, tetapi kecederaan disembuhkan sebanyak 2D3 mata nyawa, atau 1D3 mata ciri dipulihkan.
+* **Kejayaan:** Pilih satu daripada kesan berikut (pilihan pemain):
+    * Sebarang kesan lemparan Pertolongan Cemas yang berjaya.
+    * Kadar penyembuhan pesakit berganda daripada 1D3 kepada 2D3 mata nyawa seminggu.
+    * Kerosakan mata ciri atau mata nyawa yang berterusan akibat racun atau penyakit dihentikan.
+    * Watak yang diracun atau berpenyakit distabilkan dan pulih 1D3–1 mata nyawa atau mata ciri seminggu. Keputusan ini hanya boleh dipilih sekali bagi setiap minggu rawatan.
+* **Istimewa:** Seperti di atas, tetapi kecederaan disembuhkan sebanyak 2D3 mata nyawa, atau 1D3 mata ciri dipulihkan.
 * **Kritikal:** Seperti di atas, tetapi luka atau kecederaan disembuhkan sebanyak 1D3+3 mata nyawa, atau 1D3+1 mata ciri dipulihkan.
 
-**Nota Sistem:** Setiap penggunaan Perubatan terpakai kepada satu penyakit: sebaik sahaja ia dirawat dan sembuh sepenuhnya, lemparan Perubatan yang berjaya tambahan tidak mempunyai kesan. Luka atau penyakit lain, walau bagaimanapun, boleh dirawat. Keadaan tidak selamat atau tidak bersih mungkin menjadikan lemparan Perubatan Sukar. Peralatan atau ubat khas mungkin menambah sehingga +20% kepada penilaian kemahiran, manakala teknologi perubatan futuristik (kulit semburan tiruan, pengimbas perubatan, penyembuh nanotech) menjadikan lemparan Perubatan Mudah. Merawat penyakit biasa dan tidak mengancam nyawa adalah Automatik.
+**Nota Sistem:** Setiap penggunaan Perubatan digunakan untuk satu penyakit: sebaik sahaja ia telah dirawat dan disembuhkan sepenuhnya, lemparan Perubatan yang berjaya tambahan tidak mempunyai kesan. Walau bagaimanapun, luka atau penyakit lain boleh dirawat. Keadaan yang tidak selamat atau tidak bersih mungkin menjadikan lemparan Perubatan Sukar. Peralatan atau ubat khas mungkin menambah sehingga +20% kepada penarafan kemahiran, manakala teknologi perubatan futuristik (kulit semburan tiruan, pengimbas perubatan, penyembuh nanotek) menjadikan lemparan Perubatan Mudah. Merawat penyakit biasa yang tidak mengancam nyawa adalah Automatik.
 
 ### Senjata Jarak Dekat (pelbagai)
 
@@ -749,27 +743,25 @@ Gunakan kemahiran ini untuk mendiagnosis dan merawat kecederaan serius, merawat 
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk menggunakan jenis senjata tertentu dalam tempur tangan-ke-tangan, sama ada menyerang atau memarri.
+Gunakan kemahiran ini untuk mengendalikan jenis senjata tertentu dalam tempur jarak dekat, sama ada menyerang atau menangkis.
 
-**Kepakaran:** Kepakaran adalah setara dengan kelas senjata. Lihat **Kelas Senjata** Bab Lapan: Peralatan. Setiap kepakaran terpakai kepada senjata daripada kategori senjata itu sahaja: tetapi gamemaster mungkin membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat pemeriksaan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penilaian tersebut, ditambah pengalaman yang diperoleh.
+**Kepakaran:** Kepakaran adalah setara dengan kelas senjata. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan. Setiap kepakaran digunakan untuk senjata daripada kategori senjata itu sahaja: tetapi pengurus permainan mungkin membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat semakan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penarafan itu, ditambah pengalaman yang diperoleh.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Serangan Senjata Jarak Dekat** dan **Jadual Fumble Parri Senjata Jarak Dekat** dalam Bab Enam: Tempur untuk kesan khusus.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Kegagalan Kritikal Serangan Senjata Jarak Dekat** serta **Jadual Kegagalan Kritikal Tangkisan Senjata Jarak Dekat** dalam Bab Enam: Tempur untuk kesan khusus.
 
-**Nota Sistem:** Watak anda boleh mencuba lebih daripada satu parri setiap pusingan, tetapi setiap lemparan selepas yang pertama dibuat pada –30% terkumpul. Atas budi bicara gamemaster, watak anda boleh menggunakan senjata daripada kategori senjata yang berkaitan atau serupa, dengan lemparan menjadi Sukar.
-
-### Senjata Peluru (pelbagai)
+**Nota Sistem:** Watak anda boleh mencuba lebih daripada satu tangkisan setiap pusingan, tetapi setiap lemparan selepas yang pertama dibuat pada –30% kumulatif. Atas budi bicara pengurus permainan, watak anda boleh mengendalikan senjata daripada kategori senjata yang berkaitan atau serupa, dengan lemparan tersebut menjadi Sukar.### Senjata Jarak Jauh (pelbagai)
 
 **Peluang Asas:** Mengikut kepakaran senjata
 
 **Kategori:** Tempur
 
-Gunakan ini untuk menggunakan sebarang senjata peluru gerak sendiri yang dipegang tangan seperti busur, busur silang, kapak lontar, lembing, bintang lontar, lembing, sumpit, pistol lembing, atau bahkan bumerang. Untuk bom tangan, gunakan Melontar.
+Gunakan ini untuk mengendalikan sebarang senjata jarak jauh yang digerakkan sendiri yang dipegang tangan seperti busur, busur silang, kapak lempar, lembing, bintang lempar, javelin, sumpit, meriam lembing, atau pun bumerang. Untuk bom tangan, gunakan Lempar.
 
-**Kepakaran:** Kepakaran adalah setara dengan kelas senjata. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan. Setiap kepakaran terpakai kepada senjata daripada kategori senjata itu sahaja: tetapi gamemaster mungkin membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat pemeriksaan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penilaian tersebut, ditambah pengalaman yang diperoleh.
+**Kepakaran:** Kepakaran adalah setara dengan kelas senjata. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan. Setiap kepakaran hanya terpakai untuk senjata daripada kategori senjata tersebut sahaja: tetapi gamemaster boleh membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat semakan pengalaman. Jika gulungan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penarafan tersebut, ditambah dengan pengalaman yang diperoleh.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Senjata Peluru** untuk kesan khusus. Anak panah dan senjata tajam biasanya menembusi. Jika anda ingin tahu ke mana serangan senjata peluru yang tersasar pergi, lihat kemahiran Melontar.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Gagal Senjata Jarak Jauh** untuk kesan khusus. Anak panah dan senjata tajam biasanya menembus. Jika anda ingin mengetahui ke mana serangan senjata jarak jauh yang tersasar pergi, lihat kemahiran Lempar.
 
-**Nota Sistem:** Semua senjata peluru mempunyai STR dan DEX minimum yang diperlukan untuk menggunakan senjata tersebut, seperti yang disenaraikan dalam Bab Lapan: Peralatan. Biasanya, pengubah suai kerosakan penyerang dibahagi dua untuk senjata peluru, dan untuk senjata yang sepenuhnya gerak sendiri (sumpit, busur silang, dll.), pengubah suai kerosakan tidak digunakan. Senjata Peluru boleh digunakan untuk serangan yang disasarkan.
+**Nota Sistem:** Semua senjata jarak jauh mempunyai keperluan KEK dan KTG minimum untuk menggunakan senjata tersebut, seperti yang disenaraikan dalam Bab Lapan: Peralatan. Biasanya, pengubah suai kerosakan penyerang dibahagikan dua untuk senjata jarak jauh, dan untuk senjata yang digerakkan sendiri sepenuhnya (sumpit, busur silang, dsb.), pengubah suai kerosakan tidak digunakan. Senjata Jarak Jauh boleh digunakan untuk serangan yang disasarkan.
 
 ### Navigasi
 
@@ -777,23 +769,23 @@ Gunakan ini untuk menggunakan sebarang senjata peluru gerak sendiri yang dipegan
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk mencari jalan ke destinasi sama ada dengan kompas, carta laut, bintang, atau hanya menggunakan persepsi, ingatan, dan gerak hati sebagai panduan. Fumble bermakna seseorang tersesat tanpa harapan dan lemparan susulan oleh sesiapa sahaja untuk tidak tersesat adalah *Sukar*. Kegagalan bermakna kelewatan dan kadar perjalanan yang perlahan, manakala kejayaan bermakna mencari jalan dengan berkesan dan bahkan membuat kemajuan yang lebih baik daripada jangkaan.
+Gunakan kemahiran ini untuk mencari jalan ke sesuatu destinasi sama ada dengan kompas, carta laut, bintang, atau sekadar menggunakan persepsi, ingatan, dan gerak hati sebagai panduan. Gagal (fumble) bermakna seseorang itu sesat tanpa harapan dan gulungan seterusnya oleh sesiapa sahaja untuk tidak lagi sesat adalah *Sukar*. Kegagalan bermakna kelewatan dan kadar perjalanan yang perlahan, manakala kejayaan bermakna mencari jalan dengan berkesan dan malah membuat kemajuan yang lebih baik daripada yang dijangkakan.
 
-**Nota Sistem:** Cuba lemparan kemahiran Navigasi setiap empat jam perjalanan yang berterusan. Penggunaan peta atau kompas boleh meningkatkan pangkat kemahiran sehingga +20%. Bernavigasi dalam landskap tanpa ciri (di laut, dalam kegelapan atau cuaca buruk, di padang pasir, atau di hutan tebal) tanpa instrumen atau peta adalah Sukar. Alat bantu navigasi canggih (teknologi perkhidmatan kedudukan global, dll.) atau kebiasaan dengan kawasan tersebut menjadikan percubaan Navigasi Mudah.
+**Nota Sistem:** Lakukan gulungan kemahiran Navigasi setiap empat jam perjalanan yang berterusan. Penggunaan peta atau kompas boleh meningkatkan penarafan kemahiran sehingga +20%. Bernavigasi di landskap tanpa ciri (di laut, dalam kegelapan atau cuaca buruk, di padang pasir, atau di hutan tebal) tanpa instrumen atau peta adalah Sukar. Bantuan navigasi termaju (teknologi perkhidmatan kedudukan global, dsb.) atau kebiasaan dengan kawasan tersebut menjadikan percubaan Navigasi Mudah.
 
-### Parri
+### Tangkis
 
 **Peluang Asas:** Mengikut kepakaran senjata
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk memesongkan serangan masuk jika tidak ditangani dengan kemahiran lain. Kemahiran ini dilindungi secara terperinci dalam Parri dan Matriks Serangan dan Pertahanan. Gamemaster boleh memutuskan bahawa serangan tertentu tidak boleh diparri, seperti daripada penyerang yang jauh lebih besar (dua kali ganda atau lebih SIZ pertahanan, contohnya) atau apabila penyerang menggunakan serangan kawasan atau sapuan.
+Gunakan kemahiran ini untuk memesongkan serangan masuk jika tidak ditangani dengan kemahiran lain. Kemahiran ini diliputi secara terperinci dalam Tangkis dan Matriks Serangan dan Pertahanan. Gamemaster boleh memutuskan bahawa serangan tertentu tidak boleh ditangkis, seperti daripada penyerang yang jauh lebih besar (dua kali ganda atau lebih SAI pihak yang bertahan, sebagai contoh) atau apabila penyerang menggunakan serangan kawasan atau sapuan.
 
-**Kepakaran:** Kepakaran adalah setara dengan kelas senjata atau perisai. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan. Setiap kepakaran terpakai kepada senjata atau perisai daripada kategori senjata itu sahaja: tetapi gamemaster mungkin membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat pemeriksaan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penilaian tersebut, ditambah pengalaman yang diperoleh.
+**Kepakaran:** Kepakaran adalah setara dengan kelas senjata atau perisai. Lihat **Kelas Senjata** dalam Bab Lapan: Peralatan. Setiap kepakaran hanya terpakai untuk senjata atau perisai daripada kategori senjata tersebut sahaja: tetapi gamemaster boleh membenarkan penggunaan kelas senjata yang serupa seolah-olah Sukar. Jika berjaya, buat semakan pengalaman. Jika gulungan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penarafan tersebut, ditambah dengan pengalaman yang diperoleh.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Parri Senjata Jarak Dekat** dalam Bab Enam: Tempur untuk kesan khusus.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Gagal Tangkis Senjata Jarak Dekat** dalam Bab Enam: Tempur untuk kesan khusus.
 
-**Nota Sistem:** Lebih daripada satu parri boleh dicuba setiap pusingan, tetapi setiap selepas yang pertama adalah pada –30% terkumpul. Kemahiran ini boleh diabaikan memihak kepada menggunakan senjata utama atau kemahiran perisai, jika dikehendaki. Atas budi bicara gamemaster, seseorang boleh memarri dengan senjata atau perisai daripada kategori yang berkaitan atau serupa, dengan lemparan menjadi Sukar.
+**Nota Sistem:** Lebih daripada satu tangkisan boleh dicuba setiap pusingan, tetapi setiap satu selepas yang pertama adalah pada kumulatif –30%. Kemahiran ini boleh diabaikan demi menggunakan kemahiran senjata atau perisai utama, jika mahu. Atas budi bicara gamemaster, seseorang boleh menangkis dengan senjata atau perisai daripada kategori yang berkaitan atau serupa, dengan gulungan menjadi Sukar.
 
 ### Persembahan (pelbagai)
 
@@ -801,11 +793,11 @@ Gunakan kemahiran ini untuk memesongkan serangan masuk jika tidak ditangani deng
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk mempersembahkan muzik, sama ada berlakon, menari, memainkan alat muzik, menyanyi, atau beberapa bentuk ekspresi artistik lain menggunakan persembahan. Fumble adalah penghinaan, kegagalan tidak memberi inspirasi, manakala kejayaan menghasilkan perhatian positif, sorakan, dan mungkin pujian kritikal serta ganjaran kewangan. Jika direkodkan dan diedarkan, ia mungkin terus memberi inspirasi dan memperoleh pendapatan jauh selepas persembahan asal.
+Gunakan kemahiran ini untuk mempersembahkan muzik, sama ada berlakon, menari, bermain instrumen, menyanyi, atau beberapa bentuk ekspresi artistik lain menggunakan persembahan. Gagal (fumble) adalah memalukan, kegagalan tidak memberi inspirasi, manakala kejayaan menghasilkan perhatian positif, sorakan, dan mungkin pujian kritikal serta ganjaran kewangan. Jika dirakam dan diedarkan, ia mungkin terus memberi inspirasi dan memperoleh hasil jauh selepas persembahan asal.
 
-**Kepakaran:** Berlakon, Mengendali Orkestra, Menari, Menyulap, Berucap, Memainkan Alat Muzik (sub-kepakaran), Membaca, Ritual, Menyanyi, dll.
+**Kepakaran:** Berlakon, Mengendali Orkestra, Menari, Menyulap, Berucap, Bermain Instrumen (sub-kepakaran), Mendeklamasi, Ritual, Menyanyi, dsb.
 
-**Nota Sistem:** Penggunaan Persembahan (Ritual) yang berjaya boleh mengaugmen kuasa sihir atau memberikan manfaat tambahan, atas budi bicara gamemaster.
+**Nota Sistem:** Penggunaan berjaya Persembahan (Ritual) boleh menambah kuasa sihir atau memberikan faedah tambahan, mengikut budi bicara gamemaster.
 
 ### Memujuk
 
@@ -813,29 +805,29 @@ Gunakan kemahiran ini untuk mempersembahkan muzik, sama ada berlakon, menari, me
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk meyakinkan seseorang bahawa idea atau kepercayaan tertentu adalah betul, tepat, atau boleh diterima, tanpa mengira pendapat asal mereka (jika ada) sama ada melalui logik Socratic, perdebatan berstruktur, pidato berapi-api, empati, atau intimidasi kasar. Pendengar mungkin dipujuk untuk mengambil tindakan atau mengabulkan permintaan. Seperti Cakap Laju, kebenaran tidak relevan. Tidak seperti Cakap Laju, kesan pemujukan yang berjaya berlangsung selama-lamanya, sehingga lemparan Memujuk lain atau pengalaman dramatik mengubah pendapat subjek. Fumble bermakna subjek mungkin menjadi bermusuhan, memeluk pendapat yang bertentangan dengan yang diingini. Kegagalan tidak meyakinkan. Kejayaan menggoyahkan pendapat mereka, dan kejayaan yang lebih tinggi menghasilkan hasil yang lebih baik.
+Gunakan kemahiran ini untuk meyakinkan seseorang bahawa idea atau kepercayaan tertentu adalah betul, tepat, atau boleh diterima, tanpa mengira pendapat asal mereka (jika ada) sama ada melalui logik Socrates, perbahasan berstruktur, pidato yang berapi-api, empati, atau ugutan kasar. Pendengar mungkin dipujuk untuk mengambil tindakan atau mengabulkan permintaan. Seperti Cakap Laju, kebenaran tidak relevan. Tidak seperti Cakap Laju, kesan pemujukan yang berjaya bertahan selama-lamanya, sehingga gulungan Memujuk yang lain atau pengalaman dramatik mengubah pendapat subjek. Gagal (fumble) bermakna subjek mungkin menjadi bermusuhan, memeluk pendapat yang bertentangan dengan yang diingini. Kegagalan tidak meyakinkan. Kejayaan mengalih pendapat mereka, dan kejayaan cemerlang menghasilkan keputusan yang lebih baik.
 
-**Nota Sistem:** Menggunakan Memujuk merentasi halangan bahasa (jika kedua-dua penutur mempunyai kurang daripada 50% dalam bahasa tersebut) adalah Sukar, begitu juga meyakinkan seseorang tentang sesuatu yang bertentangan dengan personaliti atau kepercayaan teras mereka. Gamemaster boleh memberi ganjaran kepada hujah yang berkesan atau main peranan yang baik dengan bonus sehingga +20%. Bergantung pada keadaan, Memujuk boleh mengambil masa beberapa minit, jam, atau bahkan hari, dan usaha lanjutan mungkin memerlukan beberapa lemparan untuk diselesaikan.
+**Nota Sistem:** Menggunakan Memujuk merentasi halangan bahasa (jika kedua-dua pembicara mempunyai kurang daripada 50% dalam bahasa tersebut) adalah Sukar, begitu juga meyakinkan seseorang tentang sesuatu yang bertentangan dengan keperibadian atau kepercayaan teras mereka. Gamemaster boleh memberi ganjaran kepada hujah yang berkesan atau lakonan yang baik dengan bonus sehingga +20%. Bergantung pada keadaan, Memujuk boleh mengambil masa beberapa minit, jam, atau pun hari, dan usaha berpanjangan mungkin memerlukan berbilang gulungan untuk diselesaikan.
 
-### Juruterbang (pelbagai)
+### Pandu (pelbagai)
 
 **Peluang Asas:** 01%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk memandu, mengolah, dan mengawal kenderaan melalui udara, di atas atau di bawah air, atau di angkasa. Kenderaan yang lebih besar mungkin memerlukan beberapa juruterbang, dan lemparan harus dibuat setiap empat jam apabila tidak dalam tempur, dan sekali setiap pusingan semasa tempur atau apabila melakukan gerakan kenderaan.
+Gunakan kemahiran ini untuk mengemudi, menggerakkan, dan mengawal kenderaan melalui udara, di atas atau di bawah air, atau di angkasa. Kenderaan yang lebih besar mungkin memerlukan berbilang jurupandu, dan gulungan harus dibuat setiap empat jam apabila tidak dalam pertempuran, dan sekali setiap pusingan semasa pertempuran atau apabila melakukan olah gerak kenderaan.
 
-**Kepakaran:** Kapal Terbang, Kapal Udara, Belon, Bot, Helikopter, Hoverkraf, Pesawat Jet, Pek Jet, Kapal Angkasa, Kapal Selam, dll. Atas budi bicara gamemaster, juruterbang boleh menerbangkan kapal dengan kepakaran yang serupa seolah-olah Sukar. Jika berjaya, buat pemeriksaan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penilaian tersebut, ditambah pengalaman yang diperoleh.
+**Kepakaran:** Kapal Terbang, Kapal Udara, Belon, Bot, Helikopter, Hoverkraf, Pesawat Jet, Jetpek, Kapal Angkasa, Kapal Selam, dsb. Atas budi bicara gamemaster, jurupandu boleh memandu kapal dengan kepakaran yang serupa seolah-olah Sukar. Jika berjaya, buat semakan pengalaman. Jika gulungan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penarafan tersebut, ditambah dengan pengalaman yang diperoleh.
 
-**Kesan:** Kebanyakan pemanduan harian adalah Automatik—lemparan hanya di bawah keadaan buruk atau untuk situasi luar biasa. Fumble hampir pasti menyebabkan enjin terhenti atau bahkan terhempas, gagal bermakna destinasi tidak dicapai dalam tempoh masa yang diingini, kejayaan sampai ke tempat yang diingini, dan kejayaan yang lebih tinggi menghasilkan pemanduan dan hasil yang lebih pakar. Lihat **Tempur Udara** dan **Pengejaran** untuk maklumat lanjut, dan **Jadual Masalah Pengejaran** untuk musibah.
+**Kesan:** Kebanyakan pemanduan harian adalah Automatik—gulung hanya di bawah keadaan buruk atau untuk situasi luar biasa. Gagal (fumble) hampir pasti menyebabkan enjin terhenti atau pun terhempas, gagal bermakna destinasi tidak sampai dalam jangka masa yang diingini, kejayaan sampai ke tempat yang diingini, dan kejayaan cemerlang menghasilkan pemanduan dan keputusan yang lebih pakar. Lihat **Tempur Udara** dan **Kejar-mengejar** untuk maklumat lanjut, dan **Jadual Masalah Kejar-mengejar** untuk kemalangan.
 
 ### Unjuran
 
-**Peluang Asas:** DEX×2%
+**Peluang Asas:** KTG×2%
 
 **Kategori:** Fizikal
 
-Kemahiran pilihan ini digunakan oleh watak pengguna kuasa untuk menyasarkan serangan berasaskan kuasa. Ia diterangkan dalam *Bab Empat: Kuasa* dan hanya digunakan dalam permainan dengan kuasa yang sesuai.
+Kemahiran pilihan ini digunakan oleh watak yang menggunakan kuasa untuk menyasarkan serangan berasaskan kuasa. Ia diterangkan dalam *Bab Empat: Kuasa* dan hanya digunakan dalam permainan dengan kuasa yang sesuai.
 
 ### Psikoterapi
 
@@ -843,35 +835,45 @@ Kemahiran pilihan ini digunakan oleh watak pengguna kuasa untuk menyasarkan sera
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini untuk menilai dan merawat penyakit mental atau trauma, terutamanya memulihkan mata Kewarasan yang hilang. Dalam istilah praktikal, Psikoterapi boleh digunakan untuk menetapkan ubat dan ubat-ubatan, yang lama-kelamaan boleh menggantung, merawat, dan bahkan membalikkan psikosis atau penyakit mental yang melumpuhkan. Ubat dan soal siasat intensif boleh menyelidiki kedalaman jiwa yang rosak dan membawa kembali harapan daripada keganasan dan keputusasaan. Lihat **Kewarasan** untuk maklumat lanjut.
+Gunakan kemahiran ini untuk menilai dan merawat penyakit mental atau trauma, terutamanya memulihkan mata Siuman yang hilang. Dari segi praktikal, Psikoterapi boleh digunakan untuk menetapkan ubat dan perubatan, yang dari masa ke masa boleh menggantung, merawat, dan malah membalikkan psikosis atau penyakit mental yang melumpuhkan. Perubatan dan soal siasat yang mendalam boleh meneliti kedalaman jiwa yang rosak dan membawa kembali harapan daripada ketakutan dan keputusasaan. Lihat **Siuman** untuk maklumat lanjut.
 
 **Kesan:** Psikoterapi mempunyai kesan khusus:
 
-* **Fumble:** Salah satu daripada berikut berlaku (pilihan gamemaster):
-  * Pesakit mesti membuat lemparan Kewarasan baharu, untuk kehilangan 1/1D3 SAN.
-  * Tingkatkan penilaian POW salah satu kegilaan tidak terhad pesakit sebanyak +1.
-  * Pesakit menukar satu kegilaan tidak terhad dengan yang lain: fobia mungkin berkurangan, tetapi dengan kos ketagihan kepada ubat penstabil mood.
+* **Gagal (Fumble):** Salah satu daripada yang berikut berlaku (pilihan gamemaster):
+
+  * Pesakit mesti membuat gulungan Siuman baharu, untuk kehilangan 1/1D3 KUR. 
+
+  * Tingkatkan penarafan KUR bagi salah satu kegilaan tak tentu pesakit sebanyak +1. 
+
+  * Pesakit menukar satu kegilaan tak tentu dengan yang lain: fobia mungkin berkurangan, tetapi dengan kos ketagihan kepada ubat penstabil mood.
+
 * **Kegagalan:** Rawatan tidak mempunyai kesan. Pesakit kekal sama.
-* **Kejayaan:** Rawatan mengambil tempat, dengan salah satu daripada kesan berikut:
-  * Selepas sebulan rawatan, pesakit pulih 1D3–1 mata SAN. Kemahiran ini tidak boleh meningkatkan SAN pesakit melebihi POW×5 tolak sebarang penalti yang sesuai untuk pengetahuan tentang kengerian yang menghujat atau tidak terkata. Lihat Kewarasan Maksimum untuk butiran.
-  * Sumber kegilaan tidak terhad didiagnosis dengan betul.
-  * Sebaik sahaja sumber kegilaan tidak terhad telah didiagnosis, POWnya boleh dikurangkan sebanyak –1 selepas sebulan rawatan. Lemparan berasingan mesti dibuat untuk setiap penyakit mental yang dirawat.
-* **Khas**: Seperti di atas, tetapi keuntungan SAN ialah 1D3 atau pengurangan POW ialah –2.
-* **Kritikal**: Seperti di atas, tetapi keuntungan SAN ialah 1D3+1 atau pengurangan POW ialah –1D3+1.
 
-**Nota Sistem:** Kemahiran ini terutamanya untuk permainan di mana Kewarasan digunakan. Rawatan memerlukan empat hingga lima jam terapi sebulan bagi setiap kegilaan tidak terhad. Atas budi bicara gamemaster, Psikoterapi boleh digunakan untuk memanipulasi sifat personaliti seolah-olah ia adalah skor SAN, mengalihkannya secara positif atau negatif mengikut jumlah mata yang sama.
+* **Kejayaan:** Rawatan berkesan, dengan salah satu daripada kesan berikut:
 
-### Pembaikan (pelbagai)
+  * Selepas sebulan rawatan, pesakit mendapat semula 1D3–1 mata Siuman. Kemahiran ini tidak boleh meningkatkan Siuman pesakit melebihi KUR×5 tolak sebarang penalti yang sesuai untuk pengetahuan tentang kengerian yang menghujat atau tidak terkata. Lihat Siuman Maksimum untuk butiran. 
+
+  * Punca kegilaan tak tentu didiagnosis dengan betul.
+
+  * Apabila punca kegilaan tak tentu telah didiagnosis, KUR-nya boleh dikurangkan sebanyak –1 selepas satu bulan rawatan. Gulungan berasingan mesti dibuat untuk setiap penyakit mental yang dirawat.
+
+* **Khas**: Seperti di atas, tetapi perolehan Siuman adalah 1D3 atau pengurangan KUR adalah –2. 
+
+* **Kritikal**: Seperti di atas, tetapi perolehan Siuman adalah 1D3+1 atau pengurangan KUR adalah –1D3+1.
+
+**Nota Sistem:** Kemahiran ini terutamanya untuk permainan di mana Siuman digunakan. Rawatan memerlukan empat hingga lima jam terapi sebulan bagi setiap kegilaan tak tentu. Atas budi bicara gamemaster, Psikoterapi boleh digunakan untuk memanipulasi sifat personaliti seolah-olah ia adalah skor Siuman, mengalihkannya secara positif atau negatif sebanyak bilangan mata yang sama.
+
+### Baiki (pelbagai)
 
 **Peluang Asas:** 15%
 
 **Kategori:** Manipulasi
 
-Peralatan dan objek lain mendapat kerosakan atau berhenti berfungsi. Gunakan Pembaikan untuk membaikinya atau membuat sedikit pengubahsuaian dan penyesuaian.
+Peralatan dan objek lain menjadi rosak atau berhenti berfungsi. Gunakan Baiki untuk membaikinya atau membuat pengubahsuaian dan adaptasi kecil.
 
-**Kepakaran:** Elektrik, Elektronik, Kejuruteraan, Hidroelektrik, Mekanikal, Struktur, Kuantum, dll.
+**Kepakaran:** Elektrik, Elektronik, Kejuruteraan, Hidroelektrik, Mekanikal, Struktur, Kuantum, dsb.
 
-**Kesan:** Fumble merosakkan item dengan lebih teruk dan mungkin juga mencederakan orang yang membuat percubaan pembaikan (1D3 mata nyawa untuk kedua-duanya, contohnya) dan menjadikan pembaikan lanjut Sukar. Kegagalan tidak mencapai apa-apa, kejayaan memulihkan 1D3 mata nyawa dan item menjadi boleh digunakan semula atau kembali berfungsi. Kejayaan yang lebih tinggi menghasilkan faedah serupa, mungkin menggunakan kemahiran Pertolongan Cemas dan pertimbangan gamemaster sebagai panduan. Kritikal mungkin juga memperbaiki item itu dengan cara kecil, seperti menambah kepada jumlah mata nyawa, mata perisai, atau menambah sedikit bonus apabila ia digunakan.
+**Kesan:** Gagal (fumble) merosakkan item dengan lebih teruk dan boleh mencederakan orang yang melakukan percubaan pembaikan (1D3 mata nyawa untuk kedua-duanya, contohnya) dan menjadikan pembaikan selanjutnya Sukar. Kegagalan tidak mencapai apa-apa, kejayaan memulihkan 1D3 mata nyawa dan item itu boleh digunakan semula atau kembali berfungsi. Kejayaan cemerlang menghasilkan faedah yang serupa, mungkin menggunakan kemahiran Pertolongan Cemas dan pertimbangan gamemaster sebagai panduan. Kritikal mungkin malah menambah baik item itu dengan cara kecil, seperti menambah pada jumlah mata nyawa, mata perisai, atau menambah bonus kecil apabila ia digunakan.
 
 ### Penyelidikan
 
@@ -879,9 +881,9 @@ Peralatan dan objek lain mendapat kerosakan atau berhenti berfungsi. Gunakan Pem
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk mencari dan mengenal pasti sumber maklumat yang berpotensi di perpustakaan, arkib, atau rangkaian. Lemparan yang berjaya menghasilkan maklumat yang diingini daripada buku, dokumen, artikel, pangkalan data, arkib, atau tapak web, dengan kejayaan yang lebih tinggi memberikan maklumat tambahan atau lebih khusus. Walaupun julat jenis sumber yang luas, prinsipnya adalah sama. Percubaan pada kemahiran ini mengambil masa empat jam secara normal, walaupun kaedah elektronik jauh lebih pantas. Fumble membawa kepada salah faham yang dahsyat dan mengakibatkan maklumat yang salah. Kegagalan membuang masa tanpa sebarang hasil yang kukuh atau memberikan minimum maklumat selepas dua kali ganda jumlah masa biasa.
+Gunakan kemahiran ini untuk mencari dan mengenal pasti sumber maklumat yang berpotensi di perpustakaan, arkib, atau rangkaian. Gulungan yang berjaya menghasilkan maklumat yang diingini daripada buku, dokumen, artikel, pangkalan data, arkib, atau laman web, dengan kejayaan cemerlang memberikan maklumat tambahan atau lebih khusus. Walaupun pelbagai jenis sumber, prinsipnya adalah sama. Percubaan pada kemahiran ini mengambil masa empat jam secara normal, walaupun kaedah elektronik adalah lebih cepat. Gagal (fumble) membawa kepada salah faham yang membawa bencana dan mengakibatkan maklumat yang salah. Kegagalan membuang masa tanpa sebarang keputusan kukuh atau memberikan maklumat minimum selepas dua kali ganda jumlah masa biasa.
 
-**Nota Sistem:** Gamemaster dinasihatkan untuk membuat lemparan Penyelidikan yang gagal mengambil masa lebih lama, memberikan maklumat yang sedikit mengelirukan atau rumit, membangkitkan sebarang jenis penggera atau perhatian yang tidak diingini, atau beberapa kemunduran lain daripada sekadar tidak memberikan sebarang hasil. Kegagalan jarang menyeronokkan dalam permainan, dan untuk misteri, petunjuk yang tidak boleh diakses adalah jalan buntu yang dramatik.
+**Nota Sistem:** Gamemaster dinasihatkan untuk membuat gulungan Penyelidikan yang gagal mengambil masa lebih lama, memberikan maklumat yang sedikit mengelirukan atau rumit, membangkitkan sejenis penggera atau perhatian yang tidak diingini, atau kemunduran lain daripada sekadar tidak memberikan sebarang keputusan. Kegagalan jarang menyeronokkan dalam permainan, dan untuk misteri, petunjuk yang tidak boleh diakses adalah jalan buntu yang dramatik.
 
 ### Menunggang (pelbagai)
 
@@ -889,11 +891,11 @@ Gunakan kemahiran ini untuk mencari dan mengenal pasti sumber maklumat yang berp
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini untuk menunggang, mengendalikan, dan menjaga jenis haiwan hidup tertentu. Dengan Menunggang, watak anda boleh memandu tunggangan melalui gerakan khas atau rupa bumi yang kasar, memujuknya ke kelajuan tertinggi, atau untuk mengekalkan kawalan jika ia berdiri atau tersandung. Fumble menyebabkan kehilangan kawalan tunggangan, mungkin mengakibatkan dicampak ke tanah untuk 1D6 mata kerosakan (umum atau kepada lokasi anggota badan rawak). Lemparan Melompat yang berjaya menolak 1D6 daripada jumlah kerosakan, manakala tunggangan berlari pergi pada kelajuan tertinggi. Kegagalan menyebabkan haiwan itu enggan, dan kejayaan menghasilkan haiwan itu melakukan seperti yang diingini atau bahkan melebihi jangkaan. Kejayaan yang lebih tinggi mungkin menghasilkan bonus kepada tindakan tempur semasa menunggang.
+Gunakan kemahiran ini untuk menunggang, mengendalikan, dan menjaga jenis haiwan hidup tertentu. Dengan Menunggang, watak anda boleh mengemudi haiwan tunggangan melalui olah gerak khas atau rupa bumi kasar, memujuknya ke kelajuan tertinggi, atau untuk mengekalkan kawalan jika ia berdiri dengan kaki belakang atau tersandung. Gagal (fumble) menyebabkan kehilangan kawalan ke atas haiwan tunggangan, mungkin mengakibatkan dicampak ke tanah untuk 1D6 mata nyawa kerosakan (umum atau pada lokasi badan rawak). Gulungan Lompat yang berjaya menolak 1D6 daripada jumlah kerosakan, manakala haiwan tunggangan berlari pergi pada kelajuan tertinggi. Kegagalan menyebabkan haiwan itu enggan bergerak, dan kejayaan menghasilkan ia berfungsi seperti yang diingini atau malah melebihi jangkaan. Kejayaan cemerlang mungkin menghasilkan bonus untuk tindakan tempur semasa menunggang.
 
-**Kepakaran:** Mengikut jenis haiwan. Lihat Bab Sebelas: Makhluk untuk contoh tunggangan. Atas budi bicara gamemaster, jenis haiwan yang serupa mungkin ditunggang seolah-olah Sukar. Jika berjaya, buat pemeriksaan pengalaman. Jika lemparan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penilaian tersebut, ditambah pengalaman yang diperoleh.
+**Kepakaran:** Mengikut jenis haiwan. Lihat Bab Sebelas: Makhluk untuk contoh haiwan tunggangan. Atas budi bicara gamemaster, jenis haiwan yang serupa boleh ditunggangi seolah-olah Sukar. Jika berjaya, buat semakan pengalaman. Jika gulungan pengalaman berjaya, mulakan kemahiran baharu dengan kepakaran pada penarafan tersebut, ditambah dengan pengalaman yang diperoleh.
 
-**Nota Sistem:** Selesaikan perlumbaan antara baka haiwan yang sama menggunakan semakan Menunggang bertentangan. Kemahiran Tempur dan Menunggang mesti 50%+ untuk bertempur secara normal dalam tempur menunggang. Jika kemahiran Menunggang kurang daripada 50%, semakan Menunggang diperlukan setiap pusingan untuk mengekalkan kawalan tunggangan. Jika kemahiran tempur kurang daripada 50%, semua serangan adalah Sukar. Walaupun kedua-dua kemahiran lebih tinggi daripada 50%, gunakan yang lebih rendah daripada kedua-dua penilaian kemahiran untuk serangan dan parri. Jika tunggangan jatuh, rebah, atau mati, layan penunggang seolah-olah mereka telah dicampak. Lihat **Tempur Menunggang** untuk maklumat lanjut.
+**Nota Sistem:** Selesaikan perlumbaan antara baka haiwan yang sama menggunakan gulungan Menunggang yang bertentangan. Kemahiran Tempur dan Menunggang mestilah 50%+ untuk bertempur secara normal dalam tempur menunggang. Jika kemahiran Menunggang kurang daripada 50%, gulungan Menunggang diperlukan setiap pusingan untuk mengekalkan kawalan ke atas haiwan tunggangan. Jika kemahiran tempur kurang daripada 50%, semua serangan adalah Sukar. Walaupun kedua-dua kemahiran lebih tinggi daripada 50%, gunakan yang lebih rendah daripada kedua-dua penarafan kemahiran untuk serangan dan tangkisan. Jika haiwan tunggangan jatuh, rebah, atau mati, layan penunggang seolah-olah mereka telah dicampak. Lihat **Tempur Menunggang** untuk maklumat lanjut.
 
 ### Sains (pelbagai)
 
@@ -903,9 +905,9 @@ Gunakan kemahiran ini untuk menunggang, mengendalikan, dan menjaga jenis haiwan 
 
 Gunakan kemahiran ini untuk mengetahui maklumat dan prinsip saintifik daripada bidang tertentu, dan untuk memerhati fenomena serta membuat kesimpulan berasaskan data. Maklumat berkaitan termasuk sejarah sains, kebiasaan dengan peralatan dan metodologi, serta kesedaran tentang tokoh penting dan aliran pemikiran dalam kepakaran tersebut.
 
-**Kepakaran:** Astronomi, Sains Tingkah Laku, Biologi, Botani, Kimia (atau Alkimia), Kriptografi, Genetik, Geologi, Matematik, Meteorologi, Sejarah Semula Jadi, Farmakologi, Fizik, Planetologi, Psikologi, Mekanik Kuantum, Xenobiologi, Zoologi, dll. Atas budi bicara gamemaster, kemahiran dengan kepakaran yang berkaitan boleh dilontar seolah-olah Sukar, walaupun lemparan yang berjaya tidak memberikan pemeriksaan pengalaman atau peluang untuk memulakan kemahiran baharu dengan kepakaran itu.
+**Kepakaran:** Astronomi, Sains Tingkah Laku, Biologi, Botani, Kimia (atau Alkimia), Kriptografi, Genetik, Geologi, Matematik, Meteorologi, Sejarah Alam, Farmakologi, Fizik, Planetologi, Psikologi, Mekanik Kuantum, Xenobiologi, Zoologi, dsb. Atas budi bicara gamemaster, kemahiran dengan kepakaran berkaitan boleh digulung seolah-olah Sukar, walaupun gulungan yang berjaya tidak menghasilkan semakan pengalaman atau peluang untuk memulakan kemahiran baharu dengan kepakaran tersebut.
 
-**Nota Sistem:** Banyak kepakaran Sains memerlukan peralatan khusus, instrumen pengukur, komputer, atau bahkan makmal. Lemparan Sains boleh mengambil masa antara 30 minit hingga minggu atau bulan, atas budi bicara gamemaster: empat jam untuk eksperimen adalah purata yang baik. Mencuba lemparan Sains tanpa masa atau peralatan yang mencukupi adalah sama ada Sukar atau Mustahil.
+**Nota Sistem:** Banyak kepakaran Sains memerlukan peralatan khusus, instrumen pengukuran, komputer, atau pun makmal. Gulungan Sains boleh mengambil masa antara 30 minit hingga minggu atau bulan, mengikut budi bicara gamemaster: empat jam untuk eksperimen adalah purata yang baik. Mencuba gulungan Sains tanpa masa atau peralatan yang mencukupi adalah sama ada Sukar atau Mustahil.
 
 ### Deria
 
@@ -913,9 +915,9 @@ Gunakan kemahiran ini untuk mengetahui maklumat dan prinsip saintifik daripada b
 
 **Kategori:** Persepsi
 
-Kemahiran ini terutamanya mengawal rasa, sentuhan, dan bau; tetapi boleh dilanjutkan kepada beberapa deria lain yang kurang dikenali (orientasi fizikal, graviti, tekanan dan keseimbangan, suhu, dll.). Gunakannya untuk melihat atau mengenal pasti jenis rangsangan tertentu yang bukan penglihatan (Mengesan) atau bunyi (Mendengar), seperti mencari item dalam gelap melalui sentuhan, mengenal pasti bau atau rasa yang misteri, merasakan keretakan rambut, dll. Atas budi bicara gamemaster, ini mungkin juga dilanjutkan kepada "deria keenam" atau gerak hati. Fumble secara dahsyat mengelirukan atau mendedahkan kejahilan lengkap terhadap rangsangan, kegagalan adalah kegagalan mudah untuk menyedari, dan pelbagai tahap kejayaan menghasilkan persepsi yang lebih tepat.
+Kemahiran ini terutamanya mengawal rasa, sentuhan, dan bau; tetapi boleh menjangkau kepada beberapa deria lain yang kurang dikenali (orientasi fizikal, graviti, tekanan dan keseimbangan, suhu, dsb.). Gunakannya untuk menyedari atau mengenal pasti jenis rangsangan tertentu yang bukan penglihatan (Kesan) atau bunyi (Dengar), seperti mencari item dalam gelap melalui sentuhan, mengenal pasti bau misteri atau rasa yang samar, merasakan keretakan halus, dsb. Atas budi bicara gamemaster, ini mungkin malah menjangkau kepada "deria keenam" atau gerak hati. Gagal (fumble) adalah mengelirukan secara bencana atau mendedahkan kejahilan lengkap tentang rangsangan tersebut, kegagalan adalah kegagalan mudah untuk menyedari, dan pelbagai tahap kejayaan menghasilkan persepsi yang lebih tepat.
 
-**Nota Sistem:** Seperti Mendengar dan Mengesan, Deria adalah kemahiran aktif dan pasif: anda boleh meminta watak anda membuat lemparan Deria, atau gamemaster boleh meminta lemparan dalam situasi yang sesuai. Rangsangan yang kuat atau biasa adalah lemparan Mudah untuk Deria, manakala yang samar atau tidak biasa adalah Sukar.
+**Nota Sistem:** Seperti Dengar dan Kesan, Deria adalah kedua-dua aktif dan pasif: anda boleh meminta watak anda membuat gulungan Deria, atau gamemaster boleh meminta gulungan dalam situasi yang sesuai. Rangsangan yang kuat atau biasa adalah gulungan Mudah untuk Deria, manakala yang samar atau tidak biasa adalah Sukar.
 
 ### Perisai
 
@@ -923,11 +925,11 @@ Kemahiran ini terutamanya mengawal rasa, sentuhan, dan bau; tetapi boleh dilanju
 
 **Kategori:** Tempur
 
-Gunakan kemahiran ini untuk menyekat serangan masuk dengan perisai atau alat lain yang sesuai. Semua blok perisai mengikut peraturan yang sama untuk memarri: lihat **Perisai** dan **Parri** dalam Bab Enam: Tempur. Seseorang boleh menyerang dengan perisai, melayan kemahiran ini seolah-olah ia adalah kemahiran Senjata Jarak Dekat. Penilaian kerosakan diberikan untuk perisai dalam senarai senjata. Perisai melakukan hasil khas menghancurkan, boleh menyebabkan tolakan, dan boleh digunakan untuk serangan yang disasarkan.
+Gunakan kemahiran ini untuk menyekat serangan masuk dengan perisai atau alat lain yang sesuai. Semua sekatan perisai mengikut peraturan yang sama untuk menangkis: lihat **Perisai** dan **Tangkis** dalam Bab Enam: Tempur. Seseorang boleh menyerang dengan perisai, melayan kemahiran ini seolah-olah ia adalah kemahiran Senjata Jarak Dekat. Penarafan kerosakan diberikan untuk perisai dalam senarai senjata. Perisai melakukan keputusan khas remukan, boleh menyebabkan tolakan ke belakang, dan boleh digunakan untuk serangan yang disasarkan.
 
-**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Fumble Parri Senjata Jarak Dekat**.
+**Kesan:** Lihat **Matriks Serangan dan Pertahanan** dan **Jadual Gagal Tangkis Senjata Jarak Dekat**.
 
-**Nota Sistem:** Blok perisai adalah parri. Watak boleh membuat lebih daripada satu lemparan perisai dalam satu pusingan, tetapi setiap lemparan tambahan menimbulkan penalti –30% kepada penilaian kemahiran perisai atau parri. Perisai besar boleh memberikan perlindungan terhadap serangan peluru atau bahkan senjata api.
+**Nota Sistem:** Sekatan perisai adalah tangkisan. Watak boleh membuat lebih daripada satu gulungan perisai dalam satu pusingan, tetapi setiap gulungan tambahan menanggung penalti –30% kepada penarafan kemahiran perisai atau tangkis. Perisai besar boleh memberikan perlindungan terhadap serangan jarak jauh atau pun senjata api.
 
 ### Ketangkasan Tangan
 
@@ -935,52 +937,50 @@ Gunakan kemahiran ini untuk menyekat serangan masuk dengan perisai atau alat lai
 
 **Kategori:** Manipulasi
 
-Gunakan kemahiran ini untuk memanipulasi objek kecil (dadu, kad, syiling, dompet, surat, dll.) dengan cara yang mengelirukan atau tanpa menarik perhatian, seperti apabila mencopet, menipu dalam kad, atau melakukan sihir pentas. Fumble adalah jelas nyata: sama ada item itu dijatuhkan, atau pencuri yang ingin menjadi ditangkap dengan tangan mereka di dalam poket sasaran. Kegagalan bermakna tiada apa yang dicapai, dan sasaran yang tidak curiga yang berjaya dalam lemparan Idea mungkin menyedari bahawa mereka sedang ditipu.
+Gunakan kemahiran ini untuk memanipulasi objek kecil (dadu, kad, syiling, dompet, surat, dsb.) dengan cara yang mengelirukan atau tanpa menarik perhatian, seperti apabila mencopet, menipu dalam permainan kad, atau melakukan silap mata pentas. Gagal (fumble) adalah sangat jelas: sama ada item itu terjatuh, atau bakal pencuri itu ditangkap dengan tangan mereka di dalam poket sasaran. Kegagalan bermakna tiada apa yang dicapai, dan sasaran yang tidak mengesyaki yang berjaya dalam gulungan Idea mungkin menyedari bahawa mereka sedang ditipu.
 
-**Nota Sistem:** Kemahiran ini ditentang oleh Mengesan jika sesuai. Sebaik sahaja objek telah dipegang atau diambil, gunakan Bersembunyi untuk menyembunyikannya daripada carian yang rapi.
+**Nota Sistem:** Kemahiran ini ditentang oleh Kesan apabila sesuai. Sebaik sahaja objek telah disorokkan atau diambil, gunakan Sembunyi untuk menyembunyikannya daripada carian bersepadu.
 
-### Mengesan
+### Kesan
 
 **Peluang Asas:** 25%
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk mencari bilik bagi butiran yang berpotensi penting, mencari ruang tersembunyi, menyedari butiran sekilas, mengenal pasti musuh yang menyamar, atau mengesan musuh yang berbaring dalam serang hendap. Fumble adalah salah tanggapan atau tanggapan silap yang sangat mengalih perhatian, dan tahap kejayaan yang berbeza menghasilkan maklumat yang lebih berguna dan relevan.
+Gunakan kemahiran ini untuk mencari bilik bagi butiran penting yang berpotensi, mencari ruang tersembunyi, menyedari butiran sekilas, mengenali musuh yang menyamar, atau mengesan musuh yang sedang menghendap. Gagal (fumble) adalah salah persepsi yang sangat mengganggu atau tanggapan yang salah, dan tahap kejayaan yang berbeza menghasilkan maklumat yang lebih berguna dan relevan.
 
-**Nota Sistem:** Mengesan adalah kemahiran aktif dan pasif: watak anda boleh membuat lemparan Mengesan untuk mencari atau memeriksa secara aktif, atau gamemaster boleh meminta lemparan Mengesan untuk melihat sama ada watak anda menyedari butiran sekilas. Bersembunyi atau penyembunyian sengaja memerlukan ujian bertentangan Mengesan lwn. Bersembunyi untuk diselesaikan. Mengesan juga sering ditentang lwn. Menyamar atau Ketangkasan Tangan. Dalam kegelapan sepenuhnya, Mengesan adalah Mustahil, dan cahaya rendah atau kabus tebal menjadikannya Sukar.
-
-### Status
+**Nota Sistem:** Kesan adalah kedua-dua kemahiran aktif dan pasif: watak anda boleh membuat gulungan Kesan untuk mencari atau memeriksa secara aktif, atau gamemaster boleh meminta gulungan Kesan untuk melihat sama ada watak anda menyedari butiran sekilas. Penyembunyian atau penyembunyian yang disengajakan memerlukan ujian Kesan vs. Sembunyi yang bertentangan untuk diselesaikan. Kesan juga sering ditentang vs. Penyamaran atau Ketangkasan Tangan. Dalam kegelapan mutlak, Kesan adalah Mustahil, dan cahaya malap atau kabus tebal menjadikannya Sukar.### Status
 
 **Peluang Asas:** 15%
 
 **Kategori:** Komunikasi
 
-Status adalah ukuran reputasi, kelayakan profesional, kelas sosial, kemakmuran, kemasyhuran, dan bahkan kehormatan diri. Gunakan kemahiran ini untuk mempengaruhi orang lain dengan menunjukkan kekuatan, seperti meyakinkan bank untuk membuat pinjaman tunai atau memaafkan hutang, menakutkan watak bukan pemain untuk memberikan bantuan, meyakinkan vendor untuk bersetuju dengan I.O.U., atau menekan pihak berkuasa untuk merahsiakan perkara tersebut. Fumble adalah faux pas yang paling hebat, menyebabkan rasa malu, menarik perhatian yang tidak diingini, dan mempunyai kesan yang benar-benar bertentangan dengan yang diingini. Kejayaan menghasilkan hasil yang dicari atau bahkan bantuan dan pertimbangan tambahan. Status bukanlah kekayaan, walau bagaimanapun, dan walaupun mereka sering dikaitkan, mereka tidak terikat secara intrinsik antara satu sama lain.
+Status ialah ukuran reputasi, kelayakan profesional, kelas sosial, kemakmuran, kemasyhuran, dan juga kehormatan diri. Gunakan kemahiran ini untuk mempengaruhi orang lain dengan menggunakan pengaruh anda, seperti meyakinkan bank untuk memberikan pinjaman tunai atau melupuskan hutang, menakut-nakutkan watak bukan pemain untuk memberikan bantuan, meyakinkan penjual untuk menerima surat hutang (I.O.U.), atau menekan pihak berkuasa untuk merahsiakan sesuatu perkara. Kegagalan kritikal (fumble) adalah kesilapan besar yang memalukan, menarik perhatian yang tidak diingini, dan mempunyai kesan yang benar-benar bertentangan dengan apa yang diinginkan. Kejayaan memberikan hasil yang dicari atau malah bantuan dan pertimbangan tambahan. Walau bagaimanapun, Status bukanlah kekayaan, dan walaupun keduanya sering dikaitkan, mereka tidak terikat secara intrinsik antara satu sama lain.
 
 **Kepakaran:** Setiap kepakaran mewakili satu kelas sosial, profesion, kumpulan sosial, atau bidang pengaruh.
 
-**Nota Sistem:** Status hanya beroperasi dalam kawasan tertentu, mengikut kepakaran, dan menggunakannya di luar bidang pengaruh adalah Sukar. Status tidak dipertingkatkan dengan pengalaman, latihan, atau penambahbaikan lain. Gamemaster harus menawarkan Status sebagai ganjaran untuk perkhidmatan setia, perbuatan berani, atau merit luar biasa antara senario. Satu mata setiap pengembaraan adalah munasabah, dengan perbuatan atau pencapaian luar biasa meningkatkan keuntungan kepada 1D3, 1D4, atau mungkin juga 1D6 mata. Begitu juga, kegagalan, skandal, kesalahan, dan ketidakwajaran sosial boleh menurunkan Status. Status boleh digunakan untuk menarik perhatian, tetapi juga untuk berfungsi sebagai cara menentukan kemasyhuran. Watak anda melontar terhadap Status orang lain untuk mengenal pasti mereka, dan watak bukan pemain boleh melontar terhadap Status watak anda untuk menentukan apa, jika ada, yang mereka tahu tentang watak tersebut.
+**Nota Sistem:** Status hanya beroperasi dalam kawasan tertentu, mengikut kepakaran, dan menggunakannya di luar kawasan pengaruh adalah Sukar. Status tidak ditingkatkan melalui pengalaman, latihan, atau peningkatan lain. Pengurus permainan (gamemaster) harus menawarkan Status sebagai ganjaran untuk perkhidmatan setia, perbuatan berani, atau merit luar biasa di antara senario. Satu mata setiap pengembaraan adalah munasabah, dengan perbuatan atau pencapaian luar biasa meningkatkan perolehan kepada 1D3, 1D4, atau mungkin sehingga 1D6 mata. Begitu juga, kegagalan, skandal, kesalahan kecil, dan ketidaksopanan sosial boleh menurunkan Status. Status boleh digunakan untuk mengagumkan, tetapi juga berfungsi sebagai cara untuk menentukan kemasyhuran. Watak anda melontar dadu terhadap Status orang lain untuk mengenal pasti mereka, dan watak bukan pemain mungkin melontar dadu terhadap Status watak anda untuk menentukan apa, jika ada, yang mereka ketahui tentang watak tersebut.
 
 > ### Kemahiran Status, Status Sosial, & Kekayaan Watak
 > 
-> Seperti yang diterangkan dalam **Mencipta Watak** dan **Profesion Watak**, Status boleh memberi kesan yang dramatik kepada kedudukan sosial dan kekayaan. Di bawah adalah tiga jadual yang menetapkan pangkat sosial dan kekayaan purata berdasarkan Status, dengan kekayaan maksimum untuk Status tersebut. Apabila seseorang memperoleh Status, kedudukan dan kekayaan mereka berkemungkinan akan bertambah baik. Gamemaster anda harus menyemak jadual ini atau mencipta yang baharu, mengikut kehendak.
+> Seperti yang diterangkan dalam **Mencipta Watak** dan **Profesion Watak**, Status boleh memberi kesan dramatik terhadap kedudukan sosial dan kekayaan. Di bawah adalah tiga jadual yang menetapkan pangkat sosial dan purata kekayaan berdasarkan Status, dengan kekayaan maksimum untuk Status tersebut. Apabila seseorang memperoleh Status, kedudukan dan nasib mereka kemungkinan besar akan bertambah baik. Pengurus permainan anda harus menyemak semula jadual ini atau mencipta yang baharu, mengikut keinginan.
 > 
 > ##### Status Prasejarah
 > 
 > | Status | Pangkat Sosial | Penilaian Kekayaan | Kekayaan Maksimum |
 > | :---- | :---- | :---- | :---- |
-> | 01–15 | Hamba (Kelas Rendah) | Miskin | Miskin |
-> | 16–95 | Orang Puak (Kelas Tengah) | Miskin | Purata |
+> | 01–15 | Hamba (Kelas Bawah) | Miskin | Miskin |
+> | 16–95 | Ahli Suku (Kelas Pertengahan) | Miskin | Purata |
 > | 96–00 | Bangsawan (Kelas Atas) | Berada | Kaya |
 > 
 > ##### Status Purba/Zaman Gelap/Zaman Pertengahan/Empayar
 > 
 > | Status | Pangkat Sosial | Penilaian Kekayaan | Kekayaan Maksimum |
 > | :---- | :---- | :---- | :---- |
-> | 01–39 | Kelas Rendah | Papa Kedana | Papa Kedana |
-> | 40–43 | Kelas Menengah Rendah | Miskin | Purata |
-> | 44–47 | Kelas Tengah | Purata | Purata |
-> | 48–49 | Kelas Menengah Atas | Purata | Purata |
+> | 01–39 | Kelas Bawah | Sangat Miskin | Sangat Miskin |
+> | 40–43 | Kelas Pertengahan Bawah | Miskin | Purata |
+> | 44–47 | Kelas Pertengahan | Purata | Purata |
+> | 48–49 | Kelas Pertengahan Atas | Purata | Purata |
 > | 50–75 | Kelas Atas | Berada | Berada |
 > | 76–95 | Bangsawan | Berada | Kaya |
 > | 96–00 | Monarki | Kaya | Kaya |
@@ -989,24 +989,24 @@ Status adalah ukuran reputasi, kelayakan profesional, kelas sosial, kemakmuran, 
 > 
 > | Status | Pangkat Sosial | Penilaian Kekayaan | Had Kekayaan |
 > | :---- | :---- | :---- | :---- |
-> | 01–14 | Kelas Rendah | Papa Kedana | Miskin |
-> | 15–29 | Kelas Rendah | Miskin | Purata |
-> | 30–39 | Kelas Menengah Rendah | Purata | Berada |
-> | 40–75 | Kelas Tengah | Purata | Berada |
-> | 76–95 | Kelas Menengah Atas | Berada | Kaya |
+> | 01–14 | Kelas Bawah | Sangat Miskin | Miskin |
+> | 15–29 | Kelas Bawah | Miskin | Purata |
+> | 30–39 | Kelas Pertengahan Bawah | Purata | Berada |
+> | 40–75 | Kelas Pertengahan | Purata | Berada |
+> | 76–95 | Kelas Pertengahan Atas | Berada | Kaya |
 > | 96–00 | Kelas Atas | Kaya | Kaya |
 > 
-> Status juga boleh menjejaskan peralatan awal yang watak anda mulakan. Atas budi bicara gamemaster, anda boleh membuat lemparan Status untuk menentukan sama ada watak anda bermula dengan peralatan yang lebih baik daripada tahap kekayaan dan profesion mereka. Lihat Peralatan Bermula dalam *Bab Lapan: Peralatan*. Lemparan Status yang dibuat sebelum permainan tidak layak untuk pemeriksaan pengalaman.
+> Status juga boleh menjejaskan peralatan awal yang dimulakan oleh watak anda. Atas budi bicara pengurus permainan, anda boleh membuat lontaran Status untuk menentukan sama ada watak anda bermula dengan peralatan yang lebih baik daripada tahap kekayaan dan profesion mereka. Lihat Peralatan Bermula dalam *Bab Lapan: Peralatan*. Lontaran Status yang dibuat sebelum permainan tidak layak untuk semakan pengalaman.
 
-### Stealth
+### Senyap (Stealth)
 
 **Peluang Asas:** 10%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk menyelinap melalui kawasan tanpa menarik perhatian. Tiada perlindungan diperlukan, tetapi langkah yang ringan, keyakinan, dan disiplin diperlukan. Untuk mengelakkan daripada dilihat semasa tidak bergerak, gunakan Bersembunyi. Fumble menarik perhatian yang tidak diingini, kegagalan bermakna tiada kemajuan yang dibuat, dan watak itu jelas kepada sesiapa sahaja yang melihat, manakala kejayaan menawarkan tahap penyembunyian yang berturut-turut.
+Gunakan kemahiran ini untuk menyelinap melalui sesuatu kawasan tanpa menarik perhatian. Tiada perlindungan diperlukan, tetapi langkah yang ringan, keyakinan, dan disiplin diperlukan. Untuk mengelakkan diri daripada dilihat semasa tidak bergerak, gunakan Sembunyi (Hide). Kegagalan kritikal menarik perhatian yang tidak diingini, kegagalan bermakna tiada kemajuan dibuat, dan watak itu jelas kelihatan kepada sesiapa yang memandang, manakala kejayaan menawarkan tahap penyembunyian yang berturutan.
 
-**Nota Sistem:** Stealth menganggap pergerakan perlahan. Bergerak lebih jauh daripada 1/2 MOV seseorang dalam pusingan tempur adalah Sukar. Faktor persekitaran (bunyi ambien, permaidani tebal, lantai berkeriut, dll.) atau peralatan (kasut tapak lembut, perisai bising, peralatan besar, dll.) boleh mengubah suai lemparan Stealth, atas budi bicara gamemaster. Stealth ditentang oleh Mengesan atau Mendengar, mengikut kesesuaian.
+**Nota Sistem:** Senyap mengandaikan pergerakan perlahan. Bergerak lebih jauh daripada 1/2 MOV seseorang dalam pusingan pertempuran adalah Sukar. Faktor persekitaran (bunyi ambien, permaidani tebal, lantai berkeriut, dll.) atau peralatan (kasut tapak lembut, perisai bising, peralatan besar, dll.) boleh mengubah suai lontaran Senyap, mengikut budi bicara pengurus permainan. Senyap ditentang oleh Perhati (Spot) atau Dengar (Listen), mengikut kesesuaian.
 
 ### Strategi
 
@@ -1014,31 +1014,31 @@ Gunakan kemahiran ini untuk menyelinap melalui kawasan tanpa menarik perhatian. 
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini untuk membimbing pasukan dalam pertempuran, daripada skuad kecil hingga tentera atau armada yang besar, menyusun dan menyelaraskan logistik untuk tentera, merancang dan melaksanakan perusahaan ketenteraan berskala besar, dan menentukan apa yang mungkin difikirkan oleh ahli strategi lain. Kemahiran ini juga menganggap pengetahuan asas sejarah dan taktik ketenteraan, serta tokoh penting di dalamnya. Fumble mewakili bencana ketenteraan dan mungkin membawa kepada kekalahan mutlak, manakala pelbagai tahap kejayaan menghasilkan kelebihan strategik dan mungkin bermakna bonus kepada semangat dan keberkesanan tempur.
+Gunakan kemahiran ini untuk membimbing pasukan dalam pertempuran, daripada skuad kecil kepada tentera atau armada yang besar, menyusun dan menyelaraskan logistik untuk tentera, merancang dan melaksanakan perusahaan ketenteraan skala besar, dan menentukan apa yang mungkin difikirkan oleh ahli strategi lain. Kemahiran ini juga mengandaikan pengetahuan asas tentang sejarah dan taktik ketenteraan, serta tokoh penting di dalamnya. Kegagalan kritikal mewakili bencana ketenteraan dan mungkin membawa kepada kekalahan total, manakala pelbagai tahap kejayaan memberikan kelebihan strategik dan mungkin bermakna bonus kepada moral dan keberkesanan pertempuran.
 
-**Nota Sistem:** Pertunangan ketenteraan besar-besaran harus diselesaikan secara abstrak, dengan lemparan Strategi bertentangan antara pemimpin yang bertentangan mempengaruhi hasil (beberapa lemparan mungkin diperlukan untuk pertunangan yang lebih besar atau lebih lama). Menggunakan Strategi dalam keadaan yang tidak menguntungkan (kalah jumlah, kurang bekalan, dll.) adalah Sukar. Kemahiran ini sering digunakan bersama Perintah: Strategi mewakili pelan, Perintah adalah cara ia disampaikan dengan jelas kepada mereka yang mesti melaksanakannya.
+**Nota Sistem:** Penglibatan ketenteraan besar-besaran harus diselesaikan secara abstrak, dengan lontaran Strategi yang ditentang antara pemimpin yang bertentangan mempengaruhi hasilnya (berbilang lontaran mungkin diperlukan untuk penglibatan yang lebih besar atau lebih lama). Menggunakan Strategi dalam keadaan yang tidak menguntungkan (jumlah kecil, bekalan buruk, dll.) adalah Sukar. Kemahiran ini sering digunakan bersama Perintah (Command): Strategi mewakili rancangan, Perintah adalah cara ia disampaikan dengan jelas kepada mereka yang mesti melaksanakannya.
 
-### Berenang
+### Berenang (Swim)
 
 **Peluang Asas:** 25%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk bergerak melalui atau di bawah air. Secara amnya, lemparan Berenang hanya perlu digunakan untuk situasi berbahaya atau menekan. Terapung, berenang gaya anjing, dan memijak air di bawah keadaan biasa adalah *Automatik*. Fumble bermakna anda mula lemas (lihat *Tercekik, Lemas, dan Asfiksia*). Sebaik sahaja watak anda mula lemas, hanya lemparan Berenang *Sukar* atau bantuan luar boleh membawa mereka kembali ke permukaan untuk bernafas semula. Kejayaan bermakna gerakan biasa di dalam air, manakala kejayaan yang lebih tinggi bermakna kelajuan dan gerakan tambahan.
+Gunakan kemahiran ini untuk bergerak melalui atau di bawah air. Secara amnya, lontaran Berenang hanya perlu digunakan untuk situasi berbahaya atau penuh tekanan. Terapung, mendayung anjing, dan memijak air dalam keadaan biasa adalah *Automatik*. Kegagalan kritikal bermakna anda mula lemas (lihat *Tersedak, Lemas, dan Asfiksia*). Sebaik sahaja watak anda mula lemas, hanya lontaran Berenang yang *Sukar* atau bantuan luar boleh membawa mereka kembali ke permukaan untuk bernafas semula. Kejayaan bermakna pergerakan biasa di dalam air, manakala kejayaan cemerlang bermakna kelajuan dan kebolehan bergerak tambahan.
 
-**Nota Sistem:** Dalam perairan tenang, lemparan Berenang hanya diperlukan sekali setiap giliran. Berenang dalam perairan kasar memerlukan semakan Berenang setiap pusingan. Berenang semasa membawa sesuatu memerlukan lemparan Usaha atau lemparan rintangan STR, bergantung pada situasi. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah suai sehingga +20%. Berenang secara aktif menelan kos 1 mata keletihan setiap giliran. Selesaikan perlumbaan di dalam air sebagai semakan Berenang bertentangan, menelan kos 1 mata keletihan setiap pusingan. Tolak sebarang ENC yang dimiliki perenang daripada penilaian Berenang mereka. Jika ENC mereka melebihi STR mereka, mereka tenggelam dan mesti menanggalkan berat atau lemas. Watak berperisai mempunyai penalti yang dikenakan kepada Berenang (lihat **Perisai**). Untuk menanggalkan perisai di dalam air, buat lemparan Berenang sekali setiap pusingan tempur bagi setiap mata nilai tertinggi perisai (lemparan maksimum jika nilai perisai rawak digunakan). Perisai semula jadi atau perisai yang diberikan oleh kuasa tidak mempunyai penalti di dalam air.
+**Nota Sistem:** Di perairan tenang, lontaran Berenang hanya diperlukan sekali setiap pusingan. Berenang di perairan bergelora memerlukan semakan Berenang setiap pusingan. Berenang sambil membawa sesuatu memerlukan lontaran Usaha (Effort) atau lontaran rintangan KEK, bergantung pada situasi. Peralatan khusus (pelampung, sirip renang, dll.) menawarkan pengubah suai sehingga +20%. Berenang secara aktif menelan 1 mata keletihan setiap pusingan. Selesaikan perlumbaan di dalam air sebagai lontaran Berenang yang ditentang, menelan 1 mata keletihan setiap pusingan. Tolak sebarang ENC yang dimiliki oleh perenang daripada penarafan Berenang mereka. Jika ENC mereka melebihi KEK mereka, mereka akan tenggelam dan mesti membuang beban atau lemas. Watak berperisai mempunyai penalti yang dikenakan pada Berenang (lihat **Perisai**). Untuk menanggalkan perisai di dalam air, buat lontaran Berenang sekali setiap pusingan pertempuran bagi setiap mata nilai tertinggi perisai (lontaran maksimum jika nilai perisai rawak digunakan). Perisai semula jadi atau perisai yang diberikan oleh kuasa tidak mempunyai penalti di dalam air.
 
-Dalam tempur tangan-ke-tangan bawah air, penyerang menggunakan yang lebih rendah daripada penilaian kemahiran tempur atau Berenang mereka untuk menyelesaikan serangan, dan mencuba untuk Mengelak adalah Sukar. Hanya senjata menembusi berguna—semua yang lain melakukan 1D3–1 mata kerosakan setiap terkena. Rintangan air juga menambah 3 mata nilai perisai kepada mana-mana sasaran. Lihat **Tempur Bawah Air** untuk maklumat lanjut.
+Dalam pertempuran jarak dekat bawah air, penyerang menggunakan penarafan kemahiran pertempuran atau Berenang yang lebih rendah untuk menyelesaikan serangan, dan cuba Mengelak (Dodge) adalah Sukar. Hanya senjata yang boleh mencucuk (impaling) yang berguna—semua yang lain melakukan 1D3–1 mata kerosakan setiap serangan. Rintangan air juga menambah 3 mata nilai perisai kepada mana-mana sasaran. Lihat **Pertempuran Bawah Air** untuk maklumat lanjut.
 
-### Mengajar
+### Mengajar (Teach)
 
 **Peluang Asas:** 10%
 
 **Kategori:** Komunikasi
 
-Gunakan kemahiran ini apabila watak anda mencuba untuk melatih atau mengajar maklumat atau teknik kepada orang lain, menggunakan kuliah, latihan, atau latihan fizikal. Fumble adalah retrograd dan menyebabkan pelajar mungkin kehilangan 1D2 mata kemahiran jika mereka tidak membuat lemparan Idea untuk mengenali pengajaran yang buruk, manakala kejayaan mengajar mengikut peraturan biasa untuk latihan dan kejayaan yang lebih tinggi meningkatkan latihan kemahiran kepada 1D6 (khas) dan 1D6+2 (kritikal).
+Gunakan kemahiran ini setiap kali watak anda cuba melatih atau mengajar maklumat atau teknik kepada orang lain, menggunakan kuliah, latihan, atau sparring fizikal. Kegagalan kritikal adalah retrograd dan menyebabkan pelajar mungkin kehilangan 1D2 mata kemahiran jika mereka tidak membuat lontaran Idea untuk menyedari pengajaran yang tidak berkualiti, manakala kejayaan mengajar mengikut peraturan biasa untuk latihan dan kejayaan cemerlang meningkatkan latihan kemahiran kepada 1D6 (istimewa) dan 1D6+2 (kritikal).
 
-**Nota Sistem:** Untuk mengajar kemahiran tertentu, guru mesti mempunyai dua kali ganda penilaian kemahiran pelajar, atau penilaian kemahiran 50% (yang mana lebih rendah). Lihat **Latihan Kemahiran** untuk butiran lanjut.
+**Nota Sistem:** Untuk mengajar kemahiran tertentu, pengajar mesti mempunyai dua kali ganda penarafan kemahiran pelajar, atau penarafan kemahiran 50% (yang mana lebih rendah). Lihat **Latihan Kemahiran** untuk butiran lanjut.
 
 ### Kemahiran Teknikal (pelbagai)
 
@@ -1046,36 +1046,36 @@ Gunakan kemahiran ini apabila watak anda mencuba untuk melatih atau mengajar mak
 
 **Kategori:** Mental
 
-Gunakan kemahiran ini untuk mengendalikan dan menyelenggara peranti teknologi canggih seperti sistem komputer, robot, atau peranti tinggi lain. Ia juga boleh digunakan untuk mengubah suai peranti untuk meningkatkan prestasi mereka atau menggunakannya untuk tujuan baharu di luar parameternya. Fumble berpotensi memecahkan peranti atau menyekatnya dalam beberapa cara, manakala kejayaan dan kejayaan yang lebih tinggi menyebabkan mekanisme berfungsi seperti yang direka, atau melebihi jangkaan.
+Gunakan kemahiran ini untuk mengendalikan dan menyelenggara peranti teknologi canggih seperti sistem komputer, robot, atau peranti tinggi yang lain. Ia juga boleh digunakan untuk mengubah suai peranti untuk meningkatkan prestasinya atau menggunakannya untuk tujuan baharu di luar parameternya. Kegagalan kritikal berpotensi merosakkan peranti atau menyekatnya dengan cara tertentu, manakala kejayaan dan kejayaan cemerlang menyebabkan mekanisme berfungsi seperti yang direka, atau melebihi jangkaan.
 
-**Kepakaran:** Jam, Komputer, Siber, Elektronik, Robotik, Penderia, Enjin Pengepungan, Perangkap, dll.
+**Kepakaran:** Jam (Clockwork), Komputer, Sibernetik, Elektronik, Robotik, Penderia, Enjin Kepungan (Siege Engines), Perangkap, dll.
 
-**Nota Tetapan:** Kemahiran Teknikal dalam tetapan fantasi atau sejarah merangkumi perangkap, peranti jam atau bergear, enjin pengepungan, dll.
+**Nota Tetapan:** Kemahiran Teknikal dalam tetapan fantasi atau sejarah meliputi perangkap, jam atau peranti bergigi, enjin kepungan, dll.
 
-### Melontar
+### Membaling (Throw)
 
 **Peluang Asas:** 25%
 
 **Kategori:** Fizikal
 
-Gunakan kemahiran ini untuk mengenai sasaran dengan objek yang dilontar, atau untuk melontar senjata yang tidak seimbang untuk dilontar (seperti melontar pedang besar atau perisai). Ini merangkumi objek lontaran improvisasi, bom tangan, batang dinamit, senjata yang tidak biasa dilontar, atau bukan senjata. Laso juga dilindungi oleh kemahiran ini, serta menangkap item. Jika senjata dibuat untuk dilontar, gunakan Senjata Peluru.
+Gunakan kemahiran ini untuk mengenai sasaran dengan objek yang dibaling, atau untuk membaling senjata yang tidak seimbang untuk dibaling (seperti membaling pedang besar atau perisai). Ini merangkumi objek balingan improvisasi, bom tangan, batang dinamit, senjata yang biasanya tidak dibaling, atau bukan senjata. Laso juga diliputi oleh kemahiran ini, serta menangkap barang. Jika senjata itu dibuat untuk dibaling, gunakan Senjata Peluru (Missile Weapon).
 
-**Kesan:** Melontar mempunyai kesan khusus:
+**Kesan:** Membaling mempunyai kesan khusus:
 
-* **Fumble:** Objek dijatuhkan atau hilang. Dalam tempur, gunakan **Jadual Fumble Senjata Peluru**.
+* **Kegagalan Kritikal:** Objek terjatuh atau hilang. Dalam pertempuran, gunakan **Jadual Kegagalan Kritikal Senjata Peluru**.
 * **Kegagalan:** Objek tersasar dan pergi 1D6 meter ke arah rawak.
-* **Kejayaan:** Objek mendarat di tempat yang dimaksudkan. Lontar kerosakan secara normal, jika ada.
-* **Khas:** Objek mendarat di tempat yang dimaksudkan dan melakukan kerosakan khas mengikut kesesuaian bentuknya (lihat **Kejayaan Khas**).
-* **Kritikal:** Objek mendarat di tempat yang dimaksudkan dengan hasil yang luar biasa, mengabaikan perisai dan melakukan kerosakan kritikal, jika sesuai.
+* **Kejayaan:** Objek mendarat di tempat yang disasarkan. Lontar kerosakan seperti biasa, jika ada.
+* **Istimewa:** Objek mendarat di tempat yang disasarkan dan melakukan jenis kerosakan istimewa mengikut bentuknya (lihat **Kejayaan Istimewa**).
+* **Kritikal:** Objek mendarat di tempat yang disasarkan dengan hasil yang luar biasa, mengabaikan perisai dan melakukan kerosakan kritikal, jika sesuai.
 
-**Nota Sistem:** Tambah 1/2 pengubah suai kerosakan (bulatkan ke atas) kepada kerosakan asas senjata lontaran. Kebanyakan item boleh dilontar pada jarak STR pelontar dalam meter, dan jarak di luar itu adalah Sukar. Objek yang dilontar boleh disasarkan.
+**Nota Sistem:** Tambah 1/2 pengubah suai kerosakan (bundarkan ke atas) kepada kerosakan asas senjata balingan. Kebanyakan barang boleh dibaling sejauh KEK pembaling dalam meter, dan jarak di luar itu adalah Sukar. Objek yang dibaling boleh disasarkan.
 
-### Menjejak
+### Menjejak (Track)
 
 **Peluang Asas:** 10%
 
 **Kategori:** Persepsi
 
-Gunakan kemahiran ini untuk mengenal pasti jejak atau mengikuti laluan—sama ada orang, kenderaan, atau haiwan—di atas tanah, melalui semak, salji, dan merentasi tanah yang rosak. Fumble kehilangan laluan dan mungkin penjejak itu sendiri. Pelbagai tahap kejayaan menghasilkan hasil yang lebih baik, termasuk berpotensi dapat menilai maklumat tentang subjek yang dijejaki atau meramalkan dengan tepat ke mana mereka pergi.
+Gunakan kemahiran ini untuk mengenal pasti jejak atau mengikuti denai—sama ada orang, kenderaan, atau haiwan—di atas tanah, melalui semak, salji, dan merentasi tanah yang rosak. Kegagalan kritikal menyebabkan kehilangan jejak dan mungkin kehilangan penjejak itu sendiri. Pelbagai tahap kejayaan memberikan hasil yang lebih baik, termasuk berpotensi untuk menilai maklumat tentang subjek yang dijejaki atau meramal dengan tepat ke mana mereka pergi.
 
-**Nota Sistem:** Lemparan Menjejak mengambil masa 1D3 minit, dan percubaan penjejakan lanjutan mungkin memerlukan beberapa lemparan. Bergantung pada persekitaran, lemparan mungkin Sukar (malam hujan) atau Mudah (hari bersalji yang cerah). Jika laluan hilang, mencarinya semula adalah Sukar. Mencuba untuk menyembunyikan jejak seseorang adalah lemparan Menjejak bertentangan. Peralatan canggih mungkin menambah sehingga +20% kepada penilaian kemahiran.
+**Nota Sistem:** Lontaran Menjejak mengambil masa 1D3 minit, dan percubaan penjejakan lanjutan mungkin memerlukan berbilang lontaran. Bergantung pada persekitaran, lontaran mungkin Sukar (malam hujan) atau Mudah (hari bersalji yang cerah). Jika jejak hilang, mencarinya semula adalah Sukar. Cuba menyembunyikan jejak seseorang adalah lontaran Menjejak yang ditentang. Peralatan canggih mungkin menambah sehingga +20% kepada penarafan kemahiran.
