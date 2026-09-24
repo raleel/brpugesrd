@@ -1,740 +1,732 @@
 # 6\. Boj
 
-Boj je pomemben del mnogih dogodivščin. V boju je pomembno natančno vedeti, kaj se zgodi in kdaj, kdo lahko ukrepa v določenem trenutku in kakšna dejanja so mogoča v razpoložljivem času. Ta razdelek obravnava široko paleto dejanj, ki se zgodijo med krogom boja.
+Boj je pomemben del mnogih dogodivščin. V boju je pomembno natančno vedeti, kaj se zgodi, kdaj se zgodi, kdo lahko v določenem trenutku deluje in kakšna dejanja so mogoča v razpoložljivem času. Ta razdelek obravnava široko paleto dejanj, ki se zgodijo med krogom boja.
 
-Kot je opisano v **Časovnih merilih**, krog boja meri čas v boju ali akcijski situaciji. Krog boja traja 12 sekund, v njem pa lahko vaš lik izvaja dejanja in se odziva na druga dejanja v vrstnem redu, ki ga običajno določi značilnost SPRET (DEX); liki z višjo SPRET delujejo pred liki z nižjo SPRET. Tako kot pri veščinah se dejanja v boju določijo z metom K100 za ugotavljanje uspeha ali neuspeha napadov, obramb in drugih dejanj.
+Kot je opisano v **Časovnih lestvicah**, krog boja meri čas v situaciji boja ali akcije. Krog boja traja 12 sekund in v njem lahko vaš lik izvaja dejanja in se odziva na druga dejanja v vrstnem redu, ki ga običajno določa njihova značilnost SPR; liki z višjo SPR delujejo pred liki z nižjo SPR. Tako kot pri spretnostih se dejanja v boju določijo z metom D100, da se ugotovi uspeh ali neuspeh napadov, obramb in drugih dejanj.
 
 ## Faze kroga boja
 
-Krog boja je sestavljen iz štirih faz: **Izjave**, **Moči**, **Dejanje** in **Razrešitev**. Te se vedno pojavijo v istem vrstnem redu in se ponavljajo z vsakim novim krogom boja, dokler se boj ne konča. Vsaka faza je opisana spodaj.
+Krog boja je sestavljen iz štirih faz: **Izjave**, **Moči**, **Akcija** in **Razrešitev**. Te se vedno pojavijo v istem vrstnem redu in se ponavljajo z vsakim novim krogom boja, dokler se boj ne konča. Vsaka faza je opisana spodaj.
 
 ### Izjave
 
-Najprej igralni mojster in igralci, katerih liki so vključeni v krog boja, napovedo, kaj nameravajo storiti. To je **izjava o nameri**. Dejanja se lahko poskusijo izvesti v vrstnem redu SPRET, najvišji prvi. Ni vam treba napovedovati obrambnih dejanj – pariranj ali izmikanj –, razen če se odločite za popolnoma obrambno držo.
+Najprej igralni mojster in igralci, katerih liki so vključeni v krog boja, napovedo, kaj nameravajo storiti. To je **izjava o nameri**. Dejanja se lahko poskusijo v vrstnem redu SPR, najprej tisti z najvišjo. Ni vam treba napovedati obrambnih dejanj – pariranj ali izmikanj –, razen če se odločite za popolnoma obrambno držo.
 
 Izjave o nameri morajo biti razumne in temeljiti na tem, kar vaš lik ve.
 
 *Na primer, ne morete napovedati napada na nasprotnika, za katerega vaš lik ne ve, ne glede na to, kaj veste kot igralec.*
 
-Z izjavami o nameri se ravna po **vrstnem redu SPRET** za vse vključene. Tisti z visokim vrstnim redom SPRET dajo svoje izjave o nameri pred tistimi z nizkim vrstnim redom SPRET. Običajno bo igralni mojster odšteval od najvišjega vrstnega reda SPRET do najnižjega in pozval vsakega igralca, da ob ustreznem času navede svoja nameravana dejanja.
+Izjave o nameri se obravnavajo v vrstnem redu **ranga SPR** za vse vpletene. Tisti z visokimi rangi SPR podajo svoje izjave o nameri pred tistimi z nizkimi rangi SPR. Običajno bo igralni mojster odšteval od najvišjega ranga SPR do najnižjega in pozval vsakega igralca, da ob ustreznem času navede svoja predvidena dejanja.
 
-Igralnemu mojstru ni treba navesti, kako bodo neigralni liki ravnali v krogu, vendar se šteje za pošteno, če so dejanja fizične narave ali bi lahko kako drugače vplivala na vedenje igralčevih likov med krogom boja.
+Igralnemu mojstru ni treba navesti, kako bodo neigralni liki ravnali v krogu, vendar se šteje za pošteno, če so dejanja fizične narave ali bi lahko kako drugače vplivala na vedenje likov igralcev med krogom boja.
 
-***Na primer,*** *če skupina neigralnih likov vidno kaže, da se namerava mirno umakniti, bi moral igralec to vedeti, preden njegov lik napade.*
+***Na primer,*** *če se zdi, da se skupina neigralnih likov vidno namerava miroljubno umakniti, bi igralec moral to vedeti, preden njihov lik napade.*
 
-V nasprotnem primeru, če igralci ne morejo vedeti, kaj bodo storili neigralni liki, njihova dejanja ostanejo neznana, dokler ne ukrepajo.
+V nasprotnem primeru, če igralci nimajo možnosti vedeti, kaj bodo neigralni liki storili, njihova dejanja ostanejo neznana, dokler ne ukrepajo.
 
-Vsak se lahko odloči, da svoje dejanje odloži na kasneje, pri čemer se zadnje dejanje zgodi na vrstnem redu SPRET 1. Če odlašate dlje od tega, vaš lik v tem krogu boja ne izvede nobenega dejanja (razen obrambnega). Enako velja za neigralne like.
+Vsak se lahko odloči, da svoje dejanje preloži na kasneje, pri čemer se zadnje dejanje zgodi na rangu SPR 1. Če odlašate dlje od tega, vaš lik v tem krogu boja ne izvede nobenega dejanja (razen obrambnega). Enako velja za neigralne like.
 
-Če je treba določiti, kdo deluje prvi, ko so vrstni redi SPRET izenačeni, uporabite ustrezno veščino, da določite, kdo deluje prvi. Lik z višjo stopnjo veščine gre prvi. Če sta še vedno izenačena, se dejanja zgodita sočasno.
+Če je treba določiti, kdo deluje prvi, ko so rangi SPR izenačeni, uporabite ustrezno spretnost za določitev, kdo deluje prvi. Lik z višjo oceno spretnosti deluje prvi. Če so tudi te izenačene, se dejanja zgodijo istočasno.
 
 > #### Alternative izjavam o nameri (Možnosti)
 > 
-> Spodaj so tri alternativne metode za obravnavanje vrstnega reda dejanj v krogu boja. Uporabite jih lahko po želji, tudi v kombinaciji, da ustrezajo željam vaše skupine.
+> Sledijo tri alternativne metode obravnavanja vrstnega reda dejanj v krogu boja. Lahko se uporabijo po želji, celo kombinirajo, da ustrezajo željam vaše skupine.
 > 
-> ##### Odstranitev izjave o nameri (Možnost)
+> ##### Odprava izjave o nameri (Možnost)
 > 
-> Izjavo o nameri lahko popolnoma opustite za hitrejšo igro. V tem primeru skočite neposredno v fazo moči in nato v fazo dejanja. V tem poenostavljenem načinu igre igralni mojster odšteva vrstni red SPRET v fazi dejanja, vsak igralec poda izjave o dejanju in takoj meče, da določi izid.
+> Izjavo o nameri lahko popolnoma opustite za hitrejšo igro. V tem primeru skočite naravnost v fazo moči in nato v fazo akcije. Ta poenostavljen način igranja vključuje igralnega mojstra, ki v fazi akcije odšteva range SPR, vsak igralec pa poda izjave o akciji in takoj vrže kocko za določitev izida.
 > 
-> ##### Obrnjeni vrstni red izjave o nameri (Možnost)
+> ##### Obrnjen vrstni red izjav o nameri (Možnost)
 > 
-> Obračanje vrstnega reda izjave o nameri omogoča bolj taktičen slog igranja, ki tistim z višjim vrstnim redom SPRET omogoča boljši odziv na dejanja drugih likov, bodisi nasprotnikov ali zaveznikov. Igralni mojster začne z vrstnim redom SPRET 1 in šteje navzgor, pri čemer vsem strankam omogoči, da napovedo svoja dejanja, kot običajno. To omogoča likom z visoko SPRET, da delujejo s popolnim poznavanjem tega, kar se bo zgodilo v krogu boja, kar jim omogoča ustrezno taktično odločanje. Ko je faza izjave o nameri končana, igralni mojster običajno odšteje krog. Ta metoda ustvarja priložnost za vključitev fint in drugih morebitnih manevrov zavajanja v boj, kar omogoča bogatejše in bolj taktično okolje za vsakega igralca ali igralnega mojstra, ki uživa v takem slogu igranja.
+> Obračanje izjave o nameri omogoča bolj taktičen slog igranja, saj tistim z višjimi rangi SPR omogoča boljši odziv na dejanja drugih likov, bodisi nasprotnikov ali zaveznikov. Igralni mojster začne z rangom SPR 1 in šteje navzgor, kar vsem stranem omogoči, da kot običajno napovedo svoja dejanja. To likom z višjo SPR omogoča, da delujejo s popolnim poznavanjem tega, kaj se bo zgodilo v krogu boja, kar jim omogoča sprejemanje taktičnih odločitev. Ko je faza izjav o nameri končana, igralni mojster običajno odšteva krog. Ta metoda ustvarja priložnost za vključitev feintov in drugih potencialnih manevrov zavajanja v boj, kar omogoča bogatejše in bolj taktično okolje za vsakega igralca ali igralnega mojstra, ki uživa v takšnem slogu igranja.
 > 
 > ##### Meti za pobudo (Možnost)
 > 
-> Na začetku kroga boja vsi igralni in neigralni liki vržejo K10 in ga dodajo k svoji SPRET, s čimer ustvarijo nov in spremenljiv vrstni red SPRET. Dejanja se še vedno zgodijo v vrstnem redu SPRET. Za moči uporabite K10 plus INT in to vrednost uporabite poleg vrstnega reda SPRET. To vrednost pobude (SPRET+K10) lahko ohranite skozi celoten boj.
+> Na začetku kroga boja vsi igralci in neigralni liki vržejo D10 in ga dodajo k svoji SPR, s čimer ustvarijo nov in spremenljiv rang SPR. Dejanja se še vedno izvajajo v vrstnem redu ranga SPR. Za moči uporabite D10 plus INT in uporabite to vrednost poleg rangov SPR. Ta vrednost pobude (SPR+D10) se lahko ohranja skozi celoten boj.
 > 
-> Igralni mojster meče za vsakega neigralnega lika in lahko za udobje po želji vrže 1K10 za predstavitev skupine neigralnih likov ali celo razdeli velike skupine neigralnih likov na manjše skupine z različnimi meti za pobudo. Vodja ali drugače izjemen neigralni lik ima lahko svoje mete, da se razlikuje od množice.
+> Igralni mojster meče za vsakega neigralnega lika in lahko zaradi priročnosti vrže 1D10 za skupino neigralnih likov, če želi, ali celo razdeli velike skupine neigralnih likov v manjše skupine z različnimi meti za pobudo. Vodja ali sicer izjemen neigralni lik ima lahko svoje mete, da se loči od množice.
 > 
-> Kot opomba, liki bodo z uporabo te metode verjetneje sposobni izvesti drugo ali tretje dejanje v krogu, zaradi česar bodo krogi boja nekoliko daljši.
+> Kot opomba, liki bodo z uporabo te metode bolj verjetno sposobni izvesti drugo ali tretje dejanje v krogu, kar bo kroge boja nekoliko podaljšalo.
 
 ### Moči
 
-Moči delujejo na več načinov, v boju pa se z njimi ravna enako. Če vaš lik uporablja trenutno moč, se moč aktivira v tej fazi, v vrstnem redu INT vključenih likov, od najvišje do najnižje. To se imenuje **vrstni red INT**. Moči, ki niso trenutne, se aktivirajo na začetku naslednjega kroga boja v tisti fazi moči, razen če je navedeno drugače.
+Moči delujejo na več načinov, vendar se v boju obravnavajo enako. Če vaš lik uporablja trenutno moč, se moč aktivira v tej fazi, v vrstnem redu INT vpletenih likov, od najvišje do najnižje. To se imenuje **rang INT**. Moči, ki niso trenutne, se aktivirajo na začetku naslednjega kroga boja v tisti fazi moči, razen če je navedeno drugače.
 
-Vsak lahko odloži uporabo svoje moči na kasnejši vrstni red INT. Zadnji vrstni red INT je 1 in tako kot pri vrstnem redu SPRET, če se dejanje odloži za tem vrstnim redom, se v tem krogu boja ne zgodi. Če so vrstni redi INT izenačeni, uporabite ustrezno veščino (če obstaja) kot razrešitev izenačenja, pri čemer gre najprej tisti z višjo stopnjo veščine. Če ni ustrezne veščine, gre prvi tisti z višjo MOČ. Če sta še vedno izenačena, se moči zgodita sočasno.
+Vsak lahko odloži uporabo svoje moči na kasnejši rang INT. Zadnji rang INT je 1 in tako kot pri rangu SPR, če se dejanje odloži po tem rangu, se v tem krogu boja ne zgodi. Če so rangi INT izenačeni, uporabite ustrezno spretnost (če obstaja) kot razbijalec neodločenega izida, pri čemer gre prvi tisti z višjo oceno spretnosti. Če ni ustrezne spretnosti, gre prvi tisti z višjo ENE. Če so še vedno izenačeni, se moči zgodijo istočasno.
 
-Vaš lik lahko aktivira eno moč na krog boja. Uporaba moči v fazi moči kroga boja šteje kot dejanje vašega lika za krog. Ne morejo napasti z orožjem med svojim vrstnim redom SPRET, lahko pa se premaknejo, če želijo, in se izmaknejo ali parirajo, če je potrebno. Večina moči zahteva natančno en cel krog boja za pripravo in uporabo, njihovi učinki pa se pojavijo na začetku naslednjega kroga boja med fazo moči. Izjeme so predstavljene v opisih moči.
+Vaš lik lahko aktivira eno moč na krog boja. Uporaba moči v fazi moči kroga boja šteje kot dejanje vašega lika za krog. Ne morejo napasti z orožjem med svojim rangom SPR, lahko pa se po želji premaknejo ter se izmikajo ali parirajo, če je potrebno. Večina moči zahteva natanko en cel krog boja za pripravo in uporabo, njihovi učinki pa se pojavijo na začetku naslednjega kroga boja med fazo moči. Izjeme od tega so predstavljene v opisih moči.
 
-Točke moči, porabljene za moči, se porabijo v vrstnem redu INT, v katerem se uporabijo.
+Točke moči, porabljene za moči, se porabijo na rangu INT, na katerem se uporabijo.
 
-### Dejanje
+### Akcija
 
-Lik v boju je bodisi **vpleten** bodisi **nevpleten**. Vpleten lik je v dosegu zamaha svojih nasprotnikov in je pripravljen napasti ali se braniti, ko je to mogoče. Običajno lahko vsakdo, ki je vpleten v boj, ukrepa proti komur koli drugemu v tem boju brez kazni ali zahteve po kakršnem koli znatnem premikanju. Nevpleten lik še vedno deluje med bojem, vendar izvaja druga dejanja in je zunaj dosega boja iz oči v oči (ali pa je v njem, vendar ni dejavno vpleten).
+Lik v boju je bodisi **vpet** bodisi **nevpet**. Vpet lik je na razdalji zamaha od svojih nasprotnikov in je pripravljen napasti ali se braniti, ko je to mogoče. Običajno lahko vsakdo, ki je vpet v boj, deluje proti komurkoli drugemu v tem boju brez kazni ali potrebe po kakršnem koli pomembnem premikanju. Nevpet lik še vedno deluje med bojem, vendar izvaja druga dejanja in je zunaj dosega boja mož na mož (ali pa je v njem, vendar ni dejavno vpleten).
 
-Tako kot pri izjavah o nameri se dejanja zgodijo v vrstnem redu SPRET vašega lika. Dejanja so lahko napadi, pariranja, izmikanja ali druga dejanja, ki jih izvajajo nevpleteni liki.
+Tako kot pri izjavah o nameri se dejanja zgodijo na rangih SPR vašega lika. Dejanja so lahko napadi, pariranja, izmikanja ali druga dejanja, ki jih izvajajo nevpeti liki.
 
-Znotraj določenega vrstnega reda SPRET napadi običajno potekajo v vrstnem redu vrste orožja. Napadalci, oboroženi z orožjem na daljavo (loki, puške itd.), veljajo za tiste, ki delujejo pred tistimi v boju iz oči v oči (blizu). Za njimi sledijo liki, oboroženi z dolgim orožjem (kopja, sulice itd.), nato tisti s srednje dolgim orožjem (meči, sekire itd.) in končno tisti s kratkim orožjem (bodala itd.) ali tisti, ki so neoboroženi. Pariranja in z napadom povezana izmikanja se zgodijo v istem vrstnem redu SPRET kot prvotni napad.
+Znotraj določenega ranga SPR napadi običajno potekajo v vrstnem redu vrste orožja. Napadalci, oboroženi z orožjem na daljavo (loki, puške itd.), veljajo za tiste, ki delujejo pred tistimi v boju mož na mož (mečevanje). Za njimi gredo liki, oboroženi z dolgim orožjem (kopja, sulice itd.), nato tisti s srednje dolgim orožjem (meči, sekire itd.) in nazadnje tisti s kratkim orožjem (bodala itd.) ali tisti, ki so neoboroženi. Pariranja in izmikanja, povezana z napadom, se zgodijo v istem rangu SPR kot prvotni napad.
 
-Če lahko vaš lik v krogu izvede več kot eno dejanje (nekatera orožja omogočajo več napadov, tudi stopnje bojne veščine nad 100 % omogočajo več napadov), mora biti vsak napad ločen s 5 vrstnimi redi SPRET. Prvo dejanje je pri polnem vrstnem redu SPRET; drugo je pri vrstnem redu SPRET –5; tretje pri vrstnem redu SPRET –10; itd. Vaš lik ne more delovati pri vrstnem redu SPRET 0, zato so vsa dejanja, ki bi se zgodila pod vrstnim redom SPRET 1, izgubljena.
+Če lahko vaš lik izvede več kot eno dejanje v krogu (nekatera orožja dovoljujejo več napadov, tudi ravni spretnosti boja nad 100 % dovoljujejo več napadov), mora biti vsak napad ločen s 5 rangi SPR. Prvo dejanje je pri polnem rangu SPR; drugo pri rangu SPR –5; tretje pri rangu SPR –10; itd. Vaš lik ne more delovati na rangu SPR 0, zato so vsa dejanja, ki bi se zgodila pod rangom SPR 1, izgubljena.
 
-Sledi povzetek rezultatov dejanj znotraj kroga boja. Kasneje v tem poglavju bodo rezultati za različne stopnje uspeha (kritični in posebni uspehi) ter različne vrste napadov opisani podrobneje.
+Sledi povzetek rezultatov dejanj znotraj kroga boja. Kasneje v tem poglavju bodo podrobneje opisani rezultati za različne ravni uspeha (kritični in posebni uspehi) ter različne vrste napadov.
 
 ### Bojna dejanja
 
-V krogu boja lahko vaš lik izvede katero koli od naslednjih dejanj pri svojem vrstnem redu SPRET:
+V krogu boja lahko vaš lik izvede katero koli od naslednjih dejanj na svojem rangu SPR:
 
 * Premik
 * Napad
 * Nebojno dejanje
-* Vključitev
-* Izključitev
+* Vpetje
+* Izpetje
 
 Kadar koli med krogom boja lahko vaš lik:
 
-* Parira ali se izmakne
+* Parira ali se izmika
 * Bori se obrambno
 * Govori
 
 #### Premik
 
-Če je vaš lik nevpleten, se lahko premakne za približno 30 metrov v boju, če ne izvaja nobenih drugih dejanj razen obrambe (pariranje ali izmikanje). Premikanje med 6–15 metri pomeni, da vaš lik deluje pri 1/2 svojega običajnega vrstnega reda SPRET. Premikanje med 16–29 metri v krogu boja pomeni, da vaš lik deluje pri 1/4 svojega običajnega vrstnega reda SPRET. Ti spremenjeni vrstni redi SPRET so kumulativni s kaznimi za dodatna dejanja, pri čemer se modifikatorji gibanja za vrstni red SPRET uporabijo najprej.
+Če je vaš lik nevpet, se lahko premakne za okoli 30 metrov v krogu boja, če ne izvaja nobenih dejanj, razen da se brani (pariranje ali izmikanje). Premikanje med 6–15 metri pomeni, da vaš lik deluje pri 1/2 svojega običajnega ranga SPR. Premikanje med 16–29 metri v krogu boja pomeni, da vaš lik deluje pri 1/4 svojega običajnega ranga SPR. Ti spremenjeni rangi SPR so kumulativni s kaznimi za dodatna dejanja, pri čemer se modifikatorji premikanja na rang SPR uporabijo prvi.
 
 #### Napad
 
-Vaš lik lahko izvede napad na tarčo pri svojem vrstnem redu SPRET, poleg premika do 5 metrov. Če ni določeno drugače, se ta napad izvede pri polni stopnji veščine. Kot je navedeno zgoraj, če določeno orožje omogoča več napadov, mora biti vsak zaporedni napad pri 5 vrstnih redih SPRET nižje od prejšnjega napada.
+Vaš lik lahko izvede napad na tarčo na svojem rangu SPR, poleg premikanja do 5 metrov. Razen če ni spremenjeno drugače, se ta napad izvede pri polni oceni spretnosti. Kot je navedeno zgoraj, če določeno orožje dovoljuje več napadov, mora biti vsak naslednji napad za 5 rangov SPR nižji od prejšnjega napada.
 
 #### Nebojno dejanje
 
-Nevpleten lik lahko poskusi uporabiti veščino ali moč ali izvede kakšno drugo dejanje, ki ne zahteva preverjanja veščine, kot je izvlečenje orožja ali odpiranje vrat. Uporabite zdrav razum glede tega, katera dejanja se lahko razumno izvedejo v tem času in znotraj dovoljene stopnje gibanja. Ta dejanja, če so kombinirana z bojnimi dejanji ali več nebojnimi dejanji, povzročijo kazen za vrstni red SPRET 5 na dejanje, razen če vaš igralni mojster pravi, da bi morala trajati dlje.
+Nevpet lik lahko poskusi uporabiti spretnost ali moč ali izvesti kakšno drugo dejanje, ki ne zahteva preverjanja spretnosti, na primer izvlečenje orožja ali odpiranje vrat. Uporabite zdravo pamet glede tega, katera dejanja se lahko razumno izvedejo v tem času in znotraj dovoljene stopnje premikanja. Ta dejanja, če so združena z bojnimi dejanji ali več nebojnimi dejanji, povzročijo kazen ranga SPR 5 na dejanje, razen če vaš igralni mojster reče, da bi morala trajati dlje.
 
-#### Vključitev
+#### Vpetje
 
-Nevpleten lik se lahko premakne do 5 metrov in izvede napad in/ali obrambno dejanje brez kazni, s čimer se vključi v boj.
+Nevpet lik se lahko premakne do 5 metrov in izvede napad in/ali obrambno dejanje brez kazni, s čimer se vplete v boj.
 
-#### Izključitev
+#### Izpetje
 
-Vpleten lik se lahko odloči, da zapusti boj tako, da med fazo izjav napove, da se izključuje. Na splošno ne izvaja nobenih napadov, ampak je omejen le na izmikanja, pariranja in dejanja gibanja. Če je vaš lik uspešen pri vseh izmikanjih ali pariranjih, izvedenih med tem krogom boja, se je uspešno izključil iz boja in se lahko oddalji od bitke s svojo polno hitrostjo premikanja. Če kateri koli od teh metov ne uspe, je vaš lik še vedno vpleten v boj. Druge možnosti so zajete v **Izključitev**.
+Vpet lik se lahko odloči zapustiti boj tako, da med fazo izjav izjavi, da se izpne. Na splošno ne izvaja nobenih napadalnih dejanj, ampak je omejen le na izmikanja, pariranja in dejanja premikanja. Če je vaš lik uspešen pri vseh izmikanjih ali pariranjih, izvedenih v tem krogu boja, se je uspešno izpel iz boja in se lahko premakne za svojo polno hitrost premikanja stran od bitke. Če kateri koli od teh metov ne uspe, je vaš lik še vedno vpet v boj. Druge možnosti so zajete v **Izpetje**.
 
 #### Pariranje
 
-Vsak, ki je oborožen s parirnim orožjem ali ščitom (ali uporablja svoje telo), lahko blokira škodo napada. Vrzite proti ustrezni bojni veščini, da parirate udarec. Tega vam ni treba napovedati vnaprej, to se stori kot odziv na uspešen met za napad drugega borca.
+Vsakdo, oborožen s parirnim orožjem ali ščitom (ali z uporabo lastnega telesa), lahko blokira škodo napada. Vrzi proti ustrezni bojni spretnosti, da pariraš udarec. Tega vam ni treba napovedati vnaprej in se izvede kot odziv na uspešen met za napad drugega borca.
 
-Uspešno pariranje običajno odbije vso škodo od prihajajočega napada (razen če parirate s svojim telesom kot obliko borilnih veščin), kar zmanjša uspešne napade na zgrešene ali ustrezno zmanjša resnost posebnih ali kritičnih napadov. Točke oklepa in točke življenja (TO/TŽ) ščita se uporabljajo le pri škodi, povzročeni neposredno ščitu samemu, kot pri napadu za poskus uničenja ščita ali parirnega orožja; kot pri upiranju škodi proti točkam oklepa ščita na tabeli upora pri pariranju zdrobljenega udarca, ali ko sta 2 ali 4 točke škode povzročeni parirnemu orožju ali ščitu na **Matrici napada in obrambe**.
+Uspešno pariranje običajno odbije vso škodo od prihajajočega napada (razen če parirate z lastnim telesom kot oblika borilnih veščin), s čimer se uspešni napadi zmanjšajo na zgrešene ali pa se ustrezno zmanjša resnost posebnih ali kritičnih napadov. Točke oklepa in točke življenja ščita (AP/HP) se uporabijo le pri obravnavanju škode, povzročene neposredno ščitu samemu, kot pri napadu za poskus uničenja ščita ali parirnega orožja; kot pri upiranju škodi proti točkam oklepa ščita na tabeli odpora pri pariranju zdrobljenega udarca, ali ko sta 2 ali 4 točki škode narejeni parirnemu orožju ali ščitu na **Matriki napada in obrambe**.
 
-Vsak zaporedni poskus pariranja po prvem je spremenjen za –30 % k stopnji veščine, kumulativno. Če možnost za pariranje napada pade pod 1 %, vaš lik ne more poskusiti parirati. V večini okoliščin lahko vaš lik parira orožje na daljavo le s ščitom, pri osnovni možnosti ščita (glejte **Ščiti in ogenj na daljavo**). Če poskušate parirati vrženo orožje z ročnim orožjem, mora biti možnost pariranja poseben uspeh (1/5 običajne stopnje veščine).
+Vsak naslednji poskus pariranja po prvem je kumulativno spremenjen za –30 % na oceno spretnosti. Če možnost za pariranje napada pade pod 1 %, vaš lik ne more poskusiti parirati. V večini okoliščin lahko vaš lik parira orožje na daljavo le s ščitom, pri osnovni možnosti ščita (glej **Ščiti in streljanje na daljavo**). Če poskušate parirati vrženo orožje z ročnim orožjem, mora biti možnost pariranja poseben uspeh (1/5 običajne ocene spretnosti).
 
-Podobno, če vaš lik uporablja improvizirano orožje ali orožje, ki se običajno ne uporablja za pariranje, je možnost pariranja polovica stopnje veščine orožja ali pavšalnih 20 %, če se orožje običajno ne uporablja za pariranje ali je zunaj njihovega usposabljanja. To se lahko spremeni glede na stopnje veščin v podobnih veščinah, po presoji igralnega mojstra.
+Podobno, če vaš lik uporablja improvizirano orožje ali orožje, ki se na splošno ne uporablja za pariranje, je možnost pariranja polovica ocene spretnosti orožja ali pavšalnih 20 %, če orožje običajno ni predmet pariranja ali je zunaj njihovega usposabljanja. To se lahko spremeni na podlagi ocen spretnosti v podobnih spretnostih, po presoji igralnega mojstra.
 
-***Na primer,*** *pri streljanju s puško ima vaš lik 58 % možnost za napad, toda pri pariranju napada s puško je njegova možnost* Težka*, oziroma 29 %, ker večina sodobnega vojaškega usposabljanja za puško vključuje uporabo le-te kot parirnega orožja. Drug lik, na primer lovec, z enako veščino napada 58 %, ima 20 % možnost za pariranje s puško, privzeto možnost za pariranje z orožjem na daljavo. Podobno lahko vojak uporablja orodje za kopanje (majhna zložljiva lopata) kot parirno orožje pri 1/2 svoje veščine s sekiro, orožjem, ki je približno podobne velikosti in oblike.*
+***Na primer,*** *pri streljanju s puško ima vaš lik 58-odstotno možnost napada, pri pariranju napada s puško pa je njegova možnost Težavna ali 29 %, ker večina sodobnega vojaškega usposabljanja za puško zajema uporabo le-te kot parirnega orožja. Drug lik, na primer lovec, pa z isto spretnostjo napada 58 % ima 20-odstotno možnost pariranja s puško, kar je privzeta možnost za pariranje z orožjem na daljavo. Podobno lahko vojak uporablja orodje za vkopavanje (majhna zložljiva lopata) kot parirno orožje pri 1/2 svoje spretnosti s sekiro, orožjem, ki je po velikosti in obliki približno podobno.*
 
-Igralni mojster lahko razsodi, da določenega napada ni mogoče parirati, na primer od bistveno večjega napadalca (dvakrat ali več od SIZ branilca, na primer) ali ko napadalec uporablja območni napad ali napad pometanja.
+Igralni mojster lahko razsodi, da določenega napada ni mogoče parirati, na primer od bistveno večjega napadalca (dvakrat ali večja VEL branilca, na primer) ali ko napadalec uporablja območni ali pometalni napad.
 
-***Na primer,*** *lik s SIZ 15 ne more parirati napada brontozaverja s SIZ 72. Namesto tega se je treba napadu izogniti z izmikanjem ali kako drugače.*
+***Na primer,*** *lik z VEL 15 ne more parirati napada brontozavra z VEL 72. Namesto tega se je treba napadu izogniti z Izmikanjem ali kako drugače.*
 
 #### Izmikanje
 
-Nekaterih orožij in napadov ni mogoče parirati in se je treba namesto tega izogniti. Izmikanja lahko poskusite proti vsem napadom iz oči v oči ali vrženemu orožju. Tako kot pri pariranjih, izmikanj ni treba napovedati pred metom za napad, ampak se jih poskusi kot odziv na uspešen met za napad drugega lika (glejte Izmikanje). Vsak zaporedni poskus izmikanja po prvem je pri kazni –30 % k stopnji veščine, kumulativno. Če možnost za izmikanje napada pade pod 1 %, vaš lik ne more poskusiti izmikanja.
+Nekaterih orožij in napadov ni mogoče parirati in se jim je treba namesto tega izogniti. Izmikanja se lahko poskusijo proti vsem napadom mož na mož ali vrženemu orožju. Tako kot pri pariranjih, izmikanj ni treba napovedati pred metom za napad, ampak se poskusijo kot odziv na uspešen met za napad drugega lika (glej Izmikanje). Vsak naslednji poskus izmikanja po prvem ima kumulativno –30-odstotni modifikator na oceno spretnosti. Če možnost za izmikanje napadu pade pod 1 %, vaš lik ne more poskusiti Izmikanja.
 
-Običajno se lik ne more izogniti nabojem ali projektilom visoke hitrosti (puščice, laserji itd.). Namesto tega se predvideva, da se izmikajo iz smeri, kamor je orožje usmerjeno. V tem primeru lahko vaš lik poskusi izmikanje le proti prvemu takemu orožju na daljavo v krogu boja, in le če sta napadalec in orožje vidna. Takšni poskusi so težki. Določeni žanri ali ravni moči lahko omogočijo več svobode pri izmikanju ognju na daljavo (glejte **Izmikanje orožju na daljavo**).
+Običajno se lik ne more izmikati proti kroglam ali hitrim izstrelkom (puščice, laserji itd.). Namesto tega se predpostavlja, da se izmikajo iz smeri, kamor je orožje usmerjeno. V tem primeru lahko vaš lik poskusi Izmikanje le proti prvemu takemu orožju na daljavo v krogu boja, in le če sta napadalec in orožje vidna. Takšni poskusi so Težavni. Nekateri žanri ali ravni moči lahko omogočajo več svobode pri izmikanju streljanju na daljavo (glej **Izmikanje orožju na daljavo**).
 
 #### Borba obrambno
 
-Z uporabo te možnosti vaš lik v krogu opusti vsako napadalno dejanje, da dobi dodaten poskus izmikanja. To izmikanje ne povzroči naknadne kumulativne kazni –30 % za nadaljnje poskuse izmikanja ali pariranja (glejte **Borba obrambno**).
+Z uporabo te možnosti se vaš lik odpove kakršnemu koli napadalnemu dejanju med krogom, da dobi dodaten poskus Izmikanja. To izmikanje ne povzroči naknadne kumulativne kazni –30 % za nadaljnje poskuse izmikanja ali pariranja (glej **Borba obrambno**).
 
-#### Govori
+#### Govor
 
-Govor je prosto dejanje, običajen pogovor ali zavpiti ukazi ne stanejo nobene vrstne rede SPRET ali kako drugače znatno ne omejujejo dejanj vašega lika. Vendar, če vaš lik govori dlje časa ali če pogovor med dvema likoma poteka sredi akcije, vas lahko igralni mojster prosi, da pogovore med krogi boja ali akcijskimi sekvencami ohranite kratke. To se lahko razlikuje glede na okolje: medtem ko je popolnoma normalno, da so monologi podani med pretepom v igri o superjunakih, bi bili neprimerni v obračunu na Divjem zahodu.
+Govor je prosto dejanje in običajen pogovor ali zaklicani ukazi ne stanejo nobenih rangov SPR in ne omejujejo dejanj vašega lika na noben pomemben način. Če pa vaš lik nekaj časa govori ali če pogovor med dvema likoma poteka sredi akcije, vas lahko igralni mojster prosi, da pogovore med krogi boja ali akcijskimi sekvencami ohranite kratke. To se lahko razlikuje glede na okolje: medtem ko je popolnoma normalno, da se monologi izvajajo med pretepom v igri superjunakov, bi bili neprimerni v streljanju na Divjem zahodu.
 
 #### Pariranja in izmikanja
 
-Pariranj in izmikanj ni mogoče kombinirati v krogu, razen če je vaš lik v popolnoma obrambnem stanju. V tem primeru –30 % kazni za zaporedna obrambna dejanja vključujejo tako pariranja kot izmikanja.
+Pariranja in izmikanja ni mogoče kombinirati v krogu, razen če je vaš lik v popolnoma obrambnem stanju. V tem primeru –30-odstotni modifikatorji za zaporedna obrambna dejanja vključujejo tako pariranja kot izmikanja.
 
-> ### Moči v fazi dejanja (Možnost)
+> ### Moči v fazi akcije (Možnost)
 > 
-> Običajno se z uporabo moči ravna med fazo moči, preden se zgodi kakršno koli fizično dejanje. Da bi poenostavili stvari in izenačili pogoje, se lahko uporaba moči namesto tega zgodi med običajnim vrstnim redom SPRET, tako kot pri običajnem napadu. Faza moči kroga boja ostaja kot obdobje, v katerem začnejo veljati ne-trenutne moči, izstreljene med prejšnjim krogom boja, toda v fazi dejanja se vrstni redi INT in vrstni redi SPRET zgodijo z ramo ob rami, s čimer se kombinirata oba odštevanja. Vaš lik je še vedno omejen na eno dejanje, glede na to, kaj počne: moč gre v vrstni red INT, fizično dejanje v vrstni red SPRET. Izenačitve se razrešijo z uporabo druge značilnosti (če je INT izenačena, gre najprej višja SPRET) ali višje stopnje veščine/moči, če je primerno. Če sta še vedno izenačena, se moči zgodita sočasno.
+> Običajno se uporaba moči obravnava med fazo moči, preden se zgodi katera koli fizična akcija. Da bi poenostavili stvari in izenačili pogoje, se lahko uporaba moči namesto tega zgodi med običajnimi rangi SPR, tako kot pri običajnem napadu. Faza moči kroga boja ostaja obdobje, ko začnejo veljati moči, ki niso trenutne in so bile izvedene med prejšnjim krogom boja, toda v fazi akcije se rangi INT in rangi SPR pojavijo drug ob drugem, s čimer se združita obe odštevanji. Vaš lik je še vedno omejen na eno dejanje, odvisno od tega, kaj počne: moč gre na rang INT, fizično dejanje na rang SPR. Neodločeni izidi se razrešijo z uporabo druge značilnosti (če je INT izenačen, gre prej višja SPR) ali višje ravni spretnosti/moči, če je primerno. Če so še vedno izenačeni, se moči zgodijo istočasno.
 
-> ### Tabela lokacij zadetkov v boju iz oči v oči (Možnost)
+> ### Tabela lokacij zadetkov v boju mož na mož (Možnost)
 > 
-> Kot je opisano v **Točke življenja na lokacijo zadetka**, je skupno število točk življenja vašega lika razdeljeno med dele njihovega telesa, poleg tega pa se beleži tudi kot skupno število. Ko je napad uspešen, vrzite K20 in rezultat uporabite za posvetovanje z ustrezno tabelo lokacij zadetkov. Ljudje uporabljajo standardno tabelo lokacij zadetkov, drugi tipi teles pa imajo svoje tabele lokacij zadetkov, navedene v **Tabele lokacij zadetkov za ne-ljudi** v enajstem poglavju: Bitja. Če vaš lik ni humanoiden, bi moral igralni mojster navesti pravilno tabelo lokacij zadetkov, ki jo morate uporabiti.
+> Kot je opisano v **Točke življenja na lokacijo zadetka**, je skupno število točk življenja vašega lika razdeljeno med dele telesa, poleg tega pa se beleži tudi kot skupno število. Ko je napad uspešen, vrzi D20 in rezultat uporabi za posvetovanje z ustrezno tabelo lokacij zadetkov. Ljudje uporabljajo standardno tabelo lokacij zadetkov, drugi tipi teles pa imajo svoje tabele lokacij zadetkov v **Tabele lokacij zadetkov ne-ljudi** v enajstem poglavju: Bitja. Če vaš lik ni humanoid, mora vaš igralni mojster navesti pravilno tabelo lokacij zadetkov, ki jo morate uporabiti.
 > 
 > ##### Lokacije zadetkov
 > 
-> | Met K20 | Rezultat | Opis |
+> | Met D20 | Rezultat | Opis |
 > | :---- | :---- | :---- |
 > | 1–4 | Desna noga | Desna noga od kolka do spodnjega dela stopala |
 > | 5–8 | Leva noga | Leva noga od kolka do spodnjega dela stopala |
-> | 8–11 | Trebuh | Kolčni sklep do spodnjega dela prsnega koša |
-> | 12 | Prsi | Prsni koš do vratu in ramen |
+> | 8–11 | Trebuh | Kolčni sklep do spodnjega dela rebrne kletke |
+> | 12 | Prsni koš | Rebrna kletka do vratu in ramen |
 > | 13–15 | Desna roka | Celotna desna roka |
 > | 16–18 | Leva roka | Celotna leva roka |
 > | 19–20 | Glava | Vrat in glava |
 > 
-> Nekatere situacije, kot so kritje ali liki na konju v primerjavi z liki brez konja, spremenijo, katere lokacije zadetkov so na voljo za zadetek v boju (glejte ustrezne vnose v *Poglavje sedem: Točkovna pravila*).
+> Nekatere situacije, kot so kritje ali jahači proti nelikvidnim likom, spreminjajo, katere lokacije zadetkov so na voljo za zadetek v boju (glej ustrezne vnose v *Sedmem poglavju: Točkovna pravila*).
 
 ## Razrešitev
 
-Če želite izvesti napad, pariranje ali izmikanje, vrzite odstotne kocke in rezultat primerjajte z veščino vašega lika z orožjem ali ščitom, ki ga uporabljate. Napadi lahko izzovejo izmikanje ali pariranje, vrženo na enak način. Uspeh ali neuspeh teh metov se primerja z **Matrico napada in obrambe**, da se vidi rezultat kombiniranih dejanj napadalca in branilca.
+Za izvedbo napada, pariranja ali izmikanja vrzi percentilne kocke in primerjaj rezultat s spretnostjo svojega lika z orožjem ali ščitom, ki se uporablja. Napadi lahko izzovejo izmikanje ali pariranje, vrženo na enak način. Uspeh ali neuspeh teh metov se primerja z **Matriko napada in obrambe**, da se vidi rezultat združenih dejanj napadalca in branilca.
 
 ##### Povzetek boja
 
 | Met za napad | Met za pariranje ali izmikanje | Rezultat |
 | :---- | :---- | :---- |
-| Uspeh | Uspeh | Napadalčev udarec je odbit ali se mu je izmaknil. |
+| Uspeh | Uspeh | Napadalčev udarec je odbit ali izmiknjen. |
 | Uspeh | Neuspeh | Branilec je zadet in lahko izgubi točke življenja. |
-| Neuspeh | Noben met ni potreben | Branilec ohrani stražo, mu ni treba metati. |
-| Ponesrečeno | Noben met ni potreben | Kot pri napadalčevem zgrešenem zgoraj, plus napadalec meče na tabeli ponesrečitev. |
+| Neuspeh | Met ni potreben | Branilec ohrani gardo, ni mu treba vreči kocke. |
+| Ponesrečeno | Met ni potreben | Kot pri napadalčevem zgrešenem udarcu zgoraj, plus napadalec vrže na tabeli ponesrečenih metov. |
 
-### Stopnje uspeha in neuspeha
+### Ravni uspeha in neuspeha
 
-Tako kot pri veščinah je v boju pogosto bistveno vedeti ne le, ali je napad ali pariranje uspelo ali ne, ampak tudi, kako dobro je uspelo ali kako slabo ni uspelo.
+Tako kot pri spretnostih je tudi v boju pogosto bistveno vedeti ne le, ali je napad ali pariranje uspelo ali ni uspelo, temveč tudi, kako dobro je uspelo ali kako hudo ni uspelo.#### Kritični uspeh
 
-#### Kritični uspeh
+Najboljši možni met! Rezultat D100, ki je manjši ali enak 1/20 ocene veščine vašega lika, zaokroženo navzgor. Kritični napad pomeni, da orožje povzroči največjo možno škodo za uporabljeno orožje (6 za 1D6, 9 za 1D8+1 itd.) in normalno dobljeni modifikator škode. Razen če ga ne nevtralizira kritična parada, kritični napad vedno ignorira oklep, tudi če je ta popolnoma zaščiten. Kritična parada lahko poškoduje napadalno orožje.
 
-Najboljši možni met! Rezultat K100, manjši ali enak 1/20 stopnje veščine vašega lika, zaokroženo navzgor. Kritični napad pomeni, da orožje povzroči največjo možno škodo za uporabljeno orožje (6 za 1K6, 9 za 1K8+1 itd.) plus običajni vrženi modifikator škode. Razen če se mu zoperstavi kritično pariranje, rezultat kritičnega napada vedno ignorira oklep, tudi če je ta oklep vseobsegajoč. Kritično pariranje lahko poškoduje napadalno orožje.
+***Na primer,*** *če ima vaš lik oceno veščine z orožjem 60 %, doseže kritični uspeh z metom 01–03. Ko se to zgodi, vaš lik preprosto povzroči največjo škodo, ki jo orožje lahko zada, normalno vrže za modifikator škode in ignorira ves oklep, ki ga cilj morda nosi, ne glede na to, ali je naraven ali pogonski. Če je kritični uspeh dosežen s kratkim mečem, ki zada 1D6+1 škode, in je modifikator škode vašega lika 1D4, je kritična škoda 7+1D4 (6+1=7), kar ignorira ciljev oklep. Če gre za pištolo, ki zada 1D10 škode, je škoda 10 in ignorira ciljev oklep.*
 
-***Na primer,*** *če ima vaš lik stopnjo veščine orožja 60 %, doseže kritični uspeh pri metu 01–03. Ko je to vrženo, vaš lik preprosto vzame največjo škodo, ki jo lahko orožje povzroči, vrže modifikator škode kot običajno in ignorira kakršen koli oklep, ki ga tarča morda nosi, bodisi naravni ali napajani. Če je kritični uspeh s kratkim mečem, ki povzroči 1K6+1 škode, in je modifikator škode vašega lika 1K4, je kritična škoda 7+1K4 (6+1=7), kar ignorira oklep tarče. Če je orožje pištola, ki povzroči 1K10 škode, je škoda 10 in ignorira oklep tarče.*
-
-Vaši igralni mojstri lahko vašemu liku po želji omogočijo, da tarči namesto kritičnega uspeha povzroči poseben uspeh (spodaj).
+Vaši mojstri iger lahko vašemu liku dovolijo, da namesto kritičnega uspeha cilju zada poseben uspeh (spodaj), če to želijo.
 
 #### Poseben uspeh
 
-Izjemen met. Rezultat K100, manjši ali enak 1/5 stopnje veščine vašega lika, zaokroženo navzgor. Poseben napad pogosto pomeni, da orožje povzroči normalno škodo poleg posebnega rezultata, ki temelji na vrsti orožja.
+Izjemen met. Rezultat D100, ki je manjši ali enak 1/5 ocene veščine vašega lika, zaokroženo navzgor. Poseben napad pogosto pomeni, da orožje poleg normalne škode povzroči še poseben rezultat, ki temelji na vrsti orožja.
 
-*Na primer, orožje za tolčenje, kot je kij, ima učinek odbijanja/podiranja.*
+*Na primer, orožje za tolčenje, kot je kij, ima učinek odbijanja/podrtja.*
 
-Posebno pariranje lahko povzroči škodo napadalnemu orožju.
+Posebna parada lahko povzroči škodo napadalnemu orožju.
 
-***Na primer,*** *pri strelnem orožju 60 % vaš lik doseže poseben uspeh pri metu 04–12. To povzroči normalno škodo (1K8, na primer), v primeru strelnega orožja pa tudi prebodno škodo.*
+***Na primer,*** *z veščino Strelno orožje 60 % vaš lik doseže poseben uspeh z metom 04–12. To povzroči normalno škodo (na primer 1D8), v primeru strelnega orožja pa tudi škodo s prebadanjem.*
 
 #### Uspeh
 
-Dober met. To je rezultat K100, enak ali manjši od stopnje veščine vašega lika, vendar višji od rezultata, potrebnega za poseben ali kritični uspeh. Napadi so uspešni, če niso parirani ali se jim ni mogoče izogniti, škoda pa se vrže normalno, brez povzročene škode bodisi napadalnemu bodisi parirnemu orožju.
+Dober met. To je rezultat D100, ki je enak ali manjši od ocene veščine vašega lika, vendar višji od rezultata, potrebnega za poseben ali kritični uspeh. Napadi so uspešni, če niso parirani ali če se jim cilj ne izmakne, škoda pa se vrže normalno, brez poškodb napadalnega ali parirajočega orožja.
 
-***Na primer,*** *pri veščini strelnega orožja 60 % vaš lik doseže normalen uspeh pri metu 13–60. Za strelno orožje, ki povzroči 1K8 točk škode, se vrže normalna škoda.*
+***Na primer,*** *z veščino Strelno orožje 60 % vaš lik doseže normalni uspeh z metom 13–60. Pri strelnem orožju, ki zada 1D8 točk škode, se vrže za normalno škodo.*
 
 #### Neuspeh
 
-Slab met. Rezultat K100, večji od stopnje veščine vašega lika, vendar manjši od najvišje 1/20 možnosti za neuspeh (glejte Ponesrečeno, spodaj). Neuspeh pri boju pomeni, da poskus ni uspel, vendar lahko vaš lik poskusi znova kasneje v istem ali naslednjem krogu boja.
+Slab met. Rezultat D100, ki je večji od ocene veščine vašega lika, vendar manjši od najvišjih 1/20 možnosti za neuspeh (glejte Fumble, spodaj). Neuspeh pri borbenem metu pomeni, da poskus ni uspel, vendar lahko vaš lik poskusi znova pozneje v isti ali naslednji borbeni rundi.
 
-***Na primer,*** *pri veščini strelnega orožja 60 % vaš lik ne uspe pri metu 61–97. Nobena škoda ni vržena in vaša tarča se ji ni treba poskusiti izogniti ali parirati napada.*
+***Na primer,*** *z veščino Strelno orožje 60 % vaš lik neuspešno opravi met z rezultatom 61–97. Škoda se ne vrže in cilj se ne rabi izmikati ali parirati napada.*
 
-#### Ponesrečeno
+#### Fumble (Ponesrečen met)
 
-Katastrofalen met! Rezultat najvišje 1/20 možnosti za neuspeh, ki se običajno giblje od 96–100 za nižje stopnje veščin do meta 100, ko so stopnje veščine likov nad 100 %. Ponesrečeno pogosto kaže na dramatično nesrečo in pogosto prisili v met na ustrezni tabeli ponesrečitev. Glejte **Napadi z orožjem iz oči v oči**, **Pariranja z orožjem iz oči v oči**, **Napadi z orožjem na daljavo** in **Tabele ponesrečitev naravnih napadov in pariranj**.
+Katastrofalen met! Rezultat v najvišjih 1/20 možnosti za neuspeh, običajno v razponu od 96–100 za nižje stopnje veščin do meta 100, ko so stopnje veščin lika nad 100 %. Ponesrečen met pogosto nakazuje dramatično nesrečo in pogosto sili k metu na ustrezni tabeli za ponesrečene mete. Glejte **Tabele za ponesrečene mete pri napadih z orožjem za bližnji boj**, **pri paradah z orožjem za bližnji boj**, **pri napadih z orožjem za dolge razdalje** in **pri naravnih napadih in paradah**.
 
-***Na primer,*** *pri veščini strelnega orožja 60 % vaš lik ponesreči pri metu 98–00. Nobena škoda ni vržena, čeprav morate vreči na **Tabeli ponesrečitev orožja na daljavo**, da določite izid tega zgrešenega napada.*
+***Na primer,*** *z veščino Strelno orožje 60 % vaš lik ponesreči met z rezultatom 98–00. Škoda se ne vrže, vendar morate vreči na **Tabeli za ponesrečene mete pri orožjih za dolge razdalje**, da določite rezultat tega zavoženega napada.*
 
-Nekatera orožja imajo svojo možnost za okvaro (zataknitev, zaklenitev itd.), izraženo kot visok rezultat.
+Nekatera orožja imajo svojo možnost za okvaro (zagozditev, blokada itd.), izraženo kot visok rezultat.
 
 ***Na primer,*** *mušketa vedno odpove pri metu 95–00, ne glede na veščino uporabnika.*
 
-Odvisno od rezultata istega nesrečnega meta in glede na stopnjo veščine vašega lika je možno, da vaš lik hkrati ponesreči in ima okvaro orožja; da ima okvaro orožja brez ponesrečitve; ali da ima ponesrečitev brez okvare orožja.
+Glede na rezultat istega nesrečnega meta in glede na oceno veščine vašega lika je mogoče, da vaš lik hkrati ponesreči met in mu odpove orožje; da mu odpove orožje brez ponesrečenega meta; ali da ponesreči met brez odpovedi orožja.
 
-***Na primer,*** *vaš lik ima veščino 60 % z mušketo in vrže 99 med streljanjem. Ker orožje odpove pri metu 95–00 in vaš lik običajno ponesreči pri metu 98–00, je ta napad na žalost hkrati ponesrečitev in okvara orožja. Če bi bil met 95, 96 ali 97, bi šlo le za okvaro orožja.*
+***Na primer,*** *vaš lik ima veščino 60 % z mušketo in pri streljanju vrže 99. Ker orožje odpove pri metu 95–00 in vaš lik običajno ponesreči met pri 98–00, je ta napad žal hkrati ponesrečen met in odpoved orožja. Če bi bil met 95, 96 ali 97, bi šlo le za odpoved orožja.*
 
-Če rezultat ponesrečitve določa napad na drugo tarčo od nameravane in okvara povzroči zataknitev, se napad zgodi pred okvaro (glejte **Okvare**).
+Če rezultat ponesrečenega meta določa napad na cilj, ki ni nameravan, in odpoved povzroči zagozditev, se napad zgodi pred odpovedjo (glejte **Odpovedi**).
 
-##### Matrica napada in obrambe
+##### Matrika napada in obrambe
 
-| Met za napad | Met za pariranje | Met za izmikanje | Rezultat |
+| Met za napad | Met za parado | Met za izmikanje | Rezultat |
 | :---- | :---- | :---- | :---- |
 | Kritični | Kritični | Kritični | Branilec parira ali se izmakne škodi, nobenega drugega rezultata. |
-| Kritični | Posebni | Posebni | Napad delno odbit ali se mu je izmaknil in doseže uspeh. Napadalec udari branilca in normalno vrže škodo. Vrednost oklepa branilca se odšteje od škode. Parirno orožje ali ščit prejme 2 točki škode.* |
-| Kritični | Uspeh | Uspeh | Napad mejno odbit in doseže poseben uspeh. Napad povzroči polno škodo** plus normalen modifikator škode in ustrezno poseben rezultat. Vrednost oklepa branilca se odšteje od škode. Parirno orožje ali ščit prejme 4 točke škode.* |
-| Kritični | Neuspeh | Neuspeh | Napad doseže kritični uspeh (lahko namesto tega izbere poseben uspeh). Napad povzroči maksimalno škodo plus normalen modifikator škode. Vrednost oklepa branilca je obšli. |
-| Kritični | Ponesrečeno | Ponesrečeno | Napad doseže kritični uspeh (lahko namesto tega izbere poseben uspeh). Napad povzroči maksimalno škodo plus normalen modifikator škode. Vrednost oklepa branilca ne velja. Branilec meče na ustrezni tabeli ponesrečitev. |
-| Posebni | Kritični | Kritični | Branilec parira ali se izmakne napadu; nobenega drugega rezultata. Če parirano v boju iz oči v oči, orožje napadalca prejme 1 točko škode.* |
+| Kritični | Posebni | Posebni | Napad delno odbit ali izmaknjen in doseže uspeh. Napadalec zadane branilca in normalno vrže za škodo. Od škode se odšteje vrednost branilčevega oklepa. Parirajoče orožje ali ščit prejme 2 točki škode.* |
+| Kritični | Uspeh | Uspeh | Napad rahlo odbit in doseže poseben uspeh. Napad povzroči polno škodo** plus normalni modifikator škode in ustrezen poseben rezultat. Od škode se odšteje vrednost branilčevega oklepa. Parirajoče orožje ali ščit prejme 4 točke škode.* |
+| Kritični | Neuspeh | Neuspeh | Napad doseže kritični uspeh (lahko izberete poseben uspeh). Napad povzroči maksimalno škodo plus normalni modifikator škode. Branilčev oklep je obvozilo. |
+| Kritični | Fumble | Fumble | Napad doseže kritični uspeh (lahko izberete poseben uspeh). Napad povzroči maksimalno škodo plus normalni modifikator škode. Branilčev oklep se ne upošteva. Branilec vrže na ustrezni tabeli za ponesrečene mete. |
+| Posebni | Kritični | Kritični | Branilec parira ali se izmakne napadu; nobenega drugega rezultata. Če parirano v bližnjem boju, napadalčevo orožje prejme 1 točko škode.* |
 | Posebni | Posebni | Posebni | Branilec parira ali se izmakne napadu, nobenega drugega rezultata. |
-| Posebni | Uspeh | Uspeh | Napad delno pariran ali se mu je izmaknil in doseže normalen uspeh. Vrednost oklepa branilca se odšteje od škode. Parirno orožje ali ščit prejme 2 točki škode.* |
-| Posebni | Neuspeh | Neuspeh | Napad doseže poseben uspeh. Napad povzroči polno škodo** plus normalen modifikator škode in ustrezno poseben rezultat. Vrednost oklepa branilca se odšteje od škode. |
-| Posebni | Ponesrečeno | Ponesrečeno | Napad doseže poseben uspeh. Napad povzroči polno škodo** plus normalen modifikator škode in ustrezno poseben rezultat. Vrednost oklepa branilca se odšteje od škode. Branilec meče na ustrezni tabeli ponesrečitev. |
-| Uspeh | Kritični | Kritični | Branilec blokira ali se izmakne škodi; nobenega drugega rezultata. Če parirano v boju iz oči v oči, orožje napadalca prejme 2 točki škode.* |
-| Uspeh | Posebni | Posebni | Branilec blokira ali se izmakne škodi; nobenega drugega rezultata. Če parirano v boju iz oči v oči, orožje napadalca prejme 1 točko škode.* |
+| Posebni | Uspeh | Uspeh | Napad delno pariran ali izmaknjen in doseže normalni uspeh. Od škode se odšteje vrednost branilčevega oklepa. Parirajoče orožje ali ščit prejme 2 točki škode.* |
+| Posebni | Neuspeh | Neuspeh | Napad doseže poseben uspeh. Napad povzroči polno škodo** plus normalni modifikator škode in ustrezen poseben rezultat. Od škode se odšteje vrednost branilčevega oklepa. |
+| Posebni | Fumble | Fumble | Napad doseže poseben uspeh. Napad povzroči polno škodo** plus normalni modifikator škode in ustrezen poseben rezultat. Od škode se odšteje vrednost branilčevega oklepa. Branilec vrže na ustrezni tabeli za ponesrečene mete. |
+| Uspeh | Kritični | Kritični | Branilec blokira ali se izmakne škodi; nobenega drugega rezultata. Če parirano v bližnjem boju, napadalčevo orožje prejme 2 točki škode.* |
+| Uspeh | Posebni | Posebni | Branilec blokira ali se izmakne škodi; nobenega drugega rezultata. Če parirano v bližnjem boju, napadalčevo orožje prejme 1 točko škode.* |
 | Uspeh | Uspeh | Uspeh | Branilec blokira ali se izmakne škodi, nobenega drugega rezultata. |
-| Uspeh | Neuspeh | Neuspeh | Napad zadene branilca in normalno vrže škodo. Vrednost oklepa branilca se odšteje od škode. |
-| Uspeh | Ponesrečeno | Ponesrečeno | Napad zadene branilca in normalno vrže škodo. Vrednost oklepa branilca se odšteje od škode. Branilec meče na ustrezni tabeli ponesrečitev. |
-| Neuspeh | — | — | Nobene škode; nobenega učinka. |
-| Ponesrečeno | — | — | Napad popolnoma zgreši in napadalec meče na ustrezni tabeli ponesrečitev. Branilec nepoškodovan. |
+| Uspeh | Neuspeh | Neuspeh | Napad zadane branilca in normalno vrže za škodo. Od škode se odšteje vrednost branilčevega oklepa. |
+| Uspeh | Fumble | Fumble | Napad zadane branilca in normalno vrže za škodo. Od škode se odšteje vrednost branilčevega oklepa. Branilec vrže na ustrezni tabeli za ponesrečene mete. |
+| Neuspeh | — | — | Brez škode; brez učinka. |
+| Fumble | — | — | Napad popolnoma zgreši in napadalec vrže na ustrezni tabeli za ponesrečene mete. Branilec nepoškodovan. |
 
-\* Če je parirno orožje ali ščit uničen med poskusom pariranja, vržite normalno škodo napadalnega orožja in odštejte točke škode, uporabljene za uničenje parirnega orožja ali ščita. Preostala škoda prodre skozi poskus pariranja, da poškoduje branilca (oklep še vedno ščiti). Če je napadalno orožje uničeno med uspešnim napadom, se škoda še vedno povzroči branilcu in orožje se v tistem trenutku zlomi.
+\* Če je parirajoče orožje ali ščit med poskusom pariranja uničen, vrzi za normalno škodo napadalnega orožja in odštej točke škode, porabljene za uničenje parirajočega orožja ali ščita. Preostala škoda prebije poskus pariranja in poškoduje branilca (oklep še vedno ščiti). Če je napadalno orožje uničeno med uspešnim napadom, se škoda branilcu še vedno povzroči, orožje pa se v tistem trenutku zlomi.
 
-\*\* To je škoda, ki bi jo ta vrsta napada običajno povzročila. To ni isto kot 'maksimalna škoda'. Za velik meč je polna škoda 2K8 pri normalnem uspehu, 2K8 škode krvavenja pri posebnem uspehu, pri kritičnem uspehu pa povzroči 16 škode, ki ignorira oklep. Modifikator škode se v vseh primerih vrže ločeno in doda kasneje.
+\*\* To je škoda, ki bi jo takšna vrsta napada običajno povzročila. To ni isto kot "maksimalna škoda". Pri velikem meču je polna škoda 2D8 ob normalnem uspehu, 2D8 krvavitvene škode ob posebnem uspehu, pri kritičnem uspehu pa povzroči 16 škode, kar ignorira ciljev oklep. Modifikator škode se v vseh primerih vrže posebej in doda naknadno.
 
-##### Tabela ponesrečitev napada z orožjem iz oči v oči
+##### Tabela za ponesrečene mete pri napadih z orožjem za bližnji boj
 
-| Met K100 | Rezultat |
+| D100 | Rezultat |
 | :---- | :---- |
-| 01–15 | Izgubi naslednji krog boja in je dejansko nemočen. |
-| 16–25 | Izgubi naslednje 1K3 kroge boja in je dejansko nemočen. |
-| 26–40 | Pade na tla. |
-| 41–50 | Spusti uporabljeno orožje. |
-| 51–60 | Vrže orožje 1K10 metrov stran. |
-| 61–65 | Izgubi 1K10 točk točk življenja orožja. |
-| 66–75 | Vid zamegljen, spremeni vse ustrezne veščine za –30 % za 1K3 kroge boja. |
-| 76–85 | Zadene najbližjega zaveznika za normalno škodo ali uporabi rezultat 41–50, če v bližini ni zaveznika. |
-| 86–90 | Zadene najbližjega zaveznika za posebno škodo ali uporabi rezultat 51–60, če v bližini ni zaveznika. |
-| 91–98 | Zadene najbližjega zaveznika za kritično škodo ali uporabi rezultat 61–65, če v bližini ni zaveznika. |
-| 99 | Zamoči; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
-| 00 | Zamoči močno; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 01–15 | Izgubite naslednjo borbeno rundo in ste praktično nemočni. |
+| 16–25 | Izgubite naslednjih 1D3 borbenih rund in ste praktično nemočni. |
+| 26–40 | Padete na tla. |
+| 41–50 | Izpustite orožje, ki ga uporabljate. |
+| 51–60 | Vržete orožje 1D10 metrov stran. |
+| 61–65 | Izgubite 1D10 točk zdravja orožja. |
+| 66–75 | Vid je oviran, spremenite vse ustrezne veščine za –30 % za 1D3 borbenih rund. |
+| 76–85 | Zadanete najbližjega zaveznika z normalno škodo ali uporabite rezultat 41–50, če v bližini ni zaveznika. |
+| 86–90 | Zadanete najbližjega zaveznika s posebno škodo ali uporabite rezultat 51–60, če v bližini ni zaveznika. |
+| 91–98 | Zadanete najbližjega zaveznika s kritično škodo ali uporabite rezultat 61–65, če v bližini ni zaveznika. |
+| 99 | Zamočili ste; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 00 | Hudo ste zamočili; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
 
-##### Tabela ponesrečitev pariranja z orožjem iz oči v oči
+##### Tabela za ponesrečene mete pri paradah z orožjem za bližnji boj
 
-| Met K100 | Rezultat |
+| D100 | Rezultat |
 | :---- | :---- |
-| 01–20 | Izgubi naslednji krog boja (ali tega, če dejanje še ni bilo izvedeno) in je dejansko nemočen. |
-| 21–40 | Pade na tla. |
-| 41–50 | Spusti uporabljeno orožje. |
-| 51–60 | Vrže orožje 1K10 metrov stran. |
-| 61–75 | Vid zamegljen; spremeni vse ustrezne veščine za –30 % za 1K3 kroge boja. |
-| 76–85 | Popolnoma odprt; nasprotnik samodejno zadene z normalnim zadetkom. |
-| 86–90 | Popolnoma odprt; nasprotnik samodejno zadene s posebnim zadetkom. |
-| 91–93 | Popolnoma odprt; nasprotnik samodejno zadene s kritičnim zadetkom. |
-| 94–98 | Zamoči; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
-| 99–00 | Zamoči močno; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 01–20 | Izgubite naslednjo borbeno rundo (ali to, če še niste opravili nobene akcije) in ste praktično nemočni. |
+| 21–40 | Padete na tla. |
+| 41–50 | Izpustite orožje, ki ga uporabljate. |
+| 51–60 | Vržete orožje 1D10 metrov stran. |
+| 61–75 | Vid je oviran; spremenite vse ustrezne veščine za –30 % za 1D3 borbenih rund. |
+| 76–85 | Široko odprti; nasprotnik samodejno zadane z normalnim udarcem. |
+| 86–90 | Široko odprti; nasprotnik samodejno zadane s posebnim udarcem. |
+| 91–93 | Široko odprti; nasprotnik samodejno zadane s kritičnim udarcem. |
+| 94–98 | Zamočili ste; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 99–00 | Hudo ste zamočili; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
 
-##### Tabela ponesrečitev napada z orožjem na daljavo
+##### Tabela za ponesrečene mete pri napadih z orožjem za dolge razdalje
 
-| Met K100 | Rezultat |
+| D100 | Rezultat |
 | :---- | :---- |
-| 01–15 | Izgubi naslednji napad ali drugo dejavnost. |
-| 16–25 | Izgubi naslednje 1K3 kroge boja ali drugo dejavnost. |
-| 26–40 | Pade na tla. |
-| 41–55 | Vid zamegljen; spremeni vse ustrezne veščine za –30 % za 1K3 kroge boja. |
-| 56–65 | Spusti orožje; ki zdrsne ali odskoči 1K6–1 metrov stran. |
-| 66–80 | Povzroči 1K6 škode točkam življenja orožja (ali uporabi rezultat 81–85, če orožje nima točk življenja). |
-| 81–85 | Zlomi orožje; ne glede na trenutne točke življenja orožja. |
-| 86–90 | Zadene najbližjega zaveznika za normalno škodo ali uporabi rezultat 56–65, če v bližini ni zaveznika. |
-| 91–95 | Zadene najbližjega zaveznika za posebno škodo ali uporabi rezultat 66–80, če v bližini ni zaveznika. |
-| 96–98 | Zadene najbližjega zaveznika za kritično škodo ali uporabi rezultat 81–85, če v bližini ni zaveznika. |
-| 99 | Zamoči; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
-| 00 | Zamoči močno; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 01–15 | Izgubite naslednji napad ali drugo aktivnost. |
+| 16–25 | Izgubite naslednjih 1D3 borbenih rund ali drugo aktivnost. |
+| 26–40 | Padete na tla. |
+| 41–55 | Vid je oviran; spremenite vse ustrezne veščine za –30 % za 1D3 borbenih rund. |
+| 56–65 | Izpustite orožje; ki zdrsne ali odskoči 1D6–1 metrov stran. |
+| 66–80 | Povzročite 1D6 škode na točkah zdravja orožja (ali uporabite rezultat 81–85, če orožje nima točk zdravja). |
+| 81–85 | Zlomite orožje; ne glede na trenutne točke zdravja orožja. |
+| 86–90 | Zadanete najbližjega zaveznika z normalno škodo ali uporabite rezultat 56–65, če v bližini ni zaveznika. |
+| 91–95 | Zadanete najbližjega zaveznika s posebno škodo ali uporabite rezultat 66–80, če v bližini ni zaveznika. |
+| 96–98 | Zadanete najbližjega zaveznika s kritično škodo ali uporabite rezultat 81–85, če v bližini ni zaveznika. |
+| 99 | Zamočili ste; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 00 | Hudo ste zamočili; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
 
-##### Tabela ponesrečitev naravnega napada in pariranja
+##### Tabela za ponesrečene mete pri naravnih napadih in paradah
 
-| Met K100 | Rezultat |
+| D100 | Rezultat |
 | :---- | :---- |
-| 01–25 | Izgubi naslednji krog boja (ali tega, če dejanje še ni bilo izvedeno). |
-| 26–30 | Izgubi naslednje 1K3 kroge boja (to vključuje tega, če dejanje še ni bilo izvedeno). |
-| 31–50 | Pade na tla. |
-| 51–60 | Pade na tla in si zvije gleženj; spremeni GIB za –1 GIB za 1K10 polnih obratov (in vse bojne obrate znotraj njih). |
-| 61–75 | Vid zamegljen; spremeni vse ustrezne veščine za –30 % za 1K3 kroge boja. |
-| 76–85 | Zgreši in nekaj napne; izgubi 1 točko življenja (v napadalnem uda, če se uporabljajo lokacije zadetkov). |
-| 86–90 | Zadene najbližjega zaveznika za normalno škodo ali uporabi rezultat 76–85, če v bližini ni zaveznika. |
-| 91–94 | Zadene najbližjega zaveznika za posebno škodo ali uporabi rezultat 76–85, če v bližini ni zaveznika. |
-| 95–98 | Zadene trdo površino; povzroči normalno škodo sebi (v napadalnem uda, če se uporabljajo lokacije zadetkov). |
-| 99 | Zamoči; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
-| 00 | Zamoči močno; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 01–25 | Izgubite naslednjo borbeno rundo (ali to, če še niste opravili nobene akcije). |
+| 26–30 | Izgubite naslednjih 1D3 borbenih rund (to vključuje to, če še niste opravili nobene akcije). |
+| 31–50 | Padete na tla. |
+| 51–60 | Padete na tla in si zvijete gleženj; spremenite MOV za –1 MOV za 1D10 polnih obratov (in vse borbene obrate znotraj njih). |
+| 61–75 | Vid je oviran; spremenite vse ustrezne veščine za –30 % za 1D3 borbenih rund. |
+| 76–85 | Zgrešite in nekaj napnete; izgubite 1 točko zdravja (v napadalnem udu, če se uporabljajo lokacije zadetkov). |
+| 86–90 | Zadanete najbližjega zaveznika z normalno škodo ali uporabite rezultat 76–85, če v bližini ni zaveznika. |
+| 91–94 | Zadanete najbližjega zaveznika s posebno škodo ali uporabite rezultat 76–85, če v bližini ni zaveznika. |
+| 95–98 | Zadanete trdo površino; povzročite normalno škodo sebi (v napadalnem udu, če se uporabljajo lokacije zadetkov). |
+| 99 | Zamočili ste; vrzite še dvakrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
+| 00 | Hudo ste zamočili; vrzite še trikrat na tej tabeli (kumulativno, če se ta rezultat ponovno vrže). |
 
 ### Posebni uspehi in škoda
 
-Različne vrste orožja povzročajo različne vrste škode ob posebnih uspehih. Obstaja pet vrst posebne škode: krvavenje, drobljenje, zapletanje, prebadanje in podiranje.
+Različne vrste orožja ob posebnih uspehih povzročajo različne vrste škode. Obstaja pet vrst posebne škode: krvavitev, drobljenje, zapletanje, prebadanje in odbijanje.
 
-* **Krvavenje:** Rana, ki povzroči globok rez v tkivo do arterij ali večjih organov. Orožja z ostrim robom povzročijo škodo krvavenja.
+* **Krvavitev:** Rana, ki povzroči globok rez tkiva v arterije ali glavne organe. Orožja z ostrim robom povzročajo krvavitveno škodo.
 
-* **Drobljenje:** Rana, ki vključuje top udarec žrtvi, pogosto zlomi kosti in osupne tarčo. Kiji, neoboroženi udarci in druga topa orožja lahko povzročijo škodo drobljenja.
+* **Drobljenje:** Rana, ki vključuje top udarec žrtvi, pogosto zlomi kosti in ošibi cilj. Kiji, neoboroženi udarci in druga topa orožja lahko povzročijo škodo z drobljenjem.
 
-* **Zapletanje:** Pripetje ali drugačno zanka okoli udov ali telesa tarče. Prilagodljiva orožja, mreže, vrvi in tista s kratkimi, nazobčanimi konicami povzročijo napade zapletanja.
+* **Zapletanje:** Pripetje ali drugačno ujetje okončin ali telesa cilja. Prilagodljiva orožja, mreže, vrvi in tista s kratkimi, nazobčanimi konicami povzročajo napade zapletanja.
 
-* **Prebadanje:** Globoka rana, ki predre vitalne organe ali gre v celoti skozi telo tarče. Strelno orožje, puščice in druga koničasta orožja povzročijo škodo prebadanja.
+* **Prebadanje:** Globoka rana, ki predre vitalne organe ali gre popolnoma skozi telo cilja. Strelno orožje, puščice in druga koničasta orožja povzročajo škodo s prebadanjem.
 
-* **Podiranje:** Rana, ki spravi tarčo iz ravnotežja in jo po možnosti pošlje nazaj. Nekatere oblike neoboroženih napadov in napadov s ščitom povzročijo podiranje.
+* **Odbijanje:** Rana, ki vrže iz ravnotežja in morda pošlje cilj nazaj na tla. Nekatere oblike neoboroženih napadov in napadov s ščitom povzročajo odbijanje.
 
 Teh pet vrst škode je opisanih v spodnjih razdelkih.
 
-#### Krvavenje
+#### Krvavitev
 
-Poseben uspeh z orožjem za sekanje povzroči škodo krvavenja tarči, ki ima zdaj prerezano žilo ali glavno arterijo in hitro izgublja kri. To povzroči 1 dodatno točko škode pri vrstnem redu SPRET 1 vsakega kroga po krogu, v katerem je rana povzročena. Če se uporabljajo točke utrujenosti, tarča izgubi 1 dodatno točko utrujenosti vsak krog, ko krvavi. Oklep ščiti pred začetnim napadom, ne pa pred učinki krvavenja.
+Poseben uspeh z orožjem za sekanje povzroči cilju krvavitveno škodo, saj ima zdaj prerezano veno ali glavno arterijo in hitro izgublja kri. To povzroči 1 dodatno točko škode na SPR rangu 1 vsake runde po rundi, v kateri je bila rana povzročena. Če se uporabljajo točke utrujenosti, cilj vsako rundo, ko krvavi, izgubi 1 dodatno točko utrujenosti. Oklep ščiti pred začetnim napadom, ne pa tudi pred učinki krvavitve.
 
-Med bojem lahko tarča poskusi enkrat na krog ustaviti krvavenje, v bistvu tako, da položi prazno roko na rano in pritisne. Na koncu vsakega kroga lahko tarča poskusi met za Vzdržljivost, da ugotovi, ali se krvavenje ustavi. Če je uspešen, se rana drži zaprta in tarča ne bo trpela nobene dodatne škode zaradi krvavenja. Med tem so vsi napadi, pariranja ali fizična dejanja, ki jih poskušajo, *Težki*. Poskus izmikanja prekliče poskus zaustavitve krvavenja. Če ni uspešen, se krvavenje nadaljuje, in če se tarča izmakne ali izvaja kakršno koli naporno dejavnost, se krvavenje znova začne.
+Med borbo lahko cilj poskusi ustaviti krvavitev enkrat na rundo, tako da v bistvu položi prazno roko na rano in pritisne. Ob koncu vsake runde lahko cilj poskusi met za VZD, da ugotovi, ali se je krvavitev ustavila. Če je uspešen, je rana držana zaprta in cilj ne bo več utrpel škode zaradi krvavitve. Med tem so vsi napadi, parade ali fizične akcije, ki jih poskusi, *Težki*. Poskus izmikanja prekliče poskus ustavitve krvavitve. Če ni uspešen, se krvavitev nadaljuje, in če se cilj izmakne ali izvaja kakršno koli naporno dejavnost, se krvavitev začne znova.
 
-Najbolj zanesljiv način za zaustavitev škode zaradi krvavenja je uspešen met za Prvo pomoč na poškodbi. Uspeh pomeni, da se krvavenje ustavi in se ne bo znova začelo. Neuspeh pri tem metu za Prvo pomoč pomeni, da se krvavenje nadaljuje, dokler tarča ne prejme uspešne zdravniške oskrbe (v obliki moči ali druge veščine, kot je Medicina) ali umre zaradi izgube krvi, ko doseže 0 točk življenja.
+Najbolj zanesljiv način za zaustavitev krvavitvene škode je uspešen met za Prvo pomoč na poškodbi. Uspeh pomeni, da se krvavitev ustavi in se ne bo začela znova. Neuspeh pri tem metu za Prvo pomoč pomeni, da se krvavitev nadaljuje, dokler cilj ne prejme uspešne zdravniške oskrbe (v obliki moči ali druge veščine, kot je Medicina) ali ne umre zaradi izgube krvi, ko doseže 0 točk zdravja.
 
-Če se krvavenje ustavi za pet krogov boja, se popolnoma ustavi samo od sebe.
+Če je krvavitev zaustavljena za pet borbenih rund, se sama po sebi popolnoma ustavi.
 
 #### Drobljenje
 
-Poseben uspeh z orožjem za drobljenje – kijem, palico, kijem za omamljanje ali posebej srečnim neoboroženim udarcem – povzroči škodo drobljenja tarči. To je posebej močan udarec, ki pogosto povzroči masivne modrice ali celo zlomljene kosti, pogosto osupne.
+Poseben uspeh z orožjem za drobljenje — kijem, palico, kijem z glavo ali posebej srečnim neoboroženim udarcem — povzroči cilju škodo z drobljenjem. To je posebej močan udarec, ki pogosto povzroči ogromne podplutbe ali celo zlomljene kosti, pogosto pa tudi ošibi.
 
-Poseben uspeh drobljenja podvoji modifikator škode, ki se običajno uporabi pri napadu. Če ima napadalec negativen modifikator škode, to postane brez modifikatorja škode, in če ni modifikatorja škode, postane +1K4 (glejte **Tabelo modifikatorja škode**). Škoda orožja se vrže normalno, vendar se modifikator škode poveča.
+Poseben uspeh z drobljenjem podvoji modifikator škode, ki se običajno uporablja za napad. Če ima napadalec negativen modifikator škode, to postane ničelni modifikator škode, in če ni modifikatorja škode, postane +1D4 (glejte **Tabelo modifikatorjev škode**). Škoda orožja se vrže normalno, vendar se modifikator škode poveča.
 
-Tarča, ki trpi poseben uspeh drobljenja, mora tudi uspešno opraviti met za Vzdržljivost ali biti osupnjena za 1K3 kroge. Biti osupnjen je vrtoglavo, dezorientirajoče doživetje, saj se zvezde plešejo pred očmi tarče in glava plava od bolečine nenadnega udarca. Osupnjena tarča ne more napasti, medtem ko je osupnjena, in lahko poskusi le izmikanje ali pariranje napada, če za vsak poskus opravi uspešen met za Idejo. Poleg tega so vsi napadi proti tarči *Lahki*. Osupnjena tarča lahko poskusi pobegniti, vendar za to potrebuje uspešen met za Idejo, da razbere pot za pobeg, in uspešen met za Agilnost, da se umakne iz nevarnosti.
+Cilj, ki trpi zaradi posebnega uspeha z drobljenjem, mora opraviti tudi uspešen met za VZD, sicer bo za 1D3 runde ošibljen. Biti ošibljen je vrtoglavo, dezorientirajoče doživetje, saj pred očmi cilja plešejo zvezde in se mu v glavi vrti od bolečine zaradi nenadnega udarca. Ošibljen cilj ne more napadati, medtem ko je ošibljen, in lahko poskusi le izmik ali parado napada, če za vsak poskus opravi uspešen met za INT. Poleg tega so vsi napadi proti cilju *Lahki*. Ošibljen cilj lahko poskusi pobegniti, vendar to zahteva uspešen met za INT za prepoznavanje poti za pobeg in uspešen met za SPR, da pride iz nevarnosti.
 
-Če tarča uspešno parira napad s posebnim uspehom drobljenja, tvega, da se njeno orožje ali ščit zlomi. Napadalec vrže škodo in povečan modifikator škode ter primerja vrženo škodo s trenutnimi točkami življenja parirnega predmeta na tabeli upora. Aktivna vrednost je povzročena škoda, pasivna vrednost pa so normalne točke življenja predmeta. Če je aktivni met uspešen, parirni predmet prejme vso škodo od udarca, kakršna koli preostala škoda pa se povzroči parirajoči tarči. Tarča lahko odšteje zaščito oklepa od škode, ki jo povzroči udarec drobljenja, vendar ne more več izmikati ali parirati tega napada – ta samodejno zadene in preostanek škode se povzroči tarči. Če tarča prejme škodo, zanje veljajo pravila za osupnitev (zgoraj).
+Če cilj uspešno parira napad s posebnim uspehom z drobljenjem, tvega, da se mu zlomi orožje ali ščit. Napadalec vrže za škodo in povečan modifikator škode ter primerja dobljeno škodo s trenutnimi točkami zdravja parirajočega predmeta na tabeli odpornosti. Aktivna vrednost je povzročena škoda, pasivna vrednost pa so normalne točke zdravja predmeta. Če je aktiven met uspešen, parirajoči predmet prejme vso škodo od udarca, preostala škoda pa se zada parirajočemu cilju. Cilj lahko odšteje zaščito oklepa od škode, povzročene z udarcem z drobljenjem, vendar se ne more več izmakniti ali parirati tega napada — samodejno zadane in preostanek škode se zada cilju. Če cilj prejme škodo, zanj veljajo pravila za ošibljenost (zgoraj).
 
-Če je pasivni met točk življenja parirnega predmeta uspešen, prejme normalno škodo napada neposredno na svoje točke življenja. Če parirni predmet prejme več škode, kot ima točk življenja, je uničen z napadom – zlomljen ali razbit, kar koli je primerno –, vendar udarec ne nadaljuje zadetka tarče.
+Če je pasivni met za točke zdravja parirajočega predmeta uspešen, prejme normalno škodo napada neposredno na svoje točke zdravja. Če parirajoči predmet prejme več škode, kot ima točk zdravja, ga napad uniči — zlomljen ali zdrobljen, kar je pač primerno —, vendar udarec ne nadaljuje napada na cilj.
 
-Če se uporabljajo specifične lokacije zadetkov in je bil parirni predmet ščit, se ta nadaljnja škoda samodejno uporabi na roki, na kateri je tarča nosila svoj ščit, kar omogoča zaščito oklepa, če je primerno. Če je bil parirni predmet orožje, se nadaljnja škoda uporabi na naključni lokaciji zadetka, ki jo vrže igralni mojster. Kot zgoraj, zaščita oklepa še vedno dokazuje nadaljnji zadetek.
+Če se uporabljajo določene lokacije zadetkov in je bil parirajoči predmet ščit, se ta nadaljnja škoda samodejno uporabi na roki, na kateri je cilj nosil svoj ščit, kar omogoča zaščito oklepa, če je primerno. Če je bil parirajoči predmet orožje, se nadaljnja škoda uporabi na naključni lokaciji zadetka, ki jo vrže mojster igre. Kot zgoraj, zaščita oklepa še vedno ščiti pred nadaljevanjem udarca.
 
 #### Zapletanje
 
-Poseben uspeh z orožjem za zapletanje – bičem, mrežo, verigo, vrvjo, lovilcem ljudi itd. – zaplete tarčo. Napad zapletanja ni mogoče izvesti od blizu in ga je treba izvesti z vsaj tremi metri prostora med napadalcem in tarčo (čeprav se lahko garota uporabi od blizu). Uspešno zapletanje prepreči premikanje tarče do konca kroga boja in v naslednji krog boja. To napadalcu daje čas, da se približa tarči ali jo drugače pokori.
+Poseben uspeh z orožjem za zapletanje — bičem, mrežo, verigo, vrvjo, lovilcem ljudi itd. — zaplete cilj. Napada zapletanja ni mogoče izvesti od blizu in mora biti izveden z vsaj tremi metri razdalje med napadalcem in ciljem (čeprav se lahko garota uporablja v tesnih prostorih). Uspešno zapletanje prepreči gibanje cilja do konca borbene runde in v naslednjo borbeno rundo. To napadalcu da čas, da se približa cilju ali ga drugače ukroti.
 
-To lahko prepreči napade tarče. Glede na naravo napada zapletanja lahko igralni mojster tarči, ki je zapletena, omogoči met za Srečo, da določi, ali lahko napade.
+To lahko prepreči napade cilja. Glede na naravo napada zapletanja lahko mojster igre cilju, ki je zapleten, dovoli met za SREČO, da ugotovi, ali lahko napade.
 
-***Na primer,*** *bič, ovit okoli ene roke, bi lahko pustil drugo roko in nogo prosti za napade, medtem ko bi laso lahko imobiliziral obe roki.*
+***Na primer,*** *bič, ovit okoli ene roke, bi lahko omogočil proste napade z drugo roko in nogo, medtem ko bi laso lahko imobiliziral obe roki.*
 
-S tem bi bilo treba ravnati od primera do primera. Vendar pa je malo napadov zapletanja, ki ne omogočajo nekega načina napada, bodisi brca ali udarec z glavo.
+To je treba obravnavati od primera do primera. Vendar pa je malo napadov zapletanja, ki ne dopuščajo neke metode napada, pa naj bo to brca ali udarec z glavo.
 
-Če ima napadalec še vedno nadzor nad orožjem za zapletanje (na primer bič to omogoča, medtem ko bolas ne), lahko napadalec poskusi enega ali več učinkov v naslednjem krogu, kot je opisano v veščini Rokoborba. Dovoljeni učinki vključujejo: imobilizacija uda, imobilizacija tarče, met tarče, podiranje tarče, razorožitev tarče, poškodovanje tarče in davljenje tarče, kot je primerno. Če se uporabljajo lokacije zadetkov, to morda ne dovoljuje določenih napadov.
+Če ima napadalec še vedno nadzor nad orožjem za zapletanje (na primer, bič to omogoča, medtem ko bole ne), lahko napadalec naslednjo rundo poskusi enega ali več učinkov, kot je opisano v veščini Rokoborba. Dovoljeni učinki vključujejo: imobilizacijo okončine, imobilizacijo cilja, metanje cilja, podrtje cilja, razorožitev cilja, poškodovanje cilja in davljenje cilja, po potrebi. Če se uporabljajo lokacije zadetkov, lahko to prepreči določene napade.
 
-***Na primer,*** *bič, ki povzroči zapletanje na nogi, ne more razorožiti orožja, ki ga držite v roki.*
+***Na primer,*** *bič, ki zaplete nogo, ne more razorožiti orožja, ki ga nekdo drži v roki.*
 
-V krogu po uspešnem napadu zapletanja lahko tarča poskusi met za Agilnost, da se osvobodi, ali izvede met upora SPRET proti SPRET, da poskuša potegniti orožje za zapletanje iz napadalčeve roke (rok). Alternativno, če lahko, lahko zapletena tarča poskusi napad na samo orožje za zapletanje, ga presekajoč, če ima opremljeno rezalno orožje.
+V rundi po uspešnem napadu zapletanja lahko cilj poskusi met za SPR, da se osvobodi, ali opravi met za odpornost MOČ proti MOČ, da poskusi iztrgati orožje za zapletanje iz napadalčevih rok. Alternativno, če lahko, lahko zapleteni cilj poskusi napad na samo orožje za zapletanje in ga prereže, če ima opremljeno orožje za rezanje.
 
-Za napade zapletanja, ki uporabljajo prilagodljiva orožja, kot so mreže, vrvi, verige in biči, uspešen met upora SPRET proti SPRET omogoči orožju za zapletanje, da iztrga parirno orožje iz tarčinega prijema.
+Pri napadih zapletanja, ki uporabljajo prožna orožja, kot so mreže, vrvi, verige in biči, uspešen met za odpornost MOČ proti MOČ omogoči, da orožje za zapletanje iztrga parirajoče orožje iz nasprotnikovega prijema.
 
-Uspešen met za Izmikanje ali Rokoborbo izniči uspešno zapletanje, vendar ga je mogoče poskusiti le v naslednjem krogu boja. Kritično pariranje izniči kritično zapletanje, vendar običajen uspeh pariranja nima učinka.
+Uspešen met za Izmikanje ali Rokoborbo izniči uspešno zapletanje, vendar ga je mogoče poskusiti le v naslednji borbeni rundi. Kritična parada izniči kritično zapletanje, običajen uspeh pri paradi pa nima učinka.#### Prebadanje
 
-#### Prebadanje
+Poseben uspeh s koničastim ali vbodnim orožjem povzroči tarči prebodno škodo, ki se globoko zareže v meso in lahko poškoduje notranje organe. Prebod podvoji kocke in modifikator za normalno vrženo škodo orožja.
 
-Poseben uspeh s koničastim ali potisnim orožjem povzroči škodo prebadanja tarči, globoko predre v meso in potencialno zadene notranje organe. Prebod podvoji kocke in modifikator za normalno vrženo škodo orožja.
+***Na primer,*** *kratek meč običajno povzroči 1D6+1 točk škode, medtem ko prebod z istim orožjem povzroči dvakrat toliko, oziroma 2D6+2 točki škode.*
 
-***Na primer,*** *kratki meč običajno povzroči 1K6+1 točk škode, medtem ko prebod z istim orožjem povzroči dvakrat toliko, oziroma 2K6+2 točk škode.*
+Podvoji se samo škoda orožja. Če ima napadalec modifikator škode, se ta modifikator ne podvoji, temveč se vrže normalno in prišteje k škodi.
 
-Podvoji se samo škoda orožja. Če ima napadalec modifikator škode, modifikator škode ni podvojen, ampak se vrže normalno in doda škodi.
+Orožje za prebadanje ostane zagozdeno v telesu tarče, dokler ga ne odstranijo. Če je orožje ročno, lahko napadalec takoj poskusi z *zahtevnim* metom na spretnost z orožjem za prebadanje. Če je uspešen, lahko napadalec orožje izvleče takoj po tem, ko napad s prebadanjem zadene. V nasprotnem primeru orožje ostane zagozdeno v telesu tarče.
 
-Orožje za prebadanje je še vedno zataknjeno v telesu tarče, dokler se ne odstrani. Če je orožje ročno orožje, lahko napadalec takoj poskusi *Težek* met za veščino orožja s prebadajočim orožjem. Če je uspešen, lahko napadalec izvleče orožje, potem ko napad prebadanja zadene. V nasprotnem primeru je orožje zataknjeno v telesu tarče.
+Če je napadalčevo orožje še vedno v rani in ga želi nazaj, mora poskusiti orožje pridobiti nazaj. V tem primeru se mora napadalec osredotočiti na vlečenje orožja iz rane. To zviša možnost za pridobitev na napadalčevo polno možnost napada z orožjem, vendar se vsi napadi proti napadalcu štejejo za *lahke*, on pa se seveda ne more parirati ali izmikati, medtem ko poskuša izvleči svoje orožje iz tarče.
 
-Če je napadalčevo orožje še vedno v rani in ga napadalec želi nazaj, mora poskusiti pridobiti orožje. V tem primeru se mora napadalec osredotočiti na vlečenje orožja iz rane. To dvigne možnost pridobitve na polno možnost napada napadalca z orožjem, vendar vsi napadi proti napadalcu veljajo za *Lahke* in očitno ne morejo parirati ali se izmikati, medtem ko poskušajo izvleči orožje iz tarče.
+Pri metanem orožju, kot so kopja, bodala ali celo puščice, se mora napadalec približati tarči in uspeti z *zahtevnim* metom na SPR, da zgrabi orožje. Možnost za odstranitev orožja v naslednjih krogih je napadalčeva polna spretnost, če želi napadalec ignorirati vse napade v tistem krogu in se osredotočiti na pridobitev orožja, kot je opisano zgoraj.
 
-Za vrženo orožje, kot so sulice, bodala ali celo puščice, se mora napadalec približati tarči in uspeti pri *Težkem* metu za Agilnost, da zgrabi orožje. Možnost za odstranitev orožja v naslednjih krogih je polna veščina napadalca, če želi napadalec ignorirati vse napade za tisti krog in se osredotočiti na pridobitev orožja, kot je opisano zgoraj.
+Prebodene tarče ni mogoče pozdraviti, dokler se orožje za prebadanje ne odstrani, če je večje od noža. Majhne predmete, kot so konice puščic ali krogle, lahko pustimo v rani, čeprav lahko to kasneje povzroči zaplete, po presoji gospodarja igre. Če je tarča prebodena z orožjem, kot je kopje ali meč, ob vsakem pomembnejšem premiku utrpi polovico metane škode orožja (ponovno vrzite, brez modifikatorja škode ali zaščite oklepa) (na isto mesto zadetka, če se uporablja), ker štrleče orožje zapenja ob bližnje površine, se premika v njih in širi rano itd.
 
-Prebodena tarča ne more biti ozdravljena, dokler se orožje za prebadanje ne odstrani, če je večje od noža. Majhne predmete, kot so konice puščic ali naboji, lahko pustite v rani, čeprav to lahko kasneje povzroči zaplete, po presoji igralnega mojstra. Če je prebodena z orožjem, kot je kopje ali meč, kadar koli se tarča premakne na kateri koli pomemben način, prejme polovico škode orožja (vrzite znova, brez modifikatorja škode ali zaščite oklepa) znova (na isto lokacijo zadetka, če se uporablja), ker štrleče orožje zapenja ob bližnje površine, se premika v njih in širi rano itd.
+Tarča, ki je prebodena z orožjem in ga poskuša odstraniti, mora opraviti met za odpornost svoje MOČ proti količini škode, ki jo je orožje povzročilo do tedaj. Uspeh pomeni, da se je orožje sprostilo in je v rokah tarče, medtem ko neuspeh pomeni, da ga v tistem borbenem krogu ne uspe sprostiti in zaradi tega dejanja utrpi dodatnih 1D3 točk škode (na isto mesto zadetka, če se uporablja). To dejanje vzame cel krog in se konča tako, da tarča drži orožje, ki jo je prej prebadalo.
 
-Tarča, prebodena z orožjem, ki ga poskuša odstraniti, mora opraviti met upora svoje SPRET proti količini škode, ki jo je doslej povzročilo orožje. Uspeh pomeni, da je orožje osvobojeno in je v rokah tarče, medtem ko neuspeh pomeni, da ga v tistem krogu boja ne more osvoboditi in prejme dodatne 1K3 točke škode (na isto lokacijo zadetka, če se uporablja) zaradi dejavnosti. To dejanje traja cel krog in se konča s tem, da tarča drži orožje, ki jo je prej prebodlo.
+Gospodar igre lahko vsili dodatne težave ali prepolovi efektivno MOČ, če je orožje za prebadanje v položaju, ki ga je težko doseči ali je drugače nedostopno, na primer na hrbtu.
 
-Igralni mojster lahko vsilijo dodatne težave ali prepolovijo učinkovito SPRET, če je orožje za prebadanje v položaju, ki bi ga bilo težko doseči ali je kako drugače nedostopno, na primer v hrbtu.
+Drug način soočanja z orožjem za prebadanje je, da ga zlomimo ali poškodujemo, tako da ne povzroča večjih težav, a ga lahko odstranimo kasneje. To se običajno počne pri puščicah, tako da se odstranijo puščice, da ne ovirajo več. Glede na orožje in metodo poškodovanja bo to zahtevalo bodisi met na tabeli odpornosti ranjene tarče MOČ proti točkam zadetka orožja bodisi neposreden napad na samo orožje.
 
-Drug način za obravnavanje orožja za prebadanje je, da ga zlomite ali poškodujete, tako da ne bo povzročilo nadaljnje stiske, vendar ga lahko kasneje odstranite. To se običajno počne s puščicami, tako da se odstranijo gredi, da ne ovirajo več. Odvisno od orožja in metode poškodovanja bo to zahtevalo bodisi met na tabeli upora poškodovane tarče SPRET proti točkam življenja orožja bodisi neposreden napad na samo orožje.
+Izven boja je vsak poskus odstranitve orožja za prebadanje *lahek*, bodisi z metom za odpornost bodisi z uporabo prve pomoči.#### Potiskanje (Knockback)
 
-Zunaj boja je vsak poskus odstranitve orožja za prebadanje *Lahek*, bodisi z metom upora bodisi z uporabo Prve pomoči.
+Poseben uspeh pri neoboroženem metu ali napadu s ščitom povzroči, da tarča odleti nazaj. Skupna dobljena škoda (preden se odšteje oklep) se primerja s tarčino VEL v metu za odpornost. Vodja igre lahko zniža tarčino dejansko VEL, da odraža neravnost tal, naklon ali stanje tarče (utrujenost, omamljenost itd.). Če je upor neuspešen, tarča odleti en meter nazaj za vsakih 5 točk dobljene škode (preden se odšteje oklep), napadalec pa se mora ponovno približati in vključiti tarčo v boj od blizu, če je bil pred tem izrinjen iz dosega boja od blizu. Če tarča, ki odleti nazaj, na svoji poti zadane oviro, utrpi 1D6 škode za vsake tri metre ali njihov del, ki bi jih še morala opraviti. Tarča mora poleg tega opraviti uspešen met za Spretnost, sicer pade po tleh (glej **Padel po tleh**).
 
-#### Podiranje
+Če tarča zmaga v metu za odpornost, se ne premakne, in če je njena VEL večja od napadalčeve VEL, napadalec zaniha en meter nazaj.
 
-Poseben uspeh z neoboroženim metom ali napadom s ščitom je podrl tarčo. Skupna vržena škoda (preden se odšteje oklep) se postavi proti tarčini SIZ v metu upora. Igralni mojster lahko zniža tarčino učinkovito SIZ, da odraža neravnost tal, naklon ali stanje tarče (utrujena, osupnjena itd.). Če ni uspešen, se tarča podre za en meter za vsakih 5 točk vržene škode (preden se odšteje oklep), napadalec pa se mora znova približati in vključiti tarčo v boj iz oči v oči, če je bil prej izključen iz dosega boja iz oči v oči. Če tarča, ki je podrta, tudi zadene oviro na svoji poti, prejme 1K6 škode za vsake tri metre ali njihov del, ki ji je ostalo za prehod. Tarča mora tudi uspešno opraviti met za Agilnost ali pasti na tla (glejte **Na tleh**).
+### Obrambni boj
 
-Če tarča zmaga v metu upora, se ne premakne, in če je njena SIZ višja od napadalčeve SIZ, napadalec odstopi za en meter.
+Če se vaš lik v krogu odreče vsem napadom, da bi se boril obrambno, lahko en poskus izmikanja zamenja za svoj napad in lahko še naprej izvaja poskuse izmikanja ali pariranja. Običajno ima vsak naslednji poskus izmikanja ali pariranja kumulativni modifikator –30 %, toda med obrambnim bojem lahko vaš lik namesto napada izvede poskus spretnosti Izmikanje, ne da bi pri tem utrpel kazen –30 %. Če je že opravil poskuse izmikanja in pariranja ter ima negativen modifikator, se modifikator ne poveča. V bistvu gre za brezplačen poskus izmikanja, ki ne povzroči kazni pri naslednjem poskusu izmikanja ali pariranja.
 
-### Borba obrambno
+Edina omejitev v tem primeru je, da vaš lik ne more hkrati izvajati izmikanja in pariranja znotraj istega ranga SPR. Če lahko vaš lik običajno opravi več napadov na krog (na primer če ima spretnost nad 100 %), lahko opravi drugo brezplačno izmikanje ali pariranje, ne da bi pri tem utrpel kumulativno kazen.
 
-Če se vaš lik odpove vsem napadom v krogu, da bi se boril obrambno, lahko nadomesti en prost poskus izmikanja za svoj napad in lahko nadaljuje s poskusi izmikanja ali pariranja. Običajno je vsak naknadni poskus izmikanja ali pariranja pri kumulativni kazni –30 %, vendar med borbo obrambno lahko vaš lik nadomesti poskus veščine Izmikanja za napad, ne da bi pri tem nastala kazen –30 %. Če so že izvedli poskuse izmikanja in pariranja ter so pri negativnem modifikatorju, se modifikator ne poveča. V bistvu gre za prost poskus izmikanja, ki ne povzroči kazni pri naslednjem poskusu izmikanja ali pariranja.
+Obrambnega boja pod nobenim pogojem ni mogoče kombinirati z nobenim napadom ali napadalnim dejanjem, niti z **Obupanim dejanjem**.
 
-Edina omejitev v tem primeru je, da vaš lik ne more izmikati in parirati znotraj istega vrstnega reda SPRET. Če lahko vaš lik običajno izvede več napadov na krog (na primer z veščino nad 100 %), lahko izvede drugo prosto izmikanje ali pariranje, ne da bi pri tem nastala kumulativna kazen.
+### Nerodnosti v boju
 
-Pod nobenim pogojem borbe obrambno ni mogoče kombinirati z nobenim napadom ali napadalnim dejanjem, niti kot je **Obupano dejanje**.
+Nerodnosti v boju so nesrečni dogodki ali nezgode, ki jih pripisujemo smoli ali neizkušenosti. Ko se vrže nerodnost, vrzite D100 na ustrezni tabeli in uporabite rezultat. Vodja igre meče za neigralske like. Če rezultat meta ni primeren, ga mora vodja igre prilagoditi tako, da je smiseln, ali pa ga ponoviti.
 
-### Ponesrečitve v boju
+Obstajajo štiri tabele za nerodnosti; uporabite tisto, ki je najbolj primerna za dejanje. Čeprav je **Tabela za napad in pariranje z naravnim orožjem** namenjena usmerjanju dejanj inteligentnih humanoidov, je lahko z določeno presojo uporabna tudi za živali, kot so medvedi, volkovi itd. Tudi tukaj se vodjo igre spodbuja, da prilagodi ali ponovi malo verjetne rezultate.
 
-Ponesrečitve v boju so nesrečni dogodki ali nesreče, ki jih je mogoče pripisati smoli ali neizkušenosti. Ko je vržena ponesrečitev, vrzite K100 na ustrezni tabeli in uporabite rezultat. Igralni mojster meče za neigralne like. Če rezultat meta ni primeren, ga mora igralni mojster prilagoditi nečemu, kar ima smisel, ali ponovno vreči.
+Nekatero orožje lahko **odpove**. Do tega pride poleg vseh nerodnosti, če se rezultat meta prekriva z območji nerodnosti in odpovedi (glej **Odpovedi**).
 
-Obstajajo štiri tabele ponesrečitev; uporabite tisto, ki je najbolj primerna za dejanje. Čeprav je **Tabela naravnih napadov in pariranj** namenjena vodenju dejanj inteligentnih humanoidov, je lahko po presoji uporabna tudi za naravne živali, kot so medvedi, volkovi itd. Igralni mojster je spet spodbujen, da prilagodi ali ponovno vrže neverjetne rezultate.
-
-Nekatera orožja lahko **odpovejo**. Te se zgodijo poleg vseh ponesrečitev, če se rezultat meta prekriva s ponesrečitvijo in razponi okvar (glejte **Okvare**).
-
-> ### Varianta bojnih pravil (Možnost)
+> ### Različice pravil boja (Možnost)
 > 
-> Ta neobvezna pravila spremenijo boj, da bolje simulirajo boj v različnih žanrih, z nekaterimi priporočili in nasveti o tem, kako ta pravila vplivajo na igranje.
+> Ta dodatna pravila spreminjajo boj, da bi bolje simulirala spopade v različnih žanrih, s priporočili in nasveti o tem, kako ta pravila vplivajo na igranje.
 > 
 > #### Napadi in pariranja nad 100 % (Možnost)
 > 
-> Vaš lik ima lahko veščine nad 100 %, kar omogoča večje možnosti za kritične rezultate, posebne uspehe in pri bojnih veščinah za več napadov v krogu.
+> Vaš lik ima lahko spretnosti nad 100 %, kar omogoča večje možnosti za kritične rezultate, posebne uspehe in pri borilnih spretnostih za več napadov v krogu.
 > 
-> Stopnja bojne veščine 100 % ali več vašemu liku omogoča, da svoj napad razdeli na več napadov, čeprav mora biti vsak napad vsaj 50 %. Ti seštevki ne smejo biti enaki. ***Na primer,*** *s stopnjo veščine 101 % lahko vaš lik razdeli napade na en napad pri 51 % in en napad pri 50 %. S stopnjo veščine 151 % lahko vaš lik razdeli napade na dva napada pri 75 % in 76 %, enega pri 92 % in drugega pri 59 %, ali tri pri 50 %, 50 % in 51 % itd. Ne morete ustvariti ulomkov in zaokrožiti navzgor – dodelite vso stopnjo veščine napadom.*
+> Ocena bojne spretnosti 100 % ali več vašemu liku omogoča, da napad razdeli na več napadov, pri čemer mora biti vsak napad vreden vsaj 50 %. Ti seštevki ne smejo biti nujno enaki. ***Na primer,*** *z oceno spretnosti 101 % lahko vaš lik razdeli napade na en napad s 51 % in en napad s 50 %. Z oceno spretnosti 151 % lahko vaš lik razdeli napade na dva napada s 75 % in 76 %, enega z 92 % in drugega z 59 %, ali tri s 50 %, 50 % in 51 % itd. Ne morete ustvarjati ulomkov in zaokroževati navzgor – dodelite vso oceno spretnosti napadom.*
 > 
-> Vaš lik lahko nato izvede ločene napade z istim orožjem, vsakega rešujoč z uporabo ene od razdeljenih stopenj veščine. Vrstni red SPRET za prvi napad je normalen; vrstni red SPRET za drugega je 5 vrstnih redov SPRET nižje; tretji pri 5 vrstnih redih SPRET po tem itd. Če to zmanjša napad na vrstni red SPRET 0 ali manj, ga ni mogoče poskusiti.
+> Vaš lik lahko nato izvede ločene napade z istim orožjem, pri čemer vsakega razreši z uporabo ene od razdeljenih ocen spretnosti. Rang SPR za prvi napad je normalen; rang SPR za drugega je za 5 rangov SPR nižji; tretji je 5 rangov SPR pozneje itd. Če to zmanjša napad na rang SPR 0 ali manj, ga ni mogoče izvesti.
 > 
-> **Preseganje 100 % v veščini** nudi informacije o tem, kako lahko vaš lik doseže veščine, višje od 100 %.
+> **Preseganje 100 % pri spretnosti** nudi informacije o tem, kako lahko vaš lik doseže spretnosti, višje od 100 %.
 > 
-> #### Izmikanje orožju na daljavo (Možnost)
+> #### Izmikanje orožju za napad na daljavo (Možnost)
 > 
-> Običajno se lahko vaš lik izmika orožju na daljavo le s kaznijo ali sploh ne (glejte **Izmikanje**), toda v bolj junaški igri se lahko vaš lik izmika pri svoji polni stopnji veščine, ob predpostavki, da ima priložnost videti napadalca in se lahko umakne s poti. To lahko vključuje celo izmikanje območnim napadom.
+> Običajno se vaš lik lahko izmika orožju za napad na daljavo le s kaznijo ali sploh ne (glej **Izmikanje**), toda v bolj junaški igri se lahko vaš lik izmika s svojo polno oceno spretnosti, ob predpostavki, da ima možnost videti napadalca in se lahko umakne s poti. To lahko vključuje celo izmikanje napadom na območju.
 > 
-> Poleg tega lahko vaš lik poskusi parirati orožje na daljavo z ročnim orožjem. Za uspešno pariranje orožja na daljavo z ročnim orožjem je potreben poseben ali kritični uspeh, in če je rezultat normalen uspeh ali celo neuspeh, napad samodejno zadene vaš lik.
+> Poleg tega lahko vaš lik poskusi parirati orožje za napad na daljavo z ročnim orožjem. Za uspešno pariranje orožja za napad na daljavo z ročnim orožjem je potreben poseben ali kritičen uspeh, če pa je rezultat normalen uspeh ali celo neuspeh, napad samodejno zadane vaš lik.
 > 
-> Vaš lik lahko poskusi tudi ujeti orožje na daljavo, kot je puščica, sulica ali drugo vrženo orožje, s posebnim ali kritičnim uspehom na metu za veščino Agilnosti ali Metanja. V tem primeru je vaš lik ujel orožje in se izognil poškodbi ter ga lahko odstrani ali uporabi v boju, kot želi. Če je met uspešen, vendar ni poseben ali kritični uspeh, ga vaš lik ni ujel, vendar ni poškodovan. Če je met neuspešen, mora vaš lik opraviti uspešen met za Srečo, da se izogne poškodbi, sicer prejme normalno vrženo škodo orožja na daljavo. Če je met ponesrečitev, vaš lik samodejno prejme vrženo škodo orožja na daljavo (na roko/ud, če se uporabljajo lokacije zadetkov). Zaščita oklepa je dovoljena proti temu napadu.
+> Vaš lik lahko tudi poskusi ujeti orožje za napad na daljavo, kot je puščica, kopje ali drugo vrženo orožje, s posebnim ali kritičnim uspehom pri metu za spretnost Agilnost ali Metanje. V tem primeru je vaš lik ujel orožje in se izognil poškodbi ter ga lahko odvrže ali uporabi v boju, kakor želi. Če je met uspešen, vendar ne gre za poseben ali kritičen uspeh, vaš lik orožja ni ujel, vendar je nepoškodovan. Če met ne uspe, mora vaš lik opraviti uspešen preizkus Sreče, da se izogne poškodbi, sicer utrpi normalno dobljeno škodo orožja za napad na daljavo. Če je met nerodnost, vaš lik samodejno utrpi dobljeno škodo orožja (v svojo roko, če se uporabljajo lokacije zadetkov). Proti temu napadu je dovoljena zaščita oklepa.
 > 
-> Vaš lik lahko prav tako prosto parira ogenj na daljavo visoke hitrosti (puščice, naboji itd.) s ščiti, pri čemer vnaprej poskusi met za Opazovanje. Če je met uspešen, lahko vaš lik prosto parira s svojim ščitom pri polni stopnji veščine. Če met za Opazovanje ne uspe, je met za pariranje *Težek* ali pa stopnja veščine privzeto pade na osnovne možnosti, navedene v Ščiti in ogenj na daljavo.
+> Vaš lik lahko prosto parira tudi izstrelke visoke hitrosti (puščice, krogle itd.) s ščiti, pri čemer mora predhodno opraviti met za Opazovanje. Če met uspe, lahko vaš lik prosto parira s svojim ščitom pri polni oceni spretnosti. Če met za Opazovanje ne uspe, je met za pariranje težaven ali pa se ocena spretnosti privzeto določi na osnovne možnosti, navedene v razdelku Ščiti in ogenj z orožjem na daljavo.
 > 
-> #### Umirajoči udarci (Možnost)
+> #### Smrtni udarec (Možnost)
 > 
-> Sposobnost zadnjega udarca po nasprotniku, kljub usodni rani, je lahko dramatičen in junaški finale za vaš lik, če je smrtno ranjen, ali zastrašujoč zadnji udarec sovražnega nasprotnika. Subjekt usodnega udarca (glejte Škoda in celjenje) lahko poskusi eno dodatno bojno dejanje, če uspešno opravi met za Vzdržljivost. To dejanje se mora zgoditi pri naslednjem razpoložljivem vrstnem redu SPRET, pri katerem lahko deluje, ali če kasneje, mora opraviti dodaten met za Vzdržljivost za vsak krog, ko se njegov umirajoči udarec odloži. Neuspeh pri katerem koli od teh metov povzroči smrt, preden se umirajoči udarec izvede.
+> Sposobnost zadnjega udarca po sovražniku, kljub smrtni rani, je lahko dramatičen in junaški finale za vaš lik, če je smrtno ranjen, ali pa osupljiv zadnji udarec osovraženega nasprotnika. Subjekt smrtnega udarca (glej Škoda in zdravljenje) lahko poskusi še eno dodatno bojno dejanje, če opravi uspešen met za VZD. To dejanje se mora zgoditi v naslednjem razpoložljivem rangu SPR, v katerem je sposoben delovati, ali pa mora, če pozneje, za vsak krog, ko je smrtni udarec odložen, opraviti dodaten met za VZD. Neuspeh pri katerem koli od teh metov povzroči smrt, preden je smrtni udarec sploh izveden.
 > 
-> Igralni mojster je spodbujen, da dovoli, da se likov umirajoči udarec izvede pri njegovi polni stopnji veščine, minus kakršni koli situacijski modifikatorji, kot je ležanje. Po presoji igralnega mojstra umirajoči udarec ni nujno bojno dejanje, ampak je lahko zadnja uporaba moči, veščine ali celo kakšno vsakdanje dejanje. Priporočljivo je, da je umirajoče dejanje le preprosta in neposredna naloga. Izgovarjanje zadnjih besed drugemu liku je umirajoče dejanje in zahteva uspešen met za Srečo za vsak ustrezen del informacij.
+> Vodjo igre se spodbuja, da liku dovoli izvedbo smrtnega udarca pri polni oceni spretnosti, brez kakršnih koli situacijskih modifikatorjev, kot je npr. ležanje na tleh. Po presoji vodje igre smrtni udarec ne potrebuje biti bojno dejanje, ampak je lahko končna uporaba moči, spretnosti ali celo kakšno vsakdanje opravilo. Priporočljivo je, da je smrtno dejanje le preprosta in neposredna naloga. Izrekanje zadnjih besed drugemu liku je smrtno dejanje in zahteva uspešen met za Srečo za vsako pomembno informacijo.
 > 
-> Ko je umirajoči udarec izveden ali umirajoče dejanje opravljeno, lik hitro preide dalje, potem ko je opravil svojo zadnjo dolžnost na svetu. V takem primeru lahko igralni mojster razsodi, da zdravniška oskrba kasneje samodejno ne uspe. Umirajoči udarec je bil zadnji kamen v junaški smrti ali zlobnem koncu.
+> Ko je smrtni udarec izveden ali smrtno dejanje opravljeno, lik takoj odide, saj je opravil svojo zadnjo dolžnost v svetu. V takšnem primeru lahko vodja igre odloči, da kasnejša zdravniška pomoč samodejno ne uspe. Smrtni udarec je bil končni pečat junaške smrti ali zlobnega konca.
 > 
-> Ta sistem zamenjuje točkovno pravilo **Obupano dejanje**.
+> Ta sistem nadomešča priložnostno pravilo **Obupano dejanje**.
 
 ## Oklep
 
-Oklep je tradicionalno oblika oblačila, dovolj debela in trpežna, da ščiti pred napadom. Zgodovinsko je bil izdelan iz usnja, kosti, lesa in kovine, primerne za obdobje. V sodobnem svetu je oklep izdelan iz keramike in balističnih vlaken, lahkih kovin in drugih trpežnih snovi na osnovi plastike, v prihodnjih obdobjih pa bo oklep verjetno izdelan iz podobnih visokotehnoloških materialov ali celo zaščite na osnovi energije. Čeprav lahko nošenje povzroči utrujenost, običajni oklep ne zahteva meta veščine ali napora za uporabo. Če napad ni pariran ali se mu niste izognili, je oklep vse, kar stoji med vašim likom in poškodbo.
+Oklep je tradicionalno oblika oblačila, ki je dovolj debela in trpežna, da ščiti pred napadom. Zgodovinsko gledano je bil izdelan iz usnja, kosti, lesa in kovine, primerne za tisto obdobje. V sodobnem svetu je oklep izdelan iz keramike in balističnih vlaken, lahkih kovin ter drugih trpežnih snovi na osnovi plastike, v prihodnjih obdobjih pa bo oklep verjetno izdelan iz podobnih visokotehnoloških materialov ali celo zaščite, ki temelji na energiji. Čeprav lahko nošenje povzroči utrujenost, običajni oklep ne zahteva preizkusa spretnosti ali napora za uporabo. Če napad ni pariran ali izmaknjen, je oklep vse, kar stoji med vašim likom in poškodbo.
 
-Najpomembnejši vidik oklepa je njegova **vrednost oklepa (VO)**. Višja kot je vrednost oklepa, bolje ščiti uporabnika. Vrednost oklepa se odšteje od škode, ki jo povzroči uspešen napad. Subjekt napada ima preostalo škodo odstranjeno iz svojih točk življenja. Če je rezultat po odšteti vrednosti oklepa 0 ali negativno število, škoda ni povzročena.
+Najpomembnejši vidik oklepa je njegova **vrednost oklepa (AV)**. Višja kot je vrednost oklepa, bolje ščiti nosilca. Vrednost oklepa se odšteje od škode, ki jo povzroči uspešen napad. Subjektu napada se preostanek škode odšteje od točk vzdržljivosti. Če je rezultat po odšteti vrednosti oklepa 0 ali negativno število, škode ni.
 
-Nekatere vrste oklepa se lahko plastijo drug čez drugega za večjo učinkovitost. Kjer se uporabljajo tudi ščiti, uspešno pariranje s ščitom morda ne bo dovolj, da ustavi udarec, škoda od napada pa lahko potencialno prodre skozi vrednost oklepa ščita do njegovega uporabnika. V teh primerih se vrednosti oklepa za ščit in oklep odštejeta, preden parirajoči lik prejme škodo.
+Nekatere vrste oklepov se lahko za večjo učinkovitost nosijo plastno. Kjer se uporabljajo tudi ščiti, uspešno pariranje s ščitom morda ne bo dovolj, da bi zaustavilo udarec, škoda od napada pa lahko potencialno prodre skozi vrednost oklepa ščita do njegovega uporabnika. V teh primerih se vrednosti oklepa tako za ščit kot za oklep odštejeta, preden parirajoči lik utrpi škodo.
 
 ### Slabosti oklepa
 
-Kljub vsem prednostim obstajajo negativni vidiki nošenja oklepa. Naslednji so najbolj pomembni, čeprav bo igralni mojster morda želel poudariti nekatere bolj kot druge, nekatere vidike pomanjšati ali celo uvesti nove pogoje glede na okolje:
+Kljub vsem prednostim obstajajo negativni vidiki nošenja oklepa. Naslednji so najbolj pomembni, čeprav bo morda vodja igre želel nekatere poudariti bolj kot druge, nekatere zmanjšati ali celo uvesti nove pogoje glede na okolje:
 
-* **Kazni za veščine:** Oklep lahko zavira določene veščine, zlasti veščine fizične skupine veščin, kot so Plezanje, Skok, Prikritost in Plavanje. Poleg tega lahko nošenje čelade omeji določene veščine Zaznavanja. Nekateri opisi oklepa v Poglavju osem: Oprema vključujejo negativne modifikatorje za te veščine. Veščine orožja nošenje oklepa ne prizadene, saj je oklep izdelan posebej za uporabo v boju.
+* **Kazni na spretnosti:** Oklep lahko zavira določene spretnosti, zlasti tiste iz skupine fizičnih spretnosti, kot so Plezanje, Skakanje, Prikritost in Plavanje. Poleg tega lahko nošenje čelade omeji nekatere spretnosti Zaznavanja. Nekateri opisi oklepov v osmem poglavju: Oprema vključujejo negativne modifikatorje za te spretnosti. Bojne spretnosti nošenje oklepa ne prizadene, saj je oklep izdelan posebej za uporabo v boju.
 
-* **Fizično neugodje:** Oklep je težak, neudoben in neprijeten, ali vsaj bolj kot običajna oblačila, teža oklepa pa lahko utrudi in/ali obremeni uporabnika. Utrujenost in Obremenitev zajemata nerodnost ali kakršno koli utrujenost zaradi nošenja oklepa. V puščavskih ali drugih vročih okoljih je lahko oklep še bolj neudoben (glejte **Mraz, Izpostavljenost, Lakota in Žeja** ter **Ogenj in Vročina**).
+* **Fizično neudobje:** Oklep je težek, neprijeten in neprilagodljiv, ali vsaj bolj kot običajna oblačila, teža oklepa pa lahko utrudi in/ali obremeni nosilca. Utrujenost in Obremenitev zajemata nerodnost ali kakršno koli utrujenost zaradi nošenja oklepa. V puščavskih ali drugih vročih okoljih je lahko oklep še bolj neprijeten (glej **Mraz, izpostavljenost, lakota in žeja** ter **Ogenj in vročina**).
 
-* **Družbene težave:** Mnoge vrste oklepa je težko skriti in jih je mogoče v mnogih družbah ali kulturah razlagati kot sovražne. Nekatere komunikacijske veščine lahko postanejo *Težke* glede na situacijo, saj je pogosto težko prepričati ali manipulirati z nekom, ko dajete videz pripravljenosti na nasilje. Druge komunikacijske veščine lahko iz istega razloga postanejo *Lahke*. Te situacije mora presojati igralni mojster.
+* **Družbene težave:** Mnoge vrste oklepov je težko skriti in jih je v mnogih družbah ali kulturah mogoče razlagati kot sovražne. Nekatere komunikacijske spretnosti lahko postanejo težavne glede na situacijo, saj je pogosto težko koga prepričati ali manipulirati, ko daje videz, da je pripravljen na nasilje. Druge komunikacijske spretnosti lahko iz istega razloga postanejo lahke. O teh situacijah naj presodi vodja igre.
 
-* **Dostop:** Dva druga praktična vidika omejujeta uporabo oklepa v igralnem okolju: razpoložljivost oklepa in ali se prilega. Razpoložljivost mora presoditi igralni mojster glede na okolje. Na primer, kakovostna poštna srajca je morda draga, a sorazmerno enostavna za pridobitev v srednjeveškem zgodovinskem okolju, medtem ko bi bilo praktično in uporabno poštno srajco v prazgodovinskem ali daljno prihodnjem okolju skoraj nemogoče najti. V nekaterih okoljih se zdi razpoložljivost neomejena (na primer sodobni svet), dostop do dejanskega oklepa pa je morda tako preprost kot naročilo na spletu. Vendar verjetnost, da je oklep dovolj kakovosten, da prenese boj, ni zagotovljena, dostavo pa lahko omejujejo regionalni zakoni in predpisi.
+* **Dostopnost:** Dva druga praktična vidika omejujeta uporabo oklepa v okolju igre: razpoložljivost oklepa in to, ali se prilega. Razpoložljivost naj presodi vodja igre na podlagi okolja. Na primer, kakovostna verižna srajca je morda draga, a sorazmerno lahko dostopna v srednjeveškem zgodovinskem okolju, medtem ko bi bilo v prazgodovinskem ali daleč prihodnjem okolju skoraj nemogoče najti praktično in uporabno verižno srajco. V nekaterih okoljih se lahko zdi razpoložljivost neomejena (na primer sodobni svet), dostop do dejanskega oklepa pa je lahko tako preprost kot spletno naročilo. Vendar ni zagotovljeno, da je oklep dovolj kakovosten, da zdrži boj, dostava pa je lahko omejena z regionalnimi zakoni in predpisi.
 
-*Poglavje osem: Oprema* zajema vse posebne prednosti in slabosti oklepa ter ponuja primere mnogih vrst oklepa, od tunik iz surove kože do osebnih silovih polj. Poleg tega lahko več moči spremeni vrednost oklepa vašega lika. O teh se razpravlja v *Poglavju štiri: Moči*.
+*Osmo poglavje: Oprema* zajema vse posebne prednosti in slabosti oklepa ter nudi primere številnih vrst oklepov, od tunik iz surovega usnja do osebnih energijskih polj. Poleg tega lahko številne moči spremenijo vrednost oklepa vašega lika. O teh je govora v *četrtem poglavju: Moči*.
 
-### Oklep in SIZ
+### Oklep in VEL
 
-Končno, ne morejo vsi uporabljati vsega oklepa. Oklep je običajno ocenjen glede na SIZ, za katero je bil izdelan, pri čemer je najbolj udoben oklep tisti, ki se najbolj prilega telesu. Ohrapljen in slabo prilegajoč oklep je prav tako neroden za nošenje kot oklep, ki je pretesen. Vsaka vrsta oklepa ima oceno 'Ustreza SIZ', izraženo kot ±, ki določa razpon SIZ lika nad in pod privzeto SIZ določenega kompleta oklepa. Predvideva se, da ima lik ali kupi oklep, primeren za svojo lastno SIZ, če ima izbiro. Če je SIZ vašega lika zunaj razpona SIZ oklepa, oklepa ni mogoče nositi.
+Navsezadnje, vsak oklep ni uporaben za vsakogar. Oklep je običajno ocenjen glede na VEL, za katero je bil izdelan, pri čemer je najbolj udoben oklep tisti, ki se najbolje prilega. Ohrapen in neprimeren oklep je prav tako neroden za nošenje kot oklep, ki je pretesen. Vsaka vrsta oklepa ima oceno „Ustreza VEL“, izraženo kot ±, ki določa razpon VEL lika nad in pod privzeto VEL določenega kompleta oklepa. Predpostavlja se, da ima lik v lasti ali kupi oklep, ki ustreza njegovi lastni VEL, če ima možnost izbire. Če je VEL vašega lika zunaj razpona VEL oklepa, oklepa ni mogoče nositi.
 
-Na splošno, višja kot je vrednost oklepa, manjša je verjetnost, da se bo prilegal liku druge SIZ. Če ima vaš lik ekstremno SIZ v eno ali drugo smer (pod 8 ali nad 16), morda ne bo mogel nositi veliko oklepov 's police' (če obstajajo) in bo prisiljen plačati več za oklep po meri ali iskati alternativne vire za obrambno opremo.
+Na splošno velja, da manjša kot je vrednost oklepa, manjša je verjetnost, da bo ustrezala liku z drugo VEL. Če ima vaš lik ekstremno VEL v eno ali drugo smer (pod 8 ali nad 16), morda ne bo mogel nositi veliko „serijskih“ oklepov (če obstajajo) in bo prisiljen plačati več za oklep po meri ali poiskati alternativne vire za obrambno opremo.
 
 ### Ščiti
 
-Najlažji način razmišljanja o ščitu je, da je to orožje, katerega primarni namen je, da se premakne med vašim likom in napadalcem. Ščiti ne pokrivajo celotnega telesa, vendar so lažji od oklepa telesa in veliko cenejši ter lažji za upravljanje. Ščiti običajno ne izgubijo točk življenja, ko jih zadenejo običajni udarci, in jih ni zelo lahko iztrgati iz branilčevega prijema. Običajno bodo le močni udarci (posebni uspehi ali boljši) poškodovali ščit, edini način, da ga izgubite, pa je ponesrečitev.
+Najlažje je o ščitu razmišljati kot o orožju, katerega glavni namen je premikanje med vašim likom in napadalcem. Ščiti ne pokrivajo celotnega telesa, vendar so lažji od telesnega oklepa ter veliko cenejši in lažji za upravljanje. Ščiti običajno ne izgubljajo točk vzdržljivosti, ko jih zadenejo običajni udarci, in jih ni zelo enostavno izbiti iz branilčevega prijema. Običajno bodo le močni udarci (posebni uspehi ali boljši) poškodovali ščit, edini način, da ga izgubite, pa je nerodnost.
 
-Različne vrste ščitov so opisane v Poglavju osem: Oprema. Za razliko od vrst orožja vsi ščiti uporabljajo isto veščino Ščit in ista stopnja veščine velja za kateri koli uporabljeni ščit. Vaš lik parira napade iz oči v oči s svojim ščitom, tako kot bi z ročnim orožjem. Proti orožju na daljavo ima polovični ali majhen ščit osnovno 15 % možnost za blokiranje projektila, polni ščit ima 30 % možnost za blokiranje projektila, velik ščit pa ima 60 % možnost. Če vaš lik poklekne za njim, ima polni ščit 60 % možnost za blokiranje projektila, velik ščit pa nudi 90 % možnost. Te vrednosti se uporabljajo namesto stopnje veščine vašega lika. Glejte **Orožja na daljavo** in **Ščiti in ogenj na daljavo**.
+Različne vrste ščitov so opisane v osmem poglavju: Oprema. Za razliko od vrst orožja vsi ščiti uporabljajo isto spretnost Ščit, ista ocena spretnosti pa velja za kateri koli uporabljen ščit. Vaš lik parira bližnje boje s svojim ščitom, tako kot bi z ročnim orožjem. Proti orožju za napad na daljavo ima polovični ali majhen ščit 15-odstotno osnovno možnost za blokiranje izstrelka, polni ščit ima 30-odstotno možnost za blokiranje izstrelka, velik ščit pa ima 60-odstotno možnost. Če vaš lik poklekne za njim, ima polni ščit 60-odstotno možnost za blokiranje izstrelka, velik ščit pa nudi 90-odstotno možnost. Te vrednosti se uporabljajo namesto ocene spretnosti vašega lika. Glej **Orožje za napad na daljavo** in **Ščiti ter ogenj z orožjem na daljavo**.
 
-V večini okoliščin ščiti ne morejo učinkovito parirati izjemno hitrega ognja na daljavo, kot so strelno orožje ali energetsko orožje, in so omejene uporabe proti ročno izstreljenemu orožju, kot so puščice, kamni iz prač in sulice. V teh primerih se namesto stopnje veščine vašega lika nadomesti privzeta možnost, če pa je dovoljeno, glejte **Izmikanje orožju na daljavo**.
+V večini okoliščin ščiti ne morejo učinkovito parirati izjemno hitrega orožja za napad na daljavo, kot so strelno orožje ali energijsko orožje, in so omejeno uporabni proti ročno poganjanemu orožju, kot so puščice, kamni iz prače in kopja. V teh primerih se namesto spretnosti vašega lika uporabi privzeta možnost, če pa je dovoljeno, glej **Izmikanje orožju za napad na daljavo**.
 
-Vaš lik lahko uporabi ščit tudi za napad na nasprotnika. Možnost je enaka stopnji veščine Ščit vašega lika, saj usposabljanje s ščitom običajno vključuje ofenzivno uporabo kot tudi defenzivno. Ščiti običajno uporabljajo podiranje kot svoj poseben uspeh, čeprav nekatere vrste ščitov imajo bodice in lahko uporabljajo posebne uspehe prebadanja.
+Svoj ščit lahko vaš lik uporabi tudi za napad na nasprotnika. Možnost je enaka oceni spretnosti Ščit vašega lika, saj usposabljanje s ščitom običajno vključuje tako napadalno kot obrambno uporabo. Ščiti na splošno uporabljajo potisk kot svoj posebni uspeh, čeprav so nekatere vrste ščitov opremljene s konicami in lahko uporabljajo posebne uspehe za prebadanje.
 
-Če napadalec želi uničiti nasprotnikovo parirno orožje ali ščit, naj izvede napad kot običajno. Če tarča ne poskuša parirati, je napad **Ciljan napad**. Če je napad uspešen in je uspešno pariran, ali če napad uspešno zadene ščit kot ciljan napad, se škoda vrže normalno (spremenjeno, če gre za poseben ali kritični uspeh). Vrednost oklepa ščita se odšteje od povzročene škode. Kakršna koli presežna škoda se povzroči ščitu. Če se ščit zmanjša na 0 točk življenja, preostanek škode zadene branilca. Oklep bo ščitil pred tem, in če se uporablja neobvezni sistem lokacij zadetkov, bo škoda povzročena na branilčevi roki, ki drži orožje ali ščit.
+Če želi napadalec uničiti nasprotnikovo parirajoče orožje ali ščit, naj izvede napad kot običajno. Če tarča ne poskuša parirati, je napad **Namerni napad**. Če je napad uspešen in je uspešno pariran, ali če napad uspešno zadene ščit kot namerni napad, se škoda vrže običajno (spremenjeno, če gre za poseben ali kritičen uspeh). Od povzročene škode se odšteje vrednost oklepa ščita. Vsaka presežna škoda se povzroči ščitu. Če se ščit zmanjša na 0 točk vzdržljivosti, preostanek škode zadane branilca. Oklep bo to zaščitil, in če se uporablja neobvezni sistem lokacij zadetkov, bo škoda zadala branilčevo roko, s katero drži orožje ali ščit.
 
 > ### Naključne vrednosti oklepa (Možnost)
 > 
-> Včasih je oklep nezanesljiv in morda ne bo zaščitil vašega lika zanesljivo vsakič, ko je zadet v boju. Oklep ima vrzeli, prostore, ki so manj zaščiteni, nekateri deli telesa vašega lika pa morda sploh niso zaščiteni. Namesto fiksne vrednosti oklepa naključna vrednost oklepa simulira to nepredvidljivost z razponom kock, vrženih vsakič, ko napad, ki bi povzročil škodo, uspešno zadene vaš lik. Ta naključno določena vrednost oklepa se vrže in odšteje od kakršne koli prejete škode. Vrednost oklepa se vrže ločeno za vsak napad, ki zadene vaš lik, celo v istem krogu. *Poglavje osem: Oprema* podrobno obravnava oklep in ponuja razpone za naključne vrednosti oklepa. V igrah, ki uporabljajo naključno vrednost oklepa, je priporočljivo, da je oklep generičen namesto specifičen za lokacijo zadetka, da se zmanjša vodenje evidenc na lokacijo.
+> Včasih je oklep nezanesljiv in morda ne zaščiti vašega lika zanesljivo vsakič, ko je zadet v boju. Oklep ima vrzeli, prostore, ki so manj oklepljeni, nekateri deli telesa vašega lika pa morda sploh niso oklepljeni. Namesto fiksne vrednosti oklepa naključna vrednost oklepa simulira to nepredvidljivost z razponom kock, ki se vržejo vsakič, ko napad, ki bi povzročil škodo, uspešno zadane vaš lik. Ta naključno določena vrednost oklepa se vrže in odšteje od morebitne prejete škode. Vrednost oklepa se za vsak napad, ki zadane vaš lik, vrže posebej, celo v istem krogu. *Osmo poglavje: Oprema* podrobno zajema oklep in nudi razpone za naključne vrednosti oklepa. V igrah, ki uporabljajo naključno vrednost oklepa, je priporočljivo, da je oklep splošen in ne specifičen za lokacijo zadetka, da se zmanjša vodenje evidenc za vsako lokacijo.
 
-## Orožja na daljavo
+## Orožje za napad na daljavo
 
-Orožje, ki se izstreli ali vrže proti tarči, je **orožje na daljavo**. To vključuje sulice, kamne, metanje nožev, bumerange, puščice ali celo sekiro. Orožja, ki uporabljajo neko obliko mehanizma za projiciranje elementa, ki povzroča škodo, proti tarči, vključno s strelnim orožjem, loki, katapulti in celo energetskim orožjem, so prav tako orožja na daljavo.
+Orožje, ki se izstreli ali vrže proti tarči, je **orožje za napad na daljavo**. To vključuje kopja, kamne, nože za metanje, bumerange, puščice ali celo sekiro. Orožja, ki uporabljajo neko obliko mehanizma za projiciranje elementa, ki povzroča škodo, proti tarči, vključno s strelnim orožjem, loki, katapulti in celo energijskim orožjem, so prav tako orožja za napad na daljavo.
 
-Orožja na daljavo so opisana v Poglavju osem: Oprema. Nekatere vrste orožij na daljavo, kot so loki in samostreli, napadajo počasneje, kot lahko vaš lik zamahne z orožjem za boj iz oči v oči, medtem ko strelno orožje in druga samohodna orožja pogosto napadajo hitreje. Stolpec napadov na krog (Attk) v tabelah orožja prikazuje, kako pogosto se lahko izvajajo napadi z vsako vrsto orožja na daljavo. Za povečano hitrost ognja (večje število napadov na krog) glejte **Salvo ognja**.
+Orožja za napad na daljavo so opisana v osmem poglavju: Oprema. Nekatere vrste orožij za napad na daljavo, kot so loki in samostreli, napadajo počasneje, kot lahko vaš lik zamahne z orožjem za boj iz bližine, medtem ko strelno orožje in drugo samohodno orožje pogosto napadata hitreje. Stolpec napadov na krog (Attk) v tabelah orožja prikazuje, kako pogosto se lahko izvajajo napadi z vsako vrsto orožja za napad na daljavo. Za večjo hitrost streljanja (večje število napadov na krog), glej **Salvni ogenj**.
 
-Sledijo modifikatorji dosega za orožja na daljavo:
+Spodaj so navedeni modifikatorji dosega za orožja za napad na daljavo:
 
-* **Točka nič:** Če je tarča znotraj SPRET/3 metrov napadalca (zaokroženo navzgor) (tudi če tarča leži), je veščina *Lahka*.
+* **Zelo blizu:** Če je tarča znotraj napadalčevega SPR/3 metrov (zaokroženo navzgor) (tudi če tarča leži na tleh), je spretnost Lahka.
 
-* **Normalni doseg:** Nespremenjen, če je tarča znotraj standardnega navedenega dosega orožja.
+* **Normalen doseg:** Brez modifikacij, če je tarča znotraj standardno navedenega dosega orožja.
 
-* **Srednji doseg:** Če je tarča na dvakratniku standardnega navedenega dosega orožja, je napad *Težek*.
+* **Srednji doseg:** Če je tarča na dvojnem standardno navedenem dosegu orožja, je napad Težaven.
 
-* **Dolgi doseg:** Če je tarča na štirikratniku standardnega navedenega dosega orožja, je napad 1/5 normalne možnosti veščine (enakovredno posebnemu uspehu, vendar če je vrženo, je rezultat normalen uspeh).
+* **Dolg doseg:** Če je tarča na štirikratnem standardno navedenem dosegu orožja, je napad 1/5 normalne možnosti spretnosti (enakovredno posebnemu uspehu, vendar če je vrženo, je rezultat normalni uspeh).
 
 * **Hitro premikajoča se tarča:** –50 %
 
-* **Težek vid:** Rahle sence –10 %, lahka megla –25 %, v temi so veščine *Težke* (glejte **Tema**).
+* **Težavna vidljivost:** Svetle sence –10 %, lahka megla –25 %, v temi so spretnosti Težavne (glej **Tema**).
 
-* **Prikritost:** Če je tarča pokrita ali delno prikrita, so veščine *Težke* (glejte **Kritje**).
+* **Prikritost:** Če je tarča pokrita ali delno skrita, so spretnosti Težavne (glej **Kritje**).
 
-* **Ležanje na razdalji:** Če tarča leži na razdalji, večji od SPRET/3 metrov napadalca (zaokroženo navzgor), je napad *Težek*.
+* **Ležanje na razdalji:** Če tarča leži na razdalji, večji od napadalčevega SPR/3 metrov (zaokroženo navzgor), je napad Težaven.
 
-* **Oprema za ciljanje:** Uporaba očal za dolge razdalje, daljnogleda, laserskega merilnika ali drugega sistema za ciljanje deli modifikatorje dosega na 1/2, če se en krog boja porabi za ciljanje.
+* **Oprema za ciljanje:** Uporaba daljnogledov za dolge razdalje, strelnega daljnogleda, laserskega namerilnika ali drugega namerilnega sistema razdeli modifikatorje dosega na 1/2, če se za namerjanje porabi en bojni krog.
 
-* **Podpora:** Če orožje uporablja fiksno podporo (dvodelni ali trinožni stojalo, suspenzor zanko itd.), dodajte +40 % za prvi napad, če se en krog porabi za ciljanje, nato +20 % za naslednje kroge.
+* **Podpora:** Če orožje uporablja fiksno podporo (dvodelno ali trinožno stojalo, zanko za podporo itd.), dodajte +40 % za prvi napad, če se za namerjanje porabi en krog, nato +20 % za naslednje kroge.
 
-Ognja orožja na daljavo na splošno ni mogoče izmikati ali parirati z ročnim orožjem. Edini način obrambe pred ognjem orožja na daljavo je pariranje s ščitom, če je projektil dovolj počasen, da ga je mogoče videti v letu. Strelno orožje in drugi projektili so prehitri za to, medtem ko puščice, sulice in druga ročno izstreljena orožja lahko parirate s ščitom (glejte **Ščiti in ogenj na daljavo**). Če uporabljate neobvezno pravilo za izmikanje in pariranje ognja orožja na daljavo brez omejitev ali ovir, glejte **Izmikanje orožju na daljavo**.
+Ognja orožja za napad na daljavo na splošno ni mogoče izmikati ali parirati z ročnim orožjem. Edini način obrambe pred ognjem orožja za napad na daljavo je pariranje s ščitom, če je izstrelek dovolj počasen, da ga je mogoče videti v letu. Strelno orožje in drugi izstrelki so prehitri za to, medtem ko puščice, kopja in drugo ročno poganjano orožje lahko parirate s ščitom (glej **Ščiti in ogenj z orožjem na daljavo**). Če uporabljate dodatno pravilo za izmikanje in pariranje ognja orožja za napad na daljavo brez omejitev ali ovir, glej **Izmikanje orožju za napad na daljavo**.
 
-## Škoda in celjenje
+## Škoda in zdravljenje
 
-Točke življenja merijo količino poškodbe, ki jo vaš lik lahko prenese in preživi. Ko vaš lik izgubi točke življenja zaradi poškodbe, se to imenuje **škoda**. Začnete s točkami življenja, ki temeljijo na vaših značilnostih VZD in SIZ, te pa se zmanjšajo za količino škode, ki jo prejmete. Rane ali druge poškodbe, strupi, bolezen in druge oblike napadov lahko vašega lika stanejo točke življenja v obliki škode. Izgubljene točke življenja bi morali prečrtati iz trenutnega skupnega števila točk življenja, prikazanega na vašem listu lika, pri čemer vsako poškodbo beležite ločeno. Ali obkrožite trenutni znesek glede na vsako izgubo.
+Točke vzdržljivosti merijo količino poškodb, ki jih vaš lik lahko prenese in preživi. Ko vaš lik izgubi točke vzdržljivosti zaradi poškodbe, se to imenuje **škoda**. Začnete s točkami vzdržljivosti, ki temeljijo na vaših karakteristikah VZD in VEL, te pa se zmanjšajo za količino škode, ki jo utrpite. Rane ali druge poškodbe, strupi, bolezni in druge oblike napadov lahko vašega lika stanejo točk vzdržljivosti v obliki škode. Izgubljene točke vzdržljivosti prečrtajte s trenutnega skupnega števila točk vzdržljivosti, prikazanega na vašem listu lika, in vsako poškodbo spremljajte posebej. Ali pa obkrožite trenutni znesek na podlagi vsake izgube.
 
-Strup in bolezen sta posebni vrsti poškodbe; lahko napadeta naključno in njuni učinki so lahko odloženi. Nekateri stanejo točke življenja, drugi pa ciljajo točke značilnosti ali imajo druge učinke. Veščini Prva pomoč in Medicina lahko zmanjšata ali ozdravita manjše rane in poškodbe. Razne moči in oprema lahko prav tako obnovijo točke življenja likov.
+Strup in bolezen sta posebni vrsti poškodbe; lahko napadeta naključno, njuni učinki pa so lahko zakasnjeni. Nekateri stanejo točke vzdržljivosti, drugi ciljajo na točke karakteristik ali imajo druge učinke. Spretnosti Prva pomoč in Medicina lahko ublažijo ali zacelijo manjše rane in poškodbe. Različne moči in oprema lahko likom tudi obnovijo točke vzdržljivosti.
 
-Rane so razvrščene kot **manjše**, **večje** ali **usodne** in so opisane spodaj.
+Rane so razvrščene kot **manjše**, **hude** ali **smrtne** in so opisane spodaj.
 
 ### Manjše rane
 
-**Manjša rana** je ena rana, ki vašega lika stane do polovice njihovih skupnih točk življenja. Lahko je prikazana kot ureznina, zvin, blaga zastrupitev, manjši zlom ali razpoka, blag pretres možganov ali kot rana, ki se kmalu zapre. Manjše rane ne ovirajo SPRET ali ne vplivajo na sposobnost vašega lika za razmišljanje in boj.
+**Manjša rana** je ena sama rana, ki vašega lika stane do polovice njegovih skupnih točk vzdržljivosti. Lahko jo prikažemo kot ureznino, zvin, blago zastrupitev, manjši zlom ali razpoko, blag pretres možganov ali kot rano, ki se hitro zapre. Manjše rane ne ovirajo SPR ali ne vplivajo na sposobnost vašega lika za razmišljanje in boj.
 
-Vaš lik lahko prejme več manjših ran na isti dan. Če skupno izgubljene točke življenja enake količini večje rane, mora vaš lik uspešno opraviti met za Srečo, sicer bo padel v nezavest. To ne pomeni, da vsota manjših ran povzroči večjo rano: ne mečite na **Tabeli večjih ran** za več manjših ran. To pomeni, da je vaš lik utrpel enakovredno večji rani, vendar dejansko ni bil zadet z njo. Poleg tega, če vaš lik utrpi dovolj manjših ran, da se zmanjša na 1 ali 2 točki življenja, to jih onesposobi za do eno uro. Vsaka manjša rana je ločena rana in se lahko z njo ravna ločeno z zdravniško oskrbo, kot je opisano v **Celjenju**.
+Vaš lik lahko isti dan utrpi več manjših ran. Če skupne izgubljene točke vzdržljivosti dosežejo znesek hude rane, mora vaš lik opraviti uspešen met za Srečo, sicer bo padel v nezavest. To ne pomeni, da skupnost manjših ran povzroči hudo rano: ne mečite na **Tabeli za hude rane** za več manjših ran. Pomeni, da je vaš lik utrpel enakovredno hudi rani, vendar ni bil dejansko zadet z njo. Poleg tega, če vaš lik utrpi dovolj manjših ran, da se mu zmanjšajo na 1 ali 2 točki vzdržljivosti, ga to spravi v nezavest za do eno uro. Vsaka manjša rana je ločena rana in jo je mogoče obravnavati ločeno z zdravniško oskrbo, kot je opisano v **Zdravljenju**.
 
-### Večje rane
+### Hude rane
 
-Ko je vaš lik utrpel poškodbo, enako ali večjo od polovice skupnih točk življenja lika, je utrpel **večjo rano**. Prejem večje rane tvega trpljenje trajne poškodbe. Ko vaš lik prejme večjo rano, vrzite na **Tabeli večjih ran** ali izberite ustrezen rezultat, če se uporabljajo lokacije zadetkov. Kot je navedeno v **Lokacije zadetkov**, so večje rane nezdružljive z lokacijami zadetkov brez precejšnje interpretacije igralnega mojstra.
+Ko vaš lik utrpi poškodbo, enako ali večjo od polovice skupnih točk vzdržljivosti lika, je utrpel **hudo rano**. Prejem hude rane tvega trajno poškodbo. Ko vaš lik prejme hudo rano, vrzite na **Tabeli za hude rane** ali izberite ustrezen rezultat, če se uporabljajo lokacije zadetkov. Kot je navedeno v **Lokacijah zadetkov**, so hude rane nezdružljive z lokacijami zadetkov brez znatne interpretacije vodje igre.
 
-Učinek večje rane je takojšen. Glede na resnost ran vašega lika se morda ne bodo mogli boriti po krogu poškodbe. Glejte **Tabelo večjih ran** za več podrobnosti o tem.
+Učinek hude rane je takojšen. Odvisno od resnosti ran vašega lika se morda po krogu poškodbe ne bo mogel boriti. Za več podrobnosti glej **Tabelo za hude rane**.
 
-Čeprav se vaš lik morda še vedno lahko bori ali je prejel neko obliko takojšnje zdravniške oskrbe, če je utrpel večjo rano, gre v šok. Zaradi tega se lahko vaš lik bori le še za kroge boja, enake njihovim trenutnim preostalim točkam življenja.
+Čeprav se vaš lik morda še vedno lahko bori ali je prejel neko obliko takojšnje zdravniške oskrbe, če je utrpel hudo rano, gre v šok. Zaradi tega se lahko vaš lik bori le še za število bojnih krogov, ki je enako njegovim trenutno preostalim točkam vzdržljivosti.
 
-***Na primer,*** *če je vaš lik utrpel večjo rano in ima preostale 3 točke življenja, v treh krogih pade v nezavest.*
+***Na primer,*** *če je vaš lik utrpel hudo rano in mu ostanejo 3 točke vzdržljivosti, v treh krogih pade v nezavest.*
 
-Lik, ki ima 2 ali manj točk življenja po utrpeli večji rani, takoj kolapsira zaradi šoka in izgube krvi ter je eno uro v nezavesti. Za igralnega mojstra nezavest, ki jo povzroči večja rana, pogosto ponuja varen način, da neigralni liki opustijo like za mrtve ali jih zajamejo, namesto da bi jih naravnost ubili.
+Lik, ki ima po utrpeli hudi rani 2 ali manj točk vzdržljivosti, takoj kolapsira zaradi šoka in izgube krvi ter je eno uro v nezavesti. Za vodjo igre nezavest, ki jo povzroči huda rana, pogosto ponuja varen način, da neigralski liki zapustijo like kot mrtve ali jih ujamejo, namesto da bi jih takoj ubili.
 
-Večje rane in njihovi učinki veljajo tako za igralne kot neigralne like, skupaj z živalmi, pošasti ali drugimi bitji. Ne veljajo za opremo, nežive predmete ali druga bitja, ki nimajo standardne muskulature (roboti, nematerialni, želatinasti itd.). Takšna bitja lahko utrpijo strukturno škodo ali operativne težave, vendar je to odvisno od presoje vašega igralnega mojstra.
+Hude rane in njihovi učinki veljajo tako za igralske kot za neigralske like, skupaj z živalmi, pošastmi ali drugimi bitji. Ne veljajo za opremo, nežive predmete ali druga bitja, ki nimajo standardnega mišičevja (roboti, neotipljiva, želatinasta bitja itd.). Takšna bitja lahko utrpijo strukturno škodo ali težave pri delovanju, vendar je to odvisno od presoje vašega vodje igre.
 
-Če je vaš lik utrpel večjo rano, takoj poskusite met za Srečo. Če je uspešen, se bo večja rana čisto zacelila in ne bo povzročila trajne izgube točk značilnosti. Če met za Srečo ne uspe, je poškodba ali rana trajna. Vaš lik utrpi polno rano, kot je opisano spodaj, odštevajoč navedene točke značilnosti.
+Če je vaš lik utrpel hudo rano, takoj poskusite met za Srečo. Če je uspešen, se bo huda rana čisto zacelila in ne bo povzročila nobene trajne izgube točk karakteristik. Če met za Srečo ne uspe, je poškodba ali rana trajna. Vaš lik utrpi celotno rano, kot je opisano spodaj, in odšteje navedene točke karakteristik.
 
-Vsak opis poškodbe ima več vzrokov ali podrobnosti, kar vašemu igralnemu mojstru omogoča, da izbere najbolj primernega za situacijo. Z usposabljanjem ali drugimi različnimi sredstvi lahko vaš lik povrne točke značilnosti, izgubljene zaradi večjih ran, vendar bo verjetno obdržal pomembno brazgotino (če je primerno). Ko je bila izgubljena točka značilnosti, nastala zaradi večje rane, povrnjena, so vsi učinki večje rane odpravljeni. Če vaš lik ne povrne izgubljenih točk značilnosti, je izguba značilnosti, ki jo je vsilila večja rana, trajna. Takoj bi morali ponovno izračunati mete za značilnosti vašega lika, točke življenja, modifikator škode, točke utrujenosti itd. z novimi seštevki značilnosti.
+Vsak opis poškodbe ima več vzrokov ali posebnosti, kar vašemu vodji igre omogoča, da izbere najbolj primerno za situacijo. S treningom ali drugimi različnimi sredstvi lahko vaš lik povrne točke karakteristik, izgubljene zaradi hudih ran, vendar bo verjetno obdržal znatno brazgotino (če je primerno). Ko je izguba točk karakteristik, ki jo je povzročila huda rana, povrnjena, se vsi učinki hude rane odpravijo. Če vaš lik ne povrne izgubljene točke/točk karakteristik, je izguba karakteristik, ki jo je vsilila huda rana, trajna. Takoj morate ponovno izračunati mete vašega lika za karakteristike, točke vzdržljivosti, modifikator škode, točke utrujenosti itd. z novimi seštevki karakteristik.
 
-Kadar ud ni določen, vrzite 1K6: rezultat 1–3 je levi, 4–6 je desni.
+Kadar ud ni določen, vrzite 1D6: rezultat 1–3 je leva, 4–6 je desna.
 
-##### Tabela večjih ran
+##### Tabela za hude rane
 
 | 1D100 | Rezultat |
 | :---- | :---- |
-| 01–10 | Prerezane tetive noge povzročijo šepanje; zraščene kosti gležnja povzročijo šepanje; poškodba hrbtnih mišic ali hrbteničnih živcev upogne trup v levo ali desno; zdrobljeno koleno se ne more upogniti; ali izmislite nov učinek rane. Izgubi 1K3 SPRET in zmanjšaj GIB za enak znesek. Lik se še vedno lahko bori. |
-| 11–20 | Velik del nosu je odrezan; več brazgotin izmaliči obe roki; uho je odrezano; modra brazgotina daje videz zla; ali izmislite nov učinek rane. Izgubi 1K3 ZNA. Vidne in neprivlačne deformacije ni mogoče prikriti. Lik se še vedno lahko bori. |
-| 21–30 | Poškodba zapestja ali roke; del mišic roke ali rame je odrezan; kos je bil odsekan iz mišic stegna ali meča; hrbtenični živci so poškodovani; več prstov na roki ali nogi je odsekanih; ali izmislite nov učinek rane. Izgubi 1K3 MOČ; ta izguba lahko spremeni orožje, ki se lahko uporablja. Lik se še vedno lahko bori z orožjem, ne pa s ščitom. |
-| 31–40 | Prebodena pljuča vodijo do oslabljenega dihalnega sistema; globoke rane na trebuhu postanejo kronično okužene, ali rane na trebuhu oslabijo prebavo in splošno zdravje; ledvice in jetra so poškodovana; ali izmislite nov učinek rane. Izgubi 1K3 VZD; zmanjšaj GIB za enak znesek, točke življenja pa so lahko znižane. Lik se še vedno lahko bori. |
-| 41–50 | Pretres možganov poškoduje sluh in omeji Poslušanje in Vpogled na maksimum 65 %; poškodba glave za tem zahteva mete za Srečo vsakič za uporabo katere koli Mentalne veščine; udarci ali ureznine, ki vplivajo na zaznavanje globine, pustijo stopnje veščine orožja na daljavo na maksimumu 65 %; več ran na obrazu in vratu omeji veščine katere koli komunikacijske veščine na maksimum 65 %; ali izmislite nov učinek rane. Izgubi 1K3 INT; ta izguba lahko vpliva na sposobnost lika za uporabo kakršnih koli moči, kot je čarovništvo. Lik se še vedno lahko bori. |
-| 51–60 | Glejte 01–10, vendar razširjeno na izgubo ene ali obeh rok ali nog. Izgubi 1K6 SPRET in zmanjšaj maksimalni GIB za enak znesek. Lik se ne more boriti. |
-| 61–70 | Glejte 11–20, vendar večja rana zdaj vključuje hujše pohabljenosti. Izgubi 1K6 ZNA; ustvari eno ali več vidnih deformacij, ki jih ni mogoče prikriti. Lik se še vedno lahko bori. |
-| 71–80 | Glejte 21–30 za primere pohabljajočih ureznin in izgub. Izgubi 1K6 MOČ, morda prilagajanje modifikatorja škode. Lik se še vedno lahko bori. |
-| 81–90 | Glejte 31–40 za razne rane na vitalnih organih. Izgubi 1K6 VZD; lahko vpliva na točke življenja in modifikator škode ter zmanjša GIB enako izgubi VZD. Lik se ne more boriti. |
-| 91–92 | Hude poškodbe obraza in glasilk. Izgubi 1K6 ZNA. Lik se še vedno lahko bori. |
-| 93–94 | Zlomljene kosti in prerezani gangliji. Izgubi 1K6 SPRET; od zdaj naprej lahko lik uporablja le enoročna orožja iz oči v oči. Lik se še vedno lahko bori z uporabo preostale roke. |
-| 95–96 | Poškodba živcev leve ali desne roke. Izgubi 1K6 SPRET; od zdaj naprej lahko vaš lik uporablja le orožje ali opremo v nepoškodovani roki. Lik se še vedno lahko bori z uporabo preostale roke. |
-| 97–98 | Poškodba živcev obeh rok. Izgubi 1K6 SPRET; čeprav so noge v redu, ne roke ne roke ne morejo upravljati z ničemer. Lik se ne more boriti, razen z uporabo nog ali udarcev z glavo. |
-| 99 | Pohabljen z zlobnimi ranami. Izgubi 1K3 točke vsakega od ZNA, SPRET in VZD. Lik se ne more boriti. |
-| 00 | Namerno pohabljen po kolapsu. Odstrani 1K4 točke vsakega od štirih značilnosti (presoja igralnega mojstra). Lik se ne more boriti. |
+| 01–10 | Prerezane tetive na nogi povzročijo šepanje; zraščene kosti gležnja povzročijo šepanje; poškodba hrbtnih mišic ali hrbteničnega živca upogne trup v levo ali desno; zdrobljeno koleno se ne more upogniti; ali si izmislite nov učinek rane. Izgubite 1D3 SPR in zmanjšajte MOV za enak znesek. Lik se še vedno lahko bori. |
+| 11–20 | Velik del nosu je odrezan; več brazgotin izmaliči obe roki; uho je odrezano; modrikasta brazgotina podari videzu zloben priokus; ali si izmislite nov učinek rane. Izgubite 1D3 KAR. Vidne in neprivlačne deformacije ni mogoče skriti. Lik se še vedno lahko bori. |
+| 21–30 | Poškodba zapestja ali roke; odrezan je kos mišice na roki ali rami; kos je bil odrezan iz stegenskih ali mečnih mišic; poškodovani so hrbtenični živci; odrezanih je več prstov na rokah ali nogah; ali si izmislite nov učinek rane. Izgubite 1D3 MOČ; ta izguba lahko spremeni vrsto orožja, ki ga lahko uporabljate. Lik se še vedno lahko bori z orožjem, vendar ne s ščitom. |
+| 31–40 | Predrta pljuča vodijo do oslabljenega dihalnega sistema; globoke rane na trebuhu postanejo kronično vnete ali rane na trebuhu oslabijo prebavo in splošno zdravje; poškodovani so ledvice in jetra; ali si izmislite nov učinek rane. Izgubite 1D3 VZD; zmanjšajte MOV za enak znesek, točke vzdržljivosti pa se lahko znižajo. Lik se še vedno lahko bori. |
+| 41–50 | Pretres možganov poškoduje sluh in omeji Poslušanje in Uvid na maksimum 65 %; poškodba glave za naprej zahteva mete za Srečo vsakič za uporabo katere koli duševne spretnosti; udarci ali ureznine, ki vplivajo na zaznavanje globine, pustijo ocene spretnosti orožja za napad na daljavo na maksimumu 65 %; več ran na obrazu in vratu omeji spretnosti katere koli komunikacijske spretnosti na maksimum 65 %; ali si izmislite nov učinek rane. Izgubite 1D3 INT; ta izguba lahko vpliva na sposobnost lika za uporabo katere koli moči, kot je čarovnija. Lik se še vedno lahko bori. |
+| 51–60 | Glej 01–10, vendar razširjeno na izgubo ene ali obeh rok ali nog. Izgubite 1D6 SPR in zmanjšajte največji MOV za enak znesek. Lik ni sposoben boja. |
+| 61–70 | Glej 11–20, vendar huda rana zdaj vključuje hujše pohabljenosti. Izgubite 1D6 KAR; povzroči eno ali več vidnih deformacij, ki jih ni mogoče skriti. Lik se še vedno lahko bori. |
+| 71–80 | Glej 21–30 za primere pohabljenih ureznin in izgub. Izgubite 1D6 MOČ, morda prilagodite modifikator škode. Lik se še vedno lahko bori. |
+| 81–90 | Glej 31–40 za različne rane na vitalnih organih. Izgubite 1D6 VZD; lahko vpliva na točke vzdržljivosti in modifikator škode ter zmanjša MOV za znesek izgube VZD. Lik ni sposoben boja. |
+| 91–92 | Hude poškodbe obraza in glasilk. Izgubite 1D6 KAR. Lik se še vedno lahko bori. |
+| 93–94 | Zlomljene kosti in pretrgani gangliji. Izgubite 1D6 SPR; od zdaj naprej lahko lik uporablja le enoročno orožje za bližnji boj. Lik se še vedno lahko bori z uporabo preostale roke. |
+| 95–96 | Poškodba živcev na levi ali desni roki. Izgubite 1D6 SPR; od zdaj naprej lahko vaš lik vihti orožje ali opremo le v svoji nepoškodovani roki. Lik se še vedno lahko bori z uporabo preostale roke. |
+| 97–98 | Poškodba živcev na obeh rokah. Izgubite 1D6 SPR; čeprav so noge v redu, roke ali dlani ne morejo ničesar vihteti. Lik ni sposoben boja, razen z uporabo nog ali udarcev z glavo. |
+| 99 | Pohabljen z grozljivimi ranami. Izgubite 1D3 točke vsake izmed KAR, SPR in VZD. Lik ni sposoben boja. |
+| 00 | Namerno pohabljen po kolapsu. Odstranite 1D4 točke vsake izmed štirih karakteristik (presoja vodje igre). Lik ni sposoben boja. |
 
-### Usodne rane
+### Smrtne rane
 
-**Usodna rana** je tista, ki povzroči več točk škode, kot jih ima vaš lik trenutno. Če poškodba zmanjša vaš lik na 0 ali negativne točke življenja, je utrpel usodno rano. Vaš lik takoj pade **na tla**, vendar ne more izvesti nobenega dejanja nobene vrste.
+**Smrtna rana** je tista, ki povzroči več točk škode, kot jih ima vaš lik trenutno. Če poškodba vašega lika zmanjša na 0 ali negativne točke vzdržljivosti, je utrpel smrtno rano. Vaš lik takoj pade **na tla**, vendar ni sposoben nobenega dejanja katere koli vrste.
 
-Usodne rane vodijo v smrt, čeprav jih je mogoče preprečiti s takojšnjo uspešno zdravniško pomočjo. Če smrtno ranjen lik prejme zdravniško oskrbo (Prva pomoč, Medicina, moč, predmet itd.) v krogu, ko je prejel usodno rano, ali v krogu neposredno po njem, in so njihove točke življenja dvignjene na 1 ali več, so skoraj umrli, vendar preživijo to določeno poškodbo.
+Smrtne rane vodijo do smrti, čeprav jih je mogoče preprečiti s takojšnjo uspešno zdravniško pomočjo. Če smrtno ranjen lik prejme zdravniško pomoč (Prva pomoč, Medicina, moč, predmet itd.) v krogu, v katerem je prejel smrtno rano, ali v krogu takoj za tem, in so njegove točke vzdržljivosti povišane na 1 ali več, je skoraj umrl, vendar preživi to določeno poškodbo.
 
-### Naravno celjenje
+### Naravno zdravljenje
 
-Večina živih bitij se naravno celi, ob dovolj časa in sorazmerno brezstresnem okolju. Vaš lik se bo običajno celil 1K3 točke življenja na igralni teden. To je normalna stopnja celjenja. Običajno vaš igralni mojster vrže kocke za stopnjo celjenja in vam pove rezultate. Vsak teden vrzite drug met, da določite, koliko točk življenja se obnovi. Ker se stopnja celjenja lahko razlikuje glede na vsak lik, se rezultat kocke lahko spreminja iz tedna v teden. Vaš lik se bo celil vsak teden, dokler se ne obnovijo vse njegove točke življenja.
+Večina živih bitij se zdravi naravno, če ima dovolj časa in okolje, ki je sorazmerno brez stresa. Vaš lik se bo običajno zdravil 1D3 točke vzdržljivosti na igralni teden. To je normalna stopnja zdravljenja. Običajno vaš vodja igre vrže kocke za stopnjo zdravljenja in vam pove rezultate. Vsak teden opravite drugačen met, da določite, koliko točk vzdržljivosti se obnovi. Ker se stopnja zdravljenja lahko razlikuje glede na vsakega lika, se lahko rezultat kocke iz tedna v teden spremeni. Vaš lik se bo zdravil vsak teden, dokler ne bodo obnovljene vse njegove točke vzdržljivosti.
 
-Rezultat tedenskega celjenja se podeli ob koncu tedna (sestavljenega iz sedmih dni), če pa se mudi, lahko vaš igralni mojster izbere, da razdeli stopnjo celjenja čez dneve v tednu, na primer tako, da razdeli teden z rezultatom meta kocke in napove, da se vsaka točka življenja obnovi v toliko dneh (zaokroženo navzgor).
+Rezultat tedenskega zdravljenja se podeli ob koncu tedna (ki ga sestavlja sedem dni), vendar če je čas bistven, se lahko vaš vodja igre odloči, da razdeli stopnjo zdravljenja čez dni v tednu, kot je delitev tedna z rezultatom meta kocke in napoved, da se vsaka točka vzdržljivosti obnovi v tolikšnem številju dni (zaokroženo navzgor).
 
-Odstranite obnovljene točke življenja iz obstoječih ran, porazdelite celjenje med več ran čim bolj enakomerno. Veščini Prva pomoč ali Medicina ali druga sredstva lahko pospešijo okrevanje. Uspešen met za Prvo pomoč takoj obnovi 1K3 točke življenja na rano ali poškodbo. Veščino Medicina se lahko uporabi za izravnavo učinkov večjih ran (opisanih prej) in se lahko uporabi za obnovo točk življenja, izgubljenih z drugimi sredstvi kot poškodbami. Različna zdravstvena oprema in druga sredstva (kot so zdravilne moči) se lahko uporabijo za pomoč pri procesu celjenja.
+Obnovljene točke vzdržljivosti odštejte od obstoječih poškodb, pri čemer zdravljenje med več ranami razporedite čim bolj enakomerno. Spretnosti Prva pomoč ali Medicina ali druga zdravila lahko pospešijo okrevanje. Uspešen met za Prvo pomoč takoj obnovi 1D3 točke vzdržljivosti na rano ali poškodbo. Spretnost Medicina se lahko uporabi za izničenje učinkov hudih ran (opisano prej) in se lahko uporabi za obnovo točk vzdržljivosti, izgubljenih z drugimi sredstvi kot poškodbami. Široka paleta medicinske opreme in drugih sredstev (kot so zdravilne moči) se lahko uporabijo za pomoč pri procesu zdravljenja.
 
-Končno, kakovost zdravniške oskrbe, ki jo bolnik prejme vsak teden, lahko znatno poveča njihovo stopnjo celjenja. Pogoji **Tabele zdravniške oskrbe** ponujajo smernice za različne pogoje in učinek na stopnjo celjenja.
+Navsezadnje lahko kakovost zdravniške oskrbe, ki jo bolnik prejema vsak teden, znatno poveča njegovo stopnjo zdravljenja. **Tabela pogojev zdravniške oskrbe** ponuja smernice za različne pogoje in učinek na stopnjo zdravljenja.
 
-##### Pogoji zdravniške oskrbe
+##### Tabela pogojev zdravniške oskrbe
 
-| Zdravstveni pogoji | Učinek na stopnjo celjenja |
+| Zdravstveni pogoji | Učinek na stopnjo zdravljenja |
 | :---- | :---- |
-| Slabo opremljeno, nehigienično in/ali polno stresnih elementov; bolnik je mobilen in se močno napreza (boj, naporno potovanje itd.); ali sploh ne prejema zdravniške oskrbe. | Negovalec (zdravnik, medicinska sestra, zdravilec, sam itd.) mora uspeti pri *Težkem* metu za Prvo pomoč ali Medicino, da pride do celjenja. Če je uspešen, se bolnik normalno celi (1K3 točke življenja/teden); če ni uspešen, ne pride do celjenja. Ponesrečitev povzroči 1K3 dodatne točke življenja škode. |
-| Spodobni in sanitarni pogoji, počivajoče okolje, oskrba zagotovljena, le zmeren fizični napor. | Bolnik se naravno celi 1K3 točke življenja. |
-| Odlični pogoji in uporabljena oprema, okolje, ki spodbuja celjenje in obnovo, celodnevni počitek v postelji in terapija, zagotovljena polna visokokakovostna zdravniška oskrba. | Bolnik se naravno celi 1K3 točke življenja; nadaljnja uspešna uporaba veščine Prve pomoči ali Medicine omogoča možno dodatno celjenje. |
+| Slabo opremljeno, nehigienično in/ali polno stresnih elementov; bolnik je mobilen in se močno napreza (boj, naporna potovanja itd.); ali sploh ne prejema zdravniške oskrbe. | Negovalec (zdravnik, medicinska sestra, zdravilec, sam itd.) mora biti uspešen pri *Težavnem* metu za Prvo pomoč ali Medicino, da do zdravljenja sploh pride. Če je uspešen, se bolnik zdravi normalno (1D3 točk vzdržljivosti/teden); če ni uspešen, do zdravljenja ne pride. Nerodnost povzroči 1D3 dodatnih točk škode. |
+| Dostojni in higienski pogoji, počivalno okolje, zagotovljena oskrba, le zmerni fizični napori. | Bolnik naravno zaceli 1D3 točk vzdržljivosti. |
+| Odlični pogoji in uporabljena oprema, okolje, ki spodbuja zdravljenje in obnovo, popoln počitek v postelji in terapija, zagotovljena visokokakovostna zdravstvena oskrba s polnim delovnim časom. | Bolnik naravno zaceli 1D3 točk vzdržljivosti; nadaljnja uspešna uporaba spretnosti Prva pomoč ali Medicina omogoča možno dodatno zdravljenje. |
 
 > ### Škoda in lokacije zadetkov (Možnost)
 > 
-> Če se uporablja neobvezni sistem lokacij zadetkov, so točke življenja vašega lika porazdeljene med različna telesna območja, vendar se beležijo tudi kot en sam 'bazen' točk življenja. Ta sistem ni združljiv z **Večjimi ranami** in ta dva sistema se ne smeta uporabljati skupaj.
+> Če se uporablja neobvezni sistem lokacij zadetkov, so točke vzdržljivosti vašega lika razdeljene med različna telesna območja, vendar se spremljajo tudi kot en sam „bazen“ točk vzdržljivosti. Ta sistem ni združljiv s **Hudimi ranami** in oba sistema se ne bi smela uporabljati skupaj.
 > 
-> Posamezne točke življenja na lokacijo se seštejejo v več kot običajno skupno število točk življenja vašega lika. Vsako rano in vsako lokacijo beležite ločeno, vendar vodite tudi skupni seštevek vse škode točk življenja, ki jih je utrpel vaš lik. Ne glede na to, koliko točk ostane na posameznih lokacijah zadetkov, če je skupna izguba točk življenja dovolj, da zmanjša vaš lik na 1 ali 2 točki življenja, pade v nezavest in pri 0 bo umrl, če ne prejme takojšnje zdravniške oskrbe.
+> Posamezne točke vzdržljivosti na lokacijo se seštejejo v več kot je skupno število točk vzdržljivosti vašega lika. Vsako rano in vsako lokacijo spremljajte posebej, vendar vodite tudi tekoči seštevek vse škode točk vzdržljivosti, ki jo je utrpel vaš lik. Ne glede na to, koliko točk ostane na posameznih lokacijah zadetkov, če je skupna izguba točk vzdržljivosti dovolj velika, da vaš lik zmanjša na 1 ali 2 točki vzdržljivosti, pade v nezavest, pri 0 točkah pa bo umrl, če ne prejme takojšnje zdravniške oskrbe.
 > 
-> Kot je navedeno v začetnem razdelku o lokacijah zadetkov, lahko lokacija zadetka prenese do svojih točk življenja v škodi brez neprijetnosti. ***Na primer,*** *če ima vaš lik 5 točk življenja na svoji lokaciji noge, lahko prejme do 4 točke škode na nogi, ne da bi bil onesposobljen.* Vendar pa so, ko lokacija zadetka prejme vse ali več kot svoje točke življenja v škodi, učinki lahko slabši ali celo usodni.
+> Kot je navedeno v začetnem razdelku o lokacijah zadetkov, lahko lokacija zadetka prenese do svojih točk vzdržljivosti škode brez neprijetnosti. ***Na primer,*** *če ima vaš lik 5 točk vzdržljivosti na lokaciji noge, lahko utrpi do 4 točke škode v nogo, ne da bi postal onesposobljen.* Vendar pa so učinki, ko lokacija zadetka utrpi vso ali več kot vse svoje točke vzdržljivosti škode, lahko invalidni ali celo usodni.
 > 
-> Sklic na 'zdravniško oskrbo' so lahko veščini Prva pomoč ali Medicina, zdravilna magija ali tehnologija ali uporaba ustrezne moči.
+> Sklic na „zdravniško oskrbo“ so lahko spretnosti Prva pomoč ali Medicina, zdravilna magija ali tehnologija ali uporaba ustrezne moči.
 > 
-> #### Škoda, enaka ali večja od točk življenja lokacije
+> #### Škoda, enaka ali večja od točk vzdržljivosti lokacije
 > 
-> * **Noga:** Ud je začasno neuporaben in vaš lik pade na tla. Za preostanek kroga ne morejo ukrepati, vendar lahko ukrepajo, medtem ko ležijo, v naslednjih krogih. Glejte **Na tleh** za učinke.
+> * **Noga:** Ud je začasno neuporaben in vaš lik pade na tla. Za preostanek kroga ni sposoben delovanja, vendar lahko deluje, ko leži na tleh, v naslednjih krogih. Glej **Padel po tleh** za učinke.
 > 
-> * **Trebuh:** Obe nogi sta začasno neuporabni. Vaš lik pade na tla, vendar lahko ukrepa, medtem ko leži, v naslednjih krogih boja. Če ima vaš lik sredstva za zdravljenje, jih lahko uporabi. Če ni ozdravljen ali obravnavan s prvo pomočjo v desetih minutah (dva obrata), vaš lik izkrvavi do smrti, izgubi 1 točko življenja na krog, če ne opravi meta za Vzdržljivost, da ustavi krvavenje.
+> * **Abdomen:** Obe nogi sta začasno neuporabni. Vaš lik pade na tla, vendar lahko deluje, medtem ko leži, v naslednjih krogih boja od blizu. Če ima vaš lik sredstva za zdravljenje, jih lahko uporabi. Če ni zdravljen ali oskrbljen s Prvo pomočjo v desetih minutah (dva obrata), vaš lik izkrvavi do smrti, pri čemer izgubi 1 točko vzdržljivosti na krog, če ne opravi meta za VZD, da ustavi krvavitev.
 > 
-> * **Prsi:** Vaš lik pade in je preveč zaposlen s kašljanjem krvi, da bi izvedel katero koli dejanje, vključno z zdravljenjem. V desetih minutah (dva obrata) bo izkrvavel do smrti, izgubi 1 točko življenja na krog, razen če ne prejme zdravniške oskrbe ali ustavi krvavenja z uspešnim metom za Vzdržljivost.
+> * **Prsni koš:** Vaš lik pade in je preveč zaposlen s kašljanjem krvi, da bi lahko opravil katero koli dejanje, vključno z zdravljenjem. V desetih minutah (dva obrata) bo izkrvavel do smrti, pri čemer bo izgubil 1 točko vzdržljivosti na krog, razen če prejme zdravniško pomoč ali ustavi krvavitev z uspešnim metom za VZD.
 > 
-> * **Roka:** Ud je začasno neuporaben in vse, kar ni pritrjeno na roko, se spusti. Vaš lik lahko še naprej stoji in se bori s katerimi koli udi, ki so še vedno funkcionalni.
+> * **Roka:** Ud je začasno neuporaben, vse, kar ni pritrjeno na roko, pa pade. Vaš lik lahko še naprej stoji in se bori z vsemi udi, ki so še vedno funkcionalni.
 > 
-> * **Glava:** Vaš lik pade v nezavest in mora prejeti zdravniško oskrbo v petih minutah (en obrat) ali opraviti uspešen met za Vzdržljivost, da se stabilizira. Če se ne zgodi nič od tega, umrejo.
+> * **Glava:** Vaš lik pade v nezavest in mora prejeti zdravniško pomoč v petih minutah (en obrat) ali opraviti uspešen met za VZD za stabilizacijo. Če se ne zgodi nič od tega, umre.
 > 
-> #### Škoda je enaka ali presega dvakratnik točk življenja lokacije
+> #### Škoda enaka ali presega dvakratno število točk vzdržljivosti lokacije
 > 
-> * **Ud:** Vaš lik ne more prejeti več kot dvakratnik možnih točk škode v roki ali nogi od enega samega udarca. Na primer, 2-točkovni zadetek v roko za 5 točk odvzame le 4 točke škode od skupnih točk življenja: preostala 1 točka škode nima učinka. Vendar nadaljnji udarci v tisto roko vplivajo na skupne točke življenja vašega lika. Vendar pa je lik, tako poškodovan od enega udarca, funkcionalno onesposobljen: ne more se več boriti, dokler ni ozdravljen, in je v šoku. Lahko poskusijo ozdraviti sami sebe. Krvavenje se pojavi s stopnjo 1 točke življenja na krog, dokler ne prejme uspešne zdravniške oskrbe ali opravi *Težek* met za Vzdržljivost.
+> * **Ud:** Vaš lik ne more utrpeti več kot dvakrat toliko možnih točk škode v roko ali nogo od enega samega udarca. Na primer, udarec v roko z 2 točkama za 5 točk odvzame le 4 točke škode od skupnih točk vzdržljivosti: preostala 1 točka škode nima učinka. Vendar pa nadaljnji udarci v tisto roko vplivajo na skupne točke vzdržljivosti vašega lika. Vendar pa je lik, tako poškodovan od enega samega udarca, funkcionalno onesposobljen: ne more se več boriti, dokler ni ozdravljen, in je v šoku. Lahko poskusi ozdraviti samega sebe. Do krvavitve pride po stopnji 1 točka vzdržljivosti na krog, dokler ne prejme uspešne zdravniške oskrbe ali težavnega meta za VZD.
 > 
-> * **Glava, prsi ali trebuh:** Če glava, prsi ali trebuh utrpijo več kot dvakrat toliko škode, kot imajo točk življenja na tisti lokaciji, vaš lik postane nezavesten in začne izgubljati 1 točko življenja na krog boja, razen če prejme zdravniško oskrbo ali opravi uspešen *Težek* met za Vzdržljivost.
+> * **Glava, prsni koš ali abdomen:** Če glava, prsni koš ali abdomen utrpita več kot dvakrat toliko škode, kot ima točk vzdržljivosti na tisti lokaciji, vaš lik pade v nezavest in začne izgubljati 1 točko vzdržljivosti na bojni krog, razen če prejme zdravniško pomoč ali opravi uspešen težaven met za VZD.
 > 
-> #### Škoda je enaka ali presega trikratnik točk življenja lokacije
+> #### Škoda enaka ali presega trikratno število točk vzdržljivosti lokacije
 > 
-> * Ud, zadet za trikrat več točk, kot jih lahko prenese v enem udarcu, je odsekan ali nepreklicno pohabljen. ***Na primer,*** *če ima vaš lik 2-točkovno roko in je zadet za 8 točk, prejme le 4 točke škode proti svojim skupnim točkam življenja. Vendar je roka pohabljena. V teh primerih je vaš lik tudi funkcionalno onesposobljen.*
+> * Udarec v ud za trikrat več točk, kot jih lahko prenese v enem samem udarcu, je odrezan ali nepreklicno pohabljen. ***Na primer,*** *če ima vaš lik roko z 2 točkama in je zadet za 8 točk, utrpi le 4 točke škode proti svojim skupnim točkam vzdržljivosti. Vendar je roka pohabljena. V teh primerih je vaš lik tudi funkcionalno onesposobljen.*
 > 
-> * Zadeta glava, prsi ali trebuh za trikrat toliko škode, kot je točk življenja na tisti lokaciji, povzroči takojšnjo smrt.
+> * Udarec v glavo, prsni koš ali abdomen za trikrat toliko škode, kot je točk vzdržljivosti na tisti lokaciji, povzroči takojšnjo smrt.
 > 
-> #### Odsekane in pohabljene ude
+> #### Odrezani in pohabljeni udje
 > 
-> * Samo drastična zdravniška oskrba lahko obnovi odsekan ud, ob predpostavki, da so vsi deli na voljo, kot so nekatere izjemno močne magije, tehnologija ali resna operacija, ki ji sledijo mesece okrevanja.
+> * Le drastična zdravniška oskrba lahko obnovi odrezan ud, ob predpostavki, da so vsi deli na voljo, kot so nekatere izjemno močne čarovnije, tehnologija ali resna operacija, ki ji sledijo meseci okrevanja.
 > 
-> * Pohabljanje ali odsekavanje uda je lahko trajno poškodujoče. Če vaš lik nima več dela uda, izgubi 1 točko življenja na tisti lokaciji. Vaš igralni mojster naj sodeluje z vami, da razpravljata o možnostih, primernih za okolje, bodisi kibernetika, močna magija ali bolj drastični ukrepi.
+> * Pohabljanje ali odrezanje uda je lahko trajno škodljivo. Če vaš lik nima več dela uda, izgubi 1 točko vzdržljivosti na tisti lokaciji. Vaš vodja igre naj sodeluje z vami, da razpravljate o možnostih, primernih za okolje, pa naj bodo to kibernetika, močna magija ali bolj drastični ukrepi.
 > 
-> * Uporabite smernice za **Večje rane**, da določite kakršno koli izgubo značilnosti.
+> * Uporabite smernice za **Hude rane** za določitev kakršne koli izgube karakteristik.
 
 
 > ### Miniature, zemljevidi in virtualne mize
 > 
-> Gibanje in pozicioniranje v boju iz oči v oči sta izziv za spremljanje v igrah vlog. Medtem ko so nekateri igralci in igralni mojstri manj zaskrbljeni s podrobnostmi med bojem, nekateri čutijo potrebo po spremljanju relativnih položajev igralcev in njihovih nasprotnikov. Uporaba figur, žetonov ali označevalcev na zemljevidu lahko odgovori na vsa vprašanja in predstavi konkreten način določanja, kaj se dogaja in kje.
+> Premikanje in pozicioniranje v boju od blizu sta zahtevna elementa za spremljanje v igrah vlog. Medtem ko so nekateri igralci in vodje igre manj zaskrbljeni za podrobnosti med bojem, drugi čutijo potrebo po spremljanju relativnih položajev igralskih likov in njihovih nasprotnikov. Uporaba figur, žetonov ali označevalcev na zemljevidu lahko odgovori na vsa vprašanja in predstavlja konkreten način določanja, kaj se dogaja in kje.
 > 
-> Miniature za igranje vlog so majhne plastične ali kovinske figurice, visoke nekaj centimetrov, na voljo v večini trgovin z igrami in hobiji ali na spletu. Obstaja ogromno vrst likov, kostumov, žanrov, zgodovinskih obdobij in poz, zbiranje, sestavljanje in barvanje miniatur pa je prijeten stranski hobi.
+> Miniature za igre vlog so majhne plastične ali kovinske figurice, visoke nekaj centimetrov, na voljo v večini trgovin z igrami in hobi trgovin ali na spletu. Obstaja ogromna raznolikost vrst likov, kostumov, žanrov, zgodovinskih obdobij in poz, zbiranje, sestavljanje in barvanje miniatur pa je prijeten stranski hobi.
 > 
-> Za spremljanje gibanja so pogosto koristni zemljevidi z mrežami kvadratov ali šestkotnikov. Ti so na voljo v listih različnih velikosti, izdelanih iz papirja ali trših materialov. Trgovine, ki prodajajo miniaturne figure, verjetno prodajajo tudi te. Nekateri igralci ne marajo mrež kot toge, omejujoče ali mehanične in raje ocenjujejo razdalje ter se pogajajo o gibanju, pri čemer uporabljajo ravnila ali merilne trakove kot zadnje zatočišče. Morda boste želeli eksperimentirati, da vidite, kaj vam ustreza. Igralni mojster, ki uporablja miniature ali zemljevide, bo želel nekaj večjih listov papirja za skiciranje tlorisov in ustvarjanje preprostih zemljevidov. Igralci bodo morda našli milimetrski papir uporaben pri risanju razvalin ali zgradb. Programi za risanje zemljevidov, specializirani za igre vlog, to vedno bolj olajšajo, vnaprej pripravljeni zemljevidi in kompleti ploščic pa so zlahka dostopni.
+> Za spremljanje premikanja so pogosto uporabni zemljevidi z mrežami kvadratov ali šestkotnikov. Ti so na voljo v listih različnih velikosti iz papirja ali bolj čvrstih materialov. Trgovine, ki prodajajo miniaturne figure, verjetno prodajajo tudi te. Nekaterim igralcem mreže niso všeč, ker so toge, omejujoče ali mehanične, in raje ocenjujejo razdalje na oko in se dogovarjajo o premikanju, pri čemer uporabljajo ravnila ali merilne trakove kot zadnjo možnost. Morda boste želeli eksperimentirati, da vidite, kaj vam ustreza. Vodja igre, ki uporablja miniature ali zemljevide, bo želel nekaj večjih listov papirja za skiciranje tlorisov in ustvarjanje preprostih zemljevidov. Igralcem se lahko zdi milimetrski papir koristen pri mapiranju ruševin ali zgradb. Programi za ustvarjanje zemljevidov, specializirani za igre vlog, to vse bolj olajšujejo, vnaprej pripravljeni zemljevidi in kompleti ploščic pa so lahko dostopni.
 > 
-> Spletne virtualne mize omogočajo, da se celotne igralne seje igrajo na spletu, z orodji igralnega mojstra, shranjevanjem listov likov igralcev in bojnimi zemljevidi, ki imajo tudi zvočne učinke, osvetlitev, aplikacije za metanje kock in še več, kar igralnim mojstrom in igralcem omogoča avtomatizacijo tega vidika igre in omogoča poglobljeno igro z igralci kjer koli lahko uporabljajo svoje računalnike. Ti segajo od preprostih programov za zemljevide od zgoraj navzdol do 3D okolij, ki jih lahko prilagodi igralni mojster, z razpoložljivimi 'moduli' vsebine, vključno z dogodivščinami in drugimi vidiki, koristnimi za igranje.
+> Spletne mize omogočajo, da se celotne igralne seje igrajo na spletu, z orodji za vodjo igre, prostorom za shranjevanje listov likov igralcev in bojnimi zemljevidi, ki imajo tudi zvočne učinke, osvetlitev, aplikacije za metanje kock in še več, kar omogoča vodjem igre in igralcem, da avtomatizirajo ta vidik igre in omogočijo poglobljeno igranje z igralci kjer koli, kjer lahko uporabljajo svoje računalnike. Ti segajo od preprostih programov za zemljevide, ki gledajo od zgoraj navzdol, do 3D okolij, ki jih lahko prilagodi vodja igre, z „moduli“ vsebine, ki so na voljo, vključno z dogodivščinami in drugimi vidiki, koristnimi za igranje.
 
 ### Primer boja
 
-Naslednji primer je postavljen v fantazijski svet in opisuje, kako je bojevnik Yvarre ukradel neprecenljiv amulet iz zakladnice zlovešče sekte častilcev kač in poskuša pobegniti iz templja, kjer čaka njen zaveznik Kallistor.
+Naslednji primer je postavljen v fantazijski svet in opisuje, kako je bojevnica Yvarre ukradla neprecenljiv amulet iz zakladnice zlobnega kulta častilcev kač in poskuša pobegniti iz templja do kraja, kjer jo čaka njen zaveznik Kallistor.#### Prvi krog boja
 
-#### Prvi krog boja
+Yvarre si v pas zatakne ogromen, z dragulji okrašen zlat amulet, zdrsne iz kultove zakladnice in tiho nadaljuje po hodniku, pri čemer upa, da bo ostala neopažena, dokler ne pride do mesta, kjer njen prijatelj Kallistor čaka s parom konj.
 
-Ko si je ogromen, z dragulji okrašen zlat amulet zataknila v pas, Yvarre zdrsne iz zakladnice sekte in tiho gre po prehodu onkraj, v upanju, da se izogne pozornosti, medtem ko pride do mesta, kjer Kallistor čaka s parom konjev.
+Medtem ko se premika po hodniku, nekdo od zadaj na Yvarre vrže bodalo. Vodja igre vrže za uspeh in pove, da je bila Yvarre zadeta visoko v levo ramo (izbirni sistem lokacij zadetkov ni v uporabi; to je le vodja igre, ki svojemu opisu doda kanček vzdušja). Vodja igre vrže 1D4+2+1D2, kar je škoda, ki jo povzroči bodalo, plus polovica modifikatorja škode metalca. Na srečo za Yvarre dobi vodja igre na metu za škodo 4, kar je najnižji možni rezultat.
 
-Ko se premika po hodniku, vržejo bodalo na Yvarre od zadaj. Igralni mojster vrže uspeh in pove, da je bila Yvarre zadeta visoko v svojo levo ramo (neobvezni sistem lokacij zadetkov se ne uporablja, to je le igralni mojster, ki razdeluje s pridihom v svojem opisu). Igralni mojster vrže 1K4+2+1K2, škodo, ki jo bodalo povzroči, plus polovico modifikatorja škode metalca. Na srečo za Yvarre igralni mojster dobi 4 pri metu škode, najnižji možni rezultat.
+Yvarre nosi tuniko iz mehkega usnja (vrednost oklepa 1) in ima 17 točk življenja. Njen oklep jo zaščiti pred 1 točko škode, zato Yvarre izgubi 3 točke življenja in ne 4. Zdaj ima le še 14 točk življenja, zato njen igralec previdno prečrta števili 17 in 16 ter obkroži 14 na njenem listu lika.
 
-Yvarre nosi tuniko iz mehkega usnja (vrednost oklepa 1) in ima 17 točk življenja. Njen oklep jo ščiti pred 1 točko škode, zato Yvarre izgubi 3 točke življenja, ne 4. Zdaj je padla na 14 točk življenja, zato njen igralec skrbno prečrta številke 17, 16 in 15 ter obkroži 14 na listu lika Yvarre.
-
-Ozre se nazaj in vidi kačjega duhovnika, ki vleče drugo bodalo iz svojega rokava, ko se približuje.
+Ozre se nazaj in vidi kačjega duhovnika, ki med približevanjem iz rokava izvleče novo bodalo.
 
 #### Drugi krog boja
 
-Preklinjajoč svojo nesrečo, Yvarre vstopi v sobo in zaklene vrata za seboj, nato pa seže okoli, da pregleda svojo rano. Na srečo napad ni bil prebadajoč, zato rezilo ni globoko zataknjeno v njeni rami. Nato poskusi zdraviti rano s Prvo pomočjo. Yvarrejeva veščina Prve pomoči je 47 %: njen igralec vrže 99 – ponesrečitev!
+Yvarre preklinja svojo nesrečo, vstopi v sobo in za seboj zapahne vrata, nato pa z roko preveri svojo rano. Na srečo napad ni bil prebadajoč, zato rezilo ni globoko zapičeno v njeno ramo. Nato poskuša rano oskrbeti s prvo pomočjo. Yvarrejina veščina prve pomoči je 47 %: njen igralec vrže 99 – ponesrečen poskus!
 
-Met na tabeli ponesrečitev ni potreben: kazen za ponesrečitev s Prvo pomočjo je vedno izguba 1 točke življenja škode. Igralni mojster pove, da si je Yvarre povzročila dodatno točko škode pri vlečenju rane, zaradi nerodnega položaja. Rana je zdaj širša in kri iz nje premoči hrbet njene tunike iz mehkega usnja (spet, to ni rezultat posebne škode: to je le pridih za igralce, da si lažje predstavljajo prizor).
+Met na tabeli ponesrečenih poskusov ni potreben: kazen za ponesrečen poskus prve pomoči je vedno izguba 1 točke življenja. Vodja igre pove, da si je Yvarre zaradi nerodnega položaja pri vlečenju za rano povzročila dodatno točko škode. Rana je zdaj večja in kri iz nje prepoji hrbtni del njene usnjene tunike (tudi to ni posledica posebnega rezultata škode: le vzdušje, ki igralcem pomaga vizualizirati prizor).
 
-Igralec Yvarre zavzdihne in prečrta še eno točko življenja. Yvarre ima zdaj 13 točk življenja.
+Yvarrejina igralka zavzdihne in prečrta še eno točko življenja. Yvarre ima zdaj 13 točk življenja.
 
 #### Tretji krog boja
 
-Z zaklenjenih vrat prihajajo zamolkle udarci. Yvarre se obrne in gre do okna, skozi katerega je vstopila. Zgrabi vrv, ki jo je tam obesila, pripravljajoč se, da zleze dol. Igralni mojster dvigne roko, da ustavi igralčev opis in vrine: "Yvarre opazi, da je vrv zelo lahka. Ali želi videti zakaj?"
+Izza zapahnjenih vrat se sliši pritajeno udarjanje. Yvarre se obrne in odide do okna, skozi katero je vstopila. Prime vrv, ki jo je obesila tam, in se pripravi na spust. Vodja igre dvigne roko, da bi ustavil igralčev opis, in vskoči: »Yvarre opazi, da je vrv nenavadno lahka. Ali želi preveriti, zakaj?«
 
-Želi, reče igralec, in Yvarre potegne vrv navzgor. Yvarrejeva vrv za pobeg se konča meter pod okensko polico. Odrezana je bila, verjetno nekoga, ki se je nagnil iz spodnjega okna.
+Želi, reče igralec, in Yvarre potegne vrv k sebi. Njena vrv za pobeg se konča meter pod okensko polico. Nekdo jo je prerezal, verjetno nekdo, ki se je nagnil skozi okno spodaj.
 
-Yvarre je ujeta, razen če se odloči skočiti na ulico. Igralni mojster reče: "Naredi met za Opazovanje, da ugotoviš, ali Yvarre kaj opazi." V tem primeru je 'nekaj', na kar se igralni mojster sklicuje, kultni morilec na strehi nasproti Yvarre, ki pripravlja svoj lok za napad.
+Yvarre je ujeta, razen če se ne odloči za skok na ulico. Vodja igre reče: »Naredi met za opazovanje (Spot), da vidiš, ali Yvarre kaj opazi.« V tem primeru 'kaj' pomeni kultovega morilca na strehi nasproti Yvarre, ki pripravlja svoj lok za napad.
 
-Igralec vrže K100 za veščino Opazovanja Yvarre in ne uspe. Ker Yvarre ne opazi kultnega morilca, igralni mojster vrže 43, zadetek, nato vrže za škodo, 1K8+1, vendar brez modifikatorja škode. Igralni mojster vrže 9 škode, kar se bo zmanjšalo za 1 za oklep Yvarre. "Ali je to dovolj za večjo rano?" povpraša igralni mojster. Igralec mračno pokima. Prečrta še 8 točk življenja na svojem listu lika, znižujoč svoje preostale točke življenja na 5.
+Igralec vrže D100 za Yvarrejino veščino opazovanja (Spot) in ne uspe. Ker Yvarre ne opazi kultovega morilca, vodja igre vrže 43, kar je zadetek, nato pa vrže za škodo, 1D8+1, brez modifikatorja škode. Vodja igre vrže 9 točk škode, ki se Yvarre zaradi oklepa zmanjšajo za 1. »Je to dovolj za hudo rano?« povpraša vodja igre. Igralec mrko pokima. Na svojem listu lika odšteje še 8 točk življenja, s čimer se njene preostale točke življenja znižajo na 5.
 
-Igralec Yvarre vrže na tabeli večjih ran in dobi rezultat 27, igralni mojster pa reče, da je puščica zadela Yvarre v levo roko. Met Yvarre za Srečo je uspešen, zato rana ne bo postala trajna poškodba. Yvarre se počuti šibko, reče igralni mojster. V nezavest bo padla v štirih krogih boja, en krog za vsako točko življenja, ki jo trenutno poseduje.
+Yvarrejina igralka vrže na tabeli hudih ran in dobi rezultat 27; vodja igre pove, da je puščica Yvarre zadela v levo roko. Yvarrejina sreča (Luck) se nasmehne, zato rana ne bo pustila trajne poškodbe. Yvarre čuti, kako slabi, reče vodja igre. Nezavestna bo čez štiri kroge boja, en krog za vsako točko življenja, ki jo ima trenutno.
 
-Na drugem koncu sobe so vrata hodnika začela pokati. Yvarre bi lahko uporabila naslednji krog, da poskusi uporabiti Prvo pomoč na tej novi rani, vendar si ne more privoščiti časa.
+Na drugem koncu sobe se vrata na hodnik začenjajo lomiti. Yvarre bi lahko naslednji krog uporabila za poskus prve pomoči na tej novi rani, vendar si ne more privoščiti izgubljanja časa.
 
 #### Četrti krog boja
 
-Če Yvarre ostane v sobi, bo kmalu na milost in nemilost kačam častilcev sekte, česar se ne veseli. Do tal je 6 metrov in igralec Yvarre spozna, da bi jo padec v njenem stanju lahko ubil. Vendar pa igralec ve tudi, da Yvarre sama nikoli ne bi oklevala. "Skočim," reče. Lokostrelec izvede še en strel. Ognja na daljavo se ni mogoče izogniti, zato Yvarre upa na najboljše. Ima srečo – puščica zgreši.
+Če Yvarre ostane v sobi, bo kmalu prepuščena na milost in nemilost kultu kačjih častilcev, česar se ne veseli. Do tal je 6 metrov, Yvarrejina igralka pa se zaveda, da bi jo lahko padec v njenem stanju ubil. Vendar igralka tudi ve, da Yvarre sama ne bi nikoli oklevala. »Skočim,« reče. Strelec izstreli še enkrat. Streljanju z izstrelki se ni mogoče izogniti, zato Yvarre upa na najboljše. Ima srečo – puščica zgreši.
 
-"Naredi met za Skok, prosim." Rezultat je 21, uspeh. "V redu," reče igralni mojster, "zdaj vrzi 1K6 za zmanjšanje škode." Dobi 3, ki se odštejejo od kakršne koli škode, utrpljene pri padcu, ki sledi. "In zdaj vrzi 2K6 za škodo pri padcu." Njene kocke skupaj znesejo 5. Yvarre je imela 4 točke življenja. Izgubi 5, vendar priprava na skok prihrani 3. Yvarre so ostale 2 točki življenja.
+»Prosim, naredi met za skok (Jump).« Rezultat je 21, uspeh. »V redu,« reče vodja igre, »zdaj vrzi 1D6 za zmanjšanje škode.« Dobi 3, kar se odšteje od kakršne koli škode pri padcu. »In zdaj vrzi 2D6 za škodo pri padcu.« Njene kocke skupaj znesejo 5. Yvarre je imela 4 točke življenja. Izgubi 5, a priprava na skok ji jih prihrani 3. Yvarre ima zdaj še 2 točki življenja.
 
-Pri 2 točkah življenja Yvarre samodejno pade v nezavest. To ni več kot polovica njenih skupnih točk življenja, zato ni nove večje rane.
+Pri 2 točkah življenja Yvarre samodejno pade v nezavest. To ni več kot polovica njenih celotnih točk življenja, zato ni nove hude rane.
 
 #### Peti krog boja
 
-V nočno-črni uličici Yvarrejin prijatelj Kallistor sliši, kako je zadela tla, in jo najde nepremično na tlakovcih. Poslušajoč prihajajoče vpitje, se igralec Kallistorja odloči, da vrže Yvarre čez sedlo enega konja in zajaha drugega, takoj bežeč.
+V temni nočni uličici Yvarrejina prijatelja Kallistorja pretrese zvok njenega padca na tla in jo najde negibno na tlakovcih. Ko sliši približujoče se vpitje, se Kallistorjev igralec odloči, da vrže Yvarre čez sedlo enega konja, sam zajaha drugega in takoj zbeži.
 
 #### Šesti krog boja
 
-Nekaj ulic stran se Kallistor počuti dovolj varno, da se za krog ustavi. Uporabi čarobni urok Zdravljenje 1 na rano Yvarre z nožem. Kallistorjev urok obnovi 3 točke življenja Yvarre (met 3 na 1K6), igralni mojster pa razsodi, da je Yvarre zdaj pri zavesti in sposobna jahati, vendar zelo šibka. Igralec Kallistorja prečrta 3 točke moči za uporabo uroka (ki stane 3 točke moči na uporabljeno stopnjo). Kallistor ima 14 točk moči, kar ga spusti na 11.
+Nekaj ulic stran se Kallistor počuti dovolj varnega, da se za en krog ustavi. Uporabi čarobni urok Zdravljenje 1 na Yvarrejini rani od noža. Kallistorjev urok povrne Yvarre 3 točke življenja (met 3 na 1D6), vodja igre pa določi, da je Yvarre zdaj pri zavesti in zmožna ježe, vendar je zelo šibka. Kallistorjev igralec odšteje 3 točke energije za uporabo uroka (ki stane 3 točke energije na uporabljeno stopnjo). Kallistor je imel 14 točk energije, kar ga spusti na 11.
 
-#### Nekaj krogov boja kasneje
+#### Nekaj krogov boja pozneje
 
-Po nekaj izmuzljivem jahanju skozi mesto, da prepreči zasledovalce, igralni mojster reče, da zasledovanje ni očitno. Pustolovca dosežeta svoje skrivališče. Varno, za trenutek, Kallistor uporabi Prvo pomoč, da poskusi ozdraviti rano od puščice, dvignivši njene točke življenja na 7.
+Po nekaj izogibajoče ježe skozi mesto, da bi se izognila zasledovalcem, vodja igre pove, da ni videti nobenega zasledovanja. Pustolovca dosežeta svoje skrivališče. V notranjosti, trenutno na varnem, Kallistor uporabi prvo pomoč, da poskusi pozdraviti rano od puščice, s čimer ji dvigne točke življenja na 7.
 
 #### Naslednji krog boja
 
-Yvarre je utrpela tudi škodo pri padcu. Kallistor je obravnaval njene rane z nožem in puščico, vendar met Yvarre za Prvo pomoč deluje na splošne modrice od padca. 2 točki škode pri padcu sta izbrisani. Poškodba je še vedno prisotna, vendar nima več praktičnih posledic. Zdaj je Yvarre pri 9 točkah življenja.
+Yvarre je utrpela tudi škodo pri padcu. Kallistor je oskrbel njeni rani od noža in puščice, vendar Yvarrejina uspešna prva pomoč deluje na splošne udarnine zaradi padca. 2 točki škode od padca se izbrišeta. Poškodba je še vedno prisotna, a nima več praktičnih posledic. Yvarre ima zdaj 9 točk življenja.
 
-#### Naslednji krog boja za tem
+#### Naslednji krog boja zatem
 
-Kallistor poskuša Prvo pomoč, vendar mu ne uspe ozdraviti točke škode od ponesrečenega meta za Prvo pomoč Yvarre.
+Kallistor poskusi prvo pomoč, a ne uspe pozdraviti točke škode, ki je nastala pri Yvarrejinem ponesrečenem poskusu prve pomoči.
 
 #### Še en krog boja
 
-Kallistor uporabi Zdravljenje 2 na rano Yvarre od puščice, obnovi 4 točke od možnih 12. Yvarre je zdaj pri 13 točkah življenja, Kallistor pa je porabil 6 točk moči več, kar ga pusti pri skupno 5 točkah moči. Nihče od njiju ni v hudem stanju, vendar Yvarre ni pri polnih točkah življenja, Kallistor pa je porabil veliko svojih točk moči.
+Kallistor uporabi Zdravljenje 2 na Yvarrejini rani od puščice, s čimer ji povrne 4 točke od možnih 12. Yvarre ima zdaj 13 točk življenja, Kallistor pa je porabil še 6 točk energije, kar ga pusti pri skupno 5 točkah energije. Nobeden od njiju ni v kritičnem stanju, vendar Yvarre nima polnih točk življenja, Kallistor pa je porabil veliko svojih točk energije.
 
-Rana od bodala se bo naravno zacelila v tednu dni, preostala škoda od rane od puščice pa bo trajala vsaj dva tedna. Kallistor želi obdržati nekaj točk moči v rezervi za nujne primere. Urok Zdravljenje bo uporabil kasneje, ko bo imel več točk moči ali ko bo pot prosta.
+Rana od bodala se bo naravno zacelila v enem tednu, preostala škoda od rane od puščice pa bo trajala vsaj dva tedna. Kallistor želi obdržati nekaj točk energije v rezervi za nujne primere. Urok Zdravljenje bo uporabil pozneje, ko bo imel več točk energije ali ko bo nevarnost mimo.
 
 #### Po boju
 
-Na tej točki ni nobenega razloga za nadaljevanje uporabe časa boja, zato vsi preklopijo na narativni čas, v katerem postaneta vedenje igralcev in pripovedovanje igralnega mojstra bolj sproščena.
+Na tej točki ni več razloga za nadaljnjo uporabo časa boja, zato vsi preklopijo na pripovedni čas, v katerem postaneta vedenje igralcev in pripovedovanje vodje igre bolj sproščena.
 
-Njeni rani in poškodbi sta za trenutek obravnavani, Yvarre seže v svoj pas, da izvleče amulet. Zdi se, da se v njenih rokah zvija, ko to stori, zato ga izpusti. Ko zadene tla, amulet razpade na desetine drobnih zlatih kač z dragulji, ki padejo na tla in odplazijo proč.
+Ker sta njeni rani in poškodbi trenutno oskrbljeni, Yvarre seže v pas, da bi izvlekla amulet. Ko to stori, se zdi, da se amulet v njenih rokah zvija, zato ga spusti. Ko udari ob tla, se amulet razleti na ducate drobnih zlatih kač z draguljastimi očmi, ki padejo na tla in zdrvijo stran.
 
 Vse to in za nič!

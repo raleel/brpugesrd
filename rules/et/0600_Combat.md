@@ -1,741 +1,732 @@
 # 6. Võitlus
 
-Võitlus on paljude seikluste oluline osa. Võitluses on tähtis täpselt teada, mis millal juhtub, kes saab mingil ajahetkel tegutseda ja milliseid toiminguid on antud aja jooksul võimalik teha. See jaotis käsitleb mitmesuguseid toiminguid, mis leiavad aset võitlusvooru ajal.
+Võitlus on oluline osa paljudest seiklustest. Võitluses on oluline teada täpselt, mis ja millal juhtub, kes saab mingil ajahetkel tegutseda ja milliseid toiminguid antud aja jooksul teha saab. See jaotis käsitleb laia valikut toiminguid, mis leiavad aset võitlusvooru ajal.
 
-Nagu on kirjeldatud peatükis **Ajamõõdud**, mõõdab võitlusvoor aega võitlus- või tegevusolukorras. Võitlusvoor kestab 12 sekundit ja selle jooksul saab sinu tegelane teha toiminguid ja reageerida teistele toimingutele järjekorras, mille määrab tavaliselt tema DEX-tunnus; kõrgema DEX-iga tegelased tegutsevad enne madalama DEX-iga tegelasi. Sarnaselt oskustele määratakse võitluses toimingute õnnestumine või ebaõnnestumine, veeretades D100, et otsustada rünnakute, kaitsete ja muude toimingute tulemus.
+Nagu on kirjeldatud peatükis **Ajamõõtmed**, mõõdab võitlusvoor aega võitlus- või tegevusolukorras. Võitlusvoor kestab 12 sekundit ja selle jooksul saab teie tegelane sooritada toiminguid ja reageerida teistele toimingutele järjekorras, mille määrab tavaliselt nende OSA (osavus) karakteristik; kõrgema OSA-ga tegelased tegutsevad enne madalama OSA-ga tegelasi. Sarnaselt oskustele määratakse võitlustoimingud D100 veeretamisega, et teha kindlaks rünnakute, kaitsete ja muude toimingute õnnestumine või ebaõnnestumine.
 
 ## Võitlusvooru faasid
 
-Võitlusvoor koosneb neljast faasist: **Avaldused**, **Võimed**, **Tegevus** ja **Lahendus**. Need toimuvad alati samas järjekorras ja neid korratakse iga uue võitlusvooruga, kuni võitlus on lõppenud. Iga faasi kirjeldatakse allpool.
+Võitlusvoor koosneb neljast faasist: **Avaldused**, **Võimed**, **Tegevus** ja **Lahendus**. Need toimuvad alati samas järjekorras ja neid korratakse iga uue võitlusvooruga, kuni võitlus on läbi. Iga faasi kirjeldatakse allpool.
 
 ### Avaldused
 
-Kõigepealt kuulutavad mängujuht ja need mängijad, kelle tegelased võitlusvoorus osalevad, välja, mida nad kavatsevad teha. See on **kavatsuste avaldus**. Toiminguid saab proovida DEX-i järjekorras, alustades kõrgeimast. Kaitsetoiminguid – tõrjeid või põiklemisi – ei pea välja kuulutama, välja arvatud juhul, kui valid puhtalt kaitsva hoiaku.
+Esiteks teatavad mängujuht ja mängijad, kelle tegelased võitlusvoorus osalevad, mida nad kavatsevad teha. See on **kavatsuse avaldus**. Toiminguid saab proovida OSA järjekorras, alustades kõrgeimast. Te ei pea kaitsvaid toiminguid – tõrjeid või põiklemisi – välja kuulutama, kui te just ei vali täielikult kaitsvat hoiakut.
 
-Kavatsuste avaldused peavad olema mõistlikud ja põhinema sellel, mida sinu tegelane teab.
+Kavatsuse avaldused peavad olema mõistlikud ja põhinema sellel, mida teie tegelane teab.
 
-*Näiteks ei saa sa kuulutada rünnakut vastasele, kellest sinu tegelane ei tea midagi, sõltumata sellest, mida sina mängijana tead.*
+*Näiteks ei saa te deklareerida rünnakut vastasele, kellest teie tegelane ei tea, olenemata sellest, mida teie mängijana teate.*
 
-Kavatsuste avaldusi käsitletakse kõigi osalejate **DEX-järjestuse** alusel. Kõrge DEX-iga isikud teevad oma kavatsuste avaldused enne madala DEX-iga isikuid. Tavaliselt loendab mängujuht kõrgemast DEX-ist madalamani, paludes igal mängijal sobival ajal oma kavatsetud toimingud teatada.
+Kavatsuse avaldusi käsitletakse iga asjassepuutuva isiku **OSA-järgu** järjekorras. Kõrge OSA-järgu isikud esitavad oma kavatsuste avaldused enne madala OSA-järguga isikuid. Tavaliselt loeb mängujuht kõrgeimast OSA-järgust madalaimani, kutsudes iga mängijat sobival hetkel oma kavatsetud toimingutest teada andma.
 
-Mängujuht ei ole kohustatud teatama, kuidas mitte-mängijate tegelased (NPC-d) voorus tegutsevad, kuid peetakse ausaks seda teha, kui toimingud on füüsilist laadi või võivad muul viisil mõjutada mängijate tegelaste käitumist võitlusvooru ajal.
+Mängujuht ei pea teatama, kuidas mitte-mängijate tegelased (NPC-d) voorus tegutsevad, kuid seda peetakse õiglaseks, kui toimingud on oma olemuselt füüsilised või võivad muul viisil mõjutada mängijate tegelaste käitumist võitlusvooru ajal.
 
-***Näiteks,*** *kui grupp mitte-mängijaid näeb välja selline, nagu nad kavatseksid rahumeelselt taanduda, peaks mängija seda teadma enne, kui tema tegelane ründab.*
+***Näiteks,*** *kui grupp mitte-mängijaid näeb välja selline, nagu nad kavatseksid rahumeelselt taganeda, peaks mängija seda teadma enne, kui tema tegelane ründab.*
 
 Muul juhul, kui mängijatel pole võimalik teada, mida mitte-mängijad tegema hakkavad, jäävad nende toimingud teadmata, kuni nad tegutsevad.
 
-Igaüks võib otsustada oma toimingut edasi lükata, kusjuures viimane toiming leiab aset DEX-järjestusel 1. Kui lükkad seda veelgi edasi, ei tee sinu tegelane selles võitlusvoorus ühtegi toimingut (peale kaitsvate). Sama kehtib mitte-mängijate tegelaste kohta.
+Igaüks võib otsustada oma toimingut hilisemaks lükata, kusjuures viimane toiming leiab aset OSA-järgul 1. Kui lükkate seda veelgi edasi, ei soorita teie tegelane selles võitlusvoorus ühtegi toimingut (peale kaitsvate). Sama kehtib mitte-mängijate kohta.
 
-Kui on vaja määrata, kes tegutseb esimesena, kui DEX-järjestused on võrdsed, kasuta esimesena tegutseja määramiseks asjakohast oskust. Tegelane, kellel on kõrgem oskuste tase, tegutseb esimesena. Kui ka need on võrdsed, toimuvad tegevused samaaegselt.
+Kui on vaja kindlaks teha, kes tegutseb esimesena, kui OSA-järgud on viigis, kasutage asjakohast oskust, et selgitada välja, kes tegutseb esimesena. Kõrgema oskustasemega tegelane tegutseb esimesena. Kui ka need on viigis, toimuvad toimingud üheaegselt.
 
-> #### Kavatsuste avalduste alternatiivid (Valikud)
+> #### Alternatiivid kavatsuse avaldustele (Valikud)
 > 
-> Järgnevalt on toodud kolm alternatiivset meetodit võitlusvooru toimingute järjekorra käsitlemiseks. Neid saab kasutada vastavalt soovile või isegi kombineerida, et need sobiksid sinu grupi eelistustega.
+> Allpool on kolm alternatiivset meetodit toimingute järjekorra käsitlemiseks võitlusvoorus. Neid saab kasutada vastavalt soovile või isegi kombineerida, et need sobiksid teie grupi eelistustega.
 > 
-> ##### Kavatsuste avalduse eemaldamine (Valik)
+> ##### Kavatsuse avalduse eemaldamine (Valik)
 > 
-> Kiiremaks mängimiseks võib kavatsuste avaldusest üldse loobuda. Sellisel juhul liigu otse võimete faasi ja seejärel tegevuse faasi. Selle sujuvama mängurežiimi puhul loendab mängujuht tegevuse faasis DEX-järjestusi ja iga mängija teatab oma toimingust ning veeretab koheselt tulemuse määramiseks.
+> Kavatsuse avaldusest saab mängu kiirendamiseks täielikult loobuda. Sellisel juhul liikuge otse võimete faasi ja seejärel tegevusfaasi. Selles sujuvamad mängurežiimis loeb mängujuht tegevusfaasis OSA-järkusid ning iga mängija teeb tegevusavalduse ja veeretab kohe tulemuse määramiseks.
 > 
-> ##### Vastupidises järjekorras kavatsuste avaldus (Valik)
+> ##### Kavatsuse avalduste vastupidine järjekord (Valik)
 > 
-> Kavatsuste avalduse ümberpööramine võimaldab taktikalisemat mängustiili, andes kõrgema DEX-iga tegelastele võimaluse teiste tegelaste – nii vastaste kui ka liitlaste – toimingutele paremini reageerida. Mängujuht alustab DEX-järjestusest 1 ja loendab ülespoole, lastes kõigil osapooltel oma toimingud tavapäraselt teatada. See võimaldab kõrgema DEX-iga tegelastel tegutseda täieliku teadmisega sellest, mis võitlusvoorus toimuma hakkab, võimaldades neil vastavalt taktikalisi otsuseid teha. Kui kavatsuste avalduste faas on läbi, loendab mängujuht vooru tavapäraselt alla. See meetod loob võimaluse integreerida võitlusesse pettemanöövreid ja muid võimalikke eksitusmanöövreid, võimaldades rikkalikumat ja taktikalisemat keskkonda igale mängijale või mängujuhile, kes seda mängustiili naudib.
+> Kavatsuse avalduste ümberpööramine võimaldab taktikalisemat mängustiili, andes kõrgema OSA-järguga isikutele võimaluse paremini reageerida teiste tegelaste – olgu nendeks vastased või liitlased – tegevustele. Mängujuht alustab OSA-järgust 1 ja loeb ülespoole, lastes kõigil osapooltel oma toimingutest tavapäraselt teada anda. See võimaldab kõrge OSA-ga tegelastel tegutseda täieliku teadmisega sellest, mis võitlusvoorus juhtuma hakkab, võimaldades neil vastavalt taktikalisi otsuseid langetada. Kui kavatsuse avalduste faas on läbi, loeb mängujuht vooru tavapäraselt alla. See meetod loob võimaluse integreerida võitlusse petteliigutusi ja muid võimalikke eksitusmanöövreid, pakkudes rikkalikumat ja taktikalisemat keskkonda igale mängijale või mängujuhile, kes seda mängustiili naudib.
 > 
-> ##### Algatusveeretused (Valik)
+> ##### Initsiatiivi veeretamine (Valik)
 > 
-> Võitlusvooru alguses veeretavad kõik mängijate ja mitte-mängijate tegelased D10 ja lisavad selle oma DEX-ile, luues uue ja muutuva DEX-järjestuse. Toimingud toimuvad endiselt DEX-järjestuse alusel. Võimete puhul kasuta D10 pluss INT ja kasuta seda väärtust koos DEX-järjestustega. Seda algatusväärtust (DEX+D10) saab säilitada kogu võitluse vältel.
+> Võitlusvooru alguses veeretavad kõik mängijate ja mitte-mängijate tegelased D10 ja lisavad tulemuse oma OSA-le, luues uue ja muutuva OSA-järgu. Toimingud toimuvad endiselt OSA-järgu järjekorras. Võimete puhul kasutage D10 pluss INT ja kasutage seda väärtust koos OSA-järkudega. Seda initsiatiivväärtust (OSA+D10) saab säilitada kogu võitluse vältel.
 > 
-> Mängujuht teeb veeretused iga mitte-mängija kohta ja mugavuse huvides võib ta soovi korral veeretada 1D10, et esindada mitte-mängijate gruppi, või isegi jagada suured mitte-mängijate grupid väiksemateks gruppideks, millel on erinevad algatusveeretused. Juhil või muul erakordsel mitte-mängijal võib olla omaette veeretused, et neid teistest eristada.
+> Mängujuht veeretab iga mitte-mängija eest ja mugavuse huvides võib ta soovi korral veeretada 1D10, et esindada mitte-mängijate gruppi, või isegi jaotada suured mitte-mängijate grupid väiksemateks gruppideks erinevate initsiatiiv-veeretustega. Juhil või muul erakordsel mitte-mängijal võib olla oma veeretamine, et teda teistest eristada.
 > 
-> Märkusena: selle meetodi kasutamisel on tegelastel tõenäolisem võimalus sooritada voorus teine või kolmas toiming, mis muudab võitlusvoorud mõnevõrra pikemaks.
+> Märkusena olgu öeldud, et selle meetodi kasutamisel on tegelastel tõenäolisem võimalus sooritada voorus teine või kolmas toiming, mis muudab võitlusvoorud mõnevõrra pikemaks.
 
 ### Võimed
 
-Võimed toimivad paljudel viisidel, kuid võitluses käsitletakse neid ühtemoodi. Kui sinu tegelane kasutab hetkelist võimet, aktiveerub see selles faasis osalevate tegelaste INT-järjestuse alusel, kõrgeimast madalaimani. Seda nimetatakse **INT-järjestuseks**. Võimed, mis pole hetkelised, aktiveeruvad järgmise võitlusvooru alguses selles võimete faasis, kui pole teisiti märgitud.
+Võimed toimivad mitmel viisil, kuid võitluses käsitletakse neid ühtemoodi. Kui teie tegelane kasutab hetkelist võimet, aktiveerub see selles faasis asjassepuutuvate tegelaste INT-i järjekorras, kõrgeimast madalaimani. Seda nimetatakse **INT-järguks**. Võimed, mis ei ole hetkelised, aktiveeruvad järgmise võitlusvooru alguses selles võimete faasis, kui pole öeldud teisiti.
 
-Igaüks võib oma võime kasutamist hilisema INT-järjestuseni edasi lükata. Viimane INT-järjestus on 1 ja sarnaselt DEX-järjestusega, kui toimingut lükatakse sellest järjestusest edasi, ei leia see selles võitlusvoorus aset. Kui INT-järjestused on võrdsed, kasuta viigi murdmiseks asjakohast oskust (kui see on olemas), kusjuures kõrgem oskuse tase tegutseb esimesena. Kui asjakohast oskust pole, tegutseb esimesena kõrgem POW. Kui ka siis on viik, toimuvad võimed samaaegselt.
+Igaüks võib oma võime kasutamist hilisemaks INT-järguks lükata. Viimane INT-järk on 1 ja sarnaselt OSA-järgule, kui toiming lükatakse sellest järgust edasi, ei toimu see selles võitlusvoorus. Kui INT-järgud on viigis, kasutage viigi murdmiseks asjakohast oskust (kui see on olemas), kusjuures kõrgem oskustase tegutseb esimesena. Kui asjakohast oskust pole, tegutseb kõrgem VÄG (vägi) esimesena. Kui ikka on viik, toimuvad võimed üheaegselt.
 
-Sinu tegelane saab aktiveerida ühe võime võitlusvooru kohta. Võime kasutamine võitlusvooru võimete faasis loetakse sinu tegelase selle vooru toiminguks. Ta ei saa oma DEX-järjestusel relvaga rünnata, kuid võib soovi korral liikuda ning vajadusel põigelda või tõrjuda. Enamik võimeid nõuab valmistumiseks ja kasutamiseks täpselt ühe terve võitlusvooru, kusjuures nende mõjud ilmnevad järgmise võitlusvooru alguses võimete faasi ajal. Erandid on esitatud võimete kirjeldustes.
+Teie tegelane saab aktiveerida ühe võime võitlusvooru kohta. Võime kasutamine võitlusvooru võimete faasis loetakse teie tegelase vooru toiminguks. Nad ei saa oma OSA-järgu ajal relvaga rünnata, kuid võivad soovi korral liikuda ning vajadusel põigelda või tõrjuda. Enamik võimeid nõuab valmistumiseks ja kasutamiseks täpselt ühe täispika võitlusvooru, mille efektid ilmnevad järgmise võitlusvooru võimete faasi alguses. Erandid neist on esitatud võimete kirjeldustes.
 
-Võimete jaoks kasutatud väepunktid kulutatakse sel INT-järjestusel, mil neid kasutatakse.
+Võimete jaoks kasutatud võimepunktid kulutatakse INT-järgul, mil neid kasutatakse.
 
 ### Tegevus
 
-Tegelane võitluses on kas **seotud** või **seostamata**. Seotud tegelane on oma vastastega löögiulatuses ja on valmis võimaluse korral ründama või kaitsma. Tavaliselt saab iga võitlusega seotud isik tegutseda kellegi teise vastu selles võitluses ilma karistuseta ega nõudmata märkimisväärset liikumist. Seostamata tegelane tegutseb võitluse ajal endiselt, kuid sooritab muid toiminguid ja on väljaspool lähivõitluse ulatust (või on selle sees, kuid pole aktiivselt kaasatud).
+Võitluses olev tegelane on kas **hõivatud** või **vaba**. Hõivatud tegelane on oma vastaste löögiulatuses ja on valmis võimaluse korral ründama või kaitsma. Tavaliselt saab igaüks, kes on võitlusega hõivatud, tegutseda kellegi teise vastu selles võitluses ilma karistuseta või olulist liikumist nõudmata. Vaba tegelane tegutseb võitluse ajal endiselt, kuid sooritab muid toiminguid ja on väljaspool lähivõitluse ulatust (või on selle sees, kuid ei ole aktiivselt seotud).
 
-Nagu kavatsuste avalduste puhul, toimuvad tegevused sinu tegelase DEX-järjestusel. Toiminguteks võivad olla rünnakud, tõrjed, põiklemised või muud seostamata tegelaste sooritatud toimingud.
+Sarnaselt kavatsuse avaldustele toimuvad toimingud teie tegelase OSA-järgu ajal. Toimingud võivad olla rünnakud, tõrjed, põiklemised või muud vaba tegelase sooritatud toimingud.
 
-Teatud DEX-järjestuse piires toimuvad rünnakud tavaliselt relvatüübi järjekorras. Kaugvõitlusrelvadega (vibud, tulirelvad jne) relvastatud ründajad tegutsevad enne lähivõitluses olijad. Pärast neid tegutsevad pikemate relvadega (odad, piigid jne) relvastatud tegelased, seejärel keskmise pikkusega relvadega (mõõgad, kirved jne) ning lõpuks need, kellel on lühikesed relvad (pistodad jne) või kes on relvastamata. Tõrjed ja rünnakuga seotud põiklemised toimuvad samal DEX-järjestusel kui esialgne rünnak.
+Teatud OSA-järgu piires toimuvad rünnakud tavaliselt relvatüübi järjekorras. Laskerelvadega (vibud, püssid jne) relvastatud ründajad loetakse tegutsevat enne lähivõitluses olijaid. Pärast neid tegutsevad pikemate relvadega (piigid, odad jne) relvastatud tegelased, seejärel keskmise pikkusega relvadega (mõõgad, kirved jne) ning lõpuks lühikeste relvadega (pistodad jne) või relvastamata tegelased. Tõrjed ja rünnakuga seotud põiklemised toimuvad samal OSA-järgul kui algne rünnak.
 
-Kui sinu tegelane suudab voorus sooritada rohkem kui ühe toimingu (mõned relvad võimaldavad mitut rünnakut ja üle 100% ulatuvad võitlusoskuste tasemed võimaldavad samuti mitut rünnakut), peaks iga rünnak olema eraldatud 5 DEX-järjestusega. Esimene toiming on täielikul DEX-järjestusel; teine DEX-järjestusel –5; kolmas –10 jne. Sinu tegelane ei saa tegutseda DEX-järjestusel 0, seega kõik toimingud, mis jääksid alla DEX-järjestuse 1, lähevad kaotsi.
+Kui teie tegelane saab sooritada voorus rohkem kui ühe toimingu (mõned relvad võimaldavad mitut rünnakut ja ka üle 100% ulatuvad võitlusoskused võimaldavad mitut rünnakut), peaks iga rünnak olema eraldatud 5 OSA-järguga. Esimene toiming on täis-OSA-järgul; teine OSA-järgul –5; kolmas OSA-järgul –10 jne. Teie tegelane ei saa tegutseda OSA-järgul 0, seega kõik toimingud, mis toimuksid alla OSA-järgu 1, lähevad kaotsi.
 
-Järgnevalt on kokkuvõte võitlusvoorus sooritatud toimingute tulemustest. Hiljem selles peatükis kirjeldatakse täpsemalt erinevate õnnestumiste tasemete (kriitilised ja erilised õnnestumised) ja erinevate rünnakutüüpide tulemusi.
+Järgnevalt on toodud võitlusvooru toimingute tulemuste kokkuvõte. Hiljem selles peatükis kirjeldatakse täpsemalt erinevate õnnestumiste tasemete (kriitilised ja erilised õnnestumised) ning erinevate rünnakutüüpide tulemusi.
 
 ### Võitlustoimingud
 
-Võitlusvoorus võib sinu tegelane oma DEX-järjestusel sooritada mis tahes järgmistest toimingutest:
+Võitlusvoorus saab teie tegelane oma OSA-järgul sooritada ühe järgmistest toimingutest:
 
 * Liikumine
 * Rünnak
 * Mitte-võitluslik toiming
-* Seostumine
-* Eraldumine
+* Hõivamine
+* Vabanemine
 
-Igal ajal võitlusvooru jooksul võib sinu tegelane:
+Igal ajal võitlusvooru jooksul saab teie tegelane:
 
 * Tõrjuda või põigelda
-* Võidelda kaitsvalt
+* Kaitsepositsioonil võidelda
 * Rääkida
 
 #### Liikumine
 
-Kui sinu tegelane on seostamata, võib ta võitlusturni jooksul liikuda umbes 30 meetrit, kui ta ei soorita muid toiminguid peale enesekaitse (tõrjumine või põiklemine). 6–15 meetri vahel liikumine tähendab, et sinu tegelane tegutseb 1/2 oma tavalisest DEX-järjestusest. 16–29 meetri vahel liikumine võitlusvoorus tähendab, et sinu tegelane tegutseb 1/4 oma tavalisest DEX-järjestusest. Need modifitseeritud DEX-järjestused on kumulatiivsed täiendavate toimingute karistustega, kusjuures liikumise modifikaatoreid DEX-järjestusele rakendatakse esimesena.
+Kui teie tegelane on vaba, saab ta võitlusvoorus liikuda umbes 30 meetrit, kui ta ei soorita muid toiminguid peale enda kaitsmise (tõrjumine või põiklemine). 6–15 meetri vahel liikumine tähendab, et teie tegelane tegutseb oma normaalsel OSA-järgul 1/2 kiirusega. 16–29 meetri vahel liikumine võitlusvoorus tähendab, et teie tegelane tegutseb oma normaalsel OSA-järgul 1/4 kiirusega. Need muudetud OSA-järgu väärtused on kumulatiivsed koos täiendavate toimingute karistustega, kusjuures liikumisest tulenevad OSA-järgu modifikaatorid rakendatakse esimesena.
 
 #### Rünnak
 
-Sinu tegelane võib oma DEX-järjestusel teha rünnaku sihtmärgi vastu, lisaks liikumisele kuni 5 meetrit. Kui pole teisiti muudetud, sooritatakse see rünnak täieliku oskuse taseme juures. Nagu eespool märgitud, kui konkreetne relv võimaldab mitut rünnakut, peaks iga järgnev rünnak olema 5 DEX-järjestust madalam kui eelmine.
+Teie tegelane saab oma OSA-järgul sooritada rünnaku sihtmärgi vastu, lisaks kuni 5 meetri liikumisele. Kui pole teisiti muudetud, sooritatakse see rünnak täis-oskustasemel. Nagu eespool märgitud, kui konkreetne relv võimaldab mitut rünnakut, peaks iga järgnev rünnak olema 5 OSA-järku madalam kui eelmine rünnak.
 
 #### Mitte-võitluslik toiming
 
-Seostamata tegelane võib proovida kasutada oskust või võimet või teha mõnda muud toimingut, mis ei nõua oskuste kontrollimist, näiteks relva tõmbamine või ukse avamine. Kasuta tervet mõistust, et hinnata, milliseid toiminguid on selle aja jooksul ja lubatud liikumisastme piires mõistlik teha. Kui need toimingud kombineeritakse võitlustoimingute või mitme mitte-võitlusliku toiminguga, kaasneb nendega 5-punktiline DEX-järjestuse karistus toimingu kohta, välja arvatud juhul, kui mängujuht ütleb, et need peaksid kauem aega võtma.
+Vaba tegelane võib proovida kasutada oskust või võimet või teha mõnda muud toimingut, mis ei nõua oskuskontrolli, näiteks relva haaramine või ukse avamine. Kasutage tervet mõistust selle kohta, milliseid toiminguid saab selle aja jooksul ja lubatud liikumisulatuses mõistlikult sooritada. Need toimingud, kui need kombineeritakse võitlustoimingute või mitme mitte-võitlusliku toiminguga, põhjustavad OSA-järgu karistuse 5 toimingu kohta, välja arvatud juhul, kui teie mängujuht ütleb, et need peaksid kauem aega võtma.
 
-#### Seostumine
+#### Hõivamine
 
-Seostamata tegelane võib liikuda kuni 5 meetrit ja teha rünnaku ja/või kaitsetoimingu ilma karistuseta, seostudes võitlusega.
+Vaba tegelane saab liikuda kuni 5 meetrit ja sooritada rünnaku ja/või kaitsetoimingu ilma karistuseta, astudes võitlusse.
 
-#### Eraldumine
+#### Vabanemine
 
-Seotud tegelane võib otsustada võitlusest lahkuda, kuulutades avalduste faasis, et ta eraldub. Üldiselt ei soorita nad rünnakutoiminguid, vaid piirduvad ainult põiklemiste, tõrjete ja liikumistoimingutega. Kui sinu tegelane on kõigis selle võitlusvooru jooksul tehtud põiklemistes või tõrjetes edukas, on ta võitlusest edukalt eraldunud ja võib liikuda lahingust eemale oma täie liikumiskiirusega. Kui mõni nendest veeretustest ebaõnnestub, on sinu tegelane endiselt võitlusega seotud. Muid võimalusi käsitletakse peatükis **Eraldumine**.
+Hõivatud tegelane võib otsustada võitlusest lahkuda, deklareerides avalduste faasis, et ta vabaneb. Üldiselt ei soorita nad rünnakutoiminguid, vaid piirduvad ainult põiklemiste, tõrjete ja liikumistoimingutega. Kui teie tegelane on kõigis selles võitlusvoorus tehtud põiklemistes või tõrjetes edukas, on ta võitlusest edukalt vabanenud ja võib lahingust eemalduda oma täiskiirusel. Kui mõni neist veeretustest ebaõnnestub, on teie tegelane endiselt võitlusega hõivatud. Muud võimalused on kaetud jaotises **Vabanemine**.
 
 #### Tõrjumine
 
-Igaüks, kes on relvastatud tõrjerelva või kilbiga (või kasutab oma keha), saab rünnaku kahju blokeerida. Löögi tõrjumiseks veereta asjakohase võitlusoskuse vastu. Sa ei pea seda eelnevalt välja kuulutama ja seda tehakse reaktsioonina teise võitleja edukale rünnakuveeretusele.
+Igaüks, kes on relvastatud tõrjerelva või kilbiga (või kasutab oma keha), saab rünnaku kahju blokeerida. Löögi tõrjumiseks veeretage vastava võitlusoskuse vastu. Te ei pea seda eelnevalt välja kuulutama ja seda tehakse reaktsioonina teise võitleja edukale rünnakuveeretusele.
 
-Edukas tõrjumine suunab tavaliselt kõrvale kogu sissetuleva rünnaku kahju (välja arvatud juhul, kui tõrjud oma kehaga võitluskunstide vormina), vähendades edukad rünnakud möödalaskmisteks või vähendades vastavalt eriliste või kriitiliste rünnakute raskusastet. Kilbi soomus- ja löögipunkte (AP/HP) kasutatakse ainult siis, kui tegemist on otse kilbile tehtud kahjuga, näiteks rünnakuga, mille eesmärk on kilpi või tõrjerelva hävitada; nagu vastupanutabelis tõrjumisel vastupanu osutamine purustavale löögile, või kui tõrjerelvale või kilbile tehakse **Rünnaku- ja kaitsemaatriksis** 2 või 4 löögipunkti kahju.
+Edukas tõrje suunab tavaliselt kõrvale kogu sissetuleva rünnaku kahju (välja arvatud juhul, kui te tõrjete oma kehaga võitluskunstide vormis), vähendades edukad rünnakud möödalaskmisteks või vähendades vastavalt eriliste või kriitiliste rünnakute raskusastet. Kilbi soomus- ja löögipunkte (AP/HP) kasutatakse ainult siis, kui tegemist on otse kilbile tehtud kahjuga, nagu näiteks rünnakul kilbi või tõrjerelva purustamiseks; nagu vastupanu tabelis kahjuga vs. kilbi soomuspunktid tõrjumisel, või kui tõrjerelvale või kilbile tehakse 2 või 4 löögipunkti kahju **Rünnaku ja kaitse maatriksis**.
 
-Iga järgnev tõrjekatse pärast esimest on oskuse taseme suhtes kumulatiivse –30% karistusega. Kui tõrjumise võimalus langeb alla 1%, ei saa sinu tegelane tõrjuda. Enamikus olukordades saab sinu tegelane kaugvõitlusrelvi tõrjuda ainult kilbiga, kilbi baastõenäosusega (vt **Kilbid ja kaugvõitlus**). Kui proovid käsilöögiga tõrjuda viskerelva, peab tõrjumise võimalus olema eriline õnnestumine (1/5 tavalisest oskuse tasemest).
+Iga järgnev tõrjekatse pärast esimest on muudetud –30% oskustaseme suhtes, kumulatiivselt. Kui tõrjevõimalus langeb alla 1%, ei saa teie tegelane tõrjet üritada. Enamikul juhtudel saate laskerelvi tõrjuda ainult kilbiga, kilbi baasvõimaluse juures (vt **Kilbid ja laskerelvadest tulistamine**). Kui üritate tõrjuda heiterelva käerelvaga, peab tõrje olema eriline õnnestumine (1/5 tavalisest oskustasemest).
 
-Samuti, kui sinu tegelane kasutab improviseeritud relvi või relvi, mida tavaliselt tõrjumiseks ei kasutata, on tõrjumise võimalus pool relva oskuse tasemest või kindlalt 20%, kui relvaga tavaliselt ei tõrjuta või see jääb nende väljaõppe piiridest välja. Seda võidakse muuta sarnaste oskuste tasemete alusel, mängujuhi äranägemisel.
+Samamoodi, kui teie tegelane kasutab improviseeritud relvi või relvi, mida üldiselt tõrjumiseks ei kasutata, on tõrjevõimalus pool relva oskustasemest või kindlalt 20%, kui relvaga tavaliselt ei tõrjuta või see jääb nende väljaõppest välja. Seda võidakse muuta mängujuhi äranägemisel sarnaste oskuste põhjal.
 
-***Näiteks,*** *püssist tulistades on sinu tegelasel 58% rünnakuõnnestumine, kuid püssiga rünnakut tõrjudes on tema võimalus* Raske *ehk 29%, kuna enamik kaasaegsetest sõjaväe püssiõpetustest hõlmab selle kasutamist tõrjerelvana. Teisel tegelasel, näiteks jahimehel, kellel on sama 58% rünnakuoskus, on püssiga tõrjumiseks 20% võimalus, mis on vaikimisi võimalus tõrjuda kaugvõitlusrelvaga. Samamoodi võib sõdur kasutada väliööriista (väike kokkupandav labidas) tõrjerelvana poole oma kirveoskusest, mis on suuruselt ja kujult ligikaudu sarnane relv.*
+***Näiteks,*** *püssist tulistades on teie tegelasel 58% rünnakuvõimalus, kuid püssiga rünnakut tõrjudes on nende võimalus Raske ehk 29%, sest enamik tänapäevaseid sõjaväe püssi väljaõppeid hõlmab selle kasutamist tõrjerelvana. Teisel tegelasel, näiteks kütil, on aga sama 58% rünnakuoskuse juures 20% võimalus püssiga tõrjuda, mis on vaikimisi võimalus laskerelvaga tõrjumiseks. Sarnaselt võib sõdur kasutada väikest kokkupandavat labidat tõrjerelvana 1/2 oma kirveoskuse tasemest, kuna see on suuruse ja kuju poolest umbes sarnane.*
 
-Mängujuht võib otsustada, et teatud rünnakut ei saa tõrjuda, näiteks kui ründaja on märgatavalt suurem (kahekordne või suurem kaitsja SIZ-ist) või kui ründaja kasutab ala- või pühkimisrünnakut.
+Mängujuht võib otsustada, et teatavat rünnakut ei saa tõrjuda, näiteks tunduvalt suurema ründaja puhul (näiteks kahekordne või suurem kaitsja SUU-st) või kui ründaja kasutab ala- või pühkimisrünnakut.
 
-***Näiteks,*** *SIZ 15 tegelane ei saa tõrjuda SIZ 72 brontosauruse rünnakut. Selle asemel tuleb rünnakust põigelda või muul viisil kõrvale hiilida.*
+***Näiteks,*** *SUU 15 tegelane ei saa tõrjuda SUU 72 brontosauruse rünnakut. Selle asemel tuleb rünnakust Põigelda või muul viisil kõrvale hiilida.*
 
 #### Põiklemine
 
-Mõnda relva ja rünnakut ei saa tõrjuda ning nende eest tuleb põigelda. Põiklemist võib proovida kõigi lähivõitlusrünnakute või viskerelvade vastu. Sarnaselt tõrjumistega ei pea põiklemisi enne rünnakuveeretust välja kuulutama, vaid neid proovitakse reaktsioonina teise tegelase edukale rünnakuveeretusele (vt Põiklemine). Iga järgnev põiklemiskatse pärast esimest on oskuse taseme suhtes kumulatiivse –30% karistusega. Kui põiklemise võimalus langeb alla 1%, ei saa sinu tegelane põigelda.
+Mõningaid relvi ja rünnakuid ei saa tõrjuda ning nende eest tuleb hoopis põigelda. Põiklemisi saab üritada kõigi lähivõitlusrünnakute või heiterelvade vastu. Sarnaselt tõrjetele ei pea põiklemisi enne rünnakuveeretust välja kuulutama, vaid neid üritatakse reaktsioonina teise tegelase edukale rünnakuveeretusele (vt Põiklemine). Iga järgnev põiklemiskatse pärast esimest on –30% modifikaatoriga oskustasemele, kumulatiivselt. Kui võimalus rünnakust põigelda langeb alla 1%, ei saa teie tegelane põiklemist üritada.
 
-Tavaliselt ei saa tegelane kuulide või suure kiirusega projektilite (nooled, laserid jne) vastu põigelda. Selle asemel eeldatakse, et nad põiklevad eemale suunast, kuhu relv on suunatud. Sel juhul saab sinu tegelane põiklemist proovida ainult võitlusvooru esimese sellise kaugvõitlusrelva vastu ja ainult siis, kui ründaja ja relv on nähtavad. Sellised katsed on Rasked. Teatud žanrid või võimete tasemed võivad võimaldada kaugvõitluse vastu põiklemisel rohkem vabadust (vt **Kaugvõitlusrelvade vastu põiklemine**).
+Tavaliselt ei saa tegelane põigelda kuulide või suure kiirusega mürskude (noolte, laserite jne) vastu. Selle asemel eeldatakse, et nad põiklevad relva suunast eemale. Sellisel juhul saab teie tegelane üritada põigelda võitlusvoorus ainult esimese sellise laskerelva eest ja ainult siis, kui ründaja ja relv on nähtavad. Sellised katsed on Rasked. Teatud žanrid või võimete tasemed võivad lubada laskerelvade eest põiklemisel rohkem vabadust (vt **Laskerelvadest põiklemine**).
 
-#### Kaitsvalt võitlemine
+#### Kaitsepositsioonil võitlemine
 
-Seda võimalust kasutades loobub sinu tegelane vooru jooksul igast rünnakutoimingust, et saada täiendav põiklemiskatse. See põiklemine ei too kaasa järgnevat kumulatiivset –30% karistust edasiste põiklemis- või tõrjekatsete puhul (vt **Kaitsvalt võitlemine**).
+Seda valikut kasutades loobub teie tegelane vooru jooksul igasugusest rünnakutoimingust, et saada täiendav põiklemiskatse. See põiklemine ei too kaasa järgnevat kumulatiivset –30% karistust edasistele põiklemis- või tõrjekatsetele (vt **Kaitsepositsioonil võitlemine**).
 
 #### Rääkimine
 
-Kõne on vaba toiming ja tavaline vestlus või hüütud käsud ei maksa DEX-järjestusi ega piira sinu tegelase toiminguid märkimisväärsel viisil. Siiski, kui sinu tegelane räägib pikemat aega või kahe tegelase vahel käib vestlus keset tegevust, võib mängujuht paluda sul võitlusvoorude või tegevusjärjestuste ajal vestlused lühikesed hoida. See võib sõltuda keskkonnast: kuigi on täiesti normaalne, et superkangelaste mängus esitatakse rusikavõitluse ajal monolooge, oleksid need metsiku lääne tulistamises kohatud.
+Kõne on vaba toiming ja tavaline vestlus või hüütud käsud ei maksa OSA-järkusid ega piira teie tegelase toiminguid olulisel määral. Kui aga teie tegelane räägib pikemat aega või kui kahe tegelase vaheline vestlus toimub keset tegevust, võib mängujuht paluda teil võitlusvoorude või tegevusjärjestuste ajal vestlused lühikesed hoida. See võib olenevalt keskkonnast erineda: kuigi on täiesti normaalne, et superkangelaste mängus kakluse ajal monolooge peetakse, oleksid need Metsiku Lääne tulistamises kohatud.
 
-#### Tõrjumised ja põiklemised
+#### Tõrjed ja põiklemised
 
-Tõrjumisi ja põiklemisi ei saa voorus kombineerida, välja arvatud juhul, kui sinu tegelane on täiesti kaitsvas seisundis. Sel juhul sisaldavad kumulatiivsed –30% karistused järgnevate kaitsetoimingute puhul nii tõrjumisi kui ka põiklemisi.
+Tõrjeid ja põiklemisi ei saa voorus kombineerida, välja arvatud juhul, kui teie tegelane on täielikus kaitseolekus. Sellisel juhul hõlmavad edasiste kaitsvate toimingute –30% modifikaatorid nii tõrjeid kui ka põiklemisi.
 
-> ### Võimed tegevuse faasis (Valik)
+> ### Võimed tegevusfaasis (Valik)
 > 
-> Tavaliselt käsitletakse võimete kasutamist võimete faasis enne mis tahes füüsilist tegevust. Asjade sujuvamaks muutmiseks ja võrdsuse loomiseks võib võimete kasutamine toimuda ka tavaliste DEX-järjestuste ajal, nagu tavalise rünnaku puhul. Võitlusvooru võimete faas jääb endiselt perioodiks, mil eelmise võitlusvooru ajal kasutatud mitte-hetkelised võimed jõustuvad, kuid tegevuse faasis toimuvad INT-järjestused ja DEX-järjestused kõrvuti, kombineerides mõlemad loendused. Sinu tegelane on endiselt piiratud ühe toiminguga, lähtudes sellest, mida ta teeb: võime toimub INT-järjestusel, füüsiline toiming DEX-järjestusel. Viigid lahendatakse teise tunnuse abil (kui INT on võrdne, tegutseb kõrgem DEX esimesena) või kõrgema oskuse/võime taseme abil, kui see on kohaldatav. Kui ikka on viik, toimuvad võimed samaaegselt.
+> Tavaliselt käsitletakse võimete kasutamist võimete faasis enne mis tahes füüsilise toimingu toimumist. Asjade sujuvamaks muutmiseks ja mänguvälja tasandamiseks võib võimete kasutamine toimuda tavaliste OSA-järgu ajal, täpselt nagu tavalise rünnaku puhul. Võitlusvooru võimete faas jääb perioodiks, mil eelmise võitlusvooru ajal heidetud mitte-hetkelised võimed jõustuvad, kuid tegevusfaasis toimuvad INT-järgud ja OSA-järgud kõrvuti, ühendades mõlemad loendused. Teie tegelane on endiselt piiratud ühe toiminguga, lähtudes sellest, mida nad teevad: võime toimub INT-järgul, füüsiline toiming OSA-järgul. Viigid lahendatakse teise karakteristiku abil (kui INT on viigis, tegutseb kõrgem OSA esimesena) või kõrgema oskuse/võime taseme abil, kui see on asjakohane. Kui ikka on viik, toimuvad võimed üheaegselt.
 
-
-> ### Lähivõitluse tabamiskohtade tabel (Valik)
+> ### Lähivõitluse tabamuse asukoha tabel (Valik)
 > 
-> Nagu on kirjeldatud peatükis **Löögipunktid tabamiskoha kohta**, jagatakse sinu tegelase löögipunktide koguarv tema kehaosade vahel, samuti peetakse arvestust koguarvu kohta. Kui rünnak on edukas, veereta D20 ja kasuta tulemust asjakohase tabamiskohtade tabeli vaatamiseks. Inimesed kasutavad standardset tabamiskohtade tabelit ja teiste kehatüüpide tabamiskohtade tabelid on toodud 11. peatüki **Mitte-inimeste tabamiskohtade tabelites: Olendid**. Kui sinu tegelane pole humanoid, peaks mängujuht näitama, millist tabamiskohtade tabelit peaksid kasutama.
+> Nagu on kirjeldatud jaotises **Löögipunktid tabamuse asukoha kohta**, jaotatakse teie tegelase löögipunktide koguarv nende kehaosade vahel, mida jälgitakse ka kogusummana. Kui rünnak on edukas, veeretage D20 ja kasutage tulemust vastava tabamuse asukoha tabeli vaatamiseks. Inimesed kasutavad standardset tabamuse asukoha tabelit ja teised kehatüübid leiavad oma tabamuse asukoha tabelid jaotisest **Mitte-inimeste tabamuse asukoha tabelid** üheteistkümnendas peatükis: Olendid. Kui teie tegelane ei ole humanoid, peaks mängujuht näitama õiget tabamuse asukoha tabelit, mida peaksite kasutama.
 > 
-> ##### Tabamiskohad
+> ##### Tabamuse asukohad
 > 
 > | D20 veeretamine | Tulemus | Kirjeldus |
 > | :---- | :---- | :---- |
-> | 1–4 | Parem jalg | Parem jalg puusast jalalaba põhjani |
-> | 5–8 | Vasak jalg | Vasak jalg puusast jalalaba põhjani |
-> | 8–11 | Kõht | Puusaliigesest kuni alumiste ribideni |
-> | 12 | Rindkere | Rinnakorv kuni kaela ja õlgadeni |
+> | 1–4 | Parem jalg | Parem jalg puusast jala tallani |
+> | 5–8 | Vasak jalg | Vasak jalg puusast jala tallani |
+> | 8–11 | Kõht | Puusaliigesest alumiste roieteni |
+> | 12 | Rindkere | Roietest kuni kaela ja õlgadeni |
 > | 13–15 | Parem käsi | Kogu parem käsi |
 > | 16–18 | Vasak käsi | Kogu vasak käsi |
 > | 19–20 | Pea | Kael ja pea |
 > 
-> Mõned olukorrad, nagu kaitse või ratsutavad vs jalgsi tegelased, muudavad seda, millised tabamiskohad on võitluses tabatavad (vt asjakohaseid sissekandeid *7. peatükis: Punktireeglid*).
+> Mõned olukorrad, nagu kaitse või ratsutavad vs. jalgsi tegelased, muudavad seda, millised tabamuse asukohad on võitluses tabatavad (vt vastavaid kirjeid *Seitsmendas peatükis: Täpsustusreeglid*).
 
 ## Lahendus
 
-Rünnaku, tõrjumise või põiklemise sooritamiseks veereta protsenditäringuid ja võrdle tulemust oma tegelase oskusega kasutatava relva või kilbiga. Rünnakud võivad esile kutsuda põiklemise või tõrjumise, mida veeretatakse samal viisil. Nende veeretuste õnnestumist või ebaõnnestumist võrreldakse **Rünnaku- ja kaitsemaatriksiga**, et näha ründaja ja kaitsja kombineeritud toimingute tulemust.
+Rünnaku, tõrje või põiklemise sooritamiseks veeretage protsenditäringuid ja võrrelge tulemust oma tegelase oskusega kasutatava relva või kilbi suhtes. Rünnakud võivad esile kutsuda põiklemise või tõrje, mida veeretatakse samal viisil. Nende veeretuste õnnestumist või ebaõnnestumist võrreldakse **Rünnaku ja kaitse maatriksiga**, et näha ründaja ja kaitsja kombineeritud toimingute tulemust.
 
 ##### Võitluse kokkuvõte
 
-| Rünnaku veeretamine | Tõrjumise või põiklemise veeretamine | Tulemus |
+| Rünnaku veeretamine | Tõrje või põiklemise veeretamine | Tulemus |
 | :---- | :---- | :---- |
-| Õnnestumine | Õnnestumine | Ründaja löök suunatakse kõrvale või põigeldakse eest. |
-| Õnnestumine | Ebaõnnestumine | Kaitsja saab pihta ja võib kaotada löögipunkte. |
-| Ebaõnnestumine | Veeretamine pole nõutav | Kaitsja säilitab valvumise, ei pea veeretama. |
-| Äpardumine | Veeretamine pole nõutav | Nagu ründaja möödalaskmise puhul ülal, lisaks veeretab ründaja äpardumiste tabelis. |
+| Õnnestumine | Õnnestumine | Ründaja löök on tõrjutud või välditud. |
+| Õnnestumine | Ebaõnnestumine | Kaitsja saab tabamuse ja võib kaotada löögipunkte. |
+| Ebaõnnestumine | Veeretamine pole nõutav | Kaitsja hoiab valvet, ei pea veeretama. |
+| Koperdamine | Veeretamine pole nõutav | Nagu ründaja möödalaskmise puhul eespool, pluss ründaja veeretab koperdamise tabelis. |
 
 ### Õnnestumise ja ebaõnnestumise tasemed
 
-Sarnaselt oskustele on võitluses sageli oluline teada mitte ainult seda, kas rünnak või tõrjumine õnnestus või ebaõnnestus, vaid ka seda, kui hästi see õnnestus või kui halvasti see ebaõnnestus.
+Sarnaselt oskustele on võitluses sageli oluline teada mitte ainult seda, kas rünnak või tõrje õnnestus või ebaõnnestus, vaid ka seda, kui hästi see õnnestus või kui halvasti ebaõnnestus.#### Kriitiline õnnestumine
 
-#### Kriitiline õnnestumine
+Parim võimalik täringuvise! D100 tulemus, mis on väiksem või võrdne 1/20-ga teie tegelase oskuse tasemest, ümardatuna ülespoole. Kriitiline rünnak tähendab, et relv teeb kasutatud relva jaoks maksimaalselt võimalikku kahju (6 1D6 puhul, 9 1D8+1 puhul jne) pluss tavapärane veeretatud kahjumuutja. Kui seda ei tõrjuta kriitilise tõrjega, ignoreerib kriitilise rünnaku tulemus alati soomust, isegi kui see soomus on täielikult kattev. Kriitiline tõrje võib ründavat relva kahjustada.
 
-Parim võimalik veeretamine! D100 tulemus, mis on väiksem või võrdne 1/20-ga sinu tegelase oskuse tasemest, ümardatuna ülespoole. Kriitiline rünnak tähendab, et relv teeb maksimaalse võimaliku kahju kasutatud relvale (6 1D6 puhul, 9 1D8+1 puhul jne) pluss tavaline veeretatud kahju modifikaator. Kui seda ei tõrjuta kriitilise tõrjumisega, ignoreerib kriitilise rünnaku tulemus alati soomust, isegi kui see soomus on kõikehõlmav. Kriitiline tõrjumine võib ründavat relva kahjustada.
+***Näiteks,*** *kui teie tegelase relvaoskuse tase on 60%, saavutab ta kriitilise õnnestumise tulemusega 01–03. Kui see veeretatakse, teeb teie tegelane lihtsalt maksimaalset kahju, mida relv suudab tekitada, veeretab kahjumuutja tavapäraselt ja ignoreerib mis tahes soomust, mida sihtmärk võib kanda, olgu see looduslik või tehnoloogiline. Kui kriitiline õnnestumine on lühimõõgaga, mis teeb 1D6+1 kahju, ja teie tegelase kahjumuutja on 1D4, on kriitiline kahju 7+1D4 (6+1=7), ignoreerides sihtmärgi soomust. Kui relv on püstol, mis teeb 1D10 kahju, on kahju 10 ja see ignoreerib sihtmärgi soomust.*
 
-***Näiteks,*** *kui sinu tegelasel on relva oskuse tase 60%, saavutab ta kriitilise õnnestumise veeretusega 01–03. Kui see veeretatakse, võtab sinu tegelane lihtsalt maksimaalse kahju, mida relv suudab tekitada, veeretab kahju modifikaatori tavapäraselt ja ignoreerib kõiki soomuseid, mida sihtmärk võib kanda, olgu need looduslikud või toitega. Kui kriitiline õnnestumine on lühimõõgaga, mis teeb 1D6+1 kahju, ja sinu tegelase kahju modifikaator on 1D4, on kriitiline kahju 7+1D4 (6+1=7), ignoreerides sihtmärgi soomust. Kui relv on püstol, mis teeb 1D10 kahju, on kahju 10 ja ignoreerib sihtmärgi soomust.*
-
-Mängujuhid võivad lubada sinu tegelasel kriitilise õnnestumise asemel sihtmärgile eriline õnnestumine (allpool) tekitada, kui soovitud.
+Teie mängujuhid võivad lubada teie tegelasel soovi korral kriitilise õnnestumise asemel sihtmärgile eriline õnnestumine (allpool) tekitada.
 
 #### Eriline õnnestumine
 
-Erakordne veeretamine. D100 tulemus, mis on väiksem või võrdne 1/5-ga sinu tegelase oskuse tasemest, ümardatuna ülespoole. Sageli tähendab eriline rünnak seda, et relv teeb tavalise kahju lisaks erilisele tulemusele, mis põhineb relva tüübil.
+Erakordne vise. D100 tulemus, mis on väiksem või võrdne 1/5-ga teie tegelase oskuse tasemest, ümardatuna ülespoole. Sageli tähendab eriline rünnak seda, et relv teeb tavalise kahju lisaks relva tüübist tulenevale erilisele tulemusele.
 
-*Näiteks on nürirelval, nagu nui, tagasilöögi/maha surumise efekt.*
+*Näiteks nürirelval, nagu nui, on tagasilöögi/pikaliasatamise efekt.*
 
-Eriline tõrjumine võib ründavale relvale kahju teha.
+Eriline tõrje võib ründavale relvale kahju teha.
 
-***Näiteks,*** *tulirelva oskusega 60% saavutab sinu tegelane erilise õnnestumise veeretusega 04–12. See teeb tavalist kahju (näiteks 1D8), kuid tulirelva puhul teeb ka läbistavat kahju.*
+***Näiteks,*** *tulirelvaoskuse 60% korral saavutab teie tegelane erilise õnnestumise tulemusega 04–12. See teeb tavalist kahju (näiteks 1D8), kuid tulirelva puhul tekitab ka läbistavat kahju.*
 
 #### Õnnestumine
 
-Hea veeretamine. See on D100 tulemus, mis on võrdne sinu tegelase oskuse tasemega või sellest väiksem, kuid suurem kui erilise või kriitilise õnnestumise jaoks vajalik tulemus. Rünnakud on edukad, kui neid ei tõrjuta ega neist ei põigelda, ning kahju veeretatakse tavapäraselt, kusjuures ei tehta kahju ei ründavale ega tõrjuvale relvale.
+Hea vise. See on D100 tulemus, mis on võrdne teie tegelase oskuse tasemega või sellest väiksem, kuid suurem kui eriliseks või kriitiliseks õnnestumiseks vajalik tulemus. Rünnakud on edukad, kui neid ei tõrjuta või väldita, ja kahju veeretatakse tavapäraselt, ilma et ründavale või tõrjuvale relvale kahju tehtaks.
 
-***Näiteks,*** *tulirelva oskusega 60% saavutab sinu tegelane tavalise õnnestumise veeretusega 13–60. Tulirelva puhul, mis teeb 1D8 punkti kahju, veeretatakse tavaline kahju.*
+***Näiteks,*** *tulirelvaoskuse 60% korral saavutab teie tegelane tavalise õnnestumise tulemusega 13–60. Tulirelva puhul, mis teeb 1D8 punkti kahju, veeretatakse tavaline kahju.*
 
 #### Ebaõnnestumine
 
-Halb veeretamine. D100 tulemus, mis on suurem kui sinu tegelase oskuse tase, kuid väiksem kui suurim 1/20 ebaõnnestumise võimalusest (vt Äpardumine allpool). Võitlusveeretuse ebaõnnestumine tähendab, et katse ebaõnnestus, kuid sinu tegelane võib proovida uuesti hiljem samas või järgmises võitlusvoorus.
+Halb vise. D100 tulemus, mis on suurem kui teie tegelase oskuse tase, kuid väiksem kui suurim 1/20 ebaõnnestumise võimalusest (vt allpool "Fumble"). Võitlusviske ebaõnnestumine tähendab, et katse ebaõnnestus, kuid teie tegelane võib proovida uuesti samas või järgmises võitlusvoorus.
 
-***Näiteks,*** *tulirelva oskusega 60% ebaõnnestub sinu tegelane veeretusega 61–97. Kahju ei veeretata ja su sihtmärk ei pea rünnaku vastu põiklemist ega tõrjumist proovima.*
+***Näiteks,*** *tulirelvaoskuse 60% korral ebaõnnestub teie tegelane tulemusega 61–97. Kahju ei veeretata ja teie sihtmärk ei pea rünnakut vältima ega tõrjuma.*
 
-#### Äpardumine
+#### Fumble (Koperdamine)
 
-Katastroofiline veeretamine! Ebaõnnestumise võimaluse kõrgeim 1/20, ulatudes tavaliselt 96–100 madalamate oskuste tasemete puhul kuni veeretamiseni 100, kui tegelase oskuste tasemed on üle 100%. Sageli viitab äpardumine mingile dramaatilisele äpardusele ja sunnib sageli veeretama asjakohasel äpardumiste tabelil. Vt **Lähivõitlusrelvade rünnakud**, **Lähivõitlusrelvade tõrjumised**, **Kaugvõitlusrelvade rünnakud** ja **Looduslikud rünnakud ja tõrjumiste äpardumiste tabelid**.
+Katastroofiline vise! Tulemus, mis jääb ebaõnnestumise võimaluse ülemise 1/20 hulka, ulatudes tavaliselt 96–100-ni madalamate oskustasemete puhul kuni tulemuseni 100, kui tegelase oskustasemed on üle 100%. Sageli tähistab "fumble" mingisugust dramaatilist äpardust ja sunnib sageli tegema viset vastaval "fumble"-tabelil. Vt **Lähivõitlusrelva rünnakute**, **Lähivõitlusrelva tõrjete**, **Laskerelva rünnakute** ja **Loomulike rünnakute ja tõrjete Fumble-tabelid**.
 
-***Näiteks,*** *tulirelva oskusega 60% äpardub sinu tegelane veeretusega 98–00. Kahju ei veeretata, kuigi sa pead veeretama **Kaugvõitlusrelvade äpardumiste tabelil**, et määrata selle ebaõnnestunud rünnaku tulemus.*
+***Näiteks,*** *tulirelvaoskuse 60% korral "fumble'ib" teie tegelane tulemusega 98–00. Kahju ei veeretata, kuid peate tegema viske **Laskerelvade Fumble-tabelil**, et määrata selle nurjunud rünnaku tulemus.*
 
-Mõnedel relvadel on oma rikkevõimalus (ummistumine, lukustumine jne), mida väljendatakse kõrge tulemusena.
+Mõnedel relvadel on nende rikkimineku (ummistumine, kinni kiilumine jne) võimalus, mis on väljendatud kõrge tulemusena.
 
-***Näiteks,*** *musketil tekib alati rike veeretusega 95–00, sõltumata kasutaja oskusest.*
+***Näiteks,*** *musket läheb alati rikki tulemusega 95–00, sõltumata kasutaja oskusest.*
 
-Sõltuvalt sama õnnetu veeretuse tulemusest ja sõltuvalt sinu tegelase oskuse tasemest on võimalik, et sinu tegelasel tekib nii äpardumine kui ka relva rike; relva rike ilma äpardumiseta; või äpardumine ilma relva rikketa.
+Sõltuvalt sama õnnetu viske tulemusest ja teie tegelase oskuse tasemest on võimalik, et teie tegelane korraga "fumble'ib" ja relv läheb rikki; relv läheb rikki ilma "fumble'imata"; või "fumble'ite" ilma relva rikkiminemiseta.
 
-***Näiteks,*** *sinu tegelasel on musketiga oskus 60% ja ta veeretab tulistades 99. Kuna relval tekib rike veeretusega 95–00 ja sinu tegelane äpardub tavaliselt veeretusega 98–00, on see rünnak kahjuks nii äpardumine kui ka relva rike. Kui veeretamine oleks olnud 95, 96 või 97, oleks see olnud ainult relva rike.*
+***Näiteks,*** *teie tegelasel on musketiga oskus 60% ja ta veeretab sellega tulistades 99. Kuna relv läheb rikki tulemusega 95–00 ja teie tegelane "fumble'ib" tavaliselt tulemusega 98–00, on see rünnak kahjuks nii "fumble" kui ka relva rikkiminek. Kui vise oleks olnud 95, 96 või 97, oleks see olnud ainult relva rikkiminek.*
 
-Kui äpardumise tulemus täpsustab rünnakut sihtmärgi vastu, mis pole kavatsetu, ja rike põhjustab ummistuse, toimub rünnak enne riket (vt **Rikked**).
+Kui "fumble'i" tulemus määrab rünnaku sihtmärgile, mis ei olnud algselt kavandatud, ja rikkiminek põhjustab ummistuse, toimub rünnak enne rikkiminekut (vt **Rikkiminekuid**).
 
-##### Rünnaku- ja kaitsemaatriks
+##### Rünnaku ja kaitse maatriks
 
-| Rünnaku veeretamine | Tõrjumise veeretamine | Põiklemise veeretamine | Tulemus |
+| Rünnaku vise | Tõrje vise | Vältimise vise | Tulemus |
 | :---- | :---- | :---- | :---- |
-| Kriitiline | Kriitiline | Kriitiline | Kaitsja tõrjub või põikleb kahju eest, muid tulemusi pole. |
-| Kriitiline | Eriline | Eriline | Rünnak osaliselt suunatud kõrvale või põigeldud ja saavutab õnnestumise. Ründaja tabab kaitsjat ja veeretab kahju tavapäraselt. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjerelv või kilp saab 2 punkti kahju.\* |
-| Kriitiline | Õnnestumine | Õnnestumine | Rünnak marginaalselt suunatud kõrvale ja saavutab erilise õnnestumise. Rünnak teeb täiskahju\*\* pluss tavaline kahju modifikaator ja sobiv eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjerelv või kilp saab 4 punkti kahju.\* |
-| Kriitiline | Ebaõnnestumine | Ebaõnnestumine | Rünnak saavutab kriitilise õnnestumise (võib soovi korral valida erilise õnnestumise). Rünnak teeb maksimaalse kahju pluss tavaline kahju modifikaator. Kaitsja soomuse väärtust eiratakse. |
-| Kriitiline | Äpardumine | Äpardumine | Rünnak saavutab kriitilise õnnestumise (võib soovi korral valida erilise õnnestumise). Rünnak teeb maksimaalse kahju pluss tavaline kahju modifikaator. Kaitsja soomuse väärtus ei kohaldu. Kaitsja veeretab asjakohasel äpardumiste tabelil |
-| Eriline | Kriitiline | Kriitiline | Kaitsja tõrjub või põikleb rünnaku eest; muid tulemusi pole. Kui tõrjutud lähivõitluses, saab ründaja relv 1 punkti kahju.\* |
-| Eriline | Eriline | Eriline | Kaitsja tõrjub või põikleb rünnaku eest, muid tulemusi pole. |
-| Eriline | Õnnestumine | Õnnestumine | Rünnak osaliselt tõrjutud või põigeldud ja saavutab tavalise õnnestumise. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjerelv või kilp saab 2 punkti kahju.\* |
-| Eriline | Ebaõnnestumine | Ebaõnnestumine | Rünnak saavutab erilise õnnestumise. Rünnak teeb täiskahju\*\* pluss tavaline kahju modifikaator ja sobiv eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. |
-| Eriline | Äpardumine | Äpardumine | Rünnak saavutab erilise õnnestumise. Rünnak teeb täiskahju\*\* pluss tavaline kahju modifikaator ja sobiv eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. Kaitsja veeretab asjakohasel äpardumiste tabelil. |
-| Õnnestumine | Kriitiline | Kriitiline | Kaitsja blokeerib või põikleb kahju eest; muid tulemusi pole. Kui tõrjutud lähivõitluses, saab ründaja relv 2 punkti kahju.\* |
-| Õnnestumine | Eriline | Eriline | Kaitsja blokeerib või põikleb kahju eest; muid tulemusi pole. Kui tõrjutud lähivõitluses, saab ründaja relv 1 punkti kahju.\* |
-| Õnnestumine | Õnnestumine | Õnnestumine | Kaitsja blokeerib või põikleb kahju eest, muid tulemusi pole. |
+| Kriitiline | Kriitiline | Kriitiline | Kaitsja tõrjub või väldib kahju, muud tulemust pole. |
+| Kriitiline | Eriline | Eriline | Rünnak osaliselt kõrvale juhitud või välditud ja saavutab õnnestumise. Ründaja tabab kaitsjat ja veeretab kahju tavapäraselt. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjuv relv või kilp saab 2 punkti kahju.* |
+| Kriitiline | Õnnestumine | Õnnestumine | Rünnak on marginaalselt kõrvale juhitud ja saavutab erilise õnnestumise. Rünnak teeb täiskahju** pluss tavapärane kahjumuutja ja vastav eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjuv relv või kilp saab 4 punkti kahju.* |
+| Kriitiline | Ebaõnnestumine | Ebaõnnestumine | Rünnak saavutab kriitilise õnnestumise (võib valida ka erilise õnnestumise). Rünnak teeb maksimaalse kahju pluss tavapärane kahjumuutja. Kaitsja soomuse väärtust eiratakse. |
+| Kriitiline | Fumble | Fumble | Rünnak saavutab kriitilise õnnestumise (võib valida ka erilise õnnestumise). Rünnak teeb maksimaalse kahju pluss tavapärane kahjumuutja. Kaitsja soomuse väärtust ei rakendata. Kaitsja veeretab vastaval "fumble"-tabelil. |
+| Eriline | Kriitiline | Kriitiline | Kaitsja tõrjub või väldib rünnaku; muud tulemust pole. Kui tõrjutud lähivõitluses, saab ründaja relv 1 punkti kahju.* |
+| Eriline | Eriline | Eriline | Kaitsja tõrjub või väldib rünnaku, muud tulemust pole. |
+| Eriline | Õnnestumine | Õnnestumine | Rünnak osaliselt tõrjutud või välditud ja saavutab tavalise õnnestumise. Kaitsja soomuse väärtus lahutatakse kahjust. Tõrjuv relv või kilp saab 2 punkti kahju.* |
+| Eriline | Ebaõnnestumine | Ebaõnnestumine | Rünnak saavutab erilise õnnestumise. Rünnak teeb täiskahju** pluss tavapärane kahjumuutja ja vastav eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. |
+| Eriline | Fumble | Fumble | Rünnak saavutab erilise õnnestumise. Rünnak teeb täiskahju** pluss tavapärane kahjumuutja ja vastav eriline tulemus. Kaitsja soomuse väärtus lahutatakse kahjust. Kaitsja veeretab vastaval "fumble"-tabelil. |
+| Õnnestumine | Kriitiline | Kriitiline | Kaitsja blokeerib või väldib kahju; muud tulemust pole. Kui tõrjutud lähivõitluses, saab ründaja relv 2 punkti kahju.* |
+| Õnnestumine | Eriline | Eriline | Kaitsja blokeerib või väldib kahju; muud tulemust pole. Kui tõrjutud lähivõitluses, saab ründaja relv 1 punkti kahju.* |
+| Õnnestumine | Õnnestumine | Õnnestumine | Kaitsja blokeerib või väldib kahju, muud tulemust pole. |
 | Õnnestumine | Ebaõnnestumine | Ebaõnnestumine | Rünnak tabab kaitsjat ja veeretab kahju tavapäraselt. Kaitsja soomuse väärtus lahutatakse kahjust. |
-| Õnnestumine | Äpardumine | Äpardumine | Rünnak tabab kaitsjat ja veeretab kahju tavapäraselt. Kaitsja soomuse väärtus lahutatakse kahjust. Kaitsja veeretab asjakohasel äpardumiste tabelil. |
-| Ebaõnnestumine | — | — | Kahju pole; efekt puudub. |
-| Äpardumine | — | — | Rünnak möödub täielikult ja ründaja veeretab asjakohasel äpardumiste tabelil. Kaitsja on kahjustamata. |
+| Õnnestumine | Fumble | Fumble | Rünnak tabab kaitsjat ja veeretab kahju tavapäraselt. Kaitsja soomuse väärtus lahutatakse kahjust. Kaitsja veeretab vastaval "fumble"-tabelil. |
+| Ebaõnnestumine | — | — | Kahju ei ole; mõju puudub. |
+| Fumble | — | — | Rünnak möödub täielikult ja ründaja veeretab vastaval "fumble"-tabelil. Kaitsja on puutumata. |
 
-\* Kui tõrjerelv või kilp hävib tõrjekatse ajal, veereta ründava relva tavalist kahju ja lahuta tõrjerelva või kilbi hävitamiseks kasutatud kahjupunktid. Ülejäänud kahju tungib tõrjekatsest läbi, et kaitsjat kahjustada (soomus kaitseb endiselt). Kui ründav relv hävib eduka rünnaku ajal, tehakse kaitsjale siiski kahju ja relv puruneb sel hetkel.
+\* Kui tõrjuv relv või kilp hävib tõrjekatse ajal, veeretage ründava relva tavapärane kahju ja lahutage tõrjuva relva või kilbi hävitamiseks kulunud kahjupunktid. Ülejäänud kahju tungib läbi tõrjekatse, et kaitsjat kahjustada (soomus kaitseb endiselt). Kui ründav relv hävib eduka rünnaku ajal, tekitatakse kaitsjale ikkagi kahju ja relv puruneb sel hetkel.
 
-\*\* See on kahju, mida seda tüüpi rünnak tavaliselt teeks. See pole sama mis "maksimaalne kahju". Suurmõõga puhul on täiskahju 2D8 tavalise õnnestumise korral, 2D8 veritsev kahju erilise õnnestumise korral ja kriitilise õnnestumise korral teeb see 16 kahju ignoreerides. Kahju modifikaatorit veeretatakse kõigil juhtudel eraldi ja lisatakse pärast.
+\*\* See on kahju, mida seda tüüpi rünnak tavaliselt teeks. See ei ole sama mis "maksimaalne kahju". Suurmõõga puhul on täiskahju 2D8 tavalise õnnestumise korral, 2D8 veritsev kahju erilise õnnestumise korral ja kriitilise õnnestumise korral teeb see 16 kahju, ignoreerides sihtmärgi soomust. Kahjumuutja, kõigil juhtudel, veeretatakse eraldi ja liidetakse hiljem.
 
-##### Lähivõitlusrelvade rünnakute äpardumiste tabel
-
-| D100 | Tulemus |
-| :---- | :---- |
-| 01–15 | Kaota järgmine võitlusvoor ja oled sisuliselt abitu. |
-| 16–25 | Kaota järgmised 1D3 võitlusvooru ja oled sisuliselt abitu. |
-| 26–40 | Kuku pikali. |
-| 41–50 | Pillad kasutatava relva maha. |
-| 51–60 | Viska relv 1D10 meetri kaugusele. |
-| 61–65 | Kaota 1D10 punkti relva löögipunktidest. |
-| 66–75 | Nägemine hägustunud, modifitseeri kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
-| 76–85 | Tabad lähimat liitlast tavalise kahjuga või kasuta tulemust 41–50, kui läheduses pole liitlast. |
-| 86–90 | Tabad lähimat liitlast erilise kahjuga või kasuta tulemust 51–60, kui läheduses pole liitlast. |
-| 91–98 | Tabad lähimat liitlast kriitilise kahjuga või kasuta tulemust 61–65, kui läheduses pole liitlast. |
-| 99 | Äpardus; veereta veel kaks korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-| 00 | Suur äpardus; veereta veel kolm korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-
-##### Lähivõitlusrelvade tõrjumiste äpardumiste tabel
+##### Lähivõitlusrelva rünnakute Fumble-tabel
 
 | D100 | Tulemus |
 | :---- | :---- |
-| 01–20 | Kaota järgmine võitlusvoor (või praegune, kui ühtegi toimingut pole veel tehtud) ja oled sisuliselt abitu. |
-| 21–40 | Kuku pikali. |
-| 41–50 | Pillad kasutatava relva maha. |
-| 51–60 | Viska relv 1D10 meetri kaugusele. |
-| 61–75 | Nägemine hägustunud; modifitseeri kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
-| 76–85 | Täiesti avatud; vastane tabab automaatselt tavalise löögiga. |
-| 86–90 | Täiesti avatud; vastane tabab automaatselt erilise löögiga. |
-| 91–93 | Täiesti avatud; vastane tabab automaatselt kriitilise löögiga. |
-| 94–98 | Äpardus; veereta veel kaks korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-| 99–00 | Suur äpardus; veereta veel kolm korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 01–15 | Kaotate järgmise võitlusvooru ja olete sisuliselt abitu. |
+| 16–25 | Kaotate järgmised 1D3 võitlusvooru ja olete sisuliselt abitu. |
+| 26–40 | Kukute pikali. |
+| 41–50 | Pillate kasutatava relva maha. |
+| 51–60 | Viskate relva 1D10 meetri kaugusele. |
+| 61–65 | Kaotate 1D10 punkti relva tabamispunkte. |
+| 66–75 | Nägemine häguneb, muutke kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
+| 76–85 | Tabate lähimat liitlast tavalise kahjuga või kasutage tulemust 41–50, kui läheduses pole ühtegi liitlast. |
+| 86–90 | Tabate lähimat liitlast erilise kahjuga või kasutage tulemust 51–60, kui läheduses pole ühtegi liitlast. |
+| 91–98 | Tabate lähimat liitlast kriitilise kahjuga või kasutage tulemust 61–65, kui läheduses pole ühtegi liitlast. |
+| 99 | Nurjumine; veeretage sellel tabelil veel kaks korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 00 | Raske nurjumine; veeretage sellel tabelil veel kolm korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
 
-##### Kaugvõitlusrelvade rünnakute äpardumiste tabel
-
-| D100 | Tulemus |
-| :---- | :---- |
-| 01–15 | Kaota järgmine rünnak või muu tegevus. |
-| 16–25 | Kaota järgmised 1D3 võitlusvooru või muu tegevus. |
-| 26–40 | Kuku pikali. |
-| 41–55 | Nägemine hägustunud; modifitseeri kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
-| 56–65 | Pillad relva; mis libiseb või põrkab 1D6–1 meetri kaugusele. |
-| 66–80 | Tee 1D6 kahju relva löögipunktidesse (või kasuta tulemust 81–85, kui relval pole löögipunkte). |
-| 81–85 | Purusta relv; sõltumata relva praegustest löögipunktidest. |
-| 86–90 | Tabad lähimat liitlast tavalise kahjuga või kasuta tulemust 56–65, kui läheduses pole liitlast. |
-| 91–95 | Tabad lähimat liitlast erilise kahjuga või kasuta tulemust 66–80, kui läheduses pole liitlast. |
-| 96–98 | Tabad lähimat liitlast kriitilise kahjuga või kasuta tulemust 81–85, kui läheduses pole liitlast. |
-| 99 | Äpardus; veereta veel kaks korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-| 00 | Suur äpardus; veereta veel kolm korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-
-##### Looduslike relvade rünnakute ja tõrjumiste äpardumiste tabel
+##### Lähivõitlusrelva tõrjete Fumble-tabel
 
 | D100 | Tulemus |
 | :---- | :---- |
-| 01–25 | Kaota järgmine võitlusvoor (või praegune, kui ühtegi toimingut pole veel tehtud). |
-| 26–30 | Kaota järgmised 1D3 võitlusvooru (see sisaldab praegust, kui ühtegi toimingut pole veel tehtud). |
-| 31–50 | Kuku pikali. |
-| 51–60 | Kuku pikali ja väänasid pahkluu; modifitseeri MOV –1 MOV võrra 1D10 täispöörde jooksul (ja kõigi võitlusturni jooksul nende sees). |
-| 61–75 | Nägemine hägustunud; modifitseeri kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
-| 76–85 | Möödalaskmine ja midagi pingutamine; kaota 1 löögipunkt (ründavas jäsemes, kui kasutatakse tabamiskohti). |
-| 86–90 | Tabad lähimat liitlast tavalise kahjuga või kasuta tulemust 76–85, kui läheduses pole liitlast. |
-| 91–94 | Tabad lähimat liitlast erilise kahjuga või kasuta tulemust 76–85, kui läheduses pole liitlast. |
-| 95–98 | Tabad kõva pinda; tee endale tavalist kahju (ründavas jäsemes, kui kasutatakse tabamiskohti). |
-| 99 | Äpardus; veereta veel kaks korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
-| 00 | Suur äpardus; veereta veel kolm korda sellel tabelil (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 01–20 | Kaotate järgmise võitlusvooru (või praeguse, kui ühtegi tegevust pole veel sooritatud) ja olete sisuliselt abitu. |
+| 21–40 | Kukute pikali. |
+| 41–50 | Pillate kasutatava relva maha. |
+| 51–60 | Viskate relva 1D10 meetri kaugusele. |
+| 61–75 | Nägemine häguneb; muutke kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
+| 76–85 | Avatud; vaenlane tabab automaatselt tavalise tabamusega. |
+| 86–90 | Avatud; vaenlane tabab automaatselt erilise tabamusega. |
+| 91–93 | Avatud; vaenlane tabab automaatselt kriitilise tabamusega. |
+| 94–98 | Nurjumine; veeretage sellel tabelil veel kaks korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 99–00 | Raske nurjumine; veeretage sellel tabelil veel kolm korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+
+##### Laskerelva rünnakute Fumble-tabel
+
+| D100 | Tulemus |
+| :---- | :---- |
+| 01–15 | Kaotate järgmise rünnaku või muu tegevuse. |
+| 16–25 | Kaotate järgmised 1D3 võitlusvooru või muu tegevuse. |
+| 26–40 | Kukute pikali. |
+| 41–55 | Nägemine häguneb; muutke kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
+| 56–65 | Pillate relva maha; see libiseb või põrkab 1D6–1 meetrit eemale. |
+| 66–80 | Teete 1D6 kahju relva tabamispunktidele (või kasutage tulemust 81–85, kui relval ei ole tabamispunkte). |
+| 81–85 | Purustate relva; olenemata relva praegustest tabamispunktidest. |
+| 86–90 | Tabate lähimat liitlast tavalise kahjuga või kasutage tulemust 56–65, kui läheduses pole ühtegi liitlast. |
+| 91–95 | Tabate lähimat liitlast erilise kahjuga või kasutage tulemust 66–80, kui läheduses pole ühtegi liitlast. |
+| 96–98 | Tabate lähimat liitlast kriitilise kahjuga või kasutage tulemust 81–85, kui läheduses pole ühtegi liitlast. |
+| 99 | Nurjumine; veeretage sellel tabelil veel kaks korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 00 | Raske nurjumine; veeretage sellel tabelil veel kolm korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+
+##### Loomuliku rünnaku ja tõrje Fumble-tabel
+
+| D100 | Tulemus |
+| :---- | :---- |
+| 01–25 | Kaotate järgmise võitlusvooru (või praeguse, kui ühtegi tegevust pole veel sooritatud). |
+| 26–30 | Kaotate järgmised 1D3 võitlusvooru (see hõlmab praegust, kui ühtegi tegevust pole veel sooritatud). |
+| 31–50 | Kukute pikali. |
+| 51–60 | Kukute pikali ja väänate hüppeliigest; muutke MOV-i –1 MOV võrra 1D10 täispöörde jooksul (ja kõigi nende sees toimuvate võitlusturniiride jooksul). |
+| 61–75 | Nägemine häguneb; muutke kõiki asjakohaseid oskusi –30% võrra 1D3 võitlusvooru jooksul. |
+| 76–85 | Möödalask ja millegi pingutamine; kaotate 1 tabamispunkti (rünnaku jäsemes, kui kasutatakse tabamiskohti). |
+| 86–90 | Tabate lähimat liitlast tavalise kahjuga või kasutage tulemust 76–85, kui läheduses pole ühtegi liitlast. |
+| 91–94 | Tabate lähimat liitlast erilise kahjuga või kasutage tulemust 76–85, kui läheduses pole ühtegi liitlast. |
+| 95–98 | Tabate kõva pinda; teete endale tavalist kahju (rünnaku jäsemes, kui kasutatakse tabamiskohti). |
+| 99 | Nurjumine; veeretage sellel tabelil veel kaks korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
+| 00 | Raske nurjumine; veeretage sellel tabelil veel kolm korda (kumulatiivne, kui see tulemus uuesti veeretatakse). |
 
 ### Erilised õnnestumised ja kahju
 
-Erinevat tüüpi relvad teevad eriliste õnnestumiste korral erinevat tüüpi kahju. On viis erikahju tüüpi: veritsev, purustav, takerdav, läbistav ja tagasilöögi kahju.
+Eri tüüpi relvad teevad eriliste õnnestumiste korral erinevat tüüpi kahju. On viis erilist kahju tüüpi: veritsemine, purustamine, takerdumine, läbistamine ja tagasilöök.
 
-* **Veritsev:** Haav, mis põhjustab sügava koe sisselõike arteritesse või olulistesse organitesse. Terava servaga relvad tekitavad veritsevat kahju.
+* **Veritsemine:** Haav, mille tulemuseks on sügav koelõige arteritesse või elutähtsatesse organitesse. Terava servaga relvad tekitavad veritsevat kahju.
 
-* **Purustav:** Haav, mis hõlmab nüri traumat ohvrile, murdes sageli luid ja uimastades sihtmärki. Nuiad, relvastamata löögid ja muud nürirelvad võivad põhjustada purustavat kahju.
+* **Purustamine:** Haav, mis hõlmab nürit traumat ohvrile, murdes sageli luid ja uimastades sihtmärki. Nuiad, relvastamata löögid ja muud nürirelvad võivad põhjustada purustavat kahju.
 
-* **Takerdav:** Sihtmärgi jäsemete või keha kinnitamine või muul viisil anastamine. Paindlikud relvad, võrgud, köied ja need, millel on lühikesed, sakilised otsad, tekitavad takerdavaid rünnakuid.
+* **Takerdumine:** Sihtmärgi jäsemete või keha kinni sidumine või muul viisil lõksu püüdmine. Paindlikud relvad, võrgud, köied ja need, millel on lühikesed, sakilised otsad, tekitavad takerdavaid rünnakuid.
 
-* **Läbistav:** Sügav haav, mis torkab läbi elutähtsaid organeid või läbib täielikult sihtmärgi keha. Tulirelvad, nooled ja muud teravad relvad tekitavad läbistavat kahju.
+* **Läbistamine:** Sügav haav, mis läbistab elutähtsad organid või läbib sihtmärgi keha täielikult. Tulirelvad, nooled ja muud teravad relvad tekitavad läbistavat kahju.
 
-* **Tagasilöök:** Haav, mis ajab tasakaalust välja ja võib saata sihtmärgi tagurpidi laiali. Teatud tüüpi relvastamata rünnakud ja kilbirünnakud põhjustavad tagasilööki.
+* **Tagasilöök:** Haav, mis ajab tasakaalust välja ja võib saata sihtmärgi tagurpidi kukkuma. Mõned relvastamata rünnakud ja kilbirünnakud põhjustavad tagasilööki.
 
 Neid viit kahjutüüpi kirjeldatakse allolevates jaotistes.
 
-#### Veritsev
+#### Veritsemine
 
-Eriline õnnestumine lõikava relvaga tekitab sihtmärgile veritseva kahju, kellel on nüüd veen või peamine arter läbi lõigatud ja kes kaotab kiiresti verd. See teeb 1 täiendava löögipunkti kahju iga vooru DEX-järjestusel 1 pärast vooru, mil haav tekitati. Kui kasutatakse väsimuspunkte, kaotab sihtmärk 1 täiendava väsimuspunkti iga vooru, mil ta veritseb. Soomus kaitseb esialgse rünnaku eest, kuid mitte veritsemise mõjude eest.
+Eriline õnnestumine lõikurelvaga tekitab sihtmärgile veritseva kahju, kellel on nüüd veen või peamine arter läbi lõigatud ja kes kaotab kiiresti verd. See teeb 1 täiendava tabamispunkti kahju iga vooru 1. OSA-astme juures, mis järgneb voorule, mil haav tekitati. Kui kasutatakse väsimuspunkte, kaotab sihtmärk iga vooru, mil ta veritseb, 1 täiendava väsimuspunkti. Soomus kaitseb esialgse rünnaku eest, kuid mitte veritsemise mõjude eest.
 
-Võitluse ajal võib sihtmärk proovida veritsemist üks kord voorus peatada, asetades sisuliselt tühja käe haavale ja avaldades survet. Iga vooru lõpus võib sihtmärk proovida Vastupidavuse veeretust, et määrata, kas veritsemine peatub. Kui see õnnestub, hoitakse haav kinni ja sihtmärk ei kannata enam veritsemisest tingitud kahju. Samal ajal on kõik nende proovitud rünnakud, tõrjumised või füüsilised toimingud *Rasked*. Põiklemise proovimine tühistab katse veritsemist peatada. Kui see ebaõnnestub, jätkub veritsemine ja kui sihtmärk põikleb või teeb pingutavat tegevust, algab veritsemine uuesti.
+Võitluse ajal võib sihtmärk proovida veritsemist peatada üks kord vooru kohta, asetades sisuliselt tühja käe haavale ja avaldades survet. Iga vooru lõpus võib sihtmärk proovida VAS-viset, et määrata, kas veritsemine peatub. Kui see on edukas, hoitakse haava kinni ja sihtmärk ei kannata enam veritsemiskahju. Seda tehes on kõik rünnakud, tõrjed või füüsilised tegevused, mida nad üritavad, *rasked*. Vältimise üritamine tühistab veritsemise peatamise katse. Kui see ei õnnestu, jätkub veritsemine, ja kui sihtmärk väldib või teeb pingutust nõudvaid tegevusi, algab veritsemine uuesti.
 
-Kõige usaldusväärsem viis veritsevat kahju peatada on sooritada haavale edukas Esmaabi veeretamine. Õnnestumine tähendab, et veritsemine peatub ja ei alga uuesti. Selle Esmaabi veeretuse ebaõnnestumine tähendab, et veritsemine jätkub, kuni sihtmärk saab edukat meditsiinilist tähelepanu (võime või muu oskuse, näiteks Meditsiini näol) või sureb verekaotuse kätte, kui jõuab 0 löögipunktini.
+Kõige kindlam viis veritsemiskahju peatamiseks on teha edukas esmaabivise vigastuse korral. Õnnestumine tähendab, et veritsemine peatub ja ei alga uuesti. Selle esmaabiviske ebaõnnestumine tähendab, et veritsemine jätkub, kuni sihtmärk saab eduka arstiabi (jõu või muu oskuse, näiteks Meditsiini vormis) või sureb verekaotuse kätte, kui ta saavutab 0 tabamispunkti.
 
-Kui veritsemine on viis võitlusvooru peatatud, lõpeb see täielikult iseenesest.
+Kui veritsemine on peatatud viieks võitlusvooruks, peatub see täielikult iseenesest.
 
-#### Purustav
+#### Purustamine
 
-Eriline õnnestumine purustava relvaga – nui, kepp, nuia või eriti õnnelik relvastamata löök – tekitab sihtmärgile purustava kahju. See on eriti võimas löök, põhjustades sageli massiivseid verevalumeid või isegi luumurde, uimastades sageli.
+Eriline õnnestumine purustava relvaga – nui, kepp, sõjanui või eriti õnnelik relvastamata löök – tekitab sihtmärgile purustava kahju. See on eriti võimas hoop, mis põhjustab sageli tohutuid verevalumeid või isegi luumurdusid, tekitades sageli uimastust.
 
-Purustava erilise õnnestumise korral kahekordistub rünnakule tavaliselt rakendatav kahju modifikaator. Kui ründajal on negatiivne kahju modifikaator, muutub see kahju modifikaatori puudumiseks ja kui kahju modifikaatorit pole, muutub see +1D4-ks (vt **Kahju modifikaatorite tabel**). Relva kahju veeretatakse tavapäraselt, kuid kahju modifikaatorit suurendatakse.
+Purustav eriline õnnestumine kahekordistab tavaliselt rünnakule rakendatava kahjumuutja. Kui ründajal on negatiivne kahjumuutja, muutub see kahjumuutjata olekuks ja kui kahjumuutjat pole, muutub see +1D4-ks (vt **Kahjumuutja tabelit**). Relva kahju veeretatakse tavapäraselt, kuid kahjumuutjat suurendatakse.
 
-Purustava erilise õnnestumise all kannatav sihtmärk peab tegema ka eduka Vastupidavuse veeretuse või jääma 1D3 vooruks uimastatuks. Uimastatuna olemine on peadpööritav, segadusseajav kogemus, kui sihtmärgi silme ees tantsivad tähed ja nende pea ujub äkilise löögi valust. Uimastatud sihtmärk ei saa uimastatuna rünnata ja saab rünnakust põigelda või tõrjuda ainult siis, kui teeb iga katse jaoks eduka Idee veeretuse. Veelgi enam, kõik rünnakud sihtmärgi vastu on *Lihtsad*. Uimastatud sihtmärk võib proovida põgeneda, kuid selleks on vaja edukat Idee veeretust, et tuvastada põgenemistee, ja edukat Väleduse veeretust, et ohust välja pääseda.
+Purustava erilise õnnestumise all kannatav sihtmärk peab tegema ka eduka VAS-viske või jääma 1D3 vooruks uimastatuks. Uimastatuna olemine on peadpööritav, orienteerumisvõimet kaotav kogemus, kui sihtmärgi silme ees tantsivad tähed ja pea käib ringi äkilise hoobi valust. Uimastatud sihtmärk ei saa uimastatuna rünnata ja saab rünnakut vältida või tõrjuda ainult siis, kui nad teevad iga katse puhul eduka INT-viske. Lisaks on kõik rünnakud sihtmärgi vastu *lihtsad*. Uimastatud sihtmärk võib proovida põgeneda, kuid selleks on vaja edukat INT-viset põgenemistee leidmiseks ja edukat OSA-viset ohust välja saamiseks.
 
-Kui sihtmärk tõrjub purustava erilise õnnestumise rünnaku edukalt, riskib ta oma relva või kilbi purunemisega. Ründaja veeretab kahju ja suurendatud kahju modifikaatorit ning võrdleb veeretatud kahju tõrjuva eseme praeguste löögipunktidega vastupanutabelis. Aktiivne väärtus on tekitatud kahju ja passiivne väärtus on eseme tavalised löögipunktid. Kui aktiivne veeretamine õnnestub, võtab tõrjuv ese kogu löögi kahju ja kogu ülejäänud kahju tekitatakse tõrjuvale sihtmärgile. Sihtmärk võib purustava löögi tekitatud kahjust lahutada soomuskaitse, kuid ei saa selle rünnaku eest enam põigelda ega tõrjuda – see tabab automaatselt ja ülejäänud kahju tekitatakse sihtmärgile. Kui sihtmärk saab kahju, kehtivad neile uimastamise reeglid (ülal).
+Kui sihtmärk tõrjub edukalt purustava erilise õnnestumise rünnaku, riskib ta oma relva või kilbi purunemisega. Ründaja veeretab kahju ja suurendatud kahjumuutja ning võrdleb veeretatud kahju tõrjuva eseme praeguste tabamispunktidega vastupanutabelil. Aktiivne väärtus on tekitatud kahju ja passiivne väärtus on eseme tavapärased tabamispunktid. Kui aktiivne vise on edukas, võtab tõrjuv ese kogu hoobi kahju ja ülejäänud kahju tekitatakse tõrjuvale sihtmärgile. Sihtmärk võib purustavast hoobist tekitatud kahjust lahutada soomuse kaitse, kuid ei saa seda rünnakut enam vältida ega tõrjuda – see tabab automaatselt ja ülejäänud kahju tekitatakse sihtmärgile. Kui sihtmärk saab kahju, kehtivad talle uimastamise reeglid (ülal).
 
-Kui tõrjuva eseme löögipunktide passiivne veeretamine õnnestub, võtab see tavalise rünnaku kahju otse oma löögipunktidesse. Kui tõrjuv ese võtab rohkem kahju kui sellel on löögipunkte, hävib see rünnaku all – puruneb või killustub, kumb on kohane –, kuid löök ei jätku sihtmärgi tabamisega.
+Kui tõrjuva eseme tabamispunktide passiivne vise on edukas, võtab see tavapärase rünnakukahju otse oma tabamispunktidesse. Kui tõrjuv ese saab rohkem kahju, kui tal on tabamispunkte, hävib see rünnaku tagajärjel – puruneb või kildudeks, kumb iganes on asjakohane –, kuid hoop ei jätka sihtmärgi tabamist.
 
-Kui kasutatakse spetsiifilisi tabamiskohti ja tõrjuv ese oli kilp, rakendatakse see täiendav kahju automaatselt käele, millel sihtmärk oma kilpi kandis, võimaldades soomuskaitset, kui see on kohaldatav. Kui tõrjuv ese oli relv, rakendatakse täiendav kahju juhuslikule tabamiskohale, mille veeretab mängujuht. Nagu ülal, on soomuskaitse endiselt tõendiks jätkuva löögi vastu.
+Kui kasutatakse spetsiifilisi tabamiskohti ja tõrjuv ese oli kilp, rakendatakse see edasine kahju automaatselt käele, millel sihtmärk oma kilpi kandis, võimaldades soomuse kaitset, kui see on kohaldatav. Kui tõrjuv ese oli relv, rakendatakse edasine kahju juhuslikule tabamiskohale, mille veeretab mängujuht. Nagu ülalpool, on soomuse kaitse endiselt tõestuseks jätkuva löögi vastu.
 
-#### Takerdav
+#### Takerdumine
 
-Eriline õnnestumine takerdava relvaga – piits, võrk, kett, köis, inimene-püüdja jne – takerdab sihtmärgi. Takerdavat rünnakut ei saa teha lähidistantsilt ja see peab toimuma vähemalt kolmemeetrise ruumiga ründaja ja sihtmärgi vahel (kuigi garrot’i saab kasutada lähidistantsil). Edukas takerdumine takistab sihtmärgi liikumist ülejäänud võitlusvooru ja järgmise võitlusvooru jooksul. See annab ründajale aega sihtmärgile läheneda või teda muul viisil alistada.
+Eriline õnnestumine takerdava relvaga – piits, võrk, kett, köis, mehepüüdja jne – takerdab sihtmärgi. Takerdavat rünnakut ei saa teha lähedalt ja seda peab tegema vähemalt kolmemeetrise vahemaaga ründaja ja sihtmärgi vahel (kuigi kägistusnööri saab kasutada lähedalt). Edukas takerdumine takistab sihtmärgi liikumist ülejäänud võitlusvooru jooksul ja järgmise võitlusvooru ajal. See annab ründajale aega sihtmärgini jõudmiseks või nende muul viisil alistamiseks.
 
-See võib takistada sihtmärgi rünnakuid. Takerdava rünnaku olemuse põhjal võib mängujuht lubada takerdunud sihtmärgile Õnne veeretuse, et määrata, kas nad on võimelised rünnaku sooritama.
+See võib takistada sihtmärgi rünnakuid. Takerdava rünnaku olemusest lähtuvalt võib mängujuht lubada takerdunud sihtmärgile ÕNN-viske, et määrata, kas nad on võimelised ründama.
 
-***Näiteks,*** *ühe käe ümber mähitud piits võib võimaldada teise käe ja jala vabu rünnakuid, samas kui lasso võib immobiliseerida mõlemad käed.*
+***Näiteks,*** *ühe käe ümber mässitud piits võib võimaldada vabu rünnakuid teise käe ja jalaga, samas kui lasso võib mõlemad käed immobiliseerida.*
 
-Seda tuleks käsitleda juhtumipõhiselt. Siiski on vähe takerdavaid rünnakuid, mis ei võimalda mingit rünnakumeetodit, olgu selleks jalahoop või peaga löök.
+Seda tuleks käsitleda juhtumipõhiselt. Siiski on vähe takerdavaid rünnakuid, mis ei võimalda mingit rünnakumeetodit, olgu selleks jalalöök või pealöök.
 
-Kui ründajal on endiselt kontroll takerdava relva üle (näiteks piits võimaldab seda, samas kui bolad mitte), võib ründaja proovida järgmisel voorul ühte või mitut efekti, nagu on kirjeldatud maadlemise oskuses. Lubatud efektide hulka kuuluvad: jäseme immobiliseerimine, sihtmärgi immobiliseerimine, sihtmärgi viskamine, sihtmärgi maha surumine, sihtmärgi relvitustamine, sihtmärgi vigastamine ja sihtmärgi kägistamine, vastavalt vajadusele. Kui kasutatakse tabamiskohti, võib see keelata teatud rünnakud.
+Kui ründajal on endiselt kontroll takerdava relva üle (näiteks piits võimaldab seda, samas kui bola ei võimalda), saab ründaja järgmises voorus proovida ühte või mitut mõju, nagu on kirjeldatud maadlusoskuses. Lubatud mõjude hulka kuuluvad: jäseme immobiliseerimine, sihtmärgi immobiliseerimine, sihtmärgi viskamine, sihtmärgi pikaliasatamine, sihtmärgi relvitustamine, sihtmärgi vigastamine ja sihtmärgi kägistamine, vastavalt vajadusele. Kui kasutatakse tabamiskohti, võib see teatud rünnakud välistada.
 
-***Näiteks,*** *jalga takerdunud piits ei saa relvitustada käes hoitavat relva.*
+***Näiteks,*** *jalale takerdunud piits ei saa relvitustada käes hoitavat relva.*
 
-Edukale takerdamisrünnakule järgnevas voorus võib sihtmärk proovida Väleduse veeretust, et end vabastada, või teha STR vs. STR vastupanu veeretuse, et proovida takerdavat relva ründaja käe(te)st välja tõmmata. Alternatiivselt, kui takerdunud sihtmärk suudab, võib ta proovida rünnakut takerdava relva enda vastu, lõigates sellest läbi, kui tal on käepärast lõikamisrelv.
+Edukale takerdamisrünnakule järgnevas voorus saab sihtmärk proovida OSA-viset, et end vabastada, või teha JÕU vs. JÕU vastupanuvise, et proovida takerdavat relva ründaja käe(de)st välja tõmmata. Alternatiivina, kui takerdunud sihtmärk suudab, võib ta proovida rünnakut takerdava relva enda vastu, lõigates selle läbi, kui tal on kaasas lõikav relv.
 
-Takerdavaid rünnakuid, mis kasutavad paindlikke relvi, nagu võrgud, köied, ketid ja piitsad, puhul võimaldab edukas STR vs. STR vastupanu veeretamine takerdaval relval tõrjerelva sihtmärgi haardest välja väänta.
+Paindlikke relvi, nagu võrgud, köied, ketid ja piitsad, kasutavate takerdavate rünnakute puhul võimaldab edukas JÕU vs. JÕU vastupanuvise takerdaval relval tõrjuv relv sihtmärgi haardest välja vääna.
 
-Edukas põiklemise või maadlemise veeretamine tühistab eduka takerdumise, kuid seda saab proovida alles järgmisel võitlusvoorus. Kriitiline tõrjumine tühistab kriitilise takerdumise, kuid tavaline tõrjumise õnnestumine ei avalda mõju.
+Edukas Vältimise või Maadlemise vise tühistab eduka takerdumise, kuid seda saab proovida alles järgmises võitlusvoorus. Kriitiline tõrje tühistab kriitilise takerdumise, kuid tavaline tõrjeõnnestumine ei avalda mingit mõju.#### Torkamine
 
-#### Läbistav
+Terava või torkava relvaga saavutatud eriline õnnestumine tekitab sihtmärgile torkevigastuse, tungides sügavale lihastesse ja tabades potentsiaalselt siseelundeid. Torkamine kahekordistab relva tavapärase veeretatud kahju täringud ja modifikaatori.
 
-Eriline õnnestumine terava või torkava relvaga tekitab sihtmärgile läbistava kahju, torgates sügavale lihasse ja potentsiaalselt tabades siseelundeid. Läbistamine kahekordistab relva tavalise veeretatud kahju täringud ja modifikaatori.
+***Näiteks*** *teeb lühimõõk tavaliselt 1D6+1 punkti kahju, samas kui sama relvaga sooritatud torke puhul on kahju kahekordne ehk 2D6+2 punkti.*
 
-***Näiteks,*** *lühimõõk teeb tavaliselt 1D6+1 punkti kahju, samas kui läbistamine sama relvaga teeb kaks korda rohkem ehk 2D6+2 punkti kahju.*
+Kahekordistub ainult relva kahju. Kui ründajal on kahjumodifikaator, siis seda ei kahekordistata, vaid veeretatakse normaalselt ja lisatakse kahjule.
 
-Kahekordistatakse ainult relva kahju. Kui ründajal on kahju modifikaator, siis kahju modifikaatorit ei kahekordistata, vaid veeretatakse tavapäraselt ja lisatakse kahjule.
+Torkerelv jääb sihtmärgi kehasse kinni, kuni see eemaldatakse. Kui tegemist on käes hoitava relvaga, võib ründaja kohe sooritada *Raske* relvaoskuse kontrolli. Kui see õnnestub, saab ründaja relva pärast torkerünnaku tabamist välja tõmmata. Vastasel juhul jääb relv sihtmärgi kehasse kinni.
 
-Läbistav relv on endiselt sihtmärgi kehasse kinni jäänud, kuni see eemaldatakse. Kui relv on käsi-relv, võib ründaja kohe proovida *Rasket* relvaoskuse veeretust läbistava relvaga. Kui see õnnestub, saab ründaja relva pärast läbistava rünnaku tabamist välja tõmmata. Muul juhul on relv sihtmärgi kehasse kinni jäänud.
+Kui ründaja relv on endiselt haavas ja ründaja soovib selle tagasi saada, peab ta üritama relva kätte saada. Sel juhul peab ründaja keskenduma relva haavast väljatõmbamisele. See tõstab relva kättesaamise võimaluse ründaja täieliku relvaoskuse tasemeni, kuid kõik ründaja vastu suunatud rünnakud loetakse *Lihtsateks* ja ründaja ei saa ilmselgelt relva haavast välja kiskudes tõrjuda ega põigelda.
 
-Kui ründaja relv on endiselt haavas ja ründaja soovib seda tagasi, peab ta proovima relva kätte saada. Sel juhul peab ründaja keskenduma relva haavast väljatõmbamisele. See tõstab relva kättesaamise võimaluse ründaja täieliku rünnakuõnnestumiseni relvaga, kuid kõik rünnakud ründaja vastu loetakse *Lihtsateks* ja nad ei saa ilmselgelt tõrjuda ega põigelda, samal ajal kui nad proovivad oma relva sihtmärgist välja tõmmata.
+Viskerelvade, nagu odade, pistodade või isegi noolte puhul peab ründaja sihtmärgile lähenema ja sooritama *Raske* OSA kontrolli, et relv kätte saada. Relva eemaldamise võimalus järgnevates voorudes on ründaja täielik oskus, kui ründaja soovib sel voorul jätta kõrvale kõik rünnakud ja keskenduda relva kättesaamisele, nagu eespool kirjeldatud.
 
-Viskerelvade, nagu viskeodad, pistodad või isegi nooled, puhul peab ründaja sihtmärgile lähenema ja sooritama eduka *Raske* Väleduse veeretuse, et relv kätte saada. Võimalus relva järgnevatel voorudel eemaldada on ründaja täielik oskus, kui ründaja soovib eirata kõiki selle vooru rünnakuid ja keskenduda relva kättesaamisele, nagu eespool kirjeldatud.
+Torgatud sihtmärki ei saa ravida enne, kui torkerelv on eemaldatud, juhul kui relv on suurem kui nuga. Väikesed esemed, nagu nooleotsad või kuulid, võib haavasse jätta, kuigi see võib mängujuhi äranägemisel hiljem tüsistusi tekitada. Kui sihtmärk on torgatud odaga või mõõgaga, saab ta iga kord, kui ta märkimisväärselt liigub, uuesti poole relva kahjust (veereta uuesti, ilma kahjumodifikaatori või soomuse kaitseta) (sama tabamuskoha pihta, kui seda kasutatakse), kuna väljaulatuv relv takerdub lähedalasuvatesse pindadesse, liigub nende sees ja laiendab haava jne.
 
-Läbistatud sihtmärki ei saa ravida enne, kui läbistav relv on eemaldatud, kui see on suurem kui nuga. Pisikesi esemeid, nagu nooleotsad või kuulid, võib haava jätta, kuigi see võib hiljem tekitada tüsistusi, vastavalt mängujuhi äranägemisel. Kui olete läbistatud relvaga, nagu oda või mõõk, siis iga kord, kui sihtmärk mingil märkimisväärsel viisil liigub, võtab ta poole relva kahjust (veereta uuesti, ilma kahju modifikaatori või soomuskaitseta) uuesti (samasse tabamiskohta, kui kasutatakse), kuna ulatuv relv haakub lähedalasuvate pindade taha, liigub nende sees ja laiendab haava jne.
+Sihtmärk, kes on relvaga torgatud ja üritab seda eemaldada, peab tegema vastupanu kontrolli oma JÕU vastu relvaga seni tekitatud kahju suuruse suhtes. Edu tähendab, et relv on vabanenud ja sihtmärgi käes, samas kui ebaedu tähendab, et ta ei suuda seda sel võitlusvoorul vabastada ja saab tegevuse tagajärjel täiendavalt 1D3 punkti kahju (samasse tabamiskohta, kui seda kasutatakse). See tegevus võtab terve vooru ja lõpeb sellega, et sihtmärk hoiab käes relva, mis teda varem torkas.
 
-Sihtmärk, kes on relvaga läbistatud ja üritab seda eemaldada, peab tegema vastupanu veeretuse oma STR-i vs. relva poolt seni tekitatud kahju summa suhtes. Õnnestumine tähendab, et relv on vabanenud ja sihtmärgi käes, samas kui ebaõnnestumine tähendab, et nad ei suuda seda sel võitlusvoorus vabastada ja nad saavad täiendava 1D3 löögipunkti kahju (samasse tabamiskohta, kui kasutatakse) tegevusest. See toiming võtab terve vooru ja lõpeb sihtmärgiga, kes hoiab relva, mis teda varem läbistas.
+Mängujuht võib kehtestada täiendavaid raskusi või vähendada efektiivset JÕUDU poole võrra, kui torkerelv asub kohas, kuhu on raske ulatuda või mis on muul viisil kättesaamatu, näiteks seljas.
 
-Mängujuht võib kehtestada täiendavaid raskusi või vähendada tõhusat STR-i poole võrra, kui läbistav relv on asendis, mida oleks raske ulatuda või on muul viisil kättesaamatu, näiteks seljas.
+Teine võimalus torkerelvaga toimetulemiseks on selle purustamine või kahjustamine nii, et see ei tekitaks edasist piina, kuid oleks hiljem eemaldatav. Tavaliselt tehakse seda nooltega, eemaldades varred, et need enam ei segaks. Sõltuvalt relvast ja selle kahjustamise meetodist nõuab see kas haavatud sihtmärgi JÕU vastupanu kontrolli relva vastupidavuspunktide vastu või otsest rünnakut relva enda vastu.
 
-Teine viis läbistava relvaga toime tulla on see murda või kahjustada, nii et see ei põhjustaks edasist häda, kuid seda saab hiljem eemaldada. Tavaliselt tehakse seda nooltega, eemaldades varred, et need enam ei takistaks. Sõltuvalt relvast ja selle kahjustamise meetodist nõuab see kas haavatud sihtmärgi STR-i ja relva löögipunktide vastupanutabeli veeretust või otsest rünnakut relva enda vastu.
+Väljaspool võitlust on mis tahes katse torkerelva eemaldada *Lihtne*, olgu see siis vastupanu kontrolli või esmaabiga.#### Tagasilöök
 
-Väljaspool võitlust on iga läbistava relva eemaldamise katse *Lihtne*, kas vastupanu veeretuse või Esmaabi kasutamisega.
+Eriline õnnestumine relvastamata heite või kilbirünnaku korral on sihtmärgi tagasi paisanud. Kogukahju (enne soomuse lahutamist) võrreldakse sihtmärgi SUU-ga vastupanuviskes. Mängujuht võib sihtmärgi efektiivset SUU-d vähendada, et kajastada ebaühtlast maapinda, kallakut või sihtmärgi seisundit (kurnatud, uimastatud jne). Kui vastupanu ebaõnnestub, paiskub sihtmärk ühe meetri jagu tagasi iga 5 punkti kahju kohta (enne soomust) ning ründaja peab uuesti lähenema ja sihtmärgiga lähivõitlusesse astuma, kui ta oli eelnevalt lähivõitluse ulatusest välja paisatud. Kui tagasipaisatud sihtmärk põrkab vastu takistust, saab ta 1D6 kahju iga kolme meetri või selle murdosa kohta, mis tal läbimata jäi. Sihtmärk peab ka sooritama eduka Agility-viske, vastasel juhul kukub ta pikali (vaata **Pikali**).
 
-#### Tagasilöök
-
-Eriline õnnestumine relvastamata viskega või kilbirünnakuga on sihtmärgi tagasi löönud. Veeretatud kogukahju (enne soomuse lahutamist) võrreldakse vastupanu veeretuses sihtmärgi SIZ-iga. Mängujuht võib sihtmärgi tõhusat SIZ-i vähendada, et kajastada maapinna ebatasasust, kallakut või sihtmärgi seisundit (väsinud, uimastatud jne). Kui see ebaõnnestub, lüüakse sihtmärk ühe meetri võrra tagasi iga 5 veeretatud kahjupunkti kohta (enne soomust) ja ründaja peab uuesti lähenema ja sihtmärgiga lähivõitlusesse astuma, kui ta oli varem lähivõitluse ulatusest välja löödud. Kui tagasilöödud sihtmärk tabab ka teel olevat takistust, võtab ta 1D6 kahju iga kolme meetri või selle osa kohta, mis tal on jäänud läbida. Sihtmärk peab tegema ka eduka Väleduse veeretuse või kukkuma pikali (vt **Pikali**).
-
-Kui sihtmärk võidab vastupanu veeretuse, ei liigutata neid ja kui nende SIZ on ründaja SIZ-ist suurem, komistab ründaja ühe meetri tagasi.
+Kui sihtmärk võidab vastupanuviske, ei liigu ta paigast ning kui tema SUU on suurem kui ründaja SUU, komistab ründaja ühe meetri jagu tagasi.
 
 ### Kaitsvalt võitlemine
 
-Kui sinu tegelane loobub vooru jooksul kõigist rünnakutest, et võidelda kaitsvalt, võib ta oma rünnaku asendada ühe vaba põiklemiskatsega ja jätkata põiklemis- või tõrjekatsete tegemist. Tavaliselt on iga järgnev põiklemine või tõrjumine kumulatiivse –30% modifikaatoriga, kuid kaitsvalt võideldes võib sinu tegelane rünnaku asemel asendada põiklemise oskuse katse ilma –30% karistust saamata. Kui nad on juba teinud põiklemiskatseid ja tõrjumisi ning on negatiivse modifikaatori juures, modifikaator ei suurene. Sisuliselt on see vaba põiklemiskatse, mis ei too kaasa karistust järgmisele põiklemis- või tõrjekatsele.
+Kui su tegelane loobub vooru jooksul kõigist rünnakutest, et võidelda kaitsvalt, võib ta oma rünnaku asendada ühe tasuta Dodge-katsega ning jätkata Dodge- või parry-katsete tegemist. Tavaliselt on iga järgnev Dodge- või parry-katse kumulatiivse –30% muudatusega, kuid kaitsvalt võideldes saab tegelane asendada Dodge-oskuse katse rünnakuga ilma –30% karistust saamata. Kui ta on juba teinud Dodge- ja parry-katseid ning on negatiivse muudatuse all, siis muudatus ei suurene. Sisuliselt on tegemist tasuta Dodge-katsega, mis ei põhjusta järgmisele dodge- või parry-katsele karistust.
 
-Ainus piirang sel juhul on see, et sinu tegelane ei saa põigelda ja tõrjuda samal DEX-järjestusel. Kui sinu tegelane suudab tavaliselt voorus sooritada mitu rünnakut (näiteks oskusega üle 100%), võib ta teha teise vaba põiklemise või tõrjumise ilma kumulatiivset karistust saamata.
+Ainus piirang on see, et tegelane ei tohi Dodge- ja parry-katseid teha sama OSA-järgu jooksul. Kui tegelane saab tavaliselt teha mitu rünnakut voorus (näiteks oskuse üle 100% tõttu), saab ta teha teise tasuta Dodge- või parry-katse ilma kumulatiivset karistust saamata.
 
-Mitte mingil juhul ei saa kaitsvalt võitlemist kombineerida ühegi rünnaku või ründava toiminguga, isegi mitte **Meeleheitliku toiminguga**.
+Mitte mingil juhul ei saa kaitsvalt võitlemist kombineerida ühegi rünnaku või ofensiivse tegevusega, isegi mitte **Meeleheitliku tegevusega**.
 
-### Äpardumised võitluses
+### Fumble'id võitluses
 
-Äpardumised võitluses on õnnetud sündmused või äpardused, mis on tingitud halvast õnnest või kogenematusest. Kui äpardumine veeretatakse, veereta D100 asjakohasel tabelil ja rakenda tulemus. Mängujuht veeretab mitte-mängijate tegelaste jaoks. Kui veeretuse tulemus on kohatu, peaks mängujuht seda kohandama millegagi, mis on mõistlik, või uuesti veeretama.
+Võitluses toimuvad fumble'id on õnnetud sündmused või äpardused, mis tulenevad halvast õnnest või kogenematusest. Kui veeretad fumble'i, veereta D100 vastaval tabelil ja rakenda tulemust. Mängujuht veeretab mitte-mängijate tegelaste eest. Kui viske tulemus on kohatu, peaks mängujuht selle kohandama mõistlikuks või uuesti veeretama.
 
-On neli äpardumiste tabelit; kasuta tegevusele kõige kohasemat. Kuigi **Looduslike relvade rünnakute ja tõrjumiste tabel** on mõeldud arukate humanoidide tegevuse suunamiseks, võib see kaalutlusel olla kasulik ka looduslikele loomadele, nagu karud, hundid jne. Jällegi julgustatakse mängujuhti kohandama või uuesti veeretama ebatõenäolisi tulemusi.
+Olemas on neli fumble-tabelit; kasuta tegevusele kõige sobivamat. Ehkki **Loomulike relvarünnakute ja parry'de tabel** on mõeldud intelligentsete humanoidide tegevuse suunamiseks, võib see kaalutletult olla kasulik ka pärisloomadele, nagu karud, hundid jne. Taaskord soovitatakse mängujuhil ebatõenäolisi tulemusi kohandada või uuesti veeretada.
 
-Mõned relvad võivad **rikkuda**. Need tekivad lisaks äpardumistele, kui veeretuse tulemus kattub äpardumise ja rikete vahemikega (vt **Rikked**).
+Mõned relvad võivad **tõrkuda**. Need juhtuvad lisaks kõigile fumble'itele, kui viske tulemus kattub fumble'i ja tõrgete vahemikega (vaata **Tõrked**).
 
-> ### Võitluse variantreeglid (Valik)
+> ### Variantvõitlusreeglid (valikuline)
 > 
-> Need valikulised reeglid muudavad võitlust, et paremini simuleerida võitlust erinevates žanrites, koos mõnede soovituste ja nõuannetega selle kohta, kuidas need reeglid mängu mõjutavad.
+> Need valikulised reeglid muudavad võitlust, et paremini simuleerida erinevate žanrite võitlust, koos soovituste ja nõuannetega selle kohta, kuidas need reeglid mängu mõjutavad.
 > 
-> #### Rünnakud ja tõrjumised üle 100% (Valik)
+> #### Rünnakud ja parry'd üle 100% (valikuline)
 > 
-> Sinu tegelasel võivad olla oskused üle 100%, mis võimaldab suuremaid kriitiliste tulemuste, eriliste õnnestumiste ja võitlusoskuste puhul mitme rünnaku võimalusi voorus.
+> Sinu tegelasel võib olla oskusi üle 100%, mis võimaldab suuremaid võimalusi kriitilisteks tulemusteks, erilisteks õnnestumisteks ning võitlusoskuste puhul mitmeks rünnakuks voorus.
 > 
-> Võitlusoskuse tase 100% või enam võimaldab sinu tegelasel jagada oma rünnaku mitmeks rünnakuks, kuigi iga rünnak peab olema vähemalt 50%. Need kogusummad ei pea olema võrdsed. ***Näiteks,*** *oskuse tasemega 101% saab sinu tegelane jagada rünnakud üheks rünnakuks 51% juures ja üheks 50% juures. Oskuse tasemega 151% saab sinu tegelane jagada rünnakud kaheks rünnakuks 75% ja 76% juures, üheks 92% ja teiseks 59% juures või kolmeks 50%, 50% ja 51% juures jne. Sa ei saa luua murde ja ümardada ülespoole – määra kogu oskuse tase rünnakutele.*
+> Võitlusoskuse tase 100% või enam võimaldab tegelasel jagada oma rünnak mitmeks rünnakuks, kuigi iga rünnak peab olema vähemalt 50%. Need summad ei pea olema võrdsed. ***Näiteks*** *101% oskustasemega saab tegelane jagada rünnakud üheks 51% rünnakuks ja üheks 50% rünnakuks. 151% tasemega saab ta jagada rünnakud kaheks 75% ja 76% rünnakuks, üheks 92% ja teiseks 59% rünnakuks või kolmeks 50%, 50% ja 51% rünnakuks jne. Murdosasid luua ja ülespoole ümardada ei saa — määra kogu oskustase rünnakutele.*
 > 
-> Sinu tegelane saab seejärel teha eraldi rünnakuid sama relvaga, lahendades igaühe, kasutades ühte jagatud oskuse tasemest. Esimese rünnaku DEX-järjestus on normaalne; teise oma 5 DEX-järjestust madalam; kolmas 5 DEX-järjestust pärast seda jne. Kui see vähendab rünnaku DEX-järjestuseni 0 või alla selle, ei saa seda proovida.
+> Seejärel saab tegelane teha sama relvaga eraldi rünnakuid, lahendades igaühe ühe jagatud oskustasemega. Esimene rünnak toimub tavalisel OSA-järgul; teine rünnak 5 OSA-järku hiljem; kolmas veel 5 OSA-järku hiljem jne. Kui see vähendab rünnaku OSA-järgule 0 või vähem, ei saa seda sooritada.
 > 
-> **Oskuse taseme ületamine 100%** pakub teavet selle kohta, kuidas sinu tegelane saab saavutada oskusi üle 100%.
+> **Oskuse 100% ületamine** annab teavet selle kohta, kuidas tegelane saab saavutada oskusi üle 100%.
 > 
-> #### Kaugvõitlusrelvade vastu põiklemine (Valik)
+> #### Kaugrelvade eest põiklemine (valikuline)
 > 
-> Tavaliselt saab sinu tegelane kaugvõitlusrelvade vastu põigelda ainult karistusega või üldse mitte (vt **Põiklemine**), kuid kangelaslikumas mängus saab sinu tegelane põigelda oma täieliku oskuse taseme juures, eeldades, et neil on võimalus ründajat näha ja eest ära saada. See võib isegi hõlmata alarünnakute vastu põiklemist.
+> Tavaliselt saab tegelane kaugrelvade eest põigelda vaid karistusega või üldse mitte (vaata **Dodge**), kuid kangelaslikumas mängus võib tegelane kasutada oma täit oskustaset, eeldades, et tal on võimalus ründajat näha ja eest ära liikuda. See võib hõlmata isegi alarünnakute eest põiklemist.
 > 
-> Lisaks saab sinu tegelane proovida kaugvõitlusrelvi tõrjuda käsi-relvadega. Kaugvõitlusrelva käsi-relvaga edukaks tõrjumiseks on vajalik eriline või kriitiline õnnestumine ja kui tulemus on tavaline õnnestumine või isegi ebaõnnestumine, tabab rünnak automaatselt sinu tegelast.
+> Lisaks saab tegelane proovida kaugrelvi lähivõitlusrelvadega parry'da. Selleks on nõutav eriline või kriitiline õnnestumine; kui tulemuseks on normaalne õnnestumine või ebaõnnestumine, tabab rünnak tegelast automaatselt.
 > 
-> Sinu tegelane võib ka proovida kinni püüda kaugvõitlusrelva, nagu nool, oda või muu viskerelv, erilise või kriitilise õnnestumisega Väleduse või Viske oskuse veeretusel. Sel juhul on sinu tegelane relva kinni püüdnud ja vigastustest pääsenud ning võib sellega võitluses oma äranägemise järgi ümber käia või seda kasutada. Kui veeretamine õnnestub, kuid pole eriline või kriitiline õnnestumine, ei ole sinu tegelane seda kinni püüdnud, kuid on vigastamata. Kui veeretamine on ebaõnnestumine, peab sinu tegelane vigastuste vältimiseks sooritama eduka Õnne veeretuse, vastasel juhul võtab ta kaugvõitlusrelva tavalise veeretatud kahju. Kui veeretamine on äpardumine, võtab sinu tegelane automaatselt kaugvõitlusrelva veeretatud kahju (oma käele/käsivarrele, kui kasutatakse tabamiskohti). Soomuskaitse on selle rünnaku vastu lubatud.
+> Tegelane saab proovida ka kaugrelva, nagu nool, oda või muu heiterelv, kinni püüda, kui teeb eduka Agility- või Throw-viske erilise või kriitilise õnnestumisega. Sellisel juhul on tegelane relva kinni püüdnud ja vigastustest pääsenud ning võib sellega teha, mida soovib. Kui vise on edukas, kuid mitte eriline või kriitiline, ei ole tegelane relva kinni püüdnud, kuid on vigastamata. Kui vise ebaõnnestub, peab tegelane tegema eduka Luck-viske, et vältida vigastust, vastasel juhul saab ta kaugrelva tavapärase kahju. Kui vise on fumble, saab tegelane automaatselt kaugrelva tavapärase kahju (kui kasutatakse tabamiskohti, siis kätte/käsivarde). Selle rünnaku vastu on soomuse kaitse lubatud.
 > 
-> Sinu tegelane võib samuti tõrjuda suure kiirusega kaugvõitluse tuld (noolte, kuulide jne) vabalt kilpidega, proovides eelnevalt Spot veeretust. Kui veeretamine õnnestub, võib sinu tegelane oma kilbiga vabalt tõrjuda täieliku oskuse tasemega. Kui Spot veeretamine ebaõnnestub, on tõrjumise veeretamine Raske või oskuse tase on vaikimisi kilpide ja kaugvõitluse jaotises antud baastõenäosustel.
+> Tegelane võib ka vabalt parry'da kiireid kaugrelvi (noolt, kuule jne) kilbiga, proovides eelnevalt Spot-viset. Kui vise õnnestub, võib tegelane vabalt oma kilbiga täie oskustasemega parry'da. Kui Spot-vise ebaõnnestub, on parry-vise raske (Difficult) või langeb oskustase jaotises Kilbid ja kaugrelvade tuli toodud baasvõimalustele.
 > 
-> #### Surevad löögid (Valik)
+> #### Suremiseelsed hoobid (valikuline)
 > 
-> Võime lüüa veel ühe korra vastast, vaatamata surmvale haavale, võib olla sinu tegelasele dramaatiline ja kangelaslik finaal, kui ta on surmavalt haavatud, või vihatud vastase kohutav viimane löök. Surmava löögi ohver (vt Kahju ja ravimine) võib proovida ühte täiendavat võitlustoimingut, kui nad sooritavad eduka Vastupidavuse veeretuse. See toiming peab aset leidma järgmisel saadaoleval DEX-järjestusel, mil nad suudavad tegutseda, või kui hiljem, peavad nad tegema täiendava Vastupidavuse veeretuse iga vooru kohta, mil nende surev löök edasi lükatakse. Ühegi nendest veeretustest ebaõnnestumine viib surmani enne, kui surev löök on tehtud.
+> Võime lüüa vaenlast veel viimast korda, hoolimata surmavast haavast, võib olla tegelasele dramaatiline ja kangelaslik lõpp või vihatud vastase hirmuäratav viimane löök. Surmava hoobi saaja (vaata Kahju ja tervenemine) võib proovida ühte täiendavat võitlustegevust, kui teeb eduka Stamina-viske. See tegevus peab toimuma järgmisel vabal OSA-järgul, mil ta suudab tegutseda, või kui hiljem, peab ta iga vooru kohta, mil suremiseelset hoopi edasi lükatakse, tegema täiendava Stamina-viske. Mistahes nende visete ebaõnnestumine tähendab surma enne, kui hoop kohale jõuab.
 > 
-> Mängijat julgustatakse lubama tegelase surevat lööki sooritada nende täieliku oskuse tasemega, miinus mis tahes olukorrast tingitud modifikaatorid, nagu pikali olemine. Mängujuhi äranägemisel ei pea surev löök olema võitlustoiming, vaid hoopis võime, oskuse või isegi mõne maisema toimingu viimane kasutus. Soovitatav on, et surev toiming oleks vaid lihtne ja otsene ülesanne. Viimaste sõnade lausumine teisele tegelasele on surev toiming ja nõuab iga asjakohase teabe kohta edukat Õnne veeretust.
+> Mängujuhil soovitatakse lubada tegelase suremiseelset hoopi sooritada täieliku oskustasemega, millest on lahutatud kõik olukorrast tingitud muudatused, näiteks pikali olemine. Mängujuhi äranägemisel ei pea suremiseelne hoop olema võitlustegevus, vaid see võib olla ka viimane jõu, oskuse või isegi tavalise tegevuse kasutus. Soovitatav on, et suremiseelne tegevus oleks lihtne ja otsene ülesanne. Viimaste sõnade lausumine teisele tegelasele on suremiseelne tegevus ja nõuab iga asjakohase teabe kohta edukat Luck-viset.
 > 
-> Kui surev löök on tehtud või surev toiming sooritatud, lahkub tegelane viivitamatult, olles täitnud oma viimase kohuse maailmas. Sellisel juhul võib mängujuht otsustada, et meditsiiniline tähelepanu pärast seda ebaõnnestub automaatselt. Surev löök oli viimane nurgakivi kangelaslikule surmale või kurikaelalikule lõpule.
+> Kui suremiseelne hoop on antud või tegevus sooritatud, lahkub tegelane viivitamatult siitilmast, olles täitnud oma viimase kohustuse. Sellisel juhul võib mängujuht otsustada, et hilisem arstiabi ebaõnnestub automaatselt. Suremiseelne hoop oli kangelasliku surma või kurikaelaliku lõpu viimane akord.
 > 
-> See süsteem asendab **Meeleheitliku toimingu** punktireegli.
+> See süsteem asendab **Meeleheitliku tegevuse** erireegli.
 
 ## Soomus
 
-Soomus on traditsiooniliselt riietus, mis on piisavalt paks ja vastupidav, et rünnaku eest kaitsta. Ajalooliselt tehti seda nahast, luust, puidust ja perioodile vastavast metallist. Kaasaegses maailmas on soomus valmistatud keraamilistest ja ballistilistest kiududest, kergetest metallidest ja muudest vastupidavatest plastipõhistest ainetest ning tulevikuajastutel tehakse soomust tõenäoliselt sarnastest kõrgtehnoloogilistest materjalidest või isegi energiapõhisest kaitsest. Kuigi selle kandmine võib põhjustada väsimust, ei vaja tavapärane soomus kasutamiseks oskuse veeretamist ega pingutust. Kui rünnakut ei tõrjuta ega sellest ei põigelda, on soomus kõik, mis seisab sinu tegelase ja vigastuse vahel.
+Soomus on traditsiooniliselt riietus, mis on piisavalt paks ja vastupidav, et kaitsta rünnaku eest. Ajalooliselt valmistati seda nahast, luust, puidust ja ajastule vastavast metallist. Tänapäeva maailmas valmistatakse soomust keraamikast ja ballistilistest kiududest, kergetest metallidest ja muudest vastupidavatest plastipõhistest ainetest ning tulevikuajastutel valmistatakse soomust tõenäoliselt sarnastest kõrgtehnoloogilistest materjalidest või isegi energiapõhisest kaitsest. Kuigi selle kandmine võib põhjustada väsimust, ei vaja tavaline soomus kasutamiseks oskuse viset ega pingutust. Kui rünnakut ei parry'da ega Dodge'ita, on soomus kõik, mis seisab sinu tegelase ja vigastuse vahel.
 
-Soomuse kõige olulisem aspekt on selle **soomuse väärtus (AV)**. Mida kõrgem on soomuse väärtus, seda paremini kaitseb see kandjat. Soomuse väärtus lahutatakse eduka rünnaku tekitatud kahjust. Rünnaku ohvril eemaldatakse ülejäänud kahju nende löögipunktidest. Kui tulemus pärast soomuse väärtuse lahutamist on 0 või negatiivne arv, kahju ei teki.
+Soomuse kõige olulisem aspekt on selle **soomusväärtus (AV)**. Mida kõrgem on soomusväärtus, seda paremini see kandjat kaitseb. Soomusväärtus lahutatakse eduka rünnaku põhjustatud kahjust. Rünnaku sihtmärgi elupunktidest eemaldatakse ülejäänud kahju. Kui pärast soomusväärtuse lahutamist on tulemus 0 või negatiivne arv, kahju ei teki.
 
-Teatud tüüpi soomuseid saab suurema tõhususe saavutamiseks üksteise peale kihtidena kanda. Kui kasutatakse ka kilpe, ei pruugi edukast kilbitõrjumisest piisata löögi peatamiseks ja rünnaku kahju võib potentsiaalselt läbida kilbi soomuse väärtuse ja jõuda selle kandjani. Sellistel juhtudel lahutatakse nii kilbi kui ka soomuse väärtused enne, kui tõrjuv tegelane kahju saab.
+Mõnda tüüpi soomuseid saab suurema tõhususe saavutamiseks üksteise peale kihistada. Kui kasutatakse ka kilpe, ei pruugi edukas kilbiga parry'mine olla piisav hoobi peatamiseks ja rünnaku kahju võib potentsiaalselt läbida kilbi soomusväärtuse ja jõuda selle kandjani. Sellistel juhtudel lahutatakse nii kilbi kui ka soomuse väärtused enne, kui parry'v tegelane kahju saab.
 
 ### Soomuse puudused
 
-Vaatamata kõigile eelistele on soomuse kandmisel ka negatiivseid aspekte. Järgnevad on kõige olulisemad, kuigi mängujuht võib soovida mõnda rohkem rõhutada, teisi vähem rõhutada või isegi tutvustada uusi tingimusi vastavalt keskkonnale:
+Vaatamata kõigile eelistele on soomuse kandmisel negatiivseid aspekte. Järgnevad on kõige olulisemad, kuigi mängujuht võib soovida mõnda rohkem rõhutada, mõnda vähendada või isegi tutvustada uusi tingimusi sõltuvalt keskkonnast:
 
-* **Oskuste karistused:** Soomus võib pärssida teatud oskusi, eriti füüsilise oskuste grupi oskusi, nagu Ronimine, Hüppamine, Hiilimine ja Ujumine. Lisaks võib kiivri kandmine piirata teatud Tajumise oskusi. Mõned soomuste kirjeldused 8. peatükis: Varustus sisaldavad negatiivseid modifikaatoreid nendele oskustele. Relvaoskusi soomuse kandmine ei mõjuta, kuna soomus on meisterdatud spetsiaalselt võitluses kasutamiseks.
+* **Oskuste karistused:** Soomus võib pärssida teatud oskusi, eriti füüsiliste oskuste grupi oskusi nagu ronimine (Climb), hüppamine (Jump), hiilimine (Stealth) ja ujumine (Swim). Lisaks võib kiivri kandmine piirata teatud tajuoskusi (Perception). Mõned soomuste kirjeldused kaheksandas peatükis: Varustus sisaldavad nende oskuste negatiivseid muudatusi. Soomuse kandmine ei mõjuta relvaoskusi, kuna soomus on spetsiaalselt valmistatud võitluses kasutamiseks.
 
-* **Füüsiline ebamugavus:** Soomus on raske, ebamugav ja jäik või vähemalt rohkem kui tavaline riietus, ja soomuse kaal võib väsitada ja/või koormata selle kandjat. Väsimus ja koormatus hõlmavad kohmakust või väsimust soomuse kandmisest. Kõrbe- või muudes kuumades keskkondades võib soomus olla veelgi ebamugavam (vt **Külm, kokkupuude, nälg ja janu** ja **Tuli ja kuumus**).
+* **Füüsiline ebamugavus:** Soomus on raske, ebamugav ja paindumatu – või vähemalt rohkem kui tavalised riided –, ja soomuse kaal võib kandjat kurnata ja/või koormata. Väsimus ja koormus hõlmavad kohmakust või soomuse kandmisest tulenevat väsimust. Kõrbes või muudes kuumades keskkondades võib soomus olla veelgi ebamugavam (vaata **Külm, kokkupuude, nälg ja janu** ning **Tuli ja kuumus**).
 
-* **Sotsiaalsed küsimused:** Paljusid soomustüüpe on raske varjata ja neid võib paljudes ühiskondades või kultuurides tõlgendada vaenulikuna. Mõned suhtlemisoskused võivad olukorrast sõltuvalt muutuda raskeks, kuna sageli on raske kedagi veenda või manipuleerida, kui näed välja, nagu oleksid vägivallaks valmis. Muud suhtlemisoskused võivad samal põhjusel muutuda lihtsaks. Neid olukordi peaks hindama mängujuht.
+* **Sotsiaalsed probleemid:** Paljusid soomusetüüpe on raske varjata ja neid võidakse paljudes ühiskondades või kultuurides tõlgendada vaenulikena. Mõned suhtlemisoskused (Communication) võivad olukorrast sõltuvalt muutuda raskeks (Difficult), kuna sageli on raske kedagi veenda või manipuleerida, kui jätad mulje, et oled valmis vägivallaks. Teised suhtlemisoskused võivad samal põhjusel muutuda lihtsaks (Easy). Neid olukordi peaks hindama mängujuht.
 
-* **Kättesaadavus:** Kaks muud praktilist aspekti piiravad soomuse kasutamist mängukeskkonnas: soomuse kättesaadavus ja see, kas see sobib. Kättesaadavust peaks hindama mängujuht ja see peaks põhinema keskkonnal. Näiteks võib kvaliteetne soomussärk olla kallis, kuid suhteliselt kergesti hangitav keskaegses ajaloolises keskkonnas, samas kui praktilist ja kasutatavat soomussärki võib olla peaaegu võimatu leida eelajaloolises või kauges tuleviku keskkonnas. Mõnes keskkonnas võib kättesaadavus tunduda piiramatu (näiteks kaasaegne maailm) ja juurdepääs tegelikule soomusele võib olla sama lihtne kui veebist tellimine. Tõenäosus, et soomus on piisavalt kvaliteetne võitlusele vastu pidama, pole aga garanteeritud ja kohaletoimetamist võivad piirata piirkondlikud seadused ja määrused.
+* **Kättesaadavus:** Kaks muud praktilist aspekti piiravad soomuse kasutamist mängukeskkonnas: soomuse kättesaadavus ja see, kas see sobib. Kättesaadavust peaks hindama mängujuht ja see peaks põhinema keskkonnal. Näiteks kvaliteetne rõngassärk võib olla kallis, kuid keskaegses ajaloolises keskkonnas suhteliselt hõlpsasti hangitav, samas kui praktilist ja kasutatavat rõngassärki võib olla eelajaloolises või kauge tuleviku keskkonnas peaaegu võimatu leida. Mõnes keskkonnas võib kättesaadavus tunduda piiramatuna (näiteks tänapäeva maailmas) ja tegelik soomus võib olla sama lihtne hankida kui veebitellimus. Siiski pole garanteeritud, et soomus on piisavalt kvaliteetne võitlusele vastu pidamiseks, ja tarne võib olla piiratud piirkondlike seaduste ja määrustega.
 
-*8. peatükk: Varustus* hõlmab kõiki soomuse spetsiifilisi eeliseid ja puudusi ning pakub näiteid paljudest soomustüüpidest, alates toornahast tuunikatest kuni isiklike jõuväljadeni. Lisaks võivad mitmed võimed sinu tegelase soomuse väärtust muuta. Neid arutatakse *4. peatükis: Võimed*.
+*Kaheksas peatükk: Varustus* käsitleb kõiki soomuste konkreetseid eeliseid ja puudusi ning toob näiteid paljudest soomusetüüpidest, alates toornahast tuunikatest kuni isiklike jõuväljadeni. Lisaks võivad mitmed võimed muuta sinu tegelase soomusväärtust. Neid arutatakse *neljandas peatükis: Võimed*.
 
-### Soomus ja SIZ
+### Soomus ja SUU
 
-Lõpuks, mitte kõiki soomuseid ei saa igaüks kasutada. Soomus on tavaliselt hinnatud selle SIZ-i järgi, mille jaoks see on meisterdatud, kusjuures kõige mugavam soomus on kõige liibuvam. Vaba ja halvasti istuv soomus on sama kohmakas kanda kui liiga pingul soomus. Igal soomustüübil on „Sobib SIZ” hinnang, mida väljendatakse ±-ga, mis määrab tegelase SIZ-i vahemiku üle ja alla konkreetse soomuse vaikimisi SIZ-i. Eeldusel, et tegelane omab või ostab soomuse, mis sobib tema enda SIZ-ile, kui valik on olemas. Kui sinu tegelase SIZ jääb väljapoole soomuse SIZ-i vahemikku, ei saa soomust kanda.
+Lõpuks, mitte iga soomus ei ole kõigile kasutatav. Soomus on tavaliselt hinnatud SUU järgi, mille jaoks see valmistati, kusjuures kõige mugavam soomus on kõige kehasse hoidvam. Lahtine ja halvasti istuv soomus on sama ebamugav kanda kui liiga kitsas soomus. Igal soomusetüübil on „Sobiv SUU“ väärtus, väljendatuna ± kujul, mis määrab tegelase SUU vahemiku üle ja alla konkreetse soomuse vaikimisi SUU. Eeldusel, et tegelane omab või ostab oma SUU-le sobiva soomuse, kui valik on olemas. Kui tegelase SUU jääb väljapoole soomuse SUU vahemikku, ei saa soomust kanda.
 
-Üldiselt, mida kõrgem on soomuse väärtus, seda vähem tõenäoline on, et see sobib teise SIZ-iga tegelasele. Kui sinu tegelasel on äärmuslik SIZ ühes või teises suunas (alla 8 või üle 16), ei pruugi nad suuta kanda palju „poest ostetud” soomuseid (kui neid on olemas) ja nad on sunnitud maksma rohkem eritellimusel valmistatud soomuse eest või otsima muid kaitsevarustuse allikaid.
+Üldiselt, mida kõrgem on soomusväärtus, seda väiksem on tõenäosus, et see sobib teise SUU-ga tegelasele. Kui sinu tegelase SUU on ühes või teises suunas äärmuslik (alla 8 või üle 16), ei pruugi ta suuta kanda palju „poest valmistooteid“ (kui neid on) ja ta võib olla sunnitud maksma rohkem eritellimusel valmistatud soomuse eest või otsima alternatiivseid kaitserelvastuse allikaid.
 
 ### Kilbid
 
-Kõige lihtsam on kilpi mõelda kui relva, mille peamine eesmärk on liikuda sinu tegelase ja ründaja vahele. Kilbid ei kata kogu keha, kuid on nii kergemad kui kehasoomus ning palju odavamad ja kergemini hallatavad. Kilbid ei kaota tavaliselt löögipunkte, kui neid tabavad tavalised löögid, ja neid pole kuigi lihtne kaitsja haardest välja lüüa. Tavaliselt kahjustavad kilpi ainult võimsad löögid (erilised õnnestumised või paremad) ja ainus viis seda kaotada on äpardumine.
+Kõige lihtsam on kilpi vaadelda kui relva, mille peamine eesmärk on liikuda sinu tegelase ja ründaja vahele. Kilbid ei kata kogu keha, kuid on nii kergemad kui ihusoomus ning palju odavamad ja hõlpsamini käsitsetavad. Kilbid ei kaota tavaliselt elupunkte, kui neid tabavad tavalised löögid, ja neid pole kuigi lihtne kaitsja käest lüüa. Tavaliselt kahjustavad kilpi vaid võimsad löögid (erilised õnnestumised või paremad) ja ainus viis see kaotada on fumble.
 
-Erinevaid kilbitüüpe kirjeldatakse 8. peatükis: Varustus. Erinevalt relvatüüpidest kasutavad kõik kilbid sama Kilbi oskust ja sama oskuse tase kehtib mis tahes kasutatava kilbi kohta. Sinu tegelane tõrjub lähivõitlusrünnakuid oma kilbiga samamoodi nagu käsi-relvaga. Kaugvõitlusrelvade vastu on pool- või väikesel kilbil baas-15% võimalus kaugvõitlust blokeerida, täiskilbil on 30% võimalus ja suurel kilbil 60%. Kui sinu tegelane põlvitab selle taha, on täiskilbil 60% võimalus kaugvõitlust blokeerida ja suur kilp pakub 90% võimalust. Neid väärtusi kasutatakse sinu tegelase oskuse taseme asemel. Vt **Kaugvõitlusrelvad** ja **Kilbid ja kaugvõitlus**.
+Erinevaid kilbiliike on kirjeldatud kaheksandas peatükis: Varustus. Erinevalt relvaliikidest kasutavad kõik kilbid sama Shield-oskust ja sama oskustase kehtib igale kasutatavale kilbile. Sinu tegelane parry'b lähivõitlusrünnakuid kilbiga täpselt samamoodi nagu lähivõitlusrelvaga. Kaugrelvade vastu on poolkilbil või väikesel kilbil baasvõimalus 15% kaugrelva blokeerimiseks, täiskilbil 30% ja suurel kilbil 60%. Kui su tegelane põlvitab selle taga, on täiskilbil 60% võimalus blokeerida kaugrelv ja suurel kilbil 90% võimalus. Neid väärtusi kasutatakse sinu tegelase oskustaseme asemel. Vaata **Kaugrelvad** ja **Kilbid ja kaugrelvade tuli**.
 
-Enamikus olukordades ei saa kilbid tõhusalt tõrjuda äärmiselt kiireid kaugvõitlusrelvi, nagu tulirelvad või energiirelvad, ja neil on piiratud kasutamine käsitsi juhitavate relvade, nagu nooled, lingukivid ja odad, vastu. Sellistel juhtudel asendatakse sinu tegelase oskuse tase vaikimisi võimalusega, kuid kui see on lubatud, vt **Kaugvõitlusrelvade vastu põiklemine**.
+Enamikus olukordades ei saa kilbid tõhusalt parry'da äärmiselt kiireid kaugrelvi, nagu tulirelvi või energiarelvi, ja neil on piiratud kasutus käega heidetavate relvade nagu noolte, lingukivide ja odade vastu. Sellistel juhtudel asendatakse sinu tegelase oskus vaikevõimalusega, kuid kui see on lubatud, vaata **Kaugrelvade eest põiklemine**.
 
-Sinu tegelane võib kasutada kilpi ka vastase ründamiseks. Võimalus on sama mis sinu tegelase Kilbi oskuse tase, kuna kilbiõpetus hõlmab tavaliselt nii ründavat kui ka kaitsvat kasutamist. Kilbid kasutavad erilise õnnestumisena tavaliselt tagasilööki, kuigi mõnel kilbitüübil on ogad ja need võivad kasutada läbistava erilise õnnestumise tüüpe.
+Sinu tegelane saab kasutada kilpi ka vastase ründamiseks. Võimalus on sama, mis sinu tegelase Shield-oskustase, kuna kilbitreening sisaldab tavaliselt nii ründavat kui ka kaitsvat kasutamist. Kilbid kasutavad erilise õnnestumisena tavaliselt tagasilööki (knockback), kuigi mõned kilbitüübid on ogadega ja võivad kasutada läbistavaid (impaling) erilisi õnnestumisi.
 
-Kui ründaja soovib hävitada vastase tõrjerelva või kilpi, peaks ta rünnaku sooritama tavapäraselt. Kui sihtmärk ei proovi tõrjuda, on rünnak **Sihtrühmaga rünnak**. Kui rünnak on edukas ja see tõrjutakse edukalt või kui rünnak tabab edukalt kilpi sihtrühmaga rünnakuna, veeretatakse kahju tavapäraselt (modifitseerituna, kui tegemist on erilise või kriitilise õnnestumisega). Kilbi soomuse väärtus lahutatakse tekitatud kahjust. Kogu liigne kahju tekitatakse kilbile. Kui kilbi löögipunktid vähenevad 0-ni, tabab ülejäänud kahju kaitsjat. Soomus kaitseb selle eest ja kui kasutatakse valikulist tabamiskohtade süsteemi, tekitatakse kahju kaitsja relva- või kilbikäele.
+Kui ründaja soovib hävitada vastase parry'vat relva või kilpi, peaks ta ründama nagu tavaliselt. Kui sihtmärk ei proovi parry'da, on rünnak **Sihtrüni**. Kui rünnak on edukas ja see parry'takse edukalt, või kui rünnak tabab edukalt kilpi sihtrünnakuna, veeretatakse kahju tavapäraselt (muudetuna, kui tegemist on erilise või kriitilise õnnestumisega). Kahjust lahutatakse kilbi soomusväärtus. Ülejäänud kahju tehakse kilbile. Kui kilbi elupunktid vähenevad 0-ni, tabab ülejäänud kahju kaitsjat. Soomus kaitseb selle vastu ja kui kasutatakse valikulist tabamiskohtade süsteemi, tabab kahju kaitsja relva- või kilbikätt.
 
-> ### Juhuslikud soomuse väärtused (Valik)
+> ### Juhuslikud soomusväärtused (valikuline)
 > 
-> Mõnikord on soomus ebausaldusväärne ja ei pruugi sinu tegelast usaldusväärselt kaitsta iga kord, kui teda võitluses tabatakse. Soomusel on lüngad, tühimikud, mis on vähem soomustatud, ja mõned osad sinu tegelase kehast ei pruugi üldse soomustatud olla. Fikseeritud soomuse väärtuse asemel simuleerib juhuslik soomuse väärtus seda ettearvamatust täringuvahemikuga, mida veeretatakse alati, kui rünnak, mis teeks kahju, sinu tegelast edukalt tabab. See juhuslikult määratud soomuse väärtus veeretatakse ja lahutatakse igast saadud kahjust. Soomuse väärtust veeretatakse iga sinu tegelast tabava rünnaku jaoks eraldi, isegi samas voorus. *8. peatükk: Varustus* hõlmab soomust üksikasjalikult ja pakub vahemikke juhuslikele soomuse väärtustele. Juhuslikku soomuse väärtust kasutavates mängudes on soovitatav, et soomus oleks üldine, mitte tabamiskohaspetsiifiline, et minimeerida raamatupidamist koha kohta.
+> Mõnikord on soomus ebausaldusväärne ega pruugi sinu tegelast igal võitluses tabatud korral kindlalt kaitsta. Soomustel on tühimikud, kohad, mis on vähem soomustatud, ja mõned osad sinu tegelase kehast ei pruugi üldse soomustatud olla. Fikseeritud soomusväärtuse asemel simuleerib juhuslik soomusväärtus seda ettearvamatust täringuvahemikuga, mida veeretatakse alati, kui rünnak, mis teeks kahju, tabab edukalt sinu tegelast. See juhuslikult määratud soomusväärtus veeretatakse ja lahutatakse igast saadud kahjust. Soomusväärtust veeretatakse eraldi iga sinu tegelast tabava rünnaku puhul, isegi samas voorus. *Kaheksas peatükk: Varustus* käsitleb soomust üksikasjalikult ja pakub vahemikke juhuslikele soomusväärtustele. Juhuslikku soomusväärtust kasutavates mängudes on soovitatav, et soomus oleks üldine, mitte tabamiskohapõhine, et vähendada arvepidamist iga koha kohta.
 
-## Kaugvõitlusrelvad
+## Kaugrelvad
 
-Relv, mis sihtmärgi poole visatakse või heidetakse, on **kaugvõitlusrelv**. See hõlmab odasid, kive, viskepistodasid, bumerange, nooli või isegi väikesi kirveid. Relvad, mis kasutavad mingit mehhanismi, et projitseerida kahju tekitav element sihtmärgi suunas, sealhulgas tulirelvad, vibud, katapuldid ja isegi energiirelvad, on samuti kaugvõitlusrelvad.
+Relv, mis tulistatakse või heidetakse sihtmärgi pihta, on **kaugrelv**. See hõlmab viskeodasid, kive, heitenuge, bumerange, nooli või isegi kirveid. Relvad, mis kasutavad mingit mehhanismi kahju tekitava elemendi projitseerimiseks sihtmärgile, sealhulgas tulirelvad, vibud, katapuldid ja isegi energiarelvad, on samuti kaugrelvad.
 
-Kaugvõitlusrelvi kirjeldatakse 8. peatükis: Varustus. Mõned kaugvõitlusrelvade liigid, nagu vibud ja ambud, ründavad aeglasemas tempos, kui sinu tegelane suudab lähivõitlusrelva viibutada, samas kui tulirelvad ja muud iseliikuvad relvad ründavad sageli kiiremas tempos. Rünnakute arv voorus (Attk) veerg relvatabelites näitab, kui sageli saab iga kaugvõitlusrelva tüübiga rünnakuid teha. Suurendatud tuletempo (kõrgem rünnakute arv voorus) jaoks vt **Valanguline tuli**.
+Kaugrelvi kirjeldatakse kaheksandas peatükis: Varustus. Mõnda liiki kaugrelvad, nagu vibud ja ambud, ründavad aeglasemalt, kui sinu tegelane suudab lähivõitlusrelvaga vehkida, samas kui tulirelvad ja muud ise liikuvad relvad ründavad sageli kiiremini. Relvatabelite rünnakute-voorus (Attk) veerg näitab, kui sageli saab iga kaugrelvatüübiga rünnakuid teha. Suurema tulekiiruse (kõrgem rünnakute arv voorus) kohta vaata **Valangutuli**.
 
-Järgnevad on kaugvõitlusrelvade ulatuse modifikaatorid:
+Järgnevalt on toodud kaugrelvade kauguse muudatused:
 
-* **Punktblank:** Kui sihtmärk on ründaja DEX/3 meetri piires (ümardada ülespoole) (isegi kui sihtmärk on pikali), on oskus Lihtne.
+* **Punktmärk:** Kui sihtmärk on ründaja OSA/3 meetri kaugusel (ümardada ülespoole) (isegi kui sihtmärk on pikali), on oskus lihtne (Easy).
 
-* **Normaalne ulatus:** Modifitseerimata, kui sihtmärk on relva standardse loetletud ulatuse piires.
+* **Normaalne kaugus:** Muutmata, kui sihtmärk on relva standardse loetletud kauguse piires.
 
-* **Keskmine ulatus:** Kui sihtmärk on relva standardse loetletud ulatuse kahekordsel kaugusel, on rünnak Raske.
+* **Keskmine kaugus:** Kui sihtmärk on relva standardse loetletud kauguse kahekordsel kaugusel, on rünnak raske (Difficult).
 
-* **Pikk ulatus:** Kui sihtmärk on relva standardse loetletud ulatuse neljakordsel kaugusel, on rünnak 1/5 normaalsest oskuse võimalusest (vastab erilisele õnnestumisele, kuid kui veeretatakse, on tulemus tavaline õnnestumine).
+* **Pikk kaugus:** Kui sihtmärk on relva standardse loetletud kauguse neljakordsel kaugusel, on see 1/5 tavalisest oskuse võimalusest (vastab erilisele õnnestumisele, kuid kui see veeretatakse, on tulemus normaalne õnnestumine).
 
 * **Kiiresti liikuv sihtmärk:** –50%
 
-* **Raske nägemine:** Kerged varjud –10%, kerge udu –25%, pimeduses on oskused Rasked (vt **Pimedus**).
+* **Raske nähtavus:** Kerged varjud –10%, kerge udu –25%, pimeduses on oskused rasked (Difficult) (vaata **Pimedus**).
 
-* **Varjamine:** Kui sihtmärk on kaetud või osaliselt varjatud, on oskused Rasked (vt **Kaitse**).
+* **Varjamine:** Kui sihtmärk on kaetud või osaliselt varjatud, on oskused rasked (Difficult) (vaata **Kate**).
 
-* **Pikali kaugusel:** Kui sihtmärk on pikali kaugusel, mis on suurem kui ründaja DEX/3 meetrit (ümardada ülespoole), on rünnak Raske.
+* **Pikali distantsil:** Kui sihtmärk on pikali kaugusel, mis on suurem kui ründaja OSA/3 meetrit (ümardada ülespoole), on rünnak raske (Difficult).
 
-* **Sihtimisseadmed:** Kaugmaa-prillide, sihikute, lasersihikute või muu sihtimissüsteemi kasutamine jagab ulatuse modifikaatoreid 1/2-ga, kui sihtimiseks võetakse üks võitlusvoor.
+* **Sihtimisseadmed:** Pikkade vahemaade binokli, sihiku, lasersihiku või muu sihtimissüsteemi kasutamine jagab kauguse muudatused 1/2-ga, kui sihtimiseks võetakse üks võitlusvoor.
 
-* **Tugi:** Kui relv kasutab fikseeritud tuge (kahvlijalg või statiiv, suspensor-tross jne), lisa +40% esimesele rünnakule, kui sihtimiseks võetakse üks voor, seejärel +20% järgnevatele voorudele.
+* **Tugi:** Kui relv kasutab fikseeritud tuge (karkassi või statiivi, rihma jne), lisa +40% esimesele rünnakule, kui sihtimiseks võetakse üks voor, ja seejärel +20% järgmistele voorudele.
 
-Kaugvõitlustuld ei saa üldiselt käsi-relvadega põigelda ega tõrjuda. Ainus kaitsemeetod kaugvõitlustule vastu on tõrjumine kilbiga, kui kaugvõitlusrelv on piisavalt aeglane, et seda lennu ajal näha. Tulirelvad ja muud projektilid on selleks liiga kiired, samas kui nooli, viskeodasid ja muid käsitsi juhitavaid relvi saab kõiki kilbiga tõrjuda (vt **Kilbid ja kaugvõitlus**). Kui kasutad valikulist reeglit kaugvõitlustule vastu põiklemiseks ja tõrjumiseks ilma piirangute või takistusteta, vt **Kaugvõitlusrelvade vastu põiklemine**.
+Kaugrelvade tuld ei saa üldjuhul Dodge'ida ega parry'da lähivõitlusrelvadega. Ainus viis kaitseks kaugrelvade tule vastu on parry'da kilbiga, kui kaugrelva on lennu ajal võimalik näha. Tulirelvad ja muud mürsud on selleks liiga kiired, samas kui nooli, viskeodasid ja muid käega heidetavaid relvi saab kilbiga parry'da (vaata **Kilbid ja kaugrelvade tuli**). Kui kasutad valikulist reeglit kaugrelvade tule eest põiklemiseks ja parry'miseks ilma piirangute ja takistusteta, vaata **Kaugrelvade eest põiklemine**.
 
-## Kahju ja ravimine
+## Kahju ja tervenemine
 
-Löögipunktid mõõdavad vigastuste hulka, mida sinu tegelane suudab kanda ja üle elada. Kui sinu tegelane kaotab vigastuste tõttu löögipunktid, nimetatakse seda **kahjuks**. Sa alustad löögipunktidega, mis põhinevad sinu CON- ja SIZ-tunnustel, ja neid vähendatakse saadud kahju võrra. Haavad või muud vigastused, mürgid, haigused ja muud rünnakuliigid võivad sinu tegelaselt võtta löögipunkte kahjuna. Peaksid maha kriipsutama kaotatud löögipunktid tegelaslehel näidatud praegusest löögipunktide koguarvust, pidades iga vigastuse kohta eraldi arvestust. Või ringita praegune summa vastavalt igale kaotusele.
+Elupunktid mõõdavad vigastuste hulka, mida sinu tegelane suudab kanda ja ellu jääda. Kui sinu tegelane kaotab vigastuste tõttu elupunkte, nimetatakse seda **kahjuks**. Alustad elupunktidega, mis põhinevad sinu VAS- ja SUU-karakteristikutel, ning neid vähendatakse saadud kahju võrra. Haavad või muud vigastused, mürgid, haigused ja muud rünnakuvormid võivad sinu tegelaselt kahjuga elupunkte nõuda. Peaksid oma tegelaslehel olevast elupunktide kogusummast kaotatud elupunktid maha kriipsutama, pidades igal vigastusel eraldi arvet. Või ringita praegune summa iga kaotuse põhjal.
 
-Mürk ja haigus on erilised vigastuste liigid; nad võivad rünnata juhuslikult ja nende mõju võib olla viivitatud. Mõned maksavad löögipunkte, samas kui teised sihivad tunnuste punkte või neil on muid efekte. Esmaabi ja Meditsiini oskused võivad leevendada või ravida väiksemaid haavu ja vigastusi. Mitmesugused võimed ja varustus võivad samuti tegelastele löögipunkte taastada.
+Mürk ja haigus on erilist tüüpi vigastused; need võivad rünnata juhuslikult ja nende mõju võib olla edasi lükatud. Mõned nõuavad elupunkte, teised sihivad karakteristikupunkte või neil on muid mõjusid. Esmaabi (First Aid) ja Meditsiini (Medicine) oskused võivad vähendada või ravida kergeid haavu ja vigastusi. Mitmesugused võimed ja varustus võivad samuti tegelastele elupunkte taastada.
 
-Haavad klassifitseeritakse **väikesteks**, **suurteks** või **surmavateks** ja neid kirjeldatakse allpool.
+Haavad klassifitseeritakse **kergeteks**, **rasketeks** või **surmavateks** ja neid kirjeldatakse allpool.
 
-### Väikesed haavad
+### Kerged haavad
 
-**Väike haav** on üks haav, mis maksab sinu tegelasele kuni poole nende löögipunktide koguarvust. Seda võib kujutada kui lõiget, nikastust, kerget mürgistust, väikest murdu või pragu, kerget põrutust või kui haava, mis peagi sulgub. Väikesed haavad ei pärsi DEX-i ega mõjuta sinu tegelase võimet mõelda ja võidelda.
+**Kerge haav** on üks haav, mis nõuab sinu tegelaselt kuni poole tema elupunktide koguarvust. Seda võib kujutada kui lõikehaava, nikastust, kerget mürgitust, väikest luumurdu, kerget põrutust või haava, mis peagi sulgub. Kerged haavad ei kahjusta OSA-d ega mõjuta sinu tegelase võimet mõelda ja võidelda.
 
-Sinu tegelane võib samal päeval saada mitu väikest haava. Kui kaotatud löögipunktide koguarv on võrdne suure haava summaga, peab sinu tegelane tegema eduka Õnne veeretuse, vastasel juhul langevad nad teadvusetuks. See ei tähenda, et väikeste haavade kogusumma põhjustab suure haava: ära veereta **Suurte haavade tabelil** mitme väikese haava puhul. See tähendab, et sinu tegelane on kannatanud suure haava ekvivalendi all, kuid talle pole tegelikult ühtegi tekitatud. Lisaks, kui sinu tegelane kannatab väikeste haavade all piisavalt, et vähendada neid 1 või 2 löögipunktini, uimastab see nad kuni tunniks. Iga väike haav on eraldi haav ja seda saab meditsiinilise raviga eraldi käsitleda, nagu on kirjeldatud peatükis **Ravimine**.
+Sinu tegelane võib ühe päeva jooksul saada mitu kerget haava. Kui kaotatud elupunktide summa võrdub raske haava summaga, peab sinu tegelane tegema eduka Luck-viske, vastasel juhul kaotab ta teadvuse. See ei tähenda, et kergete haavade summa põhjustab raske haava: ära veereta **Raskete haavade tabelit** mitme kerge haava korral. See tähendab, et sinu tegelane on kannatanud raskele haavale vastavat kahju, kuid talle ei ole tegelikult ühte tekitatud. Lisaks, kui sinu tegelane saab kergeid haavu piisavalt, et vähendada tema elupunktid 1 või 2-ni, lükkab see ta kuni tunniks ajaks teadvusetuks. Iga kerge haav on eraldi haav ja seda saab meditsiinilise raviga eraldi käsitleda, nagu kirjeldatud jaotises **Tervenemine**.
 
-### Suured haavad
+### Rasked haavad
 
-Kui sinu tegelane on saanud vigastuse, mis on võrdne või suurem kui pool tegelase löögipunktide koguarvust, on ta kannatanud **suure haava**. Suure haava saamine riskib püsiva vigastuse kannatamisega. Kui sinu tegelane saab suure haava, veereta **Suurte haavade tabelil** või vali kohane tulemus, kui kasutatakse tabamiskohti. Nagu on märgitud peatükis **Tabamiskohad**, on suured haavad ühildamatud tabamiskohtadega ilma märkimisväärse mängujuhi tõlgendamiseta.
+Kui sinu tegelane on saanud vigastuse, mis on võrdne või suurem kui pool tegelase elupunktide koguarvust, on ta saanud **raske haava**. Raske haava saamine tekitab püsiva vigastuse riski. Kui sinu tegelane saab raske haava, veereta **Raskete haavade tabelit** või vali sobiv tulemus, kui kasutatakse tabamiskohti. Nagu märgitud jaotises **Tabamiskohad**, ei ühildu rasked haavad tabamiskohtadega ilma mängujuhi märkimisväärse tõlgendamiseta.
 
-Suure haava mõju on viivitamatu. Sõltuvalt sinu tegelase haavade raskusastmest ei pruugi nad pärast vigastuse vooru võidelda. Lisateavet selle kohta leiate **Suurte haavade tabelist**.
+Raske haava mõju on kohene. Sõltuvalt sinu tegelase haavade raskusastmest ei pruugi ta pärast vigastusvooru enam võidelda suuta. Vaata **Raskete haavade tabelit** lisateabe saamiseks.
 
-Kuigi sinu tegelane võib ikkagi suuta võidelda või on saanud mingisugust viivitamatut meditsiinilist tähelepanu, kui nad on kannatanud suure haava all, lähevad nad šokki. Seetõttu saab sinu tegelane võidelda ainult nii palju võitlusvoore, kui on nende praegused järelejäänud löögipunktid.
+Kuigi sinu tegelane võib ikkagi suuta võidelda või on saanud mingisugust kohest arstiabi, läheb ta raske haava saamisel šokki. Seetõttu saab sinu tegelane edasi võidelda vaid võitlusvoorude jooksul, mis on võrdne tema allesjäänud elupunktidega.
 
-***Näiteks,*** *kui sinu tegelane on saanud suure haava ja tal on jäänud 3 löögipunkti, langeb ta teadvusetuks kolme vooru pärast.*
+***Näiteks,*** *kui sinu tegelane on saanud raske haava ja tal on alles 3 elupunkti, kaotab ta kolme vooru pärast teadvuse.*
 
-Tegelane, kellel on pärast suure haava saamist jäänud 2 või vähem löögipunkti, vajub šoki ja verekaotuse tõttu viivitamatult kokku ning on teadvusetu tund aega. Mängujuhi jaoks pakub suure haava põhjustatud teadvusetus sageli turvalist viisi, kuidas mitte-mängijad saavad tegelased surnuks jätta või nad kinni püüda, selle asemel et neid otse tappa.
+Tegelane, kellel on pärast raske haava saamist 2 või vähem elupunkti, vajub šokist ja verekaotusest kohe kokku ja on tund aega teadvusetu. Mängujuhi jaoks pakub raske haava põhjustatud teadvusetus sageli mitte-mängijate tegelastele turvalist viisi tegelased surnuna maha jätta või nad kinni püüda, selle asemel, et nad kohe tappa.
 
-Suured haavad ja nende mõjud kehtivad nii mängijate kui ka mitte-mängijate tegelaste kohta, koos loomade, koletiste või muude olenditega. Need ei kehti varustuse, elutute objektide või muude olendite kohta, kellel pole standardset muskulatuuri (robotid, immateriaalsed, želatiinsed jne). Sellised olendid võivad kannatada struktuursete kahjustuste või operatiivsete raskuste all, kuid see sõltub mängujuhi äranägemisest.
+Rasked haavad ja nende mõjud kehtivad nii mängijate kui ka mitte-mängijate tegelaste kohta, samuti loomade, koletiste või muude olendite puhul. Need ei kehti varustuse, elutute objektide või muude olendite puhul, kellel puudub tavapärane lihaskond (robotid, immateriaalsed, želatiinsed jne). Sellised olendid võivad saada struktuurseid kahjustusi või operatiivseid raskusi, kuid see on mängujuhi otsustada.
 
-Kui sinu tegelane on kannatanud suure haava all, proovi viivitamatult Õnne veeretust. Kui see õnnestub, paraneb suur haav puhtalt ega põhjusta püsivat tunnuste punktide kaotust. Kui Õnne veeretamine ebaõnnestub, on vigastus või haav püsiv. Sinu tegelane kannatab täieliku haava all, nagu allpool kirjeldatud, lahutades märgitud tunnuste punktid.
+Kui sinu tegelane on saanud raske haava, proovi viivitamatult Luck-viset. Kui see õnnestub, paraneb raske haav puhtalt ega põhjusta püsivat karakteristikupunktide kaotust. Kui Luck-vise ebaõnnestub, on vigastus või haav püsiv. Sinu tegelane kannatab täieliku haava all, nagu allpool kirjeldatud, lahutades näidatud karakteristikupunktid.
 
-Igal vigastuse kirjeldusel on mitu põhjust või eripära, võimaldades mängujuhil valida olukorra jaoks kõige kohasema. Koolituse või muude vahendite kaudu saab sinu tegelane suurtest haavadest kaotatud tunnuste punkte tagasi võita, kuid säilitab tõenäoliselt märkimisväärse armi (kui see on kohaldatav). Kui suurest haavast tekkinud tunnuste punktide kaotus on tagasi võidetud, elimineeritakse suure haava mõjud. Kui sinu tegelane ei taasta kaotatud tunnuste punkte, on suure haava kehtestatud tunnuste kaotus püsiv. Peaksid viivitamatult ümber arvutama oma tegelase tunnuste veeretused, löögipunktid, kahju modifikaatori, väsimuspunktid jne uute tunnuste summadega.
+Igal vigastuse kirjeldusel on mitu põhjust või eripära, mis võimaldavad mängujuhil valida olukorrale kõige sobivama. Treeningu või muude vahendite kaudu saab sinu tegelane rasketest haavadest kaotatud karakteristikupunktid tagasi saada, kuid säilitab tõenäoliselt märkimisväärse armi (kui see on asjakohane). Kui raske haavaga tekitatud karakteristikupunktide kadu on taastatud, kõrvaldatakse kõik raske haava mõjud. Kui sinu tegelane ei taasta kaotatud karakteristikupunkti(e), on raske haava kehtestatud karakteristikute kadu püsiv. Peaksid viivitamatult ümber arvutama oma tegelase karakteristikute visked, elupunktid, kahjumuudatuse, väsimuspunktid jne uute karakteristikute summadega.
 
 Kui jäset pole täpsustatud, veereta 1D6: tulemus 1–3 on vasak, 4–6 on parem.
 
-##### Suurte haavade tabel
+##### Raskete haavade tabel
 
 | 1D100 | Tulemus |
 | :---- | :---- |
-| 01–10 | Katkestatud jalakõõlused põhjustavad lonkamist; sulandunud pahkluuluud põhjustavad lonkamist; seljalihaste või seljaaju närvikahjustus painutab torsot vasakule või paremale; purustatud põlv ei saa painduda; või mõtle välja uus haavaefekt. Kaota 1D3 DEX ja vähenda MOV sama võrra. Tegelane on endiselt võimeline võitlema. |
-| 11–20 | Suur osa ninast on ära lõigatud; mitmed armid rikuvad mõlemat kätt; kõrv on ära lõigatud; elav arm annab välimusele kurja ilme; või mõtle välja uus haavaefekt. Kaota 1D3 CHA. Nähtavat ja eemaletõukavat moonutust ei saa varjata. Tegelane on endiselt võimeline võitlema. |
-| 21–30 | Randme- või käekahjustus; käe- või õlalihasest on lõigatud tükk; reie- või säärelihastest on lõigatud tükk; seljaaju närvid on kahjustatud; mitu sõrme või varvast on ära lõigatud; või mõtle välja uus haavaefekt. Kaota 1D3 STR; see kaotus võib muuta kasutatavaid relvi. Tegelane on endiselt võimeline võitlema relvaga, kuid mitte kilbiga. |
-| 31–40 | Läbistatud kops viib nõrgenenud hingamissüsteemini; sügavad kõhuhaavad muutuvad krooniliselt uuesti nakatunuks või kõhuhaavad nõrgestavad seedimist ja üldist tervist; neerud ja maks on kahjustatud; või mõtle välja uus haavaefekt. Kaota 1D3 CON; vähenda MOV sama võrra ja löögipunktid võivad olla madalamad. Tegelane on endiselt võimeline võitlema. |
-| 41–50 | Põrutus kahjustab kuulmist ja piirab Kuulamise ja Sisevaate maksimumid 65%-ni; peavigastus nõuab edaspidi iga kord Õnne veeretusi, et kasutada mis tahes vaimseid oskusi; löögid või lõiked, mis mõjutavad sügavustaju, jätavad kaugvõitlusrelva oskuse tasemete maksimumiks 65%; mitmed haavad näkku ja kaela piiravad mis tahes suhtlemisoskuste tasemed maksimumiks 65%; või mõtle välja uus haavaefekt. Kaota 1D3 INT; see kaotus võib mõjutada tegelase võimet kasutada mis tahes võimeid, näiteks nõidust. Tegelane on endiselt võimeline võitlema. |
-| 51–60 | Viita 01–10, kuid laienenud ühe või mõlema käe või jala kaotuseni. Kaota 1D6 DEX ja vähenda maksimaalset MOV sama võrra. Tegelane ei ole võimeline võitlema. |
-| 61–70 | Viita 11–20, kuid suur haav hõlmab nüüd hullemaid moonutusi. Kaota 1D6 CHA; see tekitab ühe või mitu nähtavat moonutust, mida ei saa varjata. Tegelane on endiselt võimeline võitlema. |
-| 71–80 | Viita 21–30 moonutavate lõigete ja kaotuste näidetele. Kaota 1D6 STR, võib-olla kohandades kahju modifikaatorit. Tegelane on endiselt võimeline võitlema. |
-| 81–90 | Viita 31–40 elutähtsate organite erinevate haavade jaoks. Kaota 1D6 CON; võib mõjutada löögipunkte ja kahju modifikaatorit ning vähendab MOV võrdselt CON-i kaotusega. Tegelane ei ole võimeline võitlema. |
-| 91–92 | Halvad näo- ja häälepaelte vigastused. Kaota 1D6 CHA. Tegelane on endiselt võimeline võitlema. |
-| 93–94 | Luumurrud ja katkestatud ganglionid. Kaota 1D6 DEX; edaspidi saab tegelane kasutada ainult ühe käega lähivõitlusrelvi. Tegelane on endiselt võimeline võitlema oma järelejäänud käega. |
-| 95–96 | Närvikahjustus vasakule või paremale käele. Kaota 1D6 DEX; edaspidi saab sinu tegelane relvi või varustust kasutada ainult oma kahjustamata käes. Tegelane on endiselt võimeline võitlema oma järelejäänud käega. |
-| 97–98 | Närvikahjustus mõlemale käele. Kaota 1D6 DEX; kuigi jalad on korras, ei suuda käed ega sõrmed midagi käsitseda. Tegelane ei ole võimeline võitlema, välja arvatud jalgade või peaga löömine. |
-| 99 | Moonutatud julmade haavadega. Kaota 1D3 punkti igast CHA, DEX ja CON. Tegelane ei ole võimeline võitlema. |
-| 00 | Pärast kokkukukkumist tahtlikult moonutatud. Eemalda 1D4 punkti igast neljast tunnustest (mängujuhi äranägemisel). Tegelane ei ole võimeline võitlema. |
+| 01–10 | Katkenud jalakõõlused põhjustavad lonkamist; kokkukasvanud hüppeliigesed põhjustavad lonkamist; seljalihaste või seljaaju närvikahjustused painutavad torsot vasakule või paremale; purustatud põlve ei saa painutada; või mõtle välja uus haavamõju. Kaota 1D3 OSA ja vähenda MOV-i sama võrra. Tegelane on endiselt võimeline võitlema. |
+| 11–20 | Suur osa ninast on ära lõigatud; arvukad armid moonutavad mõlemat kätt; kõrv on ära lõigatud; elav arm annab välimusele kurjakuulutava ilme; või mõtle välja uus haavamõju. Kaota 1D3 KAR. Nähtavat ja ebameeldivat deformatsiooni ei saa varjata. Tegelane on endiselt võimeline võitlema. |
+| 21–30 | Randme- või käevigastus; käe- või õlalihasest on tükk ära lõigatud; reie- või säärelihastest on tükk raiutud; seljaaju närvid on kahjustatud; mitu sõrme või varvast on ära lõigatud; või mõtle välja uus haavamõju. Kaota 1D3 JÕU; see kadu võib muuta kasutatavate relvade valikut. Tegelane on endiselt võimeline võitlema relvaga, kuid mitte kilbiga. |
+| 31–40 | Läbistatud kops põhjustab nõrgestatud hingamissüsteemi; sügavad kõhuhaavad muutuvad krooniliselt nakatunuks või kõhuhaavad nõrgestavad seedimist ja üldist tervist; neerud ja maks on kahjustatud; või mõtle välja uus haavamõju. Kaota 1D3 VAS; vähenda MOV-i sama võrra ja elupunktid võivad väheneda. Tegelane on endiselt võimeline võitlema. |
+| 41–50 | Põrutus kahjustab kuulmist ja piirab kuulamist (Listen) ning taipamist (Insight) maksimumini 65%; peavigastused nõuavad edaspidi iga kord Luck-viset, et kasutada mistahes vaimseid oskusi; löögid või lõiked, mis mõjutavad sügavustaju, jätavad kaugrelva oskustasemed maksimumini 65%; mitmed näo- ja kaelahaavad piiravad kõiki suhtlemisoskusi maksimumini 65%; või mõtle välja uus haavamõju. Kaota 1D3 INT; see kadu võib mõjutada tegelase võimet kasutada mis tahes võimeid, näiteks nõidumist (sorcery). Tegelane on endiselt võimeline võitlema. |
+| 51–60 | Viita punktidele 01–10, kuid laiendatuna ühe või mõlema käe või jala kaotusele. Kaota 1D6 OSA ja vähenda maksimaalset MOV-i sama võrra. Tegelane ei ole võimeline võitlema. |
+| 61–70 | Viita punktidele 11–20, kuid raske haav sisaldab nüüd hullemaid moonutusi. Kaota 1D6 KAR; see tekitab ühe või mitu nähtavat deformatsiooni, mida ei saa varjata. Tegelane on endiselt võimeline võitlema. |
+| 71–80 | Viita punktidele 21–30 moonutavate lõigete ja kaotuste näidetena. Kaota 1D6 JÕU, võib-olla kohandades kahjumuudatust. Tegelane on endiselt võimeline võitlema. |
+| 81–90 | Viita punktidele 31–40 erinevate elutähtsate organite haavade puhul. Kaota 1D6 VAS; võib mõjutada elupunkte ja kahjumuudatust ning vähendab MOV-i VAS-i kaotuse võrra. Tegelane ei ole võimeline võitlema. |
+| 91–92 | Tõsised näo- ja häälepaelte vigastused. Kaota 1D6 KAR. Tegelane on endiselt võimeline võitlema. |
+| 93–94 | Luumurrud ja läbilõigatud ganglionid. Kaota 1D6 OSA; edaspidi saab tegelane kasutada ainult ühekäelisi lähivõitlusrelvi. Tegelane on endiselt võimeline võitlema, kasutades oma allesjäänud kätt. |
+| 95–96 | Närvikahjustus vasakus või paremas käes. Kaota 1D6 OSA; edaspidi saab sinu tegelane relvi või varustust hoida ainult oma vigastamata käes. Tegelane on endiselt võimeline võitlema, kasutades oma allesjäänud kätt. |
+| 97–98 | Närvikahjustus mõlemas käes. Kaota 1D6 OSA; kuigi jalad on korras, ei suuda käed ega sõrmed midagi hoida. Tegelane ei ole võimeline võitlema, välja arvatud jalgu või pead kasutades. |
+| 99 | Vihaste haavadega moonutatud. Kaota 1D3 punkti igaüks KAR, OSA ja VAS karakteristikutest. Tegelane ei ole võimeline võitlema. |
+| 00 | Pärast kokkuvarisemist sihilikult moonutatud. Eemalda 1D4 punkti igast neljast karakteristikutest (mängujuhi äranägemisel). Tegelane ei ole võimeline võitlema. |
 
 ### Surmavad haavad
 
-**Surmav haav** on see, mis teeb rohkem löögipunktide kahju, kui sinu tegelasel praegu on. Kui vigastus vähendab sinu tegelase 0 või negatiivsete löögipunktideni, on nad saanud surmava haava. Sinu tegelane langeb viivitamatult **pikali**, kuid ei suuda sooritada ühtegi toimingut.
+**Surmav haav** on selline, mis põhjustab rohkem elupunktide kahju, kui sinu tegelasel praegu on. Kui vigastus vähendab sinu tegelase elupunktid 0-ni või negatiivseks, on ta saanud surmava haava. Sinu tegelane kukub viivitamatult **pikali**, kuid ei suuda sooritada mingisugust tegevust.
 
-Surmavad haavad viivad surmani, kuigi neid võib vältida viivitamatu eduka meditsiinilise abiga. Kui surmavalt haavatud tegelane saab meditsiinilist tähelepanu (esmaabi, meditsiin, võime, ese jne) voorus, mil nad surmava haava said, või voorus kohe pärast seda, ja nende löögipunktid viiakse 1-ni või enamani, on nad peaaegu surnud, kuid elavad selle konkreetse vigastuse üle.
+Surmavad haavad viivad surmani, kuigi neid võib vältida kohese eduka arstiabiga. Kui surmavalt haavatud tegelane saab arstiabi (esmaabi, meditsiin, võime, ese jne) voorus, mil ta surmava haava sai, või vahetult järgnevas voorus, ning tema elupunktid tõstetakse 1-ni või enamani, on ta peaaegu surnud, kuid elab selle konkreetse vigastuse üle.
 
-### Loomulik ravimine
+### Loomulik tervenemine
 
-Enamik elusolendeid paraneb loomulikult, kui neil on piisavalt aega ja suhteliselt stressivaba keskkond. Sinu tegelane paraneb tavaliselt 1D3 löögipunkti mängunädala jooksul. See on normaalne ravimise tempo. Tavaliselt veeretab mängujuht ravimise tempo täringuid ja teatab sulle tulemused. Igal nädalal tee uus veeretamine, et määrata, kui palju löögipunkte taastatakse. Kuna ravimise tempo võib iga tegelase puhul varieeruda, võib täringutulemus nädalast nädalasse muutuda. Sinu tegelane jätkab igal nädalal paranemist, kuni kõik nende löögipunktid on taastatud.
+Enamik elusolendeid terveneb loomulikult, kui neil on piisavalt aega ja suhteliselt stressivaba keskkond. Sinu tegelane terveneb tavaliselt 1D3 elupunkti mängunädala kohta. See on normaalne tervenemiskiirus. Tavaliselt veeretab mängujuht tervenemiskiiruse täringud ja ütleb sulle tulemused. Igal nädalal tee uus vise, et määrata, kui palju elupunkte taastatakse. Kuna tervenemiskiirus võib olenevalt tegelasest erineda, võib täringutulemus nädalast nädalasse muutuda. Sinu tegelane jätkab tervenemist igal nädalal, kuni kõik tema elupunktid on taastatud.
 
-Nädala ravimise tulemus antakse nädala lõpus (mis koosneb seitsmest päevast), kuid kui aega on vähe, võib mängujuht valida ravimise tempo jagamise nädala päevade vahel, näiteks jagades nädala täringuveeretuse tulemusega ja teatades, et iga löögipunkt taastatakse nii mitme päeva jooksul (ümardada ülespoole).
+Nädala tervenemise tulemus antakse nädala (mis koosneb seitsmest päevast) lõpus, kuid kui aega on vähe, võib mängujuht valida tervenemiskiiruse jagamise üle nädalapäevade, näiteks jagades nädala täringuvise tulemusega ja teatades, et iga elupunkt taastatakse nii mitme päeva jooksul (ümardada ülespoole).
 
-Eemalda taastatud löögipunktid olemasolevatest vigastustest, levitades ravimist mitme haava vahel nii võrdselt kui võimalik. Esmaabi või Meditsiini oskused või muud abinõud võivad taastumist kiirendada. Edukas Esmaabi veeretamine taastab viivitamatult 1D3 löögipunkti haava või vigastuse kohta. Meditsiini oskust võib kasutada suurte haavade mõjude (kirjeldatud varem) kompenseerimiseks ja seda saab kasutada löögipunktide taastamiseks, mis on kaotatud muul viisil kui vigastustega. Raviprotsessile aitavad kaasa mitmesugused meditsiinilised varustused ja muud vahendid (näiteks ravimisvõimed).
+Eemalda taastatud elupunktid olemasolevatest vigastustest, jagades tervenemise mitme haava vahel nii ühtlaselt kui võimalik. Esmaabi- või meditsiinioskused või muud vahendid võivad taastumist kiirendada. Edukas esmaabi vise taastab viivitamatult 1D3 elupunkti haava või vigastuse kohta. Meditsiinioskust võib kasutada raskete haavade mõjude tasakaalustamiseks (kirjeldatud varem) ja seda saab kasutada muul viisil kui vigastuste tõttu kaotatud elupunktide taastamiseks. Tervenemisprotsessi abistamiseks saab kasutada laia valikut meditsiinitarbeid ja muid vahendeid (näiteks tervendavaid võimeid).
 
-Lõpuks võib meditsiinilise hoolduse kvaliteet, mida patsient igal nädalal saab, nende ravimise tempot märkimisväärselt suurendada. **Meditsiinilise hoolduse tingimuste tabel** pakub juhiseid erinevate tingimuste ja mõjude kohta ravimise tempole.
+Lõpuks võib patsiendi saadav arstiabi igal nädalal oluliselt suurendada tema tervenemiskiirust. **Arstiabi tingimuste tabel** pakub juhiseid erinevate tingimuste ja nende mõju kohta tervenemiskiirusele.
 
-##### Meditsiinilise hoolduse tingimused
+##### Arstiabi tingimused
 
-| Meditsiinilised tingimused | Mõju ravimise tempole |
+| Meditsiinilised tingimused | Mõju tervenemiskiirusele |
 | :---- | :---- |
-| Halvasti varustatud, ebasanitaarne ja/või täis stressirohkeid elemente; patsient on liikuv ja pingutab end tugevalt (võitlus, karm reis jne); või ei saa üldse meditsiinilist tähelepanu. | Hooldaja (arst, õde, ravitseja, ise jne) peab olema edukas *Raskes* Esmaabi või Meditsiini veeretuses, et ravimine toimuks. Kui õnnestub, paraneb patsient normaalselt (1D3 löögipunkti/nädal); kui ebaõnnestub, ravimist ei toimu. Äpardumine tekitab 1D3 täiendavat löögipunkti kahju. |
-| Korralikud ja sanitaarsed tingimused, puhkav keskkond, pakutav hooldus, ainult mõõdukas füüsiline pingutus. | Patsient paraneb loomulikult 1D3 löögipunkti. |
-| Suurepärased tingimused ja kasutatav varustus, keskkond, mis soodustab ravimist ja taastumist, täielik voodirežiim ja teraapia, pakutav täiskohaga kõrgekvaliteediline meditsiiniline hooldus. | Patsient paraneb loomulikult 1D3 löögipunkti; täiendav edukas Esmaabi või Meditsiini oskuse kasutamine võimaldab täiendavat ravimist. |
+| Halvasti varustatud, ebasanitaarne ja/või täis stressirohkeid elemente; patsient on liikuv ja koormab end tugevalt (võitlus, raske rännak jne); või ei saa üldse mingit arstiabi. | Hooldaja (arst, õde, ravitseja, ise jne) peab tervenemise toimumiseks tegema eduka *Raske (Difficult)* esmaabi- või meditsiini-viske. Kui vise õnnestub, terveneb patsient normaalselt (1D3 elupunkti nädalas); kui ebaõnnestub, tervenemist ei toimu. Fumble põhjustab 1D3 täiendavat elupunktide kahju. |
+| Korralikud ja sanitaarsed tingimused, puhkav keskkond, pakutav hooldus, ainult mõõdukas füüsiline koormus. | Patsient terveneb loomulikult 1D3 elupunkti. |
+| Suurepärased tingimused ja kasutatav varustus, keskkond soodustab tervenemist ja taastumist, täielik voodirežiim ja teraapia, pakutav täiskohaga kõrgekvaliteediline arstiabi. | Patsient terveneb loomulikult 1D3 elupunkti; edasine edukas esmaabi- või meditsiinioskuse kasutamine võimaldab võimalikku täiendavat tervenemist. |
 
-> ### Kahju ja tabamiskohad (Valik)
+> ### Kahju ja tabamiskohad (valikuline)
 > 
-> Kui kasutatakse valikulist tabamiskohtade süsteemi, jaotatakse sinu tegelase löögipunktid erinevate kehaosade vahel, kuid neid jälgitakse ka kui löögipunktide „basseini”. See süsteem on ühildamatu **Suurte haavadega** ja neid kahte süsteemi ei tohiks koos kasutada.
+> Kui kasutatakse valikulist tabamiskohtade süsteemi, jaotatakse sinu tegelase elupunktid erinevate kehapiirkondade vahel, kuid neid jälgitakse ka kui elupunktide ühtset „basseini“. See süsteem ei ühildu **Raskete haavadega** ja neid kahte süsteemi ei tohiks koos kasutada.
 > 
-> Üksikud löögipunktid koha kohta lisanduvad rohkem kui sinu tegelase tavaline löögipunktide koguarv. Jälgi iga haava ja iga kohta eraldi, kuid pea ka jooksvalt arvestust kõigi löögipunktide kahjude kohta, mida sinu tegelane on kannatanud. Sõltumata sellest, kui palju punkte üksikutes tabamiskohtades järele jääb, kui kombineeritud löögipunktide kaotus on piisav, et vähendada sinu tegelase 1 või 2 löögipunktini, langevad nad teadvusetuks ja 0 juures nad surevad, kui nad ei saa viivitamatut meditsiinilist tähelepanu.
+> Üksikud elupunktid piirkonna kohta lisanduvad rohkem kui sinu tegelase tavaline elupunktide kogusumma. Jälgi iga haava ja iga asukohta eraldi, kuid pea ka jooksvat arvestust kõigi elupunktide kahjustuste kohta, mida sinu tegelane on saanud. Sõltumata sellest, mitu punkti on üksikutes tabamiskohtades järel, kui kombineeritud elupunktide kadu on piisav, et vähendada sinu tegelase elupunktid 1 või 2-ni, kaotab ta teadvuse ja 0-punkti juures ta sureb, kui ei saa viivitamatut arstiabi.
 > 
-> Nagu on märgitud tabamiskohtade esialgses jaotises, võib tabamiskoht võtta kuni oma löögipunktide ulatuses kahju ilma ebamugavusteta. ***Näiteks,*** *kui sinu tegelasel on 5 löögipunkti jala tabamiskohas, võib ta võtta kuni 4 löögipunkti kahju jalas ilma töövõimetuks muutumata.* Siiski, kui tabamiskoht võtab kõik või rohkem kui oma löögipunktid kahjuna, võivad mõjud olla kurnavad või isegi surmavad.
+> Nagu märgitud tabamiskohtade esialgses jaotises, võib tabamiskoht võtta kuni oma elupunktide jagu kahju ilma ebamugavusteta. ***Näiteks,*** *kui sinu tegelasel on jala tabamiskohas 5 elupunkti, saab ta jalga võtta kuni 4 elupunkti kahju ilma töövõimetuks muutumata.* Siiski, kui tabamiskoht saab kõigi või rohkem kui oma elupunktide jagu kahju, võivad mõjud olla kurnavad või isegi surmavad.
 > 
-> Viide „meditsiinilisele tähelepanule” võib olla Esmaabi või Meditsiini oskused, ravimaagia või tehnoloogia või asjakohase võime kasutamine.
+> Viide „arstiabile“ võib tähendada esmaabi- või meditsiinioskusi, tervendavat maagiat või tehnoloogiat või sobiva võime kasutamist.
 > 
-> #### Kahju võrdne või suurem kui koha löögipunktid
+> #### Kahju võrdne või suurem kui piirkonna elupunktid
 > 
-> * **Jalg:** Jäse on ajutiselt kasutu ja sinu tegelane kukub pikali. Nad ei ole võimelised ülejäänud vooru jooksul tegutsema, kuid võivad pikali olles tegutseda järgnevates voorudes. Vt **Pikali** mõjusid.
+> * **Jalg:** Jäse on ajutiselt kasutu ja sinu tegelane kukub pikali. Ta ei saa ülejäänud vooru jooksul tegutseda, kuid võib järgmistes voorudes pikali olles tegutseda. Mõjude kohta vaata **Pikali**.
 > 
-> * **Kõht:** Mõlemad jalad on ajutiselt kasutud. Sinu tegelane kukub pikali, kuid võib pikali olles järgnevates lähivõitluse voorudes tegutseda. Kui sinu tegelasel on vahendid end ravida, võivad nad seda teha. Kui ei ole ravitud või Esmaabiga kümne minuti (kaks pööret) jooksul töödeldud, veritseb sinu tegelane surnuks, kaotades 1 löögipunkti voorus, kui nad ei tee Vastupidavuse veeretust veritsemise peatamiseks.
+> * **Kõht:** Mõlemad jalad on ajutiselt kasutud. Sinu tegelane kukub pikali, kuid võib järgnevates lähivõitlusvoorudes pikali olles tegutseda. Kui sinu tegelasel on vahendeid end tervendada, saab ta seda teha. Kui kümne minuti (kaks käiku) jooksul ei ravita või esmaabiga ei kohelda, veritseb sinu tegelane surnuks, kaotades 1 elupunkti voorus, kui ta ei tee Stamina-viset verejooksu peatamiseks.
 > 
-> * **Rindkere:** Sinu tegelane kukub ja on liiga hõivatud verd köhides, et sooritada mis tahes toiminguid, sealhulgas ravimist. Nad veritsevad surnuks kümne minuti (kaks pööret) jooksul, kaotades 1 löögipunkti voorus, kui nad ei saa meditsiinilist tähelepanu või ei peata veritsemist eduka Vastupidavuse veeretusega.
+> * **Rind:** Sinu tegelane kukub kokku ja on liiga hõivatud vere köhimisega, et teha mistahes tegevust, sealhulgas tervendamist. Ta veritseb surnuks kümne minuti (kaks käiku) jooksul, kaotades 1 elupunkti voorus, välja arvatud juhul, kui saab arstiabi või peatab verejooksu eduka Stamina-viskega.
 > 
 > * **Käsi:** Jäse on ajutiselt kasutu ja kõik, mis pole käe külge kinnitatud, pillatakse maha. Sinu tegelane võib jätkata seismist ja võitlemist nende jäsemetega, mis on endiselt funktsionaalsed.
 > 
-> * **Pea:** Sinu tegelane langeb teadvusetuks ja peab saama meditsiinilist tähelepanu viie minuti (üks pööre) jooksul või tegema eduka Vastupidavuse veeretuse stabiliseerimiseks. Kui kumbki ei juhtu, nad surevad.
+> * **Pea:** Sinu tegelane kaotab teadvuse ja peab saama arstiabi viie minuti (üks käik) jooksul või tegema eduka Stamina-viske stabiliseerimiseks. Kui kumbagi ei juhtu, sureb ta.
 > 
-> #### Kahju võrdub või ületab koha löögipunktide kahekordse väärtuse
+> #### Kahju võrdub või ületab kahekordselt piirkonna elupunkte
 > 
-> * **Jäse:** Sinu tegelane ei saa ühe löögiga võtta rohkem kui kahekordse võimaliku löögipunktide arvu kahju käes või jalas. Näiteks 2-punktine käe tabamus 5 punktiga võtab ainult 4 punkti kahju löögipunktide koguarvust: ülejäänud 1 punkt kahju ei avalda mõju. Siiski mõjutavad edasised löögid seda kätt sinu tegelase löögipunktide koguarvu. Siiski on tegelane, kes on ühe löögiga nii kahjustatud, funktsionaalselt töövõimetu: nad ei saa enam võidelda enne ravimist ja on šokis. Nad võivad proovida end ravida. Veritsemine toimub kiirusega 1 löögipunkt voorus kuni eduka meditsiinilise tähelepanu saamiseni või *Raske* Vastupidavuse veeretuse sooritamiseni.
+> * **Jäse:** Sinu tegelane ei saa ühe hoobiga võtta rohkem kui kaks korda võimalikud elupunktid käes või jalas. Näiteks 2-punktise käetabamuse korral 5 punkti võtab maha ainult 4 punkti kahju koguelupunktidest: ülejäänud 1 punkt kahju ei avalda mõju. Siiski mõjutavad järgnevad löögid sellesse kätte sinu tegelase koguelupunkte. Siiski on tegelane pärast sellist ühe hoobiga saadud kahju funktsionaalselt töövõimetu: ta ei saa enam võidelda enne tervenemist ja on šokis. Ta võib proovida end tervendada. Verejooks toimub kiirusega 1 elupunkt voorus kuni eduka arstiabi või Raske (Difficult) Stamina-viskeni.
 > 
-> * **Pea, rindkere või kõht:** Kui pea, rindkere või kõht kannatab rohkem kui kaks korda rohkem kahju kui sellel kohal on löögipunkte, muutub sinu tegelane teadvusetuks ja hakkab kaotama 1 löögipunkti võitlusvoorus, kui nad ei saa meditsiinilist tähelepanu või tee edukat *Rasket* Vastupidavuse veeretust.
+> * **Pea, rind või kõht:** Kui pea, rind või kõht saab rohkem kui kaks korda nii palju kahju, kui selles piirkonnas on elupunkte, kaotab sinu tegelane teadvuse ja hakkab kaotama 1 elupunkti lähivõitlusvooru kohta, välja arvatud juhul, kui saab arstiabi või teeb eduka Raske (Difficult) Stamina-viske.
 > 
-> #### Kahju võrdub või ületab koha löögipunktide kolmekordse väärtuse
+> #### Kahju võrdub või ületab kolmekordselt piirkonna elupunkte
 > 
-> * Jäse, mida tabatakse kolm korda rohkem punkte kui see suudab ühe löögiga võtta, on ära lõigatud või pöördumatult moonutatud. ***Näiteks,*** *kui sinu tegelasel on 2-punktine käsi ja teda tabatakse 8 punktiga, võtab ta ainult 4 punkti kahju löögipunktide koguarvust. Siiski on käsi moonutatud. Sellistel juhtudel on sinu tegelane ka funktsionaalselt töövõimetu.*
+> * Jäse, mis saab kolm korda rohkem punkte, kui see suudab ühe hoobiga võtta, on ära lõigatud või pöördumatult moonutatud. ***Näiteks,*** *kui sinu tegelasel on 2-punktine käsi ja seda tabatakse 8 punktiga, saab ta vaid 4 punkti kahju oma elupunktide kogusummast. Siiski on käsi moonutatud. Sellistel juhtudel on sinu tegelane ka funktsionaalselt töövõimetu.*
 > 
-> * Pea, rindkere või kõhu tabamine kolm korda rohkem kahju kui selles kohas on löögipunkte, toob kaasa hetkese surma.
+> * Pea, rindkere või kõhu tabamine kolm korda nii suure kahjuga, kui on elupunkte selles piirkonnas, toob kaasa silmapilkse surma.
 > 
 > #### Ära lõigatud ja moonutatud jäsemed
 > 
-> * Ainult drastiline meditsiiniline tähelepanu saab taastada ära lõigatud jäseme, eeldades, et kõik osad on saadaval, näiteks mõni äärmiselt võimas maagia, tehnoloogia või tõsine operatsioon, millele järgneb kuudepikkune taastumine.
+> * Ainult drastiline arstiabi võib taastada äralõigatud jäseme, eeldusel, et kõik osad on saadaval, nagu näiteks mõni äärmiselt võimas maagia, tehnoloogia või tõsine operatsioon, millele järgnevad kuud taastumist.
 > 
-> * Jäseme moonutamine või ära lõikamine võib olla püsivalt kahjustav. Kui sinu tegelasel pole enam osa jäsemest, kaotab ta selles kohas 1 löögipunkti. Sinu mängujuht peaks sinuga koostööd tegema, et arutada keskkonnale sobivaid võimalusi, olgu need küberneetika, võimas maagia või drastilisemad meetmed.
+> * Jäseme moonutamine või äralõikamine võib olla püsivalt kahjustav. Kui sinu tegelasel ei ole enam osa jäsemest, kaotab ta selles piirkonnas 1 elupunkti. Sinu mängujuht peaks sinuga koostööd tegema, et arutada keskkonnale sobivaid võimalusi, olgu selleks küberneetika, võimas maagia või drastilisemad meetmed.
 > 
-> * Kasuta **Suurte haavade** juhiseid, et määrata mis tahes tunnuste kaotus.
+> * Karakteristikute kaotuse määramiseks kasuta **Raskete haavade** juhiseid.
 
 
 > ### Miniatuurid, kaardid ja virtuaalsed lauaplaadid
 > 
-> Liikumine ja positsioneerimine lähivõitluses on väljakutsuvad elemendid, mida rollimängudes jälgida. Kuigi mõned mängijad ja mängujuhid on võitluse ajal üksikasjade suhtes vähem mures, tunnevad mõned vajadust jälgida mängijate tegelaste ja nende vastaste suhtelisi positsioone. Jooniste, žetoonide või markerite kasutamine kaardil võib vastata igale küsimusele, pakkudes konkreetset vahendit selle määramiseks, mis toimub ja kus.
+> Lähivõitluses liikumine ja positsioneerimine on rollimängudes keerulised elemendid, mida jälgida. Kuigi mõned mängijad ja mängujuhid hoolivad võitluse ajal üksikasjadest vähem, tunnevad mõned vajadust jälgida mängijate tegelaste ja nende vastaste suhtelisi positsioone. Figuuride, žetoonide või markerite kasutamine kaardil võib vastata kõigile küsimustele, pakkudes konkreetset vahendit selle määramiseks, mis toimub ja kus.
 > 
-> Rollimängude miniatuurid on väikesed plastist või metallist kujukesed, mis on umbes mitu sentimeetrit kõrged ja saadaval enamikus mängu- ja hobipoodides või veebis. On olemas tohutu mitmekesisus tegelasetüüpe, kostüüme, žanre, ajaloolisi perioode ja poose ning miniatuuride kogumine, kokkupanemine ja värvimine on meeldiv kõrvalhobi.
+> Rollimängude miniatuurid on väikesed plast- või metallist kujukesed, mis on mitu sentimeetrit kõrged ja saadaval enamikus mängu- ja hobipoodides või veebis. On olemas tohutu mitmekesisus tegelasetüüpe, kostüüme, žanre, ajaloolisi perioode ja poose ning miniatuuride kogumine, kokkupanek ja värvimine on nauditav kõrvalharrastus.
 > 
-> Liikumise jälgimiseks on sageli kasulikud ruutude või kuusnurkade ruudustikuga kaardid. Neid on erinevates suurustes paberist või vastupidavamast materjalist lehtedena. Kauplustes, kus müüakse miniatuurseid kujukesi, on tõenäoliselt ka neid. Mõnele mängijale ei meeldi ruudustikud, kuna need on jäigad, piiravad või mehhanistlikud, ja nad eelistavad vahemaid silmaga hinnata ja liikumist läbi rääkida, kasutades joonlaudu või mõõdulinte viimaste abinõudena. Võid tahta eksperimenteerida, et näha, mis sulle sobib. Mängujuht, kes kasutab miniatuure või kaarte, soovib mõnda suuremat paberilehte põhiplaanide visandamiseks ja lihtsate kaartide loomiseks. Mängijatele võib ruudupaber olla kasulik varemete või hoonete kaardistamisel. Rollimängudele spetsialiseerunud kaardistamisprogrammid muudavad selle üha lihtsamaks ja eelnevalt valmis tehtud kaardid ja plaadikomplektid on hõlpsasti kättesaadavad.
+> Liikumise jälgimiseks on sageli kasulikud ruutude või kuusnurkade ruudustikuga kaardid. Need on paberist või vastupidavamatest materjalidest erinevas suuruses lehtedena. Kauplused, mis müüvad miniatuurseid figuure, kannavad tõenäoliselt ka neid. Mõnele mängijale ei meeldi ruudustikud, kuna need on jäigad, piiravad või mehhanistlikud, ja nad eelistavad vahemaid hinnata ja liikumist kokku leppida, kasutades viimase abinõuna joonlaudu või mõõdulinte. Võid katsetada, et näha, mis sulle sobib. Mängujuht, kes kasutab miniatuure või kaarte, vajab mõnda suuremat paberilehte põrandaplaanide visandamiseks ja lihtsate kaartide loomiseks. Mängijatele võib ruuduline paber olla kasulik varemete või hoonete kaardistamisel. Rollimängudele spetsialiseerunud kaardistamisprogrammid muudavad selle järjest lihtsamaks ning valmis kaardid ja plaatide komplektid on hõlpsasti kättesaadavad.
 > 
-> Veebipõhised lauaplaadid võimaldavad kogu mänguseansse veebis mängida, koos mängujuhi tööriistade, tegelaslehtede mängijate salvestusruumi ja lahingukaartidega, millel on ka heliefektid, valgustus, täringute veeretamise rakendused ja veelgi enam, lastes mängujuhtidel ja mängijatel seda mängu aspekti automatiseerida ja võimaldades immersiivset mängu mängijatega kõikjal, kus nad saavad oma arvuteid kasutada. Need ulatuvad ülalt-alla lihtsatest kaardiprogrammidest kuni 3D-keskkondadeni, mida mängujuht saab kohandada, koos sisumoodulitega, sealhulgas seikluste ja muude aspektidega, mis on mängimiseks kasulikud.
+> Veebipõhised lauaplaadid võimaldavad tervete mänguseansside läbiviimist võrgus, mängujuhi tööriistadega, mängijate tegelaslehtede hoidmisega ja lahingukaartidega, millel on ka heliefektid, valgustus, täringute veeretamise rakendused ja veelgi enam, lastes mängujuhtidel ja mängijatel mängu seda aspekti automatiseerida ja võimaldada kaasahaaravat mängu mängijatega kõikjal, kus nad saavad oma arvuteid kasutada. Need ulatuvad ülalt-alla lihtsatest kaardiprogrammidest kuni 3D-keskkondadeni, mida mängujuht saab kohandada, ning saadaval on sisumoodulid, sealhulgas seiklused ja muud mänguks kasulikud aspektid.
 
 ### Võitluse näide
 
-Järgnev näide on seatud fantaasiamaailma ja kirjeldab, kuidas sõdalane Yvarre on varastanud hindamatu amuleti kurja maokummardajate kultuse aardekambrist ja üritab põgeneda templisse, kus teda ootab liitlane Kallistor.
+Järgnev näide on seatud fantaasiamaailma ja kirjeldab, kuidas sõdalane Yvarre on varastanud hindamatu amuleti mao-kummardajate sünge kultuse aardekambrist ja üritab põgeneda templist kohta, kus tema liitlane Kallistor ootab.#### Esimene võitlusvoor
 
-#### Esimene võitlusvoor
+Pistnud tohutu kalliskividega ehitud kuldse amuleti oma vöö vahele, libiseb Yvarre kultuse varakambrist välja ja liigub hääletult mööda käiku edasi, lootes märkamatuks jääda, kuni jõuab kohta, kus tema sõber Kallistor paari hobusega ootab.
 
-Pistnud hiiglasliku juveele täis kuldamuleti oma vöö vahele, libiseb Yvarre kultuse aarderuumist välja ja liigub vaikselt piki koridori edasi, lootes vältida märkamist, kuni ta jõuab kohta, kus teda ootab sõber Kallistor koos paari hobusega.
+Kui ta mööda koridori liigub, visatakse Yvarre suunas tagantpoolt pistoda. Mängujuht veeretab täringuid ja teatab edust ning ütleb, et Yvarret tabati kõrgelt vasakusse õlga (valikulist tabamuskoha süsteemi ei kasutata; see on lihtsalt mängujuhi kirjeldus, et lisada atmosfääri). Mängujuht veeretab 1D4+2+1D2, mis on pistoda tekitatud kahju pluss pool viskaja kahjumuudatajast. Yvarre õnneks saab mängujuht kahjaveeretusel 4, mis on väikseim võimalik tulemus.
 
-Koridoris edasi liikudes visatakse Yvarrele selja tagant pistoda. Mängujuht veeretab õnnestumise ja ütleb, et Yvarre on pihta saanud oma vasaku õla pihta (valikulist tabamiskohtade süsteemi ei kasutata, see on lihtsalt mängujuhi täiendus oma kirjelduses). Mängujuht veeretab 1D4+2+1D2, kahju, mida pistoda teeb pluss pool ründaja kahju modifikaatorist. Õnneks Yvarrele saab mängujuht kahju veeretusel 4, mis on väikseim võimalik tulemus.
+Yvarre kannab pehmest nahast tuunikat (soomuse väärtus 1) ja tal on 17 elupunkti. Tema soomus kaitseb teda 1 kahjupunkti eest, seega kaotab Yvarre 3 elupunkti, mitte 4. Tal on nüüd järel 14 elupunkti, seega tõmbab tema mängija hoolikalt maha numbrid 17, 16 ja 15 ning ümbritseb Yvarre tegelaslehel numbri 14.
 
-Yvarre kannab pehmet nahktuunikat (soomuse väärtus 1) ja tal on 17 löögipunkti. Tema soomus kaitseb teda 1 punkti kahju eest, seega Yvarre kaotab 3 löögipunkti, mitte 4. Ta on nüüd 14 löögipunktini, seega tema mängija kriipsutab ettevaatlikult läbi numbrid 17, 16 ja 15 ning ringitab 14 Yvarre tegelaslehel.
-
-Ta heidab pilgu tagasi ja näeb mao-preestrit, kes tõmbab lähenedes varrukast uut pistodat.
+Ta heidab pilgu selja taha ja näeb mao-preestrit oma varrukast uut pistoda tõmbamas, kui too läheneb.
 
 #### Teine võitlusvoor
 
-Kirudes oma halba õnne, siseneb Yvarre kambrisse ja riivistab ukse enda taga, seejärel ulatub oma haava kontrollima. Õnneks polnud rünnak läbistav, seega pole tera sügavalt tema õlas. Järgmisena proovib ta haava Esmaabiga ravida. Yvarre Esmaabi oskus on 47%: tema mängija veeretab 99—äpardumine!
+Oma halba õnne vandudes siseneb Yvarre kambrisse ja riivistab ukse enda järel, seejärel sirutab käe, et oma haava uurida. Õnneks polnud rünnak läbistav, seega pole tera sügavalt tema õlga kinni jäänud. Järgmisena üritab ta haava esmaabiga ravida. Yvarre esmaabi oskus on 47%: tema mängija veeretab 99 – äpardus!
 
-Äpardumiste tabelil veeretamine pole vajalik: Esmaabi äpardumise karistus on alati 1 löögipunkti kahju kaotus. Mängujuht ütleb, et Yvarre tekitas endale ebamugava asukoha tõttu haava sikutades ühe lisapunkti kahju. Haav on nüüd laiem ja veri sellest leotab tema pehme nahktuunika seljaosa (jällegi, see pole erilise kahju tulemus: see on lihtsalt mängijatele visuaalse pildi loomiseks).
+Äparduste tabelist veeretamine pole vajalik: esmaabi äparduse karistuseks on alati 1 elupunkti kaotus. Mängujuht ütleb, et Yvarre tekitas endale ebamugava asukoha tõttu haava torkides ühe täiendava kahjupunkti. Haav on nüüd laiem ja sellest voolav veri imbub läbi tema pehmest nahast tuunika (ka see pole eriline kahjutulemus, vaid lihtsalt detail, mis aitab mängijatel stseeni ette kujutada).
 
-Yvarre mängija ohkab ja kriipsutab maha veel ühe löögipunkti. Yvarreil on nüüd 13 löögipunkti.
+Yvarre mängija ohkab ja tõmbab maha veel ühe elupunkti. Yvarre elupunktide arv on nüüd 13.
 
 #### Kolmas võitlusvoor
 
-Riivitud ukselt kostab summutatud mütsatusi. Yvarre pöörab ümber ja läheb akna juurde, mille kaudu ta sisenes. Ta võtab kinni köiest, mille ta sinna oli riputanud, valmistudes alla ronima. Mängujuht tõstab käe, et peatada mängija kirjeldus ja sisestab: „Yvarre märkab, et köis tundub väga kerge. Kas ta tahab näha miks?”
+Riivistatud ukse tagant kostab summutatud mütsatusi. Yvarre pöörab ümber ja suundub akna poole, kust ta sisse tuli. Ta haarab köiest, mille ta sinna oli riputanud, ja valmistub alla ronima. Mängujuht tõstab käe, et mängija kirjeldus peatada, ja sekkub: "Yvarre märkab, et köis tundub väga kerge. Kas ta tahab teada, miks?"
 
-Tahab, ütleb mängija, ja laseb Yvarrel liini üles tõmmata. Yvarre põgenemisköis lõpeb meeter allpool aknalauast. See on läbi lõigatud, tõenäoliselt kellegi poolt, kes kummardus aknast välja allpool.
+Tahab küll, vastab mängija, ja laseb Yvarrel köie üles tõmmata. Yvarre põgenemisköis lõpeb meeter allpool aknalauast. See on läbi lõigatud, tõenäoliselt kellegi poolt, kes allpool aknast välja küündis.
 
-Yvarre on lõksus, kui ta just ei otsusta tänavale hüpata. Mängujuht ütleb: „Tee Spot veeretamine, et teada saada, kas Yvarre märkab midagi.” Sel juhul on „midagi”, millele mängujuht viitab, kultuse palgamõrvar Yvarre vastas asuval katusel, valmistades oma vibu rünnakuks ette.
+Yvarre on lõksus, kui ta just ei otsusta tänavale hüpata. Mängujuht ütleb: "Tee märkamise vise, et näha, kas Yvarre märkab midagi." Sel juhul on see 'midagi', millele mängujuht viitab, Yvarre vastas oleval katusel asuv kultusepalgamõrtsukas, kes valmistab oma vibu rünnakuks ette.
 
-Mängija veeretab D100 Yvarre Spot oskuse jaoks ja ebaõnnestub. Kuna Yvarre ei märka kultuse palgamõrvarit, veeretab mängujuht 43, tabamus, ja veeretab siis kahju, 1D8+1, kuid kahju modifikaatorit pole. Mängujuht veeretab 9 kahju, mida vähendatakse 1 võrra Yvarre soomuse eest. „Kas sellest piisab suure haava jaoks?” küsib mängujuht. Mängija noogutab süngelt. Ta märgib oma tegelaslehel maha veel 8 löögipunkti, langetades oma allesjäänud löögipunktid 5-ni.
+Mängija veeretab D100 Yvarre märkamisoskuse jaoks ja ebaõnnestub. Kuna Yvarre ei märka kultusepalgamõrtsukat, veeretab mängujuht 43, mis on tabamus, ja veeretab seejärel kahju, 1D8+1, kuid kahjumuudatajat pole. Mängujuht veeretab 9 kahjupunkti, mida vähendatakse Yvarre soomuse tõttu 1 võrra. "Kas sellest piisab raskeks haavaks?" pärib mängujuht. Mängija noogutab tusaselt. Ta märgib oma tegelaslehel maha veel 8 elupunkti, vähendades oma allesjäänud elupunktid 5-ni.
 
-Yvarre mängija veeretab suure haava tabelil, saades tulemuseks 27, ja mängujuht ütleb, et nool tabas Yvarret vasakusse kätte. Yvarre Õnne veeretamine õnnestub, seega haav ei muutu püsivaks vigastuseks. Yvarre tunneb end nõrgestatuna, ütleb mängujuht. Ta muutub teadvusetuks nelja võitlusvooru pärast, ühe vooru iga löögipunkti eest, mis tal praegu on.
+Yvarre mängija veeretab raskete haavade tabelit, saades tulemuseks 27, ja mängujuht ütleb, et nool tabas Yvarret vasakusse käsivarde. Yvarre õnne vise õnnestub, seega ei muutu haav püsivaks vigastuseks. Yvarre tunneb, et muutub nõrgemaks, ütleb mängujuht. Ta kaotab teadvuse nelja võitlusvooru pärast, ühe vooru iga elupunkti kohta, mis tal hetkel on.
 
-Ruumi teises otsas hakkab uks koridori poole kildudeks minema. Yvarre võiks kasutada järgmist vooru, et proovida Esmaabi sellele uuele haavale rakendada, kuid ta ei saa endale aega lubada.
+Ruumi teises otsas hakkab uks koridori poole kildudeks purunema. Yvarre võiks kasutada järgmist vooru, et proovida sellele uuele haavale esmaabi anda, kuid tal pole selleks aega.
 
 #### Neljas võitlusvoor
 
-Kui Yvarre jääb ruumi, on ta varsti maokummardajate kultuse meelevallas, mis pole midagi, mida oodata. Maapinnani on 6 meetrit ja Yvarre mängija mõistab, et tema seisundis võib kukkumine ta tappa. Siiski teab mängija ka seda, et Yvarre ise ei kõhkleks kunagi. „Ma hüppan,” ütleb ta. Kaugvõitleja teeb veel ühe lasu. Kaugvõitlustule eest ei saa põigelda, seega Yvarre loodab parimat. Tal on õnne—nool möödub.
+Kui Yvarre tuppa jääb, on ta varsti maokummardajate kultuse meelevallas, mis pole just midagi, mida oodata. Maapinnani on 6 meetrit ja Yvarre mängija mõistab, et sellises seisundis võib kukkumine olla surmav. Siiski teab mängija ka seda, et Yvarre ise ei kõhkleks kunagi. "Ma hüppan," ütleb ta. Ambur laseb uuesti. Laskemoona ei saa põigelda, seega loodab Yvarre parimat. Tal on õnne – nool möödub.
 
-„Palun tee oma Hüppamise veeretamine.” Tulemus on 21, õnnestumine. „Okei”, ütleb mängujuht, „nüüd veereta 1D6 kahju vähendamise jaoks.” Ta saab 3, mida lahutada igast kahjust, mis kaasneb eelseisva kukkumisega. „Ja nüüd veereta 2D6 kukkumiskahju jaoks.” Tema täringute summa on 5. Yvarreil oli 4 löögipunkti. Ta kaotab 5, kuid hüppe ettevalmistus säästab 3. Yvarreil on nüüd jäänud 2 löögipunkti.
+"Tee palun oma hüppe vise." Tulemus on 21, mis on edu. "Okei," ütleb mängujuht, "nüüd veereta 1D6 kahju vähendamiseks." Ta saab 3, mis lahutatakse igast tulevasest kukkumiskahjust. "Ja nüüd veereta 2D6 kukkumiskahju jaoks." Tema täringute summa on 5. Yvarrel oli 4 elupunkti. Ta kaotab 5, kuid hüppe ettevalmistus säästab 3. Yvarrele jääb nüüd alles 2 elupunkti.
 
-2 löögipunkti juures langeb Yvarre automaatselt teadvusetuks. See pole rohkem kui pool tema löögipunktide koguarvust, seega uut suurt haava pole.
+2 elupunkti juures kaotab Yvarre automaatselt teadvuse. See pole rohkem kui pool tema elupunktide koguarvust, seega uut rasket haava ei teki.
 
 #### Viies võitlusvoor
 
-Ööpimedal tänaval kuuleb Yvarre sõber Kallistor teda maapinnale kukkumas ja leiab ta munakividel liikumatuna. Lähenevaid hüüdeid kuulates otsustab Kallistori mängija visata Yvarre ühe hobuse sadulasse ja ronida teisele, põgenedes viivitamatult.
+Ööpimedas allees kuuleb Yvarre sõber Kallistor tema maandumist ja leiab ta munakivide pealt liikumatuna. Kuulates lähenevaid hõikeid, otsustab Kallistori mängija visata Yvarre ühe hobuse sadulasse ja istuda ise teisele, põgenedes viivitamatult.
 
 #### Kuues võitlusvoor
 
-Mõne tänava kaugusel tunneb Kallistor end piisavalt turvaliselt, et vooruks peatuda. Ta kasutab võluloitsu Ravimine 1 Yvarre noahaavale. Kallistori loits taastab Yvarreil 3 löögipunkti (veeretusega 3 1D6-st) ja mängujuht otsustab, et Yvarre on nüüd teadvusel ja suuteline ratsutama, kuid on väga nõrk. Kallistori mängija märgib maha 3 väepunkti loitsu kasutamise eest (mis maksab 3 väepunkti taseme kohta). Kallistoril on 14 väepunkti, seega see viib ta 11-ni.
+Paar tänavavahet eemal tunneb Kallistor end piisavalt turvaliselt, et üheks vooruks peatuda. Ta kasutab maagilist loitsu "Tervendamine 1" Yvarre noahaavale. Kallistori loits taastab Yvarrele 3 elupunkti (veeretus 3 1D6 peal) ja mängujuht otsustab, et Yvarre on nüüd teadvusel ja suuteline ratsutama, kuid on väga nõrk. Kallistori mängija märgib maha 3 väepunkti loitsu kasutamise eest (mis maksab 3 väepunkti kasutatud taseme kohta). Kallistoril on 14 väepunkti, seega jääb talle järele 11.
 
 #### Mitu võitlusvooru hiljem
 
-Pärast mõningast kõrvale hiilivat ratsutamist läbi linna, et takistada jälitajaid, ütleb mängujuht, et jälitust pole näha. Kaks seiklejat jõuavad oma peidupaika. Sees, hetkeks turvaliselt, kasutab Kallistor Esmaabi, et proovida noolehaava ravida, tõstes tema löögipunktid 7-ni.
+Pärast mõningast kõrvalist ratsutamist läbi linna, et tagaajajaid eksitada, ütleb mängujuht, et jälitamist pole märgata. Kaks seiklejat jõuavad oma peidupaika. Sees, hetkeks turvaliselt, kasutab Kallistor esmaabi, et proovida noolehaava ravida, tõstes tema elupunktid 7-ni.
 
 #### Järgmine võitlusvoor
 
-Yvarre sai ka kukkumiskahju. Kallistor ravis tema nuga- ja noolehaavad, kuid Yvarre Esmaabi veeretamine toimib kukkumisest tingitud üldiste verevalumite puhul. 2 punkti kukkumiskahju kustutatakse. Vigastus on endiselt olemas, kuid sellel pole enam praktilist tagajärge. Nüüd on Yvarre 9 löögipunktil.
+Yvarre sai ka kukkumiskahju. Kallistor ravis tema noa- ja noolehaavad, kuid Yvarre esmaabi vise toimib üldistele kukkumisest tingitud põrutustele. 2 kukkumiskahju punkti kustutatakse. Vigastus on endiselt olemas, kuid sellel pole enam praktilisi tagajärgi. Nüüd on Yvarrel 9 elupunkti.
 
 #### Järgmine võitlusvoor pärast seda
 
-Kallistor proovib Esmaabi, kuid ebaõnnestub Yvarre äpardunud Esmaabi veeretuse tekitatud ühe kahjupunkti ravimisel.
+Kallistor proovib esmaabi, kuid ebaõnnestub Yvarre nurjunud esmaabi katse ühe kahjupunkti ravimisel.
 
 #### Veel üks võitlusvoor
 
-Kallistor kasutab Ravimine 2 Yvarre noolehaavale, taastades 4 punkti 12 võimalikust. Yvarre on nüüd 13 löögipunktil ja Kallistor on nüüd kaotanud veel 6 väepunkti, jättes talle kokku 5 väepunkti. Kumbki neist pole hullus seisus, kuid Yvarreil pole täis löögipunkte ja Kallistor on kasutanud paljud oma väepunktid.
+Kallistor kasutab Yvarre noolehaaval "Tervendamine 2", taastades 12-st võimalikust punktist 4. Yvarrel on nüüd 13 elupunkti ja Kallistoril on kulunud veel 6 väepunkti, jättes talle kokku 5 väepunkti. Kumbki neist pole kriitilises seisus, kuid Yvarrel pole täis elupunktid ja Kallistor on paljud oma väepunktid ära kasutanud.
 
-Noahaav paraneb loomulikult nädalaga ja ülejäänud kahju noolehaavast võtab vähemalt kaks nädalat. Kallistor soovib hoida mõned väepunktid reservis hädaolukorraks. Ta kasutab Ravimise loitsu hiljem, kui tal on rohkem väepunkte või kui rannik on puhas.
+Noahaav paraneb loomulikult nädalaga ja noolehaavast järelejäänud kahju võtab vähemalt kaks nädalat. Kallistor soovib jätta mõned väepunktid varuks hädaolukorraks. Ta kasutab "Tervendamine" loitsu hiljem, kui tal on rohkem väepunkte või kui oht on möödas.
 
 #### Pärast võitlust
 
-Siinkohal pole vähe põhjust jätkata võitlusaja kasutamist, seega lülituvad kõik narratiivsesse aega, kus mängijate käitumine ja mängujuhi jutustus muutuvad lõdvestunumaks.
+Selles punktis pole enam põhjust võitlusaega kasutada, seega lülituvad kõik narratiivsesse aega, kus mängijate käitumine ja mängujuhi jutustus muutuvad vabamaks.
 
-Tema haavad ja vigastused on hetkeks tähelepanu all, Yvarre ulatub oma vöö vahele, et amulett välja tõmmata. See tundub tema käes keerlevat, kui ta seda teeb, nii et ta laseb sellel minna. Kui see tabab maad, puruneb amulett kümneteks pisikesteks juveelidest silmadega kuldseteks madudeks, mis kukuvad maapinnale ja libisevad minema.
+Kui tema haavad ja vigastused on hetkeks hooldatud, sirutab Yvarre käe vöö vahele, et amulett välja võtta. Tundub, et see väändub tema kätes, kui ta seda teeb, seega laseb ta sellest lahti. Maapinnale kukkudes puruneb amulett kümneteks pisikesteks kuldseteks madudeks, millel on kalliskivist silmad; need kukuvad maapinnale ja libisevad minema.
 
-Kõik see, ja asjata!
+See kõik, ja asjata!

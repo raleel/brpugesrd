@@ -1,152 +1,152 @@
 # 6. Harc
 
-A harc számos kaland jelentős része. A harc során fontos pontosan tudni, hogy mi mikor történik, kinek a cselekedete következik egy adott pillanatban, és milyen cselekedetek hajthatók végre a rendelkezésre álló idő alatt. Ez a szakasz a harci kör során előforduló cselekedetek széles skáláját tárgyalja.
+A harc számos kaland jelentős része. A harc során fontos pontosan tudni, mi történik, mikor, ki cselekedhet egy adott időpontban, és milyen cselekedetek hajthatók végre a rendelkezésre álló idő alatt. Ez a szakasz a harci körben előforduló cselekedetek széles választékát tárgyalja.
 
-Ahogy az **Időskálák** részben leírtuk, a harci kör méri az időt harci vagy cselekvési helyzetben. Egy harci kör 12 másodpercig tart, amely alatt a karaktered cselekedeteket hajthat végre, és reagálhat mások cselekedeteire, általában a DEX (Ügyesség) jellemző által meghatározott sorrendben; a magasabb DEX értékkel rendelkező karakterek a kisebb DEX értékűek előtt cselekszenek. Ahogy a képzettségeknél, a harci cselekedeteknél is D100 dobással döntjük el a támadások, védelmek és egyéb cselekedetek sikerét vagy kudarcát.
+Ahogy az **Időskálák** részben leírtuk, a harci kör méri az időt egy harci vagy cselekvési szituációban. Egy harci kör 12 másodperces, és ebben a karaktered cselekedeteket hajthat végre, illetve reagálhat más cselekedetekre olyan sorrendben, amelyet általában az ÜGY jellemzőjük határoz meg; a magasabb ÜGY-vel rendelkező karakterek az alacsonyabb ÜGY-vel rendelkező karakterek előtt cselekszenek. A képzettségekhez hasonlóan a harci cselekedeteket is D100-zal határozzák meg a támadások, védekezések és egyéb cselekedetek sikerének vagy kudarcának eldöntésére.
 
-## A harci kör fázisai
+## Harci kör szakaszai
 
-A harci kör négy fázisból áll: **Nyilatkozatok**, **Erők**, **Cselekvés** és **Felbontás**. Ezek mindig ugyanabban a sorrendben következnek, és minden új harci körben megismétlődnek, amíg a harc véget nem ér. Minden fázist az alábbiakban ismertetünk.
+A harci kör négy szakaszból áll: **Nyilatkozatok**, **Erők**, **Cselekvés** és **Felbontás**. Ezek mindig ugyanabban a sorrendben történnek, és minden új harci körrel megismétlődnek, amíg a harc véget nem ér. Minden szakaszt az alábbiakban ismertetünk.
 
 ### Nyilatkozatok
 
-Először a játékmester és azok a játékosok, akiknek a karakterei részt vesznek a harci körben, bejelentik, mit terveznek tenni. Ez a **szándéknyilatkozat**. A cselekedeteket DEX szerinti sorrendben próbálják meg végrehajtani, a legmagasabbal kezdve. Nem szükséges bejelenteni a védelmi cselekedeteket – az elhárítást vagy kitérést –, kivéve, ha teljesen védekező állást veszel fel.
+Először a mesélő és azok a játékosok, akiknek karakterei részt vesznek a harci körben, bejelentik, mit terveznek tenni. Ez a **szándéknyilatkozat**. A cselekedeteket az ÜGY sorrendjében, a legmagasabbal kezdve lehet megkísérelni. Nem kell bejelentened a védekező cselekedeteket – az elhárítást vagy kitérést –, hacsak nem választasz teljesen védekező állást.
 
-A szándéknyilatkozatoknak ésszerűnek kell lenniük, és azon kell alapulniuk, amit a karaktered tud.
+A szándéknyilatkozatoknak ésszerűnek kell lenniük, és a karaktered ismeretein kell alapulniuk.
 
-*Például nem jelenthetsz be támadást egy olyan ellenfél ellen, akiről a karaktered nem tud, függetlenül attól, hogy te játékosként mit tudsz.*
+*Például nem jelenthetsz be támadást olyan ellenfél ellen, akiről a karaktered nem tud, függetlenül attól, hogy te játékosként mit tudsz.*
 
-A szándéknyilatkozatokat a harcban részt vevő mindenki **DEX-rangsora** alapján kezeljük. A magas DEX-rangsorral rendelkezők a szándéknyilatkozataikat az alacsony DEX-rangsorral rendelkezők előtt teszik meg. Általában a játékmester visszaszámol a legmagasabb DEX-rangsortól a legalacsonyabbig, és a megfelelő időben felszólítja az egyes játékosokat a tervezett cselekedeteik bejelentésére.
+A szándéknyilatkozatokat minden résztvevő **ÜGY-rangja** alapján kezeljük. Azok, akiknek magas az ÜGY-rangjuk, a szándéknyilatkozataikat az alacsonyabb ÜGY-rangúak előtt teszik meg. Általában a mesélő visszaszámlál a legmagasabb ÜGY-rangtól a legalacsonyabbig, a megfelelő időben felszólítva minden játékost a tervezett cselekedetei bejelentésére.
 
-A játékmester nem köteles bejelenteni, hogyan fognak cselekedni a nemjátékos karakterek egy körben, de tisztességesnek tekinthető, ha ezt megteszi, amennyiben a cselekedetek fizikai jellegűek, vagy egyébként befolyásolhatják a játékos karakterek viselkedését a harci kör során.
+A mesélőnek nem kötelessége bejelenteni, hogyan fognak cselekedni a nem játékos karakterek egy körben, de tisztességesnek tekinthető, ha a cselekedetek fizikai jellegűek, vagy más módon befolyásolhatják a játékos karakterek viselkedését a harci kör során.
 
-***Például,*** *ha egy csoport nemjátékos karakter láthatóan békés visszavonulásra készül, a játékosnak ezt tudnia kell, mielőtt a karakter támadna.*
+***Például,*** *ha egy nem játékos karakterekből álló csoport láthatóan békés visszavonulásra készül, a játékosnak ezt tudnia kell, mielőtt a karakter támadna.*
 
-Ellenkező esetben, ha a játékosoknak nincs módjuk tudni, mit fognak tenni a nemjátékos karakterek, a cselekedeteik ismeretlenek maradnak, amíg el nem cselekszenek.
+Ellenkező esetben, ha a játékosoknak nincs módjuk megtudni, mit fognak tenni a nem játékos karakterek, a cselekedeteik ismeretlenek maradnak, amíg el nem cselekszenek.
 
-Bárki dönthet úgy, hogy késlelteti a cselekvését későbbre, az utolsó cselekedet pedig az 1. DEX-rangsorban történik. Ha ennél tovább késleltetsz, a karaktered nem hajt végre cselekedetet az adott harci körben (a védekezőn kívül). Ugyanez igaz a nemjátékos karakterekre is.
+Bárki dönthet úgy, hogy késlelteti a cselekedetét későbbre, az utolsó cselekvés az 1. ÜGY-rangon történik. Ha ennél tovább késleltetsz, a karaktered a harci körben nem hajt végre cselekedetet (kivéve a védekezést). Ugyanez igaz a nem játékos karakterekre is.
 
-Ha meg kell határozni, ki cselekszik először, amikor a DEX-rangsorok egyenlőek, a vonatkozó képzettséggel döntsd el, ki cselekszik előbb. A magasabb képzettséggel rendelkező karakter cselekszik először. Ha ezek is egyenlőek, a cselekedetek egyszerre történnek.
+Ha meg kell határozni, ki cselekszik először, amikor az ÜGY-rangok azonosak, használd a vonatkozó képzettséget az elsőbbség eldöntésére. A magasabb képzettségű karakter cselekszik először. Ha ezek is azonosak, a cselekedetek egyidejűleg történnek.
 
-> #### A szándéknyilatkozat alternatívái (Opcionális)
+> #### A szándéknyilatkozat alternatívái (Opciók)
 > 
-> Az alábbiakban három alternatív módszer található a harci kör cselekvési sorrendjének kezelésére. Tetszés szerint használhatók, akár kombinálhatók is a csoport preferenciáinak megfelelően.
+> Az alábbiakban három alternatív módszert találsz a harci kör cselekvési sorrendjének kezelésére. Ezek tetszés szerint használhatók, akár kombinálva is, hogy megfeleljenek a csoportod preferenciáinak.
 > 
-> ##### A szándéknyilatkozat eltávolítása (Opcionális)
+> ##### A szándéknyilatkozat eltávolítása (Opció)
 > 
-> A szándéknyilatkozat teljesen elhagyható a gyorsabb játék érdekében. Ebben az esetben ugorj egyből az erők fázisára, majd a cselekvési fázisra. Ebben a leegyszerűsített játékmódban a játékmester visszaszámolja a DEX-rangsorokat a cselekvési fázisban, és minden játékos bejelenti a cselekvését, majd azonnal dob az eredmény meghatározásához.
+> A szándéknyilatkozat teljesen elhagyható a gyorsabb játék érdekében. Ebben az esetben ugorj egyenesen az erők szakaszba, majd a cselekvés szakaszba. Ez az áramvonalas játékmód úgy működik, hogy a mesélő visszaszámolja az ÜGY-rangokat a cselekvés szakaszában, és minden játékos bejelenti a cselekvési szándékát, majd azonnal dob a kimenetel eldöntésére.
 > 
-> ##### Fordított sorrendű szándéknyilatkozat (Opcionális)
+> ##### Fordított sorrendű szándéknyilatkozat (Opció)
 > 
-> A szándéknyilatkozat megfordítása taktikusabb játékstílust tesz lehetővé, ami a magasabb DEX-rangsorral rendelkezőknek jobb reagálási lehetőséget biztosít más karakterek – legyen szó ellenfelekről vagy szövetségesekről – cselekedeteire. A játékmester az 1. DEX-rangsorral kezdi és számol felfelé, hagyva, hogy minden fél bejelentse cselekedeteit, a szokásos módon. Ez lehetővé teszi a magasabb DEX-ű karaktereknek, hogy teljes tudatában cselekedjenek annak, mi fog történni a harci körben, így ennek megfelelően hozhatnak taktikai döntéseket. Amikor a szándéknyilatkozat fázisa véget ér, a játékmester a szokásos módon számolja vissza a kört. Ez a módszer lehetőséget teremt cselek és más lehetséges megtévesztő manőverek beépítésére a harcba, gazdagabb és taktikusabb környezetet biztosítva minden játékos vagy játékmester számára, aki élvezi ezt a játékstílust.
+> A szándéknyilatkozat megfordítása taktikusabb játékstílust tesz lehetővé, mivel a magasabb ÜGY-rangúak jobban reagálhatnak más karakterek, legyenek azok ellenfelek vagy szövetségesek, cselekedeteire. A mesélő az 1. ÜGY-ranggal kezdi és számol felfelé, hagyva, hogy minden fél bejelentse a cselekedeteit, a szokásos módon. Ez lehetővé teszi a magasabb ÜGY-vel rendelkező karakterek számára, hogy teljes tudatában cselekedjenek annak, ami a harci körben történni fog, így ennek megfelelően hozhatnak taktikai döntéseket. Amikor a szándéknyilatkozati szakasz véget ér, a mesélő normál módon visszaszámolja a kört. Ez a módszer lehetőséget teremt cselek és más potenciális megtévesztő manőverek integrálására a harcba, gazdagabb és taktikusabb környezetet biztosítva minden játékos vagy mesélő számára, aki élvezi az ilyen stílusú játékot.
 > 
-> ##### Kezdeményezésdobások (Opcionális)
+> ##### Kezdeményezésdobások (Opció)
 > 
-> Egy harci kör kezdetén minden játékos és nemjátékos karakter dob egy D10-zel, és hozzáadja a DEX értékéhez, így létrehozva egy új és változó DEX-rangsort. A cselekedetek továbbra is a DEX-rangsor sorrendjében történnek. Az erők esetében használj egy D10-et plusz INT-et, és ezt az értéket használd a DEX-rangsorok mellett. Ez a kezdeményezési érték (DEX+D10) az egész harc során megmaradhat.
+> Egy harci kör kezdetén minden játékos és nem játékos karakter dob egy D10-zel, és hozzáadja az ÜGY-jéhez, létrehozva egy új és változó ÜGY-rangot. A cselekedetek továbbra is ÜGY-rang sorrendben történnek. Az erők esetében használj egy D10-et plusz INT-et, és használd ezt az értéket az ÜGY-rangok mellett. Ez a kezdeményezési érték (ÜGY+D10) a teljes harc alatt megmaradhat.
 > 
-> A játékmester dob az egyes nemjátékos karakterekért, és a kényelem kedvéért dobhat 1D10-et egy egész nemjátékos karaktercsoport reprezentálására, ha kívánja, vagy akár kisebb csoportokra is bonthatja a nagy nemjátékos csoportokat különböző kezdeményezésdobásokkal. Egy vezető vagy más módon kivételes nemjátékos karakter saját dobásokkal rendelkezhet, hogy megkülönböztethető legyen a tömegtől.
+> A mesélő minden nem játékos karakterért dob, és a kényelem kedvéért dobhat 1D10-et egy nem játékos karakterekből álló csoport képviseletére, ha szükséges, vagy akár kisebb csoportokra is bonthatja a nagyobb nem játékos csoportokat különböző kezdeményezésdobásokkal. Egy vezető vagy más módon kivételes nem játékos karakternek lehetnek saját dobásai, hogy megkülönböztessék őket a tömegtől.
 > 
-> Megjegyzendő, hogy ezzel a módszerrel a karakterek nagyobb valószínűséggel hajthatnak végre második vagy harmadik cselekedetet egy körben, ami némileg hosszabbá teszi a harci köröket.
+> Megjegyzendő, hogy a karakterek ezzel a módszerrel nagyobb valószínűséggel hajthatnak végre második vagy harmadik cselekedetet egy körben, ami némileg hosszabbá teszi a harci köröket.
 
 ### Erők
 
-Az erők sokféleképpen működnek, de harcban mindet ugyanúgy kezeljük. Ha a karaktered egy azonnali erőt használ, az az erők fázisában aktiválódik, az érintett karakterek INT (Intelligencia) értéke szerint, a legmagasabbtól a legalacsonyabbig. Ezt nevezzük **INT-rangsornak**. Azok az erők, amelyek nem azonnaliak, a következő harci kör erők fázisának kezdetén aktiválódnak, hacsak nincs másképp meghatározva.
+Az erők sokféleképpen működnek, de harcban ugyanúgy kezelik őket. Ha a karaktered egy pillanatnyi erőt használ, az erő ebben a szakaszban aktiválódik, az érintett karakterek INT-je szerint, a legmagasabbtól a legalacsonyabbig. Ezt nevezzük **INT-rangnak**. Azok az erők, amelyek nem pillanatnyiak, a következő harci kör elején aktiválódnak az erők szakaszában, hacsak másképp nincs meghatározva.
 
-Bárki késleltetheti az erőhasználatát egy későbbi INT-rangsorra. Az utolsó INT-rangsor az 1, és akárcsak a DEX-rangsornál, ha a cselekedetet ennél a rangsoron túl késleltetik, az nem történik meg az adott harci körben. Ha az INT-rangsorok egyenlőek, a vonatkozó képzettséget (ha van) használd döntetlenként, a magasabb képzettségű cselekszik előbb. Ha nincs megfelelő képzettség, a magasabb POW (Erő) cselekszik előbb. Ha még mindig egyenlőek, az erők egyszerre történnek.
+Bárki késleltetheti az erőhasználatát egy későbbi INT-rangra. Az utolsó INT-rang az 1, és az ÜGY-ranghoz hasonlóan, ha egy cselekedetet ezen a rangon túl késleltetnek, az nem következik be az adott harci körben. Ha az INT-rangok azonosak, használd a vonatkozó képzettséget (ha van) a holtverseny eldöntésére, a magasabb képzettséggel kezdve. Ha nincs vonatkozó képzettség, a magasabb HAT cselekszik először. Ha még mindig azonosak, az erők egyidejűleg történnek.
 
-A karaktered harci körönként egy erőt aktiválhat. Az erőhasználat a harci kör erők fázisában a karaktered cselekedetének számít az adott körben. A DEX-rangsora alatt nem támadhat fegyverrel, de mozoghat, ha akar, és kitérhet vagy háríthat, ha szükséges. A legtöbb erő pontosan egy teljes harci kört igényel az előkészítéshez és a használathoz, hatásuk a következő harci kör elején, az erők fázisában jelentkezik. Ez alól az erők leírásaiban található kivételek képeznek kivételt.
+Karaktered harci körönként egy erőt aktiválhat. Az erőhasználat a harci kör erő szakaszában a karaktered cselekedetének számít az adott körben. Nem támadhat fegyverrel az ÜGY-rangján, de mozoghat, ha akar, és kitérhet vagy elháríthat, ha szükséges. A legtöbb erő pontosan egy teljes harci környi előkészítést és használatot igényel, a hatásuk pedig a következő harci kör elején, az erők szakaszában jelentkezik. Az ez alóli kivételeket az erők leírása tartalmazza.
 
-Az erőkért felhasznált erőpontokat azon az INT-rangsoron kell levonni, amelyen használják őket.
+Az erőkért elhasznált erőpontokat azon az INT-rangon vonják le, amelyen azokat használják.
 
 ### Cselekvés
 
-A harcban lévő karakter vagy **lekötött**, vagy **nem lekötött**. A lekötött karakter az ellenfelei ütőtávolságán belül van, és készen áll a támadásra vagy védekezésre, amikor lehetősége van rá. Általában bárki, aki lekötött harcban vesz részt, büntetés nélkül vagy jelentős mozgásigény nélkül cselekedhet bárki más ellen az adott harcban. A nem lekötött karakter is cselekszik a harc során, de más cselekedeteket hajt végre, és a kézitusa (vagy ha benne van, de nem vesz részt aktívan benne) hatótávolságán kívül esik.
+A harcban lévő karakter vagy **lekötött**, vagy **szabad**. Egy lekötött karakter az ellenfelei ütőtávolságán belül van, és készen áll a támadásra vagy védekezésre, amikor lehetséges. Általában bárki, aki harcban áll, büntetés nélkül vagy jelentős mozgásigény nélkül cselekedhet bárki más ellen az adott harcban. Egy szabad karakter még mindig cselekszik a harc során, de más cselekedeteket hajt végre, és a közelharc hatótávolságán kívül van (vagy benne van, de nem vesz részt aktívan).
 
-Akárcsak a szándéknyilatkozatoknál, a cselekedetek a karaktered DEX-rangsorain történnek. A cselekedetek lehetnek támadások, elhárítások, kitérések vagy egyéb, nem lekötött karakterek által végrehajtott cselekedetek.
+A szándéknyilatkozatokhoz hasonlóan a cselekedetek a karaktered ÜGY-rangjain történnek. A cselekedetek lehetnek támadások, elhárítások, kitérések vagy más, szabad karakterek által végrehajtott cselekedetek.
 
-Egy adott DEX-rangsoron belül a támadások általában fegyvertípus szerinti sorrendben történnek. A távolsági fegyverekkel (íjak, fegyverek stb.) felszerelt támadók a kézitusa (közelharc) előtt cselekszenek. Utánuk következnek a hosszú fegyverekkel (lándzsák, dárda stb.) felszerelt karakterek, majd a közepes hosszúságú fegyverekkel (kardok, fejszék stb.) felszereltek, és végül a rövid fegyverekkel (tőrök stb.) felszereltek, vagy azok, akik fegyvertelenek. Az elhárítások és a támadással kapcsolatos kitérések ugyanabban a DEX-rangsorban történnek, mint az eredeti támadás.
+Egy adott ÜGY-rangon belül a támadások általában a fegyvertípus sorrendjében történnek. A távolsági fegyverekkel (íjak, lőfegyverek stb.) felszerelt támadók a közelharcban állók előtt cselekszenek. Utánuk következnek a hosszú fegyverekkel (lándzsák, dárda stb.) felszerelt karakterek, majd a közepes hosszúságú fegyverekkel (kardok, bárdok stb.) rendelkezők, és végül a rövid fegyverekkel (tőrök stb.) rendelkezők, vagy akik fegyvertelenek. Az elhárítások és a támadással kapcsolatos kitérések ugyanazon az ÜGY-rangon történnek, mint az eredeti támadás.
 
-Ha a karaktered egynél több cselekedetet hajthat végre egy körben (egyes fegyverek több támadást tesznek lehetővé, és a 100% feletti harci képzettségszintek szintén több támadást tesznek lehetővé), minden támadást 5 DEX-rangsorral kell elválasztani. Az első cselekedet a teljes DEX-rangsorban van; a második DEX-rangsor –5-nél; a harmadik DEX-rangsor –10-nél stb. A karaktered nem cselekedhet 0 DEX-rangsorban, így minden olyan cselekedet, amely az 1. DEX-rangsor alatt történne, elveszik.
+Ha a karaktered több mint egy cselekedetet hajthat végre egy körben (egyes fegyverek lehetővé teszik a többszörös támadást, és a 100% feletti harci képzettségszintek is lehetővé teszik a többszörös támadást), minden támadást 5 ÜGY-rangnak kell elválasztania. Az első cselekedet a teljes ÜGY-rangon történik; a második az ÜGY-rang – 5-ön; a harmadik az ÜGY-rang – 10-en, stb. A karaktered nem cselekedhet a 0. ÜGY-rangon, tehát minden olyan cselekedet, amely az 1. ÜGY-rang alá esne, elveszik.
 
-Az alábbiakban összefoglaljuk a harci körön belüli cselekedetek eredményeit. A fejezet későbbi részében a siker különböző szintjeinek (kritikus és speciális sikerek) és a különböző típusú támadások eredményeit részletesebben ismertetjük.
+Az alábbiakban összefoglaljuk a harci körön belüli cselekedetek eredményeit. A fejezet későbbi részében a siker különböző szintjei (kritikus és speciális sikerek) és a különböző típusú támadások eredményeit részletesebben ismertetjük.
 
 ### Harci cselekedetek
 
-Egy harci körben a karaktered a következő cselekedetek közül hajthat végre egyet a DEX-rangsorában:
+Egy harci körben a karaktered az alábbi cselekedetek közül bármelyiket végrehajthatja az ÜGY-rangján:
 
 * Mozgás
 * Támadás
 * Nem harci cselekedet
 * Lekötés
-* Lekötés megszüntetése
+* Szabadulás
 
-Bármikor a harci kör során a karaktered:
+A harci kör bármely pontján a karaktered:
 
-* Háríthat vagy kitérhet
-* Védekezőn harcolhat
+* Elháríthat vagy kitérhet
+* Védekezően harcolhat
 * Beszélhet
 
 #### Mozgás
 
-Ha a karaktered nem lekötött, egy harci körben körülbelül 30 métert mozoghat, ha semmilyen más cselekedetet nem hajt végre, csak védekezik (hárít vagy kitér). A 6–15 méter közötti mozgás azt jelenti, hogy a karaktered a normál DEX-rangsorának felénél cselekszik. A 16–29 méter közötti mozgás egy harci körben azt jelenti, hogy a karaktered a normál DEX-rangsorának negyedénél cselekszik. Ezek a módosított DEX-rangsorok összeadódnak a további cselekedetekre vonatkozó büntetésekkel, a mozgás DEX-rangsor módosítói pedig először alkalmazandók.
+Ha a karaktered szabad, akkor egy harci körben körülbelül 30 métert mozoghat, ha nem hajt végre más cselekedetet, csak védekezik (elhárítás vagy kitérés). A 6–15 méter közötti mozgás azt jelenti, hogy a karaktered a normál ÜGY-rangja felén cselekszik. A 16–29 méter közötti mozgás egy harci körben azt jelenti, hogy a karaktered a normál ÜGY-rangja negyedén cselekszik. Ezek a módosított ÜGY-rangok összeadódnak a további cselekedetekért járó büntetésekkel, a mozgás ÜGY-rangra vonatkozó módosítóit alkalmazva először.
 
 #### Támadás
 
-A karaktered a DEX-rangsorában támadást hajthat végre egy célpont ellen, amellett, hogy akár 5 métert mozoghat. Hacsak másként nem módosul, ezt a támadást a teljes képzettségi értéken hajtja végre. Ahogy fentebb megjegyeztük, ha egy adott fegyver több támadást tesz lehetővé, minden egymást követő támadásnak 5 DEX-rangsorral alacsonyabbnak kell lennie, mint az előző támadásnak.
+A karaktered az ÜGY-rangján támadást indíthat egy célpont ellen, amellett, hogy akár 5 métert is mozoghat. Hacsak másképp nem módosul, ez a támadás a teljes képzettségi szinttel történik. Amint fentebb említettük, ha egy adott fegyver lehetővé teszi a többszörös támadást, minden egymást követő támadásnak 5 ÜGY-ranggal alacsonyabbnak kell lennie az előzőnél.
 
 #### Nem harci cselekedet
 
-Egy nem lekötött karakter megkísérelheti egy képzettség vagy erő használatát, vagy valamilyen más, képzettségi dobást nem igénylő cselekedetet hajthat végre, mint például fegyver előhúzása vagy ajtó kinyitása. Használd a józan eszedet arra vonatkozóan, hogy milyen cselekedetek hajthatók végre ésszerűen ebben az időben és az engedélyezett mozgás mértékén belül. Ezek a cselekedetek, ha harci cselekedetekkel vagy több nem harci cselekedettel kombinálják őket, cselekedetenként 5 DEX-rangsor büntetést vonnak maguk után, hacsak a játékmestered nem mondja azt, hogy több időt kellene igénybe venniük.
+Egy szabad karakter megkísérelheti egy képzettség vagy erő használatát, vagy végrehajthat más cselekedetet, amely nem igényel képzettségpróbát, például fegyver előhúzását vagy ajtó kinyitását. Használd a józan ész szabályát arra vonatkozóan, hogy milyen cselekedetek hajthatók végre ésszerűen ennyi idő alatt és az engedélyezett mozgás mértékén belül. Ezek a cselekedetek, ha harci cselekedetekkel vagy több nem harci cselekedettel kombinálják őket, cselekedetenként 5 ÜGY-rang büntetést vonnak maguk után, hacsak a mesélő nem mondja, hogy tovább tartanak.
 
 #### Lekötés
 
-Egy nem lekötött karakter akár 5 métert is mozoghat, és büntetés nélkül támadást és/vagy védelmi cselekedetet hajthat végre, harcba bocsátkozva.
+Egy szabad karakter akár 5 métert is mozoghat, és végrehajthat egy támadást és/vagy védekező cselekedetet büntetés nélkül, bekapcsolódva a harcba.
 
-#### Lekötés megszüntetése
+#### Szabadulás
 
-Egy lekötött karakter dönthet úgy, hogy elhagyja a harcot, ha a szándéknyilatkozat fázisában bejelenti, hogy megszünteti a lekötést. Általában nem hajt végre támadó cselekedeteket, hanem csak kitérésekre, hárításokra és mozgási cselekedetekre korlátozódik. Ha a karaktered sikeresen végrehajtja az összes kitérést vagy hárítást ebben a harci körben, sikeresen megszüntette a harci lekötést, és eltávolodhat a csatától teljes mozgási sebességével. Ha ezen dobások közül bármelyik kudarcot vall, a karaktered továbbra is harci lekötésben marad. Egyéb lehetőségeket a **Lekötés megszüntetése** rész tárgyalja.
+Egy lekötött karakter dönthet úgy, hogy elhagyja a harcot azzal, hogy a nyilatkozati szakaszban bejelenti a szabadulást. Általában nem hajt végre támadó cselekedeteket, hanem csak kitérésekre, elhárításokra és mozgásra korlátozódik. Ha a karaktered sikeres minden, a harci kör során végrehajtott kitérésben vagy elhárításban, sikeresen kiszabadult a harcból, és eltávolodhat a csatától teljes mozgási sebességével. Ha ezek közül bármelyik dobás elbukik, a karaktered továbbra is harcban áll. Az egyéb lehetőségeket a **Szabadulás** rész tárgyalja.
 
-#### Hárítás
+#### Elhárítás
 
-Bárki, aki hárító fegyverrel vagy pajzzsal (vagy saját testével) van felfegyverezve, blokkolhatja egy támadás sebzését. Dobj a vonatkozó harci képzettségre egy csapás hárításához. Ezt nem szükséges előre bejelenteni, és egy másik harcos sikeres támadására reagálva történik.
+Bárki, aki elhárító fegyverrel vagy pajzzsal van felszerelve (vagy a saját testét használja), blokkolhatja a támadás okozta sebzést. Dobj a vonatkozó harci képzettségre a csapás elhárításához. Ezt nem szükséges előre bejelenteni, és egy másik harcos sikeres támadó dobására adott reakcióként történik.
 
-Egy sikeres hárítás általában elhárítja a bejövő támadás összes sebzését (hacsak nem a saját testeddel hárítasz, mint a harcművészetek egy formája), a sikeres támadásokat kihagyásokra csökkenti, vagy a speciális vagy kritikus támadások súlyosságát ennek megfelelően csökkenti. A pajzs páncélpontjait és életerőpontjait (AP/HP) csak akkor használjuk, ha a magával a pajzzsal szemben okozott közvetlen sebzéssel foglalkozunk, például egy támadásnál, amellyel megpróbálnak elpusztítani egy pajzsot vagy hárító fegyvert; mint amikor hárítunk egy zúzó csapást a sebzés ellen a pajzs páncélpontjaival az ellenállási táblázaton, vagy amikor 2 vagy 4 sebzéspontot okoznak a hárító fegyvernek vagy pajzsnak az **Attack and Defense Matrix** táblázaton.
+Egy sikeres elhárítás általában elhárítja a bejövő támadás minden sebzését (hacsak nem a saját testeddel hárítasz, mint egyfajta Harcművészet), a sikeres támadásokat elhibázottá minősíti, vagy ennek megfelelően csökkenti a speciális vagy kritikus támadások súlyosságát. A pajzs páncélpontjait és életerőpontjait (AP/HP) csak akkor használják, ha magát a pajzsot éri közvetlen sérülés, például amikor megpróbálnak elpusztítani egy pajzsot vagy elhárító fegyvert; például amikor elhárítás közben tompa csapással szemben ellenállást fejtenek ki a pajzs páncélpontjaival szemben az ellenállás táblázaton, vagy amikor az **Attack and Defense Matrix** szerint 2 vagy 4 életerőpont sebzést mérnek az elhárító fegyverre vagy pajzsra.
 
-Minden egymást követő hárítási kísérlet az első után –30%-kal módosul a képzettségi értéken, összeadódva. Ha a támadás hárításának esélye 1% alá esik, a karaktered nem kísérelheti meg a hárítást. A legtöbb körülmény között a karaktered csak pajzzsal háríthatja a távolsági fegyvereket, a pajzs alap esélyén (lásd **Pajzsok és távolsági tűz**). Ha egy elhajított fegyvert kézifegyverrel próbálsz hárítani, a hárítás esélyének speciális sikernek kell lennie (a normál képzettségi érték 1/5-e).
+Minden egymást követő elhárítási kísérlet az első után –30%-kal módosul a képzettségi szinthez képest, halmozottan. Ha a támadás elhárításának esélye 1% alá csökken, a karaktered nem kísérelheti meg az elhárítást. A legtöbb körülmény között a karaktered csak pajzzsal háríthat távolsági fegyvereket, a pajzs alap esélyével (lásd **Pajzsok és távolsági tűz**). Ha egy eldobott fegyvert kézifegyverrel próbálsz elhárítani, az elhárítás esélyének speciális sikernek kell lennie (a normál képzettségi szint 1/5-e).
 
-Hasonlóképpen, ha a karaktered rögtönzött fegyvereket vagy olyan fegyvereket használ, amelyeket általában nem hárításra használnak, a hárítás esélye a fegyver képzettségi értékének fele, vagy fix 20%, ha a fegyverrel általában nem hárítanak, vagy az kívül esik a képzésükön. Ez módosulhat a hasonló képzettségekben elért képzettségi szintek alapján, a játékmester belátása szerint.
+Hasonlóképpen, ha a karaktered rögtönzött fegyvereket használ, vagy olyan fegyvereket, amelyeket általában nem használnak elhárításra, az elhárítás esélye a fegyver képzettségi szintjének a fele, vagy fix 20%, ha a fegyverrel általában nem hárítanak, vagy az kívül esik a képzésükön. Ezt a mesélő belátása szerint módosíthatják a hasonló képzettségekben elért szintek alapján.
 
-***Például,*** *puska használatakor a karakterednek 58%-os támadási esélye van, de amikor egy támadást a puskával hárít, az esélye Nehéz, azaz 29%, mivel a legtöbb modern katonai puskaképzés magában foglalja a hárító fegyverként való használatát. Egy másik karakter, például egy vadász, ugyanazzal az 58%-os támadási képzettséggel 20%-os eséllyel hárít puskával, ami a távolsági fegyverrel való hárítás alapértelmezett esélye. Hasonlóképpen, egy katona használhat egy ásót (egy kis összecsukható lapátot) hárító fegyverként, fejszeképzettségének felével, mivel a fegyver mérete és alakja nagyjából hasonló.*
+***Például,*** *puska használatakor a karakterednek 58%-os támadási esélye van, de amikor a puskával hárítasz egy támadást, az esélyed Nehéz, azaz 29%, mert a legtöbb modern katonai puskakiképzés magában foglalja a fegyver elhárító fegyverként való használatát. Egy másik karakter, például egy vadász viszont, ugyanazzal az 58%-os támadási képzettséggel, 20%-os eséllyel háríthat puskával, ami a távolsági fegyverrel való hárítás alap esélye. Hasonlóképpen, egy katona használhat egy ásót (egy kis összecsukható lapátot) elhárító fegyverként a fejszeképzettsége felével, mivel méretében és alakjában hasonló fegyver.*
 
-A játékmester dönthet úgy, hogy egy adott támadás nem hárítható, például egy sokkal nagyobb támadótól (például a védő SIZ-jének kétszerese vagy több), vagy amikor a támadó területre ható vagy elsöprő támadást használ.
+A mesélő dönthet úgy, hogy egy adott támadás nem hárítható, például egy jóval nagyobb támadó részéről (például a védő MÉR-jének kétszerese vagy több), vagy amikor a támadó területre ható vagy elsöprő támadást használ.
 
-***Például,*** *egy 15-ös SIZ-ű karakter nem háríthatja egy 72-es SIZ-ű brontosaurus támadását. Ehelyett a támadást Ki kell térni vagy más módon el kell kerülni.*
+***Például,*** *egy 15 MÉR-ű karakter nem háríthat egy 72 MÉR-ű brontoszaurusz támadását. Ehelyett a támadást Ki kell térni vagy más módon el kell kerülni.*
 
 #### Kitérés
 
-Egyes fegyverek és támadások nem háríthatók, és ezeket Ki kell térni. Kitérést minden közelharci támadás vagy elhajított fegyver ellen meg lehet kísérelni. A hárításokhoz hasonlóan a kitéréseket sem kell a támadás dobása előtt bejelenteni, hanem egy másik karakter sikeres támadására reagálva kíséreljük meg (lásd Kitérés). Minden egymást követő kitérési kísérlet az első után –30%-os módosítóval jár a képzettségi értéken, összeadódva. Ha a támadás kitérésének esélye 1% alá esik, a karaktered nem kísérelheti meg a Kitérést.
+Egyes fegyverek és támadások nem háríthatók, ezek elől ki kell térni. A kitérések minden közelharci támadás vagy eldobott fegyver ellen megkísérelhetők. Az elhárításhoz hasonlóan a kitérést sem kell a támadó dobás előtt bejelenteni, hanem egy másik karakter sikeres támadó dobására adott reakcióként kísérlik meg (lásd Kitérés). Minden egymást követő kitérési kísérlet az első után –30%-os módosítóval jár a képzettségi szinthez képest, halmozottan. Ha a támadás elkerülésének esélye 1% alá csökken, a karaktered nem kísérelheti meg a Kitérést.
 
-Normális esetben egy karakter nem térhet ki golyók vagy nagy sebességű lövedékfegyverek (nyilak, lézerek stb.) elől. Ehelyett azt feltételezzük, hogy kitéritenek a fegyver irányából. Ebben az esetben a karaktered csak az első ilyen távolsági fegyver ellen kísérelhet meg Kitérést egy harci körben, és csak akkor, ha a támadó és a fegyver látható. Az ilyen kísérletek Nehezek. Bizonyos műfajok vagy erőszintek nagyobb szabadságot biztosíthatnak a távolsági tűz elől való kitérésben (lásd **Távolsági fegyverek kikerülése**).
+Normális esetben a karakter nem térhet ki golyók vagy nagy sebességű lövedékfegyverek (nyilak, lézerek stb.) elől. Ehelyett azt feltételezzük, hogy abba az irányba térnek ki, ahová a fegyver mutat. Ebben az esetben a karaktered csak az első ilyen távolsági fegyver ellen kísérelhet meg kitérést egy harci körben, és csak akkor, ha a támadó és a fegyver látható. Az ilyen kísérletek Nehezek. Bizonyos műfajok vagy erősszintek nagyobb szabadságot engedhetnek a távolsági tűz elkerülésében (lásd **Kitérés távolsági fegyverek elől**).
 
-#### Védekezőn harcolni
+#### Védekezően harcolni
 
-Ezt a lehetőséget használva a karaktered lemond minden támadó cselekedetről a körben, hogy extra Kitérési kísérletet kapjon. Ez a kitérés nem vonja maga után a további kitérési vagy hárítási kísérletekre vonatkozó –30%-os kumulatív büntetést (lásd **Védekezőn harcolni**).
+Ezzel az opcióval a karaktered feladja a kör során a támadó cselekvést, hogy egy extra Kitérési kísérletet kapjon. Ez a kitérés nem vonja maga után a további elhárítási vagy kitérési kísérletekért járó, utólagos, halmozott –30%-os büntetést (lásd **Védekező harc**).
 
 #### Beszéd
 
-A beszéd egy szabad cselekedet, és a normál beszélgetés vagy kiabált parancsok nem kerülnek DEX-rangsorokba, és nem korlátozzák jelentős mértékben a karaktered cselekedeteit. Azonban, ha a karaktered hosszabb ideig beszél, vagy két karakter közötti beszélgetés alakul ki cselekvés közben, a játékmestered kérheti, hogy tartsd röviden a beszélgetéseket harci körök vagy cselekvési sorozatok során. Ez beállításonként változhat: bár egy szuperhősös játékban egy verekedés közbeni monológ teljesen normális, egy vadnyugati pisztolypárbajban már nem odaillő lenne.
+A beszéd egy ingyenes cselekvés, a normál társalgás vagy az elkiáltott parancsok nem kerülnek ÜGY-rangokba, és nem korlátozzák a karaktered cselekvéseit semmilyen jelentős módon. Ha azonban a karaktered hosszabb ideig beszél, vagy két karakter közötti beszélgetés zajlik a cselekvés közepette, a mesélő kérheti, hogy tartsd röviden a beszélgetéseket a harci körök vagy cselekvési szekvenciák alatt. Ez beállításonként változhat: bár egy szuperhősös játékban teljesen normális, hogy monológokat adnak elő egy ökölharc közben, egy vadnyugati pisztolypárbajban már nem odaillők lennének.
 
-#### Hárítások és kitérések
+#### Elhárítások és kitérések
 
-A hárítások és kitérések nem kombinálhatók egy körben, hacsak a karaktered teljesen védekező állapotban nincs. Ebben az esetben a –30%-os módosítók az egymást követő védelmi cselekedetekre mind a hárításokat, mind a kitéréseket magukban foglalják.
+Az elhárítások és kitérések nem kombinálhatók egy körben, hacsak a karaktered teljesen védekező állapotban nincs. Ebben az esetben az egymást követő védekező cselekedetek –30%-os módosítói az elhárításokat és a kitéréseket is magukban foglalják.
 
-> ### Erők a cselekvési fázisban (Opcionális)
+> ### Erők a cselekvés szakaszában (Opció)
 > 
-> Normális esetben az erőhasználatot az erők fázisában kezeljük, bármilyen fizikai cselekvés előtt. A dolgok egyszerűsítése és a feltételek kiegyenlítése érdekében az erőhasználat a normál DEX-rangsorok alatt is történhet, akárcsak egy normál támadásnál. A harci kör erők fázisa továbbra is az az időszak, amikor az előző harci körben elindított, nem azonnali erők hatásai életbe lépnek, de a cselekvési fázisban az INT-rangsorok és a DEX-rangsorok egymás mellett fordulnak elő, kombinálva a két visszaszámlálást. A karaktered továbbra is egy cselekedetre korlátozódik, attól függően, mit csinál: egy erő az INT-rangsorban, egy fizikai cselekedet a DEX-rangsorban történik. A döntetleneket a másik jellemző használatával oldják meg (ha az INT egyenlő, a magasabb DEX cselekszik előbb), vagy a magasabb képzettség/erőszinttel, ha alkalmazható. Ha még mindig egyenlőek, az erők egyszerre történnek.
+> Normális esetben az erőhasználatot az erők szakaszában kezelik, mielőtt bármilyen fizikai cselekvés megtörténne. A dolgok egyszerűsítése és a feltételek kiegyenlítése érdekében az erőhasználat a normál ÜGY-rangokon is történhet, akárcsak egy normál támadásnál. A harci kör erők szakasza továbbra is az az időszak marad, amikor az előző harci körben elindított, nem pillanatnyi erők hatása érvényesül, de a cselekvés szakaszában az INT-rangok és az ÜGY-rangok egymás mellett történnek, kombinálva mindkét visszaszámlálást. A karaktered továbbra is egy cselekedetre korlátozódik, attól függően, mit csinál: egy erő az INT-rangon, egy fizikai cselekedet az ÜGY-rangon történik. A holtversenyeket a másik jellemző segítségével döntik el (ha az INT azonos, a magasabb ÜGY cselekszik először), vagy ha alkalmazható, a magasabb képzettség/erőszint dönt. Ha még mindig azonosak, az erők egyidejűleg történnek.
 
-> ### Közelharci találati hely táblázat (Opcionális)
+> ### Közelharci találati hely táblázat (Opció)
 > 
-> Ahogy a **Életerőpontok találati helyenként** részben leírtuk, a karaktered teljes életerőpontja megoszlik a testrészei között, miközben összesített értékként is nyilvántartjuk. Amikor egy támadás sikeres, dobj egy D20-assal, és az eredményt használd a megfelelő találati hely táblázat kikereséséhez. Az emberek a standard találati hely táblázatot használják, és más testtípusok találati hely táblázatait a **Nem emberi találati helyek táblázata** részben találod a Tizenegyedik Fejezetben: Lények. Ha a karaktered nem humanoid, a játékmesterednek jeleznie kell, melyik találati hely táblázatot kell használnod.
+> Ahogy a **Találati pontok találati helyenként** részben leírtuk, a karaktered életerőpontjainak összegét elosztjuk a testrészei között, valamint összértékként is nyomon követjük. Amikor egy támadás sikeres, dobj egy D20-szal, és használd az eredményt a megfelelő találati hely táblázat megtekintéséhez. Az emberek a standard találati hely táblázatot használják, más testtípusok találati hely táblázatait pedig a Tizenegyedik fejezet: Lények részben találod a **Nem emberi találati hely táblázatok** között. Ha a karaktered nem humanoid, a mesélődnek jeleznie kell, melyik találati hely táblázatot kell használnod.
 > 
 > ##### Találati helyek
 > 
@@ -154,586 +154,579 @@ A hárítások és kitérések nem kombinálhatók egy körben, hacsak a karakte
 > | :---- | :---- | :---- |
 > | 1–4 | Jobb láb | Jobb láb a csípőtől a lábfej aljáig |
 > | 5–8 | Bal láb | Bal láb a csípőtől a lábfej aljáig |
-> | 8–11 | Hasi rész | Csípőízülettől a bordakosár aljáig |
-> | 12 | Mellkas | Bordakosár a nyakig és vállakig |
+> | 8–11 | Has | Csípőízület a bordakosár aljáig |
+> | 12 | Mellkas | Bordakosár a nyakig és a vállakig |
 > | 13–15 | Jobb kar | Teljes jobb kar |
 > | 16–18 | Bal kar | Teljes bal kar |
 > | 19–20 | Fej | Nyak és fej |
 > 
-> Egyes helyzetek, mint például a fedezék vagy a lovas és gyalogos karakterek, módosítják, mely találati helyek érhetők el a harcban (lásd a vonatkozó bejegyzéseket a *Hetedik Fejezetben: Szabályrészletek*).
+> Bizonyos helyzetek, mint például fedezék vagy lovas és gyalogos karakterek szembenállása, módosítják a harcban található találati helyeket (lásd a *Hetedik fejezet: Speciális szabályok* megfelelő bejegyzéseit).
 
 ## Felbontás
 
-Támadás, hárítás vagy kitérés végrehajtásához dobj százalékos kockákkal, és hasonlítsd össze az eredményt a használt fegyverre vagy pajzsra vonatkozó karakterképzettséggel. A támadások kitérést vagy hárítást provokálhatnak, amelyeket ugyanúgy kell dobni. Ezeknek a dobásoknak a sikerét vagy kudarcát az **Attack and Defense Matrix** táblázattal hasonlítjuk össze, hogy lássuk a támadó és a védő kombinált cselekedeteinek eredményét.
+Támadás, elhárítás vagy kitérés végrehajtásához dobj százalékos kockákkal, és hasonlítsd az eredményt a karaktered használt fegyverre vagy pajzsra vonatkozó képzettségéhez. A támadások kitérést vagy elhárítást válthatnak ki, amelyeket ugyanígy kell dobni. Ezeknek a dobásoknak a sikerét vagy kudarcát összehasonlítják az **Attack and Defense Matrix** (Támadási és védekezési mátrix) táblázattal, hogy lássák a támadó és a védő kombinált cselekedeteinek eredményét.
 
 ##### Harci összefoglaló
 
-| Támadás dobása | Hárítás vagy kitérés dobása | Eredmény |
+| Támadó dobás | Elhárítási vagy kitérési dobás | Eredmény |
 | :---- | :---- | :---- |
-| Siker | Siker | A támadó csapása elhárítva vagy kikerülve. |
-| Siker | Kudarc | A védő eltalálva, életerőpontokat veszíthet. |
-| Kudarc | Nincs szükség dobásra | A védő tartja az őrhelyzetet, nem kell dobnia. |
-| Fumble (Baklövés) | Nincs szükség dobásra | Mint a támadó kihagyása fentebb, plusz a támadó dob a fumble táblázaton. |
+| Siker | Siker | A támadó csapása elhárítva vagy kivédve. |
+| Siker | Bukás | A védő találatot kap, és életerőpontokat veszíthet. |
+| Bukás | Nincs szükség dobásra | A védő tartja az őrhelyzetét, nem szükséges dobnia. |
+| Botlás | Nincs szükség dobásra | Mint a támadó hibája esetén fent, plusz a támadó dob a botlástáblázaton. |
 
-### A siker és kudarc szintjei
+### Siker és kudarc szintjei
 
-Akárcsak a képzettségeknél, a harcban is gyakran elengedhetetlen tudni nemcsak azt, hogy egy támadás vagy hárítás sikerült-e vagy kudarcot vallott-e, hanem azt is, hogy mennyire jól sikerült, vagy mennyire súlyos volt a kudarc.
+A képzettségekhez hasonlóan a harcban is gyakran elengedhetetlen tudni, nemcsak azt, hogy egy támadás vagy elhárítás sikerült-e vagy elbukott-e, hanem azt is, mennyire sikerült jól, vagy mennyire súlyosan bukott el.#### Kritikus siker
 
-#### Kritikus siker
+A lehető legjobb dobás! Egy D100-as eredmény, amely kisebb vagy egyenlő a karaktered képzettségértékének 1/20-ával (felfelé kerekítve). A kritikus támadás azt jelenti, hogy a fegyver a lehetséges maximális sebzést okozza (6-ot 1D6 esetén, 9-et 1D8+1 esetén stb.), plusz a normál dobott sebzésmódosítót. Hacsak nem hárítják el egy kritikus hárítással, a kritikus támadás eredménye mindig figyelmen kívül hagyja a páncélt, még akkor is, ha az teljesen körülölelő. Egy kritikus hárítás károsíthatja a támadó fegyvert.
 
-A lehető legjobb dobás! A D100 eredménye kisebb vagy egyenlő a karaktered képzettségi értékének 1/20-ával, felfelé kerekítve. A kritikus támadás azt jelenti, hogy a fegyver a lehetséges maximális sebzést okozza (6 1D6 esetén, 9 1D8+1 esetén stb.) plusz a normál dobott sebzésmódosító. Hacsak nem hárítják egy kritikus hárítással, a kritikus támadás eredménye mindig figyelmen kívül hagyja a páncélt, még akkor is, ha az a páncél mindenre kiterjedő. Egy kritikus hárítás károsíthatja a támadó fegyvert.
+***Például,*** *ha a karaktered fegyverképzettsége 60%, akkor 01–03 közötti dobással ér el kritikus sikert. Amikor ez történik, a karaktered egyszerűen a fegyver által okozható maximális sebzést méri be, a sebzésmódosítót a megszokott módon dobja, és figyelmen kívül hagy minden páncélt, amelyet a célpont viselhet, legyen az természetes vagy technológiai. Ha a kritikus siker egy 1D6+1 sebzést okozó rövidkarddal történt, és a karaktered sebzésmódosítója 1D4, a kritikus sebzés 7+1D4 (6+1=7), figyelmen kívül hagyva a célpont páncélját. Ha a fegyver egy 1D10 sebzést okozó pisztoly, a sebzés 10, és figyelmen kívül hagyja a célpont páncélját.*
 
-***Például,*** *ha a karaktered fegyverképzettsége 60%, akkor 01–03 dobással ér el kritikus sikert. Amikor ezt dobják, a karaktered egyszerűen megkapja a fegyver által okozható maximális sebzést, dobja a sebzésmódosítót a szokásos módon, és figyelmen kívül hagyja a célpont esetleges páncélját, legyen az természetes vagy motorizált. Ha a kritikus siker egy rövidkarddal történik, amely 1D6+1 sebzést okoz, és a karaktered sebzésmódosítója 1D4, a kritikus sebzés 7+1D4 (6+1=7), figyelmen kívül hagyva a célpont páncélját. Ha a fegyver egy pisztoly, amely 1D10 sebzést okoz, a sebzés 10, és figyelmen kívül hagyja a célpont páncélját.*
+A mesélők engedélyezhetik a karakterednek, hogy kritikus siker helyett különleges sikert (lásd alább) mérjen a célpontra, amennyiben azt szeretné.
 
-A játékmestered engedélyezheti, hogy a karaktered a kritikus siker helyett egy speciális sikert (lásd lentebb) okozzon egy célpontnak, ha kívánja.
+#### Különleges siker
 
-#### Speciális siker
+Kivételes dobás. Egy D100-as eredmény, amely kisebb vagy egyenlő a karaktered képzettségértékének 1/5-ével (felfelé kerekítve). A különleges támadás gyakran azt jelenti, hogy a fegyver a normál sebzés mellett a fegyver típusától függő különleges hatást is okoz.
 
-Kivételes dobás. A D100 eredménye kisebb vagy egyenlő a karaktered képzettségi értékének 1/5-ével, felfelé kerekítve. Gyakran egy speciális támadás azt jelenti, hogy a fegyver normál sebzést okoz a fegyver típusán alapuló speciális eredmény mellett.
+*Például egy zúzófegyver, mint egy buzogány, hátralökés/földre vitel hatással rendelkezik.*
 
-*Például egy zúzó fegyvernek, mint a buzogány, visszalökő/döntő hatása van.*
+A különleges hárítás károsíthatja a támadó fegyvert.
 
-Egy speciális hárítás károsíthatja a támadó fegyvert.
-
-***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 04–12 dobással ér el speciális sikert. Ez normál sebzést okoz (például 1D8), de lőfegyver esetén átszúró sebzést is.*
+***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 04–12 közötti dobással ér el különleges sikert. Ez normál sebzést okoz (például 1D8), de lőfegyver esetén átszurkoló sebzést is.*
 
 #### Siker
 
-Jó dobás. Ez a D100 eredménye egyenlő vagy kisebb a karaktered képzettségi értékénél, de nagyobb, mint a speciális vagy kritikus sikerhez szükséges eredmény. A támadások sikeresek, ha nem hárítják vagy kerülik ki őket, és a sebzést normál módon dobják, a támadó vagy hárító fegyverben nem esik kár.
+Jó dobás. Ez egy D100-as eredmény, amely egyenlő vagy kisebb a karaktered képzettségértékénél, de magasabb, mint a különleges vagy kritikus sikerhez szükséges érték. A támadások sikeresek, ha nem hárítják vagy kerülik el őket, és a sebzést a megszokott módon kell dobni, anélkül, hogy a támadó vagy a hárító fegyverben kár esne.
 
-***Például,*** *60%-os Lőfegyver képzettséggel a karaktered normál sikert ér el 13–60 dobással. Egy 1D8 sebzéspontot okozó lőfegyvernél a normál sebzést dobják.*
+***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 13–60 közötti dobással ér el normál sikert. Egy 1D8 pont sebzést okozó lőfegyvernél ilyenkor a normál sebzést kell dobni.*
 
 #### Kudarc
 
-Rossz dobás. A D100 eredménye nagyobb, mint a karaktered képzettségi értéke, de kisebb, mint a kudarc esélyének legmagasabb 1/20-a (lásd Fumble lentebb). A harci dobás kudarcának azt jelenti, hogy a kísérlet nem sikerült, de a karaktered később megpróbálhatja újra ugyanabban vagy a következő harci körben.
+Rossz dobás. Egy D100-as eredmény, amely magasabb a karaktered képzettségértékénél, de kisebb, mint a kudarc valószínűségének legfelső 1/20-a (lásd a Baklövést alább). A harci dobás sikertelensége azt jelenti, hogy a kísérlet kudarcot vallott, de a karaktered később, ugyanabban vagy a következő harci körben újra próbálkozhat.
 
-***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 61–97 dobással vall kudarcot. Nem dobnak sebzést, és a célpontodnak nem kell kitérnie vagy hárítania a támadást.*
+***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 61–97 közötti dobással vall kudarcot. Nem kell sebzést dobni, és a célpontnak sem kell megkísérelnie a támadás elkerülését vagy hárítását.*
 
-#### Fumble (Baklövés)
+#### Baklövés
 
-Katasztrofális dobás! A kudarc esélyének legmagasabb 1/20-a, általában 96–100 közötti tartományban az alacsonyabb képzettségi szinteknél, 100-as dobásnál, amikor a karakterképzettségi szintek 100% felettiek. Gyakran a fumble valamilyen drámai balesetet jelez, és gyakran kényszerít dobást a vonatkozó fumble táblázaton. Lásd a **Közelharci fegyver támadások**, **Közelharci fegyver hárítások**, **Távolsági fegyver támadások** és **Természetes támadások és hárítások Fumble táblázatok** részeket.
+Katasztrofális dobás! A kudarc valószínűségének legfelső 1/20-át kitevő eredmény, amely általában 96–100 között mozog alacsonyabb képzettségi szinteknél, és 100-as dobás, ha a karakter képzettségi szintje 100% felett van. A baklövés gyakran valamilyen drámai szerencsétlenséget jelez, és rendszerint kényszeríti a karaktert a megfelelő baklövés-táblázaton való dobásra. Lásd a **Közelharci fegyvertámadások**, **Közelharci fegyverhárítások**, **Lőfegyvertámadások** és **Természetes támadások és hárítások baklövés-táblázatait**.
 
-***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 98–00 dobással fumble-t követ el. Nem dobnak sebzést, bár dobnod kell a **Távolsági fegyverek Fumble táblázaton**, hogy meghatározd az elhibázott támadás eredményét.*
+***Például,*** *60%-os Lőfegyver képzettséggel a karaktered 98–00 dobással baklövést vét. Nem kell sebzést dobni, de a **Lőfegyverek baklövés-táblázatán** dobnod kell a balul sikerült támadás eredményének meghatározásához.*
 
-Egyes fegyverek meghibásodási esélye (beragadás, elakadás stb.) magas eredményként fejeződik ki.
+Egyes fegyverek rendelkeznek meghibásodási eséllyel (elakadás, beragadás stb.), amelyet egy magas eredmény fejez ki.
 
-***Például,*** *egy muskéta mindig 95–00 dobással hibásodik meg, függetlenül a felhasználó képzettségétől.*
+***Például,*** *egy muskéta 95–00 dobás esetén mindig meghibásodik, függetlenül a használó képzettségétől.*
 
-Ugyanazon szerencsétlen dobás eredményétől és a karaktered képzettségi szintjétől függően lehetséges, hogy a karaktered egyszerre követ el fumble-t és fegyvermeghibásodást; fegyvermeghibásodást követ el fumble nélkül; vagy fumble-t követ el fegyvermeghibásodás nélkül.
+Ugyanazon szerencsétlen dobás eredményétől és a karaktered képzettségi szintjétől függően lehetséges, hogy a karaktered egyszerre vét baklövést és hibásodik meg a fegyvere; hogy a fegyvere meghibásodik baklövés nélkül; vagy baklövést vét fegyvermeghibásodás nélkül.
 
-***Például,*** *a karaktered 60%-os muskétaképzettséggel 99-et dob lövés közben. Mivel a fegyver 95–00 dobással hibásodik meg, és a karaktered normális esetben 98–00 dobással követ el fumble-t, ez a támadás sajnos fumble és fegyvermeghibásodás is. Ha a dobás 95, 96 vagy 97 lett volna, akkor csak fegyvermeghibásodás lett volna.*
+***Például,*** *a karaktered 60%-os képzettséggel rendelkezik muskétával, és 99-et dob a lövéskor. Mivel a fegyver 95–00 között hibásodik meg, és a karaktered normál esetben 98–00 között vét baklövést, ez a támadás sajnos egyszerre baklövés és fegyvermeghibásodás. Ha a dobás 95, 96 vagy 97 lett volna, az csak fegyvermeghibásodás lett volna.*
 
-Ha a fumble eredménye egy nem szándékolt célpont elleni támadást határoz meg, és egy meghibásodás elakadást okoz, a támadás a meghibásodás előtt történik (lásd **Meghibásodások**).
+Ha a baklövés eredménye a tervezettől eltérő célpont elleni támadást ír elő, és a meghibásodás elakadást okoz, a támadás a meghibásodás előtt történik meg (lásd **Meghibásodások**).
 
-##### Attack and Defense Matrix
+##### Támadási és védekezési mátrix
 
-| Támadás dobása | Hárítás dobása | Kitérés dobása | Eredmény |
+| Támadás dobás | Hárítás dobás | Kitérés dobás | Eredmény |
 | :---- | :---- | :---- | :---- |
-| Kritikus | Kritikus | Kritikus | A védő hárítja vagy elkerüli a sebzést, egyéb eredmény nincs. |
-| Kritikus | Speciális | Speciális | A támadás részben elhárítva vagy elkerülve, sikert ér el. A támadó eltalálja a védőt és normál módon dob sebzést. A védő páncélértéke levonva a sebzésből. A hárító fegyver vagy pajzs 2 sebzéspontot kap.\* |
-| Kritikus | Siker | Siker | A támadás minimálisan elhárítva, speciális sikert ér el. A támadás teljes sebzést okoz\*\* plusz normál sebzésmódosító és megfelelő speciális eredmény. A védő páncélértéke levonva a sebzésből. A hárító fegyver vagy pajzs 4 sebzéspontot kap.\* |
-| Kritikus | Kudarc | Kudarc | A támadás kritikus sikert ér el (választhat helyette speciális sikert). A támadás maximális sebzést okoz plusz normál sebzésmódosító. A védő páncélértéke kikerülve. |
-| Kritikus | Fumble | Fumble | A támadás kritikus sikert ér el (választhat helyette speciális sikert). A támadás maximális sebzést okoz plusz normál sebzésmódosító. A védő páncélértéke nem alkalmazható. A védő dob a megfelelő fumble táblázaton |
-| Speciális | Kritikus | Kritikus | A védő hárítja vagy elkerüli a támadást; egyéb eredmény nincs. Ha közelharcban hárítják, a támadó fegyvere 1 sebzéspontot kap.\* |
-| Speciális | Speciális | Speciális | A védő hárítja vagy elkerüli a támadást, egyéb eredmény nincs. |
-| Speciális | Siker | Siker | A támadás részben hárítva vagy elkerülve, normál sikert ér el. A védő páncélértéke levonva a sebzésből. A hárító fegyver vagy pajzs 2 sebzéspontot kap.\* |
-| Speciális | Kudarc | Kudarc | A támadás speciális sikert ér el. A támadás teljes sebzést okoz\*\* plusz normál sebzésmódosító és megfelelő speciális eredmény. A védő páncélértéke levonva a sebzésből. |
-| Speciális | Fumble | Fumble | A támadás speciális sikert ér el. A támadás teljes sebzést okoz\*\* plusz normál sebzésmódosító és megfelelő speciális eredmény. A védő páncélértéke levonva a sebzésből. A védő dob a megfelelő fumble táblázaton. |
-| Siker | Kritikus | Kritikus | A védő blokkolja vagy elkerüli a sebzést; egyéb eredmény nincs. Ha közelharcban hárítják, a támadó fegyvere 2 sebzéspontot kap.\* |
-| Siker | Speciális | Speciális | A védő blokkolja vagy elkerüli a sebzést; egyéb eredmény nincs. Ha közelharcban hárítják, a támadó fegyvere 1 sebzéspontot kap.\* |
-| Siker | Siker | Siker | A védő blokkolja vagy elkerüli a sebzést, egyéb eredmény nincs. |
-| Siker | Kudarc | Kudarc | A támadás eltalálja a védőt és normál módon dob sebzést. A védő páncélértéke levonva a sebzésből. |
-| Siker | Fumble | Fumble | A támadás eltalálja a védőt és normál módon dob sebzést. A védő páncélértéke levonva a sebzésből. A védő dob a megfelelő fumble táblázaton. |
-| Kudarc | — | — | Nincs sebzés; hatása nincs. |
-| Fumble | — | — | A támadás teljesen elvétve, a támadó dob a megfelelő fumble táblázaton. A védő sértetlen. |
+| Kritikus | Kritikus | Kritikus | A védő hárítja vagy elkerüli a sebzést, nincs más eredmény. |
+| Kritikus | Különleges | Különleges | A támadás részben elhárítva vagy elkerülve, sikert ér el. A támadó eltalálja a védőt, és normál módon dob sebzést. A védő páncélértékét le kell vonni a sebzésből. A hárító fegyver vagy pajzs 2 pont sebzést szenved.* |
+| Kritikus | Siker | Siker | A támadás minimálisan elhárítva, különleges sikert ér el. A támadás teljes sebzést** okoz, plusz a normál sebzésmódosítót és a megfelelő különleges eredményt. A védő páncélértékét le kell vonni a sebzésből. A hárító fegyver vagy pajzs 4 pont sebzést szenved.* |
+| Kritikus | Kudarc | Kudarc | A támadás kritikus sikert ér el (választható helyette különleges siker). A támadás maximális sebzést okoz, plusz a normál sebzésmódosítót. A védő páncélértéke hatástalan. |
+| Kritikus | Baklövés | Baklövés | A támadás kritikus sikert ér el (választható helyette különleges siker). A támadás maximális sebzést okoz, plusz a normál sebzésmódosítót. A védő páncélértéke nem érvényesül. A védő dob a megfelelő baklövés-táblázaton. |
+| Különleges | Kritikus | Kritikus | A védő hárítja vagy elkerüli a támadást; nincs más eredmény. Közelharcban való hárítás esetén a támadó fegyvere 1 pont sebzést szenved.* |
+| Különleges | Különleges | Különleges | A védő hárítja vagy elkerüli a támadást, nincs más eredmény. |
+| Különleges | Siker | Siker | A támadás részben hárítva vagy elkerülve, normál sikert ér el. A védő páncélértékét le kell vonni a sebzésből. A hárító fegyver vagy pajzs 2 pont sebzést szenved.* |
+| Különleges | Kudarc | Kudarc | A támadás különleges sikert ér el. A támadás teljes sebzést** okoz, plusz a normál sebzésmódosítót és a megfelelő különleges eredményt. A védő páncélértékét le kell vonni a sebzésből. |
+| Különleges | Baklövés | Baklövés | A támadás különleges sikert ér el. A támadás teljes sebzést** okoz, plusz a normál sebzésmódosítót és a megfelelő különleges eredményt. A védő páncélértékét le kell vonni a sebzésből. A védő dob a megfelelő baklövés-táblázaton. |
+| Siker | Kritikus | Kritikus | A védő blokkolja vagy elkerüli a sebzést; nincs más eredmény. Közelharcban való hárítás esetén a támadó fegyvere 2 pont sebzést szenved.* |
+| Siker | Különleges | Különleges | A védő blokkolja vagy elkerüli a sebzést; nincs más eredmény. Közelharcban való hárítás esetén a támadó fegyvere 1 pont sebzést szenved.* |
+| Siker | Siker | Siker | A védő blokkolja vagy elkerüli a sebzést, nincs más eredmény. |
+| Siker | Kudarc | Kudarc | A támadás eltalálja a védőt, és normál módon dob sebzést. A védő páncélértékét le kell vonni a sebzésből. |
+| Siker | Baklövés | Baklövés | A támadás eltalálja a védőt, és normál módon dob sebzést. A védő páncélértékét le kell vonni a sebzésből. A védő dob a megfelelő baklövés-táblázaton. |
+| Kudarc | — | — | Nincs sebzés; nincs hatás. |
+| Baklövés | — | — | A támadás teljesen elvéti a célt, és a támadó dob a megfelelő baklövés-táblázaton. A védő sértetlen. |
 
-\* Ha a hárító fegyver vagy pajzs megsemmisül a hárítási kísérlet során, dobd a támadó fegyver normál sebzését, és vonta ki a hárító fegyver vagy pajzs elpusztításához felhasznált sebzéspontokat. A fennmaradó sebzés áthatol a hárítási kísérleten, hogy megsebesítse a védőt (a páncél továbbra is véd). Ha a támadó fegyver elpusztul egy sikeres támadás során, a sebzést még mindig okozza a védőnek, és a fegyver abban a pillanatban eltörik.
+\* Ha a hárító fegyver vagy pajzs megsemmisül a hárítási kísérlet során, dobd a támadó fegyver normál sebzését, és vonta le belőle a hárító fegyver vagy pajzs megsemmisítéséhez felhasznált sebzéspontokat. A fennmaradó sebzés áthatol a hárításon, és megsebzi a védőt (a páncél továbbra is véd). Ha a támadó fegyver semmisül meg egy sikeres támadás során, a sebzés akkor is érvényesül a védőn, és a fegyver abban a pillanatban eltörik.
 
-\*\* Ez az a sebzés, amelyet az adott támadástípus normális esetben okozna. Ez nem ugyanaz, mint a "maximális sebzés". Egy nagy kardnál a teljes sebzés 2D8 normál sikernél, 2D8 vérző sebzés speciális sikernél, és kritikus sikernél 16 sebzést okoz figyelmen kívül hagyva. A sebzésmódosítót minden esetben külön dobják és utólag adják hozzá.
+\** Ez az a sebzés, amelyet az adott típusú támadás normál esetben okozna. Ez nem ugyanaz, mint a „maximális sebzés”. Egy nagykard esetében a teljes sebzés 2D8 normál siker esetén, 2D8 vérzés sebzés különleges siker esetén, kritikus siker esetén pedig 16 sebzést okoz, figyelmen kívül hagyva a célpont páncélját. A sebzésmódosítót minden esetben külön kell dobni és utólag hozzáadni.
 
-##### Közelharci fegyver támadás Fumble táblázat
-
-| D100 | Eredmény |
-| :---- | :---- |
-| 01–15 | Elveszíti a következő harci kört, és gyakorlatilag tehetetlen. |
-| 16–25 | Elveszíti a következő 1D3 harci kört, és gyakorlatilag tehetetlen. |
-| 26–40 | Hasra esik. |
-| 41–50 | Elem ejti a használt fegyvert. |
-| 51–60 | Eldobja a fegyvert 1D10 méterrel távolabb. |
-| 61–65 | Elveszíti a fegyver 1D10 életerőpontját. |
-| 66–75 | A látás elhomályosul, minden vonatkozó képzettséget módosíts –30%-kal 1D3 harci körig. |
-| 76–85 | Eltalálja a legközelebbi szövetségest normál sebzéssel, vagy használja a 41–50 eredményt, ha nincs szövetséges a közelben. |
-| 86–90 | Eltalálja a legközelebbi szövetségest speciális sebzéssel, vagy használja az 51–60 eredményt, ha nincs szövetséges a közelben. |
-| 91–98 | Eltalálja a legközelebbi szövetségest kritikus sebzéssel, vagy használja a 61–65 eredményt, ha nincs szövetséges a közelben. |
-| 99 | Elbarmolja; dobj még kétszer ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-| 00 | Durván elbarmolja; dobj még háromszor ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-
-##### Közelharci fegyver hárítás Fumble táblázat
+##### Közelharci fegyvertámadás baklövés-táblázata
 
 | D100 | Eredmény |
 | :---- | :---- |
-| 01–20 | Elveszíti a következő harci kört (vagy ezt, ha még nem történt cselekvés), és gyakorlatilag tehetetlen. |
-| 21–40 | Hasra esik. |
-| 41–50 | Elem ejti a használt fegyvert. |
-| 51–60 | Eldobja a fegyvert 1D10 méterrel távolabb. |
-| 61–75 | A látás elhomályosul; minden vonatkozó képzettséget módosíts –30%-kal 1D3 harci körig. |
-| 76–85 | Teljesen nyitva; az ellenfél automatikusan talál normál találattal. |
-| 86–90 | Teljesen nyitva; az ellenfél automatikusan talál speciális találattal. |
-| 91–93 | Teljesen nyitva; az ellenfél automatikusan talál kritikus találattal. |
-| 94–98 | Elbarmolja; dobj még kétszer ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-| 99–00 | Durván elbarmolja; dobj még háromszor ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
+| 01–15 | Elveszíted a következő harci kört, és gyakorlatilag védtelen vagy. |
+| 16–25 | Elveszíted a következő 1D3 harci kört, és gyakorlatilag védtelen vagy. |
+| 26–40 | Földre kerülsz. |
+| 41–50 | Ejtősd el a használt fegyvert. |
+| 51–60 | Dobd a fegyvert 1D10 méter távolságra. |
+| 61–65 | Veszíts 1D10 pontot a fegyver életerejéből. |
+| 66–75 | Látásod elhomályosul, módosíts minden megfelelő képzettséget –30%-kal 1D3 harci körön át. |
+| 76–85 | Találd el a legközelebbi szövetségedet normál sebzéssel, vagy használd a 41–50-es eredményt, ha nincs szövetséges a közelben. |
+| 86–90 | Találd el a legközelebbi szövetségedet különleges sebzéssel, vagy használd az 51–60-as eredményt, ha nincs szövetséges a közelben. |
+| 91–98 | Találd el a legközelebbi szövetségedet kritikus sebzéssel, vagy használd a 61–65-ös eredményt, ha nincs szövetséges a közelben. |
+| 99 | Elrontottad; dobj még kétszer ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
+| 00 | Nagyon elrontottad; dobj még háromszor ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
 
-##### Távolsági fegyver támadás Fumble táblázat
-
-| D100 | Eredmény |
-| :---- | :---- |
-| 01–15 | Elveszíti a következő támadást vagy egyéb tevékenységet. |
-| 16–25 | Elveszíti a következő 1D3 harci kört vagy egyéb tevékenységet. |
-| 26–40 | Hasra esik. |
-| 41–55 | A látás elhomályosul; minden vonatkozó képzettséget módosíts –30%-kal 1D3 harci körig. |
-| 56–65 | Elem ejti a fegyvert; ami 1D6–1 méterrel odébb csúszik vagy pattan. |
-| 66–80 | 1D6 sebzést okoz a fegyver életerőpontjaiban (vagy használja a 81–85 eredményt, ha a fegyvernek nincs életerőpontja). |
-| 81–85 | Eltöri a fegyvert; függetlenül a fegyver aktuális életerőpontjaitól. |
-| 86–90 | Eltalálja a legközelebbi szövetségest normál sebzéssel, vagy használja az 56–65 eredményt, ha nincs szövetséges a közelben. |
-| 91–95 | Eltalálja a legközelebbi szövetségest speciális sebzéssel, vagy használja a 66–80 eredményt, ha nincs szövetséges a közelben. |
-| 96–98 | Eltalálja a legközelebbi szövetségest kritikus sebzéssel, vagy használja a 81–85 eredményt, ha nincs szövetséges a közelben. |
-| 99 | Elbarmolja; dobj még kétszer ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-| 00 | Durván elbarmolja; dobj még háromszor ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-
-##### Természetes fegyver támadás és hárítás Fumble táblázat
+##### Közelharci fegyverhárítás baklövés-táblázata
 
 | D100 | Eredmény |
 | :---- | :---- |
-| 01–25 | Elveszíti a következő harci kört (vagy ezt, ha még nem történt cselekvés). |
-| 26–30 | Elveszíti a következő 1D3 harci kört (ez magában foglalja ezt is, ha még nem történt cselekvés). |
-| 31–50 | Hasra esik. |
-| 51–60 | Hasra esik és kificamítja a bokáját; módosítsa a MOV-ot –1 MOV-val 1D10 teljes körön keresztül (és az összes harci körben rajtuk belül). |
-| 61–75 | A látás elhomályosul; minden vonatkozó képzettséget módosíts –30%-kal 1D3 harci körig. |
-| 76–85 | Elhibázza és megterhel valamit; veszít 1 életerőpontot (a támadó végtagban, ha találati helyeket használnak). |
-| 86–90 | Eltalálja a legközelebbi szövetségest normál sebzéssel, vagy használja a 76–85 eredményt, ha nincs szövetséges a közelben. |
-| 91–94 | Eltalálja a legközelebbi szövetségest speciális sebzéssel, vagy használja a 76–85 eredményt, ha nincs szövetséges a közelben. |
-| 95–98 | Kemény felületet talál; normál sebzést okoz saját magának (a támadó végtagban, ha találati helyeket használnak). |
-| 99 | Elbarmolja; dobj még kétszer ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
-| 00 | Durván elbarmolja; dobj még háromszor ezen a táblázaton (összeadódik, ha ez az eredmény újra kijön). |
+| 01–20 | Elveszíted a következő harci kört (vagy az aktuálisat, ha még nem tettél semmit), és gyakorlatilag védtelen vagy. |
+| 21–40 | Földre kerülsz. |
+| 41–50 | Ejtősd el a használt fegyvert. |
+| 51–60 | Dobd a fegyvert 1D10 méter távolságra. |
+| 61–75 | Látásod elhomályosul; módosíts minden megfelelő képzettséget –30%-kal 1D3 harci körön át. |
+| 76–85 | Teljesen védtelen; az ellenfél automatikusan betalál normál találattal. |
+| 86–90 | Teljesen védtelen; az ellenfél automatikusan betalál különleges találattal. |
+| 91–93 | Teljesen védtelen; az ellenfél automatikusan betalál kritikus találattal. |
+| 94–98 | Elrontottad; dobj még kétszer ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
+| 99–00 | Nagyon elrontottad; dobj még háromszor ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
 
-### Speciális sikerek és sebzés
+##### Lőfegyvertámadás baklövés-táblázata
 
-A különböző típusú fegyverek különböző típusú sebzést okoznak speciális sikerek esetén. Öt típusú speciális sebzés létezik: vérzés, zúzás, fonódás, átszúrás és visszalökés.
+| D100 | Eredmény |
+| :---- | :---- |
+| 01–15 | Elveszíted a következő támadást vagy egyéb tevékenységet. |
+| 16–25 | Elveszíted a következő 1D3 harci kört vagy egyéb tevékenységet. |
+| 26–40 | Földre kerülsz. |
+| 41–55 | Látásod elhomályosul; módosíts minden megfelelő képzettséget –30%-kal 1D3 harci körön át. |
+| 56–65 | Ejtsd el a fegyvert; az 1D6–1 métert csúszik vagy pattog el. |
+| 66–80 | Okozz 1D6 sebzést a fegyver életerejében (vagy használd a 81–85-ös eredményt, ha a fegyvernek nincs életereje). |
+| 81–85 | Törd el a fegyvert; függetlenül a fegyver aktuális életerejétől. |
+| 86–90 | Találd el a legközelebbi szövetségedet normál sebzéssel, vagy használd az 56–65-ös eredményt, ha nincs szövetséges a közelben. |
+| 91–95 | Találd el a legközelebbi szövetségedet különleges sebzéssel, vagy használd a 66–80-as eredményt, ha nincs szövetséges a közelben. |
+| 96–98 | Találd el a legközelebbi szövetségedet kritikus sebzéssel, vagy használd a 81–85-ös eredményt, ha nincs szövetséges a közelben. |
+| 99 | Elrontottad; dobj még kétszer ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
+| 00 | Nagyon elrontottad; dobj még háromszor ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
 
-* **Vérzés:** A szövet mély vágásából származó seb, amely artériákat vagy főbb szerveket érint. Az éles élű fegyverek vérző sebzést okoznak.
+##### Természetes támadás és hárítás baklövés-táblázata
 
-* **Zúzás:** A célpont tompa traumájával járó seb, amely gyakran csonttörést és elkábítást okoz. A buzogányok, fegyvertelen ütések és más tompa fegyverek zúzó sebzést okozhatnak.
+| D100 | Eredmény |
+| :---- | :---- |
+| 01–25 | Elveszíted a következő harci kört (vagy az aktuálisat, ha még nem tettél semmit). |
+| 26–30 | Elveszíted a következő 1D3 harci kört (ez magában foglalja az aktuálisat is, ha még nem tettél semmit). |
+| 31–50 | Földre kerülsz. |
+| 51–60 | Földre kerülsz és kificamítod a bokádat; módosíts a MOZ-on –1 MOZ-zal 1D10 teljes körön át (és az azokon belüli összes harci körön). |
+| 61–75 | Látásod elhomályosul; módosíts minden megfelelő képzettséget –30%-kal 1D3 harci körön át. |
+| 76–85 | Vétesz, és meghúzol valamit; veszíts 1 életerőpontot (abban a végtagban, amellyel támadtál, ha találati helyeket használtok). |
+| 86–90 | Találd el a legközelebbi szövetségedet normál sebzéssel, vagy használd a 76–85-ös eredményt, ha nincs szövetséges a közelben. |
+| 91–94 | Találd el a legközelebbi szövetségedet különleges sebzéssel, vagy használd a 76–85-ös eredményt, ha nincs szövetséges a közelben. |
+| 95–98 | Üss kemény felületbe; okozz normál sebzést magadnak (abban a végtagban, amellyel támadtál, ha találati helyeket használtok). |
+| 99 | Elrontottad; dobj még kétszer ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
+| 00 | Nagyon elrontottad; dobj még háromszor ezen a táblázaton (kumulatív, ha ez az eredmény újra kijön). |
 
-* **Fonódás:** A célpont végtagjainak vagy testének rögzítése vagy más módon történő csapdába ejtése. A rugalmas fegyverek, hálók, kötelek és a rövid, fogazott hegyűek fonódó támadásokat okoznak.
+### Különleges sikerek és sebzés
 
-* **Átszúrás:** A létfontosságú szerveket átszúró vagy a célpont testén teljesen áthaladó mély seb. A lőfegyverek, nyilak és más hegyes fegyverek átszúró sebzést okoznak.
+A különböző típusú fegyverek különböző típusú sebzést okoznak különleges sikerek esetén. Ötféle különleges sebzés létezik: vérzés, zúzás, összegabalyítás, átszurkolás és hátralökés.
 
-* **Visszalökés:** Olyan seb, amely kibillenti az egyensúlyából, és esetleg hanyatt vágja a célpontot. Egyes fegyvertelen támadások és pajzstámadások visszalökést okoznak.
+* **Vérzés:** Olyan seb, amely mély szöveti vágást eredményez az artériákban vagy fontos szervekben. Az éles szélű fegyverek vérzés sebzést okoznak.
+
+* **Zúzás:** Olyan seb, amely tompa traumát okoz az áldozatnak, gyakran csonttörést és elkábítást okozva. A bunkók, a pusztakezes ütések és más tompa fegyverek zúzás sebzést okozhatnak.
+
+* **Összegabalyítás:** A célpont végtagjainak vagy testének rögzítése vagy más módon történő csapdába ejtése. A rugalmas fegyverek, hálók, kötelek és a rövid, fogazott hegyű fegyverek okoznak összegabalyító támadásokat.
+
+* **Átszurkolás:** Mély seb, amely átszúrja a létfontosságú szerveket, vagy teljesen átmegy a célpont testén. A lőfegyverek, nyilak és más hegyes fegyverek okoznak átszurkoló sebzést.
+
+* **Hátralökés:** Olyan seb, amely kibillenti az egyensúlyából a célpontot, és esetleg hátraveti. Egyes pusztakezes támadási formák és pajzstámadások okoznak hátralökést.
 
 Ezt az öt sebzéstípust az alábbi szakaszok írják le.
 
 #### Vérzés
 
-A vágófegyverrel elért speciális siker vérző sebzést okoz a célponton, akinek egy véna vagy fő artéria elvágódott, és gyorsan veszít vért. Ez 1 további életerőpont sebzést okoz az 1. DEX-rangsorban minden olyan körben, amely a sebzés okozása után következik. Ha fáradtságpontokat használnak, a célpont minden körben további 1 fáradtságpontot veszít, amíg vérzik. A páncél véd a kezdeti támadás ellen, de a vérzés hatásai ellen nem.
+Egy vágófegyverrel elért különleges siker vérzés sebzést okoz a célponton, akinek elvágódott egy vénája vagy fő artériája, és gyorsan veszti a vérét. Ez 1 további életerőpont-sebzést okoz a sebzés okozása utáni minden kör 1. ÜGY-fokozatán. Ha fáradtságpontokat használtok, a célpont minden körben további 1 fáradtságpontot veszít, amíg vérzik. A páncél véd az első támadás ellen, de a vérzés hatásai ellen nem.
 
-Harc közben a célpont megkísérelheti elállítani a vérzést körönként egyszer, lényegében egy üres kezet a sebre téve és nyomást gyakorolva rá. Minden kör végén a célpont megpróbálhat egy Állóképesség dobást annak meghatározására, hogy a vérzés eláll-e. Ha sikeres, a seb zárva marad, és a célpont nem szenved több vérzési sebzést. Miközben ezt teszi, minden támadás, hárítás vagy fizikai cselekedet, amelyet megkísérel, *Nehéz*. A kitérés megkísérlése megszakítja a vérzés elállítására irányuló kísérletet. Ha sikertelen, a vérzés folytatódik, és ha a célpont kitér vagy bármilyen megerőltető tevékenységet végez, a vérzés újra elkezdődik.
+Harc közben a célpont megkísérelheti körönként egyszer elállítani a vérzést, lényegében egy szabad kezét a sebre helyezve és nyomást gyakorolva rá. Minden kör végén a célpont megkísérelhet egy ÁLL-dobást annak meghatározására, hogy a vérzés megáll-e. Ha sikeres, a seb zárva marad, és a célpont nem szenved több vérzés-sebzést. Miközben ezt teszi, minden általa megkísérelt támadás, hárítás vagy fizikai cselekvés *Nehéz*. A kitérés megkísérlése megszakítja a vérzés elállítására tett kísérletet. Ha sikertelen, a vérzés folytatódik, és ha a célpont kitér vagy bármilyen megerőltető tevékenységet végez, a vérzés újra elkezdődik.
 
-A vérzés elállításának legmegbízhatóbb módja egy sikeres Elsősegély dobás a sérülésen. A siker azt jelenti, hogy a vérzés eláll, és nem kezdődik újra. Az Elsősegély dobás kudarca azt jelenti, hogy a vérzés folytatódik, amíg a célpont sikeres orvosi ellátást nem kap (erő vagy más képzettség, mint az Orvostudomány formájában), vagy el nem vérzik, amikor eléri a 0 életerőpontot.
+A vérzés elállításának legmegbízhatóbb módja egy sikeres Elsősegély dobás a sérülésen. A siker azt jelenti, hogy a vérzés megáll, és nem kezdődik újra. Az Elsősegély dobás kudarca azt jelenti, hogy a vérzés folytatódik, amíg a célpont sikeres orvosi ellátást nem kap (egy képesség vagy más tudás, mint az Orvostudomány formájában), vagy el nem vérzik, amikor eléri a 0 életerőpontot.
 
-Ha a vérzést öt harci körön át sikerül elállítani, az magától teljesen eláll.
+Ha a vérzés öt harci körön át megállt, magától teljesen megszűnik.
 
 #### Zúzás
 
-A zúzó fegyverrel – buzogány, bot, mace vagy különösen szerencsés fegyvertelen ütés – elért speciális siker zúzó sebzést okoz a célponton. Ez egy különösen erőteljes csapás, amely gyakran hatalmas zúzódásokat vagy akár csonttörést is okoz, gyakran elkábít.
+Egy zúzófegyverrel – bunkó, bot, buzogány vagy egy különösen szerencsés pusztakezes ütés – elért különleges siker zúzás sebzést okoz a célponton. Ez egy különösen erős ütés, amely gyakran hatalmas zúzódásokat vagy akár csonttörést is okoz, és gyakran elkábít.
 
-A zúzó speciális siker megduplázza a támadásra normálisan alkalmazott sebzésmódosítót. Ha a támadónak negatív sebzésmódosítója van, ez sebzésmódosító nélkülinek minősül, és ha nincs sebzésmódosító, akkor +1D4-é válik (lásd a **Sebzésmódosító táblázat**). A fegyver sebzését normál módon dobják, de a sebzésmódosító megnő.
+A zúzás különleges siker megduplázza a támadásra alkalmazott sebzésmódosítót. Ha a támadónak negatív sebzésmódosítója van, az módosító nélküli lesz, ha pedig nincs módosítója, az +1D4-essé válik (lásd a **Sebzésmódosító táblázatot**). A fegyver sebzését normál módon kell dobni, de a sebzésmódosító növekszik.
 
-A zúzó speciális sikerrel sújtott célpontnak sikeres Állóképesség dobást kell végrehajtania, különben 1D3 körre elkábul. Az elkábultság szédítő, zavarba ejtő élmény, ahogy csillagok táncolnak a célpont szeme előtt, és a feje forog a hirtelen csapás fájdalmától. Az elkábult célpont elkábultan nem támadhat, és csak akkor kísérelhet meg kitérni vagy hárítani egy támadást, ha minden kísérletre sikeres Ötlet dobást hajt végre. Ezenkívül minden támadás a célpont ellen *Könnyű*. Az elkábult célpont megkísérelhet elmenekülni, de ehhez sikeres Ötlet dobás szükséges a menekülési út felismeréséhez, és sikeres Ügyesség dobás a veszélyből való kijutáshoz.
+A zúzás különleges siker elszenvedő célpontnak sikeres ÁLL-dobást kell tennie, különben 1D3 körre elkábul. Az elkábultság szédítő, összezavaró élmény, a célpont szeme előtt csillagok táncolnak, és a hirtelen ütés fájdalmától forog vele a világ. Az elkábult célpont nem támadhat, amíg kábult, és csak akkor kísérelhet meg kitérni vagy hárítani egy támadást, ha minden kísérletre sikeres INT-dobást tesz. Továbbá az ellene irányuló összes támadás *Könnyű*. Az elkábult célpont megkísérelhet menekülni, de ehhez sikeres INT-dobás szükséges a menekülési útvonal felismeréséhez, és egy sikeres ÜGY-dobás a veszélyből való kijutáshoz.
 
-Ha a célpont sikeresen hárít egy zúzó speciális sikerű támadást, fennáll a veszélye, hogy a fegyvere vagy pajzsa eltörik. A támadó dobja a sebzést és a megnövelt sebzésmódosítót, és összehasonlítja a dobott sebzést a hárító tárgy aktuális életerőpontjaival az ellenállási táblázaton. Az aktív érték az okozott sebzés, a passzív érték pedig a tárgy normál életerőpontja. Ha az aktív dobás sikeres, a hárító tárgy kapja a csapás összes sebzését, és minden fennmaradó sebzést a hárító célpont kap meg. A célpont levonhatja a páncélvédelmet a zúzó csapás által okozott sebzésből, de nem háríthatja vagy kerülheti tovább ezt a támadást – automatikusan talál, és a sebzés maradéka a célponton okoz sérülést. Ha a célpont sebzést kap, rá vonatkoznak az elkábultság szabályai (fentebb).
+Ha a célpont sikeresen hárít egy zúzás különleges siker támadást, kockáztatja a fegyvere vagy pajzsa eltörését. A támadó dobja a sebzést és a megnövelt sebzésmódosítót, és a dobott sebzést összehasonlítja a hárító eszköz aktuális életerejével az ellenállás-táblázaton. Az aktív érték a mért sebzés, a passzív érték az eszköz normál életereje. Ha az aktív dobás sikeres, a hárító eszköz elszenvedi az ütés teljes sebzését, és a fennmaradó sebzés a hárító célpontot éri. A célpont levonhatja a páncélvédelmet a zúzó ütés által okozott sebzésből, de nem térhet ki vagy háríthat tovább ez ellen a támadás ellen – automatikusan betalál, és a sebzés fennmaradó része a célpontot éri. Ha a célpont sebzést szenved, rá vonatkoznak az elkábultság szabályai (lásd fent).
 
-Ha a hárító tárgy életerőpontjainak passzív dobása sikeres, akkor a normál támadási sebzést közvetlenül az életerőpontjaira kapja. Ha a hárító tárgy több sebzést kap, mint amennyi életerőpontja van, akkor a támadás elpusztítja – eltörik vagy széttörik, attól függően, mi a helyénvaló –, de a csapás nem folytatódik a célpont felé.
+Ha a hárító eszköz életerejének passzív dobása sikeres, az közvetlenül az életerejére kapja a normál támadási sebzést. Ha a hárító eszköz több sebzést kap, mint amennyi életereje van, az támadás következtében megsemmisül – eltörik vagy szilánkokra hullik, attól függően, mi a megfelelő –, de az ütés nem folytatódik a célpont felé.
 
-Ha konkrét találati helyeket használnak, és a hárító tárgy egy pajzs volt, ez a további sebzés automatikusan a célpont karjára vonatkozik, amelyen a pajzsát viselte, lehetővé téve a páncélvédelmet, ha alkalmazható. Ha a hárító tárgy egy fegyver volt, a további sebzést egy véletlenszerű találati helyre alkalmazzák, amelyet a játékmester dob. Ahogy fentebb, a páncélvédelem továbbra is védelmet nyújt a folytatódó csapással szemben.
+Ha konkrét találati helyeket használtok, és a hárító eszköz pajzs volt, ez a további sebzés automatikusan arra a karra vonatkozik, amelyiken a célpont a pajzsot viselte, lehetővé téve a páncélvédelmet, ha alkalmazható. Ha a hárító eszköz fegyver volt, a további sebzés egy véletlenszerű találati helyre vonatkozik, amelyet a mesélő dob ki. Mint fentebb, a páncélvédelem továbbra is hatásos a folytatódó ütés ellen.
 
-#### Fonódás
+#### Összegabalyítás
 
-A fonódó fegyverrel – ostor, háló, lánc, kötél, emberfogó stb. – elért speciális siker fonódást okoz a célponton. A fonódó támadást nem lehet közelről végrehajtani, és legalább három méter távolságnak kell lennie a támadó és a célpont között (bár a fojtókötél közelről is használható). A sikeres fonódás megakadályozza a célpont mozgását a harci kör hátralévő részében és a következő harci körben. Ez időt ad a támadónak, hogy közel kerüljön a célponthoz, vagy más módon leigázza.
+Egy összegabalyító fegyverrel – ostor, háló, lánc, kötél, emberfogó stb. – elért különleges siker összegabalyítja a célpontot. Az összegabalyító támadást nem lehet közelharci távolságból végrehajtani, és legalább három méter távolságnak kell lennie a támadó és a célpont között (bár a garrot-ot közelharcban is lehet használni). A sikeres összegabalyítás megakadályozza a célpont mozgását a harci kör hátralévő részében és a következő harci körben. Ez időt ad a támadónak, hogy közel kerüljön a célponthoz, vagy más módon lecsillapítsa azt.
 
-Ez megakadályozhatja a célpont támadásait. A fonódó támadás természetétől függően a játékmester megengedhet az összefonódott célpontnak egy Szerencse dobást annak meghatározására, képes-e támadni.
+Ez megakadályozhatja a célpont támadásait. Az összegabalyító támadás jellegétől függően a mesélő engedélyezheti az összegabalyodott célpontnak a SZER-dobást annak meghatározására, hogy képes-e támadni.
 
-***Például,*** *az egyik karra tekeredő ostor szabad kezet hagyhat a másik kar számára, és a lábak támadhatnak, míg egy lasszó mindkét kart mozgásképtelenné teheti.*
+***Például,*** *egy karra tekeredett ostor szabaddá teheti a másik kart és a lábakat a támadáshoz, míg egy lasszó mindkét kart mozgásképtelenné teheti.*
 
-Ezt eseti alapon kell kezelni. Azonban kevés fonódó támadás van, amely ne tenné lehetővé a támadás valamilyen módját, legyen az rúgás vagy fejelés.
+Ezt esetenként kell kezelni. Azonban kevés olyan összegabalyító támadás létezik, amely ne tenné lehetővé valamilyen támadási módot, legyen az rúgás vagy fejelés.
 
-Ha a támadó továbbra is irányítása alatt tartja a fonódó fegyvert (például egy ostor ezt lehetővé teszi, míg a bola nem), a támadó megkísérelheti a következő körben az alábbi hatások egyikét vagy többet, a Birkózás képzettségben leírtak szerint. A megengedett hatások közé tartozik: végtag mozgásképtelenné tétele, célpont mozgásképtelenné tétele, célpont eldobása, célpont leterítése, célpont lefegyverzése, célpont megsebesítése és célpont megfojtása, ahogy helyénvaló. Ha találati helyeket használnak, ez bizonyos támadásokat kizárhat.
+Ha a támadó továbbra is irányítása alatt tartja az összegabalyító fegyvert (például egy ostor ezt lehetővé teszi, míg a bolasz nem), a támadó megkísérelhet egy vagy több hatást a következő körben, a Birkózás képességben leírtak szerint. Az engedélyezett hatások közé tartozik: végtag rögzítése, célpont rögzítése, célpont eldobása, célpont földre vitele, célpont lefegyverzése, célpont megsebzése és célpont fojtogatása, szükség szerint. Ha találati helyeket használtok, ez kizárhat bizonyos támadásokat.
 
-***Például,*** *a lábon fonódó ostor nem tud lefegyverezni egy kézben tartott fegyvert.*
+***Például,*** *egy lábon összegabalyító ostorral nem lehet lefegyverezni egy kézben tartott fegyvert.*
 
-A sikeres fonódó támadást követő körben a célpont megkísérelhet egy Ügyesség dobást, hogy kiszabadítsa magát, vagy egy STR vs. STR ellenállási dobást, hogy megpróbálja kihúzni a fonódó fegyvert a támadó kezéből. Alternatív megoldásként, ha a fonódó célpont képes rá, megkísérelhet egy támadást magán a fonódó fegyveren, átvágva azt, ha rendelkezik vágófegyverrel.
+A sikeres összegabalyító támadást követő körben a célpont megkísérelhet egy ÜGY-dobást a kiszabadulásra, vagy egy ERŐ vs. ERŐ ellenállás-dobást, hogy megkísérelje kitépni az összegabalyító fegyvert a támadó kezéből. Alternatív megoldásként, ha az összegabalyodott célpont képes rá, megkísérelhet egy támadást magára az összegabalyító fegyverre, elvágva azt, ha van kéznél vágófegyvere.
 
-A hálóhoz, kötélhez, lánchoz és ostorhoz hasonló rugalmas fegyvereket alkalmazó fonódó támadásoknál egy sikeres STR vs. STR ellenállási dobás lehetővé teszi, hogy egy fonódó fegyver kicsavarja a hárító fegyvert a célpont szorításából.
+Az olyan rugalmas fegyvereket alkalmazó összegabalyító támadásoknál, mint a háló, kötél, lánc és ostor, egy sikeres ERŐ vs. ERŐ ellenállás-dobás lehetővé teszi, hogy egy összegabalyító fegyver kitépje a hárító fegyvert a célpont kezéből.
 
-Egy sikeres Kitérés vagy Birkózás dobás hatástalanítja a sikeres fonódást, de csak a következő harci körben kísérelhető meg. Egy kritikus hárítás hatástalanítja a kritikus fonódást, de a normál hárítási sikernek nincs hatása.
+Egy sikeres Kitérés dobás vagy Birkózás dobás érvényteleníti a sikeres összegabalyítást, de csak a következő harci körben kísérelhető meg. A kritikus hárítás érvényteleníti a kritikus összegabalyítást, de egy normál hárítási sikernek nincs hatása.#### Átszúrás
 
-#### Átszúrás
+A szúró- vagy döfőfegyverrel elért különleges siker átszúró sebzést okoz a célpontnak, mélyen a húsba hatolva, és potenciálisan a belső szerveket is eltalálva. Az átszúrás megduplázza a fegyver normál dobott sebzését és módosítóját.
 
-A hegyes vagy szúró fegyverrel elért speciális siker átszúró sebzést okoz a célponton, mélyen a húsba hatolva és potenciálisan a belső szerveket is érintve. Az átszúrás megduplázza a fegyver normál dobott sebzésének kockáit és módosítóját.
+***Például*** *egy rövidkard normál esetben 1D6+1 sebzést okoz, míg az ugyanezzel a fegyverrel végrehajtott átszúrás ennek dupláját, azaz 2D6+2 sebzést.*
 
-***Például,*** *egy rövid kard normál esetben 1D6+1 sebzéspontot okoz, míg az átszúrás ugyanazzal a fegyverrel ennek kétszeresét, azaz 2D6+2 sebzéspontot.*
+Csak a fegyver sebzése duplázódik. Ha a támadónak van sebzésmódosítója, a sebzésmódosító nem duplázódik, hanem normálisan kell dobni rá, és hozzáadni a sebzéshez.
 
-Csak a fegyver sebzését duplázzák meg. Ha a támadónak van sebzésmódosítója, a sebzésmódosítót nem duplázzák meg, hanem normál módon dobják és hozzáadják a sebzéshez.
+Az átszúró fegyver a célpont testében marad, amíg el nem távolítják. Ha a fegyver egy kézifegyver, a támadó azonnal megpróbálkozhat egy *Nehéz* fegyverképesség-próbával az átszúró fegyverrel. Siker esetén a támadó kihúzhatja a fegyvert, miután az átszúró támadás célba ért. Ellenkező esetben a fegyver beleragad a célpont testébe.
 
-Az átszúró fegyver a célpont testében marad, amíg el nem távolítják. Ha a fegyver kézifegyver, a támadó azonnal megkísérelhet egy *Nehéz* fegyverképzettség dobást az átszúró fegyverrel. Ha sikeres, a támadó kihúzhatja a fegyvert, miután az átszúró támadás célba ért. Egyébként a fegyver a célpont testében marad.
+Ha a támadó fegyvere még a sebben van, és vissza szeretné szerezni, meg kell kísérelnie a fegyver visszaszerzését. Ebben az esetben a támadónak a fegyver sebhelyből való kihúzására kell összpontosítania. Ez a visszaszerzés esélyét a támadó fegyverre vonatkozó teljes támadási esélyére emeli, de a támadó elleni minden támadás *Könnyűnek* minősül, és természetesen nem háríthat vagy térhet ki, miközben fegyverét próbálja eltávolítani a célpontból.
 
-Ha a támadó fegyvere még mindig a sebben van, és a támadó vissza akarja kapni, meg kell kísérelnie a fegyver visszaszerzését. Ebben az esetben a támadónak a fegyver sebből való kihúzására kell összpontosítania. Ez a visszaszerzés esélyét a támadó fegyverre vonatkozó teljes támadási esélyére emeli, de a támadó elleni minden támadás *Könnyű*nek minősül, és természetesen nem háríthat vagy térhet ki, miközben a fegyverét próbálja kivonni a célpontból.
+Dobófegyverek, például gerelyek, tőrök vagy akár nyilak esetében a támadónak közel kell kerülnie a célponthoz, és sikeres *Nehéz* ÜGY-próbát kell tennie a fegyver megragadásához. A fegyver eltávolításának esélye az egymást követő körökben a támadó teljes képessége, ha a támadó figyelmen kívül kíván hagyni minden támadást az adott körben, és a fegyver visszaszerzésére összpontosít, a fent leírtak szerint.
 
-Az elhajított fegyvereknél, mint a dárda, tőr vagy akár nyilak, a támadónak közel kell kerülnie a célponthoz, és sikeres *Nehéz* Ügyesség dobást kell végrehajtania a fegyver megragadásához. A fegyver eltávolításának esélye a következő körökben a támadó teljes képzettsége, ha a támadó figyelmen kívül kívánja hagyni az összes támadást az adott körben, és a fegyver visszaszerzésére kíván koncentrálni, ahogy fentebb leírtuk.
+Az átszúrt célpont nem gyógyítható, amíg az átszúró fegyvert el nem távolítják, ha az nagyobb, mint egy kés. Apró tárgyak, például nyílhegyek vagy golyók a sebben maradhatnak, bár ez később komplikációkat okozhat, a játékmester belátása szerint. Ha a célpontot lándzsához vagy kardhoz hasonló fegyver szúrta át, minden alkalommal, amikor a célpont jelentős mértékben mozog, a fegyver sebzésdobásának felét szenvedi el (dobd újra, a sebzésmódosító vagy páncélvédelem nélkül) újra (ugyanarra a találati helyre, ha használják), mivel a kiálló fegyver beleakad a közeli felületekbe, mozog bennük, és tágítja a sebet stb.
 
-Egy átszúrt célpont nem gyógyítható, amíg az átszúró fegyvert el nem távolítják, ha az nagyobb, mint egy kés. Az olyan apró tárgyak, mint a nyílhegyek vagy golyók, a sebben hagyhatók, bár ez később komplikációkat okozhat, a játékmester belátása szerint. Ha egy olyan fegyverrel szúrták át, mint egy lándzsa vagy kard, valahányszor a célpont jelentős mértékben mozog, a fegyver sebzésdobásának felét (dobj újra, a sebzésmódosító vagy páncélvédelem nélkül) újra (ugyanarra a találati helyre, ha használják) elszenvedi, mert a kilógó fegyver beakad a közeli felületekbe, mozog bennük, és tágítja a sebet stb.
+A fegyverrel átszúrt célpontnak, aki megpróbálja eltávolítani azt, egy ellenállás-próbát kell tennie: a saját ERŐ értékét a fegyver által addig okozott sebzés mértékével szemben. A siker azt jelenti, hogy a fegyver kiszabadult és a célpont kezében van, míg a kudarc azt jelenti, hogy az adott harci körben nem tudják kiszabadítani, és további 1D3 életerőpontnyi sebzést szenvednek el (ugyanarra a találati helyre, ha használják) a tevékenységtől. Ez a művelet egy teljes kört vesz igénybe, és azzal zárul, hogy a célpont a kezében tartja a fegyvert, amely korábban átszúrta őt.
 
-A fegyverrel átszúrt célpontnak, aki megkísérli eltávolítani azt, egy STR vs. az eddig a fegyver által okozott sebzés ellenállási dobását kell végrehajtania. A siker azt jelenti, hogy a fegyver kiszabadult, és a célpont kezében van, míg a kudarc azt jelenti, hogy az adott harci körben nem tudják kiszabadítani, és további 1D3 életerőpont sebzést szenvednek el (ugyanarra a találati helyre, ha használják) a tevékenységtől. Ez a cselekedet egy teljes kört vesz igénybe, és azzal ér véget, hogy a célpont az őt korábban átszúró fegyvert tartja.
+A játékmester további nehézségeket szabhat ki, vagy megfelezheti a tényleges ERŐ értékét, ha az átszúró fegyver olyan helyzetben van, amelyet nehéz elérni, vagy más módon hozzáférhetetlen, például a hátban.
 
-A játékmester további nehézségeket róhat ki, vagy felére csökkentheti az effektív STR-t, ha az átszúró fegyver olyan helyzetben van, amelyet nehéz elérni vagy egyébként hozzáférhetetlen, például a hátban.
+Az átszúró fegyver kezelésének másik módja az, ha eltörjük vagy megrongáljuk, hogy ne okozzon további szenvedést, de később el lehessen távolítani. Ezt általában nyilakkal teszik, a szárak eltávolításával, hogy ne akadályozzanak tovább. A fegyvertől és a megrongálás módjától függően ez vagy a sebzett célpont ERŐ értékének és a fegyver életerőpontjainak összehasonlítását, vagy a fegyver elleni közvetlen támadást igényel.
 
-Az átszúró fegyver kezelésének másik módja a megsemmisítése vagy károsítása, hogy ne okozzon további gondot, de később eltávolítható legyen. Ezt általában nyilakkal teszik, eltávolítva a szárakat, hogy ne akadályozzanak tovább. A fegyvertől és a károsítás módjától függően ez vagy a sebesült célpont STR-jének a fegyver életerőpontjai elleni ellenállási táblázat dobását, vagy közvetlenül a fegyver elleni támadást igényel.
+Harcon kívül az átszúró fegyver eltávolítására irányuló minden kísérlet *Könnyű*, akár ellenállás-próbával, akár Elsősegély alkalmazásával történik.#### Visszalökés
 
-Harcon kívül az átszúró fegyver eltávolításának kísérlete *Könnyű*, akár az ellenállási dobással, akár az Elsősegély képzettséggel.
+Az ökölharcban vagy pajzstámadásnál elért különleges siker visszalöki a célpontot. A dobott sebzések összesített értékét (a páncél levonása előtt) össze kell vetni a célpont MÉR-jével egy ellenállás-próbán. A kalandmester csökkentheti a célpont tényleges MÉR-jét a terep egyenetlensége, lejtése vagy a célpont állapota (kimerült, elkábult stb.) miatt. Ha a próbálkozás sikertelen, a célpont minden 5 pontnyi sebzés után (páncél előtt) egy métert hátralökődik, a támadónak pedig ismét közel kell kerülnie a célponthoz, és közelharcba kell bocsátkoznia vele, ha korábban kiesett a közelharci távolságból. Ha a visszalökött célpont egy akadályba ütközik az útjában, 1D6 sebzést szenved minden három méter után, vagy annak töredéke után, amit még meg kellett volna tennie. A célpontnak emellett egy sikeres ÜGY-próbát is tennie kell, különben hasra esik (lásd **Hasraesés**).
 
-#### Visszalökés
+Ha a célpont nyeri az ellenállás-próbát, nem mozdul el, és ha a MÉR-je magasabb, mint a támadóé, akkor a támadó lökődik hátra egy métert.
 
-Egy fegyvertelen dobással vagy pajzstámadással elért speciális siker visszalökte a célpontot. A dobott összes sebzést (a páncél levonása előtt) a célpont SIZ-jéhez hasonlítják egy ellenállási dobásban. A játékmester csökkentheti a célpont effektív SIZ-jét a talaj egyenetlenségének, lejtőjének vagy a célpont állapotának (fáradt, elkábult stb.) tükrözésére. Ha sikertelen, a célpont méterenként 5 sebzéspontonként 1 métert lökődik vissza (a páncél előtti sebzés alapján), és a támadónak ismét közel kell kerülnie és harcba kell bocsátkoznia a célponttal közelharcban, ha korábban kilökték a közelharci távolságból. Ha a visszalökött célpont egy akadályt is talál az útjában, 1D6 sebzést szenved minden három méterért vagy annak töredékéért, amelyet még meg kellett volna tennie. A célpontnak sikeres Ügyesség dobást is kell végrehajtania, különben hasra esik (lásd **Hasra esés**).
+### Védekező harc
 
-Ha a célpont nyeri az ellenállási dobást, nem mozdul, és ha a SIZ-je nagyobb, mint a támadóé, a támadó 1 métert tántorodik vissza.
+Ha a karaktered egy körben lemond minden támadásról, hogy védekezve harcoljon, egy szabad Kitérés kísérletet helyettesíthet a támadásával, és továbbra is tehet kitérési vagy hárítási kísérleteket. Normális esetben minden további Kitérés vagy hárítás kísérlet halmozottan -30%-os módosítóval jár, de védekező harc közben a karaktered helyettesítheti a támadást egy Kitérés képzettségpróbával anélkül, hogy a -30%-os büntetést elszenvedné. Ha már tett Kitérés kísérleteket és hárításokat, és negatív módosítója van, a módosító nem nő tovább. Lényegében ez egy ingyenes Kitérés kísérlet, amely nem von maga után büntetést a következő kitérési vagy hárítási kísérletre.
 
-### Védekezőn harcolni
+Az egyetlen korlátozás ebben az esetben, hogy a karaktered nem Kitérhet és háríthat ugyanazon az ÜGY-rangon belül. Ha a karaktered normális esetben több támadást is végrehajthat körönként (például 100% feletti képzettséggel), második ingyenes Kitérést vagy hárítást is végrehajthat a halmozott büntetés nélkül.
 
-Ha a karaktered a körben minden támadásról lemond a védekező harc érdekében, egy ingyenes Kitérési kísérletet helyettesíthet a támadásával, és folytathatja a kitérési vagy hárítási kísérleteket. Normális esetben minden ezt követő Kitérési vagy hárítási kísérlet –30%-os kumulatív módosítóval jár, de védekező harc közben a karaktered helyettesítheti a Kitérés képzettségi kísérletet egy támadással anélkül, hogy a –30%-os büntetést vonná maga után. Ha már végrehajtott Kitérési kísérleteket és hárításokat, és negatív módosítóval rendelkezik, a módosító nem növekszik. Lényegében ez egy ingyenes Kitérési kísérlet, amely nem jár büntetéssel a következő kitérési vagy hárítási kísérletre.
+Semmilyen körülmények között sem kombinálható a védekező harc semmilyen támadással vagy támadó cselekedettel, még olyannal sem, mint a **Kétségbeesett cselekedet**.
 
-Az egyetlen korlátozás ebben az esetben az, hogy a karaktered nem térhet ki és nem háríthat ugyanabban a DEX-rangsorban. Ha a karaktered normális esetben több támadást hajthat végre körönként (például 100% feletti képzettséggel), akkor egy második ingyenes Kitérést vagy hárítást is végrehajthat anélkül, hogy a kumulatív büntetést vonná maga után.
+### Harci bénázások
 
-Semmilyen körülmények között sem kombinálható a védekező harc semmilyen támadással vagy támadó cselekedettel, még olyanokkal sem, mint a **Kétségbeesett cselekedet**.
+A harci bénázások szerencsétlen események vagy baklövések, amelyek a balszerencsére vagy a tapasztalatlanságra vezethetők vissza. Amikor bénázást dobsz, dobj D100-zal a megfelelő táblázaton, és alkalmazd az eredményt. A kalandmester dob a nemjátékos karakterekért. Ha a dobás eredménye nem megfelelő, a kalandmesternek érdemes azt az adott helyzethez igazítania, vagy újra dobatnia.
 
-### Fumble-ök (Baklövések) harcban
+Négy bénázási táblázat létezik; használd az akcióhoz leginkább megfelelőt. Bár a **Természetes fegyvertámadások és hárítások táblázata** az értelmes humanoidok cselekedeteinek irányítására szolgál, kellő megfontolással hasznos lehet az olyan állatoknál is, mint a medvék, farkasok stb. Ismételten, a kalandmestert arra bátorítjuk, hogy a valószínűtlen eredményeket igazítsa vagy dobassa újra.
 
-A harci fumble-ök szerencsétlen események vagy balesetek, amelyeket balszerencsének vagy tapasztalatlanságnak tulajdonítanak. Amikor fumble-t dobsz, dobj D100-zal a megfelelő táblázaton, és alkalmazd az eredményt. A játékmester dob a nemjátékos karakterekért. Ha a dobás eredménye nem megfelelő, a játékmesternek adaptálnia kell azt valami olyasmire, ami értelmes, vagy újra kell dobnia.
+Egyes fegyverek **meghibásodhatnak**. Ezek a bénázásokon felül fordulnak elő, ha a dobás eredménye átfedésben van a bénázási és a meghibásodási tartományokkal (lásd **Meghibásodások**).
 
-Négy fumble táblázat létezik; használd a cselekedethez legmegfelelőbbet. Bár a **Természetes fegyver támadások és hárítások táblázat** az intelligens humanoidok cselekedeteinek irányítására szolgál, belátással hasznos lehet természetes állatok, mint medvék, farkasok stb. számára is. Ismételten, a játékmestert arra biztatjuk, hogy adaptálja vagy újra dobja a valószínűtlen eredményeket.
-
-Egyes fegyverek **meghibásodhatnak**. Ezek a fumble-ök mellett fordulnak elő, ha a dobás eredménye átfedésben van a fumble és a meghibásodási tartományokkal (lásd **Meghibásodások**).
-
-> ### Alternatív harci szabályok (Opcionális)
+> ### Választható harci szabályok (opció)
 > 
-> Ezek az opcionális szabályok módosítják a harcot, hogy jobban szimulálják a különböző műfajú harcokat, néhány ajánlással és tanáccsal arra vonatkozóan, hogyan befolyásolják ezek a szabályok a játékmenetet.
+> Ezek az opcionális szabályok módosítják a harcot, hogy jobban szimulálják a különböző műfajok harcait, néhány javaslattal és tanáccsal arról, hogyan befolyásolják ezek a szabályok a játékmenetet.
 > 
-> #### 100% feletti támadások és hárítások (Opcionális)
+> #### 100% feletti támadások és hárítások (opció)
 > 
-> A karakterednek 100% feletti képzettségei lehetnek, ami nagyobb esélyt biztosít a kritikus eredményekre, speciális sikerekre, és harci képzettségek esetén több támadásra egy körben.
+> A karaktered képzettségei meghaladhatják a 100%-ot, ami nagyobb esélyt biztosít kritikus eredményekre, különleges sikerekre, harci képzettségeknél pedig több támadásra egy körben.
 > 
-> A 100% vagy annál nagyobb harci képzettségi szint lehetővé teszi a karaktered számára, hogy felossza a támadását több támadásra, bár minden támadásnak legalább 50%-nak kell lennie. Ezek az összegek nem kell, hogy egyenlőek legyenek. ***Például,*** *101%-os képzettséggel a karaktered két támadásra oszthatja a támadását, egy 51%-os és egy 50%-os támadásra. 151%-os képzettséggel a karaktered két támadásra oszthatja, egy 75%-os és egy 76%-os támadásra, egy 92%-osra és egy másik 59%-osra, vagy háromra 50%, 50% és 51% stb. Nem hozhatsz létre törteket és nem kerekíthetsz felfelé – rendelj minden képzettségi értéket a támadásokhoz.*
+> A 100%-os vagy annál magasabb harci képzettség lehetővé teszi, hogy a karaktered több támadásra ossza fel a támadását, bár minden támadásnak legalább 50%-osnak kell lennie. Ezeknek az összegeknek nem kell egyenlőnek lenniük. ***Például,*** *101%-os képzettségi szinttel a karaktered feloszthatja a támadásait egy 51%-os és egy 50%-os támadásra. 151%-os szinttel feloszthatja két 75%-os és 76%-os támadásra, egy 92%-osra és egy 59%-osra, vagy három 50%-os, 50%-os és 51%-os támadásra, stb. Nem hozhatsz létre törteket, és nem kerekíthetsz felfelé – oszd ki a teljes képzettségi szintet a támadásokra.*
 > 
-> A karaktered ezután külön támadásokat hajthat végre ugyanazzal a fegyverrel, mindegyiket a felosztott képzettségi értékek egyikével oldva meg. Az első támadás DEX-rangsora normális; a második DEX-rangsora 5 DEX-rangsorral alacsonyabb; a harmadik 5 DEX-rangsorral az után stb. Ha ez egy támadást 0 vagy az alatti DEX-rangsorra csökkent, az nem kísérelhető meg.
+> A karaktered ezután külön támadásokat hajthat végre ugyanazzal a fegyverrel, mindegyiket a felosztott képzettségi érték felhasználásával oldva meg. Az első támadás ÜGY-rangja normális; a másodiké 5 ÜGY-ranggal alacsonyabb; a harmadiké újabb 5 ÜGY-ranggal később, stb. Ha ez a támadást 0-s vagy annál alacsonyabb ÜGY-rangra csökkenti, akkor az nem hajtható végre.
 > 
-> **Képzettség 100%-os túllépése** információt nyújt arról, hogyan érheti el a karaktered a 100% feletti képzettségeket.
+> A **100% feletti képzettségszint** rész információt nyújt arról, hogyan érheti el a karaktered a 100%-nál magasabb értékeket.
 > 
-> #### Távolsági fegyverek kikerülése (Opcionális)
+> #### Távolsági fegyverek kikerülése (opció)
 > 
-> Normális esetben a karaktered csak büntetéssel vagy egyáltalán nem térhet ki a távolsági fegyverek elől (lásd **Kitérés**), de egy hősiesebb játékban a karaktered teljes képzettségi értékével térhet ki, feltételezve, hogy van esélye meglátni a támadót és ki tud térni az útból. Ez akár a területre ható támadások kikerülését is magában foglalhatja.
+> Normális esetben a karaktered csak büntetéssel vagy egyáltalán nem tud kitérni a távolsági fegyverek elől (lásd **Kitérés**), de egy hősiesebb játékban a karaktered a teljes képzettségi szintjével Kitérhet, feltételezve, hogy van esélye meglátni a támadót és ki tud térni az útból. Ez akár területi támadások kikerülését is magában foglalhatja.
 > 
-> Ezenkívül a karaktered megkísérelheti hárítani a távolsági fegyvereket kézifegyverekkel. Egy speciális vagy kritikus siker szükséges a távolsági fegyver kézifegyverrel való sikeres hárításához, és ha az eredmény normál siker vagy akár kudarc, a támadás automatikusan eltalálja a karakteredet.
+> Továbbá, a karaktered megkísérelheti a távolsági fegyvereket kézifegyverekkel hárítani. A távolsági fegyver kézifegyverrel való hárításához különleges vagy kritikus siker szükséges, és ha az eredmény normál siker vagy akár kudarc, a támadás automatikusan eltalálja a karakteredet.
 > 
-> A karaktered megkísérelheti elkapni az olyan távolsági fegyvert, mint egy nyíl, lándzsa vagy más elhajított fegyver, egy Ügyesség vagy Dobás képzettségi dobáson elért speciális vagy kritikus sikerrel. Ebben az esetben a karaktered elkapta a fegyvert és megúszta a sérülést, és tetszése szerint megszabadulhat tőle vagy felhasználhatja a harcban. Ha a dobás sikeres, de nem speciális vagy kritikus siker, a karaktered nem kapta el, de sértetlen maradt. Ha a dobás kudarc, a karakterednek sikeres Szerencse dobást kell végrehajtania a sérülés elkerüléséhez, különben megkapja a távolsági fegyver normál dobott sebzését. Ha a dobás fumble, a karaktered automatikusan megkapja a távolsági fegyver dobott sebzését (a kezére/karjára, ha találati helyeket használnak). A páncélvédelem engedélyezett ezen támadás ellen.
+> A karaktered megkísérelheti elkapni az olyan távolsági fegyvereket, mint a nyíl, a dárda vagy más hajítófegyver, egy különleges vagy kritikus sikerrel az Ügyesség vagy Dobás képzettségpróbán. Ebben az esetben a karaktered elkapta a fegyvert és elkerülte a sérülést, és tetszése szerint eldobhatja vagy felhasználhatja a harcban. Ha a próba sikeres, de nem különleges vagy kritikus siker, a karaktered nem kapta el, de sértetlen maradt. Ha a próba kudarc, a karakterednek sikeres Szerencse-próbát kell tennie, hogy elkerülje a sérülést, különben a távolsági fegyver normál dobott sebzését szenvedi el. Ha a dobás bénázás, a karaktered automatikusan elszenvedi a távolsági fegyver dobott sebzését (a kezére/karjára, ha találati helyeket használtok). A páncélvédelem engedélyezett ez ellen a támadás ellen.
 > 
-> A karaktered szabadon háríthat nagy sebességű távolsági tüzet (nyilak, golyók stb.) pajzsokkal is, előzetesen egy Észlelés dobást kísérelve meg. Ha a dobás sikerül, a karaktered szabadon háríthat pajzsával a teljes képzettségi értéken. Ha az Észlelés dobás kudarcot vall, a hárítási dobás Nehéz, vagy a képzettségi érték alapértelmezés szerint a Pajzsok és távolsági tűz részben megadott alap esélyekre esik vissza.
+> A karaktered nagy sebességű távolsági fegyverek (nyilak, golyók stb.) tüzét is szabadon háríthatja pajzsokkal, előtte egy Észlelés-próbát téve. Ha a próba sikerül, a karaktered szabadon háríthat a pajzsával a teljes képzettségi szinten. Ha az Észlelés-próba nem sikerül, a hárítási próba Nehéz, vagy a képzettségi szint a Pajzsok és távolsági tűz részben megadott alapértékekre esik vissza.
 > 
-> #### Haláltusai (Opcionális)
+> #### Haláltusa (opció)
 > 
-> Az a képesség, hogy még egy utolsót sújtson az ellenségre, a végzetes seb ellenére, drámai és hősies finálé lehet a karaktered számára, ha halálosan megsebesült, vagy egy gyűlölt ellenfél elkeserítő végső csapása. A halálos csapás alanya (lásd Sebzés és Gyógyítás) megkísérelhet egy további harci cselekedetet, ha sikeres Állóképesség dobást hajt végre. Ennek a cselekedetnek a következő elérhető DEX-rangsorban kell történnie, amelyben képes cselekedni, vagy ha később, minden egyes körben, amíg haláltusája késleltetik, további Állóképesség dobást kell végrehajtania. Bármelyik dobás kudarca azt eredményezi, hogy meghal, mielőtt a haláltusa bekövetkezne.
+> Az a képesség, hogy a halálos seb ellenére még egyszer utoljára lecsaphass egy ellenfélre, drámai és hősies finálé lehet a karaktered számára, ha halálosan megsebesült, vagy egy gyűlölt ellenfél elszánt utolsó csapása. A halálos csapást elszenvedő (lásd Sebzés és gyógyulás) egy további harci akciót kísérelhet meg, ha sikeres ÁLL-próbát tesz. Ennek az akciónak a következő elérhető ÜGY-rangon kell történnie, amelyen cselekedni képes, vagy ha később, akkor minden egyes körért, amellyel a haláltusát halasztja, további ÁLL-próbát kell tennie. Bármelyik próba kudarca a haláltusa végrehajtása előtti halált eredményezi.
 > 
-> A játékmestert arra biztatjuk, hogy engedélyezze a karakter haláltusájának végrehajtását a teljes képzettségi értéken, mínusz az esetleges helyzeti módosítók, például a hasra esés. A játékmester belátása szerint a haláltusa nem kell, hogy harci cselekedet legyen, hanem lehet egy erő, képzettség utolsó használata, vagy akár valamilyen hétköznapi cselekedet. Javasolt, hogy a haláltusa csak egy egyszerű és közvetlen feladat legyen. Végső szavak elmondása egy másik karakternek haláltusa, és minden vonatkozó információdarabhoz sikeres Szerencse dobás szükséges.
+> A kalandmestert arra bátorítjuk, hogy engedélyezze a karakter haláltusájának végrehajtását a teljes képzettségi szinten, levonva az esetleges helyzeti módosítókat, például a hasraesést. A kalandmester belátása szerint a haláltusa nem feltétlenül harci akció, hanem egy erő, képzettség vagy akár valamilyen hétköznapi cselekvés végső felhasználása is lehet. Ajánlott, hogy a haláltusa csak egy egyszerű és közvetlen feladat legyen. Az utolsó szavak kimondása egy másik karakternek egy haláltusa, és minden fontos információhoz sikeres Szerencse-próba szükséges.
 > 
-> Miután a haláltusa végrehajtásra került, vagy a haláltusa cselekedet megtörtént, a karakter azonnal távozik, elvégezve végső kötelességét a világban. Ilyen esetben a játékmester dönthet úgy, hogy az utólagos orvosi ellátás automatikusan kudarcot vall. A haláltusa volt a hősies halál vagy gonosz vég utolsó koronája.
+> Miután a haláltusát végrehajtották vagy a haláltusát magában foglaló cselekedetet elvégezték, a karakter azonnal távozik az élők sorából, miután teljesítette végső kötelességét a világban. Ilyen esetben a kalandmester dönthet úgy, hogy az utólagos orvosi ellátás automatikusan sikertelen. A haláltusa volt a hősies halál vagy a gonosz vég utolsó koronája.
 > 
-> Ez a rendszer felváltja a **Kétségbeesett cselekedet** szabályt.
+> Ez a rendszer felváltja a **Kétségbeesett cselekedet** szabályát.
 
 ## Páncél
 
-A páncél hagyományosan egy olyan vastag és erős ruházat, amely megvéd a támadástól. Történelmileg bőrből, csontból, fából és az időszaknak megfelelő fémből készült. A modern világban a páncél kerámiából és ballisztikus szálakból, könnyűfémekből és más szívós, műanyag alapú anyagokból készül, a jövő korokban pedig a páncél valószínűleg hasonló csúcstechnológiájú anyagokból, vagy akár energia alapú védelemből fog állni. Bár a viselése fáradtságot okozhat, a hagyományos páncél nem igényel képzettségi dobást vagy erőfeszítést a használatához. Ha egy támadást nem hárítanak vagy kerülnek ki, a páncél az egyetlen, ami a karaktered és a sérülés között áll.
+A páncél hagyományosan egy olyan vastag és kemény ruházat, amely megvéd a támadásoktól. Történelmileg bőrből, csontból, fából és a kornak megfelelő fémből készült. A modern világban a páncél kerámiából és ballisztikus szálakból, könnyűfémekből és más kemény, műanyag alapú anyagokból készül, a jövő korszakaiban pedig a páncél valószínűleg hasonló csúcstechnológiás anyagokból, vagy akár energia alapú védelemből fog állni. Bár a viselése kimerültséget okozhat, a hagyományos páncél nem igényel képzettségpróbát vagy erőfeszítést a használathoz. Ha egy támadást nem hárítottak vagy nem tértek ki előle, a páncél az egyetlen, ami a karaktered és a sérülés között áll.
 
-A páncél legfontosabb szempontja a **páncélértéke (AV)**. Minél magasabb a páncélérték, annál jobban védi a viselőjét. A páncélértéket levonják a sikeres támadás által okozott sebzésből. A támadás alanya a fennmaradó sebzést levonja az életerőpontjaiból. Ha a páncélérték levonása után az eredmény 0 vagy negatív szám, nem keletkezik sebzés.
+A páncél legfontosabb szempontja a **páncélértéke (PÉ)**. Minél magasabb a páncélérték, annál jobban védi a viselőjét. A páncélértéket le kell vonni a sikeres támadás által okozott sebzésből. A támadás alanyának a fennmaradó sebzést kell levonnia az életerőpontjaiból. Ha a páncélérték levonása utáni eredmény 0 vagy negatív szám, nem keletkezik sebzés.
 
-Egyes páncéltípusok egymásra rétegezhetők a nagyobb hatékonyság érdekében. Ahol pajzsokat is használnak, egy sikeres pajzshárítás nem biztos, hogy elég a csapás megállításához, és a támadás sebzése potenciálisan áthatolhat a pajzs páncélértékén a használója felé. Ezekben az esetekben mind a pajzs, mind a páncél páncélértékeit levonják, mielőtt a hárító karakter sebzést kapna.
+Egyes páncélfajták rétegezhetők egymásra a nagyobb hatékonyság érdekében. Ahol pajzsot is használnak, egy sikeres pajzshárítás lehet, hogy nem elég egy csapás megállításához, és a támadásból származó sebzés potenciálisan áthatolhat a pajzs páncélértékén, és elérheti a használóját. Ilyen esetekben mind a pajzs, mind a páncél páncélértékét le kell vonni, mielőtt a hárító karakter sebzést szenvedne.
 
 ### A páncél hátrányai
 
-Minden előny ellenére vannak negatív aspektusai a páncélviselésnek. A következők a legjelentősebbek, bár a játékmester kívánhatja némelyiket jobban hangsúlyozni, másokat dehangsúlyozni, vagy akár új feltételeket bevezetni a beállítás alapján:
+Minden előnye ellenére a páncélviselésnek vannak negatív oldalai is. Az alábbiak a legjelentősebbek, bár a kalandmester talán szeretne némelyiket jobban kihangsúlyozni, másokat kevésbé fontosnak tartani, vagy akár új feltételeket bevezetni a környezet alapján:
 
-* **Képzettségi büntetések:** A páncél gátolhat bizonyos képzettségeket, különösen a Fizikai képzettségcsoportba tartozókat, mint a Mászás, Ugrás, Lopakodás és Úszás. Ezenkívül a sisak viselése korlátozhat bizonyos Észlelés képzettségeket. Néhány páncélleírás a Nyolcadik Fejezetben: Felszerelés tartalmaz negatív módosítókat ezekre a képzettségekre. A fegyverképzettségeket a páncélviselés nem befolyásolja, mivel a páncélokat kifejezetten harci használatra készítik.
+* **Képzettség-büntetések:** A páncél gátolhat bizonyos képzettségeket, különösen a Fizikai képzettségcsoportba tartozókat, mint a Mászás, Ugrás, Lopakodás és Úszás. Emellett a sisak viselése korlátozhat bizonyos Észlelési képzettségeket. A Nyolcadik fejezet: Felszerelés néhány páncélleírása negatív módosítókat tartalmaz ezekre a képzettségekre. A harci képzettségeket nem befolyásolja a páncélviselés, mivel a páncélt kifejezetten arra tervezték, hogy a harcban használják.
 
-* **Fizikai kényelmetlenség:** A páncél nehéz, kényelmetlen és rugalmatlan, vagy legalábbis jobban az, mint a normál ruházat, és a páncél súlya fáraszthatja és/vagy terhelheti viselőjét. A Fáradtság és Terhelés lefedi az ügyetlenséget vagy a páncélviselésből adódó bármilyen kimerültséget. Sivatagi vagy más forró környezetben a páncél még kényelmetlenebb lehet (lásd **Hideg, Expozíció, Éhség és Szomjúság** és **Tűz és Hőség**).
+* **Fizikai kényelmetlenség:** A páncél nehéz, kényelmetlen és rugalmatlan, vagy legalábbis jobban az, mint a normál ruházat, és a páncél súlya kimerítheti és/vagy terhelheti viselőjét. A Kimerültség és Teherbírás lefedi a ügyetlenséget vagy a páncélviselésből eredő fáradtságot. Sivatagi vagy más forró környezetben a páncél még kényelmetlenebb lehet (lásd **Hideg, kitettség, éhség és szomjúság** valamint **Tűz és hő**).
 
-* **Társadalmi kérdések:** Sok páncéltípus nehezen rejthető el, és sok társadalomban vagy kultúrában ellenségesnek értelmezhető. Egyes Kommunikációs képzettségek Nehézzé válhatnak a helyzettől függően, mivel gyakran nehéz meggyőzni vagy manipulálni valakit, amikor az erőszakra való készség látszatát keltjük. Más Kommunikációs képzettségek Könnyűvé válhatnak ugyanezen okból. Ezeket a helyzeteket a játékmesternek kell megítélnie.
+* **Szociális problémák:** Sokféle páncélt nehéz elrejteni, és sok társadalomban vagy kultúrában ellenségesnek értelmezhetik. Egyes Kommunikációs képzettségek Nehézzé válhatnak a helyzettől függően, mivel gyakran nehéz valakit meggyőzni vagy befolyásolni, ha az ember úgy néz ki, mintha készen állna az erőszakra. Más Kommunikációs képzettségek Könnyűvé válhatnak ugyanazon okból. Ezeket a helyzeteket a kalandmesternek kell megítélnie.
 
-* **Hozzáférés:** Két másik gyakorlati szempont korlátozza a páncél használatát egy játékbeállításban: a páncél elérhetősége, és az, hogy illik-e. Az elérhetőséget a játékmesternek kell megítélnie, a beállítás alapján. Például egy minőségi láncing drága lehet, de viszonylag könnyen beszerezhető egy középkori történelmi környezetben, míg egy praktikus és használható láncinget szinte lehetetlen lehet megtalálni egy őskori vagy távoli jövőbeli környezetben. Egyes beállításokban az elérhetőség korlátlannak tűnhet (a modern világ például), és az igazi páncélhoz való hozzáférés olyan egyszerű lehet, mint egy online rendelés. Annak a valószínűsége azonban, hogy a páncél kellő minőségű ahhoz, hogy ellenálljon a harcnak, nem garantált, és a szállítást regionális törvények és szabályozások korlátozhatják.
+* **Hozzáférés:** Két másik gyakorlati szempont korlátozza a páncél használatát a játékban: a páncél elérhetősége és az, hogy illik-e a karakterre. Az elérhetőséget a kalandmesternek kell megítélnie a környezet alapján. Például egy minőségi láncing drága lehet, de viszonylag könnyen beszerezhető egy középkori történelmi környezetben, míg egy praktikus és használható láncinget szinte lehetetlen lehet megtalálni egy őskori vagy távoli jövőbeli környezetben. Egyes környezetekben a hozzáférés korlátlannak tűnhet (például a modern világ), és a valódi páncélhoz való hozzáférés olyan egyszerű lehet, mint egy online rendelés. Azonban az nem garantált, hogy a páncél elég jó minőségű ahhoz, hogy ellenálljon a harcnak, és a szállítást a regionális törvények és szabályozások korlátozhatják.
 
-*A Nyolcadik Fejezet: Felszerelés* lefedi a páncélok összes specifikus előnyét és hátrányát, és sok páncéltípusról ad példát, a nyersbőr tunikáktól a személyi erőterekig. Ezenkívül számos erő módosíthatja a karaktered páncélértékét. Ezeket a *Negyedik Fejezet: Erők* tárgyalja.
+A *Nyolcadik fejezet: Felszerelés* a páncél összes konkrét előnyét és hátrányát lefedi, és sok páncélfajtára hoz példát, a nyersbőr tunikáktól a személyi erőterekig. Ezenkívül számos erő módosíthatja a karaktered páncélértékét. Ezeket a *Negyedik fejezet: Erők* tárgyalja.
 
-### Páncél és SIZ
+### Páncél és MÉR
 
-Végül, nem minden páncél használható mindenki által. A páncélt általában a SIZ alapján osztályozzák, amelyre készítették, a legkényelmesebb páncélok a legtesthezállóbbak. A laza és nem illeszkedő páncél ugyanolyan kényelmetlen viselni, mint a túl szoros páncél. Minden páncéltípusnak van egy „Fits SIZ” besorolása, amely ±-ként fejeződik ki, és meghatározza a karakter SIZ tartományát egy adott páncél alapértelmezett SIZ-je alatt és felett. Feltételezzük, hogy egy karakter rendelkezik vagy vásárol a saját SIZ-jének megfelelő páncélt, ha választási lehetősége van. Ha a karaktered SIZ-je kívül esik a páncél SIZ tartományán, a páncél nem viselhető.
+Végezetül, nem minden páncél használható mindenki által. A páncélt általában a MÉR alapján osztályozzák, amelyre készítették, a legkényelmesebb páncélok a leginkább testhezállók. A laza és rosszul illeszkedő páncél viselése ugyanolyan kényelmetlen, mint a túl szoros páncélé. Minden páncélfajtának van egy „Illeszkedő MÉR” besorolása, amelyet ± jellel fejeznek ki, és amely meghatározza a karakter MÉR-jének tartományát egy adott páncél alapértelmezett MÉR-je felett és alatt. Feltételezzük, hogy a karakter a saját MÉR-jének megfelelő páncélt birtokol vagy vásárol, ha választhat. Ha a karaktered MÉR-je a páncél MÉR-tartományán kívül esik, a páncél nem viselhető.
 
-Általában minél magasabb a páncélérték, annál kevésbé valószínű, hogy illeszkedik egy másik SIZ-ű karakterre. Ha a karaktered szélsőséges SIZ-vel rendelkezik az egyik vagy másik irányba (8 alatt vagy 16 felett), előfordulhat, hogy nem tud „boltban kapható” páncélt viselni (ha létezik ilyen), és kénytelen többet fizetni egyedi páncélért, vagy alternatív forrásokat keresni a védelmi felszereléshez.
+Általánosságban elmondható, hogy minél magasabb a páncélérték, annál kevésbé valószínű, hogy egy másik MÉR-rel rendelkező karakterre illik. Ha a karaktered szélsőséges MÉR-rel rendelkezik (8 alatt vagy 16 felett), előfordulhat, hogy nem tud „boltban kapható” páncélt viselni (ha létezik ilyen), és kénytelen lesz többet fizetni az egyedi készítésű páncélért, vagy más forrást keresni a védelmi felszereléshez.
 
 ### Pajzsok
 
-A legkönnyebb úgy gondolni a pajzsra, mint egy olyan fegyverre, amelynek elsődleges célja az, hogy a karaktered és a támadó közé kerüljön. A pajzsok nem fedik le az egész testet, de könnyebbek, mint a testpáncél, és sokkal olcsóbbak és könnyebben kezelhetők. A pajzsok általában nem veszítenek életerőpontokat, amikor normál csapások érik őket, és nem nagyon könnyű őket a védő szorításából kilökni. Általában csak erős csapások (speciális sikerek vagy jobbak) károsítanak egy pajzsot, és az egyetlen módja annak, hogy elveszítsd, a fumble.
+A legkönnyebb úgy gondolni a pajzsra, mint egy olyan fegyverre, amelynek elsődleges célja, hogy a karaktered és a támadó közé kerüljön. A pajzsok nem fedik az egész testet, de könnyebbek, mint a testpáncélok, és sokkal olcsóbbak és könnyebben kezelhetők. A pajzsok általában nem veszítenek életerőpontokat, amikor normál csapások érik őket, és nem is túl könnyű őket kicsavarni a védő kezéből. Általában csak az erőteljes csapások (különleges sikerek vagy jobbak) károsíthatják a pajzsot, és az egyetlen módja annak, hogy valaki elveszítse, a bénázás.
 
-A különböző típusú pajzsokat a Nyolcadik Fejezet: Felszerelés írja le. A fegyvertípusoktól eltérően minden pajzs ugyanazt a Pajzs képzettséget használja, és ugyanaz a képzettségi érték vonatkozik bármely használt pajzsra. A karaktered pajzsával hárítja a közelharci támadásokat, ugyanúgy, ahogy egy kézifegyverrel tenné. Távolsági fegyverek ellen egy fél- vagy kis pajzsnak 15% alap esélye van a távolsági lövedék blokkolására, egy teljes pajzsnak 30% esélye van, és egy nagy pajzsnak 60% esélye van. Ha a karaktered mögé térdel, egy teljes pajzsnak 60% esélye van a távolsági lövedék blokkolására, és egy nagy pajzs 90% esélyt kínál. Ezek az értékek a karaktered képzettségi értéke helyett használatosak. Lásd **Távolsági fegyverek** és **Pajzsok és távolsági tűz**.
+A különböző típusú pajzsokat a Nyolcadik fejezet: Felszerelés írja le. A fegyvertípusokkal ellentétben minden pajzs ugyanazt a Pajzs képzettséget használja, és ugyanaz a képzettségi szint vonatkozik minden használt pajzsra. A karaktered a pajzsával ugyanúgy hárítja a közelharci támadásokat, mint egy kézifegyverrel. A távolsági fegyverek ellen egy fél vagy kis pajzs alap 15%-os eséllyel blokkol egy lövedéket, egy teljes pajzs 30%-os eséllyel, egy nagy pajzs pedig 60%-os eséllyel. Ha a karaktered mögé térdel, a teljes pajzs 60%-os eséllyel blokkol egy lövedéket, a nagy pajzs pedig 90%-os esélyt kínál. Ezek az értékek a karaktered képzettségi szintje helyett használatosak. Lásd **Távolsági fegyverek** és **Pajzsok és távolsági tűz**.
 
-A legtöbb körülmény között a pajzsok nem tudják hatékonyan hárítani a rendkívül gyors távolsági fegyvereket, mint a lőfegyverek vagy energiafegyverek, és korlátozottan használhatók a kézzel hajított fegyverek, mint a nyilak, parittyakövek és lándzsák ellen. Ezekben az esetekben egy alap esélyt helyettesítenek a karaktered képzettségi értéke helyett, de ha megengedett, lásd **Távolsági fegyverek kikerülése**.
+A legtöbb esetben a pajzsok nem tudnak hatékonyan hárítani rendkívül gyors távolsági fegyvereket, például lőfegyvereket vagy energiafegyvereket, és korlátozottan használhatók a kézzel hajtott fegyverek, mint a nyilak, parittyakövek és dárdák ellen. Ezekben az esetekben a karaktered képzettségi szintje helyett egy alapértelmezett esélyt helyettesítenek, de ha engedélyezett, lásd **Távolsági fegyverek kikerülése**.
 
-A karaktered a pajzsot támadásra is használhatja egy ellenfél ellen. Az esély ugyanaz, mint a karaktered Pajzs képzettségi értéke, mivel a pajzsképzés általában magában foglalja a támadó használatot is, csakúgy, mint a védelmit. A pajzsok általában a visszalökést használják speciális sikerként, bár egyes pajzstípusok tüskések, és használhatják az átszúró speciális sikereket.
+A karaktered pajzsot is használhat ellenfél támadására. Az esély megegyezik a karaktered Pajzs képzettségi szintjével, mivel a pajzsképzés általában magában foglalja a támadó jellegű használatot is, csakúgy, mint a védekezőt. A pajzsok általában a visszalökést használják különleges sikerként, bár egyes pajzstípusok tüskések, és használhatják az átütő különleges sikereket.
 
-Ha egy támadó el akarja pusztítani az ellenfél hárító fegyverét vagy pajzsát, támadást kell végrehajtania a szokásos módon. Ha a célpont nem próbál hárítani, a támadás egy **Célzott támadás**. Ha a támadás sikerül és sikeresen hárítják, vagy ha a támadás sikeresen eltalálja a pajzsot célzott támadásként, a sebzést normál módon dobják (módosítva, ha az speciális vagy kritikus siker). A pajzs páncélértékét levonják az okozott sebzésből. Bármilyen felesleges sebzést a pajzs kapja. Ha a pajzsot 0 életerőpontra csökkentik, a sebzés maradéka eltalálja a védőt. A páncél védeni fog ez ellen, és ha az opcionális találati hely rendszer használatos, a sebzés a védő fegyver- vagy pajzsos karjára megy.
+Ha egy támadó le akarja rombolni az ellenfél hárító fegyverét vagy pajzsát, a támadást a normális módon kell végrehajtania. Ha a célpont nem kísérli meg a hárítást, a támadás **Célzott támadás**. Ha a támadás sikeres, és sikeresen hárították, vagy ha a támadás célzott támadásként sikeresen eltalálja a pajzsot, a sebzést normálisan dobják (módosítva, ha különleges vagy kritikus siker). A pajzs páncélértékét levonják az okozott sebzésből. Bármilyen felesleges sebzés a pajzsot éri. Ha a pajzs életerőpontja 0-ra csökken, a maradék sebzés eltalálja a védőt. A páncél megvéd ez ellen, és ha az opcionális találati hely rendszert használják, a sebzés a védő fegyverét vagy pajzsos karját éri.
 
-> ### Véletlenszerű páncélértékek (Opcionális)
+> ### Véletlenszerű páncélértékek (opció)
 > 
-> Néha a páncél megbízhatatlan, és nem védi a karakteredet megbízhatóan minden alkalommal, amikor harcban eltalálják. A páncélzatnak vannak hézagai, olyan terei, amelyek kevésbé páncélozottak, és a karaktered testének egyes részei egyáltalán nem is lehetnek páncélozva. A fix páncélérték helyett a véletlenszerű páncélérték ezt a kiszámíthatatlanságot szimulálja egy kockatartománnyal, amelyet minden olyan támadásnál dobnak, amely sebzést okozna, ha sikeresen eltalálja a karakteredet. Ezt a véletlenszerűen meghatározott páncélértéket dobják és vonják le minden kapott sebzésből. A páncélértéket külön dobják minden egyes, a karakteredet érő támadásnál, még ugyanabban a körben is. *A Nyolcadik Fejezet: Felszerelés* részletesen lefedi a páncélt, és tartományokat ad a véletlenszerű páncélértékekhez. A véletlenszerű páncélértéket használó játékokban ajánlott, hogy a páncél generikus legyen, ne találati hely szerinti specifikus, a könyvelés minimalizálása érdekében.
+> Néha a páncél megbízhatatlan, és nem védelmezi megbízhatóan a karakteredet minden alkalommal, amikor harcban eltalálják. A páncélnak vannak hézagai, olyan részei, amelyek kevésbé páncélozottak, és a karaktered testének egyes részei talán egyáltalán nem páncélozottak. Fix páncélérték helyett a véletlenszerű páncélérték egy dobókocka-tartománnyal szimulálja ezt a kiszámíthatatlanságot, amelyet akkor dobnak, amikor egy sebzést okozó támadás sikeresen eltalálja a karakteredet. Ezt a véletlenszerűen meghatározott páncélértéket bedobják és levonják az elszenvedett sebzésből. A páncélértéket minden, a karakteredet érő támadásra külön dobják, még ugyanabban a körben is. *A Nyolcadik fejezet: Felszerelés* részletesen foglalkozik a páncélokkal és tartományokat biztosít a véletlenszerű páncélértékekhez. A véletlenszerű páncélértéket használó játékokban ajánlott, hogy a páncél generikus legyen, ne találati hely szerinti, a helyszínenkénti adminisztráció minimalizálása érdekében.
 
 ## Távolsági fegyverek
 
-Olyan fegyver, amelyet egy célpontra indítanak vagy hajítanak, egy **távolsági fegyver**. Ide tartoznak a dárda, kövek, dobókés, bumeráng, nyílhegyek vagy akár a fejszék. Azok a fegyverek, amelyek valamilyen mechanizmust használnak egy sebzést okozó elem célpontra való vetítésére, beleértve a lőfegyvereket, íjakat, katapultokat és akár energiafegyvereket, szintén távolsági fegyverek.
+Az a fegyver, amelyet célpontra lőnek vagy hajítanak, **távolsági fegyver**. Ide tartoznak a dárdák, kövek, hajítókések, bumerángok, dartsok vagy akár a fejszék is. Azok a fegyverek, amelyek valamilyen mechanizmust használnak egy sebzést okozó elem célpontra való kivetítésére – beleértve a lőfegyvereket, íjakat, katapultokat és még az energiafegyvereket is –, szintén távolsági fegyverek.
 
-A távolsági fegyvereket a Nyolcadik Fejezet: Felszerelés írja le. Egyes távolsági fegyverek, mint az íjak és számszeríjak, lassabban támadnak, mint ahogy a karaktered egy kézitusa fegyverrel suhintani tud, míg a lőfegyverek és más önmeghajtású fegyverek gyakran gyorsabban támadnak. A támadások-körönként (Attk) oszlop a fegyvertáblázatokban mutatja, milyen gyakran hajtható végre támadás minden távolsági fegyvertípussal. A megnövelt tűzgyorsaságért (magasabb támadások-körönként érték), lásd **Sortűz**.
+A távolsági fegyvereket a Nyolcadik fejezet: Felszerelés írja le. Egyes távolsági fegyverek, mint az íjak és számszeríjak, lassabb ütemben támadnak, mint ahogy a karaktered egy kézifegyverrel sújthat, míg a lőfegyverek és más önmeghajtású fegyverek gyakran gyorsabb ütemben támadnak. A fegyvertáblázatok körönkénti támadás (Tám) oszlopa mutatja, milyen gyakran hajtható végre támadás az egyes távolsági fegyverekkel. A megnövelt tűzgyorsaságért (magasabb körönkénti támadásszám) lásd a **Sortűz** részt.
 
-Az alábbiak a távolsági fegyverek hatótávolság-módosítói:
+Az alábbiak a távolsági fegyverek távolságmódosítói:
 
-* **Puskapornyi távolság:** Ha a célpont az támadó DEX/3 méterén belül van (kerekíts felfelé) (még ha a célpont hasra is feküdt), a képzettség Könnyű.
+* **Közvetlen közel:** Ha a célpont a támadó ÜGY/3 méteres körzetén belül van (felfelé kerekítve) (még akkor is, ha a célpont hasra feküdt), a képzettség Könnyű.
 
-* **Normál hatótáv:** Módosítatlan, ha a célpont a fegyver standard listázott hatótávolságán belül van.
+* **Normál távolság:** Módosítatlan, ha a célpont a fegyver standard listázott hatótávolságán belül van.
 
-* **Közepes hatótáv:** Ha a célpont a fegyver standard listázott hatótávolságának kétszeresénél van, a támadás Nehéz.
+* **Közepes távolság:** Ha a célpont a fegyver standard listázott hatótávolságának kétszeresénél van, a támadás Nehéz.
 
-* **Hosszú hatótáv:** Ha a célpont a fegyver standard listázott hatótávolságának négyszeresénél van, a támadás 1/5 normál képzettségi esély (egyenértékű egy speciális sikerrel, de ha dobják, az eredmény egy normál siker).
+* **Nagy távolság:** Ha a célpont a fegyver standard listázott hatótávolságának négyszeresénél van, a támadás a normál képzettségi esély 1/5-e (egyenértékű egy különleges sikerrel, de ha dobják, az eredmény normál siker).
 
 * **Gyorsan mozgó célpont:** –50%
 
-* **Nehéz látásviszonyok:** Fényes árnyékok –10%, köd –25%, sötétségben a képzettségek Nehezek (lásd **Sötétség**).
+* **Nehéz látási viszonyok:** Halvány árnyékok –10%, könnyű köd –25%, sötétségben a képzettségek Nehezek (lásd **Sötétség**).
 
-* **Rejtőzködés:** Ha a célpont fedezékben van vagy részben elrejtett, a képzettségek Nehezek (lásd **Fedezék**).
+* **Elrejtőzés:** Ha a célpont fedezve vagy részben elrejtve van, a képzettségek Nehezek (lásd **Fedezék**).
 
-* **Hasra fekve távolságban:** Ha a célpont hasra feküdt az támadó DEX/3 méterénél nagyobb távolságban (kerekíts felfelé), a támadás Nehéz.
+* **Hasra fekvés távolról:** Ha a célpont a támadó ÜGY/3 méteres távolságánál messzebb fekszik (felfelé kerekítve), a támadás Nehéz.
 
-* **Célzó berendezés:** Hosszú távú szemüveg, távcső, lézerirányzék vagy más célzórendszer használata 1/2-re osztja a hatótáv-módosítókat, ha egy harci kört szánnak a célzásra.
+* **Célzóberendezések:** Hosszú távú szemüveg, távcső, lézerirányzék vagy más célzórendszer használata a felére osztja a távolságmódosítókat, ha egy harci kört szánnak a célzásra.
 
-* **Támasz:** Ha a fegyver fix támaszt használ (bipod vagy tripod, suspensor szíj stb.), adjon +40%-ot az első támadáshoz, ha egy kört szánnak a célzásra, majd +20%-ot a következő körökben.
+* **Támaszték:** Ha a fegyver rögzített támasztékot (villásállvány vagy háromlábú állvány, függesztő szíj stb.) használ, adj hozzá +40%-ot az első támadáshoz, ha egy kört szánnak a célzásra, majd +20%-ot a következő körökre.
 
-A távolsági fegyverek tüzét általában nem lehet kikerülni vagy hárítani kézifegyverekkel. A távolsági fegyvertűz elleni védekezés egyetlen módja a pajzzsal való hárítás, ha a lövedék elég lassú ahhoz, hogy repülés közben látható legyen. A lőfegyverek és más lövedékek túl gyorsak ehhez, míg a nyilak, dárdák és más kézzel hajított fegyverek mind háríthatók pajzzsal (lásd **Pajzsok és távolsági tűz**). Ha a távolsági fegyvertűz korlátozás vagy akadály nélküli kikerülésére és hárítására vonatkozó opcionális szabályt használod, lásd **Távolsági fegyverek kikerülése**.
+A távolsági fegyverek tüzét általában nem lehet kikerülni vagy kézifegyverekkel hárítani. A távolsági fegyverek tüzével szembeni védekezés egyetlen módja a pajzzsal való hárítás, ha a lövedék elég lassú ahhoz, hogy repülés közben látható legyen. A lőfegyverek és más lövedékek túl gyorsak ehhez, míg a nyilak, dárdák és más kézzel hajtott fegyverek mind háríthatók pajzzsal (lásd **Pajzsok és távolsági tűz**). Ha a távolsági fegyverek korlátozás vagy akadály nélküli kikerülésére és hárítására vonatkozó opcionális szabályt használod, lásd a **Távolsági fegyverek kikerülése** részt.
 
-## Sebzés és Gyógyítás
+## Sebzés és gyógyulás
 
-Az életerőpontok azt a sérülésmennyiséget mérik, amelyet a karaktered elviselhet és túlélhet. Amikor a karaktered életerőpontokat veszít sérülés miatt, ezt **sebzésnek** hívják. A CON és SIZ jellemzőiden alapuló életerőpontokkal kezdesz, és ezeket a kapott sebzés mértékével csökkentik. A sebek vagy egyéb sérülések, mérgek, betegségek és más támadási formák életerőpontokba kerülhetnek a karakterednek. Húzd ki az elvesztett életerőpontokat a karakterlapon feltüntetett aktuális életerőpont-összegből, külön-külön nyomon követve minden sérülést. Vagy karikázd be az aktuális összeget minden veszteség alapján.
+Az életerőpontok azt a sérülésmennyiséget mérik, amelyet a karaktered elviselhet és túlélhet. Amikor a karaktered életerőpontokat veszít sérülés miatt, ezt **sebzésnek** hívják. Az életerőpontjaidat az ÁLL és MÉR jellemzőid alapján kezded, és ezek az elszenvedett sebzés mértékével csökkennek. Sebek vagy más sérülések, mérgek, betegségek és más támadási formák életerőpontokat vonhatnak le a karakteredtől sebzésként. A elvesztett életerőpontokat húzd ki a karakterlapon látható aktuális életerőpont-összegből, külön-külön nyomon követve minden sérülést. Vagy karikázd be az aktuális összeget minden veszteség alapján.
 
-A méreg és a betegség különleges sérülésfajták; véletlenszerűen támadhatnak, és hatásaik késhetnek. Néhány életerőpontokba kerül, míg mások jellemzőpontokat céloznak vagy egyéb hatásokkal rendelkeznek. Az Elsősegély és Orvostudomány képzettségek csökkenthetik vagy meggyógyíthatják a kisebb sebeket és sérüléseket. Különféle erők és felszerelések is helyreállíthatják a karakterek életerőpontjait.
+A méreg és a betegség különleges sérüléstípusok; véletlenszerűen támadhatnak, és hatásuk késhet. Némelyik életerőpontba kerül, míg mások jellemzőpontokat céloznak vagy egyéb hatásaik vannak. Az Elsősegély és az Orvoslás képzettségek csökkenthetik vagy gyógyíthatják a kisebb sebeket és sérüléseket. Különféle erők és felszerelések szintén helyreállíthatják a karakterek életerőpontjait.
 
-A sebeket **kisebb**, **jelentős** vagy **halálos** kategóriába soroljuk, és az alábbiakban írjuk le őket.
+A sebek **kisebbek**, **súlyosak** vagy **halálosak**, és az alábbiakban vannak leírva.
 
 ### Kisebb sebek
 
-A **kisebb seb** egyetlen olyan seb, amely a karaktered teljes életerőpontjának akár felébe is kerülhet. Ábrázolható vágásként, rándulásként, enyhe mérgezésként, kisebb törésként vagy repedésként, enyhe agyrázkódásként, vagy olyan sebként, amely hamar bezárul. A kisebb sebek nem rontják a DEX-et, és nem befolyásolják a karaktered gondolkodási és harci képességét.
+A **kisebb seb** egyetlen olyan seb, amely a karaktered összes életerőpontjának legfeljebb a felébe kerül. Lehet ez vágás, ficam, enyhe mérgezés, kisebb törés, enyhe agyrázkódás, vagy olyan seb, amely hamar bezárul. A kisebb sebek nem rontják az ÜGY-et, és nem befolyásolják a karaktered gondolkodási és harci képességét.
 
-A karaktered több kisebb sebet is szenvedhet ugyanazon a napon. Ha az elvesztett életerőpontok összesen egyenlők egy jelentős seb mennyiségével, a karakterednek sikeres Szerencse dobást kell végrehajtania, különben elveszíti az eszméletét. Ez nem jelenti azt, hogy a kisebb sebek összesége jelentős sebet okoz: ne dobj a **Jelentős sebek táblázaton** a többszörös kisebb sebekért. Ez azt jelenti, hogy a karaktered egy jelentős sebbel egyenértékű sérülést szenvedett el, de nem kapott ténylegesen ilyet. Ezenkívül, ha a karaktered annyi kisebb sebet szenved el, hogy 1 vagy 2 életerőpontra csökken, az akár egy órára is kiüti őket. Minden kisebb seb egy külön seb, és orvosi kezeléssel külön-külön kezelhető, ahogy a **Gyógyítás** részben leírtuk.
+A karaktered több kisebb sebet is szerezhet ugyanazon a napon. Ha az elvesztett életerőpontok összege eléri a súlyos sebzés mértékét, a karakterednek sikeres Szerencse-próbát kell tennie, különben eszméletét veszti. Ez nem jelenti azt, hogy a kisebb sebek összege súlyos sebet okoz: ne dobj a **Súlyos sebek táblázaton** több kisebb seb miatt. Ez azt jelenti, hogy a karaktered egy súlyos sebnek megfelelő kárt szenvedett el, de ténylegesen nem kapott olyat. Továbbá, ha a karaktered annyi kisebb sebet szenved, hogy 1 vagy 2 életerőpontra csökken, ez akár egy órára is kiüti őket. Minden kisebb seb különálló seb, és orvosi kezeléssel külön-külön kezelhető, ahogy a **Gyógyulás** részben le van írva.
 
-### Jelentős sebek
+### Súlyos sebek
 
-Amikor a karaktered egyenlő vagy annál nagyobb sérülést szenvedett, mint a karakter teljes életerőpontjának fele, akkor **jelentős sebet** kapott. A jelentős seb megszerzése kockáztatja a maradandó sérülés elszenvedését. Amikor a karaktered jelentős sebet kap, dobj a **Jelentős sebek táblázaton**, vagy válassz egy megfelelő eredményt, ha találati helyeket használsz. Ahogy a **Találati helyek** részben megjegyeztük, a jelentős sebek összeegyeztethetetlenek a találati helyekkel, jelentős játékmesteri értelmezés nélkül.
+Amikor a karaktered a teljes életerőpontjainak felével vagy annál többel egyenlő sérülést szenvedett, **súlyos sebet** kapott. A súlyos seb kockázatot jelent a maradandó sérülésre. Amikor a karaktered súlyos sebet kap, dobj a **Súlyos sebek táblázaton**, vagy válassz megfelelő eredményt, ha találati helyeket használtok. Amint azt a **Találati helyek** részben megjegyeztük, a súlyos sebek a találati helyekkel jelentős kalandmesteri értelmezés nélkül összeegyeztethetetlenek.
 
-A jelentős seb hatása azonnali. A sebek súlyosságától függően a karaktered előfordulhat, hogy a sérülés körét követően nem tud harcolni. További részletekért lásd a **Jelentős sebek táblázatot**.
+A súlyos seb hatása azonnali. A sebek súlyosságától függően előfordulhat, hogy a sérülés körét követően nem tud harcolni. További részletekért lásd a **Súlyos sebek táblázatot**.
 
-Annak ellenére, hogy a karaktered még képes lehet harcolni, vagy részesült valamilyen formájú azonnali orvosi ellátásban, ha jelentős sebet szenvedett, sokkba kerül. Emiatt a karaktered csak a jelenlegi megmaradt életerőpontjainak megfelelő számú harci körig harcolhat tovább.
+Bár a karaktered még képes lehet harcolni, vagy azonnali orvosi ellátásban részesült, ha súlyos sebet szenvedett, sokkba kerül. Emiatt a karaktered csak a maradék életerőpontjaival egyenlő harci körökig képes harcolni.
 
-***Például,*** *ha a karaktered jelentős sebet kapott, és 3 életerőpontja maradt, három körön belül elveszíti az eszméletét.*
+***Például,*** *ha a karaktered súlyos sebet kapott és 3 életerőpontja maradt, három körön belül eszméletét veszti.*
 
-Egy olyan karakter, akinek 2 vagy kevesebb életerőpontja maradt a jelentős seb elszenvedése után, sokk és vérveszteség miatt azonnal összeesik, és egy órára elveszíti az eszméletét. A játékmester számára a jelentős seb által kiváltott eszméletvesztés gyakran biztonságos módot kínál a nemjátékos karaktereknek arra, hogy halottnak hagyják a karaktereket vagy elfogják őket, ahelyett, hogy egyből megölnék őket.
+Az a karakter, akinek 2 vagy kevesebb életerőpontja marad a súlyos seb elszenvedése után, azonnal összeesik a sokk és a vérveszteség miatt, és egy órára eszméletlen marad. A kalandmester számára a súlyos seb által kiváltott eszméletlenség gyakran biztos módot kínál a nemjátékos karaktereknek arra, hogy halottnak nyilvánítsák vagy elfogják a karaktereket, ahelyett, hogy azonnal megölnék őket.
 
-A jelentős sebek és hatásaik ugyanúgy vonatkoznak a játékosokra és a nemjátékos karakterekre, mint az állatokra, szörnyekre vagy más lényekre. Nem vonatkoznak a felszerelésre, élettelen tárgyakra vagy más lényekre, amelyek nem rendelkeznek standard izomzattal (robotok, immateriális, zselatinos stb.). Az ilyen lények strukturális károkat vagy működési nehézségeket szenvedhetnek, de ez a játékmestered belátásától függ.
+A súlyos sebek és hatásaik ugyanúgy vonatkoznak a játékos karakterekre és a nemjátékos karakterekre, mint az állatokra, szörnyekre vagy más lényekre. Nem vonatkoznak felszerelésekre, élettelen tárgyakra vagy más olyan lényekre, amelyek nem rendelkeznek normál izomzattal (robotok, testetlenek, kocsonyásak stb.). Az ilyen lények strukturális károkat vagy működési nehézségeket szenvedhetnek, de ez a kalandmester megítélésére van bízva.
 
-Ha a karaktered jelentős sebet szenvedett, azonnal kísérelj meg egy Szerencse dobást. Ha sikeres, a jelentős seb tisztán gyógyul, és nem okoz maradandó jellemzőpont-veszteséget. Ha a Szerencse dobás kudarcot vall, a sérülés vagy seb maradandó. A karaktered elszenvedi a teljes sebet, ahogy lentebb leírtuk, kivonva a jelzett jellemzőpontokat.
+Ha a karaktered súlyos sebet szenvedett, azonnal kísérelj meg egy Szerencse-próbát. Ha sikeres, a súlyos seb szépen gyógyul, és nem okoz maradandó jellemzőpont-veszteséget. Ha a Szerencse-próba sikertelen, a sérülés vagy seb maradandó. A karaktered elszenvedi a teljes sebzést az alábbiak szerint, levonva a jelzett jellemzőpontokat.
 
-Minden sérülésleírásnak több oka vagy specifikuma van, lehetővé téve a játékmestered számára, hogy kiválassza a legmegfelelőbbet a helyzethez. Képzés vagy egyéb különféle módok révén a karaktered visszanyerheti a jelentős sebekből elvesztett jellemzőpontokat, de valószínűleg maradandó heget fog viselni (ha alkalmazható). Amikor a jelentős seb okozta jellemzőpont-veszteség visszanyerésre került, a jelentős seb hatásai megszűnnek. Ha a karaktered nem nyeri vissza az elvesztett jellemzőpont(ok)at, a jelentős seb által kiváltott jellemző-veszteség maradandó. Azonnal számold újra a karaktered jellemződobásait, életerőpontjait, sebzésmódosítóját, fáradtságpontjait stb. az új jellemző-összegekkel.
+Minden sérülésleírásnak több oka vagy sajátossága van, lehetővé téve a kalandmester számára, hogy kiválassza a helyzethez leginkább megfelelőt. Képzéssel vagy más különféle eszközökkel a karaktered visszanyerheti a súlyos sebekből származó jellemzőpont-veszteséget, de valószínűleg jelentős heg marad rajta (ha alkalmazható). Amikor a súlyos seb által okozott jellemzőpont-veszteséget visszanyerték, a súlyos seb hatásai megszűnnek. Ha a karaktered nem nyeri vissza az elveszett jellemzőpont(ok)at, a súlyos seb által kiszabott jellemzőpont-veszteség maradandó. Azonnal számold újra a karaktered jellemző-próbáit, életerőpontjait, sebzési módosítóját, kimerültségi pontjait stb. az új jellemzőpont-összegekkel.
 
-Amikor egy végtag nincs meghatározva, dobj 1D6-ot: 1–3 eredmény bal, 4–6 jobb.
+Amikor a végtag nincs megadva, dobj 1D6-tal: az 1–3 eredmény bal, a 4–6 jobb.
 
-##### Jelentős seb táblázat
+##### Súlyos sebek táblázata
 
 | 1D100 | Eredmény |
 | :---- | :---- |
-| 01–10 | A láb elvágott inai sántítást okoznak; az összeolvadt bokaízületek sántítást okoznak; a hátizmok vagy gerincvelő idegsérülése balra vagy jobbra hajlítja a törzset; egy zúzott térd nem hajlítható; vagy találj ki egy új sebhatást. Veszíts 1D3 DEX-et és csökkentsd a MOV-ot ugyanannyival. A karakter még képes harcolni. |
-| 11–20 | Az orr nagy része szeletelve; több heg csúfítja el mindkét kezet; egy fület levágtak; egy vörös heg gonosz színezetet ad a megjelenésnek; vagy találj ki egy új sebhatást. Veszíts 1D3 CHA-t. A látható és nem vonzó torzság nem álcázható. A karakter még képes harcolni. |
-| 21–30 | Csukló- vagy kézsérülés; a kar vagy vállizomzat egy darabját levágták; egy darabot hasítottak a comb- vagy vádliizmokból; gerincidegek sérültek; több ujjat vagy lábujjat levágtak; vagy találj ki egy új sebhatást. Veszíts 1D3 STR-t; ez a veszteség megváltoztathatja a használható fegyvereket. A karakter még képes harcolni fegyverrel, de pajzzsal nem. |
-| 31–40 | Egy kilyukadt tüdő gyengült légzőrendszerhez vezet; a mély hasi sebek krónikusan újrafertőződnek, vagy a hasi sebek gyengítik az emésztést és az általános egészséget; a vesék és a máj sérültek; vagy találj ki egy új sebhatást. Veszíts 1D3 CON-t; csökkentsd a MOV-ot ugyanannyival, és az életerőpontok csökkenhetnek. A karakter még képes harcolni. |
-| 41–50 | Az agyrázkódás károsítja a hallást, és korlátozza a Figyelés és Belátás képességeit maximum 65%-ra; a fejsérülések ezután minden alkalommal Szerencse dobást igényelnek bármilyen mentális képzettség használatához; a mélységérzékelést befolyásoló csapások vagy vágások a távolsági fegyverképzettség szinteket maximum 65%-on hagyják; az arc és nyak több sebe korlátozza bármilyen Kommunikációs képzettség képességeit maximum 65%-ra; vagy találj ki egy új sebhatást. Veszíts 1D3 INT-et; ez a veszteség befolyásolhatja a karakter képességét bármilyen erő használatára, mint a varázslás. A karakter még képes harcolni. |
-| 51–60 | Lásd 01–10, de kiterjesztve egyik vagy mindkét kar vagy láb elvesztésére. Veszíts 1D6 DEX-et és csökkentsd a maximális MOV-ot ugyanannyival. A karakter nem képes harcolni. |
-| 61–70 | Lásd 11–20, de a jelentős seb most rosszabb csonkításokat is tartalmaz. Veszíts 1D6 CHA-t; ez egy vagy több látható torzságot hoz létre, amelyek nem álcázhatók. A karakter még képes harcolni. |
-| 71–80 | Lásd 21–30 a csonkító vágások és veszteségek példáiért. Veszíts 1D6 STR-t, esetleg beállítva a sebzésmódosítót. A karakter még képes harcolni. |
-| 81–90 | Lásd 31–40 a létfontosságú szervek különböző sebeiért. Veszíts 1D6 CON-t; befolyásolhatja az életerőpontokat és a sebzésmódosítót, és csökkenti a MOV-ot a CON veszteséggel egyenlően. A karakter nem képes harcolni. |
-| 91–92 | Rossz arc- és hangszál-sérülések. Veszíts 1D6 CHA-t. A karakter még képes harcolni. |
-| 93–94 | Törött csontok és elvágott dúcok. Veszíts 1D6 DEX-et; innentől kezdve a karakter csak egykezes közelharci fegyvereket használhat. A karakter még képes harcolni a fennmaradó karjával. |
-| 95–96 | Idegkárosodás a bal vagy jobb karban. Veszíts 1D6 DEX-et; ezentúl a karaktered csak a sértetlen karjában forgathat fegyvereket vagy felszerelést. A karakter még képes harcolni a fennmaradó karjával. |
-| 97–98 | Idegkárosodás mindkét karban. Veszíts 1D6 DEX-et; bár a lábak rendben vannak, sem a karok, sem a kezek nem forgathatnak semmit. A karakter nem képes harcolni, hacsak nem használja a lábait vagy fejeléseket. |
-| 99 | Vicsorgó sebekkel megcsonkítva. Veszíts 1D3 pontot a CHA, DEX és CON jellemzőkből. A karakter nem képes harcolni. |
-| 00 | Szándékosan megcsonkítva az összeesés után. Távolíts el 1D4 pontot négy jellemzőből (a játékmester belátása szerint). A karakter nem képes harcolni. |
+| 01–10 | A láb elvágott inai sántítást okoznak; a csontozott boka sántítást okoz; a hátizmok vagy a gerincideg sérülése balra vagy jobbra görbíti a törzset; a széttört térd nem tud hajolni; vagy találj ki egy új sebzési hatást. Veszíts 1D3 ÜGY-et és csökkentsd a MOV-ot ugyanazzal az értékkel. A karakter még képes harcolni. |
+| 11–20 | Az orr nagy részét levágták; több heg csúfítja el mindkét kezet; az egyik fülét levágták; egy vöröslő heg gonosz külsőt kölcsönöz; vagy találj ki egy új sebzési hatást. Veszíts 1D3 KAR-t. A látható és taszító torzság nem álcázható. A karakter még képes harcolni. |
+| 21–30 | Csukló- vagy kézsérülés; a kar vagy a váll izmainak egy részét levágták; darabot vájtak a comb vagy a vádli izmaiból; a gerincidegek sérültek; több ujjat vagy lábujjat levágtak; vagy találj ki egy új sebzési hatást. Veszíts 1D3 ERŐ-t; ez a veszteség megváltoztathatja a használható fegyvereket. A karakter még képes harcolni fegyverrel, de pajzzsal nem. |
+| 31–40 | A tüdő kilyukadása gyengült légzőrendszerhez vezet; a mély gyomorsebek krónikusan újrafertőződnek, vagy a hasi sebek gyengítik az emésztést és az általános egészséget; a vesék és a máj sérültek; vagy találj ki egy új sebzési hatást. Veszíts 1D3 ÁLL-at; csökkentsd a MOV-ot ugyanazzal az értékkel, és az életerőpontok csökkenhetnek. A karakter még képes harcolni. |
+| 41–50 | Az agyrázkódás károsítja a hallást és az Észlelés és Betekintés képességeket maximum 65%-ra korlátozza; a fejsérülés ezt követően minden esetben Szerencse-próbát igényel bármilyen Mentális képzettség használatához; a mélységérzékelést befolyásoló csapások vagy vágások a távolsági fegyver képzettségi szinteket maximum 65%-ra hagyják; az arcon és a nyakon lévő több seb bármilyen Kommunikációs képzettséget maximum 65%-ra korlátoz; vagy találj ki egy új sebzési hatást. Veszíts 1D3 INT-et; ez a veszteség befolyásolhatja a karakter azon képességét, hogy bármilyen erőt, például varázslatot használjon. A karakter még képes harcolni. |
+| 51–60 | Lásd 01–10, de kiterjesztve az egyik vagy mindkét kar vagy láb elvesztésére. Veszíts 1D6 ÜGY-et és csökkentsd a maximális MOV-ot ugyanezzel az értékkel. A karakter nem képes harcolni. |
+| 61–70 | Lásd 11–20, de a súlyos seb most rosszabb csonkításokat tartalmaz. Veszíts 1D6 KAR-t; ez egy vagy több látható torzságot hoz létre, amely nem álcázható. A karakter még képes harcolni. |
+| 71–80 | Lásd 21–30 a csonkító vágások és veszteségek példáiért. Veszíts 1D6 ERŐ-t, esetleg módosítva a sebzési módosítót. A karakter még képes harcolni. |
+| 81–90 | Lásd 31–40 a létfontosságú szerveket ért különféle sebekért. Veszíts 1D6 ÁLL-at; befolyásolhatja az életerőpontokat és a sebzési módosítót, és csökkenti a MOV-ot az ÁLL-veszteséggel egyenlő mértékben. A karakter nem képes harcolni. |
+| 91–92 | Súlyos arc- és hangszálsérülések. Veszíts 1D6 KAR-t. A karakter még képes harcolni. |
+| 93–94 | Csonttörések és elszakadt idegdúcok. Veszíts 1D6 ÜGY-et; mostantól a karakter csak egykezes közelharci fegyvereket használhat. A karakter még képes harcolni a megmaradt karjával. |
+| 95–96 | Idegkárosodás a bal vagy jobb karban. Veszíts 1D6 ÜGY-et; ezentúl a karakter csak a nem sérült karjában tarthat fegyvert vagy felszerelést. A karakter még képes harcolni a megmaradt karjával. |
+| 97–98 | Idegkárosodás mindkét karban. Veszíts 1D6 ÜGY-et; bár a lábak rendben vannak, sem a karok, sem a kezek nem képesek semmit sem forgatni. A karakter nem képes harcolni, hacsak nem a lábát vagy fejét használja. |
+| 99 | Gonosz sebekkel csonkítva. Veszíts 1D3 pontot KAR-ból, ÜGY-ből és ÁLL-ból. A karakter nem képes harcolni. |
+| 00 | Szándékosan csonkítva az összeesés után. Távolíts el 1D4 pontot mind a négy jellemzőből (kalandmester belátása szerint). A karakter nem képes harcolni. |
 
 ### Halálos sebek
 
-A **halálos seb** az, amely több életerőpont-sebzést okoz, mint amennyivel a karaktered jelenleg rendelkezik. Ha egy sérülés 0 vagy negatív életerőpontra csökkenti a karakteredet, halálos sebet szenvedett. A karaktered azonnal **hasra esik**, de nem képes semmilyen cselekedetre.
+A **halálos seb** olyan seb, amely több életerőpontnyi kárt okoz, mint amennyivel a karaktered jelenleg rendelkezik. Ha egy sérülés 0 vagy negatív életerőpontra csökkenti a karakteredet, az halálos sebet kapott. A karaktered azonnal **hasra esik**, de nem képes semmilyen cselekvésre.
 
-A halálos sebek halálhoz vezetnek, bár azonnali sikeres orvosi segítséggel elkerülhetők. Ha egy halálosan megsebesült karakter orvosi ellátást (Elsősegély, Orvostudomány, egy erő, egy tárgy stb.) kap abban a körben, amelyben a halálos sebet kapta, vagy az azt követő körben, és életerőpontjait 1-re vagy többre emelik, majdnem meghaltak, de túlélik az adott sérülést.
+A halálos sebek halálhoz vezetnek, bár azonnali sikeres orvosi segítséggel elháríthatók. Ha egy halálosan megsebesült karakter orvosi ellátásban részesül (Elsősegély, Orvoslás, erő, tárgy stb.) abban a körben, amelyben a halálos sebet kapta, vagy az azt követő körben, és az életerőpontjai 1-re vagy többre emelkednek, akkor majdnem meghalt, de túlélte az adott sérülést.
 
 ### Természetes gyógyulás
 
-A legtöbb élő lény természetesen gyógyul, ha elegendő ideje és viszonylag stresszmentes környezete van. A karaktered normális esetben 1D3 életerőpontot gyógyul játékhétenként. Ez a normál gyógyulási arány. Általában a játékmestered dobja a gyógyulási arány kockáit, és elmondja az eredményeket. Minden héten dobj más dobást annak meghatározására, hány életerőpont áll helyre. Mivel a gyógyulási arány minden karaktertől függően változhat, a kockaeredmény hétről hétre változhat. A karaktered minden héten gyógyulni fog, amíg az összes életerőpontja helyre nem áll.
+A legtöbb élőlény természetes úton gyógyul, ha elegendő ideje van és viszonylag stresszmentes környezetben van. A karaktered normális esetben heti 1D3 életerőpontot gyógyul. Ez a normál gyógyulási ütem. Általában a kalandmestered dobja a gyógyulási ütem kockáit, és elmondja az eredményeket. Minden héten dobj egyet annak meghatározására, hány életerőpont áll helyre. Mivel a gyógyulási ütem karakterenként változhat, a dobás eredménye hétről hétre változhat. A karaktered minden héten addig gyógyul, amíg az összes életerőpontja helyre nem áll.
 
-A heti gyógyulás eredményét a hét (amely hét napból áll) végén adják meg, de ha az idő sürget, a játékmestered dönthet úgy, hogy felosztja a gyógyulási arányt a hét napjai között, például elosztva a hetet a kockaeredménnyel, és bejelentve, hogy minden életerőpont azokban a napokban áll helyre (kerekíts felfelé).
+A heti gyógyulás eredménye a hét (hét nap) végén jár, de ha az idő sürget, a kalandmestered dönthet úgy, hogy a gyógyulási ütemet elosztja a hét napjai között, például a hét napjait elosztja a kockadobás eredményével, és bejelenti, hogy minden életerőpont az adott nap alatt áll helyre (felfelé kerekítve).
 
-Távolítsd el a helyreállt életerőpontokat a meglévő sérülésekből, a gyógyulást a többszörös sebek között a lehető legegyenletesebben elosztva. Az Elsősegély vagy Orvostudomány képzettségek vagy egyéb jogorvoslatok felgyorsíthatják a gyógyulást. Egy sikeres Elsősegély dobás azonnal helyreállít 1D3 életerőpontot sebenként vagy sérülésenként. Az Orvostudomány képzettség használható a jelentős sebek hatásainak ellensúlyozására (korábban leírtuk), és használható a sérüléseken kívüli módon elveszített életerőpontok helyreállítására is. Számos orvosi felszerelés és egyéb eszköz (mint a gyógyító erők) használható a gyógyulási folyamat segítésére.
+A visszanyert életerőpontokat vond le a meglévő sérülésekből, a gyógyulást a sebek között a lehető legegyenletesebben elosztva. Az Elsősegély vagy Orvoslás képzettségek vagy egyéb gyógymódok gyorsíthatják a felépülést. Egy sikeres Elsősegély-próba sebesülésenként vagy sérülésenként azonnal 1D3 életerőpontot állít helyre. Az Orvoslás képzettség használható a súlyos sebek hatásainak ellensúlyozására (korábban leírtak szerint), és felhasználható a sérülésektől eltérő módon elvesztett életerőpontok helyreállítására. Széles választékú orvosi felszerelés és egyéb eszközök (például gyógyító erők) használhatók a gyógyulási folyamat segítésére.
 
-Végül, a páciens által kapott orvosi ellátás minősége hétről hétre jelentősen növelheti a gyógyulási arányt. Az **Orvosi ellátás feltételei táblázat** irányelveket kínál különböző feltételekre és a gyógyulási arányra gyakorolt hatásra.
+Végezetül, az orvosi ellátás minősége, amelyet a beteg minden héten kap, jelentősen növelheti a gyógyulási ütemet. Az **Orvosi ellátás feltételei táblázat** iránymutatásokat kínál a különböző feltételekhez és azok gyógyulási ütemre gyakorolt hatásához.
 
 ##### Orvosi ellátás feltételei
 
-| Orvosi feltételek | Hatás a gyógyulási arányra |
+| Orvosi körülmények | Hatás a gyógyulási ütemre |
 | :---- | :---- |
-| Rosszul felszerelt, nem higiénikus és/vagy tele stresszes elemekkel; a páciens mozgékony és erősen megerőlteti magát (harc, rögös utazás stb.); vagy egyáltalán nem kap orvosi ellátást. | A gondozónak (orvos, ápoló, gyógyító, saját maga stb.) sikeres *Nehéz* Elsősegély vagy Orvostudomány dobást kell végrehajtania a gyógyuláshoz. Ha sikeres, a páciens normálisan gyógyul (1D3 életerőpont/hét); ha sikertelen, nincs gyógyulás. A fumble 1D3 további életerőpont sebzést okoz. |
-| Tisztességes és higiénikus feltételek, pihentető környezet, biztosított gondozás, csak mérsékelt fizikai megerőltetés. | A páciens 1D3 életerőpontot gyógyul természetesen. |
-| Kiváló feltételek és használt felszerelések, gyógyulásra és helyreállításra alkalmas környezet, teljes ágynyugalom és terápia, teljes munkaidős kiváló minőségű orvosi ellátás biztosított. | A páciens 1D3 életerőpontot gyógyul természetesen; egy további sikeres Elsősegély vagy Orvostudomány képzettség használata lehetővé teszi a lehetséges további gyógyulást. |
+| Rosszul felszerelt, egészségtelen és/vagy stresszes elemekkel teli; a beteg mobilis és erősen igénybe veszi magát (harc, rögös utazás stb.); vagy egyáltalán nem részesül orvosi ellátásban. | A gondozónak (orvos, ápoló, gyógyító, önmaga stb.) sikeres *Nehéz* Elsősegély vagy Orvoslás próbát kell tennie bármilyen gyógyuláshoz. Ha sikeres, a beteg normálisan gyógyul (1D3 életerőpont/hét); ha sikertelen, nem következik be gyógyulás. A bénázás 1D3 további életerőpontnyi sebzést okoz. |
+| Tisztességes és egészségügyi feltételek, pihentető környezet, gondozás biztosított, csak mérsékelt fizikai megterhelés. | A beteg természetes úton gyógyul 1D3 életerőpontot. |
+| Kiváló feltételek és eszközök használata, a gyógyulásra és helyreállításra kedvező környezet, teljes ágynyugalom és terápia, teljes munkaidős kiváló minőségű orvosi ellátás biztosított. | A beteg természetes úton gyógyul 1D3 életerőpontot; egy további sikeres Elsősegély vagy Orvoslás képzettség használata lehetővé teszi az esetleges további gyógyulást. |
 
-> ### Sebzés és találati helyek (Opcionális)
+> ### Sebzés és találati helyek (opció)
 > 
-> Ha az opcionális találati hely rendszert használják, a karaktered életerőpontjai megoszlanak különböző testrészek között, de egyetlen "készlet" életerőpontként is nyomon követik őket. Ez a rendszer összeegyeztethetetlen a **Jelentős sebekkel**, és a két rendszert nem szabad együtt használni.
+> Ha az opcionális találati hely rendszert használják, a karaktered életerőpontjai a különböző testrészek között oszlanak meg, de egyetlen „készletként” is nyomon követhetők. Ez a rendszer nem kompatibilis a **Súlyos sebekkel**, és a két rendszert nem szabad együtt használni.
 > 
-> Az egyedi életerőpontok találati helyenként összeadva többek, mint a karaktered normál életerőpont-összege. Kövesd nyomon minden sebet és minden találati helyet külön-külön, de vezess egy folyamatos összesítést az összes életerőpont-sebzésről, amelyet a karaktered elszenvedett. Függetlenül attól, hogy hány pont maradt az egyedi találati helyeken, ha az összesített életerőpont-veszteség elegendő ahhoz, hogy 1 vagy 2 életerőpontra csökkentse a karakteredet, elveszítik az eszméletüket, és 0-nál meghalnak, ha nem kapnak azonnali orvosi ellátást.
+> Az egyes helyszínenkénti életerőpontok összege több, mint a karaktered normál életerőpont-összege. Kövesd nyomon minden sebet és minden helyszínt külön-külön, de vezess egy folyamatos összesítést is a karaktered által elszenvedett életerő-veszteségről. Függetlenül attól, hogy hány pont maradt az egyes találati helyeken, ha az összesített életerő-veszteség elég ahhoz, hogy a karaktered 1 vagy 2 életerőpontra csökkenjen, eszméletét veszti, és 0-nál meg fog halni, ha nem kap azonnali orvosi ellátást.
 > 
-> Ahogy a találati helyekről szóló kezdeti szakaszban megjegyeztük, egy találati hely elviselheti az életerőpontjait sebzésként kényelmetlenség nélkül. ***Például,*** *ha a karakterednek 5 életerőpontja van a láb találati helyén, 4 életerőpontnyi sebzést elviselhet egy lábban anélkül, hogy mozgásképtelenné válna.* Azonban, amikor egy találati hely elviseli az összes vagy több életerőpontot sebzésként, a hatások legyengítőek vagy akár halálosak is lehetnek.
+> Amint azt a találati helyekről szóló kezdeti részben megjegyeztük, egy találati hely a saját életerőpontjainak megfelelő mennyiségű sebzést képes elviselni kellemetlenség nélkül. ***Például,*** *ha a karakterednek 5 életerőpontja van a láb találati helyén, akár 4 életerőpontnyi sebzést is kaphat a lábára anélkül, hogy mozgásképtelenné válna.* Azonban amikor egy találati hely az életerőpontjainak megfelelő vagy annál több sebzést kap, a hatások bénítóak vagy akár halálosak is lehetnek.
 > 
-> Az "orvosi ellátásra" való hivatkozás lehet az Elsősegély vagy Orvostudomány képzettség, gyógyító mágia vagy technológia, vagy egy megfelelő erő használata.
+> Az „orvosi ellátásra” való utalás jelentheti az Elsősegély vagy Orvoslás képzettségeket, gyógyító varázslatot vagy technológiát, vagy egy megfelelő erő használatát.
 > 
-> #### A találati hely életerőpontjával egyenlő vagy annál nagyobb sebzés
+> #### A találati hely életerőpontjával egyenlő vagy annál több sebzés
 > 
-> * **Láb:** A végtag átmenetileg használhatatlan, és a karaktered hasra esik. A kör hátralévő részében nem képes cselekedni, de a következő körökben cselekedhet hasra fekve. Lásd a **Hasra esés** részt a hatásokért.
+> * **Láb:** A végtag átmenetileg használhatatlan, és a karaktered hasra esik. A kör hátralévő részében nem képes cselekedni, de a következő körökben cselekedhet hasra fekve. A hatásokért lásd a **Hasraesést**.
 > 
-> * **Hasi rész:** Mindkét láb átmenetileg használhatatlan. A karaktered hasra esik, de a következő közelharci körökben cselekedhet hasra fekve. Ha a karakterednek van módja a gyógyulásra, megteheti. Ha tíz percen (két forduló) belül nincs meggyógyítva vagy kezelve Elsősegéllyel, a karaktered elvérzik, körönként 1 életerőpontot veszítve, ha nem hajt végre Állóképesség dobást a vérzés elállítására.
+> * **Has:** Mindkét láb átmenetileg használhatatlan. A karaktered hasra esik, de a későbbi harci körökben cselekedhet hasra fekve. Ha a karakterednek megvan az eszköze a saját gyógyítására, megteheti. Ha nem gyógyítják meg vagy nem látják el Elsősegéllyel tíz percen belül (két kör), a karaktered elvérzik, 1 életerőpontot veszítve körönként, ha nem tesz ÁLL-próbát a vérzés megállítására.
 > 
-> * **Mellkas:** A karaktered összeesik, és túl elfoglalt a vér köhögésével ahhoz, hogy bármilyen cselekedetet végrehajtson, beleértve a gyógyulást is. Tíz percen (két forduló) belül elvérzik, körönként 1 életerőpontot veszítve, hacsak nem kap orvosi ellátást, vagy nem állítja el a vérzést egy sikeres Állóképesség dobással.
+> * **Mellkas:** A karaktered elesik, és túlságosan elfoglalt a vér köhögésével ahhoz, hogy bármilyen cselekedetet végrehajtson, beleértve a gyógyítást is. Tíz percen belül (két kör) elvérzik, 1 életerőpontot veszítve körönként, hacsak nem kap orvosi ellátást, vagy nem állítja meg a vérzést egy sikeres ÁLL-próbával.
 > 
-> * **Kar:** A végtag átmenetileg használhatatlan, és minden, ami nincs a karhoz rögzítve, leesik. A karaktered továbbra is állhat és harcolhat azokkal a végtagokkal, amelyek még működőképesek.
+> * **Kar:** A végtag átmenetileg használhatatlan, és minden, ami nincs a karhoz rögzítve, leesik. A karaktered tovább állhat és harcolhat azokkal a végtagokkal, amelyek még funkcionálnak.
 > 
-> * **Fej:** A karaktered eszméletét veszti, és öt percen (egy forduló) belül orvosi ellátást kell kapnia, vagy egy sikeres Állóképesség dobást kell végrehajtania a stabilizáláshoz. Ha egyik sem történik meg, meghal.
+> * **Fej:** A karaktered eszméletét veszti, és öt percen belül (egy kör) orvosi ellátásban kell részesülnie, vagy sikeres ÁLL-próbát kell tennie a stabilizáláshoz. Ha egyik sem történik meg, meghal.
 > 
-> #### A találati hely életerőpontjának kétszeresével egyenlő vagy annál nagyobb sebzés
+> #### A találati hely életerőpontjának dupláját elérő vagy meghaladó sebzés
 > 
-> * **Végtag:** A karaktered nem kaphat több sebzést, mint a lehetséges pontok kétszerese egy karban vagy lábban egyetlen csapástól. Például egy 2 pontos karkezelés 5 pontos sebzésnél csak 4 életerőpontot vesz le az összesített életerőpontokból: a maradék 1 pontos sebzésnek nincs hatása. Azonban a karra mért további csapások befolyásolják a karaktered összesített életerőpontjait. Azonban egy ilyen módon sérült karakter egyetlen csapástól funkcionálisan cselekvőképtelen: többé nem harcolhat, amíg meg nem gyógyul, és sokkban van. Megpróbálhatják magukat gyógyítani. A vérzés 1 életerőpont/kör arányban történik, amíg nem kapnak sikeres orvosi ellátást vagy egy Nehéz Állóképesség dobást.
+> * **Végtag:** A karaktered egyetlen csapástól nem szenvedhet el kétszer annyi sebzést egy karban vagy lábban, mint amennyi lehetséges. Például egy 2 pontos karkezelés 5 pontos sebzés esetén csak 4 életerőpontot von le az összesből: a maradék 1 pontos sebzésnek nincs hatása. Azonban az azt a kart érő további csapások befolyásolják a karaktered életerőpontjainak összegét. Ugyanakkor az egyetlen csapástól így megsérült karakter funkcionálisan harcképtelen: többé nem tud harcolni, amíg meg nem gyógyul, és sokkban van. Megpróbálhatja magát meggyógyítani. A vérzés 1 életerőpont/kör ütemben történik, amíg sikeres orvosi ellátásban nem részesül, vagy sikeres Nehéz ÁLL-próbát nem tesz.
 > 
-> * **Fej, Mellkas vagy Hasi rész:** Ha a fej, mellkas vagy hasi rész több mint kétszer annyi sebzést szenved el, mint amennyi életerőpontja van az adott találati helyen, a karaktered elveszíti az eszméletét és körönként 1 életerőpontot kezd veszíteni, hacsak nem kap orvosi ellátást vagy nem hajt végre egy sikeres Nehéz Állóképesség dobást.
+> * **Fej, mellkas vagy has:** Ha a fej, a mellkas vagy a has több mint kétszer annyi sebzést szenved el, mint amennyi életerőpontja van az adott helyen, a karaktered eszméletét veszti, és körönként 1 életerőpontot kezd veszíteni, hacsak nem kap orvosi ellátást, vagy nem tesz sikeres Nehéz ÁLL-próbát.
 > 
-> #### A találati hely életerőpontjának háromszorosával egyenlő vagy annál nagyobb sebzés
+> #### A találati hely életerőpontjának háromszorosát elérő vagy meghaladó sebzés
 > 
-> * Egy végtag, amelyet háromszor több ponttal találnak el, mint amennyit egyetlen csapásból elviselhet, elvágott vagy visszavonhatatlanul megcsonkított. ***Például,*** *ha a karakterednek 2 pontos karja van, és 8 ponttal találják el, akkor csak 4 pontos sebzést kap az összesített életerőpontjai ellen. Azonban a kar megcsonkított. Ilyen esetekben a karaktered szintén funkcionálisan cselekvőképtelen.*
+> * A háromszor több pontot kapott végtag egyetlen csapástól elszakad vagy visszavonhatatlanul megcsonkul. ***Például,*** *ha a karakterednek 2 pontos karja van, és 8 pont éri, akkor csak 4 életerőpontnyi sebzést kap a teljes életerőpontjaihoz képest. A kar azonban megcsonkult. Ilyen esetekben a karaktered szintén funkcionálisan harcképtelen.*
 > 
-> * A fej, mellkas vagy hasi rész, amelyet háromszor több sebzéssel találnak el, mint amennyi életerőpontja van az adott helyen, azonnali halált eredményez.
+> * A háromszoros sebzést kapott fej, mellkas vagy has az adott helyen lévő életerőpontokhoz képest azonnali halált eredményez.
 > 
-> #### Elvágott és megcsonkított végtagok
+> #### Elszakadt és megcsonkult végtagok
 > 
-> * Csak drasztikus orvosi ellátás állíthatja helyre az elvágott végtagot, feltételezve, hogy minden rész rendelkezésre áll, mint például valamilyen rendkívül erőteljes mágia, technológia vagy komoly műtét, amelyet hónapokig tartó gyógyulás követ.
+> * Csak drasztikus orvosi ellátás állíthatja helyre az elszakadt végtagot, feltételezve, hogy minden rész rendelkezésre áll, például valamilyen rendkívül erőteljes varázslat, technológia vagy komoly műtét, amelyet hónapokig tartó lábadozás követ.
 > 
-> * A végtag megcsonkítása vagy elvágása maradandó sérülést okozhat. Ha a karakterednek már nincs része egy végtagból, 1 életerőpontot veszít az adott találati helyen. A játékmesterednek együtt kell működnie veled, hogy megvitassátok a beállításhoz megfelelő lehetőségeket, legyenek azok kibernetika, erőteljes mágia vagy drasztikusabb intézkedések.
+> * A végtag megcsonkítása vagy elszakadása maradandó károsodást okozhat. Ha a karaktered már nem rendelkezik a végtag egy részével, 1 életerőpontot veszít az adott helyen. A kalandmesterednek együtt kell működnie veled, hogy megbeszéljétek a környezetnek megfelelő lehetőségeket, legyen szó kibernetikáról, erőteljes varázslatról vagy drasztikusabb intézkedésekről.
 > 
-> * Használd a **Jelentős sebek** irányelveit bármilyen jellemző-veszteség meghatározására.
+> * Használd a **Súlyos sebek** iránymutatásait a jellemzőpont-veszteség meghatározásához.
 
-> ### Miniatűrök, térképek és virtuális asztalok
+
+> ### Figurák, térképek és virtuális asztalok
 > 
-> A mozgás és pozicionálás közelharcban kihívást jelentő elemek a szerepjátékokban. Bár egyes játékosok és játékmesterek kevésbé aggódnak a részletek miatt harc közben, egyesek szükségét érzik a játékos karakterek és ellenfeleik relatív pozíciójának nyomon követésére. Figurák, jelzők vagy markerek használata egy térképen válaszolhat bármilyen kérdésre, konkrét módot kínálva annak meghatározására, mi történik és hol.
+> A közelharci mozgás és pozicionálás kihívást jelentő elemek a szerepjátékokban. Bár egyes játékosokat és kalandmestereket kevésbé foglalkoztatják a részletek harc közben, mások szükségét érzik, hogy nyomon kövessék a játékos karakterek és ellenfeleik relatív pozícióját. Figurák, jelölők vagy jelzők használata a térképen megválaszolhat minden kérdést, konkrét módot kínálva annak meghatározására, mi történik és hol.
 > 
-> A szerepjáték miniatűrök apró, műanyag vagy fémes szobrocskák, néhány centiméter magasak, elérhetők a legtöbb játék- és hobbiboltban vagy online. Hatalmas választék létezik karaktertípusokból, jelmezekből, műfajokból, történelmi időszakokból és pózokból, és a miniatűrök gyűjtése, összeszerelése és festése kellemes mellékhobbi.
+> A szerepjáték-figurák kicsi, több centiméter magas műanyag vagy fém szobrocskák, amelyek a legtöbb játék- és hobbiboltban vagy online beszerezhetők. Hatalmas választék létezik karaktertípusokból, jelmezekből, műfajokból, történelmi korokból és pózokból, és a figurák gyűjtése, összeszerelése és festése kellemes kiegészítő hobbi.
 > 
-> A mozgás nyomon követésére gyakran hasznosak a négyzetrácsos vagy hatszögletű térképek. Ezek papírból vagy szilárdabb anyagokból készült különböző méretű lapokban érkeznek. Azok a boltok, amelyek miniatűr figurákat árusítanak, valószínűleg ezeket is tartják. Egyes játékosok nem szeretik a rácsokat, merevnek, korlátozónak vagy mechanikusnak találják őket, és inkább szemmel mérik a távolságokat és tárgyalják a mozgást, vonalzókat vagy mérőszalagokat használva végső esetben. Érdemes lehet kísérletezned, hogy lásd, mi illik hozzád. Egy játékmester, aki miniatűröket vagy térképeket használ, néhány nagyobb papírlapot fog akarni alaprajzok vázolására és egyszerű térképek készítésére. A játékosok hasznosnak találhatják a miliméterpapírt romok vagy épületek térképezéséhez. A szerepjátékokra specializált térképkészítő programok ezt egyre könnyebbé teszik, és előre elkészített térképek és csempekészletek is könnyen elérhetők.
+> A mozgás nyomon követéséhez gyakran hasznosak a négyzetekből vagy hatszögekből álló rácsokkal ellátott térképek. Ezek különféle méretű, papírból vagy tartósabb anyagból készült lapokon érhetők el. Azok a boltok, amelyek figurákat árulnak, valószínűleg ezeket is tartják. Egyes játékosok nem kedvelik a rácsokat, mert ridegnek, korlátozónak vagy mechanikusnak találják őket, és inkább szemmel mérik a távolságokat, és tárgyalnak a mozgásról, utolsó mentsvárként vonalzókat vagy mérőszalagokat használva. Érdemes kísérletezned, hogy lásd, mi felel meg neked. Az a kalandmester, aki figurákat vagy térképeket használ, néhány nagyobb papírlapot fog igényelni a alaprajzok vázolásához és egyszerű térképek készítéséhez. A játékosok hasznosnak találhatják a miliméterpapírt romok vagy épületek feltérképezésénél. A szerepjátékokra specializálódott térképkészítő programok ezt egyre könnyebbé teszik, és az előre elkészített térképek és csempeszettek könnyen elérhetők.
 > 
-> Az online asztalok lehetővé teszik az egész játékmenetek online lejátszását, játékmesteri eszközökkel, játékos karakterlap-tárolóval és csatatérképekkel, amelyek hangeffektusokkal, világítással, kockadobó alkalmazásokkal és még sok mással rendelkeznek, lehetővé téve a játékmestereknek és játékosoknak a játék ezen aspektusának automatizálását és az immerzív játékot a játékosokkal bárhonnan, ahol használni tudják a számítógépeiket. Ezek a felülről lefelé egyszerű térképprogramoktól a 3D környezetekig terjednek, a játékmester által testreszabhatók, "modulokkal" a tartalomról, beleértve a kalandokat és más, a játékhoz hasznos szempontokat.
+> Az online asztalok lehetővé teszik teljes játékülések online lejátszását, kalandmesteri eszközökkel, a karakterlapok játékos általi tárolásával és csatatérképekkel, amelyek hanghatásokkal, fényekkel, kockadobó alkalmazásokkal és még többel rendelkeznek, lehetővé téve a kalandmestereknek és a játékosoknak a játék ezen aspektusának automatizálását és a magával ragadó játékot a játékosokkal bárhonnan, ahol számítógépet tudnak használni. Ezek a fentről lefelé néző egyszerű térképprogramoktól a 3D-s környezetekig terjednek, a kalandmester által testreszabhatók, elérhető tartalom-„modulokkal”, beleértve kalandokat és más, a játékhoz hasznos szempontokat.
 
 ### Harci példa
 
-A következő példa egy fantasy világban játszódik, és leírja, hogyan lopta el Yvarre harcos egy felbecsülhetetlen értékű amulettet egy baljós kígyó-imádó szekta kincstárából, és próbál megszökni a templomból oda, ahol szövetségese, Kallistor vár rá.
+A következő példa egy fantáziavilágban játszódik, és leírja, hogyan lopta el Yvarre harcos egy felbecsülhetetlen értékű amulettet egy gonosz kígyóimádó szekta kincstárából, és próbál meg kijutni a templomból oda, ahol a szövetségese, Kallistor vár rá.#### Első harci kör
 
-#### Első harci kör
+Yvarre az óriási, drágakövekkel kirakott aranyamulettet a nadrágkorcába dugja, kisurran a szekta kincstárából, majd némán végigsuhan a folyosón, abban reménykedve, hogy sikerül észrevétlen maradnia, amíg el nem ér ahhoz a ponthoz, ahol a barátja, Kallistor vár rá néhány lóval.
 
-Az óriási, ékköves aranyamulettet a nadrágkorcába dugva Yvarre kioson a szekta kincstárából, és csendben lefelé mozog a folyosón, remélve, hogy elkerüli a figyelmet, miközben eljut oda, ahol barátja, Kallistor vár rá egy pár lóval.
+Ahogy végighalad a folyosón, hátulról tőrt dobnak Yvarre felé. A játékmester dob egy sikert, és közli, hogy a tőr Yvarre bal vállát találta el magasan (az opcionális találati helyrendszert nem használják; a játékmester csak a leírását színesíti ezzel). A játékmester dob 1D4+2+1D2-t, ami a tőr sebzése plusz a dobó sebzésmódosítójának a fele. Yvarre szerencséjére a játékmester 4-est dob a sebzésre, ami a lehető legalacsonyabb eredmény.
 
-Ahogy lefelé mozog a folyosón, egy tőrt hajítanak Yvarre-re hátulról. A játékmester sikert dob, és azt mondja, hogy Yvarre a bal vállán magas találatot kapott (az opcionális találati hely rendszer nincs használatban, ez csak a játékmester részletezése a leírásában). A játékmester dob 1D4+2+1D2-t, a sebzést, amelyet a tőr okoz, plusz a dobó sebzésmódosítójának felét. Yvarre szerencséjére a játékmester 4-est dob a sebzésen, a lehető legalacsonyabb eredményt.
+Yvarre puha bőrtunikát visel (páncélérték 1), és 17 életerőpontja van. A páncélja 1 pont sebzéstől védi meg, így Yvarre 3 életerőpontot veszít, nem 4-et. Most 14 életerőpontja maradt, ezért a játékosa gondosan áthúzza a 17-es, 16-os és 15-ös számokat, és bekarikázza a 14-est Yvarre karakterlapján.
 
-Yvarre egy puha bőrtunikát visel (páncélérték 1), és 17 életerőpontja van. Páncélja 1 pont sebzéstől védi meg, így Yvarre 3 életerőpontot veszít, nem 4-et. Most 14 életerőpontja van, így a játékosa óvatosan kihúzza a 17, 16 és 15 számokat, és bekarikázza a 14-et Yvarre karakterlapján.
-
-Visszanéz, és lát egy kígyópapot, aki egy újabb tőrt húz elő az ujjából, miközben közeledik.
+Hátrapillant, és látja, amint egy kígyópap egy újabb tőrt húz elő az ujjából, miközben közeledik hozzá.
 
 #### Második harci kör
 
-A balszerencséjére átkozódva Yvarre belép a kamrába, és bezárja az ajtót mögötte, majd hátra nyúl, hogy megvizsgálja a sebét. Szerencsére a támadás nem átszúró volt, így a penge nem fúródott mélyen a vállába. Ezután megkísérli kezelni a sebet Elsősegéllyel. Yvarre Elsősegély képzettsége 47%: a játékosa 99-et dob—egy fumble!
+Yvarre a balszerencséjét átkozva belép a kamrába, és reteszeli az ajtót maga mögött, majd hátranyúl, hogy megvizsgálja a sebét. Szerencsére a támadás nem átszúró jellegű volt, így a penge nem fúródott mélyen a vállába. Ezután megpróbálja elsősegéllyel ellátni a sebet. Yvarre Elsősegély képzettsége 47%: a játékosa 99-et dob – egy bénázás!
 
-A fumble táblázaton nem szükséges dobni: az Elsősegély fumble-jének büntetése mindig 1 életerőpont sebzés elvesztése. A játékmester azt mondja, hogy Yvarre egy extra pont sebzést okozott magának a seb tépkedésével, a kínos helyszín miatt. A seb most szélesebb, és a belőle folyó vér átitatja a puha bőrtunikája hátulját (ismét, ez nem egy speciális sebzés eredménye: ez csak a játékosok számára készült részlet, hogy segítsen vizualizálni a jelenetet).
+A bénázástáblán nem szükséges dobni: az elsősegély közbeni bénázás büntetése mindig 1 életerőpont elvesztése. A játékmester azt mondja, hogy Yvarre a seb húzogatásával még egy extra pont sebzést okozott magának az ügyetlen elhelyezkedés miatt. A seb mostanra szélesebb, és a belőle folyó vér átáztatja a puha bőrtunikájának hátulját (ez ismét csak nem egy speciális sebzéseredmény következménye, csupán a játékosok számára szánt színesítés, hogy segítsen nekik vizualizálni a jelenetet).
 
-Yvarre játékosa sóhajt, és kihúz még egy életerőpontot. Yvarre-nek most 13 életerőpontja van.
+Yvarre játékosa sóhajt egyet, és áthúz még egy életerőpontot. Yvarre-nak most 13 életerőpontja van.
 
 #### Harmadik harci kör
 
-Tompa dörömbölés hallatszik a bezárt ajtótól. Yvarre megfordul, és az ablakhoz megy, amelyen keresztül belépett. Megfogja a kötelet, amelyet ott akasztott fel, készülve a leereszkedésre. A játékmester felemeli a kezét, hogy megállítsa a játékos leírását, és közbeszól: „Yvarre észreveszi, hogy a kötél nagyon könnyűnek tűnik. Meg akarja nézni, miért?”
+Tompa puffanások hallatszanak a reteszelt ajtó felől. Yvarre sarkon fordul, és az ablakhoz megy, amelyen keresztül bejött. Megfogja a kötelet, amit ott hagyott, és készül lemászni. A játékmester felemeli a kezét, hogy megállítsa a játékos leírását, és közbeszól: „Yvarre észreveszi, hogy a kötél nagyon könnyűnek tűnik. Meg akarja nézni, miért?”
 
-Megteszi, mondja a játékos, és Yvarre felhúzza a vonalat. Yvarre menekülőkötele egy méterrel az ablakpárkány alatt ér véget. Elvágták, valószínűleg valaki, aki kihajolt az alatta lévő ablakon.
+Meg akarja, mondja a játékos, és Yvarre felhúzza a kötelet. Yvarre menekülőkötele egy méterrel az ablakpárkány alatt ér véget. Valaki elvágta, valószínűleg az alattuk lévő ablakból kihajolva.
 
-Yvarre csapdában van, hacsak nem dönt úgy, hogy az utcára ugrik. A játékmester azt mondja: „Dobj egy Észlelés dobást, hogy kiderüljön, észrevesz-e valamit Yvarre.” Ebben az esetben az a „valami”, amire a játékmester utal, egy szekta bérgyilkos az Yvarre-lel szemközti háztetőn, aki íját készíti elő egy támadáshoz.
+Yvarre csapdába esett, hacsak nem dönt úgy, hogy leugrik az utcára. A játékmester azt mondja: „Dobj egy Észlelést, hogy kiderüljön, észrevesz-e Yvarre valamit.” Ebben az esetben az a „valami”, amire a játékmester utal, egy szekta-bérgyilkos az Yvarre-ral szemközti háztetőn, aki épp készíti elő az íját a támadáshoz.
 
-A játékos dob D100-zal Yvarre Észlelés képzettségére, és kudarcot vall. Mivel Yvarre nem veszi észre a szekta bérgyilkosát, a játékmester 43-at dob, ami találat, majd dob a sebzésre, 1D8+1, de nincs sebzésmódosító. A játékmester 9 sebzést dob, amelyet Yvarre páncélja miatt 1-gyel csökkentenek. „Elég ez egy jelentős sebhez?” érdeklődik a játékmester. A játékos komoran bólint. Kihúz még 8 életerőpontot a karakterlapjáról, 5-re csökkentve a megmaradt életerőpontjait.
+A játékos dob D100-zal Yvarre Észlelés képzettségére, és elvéti. Mivel Yvarre nem veszi észre a szekta-bérgyilkost, a játékmester 43-at dob, ami találat, majd dob a sebzésre: 1D8+1, de nincs sebzésmódosító. A játékmester 9-et dob a sebzésre, ami Yvarre páncélja miatt 1-gyel csökken. „Elég ez egy súlyos sebzéshez?” – kérdezi a játékmester. A játékos komoran bólint. Még 8 életerőpontot lehúz a karakterlapjáról, ezzel 5-re csökkentve a megmaradt életerőpontjait.
 
-Yvarre játékosa dob a jelentős seb táblázaton, 27-es eredményt kap, és a játékmester azt mondja, hogy a nyíl Yvarre bal karját találta el. Yvarre Szerencse dobása sikeres, így a seb nem válik maradandó sérüléssé. Yvarre érzi, hogy gyengül, mondja a játékmester. Négy harci körön belül elveszíti az eszméletét, minden egyes életerőpontért egy kör, amellyel jelenleg rendelkezik.
+Yvarre játékosa dob a súlyos sebzések táblázatán, 27-es eredményt kap, a játékmester pedig azt mondja, hogy a nyíl Yvarre bal karját találta el. Yvarre Szerencse-dobása sikeres, így a seb nem válik maradandó sérüléssé. Yvarre érzi, hogy gyengül – mondja a játékmester. Négy harci körön belül eszméletét veszti, körönként egyet a jelenleg meglévő életerőpontjai közül.
 
-A szoba másik végében az ajtó a folyosóra repedezni kezd. Yvarre használhatná a következő kört, hogy megpróbálja Elsősegéllyel kezelni ezt az új sebet, de nem engedheti meg magának az időt.
+A szoba túlsó végén a folyosóra nyíló ajtó repedezni kezd. Yvarre felhasználhatná a következő kört arra, hogy megpróbálja elsősegélyben részesíteni ezt az új sebet, de nincs ideje rá.
 
 #### Negyedik harci kör
 
-Ha Yvarre a szobában marad, hamarosan a kígyóimádó szekta kegyelmére lesz, amire nem érdemes várni. 6 méter van a földig, és Yvarre játékosa rájön, hogy az állapotában az esés megölheti. Azonban a játékos azt is tudja, hogy Yvarre soha nem habozna. „Ugróttam,” mondja. Az íjász újabb lövést ad le. A távolsági tüzet nem lehet kikerülni, így Yvarre a legjobb reményben bízik. Szerencséje van—a nyíl elvéti.
+Ha Yvarre a szobában marad, hamarosan a kígyóimádó szekta kénye-kedvére lesz bízva, ami nem kecsegtet semmi jóval. 6 méter az esés a földig, és Yvarre játékosa rájön, hogy az állapotában az esés akár meg is ölheti. Ugyanakkor a játékos azt is tudja, hogy Yvarre sosem hezitálna. „Ugrani akarok” – mondja. Az íjász lead még egy lövést. A lövedékeket nem lehet kikerülni, így Yvarre a legjobban reménykedik. Szerencséje van – a nyíl elvéti.
 
-„Kérlek, dobd az Ugrás dobásodat.” Az eredmény 21, egy siker. „Rendben,” mondja a játékmester, „most dobj 1D6-ot a sebzéscsökkentésért.” 3-at kap, amit le kell vonni az esésből származó esetleges sebzésből. „És most dobj 2D6-ot az esési sebzésre.” Kockái összege 5. Yvarre-nek 4 életerőpontja volt. 5-öt veszít, de az ugrás előkészítése 3-at ment meg. Yvarre-nek 2 életerőpontja maradt.
+„Kérlek, dobd a Ugrás próbádat.” Az eredmény 21, egy siker. „Rendben” – mondja a játékmester –, „most dobj 1D6-ot a sebzéscsökkentésre.” 3-ast kap, ezt le kell vonni az esésből származó esetleges sebzésből. „És most dobj 2D6-ot az esési sebzésre.” A dobókockáinak összege 5. Yvarre-nak 4 életerőpontja volt. 5-öt veszít, de az ugrásra való felkészülés 3-at megment. Yvarre-nak most 2 életerőpontja maradt.
 
-2 életerőpontnál Yvarre automatikusan elveszíti az eszméletét. Ez nem több, mint a teljes életerőpontjának fele, így nincs új jelentős seb.
+2 életerőpontnál Yvarre automatikusan eszméletét veszti. Ez nem több, mint az életerőpontjainak a fele, tehát nincs új súlyos sebzés.
 
 #### Ötödik harci kör
 
-Az éjszakai fekete sikátorban Yvarre barátja, Kallistor hallja, ahogy a földnek csapódik, és mozdulatlanul találja a macskaköveken. A közeledő kiáltásokat hallgatva Kallistor játékosa úgy dönt, hogy Yvarre-t az egyik ló nyergére dobja, és felpattan a másikra, azonnal elmenekülve.
+Az éjsötét sikátorban Yvarre barátja, Kallistor meghallja a földre zuhanását, és mozdulatlanul találja a macskaköveken. A közeledő kiáltásokat hallva Kallistor játékosa úgy dönt, hogy Yvarre-t az egyik ló nyergébe veti, felül a másikra, és azonnal elmenekül.
 
 #### Hatodik harci kör
 
-Néhány utcával távolabb Kallistor elég biztonságban érzi magát ahhoz, hogy egy körre megálljon. Kallistor a Gyógyítás 1 varázslatot használja Yvarre késes sebére. Kallistor varázslata 3 életerőpontot állít helyre Yvarre-nek (3-as dobás 1D6-on), és a játékmester úgy dönt, hogy Yvarre most eszméleténél van, és képes lovagolni, de nagyon gyenge. Kallistor játékosa levon 3 erőpontot a varázslat használatáért (amely 3 erőpontba kerül felhasznált szintenként). Kallistor 14 erőponttal rendelkezik, így 11-re csökken.
+Néhány utcával arrébb Kallistor elég biztonságban érzi magát ahhoz, hogy egy körre megálljon. Használja a Gyógyítás 1 varázslatot Yvarre késszúrásán. Kallistor varázslata 3 életerőpontot állít helyre Yvarre-nak (3-as dobás 1D6-on), a játékmester pedig úgy dönt, hogy Yvarre most már eszméleténél van és képes lovagolni, de nagyon gyenge. Kallistor játékosa levon 3 HAT pontot a varázslat használatáért (ami szintenként 3 HAT pontba kerül). Kallistor 14 HAT ponttal rendelkezett, így ez 11-re csökkenti az értékét.
 
 #### Néhány harci körrel később
 
-Néhány kitérő lovaglás után a városban, hogy megakadályozza az üldözőket, a játékmester azt mondja, hogy nem látszik üldözés. A két kalandor eléri a búvóhelyét. Belül, pillanatnyilag biztonságban, Kallistor Elsősegélyt használ, hogy megpróbálja meggyógyítani a nyílvessző sebét, 7-re emelve az életerőpontjait.
+Néhány, a városon át vezető, üldözőket lerázó manőver után a játékmester közli, hogy semmi nyoma az üldözésnek. A két kalandor eléri a búvóhelyét. Bent, biztonságban egy pillanatra, Kallistor az Elsősegélyt használja, hogy megpróbálja begyógyítani a nyílvessző okozta sebet, 7-re emelve az életerőpontjait.
 
 #### Következő harci kör
 
-Yvarre esési sérülést is szenvedett. Kallistor ellátta a kés- és nyílsebét, de Yvarre Elsősegély dobása az esésből származó általános zúzódásokon működik. Az esési sebzés 2 pontja törlődik. A sérülés még mindig jelen van, de már nincs gyakorlati következménye. Most Yvarre 9 életerőpontnál van.
+Yvarre az esésből is szerzett sérüléseket. Kallistor ellátta a kés- és nyílsérüléseit, de Yvarre Elsősegély-dobása az esésből származó általános zúzódásokra vonatkozik. Az esésből származó 2 pont sebzés törlődik. A sérülés még jelen van, de gyakorlati következménye már nincs. Most Yvarre 9 életerőpontnál tart.
 
-#### Következő harci kör az után
+#### Az azt követő harci kör
 
-Kallistor Elsősegélyt próbál, de nem sikerül meggyógyítania Yvarre elhibázott Elsősegély kísérletéből származó sebzés pontját.
+Kallistor megpróbálja az Elsősegélyt, de nem sikerül meggyógyítania Yvarre elhibázott Elsősegély-kísérletéből származó 1 pont sebzést.
 
 #### Még egy harci kör
 
-Kallistor Gyógyítás 2 varázslatot használ Yvarre nyílsebére, 4 pontot helyreállítva a lehetséges 12-ből. Yvarre most 13 életerőpontnál van, és Kallistor 6-tal több erőpontot használt el, így összesen 5 erőpontja maradt. Egyikük sincs szörnyű állapotban, de Yvarre nincs teljes életerőpontnál, és Kallistor elhasználta sok erőpontját.
+Kallistor a Gyógyítás 2 varázslatot használja Yvarre nyílsérülésére, 4 pontot állítva helyre a lehetséges 12-ből. Yvarre most 13 életerőpontnál tart, Kallistor pedig további 6 HAT pontot használt el, így összesen 5 HAT pontja maradt. Egyikük sincs szörnyű állapotban, de Yvarre nincs teljes életerőn, Kallistor pedig elhasználta sok HAT pontját.
 
-A késsérülés egy hét alatt természetesen meggyógyul, és a nyílsebzésből származó maradék sebzés legalább két hétig tart. Kallistor erőpontokat akar tartalékolni vészhelyzet esetére. A Gyógyítás varázslatot később fogja használni, amikor több erőpontja lesz, vagy amikor tiszta az út.
+A késszúrás magától begyógyul egy héten belül, a nyílsérülésből maradt sebzés pedig legalább két hetet vesz igénybe. Kallistor szeretne tartalékolni néhány HAT pontot vészhelyzet esetére. Később fogja használni a Gyógyítás varázslatot, amikor több HAT pontja lesz, vagy ha már teljesen tiszta a levegő.
 
 #### Harc után
 
-Ezen a ponton kevés ok van a harci idő használatára, így mindenki narratív időre vált, amelyben a játékos viselkedése és a játékmester narrációja lazábbá válik.
+Ezen a ponton kevés ok van a harci idő használatára, így mindenki átvált narratív időre, amelyben a játékosok viselkedése és a játékmester narrációja lazábbá válik.
 
-Sebjei és sérülései pillanatnyilag ellátva, Yvarre a nadrágkorcába nyúl, hogy kihúzza az amulettet. Úgy tűnik, megcsavarodik a kezében, miközben ezt teszi, így elengedi. Ahogy a földhöz ér, az amulett tucatnyi apró, ékköves szemű aranykígyóra törik, amelyek a földre esnek és elkúsznak.
+Sebjei és sérülései egyelőre ellátva, Yvarre a nadrágkorcába nyúl, hogy előhúzza az amulettet. Úgy tűnik, az megcsavarodik a kezében, miközben ezt teszi, ezért elengedi. Ahogy a földre ér, az amulett tucatnyi apró, ékkőszemű aranykígyóra esik szét, amelyek a földre hullanak és elkúsznak.
 
-Mindez, és semmiért!
+Mindezt, és mégis hiába!

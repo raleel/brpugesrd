@@ -1,715 +1,733 @@
-# 6\. Taistelu
+# 6. Taistelu
 
-Taistelu on merkittävä osa monia seikkailuja. Taistelussa on tärkeää tietää tarkalleen, mitä tapahtuu ja milloin, kuka voi toimia milläkin hetkellä ja mitä toimintoja annetussa ajassa on mahdollista suorittaa. Tämä osio käsittelee laajaa kirjoa toimintoja, joita taistelukierroksen aikana tapahtuu.
+Taistelu on merkittävä osa monia seikkailuja. Taistelussa on tärkeää tietää tarkalleen, mitä tapahtuu ja milloin, kuka voi toimia minäkin hetkenä ja mitä toimintoja annetussa ajassa voi suorittaa. Tässä osiossa käsitellään taistelukierroksen aikana tapahtuvia moninaisia toimintoja.
 
-Kuten kohdassa **Aika-asteikot** kuvataan, taistelukierros mittaa aikaa taistelu- tai toimintatilanteessa. Taistelukierros on 12 sekuntia pitkä, ja sen aikana hahmosi voi suorittaa toimintoja ja reagoida muihin toimintoihin järjestyksessä, jonka määrittää yleensä DEX-ominaisuus; hahmot, joilla on korkeampi DEX, toimivat ennen hahmoja, joilla on matalampi DEX. Kuten taitojen kohdalla, taistelun toiminnot määräytyvät D100-heitolla, jolla ratkaistaan hyökkäysten, puolustusten ja muiden toimintojen onnistuminen tai epäonnistuminen.
+Kuten kohdassa **Aikaskaalat** on kuvattu, taistelukierros mittaa aikaa taistelu- tai toimintatilanteessa. Taistelukierros on 12 sekuntia pitkä, ja sen aikana hahmosi voi suorittaa toimintoja ja reagoida muihin toimintoihin järjestyksessä, jonka määrittää yleensä hahmon KET-ominaisuus; korkeamman KET:n hahmot toimivat ennen hahmoja, joilla on matalampi KET. Kuten taitojen kohdalla, taistelun toiminnot määräytyvät heittämällä D100 hyökkäysten, puolustusten ja muiden toimintojen onnistumisen tai epäonnistumisen ratkaisemiseksi.
 
 ## Taistelukierroksen vaiheet
 
-Taistelukierros koostuu neljästä vaiheesta: **Ilmoitukset**, **Voimat**, **Toiminto** ja **Ratkaisu**. Nämä tapahtuvat aina samassa järjestyksessä ja niitä toistetaan jokaisen uuden taistelukierroksen kohdalla, kunnes taistelu on ohi. Jokainen vaihe kuvataan alla.
+Taistelukierros koostuu neljästä vaiheesta: **Ilmoitukset**, **Voimat**, **Toiminta** ja **Ratkaisu**. Nämä tapahtuvat aina samassa järjestyksessä ja ne toistetaan jokaisella uudella taistelukierroksella, kunnes taistelu on ohi. Jokainen vaihe on kuvattu alla.
 
 ### Ilmoitukset
 
-Ensin pelinjohtaja ja ne pelaajat, joiden hahmot ovat mukana taistelukierroksella, ilmoittavat aikovansa toimia. Tätä kutsutaan **aikeiden ilmoittamiseksi**. Toimintoja voidaan yrittää DEX-järjestyksessä, korkein ensin. Puolustavia toimintoja — väistöjä tai torjuntoja — ei tarvitse ilmoittaa, ellet valitse täysin puolustavaa asentoa.
+Ensinnäkin pelinjohtaja ja pelaajat, joiden hahmot ovat mukana taistelukierroksella, ilmoittavat mitä he aikovat tehdä. Tämä on **aieilmoitus**. Toimintoja voidaan yrittää KET-järjestyksessä, korkein ensin. Puolustavia toimintoja — torjuntoja tai väistöjä — ei tarvitse ilmoittaa, ellet valitse täysin puolustavaa asentoa.
 
-Aikeiden on oltava järkeviä ja perustua siihen, mitä hahmosi tietää.
+Aieilmoitusten on oltava järkeviä ja perustuttava siihen, mitä hahmosi tietää.
 
-*Et voi esimerkiksi julistaa hyökkääväsi vastustajaa vastaan, jota hahmosi ei tunne, riippumatta siitä, mitä sinä pelaajana tiedät.*
+*Esimerkiksi et voi ilmoittaa hyökkääväsi vastustajaa vastaan, josta hahmosi ei tiedä, riippumatta siitä, mitä sinä pelaajana tiedät.*
 
-Aikeet käsitellään kaikkien osallistujien **DEX-arvon** mukaisessa järjestyksessä. Ne, joilla on korkea DEX-arvo, tekevät ilmoituksensa ennen niitä, joilla on matala DEX-arvo. Yleensä pelinjohtaja laskee alaspäin korkeimmasta DEX-arvosta alimpaan ja pyytää kutakin pelaajaa ilmoittamaan aikeensa oikeaan aikaan.
+Aieilmoitukset käsitellään kaikkien osallistujien **KET-arvon** mukaisessa järjestyksessä. Ne, joilla on korkea KET-arvo, tekevät aieilmoituksensa ennen niitä, joilla on matala KET-arvo. Yleensä pelinjohtaja laskee alaspäin korkeimmasta KET-arvosta alimpaan ja kutsuu jokaisen pelaajan ilmoittamaan aiotut toimintonsa oikeaan aikaan.
 
-Pelinjohtajan ei tarvitse ilmoittaa, miten ei-pelaajahahmot (NPC) toimivat kierroksen aikana, mutta sitä pidetään reiluna, jos toiminnot ovat fyysisiä tai saattavat muuten vaikuttaa pelaajahahmojen käyttäytymiseen taistelukierroksen aikana.
+Pelinjohtajan ei tarvitse ilmoittaa, miten ei-pelaajahahmot toimivat kierroksen aikana, mutta on kohtuullista tehdä niin, jos toiminnot ovat luonteeltaan fyysisiä tai saattavat muuten vaikuttaa pelaajahahmojen käyttäytymiseen taistelukierroksen aikana.
 
-***Esimerkiksi,*** *jos joukko ei-pelaajahahmoja näyttää ilmeisesti vetäytyvän rauhanomaisesti, pelaajan tulisi tietää tämä ennen kuin hänen hahmonsa hyökkää.*
+***Esimerkiksi***, *jos ryhmä ei-pelaajahahmoja näyttää selvästi vetäytyvän rauhanomaisesti, pelaajan tulisi tietää tämä ennen kuin hänen hahmonsa hyökkää.*
 
-Muussa tapauksessa, jos pelaajilla ei ole mitään keinoa tietää, mitä ei-pelaajahahmot aikovat tehdä, niiden toiminnot pysyvät tuntemattomina, kunnes ne toimivat.
+Muussa tapauksessa, jos pelaajilla ei ole mahdollisuutta tietää, mitä ei-pelaajahahmot tekevät, heidän toimintonsa pysyvät tuntemattomina, kunnes he toimivat.
 
-Kuka tahansa voi valita siirtävänsä toimintonsa myöhemmäksi, jolloin viimeinen toiminto tapahtuu DEX-arvolla 1. Jos viivytät toimintoasi tätä pidempään, hahmosi ei suorita kyseisellä taistelukierroksella mitään toimintoa (paitsi puolustautumista). Sama koskee ei-pelaajahahmoja.
+Kuka tahansa voi päättää viivästyttää toimintoaan myöhemmäksi, jolloin viimeinen toiminto tapahtuu KET-arvolla 1. Jos viivästyt tätä pidempään, hahmosi ei suorita kyseisellä taistelukierroksella mitään toimintoa (paitsi puolustautumista). Sama pätee ei-pelaajahahmoihin.
 
-Jos on tarpeen määrittää, kuka toimii ensin DEX-arvojen ollessa tasan, käytä asiaankuuluvaa taitoa ratkaisemaan järjestys. Hahmo, jolla on korkeampi taitotaso, toimii ensin. Jos nämäkin ovat tasan, toiminnot tapahtuvat samanaikaisesti.
+Jos on tarpeen määrittää, kuka toimii ensin KET-arvojen ollessa tasan, käytä asiaankuuluvaa taitoa määrittämään toimintajärjestys. Hahmo, jolla on korkeampi taitotaso, toimii ensin. Jos nämäkin ovat tasan, toiminnot tapahtuvat samanaikaisesti.
 
-> #### Vaihtoehdot aikeiden ilmoittamiselle (Valinnaiset säännöt)
+> #### Vaihtoehtoja aieilmoituksille (valinnaiset säännöt)
 > 
-> Seuraavassa on kolme vaihtoehtoista tapaa käsitellä toimintojen järjestystä taistelukierroksella. Niitä voidaan käyttää halutulla tavalla, vaikka yhdistellen ryhmäsi mieltymysten mukaan.
+> Seuraavassa on kolme vaihtoehtoista tapaa käsitellä taistelukierroksen toimintajärjestystä. Niitä voidaan käyttää halutulla tavalla tai jopa yhdistellä ryhmän mieltymysten mukaisesti.
 > 
-> ##### Aikeiden ilmoittamisen poistaminen (Vaihtoehto)
+> ##### Aieilmoitusten poistaminen (valinnainen)
 > 
-> Aikeiden ilmoittamisesta voidaan luopua kokonaan nopeamman pelin vuoksi. Tässä tapauksessa hypätään suoraan voimien vaiheeseen ja sen jälkeen toimintavaiheeseen. Tässä suoraviivaisessa pelitavassa pelinjohtaja laskee DEX-arvoja toimintavaiheessa, ja kukin pelaaja ilmoittaa toimintonsa ja heittää heti noppaa lopputuloksen määrittämiseksi.
+> Aieilmoitukset voidaan jättää kokonaan pois pelin nopeuttamiseksi. Tässä tapauksessa siirrytään suoraan voimavaiheeseen ja siitä toimintavaiheeseen. Tässä suoraviivaisessa pelitavassa pelinjohtaja laskee KET-arvoja toimintavaiheen aikana, ja jokainen pelaaja tekee toimintoilmoituksen ja heittää välittömästi nopat tuloksen määrittämiseksi.
 > 
-> ##### Käänteinen aikeiden ilmoittaminen (Vaihtoehto)
+> ##### Käänteinen aieilmoitusjärjestys (valinnainen)
 > 
-> Aikeiden ilmoittamisen kääntäminen mahdollistaa taktisemman pelityylin, jossa korkeamman DEX-arvon hahmoilla on parempi kyky reagoida muiden hahmojen, niin vastustajien kuin liittolaistenkin, toimiin. Pelinjohtaja aloittaa DEX-arvosta 1 ja laskee ylöspäin antaen kaikkien ilmoittaa toimintonsa normaalisti. Tämä antaa korkean DEX-arvon hahmoille kyvyn toimia tietäen, mitä taistelukierroksen aikana tulee tapahtumaan, mahdollistaen taktiset päätökset sen mukaisesti. Kun aikeiden ilmoitusvaihe on ohi, pelinjohtaja laskee kierroksen normaalisti alaspäin. Tämä menetelmä mahdollistaa feint-liikkeiden ja muiden hämäysten integroimisen taisteluun, mikä luo rikkaamman ja taktisemman ympäristön kaikille tätä pelityyliä arvostaville pelaajille tai pelinjohtajille.
+> Aieilmoitusjärjestyksen kääntäminen mahdollistaa taktisemman pelityylin, antaen korkeamman KET-arvon omaaville hahmoille mahdollisuuden reagoida paremmin muiden hahmojen, niin vastustajien kuin liittolaistenkin, toimiin. Pelinjohtaja aloittaa KET-arvosta 1 ja laskee ylöspäin antaen kaikkien osapuolten ilmoittaa toimintonsa normaalisti. Tämä antaa korkean KET:n hahmoille mahdollisuuden toimia tietoisena siitä, mitä taistelukierroksen aikana tapahtuu, mikä mahdollistaa taktisten päätösten tekemisen sen mukaisesti. Kun aieilmoitusvaihe on ohi, pelinjohtaja laskee kierroksen normaalisti alaspäin. Tämä menetelmä luo mahdollisuuden sisällyttää valepistoja ja muita mahdollisia harhautusliikkeitä taisteluun, mikä mahdollistaa rikkaamman ja taktisemman ympäristön jokaiselle pelaajalle tai pelinjohtajalle, joka nauttii tästä pelityylistä.
 > 
-> ##### Aloiteheitot (Vaihtoehto)
+> ##### Aloiteheitot (valinnainen)
 > 
-> Taistelukierroksen alussa kaikki pelaaja- ja ei-pelaajahahmot heittävät D10-nopan ja lisäävät tuloksen DEX-arvoonsa, mikä luo uuden ja vaihtelevan DEX-arvon. Toiminnot tapahtuvat edelleen DEX-arvon mukaisessa järjestyksessä. Voimia varten käytä D10 + INT ja käytä tätä arvoa DEX-arvojen rinnalla. Tätä aloitearvoa (DEX+D10) voidaan ylläpitää koko taistelun ajan.
+> Taistelukierroksen alussa kaikki pelaaja- ja ei-pelaajahahmot heittävät D10-nopan ja lisäävät sen KET-arvoonsa, luoden uuden ja vaihtelevan KET-arvon. Toiminnot tapahtuvat edelleen KET-arvon mukaisessa järjestyksessä. Voimien kohdalla käytä D10-noppaa plus ÄLY ja käytä tätä arvoa KET-arvojen rinnalla. Tätä aloitearvoa (KET+D10) voidaan ylläpitää koko taistelun ajan.
 > 
-> Pelinjohtaja heittää nopat jokaiselle ei-pelaajahahmolle; mukavuuden vuoksi hän voi heittää 1D10 edustamaan koko ei-pelaajahahmojen ryhmää tai jakaa suuret joukot pienempiin ryhmiin, joilla on omat aloiteheitot. Johtajalla tai muulla poikkeuksellisella ei-pelaajahahmolla voi olla omat heittonsa, jotta he erottuvat joukosta.
+> Pelinjohtaja heittää nopat jokaiselle ei-pelaajahahmolle ja voi mukavuussyistä heittää 1D10 edustamaan ei-pelaajahahmojen ryhmää, jos halutaan, tai jopa jakaa suuret ei-pelaajahahmojen ryhmät pienempiin ryhmiin, joilla on eri aloiteheitot. Johtajalla tai muulla poikkeuksellisella ei-pelaajahahmolla voi olla omat heittonsa erottuakseen joukosta.
 > 
-> Huomaa, että hahmot pystyvät todennäköisemmin suorittamaan toisia tai kolmansia toimintoja kierroksella tätä menetelmää käyttäen, mikä tekee taistelukierroksista hieman pidempiä.
+> Huomautuksena: hahmot pystyvät todennäköisemmin suorittamaan toisia tai kolmansia toimintoja kierroksen aikana tätä menetelmää käyttäen, mikä tekee taistelukierroksista jonkin verran pidempiä.
 
 ### Voimat
 
-Voimat toimivat monilla tavoilla, mutta taistelussa niitä käsitellään samalla tavoin. Jos hahmosi käyttää välitöntä voimaa, se aktivoituu tämän vaiheen aikana osallistuvien hahmojen INT-arvon mukaisessa järjestyksessä, korkeimmasta alimpaan. Tätä kutsutaan **INT-arvoksi**. Voimat, jotka eivät ole välittömiä, aktivoituvat seuraavan taistelukierroksen alussa kyseisessä voimien vaiheessa, ellei toisin mainita.
+Voimat toimivat monin tavoin, mutta taistelussa niitä käsitellään samalla tavalla. Jos hahmosi käyttää välitöntä voimaa, voima aktivoituu tämän vaiheen aikana osallistuvien hahmojen ÄLY-arvon mukaisessa järjestyksessä, korkeimmasta alimpaan. Tätä kutsutaan **ÄLY-arvoksi**. Voimat, jotka eivät ole välittömiä, aktivoituvat seuraavan taistelukierroksen voimavaiheen alussa, ellei toisin mainita.
 
-Kuka tahansa voi viivyttää voiman käyttöään myöhemmälle INT-arvolle. Viimeinen INT-arvo on 1, ja kuten DEX-arvon kohdalla, jos toiminto viivästyy tämän arvon yli, se ei tapahdu kyseisellä taistelukierroksella. Jos INT-arvot ovat tasan, käytä asiaankuuluvaa taitoa (jos sellainen on) ratkaisemaan järjestys, jolloin korkeampi taitotaso toimii ensin. Jos asiaankuuluvaa taitoa ei ole, korkeampi POW toimii ensin. Jos nekin ovat tasan, voimat tapahtuvat samanaikaisesti.
+Kuka tahansa voi viivästyttää voimankäyttöään myöhemmälle ÄLY-arvolle. Viimeinen ÄLY-arvo on 1, ja kuten KET-arvon kohdalla, jos toiminto viivästyy tämän arvon yli, se ei toteudu kyseisellä taistelukierroksella. Jos ÄLY-arvot ovat tasan, käytä ratkaisemiseen asiaankuuluvaa taitoa (jos sellainen on), jolloin korkeampi taitotaso toimii ensin. Jos asiaankuuluvaa taitoa ei ole, korkeampi MAH toimii ensin. Jos ne ovat yhä tasan, voimat tapahtuvat samanaikaisesti.
 
-Hahmosi voi aktivoida yhden voiman per taistelukierros. Voiman käyttäminen taistelukierroksen voimavaiheessa lasketaan hahmosi kierroksen toiminnoksi. Hahmo ei voi hyökätä aseella DEX-vuorollaan, mutta voi liikkua halutessaan tai väistää/torjua tarvittaessa. Useimmat voimat vaativat tasan yhden täyden taistelukierroksen valmisteluun ja käyttöön, jolloin niiden vaikutukset ilmenevät seuraavan taistelukierroksen voimavaiheen alussa. Poikkeukset tästä esitetään voimien kuvauksissa.
+Hahmosi voi aktivoida yhden voiman taistelukierrosta kohden. Voiman käyttö taistelukierroksen voimavaiheessa lasketaan hahmosi toiminnaksi kyseisellä kierroksella. Hän ei voi hyökätä aseella KET-arvonsa aikana, mutta voi liikkua halutessaan sekä väistää tai torjua tarvittaessa. Useimmat voimat vaativat tasan yhden täyden taistelukierroksen valmisteluun ja käyttöön, jolloin niiden vaikutukset tapahtuvat seuraavan taistelukierroksen alussa voimavaiheen aikana. Poikkeukset näihin on esitetty voimien kuvauksissa.
 
-Voimien käyttämiseen kuluvat voimapisteet kulutetaan sillä INT-arvolla, jolla ne käytetään.
+Voimien käyttöön kuluvat voimapisteet käytetään sillä ÄLY-arvolla, jolla ne aktivoidaan.
 
-### Toiminto
+### Toiminta
 
-Hahmo on taistelussa joko **sidottu** tai **vapaa**. Sidottu hahmo on vastustajiensa iskuetäisyydellä ja valmiina hyökkäämään tai puolustautumaan mahdollisuuksien mukaan. Yleensä kuka tahansa taisteluun sidottu voi toimia ketä tahansa muuta kyseisessä taistelussa olevaa vastaan ilman rangaistusta tai vaatimusta merkittävästä liikkumisesta. Vapaa hahmo toimii edelleen taistelussa, mutta suorittaa muita toimintoja ja on lähitaistelualueen ulkopuolella (tai on sen sisällä, mutta ei aktiivisesti mukana).
+Taisteleva hahmo on joko **sidottu** tai **vapaa**. Sidottu hahmo on vastustajiensa lyömäetäisyydellä ja valmiina hyökkäämään tai puolustautumaan mahdollisuuksien mukaan. Yleensä kuka tahansa taisteluun sidottu hahmo voi toimia ketä tahansa muuta kyseisessä taistelussa olevaa vastaan ilman rangaistusta tai tarvetta merkittävälle liikkumiselle. Vapaa hahmo toimii edelleen taistelussa, mutta suorittaa muita toimintoja ja on lähitaistelun ulkopuolella (tai on sen sisällä, mutta ei aktiivisesti mukana).
 
-Kuten aikeiden ilmoittamisessa, toiminnot tapahtuvat hahmosi DEX-arvoilla. Toiminnot voivat olla hyökkäyksiä, torjuntoja, väistöjä tai muita vapaiden hahmojen suorittamia toimia.
+Kuten aieilmoitusten kohdalla, toiminnot tapahtuvat hahmosi KET-arvojen aikana. Toiminnot voivat olla hyökkäyksiä, torjuntoja, väistöjä tai muita vapaiden hahmojen suorittamia toimintoja.
 
-Tietyn DEX-arvon sisällä hyökkäykset tapahtuvat yleensä asetyypin mukaisessa järjestyksessä. Etäasein (jouset, aseet jne.) varustautuneiden hyökkääjien katsotaan toimivan ennen lähitaisteluun osallistuvia. Tämän jälkeen toimivat pitkillä aseilla (keihäät, peitset jne.) varustetut hahmot, sitten keskipitkillä aseilla (miekat, kirveet jne.) ja lopuksi lyhyillä aseilla (tikarit jne.) varustetut tai aseettomat hahmot. Torjunnat ja hyökkäyksiin liittyvät väistöt tapahtuvat samalla DEX-arvolla kuin alkuperäinen hyökkäys.
+Tietyn KET-arvon sisällä hyökkäykset tapahtuvat yleensä asetyypin mukaisessa järjestyksessä. Etäasein (jouset, aseet jne.) varustautuneiden hyökkääjien katsotaan toimivan ennen lähitaistelussa olevia. Näiden jälkeen toimivat hahmot, joilla on pitkiä aseita (keihäät, peitset jne.), sitten ne, joilla on keskipitkiä aseita (miekat, kirveet jne.) ja lopulta ne, joilla on lyhyitä aseita (tikarit jne.) tai jotka ovat aseettomia. Torjunnat ja hyökkäyksiin liittyvät väistöt tapahtuvat samalla KET-arvolla kuin alkuperäinen hyökkäys.
 
-Jos hahmosi voi suorittaa useamman kuin yhden toiminnon kierroksella (jotkin aseet sallivat useita hyökkäyksiä, ja yli 100 % taistelutaidot sallivat myös useita hyökkäyksiä), jokaisen hyökkäyksen välillä on oltava 5 DEX-arvoa. Ensimmäinen toiminto tapahtuu täydellä DEX-arvolla, toinen DEX-arvolla –5, kolmas DEX-arvolla –10 jne. Hahmosi ei voi toimia DEX-arvolla 0, joten kaikki toiminnot, jotka tapahtuisivat alle DEX-arvon 1, menetetään.
+Jos hahmosi voi suorittaa enemmän kuin yhden toiminnon kierroksessa (jotkin aseet sallivat useita hyökkäyksiä, ja yli 100 % taistelutaitotasot sallivat myös useita hyökkäyksiä), jokaisen hyökkäyksen välillä tulisi olla 5 KET-arvon ero. Ensimmäinen toiminto on täydellä KET-arvolla; toinen KET-arvolla –5; kolmas KET-arvolla –10; jne. Hahmosi ei voi toimia KET-arvolla 0, joten kaikki toiminnot, jotka tapahtuisivat KET-arvon 1 alapuolella, menetetään.
 
-Seuraavassa on yhteenveto taistelukierroksen toimintojen tuloksista. Tämän luvun lopussa kuvataan tarkemmin eri onnistumistasojen (kriittiset ja erikoisonnistumiset) ja erilaisten hyökkäystyyppien tulokset.
+Seuraavassa on yhteenveto taistelukierroksen toimintojen tuloksista. Tämän luvun myöhemmässä osassa kuvataan yksityiskohtaisemmin eri onnistumistasojen (kriittiset ja erityiset onnistumiset) ja erityyppisten hyökkäysten tulokset.
 
 ### Taistelutoiminnot
 
-Taistelukierroksen aikana hahmosi voi suorittaa minkä tahansa seuraavista toiminnoista DEX-arvollaan:
+Taistelukierroksen aikana hahmosi voi suorittaa minkä tahansa seuraavista toiminnoista KET-arvonsa aikana:
 
-* Liikkuminen
-* Hyökkäys
-* Ei-taistelutoiminto
-* Sitoutuminen (Engage)
-* Irtautuminen (Disengage)
+* Liikkuminen  
+* Hyökkäys  
+* Ei-taisteluun liittyvä toiminto  
+* Sitoutuminen  
+* Irtautuminen
 
 Milloin tahansa taistelukierroksen aikana hahmosi voi:
 
-* Torjua tai väistää
-* Taistella puolustavasti
+* Torjua tai väistää  
+* Taistella puolustavasti  
 * Puhua
 
 #### Liikkuminen
 
-Jos hahmosi on vapaa, hän voi liikkua noin 30 metriä taistelukierroksen aikana, jos hän ei suorita muita toimintoja kuin puolustautumisen (torjunta tai väistö). Liikkuminen 6–15 metriä tarkoittaa, että hahmosi toimii 1/2 normaalista DEX-arvostaan. Liikkuminen 16–29 metriä taistelukierroksen aikana tarkoittaa, että hahmosi toimii 1/4 normaalista DEX-arvostaan. Nämä muokatut DEX-arvot ovat kumulatiivisia muiden toimintojen rangaistusten kanssa, ja liikkumisesta johtuvat DEX-arvon muutokset sovelletaan ensin.
+Jos hahmosi on vapaa, hän voi liikkua noin 30 metriä taistelukierroksen aikana, jos hän ei suorita muita toimintoja kuin puolustautumisen (torjunta tai väistö). 6–15 metrin liikkuminen tarkoittaa, että hahmosi toimii 1/2 normaalista KET-arvostaan. 16–29 metrin liikkuminen taistelukierroksen aikana tarkoittaa, että hahmosi toimii 1/4 normaalista KET-arvostaan. Nämä muokatut KET-arvot kumuloituvat muiden toimintojen rangaistusten kanssa, jolloin liikkumisen aiheuttamat KET-muokkaukset sovelletaan ensin.
 
 #### Hyökkäys
 
-Hahmosi voi tehdä hyökkäyksen kohdetta vastaan DEX-arvollaan, sen lisäksi että hän voi liikkua jopa 5 metriä. Ellei toisin mainita, hyökkäys suoritetaan täydellä taitotasolla. Kuten yllä mainittiin, jos tietty ase sallii useita hyökkäyksiä, jokaisen seuraavan hyökkäyksen tulee olla 5 DEX-arvoa matalampi kuin edellisen.
+Hahmosi voi tehdä hyökkäyksen kohdetta vastaan KET-arvonsa aikana, minkä lisäksi hän voi liikkua jopa 5 metriä. Ellei toisin ole muokattu, tämä hyökkäys suoritetaan täydellä taitotasolla. Kuten yllä on mainittu, jos tietty ase sallii useita hyökkäyksiä, jokaisen peräkkäisen hyökkäyksen tulisi tapahtua 5 KET-arvoa alempana kuin edellinen hyökkäys.
 
-#### Ei-taistelutoiminto
+#### Ei-taisteluun liittyvä toiminto
 
-Vapaa hahmo voi yrittää käyttää taitoa tai voimaa tai suorittaa muun toiminnon, joka ei vaadi taitotarkistusta, kuten aseen vetäminen tai oven avaaminen. Käytä maalaisjärkeä sen suhteen, mitä toimintoja tässä ajassa ja liikkumisasteen puitteissa on järkevää suorittaa. Nämä toiminnot, jos ne yhdistetään taistelutoimintoihin tai useisiin ei-taistelutoimintoihin, aiheuttavat 5 DEX-arvon rangaistuksen per toiminto, ellei pelinjohtajasi määritä niiden kestävän pidempään.
+Vapaa hahmo voi yrittää taidon tai voiman käyttöä tai suorittaa jonkin muun toiminnon, joka ei vaadi taitotarkistusta, kuten aseen vetämisen tai oven avaamisen. Käytä tervettä järkeä sen suhteen, mitä toimintoja voidaan kohtuudella suorittaa tässä ajassa ja sallitun liikkumisen puitteissa. Nämä toiminnot, jos ne yhdistetään taistelutoimintoihin tai useisiin ei-taistelutoimintoihin, aiheuttavat 5 KET-arvon rangaistuksen toimintoa kohden, ellei pelinjohtajasi sano, että niiden tulisi kestää kauemmin.
 
-#### Sitoutuminen (Engage)
+#### Sitoutuminen
 
-Vapaa hahmo voi liikkua jopa 5 metriä ja tehdä hyökkäyksen ja/tai puolustustoiminnon ilman rangaistusta, sitoutuen taisteluun.
+Vapaa hahmo voi liikkua jopa 5 metriä ja tehdä hyökkäyksen ja/tai puolustustoiminnon ilman rangaistusta, siirtyen taisteluun.
 
-#### Irtautuminen (Disengage)
+#### Irtautuminen
 
-Sidottu hahmo voi valita poistuvansa taistelusta ilmoittamalla aikeiden ilmoitusvaiheessa irtautuvansa. Yleensä hahmo ei tee hyökkäyksiä, vaan rajoittuu vain väistöihin, torjuntoihin ja liikkumiseen. Jos hahmosi onnistuu kaikissa tämän taistelukierroksen aikana tehdyissä väistöissä tai torjunnoissa, hän on onnistuneesti irtautunut taistelusta ja voi liikkua täydellä nopeudellaan pois taistelukentältä. Jos jokin näistä heitoista epäonnistuu, hahmosi on edelleen sidottu taisteluun. Muita vaihtoehtoja käsitellään kohdassa **Irtautuminen**.
+Taisteluun sidottu hahmo voi valita poistuvansa taistelusta ilmoittamalla aievaiheessa irtautuvansa. Yleensä he eivät suorita hyökkäystoimintoja, vaan rajoittuvat vain väistöihin, torjuntoihin ja liikkumistoimintoihin. Jos hahmosi onnistuu kaikissa tämän taistelukierroksen aikana tehdyissä väistöissä tai torjunnoissa, hän on onnistuneesti irtautunut taistelusta ja voi liikkua täyden liikkumisnopeutensa verran pois taistelusta. Jos jokin näistä heitoista epäonnistuu, hahmosi on edelleen sidottu taisteluun. Muut vaihtoehdot on käsitelty kohdassa **Irtautuminen**.
 
 #### Torjunta
 
-Jokainen, jolla on torjuva ase tai kilpi (tai joka käyttää omaa kehoaan), voi estää hyökkäyksen aiheuttamat vauriot. Heitä torjuttavan hyökkäyksen asiaankuuluvaa taistelutaitoa vastaan. Tätä ei tarvitse ilmoittaa etukäteen, ja se tehdään reaktiona toisen taistelijan onnistuneeseen hyökkäysheittoon.
+Kuka tahansa torjuvaan aseeseen tai kilpeen aseistautunut (tai omaa kehoaan käyttävä) voi estää hyökkäyksen aiheuttaman vahingon. Heitä asiaankuuluvaa taistelutaitoa vastaan torjuaksesi iskun. Tätä ei tarvitse ilmoittaa etukäteen, ja se tehdään vastareaktiona toisen taistelijan onnistuneeseen hyökkäysheittoon.
 
-Onnistunut torjunta yleensä torjuu kaiken tulevan hyökkäyksen aiheuttaman vahingon (ellet torju kehollasi kamppailulajin muodossa), vähentäen onnistuneet hyökkäykset ohiammutuiksi tai alentaen erityis- tai kriittisten hyökkäysten vakavuutta vastaavasti. Kilven panssaripisteitä ja osumapisteitä (AP/HP) käytetään vain, kun vahinko kohdistuu suoraan itse kilpeen, kuten hyökkäyksessä, jolla pyritään tuhoamaan kilpi tai torjuva ase; tai kun vastustetaan vaurioita panssaripisteitä vasten torjuttaessa murskaavaa iskua, tai kun torjuvaan aseeseen tai kilpeen tehdään 2 tai 4 pistettä vahinkoa **Hyökkäys- ja puolustusmatriisin** mukaan.
+Onnistunut torjunta yleensä kääntää kaiken vahingon tulevasta hyökkäyksestä (ellet torju omalla keholla kamppailulajien muodossa), mikä vähentää onnistuneet hyökkäykset hudeiksi tai vähentää erityisten tai kriittisten hyökkäysten vakavuutta vastaavasti. Kilven panssaripisteitä ja osumapisteitä (AP/HP) käytetään vain silloin, kun käsitellään itse kilpeen kohdistuvaa vahinkoa, kuten hyökkäyksessä, jolla yritetään tuhota kilpi tai torjuva ase; kuten silloin kun vastustetaan vahinkoa kilven panssaripisteitä vastaan vastustustaulukossa torjuttaessa murskaavaa iskua, tai kun 2 tai 4 osumapistettä vahinkoa kohdistuu torjuvaan aseeseen tai kilpeen **Hyökkäys- ja puolustusmatriisin** mukaisesti.
 
-Jokainen seuraava torjuntayritys ensimmäisen jälkeen on muokattu –30 % taitotasosta, kumulatiivisesti. Jos mahdollisuus torjua hyökkäys laskee alle 1 %, hahmosi ei voi yrittää torjuntaa. Useimmissa tapauksissa hahmosi voi torjua etäaseita vain kilvellä, kilven perusmahdollisuudella (katso **Kilvet ja etäaseet**). Jos yrität torjua heittoasetta käsiaseella, torjuntamahdollisuuden on oltava erikoisonnistuminen (1/5 normaalista taitotasosta).
+Jokainen peräkkäinen torjuntayritys ensimmäisen jälkeen saa –30 % rangaistuksen taitotasoon, kumulatiivisesti. Jos mahdollisuus torjua hyökkäys laskee alle 1 %:n, hahmosi ei voi yrittää torjua. Useimmissa olosuhteissa hahmosi voi torjua etäaseita vain kilvellä, kilven perusmahdollisuudella (katso **Kilvet ja etäaseet**). Jos yrität torjua heittoasetta käsiaseella, torjuntamahdollisuuden on oltava erityinen onnistuminen (1/5 normaalista taitotasosta).
 
-Samoin, jos hahmosi käyttää improvisoituja aseita tai aseita, joita ei yleensä käytetä torjuntaan, torjuntamahdollisuus on puolet aseen taitotasosta, tai kiinteä 20 %, jos asetta ei normaalisti käytetä torjuntaan tai se on koulutuksen ulkopuolella. Tätä voidaan muokata vastaavien taitojen perusteella pelinjohtajan harkinnan mukaan.
+Samoin, jos hahmosi käyttää improvisoituja aseita tai aseita, joita ei yleensä käytetä torjumiseen, torjuntamahdollisuus on puolet aseen taitotasosta, tai tasainen 20 %, jos asetta ei normaalisti käytetä torjumiseen tai se on hahmon koulutuksen ulkopuolella. Tätä voidaan muokata pelinjohtajan harkinnan mukaan samankaltaisten taitojen taitotasojen perusteella.
 
-***Esimerkiksi,*** *kiväärillä ammuttaessa hahmollasi on 58 % hyökkäysmahdollisuus, mutta torjuessaan hyökkäystä kiväärillä, mahdollisuus on Vaikea eli 29 %, koska useimmat nykyaikaiset sotilaalliset kiväärikoulutukset kattavat sen käytön myös torjunta-aseena. Toisella hahmolla, kuten metsästäjällä, on taas samalla 58 % hyökkäystaidolla vain 20 % mahdollisuus torjua kiväärillä, mikä on etäaseen perus-torjuntamahdollisuus. Samoin sotilas voi käyttää kenttälapiota torjunta-aseena 1/2 kirvestaitotasostaan, sillä se on kooltaan ja muodoltaan suunnilleen samankaltainen ase.*
+***Esimerkiksi***, *kiväärillä ammuttaessa hahmollasi on 58 % hyökkäysmahdollisuus, mutta torjuessaan hyökkäystä kiväärillä mahdollisuus on Vaikea, eli 29 %, koska useimmat nykyaikaiset sotilaskiväärikoulutukset kattavat sen käytön myös torjunta-aseena. Toisella hahmolla, kuten metsästäjällä, on taas samalla 58 % hyökkäystaidolla 20 % mahdollisuus torjua kiväärillä, mikä on etäaseen oletusarvoinen torjuntamahdollisuus. Samoin sotilas saattaa käyttää kenttälapiota (pientä kokoontaitettavaa lapiota) torjunta-aseena 1/2 kirvestaitotasostaan, joka on aseena suurin piirtein samankokoinen ja -muotoinen.*
 
-Pelinjohtaja voi päättää, ettei tiettyä hyökkäystä voi torjua, esimerkiksi huomattavasti suuremman hyökkääjän taholta (esim. puolustajan SIZ vähintään kaksinkertainen) tai kun hyökkääjä käyttää alue- tai pyyhkäisyhyökkäystä.
+Pelinjohtaja voi päättää, että tiettyä hyökkäystä ei voi torjua, esimerkiksi huomattavasti suuremmalta hyökkääjältä (esimerkiksi puolustajan KOK vähintään kaksinkertainen) tai kun hyökkääjä käyttää alue- tai pyyhkäisyhyökkäystä.
 
-***Esimerkiksi,*** *hahmo, jonka SIZ on 15, ei voi torjua brontosauruksen hyökkäystä, jonka SIZ on 72. Sen sijaan hyökkäys on väistettävä tai muuten vältettävä.*
+***Esimerkiksi***, *hahmo, jonka KOK on 15, ei voi torjua KOK 72 olevan brontosauruksen hyökkäystä. Sen sijaan hyökkäys on Väistettävä tai muuten vältettävä.*
 
 #### Väistö
 
-Joitakin aseita ja hyökkäyksiä ei voi torjua, vaan ne on väistettävä. Väistöjä voi yrittää kaikkia lähitaisteluhyökkäyksiä tai heittoaseita vastaan. Kuten torjunnoissa, väistöjä ei tarvitse ilmoittaa ennen hyökkäysheittoa, vaan niitä yritetään reaktiona toisen hahmon onnistuneeseen hyökkäysheittoon (katso Väistö). Jokainen seuraava väistöyritys ensimmäisen jälkeen saa –30 % muokkauksen taitotasoon, kumulatiivisesti. Jos mahdollisuus väistää hyökkäys laskee alle 1 %, hahmosi ei voi yrittää väistöä.
+Joitakin aseita ja hyökkäyksiä ei voi torjua, ja ne on sen sijaan väistettävä. Väistöjä voidaan yrittää kaikkia lähitaisteluhyökkäyksiä tai heittoaseita vastaan. Kuten torjuntojen kohdalla, väistöjä ei tarvitse ilmoittaa ennen hyökkäysheittoa, vaan ne yritetään vastareaktiona toisen hahmon onnistuneeseen hyökkäysheittoon (katso Väistö). Jokainen peräkkäinen väistöyritys ensimmäisen jälkeen saa –30 % rangaistuksen taitotasoon, kumulatiivisesti. Jos mahdollisuus väistää hyökkäys laskee alle 1 %:n, hahmosi ei voi yrittää Väistää.
 
-Normaalisti hahmo ei voi väistää luoteja tai erittäin nopeita ammuksia (nuolet, laserit jne.). Sen sijaan oletetaan, että hahmo väistää pois suunnasta, johon ase on suunnattu. Tällöin hahmosi voi yrittää väistöä vain kyseisen taistelukierroksen ensimmäistä etäasetta vastaan, ja vain jos hyökkääjä ja ase ovat näkyvissä. Tällaiset yritykset ovat Vaikeita. Tietyt genret tai voimatasot voivat sallia enemmän vapautta etäaseiden väistämiseen (katso **Etäaseiden väistäminen**).
+Normaalisti hahmo ei voi väistää luoteja tai nopeita ammuksia (nuolia, lasereita jne.). Sen sijaan oletetaan, että hän väistää pois suunnasta, johon ase on osoitettuna. Tässä tapauksessa hahmosi voi yrittää Väistöä vain ensimmäistä tällaista etäasetta vastaan taistelukierroksella, ja vain jos hyökkääjä ja ase ovat näkyvissä. Tällaiset yritykset ovat Vaikeita. Tietyt genret tai voimatasot saattavat sallia vapaamman etäaseiden väistämisen (katso **Etäaseiden väistäminen**).
 
-#### Taistele puolustavasti
+#### Taistelu puolustavasti
 
-Käyttämällä tätä vaihtoehtoa hahmosi luopuu kaikista hyökkäävistä toimista kierroksen aikana saadakseen ylimääräisen väistöyrityksen. Tämä väistö ei aiheuta seuraavaa kumulatiivista –30 % rangaistusta muille väistö- tai torjuntayrityksille (katso **Taisteleminen puolustavasti**).
+Tätä vaihtoehtoa käyttämällä hahmosi luopuu kaikista hyökkäystoiminnoista kierroksen aikana saadakseen ylimääräisen Väistöyrityksen. Tämä väistö ei aiheuta myöhempää kumulatiivista –30 % rangaistusta muille väistö- tai torjuntayrityksille (katso **Puolustavasti taisteleminen**).
 
 #### Puhuminen
 
-Puhe on ilmainen toiminto, eivätkä normaali keskustelu tai huudetut komennot maksa DEX-arvoja tai rajoita hahmosi toimintaa millään merkittävällä tavalla. Jos hahmosi puhuu pitkään tai kahden hahmon välinen keskustelu jatkuu toiminnan keskellä, pelinjohtaja voi pyytää pitämään keskustelut lyhyinä taistelukierrosten tai toimintasekvenssien aikana. Tämä voi vaihdella ympäristön mukaan: vaikka on täysin normaalia pitää monologeja supersankaripelin nyrkkitappelun aikana, ne olisivat outoja villin lännen tulitaistelussa.
+Puhe on vapaa toiminto, eivätkä normaali keskustelu tai huudetut komennot maksa KET-arvoja tai rajoita hahmosi toimintoja millään merkittävällä tavalla. Jos hahmosi kuitenkin puhuu pidempään, tai kahden hahmon välinen keskustelu jatkuu toiminnan keskellä, pelinjohtaja saattaa pyytää pitämään keskustelut lyhyinä taistelukierrosten tai toimintasekvenssien aikana. Tämä voi vaihdella asetuksittain: vaikka supersankaripeleissä on täysin normaalia pitää monologeja nyrkkitappelun aikana, ne olisivat poissa paikoiltaan Villin lännen pyssytaistelussa.
 
 #### Torjunnat ja väistöt
 
-Torjuntoja ja väistöjä ei voi yhdistää kierroksella, ellei hahmosi ole täysin puolustavassa tilassa. Tässä tapauksessa seuraavien puolustustoimintojen –30 % muokkaukset sisältävät sekä torjunnat että väistöt.
+Torjuntoja ja väistöjä ei voi yhdistää kierroksella, ellei hahmosi ole täysin puolustavassa tilassa. Tässä tapauksessa –30 %:n rangaistukset peräkkäisille puolustustoiminnoille sisältävät sekä torjunnat että väistöt.
 
-> ### Voimat toimintavaiheessa (Vaihtoehto)
+> ### Voimat toimintavaiheessa (valinnainen)
 > 
-> Normaalisti voimien käyttö käsitellään voimien vaiheessa ennen mitään fyysistä toimintaa. Pelin sujuvoittamiseksi ja tasapuolisuuden parantamiseksi voimien käyttö voi tapahtua normaalien DEX-arvojen aikana, aivan kuten normaali hyökkäys. Taistelukierroksen voimien vaihe säilyy ajanjaksona, jolloin edellisen taistelukierroksen aikana loitsutut ei-välittömät voimat astuvat voimaan, mutta toimintavaiheessa INT-arvot ja DEX-arvot tapahtuvat rinnakkain, yhdistäen molemmat laskennat. Hahmosi on edelleen rajoitettu yhteen toimintoon sen perusteella, mitä hän tekee: voima tapahtuu INT-arvolla, fyysinen toiminto DEX-arvolla. Tasapelit ratkaistaan toista ominaisuutta käyttäen (jos INT on tasan, korkeampi DEX toimii ensin) tai korkeammalla taitotason/voiman tasolla, jos mahdollista. Jos ne ovat edelleen tasan, voimat tapahtuvat samanaikaisesti.
+> Normaalisti voimien käyttö käsitellään voimavaiheen aikana ennen kuin mitään fyysistä toimintaa tapahtuu. Pelin virtaviivaistamiseksi ja tasapainottamiseksi voimien käyttö voi tapahtua myös normaalien KET-arvojen aikana, aivan kuten normaalin hyökkäyksen kohdalla. Taistelukierroksen voimavaihe säilyy ajanjaksona, jolloin edellisen taistelukierroksen aikana loitsitut, ei-välittömät voimat astuvat voimaan, mutta toimintavaiheessa ÄLY-arvot ja KET-arvot tapahtuvat rinnakkain, yhdistäen molemmat laskennat. Hahmosi on edelleen rajoitettu yhteen toimintoon sen perusteella, mitä hän tekee: voima tapahtuu ÄLY-arvolla, fyysinen toiminto KET-arvolla. Tasapelit ratkaistaan käyttämällä toista ominaisuutta (jos ÄLY on tasan, korkeampi KET toimii ensin) tai korkeampaa taitoa/voimatasoa, jos se on sovellettavissa. Jos ne ovat yhä tasan, voimat tapahtuvat samanaikaisesti.
 
-> ### Lähitaistelun osumakohtataulukko (Vaihtoehto)
+
+> ### Lähitaistelun osumakohtataulukko (valinnainen)
 > 
-> Kuten kohdassa **Osumapisteet osumakohtaa kohden** kuvataan, hahmosi osumapisteiden kokonaismäärä jaetaan ruumiinosien kesken, ja sitä seurataan myös kokonaisuutena. Kun hyökkäys onnistuu, heitä D20 ja käytä tulosta konsultoidaksesi sopivaa osumakohtataulukkoa. Ihmiset käyttävät vakio-osumakohtataulukkoa, ja muiden ruumiintyyppien osumakohtataulukot on esitetty kohdassa **Ei-inhimilliset osumakohtataulukot** luvussa yksitoista: Olentotyypit. Jos hahmosi ei ole humanoidi, pelinjohtajan tulee osoittaa oikea osumakohtataulukko, jota sinun tulee käyttää.
+> Kuten kohdassa **Osumapisteet osumakohtaa kohden** on kuvattu, hahmosi osumapisteet jakautuvat kehon osien kesken, ja niitä seurataan myös kokonaissummana. Kun hyökkäys onnistuu, heitä D20 ja käytä tulosta tarkistaaksesi oikean osumakohtataulukon. Ihmiset käyttävät standardia osumakohtataulukkoa, ja muiden kehotyyppien osumakohtataulukot löytyvät luvusta yksitoista: **Ei-ihmisten osumakohtataulukot**. Jos hahmosi ei ole humanoidi, pelinjohtajasi tulisi osoittaa oikea osumakohtataulukko, jota sinun tulee käyttää.
 > 
 > ##### Osumakohdat
 > 
 > | D20-heitto | Tulos | Kuvaus |
 > | :---- | :---- | :---- |
-> | 1–4 | Oikea jalka | Oikea jalka lantiosta jalkapohjaan |
-> | 5–8 | Vasen jalka | Vasen jalka lantiosta jalkapohjaan |
-> | 9–11 | Vatsa | Lonkkanivelestä alimpaan kylkiluuhun |
-> | 12 | Rinta | Rintakehä kaulaan ja hartioihin asti |
+> | 1–4 | Oikea jalka | Oikea jalka lonkasta jalkaterän alaosaan |
+> | 5–8 | Vasen jalka | Vasen jalka lonkasta jalkaterän alaosaan |
+> | 8–11 | Vatsa | Lonkkanivel alimpaan kylkiluuhun asti |
+> | 12 | Rintakehä | Rintakehä kaulaan ja hartioihin asti |
 > | 13–15 | Oikea käsi | Koko oikea käsi |
 > | 16–18 | Vasen käsi | Koko vasen käsi |
 > | 19–20 | Pää | Kaula ja pää |
 > 
-> Jotkut tilanteet, kuten suoja tai ratsain vs. jalkaisin olevat hahmot, muuttavat osumakohtia, joihin taistelussa voi osua (katso asiaankuuluvat merkinnät *Luvusta seitsemän: Sääntöjen tarkennukset*).
+> Jotkin tilanteet, kuten suojautuminen tai ratsain vs. jalkaisin olevat hahmot, muokkaavat sitä, mitkä osumakohdat ovat hyökkäyksille avoimia taistelussa (katso asiaankuuluvat kohdat *Luku seitsemän: Sääntöjen tarkennukset*).
 
 ## Ratkaisu
 
-Tehdäksesi hyökkäyksen, torjunnan tai väistön, heitä prosenttinoppia ja vertaa tulosta hahmosi taitoon käytetyn aseen tai kilven kanssa. Hyökkäykset voivat provosoida väistön tai torjunnan, jotka heitetään samalla tavalla. Näiden heittojen onnistumista tai epäonnistumista verrataan **Hyökkäys- ja puolustusmatriisiin** hyökkääjän ja puolustajan yhdistettyjen toimintojen lopputuloksen näkemiseksi.
+Tehdäksesi hyökkäyksen, torjunnan tai väistön, heitä prosenttinoppia ja vertaa tulosta hahmosi taitoon käytettävällä aseella tai kilvellä. Hyökkäykset saattavat provosoida väistön tai torjunnan, jotka heitetään samalla tavalla. Näiden heittojen onnistumista tai epäonnistumista verrataan **Hyökkäys- ja puolustusmatriisiin** hyökkääjän ja puolustajan yhdistettyjen toimintojen tuloksen näkemiseksi.
 
-##### Taistelun yhteenveto
+##### Taisteluyhteenveto
 
 | Hyökkäysheitto | Torjunta- tai väistöheitto | Tulos |
 | :---- | :---- | :---- |
 | Onnistuminen | Onnistuminen | Hyökkääjän isku torjutaan tai väistetään. |
 | Onnistuminen | Epäonnistuminen | Puolustajaan osuu ja hän saattaa menettää osumapisteitä. |
-| Epäonnistuminen | Ei vaadi heittoa | Puolustaja säilyttää vartionsa, ei tarvitse heittää. |
-| Moka | Ei vaadi heittoa | Kuten hyökkääjän ohiammunta yllä, lisäksi hyökkääjä heittää mokataulukon. |
+| Epäonnistuminen | Ei vaadi heittoa | Puolustaja säilyttää vartioinnin, ei tarvitse heittää. |
+| Moka | Ei vaadi heittoa | Kuten hyökkääjän hudin kohdalla yllä, lisäksi hyökkääjä heittää mokataulukosta. |
 
 ### Onnistumisen ja epäonnistumisen tasot
 
-Kuten taitojen kohdalla, taistelussa on usein olennaista tietää, ei vain onnistuiko hyökkäys tai torjunta, vaan myös kuinka hyvin se onnistui tai kuinka pahasti se epäonnistui.
+Kuten taitojen kohdalla, taistelussa on usein olennaista tietää paitsi se, onnistuiko hyökkäys tai torjunta vai ei, myös se, kuinka hyvin se onnistui tai kuinka pahasti se epäonnistui.#### Kriittinen onnistuminen
 
-#### Kriittinen onnistuminen
+Paras mahdollinen heitto! D100-tulos, joka on yhtä suuri tai pienempi kuin 1/20 hahmosi taitotasosta, pyöristettynä ylöspäin. Kriittinen hyökkäys tarkoittaa, että ase tekee kyseiselle aseelle suurimman mahdollisen vahingon (6 arvolla 1D6, 9 arvolla 1D8+1 jne.) lisättynä normaalilla heitetyllä vahinkomuuttujalla. Ellei sitä torjuta kriittisellä torjunnalla, kriittinen hyökkäys ohittaa aina panssarin, vaikka se olisi kokovartalosuojus. Kriittinen torjunta voi vaurioittaa hyökkäävää asetta.
 
-Paras mahdollinen heitto! D100-tulos, joka on pienempi tai yhtä suuri kuin 1/20 hahmosi taitotasosta, pyöristettynä ylöspäin. Kriittinen hyökkäys tarkoittaa, että ase tekee maksimivaurion (6 1D6:lla, 9 1D8+1:llä jne.) plus normaali heitetty vahinkomuokkaaja. Ellei sitä torjuta kriittisellä torjunnalla, kriittinen hyökkäys ohittaa aina panssarin, vaikka se olisi kattava. Kriittinen torjunta voi vahingoittaa hyökkäävää asetta.
+***Esimerkiksi,*** *jos hahmollasi on asemies-taito 60 %, hän saavuttaa kriittisen onnistumisen heittämällä 01–03. Kun näin käy, hahmosi tekee yksinkertaisesti aseen maksimivahingon, heittää vahinkomuuttujan normaalisti ja ohittaa kaikki kohteen käyttämät panssarit, olivatpa ne luonnollisia tai teknologisia. Jos kriittinen onnistuminen tapahtuu lyömämiekalla, joka tekee 1D6+1 vahinkoa, ja hahmosi vahinkomuuttuja on 1D4, kriittinen vahinko on 7+1D4 (6+1=7), ja kohteen panssari ohitetaan. Jos ase on pistooli, joka tekee 1D10 vahinkoa, vahinko on 10 ja se ohittaa kohteen panssarin.*
 
-***Esimerkiksi,*** *jos hahmosi aseen taitotaso on 60 %, kriittinen onnistuminen tapahtuu tuloksella 01–03. Kun tämä heitetään, hahmosi tekee yksinkertaisesti aseen maksimivaurion, heittää vahinkomuokkaajan normaalisti ja ohittaa kaiken panssarin, jota kohde saattaa kantaa, oli se luonnollista tai teknologista. Jos kriittinen onnistuminen tapahtuu lyhyellä miekalla, joka tekee 1D6+1 vahinkoa, ja hahmosi vahinkomuokkaaja on 1D4, kriittinen vahinko on 7+1D4 (6+1=7) ohittaen kohteen panssarin.*
+Pelinjohtajat voivat halutessaan sallia hahmosi tekevän erityisen onnistumisen (alla) kohteeseen kriittisen onnistumisen sijasta.
 
-Pelinjohtaja voi halutessaan antaa hahmosi tehdä erikoisonnistumisen (alla) kriittisen onnistumisen sijaan.
+#### Erityinen onnistuminen
 
-#### Erikoisonnistuminen
+Poikkeuksellinen heitto. D100-tulos, joka on yhtä suuri tai pienempi kuin 1/5 hahmosi taitotasosta, pyöristettynä ylöspäin. Usein erityinen hyökkäys tarkoittaa, että ase tekee normaalin vahingon lisäksi aseen tyypistä riippuvan erityisvaikutuksen.
 
-Poikkeuksellinen heitto. D100-tulos, joka on pienempi tai yhtä suuri kuin 1/5 hahmosi taitotasosta, pyöristettynä ylöspäin. Usein erikoishyökkäys tarkoittaa, että ase tekee normaalin vahingon lisäksi aseen tyyppiin perustuvan erikoistuloksen.
+*Esimerkiksi lyömäaseella, kuten nuijalla, on tyrmäys-/kaatoefekti.*
 
-*Esimerkiksi murskaavalla aseella, kuten nuijalla, on tyrmäysvaikutus.*
+Erityinen torjunta voi vahingoittaa hyökkäävää asetta.
 
-Erikoistorjunta voi vaurioittaa hyökkäävää asetta.
-
-***Esimerkiksi,*** *Ampuma-ase 60 % -taidolla hahmosi saavuttaa erikoisonnistumisen tuloksella 04–12. Tämä tekee normaalia vahinkoa (esim. 1D8), mutta ampuma-aseen kohdalla se tekee myös lävistävää vahinkoa.*
+***Esimerkiksi,*** *kun tuliase-taito on 60 %, hahmosi saavuttaa erityisen onnistumisen heitolla 04–12. Tämä tekee normaalia vahinkoa (esimerkiksi 1D8), mutta tuliaseen tapauksessa se tekee myös lävistävää vahinkoa.*
 
 #### Onnistuminen
 
-Hyvä heitto. Tämä on D100-tulos, joka on yhtä suuri tai pienempi kuin hahmosi taitotaso, mutta korkeampi kuin erikois- tai kriittiseen onnistumiseen tarvittava tulos. Hyökkäykset onnistuvat, jos niitä ei torjuta tai väistetä, ja vahinko heitetään normaalisti ilman, että hyökkäävälle tai torjuvalle aseelle tapahtuu mitään.
+Hyvä heitto. Tämä on D100-tulos, joka on yhtä suuri tai pienempi kuin hahmosi taitotaso, mutta korkeampi kuin erityiseen tai kriittiseen onnistumiseen vaadittu tulos. Hyökkäykset ovat onnistuneita, jos niitä ei torjuta tai väistetä, ja vahinko heitetään normaalisti ilman, että hyökkäävään tai torjuvaan aseeseen kohdistuu vahinkoa.
 
-***Esimerkiksi,*** *Ampuma-ase 60 % -taidolla hahmosi saavuttaa normaalin onnistumisen tuloksella 13–60. Ampuma-aseelle, joka tekee 1D8 pistettä vahinkoa, normaali vahinko heitetään normaalisti.*
+***Esimerkiksi,*** *kun tuliase-taito on 60 %, hahmosi saavuttaa normaalin onnistumisen heitolla 13–60. Tuliaseelle, joka tekee 1D8 pistettä vahinkoa, heitetään normaali vahinko.*
 
 #### Epäonnistuminen
 
-Huono heitto. D100-tulos, joka on suurempi kuin hahmosi taitotaso, mutta pienempi kuin epäonnistumisen ylimmän 1/20 osuuden (katso Moka alla). Taisteluheiton epäonnistuminen tarkoittaa, että yritys epäonnistui, mutta hahmosi voi yrittää uudelleen myöhemmin samalla tai seuraavalla taistelukierroksella.
+Huono heitto. D100-tulos, joka on suurempi kuin hahmosi taitotaso, mutta pienempi kuin epäonnistumisen korkein 1/20 osuus (katso rähmäily alla). Taisteluheiton epäonnistuminen tarkoittaa, että yritys ei tuottanut tulosta, mutta hahmosi voi yrittää uudelleen myöhemmin samalla tai seuraavalla taistelukierroksella.
 
-***Esimerkiksi,*** *Ampuma-ase 60 % -taidolla hahmosi epäonnistuu tuloksella 61–97. Vahinkoa ei heitetä, eikä kohteesi tarvitse yrittää väistää tai torjua hyökkäystä.*
+***Esimerkiksi,*** *kun tuliase-taito on 60 %, hahmosi epäonnistuu heitolla 61–97. Vahinkoa ei heitetä, eikä kohteesi tarvitse yrittää väistää tai torjua hyökkäystä.*
 
-#### Moka
+#### Rähmäily (Fumble)
 
-Tuhoisa heitto! Tulos epäonnistumisen ylimmässä 1/20 osuudessa, yleensä 96–100 matalammilla taitotasoilla ja 100 silloin, kun hahmon taitotaso on yli 100 %. Usein moka tarkoittaa jonkinlaista dramaattista onnettomuutta ja pakottaa usein heittämään asiaankuuluvaa mokataulukkoa. Katso **Lähitaisteluaseiden hyökkäykset**, **Lähitaisteluaseiden torjunnat**, **Etäaseiden hyökkäykset** ja **Luonnollisten hyökkäysten ja torjuntojen mokataulukot**.
+Katastrofaalinen heitto! Tulos, joka osuu epäonnistumismahdollisuuden ylimpään 1/20-osaan, yleensä välille 96–100 matalammilla taitotasoilla, tai 100 silloin, kun hahmon taitotasot ovat yli 100 %. Usein rähmäily merkitsee jonkinlaista dramaattista vahinkoa ja pakottaa usein heittämään vastaavasta rähmäilytaulukosta. Katso **Lähitaisteluasehyökkäysten**, **Lähitaisteluasetorjuntojen**, **Ampuma-asehyökkäysten** ja **Luonnollisten hyökkäysten ja torjuntojen rähmäilytaulukot**.
 
-***Esimerkiksi,*** *Ampuma-ase 60 % -taidolla hahmosi mokaa tuloksella 98–00. Vahinkoa ei heitetä, mutta sinun on heitettävä **Etäaseiden mokataulukkoa** määrittääksesi tämän epäonnistuneen hyökkäyksen seurauksen.*
+***Esimerkiksi,*** *kun tuliase-taito on 60 %, hahmosi rähmäilee heitolla 98–00. Vahinkoa ei heitetä, mutta sinun on heitettävä **Ampuma-aseiden rähmäilytaulukosta** määrittääksesi tämän epäonnistuneen hyökkäyksen seurauksen.*
 
 Joillakin aseilla on mahdollisuus toimintahäiriöön (jumiutuminen jne.), joka ilmaistaan korkeana tuloksena.
 
-***Esimerkiksi,*** *musketti tekee aina toimintahäiriön tuloksella 95–00, riippumatta käyttäjän taidosta.*
+***Esimerkiksi,*** *musketti jumiutuu aina heitolla 95–00, riippumatta käyttäjän taidosta.*
 
-Saman valitettavan heiton tuloksesta riippuen on mahdollista, että hahmosi sekä mokaa että ase kärsii toimintahäiriön; että ase kärsii toimintahäiriön ilman mokaa; tai että hahmo mokaa ilman toimintahäiriötä.
+Saman epäonnistuneen heiton tuloksesta ja hahmosi taitotasosta riippuen on mahdollista, että hahmosi sekä rähmäilee että aseen toiminta häiriintyy; että aseen toiminta häiriintyy ilman rähmäilyä; tai että tapahtuu rähmäily ilman aseen toimintahäiriötä.
 
-***Esimerkiksi,*** *hahmosi taitotaso muskettia varten on 60 % ja hän heittää 99 ampuessaan. Koska ase kärsii toimintahäiriön tuloksella 95–00 ja hahmosi normaalisti mokaa tuloksella 98–00, tämä hyökkäys on valitettavasti sekä moka että aseen toimintahäiriö. Jos heitto olisi ollut 95, 96 tai 97, se olisi ollut vain aseen toimintahäiriö.*
+***Esimerkiksi,*** *hahmosi taitotaso musketeilla on 60 % ja hän heittää 99 ampuessaan. Koska ase jumiutuu heitolla 95–00 ja hahmosi yleensä rähmäilee heitolla 98–00, tämä hyökkäys on valitettavasti sekä rähmäily että aseen toimintahäiriö. Jos heitto olisi ollut 95, 96 tai 97, kyseessä olisi ollut vain aseen toimintahäiriö.*
 
-Jos mokan tulos määrittää hyökkäyksen muuhun kuin tarkoitettuun kohteeseen ja toimintahäiriö aiheuttaa jumiutumisen, hyökkäys tapahtuu ennen toimintahäiriötä (katso **Toimintahäiriöt**).
+Jos rähmäilytuloksessa määrätään hyökkäys muuhun kuin tarkoitettuun kohteeseen ja toimintahäiriö aiheuttaa jumiutumisen, hyökkäys tapahtuu ennen toimintahäiriötä (katso **Toimintahäiriöt**).
 
 ##### Hyökkäys- ja puolustusmatriisi
 
 | Hyökkäysheitto | Torjuntaheitto | Väistöheitto | Tulos |
 | :---- | :---- | :---- | :---- |
 | Kriittinen | Kriittinen | Kriittinen | Puolustaja torjuu tai väistää vahingon, ei muuta tulosta. |
-| Kriittinen | Erikois | Erikois | Hyökkäys osittain torjuttu tai väistetty ja saavuttaa onnistumisen. Hyökkääjä iskee puolustajaan ja heittää vahingon normaalisti. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 2 pistettä vahinkoa.\* |
-| Kriittinen | Onnistuminen | Onnistuminen | Hyökkäys marginaalisesti torjuttu ja saavuttaa erikoisonnistumisen. Hyökkäys tekee täyden vahingon\*\* plus normaali vahinkomuokkaaja ja sopiva erikoistulos. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 4 pistettä vahinkoa.\* |
-| Kriittinen | Epäonnistuminen | Epäonnistuminen | Hyökkäys saavuttaa kriittisen onnistumisen (voi valita erikoisonnistumisen sijaan). Hyökkäys tekee maksimivaurion plus normaali vahinkomuokkaaja. Puolustajan panssariarvo ohitetaan. |
-| Kriittinen | Moka | Moka | Hyökkäys saavuttaa kriittisen onnistumisen (voi valita erikoisonnistumisen sijaan). Hyökkäys tekee maksimivaurion plus normaali vahinkomuokkaaja. Puolustajan panssariarvo ei vaikuta. Puolustaja heittää asiaankuuluvaa mokataulukkoa. |
-| Erikois | Kriittinen | Kriittinen | Puolustaja torjuu tai väistää hyökkäyksen; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 1 pisteen vahinkoa.\* |
-| Erikois | Erikois | Erikois | Puolustaja torjuu tai väistää hyökkäyksen, ei muuta tulosta. |
-| Erikois | Onnistuminen | Onnistuminen | Hyökkäys osittain torjuttu tai väistetty ja saavuttaa normaalin onnistumisen. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 2 pistettä vahinkoa.\* |
-| Erikois | Epäonnistuminen | Epäonnistuminen | Hyökkäys saavuttaa erikoisonnistumisen. Hyökkäys tekee täyden vahingon\*\* plus normaali vahinkomuokkaaja ja sopiva erikoistulos. Puolustajan panssariarvo vähennetään vahingosta. |
-| Erikois | Moka | Moka | Hyökkäys saavuttaa erikoisonnistumisen. Hyökkäys tekee täyden vahingon\*\* plus normaali vahinkomuokkaaja ja sopiva erikoistulos. Puolustajan panssariarvo vähennetään vahingosta. Puolustaja heittää asiaankuuluvaa mokataulukkoa. |
-| Onnistuminen | Kriittinen | Kriittinen | Puolustaja torjuu tai väistää vahingon; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 2 pistettä vahinkoa.\* |
-| Onnistuminen | Erikois | Erikois | Puolustaja torjuu tai väistää vahingon; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 1 pisteen vahinkoa.\* |
+| Kriittinen | Erityinen | Erityinen | Hyökkäys osittain torjuttu tai väistetty, saavuttaa onnistumisen. Hyökkääjä osuu puolustajaan ja heittää vahingon normaalisti. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 2 pistettä vahinkoa.* |
+| Kriittinen | Onnistuminen | Onnistuminen | Hyökkäys hieman torjuttu, saavuttaa erityisen onnistumisen. Hyökkäys tekee täyden vahingon** plus normaali vahinkomuuttuja ja asiaankuuluva erityistulos. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 4 pistettä vahinkoa.* |
+| Kriittinen | Epäonnistuminen | Epäonnistuminen | Hyökkäys saavuttaa kriittisen onnistumisen (voi valita erityisen onnistumisen). Hyökkäys tekee maksimivahingon plus normaali vahinkomuuttuja. Puolustajan panssariarvo ohitetaan. |
+| Kriittinen | Rähmäily | Rähmäily | Hyökkäys saavuttaa kriittisen onnistumisen (voi valita erityisen onnistumisen). Hyökkäys tekee maksimivahingon plus normaali vahinkomuuttuja. Puolustajan panssariarvo ei päde. Puolustaja heittää vastaavasta rähmäilytaulukosta. |
+| Erityinen | Kriittinen | Kriittinen | Puolustaja torjuu tai väistää hyökkäyksen; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 1 pisteen vahinkoa.* |
+| Erityinen | Erityinen | Erityinen | Puolustaja torjuu tai väistää hyökkäyksen, ei muuta tulosta. |
+| Erityinen | Onnistuminen | Onnistuminen | Hyökkäys osittain torjuttu tai väistetty, saavuttaa normaalin onnistumisen. Puolustajan panssariarvo vähennetään vahingosta. Torjuva ase tai kilpi ottaa 2 pistettä vahinkoa.* |
+| Erityinen | Epäonnistuminen | Epäonnistuminen | Hyökkäys saavuttaa erityisen onnistumisen. Hyökkäys tekee täyden vahingon** plus normaali vahinkomuuttuja ja asiaankuuluva erityistulos. Puolustajan panssariarvo vähennetään vahingosta. |
+| Erityinen | Rähmäily | Rähmäily | Hyökkäys saavuttaa erityisen onnistumisen. Hyökkäys tekee täyden vahingon** plus normaali vahinkomuuttuja ja asiaankuuluva erityistulos. Puolustajan panssariarvo vähennetään vahingosta. Puolustaja heittää vastaavasta rähmäilytaulukosta. |
+| Onnistuminen | Kriittinen | Kriittinen | Puolustaja torjuu tai väistää vahingon; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 2 pistettä vahinkoa.* |
+| Onnistuminen | Erityinen | Erityinen | Puolustaja torjuu tai väistää vahingon; ei muuta tulosta. Jos torjuttu lähitaistelussa, hyökkääjän ase ottaa 1 pisteen vahinkoa.* |
 | Onnistuminen | Onnistuminen | Onnistuminen | Puolustaja torjuu tai väistää vahingon, ei muuta tulosta. |
 | Onnistuminen | Epäonnistuminen | Epäonnistuminen | Hyökkäys osuu puolustajaan ja heittää vahingon normaalisti. Puolustajan panssariarvo vähennetään vahingosta. |
-| Onnistuminen | Moka | Moka | Hyökkäys osuu puolustajaan ja heittää vahingon normaalisti. Puolustajan panssariarvo vähennetään vahingosta. Puolustaja heittää asiaankuuluvaa mokataulukkoa. |
+| Onnistuminen | Rähmäily | Rähmäily | Hyökkäys osuu puolustajaan ja heittää vahingon normaalisti. Puolustajan panssariarvo vähennetään vahingosta. Puolustaja heittää vastaavasta rähmäilytaulukosta. |
 | Epäonnistuminen | — | — | Ei vahinkoa; ei vaikutusta. |
-| Moka | — | — | Hyökkäys menee kokonaan ohi ja hyökkääjä heittää asiaankuuluvaa mokataulukkoa. Puolustaja vahingoittumaton. |
+| Rähmäily | — | — | Hyökkäys menee täysin ohi ja hyökkääjä heittää vastaavasta rähmäilytaulukosta. Puolustaja vahingoittumaton. |
 
-\* Jos torjuva ase tai kilpi tuhoutuu torjuntayrityksen aikana, heitä hyökkäävän aseen normaali vahinko ja vähennä torjuvan aseen tai kilven tuhoamiseen käytetyt pisteet. Jäljelle jäävä vahinko läpäisee torjuntayrityksen vahingoittaen puolustajaa (panssari suojaa edelleen). Jos hyökkäävä ase tuhoutuu onnistuneen hyökkäyksen aikana, vahinkoa aiheutuu silti puolustajalle ja ase hajoaa sillä hetkellä.
+* Jos torjuva ase tai kilpi tuhoutuu torjuntayrityksen aikana, heitä hyökkäävän aseen normaali vahinko ja vähennä siitä torjuvan aseen tai kilven tuhoamiseen käytetty vahinko. Jäljelle jäävä vahinko läpäisee torjunnan ja vahingoittaa puolustajaa (panssari suojaa yhä). Jos hyökkäävä ase tuhoutuu onnistuneen hyökkäyksen aikana, vahinko tehdään silti puolustajalle ja ase hajoaa sillä hetkellä.
 
-\*\* Tämä on se vahinko, jonka kyseinen hyökkäystyyppi tekisi normaalisti. Tämä ei ole sama asia kuin "maksimivahinko". Kahdenkädenmiekalla täysi vahinko on 2D8 normaalilla onnistumisella, 2D8 vuotovahinkoa erikoisonnistumisella, ja kriittisellä onnistumisella se tekee 16 vahinkoa ohittaen. Vahinkomuokkaaja heitetään kaikissa tapauksissa erikseen ja lisätään sen jälkeen.
+** Tämä on vahinko, jonka kyseinen hyökkäystyyppi normaalisti tekisi. Tämä ei ole sama asia kuin 'maksimivahinko'. Suurmiekalle täysi vahinko on 2D8 normaalilla onnistumisella, 2D8 verenvuotovahinkoa erityisellä onnistumisella, ja kriittisellä onnistumisella se tekee 16 vahinkoa ohittaen kohteen panssarin. Vahinkomuuttuja heitetään kaikissa tapauksissa erikseen ja lisätään lopputulokseen.
 
-##### Lähitaisteluaseiden hyökkäysten mokataulukko
+##### Lähitaisteluasehyökkäysten rähmäilytaulukko
 
 | D100 | Tulos |
 | :---- | :---- |
-| 01–15 | Menetä seuraava taistelukierros ja olet käytännössä avuton. |
-| 16–25 | Menetä seuraavat 1D3 taistelukierrosta ja olet käytännössä avuton. |
-| 26–40 | Kaadu maahan. |
-| 41–50 | Pudota käytössä oleva ase. |
-| 51–60 | Heitä ase 1D10 metrin päähän. |
-| 61–65 | Menetä 1D10 pistettä aseen osumapisteistä. |
-| 66–75 | Näkö estynyt, muokkaa kaikkia asiaankuuluvia taitoja –30 % 1D3 taistelukierroksen ajan. |
+| 01–15 | Menetät seuraavan taistelukierroksen ja olet käytännössä avuton. |
+| 16–25 | Menetät seuraavat 1D3 taistelukierrosta ja olet käytännössä avuton. |
+| 26–40 | Kaadut maahan. |
+| 41–50 | Pudotat käyttämäsi aseen. |
+| 51–60 | Heität aseen 1D10 metrin päähän. |
+| 61–65 | Menetät 1D10 pistettä aseen kestävyydestä. |
+| 66–75 | Näkö estyy, muokkaa kaikkia asiaankuuluvia taitoja –30 %:lla 1D3 taistelukierroksen ajan. |
 | 76–85 | Osu lähimpään liittolaiseen normaalilla vahingolla tai käytä tulosta 41–50, jos lähistöllä ei ole liittolaista. |
-| 86–90 | Osu lähimpään liittolaiseen erikoisvahingolla tai käytä tulosta 51–60, jos lähistöllä ei ole liittolaista. |
+| 86–90 | Osu lähimpään liittolaiseen erityisvahingolla tai käytä tulosta 51–60, jos lähistöllä ei ole liittolaista. |
 | 91–98 | Osu lähimpään liittolaiseen kriittisellä vahingolla tai käytä tulosta 61–65, jos lähistöllä ei ole liittolaista. |
-| 99 | Moka; heitä kahdesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
-| 00 | Paha moka; heitä kolmesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 99 | Mokaat; heitä kahdesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 00 | Mokaat pahasti; heitä kolmesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
 
-##### Lähitaisteluaseiden torjunnan mokataulukko
+##### Lähitaisteluasetorjuntojen rähmäilytaulukko
 
 | D100 | Tulos |
 | :---- | :---- |
-| 01–20 | Menetä seuraava taistelukierros (tai tämä, jos mitään toimintoa ei ole vielä tehty), ja olet käytännössä avuton. |
-| 21–40 | Kaadu maahan. |
-| 41–50 | Pudota käytössä oleva ase. |
-| 51–60 | Heitä ase 1D10 metrin päähän. |
-| 61–75 | Näkö estynyt; muokkaa kaikkia asiaankuuluvia taitoja –30 % 1D3 taistelukierroksen ajan. |
+| 01–20 | Menetät seuraavan taistelukierroksen (tai tämän, jos toimintaa ei ole vielä suoritettu) ja olet käytännössä avuton. |
+| 21–40 | Kaadut maahan. |
+| 41–50 | Pudotat käyttämäsi aseen. |
+| 51–60 | Heität aseen 1D10 metrin päähän. |
+| 61–75 | Näkö estyy; muokkaa kaikkia asiaankuuluvia taitoja –30 %:lla 1D3 taistelukierroksen ajan. |
 | 76–85 | Täysin avoinna; vastustaja osuu automaattisesti normaalilla osumalla. |
-| 86–90 | Täysin avoinna; vastustaja osuu automaattisesti erikoisosumalla. |
+| 86–90 | Täysin avoinna; vastustaja osuu automaattisesti erityisellä osumalla. |
 | 91–93 | Täysin avoinna; vastustaja osuu automaattisesti kriittisellä osumalla. |
-| 94–98 | Moka; heitä kahdesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
-| 99–00 | Paha moka; heitä kolmesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 94–98 | Mokaat; heitä kahdesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 99–00 | Mokaat pahasti; heitä kolmesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
 
-##### Etäaseiden hyökkäysten mokataulukko
+##### Ampuma-asehyökkäysten rähmäilytaulukko
 
 | D100 | Tulos |
 | :---- | :---- |
-| 01–15 | Menetä seuraava hyökkäys tai muu toiminta. |
-| 16–25 | Menetä seuraavat 1D3 taistelukierrosta tai muu toiminta. |
-| 26–40 | Kaadu maahan. |
-| 41–55 | Näkö estynyt; muokkaa kaikkia asiaankuuluvia taitoja –30 % 1D3 taistelukierroksen ajan. |
-| 56–65 | Pudota ase; joka liukuu tai kimpoaa 1D6–1 metrin päähän. |
-| 66–80 | Tee 1D6 vahinkoa aseen osumapisteisiin (tai käytä tulosta 81–85, jos aseella ei ole osumapisteitä). |
-| 81–85 | Riko ase; riippumatta aseen senhetkisistä osumapisteistä. |
+| 01–15 | Menetät seuraavan hyökkäyksen tai muun toiminnon. |
+| 16–25 | Menetät seuraavat 1D3 taistelukierrosta tai muun toiminnon. |
+| 26–40 | Kaadut maahan. |
+| 41–55 | Näkö estyy; muokkaa kaikkia asiaankuuluvia taitoja –30 %:lla 1D3 taistelukierroksen ajan. |
+| 56–65 | Pudotat aseen; se liukuu tai kimpoilee 1D6–1 metrin päähän. |
+| 66–80 | Tee 1D6 pistettä vahinkoa aseen kestävyyteen (tai käytä tulosta 81–85, jos aseella ei ole kestävyyspisteitä). |
+| 81–85 | Riko ase; riippumatta aseen senhetkisistä kestävyyspisteistä. |
 | 86–90 | Osu lähimpään liittolaiseen normaalilla vahingolla tai käytä tulosta 56–65, jos lähistöllä ei ole liittolaista. |
-| 91–95 | Osu lähimpään liittolaiseen erikoisvahingolla tai käytä tulosta 66–80, jos lähistöllä ei ole liittolaista. |
+| 91–95 | Osu lähimpään liittolaiseen erityisvahingolla tai käytä tulosta 66–80, jos lähistöllä ei ole liittolaista. |
 | 96–98 | Osu lähimpään liittolaiseen kriittisellä vahingolla tai käytä tulosta 81–85, jos lähistöllä ei ole liittolaista. |
-| 99 | Moka; heitä kahdesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
-| 00 | Paha moka; heitä kolmesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 99 | Mokaat; heitä kahdesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 00 | Mokaat pahasti; heitä kolmesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
 
-##### Luonnollisten hyökkäysten ja torjuntojen mokataulukko
+##### Luonnollisten hyökkäysten ja torjuntojen rähmäilytaulukko
 
 | D100 | Tulos |
 | :---- | :---- |
-| 01–25 | Menetä seuraava taistelukierros (tai tämä, jos mitään toimintoa ei ole vielä tehty). |
-| 26–30 | Menetä seuraavat 1D3 taistelukierrosta (tämä sisältää tämän, jos mitään toimintoa ei ole vielä tehty). |
-| 31–50 | Kaadu maahan. |
-| 51–60 | Kaadu maahan ja nyrjäytä nilkkasi; muokkaa MOV:ia –1 1D10 täyden vuoron ajan (ja kaikkien taisteluvuorojen niiden sisällä). |
-| 61–75 | Näkö estynyt; muokkaa kaikkia asiaankuuluvia taitoja –30 % 1D3 taistelukierroksen ajan. |
-| 76–85 | Missaa ja venäytä jotain; menetä 1 osumapiste (hyökkäävästä raajasta, jos käytetään osumakohtia). |
+| 01–25 | Menetät seuraavan taistelukierroksen (tai tämän, jos toimintaa ei ole vielä suoritettu). |
+| 26–30 | Menetät seuraavat 1D3 taistelukierrosta (tämä sisältää tämän, jos toimintaa ei ole vielä suoritettu). |
+| 31–50 | Kaadut maahan. |
+| 51–60 | Kaadut maahan ja nyrjäytät nilkkasi; muokkaa MOV-arvoa –1 MOV 1D10 täyden vuoron ajan (ja kaikkien niiden sisällä olevien taisteluvuorojen ajan). |
+| 61–75 | Näkö estyy; muokkaa kaikkia asiaankuuluvia taitoja –30 %:lla 1D3 taistelukierroksen ajan. |
+| 76–85 | Huti ja venäytät jotain; menetät 1 kestävyyspisteen (hyökkäävästä raajasta, jos käytetään osumakohtia). |
 | 86–90 | Osu lähimpään liittolaiseen normaalilla vahingolla tai käytä tulosta 76–85, jos lähistöllä ei ole liittolaista. |
-| 91–94 | Osu lähimpään liittolaiseen erikoisvahingolla tai käytä tulosta 76–85, jos lähistöllä ei ole liittolaista. |
-| 95–98 | Osu kovaan pintaan; tee normaali vahinko itsellesi (hyökkäävästä raajasta, jos käytetään osumakohtia). |
-| 99 | Moka; heitä kahdesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
-| 00 | Paha moka; heitä kolmesti lisää tällä taulukolla (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 91–94 | Osu lähimpään liittolaiseen erityisvahingolla tai käytä tulosta 76–85, jos lähistöllä ei ole liittolaista. |
+| 95–98 | Osu kovaan pintaan; tee normaali vahinko itseesi (hyökkäävään raajaan, jos käytetään osumakohtia). |
+| 99 | Mokaat; heitä kahdesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
+| 00 | Mokaat pahasti; heitä kolmesti lisää tästä taulukosta (kumulatiivinen, jos tämä tulos heitetään uudelleen). |
 
-### Erikoisonnistumiset ja vahinko
+### Erityiset onnistumiset ja vahinko
 
-Eri tyyppiset aseet tekevät erilaista vahinkoa erikoisonnistumisilla. Erikoisvahinkotyyppejä on viisi: vuoto, murskaus, sotkeutuminen, lävistys ja tyrmäys.
+Eri tyyppiset aseet tekevät erityisillä onnistumisilla erityyppistä vahinkoa. Erityisvahinkoa on viittä tyyppiä: verenvuoto, murskaava, sotkeva, lävistävä ja kaatava.
 
-* **Vuoto:** Haava, joka johtaa syvään kudosvammaan valtimoissa tai tärkeissä elimissä. Terävät aseet aiheuttavat vuotovahinkoa.
-* **Murskaus:** Haava, joka sisältää tylpän trauman kohteeseen, rikkoen usein luita ja tyrmäten kohteen. Nuijat, aseettomat iskut ja muut tylpät aseet voivat aiheuttaa murskausvahinkoa.
-* **Sotkeutuminen:** Kohteen raajojen tai kehon sitominen tai ansaitseminen. Joustavat aseet, verkot, köydet ja aseet, joissa on lyhyitä, rosoisia kärkiä, aiheuttavat sotkeutumisvahinkoa.
-* **Lävistys:** Syvä haava, joka lävistää tärkeitä elimiä tai kulkee kokonaan kohteen läpi. Ampuma-aseet, nuolet ja muut teräväkärkiset aseet aiheuttavat lävistysvahinkoa.
-* **Tyrmäys (Knockback):** Haava, joka horjuttaa ja mahdollisesti lähettää kohteen taaksepäin. Jotkin aseettomat hyökkäykset ja kilpihyökkäykset aiheuttavat tyrmäyksen.
+* **Verenvuoto:** Haava, joka johtaa syvään kudosviiltoon valtimoihin tai tärkeisiin elimiin. Teräväreunaiset aseet aiheuttavat verenvuotovahinkoa.
 
-Nämä viisi vahinkotyyppiä kuvataan alla olevissa osioissa.
+* **Murskaava:** Haava, joka aiheuttaa uhriin tylpän trauman, rikkoen usein luita ja tainnuttaen kohteen. Nuijat, aseettomat iskut ja muut tylpät aseet voivat aiheuttaa murskaavaa vahinkoa.
 
-#### Vuoto
+* **Sotkeva:** Kohteen raajojen tai kehon sitominen tai ansaitseminen. Joustavat aseet, verkot, köydet ja aseet, joissa on lyhyitä, rosoisia kärkiä, aiheuttavat sotkevia hyökkäyksiä.
 
-Erikoisonnistuminen viiltävällä aseella aiheuttaa kohteeseen vuotovahinkoa, jolloin laskimo tai päävaltimo katkeaa ja kohde menettää nopeasti verta. Tämä tekee 1 ylimääräisen osumapistevahingon DEX-arvolla 1 jokaisella kierroksella haavan aiheuttamisen jälkeen. Jos käytetään väsymispisteitä, kohde menettää 1 ylimääräisen väsymispisteen jokaisella kierroksella, jona hän vuotaa. Panssari suojaa alkuhyökkäystä vastaan, mutta ei vuodon vaikutuksia vastaan.
+* **Lävistävä:** Syvä haava, joka lävistää tärkeitä elimiä tai menee kokonaan kohteen kehon läpi. Tuliaseet, nuolet ja muut teräväkärkiset aseet aiheuttavat lävistävää vahinkoa.
 
-Taistelun aikana kohde voi yrittää tyrehdyttää vuodon kerran kierroksessa, asettamalla vapaan käden haavan päälle ja painamalla sitä. Kunkin kierroksen lopussa kohde voi yrittää Kestävyys-heittoa määrittääkseen, loppuuko vuoto. Jos onnistut, haava pysyy suljettuna, eikä kohde kärsi enempää vuotovahinkoa. Tämän aikana kaikki hyökkäykset, torjunnat tai fyysiset toimet, joita hän yrittää, ovat Vaikeita. Väistämisen yrittäminen peruuttaa yrityksen pysäyttää vuoto. Jos epäonnistut, vuoto jatkuu, ja jos kohde väistää tai tekee raskasta toimintaa, vuoto alkaa uudelleen.
+* **Kaatava:** Isku, joka horjuttaa ja mahdollisesti lennättää kohteen selälleen. Jotkut aseettomat hyökkäykset ja kilpihyökkäykset aiheuttavat kaatamista.
 
-Luotettavin tapa pysäyttää vuotovahinko on tehdä onnistunut Ensiapu-heitto vammaan. Onnistuminen tarkoittaa, että vuoto loppuu eikä ala uudelleen. Tämän Ensiapu-heiton epäonnistuminen tarkoittaa, että vuoto jatkuu, kunnes kohde saa onnistunutta lääkärinhoitoa (voiman tai toisen taidon, kuten Lääkintä, muodossa) tai kuolee verenhukkaan saavuttaessaan 0 osumapistettä.
+Näitä viittä vahinkotyyppiä kuvataan alla olevissa osioissa.
 
-Jos vuoto on pysäytetty viiden taistelukierroksen ajaksi, se loppuu itsestään kokonaan.
+#### Verenvuoto
 
-#### Murskaus
+Erityinen onnistuminen viiltävällä aseella aiheuttaa kohteeseen verenvuotovahinkoa; uhrin laskimo tai päävaltimo on katkennut, ja hän menettää nopeasti verta. Tämä tekee 1 lisäkestävyyspistevahingon jokaisen kierroksen KET-arvon 1. vaiheessa sen kierroksen jälkeen, jona haava syntyi. Jos käytetään väsymyspisteitä, kohde menettää 1 lisäväsymyspisteen jokaisella kierroksella, jona hän vuotaa verta. Panssari suojaa alkuperäiseltä hyökkäykseltä, mutta ei verenvuodon vaikutuksilta.
 
-Erikoisonnistuminen murskaavalla aseella – nuijalla, sauvalla, nuijalla tai erityisen onnekkaalla aseettomalla iskulla – aiheuttaa murskausvahinkoa kohteeseen. Tämä on erityisen voimakas isku, joka aiheuttaa usein massiivisia mustelmia tai jopa luunmurtumia, tyrmäten usein kohteen.
+Taistelun aikana kohde voi yrittää tyrehdyttää verenvuodon kerran kierroksessa asettamalla vapaan käden haavalle ja painamalla sitä. Jokaisen kierroksen lopussa kohde voi yrittää KES-heittoa määrittääkseen, loppuuko verenvuoto. Jos se onnistuu, haava pysyy kiinni, eikä kohde kärsi enää verenvuotovahinkoa. Tämän aikana kaikki hyökkäykset, torjunnat tai fyysiset toimet, joita kohde yrittää, ovat *Vaikeita*. Väistämisen yrittäminen peruuttaa verenvuodon tyrehdyttämisen. Jos yritys epäonnistuu, verenvuoto jatkuu, ja jos kohde väistää tai tekee raskasta toimintaa, verenvuoto alkaa uudelleen.
 
-Murskaava erikoisonnistuminen kaksinkertaistaa hyökkäykseen normaalisti käytetyn vahinkomuokkaajan. Jos hyökkääjällä on negatiivinen vahinkomuokkaaja, siitä tulee ei vahinkomuokkaajaa, ja jos vahinkomuokkaajaa ei ole, siitä tulee +1D4 (katso **Vahinkomuokkaajataulukko**). Aseen vahinko heitetään normaalisti, mutta vahinkomuokkaajaa kasvatetaan.
+Luotettavin tapa pysäyttää verenvuotovahinko on onnistunut Ensiapu-heitto vammaan. Onnistuminen tarkoittaa, että verenvuoto loppuu eikä ala uudelleen. Tämän Ensiapu-heiton epäonnistuminen tarkoittaa, että verenvuoto jatkuu, kunnes kohde saa onnistunutta lääketieteellistä hoitoa (esimerkiksi voimalla tai muulla taidolla, kuten Lääkintätaito) tai kuolee verenhukkaan saavuttaessaan 0 kestävyyspistettä.
 
-Kohteen, joka kärsii murskaavasta erikoisonnistumisesta, on myös tehtävä onnistunut Kestävyys-heitto tai oltava tyrmättynä 1–3 kierrosta. Tyrmätyksi tuleminen on huimaava, suuntaa antava kokemus, kun tähdet tanssivat kohteen silmissä ja pää pyörii äkillisen iskun kivusta. Tyrmätty kohde ei voi hyökätä ollessaan tyrmättynä ja voi yrittää väistää tai torjua hyökkäyksen vain, jos hän tekee onnistuneen Äly-heiton jokaisesta yrityksestä. Lisäksi kaikki hyökkäykset kohdetta vastaan ovat Helppoja. Tyrmätty kohde voi yrittää paeta, mutta se vaatii onnistuneen Äly-heiton pakoreitin havaitsemiseksi ja onnistuneen Ketteryys-heiton vaarasta pois pääsemiseksi.
+Jos verenvuoto on pysäytetty viiden taistelukierroksen ajan, se loppuu kokonaan itsestään.
 
-Jos kohde torjuu onnistuneesti murskaavan erikoisonnistumisen, hän ottaa riskin, että hänen aseensa tai kilpensä rikkoutuu. Hyökkääjä heittää vahingon ja kasvatetun vahinkomuokkaajan, ja vertaa heitettyä vahinkoa torjuvan esineen senhetkisiin osumapisteisiin vastustuskykytaulukossa. Aktiivinen arvo on aiheutettu vahinko, ja passiivinen arvo on esineen normaalit osumapisteet. Jos aktiivinen heitto onnistuu, torjuva esine ottaa kaiken iskun vahingon, ja jäljelle jäävä vahinko kohdistuu torjuvaan kohteeseen. Kohde voi vähentää panssarin suojan murskaavan iskun tekemästä vahingosta, mutta ei voi enää väistää tai torjua tätä hyökkäystä – se osuu automaattisesti, ja loput vahingosta kohdistuu kohteeseen. Jos kohde ottaa vahinkoa, häneen sovelletaan tyrmäyssääntöjä (yllä).
+#### Murskaava
 
-Jos torjuvan esineen osumapisteiden passiivinen heitto onnistuu, se ottaa normaalin hyökkäysvahingon suoraan osumapisteisiinsä. Jos torjuva esine ottaa enemmän vahinkoa kuin sillä on osumapisteitä, se tuhoutuu hyökkäyksestä – rikkoontuu tai särkyy, kumpi on sopivampaa – mutta isku ei jatku osumaan kohteeseen.
+Erityinen onnistuminen murskaavalla aseella – nuijalla, sauvalla, nuijapäällä tai erityisen onnekkaalla aseettomalla iskulla – aiheuttaa kohteeseen murskaavaa vahinkoa. Tämä on erityisen voimakas isku, joka aiheuttaa usein massiivisia mustelmia tai jopa luunmurtumia, ja se tainnuttaa usein kohteen.
 
-Jos käytetään tiettyjä osumakohtia ja torjuva esine oli kilpi, tämä lisävahinko kohdistuu automaattisesti siihen käteen, jolla kohde kantoi kilpeään, sallien panssarin suojan, jos mahdollista. Jos torjuva esine oli ase, lisävahinko kohdistuu satunnaiseen osumakohtaan, jonka pelinjohtaja heittää. Kuten yllä, panssarin suoja suojaa edelleen jatkuvaa iskua vastaan.
+Murskaava erityinen onnistuminen kaksinkertaistaa hyökkäykseen normaalisti sovellettavan vahinkomuuttujan. Jos hyökkääjällä on negatiivinen vahinkomuuttuja, tästä tulee nollamuuttuja, ja jos vahinkomuuttujaa ei ole, siitä tulee +1D4 (katso **Vahinkomuuttujataulukko**). Aseen vahinko heitetään normaalisti, mutta vahinkomuuttujaa korotetaan.
 
-#### Sotkeutuminen
+Kohteen, joka kärsii murskaavasta erityisestä onnistumisesta, on myös tehtävä onnistunut KES-heitto tai hän tainnuttuu 1D3 kierrokseksi. Tainnutus on huimaava, suuntavaiston vievä kokemus, kun tähdet tanssivat kohteen silmissä ja pää pyörii äkillisen iskun kivusta. Tainnutettu kohde ei voi hyökätä ja voi yrittää väistää tai torjua hyökkäyksen vain, jos hän tekee onnistuneen ÄLY-heiton jokaista yritystä kohden. Lisäksi kaikki hyökkäykset kohdetta vastaan ovat *Helppoja*. Tainnutettu kohde voi yrittää paeta, mutta se vaatii onnistuneen ÄLY-heiton pakoreitin havaitsemiseksi ja onnistuneen Ketteryys-heiton vaarasta pois pääsemiseksi.
 
-Erikoisonnistuminen sotkevalla aseella – ruoskalla, verkolla, ketjulla, köydellä, eläimennappaimella jne. – sotkee kohteen. Sotkevaa hyökkäystä ei voi tehdä läheltä, ja sen on tapahduttava vähintään kolmen metrin etäisyydeltä hyökkääjän ja kohteen välillä (vaikka kuristusvaijeria voi käyttää lähitaistelussa). Onnistunut sotkeminen estää kohteen liikkumisen lopputaistelukierroksen ajaksi ja seuraavalle taistelukierrokselle. Tämä antaa hyökkääjälle aikaa lähestyä kohdetta tai alistaa hänet.
+Jos kohde torjuu onnistuneesti murskaavan erityisen hyökkäyksen, hän riskeeraa aseensa tai kilpensä rikkoutumisen. Hyökkääjä heittää vahingon ja korotetun vahinkomuuttujan ja vertaa heitettyä vahinkoa torjuvan esineen kestävyyspisteisiin vastustuskykytaulukossa. Aktiivinen arvo on tehty vahinko ja passiivinen arvo on esineen normaalit kestävyyspisteet. Jos aktiivinen heitto onnistuu, torjuva esine ottaa kaiken iskun vahingon ja mahdollisesti jäljelle jäävä vahinko kohdistuu torjuvaan kohteeseen. Kohde voi vähentää panssarin suojan murskaavan iskun tekemästä vahingosta, mutta ei voi enää väistää tai torjua tätä hyökkäystä – se osuu automaattisesti ja loput vahingosta kohdistuu kohteeseen. Jos kohde ottaa vahinkoa, häneen sovelletaan tainnutussääntöjä (yllä).
 
-Tämä saattaa estää kohteen hyökkäykset. Sotkevan hyökkäyksen luonteen perusteella pelinjohtaja voi sallia sotkeutuneelle kohteelle Onni-heiton määrittääkseen, pystyykö hän hyökkäämään.
+Jos torjuvan esineen kestävyyspisteiden passiivinen heitto onnistuu, se ottaa normaalin hyökkäysvahingon suoraan kestävyyspisteisiinsä. Jos torjuva esine ottaa enemmän vahinkoa kuin sillä on kestävyyspisteitä, se tuhoutuu iskusta – rikkoutuu tai pirstoutuu, kumpi ikinä on tarkoituksenmukaista – mutta isku ei jatku kohteeseen.
 
-***Esimerkiksi,*** *yhteen käteen kietoutunut ruoska saattaa jättää toisen käden ja jalan vapaaksi hyökkäyksiin, kun taas lassosilmukka saattaa immobilisoida molemmat kädet.*
+Jos käytetään erityisiä osumakohtia ja torjuva esine oli kilpi, tämä lisävahinko kohdistuu automaattisesti siihen käteen, jossa kohde kilpeä piti, sallien panssarisuojan käytön, jos mahdollista. Jos torjuva esine oli ase, lisävahinko kohdistuu satunnaiseen osumakohtaan, jonka pelinjohtaja heittää. Kuten edellä, panssarisuoja suojaa jatkuvaa iskua vastaan.
 
-Tämä tulisi käsitellä tapauskohtaisesti. On kuitenkin vähän sotkevia hyökkäyksiä, jotka eivät salli jonkinlaista hyökkäystapaa, olipa se potku tai puskeminen.
+#### Sotkeva
 
-Jos hyökkääjällä on edelleen hallinta sotkevasta aseesta (esim. ruoska sallii tämän, kun taas bola ei), hyökkääjä voi yrittää yhtä tai useampaa vaikutusta seuraavalla kierroksella, kuten Grapple-taidossa kuvataan. Sallittuja vaikutuksia ovat: immobilisoi raaja, immobilisoi kohde, heitä kohde, tyrmää kohde, riisu aseista, vahingoita kohdetta ja kurista kohde, sopivalla tavalla. Jos käytetään osumakohtia, tämä saattaa estää tietyt hyökkäykset.
+Erityinen onnistuminen sotkevalla aseella – ruoskalla, verkolla, ketjulla, köydellä, ihmispyydyksellä jne. – sotkee kohteen. Sotkevaa hyökkäystä ei voi tehdä lähietäisyydeltä, ja siinä on oltava vähintään kolme metriä tilaa hyökkääjän ja kohteen välillä (vaikka kuristusvaijeria voi käyttää lähietäisyydeltä). Onnistunut sotkeminen estää kohteen liikkumisen lopputaistelukierroksen ajan ja seuraavan taistelukierroksen ajan. Tämä antaa hyökkääjälle aikaa lähestyä kohdetta tai muuten nujertaa hänet.
 
-***Esimerkiksi,*** *jalkaan sotkeutunut ruoska ei voi riisua käsiasetta.*
+Tämä voi estää kohteen hyökkäykset. Sotkevan hyökkäyksen luonteesta riippuen pelinjohtaja voi sallia sotketulle kohteelle Onni-heiton määrittääkseen, kykeneekö hän hyökkäämään.
 
-Onnistuneen sotkemishyökkäyksen jälkeisellä kierroksella kohde voi yrittää Ketteryys-heittoa vapautuakseen tai tehdä STR vs. STR -vastustusheiton yrittääkseen vetää sotkevan aseen hyökkääjän kädestä (käsistä). Vaihtoehtoisesti, jos sotkeutunut kohde pystyy, hän voi yrittää hyökkäystä itse sotkevaa asetta vastaan leikaten sen läpi, jos hänellä on käytössään leikkaava ase.
+***Esimerkiksi,*** *yhden käden ympärille kietoutunut ruoska saattaa sallia toisen käden ja jalan vapaat hyökkäykset, kun taas lassosilmukka saattaa lamauttaa molemmat kädet.*
 
-Sotkevilla aseilla, jotka käyttävät joustavia aseita kuten verkkoja, köysiä, ketjuja ja ruoskilla, onnistunut STR vs. STR -vastustusheitto sallii sotkevan aseen vääntää torjuvan aseen kohteen otteesta.
+Tätä tulisi käsitellä tapauskohtaisesti. On kuitenkin harvoja sotkevia hyökkäyksiä, jotka eivät salli jonkinlaista hyökkäystapaa, kuten potkua tai puskua.
 
-Onnistunut Väistö- tai Paini-heitto kumoaa onnistuneen sotkemisen, mutta sitä voi yrittää vasta seuraavalla taistelukierroksella. Kriittinen torjunta kumoaa kriittisen sotkemisen, mutta tavallisella onnistuneella torjunnalla ei ole vaikutusta.
+Jos hyökkääjä hallitsee edelleen sotkevaa asetta (esimerkiksi ruoska sallii tämän, kun taas bola-pallot eivät), hyökkääjä voi yrittää yhtä tai useampaa vaikutusta seuraavalla kierroksella, kuten Paini-taidon yhteydessä on kuvattu. Sallittuja vaikutuksia ovat: raajan lamauttaminen, kohteen lamauttaminen, kohteen heittäminen, kohteen kaataminen, kohteen riisuminen aseista ja kohteen kuristaminen, tilanteen mukaan. Jos käytetään osumakohtia, tämä saattaa estää tietyt hyökkäykset.
 
-#### Lävistys
+***Esimerkiksi,*** *jalan sotkeva ruoska ei voi riisua käsiasetta.*
 
-Erikoisonnistuminen teräväkärkisellä tai työntävällä aseella aiheuttaa lävistysvahinkoa kohteeseen, tunkeutuen syvälle lihaan ja mahdollisesti osuen sisäelimiin. Lävistys kaksinkertaistaa aseen normaalisti heitetyn vahingon nopat ja muokkaajan.
+Onnistunutta sotkemishyökkäystä seuraavalla kierroksella kohde voi yrittää Ketteryys-heittoa vapauttaakseen itsensä tai tehdä VOI vs. VOI vastustuskykyheiton yrittääkseen repiä sotkevan aseen hyökkääjän kädestä/käsistä. Vaihtoehtoisesti, jos sotkeutunut kohde kykenee, hän voi yrittää hyökkäystä itse sotkevaan aseeseen, leikaten sen poikki, jos hänellä on leikkaava ase varustettuna.
 
-***Esimerkiksi,*** *lyhytmiekka tekee normaalisti 1D6+1 pistettä vahinkoa, kun taas lävistys samalla aseella tekee kaksi kertaa sen, eli 2D6+2 pistettä vahinkoa.*
+Joustavia aseita, kuten verkkoja, köysiä, ketjuja ja ruoskia käyttävissä sotkevissa hyökkäyksissä onnistunut VOI vs. VOI vastustuskykyheitto sallii sotkevan aseen vääntää torjuvan aseen kohteen otteesta.
 
-Vain aseen vahinko kaksinkertaistuu. Jos hyökkääjällä on vahinkomuokkaaja, vahinkomuokkaajaa ei kaksinkertaisteta, vaan se heitetään normaalisti ja lisätään vahinkoon.
+Onnistunut Väistö- tai Paini-heitto kumoaa onnistuneen sotkemisen, mutta sitä voi yrittää vasta seuraavalla taistelukierroksella. Kriittinen torjunta kumoaa kriittisen sotkemisen, mutta tavallinen torjunnan onnistuminen ei vaikuta asiaan.#### Lävistäminen
 
-Lävistävä ase on edelleen kiinni kohteen kehossa, kunnes se poistetaan. Jos ase on käsiase, hyökkääjä voi välittömästi yrittää *Vaikeaa* aseen taitotarkistusta lävistävällä aseella. Jos onnistut, hyökkääjä voi vetää aseen ulos lävistyshyökkäyksen jälkeen. Muussa tapauksessa ase on juuttunut kohteen kehoon.
+Erikoisonnistuminen teräväkärkisellä tai pistävällä aseella aiheuttaa kohteeseen lävistysvahinkoa, tunkeutuen syvälle lihaan ja mahdollisesti vaurioittaen sisäelimiä. Lävistys tuplaa aseen normaalin heitetyn vahingon nopat ja muuttujan.
 
-Jos hyökkääjän ase on edelleen haavassa ja hyökkääjä haluaa sen takaisin, hänen on yritettävä noutaa ase. Tässä tapauksessa hyökkääjän on keskityttävä aseen vetämiseen haavasta. Tämä nostaa noutomahdollisuuden hyökkääjän täyteen hyökkäystaitoon kyseisellä aseella, mutta kaikki hyökkääjää vastaan suunnatut hyökkäykset ovat *Helppoja*, ja hän ei tietenkään voi torjua tai väistää yrittäessään irrottaa asettaan kohteesta.
+***Esimerkiksi*** *lyhyen miekan vahinko on normaalisti 1D6+1 pistettä, kun taas saman aseen lävistys tekee tuplasti tuon verran eli 2D6+2 pistettä vahinkoa.*
 
-Heittoaseiden, kuten keihäiden, tikarien tai jopa nuolien kohdalla, hyökkääjän on lähestyttävä kohdetta ja onnistuttava *Vaikeassa* Ketteryys-heitossa saadakseen aseen. Mahdollisuus poistaa ase seuraavilla kierroksilla on hyökkääjän täysi taito, jos hän haluaa jättää huomiotta kaikki hyökkäykset kyseisellä kierroksella ja keskittyä aseen noutamiseen, kuten yllä kuvattiin.
+Vain aseen vahinko tuplataan. Jos hyökkääjällä on vahinkomuuttuja, vahinkomuuttujaa ei tuplata, vaan se heitetään normaalisti ja lisätään vahinkoon.
 
-Lävistettyä kohdetta ei voida parantaa ennen kuin lävistävä ase on poistettu, jos se on veistä suurempi. Pienet esineet, kuten nuolenkärjet tai luodit, voidaan jättää haavaan, vaikka tämä voi aiheuttaa komplikaatioita myöhemmin pelinjohtajan harkinnan mukaan. Jos kohde on lävistetty aseella kuten keihäällä tai miekalla, aina kun kohde liikkuu merkittävästi, hän ottaa puolet aseen vahinkoheitosta (heitä uudelleen, ilman vahinkomuokkaajaa tai panssarin suojaa) (samaa osumakohtaa, jos käytetään), koska ulkoneva ase tarttuu lähellä oleviin pintoihin, liikkuu niiden sisällä ja leventää haavaa jne.
+Lävistävä ase on edelleen juuttuneena kohteen kehoon, kunnes se poistetaan. Jos ase on käsiase, hyökkääjä voi välittömästi yrittää *Vaikeaa* asemallin heittoa kyseisellä lävistävällä aseella. Jos heitto onnistuu, hyökkääjä voi vetää aseen ulos heti lävistyshyökkäyksen osuttua. Muussa tapauksessa ase jää kiinni kohteen kehoon.
 
-Lävistetyn kohteen, joka yrittää poistaa aseen, on tehtävä vastustusheitto STR vs. aseen tähän mennessä aiheuttama vahinko. Onnistuminen tarkoittaa, että ase on vapautunut ja on kohteen käsissä, kun taas epäonnistuminen tarkoittaa, ettei hän pysty vapauttamaan sitä kyseisellä taistelukierroksella ja hän ottaa 1D3 ylimääräistä osumapistettä vahinkoa (samaa osumakohtaa, jos käytetään) toiminnan seurauksena. Tämä toiminto vie täyden kierroksen ja päättyy siihen, että kohde pitelee asetta, joka aiemmin lävisti hänet.
+Jos hyökkääjän ase on yhä haavassa ja hyökkääjä haluaa sen takaisin, hänen on yritettävä noutaa ase. Tässä tapauksessa hyökkääjän on keskityttävä aseen vetämiseen irti haavasta. Tämä nostaa noutamisen onnistumismahdollisuuden hyökkääjän täyteen asemallin arvoon, mutta kaikki hyökkääjään kohdistuvat hyökkäykset lasketaan *Helpoiksi*, ja hän ei luonnollisestikaan voi torjua tai väistää yrittäessään irrottaa asettaan kohteesta.
 
-Pelinjohtaja voi asettaa lisävaikeuksia tai puolittaa tehollisen STR:n, jos lävistävä ase on paikassa, josta se on vaikea tavoittaa tai se on muuten saavuttamattomissa, kuten selässä.
+Heittoaseiden, kuten keihäiden, tikarien tai jopa nuolien kohdalla, hyökkääjän on lähestyttävä kohdetta ja onnistuttava *Vaikeassa* Ketteryys-heitossa saadakseen aseesta kiinni. Mahdollisuus poistaa ase seuraavilla kierroksilla on hyökkääjän täysi taito, jos hyökkääjä haluaa jättää kyseisen kierroksen hyökkäykset huomiotta ja keskittyä aseen noutamiseen, kuten edellä on kuvattu.
 
-Toinen tapa käsitellä lävistävää asetta on rikkoa tai vahingoittaa sitä niin, ettei se aiheuta enempää haittaa, mutta se voidaan poistaa myöhemmin. Tämä tehdään yleensä nuolten kohdalla poistamalla varret, jotta ne eivät enää haittaa. Aseesta ja sen vahingoittamistavasta riippuen tämä vaatii joko haavoittuneen kohteen STR:n vastustusheiton aseen osumapisteitä vastaan tai suoran hyökkäyksen itse asetta vastaan.
+Lävistettyä kohdetta ei voida parantaa ennen kuin lävistävä ase on poistettu, mikäli se on veistä suurempi. Pienet esineet, kuten nuolenkärjet tai luodit, voidaan jättää haavaan, vaikka tästä voi myöhemmin seurata komplikaatioita pelinjohtajan harkinnan mukaan. Jos kohde on lävistetty keihään tai miekan kaltaisella aseella, aina kun kohde liikkuu merkittävästi, hän ottaa puolet aseen vahinkoheitosta (heitä uudelleen, ilman vahinkomuuttujaa tai panssarisuojaa) uudelleen (samaaan osumakohtaan, jos käytössä) koska ulkoneva ase tarttuu lähellä oleviin pintoihin, liikkuu niiden sisällä ja leventää haavaa, jne.
 
-Taistelun ulkopuolella lävistävän aseen poistamisyritys on *Helppoa*, joko vastustusheitolla tai Ensiapua käyttäen.
+Kohteen, joka on lävistetty aseella ja joka yrittää poistaa sen, on tehtävä vastustustarkistus omalla VOI-arvollaan aseen tähän mennessä aiheuttamaa vahinkoa vastaan. Onnistuminen tarkoittaa, että ase on irronnut ja on kohteen käsissä, kun taas epäonnistuminen tarkoittaa, ettei hän kykene irrottamaan sitä kyseisellä taistelukierroksella ja hän ottaa ylimääräiset 1D3 osumapistettä vahinkoa (samaaan osumakohtaan, jos käytössä) toiminnan seurauksena. Tämä toiminto vie koko kierroksen ja päättyy siihen, että kohde pitelee asetta, joka hänet aiemmin lävisti.
 
-#### Tyrmäys (Knockback)
+Pelinjohtaja voi asettaa lisävaikeuksia tai puolittaa tehollisen VOI-arvon, jos lävistävä ase on asennossa, johon on vaikea ylettyä tai joka on muuten saavuttamattomissa, kuten selässä.
 
-Erikoisonnistuminen aseettomalla heitolla tai kilpihyökkäyksellä on tyrmännyt kohteen. Heitettyä kokonaisvahinkoa (ennen panssarin vähentämistä) verrataan kohteen SIZ:iin vastustusheitossa. Pelinjohtaja voi laskea kohteen tehollisen SIZ:n vastaamaan maan epätasaisuutta, kaltevuutta tai kohteen tilaa (väsynyt, tyrmätty jne.). Jos epäonnistut, kohde tyrmätään metrin taaksepäin jokaista 5 vahinkopistettä kohden (ennen panssaria), ja hyökkääjän on jälleen lähestyttävä ja sitouduttava lähitaisteluun, jos hänet oli aiemmin heitetty pois lähitaisteluetäisyydeltä. Jos tyrmätty kohde osuu tiellään olevaan esteeseen, hän ottaa 1D6 vahinkoa jokaista kolmea metriä tai sen osaa kohden, joka hänellä on vielä jäljellä. Kohteen on myös tehtävä onnistunut Ketteryys-heitto tai kaaduttava maahan (katso **Kaatuminen**).
+Toinen tapa käsitellä lävistävää asetta on rikkoa tai vaurioittaa sitä niin, ettei se aiheuta lisähaitaa, mutta voidaan poistaa myöhemmin. Tämä tehdään yleensä nuolien kohdalla poistamalla varret, jotta ne eivät enää haittaa. Aseesta ja vaurioittamismenetelmästä riippuen tämä vaatii joko vastustustaulukon heiton haavoittuneen kohteen VOI-arvon ja aseen osumapisteiden välillä tai suoran hyökkäyksen itse asetta vastaan.
 
-Jos kohde voittaa vastustusheiton, häntä ei siirretä, ja jos hänen SIZ:nsä on korkeampi kuin hyökkääjän SIZ, hyökkääjä horjuu metrin taaksepäin.
+Taistelun ulkopuolella kaikki yritykset poistaa lävistävä ase ovat *Helppoja*, joko vastustustarkistuksella tai Ensiapua käyttäen.#### Työntö
 
-### Taisteleminen puolustavasti
+Aseeton heitto tai kilpihyökkäys, joka onnistuu erityisesti, on työntänyt kohteen taaksepäin. Heitettyä kokonaisvahinkoa (ennen panssarin vähentämistä) verrataan kohteen KOK-arvoon vastustusheitossa. Pelinjohtaja voi laskea kohteen tehollista KOK-arvoa heijastaakseen maaston epätasaisuutta, kaltevuutta tai kohteen tilaa (uupunut, tyrmistynyt jne.). Jos vastustusheitto epäonnistuu, kohde työntyy taaksepäin yhden metrin jokaista viittä vahinkopistettä kohden (ennen panssaria), ja hyökkääjän on jälleen kurottava umpeen välimatka ja käytävä kohteeseen käsiksi lähitaistelussa, jos hänet oli aiemmin työnnetty ulos lähitaisteluetäisyydeltä. Jos työnnettävä kohde osuu matkallaan esteeseen, hän ottaa 1D6 vahinkoa jokaista kolmea metriä tai niiden osaa kohden, joka hänellä oli matkaa jäljellä. Kohteen on myös onnistuttava Ketteryys-heitossa tai hän kaatuu maahan (katso **Maassa**).
 
-Jos hahmosi luopuu kaikista hyökkäyksistä kierroksella taistellakseen puolustavasti, hän voi korvata yhden ilmaisen Väistö-yrityksen hyökkäyksellään ja voi jatkaa väistö- tai torjuntayrityksiä. Normaalisti jokainen seuraava Väistö- tai torjuntayritys on kumulatiivisesti –30 % muokattu, mutta taistellessaan puolustavasti hahmosi voi korvata Väistö-taidon yrityksen hyökkäyksellä ilman, että se aiheuttaa –30 % rangaistusta. Jos hän on jo tehnyt Väistö-yrityksiä ja torjuntoja ja on negatiivisella muokkauksella, muokkaus ei kasva. Se on käytännössä ilmainen Väistö-yritys, joka ei aiheuta rangaistusta seuraavalle väistö- tai torjuntayritykselle.
+Jos kohde voittaa vastustusheiton, häntä ei siirretä, ja jos hänen KOK-arvonsa on suurempi kuin hyökkääjän KOK, hyökkääjä horjuu taaksepäin yhden metrin.
 
-Ainoa rajoitus tässä tapauksessa on se, ettei hahmosi voi väistää ja torjua samalla DEX-arvolla. Jos hahmosi voi normaalisti tehdä useita hyökkäyksiä kierroksella (kuten jos taito on yli 100 %), hän voi tehdä toisen ilmaisen Väistön tai torjunnan ilman kumulatiivista rangaistusta.
+### Puolustautuva taistelu
 
-Missään tapauksessa taisteleminen puolustavasti ei voi yhdistyä mihinkään hyökkäykseen tai hyökkäävään toimintaan, kuten **Epätoivoinen toiminta**.
+Jos hahmosi jättää kaikki hyökkäykset väliin yhdellä vuorolla taistellakseen puolustautuen, hän voi korvata yhden ilmaisen Väistö-yrityksen hyökkäyksellään ja voi jatkaa väistö- tai torjuntayritysten tekemistä. Normaalisti jokainen seuraava Väistö- tai torjuntayritys saa kumulatiivisen –30 % muuttujan, mutta taistellessaan puolustautuen hahmosi voi korvata Väistö-taitoheiton hyökkäyksellä ilman –30 % rangaistusta. Jos hahmo on jo tehnyt Väistö-yrityksiä ja torjuntoja ja on negatiivisella muuttujalla, muuttuja ei kasva. Periaatteessa kyseessä on ilmainen Väistö-yritys, joka ei aiheuta rangaistusta seuraavaan väistö- tai torjuntayritykseen.
 
-### Taistelun mokat
+Ainoa rajoitus tässä tapauksessa on se, että hahmosi ei voi Väistää ja torjua saman KET-tason aikana. Jos hahmosi voi normaalisti tehdä useita hyökkäyksiä vuorossa (kuten hahmolla, jonka taito on yli 100 %), hän voi tehdä toisen ilmaisen Väistön tai torjunnan ilman kumulatiivista rangaistusta.
 
-Taistelun mokat ovat valitettavia tapahtumia tai onnettomuuksia, jotka johtuvat huonosta onnesta tai kokemattomuudesta. Kun heitetään moka, heitä D100 asiaankuuluvalla taulukolla ja sovella tulosta. Pelinjohtaja heittää ei-pelaajahahmojen puolesta. Jos heiton tulos on sopimaton, pelinjohtajan tulee mukauttaa se järkeväksi tai heittää uudelleen.
+Puolustautuvaa taistelua ei missään olosuhteissa voi yhdistää mihinkään hyökkäykseen tai hyökkäävään toimintoon, edes **Epätoivoiseen toimintoon**.
 
-Mokataulukoita on neljä; käytä toimintoon parhaiten sopivaa. Vaikka **Luonnollisen hyökkäyksen ja torjuntojen taulukko** on tarkoitettu ohjaamaan älykkäiden humanoidien toimintaa, harkinnan mukaan se voi olla hyödyllinen myös luonnollisille eläimille kuten karhuille, susille jne. Jälleen pelinjohtajaa kannustetaan mukauttamaan tai heittämään uudelleen epätodennäköisiä tuloksia.
+### Taistelun kömmähdykset
 
-Jotkut aseet voivat kärsiä **toimintahäiriön**. Nämä tapahtuvat mokien lisäksi, jos heiton tulos menee päällekkäin moka- ja toimintahäiriöalueiden kanssa (katso **Toimintahäiriöt**).
+Taistelun kömmähdykset ovat valitettavia tapahtumia tai vahinkoja, jotka johtuvat huonosta onnesta tai kokemattomuudesta. Kun kömmähdys heitetään, heitä D100 asianmukaisesta taulukosta ja sovella tulosta. Pelinjohtaja heittää ei-pelaajahahmojen puolesta. Jos heiton tulos on sopimaton, pelinjohtajan tulee mukauttaa se järkevään muotoon tai heittää uudelleen.
 
-> ### Vaihtoehtoiset taistelusäännöt (Valinnaiset säännöt)
+On olemassa neljä kömmähdystaulukkoa; käytä toimintoon parhaiten sopivaa. Vaikka **Luonnollisen aseen hyökkäys- ja torjuntataulukko** on tarkoitettu ohjaamaan älykkäiden humanoidien toimintaa, harkinnan mukaan se voi olla hyödyllinen myös luonnollisille eläimille, kuten karhuille, susille jne. Jälleen kerran pelinjohtajaa kannustetaan mukauttamaan tai heittämään uudelleen epätodennäköiset tulokset.
+
+Jotkin aseet voivat **toimia virheellisesti**. Nämä tapahtuvat kömmähdysten lisäksi, jos heiton tulos osuu päällekkäin kömmähdys- ja virhetoimintoväleihin (katso **Virhetoiminnot**).
+
+> ### Vaihtoehtoiset taistelusäännöt (Valinnainen)
 > 
-> Nämä valinnaiset säännöt muuttavat taistelua simuloidakseen paremmin eri genrejen taisteluita, sisältäen joitakin suosituksia ja neuvoja siitä, miten nämä säännöt vaikuttavat pelattavuuteen.
+> Nämä valinnaiset säännöt muokkaavat taistelua simuloimaan paremmin eri genrejen taisteluita, sisältäen suosituksia ja neuvoja siitä, miten nämä säännöt vaikuttavat pelattavuuteen.
 > 
-> #### Hyökkäykset ja torjunnat yli 100 % (Vaihtoehto)
+> #### Hyökkäykset ja torjunnat yli 100 % (Valinnainen)
 > 
-> Hahmosi taitotasot voivat olla yli 100 %, mikä mahdollistaa suuremmat mahdollisuudet kriittisiin tuloksiin, erikoisonnistumisiin ja taistelutaidoilla useisiin hyökkäyksiin kierroksella.
+> Hahmosi taitotasot voivat olla yli 100 %, mikä mahdollistaa suuremmat mahdollisuudet kriittisiin tuloksiin, erityisiin onnistumisiin ja taistelutaitojen kohdalla useisiin hyökkäyksiin vuorossa.
 > 
-> Vähintään 100 % taistelutaitotaso antaa hahmollesi mahdollisuuden jakaa hyökkäyksensä useisiin hyökkäyksiin, vaikka jokaisen hyökkäyksen on oltava vähintään 50 %. Näiden summien ei tarvitse olla yhtä suuria. ***Esimerkiksi,*** *101 % taitotasolla hahmosi voi jakaa hyökkäykset yhteen 51 % ja yhteen 50 % hyökkäykseen. 151 % taitotasolla hahmosi voi jakaa hyökkäykset kahteen 75 % ja 76 % hyökkäykseen, yhteen 92 % ja toiseen 59 % hyökkäykseen, tai kolmeen 50 %, 50 % ja 51 % hyökkäykseen jne. Et voi luoda murtolukuja ja pyöristää ylöspäin – määritä kaikki taitotasot hyökkäyksille.*
+> Vähintään 100 % taistelutaitoluokitus antaa hahmollesi mahdollisuuden jakaa hyökkäyksensä useiksi hyökkäyksiksi, vaikka jokaisen hyökkäyksen on oltava vähintään 50 %. Näiden summien ei tarvitse olla yhtä suuria. ***Esimerkiksi*** *101 % taitoluokituksella hahmosi voi jakaa hyökkäykset yhteen 51 % hyökkäykseen ja yhteen 50 % hyökkäykseen. 151 % taitoluokituksella hahmosi voi jakaa hyökkäykset kahteen 75 % ja 76 % hyökkäykseen, yhteen 92 % ja toiseen 59 % hyökkäykseen tai kolmeen 50 %, 50 % ja 51 % hyökkäykseen jne. Et voi luoda murtolukuja ja pyöristää ylöspäin – jaa koko taitoluokitus hyökkäyksille.*
 > 
-> Hahmosi voi sitten tehdä erillisiä hyökkäyksiä samalla aseella ratkaisten jokaisen käyttämällä yhtä jaetuista taitotasoista. Ensimmäisen hyökkäyksen DEX-arvo on normaali; toisen hyökkäyksen 5 DEX-arvoa matalampi; kolmannen 5 DEX-arvoa sen jälkeen jne. Jos tämä laskee hyökkäyksen DEX-arvoon 0 tai alle, sitä ei voi yrittää.
+> Hahmosi voi tämän jälkeen tehdä erillisiä hyökkäyksiä samalla aseella ratkaisten jokaisen käyttämällä yhtä jaetuista taitoluokituksista. Ensimmäisen hyökkäyksen KET-taso on normaali; toisen KET-taso on 5 KET-tasoa matalampi; kolmannen 5 KET-tasoa sen jälkeen, jne. Jos tämä laskee hyökkäyksen KET-tasolle 0 tai sen alle, sitä ei voi yrittää.
 > 
-> **Yli 100 % taitotaso** tarjoaa tietoa siitä, miten hahmosi voi saavuttaa yli 100 % taitotasot.
+> **Yli 100 % taitotaso** tarjoaa tietoa siitä, miten hahmosi voi saavuttaa yli 100 % taitotasoja.
 > 
-> #### Etäaseiden väistäminen (Vaihtoehto)
+> #### Ampuma-aseiden väistäminen (Valinnainen)
 > 
-> Normaalisti hahmosi voi väistää etäaseita vain rangaistuksella tai ei ollenkaan (katso **Väistö**), mutta sankarillisemmassa pelissä hahmosi voi väistää täydellä taitotasollaan, olettaen että hänellä on mahdollisuus nähdä hyökkääjä ja väistyä tieltä. Tämä voi jopa sisältää aluehyökkäysten väistämisen.
+> Normaalisti hahmosi voi väistää ammuksia vain rangaistuksella tai ei ollenkaan (katso **Väistö**), mutta sankarillisemmassa pelissä hahmosi voi Väistää täydellä taitoluokituksellaan, olettaen että hänellä on mahdollisuus nähdä hyökkääjä ja väistää tieltä. Tämä voi sisältää jopa aluehyökkäysten väistämisen.
 > 
-> Lisäksi hahmosi voi yrittää torjua etäaseita käsiaseilla. Erikois- tai kriittinen onnistuminen vaaditaan etäaseen torjumiseen käsiaseella, ja jos tulos on normaali onnistuminen tai epäonnistuminen, hyökkäys osuu automaattisesti hahmoosi.
+> Lisäksi hahmosi voi yrittää torjua ammuksia käsiaseilla. Ammuksen torjuminen käsiaseella vaatii erityisen tai kriittisen onnistumisen, ja jos tulos on normaali onnistuminen tai jopa epäonnistuminen, hyökkäys osuu hahmoosi automaattisesti.
 > 
-> Hahmosi voi myös yrittää napata etäaseen, kuten nuolen, keihään tai muun heittoaseen erikois- tai kriittisellä onnistumisella Ketteryys- tai Heittotaitotarkistuksella. Tässä tapauksessa hahmosi on napannut aseen ja välttänyt vammat, ja voi hävittää sen tai käyttää sitä taistelussa parhaaksi näkemällään tavalla. Jos heitto onnistuu, mutta ei ole erikois- tai kriittinen onnistuminen, hahmosi ei ole napannut sitä, mutta on vahingoittumaton. Jos heitto epäonnistuu, hahmosi on tehtävä onnistunut Onni-tarkistus välttääkseen vammautumisen, muuten hän ottaa etäaseen normaalin heitetyn vahingon. Jos heitto on moka, hahmosi ottaa automaattisesti etäaseen heitetyn vahingon (käteen/käsivarteen, jos käytetään osumakohtia). Panssarin suoja on sallittu tätä hyökkäystä vastaan.
+> Hahmosi voi myös yrittää napata ammuksen, kuten nuolen, keihään tai muun heittoaseen, erityisellä tai kriittisellä onnistumisella Ketteryys- tai Heitto-taitoheitolla. Tässä tapauksessa hahmosi on napannut aseen ja välttänyt vahingon, ja voi hävittää sen tai käyttää sitä taistelussa parhaaksi katsomallaan tavalla. Jos heitto onnistuu, mutta kyseessä ei ole erityinen tai kriittinen onnistuminen, hahmosi ei ole napannut sitä, mutta on vahingoittumaton. Jos heitto epäonnistuu, hahmosi on tehtävä onnistunut Onni-heitto välttääkseen vahingoittumisen, muuten hän ottaa ammuksen normaalin heitetyn vahingon. Jos heitto on kömmähdys, hahmosi ottaa automaattisesti ammuksen heitetyn vahingon (käteen/käsivarteen, jos käytössä on osumakohtia). Panssarisuoja on sallittu tätä hyökkäystä vastaan.
 > 
-> Hahmosi voi myös torjua nopeita etäaseita (nuolia, luoteja jne.) vapaasti kilvillä, yrittäen Spot-tarkistusta etukäteen. Jos tarkistus onnistuu, hahmosi voi torjua vapaasti kilvellään täydellä taitotasolla. Jos Spot-tarkistus epäonnistuu, torjuntaheitto on Vaikea, tai taitotaso palautuu kohdassa Kilvet ja etäaseet annettuihin perusmahdollisuuksiin.
+> Hahmosi voi myös torjua suuren nopeuden ammuksia (nuolet, luodit jne.) vapaasti kilvillä, yrittäen ensin Huomio-heittoa. Jos heitto onnistuu, hahmosi voi torjua vapaasti kilvellään täydellä taitoluokituksella. Jos Huomio-heitto epäonnistuu, torjuntaheitto on Vaikea tai taitoluokitus palautuu oletusarvoihin, jotka on annettu kohdassa Kilvet ja ammusisku.
 > 
-> #### Viimeiset iskut (Vaihtoehto)
+> #### Kuolemanisku (Valinnainen)
 > 
-> Kyky iskeä viimeisen kerran viholliseen, huolimatta kohtalokkaasta haavasta, voi olla dramaattinen ja sankarillinen loppu hahmollesi, jos hän on kuolettavasti haavoittunut, tai vastustajan pelottava viimeinen isku. Kuolettavan iskun kohde (katso Vahinko ja parantuminen) voi yrittää yhden ylimääräisen taistelutoiminnon, jos hän tekee onnistuneen Kestävyys-heiton. Tämän toiminnon on tapahduttava seuraavalla käytettävissä olevalla DEX-arvolla, jolla hän kykenee toimimaan, tai jos myöhemmin, hänen on tehtävä ylimääräinen Kestävyys-heitto jokaisella kierroksella, jona viimeinen isku siirtyy. Epäonnistuminen missä tahansa näistä heitoista johtaa kuolemaan ennen viimeisen iskun suorittamista.
+> Mahdollisuus lyödä vielä kerran vihollista, kohtalokkaasta haavasta huolimatta, voi olla dramaattinen ja sankarillinen loppu hahmollesi, jos hän haavoittuu kuolettavasti, tai vihatun vastustajan musertava viimeinen isku. Kuolemaan johtavan iskun kohde (katso Vahinko ja parantuminen) voi yrittää yhtä ylimääräistä taistelutoimintoa, jos hän tekee onnistuneen Kestävyys-heiton. Tämän toiminnon on tapahduttava seuraavalla vapaalla KET-tasolla, jolloin hän voi toimia, tai jos se tapahtuu myöhemmin, hänen on tehtävä ylimääräinen Kestävyys-heitto jokaisesta vuorosta, jolloin kuolemanisku lykkääntyy. Minkä tahansa näiden heittojen epäonnistuminen johtaa kuolemaan ennen kuin kuolemanisku ehtii tapahtua.
 > 
-> Pelinjohtajaa kannustetaan antamaan hahmon viimeinen isku suoritettavaksi täydellä taitotasolla, vähennettynä mahdollisilla tilannekohtaisilla muokkauksilla, kuten maahan kaatumisella. Pelinjohtajan harkinnan mukaan viimeisen iskun ei tarvitse olla taistelutoiminto, vaan se voi olla voiman, taidon tai jopa arkisen toiminnon viimeinen käyttökerta. On suositeltavaa, että viimeinen toiminto on vain yksinkertainen ja suora tehtävä. Viimeisten sanojen lausuminen toiselle hahmolle on viimeinen toiminto ja vaatii onnistuneen Onni-heiton jokaisesta asiaankuuluvasta tiedonmurusta.
+> Pelinjohtajaa kannustetaan sallimaan hahmon kuolemanisku täydellä taitoluokituksella, miinus tilannekohtaiset muuttujat, kuten maassa oleminen. Pelinjohtajan harkinnan mukaan kuolemaniskun ei tarvitse olla taistelutoiminto, vaan se voi olla viimeinen voiman, taidon tai jopa arkisen toiminnon käyttö. On suositeltavaa, että kuolemanisku on vain yksinkertainen ja suora tehtävä. Viimeisten sanojen lausuminen toiselle hahmolle on kuolemanisku, ja se vaatii onnistuneen Onni-heiton jokaisesta asiaankuuluvasta tiedonmurusta.
 > 
-> Kun viimeinen isku on suoritettu tai toiminto tehty, hahmo siirtyy välittömästi rajan taakse suoritettuaan viimeisen velvollisuutensa maailmassa. Tällaisessa tapauksessa pelinjohtaja voi päättää, että myöhempi lääkärinhoito epäonnistuu automaattisesti. Viimeinen isku oli sankarillisen kuoleman tai konnamaisen lopun viimeinen sinetti.
+> Kun kuolemanisku on suoritettu tai kuolemaniskuun liittyvä toiminto tehty, hahmo siirtyy välittömästi pois suoritettuaan viimeisen velvollisuutensa maailmassa. Tällaisessa tapauksessa pelinjohtaja voi päättää, että lääketieteellinen apu sen jälkeen epäonnistuu automaattisesti. Kuolemanisku oli lopullinen huipentuma sankarilliselle kuolemalle tai konnamaiselle lopulle.
 > 
-> Tämä järjestelmä korvaa **Epätoivoinen toiminta** -sääntömerkin.
+> Tämä järjestelmä korvaa **Epätoivoisen toiminnon** sääntöpoikkeaman.
 
 ## Panssari
 
-Panssari on perinteisesti vaatetus, joka on riittävän paksua ja kestävää suojaamaan hyökkäyksiltä. Historiallisesti se valmistettiin aikakaudelle sopivista nahasta, luusta, puusta ja metallista. Nykyaikana panssari valmistetaan keraamisista ja ballistisista kuiduista, kevyistä metalleista ja muista kestävistä muovipohjaisista aineista, ja tulevaisuudessa panssari valmistetaan todennäköisesti vastaavista korkean teknologian materiaaleista tai jopa energiapohjaisesta suojauksesta. Vaikka sen kantaminen voi aiheuttaa väsymystä, perinteinen panssari ei vaadi taitotarkistusta tai ponnistelua sen hyödyntämiseksi. Jos hyökkäystä ei torjuta tai väistetä, panssari on ainoa asia hahmosi ja vamman välillä.
+Panssari on perinteisesti vaatetus, joka on tarpeeksi paksua ja kestävää suojaamaan hyökkäyksiltä. Historiallisesti se valmistettiin nahasta, luusta, puusta ja metallista, jotka sopivat kyseiseen aikakauteen. Nykypäivän maailmassa panssari valmistetaan keraamisista ja ballistisista kuiduista, kevytmetalleista ja muista kestävistä muovipohjaisista aineista, ja tulevaisuuden aikakausilla panssarit valmistetaan todennäköisesti vastaavista korkean teknologian materiaaleista tai jopa energiapohjaisesta suojasta. Vaikka sen kantaminen voi aiheuttaa väsymystä, perinteinen panssari ei vaadi taitoheittoa tai vaivaa sen käyttämiseksi. Jos hyökkäystä ei torjuta tai väistetä, panssari on kaikki, mikä on hahmosi ja vammojen välissä.
 
-Panssarin tärkein ominaisuus on sen **panssariarvo (AV)**. Mitä korkeampi panssariarvo, sitä paremmin se suojaa kantajaansa. Panssariarvo vähennetään onnistuneen hyökkäyksen aiheuttamasta vahingosta. Hyökkäyksen kohteena olevalta poistetaan jäljelle jäävä vahinko osumapisteistä. Jos panssariarvon vähentämisen jälkeen tulos on 0 tai negatiivinen luku, vahinkoa ei oteta.
+Panssarin tärkein ominaisuus on sen **panssariarvo (PA)**. Mitä korkeampi panssariarvo, sitä paremmin se suojaa kantajaansa. Panssariarvo vähennetään onnistuneen hyökkäyksen aiheuttamasta vahingosta. Hyökkäyksen kohteen jäljelle jäävä vahinko poistetaan osumapisteistä. Jos panssariarvon vähentämisen jälkeen tulos on 0 tai negatiivinen luku, vahinkoa ei tapahdu.
 
-Joitakin panssarityyppejä voidaan kerrostaa toistensa päälle suuremman tehokkuuden saavuttamiseksi. Kun käytetään myös kilpiä, onnistunut kilpitorjunta ei välttämättä riitä pysäyttämään iskua, ja hyökkäyksen aiheuttama vahinko voi mahdollisesti läpäistä kilven panssariarvon ja osua sen kantajaan. Näissä tapauksissa sekä kilven että panssarin panssariarvot vähennetään ennen kuin torjuva hahmo ottaa vahinkoa.
+Jotkin panssarityypit voidaan kerrostaa toistensa päälle tehokkuuden lisäämiseksi. Missä käytetään myös kilpiä, onnistunut kilpitorjunta ei ehkä riitä pysäyttämään iskua, ja hyökkäyksen vahinko voi mahdollisesti läpäistä kilven panssariarvon ja osua sen kantajaan. Näissä tapauksissa sekä kilven että panssarin panssariarvot vähennetään ennen kuin torjuva hahmo ottaa vahinkoa.
 
 ### Panssarin haitat
 
-Kaikista eduista huolimatta panssarin käyttämisessä on kielteisiä puolia. Seuraavat ovat merkittävimmät, vaikka pelinjohtaja saattaa haluta korostaa joitakin enemmän kuin toisia, vähentää joidenkin näiden näkökohtien merkitystä tai jopa ottaa käyttöön uusia olosuhteita ympäristöstä riippuen:
+Kaikista eduista huolimatta panssarin kantamisessa on negatiivisia puolia. Seuraavat ovat merkittävimmät, vaikka pelinjohtaja saattaa haluta korostaa joitakin enemmän kuin toisia, vähentää näiden näkökohtien painoarvoa tai jopa esitellä uusia olosuhteita asetelman perusteella:
 
-* **Taitorangaistukset:** Panssari voi haitata tiettyjä taitoja, erityisesti Fyysisen taitoryhmän taitoja, kuten Kiipeäminen, Hyppy, Hiipiminen ja Uinti. Lisäksi kypärän käyttäminen voi rajoittaa tiettyjä Havaintotaitoja. Jotkin luvun Kahdeksan: Varusteet panssarikuvaukset sisältävät negatiivisia muokkauksia näihin taitoihin. Asetaidot eivät kärsi panssarin käyttämisestä, sillä panssari on valmistettu erityisesti taistelussa käytettäväksi.
-* **Fyysinen epämukavuus:** Panssari on painavaa, epämukavaa ja joustamatonta, tai ainakin enemmän kuin normaalivaatteet, ja panssarin paino voi väsyttää ja/tai kuormittaa käyttäjäänsä. Väsymys ja Kuormitus kattavat kömpelyyden tai panssarin käyttämisestä johtuvan uupumuksen. Aavikolla tai muissa kuumissa ympäristöissä panssari voi olla vielä epämukavampi (katso **Kylmyys, altistuminen, nälkä ja jano** ja **Tuli ja kuumuus**).
-* **Sosiaaliset ongelmat:** Monet panssarityypit ovat vaikeasti kätkettävissä ja ne voidaan tulkita vihamielisiksi monissa yhteiskunnissa tai kulttuureissa. Jotkut Kommunikaatiotaidot voivat muuttua Vaikeiksi tilanteesta riippuen, sillä on usein vaikeaa suostutella tai manipuloida jotakuta näyttäen siltä, että on valmis väkivaltaan. Muut Kommunikaatiotaidot voivat muuttua Helpoiksi samasta syystä. Pelinjohtajan tulee arvioida nämä tilanteet.
-* **Saatavuus:** Kaksi muuta käytännön näkökohtaa rajoittavat panssarin käyttöä pelimaailmassa: panssarin saatavuus ja se, sopiiko se hahmolle. Saatavuutta tulisi pelinjohtajan arvioida ympäristön perusteella. Esimerkiksi laadukas postipaita voi olla kallis mutta suhteellisen helppo saada historiallisessa keskiaikaisessa ympäristössä, kun taas käytännöllinen ja käyttökelpoinen postipaita voi olla lähes mahdoton löytää esihistoriallisessa tai kaukaisen tulevaisuuden ympäristössä. Joissakin ympäristöissä saatavuus voi tuntua rajattomalta (esim. nykymaailma), ja panssarin hankkiminen voi olla yhtä helppoa kuin verkkotilaus. Todennäköisyys sille, että panssari on riittävän laadukas kestämään taistelua, ei kuitenkaan ole taattu, ja toimitusta voivat rajoittaa alueelliset lait ja määräykset.
+* **Taitorangaistukset:** Panssari voi estää tiettyjä taitoja, erityisesti fyysisen taitoryhmän taitoja, kuten Kiipeäminen, Hyppy, Hiipiminen ja Uinti. Lisäksi kypärän käyttö voi rajoittaa tiettyjä Havainto-taitoja. Jotkin panssarikuvaukset luvussa kahdeksan: Varusteet sisältävät negatiivisia muuttujia näihin taitoihin. Asetaidot eivät vaikuta panssarin käyttöön, sillä panssari on suunniteltu erityisesti taistelussa käytettäväksi.
 
-*Luku Kahdeksan: Varusteet* kattaa panssarin erityiset edut ja haitat ja tarjoaa esimerkkejä monista panssarityypeistä, aina raakanahkakaavuista henkilökohtaisiin voimakenttiin. Lisäksi monet voimat voivat muokata hahmosi panssariarvoa. Näitä käsitellään *Luvussa Neljä: Voimat*.
+* **Fyysinen epämukavuus:** Panssari on painava, epämukava ja jäykkä, tai ainakin enemmän kuin tavalliset vaatteet, ja panssarin paino voi väsyttää ja/tai haitata sen kantajaa. Väsymys ja kantokyky kattavat kömpelyyden tai panssarin kantamisesta aiheutuvan uupumuksen. Aavikoilla tai muissa kuumissa ympäristöissä panssari voi olla vielä epämukavampi (katso **Kylmyys, altistuminen, nälkä ja jano** sekä **Tuli ja kuumuus**).
 
-### Panssari ja SIZ
+* **Sosiaaliset ongelmat:** Monet panssarityypit ovat vaikeita piilottaa ja ne voidaan tulkita vihamielisiksi monissa yhteiskunnissa tai kulttuureissa. Jotkin Viestintä-taidot voivat muuttua Vaikeiksi tilanteesta riippuen, sillä on usein vaikeaa suostutella tai manipuloida ketään, kun näyttää olevan valmis väkivaltaan. Muut Viestintä-taidot voivat muuttua Helpoiksi samasta syystä. Pelinjohtajan tulee arvioida nämä tilanteet.
 
-Kaikki panssarit eivät ole kaikkien käytettävissä. Panssari luokitellaan yleensä sen SIZ-arvon mukaan, jolle se on valmistettu, mukavimman panssarin ollessa istuvinta. Löysä ja huonosti istuva panssari on yhtä kömpelöä käyttää kuin liian tiukka panssari. Jokaisella panssarityypillä on "Fits SIZ" -luokitus, joka ilmaistaan ±-merkillä, joka määrittää hahmon SIZ-alueen tietyn panssaripuvun oletus-SIZ:n ylä- ja alapuolella. Oletetaan, että hahmo hankkii oman SIZ-arvonsa mukaisen panssarin, jos hänellä on valinnanvaraa. Jos hahmosi SIZ on panssarin SIZ-alueen ulkopuolella, panssaria ei voi käyttää.
+* **Saatavuus:** Kaksi muuta käytännön näkökohtaa rajoittavat panssarin käyttöä pelimaailmassa: panssarin saatavuus ja se, sopiiko se päälle. Pelinjohtajan tulee arvioida saatavuutta asetelman perusteella. Esimerkiksi laadukas rengaspaita voi olla kallis, mutta suhteellisen helppo hankkia keskiaikaisessa historiallisessa ympäristössä, kun taas käytännöllistä ja käyttökelpoista rengaspaitaa voi olla lähes mahdotonta löytää esihistoriallisessa tai kaukaisen tulevaisuuden ympäristössä. Joissakin ympäristöissä saatavuus voi näyttää rajoittamattomalta (esimerkiksi nykypäivän maailma), ja varsinaisen panssarin hankkiminen voi olla yhtä helppoa kuin verkkotilaus. Se, että panssari on riittävän laadukas kestämään taistelua, ei kuitenkaan ole taattu, ja toimitusta voivat rajoittaa alueelliset lait ja määräykset.
 
-Yleensä mitä korkeampi panssariarvo on, sitä epätodennäköisempää on, että se sopii toisen SIZ-arvon hahmolle. Jos hahmosi SIZ on äärimmäinen johonkin suuntaan (alle 8 tai yli 16), hän ei ehkä pysty käyttämään paljoakaan "valmisvaatteita" (jos niitä on olemassa) ja joutuu maksamaan enemmän mittatilaustyönä tehdystä panssarista tai etsimään vaihtoehtoisia suojavarusteita.
+*Luku kahdeksan: Varusteet* käsittelee kaikki panssarin erityiset edut ja haitat ja tarjoaa esimerkkejä monista panssarityypeistä, raakanahkatunikoista henkilökohtaisiin voimakenttiin. Lisäksi useat voimat voivat muokata hahmosi panssariarvoa. Näitä käsitellään *luku neljässä: Voimat*.
+
+### Panssari ja KOK
+
+Lopuksi, kaikki panssarit eivät ole kaikkien käytettävissä. Panssari luokitellaan yleensä sen KOK-arvon mukaan, jota varten se on valmistettu, ja mukavin panssari on se, joka on istuvin. Väljä ja huonosti istuva panssari on yhtä kömpelöä käyttää kuin liian tiukka panssari. Jokaisella panssarityypillä on ”KOK-istuvuus”-luokitus, joka ilmaistaan ±-merkillä, joka määrittää hahmon KOK-arvon vaihteluvälin panssarin oletus-KOK-arvon ylä- ja alapuolella. Oletetaan, että hahmo omistaa tai ostaa omaan KOK-arvoonsa sopivan panssarin, jos valinnanvaraa on. Jos hahmosi KOK on panssarin KOK-vaihteluvälin ulkopuolella, panssaria ei voi käyttää.
+
+Yleisesti ottaen, mitä korkeampi panssariarvo, sitä epätodennäköisemmin se sopii toisen KOK-arvon hahmolle. Jos hahmollasi on äärimmäinen KOK jompaankumpaan suuntaan (alle 8 tai yli 16), hän ei ehkä pysty käyttämään paljoakaan ”valmiina ostettavia” panssareita (jos niitä on olemassa) ja joutuu maksamaan enemmän mittatilaustyönä valmistetusta panssarista tai etsimään vaihtoehtoisia lähteitä puolustusvarusteille.
 
 ### Kilvet
 
-Helpoin tapa ajatella kilpeä on, että se on ase, jonka ensisijainen tarkoitus on siirtyä hahmosi ja hyökkääjän väliin. Kilvet eivät peitä koko kehoa, mutta ne ovat sekä kevyempiä kuin vartalopanssarit että paljon halvempia ja helpommin hallittavia. Kilvet eivät yleensä menetä osumapisteitä, kun niihin osuu normaali isku, eikä niitä ole kovin helppo lyödä pois puolustajan otteesta. Yleensä vain voimakkaat iskut (erikoisonnistumiset tai paremmat) vahingoittavat kilpeä, ja ainoa tapa menettää se on moka.
+Helpoin tapa ajatella kilpeä on se, että se on ase, jonka ensisijainen tarkoitus on liikkua hahmosi ja hyökkääjän välissä. Kilvet eivät peitä koko kehoa, mutta ne ovat sekä kevyempiä kuin vartalosuojat että paljon halvempia ja helpompia hallita. Kilvet eivät yleensä menetä osumapisteitä, kun niihin osuu normaali isku, eikä niitä ole kovin helppo lyödä irti puolustajan otteesta. Yleensä vain voimakkaat iskut (erityiset onnistumiset tai paremmat) vahingoittavat kilpeä, ja ainoa tapa menettää se on kömmähdys.
 
-Erilaisia kilpiä kuvataan luvussa Kahdeksan: Varusteet. Toisin kuin asetyypit, kaikki kilvet käyttävät samaa Kilpi-taitoa, ja sama taitotaso pätee mihin tahansa käytettyyn kilpeen. Hahmosi torjuu lähitaisteluhyökkäykset kilvellään aivan kuten käsiaseella. Etäaseita vastaan puoli- tai pienellä kilvellä on perus 15 % mahdollisuus torjua ohjus, täydellä kilvellä on 30 % mahdollisuus torjua ohjus ja suurella kilvellä on 60 % mahdollisuus. Jos hahmosi polvistuu sen taakse, täydellä kilvellä on 60 % mahdollisuus torjua ohjus ja suurella kilvellä on 90 % mahdollisuus. Näitä arvoja käytetään hahmosi taitotason sijasta. Katso **Etäaseet** ja **Kilvet ja etäaseet**.
+Eri kilpityypit on kuvattu luvussa kahdeksan: Varusteet. Toisin kuin asetyypit, kaikki kilvet käyttävät samaa Kilpi-taitoa, ja sama taitoluokitus pätee mihin tahansa käytettyyn kilpeen. Hahmosi torjuu lähitaisteluhyökkäyksiä kilvellään samalla tavalla kuin käsiaseella. Ammuksia vastaan puolikkaalla tai pienellä kilvellä on perusarvona 15 % mahdollisuus blokata ammus, täydellä kilvellä 30 % mahdollisuus blokata ammus ja suurella kilvellä 60 %. Jos hahmosi polvistuu sen taakse, täydellä kilvellä on 60 % mahdollisuus blokata ammus ja suurella kilvellä 90 %. Näitä arvoja käytetään hahmosi taitoluokituksen sijasta. Katso **Ammusaseet** ja **Kilvet ja ammusisku**.
 
-Useimmissa tapauksissa kilvet eivät voi tehokkaasti torjua erittäin nopeita etäaseita, kuten ampuma-aseita tai energia-aseita, ja niillä on rajallinen käyttö käsin heitettäviä aseita, kuten nuolia, lingon kiviä ja keihäitä, vastaan. Näissä tapauksissa taitotason sijasta käytetään perusmahdollisuutta, mutta jos se on sallittua, katso **Etäaseiden väistäminen**.
+Useimmissa olosuhteissa kilvet eivät pysty tehokkaasti torjumaan erittäin nopeita ammuksia, kuten tuliaseita tai energia-aseita, ja niistä on rajoitettu hyöty käsin heitettyjä aseita, kuten nuolia, lingon kiviä ja keihäitä, vastaan. Näissä tapauksissa hahmosi taitotason sijasta käytetään oletusmahdollisuutta, mutta jos se on sallittua, katso **Ampuma-aseiden väistäminen**.
 
-Hahmosi voi myös käyttää kilpeä hyökätäkseen vastustajaa vastaan. Mahdollisuus on sama kuin hahmosi Kilpi-taidon taitotaso, sillä kilpikoulutus sisältää yleensä hyökkäävän käytön puolustuksellisen lisäksi. Kilvet käyttävät yleensä tyrmäystä erikoisonnistumisenaan, vaikka joissakin kilvissä on piikkejä ja ne voivat käyttää lävistys-erikoisonnistumisia.
+Hahmosi voi myös käyttää kilpeä vastustajan hyökkäämiseen. Mahdollisuus on sama kuin hahmosi Kilpi-taitoluku, sillä kilpikoulutus sisältää yleensä sekä hyökkäävän että puolustavan käytön. Kilvet käyttävät yleensä erityisenä onnistumisenaan työntöä, vaikka jotkin kilpityypit ovat piikikkäitä ja voivat käyttää lävistäviä erityisiä onnistumisia.
 
-Jos hyökkääjä haluaa tuhota vastustajan torjuvan aseen tai kilven, hänen tulee tehdä hyökkäys normaalisti. Jos kohde ei yritä torjua, hyökkäys on **Tähtätty hyökkäys**. Jos hyökkäys on onnistunut ja se torjutaan onnistuneesti, tai jos hyökkäys osuu onnistuneesti kilpeen tähtättyänä hyökkäyksenä, vahinko heitetään normaalisti (muokattuna, jos se on erikois- tai kriittinen onnistuminen). Kilven panssariarvo vähennetään tehdystä vahingosta. Mahdollinen ylimääräinen vahinko kohdistuu kilpeen. Jos kilven osumapisteet laskevat 0:aan, loput vahingosta iskevät puolustajaan. Panssari suojaa tätä vastaan, ja jos käytetään valinnaista osumakohtajärjestelmää, vahinko kohdistuu puolustajan ase- tai kilpikäteen.
+Jos hyökkääjä haluaa tuhota vastustajan torjuvan aseen tai kilven, hänen tulee tehdä hyökkäys normaalisti. Jos kohde ei yritä torjua, hyökkäys on **Tähtätty hyökkäys**. Jos hyökkäys onnistuu ja se torjutaan onnistuneesti, tai jos hyökkäys osuu onnistuneesti kilpeen tähtättynä hyökkäyksenä, vahinko heitetään normaalisti (muokattuna, jos kyseessä on erityinen tai kriittinen onnistuminen). Kilven panssariarvo vähennetään tehdystä vahingosta. Mahdollinen ylimääräinen vahinko kohdistuu kilpeen. Jos kilven osumapisteet putoavat 0:aan, loput vahingosta osuvat puolustajaan. Panssari suojaa tätä vastaan, ja jos käytetään valinnaista osumakohtajärjestelmää, vahinko kohdistuu puolustajan aseeseen tai kilpikäteen.
 
-> ### Satunnaiset panssariarvot (Vaihtoehto)
+> ### Satunnaiset panssariarvot (Valinnainen)
 > 
-> Joskus panssari on epäluotettava eikä välttämättä suojaa hahmoasi luotettavasti joka kerta, kun häneen taistelussa osuu. Panssarissa on aukkoja, tiloja jotka ovat vähemmän panssaroituja, ja jotkin osat hahmosi kehosta eivät ehkä ole ollenkaan panssaroituja. Kiinteän panssariarvon sijasta satunnainen panssariarvo simuloi tätä arvaamattomuutta noppa-alueella, joka heitetään aina, kun vahinkoa tekevä hyökkäys osuu hahmoosi onnistuneesti. Tämä satunnaisesti määritetty panssariarvo heitetään ja vähennetään mahdollisesta saadusta vahingosta. Panssariarvo heitetään erikseen jokaiselle hahmoosi osuvalle hyökkäykselle, jopa samalla kierroksella. *Luku Kahdeksan: Varusteet* käsittelee panssaria yksityiskohtaisesti ja tarjoaa alueet satunnaisille panssariarvoille. Satunnaista panssariarvoa käyttävissä peleissä suositellaan, että panssari on yleistä eikä osumakohtakohtaista, jotta kunkin kohdan kirjanpito minimoituu.
+> Joskus panssari on epäluotettava eikä se välttämättä suojaa hahmoasi luotettavasti joka kerta, kun häneen osuu taistelussa. Panssarissa on aukkoja, kohtia, jotka ovat vähemmän panssaroituja, ja jotkin hahmosi kehon osat eivät ehkä ole lainkaan panssaroituja. Kiinteän panssariarvon sijaan satunnainen panssariarvo simuloi tätä arvaamattomuutta nopan heittovälillä, joka heitetään aina, kun hahmoosi osuu hyökkäys, joka tekisi vahinkoa. Tämä satunnaisesti määritetty panssariarvo heitetään ja vähennetään kaikesta saadusta vahingosta. Panssariarvo heitetään erikseen jokaiselle hahmoosi osuvalle hyökkäykselle, jopa saman vuoron aikana. *Luku kahdeksan: Varusteet* kattaa panssarin yksityiskohtaisesti ja tarjoaa vaihteluvälejä satunnaisille panssariarvoille. Peleissä, joissa käytetään satunnaista panssariarvoa, suositellaan, että panssari on yleistä eikä osumakohtakohtaista, jotta kirjanpito pysyisi minimissään.
 
-## Etäaseet
+## Ammusaseet
 
-Ase, joka laukaistaan tai heitetään kohteeseen, on **etäase**. Tämä sisältää keihäät, kivet, heittoveitset, bumerangit, tikat tai jopa kirveet. Aseet, jotka käyttävät jonkinlaista mekanismia vahinkoa aiheuttavan elementin heittämiseen kohteeseen, mukaan lukien ampuma-aseet, jouset, katapultit ja jopa energia-aseet, ovat myös etäaseita.
+Ase, joka laukaistaan tai heitetään kohteeseen, on **ammusase**. Tämä sisältää keihäät, kivet, heittoveitset, bumerangit, tikkataulut tai jopa hatšettikirveet. Aseet, jotka käyttävät jonkinlaista mekanismia ampuakseen vahinkoa aiheuttavan elementin kohteeseen, mukaan lukien tuliaseet, jouset, katapultit ja jopa energia-aseet, ovat myös ammusaseita.
 
-Etäaseita kuvataan luvussa Kahdeksan: Varusteet. Jotkin etäaseet, kuten jouset ja varsijouset, hyökkäävät hitaammin kuin hahmosi voi iskeä lähitaisteluaseella, kun taas ampuma-aseet ja muut itseohjautuvat aseet hyökkäävät usein nopeammin. Aseiden taulukoissa oleva hyökkäykset-per-kierros (Attk) -sarake näyttää, kuinka usein hyökkäyksiä voidaan tehdä kullakin etäasetyypillä. Lisääntyneen tulinopeuden (korkeammat hyökkäykset-per-kierros) saamiseksi, katso **Volley-tuli**.
+Ammusaseet on kuvattu luvussa kahdeksan: Varusteet. Jotkin ammusasetyypit, kuten jouset ja varsijouset, hyökkäävät hitaammin kuin hahmosi pystyy heiluttamaan lähitaisteluasetta, kun taas tuliaseet ja muut itseohjautuvat aseet hyökkäävät usein nopeammin. Asetaidot-vuorossa (Attk) -sarake asetaulukoissa osoittaa, kuinka usein hyökkäyksiä voidaan tehdä kunkin tyyppisellä ammusaseella. Suurempaa tulinopeutta varten (korkeampi hyökkäysmäärä vuorossa) katso **Sarjatuli**.
 
-Seuraavassa on etäaseiden etäisyysmuokkaukset:
+Seuraavassa on ammusaseiden etäisyysmuuttujat:
 
-* **Point Blank:** Jos kohde on hyökkääjän DEX/3 metrin säteellä (pyöristä ylöspäin) (vaikka kohde olisi maassa), taito on Helppo.
-* **Normaali etäisyys:** Muokkaamaton, jos kohde on aseen listatun normaalin etäisyyden sisällä.
-* **Keskipitkä etäisyys:** Jos kohde on kaksinkertaisella aseen listatulla etäisyydellä, hyökkäys on Vaikea.
-* **Pitkä etäisyys:** Jos kohde on nelinkertaisella aseen listatulla etäisyydellä, hyökkäys on 1/5 normaalista taitomahdollisuudesta (vastaa erikoisonnistumista, mutta jos se heitetään, tulos on normaali onnistuminen).
+* **Piste-etäisyys:** Jos kohde on hyökkääjän KET/3 metrin säteellä (pyöristä ylöspäin) (vaikka kohde olisi maassa), taito on Helppo.
+
+* **Normaali etäisyys:** Muuttumaton, jos kohde on aseen standardin listatun etäisyyden sisällä.
+
+* **Keskipitkä etäisyys:** Jos kohde on kaksinkertainen aseen standardiin listattuun etäisyyteen, hyökkäys on Vaikea.
+
+* **Pitkä etäisyys:** Jos kohde on nelinkertainen aseen standardiin listattuun etäisyyteen, hyökkäys on 1/5 normaalista taitomahdollisuudesta (vastaa erityistä onnistumista, mutta jos se heitetään, tulos on normaali onnistuminen).
+
 * **Nopeasti liikkuva kohde:** –50 %
-* **Vaikea näkyvyys:** Kevyet varjot –10 %, kevyt sumu –25 %, pimeydessä taidot ovat Vaikeita (katso **Pimeys**).
-* **Kätkeminen:** Jos kohde on suojassa tai osittain kätketty, taidot ovat Vaikeita (katso **Suoja**).
-* **Maassa etäällä:** Jos kohde on maassa kauempana kuin hyökkääjän DEX/3 metriä (pyöristä ylöspäin), hyökkäys on Vaikea.
-* **Tähtäyslaitteet:** Pitkän matkan kiikareiden, tähtäimen, laser-tähtäimen tai muun tähtäysjärjestelmän käyttäminen jakaa etäisyysmuokkaukset 1/2:lla, jos tähtäämiseen käytetään yksi taistelukierros.
-* **Tuki:** Jos ase käyttää kiinteää tukea (kaksijalka tai kolmijalka, suspensor-hihna jne.), lisää +40 % ensimmäiseen hyökkäykseen, jos tähtäämiseen käytetään yksi kierros, sitten +20 % seuraaville kierroksille.
 
-Etäaseiden tulta ei yleensä voi väistää tai torjua käsiaseilla. Ainoa puolustusmenetelmä etäaseiden tulta vastaan on torjua kilvellä, jos ohjus on tarpeeksi hidas nähtäväksi lennossa. Ampuma-aseet ja muut ammukset ovat liian nopeita tähän, kun taas nuolet, keihäät ja muut käsin heitettävät aseet voidaan kaikki torjua kilvellä (katso **Kilvet ja etäaseet**). Jos käytät valinnaista sääntöä etäaseiden väistämiseen ja torjumiseen ilman rajoituksia tai esteitä, katso **Etäaseiden väistäminen**.
+* **Vaikea näkyvyys:** Kevyet varjot –10 %, kevyt sumu –25 %, pimeydessä taidot ovat Vaikeita (katso **Pimeys**).
+
+* **Suojaus:** Jos kohde on suojattu tai osittain piilotettu, taidot ovat Vaikeita (katso **Suoja**).
+
+* **Maassa etäisyydellä:** Jos kohde on maassa etäisyydellä, joka on suurempi kuin hyökkääjän KET/3 metriä (pyöristä ylöspäin), hyökkäys on Vaikea.
+
+* **Tähtäysvarusteet:** Pitkän matkan kiikarien, tähtäimen, laser-tähtäimen tai muun tähtäysjärjestelmän käyttö jakaa etäisyysmuuttujat 1/2, jos tähtäämiseen käytetään yksi taistelukierros.
+
+* **Tuki:** Jos ase käyttää kiinteää tukea (kaksijalka tai kolmijalka, hihna jne.), lisää +40 % ensimmäiseen hyökkäykseen, jos tähtäämiseen käytetään yksi kierros, sitten +20 % seuraaviin kierroksiin.
+
+Ammusaseiden tulta ei yleensä voi väistää tai torjua käsiaseilla. Ainoa tapa puolustautua ammusaseiden tulta vastaan on torjua kilvellä, jos ammus on riittävän hidas nähtäväksi lennossa. Tuliaseet ja muut ammukset ovat liian nopeita tähän, kun taas nuolet, keihäät ja muut käsin heitetyt aseet voidaan kaikki torjua kilvellä (katso **Kilvet ja ammusisku**). Jos käytät valinnaista sääntöä ammusaseiden tulen väistämiseen ja torjumiseen ilman rajoituksia tai esteitä, katso **Ampuma-aseiden väistäminen**.
 
 ## Vahinko & Parantuminen
 
-Osumapisteet mittaavat vammojen määrää, jonka hahmosi voi kestää ja selviytyä. Kun hahmosi menettää osumapisteitä vamman vuoksi, tätä kutsutaan **vahingoksi**. Aloitat osumapisteillä, jotka perustuvat CON- ja SIZ-ominaisuuksiisi, ja näitä vähennetään ottamasi vahingon määrällä. Haavat tai muut vammat, myrkyt, sairaudet ja muut hyökkäysmuodot voivat maksaa hahmollesi osumapisteitä vahingon muodossa. Sinun tulee ruksata menetetyt osumapisteet hahmolomakkeessa näkyvästä nykyisestä osumapistemäärästä ja pitää kirjaa jokaisesta vammasta erikseen. Tai ympyröi nykyinen määrä jokaisen menetyksen perusteella.
+Osumapisteet mittaavat vammojen määrää, jonka hahmosi voi kestää ja selviytyä. Kun hahmosi menettää osumapisteitä vammojen vuoksi, tätä kutsutaan **vahingoksi**. Aloitat osumapisteillä, jotka perustuvat KES- ja KOK-ominaisuuksiisi, ja näitä vähennetään ottamasi vahingon määrällä. Haavat tai muut vammat, myrkyt, sairaudet ja muut hyökkäysmuodot voivat maksaa hahmollesi osumapisteitä vahinkona. Sinun tulee yliviivata menetetyt osumapisteet hahmolomakkeessasi näkyvästä nykyisestä osumapistemäärästä, seuraten jokaista vammaa erikseen. Tai ympyröi nykyinen määrä jokaisen menetyksen perusteella.
 
-Myrkky ja sairaus ovat erityisiä vamman muotoja; ne voivat hyökätä satunnaisesti ja niiden vaikutukset voivat viivästyä. Jotkut maksavat osumapisteitä, kun taas toiset kohdistuvat ominaisuuspisteisiin tai niillä on muita vaikutuksia. Ensiapu- ja Lääkintä-taidot voivat lieventää tai parantaa pieniä haavoja ja vammoja. Erilaiset voimat ja varusteet voivat myös palauttaa osumapisteitä hahmoille.
+Myrkky ja sairaus ovat erityisiä vammoja; ne voivat hyökätä satunnaisesti, ja niiden vaikutukset voivat viivästyä. Jotkut maksavat osumapisteitä, kun taas toiset kohdistuvat ominaisuuspisteisiin tai niillä on muita vaikutuksia. Ensiapu- ja Lääkintä-taidot voivat vähentää tai parantaa pieniä haavoja ja vammoja. Useat voimat ja varusteet voivat myös palauttaa hahmojen osumapisteitä.
 
-Haavat luokitellaan **pieniksi**, **suuriksi** tai **kuolettaviksi**, ja ne kuvataan alla.
+Haavat luokitellaan **pieniksi**, **vakaviksi** tai **kuolemaan johtaviksi**, ja ne on kuvattu alla.
 
 ### Pienet haavat
 
-**Pieni haava** on yksittäinen haava, joka maksaa hahmollesi jopa puolet osumapisteistäsi. Se voi kuvata viiltoa, nyrjähdystä, lievää myrkytystä, pientä murtumaa, lievää aivotärähdystä tai haavaa, joka sulkeutuu pian. Pienet haavat eivät heikennä DEX-arvoa tai vaikuta hahmosi kykyyn ajatella ja taistella.
+**Pieni haava** on yksittäinen vamma, joka maksaa hahmollesi enintään puolet hänen kokonaisosumapisteistään. Se voi kuvata viiltoa, nyrjähdystä, lievää myrkytystä, pientä murtumaa, lievää aivotärähdystä tai haavaa, joka sulkeutuu pian. Pienet haavat eivät heikennä KET:tä tai vaikuta hahmosi kykyyn ajatella ja taistella.
 
-Hahmosi voi saada useita pieniä haavoja samana päivänä. Jos menetetyt osumapisteet yhteensä vastaavat suuren haavan määrää, hahmosi on tehtävä onnistunut Onni-heitto tai hän kaatuu tajuttomaksi. Tämä ei tarkoita, että pienten haavojen summa aiheuttaa suuren haavan: älä heitä **Suurten haavojen taulukkoa** useille pienille haavoille. Se tarkoittaa, että hahmosi on kärsinyt suuren haavan vastineen, mutta hänelle ei ole itse asiassa aiheutettu sellaista. Lisäksi, jos hahmosi kärsii pieniä haavoja niin paljon, että ne laskevat osumapisteet 1 tai 2 pisteeseen, tämä tyrmää hänet jopa tunniksi. Jokainen pieni haava on erillinen haava ja se voidaan käsitellä erikseen lääkärinhoidolla kohdassa **Parantuminen** kuvatulla tavalla.
+Hahmosi voi saada useita pieniä haavoja samana päivänä. Jos menetettyjen osumapisteiden kokonaismäärä vastaa vakavan haavan määrää, hahmosi on tehtävä onnistunut Onni-heitto tai hän menettää tajuntansa. Tämä ei tarkoita, että pienten haavojen summa aiheuttaa vakavan haavan: älä heitä **Vakavien haavojen taulukosta** useiden pienten haavojen kohdalla. Se tarkoittaa, että hahmosi on kärsinyt vakavaa haavaa vastaavan määrän, mutta hänelle ei ole varsinaisesti tullut sellaista. Lisäksi, jos hahmosi kärsii pieniä haavoja niin paljon, että ne laskevat hänet 1 tai 2 osumapisteeseen, tämä tyrmää hänet jopa tunniksi. Jokainen pieni haava on erillinen vamma ja sitä voidaan käsitellä erikseen lääketieteellisellä hoidolla, kuten on kuvattu kohdassa **Parantuminen**.
 
-### Suuret haavat
+### Vakavat haavat
 
-Kun hahmosi on kärsinyt vamman, joka on yhtä suuri tai suurempi kuin puolet hahmon osumapisteiden kokonaismäärästä, hän on kärsinyt **suuren haavan**. Suuren haavan saaminen riskeeraa pysyvän vamman. Kun hahmosi saa suuren haavan, heitä **Suurten haavojen taulukkoa** tai valitse sopiva tulos, jos käytetään osumakohtia. Kuten kohdassa **Osumakohdat** mainitaan, suuret haavat ovat yhteensopimattomia osumakohtien kanssa ilman huomattavaa pelinjohtajan tulkintaa.
+Kun hahmosi on saanut vamman, joka vastaa vähintään puolta hahmon kokonaisosumapisteistä, hän on kärsinyt **vakavan haavan**. Vakavan haavan saaminen riskeeraa pysyvän vamman. Kun hahmosi saa vakavan haavan, heitä **Vakavien haavojen taulukosta** tai valitse sopiva tulos, jos osumakohtia käytetään. Kuten kohdassa **Osumakohdat** on todettu, vakavat haavat eivät ole yhteensopivia osumakohtien kanssa ilman huomattavaa pelinjohtajan tulkintaa.
 
-Suuren haavan vaikutus on välitön. Riippuen hahmosi vammojen vakavuudesta, hän ei ehkä kykene taistelemaan vamman aiheuttamisen kierroksen jälkeen. Katso **Suurten haavojen taulukkoa** saadaksesi lisätietoja tästä.
+Vakavan haavan vaikutus on välitön. Riippuen hahmosi haavojen vakavuudesta, hän ei ehkä pysty taistelemaan loukkaantumisvuoron jälkeen. Katso lisätietoja **Vakavien haavojen taulukosta**.
 
-Vaikka hahmosi saattaa silti kyetä taistelemaan tai on saanut jonkinlaista välitöntä lääkärinhoitoa, jos hän on kärsinyt suuren haavan, hän menee sokkiin. Tästä syystä hahmosi voi taistella vain taistelukierrosten verran, joka vastaa hänen nykyisiä jäljellä olevia osumapisteitään.
+Vaikka hahmosi saattaisi vielä pystyä taistelemaan tai on saanut jonkinlaista välitöntä lääketieteellistä apua, jos hän on kärsinyt vakavan haavan, hän joutuu sokkiin. Tämän vuoksi hahmosi voi jatkaa taistelua vain taistelukierrosten ajan, jotka vastaavat hänen nykyisiä jäljellä olevia osumapisteitään.
 
-***Esimerkiksi,*** *jos hahmosi on kärsinyt suuren haavan ja hänellä on 3 osumapistettä jäljellä, hän kaatuu tajuttomaksi kolmen kierroksen kuluttua.*
+***Esimerkiksi,*** *jos hahmosi on saanut vakavan haavan ja hänellä on 3 osumapistettä jäljellä, hän menettää tajuntansa kolmen kierroksen kuluttua.*
 
-Hahmo, jolla on 2 tai vähemmän osumapistettä suuren haavan kärsimisen jälkeen, lyyhistyy välittömästi shokista ja verenhukasta ja on tajuton tunnin. Pelinjohtajalle suuren haavan aiheuttama tajuttomuus tarjoaa usein varman tavan ei-pelaajahahmoille jättää hahmot kuolemaan tai vangita heidät sen sijaan, että tappaisivat heidät suoraan.
+Hahmo, jolla on 2 tai vähemmän osumapistettä vakavan haavan jälkeen, luhistuu välittömästi sokin ja verenhukan vuoksi ja on tajuton tunnin ajan. Pelinjohtajalle vakavan haavan aiheuttama tajuttomuus tarjoaa usein varman tavan ei-pelaajahahmoille hylätä hahmot kuolleina tai vangita heidät sen sijaan, että heidät tapettaisiin suoraan.
 
-Suuret haavat ja niiden vaikutukset koskevat niin pelaaja- kuin ei-pelaajahahmoja, samoin kuin eläimiä, hirviöitä tai muita olentoja. Ne eivät koske varusteita, elottomia esineitä tai muita olentoja, joilla ei ole normaalia lihaksistoa (robotit, aineettomat, hyytelömäiset jne.). Tällaiset olennot voivat kärsiä rakenteellisia vaurioita tai operatiivisia vaikeuksia, mutta tämä on pelinjohtajan harkinnassa.
+Vakavat haavat ja niiden vaikutukset koskevat yhtä lailla pelaaja- ja ei-pelaajahahmoja, mukaan lukien eläimet, hirviöt tai muut olennot. Ne eivät koske varusteita, elottomia esineitä tai muita olentoja, joilla ei ole tavallista lihaksistoa (robotit, aineettomat, hyytelömäiset jne.). Tällaiset olennot voivat kärsiä rakenteellisia vaurioita tai toiminnallisia vaikeuksia, mutta tämä on pelinjohtajan harkinnan varassa.
 
-Jos hahmosi on kärsinyt suuren haavan, yritä Onni-heittoa välittömästi. Jos onnistut, suuri haava paranee siististi eikä aiheuta pysyvää ominaisuuspisteiden menetystä. Jos Onni-heitto epäonnistuu, vamma tai haava on pysyvä. Hahmosi kärsii koko haavasta alla kuvatulla tavalla, vähentäen ilmoitetut ominaisuuspisteet.
+Jos hahmosi on kärsinyt vakavan haavan, yritä välittömästi Onni-heittoa. Jos heitto onnistuu, vakava haava paranee puhtaasti eikä aiheuta pysyvää ominaisuuspisteiden menetystä. Jos Onni-heitto epäonnistuu, vamma tai haava on pysyvä. Hahmosi kärsii koko haavan vaikutuksista alla kuvatulla tavalla, vähentäen osoitetut ominaisuuspisteet.
 
-Jokaisella vammankuvauksella on useita syitä tai yksityiskohtia, jolloin pelinjohtajasi voi valita tilanteeseen sopivimman. Harjoittelun tai muiden keinojen kautta hahmosi voi saada takaisin suurista haavoista menetettyjä ominaisuuspisteitä, mutta hänelle jää todennäköisesti merkittävä arpi (jos mahdollista). Kun suuren haavan aiheuttama ominaisuuspisteiden menetys on saatu takaisin, kaikki suuren haavan vaikutukset poistuvat. Jos hahmosi ei saa menetettyä ominaisuuspistettä (pisteitä) takaisin, suuren haavan aiheuttama ominaisuusmenetys on pysyvä. Sinun tulee välittömästi laskea uudelleen hahmosi ominaisuusheitot, osumapisteet, vahinkomuokkaaja, väsymispisteet jne. uusilla ominaisuuksien kokonaissummilla.
+Jokaisella vammakuvauksella on useita syitä tai erityispiirteitä, mikä antaa pelinjohtajalle mahdollisuuden valita tilanteeseen parhaiten sopivan. Koulutuksen tai muiden keinojen avulla hahmosi voi saada takaisin vakavista haavoista menetettyjä ominaisuuspisteitä, mutta hänelle jää todennäköisesti merkittävä arpi (jos sovellettavissa). Kun vakavan haavan aiheuttama ominaisuuspisteiden menetys on saatu takaisin, kaikki vakavan haavan vaikutukset poistuvat. Jos hahmosi ei saa takaisin menetettyä ominaisuuspistettä/pisteitä, vakavan haavan aiheuttama ominaisuusmenetys on pysyvä. Sinun tulee välittömästi laskea uudelleen hahmosi ominaisuusheitot, osumapisteet, vahinkomuuttaja, väsymispisteet jne. uusilla ominaisuuksien kokonaismäärillä.
 
-Kun raajaa ei määritetä, heitä 1D6: tulos 1–3 on vasen, 4–6 on oikea.
+Kun raajaa ei ole määritelty, heitä 1D6: tulos 1–3 on vasen, 4–6 on oikea.
 
-##### Suurten haavojen taulukko
+##### Vakavien haavojen taulukko
 
 | 1D100 | Tulos |
 | :---- | :---- |
-| 01–10 | Katkenneet jalkojen jänteet aiheuttavat ontumista; yhteen kasvaneet nilkkaluut aiheuttavat ontumista; selkälihasten tai selkäydinhermojen vauriot taivuttavat vartaloa vasemmalle tai oikealle; murskattu polvi ei voi taipua; tai keksi uusi haavavaikutus. Menetä 1D3 DEX ja vähennä MOV:ia samalla määrällä. Hahmo kykenee edelleen taistelemaan. |
-| 11–20 | Suuri osa nenästä on viilletty pois; useat arvet turmelevat molemmat kädet; korva on leikattu pois; eloisa arpi antaa ilkeän piirteen ulkonäölle; tai keksi uusi haavavaikutus. Menetä 1D3 CHA. Näkyvää ja epämiellyttävää epämuodostumaa ei voi peittää. Hahmo kykenee edelleen taistelemaan. |
-| 21–30 | Ranne- tai kävivamma; siivu käsivarren tai hartian lihasta on leikattu pois; pala on irrotettu reiden tai pohkeen lihaksista; selkäydinhermot ovat vaurioituneet; useita sormia tai varpaita on katkaistu; tai keksi uusi haavavaikutus. Menetä 1D3 STR; tämä menetys voi muuttaa käytettävissä olevia aseita. Hahmo kykenee edelleen taistelemaan aseella, mutta ei kilvellä. |
-| 31–40 | Puhjennut keuhko johtaa heikentyneeseen hengityselimistöön; syvät vatsahaavat tulehtuvat kroonisesti, tai vatsahaavat heikentävät ruoansulatusta ja yleistä terveyttä; munuaiset ja maksa ovat vaurioituneet; tai keksi uusi haavavaikutus. Menetä 1D3 CON; vähennä MOV:ia samalla määrällä ja osumapisteitä voidaan laskea. Hahmo kykenee edelleen taistelemaan. |
-| 41–50 | Aivotärähdys vaurioittaa kuuloa ja rajoittaa Kuuntelu- ja Oivallus-taidot 65 % maksimiin; pään vammat vaativat tästä lähtien Onni-heittoja aina käytettäessä mitä tahansa Mielentaitoa; iskut tai viillot, jotka vaikuttavat syvyysnäköön, jättävät etäaseiden taitotasot 65 % maksimiin; useat haavat kasvoissa ja kaulassa rajoittavat mitkä tahansa Kommunikaatiotaidot 65 % maksimiin; tai keksi uusi haavavaikutus. Menetä 1D3 INT; tämä menetys voi vaikuttaa hahmosi kykyyn käyttää mitä tahansa voimia, kuten noituutta. Hahmo kykenee edelleen taistelemaan. |
-| 51–60 | Viittaa kohtaan 01–10, mutta laajennettuna yhden tai molempien käsivarsien tai jalkojen menetykseen. Menetä 1D6 DEX ja vähennä maksimi-MOV:ia samalla määrällä. Hahmo ei kykene taistelemaan. |
-| 61–70 | Viittaa kohtaan 11–20, mutta suuri haava sisältää nyt pahempia silpomisia. Menetä 1D6 CHA; se luo yhden tai useamman näkyvän epämuodostuman, jota ei voi peittää. Hahmo kykenee edelleen taistelemaan. |
-| 71–80 | Viittaa kohtaan 21–30 esimerkeiksi silpovista viilloista ja menetyksistä. Menetä 1D6 STR, ehkä säätäen vahinkomuokkaajaa. Hahmo kykenee edelleen taistelemaan. |
-| 81–90 | Viittaa kohtaan 31–40 erilaisista elinten haavoista. Menetä 1D6 CON; voi vaikuttaa osumapisteisiin ja vahinkomuokkaajaan ja vähentää MOV:ia CON-menetyksen verran. Hahmo ei kykene taistelemaan. |
-| 91–92 | Pahoja kasvojen ja äänihuulten vammoja. Menetä 1D6 CHA. Hahmo kykenee edelleen taistelemaan. |
-| 93–94 | Murtuneita luita ja katkenneita hermosolmuja. Menetä 1D6 DEX; tästä lähtien hahmo voi käyttää vain yhden käden lähitaisteluaseita. Hahmo kykenee edelleen taistelemaan käyttämällä jäljellä olevaa kättään. |
-| 95–96 | Hermovaurio vasempaan tai oikeaan käteen. Menetä 1D6 DEX; tästä lähtien hahmosi voi käyttää aseita tai varusteita vain vaurioitumattomassa kädessään. Hahmo kykenee edelleen taistelemaan käyttämällä jäljellä olevaa kättään. |
-| 97–98 | Hermovaurio molempiin käsiin. Menetä 1D6 DEX; vaikka jalat ovat kunnossa, kumpikaan käsi tai sormet eivät voi kantaa mitään. Hahmo ei kykene taistelemaan, ellei käytä jalkojaan tai puske päätään. |
-| 99 | Silvottu rajuilla haavoilla. Menetä 1D3 pistettä kustakin CHA, DEX ja CON. Hahmo ei kykene taistelemaan. |
-| 00 | Tahallisesti silvottu lyyhistymisen jälkeen. Poista 1D4 pistettä kultakin neljästä ominaisuudesta (pelinjohtajan harkinnassa). Hahmo ei kykene taistelemaan. |
+| 01–10 | Katkenneet jalkajänteet aiheuttavat ontumista; sulautuneet nilkkanivelet aiheuttavat ontumista; selkälihasten tai selkäydinhermojen vauriot taivuttavat vartaloa vasemmalle tai oikealle; murskattu polvi ei taivu; tai keksi uusi vamman vaikutus. Menetä 1D3 KET ja vähennä LII-arvoa samalla määrällä. Hahmo kykenee yhä taistelemaan. |
+| 11–20 | Suuri osa nenästä on leikkautunut pois; useat arvet turmelevat molemmat kädet; korva on leikattu pois; kalpea arpi antaa pahantahtoisen ilmeen; tai keksi uusi vamman vaikutus. Menetä 1D3 KAR. Näkyvää ja epämiellyttävää epämuodostumaa ei voi peittää. Hahmo kykenee yhä taistelemaan. |
+| 21–30 | Ranteen tai käden vaurio; pala käsivarren tai hartian lihasta on leikkautunut pois; palanen on hakattu reiden tai pohkeen lihaksista; selkäydinhermot ovat vaurioituneet; useita sormia tai varpaita on irronnut; tai keksi uusi vamman vaikutus. Menetä 1D3 VOI; tämä menetys voi muuttaa käytettävissä olevia aseita. Hahmo kykenee yhä taistelemaan aseella, mutta ei kilvellä. |
+| 31–40 | Keuhkojen puhkeaminen johtaa heikentyneeseen hengityselimistöön; syvät vatsahaavat tulehtuvat kroonisesti tai vatsahaavat heikentävät ruoansulatusta ja yleisterveyttä; munuaiset ja maksa ovat vaurioituneet; tai keksi uusi vamman vaikutus. Menetä 1D3 KES; vähennä LII-arvoa samalla määrällä, ja osumapisteet saattavat laskea. Hahmo kykenee yhä taistelemaan. |
+| 41–50 | Aivotärähdys vaurioittaa kuuloa ja rajoittaa Kuuntelu- ja Oivallus-taitotasoja 65 % maksimiin; pään vammautumisen jälkeen vaaditaan Onni-heittoja joka kerta, kun käytetään mitä tahansa Mielentaitoja; iskut tai viillot, jotka vaikuttavat etäisyyden arviointiin, jättävät ammusaseen taitoluokitukset 65 % maksimiin; useat haavat kasvoihin ja kaulaan rajoittavat mitkä tahansa Viestintä-taidot 65 % maksimiin; tai keksi uusi vamman vaikutus. Menetä 1D3 ÄLY; tämä menetys voi vaikuttaa hahmon kykyyn käyttää voimia, kuten noituutta. Hahmo kykenee yhä taistelemaan. |
+| 51–60 | Katso 01–10, mutta laajennettuna yhden tai molempien käsivarsien tai jalkojen menetykseen. Menetä 1D6 KET ja vähennä maksimi-LII-arvoa samalla määrällä. Hahmo ei kykene taistelemaan. |
+| 61–70 | Katso 11–20, mutta vakava haava sisältää nyt pahempia silpomisia. Menetä 1D6 KAR; se luo yhden tai useamman näkyvän epämuodostuman, jota ei voi peittää. Hahmo kykenee yhä taistelemaan. |
+| 71–80 | Katso 21–30 esimerkkejä silpoutuvista viilloista ja menetyksistä. Menetä 1D6 VOI, kenties säätäen vahinkomuuttajaa. Hahmo kykenee yhä taistelemaan. |
+| 81–90 | Katso 31–40 erilaisia haavoja elintärkeisiin elimiin. Menetä 1D6 KES; saattaa vaikuttaa osumapisteisiin ja vahinkomuuttajaan ja vähentää LII-arvoa KES-menetyksen verran. Hahmo ei kykene taistelemaan. |
+| 91–92 | Pahoja kasvojen ja äänihuulten vammoja. Menetä 1D6 KAR. Hahmo kykenee yhä taistelemaan. |
+| 93–94 | Murtuneita luita ja katkenneita ganglioita. Menetä 1D6 KET; tästä eteenpäin hahmo voi käyttää vain yhden käden lähitaisteluaseita. Hahmo kykenee yhä taistelemaan käyttäen jäljellä olevaa kättään. |
+| 95–96 | Hermovaurio vasempaan tai oikeaan käsivarteen. Menetä 1D6 KET; tästä eteenpäin hahmosi voi käyttää aseita tai varusteita vain vahingoittumattomassa kädessään. Hahmo kykenee yhä taistelemaan käyttäen jäljellä olevaa kättään. |
+| 97–98 | Hermovaurio molempiin käsivarsiin. Menetä 1D6 KET; vaikka jalat ovat kunnossa, kumpikaan käsi tai käsivarsi ei voi käyttää mitään. Hahmo ei kykene taistelemaan, ellei käytä jalkojaan tai päällään puskemista. |
+| 99 | Silvottu ilkeillä haavoilla. Menetä 1D3 pistettä jokaisesta: KAR, KET ja KES. Hahmo ei kykene taistelemaan. |
+| 00 | Tahallisesti silvottu luhistumisen jälkeen. Poista 1D4 pistettä neljästä ominaisuudesta (pelinjohtajan harkinnan mukaan). Hahmo ei kykene taistelemaan. |
 
-### Kuolettavat haavat
+### Kuolemaan johtavat haavat
 
-**Kuolettava haava** on sellainen, joka aiheuttaa enemmän osumapistevahinkoa kuin hahmollasi on tällä hetkellä. Jos vamma laskee hahmosi 0 tai negatiivisiin osumapisteisiin, hän on kärsinyt kuolettavan haavan. Hahmosi kaatuu välittömästi **maahan**, mutta ei kykene suorittamaan minkäänlaista toimintoa.
+**Kuolemaan johtava haava** on vamma, joka aiheuttaa enemmän vahinkoa kuin hahmollasi on tällä hetkellä osumapisteitä. Jos vamma laskee hahmosi 0 tai negatiivisiin osumapisteisiin, hän on kärsinyt kuolemaan johtavan haavan. Hahmosi kaatuu välittömästi **maahan**, mutta ei kykene suorittamaan minkäänlaisia toimintoja.
 
-Kuolettavat haavat johtavat kuolemaan, vaikka ne voidaan välttää välittömällä onnistuneella lääkärinhoidolla. Jos kuolettavasti haavoittunut hahmo saa lääkärinhoitoa (Ensiapu, Lääkintä, voima, esine jne.) sillä kierroksella, jona hän sai kuolettavan haavan, tai sitä seuraavalla kierroksella, ja hänen osumapisteensä nostetaan 1 tai useampaan, hän on melkein kuollut, mutta selviytyy kyseisestä vammasta.
+Kuolemaan johtavat haavat johtavat kuolemaan, vaikka ne voidaan välttää välittömällä onnistuneella lääkintäavulla. Jos kuolettavasti haavoittunut hahmo saa lääketieteellistä apua (Ensiapu, Lääkintä, voima, esine jne.) samalla vuorolla kun hän sai kuolemaan johtavan haavan tai heti seuraavalla vuorolla, ja hänen osumapisteensä nostetaan 1 tai useampaan, hän on melkein kuollut, mutta selviää kyseisestä vammasta.
 
 ### Luonnollinen parantuminen
 
-Useimmat elävät olennot paranevat luonnollisesti, jos niillä on tarpeeksi aikaa ja suhteellisen stressitön ympäristö. Hahmosi paranee normaalisti 1D3 osumapistettä peliviikossa. Tämä on normaali parantumisnopeus. Yleensä pelinjohtajasi heittää parantumisnopeusnopat ja kertoo tulokset. Joka viikko heitä uusi heitto määrittääksesi, kuinka monta osumapistettä palautuu. Koska parantumisnopeus voi vaihdella jokaisesta hahmosta riippuen, nopan tulos voi muuttua viikosta toiseen. Hahmosi jatkaa parantumista joka viikko, kunnes kaikki osumapisteet on palautettu.
+Useimmat elävät olennot paranevat luonnollisesti, kunhan aikaa on riittävästi ja ympäristö on suhteellisen stressitön. Hahmosi paranee normaalisti 1D3 osumapistettä peliviikossa. Tämä on normaali parantumisnopeus. Yleensä pelinjohtaja heittää parantumisnopeusnopat ja kertoo tulokset. Tee joka viikko uusi heitto määrittääksesi, kuinka monta osumapistettä palautuu. Koska parantumisnopeus voi vaihdella hahmoittain, nopan tulos voi muuttua viikosta toiseen. Hahmosi jatkaa parantumista joka viikko, kunnes kaikki osumapisteet on palautettu.
 
-Viikon parantumisen tulos myönnetään viikon (joka koostuu seitsemästä päivästä) lopussa, mutta jos ajalla on merkitystä, pelinjohtajasi voi valita jakaa parantumisnopeuden viikon päiville, kuten jakamalla viikon nopan tuloksella ja ilmoittamalla, että jokainen osumapiste palautuu niin monessa päivässä (pyöristä ylöspäin).
+Viikon parantumisen tulos saadaan viikon (seitsemän päivää) lopussa, mutta jos aika on kortilla, pelinjohtaja voi päättää jakaa parantumisnopeuden viikon päiville, kuten jakamalla viikon nopan tuloksella ja ilmoittamalla, että jokainen osumapiste palautuu niin monen päivän aikana (pyöristä ylöspäin).
 
-Poista palautuneet osumapisteet olemassa olevista vammoista, jakaen parantumisen useiden haavojen välille mahdollisimman tasaisesti. Ensiapu- tai Lääkintä-taidot tai muut parannuskeinot voivat nopeuttaa toipumista. Onnistunut Ensiapu-heitto palauttaa välittömästi 1D3 osumapistettä per haava tai vamma. Lääkintä-taitoa voidaan käyttää lieventämään suurten haavojen vaikutuksia (kuvattu aiemmin) ja sitä voidaan käyttää palauttamaan osumapisteitä, jotka on menetetty muilla kuin vammoilla. Erilaisia lääkinnällisiä varusteita ja muita keinoja (kuten parantavia voimia) voidaan hyödyntää auttamaan parantumisprosessissa.
+Poista palautuneet osumapisteet olemassa olevista vammoista, jakaen parantumisen useiden haavojen välillä mahdollisimman tasaisesti. Ensiapu- tai Lääkintä-taidot tai muut parannuskeinot voivat nopeuttaa toipumista. Onnistunut Ensiapu-heitto palauttaa välittömästi 1D3 osumapistettä haavaa tai vammaa kohden. Lääkintä-taitoa voidaan käyttää vakavien haavojen (kuvattu aiemmin) vaikutusten lievittämiseen ja sitä voidaan käyttää palauttamaan muulla kuin vammoilla menetettyjä osumapisteitä. Monenlaisia lääkintävarusteita ja muita keinoja (kuten parannusvoimia) voidaan käyttää apuna parantumisprosessissa.
 
-Lopuksi, potilaan saaman lääkärinhoidon laatu joka viikko voi kasvattaa parantumisnopeutta merkittävästi. **Lääkärinhoidon olosuhteiden taulukko** tarjoaa ohjeita eri olosuhteisiin ja vaikutukseen parantumisnopeuteen.
+Lopuksi, potilaan saaman lääkintähoidon laatu joka viikko voi lisätä parantumisnopeutta merkittävästi. **Lääkintähoidon olosuhteiden taulukko** tarjoaa suuntaviivoja eri olosuhteille ja niiden vaikutukselle parantumisnopeuteen.
 
-##### Lääkärinhoidon olosuhteet
+##### Lääkintähoidon olosuhteet
 
-| Lääkinnälliset olosuhteet | Vaikutus parantumisnopeuteen |
+| Lääkintäolosuhteet | Vaikutus parantumisnopeuteen |
 | :---- | :---- |
-| Huonosti varusteltu, epähygieeninen ja/tai täynnä stressaavia elementtejä; potilas on liikkuva ja rasittaa itseään voimakkaasti (taistelu, karu matkustus jne.); tai ei saa lainkaan lääkärinhoitoa. | Hoitajan (lääkäri, sairaanhoitaja, parantaja, itse jne.) on onnistuttava *Vaikeassa* Ensiapu- tai Lääkintä-heitossa, jotta parantumista tapahtuu. Jos onnistut, potilas paranee normaalisti (1D3 osumapistettä/viikko); jos epäonnistut, parantumista ei tapahdu. Moka aiheuttaa 1D3 ylimääräistä osumapistevahinkoa. |
-| Asialliset ja hygieeniset olosuhteet, levollinen ympäristö, hoitoa tarjolla, vain kohtuullinen fyysinen rasitus. | Potilas paranee 1D3 osumapistettä luonnollisesti. |
-| Erinomaiset olosuhteet ja välineet käytössä, ympäristö, joka edistää parantumista ja toipumista, täysi lepo ja hoito, tarjolla kokopäiväinen korkealaatuinen lääkärinhoito. | Potilas paranee 1D3 osumapistettä luonnollisesti; lisäksi onnistunut Ensiapu- tai Lääkintä-taidon käyttö mahdollistaa mahdollisen lisäparantumisen. |
+| Puutteellisesti varusteltu, epähygieeninen ja/tai täynnä stressaavia tekijöitä; potilas on liikkeellä ja rasittaa itseään voimakkaasti (taistelu, vaativa matkustus jne.); tai ei saa minkäänlaista lääkintähoitoa. | Hoitajan (lääkäri, sairaanhoitaja, parantaja, itse jne.) on onnistuttava *Vaikeassa* Ensiapu- tai Lääkintä-heitossa, jotta parantumista tapahtuisi. Jos onnistuu, potilas paranee normaalisti (1D3 osumapistettä/viikko); jos epäonnistuu, parantumista ei tapahdu. Kömmähdys aiheuttaa 1D3 lisäosumapistettä vahinkona. |
+| Säälliset ja hygieeniset olosuhteet, levollinen ympäristö, hoitoa tarjolla, vain kohtalaista fyysistä rasitusta. | Potilas paranee 1D3 osumapistettä luonnollisesti. |
+| Erinomaiset olosuhteet ja välineet käytössä, ympäristö, joka edistää parantumista ja toipumista, täysi vuodelepo ja terapia, ympärivuorokautinen korkealaatuinen lääkintähoito. | Potilas paranee 1D3 osumapistettä luonnollisesti; lisäksi onnistunut Ensiapu- tai Lääkintä-taidon käyttö mahdollistaa lisäparantumisen. |
 
-> ### Vahinko ja osumakohdat (Vaihtoehto)
+> ### Vahinko ja osumakohdat (Valinnainen)
 > 
-> Jos käytetään valinnaista osumakohtajärjestelmää, hahmosi osumapisteet jakautuvat eri ruumiinosien kesken, mutta niitä seurataan myös yhtenä "varantona". Tämä järjestelmä on yhteensopimaton **Suurten haavojen** kanssa, eikä näitä kahta järjestelmää tulisi käyttää yhdessä.
+> Jos käytössä on valinnainen osumakohtajärjestelmä, hahmosi osumapisteet jakautuvat eri kehon osien kesken, mutta niitä seurataan myös yhtenä osumapisteiden ”varantona”. Tämä järjestelmä ei ole yhteensopiva **Vakavien haavojen** kanssa, eikä näitä kahta järjestelmää tule käyttää yhdessä.
 > 
-> Yksittäiset osumapisteet kohdetta kohden lisääntyvät enemmän kuin hahmosi normaali osumapisteiden kokonaismäärä. Seuraa jokaista haavaa ja jokaista osumakohtaa erikseen, mutta pidä myös juoksevaa summaa kaikesta osumapistevahingosta, jonka hahmosi on kärsinyt. Riippumatta siitä, kuinka monta pistettä yksittäisissä osumakohdissa on jäljellä, jos osumapisteiden menetys yhteensä riittää laskemaan hahmosi 1 tai 2 osumapisteeseen, hän kaatuu tajuttomaksi, ja 0:ssa hän kuolee, jos hän ei saa välitöntä lääkärinhoitoa.
+> Yksittäiset osumapisteet kohdittain laskettuna ovat enemmän kuin hahmosi normaali osumapisteiden kokonaismäärä. Seuraa jokaista vammaa ja jokaista kohtaa erikseen, mutta pidä myös juoksevaa summaa kaikesta hahmosi saamasta osumapistevahingosta. Riippumatta siitä, kuinka monta pistettä yksittäisissä osumakohdissa on jäljellä, jos osumapisteiden menetys on tarpeeksi suuri laskemaan hahmosi 1 tai 2 osumapisteeseen, hän menettää tajuntansa, ja 0 pisteessä hän kuolee, jos hän ei saa välitöntä lääkintäapua.
 > 
-> Kuten osumakohtien alkuosiossa mainittiin, osumakohta voi ottaa osumapisteensä verran vahinkoa ilman haittaa. ***Esimerkiksi,*** *jos hahmollasi on 5 osumapistettä jalan osumakohdassa, hän voi ottaa jopa 4 pistettä vahinkoa jalkaan ilman, että se on poissa pelistä.* Kuitenkin, kun osumakohta ottaa kaikki tai enemmän osumapisteensä verran vahinkoa, vaikutukset voivat olla heikentäviä tai jopa kohtalokkaita.
+> Kuten osumakohtien alkuosassa todettiin, osumakohta voi ottaa vahinkoa osumapisteidensä verran ilman haittaa. ***Esimerkiksi,*** *jos hahmollasi on 5 osumapistettä jalkaosumakohdassa, hän voi ottaa jopa 4 osumapistettä vahinkoa jalkaan ilman, että se vammautuu.* Kuitenkin, kun osumakohta ottaa vahinkoa osumapisteidensä verran tai enemmän, seuraukset voivat olla heikentäviä tai jopa kuolemaan johtavia.
 > 
-> Viittaus "lääkärinhoitoon" voi olla Ensiapu- tai Lääkintä-taitoja, parantavaa magiaa tai teknologiaa, tai sopivan voiman käyttöä.
+> Viittaus ”lääkintäapuun” voi tarkoittaa Ensiapu- tai Lääkintä-taitoja, parannusmagiaa tai teknologiaa, tai sopivan voiman käyttöä.
 > 
-> #### Vahinko yhtä suuri tai suurempi kuin kohdan osumapisteet
+> #### Vahinko on yhtä suuri tai suurempi kuin kohdan osumapisteet
 > 
-> * **Jalka:** Raaja on väliaikaisesti käyttökelvoton, ja hahmosi kaatuu maahan. Hän ei kykene toimimaan kierroksen loppuun, mutta voi toimia maassa seuraavilla kierroksilla. Katso **Kaatuminen** vaikutuksista.
-> * **Vatsa:** Molemmat jalat ovat väliaikaisesti käyttökelvottomia. Hahmosi kaatuu maahan, mutta voi toimia maassa seuraavilla lähitaistelukierroksilla. Jos hahmollasi on keino parantaa itseään, hän voi tehdä niin. Jos häntä ei paranneta tai hoideta Ensiavulla kymmenen minuutin (kaksi vuoroa) kuluessa, hahmosi vuotaa kuiviin menettäen 1 osumapisteen per kierros, jos hän ei tee Kestävyys-heittoa vuodon pysäyttämiseksi.
-> * **Rinta:** Hahmosi kaatuu ja on liian kiireinen yskiäkseen verta tehdäkseen mitään toimintoa, mukaan lukien parantaminen. Hän vuotaa kuiviin kymmenessä minuutissa (kaksi vuoroa) menettäen 1 osumapisteen per kierros, ellei hän saa lääkärinhoitoa tai pysäytä vuotoa onnistuneella Kestävyys-heitolla.
-> * **Käsi:** Raaja on väliaikaisesti käyttökelvoton, ja kaikki mikä ei ole kiinni kädessä, pudotetaan. Hahmosi voi jatkaa seisomista ja taistelemista niillä raajoilla, jotka ovat edelleen toimintakuntoisia.
-> * **Pää:** Hahmosi tyrmätään tajuttomaksi ja hänen on saatava lääkärinhoitoa viiden minuutin (yksi vuoro) kuluessa tai tehtävä onnistunut Kestävyys-heitto stabiloituakseen. Jos kumpikaan ei tapahdu, hän kuolee.
+> * **Jalka:** Raaja on tilapäisesti hyödytön, ja hahmosi kaatuu maahan. Hän ei kykene toimimaan loppuvuorolla, mutta voi toimia maassa seuraavilla vuoroilla. Katso vaikutukset kohdasta **Maassa**.
 > 
-> #### Vahinko on yhtä suuri tai ylittää kaksinkertaisesti kohdan osumapisteet
+> * **Vatsa:** Molemmat jalat ovat tilapäisesti hyödyttömiä. Hahmosi kaatuu maahan, mutta voi toimia maassa seuraavilla lähitaistelukierroksilla. Jos hahmollasi on keinot parantaa itsensä, hän voi tehdä niin. Jos häntä ei paranneta tai hoideta Ensiapulla kymmenen minuutin (kahden vuoron) kuluessa, hahmosi vuotaa kuiviin menettäen 1 osumapisteen kierroksessa, ellei hän tee Kestävyys-heittoa verenvuodon pysäyttämiseksi.
 > 
-> * **Raaja:** Hahmosi ei voi ottaa enempää kuin kaksi kertaa mahdollista vahinkoa käteen tai jalkaan yhdellä iskulla. Esimerkiksi 2 pisteen käden osumasta 5 pisteellä otetaan vain 4 pistettä vahinkoa osumapisteistä: jäljelle jäävällä 1 vahinkopisteellä ei ole vaikutusta. Kuitenkin myöhemmät iskut kyseiseen käteen vaikuttavat hahmosi osumapisteisiin. Hahmo, joka on kärsinyt yhdestä iskusta näin paljon vahinkoa, on kuitenkin toimintakyvytön: hän ei voi enää taistella ennen parantumista ja on shokissa. Hän voi yrittää parantaa itseään. Vuoto tapahtuu 1 osumapisteen nopeudella kierroksessa, kunnes hän saa onnistunutta lääkärinhoitoa tai Vaikean Kestävyys-heiton.
-> * **Pää, Rinta tai Vatsa:** Jos pää, rinta tai vatsa kärsii enemmän kuin kaksinkertaisesti vahinkoa verrattuna sen osumapisteisiin, hahmosi menee tajuttomaksi ja alkaa menettää 1 osumapisteen per taistelukierros, ellei hän saa lääkärinhoitoa tai tee onnistunutta Vaikeaa Kestävyys-heittoa.
+> * **Rinta:** Hahmosi kaatuu ja on liian kiireinen yskiessään verta suorittaakseen mitään toimintoa, mukaan lukien parantuminen. Hän vuotaa kuiviin kymmenen minuutin (kahden vuoron) kuluessa, menettäen 1 osumapisteen kierroksessa, ellei saa lääkintäapua tai pysäytä verenvuotoa onnistuneella Kestävyys-heitolla.
 > 
-> #### Vahinko on yhtä suuri tai ylittää kolminkertaisesti kohdan osumapisteet
+> * **Käsivarsi:** Raaja on tilapäisesti hyödytön, ja kaikki, mikä ei ole kiinni käsivarressa, putoaa. Hahmosi voi jatkaa seisomista ja taistelemista niillä raajoilla, jotka ovat vielä toimintakykyisiä.
 > 
-> * Raaja, johon osuu kolme kertaa enemmän pisteitä kuin se voi ottaa yhdellä iskulla, on katkaistu tai peruuttamattomasti silvottu. ***Esimerkiksi,*** *jos hahmollasi on 2 pisteen käsi ja häneen osuu 8 pistettä, hän ottaa vain 4 pistettä vahinkoa osumapisteisiin. Käsi on kuitenkin silvottu. Näissä tapauksissa hahmosi on myös toimintakyvytön.*
-> * Pään, rinnan tai vatsan osuma, joka tekee kolminkertaisesti vahinkoa verrattuna sen osumapisteisiin, johtaa välittömään kuolemaan.
+> * **Pää:** Hahmosi menettää tajuntansa ja hänen on saatava lääkintäapua viiden minuutin (yhden vuoron) kuluessa tai tehtävä onnistunut Kestävyys-heitto stabiloituakseen. Jos kumpikaan ei tapahdu, hän kuolee.
 > 
-> #### Katkaistut ja silvotut raajat
+> #### Vahinko on yhtä suuri tai suurempi kuin kaksi kertaa kohdan osumapisteet
 > 
-> * Vain dramaattinen lääkärinhoito voi palauttaa katkaistun raajan, olettaen että kaikki osat ovat saatavilla, kuten jokin erittäin voimakas magia, teknologia tai vakava leikkaus, jota seuraa kuukausien toipuminen.
-> * Raajan silpominen tai katkaiseminen voi olla pysyvästi vahingoittavaa. Jos hahmollasi ei enää ole osaa raajasta, hän menettää 1 osumapisteen kyseisessä kohdassa. Pelinjohtajan tulisi keskustella kanssasi ympäristöön sopivista vaihtoehdoista, olivat ne kybernetiikkaa, voimakasta magiaa tai rajumpia toimenpiteitä.
-> * Käytä **Suurten haavojen** ohjeita määrittämään ominaisuusmenetykset.
+> * **Raaja:** Hahmosi ei voi ottaa enempää kuin kaksi kertaa mahdolliset osumapisteet vahinkoa käsivarressa tai jalassa yhdestä iskusta. Esimerkiksi 2 pisteen käsivarsi-osuma 5 pisteestä vie vain 4 pistettä osumapisteiden kokonaismäärästä: jäljellä olevalla 1 pisteen vahingolla ei ole vaikutusta. Kuitenkin myöhemmät iskut kyseiseen käsivarteen vaikuttavat hahmosi osumapisteiden kokonaismäärään. Hahmo, joka on saanut yhdestä iskusta näin paljon vahinkoa, on kuitenkin toiminnallisesti toimintakyvytön: hän ei voi enää taistella ennen parantumista ja on sokissa. Hän voi yrittää parantaa itsensä. Verenvuoto tapahtuu nopeudella 1 osumapiste kierroksessa, kunnes hän saa onnistunutta lääkintäapua tai Vaikean Kestävyys-heiton.
+> 
+> * **Pää, rinta tai vatsa:** Jos pää, rinta tai vatsa kärsii yli kaksi kertaa enemmän vahinkoa kuin kyseisessä kohdassa on osumapisteitä, hahmosi menettää tajuntansa ja alkaa menettää 1 osumapisteen kierroksessa, ellei saa lääkintäapua tai tee onnistunutta Vaikeaa Kestävyys-heittoa.
+> 
+> #### Vahinko on yhtä suuri tai suurempi kuin kolme kertaa kohdan osumapisteet
+> 
+> * Raaja, johon osuu kolme kertaa enemmän pisteitä kuin se voi kestää yhdessä iskussa, irtoaa tai vammautuu pysyvästi. ***Esimerkiksi,*** *jos hahmollasi on 2 pisteen käsivarsi ja hän saa 8 pisteen osuman, hän ottaa vain 4 pistettä vahinkoa osumapisteiden kokonaismääräänsä. Käsivarsi on kuitenkin vammautunut. Näissä tapauksissa hahmosi on myös toiminnallisesti toimintakyvytön.*
+> 
+> * Päähän, rintaan tai vatsaan osuva isku, joka on kolme kertaa voimakkaampi kuin kyseisen kohdan osumapisteet, johtaa välittömään kuolemaan.
+> 
+> #### Irronneet ja vammautuneet raajat
+> 
+> * Vain radikaali lääkintäapu voi palauttaa irronneen raajan, olettaen että kaikki osat ovat saatavilla, kuten jokin erittäin voimakas magia, teknologia tai vakava leikkaus, jota seuraa kuukausien toipuminen.
+> 
+> * Raajan vammautuminen tai irtoaminen voi olla pysyvästi haitallista. Jos hahmollasi ei ole enää osaa raajasta, hän menettää 1 osumapisteen kyseisessä kohdassa. Pelinjohtajan tulee työskennellä kanssasi keskustellakseen asetelmaan sopivista vaihtoehdoista, olipa kyse kybernetiikasta, voimakkaasta magiasta tai radikaalimmista toimenpiteistä.
+> 
+> * Käytä **Vakavien haavojen** ohjeita määrittääksesi mahdolliset ominaisuusmenetykset.
+
 
 > ### Pienoismallit, kartat ja virtuaaliset pelipöydät
 > 
-> Liikkuminen ja sijoittuminen lähitaistelussa ovat haastavia elementtejä seurata roolipeleissä. Vaikka jotkut pelaajat ja pelinjohtajat ovat vähemmän kiinnostuneita yksityiskohdista taistelun aikana, jotkut tuntevat tarvetta seurata pelaajahahmojen ja heidän vastustajiensa suhteellisia sijainteja. Figuurien, merkkien tai kartalla olevien symbolien käyttäminen voi vastata kysymyksiin, tarjoten konkreettisen tavan määrittää, mitä tapahtuu ja missä.
+> Liikkuminen ja sijoittuminen lähitaistelussa ovat haastavia elementtejä seurattavaksi roolipeleissä. Vaikka jotkut pelaajat ja pelinjohtajat ovat vähemmän kiinnostuneita yksityiskohdista taistelun aikana, jotkut tuntevat tarvetta seurata pelaajahahmojen ja heidän vastustajiensa suhteellisia sijainteja. Figuurien, merkkien tai osoittimien käyttäminen kartalla voi vastata kaikkiin kysymyksiin, tarjoten konkreettisen keinon määrittää, mitä tapahtuu ja missä.
 > 
-> Roolipelipienoismallit ovat pieniä muovisia tai metallisia hahmoja, jotka ovat muutaman senttimetrin korkuisia ja niitä on saatavilla useimmista peli- ja harrasteliikkeistä tai verkosta. Hahmotyyppejä, asuja, genrejä, historiallisia kausia ja asentoja on valtava valikoima, ja pienoismallien kerääminen, kokoaminen ja maalaaminen on miellyttävä sivu-harrastus.
+> Roolipelipienoismallit ovat pieniä muovisia tai metallisia patsaita, jotka ovat noin muutaman senttimetrin korkuisia ja saatavilla useimmissa peli- ja harrastekaupoissa tai verkossa. Hahmotyyppejä, asuja, genrejä, historiallisia kausia ja asentoja on valtava valikoima, ja pienoismallien kerääminen, kokoaminen ja maalaaminen on mukava harrastus.
 > 
-> Liikkumisen seuraamiseen neliö- tai heksaruudukkokartat ovat usein hyödyllisiä. Näitä on erikokoisia arkkeja paperista tai kestävämmistä materiaaleista. Pienoismalleja myyvissä liikkeissä on todennäköisesti myös näitä. Jotkut pelaajat eivät pidä ruudukoista, pitäen niitä jäykkinä, rajoittavina tai mekanistisina, ja suosivat etäisyyksien arvioimista ja liikkumisesta neuvottelemista käyttäen viivoittimia tai mittanauhoja viimeisenä keinona. Voit kokeilla, mikä sopii sinulle. Pelinjohtaja, joka käyttää pienoismalleja tai karttoja, haluaa ehkä muutaman suuremman paperiarkin pohjapiirrosten hahmottamiseen ja yksinkertaisten karttojen luomiseen. Pelaajat voivat kokea ruutupaperin hyödylliseksi raunioita tai rakennuksia kartoittaessaan. Roolipeleihin erikoistuneet kartanluontiohjelmat tekevät tästä yhä helpompaa, ja valmiita karttoja ja laattasarjoja on helposti saatavilla.
+> Liikkumisen seuraamiseen ovat usein hyödyllisiä neliö- tai kuusikulmioruudukolla varustetut kartat. Näitä saa erikokoisina arkkeina, jotka on valmistettu paperista tai tukevammista materiaaleista. Pienoismalleja myyvät kaupat kantavat todennäköisesti myös näitä. Jotkut pelaajat inhoavat ruudukoita, pitäen niitä jäykkinä, rajoittavina tai mekaanisina, ja suosivat etäisyyksien arviointia silmämääräisesti ja liikkumisesta neuvottelemista käyttäen viivottimia tai mittanauhoja viimeisenä keinona. Saatat haluta kokeilla nähdäksesi, mikä sopii sinulle. Pelinjohtaja, joka käyttää pienoismalleja tai karttoja, tarvitsee muutaman suuremman paperiarkin pohjapiirrosten luonnosteluun ja yksinkertaisten karttojen luomiseen. Pelaajat saattavat löytää ruutupaperin hyödylliseksi raunioiden tai rakennusten kartoittamisessa. Roolipeleihin erikoistuneet kartantekoojelmistot tekevät tästä yhä helpompaa, ja valmiita karttoja ja laattasettejä on helposti saatavilla.
 > 
-> Online-pelipöydät mahdollistavat kokonaisten pelisessioiden pelaamisen verkossa, pelinjohtajan työkaluilla, hahmolomakkeiden tallennuksella ja taistelukartoilla, joissa on myös ääniefektejä, valaistusta, nopanheitto-sovelluksia ja enemmän, antaen pelinjohtajien ja pelaajien automatisoida tämän pelin osan ja mahdollistaa immersiivisen pelin missä tahansa tietokoneen ääressä. Nämä vaihtelevat ylhäältä alaspäin yksinkertaisista karttaohjelmista 3D-ympäristöihin, pelinjohtajan muokattavissa, ja niihin on saatavilla sisältömoduuleja, mukaan lukien seikkailuja ja muita pelin kannalta hyödyllisiä asioita.
+> Online-pelipöydät mahdollistavat koko pelisessioiden pelaamisen verkossa pelinjohtajan työkaluilla, pelaajien hahmolomakkeiden tallennuksella ja taistelukartoilla, joissa on myös äänitehosteita, valaistusta, nopanheitto-sovelluksia ja vielä enemmän, antaen pelinjohtajille ja pelaajille mahdollisuuden automatisoida tämän pelin osa-alueen ja mahdollistaa immersiivisen pelin pelaajien ollessa missä tahansa, missä he voivat käyttää tietokoneitaan. Nämä vaihtelevat ylhäältä alaspäin nähtävistä yksinkertaisista karttaohjelmista 3D-ympäristöihin, jotka ovat pelinjohtajan muokattavissa, ja sisällön ”moduuleita” on saatavilla, mukaan lukien seikkailuja ja muita pelin kannalta hyödyllisiä asioita.
 
 ### Taisteluesimerkki
 
-Seuraava esimerkki sijoittuu fantasiamaailmaan ja kuvaa, kuinka soturi Yvarre on varastanut korvaamattoman amuletin käärmeitä palvovan synkän kultin aarrehuoneesta ja yrittää paeta temppelistä paikkaan, jossa hänen liittolaisensa Kallistor odottaa.
+Seuraava esimerkki sijoittuu fantasiamaailmaan ja kuvaa, kuinka soturi Yvarre on varastanut korvaamattoman amuletin käärmeitä palvovan synkän kultin aarrehuoneesta ja yrittää paeta temppelistä paikkaan, jossa hänen liittolaisensa Kallistor odottaa.#### Ensimmäinen taistelukierros
 
-#### Ensimmäinen taistelukierros
+Tungettuaan valtavan jalokivin koristellun kultaisen amuletin vyötärölleen, Yvarre pujahtaa ulos kultin aarrehuoneesta ja liikkuu äänettömästi käytävää pitkin eteenpäin toivoen välttävänsä huomion päästäkseen paikkaan, jossa hänen ystävänsä Kallistor odottaa parin hevosen kanssa.
 
-Tungettuaan valtavan jalokivikoristeisen kultaisen amuletin vyötärölleen, Yvarre pujahtaa ulos kultin aarrehuoneesta ja liikkuu hiljaa käytävää pitkin, toivoen välttävänsä huomion päästessään Kallistorin luo, joka odottaa hevosten kanssa.
+Kun hän kulkee käytävää pitkin, Yvarrea kohti heitetään tikari takaapäin. Pelinjohtaja heittää onnistumisen ja sanoo, että Yvarrea on osunut korkealle vasempaan olkapäähän (valinnaista osumakohtajärjestelmää ei käytetä; tämä on vain pelinjohtajan tapa lisätä kuvailevaa väriä kerrontaan). Pelinjohtaja heittää 1D4+2+1D2, mikä on tikarin tekemä vahinko plus puolet heittäjän vahinkomuuttajasta. Yvarren onneksi pelinjohtaja saa vahinkoheitosta 4, joka on pienin mahdollinen tulos.
 
-Hänen liikkuessaan käytävää pitkin, Yvarren selkäpuolelta heitetään tikari. Pelinjohtaja heittää onnistumisen ja sanoo, että Yvarreen on osunut korkealle vasempaan olkapäähän (valinnaista osumakohtajärjestelmää ei käytetä, tämä on vain pelinjohtajan kuvailevaa kerrontaa). Pelinjohtaja heittää 1D4+2+1D2, eli tikarin aiheuttama vahinko plus puolet heittäjän vahinkomuokkaajasta. Onneksi Yvarrelle pelinjohtaja saa 4 vahinkoheitosta, mikä on pienin mahdollinen tulos.
+Yvarre käyttää pehmeää nahkatunikaa (panssariarvo 1) ja hänellä on 17 osumapistettä. Hänen panssarinsa suojaa häntä 1 vahinkopisteeltä, joten Yvarre menettää 3 osumapistettä, ei 4. Hänen osumapisteensä ovat nyt laskeneet 14:ään, joten hänen pelaajansa yliviivaa huolellisesti numerot 17, 16 ja 15 ja ympyröi 14:n Yvarren hahmolomakkeesta.
 
-Yvarre käyttää pehmeää nahkatunikaa (panssariarvo 1) ja hänellä on 17 osumapistettä. Hänen panssarinsa suojaa 1 pisteen vahingolta, joten Yvarre menettää 3 osumapistettä, ei 4. Hänellä on nyt 14 osumapistettä jäljellä, joten pelaaja ruksii huolellisesti luvut 17, 16 ja 15 ja ympyröi 14:n Yvarren hahmolomakkeesta.
-
-Hän katsoo taakseen ja näkee käärmepapin vetävän toisen tikarin hihastaan lähestyessään.
+Hän vilkaisee taakseen ja näkee käärmepapin vetävän toisen tikarin hihastaan lähestyessään.
 
 #### Toinen taistelukierros
 
-Kiroten huonoa onneaan, Yvarre menee kammioon ja telkeää oven perässään, sitten kurottaa tarkistamaan haavaansa. Onneksi hyökkäys ei ollut lävistys, joten terä ei ole juuttunut syvälle olkapäähän. Seuraavaksi hän yrittää hoitaa haavaa Ensiavulla. Yvarren Ensiapu-taito on 47 %: pelaaja heittää 99 – moka!
+Kiroten huonoa onneaan Yvarre astuu kammioon ja telkeää oven takanaan, ja kurottautuu sitten tutkimaan haavaansa. Onneksi hyökkäys ei ollut lävistävä, joten terä ei ole juuttunut syvälle hänen olkapäähänsä. Seuraavaksi hän yrittää hoitaa haavaa Ensiapu-taidolla. Yvarren Ensiapu-taito on 47%: hänen pelaajansa heittää 99 – räpellys!
 
-Mokataulukkoa ei tarvitse heittää: Ensiapumokan rangaistus on aina 1 osumapisteen vahinko. Pelinjohtaja sanoo, että Yvarre aiheutti itselleen ylimääräisen pisteen vahinkoa repiessään haavaa kömpelön sijainnin vuoksi. Haava on nyt leveämpi, ja veri kastelee pehmeän nahkatunikan selkämyksen (tämä ei ole erikoisvahingon tulos, vaan pelkkää kerrontaa auttamaan pelaajia visualisoimaan tilanne).
+Räpellystaulukkoa ei tarvitse käyttää: Ensiapu-taidon räpellyksen rangaistus on aina 1 osumapisteen menetys. Pelinjohtaja sanoo, että Yvarre aiheutti itselleen ylimääräisen vahinkopisteen repiessään haavaa hankalan sijainnin vuoksi. Haava on nyt leveämpi, ja siitä valuva veri kastelee hänen pehmeän nahkatunikansa selkämyksen (tämäkään ei ole erityisen vahinkotuloksen seuraus: se on vain väriä, joka auttaa pelaajia visualisoimaan kohtauksen).
 
-Yvarren pelaaja huokaisee ja ruksii pois yhden osumapisteen. Yvarrella on nyt 13 osumapistettä.
+Yvarren pelaaja huokaisee ja yliviivaa yhden osumapisteen lisää. Yvarrella on nyt 13 osumapistettä.
 
 #### Kolmas taistelukierros
 
-Teljellystä ovesta kuuluu vaimeita jysähdyksiä. Yvarre kääntyy ja suuntaa ikkunalle, josta hän saapui. Hän tarttuu sinne ripustamaansa köyteen valmistautuen laskeutumaan alas. Pelinjohtaja nostaa käden pysäyttääkseen pelaajan kuvauksen ja keskeyttää: "Yvarre huomaa, että köysi tuntuu erittäin kevyeltä. Haluatko tietää miksi?"
+Teletystä ovesta kuuluu vaimeita jysähdyksiä. Yvarre kääntyy ja suuntaa ikkunaan, josta hän tuli sisään. Hän ottaa kiinni köyden, jonka hän oli ripustanut siihen, valmistautuen laskeutumaan alas. Pelinjohtaja nostaa käden pysäyttääkseen pelaajan kuvailun ja keskeyttää: "Yvarre huomaa, että köysi tuntuu hyvin kevyeltä. Haluatko selvittää miksi?"
 
-Pelaaja sanoo haluavansa ja antaa Yvarren vetää köyden ylös. Yvarren pakoköysi päättyy metrin ikkunalaudan alapuolelle. Se on leikattu poikki, luultavasti jonkun alapuolella olevasta ikkunasta nojautuneen toimesta.
+Hän haluaa, pelaaja sanoo, ja käskee Yvarren vetämään köyden ylös. Yvarren pakoköysi päättyy metri ikkunalaudan alapuolelle. Se on katkaistu, todennäköisesti jonkun alapuolella olevasta ikkunasta kurkistaneen toimesta.
 
-Yvarre on ansassa, ellei päätä hypätä kadulle. Pelinjohtaja sanoo: "Tee Spot-tarkistus saadaksesi selville, huomaako Yvarre jotain." Tässä tapauksessa 'jotain', johon pelinjohtaja viittaa, on kultin salamurhaaja vastapäisellä katolla valmiina jousihyökkäykseen.
+Yvarre on ansassa, ellei hän päätä hypätä kadulle. Pelinjohtaja sanoo: "Tee Havainto-heitto saadaksesi selville, huomaako Yvarre jotain." Tässä tapauksessa 'jotain', johon pelinjohtaja viittaa, on Yvarrea vastapäätä olevalla katolla oleva kulttimurhaaja, joka valmistelee jousta hyökkäystä varten.
 
-Pelaaja heittää D100 Yvarren Spot-taidolle ja epäonnistuu. Koska Yvarre ei huomaa kultin salamurhaajaa, pelinjohtaja heittää 43, joka on osuma, ja heittää vahingon 1D8+1, mutta ei vahinkomuokkaajaa. Pelinjohtaja heittää 9 vahinkoa, jota vähennetään 1 pisteellä Yvarren panssarin vuoksi. "Onko se tarpeeksi suureksi haavaksi?" pelinjohtaja kysyy. Pelaaja nyökkää synkästi. Hän ruksii pois 8 osumapistettä hahmolomakkeestaan, laskien jäljellä olevat osumapisteet 5:een.
+Pelaaja heittää D100 Yvarren Havainto-taidolle ja epäonnistuu. Koska Yvarre ei huomaa kulttimurhaajaa, pelinjohtaja heittää 43, joka on osuma, ja heittää sitten vahingon, 1D8+1, mutta ei vahinkomuuttajaa. Pelinjohtaja heittää 9 vahinkoa, josta vähennetään 1 Yvarren panssarin vuoksi. "Riittääkö se vakavaan vammaan?" pelinjohtaja tiedustelee. Pelaaja nyökkää synkästi. Hän merkitsee yliviivattavaksi 8 osumapistettä lisää hahmolomakkeestaan, mikä laskee hänen jäljellä olevat osumapisteensä 5:een.
 
-Yvarren pelaaja heittää suurten haavojen taulukkoa saaden tulokseksi 27, ja pelinjohtaja sanoo, että nuoli osui Yvarrea vasempaan käteen. Yvarren Onni-heitto onnistuu, joten vamma ei jää pysyväksi. Yvarre tuntee itsensä heikoksi, pelinjohtaja sanoo. Hän menee tajuttomaksi neljän taistelukierroksen kuluttua, yksi kierros per jäljellä oleva osumapiste.
+Yvarren pelaaja heittää vakavien vammojen taulukosta saaden tulokseksi 27, ja pelinjohtaja sanoo, että nuoli osui Yvarrea vasempaan käsivarteen. Yvarren Onni-heitto onnistuu, joten haavasta ei tule pysyvää vammaa. Yvarre tuntee heikottavansa, pelinjohtaja sanoo. Hän menettää tajuntansa neljän taistelukierroksen kuluttua, yksi kierros jokaista hänen nykyistä osumapistettään kohden.
 
-Huoneen toisessa päässä käytävän ovi alkaa pirstoutua. Yvarre voisi käyttää seuraavan kierroksen yrittääkseen Ensiapua tähän uuteen vammaan, mutta hänellä ei ole aikaa.
+Huoneen toisessa päässä käytävän ovi alkaa halkeilla. Yvarre voisi käyttää seuraavan kierroksen yrittääkseen Ensiapua tähän uuteen haavaan, mutta hänellä ei ole aikaa siihen.
 
 #### Neljäs taistelukierros
 
-Jos Yvarre jää huoneeseen, hän on pian käärmeitä palvovan kultin armoilla. Matkaa maahan on 6 metriä, ja pelaaja tajuaa, että hänen kunnossaan pudotus voi tappaa hänet. Pelaaja tietää kuitenkin, ettei Yvarre epäröisi. "Hyppään", hän sanoo. Jousiampuja tekee toisen laukauksen. Etäaseen tulta ei voi väistää, joten Yvarre toivoo parasta. Hänellä on onnea – nuoli menee ohi.
+Jos Yvarre jää huoneeseen, hän on pian käärmettä palvovan kultin armoilla, mikä ei ole odotettavissa oleva miellyttävä kohtalo. Maahan on 6 metrin pudotus, ja Yvarren pelaaja ymmärtää, että hänen kunnossaan pudotus voisi tappaa hänet. Pelaaja tietää kuitenkin myös, ettei Yvarre itse epäröisi koskaan. "Minä hyppään", hän sanoo. Jousiampuja ampuu toisen kerran. Ohjusiskuja ei voi väistää, joten Yvarre toivoo parasta. Hänellä on onni myötä – nuoli menee ohi.
 
-"Tee Hyppy-tarkistuksesi, kiitos." Tulos on 21, onnistuminen. "Okei", sanoo pelinjohtaja, "heitä nyt 1D6 vahingon vähennystä varten." Pelaaja saa 3, joka vähennetään tulevasta putoamisvahingosta. "Ja heitä nyt 2D6 putoamisvahinkoa varten." Noppien summa on 5. Yvarrella oli 4 osumapistettä. Hän menettää 5, mutta hyppyvalmistelu säästää 3 pistettä. Yvarrella on nyt 2 osumapistettä jäljellä.
+"Tee Hyppy-heitto, kiitos." Tulos on 21, onnistuminen. "Selvä", sanoo pelinjohtaja, "heittäpä nyt 1D6 vahinkojen vähennystä varten." Hän saa 3, joka vähennetään tulevasta putoamisvahingosta. "Ja heitä nyt 2D6 putoamisvahinkoa varten." Hänen noppansa yhteissumma on 5. Yvarrella oli 4 osumapistettä. Hän menettää 5, mutta hypyn valmistelu säästää 3. Yvarrella on nyt 2 osumapistettä jäljellä.
 
-2 osumapisteessä Yvarre kaatuu automaattisesti tajuttomaksi. Tämä ei ole enemmän kuin puolet osumapisteiden kokonaismäärästä, joten uutta suurta haavaa ei synny.
+2 osumapisteen kohdalla Yvarre menettää automaattisesti tajuntansa. Tämä ei ole yli puolta hänen kokonaisista osumapisteistään, joten uutta vakavaa vammaa ei tule.
 
 #### Viides taistelukierros
 
-Pimeässä kujassa Yvarren ystävä Kallistor kuulee hänen osuvan maahan ja löytää hänet liikkumattomana mukulakiviltä. Kuunnellen lähestyviä huutoja, Kallistorin pelaaja päättää heittää Yvarren toisen hevosen satulan yli ja nousta toisen selkään, paeten välittömästi.
+Yönmustalla kujalla Yvarren ystävä Kallistor kuulee hänen osuvan maahan ja löytää hänet liikkumattomana mukulakiviltä. Kuunnellessaan lähestyviä huutoja, Kallistorin pelaaja päättää heittää Yvarren toisen hevosen satulan päälle ja nousta toisen selkään paeten välittömästi.
 
 #### Kuudes taistelukierros
 
-Muutaman kadun päässä Kallistor tuntee itsensä tarpeeksi turvalliseksi pysähtyäkseen kierroksen ajaksi. Hän käyttää Healing 1 -loitsua Yvarren veikkihaavaan. Kallistorin loitsu palauttaa 3 osumapistettä Yvarrelle (heitto 3 1D6:lla) ja pelinjohtaja päättää, että Yvarre on nyt tajuissaan ja kykenee ratsastamaan, mutta on hyvin heikko. Kallistorin pelaaja ruksii pois 3 voimapistettä loitsun käytöstä (joka maksaa 3 voimapistettä käytettyä tasoa kohden). Kallistorilla oli 14 voimapistettä, joten se laskee hänet 11:een.
+Muutaman kadun päässä Kallistor tuntee itsensä tarpeeksi turvalliseksi pysähtyäkseen yhdeksi kierrokseksi. Hän käyttää Healing 1 -loitsua Yvarren tikarihaavaan. Kallistorin loitsu palauttaa 3 osumapistettä Yvarrelle (heitto 3 1D6-nopalla), ja pelinjohtaja päättää, että Yvarre on nyt tajuissaan ja kykenee ratsastamaan, mutta on hyvin heikko. Kallistorin pelaaja merkitsee 3 taikapistettä käytetyksi loitsun vuoksi (mikä maksaa 3 taikapistettä per käytetty taso). Kallistorilla on 14 taikapistettä, joten se laskee hänet 11:een.
 
 #### Useita taistelukierroksia myöhemmin
 
-Muutaman kerran kaupungin halki ratsastettuaan seuraajien välttämiseksi pelinjohtaja sanoo, ettei takaa-ajoa ole näkyvissä. Kaksi seikkailijaa saavuttaa piilopaikkansa. Sisällä, turvassa hetkeksi, Kallistor käyttää Ensiapua yrittääkseen parantaa nuolihaavaa, nostaen osumapisteet 7:ään.
+Tehtyään jonkin verran väistöliikkeitä kaupungissa välttääkseen seuraajia, pelinjohtaja sanoo, ettei takaa-ajoa näy. Kaksi seikkailijaa saavuttavat piilopaikkansa. Sisällä, hetken turvassa, Kallistor käyttää Ensiapua yrittääkseen parantaa nuolihaavan, nostaen Yvarren osumapisteet 7:ään.
 
 #### Seuraava taistelukierros
 
-Yvarre otti myös putoamisvahinkoa. Kallistor hoiti veitsi- ja nuolihaavat, mutta Yvarren Ensiapu-heitto toimii putoamisesta tulleisiin mustelmiin. 2 pistettä putoamisvahinkoa pyyhitään pois. Vamma on edelleen olemassa, mutta sillä ei ole enää käytännön merkitystä. Nyt Yvarrella on 9 osumapistettä.
+Yvarre sai myös putoamisvahinkoa. Kallistor hoiti hänen tikari- ja nuolihaavansa, mutta Yvarren Ensiapu-heitto toimii yleisiin putoamisesta aiheutuneisiin mustelmiin. 2 putoamisvahinkopistettä pyyhitään pois. Vamma on yhä olemassa, mutta sillä ei ole enää käytännön vaikutuksia. Nyt Yvarrella on 9 osumapistettä.
 
-#### Seuraava taistelukierros sen jälkeen
+#### Sitä seuraava taistelukierros
 
-Kallistor yrittää Ensiapua, mutta epäonnistuu parantamaan pisteen vahinkoa, joka aiheutui Yvarren epäonnistuneesta Ensiapu-yrityksestä.
+Kallistor yrittää Ensiapua, mutta epäonnistuu parantamaan sen yhden vahinkopisteen, joka tuli Yvarren räpellyksestä Ensiapu-yrityksen aikana.
 
-#### Yksi taistelukierros vielä
+#### Vielä yksi taistelukierros
 
-Kallistor käyttää Healing 2 -loitsua Yvarren nuolihaavaan, palauttaen 4 pistettä mahdollisesta 12:sta. Yvarrella on nyt 13 osumapistettä, ja Kallistor on menettänyt 6 voimapistettä lisää, jättäen hänet 5 voimapisteeseen. Kumpikaan ei ole surkeassa tilassa, mutta Yvarre ei ole täysissä osumapisteissä ja Kallistor on käyttänyt paljon voimapisteitään.
+Kallistor käyttää Healing 2 -loitsua Yvarren nuolihaavaan palauttaen 4 pistettä mahdollisesta 12:sta. Yvarrella on nyt 13 osumapistettä, ja Kallistorin taikapisteet ovat laskeneet 6 pistettä, jättäen hänet 5 taikapisteeseen yhteensä. Kummallakaan ei ole hätää, mutta Yvarre ei ole täysissä osumapisteissä ja Kallistor on käyttänyt suuren osan taikapisteistään.
 
-Veikkihaava paranee luonnollisesti viikossa, ja nuolihaavan jäljellä oleva vahinko vaatii vähintään kaksi viikkoa. Kallistor haluaa pitää joitakin voimapisteitä varastossa hätätilanteita varten. Hän käyttää Healing-loitsua myöhemmin, kun hänellä on enemmän voimapisteitä tai kun vaara on ohi.
+Tikarihaava paranee luonnollisesti viikossa, ja nuolihaavasta jäljellä olevan vahingon paraneminen vie vähintään kaksi viikkoa. Kallistor haluaa pitää joitakin taikapisteitä varastossa hätätapausten varalta. Hän käyttää Healing-loitsua myöhemmin, kun hänellä on enemmän taikapisteitä tai kun vaara on ohi.
 
 #### Taistelun jälkeen
 
-Tässä vaiheessa ei ole juurikaan syytä jatkaa taisteluajan käyttämistä, joten kaikki siirtyvät kerronnalliseen aikaan, jossa pelaajien käyttäytyminen ja pelinjohtajan kerronta muuttuvat rennommaksi.
+Tässä vaiheessa on vähän syytä jatkaa taisteluajan käyttöä, joten kaikki siirtyvät narratiiviseen aikaan, jossa pelaajien toiminta ja pelinjohtajan kerronta muuttuvat rennommaksi.
 
-Haavojensa ollessa hetkeksi hoidettuina, Yvarre kurottaa vyötärölleen vetääkseen amuletin esiin. Se näyttää kiertyvän hänen käsissään, kun hän tekee niin, joten hän päästää irti. Amuletin osuessa maahan, se hajoaa kymmeniin pieniin jalokivisilmäisiin kultaisiin käärmeisiin, jotka putoavat maahan ja luikertelevat pois.
+Hänen haavojensa ja vammojensa ollessa hetkellisesti hoidossa, Yvarre kurottautuu vyötärölleen vetääkseen amuletin esiin. Se tuntuu vääntyvän hänen käsissään, kun hän tekee niin, joten hän päästää irti. Kun se osuu maahan, amuletti hajoaa kymmeniksi pieniksi jalokivisilmäisiksi kultakäärmeiksi, jotka putoavat maahan ja luikertavat pois.
 
 Kaikki se, ja aivan turhaan!
