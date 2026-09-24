@@ -1,363 +1,363 @@
 # 10\. Innstillinger
 
-Dette kapittelet diskuterer innstillinger—tidene og/eller stedene der eventyrene dine finner sted. Vanligvis er innstillingen sjangeren—Western, science fiction, teknothriller, «sword-and-sandal», high fantasy eller mange andre. Dette kapittelet inneholder også valgfrie regler for troskap, lidenskaper og sinnssykdom.
+Dette kapittelet diskuterer innstillinger—tidspunktene og/eller stedene der eventyrene dine finner sted. Vanligvis er innstillingen sjangeren—Western, science fiction, techno-thriller, sverdet-og-sandaler, high fantasy eller mange andre. Dette kapittelet inneholder også valgfrie regler for troskap, lidenskaper og galskap.
 
-## Skape en innstilling
+## Lage innstillingen
 
-*Basic Roleplaying* er utformet for å hjelpe deg, spillmesteren, med å skape din egen innstilling, enten den er original eller en tilpasning av noe som allerede eksisterer. Her følger noen populære innstillinger som alle følger samme format, samt noen notater om hver av dem. Hver kommer med forslag til karaktertyper (selv om disse ikke er restriksjoner), krefter som gir mening i innstillingen, teknologi for å hjelpe med valg av utstyr, forslag til eventyrtyper og passende valgfrie regler.
+*Basic Roleplaying* er designet for å hjelpe deg, spillmesteren, med å lage din egen innstilling, enten den er original eller en tilpasning av noe som allerede eksisterer. Følgende er noen populære innstillinger som alle følger samme format, samt noen merknader om hver. Hver av dem kommer med forslag til karaktertyper (selv om dette ikke er begrensninger), krefter som gir mening i innstillingen, teknologi for å hjelpe med valg av utstyr, innspill til eventyrtyper og passende valgfrie regler.
 
 ### Forhistorisk tid
 
-Ethvert forhistorisk eller primitivt stammemiljø før sivilisasjonens begynnelse, eller som på en eller annen måte er satt utenfor den. Livet er kort og brutalt, og vanligvis er den eneste sosiale organiseringen familien eller stammen. Forhistoriske pattedyr er vanligvis den største trusselen, selv om alternativ historie noen ganger inkluderer dinosaurer.
+Ethvert forhistorisk eller primitivt stammemiljø før sivilisasjonens begynnelse, eller som på en eller annen måte er adskilt fra den. Livet er kort og brutalt, og vanligvis er den eneste sosiale organiseringen familien eller stammen. Forhistoriske pattedyr er vanligvis hovedtrusselen, selv om alternative historier noen ganger inkluderer dinosaurer.
 
-* **Karaktertyper:** Håndverker, bonde, jeger, sjaman og stammemedlem.
+* **Karaktertyper:** Håndverker, bonde, jeger, sjaman og stammefolk.
 * **Krefter:** Primitive sjamaner kan bruke magi, og mutasjoner og psykiske evner kan eksistere.
-* **Teknologi:** Ingen fabrikkerte gjenstander er tilgjengelige i en forhistorisk verden. Alt blir formet av primitive ressurser som tre, stein, bein, skinn, pels, fjær og leire—enten det er klær, verktøy, våpen, religiøse totemer eller minnegjenstander. Selv om en dyktig håndverker kan lage bedre steinøkser og forme bedre amuletter, er det ikke mye utover dette. De fleste gjenstander er av dårlig eller middels kvalitet, og det finnes ingen rikdom.
-* **Eventyr:** Stammeoverflod mellom grupper av jegere og sankere om gode jaktområder, dårlig vær, aggressive dyr eller til og med store jakter kan utgjøre kjernen i forhistoriske eventyr. Alternative forhistorier kan inkludere eldgamle skapninger fra Cthulhu-mytologien, romvesener som har til hensikt å slavebinde den primitive menneskeheten, eller til og med avvikende evolusjonsstier der intelligente dinosaurer eller aper har blitt den dominerende arten, og menneskene er deres føde.
-* **Valgmuligheter:** Ingen.
+* **Teknologi:** Ingen produserte gjenstander er tilgjengelige i en forhistorisk verden; alt blir formet av primitive ressurser som tre, stein, bein, lær, pels, fjær og leire—enten det er klær, verktøy og våpen, eller religiøse totemer eller minnegjenstander. Selv om en dyktig håndverker kan lage bedre steinexer og forme bedre talismaner, er det ikke mye utover det. De fleste gjenstander er av dårlig eller gjennomsnittlig kvalitet, og det finnes ingen rikdom.
+* **Eventyr:** Stammekonflikter mellom grupper av jegere og sankere om gode jaktområder, ugunstig vær, aggressive dyr eller til og med store jakter kan utgjøre kjernen i forhistoriske eventyr. Alternative forhistorier kan inkludere eldgamle skapninger fra Cthulhu-mytologien, romvesener som har til hensikt å slavebinde den primitive menneskeheten, eller til og med avvikende evolusjonsstier der intelligente dinosaurer eller aper har blitt den dominerende arten, og menneskene er deres fôr.
+* **Alternativer:** Ingen.
 
 ### Bronsealderen
 
-Æraen for kongedømmer som Sumer, Hellas, Egypt, Persia og andre mektige imperier, fra den mesopotamiske epoken til bibelsk antikk, klassisk Hellas, frem til Romas fall og det påfølgende kaotiske sammenbruddet i Europa. Alternativt kan dette være en «sword-and-sandal» fantasy-innstilling satt til en tenkt eldgammel verden.
+Æraen for kongeriker som Sumeria, Hellas, Roma, Egypt, Persia og andre mektige imperier, fra den mesopotamiske epoken til bibelsk antikk, klassisk Hellas, frem til Romas fall og det påfølgende kaotiske sammenbruddet i Europa. Alternativt kan dette være en fantasy-innstilling med sverd og sandaler satt i en tenkt antikk verden.
 
 * **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker.
 * **Krefter:** Magi og trolldom, sannsynligvis av guddommelig opprinnelse. Psykiske krefter kan eksistere, og monstre kan ha mutasjoner. Halvguder eller legendariske helter kan ha superkrefter.
 * **Teknologi:** Bronsealderens storhetstid og jernalderens blomstring, der metallarbeid har transformert kultur og handel. Dette er kunstens blomstring og sivilisasjonens fødsel.
-* **Eventyr:** Denne æraen passer for «gritty» fantasy-eposer så vel som større mytologiske temaer med sterk vekt på kultur og tilbedelse.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, skade og kroppsdeler, unnvike missilvåpen, tretthetspoeng, høyere startkarakteristikker, treffpoeng per kroppsdel, økte personlige ferdighetspoeng, lese- og skriveferdighet, lidenskaper, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Eventyr:** Denne æraen passer både for tøffe fantasy-eposer og storslåtte mytologiske temaer med sterk vekt på kultur og tilbedelse.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Skade og treffsteder, Unnvikelse mot missilvåpen, Tretthetspoeng, Høyere start-egenskaper, Treffpoeng per sted, Økte personlige ferdighetspoeng, Lesekyndighet, Lidenskaper, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ### Jernalderen
 
-Etter Romerrikets fall er store deler av Europa i uorden. Selv om det skjer sosiale fremskritt og forbedringer i den generelle livskvaliteten, karakteriseres dette ofte som en brutal og uopplyst tid. Dette inkluderer fremveksten av norrøn kultur (vikingtiden) og regionale kriger over hele Europa for å fylle vakuumet etter Roma. Dette kan også være en fantasy-innstilling, inkludert ikke-menneskelige raser som alver og dverger, eller til og med mytiske dyr og monstre.
+Etter Romerrikets fall er store deler av Europa i uorden. Selv om det er sosiale fremskritt og forbedringer i den generelle livskvaliteten, blir dette ofte karakterisert som en brutal og uopplyst tid. Dette inkluderer fremveksten av norrøn kultur (vikingtiden) og regionale kriger over hele Europa for å fylle vakuumet etter Roma. Dette kan også være en fantasy-innstilling, inkludert ikke-menneskelige raser som alver og dverger, eller til og med mytiske dyr og monstre.
 
 * **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker. Politikere er ofte adelsmenn, og forfattere er vanligvis prester eller kanskje poeter.
-* **Krefter:** Magi og trolldom er de to vanligste krafttypene og kan være av guddommelig, infernalsk eller hedensk art.
-* **Teknologi:** Til tross for at det noen ganger kalles «den mørke middelalder», er det vitenskapelig utvikling, forbedringer i mekanisk ingeniørkunst og behandling av sykdommer. Studiet av den fysiske verden blomstrer, og det å skape bøker og bevare kunnskap blir utbredt blant adelen og presteskapet. Seilskip blir mer sofistikerte.
-* **Eventyr:** Europa etter Roma er et veritabelt post-apokalyptisk ødeland, og livet var hardt for allmuen. Småkriger og undertrykkelse er dagligdags. Splittelsen mellom religionene er preget av konflikt og uro.
-* **Valgmuligheter:** Troskap, kulturelle modifikatorer, skade og kroppsdeler, utdanning/kunnskapssjekk, tretthetspoeng, treffpoeng per kroppsdel, lese- og skriveferdighet, lidenskaper, rykte, sunn fornuft (Sanity).
+* **Krefter:** Magi og trolldom er de to vanligste krafttypene, og kan være av guddommelig, infernalsk eller hedensk natur.
+* **Teknologi:** Til tross for at den noen ganger kalles «den mørke middelalder»—er det vitenskapelige fremskritt, forbedringer innen maskinteknikk og behandling av sykdommer. Studiet av den fysiske verden blomstrer, og det å lage bøker og bevare kunnskap blir utbredt blant adelen og presteskapet. Seilskip blir mer sofistikerte.
+* **Eventyr:** Europa etter Roma er et veritabelt post-apokalyptisk ødeland, og livet var hardt for vanlige folk. Små kriger og undertrykkelse er dagligdags. Splittelsen mellom religionene er full av konflikt og uro.
+* **Alternativer:** Troskap, Kulturelle modifikatorer, Skade og treffsteder, Utdanning/Vitenskaps-rull, Tretthetspoeng, Treffpoeng per sted, Lesekyndighet, Lidenskaper, Rykte, Fornuft (Sanity).
 
 ### Høy-middelalder
 
-Dette er en føydal æra. Adel, ridderstand og dynastiske regjeringer og sosiale strukturer karakteriserer perioden. Idealisert romantikk driver den ridderlige verden, kontrastert av en brutal og dyster virkelighet. Magi antas å være djevelskap, og det guddommelige anses som like reelt som det infernalske. Dette kan også beskrive en fjern post-apokalyptisk verden der de siste restene av sivilisasjonen har falt til neo-føydalisme.
+Dette er en føydal æra. Adel, ridderlighet og dynastiske styresett og sosiale strukturer karakteriserer perioden. Idealisert romantikk driver den ridderslige verden, kontrastert av en brutal og dyster virkelighet. Magi antas å være djevelskap, og det guddommelige anses som like virkelig som det infernalske. Dette kan også beskrive en fjern post-apokalyptisk verden der de siste restene av sivilisasjonen har falt til neo-føydalisme.
 
-* **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker. Forfattere er vanligvis prester eller poeter, og vitenskapsmenn er sannsynligvis prester med interesse for den naturlige verden.
-* **Krefter:** Magi og trolldom er de to vanligste krafttypene og kan være av guddommelig, infernalsk eller hedensk art.
-* **Teknologi:** Masseproduksjon av varer, tidlige laugsstrukturer, utvidet handel og utbredt distribusjon av varer har transformert verden. Generelt begrenser mangelen på utbredt leseferdighet tilgangen på bøker og avansert kunnskap. Rustninger og våpen blir stadig mer effektive, for så å bli barokke.
-* **Eventyr:** Arthurianske eller karolingiske eventyr, riddere på leting etter det ukjente, osv.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, skade og kroppsdeler, tretthetspoeng, høyere startkarakteristikker, treffpoeng per kroppsdel, økte personlige ferdighetspoeng, lese- og skriveferdighet, ikke-menneskelige karakterer, lidenskaper, rykte, ferdighetsnivåer over 100 %.
+* **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker. Forfattere er vanligvis prester eller kanskje poeter, og vitenskapsmenn er sannsynligvis prester med interesse for den naturlige verden.
+* **Krefter:** Magi og trolldom er de to vanligste krafttypene, og kan være av guddommelig, infernalsk eller hedensk natur.
+* **Teknologi:** Masseproduksjon av varer, tidlige laugstrukturer, utvidet handel og utbredt distribusjon av varer har transformert verden. Generelt begrenser mangelen på utbredt lesekyndighet tilgangen på bøker og avansert kunnskap. Rustninger og våpen blir stadig mer effektive, deretter barokke.
+* **Eventyr:** Arturianske eller karolingiske eventyr, riddere på leting etter det ukjente, osv.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Skade og treffsteder, Tretthetspoeng, Høyere start-egenskaper, Treffpoeng per sted, Økte personlige ferdighetspoeng, Lesekyndighet, Ikke-menneskelige karakterer, Lidenskaper, Rykte, Ferdighetsverdier over 100 %.
 
 ### High Fantasy
 
-I likhet med høy-middelalder-innstillingen, skiller denne seg ved at ikke-mennesker som alver, dverger osv. eksisterer sammen med mennesker, ofte allierte med mennesker mot orker, troll, nisser osv. Gudene kan være aktive, og deres tilbedere kan få guddommelige evner. Magi er utbredt, med magiske gjenstander som helbredende eliksirer, magiske sverd, fortryllede rustninger osv. som dagligdagse fenomener. Gamle ruiner finnes overalt, og fangehull strekker seg under jorden.
+I likhet med innstillingen for høy-middelalder, skiller denne seg ut ved at ikke-mennesker som alver, dverger, osv. eksisterer sammen med mennesker, ofte alliert med mennesker mot orker, troll, nisser, osv. Gudene kan være aktive, og deres tilbedere kan få guddommelige evner. Magi er utbredt, med magiske gjenstander som helbredende eliksirer, magiske sverd, fortryllede rustninger, osv. som er vanlige. Eldgamle ruiner florerer og fangehull strekker seg under jorden.
 
-* **Karaktertyper:** Som med høy-middelalder (over).
-* **Krefter:** Alle. Magi og trolldom kan være av guddommelig, infernalsk eller hedensk art. Mutasjoner kan finnes blant visse typer monstre, og det kan finnes raser som bruker psykiske evner. Kraftfulle overnaturlige vesener kan bruke superkrefter forkledd som guddommelige eller infernalske evner.
+* **Karaktertyper:** Som med høy-middelalder (ovenfor).
+* **Krefter:** Enhver. Magi og trolldom kan være av guddommelig, infernalsk eller hedensk natur. Mutasjoner kan finnes blant visse typer monstre, og det kan være raser som bruker psykiske evner. Kraftfulle overnaturlige vesener kan bruke superkrefter i form av guddommelige eller infernalske evner.
 * **Teknologi:** Som med høy-middelalder, men mindre realistisk.
-* **Eventyr:** Fangehull-raids, søken etter magiske gjenstander, krig, utforskning, osv.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, skade og kroppsdeler, tretthetspoeng, høyere startkarakteristikker, treffpoeng per kroppsdel, økte personlige ferdighetspoeng, lese- og skriveferdighet, ikke-menneskelige karakterer, lidenskaper, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %.
+* **Eventyr:** Raiding av fangehull, leting etter magiske gjenstander, krig, utforskning, osv.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Skade og treffsteder, Tretthetspoeng, Høyere start-egenskaper, Treffpoeng per sted, Økte personlige ferdighetspoeng, Lesekyndighet, Ikke-menneskelige karakterer, Lidenskaper, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %.
 
 ### Imperialistisk Asia
 
-En generell betegnelse for historiske Japan eller Kina, som også inkluderer den fantastiske verdenen av kampsport. Denne kategorien kan også beskrive Mughal-India.
+En generell betegnelse for det historiske Japan eller Kina, som også inkluderer den fantastiske verdenen av kampsport. Denne kategorien kan også beskrive Mughal-India.
 
-* **Karaktertyper:** Alle unntatt journalist, vitenskapsmann eller tekniker. Forfattere er sannsynligvis poeter.
-* **Krefter:** Magi og trolldom er vanlig og kan være basert på elementære prinsipper. Intens studium av esoteriske kampsportdisipliner gir muligheter som psykiske evner eller superkrefter.
-* **Teknologi:** Kunsten og vitenskapen i Kina og Japan utviklet seg langt forbi den vestlige verden i samme æra, med trykkpresser, krutt osv., kombinert med en blomstring av institusjonalisert læring og byråkrati.
-* **Eventyr:** Disse kan variere fra kamper om klan- eller regionale ledere, og kan til og med innlemme anakronistiske elementer slik som man finner i manga eller anime.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, unnvike missilvåpen, utdanning/kunnskapssjekk, høyere startkarakteristikker, økte personlige ferdighetspoeng, lidenskaper, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Karaktertyper:** Alle andre enn journalist, vitenskapsmann eller tekniker. Forfattere er sannsynligvis poeter.
+* **Krefter:** Magi og trolldom er vanlig og kan være basert på elementære prinsipper. Intens studie av esoteriske kampsportdisipliner gir evner som psykiske eller superkrefter.
+* **Teknologi:** Kunsten og vitenskapen i Kina og Japan utviklet seg langt forbi den vestlige verden i samme æra, med trykkpresser, krutt, osv., kombinert med en blomstring av institusjonalisert læring og byråkrati.
+* **Eventyr:** Disse kan variere fra kamper for klan- eller regionale ledere, og kan til og med innlemme anakronistiske elementer slik som man finner i manga eller anime.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Unnvikelse mot missilvåpen, Utdanning/Vitenskaps-rull, Høyere start-egenskaper, Økte personlige ferdighetspoeng, Lidenskaper, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ### Arabian Nights
 
-Den eldgamle arabiske eller persiske verdenen, generelt en verden definert av ørkener og dristige eventyr.
+Den eldgamle arabiske eller persiske verden, generelt en verden definert av ørkener og vågale eventyr.
 
-* **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker. Forfattere er vanligvis prester eller poeter, og vitenskapsmenn er sannsynligvis prester med interesse for den naturlige verden.
+* **Karaktertyper:** Alle unntatt journalist, vitenskapsmann og tekniker. Forfattere er vanligvis prester eller kanskje poeter, og vitenskapsmenn er sannsynligvis prester med interesse for den naturlige verden.
 * **Krefter:** Magi og trolldom, selv om overnaturlige vesener kan ha superkrefter.
 * **Teknologi:** Kunnskap om den fysiske verden—matematikk, kjemi, astronomi, medisin, andre vitenskaper—var høyt utviklet, og generelt kunne rikdom kjøpe livskvalitet og handlingsfrihet.
-* **Eventyr:** Disse kan ligne eventyr eller historier fra klassiske fortellinger fra den tiden, utforskning av eldgamle forbannelser, avtaler med mytiske vesener, og modige karakterer fra de laveste tyvene til edle prinser eller prinsesser.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, økte personlige ferdighetspoeng, lidenskaper, rykte, ferdighetsnivåer over 100 %.
+* **Eventyr:** Disse kan ligne på eventyr eller historier fra klassiske fortellinger fra den tiden, utforskning av eldgamle forbannelser, avtaler med mytiske vesener, og modige karakterer fra de laveste tyver til edle prinser eller prinsesser.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Økte personlige ferdighetspoeng, Lidenskaper, Rykte, Ferdighetsverdier over 100 %.
 
 ### Opplysningstiden og renessansen
 
-Primært om Europa i renessansen, selv om det også kan innlemme fantasy og fantasifull virkelighet, slik som utbredt bruk av Leonardo da Vincis oppfinnelser. En tid da kunst og vitenskap vokste dramatisk, og beskyttelse av kunsten oppmuntret til utvikling, med en bemerkelsesverdig innflytelse fra antikkens klassiske verden.
+Primært om Europa i renessansen, selv om det også kan innlemme fantasy og fantasifull virkelighet, som utbredt bruk av oppfinnelsene til Leonardo da Vinci. En tid da kunst og vitenskap vokste dramatisk, beskyttelse oppmuntret til kunstnerisk utvikling, med en merkbar innflytelse fra antikkens klassiske verden.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Magi og trolldom kan eksistere, men være forbudt av religiøse institusjoner. Alkymi (skaping av magiske gjenstander og eliksirer) er en populær syssel for lærde.
-* **Teknologi:** Som med høy-middelalderen er det høydepunktet av dyktig håndverk, vitenskap og oppfinnelse: med urverk, krutt og presisjonsverktøy, og prinsipper som damp-, vann- og vindkraft blir utforsket. Introduksjonen av armbrøsten har praktisk talt eliminert bruken av kroppsrustning.
-* **Eventyr:** En barokk politisk atmosfære og et dypt skisma mellom kirken og opplysningstiden skaper en dynamisk innstilling der karakterer kan være kunstmesener trukket inn i intriger, eller de kan være avvikende oppfinnere hvis oppdagelser fører dem i trøbbel. Alternativt kan de dra til havs eller reise til den nye verden.
-* **Valgmuligheter:** Valg av karakteristikker, kulturelle modifikatorer, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lese- og skriveferdighet, lidenskaper, rykte.
+* **Krefter:** Magi og trolldom kan eksistere, men være forbudt av religiøse institusjoner. Alkymi (skaping av magiske gjenstander og eliksirer) er en populær aktivitet for lærde.
+* **Teknologi:** Som med høy-middelalderen, er det høydepunktet av dyktig håndverk, vitenskap og oppfinnelser: med urverk, krutt og presisjonsverktøy, og prinsipper som damp-, vann- og vindkraft blir utforsket. Introduksjonen av armbrøst har praktisk talt eliminert bruken av kroppsrustning.
+* **Eventyr:** En barokk politisk atmosfære og en dyp splittelse mellom kirken og opplysningstiden skaper en dynamisk innstilling der karakterer kan være kunstmesener trukket inn i intriger, eller de kan være villfarne oppfinnere hvis oppdagelser fører dem i trøbbel. Alternativt kan de dra ut på de syv hav eller reise til den nye verden.
+* **Alternativer:** Valg av egenskapsverdier, Kulturelle modifikatorer, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lesekyndighet, Lidenskaper, Rykte.
 
 ### Oppdagelsestiden
 
-Denne perioden er preget av ekspansjon utover Europa, til Nord- og Sør-Amerika, Afrika, India, Kina osv., primært for kolonisering, religiøs omvendelse, territoriell annektering og opportunisme. Dette går uunngåelig dårlig for urbefolkningen, som blir utsatt for ofre, utnyttelse og til og med slaveri, mens deres kulturer blir skjøvet til side, kriminalisert eller til og med utryddet. I England regnes dronning Elizabeth Is regjeringstid som en gullalder: en utstrømming av poesi, litteratur, mote og teater. Kontinentaleuropa er imidlertid revet i stykker av krig. «Swashbuckling»-eventyr er en konvensjon i perioden.
+Denne perioden er preget av ekspansjon utover fra Europa, inn i Nord- og Sør-Amerika, Afrika, India, Kina, osv., primært for kolonisering, religiøs omvendelse, territoriell annektering og opportunisme. Dette går uunngåelig dårlig for urfolkene, som blir utsatt for ofre, utnyttelse og til og med slaveri, kulturen deres blir skjøvet til side, kriminalisert eller til og med utryddet. I England regnes dronning Elizabeth I sin regjeringstid som en gullalder: en utstrømming av poesi, litteratur, mote og teater. Det kontinentale Europa er imidlertid revet av krig. Eventyr med sverd og kårde er en konvensjon i perioden.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Trolldom, hvis det praktiseres, er sannsynligvis basert på infernalsk opprinnelse. Mindre teknologisk avanserte kulturer kan bruke magi eller trolldom i form av sjamanistisk kunnskap eller hekseri.
-* **Teknologi:** Hovedsakelig preget av en forbedring og raffinering av det som ble gitt i renessansen. Krutt blir utbredt i krigføring, med tidlig maskineri som definerer perioden. Urbefolkningen hvis land ble annektert i denne perioden var generelt mindre teknologisk avanserte og ble overvunnet av overlegen ildkraft.
-* **Eventyr:** Dette er en utfordrende periode på grunn av institusjonene for slaveri og utnyttelse som går hånd i hånd med kolonial ekspansjon. Eventyr på det europeiske fastlandet er mindre sannsynlig å håndtere disse temaene, slik som «swashbuckling»-bragder eller militære kampanjer mellom de krigførende kirkene eller adelen.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, unnvike missilvåpen, økte personlige ferdighetspoeng, lese- og skriveferdighet, lidenskaper, rykte, ferdighetsnivåer over 100 %.
+* **Krefter:** Trolldom, hvis den praktiseres, er sannsynligvis basert på infernalsk opprinnelse. Mindre teknologisk avanserte innfødte kulturer kan bruke magi eller trolldom i form av sjamanistisk kunnskap eller heksekunst.
+* **Teknologi:** Hovedsakelig preget av en forbedring og raffinering av det som ble gitt i renessansen. Krutt blir utbredt i krigføring, med tidlig maskineri som definerer perioden. Urfolkene hvis land ble annektert i denne perioden var generelt mindre teknologisk avanserte, overvunnet av overlegen ildkraft.
+* **Eventyr:** Dette er en utfordrende periode på grunn av slaveri- og utnyttelsesinstitusjonene som følger hånd i hånd med kolonialistisk ekspansjon. Eventyr på det europeiske fastlandet er mindre sannsynlig å håndtere disse temaene, slik som eventyr med sverd og kårde eller militære kampanjer mellom de stridende kirkene eller adelen.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Unnvikelse mot missilvåpen, Økte personlige ferdighetspoeng, Lesekyndighet, Lidenskaper, Rykte, Ferdighetsverdier over 100 %.
 
 ### Seilskutetiden
 
 Begynnelsen av det 19. århundre er preget av sjøfart og sjøslag, matchet av landkriger over hele Europa. Det er en tid for soldater og offiserer på hver side av slagmarken, bønder i nytteløse kriger, mens livet ved hoffet forblir stort sett uberørt.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Trolldom, hvis praktisert, vil sannsynligvis bli forbudt av kirken.
-* **Teknologi:** Teknologisk sett er denne perioden nesten identisk med kolonitiden, selv om det var fremskritt innen skipsbygging og krigføringsapparater i stor skala.
-* **Eventyr:** Noen av verdens største land- og sjøslag blir utkjempet, noe som gir rikelig med materiale for militær-tema-engasjementer. Eventyr kan dykke ned i barokke politiske eskapader, hemmelige oppdrag, genial spionasje, hoffintriger eller dueller for ære.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lese- og skriveferdighet, lidenskaper, rykte, ferdighetsnivåer over 100 %.
+* **Krefter:** Trolldom, hvis den praktiseres, vil sannsynligvis være forbudt av kirken.
+* **Teknologi:** Teknologisk er denne perioden nesten identisk med kolonitiden, selv om det var fremskritt innen skipsbygging og krigføringsutstyr i stor skala.
+* **Eventyr:** Noen av verdens største land- og sjøslag kjempes, noe som gir rikelig med materiale for militær-tematiske engasjementer. Eventyr kan gå dypere inn i barokke politiske eskapader, hemmelige oppdrag, genial spionasje, hoffintriger eller dueller med ære.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lesekyndighet, Lidenskaper, Rykte, Ferdighetsverdier over 100 %.
 
-### Den industrielle tidsalder
+### Den industrielle alder
 
-Denne æraen tilsvarer den viktorianske tiden og er full av oppfinnelser. Definert nesten utelukkende av teknologiske og produksjonsmessige fremskritt som forvandler den forrige verden til forløperen til den moderne tidsalder, er Teknologiseksjonen nedenfor den mest informative beskrivelsen av innstillingen.
+Denne æraen tilsvarer viktoriansk tid og er preget av oppfinnelser. Definert nesten utelukkende av teknologiske og produksjonsmessige fremskritt som transformerer den tidligere verden til forløperen til den moderne tid, er teknologiseksjonen nedenfor den mest informative beskrivelsen av innstillingen.
 
 * **Karaktertyper:** Nesten alle.
 * **Krefter:** Denne alderen så et nytt skille mellom spiritualitet og modernisering. Magi og psykiske evner ville representere den ene siden av kampen, mens teknologi kan tilby en rekke superkrefter i form av uvanlig og eksperimentell teknologi.
-* **Teknologi:** Masseproduksjon og fabrikk-stil produksjon har gjort standardiserte varer mer tilgjengelige og billigere enn på noe tidspunkt i menneskets historie før. Damp, kull, gass og andre energikilder er viden kjent og utnyttet i hjem og byer, med byer opplyst av gasslys, dampmaskiner som raser over USA og Europa, og havene krysset av store skip med kullfyrte, dampdrevne motorer. Kjemi blir raffinert, og vitenskapsmenn begynner å oppdage mange av universets hemmeligheter. Snart kommer bilen, som radikalt forvandler menneskelig reise og byer. Alternative historier fokuserer ofte på «steampunk», som blander dampkraft og viktoriansk estetikk, og retro-futurisme.
-* **Eventyr:** Emblematiske eventyr bør forsterke temaer om industri kontra spiritualitet, med utforskning og ny teknologi som kommer i dramatisk kontakt med gamle levemåter.
-* **Valgmuligheter:** Valg av karakteristikker, kulturelle modifikatorer, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lidenskaper, rykte.
+* **Teknologi:** Masseproduksjon og fabrikk-stil produksjon har gjort standardiserte varer mer allment tilgjengelige og billigere enn på noe tidspunkt i menneskets historie før. Damp, kull, gass og andre energikilder er allment kjent og utnyttet i hjem og byer, med byer opplyst av gasslys, damplokomotiver som raser over USA og Europa, og havene krysset av store skip med kullbrennende, dampdrevne motorer. Kjemien blir raffinert, og vitenskapsmenn begynner å oppdage mange av universets hemmeligheter. Snart kommer automobilen, som radikalt transformerer menneskelig reise og byer. Alternative historier fokuserer ofte på steampunk, som blander dampkraft og viktoriansk estetikk, samt retro-futurisme.
+* **Eventyr:** Emblematiske eventyr bør forsterke temaer om industri versus spiritualitet, med utforskning og ny teknologi som kommer i dramatisk kontakt med gamle livsstiler.
+* **Alternativer:** Valg av egenskapsverdier, Kulturelle modifikatorer, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lidenskaper, Rykte.
 
 ### Viktoriansk tid
 
-Høydepunktet av den britiske industrielle revolusjonen og den største innflytelsen av det britiske imperiet, er den viktorianske tiden preget av en gapende forskjell mellom sosiale klasser og aggressiv imperialistisk ekspansjon i hele Asia og Afrika. Det er også en tid med stor nøysomhet i personlig uttrykk.
+Høydepunktet av den britiske industrielle revolusjonen og den største innflytelsen fra det britiske imperiet, den viktorianske tiden er preget av en gapende ulikhet mellom sosiale klasser og aggressiv imperialistisk ekspansjon over hele Asia og Afrika. Det er også en tid med stor nøysomhet i personlig uttrykk.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Magi og trolldom kan praktiseres av okkultister og intellektuelle som søker yttergrensene for erfaring, mens innfødte kulturer bruker disse samme kreftene i sin religion. Merkelige, blasfemiske skapninger kan være mutanter, og æraens gryende interesse for mentalisme bruker psykiske evner.
-* **Teknologi:** Identisk med den som er beskrevet i den industrielle tidsalder (over).
-* **Eventyr:** Gasslysperioden presenterer en stor dikotomi mellom rike dilettanter som lever side om side med en ulmende mørk underverden som inneholder noen av de mest urettferdige, inhumane forhold menneskeheten har vært i stand til å påføre seg selv.
-* **Valgmuligheter:** Valg av karakteristikker, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lidenskaper, rykte, sunn fornuft (Sanity).
+* **Krefter:** Magi og trolldom kan praktiseres av okkultister og intellektuelle som søker den ytre grensen for erfaring, mens innfødte kulturer bruker disse samme kreftene i sin religion. Rare, blasfemiske skapninger kan være mutanter, og æraens gryende interesse for mentalisme bruker psykiske evner.
+* **Teknologi:** Identisk med det som er beskrevet i den industrielle alderen (ovenfor).
+* **Eventyr:** Gasslysperioden presenterer en stor dikotomi mellom rike dilettanter som lever side om side med en ulmende mørk underverden som inneholder noen av de mest urettferdige, inhumane forholdene menneskeheten har klart å påføre seg selv.
+* **Alternativer:** Valg av egenskapsverdier, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lidenskaper, Rykte, Fornuft (Sanity).
 
 ### Wild West
 
-Denne æraen finner sted i USA under og i etterkant av borgerkrigen, komplett med cowboys, «gunslingers», rangekriger, gullrushet og grenseekspansjon. Vesten blir forvandlet av nye togskinner som frakter en jevn tilstrømning av østlendinger, europeere, kinesere og frigjorte slaver, alle som søker å få en plass i den ville nye verdenen. Farer inkluderer de forskjellige amerikanske urbefolkningsnasjonene som kjemper for sin egen overlevelse, og selve det store, utemmede miljøet.
+Denne æraen finner sted i USA under og i etterkant av borgerkrigen, komplett med cowboys, revolvermenn, områdekrig, gullrushet og grenseekspansjon. Vesten blir transformert av nye jernbanespor som frakter en jevn strøm av østlendinger, europeere, kinesere og frigjorte slaver, som alle søker å skape seg en plass i den ville nye verdenen. Farer inkluderer de ulike indianernasjonene som kjemper for sin egen overlevelse, og selve det enorme, utemmede miljøet.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Magi eller trolldom kan simulere sjamaner fra urbefolkningen, hekseri, voodoo eller andre magiske tradisjoner som kunne eksistere.
-* **Teknologi:** Den industrielle tidsalder har ført til tog som krysser landet, telegrafer som danner et nettverk av kommunikasjon, fotografi, utbredte trykte medier. Slutten av æraen ser de første bilene, tidlige ubåter og til og med flymaskiner. Elektrisk strøm erstatter gasslys når den moderne verden begynner her.
-* **Eventyr:** Den mytiske Wild West inkluderer legendariske skyttere som utfører historier om hevn og heltemot mot et skarpt bakteppe. Grusomhetene ved slaveri og ugjerningene begått mot urbefolkningen henger over denne æraen, men det anbefales ikke å avvise disse aspektene og deres alvor.
-* **Valgmuligheter:** Valg av karakteristikker, kulturelle modifikatorer, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lidenskaper, rykte.
+* **Krefter:** Magi eller trolldom kan simulere indianersjamaner, heksekunst, voodoo eller andre magiske tradisjoner som kan eksistere.
+* **Teknologi:** Den industrielle alderen har ført til tog som krysser landet, telegrafer som danner et kommunikasjonsnettverk, fotografering, utbredte trykte medier. Slutten av æraen ser de første bilene, tidlige ubåter og nedsenkbare fartøyer, og til og med flymaskiner. Elektrisk strøm erstatter gasslys når den moderne verden begynner her.
+* **Eventyr:** Den mytiske Wild West inkluderer legendariske revolvermenn som utspiller historier om hevn og heltemot mot et skarpt bakteppe. Grusomhetene ved slaveri og overgrepene mot indianere henger over denne æraen; det anbefales imidlertid ikke å avvise disse aspektene og deres alvor.
+* **Alternativer:** Valg av egenskapsverdier, Kulturelle modifikatorer, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lidenskaper, Rykte.
 
 ### Pulp-æraen
 
-Oppkalt etter det billige avispapiret i eventyrmagasiner som definerte æraen, er populærkulturen om tiden mellom første og andre verdenskrig en av masseunderholdning, internasjonale reiser til eksotiske steder, organisert kriminalitet, teknologisk innovasjon, skattejakt, røff individualisme, samt merkelig skrekk og maskerte kriminalitetsbekjempere.
+Oppkalt etter det billige avispapiret i eventyrmagasiner som definerte æraen, popkulturen om tiden mellom første og andre verdenskrig er en av masseunderholdning, internasjonale reiser til eksotiske steder, organisert kriminalitet, teknologisk innovasjon, skattejakt, robust individualisme, samt merkelig skrekk og maskerte kriminalitetsbekjempere.
 
 * **Karaktertyper:** Alle.
 * **Krefter:** Alle.
-* **Teknologi:** Pulp inneholder ofte merkelig vitenskap, som dødsstråler, gigantiske roboter, flymaskiner, tankekontrollerende enheter og jordtunnel-maskiner, samt fantastiske vidundere som skip som er i stand til interstellare flyvninger, jetpakker, håndleddsradioer, flyvende biler og lignende. Anakronistisk teknologi er en stift i pulp-æraen.
-* **Eventyr:** Mysterier; thrillere; grusom skrekk; utforskning av det ukjente, verdensrommet og den hule jorden; tapte byer som fortsatt er bebodd; lufteventyr; cliffhangere; merkelige og grusomme historier om merkelig kriminalitet; firkant-kjevede helter som kjemper mot skumle kriminelle overherrer og deres håndlangere; romveseninvasjon; og til og med maskerte hevnere som deler ut kald rettferdighet... alt dette er elementer av mulige pulp-eventyr.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, unnvike missilvåpen, utdanning/kunnskapssjekk, høyere startkarakteristikker, økte personlige ferdighetspoeng, bruk av kraft i handlingsfasen, lidenskaper, rykte, sunn fornuft (Sanity), ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Teknologi:** Pulp inneholder ofte merkelig vitenskap, som dødsstråler, gigantiske roboter, flymaskiner, tanke-endrende enheter og jordtunnel-maskiner, samt fantastiske underverk som skip kapable til interstellare reiser, jet-pakker, håndleddsradioer, flygende biler og lignende. Anakronistisk teknologi er en stift i pulp-æraen.
+* **Eventyr:** Mysterier; thrillere; grusom skrekk; utforskning av det ukjente, verdensrommet og den hule jorden; tapte byer som fortsatt er bebodd; luft-eventyr; cliffhangere; rare og luride historier om merkelig kriminalitet; firkantede helter som kjemper mot onde kriminelle overherrer og deres undersåtter; invasjon fra romvesener; og til og med maskerte hevnere som deler ut kald rettferdighet . . . alt dette er elementer av mulige pulp-eventyr.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Unnvikelse mot missilvåpen, Utdanning/Vitenskaps-rull, Høyere start-egenskaper, Økte personlige ferdighetspoeng, Bruk av krefter i handlingsfasen, Lidenskaper, Rykte, Fornuft (Sanity), Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ### Planetarisk eventyr
 
-Denne innstillingen fokuserer på reiser til merkelige verdener, sett gjennom øynene til mennesker som er sendt til dem gjennom mystiske midler. Der møter de uunngåelig fremmede arter, merkelige skikker, eldgamle ruiner og barokk superteknologi, ofte side om side med «sword-and-sandal»-eventyr.
+Denne innstillingen fokuserer på reiser til fremmede verdener, sett gjennom øynene til mennesker sendt dit gjennom mystiske midler. Der møter de uunngåelig fremmede arter, merkelige skikker, eldgamle ruiner og barokk superteknologi, ofte side om side med eventyr med sverd og sandaler.
 
 * **Karaktertyper:** Alle.
 * **Krefter:** Vanligvis mutasjoner eller psykiske evner, eller til og med superkrefter.
-* **Teknologi:** Vanligvis en blanding av eldgammel og nesten glemt teknologi med utrolig kraft og nytte, side om side med supervitenskap fra geniale oppfinnere. Krigere kan bære energipistoler sammen med sverd, fly luftskip og ri på fremmede ridedyr.
-* **Eventyr:** Karakterer sendes vanligvis til disse verdenene av uforklarlige årsaker og sliter ofte med å forstå sitt nye miljø og dets utfordringer. De må navigere i merkelige skikker og eldgamle tradisjoner, og kan være agenter for forandring på disse bisarre fremmede stedene. Svik, episk kjærlighet, dramatiske forræderier, plutselige vendinger i formue, allianser med merkelige skapninger, tapte byer fulle av eldgammel og glemt teknologi... dette er alle stifter av planetariske eventyr.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, unnvike missilvåpen, høyere startkarakteristikker, økte personlige ferdighetspoeng, ikke-menneskelige karakterer, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Teknologi:** Vanligvis en blanding av eldgamle og nesten glemte teknologier med utrolig kraft og nytteverdi, side om side med supervitenskap fra geniale oppfinnere. Krigere kan bære energipistoler sammen med sverd, fly luftskip og ri på fremmede ridedyr.
+* **Eventyr:** Karakterer blir vanligvis sendt til disse verdenene på uforklarlige måter og sliter ofte med å forstå sitt nye miljø og dets utfordringer. De må navigere i merkelige skikker og eldgamle tradisjoner, og kan være agenter for endring på disse bisarre fremmede stedene. Svik, episk kjærlighet, dramatiske forræderier, plutselige vendinger i formue, allianser med merkelige skapninger, tapte byer fulle av eldgamle og glemte teknologier… dette er alt sammen stifter i planetariske eventyr.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Unnvikelse mot missilvåpen, Høyere start-egenskaper, Økte personlige ferdighetspoeng, Ikke-menneskelige karakterer, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ### Andre verdenskrig
 
 Andre verdenskrig og årene før og etter var preget av nasjonalistisk iver, usikkerhet, global konflikt og spionasje. Dette er også en god innstilling for superheltaktivitet i krigstiden.
 
 * **Karaktertyper:** Nesten alle.
-* **Krefter:** Hitlers tredje rike trodde på magi som et middel til makt, og de kan ha vært inne på noe. Mange slike innstillinger har også æraen som fødselen av verdens første kostymerte superhelter.
-* **Teknologi:** Nye fremskritt innen krigsteknologi inkluderte større og bedre slagskip, mer sofistikerte ubåter, stridsvogner og fly, etc., men alle ble overskygget av fremkomsten av atombomben, som fundamentalt definerte vitenskapens og politikkens kurs for alltid.
-* **Eventyr:** Karakterer kan være motstandskjempere i det okkuperte Europa, allierte soldater eller agenter på slagmarken, spioner bak fiendens linjer, kriminalitetsbekjempere og regjeringsagenter som bekjemper sabotører hjemme, eller til og med kostymerte superhelter som kjemper hjemme og ute.
-* **Valgmuligheter:** Utdanning/kunnskapssjekk, tretthetspoeng, økte personlige ferdighetspoeng, lidenskaper, sunn fornuft (Sanity).
+* **Krefter:** Hitlers tredje rike trodde på magi som et middel til makt, og de kan ha vært inne på noe. Mange slike innstillinger har også æraen som begynnelsen på verdens første kostymerte superhelter.
+* **Teknologi:** Nye utviklinger innen krigsteknologi inkluderte større og bedre slagskip, mer sofistikerte ubåter, stridsvogner og fly, osv., men alle ble skyggelagt av fremkomsten av atombomben, som fundamentalt definerte retningen for vitenskap og politikk for alltid.
+* **Eventyr:** Karakterer kan være motstandskjempere i det okkuperte Europa, allierte soldater eller agenter på slagmarken, spioner bak fiendens linjer, kriminalitetsbekjempere og regjeringsagenter som kjemper mot sabotører hjemme, eller til og med kostymerte superhelter som kjemper hjemme og ute.
+* **Alternativer:** Utdanning/Vitenskaps-rull, Tretthetspoeng, Økte personlige ferdighetspoeng, Lidenskaper, Fornuft (Sanity).
 
 ### Noir
 
-Noir er nesten alltid urbant og definert av et dystert syn, med verdensrette helter, forførelser, lumsk kriminalitet, amoralske sosietetsmennesker, moralsk korrupsjon, uunngåelige forræderier osv. Vanligvis er hovedpersonene hjemsøkt av indre demoner og må kjempe for å overleve, alene mot et fiendtlig og likegyldig univers, ofte fortsatt traumatisert av andre verdenskrig.
+Noir er nesten alltid urbant og definert av et dystert utsyn, med verdensvante helter, forførelser, lumsk kriminalitet, amoralske sosietetsmedlemmer, moralsk korrupsjon, uunngåelige svik, osv. Vanligvis er hovedpersonene hjemsøkt av indre demoner og må kjempe for å overleve, alene mot et fiendtlig og likegyldig univers, ofte fortsatt traumatisert av andre verdenskrig.
 
 * **Karaktertyper:** Alle.
 * **Krefter:** Vanligvis ingen, men magisk noir har hovedpersoner som enten motsetter seg trolldom eller bruker den.
-* **Teknologi:** Tilsvarende etterkrigstidens Amerika og Europa.
-* **Eventyr:** Uunngåelig mysterier som omhandler etiske og moralske dilemmaer, ofte «ingen vei ut»-scenarioer hvor vanlige mennesker er fanget av dårlige omstendigheter og må ty til desperate tiltak.
-* **Valgmuligheter:** Utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, lidenskaper.
+* **Teknologi:** Tilsvarer etterkrigstidens Amerika og Europa.
+* **Eventyr:** Uunngåelig mysterier som omhandler etiske og moralske dilemmaer, ofte «ingen vei ut»-scenarioer der vanlige mennesker er fanget av dårlige omstendigheter og må ty til desperate tiltak.
+* **Alternativer:** Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Lidenskaper.
 
 ### Moderne
 
-Nåtiden, begynnelsen av det 21. århundre, med avanserte samfunn, global informasjonsstruktur, ukontrollert kapitalisme og ubegrenset teknologi, alt i ferd med å gå fremover i et ufattelig tempo mot et nær-sikkert globalt sammenbrudd. Denne innstillingen er også standardæraen for thrillere og moderne skrekk. Dette kan også dekke den kalde krigen.
+Nåtiden, begynnelsen av det 21. århundre, med avanserte samfunn, global informasjonsstruktur, uhemmet kapitalisme og ubegrenset teknologi, som alle utvikler seg i et ufattelig tempo mot et nesten sikkert globalt sammenbrudd. Denne innstillingen er også standard-æraen for thrillere og moderne skrekk. Dette kan også dekke den kalde krigen.
 
 * **Karaktertyper:** Alle.
 * **Krefter:** Alle.
-* **Teknologi:** Kan være realistisk eller superavansert, som ønsket.
-* **Eventyr:** Alle, fra skrekk, thrillere, militæraksjon, spioner, bedriftsintriger, nær-fremtids sci-fi, dystopisk, internasjonale intriger, konspirasjon, superhelt, osv.
-* **Valgmuligheter:** Disse kan variere etter sjanger.
+* **Teknologi:** Kan være realistisk eller superavansert, etter ønske.
+* **Eventyr:** Alle, fra skrekk, thrillere, militæraksjon, spioner, bedriftsintriger, nær-fremtids sci-fi, dystopisk, internasjonal intrige, konspirasjon, superhelt, osv.
+* **Alternativer:** Disse kan variere etter sjanger.
 
 ### Superverden
 
-Vår verden, men med kostymerte superhelter, og ringvirkningene av superhelter, er en del av historien og det moderne liv. En superheltinnstilling kan innlemme alternativ historie, parallelle virkeligheter, tidsreiser, romvesener, magi, konspirasjonsteorier eller hva som helst man måtte ønske.
+Vår verden, men med kostymerte superhelter, og ringvirkningene av superhelter er en del av historien og det moderne livet. En superhelt-innstilling kan innlemme alt-historie, parallelle virkeligheter, tidsreiser, romvesener, magi, konspirasjonsteorier eller alt annet som er ønskelig.
 
 * **Karaktertyper:** Alle.
 * **Krefter:** Alle, og mange karakterer har mer enn én krafttype.
-* **Teknologi:** Som moderne. Selv om supervitenskap er kjent, har den ennå ikke hatt en meningsfull innvirkning på livene til de fleste vanlige mennesker.
-* **Eventyr:** Historier om heltemot og utfordringer, utforskning av merkelige parallelle dimensjoner osv. Superhelter kjemper ofte med alter egoer og hemmelige identiteter, og komplekse spørsmål om rett og galt. En superverden-kampanje kan variere fra en prangende verden med vagt latterlige skurker, en nær-mytisk behandling av superhelter som moderne halvguder, svimmel utforskning av galaksen og merkelige hjørner av jorden, eller en «gritty» gatekriminalitet som bare skiller seg ut ved spandex-drakter, eller til og med et paramilitært rammeverk for verdensendrende superhelt-intervensjon.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, unnvike missilvåpen, utdanning/kunnskapssjekk, høyere startkarakteristikker, økte personlige ferdighetspoeng, lese- og skriveferdighet, ikke-menneskelige karakterer, lidenskaper, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Teknologi:** Som moderne. Selv om supervitenskap er kjent, har den ennå ikke gjort et meningsfylt inntrykk på livene til de fleste normale mennesker.
+* **Eventyr:** Historier om heltemot og utfordringer, utforskning av merkelige parallelle dimensjoner, osv. Superhelter kjemper ofte med alter egoer og hemmelige identiteter, og komplekse spørsmål om rett og galt. En superverden-kampanje kan variere fra en prangende fire-farget verden med vagt latterlige skurker, en nesten mytisk behandling av superhelter som moderne halvguder, svimmel utforskning av galaksen og merkelige hjørner av jorden, tøff gatekriminalitet som bare skiller seg ut ved lycra-bodyer, eller til og med et paramilitært rammeverk for verdensendrende superhelt-intervensjon.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Unnvikelse mot missilvåpen, Utdanning/Vitenskaps-rull, Høyere start-egenskaper, Økte personlige ferdighetspoeng, Lesekyndighet, Ikke-menneskelige karakterer, Lidenskaper, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ### Post-apokalyptisk
 
-En katastrofe har for alltid knust den moderne verden, og kastet den inn i en tilstand der menneskeheten må kjempe for å overleve. Årsaken kan være en begrenset atomutveksling, vitenskap som har gått galt, romveseninvasjon, de eldste gudene som våkner, samfunnssammenbrudd, pandemi, en miljøkatastrofe eller zombier... eller mer enn én av disse. Innstillingen kan inkludere mutanter, sanket teknologi og plyndrende gjenger. Noen post-apokalyptiske innstillinger er som Westerns, med små enklaver av mistenksomme byfolk og vandrende ensomme ulver som må stole på sin forstand og våpen for å overleve.
+En katastrofe har for alltid knust den moderne verden, og kastet den inn i en tilstand der menneskeheten må kjempe for å overleve. Årsaken kan være en begrenset atomutveksling, vitenskap som har gått galt, romveseninvasjon, de eldgamle gudene som våkner, samfunnssammenbrudd, pandemi, en miljøkatastrofe eller zombier… eller mer enn én av disse. Innstillingen kan inkludere mutanter, sanket teknologi og plyndrende gjenger. Noen post-apokalyptiske innstillinger er som westerns, med små enklaver av mistenksomme byfolk og vandrende ensomme ulver som må stole på vettet og våpnene sine for å overleve.
 
-* **Karaktertyper:** For en nylig apokalypse kan overlevende være fra ethvert yrke, mens senere blir valgene mer begrenset.
-* **Krefter:** Mutasjoner i innstillinger med radioaktivitet, mens psykiske evner og superkrefter også kan ha utviklet seg fra nedfallet. Århundrer senere kan folk ha gjenoppdaget magi eller trolldom også.
-* **Teknologi:** Avhengig av katastrofens natur kan teknologien være antikvarisk sammenlignet med den moderne verden, identisk, eller den kan inneholde vitenskapelige fremskritt langt fjernet fra vår egen æra. Hvis det er romvesener, kan det finnes fremmed teknologi.
-* **Eventyr:** Post-apokalyptiske historier handler vanligvis om brutaliteten og kostnadene ved overlevelse, eller innsatsen for å gjenoppbygge samfunnet. Det kan være behov for å sanke gammel teknologi og lære hva som kan finnes i ruinene.
-* **Valgmuligheter:** Valg av karakteristikker, tretthetspoeng, økte personlige ferdighetspoeng, lese- og skriveferdighet, ikke-menneskelige karakterer, sunn fornuft (Sanity).
+* **Karaktertyper:** For en nylig apokalypse kan overlevende være fra ethvert yrke, mens senere blir alternativene mer begrensede.
+* **Krefter:** Mutasjoner i innstillinger med radioaktivitet, mens psykiske evner og superkrefter også kan ha utviklet seg fra nedfallet. Århundrer senere kan folk også ha gjenoppdaget magi eller trolldom.
+* **Teknologi:** Avhengig av katastrofens art kan teknologien være antikvert sammenlignet med den moderne verden, identisk, eller den kan inneholde vitenskapelige fremskritt langt fra vår egen æra. Hvis det er romvesener, kan det finnes fremmed teknologi.
+* **Eventyr:** Post-apokalyptiske historier handler vanligvis om brutaliteten og kostnaden ved overlevelse, eller innsatsen for å gjenoppbygge samfunnet. Det kan være behov for å sanke gammel teknologi og lære hva som kan finnes i ruinene.
+* **Alternativer:** Valg av egenskapsverdier, Tretthetspoeng, Økte personlige ferdighetspoeng, Lesekyndighet, Ikke-menneskelige karakterer, Fornuft (Sanity).
 
 ### Nær-fremtid/Cyberpunk
 
-Menneskeheten har fortsatt å grensesnitte med teknologi og tapt mye i prosessen. Megaselskaper har antatt regjeringsnivåer av kontroll over innbyggere, og kunnskap er den mest verdifulle valutaen. Livet er raskt, praktisk, billig og lett tilgjengelig. Foreningen av menneskehet og maskiner har ført til forbløffende fremskritt innen genetisk manipulasjon. Dataspace er like ekte, om ikke mer, enn den dystopiske materielle verdenen.
+Menneskeheten har fortsatt å grensesnitte med teknologi og tapt mye i prosessen. Mega-korporasjoner har antatt kontroll på myndighetsnivå over innbyggerne, og kunnskap er den mest verdifulle valutaen. Livet er raskt, praktisk, billig og lett tilgjengelig for å kastes. Foreningen av menneskehet og maskiner har ført til forbløffende fremskritt innen genetisk manipulasjon. Dataspace er like virkelig, om ikke mer, enn den dystopiske materielle verdenen.
 
 * **Karaktertyper:** Nesten alle.
 * **Krefter:** Alle, vanligvis simulert av teknologi.
-* **Teknologi:** Den moderne verden på overdrive. Romreiser kan ha blitt dagligdags, og virtuelle verdener er grenseløse.
-* **Eventyr:** Opprør og søken etter identitet er vanlige temaer i disse eventyrene, og karakterer kan finne seg selv på flukt for livet, mens de prøver å ligge et skritt foran monolittiske, upersonlige fiender som ser ut til å være overalt.
-* **Valgmuligheter:** Angrep og parering over 100 %, valg av karakteristikker, utdanning/kunnskapssjekk, økte personlige ferdighetspoeng, sunn fornuft (Sanity), ferdighetsnivåer over 100 %.
+* **Teknologi:** Den moderne verden på overdrive. Romreiser kan ha blitt vanlig, og virtuelle verdener er grenseløse.
+* **Eventyr:** Opprør og søken etter identitet er vanlige temaer i disse eventyrene, og karakterer kan finne seg selv på flukt for livet, i et forsøk på å ligge i forkant av monolittiske, upersonlige fiender som ser ut til å være overalt.
+* **Alternativer:** Angrep og parader over 100 %, Valg av egenskapsverdier, Utdanning/Vitenskaps-rull, Økte personlige ferdighetspoeng, Fornuft (Sanity), Ferdighetsverdier over 100 %.
 
 ### Romutforskning
 
-I denne «hard science fiction»-innstillingen er romutforskning i stor skala enten underveis eller nylig etablert. Livet på og utenfor jorden fortsetter stort sett som før. Politiske konflikter former spredningen over stjernene, og jakten på beboelige planeter eller ressurser dominerer mye utforskning.
+I denne harde science fiction-innstillingen er romutforskning i stor skala enten i gang eller nylig etablert. Livet på og utenfor jorden fortsetter mye som det gjorde før. Politiske konflikter former spredningen blant stjernene, og jakten på beboelige planeter eller ressurser dominerer mye utforskning.
 
 * **Karaktertyper:** Alle.
-* **Krefter:** Mutasjoner og psykiske evner kan eksistere, men ofte være skumle og skremmende.
-* **Teknologi:** Generelt har denne innstillingen en vitenskapelig tilnærming til romfart, og teknologi er lett ekstrapolert fra moderne teknologi.
-* **Eventyr:** Mange menneskelige dramaer og konflikter kan utspille seg i verdensrommet, noe som utgjør den største utfordringen for overlevelse. Miljøutfordringer eller episke anstrengelser kan være bemerkelsesverdige eventyr, og å utforske kantene av solsystemet kan sette menneskeheten ansikt til ansikt med andre mysterier, som første kontakt med fremmed liv. Vil det være forferdelig eller fantastisk?
-* **Valgmuligheter:** Valg av karakteristikker, økte personlige ferdighetspoeng, ikke-menneskelige karakterer, ferdighetsnivåer over 100 %.
+* **Krefter:** Mutasjoner og psykiske evner kan eksistere, men ofte være merkelige og skremmende.
+* **Teknologi:** Generelt har denne innstillingen en vitenskapelig tilnærming til romfart, og teknologi ekstrapoleres lett fra moderne teknologi.
+* **Eventyr:** Mange menneskelige dramaer og konflikter kan utspille seg i verdensrommet, og det utgjør den største utfordringen for overlevelse. Miljømessige utfordringer eller episke bestrebelser kan være bemerkelsesverdige eventyr, og å utforske kantene av solsystemet kan sette menneskeheten ansikt til ansikt med andre mysterier, som en første kontakt med fremmed liv. Vil det være fryktelig eller fantastisk?
+* **Alternativer:** Valg av egenskapsverdier, Økte personlige ferdighetspoeng, Ikke-menneskelige karakterer, Ferdighetsverdier over 100 %.
 
 ### Space Opera
 
-Denne fusjonen av romreiser og pulp-eventyr er skrevet mot en galaktisk bakgrunn, full av romvesener som jobber og lever sammen med menneskeheten, til ulike grader av samarbeid. Det kan være en alt-definerende galaktisk konflikt, eller det kan være et tilfelle av en episk trussel mot jorden (eller en annen planet). I noen space opera-innstillinger kan mystiske krefter eksistere—psykiske eller fremmede trossystemer som gir merkelige krefter til sine brukere.
+Denne fusjonen av romreiser og pulp-eventyr er skrevet mot en galaktisk bakgrunn, full av romvesener som jobber og lever sammen med menneskeheten, i varierende grad av samarbeid. Det kan være en altomfattende galaktisk konflikt, eller det kan være snakk om en episk trussel mot jorden (eller en annen planet). I noen space opera-innstillinger kan mystiske krefter eksistere—psykiske eller fremmede trossystemer som gir merkelige krefter til brukerne.
 
 * **Karaktertyper:** Alle.
-* **Krefter:** Romvesener kan skapes ved hjelp av mutasjoner, psykiske evner kan representere mystiske krefter eller fremvoksende krefter, og superkrefter kan modellere kybernetiske implantater. I noen space opera-innstillinger kan trolldom eller magi også eksistere, basert på vitenskapelige prinsipper snarere enn overnaturlige krefter.
-* **Teknologi:** Teknologinivået skiller seg vilt fra planet til planet: noen kan bare ha primitive våpen og ingeniørkunst, mens andre vil være mer teknologisk avanserte enn standarden. Energivåpen, lasere, personlige romskip, energiskjold... alt dette er tilgjengelig.
-* **Eventyr:** Dette er ofte tungt lagdelt med en annen arketypisk innstilling, som pulp eller «sword & sorcery». Karakterer i space opera-innstillinger vil begi seg ut på store eventyr og strebe etter storslåtte mål som kongedømme, oppretting av urett eller gjenoppretting av en tidligere gullalder.
-* **Valgmuligheter:** Troskap, angrep og parering over 100 %, valg av karakteristikker, kulturelle modifikatorer, unnvike missilvåpen, høyere startkarakteristikker, økte personlige ferdighetspoeng, lese- og skriveferdighet, ikke-menneskelige karakterer, lidenskaper, bruk av kraft i handlingsfasen, rykte, ferdighetsnivåer over 100 %, totale treffpoeng.
+* **Krefter:** Romvesener kan skapes ved bruk av mutasjoner, psykiske evner kan representere mystiske krefter eller fremvoksende krefter, og superkrefter kan modellere kybernetiske implantater. I noen space opera-innstillinger kan trolldom eller magi også eksistere, basert på vitenskapelige prinsipper fremfor overnaturlige krefter.
+* **Teknologi:** Teknologinivået varierer vilt fra planet til planet: noen kan bare ha primitive våpen og ingeniørkunst, mens andre vil være mer teknologisk avanserte enn standarden. Energivåpen, lasere, personlige romskip, energiskjold . . . alt dette er tilgjengelig.
+* **Eventyr:** Dette er ofte tungt lagdelt med en annen arketypisk innstilling, som pulp eller sword & sorcery. Karakterer i space opera-innstillinger vil begi seg ut på høye eventyr og strebe etter storslåtte mål som kongemakt, å rette opp feil eller gjenoppretting av en tidligere gullalder.
+* **Alternativer:** Troskap, Angrep og parader over 100 %, Valg av egenskapsverdier, Kulturelle modifikatorer, Unnvikelse mot missilvåpen, Høyere start-egenskaper, Økte personlige ferdighetspoeng, Lesekyndighet, Ikke-menneskelige karakterer, Lidenskaper, Bruk av krefter i handlingsfasen, Rykte, Ferdighetsverdier over 100 %, Totale treffpoeng.
 
 ## Hybridinnstillinger
 
-Alle de ovennevnte seksjonene kan kombineres med en annen, eller introduseres med et nytt element, noe som skaper en unik innstilling full av interessante og spennende muligheter. Man kan legge til superkrefter i en eldgammel verdensinnstilling for en kampanje med mytiske etterkommere av guder, eller inn i en «sword & sorcery»-innstilling for noe som ligner anime. Et annet alternativ er å legge til noe nytt og uventet til en eksisterende innstilling, en «Det er som X, men med Y...»-tilnærming, og introdusere romvesener, zombier, vampyrer eller til og med Cthulhu-mytologien til et utradisjonelt valg for en av innstillingene ovenfor.
+Alle de ovennevnte seksjonene kan kombineres med en annen, eller introduseres med et nytt element, noe som skaper en unik innstilling full av interessante og spennende muligheter. Man kan legge til superkrefter i en innstilling fra en antikk verden for en kampanje med mytiske avkom av guder, eller i en sword & sorcery-innstilling for noe som ligner anime. Et annet alternativ er å legge til noe nytt og uventet til en eksisterende innstilling, en «Det er som X, men med Y...»-tilnærming, og introdusere romvesener, zombier, vampyrer eller til og med Cthulhu-mytologien til et ikke-tradisjonelt valg for en av de ovennevnte innstillingene.
 
 ## Alternative historier
 
-Du kan også ta en av innstillingene beskrevet ovenfor og legge til én kritisk detalj som er annerledes—en teknologisk utvikling skjer århundrer tidligere, et kjent slag går en annen vei, en sentral figur oppfører seg annerledes enn historien tilsier, eller en stor anstrengelse har et annet resultat enn det som skjedde—og skaper det som kalles en «alternativ historie», som «Hva om USA tapte revolusjonskrigen?» eller «Hva om Djengis Khans horder ikke snudde, men i stedet erobret hele Europa?» Ved å ekstrapolere derfra kan man skape en spennende variant-innstilling der kjente elementer har blitt omformet av en helt annen historie. Denne typen innstilling fungerer fantastisk på egen hånd, men kan også kombineres med parallelle virkeligheter eller til og med tidsreiser. Er det noe karakterene kan gjøre for å gjenopprette en verden de aldri kjente?
+Du kan også ta en av innstillingene beskrevet ovenfor og legge til én kritisk detalj som er annerledes—en eller annen teknologisk utvikling skjer århundrer tidligere, et eller annet kjent slag går en annen vei, en sentral figur oppfører seg annerledes enn historien hadde dem, eller et eller annet større tiltak får et annet utfall enn det som skjedde—noe som skaper det som kalles en «alternativ historie», som «Hva om USA tapte den amerikanske revolusjonen?» eller «Hva om Djengis Khans horder ikke snudde og i stedet erobret hele Europa?» Ved å ekstrapolere derfra kan man skape en spennende variant-innstilling der kjente elementer har blitt omformet av en helt annen historie. Denne typen innstilling fungerer fantastisk alene, men kan også kombineres med parallelle virkeligheter eller til og med tidsreiser. Er det noe karakterene kan gjøre for å gjenopprette en verden de aldri kjente?
 
 ## Flere innstillinger
 
-Fordi *Basic Roleplaying* er egnet for mange forskjellige innstillinger, kan du til og med bruke dem alle, og flytte karakterene gjennom merkelige portaler, tidsreiser eller en annen metode som lar dem hoppe mellom verdener, med all tid og rom som deres lekeplass. Det kan bare være én parallell virkelighet som er en helt annen innstilling (kanskje en variant av deres egen jord), eller det kan være flere parallelle verdener med sine egne særtrekk. Alternativt kan karakterene være i det vesentlige udødelige og begynne i en fjern og tidligere epoke, med eventyr som spenner over hele menneskehetens historie, noe som gir full bruk av nesten hver innstilling i dette kapittelet.
+Fordi *Basic Roleplaying* passer for mange forskjellige innstillinger, kan du til og med bruke dem alle, flytte karakterene gjennom merkelige portaler, tidsreiser eller en annen metode som lar dem hoppe mellom verdener, med all tid og rom som lekeplass. Det kan bare finnes én parallell virkelighet som er en helt annen innstilling (kanskje en variant av deres egen jord), eller det kan være flere parallelle verdener med sine egne særegne trekk. Alternativt kan karakterer i hovedsak være udødelige og begynne i en fjern og tidligere epoke, ha eventyr som spenner over hele menneskehetens historie, noe som gir full bruk av nesten hver innstilling i dette kapittelet.
 
 ## Krefter og innstilling
 
-*Kapittel fire: Krefter* presenterer fem forskjellige systemer for krefter av ulike typer uten mye kontekst—for eksempel hvilke innstillinger disse kreftene passer i. Hver innstillingsbeskrivelse ovenfor inkluderer krefter den tradisjonelt er assosiert med. Mer nye innstillinger kan komme fra å kombinere krefter i innstillinger andre enn de de tradisjonelt er assosiert med.
+*Kapittel fire: Krefter* presenterer fem forskjellige systemer for krefter av ulike typer uten mye kontekst—som for eksempel hvilke innstillinger disse kreftene passer i. Hver innstillingsbeskrivelse ovenfor inkluderer krefter den tradisjonelt er assosiert med. Mer nye innstillinger kan komme fra å kombinere krefter i innstillinger andre enn de de tradisjonelt er assosiert med.
 
-*For eksempel, å legge til mutasjoner i «den mørke middelalder»-innstillingen, med karakterer som bærer disse merkelige stigmaene. Er de av guddommelig opprinnelse eller infernalsk? Kirken kan tro at disse merkelige evnene og deformitetene er resultatet av demonisk blod, mens karakterene selv kan tro at de er himmelens gaver, og bruke evnene sine for det gode, i kamp for å beskytte en verden som frykter og hater dem.*
+*For eksempel, å legge til mutasjoner i innstillingen for den mørke middelalder, der karakterene bærer disse merkelige stigmaene. Er de av guddommelig opprinnelse, eller infernalsk? Kirken kan tro at disse merkelige evnene og deformitetene er resultatet av demonisk blod, mens karakterene kan tro at de er gaver fra himmelen, og bruke evnene sine for det gode, i kamp for å beskytte et ord som frykter og hater dem..*
 
 ## Tilpasning
 
-Du kan også tilpasse en innstilling fra fiksjon, filmer, TV-serier, tegneserier, andre spill eller andre medier til en innstilling ved å bruke disse reglene. Det er mange lisensierte spill tilgjengelig, men den mest åpenbare grunnen er når en innstilling appellerer til deg og spillerne, men det ikke finnes noe sett med regler tilgjengelig. Det er mange metoder du kan velge å bruke for å tilpasse en innstilling ved å bruke *Basic Roleplaying*, med mengden arbeid nesten helt opp til din egen ambisjon og tiden du er villig til å bruke på det. Her følger en oversikt over én måte å tilpasse en innstilling fra et annet medium til et spillbart spill:
+Du kan også tilpasse en innstilling fra skjønnlitteratur, filmer, TV-serier, tegneserier, andre spill eller andre medier til en innstilling ved å bruke disse reglene. Det er mange lisensierte spill tilgjengelig, men den mest åpenbare grunnen er der en innstilling appellerer til deg og spillerne, men det ikke finnes noe sett med regler tilgjengelig. Det er mange metoder du kan velge å bruke for å tilpasse en innstilling ved hjelp av *Basic Roleplaying*, med arbeidsmengden nesten helt opp til din ambisjon og tiden du er villig til å legge ned i det. Følgende er en oversikt over én måte å tilpasse en innstilling fra et annet medium til et spillbart spill:
 
 ### Troskap
 
-Hvor slavisk kommer du til å være med innstillingen? Kommer du til å prøve å etterligne den nøyaktig, behandle den som uforanderlig kanon, eller vil du bruke den som en kilde for dine egne formål? Noen innstillinger er bemerkelsesverdig åpne for kreativ ekspansjon, mens andre er mer begrensede. Du bør bestemme hvor mye innsats du skal legge i å fremkalle den nøyaktige følelsen av innstillingen, eller om du vil la din egen smak og dine egne ideer dominere. Ingen av delene er bedre enn den andre—de appellerer bare til forskjellige stiler av spillmesterskap og forskjellige forventninger fra spillere.
+Hvor slavisk skal du være med innstillingen? Skal du prøve å etterligne den nøyaktig, behandle den som uforanderlig kanon, eller vil du bruke den som en kilde for dine egne formål? Noen innstillinger er bemerkelsesverdig åpne for kreativ ekspansjon, mens andre er mer begrensede. Du bør bestemme hvor mye innsats du skal legge i å fremkalle den nøyaktige følelsen av innstillingen, eller om du vil la din egen smak og dine egne ideer dominere. Ingen av delene er bedre enn den andre—de appellerer bare til forskjellige stiler av spillmesterskap og forskjellige spillerforventninger.
 
-Å kopiere innstillingen nøyaktig appellerer til fans av den originale innstillingen, som forhåpentligvis har nok slingringsmonn til å la spillerkarakterene gjøre noe. Appellen er åpenbar: de liker verdenen og vil føle seg nedsenket i den. Spillernes kjennskap og «buy-in» hjelper enormt. Denne avgjørelsen påvirker hvordan du bør håndtere karakterene, beskrevet i Karakterer i en tilpasset innstilling.
+Å kopiere innstillingen nøyaktig er appellerende for fans av den originale innstillingen, som forhåpentligvis har nok slingringsmonn til å la spillerkarakterene gjøre noe. Appellen er åpenbar: de liker verdenen og vil føle seg nedsenket i den. Spillerkjennskap og «buy-in» hjelper enormt. Denne beslutningen påvirker hvordan du bør håndtere karakterene, beskrevet i Karakterer i en tilpasset innstilling.
 
-Å behandle en innstilling som et springbrett for din egen kreativitet er best for innstillinger som gir rom for nye ideer og konsepter fra forskjellige kreative personell, som tegneserieverdener, serialiserte TV-serier eller bokserier med flere forfattere. De kan unngå fellen med for mye bakgrunnshistorie eller kanon, og la spillerne føle seg frie til å riste opp ting, men hvis de går for langt fra den etablerte innstillingen, kan appellen ved å bruke den innstillingen bli utvannet.
+Å behandle en innstilling som et springbrett for din egen kreativitet er best for innstillinger som gir rom for nye ideer og konsepter fra forskjellig kreativt personell, som tegneserieverdener, serier på TV eller bokserier med flere forfattere. De kan unngå fellen med for mye bakgrunnshistorie eller kanon, og la spillerne føle seg frie til å riste opp i ting, men hvis de går for langt bort fra den etablerte innstillingen, kan appellen ved å bruke den innstillingen bli vannet ut.
 
 Spør spillerne selv hva de vil se i en tilpasset innstilling og finn ut hvilket nivå av frihet de ønsker å ha.
 
-For eksempel, for en Robin Hood-kampanje kan du og spillerne dine ønske å opprettholde det generelle temaet om beleirede bandit-helter som slår til mot de skurkeaktige myndighetene, og prøver å vinne hjerter og sinn hos folket i Nottingham. Vil de være en del av Robin Hoods band, ta ordre fra ham og kjempe sammen med Will Scarlet, Maid Marian og Friar Tuck, eller vil de erstatte bandet helt, med Robin Hood som lite mer enn en fiktiv identitet de alle bruker. Kanskje Kong Richard salver dem som voktere av Sherwood Forest og de tjener til å forsvare den mot overnaturlige fiender av riket, en verden komplett med varulver, de svinnende innbyggerne av Faerie og eldgamle hedenske guder.
+For eksempel, for en Robin Hood-kampanje, vil du og spillerne dine kanskje opprettholde det overordnede temaet med beleirede banditt-helter som slår til mot de skurkeaktige myndighetene, i et forsøk på å vinne hjertene og sinnene til folket i Nottingham. Vil de være en del av Robin Hoods band, ta ordrer fra ham og kjempe sammen med Will Scarlet, Maid Marian og Friar Tuck, eller vil de erstatte bandet helt, med Robin Hood som lite mer enn en fiktiv identitet de alle bruker. Kanskje kong Richard salver dem som voktere av Sherwood Forest og de tjener til å forsvare den mot overnaturlige fiender av riket, en verden komplett med varulver, de svinnende innbyggerne i Faerie og eldgamle hedenske guder.
 
-Ideelt sett kan du og spillerne dine finne en felles grunn for å spille i en tilpasset innstilling, og alle vil være lykkelige. Å ha alle investert i innstillingen og ivrige etter å utforske den gjør hele forskjellen i spill, og du kan gjøre det til et poeng med periodiske sjekker for å spørre spillerne hvordan de føler om spillet. (Dette er generelt en god idé for enhver type kampanje.)
+Ideelt sett kan du og spillerne dine finne en felles grunn i å spille i en tilpasset innstilling, og alle vil være fornøyde. Å ha alle investert i innstillingen og ivrige etter å utforske den gjør hele forskjellen i spillet, og du kan gjøre det til et poeng med periodiske sjekker for å spørre spillerne hvordan de føler om spillet. (Dette er generelt en god idé for enhver type kampanje.)
 
 ### Karakterer i en tilpasset innstilling
 
 Å tilpasse kildemateriale til en innstilling er lettere hvis du først bestemmer hvordan spillerkarakterene passer inn i den innstillingen. Hvis kildematerialet er sterkt karakterbasert, vil du at spillerkarakterene skal være som dem, erstatte dem eller krysse veier med dem? Dette er tre helt forskjellige måter å håndtere dette på.
 
-* **Inspirert av...**: Ofte er hovedgrunnen til å ønske å bruke en bestemt innstilling å spille gjennom eventyr som i kildematerialet, så å ha karakterene til å være som originalene er vanligvis et trygt valg. Spillerkarakterene kan være originale, men støpt i samme form, eller tjene lignende roller.
-* **Erstatningshelter**: Noen ganger vil ikke spillere føle at de er annenrangs figurer, som lever i skyggen av en mye mer berømt gruppe karakterer, så i dette tilfellet, la dem faktisk la spillerkarakterene erstatte de originale figurene, enten ved å lage nye karakterer som fyller de nøyaktige samme plassene, eller rett og slett bruke de originale karakterene som sine egne spillerkarakterer.
-* **Vennlige rivaler**: Et annet alternativ med enorm appell er å la spillerkarakterene eksistere i samme verden som de originale hovedpersonene. De kan kjenne dem, være beslektet med dem, eller til og med krysse veier med dem. I slike tilfeller er det viktig å sørge for at spillerne ikke føler at karakterene deres spiller annenfiolin til de «ekte» aktørene.
+* **Inspirert av…**: Ofte er hovedårsaken til å ønske å bruke en bestemt innstilling å spille gjennom eventyr som i kildematerialet, så å ha karakterene som originalene er vanligvis et sikkert kort. Spillerkarakterene kan være originale, men støpt i samme form, eller tjene lignende roller.
+* **Erstatningshelter**: Noen ganger vil ikke spillere føle at de er andreklasses figurer, som lever i skyggen av en mye mer kjent gruppe karakterer, så i dette tilfellet, la dem faktisk la spillerkarakterene erstatte de originale figurene, enten ved å lage nye karakterer som fyller nøyaktig de samme plassene, eller rett og slett bruke de originale karakterene som sine egne spillerkarakterer.
+* **Vennlige rivaler**: Et annet alternativ med stor appell er å la spillerkarakterene eksistere i samme verden som de originale hovedpersonene. De kan kjenne dem, være i slekt med dem, eller kan til og med krysse veier med dem. I slike tilfeller er det viktig å sørge for at spillerne ikke føler at karakterene deres spiller annenfiolin til de «virkelige» drivkreftene.
 
 ### Beskrivelse av innstillingen
 
-Når du vet hva spillerne skal gjøre i verdenen, er det på tide å gå videre til selve innstillingen. Først bør du bli kjent med tonen og det brede detaljnivået i den originale innstillingen, og ta notater om all informasjon som kan være viktig. Du kan finne en fan-wiki eller ressurs som gjør ting enklere. Det er sjelden behov for å notere hver eneste lille karakter eller detalj, men du bør ta hensyn til ting spillerne vil finne viktige.
+Når du vet hva spillerne skal gjøre i verdenen, er det på tide å gå videre til selve innstillingen. Først bør du bli kjent med tonen og det brede nivået av detaljer i den originale innstillingen, og ta notater om all informasjon som kan være viktig. Du kan finne en fan-wiki eller ressurs som gjør ting enklere. Det er sjelden behov for å notere hver eneste lille karakter eller detalj, men du bør være oppmerksom på ting som spillerne vil finne viktige.
 
 Her er en liste over seksjoner du kan bruke for å organisere informasjonen om innstillingen:
 
-* Karakteralternativer, yrker, krefter osv.
+* Karakteralternativer, yrker, krefter, osv.
 * Krefter, hvis noen
-* Kulturer eller betydelige skapninger
+* Kulturer eller betydningsfulle skapninger
 * Tradisjoner eller kulturell tro
-* Miljøer, interessante steder, hellige steder osv.
+* Miljøer, interessante steder, hellige steder, osv.
 * Kjøretøy og bemerkelsesverdig teknologi
-* Religioner eller sosiale organisasjoner og prinsipper av betydning
-* Samfunn, styreform osv.
+* Religioner eller sosiale organisasjoner og bemerkelsesverdige prinsipper
+* Samfunn, styreform, osv.
 * Historiske begivenheter av betydning
-* Viktige figurer som konger eller dronninger, presidenter, religiøse ledere, historiske figurer osv.
-* Grupper, organisasjoner, samfunn, ordener osv.
+* Viktige figurer som konger eller dronninger, presidenter, religiøse ledere, historiske figurer, osv.
+* Grupper, organisasjoner, samfunn, ordener, osv.
 * Våpen og rustning, hvis relevant
 * Flora og fauna av betydning
-* Eventyrfrø, hvis spillerne forventes å søke etter sine egne plott
+* Eventyrfrø, hvis det forventes at spillerne skal søke ut sine egne plott
 
-Dette er også en tid for å definere eventuelle «regler» for innstillingen på høyt nivå, hvis noen. Hvilket kraftnivå representerer innstillingen best? Hva er det generelle moralske universet, for eksempel «det gode vil uunngåelig seire», eller «menneskeheten er en avvikelse i et kaldt og nådeløst univers».
+Dette er også en tid for å definere eventuelle «regler» på høyt nivå for innstillingen, hvis noen. Hvilket kraftnivå representerer innstillingen best? Hva er det generelle moralske universet, som «det gode vil uunngåelig seire», eller «menneskeheten er en avvikelse i et kaldt og nådeløst univers».
 
-Noen innstillinger vil ikke kreve alle disse, og du bør bare notere nok til å kjøre spillene dine og svare på eventuelle spørsmål spillerne har. Og du trenger ikke å gjøre det på forhånd. Du kan alltid fortelle spilleren at du vil tenke på et spørsmål du ikke vet svaret på og komme tilbake til dem, eller du kan ta det med spillerne og bestemme som en gruppe.
+Noen innstillinger vil ikke kreve alle disse, og du bør bare notere nok til å kjøre spillene dine og svare på eventuelle spørsmål spillerne har. Og du trenger ikke å gjøre det på forhånd. Du kan alltid fortelle spilleren at du vil tenke på et spørsmål du ikke vet svaret på og komme tilbake til dem, eller du kan ta det opp med spillerne og bestemme som en gruppe.
 
-Du kan til og med opprette en wiki eller et delt dokument på nettet når du utvikler innstillingen din, eller til og med åpne den for spillerne dine. Hvis de er interessert, la dem bidra til innstillingens skapelse.
+Du kan til og med lage en wiki eller et delt dokument på nettet når du utvikler innstillingen din, eller til og med åpne den opp for spillerne dine. Hvis de er interesserte, la dem bidra til skapelsen av innstillingen.
 
-Husk imidlertid at hvis du bruker mer tid på å lage eller tilpasse innstillingen enn det som faktisk vil bli spilt, kan det være lurt å ta et skritt tilbake og vurdere hva som er nødvendig kontra hva som er helt valgfritt. Du kan trives med å uttømmende katalogisere alle elementene fra en innstilling, mens andre vil lese (eller se) den én gang og bestemme «Jeg vet nok nå til å kjøre dette. La oss gå!». Finn ut hvilken av disse ytterpunktene du er nærmest og handle deretter.
+Husk imidlertid at hvis du bruker mer tid på å lage eller tilpasse innstillingen enn det som faktisk vil bli spilt, kan det være lurt å ta et skritt tilbake og vurdere hva som er nødvendig kontra hva som er helt valgfritt. Du trives kanskje med å kategorisere alle elementene fra en innstilling uttømmende, mens andre vil lese (eller se) den én gang og bestemme «Jeg vet nok nå til å kjøre dette. La oss gå!». Finn ut hvilken av disse ytterlighetene du er nærmest og handle deretter.
 
-Denne prosessen kan også følges for enhver original innstilling, bare i dette tilfellet får du (og potensielt spillerne dine) finne på disse detaljene.
+Denne prosessen kan også følges for enhver original innstilling, bare at i dette tilfellet får du (og potensielt spillerne dine) finne på disse detaljene.
 
-## Troskap (valgfritt)
+## Troskap (Alternativ)
 
-Mange innstillinger inkluderer troen på høyere makter. Dette kan være guder, engler, helgener, djevler, guddommelige prinsipper eller til og med abstrakte filosofiske konsepter. En karakter som konsekvent oppfører seg i samsvar med sin tro, har en troskap til den, målt med troskapsskåren. Å handle eller oppføre seg som foretrukket av ens guddom (eller guder) kan tjene troskapspoeng som indikerer dedikasjon. Troskap kan endre seg i løpet av spillet, og nye troskap kan dukke opp etter hvert som nye krefter blir viktige.
+Mange innstillinger inkluderer tro på høyere makter. Dette kan være guder, engler, helgener, djevler, guddommelige prinsipper eller til og med abstrakte filosofiske konsepter. En karakter som konsekvent oppfører seg i tråd med sin tro, har en troskap til den, målt med troskapsskåren. Å handle eller oppføre seg som foretrukket av ens guddom (eller guddommer) kan gi troskapspoeng som indikerer dedikasjon. Troskap kan endres i løpet av spillet, og nye troskaper kan dukke opp etter hvert som nye krefter blir viktige.
 
-Karakterer kan tjene troskapspoeng fra mer enn én enhet eller gud. Folk oppfører seg ikke alltid konsekvent fra dag til dag, og selv den mest moralske og etiske person kan begå utrolige onde handlinger. Systemet med troskap lar en karakter ha troskapsskårer mot motstridende eller flere krefter.
+Karakterer kan tjene troskapspoeng fra mer enn én entitet eller gud. Folk oppfører seg ikke alltid konsekvent fra én dag til den neste, og selv den mest moralske og etiske person kan begå utrolig onde handlinger. Systemet for troskap lar en karakter ha troskapsskårer overfor motstridende eller flere krefter.
 
-Når én troskapsskår er 20+ poeng høyere enn noen annen troskapsskår, anses karakteren som **alliert** med den kraften, og kan oppnå visse fordeler på grunn av denne troskapen. Karakteren må imidlertid bevisst anerkjenne denne troskapen, uavhengig av skåren. Selv om en troskap kan virke åpenbar, nyter de ikke fordelene hvis de ikke anerkjenner den.
+Når én troskapsskåre er 20+ poeng høyere enn noen annen troskapsskåre, regnes karakteren som **alliert** med den kraften, og kan oppnå visse fordeler på grunn av denne troskapen. Karakteren må imidlertid bevisst anerkjenne denne troskapen, uavhengig av skåren. Selv om en troskap kan virke åpenbar, nyter de ikke fordelene hvis de ikke anerkjenner den.
 
-Troskapspoeng går nesten aldri tapt. De er alltid positive eller 0. Hvis de reduseres, kan de ikke gå under 0. Troskapspoeng er en belønning for atferd av den ene eller andre typen, og det er derfor ideelt å ha flere (eller i det minste motstridende) krefter. Atferd som ville blitt straffet i ett trossystem blir ofte belønnet i et annet, slik at karakteren ikke blir straffet med poeng ved å handle mot den guddommelige kraften de foretrekker, men i stedet blir belønnet med poeng av kraften som motsetter seg deres foretrukne troskap.
+Troskapspoeng går nesten aldri tapt. De er alltid positive eller 0. Hvis de reduseres, kan de ikke gå under 0. Troskapspoeng er en belønning for oppførsel av én type eller en annen, så det er ideelt å ha flere (eller i det minste motstridende) krefter. Oppførsel som ville blitt straffet i ett trossystem, blir ofte belønnet i et annet, slik at karakteren ikke blir straffet med poeng ved å handle mot den guddommelige kraften de foretrekker, men i stedet blir belønnet med poeng av kraften som motsetter seg deres foretrukne troskap.
 
-Etter hvert som en alliert karakter oppnår høyere troskapsnivåer, kan de oppnå status innen den tilhørende kulten eller kirken (hvis noen), representert i titler, krefter eller ansvar.
+Etter hvert som en alliert karakter oppnår høyere nivåer av troskap, kan de oppnå status i den tilhørende kulten eller kirken (hvis noen), representert i titler, krefter eller ansvar.
 
-### Starttroskap
+### Start-troskap
 
-Hvis troskap brukes, rull 1D6–2 (minimum 0) et antall ganger lik antall tilgjengelige troskap for å representere troskapspoeng tjent før spillet begynner. Spillmesteren kan velge én av følgende for spilleren å gjøre:
+Hvis troskap brukes, kast 1D6–2 (minimum 0) et antall ganger lik antall tilgjengelige troskaper for å representere troskapspoeng opptjent før spillets begynnelse. Spillmesteren kan velge ett av følgende for spilleren å gjøre:
 
-* Tildel troskapssummer i rekkefølgen de rulles.
+* Tildel troskapssummer i rekkefølgen de kastes.
 * Tildel troskapsskårer som ønsket.
 
-For hver (hvis noen) krafttype knyttet til en åndelig kraft, legg til +1 poeng til hver passende troskap. Tilsvarende, legg til +1 for hver mutasjon for en passende troskap. Karakterer i yrkene okkultist, prest eller sjaman legger til troskapspoeng lik ½ POW (rund opp) fordelt som ønsket.
+For hver (hvis noen) krafttype knyttet til en åndelig kraft, legg til +1 poeng til hver passende troskap. Legg på samme måte til +1 for hver mutasjon for en passende troskap. Karakterer med yrkene okkultist, prest eller sjaman legger til troskapspoeng lik ½ MAK (rund opp) fordelt som ønsket.
 
 ### Øke troskap
 
-Handlinger som favoriserer troskapen øker karakterens troskapsskår. Se **Skape troskap** for en liste over potensielle handlinger som kan gi troskapspoeng. Etter et eventyr, forutsatt at karakteren har oppført seg på en måte som favoriseres av kraften, be spilleren om å utføre en troskapstest. Dette er identisk med en erfaringstest, **Ferdighetsforbedring**. Hvis testen er vellykket, øker karakterens troskapsskår med +1D6 poeng.
+Handlinger som favoriserer troskapen øker karakterens troskapsskåre. Se **Opprette troskaper** for en liste over potensielle handlinger som kan gi troskapspoeng. Etter et eventyr, forutsatt at karakteren har oppført seg på en måte som er favorisert av kraften, be spilleren om å utføre en troskapstest. Dette er identisk med en erfaringssjekk **Ferdighetsforbedring**. Hvis vellykket, øker karakterens troskapsskåre med +1D6 poeng.
 
-Hvis karakteren har utført handlinger oppmuntret av flere troskap, be om erfaringstester for alle aktuelle troskap, der hver får +1D6 poeng hvis vellykket.
+Hvis karakteren har utført handlinger oppmuntret av flere troskaper, be om erfaringssjekker for alle troskaper som gjelder, der hver får +1D6 poeng hvis den er vellykket.
 
-### Flere troskap
+### Flere troskaper
 
-**Uansett hvilke retningslinjer troskapen favoriserer, har hver karakter fri vilje og kan handle som ønsket.** En karakter kan ha skårer i alle, noen eller ingen av de tilgjengelige troskapene. Karakterens allianse er imidlertid bare med den høyeste av skårene hvis den skåren er 20+ poeng høyere enn den nest høyeste, og da bare hvis karakteren anerkjenner troskapen.
+**Uansett hvilke retningslinjer som favoriseres av troskapen deres, har hver karakter fri vilje og kan handle som ønsket.** En karakter kan ha skårer i alle, noen eller ingen av de tilgjengelige troskapene. Karakterens allianse er imidlertid bare med den høyeste av skårene hvis den skåren er 20+ poeng høyere enn den nest høyeste, og da bare hvis karakteren anerkjenner troskapen.
 
 ### Opprettholde troskap
 
-Når en alliert karakter handler i strid med interessene til sin troskap, kan du kreve at spilleren lykkes med en rull på D100 for å teste den troskapen. Hvis rullen er over karakterens nåværende troskapsskår, bør du øke karakterens motstridende troskapsskår med et beløp lik 1D4 til 1D8, avhengig av graden av den avvikende atferden. Hvis rullen er lik eller lavere enn karakterens nåværende troskapsskår, er det ingen konsekvens.
+Når en alliert karakter handler i strid med interessene til sin troskap, kan du kreve at spilleren lykkes med et kast på D100 for å teste den troskapen. Hvis kastet er over karakterens nåværende troskapsskåre, bør du øke karakterens motstridende troskapsskåre med et beløp lik 1D4 til 1D8, avhengig av graden av avvikende oppførsel. Hvis kastet er lik eller lavere enn karakterens nåværende troskapsskåre, er det ingen konsekvens.
 
-Hvis karakteren har en troskapsskår på 100+ og har forpliktet seg til den saken, bør du advare spilleren om at alle handlinger tatt mot den troskapen er på karakterens egen risiko. En karakter med sterk troskap kan miste fordelene ved troskapen og bli ansett som en fiende av medtroende. Det kan påføres en guddommelig eller karmisk straff, eller de må kanskje utføre bot for å få fordelene sine gjenopprettet. Bot kan være faste og langvarig meditasjon, en søken, en angershandling, et offer av noe slag eller et renselsesritual.
+Hvis karakteren har en troskapsskåre på 100+ og har forpliktet seg til den saken, bør du advare spilleren om at alle handlinger tatt mot den troskapen er på karakterens egen risiko. En karakter med en sterk troskap kan miste fordelene ved troskapen og bli ansett som en fiende for medtroende. Det kan bli påført en guddommelig eller karmisk straff, eller de må kanskje påta seg bot for å se fordelene sine gjenopprettet. Bot kan være faste og langvarig meditasjon, et oppdrag, en angershandling, et offer av noe slag eller et renselsesrituale.
 
-### Skape troskap
+### Opprette troskaper
 
-Du bør definere troskapene og etablere hva hver av dem står for. Det er best å ha minst to krefter som kjemper om en spillerkarakters troskap, for å understreke kampen mellom ett troskurs mot et annet.
+Du bør definere troskapene og etablere hva hver av dem står for. Det er best å ha minst to krefter som kjemper om en spillerkarakters troskap, for å understreke kampen mellom én kurs av tro kontra en annen.
 
-Neste steg er å bestemme hvor mange troskapspoeng som tildeles for ulike handlinger. Den enkleste måten å gjøre dette på er å lage en sjekkliste over handlinger som sannsynligvis vil forekomme i spillet og bestemme hvilken kraft som tildeler troskapspoeng for hver handling. Her er noen passende handlinger:
+Neste steg er å bestemme hvor mange troskapspoeng som tildeles for ulike handlinger. Den enkleste måten å gjøre dette på er å lage en sjekkliste over handlinger som sannsynligvis vil forekomme i spillet og bestemme hvilken kraft som tildeler troskapspoeng for hver handling. Følgende er noen passende handlinger:
 
 * Hjelpe noen som er svakere enn deg selv
-* Oppføre seg vanærende
-* Oppføre seg ærefullt
-* Veldedighet mot de svake eller trengende
+* Oppføre seg uærlig
+* Oppføre seg ærlig
+* Veldedighet overfor de svake eller nødlidende
 * Skape noe for å ære din allierte kraft
 * Ødelegge et overnaturlig vesen
 * Ødelegge noe hellig for en annen kraft
@@ -372,347 +372,342 @@ Neste steg er å bestemme hvor mange troskapspoeng som tildeles for ulike handli
 * Redde noens liv
 * Tyveri
 
-For hver handling foreslås det at du lister opp troskapsbelønningen for en motstridende handling, slik at «Hjelpe noen som er svakere enn deg selv» kan motvirkes av «Utnytte noen som er svakere enn deg selv». Store handlinger er verdt 3 troskapspoeng, betydelige er verdt 2, og mindre er verdt 1 poeng.
+For hver handling foreslås det at du lister opp troskapsbelønningen for en motstridende handling, for eksempel at «Hjelpe noen svakere enn deg selv» kan bli motsagt av «Utnytte noen som er svakere enn deg selv». Store handlinger er verdt 3 poeng troskap, betydelige handlinger er verdt 2, og mindre handlinger er verdt 1 poeng.
 
-Etter dette må du bestemme om troskap tilbyr noen spesielle fordeler eller om troskapspoengene bare vil være et mål på hengivenhet til den kraften. Disse kan hentes fra **Fordeler ved troskap** (nedenfor) eller kan være mer spesifikke for arten av den guddommelige kraften.
+Etter dette må du bestemme om troskap tilbyr noen spesielle fordeler eller om troskapspoengene bare vil være et mål på hengivenhet til den kraften. Disse kan hentes fra **Fordeler ved troskap** (neste) eller kan være mer spesifikke for den guddommelige kraftens natur.
 
-Når karakteren når 100+ med en spesifikk troskap, kan de anses som å ha blitt en **apoteose** av troskapen, en modell av den guddommelige kraftens vilje i verden.
+Når karakteren når 100+ med en spesifikk troskap, kan de anses som å ha blitt en **apoteose** av troskapen, et forbilde for den guddommelige kraftens vilje i verden.
 
-En kampanje som inkluderer kristen teologi ville hatt himmelen og helvete som de to motstridende troskapene, med den høyeste troskapen som en sterk indikator på hvor karakteren vil dra når de dør. En kampanjeinnstilling med et panteon av guder lar karakteren ha troskap til flere guder.
+En kampanje som innlemmer kristen teologi vil ha himmelen og helvete som de to motstridende troskapene, der den høyeste troskapen er en sterk indikator på hvor karakteren vil dra når de dør. En kampanjeinnstilling med et pantheon av guder lar karakteren ha troskap til flere guder.
 
-Troskap trenger ikke nødvendigvis være knyttet til guddommelige vesener fra fantasyverdener, eller til og med religioner. I en science fiction-innstilling kan troskap være til noe så abstrakt som en mystisk kraft som binder alle levende vesener sammen, med motstridende lyse og skyggefulle sider. Troskap i en superhelt-innstilling kan være mot lov eller anarki, eller rett og galt. Superhelter får troskap ved å beseire skurker og redde de uskyldige, mens superskurker blir belønnet ved å begå kriminalitet og unnslippe rettferdighet.
+Troskap trenger ikke nødvendigvis å være knyttet til guddommelige vesener fra fantasyverdener, eller engang religioner. I en science fiction-innstilling kan troskap være til noe så abstrakt som en mystisk kraft som binder alle levende vesener sammen, med motstridende lyse og skyggefulle sider. Troskap i en superhelt-innstilling kan være mot lov eller anarki, eller rett og galt. Superhelter får troskap ved å beseire skurker og redde de uskyldige, mens superskurker blir belønnet ved å begå kriminalitet og unnslippe rettferdighet.
 
 ### Fordeler ved troskap
 
-Bestem om det er noen reelle fordeler ved troskap, og hva disse er. Hvis én troskap gir en fordel, bør de andre tilby tilsvarende fordeler, for eksempel noe av følgende:
+Bestem om det er noen reelle fordeler ved troskap, og hva disse er. Hvis én troskap gir en fordel, bør de andre tilby tilsvarende fordeler, som for eksempel noe av følgende:
 
-* Når karakterens kraftpoeng er brukt opp, kan de, etter en vellykket troskapsrull, umiddelbart få opptil 1/10 (10 %) av sin nåværende troskapsskår (rund opp) som en ekstra reserve av kraftpoeng. Troskapspoengene endres ikke med denne fordelen. Disse poengene må trekkes når karakterens siste kraftpoeng er brukt, ellers vil de besvime. Poengene er ellers identiske med vanlige kraftpoeng. Dette kan forsøkes opptil tre ganger i løpet av en spilløkt. Hvis du bruker denne evnen, kan karakteren foreta en troskapstest på slutten av eventyret.
-* Med en vellykket troskapsrull kan karakteren bruke opptil 1/5 (20 %), rundet opp, av sin nåværende troskapsskår som midlertidige treffpoeng, én gang per spilløkt. Troskapspoengene endres ikke. Disse treffpoengene brukes opp før karakterens vanlige treffpoeng og blir ikke regenerert eller gjenopprettet på noen måte hvis de går tapt. Ved slutten av økten forsvinner eventuelle treffpoeng utover karakterens vanlige treffpoeng. Hvis karakteren bruker disse ekstra treffpoengene, kan de foreta en troskapstest på slutten av eventyret.
-* Med en vellykket troskapsrull kan karakteren skape en pott lik hele sin nåværende troskapsskår som en reserve av ekstra ferdighetspoeng som kan legges til eksisterende ferdighetsnivåer for spesifikke ruller. Dette kan gjøres opptil tre ganger per økt. Troskapspoeng endres ikke med denne fordelen. Spilleren kan velge hvilke ferdigheter disse poengene skal legges til, og hvor mange poeng som skal legges til. Økningen i disse ferdighetspoengene må erklæres før rulling, og de justerte tallene brukes hvis man bestemmer spesielle suksesser osv. Disse poengene kan bare brukes til ferdighetssjekker, og ikke motstandsruller, karakteristikkruller, troskapsruller, erfaringsruller osv. En vellykket ferdighetsrull ved bruk av disse poengene er ikke kvalifisert for en erfaringssjekk. Etter å ha brukt disse ekstra ferdighetspoengene, kan de foreta en troskapstest på slutten av eventyret.
-* Enhver karakter som er alliert med en kraft (20+ mer enn den nest høyeste troskapen) kan be om guddommelig inngripen. Sannsynligheten for suksess er lik den for kritisk suksess. Hvis en kritisk suksess rulles, griper kraften inn på en eller annen måte, enten direkte, gjennom en agent eller fullmektig, eller gjennom en eller annen tydelig mirakuløs manifestasjon av den naturlige verden. Generelt har de fleste guddommer praktisk talt ubegrenset kraft, så denne hjelpen kan være ekstraordinær. Karakteren kan foreta en troskapstest på slutten av eventyret.
+* Når karakterens kraftpoeng er brukt opp, kan de, ved en vellykket troskapssjekk, øyeblikkelig få opptil 1/10 (10 %) av sin nåværende troskapsskåre (rund opp) som en ekstra reserve med kraftpoeng. Troskapspoengene endres ikke med denne fordelen. Disse poengene må trekkes idet karakterens siste kraftpoeng brukes, ellers vil de falle bevisstløse om. Poengene er ellers identiske med normale kraftpoeng. Dette kan forsøkes opptil tre ganger i løpet av en spilløkt. Hvis du bruker denne evnen, kan karakteren ta en troskapstest ved slutten av eventyret.
+* Ved en vellykket troskapssjekk kan karakteren bruke opptil 1/5 (20 %), rundet opp, av sin nåværende troskapsskåre som midlertidige treffpoeng, én gang per spilløkt. Troskapspoengene endres ikke. Disse treffpoengene brukes før karakterens normale treffpoeng og blir ikke regenerert eller gjenopprettet på noen måte hvis de går tapt. Ved slutten av økten forsvinner eventuelle treffpoeng over karakterens vanlige treffpoengtotal. Hvis karakteren bruker disse ekstra treffpoengene, kan de ta en troskapstest ved slutten av eventyret.
+* Ved en vellykket troskapssjekk kan karakteren skape en pott lik hele sin nåværende troskapsskåre som et reservoar av ekstra ferdighetspoeng som kan legges til eksisterende ferdighetsverdier for spesifikke kast. Dette kan gjøres opptil tre ganger per økt. Troskapspoengene endres ikke med denne fordelen. Spilleren kan velge hvilke ferdigheter disse poengene skal legges til, og hvor mange poeng som skal legges til. Økningene i disse ferdighetspoengene må erklæres før kastet, og de justerte tallene brukes hvis man skal bestemme spesielle suksesser, osv. Disse poengene kan bare brukes til ferdighetssjekker, og ikke motstandskast, egenskapskast, troskapskast, erfaringskast, osv. En vellykket ferdighetssjekk ved bruk av disse poengene er ikke kvalifisert for en erfaringssjekk. Etter å ha brukt disse ekstra ferdighetspoengene, kan de ta en troskapstest ved slutten av eventyret.
+* Enhver karakter som er alliert med en kraft (20+ mer enn den nest høyeste troskapen) kan be om guddommelig inngripen. Sjansen for suksess er lik den for en kritisk suksess. Hvis en kritisk suksess kastes, griper kraften inn på en eller annen måte, enten direkte, gjennom en agent eller fullmektig, eller gjennom en eller annen tydelig mirakuløs manifestasjon av den naturlige verden. Generelt har de fleste guddommer tilnærmet ubegrenset kraft, så denne hjelpen kan være ekstraordinær. Karakteren kan ta en troskapstest ved slutten av eventyret.
 
-Lignende fordeler kan skapes for å gi tretthetspoeng, sunn fornuft-poeng, eller til og med gi guddommelig inspirasjon i form av ide-ruller.
+Lignende fordeler kan skapes for å gi tretthetspoeng, fornuftspoeng eller til og med gi guddommelig inspirasjon i form av idé-kast.
 
 ### Apoteose
 
-Som nevnt ovenfor, hvis karakteren når en total på 100+ med en troskap og er alliert med den troskapen, kan de bli bedt i et syn (eller en annen guddommelig melding) om å tjene den, om å bli dens apoteose. Skårer i andre troskap spiller ingen rolle. Apoteose er ikke automatisk. Karakteren må gjennom sin tro og sine handlinger vise at dette er berettiget. Hvis tilbudet aksepteres, skjer en apoteose, som forvandler karakteren til en levende avatar og en standhaftig forkjemper for kraften.
+Som nevnt ovenfor, hvis karakteren når en total på 100+ med en troskap og er alliert med den troskapen, kan de bli bedt i et syn (eller en annen guddommelig melding) om å tjene den, om å bli dens apoteose. Skårer i andre troskaper betyr ingenting. Apoteose er ikke automatisk. Karakteren må demonstrere gjennom sin tro og sine handlinger at dette er berettiget. Hvis tilbudet aksepteres, inntreffer en apoteose, som forvandler karakteren til en levende avatar og standhaftig mester for kraften.
 
-Fordeler ved troskap fortsetter å akkumuleres. Karakteren opprettholder fri vilje og kan til og med forråde kraften de tjener. Hvis karakteren nekter apoteose, fortsetter troskapspoengene å øke normalt til død eller pensjonering.
+Fordeler ved troskap fortsetter å akkumuleres. Karakteren opprettholder fri vilje og kan til og med forråde kraften de tjener. Hvis karakteren nekter apoteose, fortsetter troskapspoengene å øke normalt frem til død eller pensjonering.
 
-Å akseptere apoteose kan gi karakteren én eller flere betydelige fordeler. Du oppfordres til å utforme passende belønninger og fordeler. Følgende er eksempler på hva apoteose kan gi:
+Å akseptere apoteose kan gi én eller flere betydelige fordeler til karakteren. Du oppfordres til å lage passende belønninger og fordeler. Følgende er eksempler på hva apoteose kan gi:
 
-* Oppnåelse av et monumentalt personlig mål, som å møte sin eneste sanne kjærlighet, eller finne et åndelig tilfluktssted hvor det er mulig å oppnå perfekt lykke og unnslippe verdens uro. Dette kan også ende tragisk, med at karakteren oppnår en episk skjebne der det eneste passende utfallet er døden.
-* En begrenset udødelighet der kroppen ikke eldes normalt eller lider av sykdom eller andre plager. Karakterens helbredelseshastighet endres ikke, og de kan fortsatt drepes av våpen eller annen skade. Vridde guder kan velge å gjøre denne udødelige kroppen til en blandet velsignelse, som grusomme arr, endeløs smerte eller et overnaturlig merke som ikke kan fjernes.
-* En økning av permanente treffpoeng til CON+SIZ (eller rett og slett dobling av nåværende treffpoeng). Hvis kroppsdeler brukes, justeres disse også deretter. Hvis totale treffpoeng brukes, dobles de.
-* Dobling av ferdighetsnivåene for tre valgfrie ferdigheter, passende til troskapens natur.
-* Et våpen, en gjenstand eller en viktig gjenstand tilbys gjennom guddommelige midler, enten som et resultat av en søken eller på annen måte for å oppnå den. Denne gjenstanden er utrolig kraftig og gjenkjennelig for alle som deler eller motsetter seg karakterens troskap.
-* Å bli konsumert fullstendig av den guddommelige kraften og gjenfødt som dens levende avatar, miste eller få karakteristikkpoeng etter behov, med maksimale kraftpoeng som dobles (selv om POW-karakteristikken forblir uendret). Karakteren kan til og med bli et guddommelig vesen i likhet med en engel eller demon.
+* Oppnå et eller annet monumentalt personlig mål, som å møte sin eneste sanne kjærlighet, eller finne et åndelig fristed der det er mulig å oppnå perfekt lykke og unnslippe verdens uro. Dette kan til og med ende tragisk, med karakteren som oppnår en episk skjebne der det eneste passende utfallet er død.
+* En begrenset udødelighet der kroppen ikke eldes normalt eller lider av sykdom eller andre plager. Karakterens helingsrate endres ikke, og de kan fortsatt drepes av våpen eller annen skade. Vridde guder kan velge å gjøre denne udødelige kroppen til en blandet velsignelse, som grusomme arr, endeløs smerte eller et overnaturlig merke som ikke kan fjernes.
+* En økning av permanente treffpoeng til UTH+STØ (eller rett og slett dobling av nåværende treffpoeng). Hvis treffsteder brukes, justeres disse også tilsvarende. Hvis totale treffpoeng brukes, dobles de.
+* Doble ferdighetsverdiene til tre valgfrie ferdigheter som passer til troskapens natur.
+* Et våpen, en gjenstand eller en betydelig gjenstand tilbys gjennom guddommelige midler, enten som et resultat av et oppdrag eller på en annen måte. Denne gjenstanden er utrolig kraftfull og gjenkjennelig for alle som deler eller motsetter seg karakterens troskap.
+* Å bli fortært fullstendig av den guddommelige kraften og gjenfødt som dens levende avatar, miste eller få egenskapspoeng etter behov, med maksimale kraftpoeng doblet (selv om MAK-egenskapen forblir uendret). Karakteren kan til og med bli et guddommelig vesen som ligner en engel eller demon.
 
-På dette tidspunktet har spillerkarakteren en POW×3 sjanse for å initiere direkte og umiddelbar kommunikasjon med kraften. Kraften dominerer karakterens liv, kommuniserer med dem ofte og direkte. Dette kan til og med bli en hindring; med kraften som griper inn i handlinger som ikke fremmer dens vilje.
+På dette tidspunktet har spillerkarakteren en MAK×3 sjanse for å initiere direkte og umiddelbar kommunikasjon med kraften. Kraften dominerer karakterens liv og kommuniserer med dem ofte og direkte. Dette kan til og med bli en hindring; med kraften som forstyrrer handlinger som ikke fremmer dens vilje.
 
-## Lidenskaper (valgfritt)
+## Lidenskaper (Alternativ)
 
-Eventyr er ofte fulle av intense følelser, som kan føre til høyder av heltemot og dyp av tragedie. Disse defineres som **lidenskaper**, distinkte emosjonelle forbindelser til ulike enheter, grupper, steder eller til og med seg selv. Kjærlighet, hat, frykt, hengivenhet og lojalitet blir ofte plassert i forferdelig konflikt med hverandre, samt utfordrende personlige æreskoder. Disse er vurdert som ferdigheter og rulles på D100, noe som lar karakteren bli **inspirert**, deres handlinger ladet av deres tro. Inspirerte karakterer er mer i stand til å overvinne utfordringer med overmenneskelig innsats og sannsynlighet for suksess. Å mislykkes i en slik rull kan føre til **desperasjon** eller depresjon.
+Eventyr er ofte fulle av intense følelser, noe som kan føre til høyder av heltemot og dyp av tragedie. Disse er definert som **lidenskaper**, distinkte emosjonelle forbindelser til ulike entiteter, grupper, steder eller til og med seg selv. Kjærlighet, hat, frykt, hengivenhet og lojalitet plasseres ofte i forferdelig konflikt med hverandre, i tillegg til å utfordre personlige æreskoder. Disse vurderes som ferdigheter og kastes på D100, noe som lar karakteren bli **inspirert**, deres handlinger ladet av deres tro. Inspirerte karakterer er mer i stand til å overvinne utfordringer med overmenneskelig innsats og en sannsynlighet for suksess. Å feile et slikt kast kan føre til **fortvilelse** eller depresjon.
 
-Som ferdigheter øker lidenskaper gjennom vellykket bruk med erfaring, og noen av dem kan reduseres gjennom handlinger i strid med lidenskapen. Spillere kontrollerer alltid karakterenes atferd: lidenskaper informerer bare om hvordan karakteren føler om subjektet, uansett hvor annerledes de handler.
+Som ferdigheter øker lidenskaper gjennom vellykket bruk med erfaring, og noen av dem kan reduseres gjennom handlinger i strid med lidenskapen. Spillere kontrollerer alltid karakterenes oppførsel: lidenskaper informerer bare om hvordan karakteren føler om emnet, uansett hvor annerledes de handler.
 
 ### Grunnleggende lidenskaper
 
-De vanligste lidenskapene er beskrevet her, selv om denne listen ikke er uttømmende. Som en ferdighetsspesialitet indikerer en parentes etter en lidenskap at et passende fokus må velges.
+De vanligste lidenskapene er beskrevet her, selv om denne listen ikke er uttømmende. Som en ferdighetsspesialitet indikerer en parentes etter en lidenskap at et passende fokus må velges.### Devotion (guddom)
 
-#### Hengivenhet (guddom)
+Devotion til en gud eller en guddommelig kraft repræsenterer en personlig dedikation af ens liv til en guddom eller en guddommelig kraft eller entitet. Dette indikerer en oprigtig følelsesmæssig dedikation og stærk tro. Når den bruges til inspiration, manifesterer troen sig i karakteren og giver dem en lille smule mod.
 
-Hengivenhet til en gud eller guddommelig kraft representerer en personlig dedikasjon av ens liv til en guddom eller en guddommelig kraft eller enhet. Dette indikerer en oppriktig emosjonell dedikasjon og sterk tro. Når den brukes til inspirasjon, manifesterer troen seg i karakteren, og gir dem en liten grad av mot.
+### Frygt (type eller individ)
 
-#### Frykt (type eller individ)
+Frygt er måske en af de stærkeste lidenskaber, der driver alskens adfærd, på godt og ondt. Frygt kan få et individ til at flygte fra emnet eller handle irrationelt for at undslippe dets tilstedeværelse, eller den kan endda forårsage en modsat reaktion.
 
-Frykt er kanskje en av de sterkeste lidenskapene, og driver all slags atferd, på godt og vondt. Frykt kan føre til at et individ flykter fra subjektet eller handler irrasjonelt for å unnslippe dets tilstedeværelse, eller det kan til og med forårsake en negativ reaksjon.
+Almindelig Frygt kan være fokuseret på en bestemt gruppe eller et individ, såsom en tidligere fjende eller et forræderisk familiemedlem. Frygt kan ikke defineres over for generelle koncepter eller kræfter, såsom 'alderdom' eller 'jordskælv', og er generelt ikke nyttig, når emnet er noget, som ethvert fornuftigt væsen ville frygte, såsom døden.
 
-Vanlige frykter kan være fokusert på en bestemt gruppe eller et individ, for eksempel en tidligere fiende eller forrædersk slektning. Frykt kan ikke defineres mot generelle konsepter eller krefter, som «alderdom» eller «jordskjelv», og er generelt ikke nyttig når subjektet er noe enhver fornuftig skapning ville frykte, som døden.
+For at inspirere karakteren skal emnet for Frygten enten være til stede, eller deres tilstedeværelse skal være nært forestående. Man kan ikke motiveres af Frygt, hvis emnet er hundreder af kilometer væk og ikke viser tegn på at ankomme. Truslen om at konfrontere emnet skal være reel og umiddelbar.
 
-For å inspirere karakteren må subjektet for frykten enten være til stede, eller deres tilstedeværelse nært forestående. Man kan ikke motiveres av frykt hvis subjektet er hundrevis av kilometer unna og viser ingen tegn til ankomst. Trusselen om å konfrontere subjektet må være reell og umiddelbar.
+Den resulterende adfærd af at blive inspireret af Frygt kan være at hjælpe med en form for undgåelse, flugt eller forsvar mod emnet, eller endda at fremprovokere voldelig modstand, når man er trængt op i en krog. Nogle gange kan spillederen dog bede spilleren om at kaste terninger for deres Frygt-lidenskab, hvis karakteren er ved at påbegynde en handlingsplan, der ville bringe dem i kontakt med frygtens kilde.
 
-Den resulterende atferden fra å bli inspirert av frykt kan være å hjelpe til med en form for unngåelse, flukt eller forsvar fra subjektet, eller til og med å spore voldelig motstand når man er trengt opp i et hjørne. Noen ganger kan imidlertid spillmesteren be spilleren om å rulle for sin frykt-lidenskap hvis karakteren legger ut på en handling som ville sette dem i kontakt med kilden til frykten.
+### Had (gruppe eller individ)
 
-#### Hat (gruppe eller individ)
+Had motiverer desværre mange mennesker, hvad enten det er gennem racisme, intolerance eller baseret på et specifikt had for en tidligere uret, virkelig eller indbildt.
 
-Hat motiverer dessverre mange mennesker, enten gjennom rasisme, bigotteri eller basert på et spesifikt hat for en tidligere urett, reell eller innbilt.
+Når det bruges til inspiration, kan Had kun bruges mod et specifikt emne eller en type emner og gælder ikke for dem, der er allieret med emnet for hadet. Had kan også rettes mod specifikke personer, normalt af specifikke personlige årsager.
 
-Når det brukes til inspirasjon, kan hat bare brukes mot et spesifikt subjekt eller en type subjekter og gjelder ikke de som er alliert med hatets subjekt. Hat kan også rettes mot spesifikke mennesker, vanligvis av spesifikke personlige grunner.
+### Ære
 
-#### Ære
-
-Ære er en kampsportdyd, en personlig kode for verdighet, integritet og stolthet. Personlig ære er ikke et glatt spørsmål, åpent for tolkning. Forskjellen mellom ærefull handling og vanærende handling er klar for alle, uansett hvordan de oppfører seg. Vanæretabellen lister opp ting som de fleste er enige om er vanærende handlinger for en gjennomsnittlig person. Å utføre disse handlingene reduserer ære.
+Ære er en krigerisk dyd, en personlig kodeks for værdighed, integritet og stolthed. Personlig ære er ikke et flydende emne, der er åbent for fortolkning. Forskellen mellem ærefuld handling og vanærende handling er klar for alle, uanset hvordan de opfører sig. Vanæres-tabellen oplister ting, som de fleste mennesker er enige om er vanærende handlinger for en gennemsnitsperson. At udføre disse handlinger formindsker æren.
 
 ##### Vanære
 
-| Vanærende handling | Ære tapt |
+| Vanærende handling | Tabt ære |
 | :---- | :---- |
-| Angripe en ubevæpnet fiende | –5 % |
-| Kujon | –5 % |
-| Desertering fra kamp | –5 % |
-| Nekter å tilby nåde når den er fortjent | –5 % |
-| Plyndre et hellig sted for din religion | –5 % |
-| Uhøflighet mot noen under din beskyttelse | –10 % |
-| Åpenbar feighet | –15 % |
-| Forræderi mot dine allierte | –15 % |
-| Bryte en ed | –25 % |
-| Angripe eller stjele fra de svake | –25 % |
-| Drepe noen svakere enn seg selv | –35 % |
-| Voldtekt eller seksuelt overgrep | –50 % |
-| Drepe familiemedlemmer | –50 % |
+| Angribe en ubevæbnet modstander | –5% |
+| Fejhed | –5% |
+| Desertation fra kamp | –5% |
+| Nægte at tilbyde nåde, når det er fortjent | –5% |
+| Plyndre et helligsted for din religion | –5% |
+| Ubehøvlethed mod en person under din beskyttelse | –10% |
+| Åbenlys fejhed | –15% |
+| Forræderi mod dine allierede | –15% |
+| Bryde en ed | –25% |
+| Angribe eller stjæle fra de svage | –25% |
+| Dræbe en person, der er svagere end en selv | –35% |
+| Vold eller seksuelt overgreb | –50% |
+| Dræbe familiemedlemmer | –50% |
 
-Ære er spesifikk for karakteren og inkluderer ikke andre sosiale forpliktelser. Ens ære blir ikke misbrukt hvis noen fornærmer familien sin—Kjærlighet (familie) dekker det. På samme måte bør noen som fornærmer ens gud konsultere Hengivenhet (guddom) eller Lojalitet (tempel)-lidenskapen, ikke Ære.
+Ære er specifik for karakteren og inkluderer ikke andre sociale forpligtelser. Ens Ære bliver ikke krænket, hvis nogen fornærmer deres familie – Kærlighed (familie) dækker det. Ligeledes, hvis nogen fornærmer ens gud, bør man konsultere lidenskaben Devotion (guddom) eller Lojalitet (tempel), ikke Ære.
 
-Ære kan inkludere nesten alt som en karakter velger at den skal, og deres egen individuelle æreskode bør utvikles når denne lidenskapen tas. Noen med ekstremt høy ære kan bli fornærmet av alt som noen sier som kan tolkes som en fornærmelse, mens en karakter med lav eller ingen ære kanskje ikke bryr seg om hva som blir sagt om dem.
+Ære kan inkludere næsten alt, hvad en karakter vælger, at den skal, og deres egen individuelle æreskodeks bør udvikles, når denne lidenskab vælges. En person med en ekstremt høj Ære kan blive fornærmet af alt, hvad nogen siger, som kan tolkes som en fornærmelse, mens en karakter med lav eller ingen Ære måske er ligeglad med, hvad der bliver sagt om dem.
 
-#### Kjærlighet
+### Kærlighed
 
-Kjærlighet er et emosjonelt bånd eller tiltrekning følt av et individ for et annet individ eller en gruppe. En karakter kan ha mange kjærligheter.
+Kærlighed er et følelsesmæssigt bånd eller en tiltrækning, som et individ føler for et andet individ eller en gruppe. En karakter kan have mange kærligheder.
 
-* **Kjærlighet (familie)** er en naturlig følelse som er vanlig for menneskeheten i alle aldre eller kulturer. En nær familie er ofte det første og viktigste fellesskapet man tilhører. Familiemedlemmer forventes å støtte, beskytte og hevne hverandre.
-* **Kjærlighet (individ)** indikerer en dyp følelse og tiltrekning for en annen person. Det innebærer vanligvis fysisk og kjødelig forpliktelse, selv om det også kan inkludere ulykkelig kjærlighet.
+* **Kærlighed (familie)** er en naturlig følelse, der er almindelig for menneskeheden i enhver tidsalder eller kultur. Ens nærmeste familie er ofte det første og vigtigste fællesskab, man tilhører. Familiemedlemmer forventes at støtte, beskytte og hævne hinanden.
+* **Kærlighed (individ)** indikerer en dyb følelse og tiltrækning for en anden person. Det indebærer normalt fysisk og kødelig forpligtelse, selvom det også kan inkludere ulykkelig kærlighed.
 
-#### Lojalitet (gruppe eller sted)
+### Lojalitet (gruppe eller sted)
 
-Lojalitet er hjørnesteinen i hele samfunnet utenfor familien. Det er det sosiale båndet som medlemmer av et fellesskap føler for hverandre. Med det kan man kalle på det fellesskapet for støtte.
+Lojalitet er hjørnestenen i alt samfund ud over familien. Det er det sociale bånd, som medlemmer af et fællesskab føler for hinanden. Med det kan man kalde på det fællesskab for støtte.
 
-En karakter med motstridende lojalitet kan bruke sine respektive lojalitetsvurderinger for å bestemme et passende handlingsforløp. Spilleren kan velge basert på den høyere lojalitetsvurderingen eller teste dem som en motstridende rull. Dermed kan en spiller bruke en motstridende rull for å avgjøre om karakteren deres vil adlyde sin lojalitet til hjembyen eller til et individ hvis disse lojalitetene er i konflikt.
+En karakter med modstridende loyaliteter kan bruge deres respektive Lojalitet-værdier til at bestemme en passende handlingsplan. Spilleren kan vælge baseret på den højere Lojalitet-værdi eller teste dem som et modsat kast. Således kan en spiller bruge et modsat kast til at bestemme, om deres karakter vil adlyde deres loyalitet til hjembyen eller til et individ, hvis disse loyaliteter er i konflikt.
 
-* **Lojalitet (fellesskap)** er målet på båndet en karakter har til sin kultur. Det inkluderer vanligvis en forpliktelse til å hevne fornærmelser eller skader mot det fellesskapet eller dets medlemmer. Lojalitet (fellesskap) brukes for å få støtte fra det aktuelle fellesskapet.
-* **Lojalitet (sted)** er målet på ens vilje til å leve, kjempe og dø for et sted de føler enorm tilknytning til. Dette kan være en hjemby, en by eller til og med et land.
-* **Lojalitet (individ)** er målet på en karakters bånd til et spesifikt individ, for eksempel hersker, sjef eller en annen beskytter. En kriger skylder personlig lojalitet til sin leder; til gjengjeld belønner lederen sine følgere med kompensasjon, støtte eller andre privilegier. Lojalitet (individ) brukes også for å få personlig støtte fra det individet.
+* **Lojalitet (fællesskab)** er målet for det bånd, en karakter har til sin kultur. Det inkluderer typisk en forpligtelse til at hævne forhånelser eller skader mod det fællesskab eller dets medlemmer. Lojalitet (fællesskab) bruges til at opnå støtte fra det pågældende fællesskab.
+* **Lojalitet (sted)** er målet for ens villighed til at leve, kæmpe og dø for et sted, man føler en enorm tilknytning til. Dette kan være en hjemby, en by eller endda et land.
+* **Lojalitet (individ)** er målet for en karakters bånd til et specifikt individ, såsom en hersker, chef eller en anden mæcen. En kriger skylder personlig loyalitet til sin leder; til gengæld belønner lederen sine følgere med kompensation, støtte eller andre privilegier. Lojalitet (individ) bruges også til at opnå den persons personlige støtte.
 
-Andre lidenskaper kan eksistere, for eksempel Mistillit (individ eller gruppe), Respekt (individ eller gruppe), eller Grådighet, som fungerer som Ære og kan spore til avarisk atferd. Du kan samarbeide med spillerne dine for å utforme andre lidenskaper, som ønsket, men hvis personlighetstrekk brukes, vær forsiktig så du ikke overlapper for mye med disse.
+Andre lidenskaber kan eksistere, såsom Mistillid (individ eller gruppe), Respekt (individ eller gruppe) eller Grådighed, som fungerer ligesom Ære og kan fremprovokere grådig adfærd. Du kan arbejde sammen med dine spillere om at udtænke andre lidenskaber, efter ønske, men hvis personlighedstræk bliver brugt, skal du være forsigtig med ikke at overlappe for meget med dem.
 
-### Startlidenskaper
+### Start-lidenskaber
 
-Den enkleste måten å bestemme startlidenskaper på er å la spillerne definere dem. Når karakterer blir opprettet, la hver spiller velge tre lidenskaper karakteren starter med, én lidenskap på 80 % og to på 60 %.
+Den nemmeste måde at bestemme start-lidenskaber på er at lade spillerne definere dem. Når karakterer oprettes, skal du lade hver spiller vælge tre lidenskaber, deres karakter starter med, én lidenskab på 80% og to på 60%.
 
-Hvis ønskelig, kan lidenskaper tildeles eller modifiseres basert på karakterens kultur eller opprinnelsessted.
+Hvis det ønskes, kan lidenskaber tildeles eller modificeres baseret på karakterens kultur eller oprindelsessted.
 
-### Bruk av lidenskaper
+### Brug af lidenskaber
 
-Lidenskaper definerer en karakters livsintensjoner og tjener til å inspirere dem. Spillmesteren kan kalle på en lidenskapsrull. Til andre tider kan spilleren foreslå og be om én, med spillmesterens godkjenning. Her er noen av måtene lidenskaper kan påvirke spillet på.
+Lidenskaber definerer en karakters livsintentioner og tjener til at inspirere dem. Spillederen kan bede om et lidenskabs-kast. Ved andre lejligheder kan spilleren foreslå og anmode om et, med spillederens godkendelse. Her er nogle af de måder, lidenskaber kan påvirke spillet på.
 
-#### Retningslinjer for rollespill
+#### Retningslinjer for rollespil
 
-På sitt mest grunnleggende er en lidenskap en numerisk vurdering av graden av intensitet en karakter føler for lidenskapens subjekt, og kan brukes av spilleren når det er et spørsmål om hvordan karakteren ville handlet. Jo høyere lidenskap, jo mer sannsynlig er det at karakteren kommer til å handle ut fra den. Jo lavere en lidenskap, jo mer kan karakteren ignorere den.
+På deres mest grundlæggende niveau er en lidenskab en numerisk vurdering af graden af intensitet, en karakter føler for lidenskabens emne, og kan bruges af spilleren, når der er spørgsmål om, hvordan karakteren ville handle. Jo højere lidenskab, jo mere sandsynligt er det, at karakteren vil handle ud fra den. Jo lavere en lidenskab, jo mere kan karakteren ignorere den.
 
-Spillere har alltid kontroll over karakterene sine, men lidenskapsruller kan brukes når et klart handlingsforløp ikke er åpenbart, eller når spillmesteren tror karakteren oppfører seg drastisk «ute av karakter». Selv om spilleren fortsatt har ansvaret, kan spillmesteren portrettere det å gå mot en lidenskap (rullet eller en høy skåre) med kommentarer som «Karakteren din har en dårlig følelse av dette, men presser på» eller noe i den dertil.
+Spillere har altid kontrol over deres karakterer, men lidenskabs-kast kan bruges, når en klar handlingsplan ikke er indlysende, eller når spillederen mener, at karakteren opfører sig drastisk 'ude af karakter'. Selvom spilleren stadig har kontrollen, kan spillederen portrættere det at gå imod en lidenskab (rullet eller en høj score) med kommentarer som "Din karakter har en dårlig fornemmelse af dette, men presser på" eller noget i den retning.
 
-#### Demonstrasjon og støtte
+#### Demonstration og støtte
 
-En karakter med lojalitet kan bli bedt om å rulle den for å overbevise noen andre om at de begge deler samme troskap. Å prøve å demonstrere sin hengivenhet, hat, kjærlighet eller lojalitet for å påvirke andre og være et godt eksempel er gode måter å bruke lidenskaper i spill. Lykkes, og gjensidig støtte og hjelp kan bli tilbudt; mislykkes, og karakteren kan bli avvist som en posør og svindler.
+En karakter med Lojalitet kan blive bedt om at kaste med den for at overbevise en anden om, at de begge deler den samme troskab. At forsøge at demonstrere ens Devotion, Had, Kærlighed eller Lojalitet for at påvirke andre og være et godt eksempel er gode måder at bruge lidenskaber på i spillet. Lykkes det, kan gensidig støtte og hjælp tilbydes; fejler det, kan karakteren blive afvist som en posør og svindler.
 
-#### Inspirasjon
+#### Inspiration
 
-En karakter kan forsøke å bli inspirert av lidenskapen sin og be om en rull for å forsterke en ferdighet, med spillmesterens godkjenning. Bare ett forsøk på inspirasjon kan gjøres i en situasjon eller «scene»—som varigheten av en kamp, sosial sammenkomst, en handlingssekvens osv. Karakteren får ikke gjøre et inspirasjonsforsøk hver gang samme handling forsøkes. Inspirasjonen varer så lenge det tar å fullføre aktiviteten, for eksempel varigheten av kampen eller slaget (med en maksimal varighet på én dag). Hvis du er i tvil, bestemmer spillmesteren varigheten av inspirasjonen. Det tar ikke noe tid å forsøke en inspirasjon basert på en lidenskap—de kan skje som en del av en annen handling.
+En karakter kan forsøge at blive inspireret af deres lidenskab og anmode om et kast for at augmentere en færdighed, med spillederens godkendelse. Der kan kun gøres ét forsøg på inspiration i en situation eller 'scene' – såsom varigheden af en kamp, en social sammenkomst, en handlingssekvens osv. Karakteren får ikke lov at lave et inspirations-kast, hver gang den samme handling forsøges. Inspirationen varer så længe, det tager at fuldføre aktiviteten, såsom varigheden af kampen eller slaget (med en maksimal varighed på én dag). Hvis du er i tvivl, bestemmer spillederen varigheden af inspirationen. Det tager ikke tid at forsøge en inspiration baseret på en lidenskab – de kan ske som en del af en anden handling.
 
-Spillmesteren har det siste ordet om hvorvidt en lidenskapsrull for inspirasjon kan forsøkes. Spillere advares om at lidenskapsruller kan være ekstremt risikable så vel som givende: en fumlet lidenskapsrull fører til desperasjon! Hvis karakteren allerede har rullet for å bli inspirert av en lidenskap under den aktuelle situasjonen, kan de ikke prøve å bli inspirert igjen, selv av en annen lidenskap. I tillegg kan bonusen fra inspirasjon ikke kombineres med en forsterkning fra en annen ferdighet.
+Spillederen har det sidste ord om, hvorvidt et lidenskabs-kast for inspiration kan forsøges. Spillere advares om, at lidenskabs-kast kan være ekstremt risikable såvel som givende: et fumlet lidenskabs-kast resulterer i fortvivlelse! Hvis karakteren allerede har rullet for at blive inspireret af en lidenskab i den givne situation, kan de ikke forsøge at blive inspireret igen, selv af en anden lidenskab. Derudover kan bonussen fra inspiration ikke kombineres med et augment fra en anden færdighed.
 
-Husk at spillmesteren har det siste ordet om hensiktsmessigheten av å forsøke inspirasjon og varigheten av den. Spilleren må rulle mot lidenskapens vurdering på en D100:
+Husk, at spillederen har det sidste ord om hensigtsmæssigheden af at forsøge Inspiration og dens varighed. Spilleren skal kaste mod lidenskabens værdi på en D100:
 
-* **Kritisk suksess:** Én valgt ferdighet mottar midlertidig en +50 % bonus for varigheten av oppgaven eller situasjonen. En erfaringssjekk vinnes i lidenskapen.
-* **Spesiell suksess:** Én valgt ferdighet mottar midlertidig en +30 % bonus for varigheten av oppgaven eller situasjonen. En erfaringssjekk vinnes i lidenskapen.
-* **Suksess:** Én valgt ferdighet mottar midlertidig en +20 % bonus for varigheten av oppgaven eller situasjonen. En erfaringssjekk vinnes i lidenskapen.
-* **Mislykkes:** Karakteren er nedstemt, og modifiserer alle videre ruller gjort i situasjonen eller scenen med –10 %. Denne straffen avsluttes med neste scene.
-* **Fumle:** Lidenskapen modifiseres umiddelbart med –1D10 % og karakteren overvinnes av desperasjon (se Desperasjonstabellen nedenfor). I løpet av desperasjonen er karakteren effektivt ute av stand til å gjøre noe annet enn å løpe bort eller gjemme seg, selv om spillmesteren kan tillate en viss grad av handling utover dette under de rette omstendighetene.
+* **Kritisk succes:** Én valgt færdighed modtager midlertidigt en +50% bonus i varigheden af opgaven eller situationen. Et erfaringskryds vindes i lidenskaben.
+* **Særlig succes:** Én valgt færdighed modtager midlertidigt en +30% bonus i varigheden af opgaven eller situationen. Et erfaringskryds vindes i lidenskaben.
+* **Succes:** Én valgt færdighed modtager midlertidigt en +20% bonus i varigheden af opgaven eller situationen. Et erfaringskryds vindes i lidenskaben.
+* **Fejl:** Karakteren er modløs og modificerer alle yderligere kast foretaget i situationen eller scenen med –10%. Denne straf slutter med den næste scene.
+* **Fummel:** Lidenskaben modificeres øjeblikkeligt med –1D10% og karakteren er overvældet af fortvivlelse (se Fortvivlelses-tabellen herunder). I varigheden af fortvivlelsen er karakteren effektivt ude af stand til at gøre andet end at løbe væk eller gemme sig, selvom spillederen kan tillade en vis grad af handling ud over dette under de rette omstændigheder.
 
-##### Desperasjon
+##### Fortvivlelse
 
-| Resultat | Varighet av desperasjon |
+| Resultat | Varighed af fortvivlelse |
 | :---- | :---- |
 | 1–3 | 1D10 kamprunder |
 | 4–7 | D10+10 kamprunder |
-| 8–9 | Inntil solnedgang, soloppgang eller lignende lengde |
-| 10 | 1D3 spilldager |
+| 8–9 | Indtil solnedgang, solopgang eller lignende tidsrum |
+| 10 | 1D3 spildage |
 
-Hvis en lidenskap noen gang reduseres til 0 %, fjern den fra karakterarket. En lidenskap kan ikke gå under 0. I tillegg kan karakteren aldri gjenvinne en lidenskap som har gått tapt på denne måten: den er utmattet og kan ikke fornyes med mindre spillmesteren bestemmer at et ekstraordinært sett med omstendigheter eller atferd fortjener dens retur.
+Hvis en lidenskab nogensinde reduceres til 0%, skal den fjernes fra karakterarket. En lidenskab kan ikke gå under 0. Derudover kan karakteren aldrig genvinde en lidenskab, der er gået tabt på denne måde: den er opbrugt og kan ikke fornyes, medmindre spillederen bestemmer, at et ekstraordinært sæt omstændigheder eller adfærd berettiger dens tilbagevenden.
 
-### Obligatoriske ruller
+### Obligatoriske kast
 
-Lidenskaper på 80 % eller høyere representerer standhaftig holdte tro og forbindelser og skal ikke tas lett på eller brukes bare når det er praktisk. Slike ekstreme lidenskaper kan kreve at spilleren foretar obligatoriske ruller på grunn av denne troen, hvis spillmesteren velger det. Generelt har spillmesteren flere alternativer hvis spilleren lar karakteren sin gjøre noe upassende for sin vurdering i en relevant lidenskap, for eksempel en karakter med Hat (nazister) 95 % som lar noen nazister gå etter en kamp.
+Lidenskaber på 80% eller højere repræsenterer standhaftigt holdte overbevisninger og forbindelser og skal ikke tages let på eller kun bruges, når det er belejligt. Sådanne ekstreme lidenskaber kan kræve, at spilleren foretager obligatoriske kast på grund af disse overbevisninger, hvis spillederen vælger det. Generelt har spillederen flere muligheder, hvis spilleren lader deres karakter gøre noget, der er upassende for deres niveau i en relevant lidenskab, såsom en karakter med Had (Nazister) 95%, der lader nogle nazister gå efter en kamp.
 
-* Reduser lidenskapen til under 80 %.
-* Motsett lidenskapen med en annen lidenskap som en motstridende rull. Hvis den motstridende evnen vinner konkurransen med runen eller lidenskapen, kan spilleren handle på en annen måte uten å modifisere den primære lidenskapen. I dette tilfellet vant den motstridende lidenskapen.
+* Reducer lidenskaben til under 80%.
+* Modsæt lidenskaben med en anden lidenskab som et modsat kast. Hvis den modsatte evne vinder konkurrencen med Runen eller lidenskaben, kan spilleren handle på en anden måde uden at modificere den primære lidenskab. I dette tilfælde vandt den modstridende lidenskab.
 
-### Gaining a Passion
+### At opnå en lidenskab
 
-Lidenskaper kan lett oppnås under spill. Karakterer bør få mange muligheter til å få fiender, kjære, allierte og lojaliteter. Både spilleren og spillmesteren bør bli enige om å introdusere en ny lidenskap. Når noe betydelig skjer med karakteren, kan spillmesteren eller spilleren foreslå at en lidenskap har blitt generert. Generelt er startverdien 60 %, men kan være høyere basert på omstendighetene.
+Lidenskaber kan let opnås under spil. Karakterer bør få mange muligheder for at få fjender, elskede, allierede og loyaliteter. Både spilleren og spillederen bør blive enige om at introducere en ny lidenskab. Når noget væsentligt sker for karakteren, kan spillederen eller spilleren foreslå, at en lidenskab er blevet genereret. Generelt er startværdien 60%, men den kan være højere baseret på omstændighederne.
 
-### Frivillig redusere en lidenskap
+### Frivillig reducering af en lidenskab
 
-En karakter med en lidenskap på 80 % eller høyere som utfører en handling som direkte motsier den lidenskapen, kan enten rett og slett senke lidenskapen til 80 % (eller lavere) eller prøve å motsette seg den lidenskapen med en annen. Imidlertid kan karakteren ønske å redusere en lidenskap på følgende måte:
+En karakter med en lidenskab på 80% eller højere, der udfører en handling, som direkte modsiger denne lidenskab, kan enten blot sænke lidenskaben til 80% (eller lavere) eller forsøge at modsætte sig den lidenskab med en anden. Imidlertid ønsker karakteren måske at reducere en lidenskab på følgende måde:
 
-* Når erfaring bestemmes, velg en lidenskap som skal senkes. Hvis den har en erfaringssjekk, kan den ikke senkes på dette tidspunktet. Hvis den ikke har blitt testet og spilleren ønsker å senke den, rull som om man sjekker for erfaring. Hvis erfaringsrullen er mislykket, reduser lidenskapen med –1D6.
-* En lidenskap på 50 % eller lavere kan stort sett ignoreres i spill, da den representerer ambivalens om subjektet. Den kan fjernes fra karakterarket, som ønsket.
+* Når erfaring bestemmes, vælg en lidenskab, der skal sænkes. Hvis den har et erfaringskryds, kan den ikke sænkes på dette tidspunkt. Hvis den ikke er blevet testet, og spilleren ønsker at sænke den, kast som ved tjek for erfaring. Hvis erfaringskastet ikke lykkes, reducer lidenskaben med –1D6.
+* En lidenskab på 50% eller lavere kan stort set ignoreres i spillet, da den repræsenterer ambivalens omkring emnet. Den kan fjernes fra karakterarket, efter ønske.
 
-## Rykte (valgfritt)
+## Omdømme (Valgfrit)
 
-Rykte måler en karakters berømmelse, beryktethet og ry. Det inkluderer ens familiebakgrunn, hvis relevant, og eventuelle handlinger de har gjort for å tjene et rykte. Etter hvert som en karakters rykte øker, blir folk stadig mer klar over dem, og vet mer og mer om dem.
+Omdømme måler en karakters berømmelse, berygtelse og ry. Det inkluderer ens familiebaggrund, hvis relevant, og alle handlinger, de har gjort for at tjene et omdømme. Efterhånden som en karakters Omdømme stiger, bliver folk mere og mere bevidste om dem, og de ved mere og mere om dem.
 
-### Oppnå rykte
+### Opnåelse af omdømme
 
-Rykte vinnes ved å gjøre ting som får oppmerksomhet fra andre. Å komme i nyhetene, bli valgt til embete, gjøre noe stort og bemerkelsesverdig, bli kjendis, hjelpe noen berømte, eie en berømt gjenstand—dette er alle eksempler på ting som kan øke en karakters rykte.
+Omdømme opnås ved at gøre ting, der får andres opmærksomhed. At komme i nyhederne, blive valgt til et embede, gøre noget stort og bemærkelsesværdigt, blive en berømthed, hjælpe en berømt person, eje en berømt genstand – dette er alle eksempler på ting, der kan øge en karakters Omdømme.
 
-Rykte øker ikke på grunn av erfaringssjekker. I stedet økes det etter spillmesterens skjønn, basert på prestasjoner og hendelser som oppstår under spill. Rykte kan også øke gjennom negative handlinger. Det reduseres ikke som lidenskaper gjør: å oppføre seg vanærende, gjøre ondt, feile spektakulært kan gjøre én like kjent (eller enda mer) som episke prestasjoner.
+Omdømme stiger ikke på grund af erfaringskryds. I stedet øges det efter spillederens skøn, baseret på præstationer og begivenheder, der sker under spillet. Omdømme kan også øges gennem negative gerninger. Det falder ikke som lidenskaber: at opføre sig vanærende, gøre ondt, fejle spektakulært kan gøre en lige så berømt (eller endnu mere) end episke præstationer.
 
-**Ryktegevinster**-tabellen (nedenfor) gir eksempler på hvordan rykte kan øke. Merk at handlinger må være kjent for andre—rykte vinnes ikke for handlinger tatt i hemmelighet eller uklarhet. Spillmesteren oppfordres til å bruke disse eksemplene som oppført eller til å bruke dem som retningslinjer for andre økninger.
+**Omdømme-gevinster**-tabellen (herunder) giver eksempler på, hvordan Omdømme kan stige. Bemærk, at handlinger skal være kendt af andre – Omdømme opnås ikke for handlinger taget i hemmelighed eller uklarhed. Spillederen opfordres til at bruge disse eksempler som anført eller bruge dem som retningslinjer for andre stigninger.
 
-Rykte fra en enkelt handling gir bare én gevinst, selv om spillmesteren kan modifisere den for flere forekomster av samme handling, opp til totalen av mulig rull. Hvis du bruker lidenskaper, er det mulig å vinne rykte for en handling og miste ære for den samtidig.
+Omdømme fra en enkelt handling giver kun én gevinst, selvom spillederen kan modificere det for flere forekomster af den samme handling, op til det samlede mulige kast. Hvis du bruger lidenskaber, er det muligt at opnå Omdømme for en handling og miste Ære for den på samme tid.
 
-##### Ryktegevinster
+##### Omdømme-gevinster
 
-**Handling**: Bemerkelsesverdig
+**Gerning**: Bemærkelsesværdig
 
 **Gevinst**: +1D3
 
 **Eksempler**
 
-* Å avlegge en ed av betydning.
-* Å beseire en like kraftig fiende.
-* Fremragende bruk av en ferdighet; oppnå suksess i en bemerkelsesverdig anstrengelse.
-* Et bemerkelsesverdig ekteskap.
-* Å ta del i en stor reise.
-* Å bli forelder i en heldig fødsel.
-* Å ha en viktig gjest i hjemmet eller hallen.
-* Å lage en lur allianse.
-* Å ta en viktig del i en tilbedelsesseremoni.
-* Å ha noen lokale medier (avis, skriver, minstrel, osv.) som snakker om deg.
-* Å ha en populær blogg, skrive en bok, være en mindre kjendis, osv.
-* En merkelig ulykke eller et hell.
-* Å lyve og bli oppdaget.
+* At aflægge en ed af en vis betydning.
+* At besejre en lige så stærk fjende.
+* Fremragende brug af en færdighed; opnå succes i en bemærkelsesværdig bestræbelse.
+* Et bemærkelsesværdigt ægteskab.
+* At deltage i en stor rejse.
+* At blive forælder ved en heldig fødsel.
+* At have en vigtig gæst i dit hjem eller din sal.
+* At lave en klog alliance.
+* At tage en vigtig del i en tilbedelsesceremoni.
+* At få nogle lokale medier (avis, skriver, minstrel osv.) til at tale om dig.
+* At have en populær blog, skrive en bog, være en mindre berømthed osv.
+* En mærkelig ulykke eller et heldigt slag.
+* At lyve og blive opdaget.
 * Mindre kriminelle handlinger.
-* Bryte en ed av betydning.
-* Oppføre seg uhøflig mot gjester i hjemmet eller hallen.
-* En spesielt betydelig fumle eller synlig feil.
-* Miste et familiemedlem eller en alliert.
-* Bryte en allianse.
+* At bryde en ed af betydning.
+* At opføre sig uhøfligt over for gæster i dit hjem eller din sal.
+* Et særligt betydningsfuldt fummel eller synlig fejl.
+* At miste et familiemedlem eller en allieret.
+* At bryde en alliance.
 * Mindre helligbrøde.
-* Å bringe mindre skam over familien.
+* At bringe mindre skam over ens familie.
 
-**Handling**: Ekstraordinær
+**Gerning:** Ekstraordinær
 
 **Gevinst**: +1D3
 
 **Eksempler**
 
-* Å avlegge en episk ed.
-* Å beseire en overlegen fiende (eller antall fiender).
-* Kritisk bruk av en ferdighet når den er viktig.
-* En fremragende suksess i en ekstraordinær anstrengelse.
-* Et prestisjefylt ekteskap.
-* Å ha tvillinger/trillinger/osv.
-* En stor allianse.
-* Å være gjenstand for en populær fortelling, en kjent sang eller en stor nyhetssak.
-* Publisere en populær bok eller gi ut et populært musikkstykke.
-* Utvalgt i en svært vellykket medieopptreden.
-* Et frekt hell.
-* Å tjene en stor fiende.
-* Betydelig helligbrøde.
-* Å forråde eller skade noen under din beskyttelse (som en gjest).
-* En stor kriminell handling.
-* Bryte en stor ed.
-* Å drepe slektninger (kin-slaying).
-* En spektakulær fumle eller svært synlig feil.
-* Å bringe stor vanære over familien.
+* At aflægge en episk ed.
+* At besejre en overlegen fjende (eller antal fjender).
+* Kritisk brug af en færdighed, når det er vigtigt.
+* En fremragende succes i en ekstraordinær bestræbelse.
+* Et prestigefyldt ægteskab.
+* At få tvillinger/trillinger/osv.
+* En større alliance.
+* At være emnet for en populær fortælling, velkendt sang eller en stor nyhedshistorie.
+* At udgive en populær bog eller udgive et populært stykke musik.
+* Medvirkende i en meget succesfuld medieoptræden.
+* Et mærkeligt heldigt slag.
+* At tjene en stor fjende.
+* Betydelig handling af helligbrøde.
+* At forråde eller bringe skade på nogen under din beskyttelse (såsom en gæst).
+* En større kriminel handling.
+* At bryde en større ed.
+* Slægtsdrab.
+* Et spektakulært fummel eller meget synlig fejl.
+* At bringe stor vanære over ens familie.
 
-**Handling**: Heroisk
+**Gerning:** Heroisk
 
-**Gevinst**: +2D6 eller mer
+**Gevinst**: +2D6 eller mere
 
 **Eksempler**
 
-* Oppnå en legendarisk suksess ved en nesten umulig anstrengelse.
-* Å lede en hær til seier eller beseire én alene.
-* Å beseire en fiende av guddommelig eller udødelig natur.
-* Å gifte seg med en konge eller dronning eller bli en.
-* Å være fokus for en guddommelig profeti.
-* Utvalgt i en populær bok eller dokumentar.
-* Bygge noe episk som et nytt stort tempel eller palass.
+* At opnå en legendarisk succes ved en næsten umulig bestræbelse.
+* At lede en hær til sejr eller besejre en alene.
+* At besejre en fjende af guddommelig eller udødelig natur.
+* At gifte sig med en konge eller dronning eller blive en.
+* At være fokus for en guddommelig profeti.
+* Medvirkende i en populær bog eller dokumentar.
+* At bygge noget episk som et nyt større tempel eller palads.
 * Et spektakulært nederlag.
-* Å drepe sine foreldre eller barn.
-* En handling av det mørkeste forræderi eller infami.
+* At dræbe ens forældre eller børn.
+* En handling af det mørkeste forræderi eller vanære.
 
-### Spore rykte
+### Sporing af omdømme
 
-Spilleren bør spore kildene til karakterens rykte og hvor mye som er vunnet. Igjen, når ryktet har økt, reduseres det ikke. Man blir bare berømt for forskjellige ting. Spillmesteren kan imidlertid modifisere suksesssjansen (se **Ryktemodifikatorer**).
+Spilleren bør spore kilderne til deres karakters Omdømme og hvor meget der er opnået. Igen, når Omdømme er steget, falder det ikke. Man bliver blot berømt for forskellige ting. Spillederen kan dog modificere chancen for succes (se **Omdømme-modifikatorer**).
 
-### Bruk av rykte
+### Brug af omdømme
 
-Rykte brukes på to måter: for å identifisere noen, eller for å imponere andre (i bunn og grunn si «Vet du hvem jeg er?»).
+Omdømme bruges på to måder: at identificere nogen, eller at imponere andre (i bund og grund at sige "Ved du, hvem jeg er?").
 
-#### Identifisere noen
+#### Identificering af nogen
 
-Rykte kan brukes av spillmesteren for å få ikke-spillerkarakterer til å identifisere en karakter og årsaken til at de er berømte, eller spillerne kan rulle for å se om karakterene deres har hørt om en bestemt ikke-spillerkarakter.
+Omdømme kan bruges af spillederen til at lade ikke-spiller-karakterer identificere en karakter og årsagen til, at de er berømte, eller spillerne kan rulle for at se, om deres karakterer har hørt om en bestemt ikke-spiller-karakter.
 
-Bruk eventuelle passende ryktebonuser eller straffer (se **Ryktemodifikatorer**) og rull. Dette er annerledes enn vanlige ferdigheter eller karakteristikker, ved at ruller er mot subjektets rykte, ikke ens egne. En karakter kan prøve å forsterke ryktet sitt
-(eller noen andre sitt) med en slags kommunikasjonsferdighet, i bunn og grunn ved å snakke opp noen. Hvis passende, kan en kunnskaps- eller læringsferdighet brukes for å forsterke et subjekts rykte hvis de er bemerkelsesverdige på det feltet.
+Anvend eventuelle passende Omdømme-bonusser eller -straffe (se **Omdømme-modifikatorer**) og rul. Dette er anderledes end sædvanlige færdigheder eller egenskaber, i den forstand at kast er mod emnets Omdømme, ikke ens eget. En karakter kan forsøge at augmentere deres Omdømme (eller en andens) med en form for Kommunikation-færdighed, i bund og grund ved at tale nogen op. Hvis det er passende, kan en Viden- eller Lore-færdighed bruges til at augmentere et emnes Omdømme, hvis de er bemærkelsesværdige inden for det felt.
 
-Hvis rullen lykkes, gjenkjennes den hvis rykte det ble rullet mot. Dette påvirker sannsynligvis hvordan ikke-spillerkarakteren reagerer på karakteren. Bedre suksesskvalitet gir mer informasjon. Mislykkes betyr at de ikke er kjent, og en fumle betyr en katastrofal misforståelse eller et tilfelle av feilidentitet.
+Hvis kastet lykkes, bliver den, hvis omdømme der blev rullet mod, genkendt. Dette påvirker sandsynligvis, hvordan ikke-spiller-karakteren reagerer på karakteren. Succeser af bedre kvalitet giver mere information. Fejl betyder, at de ikke er kendt, og et fummel betyder en katastrofal misforståelse eller en sag om forvekslet identitet.
 
-Noen kan alltid prøve å benekte hvem de er, men dette blir stadig vanskeligere i mer moderne innstillinger.
+Nogen kan altid forsøge at benægte, hvem de er, men dette bliver stadig vanskeligere i mere moderne omgivelser.#### Imponere andre
 
-#### Imponere andre
+Rykte kan brukes til å forsøke å forsterke enkelte kommunikasjonsferdigheter, hvis det er passende. På samme måte kan spillmesteren tillate at karakteren forsøker å påvirke en ikke-spillerkarakters reaksjon på karakteren.
 
-Rykte kan brukes til å prøve å forsterke noen kommunikasjonsferdigheter, hvis passende. På samme måte kan spillmesteren la karakteren forsøke å svinge en ikke-spillerkarakters reaksjon på karakteren.
+For å bruke Rykte til å forsterke en annen ferdighet, trill mot karakterens Rykte:
 
-For å bruke rykte for å forsterke en annen ferdighet, rull mot karakterens rykte:
-
-* **Kritisk suksess:** Karakterens rykte legger til en +50 % bonus til kommunikasjonsferdigheten som skal brukes.
-* **Spesiell suksess:** Karakterens rykte legger til en +30 % bonus til kommunikasjonsferdigheten som skal brukes.
-* **Suksess:** Karakterens rykte legger til en +20 % bonus til kommunikasjonsferdigheten som skal brukes.
-* **Mislykkes:** Karakteren trekker fra –20 % fra kommunikasjonsferdigheten som skal brukes.
-* **Fumle:** Karakteren trekker fra –50 % fra kommunikasjonsferdigheten som skal brukes.
+* **Kritisk suksess:** Karakterens Rykte gir en +50% bonus til kommunikasjonsferdigheten som skal brukes.
+* **Spesiell suksess:** Karakterens Rykte gir en +30% bonus til kommunikasjonsferdigheten som skal brukes.
+* **Suksess:** Karakterens Rykte gir en +20% bonus til kommunikasjonsferdigheten som skal brukes.
+* **Feil:** Karakteren trekker fra –20% fra kommunikasjonsferdigheten som skal brukes.
+* **Bommert:** Karakteren trekker fra –50% fra kommunikasjonsferdigheten som skal brukes.
 
 ### Ryktemodifikatorer
 
-Rykte modifiseres av den sosiale avstanden til publikum. Vanligvis øker ryktet blant familie, arbeidssted og nabolag eller hjemområde. På den annen side reduseres ryktet med fremmede og utenforstående. Berømte politikere, helter og kjendiser kan være fullstendig ukjente på fjerne steder. Tilsvarende, etter hvert som tiden går, blir rykter mindre relevante. Legg til modifikatorer til en karakters rykte basert på observatørens sosiale nærhet til dem.
+Rykte endres av publikumets sosiale avstand. Vanligvis er Rykte blant familie, arbeidsplass og nabolag eller hjemområde økt. På den annen side avtar Rykte hos fremmede og utenforstående. Kjente politikere, helter og kjendiser kan være fullstendig ukjente på fjerne steder. På samme måte blir Rykter mindre relevante etter hvert som tiden går. Legg til modifikatorer til en karakters Rykte basert på observatørens sosiale nærhet til dem.
 
 ##### Ryktemodifikatorer
 
 | Observatøren er... | Modifikator |
 | :---- | :---- |
-| ...fra samme familie, selskap eller lokalitet, eller har gjensidige bekjente. | +25 % |
-| ...velreist, følger sladder/nyheter og er velkoblet. | +10–25 % |
+| ...fra samme familie, firma eller lokalitet, eller har felles bekjente. | +25% |
+| ...velreist, følger sladder/nyheter og er godt forbundet. | +10–25% |
 | ...fra samme kultur eller region. | — |
-| ...utenfor karakterens sosiale nettverk eller kulturelle gruppe, eller er ute av kontakt med nyheter. | –25 % |
-| ...utenfor området der karakteren tjente sitt rykte, men innenfor samme geografiske region, eller er av en annen generasjon. | –50 % |
-| ...utenfor den geografiske regionen der karakteren tjente sitt rykte, eller mange år fjernet fra karakteren. | –75 % |
+| ...utenfor karakterens sosiale nettverk eller kulturelle gruppe, eller er ute av kontakt med nyere nyheter. | –25% |
+| ...utenfor området hvor karakteren opptjente sitt Rykte, men innenfor samme geografiske region, eller er av en annen generasjon. | –50% |
+| ...utenfor den geografiske regionen hvor karakteren opptjente sitt Rykte, eller mange år fjernet fra karakteren. | –75% |
 
-## Sunn fornuft (valgfritt)
+## Fornuft (Valgfritt)
 
-Det er mange måter karakterer kan bli skadet fysisk på, gjennom vold eller ulykker, men for noen spill er den mest potente trusselen den som stilles mot stabiliteten i det menneskelige sinn. Som definert i kapittel to: Karakterer, har karakterer en valgfri karakteristikk kalt **sunn fornuft** (Sanity), representert ved **sunn fornuft-poeng** (SAN). Jo flere sunn fornuft-poeng en karakter har, jo mer psykologisk stabile er de. Sunn fornuft-poeng går tapt gjennom traumer: møter med grusomme eller jordiske monstre, vitne til død eller voldelige hendelser, eller gjennomgå bevisst fysisk skade som tortur. Når de utsettes for hendelser som utfordrer sunn fornuft, ruller karakterer mot sin nåværende total av sunn fornuft-poeng. Mislykkes betyr et tap av SAN-poeng, mens suksess noen ganger betyr bare mindre SAN tapt. Sunn fornuft-poeng kan gjenvinnes gjennom rådgivning, vellykket å beseire kilden til SAN-tapet, eller ved personlig forbedring.
+Det er mange måter karakterer kan bli fysisk skadet på, gjennom vold eller ulykker, men for enkelte spill er den største trusselen den som utgjør en fare for det menneskelige sinnets stabilitet. Som definert i kapittel to: Karakterer, har karakterer en valgfri egenskap kalt **Fornuft**, representert ved **Fornuftspoeng** (SAN). Jo flere Fornuftspoeng en karakter har, desto mer psykologisk stabil er vedkommende. Fornuftspoeng tapes gjennom traumer: møter med grusomme eller overnaturlige monstre, å være vitne til død eller voldelige hendelser, eller å gjennomgå bevisst fysisk skade som tortur. Når karakterer utsettes for hendelser som utfordrer fornuften, triller de mot sin nåværende sum av Fornuftspoeng. Feil betyr et tap av SAN-poeng, mens suksess noen ganger bare betyr at mindre SAN tapes. Fornuftspoeng kan gjenvinnes gjennom rådgivning, ved å beseire kilden til SAN-tapet, eller gjennom personlig forbedring.
 
-Som et notat er dette systemet en abstraksjon spesifikt for formålet med spilling og har ikke til hensikt å tilnærme eller forringe virkeligheten av psykisk sykdom eller trivialisere den på noen måte.
+Som en merknad er dette systemet en abstraksjon spesifikt for spillformål og har ikke til hensikt å tilnærme seg eller redusere virkeligheten av psykisk sykdom eller trivialisere den på noen måte.
 
-### Mekanikk for sunn fornuft
+### Fornuftsmekanikker
 
-Hver karakter har en karakteristikk for sunn fornuft, forkortet til SAN. En karakters første SAN tilsvarer POW×5. En karakters SAN endres ikke fordi POW senere endres. Halvparten av karakterens start-SAN er deres **midlertidige sinnssykdomsskår** (TIS). Selv om SAN vil variere dramatisk gjennom spillingen, endres deres TIS aldri. Etter spillmesterens skjønn kan et spill med normale mennesker ha TIS lik POW, noe som gir en mye høyere sjanse for midlertidig sinnssykdom.
+Hver karakter har en Fornuft-egenskap, forkortet som SAN. En karakters innledende SAN tilsvarer MAK×5. En karakters SAN endres ikke fordi deres MAK endres senere. Halvparten av karakterens start-SAN er deres **Midlertidige Sinnssykepoengsum** (TIS). Selv om SAN vil variere dramatisk gjennom spillet, endres deres TIS aldri. Etter spillmesterens skjønn kan et spill med normale mennesker ha TIS lik MAK, noe som gir en mye høyere sjanse for midlertidig sinnssykdom.
 
-Av og til må en karakter foreta en vellykket SAN-rull på D100 eller miste SAN. Sjanse for suksess er lik eller lavere enn karakterens nåværende SAN. Spillmesteren vil rulle for hvor mye SAN som går tapt hvis rullen mislykkes. I noen tilfeller kan en spesielt grusom eller merkelig opplevelse koste SAN selv om rullen er vellykket, selv om dette sannsynligvis er en brøkdel av det totale mulige SAN-tapet.
+Av og til må en karakter utføre en vellykket SAN-trilling på D100 eller miste SAN. Sjanse for suksess er lik eller mindre enn karakterens nåværende SAN. Spillmesteren vil trille for hvor mye SAN som tapes hvis trillingen feiler. I enkelte tilfeller kan en spesielt grusom eller bisarr opplevelse koste SAN selv om trillingen er vellykket, selv om dette sannsynligvis er en brøkdel av det totale mulige SAN-tapet.
 
-Hvert karakterark inneholder et område for å notere nåværende SAN og TIS; start-SAN og TIS bør markeres permanent. Nåværende SAN bør skrives med blyant (hvis et papirark), som treffpoeng eller kraftpoeng, ettersom det endres med hvert tap.
+Hvert karakterark inkluderer et område for å notere nåværende SAN og TIS; start-SAN og TIS bør markeres permanent. Nåværende SAN bør skrives med blyant (hvis på papirark), som treffpoeng eller kraftpoeng, da det endres ved hvert tap.
 
-Hvis en karakter noen gang mister SAN større enn eller lik sin TIS i en 5-minutters periode (lik én tur), blir de da midlertidig sinnsforvirrede. Rull 1D6 for karakteren på **Midlertidig sinnssykdom**-tabellen og rull 1D8 på **Tabell for varighet av midlertidig sinnssykdom** (begge følger). Den første tabellen viser hvordan karakteren påvirkes, og den andre viser hvor lenge det varer.
+Hvis en karakter noen gang mister SAN større enn eller lik deres TIS i løpet av en 5-minutters periode (lik én tur), blir de midlertidig sinnssyke. Trill 1D6 for karakteren på tabellen for **Midlertidig sinnssykdom** og trill 1D8 på tabellen for **Varighet av midlertidig sinnssykdom** (begge følger). Den første tabellen viser hvordan karakteren påvirkes, og den andre viser hvor lenge det varer.
 
-Når du lider av midlertidig sinnssykdom, fortell spilleren hva karakteren gjennomgår og be dem rollespille det, hvis passende.
+Når man lider av midlertidig sinnssykdom, fortell spilleren hva karakteren gjennomgår og be dem rollespille det, hvis det er passende.
 
-Tid, rådgivning, potente medisiner, noen krefter eller til og med guddommelig inngripen kan helbrede midlertidig sinnssykdom. Passende medisiner kan enten lages med en passende ferdighet eller kjøpes, hvis tilgjengelig. Ytterligere måter å håndtere midlertidig sinnssykdom på kan eksistere, etter spillmesterens skjønn.
+Tid, rådgivning, potente medisiner, enkelte krefter eller til og med guddommelig inngripen kan helbrede midlertidig sinnssykdom. Passende medisiner kan enten lages med en passende ferdighet eller kjøpes, hvis tilgjengelig. Ytterligere måter å håndtere midlertidig sinnssykdom kan eksistere, etter spillmesterens skjønn.
 
 ##### Midlertidig sinnssykdom
 
 | Resultat | Beskrivelse og effekter |
 | :---- | :---- |
-| 1 | **Katatoni**; karakteren inntar en fosterstilling. |
-| 2 | **Stupefaksjon**; karakteren babler uavbrutt eller stirrer ut i luften uten å se noe. |
-| 3 | **Paranoia**; karakteren er klar, men overbevist om urimelig mistanke om nesten hva som helst. |
-| 4 | **Fobi**; karakteren rammet av stor frykt for noe knyttet til kilden til sinnssykdommen. |
-| 5 | **Amnesi**; karakteren kan ikke huske hvem de er eller hva som skjedde med dem i eller rundt tiden for SAN-tapet. |
-| 6 | **Selvmordsdesperasjon*** **eller et dødsønske**; karakteren er overbevist om at deres egen død er deres eneste middel til å unnslippe den mentale smerten. |
+| 1 | **Katatoni**; karakteren inntar fosterstilling. |
+| 2 | **Stupor**; karakteren plaprer uavbrutt eller stirrer ut i luften uten å se noe. |
+| 3 | **Paranoia**; karakteren er klar, men overbevist om urimelige mistanker om nesten hva som helst. |
+| 4 | **Fobi**; karakteren rammes av stor frykt for noe knyttet til kilden til sinnssykdommen. |
+| 5 | **Amnesi**; karakteren kan ikke huske hvem de er eller hva som skjedde med dem under eller rundt tiden for SAN-tapet. |
+| 6 | **Selvmordsdepresjon**\* **eller et dødsønske**; karakteren er overbevist om at deres egen død er deres eneste måte å unnslippe den mentale smerten på. |
 
-* Karakteren kan aldri tvinges til å utføre en selvmordsakt, og spillmesteren bør bruke dette resultatet forsiktig, og ta hensyn til sensitiviteten til spilleren(e) involvert.
+\* Karakteren kan aldri tvinges til å utføre en selvmordshandling, og spillmesteren bør bruke dette resultatet forsiktig, med hensyn til sensitiviteten hos spilleren(-e) involvert.
 
 ##### Varighet av midlertidig sinnssykdom
 
@@ -727,43 +722,43 @@ Tid, rådgivning, potente medisiner, noen krefter eller til og med guddommelig i
 | 7 | Én uke |
 | 8 | To uker |
 
-Når en karakters SAN når 0, anses de som permanent og fullstendig sinnsforvirrede, og er nå enten pensjonert fra spill eller blir en ikke-spillerkarakter som skal kontrolleres av spillmesteren. Den eneste kuren for permanent sinnssykdom er guddommelig inngripen eller en annen stor prosess (omfattende psykologisk omprogrammering, årevis med terapi og meditasjon osv.) som skal bestemmes av spillmesteren, hvis i det hele tatt mulig. Hvis så, bør mengden SAN som gjenopprettes bestemmes deretter.
+Når en karakters SAN når 0, anses de som permanent og fullstendig sinnssyke, og er nå enten pensjonert fra spill eller blir en ikke-spillerkarakter som skal kontrolleres av spillmesteren. Den eneste kuren for permanent sinnssykdom er guddommelig inngripen eller en annen større prosess (omfattende psykologisk omprogrammering, årevis med terapi og meditasjon, osv.) som skal bestemmes av spillmesteren, hvis det i det hele tatt er mulig. Hvis det er tilfelle, bør mengden SAN som gjenopprettes besluttes tilsvarende.
 
-### Maksimal sunn fornuft
+### Maksimal Fornuft
 
-Visse ferdigheter, som spesialiteten Blasfemisk lære i Kunnskapsferdigheten, kan redusere den maksimale mulige sunne fornuften. Etter hvert som denne ferdigheten øker, trekk den fra 100, resultatet er den maksimale sunne fornuften karakteren noensinne kan ha, selv om dette er mindre enn deres originale start-SAN.
+Enkelte ferdigheter, som spesialiteten Blasfemisk kunnskap under ferdigheten Kunnskap, kan redusere maksimal mulig Fornuft. Etter hvert som denne ferdigheten øker, trekk den fra 100, hvor resultatet er den maksimale Fornuft karakteren noensinne kan ha, selv om dette er mindre enn deres opprinnelige start-SAN.
 
-***For eksempel,*** *noen med start-SAN 75 (POW 15×5) med Kunnskap (Blasfemisk lære) 43 % har en ny maksimal sunn fornuft på 57 % (100–43=57).*
+***For eksempel*** *har noen med start-SAN 75 (MAK 15×5) med Kunnskap (Blasfemisk kunnskap) 43% en ny maksimal Fornuft på 57% (100–43=57).*
 
-### Gjenopprette sunn fornuft-poeng
+### Gjenoppretting av Fornuftspoeng
 
-En karakter kan gjenvinne tapt SAN, men aldri til et beløp som overstiger deres start-maksimum totalt. Følgende er noen måter SAN kan gjenopprettes på:
+En karakter kan gjenvinne tapt SAN, men aldri til et beløp som overstiger deres maksimale start-SAN. Følgende er noen måter SAN kan gjenopprettes på:
 
-* **Suksess:** Å beseire eller ødelegge en årsak til SAN-tap kan være verdt et beløp lik halvparten av det potensielle SAN-tapet årsaken truet med. Spillmesteren bør tolke forholdene for «å beseire» og bestemme det nøyaktige beløpet som gjenopprettes. Dette kan rulles eller tildeles som et teppebeløp til alle som deltar i nederlaget, ikke bare de som mistet SAN.
-* **Rådgivning:** Se Psykoterapi-ferdigheten. Generelt gjenvinner en vellykket ferdighetsrull 1D3–1 SAN.
-* **Medisiner:** Noen medisiner eller stoffer kan, etter spillmesterens skjønn, gjenopprette tapt SAN.
-* **Krefter:** Flere psykiske evner og Overførings-superkraften kan gjenopprette tapt SAN.
-* **Selvforbedring:** Å oppnå en 91 % vurdering i en ferdighet gjenoppretter umiddelbart 2D6 SAN-poeng, som representerer selvtilliten og disiplinen knyttet til å mestre en ferdighet (dette er en engangsbonus). Hvis en karakter begynner med denne ferdighetsvurderingen eller høyere, er det ingen SAN-gevinst.
+* **Suksess:** Å beseire eller ødelegge en årsak til SAN-tap kan være verdt et beløp lik halvparten av det potensielle SAN-tapet årsaken truet med. Spillmesteren bør tolke betingelsene for 'å beseire' og bestemme den nøyaktige mengden som gjenopprettes. Dette kan trilles for eller tildeles som et fast beløp til alle som deltar i seieren, ikke bare de som mistet SAN.
+* **Rådgivning:** Se ferdigheten Psykoterapi. Generelt gjenvinner en vellykket ferdighetstrilling 1D3–1 SAN.
+* **Medisiner:** Enkelte medisiner eller substanser kan, etter spillmesterens skjønn, gjenopprette tapt SAN.
+* **Krefter:** Flere psykiske evner og superkraften Overføring kan gjenopprette tapt SAN.
+* **Selvforbedring:** Å oppnå en 91% vurdering i en ferdighet gjenoppretter umiddelbart 2D6 SAN-poeng, som representerer selvtilliten og disiplinen knyttet til å mestre en ferdighet (dette er en engangsbonus). Hvis en karakter begynner med denne ferdighetsvurderingen eller høyere, er det ingen SAN-gevinst.
 
-Alle sunn fornuft-gevinster er helt etter spillmesterens skjønn, den eneste dommeren over situasjonen og av hva som er passende.
+Alle Fornuft-gevinster er helt etter spillmesterens skjønn, som er den eneste dommeren av situasjonen og hva som er passende.
 
-### SAN-kostnader etter situasjon
+### Fornuftskostnader etter situasjon
 
-Følgende oppføringer diskuterer de sunn fornuft-rystende situasjonene som kan oppstå i spill. Spillmesteren bør bestemme ytterligere situasjoner. Verdien foran / er beløpet hvis en vellykket SAN-rull er gjort, mens beløpet på den andre siden av / er beløpet som rulles hvis rullen mislykkes.
+Følgende oppføringer diskuterer de fornuftrystende situasjonene som kan oppstå i spill. Spillmesteren bør bestemme ytterligere situasjoner. Verdien foran / er beløpet hvis en vellykket SAN-trilling utføres, mens beløpet på den andre siden av den er beløpet som trilles hvis trillingen feiler.
 
-##### SAN-tap
+##### Fornuftstap
 
 | Kilde til SAN-tap | Potensielt tap |
 | :---- | :---- |
-| Noe urovekkende og groteskt, eller en plutselig skrekk | 0/1 |
+| Noe urovekkende og grotesk, eller en plutselig skrekk | 0/1 |
 | Mindre unaturlige skapninger (zombier, varulver, vampyrer, osv.) | 0/1D3+ |
 | Åsted for en voldelig død, finne et lik | 0/1D3 |
-| Å finne et lemlestet eller manglet lik | 1/1D4 |
-| Vitne til en grusom død | 1/1D6 |
-| Å lide mindre tortur | 1D3/1D6 |
-| Virkelighet-utfordrende visjoner (Kaos, unaturlig korrupsjon, osv.) | 0/1d8 |
-| Merkelige og grusomme monstre | 1D2+/1D6+ |
-| Å bli rammet av en eller annen grusom forvandling | 1D6/2D10 |
+| Finne et lemlestet eller maltraktert lik | 1/1D4 |
+| Å være vitne til en grusom død | 1/1D6 |
+| Bli utsatt for mindre tortur | 1D3/1D6 |
+| Virkelighetsoverskridende visjoner (Kaos, unaturlig korrupsjon, osv.) | 0/1d8 |
+| Bisarre og grusomme monstre | 1D2+/1D6+ |
+| Å bli rammet av en form for grusom forvandling | 1D6/2D10 |
 | Monstrøse fremmede guder | 1D10/1D100 |
 
-Ved gjentatt eksponering for samme kilde til SAN-tap, kan spillmesteren redusere effektene av senere eksponering (kanskje bare tillate flere eksponeringer å legge seg til den totale mulige rullen) eller ignorere behovet for å rulle igjen helt hvis karakteren har blitt vant til eller desensibilisert for den sunn fornuft-skadelige opplevelsen.
+I tilfelle flere eksponeringer for samme kilde til SAN-tap, kan spillmesteren redusere effektene av senere eksponering (kanskje bare tillate at flere eksponeringer summeres til det totale mulige trillede beløpet) eller ignorere behovet for å trille igjen hvis karakteren har blitt fortrolig med eller desensibilisert til den fornuftsskadelige opplevelsen.

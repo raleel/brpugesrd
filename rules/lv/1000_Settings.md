@@ -1,523 +1,521 @@
 # 10. Iestatījumi
 
-Šajā nodaļā ir apskatīti iestatījumi — laiki un/vai vietas, kur norisinās jūsu piedzīvojumi. Parasti iestatījums nosaka žanru — vesterns, zinātniskā fantastika, tehno-trilleris, "zobens un sandales", augstā fantāzija vai daudzi citi. Šajā nodaļā ir iekļauti arī papildu noteikumi par uzticību, kaislībām un neprātu.
+Šajā nodaļā ir apskatīti iestatījumi — laiki un/vai vietas, kur norisinās jūsu piedzīvojumi. Parasti iestatījums ir žanrs — vesterns, zinātniskā fantastika, tehno-trilleris, "zobens un sandales", augstā fantāzija vai daudzi citi. Šī nodaļa ietver arī papildu noteikumus par uzticību, kaislībām un neprātu.
 
 ## Iestatījuma izveide
 
-*Basic Roleplaying* ir izstrādāts, lai palīdzētu jums, spēles vadītājam (GM), izveidot savu iestatījumu, neatkarīgi no tā, vai tas ir oriģināls vai kāda jau esoša darba adaptācija. Tālāk ir minēti daži populāri iestatījumi, kas visi izmanto vienādu formātu, kā arī dažas piezīmes par katru no tiem. Katrā ir iekļauti ieteicamie tēlu tipi (lai gan tie nav ierobežojumi), spējas, kas ir loģiskas konkrētajā iestatījumā, tehnoloģijas, kas palīdz izvēlēties aprīkojumu, norādes piedzīvojumu veidiem un piemēroti papildu noteikumi.
+*Basic Roleplaying* ir izstrādāts, lai palīdzētu jums, spēles vadītājam, izveidot savu iestatījumu neatkarīgi no tā, vai tas ir oriģināls vai kaut kā esoša adaptācija. Tālāk ir sniegti daži populāri iestatījumi, kas visi seko vienam un tam pašam formātam, kā arī dažas piezīmes par katru. Katram no tiem ir ieteiktie tēlu tipi (lai gan tie nav ierobežojumi), spējas, kas ir loģiskas attiecīgajā iestatījumā, tehnoloģijas, kas palīdz izvēlēties aprīkojumu, ierosmes piedzīvojumu veidiem un piemēroti papildu noteikumi.
 
 ### Aizvēsturiskais laikmets
 
-Jebkura aizvēsturiska vai primitīva cilšu vide pirms civilizācijas rītausmas vai kaut kādā veidā no tās nodalīta. Dzīve ir īsa un brutāla, un parasti vienīgā sociālā organizācija ir ģimene vai cilts. Aizvēsturiskie zīdītāji parasti ir galvenais drauds, lai gan alternatīvajās vēsturēs reizēm ir iekļauti dinozauri.
+Jebkura aizvēsturiska vai primitīva cilšu vide pirms civilizācijas rītausmas vai kaut kādā veidā no tās nošķirta. Dzīve ir īsa un brutāla, un parasti vienīgā sociālā organizācija ir ģimene vai cilts. Aizvēsturiskie zīdītāji parasti ir galvenais drauds, lai gan alternatīvajās vēsturēs dažkārt iekļauti dinozauri.
 
 * **Tēlu tipi:** Amatnieks, Zemkopis, Mednieks, Šamanis un Cilts loceklis.
-* **Spējas:** Primitīvie šamaņi var izmantot maģiju, un var pastāvēt mutācijas vai psihiskas spējas.
-* **Tehnoloģija:** Aizvēsturiskajā pasaulē nav pieejami rūpnieciski ražoti priekšmeti; viss tiek veidots no primitīviem resursiem, piemēram, koka, akmens, kaula, ādas, kažokādas, spalvām un māla — gan apģērbs, gan darbarīki un ieroči, gan reliģiski totēmi vai piemiņas lietas. Lai gan prasmīgs amatnieks var izgatavot labākus akmens cirvjus vai talismanus, daudz kas vairāk nav iespējams. Lielākā daļa priekšmetu ir sliktas vai vidējas kvalitātes, un turīguma nav.
-* **Piedzīvojumi:** Cilšu konflikti starp mednieku-vācēju grupām par labākajām medību vietām, nelabvēlīgi laikapstākļi, agresīvi dzīvnieki vai pat lielās medības var veidot aizvēsturisko piedzīvojumu kodolu. Alternatīvās aizvēsturēs var iekļaut senas būtnes no *Cthulhu Mythos*, citplanētiešus, kas vēlas pakļaut primitīvo cilvēci, vai pat atšķirīgus evolūcijas ceļus, kuros inteliģenti dinozauri vai pērtiķi kļuvuši par dominējošo sugu, bet cilvēce — par to barību.
+* **Spējas:** Primitīvi šamaņi var izmantot maģiju, turklāt var pastāvēt mutācijas un psihiskās spējas.
+* **Tehnoloģijas:** Aizvēsturiskajā pasaulē nav pieejami rūpnieciski ražoti priekšmeti; viss tiek veidots no primitīviem resursiem, piemēram, koka, akmens, kaula, ādas, kažokādas, spalvām un māla — neatkarīgi no tā, vai tas ir apģērbs, darbarīki un ieroči vai reliģiskie totēmi un piemiņas lietas. Lai gan prasmīgs amatnieks var izgatavot labākus akmens cirvjus un veidot labākus talismanus, nekas vairāk par to nav pieejams. Vairums priekšmetu ir sliktas vai viduvējas kvalitātes, un turībai nav nozīmes.
+* **Piedzīvojumi:** Cilšu konflikti starp mednieku-vācēju grupām par labākajām medību vietām, nelabvēlīgi laikapstākļi, agresīvi dzīvnieki vai pat grandiozas medības var veidot aizvēsturisko piedzīvojumu kodolu. Alternatīvās aizvēstures var ietvert senās būtnes no Ktulhu mītiem, citplanētiešus, kas apņēmušies paverdzināt primitīvo cilvēci, vai pat atšķirīgus evolūcijas ceļus, kuros saprātīgi dinozauri vai pērtiķi ir kļuvuši par dominējošo sugu, bet cilvēce — par to barību.
 * **Opcijas:** Nav.
 
 ### Bronzas laikmets
 
-Tādu karaļvalstu laikmets kā Šumerija, Grieķija, Roma, Ēģipte, Persija un citas varenas impērijas, sākot no Mesopotāmijas epohas līdz Bībeles senatnei, klasiskajai Grieķijai un līdz Romas krišanai un tai sekojošajam Eiropas haotiskajam sabrukumam. Alternatīvi tas var būt "zobena un sandales" fantāzijas iestatījums, kas norisinās iztēlotā senajā pasaulē.
+Tādu karaļvalstu kā Šumerija, Grieķija, Roma, Ēģipte, Persija un citu varenas impērijas laikmets, no Mezopotāmijas laikmeta līdz Bībeles senatnei, klasiskajai Grieķijai, līdz pat Romas krišanai un tai sekojošajam haotiskajam Eiropas sabrukumam. Alternatīvi tas varētu būt "zobena un sandales" fantāzijas iestatījums, kas norisinās iedomātā senajā pasaulē.
 
 * **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi.
-* **Spējas:** Maģija un burvestības, visticamāk, dievišķas izcelsmes. Var pastāvēt psihiskas spējas, un monstriem var būt mutācijas. Pussdievu vai leģendāriem varoņiem var būt superspējas.
-* **Tehnoloģija:** Bronzas laikmeta uzplaukums un Dzelzs laikmeta sākums, kad metālapstrāde ir pārveidojusi kultūru un tirdzniecību. Tas ir mākslinieciskuma uzplaukuma un civilizācijas dzimšanas laiks.
-* **Piedzīvojumi:** Šis laikmets ir piemērots gan skarbiem fantāzijas eposiem, gan grandiozākām mitoloģiskām tēmām ar lielu uzsvaru uz kultūru un pielūgsmi.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Šāviņu atvairīšana, Noguruma punkti, Augstāki sākuma raksturlielumi, Trāpījumu punkti pa vietām, Palielināti personīgie prasmju punkti, Rakstpratība, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Spējas:** Maģija un burvestības, visticamāk, dievišķas izcelsmes. Var pastāvēt psihiskās spējas, un monstriem var būt mutācijas. Pustieviem vai leģendāriem varoņiem var būt superspējas.
+* **Tehnoloģijas:** Bronzas laikmeta uzplaukums un dzelzs laikmeta sākums, kad metālapstrāde ir pārveidojusi kultūru un tirdzniecību. Tas ir mākslinieciskuma uzplaukums un civilizācijas dzimšana.
+* **Piedzīvojumi:** Šis laikmets ir piemērots gan skarbiem fantāzijas epopejām, gan grandiozākām mitoloģiskām tēmām ar lielu uzsvaru uz kultūru un pielūgsmi.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Izvairīšanās no šāviņiem, Noguruma punkti, Augstāki sākuma raksturlielumi, Dzīvības punkti pa vietām, Palielināti personīgie prasmju punkti, Lasītprasme, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
 ### Dzelzs laikmets
 
-Pēc Romas impērijas krišanas liela daļa Eiropas atrodas haosā. Lai gan notiek sociāli uzlabojumi un vispārējās dzīves kvalitātes celšanās, šis laiks bieži tiek raksturots kā brutāls un neapgaismots. Tas ietver norvēģu (vikingu) kultūras uzplaukumu un reģionālos karus visā Eiropā, lai aizpildītu Romas atstāto varas vakuumu. Tas varētu būt arī fantāzijas iestatījums, iekļaujot necilvēciskas rases, piemēram, elfus un pundurus, vai pat mītiskus dzīvniekus un monstrus.
+Pēc Romas impērijas krišanas liela daļa Eiropas ir nesakārtotībā. Lai gan pastāv sociālie sasniegumi un uzlabojumi vispārējā dzīves kvalitātē, šis laiks bieži tiek raksturots kā brutāls un neapgaismots. Tas ietver norvēģu (vikingu) kultūras uzplaukumu un reģionālos karus visā Eiropā, lai aizpildītu Romas atstāto vakuumu. Tas varētu būt arī fantāzijas iestatījums, iekļaujot necilvēcīgas rases, piemēram, elfus un pundurus, vai pat mītiskus dzīvniekus un monstrus.
 
-* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Politiķi bieži ir dižciltīgie, un rakstnieki parasti ir priesteri vai varbūt dzejnieki.
-* **Spējas:** Maģija un burvestības ir divi visizplatītākie spēju veidi, un tās var būt dievišķas, infernālas vai pagāniskas dabas.
-* **Tehnoloģija:** Neskatoties uz to, ka reizēm tiek dēvēts par "tumšajiem laikiem", notiek zinātniska attīstība, uzlabojumi mehāniskajā inženierijā un slimību ārstēšanā. Uzplaukst fiziskās pasaules izpēte, un grāmatu radīšana un zināšanu saglabāšana kļūst izplatīta dižciltīgo un garīdzniecības vidū. Kuģniecība kļūst arvien sarežģītāka.
-* **Piedzīvojumi:** Eiropa pēc Romas ir teju post-apokaliptisks tuksnesis, un dzīve vienkāršajiem ļaudīm bija smaga. Sīki kari un apspiešana ir ikdiena. Reliģiju šķelšanās ir konfliktu un nemieru pilna.
-* **Opcijas:** Uzticība, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Izglītības/zināšanu metiens, Noguruma punkti, Trāpījumu punkti pa vietām, Rakstpratība, Kaislības, Reputācija, Saprāts.
+* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Politiķi bieži ir muižnieki, un rakstnieki parasti ir priesteri vai varbūt dzejnieki.
+* **Spējas:** Maģija un burvestības ir divi visizplatītākie spēju veidi, un tās var būt dievišķas, ellišķīgas vai pagāniskas pēc dabas.
+* **Tehnoloģijas:** Neskatoties uz to, ka to dažkārt dēvē par "tumšo laikmetu", notiek zinātniska attīstība, mehāniskās inženierijas uzlabojumi un slimību ārstēšana. Fiziskās pasaules izpēte uzplaukst, un grāmatu radīšana un zināšanu saglabāšana kļūst izplatīta muižniecības un garīdzniecības vidū. Burukuģi kļūst arvien sarežģītāki.
+* **Piedzīvojumi:** Eiropa pēc Romas ir patiesa postapokaliptiska tuksnešaina zeme, un dzīve vienkāršajiem iedzīvotājiem bija grūta. Sīki kari un apspiešana ir ikdiena. Reliģiju šķelšanās ir pilna konfliktu un satricinājumu.
+* **Opcijas:** Uzticība, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Izglītības/zināšanu metiens, Noguruma punkti, Dzīvības punkti pa vietām, Lasītprasme, Kaislības, Reputācija, Saprāts.
 
 ### Augstie viduslaiki
 
-Šis ir feodālais laikmets. Dižciltība, bruņniecība un dinastiskās valdības un sociālās struktūras raksturo šo periodu. Idealizēta romance vada bruņniecisko pasauli, pretstatā brutālai un drūmai realitātei. Maģija tiek uzskatīta par velnišķību, un dievišķais tiek uzskatīts par tikpat reālu kā infernālais. Tas var arī aprakstīt tālu post-apokaliptisku pasauli, kur pēdējās civilizācijas paliekas ir kritušas neo-feodālismā.
+Šis ir feodālais laikmets. Muižniecība, bruņniecība un dinastiskās valdības un sociālās struktūras raksturo šo periodu. Idealizēts romantisms virza bruņniecisko pasauli, pretstatā brutālai un drūmai realitātei. Maģija tiek uzskatīta par velnišķību, un dievišķais tiek uzskatīts par tikpat reālu kā ellišķīgais. Tas varētu aprakstīt arī tālu postapokaliptisku pasauli, kur civilizācijas pēdējās paliekas ir kritušas neofeodālisma priekšā.
 
-* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Rakstnieki parasti ir priesteri vai dzejnieki, un zinātnieki, visticamāk, ir priesteri ar interesi par dabas pasauli.
-* **Spējas:** Maģija un burvestības ir divi visizplatītākie spēju veidi, un tās var būt dievišķas, infernālas vai pagāniskas dabas.
-* **Tehnoloģija:** Preču masveida ražošana, agrīnās cunftes, paplašināta tirdzniecība un plaša preču izplatīšana ir pārveidojusi pasauli. Parasti plašas rakstpratības trūkums ierobežo grāmatu un padziļinātu zināšanu pieejamību. Bruņas un ieroči kļūst arvien efektīvāki, tad barokāli.
+* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Rakstnieki parasti ir priesteri vai var būt dzejnieki, un zinātnieki, visticamāk, ir priesteri ar interesi par dabas pasauli.
+* **Spējas:** Maģija un burvestības ir divi visizplatītākie spēju veidi, un tās var būt dievišķas, ellišķīgas vai pagāniskas pēc dabas.
+* **Tehnoloģijas:** Masveida preču ražošana, agrīnās ģilžu struktūras, paplašināta tirdzniecība un plaša preču izplatīšana ir pārveidojusi pasauli. Kopumā plašas lasītprasmes trūkums ierobežo grāmatu un padziļinātu zināšanu pieejamību. Bruņas un ieroči kļūst arvien efektīvāki, tad barokāli.
 * **Piedzīvojumi:** Artūra vai Kārļa Lielā laika piedzīvojumi, bruņinieku meklējumi utt.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Noguruma punkti, Augstāki sākuma raksturlielumi, Trāpījumu punkti pa vietām, Palielināti personīgie prasmju punkti, Rakstpratība, Necilvēciski tēli, Kaislības, Reputācija, Prasmju rādītāji virs 100%.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Noguruma punkti, Augstāki sākuma raksturlielumi, Dzīvības punkti pa vietām, Palielināti personīgie prasmju punkti, Lasītprasme, Necilvēcīgi tēli, Kaislības, Reputācija, Prasmju vērtējumi virs 100%.
 
 ### Augstā fantāzija
 
-Līdzīga augsto viduslaiku iestatījumam, taču atšķiras ar to, ka necilvēciskas būtnes, piemēram, elfi, punduri utt., pastāv līdzās cilvēkiem, bieži vien sabiedrojušies ar cilvēkiem pret orkiem, troļļiem, gobliniem utt. Dievi var būt aktīvi, un viņu pielūdzēji iegūst dievišķas spējas. Maģija ir izplatīta, ar maģiskiem priekšmetiem, piemēram, dziedinošiem dzērieniem, maģiskiem zobeniem, apburtām bruņām utt. Senas drupas ir visur, un pazemē stiepjas labirinti.
+Līdzīga augsto viduslaiku iestatījumam, taču atšķiras ar to, ka necilvēki, piemēram, elfi, punduri u.c., pastāv līdzās cilvēkiem, bieži vien apvienojoties ar cilvēkiem pret orkiem, troļļiem, gobliniem utt. Dievi var būt aktīvi, un to pielūdzēji iegūst dievišķas spējas. Maģija ir izplatīta, bieži sastopami maģiski priekšmeti, piemēram, dziedinoši eliksīri, maģiski zobeni, apburtas bruņas utt. Senas drupas ir visapkārt, un pazemē plešas cietumi.
 
 * **Tēlu tipi:** Tāpat kā augstajos viduslaikos (augstāk).
-* **Spējas:** Jebkādas. Maģija un burvestības var būt dievišķas, infernālas vai pagāniskas dabas. Mutācijas var būt atrodamas starp noteiktiem monstru veidiem, un var būt rases, kas izmanto psihiskas spējas. Varenas pārdabiskas būtnes var izmantot superspējas dievišķu vai infernālu spēju aizsegā.
-* **Tehnoloģija:** Tāpat kā augstajos viduslaikos, bet mazāk reālistiska.
-* **Piedzīvojumi:** Iebrukumi pazemes labirintos, maģisku priekšmetu meklējumi, karš, izpēte utt.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Noguruma punkti, Augstāki sākuma raksturlielumi, Trāpījumu punkti pa vietām, Palielināti personīgie prasmju punkti, Rakstpratība, Necilvēciski tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%.
+* **Spējas:** Jebkādas. Maģija un burvestības var būt dievišķas, ellišķīgas vai pagāniskas pēc dabas. Mutācijas var tikt atrastas starp noteikta veida monstriem, un var pastāvēt rases, kas izmanto psihiskās spējas. Varenas pārdabiskas būtnes var izmantot superspējas dievišķu vai ellišķīgu spēju aizsegā.
+* **Tehnoloģijas:** Tāpat kā augstajos viduslaikos, bet mazāk reālistiskas.
+* **Piedzīvojumi:** Cietumu reidi, maģisku priekšmetu meklējumi, karš, izpēte utt.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Bojājumi un trāpījumu vietas, Noguruma punkti, Augstāki sākuma raksturlielumi, Dzīvības punkti pa vietām, Palielināti personīgie prasmju punkti, Lasītprasme, Necilvēcīgi tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%.
 
 ### Impērijas Āzija
 
-Vispārīgs termins vēsturiskajai Japānai vai Ķīnai, ietverot arī cīņas mākslu fantastisko pasauli. Šī kategorija var aprakstīt arī Mogulu Indiju.
+Vispārīgs termins vēsturiskajai Japānai vai Ķīnai, iekļaujot arī fantastisko cīņas mākslu pasauli. Šī kategorija var aprakstīt arī Mogulu Indiju.
 
 * **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku vai Tehniķi. Rakstnieki, visticamāk, ir dzejnieki.
-* **Spējas:** Maģija un burvestības ir izplatītas un var balstīties uz elementāriem principiem. Intensīva ezotērisko cīņas mākslu disciplīnu izpēte ļauj iegūt tādas spējas kā psihiskās vai superspējas.
-* **Tehnoloģija:** Ķīnas un Japānas mākslas un zinātnes attīstījās krietni tālāk par tā paša laikmeta rietumu pasauli, ar iespiedmašīnām, šaujampulveri utt., ko papildināja institucionālās izglītības un birokrātijas uzplaukums.
-* **Piedzīvojumi:** Tie var variēt no cīņām par klana vai reģionālā līdera statusu un pat var iekļaut anakronistiskus elementus, kā tas redzams mangā vai animē.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Šāviņu atvairīšana, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Spējas:** Maģija un burvestības ir izplatītas un var balstīties uz elementāriem principiem. Intensīva ezotērisko cīņas mākslu disciplīnu apguve ļauj iegūt tādas spējas kā psihiskās vai superspējas.
+* **Tehnoloģijas:** Ķīnas un Japānas māksla un zinātne attīstījās krietni tālāk par tā paša laikmeta rietumu pasauli, ar iespiedmašīnām, šaujampulveri utt., ko papildināja institucionālās izglītības un birokrātijas uzplaukums.
+* **Piedzīvojumi:** Tās var svārstīties no cīņām par klana vai reģionālā līdera statusu un pat iekļaut anakronistiskus elementus, kādus sastopam mangā vai animē.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Izvairīšanās no šāviņiem, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
-### Tūkstoš un vienas nakts pasakas
+### Arābu naktis
 
-Senā arābu vai persiešu pasaule, ko parasti definē tuksneši un drosmīgi piedzīvojumi.
+Senā arābu vai persiešu pasaule, kopumā pasaule, ko definē tuksneši un drosmīgi piedzīvojumi.
 
-* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Rakstnieki parasti ir priesteri vai dzejnieki, un zinātnieki, visticamāk, ir priesteri ar interesi par dabas pasauli.
+* **Tēlu tipi:** Jebkurš, izņemot Žurnālistu, Zinātnieku un Tehniķi. Rakstnieki parasti ir priesteri vai var būt dzejnieki, un zinātnieki, visticamāk, ir priesteri ar interesi par dabas pasauli.
 * **Spējas:** Maģija un burvestības, lai gan pārdabiskām būtnēm var būt superspējas.
-* **Tehnoloģija:** Zināšanas par fizisko pasauli — matemātika, ķīmija, astronomija, medicīna, citas zinātnes — bija augsti attīstītas, un parasti bagātība ļāva iegādāties dzīves kvalitāti un rīcības brīvību.
-* **Piedzīvojumi:** Tie var atgādināt pasakas vai stāstus no šā laikmeta klasikas, izpēti vai senus lāstus, darījumus ar mītiskām būtnēm un drosmīgus tēlus no zemākajiem zagļiem līdz dižciltīgiem prinčiem vai princesēm.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Palielināti personīgie prasmju punkti, Kaislības, Reputācija, Prasmju rādītāji virs 100%.
+* **Tehnoloģijas:** Zināšanas par fizisko pasauli — matemātika, ķīmija, astronomija, medicīna, citas zinātnes — bija augsti attīstītas, un parasti bagātība varēja iegādāties dzīves kvalitāti un rīcības brīvību.
+* **Piedzīvojumi:** Tie var līdzināties pasakām vai tiem, kas sastopami klasiskajās tā laikmeta pasakās, izpētei vai seniem lāstiem, vienošanās ar mītiskām būtnēm un drosmīgiem tēliem no zemākajiem zagļiem līdz cēliem prinčiem vai princesēm.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Palielināti personīgie prasmju punkti, Kaislības, Reputācija, Prasmju vērtējumi virs 100%.
 
-### Apgaismība un Renesanse
+### Apgaismība un renesanse
 
-Pirmkārt, tas ir par Eiropu Renesanses laikmetā, lai gan tas varētu ietvert arī fantāziju un fantastisku realitāti, piemēram, plašu Leonardo da Vinči izgudrojumu izmantošanu. Laiks, kad māksla un zinātne ievērojami izauga, mecenātisms veicināja māksliniecisko attīstību ar ievērojamu klasiskās senatnes pasaules ietekmi.
+Galvenokārt par Eiropu renesanses laikmetā, lai gan tā var iekļaut arī fantāziju un iztēles bagātu realitāti, piemēram, Leonardo da Vinči izgudrojumu plašu izmantošanu. Laiks, kad māksla un zinātne dramatiski pieauga, mecenātisms veicināja māksliniecisko attīstību, ar ievērojamu ietekmi no antīkās pasaules.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Maģija un burvestības var pastāvēt, bet reliģiskās institūcijas tās var aizliegt. Alķīmija (maģisku priekšmetu un eliksīru radīšana) ir populāra zinātnieku nodarbe.
-* **Tehnoloģija:** Tāpat kā augstajos viduslaikos, tas ir prasmīgas amatniecības, zinātnes un izgudrojumu zenīts: pulksteņmehānismi, šaujampulveris un precīzijas instrumenti, tiek pētīti tvaika, ūdens un vēja enerģijas principi. Arbaleta ieviešana ir faktiski izskaudusi bruņu izmantošanu.
-* **Piedzīvojumi:** Barokāla politiskā atmosfēra un dziļa šķelšanās starp Baznīcu un Apgaismību rada dinamisku iestatījumu, kur tēli var būt mākslas patroni, kas ievilkti intrigās, vai arī viņi var būt apmaldījušies izgudrotāji, kuru atklājumi noved pie nepatikšanām. Alternatīvi, viņi var doties atklātā jūrā vai ceļot uz Jauno Pasauli.
-* **Opcijas:** Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Rakstpratība, Kaislības, Reputācija.
+* **Spējas:** Maģija un burvestības var pastāvēt, taču reliģiskās institūcijas tās aizliedz. Alķīmija (maģisku priekšmetu un eliksīru radīšana) ir populāra nodarbe zinātnieku vidū.
+* **Tehnoloģijas:** Tāpat kā augsto viduslaiku laikmetā, tas ir prasmīgas amatniecības, zinātnes un izgudrojumu virsotne: ar pulksteņmehānismiem, šaujampulveri un precīzijas instrumentiem, kā arī tiek pētīti tvaika, ūdens un vēja enerģijas principi. Arbaleta ieviešana ir praktiski izskaudusi ķermeņa bruņu lietošanu.
+* **Piedzīvojumi:** Barokāla politiskā atmosfēra un dziļa šķelšanās starp Baznīcu un Apgaismību rada dinamisku iestatījumu, kurā tēli var būt mākslas mecenāti, kas ierauti intrigās, vai arī viņi var būt neparedzami izgudrotāji, kuru atklājumi noved viņus nepatikšanās. Alternatīvi, viņi var doties atklātā jūrā vai ceļot uz Jauno pasauli.
+* **Opcijas:** Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Lasītprasme, Kaislības, Reputācija.
 
 ### Atklājumu laikmets
 
-Šo periodu iezīmē izplešanās no Eiropas uz Ziemeļ- un Dienvidameriku, Āfriku, Indiju, Ķīnu utt., galvenokārt kolonizācijas, reliģiskās pievēršanas, teritoriālās aneksijas un oportūnisma dēļ. Tas neizbēgami beidzas slikti pamatiedzīvotājiem, kuri tiek upurēti, ekspluatēti un pat paverdzināti, viņu kultūras tiek atstumtas, kriminalizētas vai pat iznīcinātas. Anglijā karalienes Elizabetes I valdīšanas laiks tiek uzskatīts par zelta laikmetu: dzejas, literatūras, modes un teātra uzplaukums. Kontinentālā Eiropa tomēr ir kara plosīta. Zobencīņu piedzīvojumi ir perioda konvencija.
+Šo periodu raksturo paplašināšanās no Eiropas uz Ziemeļameriku un Dienvidameriku, Āfriku, Indiju, Ķīnu utt., galvenokārt kolonizācijas, reliģiskās pievēršanas, teritoriālās aneksijas un oportūnisma nolūkos. Tas nenovēršami beidzas slikti vietējiem iedzīvotājiem, kuri tiek vajāti, ekspluatēti un pat paverdzināti, to kultūras tiek atstumtas, kriminalizētas vai pat izskaustas. Anglijā karalienes Elizabetes I valdīšanas laiks tiek uzskatīts par zelta laikmetu: dzejas, literatūras, modes un teātra uzplaukums. Tomēr kontinentālo Eiropu plosa karš. Zobenpiedzīvojumi ir šī perioda konvencija.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Burvestības, ja tādas tiek piekoptas, visticamāk, balstās uz infernālu izcelsmi. Mazāk tehnoloģiski attīstītas vietējās kultūras var izmantot maģiju vai burvestības šamanisku zināšanu vai raganības formā.
-* **Tehnoloģija:** Pārsvarā iezīmējas ar to, kas nodrošināts Renesanses laikā, uzlabojumiem un pilnveidošanu. Šaujampulveris kļūst izplatīts karadarbībā, periodu definē agrīnā tehnika. Pamatiedzīvotāji, kuru zemes šajā periodā tiek anektētas, parasti bija mazāk tehnoloģiski attīstīti un tika pārspēti ar pārāku ugunsjaudu.
-* **Piedzīvojumi:** Šis ir izaicinošs periods verdzības un ekspluatācijas institūciju dēļ, kas iet roku rokā ar koloniālistisko ekspansiju. Piedzīvojumi Eiropas kontinentā, visticamāk, neapskatīs šīs tēmas, piemēram, zobencīņu varoņdarbi vai militāras kampaņas starp karojošajām baznīcām vai dižciltīgajiem.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Šāviņu atvairīšana, Palielināti personīgie prasmju punkti, Rakstpratība, Kaislības, Reputācija, Prasmju rādītāji virs 100%.
+* **Spējas:** Burvestības, ja tās tiek praktizētas, visticamāk, ir ellišķīgas izcelsmes. Mazāk tehniski attīstītas vietējās kultūras var izmantot maģiju vai burvestības šamanisma zināšanu vai burvības veidā.
+* **Tehnoloģijas:** Galvenokārt iezīmējas ar renesanses laikā sniegto zināšanu uzlabošanu un precizēšanu. Šaujampulveris kļūst izplatīts karadarbībā, un agrīnās iekārtas definē šo periodu. Vietējie iedzīvotāji, kuru zemes šajā periodā tiek anektētas, parasti bija mazāk tehnoloģiski attīstīti, tos pārspēja ar labāku ugunsspēku.
+* **Piedzīvojumi:** Šis ir izaicinošs periods verdzības un ekspluatācijas institūciju dēļ, kas iet roku rokā ar koloniālistisko ekspansiju. Piedzīvojumi Eiropas kontinentā mazāk risina šīs tēmas, piemēram, zobenpiedzīvojumi vai militāras kampaņas starp karojošām baznīcām vai muižniecību.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izvairīšanās no šāviņiem, Palielināti personīgie prasmju punkti, Lasītprasme, Kaislības, Reputācija, Prasmju vērtējumi virs 100%.
 
 ### Burāšanas laikmets
 
-19. gadsimta sākumu iezīmē kuģniecība un jūras kaujas, kam līdzi nāk sauszemes kari visā Eiropā. Tas ir karavīru un virsnieku laiks katrā kaujas lauka pusē, bandinieki veltīgos karos, kamēr dzīve galmā paliek lielākoties neskarta.
+19. gadsimta sākumu iezīmē kuģošana un jūras kaujas, kam līdzinās sauszemes kari visā Eiropā. Tas ir karavīru un virsnieku laiks katrā kaujas lauka pusē, bandinieki veltīgos karos, kamēr dzīve galmā paliek lielākoties neskarta.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Burvestības, ja tādas tiek piekoptas, visticamāk, Baznīcas tiks aizliegtas.
-* **Tehnoloģija:** Tehnoloģiski šis periods ir gandrīz identisks Koloniālajam laikmetam, lai gan bija sasniegumi kuģubūvē un liela mēroga karadarbības ierīcēs.
-* **Piedzīvojumi:** Norisinās dažas no pasaules lielākajām sauszemes un jūras kaujām, sniedzot bagātīgu vielu militāra rakstura sadursmēm. Piedzīvojumi var iedziļināties barokālās politiskās avantūrās, slepenās misijās, atjautīgos spiegu pasākumos, galma intrigās vai goda divkaujās.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Rakstpratība, Kaislības, Reputācija, Prasmju rādītāji virs 100%.
+* **Spējas:** Burvestības, ja tās tiek praktizētas, visticamāk, ir Baznīcas aizliegtas.
+* **Tehnoloģijas:** Tehnoloģiski šis periods ir gandrīz identisks koloniālajam laikmetam, lai gan tika veikti uzlabojumi kuģubūvē un liela mēroga karadarbības ierīcēs.
+* **Piedzīvojumi:** Tiek izcīnītas dažas no pasaules lielākajām sauszemes un jūras kaujām, nodrošinot plašu materiālu militāras tematikas pasākumiem. Piedzīvojumi var iedziļināties barokālās politiskās avantūrās, slepenās misijās, atjautīgos spiegu pasākumos, galma intrigās vai goda divkaujās.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Lasītprasme, Kaislības, Reputācija, Prasmju vērtējumi virs 100%.
 
 ### Rūpnieciskais laikmets
 
-Šis laikmets atbilst Viktorijas laikmetam un ir izgudrojumu pārpilns. Gandrīz pilnībā definēts ar tehnoloģiskiem un ražošanas sasniegumiem, kas pārveido iepriekšējo pasauli par mūsdienu laikmeta priekšteci; zemāk esošā sadaļa "Tehnoloģija" ir visinformatīvākais iestatījuma apraksts.
+Šis laikmets atbilst Viktorijas laikmetam un ir bagāts ar izgudrojumiem. Tas gandrīz pilnībā ir definēts ar tehnoloģiskiem un ražošanas sasniegumiem, kas pārveido iepriekšējo pasauli par mūsdienu laikmeta priekšteci; zemāk esošā sadaļa "Tehnoloģijas" ir visinformatīvākais iestatījuma apraksts.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Šis laikmets piedzīvoja vēl vienu šķelšanos starp garīgumu un modernizāciju. Maģija un psihiskās spējas pārstāvētu vienu cīņas pusi, bet tehnoloģijas var piedāvāt dažādas superspējas neparastu un eksperimentālu tehnoloģiju formā.
-* **Tehnoloģija:** Masveida ražošana ir padarījusi standartizētas preces plašāk pieejamas un lētākas nekā jebkurā laikā cilvēces vēsturē pirms tam. Tvaiks, ogles, gāze un citi enerģijas avoti ir plaši pazīstami un izmantoti mājās un pilsētās, pilsētas izgaismo gāzes lukturi, tvaika dzinēji traucas pāri Amerikas Savienotajām Valstīm un Eiropai, un okeānus šķērso lieli kuģi ar oglēm kurināmiem, ar tvaiku darbināmiem dzinējiem. Ķīmija tiek pilnveidota, un zinātnieki sāk atklāt daudzus visuma noslēpumus. Drīz parādīsies automobilis, radikāli pārveidojot cilvēces ceļošanu un pilsētas. Alternatīvās vēstures bieži koncentrējas uz *steampunk*, sajaucot tvaika dzinējspēku un Viktorijas laikmeta estētiku, kā arī retro-futūrismu.
-* **Piedzīvojumi:** Emblēmiskiem piedzīvojumiem vajadzētu pastiprināt tēmas par rūpniecību pret garīgumu, kur izpēte un jaunas tehnoloģijas nonāk dramatiskā saskarē ar vecajiem dzīves veidiem.
+* **Spējas:** Šajā laikmetā notika vēl viena šķelšanās starp garīgumu un modernizāciju. Maģija un psihiskās spējas pārstāvētu vienu cīņas pusi, bet tehnoloģijas var piedāvāt dažādas superspējas neparastu un eksperimentālu tehnoloģiju formā.
+* **Tehnoloģijas:** Masveida ražošana un rūpnīcu stila ražošana ir padarījusi standartizētas preces plašāk pieejamas un lētākas nekā jebkurā brīdī cilvēces vēsturē pirms tam. Tvaiks, ogles, gāze un citi enerģijas avoti ir plaši zināmi un izmantoti mājās un pilsētās, pilsētas izgaismo gāzes gaismas, tvaika dzinēji skrien pa ASV un Eiropu, un okeānus šķērso lieli kuģi ar oglēm kurināmiem, tvaika dzinējiem. Ķīmija tiek pilnveidota, un zinātnieki sāk atklāt daudzus visuma noslēpumus. Drīz parādīsies automašīna, radikāli pārveidojot cilvēku ceļošanu un pilsētas. Alternatīvās vēstures bieži koncentrējas uz "steampunk" jeb tvaika laikmeta stilu, sajaucot tvaika enerģiju un Viktorijas laikmeta estētiku, kā arī retro-futūrismu.
+* **Piedzīvojumi:** Emblēmiskiem piedzīvojumiem vajadzētu pastiprināt tēmas par rūpniecību pret garīgumu, izpētei un jaunām tehnoloģijām nonākot dramatiskā saskarē ar vecajiem dzīvesveidiem.
 * **Opcijas:** Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Kaislības, Reputācija.
 
 ### Viktorijas laikmets
 
-Britu rūpnieciskās revolūcijas augstākais punkts un Britu impērijas vislielākā ietekme; Viktorijas laikmetu raksturo milzīga plaisa starp sociālajām šķirām un agresīva imperiālistiska ekspansija visā Āzijā un Āfrikā. Tas ir arī liela atturības laiks personiskajā izpausmē.
+Britu rūpnieciskās revolūcijas augstākais punkts un Britu impērijas vislielākā ietekme; Viktorijas laikmetu raksturo milzīga atšķirība starp sociālajām šķirām un agresīva imperiālistiskā ekspansija visā Āzijā un Āfrikā. Tas ir arī lielas taupības laiks personiskajā izpausmē.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Maģiju un burvestības var piekopt okultisti un intelektuāļi, kas meklē pieredzes galējās robežas, kamēr vietējās kultūras izmanto šīs pašas spējas savās reliģijās. Dīvainas, zaimojošas būtnes varētu būt mutanti, un laikmeta augošā interese par mentālismu izmanto psihiskas spējas.
-* **Tehnoloģija:** Identiska tai, kas aprakstīta Rūpnieciskajā laikmetā (augstāk).
-* **Piedzīvojumi:** Gāzes gaismas periods piedāvā lielu dihotomiju starp bagātiem diletantiem, kas dzīvo blakus vārošai tumšai apakšpasaulei, kurā mīt daži no netaisnīgākajiem, necilvēcīgākajiem apstākļiem, kādus cilvēce spējusi nodarīt pati sev.
+* **Spējas:** Maģiju un burvestības var praktizēt okultisti un intelektuāļi, kas meklē pieredzes robežas, savukārt vietējās kultūras izmanto tās pašas spējas savās reliģijās. Dīvainas, zaimojošas būtnes var būt mutanti, un laikmeta augošā interese par mentālismu izmanto psihiskās spējas.
+* **Tehnoloģijas:** Identiskas tām, kas aprakstītas Rūpnieciskajā laikmetā (augstāk).
+* **Piedzīvojumi:** Gāzes gaismas periods piedāvā lielu dihotomiju starp bagātiem diletantiem, kas dzīvo blakus vārošai tumšai apakšai, kura satur dažus no netaisnīgākajiem, necilvēcīgākajiem apstākļiem, kādus cilvēce ir spējusi sev nodarīt.
 * **Opcijas:** Raksturlielumu vērtību izvēle, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Kaislības, Reputācija, Saprāts.
 
 ### Mežonīgie rietumi
 
-Šis laikmets norisinās ASV Pilsoņu kara laikā un tā sekās, ar kovbojiem, ieroču nēsātājiem, lauku kariem, Zelta drudzi un robežu izplešanos. Rietumus pārveido jaunas dzelzceļa sliedes, pa kurām ierodas vienmērīga austrumieciešu, eiropiešu, ķīniešu un atbrīvoto vergu plūsma, visi meklējot vietu mežonīgajā jaunajā pasaulē. Briesmas ietver dažādas indiāņu nācijas, kas cīnās par savu izdzīvošanu, un plašo, neapvaldāmo vidi.
+Šis laikmets norisinās ASV Pilsoņu kara laikā un tā sekās, ar kovbojiem, ieroču nēsātājiem, ganību kariem, Zelta drudzi un robežu paplašināšanos. Rietumus pārveido jaunas sliežu ceļu līnijas, pa kurām ierodas vienmērīga austrumnieku, eiropiešu, ķīniešu un atbrīvoto vergu plūsma, visi cenšoties atrast vietu mežonīgajā jaunajā pasaulē. Briesmas ietver dažādas vietējo amerikāņu tautas, kas cīnās par savu izdzīvošanu, un pati plašā, nepieradināmā vide.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Maģija vai burvestības var simulēt indiāņu šamaņus, raganību, voodoo vai citas maģiskās tradīcijas, kas varētu pastāvēt.
-* **Tehnoloģija:** Rūpnieciskais laikmets ir novedis pie vilcieniem, kas šķērso valsti, telegrāfiem, kas veido sakaru tīklu, fotogrāfijas un plašiem drukātajiem medijiem. Laikmeta beigas redz pirmos automobiļus, agrīnos zemūdenes un pat lidojošās mašīnas. Elektriskā strāva aizstāj gāzes gaismu, un modernā pasaule sākas šeit.
-* **Piedzīvojumi:** Mītiskie Mežonīgie rietumi ietver leģendārus ieroču meistarus, kas izspēlē atriebības un varonības stāstus uz skarba fona. Verdzības šausmas un zvērības, kas pastrādātas pret indiāņiem, karājas pār šo laikmetu; tomēr ir ieteicams neatmest šos aspektus un to nopietnību.
+* **Spējas:** Maģija vai burvestības var simulēt vietējo amerikāņu šamaņus, burvību, voodoo vai citas maģiskas tradīcijas, kas varētu pastāvēt.
+* **Tehnoloģijas:** Rūpnieciskais laikmets ir novedis pie vilcieniem, kas šķērso valsti, telegrāfiem, kas veido saziņas tīklu, fotogrāfijas, plašsaziņas līdzekļiem. Laikmeta beigās parādās pirmās automašīnas, agrīnās zemūdenes un pat lidojošas mašīnas. Elektriskā strāva aizstāj gāzes gaismu, jo mūsdienu pasaule sākas šeit.
+* **Piedzīvojumi:** Mītiskie Mežonīgie rietumi ietver leģendārus ieroču cīnītājus, kas izspēlē atriebības un varonības stāstus uz skarba fona. Tomēr verdzības šausmas un zvērības pret vietējiem amerikāņiem virmo pār šo laikmetu; ieteicams neatmest šos aspektus un to nopietnību.
 * **Opcijas:** Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Kaislības, Reputācija.
 
-### *Pulp* laikmets
+### "Pulp" (lēto žurnālu) laikmets
 
-Nosaukts pēc lētā avīžpapīra piedzīvojumu žurnāliem, kas definēja laikmetu, popkultūra laikā starp pirmo un otro pasaules karu ir masveida izklaides, starptautisku ceļojumu uz eksotiskām vietām, organizētās noziedzības, tehnoloģisko inovāciju, dārgumu meklēšanas, nelokāma individuālisma, kā arī dīvainu šausmu un maskētu noziedzības cīnītāju laikmets.
+Nosaukts pēc lēta papīra piedzīvojumu žurnāliem, kas definēja laikmetu, popkultūra laikā starp pirmo un otro pasaules karu ir masveida izklaides, starptautisku ceļojumu uz eksotiskām vietām, organizētās noziedzības, tehnoloģisko inovāciju, dārgumu meklēšanas, rupja individuālisma, kā arī dīvaina šausmu un maskētu noziedzības cīnītāju laikmets.
 
 * **Tēlu tipi:** Jebkurš.
 * **Spējas:** Jebkādas.
-* **Tehnoloģija:** *Pulp* bieži ietver dīvainu zinātni, piemēram, nāves starus, milzu robotus, lidojošas mašīnas, prātu ietekmējošas ierīces un zemes urbējus, kā arī pārsteidzošus brīnumus, piemēram, kuģus, kas spējīgi uz starpzvaigžņu lidojumiem, reaktīvos mugursomas, rokas radioaparātus, lidojošas automašīnas un tamlīdzīgi. Anakronistiskas tehnoloģijas ir *pulp* laikmeta pamatelements.
-* **Piedzīvojumi:** Noslēpumi; trilleri; šausmas; nezināmā, kosmosa un dobas zemes izpēte; zaudētās pilsētas, kas joprojām ir apdzīvotas; gaisa piedzīvojumi; aizraujoši notikumi; dīvaini un šokējoši stāsti par noziegumiem; stipri varoņi, kas cīnās pret ļaundariem un viņu kalpiem; citplanētiešu invāzija; un pat maskēti atriebēji, kas izpilda aukstasinīgu taisnību... tas viss ir *pulp* piedzīvojumu elementi.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Šāviņu atvairīšana, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Spēju izmantošana darbības fāzē, Kaislības, Reputācija, Saprāts, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Tehnoloģijas:** "Pulp" žanrs bieži izceļ dīvainu zinātni, piemēram, nāves starus, milzu robotus, lidojošas mašīnas, prātu ietekmējošas ierīces un zemes urbējus, kā arī pārsteidzošus brīnumus, piemēram, kuģus, kas spējīgi uz starpzvaigžņu lidojumiem, reaktīvās mugursomas, rokas radio, lidojošas automašīnas un tamlīdzīgi. Anakronistiskas tehnoloģijas ir "pulp" laikmeta pamatlieta.
+* **Piedzīvojumi:** Noslēpumi; trilleri; šausmu stāsti; nezināmā, kosmosa un dobas zemes izpēte; pazudušas pilsētas, kuras joprojām ir apdzīvotas; gaisa piedzīvojumi; aizraujoši notikumi; dīvaini un kliedzoši stāsti par dīvainiem noziegumiem; kvadrātžokļu varoņi, kas cīnās pret ļauniem noziedzības vadoņiem un viņu pakalpiņiem; citplanētiešu iebrukums; un pat maskēti atriebēji, kas izdala aukstu taisnību... tie visi ir iespējamo "pulp" piedzīvojumu elementi.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Izvairīšanās no šāviņiem, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Spēju izmantošana darbības fāzē, Kaislības, Reputācija, Saprāts, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
 ### Planētu piedzīvojumi
 
-Šis iestatījums koncentrējas uz ceļojumiem uz dīvainām pasaulēm, redzētām caur cilvēku acīm, kas uz tām nosūtīti ar noslēpumainiem līdzekļiem. Tur viņi neizbēgami sastopas ar citplanētiešu sugām, dīvainām paražām, senām drupām un barokālām super-tehnoloģijām, bieži vien līdzās "zobena un sandales" piedzīvojumiem.
+Šis iestatījums koncentrējas uz ceļojumiem uz dīvainām pasaulēm, skatoties caur cilvēku acīm, kuri tur nogādāti noslēpumainos veidos. Tur viņi nenovēršami sastopas ar citplanētiešu sugām, dīvainām paražām, senām drupām un barokālām supertehnoloģijām, bieži vien līdzās "zobena un sandales" piedzīvojumiem.
 
 * **Tēlu tipi:** Jebkurš.
-* **Spējas:** Parasti mutācijas vai psihiskas spējas, vai pat superspējas.
-* **Tehnoloģija:** Parasti sens un gandrīz aizmirsts neticamas jaudas un lietderības tehnoloģiju sajaukums līdzās atjautīgu izgudrotāju super-zinātnei. Karotāji var nēsāt enerģijas pistoles kopā ar zobeniem, vadīt gaisa kuģus un jāt ar citplanētiešu dzīvniekiem.
-* **Piedzīvojumi:** Tēli parasti tiek nosūtīti uz šīm pasaulēm ar neizskaidrojamiem līdzekļiem un bieži cīnās, lai saprastu savu jauno vidi un tās izaicinājumus. Viņiem jāorientējas dīvainās paražās un senās tradīcijās, un viņi var būt pārmaiņu aģenti šajās dīvainajās citplanētiešu vietās. Nodevība, episka mīlestība, dramatiskas nodevības, pēkšņi likteņa pagriezieni, alianses ar dīvainām būtnēm, zaudētas pilsētas, kas pilnas ar senu un aizmirstu tehnoloģiju... tas viss ir planētu piedzīvojumu pamatelementi.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Šāviņu atvairīšana, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Necilvēciski tēli, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Spējas:** Parasti mutācijas vai psihiskās spējas, vai pat superspējas.
+* **Tehnoloģijas:** Parasti neticamas jaudas un lietderības senu un gandrīz aizmirstu tehnoloģiju sajaukums līdzās atjautīgu izgudrotāju superzinātnei. Karotāji var nēsāt enerģijas pistoles kopā ar zobeniem, lidot ar gaisa kuģiem un jāt ar citplanētiešu kalniem.
+* **Piedzīvojumi:** Tēli parasti tiek nosūtīti uz šīm pasaulēm neizskaidrotos veidos un bieži cīnās, lai saprastu savu jauno vidi un tās izaicinājumus. Viņiem jāorientējas dīvainās paražās un senās tradīcijās, un viņi var būt pārmaiņu aģenti šajās dīvainajās citplanētiešu vietās. Nodevība, episka mīlestība, dramatiskas nodevības, pēkšņas likteņa maiņas, alianses ar dīvainām būtnēm, pazudušas pilsētas pilnas senu un aizmirstu tehnoloģiju... tie visi ir planētu piedzīvojumu pamatelementi.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izvairīšanās no šāviņiem, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Necilvēcīgi tēli, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
 ### Otrais pasaules karš
 
-Otro pasaules karu un gadus pirms un pēc tā iezīmēja nacionālistisks dedzība, nenoteiktība, globāls konflikts un spiegošana. Tas ir arī labs iestatījums kara laika supervaroņu darbībai.
+Otro pasaules karu un gadus pirms un pēc tā iezīmēja nacionālistisks dedzība, nenoteiktība, globāls konflikts un spiegošana. Šis ir arī labs iestatījums kara laikmeta supervaroņu aktivitātēm.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Hitlera Trešais reihs ticēja maģijai kā līdzeklim varas iegūšanai, un viņiem varbūt bija taisnība. Arī daudzos šādos iestatījumos šis laikmets ir pasaules pirmo maskēto supervaroņu rītausma.
-* **Tehnoloģija:** Jauni sasniegumi kara tehnoloģijā ietvēra lielākus un labākus karakuģus, sarežģītākas zemūdenes, tankus un lidmašīnas utt., taču visus aizēnoja atombumbas parādīšanās, kas fundamentāli uz visiem laikiem noteica zinātnes un politikas kursu.
-* **Piedzīvojumi:** Tēli var būt pretošanās cīnītāji okupētajā Eiropā, sabiedroto karavīri vai aģenti kaujas laukā, spiegi aiz ienaidnieka līnijām, noziedzības apkarošanas speciālisti un valdības aģenti, kas cīnās pret sabotieriem mājās, vai pat maskēti supervaroņi, kas cīnās mājās un ārzemēs.
+* **Spējas:** Hitlera Trešais reihs ticēja maģijai kā līdzeklim varai, un iespējams, viņiem bija taisnība. Tāpat daudzi šādi iestatījumi uzskata šo laikmetu par pasaules pirmo maskēto supervaroņu rītausmu.
+* **Tehnoloģijas:** Jaunumi kara tehnoloģijās ietvēra lielākus un labākus karakuģus, sarežģītākas zemūdenes, tankus un lidmašīnas utt., taču visus aizēnoja atombumbas parādīšanās, kas fundamentāli noteica zinātnes un politikas kursu uz visiem laikiem.
+* **Piedzīvojumi:** Tēli var būt pretošanās cīnītāji okupētajā Eiropā, sabiedroto karavīri vai aģenti kaujas laukā, spiegi aiz ienaidnieka līnijām, noziedzības cīnītāji un valdības aģenti, kas cīnās pret sabotieriem mājās, vai pat maskēti supervaroņi, kas cīnās mājās un ārzemēs.
 * **Opcijas:** Izglītības/zināšanu metiens, Noguruma punkti, Palielināti personīgie prasmju punkti, Kaislības, Saprāts.
 
-### *Noir*
+### "Noir" (drūmais detektīvs)
 
-*Noir* gandrīz vienmēr ir urbāns un definēts ar drūmu skatījumu, ar dzīves nogurušiem varoņiem, pavedināšanu, insidious noziedzību, amorāliem sabiedrotajiem, morālu korupciju, neizbēgamām nodevībām utt. Parasti varoņi ir vajāti ar iekšējiem dēmoniem un tiem jācīnās par izdzīvošanu, vieniem pret naidīgu un vienaldzīgu visumu, bieži vien joprojām traumētiem no Otrā pasaules kara.
+"Noir" gandrīz vienmēr ir pilsētniecisks un definēts ar drūmu skatījumu, ar dzīves nogurušiem varoņiem, pavedināšanu, mānīgu noziedzību, amorāliem sabiedrības locekļiem, morālu pagrimumu, nenovēršamām nodevībām utt. Parasti galvenos varoņus vajā iekšējie dēmoni, un tiem jācīnās par izdzīvošanu, vieniem pret naidīgu un vienaldzīgu visumu, bieži vien joprojām traumatizētiem no Otrā pasaules kara.
 
 * **Tēlu tipi:** Jebkurš.
-* **Spējas:** Parasti nekādu, bet maģiskajā *noir* ir varoņi, kas vai nu pretojas burvestībām, vai tās izmanto.
-* **Tehnoloģija:** Ekvivalenta pēckara Amerikai un Eiropai.
-* **Piedzīvojumi:** Neizbēgami noslēpumi, kas saistīti ar ētiskiem un morāliem sarežģījumiem, bieži vien "bez izejas" scenāriji, kuros parasti cilvēki ir iesprostoti sliktos apstākļos un tiem jāizmanto izmisīgi līdzekļi.
+* **Spējas:** Parasti nekādas, taču maģiskā "noir" ir galvenie varoņi, kuri vai nu pretojas burvestībām, vai tās izmanto.
+* **Tehnoloģijas:** Ekvivalenti pēckara Amerikai un Eiropai.
+* **Piedzīvojumi:** Nenovēršami noslēpumi, kas risina ētiskas un morālas dilemmas, bieži vien "bezizejas" scenāriji, kur parasti cilvēki ir iesprostoti sliktos apstākļos un tiem jāķeras pie izmisīgiem pasākumiem.
 * **Opcijas:** Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Kaislības.
 
 ### Mūsdienas
 
-Šobrīd, 21. gadsimta rītausmā, ar attīstītām sabiedrībām, globālu informatīvo struktūru, neierobežotu kapitālismu un neierobežotām tehnoloģijām, kas visas progresē neiedomājamā ātrumā pretī gandrīz drošam globālam sabrukumam. Šis iestatījums ir arī noklusējuma laikmets trilleriem un mūsdienu šausmām. Tas var aptvert arī Auksto karu.
+Tagadne, 21. gadsimta rītausma, ar attīstītām sabiedrībām, globālu informatīvu struktūru, nekontrolētu kapitālismu un neierobežotām tehnoloģijām, kas visas progresē neiedomājamā tempā pretī gandrīz drošam globālam sabrukumam. Šis iestatījums ir arī noklusējuma laikmets trilleriem un modernajām šausmām. Tas var aptvert arī Auksto karu.
 
 * **Tēlu tipi:** Jebkurš.
 * **Spējas:** Jebkādas.
-* **Tehnoloģija:** Var būt reālistiska vai super-attīstīta, pēc vēlēšanās.
-* **Piedzīvojumi:** Jebkādi, no šausmām, trilleriem, militāras darbības, spiegiem, korporatīvām intrigām, tuvās nākotnes zinātniskās fantastikas, distopijas, starptautiskām intrigām, sazvērestības, supervaroņiem utt.
+* **Tehnoloģijas:** Var būt reālistiskas vai superattīstītas, kā vēlas.
+* **Piedzīvojumi:** Jebkādi, no šausmām, trilleriem, militārām darbībām, spiegiem, korporatīvām intrigām, tuvās nākotnes zinātniskās fantastikas, distopijas, starptautiskām intrigām, sazvērestībām, supervaroņiem utt.
 * **Opcijas:** Tās var atšķirties atkarībā no žanra.
 
 ### Superpasaule
 
-Mūsu pasaule, bet ar maskētiem supervaroņiem; supervaroņu sekas ir vēstures un mūsdienu dzīves sastāvdaļa. Supervaroņu iestatījums var ietvert alternatīvu vēsturi, paralēlas realitātes, ceļošanu laikā, citplanētiešus, maģiju, sazvērestības teorijas vai jebko citu vēlamo.
+Mūsu pasaule, bet ar maskētiem supervaroņiem, un supervaroņu sekas ir vēstures un mūsdienu dzīves daļa. Supervaroņu iestatījums var iekļaut alternatīvo vēsturi, paralēlās realitātes, laika ceļojumus, citplanētiešus, maģiju, sazvērestības teorijas vai jebko citu.
 
 * **Tēlu tipi:** Jebkurš.
-* **Spējas:** Jebkādas, un daudziem tēliem ir vairāk nekā viens spēju veids.
-* **Tehnoloģija:** Kā mūsdienās. Lai gan super-zinātne ir zināma, tā vēl nav būtiski ietekmējusi lielākās daļas parasto cilvēku dzīvi.
-* **Piedzīvojumi:** Varoņdarbu un izaicinājumu stāsti, dīvainu paralēlo dimensiju izpēte utt. Supervaroņi bieži cīnās ar alter ego un slepenām identitātēm, kā arī sarežģītiem jautājumiem par labo un ļauno. Superpasaules kampaņa var variēt no spilgtas, četru krāsu pasaules ar nedaudz smieklīgiem ļaundariem, līdz gandrīz mitoloģiskai supervaroņu kā modernu pussdievu interpretācijai, aizraujošai galaktikas un zemes dīvaino nostūru izpētei, skarbiem ielu noziegumiem, ko atšķir tikai likras kostīmi, vai pat paramilitārai struktūrai pasauli mainošai supervaroņu iejaukšanās darbībai.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Šāviņu atvairīšana, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Rakstpratība, Necilvēciski tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Spējas:** Jebkādas, un daudziem tēliem ir vairāk nekā viena spēju veida.
+* **Tehnoloģijas:** Kā mūsdienās. Lai gan superzinātne ir zināma, tā vēl nav būtiski ietekmējusi lielākās daļas parasto cilvēku dzīvi.
+* **Piedzīvojumi:** Varonības un izaicinājumu stāsti, dīvainu paralēlo dimensiju izpēte utt. Supervaroņi bieži cīnās ar alter ego un slepenām identitātēm, kā arī sarežģītiem labā un ļaunā jautājumiem. Superpasaules kampaņa var atšķirties no koši krāsainas pasaules ar vāji smieklīgiem ļaundariem, gandrīz mītiskas supervaroņu kā mūsdienu pustievu apstrādes, reibinošas galaktikas un dīvainu zemes nostūru izpētes, skarbas ielu noziedzības, ko atšķir tikai likras kostīmi, vai pat paramilitāra ietvara pasauli mainošai supervaroņu iejaukšanās darbībai.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Izvairīšanās no šāviņiem, Izglītības/zināšanu metiens, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Lasītprasme, Necilvēcīgi tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
-### Postapokalipse
+### Postapokaliptiskais
 
-Katastrofa ir uz visiem laikiem satricinājusi moderno pasauli, ieslīcinot to stāvoklī, kur cilvēcei jācīnās par izdzīvošanu. Cēlonis varētu būt ierobežots kodolkarš, nepareiza zinātne, citplanētiešu invāzija, Seno Dievu atmošanās, sabiedrības sabrukums, pandēmija, vides katastrofa vai zombiji... vai vairāki no šiem. Iestatījumā var būt iekļauti mutanti, atrastas tehnoloģijas un laupītāju bandas. Daži postapokaliptiski iestatījumi ir kā vesterni, ar mazām aizdomīgu pilsētnieku anklāvām un klejojošiem vientuļniekiem, kuriem jāpaļaujas uz savu prātu un ieročiem, lai izdzīvotu.
+Katastrofa ir uz visiem laikiem sagrāvusi mūsdienu pasauli, iegrimstot stāvoklī, kurā cilvēcei jācīnās par izdzīvošanu. Iemesls varētu būt ierobežota kodolapmaiņa, zinātne, kas gājusi greizi, citplanētiešu iebrukums, Veco Dievu atmoda, sabiedrības sabrukums, pandēmija, vides katastrofa vai zombiji... vai vairāk nekā viens no tiem. Iestatījums var ietvert mutantus, savāktas tehnoloģijas un laupītāju bandas. Daži postapokaliptiski iestatījumi ir kā vesterni, ar mazām aizdomīgu pilsētnieku anklāviem un klejojošiem vientuļniekiem, kuriem jāpaļaujas uz savu prātu un ieročiem, lai izdzīvotu.
 
-* **Tēlu tipi:** Nesenai apokalipsei izdzīvojušie var būt no jebkuras profesijas, bet vēlāk iespējas kļūst ierobežotākas.
-* **Spējas:** Mutācijas iestatījumos ar radioaktivitāti, kamēr no izkritumiem var būt attīstījušās arī psihiskas spējas un superspējas. Gadsimtiem vēlāk cilvēki var būt no jauna atklājuši maģiju vai burvestības.
-* **Tehnoloģija:** Atkarībā no katastrofas dabas, tehnoloģija var būt novecojusi salīdzinājumā ar moderno pasauli, identiska vai arī var ietvert zinātniskus sasniegumus, kas tālu prom no mūsu laikmeta. Ja tie ir citplanētieši, var būt citplanētiešu tehnoloģija.
-* **Piedzīvojumi:** Postapokaliptiski stāsti parasti risina izdzīvošanas brutalitāti un cenu vai sabiedrības atjaunošanas pūliņus. Var būt nepieciešamība vākt veco tehnoloģiju un uzzināt, ko var atrast drupās.
-* **Opcijas:** Raksturlielumu vērtību izvēle, Noguruma punkti, Palielināti personīgie prasmju punkti, Rakstpratība, Necilvēciski tēli, Saprāts.
+* **Tēlu tipi:** Nesenai apokalipsei izdzīvojušie var būt no jebkuras profesijas, savukārt vēlāk iespējas kļūst ierobežotākas.
+* **Spējas:** Mutācijas iestatījumos ar radioaktivitāti, savukārt psihiskās spējas un superspējas var būt attīstījušās no radiācijas nokrišņiem. Gadsimtiem vēlāk cilvēki var būt no jauna atklājuši maģiju vai burvestības.
+* **Tehnoloģijas:** Atkarībā no katastrofas dabas tehnoloģijas var būt arhaiskas salīdzinājumā ar mūsdienu pasaules tehnoloģijām, identiskas vai arī tās var ietvert zinātniskus sasniegumus, kas atrodas tālu prom no mūsu laikmeta. Ja tie ir citplanētieši, var būt citplanētiešu tehnoloģijas.
+* **Piedzīvojumi:** Postapokaliptiski stāsti parasti risina izdzīvošanas brutalitāti un cenu vai centienus atjaunot sabiedrību. Var būt nepieciešamība savākt vecas tehnoloģijas un uzzināt, ko var atrast drupās.
+* **Opcijas:** Raksturlielumu vērtību izvēle, Noguruma punkti, Palielināti personīgie prasmju punkti, Lasītprasme, Necilvēcīgi tēli, Saprāts.
 
-### Tuvā nākotne/Kiberpanks
+### Tuvā nākotne / Kiberpanks
 
-Cilvēce ir turpinājusi saskarties ar tehnoloģijām un šajā procesā daudz ko zaudējusi. Megakorporācijas ir uzņēmušās valdības līmeņa kontroli pār pilsoņiem, un zināšanas ir visvērtīgākā valūta. Dzīve ir ātra, ērta, lēta un viegli izmetama. Cilvēces un mašīnu savienība ir novedusi pie pārsteidzošiem sasniegumiem ģenētiskajā manipulācijā. *Dataspace* ir tikpat reāla, ja ne vēl vairāk, kā distopiskā materiālā pasaule.
+Cilvēce ir turpinājusi saskarties ar tehnoloģijām un procesā daudz ko zaudējusi. Megakorporācijas ir uzņēmušās valdības līmeņa kontroli pār pilsoņiem, un zināšanas ir visvērtīgākā valūta. Dzīve ir ātra, ērta, lēta un viegli izmetama. Cilvēces un mašīnu savienība ir novedusi pie pārsteidzošiem attīstības soļiem ģenētiskajā manipulācijā. Datu telpa ir tikpat reāla, ja ne pat vairāk, kā distopiskā materiālā pasaule.
 
 * **Tēlu tipi:** Gandrīz jebkurš.
-* **Spējas:** Jebkādas, parasti simulētas ar tehnoloģiju.
-* **Tehnoloģija:** Modernā pasaule uz "overdrive". Kosmosa ceļojumi var būt kļuvuši par ierastu lietu, un virtuālās pasaules ir neierobežotas.
-* **Piedzīvojumi:** Sacelšanās un identitātes meklējumi ir parastas tēmas šajos piedzīvojumos, un tēli var atrasties bēgot par savu dzīvību, cenšoties palikt soli priekšā monolītiem, bezpersoniskiem ienaidniekiem, kas šķiet esam visur.
-* **Opcijas:** Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Saprāts, Prasmju rādītāji virs 100%.
+* **Spējas:** Jebkādas, parasti simulētas ar tehnoloģijām.
+* **Tehnoloģijas:** Mūsdienu pasaule uz "paātrinājuma". Kosmosa ceļojumi var būt kļuvuši izplatīti, un virtuālās pasaules ir neierobežotas.
+* **Piedzīvojumi:** Sacelšanās un identitātes meklējumi ir ierastās tēmas šajos piedzīvojumos, un tēli var atrasties bēgšanā par savu dzīvību, cenšoties palikt priekšā monolītiem, bezpersoniskiem ienaidniekiem, kas šķiet esam visur.
+* **Opcijas:** Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Izglītības/zināšanu metiens, Palielināti personīgie prasmju punkti, Saprāts, Prasmju vērtējumi virs 100%.
 
 ### Kosmosa izpēte
 
-Šajā "cietās" zinātniskās fantastikas iestatījumā kosmosa izpēte lielā mērogā vai nu notiek, vai ir nesen izveidota. Dzīve uz Zemes un ārpus tās turpinās līdzīgi kā iepriekš. Politiskie konflikti veido izplatīšanos pa zvaigznēm, un apdzīvojamu planētu vai resursu meklēšana dominē lielā daļā izpētes.
+Šajā "cietās" zinātniskās fantastikas iestatījumā kosmosa izpēte lielā mērogā vai nu norit, vai ir nesen izveidota. Dzīve uz Zemes un ārpus tās turpinās gandrīz tāpat kā iepriekš. Politiskie konflikti veido izplatību pa zvaigznēm, un apdzīvojamu planētu vai resursu meklējumi dominē lielākajā daļā izpētes.
 
 * **Tēlu tipi:** Jebkurš.
-* **Spējas:** Mutācijas un psihiskas spējas var pastāvēt, bet bieži vien būt dīvainas un biedējošas.
-* **Tehnoloģija:** Parasti šim iestatījumam ir zinātniska pieeja kosmosa ceļošanai, un tehnoloģija ir viegli ekstrapolējama no modernajām tehnoloģijām.
-* **Piedzīvojumi:** Daudzas cilvēciskas drāmas un konflikti var izspēlēties kosmosa jūrā un prezentē vislielāko izaicinājumu izdzīvošanai. Vides izaicinājumi vai episki centieni var būt ievērojami piedzīvojumi, un Saules sistēmas malu izpēte var nostādīt cilvēci aci pret aci ar citiem noslēpumiem, piemēram, pirmo kontaktu ar citplanētiešu dzīvību. Vai tas būs šausminošs vai brīnumains?
-* **Opcijas:** Raksturlielumu vērtību izvēle, Palielināti personīgie prasmju punkti, Necilvēciski tēli, Prasmju rādītāji virs 100%.
+* **Spējas:** Mutācijas un psihiskās spējas var pastāvēt, taču bieži vien tās ir dīvainas un biedējošas.
+* **Tehnoloģijas:** Kopumā šajā iestatījumā ir zinātniska pieeja kosmosa ceļojumiem, un tehnoloģijas ir viegli ekstrapolējamas no mūsdienu tehnoloģijām.
+* **Piedzīvojumi:** Daudzas cilvēku drāmas un konflikti var izspēlēties kosmosa jūrā, kas ir lielākais izaicinājums izdzīvošanai. Vides izaicinājumi vai episki centieni var būt ievērojami piedzīvojumi, un Saules sistēmas malu izpēte var likt cilvēcei aci pret aci ar citiem noslēpumiem, piemēram, pirmo kontaktu ar citplanētiešu dzīvību. Vai tas būs šausmīgs vai brīnumains?
+* **Opcijas:** Raksturlielumu vērtību izvēle, Palielināti personīgie prasmju punkti, Necilvēcīgi tēli, Prasmju vērtējumi virs 100%.
 
 ### Kosmosa opera
 
-Šis kosmosa ceļojumu un *pulp* piedzīvojumu sajaukums ir rakstīts uz galaktiska fona, pilns ar citplanētiešiem, kas strādā un dzīvo līdzās cilvēcei dažādās sadarbības pakāpēs. Var būt kāds visus definējošs galaktisks konflikts vai episki draudi Zemei (vai citai planētai). Dažos kosmosa operas iestatījumos var pastāvēt mistiskas spējas — psihiskas vai citplanētiešu uzskatu sistēmas, kas sniedz dīvainas spējas to lietotājiem.
+Šis kosmosa ceļojumu un "pulp" piedzīvojumu sajaukums ir rakstīts uz galaktiska fona, pilns ar citplanētiešiem, kas strādā un dzīvo līdzās cilvēcei ar dažādu sadarbības pakāpi. Var būt kāds visaptverošs galaktisks konflikts, vai arī tas var būt episku draudu gadījums Zemei (vai citai planētai). Dažos kosmosa operas iestatījumos var pastāvēt mistiskas spējas — psihiskas vai citplanētiešu uzskatu sistēmas, kas to lietotājiem dod dīvainas spējas.
 
 * **Tēlu tipi:** Jebkurš.
-* **Spējas:** Citplanētiešus var radīt, izmantojot mutācijas, psihiskas spējas var pārstāvēt mistiskas spējas vai jaunas spējas, un superspējas var modelēt kiberētiskus implantus. Dažos kosmosa operas iestatījumos var pastāvēt arī burvestības vai maģija, balstoties uz zinātniskiem principiem, nevis pārdabiskiem spēkiem.
-* **Tehnoloģija:** Tehnoloģiju līmenis krasi atšķiras no planētas uz planētu: dažām var būt tikai primitīvi ieroči un inženierija, bet citas būs tehnoloģiski attīstītākas nekā noklusējuma. Enerģijas ieroči, lāzeri, personīgie kosmosa kuģi, enerģijas vairogi... tas viss ir pieejams.
-* **Piedzīvojumi:** Tas bieži ir stipri slāņots ar citu arhetipisku iestatījumu, piemēram, *pulp* vai *sword & sorcery*. Tēli kosmosa operas iestatījumos uzsāks augstus piedzīvojumus un tieksies pēc grandioziem mērķiem, piemēram, karaļvalsts, netaisnību labošanas vai iepriekšējā, zelta laikmeta atjaunošanas.
-* **Opcijas:** Uzticība, Uzbrukumi un atvaires virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Šāviņu atvairīšana, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Rakstpratība, Necilvēciski tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju rādītāji virs 100%, Kopējie trāpījumu punkti.
+* **Spējas:** Citplanētiešus var izveidot, izmantojot mutācijas; psihiskās spējas var pārstāvēt mistiskas spējas vai jaunas spējas, un superspējas var modelēt kiberētiskos implantus. Dažos kosmosa operas iestatījumos var pastāvēt arī burvestības vai maģija, balstoties uz zinātniskiem principiem, nevis pārdabiskiem spēkiem.
+* **Tehnoloģijas:** Tehnoloģiju līmenis krasi atšķiras no planētas uz planētu: dažām var būt tikai primitīvi ieroči un inženierija, bet citas būs tehnoloģiski attīstītākas par noklusējuma. Enerģijas ieroči, lāzeri, personīgie kosmosa kuģi, enerģijas vairogi... tie visi ir pieejami.
+* **Piedzīvojumi:** Tas bieži ir smagi slāņots ar citu arhetipisku iestatījumu, piemēram, "pulp" vai "zobens un burvestības". Tēli kosmosa operas iestatījumos dosies augstos piedzīvojumos un tieksies pēc grandioziem mērķiem, piemēram, karaļvalsts, netaisnību labošanas vai iepriekšējā, zelta laikmeta atjaunošanas.
+* **Opcijas:** Uzticība, Uzbrukumi un atvairīšanas virs 100%, Raksturlielumu vērtību izvēle, Kultūras modifikatori, Izvairīšanās no šāviņiem, Augstāki sākuma raksturlielumi, Palielināti personīgie prasmju punkti, Lasītprasme, Necilvēcīgi tēli, Kaislības, Spēju izmantošana darbības fāzē, Reputācija, Prasmju vērtējumi virs 100%, Kopējie dzīvības punkti.
 
 ## Hibrīdie iestatījumi
 
-Jebkuru no iepriekšējām sadaļām var apvienot ar citu vai ieviest ar kādu jaunu elementu, radot unikālu iestatījumu, kas pilns ar interesantām un aizraujošām iespējām. Varētu pievienot supervaroņus senās pasaules iestatījumam kampaņai, kurā piedalās dievu mītiskie pēcnācēji, vai *sword & sorcery* iestatījumam kaut kam, kas atgādina animi. Otra iespēja ir pievienot kaut ko jaunu un negaidītu esošam iestatījumam — "Tas ir kā X, bet ar Y..." pieeja, ieviešot citplanētiešus, zombijus, vampīrus vai pat *Cthulhu Mythos* kādam netradicionālam izvēlētam iestatījumam.
+Jebkuru no iepriekšējām sadaļām var apvienot ar citu vai ieviest ar kādu jaunu elementu, radot unikālu iestatījumu, kas pilns ar interesantām un aizraujošām iespējām. Var pievienot supervaroņu spējas senās pasaules iestatījumam kampaņai, kurā piedalās dievu mītiskie pēcnācēji, vai "zobena un burvestību" iestatījumam kaut kam, kas līdzinās animē. Vēl viena iespēja ir pievienot kaut ko jaunu un negaidītu esošam iestatījumam, "Tas ir kā X, bet ar Y..." pieeju, ieviešot citplanētiešus, zombijus, vampīrus vai pat Ktulhu mītus netradicionālā izvēlē kādam no iepriekšminētajiem iestatījumiem.
 
 ## Alternatīvās vēstures
 
-Jūs varētu arī ņemt kādu no iepriekš aprakstītajiem iestatījumiem un pievienot vienu kritisku detaļu, kas ir atšķirīga — kāds tehnoloģisks sasniegums notiek gadsimtiem agrāk, kāda slavena kauja notiek citādāk, kāda izšķiroša personība rīkojas savādāk nekā vēsturē, vai kādam nozīmīgam centienam ir iznākums, kas atšķiras no notikušā — radot tā saukto "alternatīvo vēsturi", piemēram, "Ko darīt, ja ASV zaudētu Revolucionāro karu?" vai "Ko darīt, ja Čingishana ordas negrieztos atpakaļ, bet gan iekarotu visu Eiropu?" Ekstrapolējot no turienes, var izveidot intriģējošu variantu iestatījumu, kur pazīstami elementi ir pārveidoti pilnīgi atšķirīgas vēstures rezultātā. Šāda veida iestatījums lieliski darbojas pats par sevi, bet to var apvienot arī ar paralēlām realitātēm vai pat ceļošanu laikā. Vai ir kas tāds, ko tēli var darīt, lai atjaunotu pasauli, kuru viņi nekad nav pazinuši?
+Jūs varētu arī paņemt kādu no augstāk aprakstītajiem iestatījumiem un pievienot vienu kritisku detaļu, kas ir citāda — kāds tehnoloģisks sasniegums notiek gadsimtiem agrāk, kāda slavena kauja beidzas citādi, kāda centrālā figūra uzvedas citādi, nekā to noteica vēsture, vai kādam nozīmīgam centienam ir iznākums, kas atšķiras no tā, kas notika — radot to, ko sauc par "alternatīvo vēsturi", piemēram, "Ko darīt, ja ASV zaudētu Neatkarības karu?" vai "Ko darīt, ja Čingishana ordas neapgrieztos un tā vietā iekarotu visu Eiropu?" Ekstrapolējot no tā, var izveidot intriģējošu variantu iestatījumu, kurā pazīstami elementi ir pārveidoti pilnīgi citas vēstures dēļ. Šāda veida iestatījums lieliski darbojas pats par sevi, bet to var apvienot arī ar paralēlām realitātēm vai pat laika ceļojumiem. Vai ir kaut kas, ko tēli var darīt, lai atjaunotu pasauli, ko viņi nekad nav pazinuši?
 
 ## Vairāki iestatījumi
 
-Tā kā *Basic Roleplaying* ir piemērots daudziem dažādiem iestatījumiem, jūs varat pat izmantot tos visus, pārvietojot tēlus caur dīvainiem portāliem, ceļojot laikā vai kādā citā metodē, kas ļauj viņiem lēkt starp pasaulēm, ar visu laiku un telpu kā rotaļu laukumu. Var būt tikai viena paralēla realitāte, kas ir pilnīgi atšķirīgs iestatījums (varbūt viņu pašu Zemes variants), vai arī tās var būt vairākas paralēlas pasaules ar savām atšķirīgām iezīmēm. Alternatīvi, tēli varētu būt būtībā nemirstīgi un sākt kādā tālā un iepriekšējā epohā, piedzīvojot piedzīvojumus, kas aptver visu cilvēces vēsturi, ļaujot pilnībā izmantot gandrīz katru šīs nodaļas iestatījumu.
+Tā kā *Basic Roleplaying* ir piemērots daudziem dažādiem iestatījumiem, jūs pat varat izmantot tos visus, pārvietojot tēlus caur dīvainiem portāliem, laika ceļojumiem vai citu metodi, kas ļauj tiem lēkt starp pasaulēm, ar visu laiku un telpu kā savu rotaļu laukumu. Var būt tikai viena paralēla realitāte, kas ir pilnīgi atšķirīgs iestatījums (iespējams, viņu pašu Zemes variants), vai arī tās var būt vairākas paralēlas pasaules ar savām īpatnībām. Alternatīvi, tēli var būt būtībā nemirstīgi un sākt kādā tālā un iepriekšējā laikmetā, piedzīvojot piedzīvojumus, kas aptver visu cilvēces vēsturi, ļaujot pilnībā izmantot gandrīz katru šīs nodaļas iestatījumu.
 
 ## Spējas un iestatījums
 
-*Četrta nodaļa: Spējas* piedāvā piecas dažādas sistēmas dažāda veida spējām bez liela konteksta — piemēram, kādiem iestatījumiem šīs spējas ir piemērotas. Katrs iepriekšējais iestatījuma apraksts ietver spējas, ar kurām tas tradicionāli ir saistīts. Jaunāki iestatījumi var rasties, apvienojot spējas iestatījumos, kas nav tie, ar kuriem tās tradicionāli ir saistītas.
+*Ceturta nodaļa: Spējas* piedāvā piecas dažādas sistēmas dažāda veida spējām bez liela konteksta — piemēram, kādiem iestatījumiem šīs spējas ir piemērotas. Katrs iestatījuma apraksts augstāk ietver spējas, ar kurām tas tradicionāli ir saistīts. Jaunāki iestatījumi var rasties, apvienojot spējas iestatījumos, kas nav tie, ar kuriem tās tradicionāli ir saistītas.
 
-*Piemēram, mutāciju pievienošana "Tumšo laiku" iestatījumam, tēliem nesot šīs dīvainās stigmātus. Vai tās ir dievišķas izcelsmes vai infernālas? Baznīca varētu domāt, ka šīs dīvainās spējas un deformācijas ir dēmonisku asiņu rezultāts, kamēr tēli varētu uzskatīt tās par Debesu dāvanām un izmantot savas spējas labam, cīnoties, lai aizsargātu pasauli, kas viņus baidās un ienīst.*
+*Piemēram, pievienojot mutācijas Tumšo viduslaiku iestatījumam, tēliem nesot šos dīvainos stigmatus. Vai tie ir dievišķas izcelsmes vai ellišķīgas? Baznīca varētu domāt, ka šīs dīvainās spējas un deformācijas ir dēmonisku asiņu rezultāts, savukārt tēli varētu uzskatīt tās par Debesu dāvanām un izmantot savas spējas labajam, cīnoties, lai aizsargātu vārdu, kas tos baidās un ienīst...*
 
 ## Adaptācija
 
-Jūs varat arī adaptēt iestatījumu no daiļliteratūras, filmām, televīzijas šoviem, komiksiem, citām spēlēm vai citiem medijiem par iestatījumu, izmantojot šos noteikumus. Ir pieejamas daudzas licencētas spēles, taču visacīmredzamākais iemesls ir tad, kad iestatījums uzrunā jūs un spēlētājus, bet nav pieejamu noteikumu. Ir daudzas metodes, kuras varat izvēlēties, lai adaptētu iestatījumu, izmantojot *Basic Roleplaying*, kur darba apjoms gandrīz pilnībā atkarīgs no jūsu ambīcijām un laika, ko esat gatavi tam veltīt. Tālāk ir sniegts izklāsts par vienu veidu, kā adaptēt iestatījumu no cita medija par spēlējamu spēli:
+Jūs varat arī adaptēt iestatījumu no daiļliteratūras, filmām, televīzijas šoviem, komiksiem, citām spēlēm vai citiem medijiem iestatījumā, izmantojot šos noteikumus. Ir pieejamas daudzas licencētas spēles, taču visredzamākais iemesls ir tad, kad iestatījums patīk jums un spēlētājiem, bet nav pieejamu noteikumu kopuma. Ir daudzas metodes, kuras varat izvēlēties, lai adaptētu iestatījumu, izmantojot *Basic Roleplaying*, ar darba apjomu, kas gandrīz pilnībā atkarīgs no jūsu ambīcijām un laika, ko esat gatavs tam veltīt. Tālāk ir sniegts izklāsts vienam veidam, kā adaptēt iestatījumu no cita medija spēlējamā spēlē:
 
-### Uzticība
+### Uzticamība
 
-Cik verdziski jūs būsiet pret iestatījumu? Vai jūs mēģināsiet to emulēt precīzi, izturoties pret to kā pret negrozāmu kanonu, vai arī izmantosiet to kā avotu saviem nolūkiem? Daži iestatījumi ir ievērojami atvērti radošai paplašināšanai, kamēr citi ir ierobežotāki. Jums jāizlemj, cik daudz pūļu veltīsiet, lai uzburtu tieši iestatījuma sajūtu, vai arī ļausiet dominēt savām gaumēm un idejām. Neviens veids nav labāks par otru — tie vienkārši uzrunā dažādus spēles vadīšanas stilus un dažādas spēlētāju cerības.
+Cik verdziski jūs ievērosiet iestatījumu? Vai jūs mēģināsiet to atdarināt precīzi, izturoties pret to kā pret nemainīgu kanonu, vai arī izmantosiet to kā avotu saviem mērķiem? Daži iestatījumi ir ievērojami atvērti radošai paplašināšanai, savukārt citi ir ierobežotāki. Jums vajadzētu izlemt, cik daudz pūļu jūs veltīsiet, lai radītu precīzu iestatījuma sajūtu, vai arī ļausiet savām gaumēm un idejām dominēt. Neviens veids nav labāks par otru — tie vienkārši uzrunā dažādus spēles vadīšanas stilus un dažādas spēlētāju cerības.
 
-Iestatījuma precīza kopēšana ir pievilcīga oriģinālā iestatījuma faniem, kuriem, cerams, ir pietiekami daudz brīvības, lai ļautu spēlētāju tēliem kaut ko darīt. Pievilcība ir acīmredzama: viņiem patīk pasaule un viņi vēlas tajā justies iegremdēti. Spēlētāju pazīstamība un "pirkšana" (buy-in) ievērojami palīdz. Šis lēmums ietekmē to, kā jums vajadzētu rīkoties ar tēliem, kas aprakstīti sadaļā "Tēli adaptētā iestatījumā".
+Iestatījuma precīza kopēšana ir pievilcīga oriģinālā iestatījuma faniem, kam, cerams, ir pietiekami daudz rīcības brīvības, lai ļautu spēlētāju tēliem kaut ko darīt. Pievilcība ir acīmredzama: viņiem patīk pasaule un viņi vēlas justies tajā iegremdēti. Spēlētāju pazīstamība un "piekrišana" palīdz milzīgi. Šis lēmums ietekmē to, kā jums vajadzētu rīkoties ar tēliem, kas aprakstīts sadaļā "Tēli adaptētā iestatījumā".
 
-Iestatījuma izturēšanās kā atspēriena punkta jūsu pašu radošumam ir vislabāk piemērota iestatījumiem, kas pieļauj jaunas idejas un koncepcijas no dažādiem radošiem personāžiem, piemēram, komiksu pasaulēm, seriālu televīzijai vai vairāku autoru grāmatu sērijām. Tie var izvairīties no pārāk lielas priekšvēstures vai kanona lamatām un ļaut spēlētājiem justies brīviem, lai visu satricinātu, bet, ja viņi pārāk tālu aiziet no izveidotā iestatījuma, šī iestatījuma izmantošanas pievilcība var tikt atšķaidīta.
+Iestatījuma izmantošana kā tramplīna savai radošumam ir vislabākā iestatījumiem, kas pieļauj jaunas idejas un koncepcijas no dažādiem radošajiem personāliem, piemēram, komiksu pasaulēm, seriāliem vai vairāku autoru grāmatu sērijām. Viņi var izvairīties no pārāk daudz priekšvēstures vai kanona slazda un ļaut spēlētājiem justies brīviem satricināt lietas, taču, ja viņi aiziet pārāk tālu no izveidotā iestatījuma, šī iestatījuma izmantošanas pievilcība var tikt atšķaidīta.
 
 Pajautājiet pašiem spēlētājiem, ko viņi vēlētos redzēt adaptētā iestatījumā, un uzziniet, kādu brīvības līmeni viņi vēlas iegūt.
 
-Piemēram, Robina Huda kampaņai jūs un jūsu spēlētāji varētu vēlēties saglabāt kopējo tēmu par aplenktiem bandītu varoņiem, kas cīnās pret nelietīgo varu, cenšoties iekarot Notingemas ļaužu sirdis un prātus. Vai viņi vēlas būt daļa no Robina Huda bandas, saņemot pavēles no viņa un cīnoties kopā ar Vilu Skārletu, lēdiju Mariannu un brāli Taku, vai arī viņi vēlas aizstāt bandu pilnībā, Robinam Huda esot nedaudz vairāk kā izdomāta identitāte, ko viņi visi izmanto. Varbūt karalis Ričards ieceļ viņus par Šervudas meža sargiem un viņi kalpo, lai aizstāvētu to pret valstības pārdabiskajiem ienaidniekiem, pasauli, kurā pilnībā sastopami vilkači, izmirstošie feju ļaudis un seni pagānu dievi.
+Piemēram, Robina Huda kampaņai jūs un jūsu spēlētāji varbūt vēlaties saglabāt cīņās iesaistīto bandītu-varoņu kopējo tēmu, kas cīnās pret ļaundarīgajām varasiestādēm, mēģinot iekarot Notingemas iedzīvotāju sirdis un prātus. Vai viņi vēlas būt daļa no Robina Huda bandas, pildot viņa pavēles un cīnoties kopā ar Vilu Skārletu, lēdiju Mariannu un brāli Taku, vai arī viņi vēlas pilnībā aizstāt bandu, Robinam Hudam esot nedaudz vairāk kā izdomātai identitātei, ko viņi visi izmanto? Varbūt karalis Ričards ieceļ viņus par Šervudas meža sargiem, un viņi kalpo, lai aizstāvētu to pret valstības pārdabiskajiem ienaidniekiem, pasaule, kas pilna ar vilkačiem, feju pasaules sarūkošajiem iemītniekiem un seniem pagānu dieviem.
 
-Ideālā gadījumā jūs un jūsu spēlētāji varat atrast kopsaucēju adaptētā iestatījumā, un visi būs laimīgi. Ja visi ir ieguldījuši iestatījumā un vēlas to izpētīt, tas spēlē maina visu, un jūs varat uzsvērt periodiskas pārbaudes, lai pajautātu spēlētājiem, kā viņi jūtas par spēli. (Tas parasti ir labs ieteikums jebkurai kampaņai.)
+Ideālā gadījumā jūsu spēlētāji un jūs varat atrast kopsaucēju spēlēšanai adaptētā iestatījumā, un visi būs laimīgi. Tas, ka visi ir ieguldījuši iestatījumā un vēlas to izpētīt, maina visu spēles gaitā, un jūs varat parūpēties par periodiskām pārbaudēm, lai pajautātu spēlētājiem, kā viņi jūtas par spēli. (Tas parasti ir laba ideja jebkura veida kampaņai.)
 
 ### Tēli adaptētā iestatījumā
 
-Avota materiāla adaptēšana iestatījumā ir vieglāka, ja vispirms nosakāt, kā spēlētāju tēli iekļaujas šajā iestatījumā. Ja avota materiāls ir stipri balstīts uz tēliem, vai vēlaties, lai spēlētāju tēli būtu kā viņi, lai aizstātu viņus vai lai krustotu ceļus ar viņiem? Tie ir trīs pilnīgi atšķirīgi veidi, kā ar to rīkoties.
+Pirmavota adaptēšana iestatījumā ir vieglāka, ja vispirms nosakāt, kā spēlētāju tēli iekļaujas šajā iestatījumā. Ja pirmavots ir stipri balstīts uz tēliem, vai vēlaties, lai spēlētāju tēli būtu kā viņi, lai aizstātu viņus vai lai krustotu ceļus ar viņiem? Tie ir trīs pilnīgi atšķirīgi veidi, kā ar to rīkoties.
 
-* **Iedvesmots no...**: Bieži vien galvenais iemesls vēlmei izmantot konkrētu iestatījumu ir piedzīvojumu izspēlēšana kā avota materiālā, tāpēc tēlu veidošana līdzīgi oriģināliem parasti ir drošs solis. Spēlētāju tēli var būt oriģināli, bet veidoti tajā pašā veidnē vai pildot līdzīgas lomas.
-* **Aizstājēju varoņi**: Dažreiz spēlētāji nevēlas justies kā otrās šķiras figūras, dzīvojot daudz slavenāku tēlu grupu ēnā, tāpēc šajā gadījumā lieciet viņiem faktiski aizstāt oriģinālās figūras, vai nu radot jaunus tēlus, kas aizpilda tieši tās pašas vietas, vai vienkārši izmantojot oriģinālos tēlus kā savus spēlētāju tēlus.
-* **Draudzīgie sāncenši**: Vēl viena iespēja ar lielu pievilcību ir likt spēlētāju tēliem pastāvēt tajā pašā pasaulē, kurā atrodas oriģinālie varoņi. Viņi var viņus pazīt, būt ar viņiem saistīti vai pat krustot ceļus ar viņiem. Tādos gadījumos ir svarīgi pārliecināties, ka spēlētāji nejūtas tā, it kā viņu tēli spēlē otrā vijole "īstajiem" kustinātājiem un kratītājiem.
+* **Iedvesmots no...**: Bieži vien galvenais iemesls, kāpēc vēlēties izmantot konkrētu iestatījumu, ir izspēlēt piedzīvojumus kā pirmavotā, tāpēc tēlu veidošana līdzīgus oriģināliem parasti ir droša likme. Spēlētāju tēli var būt oriģināli, bet veidoti pēc tā paša parauga vai pildot līdzīgas lomas.
+* **Aizstājēji varoņi**: Dažreiz spēlētāji nevēlas justies kā otrās šķiras figūras, dzīvojot daudz slavenākas tēlu grupas ēnā, tāpēc šajā gadījumā lieciet viņiem faktiski aizstāt oriģinālās figūras, vai nu radot jaunus tēlus, kas aizpilda tieši tās pašas vietas, vai vienkārši izmantojot oriģinālos tēlus kā savus spēlētāju tēlus.
+* **Draudzīgi sāncenši**: Vēl viena iespēja ar milzīgu pievilcību ir ļaut spēlētāju tēliem pastāvēt tajā pašā pasaulē, kurā atrodas oriģinālie varoņi. Viņi var tos pazīt, būt ar tiem radniecīgi vai pat krustot ceļus ar tiem. Šādos gadījumos ir svarīgi pārliecināties, ka spēlētāji nejūt, ka viņu tēli spēlē otro vijoli "īstajiem" kustinātājiem.
 
 ### Iestatījuma aprakstīšana
 
-Kad zināt, ko spēlētāji darīs pasaulē, ir laiks pievērsties pašam iestatījumam. Vispirms jums vajadzētu iepazīties ar oriģinālā iestatījuma toni un plašo detaļu līmeni, veicot piezīmes par jebkādu informāciju, kas var būt svarīga. Jūs varētu atrast fanu *wiki* vai resursu, kas visu padara vieglāku. Reti ir nepieciešams atzīmēt katru mazāko tēlu vai sīku detaļu, taču jums vajadzētu pievērst uzmanību lietām, kuras spēlētāji uzskatīs par svarīgām.
+Kad zināt, ko spēlētāji darīs pasaulē, ir laiks pāriet pie paša iestatījuma. Vispirms jums vajadzētu iepazīties ar oriģinālā iestatījuma toni un plašo detaļu līmeni, veicot piezīmes par jebkuru informāciju, kas var būt svarīga. Jūs varētu atrast fanu vikivietni vai resursu, kas atvieglo lietas. Reti ir nepieciešams atzīmēt katru atsevišķu mazu tēlu vai caurejošu detaļu, taču jums vajadzētu pievērst uzmanību lietām, kuras spēlētāji atradīs par svarīgām.
 
-Šeit ir to sadaļu saraksts, kuras varat izmantot informācijas organizēšanai par iestatījumu:
+Šeit ir saraksts ar sadaļām, kuras varētu izmantot informācijas par iestatījumu organizēšanai:
 
-* Tēlu opcijas, profesijas, spējas utt.
+* Tēlu iespējas, profesijas, spējas utt.
 * Spējas, ja tādas ir
 * Kultūras vai nozīmīgas būtnes
 * Tradīcijas vai kultūras uzskati
-* Vide, intereses punkti, svētas vietas utt.
+* Vide, apskates vietas, svētas vietas utt.
 * Transportlīdzekļi un ievērojamas tehnoloģijas
-* Reliģijas vai sociālās organizācijas un ievērības cienīgi principi
+* Reliģijas vai sociālās organizācijas un ievērojami principi
 * Sabiedrība, valdības veids utt.
-* Ievērības cienīgi vēsturiski notikumi
-* Svarīgas figūras, piemēram, karaļi vai karalienes, prezidenti, reliģiskie līderi, vēsturiskas personības utt.
+* Ievērojami vēsturiski notikumi
+* Svarīgas figūras, piemēram, karaļi vai karalienes, prezidenti, reliģiskie līderi, vēsturiskas figūras utt.
 * Grupas, organizācijas, biedrības, ordeņi utt.
-* Ieroči un bruņas, ja attiecināms
-* Ievērības cienīga flora un fauna
-* Piedzīvojumu sēklas, ja paredzēts, ka spēlētāji paši meklēs savus sižetus
+* Ieroči un bruņas, ja tas ir būtiski
+* Ievērojama flora un fauna
+* Piedzīvojumu sēklas, ja sagaidāms, ka spēlētāji paši meklēs savus sižetus
 
-Šis ir arī laiks, lai definētu jebkādus iestatījuma augsta līmeņa "noteikumus", ja tādi ir. Kāds spēju līmenis vislabāk atspoguļo iestatījumu? Kāds ir vispārējais morālais visums, piemēram, "labais neizbēgami uzvarēs" vai "cilvēce ir aberācija aukstā un nežēlīgā visumā".
+Šis ir arī laiks definēt jebkādus augsta līmeņa iestatījuma "noteikumus", ja tādi ir. Kāds spēju līmenis vislabāk raksturo iestatījumu? Kāds ir vispārējais morālais visums, piemēram, "labais nenovēršami uzvarēs" vai "cilvēce ir anomālija aukstā un nežēlīgā visumā".
 
-Dažiem iestatījumiem nebūs nepieciešams viss šis saraksts, un jums vajadzētu atzīmēt tikai tik daudz, lai vadītu savas spēles un atbildētu uz visiem jautājumiem, kas spēlētājiem ir. Un jums tas nav jādara uzreiz. Jūs vienmēr varat pateikt spēlētājam, ka padomāsiet par jautājumu, uz kuru nezināt atbildi, un atgriezīsieties pie viņa, vai arī varat to risināt ar spēlētājiem un izlemt kā grupa.
+Dažiem iestatījumiem nebūs nepieciešams tas viss, un jums vajadzētu atzīmēt tikai tik daudz, lai vadītu savas spēles un atbildētu uz visiem jautājumiem, kas spēlētājiem ir. Un jums tas nav jādara iepriekš. Jūs vienmēr varat pateikt spēlētājam, ka padomāsiet par jautājumu, uz kuru nezināt atbildi, un atgriezīsities pie tā, vai arī varat apspriesties ar spēlētājiem un izlemt kā grupa.
 
-Jūs varētu pat izveidot *wiki* vai kopīgotu tiešsaistes dokumentu, kad izstrādājat savu iestatījumu, pat atverot to saviem spēlētājiem. Ja viņi ir ieinteresēti, ļaujiet viņiem dot ieguldījumu iestatījuma izveidē.
+Jūs pat varat izveidot vikivietni vai kopīgu tiešsaistes dokumentu, izstrādājot savu iestatījumu, pat atverot to saviem spēlētājiem. Ja viņi ir ieinteresēti, ļaujiet viņiem dot ieguldījumu iestatījuma izveidē.
 
-Paturiet prātā, tomēr, ka, ja jūs tērējat vairāk laika iestatījuma izveidei vai adaptēšanai, nekā patiesībā tiks izspēlēts, jūs, iespējams, vēlēsieties atkāpties un izvērtēt, kas ir nepieciešams pret to, kas ir pilnīgi neobligāts. Jūs varat plaukt, izsmeļoši katalogizējot visus iestatījuma elementus, kamēr citi to izlasīs (vai apskatīs) vienreiz un izlems "Es tagad zinu pietiekami, lai to vadītu. Dosimies tālāk!". Noskaidrojiet, kurai no šīm galējībām esat tuvāk, un rīkojieties attiecīgi.
+Tomēr paturiet prātā, ka, ja veltāt vairāk laika iestatījuma izveidei vai adaptācijai, nekā tas patiesībā tiks spēlēts, iespējams, vēlēsities atkāpties un novērtēt, kas ir nepieciešams pretstatā tam, kas ir pilnīgi neobligāts. Jūs varat plaukt, izsmeļoši katalogizējot visus iestatījuma elementus, kamēr citi to izlasīs (vai apskatīs) vienreiz un nolems: "Es tagad zinu pietiekami, lai to vadītu. Dosimies!" Izdomājiet, kuram no šiem galējībām esat tuvāk, un rīkojieties attiecīgi.
 
-Šo procesu var izmantot arī jebkuram oriģinālam iestatījumam, tikai šajā gadījumā jūs (un potenciāli jūsu spēlētāji) varat izdomāt šīs detaļas.
+Šo procesu var ievērot arī jebkuram oriģinālam iestatījumam, tikai šajā gadījumā jums (un potenciāli jūsu spēlētājiem) ir iespēja izdomāt šīs detaļas.
 
 ## Uzticība (Opcija)
 
-Daudzi iestatījumi ietver ticību augstākiem spēkiem. Tie var būt dievi, eņģeļi, svētie, velni, dievišķi principi vai pat abstraktas filozofiskas koncepcijas. Tēlam, kurš konsekventi rīkojas saskaņā ar saviem uzskatiem, ir uzticība tam, ko mēra ar uzticības rādītāju. Rīkošanās vai uzvedība, kādu atbalsta viņa dievība (vai dievības), var nopelnīt uzticības punktus, kas norāda uz dedzību. Uzticība var mainīties spēles laikā, un var parādīties jaunas uzticības, kad jauni spēki kļūst svarīgi.
+Daudzi iestatījumi ietver ticību augstākiem spēkiem. Tie var būt dievi, eņģeļi, svētie, velni, dievišķi principi vai pat abstrakti filozofiski jēdzieni. Tēls, kurš konsekventi uzvedas saskaņā ar savu ticību, ir uzticīgs tai, ko mēra ar uzticības punktu skaitu. Rīcība vai uzvedība, kādu atbalsta paša dievība (vai dievības), var nopelnīt uzticības punktus, kas norāda uz ziedošanos. Uzticība var mainīties spēles gaitā, un jauna uzticība var parādīties, kad jauni spēki kļūst svarīgi.
 
-Tēli var nopelnīt uzticības punktus no vairāk nekā vienas vienības vai dieva. Cilvēki ne vienmēr uzvedas konsekventi no vienas dienas uz otru, un pat vismorālākais un ētiskākais cilvēks var veikt neticami ļaunus darbus. Uzticības sistēma ļauj tēlam iegūt uzticības rādītājus pret pretējiem vai vairākiem spēkiem.
+Tēli var nopelnīt uzticības punktus no vairāk nekā vienas vienības vai dieva. Cilvēki ne vienmēr uzvedas konsekventi no vienas dienas uz otru, un pat vismorālākais un ētiskākais cilvēks var veikt neticami ļaunus darbus. Uzticības sistēma ļauj tēlam iegūt uzticības punktus pretstatītiem vai vairākiem spēkiem.
 
-Kad viens uzticības rādītājs ir par 20+ punktiem augstāks par jebkuru citu uzticības rādītāju, tēls tiek uzskatīts par **sabiedroto** šim spēkam un var iegūt noteiktus ieguvumus šīs uzticības dēļ. Tēlam tomēr apzināti jāatzīst šī uzticība, neatkarīgi no rādītāja. Lai gan uzticība var šķist acīmredzama, viņi nebauda tās priekšrocības, ja to neatzīst.
+Kad viens uzticības punktu skaits ir par 20+ punktiem augstāks nekā jebkurš cits uzticības punktu skaits, tēls tiek uzskatīts par **sabiedroto** šim spēkam un var iegūt noteiktus ieguvumus šīs uzticības dēļ. Tēlam tomēr apzināti jāatzīst šī uzticība, neatkarīgi no rezultāta. Lai gan uzticība var šķist acīmredzama, viņi nebauda tās priekšrocības, ja to neatzīst.
 
-Uzticības punkti gandrīz nekad netiek zaudēti. Tie vienmēr ir pozitīvi vai 0. Ja tie tiek samazināti, tie nevar noslīdēt zem 0. Uzticības punkti ir atlīdzība par viena vai otra veida uzvedību, tāpēc vairāku (vai vismaz pretēju) spēku esamība ir ideāla. Uzvedība, kas tiktu sodīta vienā uzskatu sistēmā, bieži tiek atalgota citā, tāpēc tēls netiek sodīts ar punktu atņemšanu, rīkojoties pret dievišķo spēku, ko viņš atbalsta, bet tā vietā iegūst punktus no spēka, kas iebilst pret viņu iecienīto uzticību.
+Uzticības punkti gandrīz nekad netiek zaudēti. Tie vienmēr ir pozitīvi vai 0. Ja tie tiek samazināti, tie nevar noslīdēt zemāk par 0. Uzticības punkti ir atlīdzība par viena vai otra veida uzvedību, tāpēc vairāku (vai vismaz pretēju) spēku esamība ir ideāla. Uzvedība, kas tiktu sodīta vienā uzskatu sistēmā, bieži tiek atalgota citā, tādējādi tēls netiek sodīts ar punktu atņemšanu, rīkojoties pret dievišķo spēku, kuru viņš atbalsta, bet tā vietā tiek atalgots ar punktiem no spēka, kas iebilst pret viņu atbalstīto uzticību.
 
-Kad sabiedrotais tēls iegūst augstākus uzticības līmeņus, viņš var sasniegt statusu saistītajā kultā vai baznīcā (ja tāda ir), ko pārstāv tituli, spējas vai pienākumi.
+Kad sabiedrotais tēls sasniedz augstāku uzticības līmeni, viņš var iegūt statusu saistītajā kultā vai baznīcā (ja tāda ir), kas atspoguļojas titulos, spējās vai pienākumos.
 
 ### Sākotnējā uzticība
 
-Ja tiek izmantota uzticība, metiet 1D6–2 (minimums 0) tik reižu, cik ir pieejamo uzticību, lai attēlotu uzticības punktus, kas nopelnīti pirms spēles sākuma. Spēles vadītājs var izvēlēties vienu no šiem spēlētājam darāmajiem darbiem:
+Ja tiek izmantota uzticība, metiet 1D6–2 (minimums 0) tik reižu, cik ir pieejamo uzticību skaits, lai attēlotu uzticības punktus, kas nopelnīti pirms spēles sākuma. Spēles vadītājs var izvēlēties vienu no šiem spēlētājam darāmajiem variantiem:
 
-* Piešķirt uzticības kopsummas to mešanas kārtībā.
-* Piešķirt uzticības rādītājus pēc vēlēšanās.
+* Piešķiriet uzticības kopsummas tādā secībā, kādā tās tiek izmestas.
+* Piešķiriet uzticības punktus pēc vēlēšanās.
 
-Par katru (ja tāds ir) spēju veidu, kas piesaistīts kādam garīgam spēkam, pievienojiet +1 punktu katrai atbilstošajai uzticībai. Līdzīgi, pievienojiet +1 par katru mutāciju atbilstošai uzticībai. Okultista, priestera vai šamaņa profesiju tēli pievieno uzticības punktus, kas vienādi ar ½ POW (noapaļojot uz augšu), sadalot tos pēc vēlēšanās.
+Par katru (ja tāds ir) spēju veidu, kas saistīts ar jebkuru garīgo spēku, pievienojiet +1 punktu katrai atbilstošajai uzticībai. Līdzīgi, pievienojiet +1 par katru mutāciju atbilstošai uzticībai. Okultista, priestera vai šamaņa profesiju tēli pievieno uzticības punktus, kas vienādi ar ½ VAR (noapaļot uz augšu), sadalot tos pēc vēlēšanās.
 
 ### Uzticības palielināšana
 
-Darbības, kas atbalsta uzticību, palielina tēla uzticības rādītāju. Skatiet **Uzticību izveide** iespējamo darbību sarakstam, kas var piešķirt uzticības punktus. Pēc piedzīvojuma, ja tēls ir uzvedies tādā veidā, ko atbalsta spēks, lūdziet spēlētājam veikt uzticības pārbaudi. Tas ir identisks pieredzes pārbaudei **Prasmju uzlabošana**. Ja tas izdodas, tēla uzticības rādītājs palielinās par +1D6 punktiem.
+Darbības, kas atbalsta uzticību, palielina tēla uzticības punktu skaitu. Skatiet **Uzticības izveide** iespējamo darbību sarakstam, kas var piešķirt uzticības punktus. Pēc piedzīvojuma, ar nosacījumu, ka tēls ir uzvedies saskaņā ar spēka atbalstīto veidu, lūdziet spēlētājam veikt uzticības pārbaudi. Tas ir identiski pieredzes pārbaudei **Prasmju uzlabošana**. Ja tas ir veiksmīgs, tēla uzticības punktu skaits palielinās par +1D6 punktiem.
 
-Ja tēls ir veicis darbības, kuras veicina vairākas uzticības, lūdziet pieredzes pārbaudes visām attiecināmajām uzticībām, katrai iegūstot +1D6 punktus, ja tās izdodas.
+Ja tēls ir veicis darbības, ko veicina vairākas uzticības, pieprasiet pieredzes pārbaudes visām attiecināmajām uzticībām, katrai iegūstot +1D6 punktus, ja veiksmīgs metiens.
 
 ### Vairākas uzticības
 
-**Neatkarīgi no tā, kādas vadlīnijas atbalsta viņu uzticība, katram tēlam ir brīva griba un viņš var rīkoties, kā vēlas.** Tēlam var būt rādītāji visās, dažās vai nevienā no pieejamajām uzticībām. Tomēr tēla alianse ir tikai ar augstāko no rādītājiem, ja šis rādītājs ir par 20+ punktiem augstāks nekā nākamais augstākais, un tikai tad, ja tēls atzīst šo uzticību.
+**Neatkarīgi no tā, kādas vadlīnijas atbalsta viņu uzticība, katram tēlam ir brīvā griba un viņš var rīkoties pēc vēlēšanās.** Tēlam var būt punkti visās, dažās vai nevienā no pieejamajām uzticībām. Tomēr tēla sabiedrotā statuss ir tikai ar augstāko punktu skaitu, ja šis skaits ir par 20+ punktiem augstāks nekā nākamais augstākais, un tikai tad, ja tēls atzīst šo uzticību.
 
 ### Uzticības uzturēšana
 
-Kad sabiedrotais tēls rīkojas pretēji savas uzticības interesēm, jūs varat pieprasīt spēlētājam sekmīgi izmest D100, lai pārbaudītu šo uzticību. Ja metiens ir augstāks par tēla pašreizējo uzticības rādītāju, jums vajadzētu palielināt tēla pretējās uzticības rādītāju par summu, kas vienāda ar 1D4 līdz 1D8, atkarībā no novirzes uzvedības pakāpes. Ja metiens ir vienāds vai mazāks par tēla pašreizējo uzticības rādītāju, nekādu seku nav.
+Kad sabiedrotais tēls rīkojas pretēji savas uzticības interesēm, jūs varat pieprasīt spēlētājam gūt panākumus metienā ar D100, lai pārbaudītu šo uzticību. Ja metiens ir augstāks par tēla pašreizējo uzticības punktu skaitu, jums vajadzētu palielināt tēla pretējo uzticības punktu skaitu par summu, kas vienāda ar 1D4 līdz 1D8, atkarībā no novirzes uzvedības pakāpes. Ja metiens ir vienāds vai mazāks par tēla pašreizējo uzticības punktu skaitu, seku nav.
 
-Ja tēlam ir uzticības rādītājs 100+ un viņš ir uzņēmies saistības pret šo mērķi, jums vajadzētu brīdināt spēlētāju, ka jebkura rīcība pret šo uzticību notiek uz tēla risku. Tēls ar spēcīgu uzticību var zaudēt tās priekšrocības un tikt uzskatīts par ienaidnieku ticības biedriem. Var tikt piemērots dievišķs vai karmisks sods, vai arī viņiem var nākties veikt grēku nožēlu, lai redzētu savu priekšrocību atjaunošanu. Grēku nožēla var būt gavēnis un ilgstoša meditācija, meklējumi, nožēlas akts, kāds ziedojums vai attīrīšanās rituāls.
+Ja tēlam ir uzticības punktu skaits 100+ un viņš ir uzņēmies saistības pret šo lietu, jums vajadzētu brīdināt spēlētāju, ka jebkura rīcība pret šo uzticību ir uz tēla risku. Tēls ar spēcīgu uzticību var zaudēt uzticības priekšrocības un tikt uzskatīts par ienaidnieku ticīgo biedru vidū. Var tikt piemērots dievišķs vai karmisks sods, vai arī viņiem var nākties veikt grēku nožēlu, lai redzētu savas priekšrocības atjaunotas. Grēku nožēla var būt gavēnis un ilgstoša meditācija, meklējumi, nožēlas akts, kāds upuris vai attīrīšanās rituāls.
 
-### Uzticību izveide
+### Uzticības izveide
 
-Jums vajadzētu definēt uzticības un noteikt, par ko katra no tām iestājas. Vislabāk ir nodrošināt vismaz divus spēkus, kas cīnās par tēla uzticību, lai uzsvērtu cīņu starp vienu uzskatu kursu pret otru.
+Jums vajadzētu definēt uzticības un noteikt, ko katra no tām pārstāv. Vislabāk ir nodrošināt vismaz divus spēkus, kas sacenšas par spēlētāja tēla uzticību, lai uzsvērtu cīņu starp vienu uzskatu kursu pret otru.
 
-Nākamais solis ir noteikt, cik daudz uzticības punktu tiek piešķirts par dažādām darbībām. Visvieglākais veids, kā to izdarīt, ir izveidot kontrolsarakstu ar darbībām, kas, visticamāk, notiks spēlē, un izlemt, kurš spēks piešķir uzticības punktus katrai darbībai. Tālāk ir minētas dažas piemērotas darbības:
+Nākamais solis ir noteikt, cik daudz uzticības punktu tiek piešķirti par dažādām darbībām. Vienkāršākais veids, kā to izdarīt, ir izveidot darbību kontrolsarakstu, kas, visticamāk, notiks spēlē, un izlemt, kurš spēks piešķir uzticības punktus par katru darbību. Šeit ir dažas piemērotas darbības:
 
-* Palīdzēšana kādam vājākam par sevi
-* Uzvedība bez goda
-* Uzvedība ar godu
+* Palīdzība kādam, kurš ir vājāks par tevi
+* Negodīga uzvedība
+* Godīga uzvedība
 * Labdarība pret vājiem vai trūcīgiem
-* Kaut kā radīšana, lai pagodinātu savu sabiedroto spēku
+* Kaut kā radīšana, lai godinātu savu sabiedroto spēku
 * Pārdabiskas būtnes iznīcināšana
 * Kaut kā svēta iznīcināšana citam spēkam
-* Atbrīvošana no ieslodzījuma
-* Sava sabiedrotā spēka piesaukšana necienīgi
+* Kāda atbrīvošana no ieslodzījuma
+* Sava sabiedrotā spēka piesaukšana ar necieņu
 * Sava sabiedrotā spēka piesaukšana ar cieņu
-* Nogalināšana aukstasinīgi (slepkavība)
-* Nogalināšana pašaizsardzībā
+* Kāda nogalināšana aukstasinīgi (slepkavība)
+* Kāda nogalināšana pašaizsardzības nolūkos
 * Liels pakalpojums savai uzticībai
 * Mazs pakalpojums savai uzticībai
-* Aizsargāšana
-* Dzīvības glābšana
+* Kāda aizsardzība
+* Kāda dzīvības glābšana
 * Zādzība
 
-Katrai darbībai ir ieteicams uzskaitīt uzticības atlīdzību par pretēju darbību, piemēram, "Palīdzēšana kādam vājākam par sevi" var tikt pretstatīta "Kāda vājāka par sevi ekspluatēšana". Lielas darbības ir 3 uzticības punktu vērtas, nozīmīgas — 2 punktu, un mazas — 1 punkta vērtas.
+Par katru darbību ieteicams uzskaitīt uzticības atlīdzību par pretēju darbību, piemēram, "Palīdzība kādam vājākam par tevi" varētu tikt pretnostatīta "Kāda vājāka par sevi ekspluatēšana". Lielas darbības ir 3 uzticības punktu vērtas, nozīmīgas — 2 punktu vērtas, bet mazas — 1 punkta vērtas.
 
-Pēc tam jums jāizlemj, vai uzticība piedāvā kādas īpašas priekšrocības, vai arī uzticības punkti būs tikai mērs dedzībai pret šo spēku. Tos var iegūt no **Uzticības priekšrocības** (tālāk) vai arī tie var būt specifiskāki dievišķā spēka dabai.
+Pēc tam jums ir jāizlemj, vai uzticība piedāvā kādus īpašus ieguvumus vai arī uzticības punkti būs tikai ziedošanās mēraukla šim spēkam. Tos var iegūt no **Uzticības ieguvumiem** (tālāk) vai var būt specifiskāki dievišķā spēka dabai.
 
-Kad tēls sasniedz 100+ ar konkrētu uzticību, viņš var tikt uzskatīts par kļuvušu par uzticības **apoteozi**, dievišķā spēka gribas paraugu pasaulē.
+Kad tēls sasniedz 100+ punktus ar konkrētu uzticību, viņu var uzskatīt par kļuvušu par uzticības **apoteozi**, šī dievišķā spēka gribas paraugu pasaulē.
 
-Kampaņā, kas iekļauj kristīgo teoloģiju, Debesis un Elle būtu divas pretējas uzticības, ar augstāko uzticību kā spēcīgu rādītāju tam, kur tēls dosies pēc nāves. Kampaņas iestatījums ar dievu panteonu ļauj tēlam iegūt uzticību vairākiem dieviem.
+Kampaņā, kas iekļauj kristīgo teoloģiju, Debesis un Elle būtu divas pretējas uzticības, ar visaugstāko uzticību kā spēcīgu rādītāju par to, kur tēls dosies pēc nāves. Kampaņas iestatījumā ar dievu panteonu tēlam var būt uzticība vairākiem dieviem.
 
-Uzticība ne vienmēr ir jāsaista ar dievišķām būtnēm no fantāzijas pasaulēm vai pat reliģijām. Zinātniskās fantastikas iestatījumā uzticība varētu būt kaut kas tik abstrakts kā mistisks spēks, kas saista visas dzīvās būtnes, ar pretējām gaišajām un ēnas pusēm. Supervaroņu iestatījumā uzticība varētu būt vērsta uz Likumu vai Anarhiju, vai Labo un Ļauno. Supervaroņi iegūst uzticību, pieveicot ļaundarus un glābjot nevainīgos, kamēr ļaundari tiek atalgoti, pastrādājot noziegumus un izvairoties no taisnības.
+Uzticībai ne vienmēr jābūt saistītai ar dievišķām būtnēm no fantāzijas pasaulēm vai pat reliģijām. Zinātniskās fantastikas iestatījumā uzticība varētu būt kaut kas tik abstrakts kā mistisks spēks, kas saista visas dzīvās būtnes, ar pretējām gaišajām un ēnas pusēm. Uzticība supervaroņu iestatījumā varētu būt pret Likumu vai Anarhiju, vai Pareizo un Nepareizo. Supervaroņi iegūst uzticību, uzvarot ļaunuma darītājus un glābjot nevainīgos, savukārt ļaundari tiek atalgoti, izdarot noziegumus un izvairoties no taisnības.
 
-### Uzticības priekšrocības
+### Uzticības ieguvumi
 
-Izlemiet, vai pastāv kādas reālas uzticības priekšrocības un kādas tās ir. Ja viena uzticība sniedz priekšrocību, citām vajadzētu piedāvāt līdzvērtīgas priekšrocības, piemēram, kādas no šīm:
+Izlemiet, vai pastāv kādi reāli ieguvumi no uzticības un kādi tie ir. Ja viena uzticība piešķir ieguvumu, pārējām vajadzētu piedāvāt līdzvērtīgus ieguvumus, piemēram, kādu no šiem:
 
-* Kad tēla spēka punkti ir iztērēti, viņi pēc sekmīga uzticības metiena var uzreiz iegūt līdz 1/10 (10%) no sava pašreizējā uzticības rādītāja (noapaļojot uz augšu) kā papildu spēka punktu rezervi. Uzticības punkti ar šo priekšrocību nemainās. Šie punkti jāizvelk, tiklīdz tiek iztērēti tēla pēdējie spēka punkti, citādi viņi zaudēs samaņu. Punkti citādi ir identiski normāliem spēka punktiem. To var mēģināt līdz trim reizēm spēles sesijas laikā. Ja izmantojat šo spēju, tēls var veikt uzticības pārbaudi piedzīvojuma beigās.
-* Ar sekmīgu uzticības metienu tēls var izmantot līdz 1/5 (20%), noapaļojot uz augšu, no sava pašreizējā uzticības rādītāja kā pagaidu trāpījumu punktus, vienreiz spēles sesijā. Uzticības punkti nemainās. Šie trāpījumu punkti tiek iztērēti pirms tēla parastajiem trāpījumu punktiem un netiek atjaunoti vai restaurēti nekādā veidā, ja tie tiek zaudēti. Sesijas beigās visi trāpījumu punkti virs tēla parastās kopsummas pazūd. Ja tēls izmanto šos papildu trāpījumu punktus, viņi var veikt uzticības pārbaudi piedzīvojuma beigās.
-* Ar sekmīgu uzticības metienu tēls var izveidot fondu, kas vienāds ar visu pašreizējo uzticības rādītāju, kā papildu prasmju punktu rezervuāru, ko var pievienot esošajiem prasmju rādītājiem konkrētiem metieniem. To var darīt līdz trim reizēm sesijā. Uzticības punkti ar šo priekšrocību nemainās. Spēlētājs var izvēlēties, kurām prasmēm pievienot šos punktus un cik daudz. Palielinājumi šiem prasmju punktiem jādeklarē pirms metiena, un koriģētie skaitļi tiek izmantoti, ja nosaka īpašus panākumus utt. Šos punktus var izmantot tikai prasmju pārbaudēm, nevis pretestības metieniem, raksturlielumu metieniem, uzticības metieniem, pieredzes metieniem utt. Sekmīgs prasmju metiens, izmantojot šos punktus, nevar pretendēt uz pieredzes pārbaudi. Pēc šo papildu prasmju punktu izmantošanas viņi var veikt uzticības pārbaudi piedzīvojuma beigās.
-* Jebkurš tēls, kurš ir sabiedrotais kādam spēkam (20+ vairāk nekā otrā augstākā uzticība), var pieprasīt dievišķu iejaukšanos. Sekmes iespējamība ir vienāda ar kritiska panākuma iespējamību. Ja tiek izmests kritisks panākums, spēks iejaucas kaut kādā veidā, vai nu tieši, caur aģentu vai pilnvaroto, vai caur kādu skaidri brīnumainu dabas pasaules manifestāciju. Parasti lielākajai daļai dievību ir gandrīz neierobežota jauda, tāpēc šī palīdzība var būt ārkārtēja. Tēls var veikt uzticības pārbaudi piedzīvojuma beigās.
+* Kad tēla spējas punkti ir iztērēti, viņš pēc veiksmīgas uzticības pārbaudes var uzreiz iegūt līdz pat 1/10 (10%) no sava pašreizējā uzticības punktu skaita (noapaļot uz augšu) kā papildu spējas punktu rezervi. Uzticības punkti ar šo ieguvumu nemainās. Šie punkti jāizņem, kad tēla pēdējie spējas punkti ir iztērēti, pretējā gadījumā viņš zaudēs samaņu. Punkti citādi ir identiski parastiem spējas punktiem. To var mēģināt līdz pat trim reizēm spēles sesijas laikā. Ja izmantojat šo spēju, tēls var veikt uzticības pārbaudi piedzīvojuma beigās.
+* Ar veiksmīgu uzticības pārbaudi tēls var izmantot līdz pat 1/5 (20%), noapaļojot uz augšu, no sava pašreizējā uzticības punktu skaita kā pagaidu dzīvības punktus, vienreiz spēles sesijā. Uzticības punkti nemainās. Šie dzīvības punkti tiek iztērēti pirms tēla normālajiem dzīvības punktiem, un tos nevar nekādā veidā atjaunot vai atgūt. Sesijas beigās visi dzīvības punkti virs tēla parastā dzīvības punktu kopskaita pazūd. Ja tēls izmanto šos papildu dzīvības punktus, viņš var veikt uzticības pārbaudi piedzīvojuma beigās.
+* Ar veiksmīgu uzticības pārbaudi tēls var izveidot fondu, kas vienāds ar viņa visu pašreizējo uzticības punktu skaitu kā papildu prasmju punktu rezervi, ko var pievienot esošajiem prasmju vērtējumiem konkrētiem metieniem. To var darīt līdz pat trim reizēm sesijā. Uzticības punkti ar šo ieguvumu nemainās. Spēlētājs var izvēlēties, kurām prasmēm pievienot šos punktus un cik punktu pievienot. Šo prasmju punktu palielinājums ir jādeklarē pirms metiena, un koriģētie skaitļi tiek izmantoti, ja tiek noteikti īpaši panākumi utt. Šos punktus var izmantot tikai prasmju pārbaudēm, nevis pretestības metieniem, raksturlielumu metieniem, uzticības metieniem, pieredzes metieniem utt. Veiksmīgs prasmju metiens, izmantojot šos punktus, nav tiesīgs uz pieredzes pārbaudi. Pēc šo papildu prasmju punktu izmantošanas viņi var veikt uzticības pārbaudi piedzīvojuma beigās.
+* Jebkurš tēls, kurš ir sabiedrotā statusā ar spēku (20+ vairāk nekā otrā augstākā uzticība), var pieprasīt dievišķu iejaukšanos. Panākumu iespēja ir vienāda ar kritisko panākumu iespēju. Ja tiek izmests kritisks panākums, spēks kaut kādā veidā iejaucas — tieši, caur aģentu vai pilnvaroto, vai caur kādu skaidri brīnumainu dabas pasaules manifestāciju. Kopumā vairumam dievību ir gandrīz neierobežota vara, tāpēc šī palīdzība var būt ārkārtēja. Tēls var veikt uzticības pārbaudi piedzīvojuma beigās.
 
-Līdzīgas priekšrocības var tikt radītas, lai nodrošinātu noguruma punktus, Saprāta punktus vai pat ļautu gūt dievišķu iedvesmu idejas metienu formā.
+Līdzīgus ieguvumus var izveidot, lai nodrošinātu noguruma punktus, Saprāta punktus vai pat ļautu dievišķam iedvesmojumam idejas metiena formā.
 
 ### Apoteoze
 
-Kā minēts iepriekš, ja tēls sasniedz 100+ kopsummu kādā uzticībā un ir sabiedrotais šai uzticībai, viņam var tikt lūgts vīzijā (vai citā dievišķā vēstījumā) kalpot tai, lai kļūtu par tās apoteozi. Rādītāji citās uzticībās nav svarīgi. Apoteoze nav automātiska. Tēlam ar savu ticību un darbībām jāpierāda, ka tas ir pamatoti. Ja piedāvājums tiek pieņemts, notiek apoteoze, pārvēršot tēlu par dzīvu avatāru un nelokāmu spēka čempionu.
+Kā atzīmēts augstāk, ja tēls sasniedz 100+ punktu kopskaitu ar uzticību un ir sabiedrotā statusā ar šo uzticību, viņam var tikt lūgts vīzijā (vai citā dievišķā vēstījumā) kalpot tai, lai kļūtu par tās apoteozi. Punktu skaits citās uzticībās nav svarīgs. Apoteoze nav automātiska. Tēlam ar savu ticību un rīcību jāpierāda, ka tas ir pamatoti. Ja piedāvājums tiek pieņemts, notiek apoteoze, pārvēršot tēlu par dzīvu iemiesojumu un spēcīgu spēka čempionu.
 
-Uzticības priekšrocības turpina uzkrāties. Tēls saglabā brīvu gribu un var pat nodot spēku, kuram kalpo. Ja tēls atsakās no apoteozes, viņa uzticības punkti turpina pieaugt normāli līdz nāvei vai aiziešanai pensijā.
+Uzticības ieguvumi turpina uzkrāties. Tēls saglabā brīvo gribu un var pat nodot spēku, kuram kalpo. Ja tēls atsakās no apoteozes, viņa uzticības punkti turpina pieaugt normāli līdz nāvei vai aiziešanai pensijā.
 
-Apoteozes pieņemšana var piešķirt tēlam vienu vai vairākas nozīmīgas priekšrocības. Jūs tiekat mudināti izstrādāt piemērotas atlīdzības un priekšrocības. Tālāk ir piemēri tam, ko apoteoze varētu dāvāt:
+Apoteozes pieņemšana tēlam var sniegt vienu vai vairākus nozīmīgus ieguvumus. Jūs tiekat mudināts radīt piemērotas atlīdzības un ieguvumus. Šeit ir piemēri tam, ko apoteoze varētu dāvāt:
 
-* Monumentāla personīga mērķa sasniegšana, piemēram, satikšanās ar savu vienīgo patieso mīlestību vai garīgas patvēruma vietas atrašana, kur iespējams sasniegt perfektu laimi un aizbēgt no pasaules nemieriem. Tas varētu beigties arī traģiski, tēlam sasniedzot episku likteni, kur vienīgais piemērotais iznākums ir nāve.
-* Ierobežota nemirstība, kur ķermenis noveco neparasti vai cieš no slimībām vai citām kaitēm. Tēla dziedināšanas ātrums nemainās, un viņi joprojām var tikt nogalināti ar ieročiem vai citām traumām. Sagrozīti dievi var izvēlēties padarīt šo nemirstīgo ķermeni par jauktu svētību, piemēram, briesmīgas rētas, bezgalīgas sāpes vai kādu pārdabisku marķējumu, ko nevar noņemt.
-* Pastāvīgu trāpījumu punktu palielinājums par CON+SIZ (vai vienkārši pašreizējo trāpījumu punktu dubultošana). Ja tiek izmantotas trāpījumu vietas, tās arī attiecīgi tiek koriģētas. Ja tiek izmantoti kopējie trāpījumu punkti, dubultojiet tos.
-* Dubultojiet jebkuru trīs spēlētāja izvēlētu prasmju rādītājus, kas piemēroti uzticības dabai.
-* Ierocis, priekšmets vai nozīmīgs artefakts tiek nodrošināts ar dievišķiem līdzekļiem, vai nu kā meklējumu rezultāts, vai kāds cits iegūšanas veids. Šis priekšmets ir neticami spēcīgs un atpazīstams ikvienam, kurš dalās vai iebilst pret tēla uzticību.
-* Pilnīga patērēšana no dievišķā spēka puses un atdzimšana kā tā dzīvais avatārs, zaudējot vai iegūstot raksturlielumu punktus, kā attiecīgi nepieciešams, dubultojot maksimālos spēka punktus (lai gan POW raksturlielums paliek nemainīgs). Tēls var pat kļūt par dievišķu būtni, kas līdzīga eņģelim vai dēmonam.
+* Monumentāla personīgā mērķa sasniegšana, piemēram, satikšanās ar savu vienīgo patieso mīlestību vai garīgas patvēruma vietas atrašana, kur iespējams sasniegt perfektu laimi un izbēgt no pasaules satricinājumiem. Tas pat var beigties traģiski, tēlam sasniedzot episku likteni, kurā vienīgais piemērotais iznākums ir nāve.
+* Ierobežota nemirstība, kurā ķermenis nenoveco normāli vai necieš no slimībām vai citām kaitēm. Tēla dziedināšanas ātrums nemainās, un viņu joprojām var nogalināt ar ieročiem vai citiem ievainojumiem. Sagrozīti dievi var izvēlēties padarīt šo nemirstīgo ķermeni par jaukta veida svētību, piemēram, briesmīgas rētas, bezgalīgas sāpes vai kādu pārdabisku atzīmi, ko nevar noņemt.
+* Pastāvīgu dzīvības punktu palielinājums par IZT+IZM (vai vienkārši pašreizējo dzīvības punktu dubultošana). Ja tiek izmantotas trāpījumu vietas, tās arī tiek attiecīgi koriģētas. Ja tiek izmantoti kopējie dzīvības punkti, dubultojiet tos.
+* Dubultojiet jebkuru trīs spēlētāja izvēlētu prasmju vērtējumus, kas ir piemēroti uzticības dabai.
+* Ierocis, priekšmets vai nozīmīgs artefakts tiek piešķirts ar dievišķiem līdzekļiem, vai nu kā meklējumu rezultāts, vai kāds cits veids tā iegūšanai. Šis priekšmets ir neticami spēcīgs un atpazīstams ikvienam, kas dalās vai iebilst pret tēla uzticību.
+* Pilnīga patērēšana no dievišķā spēka puses un atdzimšana kā tā dzīvais iemiesojums, zaudējot vai iegūstot raksturlielumu punktus, kā piemērots, ar maksimālo spējas punktu dubultošanos (lai gan VAR raksturlielums paliek nemainīgs). Tēls var pat kļūt par dievišķu būtni, kas līdzīga eņģelim vai dēmonam.
 
-Šajā brīdī spēlētāja tēlam ir POW×3 iespēja uzsākt tiešu un tūlītēju komunikāciju ar spēku. Spēks dominē tēla dzīvē, komunicējot ar viņiem bieži un tieši. Tas var pat kļūt par šķērsli; spēkam iejaucoties darbībās, kas neveicina tā gribu.
+Šajā brīdī spēlētāja tēlam ir VAR×3 iespēja uzsākt tiešu un tūlītēju saziņu ar spēku. Spēks dominē tēla dzīvē, komunicējot ar viņu bieži un tieši. Tas pat var kļūt par šķērsli; spēkam iejaucoties darbībās, kas neveicina tā gribu.
 
 ## Kaislības (Opcija)
 
-Piedzīvojumi bieži ir pilni intensīvu emociju, kas var novest pie varonības virsotnēm un traģēdijas dziļumiem. Tās tiek definētas kā **kaislības**, atšķirīgi emocionāli sakari ar dažādām vienībām, grupām, vietām vai pat sevi pašu. Mīlestība, Naids, Bailes, Dedzība un Lojalitāte bieži atrodas briesmīgā konfliktā viena ar otru, kā arī izaicina personīgos goda kodeksus. Tās tiek vērtētas kā prasmes un mestas uz D100, ļaujot tēlam kļūt par **iedvesmotu**, viņu darbībām uzlādētām ar saviem uzskatiem. Iedvesmoti tēli spēj labāk pārvarēt izaicinājumus ar pārcilvēciskām pūlēm un panākumu iespējamību. Šāda metiena neizdošanās var novest pie **izmisuma** vai depresijas.
+Piedzīvojumi bieži ir pilni ar intensīvām emocijām, kas var novest pie varonības virsotnēm un traģēdijas dziļumiem. Tās tiek definētas kā **kaislības**, atšķirīgi emocionāli sakari ar dažādām vienībām, grupām, vietām vai pat sevi pašu. Mīlestība, Naids, Bailes, Ziedošanās un Lojalitāte bieži nonāk briesmīgā konfliktā viena ar otru, kā arī izaicina personīgos goda kodeksus. Tās tiek novērtētas kā prasmes un izmestas uz D100, ļaujot tēlam kļūt **iedvesmotam**, viņu darbībām uzlādējoties no viņu uzskatiem. Iedvesmoti tēli spēj labāk pārvarēt izaicinājumus ar pārcilvēciskām pūlēm un panākumu iespējamību. Šāda metiena neizdošanās var novest pie **izmisuma** vai depresijas.
 
-Tāpat kā prasmes, kaislības palielinās caur sekmīgu izmantošanu ar pieredzi, un dažas no tām var tikt samazinātas caur darbībām, kas ir pretējas kaislībai. Spēlētāji vienmēr kontrolē savu tēlu uzvedību: kaislības vienkārši informē par to, kā tēls jūtas pret priekšmetu, neatkarīgi no tā, cik atšķirīgi viņi rīkojas.
+Tāpat kā prasmes, kaislības palielinās ar veiksmīgu izmantošanu pieredzē, un dažas no tām var tikt samazinātas ar kaislībai pretējām darbībām. Spēlētāji vienmēr kontrolē savu tēlu uzvedību: kaislības tikai informē, kā tēls jūtas par attiecīgo subjektu, neatkarīgi no tā, cik atšķirīgi viņi rīkojas.
 
 ### Pamata kaislības
 
-Šeit ir aprakstītas visizplatītākās kaislības, lai gan šis saraksts nav izsmeļošs. Tāpat kā prasmju specialitāte, iekavās aiz kaislības norāda, ka jāizvēlas piemērots fokuss.
+Šeit ir aprakstītas visizplatītākās kaislības, lai gan šis saraksts nav izsmeļošs. Tāpat kā prasmju specialitāte, iekavas aiz kaislības norāda, ka jāizvēlas piemērots fokuss.#### Devotion (dievība)
 
-#### Dedzība (dievība)
-
-Dedzība pret dievu vai dievišķu spēku pārstāv personīgu veltīšanos dievībai vai kādam dievišķam spēkam vai vienībai. Tas norāda uz sirsnīgu emocionālu atdevi un spēcīgu ticību. Kad to izmanto iedvesmai, šī ticība izpaužas tēla iekšienē, piešķirot viņiem mazu drosmes mēru.
+Devotion (dievība) jeb uzticība dievam vai dievišķam spēkam apzīmē cilvēka dzīves veltīšanu kādai dievībai vai dievišķam spēkam vai būtnei. Tas norāda uz patiesu emocionālu pieķeršanos un stipru ticību. Ja šo ticību izmanto iedvesmai, tā izpaužas tēla iekšienē, piešķirot tam nelielu drosmes mēru.
 
 #### Bailes (tips vai indivīds)
 
-Bailes, iespējams, ir viena no spēcīgākajām kaislībām, kas vada visa veida uzvedību, uz labu vai sliktu. Bailes var izraisīt indivīdu bēgt no priekšmeta vai rīkoties iracionāli, lai izvairītos no tā klātbūtnes, vai pat izraisīt pretēju reakciju.
+Bailes, iespējams, ir viena no spēcīgākajām kaislībām, kas uz labu vai sliktu vada visdažādāko uzvedību. Bailes var likt indivīdam bēgt no objekta vai rīkoties neracionāli, lai izvairītos no tā klātbūtnes, vai pat izraisīt negatīvu reakciju.
 
-Kopīgas Bailes var tikt vērstas uz konkrētu grupu vai indivīdu, piemēram, bijušo ienaidnieku vai nodevīgu radinieku. Bailes nevar definēt pret vispārīgām koncepcijām vai spēkiem, piemēram, "vecums" vai "zemestrīces", un tās parasti nav noderīgas, kad priekšmets ir kaut kas tāds, no kā baidītos jebkura saprātīga būtne, piemēram, nāve.
+Parastas Bailes var būt vērstas uz noteiktu grupu vai indivīdu, piemēram, bijušo ienaidnieku vai nodevīgu radinieku. Bailes nevar definēt pret vispārīgiem jēdzieniem vai spēkiem, piemēram, "vecumu" vai "zemestrīcēm", un tās parasti nav noderīgas, ja objekts ir kaut kas tāds, no kā baidītos jebkura saprātīga būtne, piemēram, nāve.
 
-Lai iedvesmotu tēlu, Baiļu priekšmetam ir jābūt klātesošam, vai to klātbūtnei — nenovēršamai. Nevar būt motivēts no Bailēm, ja priekšmets atrodas simtiem kilometru attālumā un nerāda nekādas pazīmes par ierašanos. Draudiem konfrontēt priekšmetu jābūt reāliem un tūlītējiem.
+Lai iedvesmotu tēlu, baiļu objektam ir jābūt klātesošam vai arī tā klātbūtnei ir jābūt nenovēršamai. Tēlu nevar motivēt Bailes, ja objekts atrodas simtiem kilometru attālumā un nekas neliecina par tā ierašanos. Draudiem, ko rada sastapšanās ar objektu, ir jābūt reāliem un tūlītējiem.
 
-Rezultātā uzvedība no iedvesmošanās no Bailēm var būt palīdzēt izvairīšanās veidiem, bēgšanai vai aizsardzībai no priekšmeta, vai pat mudināt uz vardarbīgu pretestību, kad esi stūrī iedzīts. Reizēm tomēr spēles vadītājs var lūgt spēlētājam mest uz savu Baiļu kaislību, ja tēls uzsāk rīcību, kas viņu nostādītu saskarē ar baiļu avotu.
+Rezultātā Bailes var iedvesmot izvairīties, bēgt vai aizstāvēties no objekta, vai pat izraisīt vardarbīgu pretestību, ja tēls ir iedzīts stūrī. Tomēr reizēm spēles vadītājs var lūgt spēlētājam veikt metienu uz savu Bailes kaislību, ja tēls uzsāk tādu darbību, kas varētu viņu saskart ar baiļu avotu.
 
 #### Naids (grupa vai indivīds)
 
-Naids diemžēl motivē daudzus cilvēkus, vai nu caur rasismu, fanātismu vai balstoties uz konkrētu naidu par pagātnes kļūdu, reālu vai iztēlotu.
+Diemžēl Naids motivē daudzus cilvēkus, neatkarīgi no tā, vai tas izriet no rasisma, fanātisma vai ir balstīts uz noteiktu naidu pret pagātnes pārestību, reālu vai iztēlotu.
 
-Kad to izmanto iedvesmai, Naidu var izmantot tikai pret konkrētu priekšmetu vai priekšmetu tipiem un neattiecas uz tiem, kas ir sabiedrotie ar naida priekšmetu. Naidu var vērst arī pret konkrētiem cilvēkiem, parasti specifisku personīgu iemeslu dēļ.
+Izmantojot iedvesmai, Naidu var vērst tikai pret konkrētu objektu vai objektu tipu, un tas neattiecas uz tiem, kas ir sabiedrotie ar naida objektu. Naidu var vērst arī pret konkrētiem cilvēkiem, parasti specifisku personīgu iemeslu dēļ.
 
 #### Gods
 
-Gods ir karavīra tikums, personīgs cieņas, integritātes un lepnuma kodekss. Personīgais gods nav slidens jautājums, pakļauts interpretācijai. Atšķirība starp godīgu rīcību un negodīgu rīcību ir skaidra visiem, neatkarīgi no tā, kā viņi uzvedas. Negoda tabula uzskaita lietas, kuras lielākā daļa cilvēku uzskata par negodīgām darbībām vidusmēra cilvēkam. Šo darbu veikšana samazina godu.
+Gods ir kareivja tikums, personisks cieņas, integritātes un lepnuma kodekss. Personiskais Gods nav slidens jautājums, kas pakļauts interpretācijai. Atšķirība starp godpilnu rīcību un negodpilnu rīcību ir skaidra ikvienam, neatkarīgi no tā, kā viņi uzvedas. Negoda tabulā uzskaitītas lietas, ko lielākā daļa cilvēku atzīst par negodpilnām darbībām vidusmēra cilvēkam. Šādu darbu veikšana mazina Godu.
 
 ##### Negods
 
-| Negodīgs akts | Zaudētais gods |
+| Negodpilna darbība | Zaudētais Gods |
 | :---- | :---- |
-| Neapbruņota pretinieka uzbrukums | –5% |
-| Gļēvums | –5% |
+| Uzbrukums neapbruņotam pretiniekam | –5% |
+| Gļēvulība | –5% |
 | Dezertēšana no kaujas | –5% |
-| Žēlastības atteikšana, kad tā ir pelnīta | –5% |
-| Savas reliģijas svētvietas izlaupīšana | –5% |
-| Nepieklājība pret kādu, kas atrodas jūsu aizsardzībā | –10% |
-| Klajš gļēvums | –15% |
+| Žēlsirdības atteikšana, kad tā ir pelnīta | –5% |
+| Jūsu reliģijas svētvietas izlaupīšana | –5% |
+| Nepieklājība pret kādu, kas ir jūsu aizsardzībā | –10% |
+| Klaja gļēvulība | –15% |
 | Nodevība pret saviem sabiedrotajiem | –15% |
 | Zvēresta laušana | –25% |
-| Vājāko uzbrukums vai apzagšana | –25% |
-| Par sevi vājāka cilvēka nogalināšana | –35% |
-| Izvarošana vai seksuāla uzmākšanās | –50% |
+| Uzbrukums vai zādzība no vājākiem | –25% |
+| Slepkavība personai, kas ir vājāka par sevi | –35% |
+| Izvarošana vai seksuāla vardarbība | –50% |
 | Ģimenes locekļu nogalināšana | –50% |
 
-Gods ir specifisks tēlam un neietver citas sociālās saistības. Kāda gods netiek aizskarts, ja kāds apvaino viņu ģimeni — Mīlestība (ģimene) to aptver. Tāpat kādam, kurš apvaino kāda dievu, vajadzētu konsultēties ar Dedzības (dievība) vai Lojalitātes (templis) kaislību, nevis Godu.
+Gods ir specifisks tēlam un neietver citas sociālās saistības. Tēla Gods netiek aizskarts, ja kāds apvaino viņu ģimeni – to aptver Mīlestība (ģimene). Tāpat, ja kāds apvaino tēla dievu, jāizmanto Devotion (dievība) vai Loyalty (templis) kaislība, nevis Gods.
 
-Gods var iekļaut gandrīz jebko, ko tēls izvēlas, un viņu pašu individuālais goda kodekss jāizstrādā, kad šī kaislība tiek ņemta. Kāds ar ārkārtīgi augstu Godu var būt aizskarts ar jebko, ko kāds pasaka un ko varētu interpretēt kā apvainojumu, kamēr tēls ar zemu vai bez Goda var neuztraukties par to, ko par viņu saka.
+Gods var ietvert gandrīz visu, ko tēls izvēlas, un viņu paša individuālais goda kodekss ir jāizstrādā, kad šī kaislība tiek iegūta. Kādu ar ārkārtīgi augstu Godu var aizvainot jebkas, ko kāds saka un ko var interpretēt kā apvainojumu, savukārt tēls ar zemu Godu vai bez tā var neuztraukties par to, kas par viņu tiek teikts.
 
 #### Mīlestība
 
-Mīlestība ir emocionāla saite vai pievilkšanās, ko viens indivīds jūt pret citu indivīdu vai grupu. Tēlam var būt daudz mīlestību.
+Mīlestība ir emocionāla saikne vai pievilkšanās, ko viens indivīds jūt pret citu indivīdu vai grupu. Tēlam var būt daudz mīlestību.
 
-* **Mīlestība (ģimene)** ir dabiska emocija, kas raksturīga cilvēcei jebkurā laikmetā vai kultūrā. Tuvākā ģimene bieži ir pirmā un vissvarīgākā kopiena, kurai piederat. Sagaidāms, ka ģimenes locekļi atbalstīs, aizsargās un atriebs viens otru.
-* **Mīlestība (indivīds)** norāda uz dziļu sajūtu un pievilkšanos citai personai. Tas parasti nozīmē fizisku un kaislīgu apņemšanos, lai gan tas var iekļaut arī neatbildētu mīlestību.
+* **Mīlestība (ģimene)** ir dabiska emocija, kas raksturīga cilvēcei jebkurā laikmetā vai kultūrā. Tuvā ģimene bieži vien ir pirmā un vissvarīgākā kopiena, kurai cilvēks pieder. Sagaidāms, ka ģimenes locekļi atbalstīs, aizsargās un atriebs viens otru.
+* **Mīlestība (indivīds)** norāda uz dziļām jūtām un pievilkšanos citai personai. Tas parasti nozīmē fizisku un miesisku apņemšanos, lai gan var ietvert arī neatbildētu mīlestību.
 
 #### Lojalitāte (grupa vai vieta)
 
 Lojalitāte ir visas sabiedrības stūrakmens ārpus ģimenes. Tā ir sociālā saite, ko kopienas locekļi jūt viens pret otru. Ar to var vērsties pie šīs kopienas pēc atbalsta.
 
-Tēls ar konfliktējošām lojalitātēm var izmantot savus attiecīgos Lojalitātes rādītājus, lai noteiktu piemērotu rīcības kursu. Spēlētājs var izvēlēties balstoties uz augstāko Lojalitātes rādītāju vai pārbaudīt tos kā pretēju metienu. Tādējādi spēlētājs var izmantot pretēju metienu, lai noteiktu, vai viņu tēls paklausīs savai dzimtās pilsētas lojalitātei vai indivīdam, ja šīs lojalitātes ir konfliktā.
+Tēls ar konfliktējošām lojalitātēm var izmantot savus attiecīgos Lojalitātes reitingus, lai noteiktu atbilstošu rīcību. Spēlētājs var izvēlēties, pamatojoties uz augstāko Lojalitātes reitingu, vai pārbaudīt tos kā pretējo metienu. Tādējādi spēlētājs var izmantot pretējo metienu, lai noteiktu, vai viņa tēls paklausīs lojalitātei pret dzimto pilsētu vai pret indivīdu, ja šīs lojalitātes ir pretrunā.
 
-* **Lojalitāte (kopiena)** ir saites mērs, kas tēlam ir ar savu kultūru. Tas parasti ietver pienākumu atriebt aizskārumus vai traumas pret šo kopienu vai tās locekļiem. Lojalitāti (kopiena) izmanto, lai iegūtu attiecīgās kopienas atbalstu.
-* **Lojalitāte (vieta)** ir mērs kāda vēlmei dzīvot, cīnīties un mirt par vietu, pret kuru viņš jūt milzīgu pieķeršanos. Tā var būt dzimtā pilsēta, pilsēta vai pat valsts.
-* **Lojalitāte (indivīds)** ir tēla saites mērs ar konkrētu indivīdu, piemēram, valdnieku, priekšnieku vai citu patronu. Karotājs ir parādā personīgu lojalitāti savam līderim; pretī līderis atalgo savus sekotājus ar kompensāciju, atbalstu vai citām privilēģijām. Lojalitāti (indivīds) izmanto arī, lai iegūtu šā indivīda personīgo atbalstu.
+* **Lojalitāte (kopiena)** ir mēraukla saiknei, kāda tēlam ir ar savu kultūru. Tā parasti ietver pienākumu atriebt aizvainojumus vai traumas pret šo kopienu vai tās locekļiem. Lojalitāte (kopiena) tiek izmantota, lai iegūtu attiecīgās kopienas atbalstu.
+* **Lojalitāte (vieta)** ir mēraukla vēlmei dzīvot, cīnīties un mirt par vietu, pret kuru tēls jūt milzīgu pieķeršanos. Tā var būt dzimtā pilsēta, cita pilsēta vai pat valsts.
+* **Lojalitāte (indivīds)** ir mēraukla tēla saiknei ar konkrētu indivīdu, piemēram, valdnieku, priekšnieku vai citu patronu. Karotājs ir parādā personisku lojalitāti savam vadonim; pretī vadonis atalgo savus sekotājus ar kompensāciju, atbalstu vai citām privilēģijām. Lojalitāte (indivīds) tiek izmantota arī, lai iegūtu šī indivīda personīgo atbalstu.
 
-Citas kaislības var pastāvēt, piemēram, Neuzticība (indivīds vai grupa), Cieņa (indivīds vai grupa) vai Alkatība, kas darbojas kā Gods un var mudināt uz mantkārīgu uzvedību. Jūs varat sadarboties ar saviem spēlētājiem, lai izstrādātu citas kaislības, kā vēlaties, bet, ja tiek izmantotas personības īpašības, esiet uzmanīgi, lai pārāk nepārklātos ar tām.
+Var pastāvēt arī citas kaislības, piemēram, Neuzticēšanās (indivīds vai grupa), Cienīšana (indivīds vai grupa) vai Alkatība, kas darbojas līdzīgi Godam un var veicināt mantkārīgu uzvedību. Varat strādāt ar saviem spēlētājiem, lai izstrādātu citas kaislības pēc vēlēšanās, taču, ja tiek izmantotas personības iezīmes, uzmanieties, lai tās pārāk nepārklātos.
 
 ### Sākotnējās kaislības
 
-Visvieglākais veids, kā noteikt sākotnējās kaislības, ir ļaut spēlētājiem tās definēt. Kad tiek radīti tēli, ļaujiet katram spēlētājam izvēlēties trīs kaislības, ar kurām viņu tēls sāk: vienu kaislību uz 80% un divas uz 60%.
+Vieglākais veids, kā noteikt sākotnējās kaislības, ir ļaut spēlētājiem tās definēt. Kad tiek izveidoti tēli, ļaujiet katram spēlētājam izvēlēties trīs kaislības, ar kurām tēls sāk – viena kaislība 80% līmenī un divas 60% līmenī.
 
-Ja vēlaties, kaislības var tikt piešķirtas vai modificētas, balstoties uz tēla kultūru vai izcelsmes vietu.
+Ja vēlaties, kaislības var piešķirt vai modificēt, pamatojoties uz tēla kultūru vai izcelsmes vietu.
 
 ### Kaislību izmantošana
 
-Kaislības definē tēla dzīves nodomus un kalpo viņu iedvesmošanai. Spēles vadītājs var pieprasīt kaislības metienu. Citos gadījumos spēlētājs var ieteikt un pieprasīt vienu, ar spēles vadītāja apstiprinājumu. Šeit ir daži veidi, kā kaislības var ietekmēt spēli.
+Kaislības definē tēla dzīves nolūkus un kalpo viņu iedvesmošanai. Spēles vadītājs var pieprasīt kaislības metienu. Citos gadījumos spēlētājs var ierosināt un pieprasīt tādu metienu ar spēles vadītāja piekrišanu. Šeit ir daži no veidiem, kā kaislības var ietekmēt spēli.
 
-#### Lomu spēles vadlīnijas
+#### Vadlīnijas lomu spēlēšanai
 
-Pamatā kaislība ir skaitlisks intensitātes pakāpes rādītājs, ko tēls jūt pret kaislības priekšmetu, un spēlētājs to var izmantot, kad ir jautājums par to, kā tēls rīkotos. Jo augstāka kaislība, jo vairāk tēls, visticamāk, rīkosies saskaņā ar to. Jo zemāka kaislība, jo vairāk tēls var to ignorēt.
+Visvienkāršākajā līmenī kaislība ir skaitliskais vērtējums par intensitātes pakāpi, ko tēls jūt pret kaislības objektu, un to var izmantot spēlētājs, ja rodas jautājums par to, kā tēls rīkotos. Jo augstāka kaislība, jo lielāka iespēja, ka tēls rīkosies saskaņā ar to. Jo zemāka kaislība, jo vairāk tēls to var ignorēt.
 
-Spēlētājiem vienmēr ir kontrole pār saviem tēliem, bet kaislību metienus var izmantot, kad nav acīmredzams skaidrs rīcības kurss vai kad spēles vadītājs domā, ka tēls uzvedas krasi "ārpus rakstura". Lai gan spēlētājs joprojām ir atbildīgs, spēles vadītājs var attēlot iešanu pret kaislību (izmestu vai augstu rādītāju) ar komentāriem kā "Tavam tēlam ir sliktas sajūtas par šo, bet viņš virzās uz priekšu" vai kaut ko tamlīdzīgu.
+Spēlētājiem vienmēr ir kontrole pār saviem tēliem, taču kaislības metienus var izmantot, ja skaidrs rīcības kurss nav acīmredzams vai ja spēles vadītājs uzskata, ka tēls uzvedas krasi "ārpus tēla". Lai gan spēlētājs joprojām ir atbildīgs, spēles vadītājs var attēlot pretrunā ar kaislību rīkošanos (veikts metiens vai augsts rezultāts) ar komentāriem kā "Tavs tēls par to jūtas slikti, bet dodas tālāk" vai tamlīdzīgi.
 
 #### Demonstrācija un atbalsts
 
-Tēlam ar Lojalitāti var tikt lūgts to izmest, pārliecinot kādu citu, ka viņi abi dala to pašu uzticību. Centieni demonstrēt savu Dedzību, Naidu, Mīlestību vai Lojalitāti, lai ietekmētu citus un būtu labs piemērs, ir lieliski veidi, kā izmantot kaislības spēlē. Sekmējies, un var tikt piedāvāts savstarpējs atbalsts un palīdzība; neizdodas, un tēls var tikt atraidīts kā pozieris un krāpnieks.
+Tēlam ar Lojalitāti var likt veikt metienu, lai pārliecinātu kādu citu, ka viņiem abiem ir viena un tā pati uzticība. Mēģinājums demonstrēt savu Devotion (dievība), Naidu, Mīlestību vai Lojalitāti, lai ietekmētu citus un būtu labs piemērs, ir lieliski veidi, kā izmantot kaislības spēlē. Ja izdodas, var tikt piedāvāts savstarpējs atbalsts un palīdzība; ja neizdodas, tēlu var atraidīt kā viltnieku un krāpnieku.
 
 #### Iedvesma
 
-Tēls var mēģināt gūt iedvesmu no savas kaislības un pieprasīt metienu, lai pastiprinātu prasmi, ar spēles vadītāja apstiprinājumu. Situācijā vai "ainā" — piemēram, cīņas ilgumā, saviesīgā pasākumā, darbības secībā utt. — var veikt tikai vienu iedvesmas mēģinājumu. Tēls nedrīkst veikt iedvesmas metienu katru reizi, kad tiek mēģināta tā pati darbība. Iedvesma ilgst tik ilgi, cik nepieciešams darbības pabeigšanai, piemēram, kaujas vai cīņas ilgumu (ar maksimālo ilgumu viena diena). Ja rodas šaubas, spēles vadītājs nosaka iedvesmas ilgumu. Iedvesmas mēģināšanai, pamatojoties uz kaislību, nav nepieciešams nekāds laiks — tās var notikt kā daļa no citas darbības.
+Tēls var mēģināt gūt iedvesmu no savas kaislības un pieprasīt metienu, lai pastiprinātu prasmi, ar spēles vadītāja piekrišanu. Situācijā vai "ainā" – piemēram, cīņas ilgumā, saviesīgā pasākumā, darbības sekvencē utt. – var veikt tikai vienu mēģinājumu gūt iedvesmu. Tēls nevar veikt iedvesmas metienu katru reizi, kad tiek mēģināts veikt to pašu darbību. Iedvesma ilgst laiku, kas nepieciešams darbības pabeigšanai, piemēram, cīņas vai kaujas ilgumu (ar maksimālo ilgumu viena diena). Ja rodas šaubas, spēles vadītājs nosaka iedvesmas ilgumu. Iedvesmas mēģinājums, pamatojoties uz kaislību, neaizņem laiku – tas var notikt kā daļa no citas darbības.
 
-Spēles vadītājam ir pēdējais vārds par to, vai var mēģināt kaislības metienu iedvesmai. Spēlētāji tiek brīdināti, ka kaislību metieni var būt ārkārtīgi riskanti, kā arī atalgojoši: kaislības metiena neizdošanās noved pie izmisuma! Ja tēls šajā situācijā jau ir metis, lai gūtu iedvesmu no kaislības, viņi nevar mēģināt gūt iedvesmu vēlreiz, pat ar citu kaislību. Turklāt iedvesmas bonusu nevar apvienot ar citas prasmes palielinājumu.
+Spēles vadītājam ir galavārds par to, vai var mēģināt veikt kaislības metienu iedvesmai. Spēlētāji tiek brīdināti, ka kaislības metieni var būt gan ārkārtīgi riskanti, gan atalgojoši: kaislības metiena kļūme rezultējas izmisumā! Ja tēls šajā situācijā jau ir metis, lai gūtu iedvesmu no kādas kaislības, viņš nevar mēģināt gūt iedvesmu atkārtoti, pat no citas kaislības. Turklāt iedvesmas bonusu nevar apvienot ar citas prasmes pastiprinājumu.
 
-Atcerieties, ka spēles vadītājam ir pēdējais vārds par Iedvesmas mēģinājuma piemērotību un tās ilgumu. Spēlētājam jāmet pret kaislības rādītāju uz D100:
+Atcerieties, ka spēles vadītājam ir galavārds par Iedvesmas mēģinājuma atbilstību un tās ilgumu. Spēlētājam ir jāmet pret kaislības reitingu uz D100:
 
-* **Kritisks panākums:** Viena izvēlēta prasme uz laiku saņem +50% bonusu uzdevuma vai situācijas ilgumam. Pieredzes pārbaude tiek iegūta kaislībā.
-* **Īpašs panākums:** Viena izvēlēta prasme uz laiku saņem +30% bonusu uzdevuma vai situācijas ilgumam. Pieredzes pārbaude tiek iegūta kaislībā.
-* **Panākums:** Viena izvēlēta prasme uz laiku saņem +20% bonusu uzdevuma vai situācijas ilgumam. Pieredzes pārbaude tiek iegūta kaislībā.
-* **Neizdošanās:** Tēls ir nomākts, modificējot visus turpmākos metienus situācijā vai ainā par –10%. Šis sods beidzas ar nākamo ainu.
-* **Kļūme (Fumble):** Kaislība nekavējoties tiek modificēta par –1D10% un tēlu pārņem izmisums (skatīt Izmisuma tabulu, tālāk). Izmisuma ilguma laikā tēls ir faktiski nespējīgs darīt neko vairāk kā bēgt vai slēpties, lai gan spēles vadītājs var atļaut zināmu darbības pakāpi ārpus tā pareizajos apstākļos.
+* **Kritisks veiksmes metiens:** Viena izvēlēta prasme uz laiku saņem +50% bonusu uzdevuma vai situācijas laikā. Kaislībā tiek iegūts pieredzes pārbaudes punkts.
+* **Īpašs veiksmes metiens:** Viena izvēlēta prasme uz laiku saņem +30% bonusu uzdevuma vai situācijas laikā. Kaislībā tiek iegūts pieredzes pārbaudes punkts.
+* **Veiksmīgs metiens:** Viena izvēlēta prasme uz laiku saņem +20% bonusu uzdevuma vai situācijas laikā. Kaislībā tiek iegūts pieredzes pārbaudes punkts.
+* **Kļūme:** Tēls ir nomākts, modificējot visus turpmākos metienus situācijā vai ainā par –10%. Šis sods beidzas ar nākamo ainu.
+* **Pilnīga neveiksme (Fumble):** Kaislība tiek nekavējoties modificēta par –1D10% un tēlu pārņem izmisums (skatīt Izmisuma tabulu tālāk). Izmisuma laikā tēls faktiski nespēj darīt neko citu, kā tikai bēgt vai slēpties, lai gan spēles vadītājs var atļaut zināmu darbības pakāpi arī ārpus šī, ja ir atbilstoši apstākļi.
 
 ##### Izmisums
 
@@ -525,42 +523,42 @@ Atcerieties, ka spēles vadītājam ir pēdējais vārds par Iedvesmas mēģinā
 | :---- | :---- |
 | 1–3 | 1D10 kaujas raundi |
 | 4–7 | D10+10 kaujas raundi |
-| 8–9 | Līdz saulrietam, saullēktam vai līdzīgam laika ilgumam |
+| 8–9 | Līdz saulrietam, saullēktam vai tamlīdzīga ilguma laikam |
 | 10 | 1D3 spēles dienas |
 
-Ja kaislība jebkad tiek samazināta līdz 0%, izņemiet to no tēla lapas. Kaislība nevar noslīdēt zem 0. Turklāt tēls nekad nevar atgūt kaislību, kas šādā veidā ir zaudēta: tā ir izsmelta un to nevar atjaunot, ja vien spēles vadītājs nenosaka, ka ārkārtēji apstākļi vai uzvedība ir pelnījusi tās atgriešanos.
+Ja kaislība jebkad tiek samazināta līdz 0%, noņemiet to no tēla lapas. Kaislība nevar nokrist zem 0. Turklāt tēls nekad nevar atgūt kaislību, kas zaudēta šādā veidā: tā ir izsmelta un to nevar atjaunot, ja vien spēles vadītājs nenosaka, ka ārkārtēju apstākļu vai uzvedības kopums ir pelnījis tās atgriešanos.
 
-### Obligāti metieni
+### Obligātie metieni
 
-Kaislības 80% vai augstāk pārstāv stingri turētus uzskatus un sakarus, un tās nav jāuztver vieglprātīgi vai jāizmanto tikai tad, kad tas ir ērti. Tādas ārkārtējas kaislības var pieprasīt spēlētājam veikt obligātus metienus šo uzskatu dēļ, ja spēles vadītājs to izvēlas. Kopumā spēles vadītājam ir vairākas opcijas, ja spēlētājs liek savam tēlam darīt kaut ko nepiemērotu viņu rādītājam attiecīgajā kaislībā, piemēram, tēls ar Naidu (nāci) 95% atlaiž dažus nacistus pēc cīņas.
+Kaislības 80% vai augstākā līmenī atspoguļo stingri turētas pārliecības un saiknes, un tās nav uztveramas viegli vai izmantojamas tikai tad, kad tas ir ērti. Šādas ārkārtējas kaislības var likt spēlētājam veikt obligātus metienus šo pārliecību dēļ, ja spēles vadītājs to izvēlas. Vispārīgi runājot, spēles vadītājam ir vairākas iespējas, ja spēlētājs liek savam tēlam darīt kaut ko nepiemērotu viņa reitingam attiecīgajā kaislībā, piemēram, tēls ar Naids (nacisti) 95% atbrīvo kādus nacistus pēc cīņas.
 
-* Samazināt kaislību zem 80%.
-* Pretstatīt kaislību citai kaislībai kā pretēju metienu. Ja pretējā spēja uzvar konkursā ar Rūnu vai kaislību, spēlētājs var rīkoties citādāk, nemodificējot primāro kaislību. Šajā gadījumā konfliktējošā kaislība uzvarēja.
+* Samaziniet kaislību zem 80%.
+* Pretnostatiet kaislību ar citu kaislību kā pretējo metienu. Ja pretējā spēja uzvar sacensību ar Rūnu vai kaislību, spēlētājs var rīkoties citādi, nemodificējot primāro kaislību. Šajā gadījumā konfliktējošā kaislība uzvarēja.
 
 ### Kaislības iegūšana
 
-Kaislības var viegli iegūt spēles laikā. Tēliem vajadzētu iegūt daudzas iespējas iegūt ienaidniekus, mīļotos, sabiedrotos un lojalitātes. Gan spēlētājam, gan spēles vadītājam jāvienojas par jaunas kaislības ieviešanu. Kad ar tēlu notiek kaut kas nozīmīgs, spēles vadītājs vai spēlētājs var ieteikt, ka ir radusies kaislība. Parasti sākotnējā vērtība ir 60%, bet var būt augstāka atkarībā no apstākļiem.
+Kaislības var viegli iegūt spēles laikā. Tēliem vajadzētu būt daudzām iespējām iegūt ienaidniekus, mīļotos, sabiedrotos un lojalitātes. Gan spēlētājam, gan spēles vadītājam vajadzētu vienoties par jaunas kaislības ieviešanu. Kad tēlam notiek kaut kas nozīmīgs, spēles vadītājs vai spēlētājs var ierosināt, ka ir radusies kaislība. Parasti sākotnējā vērtība ir 60%, bet atkarībā no apstākļiem tā var būt augstāka.
 
-### Kaislības brīvprātīga samazināšana
+### Labprātīga kaislības samazināšana
 
-Tēls ar kaislību 80% vai augstāk, kurš veic darbību, kas tieši ir pretrunā ar šo kaislību, var vienkārši pazemināt kaislību līdz 80% (vai zemāk) vai mēģināt pretstatīt šo kaislību citai. Tomēr tēls var vēlēties samazināt kaislību šādā veidā:
+Tēls ar kaislību 80% vai augstāk, kurš veic darbību, kas tieši ir pretrunā ar šo kaislību, var vienkārši pazemināt kaislību līdz 80% (vai zemāk) vai mēģināt pretnostatīt to ar citu kaislību. Tomēr tēls var vēlēties samazināt kaislību šādā veidā:
 
-* Kad tiek noteikta pieredze, izvēlieties kaislību, kuru pazemināt. Ja tai ir pieredzes pārbaude, to šajā laikā nevar pazemināt. Ja tā nav pārbaudīta un spēlētājs vēlas to pazemināt, metiet, it kā pārbaudītu pieredzi. Ja pieredzes metiens nav sekmīgs, samaziniet kaislību par –1D6.
-* Kaislību 50% vai zemāk spēlē var lielākoties ignorēt, jo tā pārstāv ambivalenci pret priekšmetu. To var izņemt no tēla lapas, kā vēlaties.
+* Nosakot pieredzi, izvēlieties kaislību, kuru pazemināt. Ja tai ir pieredzes pārbaude, to šobrīd pazemināt nevar. Ja tā nav pārbaudīta un spēlētājs vēlas to pazemināt, metiet tā, it kā pārbaudītu pieredzi. Ja pieredzes metiens nav veiksmīgs, samaziniet kaislību par –1D6.
+* Kaislību 50% vai zemāk spēlē var lielā mērā ignorēt, jo tā atspoguļo ambivalenci pret subjektu. To pēc vēlēšanās var noņemt no tēla lapas.
 
 ## Reputācija (Opcija)
 
-Reputācija mēra tēla slavu, bēdīgo slavu un atzinību. Tajā iekļauta viena ģimenes izcelsme, ja attiecināms, un jebkādas darbības, kuras viņi paveikuši, lai nopelnītu reputāciju. Kad tēla Reputācija palielinās, cilvēki kļūst arvien informētāki par viņiem, zinot arvien vairāk.
+Reputācija mēra tēla slavu, bēdīgo slavu un atpazīstamību. Tā ietver tēla ģimenes izcelsmi, ja tas ir būtiski, un jebkuras darbības, ko viņi veikuši, lai nopelnītu reputāciju. Tēla Reputācijai pieaugot, cilvēki kļūst arvien informētāki par viņu, zinot arvien vairāk.
 
 ### Reputācijas iegūšana
 
-Reputācija tiek iegūta, darot lietas, kas piesaista citu uzmanību. Nokļūšana ziņās, ievēlēšana amatā, kaut kā liela un ievērības cienīga paveikšana, slavenības kļūšana, palīdzība kādam slavenam cilvēkam, slavena priekšmeta piederēšana — tie visi ir piemēri lietām, kas var palielināt tēla Reputāciju.
+Reputāciju iegūst, darot lietas, kas piesaista citu uzmanību. Nokļūšana ziņās, ievēlēšana amatā, kaut kā liela un ievērojama paveikšana, kļūšana par slavenību, palīdzība kādam slavenam cilvēkam, slavena priekšmeta piederēšana – tie visi ir piemēri lietām, kas var palielināt tēla Reputāciju.
 
-Reputācija nepalielinās pieredzes pārbaudes dēļ. Tā vietā tā palielinās pēc spēles vadītāja ieskatiem, balstoties uz sasniegumiem un notikumiem, kas notiek spēles laikā. Reputācija var palielināties arī caur negatīviem darbiem. Tā nesamazinās kā kaislības: uzvedība bez goda, ļauna darīšana, spektrāla izgāšanās var padarīt vienu tikpat slavenu (vai pat vēl vairāk) kā episki sasniegumi.
+Reputācija nepalielinās pieredzes pārbaužu dēļ. Tā vietā tā palielinās pēc spēles vadītāja ieskatiem, pamatojoties uz sasniegumiem un notikumiem, kas norisinās spēles laikā. Reputācija var palielināties arī negatīvu darbu dēļ. Tā nesamazinās tāpat kā kaislības: negodīga uzvedība, ļaunu darbu veikšana, iespaidīga neveiksme var padarīt jūs tikpat slavenu (vai pat vēl slavenāku) kā episki sasniegumi.
 
-**Reputācijas ieguvumu** tabula (zemāk) sniedz piemērus par to, kā Reputācija varētu palielināties. Ņemiet vērā, ka darbībām jābūt zināmām citiem — Reputācija tiek iegūta par darbībām, kas veiktas slepenībā vai nezināšanā. Spēles vadītājs tiek mudināts izmantot šos piemērus kā uzskaitītos vai izmantot tos kā vadlīnijas citiem palielinājumiem.
+**Reputācijas ieguvumu** tabula (zemāk) sniedz piemērus par to, kā Reputācija var palielināties. Ņemiet vērā, ka darbībām ir jābūt zināmām citiem – Reputācija netiek iegūta par darbībām, kas veiktas slepenībā vai nezināšanā. Spēles vadītājs tiek aicināts izmantot šos piemērus kā uzskaitītos vai kā vadlīnijas citiem pieaugumiem.
 
-Reputācija no viena akta nodrošina tikai vienu ieguvumu, lai gan spēles vadītājs var to modificēt par vairākiem tās pašas darbības atkārtojumiem, līdz iespējamā metiena kopsummai. Ja izmantojat kaislības, ir iespējams iegūt Reputāciju par aktu un tajā pašā laikā zaudēt Godu par to.
+Reputācija no viena darba sniedz tikai vienu ieguvumu, lai gan spēles vadītājs var to modificēt par vairākiem vienas un tās pašas darbības atkārtojumiem, līdz iespējamā metiena kopsummai. Ja izmantojat kaislības, ir iespējams iegūt Reputāciju par kādu darbu un vienlaikus zaudēt Godu par to.
 
 ##### Reputācijas ieguvumi
 
@@ -570,26 +568,26 @@ Reputācija no viena akta nodrošina tikai vienu ieguvumu, lai gan spēles vadī
 
 **Piemēri**
 
-* Zvēresta nodošana par kādu svarīgu jautājumu.
-* Vienlīdz spēcīga ienaidnieka pieveikšana.
-* Izcila prasmes izmantošana; panākumi ievērības cienīgā pasākumā.
-* Ievērības cienīgas kāzas.
-* Piedalīšanās lielā ceļojumā.
-* Kļūšana par vecāku laimīgās dzemdībās.
-* Svarīga viesa uzņemšana savā mājā vai zālē.
+* Zvēresta nodošana ar zināmu nozīmi.
+* Tikpat spēcīga pretinieka uzvarēšana.
+* Izcila prasmes izmantošana; sasniegums ievērojamā pasākumā.
+* Ievērojamas laulības.
+* Dalība lielā ceļojumā.
+* Kļūšana par vecāku veiksmīgās dzemdībās.
+* Svarīga viesa uzņemšana savās mājās vai zālē.
 * Gudras alianses izveidošana.
-* Svarīgas daļas ņemšana pielūgsmes ceremonijā.
-* Vietējo mediju (laikraksta, rakstveža, dziedātāja utt.) runāšana par tevi.
-* Populāra emuāra esamība, grāmatas sarakstīšana, maza slavenība utt.
-* Dīvains negadījums vai veiksmes gājiens.
+* Svarīgas lomas ieņemšana pielūgsmes ceremonijā.
+* Vietējo mediju (laikraksts, rakstvedis, menestrels utt.) runāšana par jums.
+* Populārs blogs, grāmatas rakstīšana, kļūšana par maznozīmīgu slavenību utt.
+* Dīvains negadījums vai veiksmes brīdis.
 * Melošana un pieķeršana.
-* Maznozīmīgi noziedzīgi akti.
+* Maznozīmīgi noziedzīgi darbi.
 * Svarīga zvēresta laušana.
-* Nepieklājīga uzvedība pret viesiem savā mājā vai zālē.
-* Īpaši nozīmīga kļūme vai redzama neveiksme.
+* Nepieklājīga izturēšanās pret viesiem savās mājās vai zālē.
+* Īpaši nozīmīga kļūme vai acīmredzama neveiksme.
 * Ģimenes locekļa vai sabiedrotā zaudēšana.
 * Alianses laušana.
-* Maznozīmīga svētzādzība.
+* Maznozīmīga zaimošana.
 * Maznozīmīgs kauns savai ģimenei.
 
 **Darbs:** Ārkārtējs
@@ -599,121 +597,119 @@ Reputācija no viena akta nodrošina tikai vienu ieguvumu, lai gan spēles vadī
 **Piemēri**
 
 * Episka zvēresta nodošana.
-* Pārāka ienaidnieka (vai ienaidnieku skaita) pieveikšana.
+* Pārāka pretinieka (vai pretinieku skaita) uzvarēšana.
 * Kritiska prasmes izmantošana, kad tas ir svarīgi.
-* Izcils panākums ārkārtējā pasākumā.
-* Prestižas kāzas.
-* Dvīņu/trīnīšu piedzimšana utt.
-* Liela alianse.
-* Būšana par subjekta populāram stāstam, pazīstamai dziesmai vai galvenajam ziņu sižetam.
-* Populāras grāmatas publicēšana vai populāra mūzikas gabala izdošana.
-* Iekļaušana ļoti veiksmīgā mediju priekšnesumā.
-* Freak veiksmes gājiens.
-* Liela ienaidnieka nopelnīšana.
-* Būtisks svētzādzības akts.
+* Izcila veiksme ārkārtējā pasākumā.
+* Prestižas laulības.
+* Dvīņu/trīņu utt. piedzimšana.
+* Galvenā alianse.
+* Kļūšana par populāra stāsta, labi zināmas dziesmas vai galvenā ziņu stāsta objektu.
+* Populāras grāmatas publicēšana vai populāra mūzikas darba izdošana.
+* Uzstāšanās ļoti veiksmīgā mediju sniegumā.
+* Negaidīts veiksmes brīdis.
+* Galvenā ienaidnieka iegūšana.
+* Būtisks zaimošanas akts.
 * Nodevība vai kaitējuma nodarīšana kādam savā aizsardzībā (piemēram, viesim).
-* Liels noziedzīgs akts.
-* Liela zvēresta laušana.
-* Radinieku nogalināšana.
-* Spektakulāra kļūme vai ļoti redzama neveiksme.
-* Liela negoda sagādāšana savai ģimenei.
+* Galvenais noziedzīgais akts.
+* Galvenā zvēresta laušana.
+* Radinieka nogalināšana.
+* Spektakulāra kļūme vai ļoti acīmredzama neveiksme.
+* Galvenā negoda sagādāšana savai ģimenei.
 
-**Darbs**: Varonīgs
+**Darbs:** Varonīgs
 
 **Ieguvums**: +2D6 vai vairāk
 
 **Piemēri**
 
-* Leģendāru panākumu sasniegšana gandrīz neiespējamā pasākumā.
-* Armijas vadīšana uz uzvaru vai vienas pašas pieveikšana.
-* Dievišķas vai nemirstīgas dabas ienaidnieka pieveikšana.
-* Apprecēšanās ar karali vai karalieni vai kļūšana par tādu.
-* Būšana par dievišķā pravietojuma fokusu.
-* Iekļaušana populārā grāmatā vai dokumentālajā filmā.
-* Kaut kā episka celtniecība, piemēram, jauns liels templis vai pils.
+* Leģendāra veiksme gandrīz neiespējamā pasākumā.
+* Armijas vadīšana uz uzvaru vai vienas personas uzvara pār armiju.
+* Dievišķas vai nemirstīgas dabas ienaidnieka uzvarēšana.
+* Laulības ar karali vai karalieni vai kļūšana par tādu.
+* Dievišķā pareģojuma centrālais tēls.
+* Iekļūšana populārā grāmatā vai dokumentālajā filmā.
+* Kaut kā episka celtniecība, piemēram, jauns galvenais templis vai pils.
 * Spektakulāra sakāve.
-* Savas vecāku vai bērnu nogalināšana.
-* Tumšākās nodevības vai negoda akts.
+* Savu vecāku vai bērnu nogalināšana.
+* Vistumšākās nodevības vai negoda darbs.
 
 ### Reputācijas izsekošana
 
-Spēlētājam vajadzētu izsekot sava tēla Reputācijas avotus un to, cik daudz ir iegūts. Atkal, kad Reputācija ir palielinājusies, tā nesamazinās. Viens vienkārši kļūst slavens par dažādām lietām. Spēles vadītājs var tomēr modificēt tās sekmes iespējamību (skatīt **Reputācijas modifikatori**).
+Spēlētājam vajadzētu izsekot sava tēla Reputācijas avotus un to, cik daudz ir iegūts. Atkal, kad Reputācija ir palielinājusies, tā nesamazinās. Cilvēks vienkārši kļūst slavens par dažādām lietām. Tomēr spēles vadītājs var modificēt tās veiksmes iespējamību (skatīt **Reputācijas modifikatori**).
 
 ### Reputācijas izmantošana
 
-Reputāciju izmanto divos veidos: lai identificētu kādu vai lai pārsteigtu citus (būtībā sakot "Vai tu zini, kas es esmu?").
+Reputāciju izmanto divos veidos: lai kādu identificētu vai lai atstātu iespaidu uz citiem (būtībā sakot "Vai tu zini, kas es esmu?").
 
 #### Kāda identificēšana
 
 Reputāciju spēles vadītājs var izmantot, lai ne-spēlētāju tēli identificētu tēlu un iemeslu, kāpēc viņi ir slaveni, vai spēlētāji var mest, lai redzētu, vai viņu tēli ir dzirdējuši par konkrētu ne-spēlētāju tēlu.
 
-Piemērojiet jebkādus atbilstošus Reputācijas bonusus vai sodus (skatīt **Reputācijas modifikatori**) un metiet. Tas atšķiras no parastajām prasmēm vai raksturlielumiem ar to, ka metieni ir pret subjekta Reputāciju, nevis savu pašu. Tēls var mēģināt pastiprināt savu Reputāciju (vai kāda cita) ar kādu Komunikācijas prasmi, būtībā izrunājot kādu. Ja piemēroti, Zināšanu vai Lore prasmi varētu izmantot, lai pastiprinātu subjekta Reputāciju, ja viņi ir ievērojami šajā jomā.
+Piemērojiet jebkurus atbilstošus Reputācijas bonusus vai sodus (skatīt **Reputācijas modifikatori**) un metiet. Tas atšķiras no parastajām prasmēm vai raksturlielumiem ar to, ka metieni tiek veikti pret subjekta Reputāciju, nevis savu. Tēls var mēģināt pastiprināt savu Reputāciju (vai kāda cita) ar kādu Komunikācijas prasmi, būtībā izreklamējot kādu. Ja tas ir piemēroti, Zināšanu vai Lore prasmi var izmantot, lai pastiprinātu subjekta Reputāciju, ja viņi šajā jomā ir ievērojami.
 
-Ja metiens ir sekmīgs, tas, kura reputācija tika izmesta pret, tiek atpazīts. Tas, visticamāk, ietekmē to, kā ne-spēlētāju tēls reaģē uz tēlu. Labākas kvalitātes panākumi sniedz vairāk informācijas. Neizdošanās nozīmē, ka viņi nav zināmi, un kļūme nozīmē postošu pārpratumu vai kļūdainas identitātes gadījumu.
+Ja metiens ir veiksmīgs, tas, kura reputācija tika izmantota metienā, tiek atpazīts. Tas, visticamāk, ietekmē to, kā ne-spēlētāja tēls reaģē uz tēlu. Labākas kvalitātes veiksmes sniedz vairāk informācijas. Neveiksme nozīmē, ka viņi nav pazīstami, un kļūme nozīmē katastrofālu pārpratumu vai kļūdainas identitātes gadījumu.
 
-Kāds vienmēr var mēģināt noliegt, kas viņi ir, bet tas modernākos iestatījumos kļūst arvien grūtāk.
+Kāds vienmēr var mēģināt noliegt, kas viņš ir, taču tas kļūst arvien grūtāk mūsdienīgākā vidē.#### Citu iespaidošana
 
-#### Citu pārsteigšana
+Reputāciju var izmantot, lai mēģinātu pastiprināt dažas komunikācijas prasmes, ja tas ir piemēroti. Tāpat spēles vadītājs var ļaut tēlam mēģināt ietekmēt nespēlētāja tēla reakciju uz viņu.
 
-Reputāciju var izmantot, lai mēģinātu pastiprināt dažas Komunikācijas prasmes, ja tas ir piemēroti. Līdzīgi, spēles vadītājs var atļaut tēlam mēģināt ietekmēt ne-spēlētāju tēla reakciju uz tēlu.
+Lai izmantotu reputāciju citas prasmes pastiprināšanai, veiciet metienu pret tēla reputāciju:
 
-Lai izmantotu Reputāciju, lai pastiprinātu citu prasmi, metiet pret tēla Reputāciju:
-
-* **Kritisks panākums:** Tēla Reputācija pievieno +50% bonusu izmantojamajai Komunikācijas prasmei.
-* **Īpašs panākums:** Tēla Reputācija pievieno +30% bonusu izmantojamajai Komunikācijas prasmei.
-* **Panākums:** Tēla Reputācija pievieno +20% bonusu izmantojamajai Komunikācijas prasmei.
-* **Neizdošanās:** Tēls atņem –20% no izmantojamās Komunikācijas prasmes.
-* **Kļūme:** Tēls atņem –50% no izmantojamās Komunikācijas prasmes.
+* **Kritisks veiksmes metiens:** Tēla reputācija pievieno +50% bonusu izmantojamajai komunikācijas prasmei.  
+* **Īpašs veiksmes metiens:** Tēla reputācija pievieno +30% bonusu izmantojamajai komunikācijas prasmei.  
+* **Veiksmes metiens:** Tēla reputācija pievieno +20% bonusu izmantojamajai komunikācijas prasmei.  
+* **Neveiksme:** Tēls atņem –20% no izmantojamās komunikācijas prasmes.  
+* **Kļūme:** Tēls atņem –50% no izmantojamās komunikācijas prasmes.
 
 ### Reputācijas modifikatori
 
-Reputāciju modificē auditorijas sociālais attālums. Parasti Reputācija ģimenes, darba vietas un apkārtnes vai mājvietas rajonā palielinās. No otras puses, Reputācija samazinās ar svešiniekiem un nepiederīgajiem. Slaveni politiķi, varoņi un slavenības var būt pilnīgi nezināmi tālās vietās. Līdzīgi, laikam ejot, Reputācijas kļūst mazāk nozīmīgas. Pievienojiet modifikatorus tēla Reputācijai, balstoties uz novērotāja sociālo tuvumu viņiem.
+Reputāciju ietekmē auditorijas sociālais attālums. Parasti reputācija ģimenes, darbavietas, apkaimes vai mājvietas teritorijā ir augstāka. Savukārt reputācija samazinās saskarsmē ar svešiniekiem un nepiederīgajiem. Slaveni politiķi, varoņi un slavenības var būt pilnīgi nezināmi tālos reģionos. Līdzīgi, laikam ejot, reputācija zaudē savu nozīmi. Pievienojiet modifikatorus tēla reputācijai, pamatojoties uz novērotāja sociālo tuvumu tēlam.
 
 ##### Reputācijas modifikatori
 
 | Novērotājs ir… | Modifikators |
 | :---- | :---- |
-| …no tās pašas ģimenes, uzņēmuma vai vietas, vai viņiem ir kopīgi paziņas. | +25% |
-| …labi ceļojis, seko līdzi tenkām/ziņām un ir labi savienots. | +10–25% |
+| …no tās pašas ģimenes, uzņēmuma vai apkaimes, vai arī viņam ir kopīgi paziņas. | +25% |
+| …pieredzējis ceļotājs, seko līdzi tenkām/jaunumiem un ir labi pazīstams. | +10–25% |
 | …no tās pašas kultūras vai reģiona. | — |
-| …ārpus tēla sociālā tīkla vai kultūras grupas, vai ir atrauts no pēdējām ziņām. | –25% |
-| …ārpus rajona, kur tēls ieguva savu Reputāciju, bet tajā pašā ģeogrāfiskajā reģionā, vai ir no citas paaudzes. | –50% |
-| …ārpus ģeogrāfiskā reģiona, kur tēls ieguva savu Reputāciju, vai daudzus gadus prom no tēla. | –75% |
+| …ārpus tēla sociālā tīkla vai kultūras grupas, vai arī viņam nav zināmi jaunākie notikumi. | –25% |
+| …ārpus teritorijas, kurā tēls ieguva savu reputāciju, bet tajā pašā ģeogrāfiskajā reģionā, vai arī no citas paaudzes. | –50% |
+| …ārpus ģeogrāfiskā reģiona, kurā tēls ieguva savu reputāciju, vai arī kopš notikumiem pagājuši daudzi gadi. | –75% |
 
-## Saprāts (Opcija)
+## Saprāts (Izvēles noteikums)
 
-Ir daudz veidu, kā tēli var tikt ievainoti fiziski, caur vardarbību vai negadījumiem, bet dažām spēlēm visspēcīgākais drauds ir tas, kas tiek radīts cilvēka prāta stabilitātei. Kā definēts 2. nodaļā: Tēli, tēliem ir opcionāls raksturlielums, ko sauc par **Saprātu**, ko pārstāv **Saprāta punkti** (SAN). Jo vairāk Saprāta punktu tēlam ir, jo psiholoģiski stabilāks viņš ir. Saprāta punkti tiek zaudēti caur traumu: saskarsmi ar briesmīgiem vai necilvēcīgiem monstriem, nāves vai vardarbīgu notikumu liecību vai apzinātu fizisku kaitējumu, piemēram, spīdzināšanu. Kad tie tiek pakļauti Saprātu izaicinošiem notikumiem, tēli met pret savu pašreizējo Saprāta punktu kopsummu. Neizdošanās nozīmē SAN punktu zaudēšanu, kamēr panākums dažreiz nozīmē tikai mazāku SAN zaudēšanu. Saprāta punktus var atgūt caur konsultācijām, veiksmīgi pieveicot SAN zaudējuma avotu vai caur personīgo pilnveidošanos.
+Pastāv daudzi veidi, kā tēli var gūt fiziskus ievainojumus, vardarbības vai negadījumu rezultātā, taču dažās spēlēs visnozīmīgākais drauds ir tas, kas tiek vērsts pret cilvēka prāta stabilitāti. Kā noteikts otrajā nodaļā: Tēli, tēliem ir izvēles raksturlielums, ko sauc par **Saprātu**, ko apzīmē ar **Saprāta punktiem** (SAP). Jo vairāk saprāta punktu tēlam ir, jo psiholoģiski stabilāks viņš ir. Saprāta punkti tiek zaudēti traumas dēļ: sastapšanās ar šausminošiem vai pārdabiskiem briesmoņiem, nāves vai vardarbīgu notikumu pieredzēšana vai apzināta fiziska kaitējuma, piemēram, spīdzināšanas, piedzīvošana. Saskaroties ar notikumiem, kas izaicina saprātu, tēli veic metienu pret savu pašreizējo saprāta punktu kopskaitu. Neveiksme nozīmē SAP punktu zaudēšanu, savukārt veiksme dažreiz nozīmē tikai mazāku SAP zudumu. Saprāta punktus var atgūt ar konsultāciju palīdzību, veiksmīgi uzveicot SAP zuduma cēloni vai pašattīstības ceļā.
 
-Kā piezīme, šī sistēma ir abstrakcija īpaši spēles mērķiem un nav domāta, lai tuvinātu vai mazinātu garīgās slimības realitāti vai trivializētu to jebkādā veidā.
+Piezīme: šī sistēma ir abstrakcija, kas paredzēta īpaši spēles vajadzībām, un nav domāta, lai pietuvinātu, mazinātu vai kādā veidā trivializētu garīgās slimības realitāti.
 
 ### Saprāta mehānika
 
-Katram tēlam ir Saprāta raksturlielums, saīsināti SAN. Tēla sākotnējais SAN ir vienāds ar POW×5. Tēla SAN nemainās, jo vēlāk mainās POW. Puse no tēla sākotnējā SAN ir viņu **Pagaidu neprāta rādītājs** (TIS). Lai gan SAN dramatiski mainīsies spēles laikā, viņu TIS nekad nemainās. Pēc spēles vadītāja ieskatiem spēlē, kurā attēloti normāli cilvēki, TIS var būt vienāds ar POW, dodot daudz augstāku pagaidu neprāta iespējamību.
+Katram tēlam ir saprāta raksturlielums, saīsināti SAN. Tēla sākotnējais SAN ir vienāds ar VAR×5. Tēla SAN nemainās, ja vēlāk mainās VAR. Puse no tēla sākotnējā SAN ir viņa **Pagaidu vājprāta rādītājs** (PVR). Lai gan SAN spēles gaitā krasi mainīsies, viņa PVR nekad nemainās. Pēc spēles vadītāja ieskatiem spēlē, kurā piedalās parasti cilvēki, PVR var būt vienāds ar VAR, kas ievērojami palielina pagaidu vājprāta iespējamību.
 
-Reizēm tēlam jāveic sekmīgs SAN metiens uz D100 vai jazaudē SAN. Panākuma iespējamība ir vienāda vai mazāka par tēla pašreizējo SAN. Spēles vadītājs metīs, cik daudz SAN tiek zaudēts, ja metiens neizdodas. Dažos gadījumos īpaši briesmīga vai dīvaina pieredze var maksāt SAN pat tad, ja metiens ir sekmīgs, lai gan tas, visticamāk, ir frakcija no kopējā iespējamā SAN zaudējuma.
+Laiku pa laikam tēlam ir jāveic veiksmīgs SAN metiens ar D100, pretējā gadījumā tiks zaudēti SAP. Veiksmes iespēja ir vienāda ar tēla pašreizējo SAN vai mazāka par to. Spēles vadītājs izmetīs, cik daudz SAP tiek zaudēts, ja metiens ir neveiksmīgs. Dažos gadījumos īpaši šausmīga vai dīvaina pieredze var maksāt SAP pat tad, ja metiens ir veiksmīgs, lai gan tas, visticamāk, būs tikai neliela daļa no kopējā iespējamā SAP zuduma.
 
-Katrā tēla lapā ir iekļauta vieta pašreizējā SAN un TIS atzīmēšanai; sākotnējais SAN un TIS jāatzīmē pastāvīgi. Pašreizējais SAN jāraksta ar zīmuli (ja tā ir papīra lapa), tāpat kā trāpījumu punkti vai spēka punkti, jo tas mainās ar katru zaudējumu.
+Katrā tēla lapā ir vieta, kur atzīmēt pašreizējo SAN un PVR; sākotnējais SAN un PVR ir jāatzīmē pastāvīgi. Pašreizējais SAN jāraksta ar zīmuli (ja izmantojat papīra lapu), tāpat kā veselības punkti vai spēka punkti, jo tas mainās pēc katra zuduma.
 
-Ja tēls jebkad zaudē SAN, kas ir lielāks vai vienāds ar viņu TIS 5 minūšu periodā (vienāds ar vienu gājienu), viņi tad kļūst pagaidu neprātīgi. Metiet 1D6 tēlam uz **Pagaidu neprāta** tabulas un metiet 1D8 uz **Pagaidu neprāta ilguma tabulas** (abas seko). Pirmā tabula parāda, kā tēls tiek ietekmēts, un otrā parāda, cik ilgi tas ilgst.
+Ja tēls 5 minūšu laikā (kas atbilst vienam gājienam) zaudē SAP vairāk vai vienādi ar savu PVR, viņš uz laiku kļūst vājprātīgs. Izmetiet 1D6 tēlam atbilstoši **Pagaidu vājprāta** tabulai un izmetiet 1D8 atbilstoši **Pagaidu vājprāta ilguma tabulai** (abas redzamas tālāk). Pirmā tabula parāda, kā tēls tiek ietekmēts, bet otrā — cik ilgi tas ilgst.
 
-Kad ciešat no pagaidu neprāta, pastāstiet spēlētājam, ko viņa tēls piedzīvo, un lūdziet viņus to izspēlēt, ja piemērots.
+Ciešot no pagaidu vājprāta, paziņojiet spēlētājam, ko viņa tēls piedzīvo, un palūdziet viņam to izspēlēt, ja tas ir piemēroti.
 
-Laiks, konsultācijas, spēcīgas zāles, dažas spējas vai pat dievišķa iejaukšanās var izdziedēt pagaidu neprātu. Piemērotas zāles var būt vai nu izgatavotas ar atbilstošu prasmi, vai iegādātas, ja pieejamas. Papildu līdzekļi pagaidu neprāta risināšanai var pastāvēt pēc spēles vadītāja ieskatiem.
+Laiks, konsultācijas, spēcīgi medikamenti, dažādas spējas vai pat dievišķa iejaukšanās var dziedēt pagaidu vājprātu. Atbilstošus medikamentus var pagatavot, izmantojot piemērotu prasmi, vai iegādāties, ja tie ir pieejami. Pēc spēles vadītāja ieskatiem var pastāvēt papildu veidi, kā tikt galā ar pagaidu vājprātu.
 
-##### Pagaidu neprāts
+##### Pagaidu vājprāts
 
-| Rezultāts | Apraksts un efekti |
+| Rezultāts | Apraksts un sekas |
 | :---- | :---- |
-| 1 | **Katatonija**; tēls ieņem augļa stāvokli. |
-| 2 | **Stupefakcija**; tēls nepārtraukti murmina vai skatās tukšumā, neko neredzot. |
-| 3 | **Paranoja**; tēls ir skaidrā prātā, bet pārliecināts par nepamatotām aizdomām gandrīz par visu. |
-| 4 | **Fobija**; tēlu pārņem lielas bailes no kaut kā, kas saistīts ar neprāta avotu. |
-| 5 | **Amnēzija**; tēls nevar atcerēties, kas viņi ir vai kas ar viņiem notika SAN zaudējuma laikā vai ap to. |
-| 6 | **Pašnāvniecisks izmisums**\* **vai vēlme mirt**; tēls ir pārliecināts, ka viņu pašu nāve ir vienīgais līdzeklis, kā aizbēgt no garīgās spīdzināšanas. |
+| 1 | **Katatonija**; tēls ieņem augļa pozu. |
+| 2 | **Stupefakcija**; tēls nemitīgi murmina vai skatās tukšumā, neko neredzot. |
+| 3 | **Paranoja**; tēls ir pie pilna prāta, taču pārliecināts par nepamatotām aizdomām gandrīz par visu. |
+| 4 | **Fobija**; tēlu pārņem lielas bailes no kaut kā, kas saistīts ar vājprāta cēloni. |
+| 5 | **Amnēzija**; tēls nespēj atcerēties, kas viņš ir vai kas ar viņu notika SAP zuduma laikā vai ap to. |
+| 6 | **Pašnāvniecisks nomāktība**\* **vai vēlme mirt**; tēls ir pārliecināts, ka viņa paša nāve ir vienīgais veids, kā izbēgt no garīgajām mocībām. |
 
-\* Tēlu nekad nevar piespiest veikt pašnāvniecisku aktu, un spēles vadītājam šis rezultāts jāizmanto uzmanīgi, pievēršot uzmanību iesaistīto spēlētāju jutīgumam.
+\* Tēlu nekad nevar piespiest veikt pašnāvniecisku darbību, un spēles vadītājam šis rezultāts jāizmanto piesardzīgi, pievēršot uzmanību iesaistīto spēlētāju jūtīgumam.
 
-##### Pagaidu neprāta ilgums
+##### Pagaidu vājprāta ilgums
 
 | Rezultāts | Ietekmes laiks |
 | :---- | :---- |
@@ -726,43 +722,43 @@ Laiks, konsultācijas, spēcīgas zāles, dažas spējas vai pat dievišķa ieja
 | 7 | Viena nedēļa |
 | 8 | Divas nedēļas |
 
-Kad tēla SAN sasniedz 0, viņi tiek uzskatīti par pastāvīgi un pilnīgi neprātīgiem un tagad vai nu tiek izslēgti no spēles, vai kļūst par ne-spēlētāja tēlu, ko kontrolē spēles vadītājs. Vienīgais līdzeklis pret pastāvīgu neprātu ir dievišķa iejaukšanās vai kāds cits nozīmīgs process (plaša psiholoģiska pārprogrammēšana, gadiem ilga terapija un meditācija utt.), ko nosaka spēles vadītājs, ja tas vispār ir iespējams. Ja tā, atjaunotā SAN summa jāizlemj attiecīgi.
+Kad tēla SAN sasniedz 0, viņš tiek uzskatīts par pastāvīgi un pilnīgi vājprātīgu, un tagad vai nu tiek izslēgts no spēles, vai kļūst par nespēlētāja tēlu, kuru kontrolē spēles vadītājs. Vienīgais līdzeklis pret pastāvīgu vājprātu ir dievišķa iejaukšanās vai kāds cits nozīmīgs process (padziļināta psiholoģiskā pārprogrammēšana, gadiem ilga terapija un meditācija utt.), ko nosaka spēles vadītājs, ja tas vispār ir iespējams. Ja tā, tad atjaunojamā SAN daudzums jāizlemj atbilstoši situācijai.
 
 ### Maksimālais saprāts
 
-Noteiktas prasmes, piemēram, Zināšanu prasmes *Blasphemous Lore* specialitāte, var samazināt maksimāli iespējamo Saprātu. Kad šī prasme palielinās, atņemiet to no 100, rezultāts ir maksimālais Saprāts, kāds tēlam jebkad var būt, pat ja tas ir mazāks par viņu sākotnējo SAN.
+Noteiktas prasmes, piemēram, Zināšanu prasmes specializācija "Zaimojošās mācības", var samazināt maksimāli iespējamo saprātu. Palielinoties šai prasmei, atņemiet to no 100; rezultāts ir maksimālais saprāts, kāds tēlam jebkad var būt, pat ja tas ir mazāks par viņa sākotnējo SAN.
 
-***Piemēram,*** *kādam ar sākotnējo SAN 75 (POW 15×5) un Zināšanām (Blasphemous Lore) 43% ir jauns maksimālais Saprāts 57% (100–43=57).*
+***Piemēram,*** *kādam ar sākotnējo SAN 75 (VAR 15×5) un Zināšanām (Zaimojošās mācības) 43% jaunais maksimālais saprāts ir 57% (100–43=57).*
 
 ### Saprāta punktu atjaunošana
 
-Tēls var atgūt zaudēto SAN, bet nekad līdz summai, kas pārsniedz viņu sākotnējo maksimālo Saprāta kopsummu. Tālāk ir daži veidi, kā SAN var atjaunot:
+Tēls var atgūt zaudēto SAN, bet nekad ne vairāk par sākotnējo maksimālo saprāta kopsummu. Tālāk minēti daži veidi, kā SAP var atjaunot:
 
-* **Panākums:** SAN zaudējuma avota pieveikšana vai iznīcināšana var būt vērta summu, kas vienāda ar pusi no iespējamā SAN zaudējuma, ko avots draudēja. Spēles vadītājam jāinterpretē "pieveikšanas" nosacījumi un jānosaka precīza atjaunotā summa. To var izmest vai piešķirt kā vienotu summu ikvienam, kas piedalījās pieveikšanā, nevis tikai tiem, kas zaudēja SAN.
-* **Konsultācijas:** Skatīt Psihoterapijas prasmi. Parasti sekmīgs prasmju metiens atgūst 1D3–1 SAN.
-* **Zāles:** Dažas zāles vai vielas var pēc spēles vadītāja ieskatiem atjaunot zaudēto SAN.
-* **Spējas:** Vairākas psihiskas spējas un superspēja *Transfer* var atjaunot zaudēto SAN.
-* **Pašpilnveidošanās:** 91% rādījuma sasniegšana prasmē uzreiz atjauno 2D6 SAN punktus, pārstāvot pārliecību un disciplīnu, kas saistīta ar prasmes apgūšanu (šis ir vienreizējs bonuss). Ja tēls sāk ar šādu prasmju rādījumu vai augstāku, SAN pieauguma nav.
+* **Veiksme:** SAN zuduma cēloņa uzveikšana vai iznīcināšana var būt vērtīga apjomā, kas vienāds ar pusi no iespējamā SAP zuduma, ko cēlonis radīja. Spēles vadītājam jāinterpretē "uzveikšanas" nosacījumi un jānosaka precīzs atjaunotais daudzums. To var izmest ar kauliņiem vai piešķirt kā vienotu summu ikvienam, kurš piedalījās uzveikšanā, ne tikai tiem, kuri zaudēja SAP.  
+* **Konsultācijas:** Skatiet Psihoterapijas prasmi. Parasti veiksmīgs prasmes metiens atjauno 1D3–1 SAP.  
+* **Medikamenti:** Daži medikamenti vai vielas pēc spēles vadītāja ieskatiem var atjaunot zaudēto SAP.  
+* **Spējas:** Vairākas psihiskās spējas un superpārdabiskā spēja "Pārnese" var atjaunot zaudēto SAP.  
+* **Pašattīstība:** 91% reitinga sasniegšana prasmē acumirklī atjauno 2D6 SAP, kas atspoguļo pašapziņu un disciplīnu, kura saistīta ar prasmes apguvi (šis ir vienreizējs bonuss). Ja tēls sāk ar šādu vai augstāku prasmju reitingu, SAP pieauguma nav.
 
-Visi Saprāta ieguvumi ir pilnībā spēles vadītāja ieskatos, kurš ir vienīgais situācijas tiesnesis un tas, kas ir piemērots.
+Visi saprāta ieguvumi ir pilnībā atkarīgi no spēles vadītāja ieskatiem, kurš ir vienīgais situācijas tiesnesis un noteicējs par to, kas ir piemērots.
 
-### Saprāta izmaksas pēc situācijas
+### Saprāta izmaksas atkarībā no situācijas
 
-Tālāk ievadītās sadaļas apskata tās saprātu satricinošās situācijas, kas var rasties spēlē. Spēles vadītājam jānosaka papildu situācijas. Vērtība pirms / ir summa, ja tiek veikts sekmīgs SAN metiens, kamēr summa otrā pusē ir summa, kas tiek mesta, ja metiens neizdodas.
+Tālāk norādītie ieraksti aplūko tās saprātu satricinošās situācijas, kas var rasties spēles laikā. Spēles vadītājam jānosaka papildu situācijas. Vērtība pirms slīpsvītras (/) ir daudzums, ja tiek veikts veiksmīgs SAN metiens, savukārt daudzums slīpsvītras otrā pusē ir daudzums, kas tiek izmests, ja metiens ir neveiksmīgs.
 
-##### Saprāta zaudējumi
+##### Saprāta zudumi
 
-| SAN zaudējuma avots | Iespējamais zaudējums |
+| SAP zuduma cēlonis | Iespējamais zudums |
 | :---- | :---- |
-| Kaut kas dīvains un grotesks, vai pēkšņas bailes | 0/1 |
-| Maznozīmīgas necilvēcīgas būtnes (zombiji, vilkači, vampīri utt.) | 0/1D3+ |
-| Vardarbīgas nāves aina, miruša ķermeņa atrašana | 0/1D3 |
-| Sakropļota vai sagraizīta ķermeņa atrašana | 1/1D4 |
-| Gruzinošas nāves liecība | 1/1D6 |
-| Maznozīmīgas spīdzināšanas ciešana | 1D3/1D6 |
-| Realitāti izaicinošas vīzijas (Haoss, necilvēcīga korupcija utt.) | 0/1d8 |
-| Dīvaini un briesmīgi monstri | 1D2+/1D6+ |
-| Kļūšana par kādas briesmīgas transformācijas upuri | 1D6/2D10 |
-| Monstruozi citplanētiešu dievi | 1D10/1D100 |
+| Kaut kas satraucošs un grotesks vai pēkšņs izbīlis | 0/1 |
+| Nelielas nedabiskas būtnes (zombiji, vilkači, vampīri utt.) | 0/1D3+ |
+| Vardarbīgas nāves vieta, miruša ķermeņa atrašana | 0/1D3 |
+| Sakropļota vai izkropļota ķermeņa atrašana | 1/1D4 |
+| Šausminošas nāves liecinieks | 1/1D6 |
+| Nelielas spīdzināšanas ciešana | 1D3/1D6 |
+| Realitāti izaicinošas vīzijas (Haoss, nedabiska korupcija utt.) | 0/1d8 |
+| Dīvaini un šausmīgi briesmoņi | 1D2+/1D6+ |
+| Briesmīgas pārvērtības skartam būt | 1D6/2D10 |
+| Briesmīgi citpasaules dievi | 1D10/1D100 |
 
-Vairākkārtējas saskarsmes gadījumā ar to pašu SAN zaudējuma avotu spēles vadītājs var mazināt vēlākas saskarsmes ietekmi (iespējams, ļaujot vairākām saskarsmēm tikai summēties līdz kopējam iespējamajam izmestajam) vai pilnībā ignorēt vajadzību mest vēlreiz, ja tēls ir pieradis vai desensibilizēts pret saprātu kaitējošo pieredzi.
+Gadījumā, ja notiek vairākkārtēja saskarsme ar vienu un to pašu SAP zuduma cēloni, spēles vadītājs var mazināt turpmākās saskarsmes sekas (iespējams, ļaujot vairākkārtējai saskarsmei kopsummā sasniegt tikai maksimālo iespējamo izmesto daudzumu) vai pilnībā ignorēt nepieciešamību mest vēlreiz, ja tēls ir pieradis vai desensibilizēts pret saprātu kaitējošo pieredzi.

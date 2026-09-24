@@ -1,566 +1,564 @@
 # 10. Nustatymai
 
-Šiame skyriuje aptariami nustatymai – laikai ir (arba) vietos, kuriose vyksta jūsų nuotykiai. Paprastai nustatymas yra žanras – vesternas, mokslinė fantastika, techninis trileris, „kalavijo ir sandalų“ (istorinė) fantastika, aukštoji fantastika ar daugelis kitų. Į šį skyrių taip pat įtrauktos papildomos taisyklės dėl ištikimybės, aistrų ir beprotybės.
+Šiame skyriuje aptariami nustatymai – laikai ir (arba) vietos, kur vyksta jūsų nuotykiai. Paprastai nustatymas yra žanras – vesternas, mokslinė fantastika, techno-trileris, „kardo ir sandalų“ stilius, aukštoji fantastika ar daugelis kitų. Šiame skyriuje taip pat pateikiamos pasirenkamos taisyklės dėl ištikimybės, aistrų ir pamišimo.
 
 ## Nustatymo kūrimas
 
-*Basic Roleplaying* sistema sukurta tam, kad padėtų jums, žaidimo meistrui (ŽM), sukurti savo nustatymą, nesvarbu, ar jis originalus, ar adaptuotas iš kažko esamo. Toliau pateikiami keli populiarūs nustatymai, kurie visi laikosi to paties formato, bei pastabos apie kiekvieną iš jų. Kiekviename jų pateikiami siūlomi personažų tipai (nors tai nėra apribojimai), šiame nustatyme prasmingos galios, technologijos, padedančios pasirinkti įrangą, užuominos nuotykių tipams bei tinkamos papildomos taisyklės.
+*Basic Roleplaying* sukurtas padėti jums, žaidimo meistrui, sukurti savo nustatymą, nesvarbu, ar jis originalus, ar pritaikytas pagal jau egzistuojantį. Toliau pateikiami keli populiarūs nustatymai, kurie laikosi to paties formato, bei pastabos apie kiekvieną iš jų. Kiekviename jų pateikiami siūlomi veikėjų tipai (nors tai nėra apribojimai), šiame nustatyme logiškos galios, technologijos, padedančios pasirinkti įrangą, užuominos nuotykių tipams ir tinkamos pasirenkamos taisyklės.
 
-### Priešistoriniai laikai
+### Priešistorinis amžius
 
-Bet kokia priešistorinė ar primityvi gentinė aplinka prieš civilizacijos aušrą arba kažkaip nuo jos atskirta. Gyvenimas trumpas ir žiaurus, o socialinė organizacija dažniausiai apsiriboja šeima ar gentimi. Priešistoriniai žinduoliai paprastai yra pagrindinė grėsmė, nors alternatyviose istorijose kartais pasitaiko ir dinozaurų.
+Bet kokia priešistorinė arba primityvi genčių aplinka prieš civilizacijos aušrą arba kažkaip nuo jos atskirta. Gyvenimas trumpas ir žiaurus, o socialinę organizaciją dažniausiai sudaro tik šeima ar gentis. Priešistoriniai žinduoliai paprastai yra pagrindinė grėsmė, nors alternatyviose istorijose kartais pasitaiko dinozaurų.
 
-* **Personažų tipai:** Amatininkas, ūkininkas, medžiotojas, šamanas ir genties narys.
-* **Galios:** Primityvūs šamanai gali naudoti magiją, taip pat gali egzistuoti mutacijos ir psichinės galios.
-* **Technologijos:** Priešistoriniame pasaulyje nėra pagamintų daiktų, viskas gaminama iš primityvių išteklių, tokių kaip medis, akmuo, kaulas, oda, kailis, plunksnos ir molis – tiek drabužiai, tiek įrankiai ar ginklai, tiek religiniai totemai ar atminimo ženklai. Nors įgudęs amatininkas gali pagaminti geresnius akmeninius kirvius ir tinkamesnius talismanus, daugiau nieko nėra. Dauguma daiktų yra prastos ar vidutinės kokybės, o turto nėra.
-* **Nuotykiai:** Genčių konfliktai tarp medžiotojų-rinkėjų grupių dėl geriausių medžioklės plotų, nepalankus oras, agresyvūs gyvūnai ar net didelės medžioklės gali būti priešistorinių nuotykių esmė. Alternatyviose priešistorėse gali būti įtraukti senovės padarai iš Ktulhu mito, ateiviai, norintys pavergti primityvią žmoniją, ar net skirtingi evoliucijos keliai, kur protingi dinozaurai ar beždžionės tapo dominuojančia rūšimi, o žmonija – jų maistu.
-* **Papildomos taisyklės:** Nėra.
+* **Veikėjų tipai:** Amatininkas, ūkininkas, medžiotojas, šamanas ir gentainis.
+* **Galios:** Primityvūs šamanai gali naudoti magiją, taip pat gali egzistuoti mutacijos ir psichiniai gebėjimai.
+* **Technologijos:** Priešistoriniame pasaulyje nėra pagamintų dirbinių, viskas formuojama iš primityvių išteklių, tokių kaip medis, akmuo, kaulas, oda, kailis, plunksnos ir molis – tiek drabužiai, tiek įrankiai ir ginklai, tiek religiniai totemai ar atminimo dovanos. Nors įgudęs amatininkas gali pagaminti geresnius akmeninius kirvius ir tinkamesnius talismanus, nieko daugiau nėra. Dauguma daiktų yra prastos arba vidutinės kokybės, o turto nėra.
+* **Nuotykiai:** Genčių konfliktai tarp medžiotojų-rinkėjų grupių dėl geriausių medžioklės plotų, atšiaurūs orai, agresyvūs gyvūnai ar net didžiosios medžioklės gali tapti priešistorinių nuotykių pagrindu. Alternatyviose priešistorėse gali pasitaikyti senovės būtybių iš Cthulhu mito, ateivių, siekiančių pavergti primityvią žmoniją, ar net divergentinės evoliucijos takai, kur protingi dinozaurai ar beždžionės tapo dominuojančia rūšimi, o žmonija – jų maistu.
+* **Parinktys:** Nėra.
 
 ### Bronzos amžius
 
-Karalysčių, tokių kaip Šumeras, Graikija, Roma, Egiptas, Persija ir kitos galingos imperijos, era – nuo Mesopotamijos epochos iki biblinių senovės laikų, klasikinės Graikijos iki Romos žlugimo ir vėlesnio chaotiško Europos suirimo. Arba tai gali būti „kalavijo ir sandalų“ fantastinis nustatymas, vyksantis įsivaizduojamame senovės pasaulyje.
+Karalysčių, tokių kaip Šumeras, Graikija, Roma, Egiptas, Persija ir kitos galingos imperijos, era – nuo Mesopotamijos epochos iki biblinės senovės, klasikinės Graikijos, iki Romos žlugimo ir vėlesnio chaotiško Europos suirimo. Kita vertus, tai gali būti „kardo ir sandalų“ fantastinis pasaulis, įsikūręs įsivaizduojamame senovės pasaulyje.
 
-* **Personažų tipai:** Visi, išskyrus žurnalistą, mokslininką ir techniką.
-* **Galios:** Magija ir burtininkavimas, greičiausiai dieviškos kilmės. Gali egzistuoti psichinės galios, o monstrai gali turėti mutacijų. Pusdieviai ar legendiniai herojai gali turėti supergalių.
-* **Technologijos:** Bronzos amžiaus klestėjimas ir geležies amžiaus pradžia, kai metalo apdirbimas pakeitė kultūrą ir prekybą. Tai meno klestėjimas ir civilizacijos gimimas.
-* **Nuotykiai:** Ši era tinka tiek šiurkščioms fantastinėms epopėjoms, tiek didingesnėms mitologinėms temoms, stipriai akcentuojant kultūrą ir garbinimą.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Žala ir kūno vietos, Šaudomųjų ginklų vengimas, Ištvermės taškai, Didesnės pradinės charakteristikos, Hitai pagal vietą, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Aistros, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Veikėjų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ir techniką.
+* **Galios:** Magija ir burtininkavimas, greičiausiai dieviškos kilmės. Gali egzistuoti psichinės galios, o monstrai gali turėti mutacijų. Pusdieviai arba legendiniai herojai gali turėti supergalių.
+* **Technologijos:** Bronzos amžiaus klestėjimas ir Geležies amžiaus žydėjimas, kai metalo apdirbimas pakeitė kultūrą ir prekybą. Tai meno suklestėjimas ir civilizacijos gimimas.
+* **Nuotykiai:** Ši era tinka tiek šiurkščioms fantastinėms epopėjoms, tiek didingesnėms mitologinėms temoms su stipriu akcentu į kultūrą ir garbinimą.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, žala ir kūno vietos, šaudmenų išvengimas, nuovargio taškai, aukštesnės pradinės charakteristikos, pataikymo taškai pagal vietą, padidinti asmeniniai įgūdžių taškai, raštingumas, aistros, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
 ### Geležies amžius
 
-Po Romos imperijos žlugimo didžioji Europos dalis atsidūrė suirutėje. Nors vyko socialinė pažanga ir bendrai gerėjo gyvenimo kokybė, šis laikotarpis dažnai apibūdinamas kaip žiaurus ir nešviesus. Tai apima skandinavų (vikingų) kultūros kilimą ir regioninius karus visoje Europoje, siekiant užpildyti Romos paliktą vakuumą. Tai taip pat gali būti fantastinis nustatymas, įskaitant ne žmonių rases, tokias kaip elfai ir nykštukai, ar net mitinius gyvūnus ir monstrus.
+Po Romos imperijos žlugimo didžioji Europos dalis atsidūrė suirutėje. Nors būta socialinės pažangos ir gyvenimo kokybės pagerėjimų, šis laikas dažnai apibūdinamas kaip žiaurus ir nešviesus. Tai apima norvegų (vikingų) kultūros iškilimą ir regioninius karus visoje Europoje, siekiant užpildyti Romos paliktą vakuumą. Tai taip pat gali būti fantastinis nustatymas, įskaitant ne žmonių rases, tokias kaip elfai ir nykštukai, ar net mitinius gyvūnus ir monstrus.
 
-* **Personažų tipai:** Visi, išskyrus žurnalistą, mokslininką ir techniką. Politikai dažnai yra didikai, o rašytojai – dvasininkai ar galbūt poetai.
+* **Veikėjų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ir techniką. Politikai dažnai yra kilmingieji, o rašytojai – dažniausiai kunigai ar galbūt poetai.
 * **Galios:** Magija ir burtininkavimas yra du dažniausi galių tipai, kurie gali būti dieviškos, pragariškos ar pagoniškos kilmės.
-* **Technologijos:** Nepaisant to, kad kartais vadinamas „tamsiaisiais amžiais“, vyko moksliniai pokyčiai, mechanikos inžinerijos tobulėjimas ir ligų gydymas. Klesti fizinio pasaulio studijos, o knygų kūrimas ir žinių išsaugojimas tampa paplitęs tarp didikų ir dvasininkų. Burlaiviai tampa vis sudėtingesni.
-* **Nuotykiai:** Europa po Romos yra tikra postapokaliptinė dykvietė, o gyvenimas paprastiems žmonėms buvo sunkus. Smulkūs karai ir priespauda yra kasdienybė. Religijų pasidalijimas kupinas konfliktų ir sumaišties.
-* **Papildomos taisyklės:** Ištikimybė, Kultūriniai modifikatoriai, Žala ir kūno vietos, Išsilavinimo/Žinių patikrinimas, Ištvermės taškai, Hitai pagal vietą, Raštingumas, Aistros, Reputacija, Sveikas protas.
+* **Technologijos:** Nepaisant to, kad kartais vadinamas „tamsiaisiais amžiais“, vyko moksliniai pokyčiai, mechanikos inžinerijos patobulinimai ir ligų gydymas. Fizinio pasaulio tyrinėjimai klesti, o knygų kūrimas ir žinių išsaugojimas tampa paplitęs tarp bajorijos ir dvasininkijos. Burlaiviai tampa vis tobulesni.
+* **Nuotykiai:** Europa po Romos yra tikras postapokaliptinis dykvietė, o gyvenimas paprastiems žmonėms buvo sunkus. Smulkūs karai ir priespauda yra kasdienybė. Religijų susiskaldymas kupinas konfliktų ir sumaišties.
+* **Parinktys:** Ištikimybė, kultūriniai modifikatoriai, žala ir kūno vietos, išsilavinimo / žinių metimas, nuovargio taškai, pataikymo taškai pagal vietą, raštingumas, aistros, reputacija, protinė sveikata.
 
 ### Aukštieji viduramžiai
 
-Tai feodalinė era. Laikotarpį apibūdina bajorija, riterystė, dinastinė valdžia ir socialinės struktūros. Idealizuota romantika valdo riterišką pasaulį, kontrastuodama su žiauria ir niūria realybe. Manoma, kad magija yra velnio darbas, o dieviškumas laikomas tokiu pat realiu kaip ir pragariškumas. Tai taip pat gali apibūdinti tolimą postapokaliptinį pasaulį, kuriame paskutiniai civilizacijos likučiai nusirito iki neofeodalizmo.
+Tai feodalinė era. Kilmingumas, riterystė, dinastinės vyriausybės ir socialinės struktūros apibūdina šį laikotarpį. Idealizuota romantika skatina riterišką pasaulį, kurį kontrastuoja žiauri ir niūri realybė. Tikima, kad magija yra velniška, o dieviškumas laikomas tokiu pat realiu kaip pragariškumas. Tai taip pat gali apibūdinti tolimą postapokaliptinį pasaulį, kur paskutiniai civilizacijos likučiai žlugo į neofeodalizmą.
 
-* **Personažų tipai:** Visi, išskyrus žurnalistą, mokslininką ir techniką. Rašytojai dažniausiai yra dvasininkai arba poetai, o mokslininkai – greičiausiai dvasininkai, besidomintys gamtos pasauliu.
+* **Veikėjų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ir techniką. Rašytojai dažniausiai yra kunigai arba gali būti poetai, o mokslininkai – greičiausiai kunigai, besidomintys gamtos pasauliu.
 * **Galios:** Magija ir burtininkavimas yra du dažniausi galių tipai, kurie gali būti dieviškos, pragariškos ar pagoniškos kilmės.
-* **Technologijos:** Prekių masinė gamyba, ankstyvosios gildijų struktūros, išplėsta prekyba ir platus prekių paskirstymas pakeitė pasaulį. Paprastai dėl riboto raštingumo knygų ir pažangių žinių prieinamumas yra menkas. Šarvai ir ginklai tampa vis efektyvesni, o vėliau – barokiški.
-* **Nuotykiai:** Artūro ar Karolingų legendų stiliaus nuotykiai, klaidžiojantys riteriai ir kt.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Žala ir kūno vietos, Ištvermės taškai, Didesnės pradinės charakteristikos, Hitai pagal vietą, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Nežmoniški personažai, Aistros, Reputacija, Įgūdžių lygiai virš 100%.
+* **Technologijos:** Masinė prekių gamyba, ankstyvosios gildijų struktūros, išplėtota prekyba ir platus prekių paskirstymas pakeitė pasaulį. Paprastai dėl plataus raštingumo trūkumo knygų ir pažangių žinių prieinamumas yra ribotas. Šarvai ir ginkluotė toliau tobulėja, vėliau tapdami barokiniais.
+* **Nuotykiai:** Artūro ar Karolingų nuotykiai, riterių žygiai ir kt.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, žala ir kūno vietos, nuovargio taškai, aukštesnės pradinės charakteristikos, pataikymo taškai pagal vietą, padidinti asmeniniai įgūdžių taškai, raštingumas, ne žmonių veikėjai, aistros, reputacija, įgūdžių vertinimai virš 100 %.
 
 ### Aukštoji fantastika
 
-Panašiai kaip ir aukštųjų viduramžių nustatyme, čia skiriasi tai, kad kartu su žmonėmis egzistuoja nežmoniškos būtybės (elfai, nykštukai ir kt.), dažnai susivienijusios su žmonėmis prieš orkus, trolius, goblinus ir kt. Dievai gali būti aktyvūs, o jų garbintojai gali įgyti dieviškų galių. Magija yra paplitusi, dažni magiški daiktai, tokie kaip gydomieji eliksyrai, magiški kalavijai, užkerėti šarvai ir kt. Gausu senovės griuvėsių, o po žeme driekiasi požemiai.
+Panaši į aukštųjų viduramžių nustatymą, tačiau skiriasi tuo, kad ne žmonių būtybės, tokios kaip elfai, nykštukai ir kt., egzistuoja šalia žmonių, dažnai sudarydamos sąjungas su žmonėmis prieš orkus, trolius, goblinus ir kt. Dievai gali būti aktyvūs, o jų garbintojai įgyja dieviškų gebėjimų. Magija paplitusi, magiški daiktai, tokie kaip gydomieji eliksyrai, magiški kardai, užkerėti šarvai ir kt., yra įprasti. Gausu senovės griuvėsių, o po žeme driekiasi požemiai.
 
-* **Personažų tipai:** Kaip ir aukštųjų viduramžių (žr. aukščiau).
-* **Galios:** Bet kokios. Magija ir burtininkavimas gali būti dieviškos, pragariškos ar pagoniškos kilmės. Kai kurių tipų monstrai gali turėti mutacijų, taip pat gali būti rasių, naudojančių psichines galias. Galingos antgamtinės būtybės gali naudoti supergalias prisidengdamos dieviškomis ar pragariškomis galiomis.
-* **Technologijos:** Kaip ir aukštųjų viduramžių, bet mažiau realistiškos.
+* **Veikėjų tipai:** Kaip ir aukštuosiuose viduramžiuose (aukščiau).
+* **Galios:** Bet kokios. Magija ir burtininkavimas gali būti dieviškos, pragariškos ar pagoniškos kilmės. Tam tikrų tipų monstrų tarpe galima rasti mutacijų, taip pat gali būti rasių, kurios naudoja psichinius gebėjimus. Galingos antgamtinės būtybės gali naudoti supergalias dieviškų ar pragariškų gebėjimų pavidalu.
+* **Technologijos:** Kaip ir aukštuosiuose viduramžiuose, bet mažiau realistiškos.
 * **Nuotykiai:** Požemių reidai, magiškų daiktų paieškos, karas, tyrinėjimai ir kt.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Žala ir kūno vietos, Ištvermės taškai, Didesnės pradinės charakteristikos, Hitai pagal vietą, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Nežmoniški personažai, Aistros, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, žala ir kūno vietos, nuovargio taškai, aukštesnės pradinės charakteristikos, pataikymo taškai pagal vietą, padidinti asmeniniai įgūdžių taškai, raštingumas, ne žmonių veikėjai, aistros, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %.
 
 ### Imperatoriškoji Azija
 
-Bendras terminas istoriniams Japonijos ar Kinijos laikotarpiams, taip pat apimantis fantastišką kovos menų pasaulį. Ši kategorija taip pat gali apibūdinti Mogolų Indiją.
+Bendrinis terminas istoriškai Japonijai ar Kinijai, taip pat apimantis fantastišką kovos menų pasaulį. Ši kategorija taip pat gali apibūdinti Mogolų Indiją.
 
-* **Personažų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ar techniką. Rašytojai greičiausiai yra poetai.
-* **Galios:** Magija ir burtininkavimas yra dažni ir gali būti pagrįsti elementariais principais. Intensyvios ezoterinių kovos menų disciplinų studijos leidžia įgyti tokių gebėjimų kaip psichinės ar supergalios.
-* **Technologijos:** Kinijos ir Japonijos menai bei mokslai vystėsi toli už Vakarų pasaulio ribų tuo pačiu laikotarpiu, naudojant spaudos presus, paraką ir kt., kartu su klestinčiu instituciniu mokymusi ir biurokratija.
-* **Nuotykiai:** Gali svyruoti nuo kovų dėl klano ar regiono lyderio pozicijų, taip pat gali įtraukti anakronistinių elementų, kokių pasitaiko mangoje ar anime.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Šaudomųjų ginklų vengimas, Išsilavinimo/Žinių patikrinimas, Didesnės pradinės charakteristikos, Padidinti asmeniniai įgūdžių taškai, Aistros, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Veikėjų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ar techniką. Rašytojai greičiausiai yra poetai.
+* **Galios:** Magija ir burtininkavimas yra dažni ir gali būti pagrįsti elementariaisiais principais. Intensyvios ezoterinių kovos menų disciplinų studijos leidžia įgyti tokius gebėjimus kaip psichinės galios ar supergalios.
+* **Technologijos:** Kinijos ir Japonijos menai ir mokslai išsivystė gerokai labiau nei Vakarų pasaulio tuo pačiu laikotarpiu, su spausdinimo presais, paraku ir kt., kartu su institucionalizuoto mokymosi ir biurokratijos suklestėjimu.
+* **Nuotykiai:** Tai gali svyruoti nuo kovų dėl klano ar regiono vadovo titulo, ir net gali įtraukti anakronistinių elementų, tokių kaip randama mangoje ar anime.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, šaudmenų išvengimas, išsilavinimo / žinių metimas, aukštesnės pradinės charakteristikos, padidinti asmeniniai įgūdžių taškai, aistros, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
 ### Arabų naktys
 
 Senovės arabų ar persų pasaulis, iš esmės pasaulis, apibrėžiamas dykumų ir drąsių nuotykių.
 
-* **Personažų tipai:** Visi, išskyrus žurnalistą, mokslininką ir techniką. Rašytojai dažniausiai yra dvasininkai arba poetai, o mokslininkai – greičiausiai dvasininkai, besidomintys gamtos pasauliu.
+* **Veikėjų tipai:** Bet kuris, išskyrus žurnalistą, mokslininką ir techniką. Rašytojai dažniausiai yra kunigai arba gali būti poetai, o mokslininkai – greičiausiai kunigai, besidomintys gamtos pasauliu.
 * **Galios:** Magija ir burtininkavimas, nors antgamtinės būtybės gali turėti supergalių.
-* **Technologijos:** Žinios apie fizinį pasaulį – matematika, chemija, astronomija, medicina, kiti mokslai – buvo labai išplėtotos, o turtas paprastai galėjo nupirkti gyvenimo kokybę ir veiksmų laisvę.
-* **Nuotykiai:** Gali priminti pasakas arba klasikinius to meto pasakojimus, tyrinėjimus ar senovės prakeiksmus, sandorius su mitinėmis būtybėmis, taip pat apimti personažus nuo pačių žemiausių vagišių iki kilmingų princų ar princesių.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Padidinti asmeniniai įgūdžių taškai, Aistros, Reputacija, Įgūdžių lygiai virš 100%.
+* **Technologijos:** Fizinio pasaulio žinios – matematika, chemija, astronomija, medicina ir kiti mokslai – buvo aukšto lygio, o turtas paprastai leido nusipirkti gyvenimo kokybę ir veiksmų laisvę.
+* **Nuotykiai:** Tai gali priminti pasakas arba klasikinius to laikmečio pasakojimus, tyrinėjimus ar senovės prakeiksmus, sandorius su mitinėmis būtybėmis ir ryžtingus veikėjus nuo žemiausių vagių iki kilnių princų ar princesių.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, padidinti asmeniniai įgūdžių taškai, aistros, reputacija, įgūdžių vertinimai virš 100 %.
 
-### Švietimo amžius ir Renesansas
+### Švietimas ir Renesansas
 
-Tai visų pirma Renesanso epochos Europa, nors ji taip pat gali apimti fantastinę ir išgalvotą realybę, pavyzdžiui, platų Leonardo da Vinči išradimų naudojimą. Laikas, kai menai ir mokslai sparčiai augo, mecenatystė skatino meno plėtrą, su pastebima klasikinio senovės pasaulio įtaka.
+Pirmiausia apie Europą Renesanso eroje, nors tai taip pat galėtų apimti fantastiką ir įsivaizduojamą realybę, pavyzdžiui, platų Leonardo da Vinci išradimų naudojimą. Laikas, kai menai ir mokslai dramatiškai išaugo, mecenatystė skatino meninį vystymąsi, su pastebima klasikinio senovės pasaulio įtaka.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Magija ir burtininkavimas gali egzistuoti, bet būti religinių institucijų draudžiami. Alchemija (magiškų daiktų ir eliksyrų kūrimas) yra populiari mokslininkų veikla.
-* **Technologijos:** Kaip ir aukštųjų viduramžių eroje, tai kvalifikuoto amato, mokslo ir išradimų viršūnė: su laikrodžių mechanizmais, paraku ir tiksliais įrankiais, taip pat tiriant garo, vandens ir vėjo energijos principus. Arbaleto atsiradimas praktiškai panaikino kūno šarvų naudojimą.
-* **Nuotykiai:** Barokinė politinė atmosfera ir gilus skilimas tarp Bažnyčios ir Švietimo kuria dinamišką nustatymą, kuriame personažai gali būti meno mecenatai, įtraukti į intrigas, arba klaidžiojantys išradėjai, kurių atradimai sukelia bėdų. Arba jie gali leistis į atvirus jūras ar keliauti į Naująjį pasaulį.
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Aistros, Reputacija.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Magija ir burtininkavimas gali egzistuoti, bet būti religinių institucijų uždrausti. Alchemija (magiškų daiktų ir eliksyrų kūrimas) yra populiari mokslininkų veikla.
+* **Technologijos:** Kaip ir aukštųjų viduramžių eroje, tai kvalifikuoto meistriškumo, mokslo ir išradimų viršūnė: su laikrodžių mechanizmais, paraku ir tiksliais įrankiais, taip pat tiriant garo, vandens ir vėjo energijos principus. Arbaleto įvedimas praktiškai panaikino kūno šarvų naudojimą.
+* **Nuotykiai:** Barokinė politinė atmosfera ir gilus skilimas tarp Bažnyčios ir Švietimo sukuria dinamišką nustatymą, kur veikėjai gali būti menų mecenatai, įtraukti į intrigą, arba jie gali būti paklydę išradėjai, kurių atradimai sukelia jiems bėdų. Kita vertus, jie gali leistis į atvirą jūrą arba keliauti į Naująjį pasaulį.
+* **Parinktys:** Charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, raštingumas, aistros, reputacija.
 
 ### Tyrinėjimų amžius
 
-Šį laikotarpį žymi Europos plėtra į Šiaurės ir Pietų Ameriką, Afriką, Indiją, Kiniją ir kt., visų pirma dėl kolonizacijos, religinio atsivertimo, teritorijų aneksijos ir oportunizmo. Tai neišvengiamai baigiasi blogai vietiniams gyventojams, kurie yra persekiojami, išnaudojami ir net pavergiami, jų kultūros stumiamos į šalį, kriminalizuojamos ar net išnaikinamos. Anglijoje karalienės Elžbietos I valdymo laikotarpis laikomas aukso amžiumi: tai poezijos, literatūros, mados ir teatro klestėjimas. Tačiau žemyninė Europa draskoma karų. „Swashbuckling“ (nuotykių su kardu) stiliaus nuotykiai yra šio laikotarpio konvencija.
+Šį laikotarpį žymi plėtra iš Europos į Šiaurės ir Pietų Ameriką, Afriką, Indiją, Kiniją ir kt., pirmiausia kolonizacijos, religinio atsivertimo, teritorinės aneksijos ir oportunizmo tikslais. Tai neišvengiamai blogai baigiasi vietinėms tautoms, kurios tampa nuskriaustos, išnaudojamos ir net pavergiamos, jų kultūros nustumiamos į šalį, kriminalizuojamos ar net išnaikinamos. Anglijoje karalienės Elžbietos I valdymo laikotarpis laikomas aukso amžiumi: poezijos, literatūros, mados ir teatro suklestėjimas. Tačiau žemyninė Europa draskoma karų. Nuotykių ieškojimas yra laikotarpio konvencija.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Burtininkavimas, jei praktikuojamas, greičiausiai turi pragariškas šaknis. Mažiau technologiškai pažengusios vietinės kultūros gali naudoti magiją ar burtininkavimą šamaniškų žinių ar raganavimo forma.
-* **Technologijos:** Daugiausia pasižymi Renesanso technologijų patobulinimu ir rafinavimu. Parakas tampa vyraujantis karyboje, laikotarpį apibrėžia ankstyvieji mechanizmai. Vietiniai gyventojai, kurių žemės buvo aneksuotos šiuo laikotarpiu, paprastai buvo mažiau technologiškai pažengę, įveikti pranašesnės ugnies galios.
-* **Nuotykiai:** Tai sudėtingas laikotarpis dėl vergovės ir išnaudojimo institucijų, kurios eina koja kojon su kolonijine plėtra. Nuotykiai Europos žemyne mažiau susiję su šiomis temomis, tai gali būti nuotykiai su kardu ar karinės kampanijos tarp kariaujančių bažnyčių ar didikų.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Šaudomųjų ginklų vengimas, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Aistros, Reputacija, Įgūdžių lygiai virš 100%.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Burtininkavimas, jei praktikuojamas, greičiausiai yra pragariškos kilmės. Technologiškai mažiau pažengusios vietinės kultūros gali naudoti magiją ar burtininkavimą šamaniškų žinių ar raganavimo forma.
+* **Technologijos:** Daugiausia pasižymi Renesanso epochos pasiekimų tobulinimu ir rafinavimu. Karuose tampa paplitęs parakas, o ankstyvieji mechanizmai apibrėžia laikotarpį. Vietinės tautos, kurių žemės šiuo laikotarpiu buvo aneksuotos, paprastai buvo mažiau technologiškai pažengusios, įveiktos pranašesnės ugnies jėgos.
+* **Nuotykiai:** Tai sudėtingas laikotarpis dėl vergijos ir išnaudojimo institucijų, kurios eina ranka rankon su kolonialistine plėtra. Nuotykiai Europos žemyne mažiau linkę nagrinėti šias temas, pavyzdžiui, nuotykių ieškojimas ar karinės kampanijos tarp kariaujančių bažnyčių ar bajorijos.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, šaudmenų išvengimas, padidinti asmeniniai įgūdžių taškai, raštingumas, aistros, reputacija, įgūdžių vertinimai virš 100 %.
 
-### Burlaivių amžius
+### Buriavimo amžius
 
-XIX a. pradžią žymi laivyba ir jūrų mūšiai, derantys su žemės karais visoje Europoje. Tai karių ir karininkų laikas abiejose mūšio lauko pusėse, pėstininkai beprasmiškuose karuose, o gyvenimas dvare išlieka iš esmės nepaliestas.
+XIX a. pradžią žymi jūrininkystė ir jūrų mūšiai, suderinti su sausumos karais visoje Europoje. Tai kareivių ir karininkų laikas kiekvienoje mūšio lauko pusėje, pėstininkai bergždžiuose karuose, kol gyvenimas dvare išlieka beveik nepaliestas.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Burtininkavimas, jei praktikuojamas, greičiausiai bus uždraustas Bažnyčios.
-* **Technologijos:** Technologiškai šis laikotarpis beveik identiškas kolonijinei erai, nors buvo pasiekta laivų gamybos ir didelio masto karybos įrenginių pažanga.
-* **Nuotykiai:** Vyksta kai kurie didžiausi pasaulio sausumos ir jūrų mūšiai, suteikiantys daug medžiagos karinės tematikos susirėmimams. Nuotykiai gali įsigilinti į barokines politines išdaigas, slaptas misijas, išradingą šnipinėjimą, dvaro intrigas ar garbės dvikovas.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Aistros, Reputacija, Įgūdžių lygiai virš 100%.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Burtininkavimas, jei praktikuojamas, greičiausiai Bažnyčios uždraustas.
+* **Technologijos:** Technologiškai šis laikotarpis beveik identiškas kolonijinei erai, nors būta pažangos laivų statyboje ir didelio masto kariniuose įrenginiuose.
+* **Nuotykiai:** Kariaujami kai kurie didžiausi pasaulio sausumos ir jūrų mūšiai, suteikiantys daug medžiagos karinės tematikos susirėmimams. Nuotykiai gali gilintis į barokines politines išdaigas, slaptas misijas, genialų šnipinėjimą, dvaro intrigas ar garbės dvikovas.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, raštingumas, aistros, reputacija, įgūdžių vertinimai virš 100 %.
 
 ### Pramonės amžius
 
-Ši era atitinka Viktorijos epochą ir yra kupina išradimų. Beveik visiškai apibrėžta technologinių ir gamybos pokyčių, kurie pakeičia ankstesnį pasaulį į modernaus amžiaus pirmtaką. Žemiau esantis technologijų skyrius yra išsamiausias nustatymo aprašymas.
+Ši era atitinka Viktorijos laikus ir yra pilna išradimų. Beveik visiškai apibrėžiama technologiniais ir gamybiniais pasiekimais, kurie paverčia ankstesnį pasaulį šiuolaikinio amžiaus pirmtaku; toliau pateiktas Technologijų skyrius yra pats informatyviausias nustatymo aprašymas.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Šiame amžiuje įvyko dar vienas skilimas tarp dvasingumo ir modernizacijos. Magija ir psichinės galios atstovautų vienai kovos pusei, o technologijos gali pasiūlyti įvairių supergalių neįprastų ir eksperimentinių technologijų pavidalu.
-* **Technologijos:** Masinė gamyba ir fabrikinio stiliaus gamyba padarė standartizuotas prekes plačiau prieinamas ir pigesnes nei bet kada žmonijos istorijoje. Garas, anglys, dujos ir kiti energijos šaltiniai yra plačiai žinomi ir naudojami namuose bei miestuose; miestai apšviesti dujiniais žibintais, garo mašinos lenktyniauja per Jungtines Valstijas ir Europą, o vandenynus kerta dideli laivai su anglimis kūrenamais garo varikliais. Chemija tobulinama, o mokslininkai pradeda atrasti daugelį visatos paslapčių. Netrukus pasirodys automobilis, radikaliai pakeisiantis žmonių keliones ir miestus. Alternatyvios istorijos dažnai orientuojasi į „steampunk“, maišant garo variklį ir Viktorijos estetiką bei retro-futurizmą.
-* **Nuotykiai:** Emblematiški nuotykiai turėtų sustiprinti pramonės prieš dvasingumą temas, kai tyrinėjimai ir naujos technologijos dramatiškai susiduria su senaisiais gyvenimo būdais.
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Aistros, Reputacija.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Šis amžius pamatė dar vieną takoskyrą tarp dvasingumo ir modernizacijos. Magija ir psichiniai gebėjimai atstovautų vienai kovos pusei, o technologijos gali pasiūlyti įvairių supergalių neįprastų ir eksperimentinių technologijų pavidalu.
+* **Technologijos:** Masinė gamyba ir gamyklinio stiliaus manufaktūros padarė standartizuotas prekes plačiau prieinamas ir pigesnes nei bet kada anksčiau žmonijos istorijoje. Garas, anglis, dujos ir kiti energijos šaltiniai yra plačiai žinomi ir naudojami namuose bei miestuose, miestai apšviesti dujų šviesomis, garvežiai lenktyniauja per Jungtines Valstijas ir Europą, o vandenynus kerta didžiuliai laivai su anglimi kūrenamais, garais varomais varikliais. Chemija tobulinama, o mokslininkai pradeda atrasti daugybę visatos paslapčių. Netrukus pasirodys automobilis, radikaliai pakeisiantis žmonių keliones ir miestus. Alternatyvios istorijos dažnai orientuojasi į „steampunk“, maišant garo energiją ir Viktorijos laikų estetiką bei retro-futurizmą.
+* **Nuotykiai:** Emblematiški nuotykiai turėtų sustiprinti pramonės ir dvasingumo temą, kur tyrinėjimai ir naujos technologijos dramatiškai susiduria su senais gyvenimo būdais.
+* **Parinktys:** Charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, aistros, reputacija.
 
 ### Viktorijos amžius
 
-Didžiosios Britanijos pramonės revoliucijos viršūnė ir didžiausia Britų imperijos įtaka. Viktorijos amžių apibūdina didžiulė socialinių sluoksnių nelygybė ir agresyvi imperialistinė plėtra visoje Azijoje ir Afrikoje. Tai taip pat didelio asmeninės išraiškos griežtumo laikotarpis.
+Didžiosios Britanijos pramonės revoliucijos viršūnė ir didžiausia Britų imperijos įtaka – Viktorijos amžius pasižymi didžiuliu atotrūkiu tarp socialinių klasių ir agresyvia imperialistine plėtra visoje Azijoje ir Afrikoje. Tai taip pat didelio asmeninės išraiškos taupumo laikas.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Magiją ir burtininkavimą gali praktikuoti okultistai ir intelektualai, ieškantys patirties ribų, o vietinės kultūros šias pačias galias naudoja savo religijose. Keisti, šventvagiški padarai gali būti mutantai, o tuo metu augantis domėjimasis mentalizmu išnaudoja psichines galias.
-* **Technologijos:** Identiškos aprašytoms Pramonės amžiuje (žr. aukščiau).
-* **Nuotykiai:** Dujinių žibintų laikotarpis rodo didelę dichotomiją tarp turtingų diletantų, gyvenančių greta virpančio tamsaus dugno, kuriame glūdi vienos neteisingiausių, nehumaniškiausių sąlygų, kokias žmonija sugebėjo sukelti pati sau.
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Aistros, Reputacija, Sveikas protas.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Magiją ir burtininkavimą gali praktikuoti okultistai ir intelektualai, ieškantys patirties ribos, o vietinės kultūros naudoja šias pačias galias savo religijose. Keistos, šventvagiškos būtybės gali būti mutantai, o era pasižymi augančiu susidomėjimu mentalizmu, naudojančiu psichinius gebėjimus.
+* **Technologijos:** Identiškos aprašytoms Pramonės amžiuje (aukščiau).
+* **Nuotykiai:** Dujų šviesų laikotarpis pateikia didelę dichotomiją tarp turtingų diletantų, gyvenančių šalia kunkuliuojančios tamsiosios pusės, kurioje slepiasi vienos neteisingiausių, nežmoniškiausių sąlygų, kurias žmonija sugebėjo sukelti sau pačiai.
+* **Parinktys:** Charakteristikų verčių pasirinkimas, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, aistros, reputacija, protinė sveikata.
 
-### Vakarai (Laukiniai Vakarai)
+### Laukinių Vakarų era
 
-Ši era vyksta JAV per pilietinį karą ir jam pasibaigus, su visais kaubojais, ginklanešiais, karų dėl ganyklų, „aukso karštinės“ ir sienų plėtros atributais. Vakarus keičia nauji geležinkelio bėgiai, kuriais atvyksta nuolatinis Rytų gyventojų, europiečių, kinų ir išlaisvintų vergų srautas, visi siekiantys užsitikrinti vietą laukiniame naujame pasaulyje. Pavojai apima įvairias indėnų tautas, kovojančias už savo išlikimą, ir pačią didžiulę, nevaldomą aplinką.
+Ši era vyksta JAV pilietinio karo metu ir po jo, su kaubojais, ginklanešiais, karų dėl ganyklų, aukso karštinės ir sienų plėtros laikotarpiu. Vakarus keičia nauji geležinkelio bėgiai, kuriais atvyksta nuolatinis srautas rytiečių, europiečių, kinų ir išlaisvintų vergų, visų siekiančių rasti vietą laukiniame naujame pasaulyje. Pavojai apima įvairias indėnų tautas, kovojančias už patį savo išlikimą, ir pačią didžiulę, nevaldomą aplinką.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Magija ar burtininkavimas gali imituoti indėnų šamanus, raganavimą, vudu ar kitas magiškas tradicijas, kurios galėtų egzistuoti.
-* **Technologijos:** Pramonės amžius lėmė traukinius, kertančius šalį, telegrafus, sudarančius ryšių tinklą, fotografiją, plačią spaudos žiniasklaidą. Era pasibaigia pirmaisiais automobiliais, ankstyvaisiais povandeniniais laivais ir net skraidančiais aparatais. Elektros srovė pakeičia dujinius žibintus, kai čia prasideda modernus pasaulis.
-* **Nuotykiai:** Mitiniai Laukiniai Vakarai apima legendinius ginklanešius, įkūnijančius keršto ir didvyriškumo istorijas ryškiame fone. Vergovės siaubas ir žiaurumai, įvykdyti prieš indėnus, kybo virš šios eros, tačiau patariama ne ignoruoti šiuos aspektus ir jų rimtumą.
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Aistros, Reputacija.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Magija ar burtininkavimas galėtų imituoti indėnų šamanus, raganavimą, vudu ar kitas magiškas tradicijas, kurios galėtų egzistuoti.
+* **Technologijos:** Pramonės amžius lėmė traukinius, kertančius šalį, telegrafus, sudarančius ryšių tinklą, fotografiją, plačią spaudos žiniasklaidą. Eros pabaigoje pasirodo pirmieji automobiliai, ankstyvieji povandeniniai laivai ir net skraidymo mašinos. Elektros srovė pakeičia dujų šviesas, kai čia prasideda šiuolaikinis pasaulis.
+* **Nuotykiai:** Mitiniai Laukiniai Vakarai apima legendinius ginklanešius, vaidinančius keršto ir didvyriškumo istorijas ryškiame fone. Vergijos siaubai ir žiaurumai, įvykdyti prieš indėnus, kybo virš šios eros, tačiau patariama neatmesti šių aspektų ir jų rimtumo.
+* **Parinktys:** Charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, aistros, reputacija.
 
 ### „Pulp“ era
 
-Pavadinta pagal pigų laikraščių popierių nuotykių žurnalams, kurie apibrėžė šią erą. Populiarioji kultūra apie laikotarpį tarp pirmojo ir antrojo pasaulinių karų yra masinių pramogų, tarptautinių kelionių į egzotiškas vietas, organizuoto nusikalstamumo, technologinių inovacijų, lobių medžioklės, tvirto individualizmo, taip pat keisto siaubo ir kaukėtų kovotojų su nusikalstamumu laikotarpis.
+Pavadinta pagal pigų laikraščių popierių nuotykių žurnalams, kurie apibrėžė erą, popkultūra apie laikotarpį tarp pirmojo ir antrojo pasaulinių karų yra masinės pramogos, tarptautinių kelionių į egzotiškas vietas, organizuoto nusikalstamumo, technologinių inovacijų, lobių paieškų, tvirto individualizmo, taip pat keisto siaubo ir kaukėtų kovotojų su nusikalstamumu laikotarpis.
 
-* **Personažų tipai:** Bet kuris.
+* **Veikėjų tipai:** Bet kuris.
 * **Galios:** Bet kokios.
-* **Technologijos:** „Pulp“ literatūrai dažnai būdingas keistas mokslas, pavyzdžiui, mirties spinduliai, milžiniški robotai, skraidantys aparatai, mintis veikiantys prietaisai ir žemės gręžimo mašinos, taip pat nuostabūs stebuklai, tokie kaip erdvėlaiviai, galintys skristi į tarpžvaigždinę erdvę, reaktyvinės kuprinės, radijo imtuvai ant riešo, skraidantys automobiliai ir panašiai. Anakronistinės technologijos yra „pulp“ eros pagrindas.
-* **Nuotykiai:** Paslaptys; trileriai; kraupus siaubas; nežinomybės tyrinėjimai, erdvės ir tuščiavidurės žemės; prarasti miestai, kuriuose vis dar gyvenama; oro nuotykiai; intriguojančios istorijos; keistos ir šiurpios istorijos apie keistus nusikaltimus; stačiakampio žandikaulio herojai, kovojantys su grėsmingais nusikalstamumo valdovais ir jų pakalikais; ateivių invazija; ir net kaukėti keršytojai, vykdantys šaltą teisingumą... visa tai yra galimų „pulp“ nuotykių elementai.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Šaudomųjų ginklų vengimas, Išsilavinimo/Žinių patikrinimas, Didesnės pradinės charakteristikos, Padidinti asmeniniai įgūdžių taškai, Galios naudojimas veiksmų fazėje, Aistros, Reputacija, Sveikas protas, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Technologijos:** „Pulp“ dažnai pasižymi keistu mokslu, pavyzdžiui, mirties spinduliais, milžiniškais robotais, skraidymo mašinomis, protą veikiančiais prietaisais ir žemės gręžimo mašinomis, taip pat nuostabiais stebuklais, tokiais kaip laivai, galintys skristi į tarpžvaigždinį erdvę, reaktyviniai krepšiai, riešiniai radijo imtuvai, skraidantys automobiliai ir pan. Anakronistinės technologijos yra „pulp“ eros pagrindas.
+* **Nuotykiai:** Paslaptys; trileriai; šiurpus siaubas; nežinomybės, kosmoso ir tuščiavidurės žemės tyrinėjimai; prarasti miestai, kuriuose vis dar gyvenama; oro nuotykiai; įtemptos situacijos; keistos ir šiurpios istorijos apie keistus nusikaltimus; herojai, kovojantys su grėsmingais nusikalstamumo valdovais ir jų pakalnikais; ateivių invazija; ir net kaukėti keršytojai, vykdantys šaltą teisingumą... visi šie elementai yra galimų „pulp“ nuotykių dalys.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, šaudmenų išvengimas, išsilavinimo / žinių metimas, aukštesnės pradinės charakteristikos, padidinti asmeniniai įgūdžių taškai, galios naudojimas veiksmų fazėje, aistros, reputacija, protinė sveikata, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
 ### Planetiniai nuotykiai
 
-Šis nustatymas orientuojasi į keliones į keistus pasaulius, matomus žmonių, atsiųstų į juos paslaptingais būdais, akimis. Ten jie neišvengiamai susiduria su ateivių rūšimis, keistais papročiais, senovės griuvėsiais ir barokiškomis supertechnologijomis, dažnai greta „kalavijo ir sandalų“ stiliaus nuotykių.
+Šis nustatymas orientuojasi į keliones į keistus pasaulius, matomus žmonių, atsiųstų į juos paslaptingais būdais, akimis. Ten jie neišvengiamai susiduria su ateivių rūšimis, keistais papročiais, senovės griuvėsiais ir barokinėmis supertechnologijomis, dažnai šalia „kardo ir sandalų“ stiliaus nuotykių.
 
-* **Personažų tipai:** Bet kuris.
-* **Galios:** Paprastai mutacijos ar psichinės galios, arba net supergalios.
-* **Technologijos:** Paprastai tai neįtikėtinos galios ir naudingumo senovės ir beveik pamirštų technologijų derinys greta genialiai išradėjų sukurtų supermokslo pasiekimų. Kariai gali nešiotis energinius pistoletus kartu su kalavijais, skraidyti oro laivais ir joti ant ateivių žirgų.
-* **Nuotykiai:** Personažai paprastai siunčiami į šiuos pasaulius nepaaiškinamais būdais ir dažnai stengiasi suprasti savo naują aplinką bei jos iššūkius. Jie turi naršyti keistus papročius ir senovės tradicijas, gali tapti pokyčių agentais šiose keistose ateivių vietose. Išdavystės, epinė meilė, dramatiški likimo posūkiai, sąjungos su keistais padarais, prarasti miestai, pilni senovės ir pamirštų technologijų... visa tai yra planetinių nuotykių pagrindas.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Šaudomųjų ginklų vengimas, Didesnės pradinės charakteristikos, Padidinti asmeniniai įgūdžių taškai, Nežmoniški personažai, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Veikėjų tipai:** Bet kuris.
+* **Galios:** Paprastai mutacijos arba psichiniai gebėjimai, ar net supergalios.
+* **Technologijos:** Paprastai senovės ir beveik pamirštų technologijų, pasižyminčių neįtikėtina galia ir naudingumu, derinys kartu su genialiais išradėjų supermokslais. Kariai gali nešiotis energijos pistoletus kartu su kardais, skraidyti oro laivais ir jodinėti ateivių atmainomis.
+* **Nuotykiai:** Veikėjai dažniausiai siunčiami į šiuos pasaulius nepaaiškinamais būdais ir dažnai kovoja, kad suprastų savo naują aplinką ir jos iššūkius. Jie turi naršyti keistus papročius ir senovės tradicijas, ir gali tapti pokyčių agentais šiose keistose ateivių vietose. Išdavystė, episka meilė, dramatiški išsiskyrimai, staigūs likimo posūkiai, sąjungos su keistomis būtybėmis, prarasti miestai, pilni senovės ir pamirštų technologijų... tai yra planetinių nuotykių pagrindas.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, šaudmenų išvengimas, aukštesnės pradinės charakteristikos, padidinti asmeniniai įgūdžių taškai, ne žmonių veikėjai, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
 ### Antrasis pasaulinis karas
 
-Antrąjį pasaulinį karą ir metus prieš jį bei po jo žymėjo nacionalistinis įkarštis, neapibrėžtumas, globalus konfliktas ir šnipinėjimas. Tai taip pat geras nustatymas karo eros superherojų veiklai.
+Antrasis pasaulinis karas ir metai prieš bei po jo pasižymėjo nacionalistiniu užsidegimu, neapibrėžtumu, pasauliniu konfliktu ir šnipinėjimu. Tai taip pat geras nustatymas karo laikų superherojų veiklai.
 
-* **Personažų tipai:** Beveik bet kuris.
-* **Galios:** Hitlerio Trečiasis Reichas tikėjo magija kaip galios priemone, ir gali būti, kad jie buvo kažką atradę. Be to, daugelyje tokių nustatymų ši era yra pasaulio pirmųjų superherojų su kostiumais aušra.
-* **Technologijos:** Nauji karo technologijų pasiekimai apėmė didesnius ir geresnius karo laivus, sudėtingesnius povandeninius laivus, tankus ir lėktuvus ir kt., tačiau visus juos užtemdė atominės bombos atsiradimas, kuris visam laikui iš esmės apibrėžė mokslo ir politikos kursą.
-* **Nuotykiai:** Personažai gali būti pasipriešinimo kovotojai okupuotoje Europoje, sąjungininkų kariai ar agentai mūšio lauke, šnipai už priešo linijų, kovotojai su nusikalstamumu ir vyriausybės agentai, kovojantys su sabotažu namuose, ar net superherojai su kostiumais, kovojantys namuose ir užsienyje.
-* **Papildomos taisyklės:** Išsilavinimo/Žinių patikrinimas, Ištvermės taškai, Padidinti asmeniniai įgūdžių taškai, Aistros, Sveikas protas.
+* **Veikėjų tipai:** Beveik bet kuris.
+* **Galios:** Hitlerio Trečiasis Reichas tikėjo magija kaip galios priemone, ir jie galėjo būti teisūs. Be to, daugelyje tokių nustatymų šis laikotarpis yra pirmųjų pasaulio superherojų su kostiumais aušra.
+* **Technologijos:** Nauji karo technologijų pokyčiai apėmė didesnius ir geresnius karo laivus, sudėtingesnius povandeninius laivus, tankus, lėktuvus ir kt., tačiau visus juos užtemdė atominės bombos atsiradimas, kuris fundamentaliai apibrėžė mokslo ir politikos kursą visiems laikams.
+* **Nuotykiai:** Veikėjai gali būti pasipriešinimo kovotojai okupuotoje Europoje, sąjungininkų kareiviai ar agentai mūšio lauke, šnipai už priešo linijų, kovotojai su nusikalstamumu ir vyriausybės agentai, kovojantys su diversantais namuose, ar net superherojai su kostiumais, kovojantys namuose ir užsienyje.
+* **Parinktys:** Išsilavinimo / žinių metimas, nuovargio taškai, padidinti asmeniniai įgūdžių taškai, aistros, protinė sveikata.
 
-### „Noir“ (Juodasis trileris)
+### „Noir“
 
-„Noir“ beveik visada yra urbanistinis ir apibrėžiamas niūrios perspektyvos, su gyvenimo nuvargintais herojais, gundymu, klastingu nusikalstamumu, amoraliais aukštuomenės atstovais, moraliniu korupcijos pūliniu, neišvengiamomis išdavystėmis ir kt. Paprastai protagonistus persekioja vidiniai demonai ir jie turi kovoti, kad išgyventų vieni prieš priešišką ir abejingą visatą, dažnai vis dar traumuoti Antrojo pasaulinio karo.
+„Noir“ beveik visada yra urbanistinis ir apibrėžiamas niūriomis perspektyvomis, su pasaulio išvargintais herojais, gundymu, klastingais nusikaltimais, amoraliais aukštuomenės atstovais, moraliniu sugedimu, neišvengiamomis išdavystėmis ir kt. Paprastai protagonistus persekioja vidiniai demonai ir jie turi kovoti, kad išgyventų vieni prieš priešišką ir abejingą visatą, dažnai vis dar traumuoti Antrojo pasaulinio karo.
 
-* **Personažų tipai:** Bet kuris.
-* **Galios:** Paprastai nėra, bet „magiškame noir“ žanre protagonistai arba priešinasi burtininkavimui, arba jį naudoja.
-* **Technologijos:** Ekvivalentas pokario Amerikai ir Europai.
-* **Nuotykiai:** Neišvengiamai – paslaptys, susijusios su etinėmis ir moralinėmis dilemomis, dažnai „nėra išeities“ scenarijai, kai paprasti žmonės įkliūva į blogas aplinkybes ir turi griebtis desperatiškų priemonių.
-* **Papildomos taisyklės:** Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Aistros.
+* **Veikėjų tipai:** Bet kuris.
+* **Galios:** Paprastai jokių, bet magiškame „noir“ protagonistai arba priešinasi burtininkavimui, arba jį naudoja.
+* **Technologijos:** Atitinka pokario Ameriką ir Europą.
+* **Nuotykiai:** Neišvengiamai paslaptys, susijusios su etinėmis ir moralinėmis dilemomis, dažnai scenarijai be išeities, kur paprasti žmonės yra įkalinti blogų aplinkybių ir turi griebtis desperatiškų priemonių.
+* **Parinktys:** Išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, aistros.
 
 ### Modernusis laikotarpis
 
-Šiandiena, XXI a. aušra, su pažangiomis visuomenėmis, globalia informacine struktūra, nekontroliuojamu kapitalizmu ir beribėmis technologijomis, viskas progresuoja neįsivaizduojamu greičiu link beveik tikros globalios griūties. Šis nustatymas taip pat yra numatytoji era trileriams ir moderniam siaubui. Tai taip pat gali apimti Šaltąjį karą.
+Dabartis, XXI a. aušra, su pažangiomis visuomenėmis, pasauline informacine struktūra, nekontroliuojamu kapitalizmu ir neribotomis technologijomis, viskas progresuoja neįsivaizduojamu greičiu link beveik tikros pasaulinės griūties. Šis nustatymas taip pat yra numatytoji era trileriams ir šiuolaikiniam siaubui. Tai taip pat gali apimti Šaltąjį karą.
 
-* **Personažų tipai:** Bet kuris.
+* **Veikėjų tipai:** Bet kuris.
 * **Galios:** Bet kokios.
-* **Technologijos:** Gali būti realistiškos arba superpažangios, priklausomai nuo poreikių.
-* **Nuotykiai:** Bet kokie, nuo siaubo, trilerių, karinių veiksmų, šnipų, korporacinių intrigų, artimos ateities sci-fi, distopinių, tarptautinių intrigų, sąmokslų, superherojų ir kt.
-* **Papildomos taisyklės:** Gali skirtis priklausomai nuo žanro.
+* **Technologijos:** Gali būti realistiškos arba itin pažangios, kaip pageidaujama.
+* **Nuotykiai:** Bet kokie, nuo siaubo, trilerių, karinių veiksmų, šnipų, korporacinių intrigų, artimos ateities mokslinės fantastikos, distopijos, tarptautinių intrigų, sąmokslų, superherojų ir kt.
+* **Parinktys:** Gali skirtis priklausomai nuo žanro.
 
-### Superpasaulis
+### „Super World“
 
-Mūsų pasaulis, bet su superherojais su kostiumais, o superherojų pasekmės yra istorijos ir šiuolaikinio gyvenimo dalis. Superherojų nustatymas gali įtraukti alternatyvią istoriją, lygiagrečias realybes, keliones laiku, ateivius, magiją, sąmokslo teorijas ar bet ką kita.
+Mūsų pasaulis, bet su superherojais su kostiumais, o superherojų pasekmės yra istorijos ir šiuolaikinio gyvenimo dalis. Superherojų nustatymas gali apimti alternatyvią istoriją, paralelines realybes, keliones laiku, ateivius, magiją, sąmokslo teorijas ar bet ką kita.
 
-* **Personažų tipai:** Bet kuris.
-* **Galios:** Bet kokios, daugelis personažų turi daugiau nei vieną galios tipą.
-* **Technologijos:** Kaip ir moderniaisiais laikais. Nors supermokslas yra žinomas, jis dar neturėjo reikšmingos įtakos daugumos normalių žmonių gyvenimui.
-* **Nuotykiai:** Didvyriškumo ir iššūkių istorijos, keistų lygiagrečių dimensijų tyrinėjimai ir kt. Superherojai dažnai kovoja su savo alter ego ir slapta tapatybe bei sudėtingais gėrio ir blogio klausimais. Superpasaulio kampanija gali svyruoti nuo ryškaus keturspalvio pasaulio su neaiškiai juokingais piktadariais, beveik mitinio superherojų kaip šiuolaikinių pusdievių traktavimo, svaiginančio galaktikos ir keistų žemės kampelių tyrinėjimo, šiurkščių gatvės nusikaltimų, išsiskiriančių tik likros kostiumais, ar net sukarinto rėmo pasaulį keičiančioms superherojų intervencijoms.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Šaudomųjų ginklų vengimas, Išsilavinimo/Žinių patikrinimas, Didesnės pradinės charakteristikos, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Nežmoniški personažai, Aistros, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Veikėjų tipai:** Bet kuris.
+* **Galios:** Bet kokios, ir daugelis veikėjų turi daugiau nei vieną galios tipą.
+* **Technologijos:** Kaip moderniame. Nors supermokslas yra žinomas, jis dar neturi reikšmingo poveikio daugumos normalių žmonių gyvenimui.
+* **Nuotykiai:** Didvyriškumo ir iššūkių istorijos, keistų paralelių matmenų tyrinėjimai ir kt. Superherojai dažnai grumiasi su savo alter ego ir slaptomis tapatybėmis bei sudėtingais gėrio ir blogio klausimais. „Super world“ kampanija gali svyruoti nuo ryškaus pasaulio su gana juokingais piktadariais, iki beveik mitinio superherojų kaip modernių pusdievių traktavimo, svaiginančių galaktikos ir keistų žemės kampelių tyrinėjimų, šiurkščių nusikaltimų gatvėse, išsiskiriančių tik aptemptais kostiumais, ar net sukarinto rėmo pasaulį keičiančiai superherojų intervencijai.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, šaudmenų išvengimas, išsilavinimo / žinių metimas, aukštesnės pradinės charakteristikos, padidinti asmeniniai įgūdžių taškai, raštingumas, ne žmonių veikėjai, aistros, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
-### Postapokalipsė
+### Postapokaliptinis laikotarpis
 
-Katastrofa visam laikui sudaužė modernų pasaulį, įstumdama jį į būseną, kurioje žmonija turi kovoti dėl išlikimo. Priežastis gali būti ribotas branduolinis apsikeitimas smūgiais, netinkamai pakrypęs mokslas, ateivių invazija, pabudę Senieji dievai, visuomenės griūtis, pandemija, aplinkosauginė katastrofa arba zombiai... arba daugiau nei vienas iš šių veiksnių. Nustatymas gali apimti mutantus, surinktas iš griuvėsių technologijas ir plėšikų gaujas. Kai kurie postapokaliptiniai nustatymai yra panašūs į vesternus, su mažais įtarių miestelėnų anklavais ir klaidžiojančiais vienišiais, kurie turi pasikliauti savo sąmoju ir ginklais, kad išgyventų.
+Katastrofa visam laikui sudaužė šiuolaikinį pasaulį, įstumdama jį į būseną, kurioje žmonija turi kovoti už išlikimą. Priežastis gali būti ribotas branduolinis apsikeitimas, neteisingai pasukęs mokslas, ateivių invazija, pabudę Senieji dievai, visuomenės griūtis, pandemija, aplinkos katastrofa ar zombiai... arba daugiau nei viena iš šių. Nustatymas gali apimti mutantus, surinktas technologijas ir plėšikaujančias gaujas. Kai kurie postapokaliptiniai nustatymai primena vesternus, su mažais įtarių miestiečių anklavais ir klaidžiojančiais vienišiais, kurie turi pasikliauti savo protu ir ginklais, kad išgyventų.
 
-* **Personažų tipai:** Neseniai įvykusios apokalipsės atveju išgyvenusieji gali būti bet kokios profesijos, vėliau galimybės tampa labiau ribotos.
-* **Galios:** Mutacijos nustatymuose su radiacija, o psichinės galios ir supergalios taip pat galėjo išsivystyti po kritulių. Po šimtmečių žmonės galėjo iš naujo atrasti magiją ar burtininkavimą.
-* **Technologijos:** Priklausomai nuo katastrofos pobūdžio, technologijos gali būti senovinės, lyginant su moderniu pasauliu, identiškos arba gali pasižymėti mokslo pažanga, tolima nuo mūsų eros. Jei tai ateiviai, gali būti ateivių technologijų.
-* **Nuotykiai:** Postapokaliptinės istorijos paprastai nagrinėja išlikimo brutalumą ir kainą arba pastangas atstatyti visuomenę. Gali prireikti ieškoti senų technologijų ir sužinoti, ką galima rasti griuvėsiuose.
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Ištvermės taškai, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Nežmoniški personažai, Sveikas protas.
+* **Veikėjų tipai:** Neseniai įvykusios apokalipsės atveju išgyvenusieji gali būti iš bet kokios profesijos, o vėliau pasirinktys tampa labiau ribotos.
+* **Galios:** Mutacijos nustatymuose su radiacija, o psichiniai gebėjimai ir supergalios taip pat galėjo išsivystyti nuo radioaktyvių kritulių. Po šimtmečių žmonės galėjo iš naujo atrasti magiją ar burtininkavimą.
+* **Technologijos:** Priklausomai nuo katastrofos pobūdžio, technologijos gali būti pasenusios, palyginti su šiuolaikinio pasaulio technologijomis, identiškos arba jose gali būti mokslinių pasiekimų, tolimų nuo mūsų eros. Jei tai ateiviai, gali būti ateivių technologijų.
+* **Nuotykiai:** Postapokaliptinės istorijos dažniausiai nagrinėja išgyvenimo žiaurumą ir kainą arba pastangas atstatyti visuomenę. Gali prireikti surinkti senas technologijas ir sužinoti, ką galima rasti griuvėsiuose.
+* **Parinktys:** Charakteristikų verčių pasirinkimas, nuovargio taškai, padidinti asmeniniai įgūdžių taškai, raštingumas, ne žmonių veikėjai, protinė sveikata.
 
 ### Artima ateitis / „Cyberpunk“
 
-Žmonija toliau sąveikauja su technologijomis ir procese daug ką prarado. Megakorporacijos perėmė vyriausybės lygio kontrolę virš piliečių, o žinios yra vertingiausia valiuta. Gyvenimas greitas, patogus, pigus ir lengvai sunaudojamas. Žmonijos ir mašinų sąjunga lėmė stulbinančius genetinių manipuliacijų pokyčius. Duomenų erdvė (Dataspace) yra tokia pat tikra, jei ne labiau, nei distopinis materialus pasaulis.
+Žmonija toliau integravosi su technologijomis ir procese daug ką prarado. Megakorporacijos perėmė vyriausybinio lygio kontrolę piliečiams, o žinios yra pati vertingiausia valiuta. Gyvenimas greitas, patogus, pigus ir lengvai vienkartinis. Žmonijos ir mašinų sąjunga lėmė stulbinančius pokyčius genetinės manipuliacijos srityje. Duomenų erdvė yra tokia pat tikra, jei ne labiau, nei distopinė materialiame pasaulyje.
 
-* **Personažų tipai:** Beveik bet kuris.
+* **Veikėjų tipai:** Beveik bet kuris.
 * **Galios:** Bet kokios, paprastai imituojamos technologijų.
-* **Technologijos:** Modernus pasaulis su greičio pedalais. Kosmoso kelionės galėjo tapti kasdienybe, o virtualūs pasauliai yra beribiai.
-* **Nuotykiai:** Maištas ir tapatybės paieškos yra įprastos šių nuotykių temos, o personažai gali atsidurti bėgantys už savo gyvybes, bandydami išlikti priekyje monolitiškų, neasmeniškų priešų, kurie atrodo visur esantys.
-* **Papildomos taisyklės:** Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Išsilavinimo/Žinių patikrinimas, Padidinti asmeniniai įgūdžių taškai, Sveikas protas, Įgūdžių lygiai virš 100%.
+* **Technologijos:** Šiuolaikinis pasaulis su padidinta galia. Kelionės į kosmosą galėjo tapti įprastos, o virtualūs pasauliai yra beribiai.
+* **Nuotykiai:** Maištas ir tapatybės paieškos yra įprastos temos šiuose nuotykiuose, o veikėjai gali rasti save bėgančius už savo gyvybę, bandydami išlikti priekyje monolitiškų, neasmeniškų priešų, kurie atrodo esą visur.
+* **Parinktys:** Atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, išsilavinimo / žinių metimas, padidinti asmeniniai įgūdžių taškai, protinė sveikata, įgūdžių vertinimai virš 100 %.
 
 ### Kosmoso tyrinėjimai
 
-Šiame kietojo mokslo fantastikos nustatyme kosmoso tyrinėjimai dideliu mastu arba vyksta, arba neseniai buvo pradėti. Gyvenimas Žemėje ir už jos ribų tęsiasi taip pat, kaip ir anksčiau. Politiniai konfliktai formuoja plėtrą per žvaigždes, o gyvenamų planetų ar išteklių paieška dominuoja didžiojoje tyrinėjimų dalyje.
+Šiame kietosios mokslinės fantastikos nustatyme kosmoso tyrinėjimai dideliu mastu vyksta arba neseniai įsitvirtino. Gyvenimas Žemėje ir už jos ribų tęsiasi taip pat, kaip ir anksčiau. Politiniai konfliktai formuoja plėtrą tarp žvaigždžių, o tinkamų gyventi planetų ar išteklių paieška dominuoja didžiojoje dalį tyrinėjimų.
 
-* **Personažų tipai:** Bet kuris.
-* **Galios:** Mutacijos ir psichinės galios gali egzistuoti, bet dažnai būna šiurpios ir bauginančios.
-* **Technologijos:** Paprastai šis nustatymas turi mokslinį požiūrį į kosmoso keliones, o technologijos lengvai ekstrapoliuojamos iš šiuolaikinių technologijų.
-* **Nuotykiai:** Kosmoso jūroje gali išsiskleisti daugybė žmogiškų dramų ir konfliktų, kurie kelia didžiausią iššūkį išlikimui. Aplinkos iššūkiai ar epiniai užmojai gali būti žymūs nuotykiai, o Saulės sistemos pakraščių tyrinėjimas gali suvesti žmoniją akis į akį su kitomis paslaptimis, pavyzdžiui, pirmuoju kontaktu su ateivių gyvybe. Ar tai bus siaubinga, ar nuostabu?
-* **Papildomos taisyklės:** Charakteristikų verčių pasirinkimas, Padidinti asmeniniai įgūdžių taškai, Nežmoniški personažai, Įgūdžių lygiai virš 100%.
+* **Veikėjų tipai:** Bet kuris.
+* **Galios:** Mutacijos ir psichiniai gebėjimai gali egzistuoti, bet dažnai būti keisti ir siaubingi.
+* **Technologijos:** Paprastai šis nustatymas turi mokslinį požiūrį į skrydžius į kosmosą, o technologijos lengvai ekstrapoliuojamos iš šiuolaikinių technologijų.
+* **Nuotykiai:** Daug žmogiškųjų dramų ir konfliktų gali vykti kosmoso jūroje ir tai pateikia didžiausią iššūkį išlikimui. Aplinkos iššūkiai ar episki užmojai gali būti žymūs nuotykiai, o Saulės sistemos pakraščių tyrinėjimas gali priversti žmoniją susidurti su kitomis paslaptimis, pavyzdžiui, pirmuoju kontaktu su ateivių gyvybe. Ar tai bus siaubinga, ar nuostabu?
+* **Parinktys:** Charakteristikų verčių pasirinkimas, padidinti asmeniniai įgūdžių taškai, ne žmonių veikėjai, įgūdžių vertinimai virš 100 %.
 
 ### Kosminė opera
 
-Ši kosmoso kelionių ir „pulp“ nuotykių sintezė išdėstyta galaktikiniame fone, kupina ateivių, kurie dirba ir gyvena kartu su žmonija, įvairaus bendradarbiavimo laipsniu. Gali būti koks nors viską apibrėžiantis galaktikinis konfliktas arba tai gali būti epinės grėsmės Žemei (ar kitai planetai) atvejis. Kai kuriuose kosminės operos nustatymuose gali egzistuoti mistinės galios – psichinės ar ateivių tikėjimo sistemos, suteikiančios keistų galių savo vartotojams.
+Ši kelionių į kosmosą ir „pulp“ nuotykių sintezė vyksta galaktiniame fone, pilname ateivių, kurie dirba ir gyvena kartu su žmonija, įvairiais bendradarbiavimo laipsniais. Gali būti koks nors viską lemiantis galaktinis konfliktas arba tai gali būti episko pavojaus Žemei (ar kitai planetai) atvejis. Kai kuriuose kosminės operos nustatymuose gali egzistuoti mistinės galios – psichinės ar ateivių tikėjimo sistemos, suteikiančios vartotojams keistų galių.
 
-* **Personažų tipai:** Bet kuris.
-* **Galios:** Ateiviai gali būti sukurti naudojant mutacijas, psichinės galios gali reprezentuoti mistines galias arba atsirandančias galias, o supergalios gali modeliuoti kibernetinius implantus. Kai kuriuose kosminės operos nustatymuose taip pat gali egzistuoti burtininkavimas ar magija, remiantis moksliniais principais, o ne antgamtinėmis jėgomis.
-* **Technologijos:** Technologijų lygis labai skiriasi nuo planetos iki planetos: kai kurios gali turėti tik primityvius ginklus ir inžineriją, o kitos bus technologiškai pažangesnės nei numatytasis lygis. Energiniai ginklai, lazeriai, asmeniniai erdvėlaiviai, energijos skydai... visa tai yra prieinama.
-* **Nuotykiai:** Tai dažnai gausiai sluoksniuota su kitu archetipiniu nustatymu, pavyzdžiui, „pulp“ arba „kalavijo ir magijos“ (sword & sorcery). Kosminės operos nustatymų personažai leisis į aukšto lygio nuotykius ir sieks didžių tikslų, tokių kaip karališkos valdžios siekimas, neteisybės taisymas ar ankstesnio, aukso amžiaus atkūrimas.
-* **Papildomos taisyklės:** Ištikimybė, Atakos ir atsimušimai virš 100%, Charakteristikų verčių pasirinkimas, Kultūriniai modifikatoriai, Šaudomųjų ginklų vengimas, Didesnės pradinės charakteristikos, Padidinti asmeniniai įgūdžių taškai, Raštingumas, Nežmoniški personažai, Aistros, Galios naudojimas veiksmų fazėje, Reputacija, Įgūdžių lygiai virš 100%, Bendri hitai.
+* **Veikėjų tipai:** Bet kuris.
+* **Galios:** Ateiviai gali būti sukurti naudojant mutacijas, psichiniai gebėjimai gali atstovauti mistinėms galioms ar atsirandančioms galioms, o supergalios gali modeliuoti kibernetinius implantus. Kai kuriuose kosminės operos nustatymuose gali egzistuoti burtininkavimas ar magija, remiantis moksliniais principais, o ne antgamtinėmis jėgomis.
+* **Technologijos:** Technologijų lygis labai skiriasi nuo planetos iki planetos: kai kurios gali turėti tik primityvius ginklus ir inžineriją, o kitos bus technologiškai pažangesnės už numatytąją. Energijos ginklai, lazeriai, asmeniniai kosminiai laivai, energijos skydai... visa tai prieinama.
+* **Nuotykiai:** Tai dažnai labai sluoksniuota su kitu archetipiniu nustatymu, pavyzdžiui, „pulp“ ar „kardu ir burtininkavimu“. Veikėjai kosminės operos nustatymuose leisis į didžius nuotykius ir sieks didžių tikslų, tokių kaip karalystė, neteisybės atitaisymas ar ankstesnio aukso amžiaus atstatymas.
+* **Parinktys:** Ištikimybė, atakos ir atmušimai virš 100 %, charakteristikų verčių pasirinkimas, kultūriniai modifikatoriai, šaudmenų išvengimas, aukštesnės pradinės charakteristikos, padidinti asmeniniai įgūdžių taškai, raštingumas, ne žmonių veikėjai, aistros, galios naudojimas veiksmų fazėje, reputacija, įgūdžių vertinimai virš 100 %, bendri pataikymo taškai.
 
 ## Hibridiniai nustatymai
 
-Bet kurią iš aukščiau pateiktų skilčių galima derinti su kita arba įvesti kokių nors naujų elementų, sukuriant unikalų nustatymą, kupiną įdomių ir jaudinančių galimybių. Galima pridėti superherojų elementų į senovės pasaulio nustatymą kampanijai, kurioje dalyvauja mitiniai dievų palikuonys, arba į „kalavijo ir magijos“ nustatymą kažkam, kas primena anime. Kita galimybė – į esamą nustatymą įvesti kažką naujo ir netikėto, „tai panašu į X, bet su Y...“ principu, įvedant ateivius, zombius, vampyrus ar net Ktulhu mitus į netradicinį vieno iš aukščiau nurodytų nustatymų pasirinkimą.
+Bet kurį iš aukščiau pateiktų skyrių galima derinti su kitu arba pristatyti su nauju elementu, sukuriant unikalų nustatymą, kupiną įdomių ir jaudinančių galimybių. Galima pridėti superherojų elementų į senovės pasaulio nustatymą kampanijai, kurioje dalyvauja mitiniai dievų palikuonys, arba į „kardo ir burtininkavimo“ nustatymą kažkam, kas primena anime. Kita galimybė – į esamą nustatymą įtraukti kažką naujo ir netikėto, „Tai kaip X, bet su Y...“ požiūris, pristatant ateivius, zombius, vampyrus ar net Cthulhu mitą netradiciniam pasirinkimui vienam iš aukščiau nurodytų nustatymų.
 
 ## Alternatyvios istorijos
 
-Taip pat galite paimti vieną iš aukščiau aprašytų nustatymų ir pridėti vieną kritinę detalę, kuri skiriasi – kažkoks technologinis vystymasis įvyksta šimtmečiais anksčiau, kažkoks garsus mūšis pasisuka kitaip, koks nors svarbus veikėjas elgiasi kitaip, nei rodo istorija, ar kokia nors svarbi veikla turi kitokį rezultatą nei realybėje – sukuriant tai, kas vadinama „alternatyvia istorija“, pavyzdžiui: „Kas būtų, jei JAV pralaimėtų Nepriklausomybės karą?“ arba „Kas būtų, jei Čingischano ordos nebūtų pasukusios atgal ir užkariautų visą Europą?“. Ekstrapoliuojant iš ten, galima sukurti intriguojantį variantinį nustatymą, kuriame pažįstami elementai buvo pertvarkyti visai kitokios istorijos. Toks nustatymas puikiai veikia pats savaime, bet taip pat gali būti derinamas su lygiagrečiomis realybėmis ar net kelionėmis laiku. Ar yra kas nors, ką personažai gali padaryti, kad atkurtų pasaulį, kurio jie niekada nepažinojo?
+Taip pat galėtumėte paimti vieną iš aukščiau aprašytų nustatymų ir pridėti vieną kritinę detalę, kuri yra kitokia – koks nors technologinis pokytis įvyksta šimtmečiais anksčiau, koks nors garsus mūšis baigiasi kitaip, kokia nors svarbi figūra elgiasi kitaip, nei istorija juos vaizdavo, ar kokia nors svarbi veikla turi kitokį rezultatą nei nutiko – sukuriant tai, kas vadinama „alternatyvia istorija“, pavyzdžiui, „Kas būtų, jei JAV būtų pralaimėjusi Nepriklausomybės karą?“ arba „Kas būtų, jei Čingischano ordos nebūtų pasukusios atgal, o užkariavusios visą Europą?“. Ekstrapoliuojant iš ten, galima sukurti intriguojantį variantinį nustatymą, kur pažįstami elementai buvo pertvarkyti visiškai kitokios istorijos. Toks nustatymas puikiai veikia savarankiškai, bet taip pat gali būti derinamas su paralelinėmis realybėmis ar net kelionėmis laiku. Ar yra kas nors, ką veikėjai gali padaryti, kad atkurtų pasaulį, kurio jie niekada nepažinojo?
 
 ## Keli nustatymai
 
-Kadangi *Basic Roleplaying* sistema tinka daugeliui skirtingų nustatymų, galite netgi naudoti juos visus, perkeldami personažus per keistus portalus, keliones laiku ar kitu būdu, leidžiančiu jiems šokinėti tarp pasaulių, visą laiką ir erdvę paverčiant savo žaidimų aikštele. Gali būti tik viena lygiagreti realybė, kuri yra visiškai kitoks nustatymas (galbūt jų pačių Žemės variantas), arba tai gali būti keletas lygiagrečių pasaulių su savo išskirtiniais bruožais. Arba personažai iš esmės gali būti nemirtingi ir pradėti kokioje nors tolimoje ir ankstesnėje epochoje, patirdami nuotykius, apimančius visą žmonijos istoriją, taip visiškai išnaudojant beveik kiekvieną šio skyriaus nustatymą.
+Kadangi *Basic Roleplaying* tinka daugeliui skirtingų nustatymų, galite net naudoti juos visus, judindami veikėjus per keistus portalus, keliones laiku ar kokį kitą metodą, leidžiantį jiems šokinėti tarp pasaulių, kai visas laikas ir erdvė yra jų žaidimų aikštelė. Gali būti tik viena paralelinė realybė, kuri yra visiškai kitoks nustatymas (galbūt jų pačių Žemės variantas), arba tai gali būti kelios paralelinės pasauliai su savo savitais bruožais. Kita vertus, veikėjai galėtų būti iš esmės nemirtingi ir pradėti kažkokioje tolimoje ir ankstesnėje epochoje, turėdami nuotykius, kurie apima visą žmonijos istoriją, leidžiant pilnai išnaudoti beveik kiekvieną šio skyriaus nustatymą.
 
 ## Galios ir nustatymas
 
-*Ketvirtas skyrius: Galios* pateikia penkias skirtingas galių sistemas įvairių tipų be didelio konteksto – pavyzdžiui, kokiems nustatymams šios galios yra tinkamos. Kiekviename aukščiau pateiktame nustatymo aprašyme įtrauktos galios, kurios tradiciškai su juo siejamos. Naujesni nustatymai gali kilti derinant galias nustatymuose, kurie nėra tie, su kuriais jos tradiciškai siejamos.
+*Ketvirtas skyrius: Galios* pristato penkias skirtingas galių sistemas įvairių tipų be didelio konteksto – pavyzdžiui, kuriuose nustatymuose šios galios yra tinkamos. Kiekviename aukščiau pateiktame nustatymo aprašyme įtrauktos galios, su kuriomis jis tradiciškai siejamas. Naujesni nustatymai gali kilti derinant galias nustatymuose, kurie nėra tie, su kuriais jos tradiciškai siejamos.
 
-*Pavyzdžiui, pridėjus mutacijas į Tamsiųjų amžių nustatymą, kur personažai neša šias keistas stigmą. Ar jos dieviškos kilmės, ar pragariškos? Bažnyčia gali manyti, kad šie keisti gebėjimai ir deformacijos yra demoniško kraujo rezultatas, o patys personažai gali tikėti, kad tai dangaus dovanos, ir naudoti savo gebėjimus gėriui, kovodami už pasaulį, kuris jų bijo ir nekenčia.*
+*Pavyzdžiui, mutacijų pridėjimas į „Tamsiųjų amžių“ nustatymą, kai veikėjai neša šias keistas stigmą. Ar jos dieviškos kilmės, ar pragariškos? Bažnyčia gali galvoti, kad šie keisti gebėjimai ir deformacijos yra demoniško kraujo rezultatas, o veikėjai gali tikėti, kad tai dangaus dovanos, ir naudoti savo gebėjimus gėriui, kovodami už pasaulį, kuris jų bijo ir nekenčia..*
 
 ## Adaptacija
 
-Taip pat galite adaptuoti nustatymą iš grožinės literatūros, filmų, televizijos laidų, komiksų, kitų žaidimų ar kitų medijų į nustatymą, naudojant šias taisykles. Yra daug licencijuotų žaidimų, tačiau akivaizdžiausia priežastis yra tada, kai nustatymas patinka jums ir žaidėjams, bet nėra prieinamos taisyklių sistemos. Yra daug metodų, kuriuos galite pasirinkti norėdami adaptuoti nustatymą naudojant *Basic Roleplaying*, o darbo kiekis beveik visiškai priklauso nuo jūsų ambicijų ir laiko, kurį esate pasiryžę tam skirti. Toliau pateikiama viena iš gairių, kaip adaptuoti nustatymą iš kitos medijos į žaidžiamą žaidimą:
+Taip pat galite adaptuoti nustatymą iš grožinės literatūros, filmų, televizijos laidų, komiksų, kitų žaidimų ar kitos medijos į nustatymą, naudodami šias taisykles. Yra daug licencijuotų žaidimų, tačiau akivaizdžiausia priežastis yra ta, kai nustatymas patinka jums ir žaidėjams, bet nėra jokių prieinamų taisyklių. Yra daug metodų, kuriuos galite pasirinkti adaptuodami nustatymą naudodami *Basic Roleplaying*, o darbo kiekis beveik visiškai priklauso nuo jūsų ambicijų ir laiko, kurį esate pasirengę tam skirti. Toliau pateikiamas vienas būdas adaptuoti nustatymą iš kitos terpės į žaidžiamą žaidimą:
 
 ### Ištikimybė
 
-Kiek vergų (ištikimai) laikysitės nustatymo? Ar bandysite jį emuliuoti tiksliai, laikydami nekintamu kanonu, ar naudosite jį kaip šaltinį savo tikslams? Kai kurie nustatymai yra nepaprastai atviri kūrybinei plėtrai, o kiti – labiau riboti. Turėtumėte nuspręsti, kiek pastangų įdėsite į tikslaus nustatymo jausmo sukūrimą arba ar leisite dominuoti savo skoniui ir idėjoms. Nei vienas būdas nėra geresnis už kitą – jie tiesiog patinka skirtingiems žaidimo meistravimo stiliams ir skirtingiems žaidėjų lūkesčiams.
+Kaip vergauti ketinate būti nustatymui? Ar bandysite jį emuliuoti tiksliai, traktuodami kaip nekeičiamą kanoną, ar naudosite jį kaip šaltinį savo tikslams? Kai kurie nustatymai yra stebėtinai atviri kūrybiniam plėtimuisi, o kiti yra labiau riboti. Turėtumėte nuspręsti, kiek pastangų įdėsite stengdamiesi perteikti tikslų nustatymo pojūtį, ar leisite savo skoniui ir idėjoms dominuoti. Nė vienas būdas nėra geresnis už kitą – jie tiesiog kreipiasi į skirtingus žaidimo meistravimo stilius ir skirtingus žaidėjų lūkesčius.
 
-Nustatymo nukopijavimas tiksliai patinka originalaus nustatymo gerbėjams, kurie tikisi, kad jis turi pakankamai laisvės leisti žaidėjų personažams kažką nuveikti. Patrauklumas akivaizdus: jiems patinka pasaulis ir jie nori jaustis jame pasinėrę. Žaidėjų pažintis ir „įsitraukimas“ labai padeda. Šis sprendimas turi įtakos tam, kaip turėtumėte elgtis su personažais, aprašytais skyriuje „Personažai adaptuotame nustatyme“.
+Tikslus nustatymo kopijavimas yra patrauklus originalaus nustatymo gerbėjams, kurie, tikėkimės, turi pakankamai erdvės leisti veikėjams kažką daryti. Patrauklumas akivaizdus: jiems patinka pasaulis ir jie nori jaustis jame įsitraukę. Žaidėjų pažintis ir „įsipirkimas“ labai padeda. Šis sprendimas daro įtaką tam, kaip turėtumėte elgtis su veikėjais, aprašytais dalyje „Veikėjai adaptuotame nustatyme“.
 
-Nustatymo traktavimas kaip atspirties taško savo kūrybiškumui geriausiai tinka nustatymams, kurie leidžia naujas idėjas ir koncepcijas iš skirtingų kūrybinių darbuotojų, pavyzdžiui, komiksų pasauliai, serialai ar daugiaautorių knygų serijos. Jie gali išvengti per daug priešistorės ar kanono spąstų ir leisti žaidėjams laisvai viską pakeisti, bet jei jie per daug nukrypsta nuo nusistovėjusio nustatymo, patrauklumas naudoti tą nustatymą gali sumažėti.
+Nustatymo traktavimas kaip atspirties taško jūsų pačių kūrybiškumui yra geriausias nustatymams, kurie leidžia naujas idėjas ir koncepcijas iš skirtingų kūrybinių darbuotojų, tokių kaip komiksų pasauliai, serialai ar kelių autorių knygų serijos. Jie gali išvengti per didelio priešistorės ar kanono spąstų ir leisti žaidėjams laisvai judinti dalykus, tačiau jei jie per daug nukrypsta nuo nustatyto nustatymo, to nustatymo naudojimo patrauklumas gali būti praskiestas.
 
-Paklauskite pačių žaidėjų, ką jie norėtų matyti adaptuotame nustatyme, ir sužinokite, kokio lygio laisvę jie nori turėti.
+Paklauskite pačių žaidėjų, ką jie norėtų pamatyti adaptuotame nustatyme, ir sužinokite, kokį laisvės lygį jie nori turėti.
 
-Pavyzdžiui, Robino Hudo kampanijai jūs ir jūsų žaidėjai galite norėti išlaikyti bendrą temą apie kovojančius banditų herojus, kurie puola niekšiškas institucijas, bandydami laimėti Notingemo žmonių širdis ir protus. Ar jie nori būti Robino Hudo gaujos dalimi, vykdyti jo įsakymus ir kovoti kartu su Vilu Skarletu, ledi Marian ir broliu Taku, ar jie nori visiškai pakeisti gaują, o Robinas Hudas būtų tik fiktyvi tapatybė, kurią jie visi naudoja? Galbūt karalius Ričardas įšventina juos Šervudo girios sergėtojais ir jie tarnauja gindami ją nuo antgamtinių karalystės priešų – pasaulis su vilkolakiais, nykstančiais fėjų pasaulio gyventojais ir senovės pagonių dievais.
+Pavyzdžiui, Robino Hudo kampanijai, jūs ir jūsų žaidėjai galite norėti išlaikyti bendrą temą apie kovojančius banditų-herojų smūgius prieš niekšiškas institucijas, bandant laimėti Notingamo žmonių širdis ir protus. Ar jie nori būti Robino Hudo gaujos dalimi, vykdyti jo įsakymus ir kovoti kartu su Vilu Skarletu, Marion ir broliu Taku, ar jie nori visiškai pakeisti gaują, kai Robinas Hudas yra tik fiktyvi tapatybė, kurią jie visi naudoja. Galbūt karalius Ričardas įšventina juos Šervudo miško sergėtojais ir jie tarnauja gindami jį nuo antgamtinių karalystės priešų, pasaulis, kuriame pilna vilkolakių, nykstančių fėjų gyventojų ir senovės pagonių dievų.
 
-Idealiu atveju žaidėjai ir jūs galite rasti bendrą kalbą žaisdami adaptuotame nustatyme, ir visi bus patenkinti. Kai visi yra investavę į nustatymą ir trokšta jį tyrinėti, tai viską pakeičia, ir galite periodiškai pasitikrinti, paklausdami žaidėjų, kaip jie jaučiasi dėl žaidimo. (Tai paprastai yra gera idėja bet kokio tipo kampanijai.)
+Idealiu atveju, jūsų žaidėjai ir jūs galite rasti bendrą kalbą žaisdami adaptuotame nustatyme ir visi bus laimingi. Investavimas į nustatymą ir noras jį tyrinėti daro visą skirtumą žaidime, ir jūs galite stengtis periodiškai pasitikrinti, paklausdami žaidėjų, kaip jie jaučiasi dėl žaidimo. (Tai paprastai yra gera idėja bet kokio tipo kampanijai.)
 
-### Personažai adaptuotame nustatyme
+### Veikėjai adaptuotame nustatyme
 
-Adaptuoti šaltinio medžiagą į nustatymą lengviau, jei pirmiausia nustatote, kaip žaidėjų personažai tinka tame nustatyme. Jei šaltinio medžiaga yra stipriai pagrįsta personažais, ar norite, kad žaidėjų personažai būtų panašūs į juos, juos pakeistų ar su jais susikirstų? Tai trys visiškai skirtingi būdai tai tvarkyti.
+Adaptuoti šaltinio medžiagą į nustatymą lengviau, jei pirmiausia nustatote, kaip žaidėjų veikėjai įsitraukia į tą nustatymą. Jei šaltinio medžiaga yra stipriai pagrįsta veikėjais, ar norite, kad žaidėjų veikėjai būtų panašūs į juos, juos pakeistų ar su jais susikirstų? Tai trys visiškai skirtingi būdai tai spręsti.
 
-* **Įkvėpti...**: Dažnai pagrindinė priežastis, kodėl norima naudoti konkretų nustatymą, yra žaisti nuotykius kaip šaltinio medžiagoje, todėl personažai, panašūs į originalus, dažniausiai yra saugus pasirinkimas. Žaidėjų personažai gali būti originalūs, bet sukurti pagal tą patį modelį arba atliekantys panašius vaidmenis.
-* **Pakaitiniai herojai**: Kartais žaidėjai nenori jaustis lyg būtų antraeiliai veikėjai, gyvenantys kur kas garsesnių personažų grupės šešėlyje, todėl šiuo atveju leiskite jiems iš tikrųjų pakeisti originalius veikėjus, sukuriant naujus personažus, kurie užima tas pačias vietas, arba tiesiog naudojant originalius personažus kaip savo žaidėjų personažus.
-* **Draugiški varžovai**: Kitas variantas, turintis didelį patrauklumą, yra leisti žaidėjų personažams egzistuoti tame pačiame pasaulyje kaip ir originaliems protagonistams. Jie gali juos pažinoti, būti su jais susiję arba net susikirsti keliais. Tokiais atvejais svarbu įsitikinti, kad žaidėjai nesijaustų, lyg jų personažai vaidintų antraeilius vaidmenis „tikrųjų“ veikėjų atžvilgiu.
+* **Įkvėpti...**: Dažnai pagrindinė priežastis norėti naudoti tam tikrą nustatymą yra žaisti nuotykius kaip šaltinio medžiagoje, todėl veikėjų panašumas į originalus paprastai yra saugus statymas. Žaidėjų veikėjai gali būti originalūs, bet suformuoti tame pačiame pelėsiuje arba atliekantys panašius vaidmenis.
+* **Pakaitiniai herojai**: Kartais žaidėjai nenori jaustis lyg jie būtų antrojo plano figūros, gyvenančios žymiai garsesnės veikėjų grupės šešėlyje, todėl šiuo atveju turėkite žaidėjų veikėjus, kurie pakeičia originalias figūras, arba sukurdami naujus veikėjus, kurie užima tas pačias vietas, arba tiesiog naudodami originalius veikėjus kaip savo žaidėjų veikėjus.
+* **Draugiški varžovai**: Kita galimybė su dideliu patrauklumu yra turėti žaidėjų veikėjus, egzistuojančius tame pačiame pasaulyje kaip ir originalūs protagonistai. Jie gali juos pažinoti, būti su jais susiję arba net su jais susikirsti. Tokiais atvejais svarbu įsitikinti, kad žaidėjai nesijaučia taip, lyg jų veikėjai vaidintų antraplanį vaidmenį „tikriems“ judėtojams ir darytojams.
 
 ### Nustatymo aprašymas
 
-Kai žinosite, ką žaidėjai veiks pasaulyje, laikas pereiti prie paties nustatymo. Pirmiausia turėtumėte susipažinti su originalaus nustatymo tonu ir plačiu detalių lygiu, užsirašydami bet kokią informaciją, kuri gali būti svarbi. Galite rasti gerbėjų „wiki“ ar resursų, kurie palengvina dalykus. Retai kada reikia užsirašyti kiekvieną smulkų personažą ar nereikšmingą detalę, tačiau turėtumėte atkreipti dėmesį į dalykus, kurie žaidėjams bus svarbūs.
+Kai žinote, ką žaidėjai veiks pasaulyje, laikas pereiti prie paties nustatymo. Pirmiausia turėtumėte susipažinti su originalaus nustatymo tonu ir plačiu detalių lygiu, užsirašydami bet kokią informaciją, kuri gali būti svarbi. Galite rasti gerbėjų „wiki“ ar išteklių, kurie palengvina dalykus. Reikia retai užsirašyti kiekvieną smulkų veikėją ar detalę, bet turėtumėte atkreipti dėmesį į dalykus, kuriuos žaidėjai laikys svarbiais.
 
-Štai dalių sąrašas, kurias galėtumėte naudoti informacijai apie nustatymą organizuoti:
+Štai sąrašas skyrių, kuriuos galėtumėte naudoti organizuodami informaciją apie nustatymą:
 
-* Personažų pasirinkimai, profesijos, galios ir kt.
+* Veikėjų parinktys, profesijos, galios ir kt.
 * Galios, jei yra.
-* Kultūros ar reikšmingi padarai.
+* Kultūros ar reikšmingos būtybės.
 * Tradicijos ar kultūriniai įsitikinimai.
 * Aplinkos, lankytinos vietos, šventos vietos ir kt.
 * Transporto priemonės ir žymios technologijos.
-* Religijos ar socialinės organizacijos ir žinomi principai.
-* Visuomenė, valdymo būdas ir kt.
+* Religijos ar socialinės organizacijos ir žymūs principai.
+* Visuomenė, vyriausybės forma ir kt.
 * Žymūs istoriniai įvykiai.
-* Svarbios figūros, tokios kaip karaliai ar karalienės, prezidentai, religiniai lyderiai, istorinės asmenybės ir kt.
-* Grupės, organizacijos, draugijos, ordinai ir kt.
+* Svarbios figūros, tokios kaip karaliai ar karalienės, prezidentai, religiniai lyderiai, istoriniai asmenys ir kt.
+* Grupės, organizacijos, visuomenės, ordinai ir kt.
 * Ginklai ir šarvai, jei aktualu.
 * Žymi flora ir fauna.
 * Nuotykių užuominos, jei tikimasi, kad žaidėjai patys ieškos savo siužetų.
 
-Tai taip pat laikas apibrėžti bet kokias aukšto lygio nustatymo „taisykles“, jei tokių yra. Koks galios lygis geriausiai atspindi nustatymą? Kokia bendra morali visata, pavyzdžiui, „gėris neišvengiamai nugalės“ arba „žmonija yra anomalija šaltoje ir negailestingoje visatoje“.
+Tai taip pat laikas apibrėžti bet kokias aukšto lygio nustatymo „taisykles“, jei tokių yra. Koks galios lygis geriausiai atstovauja nustatymui? Kokia yra bendra moralinė visata, pavyzdžiui, „gėris neišvengiamai nugalės“ arba „žmonija yra nukrypimas šaltoje ir negailestingoje visatoje“.
 
-Kai kuriems nustatymams nereikės visų šių punktų, ir turėtumėte užsirašyti tik tiek, kiek reikia žaidimams vykdyti ir į bet kokius žaidėjų klausimus atsakyti. Ir nereikia to daryti iš anksto. Visada galite pasakyti žaidėjui, kad pagalvosite apie klausimą, į kurį nežinote atsakymo, ir vėliau jam atsakysite, arba galite tai aptarti su žaidėjais ir nuspręsti kaip grupei.
+Kai kuriems nustatymams nereikės visų šių dalykų, ir turėtumėte užsirašyti tik tiek, kiek reikia savo žaidimams vykdyti ir atsakyti į visus žaidėjų klausimus. Ir jums nereikia to daryti iš anksto. Visada galite pasakyti žaidėjui, kad pagalvosite apie klausimą, į kurį nežinote atsakymo, ir grįšite pas juos, arba galite pateikti jį žaidėjams ir nuspręsti kaip grupė.
 
-Kurdami nustatymą galite net sukurti „wiki“ ar bendrą internetinį dokumentą, netgi atverdami jį savo žaidėjams. Jei jie domisi, leiskite jiems prisidėti prie nustatymo kūrimo.
+Galbūt net galėtumėte sukurti „wiki“ ar bendrą internetinį dokumentą kurdami savo nustatymą, net atverdami jį savo žaidėjams. Jei jie suinteresuoti, leiskite jiems prisidėti prie nustatymo kūrimo.
 
-Tačiau atminkite, kad jei praleidžiate daugiau laiko kurdami ar adaptuodami nustatymą, nei iš tikrųjų žaisite, galbūt norėtumėte žengti žingsnį atgal ir įvertinti, kas yra būtina, o kas visiškai neprivaloma. Galbūt jums patinka išsamiai kataloguoti visus nustatymo elementus, o kiti perskaitys (ar peržiūrės) tai vieną kartą ir nuspręs: „Dabar žinau pakankamai, kad tai vykdytų. Pirmyn!“. Išsiaiškinkite, kuriam iš šių kraštutinumų esate artimesni, ir elkitės atitinkamai.
+Tačiau atminkite, kad jei praleidžiate daugiau laiko kurdami ar adaptuodami nustatymą, nei iš tikrųjų matysite žaidime, galbūt norėsite žengti žingsnį atgal ir įvertinti, kas yra būtina, o kas visiškai pasirenkama. Galite klestėti išsamiai kataloguodami visus nustatymo elementus, o kiti perskaitys (ar peržiūrės) tai vieną kartą ir nuspręs „Dabar žinau pakankamai, kad tai vykdytumėme. Pirmyn!“. Supraskite, kuriai iš šių kraštutinumų esate artimiausi, ir atitinkamai elkitės.
 
 Šis procesas taip pat gali būti taikomas bet kokiam originaliam nustatymui, tik šiuo atveju jūs (ir potencialiai jūsų žaidėjai) galite sukurti šias detales.
 
-## Ištikimybė (Papildoma taisyklė)
+## Ištikimybė (Parinktis)
 
-Daugelyje nustatymų įtrauktas tikėjimas aukštesnėmis jėgomis. Tai gali būti dievai, angelai, šventieji, velniai, dieviški principai ar net abstrakčios filosofinės koncepcijos. Personažas, kuris nuosekliai elgiasi pagal savo įsitikinimus, turi ištikimybę jiems, išmatuojamą su ištikimybės balais. Elgesys ar veikimas taip, kaip palankus vienos iš dievybių (ar dievybių), gali uždirbti ištikimybės balų, kurie rodo atsidavimą. Ištikimybė gali keistis žaidimo metu, ir gali atsirasti naujų ištikimybių, kai naujos jėgos tampa svarbios.
+Daugelyje nustatymų įtrauktas tikėjimas aukštesnėmis jėgomis. Tai gali būti dievai, angelai, šventieji, velniai, dieviški principai ar net abstrakčios filosofinės koncepcijos. Veikėjas, kuris nuosekliai elgiasi pagal savo įsitikinimus, turi jiems ištikimybę, matuojamą ištikimybės balu. Elgesys ar veikimas, kaip palanku vienos ar kelių dievybių, gali uždirbti ištikimybės taškų, rodančių atsidavimą. Ištikimybė žaidimo metu gali keistis, o naujos ištikimybės gali atsirasti, kai naujos jėgos tampa svarbios.
 
-Personažai gali uždirbti ištikimybės balų iš daugiau nei vieno subjekto ar dievo. Žmonės ne visada elgiasi nuosekliai nuo vienos dienos iki kitos, ir net pats moraliausias bei etiškiausias žmogus gali atlikti neįtikėtinai blogus veiksmus. Ištikimybės sistema leidžia personažui turėti ištikimybės balų priešingoms ar kelioms jėgoms.
+Veikėjai gali uždirbti ištikimybės taškų iš daugiau nei vieno subjekto ar dievo. Žmonės ne visada elgiasi nuosekliai nuo vienos dienos iki kitos, ir net pats moraliausias ir etiškiausias asmuo gali atlikti neįtikėtinai piktų veiksmų. Ištikimybės sistema leidžia veikėjui turėti ištikimybės balus priešingoms ar kelioms jėgoms.
 
-Kai vienas ištikimybės balas yra 20+ balų didesnis nei bet kuris kitas ištikimybės balas, personažas laikomas **sąjungininku** su ta jėga ir dėl šios ištikimybės gali gauti tam tikros naudos. Tačiau personažas turi sąmoningai pripažinti šią ištikimybę, nepriklausomai nuo balo. Nors ištikimybė gali atrodyti akivaizdi, jie negali mėgautis jos nauda, jei jos nepripažįsta.
+Kai vienas ištikimybės balas yra 20+ taškų aukštesnis už bet kurį kitą ištikimybės balą, veikėjas laikomas **sąjungininku** su ta jėga ir dėl šios ištikimybės gali pasiekti tam tikros naudos. Tačiau veikėjas turi sąmoningai pripažinti šią ištikimybę, nepaisant balo. Nors ištikimybė gali atrodyti akivaizdi, jie nesinaudoja jos privalumais, jei jos nepripažįsta.
 
-Ištikimybės balai beveik niekada neprarandami. Jie visada yra teigiami arba 0. Jei sumažinti, jie negali nukristi žemiau 0. Ištikimybės balai yra atlygis už vienokio ar kitokio tipo elgesį, todėl turėti kelias (ar bent priešingas) jėgas yra idealu. Elgesys, kuris būtų baudžiamas vienoje tikėjimo sistemoje, dažnai yra apdovanojamas kitoje, todėl personažas nepraranda balų elgdamasis prieš dievišką jėgą, kuriai jis pritaria, o vietoj to gauna balų iš jėgos, kuri priešinasi jų mėgstamai ištikimybei.
+Ištikimybės taškai beveik niekada neprarandami. Jie visada yra teigiami arba 0. Jei sumažinti, jie negali nukristi žemiau 0. Ištikimybės taškai yra atlygis už vienokį ar kitokį elgesį, todėl idealu turėti kelias (ar bent jau priešingas) jėgas. Elgesys, kuris būtų baudžiamas vienoje tikėjimo sistemoje, dažnai apdovanojamas kitoje, todėl veikėjas nėra baudžiamas taškais už elgesį prieš savo palankią dievišką jėgą, o uždirba taškų iš jėgos, kuri priešinasi jų palankiai ištikimybei.
 
-Sąjungininku tapusiam personažui įgyjant aukštesnius ištikimybės lygius, jis gali pasiekti statusą susijusiame kulte ar bažnyčioje (jei yra), atstovaujamą titulais, galiomis ar atsakomybėmis.
+Sąjungininkui įgaunant aukštesnius ištikimybės lygius, jie gali pasiekti statusą susijusiame kulte ar bažnyčioje (jei yra), pavaizduotą tituluose, galiose ar pareigose.
 
 ### Pradinė ištikimybė
 
-Jei naudojama ištikimybė, meskite 1D6–2 (mažiausiai 0) tiek kartų, kiek yra prieinamų ištikimybių, kad atstovautumėte ištikimybės balus, uždirbtus prieš žaidimo pradžią. Žaidimo meistras gali pasirinkti vieną iš šių variantų žaidėjui:
+Jei naudojama ištikimybė, ridenkite 1D6–2 (mažiausiai 0) tiek kartų, kiek yra prieinamų ištikimybių, kad pavaizduotumėte prieš žaidimo pradžią uždirbtus ištikimybės taškus. Žaidimo meistras gali pasirinkti vieną iš šių dalykų, kuriuos žaidėjas turi atlikti:
 
-* Priskirti ištikimybės sumas tokia tvarka, kokia jos išmestos.
-* Priskirti ištikimybės balus pagal pageidavimą.
+* Paskirstykite ištikimybės sumas tokia tvarka, kokia jos išridenamos.
+* Paskirstykite ištikimybės balus pagal pageidavimą.
 
-Kiekvienam (jei yra) galių tipui, susietam su bet kokia dvasine jėga, pridėkite +1 balą prie kiekvienos atitinkamos ištikimybės. Panašiai pridėkite +1 už kiekvieną mutaciją atitinkamai ištikimybei. Okultisto, dvasininko ar šamano profesijų personažai prideda ištikimybės balų, lygių ½ POW (apvalinti į viršų), paskirstytų pagal pageidavimą.
+Kiekvienam (jei yra) galios tipui, susietam su bet kokia dvasine jėga, pridėkite +1 tašką kiekvienai atitinkamai ištikimybei. Panašiai, pridėkite +1 už kiekvieną mutaciją atitinkamai ištikimybei. Okultisto, kunigo ar šamano profesijų veikėjai prideda ištikimybės taškų, lygių ½ GAL (suapvalinant į viršų), paskirstytų pagal pageidavimą.
 
 ### Ištikimybės didinimas
 
-Veiksmai, kurie palankūs ištikimybei, padidina personažo ištikimybės balą. Žr. **Ištikimybių kūrimas** dėl galimų veiksmų sąrašo, kurie gali suteikti ištikimybės balų. Po nuotykio, su sąlyga, kad personažas elgėsi taip, kaip palanku jėgai, paprašykite žaidėjo atlikti ištikimybės testą. Tai identiška patirties patikrinimui **Įgūdžių tobulinimas**. Jei sėkmingai, personažo ištikimybės balas padidėja +1D6 balais.
+Veiksmai, kurie palankūs ištikimybei, padidina veikėjo ištikimybės balą. Žr. **Ištikimybių kūrimas**, kur pateiktas galimų veiksmų, galinčių suteikti ištikimybės taškų, sąrašas. Po nuotykio, su sąlyga, kad veikėjas elgėsi taip, kaip palanku jėgai, paprašykite žaidėjo atlikti ištikimybės testą. Tai identiška patirties tikrinimui **Įgūdžių tobulinimas**. Jei sėkminga, veikėjo ištikimybės balas padidėja +1D6 taškais.
 
-Jei personažas atliko veiksmus, skatinamus kelių ištikimybių, reikalaukite patirties patikrinimų visoms taikomoms ištikimybėms, kiekviena gauna +1D6 balų, jei sėkminga.
+Jei veikėjas atliko veiksmus, skatinamus kelių ištikimybių, kvieskite atlikti patirties testus visoms taikytinoms ištikimybėms, kiekviena įgyjant +1D6 taškų, jei sėkminga.
 
 ### Kelios ištikimybės
 
-**Nesvarbu, kokias gaires mėgsta jų ištikimybė, kiekvienas personažas turi laisvą valią ir gali elgtis taip, kaip nori.** Personažas gali turėti balų visose, kai kuriose arba nė vienoje iš prieinamų ištikimybių. Tačiau personažo sąjunga yra tik su aukščiausiu iš balų, jei tas balas yra 20+ balų didesnis už kitą aukščiausią, ir tik jei personažas pripažįsta tą ištikimybę.
+**Nepaisant to, kokios gairės yra palankios jų ištikimybei, kiekvienas veikėjas turi laisvą valią ir gali elgtis taip, kaip pageidauja.** Veikėjas gali turėti balus visose, kai kuriose arba nė vienoje iš prieinamų ištikimybių. Tačiau veikėjo sąjunga yra tik su aukščiausiu balu, jei tas balas yra 20+ taškų aukštesnis už kitą aukščiausią balą, ir tik tada, jei veikėjas pripažįsta ištikimybę.
 
-### Ištikimybės palaikymas
+### Ištikimybės išlaikymas
 
-Kai sąjungininku tapęs personažas elgiasi prieštaraudamas savo ištikimybės interesams, galite reikalauti, kad žaidėjas sėkmingai mestų D100, kad patikrintų tą ištikimybę. Jei metimas yra didesnis už dabartinį personažo ištikimybės balą, turėtumėte padidinti personažo priešingos ištikimybės balą suma, lygia 1D4 iki 1D8, priklausomai nuo nukrypstančio elgesio laipsnio. Jei metimas yra lygus ar mažesnis už dabartinį personažo ištikimybės balą, jokių pasekmių nėra.
+Kai sąjungininkas veikia priešingai savo ištikimybės interesams, galite reikalauti, kad žaidėjas sėkmingai išridentų D100, kad patikrintų tą ištikimybę. Jei ridenimas yra didesnis už dabartinį veikėjo ištikimybės balą, turėtumėte padidinti veikėjo priešingos ištikimybės balą suma, lygia 1D4 iki 1D8, priklausomai nuo netinkamo elgesio laipsnio. Jei ridenimas yra lygus arba mažesnis už dabartinį veikėjo ištikimybės balą, pasekmių nėra.
 
-Jei personažas turi 100+ ištikimybės balą ir yra įsipareigojęs tai priežasčiai, turėtumėte įspėti žaidėją, kad bet kokie veiksmai prieš tą ištikimybę vyksta personažo rizika. Personažas su stipria ištikimybe gali prarasti ištikimybės teikiamą naudą ir būti laikomas priešu kitiems tikintiesiems. Gali būti pritaikyta dieviška ar karminė bausmė, arba jie gali turėti atlikti atgailą, kad jų nauda būtų atstatyta. Atgaila gali būti pasninkas ir ilgalaikė meditacija, užduotis, atgailos veiksmas, tam tikro pobūdžio auka ar apsivalymo ritualas.
+Jei veikėjas turi 100+ ištikimybės balą ir yra įsipareigojęs tai priežasčiai, turėtumėte įspėti žaidėją, kad bet kokie veiksmai prieš tą ištikimybę yra veikėjo rizika. Veikėjas su stipria ištikimybe gali prarasti ištikimybės pranašumus ir būti laikomas priešu kitiems tikintiesiems. Gali būti skirta dieviška ar karminė bausmė, arba jiems gali tekti atlikti atgailą, kad jų pranašumai būtų atstatyti. Atgaila gali būti pasninkas ir ilga meditacija, užduotis, atgailos aktas, tam tikra auka ar apsivalymo ritualas.
 
 ### Ištikimybių kūrimas
 
-Turėtumėte apibrėžti ištikimybes ir nustatyti, už ką kiekviena iš jų kovoja. Geriausia turėti bent dvi jėgas, varžančias dėl personažo ištikimybės, kad pabrėžtumėte kovą tarp vieno tikėjimo kurso prieš kitą.
+Turėtumėte apibrėžti ištikimybes ir nustatyti, už ką kiekviena iš jų pasisako. Geriausia turėti bent dvi jėgas, besivaržančias dėl veikėjo ištikimybės, kad pabrėžtumėte kovą tarp vieno tikėjimo kurso ir kito.
 
-Kitas žingsnis – nustatyti, kiek ištikimybės balų skiriama už įvairius veiksmus. Lengviausias būdas tai padaryti – sukurti veiksmų, kurie tikėtina įvyks žaidime, kontrolinį sąrašą ir nuspręsti, kuri jėga skiria ištikimybės balų už kiekvieną veiksmą. Toliau pateikiami keli tinkami veiksmai:
+Kitas žingsnis – nustatyti, kiek ištikimybės taškų skiriama už įvairius veiksmus. Lengviausias būdas tai padaryti – sukurti veiksmų, kurie tikėtini žaidime, kontrolinį sąrašą ir nuspręsti, kuri jėga skiria ištikimybės taškų už kiekvieną veiksmą. Štai keletas tinkamų veiksmų:
 
-* Padėjimas kažkam silpnesniam už save.
-* Elgesys nepagarbiai.
-* Elgesys garbingai.
-* Labdara silpniems ar skurstantiesiems.
-* Kažko sukūrimas pagerbiant jūsų sąjungininkų jėgą.
-* Antgamtinės būtybės sunaikinimas.
-* Kažko švento kitai jėgai sunaikinimas.
-* Kažko išlaisvinimas iš įkalinimo.
-* Jūsų sąjungininkų jėgos paminėjimas nepagarbiai.
-* Jūsų sąjungininkų jėgos paminėjimas su pagarba.
-* Kažko nužudymas šaltakraujiškai (žmogžudystė).
-* Kažko nužudymas savigynai.
-* Didelė paslauga jūsų ištikimybei.
-* Maža paslauga jūsų ištikimybei.
-* Kažko apsaugojimas.
-* Kažkieno gyvybės išgelbėjimas.
-* Vagystė.
+* Pagalba silpnesniam už save
+* Nedoras elgesys
+* Garbingas elgesys
+* Labdara silpniems ar skurstantiems
+* Kažko sukūrimas savo sąjungininkės jėgos garbei
+* Antgamtinės būtybės sunaikinimas
+* Kažko, kas šventa kitai jėgai, sunaikinimas
+* Kažko išlaisvinimas iš kalėjimo
+* Sąjungininkės jėgos nepagarbus šaukimas
+* Sąjungininkės jėgos pagarbus šaukimas
+* Kažko nužudymas šaltakraujiškai (žmogžudystė)
+* Kažko nužudymas savigynos tikslais
+* Didelė tarnystė jūsų ištikimybei
+* Maža tarnystė jūsų ištikimybei
+* Kažko apsauga
+* Kažkieno gyvybės išgelbėjimas
+* Vagystė
 
-Kiekvienam veiksmui siūloma surašyti ištikimybės atlygį už priešingą veiksmą, pavyzdžiui, „Padėjimas kažkam silpnesniam už save“ gali būti priešinamas su „Silpnesnio už save išnaudojimas“. Dideli veiksmai verti 3 ištikimybės balų, reikšmingi – 2, o maži – 1 balu.
+Kiekvienam veiksmui siūloma surašyti ištikimybės atlygį už priešingą veiksmą, pavyzdžiui, „pagalba silpnesniam už save“ gali būti priešinga „silpnesnio už save išnaudojimui“. Dideli veiksmai yra verti 3 ištikimybės taškų, reikšmingi – 2, o maži – 1 taško.
 
-Po to turite nuspręsti, ar ištikimybė siūlo kokią nors ypatingą naudą, ar ištikimybės balai bus tik atsidavimo tai jėgai matas. Tai gali būti paimta iš **Ištikimybės nauda** (toliau) arba gali būti labiau specifinė dieviškos jėgos prigimčiai.
+Po to turite nuspręsti, ar ištikimybė siūlo kokių nors konkrečių atlygių, ar ištikimybės taškai bus tik atsidavimo tai jėgai matas. Tai gali būti paimta iš **Ištikimybės privalumų** (žemiau) arba gali būti labiau specifiniai dieviškos jėgos prigimčiai.
 
-Kai personažas pasiekia 100+ balų su konkrečia ištikimybe, jis gali būti laikomas tapusiu tos ištikimybės **apoteoze** (sudievinimu), tos dieviškos jėgos valios pasaulyje pavyzdžiu.
+Kai veikėjas pasiekia 100+ su konkrečia ištikimybe, jie gali būti laikomi tapusiais ištikimybės **apoteoze**, tos dieviškos jėgos valios pasaulyje pavyzdžiu.
 
-Kampanija, įtraukianti krikščionišką teologiją, turėtų Dangų ir Pragarą kaip dvi priešingas ištikimybes, o aukščiausia ištikimybė būtų stiprus rodiklis, kur personažas pateks po mirties. Kampanijos nustatymas su dievų panteonu leidžia personažui turėti ištikimybę keliems dievams.
+Kampanija, įtraukianti krikščionišką teologiją, turėtų Dangų ir Pragarą kaip dvi priešingas ištikimybes, o aukščiausia ištikimybė yra stiprus indikatorius, kur veikėjas pateks po mirties. Kampanijos nustatymas su dievų panteonu leidžia veikėjui turėti ištikimybę keliems dievams.
 
-Ištikimybė nebūtinai turi būti susieta su dieviškomis būtybėmis iš fantastinių pasaulių ar net religijomis. Mokslinės fantastikos nustatyme ištikimybė galėtų būti tokia abstrakti, kaip mistinė jėga, jungianti visas gyvas būtybes kartu, su priešingomis šviesiomis ir šešėlinėmis pusėmis. Ištikimybė superherojų nustatyme galėtų būti link Įstatymo ar Anarchijos, arba Teisumo ir Neteisumo. Superherojai ištikimybę įrodo nugalėdami piktadarius ir išgelbėdami nekaltuosius, o superpiktadariai apdovanojami vykdydami nusikaltimus ir išvengdami teisingumo.
+Ištikimybė nebūtinai turi būti susieta su dieviškomis būtybėmis iš fantastinių pasaulių ar net religijomis. Mokslinės fantastikos nustatyme ištikimybė galėtų būti tokia abstrakti kaip mistinė jėga, jungianti visas gyvas būtybes, su priešingomis šviesiomis ir šešėlinėmis pusėmis. Ištikimybė superherojų nustatyme galėtų būti link Įstatymo ar Anarchijos, arba Gėrio ir Blogio. Superherojai įgyja ištikimybę nugalėdami piktadarius ir gelbėdami nekaltuosius, o superpiktadariai apdovanojami vykdydami nusikaltimus ir išvengdami teisingumo.
 
-### Ištikimybės nauda
+### Ištikimybės privalumai
 
-Nuspręskite, ar ištikimybė teikia kokią nors realią naudą ir kokia ji yra. Jei viena ištikimybė suteikia naudą, kitos turėtų siūlyti lygiavertę naudą, pavyzdžiui, bet kurią iš šių:
+Nuspręskite, ar yra kokių nors realių privalumų ištikimybei ir kokie jie yra. Jei viena ištikimybė suteikia privalumą, kitos turėtų siūlyti lygiaverčius privalumus, pavyzdžiui, bet kurį iš šių:
 
-* Kai personažo galios taškai išnaudoti, sėkmingai atlikus ištikimybės metimą, jie gali akimirksniu įgyti iki 1/10 (10%) savo dabartinio ištikimybės balo (apvalinti į viršų) kaip papildomą galios taškų rezervą. Ištikimybės balai šia nauda nesikeičia. Šie taškai turi būti paimti, kai išnaudojami paskutiniai personažo galios taškai, kitaip jie praras sąmonę. Taškai yra identiški įprastiems galios taškams. Tai galima bandyti iki trijų kartų žaidimo sesijos metu. Jei naudojate šį gebėjimą, personažas gali atlikti ištikimybės testą nuotykio pabaigoje.
-* Sėkmingai atlikus ištikimybės metimą, personažas gali panaudoti iki 1/5 (20%), apvalinant į viršų, savo dabartinio ištikimybės balo kaip laikinus hitus, kartą per žaidimo sesiją. Ištikimybės balai nesikeičia. Šie hitai išeikvojami prieš normalius personažo hitus ir jokiu būdu nėra atstatomi ar atgaunami, jei prarandami. Sesijos pabaigoje visi hitai, viršijantys normalią personažo hitų sumą, išnyksta. Jei personažas naudoja šiuos papildomus hitus, jie gali atlikti ištikimybės testą nuotykio pabaigoje.
-* Sėkmingai atlikus ištikimybės metimą, personažas gali sukurti fondą, lygų visam savo dabartiniam ištikimybės balui, kaip papildomų įgūdžių taškų rezervą, kurį galima pridėti prie esamų įgūdžių lygių specifiniams metimams. Tai galima daryti iki trijų kartų per sesiją. Ištikimybės balai šia nauda nesikeičia. Žaidėjas gali pasirinkti, prie kokių įgūdžių pridėti šiuos taškus ir kiek taškų pridėti. Šių įgūdžių taškų didinimai turi būti deklaruoti prieš metimą, o pakoreguoti skaičiai naudojami nustatant specialias sėkmes ir kt. Šie taškai gali būti naudojami tik įgūdžių patikrinimams, o ne pasipriešinimo metimams, charakteristikų metimams, ištikimybės metimams, patirties metimams ir kt. Sėkmingas įgūdžio metimas naudojant šiuos taškus neleidžia atlikti patirties patikrinimo. Po šių papildomų įgūdžių taškų panaudojimo jie gali atlikti ištikimybės testą nuotykio pabaigoje.
-* Bet kuris personažas, kuris yra sąjungininkas su jėga (20+ daugiau nei antra aukščiausia ištikimybė), gali prašyti dieviškos intervencijos. Sėkmės tikimybė lygi kritinės sėkmės tikimybei. Jei išmetama kritinė sėkmė, jėga tam tikru būdu įsikiša – tiesiogiai, per agentą ar tarpininką, arba per kokį nors aiškiai stebuklingą natūralaus pasaulio pasireiškimą. Paprastai dauguma dievybių turi praktiškai neribotą galią, todėl ši pagalba gali būti nepaprasta. Personažas gali atlikti ištikimybės testą nuotykio pabaigoje.
+* Kai veikėjo galios taškai yra išnaudoti, jie gali, sėkmingai atlikę ištikimybės testą, akimirksniu įgyti iki 1/10 (10 %) savo dabartinio ištikimybės balo (suapvalinant į viršų) kaip papildomą galios taškų atsargą. Ištikimybės taškai su šiuo privalumu nesikeičia. Šie taškai turi būti paimti, kai veikėjo paskutiniai galios taškai yra išnaudoti, kitaip jie praras sąmonę. Taškai yra identiški normaliems galios taškams. Tai galima bandyti iki trijų kartų per žaidimo sesiją. Jei naudojate šį gebėjimą, veikėjas gali atlikti ištikimybės testą nuotykio pabaigoje.
+* Sėkmingai atlikus ištikimybės testą, veikėjas gali naudoti iki 1/5 (20 %), suapvalinant į viršų, savo dabartinio ištikimybės balo kaip laikinus pataikymo taškus, vieną kartą per žaidimo sesiją. Ištikimybės taškai nesikeičia. Šie pataikymo taškai yra išnaudojami prieš veikėjo normalius pataikymo taškus ir nėra atkuriami ar atstatomi jokiu būdu, jei prarasti. Sesijos pabaigoje bet kokie pataikymo taškai, viršijantys veikėjo reguliarų pataikymo taškų skaičių, išnyksta. Jei veikėjas naudoja šiuos papildomus pataikymo taškus, jie gali atlikti ištikimybės testą nuotykio pabaigoje.
+* Sėkmingai atlikus ištikimybės testą, veikėjas gali sukurti rezervuarą, lygų visam savo dabartiniam ištikimybės balui, kaip papildomų įgūdžių taškų rezervą, kurį galima pridėti prie esamų įgūdžių vertinimų specifiniams ridenimams. Tai galima padaryti iki trijų kartų per sesiją. Ištikimybės taškai su šiuo privalumu nesikeičia. Žaidėjas gali pasirinkti, prie kurių įgūdžių pridėti šiuos taškus ir kiek taškų pridėti. Šių įgūdžių taškų padidinimai turi būti deklaruoti prieš ridenimą, o pakoreguoti skaičiai naudojami nustatant specialias sėkmes ir kt. Šie taškai gali būti naudojami tik įgūdžių patikrinimams, o ne pasipriešinimo ridenimams, charakteristikų ridenimams, ištikimybės ridenimams, patirties ridenimams ir kt. Sėkmingas įgūdžių ridenimas naudojant šiuos taškus nėra tinkamas patirties tikrinimui. Po šių papildomų įgūdžių taškų naudojimo jie gali atlikti ištikimybės testą nuotykio pabaigoje.
+* Bet kuris veikėjas, kuris yra sąjungininkas su jėga (20+ daugiau nei antra aukščiausia ištikimybė), gali kviesti dievišką intervenciją. Sėkmės tikimybė lygi kritinės sėkmės tikimybei. Jei išridenama kritinė sėkmė, jėga kažkaip įsikiša, ar tiesiogiai, per agentą ar tarpininką, ar per kokį nors aiškiai stebuklingą natūralaus pasaulio pasireiškimą. Paprastai dauguma dievybių turi beveik neribotą galią, todėl ši pagalba gali būti nepaprasta. Veikėjas gali atlikti ištikimybės testą nuotykio pabaigoje.
 
-Panaši nauda gali būti sukurta suteikiant ištvermės taškus, sveiko proto taškus ar net leidžiant dievišką įkvėpimą idėjų metimų forma.
+Panašūs privalumai gali būti sukurti suteikiant nuovargio taškų, protinės sveikatos taškų ar net leidžiant dievišką įkvėpimą idėjos ridenimo forma.
 
-### Apoteozė (Sudievinimas)
+### Apoteozė
 
-Kaip minėta aukščiau, jei personažas pasiekia 100+ bendrą ištikimybės balą ir yra sąjungininkas su ta ištikimybe, jų gali būti paprašyta vizijoje (ar kitame dieviškame pranešime) tarnauti jai, tapti jos apoteoze. Balai kitose ištikimybėse nesvarbūs. Apoteozė nėra automatinė. Personažas turi savo tikėjimu ir veiksmais įrodyti, kad tai pateisinama. Jei pasiūlymas priimamas, įvyksta apoteozė, paverčianti personažą gyvuoju avataru ir tvirtu tos jėgos čempionu.
+Kaip minėta aukščiau, jei veikėjas pasiekia 100+ ištikimybės balą su konkrečia ištikimybe ir yra su ja sąjungininkas, vizijoje (ar kitokia dieviška žinute) gali būti paprašytas jai tarnauti, tapti jos apoteoze. Balai kitose ištikimybėse nesvarbūs. Apoteozė nėra automatinė. Veikėjas turi savo tikėjimu ir veiksmais įrodyti, kad tai pateisinama. Jei pasiūlymas priimamas, įvyksta apoteozė, paverčianti veikėją gyvuoju avataru ir atsidavusiu tos jėgos čempionu pasaulyje.
 
-Nauda ištikimybei toliau kaupiasi. Personažas išlaiko laisvą valią ir gali net išduoti jėgą, kuriai tarnauja. Jei personažas atsisako apoteozės, jų ištikimybės balai toliau didėja normaliai iki mirties ar išėjimo į pensiją.
+Ištikimybės privalumai toliau kaupiami. Veikėjas išlaiko laisvą valią ir gali net išduoti jėgą, kuriai tarnauja. Jei veikėjas atsisako apoteozės, jų ištikimybės taškai toliau didėja normaliai iki mirties ar išėjimo į pensiją.
 
-Apoteozės priėmimas gali suteikti personažui vieną ar daugiau reikšmingų privalumų. Esate skatinami kurti tinkamus atlygius ir privalumus. Toliau pateikiami pavyzdžiai to, ką apoteozė gali suteikti:
+Apoteozės priėmimas veikėjui gali suteikti vieną ar daugiau reikšmingų privalumų. Jūs esate raginami kurti tinkamus atlygius ir privalumus. Toliau pateikiami pavyzdžiai, ką apoteozė gali suteikti:
 
-* Monumentalaus asmeninio tikslo pasiekimas, pavyzdžiui, susitikimas su savo tikrąja meile arba dvasinio prieglobsčio radimas, kur įmanoma pasiekti tobulą laimę ir pabėgti nuo pasaulio sumaišties. Tai taip pat gali baigtis tragiškai, personažui pasiekiant epinį likimą, kur vienintelė tinkama baigtis yra mirtis.
-* Ribotas nemirtingumas, kai kūnas normaliai nesensta arba neserga ligomis ar kitais negalavimais. Personažo gijimo greitis nesikeičia ir jie vis dar gali būti nužudyti ginklais ar kita žala. Iškreipti dievai gali nuspręsti padaryti šį nemirtingą kūną mišria palaima, pavyzdžiui, su bjauriais randais, begaliniu skausmu ar kokiu nors antgamtiniu ženklu, kurio neįmanoma pašalinti.
-* Nuolatinių hitų padidinimas iki CON+SIZ (arba tiesiog dabartinių hitų padvigubinimas). Jei naudojamos kūno vietos, jos taip pat atitinkamai pakoreguojamos. Jei naudojami bendri hitai, juos padvigubinkite.
-* Trijų žaidėjo pasirinktų įgūdžių lygių padvigubinimas, atitinkantis ištikimybės prigimtį.
-* Ginklas, daiktas ar reikšmingas artefaktas suteikiamas dieviškomis priemonėmis, arba kaip užduoties rezultatas, arba kitais būdais jį įgyjant. Šis daiktas yra neįtikėtinai galingas ir atpažįstamas visų, kurie pritaria personažo ištikimybei arba jai priešinasi.
-* Visiškas suvartojimas dieviškos jėgos ir atgimimas kaip jos gyvas avataras, prarandant ar įgyjant charakteristikų balų, kaip tinka, o maksimaliems galios taškams padvigubėjant (nors POW charakteristika lieka nepakitusi). Personažas gali net tapti dieviška būtybe, panašia į angelą ar demoną.
+* Didelio asmeninio tikslo pasiekimas, pavyzdžiui, susitikimas su savo vienintele tikra meile arba dvasinės prieglaudos, kurioje įmanoma pasiekti tobulą laimę ir pabėgti nuo pasaulio suirutės, radimas. Tai gali baigtis ir tragiškai, veikėjui pasiekiant episkią lemtį, kur vienintelis tinkamas rezultatas yra mirtis.
+* Ribotas nemirtingumas, kai kūnas normaliai nepasensta arba neserga ligomis ar kitais negalavimais. Veikėjo gijimo greitis nesikeičia ir jie vis dar gali būti nužudyti ginklais ar kitokiais sužeidimais. Iškreipti dievai gali nuspręsti, kad šis nemirtingas kūnas yra dviprasmiška palaima, pavyzdžiui, baisūs randai, nesibaigiantis skausmas ar kokia nors antgamtinė žymė, kurios negalima pašalinti.
+* Nuolatinių pataikymo taškų padidinimas iki IŠT+DYD (ar tiesiog dabartinių pataikymo taškų padvigubinimas). Jei naudojamos kūno vietos, jos taip pat atitinkamai koreguojamos. Jei naudojami bendri pataikymo taškai, padvigubinkite juos.
+* Bet kurių trijų žaidėjo pasirinktų įgūdžių, tinkamų ištikimybės prigimčiai, įgūdžių vertinimų padvigubinimas.
+* Ginklas, daiktas ar reikšmingas artefaktas, suteikiamas dieviškomis priemonėmis, arba kaip užduoties rezultatas, arba kitais būdais jį įgyjant. Šis daiktas yra neįtikėtinai galingas ir atpažįstamas visų, kurie dalijasi arba priešinasi veikėjo ištikimybei.
+* Būti visiškai sunaudotam dieviškos jėgos ir atgimti kaip jos gyvasis avataras, prarandant ar įgyjant charakteristikų taškų, kaip tinkama, su maksimalių galios taškų padvigubinimu (nors GAL charakteristika lieka nepakitusi). Veikėjas gali net tapti dieviška būtybe, panašia į angelą ar demoną.
 
-Šiuo momentu personažas turi POW×3 tikimybę užmegzti tiesioginį ir neatidėliotiną ryšį su jėga. Jėga dominuoja personažo gyvenime, bendraudama su jais dažnai ir tiesiogiai. Tai netgi gali tapti kliūtimi; jėgai kišantis į veiksmus, kurie neskatina jos valios.
+Šiame taške žaidėjo veikėjas turi GAL×3 tikimybę inicijuoti tiesioginį ir neatidėliotiną ryšį su jėga. Jėga dominuoja veikėjo gyvenime, komunikuodama su jais dažnai ir tiesiogiai. Tai net gali tapti kliūtimi; jėgai kišantis į veiksmus, kurie neskatina jos valios.
 
-## Aistros (Papildoma taisyklė)
+## Aistros (Parinktis)
 
-Nuotykiai dažnai būna kupini intensyvių emocijų, kurios gali vesti į didvyriškumo aukštumas ir tragedijos gelmes. Jos apibrėžiamos kaip **aistros**, išskirtiniai emociniai ryšiai su įvairiais subjektais, grupėmis, vietomis ar net savimi. Meilė, Neapykanta, Baimė, Atsidavimas ir Ištikimybė dažnai patenka į baisų konfliktą vienas su kitu, taip pat iššūkį kelia asmeniniai garbės kodeksai. Jos vertinamos kaip įgūdžiai ir metamos D100, leidžiant personažui tapti **įkvėptam**, jų veiksmus įkraunant jų įsitikinimais. Įkvėpti personažai labiau sugeba įveikti iššūkius su viršžmogiškomis pastangomis ir sėkmės tikimybe. Tokio metimo nepavykimas gali vesti į **beviltiškumą** ar depresiją.
+Nuotykiai dažnai yra pilni intensyvių emocijų, kurios gali vesti į didvyriškumo aukštumas ir tragedijos gelmes. Tai apibrėžiama kaip **aistros**, išskirtiniai emociniai ryšiai su įvairiais subjektais, grupėmis, vietomis ar net pačiu savimi. Meilė, Neapykanta, Baimė, Atsidavimas ir Lojalumas dažnai patenka į baisų konfliktą vienas su kitu, taip pat iššūkį kelia asmeniniai garbės kodeksai. Jos vertinamos kaip įgūdžiai ir ridenamos ant D100, leidžiant veikėjui tapti **įkvėptu**, jų veiksmus įkrovus jų įsitikinimais. Įkvėpti veikėjai labiau geba įveikti iššūkius su antžmogiškomis pastangomis ir sėkmės tikimybe. Tokio ridenimo nepavykimas gali vesti į **beviltiškumą** ar depresiją.
 
-Kaip ir įgūdžiai, aistros didėja per sėkmingą naudojimą su patirtimi, o kai kurios iš jų gali būti sumažintos per aistrai prieštaraujančius veiksmus. Žaidėjai visada kontroliuoja savo personažų elgesį: aistros tik informuoja, kaip personažas jaučiasi subjekto atžvilgiu, nesvarbu, kaip skirtingai jie elgiasi.
+Kaip ir įgūdžiai, aistros didėja per sėkmingą naudojimą su patirtimi, o kai kurios iš jų gali būti sumažintos per veiksmus, prieštaraujančius aistrai. Žaidėjai visada kontroliuoja savo veikėjų elgesį: aistros tik informuoja, kaip veikėjas jaučiasi subjekto atžvilgiu, nepaisant to, kaip skirtingai jie elgiasi.
 
 ### Pagrindinės aistros
 
-Dažniausios aistros aprašytos čia, nors šis sąrašas nėra išsamus. Kaip ir įgūdžių specialybė, skliausteliuose po aistros nurodoma, kad turi būti pasirinktas tinkamas dėmesio centras.
+Čia aprašomos pačios dažniausios aistros, nors šis sąrašas nėra baigtinis. Kaip ir įgūdžių specialybė, skliausteliuose po aistros nurodoma, kad turi būti pasirinktas tinkamas fokusas.#### Pagarba (dievybei)
 
-#### Atsidavimas (dievybė)
+Pagarba dievui ar dieviškajai jėgai atspindi asmeninį gyvenimo pašventimą dievybei, kokiai nors dieviškajai jėgai ar esybei. Tai rodo nuoširdų emocinį atsidavimą ir tvirtą tikėjimą. Kai naudojamas įkvėpimui, tas tikėjimas pasireiškia veikėjo viduje, suteikdamas jam bent menką drąsos dozę.
 
-Atsidavimas dievui ar dieviškai jėgai reiškia asmeninį savo gyvenimo atsidavimą dievybei ar kokiai nors dieviškai jėgai ar subjektui. Tai rodo nuoširdų emocinį pasišventimą ir stiprų tikėjimą. Kai naudojama įkvėpimui, tas tikėjimas pasireiškia personažo viduje, pripildydamas juos tam tikro kiekio drąsos.
+#### Baimė (rūšis arba asmuo)
 
-#### Baimė (tipas arba individas)
+Baimė yra galbūt viena stipriausių aistrų, skatinanti visokeriopą elgesį, į gerąją ar blogąją pusę. Baimė gali priversti asmenį bėgti nuo objekto, elgtis neracionaliai, kad išvengtų jo buvimo, arba net sukelti neigiamą reakciją.
 
-Baimė yra galbūt viena stipriausių aistrų, varanti visą elgesį, į gerąją ar blogąją pusę. Baimė gali sukelti asmeniui bėgimą nuo subjekto arba iracionalų veikimą, kad išvengtų jo buvimo, arba ji gali net sukelti neigiamą reakciją.
+Įprastos Baimės gali būti sutelktos į tam tikrą grupę arba asmenį, pavyzdžiui, buvusį priešą ar išdaviką giminaitį. Baimė negali būti apibrėžta bendromis sąvokomis ar jėgomis, tokiomis kaip „senatvė“ ar „žemės drebėjimai“, ir paprastai nėra naudinga, kai objektas yra kažkas, ko bijotų bet kuri sveiko proto būtybė, pavyzdžiui, mirtis.
 
-Bendros baimės gali būti sutelktos į konkrečią grupę ar individą, pavyzdžiui, buvusį priešą ar klastingą giminaitį. Baimė negali būti apibrėžta bendroms koncepcijoms ar jėgoms, tokioms kaip „senatvė“ ar „žemės drebėjimai“, ir paprastai nėra naudinga, kai subjektas yra kažkas, ko bijotų kiekviena protinga būtybė, pavyzdžiui, mirtis.
+Norint įkvėpti veikėją, Baimės objektas turi būti šalia arba jo pasirodymas turi būti neišvengiamas. Veikėjas negali būti motyvuojamas Baimės, jei objektas yra už šimtų kilometrų ir nerodo jokių ženklų, kad artinasi. Grėsmė susidurti su objektu turi būti reali ir neatidėliotina.
 
-Norint įkvėpti personažą, Baimės subjektas turi būti arba esamas, arba jų buvimas turi būti neišvengiamas. Negalima būti motyvuotam Baimės, jei subjektas yra šimtų kilometrų atstumu ir nerodo jokių atvykimo ženklų. Grėsmė susidurti su subjektu turi būti tikra ir neatidėliotina.
+Dėl įkvėpimo Baime kylantis elgesys gali būti pagalba tam tikrai vengimo, bėgimo ar gynybos nuo objekto forma, arba net agresyvaus pasipriešinimo skatinimas, kai esama įvarytam į kampą. Kartais žaidimo meistras gali paprašyti žaidėjo mesti kauliukus Baimės aistrai patikrinti, jei veikėjas imasi veiksmų, kurie priartintų jį prie baimės šaltinio.
 
-Gautas elgesys, įkvėptas Baimės, gali padėti išvengti, bėgti ar gintis nuo subjekto, arba net paskatinti smurtinį pasipriešinimą, kai užspeista į kampą. Kartais, visgi, žaidimo meistras gali paprašyti žaidėjo mesti už savo Baimės aistrą, jei personažas leidžiasi į veiksmų eigą, kuri juos susietų su baimės šaltiniu.
+#### Neapykanta (grupė arba asmuo)
 
-#### Neapykanta (grupė arba individas)
+Neapykanta, deja, motyvuoja daugelį žmonių, nesvarbu, ar per rasizmą, fanatizmą, ar remiantis konkrečia neapykanta dėl praeities skriaudos, tikros ar įsivaizduojamos.
 
-Neapykanta, deja, motyvuoja daugelį žmonių, nesvarbu, ar per rasizmą, fanatizmą, ar pagrįstą ypatinga neapykanta praeities klaidai, tikrai ar įsivaizduojamai.
-
-Kai naudojama įkvėpimui, Neapykanta gali būti naudojama tik prieš specifinį subjektą ar subjektų tipą ir netaikoma tiems, kurie yra sąjungininkai su neapykantos subjektu. Neapykanta taip pat gali būti nukreipta į specifinius žmones, dažniausiai dėl specifinių asmeninių priežasčių.
+Kai naudojama įkvėpimui, Neapykanta gali būti naudojama tik prieš konkretų objektą arba subjektų tipą ir netaikoma tiems, kurie yra susivieniję su neapykantos objektu. Neapykanta taip pat gali būti nukreipta į konkrečius žmones, paprastai dėl specifinių asmeninių priežasčių.
 
 #### Garbė
 
-Garbė yra kario dorybė, asmeninis orumo, vientisumo ir pasididžiavimo kodeksas. Asmeninė garbė nėra slidus klausimas, priklausantis nuo interpretacijos. Skirtumas tarp garbingo veiksmo ir negarbingo veiksmo yra aiškus kiekvienam, nesvarbu, kaip jie elgiasi. Negarbės lentelė pateikia dalykus, kuriuos dauguma žmonių sutinka esant negarbingais veiksmais vidutiniam asmeniui. Šių darbų atlikimas mažina garbę.
+Garbė yra kario dorybė, asmeninis orumo, sąžiningumo ir pasididžiavimo kodeksas. Asmeninė garbė nėra slidus dalykas, priklausantis nuo interpretacijos. Skirtumas tarp garbingo ir negarbingo veiksmo yra aiškus visiems, nepriklausomai nuo to, kaip jie elgiasi. Negarbės lentelėje išvardyti dalykai, kuriuos dauguma žmonių laiko negarbingais veiksmais vidutiniam asmeniui. Šių veiksmų atlikimas mažina garbę.
 
 ##### Negarbė
 
 | Negarbingas veiksmas | Prarasta garbė |
 | :---- | :---- |
-| Ataka prieš neginkluotą priešą | –5% |
+| Neginkluoto priešininko užpuolimas | –5% |
 | Bailumas | –5% |
-| Dezertavimas iš mūšio | –5% |
-| Atsisakymas suteikti pasigailėjimą, kai jis užtarnautas | –5% |
-| Šventos vietos plėšimas savo religijos | –5% |
-| Nemandagumas kažkam, esančiam po jūsų apsauga | –10% |
+| Dezertyravimas iš mūšio | –5% |
+| Gailestingumo atsisakymas, kai jis nusipelnytas | –5% |
+| Savo religijos šventos vietos plėšimas | –5% |
+| Nemandagumas asmeniui, esančiam jūsų apsaugoje | –10% |
 | Akivaizdus bailumas | –15% |
-| Išdavystė prieš savo sąjungininkus | –15% |
+| Sąjungininkų išdavystė | –15% |
 | Priesaikos sulaužymas | –25% |
-| Silpnųjų puolimas ar apvogimas | –25% |
-| Kažko silpnesnio už save nužudymas | –35% |
-| Išprievartavimas ar seksualinė prievarta | –50% |
+| Silpnesniųjų užpuolimas ar apiplėšimas | –25% |
+| Silpnesnio už save nužudymas | –35% |
+| Išžaginimas ar seksualinis smurtas | –50% |
 | Šeimos narių nužudymas | –50% |
 
-Garbė yra specifinė personažui ir neapima kitų socialinių įsipareigojimų. Garbė nėra pažeidžiama, jei kas nors įžeidžia jų šeimą – Meilė (šeima) tai apima. Panašiai, kažkas, įžeidžiantis kažkieno dievą, turėtų žiūrėti Atsidavimo (dievybės) arba Ištikimybės (šventovės) Aistrą, ne Garbę.
+Garbė yra specifinė veikėjui ir neapima kitų socialinių įsipareigojimų. Kieno nors garbė nėra pažeidžiama, jei kažkas įžeidžia jo šeimą – tai apima Meilė (šeima). Panašiai, jei kas nors įžeidžia dievą, reikėtų kreiptis į Pagarba (dievybei) arba Lojalumas (šventyklai) aistrą, o ne Garbę.
 
-Garbė gali apimti beveik viską, ką personažas pasirenka, ir jų pačių individualus garbės kodeksas turėtų būti išvystytas, kai ši aistra pasirenkama. Kažkas su ypač aukšta Garbe gali būti įžeistas dėl bet ko, ką kas nors pasako, kas galėtų būti interpretuojama kaip įžeidimas, o personažas su maža Garbe ar jos neturintis gali nesirūpinti, kas apie juos sakoma.
+Garbė gali apimti beveik viską, ką veikėjas pasirenka, ir jo individualus garbės kodeksas turėtų būti sukurtas, kai pasirenkama ši aistra. Asmuo, turintis itin aukštą Garbę, gali įsižeisti dėl bet ko, ką kas nors pasako ir kas gali būti suprasta kaip įžeidimas, o veikėjas, turintis mažą Garbę arba jos neturintis, gali nekreipti dėmesio į tai, kas apie jį sakoma.
 
 #### Meilė
 
-Meilė yra emocinis ryšys ar potraukis, kurį jaučia vienas asmuo kitam asmeniui ar grupei. Personažas gali turėti daug meilių.
+Meilė yra emocinis ryšys arba potraukis, kurį vienas asmuo jaučia kitam asmeniui ar grupei. Veikėjas gali turėti daug meilių.
 
-* **Meilė (šeima)** yra natūrali emocija, būdinga žmonijai bet kokioje amžiaus grupėje ar kultūroje. Artima šeima dažnai yra pirmoji ir svarbiausia bendruomenė, kuriai priklausai. Šeimos nariai tikisi palaikyti, saugoti ir atkeršyti vienas už kitą.
-* **Meilė (individas)** rodo gilų jausmą ir potraukį kitam asmeniui. Tai paprastai reiškia fizinį ir kūnišką įsipareigojimą, nors tai taip pat gali apimti neatsakytą meilę.
+* **Meilė (šeima)** yra natūrali emocija, būdinga žmonijai bet kokioje epochoje ar kultūroje. Artima šeima dažnai yra pirmoji ir svarbiausia bendruomenė, kuriai priklausote. Tikimasi, kad šeimos nariai vienas kitą rems, saugos ir gins.
+* **Meilė (asmeniui)** rodo gilų jausmą ir potraukį kitam žmogui. Tai paprastai reiškia fizinį ir kūnišką įsipareigojimą, nors gali apimti ir nelaimingą meilę.
 
-#### Ištikimybė (grupė arba vieta)
+#### Lojalumas (grupė arba vieta)
 
-Ištikimybė yra visos visuomenės kertinis akmuo už šeimos ribų. Tai socialinis ryšys, kurį bendruomenės nariai jaučia vienas kitam. Su ja galima šauktis tą bendruomenę paramos.
+Lojalumas yra visos visuomenės už šeimos ribų kertinis akmuo. Tai socialinis ryšys, kurį bendruomenės nariai jaučia vieni kitiems. Su juo galima kreiptis į tą bendruomenę paramos.
 
-Personažas su prieštaringomis ištikimybėmis gali naudoti savo atitinkamus Ištikimybės įverčius, kad nustatytų tinkamą veiksmų eigą. Žaidėjas gali rinktis remdamasis aukštesniu Ištikimybės įverčiu arba išbandyti juos kaip priešingą metimą. Taigi žaidėjas gali naudoti priešingą metimą, kad nustatytų, ar personažas paklus savo gimtojo miesto ištikimybei ar individo ištikimybei, jei tos ištikimybės konfliktuoja.
+Veikėjas, turintis prieštaringų lojalumų, gali naudoti atitinkamus Lojalumo įvertinimus, kad nustatytų tinkamą veiksmų eigą. Žaidėjas gali rinktis remdamasis aukštesniu Lojalumo įvertinimu arba patikrinti juos priešpriešiniu metimu. Taigi, žaidėjas gali naudoti priešpriešinį metimą, kad nustatytų, ar jo veikėjas paklus lojalumui gimtajam miestui, ar asmeniui, jei šie lojalumai prieštarauja vienas kitam.
 
-* **Ištikimybė (bendruomenė)** yra ryšio, kurį personažas turi su savo kultūra, matas. Tai paprastai apima įsipareigojimą atkeršyti už įžeidimus ar sužalojimus prieš tą bendruomenę ar jos narius. Ištikimybė (bendruomenė) naudojama gauti tos bendruomenės paramą.
-* **Ištikimybė (vieta)** yra matas noro gyventi, kovoti ir mirti už vietą, kuriai jie jaučia didžiulį ryšį. Tai gali būti gimtasis miestas ar net šalis.
-* **Ištikimybė (individas)** yra personažo ryšio su specifiniu individu, pavyzdžiui, valdovu, viršininku ar kitu globėju, matas. Karys skolingas asmeninę ištikimybę savo vadui; mainais vadas atlygina savo sekėjams kompensacija, parama ar kitomis privilegijomis. Ištikimybė (individas) taip pat naudojama gauti asmeninę to individo paramą.
+* **Lojalumas (bendruomenei)** yra veikėjo ryšio su savo kultūra matas. Jis paprastai apima įsipareigojimą atkeršyti už įžeidimus ar skriaudas tai bendruomenei ar jos nariams. Lojalumas (bendruomenei) naudojamas norint gauti atitinkamos bendruomenės paramą.
+* **Lojalumas (vietovei)** yra noro gyventi, kovoti ir mirti už vietą, kuriai jaučiamas didžiulis prisirišimas, matas. Tai gali būti gimtasis miestas, miestas ar net šalis.
+* **Lojalumas (asmeniui)** yra veikėjo ryšio su konkrečiu asmeniu, pavyzdžiui, valdovu, viršininku ar kitu globėju, matas. Karys yra skolingas asmeninį lojalumą savo vadui; mainais vadas atlygina savo sekėjams kompensacija, parama ar kitomis privilegijomis. Lojalumas (asmeniui) taip pat naudojamas norint gauti to asmens asmeninę paramą.
 
-Gali egzistuoti ir kitos aistros, tokios kaip Nepasitikėjimas (individas ar grupė), Pagarba (individas ar grupė) ar Godumas, kuris veikia kaip Garbė ir gali paskatinti godų elgesį. Galite dirbti su savo žaidėjais, kad sukurtumėte kitas aistras, jei pageidaujama, bet jei naudojami asmenybės bruožai, būkite atsargūs, kad per daug nesutaptų su jais.
+Gali egzistuoti ir kitos aistros, tokios kaip Nepasitikėjimas (asmeniu ar grupe), Pagarba (asmeniui ar grupei) ar Gobšumas, kuris veikia kaip Garbė ir gali skatinti godų elgesį. Galite kartu su savo žaidėjais sugalvoti kitų aistrų, jei pageidaujate, bet jei naudojami asmenybės bruožai, būkite atsargūs, kad jie per daug nesikirstų su jais.
 
 ### Pradinės aistros
 
-Lengviausias būdas nustatyti pradines aistras – leisti žaidėjams jas apibrėžti. Kai sukuriami personažai, leiskite kiekvienam žaidėjui pasirinkti tris aistras, jų personažas pradeda su viena aistra 80% ir dviem 60%.
+Lengviausias būdas nustatyti pradines aistras – leisti žaidėjams jas apibrėžti. Kai kuriami veikėjai, leiskite kiekvienam žaidėjui pasirinkti tris aistras: viena aistra 80%, o dvi 60%.
 
-Jei pageidaujama, aistros gali būti priskirtos arba pakoreguotos remiantis personažo kultūra ar kilmės vieta.
+Jei pageidaujama, aistros gali būti priskirtos arba modifikuotos atsižvelgiant į veikėjo kultūrą ar kilmės vietą.
 
 ### Aistrų naudojimas
 
-Aistros apibrėžia personažo gyvenimo ketinimus ir tarnauja jų įkvėpimui. Žaidimo meistras gali reikalauti aistros metimo. Kitais atvejais žaidėjas gali pasiūlyti ir paprašyti, su žaidimo meistro pritarimu. Štai keletas būdų, kaip aistros gali paveikti žaidimą.
+Aistros apibrėžia veikėjo gyvenimo tikslus ir tarnauja jam įkvėpti. Žaidimo meistras gali paprašyti aistros metimo. Kitais atvejais žaidėjas gali pasiūlyti ir paprašyti vieno, su žaidimo meistro pritarimu. Štai keletas būdų, kaip aistros gali paveikti žaidimą.
 
-#### Žaidimo vaidmenimis gairės
+#### Vaidmenų žaidimo gairės
 
-Savo pagrindiniame lygmenyje aistra yra skaitmeninis intensyvumo, kurį personažas jaučia subjekto atžvilgiu, matas, ir gali būti naudojama žaidėjo, kai kyla klausimas, kaip personažas elgtųsi. Kuo aukštesnė aistra, tuo labiau tikėtina, kad personažas veiks pagal ją. Kuo žemesnė aistra, tuo labiau personažas gali ją ignoruoti.
+Paprasčiausiu pavidalu aistra yra skaitinis intensyvumo, kurį veikėjas jaučia aistros objektui, įvertinimas, ir žaidėjas gali jį naudoti, kai kyla klausimas, kaip veikėjas elgtųsi. Kuo aukštesnė aistra, tuo labiau tikėtina, kad veikėjas pagal ją elgsis. Kuo žemesnė aistra, tuo labiau veikėjas gali ją ignoruoti.
 
-Žaidėjai visada kontroliuoja savo personažus, bet aistros metimai gali būti naudojami, kai aiški veiksmų eiga nėra akivaizdi arba kai žaidimo meistras mano, kad personažas elgiasi drastiškai „ne pagal savo būdą“. Nors žaidėjas vis dar vadovauja, žaidimo meistras gali pavaizduoti ėjimą prieš aistrą (išmestą arba aukštą balą) su komentarais, tokiais kaip „Tavo personažui kyla blogas jausmas, bet jis spaudžia toliau“ ar kažkuo panašiu.
+Žaidėjai visada kontroliuoja savo veikėjus, tačiau aistros metimai gali būti naudojami, kai aiški veiksmų eiga nėra akivaizdi arba kai žaidimo meistras mano, kad veikėjas elgiasi drastiškai „ne pagal savo būdą“. Nors žaidėjas vis dar vadovauja, žaidimo meistras gali pavaizduoti pasipriešinimą aistrai (mestai arba aukštam įvertinimui) komentarais kaip „Jūsų veikėjas jaučia kažką blogo, bet spaudžia toliau“ arba panašiai.
 
 #### Demonstravimas ir parama
 
-Personažas su Ištikimybe gali būti paprašytas mesti ją, kad įtikintų ką nors kitą, jog jie abu dalijasi ta pačia ištikimybe. Bandymas demonstruoti savo Atsidavimą, Neapykantą, Meilę ar Ištikimybę, kad palenktum kitus ir būtum geras pavyzdys, yra puikus būdas naudoti aistras žaidime. Pasisekė – ir gali būti pasiūlyta abipusė parama ir pagalba; nepavyko – ir personažas gali būti atmestas kaip apsimetėlis ir apgavikas.
+Veikėjas su Lojalumu gali būti paprašytas mesti kauliukus, įtikinant ką nors kitą, kad jie abu dalijasi ta pačia ištikimybe. Bandymas demonstruoti savo Pagarbą, Neapykantą, Meilę ar Lojalumą, siekiant įtikinti kitus ir būti geru pavyzdžiu, yra puikūs būdai naudoti aistras žaidime. Pasisekus, gali būti pasiūlyta abipusė parama ir pagalba; nepavykus, veikėjas gali būti atstumtas kaip apsimetėlis ir sukčius.
 
 #### Įkvėpimas
 
-Personažas gali bandyti būti įkvėptas savo aistros ir paprašyti metimo padidinti įgūdį, su žaidimo meistro pritarimu. Tik vienas bandymas įkvėpti gali būti atliktas situacijoje ar „scenoje“ – pavyzdžiui, kovos trukmės metu, socialinio susibūrimo, veiksmo sekos metu ir kt. Personažas neturi progos atlikti įkvėpimo metimo kiekvieną kartą, kai bandomas tas pats veiksmas. Įkvėpimas trunka tiek, kiek reikia veiklai užbaigti, pavyzdžiui, kovos ar mūšio trukmę (maksimali trukmė – viena diena). Jei kyla abejonių, žaidimo meistras nustato įkvėpimo trukmę. Bandymas įkvėpti remiantis aistra neužima jokio laiko – jie gali įvykti kaip kito veiksmo dalis.
+Veikėjas gali bandyti būti įkvėptas savo aistros ir paprašyti metimo įgūdžiui sustiprinti, su žaidimo meistro pritarimu. Vienoje situacijoje ar „scenoje“ – pavyzdžiui, kovos, socialinio susibūrimo, veiksmo sekos trukmės metu – galima atlikti tik vieną bandymą įkvėpti. Veikėjas neturi galimybės atlikti įkvėpimo metimo kiekvieną kartą, kai bandoma atlikti tą patį veiksmą. Įkvėpimas trunka tiek laiko, kiek reikia veiklai užbaigti, pavyzdžiui, kovos ar mūšio trukmę (maksimali trukmė – viena diena). Jei kyla abejonių, žaidimo meistras nustato įkvėpimo trukmę. Bandymas įkvėpti remiantis aistra neužima laiko – tai gali vykti kaip kito veiksmo dalis.
 
-Žaidimo meistras turi galutinį žodį, ar aistros metimas įkvėpimui gali būti bandomas. Žaidėjai įspėjami, kad aistros metimai gali būti itin rizikingi, taip pat kaip ir apdovanojantys: aistros metimo klaida (fumble) veda į beviltiškumą! Jei personažas jau metė, kad būtų įkvėptas aistros per nagrinėjamą situaciją, jie negali bandyti būti įkvėpti vėl, net su kita aistra. Be to, įkvėpimo premija negali būti derinama su padidinimu iš kito įgūdžio.
+Žaidimo meistras turi galutinį žodį, ar galima bandyti aistros metimą įkvėpimui. Žaidėjai įspėjami, kad aistros metimai gali būti labai rizikingi, taip pat ir naudingi: nepavykęs aistros metimas sukelia nevilties būseną! Jei veikėjas jau metė kauliukus, kad būtų įkvėptas aistros esamoje situacijoje, jis negali bandyti įkvėpti dar kartą, net ir kitos aistros. Be to, įkvėpimo premija negali būti derinama su kito įgūdžio padidinimu.
 
-Prisiminkite, kad žaidimo meistras turi galutinį žodį dėl tinkamumo bandyti įkvėpti ir jos trukmę. Žaidėjas turi mesti prieš aistros įvertį D100:
+Atminkite, kad žaidimo meistras turi galutinį žodį dėl Įkvėpimo bandymo tinkamumo ir jo trukmės. Žaidėjas turi mesti D100 prieš aistros įvertinimą:
 
-* **Kritinė sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +50% premiją užduoties ar situacijos trukmei. Įgijamas patirties patikrinimas aistroje.
-* **Speciali sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +30% premiją užduoties ar situacijos trukmei. Įgijamas patirties patikrinimas aistroje.
-* **Sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +20% premiją užduoties ar situacijos trukmei. Įgijamas patirties patikrinimas aistroje.
-* **Nesėkmė:** Personažas nusiminęs, modifikuoja visus tolesnius metimus, atliktus situacijoje ar scenoje, –10%. Ši bauda baigiasi su kita scena.
-* **Klaida (fumble):** Aistra nedelsiant modifikuojama –1D10% ir personažą užvaldo beviltiškumas (žr. Beviltiškumo lentelę). Beviltiškumo trukmei personažas yra efektyviai nepajėgus daryti nieko daugiau, kaip tik bėgti ar slėptis, nors žaidimo meistras gali leisti tam tikro laipsnio veiksmus už to ribų tinkamomis aplinkybėmis.
+* **Kritinė sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +50% premiją užduoties ar situacijos trukmei. Įgyjama patirties patikra aistrai.
+* **Speciali sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +30% premiją užduoties ar situacijos trukmei. Įgyjama patirties patikra aistrai.
+* **Sėkmė:** Vienas pasirinktas įgūdis laikinai gauna +20% premiją užduoties ar situacijos trukmei. Įgyjama patirties patikra aistrai.
+* **Nesėkmė:** Veikėjas yra prislėgtas, modifikuodamas visus tolesnius metimus situacijoje ar scenoje –10%. Ši bauda baigiasi su kita scena.
+* **Klaida:** Aistra nedelsiant modifikuojama –1D10% ir veikėją apima neviltis (žr. sekančią Nevilties lentelę). Nevilties trukmei veikėjas yra praktiškai nepajėgus daryti nieko kito, tik bėgti ar slėptis, nors žaidimo meistras tinkamomis aplinkybėmis gali leisti tam tikrą veiksmą.
 
-##### Beviltiškumas
+##### Neviltis
 
-| Rezultatas | Beviltiškumo trukmė |
+| Rezultatas | Nevilties trukmė |
 | :---- | :---- |
 | 1–3 | 1D10 kovos raundų |
 | 4–7 | D10+10 kovos raundų |
-| 8–9 | Iki saulėlydžio, saulėtekio ar panašios trukmės |
+| 8–9 | Iki saulėlydžio, saulėtekio ar panašaus laiko |
 | 10 | 1D3 žaidimo dienos |
 
-Jei aistra kada nors sumažinama iki 0%, pašalinkite ją iš personažo lapo. Aistra negali nukristi žemiau 0. Be to, personažas niekada negali atgauti aistros, kuri buvo prarasta šiuo būdu: ji buvo išsekusi ir negali būti atnaujinta, nebent žaidimo meistras nuspręstų, kad nepaprastos aplinkybės ar elgesys vertas jos sugrįžimo.
+Jei aistra kada nors sumažinama iki 0%, pašalinkite ją iš veikėjo lapo. Aistra negali nukristi žemiau 0. Be to, veikėjas niekada negali susigrąžinti šiuo būdu prarastos aistros: ji yra išsekusi ir negali būti atnaujinta, nebent žaidimo meistras nuspręstų, kad nepaprastos aplinkybės ar elgesys nusipelno jos sugrįžimo.
 
 ### Privalomi metimai
 
-Aistros ties 80% ar aukščiau atstovauja tvirtai laikomiems įsitikinimams ir ryšiams ir nėra skirtos būti žiūrimoms lengvai ar naudojamoms tik tada, kai patogu. Tokios ekstremalios aistros gali reikalauti, kad žaidėjas atliktų privalomus metimus dėl šių įsitikinimų, jei žaidimo meistras pasirenka. Apskritai, žaidimo meistras turi keletą variantų, jei žaidėjas priverčia savo personažą daryti kažką netinkamo jų įverčiui svarbioje aistroje, pavyzdžiui, personažas su Neapykanta (Naciai) 95% paleidžiantis kai kuriuos nacius po kovos.
+Aistros 80% ar aukštesniame lygyje atspindi tvirtai laikomus įsitikinimus ir ryšius, todėl į juos negalima žiūrėti lengvabūdiškai arba naudoti tik tada, kai patogu. Tokios ekstremalios aistros gali reikalauti, kad žaidėjas atliktų privalomus metimus dėl šių įsitikinimų, jei žaidimo meistras pasirenka. Apskritai, žaidimo meistras turi keletą variantų, jei žaidėjas priverčia savo veikėją padaryti kažką netinkamo pagal jo įvertinimą atitinkamoje aistroje, pavyzdžiui, veikėjas su Neapykanta (naciams) 95% paleidžia narius po kovos.
 
-* Sumažinkite aistrą iki žemiau 80%.
-* Priešinkite aistrą kitai aistrai kaip priešingą metimą. Jei priešingas gebėjimas laimi konkursą su Runa ar aistra, žaidėjas gali elgtis kitu būdu nemodifikuodamas pirminės aistros. Šiuo atveju konfliktuojanti aistra nugalėjo.
+* Sumažinti aistrą žemiau 80%.
+* Priešpriešinti aistrą kita aistra kaip priešpriešinį metimą. Jei prieštaraujantis gebėjimas laimi varžybas su Rūna ar aistra, žaidėjas gali veikti kitaip, nemodifikuodamas pirminės aistros. Šiuo atveju prieštaraujanti aistra laimėjo.
 
 ### Aistros įgijimas
 
-Aistros gali būti lengvai įgytos žaidimo metu. Personažai turėtų gauti daug progų įgyti priešų, mylimųjų, sąjungininkų ir ištikimybių. Tiek žaidėjas, tiek žaidimo meistras turėtų sutarti dėl naujos aistros įvedimo. Kai kažkas reikšmingo nutinka personažui, žaidimo meistras ar žaidėjas gali pasiūlyti, kad aistra buvo sugeneruota. Paprastai pradinė vertė yra 60%, bet gali būti aukštesnė priklausomai nuo aplinkybių.
+Aistros gali būti lengvai įgyjamos žaidimo metu. Veikėjai turėtų gauti daug galimybių įgyti priešų, mylimųjų, sąjungininkų ir lojalumų. Tiek žaidėjas, tiek žaidimo meistras turėtų sutarti dėl naujos aistros įvedimo. Kai veikėjui nutinka kažkas reikšmingo, žaidimo meistras ar žaidėjas gali pasiūlyti, kad buvo sugeneruota aistra. Paprastai pradinė vertė yra 60%, bet gali būti ir aukštesnė priklausomai nuo aplinkybių.
 
-### Savanoriškas aistros sumažinimas
+### Savanoriškas aistros mažinimas
 
-Personažas su aistra 80% ar aukščiau, kuris atlieka veiksmą, tiesiogiai prieštaraujantį tai aistrai, gali arba tiesiog nuleisti aistrą iki 80% (ar žemiau), arba bandyti priešinti tą aistrą kitai. Tačiau personažas gali norėti sumažinti aistrą šiuo būdu:
+Veikėjas, turintis 80% ar aukštesnę aistrą, kuris atlieka veiksmą, tiesiogiai prieštaraujantį tai aistrai, gali arba tiesiog sumažinti aistrą iki 80% (ar žemiau), arba bandyti priešpriešinti tą aistrą kita. Tačiau veikėjas gali norėti sumažinti aistrą šiuo būdu:
 
-* Kai nustatoma patirtis, pasirinkite aistrą, kurią norite nuleisti. Jei ji turi patirties patikrinimą, ji šiuo metu negali būti nuleista. Jei ji nebuvo išbandyta ir žaidėjas nori ją nuleisti, meskite taip, lyg tikrintumėte patirtį. Jei patirties metimas nesėkmingas, sumažinkite aistrą –1D6.
-* Aistra 50% ar žemiau gali būti iš esmės ignoruojama žaidime, nes ji atstovauja ambivalentiškumą subjekto atžvilgiu. Ji gali būti pašalinta iš personažo lapo, kaip pageidaujama.
+* Kai nustatoma patirtis, pasirinkite aistrą, kurią reikia sumažinti. Jei ji turi patirties patikrą, šiuo metu jos sumažinti negalima. Jei ji nebuvo tikrinta ir žaidėjas pageidauja ją sumažinti, meskite, lyg tikrintumėte patirtį. Jei patirties metimas nesėkmingas, sumažinkite aistrą –1D6.
+* 50% ar žemesnė aistra gali būti iš esmės ignoruojama žaidime, nes ji atspindi dviprasmiškumą objekto atžvilgiu. Ją galima pašalinti iš veikėjo lapo, jei pageidaujama.
 
-## Reputacija (Papildoma taisyklė)
+## Reputacija (pasirinktis)
 
-Reputacija matuoja personažo šlovę, žinomumą ir garsą. Ji apima asmens šeimos foną, jei aktualu, ir bet kokius veiksmus, kuriuos jie atliko, kad užsitarnautų reputaciją. Personažo Reputacijai didėjant, žmonės tampa vis labiau sąmoningi apie juos, žinodami vis daugiau apie juos.
+Reputacija matuoja veikėjo šlovę, liūdną garsą ir garsumą. Ji apima asmens šeimos kilmę, jei ji reikšminga, ir visus veiksmus, kuriuos jie atliko norėdami užsitarnauti reputaciją. Veikėjo Reputacijai didėjant, žmonės vis labiau jį atpažįsta, žinodami vis daugiau apie jį.
 
 ### Reputacijos įgijimas
 
-Reputacija įgyjama darant dalykus, kurie pritraukia kitų dėmesį. Patekimas į naujienas, išrinkimas į postą, kažko didelio ir dėmesio verto padarymas, tapimas įžymybe, pagalba kažkam garsiam, garsaus daikto turėjimas – visa tai yra pavyzdžiai dalykų, kurie gali padidinti personažo Reputaciją.
+Reputacija įgyjama darant dalykus, kurie patraukia kitų dėmesį. Patekimas į žinias, išrinkimas į pareigas, kažko didelio ir dėmesio verto nuveikimas, tapimas įžymybe, pagalba kažkam garsiam, garsaus daikto turėjimas – tai visos pavyzdžiai dalykų, kurie gali padidinti veikėjo Reputaciją.
 
-Reputacija nedidėja dėl patirties patikrinimų. Vietoj to, ji didinama žaidimo meistro nuožiūra, remiantis pasiekimais ir įvykiais, kurie nutinka žaidimo metu. Reputacija taip pat gali didėti per neigiamus darbus. Ji nemažėja kaip aistros: elgesys negarbingai, blogio darymas, spektakuliariai nesėkmingas veikimas gali padaryti asmenį tokį pat garsų (ar net labiau) nei epiniai pasiekimai.
+Reputacija nedidėja dėl patirties patikrų. Vietoj to, ji didinama žaidimo meistro nuožiūra, remiantis pasiekimais ir įvykiais, kurie nutinka žaidimo metu. Reputacija taip pat gali didėti per neigiamus veiksmus. Ji nemažėja taip, kaip aistros: elgesys negarbingai, blogio darymas, įspūdingas nesėkmė gali padaryti žmogų lygiai tokį pat garsų (ar net garsesnį) kaip epiniai pasiekimai.
 
-**Reputacijos prieaugio** lentelė (toliau) pateikia pavyzdžius, kaip Reputacija gali didėti. Atminkite, kad veiksmai turi būti žinomi kitiems – Reputacija neįgyjama už veiksmus, atliktus paslaptyje ar neaiškume. Žaidimo meistras skatinamas naudoti šiuos pavyzdžius kaip nurodyta arba naudoti juos kaip gaires kitiems padidinimams.
+**Reputacijos prieaugio** lentelė (žemiau) pateikia pavyzdžių, kaip Reputacija gali didėti. Atkreipkite dėmesį, kad veiksmai turi būti žinomi kitiems – Reputacija neįgyjama už veiksmus, atliktus paslaptyje ar nežinomybėje. Žaidimo meistras skatinamas naudoti šiuos pavyzdžius kaip išvardytus arba naudoti juos kaip gaires kitiems didinimams.
 
-Reputacija iš vieno veiksmo suteikia tik vieną prieaugį, nors žaidimo meistras gali jį modifikuoti už kelis to paties veiksmo pasikartojimus, iki galimo metimo sumos. Jei naudojate aistras, įmanoma įgyti Reputaciją už veiksmą ir prarasti Garbę už jį tuo pačiu metu.
+Reputacija už vieną veiksmą suteikia tik vieną prieaugi, nors žaidimo meistras gali jį modifikuoti už kelis to paties veiksmo pasikartojimus, iki galimo metimo sumos. Jei naudojate aistras, įmanoma įgyti Reputaciją už veiksmą ir tuo pat metu prarasti Garbę.
 
 ##### Reputacijos prieaugis
 
@@ -570,29 +568,29 @@ Reputacija iš vieno veiksmo suteikia tik vieną prieaugį, nors žaidimo meistr
 
 **Pavyzdžiai**
 
-* Svarbios priesaikos davimas.
+* Tam tikros svarbos priesaikos davimas.
 * Vienodai galingo priešo nugalėjimas.
-* Įspūdingas įgūdžio naudojimas; sėkmė dėmesio vertame užmojyje.
+* Išskirtinis įgūdžio panaudojimas; sėkmės pasiekimas dėmesio vertame reikale.
 * Dėmesio vertos vestuvės.
 * Dalyvavimas didelėje kelionėje.
-* Tapimas tėvu laimingo gimimo metu.
+* Tapimas tėvu laimingo gimimo atveju.
 * Svarbaus svečio turėjimas savo namuose ar salėje.
 * Gudraus aljanso sudarymas.
-* Svarbus dalyvavimas garbinimo ceremonijoje.
-* Vietinės žiniasklaidos (laikraštis, raštininkas, minstrelis ir kt.) kalbėjimas apie jus.
-* Populiarus tinklaraštis, knygos rašymas, tapimas nedidele įžymybe ir kt.
-* Keistas atsitiktinumas ar sėkmės smūgis.
+* Svarbaus vaidmens atlikimas garbinimo ceremonijoje.
+* Vietinės žiniasklaidos (laikraščio, raštininko, minstreli, ir t.t.) kalbėjimas apie jus.
+* Populiaraus tinklaraščio turėjimas, knygos rašymas, tapimas menka įžymybe ir t.t.
+* Keistas atsitikimas ar sėkmės blyksnis.
 * Melavimas ir atskleidimas.
-* Maži kriminaliniai aktai.
+* Menki nusikalstami veiksmai.
 * Svarbios priesaikos sulaužymas.
-* Nemandagus elgesys su svečiais namuose ar salėje.
-* Ypač reikšminga klaida ar matomas nesėkmės atvejis.
+* Nemandagus elgesys su svečiais savo namuose ar salėje.
+* Ypač reikšminga klaida ar matoma nesėkmė.
 * Šeimos nario ar sąjungininko praradimas.
 * Aljanso nutraukimas.
-* Maža šventvagystė.
-* Nedidelės gėdos užtraukimas savo šeimai.
+* Menkas šventvagystė.
+* Menkos gėdos užtraukimas savo šeimai.
 
-**Veiksmas**: Nepaprastas
+**Veiksmas:** Nepaprastas
 
 **Prieaugis**: +1D3
 
@@ -600,124 +598,122 @@ Reputacija iš vieno veiksmo suteikia tik vieną prieaugį, nors žaidimo meistr
 
 * Epinės priesaikos davimas.
 * Pranašesnio priešo (ar priešų skaičiaus) nugalėjimas.
-* Kritinis įgūdžio naudojimas, kai tai svarbu.
-* Įspūdinga sėkmė nepaprastame užmojyje.
+* Kritinis įgūdžio panaudojimas, kai tai svarbu.
+* Išskirtinė sėkmė nepaprastame reikale.
 * Prestižinės vestuvės.
-* Dvynių/trynių turėjimas.
+* Dvynių/trynių ir t.t. turėjimas.
 * Didelis aljansas.
-* Tapimas populiarios pasakos, gerai žinomos dainos ar didelės naujienos objektu.
-* Populiarios knygos išleidimas ar populiaraus muzikos kūrinio išleidimas.
-* Pasirodymas labai sėkmingame medijos pasirodyme.
-* Keistas sėkmės smūgis.
-* Didelio priešo užsitarnavimas.
-* Reikšmingas šventvagystės aktas.
-* Išdavystė ar žalos padarymas kažkam, esančiam po jūsų apsauga (pvz., svečiui).
-* Didelis kriminalinis aktas.
+* Tapimas populiarios pasakos, gerai žinomos dainos ar didelės žinios objektu.
+* Populiarios knygos publikavimas ar populiaraus muzikos kūrinio išleidimas.
+* Dalyvavimas labai sėkmingame žiniasklaidos pasirodyme.
+* Keistas sėkmės blyksnis.
+* Pagrindinio priešo užsitarnavimas.
+* Reikšmingas šventvagystės veiksmas.
+* Išdavystė ar žalos padarymas kam nors, esančiam jūsų apsaugoje (pavyzdžiui, svečiui).
+* Didelis nusikalstamas veiksmas.
 * Didelės priesaikos sulaužymas.
-* Giminių žudymas.
-* Spektakuliari klaida ar labai matoma nesėkmė.
+* Giminaičių žudymas.
+* Įspūdinga klaida ar labai matoma nesėkmė.
 * Didelės negarbės užtraukimas savo šeimai.
 
-**Veiksmas**: Didvyriškas
+**Veiksmas**: Herojiškas
 
 **Prieaugis**: +2D6 ar daugiau
 
 **Pavyzdžiai**
 
-* Legendinės sėkmės pasiekimas beveik neįmanomame užmojyje.
-* Armijos vedimas į pergalę arba jos nugalėjimas vienas pats.
+* Legendinės sėkmės pasiekimas beveik neįmanomame reikale.
+* Armijos atvedimas į pergalę arba vienos rankos nugalėjimas.
 * Dieviškos ar nemirtingos prigimties priešo nugalėjimas.
-* Karaliaus ar karalienės vedimas arba tapimas juo.
+* Karaliaus ar karalienės vedimas arba tokiu tapimas.
 * Tapimas dieviškos pranašystės centru.
-* Pasirodymas populiarioje knygoje ar dokumentiniame filme.
-* Epinio dalyko, pavyzdžiui, naujos pagrindinės šventyklos ar rūmų, statyba.
-* Spektakuliarus pralaimėjimas.
+* Dalyvavimas populiarioje knygoje ar dokumentiniame filme.
+* Epinio dalyko, pavyzdžiui, naujos pagrindinės šventyklos ar rūmų, statymas.
+* Įspūdingas pralaimėjimas.
 * Savo tėvų ar vaikų nužudymas.
-* Tamsiausios išdavystės ar niekšybės aktas.
+* Tamsiausios išdavystės ar niekšybės veiksmas.
 
 ### Reputacijos sekimas
 
-Žaidėjas turėtų sekti savo personažo Reputacijos šaltinius ir kiek jos įgyta. Vėlgi, kai Reputacija padidėjo, ji nemažėja. Tiesiog tampama garsiu už skirtingus dalykus. Žaidimo meistras visgi gali modifikuoti jos sėkmės tikimybę (žr. **Reputacijos modifikatoriai**).
+Žaidėjas turėtų sekti savo veikėjo Reputacijos šaltinius ir tai, kiek jos buvo įgyta. Vėlgi, kai Reputacija padidėja, ji nemažėja. Tiesiog tampama garsiu dėl skirtingų dalykų. Žaidimo meistras vis dėlto gali modifikuoti jos sėkmės tikimybę (žr. **Reputacijos modifikatoriai**).
 
 ### Reputacijos naudojimas
 
-Reputacija naudojama dviem būdais: atpažinti kažką arba padaryti įspūdį kitiems (iš esmės sakant „Ar žinote, kas aš esu?“).
+Reputacija naudojama dviem būdais: atpažinti ką nors arba padaryti įspūdį kitiems (iš esmės sakant „Ar žinai, kas aš esu?“).
 
 #### Kažko atpažinimas
 
-Reputacija gali būti naudojama žaidimo meistro, kad ne žaidėjų personažai atpažintų personažą ir priežastį, kodėl jie garsūs, arba žaidėjai gali mesti, kad pamatytų, ar jų personažai girdėjo apie konkretų ne žaidėjų personažą.
+Reputaciją žaidimo meistras gali naudoti norėdamas, kad nežaidėjų veikėjai atpažintų veikėją ir priežastį, kodėl jie yra garsūs, arba žaidėjai gali mesti kauliukus, kad pamatytų, ar jų veikėjai girdėjo apie konkretų nežaidėjų veikėją.
 
-Pritaikykite bet kokias tinkamas Reputacijos premijas ar baudas (žr. **Reputacijos modifikatoriai**) ir meskite. Tai skiriasi nuo įprastų įgūdžių ar charakteristikų, nes metimai atliekami prieš subjekto Reputaciją, o ne savo. Personažas gali bandyti padidinti savo Reputaciją (ar kažkieno kito) su kokiu nors Komunikacijos įgūdžiu, iš esmės kalbėdami apie kažką teigiamai. Jei tinkama, Žinių ar Lore įgūdis gali būti naudojamas padidinti subjekto Reputaciją, jei jie dėmesio verti toje srityje.
+Pritaikykite visus tinkamus Reputacijos priedus ar baudas (žr. **Reputacijos modifikatoriai**) ir meskite. Tai skiriasi nuo įprastų įgūdžių ar savybių, nes metimai atliekami prieš subjekto Reputaciją, o ne savo. Veikėjas gali bandyti sustiprinti savo Reputaciją (ar kieno nors kito) su kokiu nors Bendravimo įgūdžiu, iš esmės kalbėdamas apie ką nors. Jei tinka, Žinių ar Papročių įgūdis gali būti naudojamas sustiprinti subjekto Reputaciją, jei jie yra dėmesio verti toje srityje.
 
-Jei metimas sėkmingas, tas, prieš kurio reputaciją buvo mesta, yra atpažįstamas. Tai greičiausiai paveikia, kaip ne žaidėjų personažas reaguoja į personažą. Geresnės sėkmės teikia daugiau informacijos. Nesėkmė reiškia, kad jie nėra žinomi, o klaida reiškia pražūtingą nesusipratimą ar neteisingos tapatybės atvejį.
+Jei metimas pavyksta, tas, kurio reputacija buvo tikrinama, yra atpažįstamas. Tai greičiausiai paveiks, kaip nežaidėjų veikėjas reaguoja į veikėją. Geresnės sėkmės suteikia daugiau informacijos. Nesėkmė reiškia, kad jie nežinomi, o klaida reiškia katastrofišką nesusipratimą ar klaidingą tapatybę.
 
-Kažkas visada gali bandyti neigti, kas jie yra, bet tai tampa vis sunkiau modernesniuose nustatymuose.
+Kažkas visada gali bandyti neigti, kas yra, bet tai tampa vis sunkiau modernesnėje aplinkoje.#### Kito asmenybės įspūdis
 
-#### Įspūdžio darymas kitiems
+Reputacija gali būti naudojama bandant sustiprinti kai kuriuos komunikacijos įgūdžius, jei tai tinkama. Panašiai žaidimo meistras gali leisti veikėjui pamėginti pakreipti ne žaidėjo veikėjo reakciją į savo pusę.
 
-Reputacija gali būti naudojama bandant padidinti kai kuriuos Komunikacijos įgūdžius, jei tinkama. Panašiai žaidimo meistras gali leisti personažui bandyti palenkti ne žaidėjų personažo reakciją į personažą.
+Norėdami panaudoti Reputaciją kitam įgūdžiui sustiprinti, meskite kauliukus prieš savo veikėjo Reputaciją:
 
-Norint naudoti Reputaciją kito įgūdžio didinimui, meskite prieš personažo Reputaciją:
-
-* **Kritinė sėkmė:** Personažo Reputacija prideda +50% premiją Komunikacijos įgūdžiui, kuris bus naudojamas.
-* **Speciali sėkmė:** Personažo Reputacija prideda +30% premiją Komunikacijos įgūdžiui, kuris bus naudojamas.
-* **Sėkmė:** Personažo Reputacija prideda +20% premiją Komunikacijos įgūdžiui, kuris bus naudojamas.
-* **Nesėkmė:** Personažas atima –20% iš Komunikacijos įgūdžio, kuris bus naudojamas.
-* **Klaida (fumble):** Personažas atima –50% iš Komunikacijos įgūdžio, kuris bus naudojamas.
+* **Kritinė sėkmė:** veikėjo Reputacija prideda +50 % premiją prie naudojamo komunikacijos įgūdžio.
+* **Specialioji sėkmė:** veikėjo Reputacija prideda +30 % premiją prie naudojamo komunikacijos įgūdžio.
+* **Sėkmė:** veikėjo Reputacija prideda +20 % premiją prie naudojamo komunikacijos įgūdžio.
+* **Nesėkmė:** veikėjas atima –20 % iš naudojamo komunikacijos įgūdžio.
+* **Fumblis (baisi nesėkmė):** veikėjas atima –50 % iš naudojamo komunikacijos įgūdžio.
 
 ### Reputacijos modifikatoriai
 
-Reputacija modifikuojama socialinio atstumo nuo auditorijos. Paprastai Reputacija tarp šeimos, darbo vietos ir kaimynystės ar namų zonos yra padidinta. Kita vertus, Reputacija mažėja su nepažįstamaisiais ir pašaliniais. Garsūs politikai, didvyriai ir įžymybės gali būti visiškai nežinomi tolimose vietose. Panašiai, laikui bėgant, Reputacijos tampa mažiau svarbios. Pridėkite modifikatorius prie personažo Reputacijos remdamiesi stebėtojo socialiniu artumu jiems.
+Reputaciją modifikuoja auditorijos socialinis atstumas. Paprastai Reputacija šeimoje, darbo vietoje, kaimynystėje ar gimtojoje vietovėje būna didesnė. Kita vertus, Reputacija mažėja bendraujant su nepažįstamaisiais ir pašaliniais asmenimis. Įžymūs politikai, didvyriai ir garsenybės tolimose vietose gali būti visiškai nežinomi. Panašiai bėgant laikui Reputacija tampa mažiau svarbi. Pridėkite modifikatorius prie veikėjo Reputacijos atsižvelgdami į stebėtojo socialinį artumą veikėjui.
 
 ##### Reputacijos modifikatoriai
 
 | Stebėtojas yra... | Modifikatorius |
 | :---- | :---- |
-| ...iš tos pačios šeimos, įmonės ar vietovės, arba turi bendrų pažįstamų. | +25% |
-| ...daug keliavęs, seka paskalas/naujienas ir yra gerai susijęs. | +10–25% |
+| ...iš tos pačios šeimos, įmonės ar vietovės arba turi bendrų pažįstamų. | +25 % |
+| ...daug keliavęs, seka paskalas/naujienas ir turi daug ryšių. | +10–25 % |
 | ...iš tos pačios kultūros ar regiono. | — |
-| ...iš už personažo socialinio tinklo ar kultūrinės grupės ribų, arba neatsižvelgia į naujausias naujienas. | –25% |
-| ...iš už vietovės, kur personažas užsitarnavo Reputaciją, bet tame pačiame geografiniame regione, arba yra kitos kartos. | –50% |
-| ...iš už geografinio regiono, kur personažas užsitarnavo Reputaciją, arba daug metų nutolęs nuo personažo. | –75% |
+| ...iš už veikėjo socialinio tinklo ar kultūrinės grupės ribų, arba neinformuotas apie naujausias žinias. | –25 % |
+| ...iš už vietovės, kurioje veikėjas užsitarnavo Reputaciją, ribų, bet to paties geografinio regiono, arba kitos kartos atstovas. | –50 % |
+| ...iš už geografinio regiono, kurioje veikėjas užsitarnavo Reputaciją, ribų, arba praėjo daug metų nuo tada, kai veikėjas ten lankėsi. | –75 % |
 
-## Sveikas protas (Papildoma taisyklė)
+## Sveikas protas (Pasirenkama)
 
-Yra daug būdų, kaip personažai gali būti sužaloti fiziškai, per smurtą ar nelaimingus atsitikimus, bet kai kuriems žaidimams stipriausia grėsmė yra ta, kuri kyla žmonių proto stabilumui. Kaip apibrėžta skyriuje „Personažai“, personažai turi papildomą charakteristiką, vadinamą **Sveikas protas**, atstovaujamą **Sveiko proto taškais** (SAN). Kuo daugiau sveiko proto taškų turi personažas, tuo labiau jie yra psichologiškai stabilūs. Sveiko proto taškai prarandami per traumą: susidūrimus su šiurpiais ar nežemiškais monstrais, mirties ar smurtinių įvykių liudijimą, arba sąmoningą fizinę žalą, tokią kaip kankinimai. Susidūrus su sveiko proto iššūkį keliančiais įvykiais, personažai meta prieš savo dabartinę sveiko proto taškų sumą. Nesėkmė reiškia SAN taškų praradimą, o sėkmė kartais reiškia tik mažesnį SAN praradimą. Sveiko proto taškai gali būti atgaunami per konsultacijas, sėkmingai nugalėjus SAN praradimo šaltinį arba per asmeninį tobulėjimą.
+Yra daug būdų, kaip veikėjai gali fiziškai nukentėti dėl smurto ar nelaimingų atsitikimų, tačiau kai kuriuose žaidimuose didžiausia grėsmė kyla žmogaus proto stabilumui. Kaip apibrėžta antrame skyriuje: Veikėjai, veikėjai turi pasirenkamą charakteristiką, vadinamą **Sveiku protu**, atstovaujamą **Sveiko proto taškais** (SPT). Kuo daugiau Sveiko proto taškų turi veikėjas, tuo jis psichiškai stabilesnis. Sveiko proto taškai prarandami patiriant traumas: susidūrus su siaubingais ar nežemiškais monstrais, stebint mirtį ar smurtinius įvykius, arba patiriant tyčinę fizinę žalą, pavyzdžiui, kankinimus. Susidūrę su įvykiais, kurie kelia grėsmę Sveikam protui, veikėjai meta kauliukus prieš savo dabartinį Sveiko proto taškų skaičių. Nesėkmė reiškia SPT praradimą, o sėkmė kartais reiškia, kad prarandama mažiau SPT. Sveiko proto taškus galima susigrąžinti konsultuojantis, sėkmingai nugalėjus SPT praradimo šaltinį arba tobulinantis asmeniškai.
 
-Pastaba: ši sistema yra abstrakcija, specialiai skirta žaidimo tikslais, ir neketina priartinti ar sumenkinti psichinių ligų realybės ar jas trivializuoti jokiu būdu.
+Atkreipiame dėmesį, kad ši sistema yra abstrakcija, skirta specialiai žaidimo tikslams, ir nėra skirta psichikos ligų realybei priartinti, menkinti ar kaip nors banalizuoti.
 
 ### Sveiko proto mechanika
 
-Kiekvienas personažas turi Sveiko proto charakteristiką, sutrumpintai SAN. Pradinis personažo SAN lygus POW×5. Personažo SAN nesikeičia, nes POW vėliau pasikeičia. Pusė personažo pradinio SAN yra jų **Laikinos beprotybės įvertis** (TIS). Nors SAN dramatiškai keisis žaidimo metu, jų TIS niekada nesikeičia. Žaidimo meistro nuožiūra, žaidime, kuriame dalyvauja normalūs žmonės, TIS gali būti lygus POW, suteikiant daug didesnę laikinos beprotybės tikimybę.
+Kiekvienas veikėjas turi Sveiko proto charakteristiką, trumpinamą kaip SPT. Pradinis veikėjo SPT lygus GAL×5. Veikėjo SPT nesikeičia, jei vėliau pasikeičia jo GAL. Pusė veikėjo pradinio SPT yra jo **Laikinojo beprotybės įvertinimas** (LBĮ). Nors SPT žaidimo metu smarkiai svyruos, LBĮ niekada nesikeičia. Žaidimo meistro nuožiūra, žaidime, kuriame dalyvauja įprasti žmonės, LBĮ gali būti lygus GAL, taip suteikiant daug didesnę laikinos beprotybės tikimybę.
 
-Kartais personažas turi atlikti sėkmingą SAN metimą su D100 arba prarasti SAN. Sėkmės tikimybė lygi arba mažesnė už personažo dabartinį SAN. Žaidimo meistras mes už tai, kiek SAN prarasta, jei metimas nepavyksta. Kai kuriais atvejais ypač šiurpi ar keista patirtis gali kainuoti SAN net jei metimas sėkmingas, nors tai greičiausiai bus tik dalis viso galimo SAN praradimo.
+Kartais veikėjas turi sėkmingai atlikti SPT metimą D100, kitaip praras SPT. Sėkmės tikimybė yra lygi arba mažesnė už veikėjo dabartinį SPT. Žaidimo meistras mes kauliukus, kiek SPT prarasta, jei metimas nepavyksta. Kai kuriais atvejais ypač baisi ar keista patirtis gali kainuoti SPT net ir sėkmingo metimo atveju, nors tai greičiausiai bus tik dalis viso galimo SPT praradimo.
 
-Kiekviename personažo lape yra vieta dabartiniam SAN ir TIS pažymėti; pradinis SAN ir TIS turėtų būti pažymėti visam laikui. Dabartinis SAN turėtų būti užrašytas pieštuku (jei popierinis lapas), kaip hitai ar galios taškai, nes jis keičiasi su kiekvienu praradimu.
+Kiekviename veikėjo lape yra sritis dabartiniam SPT ir LBĮ užrašyti; pradinis SPT ir LBĮ turėtų būti pažymėti visam laikui. Dabartinis SPT turėtų būti užrašytas pieštuku (jei naudojamas popierinis lapas), kaip ir gyvybės taškai ar galios taškai, nes jis keičiasi po kiekvieno praradimo.
 
-Jei personažas kada nors praranda SAN, lygų arba didesnį už savo TIS per 5 minučių laikotarpį (lygų vienam posūkiui), jie tada laikinai išprotėja. Meskite 1D6 personažui **Laikinos beprotybės** lentelėje ir meskite 1D8 **Laikinos beprotybės trukmės lentelėje** (abi toliau). Pirmoji lentelė rodo, kaip personažas yra paveiktas, o antroji rodo, kaip ilgai tai trunka.
+Jei veikėjas per 5 minutes (lygu vienam ėjimui) praranda SPT, lygų ar didesnį už savo LBĮ, jis laikinai išprotėja. Meskite 1D6 už veikėją naudodami **Laikinosios beprotybės** lentelę ir meskite 1D8 naudodami **Laikinosios beprotybės trukmės lentelę** (abi pateiktos toliau). Pirmoji lentelė rodo, kaip veikėjas yra paveiktas, o antroji – kiek ilgai tai trunka.
 
-Kai kenčia laikiną beprotybę, pasakykite žaidėjui, ką jų personažas išgyvena, ir paprašykite jų tai suvaidinti, jei tinkama.
+Kai veikėjas kenčia nuo laikinos beprotybės, pasakykite žaidėjui, ką jo veikėjas išgyvena, ir paprašykite suvaidinti tai, jei tinkama.
 
-Laikas, konsultacijos, stiprūs vaistai, kai kurios galios ar net dieviška intervencija gali išgydyti laikiną beprotybę. Tinkami vaistai gali būti arba pagaminti su tinkamu įgūdžiu, arba nupirkti, jei prieinami. Papildomos priemonės tvarkytis su laikina beprotybe gali egzistuoti, žaidimo meistro nuožiūra.
+Laikas, konsultacijos, stiprūs vaistai, kai kurios galios ar net dieviškas įsikišimas gali išgydyti laikiną beprotybę. Tinkamus vaistus galima pagaminti naudojant atitinkamą įgūdį arba įsigyti, jei jų yra. Žaidimo meistro nuožiūra gali egzistuoti ir kitos priemonės laikinai beprotybei gydyti.
 
-##### Laikina beprotybė
+##### Laikinoji beprotybė
 
-| Rezultatas | Aprašymas ir poveikiai |
+| Rezultatas | Aprašymas ir poveikis |
 | :---- | :---- |
-| 1 | **Katatonija**; personažas priima embriono pozą. |
-| 2 | **Stupefakcija**; personažas nuolat taukšėja ar spokso į erdvę nieko nematydamas. |
-| 3 | **Paranoja**; personažas blaivus, bet įsitikinęs nepagrįstais įtarimais beveik dėl visko. |
-| 4 | **Fobija**; personažas apimtas didelės baimės kažkam, susijusiam su beprotybės šaltiniu. |
-| 5 | **Amnezija**; personažas negali prisiminti, kas jie tokie ar kas nutiko jiems SAN praradimo metu ar aplink jį. |
-| 6 | **Savižudiškas nusiminimas**\* **ar mirties noras**; personažas įsitikinęs, kad jų pačių mirtis yra vienintelė priemonė pabėgti nuo protinio kankinimo. |
+| 1 | **Katatonija**; veikėjas susiriečia į vaisiaus pozą. |
+| 2 | **Stupefakcija**; veikėjas nepaliaujamai taria nesąmones arba žiūri į tuštumą nieko nematydamas. |
+| 3 | **Paranoja**; veikėjas yra sąmoningas, bet įsitikinęs nepagrįstais įtarimais beveik dėl visko. |
+| 4 | **Fobija**; veikėją apima didžiulė baimė kažkam, kas susiję su beprotybės šaltiniu. |
+| 5 | **Amnezija**; veikėjas negali prisiminti, kas jis yra arba kas jam nutiko SPT praradimo metu ar aplink jį. |
+| 6 | **Savižudiškas nusivylimas**\* **arba mirties troškimas**; veikėjas įsitikinęs, kad jo paties mirtis yra vienintelis būdas pabėgti nuo psichinės kančios. |
 
-\* Personažas niekada negali būti priverstas atlikti savižudiško veiksmo, ir žaidimo meistras turėtų naudoti šį rezultatą atsargiai, atkreipdamas dėmesį į dalyvaujančių žaidėjų jautrumą.
+\* Veikėjo niekada negalima priversti atlikti savižudišką veiksmą, todėl žaidimo meistras turėtų atsargiai naudoti šį rezultatą, atsižvelgdamas į dalyvaujančių žaidėjų jautrumą.
 
-##### Laikinos beprotybės trukmė
+##### Laikinosios beprotybės trukmė
 
-| Rezultatas | Paveiktas laikas |
+| Rezultatas | Trukmė |
 | :---- | :---- |
-| 1 | Penkios minutės (vienas posūkis) |
+| 1 | Penkios minutės (vienas ėjimas) |
 | 2 | Viena valanda |
 | 3 | Dvi valandos |
 | 4 | Dvylika valandų |
@@ -726,43 +722,43 @@ Laikas, konsultacijos, stiprūs vaistai, kai kurios galios ar net dieviška inte
 | 7 | Viena savaitė |
 | 8 | Dvi savaitės |
 
-Kai personažo SAN pasiekia 0, jie laikomi visam laikui ir visiškai išprotėjusiais, ir dabar yra arba išėję į pensiją iš žaidimo, arba tampa ne žaidėjų personažu, kurį valdys žaidimo meistras. Vienintelis vaistas nuo nuolatinės beprotybės yra dieviška intervencija ar koks kitas pagrindinis procesas (išsami psichologinė perprogramavimo programa, metų metus trunkanti terapija ir meditacija ir kt.), kurį nustatys žaidimo meistras, jei išvis įmanoma. Jei taip, atstatomas SAN kiekis turėtų būti nuspręstas atitinkamai.
+Kai veikėjo SPT pasiekia 0, laikoma, kad jis visam laikui ir visiškai išprotėjo, ir dabar arba pasitraukia iš žaidimo, arba tampa ne žaidėjo veikėju, kurį valdo žaidimo meistras. Vienintelis būdas išgydyti nuolatinę beprotybę yra dieviškas įsikišimas arba kitas didelis procesas (išsamus psichologinis perprogramavimas, ilgametė terapija ir meditacija ir t. t.), kurį nustato žaidimo meistras, jei tai apskritai įmanoma. Jei taip, atstatyto SPT kiekis turėtų būti atitinkamai nuspręstas.
 
 ### Maksimalus sveikas protas
 
-Tam tikri įgūdžiai, tokie kaip Žinių įgūdžio specialybė „Šventvagiškos žinios“, gali sumažinti maksimalų įmanomą sveiką protą. Didėjant šiam įgūdžiui, atimkite jį iš 100, rezultatas yra maksimalus sveikas protas, kurį personažas gali kada nors turėti, net jei tai mažiau nei jų pradinė SAN pradžia.
+Tam tikri įgūdžiai, pavyzdžiui, „Šventvagystės pažinimo“ (angl. *Blasphemous Lore*) specialybė, priklausanti Žinių įgūdžiui, gali sumažinti maksimalų įmanomą Sveiką protą. Didėjant šiam įgūdžiui, atimkite jį iš 100; rezultatas yra maksimalus Sveikas protas, kurį veikėjas kada nors gali turėti, net jei jis yra mažesnis už pradinį SPT.
 
-***Pavyzdžiui,*** *kažkas su pradiniu SAN 75 (POW 15×5) su Žiniomis (Šventvagiškos žinios) 43% turi naują maksimalų sveiką protą 57% (100–43=57).*
+***Pavyzdžiui,*** *asmuo, kurio pradinis SPT 75 (GAL 15×5) ir „Žinios (Šventvagystės pažinimas)“ 43 %, turi naują maksimalų Sveiką protą 57 % (100–43=57).*
 
 ### Sveiko proto taškų atstatymas
 
-Personažas gali atgauti prarastą SAN, bet niekada ne daugiau nei pradinė maksimali sveiko proto suma. Toliau pateikiami keli būdai, kaip SAN gali būti atstatytas:
+Veikėjas gali atgauti prarastą SPT, bet niekada negali viršyti pradinio maksimalaus Sveiko proto. Toliau pateikiami keli būdai, kaip atstatyti SPT:
 
-* **Sėkmė:** Nugalėti ar sunaikinti SAN praradimo priežastį gali būti verta sumos, lygios pusei galimo SAN praradimo, kurį priežastis grasino. Žaidimo meistras turėtų interpretuoti „nugalėjimo“ sąlygas ir nustatyti tikslią atstatytą sumą. Tai gali būti išmesta arba skirta kaip vienkartinė suma kiekvienam, dalyvaujančiam nugalėjime, ne tik tiems, kurie prarado SAN.
-* **Konsultacijos:** Žr. Psichoterapijos įgūdį. Paprastai sėkmingas įgūdžio metimas atstato 1D3–1 SAN.
-* **Vaistai:** Kai kurie vaistai ar medžiagos gali, žaidimo meistro nuožiūra, atstatyti prarastą SAN.
-* **Galios:** Keletas psichinių galių ir supergalia „Perkėlimas“ gali atstatyti prarastą SAN.
-* **Savitobula:** 91% įverčio pasiekimas įgūdyje akimirksniu atstato 2D6 SAN taškų, reprezentuojant pasitikėjimą savimi ir discipliną, susijusią su įgūdžio įvaldymu (tai vienkartinė premija). Jei personažas pradeda su šiuo įgūdžio įverčiu ar aukštesniu, SAN prieaugio nėra.
+* **Sėkmė:** SPT praradimo priežasties nugalėjimas ar sunaikinimas gali būti vertas kiekio, lygaus pusei potencialaus SPT praradimo, kurį grėsė ši priežastis. Žaidimo meistras turėtų interpretuoti „nugalėjimo“ sąlygas ir nustatyti tikslų atstatytą kiekį. Tai gali būti išmesta kauliukais arba skirta kaip bendra suma visiems, dalyvavusiems nugalėjime, ne tik tiems, kurie prarado SPT.
+* **Konsultacijos:** Žr. Psichoterapijos įgūdį. Paprastai sėkmingas įgūdžio metimas atstato 1D3–1 SPT.
+* **Vaistai:** Kai kurie vaistai ar medžiagos, žaidimo meistro nuožiūra, gali atstatyti prarastą SPT.
+* **Galios:** Kelios psichinės galios ir supergalia „Perkėlimas“ (angl. *Transfer*) gali atstatyti prarastą SPT.
+* **Savęs tobulinimas:** Pasiekus 91 % įgūdžio įvertinimą, akimirksniu atstatomi 2D6 SPT taškai, reprezentuojantys pasitikėjimą savimi ir discipliną, susijusią su įgūdžio įvaldymu (tai vienkartinė premija). Jei veikėjas pradeda su tokiu ar aukštesniu įgūdžio įvertinimu, SPT prieaugio nėra.
 
-Visi sveiko proto prieaugiai yra visiškai žaidimo meistro nuožiūra, kuris yra vienintelis situacijos ir to, kas tinkama, teisėjas.
+Visi Sveiko proto prieaugiai yra visiškai žaidimo meistro, kuris yra vienintelis situacijos ir to, kas tinkama, vertintojas, nuožiūra.
 
-### Sveiko proto sąnaudos pagal situaciją
+### Sveiko proto kaštai pagal situaciją
 
-Šie įrašai aptaria tas sveiko proto sukrečiančias situacijas, kurios gali įvykti žaidime. Žaidimo meistras turėtų nustatyti papildomas situacijas. Vertė prieš / yra suma, jei sėkmingas SAN metimas atliekamas, o suma kitoje pusėje yra suma, kuri metama, jei metimas nepavyksta.
+Tolesniuose įrašuose aptariamos tos Sveiką protą sukrečiančios situacijos, kurios gali pasitaikyti žaidimo metu. Žaidimo meistras turėtų nustatyti papildomas situacijas. Vertė prieš pasvirąjį brūkšnį (/) yra kiekis, jei atliekamas sėkmingas SPT metimas, o vertė kitoje pusėje yra kiekis, kuris metamas, jei metimas nepavyksta.
 
 ##### Sveiko proto praradimai
 
-| SAN praradimo šaltinis | Galimas praradimas |
+| SPT praradimo šaltinis | Potencialus praradimas |
 | :---- | :---- |
 | Kažkas nerimą keliančio ir groteskiško, arba staigus išgąstis | 0/1 |
-| Maži nenatūralūs padarai (zombiai, vilkolakiai, vampyrai ir kt.) | 0/1D3+ |
-| Smurtinės mirties scena, negyvo kūno radimas | 0/1D3 |
-| Sudarkyto ar sužaloto kūno radimas | 1/1D4 |
-| Šiurpios mirties liudijimas | 1/1D6 |
-| Mažų kankinimų kentėjimas | 1D3/1D6 |
-| Realybę iššūkį keliančios vizijos (Chaosas, nenatūralus korupcija ir kt.) | 0/1d8 |
-| Keisti ir šiurpūs monstrai | 1D2+/1D6+ |
-| Kažkokios šiurpios transformacijos kentėjimas | 1D6/2D10 |
-| Monstriški ateivių dievai | 1D10/1D100 |
+| Mažos nenatūralios būtybės (zombiai, vilkolakiai, vampyrai ir t. t.) | 0/1D3+ |
+| Smurtinės mirties vieta, negyvo kūno radimas | 0/1D3 |
+| Sudarkyto ar subjauroto kūno radimas | 1/1D4 |
+| Šiurpios mirties stebėjimas | 1/1D6 |
+| Nedideli kankinimai | 1D3/1D6 |
+| Realybę kvestionuojančios vizijos (Chaosas, nenatūralus korupcija ir t. t.) | 0/1d8 |
+| Keisti ir siaubingi monstrai | 1D2+/1D6+ |
+| Buvimas paveiktam kokios nors siaubingos transformacijos | 1D6/2D10 |
+| Monstriški svetimųjų dievai | 1D10/1D100 |
 
-Įvykus keliems poveikiams iš to paties SAN praradimo šaltinio, žaidimo meistras gali sumažinti vėlesnio poveikį (galbūt tik leisdamas keliems poveikiams susidėti iki viso galimo išmesto skaičiaus) arba ignoruoti poreikį mesti vėl, jei personažas tapo susipažinęs ar desensibilizuotas sveiko proto žalojančiai patirčiai.
+Įvykus keliems poveikiams iš to paties SPT praradimo šaltinio, žaidimo meistras gali sumažinti vėlesnio poveikio pasekmes (galbūt leisdamas, kad keli poveikiai sudarytų tik bendrą galimą išmestą sumą) arba išvis ignoruoti poreikį mesti iš naujo, jei veikėjas tapo pripratęs ar desensibilizuotas prie Sveiką protą žalojančios patirties.
