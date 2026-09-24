@@ -1,389 +1,399 @@
 # 2. Tēli
 
-Vienkāršiem vārdiem sakot, jūsu **tēls** esat **jūs** spēles pasaulē, tā personība, kuru jūs spēlējat. Tēls ir visu lomu spēļu centrālais elements — fizisko un garīgo spēju, prasmju un citu aprakstu abstrakcija. Jūs mijiedarbojaties ar spēles vadītāju šajā pasaulē caur savu tēlu. Vairums spēlētāju vadīto tēlu ir **spēlētāju tēli** (PC).
+Vienkāršāk sakot, tavs **tēls** esi **tu** spēles pasaulē, persona, kuru tu spēlē. Tēls ir visu lomu spēļu centrālais elements — fizisko un garīgo spēju, prasmju un citu raksturojumu abstrakcija. Tu mijiedarbojies ar savu spēles vadītāju šajā pasaulē caur savu tēlu. Lielākā daļa tēlu, kurus kontrolē spēlētāji, ir **spēlētāju tēli** (ST).
 
-Jūsu spēles vadītājs apraksta vidi, situāciju un sastaptos izaicinājumus spēlētājiem. Spēles vadītāja rīcībā ir citu tēlu saraksts, kurus dēvē par **nespēlētāju tēliem** (NPC). Gan spēlētāju, gan nespēlētāju tēli izmanto vienādus noteikumus, lai gan nespēlētāju tēli parasti ir mazāk detalizēti, jo NPC reti saskaras ar tik daudzveidīgām situācijām kā spēlētāju tēli.
+Spēles vadītājs apraksta spēlētājiem vidi, apstākļus un sastaptos izaicinājumus. Spēles vadītāja rīcībā ir citu tēlu saraksts, kurus sauc par **nespēlētāju tēliem** (NST). Gan spēlētāju, gan nespēlētāju tēli izmanto vienādus noteikumus, lai gan nespēlētāju tēli parasti ir mazāk detalizēti nekā spēlētāju tēli, jo NST reti sastopas ar tādu situāciju daudzveidību, ar kādu saskaras spēlētāju tēli.
 
-*Vienpadsmitā nodaļa: Radības* apraksta, kā spēles vadītājs var izveidot piemērotus nespēlētāju tēlus, un tajā iekļauts gatavu tēlu saraksts (kā arī monstri un citas radības) dažādām vidēm un laikmetiem. Šī sadaļa aplūko spēlētāju tēlus un ir būtiska lasāmviela gan jums, gan jūsu spēles vadītājam.
+*Vienpadsmitā nodaļa: Būtnes* apraksta, kā spēles vadītājs var izveidot piemērotus nespēlētāju tēlus, un tajā ir iekļauts gatavu nespēlētāju tēlu (kā arī monstru un citu būtņu) saraksts dažādām vidēm un laikmetiem. Šī sadaļa aplūko spēlētāju tēlus un ir būtiska lasāmviela gan tev, gan tavam spēles vadītājam.
 
-Kad tiek pieminēts vārds "tēls", tas attiecas gan uz spēlētāju tēliem, gan nespēlētāju tēliem.
+Kad tiek pieminēts “tēls”, šis termins attiecas gan uz spēlētāju tēliem, gan nespēlētāju tēliem.
 
-## Spējas līmenis
+## Jaudas līmenis
 
-Visā šajā nodaļā un citur noteikumos ir atsauces uz spēles spējas līmeni. Tas apraksta, cik kompetenti ir spēlētāju un nespēlētāju tēli, un kādā skalā no "reālistiska" līdz "mītiskam" spēle norisināsies.
+Visā šajā nodaļā un citur noteikumos ir atsauces uz spēles jaudas līmeni. Tas apraksta, cik kompetenti ir spēlētāju un nespēlētāju tēli un kur uz skalas no “reālistiska” līdz “mitoloģiska” atradīsies spēles izjūta.
 
-Pastāv četri spēles spējas līmeņi, kas aprakstīti zemāk.
+Pastāv četri spēles jaudas līmeņi, kas aprakstīti zemāk.
 
 ### Normāls
 
-Tēliem nav spēju vai ir ļoti maz, neuzticamas spējas. Dažreiz tēlus nosaka viena spēja, kas tik tikko pārsniedz ārkārtēju talantu. Šis ir vispiemērotākais spējas līmenis šausmu vai mūsdienu piedzīvojumu spēlēm, kurās tehnoloģijas un atjautība bieži ir izšķirošais faktors izdzīvošanai.
+Tēliem nav spēju vai ir ļoti maz, neuzticamas spējas. Dažreiz tēlus nosaka viena spēja, kas tik tikko pārsniedz ārkārtēju talantu. Šis ir vispiemērotākais jaudas līmenis šausmu vai mūsdienu piedzīvojumu spēlēm, kur tehnoloģijas un prāts bieži ir izšķirošais faktors izdzīvošanā.
 
 ### Varonīgs
 
-Tēliem ir dažas spēcīgas spējas vai plašs vidēja līdz zema līmeņa spēju klāsts. Tas ir piemērots spēlēm, kurās piedalās nepieredzējuši, maskēti varoņi vai burvji mācekļi, radioaktīvās apokalipses mutējušie izdzīvotāji, pašaizliedzīgi modrie varoņi vai augstās fantāzijas pasaule ar burvjiem un karotājiem. Dažus futūristiskus scenārijus var izveidot, izmantojot šo spējas līmeni, kur iedzīvotājiem ir daudzas nelielas spējas, ko piešķīrusi ģenētiskā manipulācija.
+Tēliem ir dažas spēcīgas spējas vai plašs vidēja līdz zema līmeņa spēju klāsts. Tas ir piemērots spēlēm, kurās piedalās nepieredzējuši, tērpušies varoņi vai burvju mācekļi apmācībā, radioaktīvās apokalipses mutējušie izdzīvotāji, modrie varoņi vai augstās fantāzijas pasaule ar burvjiem un karotājiem. Dažas futūristiskas vides var tikt izveidotas, izmantojot šo jaudas līmeni, pilsoņiem iegūstot daudzas nelielas spējas, ko piešķir ģenētiskā manipulācija.
 
 ### Episks
 
-Tēli ir neticami prasmīgi vai apveltīti ar spējām, piemēram, arhimagi vai vareni pārdabiski būtnes. Šādas spēles var būt pilnas ar veterāniem maskētiem varoņiem vai ļaundariem, vai veterāniem pārdabiskiem varoņiem, kas cīnās ar tumsas spēkiem mūsdienu pasaules ēnās.
+Tēli ir neticami prasmīgi vai apveltīti ar spējām, piemēram, arhmagi vai vareni pārdabiski radījumi. Spēļu piemēri var būt pilni ar veterāniem tērptiem varoņiem vai ļaundariem, vai veterāniem pārdabiskiem varoņiem, kas cīnās pret tumsas spēkiem mūsdienu pasaules ēnās.
 
 ### Pārcilvēcisks
 
-Šiem tēliem ir milzīgas spējas, un tie ir visvarenākie no varoņiem. Spēlēs var būt ārkārtīgi spēcīgi maskēti supervaroņi, galaktikas aizstāvji vai pat lielu poldievu mūsdienu iemiesojumi.
+Šiem tēliem ir milzīgas spējas, un tie ir varenākie varoņi. Spēlēs var būt ārkārtīgi spēcīgi tērpti supervaroņi, galaktikas aizstāvji vai pat lielu pussdievu mūsdienu iemiesojumi.
 
-Jūsu spēles vadītājam ir jāsniedz skaidrība jums un citiem spēlētājiem par to, kāds ir spēles spējas līmenis, lai iestatītu gaidas un vadītu pārējo tēla izveides procesu.
+Tavam spēles vadītājam ir jāskaidro tev un taviem spēļu biedriem, kāds ir jūsu spēles jaudas līmenis, lai noteiktu gaidas un vadītu tēla izveidi.
 
 ## Tēla izveide
 
-Vispirms jums ir nepieciešams tēls. Tālāk ir aprakstīta sistēma tēla attīstīšanai. Šī sistēma rada saprātīgi kompetentus tēlus. Katrā solī ir sniegti ieteikumi jaudīgākiem tēliem. Jums jābūt pa rokai tukšai tēla lapai un, iespējams, vēl vienai papīra lapai piezīmēm. Vietnē chaosium.com varat lejupielādēt digitālās versijas.
+Vispirms tev ir nepieciešams tēls. Tālāk ir sniegta sistēma tava tēla izstrādei. Šī sistēma rada pietiekami kompetentus tēlus. Katrā solī ir sniegti ieteikumi jaudīgākiem tēliem. Tev vajadzētu sagatavot tukšu tēla lapu un, iespējams, vēl vienu papīra lapu piezīmēm. Vietnē chaosium.com vari lejupielādēt digitālās versijas.
 
-Kad gatavojaties izveidot savu tēlu, jūsu spēles vadītājam un citiem spēlētājiem jau vajadzētu būt izlemtam, kāda veida spēli jūs spēlēsiet — zinātnisko fantastiku, fantāziju, mūsdienu šausmas, vēsturisku intrigu, spiegošanu, pūlpa darbību, tehno-trilleri vai citu žanru.
+Kad gatavojies izveidot savu tēlu, spēles vadītājam un citiem spēlētājiem jau vajadzētu būt izlēmušiem, kāda veida spēli jūs spēlēsiet — zinātnisko fantastiku, fantāziju, mūsdienu šausmu stāstus, vēsturiskas intrigas, spiegošanu, sērijveida piedzīvojumus (pulp action), tehnoloģiskus trillerus vai jebkuru citu žanru.
 
-Jūsu spēles vadītājam jābūt gatavam vadīt jūs un citus spēlētājus caur tēla izveides procesu, zinot, kādas profesijas ir atļautas un piemērotas spēlei vai kampaņai, un kādu kompetences līmeni tēliem vajadzētu uzrādīt. Šie jautājumi ir vissvarīgākie **Septītajam solim** un var ietekmēt **Trešo soli**.
+Spēles vadītājam vajadzētu būt gatavam vadīt tevi un citus spēlētājus cauri tēla izveides procesam, zinot, kādas profesijas ir atļautas un piemērotas spēlei vai kampaņai, un kādu kompetences līmeni tēliem vajadzētu izrādīt. Šie jautājumi ir vissvarīgākie **Septītajam solim** un var ietekmēt **Trešo soli**.
 
 ### Pirmais solis: Vārds un raksturlielumi
 
-Uzrakstiet sava tēla vārdu lapas augšpusē. Tam jābūt piemērotam videi un spēlei. Ja vēl nav radusies nekāda ideja, pagaidiet līdz vēlākam laikam. Uz tēla lapas varat ierakstīt arī savu vārdu, jo spēles vadītājam var būt nepieciešams sekot līdzi, kurš tēls kuram pieder.
+Ieraksti sava tēla vārdu lapas augšpusē. Tam jābūt piemērotam videi un spēlei, ko spēlējat. Ja vēl nav radusies nekāda ideja, pagaidi līdz vēlākam laikam. Vari ierakstīt savu vārdu tēla lapā, jo spēles vadītājam var būt nepieciešams izsekot, kurš tēls kuram pieder.
 
-* Izvēlieties sava tēla dzimumu un ierakstiet to attiecīgajā vietā.
+* Izvēlies sava tēla dzimumu un ieraksti to pareizajā ailē.
 
-* Metiet 3D6 spēka (STR), konstitūcijas (CON), spējas (POW), veiklības (DEX) un harizmas (CHA) raksturlielumiem. Ierakstiet rezultātus attiecīgajās vietās savā tēla lapā.
+* Met 3D6 raksturlielumiem Spēks (SPĒ), Izturība (IZT), Vara (VAR), Veiklība (VEI) un Harizma (HAR). Ievadi rezultātus atbilstošajās vietās savā tēla lapā.
 
-* Metiet 2D6+6 intelekta (INT) un izmēra (SIZ) raksturlielumiem.
+* Met 2D6+6 raksturlielumiem Intelekts (INT) un Izmērs (IZM).
 
-Šie skaitļi nodrošina jūsu tēla pamatu, nosakot, kādos raksturlielumos tēls ir spēcīgs vai vājš.
+Šie skaitļi nodrošina tava tēla pamatu, nosakot, kuros raksturlielumos tēls ir stiprs vai vājš.
 
-* Ja vēlaties, pārdaliet līdz 3 punktiem starp saviem raksturlielumiem.
+* Ja vēlies, pārdali līdz 3 punktiem starp saviem raksturlielumiem.
 
 * Neviens raksturlielums nevar sākties ar vairāk nekā 21 punktu.
 
-* Ja neesat apmierināts ar iegūtajiem raksturlielumiem un spēles vadītājs to atļauj, varat sākt visu no jauna.
+* Ja neesi apmierināts ar iegūtajiem raksturlielumiem un spēles vadītājs piekrīt, vari sākt no jauna.
 
-Ja kampaņā tiek izmantoti viens vai vairāki spēju veidi, spēles vadītājs var atļaut palielināt sākuma raksturlielumus (skatīt *Ceturto nodaļu: Spējas*, īpaši **Raksturlieluma samazināšana/uzlabošana**).
+Ja kampaņā tiek izmantoti viena vai vairāki spēju veidi, spēles vadītājs var atļaut palielināt tavus sākotnējos raksturlielumus (skat. Ceturtā nodaļa: Spējas, īpaši **Raksturlieluma samazināšana/uzlabošana**).
 
-**Raksturlielumu vērtību izvēle (opcija):** Tradicionāli raksturlielumi tiek izmesti secībā, pārdalot līdz 3 punktiem. Tā vietā varat mest 3D6 septiņas reizes un izvēlēties, kur rezultāti nonāks. Šajā gadījumā SIZ un INT nevar būt zemāki par 8.
+**Raksturlielumu vērtību izvēle (opcija):** Tradicionāli raksturlielumi tiek mesti secībā ar iespēju pārdalīt līdz 3 punktiem. Tā vietā vari mest 3D6 septiņas reizes un izvēlēties, kur rezultāti tiek novietoti. Šajā gadījumā IZM un INT nevar būt zemāki par 8.
 
-**Augstāki sākuma raksturlielumi (opcija):** Spēcīgākai spēlei metiet 2D6+6 visiem raksturlielumiem.
+**Augstāki sākotnējie raksturlielumi (opcija):** Augstāka jaudas līmeņa spēlei met 2D6+6 visiem raksturlielumiem.
 
-**Izglītības (EDU) raksturlielums (opcija):** Metiet 2D6+6 izglītībai (EDU) tēliem no sabiedrībām ar formalizētu izglītību. EDU 12 norāda uz vidusskolas līmeņa izglītību, bet augstākas vērtības norāda uz koledžas vai augstāko izglītību.
+**Izglītības (IZG) raksturlielums (opcija):** Met 2D6+6 Izglītībai (IZG) šim raksturlielumam tēliem no sabiedrībām ar formalizētu izglītību. IZG 12 norāda uz vidusskolas līmeņa izglītību, ar augstākām vērtībām norādot uz koledžu vai augstāko izglītību.
 
-**Kultūras modifikatori (opcija):** Kultūras modifikatori uzsver atšķirības starp dažādām sugām (piemēram, elfi vai rūķi) vai dažādām cilvēku kultūrām. Sākotnējos raksturlielumus šajā brīdī var koriģēt vai ierobežot. Skatīt **Kultūras raksturlielumu modifikatori (opcija)**.
+**Kultūras modifikatori (opcija):** Kultūras modifikatori uzsver raksturlielumu atšķirības starp dažādām sugām (piemēram, elfi vai rūķi) vai dažādām cilvēku kultūrām. Sākotnējie raksturlielumi šajā punktā var tikt pielāgoti vai ierobežoti. Skat. **Kultūras raksturlielumu modifikatori (opcija)**.
 
-**Necilvēciski tēli (opcija):** Necilvēciski tēli var izmantot atšķirīgus kauliņu metienus un modifikatorus, lai noteiktu sākotnējos raksturlielumus. Skatīt *Vienpadsmito nodaļu: Radības*.
+**Necilvēcīgi tēli (opcija):** Necilvēcīgi tēli var izmantot citus kauliņu metienus un modifikatorus sākotnējo raksturlielumu noteikšanai. Skat. Vienpadsmitā nodaļa: Būtnes.
 
-**Uz punktiem balstīta tēla izveide (opcija):** Parasti raksturlielumi tiek izmesti nejauši. Tā vietā spēlētāji var iegādāties raksturlielumu punktus no fonda. Skatīt **Uz punktiem balstīta tēla izveide (opcija)**.
+**Tēla izveide uz punktu pamata (opcija):** Parasti raksturlielumi tiek mesti nejauši. Tā vietā spēlētāji var iegādāties raksturlielumu punktus no kopējā fonda. Skat. **Tēla izveide uz punktu pamata (opcija)**.
 
 ### Otrais solis: Spējas
 
-Izlasiet to uzmanīgi! Ja spēlē, kurā piedalāties, ir iekļauta maģija, mutācijas, psihiskās spējas, burvība vai supervaroņu spējas, jūs varat sākt ar dažām no šīm spējām. Jautājiet par to savam spēles vadītājam un skatiet *Ceturto nodaļu: Spējas* papildu informācijai. Šīm sistēmām ir nepieciešams vairāk skaidrojumu, nekā sniegts šajā nodaļā.
+Izlasi šo uzmanīgi! Ja spēlē, kuru spēlē, ir iekļauta maģija, mutācijas, psihiskās spējas, burvestības vai supervaroņu spējas, vari sākt ar dažām no šīm spējām. Pajautā savam spēles vadītājam par to un skati *Ceturtā nodaļa: Spējas* papildu informācijai. Šīm sistēmām ir nepieciešams vairāk skaidrojumu, nekā sniegts šajā nodaļā.
 
-Ja kampaņā nav spēju, ignorējiet šo soli un dodieties tālāk.
+Ja kampaņā nav spēju, ignorē šo soli un turpini.
 
-Ja spējas ir pieejamas, ir pieejami šādi veidi:
+Ja ir spējas, ir pieejami šādi veidi:
 
-* **Maģija:** Vienkārša burvestību izmantošana ar plašām pielietojuma iespējām.
+* **Maģija:** Vienkārša burvestību skaitīšana ar plašu pielietojumu klāstu.
 
-* **Mutācijas:** Savādas ģenētiskās anomālijas, dažas labvēlīgas, citas kaitīgas.
+* **Mutācijas:** Dīvainas ģenētiskas anomālijas, dažas labvēlīgas, dažas nelabvēlīgas.
 
 * **Psihiskās spējas:** Prāta spēka izmantošana realitātes manipulēšanai.
 
-* **Burvība:** Barokālāks burvestību veids, tostarp elementāla un dēmoniska izsaukšana.
+* **Burvestības:** Barokālāks burvestību veids, ieskaitot elementālo un dēmonisko izsaukšanu.
 
 * **Supervaroņu spējas:** Varenas spējas, kas izaicina iztēli.
 
-Plašāka informācija par katru no tiem atrodama attiecīgajās sadaļās.
+Plašāka informācija par katru no tām atrodama attiecīgajās sadaļās.
 
 ### Trešais solis: Vecums
 
-Noklusējuma vecums tēliem ir 17+1D6 gadi. Jūsu spēles vadītājs var izvēlēties to mainīt atkarībā no spēles vides prasībām. Ja vēlaties sākt spēli ar jaunāku vai vecāku tēlu, izvēlieties vecumu, kas šķiet piemērots un ir saskaņots ar spēles vadītāju.
+Noklusējuma vecums tēliem ir 17+1D6 gadi. Spēles vadītājs var izvēlēties to mainīt atkarībā no spēles vides prasībām. Ja vēlies sākt spēli ar jaunāku vai vecāku tēlu, izvēlies vecumu, kas šķiet piemērots un saņem spēles vadītāja apstiprinājumu.
 
-* Balstoties uz kampaņas līmeni (aprakstīts Sestajā solī), par katriem 10 pilniem gadiem, kas pievienoti izmestajam sākuma vecumam, mainiet profesionālo prasmju punktus par +10 (Normāls), +20 (Varonīgs), +30 (Episks) vai +40 (Pārcilvēcisks). Jebkura gadu daļa zem 10 nesniedz šo prasmju bonusu.
+* Balstoties uz kampaņas līmeni (aprakstīts sestajā solī), par katriem 10 pilniem gadiem, kas pievienoti izmestajam sākotnējam vecumam, modificē profesionālo prasmju punktus ar +10 (Normāls), +20 (Varonīgs), +30 (Episks) vai +40 (Pārcilvēcisks). Jebkura gadu daļa zem 10 neiegūst šo prasmju bonusu.
 
-* Par katru gadu zem 18, mainiet profesionālo prasmju punktus par –10 (Normāls), –20 (Varonīgs), –30 (Episks) vai –40 (Pārcilvēcisks).
+* Par katru gadu zem 18, modificē profesionālo prasmju punktus ar –10 (Normāls), –20 (Varonīgs), –30 (Episks) vai –40 (Pārcilvēcisks).
 
-* Jūsu spēles vadītājs var ierobežot pieejamās profesijas tēliem, kas jaunāki par 18 gadiem.
+* Spēles vadītājs var ierobežot pieejamās profesijas tēliem, kas jaunāki par 18 gadiem.
 
-* 50 gadu vecumā un katros nākamajos 10 pilnos gados mainiet vienu no STR, CON, DEX vai CHA (pēc jūsu izvēles) par –1. 80 gadu vecumā un katros nākamajos 10 pilnos gados mainiet **trīs** no šiem raksturlielumiem. Skatīt **Novecošana un bezdarbība (opcija)**.
+* Sasniedzot 50 gadu vecumu un ik pēc 10 pilniem gadiem virs tā, modificē vienu no SPĒ, IZT, VEI vai HAR (pēc tavas izvēles) ar –1. Sasniedzot 80 gadu vecumu un ik pēc 10 pilniem gadiem virs tā, modificē **trīs** no šiem raksturlielumiem. Skat. **Novecošana un neaktivitāte (opcija)**.
 
-* Par katru gadu zem sākotnēji izmestā vecuma, mainiet jebkuru vienu raksturlielumu, izņemot EDU (pēc jūsu izvēles), par –1. Spēles vadītājs var pieprasīt, lai jūs padarāt SIZ par vienu no šiem samazinātajiem raksturlielumiem. Šos punktus var iegūt spēles gaitā (pieredze), treniņos vai pakāpeniski dabiskiem līdzekļiem (pēc spēles vadītāja ieskatiem). Skatīt **Novecošana un bezdarbība (opcija)**.
+* Par katru gadu zem sākotnēji izmestā vecuma, modificē jebkuru vienu raksturlielumu, izņemot IZG (pēc tavas izvēles), ar –1. Spēles vadītājs var pieprasīt, lai tu izvēlētos IZM kā vienu no šiem samazinātajiem raksturlielumiem. Šos punktus var iegūt spēles gaitā (pieredze), apmācībā vai pakāpeniski dabiskā ceļā (spēles vadītāja ieskatiem). Skat. **Novecošana un neaktivitāte (opcija)**.
 
-Jūsu spēles vadītājs var arī izlemt vienkārši ignorēt šos noteikumus, pamatojoties uz spēles spējas līmeni. Tas ļauj izveidot gados vecākus piedzīvojumu meklētājus, bērnus ģēnijus un parasti ir patīkamāk visiem spēlētājiem.
+Spēles vadītājs var arī izvēlēties vienkārši ignorēt šos noteikumus, pamatojoties uz spēles jaudas līmeni. Tas ļauj piedalīties veciem piedzīvojumu meklētājiem, bērniem ģēnijiem, un parasti ir patīkamāk visiem spēlētājiem.
 
-**Izglītība (EDU) (opcija):** Ja izmantojat EDU raksturlielumu, jūsu tēla sākuma vecumam jābūt vismaz EDU+5 (atspoguļojot mācībām pavadīto laiku). Katri 10 pilni gadi, kas pievienoti jūsu tēla sākuma vecumam, pievieno +1 jūsu tēla EDU raksturlielumam. Noteikti palieliniet attiecīgos prasmju punktus, kas ģenerēti **Sestajā solī**.
+**Izglītība (IZG) (opcija):** Ja izmanto IZG raksturlielumu, tēla sākotnējam vecumam jābūt vismaz IZG+5 (atspoguļojot mācībām veltīto laiku). Katri 10 pilni gadi, kas pievienoti tēla sākotnējam vecumam, pievieno +1 tēla IZG raksturlielumam. Pārliecinies, ka palielini attiecīgos prasmju punktus, kas ģenerēti **Sestajā solī**.
 
 ### Ceturtais solis: Raksturlielumu metieni
 
-Šeit jūs nosakāt savus raksturlielumu metienus. Līdz šim brīdim jums vajadzētu zināt, kādi ir jūsu galīgie raksturlielumi, bet, ja nē, atlieciet šo soli, līdz tie būs galīgi. Katram no tiem ir vieta tēla lapā.
+Šeit tu nosaki savus raksturlielumu metienus. Līdz šim tev vajadzētu zināt, kādi ir tavi galīgie raksturlielumi, bet, ja nē, atliec šo soli, līdz būsi tos pabeidzis. Katram ir vieta tēla lapā.
 
-* Reiziniet STR×5 savam **Piepūles** (Effort) metienam.
+* Reizini SPĒ×5 savam **Pūļu** metienam.
 
-* Reiziniet CON×5 savam **Izturības** (Stamina) metienam.
+* Reizini IZT×5 savam **Izturības** metienam.
 
-* Reiziniet INT×5 savam **Idejas** (Idea) metienam.
+* Reizini INT×5 savam **Idejas** metienam.
 
-* Reiziniet POW×5 savam **Veiksmes** (Luck) metienam.
+* Reizini VAR×5 savam **Veiksmes** metienam.
 
-* Reiziniet DEX×5 savam **Veiklības** (Agility) metienam.
+* Reizini VEI×5 savam **Veiklības** metienam.
 
-* Reiziniet CHA×5 savam **Šarma** (Charm) metienam.
+* Reizini HAR×5 savam **Šarma** metienam.
 
-**Zināšanu metiens (opcija):** Reiziniet EDU×5 savam **Zināšanu** (Know) metienam (ja tiek izmantots EDU).
+**Zināšanu metiens (opcija):** Reizini IZG×5 savam **Zināšanu** metienam (ja tiek izmantota IZG).
 
 ### Piektais solis: Atvasinātie raksturlielumi
 
-Tagad ir laiks atvasinātajiem raksturlielumiem: bojājumu modifikators, trāpījuma punkti, spējas punkti un pieredzes bonuss. Ja izmantojat fakultatīvās sistēmas, jums jānosaka arī savi sākotnējie noguruma punkti un prāta veselības punkti. Ierakstiet rezultātus savā tēla lapā.
+Tagad ir laiks atvasinātajiem raksturlielumiem: bojājumu modifikators, sitienpunkti, varas punkti un pieredzes bonuss. Ja izmanto izvēles sistēmas, tev jānosaka arī savi sākotnējie noguruma punkti un prāta veselības punkti. Ieraksti rezultātus savā tēla lapā.
 
-* **Bojājumu modifikators:** Pieskaitiet STR+SIZ un atrodiet **bojājumu modifikatoru**, kas atbilst jūsu tēla kopsummai **Bojājumu modifikatora** tabulā.
+* **Bojājumu modifikators**: Saskaiti SPĒ+IZM un atrodi **bojājumu modifikatoru**, kas atbilst tēla kopsummai **Bojājumu modifikatora** tabulā.
 
-* **Trāpījuma punkti:** Pieskaitiet CON+SIZ un daliet ar 2 (noapaļojot uz augšu). Apvelciet šo skaitli **Trāpījuma punktu** lodziņā savā tēla lapā un ierakstiet to zemāk. Tie ir jūsu tēla maksimālie trāpījuma punkti. Ja jūsu tēls zaudē trāpījuma punktus, atzīmējiet tos un izdzēsiet atzīmes, kad trāpījuma punkti tiek dziedēti vai citādi atjaunoti.
+* **Sitienpunkti:** Saskaiti IZT+IZM un dali ar 2 (noapaļojot uz augšu). Ievelc aplīti ap šo skaitli **Sitienpunktu** laukā savā tēla lapā un ieraksti to zemāk. Tie ir tēla maksimālie sitienpunkti. Ja tēls zaudē sitienpunktus, atzīmē tos un izdzēs atzīmes, kad sitienpunkti tiek dziedēti vai citādi atjaunoti.
 
-* **Smaga ievainojuma līmenis:** Jūsu **smaga ievainojuma līmenis** ir 1/2 no trāpījuma punktiem, noapaļots uz augšu.
+* **Smagu ievainojumu līmenis:** Tavs **smagu ievainojumu līmenis** ir 1/2 no sitienpunktiem, noapaļots uz augšu.
 
-* **Spējas punkti:** **Spējas punktu** lodziņā apvelciet skaitli, kas vienāds ar POW, un ierakstiet kopsummu līnijā zemāk. Tie ir jūsu tēla maksimālie spējas punkti. Tie nodrošina burvestības, mutācijas, psihiskās spējas vai supervaroņu spējas. Atzīmējiet spējas punktus, kad tos tērējat, un izdzēsiet atzīmes, kad tie tiek atgūti vai citādi atjaunoti. Skaitlis, kas ierakstīts vietā, vienāds ar jūsu POW, ir vērtība, pie kuras jūsu spējas punkti atgriežas atpūšoties.
+* **Varas punkti:** **Varas punktu** laukā ievelc aplīti ap skaitli, kas vienāds ar VAR, un ieraksti kopsummu līnijā zemāk. Tie ir tēla maksimālie varas punkti. Tie nodrošina maģiskās burvestības, mutācijas, psihiskās spējas vai supervaroņu spējas. Atzīmē varas punktus, kad tie tiek tērēti, un izdzēs atzīmes, kad tie tiek atgūti vai citādi atjaunoti. Skaitlis, kas ierakstīts vietā, vienāds ar tavu VAR, ir vērtība, uz kuru atgriežas tēla varas punkti pēc atpūtas.
 
-* **Pieredzes bonuss:** Jūsu tēla pieredzes bonuss ir vienāds ar 1/2 no viņu INT, noapaļots uz augšu.
+* **Pieredzes bonuss:** Tēla pieredzes bonuss ir vienāds ar 1/2 no INT, noapaļots uz augšu.
 
-* **Kustība (MOV):** Jūsu tēla MOV mēra, cik ātri viņi var pārvietoties kaujas raunda laikā. Cilvēku tēli parasti var pārvietoties 10 vienības raundā. Vienība ir nedaudz mainīgs lielums, kas parasti ir vienāds ar 1 metru. Skatīt **Kustības ātrumi**.
+* **Kustība (MOV):** Tēla MOV mēra, cik ātri tas var pārvietoties kaujas raunda laikā. Cilvēku tēli parasti var pārvietoties par 10 vienībām raundā. Vienība ir nedaudz mainīgs daudzums, kas parasti ir vienāds ar 1 metru. Skat. **Kustības ātrumi**.
 
-**Prasmju bonusi (opcija):** Ja izmantojat uz raksturlielumiem balstītus prasmju kategoriju bonusus, aprēķiniet bonusu katrai, izmantojot **Prasmju kategorijas bonusa** tabulu. Ierakstiet šīs vērtības katras kategorijas vietās. Šis bonuss tiek pieskaitīts bāzes iespējai katrai prasmei, ja tāda pastāv. Katrai kategorijai:
+**Prasmju bonusi (opcija):** Ja izmanto uz raksturlielumiem balstītus prasmju kategoriju bonusus, aprēķini bonusu katrai, izmantojot **Prasmju kategoriju bonusa** tabulu. Ieraksti šīs vērtības ailēs katrai kategorijai. Šis bonuss pieskaitās bāzes iespējai katrai prasmei, ja tāda ir. Katrai kategorijai:
 
-* Pieskaitiet +1% par katru punktu primārajā raksturlielumā virs 10; atņemiet 1% par katru punktu zem 10.
+* +1% par katru punktu primārajā raksturlielumā virs 10; atņem 1% par katru punktu zem 10.
 
 * +1% par katriem 2 punktiem sekundārajā raksturlielumā virs 10; –1% par katriem 2 punktiem zem 10 (noapaļojot bonusu uz leju, ja nepieciešams).
 
 * –1% par katru punktu negatīvajā raksturlielumā virs 10; +1% par katru punktu zem 10.
 
-**Trāpījuma punkti pa atrašanās vietām (opcija):** Izmantojot fakultatīvo trāpījuma vietu sistēmu, nosakiet trāpījuma punktu skaitu katrai atrašanās vietai. Galvai, vēderam un katrai kājai ir 1/3 no jūsu kopējo trāpījuma punktu summas, krūtīm ir 4/10, un katrai rokai ir 1/4 no tēla maksimālās trāpījuma punktu vērtības. Noapaļojiet visus skaitļus uz augšu.
+**Sitienpunkti pa ķermeņa daļām (opcija):** Izmantojot izvēles ķermeņa daļu sistēmu, nosaki sitienpunktu skaitu katrai daļai. Galva, vēders un katra kāja satur 1/3 no sitienpunktu kopsummas, krūškurvis satur 4/10, un katra roka satur 1/4 no tēla maksimālās sitienpunktu vērtības. Visas daļas noapaļo uz augšu.
 
-**Noguruma punkti (opcija):** Ja tiek izmantots nogurums; pieskaitiet sava tēla STR+CON, lai iegūtu noguruma punktu kopsummu. Spēles gaitā, kad jūsu tēls patērē enerģiju vai veic fiziski smagu darbību, viņi zaudēs noguruma punktus. Viņi ātri atkopjas atpūtas un citu līdzekļu ietekmē, un to skaits bieži mainās.
+**Noguruma punkti (opcija):** Ja tiek izmantots nogurums; saskaiti tēla SPĒ+IZT, lai iegūtu noguruma punktu kopsummu. Spēles laikā, tēlam tērējot enerģiju vai veicot smagu fizisku aktivitāti, tas zaudēs noguruma punktus. Tie ātri atjaunojas ar atpūtu un citiem līdzekļiem un bieži mainās.
 
-**Prāta veselība (opcija):** Ja tiek izmantota prāta veselība (Sanity); reiziniet sava tēla sākotnējo POW rādītāju ar 5, lai iegūtu pašreizējo prāta veselības (SAN) kopsummu. Profesija (skatīt Sesto soli zemāk) var mainīt šo skaitli. Spēles gaitā atzīmējiet tos, ja jūsu tēls zaudē prāta veselības punktus.
+**Prāta veselība (opcija):** Ja tiek izmantota prāta veselība; reizini tēla sākotnējo VAR punktu skaitu ar 5, lai iegūtu pašreizējo prāta veselības (PV) kopsummu. Profesija (skat. Sesto soli zemāk) var modificēt šo skaitli. Spēles laikā izdzēs punktus, ja tēls zaudē prāta veselības punktus.
 
 ### Sestais solis: Personība
 
-Izpētiet sava tēla raksturlielumus un iedomājieties, kāda veida personu jūs vēlētos, lai viņi būtu. Izvēlieties vienu no tālāk norādītajām opcijām vai metiet 1D4 nejaušam rezultātam. Šīs prasmju paketes ir ātrs veids, kā attīstīt savu tēlu — nākamajā solī būs vairāk prasmju. Prasmes ir definētas *Trešajā nodaļā: Prasmes* (37–52. lpp.), un ieroču klases ir aprakstītas *Astotajā nodaļā: Aprīkojums*.
+Izpēti tēla raksturlielumus un iztēlojies, kāda veida personu vēlētos tēlot. Izvēlies vienu no opcijām zemāk vai met 1D4 nejaušam rezultātam. Šīs prasmju paketes ir ātrs veids, kā attīstīt tēlu — nākamajā solī būs vairāk prasmju. Prasmes ir definētas *Trešā nodaļa: Prasmes* 37–52, un ieroču klases ir aprakstītas *Astotā nodaļa: Aprīkojums*.
 
 ##### Personības tipi
 
 | Rezultāts | Apraksts |
 | :---- | :---- |
-| 1 | **Brutāls**: Jūsu tēls vispirms domā par problēmu risināšanu ar fizisku spēku. Piešķiriet 20 prasmju punktus katrai no šīm prasmēm: Kautiņš (Brawl), Kāpšana (Climb), Izvairīšanās (Dodge), Satveršana (Grapple), Ieskats (Insight), Lēkšana (Jump), Jāšana (Ride), Sajūta (Sense), Maskēšanās (Stealth), Peldēšana (Swim), Mešana (Throw), un jebkurām divām kaujas prasmēm. |
-| 2 | **Prasmīgs**: Jūsu tēls uzskata, ka tehnika, meistarība un ekspertīze ir veiksmes noslēpumi. Piešķiriet 20 prasmju punktus katrai no šīm prasmēm: Novērtēšana (Appraise), jebkura amata prasme (Craft), Maskēšanās (Disguise), Izvairīšanās (Dodge), Smalka manipulācija (Fine Manipulation), Pirmā palīdzība (First Aid), jebkura viena zināšanu prasme (Knowledge), Navigācija (Navigate), Pilotešana (Pilot), Jāšana (Ride), Veiklība (Sleight of Hand), Maskēšanās (Stealth), un jebkurai vienai kaujas prasmei. |
-| 3 | **Viltīgs**: Jūsu tēls vispirms cenšas pārspēt pretinieku, lai iegūtu priekšrocības. Pieskaitiet 20 prasmju punktus katrai no šīm prasmēm: Novērtēšana (Appraise), Kaulēšanās (Bargain), Maskēšanās (Disguise), Ieskats (Insight), jebkuras divas zināšanu prasmes (Knowledge), Klausīšanās (Listen), Izpēte (Research), Sajūta (Sense), Pamanīšana (Spot), Maskēšanās (Stealth), jebkura viena tehniskā prasme (Technical, atbilstoša videi), un jebkura viena kaujas prasme. |
-| 4 | **Burvīgs**: Jūsu tēlam patīk pārliecināt citus cilvēkus strādāt, kamēr paši pieņem lēmumus. Piešķiriet 20 punktus katrai no šīm prasmēm: Novērtēšana (Appraise), Kaulēšanās (Bargain), Pavēle (Command), Etiķete (Etiquette), Ātrruna (Fast Talk), Ieskats (Insight), Uzstāšanās (Perform), Pārliecināšana (Persuade), jebkura viena svešvaloda (Language Other), Dzimtā valoda (Language Own), Sajūta (Sense), Statuss (Status), un jebkura viena kaujas prasme. |
+| 1 | **Brutāls**: Tēls vispirms domā par problēmu risināšanu ar fizisku spēku. Piešķir 20 prasmju punktus katrai no prasmēm: Kautiņš, Kāpšana, Izvairīšanās, Satvēriens, Ieskats, Lēkšana, Jāšana, Sajūta, Maskēšanās, Peldēšana, Mešana, un jebkurām divām Kaujas prasmēm. |
+| 2 | **Prasmīgs**: Tēls uzskata, ka tehnika, amats un ekspertīze ir veiksmes atslēga. Piešķir 20 prasmju punktus katrai no prasmēm: Novērtēšana, jebkurš Amatu veids, Maskēšanās (disguise), Izvairīšanās, Smalka manipulācija, Pirmā palīdzība, jebkura Zināšanu prasme, Navigācija, Pilotēšana, Jāšana, Veiklās rokas, Maskēšanās (stealth), un jebkurai vienai Kaujas prasmei. |
+| 3 | **Viltīgs**: Tēls vispirms mēģina pārspēt pretinieku, lai iegūtu priekšrocības. Piešķir 20 prasmju punktus katrai no prasmēm: Novērtēšana, Kaulēšanās, Maskēšanās (disguise), Ieskats, jebkuras divas Zināšanu prasmes, Klausīšanās, Pētīšana, Sajūta, Pamanīšana, Maskēšanās (stealth), jebkura viena Tehniskā prasme (piemērota videi), un jebkurai vienai Kaujas prasmei. |
+| 4 | **Šarmants**: Tēls bauda citu cilvēku pierunāšanu strādāt, kamēr pats pieņem lēmumus. Piešķir 20 punktus katrai no prasmēm: Novērtēšana, Kaulēšanās, Komandēšana, Etiķete, Ātrruna, Ieskats, Priekšnesums, Pārliecināšana, jebkura viena Valoda (cita), Valoda (paša), Sajūta, Statuss, un jebkurai vienai Kaujas prasmei. |
 
-Jūsu spēles vadītājam var būt citi personības tipi, vai arī varat izveidot savu, izvēloties 13 prasmes un pievienojot 20 punktus katram prasmju vērtējumam (ar spēles vadītāja apstiprinājumu).
+Spēles vadītājam var būt citi personības tipi, vai arī vari izveidot savējo, izvēloties 13 prasmes un pievienojot 20 punktus katram prasmju reitingam (ar spēles vadītāja apstiprinājumu).
 
-Sadale prasmju punktus, pievienojiet bonusu bāzes iespējai katrai prasmei, kas parasti ir norādīta iekavās pēc prasmes nosaukuma, piemēram, Ātrruna (5%). Ierakstiet kopsummu pēc prasmes.
+Sadaliot šos prasmju punktus, pievieno bonusu bāzes iespējai katrai prasmei, kas parasti ir norādīta vērtībā iekavās pēc prasmes, piemēram, Ātrruna (15%). Ieraksti kopsummu pēc prasmes.
 
-Piemēram, *pievienojot 20 prasmju punktus Ātrrunai (5%), tiek iegūts vērtējums 25% (5+20).*
+Piemēram, *pievienojot 20 prasmju punktus Ātrrunai (05%), iegūst reitingu 25% (5+20).*
 
 ### Septītais solis: Profesija un prasmes
 
-Lai noteiktu sava tēla sākuma prasmes, atveriet profesiju sarakstu. Izvēlieties tur esošu profesiju. Profesijas ir pilnībā aprakstītas vēlāk šajā nodaļā. Jūsu spēles vadītājs var ierobežot pieejamās profesijas, tāpēc jautājiet pirms šīs izvēles veikšanas. Dažas profesijas sniedz īpašas priekšrocības, piemēram, maģijas izmantošanu. Atzīmējiet to tēla lapā.
+Lai noteiktu tēla sākotnējās prasmes, dodies uz profesiju sarakstu. Izvēlies profesiju. Profesijas ir pilnībā aprakstītas vēlāk šajā nodaļā. Spēles vadītājs var ierobežot pieejamās profesijas, tāpēc pajautā pirms šīs izvēles izdarīšanas. Dažas profesijas sniedz īpašas priekšrocības, piemēram, maģijas lietošanu. Atzīmē tās tēla lapā.
 
-Kad profesija ir izvēlēta, nosakiet tēla profesionālo prasmju punktu fondu. Tas atspoguļo to, ko jūsu tēls ir iemācījies šajā profesijā, neatkarīgi no tā, vai caur treniņiem vai darba pieredzi. Kā vienmēr, prasmju punkti tiek pieskaitīti visiem bonusiem, kas piešķirti iepriekšējos soļos, un prasmes bāzes iespējai.
+Kad profesija ir izvēlēta, nosaki tēla profesionālo prasmju punktu fondu. Tas atspoguļo, ko tēls ir iemācījies šajā profesijā, neatkarīgi no tā, vai ar apmācību vai pieredzi darbā. Kā vienmēr, prasmju punkti tiek pieskaitīti visiem bonusiem, kas piešķirti iepriekšējos soļos, un prasmes bāzes iespējai.
 
-Kampaņas spējas līmenis nosaka sākotnējo prasmju punktu fondu. Jūsu spēles vadītājam līdz šim jau vajadzētu būt izlemtam, kāda veida spēli vadīs un cik jaudīgiem un kompetentiem vajadzētu būt spēlētāju tēliem.
+Kampaņas jaudas līmenis nosaka sākotnējo prasmju punktu fondu. Spēles vadītājam līdz šim vajadzētu būt izlēmušam, kāda veida spēli vadīs un cik jaudīgiem un kompetentiem jābūt spēlētāju tēliem.
 
-* **Normāls:** Piešķiriet 250 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 75%. Ja izmantojat fakultatīvo prasmju kategorijas bonusu, ierobežojums joprojām ir 75%, un jums ir jāiztērē visi punkti virs šīs robežas citām prasmēm. Ja bonusu kombinācija palielina prasmi virs 75% pirms šī soļa, nepievienojiet papildu prasmju punktus.
+* **Normāls:** Piešķir 250 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 75%. Ja izmanto izvēles prasmju kategoriju bonusu, limits joprojām ir 75%, un visi punkti virs šī limita jāiztērē citām prasmēm. Ja bonusu kombinācija pirms šī soļa palielina prasmi virs 75%, nepievieno nekādus papildu prasmju punktus.
 
-* **Varonīgs:** Piešķiriet 325 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 90%, ar tiem pašiem ierobežojumiem kā iepriekš.
+* **Varonīgs:** Piešķir 325 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 90%, ar tādiem pašiem ierobežojumiem kā iepriekš.
 
-* **Episks:** Piešķiriet 400 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 101%, ar tiem pašiem ierobežojumiem kā iepriekš.
+* **Episks:** Piešķir 400 punktus profesionālajām prasmēm. Neviena prasme nevar sākties augstāk par 101%, ar tādiem pašiem ierobežojumiem kā iepriekš.
 
-* **Pārcilvēcisks:** Piešķiriet 500 punktus profesionālajām prasmēm bez prasmju vērtējumu ierobežojuma. Skatīt **Prasmju vērtējumi virs 100% (opcija)**.
+* **Pārcilvēcisks:** Piešķir 500 punktus profesionālajām prasmēm, bez limita prasmju reitingiem. Skat. **Prasmju reitingi virs 100% (opcija)**.
 
-Sākotnējai profesijai piešķiriet spējas līmeņa prasmju punktu skaitu, kā minēts iepriekš. Jūsu spēles vadītājam var būt daži ierobežojumi par to, kā šos prasmju punktus var iztērēt.
+Oriģinālai profesijai piešķir jaudas līmeņa prasmju punktu skaitu, kā norādīts iepriekš. Spēles vadītājam var būt daži ierobežojumi, kā šos prasmju punktus var tērēt.
 
-Kad visi profesionālie prasmju punkti ir sadalīti, reiziniet sava tēla INT×10, lai noteiktu viņu personīgo prasmju punktu fondu. Iztērējiet šos prasmju punktus jebkurām prasmēm, kuras vēlaties, ar spēles vadītāja apstiprinājumu. Pievienojiet punktus, kas iztērēti prasmei, tās bāzes iespējai, profesijas bonusiem (ja tādi ir), profesionālo prasmju punktu sadalījumam un prasmju kategoriju bonusiem (ja tādi ir).
+Kad visi profesionālie prasmju punkti ir sadalīti, reizini tēla INT×10, lai noteiktu personīgo prasmju punktu fondu. Tērē šos prasmju punktus jebkurām prasmēm, ar spēles vadītāja apstiprinājumu. Pievieno punktus, kas iztērēti prasmei, tās bāzes iespējai, profesijas bonusiem (ja tādi ir), profesionālo prasmju punktu sadalījumam un prasmju kategoriju bonusiem (ja tiek izmantoti).
 
-Kopsumma nedrīkst pārsniegt iepriekš iestatīto spēles veida prasmju ierobežojumu. Jūsu spēles vadītājs var uzlikt 50% ierobežojumu personīgajām prasmēm, kas pārāk tālu pārsniedz tēla profesiju. Šis prasmju ierobežojums ir augstāks atkarībā no kampaņas līmeņa: 75% varonīgam, 90% episkam un 100% pārcilvēciskam. Prasmēm, kuras dabiski pārsniedz šos skaitļus ar iepriekšējiem bonusiem, nevar piešķirt papildu punktus.
+Kopsumma nedrīkst pārsniegt spēles tipam noteikto prasmju limitu. Spēles vadītājs var uzlikt 50% ierobežojumu personīgajām prasmēm, kas pārāk tālu atrodas ārpus tēla profesijas. Šis prasmju ierobežojums ir augstāks atkarībā no kampaņas līmeņa: 75% varonīgajam, 90% episkajam un 100% pārcilvēciskajam. Prasmēm, kas dabiski pārsniedz šos skaitļus ar iepriekšējiem bonusiem, nevar pievienot papildu punktus.
 
-Aprēķiniet galīgos vērtējumus visām tēla prasmēm no bāzes iespējas, personības tipa, profesionālo prasmju fonda, personīgo prasmju fonda un fakultatīvajiem prasmju kategoriju bonusiem (ja tiek izmantoti). Jūs varētu vēlēties nedaudz pārbīdīt punktus šajā brīdī, bet saglabājiet profesionālos prasmju punktus un personīgos prasmju punktus atsevišķi.
+Aprēķini galīgos reitingus visām tēla prasmēm no bāzes iespējas, personības tipa, profesionālo prasmju fonda, personīgo prasmju fonda un izvēles prasmju kategoriju bonusiem (ja tiek izmantoti). Šajā brīdī vari pārbīdīt dažus punktus, bet saglabā profesionālo prasmju punktus un personīgo prasmju punktus atsevišķi.
 
-**Izglītība (opcija):** Ja tiek izmantota izglītība (EDU), tā vietā, lai izmantotu bāzes 250/325/400/500 prasmju punktu fondu, sākuma prasmju punktus nosakiet, pamatojoties uz EDU×20 normāliem tēliem, EDU×25 varonīgiem tēliem, EDU×30 episkiem tēliem un EDU×40 pārcilvēciskiem tēliem.
+**Izglītība (IZG) (opcija):** Ja izmanto Izglītību (IZG), 250/325/400/500 prasmju punktu fonda vietā nosaki sākotnējos prasmju punktus, pamatojoties uz IZG×20 normālajiem tēliem, IZG×25 varonīgajiem tēliem, IZG×30 episkajiem tēliem un IZG×40 pārcilvēciskajiem tēliem.
 
-**Kultūras prasmes (opcija):** Spēlei ar būtiskām atšķirībām starp cilvēku kultūrām, jūsu spēles vadītājs var noteikt, ka tas ietekmē sākuma prasmes vai atļautās sākuma prasmes. Skatīt **Kultūra un tēli**.
+**Kultūras prasmes (opcija):** Spēlei ar būtiskām atšķirībām starp cilvēku kultūrām, spēles vadītājs var ļaut tam ietekmēt sākotnējās prasmes vai atļautās sākotnējās prasmes. Skat. **Kultūra un tēli**.
 
-**Palielināts personīgo prasmju punktu fonds (opcija):** INT×10 personīgo prasmju punktu kopsummu var palielināt līdz INT×15 varonīgiem tēliem, INT×20 episkiem tēliem vai INT×25 pārcilvēciskiem tēliem, ja tas ir piemērots. Šī opcija ir ieteicama spēlēm, kurās tēli ir ļoti kompetenti un prasmīgi tādā līmenī, ko to pašreizējā profesija nenorādītu.
+**Palielināti personīgie prasmju punkti (opcija)**: INT×10 personīgo prasmju punktu kopsummu var palielināt līdz INT×15 varonīgajiem tēliem, INT×20 episkajiem tēliem vai INT×25 pārcilvēciskajiem tēliem, pēc nepieciešamības. Šī opcija ir ieteicama spēlēm, kur tēli ir ļoti kompetenti un prasmīgi virs tā, ko norādītu viņu pašreizējā profesija.
 
-### Astotais solis: Mantojums
+### Astotais solis: Mantas
 
-Vairumam tēlu ir kādas mantas, neatkarīgi no tā, vai tas ir aprīkojums vai ieroči. Tēla lapas priekšpusē ir sadaļa ieročiem, bet aizmugurē — vieta mantām. Jūsu profesija apraksta tēla sākuma bagātības līmeni, un Statuss prasme var sniegt vadlīnijas par to, kādu papildu aprīkojumu jūsu tēls varētu iegūt. Nav nepieciešams uzskaitīt katru priekšmetu, kas jūsu tēlam pieder, tikai tos, kas varētu būt svarīgi spēlē.
+Vairumam tēlu ir kādas mantas, neatkarīgi no tā, vai tas ir aprīkojums vai ieroči. Tēla lapas priekšpusē ir sadaļa ieročiem, un aizmugurē ir vieta mantām. Tava profesija apraksta tēla sākotnējo bagātības līmeni, un Statuss prasme var sniegt vadlīnijas tam, kādu papildu aprīkojumu tēls varētu iegūt. Nav nepieciešams uzskaitīt katru priekšmetu, kas tēlam pieder, bet tikai tos, kas varētu būt svarīgi spēlē.
 
-Vairumā gadījumu jūsu tēlam ir šādas lietas:
+Vairumā gadījumu tēlam ir šādas lietas:
 
-* Pilns apģērba komplekts (vai komplekti), kas piemērots videi un spēles videi.
+* Pilns apģērba komplekts (vai komplekti), kas piemērots videi un laikmetam.
 
-* Kabatas nauda un personīgie ietaupījumi, pamatojoties uz viņu bagātības līmeni.
+* Kabatas naudas un personīgo uzkrājumu daudzums, pamatojoties uz bagātības līmeni.
 
-* Personīgais priekšmets, kas parāda saistību ar viņu ģimeni vai pagātni. Tas var būt mantojums, piemiņas lieta vai kāds nieciņš ar spēcīgu emocionālu saikni.
+* Personīgs priekšmets, kas parāda saistību ar ģimeni vai pagātni. Tas var būt dzimtas dārgums, piemiņas lieta vai kāds nieciņš ar spēcīgu emocionālu saikni.
 
-* Visi tirdzniecības rīki vai aprīkojums, kas piemērots viņu profesijai, ja nepieciešams.
+* Jebkuri amata rīki vai aprīkojums, kas piemērots profesijai, ja nepieciešams.
 
-* Jebkurš ierocis, kurā viņiem ir 50%+ prasme, ja nepieciešams.
+* Jebkurš ierocis, kurā tēlam ir 50%+ prasme, ja nepieciešams.
 
-* Atkarībā no vides, profesijas, bagātības līmeņa un statusa, viņiem var būt transportlīdzeklis, piemēram, zirgs, rati, velosipēds, automašīna, personīgais lidaparāts, neliels kosmosa transports vai cits pārvietošanās līdzeklis. Tas ir atkarīgs no jūsu spēles vadītāja apstiprinājuma.
+* Balstoties uz vidi, profesiju, bagātības līmeni un Statusu, viņiem var būt transportlīdzeklis, piemēram, zirgs, rati, velosipēds, automašīna, personīgais lidaparāts, neliels kosmosa transports vai cits pārvietošanās līdzeklis. Tas ir pakļauts spēles vadītāja apstiprinājumam.
 
-* Detalizēti finanšu noteikumi nav sniegti: ieteiktā bagātība profesijām un Statuss prasme ir labākās vadlīnijas, lai noteiktu, kādus priekšmetus un līdzekļus viņi sāk spēlē vai tiem var piekļūt. Jūsu spēles vadītājam vajadzētu spēt palīdzēt jums aprakstīt to piemērotā detalizācijas līmenī, un viņam var būt papildu ierobežojumi vai ieteikumi.
+* Nav sniegti sīki finanšu noteikumi: ieteicamā bagātība profesijām un Statuss prasme ir labākās vadlīnijas, lai noteiktu, kādi priekšmeti un līdzekļi tēlam pieder spēles sākumā vai kuriem tam ir pieeja. Spēles vadītājam vajadzētu spēt palīdzēt aprakstīt to atbilstošā detalizācijas pakāpē, un tam var būt papildu ierobežojumi vai ieteikumi.
 
-### Devītais solis: Izmērs un atšķirīgās iezīmes
+### Devītais solis: Izmērs un īpatnējas iezīmes
 
-Šis solis galvenokārt ir kosmētisks un nav pilnīgi nepieciešams.
+Šis solis galvenokārt ir kosmētisks un nav pilnībā nepieciešams.
 
-Tagad varat izvēlēties noteikt tēla augumu un svaru, pamatojoties uz SIZ. Parasti SIZ diapazons 10–13 atspoguļo cilvēka vidējo svaru un augumu. Persona ar SIZ 8 (normālais minimums) ir salīdzinoši maza, un kāds ar SIZ 18 ir ārkārtīgi liels. Jūs varat to definēt, kā vēlaties, vai nu ar precīziem skaitļiem augumam un svaram, vai ar aprakstiem, piemēram, "garš" vai "tievs".
+Tagad vari izvēlēties noteikt tēla augumu un svaru, pamatojoties uz IZM. Parasti IZM diapazons 10–13 atspoguļo cilvēka vidējā svara un auguma diapazonu. Persona ar IZM 8 (normālais minimums) ir relatīvi maza, un kāds ar IZM 18 ir ārkārtīgi liels. Vari definēt to, kā vēlies, vai nu ar precīziem auguma un svara skaitļiem, vai ar aprakstiem kā “Garš” vai “Tievs”.
 
-Ja izmantojat **Atšķirīgo iezīmju** opciju, atzīmējiet šīs iezīmes zem tēla vārda tēla lapā.
+Ja izmanto **Īpatnējo iezīmju** opciju, atzīmē šīs iezīmes zem tēla vārda tēla lapā.
 
-### Desmitais solis: Pēdējie pieskārieni
+### Desmitais solis: Noslēdzošie pieskārieni
 
-Šis ir pēdējais solis dažādiem jūsu tēla aspektiem. Ja pirms tam pirmajā solī nevarējāt izdomāt vārdu, tagad ir īstais laiks. Papildus tam varat izdomāt visu pārējo šajā sadaļā pirms spēles sākuma vai tad, kad iegūstat izjūtu par savu tēlu.
+Šis ir pēdējais solis dažādiem tava tēla aspektiem. Ja pirms tam pirmajā solī nevarēji izdomāt vārdu, tagad ir īstais laiks. Bez tam, vari izdomāt visu pārējo šo sadaļu, pirms sākas spēle, vai kad sajūti savu tēlu.
 
-Kā vēlaties, aizpildiet visas tukšās vietas, kas apraksta tēlu garīgi un fiziski, un nāciet klajā ar dažām idejām par viņu pagātni. Devītajā solī jūs noteicāt tēla atšķirīgās iezīmes, tāpēc izlemiet, vai tēlam ir citas, mazāk atšķirīgas iezīmes. Kādas krāsas ir viņu mati, āda un acis? Kā viņi ģērbjas? Vai viņiem ir kādi interesanti manierismi, vai moto vai teiciens, ko bieži lieto? Vai viņiem ir interesanta reputācija?
+Ja vēlies, aizpildi visas tukšās vietas, kas apraksta tēlu gan garīgi, gan fiziski, un izdomā dažas idejas par tā pagātni. Devītajā solī tu noteici tēla īpatnējās iezīmes, tāpēc izlem, vai tēlam ir citas, mazāk īpatnējas iezīmes. Kāda krāsa ir matiem, ādai un acīm? Kā tēls ģērbjas? Vai tam ir kādi interesanti manieri, vai moto vai teiciens, ko bieži lieto? Vai tam ir interesanta reputācija?
 
-Ja tas ir būtiski, nosakiet, no kurienes tēls nāk. Kur viņi gāja skolā (ja vispār)? Kādas ir viņu attiecības ar ģimeni? Vai tēls ir kādas nozīmīgas organizācijas biedrs? Vai viņiem ir interesanta pagātne? Vai viņiem ir nozīmīga reliģiska vai politiska pārliecība? Ja nepieciešams, pirms spēles sākuma strādājiet ar spēles vadītāju, lai noteiktu šos jautājumus, vai vismaz apdomājiet tos iepriekš. Spēles laikā varat arī papildināt citus tēla pagātnes sīkumus, ja nepieciešams, vai atstāt šos aspektus nenoteiktus, ja tie nav būtiski.
+Ja tas ir svarīgi, nosaki, no kurienes tēls nāk. Kur tas gāja skolā (ja vispār gāja)? Kādas ir attiecības ar ģimeni? Vai tēls ir kādas nozīmīgas organizācijas biedrs? Vai tam ir interesanta pagātne? Vai tam ir kādi nozīmīgi reliģiski vai politiski uzskati? Ja nepieciešams, tev vajadzētu sadarboties ar spēles vadītāju, lai noteiktu šos jautājumus pirms spēles sākuma, vai vismaz padomāt par tiem iepriekš. Spēlē vari arī papildināt citas detaļas par tēla pagātni, cik nepieciešams, vai atstāt šos aspektus nenoskaidrotus, ja tie nav svarīgi.
 
-Tēla lapas aizmugurē ir vieta papildu aprakstošiem vai pagātnes elementiem. Aizpildiet tik daudz vai tik maz, cik vēlaties, un pārbaudiet ar spēles vadītāju, vai viņi par tiem zina un vai tie ir piemēroti spēlei.
+Tēla lapas aizmugurē ir vieta papildu aprakstošiem vai pagātnes elementiem. Aizpildi tik daudz vai tik maz no tiem, cik vēlies, un pārbaudi ar spēles vadītāju, lai pārliecinātos, ka viņi par tiem zina un ka tie ir piemēroti spēlei.
 
-> ### Uz punktiem balstīta tēla izveide (opcija)
+> ### Tēla izveide uz punktu pamata (opcija)
 > 
-> Standarta tēla izveide izmanto kauliņu metienus sākuma raksturlielumu noteikšanai, bet jūs un jūsu spēles vadītājs varat izvēlēties izmantot uz punktiem balstītu sistēmu, kas piedāvā lielāku kontroli pār jūsu tēla izveidi. Ja tā, tad **Pirmajā solī** tiek veikti šādi pielāgojumi:
+> Standarta tēla izveidē izmanto kauliņu metienus, lai noteiktu sākotnējos raksturlielumus, bet tu un tavs spēles vadītājs varat izvēlēties izmantot uz punktu balstītu sistēmu, kas piedāvā lielāku kontroli pār tēla izveidi. Ja tā, tad **Pirmajam solim** tiek veikti šādi pielāgojumi.
 > 
-> * Visi raksturlielumi (STR, CON, SIZ, INT, POW, DEX un CHA) sākas ar 10.
-> * Jums ir 24 punkti, ko iztērēt raksturlielumos. Tas ir līdzvērtīgs kampaņas "normālajam" spējas līmenim. Nevienu sākotnējo raksturlielumu nevar paaugstināt augstāk par 21.
-> * Katrs STR, CON, SIZ vai CHA punkts maksā 1 punktu.
-> * Katrs DEX, INT un POW punkts maksā 3 punktus.
-> * Varat izvēlēties samazināt savus sākuma raksturlielumus zem sākuma vērtības 10, līdz minimumam 3.
-> * Par katru STR, CON, SIZ vai CHA punktu, ko samazināt zem 10, jūs saņemat 1 punktu, ko iztērēt citiem raksturlielumiem.
-> * Par katru DEX, INT un POW punktu, ko samazināt, jūs atgūstat 3 punktus.
-> * Tikai ar spēles vadītāja atļauju varat paaugstināt vai samazināt sākuma raksturlielumu ārpus 3–21 diapazona. Augstākiem spējas līmeņiem (episkam un pārcilvēciskam) raksturlielumu maksimumu vajadzētu ignorēt.
-> * Spēlēm ar spējām varat piemērot visus neizmantotos punktus no raksturlielumu ģenerēšanas savam spēju budžetam. Tas ir tikai ar spēles vadītāja atļauju, jo tas var rezultēties ar punktu zaudēšanu kopumā.
+> * Visi raksturlielumi (SPĒ, IZT, IZM, INT, VAR, VEI un HAR) sāk ar 10.
 > 
-> Ja uz punktiem balstīta raksturlielumu ģenerēšana ir atļauta, nākamais solis spēlei ar spējām būtu alternatīvais **Otrais solis**, kas aprakstīts *Ceturtajā nodaļā: Spējas*. Spēlei bez spējām tēla izveidei jāpāriet uz **Ceturto soli**.
+> * Tev ir 24 punkti, ko iztērēt raksturlielumos. Tas ir ekvivalents “normālajam” jaudas līmenim kampaņai. Nevienu sākotnējo raksturlielumu nevar paaugstināt augstāk par 21.
 > 
-> #### Augstāki sākuma raksturlielumi (opcija)
+> * Katrs SPĒ, IZT, IZM vai HAR punkts maksā 1 punktu.
 > 
-> Jaudīgākām kampaņām (ar 2D6+6 metienu, nevis normālo 3D6), sākuma punktu kopsumma ir 36 punkti, kas līdzvērtīga varonīgajam spējas līmenim. Episkā spējas līmeņa tēli sāk ar 48 raksturlielumu punktiem, un pārcilvēciskā spējas līmeņa tēli sāk ar 60 punktiem. Normālie raksturlielumu maksimumi nedrīkst tikt piemēroti.
+> * Katrs VEI, INT un VAR punkts maksā 3.
+> 
+> * Vari izvēlēties samazināt savus sākotnējos raksturlielumus zem 10, līdz minimumam 3.
+> 
+> * Par katru SPĒ, IZT, IZM vai HAR punktu, ko samazini zem 10, iegūsti 1 punktu, ko tērēt citiem raksturlielumiem.
+> 
+> * Par katru VEI, INT un VAR punktu, ko samazini, iegūsti 3 punktus atpakaļ.
+> 
+> * Tikai ar spēles vadītāja atļauju vari paaugstināt vai pazemināt sākotnējo raksturlielumu ārpus 3–21 diapazona. Augstākiem jaudas līmeņiem (episkajam un pārcilvēciskajam) raksturlielumu maksimums ir jāignorē.
+> 
+> * Spēlēm ar spējām vari piemērot visus neizmantotos punktus no raksturlielumu ģenerēšanas savam spēju budžetam. Tas ir iespējams tikai ar spēles vadītāja atļauju, jo tas var izraisīt kopējo punktu zaudēšanu.
+> 
+> Ja uz punktu balstīta raksturlielumu ģenerēšana ir atļauta, nākamais solis spēlei ar spējām būtu alternatīvais **Otrais solis**, kas aprakstīts *Ceturtajā nodaļā: Spējas*. Spēlei bez spējām tēla izveidei tad jāpāriet uz **Ceturto soli**.
+> 
+> #### Augstāki sākotnējie raksturlielumi (opcija)
+> 
+> Augstāka jaudas līmeņa kampaņām (ar 2D6+6 metienu ierasto 3D6 vietā) sākotnējais punktu kopējais daudzums ir 36 punkti, kas ekvivalents varonīgajam jaudas līmenim. Episkā jaudas līmeņa tēli sāk ar 48 raksturlielumu punktiem, un pārcilvēciskā jaudas līmeņa tēli sāk ar 60 punktiem. Normālie raksturlielumu maksimumi nav piemērojami.
 > 
 > #### Izglītība (opcija)
 > 
-> Ja tiek izmantots EDU raksturlielums, spēles vadītājam jāpiešķir EDU vērtība, pamatojoties uz jūsu tēla vecumu (**Trešais solis**) un pagātni. Varat to mainīt ar jebkuriem punktiem, kurus izvēlaties. Katrs EDU punkts maksā 3 punktus.
+> Ja tiek izmantots IZG raksturlielums, spēles vadītājam jāpiešķir vērtība IZG, pamatojoties uz tēla vecumu (aprakstīts **Trešajā solī**) un pagātni. Vari to modificēt ar jebkuriem punktiem, kurus izvēlies. Katrs IZG punkts maksā 3 punktus.
 > 
-> #### Kultūras modifikatori vai necilvēciski tēli (opcija)
+> #### Kultūras modifikatori vai necilvēcīgi tēli (opcija)
 > 
-> Ja jūsu spēles vadītājs atļauj kultūras modifikatorus sākuma raksturlielumiem, šie modifikatori jāpiemēro raksturlielumiem pēc tam. Ja ir pieejami necilvēciski tēli ar kultūras modifikatoriem sākuma raksturlielumiem, spēles vadītājam jāpielāgo jūsu sākuma punkti un/vai sākotnējie raksturlielumi, ja nepieciešams. *Vienpadsmitā nodaļa: Radības* satur padomus par necilvēcisku tēlu atļaušanu.
+> Ja spēles vadītājs atļauj kultūras modifikatorus sākotnējiem raksturlielumiem, šiem modifikatoriem jābūt piemērotiem raksturlielumiem pēc tam. Ja ir pieejami necilvēcīgi tēli ar kultūras modifikatoriem, spēles vadītājam jāpielāgo tavi sākotnējie punkti un/vai sākotnējie raksturlielumi, kā pienākas. *Vienpadsmitā nodaļa: Būtnes* satur padomus par necilvēcīgu tēlu atļaušanu.
 
 ## Raksturlielumi
 
-Jūsu tēls tiek mērīts un definēts ar raksturlielumu kopumu — vērtībām, kas atspoguļo viņu fiziskās un garīgās spējas. Augstāki raksturlielumu skaitļi parasti ir labāki (lai gan augsts SIZ var strādāt pret jums maskēšanās gadījumā). Raksturlielumu vērtības norāda uz izejas dotumiem, kas tēlam piemīt. Raksturlielumu vērtības spēles gaitā var mainīties. Traumas vai nelabvēlīgi apstākļi var samazināt raksturlielumus, savukārt treniņi, piepūle un kondicionēšana var tos palielināt.
+Tavu tēlu mēra un definē raksturlielumu kopums — vērtības, kas atspoguļo to fiziskās un garīgās spējas. Augstāki raksturlielumu skaitļi parasti ir labāki (lai gan augsts IZM var strādāt pret tevi maskēšanās gadījumā). Raksturlielumu vērtības norāda uz tēla iedzimtajām dāvanām. Raksturlielumu vērtības var mainīties spēles gaitā. Ievainojumi vai nelabvēlīgi apstākļi var samazināt raksturlielumus, kamēr apmācība, piepūle un kondicionēšana var tos palielināt.
 
-* Fiziskajiem raksturlielumiem (STR, CON, SIZ un DEX) cilvēkiem ir maksimums 21.
-* Garīgos raksturlielumus (INT, POW, CHA un EDU) parasti var paaugstināt bez ierobežojumiem.
-* Vairumā apstākļu 3 ir zemākā vērtība jebkuram raksturlielumam, izņemot SIZ vai INT, kuriem ir minimālā vērtība 8.
+* Fiziskajiem raksturlielumiem (SPĒ, IZT, IZM un VEI) cilvēkiem ir 21 maksimums.
 
-Ja kampaņā ir atļautas citas rases vai sugas, tām var būt augstāki vai zemāki raksturlielumu maksimumi. Maģija, mutācijas, psihiskās spējas, burvība vai supervaroņu spējas arī var palielināt raksturlielumus bez ierobežojuma.
+* Garīgos raksturlielumus (INT, VAR, HAR un IZG) parasti var paaugstināt bez ierobežojumiem.
 
-### Spēks (STR)
+* Vairumā apstākļu 3 ir zemākā vērtība jebkuram raksturlielumam, izņemot IZM vai INT, kuriem ir 8 minimālā vērtība.
 
-Spēks mēra muskuļu jaudu. Piepūles metiens (STR×5) ir tā raksturlieluma metiens. STR palīdz noteikt, cik daudz tēls var pacelt vai nest, stumt vai vilkt, vai cik stingri var kaut kam turēties. Kaujā STR nosaka, kāda veida ieročus tēls var izmantot, kā arī palīdz noteikt, cik daudz papildu bojājumu (ja tādi ir) viņi nodara ar katru trāpījumu. STR var palielināt ar vingrinājumiem, kamēr noteiktas traumas un slimības var neatgriezeniski samazināt STR. Tēls ar STR 0 ir invalīds, nespējīgs piecelties no gultas.
+Ja kampaņā ir atļautas citas rases vai sugas, tām var būt augstāki vai zemāki raksturlielumu maksimumi. Maģija, mutācijas, psihiskās spējas, burvestības vai supervaroņu spējas arī var palielināt raksturlielumus bez ierobežojuma.
 
-### Konstitūcija (CON)
+### Spēks (SPĒ)
 
-Veselība, enerģija un vitalitāte tiek mērīta ar konstitūciju. Izturības metiens (CON×5) ir tā raksturlieluma metiens. CON nosaka, cik labi tēls var pretoties nogurumam, indei, slimībai, slīkšanai un citām grūtībām, un ir faktors trāpījuma punktu aprēķināšanā. CON var palielināt ar kondicionēšanu. Slimības, indes un dažas traumas var īslaicīgi vai neatgriezeniski samazināt CON. Tēls mirst, kad viņu CON nokrītas līdz 0 jebkāda iemesla dēļ.
+Spēks mēra muskuļu jaudu. Pūļu metiens (SPĒ×5) ir tā raksturlieluma metiens. SPĒ palīdz noteikt, cik daudz tēls var pacelt vai nest, stumt vai vilkt, vai cik cieši tas var pieķerties pie kaut kā. Kaujā SPĒ nosaka, kādus ieročus tēls var lietot, kā arī palīdz noteikt, cik daudz papildu bojājumu (ja tādi ir) tas nodara ar katru sitienu. SPĒ var palielināt ar vingrinājumiem, kamēr noteikti ievainojumi un slimības var pastāvīgi samazināt SPĒ. Tēls ar SPĒ 0 ir invalīds, nespējīgs piecelties no gultas.
 
-### Izmērs (SIZ)
+### Izturība (IZT)
 
-Izmērs definē augumu, svaru un apjomu. Nav SIZ asociēta raksturlieluma metiena; tēla lapā vieta tiek izmantota bojājumu bonusam. Pretestības metieni, izmantojot SIZ, var noteikt, vai tēls var stingri stāvēt pretī pretestībai, redzēt pāri šķērslim vai izspraukties cauri spraugai. Tēla SIZ kā ķermeņa masa ir svarīgs faktors trāpījuma punktu un bojājumu modifikatora (ja tāds ir) noteikšanā. Faktori, piemēram, rijība vai stingra diēta, var palielināt vai samazināt SIZ, pēc jūsu spēles vadītāja ieskatiem. Dažas spējas var arī ietekmēt SIZ. Smagas traumas (piemēram, zaudētas ekstremitātes) var arī neatgriezeniski samazināt SIZ. Tēls mirst, ja zaudē vairāk nekā pusi no sava SIZ (noapaļojot uz augšu) bada vai ekstrēmas diētas dēļ. Tēls, kas samazināts līdz SIZ 0 ar maģiju vai citu ietekmi, vienkārši izzūd, izsīkstot līdz nekam. Jūsu spēles vadītājam vajadzētu būt arbitram jebkurām piespiedu SIZ izmaiņām, jo tās ir neierastas.
+Veselību, sparu un vitalitāti mēra ar Izturību. Izturības metiens (IZT×5) ir tā raksturlieluma metiens. IZT nosaka, cik labi tēls var pretoties nogurumam, indei, slimībai, slīkšanai un citām grūtībām, un ir faktors sitienpunktu aprēķināšanā. IZT var palielināt ar kondicionēšanu. Slimības, indes un daži ievainojumi var īslaicīgi vai pastāvīgi samazināt IZT. Tēls mirst, kad tā IZT nokrītas līdz 0 jebkāda iemesla dēļ.
+
+### Izmērs (IZM)
+
+Izmērs definē augumu, svaru un apjomu. Nav IZM saistīta raksturlieluma metiena; tēla lapā šī vieta tiek izmantota Bojājumu bonusa atzīmēšanai. Pretestības metieni, izmantojot IZM, var noteikt, vai tēls var stāvēt stingri pretī pretestībai, redzēt pāri šķērslim vai izspiesties cauri spraugai. Tēla IZM kā ķermeņa masa ir svarīgs faktors sitienpunktu un bojājumu modifikatora noteikšanā. Tādi faktori kā rijība vai stingra diēta var palielināt vai samazināt IZM pēc spēles vadītāja ieskatiem. Dažas spējas var arī ietekmēt IZM. Smagi ievainojumi (piemēram, zaudētas ekstremitātes) var arī pastāvīgi samazināt IZM. Tēls mirst, ja zaudē vairāk nekā pusi no sava IZM (noapaļojot uz augšu) badastreika vai ekstremālas diētas dēļ. Tēls, kas samazināts līdz IZM 0 ar maģiju vai citām ietekmēm, vienkārši pazūd, izsīkstot līdz nullei. Spēles vadītājam jābūt jebkādu piespiedu IZM izmaiņu arbitram, jo tās ir retas.
 
 ### Intelekts (INT)
 
-Pārstāvot saprātu, garīgo asumu un atjautību, INT mēra, cik labi tēls mācās, atceras un analizē informāciju. Idejas metiens (INT×5) ir tā raksturlieluma metiens. INT ir kritisks, nosakot sākotnējās prasmju vērtības. Iespējams, vissvarīgākais raksturlielums, INT nav noteikta maksimuma un var iedomājami pieaugt bezgalīgi ar studijām un garīgiem vingrinājumiem. Traumas galvā, ilgstoša kaitīgu zāļu iedarbība vai noteikta veida slimības var samazināt INT. Tēls ar INT 0 ir samazināts līdz veģetatīvam stāvoklim, nespējīgs izdzīvot neatkarīgi.
+Atspoguļojot saprātu, garīgo asumu un prātu, INT mēra, cik labi tēls mācās, atceras un analizē informāciju. Idejas metiens (INT×5) ir tā raksturlieluma metiens. INT ir kritisks sākotnējo prasmju vērtību noteikšanā. Iespējams, vissvarīgākais raksturlielums, INT nav fiksēta maksimuma un var domājams augt bezgalīgi ar pētījumiem un garīgiem vingrinājumiem. Ievainojumi galvā, ilgstoša saskare ar kaitīgām zālēm vai noteikta veida slimības var samazināt INT. Tēls ar INT 0 ir reducēts līdz veģetatīvam stāvoklim, nespējīgs izdzīvot neatkarīgi.
 
-### Spēja (POW)
+### Vara (VAR)
 
-Visnenoteiktākais no raksturlielumiem, Spēja pārstāv gribasspēku, maģiskās dotības un garīgo attīstību. POW ir būtisks līderībai, intuīcijai un maģijai. Veiksmes metiens (POW×5) ir tā raksturlieluma metiens. POW kalpo kā noteicējs sākotnējiem spējas punktiem un sākotnējiem prāta veselības punktiem. Tāpat kā INT, cilvēka POW nav noteikta maksimuma, un tas var pieaugt bezgalīgi. Maģiskas ietekmes var samazināt POW (īslaicīgi vai neatgriezeniski), un daļa maģijas tiek nodrošināta ar pastāvīgu POW punktu ziedošanu. Spējām (skatīt *Ceturto nodaļu: Spējas*), POW ir iespējams vissvarīgākais raksturlielums. POW ir ieteicamais pamats sākotnējām spēju izvēlēm, tāpēc tēlam ar augstāku POW būs vairāk spēju (vai vairāk līmeņu šajās spējās). Tēls, kura POW rādītājs sasniedz 0, ir zaudējis savu dvēseli un kļūst katatonisks bez jebkādas gribas vai dzīvības spēka.
+Visnenoteiktākais no raksturlielumiem, Vara pārstāv gribasspēku, maģisko piemērotību un garīgo attīstību. VAR ir būtisks vadībai, intuīcijai un maģijai. Veiksmes metiens (VAR×5) ir tā raksturlieluma metiens. VAR kalpo kā sākotnējo varas punktu un sākotnējo prāta veselības punktu noteicējs. Tāpat kā INT, cilvēka VAR nav noteikta maksimuma un var augt bezgalīgi. Maģiskas ietekmes var samazināt VAR (īslaicīgi vai pastāvīgi), un daļa maģijas tiek nodrošināta ar pastāvīgu VAR punktu upurēšanu. Spējām (skat. *Ceturtā nodaļa: Spējas*), VAR, iespējams, ir vissvarīgākais raksturlielums. VAR ir ieteicamais pamats sākotnējām spēju izvēlēm, tāpēc tēlam ar augstāku VAR būs vairāk spēju (vai augstāki līmeņi šajās spējās). Tēls, kura VAR rādītājs sasniedz 0, ir zaudējis savu dvēseli un kļūst katatonisks bez jebkādas gribas vai dzīves spēka.
 
-### Veiklība (DEX)
+### Veiklība (VEI)
 
-Veiklības rādītājs mēra līdzsvaru, ātrumu un veiklību. Tēli paļaujas uz DEX, reaģējot uz uzbrukumu, kāpjot, veicot smalku darbu vai pārvietojoties maskējoties. Veiklības metiens (DEX×5) ir tā raksturlieluma metiens. Traumas vai nervu slimības var samazināt DEX, savukārt stingri treniņi var paātrināt refleksus un uzlabot līdzsvaru. Tēls ar DEX 0 ir pilnīgi nekustīgs.
+Veiklības rādītājs mēra līdzsvaru, ātrumu un veiklību. Tēli paļaujas uz VEI, reaģējot uz uzbrukumu, kāpjot, veicot smalku darbu vai pārvietojoties slepus. Veiklības metiens (VEI×5) ir tā raksturlieluma metiens. Ievainojumi vai nervu slimības var samazināt VEI, kamēr stingra apmācība var paātrināt refleksus un uzlabot līdzsvaru. Tēls ar VEI 0 ir pilnīgi nekustīgs.
 
-### Harizma (CHA)
+### Harizma (HAR)
 
-Harizma nosaka, cik tīkams vai pievilcīgs tēls ir citiem, un balstās tikpat daudz uz klātbūtni, personību un uzvedību, cik uz vienkāršu fizisko izskatu. Šarma metiens (CHA×5) veido tā raksturlieluma metienu. Harizma tiek izmantota, lai mērītu pirmo iespaidu, un norāda, cik dedzīgi citi vēlēsies asociēties ar kādu, caur fizisko pievilcību vai pievilcīgu personību. Harizmu var palielināt ar fizisko kondicionēšanu, kosmētisko ķirurģiju vai rūpīgu kopšanu un etiķeti. To pat varētu nedaudz uzlabot ar īpaši iespaidīga aprīkojuma iegūšanu. To var arī samazināt ar traumu vai slimību. Tēls ar CHA 0 ir vai nu pilnīgi pretīgs, izraisot riebumu visos, kas viņus sastop, vai ir kļuvis tik nenozīmīgs, ka viņus gandrīz nepamana.
+Harizma nosaka, cik simpātisks vai pievilcīgs tēls ir citiem, un ir balstīta tikpat daudz uz klātbūtni, personību un uzvedību, cik uz vienkāršu fizisko izskatu. Šarma metiens (HAR×5) veido tā raksturlieluma metienu. Harizma tiek izmantota pirmā iespaida mērīšanai un norāda, cik dedzīgi citi vēlēsies saistīties ar kādu, caur fizisku pievilcību vai pievilcīgu personību. Harizmu var paaugstināt ar fizisku kondicionēšanu, kosmētisko ķirurģiju vai rūpīgu kopšanu un etiķeti. To varētu pat nedaudz uzlabot, iegūstot īpaši iespaidīgu aprīkojumu. To var arī samazināt ar ievainojumu vai slimību. Tēls ar HAR 0 ir vai nu pilnīgi pretīgs, izraisot riebumu visos, kas to sastop, vai arī kļuvis tik neizteiksmīgs, ka to tik tikko pamana.
 
 > ### Kultūras raksturlielumu modifikatori (opcija)
 > 
-> Dažas kultūras var saņemt modifikatorus pamatraksturlielumiem, piemēram, SIZ. Tas var būt potenciāli jutīga tēma. Jūsu spēles vadītājs tiek mudināts šādus bonusus piešķirt piesardzīgi un līdzsvarot pozitīvos bonusus ar negatīviem, vai arī izlīdzināt spēli, dodot visām kultūrām līdzvērtīgu bonusu, lai gan varbūt dažādiem raksturlielumiem. Tas kategoriski nav ieteicams sodīt INT, neatkarīgi no šķietamā pamatojuma. Nevienu spēlētāju nevajadzētu sodīt par konkrētas kultūras izvēli. Tāpat ieteicams to izmantot tikai tādām vidēm, kur šādas atšķirības ir vispārpieņemtas, piemēram, fantāzijas pasaulēs, kur asinslīnijas ir unikālas, vai zinātniskās fantastikas vidēs, kur cilvēce ir veidota ar ģenētisko manipulāciju un pielāgojusies galaktikas videi.
+> Dažas kultūras var saņemt modifikatorus pamata raksturlielumiem, piemēram, IZM. Šis var būt potenciāli jutīgs temats. Spēles vadītājs tiek mudināts piešķirt šādus bonusus ar piesardzību un līdzsvarot pozitīvos bonusus ar negatīvajiem, vai līdzsvarot spēli, dodot visām kultūrām ekvivalentu bonusu, lai gan varbūt dažādiem raksturlielumiem vai atribūtiem. Uzstājīgi nav ieteicams sodīt INT, neatkarīgi no šķietamā pamatojuma. Nevienu spēlētāju nedrīkst sodīt par konkrētas kultūras izvēli. Tiek arī ieteikts to izmantot tikai vidēs, kur šādas atšķirības ir vispārpieņemtas, piemēram, fantāzijas pasaulēs, kur asinslīnijas ir unikālas, vai zinātniskās fantastikas vidēs, kur cilvēce ir veidota ar ģenētisko manipulāciju un ir pielāgojusies galaktiskajai videi.
 
 ## Raksturlielumu metieni
 
-Daži izaicinājumi intuitīvi nesakrīt ar konkrētām prasmēm. Vai mednieks var visu nakti palikt nomodā slēpnī, gaidot savu medījumu? Vai norūdījies detektīvs var salikt kopā aizraujošus pavedienus, kas paslēpti pierādījumu atliekās? Šādās situācijās spēles vadītājs var pieprasīt raksturlieluma metienu: D100 metienu pret attiecīgo raksturlielumu, reizinātu ar citu skaitli. Spēles vadītājs izlemj, kuru reizinātāju izmantot, pamatojoties uz uzdevuma grūtību. Standarta raksturlielumu metieni izmanto reizinātāju ×5, lai gan ārkārtīgi grūti uzdevumi var prasīt reizinātāju ×2 vai pat balstīties uz pašu raksturlielumu kā procentiem. Sīkāku informāciju par uzdevumu grūtību un modifikatoru izvēli skatīt *Piektajā nodaļā: Sistēma*.
+Daži izaicinājumi intuitīvi nesakrīt ar konkrētām prasmēm. Vai mednieks var nomodā palikt slēpnī visu nakti, gaidot savu medījumu? Vai norūdījies detektīvs var salikt kopā aizraujošo pavedienu, kas paslēpts pierādījumu atliekās? Šādās situācijās spēles vadītājs var pieprasīt raksturlieluma metienu: D100 metienu pret atbilstošu raksturlielumu, reizinātu ar citu skaitli. Spēles vadītājs izlemj, kuru reizinātāju izmantot, pamatojoties uz uzdevuma grūtību. Standarta raksturlielumu metieni izmanto ×5 reizinātāju, lai gan ārkārtīgi grūti uzdevumi var prasīt ×2 reizinātāju vai pat tikt balstīti uz pašu raksturlielumu kā procentiem. Sīkāku informāciju par uzdevuma grūtību un modifikatoru izvēli skat. *Piektā nodaļa: Sistēma*.
 
-### Piepūles metiens (STR×5)
+### Pūļu metiens (SPĒ×5)
 
-Vairums spēka varoņdarbu ietver STR saskaņošanu pret paceltā objekta SIZ pretestības tabulā (skatīt *Piektajā nodaļā: Sistēma*). Gadījumos, kad SIZ rādītājs nav pieejams vai to ir grūti noteikt, izmantojiet piepūles metienu. Piepūles metienus var izmantot arī kā vienkāršu veidu, kā noteikt tādas lietas, piemēram, vai tēls var uzvilkt sevi uz dzegas. Vai viņi ir noguruši pēc garā pārgājiena beigām? Piepūles metiens ir ātrs veids, kā izlemt.
+Lielākā daļa spēka varoņdarbu ietver SPĒ salīdzināšanu pret paceltā objekta IZM uz pretestības tabulas (skat. *Piektā nodaļa: Sistēma*). Gadījumos, kad IZM vērtība nav pieejama vai to ir grūti noteikt, izmanto Pūļu metienu. Pūļu metienus var izmantot arī kā vienkāršu veidu, kā noteikt tādas lietas kā, vai tēls var uzvilkt sevi uz dzegas. Vai viņi ir noguruši gara pārgājiena beigās? Pūļu metiens ir ātrs veids, kā izlemt.
 
-### Izturības metiens (CON×5)
+### Izturības metiens (IZT×5)
 
-Pamatojoties uz CON, izturības metieni mēra izturību. Izmantojiet izturības metienu ikreiz, kad rodas jautājums par fizisko vai morālo izturību. Minot dažus piemērus, izturības metiens var noteikt, vai tēls var palikt nomodā visu nakti vai izturēt jūras slimību, slikti sagatavotu pārtiku vai stipru dzērienu bez sliktiem efektiem.
+Balstoties uz IZT, Izturības metieni mēra izturību. Izmanto Izturības metienu ikreiz, kad uz spēles ir fiziskā vai iekšējā izturība. Lai uzskaitītu dažus piemērus, Izturības metiens var noteikt, vai tēls var palikt nomodā visu nakti, vai izturēt jūras slimību, slikti pagatavotu ēdienu vai stipru dzērienu bez negatīvām sekām.
 
 ### Idejas metiens (INT×5)
 
-Idejas metiens pārstāv spēju veikt gudrus minējumus, informētus nojautienus vai saprātīgus secinājumus, balstoties uz novērojumiem un tīru intelektu. Kad neviena prasme nešķiet piemērota, idejas metiens var parādīt koncepcijas izpratni vai spēju atrisināt mīklu. Atmiņa arī ir daļa no idejas metiena: izmantojiet idejas metienu, lai atcerētos svarīgu detaļu, izsekotu soļus cauri labirintam vai iegaumētu garu formulu.
+Idejas metiens atspoguļo spēju izdarīt gudrus minējumus, pamatotas nojautas vai saprātīgus secinājumus, pamatojoties tikai uz novērojumu un tīru intelektu. Kad neviena prasme nešķiet piemērota, Idejas metiens var parādīt koncepta izpratni vai spēju atrisināt mīklu. Atmiņa arī ir daļa no Idejas metiena: izmanto Idejas metienu, lai atcerētos svarīgu detaļu, izsekotu soļus cauri labirintam vai iegaumētu garu formulu.
 
-Jūsu spēles vadītājs var arī atļaut idejas metienu, ja esat iestrēguši, atgriežot jūs uz ceļa, atklājot jau atklāta pavediena slēpto nozīmi vai ļaujot viņiem zināt, ka kaut kas "nešķiet īsti pareizi" par konkrētu personu, vietu vai lietu. Šāda veida idejas metiens būtu piešķirams tikai pēc spēles vadītāja ieskatiem, un spēlētāji to parasti nepieprasa.
+Spēles vadītājs var arī atļaut Idejas metienu, ja esi apstājies, atgriežot tevi uz pareizā ceļa, atklājot jau atklāta pavediena slēpto nozīmi vai ļaujot zināt, ka kaut kas “nešķiet īsti pareizi” attiecībā uz konkrētu personu, vietu vai lietu. Šāda veida Idejas metiens jāpiešķir tikai pēc spēles vadītāja ieskatiem, un spēlētāji to parasti nepieprasa.
 
-Jūsu spēles vadītājs var arī pieprasīt idejas metienu, ja vēlaties, lai jūsu tēls domātu vai uzvestos tādā veidā, kas pārstāv spēlētāja zināšanas pret tēla zināšanām. Ja tēls ir primitīvs mednieks, kurš sastopas ar modernām tehnoloģijām, piemēram, spēles vadītājs var pieprasīt idejas metienu, lai viņi spētu aptvert priekšmeta pamatkoncepcijas, pat ja spēlētājs automātiski zina, kas tas ir, balstoties uz tā aprakstu.
+Spēles vadītājs var arī pieprasīt Idejas metienu, ja vēlies, lai tavs tēls domā vai uzvedas veidā, kas pārstāv spēlētāja zināšanas pret tēla zināšanām. Ja tēls ir primitīvs mednieks, kas saskaras ar modernām tehnoloģijām, piemēram, spēles vadītājs var pieprasīt Idejas metienu, lai viņš varētu aptvert priekšmeta pamatjēdzienus, pat ja spēlētājs automātiski zina, kas tas ir, pamatojoties uz tā aprakstu.
 
-### Veiksmes metiens (POW×5)
+### Veiksmes metiens (VAR×5)
 
-Veiksme ir prasme būt īstajā vietā īstajā laikā, lietām notiekot par spīti cerībām, vai neparasta spēja izvairīties no nejaušas nelaimes bez skrambām. Vai jūsu tēlam nejauši ir līdzi tieši tas īpašais aprīkojuma gabals? Vai draudzīgs garāmgājējs sniegs palīdzīgu roku, ja viņi ir iestrēguši ceļa malā? Vai briesmīgā radība uzbrūk tēlam vai tuvumā esošam nespēlētāju tēlam? Vai tēls iekrīt cauri vājai grīdai vai aizķeras ar drēbēm aiz skabargaina dēļa un izvairās no kritiena līdz nāvei? Veiksmes metienus var izmantot, lai atbildētu uz visiem šiem jautājumiem. Veiksmīgi veiksmes metieni var radīt veiksmīgas sakritības normālos apstākļos vai izglābt kādu no noteiktas bojāejas ārkārtas situācijā.
+Veiksme ir prasme būt īstajā vietā īstajā laikā, panākt, ka lietas izstrādājas par spīti gaidām, vai neparastā spēja izkļūt cauri nejaušām briesmām bez skrambām. Vai tavam tēlam nejauši ir līdzi tas viens īpašais priekšmets vai aprīkojums? Vai draudzīgs garāmgājējs palīdzēs, ja viņi ir iestrēguši ceļa malā? Vai baisā būtne uzbrūk tēlam vai blakus esošam nespēlētāju tēlam? Vai tēls izkrīt cauri vājai grīdai, vai aizķer savu apģērbu aiz skabargaina dēļa un izbēg no krišanas nāvē? Veiksmes metienus var izmantot, lai atbildētu uz visiem šiem jautājumiem. Veiksmīgi Veiksmes metieni var radīt laimīgas sakritības parastos apstākļos vai izglābt kādu no drošas bojāejas ārkārtas situācijā.
 
-### Veiklības metiens (DEX×5)
+### Veiklības metiens (VEI×5)
 
-Ikreiz, kad tiek pieprasīts veiklības, līdzsvara vai manevrētspējas varoņdarbs un neeksistē piemērota prasme, izmantojiet veiklības metienu, lai mērītu panākumus. Veiklības metiens, piemēram, var noteikt, vai tēls var saglabāt līdzsvaru uz kuģa klāja, steigā savākt visas salauztas vāzes daļas, skriet, nesot dārgu eliksīru, neizlejot nevienu pilienu, vai saķert vīteņaugu klints malā pirms nokrišanas.
+Ik reizi, kad tiek pieprasīts veiklības, līdzsvara vai veiklības varoņdarbs un nav piemērotas prasmes, izmanto Veiklības metienu, lai izmērītu panākumus. Veiklības metiens var, piemēram, noteikt, vai tēls var saglabāt līdzsvaru uz šūpojoša kuģa klāja, steigā savākt visas salūzušas vāzes daļas, skriet, nesot dārgu eliksīru bez izliešanas, vai satvert vīteņaugu pie klints malas pirms nokrišanas.
 
-### Šarma metiens (CHA×5)
+### Šarma metiens (HAR×5)
 
-Izmantojiet šarma metienus, lai vērtētu starppersonu reakcijas, kuras neaptver esoša prasme. Labas pirmā iespaida radīšana, paziņas savaldzināšana vai kļūšana par personu, pie kuras grupa pirmām kārtām vēršas pēc padoma, ir visi labi Šarma metiena pielietojumi. Ja tēls stāv ārpus modernā naktskluba, vēloties tikt ielaists, veiksmīgs Šarma metiens panāks, ka viņus pamana un ielaiž pa durvīm.
+Izmanto Šarma metienus, lai izšķirtu starp-personu reakcijas, ko neaptver esošā prasme. Labā pirmā iespaida radīšana, paziņas pavedināšana vai kļūšana par personu, pie kuras grupa vispirms vēršas pēc vadības, ir visi labi Šarma metiena pielietojumi. Ja tēls stāv ārpus trendīga naktskluba, vēloties tikt iekšā, veiksmīgs Šarma metiens liks viņu pamanīt un pamāt cauri durvīm.
 
 > ### Izglītības raksturlielums (opcija)
 > 
-> Septiņi galvenie raksturlielumi kalpo vairumam spēļu, neatkarīgi no vides, bet izglītība (EDU), fakultatīvs astotais raksturlielums, var tikt izmantota, lai palīdzētu ģenerēt sākuma prasmju punktus. EDU vislabāk darbojas mūsdienu vai futūristiskās vidēs, bet to var viegli pielāgot jebkurai kampaņas videi.
+> Septiņi galvenie raksturlielumi kalpo vairumam spēļu, neatkarīgi no vides, bet Izglītība (IZG), izvēles astotais raksturlielums, var tikt izmantota, lai palīdzētu ģenerēt sākotnējos prasmju punktus. IZG vislabāk darbojas mūsdienu vai futūristiskās vidēs, bet var tikt viegli pielāgota jebkurai kampaņas videi.
 > 
-> #### Izglītība (EDU)
+> #### Izglītība (IZG)
 > 
-> Izglītība mēra tēla vispārējo zināšanu tvērumu, kas iegūts caur noapaļotu izglītības sistēmu vai kādu citu plašu mācību metodi. Tas nav aizstājējs specifiskām zināšanām par jomu — tā vietā tas pārstāv vispārējās zināšanas par pasauli. Neatkarīgi no tā, vai iegūta caur formālām studijām, treniņiem vai smagi izcīnītu pieredzi, EDU var arī mērīt, cik gadus tēls ir trenējies vai mācījies, lai sasniegtu savu pašreizējo zināšanu līmeni.
+> Izglītība mēra tēla vispārējo zināšanu izpratni, kas iegūta caur vispusīgu izglītības sistēmu vai citu plašu mācību metodi. Tas nav aizstājējs konkrētām zināšanām par jomu — tā vietā tas pārstāv vispārējās pasaules zināšanas. Neatkarīgi no tā, vai iegūta caur formālām studijām, apmācību vai grūti iegūtu pieredzi, IZG var arī mērīt, cik gadus tēls ir trenējies vai studējis, lai sasniegtu savu pašreizējo zināšanu līmeni.
 > 
-> EDU automātiski nekorelē ar 1 EDU punkts = 1 gads skolā. Tas var arī pārstāvēt vispārējās dzīves zināšanas, kā arī mērķtiecīgas studijas. Ne visi skolas gadi ir izglītojoši, tieši tāpat kā viss ārpus skolas pavadītais laiks nenozīmē, ka nekas netiek iemācīts. EDU var viegli pielāgot vairumam vides — tā nozīme ir acīmredzama vidēs ar standartizētām izglītības sistēmām. Viduslaiku vidē tas varētu pārstāvēt privātstundas vai studijas kolēģijos, licejos vai klosteros, vai plašus ceļojumus pa eksotiskiem tirdzniecības ceļiem un uz ārzemju ostām.
+> IZG automātiski nekorelē ar 1 IZG punkts = 1 gads skolā. Tas var arī pārstāvēt vispārējās dzīves zināšanas, kā arī mērķtiecīgas studijas. Ne visi skolas gadi ir izglītojoši, tāpat kā viss laiks, kas pavadīts ārpus skolas, nenozīmē, ka nekas netiek apgūts. IZG var viegli pielāgot vairumam vidu — tās nozīme ir acīmredzama vidēs ar standartizētām izglītības sistēmām. Viduslaiku vidē tas varētu pārstāvēt privātstundas vai studijas kolēģijās, licejos vai klosteros, vai plašus ceļojumus pa eksotiskiem tirdzniecības ceļiem un uz ārvalstu ostām.
 > 
-> Atmiņas zudums var samazināt EDU, kamēr studiju gads vai intensīvi treniņi palielina to par +1. EDU 0 norāda uz zināšanu tukšumu par ārpasauli, lai gan tas nenozīmē, ka visi ir gandrīz amnēzijas slimnieki kampaņās, kur šis raksturlielums netiek izmantots. EDU neattiecas uz dzīvniekiem vai radībām bez EDU raksturlieluma — viņu zināšanas ir vai nu instinktīvas, vai balstās uz atšķirīgiem priekšrakstiem.
+> Atmiņas zudums var samazināt IZG, kamēr studiju vai intensīvas apmācības gads to palielina par +1. IZG 0 norāda uz zināšanu trūkumu par ārpasauli, lai gan tas nenozīmē, ka visi ir gandrīz amnēzijas slimnieki kampaņās, kur šis raksturlielums netiek izmantots. IZG neattiecas uz dzīvniekiem vai būtnēm bez IZG raksturlieluma — to zināšanas ir vai nu instinktīvas, vai balstītas uz dažādiem priekšrakstiem.
 > 
-> EDU izmantošana būtu jāpārī ar Zināšanu metienu (EDU×5).
+> IZG izmantošana būtu jāsavieno arī ar Zināšanu metienu (IZG×5).
 > 
-> ### Zināšanu metiens (EDU×5) (opcija)
+> ### Zināšanu metiens (IZG×5) (opcija)
 > 
-> Zināšanu metiens aptver faktus un niekus, ko vidusmēra cilvēks zina kā "vispārējās zināšanas". Zināšanu metienus var izmantot, lai atcerētos dažāda veida faktus, atkarībā no vides un pat konkrētā tēla kultūras. Viduslaiku zemnieks varētu izmantot Zināšanu metienu, lai atcerētos cēla kunga vārdu vai svēto dzīves detaļas, kamēr mūsdienu ASV pilsonis atcerētos svarīgus prezidentus vai atcerētos, kas notiek, ja sajauc balinātāju un amonjaku. Zināšanu metieniem reti vajadzētu aizstāt specializētākas zināšanu prasmes, un tie stingri nodarbojas ar faktiem. Šo faktu laba izmantošana ir INT funkcija.
+> Zināšanu metiens aptver faktus un niekus, ko vidusmēra cilvēks zina kā “vispārējās zināšanas.” Zināšanu metienus var izmantot, lai atcerētos dažāda veida faktus, atkarībā no vides un pat konkrētā tēla kultūras. Viduslaiku zemnieks var izmantot Zināšanu metienu, lai atcerētos augstmaņa vārdu vai detaļas par svēto dzīvi, kamēr mūsdienu ASV pilsonis atcerētos svarīgus prezidentus vai atcerētos, kas notiek, ja sajauc balinātāju un amonjaku. Zināšanu metieni reti aizstāj specializētāku Zināšanu prasmi un nodarbojas tikai ar faktiem. Šo faktu laba izmantošana ir INT funkcija.
 
 ## Atvasinātie raksturlielumi
 
-Papildus raksturlielumiem (un to pavadošajiem raksturlielumu metieniem) tēlu definē arī atvasināto raksturlielumu kopums, kas izrēķināts no viņu raksturlielumiem. Ja traumas, maģija vai citi faktori palielina vai samazina raksturlielumu, visi no tā atvasinātie raksturlielumi nekavējoties mainās, lai atspoguļotu jauno vērtību.
+Papildus raksturlielumiem (un to pavadošajiem raksturlielumu metieniem), tēlu definē arī atvasināto raksturlielumu kopums, kas aprēķināts no to raksturlielumiem. Ja ievainojumi, maģija vai citi faktori palielina vai samazina raksturlielumu, visi raksturlielumi, kas atvasināti no šī raksturlieluma, nekavējoties mainās, lai atspoguļotu jauno vērtību.
 
-Piemēram, *jūsu tēls (CON 16, SIZ 14, HP 15) kļūst par nāvējošas indes upuri, kas samazina viņu CON vērtību līdz 10. Jūsu tēla maksimālie trāpījuma punkti nekavējoties krītas no 15 (16+14=30, dalīts uz 15) līdz 12 (10+14=24, dalīts uz 12). Turklāt viņu smaga ievainojuma kopsumma krītas no 8 līdz 6. Ja ievainojumi jau bija nogādājuši jūsu tēlu zem 12 trāpījuma punktiem, viņi nesaņemtu nekādus papildu bojājumus, bet viņi ir ierobežoti līdz 12 trāpījuma punktu maksimumam, līdz tiek atjaunots viņu sākotnējais CON.*
+Piemēram, *tavs tēls (IZT 16, IZM 14, SP 15) kļūst par upuri nāvējošai indei, kas samazina tā IZT vērtību līdz 10. Tava tēla maksimālie sitienpunkti nekavējoties nokrītas no 15 (16+14=30, dalīts uz 15) līdz 12 (10+14=24, dalīts uz 12). Turklāt tā smagā ievainojuma kopsumma nokrītas no 8 uz 6. Ja brūces jau būtu novedušas tavu tēlu zemāk par 12 sitienpunktiem, tas neciestu nekādus papildu bojājumus, bet tas ir ierobežots līdz 12 sitienpunktu maksimumam, līdz sākotnējā IZT tiek atjaunota.*
 
-### Bojājumu modifikators (STR+SIZ, skatīt tabulu)
+### Bojājumu modifikators (SPĒ+IZM, skat. tabulu)
 
-Lielāki, spēcīgāki tēli un radības ir jaudīgāki fiziskajā kaujā, ar katru sitienu nodarot vairāk bojājumu nekā vidēji. Mazākas, vājākas būtnes ar saviem uzbrukumiem nodara mazāk bojājumu. Bojājumu modifikators atspoguļo šo priekšrocību, izteiktu bojājumu kauliņu izteiksmē, ko pieskaita vai atņem no veiksmīgu uzbrukumu bojājumiem.
+Lielāki, spēcīgāki tēli un būtnes ir varenāki fiziskajā kaujā, nodarot vairāk bojājumu nekā vidēji ar katru sitienu. Mazākas, vājākas būtnes nodara mazāk bojājumu ar saviem uzbrukumiem. Bojājumu modifikators atspoguļo šo priekšrocību, izteiktu bojājumu kauliņu veidā, kas pievienoti vai atņemti no veiksmīgu uzbrukumu bojājumiem.
 
-Tēls pieskaita savu pilno bojājumu modifikatoru visiem trāpījumiem ar kautiņu vai tuvcīņas ieročiem. Negatīva bojājumu modifikatora gadījumā atņemiet atbilstošos kauliņus no jebkuriem nodarītajiem bojājumiem. Ja kopsumma ir 0 vai mazāk, sitiens ir pārāk vājš, lai nodarītu jebkādu kaitējumu. Uzbrukums nekad nedara negatīvus bojājumus, tāpēc, ja modifikators nokrītas zem 0, skaitiet to kā 0.
+Tēls pieskaita savu pilno bojājumu modifikatoru visiem sitieniem ar kautiņu vai tuvcīņas ieročiem. Negatīva bojājumu modifikatora gadījumā atņem atbilstošos kauliņus no jebkuriem nodarītajiem bojājumiem. Ja kopsumma ir 0 vai mazāk, sitiens ir pārāk vājš, lai nodarītu jebkādu kaitējumu. Uzbrukums nekad nedara negatīvus bojājumus, tāpēc, ja modifikators nokrītas zem 0, skaiti to kā 0.
 
-Raķešieroči neļauj tēlam izmantot savu pilno bojājumu modifikatoru. Ja jūsu tēla bojājumu modifikators ir pozitīvs, daliet rezultātus uz pusēm (noapaļojot uz augšu), izmantojot mestu ieroci vai loku. Ja bojājumu modifikators ir negatīvs, saglabājiet modifikatoru tādu, kāds tas ir. Pašpiedziņas ieroči (šaujamieroči, enerģijas raķešieroči utt.) nesaņem bojājumu modifikatoru.
+Šāviņu ieroči neļauj tēlam izmantot pilnu bojājumu modifikatoru. Ja tava tēla bojājumu modifikators ir pozitīvs, dali rezultātus uz pusēm (noapaļojot uz augšu), lietojot mestu ieroci vai loku. Ja bojājumu modifikators ir negatīvs, saglabā modifikatoru tādu, kāds tas ir. Pašpiedziņas ieroči (šaujamieroči, enerģijas šāviņu ieroči utt.) nesaņem bojājumu modifikatoru.
 
-Lai aprēķinātu bojājumu modifikatoru, pieskaitiet tēla STR un SIZ, un atrodiet rezultātu **Bojājumu modifikatora tabulā** (turpmāk).
+Lai aprēķinātu bojājumu modifikatoru, saskaiti tēla SPĒ un IZM, un atrodi rezultātu **Bojājumu modifikatora tabulā** (tālāk).
 
 ##### Bojājumu modifikators
 
-| STR+SIZ | Bojājumu modifikators | STR+SIZ | Bojājumu modifikators |
+| SPĒ+IZM | Bojājumu modifikators | SPĒ+IZM | Bojājumu modifikators |
 | :---- | :---- | :---- | :---- |
 | 2–12 | –1D6 | 73–88 | +4D6 |
 | 13–16 | –1D4 | 89–104 | +5D6 |
@@ -395,123 +405,121 @@ Lai aprēķinātu bojājumu modifikatoru, pieskaitiet tēla STR un SIZ, un atrod
 
 ### Pieredzes bonuss (1/2 INT)
 
-Jo gudrāks ir tēls, jo ātrāk viņi var mācīties, īpaši stresa apstākļos. Lai noteiktu savu pieredzes bonusu, daliet savu INT ar 2, noapaļojot uz augšu. Pievienojiet pieredzes bonusu mācību metienam katram pieredzes pārbaudes metienam, ko jūsu tēls veic, lai uzlabotu prasmi vai raksturlielumu. Konsultējieties ar *Piektās nodaļas: Sistēma* un Prasmju uzlabošanu.
+Jo gudrāks ir tēls, jo ātrāk tas var mācīties, īpaši stresa apstākļos. Lai noteiktu pieredzes bonusu, dali tā INT ar 2, noapaļojot uz augšu. Pievieno pieredzes bonusu mācību metienam katrai pieredzes pārbaudei, ko tēls veic, lai uzlabotu prasmi vai raksturlielumu. Konsultējies ar *Piektā nodaļa: Sistēma un prasmju uzlabošana*.
 
-### Trāpījuma punkti (Vidējais no CON un SIZ)
+### Sitienpunkti (IZT un IZM vidējais)
 
-Trāpījuma punkti pārstāv jūsu tēla spēju izturēt sodu un fiziskas traumas. Kad saņemat bojājumus, atņemiet trāpījuma punktus no pašreizējās kopsummas. Aprēķiniet maksimālos trāpījuma punktus, pieskaitot sava tēla CON un SIZ rādītājus, pēc tam daliet kopsummu ar 2. Noapaļojiet visus skaitļus uz augšu.
+Sitienpunkti atspoguļo tēla spēju izturēt sodu un fiziskus ievainojumus. Saņemot bojājumus, atņem sitienpunktus no pašreizējās kopsummas. Aprēķini maksimālos sitienpunktus, saskaitot tēla IZT un IZM rādītājus, tad dali kopsummu ar 2. Visas daļas noapaļo uz augšu.
 
-Jūsu tēls zaudē samaņu, kad viņu trāpījuma punkti tiek samazināti līdz 2 vai mazāk, un, ja viņu trāpījuma punkti sasniedz 0, viņi mirst nākamā raunda beigās. Tēls var zaudēt vairāk trāpījuma punktu, nekā jums ir, tāpēc sekojiet līdzi jebkurai negatīvai vērtībai. Zaudētie trāpījuma punkti dziedē dabiski ar ātrumu 1D3 punkti spēles nedēļā, lai gan medicīniskā palīdzība var paātrināt atveseļošanos. Skatīt Bojājumi un dziedēšana un Dabiska dziedēšana.
+Tēls zaudē samaņu, kad tā sitienpunkti nokrītas līdz 2 vai mazāk, un, ja sitienpunkti sasniedz 0, tas mirst nākamā raunda beigās. Tēls var zaudēt vairāk sitienpunktu nekā tev ir, tāpēc seko līdzi jebkurai negatīvai vērtībai. Zaudētie sitienpunkti dzīst dabiski ar ātrumu 1D3 punkti spēles nedēļā, lai gan medicīniskā palīdzība var paātrināt atveseļošanos. Skat. Bojājumi un dziedēšana un Dabiska dziedēšana.
 
-### Smagi ievainojumi (1/2 no HP)
+### Smagi ievainojumi (1/2 no SP)
 
-Daliet sava tēla trāpījuma punktu kopsummu uz pusēm, noapaļojot uz augšu, ja nepieciešams. Šī kopsumma ir viņu smaga ievainojuma līmenis. Ja jūsu tēls saņem šādu bojājumu daudzumu no viena ievainojuma, viņi var ciest no briesmīgām blakusparādībām, kā arī vienkārša trāpījuma punktu zaudējuma. Skatīt Smagi ievainojumi *Sestajā nodaļā: Kauja*.
+Dali tēla sitienpunktu kopsummu uz pusēm, ja nepieciešams, noapaļojot uz augšu. Šī kopsumma ir smago ievainojumu līmenis. Ja tēls saņem šādu bojājumu daudzumu no viena ievainojuma, tas var ciest šausminošas blakusparādības, kā arī vienkāršu sitienpunktu zaudējumu. Skat. Smagi ievainojumi *Sestā nodaļa: Kauja*.
 
-### Spējas punkti (Maks = POW)
+### Varas punkti (Maks. = VAR)
 
-Spējas punkti (PP) pārstāv jūsu tēla dzīvības esenci, viņu garīgās vai dzīvības enerģijas rezerves. Jūsu tēls tērē spējas punktus, lai izsauktu vai pretotos burvestībām. Jūsu tēla maksimālie spējas punkti parasti ir vienādi ar viņu POW raksturlielumu. Vispārīgi, iztērētie spējas punkti atjaunojas ar ātrumu 1 stundā miega vai pilnīgas atpūtas laikā, vai 1 uz katrām divām stundām normālas aktivitātes. Skatīt **Spējas punktu atjaunošanās ātruma** tabulu likmēm augstākiem POW rādītājiem. Ja jūsu tēls ir iesaistīts smagās aktivitātēs, viņi nevar atgūt spējas punktus. Kad jūsu tēla spējas punktu kopsumma nokrītas līdz 0, viņi ir pilnīgi izsmelti un noģībst, līdz atgūst vismaz 1 spējas punktu. Nav iespējams iegūt negatīvus spējas punktus.
+Varas punkti (VP) atspoguļo tēla vitālo esenci, tā garīgās vai dzīvības enerģijas rezerves. Tēls tērē varas punktus, lai burvju burvestības vai pretotos tām. Tēla maksimālie varas punkti parasti ir vienādi ar tā VAR raksturlielumu. Parasti iztērētie varas punkti atjaunojas ar ātrumu 1 stundā miega vai pilnīgas atpūtas, vai 1 ik pēc divām stundām normālas aktivitātes. Skat. **Varas punktu atjaunošanās ātruma** tabulu likmēm augstākiem VAR rādītājiem. Ja tēls ir iesaistīts smagā aktivitātē, tas nevar atgūt varas punktus. Kad tēla varas punktu kopsumma nokrītas līdz 0, tas ir pilnīgi izsmelts un ģībst, līdz atgūst vismaz 1 varas punktu. Nav iespējams iegūt negatīvus varas punktus.
 
-##### Spējas punktu atjaunošanās ātrums
+##### Varas punktu atjaunošanās ātrums
 
-| Maks PP | Guļot | Nomodā |
+| Maks. VP | Guļ | Nomodā |
 | :---- | :---- | :---- |
-| 1–24 | 1 stundā | 1 uz 2 stundām |
+| 1–24 | 1 stundā | 1 ik pēc 2 stundām |
 | 25–48 | 2 stundā | 1 stundā |
-| 49–72 | 3 stundā | 1 uz 40 minūtēm |
-| 73–96 | 4 stundā | 1 uz 30 minūtēm |
-| 97+ | +1 stundā pie augstākā | +1 stundā pie augstākā |
+| 49–72 | 3 stundā | 1 ik pēc 40 minūtēm |
+| 73–96 | 4 stundā | 1 ik pēc 30 minūtēm |
+| 97+ | +1 stundā pie iepriekšējā | +1 stundā pie iepriekšējā |
 
-Atšķirībā no trāpījuma punktiem vai noguruma punktiem, spējas punkti var īslaicīgi pacelties virs maksimuma noteiktos apstākļos. Kā minēts, ja jūsu tēls saņem papildu spējas punktus (parasti izmantojot spēju), viņi var uzglabāt līdz pat divreiz vairāk nekā viņu POW raksturlielums papildu spējas punktos. Visi spējas punkti virs tā tiek zaudēti. Ja jūsu tēls izmanto jebkurus spējas punktus, atrodoties virs sava normālā maksimuma, tiem vispirms ir jābūt no papildu spējas punktiem. Šie papildu spējas punkti netiek atjaunoti un neatjaunojas kā parasti, un pilnībā izkliedējas pēc miega nakts vai piemērota punkta, ko noteicis jūsu spēles vadītājs.
+Atšķirībā no sitienpunktiem vai noguruma punktiem, varas punkti var īslaicīgi kāpt virs maksimuma noteiktos apstākļos. Kā norādīts, ja tēls saņem papildu varas punktus (parasti spējas izmantošanas gaitā), tas var uzglabāt līdz divkāršam savam VAR raksturlielumam papildu varas punktos. Visi varas punkti virs tā tiek zaudēti. Ja tēls izmanto jebkādus varas punktus, esot virs sava normālā maksimuma, tiem pirmām kārtām jānāk no papildu varas punktiem. Šie papildu varas punkti netiek atjaunoti un nereģenerējas kā parasti, un pilnībā izkliedējas pēc nakts miega vai atbilstoša spēles vadītāja noteikta brīža.
 
-Priekšmeti, kas uzglabā spējas punktus un ļauj lietotājam izmantot uzglabātos spējas punktus, netiek skaitīti pret šo kopsummu, kamēr spējas punkti netiek uzglabāti lietotāja paša spējas punktu rezervē. Vairumā gadījumu spējas punkti tiek izmantoti tieši no priekšmeta rezerves un neietekmē lietotāja paša spējas punktus. Skatīt *Astoto nodaļu: Aprīkojums* vairāk par priekšmetiem ar spējas punktu rezervuāriem.
+Priekšmeti, kas uzglabā varas punktus un ļauj lietotājam izmantot uzglabātos varas punktus, neskaita pret šo kopsummu, kamēr varas punkti netiek uzglabāti lietotāja paša varas punktu rezervē. Vairumā gadījumu varas punkti tiek izmantoti tieši no priekšmeta rezerves un neietekmē lietotāja paša varas punktus. Skat. *Astotā nodaļa: Aprīkojums* par vairāk informācijas par priekšmetiem ar varas punktu rezervuāriem.
 
 ### Kustība (MOV)
 
-Visi cilvēki un humanoīdu tēli sāk ar kustības (MOV) atribūtu 10. Tas mēra, cik lielu distanci jūsu tēls var veikt kaujas raundā. Vienība ir elastīga distance, un var svārstīties no 1–5 metriem, atkarībā no tā, cik ātri jūsu tēls pārvietojas.
+Visi cilvēku un humanoīdu tēli sāk ar kustības (MOV) atribūtu 10. Tas mēra, kādu attālumu tēls var veikt kaujas raundā. Vienība ir elastīgs attālums un var svārstīties no 1–5 metriem, atkarībā no tā, cik ātri tēls pārvietojas.
 
-* Soļošana ir 1 metrs uz MOV.
-* Skriešana ir līdz 5 metriem uz MOV.
-* Vidējais kustības ātrums kaujā ir 3 metri (jardi) uz vienību, kas nozīmē, ka vidēji jūsu tēls pārvietojas 30 metrus kaujas raundā.
+* Soļošana ir 1 metrs uz katru MOV.
 
-Kustības ātrumi ir aprakstīti tālāk **Kustības ātrumos** *Piektajā nodaļā: Sistēma*.
+* Skriešana ir līdz 5 metriem uz katru MOV.
 
-> ### Citi spējas punktu veidi (opcija)
-> 
-> Sakarā ar spēju daudzveidību *Ceturtajā nodaļā: Spējas*, "spējas punkti" tiek izmantoti citu nosaukumu, piemēram, "īslaicīga spēka" vai "maģijas punktu" vietā. Ja vēlaties, jūsu spēles vadītājs var mainīt nosaukumu uz "enerģijas punktiem" vai "maģijas punktiem" vai jebko, kas ir piemērots videi. Ja tiek izmantotas sistēmas, kas nav maģija vai burvība, ieteicams tos saukt par spējas punktiem, lai izvairītos no neskaidrībām. Nav ieteicams vienā spēlē izmantot divus dažādus nosaukumus spējas punktiem.
+* Vidējais kustības ātrums kaujā ir 3 metri (jardi) uz vienību, kas nozīmē, ka vidēji tēls pārvietojas par 30 metriem kaujas raundā.
 
-> ### Kopējie trāpījuma punkti (opcija)
-> 
-> Izturīgākiem spēlētāju tēliem, kas spēj pārdzīvot daudz vairāk bojājumu, izmantojiet CON+SIZ, lai noteiktu trāpījuma punktus, nedalot uz 2. Tas rezultējas ar tēliem, kuri var labi tikt galā kaujā, uzņemt traumas bez lielām neērtībām, un padara smagus ievainojumus daudz retākus. Traumas, ko rada īpaši un kritiski panākumi, ir daudz mazāk ticamas, lai tēlus uzreiz nogalinātu. Šo fakultatīvo sistēmu var viegli izmantot ar sistēmu trāpījuma punktiem pa atrašanās vietām, palielinot iespējas, ka tēliem saglabāsies ekstremitātes, un otrādi.
-> 
-> Lai novilktu būtisku atšķirību starp spēlētāju tēliem un vājākiem "lielgabalu gaļas" nespēlētāju tēliem, jūsu spēles vadītājs varētu noteikt, ka tikai spēlētāju tēli un svarīgi nespēlētāju tēli izmanto trāpījuma punktus, kas vienādi ar CON+SIZ, visiem citiem nespēlētāju tēliem trāpījuma punkti ir balstīti uz (CON+SIZ)/2. Tas sniedz būtisku priekšrocību spēlētāju tēliem un ļauj viņiem pārdzīvot vairāk nekā dažus pamatīgus ievainojumus. Tas arī ļauj spēlētāju tēliem stāties pretī lielam skaitam nespēlētāju tēlu bez būtiskām bailēm tikt nogalinātiem ar vienu kritisku sitienu.
+Kustības ātrumi ir tālāk aprakstīti **Kustības ātrumos** *Piektajā nodaļā: Sistēma*.
 
-> ### Trāpījuma punkti pa trāpījuma vietām (opcija)
+> ### Citi varas punktu veidi (opcija)
 > 
-> Detalizētākai kaujai trāpījuma punkti tiek sadalīti starp jūsu tēla ķermeņa daļām. Ja uzbrukums ir veiksmīgs, D20 metiens nosaka, kur sitiens trāpa. Ja izmantojat fakultatīvo trāpījuma vietu sistēmu (skatīt **Trāpījuma vietas**), jūsu tēla trāpījuma punkti tiek sadalīti starp dažādām viņu trāpījuma vietām. Izmantojiet šādu formulu humanoīdiem, noapaļojot uz augšu katrai vietai:
+> Sakarā ar spēju daudzveidību *Ceturtajā nodaļā: Spējas*, “varas punkti” tiek izmantoti citu nosaukumu, piemēram, “īslaicīga jauda” vai “maģijas punkti” vietā. Ja vēlas, spēles vadītājs var mainīt nosaukumu uz “enerģijas punktiem” vai “maģijas punktiem” vai jebko citu, kas ir piemērots videi. Ja tiek izmantotas citas sistēmas, nevis maģija vai burvestības, ieteicams tos saglabāt sauktus par varas punktiem, lai izvairītos no neskaidrībām. Ieteicams vienā spēlē neizmantot divus dažādus nosaukumus varas punktiem.
+
+> ### Kopējie sitienpunkti (opcija)
 > 
-> | Atrašanās vieta | Trāpījuma punkta vērtība |
+> Izturīgākiem spēlētāju tēliem, kas spēj izturēt daudz lielākus bojājumus, izmanto IZT+IZM, lai noteiktu sitienpunktus, nedalot ar 2. Tas rezultējas ar tēliem, kas var labi tikt galā kaujā, saņemt ievainojumus bez liela diskomforta un padara smagus ievainojumus daudz retākus. Īpašu un kritisku panākumu izraisīti ievainojumi daudz mazāk ticami tieši nogalinās tēlus. Šo izvēles sistēmu var viegli izmantot ar sitienpunktu sistēmu pa ķermeņa daļām, palielinot izredzes, ka tēli saglabās savas ekstremitātes, un otrādi.
+> 
+> Lai novilktu būtisku atšķirību starp spēlētāju tēliem un vājākiem “lielgabalu gaļas” nespēlētāju tēliem, spēles vadītājs var likt tikai spēlētāju tēliem un svarīgiem nespēlētāju tēliem izmantot sitienpunktus, kas vienādi ar IZT+IZM, ar visiem citiem nespēlētāju tēliem, kam sitienpunkti balstīti uz (IZT+IZM)/2. Tas dod būtisku priekšrocību spēlētāju tēliem un ļauj tiem izdzīvot vairāk nekā dažus pamatīgus ievainojumus. Tas arī pieļauj spēlētāju tēlus, kas var stāties pretī lielam skaitam nespēlētāju tēlu bez būtiskām bailēm tikt nogalinātiem ar vienu kritisku sitienu.
+
+> ### Sitienpunkti pa ķermeņa daļām (opcija)
+> 
+> Sīkākai kaujai sitienpunkti tiek sadalīti starp tēla ķermeņa daļām. Ja uzbrukums ir veiksmīgs, D20 metiens nosaka, kur sitiens trāpa. Ja izmanto izvēles ķermeņa daļu sistēmu (skat. **Ķermeņa daļas**), tēla sitienpunkti tiek sadalīti starp dažādām ķermeņa daļām. Izmanto šādu formulu humanoīdiem, noapaļojot uz augšu katrai daļai:
+> 
+> | Ķermeņa daļa | Sitienpunktu vērtība |
 > | :---- | :---- |
-> | Kāja, Vēders, Galva | 1/3 kopējo trāpījuma punktu |
-> | Krūtis | 4/10 kopējo trāpījuma punktu |
-> | Roka | 1/4 kopējo trāpījuma punktu |
+> | Kāja, Vēders, Galva | 1/3 no kopējiem sitienpunktiem |
+> | Krūškurvis | 4/10 no kopējiem sitienpunktiem |
+> | Roka | 1/4 no kopējiem sitienpunktiem |
 > 
-> Humanoīdu trāpījuma punktu sadalījums ir sniegts zemāk, pamatojoties uz maksimālajiem trāpījuma punktiem.
+> Humanoīdu sitienpunktu izkliede ir sniegta zemāk, balstoties uz Maksimālajiem sitienpunktiem.
 > 
-> | Atrašanās vieta | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
+> | Ķermeņa daļa | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 > | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 > | Katra kāja | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > | Vēders | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
-> | Krūtis | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
+> | Krūškurvis | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
 > | Katra roka | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
 > | Galva | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > 
-> Jūsu tēla trāpījuma punktu summa pa atrašanās vietām pārsniedz viņu maksimālos trāpījuma punktus, bet ikreiz, kad tēls tiek ievainots, izmestie bojājumi tiek atņemti gan no tās atrašanās vietas trāpījuma punktu kopsummas, gan no jūsu tēla maksimālajiem trāpījuma punktiem.
+> Tēla sitienpunktu summa pa ķermeņa daļām pārsniedz tā maksimālos sitienpunktus, bet ikreiz, kad tēls tiek ievainots, izmestie bojājumi tiek atņemti gan no attiecīgās ķermeņa daļas sitienpunktu kopsummas, gan tēla maksimālajiem sitienpunktiem.
 > 
-> Bojājumi, kas pārsniedz atrašanās vietas kopējos trāpījuma punktus, padara to nelietojamu. Bojājumi, kas vienādi ar divkāršu atrašanās vietas trāpījuma punktu summu, to saspiež vai atdala. Skatīt **Bojājumi pa trāpījuma vietām**.
+> Bojājumi, kas pārsniedz ķermeņa daļas kopējos sitienpunktus, padara to nelietojamu. Bojājumi, kas vienādi ar divkāršu ķermeņa daļas sitienpunktu kopsummu, saspiež vai atdala to. Skat. **Bojājumi pa ķermeņa daļām**.
 > 
-> **Piemēram,** jūsu tēlam ir 14 trāpījuma punkti, ar 5 trāpījuma punktiem katrā kājā, 5 trāpījuma punktiem vēderā, 6 trāpījuma punktiem krūtīs, 4 trāpījuma punktiem katrā rokā un 5 trāpījuma punktiem galvā. Pat ja viņu trāpījuma punkti visās atrašanās vietās summējas līdz 34, jūsu tēls mirs, ja viņi cietīs kopā 14 trāpījuma punktus bojājumos.
+> **Piemēram,** tēlam ir 14 sitienpunkti, ar 5 sitienpunktiem katrā kājā, 5 sitienpunktiem vēderā, 6 sitienpunktiem krūškurvī, 4 sitienpunktiem katrā rokā un 5 sitienpunktiem galvā. Lai gan to sitienpunkti visās daļās kopā sasniedz 34, tēls mirs, ja tas cietīs kopā 14 sitienpunktus bojājumos.
 > 
-> **Smaga ievainojuma** sistēma nav viegli savietojama ar trāpījuma vietu sistēmu, un, ja spēles vadītājs izvēlas izmantot fakultatīvās trāpījuma vietas un **Bojājumus pa trāpījuma vietām**, smaga ievainojuma sistēma būtu jālikvidē vai ievērojami jāpielāgo, iespējams, ar smaga ievainojuma veidu, ko izvēlas jūsu spēles vadītājs, kur tas ir piemērojams.
+> **Smago ievainojumu** sistēma nav viegli savietojama ar ķermeņa daļu sistēmu, un, ja spēles vadītājs izvēlas izmantot izvēles ķermeņa daļas un **Bojājumu pa ķermeņa daļām** sistēmas, smago ievainojumu sistēma būtu jālikvidē vai ievērojami jāpielāgo, varbūt ar smagā ievainojuma dabu, ko izvēlas spēles vadītājs, kur piemērojams.
 
 ### Noguruma punkti un prāta veselības punkti (opcija)
 
-Dažas fakultatīvās sistēmas un spējas atsaucas uz noguruma punktiem un prāta veselības punktiem. Detalizētākai sloga un noguruma sistēmai jūsu spēles vadītājam vajadzētu izmantot noguruma punktus (aprakstīti zemāk). Spēles, kas balstītas uz šausmām, zaimojošu burvību vai neaprakstāmu zvērību, būs ļoti atkarīgas no prāta veselības sistēmas (arī zemāk) izmantošanas.
+Dažas izvēles sistēmas un spējas atsaucas uz noguruma punktiem un prāta veselības punktiem. Sīkākai noslodzes un noguruma sistēmai spēles vadītājam vajadzētu izmantot noguruma punktus (aprakstīti zemāk). Spēles, kas balstītas uz šausmām, zaimojošām burvestībām vai neaprakstāmu zvērību, būs smagi atkarīgas no prāta veselības sistēmas (arī zemāk) izmantošanas.#### Noguruma punkti (Maks. = SPĒ + IZT)
 
-#### Noguruma punkti (Maks = STR + CON)
+**Noguruma punkti** (NP) mēra jūsu tēla izturību, piemēram, cik ilgi tas var nodarboties ar smagu fizisku darbību, pirms iestājas spēku izsīkums. Jūsu tēla maksimālie noguruma punkti ir vienādi ar SPĒ+IZT. Jūsu tēls patērē 1 noguruma punktu par katru kaujas raundu, kas pavadīts smagā fiziskā darbībā (tuvcīņa, peldēšana, skriešana, kāpšana utt.). Sprinta skriešana vai smags fizisks darbs izmaksā 1 noguruma punktu par turnu. Piespiedu gājieni izmaksā 1 noguruma punktu stundā. Atšķirībā no veselības punktiem un varas punktiem, jūsu tēls var turpināt darboties arī ar negatīviem noguruma punktiem.
 
-**Noguruma punkti** (FP) mēra jūsu tēla izturību, piemēram, cik ilgi viņi var iesaistīties smagās aktivitātēs, pirms iestājas izsīkums. Jūsu tēla maksimālie noguruma punkti ir vienādi ar viņu STR+CON. Jūsu tēls iztērē 1 noguruma punktu uz katru kaujas raundu smagas aktivitātes (tuvcīņa, peldēšana, skriešana, kāpšana utt.). Sprintēšana vai smags fizisks darbs maksā 1 noguruma punktu uz gājienu. Piespiedu gājieni maksā 1 noguruma punktu stundā. Atšķirībā no trāpījuma punktiem un spējas punktiem, jūsu tēls var turpināt darboties ar negatīviem noguruma punktiem.
+Kad jūsu tēla noguruma punktu skaits nokrītas zem 0, tas saņem –1% sodu par katru negatīvo noguruma punktu visiem prasmju, raksturlielumu un pretestības metieniem. Kad jūsu tēla negatīvo noguruma punktu kopsumma sasniedz tā bāzes noguruma vērtību (SPĒ+IZT), tēls ir izsmelts un nespējīgs rīkoties. Izsmelts tēls var zaudēt samaņu (pēc spēles vadītāja ieskatiem), un pat ja tas paliek nomodā, tas nevar rīkoties, līdz tā noguruma punktu vērtība atjaunojas līdz pozitīvam skaitlim. Jūsu tēla apgrūtinājuma vērtība (ENC) arī ietekmē tā bāzes noguruma vērtību. Skatiet **Apgrūtinājums**.
 
-Kad jūsu tēls nokrītas zem 0 noguruma punktiem, viņi cieš no soda –1% par katru negatīvo noguruma punktu visiem prasmju, raksturlielumu un pretestības metieniem. Kad jūsu tēla negatīvo noguruma punktu kopsumma vienādojas ar viņu bāzes noguruma vērtību (STR+CON), viņi ir izsīkuma spiesti, nespējīgi uz darbību. Izsmelts tēls var zaudēt samaņu (pēc spēles vadītāja ieskatiem), un pat ja viņi paliek nomodā, viņi nevar darboties, līdz viņu noguruma punktu vērtība atjaunojas līdz pozitīvam skaitlim. Jūsu tēla sloga vērtība (ENC) arī ietekmē viņu bāzes noguruma vērtību. Skatīt **Slogs**.
+Jūsu tēls atgūst 1 noguruma punktu katru minūti (5 raundus), kurā tas netērē noguruma punktus. Atpūta, lēna iešana vai jāšana ar zvēru vai transportlīdzekli nogurumu nepatērē. Vidēji statistisks tēls atgūstas no 0 līdz savam pilnajam noguruma punktu skaitam 20 minūtēs (pieņemot, ka SPĒ ir 10, IZT ir 10 un atpūtas laikā tiek atgūts 1 noguruma punkts minūtē).
 
-Jūsu tēls atgūst 1 noguruma punktu katru minūti (5 raundus), kurā viņi netērē noguruma punktus. Atpūta, soļošana lēnā tempā vai jāšana uz zvēra vai transportlīdzeklī netērē nogurumu. Vidusmēra tēls atkopjas no 0 līdz savai pilnajai noguruma punktu kopsummai 20 minūtēs (pieņemot STR 10, CON 10 un 1 atgūtu noguruma punktu uz atpūtas minūti).
+#### Vienkāršotais nogurums
 
-#### Vienkāršs nogurums
+Vienkāršotajā noguruma versijā noguruma punkti tiek pilnībā izslēgti; jūsu spēles vadītājs var paziņot, ka pēc kāda liela pūliņa vai ekstrēmas fiziskas slodzes jūsu tēls ir noguris. Tēls ir vai nu gatavs darbībai, vai arī noguris. Jūsu spēles vadītājs var atļaut veikt Izturības (Stamina) metienu, lai izvairītos no noguruma pēc fiziskas piepūles perioda.
 
-Vienkāršākai noguruma versijai, kas pilnībā izslēdz noguruma punktus, jūsu spēles vadītājs var paziņot, ka pēc kāda milzīga varoņdarba vai ekstrēmas fiziskas grūtības jūsu tēls ir noguris. Viņi ir vai nu gatavi darbībai, vai arī ir noguruši. Jūsu spēles vadītājs var atļaut izturības metienu, lai izvairītos no noguruma pēc fiziskas piepūles perioda.
+Izmantojot šo metodi, jūsu tēls nogurst pēc tam, kad kaujā vai grūtā fiziskā darbībā pavadīti IZT×3 nepārtraukti kaujas raundi. Pēc tam jūsu tēls automātiski kļūst noguris, un visi prasmju metieni ir *Grūti*.
 
-Izmantojot šo metodi, jūsu tēls nogurst pēc CON×3 nepārtrauktu kaujas raundu pavadīšanas kaujā vai grūtā fiziskā aktivitātē. Pēc tam jūsu tēls ir automātiski noguris, un visi prasmju metieni ir *Grūti*.
+Pēc IZT×4 nepārtrauktu kaujas raundu pavadīšanas kaujā vai grūtā fiziskā darbībā, jūsu tēls izmanto visas savas prasmes tā, it kā to vērtība būtu 1/4 no parastās, un tam ir jāveic sekmīgs Izturības metiens, lai veiktu jebkādu fizisku darbību, pirms prasmju metienu vispār drīkst mēģināt.
 
-Pēc CON×4 nepārtrauktu kaujas raundu pavadīšanas kaujā vai grūtā fiziskā aktivitātē, jūsu tēls veic visus savus prasmju metienus tā, it kā tie būtu 1/4 no normālā prasmju vērtējuma, un jāveic veiksmīgs izturības metiens, lai darītu jebko fizisku, pirms prasmju vērtējumu vispār var mēģināt.
+Pēc IZT×10 šādas darbības raundiem jūsu tēls ir pilnīgi izsmelts un knapi spēj pacelt savu ieroci, stāvēt taisni bez atbalsta utt. Šajā brīdī jūsu tēlam ir jāveic *Grūts* Izturības metiens, lai veiktu jebkādu pamatdarbību, un jūsu spēles vadītājs var noteikt, ka jebkurš prasmju metiens ir *Neiespējams* vai ierobežots līdz jūsu tēla VAR×1.#### Veselības punkti (Maks. = VAR×5)
 
-Pēc CON×10 šādas aktivitātes raundiem jūsu tēls ir pilnīgi izsmelts, un tik tikko spēj pacelt savu ieroci, stāvēt vertikāli bez kaut kā, pie kā atbalstīties, utt. Šajā brīdī jūsu tēlam jāveic *Grūts* izturības metiens, lai veiktu jebkuru pamata darbību, un jūsu spēles vadītājs var nospriest, ka jebkurš prasmju metiens ir *Neiespējams* vai ierobežots līdz jūsu tēla POW×1.
+Kā aprakstīts sadaļā **Veselais saprāts** (skatīt desmito nodaļu: Vide), **veselības punkti** (SAN) atspoguļo jūsu tēla garīgo un emocionālo izturību, kā arī spēju pretoties šokam, šausmām un kosmiskajam ļaunumam. Jūsu tēla bāzes SAN punkti ir vienādi ar VAR×5.
 
-#### Prāta veselības punkti (Maks = POW×5)
+Ikreiz, kad jūsu tēls saskaras ar šausminošu situāciju vai prātam neaptveramu dīvainību, tam ir jāmet D100 pret savu pašreizējo SAN punktu kopsummu. Ja jūsu tēlam neizdodas (vai varbūt pat tad, ja izdodas), tas zaudēs veselības punktus.
 
-Kā aprakstīts **Prāta veselībā** (skatīt *Desmito nodaļu: Vides*), **prāta veselības punkti** (SAN) pārstāv jūsu tēla garīgo un emocionālo izturību un viņu spēju izturēt šoku, teroru un kosmisku šausmīgumu. Jūsu tēla bāzes SAN punkti ir vienādi ar viņu POW×5.
+Tēls, kurš zaudē pietiekami daudz SAN, visticamāk, sajuks prātā. Jūsu tēla **Saprāta slieksnis** (līdzīgi kā smagu ievainojumu slieksnis) ir vienāds ar 1/5 no pašreizējā SAN. Tik daudz SAN punktu zaudēšana vienas spēles stundas laikā izraisa kādu nenoteikta vājprāta formu.
 
-Ikreiz, kad jūsu tēls tiek pakļauts šausminošai situācijai vai prātu kropļojošai savādībai, viņiem jāmet D100 pret savu pašreizējo SAN punktu kopsummu. Ja jūsu tēls neiztur (vai varbūt pat ja viņi iztur), viņi zaudēs prāta veselības punktus.
+Veselības punkti dabiski neatjaunojas, un tos var atgūt tikai ļoti specifiskos apstākļos. Tēli var iegūt SAN virs savas bāzes vērtības, maksimāli līdz 99. Noteikta veida zaimojošas zināšanas var ierobežot jūsu tēla maksimāli pieļaujamo SAN punktu skaitu.
 
-Tēls, kurš cieš pietiekamu SAN zudumu, visticamāk, zaudēs prātu. Jūsu tēla **Prāta veselības slieksnis** (līdzīgi kā smaga ievainojuma slieksnis) ir vienāds ar 1/5 no viņu pašreizējā SAN. Zaudējot tik daudz SAN punktu vienā spēles stundā, rezultējas kādā neierobežota neprāta formā.
-
-Prāta veselības punkti dabiski neatjaunojas un tos var atgūt tikai ļoti specifiskos apstākļos. Tēli var iegūt SAN virs savas bāzes vērtības, līdz maksimumam 99. Noteikta veida zaimojošas zināšanas var ierobežot jūsu tēla maksimāli pieļaujamo SAN rādītāju.
-
-> ### Atšķirīgās iezīmes (opcija)
+> ### Atšķirīgās iezīmes (Opcija)
 > 
-> Atšķirīgās iezīmes ir veids, kā aprakstīt ievērojamas pazīmes par jūsu tēlu. Tās ir tikai aprakstošas un tām nav mehāniskas vērtības. Tās kalpo, lai palīdzētu padarīt jūsu spēlētāja tēlu reālāku. Jo tālāk no vidējā — augstāk vai zemāk — ir jūsu tēla harizmas (CHA) raksturlielums, jo lielāks skaits atšķirīgo iezīmju viņiem ir.
+> Atšķirīgās iezīmes ir veids, kā aprakstīt ievērojamas jūsu tēla īpatnības. Tās ir tikai aprakstošas, un tām nav mehāniskas vērtības. Tās palīdz padarīt jūsu spēlētāja tēlu reālāku. Jo tālāk no vidējā rādītāja — augstāk vai zemāk — ir jūsu tēla Harizmas (HAR) raksturlielums, jo lielāks ir tā atšķirīgo iezīmju skaits.
 > 
 > ##### Atšķirīgās iezīmes
 > 
-> | CHA | Iezīmju skaits |
+> | HAR | Iezīmju skaits |
 > | :---- | :---- |
 > | 3 vai mazāk | 4 |
 > | 4–7 | 3 |
@@ -521,81 +529,88 @@ Prāta veselības punkti dabiski neatjaunojas un tos var atgūt tikai ļoti spec
 > | 15–16 | 3 |
 > | 17+ | 4 |
 > 
-> Metiet 1D10 vai izvēlieties kategoriju zemāk katrai atšķirīgajai iezīmei, kas jūsu tēlam ir. Varat izvēlēties to pašu kategoriju vairākas reizes. Pēc tam izvēlieties iezīmi vai iezīmes no ieraksta. Tās visas ir kosmētiskas un neietekmē spēles vērtības, bet ir noderīgi paturēt prātā tēla raksturlielumus un prasmes, izvēloties atšķirīgās iezīmes.
+> Metiet 1D10 vai izvēlieties kategoriju zemāk katrai atšķirīgajai iezīmei, kas piemīt jūsu tēlam. Jūs varat izvēlēties vienu un to pašu kategoriju vairākas reizes. Pēc tam izvēlieties iezīmi vai iezīmes no ieraksta. Tās visas ir kosmētiskas un neietekmē spēles vērtības, taču, izvēloties atšķirīgās iezīmes, ir noderīgi paturēt prātā sava tēla raksturlielumus un prasmes.
 > 
-> Ja jūsu tēla CHA ir zema (9 vai zemāk), šīs iezīmes var būt nepatīkamas, nepievilcīgas vai neierasta izskata. Ja jūsu tēla CHA ir augsta (12+), iezīmes ir pievilcīgas vai iespaidīga izskata, pat ja iezīme parasti nebūtu tāda, ko uzskatītu par pievilcīgu. Tomēr tas nav ierobežojoši, un izskats ne vienmēr ir patiesās harizmas indikators.
+> Ja jūsu tēla HAR ir zema (9 vai mazāk), šīs iezīmes var būt nepatīkamas, nepievilcīgas vai neparasta izskata. Ja jūsu tēla HAR ir augsta (12+), iezīmes ir pievilcīgas vai iespaidīga izskata, pat ja iezīme parasti netiktu uzskatīta par pievilcīgu. Tomēr tas nav ierobežojoši, un izskats ne vienmēr liecina par faktisko harizmu.
 > 
-> Izvēloties, iztēlojieties savu tēlu prātā un iztēlojieties, kā viņi izskatās spēles vidē. Varat arī interesantos veidos kombinēt dažādas iezīmes. Jūsu spēles vadītājs var uzlikt veto dažām atšķirīgajām iezīmēm, ja tās būtu nevietā, atkarībā no vides.
+> Izvēloties, iztēlojieties savu tēlu un iedomājieties, kā viņš izskatās spēles vidē. Jūs varat arī apvienot dažādas iezīmes interesantos veidos. Jūsu spēles vadītājs var uzlikt veto noteiktām atšķirīgajām iezīmēm, ja tās neiederas vidē.
 > 
-> 1. **Mati uz galvas:** Pliks, plikpaurains, blonds, melns, pīts, brūns, īsi nogriezti, cirtaini, netīri, utaini, spīdīgi, sirmi, gari, krāšņi, savēlušies, taukaini, smaržīgi, atkāpušies, rudi, noskūti, ērkšķaini, ļoti gari, viļņaini, parūka, jūsu izvēlēta iezīme.
+> 1. **Galvas mati:** Plikpauris, pliks pa virsu, blondi, melni, pīti, brūni, īsi griezti, cirtaini, netīri, utaini, spīdīgi, sirmi, gari, mirdzoši, sapīti, taukaini, smaržīgi, atkāpušies, rudi, skūti, stāvi, ļoti gari, viļņaini, parūka, iezīme pēc jūsu izvēles.
 > 
-> 2. **Sejas apmatojums:** Izliektas uzacis, pīta bārda, kupla bārda, cirtaini un smaržīga bārda, milzīgas ūsas, saaugušas uzacis, kazbārdiņa, gara bārda, nav uzacu, sānu bakenes, dīvaini dizaini iegriezti īsā bārdā, biezas uzacis, jūsu izvēlēta iezīme.
+> 2. **Sejas apmatojums:** Izliektas uzacis, pīta bārda, kupla bārda, saritināta un smaržīga bārda, milzīgas ūsas, saaugušas uzacis, kazbārdiņa, gara bārda, bez uzacīm, vaigubārdas, dīvaini raksti uz īsi apgrieztas bārdas, biezas uzacis, iezīme pēc jūsu izvēles.
 > 
-> 3. **Sejas iezīme:** Dzimumzīme, melnas acis, zilas acis, gaišas acis, lauzts deguns, lauzti zobi, brūnas acis, ļoti iededzis, zoda dubultkārta, auskari, milzīgs zods, vienmērīgi zobi, acu apsējs, miesīgas lūpas, sprauga starp zobiem, pelēkas acis, matainas ausis, augsti vaigu kauli, uzrauts deguns, lielas acis, liels deguns, garas skropstas, robaini zobi, deguna riņķis, bāls, kārtaina āda, smails zods, smaili zobi, izcili priekšzobi, uzrauts deguns, apaļa seja, rēta, jutekliskas lūpas, notraipīti zobi, tetovēts, plānas lūpas, mazas ausis, uzrauts deguns, kārpas, vājš zods, balti zobi, ieplestas acis, dzelteni zobi, jūsu izvēlēta iezīme.
+> 3. **Sejas iezīmes:** Dzimumzīme, zilas zem acīm, zilas acis, mirdzošas acis, lauzts deguns, lauzti zobi, brūnas acis, stipri iededzis, dubultzods, auskari, milzīgs zods, vienmērīgi zobi, acu apsējs, gaļīgas lūpas, sprauga starp zobiem, pelēkas acis, matainas ausis, augsti vaigu kauli, līks deguns, lielas acis, liels deguns, garas skropstas, robotas zobu malas, deguna riņķis, bāls, vējbakas rētas, smails zods, smaili zobi, izteikti priekšzobi, uzrauts deguns, apaļa seja, rēta, jutekliskas lūpas, iekrāsoti zobi, tetovēts, plānas lūpas, sīkas ausis, uz augšu uzrauts deguns, kārpas, vājš zods, balti zobi, ieplestas acis, dzelteni zobi, iezīme pēc jūsu izvēles.
 > 
-> 4. **Izteiksme:** Dievinoša, vilinoša, augstprātīga, apmulsusi, gaišacaina, ziņkārīga, klanīšanās, drūma, piedzērusies, draudzīga, sargāta, lepna, kārīga, blenžoša, pakļāvīga, nerātna, naiva, izejoša, caururbjoša, patīkama, lepna, pavedinoša, viltīga, ņirdzoša, šķielējoša, jūsu izvēlēta izteiksme.
+> 4. **Izteiksme:** Dievinoša, pievilcīga, augstprātīga, apjukusi, spožām acīm, ziņkārīga, sarāvusies, drūma, piedzērusies, draudzīga, piesardzīga, lepna, kārīga, blenzoša, padevīga, nerātna, naiva, atklāta, caururbjoša, patīkama, lepna, pavedinoša, viltīga, ņirdzīga, žmiedzoša, izteiksme pēc jūsu izvēles.
 > 
-> 5. **Apģērbs:** Sens stils, bruņu cepure, atlētisks, basām kājām, drēbes atstāj valkātāju pārāk karstu vai pārāk aukstu, koniska cepure, izšūta ar īpašu emblēmu, dārgs, moderns, smalki zābaki, pretējā dzimuma drēbes, pieguļošs, pilns ar caurumiem, kliedzošs, košs, slikti pieguļošs, daudz lētu rotaslietu, jauns, naktsveļa, daļēji kails, smaila cepure, prims, bagātīgs, sandales, satīna, seksīgs, cieši pieguļošs, sportisks, pieklusināts, pārāk daudz rotājumu, uniforma, utilitārs, vulgārs, plata cepure, jūsu izvēlēts apģērbs.
+> 5. **Apģērbs:** Senlaicīgs stils, bruņu cepure, sportisks, basām kājām, apģērbs, kurā valkātājam ir pārāk karsti vai pārāk auksti, koniska cepure, izšūts ar īpašu emblēmu, dārgs, moderns, smalki zābaki, nepareiza dzimuma, pieguļošs, pilns ar caurumiem, spilgts, košs, nepiemērots izmērs, daudz lētas bižutērijas, jauns, naktsveļa, daļēji kails, smaila cepure, prasts, bagātīgs, sandales, satīna, seksīgs, cieši pieguļošs, sportisks, atturīgs, pārāk daudz rotājumu, uniforma, utilitārs, vulgārs, plata cepure, apģērbs pēc jūsu izvēles.
 > 
-> 6. **Gaita:** Dusmīga, ikdienišķa, neveikla, pārliecināta, ēteriska, bažīga, gracioza, pazemīga, bezrūpīga, lēna, militāra, veikla, smagnēja, uzmācīga, atturīga, salīkusi, mundra, stīva, pašpārliecināta, jutekliska, šūpojoša, piesardzīga, nogurusi, piekāpīga, jūsu izvēlēta gaita.
+> 6. **Stāja:** Dusmīga, ikdienišķa, neveikla, pārliecināta, ēteriska, bailīga, gracioza, pazemīga, bezrūpīga, lēna, militāra, veikla, smagnēja, uzbāzīga, atturīga, līka, dzīvīga, stīva, pašpārliecināta, jutekliska, šūpojoša, piesardzīga, nogurusi, padevīga, stāja pēc jūsu izvēles.
 > 
-> 7. **Runasveids:** Ar akcentu, manierīgs, agresīvs, dziļš, pieprasīgs, lēns, vājš, minstināšanās, augstas skaņas, valdonīgs, muzikāls, murminošs, deguna, skrapstošs, ass, juteklisks, spiedzošs, lēns, gluds, klusa balss, spēcīgs, rīkles, nesaprotams, žēlojošs, jūsu izvēlēts runasveids.
+> 7. **Runas veids:** Akcentēts, mākslots, agresīvs, dziļš, prasīgs, stiepts, vājš, vilcinošs, augsts, imperatīvs, muzikāls, murminošs, nazāls, raupjš, ass, juteklisks, spiedzīgs, lēns, gluds, kluss, spēcīgs, rīkles, nesaprotams, žēlabains, runas īpatnība pēc jūsu izvēles.
 > 
-> 8. **Rokas un plaukstas:** Redzama dzimumzīme, aproces vai citas rotaslietas, izspiedušies bicepsi, tulznainas rokas, ļoti iededzis, matains, matainas, mezglaini elkoņi, lieli locītavu kauli, kreilis, garas rokas, gari nagi, muskuļots, viena roka garāka par otru, trūkst pirksta, par vienu pirkstu par daudz, smaili elkoņi, smaili nagi, spēcīgas rokas un plaukstas, gredzeni, rēta, tievs, gluda āda, tetovēts, bez līnijām, ļoti matains, ļoti bāla āda, jūsu izvēlēta iezīme.
+> 8. **Rokas un plaukstas:** Redzama dzimumzīme, rokassprādzes vai citas rotaslietas, muskuļoti bicepsi, tulznainas rokas, stipri iededzis, neapmatotas, matainas, mezglaini elkoņi, lieli kauliņi, kreilis, garas rokas, gari nagi, muskuļotas, viena roka garāka par otru, trūkst viena pirksta, viens pirksts par daudz, smaili elkoņi, smaili nagi, spēcīgas rokas un plaukstas, gredzeni, rēta, tievas, gluda āda, tetovētas, bez grumbām, ļoti matainas, ļoti bāla āda, iezīme pēc jūsu izvēles.
 > 
-> 9. **Ķermenis:** Mucveidīgs, vēdera riņķis, redzama dzimumzīme, plati pleci, izliekts, katrs kauls redzams, plakans vēders, matains, augsta vidukļa līnija, slaids, garš rumpis, daudz rētu, muskuļots, šaurs, nav nabas, trūkst krūtsgala, kārnīgs, izcila rēta, īss, sarāvusies krūškurvis, dzīslains, gluds, slaids, slaidiem gurniem, slaiks, garš, redzamas iedeguma līnijas, iededzis, tetovēts, biezs, tievs, ļoti matains, ļoti bāls, vītolveidīgs, jūsu izvēlēta iezīme.
+> 9. **Ķermenis:** Mucveidīgs, vēdera riņķis, redzama dzimumzīme, plati pleci, izliekts, kaulains, plakans vēders, neapmatots, augsta vidukļa līnija, kalsns, garš ķermenis, daudz rētu, muskuļots, šaurs, nav nabas, trūkst krūtsgala, liels vēders, izteikta rēta, īss, iegrimusi krūškurvja daļa, cīpslains, gluds, tievs, šauras gurnu daļas, slaids, garš, redzamas iedeguma līnijas, iededzis, tetovēts, resns, tievs, ļoti matains, ļoti bāls, vītolveidīgs, iezīme pēc jūsu izvēles.
 > 
-> 10. **Kājas un pēdas:** Redzama dzimumzīme, izspiedušies augšstilbi un ikri, tulznainas pēdas, ļoti iededzis, matains, matainas, mezglaini ceļgali, klibošana ar vienu kāju, daudz rētu, muskuļots, trūkst pirksta, par vienu pirkstu par daudz, rēta, rētas no liesmām vai skābes, gluds, gluda āda, iededzis, tetovēts, pirksta riņķis, ļoti matains, ļoti garas kājas, ļoti bāla āda, ļoti īsas kājas, laikapstākļu skarta āda, jūsu izvēlēta iezīme.
+> 10. **Kājas un pēdas:** Redzama dzimumzīme, izspiedušies augšstilbi un ikri, tulznainas pēdas, stipri iededzis, neapmatotas, matainas, mezglaini ceļgali, klibošana ar vienu kāju, daudz rētu, muskuļotas, trūkst viena pirksta, viens pirksts par daudz, rēta, rētas no apdegumiem vai skābes, gludas, līdzenas, iedegušas, tetovētas, pirksta riņķis, ļoti matainas, ļoti garas kājas, ļoti bāla āda, ļoti īsas kājas, laikapstākļu skarta āda, iezīme pēc jūsu izvēles.
 > 
-> Izdomājiet savas atšķirīgās iezīmes, ja ar šīm nepietiek. Spēlēm, kurās piedalās necilvēciskas rases, droši pievienojiet jaunas un unikālas iezīmes, vai aizliedziet nepiemērotas iezīmes.
+> Izdomājiet savas atšķirīgās iezīmes, ja ar šīm nepietiek. Spēlēm, kurās piedalās ne-cilvēku rases, droši pievienojiet jaunas un unikālas iezīmes vai neatļaujiet nepiemērotas iezīmes.
 
 ## Profesijas
 
-Papildus tam, ka tēlu definē raksturlielumi, viņus definē arī **prasmes**. Tās tiek apgūtas caur dzīves pieredzi, bieži vien kā daļa no izglītības un **profesijas**. Profesija ir darbs vai aicinājums, kurā jūsu tēls tiek uzskatīts par esošu, kad sākas spēle (vai bija daļa pirms spēles sākuma), vadot prasmju sadali. Profesija ir tikai vieta, kur viņi sāk spēli, un tas nav ierobežojums tam, ko viņi var darīt un kļūt. Viņi var augt un mainīties kampaņas gaitā krietni pāri savai profesijai.
+Papildus tam, ka jūs definē jūsu raksturlielumi, jūsu tēlu definē arī viņa **prasmes**. Tās tiek apgūtas dzīves pieredzes gaitā, bieži vien izglītības un **profesijas** ietvaros. Profesija ir darbs vai aicinājums, kurā jūsu tēls tiek uzskatīts par nodarbinātu, kad sākas spēle (vai kurā bija nodarbināts pirms spēles sākuma), vadot prasmju sadali. Profesija ir tikai sākumpunkts, kad spēle sākas, un tā nav ierobežojums tam, ko viņš var darīt un par ko kļūt. Kampaņas gaitā viņš var augt un mainīties tālu pāri savas profesijas robežām.
 
-### Profesijas pa vidēm
+### Profesijas atkarībā no vides
 
-Tālāk ir izplatītāko profesiju saraksts ar piezīmēm par vidēm, kurās tās bieži sastopamas. Šīs vides ir aprakstītas *Desmitajā nodaļā: Vides*. Daži profesiju nosaukumi un sākotnējo prasmju saraksti var nebūt piemēroti katrai videi, un spēlētājiem un spēles vadītājam tie ir jāpielāgo pēc vajadzības.
+Tālāk ir uzskaitītas izplatītākās profesijas ar piezīmēm par vidēm, kurās tās varētu sastapt. Šīs vides ir aprakstītas *Desmitajā nodaļā: Vide*. Daži profesiju nosaukumi un sākotnējie prasmju saraksti var nebūt piemēroti katrai videi, un tie ir jāpielāgo spēlētājiem un spēles vadītājam pēc nepieciešamības.
 
-Piemēram, *kampaņā, kas norisinās senajā Japānā, spēles vadītājs jums pasaka, ka karotāja profesija tiek dēvēta par samuraju, slepkava ir nindzja, zaglis ir bandīts, noziedznieks ir jakudza, un dižciltīgais ir galminieks.*
+Piemēram, *kampaņā, kas norisinās senajā Japānā, spēles vadītājs jums pasaka, ka karotāja profesiju sauc par samuraju, slepkavu par nindzju, zagli par bandītu, noziedznieku par jakudzu, un augstmani par galminieku.*
 
-Šie saraksti nav izsmeļoši, bet pārstāv vispiemērotākās profesijas spēlētāju tēliem katrā vispārīgajā vidē. Šīs profesijas var paplašināt pēc vēlēšanās, un iespējamas pat mazticamas izvēles. Mūsu pašu mūsdienu pasaulei joprojām ir nelieli cilšu cilvēku un šamaņu kabatiņas, piemēram, lai gan tās nebūt nav izplatītas.
+Šie saraksti nav izsmeļoši, bet tie pārstāv piemērotākās profesijas spēlētāju tēliem katrā vispārīgajā vidē. Šīs profesijas var paplašināt pēc vēlēšanās, un iespējamas ir pat maz ticamas izvēles. Mūsu mūsdienu pasaule joprojām satur mazas cilšu cilvēku un šamaņu kabatas, piemēram, lai gan tās nebūt nav izplatītas.
 
 ### Vides un prasmes
 
-Jums un jūsu spēles vadītājam jāpārliecinās, ka ar profesiju saistītās prasmes atbilst spēles videi. Nepiemērotām prasmēm aizstājiet citu specialitāti, ja tas ļauj tai darboties, un, ja cita specialitāte nav piemērota, izvēlieties citu prasmi tajā pašā kategorijā. Skatīt *Trešo nodaļu: Prasmes* vairāk informācijas par prasmju specialitātēm un prasmju kategorijām.
+Jums un jūsu spēles vadītājam ir jāpārliecinās, ka profesijai piesaistītās prasmes atbilst spēles videi. Nepiemērotu prasmju gadījumā aizstājiet tās ar citu specialitāti, ja tas palīdz, un, ja neviena cita specialitāte nav piemērota, izvēlieties citu prasmi tajā pašā kategorijā. Skatīt *Trešo nodaļu: Prasmes*, lai iegūtu vairāk informācijas par prasmju specialitātēm un prasmju kategorijām.
 
-> ### Prasmju kategorijas bonusi (opcija)
+> ### Prasmju kategoriju bonusi (Opcija)
 > 
-> Ja jūs un jūsu spēles vadītājs vēlaties, lai tēla raksturlielumi ietekmētu viņu prasmju vērtējumus, jums vajadzētu izmantot šo sistēmu. Kā aprakstīts *Trešajā nodaļā: Prasmes*, katra prasme ir sagrupēta prasmju kategorijās. Katra kategorija ir saistīta ar vienu vai vairākiem raksturlielumiem, kurus izmanto, lai aprēķinātu prasmju kategorijas bonusu katrai kategorijai. Lai aprēķinātu bonusu katrai prasmju kategorijai, atzīmējiet kategorijas **primāros**, **sekundāros** un **negatīvos** raksturlielumus (vai izmantojiet tabulu zemāk):
+> Ja jūs un jūsu spēles vadītājs vēlaties, lai jūsu tēla raksturlielumi ietekmētu prasmju novērtējumu, jums vajadzētu izmantot šo sistēmu. Kā aprakstīts Trešajā nodaļā: Prasmes, katra prasme ir grupēta prasmju kategorijās. Katra kategorija ir piesaistīta vienam vai vairākiem raksturlielumiem, kas tiek izmantoti, lai aprēķinātu prasmju kategorijas bonusu katrai kategorijai. Lai aprēķinātu bonusu katrai prasmju kategorijai, atzīmējiet katras kategorijas **primāros**, **sekundāros** un **negatīvos** raksturlielumus (vai izmantojiet zemāk esošo tabulu):
 > 
-> * Primārie raksturlielumi pieskaita +1% par katru punktu virs 10 un atņem –1% par katru punktu zem 10.
-> * Sekundārie raksturlielumi pieskaita +1% par katriem 2 punktiem virs 10 un atņem –1% par katriem 2 punktiem zem 10. Noapaļojiet uz leju.
-> * Negatīvie raksturlielumi atņem –1% par katru punktu virs 10 un pieskaita +1% par katru punktu zem 10.
+> * Primārie raksturlielumi pievieno +1% par katru punktu virs 10 un atņem –1% par katru punktu zem 10.
+> 
+> * Sekundārie raksturlielumi pievieno +1% par katriem 2 punktiem virs 10 un atņem –1% par katriem 2 punktiem zem 10. Noapaļot uz leju.
+> 
+> * Negatīvie raksturlielumi atņem –1% par katru punktu virs 10 un pievieno +1% par katru punktu zem 10.
 > 
 > ##### Prasmju kategoriju modifikatori
 > 
 > | Kategorija | Primārais | Sekundārais | Negatīvais |
 > | :---- | :---- | :---- | :---- |
-> | Kaujas prasmes | DEX | INT, STR | — |
-> | Komunikācijas prasmes | INT | POW, CHA | — |
-> | Manipulācijas prasmes | DEX | INT, STR | — |
-> | Garīgās prasmes | INT | POW, EDU | — |
-> | Uztveres prasmes | INT | POW, CON | — |
-> | Fiziskās prasmes | DEX | STR, CON | SIZ |
+> | Kaujas prasmes | VEI | INT, SPĒ | — |
+> | Komunikācijas prasmes | INT | VAR, HAR | — |
+> | Manipulācijas prasmes | VEI | INT, SPĒ | — |
+> | Mentālās prasmes | INT | VAR, IZGL | — |
+> | Uztveres prasmes | INT | VAR, IZT | — |
+> | Fiziskās prasmes | VEI | SPĒ, IZT | IZM |
 > 
-> Piemēram, *jūsu tēlam ir šādi raksturlielumi: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12 un CHA 8. Viņu prasmju kategoriju bonusi ir:*
+> Piemēram, *jūsu tēlam ir šādi raksturlielumi: SPĒ 14, IZT 13, INT 8, IZM 12, VAR 10, VEI 12 un HAR 8. Viņu prasmju kategoriju bonusi ir:*
 > 
-> * Kaujas: +3% (+2 par DEX, +2 par STR, –1 par INT)
-> * Komunikācijas: –3% (–2 par INT, 0 par POW, –1 par CHA)
-> * Manipulācijas: +3% (+2 par DEX, –1 par INT, +2 par STR)
-> * Garīgās: –2% (–2 no INT, 0 par POW, EDU šajā kampaņā netiek izmantota)
-> * Uztveres: –1% (–2 par INT, 0 par POW, +1 par CON)
-> * Fiziskās: +3% (+2 par DEX, +2 par STR, +1 par CON, –2 par SIZ)
+> * Kaujas: *+3% (+2 par VEI, +2 par SPĒ, –1 par INT)*
 > 
-> Skatīt *Trešo nodaļu: Prasmes* vairāk informācijas par prasmju kategorijām, kategoriju bonusiem un bāzes prasmju iespējām.
+> * Komunikācijas: *–3% (–2 par INT, 0 par VAR, –1 par HAR)*
 > 
-> ##### Prasmju bonusa tabula
+> * Manipulācijas: *+3% (+2 par VEI, –1 par INT, +2 par SPĒ)*
+> 
+> * Mentālās: *–2% (–2 no INT, 0 par VAR, IZGL šajā kampaņā netiek lietota)*
+> 
+> * Uztveres: *–1% (–2 par INT, 0 par VAR, +1 par IZT)*
+> 
+> * Fiziskās: *+3% (+2 par VEI, +2 par SPĒ, +1 par IZT, –2 par IZM)*
+> 
+> Skatīt *Trešo nodaļu: Prasmes*, lai iegūtu vairāk informācijas par prasmju kategorijām, kategoriju bonusiem un bāzes prasmju iespējām.
+> 
+> ##### Prasmju bonusu tabula
 > 
 > | Vērtība | Primārais | Sekundārais | Negatīvais |
 > | :---- | :---- | :---- | :---- |
@@ -622,499 +637,514 @@ Jums un jūsu spēles vadītājam jāpārliecinās, ka ar profesiju saistītās 
 > | 21 | +11% | +5% | –11% |
 > | Utt. | +1%/punkts | +1%/2 punkti | –1%/punkts |
 > 
-> ### Vienkāršāki prasmju bonusi
+> ### Vienkāršotie prasmju bonusi
 > 
-> Ja prasmju kategoriju bonusu aprēķināšana ir pārāk sarežģīta, katru kategorijas bonusu tā vietā var definēt kā 1/2 no primārā raksturlieluma (noapaļot uz augšu). Šī metode rezultējas ar augstākām sākuma prasmju iespējām un izslēdz kategorijas soda iespēju. Ja vēlaties, izmantojiet vienkāršos prasmju kategoriju modifikatorus no šīs tabulas.
+> Ja prasmju kategoriju bonusu aprēķināšana ir pārāk sarežģīta, katru kategorijas bonusu var definēt kā 1/2 no primārā raksturlieluma (noapaļot uz augšu). Šī metode rada augstākas sākotnējās prasmju iespējas un novērš kategorijas soda iespējamību. Ja vēlaties, izmantojiet vienkāršos prasmju kategoriju modifikatorus no šādas tabulas.
 > 
-> ##### Vienkāršie prasmju kategoriju modifikatori
+> ##### Vienkāršotie prasmju kategoriju modifikatori
 > 
 > | Kategorija | Primārais |
 > | :---- | :---- |
-> | Kaujas prasmes | DEX/2 |
-> | Komunikācijas prasmes | CHA/2 |
-> | Manipulācijas prasmes | DEX/2 |
-> | Garīgās prasmes | INT/2 |
-> | Uztveres prasmes | POW/2 |
-> | Fiziskās prasmes | STR/2 |
+> | Kaujas prasmes | VEI/2 |
+> | Komunikācijas prasmes | HAR/2 |
+> | Manipulācijas prasmes | VEI/2 |
+> | Mentālās prasmes | INT/2 |
+> | Uztveres prasmes | VAR/2 |
+> | Fiziskās prasmes | SPĒ/2 |
 
 > ### Bagātība
 > 
-> Galu galā bagātība atspoguļo, kāds ir jūsu tēla ekonomiskais statuss spēles sākumā un pie kā viņi ir pieraduši. Katrs līmenis zemāk apraksta relatīvo stāvokli kādam ar šādu bagātības līmeni. Bagātība ir tālāk apskatīta *Astotajā nodaļā: Aprīkojums*, jo tā nosaka, kāda veida mantas jūsu tēls var sākotnēji iegūt un iegādāties spēles gaitā.
+> Galu galā bagātība atspoguļo jūsu tēla ekonomisko statusu spēles sākumā un to, pie kā viņš ir pieradis. Katrs līmenis zemāk apraksta kāda cilvēka relatīvo stāvokli šajā bagātības līmenī. Bagātība ir tālāk apskatīta *Astotajā nodaļā: Aprīkojums*, jo tā nosaka, kāda veida mantu jūsu tēls var sākotnēji piederēt un iegūt spēles gaitā.
 > 
-> #### Trūcīgs (Destitute)
+> #### Trūcīgs
 > 
-> Bez santīma, jūsu tēlam jāmeklē pārtika un dzēriens vai jāpaļaujas uz žēlastību. Bezpajumtnieks, viņi guļ, kur vien var atrast sausu un drošu vietu. Viņiem var būt kādas nelielas mantas, izņemot to, ko viņi var nest, bet tās nav īpaši vērtīgas un ir noslēptas, nozagtas, ja tiek atklātas. Šis nabadzības līmenis ir atspoguļots jūsu tēla izskatā, un viņiem var būt grūtības veikt normālus uzdevumus aizspriedumu dēļ pret trūcīgajiem.
+> Bez naudas, jūsu tēlam ir jāmeklē ēdiens un dzēriens vai jāpaļaujas uz labdarību. Bezpajumtnieks, viņš guļ tur, kur atrod sausu un drošu vietu. Viņam var būt dažas nelielas mantas, izņemot tās, kuras viņš var panest, bet tās nav īpaši vērtīgas un ir paslēptas, nozagtas, ja tās atrod. Šis nabadzības līmenis, iespējams, atspoguļojas jūsu tēla izskatā, un viņam var būt grūtības veikt parastos uzdevumus aizspriedumu dēļ pret trūcīgajiem.
 > 
-> #### Nabags (Poor)
+> #### Nabadzīgs
 > 
-> Lai gan jūsu tēlam ir nedaudz naudas un viņiem nav trūkuma pēc vietas, kur gulēt, vai pārtikas, ko ēst. Viņu dzīve ir bez lielas greznības. Viņiem nav daudz brīvas skaidras naudas. Ar šo bagātības līmeni viņu mājvieta ir pieticīga un potenciāli nabadzīgā vai nevēlamā pilsētas daļā. Viņi ir daļēji nodarbināti, bezdarbnieki vai smagi strādā par niecīgu atalgojumu.
+> Lai gan jūsu tēlam ir nedaudz naudas un viņam nav jāraizējas par vietu, kur gulēt, vai ēdienu, ko ēst. Viņa dzīve nav īpaši grezna. Viņam nav daudz brīvas naudas. Ar šo bagātības līmeni viņa mājoklis ir pieticīgs un, iespējams, nabadzīgā vai nevēlamā pilsētas rajonā. Viņš ir daļēji nodarbināts, bezdarbnieks vai smagi strādā par niecīgu atalgojumu.
 > 
-> #### Viduvējs (Average)
+> #### Vidējs
 > 
-> Jūsu tēlam ir ērti ienākumi un viņi dzīvo bez lielām grūtībām, lai gan par lieliem pirkumiem jādomā rūpīgi. Viņiem ir vidēja māja vai dzīvoklis kaut kur, un viņiem var būt saprātīgs naudas daudzums ietaupījumos, lai gan maz kurš domātu, ka viņi ir kas vairāk par vidusšķiru vai vidējiem ienākumiem. Viņi var apmaksāt rēķinus un izdevumus, un var reizēm palutināt sevi ar greznības precēm, bet viņi parasti dzīvo dzīvesveidu, kas raksturīgs vairumam cilvēku viņu kultūrā un laikmetā.
+> Jūsu tēlam ir komfortabli ienākumi, un viņš dzīvo bez lielām grūtībām, lai gan lielāki pirkumi ir rūpīgi jāapsver. Viņam ir vidēja māja vai dzīvoklis kaut kur, un viņam var būt saprātīga naudas summa uzkrājumos, lai gan maz ticams, ka kāds viņu uzskatītu par kaut ko citu, nevis vidusšķiras vai vidēju ienākumu pārstāvi. Viņš var apmaksāt rēķinus un izdevumus, un reizēm atļauties greznas lietas, taču kopumā viņš dzīvo dzīvesveidu, kas ir kopīgs lielākajai daļai cilvēku viņa kultūrā un laikmetā.
 > 
-> #### Turīgs (Affluent)
+> #### Pārticis
 > 
-> Jūsu tēlam klājas diezgan labi, un viņiem ir ievērojami ienākumi vai naudas plūsma, ar ko viņi var dzīvot grezni un izbaudīt dzīvi. Dzīves apstākļi ir ļoti augsta līmeņa, un jūsu tēlam nav jādomā divreiz par lielu pirkumu veikšanu. Viņiem ir liels ietaupītas naudas daudzums, un viņi var dzīvot pārmērību un greznības dzīvi bez jebkādām sekām.
+> Jūsu tēlam klājas diezgan labi, un viņam ir ievērojami ienākumi vai naudas plūsma, ar ko viņš var dzīvot grezni un baudīt dzīvi. Dzīves apstākļi ir ļoti augsta līmeņa, un jūsu tēlam nav jādomā divreiz par lielu pirkumu veikšanu. Viņam ir liela naudas summa uzkrājumos, un viņš var dzīvot pārmērību un greznības dzīvi bez jebkādām sekām.
 > 
-> #### Bagāts (Wealthy)
+> #### Bagāts
 > 
-> Jūsu tēlam ir milzīga materiālā bagātība no gandrīz neizsmeļama avota. Viņi var veikt ievērojamus pirkumus bez domāšanas, ar tādu dzīves kvalitāti, kuru apskauž vairums. Viņiem ir liels ietaupītas naudas daudzums, un sava bagātības līmeņa dēļ, visticamāk, viņiem ir sociālās un biznesa iespējas, kas krietni pārsniedz jebkura cita ienākumu līmeņa iespējas.
+> Jūsu tēlam ir milzīga materiālā bagātība no gandrīz neizsmeļama avota. Viņš var veikt ievērojamus izdevumus bez domāšanas, ar dzīves kvalitāti, ko apskauž vairums. Viņam ir liela naudas summa uzkrājumos, un bagātības līmeņa dēļ viņam, visticamāk, būs sociālās un biznesa iespējas, kas krietni pārsniedz jebkura cita ienākumu līmeņa iespējas.
 
 ### Profesijas no A līdz Z
 
-Vairums no šīm profesijām ir pietiekami vispārīgas, lai būtu piemērotas daudzām vidēm vai laikmetiem. Katra ietver vispārīgu aprakstu, piemērotu prasmju sarakstu un ieteikto bagātības līmeni. Katra vide *Desmitajā nodaļā: Vides* iesaka piemērotas profesijas.
+Lielākā daļa no šīm profesijām ir pietiekami vispārīgas, lai būtu piemērotas daudzām vidēm vai laikmetiem. Katra ietver vispārīgu aprakstu, atbilstošo prasmju sarakstu un ieteikto bagātības līmeni. Katra vide *Desmitajā nodaļā: Vide* iesaka atbilstošas profesijas.
 
-Šīs profesijas nav izsmeļošas. Atkarībā no vides jūs vai jūsu spēles vadītājs varat izveidot papildu profesijas vai pielāgot esošās profesijas vēl vairāk. Informācija par jaunu profesiju izveidi vai esošo pielāgošanu atrodama **Jaunu profesiju izveidē**.
+Šīs profesijas nav izsmeļošas. Atkarībā no vides, jūs vai jūsu spēles vadītājs varat izveidot papildu profesijas vai pielāgot esošās profesijas vēl vairāk. Informācija par jaunu profesiju izveidi vai esošo pielāgošanu ir atrodama sadaļā **Jaunu profesiju izveide**.
 
-Jūsu spēles vadītājs var ierobežot jūsu profesijas izvēli vai lūgt noteikt profesiju nejauši, bet parasti ir labāk izvēlēties profesiju, lai novērstu piespiešanu spēlēt tēlu, kas jums nepatīk.
+Jūsu spēles vadītājs var ierobežot jūsu profesijas izvēli vai lūgt noteikt profesiju nejauši, bet parasti ir vēlams izvēlēties profesiju, lai novērstu piespiedu spēlēšanu ar tēlu, kas jums nesagādās prieku.
 
-**Prasmes:** Šīs prasmes ir galvenās prasmes, ko izmanto šīs profesijas dalībnieki. Jūsu tēls tērēs savus profesionālos prasmju punktus šajās prasmēs tēla izveides laikā. Jūsu tēlam nav jābūt visām šīm prasmēm, bet šis ir ieteikums, kuras prasmes būtu piemērotas. Ar spēles vadītāja atļauju varat aizstāt jebkuru no šīm prasmēm ar citu, ja prasme neatbilst laikmetam, videi vai jūsu tēla koncepcijai.
+**Prasmes:** Šīs prasmes ir galvenās prasmes, ko izmanto šīs profesijas pārstāvji. Jūsu tēls tērēs savus profesionālos prasmju punktus šīm prasmēm tēla izveides laikā. Jūsu tēlam nav jābūt visām šīm prasmēm, taču šis ir ieteikums, kuras prasmes būtu piemērotas. Ar jūsu spēles vadītāja atļauju jūs varat aizstāt jebkuru no šīm prasmēm ar citu, ja prasme neatbilst laikmetam, videi vai jūsu tēla konceptam.
 
-Piemēram, *jūs vēlaties spēlēt konstablē ar tieksmi uz dedukciju 12. gadsimta Anglijas kampaņā. Jūs skatāties detektīvu profesiju sarakstu un redzat, ka tas uzskaita šaujamieroču (pistoles vai revolvera) prasmi. Būtu pilnīgi saprātīgi šajā vidē to aizstāt ar tuvcīņas ieroču (zobena) prasmi.*
+Piemēram, *jūs vēlaties spēlēt konsteblu ar tieksmi uz dedukciju kampaņā, kas norisinās 12. gadsimta Anglijā. Jūs skatāties profesiju sarakstu un redzat, ka Detektīva veidne uzskaita Šaujamieroču (pistoles vai revolvera) prasmi. Šajā vidē būtu pilnīgi saprātīgi aizstāt to ar Tuvcīņas ieroča (zobena) prasmi.*
 
-**Bagātība:** Vidējs bagātības līmenis tēlam šajā profesijā. Dažos gadījumos ir sniegts diapazons, ļaujot jums un jūsu spēles vadītājam izlemt piemērotāko videi. Apraksts ir domāts tikai kā ieteikums; jūs un jūsu spēles vadītājs varat izvēlēties pielāgot ieteikto bagātības līmeni uz augšu vai uz leju atkarībā no jūsu tēla koncepcijas.
+**Bagātība:** Vidējais bagātības līmenis tēlam šajā profesijā. Dažos gadījumos tiek nodrošināts diapazons, ļaujot jums un jūsu spēles vadītājam izlemt piemērotāko videi. Apraksts ir domāts tikai kā ieteikums; jūs un jūsu spēles vadītājs varat izvēlēties pielāgot ieteikto bagātības līmeni uz augšu vai uz leju atkarībā no jūsu tēla koncepta.
 
-Alternatīva metode sākuma bagātības līmeņa noteikšanai, kur ir sniegts diapazons, ir sākt tēlu zemākajā bagātības diapazonā, pielāgojot to uz augšu par katru veiksmīgo Statusa metienu, ko varat veikt. Tas jādara pēc tēla izveides.
+Alternatīva metode sākotnējā bagātības līmeņa noteikšanai, kur tiek piedāvāts diapazons, ir sākt ar savu tēlu zemākajā bagātības diapazonā, pielāgojot to uz augšu par katru veiksmīgo Statusa metienu, ko varat veikt. Tas jādara pēc tam, kad tēls ir izveidots.
 
-Lai gan Statusa prasme apraksta veidus, kādos Statuss un bagātība ir saistīti, īss katra bagātības līmeņa apraksts ir sniegts zemāk.
+Kamēr Statusa prasme apraksta veidus, kādos Statuss un bagātība ir saistīti, īss katra bagātības līmeņa apraksts ir sniegts zemāk.
 
-**Īpaši:** Tas norāda, vai profesijas dalībniekam, visticamāk, ir spējas, kas aprakstītas *Ceturtajā nodaļā: Spējas*.
+**Speciāls:** Tas norāda, vai profesijas pārstāvim, visticamāk, ir spējas, kas aprakstītas Ceturtajā nodaļā: Spējas.
 
 ### Profesiju saraksts
 
-| Mākslinieks | Spēlmanis | Zinātnieks (Scholar) |
+| Mākslinieks | Spēlmanis | Zinātnieks |
 | :---- | :---- | :---- |
-| Slepkava | Gani | Pētnieks (Scientist) |
-| Atlēts | Mednieks | Kalpotājs |
+| Slepkava | Gani | Pētnieks |
+| Sportists | Mednieks | Kalps |
 | Ubags | Žurnālists | Šamanis |
 | Klerks | Strādnieks | Vergs |
-| Datoru tehniķis | Likuma sargs | Karavīrs |
+| Datoru tehniķis | Likumsargs | Karavīrs |
 | Okultists | Advokāts | Spiegs |
 | Amatnieks | Mehāniķis | Students |
 | Noziedznieks | Tirgotājs | Skolotājs |
-| Detektīvs | Dižciltīgais | Tehniķis |
+| Detektīvs | Augstmanis | Tehniķis |
 | Ārsts | Rakstnieks | Zaglis |
 | Inženieris | Pilots | Cilts cilvēks |
-| Izklaidētājs | Politiķis | Karotājs |
-| Pētnieks (Explorer) | Priesteris | Burvis |
-| Zemnieks | Jūrnieks | |
+| Izpildītājs | Politiķis | Karotājs |
+| Pētnieks | Priesteris | Burvis |
+| Zemkopis | Jūrnieks |  |
 
-#### Mākslinieks (Artist)
+#### Mākslinieks
 
-Jūs pelnāt iztiku ar mākslas radīšanu, neatkarīgi no tā, vai tas ir zīmējums, glezniecība, skulptūra, dizains, fotogrāfija, filmu uzņemšana vai jebkurš cits radošās izpausmes veids fiziskā vai digitālā vidē. Izklaidētājiem jāskatās Izklaidētāja profesija.
+Jūs pelnāt iztiku ar mākslas radīšanu, vai tā būtu zīmēšana, gleznošana, tēlniecība, dizains, fotogrāfija, filmu veidošana vai jebkurš cits radošās izpausmes veids fiziskā vai digitālā vidē. Izpildītājiem vajadzētu skatīt Izpildītāja profesiju.
 
-**Bagātība**: Jebkura, bet parasti Nabags vai Viduvējs.
+**Bagātība**: Jebkura, bet parasti Nabadzīgs vai Vidējs.
 
-**Prasmes**: Jebkuras divas mākslas prasmes, jebkurš amats, Ieskats, viena piemērota zināšanu prasme, Svešvaloda, Dzimtā valoda, Klausīšanās, Izpēte, Pamanīšana.
+**Prasmes**: Jebkuras divas Mākslas prasmes, jebkurš Amatniecība, Ieskats, viena piemērota Zināšanu prasme, Valoda (cita), Valoda (dzimtā), Klausīšanās, Pētniecība, Novērošana.
 
-#### Slepkava (Assassin)
+#### Slepkava
 
-Kā aukstasinīgs profesionāls slepkava, nāve ir jūsu amats. Neatkarīgi no tā, vai nogalināt naudas vai cita iemesla dēļ, esat prasmīgs citu dzīvo būtņu iznīcināšanā, parasti slepenībā.
+Kā aukstasinīgs profesionāls slepkava, nāve ir jūsu amats. Vai nu jūs nogalināt naudas vai kāda cita iemesla dēļ, jūs esat prasmīgs citu dzīvo būtņu iznīcināšanā, parasti slepenībā.
 
-**Bagātība**: Viduvējs vai Turīgs. Jums var būt arī plašs ieroču un viltus identitāšu klāsts, kā piemērots videi.
+**Bagātība**: Vidējs vai Pārticis. Jums var būt arī plašs ieroču un viltus identitāšu klāsts, atbilstoši videi.
 
-**Prasmes**: Izvairīšanās, Slēpšanās, Klausīšanās, Pamanīšana, Maskēšanās, un piecas no šīm, kā piemērots videi: Kautiņš, Maskēšanās (Disguise), Braukšana, Elektronika, Satveršana, Šaujamierocis (jebkurš), Smalka manipulācija, Cīņas mākslas, Tuvcīņas ierocis (jebkurš), Mestais ierocis (jebkurš), Jāšana, Mešana, Izsekošana.
+**Prasmes**: Izvairīšanās, Slēpšanās, Klausīšanās, Novērošana, Maskēšanās un piecas no šīm, atbilstoši videi: Kautiņš, Maskēšanās (cilvēks), Braukšana, Elektronika, Satveršana, Šaujamierocis (jebkurš), Smalkā manipulācija, Cīņas mākslas, Tuvcīņas ierocis (jebkurš), Tālšaušanas ierocis (jebkurš), Jāšana, Mešana, Pēdošana.
 
-#### Atlēts (Athlete)
+#### Sportists
 
-Neatkarīgi no tā, vai profesionāls vai amatieris, valsts atbalstīts vai joprojām skolā, jūs izceļaties sporta vai vingrošanas stilā, slīpējot ķermeni un apņemšanos solo vai komandu sporta sacensībām.
+Neatkarīgi no tā, vai esat profesionālis vai amatieris, valsts atbalstīts vai vēl skolas solā, jūs izcelsities sporta vai vingrojumu stilā, slīpējot savu ķermeni un apņēmību individuālām vai komandas sporta sacensībām.
 
-**Bagātība:** Nabags līdz Bagāts, parasti Viduvējs vai Turīgs.
+**Bagātība:** No Nabadzīgs līdz Bagāts, parasti Vidējs vai Pārticis.
 
-**Prasmes:** Kāpšana, Izvairīšanās, Lēkšana, Maskēšanās, Mešana un izvēlieties piecas no šīm, kā piemērots videi un sportam: Kautiņš, Pirmā palīdzība, Satveršana, Ieskats, Klausīšanās, Cīņas mākslas, Pamanīšana, Jāšana, Peldēšana.
+**Prasmes:** Kāpšana, Izvairīšanās, Lēkšana, Maskēšanās, Mešana un izvēlieties piecas no šīm, atbilstoši videi un sporta veidam: Kautiņš, Pirmā palīdzība, Satveršana, Ieskats, Klausīšanās, Cīņas mākslas, Novērošana, Jāšana, Peldēšana.
 
-#### Ubags (Beggar)
+#### Ubags
 
-Jūs izdzīvojat, ubagojot naudu, pārtiku un citas nepieciešamības. Jūs varat sevi dēvēt par bezpajumtnieku vai klejojošu vagabundu. Varbūt jums bija neveiksmes sērija, esat no diskriminētas grupas, jums ir noziedzīga pagātne, no kuras nevarat aizbēgt, vai neprāts vai vielu atkarība noveda jūs šādā stāvoklī.
+Jūs izdzīvojat, ubagojot naudu, ēdienu un citas nepieciešamības. Jūs varat sevi dēvēt par bezpajumtnieku vai klejojošu vagabundu. Varbūt jums bija neveiksmju sērija, esat no diskriminētas grupas, jums ir noziedzīga pagātne, no kuras nevarat aizbēgt, vai vājprāts vai vielu atkarība noveda jūs šādā stāvoklī.
 
-**Bagātība:** Trūcīgs, lai gan daži ubagi patiesībā ir Nabagi un tikai izliekas par sliktākā stāvoklī esošiem.
+**Bagātība:** Trūcīgs, lai gan daži ubagi patiesībā ir Nabadzīgi un tikai izliekas, ka viņiem klājas sliktāk.
 
-**Prasmes:** Kaulēšanās, Ātrruna, Slēpšanās, Ieskats, Zināšanas (Reģions: vietējā teritorija), Klausīšanās, Pārliecināšana, Veiklība (Sleight of Hand), Pamanīšana, Maskēšanās.
+**Prasmes:** Kaulēšanās, Ātrruna, Slēpšanās, Ieskats, Zināšanas (reģions: vietējais apgabals), Klausīšanās, Pārliecināšana, Veiklība, Novērošana, Maskēšanās.
 
-#### Klerks (Clerk)
+#### Klerks
 
-Jūs pavadāt savas dienas pie rakstāmgalda, parasti strādājot kādā finanšu jomā. Šī profesija varētu būt tāda, kurā darāt darījumus ar klientiem, piemēram, grāmatvedis vai algots darbinieks uzņēmumā, valdībā vai citā organizācijā.
+Jūs pavadāt savas dienas pie rakstāmgalda, parasti strādājot finanšu jomā. Šī profesija varētu būt tāda, kurā jūs strādājat ar klientiem, piemēram, grāmatvedis vai algots darbinieks uzņēmumā, valdībā vai citā organizācijā.
 
-**Bagātība:** Viduvējs.
+**Bagātība:** Vidējs.
 
-**Prasmes:** Kaulēšanās, Etiķete, Zināšanas (Grāmatvedība), Zināšanas (Likums), viena cita zināšanu prasme, Dzimtā valoda, Pārliecināšana, Izpēte, Statuss, un vai nu tehniskā prasme (Datoru lietošana) vai Pratība, kā piemērots laikmetam.
+**Prasmes:** Kaulēšanās, Etiķete, Zināšanas (grāmatvedība), Zināšanas (tiesības), viena cita Zināšanu prasme, Valoda (dzimtā), Pārliecināšana, Pētniecība, Statuss un vai nu Tehniskā prasme (datorlietošana) vai Lasītprasme, atbilstoši laikmetam.#### Datoru tehnoloģijas speciālists
 
-#### Datoru tehniķis (Computer Tech)
+Tu vari būt korporatīvs programmatūras inženieris vai nelegāls hakeris. Alternatīvi, tu vari strādāt kādā no daudzajām programmatūras izstrādes jomām. Liela daļa tavas dzīves paiet, strādājot pie datora, bieži vien esot pieslēgtam pasaules informācijas tīklam. Koda rindas, dati un citi virtuālie aktīvi tev ir tikpat reāli kā citu amatu meistaru darbarīki un materiāli.
 
-Jūs varat būt korporatīvs programmatūras inženieris vai nelikumīgs hakeris. Alternatīvi, jūs varētu strādāt kādā no daudzajām programmatūras izstrādes jomām. Lielu daļu dzīves pavadāt, saskaroties ar datoru, bieži pieslēgtu pasaules informācijas tīklam. Koda rindas, dati un citi virtuāli aktīvi jums ir tikpat reāli kā citu amatnieku rīki un materiāli.
+**Bagātība:** Vidēja līdz turīga.
 
-**Bagātība:** Viduvējs līdz Turīgs.
+**Prasmes:** Amatniecība (datoru aparatūra vai kods), viena zināšanu prasme, valoda (cita) (programmēšanas valoda), remonts (elektriskais), remonts (elektronika), pētniecība, zinātne (matemātika), statuss, tehniskā prasme (datorlietošana), un izvēlies vienu no šīm prasmēm kā specializāciju atbilstoši videi: grāmatvedība, slēpšanās, zināšanas (tieslietas).
 
-**Prasmes:** Amats (Datoru aparatūra vai kods), viena zināšanu prasme, Svešvaloda (programmēšanas valoda), Remonts (Elektriskais), Remonts (Elektroniskais), Izpēte, Zinātne (Matemātika), Statuss, Tehniskā (Datoru lietošana), un izvēlieties vienu no sekojošām prasmēm kā specialitāti, kā piemērots videi: Grāmatvedība, Slēpšanās, Zināšanas (Likums).
+#### Amatnieks
 
-#### Amatnieks (Crafter)
+Neatkarīgi no tā, vai esi ciema kalējs, stikla pūtējs vai smalki noregulētu pulksteņu izgatavotājs, tu ar rokām izgatavo preces un pārdod tās ieinteresētiem pircējiem. Parasti tu strādā darbnīcā, neatkarīgi no tā, vai tev tā pieder, vai tu tur tikai strādā algotu darbu.
 
-Neatkarīgi no tā, vai ciemata kalējs, stikla pūtējs vai smalki noregulētu pulksteņu izgatavotājs, jūs izgatavojat tirdzniecības preces ar rokām un pārdodat tās ieinteresētiem pircējiem. Jūs parasti strādājat veikalā, neatkarīgi no tā, vai tas pieder jums vai esat tur tikai algots.
+**Bagātība:** Trūcīga līdz turīga, parasti vidēja.
 
-**Bagātība:** Nabags līdz Turīgs, parasti Viduvējs.
+**Prasmes:** Novērtēšana, jebkura viena mākslas prasme, kaulēšanās, jebkuras divas amatniecības prasmes, pamanīšana, pētniecība, statuss, un izvēlies divas no šīm prasmēm atbilstoši videi un amatam: smalkā manipulācija, remonts (elektriskais), remonts (elektronika), remonts (mehāniskais), smagā tehnika.
 
-**Prasmes:** Novērtēšana, jebkura viena māksla, Kaulēšanās, jebkuras divas amatu prasmes, Pamanīšana, Izpēte, Statuss, un izvēlieties divas no sekojošām, kā piemērots videi un tirdzniecībai: Smalka manipulācija, Remonts (Elektriskais), Remonts (Elektroniskais), Remonts (Mehāniskais), Smagā tehnika.
+#### Noziedznieks
 
-#### Noziedznieks (Criminal)
+Tu ej cauri pasaulei, pārkāpjot likumu, neatkarīgi no tā, vai tā ir laupīšana ar spēku, organizētā noziedzība, kabatas zādzības vai citi līdzekļi, lai nelegāli iegūtu vērtslietas vai naudu.
 
-Jūs izsitāt savu ceļu cauri pasaulei, pārkāpjot likumu, neatkarīgi no tā, vai ar spēka zādzību, organizēto noziedzību, kabatas zagšanu vai citiem veidiem, kā nelikumīgi iegūt vērtslietas vai naudu.
+**Bagātība:** Trūcīga līdz turīga, dažreiz bagāta, parasti vidēja.
 
-**Bagātība:** Nabags līdz Turīgs, dažreiz Bagāts, parasti Viduvējs.
+**Prasmes:** Kaulēšanās, slēpšanās, maskēšanās, braukšana vai jāšana, un izvēlies jebkuras sešas no šīm prasmēm atbilstoši videi un noziedzīgajai darbībai: novērtēšana, kautiņš, kāpšana, ātrrunāšana, smalkā manipulācija, šaujamierocis (jebkurš), azartspēles, cīņa (tvērieni), ieskats, lēkšana, zināšanas (tieslietas), klausīšanās, cīņas mākslas, tuvcīņas ierocis (jebkurš, parasti naži vai vicas), pārliecināšana, pamanīšana, mešana.
 
-**Prasmes:** Kaulēšanās, Slēpšanās, Maskēšanās, Braukšana vai Jāšana, un izvēlieties jebkuras sešas no sekojošām, kā piemērots videi un reketam: Novērtēšana, Kautiņš, Kāpšana, Ātrruna, Smalka manipulācija, Šaujamierocis (jebkurš), Spēles (Gaming), Satveršana, Ieskats, Lēkšana, Zināšanas (Likums), Klausīšanās, Cīņas mākslas, Tuvcīņas ierocis (jebkurš, parasti naži vai nūjas), Pārliecināšana, Pamanīšana, Mešana.
+#### Detektīvs
 
-#### Detektīvs (Detective)
+Neatkarīgi no tā, vai strādā policijā vai privāti, tu izmanto novērošanas, dedukcijas un kriminoloģijas prasmes, lai noteiktu, kas ir izdarījis noziegumus. Tev var būt plašs kriminālistikas un zinātnisko prasmju klāsts vai arī tu vari paļauties uz intuīciju.
 
-Neatkarīgi no tā, vai esat nodarbināts policijā vai strādājat privāti, jūs izmantojat novērošanas, dedukcijas un kriminoloģijas prasmes, lai noteiktu, kurš ir pastrādājis noziegumus. Jums var būt plašs tiesu medicīnas un zinātnisko prasmju klāsts vai darboties pēc intuīcijas.
+**Bagātība:** Vidēja vai turīga.
 
-**Bagātība:** Viduvējs vai Turīgs.
+**Prasmes:** Šaujamierocis (pistole), zināšanas (tieslietas), klausīšanās, pārliecināšana, pamanīšana, pētniecība, un izvēlies četras no šīm prasmēm atbilstoši videi un koncepcijai: māksla, kautiņš, maskēšanās, izvairīšanās, braukšana, ātrrunāšana, šaujamierocis (jebkurš), cīņa (tvērieni), slēpšanās, ieskats, zināšanas (jebkuras), valoda (cita), valoda (paša), medicīna, jāšana, zinātne (jebkura), tehniskā prasme (datorlietošana), maskēšanās, pēdu dzīšana.
 
-**Prasmes:** Šaujamierocis (Rokas ierocis), Zināšanas (Likums), Klausīšanās, Pārliecināšana, Pamanīšana, Izpēte, un izvēlieties četras no sekojošām, kā piemērots videi un koncepcijai: Māksla, Kautiņš, Maskēšanās (Disguise), Izvairīšanās, Braukšana, Ātrruna, Šaujamierocis (jebkurš), Satveršana, Slēpšanās, Ieskats, Zināšanas (jebkurš), Svešvaloda, Dzimtā valoda, Medicīna, Jāšana, Zinātne (jebkurš), Tehniskā (Datoru lietošana), Maskēšanās, Izsekošana.
+#### Ārsts
 
-#### Ārsts (Doctor)
+Tava sūtība ir ārstēt ievainotos, vājos, slimos un citādi neveselos, izmantojot diagnostikas prasmes un medicīnas praksi, kas iegūta padziļinātās apmācībās un studijās. Iespējams, esi devis zvērestu palīdzēt ikvienam, kam tas nepieciešams, neatkarīgi no tā, ko viņi ir darījuši vai kas viņi ir.
 
-Esat izvēlējies ārstēt ievainotos, vājos, slimos un citādi neveselīgos, izmantojot diagnostikas prasmes un medicīnisko praksi, kas iegūta caur plašiem treniņiem un studijām. Iespējams, esat devis zvērestu palīdzēt ikvienam, kam tas nepieciešams, neatkarīgi no tā, ko viņi ir darījuši vai kas viņi ir.
+**Bagātība:** Vidēja līdz turīga.
 
-**Bagātība:** Viduvējs līdz Turīgs.
+**Prasmes:** Pirmā palīdzība, valoda (paša), medicīna, pārliecināšana, pētniecība, pamanīšana, un izvēlies četras no šīm prasmēm atbilstoši videi: ieskats, valoda (cita), psihoterapija, zinātne (jebkura), statuss.
 
-**Prasmes:** Pirmā palīdzība, Dzimtā valoda, Medicīna, Pārliecināšana, Izpēte, Pamanīšana, un izvēlieties četras no sekojošām, kā piemērots videi: Ieskats, Svešvaloda, Psihoterapija, Zinātne (jebkurš), Statuss.
+#### Inženieris
 
-#### Inženieris (Engineer)
+Tu būvē, remontē vai apkop mašīnas, strādā būvniecībā vai esi mehāniķis, kas darbojas ar konkrētajam laikmetam un videi atbilstošām tehnoloģijām, sākot no vienkāršas akmens arhitektūras līdz augsti attīstītām kosmosa kuģu dzinējsistēmām. Daži inženieri apkopj un vada lielus un sarežģītus transportlīdzekļus, sākot no burukuģiem līdz pat kosmosa kreiseriem, kamēr citi nodarbojas ar aplenkuma mašīnu vai arhitektūras struktūru izveidi un uzturēšanu.
 
-Jūs būvējat, remontējat vai uzturat iekārtas, strādājat celtniecībā vai esat mehāniķis, kas nodarbojas ar tehnoloģijām, kas atbilst jūsu laikmetam un videi, sākot no vienkāršas akmens arhitektūras līdz augsti attīstītām kosmosa kuģu piedziņas sistēmām. Daži inženieri uztur un vada lielu un sarežģītu transportlīdzekli, sākot no burukuģa līdz kosmosa kreiserim, kamēr citi ir nodarbināti aplenkuma iekārtu vai arhitektūras struktūru izveidē un uzturēšanā.
+**Bagātība:** Trūcīga līdz turīga, parasti vidēja.
 
-**Bagātība:** Nabags līdz Turīgs, parasti Viduvējs.
+**Prasmes:** Amatniecība (jebkura), remonts (mehāniskais), remonts (strukturālais), pamanīšana, statuss, un piecas no šīm prasmēm atbilstoši videi un koncepcijai: māksla (parasti rasēšana), braukšana, smagā tehnika, zināšanas (jebkuras), pilotēšana (jebkura), remonts (elektriskais), remonts (elektronika), zinātne (jebkura) vai tehniskā prasme (datorlietošana).
 
-**Prasmes:** Amats (jebkurš), Remonts (Mehāniskais), Remonts (Strukturālais), Pamanīšana, Statuss, un piecas no sekojošām, kā piemērots videi un koncepcijai: Māksla (parasti rasēšana), Braukšana, Smagā tehnika, Zināšanas (jebkurš), Pilotešana (jebkurš), Remonts (Elektriskais), Remonts (Elektroniskais), Zinātne (jebkurš) vai Tehniskā (Datoru lietošana).
+#### Izpildītājs (Izklaidētājs)
 
-#### Izklaidētājs (Entertainer)
+Tu izmanto savu uzstāšanās talantu, lai izklaidētu dažāda lieluma auditorijas — improvizējot vai pēc scenārija, klātienē vai ar apraides un ierakstu starpniecību.
 
-Jūs izmantojat savu uzstāšanās talantu, lai izklaidētu jebkura izmēra auditoriju, improvizētu vai scenārija vadītu, klātienē vai caur apraides pārraidi vai iepriekš ierakstītu izplatīšanu.
+**Bagātība:** Nabadzīga līdz bagāta, parasti vidēja.
 
-**Bagātība:** Trūcīgs līdz Bagāts, parasti Viduvējs.
+**Prasmes:** Māksla (jebkura), maskēšanās, ātrrunāšana, smalkā manipulācija, ieskats, valoda (cita), valoda (paša), klausīšanās, uzstāšanās (jebkura), pārliecināšana.
 
-**Prasmes:** Māksla (jebkura), Maskēšanās (Disguise), Ātrruna, Smalka manipulācija, Ieskats, Svešvaloda, Dzimtā valoda, Klausīšanās, Uzstāšanās (jebkura), Pārliecināšana.
+#### Pētnieks (Ceļotājs)
 
-#### Pētnieks (Explorer)
+Par savas dzīves darbu esi izvirzījis mērķi atrast nezināmus pasaules nostūrus, doties tur, kur neviens nav spēris kāju, un atvest atpakaļ zināšanas par to, ko esi atradis — vai nu slavas, vai atklājumu vārdā.
 
-Jūs esat padarījis par savu dzīves darbu nezināmo pasaules stūru meklēšanu, došanos tur, kur neviens iepriekš nav gājis, un zināšanu atnešanu par to, ko esat atraduši, vai nu godkārē vai atklājumu vārdā.
+**Bagātība:** Turīga vai bagāta.
 
-**Bagātība:** Turīgs vai Bagāts.
+**Prasmes:** Kāpšana, valoda (cita), valoda (paša), pārliecināšana, pētniecība, pamanīšana, un četras no šīm prasmēm atbilstoši videi: zināšanas (antropoloģija, grupa, vēsture, dabiskā pasaule vai reģions), braukšana, ātrrunāšana, šaujamierocis (pistole, revolveris vai šautene), navigācija, pilotēšana (lidaparāts vai laiva), jāšana, zinātne (ģeoloģija), peldēšana, pēdu dzīšana.
 
-**Prasmes:** Kāpšana, Svešvaloda, Dzimtā valoda, Pārliecināšana, Izpēte, Pamanīšana, un četras no sekojošām, kā piemērots videi: Zināšanas (Antropoloģija, Grupa, Vēsture, Dabas pasaule vai Reģions), Braukšana, Ātrruna, Šaujamierocis (Pistole, Revolveris vai Šautene), Navigācija, Pilotešana (Lidmašīna vai Laiva), Jāšana, Zinātne (Ģeoloģija), Peldēšana, Izsekošana.
+#### Zemnieks
 
-#### Zemnieks (Farmer)
+Kā zemnieks tu dzīvo lauku apvidū vai tikko iekoptā teritorijā, iegūstot iztiku no zemes, audzējot kultūraugus vai kopjot lopu ganāmpulkus. Tā ir smaga dzīve ar garām dienām un grūtu darbu, bet tomēr gandarījuma pilna.
 
-Kā zemnieks jūs dzīvojat lauku vai tik tikko pieradinātā teritorijā, izvilinot iztiku no zemes, audzējot kultūras vai kopjot dzīvnieku ganāmpulkus. Tā ir smaga dzīve ar garām back-breaking darba dienām, bet tomēr apmierinoša.
+**Bagātība:** Trūcīga līdz turīga, parasti vidēja.
 
-**Bagātība:** Nabags līdz Turīgs, parasti Viduvējs.
+**Prasmes:** Kaulēšanās, amatniecība (jebkura), zināšanas (dabas vēsture), klausīšanās, pamanīšana, un piecas no šīm prasmēm atbilstoši videi un koncepcijai: kautiņš, braukšana, šaujamierocis (šautene vai bise), pirmā palīdzība, smagā tehnika, zināšanas (dabiskā pasaule), remonts (mehāniskais), jāšana, zinātne (bioloģija, botānika vai ģeoloģija), pēdu dzīšana.
 
-**Prasmes:** Kaulēšanās, Amats (jebkurš), Zināšanas (Dabas vēsture), Klausīšanās, Pamanīšana, un piecas no sekojošām, kā piemērots videi un koncepcijai: Kautiņš, Braukšana, Šaujamierocis (Šautene vai Bise), Pirmā palīdzība, Smagā tehnika, Zināšanas (Dabas pasaule), Remonts (Mehāniskais), Jāšana, Zinātne (Bioloģija, Botānika vai Ģeoloģija), Izsekošana.
+#### Azartspēlmanis
 
-#### Spēlmanis (Gambler)
+Tu izdzīvo, pateicoties nejaušībai vai piemānot likteni azartspēlēs un prasmju spēlēs. Tev neizbēgami jāceļo; klīstot no vienas azartspēļu vietas uz otru, dažreiz vienu soli priekšā likumam, cerot, ka veiksme tevi nepametīs.
 
-Jūs izdzīvojat pēc nejaušības iegribas, vai krāpjot likteni spēlēs ar veiksmi un prasmēm. Nenovēršami, jūs ceļojat apkārt; klīstot no vienas azartspēļu arēnas uz citu, dažreiz soli priekšā likumam, cerot, ka jūsu veiksme neizsīks.
+**Bagātība:** Trūcīga līdz turīga, parasti vidēja.
 
-**Bagātība:** Nabags līdz Turīgs, parasti Viduvējs.
+**Prasmes:** Kaulēšanās, kautiņš, izvairīšanās, ātrrunāšana, azartspēles, ieskats, zināšanas (grāmatvedība), pārliecināšana, veiklība (roku veiklība), pamanīšana.
 
-**Prasmes:** Kaulēšanās, Kautiņš, Izvairīšanās, Ātrruna, Spēles (Gaming), Ieskats, Zināšanas (Grāmatvedība), Pārliecināšana, Veiklība (Sleight of Hand), Pamanīšana.
+#### Ganiņš
 
-#### Gani (Herder)
+Tu pelni iztiku, pieskatot ganāmpulkus, jāšot pa plašām ganībām un rūpējoties par lopiem, meklējot noklīdušos un nogādājot tos tirgū, kad pienācis laiks tos pārdot.
 
-Jūs pelnāt iztiku, kopjot ganāmpulku dzīvniekus, jāšanas atklātā laukā un rūpējoties par ganāmpulkiem, meklējot nomaldījušos un nogādājot tos tirgū, kad pienācis laiks pārdot.
+**Bagātība:** Trūcīga līdz vidēja, dažreiz turīga.
 
-**Bagātība:** Nabags līdz Viduvējs, reizēm Turīgs.
+**Prasmes:** Amatniecība (parasti mezgli), šaujamierocis (šautene), zināšanas (dabiskā pasaule), zināšanas (reģions: ganības), klausīšanās, navigācija, jāšana, pamanīšana, mešana, pēdu dzīšana.
 
-**Prasmes:** Amats (parasti mezgli), Šaujamierocis (Šautene), Zināšanas (Dabas pasaule), Zināšanas (Reģions: Ganības), Klausīšanās, Navigācija, Jāšana, Pamanīšana, Mešana, Izsekošana.
+#### Mednieks
 
-#### Mednieks (Hunter)
+Neatkarīgi no tā, vai tas ir izdzīvošanas vai medību aizraušanās dēļ, tu specializējies savvaļas dzīvnieku vai citu būtņu izsekošanā un slazdošanā vai nogalināšanā.
 
-Neatkarīgi no tā, vai izdzīvošanai vai medību aizrautībai, jūs specializējaties savvaļas dzīvnieku vai citu būtņu izsekošanā un vai nu slazdošanā vai nogalināšanā.
+**Bagātība:** Trūcīga vai vidēja, ja vien neesi lielo medījumu vai sporta mednieks, tad bagāta.
 
-**Bagātība:** Nabags vai Viduvējs, ja vien neesat lielo dzīvnieku vai sporta mednieks, tad Bagāts.
+**Prasmes:** Kāpšana, slēpšanās, klausīšanās, navigācija, pamanīšana, maskēšanās, pēdu dzīšana, un trīs no šīm prasmēm atbilstoši videi un koncepcijai: šaujamierocis (šautene vai bise), zināšanas (dabiskā pasaule vai reģions), valoda (cita), tuvcīņas ierocis (parasti šķēps), metami ieroci (jebkuri), jāšana.
 
-**Prasmes:** Kāpšana, Slēpšanās, Klausīšanās, Navigācija, Pamanīšana, Maskēšanās, Izsekošana, un trīs no sekojošām, kā piemērots videi un koncepcijai: Šaujamierocis (Šautene vai Bise), Zināšanas (Dabas pasaule vai Reģions), Svešvaloda, Tuvcīņas ierocis (parasti šķēps), Mestais ierocis (jebkurš), Jāšana.
+#### Žurnālists
 
-#### Žurnālists (Journalist)
+Neatkarīgi no tā, vai esi iknedēļas avīzes žurnālists, interneta žurnālists, fotožurnālists, televīzijas diktors vai reportieris, tu pelni iztiku, atspoguļojot un analizējot notikumus, lai tos pārraidītu vai izplatītu kādā citā veidā. Tas var nākt kopā ar zināmu slavu vai bēdīgu slavu.
 
-Neatkarīgi no tā, vai esat iknedēļas laikraksta sleju autors, interneta žurnālists, fotožurnālists, televīzijas diktors vai gonzo komentētājs, jūs pelnāt iztiku no notikumu atspoguļojuma un analīzes, ko pārraidīt vai izplatīt citā medijā. Tas var nākt ar zināmu slavu vai bēdīgu slavu.
+**Bagātība:** Vidēja līdz turīga.
 
-**Bagātība:** Viduvējs līdz Turīgs.
+**Prasmes:** Ātrrunāšana, ieskats, valoda (paša), klausīšanās, pārliecināšana, pētniecība, pamanīšana, un trīs no šīm prasmēm atbilstoši videi un koncepcijai: māksla (fotogrāfija), amatniecība (fotogrāfija), maskēšanās, slēpšanās, zināšanas (jebkuras), valoda (cita), statuss, maskēšanās, tehniskā prasme (datorlietošana).
 
-**Prasmes:** Ātrruna, Ieskats, Dzimtā valoda, Klausīšanās, Pārliecināšana, Izpēte, Pamanīšana, un trīs no sekojošām, kā piemērots videi un koncepcijai: Māksla (Fotogrāfija), Amats (Fotogrāfija), Maskēšanās (Disguise), Slēpšanās, Zināšanas (jebkurš), Svešvaloda, Statuss, Maskēšanās, Tehniskā (Datoru lietošana).
+#### Strādnieks
 
-#### Strādnieks (Laborer)
+Tu esi zilo apkaklīšu strādnieks — ražošanas līnijā, noliktavā vai vienkārši veic smagu fizisku darbu. Tavi muskuļi un spēja veikt vienveidīgus uzdevumus ir svarīgāki par jebkādām intelektuālajām spējām.
 
-Jūs esat "zilās apkaklītes" darbinieks, neatkarīgi no tā, vai rūpnīcas līnijā, noliktavā vai vienkāršā smagā darbā. Jūsu muskuļi un spēja veikt atkārtotus uzdevumus ir svarīgāki par jebkuru smadzeņu spēku, ko varat savākt.
+**Bagātība:** Trūcīga vai vidēja.
 
-**Bagātība:** Nabags vai Viduvējs.
+**Prasmes:** Kāpšana, amatniecība (jebkura), braukšana, kautiņš, cīņa (tvērieni), smagā tehnika, un četras citas pēc izvēles atbilstoši videi: novērtēšana, smalkā manipulācija, valoda (cita), rakstītprasme, remonts (mehāniskais), remonts (strukturālais), tehniskā prasme (datorlietošana).
 
-**Prasmes:** Kāpšana, Amats (jebkurš), Braukšana, Kautiņš, Satveršana, Smagā tehnika, un četras citas, kā piemērots videi: Novērtēšana, Smalka manipulācija, Svešvaloda, Pratība, Remonts (Mehāniskais), Remonts (Strukturālais), Tehniskā (Datoru lietošana).
+#### Likuma sargs
 
-#### Likuma sargs (Lawkeeper)
+Tev ir pilnvaras un jurisdikcija uzturēt un aizstāvēt likumu, ideālā gadījumā – parasto iedzīvotāju aizsardzībai. Likumu un tiesību aktu izpildi atbalsta tavas kopienas varas struktūra.
 
-Jums ir autoritāte un jurisdikcija uzturēt un aizstāvēt likumu, ideālā gadījumā kopienas cilvēku aizstāvībai. Jūsu likuma un tiesību kodeksa izpildi atbalsta spēka struktūra jūsu kopienā.
+**Bagātība:** Parasti vidēja. Korumpēti likuma sargi dažreiz ir turīgi.
 
-**Bagātība:** Parasti Viduvējs. Korumpēti likuma sargi dažreiz ir Turīgi.
+**Prasmes:** Kautiņš, izvairīšanās, ātrrunāšana, zināšanas (tieslietas), klausīšanās, pamanīšana, un četras no šīm prasmēm atbilstoši videi un koncepcijai: braukšana, šaujamieroči (jebkuri), pirmā palīdzība, cīņa (tvērieni), ieskats, zināšanas (reģions vai grupa), valoda (cita), cīņas mākslas, tuvcīņas ierocis (jebkurš), metami ieroci (jebkuri), pilotēšana (jebkura), jāšana, statuss, tehniskā prasme (datorlietošana), pēdu dzīšana.
 
-**Prasmes:** Kautiņš, Izvairīšanās, Ātrruna, Zināšanas (Likums), Klausīšanās, Pamanīšana, un četras no sekojošām, kā piemērots videi un koncepcijai: Braukšana, Šaujamieroči (jebkurš), Pirmā palīdzība, Satveršana, Ieskats, Zināšanas (Reģions vai Grupa), Svešvaloda, Cīņas mākslas, Tuvcīņas ierocis (jebkurš), Mestais ierocis (jebkurš), Pilotešana (jebkurš), Jāšana, Statuss, Tehniskā (Datoru lietošana), Izsekošana.
+#### Advokāts
 
-#### Advokāts (Lawyer)
+Tu esi apmācīts tieslietās un izmanto tiesību sistēmu, lai apsūdzētu vai aizstāvētu, vai arī pārstāvi indivīdu, organizāciju vai valdību juridiskās intereses. Lai gan tev nav augstākas varas par parastu pilsoni, tavas padziļinātās zināšanas par tiesību sistēmu sniedz tev ievērojamu ietekmi tās ietvaros.
 
-Jūs esat apmācīts tieslietās un izmantojat tiesu sistēmu, lai apsūdzētu vai aizstāvētu, vai pārstāvētu indivīdu, organizāciju vai valdību tiesiskās intereses. Lai gan jums nav autoritātes virs vai ārpus parasta pilsoņa, jūsu iekšējās zināšanas par tiesu sistēmu dod jums ievērojamu varu tās ietvaros.
+**Bagātība:** Nabadzīga, trūcīga, vidēja, turīga, bagāta.
 
-**Bagātība:** Trūcīgs, Nabags, Viduvējs, Turīgs, Bagāts.
+**Prasmes:** Kaulēšanās, ātrrunāšana, ieskats, zināšanas (tieslietas), vēl viena zināšanu prasme, valoda (paša), uzstāšanās (oratorija), pārliecināšana, pētniecība, statuss.
 
-**Prasmes:** Kaulēšanās, Ātrruna, Ieskats, Zināšanas (Likums), viena cita zināšanu prasme, Dzimtā valoda, Uzstāšanās (Oratora prasmes), Pārliecināšana, Izpēte, Statuss.
+#### Mehāniķis
 
-#### Mehāniķis (Mechanic)
+Tu esi tehnikas pārzinātājs, kurš pavada laiku, uzturot, remontējot un dažreiz būvējot mašīnas, transportlīdzekļus vai sarežģītākas konstrukcijas. Tu labi rīkojies ar instrumentiem un spēj viegli atšifrēt tehniskas problēmas vai kļūmes.
 
-Tauķis, jūs pavadāt laiku uzturot, remontējot un dažreiz būvējot iekārtas, transportlīdzekļus vai sarežģītākas konstrukcijas. Jūs protat rīkoties ar rīkiem un spējat viegli atšifrēt tehniskas problēmas vai jautājumus.
+**Bagātība:** Trūcīga līdz vidēja, parasti vidēja.
 
-**Bagātība:** Nabags līdz Viduvējs, parasti Viduvējs.
+**Prasmes:** Kaulēšanās, amatniecība (metālapstrāde), braukšana, smalkā manipulācija, smagā tehnika, remonts (elektriskais), remonts (elektronika), remonts (mehāniskais), remonts (strukturālais), pamanīšana.
 
-**Prasmes:** Kaulēšanās, Amats (Metālapstrāde), Braukšana, Smalka manipulācija, Smagā tehnika, Remonts (Elektriskais), Remonts (Elektroniskais), Remonts (Mehāniskais), Remonts (Strukturālais), Pamanīšana.
+#### Tirgotājs
 
-#### Tirgotājs (Merchant)
+Tu pelni iztiku mazumtirdzniecībā vai vairumtirdzniecībā, iepērkot resursus lētāk un pārdodot dārgāk. Tu vari strādāt veikalā vai tam piederēt, vai arī vari būt mobils: ceļojošais pārdevējs, klīstošais labotājs, piedzīvojumus meklējošs garšvielu tirgotājs vai starptautiskais tirdzniecības pārstāvis.
 
-Jūs pelnāt iztiku mazumtirdzniecībā vai vairumtirdzniecībā, pērkot resursus lētāk un pārdodot dārgāk. Jūs varētu strādāt vai piederēt veikals, vai arī varētu būt mobils: ceļojošais pārdevējs, klīstošais skārdnieks, piedzīvojumus meklējošais garšvielu tirgotājs vai starptautiskais tirdzniecības pārstāvis.
+**Bagātība:** Vidēja līdz bagāta, parasti turīga. Tava spēles vadītājam un spēlētājam vajadzētu noteikt, vai tēlam pieder savs veikals vai tirdzniecības kuģis.
 
-**Bagātība:** Viduvējs līdz Bagāts, parasti Turīgs. Jūsu spēles vadītājam un spēlētājam jāizlemj, vai tēlam pieder savs veikals vai tirdzniecības kuģis.
+**Prasmes:** Novērtēšana, kaulēšanās, ātrrunāšana, zināšanas (grāmatvedība), zināšanas (bizness), pārliecināšana, pētniecība, statuss, un jebkuras divas citas prasmes kā specializācijas, atbilstoši videi un koncepcijai.
 
-**Prasmes:** Novērtēšana, Kaulēšanās, Ātrruna, Zināšanas (Grāmatvedība), Zināšanas (Bizness), Pārliecināšana, Izpēte, Statuss, un jebkuras divas citas prasmes kā specialitātes, kā piemērots videi un koncepcijai.
+#### Aristokrāts
 
-#### Dižciltīgais (Noble)
+Tu esi piedzimis bagātībā un valdošajā šķirā. Sabiedrībā, kas atzīst šādas sociālās atšķirības, tavs statuss bieži tiek saistīts ar rangiem un tituliem, bet pat ja šādi tituli ir bezjēdzīgi, tu joprojām esi viegli atpazīstams kā piederīgs elitei. Tu esi pieradis pie eleganta un ekstravaganta dzīvesveida, un tu pazīsti un esi pazīstams bagātniekiem un citiem sabiedrības augstmaņiem.
 
-Jūs esat dzimis bagātībā un valdošajā šķirā. Sabiedrībā, kas atzīst šādas sociālās atšķirības, jūsu statuss bieži ir saistīts ar rangiem un tituliem, bet pat ja šādi tituli ir bezjēdzīgi, jūs joprojām esat viegli atpazīstams kā daļa no elites. Jūs esat pieradis pie eleganta un ekstravaganta dzīvesveida, un jūs pazīstat un esat pazīstams bagātajiem un citiem sabiedrības augstmaņiem.
+**Bagātība:** Turīga līdz bagāta, parasti bagāta.
 
-**Bagātība:** Turīgs līdz Bagāts, parasti Bagāts.
+**Prasmes:** Kaulēšanās, braukšana, etiķete, valoda (paša), valoda (cita), rakstītprasme, un statuss, plus jebkuras citas trīs prasmes kā hobiji vai interešu jomas.
 
-**Prasmes:** Kaulēšanās, Braukšana, Etiķete, Dzimtā valoda, Svešvaloda, Pratība, un Statuss, plus jebkuras citas trīs prasmes kā hobiji vai interešu jomas.
+#### Okultists
 
-#### Okultists (Occultist)
+Tu esi neskaidru noslēpumu, slēpto zināšanu un maģiska spēka students, kas tic pārdabisko spēku ietekmei un prioritātei. Ja tas atbilst videi, spēles vadītājs var atļaut tev izmantot spējas (iespējams, maģiju vai burvestības), kuras, iespējams, apgūtas, būdams okultas organizācijas vai slepenas biedrības biedrs.
 
-Jūs esat neskaidru noslēpumu, slēptu zināšanu un maģiska spēka students, ticot pārdabisko spēku ietekmei un prioritātei. Ja tas ir piemērots videi, jūsu spēles vadītājs var atļaut jums izmantot spējas (iespējams, maģiju vai burvību), iespējams, studētas, būdams okultas organizācijas vai slepenas biedrības biedrs.
+**Bagātība:** Trūcīga līdz bagāta, parasti turīga.
 
-**Bagātība:** Nabags līdz Bagāts, parasti Turīgs.
+**Prasmes:** Ātrrunāšana, ieskats, zināšanas (antropoloģija), zināšanas (vēsture), zināšanas (okultisms), valoda (cita), valoda (paša), pētniecība, un jebkuras divas citas prasmes atbilstoši videi, parasti no šīm: māksla (jebkura), amatniecība (jebkura), zināšanas (arheoloģija), medicīna, zinātne (jebkura) vai statuss.
 
-**Prasmes:** Ātrruna, Ieskats, Zināšanas (Antropoloģija), Zināšanas (Vēsture), Zināšanas (Okultisms), Svešvaloda, Dzimtā valoda, Izpēte, un jebkuras divas citas prasmes, kā piemērots videi, parasti no sekojošām: Māksla (jebkura), Amats (jebkurš), Zināšanas (Arheoloģija), Medicīna, Zinātne (jebkurš) vai Statuss.
+**Īpaši:** Ja vidē ir maģija, tev var būt maģiskas spējas. Sīkāku informāciju skatīt Četrvērtīgajā nodaļā: Spējas.
 
-**Īpaši:** Ja vidē ir klātesoša maģija, jums var būt maģiskas spējas. Skatīt *Ceturto nodaļu: Spējas* vairāk informācijas.
+#### Pilots
 
-#### Pilots (Pilot)
+Neatkarīgi no tā, vai uz sauszemes, uz ūdens vai zem tā, debesīs vai kosmosa dzīlēs, tu esi apmācīts vadīt un pilotēt kāda veida kuģi, stūrējot to komerciāliem, oficiāliem vai militāriem mērķiem. Tavs darbs svārstās no kosmosa iznīcinātāja pilota līdz tirdzniecības kuģa kapteinim, atkarībā no vides.
 
-Neatkarīgi no tā, vai uz zemes, uz vai zem ūdens, debesīs vai kosmosa dziļumos, jūs esat apmācīts vadīt un pilotēt kādu transportlīdzekli, stūrējot to komerciāliem, oficiāliem vai militāriem mērķiem. Jūsu darbs svārstās no kosmosa iznīcinātāja pilota līdz tramp-tvaikoņa kapteinim, atkarībā no vides.
+**Bagātība:** Vidēja līdz turīga. Ja tev pieder savs kuģis, tad turīga.
 
-**Bagātība:** Viduvējs līdz Turīgs. Ja jums pieder savs transportlīdzeklis, Turīgs.
+**Prasmes:** Braukšana, smagā tehnika, klausīšanās, navigācija, pilotēšana (jebkura), pamanīšana, plus jebkuras četras no šīm prasmēm atbilstoši videi: kaulēšanās, kāpšana, komandēšana, amatniecība (jebkura), zināšanas (reģions), remonts (elektriskais), remonts (elektronika), remonts (mehāniskais), valoda (cita), pārliecināšana, zinātne (fizika), zinātne (astronomija), tehniskā prasme (datorlietošana).
 
-**Prasmes:** Braukšana, Smagā tehnika, Klausīšanās, Navigācija, Pilotešana (jebkurš), Pamanīšana, plus jebkuras četras no sekojošām prasmēm, kā piemērots videi: Kaulēšanās, Kāpšana, Pavēle, Amats (jebkurš), Zināšanas (Reģions), Remonts (Elektriskais), Remonts (Elektroniskais), Remonts (Mehāniskais), Svešvaloda, Pārliecināšana, Zinātne (Fizika), Zinātne (Astronomija), Tehniskā (Datoru lietošana).
+#### Politiķis
 
-#### Politiķis (Politician)
+Tu esi ievēlēts vai iecelts amatā un pelni iztiku, piedaloties valdības darbībās vai tās vadot, neatkarīgi no tā, vai tā ir pilsētas mēroga vai plašāka pārvalde. Tu vari būt viduslaiku maģistrāts vai galaktikas senators, atkarībā no vides.
 
-Jūs esat ievēlēts vai iecelts autoritātes pozīcijā un pelnāt iztiku, piedaloties vai vadot valdības aktivitātes, neatkarīgi no tā, vai pilsētas mērogā vai lielākā. Jūs varētu būt viduslaiku maģistrāts vai galaktikas senators, atkarībā no vides.
+**Bagātība:** Turīga līdz bagāta, parasti turīga.
 
-**Bagātība:** Turīgs līdz Bagāts, parasti Turīgs.
+**Prasmes:** Kaulēšanās, etiķete, ātrrunāšana, ieskats, zināšanas (tieslietas), pārliecināšana, statuss, plus jebkuras trīs citas prasmes atbilstoši videi, parasti no šīm: zināšanas (grāmatvedība, grupa, vēsture vai reģions), klausīšanās, valoda (cita), valoda (paša), uzstāšanās (oratorija), pētniecība.
 
-**Prasmes:** Kaulēšanās, Etiķete, Ātrruna, Ieskats, Zināšanas (Likums), Pārliecināšana, Statuss, plus jebkuras trīs citas prasmes, kā piemērots videi, parasti no sekojošām: Zināšanas (Grāmatvedība, Grupa, Vēsture vai Reģions), Klausīšanās, Svešvaloda, Dzimtā valoda, Uzstāšanās (Oratora prasmes), Izpēte.
+#### Garīdznieks
 
-#### Priesteris (Priest)
+Tava ticība un pārliecība par dievišķo ir novedusi tevi pie garīdznieka aicinājuma, un tu pavadi laiku sludinot vai veicot darbības, kas atbilst tavas dievības (vai dievību) pielūgsmei. Tu vari būt askētisks mūks vai televīzijas sludinātājs, atkarībā no vides.
 
-Jūsu ticība un pārliecība par dievišķo ir novedusi jūs pie priesterības aicinājuma, un jūs pavadāt laiku sludinot vai aktivitātēs, kas atbilst jūsu dievības (vai dievību) pielūgsmei. Jūs varētu būt askētisks mūks vai televangelists, atkarībā no vides.
+**Bagātība:** Trūcīga līdz turīga, parasti vidēja, iespējams bagāta, ja esi liela ticīgo pulka reliģiskais vadītājs (pēc spēles vadītāja ieskatiem).
 
-**Bagātība:** Nabags līdz Turīgs, parasti Viduvējs, iespējams Bagāts, ja esat lielas ticīgo grupas reliģiskais līderis, pēc jūsu spēles vadītāja ieskatiem.
+**Prasmes:** Ātrrunāšana, ieskats, zināšanas (vēsture), zināšanas (filozofija), zināšanas (reliģija), valoda (paša), uzstāšanās (rituāls), pārliecināšana, un divas no šīm: zināšanas (okultisms), valoda (cita), klausīšanās, rakstītprasme, uzstāšanās (oratorija), pētniecība, statuss, mācīšana.
 
-**Prasmes:** Ātrruna, Ieskats, Zināšanas (Vēsture), Zināšanas (Filozofija), Zināšanas (Reliģija), Dzimtā valoda, Uzstāšanās (Rituāli), Pārliecināšana, un divas no sekojošām: Zināšanas (Okultisms), Svešvaloda, Klausīšanās, Pratība, Uzstāšanās (Oratora prasmes), Izpēte, Statuss, Mācīšana.
+**Īpaši:** Tava piederība ticībai vai kultam var dot tev pieeju maģiskām vai pārdabiskām spējām. Sīkāku informāciju skatīt Četrvērtīgajā nodaļā: Spējas.
 
-**Īpaši:** Jūsu piederība ticībai vai kultam var dot jums piekļuvi maģiskām vai pārdabiskām spējām. Skatīt *Ceturto nodaļu: Spējas* vairāk informācijas.
+#### Jūrnieks
 
-#### Jūrnieks (Sailor)
+Tu šķērso okeāna viļņus, smagi strādājot, lai uzturētu kuģa integritāti, neatkarīgi no tā, vai esi pirāts, flotes virsnieks vai senās pasaules tirgotājs.
 
-Jūs kuģojat pa okeāna viļņiem, strādājot smagi, lai uzturētu sava kuģa integritāti, neatkarīgi no tā, vai kā pirāts, flotes virsnieks vai senās pasaules tirgotājs.
+**Bagātība:** Trūcīga vai vidēja, parasti vidēja.
 
-**Bagātība:** Nabags vai Viduvējs, parasti Viduvējs.
+**Prasmes:** Kāpšana, amatniecība (jebkura), izvairīšanās, cīņa (tvērieni), navigācija, pilotēšana (laiva), peldēšana, un jebkuras trīs no šīm: artilērija (jebkura, parasti uz kuģa), komandēšana, valoda (cita), klausīšanās, remonts (mehāniskais), remonts (strukturālais), pamanīšana.
 
-**Prasmes:** Kāpšana, Amats (jebkurš), Izvairīšanās, Satveršana, Navigācija, Pilotešana (Laiva), Peldēšana, un jebkuras trīs no sekojošām: Artilērija (jebkura, parasti uz kuģa), Pavēle, Svešvaloda, Klausīšanās, Remonts (Mehāniskais), Remonts (Strukturālais), Pamanīšana.
+#### Zinātnieks (Šolars)
 
-#### Zinātnieks (Scholar)
+Studijas un mācīšanās definē tavu dzīvi, un tu specializējies vienā vai vairākās zināšanu jomās, dedzīgi meklējot visu, kas ir zināms tavā intelektuālajā domēnā. Tu vari mācīt šīs zināšanas studentiem vai krāt tās savai lietošanai.
 
-Studijas un mācīšanās definē jūsu dzīvi, un jūs specializējaties vienā vai vairākās zināšanu jomās, dedzīgi meklējot visu, kas zināms jūsu intelektuālajā domēnā. Jūs varētu mācīt šīs zināšanas studentiem vai uzkrāt tās savai lietošanai.
+**Bagātība:** Vidēja vai turīga, parasti vidēja.
 
-**Bagātība:** Viduvējs vai Turīgs, parasti Viduvējs.
+**Prasmes:** Valoda (cita), valoda (paša), pārliecināšana, pētniecība, mācīšana, un izvēlies piecas zināšanu vai zinātnes prasmes, kas atbilst videi un ir saistītas ar tavu studiju jomu.
 
-**Prasmes:** Svešvaloda, Dzimtā valoda, Pārliecināšana, Izpēte, Mācīšana, un izvēlieties piecas zināšanu vai zinātnes prasmes, kas atbilst videi un saistītas ar jūsu studiju jomu.
+#### Zinātnieks
 
-#### Pētnieks (Scientist)
+Neatkarīgi no tā, vai tevi nodarbina korporācija, izglītības iestāde, valdība vai strādā patstāvīgi, tu pēti kādu zinātnes jomu, izmantojot stingrus pieņēmumus, eksperimentus un novērojumus, atkārtojot procesu un pilnveidojot zināšanu bāzi.
 
-Neatkarīgi no tā, vai nodarbināts korporācijā, izglītības iestādē, valdībā vai strādājat savā nodabā, jūs izpētāt zinātnes jomu caur stingru spekulāciju, eksperimentēšanu un novērošanu, atkārtojot procesu un pilnveidojot zināšanu bāzi.
+**Bagātība:** Vidēja vai turīga, parasti turīga.
 
-**Bagātība:** Viduvējs līdz Turīgs, parasti Turīgs.
+**Prasmes:** Amatniecība (jebkura), pārliecināšana, pētniecība, statuss, tehniskā prasme (datorlietošana) vai smagā tehnika, un jebkuras piecas zināšanu vai zinātnes prasmes atbilstoši videi un tavai studiju jomai.
 
-**Prasmes:** Amats (jebkurš), Pārliecināšana, Izpēte, Statuss, Tehniskā (Datoru lietošana) vai Smagā tehnika, un jebkuras piecas zināšanas vai zinātne, kas atbilst videi un saistītas ar jūsu studiju jomu.
+#### Kalps
 
-#### Kalpotājs (Servant)
+Tu esi nodarbināts kā palīgs vai kalps, rūpējoties par turīga darba devēja mājsaimniecību un sadzīves vajadzībām. Tu vari būt džentlmeņa sulainis, ģenerāļa adjutants vai trauku mazgātāja plašā pilī.
 
-Jūs esat nodarbināts kā palīgs vai kalpotājs, rūpējoties par turīga darba devēja mājsaimniecības lietām un sadzīves vajadzībām. Jūs varētu būt džentlmeņa sulainis, ģenerāļa adjutants, vai varētu būt virtuves kalpone plašā pilī.
+**Bagātība:** Trūcīga līdz vidēja, lai gan dažreiz kalpiem ir ierobežota piekļuve darba devēja turīgajam vai bagātajam dzīvesveidam (pēc spēles vadītāja apstiprinājuma).
 
-**Bagātība:** Nabags līdz Viduvējs, lai gan dažreiz kalpotājiem ir ierobežota piekļuve sava darba devēja Turīgam vai Bagātam dzīvesveidam, ar jūsu spēles vadītāja apstiprinājumu.
+**Prasmes:** Amatniecība (jebkura), etiķete, slēpšanās, valoda (paša), klausīšanās, maskēšanās, un izvēlies četras no šīm prasmēm kā personīgās specializācijas, atbilstoši videi un koncepcijai: kaulēšanās, braukšana, pirmā palīdzība, ieskats, zināšanas (grāmatvedība), valoda (cita), pārliecināšana.
 
-**Prasmes:** Amats (jebkurš), Etiķete, Slēpšanās, Dzimtā valoda, Klausīšanās, Maskēšanās, un izvēlieties četras no sekojošām kā personīgās specialitātes, kā piemērots videi un koncepcijai: Kaulēšanās, Braukšana, Pirmā palīdzība, Ieskats, Zināšanas (Grāmatvedība), Svešvaloda, Pārliecināšana.
+#### Šamanis
 
-#### Šamanis (Shaman)
+Tu esi cilts burvis, prasmīgs saziņā ar garu pasauli un padomu sniegšanā savam vadonim un cilts locekļiem. Tev ir slepenas zināšanas, kas nodotas no mentora studentam, un tev var būt spēja izmantot maģiju. Vairums šamaņu ir primitīvākas kultūras pārstāvji, lai gan ir arī daži mūsdienu praktiķi.
 
-Jūs esat cilšu burvis, prasmīgs saziņā ar garu pasauli un padomu sniegšanā un palīdzībā savam virsaitim un cilts biedriem. Jums ir slepenas zināšanas, kas nodotas no mentora studentam, un jums var būt spēja izmantot maģiju. Vairums šamaņu ir primitīvākas kultūras biedri, lai gan ir daži mūsdienu praktiķi.
+**Bagātība:** Trūcīga vai vidēja, dzīvojot cilts līmenī.
 
-**Bagātība:** Nabags vai Viduvējs, cilts līmeņa eksistencē.
+**Prasmes:** Māksla (jebkura), ieskats, zināšanas (vēsture), zināšanas (okultisms), valoda (paša), klausīšanās, uzstāšanās (rituāls), pārliecināšana, un divas no šīm prasmēm kā specializācijas, atbilstoši videi un koncepcijai: amatniecība (jebkura), ātrrunāšana, pirmā palīdzība, slēpšanās, zināšanas (antropoloģija), valoda (cita), medicīna, zinātne (farmācija) vai statuss.
 
-**Prasmes:** Māksla (jebkura), Ieskats, Zināšanas (Vēsture), Zināšanas (Okultisms), Dzimtā valoda, Klausīšanās, Uzstāšanās (Rituāli), Pārliecināšana, un divas no sekojošām kā specialitātes, kā piemērots videi un koncepcijai: Amats (jebkurš), Ātrruna, Pirmā palīdzība, Slēpšanās, Zināšanas (Antropoloģija), Svešvaloda, Medicīna, Zinātne (Farmācija) vai Statuss.
+**Īpaši:** Atkarībā no vides tu vari izmantot maģiju. Sīkāku informāciju skatīt Četrvērtīgajā nodaļā: Spējas.
 
-**Īpaši:** Atkarībā no vides jūs varat izmantot maģiju. Skatīt *Ceturto nodaļu: Spējas* vairāk informācijas.
+#### Vergs
 
-#### Vergs (Slave)
+Sagūstīts un paverdzināts vai dzimis gūstā, tu esi vergs vai līgumkalps individuālam saimniekam, vai organizācijai, vai reliģijai. Ar tevi var apieties labi — kā mājsaimniecības personāla vadītāju, vai arī tevi var piekaut un regulāri sodīt, un tu dzīvo bailēs. Lai tiktu klasificēts kā vergs, tiek pieņemts, ka lielāko dzīves daļu esi pavadījis verdzībā. Ja tiki sagūstīts un paverdzināts nesen, izmanto savu iepriekšējo profesiju.
 
-Sagūstīts un paverdzināts vai dzimis gūstā, jūs esat vergs vai nolīgts kalps individuālam saimniekam, vai organizācijai vai reliģijai. Iespējams, pret jums izturas labi: mājsaimniecības personāla vadītājs, vai varbūt jūs tiekat sists un regulāri sodīts un dzīvojat bailēs. Lai klasificētu kā vergu, tiek pieņemts, ka lielākā daļa dzīves ir pavadīta kā vergam. Ja esat sagūstīts un paverdzināts nesen, izmantojiet savu iepriekšējo profesiju.
+**Bagātība:** Nabadzīga līdz trūcīga, lai gan dažreiz vergiem ir ierobežota piekļuve īpašnieka turīgajam vai bagātajam dzīvesveidam (pēc spēles vadītāja apstiprinājuma).
 
-**Bagātība:** Trūcīgs līdz Nabags, lai gan dažreiz vergiem ir ierobežota piekļuve sava īpašnieka Turīgam vai Bagātam dzīvesveidam, ar jūsu spēles vadītāja apstiprinājumu.
+**Prasmes:** Amatniecība (jebkura), izvairīšanās, etiķete, ātrrunāšana, slēpšanās, ieskats, valoda (cita), klausīšanās, maskēšanās, un viena cita prasme kā profesionālā specializācija.
 
-**Prasmes:** Amats (jebkurš), Etiķete, Ātrruna, Slēpšanās, Ieskats, Svešvaloda, Klausīšanās, Maskēšanās, un viena cita prasme kā profesionālā specialitāte.
+**Piezīme:** Šo profesiju vajadzētu izvēlēties ar iejūtību pret citiem spēlētājiem un spēles vadītāju, un ir ieteicams, lai jebkurš tēls ar šo profesiju būtu izbēdzis vai atbrīvots, sākoties spēlei.
 
-**Piezīme:** Šī profesija jāizvēlas ar jūtīgumu pret citiem spēlētājiem un spēles vadītāju, un ir ieteicams, lai jebkurš tēls ar šo profesiju spēles sākumā būtu izbēdzis vai atbrīvots.
+#### Kareivis
 
-#### Karavīrs (Soldier)
+Neatkarīgi no tā, vai brīvprātīgi vai mobilizācijas kārtībā, tu esi profesionāls kareivis, kas uzdots aizstāvēt savu valsti vai organizāciju. Tu vari būt algotnis, vai arī tu patiesi tici lietai, par kuru cīnies. Jebkurā gadījumā tu esi saņēmis militāru apmācību un strādā citu kareivju vienībā, darot to, kas tev tiek pavēlēts.
 
-Neatkarīgi no tā, vai caur iesaukšanu vai brīvprātīgu dienestu, jūs esat profesionāls karavīrs, kas atbildīgs par savas valsts vai organizācijas aizstāvību. Jūs varētu būt algotnis vai zobens, vai varbūt jūs patiešām ticat cēlonim, par kuru cīnāties. Jebkurā gadījumā esat saņēmis militārus treniņus un strādājat citu karavīru vienībā, darot to, kas jums likts.
+**Bagātība:** Trūcīga vai vidēja, bet bieži tiek piešķirta piekļuve dārgam vai citādi aizliegtam aprīkojumam.
 
-**Bagātība:** Nabags vai Viduvējs, bet bieži piešķirta piekļuve dārgam vai citādi aizliegtam aprīkojumam.
+**Prasmes:** Kautiņš, kāpšana, izvairīšanās, pirmā palīdzība, un sešas no šīm prasmēm atbilstoši videi: artilērija, komandēšana, braukšana, šaujamierocis (parasti šautene, bet jebkurš), cīņa (tvērieni), smagais ierocis (jebkurš), slēpšanās, valoda (cita), klausīšanās, lēkšana, medicīna, tuvcīņas ierocis (jebkurš), metami ieroci (jebkuri), navigācija, remonts (mehāniskais), jāšana, pamanīšana, maskēšanās, mešana.
 
-**Prasmes:** Kautiņš, Kāpšana, Izvairīšanās, Pirmā palīdzība, un sešas no sekojošām, kā piemērots videi: Artilērija, Pavēle, Braukšana, Šaujamierocis (parasti šautene, bet jebkurš), Satveršana, Smagais ierocis (jebkurš), Slēpšanās, Svešvaloda, Klausīšanās, Lēkšana, Medicīna, Tuvcīņas ierocis (jebkurš), Mestais ierocis (jebkurš), Navigācija, Remonts (Mehāniskais), Jāšana, Pamanīšana, Maskēšanās, Mešana.
+#### Spiegs
 
-#### Spiegs (Spy)
+Tu proti izlikties un infiltrēties, iekļūstot valstīs vai organizācijās aizsegā vai slepenībā, uzzinot to noslēpumus un ziņojot par tiem ienaidniekam vai ieinteresētajai pusei.
 
-Jūs esat prasmīgs maldināšanā un infiltrācijā, iekļūstot valstīs vai organizācijās aizsegā vai slepeni, uzzinot viņu noslēpumus un ziņojot tos atpakaļ ienaidniekam vai ieinteresētajai pusei.
+**Bagātība:** Vidēja vai turīga, atkarībā no vides.
 
-**Bagātība:** Viduvējs vai Turīgs, atkarībā no vides.
+**Prasmes:** Izvairīšanās, ātrrunāšana, slēpšanās, klausīšanās, pētniecība, pamanīšana, maskēšanās, un trīs no šīm prasmēm atbilstoši videi: māksla (fotogrāfija), kautiņš, maskēšanās, etiķete, šaujamierocis (jebkurš), cīņa (tvērieni), zināšanas (jebkuras), valoda (cita), valoda (paša), cīņas mākslas, navigācija, pilotēšana (jebkura), psiholoģija, remonts (elektronika), remonts (mehāniskais), jāšana, peldēšana, tehniskā prasme (datorlietošana), mešana, pēdu dzīšana.#### Students
 
-**Prasmes:** Izvairīšanās, Ātrruna, Slēpšanās, Klausīšanās, Izpēte, Pamanīšana, Maskēšanās, un trīs no sekojošām, kā piemērots videi: Māksla (Fotogrāfija), Kautiņš, Maskēšanās (Disguise), Etiķete, Šaujamierocis (jebkurš), Satveršana, Zināšanas (jebkurš), Svešvaloda, Dzimtā valoda, Cīņas mākslas, Navigācija, Pilotešana (jebkurš), Psiholoģija, Remonts (Elektroniskais), Remonts (Mehāniskais), Jāšana, Peldēšana, Tehniskā (Datoru lietošana), Mešana, Izsekošana.
+Jūs pavadāt savu laiku mācoties — vai nu kā vispārējs students, vai kā meistara māceklis. Jūsu mācību programma var norisināties prestižā universitātē, cīņas mākslas akadēmijā, burvju skolā vai kādā privātā un ekskluzīvā iestādē.
 
-#### Students (Student)
+**Bagātība:** No trūcīga līdz bagātam, parasti vidēja.
 
-Jūs pavadāt laiku studējot, vai kā vispārējs students vai kāda meistara māceklis. Jūsu mācību programma var būt prestižā universitātē, cīņas mākslu akadēmijā, burvju skolā vai kādā privātā un ekskluzīvā iestādē.
+**Prasmes:** Valoda (dzimtā), Pētniecība, kā arī izvēlieties astoņas citas prasmes kā studiju kursus, atbilstoši videi un koncepcijai. Biežākās izvēles ir no šī saraksta: Māksla (jebkura), Amatniecība (jebkura), Pirmā palīdzība, Ieskats, Zināšanas (jebkuras), Valoda (cita), Klausīšanās, Medicīna, Remonts (jebkurš), Uzstāšanās, Pārliecināšana, Psihoterapija, Zinātne (jebkura), Tehniskās prasmes (datorlietošana) un viena fiziskā prasme (ja iesaistīts sportā).
 
-**Bagātība:** Nabags līdz Bagāts, parasti Viduvējs.
+**Īpaši:** Arkānisko mākslu studenti var iegūt pieeju maģijai vai burvestībām, vai arī jūs varat apmeklēt skolu, lai palīdzētu kontrolēt savas superspējas, mutācijas vai psihiskās spējas. Sīkāku informāciju skatiet ceturtajā nodaļā: Spējas.
 
-**Prasmes:** Dzimtā valoda, Izpēte, un izvēlieties astoņas citas prasmes kā mācību kursus, kā piemērots videi un koncepcijai. Biežas izvēles ir no sekojošā saraksta: Māksla (jebkura), Amats (jebkurš), Pirmā palīdzība, Ieskats, Zināšanas (jebkurš), Svešvaloda, Klausīšanās, Medicīna, Remonts (jebkurš), Uzstāšanās, Pārliecināšana, Psihoterapija, Zinātne (jebkurš), Tehniskā (Datoru lietošana) un viena Fiziskā prasme (ja iesaistīts atlētikā).
+#### Skolotājs
 
-**Īpaši:** Arkānisko mākslu studenti var piekļūt maģijai vai burvībai, vai jūs varat būt skolā, lai palīdzētu kontrolēt savas supervaroņu spējas, mutācijas vai psihiskās spējas. Skatīt *Ceturto nodaļu: Spējas* vairāk informācijas.
+Jūs esat viena vai vairāku priekšmetu pasniedzējs, kas māca grupas vai privāti apmāca vienu studentu. Neatkarīgi no tā, vai jūs nodarbina universitāte, vidusskola vai cita izglītības iestāde, jūs apmācat studentus akadēmiskā vidē, lai tie sasniegtu noteiktu sasniegumu standartu.
 
-#### Skolotājs (Teacher)
+**Bagātība:** Vidēja vai turīga, parasti vidēja.
 
-Jūs esat viena vai vairāku priekšmetu instruktors, mācot grupas vai privātstundas vienam studentam. Neatkarīgi no tā, vai nodarbināts universitātē, vidusskolā vai citā izglītības iestādē, jūs instruējat studentus akadēmiskā vidē pretī kādam sasniegumu standartam.
+**Prasmes:** Valoda (dzimtā), Pārliecināšana, Pētniecība, Statuss, Mācīšana, kā arī izvēlieties piecas citas prasmes kā ekspertīzes jomas, atbilstoši videi un koncepcijai. Biežākās izvēles ir no šī saraksta: Māksla (jebkura), Amatniecība (jebkura), Pirmā palīdzība, Ieskats, Zināšanas (jebkuras), Valoda (cita), Klausīšanās, Medicīna, Remonts (jebkurš), Uzstāšanās, Pārliecināšana, Psihoterapija, Zinātne (jebkura), Tehniskās prasmes (datorlietošana).
 
-**Bagātība:** Viduvējs līdz Turīgs, parasti Viduvējs.
+#### Tehniķis
 
-**Prasmes:** Dzimtā valoda, Pārliecināšana, Izpēte, Statuss, Mācīšana, un izvēlieties piecas citas prasmes kā ekspertīzes jomas, kā piemērots videi un koncepcijai. Biežas izvēles ir no sekojošā saraksta: Māksla (jebkura), Amats (jebkurš), Pirmā palīdzība, Ieskats, Zināšanas (jebkurš), Svešvaloda, Klausīšanās, Medicīna, Remonts (jebkurš), Uzstāšanās, Pārliecināšana, Psihoterapija, Zinātne (jebkurš), Tehniskā (Datoru lietošana).
+Specializējies sarežģītu iekārtu, datoru vai citas elektronikas uzturēšanā, remontēšanā un izmantošanā, jūs esat ļoti prasmīgs darbā ar inženiersistēmām. Jūs neprojektējat šīs mašīnas, lai gan, iespējams, pazīstat tās labāk nekā to radītāji.
 
-#### Tehniķis (Technician)
+**Bagātība:** Vidēja vai turīga.
 
-Specializējies sarežģītu iekārtu, datoru vai citu elektronikas uzturēšanā, remontā un izmantošanā, jūs esat ļoti spējīgs tikt galā ar inženiertehniskām sistēmām. Jūs neprojektējat šīs iekārtas, lai gan iespējams, zināt tās labāk nekā to radītāji.
+**Prasmes:** Smalkā manipulācija, Smagā tehnika, Klausīšanās, Remonts (jebkurš), Zinātne (fizika), Pētniecība, Novērošana, Tehniskās prasmes (datorlietošana) un divas citas prasmes no šī saraksta kā specializācija, atbilstoši videi un koncepcijai: Amatniecība (jebkura), Vadīšana, Pilots (jebkurš).
 
-**Bagātība:** Viduvējs līdz Turīgs.
+#### Zaglis
 
-**Prasmes:** Smalka manipulācija, Smagā tehnika, Klausīšanās, Remonts (jebkurš), Zinātne (Fizika), Izpēte, Pamanīšana, Tehniskā (Datoru lietošana), un divas citas prasmes no sekojošā saraksta kā specialitāte, kā piemērots videi un koncepcijai: Amats (jebkurš), Braukšana, Pilotešana (jebkurš).
-
-#### Zaglis (Thief)
-
-Jūs paņemat to, ko vēlaties, vai nu izdzīvošanai vai tāpēc, ka tas jūs saista. Jūs varētu būt zema līmeņa kabatas zaglis, bēdīgi slavens bandīts vai krāšņs starptautisks dārglietu zaglis. Jūs ignorējat likumu, lai zagtu, vai nu bruņots, caur gudru maldināšanu, slēpšanos vai kādu visu trīs kombināciju.
+Jūs ņemat to, ko vēlaties — vai nu lai izdzīvotu, vai tāpēc, ka tas jūs vilina. Jūs varētu būt sīks kabatzaglis, bēdīgi slavens laupītājs vai krāšņs starptautisks dārglietu zaglis. Jūs pārkāpjat likumu, lai zagt, izmantojot bruņotu spēku, viltīgu maldināšanu, slēpšanos vai visu trīs kombināciju.
 
 **Bagātība:** Jebkura, atkarībā no spēles vadītāja apstiprinājuma.
 
-**Prasmes:** Novērtēšana, Izvairīšanās, Ātrruna, Slēpšanās, Maskēšanās, un piecas citas prasmes no sekojošā saraksta, kā piemērots videi un koncepcijai: Kaulēšanās, Kautiņš, Kāpšana, Maskēšanās (Disguise), Smalka manipulācija, Šaujamierocis (Pistole, Revolveris vai Bise), Satveršana, Ieskats, Klausīšanās, Lēkšana, Zināšanas (Likums), Pārliecināšana, Remonts (Mehāniskais) vai Pamanīšana.
+**Prasmes:** Novērtēšana, Izvairīšanās, Ātrruna, Slēpšanās, Maskēšanās un piecas citas prasmes no šī saraksta, atbilstoši videi un koncepcijai: Kaulēšanās, Kautiņš, Kāpšana, Maskēšanās (tēla), Smalkā manipulācija, Šaujamierocis (pistole, revolveris vai bise), Satvēriens, Ieskats, Klausīšanās, Lēkšana, Zināšanas (likumdošana), Pārliecināšana, Remonts (mehāniskais) vai Novērošana.
 
-#### Cilts cilvēks (Tribesperson)
+#### Cilts cilvēks
 
-Nācis no primitīvas kultūras, jūs esat pieņemts cilts biedrs un esat nepazīstams ar vairumu civilizācijas elementu. Jūs izdzīvojat caur medībām vai vākšanu, un jūsu pasaule ir maza: jūsu ciemats un apkārtējā vide.
+Nākot no primitīvas kultūras, jūs esat atzīts cilts loceklis un neesat pazīstams ar vairumu civilizācijas elementu. Jūs izdzīvojat, medījot vai vācot pārtiku, un jūsu pasaule ir maza: jūsu ciemats un apkārtējā vide.
 
-**Bagātība:** Trūcīgs līdz Nabags, cilts līmeņa eksistencē. Vai arī varat būt cilts dižciltīgais ar augstāku bagātības līmeni, atkarībā no jūsu Statusa.
+**Bagātība:** No trūcīga līdz nabadzīgam, cilts līmeņa eksistence. Vai arī jūs varat būt cilts dižciltīgais ar augstāku bagātības līmeni, atkarībā no jūsu Statusa.
 
-**Prasmes:** Amats (jebkurš), Izvairīšanās, Satveršana, Slēpšanās, Zināšanas (Dabas vēsture), Pamanīšana, Mešana, Izsekošana, un divas no sekojošām prasmēm, kā piemērots videi: Kautiņš, Kāpšana, Pirmā palīdzība, Klausīšanās, Lēkšana, Zināšanas (Okultisms), Tuvcīņas ierocis (parasti šķēps vai vāle), Mestais ierocis (Loks), Svešvaloda, Jāšana, Maskēšanās, Peldēšana.
+**Prasmes:** Amatniecība (jebkura), Izvairīšanās, Satvēriens, Slēpšanās, Zināšanas (dabas vēsture), Novērošana, Mešana, Pēdošana un divas no šīm prasmēm, atbilstoši videi: Kautiņš, Kāpšana, Pirmā palīdzība, Klausīšanās, Lēkšana, Zināšanas (okultisms), Tuvcīņas ierocis (parasti šķēps vai vāle), Tālās distances ierocis (loks), Valoda (cita), Jāšana, Maskēšanās, Peldēšana.
 
-#### Karotājs (Warrior)
+#### Karotājs
 
-Jūs specializējaties individuālajā kaujā, izdzīvojot ar saviem refleksiem un ieroču prasmēm. Iespējams, jūs ievērojat goda kodeksu, piemēram, bruņniecību vai bušido, vai esat algotnis vai barbarisks piedzīvojumu meklētājs. Karavīri cīnās grupās vai vienībās, kamēr karotāji skatās tikai uz savu varēšanu.
+Jūs specializējaties individuālajā cīņā, izdzīvojot, pateicoties saviem refleksiem un ieroču prasmēm. Iespējams, jūs ievērojat goda kodeksu, piemēram, bruņniecību vai bušido, vai arī esat algotnis vai barbarisks piedzīvojumu meklētājs. Karavīri cīnās grupās vai vienībās, bet karotāji paļaujas tikai uz savu varēšanu.
 
-**Bagātība:** Trūcīgs līdz Viduvējs, parasti Nabags.
+**Bagātība:** No trūcīga līdz vidējam, parasti nabadzīgs.
 
-**Prasmes:** Kautiņš, Izvairīšanās, Satveršana, Tuvcīņas ierocis (jebkurš), Mestais ierocis (jebkurš), un piecas citas prasmes no sekojošā saraksta kā specialitātes, kā piemērots videi un koncepcijai: Kāpšana, Šaujamierocis (jebkurš), Slēpšanās, Klausīšanās, Lēkšana, Svešvaloda, Cīņas mākslas, Jāšana, Pamanīšana, Maskēšanās, Peldēšana, Mešana, Izsekošana.
+**Prasmes:** Kautiņš, Izvairīšanās, Satvēriens, Tuvcīņas ierocis (jebkurš), Tālās distances ierocis (jebkurš) un piecas citas prasmes no šī saraksta kā specializācijas, atbilstoši videi un koncepcijai: Kāpšana, Šaujamierocis (jebkurš), Slēpšanās, Klausīšanās, Lēkšana, Valoda (cita), Cīņas mākslas, Jāšana, Novērošana, Maskēšanās, Peldēšana, Mešana, Pēdošana.
 
-#### Burvis (Wizard)
+#### Burvis
 
-Jūs saprotat un varat izmantot maģiju vai burvību. Caur dziedāšanu un žestu jūs varat radīt maģiskus efektus, un jūs veltāt sevi sava burvestību repertuāra pilnveidošanai un palielināšanai, kā arī savai personīgajai piekļuvei spējas punktiem.
+Jūs saprotat un protat izmantot maģiju vai burvestības. Ar daudzināšanu un žestiem jūs varat radīt maģiskus efektus, un jūs veltāt sevi tam, lai uzlabotu un paplašinātu savu burvestību repertuāru un personīgo piekļuvi spēka punktiem.
 
-**Bagātība:** Nabags līdz Bagāts, parasti Turīgs.
+**Bagātība:** No nabadzīga līdz bagātam, parasti turīgs.
 
-**Prasmes:** Amats (jebkurš), Ieskats, Zināšanas (Okultisms), divas citas zināšanas (jebkurš) prasmes, Svešvaloda, Klausīšanās, Uzstāšanās (Rituāli), Pārliecināšana, Izpēte.
+**Prasmes:** Amatniecība (jebkura), Ieskats, Zināšanas (okultisms), divas citas Zināšanas (jebkuras) prasmes, Valoda (cita), Klausīšanās, Uzstāšanās (rituāli), Pārliecināšana, Pētniecība.
 
-**Īpaši:** Jūs varat izmantot maģiju vai burvību. Strādājiet ar savu spēles vadītāju, lai noteiktu savas sākotnējās burvestības (skatīt *Ceturto nodaļu: Spējas*).
+**Īpaši:** Jūs varat izmantot maģiju vai burvestības. Sadarbojieties ar savu spēles vadītāju, lai noteiktu savas sākotnējās burvestības (skatiet ceturto nodaļu: Spējas).
 
-#### Rakstnieks (Writer)
+#### Rakstnieks
 
-Jūs rakstāt prozu, dzeju, scenārijus vai citu formu. Jūs jūtaties visērtāk sazinoties rakstiski, un jūsu vārdiem ir spēks izklaidēt, informēt vai pārliecināt tos, kas tos lasa.
+Jūs rakstāt prozu, dzeju, scenārijus vai kādu citu formu. Jūs jūtaties visērtāk, komunicējot rakstveidā, un jūsu vārdiem ir spēks izklaidēt, informēt vai pārliecināt tos, kuri tos lasa.
 
-**Bagātība:** Nabags līdz Bagāts, parasti Viduvējs.
+**Bagātība:** No nabadzīga līdz bagātam, parasti vidēja.
 
-**Prasmes:** Māksla (rakstīšana), Ieskats, Dzimtā valoda, Pārliecināšana, Izpēte, un piecas citas prasmes no sekojošā saraksta kā specialitātes, kā piemērots: Ātrruna, Zināšanas (jebkurš), Svešvaloda, Klausīšanās, Statuss, Tehniskā (Datoru lietošana).
+**Prasmes:** Māksla (rakstīšana), Ieskats, Valoda (dzimtā), Pārliecināšana, Pētniecība un piecas citas prasmes no šī saraksta kā specializācijas, atbilstoši nepieciešamībai: Ātrruna, Zināšanas (jebkuras), Valoda (cita), Klausīšanās, Statuss, Tehniskās prasmes (datorlietošana).
 
-## Pēdējie pieskārieni
+## Noslēdzošie darbi
 
-Šajā brīdī esat pabeidzis tēla izveidi, pieņemot, ka jūsu spēlē nav maģisku burvestību, mutāciju, psihisku spēju, burvības vai supervaroņu spēju jūsu sākuma tēliem. Ja tās ir pieejamas, atveriet *Ceturto nodaļu: Spējas* un sāciet tās izvēlēties ar sava spēles vadītāja palīdzību.
+Šajā brīdī esat pabeidzis tēla izveidi, pieņemot, ka jūsu spēlē nav maģisku burvestību, mutāciju, psihisku spēju, burvestību vai superspēju jūsu sākotnējiem tēliem. Ja tās ir pieejamas, pievērsieties ceturtajai nodaļai: Spējas un sāciet tās atlasīt ar spēles vadītāja palīdzību.
 
-Pagātne bieži ir svarīga tēla daļa, bet tas ir vismazāk kvantificējamais spēles noteikumos. Mēģiniet izdomāt pieredzes vai identitātes elementus, kas virza jūsu tēlu, uzdodot dažus vienkāršus jautājumus, piemēram, jebkuru no sekojošiem:
+Fons bieži vien ir svarīga tēla sastāvdaļa, taču tas ir vismazāk kvantificējamais spēles noteikumos. Mēģiniet izdomāt pieredzes vai identitātes elementus, kas virza jūsu tēlu, uzdodot dažus vienkāršus jautājumus, piemēram, jebkuru no šiem:
 
-* Kādas traģēdijas un panākumus viņi ir pieredzējuši?
+* Kādas traģēdijas un panākumus viņi ir piedzīvojuši?
+
 * Kur viņi uzauga?
+
 * Kurš bija visietekmīgākais cilvēks viņu dzīvē?
-* Kas ir viņu ģimene? Vai vecāki vēl ir dzīvi?
-* Vai viņi ir iemīlējušies? Vai ir vai bija precējušies? Bērni?
+
+* Kas ir viņu ģimene? Vai viņu vecāki joprojām ir dzīvi?
+
+* Vai viņi ir iemīlējušies? Vai viņi ir vai bija precējušies? Bērni?
+
 * Vai viņi ir laimīgi dzīvē?
-* Vai viņiem ir daudz draugu? Kā ar ienaidniekiem?
+
+* Vai viņiem ir daudz draugu? Kā ir ar ienaidniekiem?
+
 * Ko viņi vēlas sasniegt?
 
-Varat izpētīt savu tēla lapu un apdomāt izvēles, kuras veicāt tēla izveides laikā. Iespējams, dažas prasmes norāda uz personības tipu, piemēram, studējošs, eklektisks, vardarbīgs vai cits līdzīgs īpašības vārds. Jūs varētu mēģināt atrast tēla "balsi" vai citu izteiksmes veidu, kas padara viņus dzīvus pie spēļu galda. Ne visi vēlas būt "metodes aktieri", taču nejust, ka jums pie galda jāierodas ar padziļinātu personību un pagātnes stāstu par savu tēlu. Daļa no tā radīsies lomu spēles pieredzes gaitā, un daļa radīsies dabiski, kad jūsu tēls saskarsies ar piedzīvojumiem un grūtībām.
+Varat pārskatīt savu tēla lapu un pārdomāt izvēles, ko esat izdarījis tēla izveides laikā. Iespējams, dažas prasmes norāda uz personības tipu, piemēram, centīgs, eklektisks, vardarbīgs vai kāds cits tamlīdzīgs apzīmējums. Jūs varētu mēģināt atrast tēla "balsi" vai citu izteiksmes veidu, kas padara tos dzīvus pie spēļu galda. Tomēr ne visiem ir jābūt tēlošanas metodes piekritējiem, un neuzskatiet, ka jums pie galda ir jāierodas ar padziļinātu personību un priekšvēsturi. Daļa no tā nāks lomu spēles pieredzes laikā, un daļa radīsies dabiski, kad jūsu tēls saskarsies ar piedzīvojumiem un grūtībām.
 
-Grūtā daļa ir garām — tagad jautrība var sākties!
+Grūtākais ir aiz muguras — tagad var sākties jautrība!
 
-> ### Kultūra un tēli (opcija)
+> ### Kultūra un tēli (Opcija)
 > 
-> Daudzas vides, īpaši vēsturiskas vai fantāzijas, piedāvā atšķirīgas un oriģinālas kultūras, parasti ar īpašībām, kas kopīgas to iedzīvotājiem. Šīs īpašības var definēt kā rases, kultūras vai pat visus planētas iedzīvotājus. Jūsu spēles vadītājs var izvēlēties izstrādāt kultūras pagātni, kas piemērota oriģinālai vai pielāgotai videi. Dažreiz tās var novest pie stereotipiem, un jūsu spēles vadītājam tie jāapsver ar rūpību.
+> Daudzas vides, īpaši vēsturiskās vai fantāzijas, piedāvā atšķirīgas un oriģinālas kultūras, parasti ar īpašībām, kas kopīgas to iemītniekiem. Šīs īpašības var tikt definētas kā rases, kultūras vai pat visi planētas iemītnieki. Jūsu spēles vadītājs var izvēlēties izstrādāt kultūras fonus, kas piemēroti oriģinālai vai adaptētai videi. Dažreiz tie var novest pie stereotipiem, un spēles vadītājam tie jāapsver rūpīgi.
 > 
-> Kultūras pagātne nav nepieciešama — kultūras dalībnieki neizbēgami ir pietiekami atšķirīgi, lai pieļautu daudzveidīgu prasmju un raksturlielumu kopumu, bet jūs un jūsu spēles vadītājs varat uzskatīt, ka tās pievieno vērtīgu elementu spēles videi. Katrs kultūras pagātnes apraksts var saturēt dažus vai visus no sekojošiem:
+> Kultūras foni nav nepieciešami — vienas kultūras pārstāvji neizbēgami ir pietiekami atšķirīgi, lai pieļautu daudzveidīgu prasmju un īpašību kopumu, taču jūs un jūsu spēles vadītājs varat uzskatīt, ka tie piešķir spēles videi vērtīgu elementu. Katrs kultūras fona apraksts var saturēt daļu vai visus no šiem elementiem:
 > 
 > **Vadītājs:** Valdnieks, prezidents, autoritāte vai cita valsts vai reģiona pārvaldes institūcija.
-> **Kultūra:** Teritorijas dominējošā kultūra. Parasti cilvēciska, lai gan *Vienpadsmitā nodaļa: Radības* satur necilvēcisku rasu piemērus.
-> **Izskats:** Viena vai vairākas no atšķirīgajām iezīmēm var būt kopīgas kultūrai vai grupai, piemēram, krāsa vai sejas iezīmes.
-> **Uzvedība:** Ja piemērots, personības iezīmes var būt kopīgas kultūrai vai grupai. Tomēr ne visi ir tādi, un tos var ignorēt, ja vēlaties.
-> **Valoda(s):** Valoda vai valodas, kurās parasti runā vai zina šī reģiona pamatiedzīvotāji.
-> **Nodarbošanās:** Profesijas, kas kopīgas reģiona ļaudīm. Tās nav vienīgās, kas šeit tiek praktizētas — tās ir tikai visbiežāk sastopamās vai sabiedrībai simboliskākās. Trīs ir labs skaits šādām.
-> **Reliģijas:** Kāds dievs vai dievi parasti tiek pielūgti šajā reģionā? Ja uzticība spēlē lomu kampaņā, tad jāiekļauj reliģija.
-> **Ieroči un bruņas:** Vēsturiskās vai fantāzijas vidēs viduslaiku stila ieroči un bruņas bieži ir diezgan atšķirīgi no valsts uz valsti, un katras zemes armijas mēdz trenēties ar atšķirīgiem ieroču stiliem. Tas ir mazāk atšķirīgi, videi kļūstot modernākai, lai gan jūsu spēles vadītājs var izmantot šo informāciju, aprīkojot nespēlētāju tēlus.
-> **Kultūras prasmes:** Dažas prasmes var tikt kopīgi mācītas un izmantotas šajā kultūrā kā sociālās un kopējās izglītības daļa. Pēc jūsu spēles vadītāja ieskatiem šīs prasmes var iegūt nelielu bonusu. Ja tiek izmantoti prasmju bonusi, ieteicams, lai katra kultūra iegūst vienādus bonusus, lai gan dažādām prasmju kopām.
-> **Priekšmeti:** Tas varētu ietvert nozīmīgu mantu, kas kopīga kādam no šīs kultūras, bieži reliģiski vai ar sociālu nozīmi. Tai nav jābūt vērtīgai, un tēli no šīs kultūras nav pienākuma paturēt šo priekšmetu.
-
-> ### Jaunu profesiju izveide
 > 
-> Ja šis profesiju saraksts nepiedāvā profesiju, par kuru jūs vēlētos, lai jūsu tēls būtu, varat izveidot savu ar spēles vadītāja apstiprinājumu. Jūsu spēles vadītājs arī varētu vēlēties izstrādāt jaunas profesijas konkrētai videi.
+> **Kultūra:** Dominējošā kultūra apgabalā. Parasti cilvēki, lai gan vienpadsmitā nodaļa: Radības satur citu, ne-cilvēcisku rasu piemērus.
 > 
-> Vispirms aprakstiet jauno profesiju savam spēles vadītājam. Nosakiet, vai šī jaunā profesija ir līdzīga citai šeit piedāvātajai. Ja tā ir gandrīz identiska esošajai, tad varat mainīt dažas no prasītajām prasmēm, līdz jaunā profesija atbilst jūsu koncepcijai. Varat arī mainīt bagātības līmeni atbilstoši jaunajai profesijai.
+> **Izskats:** Viena vai vairākas atšķirīgas iezīmes var būt raksturīgas kultūrai vai grupai, piemēram, krāsojums vai sejas vaibsti.
 > 
-> Piemēram, *jūs izlemjat, ka "taksists" ir jauna profesija. Jūsu spēles vadītājs atzīst, ka tā būtībā ir Pilot profesijas versija uz zemes. Šeit jūs un jūsu spēles vadītājs izlemjat mainīt tēla bagātības līmeni no Nabags uz Viduvējs un grozīt prasmju sarakstu uz: Kaulēšanās, Braukšana (Automašīna), Zināšanas (Grāmatvedība), Zināšanas (Reģions: Pilsēta), Klausīšanās, Navigācija, Svešvaloda, Remonts (Mehāniskais) un Pamanīšana.*
+> **Uzvedība:** Ja tas ir piemēroti, kultūrai vai grupai var būt raksturīgas personības iezīmes. Tomēr ne visi ir šādi, un, ja vēlaties, tās var ignorēt.
+> 
+> **Valoda(-as):** Valoda vai valodas, kurās parasti runā vai kuras zina šī reģiona pamatiedzīvotāji.
+> 
+> **Profesijas:** Profesijas, kas ir izplatītas reģiona ļaužu vidū. Tās nav vienīgās, kas šeit tiek praktizētas — tās ir vienkārši visizplatītākās vai sabiedrībai raksturīgākās. Trīs ir labs skaits šādām profesijām.
+> 
+> **Reliģijas:** Kādus dievu vai dievus parasti pielūdz šajā reģionā? Ja kampaņā nozīme ir uzticībai, tad jāiekļauj reliģija.
+> 
+> **Ieroči un bruņas:** Vēsturiskās vai fantāzijas vidēs viduslaiku stila ieroči un bruņas bieži vien ir diezgan atšķirīgi dažādās valstīs, un katras zemes armijas mēdz trenēties ar dažādiem ieroču stiliem. Tas kļūst mazāk atšķirīgi, videi kļūstot modernākai, lai gan spēles vadītājs var izmantot šo informāciju, aprīkojot citus tēlus (ne-spēlētāju tēlus).
+> 
+> **Kultūras prasmes:** Dažas prasmes var tikt plaši mācītas un izmantotas šajā kultūrā kā sociālās un kopējās izglītības daļa. Pēc spēles vadītāja ieskatiem, šīs prasmes varētu iegūt nelielu bonusu. Ja tiek izmantoti prasmju bonusi, ieteicams, lai katra kultūra iegūst vienādus bonusus, lai gan citam prasmju kopumam.
+> 
+> **Priekšmeti:** Tas var ietvert kādu nozīmīgu mantu, kas raksturīga kādam no šīs kultūras, bieži vien ar reliģisku vai sociālu nozīmi. Tai nav jābūt vērtīgai, un tēliem no šīs kultūras nav pienākuma paturēt šo priekšmetu savā īpašumā.
+> 
+> ### Jaunu profesiju radīšana
+> 
+> Ja šis profesiju saraksts nepiedāvā profesiju, par kuru jūs vēlētos kļūt, varat radīt savu ar spēles vadītāja apstiprinājumu. Jūsu spēles vadītājs arī var vēlēties izstrādāt jaunas profesijas konkrētai videi.
+> 
+> Vispirms aprakstiet jauno profesiju savam spēles vadītājam. Nosakiet, vai šī jaunā profesija ir līdzīga kādai citai šeit piedāvātajai. Ja tā ir gandrīz identiska jau esošai, tad varat mainīt dažas no nepieciešamajām prasmēm, līdz jaunā profesija atbilst jūsu koncepcijai. Varat arī variēt bagātības līmeni atbilstoši jaunajai profesijai.
+> 
+> Piemēram, *jūs izlemjat, ka "taksists" ir jauna profesija. Jūsu spēles vadītājs atzīst, ka tā būtībā ir uz sauszemes bāzēta Pilota profesijas versija. No šejienes jūs un jūsu spēles vadītājs izvēlaties mainīt sava tēla bagātības līmeni no Nabadzīga uz Vidēju un grozīt prasmju sarakstu uz: Kaulēšanās, Vadīšana (automobilis), Zināšanas (grāmatvedība), Zināšanas (reģions: pilsēta), Klausīšanās, Navigācija, Valoda (cita), Remonts (mehāniskais) un Novērošana.*
 > 
 > *Voila, taksista profesija!*
 > 
 > Ja vēlaties izveidot pilnīgi jaunu profesiju:
 > 
 > * Izlemiet profesijas nosaukumu.
-> * Aprakstiet (mutiski vai rakstiski) profesiju savam spēles vadītājam, tostarp ko viņi pavada laiku darot, kādu apmācību viņi varētu būt guvuši, un varbūt indikatoru par viņu pozīciju sabiedrībā.
-> * Izlemiet piemērotu bagātības līmeni vai bagātības līmeņu diapazonu.
-> * Izvēlieties desmit prasmes, kas ir būtiskas vai visvairāk izmantotas šīs profesijas dalībniekam. Tas var arī ietvert "izvēlieties vienu (vai vairākas) no sekojošām" opciju, ja vien pieejamo prasmju kopējais skaits ir vienāds ar desmit.
 > 
-> Piemēram, *jūs varētu vēlēties spēlēt pilnīgi jaunu profesiju: profesionāls tulkotājs. Jūsu spēles vadītājs piekrīt, ka tā ir pietiekami unikāla profesija, lai attaisnotu jaunu aprakstu. Vispirms jūs abi izlemjat, ka tulkotāja bagātības līmenis parasti ir Viduvējs. Otrkārt, sākotnējām prasmēm jūs izvēlaties: Etiķete, Ātrruna, Ieskats, Zināšanas (Antropoloģija), Zināšanas (Lingvistika), Dzimtā valoda, Svešvaloda, Klausīšanās, Pārliecināšana un Izpēte. Jaunā profesija ir pabeigta un gatava lietošanai.*
+> * Aprakstiet (mutiski vai rakstiski) profesiju savam spēles vadītājam, iekļaujot to, ko viņi dara, kādu apmācību viņi varētu būt guvuši, un varbūt norādi uz viņu stāvokli sabiedrībā.
+> 
+> * Izlemiet atbilstošu bagātības līmeni vai bagātības līmeņu diapazonu.
+> 
+> * Izvēlieties desmit prasmes, kas ir būtiskas vai visbiežāk izmantotas šīs profesijas pārstāvim. Tas var iekļaut arī "izvēlieties vienu (vai vairākas) no šīm" opciju, ja vien pieejamo prasmju kopējais skaits ir vienāds ar desmit.
+> 
+>   Piemēram, *jūs varētu vēlēties spēlēt pilnīgi jaunu profesiju: profesionālu tulku. Jūsu spēles vadītājs piekrīt, ka tā ir pietiekami unikāla profesija, lai attaisnotu jaunu aprakstu. Vispirms jūs abi izlemjat, ka tulka bagātības līmenis parasti ir Vidējs. Otrkārt, sākotnējām prasmēm jūs izvēlaties: Etiķete, Ātrruna, Ieskats, Zināšanas (antropoloģija), Zināšanas (lingvistika), Valoda (dzimtā), Valoda (cita), Klausīšanās, Pārliecināšana un Pētniecība. Jaunā profesija ir pabeigta un gatava lietošanai.*

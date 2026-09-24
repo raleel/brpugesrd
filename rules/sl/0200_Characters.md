@@ -1,92 +1,92 @@
 # 2\. Liki
 
-Preprosto povedano, vaš **lik** ste **vi** v igralnem svetu, oseba, ki jo igrate v igri. Lik je v središču vseh iger igranja vlog – abstrakcija fizičnih in duševnih sposobnosti, veščin ter drugih opisnikov. Prek svojega lika komunicirate s svojim vodjo igre v tistem svetu. Večina likov, ki jih nadzorujejo igralci, so **igralčevi liki** (PC).
+Preprosto povedano, vaš **lik** ste **vi** v igralnem svetu, oseba, ki jo igrate v igri. Lik je v središču vseh iger vlog – abstrakcija fizičnih in mentalnih sposobnosti, veščin ter drugih opisnikov. S svojim mojstrom igre v tem svetu komunicirate prek svojega lika. Večina likov, ki jih nadzorujejo igralci, so **igralčevi liki** (IL).
 
-Vaš vodja igre igralcem opisuje okolje, nastavitve in srečanja. Vaš vodja igre ima na voljo seznam drugih likov, imenovanih **neliki** (NPC). Tako igralčevi liki kot neliki uporabljajo enaka pravila, čeprav so neliki na splošno manj podrobno opisani kot igralčevi liki, saj se le redko soočajo z enako raznolikostjo situacij kot igralčevi liki.
+Vaš mojster igre igralcem opisuje okolje, okoliščine in srečanja. Vaš mojster igre ima na voljo seznam drugih likov, imenovanih **neliki** (NL). Tako igralčevi liki kot neliki uporabljajo enaka pravila, čeprav so neliki na splošno manj podrobno izdelani kot igralčevi liki, saj se neliki redko soočajo s tako raznolikimi situacijami kot igralčevi liki.
 
-*Enajsto poglavje: Bitja* opisuje, kako lahko vaš vodja igre ustvari ustrezne nelike, in vključuje seznam nelikov, pripravljenih za uporabo (pa tudi pošasti in druga bitja), za različna okolja in obdobja. Ta razdelek obravnava igralčeve like in je nujno čtivo tako za vas kot za vašega vodjo igre.
+*Enajsto poglavje: Bitja* opisuje, kako lahko vaš mojster igre ustvari ustrezne nelike, in vključuje seznam nelikov, pripravljenih za uporabo (kot tudi pošasti in druga bitja), za različna okolja in obdobja. Ta razdelek obravnava igralčeve like in je nujno branje tako za vas kot za vašega mojstra igre.
 
-Kadar je omenjen »lik«, se izraz nanaša tako na igralčeve like kot na nelike.
+Ko je omenjen »lik«, se ta izraz nanaša tako na igralčeve like kot na nelike.
 
 ## Raven moči
 
-V tem poglavju in drugod po pravilih so reference na raven moči igre. To opisuje, kako kompetentni so igralčevi liki in neliki ter kje na lestvici od »realističnega« do »mitskega« se bo odvijala igra.
+V tem poglavju in drugod v pravilih so navedbe o ravni moči igre. To opisuje, kako razumno kompetentni so igralčevi liki in neliki ter kje na lestvici od »realističnega« do »mitološkega« se bo odvijala igra.
 
 Obstajajo štiri ravni moči igre, opisane spodaj.
 
 ### Normalna
 
-Liki nimajo nobenih moči ali pa imajo le zelo malo nezanesljivih moči. Včasih so liki definirani z eno samo močjo, komaj kaj več kot izjemen talent. To je najbolj primerna raven moči za grozljivke ali sodobne pustolovske igre, kjer sta tehnologija in pamet pogosto odločilna dejavnika za preživetje.
+Liki nimajo nobenih moči ali pa le zelo malo, nezanesljivih moči. Včasih so liki definirani z eno samo močjo, komaj kaj več kot izjemen talent. To je najprimernejša raven moči za igre grozljivk ali sodobne pustolovske igre, kjer sta tehnologija in pamet pogosto odločilna dejavnika za preživetje.
 
 ### Herojska
 
-Liki imajo nekaj močnih moči ali širok nabor srednje do nizko zmogljivih moči. To je primerno za igre, v katerih nastopajo neizkušeni kostumirani junaki ali vajenci čarovnikov na usposabljanju, mutirani preživeli po radioaktivni apokalipsi, budni junaki ali domišljijski svet čarovnikov in bojevnikov. Nekatera futuristična okolja bi lahko ustvarili z uporabo te ravni moči, kjer imajo državljani številne manjše moči, podeljene z genetsko manipulacijo.
+Liki imajo nekaj močnih moči ali širok nabor srednje do nizkih moči. To je primerno za igre, v katerih nastopajo neizkušeni, zamaskirani junaki ali vajenci čarovniki, mutirani preživeli radioaktivne apokalipse, budni junaki ali vrhunski domišljijski svet čarovnikov in bojevnikov. Nekatera futuristična okolja lahko ustvarite z uporabo te ravni moči, kjer imajo državljani številne manjše moči, pridobljene z gensko manipulacijo.
 
 ### Epska
 
-Liki so neverjetno usposobljeni ali močni, kot so nadmagi ali mogočna nadnaravna bitja. Vzorčne igre so lahko polne veteranskih kostumiranih junakov ali zlobnežev oziroma veteranskih nadnaravnih junakov, ki se borijo proti silam teme v sencah sodobnega sveta.
+Liki so neverjetno spretni ali močni, na primer nadčarovniki ali mogočna nadnaravna bitja. Vzorčne igre so lahko polne izkušenih zamaskiranih junakov ali zlobnežev oziroma izkušenih nadnaravnih junakov, ki se borijo proti silam teme v sencah sodobnega sveta.
 
 ### Nadčloveška
 
-Ti liki imajo ogromne sposobnosti in so najmogočnejši med junaki. Igre lahko vključujejo izjemno močne kostumirane superjunake, galaktične varuhe ali celo sodobne inkarnacije velikih poldbogov.
+Ti liki imajo neizmerne zmogljivosti in so najmogočnejši med junaki. Igre lahko vključujejo izjemno močne zamaskirane superjunake, galaktične varuhe ali celo sodobne inkarnacije velikih polbogov.
 
-Vaš vodja igre naj vam in vašim soigralcem jasno pove, kakšna je raven moči vaše igre, da se postavijo pričakovanja in usmeri preostanek ustvarjanja lika.
+Vaš mojster igre mora vam in vašim soigralcem jasno povedati, kakšna je raven moči vaše igre, da se določijo pričakovanja in usmeri preostanek ustvarjanja lika.
 
 ## Ustvarjanje lika
 
-Najprej potrebujete lik. Sledi sistem za razvoj vašega lika. Ta sistem ustvari razumno kompetentne like. Pri vsakem koraku so podani predlogi za močnejše like. Pri roki imejte prazen list za like in morda še en list papirja za beležke. Na chaosium.com lahko prenesete digitalne različice.
+Najprej potrebujete lik. Sledi sistem za razvoj vašega lika. Ta sistem ustvari razumno kompetentne like. V vsakem koraku so podani predlogi za močnejše like. Pri roki imejte prazen list za like in morda še en list papirja za beležke. Na strani chaosium.com lahko prenesete digitalne različice.
 
-Ko se pripravljate na ustvarjanje svojega lika, bi se morali vaš vodja igre in drugi igralci že odločiti, kakšno igro boste igrali, naj bo to znanstvena fantastika, fantazija, sodobna grozljivka, zgodovinska intriga, vohunstvo, pulp akcija, tehnotriler ali kateri koli drug žanr.
+Ko se pripravljate na ustvarjanje svojega lika, bi morali vaš mojster igre in ostali igralci že določiti, kakšno igro boste igrali, naj bo to znanstvena fantastika, domišljija, sodobna grozljivka, zgodovinska intriga, vohunstvo, pustolovska akcija, tehnotriler ali katera koli druga zvrst.
 
-Vaš vodja igre mora biti pripravljen voditi vas in druge igralce skozi postopek ustvarjanja lika, vedeti, kateri poklici so dovoljeni in primerni za igro ali kampanjo ter kakšno stopnjo kompetentnosti naj bi izkazovali liki. Ta vprašanja so najbolj pomembna za **Sedmi korak** in lahko vplivajo na **Tretji korak**.
+Vaš mojster igre mora biti pripravljen voditi vas in ostale igralce skozi postopek ustvarjanja lika, vedeti, kateri poklici so dovoljeni in primerni za igro ali kampanjo ter kakšno stopnjo kompetentnosti naj bi liki izkazovali. Ta vprašanja so najpomembnejša za **sedmi korak** in lahko vplivajo na **tretji korak**.
 
 ### Prvi korak: Ime in značilnosti
 
-Na vrh strani napišite ime svojega lika. To mora biti primerno za okolje in igro, ki se igra. Če se vam še ne porodi nobena ideja, počakajte na kasneje. Svoje ime lahko zapišete na list za like, saj bo morda vaš vodja igre moral spremljati, kateri lik pripada komu.
+Na vrh strani zapišite ime svojega lika. To mora biti primerno za okolje in igro, ki se igra. Če se vam še ne porodi nobena ideja, počakajte do kasneje. Svoje ime lahko zapišete na list za like, saj bo morda mojster igre moral spremljati, kateri lik pripada komu.
 
 * Izberite spol svojega lika in ga zapišite na ustrezno mesto.
 
-* Vrzite 3D6 za značilnosti Moč (STR), Konstitucija (CON), Moč (POW), Spretnost (DEX) in Karizma (CHA). Rezultate vpišite na ustrezna mesta na listu za like.
+* Vrzite 3D6 za značilnosti Moč (MOČ), Vzdržljivost (VZD), Enegrgija (ENE), Spretnost (SPR) in Karizma (KAR). Rezultate vpišite na ustrezna mesta na svojem listu za like.
 
-* Vrzite 2D6+6 za značilnosti Inteligenca (INT) in Velikost (SIZ).
+* Vrzite 2D6+6 za značilnosti Inteligentnost (INT) in Velikost (VEL).
 
 Te številke zagotavljajo osnovo vašega lika in določajo, v katerih značilnostih je lik močan ali šibak.
 
 * Če želite, lahko prerazporedite do 3 točke med svojimi značilnostmi.
 
-* Nobena značilnost ne more začeti z več kot 21 točkami.
+* Nobena značilnost ne sme začeti z več kot 21 točkami.
 
-* Če niste zadovoljni z značilnostmi, ki jih imate, in če se vaš vodja igre strinja, lahko začnete znova.
+* Če niste zadovoljni z značilnostmi, ki jih imate, in vaš mojster igre to odobri, lahko začnete znova.
 
-Če kampanja uporablja eno ali več vrst moči, vam vaš vodja igre morda dovoli povečati začetne značilnosti (glejte *Četrto poglavje: Moči*, zlasti **Zmanjšanje/Povečanje značilnosti**).
+Če kampanja uporablja eno ali več vrst moči, vam bo vaš mojster igre morda dovolil povečati začetne značilnosti (glejte Četrto poglavje: Moči, zlasti **Zmanjšanje/Povečanje značilnosti**).
 
-**Izbira vrednosti značilnosti (Možnost):** Tradicionalno se značilnosti mečejo po vrstnem redu, pri čemer se lahko prerazporedi do 3 točke. Namesto tega lahko 3D6 vržete sedemkrat in izberete, kam gredo rezultati. V tem primeru SIZ in INT ne smeta biti pod 8.
+**Izbira vrednosti značilnosti (Možnost):** Tradicionalno se značilnosti mečejo po vrstnem redu, z možnostjo prerazporeditve do 3 točk. Namesto tega lahko vrzite 3D6 sedemkrat in izberete, kam gredo rezultati. V tem primeru VEL in INT ne smeta biti pod 8.
 
 **Višje začetne značilnosti (Možnost):** Za igro z višjo močjo vrzite 2D6+6 za vse značilnosti.
 
-**Značilnost Izobrazba (EDU) (Možnost):** Vrzite 2D6+6 za izobrazbo (EDU) za to značilnost pri likih iz družb s formalno izobrazbo. EDU 12 pomeni stopnjo srednješolske izobrazbe, višje vrednosti pa pomenijo univerzitetno ali napredno diplomo.
+**Značilnost Izobrazba (IZO) (Možnost):** Za like iz družb s formalno izobrazbo vrzite 2D6+6 za značilnost Izobrazba (IZO). IZO 12 pomeni izobrazbo na ravni srednje šole, višje vrednosti pa pomenijo fakultetno ali višjo stopnjo izobrazbe.
 
-**Kulturni modifikatorji (Možnost):** Kulturni modifikatorji poudarjajo razlike v značilnostih med različnimi vrstami (kot so vilinci ali škrati) ali za različne človeške kulture. Začetne značilnosti se lahko na tej točki prilagodijo ali omejijo. Glejte **Kulturni modifikatorji značilnosti (Možnost)**.
+**Kulturni modifikatorji (Možnost):** Kulturni modifikatorji poudarjajo razlike v značilnostih med različnimi vrstami (kot so vilini ali škratje) ali za različne človeške kulture. Začetne značilnosti se lahko na tej točki prilagodijo ali omejijo. Glejte **Kulturni modifikatorji značilnosti (Možnost)**.
 
-**Nečloveški liki (Možnost):** Nečloveški liki lahko uporabljajo različne mete kock in modifikatorje za določanje začetnih značilnosti. Glejte *Enajsto poglavje: Bitja*.
+**Nečloveški liki (Možnost):** Nečloveški liki lahko uporabljajo različne mete kock in modifikatorje za določitev začetnih značilnosti. Glejte Enajsto poglavje: Bitja.
 
 **Ustvarjanje lika na podlagi točk (Možnost):** Običajno se značilnosti mečejo naključno. Namesto tega lahko igralci kupijo točke značilnosti iz sklada. Glejte **Ustvarjanje lika na podlagi točk (Možnost)**.
 
 ### Drugi korak: Moči
 
-Preberite to skrbno! Če igra, ki jo igrate, vključuje magijo, mutacije, psihične sposobnosti, čarovništvo ali supermoči, lahko začnete z nekaterimi od teh moči. Vprašajte svojega vodjo igre o tem in se obrnite na *Četrto poglavje: Moči* za več informacij. Ti sistemi zahtevajo več pojasnil, kot jih vsebuje to poglavje.
+Pozorno preberite! Če igra, ki jo igrate, vključuje magijo, mutacije, psihične sposobnosti, čarovništvo ali supermoči, lahko začnete z nekaterimi od teh moči. Povprašajte svojega mojstra igre o tem in si oglejte *Četrto poglavje: Moči* za več informacij. Ti sistemi zahtevajo več pojasnil, kot jih vsebuje to poglavje.
 
-Če v kampanji ni moči, preskočite ta korak in nadaljujte.
+Če v kampanji ni moči, prezrite ta korak in nadaljujte.
 
 Če obstajajo moči, so na voljo naslednje vrste:
 
-* **Magija:** Preprosto čaranje s širokim naborom aplikacij.
+* **Magija:** Preprosto čaranje s široko paleto aplikacij.
 
 * **Mutacije:** Nenavadne genetske anomalije, nekatere koristne, nekatere škodljive.
 
 * **Psihične sposobnosti:** Uporaba moči uma za manipulacijo resničnosti.
 
-* **Čarovništvo:** Bolj baročna vrsta čaranja, vključno z elementarnim in demonskim priklicem.
+* **Čarovništvo:** Bolj baročna vrsta čaranja, vključno z elementalnim in demonskim priklicem.
 
 * **Supermoči:** Mogočne sposobnosti, ki kljubujejo domišljiji.
 
@@ -94,307 +94,306 @@ Več podrobnosti o vsaki se pojavi v njihovih ustreznih razdelkih.
 
 ### Tretji korak: Starost
 
-Privzeta starost za like je 17+1D6 let. Vaš vodja igre se lahko odloči, da to spremeni glede na zahteve igralnega okolja. Če želite začeti igro z likom, mlajšim ali starejšim, izberite starost, ki se zdi primerna in ustreza odobritvi vašega vodje igre.
+Privzeta starost za like je 17+1D6 let. Vaš mojster igre se lahko odloči, da to spremeni glede na zahteve igralnega okolja. Če želite začeti igro z mlajšim ali starejšim likom, izberite starost, ki se vam zdi primerna in ustreza odobritvi vašega mojstra igre.
 
-* Na podlagi ravni kampanje (opisane v šestem koraku): za vsakih 10 polnih let, dodanih k vrženi začetni starosti, spremenite točke poklicnih veščin za +10 (Normalna), +20 (Herojska), +30 (Epska) ali +40 (Nadčloveška). Vsak del leta pod 10 ne kvalificira za ta bonus veščin.
+* Na podlagi ravni kampanje (opisane v šestem koraku) za vsakih 10 polnih let, dodanih k vrženi začetni starosti, spremenite točke poklicnih veščin za +10 (Normalna), +20 (Herojska), +30 (Epska) ali +40 (Nadčloveška). Vsak del leta pod 10 ne kvalificira za ta bonus veščine.
 
 * Za vsako leto pod 18 spremenite točke poklicnih veščin za –10 (Normalna), –20 (Herojska), –30 (Epska) ali –40 (Nadčloveška).
 
-* Vaš vodja igre lahko omeji dostopne poklice likom, mlajšim od 18 let.
+* Vaš mojster igre lahko omeji razpoložljive poklice za like, mlajše od 18 let.
 
-* Pri starosti 50 let in vsakih nadaljnjih 10 polnih letih spremenite eno od STR, CON, DEX ali CHA (po vaši izbiri) za –1. Pri starosti 80 let in vsakih nadaljnjih 10 polnih letih spremenite **tri** od teh značilnosti. Glejte **Staranje in nedejavnost (Možnost)**.
+* Pri starosti 50 let in vsakih nadaljnjih 10 polnih letih spremenite eno od MOČ, VZD, SPR ali KAR (po vaši izbiri) za –1. Pri starosti 80 let in vsakih nadaljnjih 10 polnih letih spremenite **tri** od teh značilnosti. Glejte **Staranje in nedejavnost (Možnost)**.
 
-* Za vsako leto pod prvotno vrženo starostjo zgoraj spremenite katero koli eno značilnost razen EDU (po vaši izbiri) za –1. Vaš vodja igre lahko zahteva, da je SIZ ena od teh zmanjšanih značilnosti. Te točke je mogoče pridobiti z igro (izkušnjami), usposabljanjem ali postopoma po naravnih poteh (po presoji vodje igre). Glejte **Staranje in nedejavnost (Možnost)**.
+* Za vsako leto pod prvotno vrženo starostjo spremenite katero koli eno značilnost razen IZO (po vaši izbiri) za –1. Vaš mojster igre lahko zahteva, da VEL postane ena od teh znižanih značilnosti. Te točke lahko pridobite skozi igro (izkušnje), usposabljanje ali postopoma po naravnih poteh (po presoji mojstra igre). Glejte **Staranje in nedejavnost (Možnost)**.
 
-Vaš vodja igre se lahko tudi preprosto odloči, da ta pravila prezre, glede na raven moči igre. To omogoča starejše pustolovce, otroke genije in je na splošno bolj zabavno za vse igralce.
+Vaš mojster igre se lahko tudi preprosto odloči, da ta pravila ignorira, odvisno od ravni moči igre. To omogoča starejše pustolovce, otroške genije in je na splošno bolj zabavno za vse igralce.
 
-**Izobrazba (EDU) (Možnost):** Če uporabljate značilnost EDU, mora biti začetna starost vašega lika vsaj EDU+5 (kar predstavlja čas, porabljen za učenje). Vsakih 10 polnih let, dodanih k začetni starosti vašega lika, doda +1 k značilnosti EDU vašega lika. Ne pozabite povečati ustreznih točk veščin, ustvarjenih v **Šestem koraku**.
+**Izobrazba (IZO) (Možnost):** Če uporabljate značilnost IZO, mora biti začetna starost vašega lika vsaj IZO+5 (kar predstavlja čas, porabljen za učenje). Vsakih 10 polnih let, dodanih k začetni starosti vašega lika, doda +1 k značilnosti IZO vašega lika. Ne pozabite povečati ustreznih točk veščin, ustvarjenih v **šestem koraku**.
 
-### Četrti korak: Moti značilnosti
+### Četrti korak: Meti značilnosti
 
-Tukaj določite svoje mete za značilnosti. Do zdaj bi morali vedeti, kakšne so vaše končne značilnosti, če pa ne, počakajte s tem korakom, dokler jih ne dokončate. Vsaka ima mesto na listu za like.
+Tu določite svoje mete značilnosti. Do zdaj bi morali vedeti, kakšne so vaše končne značilnosti, če pa ne, počakajte s tem korakom, dokler jih ne dokončate. Vsaka ima svoje mesto na listu za like.
 
-* Pomnožite STR×5 za svoj met za **napor**.
+* Pomnožite MOČ×5 za svoj met za **napor**.
 
-* Pomnožite CON×5 za svoj met za **vzdržljivost**.
+* Pomnožite VZD×5 za svoj met za **vzdržljivost**.
 
 * Pomnožite INT×5 za svoj met za **idejo**.
 
-* Pomnožite POW×5 za svoj met za **srečo**.
+* Pomnožite ENE×5 za svoj met za **srečo**.
 
-* Pomnožite DEX×5 za svoj met za **agilnost**.
+* Pomnožite SPR×5 za svoj met za **agilnost**.
 
-* Pomnožite CHA×5 za svoj met za **šarm**.
+* Pomnožite KAR×5 za svoj met za **šarm**.
 
-**Met za znanje (Možnost):** Pomnožite EDU×5 za svoj met za **znanje** (če se uporablja EDU).
+**Met za znanje (Možnost):** Pomnožite IZO×5 za svoj met za **znanje** (če se uporablja IZO).
 
 ### Peti korak: Izpeljane značilnosti
 
-Zdaj je čas za izpeljane značilnosti: modifikator škode, zadetne točke, točke moči in bonus izkušenj. Če uporabljate neobvezne sisteme, določite tudi svoje začetne točke utrujenosti in točke prisebnosti. Rezultate zapišite na svoj list za like.
+Zdaj je čas za izpeljane značilnosti: modifikator škode, točke življenja, točke energije in bonus izkušenj. Če uporabljate neobvezne sisteme, določite tudi začetne točke utrujenosti in točke prisebnosti. Rezultate vpišite na svoj list za like.
 
-* **Modifikator škode**: Seštejte STR+SIZ in poiščite **modifikator škode**, ki ustreza skupnemu seštevku vašega lika v tabeli **Modifikator škode**.
+* **Modifikator škode**: Seštejte MOČ+VEL in poiščite **modifikator škode**, ki ustreza skupnemu seštevku vašega lika v tabeli **Modifikator škode**.
 
-* **Zadetne točke:** Seštejte CON+SIZ in delite z 2 (zaokroženo navzgor). Obkrožite to številko v polju za **Zadetne točke** na vašem listu za like in jo zapišite spodaj. To so najvišje zadetne točke vašega lika. Če vaš lik izgubi zadetne točke, jih označite in izbrišite oznake, ko se zadetne točke zacelijo ali kako drugače obnovijo.
+* **Točke življenja:** Seštejte VZD+VEL in delite z 2 (zaokroženo navzgor). Obkrožite to številko v polju **Točke življenja** na svojem listu za like in jo zapišite spodaj. To so najvišje točke življenja vašega lika. Če vaš lik izgubi točke življenja, jih prečrtajte in izbrišite oznake, ko se točke življenja zacelijo ali kako drugače obnovijo.
 
-* **Raven hude rane:** Vaša **raven hude rane** je 1/2 zadetnih točk, zaokroženo navzgor.
+* **Raven hude rane:** Vaša **raven hude rane** je 1/2 točk življenja, zaokroženo navzgor.
 
-* **Točke moči:** V polju za **Točke moči** obkrožite številko, enako POW, in zapišite skupno vrednost v vrstico spodaj. To so najvišje točke moči vašega lika. Te poganjajo magične uroke, mutacije, psihične sposobnosti ali supermoči. Označite točke moči, ko jih porabite, in izbrišite oznake, ko se obnovijo ali kako drugače povrnejo. Številka, zapisana v prostoru, enaka vaši POW, je vrednost, na katero se točke moči vrnejo po počitku.
+* **Točke energije:** V polju **Točke energije** obkrožite številko, enako ENE, in napišite skupni znesek v vrstico spodaj. To so najvišje točke energije vašega lika. Te poganjajo magične uroke, mutacije, psihične sposobnosti ali supermoči. Prečrtajte točke energije, ko jih porabite, in izbrišite oznake, ko se obnovijo ali kako drugače povrnejo. Številka, zapisana v prostoru, enaka vaši ENE, je vrednost, na katero se vaše točke energije vrnejo s počitkom.
 
-* **Bonus izkušenj:** Bonus izkušenj vašega lika je enak 1/2 njihove INT, zaokroženo navzgor.
+* **Bonus izkušenj:** Bonus izkušenj vašega lika je enak 1/2 njegove INT, zaokroženo navzgor.
 
-* **Premik (MOV):** Premik vašega lika (MOV) meri, kako hitro se lahko premaknejo med krogom boja. Človeški liki se običajno lahko premaknejo za 10 enot na krog. Enota je nekoliko spremenljiva količina, ki običajno ustreza 1 metru. Glejte **Stopnje premikanja**.
+* **Gibanje (GIB):** GIB vašega lika meri, kako hitro se lahko premika med krogom boja. Človeški liki se običajno lahko premaknejo za 10 enot na krog. Enota je nekoliko spremenljiva količina, ki običajno ustreza 1 metru. Glejte **Stopnje gibanja**.
 
-**Bonusi veščin (Možnost):** Če uporabljate bonuse kategorij veščin na podlagi značilnosti, izračunajte bonus za vsako kategorijo z uporabo tabele **Bonus kategorij veščin**. Te vrednosti zapišite v prostore za vsako kategorijo. Ta bonus se doda osnovni možnosti za vsako veščino, če obstaja. Za vsako kategorijo:
+**Bonusi veščin (Možnost):** Če uporabljate bonuse kategorij veščin na podlagi značilnosti, izračunajte bonus za vsako kategorijo z uporabo tabele **Bonus kategorije** veščin. Te vrednosti zapišite v prostore za vsako kategorijo. Ta bonus se doda osnovni možnosti za vsako veščino, če obstaja. Za vsako kategorijo:
 
 * Dodajte +1 % za vsako točko v primarni značilnosti nad 10; odštejte 1 % za vsako točko pod 10.
 
-* +1 % za vsake 2 točki v sekundarni značilnosti nad 10; –1 % za vsake 2 točki pod 10 (če je potrebno, zaokrožite bonus navzdol).
+* +1 % za vsaki 2 točki v sekundarni značilnosti nad 10; –1 % za vsaki 2 točki pod 10 (če je potrebno, zaokrožite bonus navzdol).
 
 * –1 % za vsako točko v negativni značilnosti nad 10; +1 % za vsako točko pod 10.
 
-**Zadetne točke na lokacijo (Možnost):** Z neobveznim sistemom lokacij zadetkov določite število zadetnih točk za vsako lokacijo zadetka. Glava, trebuh in vsaka noga imajo 1/3 vaših skupnih zadetnih točk, prsni koš ima 4/10, vsaka roka pa ima 1/4 najvišje vrednosti zadetnih točk lika. Vse ulomke zaokrožite navzgor.
+**Točke življenja po lokaciji (Možnost):** Z neobveznim sistemom lokacije zadetkov določite število točk življenja za vsako lokacijo zadetka. Glava, trebuh in vsaka noga imajo 1/3 vašega skupnega števila točk življenja, prsni koš ima 4/10, vsaka roka pa 1/4 najvišje vrednosti točk življenja lika. Vse ulomke zaokrožite navzgor.
 
-**Točke utrujenosti (Možnost):** Če se uporablja utrujenost, seštejte STR+CON svojega lika, da dobite skupno število točk utrujenosti. V igri, ko vaš lik porablja energijo ali opravlja naporno fizično aktivnost, bo izgubljal točke utrujenosti. Hitro se obnavljajo s počitkom in drugimi sredstvi in se pogosto spreminjajo.
+**Točke utrujenosti (Možnost):** Če se uporablja utrujenost; seštejte MOČ+VZD svojega lika, da dobite njihovo skupno število točk utrujenosti. Med igro, ko vaš lik porablja energijo ali izvaja naporno fizično dejavnost, bo izgubljal točke utrujenosti. Hitro si opomore s počitkom in drugimi sredstvi, točke pa se pogosto spreminjajo.
 
-**Prisebnost (Možnost):** Če se uporablja prisebnost; pomnožite začetno oceno POW vašega lika s ×5, da dobite svojo trenutno skupno vrednost prisebnosti (SAN). Poklic (glejte Šesti korak spodaj) lahko spremeni to številko. V igri te označite, če vaš lik izgubi točke prisebnosti.
+**Prisebnost (Možnost):** Če se uporablja prisebnost; pomnožite začetni rezultat ENE vašega lika s ×5, da dobite trenutni skupni rezultat prisebnosti (SAN). Poklic (glejte šesti korak spodaj) lahko spremeni to številko. Med igro prečrtajte te točke, če vaš lik izgubi točke prisebnosti.
 
 ### Šesti korak: Osebnost
 
-Preučite značilnosti svojega lika in si zamislite vrsto osebe, kakršna želite, da bi bila. Izberite eno od spodnjih možnosti ali vrzite 1D4 za naključen rezultat. Ti paketi veščin so hiter način za razvoj vašega lika – v naslednjem koraku bo še več veščin. Veščine so opredeljene v *Tretjem poglavju: Veščine* 37–52, razredi orožja pa so opisani v *Osemem poglavju: Oprema*.
+Preučite značilnosti svojega lika in si zamislite, kakšna oseba bi želeli, da bi bila. Izberite eno od spodnjih možnosti ali vrzite 1D4 za naključen rezultat. Ti paketi veščin so hiter način za razvoj vašega lika – v naslednjem koraku bo na voljo več veščin. Veščine so opredeljene v *Tretjem poglavju: Veščine* 37–52, razredi orožij pa so opisani v *Osemem poglavju: Oprema*.
 
-##### Osebnostni tipi
+##### Vrste osebnosti
 
 | Rezultat | Opis |
 | :---- | :---- |
-| 1 | **Brutalno**: Vaš lik najprej pomisli na reševanje težav s fizično silo in močjo. Dajte 20 točk veščin vsaki od naslednjih: pretepanje, plezanje, izmikanje, rokoborba, vpogled, skakanje, jahanje, zaznava, prikrivanje, plavanje, metanje in kateri koli dve bojni veščini. |
-| 2 | **Usposobljeno**: Vaš lik meni, da so tehnika, obrt in strokovnost skrivnosti uspeha. Dajte 20 točk veščin vsaki od naslednjih: ocenjevanje, kateri koli obrt, preobleka, izmikanje, fina manipulacija, prva pomoč, katera koli veščina znanja, navigacija, pilotiranje, jahanje, spretnost rok, prikrivanje in katera koli ena bojna veščina. |
-| 3 | **Prekanjeno**: Vaš lik najprej poskuša pretentati nasprotnika, da bi pridobil prednost. Dodajte 20 točk veščin vsaki od naslednjih: ocenjevanje, barantanje, preobleka, vpogled, kateri koli dve veščini znanja, poslušanje, raziskovanje, zaznava, opazovanje, prikrivanje, katera koli tehnična veščina (primerna za okolje) in katera koli ena bojna veščina. |
-| 4 | **Šarmantno**: Vaš lik uživa v nagovarjanju drugih ljudi k delu, medtem ko on sprejema odločitve. Dajte 20 točk vsaki od naslednjih: ocenjevanje, barantanje, ukazovanje, bonton, hitri pogovor, vpogled, nastopanje, prepričevanje, kateri koli jezik (drugi), jezik (lastni), zaznava, status in katera koli ena bojna veščina. |
+| 1 | **Brutalen**: Vaš lik najprej pomisli na reševanje težav s fizično silo in močjo. Razdelite 20 točk veščin vsako za Pretepanje, Plezanje, Izmikanje, Rokoborbo, Uvid, Skakanje, Jahanje, Zaznavanje, Prikradanje, Plavanje, Metanje in za kateri koli dve bojni veščini. |
+| 2 | **Spreten:** Vaš lik verjame, da so tehnika, obrt in strokovnost skrivnosti uspeha. Razdelite 20 točk veščin vsako za Ocenjevanje, katero koli obrt, Preobleko, Izmikanje, Fino manipulacijo, Prvo pomoč, katero koli veščino Znanja, Navigacijo, Pilotiranje, Jahanje, Spretne prste, Prikradanje in za katero koli eno bojno veščino. |
+| 3 | **Prekanjen:** Vaš lik najprej poskuša prelisičiti nasprotnika, da bi pridobil prednost. Dodajte 20 točk veščin vsako za Ocenjevanje, Barantanje, Preobleko, Uvid, kateri koli dve veščini Znanja, Poslušanje, Raziskovanje, Zaznavanje, Opazovanje, Prikradanje, katero koli tehnično veščino (primerno za okolje) in za katero koli eno bojno veščino. |
+| 4 | **Šarmanten:** Vaš lik uživa v prepričevanju drugih ljudi, da delajo, medtem ko on sprejema odločitve. Razdelite 20 točk vsako za Ocenjevanje, Barantanje, Poveljevanje, Etiketo, Hitro govorjenje, Uvid, Nastopanje, Prepričevanje, kateri koli jezik (drug), Lastni jezik, Zaznavanje, Status in za katero koli eno bojno veščino. |
 
-Vaš vodja igre ima morda druge osebnostne tipe ali pa lahko ustvarite svojega, tako da izberete 13 veščin in vsaki oceni veščine dodate 20 točk (z odobritvijo vodje igre).
+Vaš mojster igre ima morda druge vrste osebnosti ali pa lahko ustvarite svojo, tako da izberete 13 veščin in vsaki oceni veščine dodate 20 točk (z odobritvijo vašega mojstra igre).
 
-Pri razporejanju teh točk veščin dodajte bonus k osnovni možnosti za vsako veščino, običajno predstavljeno kot vrednost v oklepaju za veščino, na primer Hitri pogovor (05 %). Zapišite skupno vrednost za veščino.
+Pri razdeljevanju teh točk veščin dodajte bonus k osnovni možnosti za vsako veščino, ki je običajno predstavljena kot vrednost v oklepaju za veščino, na primer Hitro govorjenje (15 %). Po veščini zapišite ta skupni seštevek.
 
-Na primer, *dodajanje 20 točk veščin v Hitri pogovor (05 %) da oceno 25 % (5+20).*
+Na primer, *dodajanje 20 točk veščin k Hitremu govorjenju (05 %) prinese oceno 25 % (5+20).*
 
 ### Sedmi korak: Poklic in veščine
 
-Za določitev začetnih veščin vašega lika se obrnite na seznam poklicev. Izberite poklic tam. Poklici so v celoti opisani pozneje v tem poglavju. Vaš vodja igre lahko omeji dostopne poklice, zato se pozanimajte, preden se odločite. Nekateri poklici nudijo posebne prednosti, kot je uporaba magije. Zapišite jih na list za like.
+Za določitev začetnih veščin vašega lika si oglejte seznam poklicev. Izberite poklic s seznama. Poklici so v celoti opisani kasneje v tem poglavju. Vaš mojster igre lahko omeji razpoložljive poklice, zato vprašajte, preden se odločite. Nekateri poklici nudijo posebne prednosti, kot je uporaba magije. Zabeležite si jih na listu za like.
 
-Ko izberete poklic, določite sklad točk poklicnih veščin lika. To predstavlja, kaj se je vaš lik naučil v tem poklicu, bodisi z usposabljanjem bodisi z izkušnjami na delovnem mestu. Kot vedno se točke veščin dodajo k vsem bonusom, podeljenim v prejšnjih korakih, in k osnovni možnosti veščine.
+Ko je poklic izbran, določite sklad točk poklicnih veščin vašega lika. To predstavlja, kaj se je vaš lik naučil v tem poklicu, bodisi skozi usposabljanje bodisi skozi izkušnje pri delu. Kot vedno se točke veščin dodajo k vsem bonusom, podeljenim v prejšnjih korakih, in k osnovni možnosti veščine.
 
-Raven moči kampanje določa začetni sklad točk veščin. Vaš vodja igre bi se moral do zdaj že odločiti, kakšno igro bo vodil in kako močni ter kompetentni bi morali biti igralčevi liki.
+Raven moči kampanje določa začetni sklad točk veščin. Vaš mojster igre bi se moral do zdaj odločiti, kakšno igro bo vodil in kako močni ter kompetentni naj bi bili igralčevi liki.
 
-* **Normalna:** Razporedite 250 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 75 %. Če uporabljate neobvezni bonus kategorije veščin, je omejitev še vedno 75 % in morate vse točke nad to mejo porabiti za druge veščine. Če kombinacija bonusov poveča veščino na več kot 75 % pred tem korakom, ne dodajajte nobenih dodatnih točk veščin.
+* **Normalna:** Razdelite 250 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 75 %. Če uporabljate neobvezen bonus kategorije veščin, je omejitev še vedno 75 % in vse točke nad to mejo morate porabiti za druge veščine. Če kombinacija bonusov poveča veščino na več kot 75 % pred tem korakom, ne dodajajte nobenih dodatnih točk veščin.
 
-* **Herojska:** Razporedite 325 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 90 %, z enakimi omejitvami kot zgoraj.
+* **Herojska:** Razdelite 325 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 90 %, z enakimi omejitvami kot zgoraj.
 
-* **Epska:** Razporedite 400 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 101 %, z enakimi omejitvami kot zgoraj.
+* **Epska:** Razdelite 400 točk za poklicne veščine. Nobena veščina ne sme začeti višje od 101 %, z enakimi omejitvami kot zgoraj.
 
-* **Nadčloveška:** Razporedite 500 točk med poklicne veščine, brez omejitve ocen veščin. Glejte **Ocene veščin nad 100 % (Možnost)**.
+* **Nadčloveška:** Razdelite 500 točk med poklicne veščine, brez omejitve ocen veščin. Glejte **Ocene veščin nad 100 % (Možnost)**.
 
-Za izviren poklic razporedite število točk veščin ravni moči, kot je navedeno zgoraj. Vaš vodja igre ima morda nekaj omejitev glede tega, kako se te točke veščin lahko porabijo.
+Za izvirni poklic razdelite število točk veščin ravni moči, kot je navedeno zgoraj. Vaš mojster igre ima morda nekaj omejitev glede tega, kako se lahko te točke veščin porabijo.
 
-Ko so vse točke poklicnih veščin dodeljene, pomnožite INT×10 svojega lika, da določite njihov osebni sklad točk veščin. Te točke veščin porabite za katero koli veščino, ki vam je všeč, z odobritvijo vašega vodje igre. Točke, porabljene za veščino, dodajte k njeni osnovni možnosti, poklicnim bonusom (če obstajajo), dodelitvam točk poklicnih veščin in bonusom kategorij veščin (če obstajajo).
+Ko so vse točke poklicnih veščin razdeljene, pomnožite INT×10 svojega lika, da določite njihov sklad osebnih točk veščin. Te točke veščin porabite za katero koli veščino želite, z odobritvijo vašega mojstra igre. Točke, porabljene za veščino, dodajte k osnovni možnosti, bonusom poklica (če obstajajo), dodelitvam točk poklicnih veščin in bonusom kategorij veščin (če obstajajo).
 
-Skupna vrednost ne sme preseči omejitve veščin za vrsto igre, določeno zgoraj. Vaš vodja igre lahko uvede omejitev 50 % za osebne veščine, ki so preveč oddaljene od poklica lika. Ta omejitev veščin je višja glede na raven kampanje: 75 % za herojsko, 90 % za epsko in 100 % za nadčloveško. Za veščine, ki naravno presegajo te številke s prejšnjimi bonusi, ni mogoče porabiti nobenih dodatnih točk.
+Skupni seštevek ne sme preseči omejitve veščin za vrsto igre, določeno zgoraj. Vaš mojster igre lahko uvede omejitev 50 % za osebne veščine, ki presegajo okvir poklica lika. Ta omejitev veščin je višja glede na raven kampanje: 75 % za herojsko, 90 % za epsko in 100 % za nadčloveško. Za veščine, ki naravno presegajo te številke zaradi prejšnjih bonusov, ni mogoče porabiti nobenih dodatnih točk.
 
-Izračunajte končne razvrstitve za vse veščine lika iz osnovne možnosti, osebnostnega tipa, poklicnega sklada veščin, osebnega sklada veščin in neobveznih bonusov kategorij veščin (če se uporabljajo). Morda boste želeli v tem trenutku premakniti nekaj točk, vendar ločite točke poklicnih veščin in točke osebnih veščin.
+Izračunajte končne ocene za vse veščine lika iz osnovne možnosti, vrste osebnosti, sklada poklicnih veščin, sklada osebnih veščin in neobveznih bonusov kategorij veščin (če se uporabljajo). Morda boste želeli v tem času premakniti nekaj točk, vendar ohranite točke poklicnih veščin in točke osebnih veščin ločene.
 
-**Izobrazba (EDU) (Možnost):** Če se uporablja izobrazba (EDU), namesto osnovnega sklada točk veščin 250/325/400/500 naj bodo začetne točke veščin določene na podlagi EDU×20 za normalne like, EDU×25 za herojske like, EDU×30 za epske like in EDU×40 za nadčloveške like.
+**Izobrazba (IZO) (Možnost):** Če se uporablja izobrazba (IZO), namesto osnovnega sklada točk veščin 250/325/400/500, naj bodo začetne točke veščin temeljile na IZO×20 za normalne like, IZO×25 za herojske like, IZO×30 za epske like in IZO×40 za nadčloveške like.
 
-**Kulturne veščine (Možnost):** Za igro s pomembnimi razlikami med človeškimi kulturami lahko vaš vodja igre vpliva na začetne veščine ali dovoljene začetne veščine. Glejte **Kultura in liki**.
+**Kulturne veščine (Možnost):** Za igro s pomembnimi razlikami med človeškimi kulturami ima lahko vaš mojster igre vpliv na začetne veščine ali dovoljene začetne veščine. Glejte **Kultura in liki**.
 
-**Povečane osebne točke veščin (Možnost)**: Osebni sklad točk veščin INT×10 se lahko poveča na INT×15 za herojske like, INT×20 za epske like ali INT×25 za nadčloveške like, kot je primerno. Ta možnost se priporoča za igre, kjer so liki izjemno kompetentni in usposobljeni preko tega, kar bi kazal njihov trenutni poklic.
+**Povečane osebne točke veščin (Možnost)**: Skupno število osebnih točk veščin INT×10 se lahko poveča na INT×15 za herojske like, INT×20 za epske like ali INT×25 za nadčloveške like, kot je primerno. Ta možnost je priporočljiva za igre, kjer so liki izjemno kompetentni in vešči onkraj tistega, kar bi nakazoval njihov trenutni poklic.
 
-### Osmi korak: Posesti
+### Osmi korak: Posest
 
-Večina likov ima neko vrsto posesti, bodisi opremo bodisi orožje. Sprednja stran lista za like ima razdelek za orožje, zadnja pa prostor za posesti. Vaš poklic opisuje začetno stopnjo premoženja vašega lika, veščina Status pa lahko nudi smernice o tem, kakšno dodatno opremo bi vaš lik lahko dobil v roke. Ni treba navesti vsakega predmeta, ki ga ima vaš lik, le tiste, ki bi lahko bili pomembni v igri.
+Večina likov ima neko vrsto posesti, bodisi opremo bodisi orožje. Sprednja stran lista za like ima razdelek za orožje, hrbtna stran pa prostor za posest. Vaš poklic opisuje začetno raven bogastva vašega lika, veščina Status pa lahko nudi smernice o tem, kakšno dodatno opremo bi vaš lik lahko dobil. Ni treba navajati vsakega predmeta, ki ga ima vaš lik v lasti, temveč le tiste, ki bi lahko bili pomembni pri igri.
 
 V večini primerov ima vaš lik naslednje:
 
 * Celoten komplet (ali komplete) oblačil, primernih za njihovo okolje in nastavitev.
 
-* Količino žepnine in osebnih prihrankov glede na njihovo stopnjo premoženja.
+* Količino žepnine in osebnih prihrankov glede na raven bogastva.
 
-* Osebni predmet, ki kaže na povezavo z njihovo družino ali ozadjem. To je lahko družinska dediščina, spominek ali kakšna malenkost z močno čustveno povezavo.
+* Osebni predmet, ki kaže na povezavo z družino ali ozadjem. To je lahko dediščina, spominek ali kakšna drobnarija z močno čustveno povezavo.
 
-* Vsa orodja za trgovino ali opremo, primerno za njihov poklic, če je primerno.
+* Vsa obrtna orodja ali opremo, primerno za njihov poklic, če je ustrezno.
 
-* Vsako orožje, pri katerem ima veščino 50 %+ , če je primerno.
+* Katero koli orožje, pri katerem ima 50 %+ veščino, če je ustrezno.
 
-* Glede na nastavitev, poklic, stopnjo premoženja in Status imajo morda vozilo, kot je konj, voz, kolo, avtomobil, osebno letalo, majhen vesoljski transport ali katero koli drugo prevozno sredstvo. To je predmet odobritve vašega vodje igre.
+* Glede na okolje, poklic, raven bogastva in Status imajo lahko vozilo, kot so konj, voz, kolo, avtomobil, osebno leteče plovilo, majhen vesoljski transport ali katero koli drugo prevozno sredstvo. To je predmet odobritve vašega mojstra igre.
 
-* Podrobnih pravil za finance ni podanih: predlagano premoženje za poklice in veščina Status sta najboljši smernici za določanje, katere predmete in sredstva imajo ob začetku igre ali do katerih imajo dostop. Vaš vodja igre bi vam moral pomagati opisati to v ustrezni podrobnosti in ima morda dodatne omejitve ali predloge.
+* Podrobna pravila za finance niso navedena: predlagano bogastvo za poklice in veščina Status sta najboljši smernici za določitev, katere predmete in sredstva imajo v lasti ali do katerih imajo dostop ob začetku igre. Vaš mojster igre bi vam moral pomagati opisati to na ustrezni ravni podrobnosti in ima morda dodatne omejitve ali predloge.
 
-### Deveti korak: Velikost in prepoznavne lastnosti
+### Deveti korak: Velikost in značilnosti
 
 Ta korak je predvsem kozmetičen in ni nujno potreben.
 
-Zdaj lahko izberete višino in težo svojega lika na podlagi SIZ. Na splošno razpon SIZ 10–13 predstavlja človeški razpon povprečne teže in višine. Oseba s SIZ 8 (normalni minimum) je razmeroma majhna, nekdo s SIZ 18 pa izjemno velik. To lahko določite, kot želite, bodisi s točnimi številkami za višino in težo ali z opisi, kot sta »Visok« ali »Štih«.
+Zdaj se lahko odločite za določitev višine in teže svojega lika na podlagi VEL. Na splošno razpon VEL 10–13 predstavlja človeški razpon povprečne teže in višine. Oseba z VEL 8 (normalni minimum) je razmeroma majhna, nekdo z VEL 18 pa izjemno velik. To lahko opredelite, kot želite, bodisi s točnimi številkami za višino in težo, bodisi z opisi, kot sta »visok« ali »vitka«.
 
-Če uporabljate možnost **Prepoznavne lastnosti**. Te lastnosti zabeležite pod ime svojega lika na listu za like.
+Če uporabljate možnost **Posebne značilnosti**. Te značilnosti zabeležite pod imenom svojega lika na listu za like.
 
 ### Deseti korak: Končni popravki
 
-To je zadnji korak za različne vidike vašega lika. Če si v prvem koraku niste mogli zamisliti imena, je zdaj pravi čas. Poleg tega si lahko omislite preostanek tega razdelka, preden se igra začne, ali ko dobite občutek za svoj lik.
+To je zadnji korak za različne vidike vašega lika. Če si v prvem koraku niste mogli omisliti imena, je zdaj pravi čas. Poleg tega si lahko omislite preostanek tega razdelka, preden se igra začne, ali ko dobite občutek za svoj lik.
 
-Po želji izpolnite vsa prazna mesta, ki opisujejo lika, mentalno in fizično, ter si omislite nekaj idej o njegovem ozadju. V devetem koraku ste določili prepoznavne lastnosti svojega lika, zato se odločite, ali ima vaš lik druge, manj prepoznavne lastnosti. Kakšne barve so njegovi lasje, koža in oči? Kako se oblači? Ima kakšne zanimive manire ali moto oziroma rek, ki ga pogosto uporablja? Ima zanimiv ugled?
+Po želji izpolnite vsa prazna polja, ki opisujejo lika, mentalno in fizično, ter si omislite nekaj idej o njihovem ozadju. V devetem koraku ste določili posebne značilnosti svojega lika, zato se odločite, ali ima vaš lik druge, manj posebne značilnosti. Kakšne barve so lasje, koža in oči? Kako se oblači? Ima kakšne zanimive manire, moto ali rek, ki ga pogosto uporablja? Ima zanimiv ugled?
 
-Če je relevantno, določite, od kod je vaš lik. Kam je hodil v šolo (če sploh)? Kakšen je njegov odnos z družino? Je lik član kakšne pomembne organizacije? Ima zanimivo preteklost? Ima kakšna pomembna verska ali politična prepričanja? Če je primerno, sodelujte s svojim vodjo igre, da določite ta vprašanja, preden se igra začne, ali vsaj razmislite o njih vnaprej. V igri lahko tudi dopolnite druge podrobnosti ozadja svojega lika, po potrebi, ali pa te vidike pustite nedoločene, če niso relevantni.
+Če je pomembno, določite, od kod prihaja vaš lik. Kam je hodil v šolo (če sploh)? Kakšen je njegov odnos z družino? Je lik član kakšnih pomembnih organizacij? Ima zanimivo preteklost? Ima pomembna verska ali politična prepričanja? Če je primerno, sodelujte s svojim mojstrom igre, da določite ta vprašanja, preden se igra začne, ali pa vsaj vnaprej razmislite o njih. Pri igri lahko po potrebi tudi dopolnite druge podrobnosti ozadja svojega lika ali pustite te vidike nedoločene, če niso pomembni.
 
-Na zadnji strani lista za like je prostor za dodatne opisne ali ozadinske elemente. Izpolnite jih toliko ali toliko malo, kolikor želite, in preverite pri svojem vodji igre, da se prepričate, da zanje vedo in da so primerni za igro.
+Hrbtna stran lista za like ima prostor za dodatne opisne elemente ali elemente ozadja. Izpolnite toliko ali toliko malo, kot želite, in preverite pri svojem mojstru igre, da se prepričate, ali vedo zanje in ali so primerni za igro.
 
-> ### Ustvarjanje lika na podlagi točk (Možnost)
+> ### Ustvarjanje lika na podlagi točk (možnost)
 > 
-> Standardno ustvarjanje lika uporablja mete kock za določanje začetnih značilnosti, vendar se lahko vi in vaš vodja igre odločite za uporabo sistema na podlagi točk, kar ponuja več nadzora nad ustvarjanjem vašega lika. V tem primeru se v **Prvem koraku** naredijo naslednje prilagoditve.
+> Standardno ustvarjanje lika uporablja mete kock za določitev začetnih značilnosti, vendar se lahko vi in vaš mojster igre odločita za uporabo sistema, ki temelji na točkah in ponuja več nadzora nad ustvarjanjem lika. V tem primeru se v **prvem koraku** izvedejo naslednje prilagoditve.
 > 
-> * Vse značilnosti (STR, CON, SIZ, INT, POW, DEX in CHA) začnejo pri 10.
-
-> * Imate 24 točk za porabo za značilnosti. To je enakovredno ravni moči »normalna« za kampanjo. Nobena začetna značilnost se ne more dvigniti višje od 21.
+> * Vse značilnosti (MOČ, VZD, VEL, INT, ENE, SPR in KAR) začnejo pri 10.
 > 
-> * Vsaka točka STR, CON, SIZ ali CHA stane 1 točko.
+> * Imate 24 točk za porabo za značilnosti. To je enakovredno »normalni« ravni moči za kampanjo. Nobene začetne značilnosti ni mogoče dvigniti na več kot 21.
 > 
-> * Vsaka točka DEX, INT in POW stane 3 točke.
+> * Vsaka točka MOČ, VZD, VEL ali KAR stane 1 točko.
 > 
-> * Svoje začetne značilnosti lahko znižate pod začetno vrednost 10, do najmanj 3.
+> * Vsaka točka SPR, INT in ENE stane 3 točke.
 > 
-> * Za vsako točko STR, CON, SIZ ali CHA, ki jo znižate pod 10, dobite 1 točko za porabo za druge značilnosti.
+> * Lahko se odločite, da znižate začetne značilnosti pod začetno vrednost 10, do najmanj 3.
 > 
-> * Za vsako točko DEX, INT in POW, ki jo znižate, dobite nazaj 3 točke.
+> * Za vsako točko MOČ, VZD, VEL ali KAR, ki jo znižate pod 10, dobite 1 točko za porabo za druge značilnosti.
 > 
-> * Samo z dovoljenjem vodje igre lahko zvišate ali znižate začetno značilnost izven razpona 3–21. Za višje ravni moči (epska in nadčloveška) je treba maksimum značilnosti prezreti.
+> * Za vsako točko SPR, INT in ENE, ki jo znižate, dobite 3 točke nazaj.
 > 
-> * Za igre z močmi lahko uporabite vse neporabljene točke iz ustvarjanja značilnosti za svoj proračun moči. To je samo z dovoljenjem vašega vodje igre, saj lahko povzroči, da na splošno izgubite točke.
+> * Le z dovoljenjem mojstra igre lahko dvignete ali znižate začetno značilnost onkraj razpona 3–21. Za višje ravni moči (epska in nadčloveška) bi bilo treba prezreti maksimum značilnosti.
 > 
-> Če je dovoljeno ustvarjanje značilnosti na podlagi točk, bi bil naslednji korak za igro z močmi alternativni **Drugi korak**, opisan v *Četrtem poglavju: Moči*. Za igro brez moči bi ustvarjanje lika nato preskočilo na **Četrti korak**.
+> * Za igre z močmi lahko uporabite vse neporabljene točke iz ustvarjanja značilnosti za svoj proračun moči. To je le z dovoljenjem mojstra igre, saj lahko povzroči, da na splošno izgubite točke.
+> 
+> Če je dovoljeno ustvarjanje značilnosti na podlagi točk, bi bil naslednji korak za igro z močmi nadomestni **drugi korak**, opisan v Četrtem poglavju: Moči. Za igro brez moči bi ustvarjanje lika nato preskočilo na **četrti korak**.
 > 
 > #### Višje začetne značilnosti (Možnost)
 > 
-> Za kampanje z višjo močjo (z metom 2D6+6 namesto običajnih 3D6) je začetni skupni seštevek točk zgoraj 36 točk, kar je enakovredno herojski ravni moči. Liki na epski ravni moči začnejo z 48 točkami značilnosti, liki na nadčloveški ravni moči pa začnejo s 60 točkami. Normalni maksimumi značilnosti se ne bi smeli uporabljati.
+> Za kampanje z višjo močjo (z metom 2D6+6 namesto običajnega 3D6) je začetni skupni seštevek točk zgoraj 36 točk, kar ustreza herojski ravni moči. Liki na epski ravni moči začnejo z 48 točkami značilnosti, liki na nadčloveški ravni moči pa z 60 točkami. Normalni maksimumi značilnosti se ne bi smeli uporabljati.
 > 
 > #### Izobrazba (Možnost)
 > 
-> Če se uporablja značilnost EDU, mora vaš vodja igre dodeliti vrednost EDU na podlagi starosti vašega lika (opisano v **Tretjem koraku**) in ozadja. To lahko spremenite s poljubnimi točkami. Vsaka točka EDU stane 3 točke.
+> Če se uporablja značilnost IZO, mora vaš mojster igre dodeliti vrednost za IZO na podlagi starosti vašega lika (opisano v **tretjem koraku**) in ozadja. To lahko spremenite s kakršnimi koli točkami, ki jih izberete. Vsaka točka IZO stane 3 točke.
 > 
 > #### Kulturni modifikatorji ali nečloveški liki (Možnost)
 > 
-> Če vaš vodja igre dovoljuje kulturne modifikatorje za začetne značilnosti, je treba te modifikatorje uporabiti za značilnosti pozneje. Če so na voljo nečloveški liki s kulturnimi modifikatorji za začetne značilnosti, mora vaš vodja igre prilagoditi vaše začetne točke in/ali začetne značilnosti, kot je primerno. *Enajsto poglavje: Bitja* vsebuje nasvete o dovoljevanju nečloveških likov.
+> Če vaš mojster igre dovoljuje kulturne modifikatorje za začetne značilnosti, se ti modifikatorji uporabijo za značilnosti pozneje. Če so na voljo nečloveški liki s kulturnimi modifikatorji za začetne značilnosti, mora vaš mojster igre prilagoditi vaše začetne točke in/ali začetne značilnosti, kot je primerno. *Enajsto poglavje: Bitja* vsebuje nasvete o dovoljevanju nečloveških likov.
 
 ## Značilnosti
 
-Vaš lik je merjen in definiran z naborom značilnosti, vrednostmi, ki predstavljajo njihove fizične in duševne sposobnosti. Višje številke značilnosti so običajno boljše (čeprav lahko visoka SIZ deluje proti vam pri prikrivanju). Vrednosti značilnosti označujejo surove naravne darove, ki jih ima vaš lik. Vrednosti značilnosti se lahko spremenijo med igro. Poškodbe ali neugodne razmere lahko zmanjšajo značilnosti, medtem ko jih usposabljanje, naprezanje in kondicija lahko povečajo.
+Vaš lik se meri in definira z nizom značilnosti, vrednostmi, ki predstavljajo njihove fizične in mentalne zmogljivosti. Višje številke značilnosti so običajno boljše (čeprav lahko visoka VEL deluje proti vam pri prikradanju). Vrednosti značilnosti kažejo na surove naravne darove, ki jih ima vaš lik. Vrednosti značilnosti se lahko med igro spreminjajo. Poškodbe ali neugodne razmere lahko zmanjšajo značilnosti, medtem ko jih usposabljanje, naprezanje in kondicija lahko povečajo.
 
-* Fizične značilnosti (STR, CON, SIZ in DEX) imajo maksimum 21 za ljudi.
+* Fizične značilnosti (MOČ, VZD, VEL in SPR) imajo za ljudi maksimum 21.
 
-* Duševne značilnosti (INT, POW, CHA in EDU) se lahko običajno dvignejo brez omejitev.
+* Mentalne značilnosti (INT, ENE, KAR in IZO) se običajno lahko dvignejo brez omejitev.
 
-* V večini pogojev je 3 najnižja vrednost za katero koli značilnost razen SIZ ali INT, ki imata najmanjšo vrednost 8.
+* V večini pogojev je 3 najnižja vrednost za katero koli značilnost razen VEL ali INT, ki imata minimalno vrednost 8.
 
-Če so v kampanji dovoljene druge rase ali vrste, imajo morda višje ali nižje maksimume značilnosti. Magija, mutacije, psihične sposobnosti, čarovništvo ali supermoči lahko prav tako zvišajo značilnosti brez omejitev.
+Če so v kampanji dovoljene druge rase ali vrste, imajo lahko višje ali nižje maksimume značilnosti. Magija, mutacije, psihične sposobnosti, čarovništvo ali supermoči lahko prav tako povečajo značilnosti, brez omejitev.
 
-### Moč (STR)
+### Moč (MOČ)
 
-Moč meri surovo mišično moč. Met za napor (STR×5) je njen met za značilnost. STR pomaga določiti, koliko lahko lik dvigne ali nosi, potisne ali povleče, ali kako tesno se lahko česa oprime. V boju STR določa, kakšno vrsto orožja lahko lik uporablja, in pomaga določiti, koliko dodatne škode (če sploh) povzroči z vsakim zadetkom. STR se lahko poveča z vadbo, medtem ko lahko določene poškodbe in bolezni trajno zmanjšajo STR. Lik s STR 0 je invalid, ki ne more vstati iz postelje.
+Moč meri surovo mišično silo. Met za napor (MOČ×5) je njen met značilnosti. MOČ pomaga določiti, koliko lahko lik dvigne ali nosi, potisne ali vleče, ali kako tesno se lahko drži nečesa. V boju MOČ določa, kakšno orožje lahko lik uporablja, in pomaga določiti, koliko dodatne škode (če sploh) povzroči z vsakim zadetkom. MOČ se lahko poveča z vadbo, medtem ko lahko določene poškodbe in bolezni trajno zmanjšajo MOČ. Lik z MOČ 0 je invalid, ki ne more vstati iz postelje.
 
-### Konstitucija (CON)
+### Vzdržljivost (VZD)
 
-Zdravje, živahnost in vitalnost se merijo s konstitucijo. Met za vzdržljivost (CON×5) je njen met za značilnost. CON določa, kako dobro se lahko lik upre utrujenosti, strupu, bolezni, utapljanju in drugim težavam, in je dejavnik pri izračunu zadetnih točk. CON se lahko poveča s kondicijo. Bolezni, strupi in nekatere poškodbe lahko začasno ali trajno zmanjšajo CON. Lik umre, ko njegova CON pade na 0 zaradi katerega koli razloga.
+Zdravje, življenjsko moč in vitalnost meri Vzdržljivost. Met za vzdržljivost (VZD×5) je njen met značilnosti. VZD določa, kako dobro lahko lik kljubuje utrujenosti, strupu, bolezni, utapljanju in drugim stiskam, ter je dejavnik pri izračunu točk življenja. VZD se lahko poveča s kondicijo. Bolezni, strupi in nekatere poškodbe lahko začasno ali trajno zmanjšajo VZD. Lik umre, ko njegova VZD iz kakršnega koli razloga pade na 0.
 
-### Velikost (SIZ)
+### Velikost (VEL)
 
-Velikost definira višino, težo in maso. Ni meta za značilnost, povezanega s SIZ; na listu za like se prostor uporablja za beleženje bonusa škode. Moti odpornosti z uporabo SIZ lahko določijo, ali lahko lik stoji trdno proti odporu, vidi čez oviro ali se stisne skozi razpoko. SIZ lika kot telesna masa je pomemben dejavnik pri določanju zadetnih točk in modifikatorja škode (če obstaja). Dejavniki, kot sta požrešnost ali togo prehranjevanje, lahko povečajo ali zmanjšajo SIZ, po presoji vašega vodje igre. Nekatere moči lahko vplivajo tudi na SIZ. Hude poškodbe (kot so izgubljeni udovi) lahko prav tako trajno zmanjšajo SIZ. Lik umre, če izgubi več kot polovico svoje SIZ (zaokroženo navzgor) zaradi stradanja ali ekstremne prehrane. Lik, zmanjšan na SIZ 0 z magijo ali drugimi vplivi, preprosto izgine in oveni v nič. Vaš vodja igre mora biti razsodnik za vse nenamerne spremembe SIZ, saj so neobičajne.
+Velikost definira višino, težo in obseg. Ni meta značilnosti, povezanega z VEL; na listu za like se prostor uporablja za beleženje Bonusa škode. Odpornostni meti z uporabo VEL lahko določijo, ali lahko lik trdno stoji proti odporu, vidi čez oviro ali se stisne skozi razpoko. VEL lika, kot telesna masa, je pomemben dejavnik pri določanju točk življenja in modifikatorja škode (če obstaja). Dejavniki, kot sta požrešnost ali stroga dieta, lahko povečajo ali zmanjšajo VEL, po presoji vašega mojstra igre. Nekatere moči lahko prav tako vplivajo na VEL. Hude poškodbe (kot so izgubljeni udi) lahko prav tako trajno zmanjšajo VEL. Lik umre, če izgubi več kot polovico svoje VEL (zaokroženo navzgor) zaradi lakote ali ekstremne diete. Lik, zmanjšan na VEL 0 zaradi magije ali drugih vplivov, preprosto izgine in se izniči v nič. Vaš mojster igre bi moral biti razsodnik kakršnih koli neprostovoljnih sprememb VEL, saj so te neobičajne.
 
-### Inteligenca (INT)
+### Inteligentnost (INT)
 
-Predstavlja razum, mentalno ostrino in pamet, INT meri, kako dobro se lik uči, pomni in analizira informacije. Met za idejo (INT×5) je njen met za značilnost. INT je ključna pri določanju začetnih vrednosti veščin. Morda najpomembnejša značilnost, INT nima fiksnega maksimuma in lahko domnevno neomejeno narašča s študijem in mentalno vadbo. Rane na glavi, dolgotrajna izpostavljenost škodljivim drogam ali določene vrste bolezni lahko zmanjšajo INT. Lik z INT 0 je bil zmanjšan v vegetativno stanje, nesposoben samostojnega preživetja.
+Inteligentnost, ki predstavlja razum, mentalno ostrino in pamet, meri, kako dobro se lik uči, pomni in analizira informacije. Met za idejo (INT×5) je njen met značilnosti. INT je ključna pri določanju začetnih vrednosti veščin. Verjetno najpomembnejša značilnost, INT nima fiksnega maksimuma in se lahko po možnosti neomejeno dviguje s študijem in mentalno vadbo. Rane na glavi, dolgotrajna izpostavljenost škodljivim drogam ali določene vrste bolezni lahko zmanjšajo INT. Lik z INT 0 je zmanjšan na vegetativno stanje, nesposoben samostojnega preživetja.
 
-### Moč (POW)
+### Energija (ENE)
 
-Najbolj nedotakljiva od značilnosti, Moč predstavlja voljo, magično sposobnost in duhovni razvoj. POW je bistvena za vodstvo, intuicijo in magijo. Met za srečo (POW×5) je njen met za značilnost. POW služi kot določevalec za začetne točke moči in začetne točke prisebnosti. Tako kot INT, človeška POW nima nastavljenega maksimuma in lahko neomejeno narašča. Magični vplivi lahko zmanjšajo POW (začasno ali trajno), nekatera magija pa se poganja s trajno žrtvijo točk POW. Za moči (glejte *Četrto poglavje: Moči*) je POW verjetno najpomembnejša značilnost. POW je predlagana osnova za začetne izbire moči, zato bo lik z višjo POW imel več moči (ali več stopenj v teh močeh). Lik, katerega ocena POW doseže 0, je izgubil svojo dušo in postane katatoničen brez kakršne koli volje ali življenjske sile.
+Energija, najbolj neoprijemljiva od značilnosti, predstavlja moč volje, magično nagnjenost in duhovni razvoj. ENE je nujna za vodenje, intuicijo in magijo. Met za srečo (ENE×5) je njen met značilnosti. ENE služi kot določevalec za začetne točke energije in začetne točke prisebnosti. Kot INT, človeška ENE nima določenega maksimuma in se lahko neomejeno dviguje. Magični vplivi lahko zmanjšajo ENE (začasno ali trajno) in nekaj magije se poganja s trajno žrtvijo točk ENE. Za moči (glejte *Četrto poglavje: Moči*) je ENE verjetno najpomembnejša značilnost. ENE je predlagana osnova za začetne izbire moči, zato bo imel lik z višjo ENE več moči (ali več stopenj v teh močeh). Lik, katerega rezultat ENE doseže 0, je izgubil svojo dušo in postane katatoničen brez kakršne koli volje ali življenjske sile.
 
-### Spretnost (DEX)
+### Spretnost (SPR)
 
-Ocena spretnosti meri ravnotežje, agilnost, hitrost in spretnost. Liki se zanašajo na DEX, ko se odzivajo na napad, plezajo, opravljajo občutljivo delo ali se premikajo tiho. Met za agilnost (DEX×5) je njen met za značilnost. Poškodbe ali bolezni živcev lahko zmanjšajo DEX, medtem ko lahko strogo usposabljanje pospeši reflekse in izboljša ravnotežje. Lik z DEX 0 je popolnoma negiben.
+Rezultat Spretnosti meri ravnotežje, agilnost, hitrost in spretnost. Liki se zanašajo na SPR, ko se odzivajo na napad, plezajo, opravljajo občutljivo delo ali se tiho premikajo. Met za agilnost (SPR×5) je njen met značilnosti. Poškodbe ali živčne bolezni lahko zmanjšajo SPR, medtem ko lahko strogo usposabljanje pospeši reflekse in izboljša ravnotežje. Lik s SPR 0 je popolnoma negibljiv.
 
-### Karizma (CHA)
+### Karizma (KAR)
 
-Karizma določa, kako prijeten ali privlačen je lik drugim, in temelji tako na prisotnosti, osebnosti in vedenju kot na preprostem fizičnem videzu. Met za šarm (CHA×5) tvori njen met za značilnost. Karizma se uporablja za merjenje prvih vtisov in nakazuje, kako željni bodo drugi druženja z nekom, prek fizične privlačnosti ali privlačne osebnosti. Karizma se lahko dvigne s fizično kondicijo, kozmetično kirurgijo ali skrbno aplikacijo urejanja in bontona. Lahko se celo nekoliko izboljša z lastništvom še posebej impresivne opreme. Prav tako se lahko zmanjša s poškodbo ali boleznijo. Lik s CHA 0 je bodisi popolnoma zoprn, kar izzove gnus pri vseh, ki ga srečajo, bodisi je postal tako neopazen, da komajda pritegne pozornost.
+Karizma določa, kako všečen ali privlačen je lik drugim, in temelji prav toliko na prisotnosti, osebnosti in obnašanju kot na preprostem fizičnem videzu. Met za šarm (KAR×5) tvori njen met značilnosti. Karizma se uporablja za merjenje prvih vtisov in kaže, kako nestrpni bodo drugi do druženja z nekom, bodisi zaradi fizične privlačnosti ali privlačne osebnosti. Karizmo je mogoče dvigniti s fizično kondicijo, kozmetično kirurgijo ali skrbno uporabo urejanja in etikete. Lahko bi se celo nekoliko izboljšala z lastništvom posebej impresivne opreme. Prav tako se lahko zmanjša s poškodbo ali boleznijo. Lik s KAR 0 je bodisi popolnoma zoprten, kar povzroča gnus pri vseh, ki jih srečajo, ali pa je postal tako nevpadljiv, da komajda registrirajo njegovo prisotnost.
 
 > ### Kulturni modifikatorji značilnosti (Možnost)
 > 
-> Nekatere kulture lahko prejmejo modifikatorje za osnovne značilnosti, kot je SIZ. To je lahko potencialno občutljiva tema. Vaš vodja igre se spodbuja, da takšne bonuse podeljuje s previdnostjo in da uravnoteži pozitivne bonuse z negativnimi ali da izenači igro tako, da vsem kulturam da enakovreden bonus, čeprav morda za različne značilnosti ali lastnosti. Izrecno ni priporočljivo kaznovati INT, ne glede na navidezno utemeljitev. Noben igralec ne bi smel biti kaznovan za izbiro določene kulture. Prav tako se priporoča, da se to uporablja le za nastavitve, kjer so takšne razlike običajno sprejemljive, na primer v fantazijskih svetovih, kjer so rodovniki edinstveni, ali v znanstvenofantastičnih okoljih, kjer je bilo človeštvo oblikovano z genetsko manipulacijo in se je prilagodilo galaktičnemu okolju.
+> Nekatere kulture lahko prejmejo modifikatorje za osnovne značilnosti, kot je VEL. To je lahko potencialno občutljiva tema. Vaš mojster igre se spodbuja, da takšne bonuse podeljuje previdno in da uravnoteži pozitivne bonuse z negativnimi ali da izenači igro tako, da vsem kulturam nameni enakovreden bonus, čeprav morda za različne značilnosti ali atribute. Odločno ni priporočljivo kaznovati INT, ne glede na očitno utemeljitev. Noben igralec ne sme biti kaznovan za izbiro določene kulture. Priporočljivo je tudi, da se to uporablja le za okolja, kjer so takšne razlike splošno sprejemljive, kot na primer v domišljijskih svetovih, kjer so krvne linije edinstvene, ali v znanstvenofantastičnih okoljih, kjer se je človeštvo oblikovalo z gensko manipulacijo in se prilagodilo galaktičnemu okolju.
 
-## Moti značilnosti
+## Meti značilnosti
 
-Nekateri izzivi se ne preslikajo intuitivno v določene veščine. Ali lahko lovec ostane buden v zasedi vso noč in čaka na svoj plen? Ali lahko utrjen detektiv sestavi vabljiv namig, skrit v ostankih dokazov? V teh situacijah lahko vaš vodja igre zahteva met za značilnost: met D100 proti ustrezni značilnosti, pomnožen z drugo številko. Vaš vodja igre se odloči, kateri multiplikator uporabiti na podlagi težavnosti naloge. Standardni meti za značilnost uporabljajo multiplikator ×5, čeprav lahko izjemno težke naloge zahtevajo multiplikator ×2 ali celo temeljijo na sami značilnosti kot odstotek. Za več podrobnosti o težavnosti nalog in izbiri modifikatorja glejte *Petim poglavje: Sistem*.
+Nekateri izzivi se intuitivno ne preslikajo na določene veščine. Ali lahko lovec celo noč ostane buden v zasedi in čaka na svoj plen? Ali lahko izkušen detektiv sestavi mamljive namige, skrite v ostankih dokazov? V teh situacijah lahko vaš mojster igre zahteva met značilnosti: met D100 proti ustrezni značilnosti, pomnožen z drugim številom. Vaš mojster igre se odloči, kateri množitelj uporabiti glede na težavnost naloge. Standardni meti značilnosti uporabljajo množitelj ×5, čeprav lahko izjemno težke naloge zahtevajo množitelj ×2 ali celo temeljijo na sami značilnosti kot odstotek. Za več podrobnosti o težavnosti naloge in izbiri modifikatorja glejte *Peto poglavje: Sistem*.
 
-### Met za napor (STR×5)
+### Met za napor (MOČ×5)
 
-Večina podvigov moči vključuje primerjanje STR s SIZ dvignjenega predmeta na tabeli odpornosti (glejte *Petim poglavje: Sistem*). V primerih, ko ocena SIZ ni na voljo ali jo je težko določiti, uporabite met za napor. Moti za napor se lahko uporabijo tudi kot preprost način za določitev stvari, na primer ali se lik lahko povleče na polico. So izčrpani po dolgem pohodu? Met za napor je hiter način odločanja.
+Večina podvigov moči vključuje primerjavo MOČ proti VEL dvignjenega predmeta na odpornostni tabeli (glejte *Peto poglavje: Sistem*). V primerih, ko ocena VEL ni na voljo ali jo je težko določiti, uporabite met za napor. Mente za napor lahko uporabite tudi kot preprost način za določitev stvari, kot je, ali se lik lahko povleče na polico. So izčrpani po dolgem pohodu? Met za napor je hiter način za odločitev.
 
-### Met za vzdržljivost (CON×5)
+### Met za vzdržljivost (VZD×5)
 
-Na podlagi CON, meti za vzdržljivost merijo vzdržljivost. Uporabite met za vzdržljivost, kadar je vprašljiva fizična ali črevesna utrjenost. Da navedemo nekaj primerov, met za vzdržljivost lahko določi, ali lahko lik ostane buden vso noč ali prenaša morsko bolezen, slabo pripravljeno hrano ali močno pijačo brez slabih učinkov.
+Na podlagi VZD, meti za vzdržljivost merijo vzdržljivost. Uporabite met za vzdržljivost, kadar je vprašljiva fizična ali črevesna trdnost. Če naštejemo nekaj primerov, lahko met za vzdržljivost določi, ali lahko lik ostane buden celo noč ali zdrži morsko bolezen, slabo pripravljeno hrano ali močno pijačo brez slabih učinkov.
 
 ### Met za idejo (INT×5)
 
-Met za idejo predstavlja sposobnost pametnega ugibanja, utemeljenih slutem ali razumnih dedukcij, ki temeljijo le na opazovanju in surovem intelektu. Kadar se nobena veščina ne zdi primerna, lahko met za idejo pokaže razumevanje koncepta ali sposobnost razpletanja uganke. Spomin je prav tako del meta za idejo: uporabite met za idejo, da se spomnite pomembne podrobnosti, sledite korakom skozi labirint ali si zapomnite dolgo formulo.
+Met za idejo predstavlja sposobnost pametnih ugibanj, utemeljenih slutanj ali razumnih sklepov, ki temeljijo le na opazovanju in surovi inteligenci. Ko se nobena veščina ne zdi primerna, lahko met za idejo pokaže razumevanje koncepta ali sposobnost razvozlanja uganke. Spomin je prav tako del meta za idejo: uporabite met za idejo, da se spomnite pomembne podrobnosti, sledite korakom skozi labirint ali si zapomnite dolgo formulo.
 
-Vaš vodja igre lahko dovoli met za idejo tudi, če ste obtičali, vas vrne na pravo pot z razkritjem skritega pomena že odkritih namigov ali tako, da vam sporoči, da nekaj »ne deluje povsem prav« pri določeni osebi, kraju ali stvari. Ta vrsta meta za idejo se sme podeliti le po presoji vašega vodje igre in je igralci na splošno ne zahtevajo.
+Vaš mojster igre lahko dovoli met za idejo, če ste obtičali, vas vrne na pravo pot z razkritjem skritega pomena že odkritega namiga ali vam sporoči, da nekaj »ne deluje povsem prav« glede določene osebe, kraja ali stvari. Ta vrsta meta za idejo bi morala biti dovoljena le po presoji vašega mojstra igre in je igralci na splošno ne zahtevajo.
 
-Vaš vodja igre lahko zahteva met za idejo tudi, če želite, da vaš lik misli ali se vede na način, ki predstavlja igralčevo znanje v primerjavi z znanjem lika. Če je lik na primer primitiven lovec, ki sreča sodobno tehnologijo, lahko vaš vodja igre zahteva met za idejo, da bi lahko razumel osnovne koncepte predmeta, čeprav igralec samodejno ve, kaj je to, na podlagi njegovega opisa.
+Vaš mojster igre lahko zahteva met za idejo tudi, če želite, da vaš lik razmišlja ali se obnaša na način, ki predstavlja znanje igralca v primerjavi z znanjem lika. Če je lik na primer primitiven lovec, ki naleti na sodobno tehnologijo, lahko vaš mojster igre zahteva met za idejo, da bi lahko razumel osnovne koncepte predmeta, tudi če igralec samodejno ve, kaj je to na podlagi njegovega opisa.
 
-### Met za srečo (POW×5)
+### Met za srečo (ENE×5)
 
-Sreča je spretnost biti na pravem mestu ob pravem času, da stvari uspejo kljub pričakovanjem, ali nenavadna sposobnost, da se izogneš naključni nevarnosti nepoškodovan. Ali ima vaš lik ravno tisti poseben košček ali opremo? Bo prijazen mimoidoči pomagal, če obtičijo ob strani ceste? Ali gnusno bitje napade lika ali bližnjega nelika? Ali lik pade skozi šibka tla ali zatakne svoja oblačila ob razcepljeno desko in se izogne padcu v smrt? Moti za srečo se lahko uporabijo za odgovor na vsa ta vprašanja. Uspešni moti za srečo lahko ustvarijo srečna naključja v normalnih okoliščinah ali rešijo nekoga pred gotovo pogubo v nujnih primerih.
+Sreča je spretnost, da ste ob pravem času na pravem mestu, da se stvari izidejo kljub pričakovanjem ali nenavadna sposobnost, da se izognete naključni nevarnosti nepoškodovani. Ali ima vaš lik ravno tisti poseben del opreme? Ali bo prijazen mimoidoči priskočil na pomoč, če obtičijo ob cesti? Ali grozljivo bitje napade lika ali bližnjega nelika? Ali lik pade skozi šibka tla ali se zaplete z oblačili ob okrušeno desko in se izogne padcu v smrt? Mente za srečo lahko uporabite za odgovor na vsa ta vprašanja. Uspešni meti za srečo lahko ustvarijo srečna naključja v normalnih okoliščinah ali rešijo nekoga pred gotovo pogubo v sili.
 
-### Met za agilnost (DEX×5)
+### Met za agilnost (SPR×5)
 
-Kadar je zahtevan podvig spretnosti, ravnotežja ali agilnosti in ne obstaja nobena ustrezna veščina, uporabite met za agilnost za merjenje uspeha. Met za agilnost lahko na primer določi, ali lahko lik obdrži ravnotežje na palubi razburjenega ladijskega krova, na hitro zbere vse kose zlomljene vaze, teče z dragocenim eliksirjem, ne da bi ga polil, ali zgrabi vinsko trto na robu pečine, preden pade.
+Kadar je potreben podvig spretnosti, ravnotežja ali agilnosti in ne obstaja nobena ustrezna veščina, uporabite met za agilnost, da izmerite uspeh. Met za agilnost bi na primer lahko določil, ali lahko lik obdrži ravnotežje na krovu premikajoče se ladje, v naglici zbere vse koščke razbite vaze, teče z dragocenim eliksirjem, ne da bi ga polil, ali zgrabi trto na robu pečine, preden pade.
 
-### Met za šarm (CHA×5)
+### Met za šarm (KAR×5)
 
-Uporabite mete za šarm za presojanje medosebnih reakcij, ki jih ne pokriva obstoječa veščina. Ustvarjanje dobrega prvega vtisa, zapeljevanje znanca ali postajanje oseba, h kateri se skupina najprej obrne po nasvet, so vse dobre uporabe meta za karizmo. Če lik stoji zunaj trendi nočnega kluba in želi biti spuščen noter, ga bo uspešen met za šarm naredil opaženega in ga spustil skozi vrata.
+Uporabite mete za šarm za presojo medosebnih reakcij, ki jih ne zajema obstoječa veščina. Ustvarjanje dobrega prvega vtisa, zapeljevanje znanca ali postajanje oseba, h kateri se skupina najprej obrne po nasvet, so vse dobre uporabe meta za karizmo. Če lik stoji pred trendovskim nočnim klubom in želi vstopiti, bo uspešen met za šarm poskrbel, da ga bodo opazili in pomahali skozi vrata.
 
-> ### Značilnost Izobrazba (EDU) (Možnost)
+> ### Značilnost Izobrazba (Možnost)
 > 
-> Sedem glavnih značilnosti služi za večino iger, ne glede na okolje, toda Izobrazba (EDU), neobvezna osma značilnost, se lahko uporabi za pomoč pri generiranju začetnih točk veščin. EDU najbolje deluje v sodobnih ali futurističnih okoljih, vendar se zlahka prilagodi kateremu koli kampanjskemu okolju.
+> Sedem glavnih značilnosti služi za večino iger, ne glede na okolje, vendar se lahko Izobrazba (IZO), neobvezna osma značilnost, uporabi za pomoč pri ustvarjanju začetnih točk veščin. IZO najbolje deluje v sodobnih ali futurističnih okoljih, vendar jo je mogoče enostavno prilagoditi kateri koli kampanji.
 > 
-> #### Izobrazba (EDU)
+> #### Izobrazba (IZO)
 > 
-> Izobrazba meri likovo razumevanje splošnega znanja, pridobljenega prek zaokroženega izobraževalnega sistema ali kakšne druge metode širšega učenja. To ni nadomestilo za specifično znanje o področju—namesto tega predstavlja splošno znanje o svetu. Ne glede na to, ali je pridobljeno s formalnim študijem, usposabljanjem ali težko pridobljenimi izkušnjami, EDU lahko meri tudi, koliko let se je lik usposabljal ali študiral, da bi dosegel svojo trenutno stopnjo znanja.
+> Izobrazba meri razumevanje lika o splošnem znanju, pridobljenem prek zaokroženega izobraževalnega sistema ali kakšne druge široke metode učenja. To ni nadomestek za specifično znanje o področju – namesto tega predstavlja splošno znanje o svetu. Ne glede na to, ali je pridobljeno s formalnim študijem, usposabljanjem ali težko pridobljenimi izkušnjami, lahko IZO meri tudi, koliko let je lik treniral ali študiral, da je dosegel svojo trenutno stopnjo znanja.
 > 
-> EDU se ne korelira samodejno z 1 točko EDU = 1 leto v šoli. Lahko predstavlja tudi splošno življenjsko znanje kot tudi namensko študijo. Vsa leta v šoli niso izobraževalna, tako kot ves čas, preživet zunaj šole, ne pomeni, da se nič ne nauči. EDU se lahko zlahka prilagodi večini okolij—njen pomen je očiten v okoljih s standardiziranimi izobraževalnimi sistemi. V srednjeveškem okolju bi lahko predstavljala inštrukcije ali študij v kolegijih, licejih ali samostanih ali obsežna potovanja po eksotičnih trgovskih poteh in v tuja pristanišča.
+> IZO ne korelira samodejno z 1 točko IZO = 1 leto v šoli. Lahko predstavlja tudi splošno življenjsko znanje kot tudi zavzeto študiranje. Vsa leta v šoli niso izobraževalna, tako kot ves čas, porabljen zunaj šole, ne pomeni, da se ničesar ne naučijo. IZO se lahko zlahka prilagodi večini okolij – njen pomen je očiten v okoljih s standardiziranimi izobraževalnimi sistemi. V srednjeveškem okolju bi lahko predstavljala inštrukcije ali študij na kolegijih, licejih ali samostanih ali obsežna potovanja po eksotičnih trgovskih poteh in v tuja pristanišča.
 > 
-> Izguba spomina lahko zmanjša EDU, medtem ko leto trdega študija ali intenzivnega usposabljanja poveča za +1. EDU 0 nakazuje praznino znanja o zunanjem svetu, čeprav to ne pomeni, da je vsak skoraj amnezik v kampanjah, kjer se ta značilnost ne uporablja. EDU ne velja za živali ali bitja brez značilnosti EDU—njihovo znanje je bodisi instinktivno bodisi temelji na drugačnih načelih.
+> Izguba spomina lahko zmanjša IZO, medtem ko leto trdega študija ali intenzivnega usposabljanja poveča za +1. IZO 0 kaže na praznino znanja o zunanjem svetu, čeprav to ne pomeni, da so vsi skoraj amneziki v kampanjah, kjer se ta značilnost ne uporablja. IZO ne velja za živali ali bitja brez značilnosti IZO – njihovo znanje je bodisi instinktivno bodisi temelji na različnih postavkah.
 > 
-> Uporabo EDU je treba združiti tudi z metom za znanje (EDU×5).
+> Uporabo IZO je treba povezati tudi z metom za znanje (IZO×5).
 > 
-> ### Met za znanje (EDU×5) (Možnost)
+> ### Met za znanje (IZO×5) (Možnost)
 > 
-> Met za znanje pokriva dejstva in malenkosti, ki jih povprečna oseba pozna kot »splošno znanje«. Moti za znanje se lahko uporabijo za priklic različnih vrst dejstev, odvisno od okolja in celo kulture danega lika. Srednjeveški kmet bi lahko uporabil met za znanje, da se spomni imena plemiškega gospoda ali podrobnosti iz življenj svetnikov, medtem ko bi se sodobni državljan ZDA spomnil pomembnih predsednikov ali se spomnil, kaj se zgodi, če se zmešata belilo in amoniak. Moti za znanje bi le redko morali nadomestiti bolj specializirano veščino znanja in se ukvarjajo izključno z dejstvi. Dobra uporaba teh dejstev je funkcija INT.
-
+> Met za znanje zajema dejstva in zanimivosti, ki jih povprečen človek pozna kot »splošno znanje«. Mete za znanje lahko uporabite za priklic različnih vrst dejstev, odvisno od okolja in celo kulture danega lika. Srednjeveški kmet bi lahko uporabil met za znanje, da bi se spomnil imena plemenitega gospoda ali podrobnosti o življenju svetnikov, medtem ko bi se sodobni državljan ZDA spomnil pomembnih predsednikov ali kaj se zgodi, če se zmešata belilo in amoniak. Mete za znanje bi morali redko nadomestiti bolj specializirano veščino Znanja in se ukvarjajo strogo z dejstvi. Dobra uporaba teh dejstev je funkcija INT.
 
 ## Izpeljane značilnosti
 
-Poleg značilnosti (in njihovih spremljajočih metov za značilnosti) je lik definiran tudi z naborom izpeljanih značilnosti, izračunanih iz njihovih značilnosti. Če poškodbe, magija ali drugi dejavniki povečajo ali zmanjšajo značilnost, se vse značilnosti, izpeljane iz te značilnosti, takoj spremenijo, da odražajo novo vrednost.
+Poleg značilnosti (in njihovih pripadajočih metov značilnosti) je lik definiran tudi z nizom izpeljanih značilnosti, izračunanih iz njihovih značilnosti. Če poškodbe, magija ali drugi dejavniki povečajo ali zmanjšajo značilnost, se vse značilnosti, izpeljane iz te značilnosti, takoj spremenijo, da odražajo novo vrednost.
 
-Na primer, *vaš lik (CON 16, SIZ 14, HP 15) postane žrtev smrtonosnega strupa, ki zmanjša njihovo vrednost CON na 10. Najvišje zadetne točke vašega lika takoj padejo s 15 (16+14=30, deljeno na 15) na 12 (10+14=24, deljeno na 12). Poleg tega njihova skupna vrednost za hudo rano pade z 8 na 6. Če bi rane že prej prinesle vaš lik pod 12 zadetnih točk, ne bi utrpeli dodatne škode, vendar so omejeni na maksimum 12 zadetnih točk, dokler se ne obnovi njihova prvotna CON.*
+Na primer, *vaš lik (VZD 16, VEL 14, TŽ 15) postane žrtev smrtonosnega strupa, ki zmanjša njegovo vrednost VZD na 10. Najvišje točke življenja vašega lika takoj padejo s 15 (16+14=30, deljeno na 15) na 12 (10+14=24, deljeno na 12). Poleg tega se njihova skupna raven hude rane zniža z 8 na 6. Če bi rane vaš lik že spravile pod 12 točk življenja, ne bi utrpel nobene dodatne škode, vendar so omejeni na maksimum 12 točk življenja, dokler se njihova prvotna VZD ne obnovi.*
 
-### Modifikator škode (STR+SIZ, glejte tabelo)
+### Modifikator škode (MOČ+VEL, glejte tabelo)
 
-Večji, močnejši liki in bitja so bolj zmogljivi v fizičnem boju in z vsakim udarcem povzročijo več škode kot povprečje. Manjša, šibkejša bitja povzročijo manj škode s svojimi napadi. Modifikator škode odraža to prednost, izraženo v smislu kock škode, dodanih ali odštetih od škode uspešnih napadov.
+Večji, močnejši liki in bitja so močnejši v fizičnem boju in z vsakim udarcem povzročijo več škode kot povprečje. Manjša, šibkejša bitja povzročijo manj škode s svojimi napadi. Modifikator škode odraža to prednost, izraženo v smislu kock škode, dodanih ali odštetih od škode uspešnih napadov.
 
-Lik doda svoj polni modifikator škode vsem zadetkom s pretepanjem ali orožjem za bližnji boj. V primeru negativnega modifikatorja škode odštejte ustrezne kocke od kakršne koli povzročene škode. Če je skupna vrednost 0 ali manj, je udarec premehak, da bi povzročil kakršno koli škodo. Napad nikoli ne naredi negativne škode, zato če modifikator pade pod 0, ga štejte kot 0.
+Lik doda svoj polni modifikator škode vsem zadetkom s pretepanjem ali orožjem za bližnji boj. V primeru negativnega modifikatorja škode odštejte ustrezne kocke od kakršne koli povzročene škode. Če je skupni seštevek 0 ali manj, je udarec preblag, da bi povzročil kakršno koli škodo. Napad nikoli ne povzroči negativne škode, zato če modifikator pade pod 0, ga štejte za 0.
 
-Izstrelno orožje liku ne omogoča uporabe polnega modifikatorja škode. Če je modifikator škode vašega lika pozitiven, rezultate prepolovite (zaokroženo navzgor) pri uporabi metanega orožja ali loka. Če je modifikator škode negativen, ga ohranite takšnega, kot je. Samopogonljivo orožje (strelno orožje, energetsko izstrelno orožje itd.) ne prejme modifikatorja škode.
+Orožja na izstrelke liku ne dovoljujejo uporabe polnega modifikatorja škode. Če je modifikator škode vašega lika pozitiven, rezultate prepolovite (zaokroženo navzgor), ko uporabljate vrženo orožje ali lok. Če je modifikator škode negativen, obdržite modifikator takšen, kot je. Samohodno orožje (strelno orožje, energijsko orožje na izstrelke itd.) ne prejme modifikatorja škode.
 
-Za izračun modifikatorja škode seštejte STR in SIZ lika in poiščite rezultat v spodnji tabeli **Modifikator škode**.
+Za izračun modifikatorja škode seštejte MOČ in VEL lika ter poiščite rezultat v **tabeli Modifikator škode** (spodaj).
 
 ##### Modifikator škode
 
-| STR+SIZ | Modifikator škode | STR+SIZ | Modifikator škode |
+| MOČ+VEL | Modifikator škode | MOČ+VEL | Modifikator škode |
 | :---- | :---- | :---- | :---- |
 | 2–12 | –1D6 | 73–88 | +4D6 |
 | 13–16 | –1D4 | 89–104 | +5D6 |
@@ -402,29 +401,29 @@ Za izračun modifikatorja škode seštejte STR in SIZ lika in poiščite rezulta
 | 25–32 | +1D4 | 121–136 | +7D6 |
 | 33–40 | +1D6 | 137–152 | +8D6 |
 | 41–56 | +2D6 | 153–168 | +9D6 |
-| 57–72 | +3D6 | Vsakih +16 | Dodatnih +1D6 |
+| 57–72 | +3D6 | Vsakih +16 | Dodatno +1D6 |
 
 ### Bonus izkušenj (1/2 INT)
 
-Bolj ko je lik pameten, hitreje se lahko uči, zlasti pod stresom. Za določitev bonusa izkušenj delite njihovo INT z 2, zaokroženo navzgor. Bonus izkušenj dodajte k metu učenja za vsako preverjanje izkušenj, ki ga vaš lik opravi za izboljšanje veščine ali značilnosti. Glejte *Petim poglavje: Sistem* in *Izboljšanje veščin*.
+Pametnejši kot je lik, hitreje se lahko uči, še posebej pod stresom. Za določitev bonusa izkušenj delite njihovo INT z 2, zaokroženo navzgor. Dodajte bonus izkušenj k metu za učenje za vsak preizkus izkušenj, ki ga vaš lik naredi za izboljšanje veščine ali značilnosti. Oglejte si Peto poglavje: Sistem in izboljšanje veščin.
 
-### Zadetne točke (Povprečje CON in SIZ)
+### Točke življenja (Povprečje VZD in VEL)
 
-Zadetne točke predstavljajo sposobnost vašega lika, da prenese kazen in fizične poškodbe. Pri prejemanju škode odštejte zadetne točke od trenutne skupne vrednosti. Izračunajte najvišje zadetne točke tako, da seštejete oceni CON in SIZ svojega lika, nato delite vsoto z 2. Vse ulomke zaokrožite navzgor.
+Točke življenja predstavljajo sposobnost vašega lika, da prenese kaznovanje in fizične poškodbe. Ko prejmete škodo, odštejte točke življenja od trenutnega seštevka. Izračunajte najvišje točke življenja tako, da seštejete rezultate VZD in VEL vašega lika, nato delite skupni znesek z 2. Vse ulomke zaokrožite navzgor.
 
-Vaš lik izgubi zavest, ko so njegove zadetne točke zmanjšane na 2 ali manj, in če njegove zadetne točke dosežejo 0, umre ob koncu naslednjega kroga. Lik lahko izgubi več zadetnih točk, kot jih ima, zato spremljajte vsako negativno vrednost. Izgubljene zadetne točke se naravno zacelijo s hitrostjo 1D3 točk na igralni teden, čeprav zdravniška pomoč lahko pospeši okrevanje. Glejte *Poškodbe in zdravljenje* in *Naravno zdravljenje*.
+Vaš lik izgubi zavest, ko se točke življenja znižajo na 2 ali manj, in če točke življenja dosežejo 0, umre ob koncu naslednjega kroga. Lik lahko izgubi več točk življenja, kot jih imate, zato spremljajte kakršno koli negativno vrednost. Izgubljene točke življenja se naravno celijo s hitrostjo 1D3 točk na igralni teden, čeprav lahko zdravniška pomoč pospeši okrevanje. Glejte Škoda in zdravljenje ter Naravno zdravljenje.
 
-### Hude rane (1/2 HP)
+### Hude rane (1/2 TŽ)
 
-Skupno število zadetnih točk vašega lika delite na polovico, po potrebi zaokrožite navzgor. Ta vsota je njihova raven hude rane. Če vaš lik prejme to količino škode od ene same rane, lahko poleg preproste izgube zadetnih točk utrpi tudi grozljive stranske učinke. Glejte *Hude rane* v *Šestem poglavju: Boj*.
+Skupno število točk življenja vašega lika delite na polovico, po potrebi zaokrožite navzgor. Ta seštevek je njihova raven hude rane. Če vaš lik utrpi to količino škode od ene same rane, lahko trpi grozljive stranske učinke, pa tudi preprosto izgubo točk življenja. Glejte Hude rane v *Šestem poglavju: Boj*.
 
-### Točke moči (Maks = POW)
+### Točke energije (Maks. = ENE)
 
-Točke moči (PP) predstavljajo bistvo vašega lika, njihove rezerve duhovne ali življenjske energije. Vaš lik porablja točke moči za čaranje ali upiranje urokom. Najvišje točke moči vašega lika so običajno enake njihovi značilnosti POW. Na splošno se porabljene točke moči obnovijo s hitrostjo 1 na uro spanja ali popolnega počitka, ali 1 na vsaki dve uri normalne aktivnosti. Glejte tabelo **Hitrost obnavljanja točk moči** za hitrosti pri višjih ocenah POW. Če je vaš lik vpleten v naporno aktivnost, ne more povrniti točk moči. Ko skupno število točk moči vašega lika pade na 0, so popolnoma izčrpani in omedlijo, dokler ne povrnejo vsaj 1 točke moči. Negativnih točk moči ni mogoče imeti.
+Točke energije (TE) predstavljajo vitalno bistvo vašega lika, njihove rezerve duhovne ali življenjske energije. Vaš lik porabi točke energije za čaranje ali upiranje urokoma. Najvišje točke energije vašega lika so običajno enake njihovi značilnosti ENE. Na splošno se porabljene točke energije obnavljajo s hitrostjo 1 na uro spanja ali popolnega počitka, ali 1 na vsaki dve uri normalne dejavnosti. Glejte tabelo **Stopnja obnavljanja točk energije** za stopnje za višje rezultate ENE. Če je vaš lik vključen v naporno dejavnost, ne more povrniti točk energije. Ko skupno število točk energije vašega lika pade na 0, je popolnoma izčrpan in omedli, dokler ne povrne vsaj 1 točke energije. Nihče ne more imeti negativnih točk energije.
 
-##### Hitrost obnavljanja točk moči
+##### Stopnja obnavljanja točk energije
 
-| Maks PP | Spi | Buden |
+| Maks. TE | Spanje | Budnost |
 | :---- | :---- | :---- |
 | 1–24 | 1 na uro | 1 na 2 uri |
 | 25–48 | 2 na uro | 1 na uro |
@@ -432,45 +431,43 @@ Točke moči (PP) predstavljajo bistvo vašega lika, njihove rezerve duhovne ali
 | 73–96 | 4 na uro | 1 na 30 minut |
 | 97+ | +1 na uro k zgornjemu | +1 na uro k zgornjemu |
 
-Za razliko od zadetnih točk ali točk utrujenosti se lahko točke moči za kratek čas dvignejo nad maksimum pod določenimi pogoji. Kot je navedeno, če vaš lik prejme dodatne točke moči (običajno z uporabo moči), lahko shrani do dvakratnik svoje značilnosti POW v dodatnih točkah moči. Vse točke moči nad tem so izgubljene. Če vaš lik porabi kakršne koli točke moči, medtem ko je nad svojim normalnim maksimumom, morajo te najprej priti iz dodatnih točk moči. Te dodatne točke moči se ne obnovijo in se ne regenerirajo kot običajno ter popolnoma izginejo po noči spanja ali ustreznem trenutku, ki ga določi vaš vodja igre.
+Za razliko od točk življenja ali točk utrujenosti se lahko točke energije pod določenimi pogoji za kratek čas povzpnejo nad maksimum. Kot je navedeno, če vaš lik prejme dodatne točke energije (običajno z uporabo moči), lahko shrani do dvakrat večjo vrednost svoje značilnosti ENE v dodatnih točkah energije. Vse točke energije nad tem se izgubijo. Če vaš lik uporabi kakršne koli točke energije, medtem ko je nad svojim normalnim maksimumom, morajo te najprej priti iz dodatnih točk energije. Te dodatne točke energije se ne obnavljajo in se ne obnavljajo kot običajno ter popolnoma izginejo po noči spanja ali primernem trenutku, ki ga določi vaš mojster igre.
 
-Predmeti, ki shranjujejo točke moči in uporabniku omogočajo uporabo shranjenih točk moči, se ne štejejo v to vsoto, dokler točke moči niso shranjene v uporabnikovi lastni rezervi točk moči. V večini primerov se točke moči uporabijo neposredno iz rezerve predmeta in ne vplivajo na uporabnikove lastne točke moči. Glejte *Osemem poglavje: Oprema* za več o predmetih z rezervoarji točk moči.
+Predmeti, ki shranjujejo točke energije in omogočajo uporabniku uporabo shranjenih točk energije, ne štejejo v ta skupni seštevek, dokler točke energije niso shranjene v uporabnikovi lastni rezervi točk energije. V večini primerov se točke energije uporabijo neposredno iz rezerve predmeta in ne vplivajo na uporabnikove lastne točke energije. Glejte Osmo poglavje: Oprema za več o predmetih z rezervoarji točk energije.
 
-### Premik (MOV)
+### Gibanje (GIB)
 
-Vsi človeški in humanoidni liki začnejo z atributom premikanja (MOV) 10. To meri, koliko razdalje lahko vaš lik premaga v krogu boja. Enota je prilagodljiva razdalja in se lahko giblje od 1–5 metrov, odvisno od tega, kako hitro se vaš lik premika.
+Vsi človeški in humanoidni liki začnejo z atributom gibanja (GIB) 10. To meri, kolikšno razdaljo se lahko vaš lik premakne v krogu boja. Enota je prilagodljiva razdalja in lahko znaša od 1–5 metrov, odvisno od tega, kako hitro se vaš lik premika.
 
-* Hoja je 1 meter na MOV.
+* Hoja je 1 meter na GIB.
 
-* Tek je do 5 metrov na MOV.
+* Tek je do 5 metrov na GIB.
 
-* Povprečna hitrost premikanja v boju je 3 metre (jarde) na enoto, kar pomeni, da se v povprečju vaš lik premakne za 30 metrov na krog boja.
+* Povprečna stopnja gibanja v boju je 3 metre (jardi) na enoto, kar pomeni, da se v povprečju vaš lik premakne 30 metrov na krog boja.
 
-Stopnje premikanja so dodatno opisane v **Stopnje premikanja** v *Petem poglavju: Sistem*.
+Stopnje gibanja so dodatno opisane v **Stopnjah gibanja** v Petem poglavju: Sistem.
 
-> ### Druge vrste točk moči (Možnost)
+> ### Druge vrste točk energije (Možnost)
 > 
-> Zaradi raznolikosti moči v *Četrtem poglavju: Moči* se »točke moči« uporabljajo namesto drugih imen, kot so »začasna moč« ali »magične točke«. Po želji lahko vaš vodja igre spremeni ime v »energetske točke« ali »magične točke« ali kar koli, kar je primerno za okolje. Če se uporabljajo drugi sistemi razen magije ali čarovništva, se priporoča, da se še naprej imenujejo točke moči, da bi se izognili zmedi. Svetuje se, da se v isti igri ne uporabljata dve različni imeni za točke moči.
+> Zaradi raznolikosti moči v *Četrtem poglavju: Moči* se »točke energije« uporabljajo namesto drugih imen, kot sta »začasna energija« ali »magične točke«. Če želite, lahko vaš mojster igre spremeni ime v »točke energije« ali »magične točke« ali kar koli, kar je primerno za okolje. Če se uporabljajo drugi sistemi razen magije ali čarovništva, je priporočljivo, da jih imenujete točke energije, da se izognete zmedi. Priporočljivo je, da v isti igri ne uporabljate dveh različnih imen za točke energije.
 
+> ### Skupne točke življenja (Možnost)
+> 
+> Za odpornejše igralčeve like, ki lahko preživijo precej več škode, uporabite VZD+VEL za določitev točk življenja, brez deljenja z 2. To ima za posledico like, ki se lahko dobro znajdejo v boju, prenesejo poškodbe brez večjih nevšečnosti in naredijo hude rane veliko manj pogoste. Poškodbe, ki jih povzročijo posebni in kritični uspehi, so veliko manj verjetno, da bi like takoj ubile. Ta neobvezni sistem se lahko enostavno uporablja s sistemom točk življenja po lokaciji, kar poveča možnosti, da bodo liki ostali povezani s svojimi udovi, in obratno.
+> 
+> Da bi naredili jasno razliko med igralčevimi liki in šibkejšimi neliki, ki so »topovska hrana«, lahko vaš mojster igre zahteva, da le igralčevi liki in pomembni neliki uporabljajo točke življenja, enake VZD+VEL, medtem ko imajo vsi drugi neliki točke življenja na podlagi (VZD+VEL)/2. To daje igralčevim likom znatno prednost in jim omogoča, da preživijo več kot nekaj trdnih poškodb. Prav tako omogoča igralčeve like, ki se lahko spopadejo z velikim številom nelikov brez znatnega strahu, da bi jih ubil en sam kritični udarec.
 
-> ### Skupne zadetne točke (Možnost)
+> ### Točke življenja po lokaciji zadetka (Možnost)
 > 
-> Za trpežnejše igralčeve like, sposobne preživeti precej več škode, uporabite CON+SIZ za določitev zadetnih točk, ne da bi delili z 2. To rezultira v likih, ki se dobro znajdejo v boju, prenesejo poškodbe brez veliko nevšečnosti in naredijo hude rane precej manj pogoste. Poškodbe, ki jih povzročijo posebni in kritični uspehi, veliko manj verjetno ubijejo like takoj. Ta neobvezni sistem se lahko zlahka uporablja s sistemom zadetnih točk na lokacijo, kar poveča možnosti, da likom ostanejo njihovi udovi, in obratno.
+> Za podrobnejši boj so točke življenja razdeljene med dele telesa vašega lika. Če je napad uspešen, met D20 določi, kje udarec pristane. Če uporabljate neobvezni sistem lokacije zadetkov (glejte **Lokacije zadetkov**), so točke življenja vašega lika razdeljene med njihove različne lokacije zadetkov. Uporabite naslednjo formulo za humanoide, zaokroženo navzgor za vsako lokacijo:
 > 
-> Da bi naredili ostro razliko med igralčevimi liki in šibkejšimi neliki »topovske hrane«, ima vaš vodja igre lahko samo igralčeve like in pomembne nelike, ki uporabljajo zadetne točke, enake CON+SIZ, pri čemer imajo vsi drugi neliki zadetne točke na podlagi (CON+SIZ)/2. To daje pomembno prednost igralčevim likom in jim omogoča, da preživijo več kot le nekaj trdnih poškodb. Omogoča tudi igralčeve like, ki se lahko spopadejo z velikim številom nelikov brez strahu, da bi jih ubil en kritičen udarec.
-
-
-> ### Zadetne točke po lokaciji zadetka (Možnost)
-> 
-> Za podrobnejši boj so zadetne točke razdeljene med dele telesa vašega lika. Če je napad uspešen, met D20 določi, kam udarec zadene. Če uporabljate neobvezni sistem lokacij zadetkov (glejte **Lokacije zadetkov**), so zadetne točke vašega lika razdeljene med njihove različne lokacije zadetkov. Uporabite naslednjo formulo za humanoide, zaokroženo navzgor za vsako lokacijo:
-> 
-> | Lokacija | Vrednost zadetnih točk |
+> | Lokacija | Vrednost točk življenja |
 > | :---- | :---- |
-> | Noga, Trebuh, Glava | 1/3 skupnih zadetnih točk |
-> | Prsni koš | 4/10 skupnih zadetnih točk |
-> | Roka | 1/4 skupnih zadetnih točk |
+> | Noga, Trebuh, Glava | 1/3 skupnih točk življenja |
+> | Prsni koš | 4/10 skupnih točk življenja |
+> | Roka | 1/4 skupnih točk življenja |
 > 
-> Razpon humanoidnih zadetnih točk je podan spodaj na podlagi Najvišjih zadetnih točk.
+> Razporeditev točk življenja humanoidov je podana spodaj na podlagi najvišjih točk življenja.
 > 
 > | Lokacija | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 > | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -480,53 +477,49 @@ Stopnje premikanja so dodatno opisane v **Stopnje premikanja** v *Petem poglavju
 > | Vsaka roka | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
 > | Glava | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > 
-> Vsota zadetnih točk vašega lika po lokaciji presega njihove najvišje zadetne točke, toda kadar je lik ranjen, se vržena škoda odšteje tako od skupnega števila zadetnih točk te lokacije kot od najvišjih zadetnih točk vašega lika.
+> Vsota točk življenja vašega lika po lokaciji presega njihove najvišje točke življenja, vendar ko je lik ranjen, se vržena škoda odšteje tako od seštevka točk življenja te lokacije kot od najvišjih točk življenja vašega lika.
 > 
-> Škoda, ki presega skupno število zadetnih točk lokacije, jo naredi neuporabno. Škoda, enaka dvakratniku skupnega števila zadetnih točk lokacije, jo zdrobi ali odreže. Glejte **Škoda na lokacijo zadetka**.
+> Škoda, ki presega skupno število točk življenja lokacije, jo naredi neuporabno. Škoda, enaka dvakratnemu seštevku točk življenja lokacije, jo zdrobi ali odreže. Glejte **Škoda na lokacijo zadetka**.
 > 
-> **Na primer,** vaš lik ima 14 zadetnih točk, s 5 zadetnimi točkami v vsaki nogi, 5 zadetnimi točkami v trebuhu, 6 zadetnimi točkami v prsnem košu, 4 zadetnimi točkami v vsaki roki in 5 zadetnimi točkami v glavi. Čeprav so njihove zadetne točke na vseh lokacijah skupaj 34, bo vaš lik umrl, če bo utrpel skupno 14 zadetnih točk škode.
+> **Na primer,** vaš lik ima 14 točk življenja, s 5 točkami življenja v vsaki nogi, 5 točkami življenja v trebuhu, 6 točkami življenja v prsnem košu, 4 točkami življenja v vsaki roki in 5 točkami življenja v glavi. Čeprav njihove točke življenja na vseh lokacijah skupaj znašajo 34, bo vaš lik umrl, če utrpi skupaj 14 točk življenja škode.
 > 
-> Sistem **Hude rane** ni zlahka združljiv s sistemom lokacij zadetkov in če se vodja igre odloči za uporabo neobveznih lokacij zadetkov in sistemov **Škoda po lokaciji zadetka**, bi bilo treba sistem hude rane odpraviti ali znatno prilagoditi, morda tako, da naravo hude rane izbere vaš vodja igre, kjer je to primerno.
+> Sistem **hude rane** ni zlahka združljiv s sistemom lokacije zadetkov in če se mojster igre odloči uporabiti neobvezne lokacije zadetkov in sisteme **škode po lokaciji zadetka**, bi bilo treba sistem hude rane odpraviti ali znatno prilagoditi, morda z naravo hude rane, ki jo po potrebi izbere vaš mojster igre.
 
 ### Točke utrujenosti in točke prisebnosti (Možnost)
 
-Nekateri neobvezni sistemi in moči se nanašajo na točke utrujenosti in točke prisebnosti. Za podrobnejši sistem obremenitve in utrujenosti mora vaš vodja igre uporabiti točke utrujenosti (opisane spodaj). Igre, ki temeljijo na grozljivkah, bogokletnem čarovništvu ali neopisljivih grozodejstvih, bodo močno odvisne od uporabe sistema prisebnosti (prav tako spodaj).
+Nekateri neobvezni sistemi in moči se nanašajo na točke utrujenosti in točke prisebnosti. Za podrobnejši sistem obremenitve in utrujenosti mora vaš mojster igre uporabiti točke utrujenosti (opisane spodaj). Igre, ki temeljijo na grozi, bogokletnem čarovništvu ali neopisljivem grozodejstvu, bodo močno odvisne od uporabe sistema prisebnosti (tudi spodaj).#### Točke utrujenosti (Maks = MOČ + VZD)
 
-#### Točke utrujenosti (Maks = STR + CON)
+**Točke utrujenosti** (TU) merijo vzdržljivost vašega lika, na primer koliko časa se lahko ukvarja z naporno dejavnostjo, preden nastopi izčrpanost. Največje število točk utrujenosti vašega lika je enako vsoti MOČ+VZD. Vaš lik porabi 1 točko utrujenosti na krog boja naporne dejavnosti (bljžinski boj, plavanje, lahkoten tek, plezanje itd.). Šprintanje ali izjemno naporno delo stane 1 točko utrujenosti na obrat. Prisilni marši stanejo 1 točko utrujenosti na uro. Za razliko od točk življenja in točk energije lahko vaš lik nadaljuje z delovanjem tudi pri negativnih točkah utrujenosti.
 
-**Točke utrujenosti** (FP) merijo vzdržljivost vašega lika, na primer koliko časa se lahko ukvarjajo z naporno aktivnostjo, preden nastopi izčrpanost. Najvišje točke utrujenosti vašega lika so enake njihovi STR+CON. Vaš lik porabi 1 točko utrujenosti na krog boja naporne aktivnosti (boj v bližini, plavanje, tekanje, plezanje itd.). Šprint ali trdo delo stane 1 točko utrujenosti na obrat. Prisilni marši stanejo 1 točko utrujenosti na uro. Za razliko od zadetnih točk in točk moči lahko vaš lik nadaljuje z delovanjem z negativnimi točkami utrujenosti.
+Ko število točk utrujenosti vašega lika pade pod 0, prejme kazen –1 % na vsako negativno točko utrujenosti pri vseh metih za spretnosti, značilnosti in odpornost. Ko vsota negativnih točk utrujenosti vašega lika doseže njegovo osnovno vrednost utrujenosti (MOČ+VZD), postane nezmožen za dejavnost zaradi izčrpanosti. Izčrpan lik lahko pade v nezavest (po presoji mojstra iger), in tudi če ostane buden, ne more delovati, dokler se njegova vrednost točk utrujenosti ne regenerira na pozitivno število. Na osnovno vrednost utrujenosti vašega lika vpliva tudi njegova stopnja obremenjenosti (ENC). Glejte **Obremenjenost**.
 
-Ko vaš lik pade pod 0 točk utrujenosti, utrpi kazen –1 % na vsako negativno točko utrujenosti pri vseh metih za veščine, značilnosti in odpornost. Ko skupno negativno število točk utrujenosti vašega lika doseže njihovo osnovno vrednost utrujenosti (STR+CON), so zaradi izčrpanosti nesposobni za akcijo. Izčrpan lik lahko pade v nezavest (presoja vodje igre), in tudi če ostane buden, ne more delovati, dokler se njihova vrednost točk utrujenosti ne povrne na pozitivno številko. Obremenitvena vrednost (ENC) vašega lika prav tako vpliva na njihovo osnovno vrednost utrujenosti. Glejte **Obremenitev**.
-
-Vaš lik povrne 1 točko utrujenosti vsako minuto (5 krogov), ko ne porablja točk utrujenosti. Počitek, počasna hoja ali jahanje zveri ali vozila ne porablja utrujenosti. Povprečen lik se povrne od 0 do svoje polne skupne vrednosti točk utrujenosti v 20 minutah (ob predpostavki STR 10, CON 10 in 1 povrnjenega točka utrujenosti na minuto počitka).
+Vaš lik obnovi 1 točko utrujenosti vsako minuto (5 krogov), v kateri ne porablja točk utrujenosti. Počivanje, hoja s počasnim tempom ali jahanje zveri oziroma vožnja s prevoznim sredstvom ne porabljata utrujenosti. Povprečen lik si opomore od 0 do polne vsote točk utrujenosti v 20 minutah (ob predpostavki MOČ 10, VZD 10 in 1 obnovljene točke utrujenosti na minuto počitka).
 
 #### Preprosta utrujenost
 
-Za preprostejšo različico utrujenosti, ki popolnoma odpravlja točke utrujenosti, lahko vaš vodja igre izjavi, da je vaš lik po kakšnem ogromnem podvigu ali ekstremni fizični stiski utrujen. So bodisi pripravljeni na akcijo bodisi utrujeni. Vaš vodja igre lahko dovoli met za vzdržljivost, da se izogne utrujenosti po obdobju fizičnega napora.
+Za preprostejšo različico utrujenosti, ki popolnoma odpravi točke utrujenosti, lahko vaš mojster iger razglasi, da je vaš lik po kakšnem ogromnem podvigu ali ekstremni fizični stiski utrujen. Lik je bodisi pripravljen na akcijo bodisi je utrujen. Vaš mojster iger lahko dovoli met na Vzdržljivost, da se izognete utrujenosti po obdobju fizičnega napora.
 
-Z uporabo te metode vaš lik postane utrujen po porabi CON×3 neprekinjenih krogov boja v bitki ali težki fizični aktivnosti. Po tem je vaš lik samodejno utrujen in vsi meti za veščine so *Težki*.
+Z uporabo te metode se vaš lik utrudi po preživetih VZD×3 neprekinjenih krogih boja ali zahtevne fizične dejavnosti. Po tem je vaš lik samodejno utrujen, vsi meti na spretnosti pa so *Težavni*.
 
-Po porabi CON×4 neprekinjenih krogov boja v bitki ali težki fizični aktivnosti vaš lik izvaja vse svoje veščine, kot da bi bile 1/4 normalne ocene veščine, in mora opraviti uspešen met za vzdržljivost, da naredi karkoli fizičnega, preden se sploh lahko poskusi ocena veščine.
+Po preživetih VZD×4 neprekinjenih krogih boja ali zahtevne fizične dejavnosti vaš lik izvaja vse spretnosti, kot da bi imel 1/4 običajne ocene spretnosti, in mora opraviti uspešen met na Vzdržljivost, da lahko sploh stori karkoli fizičnega, preden se lahko ocena spretnosti sploh preizkusi.
 
-Po CON×10 krogih takšne aktivnosti je vaš lik popolnoma izčrpan in komaj lahko dvigne svoje orožje, stoji pokonci, ne da bi se imel ob kaj nasloniti itd. Na tej točki mora vaš lik opraviti *Težak* met za vzdržljivost za katero koli osnovno dejanje, vaš vodja igre pa lahko razsodi, da je kateri koli met za veščino *Nemogoč* ali omejen na POW×1 vašega lika.
+Po VZD×10 krogih takšne dejavnosti je vaš lik popolnoma izčrpan in komaj dvigne svoje orožje, stoji pokonci brez opore itd. Na tej točki mora vaš lik opraviti *Težaven* met na Vzdržljivost za izvedbo katerega koli osnovnega dejanja, vaš mojster iger pa lahko odloči, da je kateri koli met na spretnost *Nemogoč* ali omejen na ENE×1 vašega lika.#### Točke razuma (Največ = ENE×5)
 
-#### Točke prisebnosti (Maks = POW×5)
+Kot je opisano v poglavju **Razum** (glej deseto poglavje: Okolja), **točke razuma** (SAN) predstavljajo duševno in čustveno trdnost vašega lika ter njegovo sposobnost, da se upre šoku, grozi in kozmični grozljivosti. Osnovne točke SAN vašega lika so enake ENE×5.
 
-Kot je opisano v **Prisebnost** (glejte 10. poglavje: Okolja), **točke prisebnosti** (SAN) predstavljajo mentalno in čustveno utrjenost vašega lika ter njihovo sposobnost prenašanja šoka, terorja in kozmične groze. Osnovne točke SAN vašega lika so enake njihovi POW×5.
+Kadar je vaš lik izpostavljen grozljivi situaciji ali miselno spodkopavajoči nenavadnosti, mora vreči D100 proti svoji trenutni vsoti točk SAN. Če vaš lik ne uspe (ali morda celo če uspe), bo izgubil točke razuma.
 
-Kadar je vaš lik izpostavljen grozljivi situaciji ali miselno upogibajoči nenavadnosti, mora vreči D100 proti svoji trenutni skupni vrednosti točk SAN. Če vaš lik ne uspe (ali morda celo če uspe), bo izgubil točke prisebnosti.
+Lik, ki utrpi zadostno izgubo SAN, bo verjetno znorel. **Prag razuma** vašega lika (podobno kot prag za resne poškodbe) je enak 1/5 trenutne vrednosti SAN. Izguba tolikšnega števila točk SAN v eni igralni uri privede do neke oblike nedoločene norosti.
 
-Lik, ki utrpi zadostno izgubo SAN, bo verjetno znorel. **Prag prisebnosti** vašega lika (kot prag hude rane) je enak 1/5 njihove trenutne SAN. Izguba toliko točk SAN v eni igralni uri rezultira v neki obliki nedoločene norosti.
+Točke razuma se ne regenerirajo naravno in jih je mogoče obnoviti le pod zelo specifičnimi okoliščinami. Liki lahko pridobijo SAN preko svoje osnovne vrednosti, do največ 99. Določene vrste bogokletnega znanja lahko omejijo najvišjo dovoljeno vrednost SAN vašega lika.
 
-Točke prisebnosti se ne obnavljajo naravno in jih je mogoče povrniti le v zelo specifičnih okoliščinah. Liki lahko pridobijo SAN preko svoje osnovne vrednosti, do maksimuma 99. Nekatere vrste bogokletnega znanja lahko omejijo najvišjo dovoljeno oceno SAN vašega lika.
-
-> ### Prepoznavne lastnosti (Možnost)
+> ### Značilne lastnosti (Možnost)
 > 
-> Prepoznavne lastnosti so način opisovanja omembe vrednih lastnosti vašega lika. Te so zgolj opisne in nimajo nobene mehanske vrednosti. Služijo k temu, da se igralčev lik zdi bolj resničen. Čim dlje od povprečja—višje ali nižje—je značilnost karizme (CHA) vašega lika, tem večje število prepoznavnih lastnosti ima.
+> Značilne lastnosti so način opisovanja pomembnih potez vašega lika. Te so zgolj opisne in nimajo nobene mehanske vrednosti. Služijo temu, da igralčev lik deluje bolj resnično. Bolj kot je karizma (KAR) vašega lika oddaljena od povprečja – višja ali nižja –, več značilnih lastnosti ima.
 > 
-> ##### Prepoznavne lastnosti
+> ##### Značilne lastnosti
 > 
-> | CHA | Število lastnosti |
+> | KAR | Število lastnosti |
 > | :---- | :---- |
 > | 3 ali manj | 4 |
 > | 4–7 | 3 |
@@ -536,627 +529,623 @@ Točke prisebnosti se ne obnavljajo naravno in jih je mogoče povrniti le v zelo
 > | 15–16 | 3 |
 > | 17+ | 4 |
 > 
-> Vrzite 1D10 ali izberite spodnjo kategorijo za vsako prepoznavno lastnost, ki jo ima vaš lik. Isto kategorijo lahko izberete večkrat. Nato izberite lastnost ali lastnosti iz vnosa. Vse to so kozmetične zadeve in ne vplivajo na vrednosti igre, vendar je koristno imeti v mislih značilnosti in veščine svojega lika, ko izbirate prepoznavne lastnosti.
+> Za vsako značilno lastnost, ki jo ima vaš lik, vrzite 1D10 ali izberite spodnjo kategorijo. Isto kategorijo lahko izberete večkrat. Nato izberite lastnost ali lastnosti iz vnosa. Vse to so lepotni elementi, ki ne vplivajo na igralne vrednosti, vendar je pri izbiri značilnih lastnosti koristno upoštevati značilnosti in spretnosti vašega lika.
 > 
-> Če je karizma (CHA) vašega lika nizka (9 ali manj), so te lastnosti lahko neprijetne, neprivlačne ali nenavadnega videza. Če je karizma (CHA) vašega lika visoka (12+), so lastnosti privlačne ali impresivnega videza, tudi če lastnost običajno ne bi bila tista, za katero bi mislili, da je privlačna. Vendar to ni restriktivno in videz ni vedno pokazatelj dejanske karizme.
+> Če je KAR vašega lika nizka (9 ali manj), so te lastnosti lahko neprijetne, neprivlačne ali nenavadnega videza. Če je KAR vašega lika visoka (12+), so lastnosti privlačne ali impresivnega videza, tudi če lastnost običajno ne bi veljala za privlačno. Vendar to ni omejujoče in videz ni vedno pokazatelj dejanske karizme.
 > 
-> Ko izbirate, si predstavljajte svoj lik v svojem umu in si zamislite, kako se pojavlja v igralnem okolju. Prav tako lahko kombinirate različne lastnosti na zanimive načine. Vaš vodja igre lahko vloži veto na določene prepoznavne lastnosti, če bi bile neprimerne, odvisno od nastavitve.
+> Med izbiranjem si zamislite svoj lik in si predstavljajte, kako izgleda v igralnem okolju. Prav tako lahko kombinirate različne lastnosti na zanimive načine. Vaš mojster igre lahko zavrne določene značilne lastnosti, če bi bile neprimerne, odvisno od okolja.
 > 
-> 1. **Lasje na glavi:** Plešast, plešast na vrhu, blond, črni, spleteni, rjavi, vojaška frizura, kodrasti, umazani, polni uši, sijoči, sivi, dolgi, bleščeči, sprijeti, mastni, odišavljeni, zmanjšani, rdeči, obriti, koničasti, zelo dolgi, valoviti, lasulja, lastnost po vaši izbiri.
+> 1. **Lasje na glavi:** Plešast, plešast na vrhu, blond, črni, spleteni v kite, rjavi, kratko pristriženi, kodrasti, umazani, polni uši, sijoči, sivi, dolgi, bleščeči, sprijeti, mastni, odišavljeni, z zalizci, rdeči, obriti, koničasti, zelo dolgi, valoviti, lasulja, lastnost po vaši izbiri.
 > 
-> 2. **Obrazne dlake:** Obokane obrvi, spletena brada, košata brada, skodrana in odišavljena brada, ogromni brki, zarasle obrvi, kozja bradica, dolga brada, brez obrvi, zalizci, nenavadni dizajni, izrezani v tesno pristriženi bradi, goste obrvi, lastnost po vaši izbiri.
+> 2. **Obrazne dlake:** Oblokovane obrvi, spletena brada, košata brada, kodrasta in odišavljena brada, ogromni brki, zrasle obrvi, kozja bradica, dolga brada, brez obrvi, zalizci, čudni vzorci v tesno pristriženi bradi, goste obrvi, lastnost po vaši izbiri.
 > 
-> 3. **Obrazna značilnost:** Materino znamenje, modrice okoli oči, modre oči, svetle oči, zlomljen nos, zlomljeni zobje, rjave oči, močno zagoreli, dvojna brada, uhani, ogromna brada, enakomerni zobje, preveza za oko, mesnate ustnice, vrzel v zobeh, sive oči, dlakava ušesa, visoke ličnice, kljukast nos, velike oči, velik nos, dolge trepalnice, nazobčani zobje, nosni obroček, bledi, koža z znamenji kozic, koničasta brada, koničasti zobje, izraziti sekalci, majhen nos, okrogel obraz, brazgotina, čutne ustnice, obarvani zobje, tetovirani, tanke ustnice, majhna ušesa, navzgor obrnjen nos, bradavice, šibka brada, beli zobje, široko odprte oči, rumeni zobje, lastnost po vaši izbiri.
+> 3. **Obrazna poteza:** Materino znamenje, modrice okoli oči, modre oči, svetle oči, zlomljen nos, zlomljeni zobje, rjave oči, močno zagorela polt, podbradek, uhani, ogromna brada, enakomerni zobje, preveza čez oko, mesnate ustnice, vrzel med zobmi, sive oči, dlakava ušesa, visoke ličnice, kljukast nos, velike oči, velik nos, dolge trepalnice, nazobčani zobje, nosni obroč, bledoličnost, koža s kraterji od aken, koničasta brada, koničasti zobje, izstopajoči sekalci, prčast nos, okrogel obraz, brazgotina, čutne ustnice, obarvani zobje, tetovirano, tanke ustnice, majhna ušesa, navzgor obrnjen nos, bradavice, šibka brada, beli zobje, široko odprte oči, rumeni zobje, lastnost po vaši izbiri.
 > 
-> 4. **Izraz:** Obožujoč, privlačen, aroganten, zmeden, svetlih oči, radoveden, podložen, strog, pijan, prijazen, varovan, vzvišen, pohoten, zlobno nasmejan, krotek, poreden, naiven, družaben, predirajoč, prijeten, ponosen, zapeljiv, zahrbten, posmehljiv, mežikajoč, izraz po vaši izbiri.
+> 4. **Izraz:** Obožujoč, privlačen, aroganten, zmeden, svetlečih oči, radoveden, plah, strog, pijan, prijazen, previden, prevzeten, pohoten, zlobno nasmihajoč se, krotek, poreden, naiven, družaben, prediren, prijeten, ponosen, zapeljiv, zvit, posmehljiv, mežikajoč, izraz po vaši izbiri.
 > 
-> 5. **Oblačila:** Starinski slog, oklepan klobuk, atletski, bos, oblačila pustijo nosilca premalo toplega ali premrzlega, koničast klobuk, vezen s posebnim emblemom, dragi, modni, fini škornji, za napačen spol, oprijeti, polni lukenj, kričeči, vpadljivi, slabo prilegajoči, veliko poceni nakita, novi, spalna oblačila, delno nagi, klobuk s ščitnikom, strog, bogati, sandali, satenasti, seksi, oprijeti, športni, zadržani, preveč okraskov, uniforma, utilitarni, vulgarni, širok klobuk, oblačila po vaši izbiri.
+> 5. **Oblačila:** Starinski slog, oklepljen klobuk, športna, bosi, oblačila so nosilcu prevroča ali premrzla, stožčast klobuk, vezeno s posebnim emblemom, draga, modna, fini škornji, za napačen spol, oprijeta, polna lukenj, kričeča, kičasta, slabo prilegajoča, veliko poceni nakita, nova, spalna oblačila, delno goli, klobuk s ščitnikom, gosposka, bogata, sandali, satenasta, seksi, tesna, športna, umirjena, preveč okraskov, uniforma, utilitarna, vulgarna, širok klobuk, oblačila po vaši izbiri.
 > 
-> 6. **Drža:** Jezna, priložnostna, nerodna, samozavestna, eterična, bojazljiva, graciozna, ponižna, živahna, počasna, vojaška, okretna, zavaljena, vsiljiva, zadržana, sključena, živahna, toga, ošabna, čutna, zibajoča se, previdna, utrujena, popustljiva, drža po vaši izbiri.
+> 6. **Drža:** Jezna, sproščena, nerodna, samozavestna, eterična, prestrašena, graciozna, ponižna, lahkomiselna, počasna, vojaška, okretna, težka, vsiljiva, zadržana, sključena, živahna, toga, važenjaška, čutna, zibajoča, previdna, utrujena, popustljiva, drža po vaši izbiri.
 > 
-> 7. **Govor:** Z naglasom, afektiran, agresiven, globok, zahteven, vlečen, šibak, oklevajoč, visok, imperativen, glasbeni, momljajoč, nosen, hrapav, oster, čuten, oster (skrbelj), počasen, gladek, tiho govoreč, močan, grlen, nerazumljiv, godrnjav, govorna značilnost po vaši izbiri.
+> 7. **Govor:** Z naglasom, afektiran, agresiven, globok, zahteven, vlečen, šibek, neodločen, visok, imperativen, melodičen, mrmrajoč, nosljajoč, hripav, oster, čuten, piskajoč, počasen, gladek, mehak, močan, hripav, nerazumljiv, jokav, govorna lastnost po vaši izbiri.
 > 
-> 8. **Roke in dlani:** Vidno materino znamenje, zapestnice ali drug nakit na rokah, izbočeni biceps, žuljave roke, močno zagoreli, brez dlak, dlakavi, grčavi komolci, veliki členki, levičar, dolge roke, dolgi nohti, mišičasti, ena roka daljša od druge, manjka en prst, prisoten en prst preveč, koničasti komolci, koničasti nohti, močne roke in dlani, prstani, brazgotina, vitki, gladka koža, tetovirani, brez gub, zelo dlakavi, zelo bleda koža, lastnost po vaši izbiri.
+> 8. **Roke in dlani:** Vidno materino znamenje, zapestnice ali drug nakit na rokah, izbočene bicepsi, otrdele dlani, močno zagorele, brez dlak, dlakave, čokat komolci, veliki členki, levičar, dolge roke, dolgi nohti, mišičaste, ena roka daljša od druge, manjka prst, en prst preveč, koničasti komolci, koničasti nohti, močne roke in dlani, prstani, brazgotina, vitke, gladka koža, tetovirano, brez gubic, zelo dlakave, zelo bleda koža, lastnost po vaši izbiri.
 > 
-> 9. **Trup:** Sodast, obroček na popku, vidno materino znamenje, široka ramena, obline, vsaka kost se vidi, raven trebuh, brez dlak, visok pas, suh, dolg trup, veliko brazgotin, mišičast, ozek, brez popka, manjka ena bradavička, trebušast, izrazita brazgotina, kratek, skrčen prsni koš, žilav, eleganten, vitki, ozki boki, suhljat, visok, vidne linije zagorelosti, zagoreli, tetovirani, debel, tanek, zelo dlakavi, zelo bledi, vrbast, lastnost po vaši izbiri.
-> 10. **Noge in stopala:** Vidno materino znamenje, izbočena stegna in meča, žuljava stopala, močno zagoreli, brez dlak, dlakave, grčava kolena, šepanje na eni nogi, veliko brazgotin, mišičasti, manjka en prst na nogi, prisoten en prst preveč, brazgotina, brazgotine od plamena ali kisline, elegantni, gladki, zagoreli, tetovirani, obroček na nogi, zelo dlakavi, zelo dolge noge, zelo bleda koža, zelo kratke noge, obledela koža, lastnost po vaši izbiri.
+> 9. **Trup:** Sodast, obroček v popku, vidno materino znamenje, široka ramena, obline, vsaka kost vidna, ploska trebuh, brez dlak, visok pas, vitkost, dolg trup, veliko brazgotin, mišičast, ozek, brez popka, manjka ena bradavica, pivski trebuh, izstopajoča brazgotina, kratek, usahla prsa, žilav, eleganten, vitek, ozki boki, vitkost, visok, vidne črte od sončenja, zagorelost, tetovirano, debel, tanek, zelo dlakav, zelo bled, vrbovit, lastnost po vaši izbiri.
 > 
-> Če te niso zadostne, si omislite svoje lastne prepoznavne lastnosti. Za igre z nečloveškimi rasami dodajte nove in edinstvene lastnosti ali zavrnite neprimerne lastnosti.
+> 10. **Noge in stopala:** Vidno materino znamenje, izbočena stegna in meča, otrdela stopala, močno zagorele, brez dlak, dlakave, čokata kolena, šepanje na eno nogo, veliko brazgotin, mišičaste, manjka prst, en prst preveč, brazgotina, brazgotine od ognja ali kisline, elegantne, gladke, zagorele, tetovirano, obroček na prstu noge, zelo dlakave, zelo dolge noge, zelo bleda koža, zelo kratke noge, vremensko obrabljena koža, lastnost po vaši izbiri.
+> 
+> Če te lastnosti ne zadostujejo, si omislite svoje značilne lastnosti. Za igre, ki vključujejo nečloveške rase, lahko dodate nove in edinstvene lastnosti ali zavrnete neprimerne.
 
 ## Poklici
 
-Poleg tega, da je lik definiran z značilnostmi, je definiran tudi s svojimi **veščinami**. Te se naučijo skozi življenjske izkušnje, pogosto kot del izobrazbe in **poklica**. Poklic je delo ali poklic, katerega del naj bi bil vaš lik ob začetku igre (ali je bil njegov del pred začetkom igre), in usmerja dodeljevanje veščin. Poklic je le izhodišče ob začetku igre in ni omejitev tega, kaj lahko lik počne in postane. Skozi kampanjo lahko raste in se spreminja daleč preko svojega poklica.
+Poleg tega, da vaš lik opredeljujejo značilnosti, ga opredeljujejo tudi njegove **spretnosti**. Te se pridobijo z življenjskimi izkušnjami, pogosto kot del izobraževanja in **poklica**. Poklic je služba ali dejavnost, za katero se predpostavlja, da jo vaš lik opravlja ob začetku igre (ali jo je opravljal pred začetkom igre), kar usmerja razporeditev spretnosti. Poklic je le izhodiščna točka ob začetku igre in ni omejitev za to, kar lahko lik počne ali postane. Med kampanjo lahko raste in se spreminja daleč preko svojega poklica.
 
-### Poklici po nastavitvah
+### Poklici glede na okolje
 
-Sledi seznam pogostejših poklicev z opombami o nastavitvah, v katerih bi jih običajno srečali. Ta okolja so opisana v *10. poglavju: Okolja*. Nekateri naslovi poklicev in seznami začetnih veščin morda niso primerni za vsako okolje in jih morajo igralci in vodja igre prilagoditi po potrebi.
+Spodaj je seznam pogostejših poklicev z opombami o okoljih, v katerih bi se običajno pojavili. Ta okolja so opisana v *desetem poglavju: Okolja*. Nekateri nazivi poklicev in seznami začetnih spretnosti morda niso primerni za vsako okolje in jih morajo igralci ter mojster igre po potrebi prilagoditi.
 
-Na primer, *v kampanji, postavljeni v starodavno Japonsko, vam vodja igre pove, da se poklic bojevnika imenuje samuraj, morilec je nindža, tat je razbojnik, kriminalec je jakuza, plemič pa dvorjan.*
+Na primer, *v kampanji, postavljeni v starodavno Japonsko, vam mojster igre pove, da se poklic bojevnika imenuje samuraj, morilec je nindža, tat je bandit, kriminalec je jakuza in plemič je dvorjan.*
 
-Ti seznami niso izčrpni, temveč predstavljajo najprimernejše poklice za igralčeve like v vsakem splošnem okolju. Ti poklici se lahko razširijo po želji in celo malo verjetne izbire so mogoče. Naš lasten sodobni svet ima na primer še vedno majhne žepe plemenskih ljudi in šamanov, čeprav so komajda običajni.
+Ti seznami niso izčrpni, temveč predstavljajo najprimernejše poklice za igralčeve like v vsakem splošnem okolju. Te poklice je mogoče razširiti po želji in možne so celo nenavadne izbire. Naš sodobni svet ima na primer še vedno majhne žepe plemen in šamanov, čeprav niso ravno pogosti.
 
-### Okolja in veščine
+### Okolja in spretnosti
 
-Vi in vaš vodja igre se morate prepričati, da veščine, povezane s poklicem, ustrezajo igralnemu okolju. Za neprimerne veščine nadomestite z drugo specialnostjo, če to deluje, in če nobena druga specialnost ni primerna, izberite drugo veščino v isti kategoriji. Glejte *Tretje poglavje: Veščine* za več informacij o specialitetah veščin in kategorijah veščin.
+Vi in vaš mojster igre se morate prepričati, da spretnosti, povezane s poklicem, ustrezajo okolju igre. Za neprimerne spretnosti zamenjajte drugo specialnost, če to deluje, in če nobena druga specialnost ni primerna, izberite drugo spretnost znotraj iste kategorije. Za več informacij o specialnostih spretnosti in kategorijah spretnosti glejte *tretje poglavje: Spretnosti*.
 
-> ### Bonusi kategorij veščin (Možnost)
+> ### Bonusi kategorije spretnosti (Možnost)
 > 
-> Če želite, da značilnosti vašega lika vplivajo na njihove ocene veščin, uporabite ta sistem. Kot je opisano v *Tretjem poglavju: Veščine*, je vsaka veščina razvrščena v kategorije veščin. Vsaka kategorija je povezana z eno ali več značilnostmi, ki se uporabljajo za izračun bonusa kategorije veščin za vsako kategorijo. Za izračun bonusa za vsako kategorijo veščin upoštevajte **primarno**, **sekundarno** in **negativno** značilnost vsake kategorije (ali uporabite spodnjo tabelo):
+> Če želite, da značilnosti vašega lika vplivajo na njegove ocene spretnosti, uporabite ta sistem. Kot je opisano v tretjem poglavju: Spretnosti, je vsaka spretnost razvrščena v kategorije spretnosti. Vsaka kategorija je povezana z eno ali več značilnostmi, ki se uporabljajo za izračun bonusa kategorije spretnosti za vsako kategorijo. Za izračun bonusa za vsako kategorijo spretnosti zabeležite **primarne**, **sekundarne** in **negativne** značilnosti vsake kategorije (ali uporabite spodnjo tabelo):
 > 
-> * Primarne značilnosti dodajo +1 % za vsako točko nad 10 in odštejejo –1 % za vsako točko pod 10.
+> * Primarne značilnosti dodajo +1% za vsako točko nad 10 in odštejejo –1% za vsako točko pod 10.
 > 
-> * Sekundarne značilnosti dodajo +1 % za vsaki 2 točki nad 10 in odštejejo –1 % za vsaki 2 točki pod 10. Zaokrožite navzdol.
+> * Sekundarne značilnosti dodajo +1% za vsaki 2 točki nad 10 in odštejejo –1% za vsaki 2 točki pod 10. Zaokrožite navzdol.
 > 
-> * Negativne značilnosti odštejejo –1 % za vsako točko nad 10 in dodajo +1 % za vsako točko pod 10.
+> * Negativne značilnosti odštejejo –1% za vsako točko nad 10 in dodajo +1% za vsako točko pod 10.
 > 
-> ##### Modifikatorji kategorij veščin
+> ##### Modifikatorji kategorij spretnosti
 > 
-> | Kategorija | Primarna | Sekundarna | Negativna |
+> | Kategorija | Primarno | Sekundarno | Negativno |
 > | :---- | :---- | :---- | :---- |
-> | Bojne veščine | DEX | INT, STR | — |
-> | Komunikacijske veščine | INT | POW, CHA | — |
-> | Manipulacijske veščine | DEX | INT, STR | — |
-> | Mentalne veščine | INT | POW, EDU | — |
-> | Zaznavne veščine | INT | POW, CON | — |
-> | Fizične veščine | DEX | STR, CON | SIZ |
+> | Bojne spretnosti | SPR | INT, MOČ | — |
+> | Komunikacijske spretnosti | INT | ENE, KAR | — |
+> | Manipulacijske spretnosti | SPR | INT, MOČ | — |
+> | Mentalne spretnosti | INT | ENE, EDU | — |
+> | Zaznavne spretnosti | INT | ENE, VZD | — |
+> | Fizične spretnosti | SPR | MOČ, VZD | VEL |
 > 
-> Na primer, *vaš lik ima naslednje značilnosti: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12 in CHA 8. Njihovi bonusi kategorij veščin so:*
+> Na primer, *vaš lik ima naslednje značilnosti: MOČ 14, VZD 13, INT 8, VEL 12, ENE 10, SPR 12 in KAR 8. Njihovi bonusi za kategorije spretnosti so:*
 > 
-> * Bojne: *+3 % (+2 za DEX, +2 za STR, –1 za INT)*
+> * Bojne: *+3% (+2 za SPR, +2 za MOČ, –1 za INT)*
 > 
-> * Komunikacijske: *–3 % (–2 za INT, 0 za POW, –1 za CHA)*
+> * Komunikacijske: *–3% (–2 za INT, 0 za ENE, –1 za KAR)*
 > 
-> * Manipulacijske: *+3 % (+2 za DEX, –1 za INT, +2 za STR)*
+> * Manipulacijske: *+3% (+2 za SPR, –1 za INT, +2 za MOČ)*
 > 
-> * Mentalne: *–2 % (–2 za INT, 0 za POW, EDU se v tej kampanji ne uporablja)*
+> * Mentalne: *–2% (–2 od INT, 0 za ENE, EDU se v tej kampanji ne uporablja)*
 > 
-> * Zaznavne: *–1 % (–2 za INT, 0 za POW, +1 za CON)*
+> * Zaznavne: *–1% (–2 za INT, 0 za ENE, +1 za VZD)*
 > 
-> * Fizične: *+3 % (+2 za DEX, +2 za STR, +1 za CON, –2 za SIZ)*
+> * Fizične: *+3% (+2 za SPR, +2 za MOČ, +1 za VZD, –2 za VEL)*
 > 
-> Glejte *Tretje poglavje: Veščine* za več informacij o kategorijah veščin, bonusih kategorij in osnovnih možnostih veščin.
+> Za več informacij o kategorijah spretnosti, bonusih kategorij in osnovnih verjetnostih spretnosti glejte *tretje poglavje: Spretnosti*.
 > 
-> ##### Tabela bonusov veščin
+> ##### Tabela bonusov spretnosti
 > 
-> | Vrednost | Primarna | Sekundarna | Negativna |
+> | Vrednost | Primarno | Sekundarno | Negativno |
 > | :---- | :---- | :---- | :---- |
-> | 1 | –9 % | –4 % | +9 % |
-> | 2 | –8 % | –4 % | +8 % |
-> | 3 | –7 % | –3 % | +7 % |
-> | 4 | –6 % | –3 % | +6 % |
-> | 5 | –5 % | –2 % | +5 % |
-> | 6 | –4 % | –2 % | +4 % |
-> | 7 | –3 % | –1 % | +3 % |
-> | 8 | –2 % | –1 % | +2 % |
-> | 9 | –1 % | –0 % | +1 % |
-> | 10 | +0 % | +0 % | –0 % |
-> | 11 | +1 % | +0 % | –1 % |
-> | 12 | +2 % | +1 % | –2 % |
-> | 13 | +3 % | +1 % | –3 % |
-> | 14 | +4 % | +2 % | –4 % |
-> | 15 | +5 % | +2 % | –5 % |
-> | 16 | +6 % | +3 % | –6 % |
-> | 17 | +7 % | +3 % | –7 % |
-> | 18 | +8 % | +4 % | –8 % |
-> | 19 | +9 % | +4 % | –9 % |
-> | 20 | +10 % | +5 % | –10 % |
-> | 21 | +11 % | +5 % | –11 % |
-> | Itd. | +1 %/točko | +1 %/2 točki | –1 %/točko |
+> | 1 | –9% | –4% | +9% |
+> | 2 | –8% | –4% | +8% |
+> | 3 | –7% | –3% | +7% |
+> | 4 | –6% | –3% | +6% |
+> | 5 | –5% | –2% | +5% |
+> | 6 | –4% | –2% | +4% |
+> | 7 | –3% | –1% | +3% |
+> | 8 | –2% | –1% | +2% |
+> | 9 | –1% | –0% | +1% |
+> | 10 | +0% | +0% | –0% |
+> | 11 | +1% | +0% | –1% |
+> | 12 | +2% | +1% | –2% |
+> | 13 | +3% | +1% | –3% |
+> | 14 | +4% | +2% | –4% |
+> | 15 | +5% | +2% | –5% |
+> | 16 | +6% | +3% | –6% |
+> | 17 | +7% | +3% | –7% |
+> | 18 | +8% | +4% | –8% |
+> | 19 | +9% | +4% | –9% |
+> | 20 | +10% | +5% | –10% |
+> | 21 | +11% | +5% | –11% |
+> | itd. | +1%/točko | +1%/2 točki | –1%/točko |
 > 
-> ### Preprostejši bonusi veščin
+> ### Preprostejši bonusi spretnosti
 > 
-> Če je izračunavanje bonusov kategorij veščin preveč zapleteno, se lahko vsak bonus kategorije namesto tega definira kot 1/2 primarne značilnosti (zaokroženo navzgor). Ta metoda rezultira v višjih začetnih možnostih veščin in odpravlja možnost kazni kategorije. Če želite, uporabite preproste modifikatorje kategorij veščin iz naslednje tabele.
+> Če je izračunavanje bonusov kategorij spretnosti preveč zapleteno, se lahko vsak bonus kategorije namesto tega določi kot 1/2 primarne značilnosti (zaokrožite navzgor). Ta metoda povzroči višje začetne verjetnosti spretnosti in odpravlja možnost kazni za kategorijo. Po želji uporabite preproste modifikatorje kategorij spretnosti iz naslednje tabele.
 > 
-> ##### Preprosti modifikatorji kategorij veščin
+> ##### Preprosti modifikatorji kategorij spretnosti
 > 
-> | Kategorija | Primarna |
+> | Kategorija | Primarno |
 > | :---- | :---- |
-> | Bojne veščine | DEX/2 |
-> | Komunikacijske veščine | CHA/2 |
-> | Manipulacijske veščine | DEX/2 |
-> | Mentalne veščine | INT/2 |
-> | Zaznavne veščine | POW/2 |
-> | Fizične veščine | STR/2 |
-
+> | Bojne spretnosti | SPR/2 |
+> | Komunikacijske spretnosti | KAR/2 |
+> | Manipulacijske spretnosti | SPR/2 |
+> | Mentalne spretnosti | INT/2 |
+> | Zaznavne spretnosti | ENE/2 |
+> | Fizične spretnosti | MOČ/2 |
 
 > ### Premoženje
 > 
-> Navsezadnje premoženje predstavlja ekonomski status vašega lika ob začetku igre in to, česa so vajeni. Vsaka stopnja spodaj opisuje relativno stanje nekoga na tej ravni premoženja. Premoženje je dodatno pokrito v *Osemem poglavju: Oprema*, saj določa, kakšne vrste posesti ima lahko vaš lik na začetku in jih lahko pridobi v igri.
+> Navsezadnje premoženje predstavlja ekonomski status vašega lika na začetku igre in tisto, česar je navajen. Vsaka stopnja spodaj opisuje relativno stanje nekoga na tej ravni premoženja. Premoženje je podrobneje obravnavano v *osmem poglavju: Oprema*, saj določa, kakšne dobrine lahko ima vaš lik na začetku in kaj lahko pridobi med igro.
 > 
-> #### Brez premoženja (Destitute)
+> #### Destituten
 > 
-> Brez ficka, vaš lik mora brskati za hrano in pijačo ali se zanašati na dobrodelnost. Brezdomec, spijo kjerkoli lahko najdejo suh in varen prostor. Morda imajo nekaj malih posesti razen tega, kar lahko nosijo, vendar te niso posebej dragocene in so skrite, ukradene, če jih odkrijejo. Ta stopnja revščine se verjetno odraža v videzu vašega lika in morda imajo težave pri opravljanju normalnih nalog zaradi predsodkov do tistih brez premoženja.
+> Brez ficka, vaš lik mora iskati hrano in pijačo ali se zanašati na miloščino. Brezdomen, spi kjerkoli lahko najde suh in varen prostor. Morda ima nekaj manjših dobrin, razen tistih, ki jih lahko nosi, vendar te niso posebej dragocene in so skrite, ukradene, če jih odkrijejo. Ta stopnja revščine se verjetno odraža v videzu vašega lika in morda ima težave pri opravljanju običajnih nalog zaradi predsodkov do revnih.
 > 
-> #### Revni
+> #### Reven
 > 
-> Čeprav ima vaš lik nekaj denarja, ne hrepeni po mestu za spanje ali hrani za jesti. Njihovo življenje je brez veliko luksuza. Nimajo veliko prostega denarja. S to stopnjo premoženja je njihovo prebivališče skromno in potencialno v revnem ali nezaželenem delu mesta. So delno zaposleni, brezposelni ali trdo delajo za pičle plače.
+> Čeprav ima vaš lik nekaj denarja, mu ni treba skrbeti za prostor za spanje ali hrano. Njegovo življenje je brez večjega razkošja. Nima veliko prostega denarja. Pri tej stopnji premoženja je njegovo bivališče skromno in potencialno v revnem ali nezaželenem delu mesta. Je delno zaposlen, brezposeln ali trdo dela za pičle plače.
 > 
-> #### Povprečni
+> #### Povprečen
 > 
-> Vaš lik ima udoben dohodek in živi brez večjih težav, čeprav je treba večje nakupe skrbno pretehtati. Imajo povprečen dom ali stanovanje nekje in imajo morda razumno količino denarja prihranjeno, čeprav bi le malokdo mislil, da so kaj drugega kot srednji razred ali s povprečnim dohodkom. Lahko plačajo svoje račune in stroške ter lahko občasno zapravijo za luksuzne predmete, vendar na splošno živijo življenjski slog, skupen večini ljudi v njihovi kulturi in obdobju.
+> Vaš lik ima udoben dohodek in živi brez večjih težav, čeprav je treba večje nakupe skrbno pretehtati. Ima povprečen dom ali stanovanje nekje in morda ima razumno vsoto denarja na prihrankih, čeprav bi ga le malokdo imel za kaj drugega kot za pripadnika srednjega razreda ali povprečnega dohodka. Lahko plačuje svoje račune in stroške ter si občasno privošči luksuzne predmete, vendar na splošno živi življenjski slog, ki je običajen za večino ljudi v njegovi kulturi in dobi.
 > 
-> #### Premožni (Affluent)
+> #### Premožen
 > 
-> Vašemu liku gre precej dobro in ima znaten dohodek ali tok denarja, s katerim lahko živi razkošno in uživa v življenju. Bivalne nastanitve so zelo prestižne in vašemu liku ni treba dvakrat razmišljati o večjih nakupih. Imajo veliko količino prihranjenega denarja in lahko živijo življenje presežkov in luksuza brez kakršnih koli posledic.
+> Vašemu liku gre precej dobro in ima znaten dohodek ali dotok denarja, s katerim lahko živi razkošno in uživa v življenju. Bivalni prostori so zelo nadstandardni in vašemu liku ni treba dvakrat pomisliti, preden opravi večje nakupe. Ima veliko prihranjenega denarja in lahko živi življenje v izobilju in razkošju brez kakršnih koli posledic.
 > 
-> #### Bogati
+> #### Bogat
 > 
-> Vaš lik ima ogromno materialno bogastvo iz skoraj neizčrpnega vira. Lahko opravijo nakupe znatnih stroškov brez pomisleka, s kakovostjo življenja, ki je zavidljiva večini. Imajo veliko količino denarja prihranjenega in zaradi svoje stopnje premoženja bodo verjetno imeli družbene in poslovne priložnosti, ki daleč presegajo možnosti katere koli druge dohodkovne stopnje.
+> Vaš lik ima ogromno materialno bogastvo iz skoraj neizčrpnega vira. Lahko opravi nakupe precejšnjih stroškov brez pomisleka, s kakovostjo življenja, ki jo večina zavida. Ima veliko prihranjenega denarja in zaradi svoje ravni bogastva bo verjetno imel socialne in poslovne priložnosti daleč preko tistih na kateri koli drugi ravni dohodka.
 
 ### Poklici od A do Ž
 
-Večina teh poklicev je dovolj generičnih, da so primerni za številna okolja ali obdobja. Vsak vključuje splošen opis, seznam ustreznih veščin in predlagano stopnjo premoženja. Vsako okolje v *10. poglavju: Okolja* predlaga ustrezne poklice.
+Večina teh poklicev je dovolj splošnih, da so primerni za mnoga okolja ali obdobja. Vsak vključuje splošen opis, seznam ustreznih spretnosti in predlagano raven premoženja. Vsako okolje v *desetem poglavju: Okolja* predlaga ustrezne poklice.
 
-Ti poklici niso izčrpni. Odvisno od okolja lahko vi ali vaš vodja igre ustvarite dodatne poklice ali še bolj prilagodite obstoječe poklice. Informacije o ustvarjanju novih poklicev ali prilagajanju obstoječih najdete v **Ustvarjanje novih poklicev**.
+Ti poklici niso izčrpni. Glede na okolje lahko vi ali vaš mojster igre ustvarite dodatne poklice ali še bolj prilagodite obstoječe. Informacije o ustvarjanju novih poklicev ali prilagajanju obstoječih najdete v razdelku **Ustvarjanje novih poklicev**.
 
-Vaš vodja igre lahko omeji vaše izbire poklica ali vas prosi, da določite svoj poklic naključno, vendar je običajno bolj zaželeno, da izberete poklic, da se izognete temu, da bi bili prisiljeni igrati lik, v katerem ne boste uživali.
+Mojster igre lahko omeji vašo izbiro poklica ali vas prosi, da svoj poklic določite naključno, vendar je običajno boljše, da poklic izberete sami, da se izognete igranju lika, v katerem ne boste uživali.
 
-**Veščine:** Te veščine so glavne veščine, ki jih uporabljajo člani tega poklica. Vaš lik bo svoje točke poklicnih veščin porabil za te veščine med ustvarjanjem lika. Vaš lik ne mora imeti vseh teh veščin, vendar so to predlogi, katere veščine bi bile primerne. Z dovoljenjem vašega vodje igre lahko katero koli od teh veščin nadomestite z drugo, če veščina ne ustreza obdobju, okolju ali vašemu konceptu lika.
+**Spretnosti:** Te spretnosti so glavne spretnosti, ki jih uporabljajo člani tega poklica. Vaš lik bo svoje poklicne točke spretnosti porabil za te spretnosti med ustvarjanjem lika. Vašemu liku ni treba imeti vseh teh spretnosti, vendar so to predlogi, katere spretnosti bi bile primerne. Z dovoljenjem mojstra igre lahko katero koli od teh spretnosti zamenjate za drugo, če spretnost ne ustreza obdobju, okolju ali vaši zamisli o liku.
 
-Na primer, *želite igrati policista z nagnjenjem k dedukciji v kampanji, postavljeni v Anglijo 12. stoletja. Pogledate seznam poklicev in vidite, da predloga detektiva navaja veščino Strelno orožje (pištola ali revolver). Popolnoma razumno bi bilo to zamenjati z Orožje za bližnji boj (meč) za tisto okolje.*
+Na primer, *želite igrati policista s smislom za dedukcijo v kampanji, postavljeni v 12. stoletje v Angliji. Pregledate seznam poklicev in vidite, da predloga Detektiv navaja spretnost Strelno orožje (pištola ali revolver). Popolnoma razumno bi bilo, da to za tisto obdobje zamenjate z Blizko orožje (meč).*
 
-**Premoženje:** Povprečna stopnja premoženja za lika v tem poklicu. V nekaterih primerih je podan razpon, kar vam in vašemu vodji igre omogoča, da se odločita, kaj je najbolj primerno za okolje. Opis je mišljen le kot predlog; vi in vaš vodja igre se lahko odločita prilagoditi predlagano stopnjo premoženja navzgor ali navzdol, odvisno od vašega koncepta lika.
+**Premoženje:** Povprečna raven premoženja za lik v tem poklicu. V nekaterih primerih je podan razpon, kar vam in vašemu mojstru igre omogoča, da se odločita, kaj je najprimernejše za okolje. Opis je mišljen zgolj kot predlog; vi in vaš mojster igre se lahko odločita za prilagoditev predlagane ravni premoženja navzgor ali navzdol, odvisno od zamisli o vašem liku.
 
-Alternativna metoda določanja začetne stopnje premoženja, kjer je predstavljen razpon, je, da začnete s svojim likom na najnižji stopnji premoženja, prilagojeno navzgor za vsak uspešen met za Status, ki ga lahko opravite. To je treba storiti, potem ko je bil vaš lik ustvarjen.
+Alternativna metoda določanja začetne ravni premoženja, kjer je predstavljen razpon, je, da začnete s svojim likom na najnižji ravni razpona premoženja, prilagojeno navzgor za vsak uspešen met za Status, ki ga lahko opravite. To je treba storiti po tem, ko je bil vaš lik ustvarjen.
 
-Medtem ko veščina Status opisuje načine, kako sta Status in premoženje povezana med seboj, je spodaj kratek opis vsake stopnje premoženja.
+Medtem ko spretnost Status opisuje načine, na katere sta Status in premoženje povezana, je spodaj kratek opis vsake ravni premoženja.
 
-**Posebno:** To označuje, ali je verjetno, da ima član poklica moči, opisane v *Četrtem poglavju: Moči*.
+**Posebno:** To označuje, ali je verjetno, da ima član poklica moči, opisane v četrtem poglavju: Moči.
 
 ### Seznam poklicev
 
-| Umetnik | Hazarder | Učenjak |
+| Umetnik | Kockar | Učenjak |
 | :---- | :---- | :---- |
 | Morilec | Pastir | Znanstvenik |
 | Atlet | Lovec | Služabnik |
 | Berač | Novinar | Šaman |
 | Uradnik | Delavec | Suženj |
-| Računalniški tehnik | Varuhi reda | Vojak |
+| Računalniški tehnik | Čuvaj reda | Vojak |
 | Okultist | Odvetnik | Vohun |
 | Obrtnik | Mehanik | Študent |
 | Kriminalec | Trgovec | Učitelj |
 | Detektiv | Plemič | Tehnik |
 | Zdravnik | Pisatelj | Tat |
-| Inženir | Pilot | Plemenski človek |
+| Inženir | Pilot | Plemenik |
 | Zabavljač | Politik | Bojevnik |
 | Raziskovalec | Duhovnik | Čarovnik |
 | Kmet | Mornar |  |
 
 #### Umetnik
 
-Svoj vsakdan si služite z ustvarjanjem umetnosti, bodisi z risanjem, slikanjem, kiparstvom, dizajnom, fotografijo, filmsko produkcijo ali katerim koli drugim sredstvom ustvarjalnega izražanja v fizičnem ali digitalnem mediju. Zabavljači naj se sklicujejo na poklic Zabavljač.
+Preživljate se z ustvarjanjem umetnosti, bodisi z risanjem, slikanjem, kiparstvom, oblikovanjem, fotografijo, filmskim ustvarjanjem ali katerim koli drugim sredstvom ustvarjalnega izražanja v fizičnem ali digitalnem mediju. Izvajalci naj se sklicujejo na poklic Zabavljač.
 
-**Premoženje**: Katero koli, običajno Revni ali Povprečni.
+**Premoženje**: Karkoli, vendar običajno Reven ali Povprečen.
 
-**Veščine**: Kateri koli dve veščini Umetnost, kateri koli Obrt, Vpogled, ena ustrezna veščina Znanja, Jezik (Drugi), Jezik (Lastni), Poslušanje, Raziskovanje, Opazovanje.
+**Spretnosti**: Kateri koli dve umetniški spretnosti, katera koli obrt, Vpogled, ena ustrezna spretnost Znanja, Jezik (Drug), Jezik (Lasten), Poslušanje, Raziskovanje, Opazovanje.
 
 #### Morilec
 
-Kot hladnokrven poklicni morilec je smrt vaša trgovina. Ne glede na to, ali ubijate za denar ali kakšen drug razlog, ste usposobljeni za končanje drugih živih bitij, običajno v tajnosti.
+Kot hladnokrven poklicni morilec je smrt vaš posel. Ne glede na to, ali ubijate za denar ali kakšen drug razlog, ste usposobljeni za končanje življenja drugih živih bitij, običajno v skrivnosti.
 
-**Premoženje**: Povprečni ali Premožni. Morda imate tudi širok nabor orožja in lažnih identitet, primernih za okolje.
+**Premoženje**: Povprečen ali Premožen. Imate lahko tudi široko paleto orožja in lažnih identitet, kot je primerno za okolje.
 
-**Veščine**: Izmikanje, Skrivanje, Poslušanje, Opazovanje, Prikrivanje in pet od naslednjih, primernih za okolje: Pretepanje, Preobleka, Vožnja, Elektronika, Rokoborba, Strelno orožje (katero koli), Fina manipulacija, Borilne veščine, Orožje za bližnji boj (katero koli), Izstrelno orožje (katero koli), Jahanje, Metanje, Sledenje.
+**Spretnosti**: Izmikanje, Skrivanje, Poslušanje, Opazovanje, Prikritost in pet od naslednjih, kot je primerno za okolje: Pretep, Preobleka, Vožnja, Elektronika, Oprijemanje, Strelno orožje (katero koli), Fina manipulacija, Borilne veščine, Blizko orožje (katero koli), Izstrelno orožje (katero koli), Jahanje, Metanje, Sledenje.
 
 #### Atlet
 
-Bodisi profesionalni bodisi amaterski, državno sponzorirani ali še v šoli, izstopate v slogu športa ali vadbe, pri čemer brusite svoje telo in odločnost za samostojno ali ekipno atletsko tekmovanje.
+Ne glede na to, ali ste profesionalec ali amater, državno podprt ali še v šoli, se odlikujete v slogu športa ali vadbe, pri čemer izpopolnjujete svoje telo in odločnost za solo ali ekipno atletsko tekmovanje.
 
-**Premoženje:** Revni do Bogati, običajno Povprečni ali Premožni.
+**Premoženje:** Reven do Bogat, običajno Povprečen ali Premožen.
 
-**Veščine:** Plezanje, Izmikanje, Skakanje, Prikrivanje, Metanje in izberite pet od naslednjih, primernih za okolje in šport: Pretepanje, Prva pomoč, Rokoborba, Vpogled, Poslušanje, Borilne veščine, Opazovanje, Jahanje, Plavanje.
+**Spretnosti:** Plezanje, Izmikanje, Skakanje, Prikritost, Metanje in izberite pet od naslednjih, kot je primerno za okolje in šport: Pretep, Prva pomoč, Oprijemanje, Vpogled, Poslušanje, Borilne veščine, Opazovanje, Jahanje, Plavanje.
 
 #### Berač
 
-Preživite z beračenjem za denar, hrano in druge nujnosti. Morda se imenujete potepuh, brezdomec ali potujoči popotnik. Morda ste imeli smolo, ste pripadnik diskriminirane skupine, imate kriminalno preteklost, ki ji ne morete ubežati, ali pa so vas v to stanje pahnile norost ali zloraba substanc.
+Preživite z beračenjem za denar, hrano in druge nujne potrebščine. Morda si pravite potepuh, brezdomcem ali popotni vagabund. Morda ste imeli niz nesrečnih dogodkov, ste del diskriminirane skupine, imate kriminalno preteklost, ki ji ne morete ubežati, ali pa so vas v to stanje pahnile norost ali zloraba substanc.
 
-**Premoženje:** Brez premoženja, čeprav so nekateri berači pravzaprav Revni in se le pretvarjajo, da jim gre slabše.
+**Premoženje:** Destituten, čeprav so nekateri berači dejansko Revni in se le pretvarjajo, da so v slabšem položaju.
 
-**Veščine:** Barantanje, Hitri pogovor, Skrivanje, Vpogled, Znanje (Regija: lokalno območje), Poslušanje, Prepričevanje, Spretnost rok, Opazovanje, Prikrivanje.
+**Spretnosti:** Barantanje, Hitro govorjenje, Skrivanje, Vpogled, Znanje (Regija: lokalno območje), Poslušanje, Prepričevanje, Spretne roke, Opazovanje, Prikritost.
 
 #### Uradnik
 
-Svoje dni preživite za mizo, običajno delate na kakšnem finančnem področju. Ta poklic je lahko takšen, kjer se ukvarjate s strankami, kot je računovodja ali uslužbenec v podjetju, vladi ali drugi organizaciji.
+Svoje dneve preživljate za pisalno mizo, običajno delate na kakšnem finančnem področju. Ta poklic je lahko takšen, kjer opravljate posle s strankami, kot je računovodja ali zaposleni z mesečno plačo v podjetju, vladi ali drugi organizaciji.
 
-**Premoženje:** Povprečni.
+**Premoženje:** Povprečen.
 
-**Veščine:** Barantanje, Bonton, Znanje (Računovodstvo), Znanje (Pravo), eno drugo Znanje, Jezik (Lastni), Prepričevanje, Raziskovanje, Status in bodisi tehnična veščina (Uporaba računalnika) bodisi Pismenost, kot je primerno glede na obdobje.
+**Spretnosti:** Barantanje, Etiketa, Znanje (Računovodstvo), Znanje (Pravo), eno drugo Znanje, Jezik (Lasten), Prepričevanje, Raziskovanje, Status in bodisi Tehnična spretnost (Uporaba računalnika) ali Pismenost, kot je primerno za obdobje.#### Računalni tehnik
 
-#### Računalniški tehnik
+Lahko ste korporativni programski inženir ali nezakonit heker. Lahko pa delate na katerem koli od številnih področij razvoja programske opreme. Večino življenja preživite povezani z računalnikom, pogosto vpeti v svetovno informacijsko omrežje. Vrstice kode, podatki in druga virtualna sredstva so za vas enako resnični kot orodja in materiali drugih obrtnikov.
 
-Lahko ste korporativni programski inženir ali nezakonit heker. Alternativno lahko delate na katerem koli od številnih področij razvoja programske opreme. Velik del svojega življenja preživite povezani z računalnikom, pogosto povezani s svetovnim informacijskim omrežjem. Vrstice kode, podatki in druga virtualna sredstva so za vas prav tako resnični kot orodja in materiali drugih obrtnikov.
+**Premoženje:** Povprečno do bogato.
 
-**Premoženje:** Povprečni do Premožni.
-
-**Veščine:** Obrt (Računalniška strojna oprema ali Koda), ena veščina Znanja, Jezik (Drugi) (programski jezik), Popravilo (Elektrika), Popravilo (Elektronika), Raziskovanje, Znanost (Matematika), Status, Tehnična (Uporaba računalnika) in izberite eno od naslednjih veščin kot specialitete, primerno za okolje: Računovodstvo, Skrivanje, Znanje (Pravo).
+**Veščine:** Obrt (Računalniška strojna oprema ali Koda), ena znanstvena veščina, Jezik (Drugi) (programski jezik), Popravilo (Električno), Popravilo (Elektronsko), Raziskovanje, Znanost (Matematika), Status, Tehnična veščina (Uporaba računalnika) in izberite eno od naslednjih veščin kot specializacijo, kot je primerno za okolje: Računovodstvo, Skrivanje, Znanje (Pravo).
 
 #### Obrtnik
 
-Bodisi vaški kovač, steklar ali izdelovalec fino uglašenih ur, z rokami izdelujete trgovsko blago in ga prodajate zainteresiranim kupcem. Običajno delate v trgovini, bodisi jo imate v lasti bodisi ste tam le zaposleni.
+Ne glede na to, ali ste vaški kovač, steklar ali izdelovalec natančno uglašenih ur, ročno izdelujete trgovsko blago in ga prodajate zainteresiranim kupcem. Običajno delate v delavnici, ne glede na to, ali ste njen lastnik ali ste tam le zaposleni.
 
-**Premoženje:** Revni do Premožni, običajno Povprečni.
+**Premoženje:** Revno do bogato, običajno povprečno.
 
-**Veščine:** Ocenjevanje, katera koli Umetnost, Barantanje, kateri koli dve veščini Obrt, Opazovanje, Raziskovanje, Status in izberite dve od naslednjih, primernih za okolje in trgovino: Fina manipulacija, Popravilo (Elektrika), Popravilo (Elektronika), Popravilo (Mehanika), Težki stroji.
+**Veščine:** Ocenjevanje, katera koli ena Umetnost, Barantanje, kateri koli dve veščini Obrti, Opazovanje, Raziskovanje, Status in izberite dve od naslednjih, kot je primerno za okolje in obrt: Fina manipulacija, Popravilo (Električno), Popravilo (Elektronsko), Popravilo (Mehansko), Težki stroji.
 
 #### Kriminalec
 
-Svoj prostor v svetu si utirate s kršenjem zakona, bodisi z nasilno tatvino, organiziranim kriminalom, krajo žepov ali kakšnim drugim načinom nezakonitega pridobivanja dragocenosti ali denarja.
+Skozi svet se prebijate s kršenjem zakona, bodisi z ropi, organiziranim kriminalom, žeparjenjem ali kako drugače nezakonito pridobivate dragocenosti ali denar.
 
-**Premoženje:** Revni do Premožni, včasih Bogati, običajno Povprečni.
+**Premoženje:** Revno do bogato, včasih premožno, običajno povprečno.
 
-**Veščine:** Barantanje, Skrivanje, Prikrivanje, Vožnja ali Jahanje in izberite katero koli šest od naslednjih, primernih za okolje in izsiljevanje: Ocenjevanje, Pretepanje, Plezanje, Hitri pogovor, Fina manipulacija, Strelno orožje (katero koli), Igre na srečo, Rokoborba, Vpogled, Skakanje, Znanje (Pravo), Poslušanje, Borilne veščine, Orožje za bližnji boj (katero koli, običajno noži ali palice), Prepričevanje, Opazovanje, Metanje.
+**Veščine:** Barantanje, Skrivanje, Prikrivanje, Vožnja ali Jahanje in izberite katerih koli šest od naslednjih, kot je primerno za okolje in dejavnost: Ocenjevanje, Pretepanje, Plezanje, Hitro govorjenje, Fina manipulacija, Strelno orožje (katero koli), Igre na srečo, Rokoborba, Uvid, Skok, Znanje (Pravo), Poslušanje, Borilne veščine, Orožje za bližnji boj (katero koli, običajno noži ali kiji), Prepričevanje, Opazovanje, Metanje.
 
 #### Detektiv
 
-Bodisi zaposleni pri policiji bodisi delajoč zasebno, uporabljate veščine opazovanja, dedukcije in kriminologije, da ugotovite, kdo je zagrešil zločine. Morda imate širok nabor forenzičnih in znanstvenih veščin ali pa delujete po občutku.
+Ne glede na to, ali ste zaposleni pri policiji ali delate zasebno, uporabljate veščine opazovanja, sklepanja in kriminologije, da ugotovite, kdo je zagrešil kazniva dejanja. Morda imate širok nabor forenzičnih in znanstvenih veščin ali pa delujete na podlagi intuicije.
 
-**Premoženje:** Povprečni ali Premožni.
+**Premoženje:** Povprečno ali bogato.
 
-**Veščine:** Strelno orožje (Ročno orožje), Znanje (Pravo), Poslušanje, Prepričevanje, Opazovanje, Raziskovanje in izberite štiri od naslednjih, primernih za okolje in koncept: Umetnost, Pretepanje, Preobleka, Izmikanje, Vožnja, Hitri pogovor, Strelno orožje (katero koli), Rokoborba, Skrivanje, Vpogled, Znanje (katero koli), Jezik (Drugi), Jezik (Lastni), Medicina, Jahanje, Znanost (katero koli), Tehnična (Uporaba računalnika), Prikrivanje, Sledenje.
+**Veščine:** Strelno orožje (Pištola), Znanje (Pravo), Poslušanje, Prepričevanje, Opazovanje, Raziskovanje in izberite štiri od naslednjih, kot je primerno za okolje in koncept: Umetnost, Pretepanje, Preobleka, Izmikanje, Vožnja, Hitro govorjenje, Strelno orožje (katero koli), Rokoborba, Skrivanje, Uvid, Znanje (katero koli), Jezik (Drugi), Jezik (Lastni), Medicina, Jahanje, Znanost (katera koli), Tehnična veščina (Uporaba računalnika), Prikrivanje, Sledenje.
 
 #### Zdravnik
 
-Svoj poklic ste naredili iz zdravljenja poškodovanih, obolelih, bolnih in drugače nezdravih ljudi, z uporabo diagnostičnih veščin in medicinskih praks, pridobljenih z obsežnim usposabljanjem in študijem. Morda ste prisegli, da boste pomagali vsakomur, ki to potrebuje, ne glede na to, kaj so storili ali kdo so.
+Svoj poklic ste si izbrali za zdravljenje poškodovanih, obolelih, bolnih in drugače slabotnih, pri čemer uporabljate diagnostične veščine in medicinske prakse, pridobljene z obsežnim usposabljanjem in študijem. Morda ste prisegli, da boste pomagali vsakomur, ki to potrebuje, ne glede na to, kaj je storil ali kdo je.
 
-**Premoženje:** Povprečni do Premožni.
+**Premoženje:** Povprečno do bogato.
 
-**Veščine:** Prva pomoč, Jezik (Lastni), Medicina, Prepričevanje, Raziskovanje, Opazovanje in izberite štiri od naslednjih, primernih za okolje: Vpogled, Jezik (Drugi), Psihoterapija, Znanost (katero koli), Status.
+**Veščine:** Prva pomoč, Jezik (Lastni), Medicina, Prepričevanje, Raziskovanje, Opazovanje in izberite štiri od naslednjih, kot je primerno za okolje: Uvid, Jezik (Drugi), Psihoterapija, Znanost (katera koli), Status.
 
 #### Inženir
 
-Gradite, popravljate ali vzdržujete stroje, delate v gradbeništvu ali ste mehanik, ki se ukvarja s tehnologijo, primerno za vaše obdobje in okolje, od preproste kamnite arhitekture do visoko naprednih pogonskih sistemov vesoljskih ladij. Nekateri inženirji vzdržujejo in upravljajo veliko in zapleteno vozilo katere koli vrste, od jadrnice do vesoljske križarke, drugi pa so zaposleni pri ustvarjanju in vzdrževanju oblegovalnih naprav ali arhitekturnih struktur.
+Gradite, popravljate ali vzdržujete stroje, delate v gradbeništvu ali ste mehanik, ki se ukvarja s tehnologijo, primerno za vašo dobo in okolje, od preproste kamnite arhitekture do zelo naprednih pogonskih sistemov vesoljskih ladij. Nekateri inženirji vzdržujejo in upravljajo veliko in kompleksno vozilo, od jadrnice do vesoljske križarke, drugi pa so zaposleni pri ustvarjanju in vzdrževanju oblegovalnih strojev ali arhitekturnih struktur.
 
-**Premoženje:** Revni do Premožni, običajno Povprečni.
+**Premoženje:** Revno do bogato, običajno povprečno.
 
-**Veščine:** Obrt (katero koli), Popravilo (Mehanika), Popravilo (Struktura), Opazovanje, Status in pet od naslednjih, primernih za okolje in koncept: Umetnost (običajno tehnično risanje), Vožnja, Težki stroji, Znanje (katero koli), Pilotiranje (katero koli), Popravilo (Elektrika), Popravilo (Elektronika), Znanost (katero koli) ali Tehnična (Uporaba računalnika).
+**Veščine:** Obrt (katera koli), Popravilo (Mehansko), Popravilo (Strukturno), Opazovanje, Status in pet od naslednjih, kot je primerno za okolje in koncept: Umetnost (običajno Risarstvo), Vožnja, Težki stroji, Znanje (katero koli), Pilotiranje (katero koli), Popravilo (Električno), Popravilo (Elektronsko), Znanost (katera koli) ali Tehnična veščina (Uporaba računalnika).
 
 #### Zabavljač
 
-Svoj nastopalski talent uporabljate za zabavanje občinstva vseh velikosti, improvizirano ali po scenariju, v živo ali prek oddajanja oziroma predhodno posnete distribucije.
+Svoj nastopaški talent uporabljate za zabavanje občinstva vseh velikosti, improvizirano ali po scenariju, osebno ali prek oddajanja oziroma vnaprej posnetih distribucij.
 
-**Premoženje:** Brez premoženja do Bogati, običajno Povprečni.
+**Premoženje:** Brez sredstev do premožno, običajno povprečno.
 
-**Veščine:** Umetnost (katero koli), Preobleka, Hitri pogovor, Fina manipulacija, Vpogled, Jezik (Drugi), Jezik (Lastni), Poslušanje, Nastopanje (katero koli), Prepričevanje.
+**Veščine:** Umetnost (katera koli), Preobleka, Hitro govorjenje, Fina manipulacija, Uvid, Jezik (Drugi), Jezik (Lastni), Poslušanje, Nastopanje (katero koli), Prepričevanje.
 
 #### Raziskovalec
 
-Svoj življenjski poklic ste naredili iz iskanja neznanih kotov sveta, odhajanja tja, kamor nihče še ni šel, in prinašanja znanja o tem, kar ste našli, bodisi zaradi slave bodisi v imenu odkritja.
+Svoje življenjsko delo ste posvetili iskanju neznanih kotičkov sveta, odhodu tja, kamor nihče ni stopil pred vami, in prinašanju znanja o tem, kar ste našli, bodisi zaradi slave ali v imenu odkritij.
 
-**Premoženje:** Premožni ali Bogati.
+**Premoženje:** Bogato ali premožno.
 
-**Veščine:** Plezanje, Jezik (Drugi), Jezik (Lastni), Prepričevanje, Raziskovanje, Opazovanje in štiri od naslednjih, primernih za okolje: Znanje (Antropologija, Skupina, Zgodovina, Naravni svet ali Regija), Vožnja, Hitri pogovor, Strelno orožje (Pištola, Revolver ali Puška), Navigacija, Pilotiranje (Letalo ali Čoln), Jahanje, Znanost (Geologija), Plavanje, Sledenje.
+**Veščine:** Plezanje, Jezik (Drugi), Jezik (Lastni), Prepričevanje, Raziskovanje, Opazovanje in štiri od naslednjih, kot je primerno za okolje: Znanje (Antropologija, Skupina, Zgodovina, Naravni svet ali Regija), Vožnja, Hitro govorjenje, Strelno orožje (Pištola, Revolver ali Puška), Navigacija, Pilotiranje (Letalo ali Čoln), Jahanje, Znanost (Geologija), Plavanje, Sledenje.
 
 #### Kmet
 
-Kot kmet živite na podeželju ali komaj ukročenem območju, z gojenjem pridelkov ali oskrbo živalskih čred pridobivate preživetje iz zemlje. To je trdo življenje z dolgimi dnevi težkega fizičnega dela, a kljub temu zadovoljujoče.
+Kot kmet živite na podeželju ali komaj ukročenem območju, kjer si preživetje zagotavljate z gojenjem poljščin ali oskrbo čred živali. To je trdo življenje z dolgimi dnevi težkega fizičnega dela, a vendar zadovoljujoče.
 
-**Premoženje:** Revni do Premožni, običajno Povprečni.
+**Premoženje:** Revno do bogato, običajno povprečno.
 
-**Veščine:** Barantanje, Obrt (katero koli), Znanje (Naravoslovje), Poslušanje, Opazovanje in pet od naslednjih, primernih za okolje in koncept: Pretepanje, Vožnja, Strelno orožje (Puška ali Šibrovka), Prva pomoč, Težki stroji, Znanje (Naravni svet), Popravilo (Mehanika), Jahanje, Znanost (Biologija, Botanika ali Geologija), Sledenje.
+**Veščine:** Barantanje, Obrt (katera koli), Znanje (Naravoslovje), Poslušanje, Opazovanje in pet od naslednjih, kot je primerno za okolje in koncept: Pretepanje, Vožnja, Strelno orožje (Puška ali Šibrenica), Prva pomoč, Težki stroji, Znanje (Naravni svet), Popravilo (Mehansko), Jahanje, Znanost (Biologija, Botanika ali Geologija), Sledenje.
 
 #### Hazarder
 
-Preživite na hir časa ali s goljufanjem usode v igrah sreče in spretnosti. Neizogibno potujete naokoli; premikate se iz ene arene iger na srečo v drugo, včasih korak pred zakonom, v upanju, da vaša sreča ne bo presahnila.
+Preživljate se z muhavostjo naključja ali s prinašanjem na okoli usode v igrah sreče in spretnosti. Neizogibno potujete naokoli; tavate od enega igralniškega prizorišča do drugega, včasih korak pred zakonom, v upanju, da vaša sreča ne bo pošla.
 
-**Premoženje:** Revni do Premožni, običajno Povprečni.
+**Premoženje:** Revno do bogato, običajno povprečno.
 
-**Veščine:** Barantanje, Pretepanje, Izmikanje, Hitri pogovor, Igre na srečo, Vpogled, Znanje (Računovodstvo), Prepričevanje, Spretnost rok, Opazovanje.
+**Veščine:** Barantanje, Pretepanje, Izmikanje, Hitro govorjenje, Igre na srečo, Uvid, Znanje (Računovodstvo), Prepričevanje, Spretne roke, Opazovanje.
 
 #### Pastir
 
-Svoj vsakdan si služite z nego črednih živali, jahanjem po odprtih pašnikih in skrbjo za črede, iskanjem izgubljenih živali in njihovim prinašanjem na trg, ko pride čas za prodajo.
+Preživljate se z oskrbo čred živali, jahanjem po odprtih pašnikih in skrbi za črede, iskanjem izgubljenih živali in njihovim prinašanjem na trg, ko pride čas za prodajo.
 
-**Premoženje:** Revni do Povprečni, občasno Premožni.
+**Premoženje:** Revno do povprečno, občasno bogato.
 
 **Veščine:** Obrt (običajno vozli), Strelno orožje (Puška), Znanje (Naravni svet), Znanje (Regija: Pašniki), Poslušanje, Navigacija, Jahanje, Opazovanje, Metanje, Sledenje.
 
 #### Lovec
 
-Bodisi zaradi preživetja bodisi zaradi vznemirjenja lova, ste specializirani za sledenje in bodisi nastavljanje pasti bodisi ubijanje divjih živali ali drugih bitij.
+Ne glede na to, ali gre za preživetje ali užitek lova, ste specializirani za sledenje in bodisi lovljenje v pasti ali ubijanje divjih živali ali drugih bitij.
 
-**Premoženje:** Revni ali Povprečni, razen če ste lovec na veliko divjad ali športni lovec, potem Bogati.
+**Premoženje:** Revno ali povprečno, razen če ste lovec na veliko divjad ali športni lovec, takrat premožno.
 
-**Veščine:** Plezanje, Skrivanje, Poslušanje, Navigacija, Opazovanje, Prikrivanje, Sledenje in tri od naslednjih, primernih za okolje in koncept: Strelno orožje (Puška ali Šibrovka), Znanje (Naravni svet ali Regija), Jezik (Drugi), Orožje za bližnji boj (običajno kopje), Izstrelno orožje (katero koli), Jahanje.
+**Veščine:** Plezanje, Skrivanje, Poslušanje, Navigacija, Opazovanje, Prikrivanje, Sledenje in tri od naslednjih, kot je primerno za okolje in koncept: Strelno orožje (Puška ali Šibrenica), Znanje (Naravni svet ali Regija), Jezik (Drugi), Orožje za bližnji boj (običajno Kopje), Orožje za metanje (katero koli), Jahanje.
 
 #### Novinar
 
-Bodisi kolumnist za tedenski časopis, spletni novinar, fotoreporter, televizijski voditelj ali gonzo komentator, si služite z analiziranjem dogodkov, ki se oddajajo ali distribuirajo v kakšnem drugem mediju. To lahko pride z določeno mero slave ali razvpitosti.
+Ne glede na to, ali ste kolumnist za tednik, spletni novinar, fotoreporter, televizijski voditelj ali komentator, živite od poročanja in analiziranja dogodkov, ki bodo predvajani ali razširjeni v kakšnem drugem mediju. To lahko prinese določeno mero slave ali razvpitosti.
 
-**Premoženje:** Povprečni do Premožni.
+**Premoženje:** Povprečno do bogato.
 
-**Veščine:** Hitri pogovor, Vpogled, Jezik (Lastni), Poslušanje, Prepričevanje, Raziskovanje, Opazovanje in tri od naslednjih, primernih za okolje in koncept: Umetnost (Fotografija), Obrt (Fotografija), Preobleka, Skrivanje, Znanje (katero koli), Jezik (Drugi), Status, Prikrivanje, Tehnična (Uporaba računalnika).
+**Veščine:** Hitro govorjenje, Uvid, Jezik (Lastni), Poslušanje, Prepričevanje, Raziskovanje, Opazovanje in tri od naslednjih, kot je primerno za okolje in koncept: Umetnost (Fotografija), Obrt (Fotografija), Preobleka, Skrivanje, Znanje (katero koli), Jezik (Drugi), Status, Prikrivanje, Tehnična veščina (Uporaba računalnika).
 
 #### Delavec
 
-Ste modri ovratnik, bodisi na tovarniški liniji, v skladišču ali preprosto pri težkem fizičnem delu. Vaše mišice in sposobnost opravljanja ponavljajočih se nalog so pomembnejši od katere koli inteligence, ki jo lahko zberete.
+Ste delavec, bodisi na tovarniški liniji, v skladišču ali preprosto opravljate težka fizična dela. Vaše mišice in sposobnost opravljanja ponavljajočih se nalog so pomembnejše od kakršne koli umske zmogljivosti, ki jo premorete.
 
-**Premoženje:** Revni ali Povprečni.
+**Premoženje:** Revno ali povprečno.
 
-**Veščine:** Plezanje, Obrt (katero koli), Vožnja, Pretepanje, Rokoborba, Težki stroji in štiri druge, primernih za okolje: Ocenjevanje, Fina manipulacija, Jezik (Drugi), Pismenost, Popravilo (Mehanika), Popravilo (Struktura), Tehnična (Uporaba računalnika).
+**Veščine:** Plezanje, Obrt (katera koli), Vožnja, Pretepanje, Rokoborba, Težki stroji in štiri druge, kot je primerno za okolje: Ocenjevanje, Fina manipulacija, Jezik (Drugi), Pismenost, Popravilo (Mehansko), Popravilo (Strukturno), Tehnična veščina (Uporaba računalnika).
 
-#### Varuhi reda
+#### Čuvaj zakona
 
-Imate pooblastilo in jurisdikcijo, da podpirate in branite zakon, idealno v obrambo navadnih ljudi. Vaše uveljavljanje zakona in pravnega kodeksa podpira struktura moči v vaši skupnosti.
+Imate pooblastilo in pristojnost za ohranjanje in obrambo zakona, idealno v obrambo navadnih ljudi. Vaše uveljavljanje zakona in pravnega kodeksa podpira struktura moči v vaši skupnosti.
 
-**Premoženje:** Običajno Povprečni. Korumpirani možje postave so včasih Premožni.
+**Premoženje:** Običajno povprečno. Skorumpirani policisti so včasih bogati.
 
-**Veščine:** Pretepanje, Izmikanje, Hitri pogovor, Znanje (Pravo), Poslušanje, Opazovanje in štiri od naslednjih, primernih za okolje in koncept: Vožnja, Strelno orožje (katero koli), Prva pomoč, Rokoborba, Vpogled, Znanje (Regija ali Skupina), Jezik (Drugi), Borilne veščine, Orožje za bližnji boj (katero koli), Izstrelno orožje (katero koli), Pilotiranje (katero koli), Jahanje, Status, Tehnična (Uporaba računalnika), Sledenje.
+**Veščine:** Pretepanje, Izmikanje, Hitro govorjenje, Znanje (Pravo), Poslušanje, Opazovanje in štiri od naslednjih, kot je primerno za okolje in koncept: Vožnja, Strelno orožje (katero koli), Prva pomoč, Rokoborba, Uvid, Znanje (Regija ali Skupina), Jezik (Drugi), Borilne veščine, Orožje za bližnji boj (katero koli), Orožje za metanje (katero koli), Pilotiranje (katero koli), Jahanje, Status, Tehnična veščina (Uporaba računalnika), Sledenje.
 
 #### Odvetnik
 
-Usposobljeni ste v pravu in uporabljate pravni sistem za pregon ali obrambo, ali pa zastopate pravne interese posameznikov, organizacij ali vlad. Čeprav nimate nobenega pooblastila nad ali izven tistega, kar ima običajen državljan, vam vaše notranje znanje pravnega sistema daje precejšnjo moč znotraj pravnega sistema.
+Usposobljeni ste na področju prava in uporabljate pravni sistem za tožilstvo ali obrambo, ali pa zastopate pravne interese posameznikov, organizacij ali vlad. Čeprav nimate nobene avtoritete nad ali onkraj avtoritete navadnega državljana, vam vaše notranje poznavanje pravnega sistema daje precejšnjo moč znotraj pravnega sistema.
 
-**Premoženje:** Brez premoženja, Revni, Povprečni, Premožni, Bogati.
+**Premoženje:** Brez sredstev, revno, povprečno, bogato, premožno.
 
-**Veščine:** Barantanje, Hitri pogovor, Vpogled, Znanje (Pravo), ena druga veščina Znanja, Jezik (Lastni), Nastopanje (Govorništvo), Prepričevanje, Raziskovanje, Status.
+**Veščine:** Barantanje, Hitro govorjenje, Uvid, Znanje (Pravo), ena druga znanstvena veščina, Jezik (Lastni), Nastopanje (Govorništvo), Prepričevanje, Raziskovanje, Status.
 
 #### Mehanik
 
-Kot maščoba-opica svoj čas preživite z vzdrževanjem, popravilom in včasih gradnjo strojev, vozil ali bolj zapletenih konstrukcij. Dobri ste z orodji in zlahka razvozlate tehnične težave ali vprašanja.
+Kot "mastna roka" svoj čas preživljate z vzdrževanjem, popravljanjem in včasih izdelavo strojev, vozil ali bolj zapletenih konstrukcij. Dobro se znajdete z orodjem in zlahka razvozlate tehnične težave ali vprašanja.
 
-**Premoženje:** Revni do Povprečni, običajno Povprečni.
+**Premoženje:** Revno do povprečno, običajno povprečno.
 
-**Veščine:** Barantanje, Obrt (Kovina), Vožnja, Fina manipulacija, Težki stroji, Popravilo (Elektrika), Popravilo (Elektronika), Popravilo (Mehanika), Popravilo (Struktura), Opazovanje.
+**Veščine:** Barantanje, Obrt (Kovinarstvo), Vožnja, Fina manipulacija, Težki stroji, Popravilo (Električno), Popravilo (Elektronsko), Popravilo (Mehansko), Popravilo (Strukturno), Opazovanje.
 
 #### Trgovec
 
-Služite si z maloprodajo ali veleprodajo, kupovanjem virov za manj in prodajanjem za več. Morda delate v trgovini ali ste lastnik, lahko pa ste mobilni: potujoči trgovec, potujoči popravljalec, pustolovski trgovec z začimbami ali mednarodni prodajni predstavnik.
+Preživljate se s trgovino na drobno ali debelo, kjer kupujete vire ceneje in jih prodajate dražje. Morda delate v trgovini ali ste njen lastnik, ali pa ste mobilni: potujoči prodajalec, potujoči popravljalec, pustolovski trgovec z začimbami ali mednarodni prodajni predstavnik.
 
-**Premoženje:** Povprečni do Bogati, običajno Premožni. Vaš vodja igre in igralec naj določita, ali ima lik v lasti svojo trgovino ali trgovsko ladjo.
+**Premoženje:** Povprečno do premožno, običajno bogato. Vaš mojster igre in igralec naj določita, ali ima lik svojo trgovino ali trgovsko ladjo.
 
-**Veščine:** Ocenjevanje, Barantanje, Hitri pogovor, Znanje (Računovodstvo), Znanje (Poslovanje), Prepričevanje, Raziskovanje, Status in kateri koli dve drugi veščini kot specialiteti, primerni za okolje in koncept.
+**Veščine:** Ocenjevanje, Barantanje, Hitro govorjenje, Znanje (Računovodstvo), Znanje (Poslovanje), Prepričevanje, Raziskovanje, Status in kateri koli dve drugi veščini kot specializaciji, kot je primerno za okolje in koncept.
 
 #### Plemič
 
-Rodili ste se v bogastvu in vladajočem razredu. V družbi, ki priznava takšne družbene razlike, je vaš status pogosto povezan z nazivi in naslovi, a tudi če so takšni nazivi brez pomena, ste še vedno zlahka prepoznani kot pripadnik elite. Vajeni ste elegantnega in ekstravagantnega življenjskega sloga ter poznate in ste znani med bogatimi in drugimi visokorodnimi člani družbe.
+Rodili ste se v bogastvu in vladajočem razredu. V družbi, ki priznava takšne družbene razlike, je vaš status pogosto povezan s čini in nazivi, a tudi če so ti nazivi brez pomena, vas zlahka prepoznajo kot pripadnika elite. Navajeni ste na eleganten in ekstravaganten življenjski slog, poznate bogate in druge visokorojene pripadnike družbe ter oni poznajo vas.
 
-**Premoženje:** Premožni do Bogati, običajno Bogati.
+**Premoženje:** Bogato do premožno, običajno premožno.
 
-**Veščine:** Barantanje, Vožnja, Bonton, Jezik (Lastni), Jezik (Drugi), Pismenost in Status, plus katere koli druge tri veščine kot hobiji ali področja zanimanja.
+**Veščine:** Barantanje, Vožnja, Etiketa, Jezik (Lastni), Jezik (Drugi), Pismenost in Status ter katere koli druge tri veščine kot hobiji ali področja zanimanja.
 
 #### Okultist
 
-Ste študent nejasnih skrivnosti, skritega znanja in magične moči, ki verjame v vpliv in primat nadnaravnih sil. Če je primerno za okolje, vam lahko vaš vodja igre dovoli uporabo moči (verjetno magija ali čarovništvo), morda pridobljenih kot član okultne organizacije ali tajnega društva.
+Ste študent nejasnih skrivnosti, skritega znanja in magične moči, ki verjame v vpliv in primat nadnaravnih sil. Če je primerno za okolje, vam mojster igre lahko dovoli uporabo moči (verjetno magije ali čarovništva), ki ste jih morda preučevali kot član okultne organizacije ali tajnega društva.
 
-**Premoženje:** Revni do Bogati, običajno Premožni.
+**Premoženje:** Revno do premožno, običajno bogato.
 
-**Veščine:** Hitri pogovor, Vpogled, Znanje (Antropologija), Znanje (Zgodovina), Znanje (Okultno), Jezik (Drugi), Jezik (Lastni), Raziskovanje in kateri koli dve drugi veščini, primerni za okolje, običajno iz naslednjih: Umetnost (katero koli), Obrt (katero koli), Znanje (Arheologija), Medicina, Znanost (katero koli) ali Status.
+**Veščine:** Hitro govorjenje, Uvid, Znanje (Antropologija), Znanje (Zgodovina), Znanje (Okultno), Jezik (Drugi), Jezik (Lastni), Raziskovanje in kateri koli dve drugi veščini, kot je primerno za okolje, običajno med naslednjimi: Umetnost (katera koli), Obrt (katera koli), Znanje (Arheologija), Medicina, Znanost (katera koli) ali Status.
 
-**Posebno:** Če je magija prisotna v okolju, imate morda magične moči. Glejte *Četrto poglavje: Moči* za več informacij.
+**Posebno:** Če je magija prisotna v okolju, imate morda magične moči. Glejte Četrto poglavje: Moči za več informacij.
 
 #### Pilot
 
-Bodisi na kopnem, na ali pod vodo, v nebesih ali skozi globine vesolja, ste usposobljeni za vodenje in pilotiranje plovila katere koli vrste, krmarjenje za komercialne, uradne ali vojaške namene. Vaše delo sega od pilota vesoljskega lovca do kapitana tramp-parnika, odvisno od okolja.
+Ne glede na to, ali ste na kopnem, na ali pod vodo, v oblakih ali skozi globine vesolja, ste usposobljeni za vodenje in pilotiranje kakršnega koli plovila, ki ga usmerjate za komercialne, uradne ali vojaške namene. Vaše delo sega od pilota vesoljskega lovca do kapitana tovorne ladje, odvisno od okolja.
 
-**Premoženje:** Povprečni do Premožni. Če imate v lasti svoje plovilo, Premožni.
+**Premoženje:** Povprečno do bogato. Če imate v lasti svoje plovilo, bogato.
 
-**Veščine:** Vožnja, Težki stroji, Poslušanje, Navigacija, Pilotiranje (katero koli), Opazovanje, plus katere koli štiri od naslednjih veščin, primernih za okolje: Barantanje, Plezanje, Ukazovanje, Obrt (katero koli), Znanje (Regija), Popravilo (Elektrika), Popravilo (Elektronika), Popravilo (Mehanika), Jezik (Drugi), Prepričevanje, Znanost (Fizika), Znanost (Astronomija), Tehnična (Uporaba računalnika).
+**Veščine:** Vožnja, Težki stroji, Poslušanje, Navigacija, Pilotiranje (katero koli), Opazovanje in katere koli štiri od naslednjih veščin, kot je primerno za okolje: Barantanje, Plezanje, Poveljevanje, Obrt (katera koli), Znanje (Regija), Popravilo (Električno), Popravilo (Elektronsko), Popravilo (Mehansko), Jezik (Drugi), Prepričevanje, Znanost (Fizika), Znanost (Astronomija), Tehnična veščina (Uporaba računalnika).
 
 #### Politik
 
-Bili ste izvoljeni ali imenovani na položaj avtoritete in si služite z sodelovanjem pri ali usmerjanjem vladnih dejavnosti, bodisi mestnih bodisi večjih. Lahko ste srednjeveški magistrat ali galaktični senator, odvisno od okolja.
+Bili ste izvoljeni ali imenovani na položaj avtoritete in se preživljate s sodelovanjem pri vladnih dejavnostih ali njihovim usmerjanjem, bodisi na ravni mesta ali širše. Lahko ste srednjeveški sodnik ali galaktični senator, odvisno od okolja.
 
-**Premoženje:** Premožni do Bogati, običajno Premožni.
+**Premoženje:** Bogato do premožno, običajno bogato.
 
-**Veščine:** Barantanje, Bonton, Hitri pogovor, Vpogled, Znanje (Pravo), Prepričevanje, Status, plus katere koli tri druge veščine, primernih za okolje, običajno iz naslednjih: Znanje (Računovodstvo, Skupina, Zgodovina ali Regija), Poslušanje, Jezik (Drugi), Jezik (Lastni), Nastopanje (Govorništvo), Raziskovanje.
+**Veščine:** Barantanje, Etiketa, Hitro govorjenje, Uvid, Znanje (Pravo), Prepričevanje, Status in katere koli tri druge veščine, kot je primerno za okolje, običajno med naslednjimi: Znanje (Računovodstvo, Skupina, Zgodovina ali Regija), Poslušanje, Jezik (Drugi), Jezik (Lastni), Nastopanje (Govorništvo), Raziskovanje.
 
 #### Duhovnik
 
-Vaša vera in prepričanje v božansko sta vas vodila do klica duhovništva in svoj čas preživljate s pridiganjem ali dejavnostmi, primernimi za čaščenje vašega božanstva (ali božanstev). Lahko ste asketski menih ali televizijski pridigar, odvisno od okolja.
+Vaša vera in prepričanje v božansko sta vas pripeljala do duhovniškega poklica, svoj čas pa preživljate s pridiganjem ali dejavnostmi, ki pritičejo čaščenju vašega božanstva (ali božanstev). Lahko ste askeza menih ali televizijski pridigar, odvisno od okolja.
 
-**Premoženje:** Revni do Premožni, običajno Povprečni, morda Bogati, če ste verski vodja velike skupine vernikov, po presoji vašega vodje igre.
+**Premoženje:** Revno do bogato, običajno povprečno, po presoji mojstra igre morda premožno, če ste verski vodja velike skupine vernikov.
 
-**Veščine:** Hitri pogovor, Vpogled, Znanje (Zgodovina), Znanje (Filozofija), Znanje (Religija), Jezik (Lastni), Nastopanje (Ritual), Prepričevanje in dve od naslednjih: Znanje (Okultno), Jezik (Drugi), Poslušanje, Pismenost, Nastopanje (Govorništvo), Raziskovanje, Status, Poučevanje.
+**Veščine:** Hitro govorjenje, Uvid, Znanje (Zgodovina), Znanje (Filozofija), Znanje (Religija), Jezik (Lastni), Nastopanje (Rituali), Prepričevanje in dve od naslednjih: Znanje (Okultno), Jezik (Drugi), Poslušanje, Pismenost, Nastopanje (Govorništvo), Raziskovanje, Status, Poučevanje.
 
-**Posebno:** Vaša pripadnost veri ali kultu vam lahko podeli dostop do magičnih ali nadnaravnih moči. Glejte *Četrto poglavje: Moči* za več informacij.
+**Posebno:** Vaša pripadnost veri ali kultu vam lahko omogoči dostop do magičnih ali nadnaravnih moči. Glejte Četrto poglavje: Moči za več informacij.
 
 #### Mornar
 
-Plujete po oceanskih valovih, trdo delate za ohranjanje integritete svojega plovila, bodisi kot pirat, mornariški častnik ali trgovec iz starodavnega sveta.
+Krmarite po oceanskih valovih in trdo delate za ohranjanje celovitosti svojega plovila, bodisi kot pirat, mornariški častnik ali trgovec v antičnem svetu.
 
-**Premoženje:** Revni ali Povprečni, običajno Povprečni.
+**Premoženje:** Revno ali povprečno, običajno povprečno.
 
-**Veščine:** Plezanje, Obrt (katero koli), Izmikanje, Rokoborba, Navigacija, Pilotiranje (Čoln), Plavanje in katere koli tri od naslednjih: Topništvo (katero koli, običajno ladijsko), Ukazovanje, Jezik (Drugi), Poslušanje, Popravilo (Mehanika), Popravilo (Struktura), Opazovanje.
+**Veščine:** Plezanje, Obrt (katera koli), Izmikanje, Rokoborba, Navigacija, Pilotiranje (Čoln), Plavanje in katere koli tri od naslednjih: Topništvo (katero koli, običajno na krovu), Poveljevanje, Jezik (Drugi), Poslušanje, Popravilo (Mehansko), Popravilo (Strukturno), Opazovanje.
 
 #### Učenjak
 
-Študij in učenje definirata vaše življenje in specializirani ste za eno ali več področij znanja, goreče iščoč vse, kar je mogoče vedeti na svojem intelektualnem področju. To znanje lahko poučujete študente ali ga kopičite za lastno uporabo.
+Študij in učenje definirata vaše življenje, specializirali ste se za eno ali več področij znanja in nestrpno iščete vse, kar je mogoče vedeti na vašem intelektualnem področju. To znanje morda poučujete študente ali pa ga kopičite za lastno rabo.
 
-**Premoženje:** Povprečni ali Premožni, običajno Povprečni.
+**Premoženje:** Povprečno ali bogato, običajno povprečno.
 
 **Veščine:** Jezik (Drugi), Jezik (Lastni), Prepričevanje, Raziskovanje, Poučevanje in izberite pet veščin Znanja ali Znanosti, primernih za okolje in povezanih z vašim področjem študija.
 
 #### Znanstvenik
 
-Bodisi zaposleni pri korporaciji, izobraževalni instituciji, vladi bodisi delate po svoje, raziskujete področje znanosti s strogim špekuliranjem, eksperimentiranjem in opazovanjem, ponavljanjem procesa in izpopolnjevanjem osnove znanja.
+Ne glede na to, ali ste zaposleni pri korporaciji, izobraževalni ustanovi, vladi ali delate sami, raziskujete področje znanosti s strogim špekuliranjem, eksperimentiranjem in opazovanjem, ponavljanjem postopka in izpopolnjevanjem osnove znanja.
 
-**Premoženje:** Povprečni ali Premožni, običajno Premožni.
+**Premoženje:** Povprečno ali bogato, običajno bogato.
 
-**Veščine:** Obrt (katero koli), Prepričevanje, Raziskovanje, Status, Tehnična (Uporaba računalnika) ali Težki stroji in katero koli pet Znanja ali Znanosti, primernih za okolje in povezanih z vašim področjem študija.
+**Veščine:** Obrt (katera koli), Prepričevanje, Raziskovanje, Status, Tehnična veščina (Uporaba računalnika) ali Težki stroji in katerih koli pet veščin Znanja ali Znanosti, primernih za okolje in povezanih z vašim področjem študija.
 
 #### Služabnik
 
-Zaposleni ste kot pomočnik ali služabnik, ki skrbi za gospodinjske zadeve in domače potrebe premožnega delodajalca. Morda ste moški služabnik gospoda, adjutant generala ali pa ste služkinja v razprostranjenem gradu.
+Zaposleni ste kot pomočnik ali služabnik, skrbite za gospodinjske zadeve in domače potrebe premožnega delodajalca. Lahko ste služabnik gospoda, adjutant generala ali pa ste pomivalka posode v razprostrtem gradu.
 
-**Premoženje:** Revni do Povprečni, čeprav imajo včasih služabniki omejen dostop do delodajalčevega življenjskega sloga Premožni ali Bogati, z odobritvijo vašega vodje igre.
+**Premoženje:** Revno do povprečno, čeprav imajo služabniki včasih omejen dostop do življenjskega sloga svojega delodajalca, ki je bogat ali premožen, po odobritvi mojstra igre.
 
-**Veščine:** Obrt (katero koli), Bonton, Skrivanje, Jezik (Lastni), Poslušanje, Prikrivanje in izberite štiri od naslednjih kot osebne specialitete, primernih za okolje in koncept: Barantanje, Vožnja, Prva pomoč, Vpogled, Znanje (Računovodstvo), Jezik (Drugi), Prepričevanje.
+**Veščine:** Obrt (katera koli), Etiketa, Skrivanje, Jezik (Lastni), Poslušanje, Prikrivanje in izberite štiri od naslednjih kot osebne specializacije, kot je primerno za okolje in koncept: Barantanje, Vožnja, Prva pomoč, Uvid, Znanje (Računovodstvo), Jezik (Drugi), Prepričevanje.
 
 #### Šaman
 
-Ste plemenski čarovnik, usposobljen za stik z duhovnim svetom ter svetovanje in pomoč svojemu poglavarju in članom svojega plemena. Imate skrivno znanje, ki se prenaša od mentorja do študenta, in morda imate sposobnost uporabe magije. Večina šamanov je članov bolj primitivne kulture, čeprav obstaja nekaj sodobnih izvajalcev.
+Ste plemenski čarovnik, vešč kontaktiranja z duhovnim svetom ter dajanja nasvetov in pomoči svojemu poglavarju in članom svojega plemena. Imate skrivno znanje, ki se prenaša od mentorja do študenta, in morda imate sposobnost uporabe magije. Večina šamanov je članov bolj primitivne kulture, čeprav obstaja nekaj sodobnih izvajalcev.
 
-**Premoženje:** Revni ali Povprečni, na ravni obstoja plemena.
+**Premoženje:** Revno ali povprečno, na ravni plemenskega obstoja.
 
-**Veščine:** Umetnost (katero koli), Vpogled, Znanje (Zgodovina), Znanje (Okultno), Jezik (Lastni), Poslušanje, Nastopanje (Rituali), Prepričevanje in dve od naslednjih kot specialiteti, primernih za okolje in koncept: Obrt (katero koli), Hitri pogovor, Prva pomoč, Skrivanje, Znanje (Antropologija), Jezik (Drugi), Medicina, Znanost (Farmacija) ali Status.
+**Veščine:** Umetnost (katera koli), Uvid, Znanje (Zgodovina), Znanje (Okultno), Jezik (Lastni), Poslušanje, Nastopanje (Rituali), Prepričevanje in dve od naslednjih kot specializaciji, kot je primerno za okolje in koncept: Obrt (katera koli), Hitro govorjenje, Prva pomoč, Skrivanje, Znanje (Antropologija), Jezik (Drugi), Medicina, Znanost (Farmacija) ali Status.
 
-**Posebno:** Odvisno od okolja boste morda lahko uporabljali magijo. Glejte *Četrto poglavje: Moči* za več informacij.
+**Posebno:** Odvisno od okolja boste morda lahko uporabljali magijo. Glejte Četrto poglavje: Moči za več informacij.
 
 #### Suženj
 
-Ujeti in zasužnjeni ali rojeni v ujetništvu, ste suženj ali prisilni služabnik gospodarju ali organizaciji ali religiji. Morda ste dobro obravnavani: vodja osebja gospodinjstva, ali pa ste morda pretepani in redno kaznovani ter živite v strahu. Da bi bili razvrščeni kot suženj, se predpostavlja, da je bil večino vašega življenja preživet kot suženj. Če ste bili ujeti in zasužnjeni nedavno, namesto tega uporabite svoj prejšnji poklic.
+Zajeti in zasužnjeni ali rojeni v ujetništvu, ste suženj ali prisilni delavec posameznega gospodarja oziroma organizacije ali religije. Morda se z vami lepo ravna: ste vodja osebja v gospodinjstvu, ali pa ste morda pretepeni in redno kaznovani ter živite v strahu. Da bi vas klasificirali kot sužnja, se predpostavlja, da ste večino svojega življenja preživeli kot suženj. Če ste bili ujeti in zasužnjeni nedavno, uporabite svoj prejšnji poklic.
 
-**Premoženje:** Brez premoženja do Revni, čeprav imajo včasih sužnji omejen dostop do lastnikovega življenjskega sloga Premožni ali Bogati, z odobritvijo vašega vodje igre.
+**Premoženje:** Brez sredstev do revno, čeprav imajo sužnji včasih omejen dostop do življenjskega sloga svojega lastnika, ki je bogat ali premožen, po odobritvi mojstra igre.
 
-**Veščine:** Obrt (katero koli), Izmikanje, Bonton, Hitri pogovor, Skrivanje, Vpogled, Jezik (Drugi), Poslušanje, Prikrivanje in ena druga veščina kot poklicna specialiteta.
+**Veščine:** Obrt (katera koli), Izmikanje, Etiketa, Hitro govorjenje, Skrivanje, Uvid, Jezik (Drugi), Poslušanje, Prikrivanje in ena druga veščina kot poklicna specializacija.
 
-**Opomba:** Ta poklic je treba izbrati z občutljivostjo do drugih igralcev in vodje igre, zato se priporoča, da je vsak lik s tem poklicem ob začetku igre pobegnil ali bil emancipiran.
+**Opomba:** Ta poklic izberite z občutljivostjo do ostalih igralcev in mojstra igre; priporočljivo je, da je vsak lik s tem poklicem ob začetku igre pobegnil ali bil osvobojen.
 
 #### Vojak
 
-Bodisi z naborom bodisi s prostovoljnim vstopom ste profesionalni vojak, zadolžen za obrambo svoje države ali organizacije. Morda ste plačanec ali mečevalec, ali pa dejansko verjamete v stvar, za katero se borite. Kakorkoli, prejeli ste vojaško usposabljanje in delate v odredu drugih vojakov, delajoč to, kar vam naročijo.
+Bodisi s prostovoljnim vstopom ali mobilizacijo, ste poklicni vojak, zadolžen za obrambo svoje države ali organizacije. Morda ste plačanec, ali pa dejansko verjamete v cilj, za katerega se borite. Kakor koli že, prejeli ste vojaško usposabljanje in delate v odredu drugih vojakov ter počnete tisto, kar vam ukažejo.
 
-**Premoženje:** Revni ali Povprečni, vendar pogosto dobijo dostop do drage ali kako drugače prepovedane opreme.
+**Premoženje:** Revno ali povprečno, vendar pogosto dobite dostop do drage ali drugače prepovedane opreme.
 
-**Veščine:** Pretepanje, Plezanje, Izmikanje, Prva pomoč in šest od naslednjih, primernih za okolje: Topništvo, Ukazovanje, Vožnja, Strelno orožje (običajno Puška, vendar katero koli), Rokoborba, Težko orožje (katero koli), Skrivanje, Jezik (Drugi), Poslušanje, Skakanje, Medicina, Orožje za bližnji boj (katero koli), Izstrelno orožje (katero koli), Navigacija, Popravilo (Mehanika), Jahanje, Opazovanje, Prikrivanje, Metanje.
+**Veščine:** Pretepanje, Plezanje, Izmikanje, Prva pomoč in šest od naslednjih, kot je primerno za okolje: Topništvo, Poveljevanje, Vožnja, Strelno orožje (običajno Puška, a katero koli), Rokoborba, Težko orožje (katero koli), Skrivanje, Jezik (Drugi), Poslušanje, Skok, Medicina, Orožje za bližnji boj (katero koli), Orožje za metanje (katero koli), Navigacija, Popravilo (Mehansko), Jahanje, Opazovanje, Prikrivanje, Metanje.
 
 #### Vohun
 
-Ste usposobljeni za pretvezo in infiltracijo, vstopate v države ali organizacije pod krinko ali v tajnosti, odkrivate njihove skrivnosti in jih sporočate sovražniku ali zainteresirani strani.
+Ste vešči spletkarjenja in infiltracije, vstopanja v države ali organizacije pod krinko ali na skrivaj, odkrivanja njihovih skrivnosti in poročanja o njih sovražniku ali zainteresirani strani.
 
-**Premoženje:** Povprečni ali Premožni, odvisno od okolja.
+**Premoženje:** Povprečno ali bogato, odvisno od okolja.
 
-**Veščine:** Izmikanje, Hitri pogovor, Skrivanje, Poslušanje, Raziskovanje, Opazovanje, Prikrivanje in tri od naslednjih, primernih za okolje: Umetnost (Fotografija), Pretepanje, Preobleka, Bonton, Strelno orožje (katero koli), Rokoborba, Znanje (katero koli), Jezik (Drugi), Jezik (Lastni), Borilne veščine, Navigacija, Pilotiranje (katero koli), Psihologija, Popravilo (Elektronika), Popravilo (Mehanika), Jahanje, Plavanje, Tehnična (Uporaba računalnika), Metanje, Sledenje.
+**Veščine:** Izmikanje, Hitro govorjenje, Skrivanje, Poslušanje, Raziskovanje, Opazovanje, Prikrivanje in tri od naslednjih, kot je primerno za okolje: Umetnost (Fotografija), Pretepanje, Preobleka, Etiketa, Strelno orožje (katero koli), Rokoborba, Znanje (katero koli), Jezik (Drugi), Jezik (Lastni), Borilne veščine, Navigacija, Pilotiranje (katero koli), Psihologija, Popravilo (Elektronsko), Popravilo (Mehansko), Jahanje, Plavanje, Tehnična veščina (Uporaba računalnika), Metanje, Sledenje.#### Študent
 
-#### Študent
+Svoj čas preživljate s študijem, bodisi kot splošni študent bodisi kot vajenec pri kakšnem mojstru. Vaš učni načrt se lahko odvija na prestižni univerzi, akademiji borilnih veščin, čarovniški šoli ali kateri koli drugi zasebni in ekskluzivni ustanovi.
 
-Svoj čas preživite s študijem, bodisi kot splošni študent bodisi kot vajenec kakega mojstra. Vaš učni načrt je lahko na prestižni univerzi, akademiji za borilne veščine, čarovniški šoli ali kateri koli zasebni in ekskluzivni ustanovi.
+**Premoženje:** Revno do premožno, običajno povprečno.
 
-**Premoženje:** Revni do Bogati, običajno Povprečni.
+**Veščine:** Jezik (lastni), Raziskovanje in izberite osem drugih veščin kot študijske predmete, ki ustrezajo okolju in konceptu. Pogoste izbire so s tega seznama: Umetnost (katera koli), Obrt (katera koli), Prva pomoč, Uvid, Znanje (katero koli), Jezik (drugi), Poslušanje, Medicina, Popravljanje (katero koli), Nastopanje, Prepričevanje, Psihoterapija, Znanost (katera koli), Tehnična (uporaba računalnika) in ena fizična veščina (če je vključena v atletiko).
 
-**Veščine:** Jezik (Lastni), Raziskovanje in izberite osem drugih veščin kot smeri študija, primernih za okolje in koncept. Pogoste izbire so s naslednjega seznama: Umetnost (katero koli), Obrt (katero koli), Prva pomoč, Vpogled, Znanje (katero koli), Jezik (Drugi), Poslušanje, Medicina, Popravilo (katero koli), Nastopanje, Prepričevanje, Psihoterapija, Znanost (katero koli), Tehnična (Uporaba računalnika) in ena Fizična veščina (če je vključena v atletiko).
-
-**Posebno:** Študenti arkanskih umetnosti imajo morda dostop do magije ali čarovništva, ali pa ste v šoli, da vam pomagajo nadzorovati vaše supermoči, mutacije ali psihične sposobnosti. Glejte *Četrto poglavje: Moči* za več informacij.
+**Posebno:** Študenti arkane umetnosti imajo lahko dostop do magije ali čarovništva, ali pa morda obiskujete šolo, ki vam pomaga nadzorovati vaše supermoči, mutacije ali psihične sposobnosti. Za več informacij glejte Četrto poglavje: Moči.
 
 #### Učitelj
 
-Ste inštruktor enega ali več predmetov, poučujete skupine ali inštruirate enega samega študenta. Bodisi zaposleni na univerzi, srednji šoli ali drugi izobraževalni instituciji, študente poučujete v akademskem okolju do določenega standarda dosežkov.
+Ste inštruktor enega ali več predmetov, poučujete skupine ali inštruirate posameznega študenta. Ne glede na to, ali vas zaposluje univerza, srednja šola ali druga izobraževalna ustanova, študente v akademskem okolju usmerjate k nekemu standardu dosežkov.
 
-**Premoženje:** Povprečni ali Premožni, običajno Povprečni.
+**Premoženje:** Povprečno ali bogato, običajno povprečno.
 
-**Veščine:** Jezik (Lastni), Prepričevanje, Raziskovanje, Status, Poučevanje in izberite pet drugih veščin kot področja strokovnosti, primernih za okolje in koncept. Pogoste izbire so s naslednjega seznama: Umetnost (katero koli), Obrt (katero koli), Prva pomoč, Vpogled, Znanje (katero koli), Jezik (Drugi), Poslušanje, Medicina, Popravilo (katero koli), Nastopanje, Prepričevanje, Psihoterapija, Znanost (katero koli), Tehnična (Uporaba računalnika).
+**Veščine:** Jezik (lastni), Prepričevanje, Raziskovanje, Status, Poučevanje in izberite pet drugih veščin kot strokovna področja, ki ustrezajo okolju in konceptu. Pogoste izbire so s tega seznama: Umetnost (katera koli), Obrt (katera koli), Prva pomoč, Uvid, Znanje (katero koli), Jezik (drugi), Poslušanje, Medicina, Popravljanje (katero koli), Nastopanje, Prepričevanje, Psihoterapija, Znanost (katera koli), Tehnična (uporaba računalnika).
 
 #### Tehnik
 
-Specializirani za vzdrževanje, popravilo in uporabo zapletenih strojev, računalnikov ali druge elektronike, ste zelo sposobni pri ukvarjanju s inženirskimi sistemi. Teh strojev ne načrtujete, čeprav jih morda poznate bolje od njihovih ustvarjalcev.
+Specializirani za vzdrževanje, popravljanje in uporabo kompleksnih strojev, računalnikov ali druge elektronike, ste zelo sposobni pri delu s tehničnimi sistemi. Teh strojev ne načrtujete, čeprav jih morda poznate bolje kot njihovi ustvarjalci.
 
-**Premoženje:** Povprečni ali Premožni.
+**Premoženje:** Povprečno ali bogato.
 
-**Veščine:** Fina manipulacija, Težki stroji, Poslušanje, Popravilo (katero koli), Znanost (Fizika), Raziskovanje, Opazovanje, Tehnična (Uporaba računalnika) in dve drugi veščini s spodnjega seznama kot specialiteta, primerni za okolje in koncept: Obrt (katero koli), Vožnja, Pilotiranje (katero koli).
+**Veščine:** Natančna manipulacija, Težki stroji, Poslušanje, Popravljanje (katero koli), Znanost (fizika), Raziskovanje, Opazovanje, Tehnična (uporaba računalnika) in dve drugi veščini s spodnjega seznama kot specializacija, ki ustreza okolju in konceptu: Obrt (katera koli), Vožnja, Pilotiranje (katero koli).
 
 #### Tat
 
-Vzamete, kar želite, bodisi da preživite bodisi zato, ker vas pritegne. Lahko ste nizki žepar, razvpiti razbojnik ali glamurozen mednarodni draguljarski tat. Zakon kršite, da bi kradli, bodisi oboroženi, s pametnim zavajanjem, prikrivanjem ali neko kombinacijo vsega naštetega.
+Vzamete tisto, kar želite, bodisi za preživetje bodisi zato, ker vas to privlači. Lahko ste nizkoten žepar, razvpiti razbojnik ali glamurozen mednarodni tat draguljev. Kršite zakon, da bi kradli, bodisi oboroženi, s pametnim zavajanjem, prikrivanjem ali kombinacijo vsega trojega.
 
-**Premoženje:** Katero koli, predmet odobritve vodje igre.
+**Premoženje:** Katero koli, odvisno od odobritve gospodarja igre.
 
-**Veščine:** Ocenjevanje, Izmikanje, Hitri pogovor, Skrivanje, Prikrivanje in pet drugih veščin s spodnjega seznama, primernih za okolje in koncept: Barantanje, Pretepanje, Plezanje, Preobleka, Fina manipulacija, Strelno orožje (Pištola, Revolver ali Šibrovka), Rokoborba, Vpogled, Poslušanje, Skakanje, Znanje (Pravo), Prepričevanje, Popravilo (Mehanika) ali Opazovanje.
+**Veščine:** Ocenjevanje, Izmikanje, Hitro govorjenje, Skrivanje, Prikritost in pet drugih veščin s spodnjega seznama, ki ustrezajo okolju in konceptu: Barantanje, Pretepanje, Plezanje, Preobleka, Natančna manipulacija, Strelno orožje (pištola, revolver ali šibrovka), Rokoborba, Uvid, Poslušanje, Skok, Znanje (pravo), Prepričevanje, Popravljanje (mehansko) ali Opazovanje.
 
-#### Plemenski človek
+#### Plemenec
 
-Izhajajoč iz primitivne kulture ste sprejeti član plemena in niste seznanjeni z večino elementov civilizacije. Preživite z lovom ali nabiralništvom, vaš svet pa je majhen: vaša vas in okoliško okolje.
+Prihajate iz primitivne kulture, ste sprejeti član plemena in ne poznate večine elementov civilizacije. Preživljate se z lovom ali nabiralništvom, vaš svet pa je majhen: vaša vas in okoliško okolje.
 
-**Premoženje:** Brez premoženja do Revni, na ravni obstoja plemena. Ali pa ste plemič plemena, z višjo stopnjo premoženja, odvisno od vašega Statusa.
+**Premoženje:** Od popolnega pomanjkanja do revnega, na ravni plemenskega obstoja. Lahko pa ste plemič plemena z višjo stopnjo premoženja, odvisno od vašega Statusa.
 
-**Veščine:** Obrt (katero koli), Izmikanje, Rokoborba, Skrivanje, Znanje (Naravoslovje), Opazovanje, Metanje, Sledenje in dve od naslednjih veščin, primernih za okolje: Pretepanje, Plezanje, Prva pomoč, Poslušanje, Skakanje, Znanje (Okultno), Orožje za bližnji boj (običajno kopje ali palica), Izstrelno orožje (lok), Jezik (Drugi), Jahanje, Prikrivanje, Plavanje.
+**Veščine:** Obrt (katera koli), Izmikanje, Rokoborba, Skrivanje, Znanje (naravoslovje), Opazovanje, Metanje, Sledenje in dve od naslednjih veščin, ki ustrezajo okolju: Pretepanje, Plezanje, Prva pomoč, Poslušanje, Skok, Znanje (okultizem), Orožje za bližnji boj (običajno sulica ali kij), Orožje za dolgi domet (lok), Jezik (drugi), Jahanje, Prikritost, Plavanje.
 
 #### Bojevnik
 
-Specializirani ste za individualni boj, preživite z vašimi refleksi in spretnostmi z orožjem. Morda se držite kodeksa časti, kot sta viteštvo ali bušido, ali pa ste plačanec ali barbarski pustolovec. Vojaki se borijo v skupinah ali odredih, medtem ko bojevniki gledajo le na lastno hrabrost.
+Specializirani ste za individualni boj, preživetje pa vam omogočajo refleksi in spretnosti z orožjem. Morda se držite kodeksa časti, kot sta viteštvo ali bušido, ali pa ste plačanec oziroma barbarski pustolovec. Vojaki se borijo v skupinah ali enotah, medtem ko bojevniki gledajo le na lastno hrabrost.
 
-**Premoženje:** Brez premoženja do Povprečni, običajno Revni.
+**Premoženje:** Od popolnega pomanjkanja do povprečnega, običajno revno.
 
-**Veščine:** Pretepanje, Izmikanje, Rokoborba, Orožje za bližnji boj (katero koli), Izstrelno orožje (katero koli) in pet drugih veščin s spodnjega seznama kot specialitete, primernih za okolje in koncept: Plezanje, Strelno orožje (katero koli), Skrivanje, Poslušanje, Skakanje, Jezik (Drugi), Borilne veščine, Jahanje, Opazovanje, Prikrivanje, Plavanje, Metanje, Sledenje.
+**Veščine:** Pretepanje, Izmikanje, Rokoborba, Orožje za bližnji boj (katero koli), Orožje za dolgi domet (katero koli) in pet drugih veščin s spodnjega seznama kot specializacija, ki ustreza okolju in konceptu: Plezanje, Strelno orožje (katero koli), Skrivanje, Poslušanje, Skok, Jezik (drugi), Borilne veščine, Jahanje, Opazovanje, Prikritost, Plavanje, Metanje, Sledenje.
 
 #### Čarovnik
 
-Razumete in lahko uporabljate magijo ali čarovništvo. S petjem in kretnjami lahko proizvajate magične učinke in se posvetite izboljševanju in povečevanju svojega repertoarja urokov ter svojega osebnega dostopa do točk moči.
+Razumete in lahko uporabljate magijo ali čarovništvo. S popevanjem in kretnjami lahko ustvarite čarobne učinke, posvetite pa se izboljševanju in povečevanju svojega repertoarja urokov ter osebnega dostopa do točk energije.
 
-**Premoženje:** Revni do Bogati, običajno Premožni.
+**Premoženje:** Revno do premožno, običajno bogato.
 
-**Veščine:** Obrt (katero koli), Vpogled, Znanje (Okultno), dve drugi veščini Znanja (katero koli), Jezik (Drugi), Poslušanje, Nastopanje (Rituali), Prepričevanje, Raziskovanje.
+**Veščine:** Obrt (katera koli), Uvid, Znanje (okultizem), dve drugi veščini Znanja (katero koli), Jezik (drugi), Poslušanje, Nastopanje (rituali), Prepričevanje, Raziskovanje.
 
-**Posebno:** Lahko uporabljate magijo ali čarovništvo. Sodelujte s svojim vodjo igre, da določite svoje začetne uroke (glejte *Četrto poglavje: Moči*).
+**Posebno:** Lahko uporabljate magijo ali čarovništvo. Sodelujte s svojim gospodarjem igre, da določite svoje začetne uroke (glejte Četrto poglavje: Moči).
 
 #### Pisatelj
 
-Pišete prozo, poezijo, scenarije ali kakšno drugo obliko. Najbolj vam ustreza komuniciranje s pisanjem, vaše besede pa imajo moč zabavati, informirati ali prepričati tiste, ki jih berejo.
+Pišete prozo, poezijo, scenarije ali katero koli drugo obliko. Najbolj vam ustreza komuniciranje s pisanjem, vaše besede pa imajo moč zabavati, informirati ali prepričati tiste, ki jih berejo.
 
-**Premoženje:** Revni do Bogati, običajno Povprečni.
+**Premoženje:** Revno do premožno, običajno povprečno.
 
-**Veščine:** Umetnost (pisanje), Vpogled, Jezik (Lastni), Prepričevanje, Raziskovanje in pet drugih veščin s spodnjega seznama kot specialitete, primernih: Hitri pogovor, Znanje (katero koli), Jezik (Drugi), Poslušanje, Status, Tehnična (Uporaba računalnika).
+**Veščine:** Umetnost (pisanje), Uvid, Jezik (lastni), Prepričevanje, Raziskovanje in pet drugih veščin s spodnjega seznama kot specializacija, ki ustreza okolju: Hitro govorjenje, Znanje (katero koli), Jezik (drugi), Poslušanje, Status, Tehnična (uporaba računalnika).
 
-## Končni popravki
+## Zaključni popravki
 
-Na tej točki ste zaključili z ustvarjanjem lika, ob predpostavki, da vaša igra nima magičnih urokov, mutacij, psihičnih sposobnosti, čarovništva ali supermoči za vaše začetne like. Če so ti na voljo, se obrnite na *Četrto poglavje: Moči* in začnite izbirati tiste s pomočjo vašega vodje igre.
+Na tej točki ste končali z ustvarjanjem lika, če vaša igra nima čarobnih urokov, mutacij, psihičnih sposobnosti, čarovništva ali supermoči za vaše začetne like. Če so ti na voljo, se obrnite na Četrto poglavje: Moči in začnite z izbiranjem s pomočjo svojega gospodarja igre.
 
-Ozadje je pogosto pomemben del lika, vendar je to najmanj merljivo v pravilih igre. Poskusite si omisliti elemente izkušenj ali identitete, ki vodijo vaš lik, tako da si postavite nekaj preprostih vprašanj, kot so katero koli od naslednjih:
+Ozadje je pogosto pomemben del lika, vendar je to najmanj merljivo v pravilih igre. Poskusite sestaviti elemente izkušenj ali identitete, ki vodijo vaš lik, tako da si zastavite nekaj preprostih vprašanj, kot so naslednja:
 
-* Kakšne tragedije in uspehe so doživeli?
+* Kakšne tragedije in uspehe je doživel?
 
-* Kje so odrasli?
+* Kje je odraščal?
 
-* Kdo je bil najvplivnejša oseba v njihovem življenju?
+* Kdo je bil najvplivnejša oseba v njegovem življenju?
 
-* Kdo je njihova družina? So starši še živi?
+* Kdo je njegova družina? So starši še živi?
 
-* So zaljubljeni? So ali so bili poročeni? Otroci?
+* Je zaljubljen? Je ali je bil poročen? Ima otroke?
 
-* So srečni v življenju?
+* Je srečen v življenju?
 
-* Imajo veliko prijateljev? Kaj pa sovražnikov?
+* Ima veliko prijateljev? Kaj pa sovražnikov?
 
-* Kaj želijo doseči?
+* Kaj želi doseči?
 
-Pregledate lahko svoj list za like in razmislite o izbirah, ki ste jih opravili med ustvarjanjem lika. Morda nekatere veščine nakazujejo osebnostni tip, kot so študiozen, eklektičen, nasilen ali kakšen drug takšen pridevnik. Morda poskušate najti »glas« lika ali kakšno drugo sredstvo izražanja, zaradi katerega zaživi za igralno mizo. Vendar pa si vsi ne želijo biti igralci metode in ne čutite, da morate za mizo priti z poglobljeno osebnostjo in ozadjem za svoj lik. Nekaj tega bo prišlo med izkušnjo igranja vlog in nekaj tega bo prišlo naravno, ko se bo vaš lik soočil s pustolovščinami in stiskami.
+Lahko si ogledate svoj list lika in razmislite o izbirah, ki ste jih opravili med ustvarjanjem lika. Morda nekatere veščine kažejo na vrsto osebnosti, na primer marljiv, eklektičen, nasilen ali kakšen drug takšen pridevnik. Morda boste poskušali najti 'glas' lika ali kakšno drugo sredstvo izražanja, zaradi katerega zaživi za igralno mizo. Vendar pa si vsak ne želi biti metodični igralec in ne počutite se, da morate za mizo priti z poglobljeno osebnostjo in ozadjem svojega lika. Nekaj tega bo prišlo med igranjem vlog, nekaj pa naravno, ko se bo vaš lik soočil z pustolovščino in stiskami.
 
-Težak del je mimo—zdaj se lahko zabava začne!
+Težak del je mimo—zdaj se lahko začne zabava!
 
 > ### Kultura in liki (Možnost)
 > 
-> Številna okolja, zlasti zgodovinska ali fantazijska, ponujajo ločene in izvirne kulture, običajno s kakovostmi, skupnimi njihovim prebivalcem. Te kakovosti se lahko definirajo kot rase, kulture ali celo vsi prebivalci planeta. Vaš vodja igre se lahko odloči za razvoj kulturnih ozadij, primernih za izvirno ali prilagojeno okolje. Včasih lahko te vodijo do stereotipov in vaš vodja igre bi moral o tem premisliti s previdnostjo.
+> Mnogi svetovi, zlasti zgodovinski ali fantazijski, ponujajo izrazite in izvirne kulture, običajno z lastnostmi, skupnimi njihovim prebivalcem. Te lastnosti lahko definiramo kot rase, kulture ali celo vse prebivalce planeta. Vaš gospodar igre se lahko odloči za razvoj kulturnih ozadij, primernih za izvirno ali prilagojeno okolje. Včasih lahko to vodi do stereotipov, zato mora vaš gospodar igre o tem skrbno premisliti.
 > 
-> Kulturna ozadja niso potrebna—člani kulture so neizogibno dovolj različni, da omogočajo raznolik nabor veščin in značilnosti, vendar boste vi in vaš vodja igre morda menili, da dodajajo dragocen element igralnemu okolju. Vsak opis kulturnega ozadja lahko vsebuje nekaj ali vse od naslednjega:
+> Kulturna ozadja niso potrebna—člani kulture so neizogibno dovolj različni, da omogočajo raznolik nabor veščin in značilnosti, vendar bosta vi in vaš gospodar igre morda menila, da dodajajo dragocen element v igralni svet. Vsak opis kulturnega ozadja lahko vsebuje nekatere ali vse od naslednjih točk:
 > 
-> **Vodja:** Vladar, predsednik, avtoriteta ali drug upravni organ države ali regije.
+> **Vodja:** Vladar, predsednik, oblast ali drug organ upravljanja države ali regije.
 > 
-> **Kultura:** Prevladujoča kultura območja. Običajno človeška, čeprav *Enajsto poglavje: Bitja* vsebuje primere nečloveških ras.
+> **Kultura:** Prevladujoča kultura območja. Običajno človeška, čeprav Enajsto poglavje: Bitja vsebuje primere nečloveških ras.
 > 
-> **Videz:** Ena ali več prepoznavnih lastnosti je lahko skupna kulturi ali skupini, kot so obarvanost ali obrazne značilnosti.
+> **Videz:** Ena ali več značilnosti je lahko skupnih kulturi ali skupini, na primer obarvanost ali poteze obraza.
 > 
-> **Vedenje:** Če je primerno, so osebnostne lastnosti lahko skupne kulturi ali skupini. Vendar ni vsak takšen in te lahko prezrete, če želite.
+> **Drža:** Če je primerno, so osebnostne lastnosti lahko skupne kulturi ali skupini. Vendar niso vsi takšni in te se lahko po želji prezrejo.
 > 
-> **Jezik(i):** Jezik ali jeziki, ki jih pogosto govorijo ali poznajo domačini te regije.
+> **Jezik(i):** Jezik ali jeziki, ki jih pogosto govorijo ali poznajo domačini tega območja.
 > 
-> **Poklici:** Poklici, skupni ljudem v regiji. To niso edini, ki se tukaj izvajajo—so le najpogostejši ali simbolični za družbo. Tri je dobro število teh.
+> **Poklici:** Poklici, ki so običajni za ljudi v regiji. To niso edini poklici, ki se tukaj izvajajo—so le najbolj pogosti ali emblematični za družbo. Trije so dobra številka za to.
 > 
-> **Religije:** Kateri bog ali bogovi se pogosto častijo v tej regiji? Če zvestobe igrajo vlogo v kampanji, bi morala biti vključena religija.
+> **Religije:** Kateri bog ali bogovi se običajno častijo v tej regiji? Če v kampanji igrajo vlogo Zvestobe, potem je treba vključiti religijo.
 > 
-> **Orožje in oklep:** V zgodovinskih ali fantazijskih okoljih so srednjeveški slogi orožja in oklepov pogosto precej različni od države do države, vojske vsake dežele pa se ponavadi usposabljajo z različnimi slogi orožja. To je manj značilno, ko okolja postajajo bolj sodobna, čeprav lahko vaš vodja igre uporabi te informacije pri opremljanju nelikov.
+> **Orožje in oklep:** V zgodovinskih ali fantazijskih okoljih sta orožje in oklep srednjeveškega sloga pogosto precej različna od države do države, vojske vsake dežele pa se običajno urijo z različnimi stili orožja. To je manj značilno, ko okolja postajajo bolj moderna, čeprav lahko vaš gospodar igre uporabi te informacije pri opremljanju neigralnih likov.
 > 
-> **Kulturne veščine:** Nekatere veščine se lahko pogosto poučujejo in uporabljajo v tej kulturi kot del socializacije in skupne izobrazbe. Po presoji vašega vodje igre lahko te veščine pridobijo majhen bonus. Če se uporabljajo bonusi k veščinam, se priporoča, da vsaka kultura pridobi enake bonuse, čeprav k drugačnemu naboru veščin.
+> **Kulturne veščine:** Nekatere veščine se lahko v tej kulturi pogosto poučujejo in uporabljajo kot del socializacije in splošne izobrazbe. Po presoji vašega gospodarja igre lahko te veščine pridobijo majhen bonus. Če se uporabljajo bonusi za veščine, je priporočljivo, da vsaka kultura pridobi enake bonuse, vendar za drug nabor veščin.
 > 
-> **Predmeti:** To lahko vključuje pomembno posest, skupno nekoga iz te kulture, pogosto verskega ali družbenega pomena. Ni nujno, da je dragoceno, in liki iz te kulture niso pod nobeno prisilo, da bi obdržali posest tega predmeta.
+> **Predmeti:** To lahko vključuje pomembno posest, skupno nekomu iz te kulture, pogosto verskega ali družbenega pomena. Ni nujno, da je dragoceno, liki iz te kulture pa niso dolžni obdržati tega predmeta.
 
 
 > ### Ustvarjanje novih poklicev
 > 
-> Če ta seznam poklicev ne ponuja poklica, ki bi ga želeli za svoj lik, lahko ustvarite svojega z odobritvijo vašega vodje igre. Vaš vodja igre bo morda želel pripraviti nove poklice za določeno okolje.
+> Če ta seznam poklicev ne ponuja poklica, ki bi ga želeli za svoj lik, lahko z odobritvijo gospodarja igre ustvarite svojega. Vaš gospodar igre bo morda prav tako želel oblikovati nove poklice za določeno okolje.
 > 
-> Najprej opišite nov poklic svojemu vodji igre. Določite, ali je ta nov poklic podoben drugemu, ki je podan tukaj. Če je skoraj identičen obstoječemu, lahko spremenite nekaj zahtevanih veščin, dokler se nov poklic ne ujema z vašim konceptom. Stopnjo premoženja lahko spreminjate tudi glede na nov poklic.
+> Najprej opišite nov poklic svojemu gospodarju igre. Ugotovite, ali je ta novi poklic podoben drugemu, ki je tukaj podan. Če je skoraj enak obstoječemu, lahko spremenite nekaj zahtevanih veščin, dokler se novi poklic ne ujema z vašim konceptom. Raven premoženja lahko prilagodite tudi glede na nov poklic.
 > 
-> Na primer, *odločite se, da je »taksi voznik« nov poklic. Vaš vodja igre prepozna, da je to v bistvu na kopno vezana različica poklica Pilot. Od tu naprej se vi in vaš vodja igre odločite prilagoditi stopnjo premoženja svojega lika iz Revni v Povprečni in spremeniti seznam veščin na: Barantanje, Vožnja (Avtomobil), Znanje (Računovodstvo), Znanje (Regija: Mesto), Poslušanje, Navigacija, Jezik (Drugi), Popravilo (Mehanika) in Opazovanje.*
+> Na primer, *odločite se, da je 'taksist' nov poklic. Vaš gospodar igre prepozna, da je to v bistvu kopenska različica poklica Pilot. Od tu naprej se vi in vaš gospodar igre odločite, da spremenite stopnjo premoženja vašega lika iz Revnega v Povprečno, in spremenite seznam veščin na: Barantanje, Vožnja (avtomobil), Znanje (računovodstvo), Znanje (regija: mesto), Poslušanje, Navigacija, Jezik (drugi), Popravljanje (mehansko) in Opazovanje.*
 > 
-> *Voila, poklic taksi voznika!*
+> *Voila, poklic taksista!*
 > 
 > Če želite ustvariti popolnoma nov poklic:
 > 
-> * Določite naslov poklica.
+> * Odločite se za naziv poklica.
 > 
-> * Opišite (ustno ali pisno) poklic svojemu vodji igre, vključno s tem, kaj počnejo, kakšno usposabljanje imajo in morda indikator njihovega položaja v družbi.
+> * Opišite (ustno ali pisno) poklic svojemu gospodarju igre, vključno s tem, kaj počnejo s svojim časom, kakšno usposabljanje imajo in morda navedbo njihovega položaja v družbi.
 > 
 > * Določite ustrezno stopnjo premoženja ali razpon stopenj premoženja.
 > 
-> * Izberite deset veščin, ki so bistvene ali najbolj uporabljane s strani člana tega poklica. To lahko vključuje tudi možnost »izberi eno (ali več) od naslednjih«, dokler je skupno število dostopnih veščin enako deset.
+> * Izberite deset veščin, ki so bistvene ali jih član tega poklica najbolj uporablja. To lahko vključuje tudi možnost "izberi eno (ali več) od naslednjih", pod pogojem, da je skupno število razpoložljivih veščin enako deset.
 > 
->   Na primer, *morda želite igrati popolnoma nov poklic: poklicni prevajalec. Vaš vodja igre se strinja, da je to dovolj edinstven poklic, da upraviči nov zapis. Najprej se oba odločita, da je stopnja premoženja prevajalca običajno Povprečni. Drugič, za začetne veščine izberete: Bonton, Hitri pogovor, Vpogled, Znanje (Antropologija), Znanje (Lingvistika), Jezik (Lastni), Jezik (Drugi), Poslušanje, Prepričevanje in Raziskovanje. Nov poklic je končan in pripravljen za uporabo.*
+>   Na primer, *morda želite igrati popolnoma nov poklic: profesionalni prevajalec. Vaš gospodar igre se strinja, da je to dovolj edinstven poklic, da upraviči nov opis. Najprej se oba odločita, da je stopnja premoženja prevajalca običajno Povprečna. Drugič, za začetne veščine izberete: Etiketa, Hitro govorjenje, Uvid, Znanje (antropologija), Znanje (lingvistika), Jezik (lastni), Jezik (drugi), Poslušanje, Prepričevanje in Raziskovanje. Nov poklic je končan in pripravljen za uporabo.*

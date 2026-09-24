@@ -1,399 +1,399 @@
 # 2. Persónur
 
-Einfaldlega sagt, þá ert **persónan** þín **þú** í leikheiminum, sú persóna sem þú leikur í leiknum. Persónan er kjarninn í öllum hlutverkaleikjum – hún er útdráttur af líkamlegum og andlegum eiginleikum, færni og öðrum lýsingum. Þú hefur samskipti við leikstjórann þinn í þeim heimi í gegnum persónuna þína. Flestar persónur sem leikmenn stjórna eru **leikmannapersónur** (PCs).
+Í stuttu máli er **persónan** þín **þú** í leikheiminum, sú persóna sem þú leikur í leiknum. Persónan er miðpunktur allra hlutverkaleikja – hún er samantekt á líkamlegum og andlegum getum, færni og öðrum lýsingum. Þú hefur samskipti við leikstjórann þinn í þeim heimi í gegnum persónuna þína. Flestar persónur sem leikmenn stjórna eru **leikmannapersónur** (e. player characters, skammstafað PC).
 
-Leikstjórinn þinn lýsir umhverfinu, aðstæðum og þeim áskorunum sem leikmenn mæta. Leikstjórinn hefur aðgang að fjölda annarra persóna, sem kallast **leikstjórapersónur** (NPCs). Bæði leikmannapersónur og leikstjórapersónur nota sömu reglur, þótt almennt séu leikstjórapersónur síður ítarlegar en leikmannapersónur, þar sem þær mæta sjaldan jafn fjölbreyttum aðstæðum og leikmannapersónur.
+Leikstjórinn þinn lýsir umhverfinu, aðstæðunum og viðureignunum fyrir leikmönnum. Leikstjórinn hefur aðgang að hópi annarra persóna, sem kallast **leikstjórnandapersónur** (e. non-player characters, skammstafað NPCs). Bæði leikmannapersónur og leikstjórnandapersónur nota sömu reglur, þótt leikstjórnandapersónur séu almennt minna ítarlegar en leikmannapersónur, þar sem þær lenda sjaldnar í jafn fjölbreyttum aðstæðum og leikmannapersónur.
 
-*Kafli ellefu: Verur* lýsir því hvernig leikstjórinn getur búið til viðeigandi leikstjórapersónur og inniheldur lista yfir tilbúnar leikstjórapersónur (auk skrímsla og annarra vera) fyrir ýmsar aðstæður og tímabil. Þessi hluti fjallar um leikmannapersónur og er nauðsynlegur lestur fyrir bæði þig og leikstjórann.
+*Kafli ellefu: Verur* lýsir því hvernig leikstjórinn þinn getur skapað viðeigandi leikstjórnandapersónur og inniheldur lista yfir tilbúnar leikstjórnandapersónur (auk skrímsla og annarra vera) fyrir ýmis umhverfi og tímaskeið. Þessi hluti fjallar um leikmannapersónur og er nauðsynlegur lestur fyrir bæði þig og leikstjórann þinn.
 
-Þegar minnst er á „persónu“ á hugtakið við um bæði leikmannapersónur og leikstjórapersónur.
+Þegar minnst er á „persónu“ á það við bæði um leikmannapersónur og leikstjórnandapersónur.
 
-## Aflstig (Power Level)
+## Kraftstig
 
-Í gegnum þennan kafla og víðar í reglunum er vísað í aflstig leiksins. Þetta lýsir því hversu hæfar leikmannapersónur og leikstjórapersónur eru, og hvar á skalanum frá „raunsæislegu“ yfir í „goðsagnakennt“ leikurinn verður.
+Alls staðar í þessum kafla og annars staðar í reglunum eru tilvísanir í kraftstig leiksins. Þetta lýsir því hversu hæfar leikmanna- og leikstjórnandapersónurnar eru, og hvar á skalanum frá „raunsætt“ til „goðsagnakennt“ leikurinn mun liggja.
 
-Það eru fjögur aflstig í leiknum, lýst hér að neðan.
+Það eru fjögur kraftstig fyrir leiki, sem lýst er hér að neðan.
 
 ### Eðlilegt (Normal)
 
-Persónur hafa enga krafta eða mjög fáa, óáreiðanlega krafta. Stundum skilgreinast persónur af einum krafti, varla meira en óvenjulegum hæfileika. Þetta er hentugasta aflstigið fyrir hryllingsleiki eða nútíma ævintýraleiki, þar sem tækni og vitsmunir eru oft afgerandi fyrir lífsafkomu.
+Persónur hafa enga krafta eða mjög fáa, óáreiðanlega krafta. Stundum skilgreinast persónur af einum krafti, sem er varla meira en óvenjulegur hæfileiki. Þetta er hentugasta kraftstigið fyrir hrollvekjur eða nútíma ævintýraleiki, þar sem tækni og vitsmunir eru oft úrslitaþáttur um lífsafkomu.
 
 ### Hetjulegt (Heroic)
 
-Persónur hafa nokkra sterka krafta eða breitt úrval af meðal- til lágstigs kröftum. Þetta hentar fyrir leiki með óreyndum, búningaklæddum hetjum eða nemum í töfrabrögðum, stökkbreyttum eftirlifendum eftir kjarnorkuheimsendi, réttlætishetjum eða hástemmdum fantasíuheimum með töframönnum og stríðsmönnum. Sumar framtíðarstillingar gætu verið búnar til með þessu aflstigi, þar sem borgarar hafa marga smávægilega krafta vegna erfðabreytinga.
+Persónur hafa nokkra sterka krafta eða breitt úrval af miðlungs- til lágstyrkarkröftum. Þetta hentar vel fyrir leiki sem innihalda óreyndar, búningaklæddar hetjur eða lærlinga í töfrabrögðum, stökkbreytta eftirlifendur geislavirkrar heimsendasögu, laganna verði eða háfantasíuheima með töframönnum og stríðsmönnum. Sum framtíðarumhverfi gætu verið sköpuð með þessu kraftstigi, þar sem íbúar hafa marga minniháttar krafta sem stafa af erfðabreytingum.
 
-### Epískt (Epic)
+### Epic (Epic)
 
-Persónur eru ótrúlega hæfar eða kraftmiklar, svo sem erki-töframenn eða voldugar yfirnáttúrulegar verur. Dæmi um leiki gætu verið fullir af öldungum í búningum eða illmennum, eða yfirnáttúrulegum hetjum sem berjast gegn öflum myrkursins í skuggum nútímans.
+Persónur eru ótrúlega hæfar eða kraftmiklar, svo sem erki-töframenn eða voldugar yfirnáttúrulegar verur. Dæmi um leiki gætu verið fullir af vönuðum búningaklæddum hetjum eða illmennum, eða vönum yfirnáttúrulegum hetjum sem berjast gegn myrkraöflunum í skuggunum í nútímanum.
 
-### Yfirmennsku (SuperHuman)
+### Ofurmannlegt (SuperHuman)
 
-Þessar persónur hafa gríðarlega getu og eru voldugustu hetjur. Leikir gætu innihaldið óvenju kröftugar búningaklæddar ofurhetjur, verndara vetrarbrauta, eða jafnvel nútíma útgáfur af miklum hálfguðum.
+Þessar persónur hafa gríðarlega getu og eru voldugustu hetjur. Leikir gætu innihaldið ofurkraftamiklar búningaklæddar ofurhetjur, verndara vetrarbrauta eða jafnvel nútíma endurholdganir mikilla hálfguða.
 
-Leikstjórinn ætti að gera þér og öðrum leikmönnum ljóst hvert aflstig leiksins er, til að setja væntingar og leiðbeina við frekari gerð persóna.
+Leikstjórinn þinn ætti að gera það ljóst fyrir þig og aðra leikmenn hvert kraftstig leiksins er, til að setja væntingar og leiðbeina við frekari persónusköpun.
 
-## Að búa til persónu
+## Að skapa persónu
 
-Þú þarft fyrst persónu. Hér á eftir fylgir kerfi til að þróa persónuna þína. Þetta kerfi býr til hæfar persónur. Tillögur eru gefnar í hverju skrefi fyrir öflugri persónur. Þú ættir að hafa autt persónublað við hendina, og kannski annað blað fyrir glósur. Á chaosium.com geturðu halað niður stafrænum útgáfum.
+Þú þarft fyrst að hafa persónu. Hér á eftir er kerfi til að þróa persónuna þína. Þetta kerfi skapar hæfar persónur. Tillögur eru gefnar í hverju skrefi fyrir öflugri persónur. Þú ættir að hafa autt persónublað tiltækt og kannski annað blað fyrir glósur. Á chaosium.com er hægt að hlaða niður stafrænum útgáfum.
 
-Þegar þú ert tilbúinn að búa til persónuna þína ættu leikstjórinn og hinir leikmennirnir þegar að hafa ákveðið hvers konar leik þið ætlið að spila, hvort sem það er vísindaskáldskapur, fantasía, nútíma hryllingur, söguleg ráðabrugg, njósnir, ævintýri, tæknispenna eða margar aðrar tegundir.
+Þegar þú ert tilbúinn til að skapa persónuna þína, ættu leikstjórinn og hinir leikmennirnir að vera búnir að ákveða hvers konar leik þið ætlið að spila, hvort sem það er vísindaskáldskapur, fantasía, nútíma hrollvekja, söguleg samsæri, njósnir, ævintýralegir hasarleikir, tæknispennumyndir eða fjölmargar aðrar tegundir.
 
-Leikstjórinn ætti að vera undirbúinn að leiðbeina þér og hinum leikmönnunum í gegnum gerð persónunnar, vita hvaða starfsgreinar eru leyfðar og viðeigandi fyrir leikinn eða herferðina, og hversu mikla hæfni persónurnar ættu að sýna. Þessi mál eru mikilvægust fyrir **Skref sjö** og geta haft áhrif á **Skref þrjú**.
+Leikstjórinn ætti að vera undirbúinn að leiðbeina þér og hinum leikmönnunum í gegnum persónusköpunarferlið, vita hvaða starfsgreinar eru leyfðar og viðeigandi fyrir leikinn eða herferðina, og hversu mikla hæfni persónurnar ættu að sýna. Þessi atriði eru mikilvægust fyrir **Sjöunda skref** og geta haft áhrif á **Þriðja skref**.
 
-### Skref eitt: Nafn og Eiginleikar
+### Skref eitt: Nafn og eiginleikar
 
-Skrifaðu nafn persónunnar efst á blaðið. Það ætti að vera viðeigandi fyrir umhverfið og leikinn sem verið er að spila. Ef engin hugmynd kemur upp í hugann ennþá, bíddu til seinna. Þú getur skrifað þitt eigið nafn á persónublaðið þar sem leikstjórinn gæti þurft að fylgjast með því hvaða persóna tilheyrir hverjum.
+Skrifaðu nafn persónunnar efst á blaðið. Það ætti að vera viðeigandi fyrir umhverfið og leikinn sem spilaður er. Ef engin hugmynd kemur strax, bíddu fram yfir það. Þú getur skrifað þitt eigið nafn á persónublaðið þar sem leikstjórinn gæti þurft að halda utan um hvaða persóna tilheyrir hverjum.
 
-* Veldu kyn persónunnar og skrifaðu það í réttan reit.
+* Veldu kyn persónunnar og skrifaðu það í viðeigandi reit.
 
-* Kastaðu 3D6 fyrir eiginleikana Styrk (STR), Þol (CON), Kraft (POW), Fimi (DEX) og Sjarma (CHA). Sláðu niðurstöðurnar inn í viðeigandi reiti á persónublaðinu þínu.
+* Kastaðu 3D6 fyrir eiginleikana Styrk (STY), Þol (ÞOL), Mátt (MÁT), Lipurð (LIP) og Karisma (KAR). Færðu niðurstöðurnar inn á viðeigandi staði á persónublaðinu þínu.
 
-* Kastaðu 2D6+6 fyrir eiginleikana Greind (INT) og Stærð (SIZ).
+* Kastaðu 2D6+6 fyrir eiginleikana Greind (GRE) og Stærð (STÆ).
 
-Þessar tölur gefa grunninn að persónunni þinni og ákvarða hvar persónan er sterk eða veik.
+Þessar tölur veita grunninn að persónunni þinni og ákvarða í hvaða eiginleikum persónan er sterk eða veik.
 
-* Ef þú vilt geturðu endurúthlutað allt að 3 stigum á milli eiginleika.
+* Ef þú vilt geturðu dreift allt að 3 stigum á milli eiginleika þinna.
 
-* Enginn eiginleiki getur byrjað með meira en 21 stig.
+* Enginn eiginleiki getur hafist með fleiri en 21 stigum.
 
-* Ef þú ert ekki ánægður með eiginleikana sem þú fékkst, og leikstjórinn samþykkir það, geturðu byrjað upp á nýtt.
+* Ef þú ert ekki sáttur við eiginleikana sem þú hefur, og leikstjórinn samþykkir það, geturðu byrjað upp á nýtt.
 
-Ef herferðin notar eina eða fleiri tegundir af kröftum, gæti leikstjórinn leyft þér að auka upphafseiginleika þína (sjá *Kafli fjögur: Kraftar*, sérstaklega **Minnka/Auka eiginleika**).
+Ef herferðin notar eina eða fleiri tegundir krafta, gæti leikstjórinn leyft þér að hækka upphafseiginleika þína (sjá Kafla fjögur: Kraftar, sérstaklega **Minnka/Auka eiginleika**).
 
-**Val á eiginleikagildum (Valkostur):** Hefð er fyrir því að eiginleikar séu kastaðir í röð, með allt að 3 stigum endurúthlutuðum. Þess í stað máttu kasta 3D6 sjö sinnum og velja hvert niðurstöðurnar fara. Í þessu tilviki mega SIZ og INT ekki vera undir 8.
+**Val á eiginleikagildum (Valkostur):** Hefð er fyrir því að eiginleikar séu kastaðir í röð, með allt að 3 stigum dreifðum til annarra. Í staðinn geturðu kastað 3D6 sjö sinnum og valið hvar niðurstöðurnar lenda. Í þessu tilviki mega STÆ og GRE ekki vera undir 8.
 
 **Hærri upphafseiginleikar (Valkostur):** Fyrir öflugri leik, kastaðu 2D6+6 fyrir alla eiginleika.
 
-**Menntun (EDU) eiginleikinn (Valkostur):** Kastaðu 2D6+6 fyrir Menntun (EDU) fyrir þennan eiginleika, fyrir persónur úr samfélögum með formlega menntun. EDU upp á 12 gefur til kynna framhaldsskólamenntun, með hærri gildum sem gefa til kynna háskóla- eða framhaldsgráður.
+**Menntunareiginleikinn (EDU) (Valkostur):** Kastaðu 2D6+6 fyrir Menntun (EDU) fyrir þennan eiginleika, fyrir persónur úr samfélögum með formlega menntun. EDU 12 gefur til kynna menntun á stigi framhaldsskóla, þar sem hærri gildi gefa til kynna háskóla- eða framhaldsgráður.
 
-**Menningarlegir breytar (Valkostur):** Menningarlegir breytar leggja áherslu á eiginleikamun milli mismunandi tegunda (eins og álfa eða dverga) eða fyrir mismunandi menningarsamfélög manna. Upphafseiginleikar gætu verið aðlagaðir eða takmarkaðir á þessu stigi. Sjá **Menningarlegir eiginleikabreyta (Valkostur)**.
+**Menningarlegir breytar (Valkostur):** Menningarlegir breytar leggja áherslu á mismunandi eiginleika milli ólíkra tegunda (eins og álfum eða dvergum) eða fyrir ólíkar mannlegar menningarheima. Upphafseiginleikar gætu verið aðlagaðir eða takmarkaðir á þessum tímapunkti. Sjá **Menningarlegir eiginleikabreytar (Valkostur)**.
 
-**Ekki-mannlegar persónur (Valkostur):** Ekki-mannlegar persónur gætu notað mismunandi teningaköst og breyta til að ákvarða upphafseiginleika. Sjá *Kafli ellefu: Verur*.
+**Ekki-mannlegar persónur (Valkostur):** Ekki-mannlegar persónur gætu notað önnur teningaköst og breyta til að ákvarða upphafseiginleika. Sjá Kafla ellefu: Verur.
 
-**Stigamiðuð persónugerð (Valkostur):** Venjulega er eiginleikum kastað af handahófi. Þess í stað geta leikmenn keypt eiginleikastig úr sameiginlegum potti. Sjá **Stigamiðuð persónugerð (Valkostur)**.
+**Punktamiðuð persónusköpun (Valkostur):** Venjulega er eiginleikum kastað af handahófi. Í staðinn geta leikmenn keypt eiginleikastig úr potti. Sjá **Punktamiðuð persónusköpun (Valkostur)**.
 
 ### Skref tvö: Kraftar
 
-Lestu þetta vandlega! Ef leikurinn sem þú ert að spila felur í sér töfra, stökkbreytingar, sálræna hæfileika, galdra eða ofurkrafta gætir þú byrjað með suma af þessum kröftum. Spyrðu leikstjórann um það og vísaðu í *Kafli fjögur: Kraftar* fyrir frekari upplýsingar. Þessi kerfi krefjast meiri útskýringa en gefnar eru í þessum kafla.
+Lestu þetta vandlega! Ef leikurinn sem þú ert að spila felur í sér töfra, stökkbreytingar, sálræna hæfileika, galdra eða ofurkrafta gætirðu byrjað með einhverja af þessum kröftum. Spyrðu leikstjórann um það og vísaðu í *Kafla fjögur: Kraftar* fyrir frekari upplýsingar. Þessi kerfi krefjast meiri útskýringar en veitt er í þessum kafla.
 
 Ef engir kraftar eru í herferðinni, hunsaðu þetta skref og haltu áfram.
 
-Ef kraftar eru til staðar eru eftirfarandi tegundir í boði:
+Ef kraftar eru til staðar, eru eftirfarandi tegundir í boði:
 
-* **Töfrar:** Einföld galdrakast með fjölbreyttum notkunarmöguleikum.
+* **Töfrar:** Einföld galdrastafning með fjölbreyttri notkun.
 
 * **Stökkbreytingar:** Undarlegar erfðafræðilegar frávik, sumar gagnlegar, aðrar skaðlegar.
 
-* **Sálrænir hæfileikar:** Notkun á krafti hugans til að hafa áhrif á raunveruleikann.
+* **Sálrænir hæfileikar:** Notkun á krafti hugans til að hafa áhrif á veruleikann.
 
-* **Galdrar:** Barokklegri tegund af galdrakasti, þar á meðal frumkraftar og köllun djöfla.
+* **Galdrar (Sorcery):** Barokkgerð galdrastafningar, þar á meðal frumkrafta- og púkakal.
 
-* **Ofurkraftar:** Voldugir hæfileikar sem ganga fram af ímyndunaraflinu.
+* **Ofurkraftar:** Voldugir hæfileikar sem ögra ímyndunaraflinu.
 
 Nánari upplýsingar um hvert atriði birtast í viðeigandi köflum.
 
 ### Skref þrjú: Aldur
 
-Sjálfgefinn aldur fyrir persónur er 17+1D6 ár. Leikstjórinn gæti valið að breyta þessu miðað við kröfur leikheimsins. Ef þú vilt byrja leikinn með yngri eða eldri persónu, veldu aldur sem virðist viðeigandi og fær samþykki leikstjórans.
+Sjálfgefinn aldur fyrir persónur er 17+1D6 ára. Leikstjórinn þinn gæti valið að breyta þessu út frá kröfum leikheimsins. Ef þú vilt byrja leikinn með persónu sem er yngri eða eldri, veldu aldur sem virðist viðeigandi og fær samþykki leikstjórans.
 
-* Miðað við herferðarstig (lýst í Skrefi sex), fyrir hver 10 full ár sem bætt er við upphafsaldurinn, breyttu starfsfærnistigum um +10 (Eðlilegt), +20 (Hetjulegt), +30 (Epískt), eða +40 (Yfirmennsku). Hver hluti ára undir 10 gefur ekki þessa færnibónus.
+* Byggt á kraftstigi herferðarinnar (lýst í Skrefi sex), fyrir hver 10 heil ár sem bætast við kastaðan upphafsaldur, breyttu faglegum færnistigum um +10 (Eðlilegt), +20 (Hetjulegt), +30 (Epic) eða +40 (Ofurmannlegt). Hver hluti af árum undir 10 gefur ekki þessa færnibónus.
 
-* Fyrir hvert ár undir 18, breyttu starfsfærnistigum um –10 (Eðlilegt), –20 (Hetjulegt), –30 (Epískt), eða –40 (Yfirmennsku).
+* Fyrir hvert ár undir 18, breyttu faglegum færnistigum um –10 (Eðlilegt), –20 (Hetjulegt), –30 (Epic) eða –40 (Ofurmannlegt).
 
-* Leikstjórinn gæti takmarkað starfsgreinar við persónur undir 18 ára aldri.
+* Leikstjórinn þinn gæti takmarkað tiltækar starfsgreinar fyrir persónur undir 18 ára aldri.
 
-* Við 50 ára aldur og hvert fullt 10 ára tímabil yfir því, breyttu einum af STR, CON, DEX eða CHA (að eigin vali) um –1. Við 80 ára aldur og hvert fullt 10 ára tímabil yfir því, breyttu **þremur** af þessum eiginleikum. Sjá **Öldrun og aðgerðaleysi (Valkostur)**.
+* Við 50 ára aldur og hvert heilt 10 ára tímabil þar yfir, breyttu einum af STY, ÞOL, LIP eða KAR (að eigin vali) um –1. Við 80 ára aldur og hvert heilt 10 ára tímabil þar yfir, breyttu **þremur** af þessum eiginleikum. Sjá **Öldrun og aðgerðaleysi (Valkostur)**.
 
-* Fyrir hvert ár undir upprunalega kastaða aldri hér að ofan, breyttu hvaða eiginleika sem er fyrir utan EDU (að eigin vali) um –1. Leikstjórinn gæti krafist þess að þú gerir SIZ að einum af þessum lækkuðu eiginleikum. Hægt er að ná þessum stigum í gegnum leik (reynslu), þjálfun eða smám saman með náttúrulegum hætti (að geðþótta leikstjóra). Sjá **Öldrun og aðgerðaleysi (Valkostur)**.
+* Fyrir hvert ár undir upprunalega kastaða aldri hér að ofan, breyttu hvaða eiginleika sem er (að eigin vali) nema EDU um –1. Leikstjórinn gæti krafist þess að þú gerir STÆ að einum af þessum lækkuðu eiginleikum. Þessi stig er hægt að fá með leik (reynslu), þjálfun eða smám saman með náttúrulegum hætti (eftir geðþótta leikstjóra). Sjá **Öldrun og aðgerðaleysi (Valkostur)**.
 
-Leikstjórinn getur líka valið að hunsa þessar reglur, byggt á aflstigi leiksins. Þetta gerir ráð fyrir öldruðum ævintýramönnum, barnasnillingum og er yfirleitt skemmtilegra fyrir alla leikmenn.
+Leikstjórinn þinn gæti líka valið að hunsa þessar reglur einfaldlega, byggt á kraftstigi leiksins. Þetta gerir kleift að hafa aldraða ævintýramenn, barnasnillinga, og er almennt skemmtilegra fyrir alla leikmenn.
 
-**Menntun (EDU) (Valkostur):** Ef þú notar EDU eiginleikann, verður upphafsaldur persónunnar að vera að minnsta kosti EDU+5 (sem táknar tíma varið í nám). Hvert fullt 10 ára tímabil sem bætt er við upphafsaldur persónunnar bætir +1 við EDU eiginleika persónunnar. Gakktu úr skugga um að auka viðeigandi færnistig sem myndast í **Skrefi sex**.
+**Menntun (EDU) (Valkostur):** Ef þú notar EDU-eiginleikann, verður upphafsaldur persónunnar að vera að minnsta kosti EDU+5 (sem táknar tíma sem fer í nám). Hvert heilt 10 ára tímabil sem bætist við upphafsaldur persónunnar bætir +1 við EDU-eiginleika persónunnar. Vertu viss um að auka viðeigandi færnistig sem myndast í **Skrefi sex**.
 
 ### Skref fjögur: Eiginleikaköst
 
-Hér er þar sem þú ákvarðar eiginleikaköstin þín. Nú ættirðu að vita hverjir lokaeiginleikarnir þínir eru, en ef ekki, bíddu með þetta skref þar til þú hefur gengið frá þeim. Hvert þeirra hefur sinn stað á persónublaðinu.
+Hér ákveður þú eiginleikaköstin þín. Nú ættir þú að vita hverjir endanlegir eiginleikar þínir eru, en ef ekki, bíddu með þetta skref þar til þú hefur lokið við þá. Hvert atriði á sinn stað á persónublaðinu.
 
-* Margfaldaðu STR×5 fyrir **Áreynslukast** (Effort).
+* Margfaldaðu STY×5 fyrir **Áreynslukast** (Effort roll).
 
-* Margfaldaðu CON×5 fyrir **Þolkast** (Stamina).
+* Margfaldaðu ÞOL×5 fyrir **Þolskraftskast** (Stamina roll).
 
-* Margfaldaðu INT×5 fyrir **Hugmyndakast** (Idea).
+* Margfaldaðu GRE×5 fyrir **Hugmyndakast** (Idea roll).
 
-* Margfaldaðu POW×5 fyrir **Heppniskast** (Luck).
+* Margfaldaðu MÁT×5 fyrir **Heppniskast** (Luck roll).
 
-* Margfaldaðu DEX×5 fyrir **Fimikast** (Agility).
+* Margfaldaðu LIP×5 fyrir **Lipurðarkast** (Agility roll).
 
-* Margfaldaðu CHA×5 fyrir **Sjarmakast** (Charm).
+* Margfaldaðu KAR×5 fyrir **Töfrabragðakast** (Charm roll).
 
-**Þekkingarkast (Valkostur):** Margfaldaðu EDU×5 fyrir **Þekkingarkast** (Know) (ef EDU er notað).
+**Þekkingarkast (Valkostur):** Margfaldaðu EDU×5 fyrir **Þekkingarkast** (Know roll) (ef EDU er notað).
 
 ### Skref fimm: Afleiddir eiginleikar
 
-Nú er kominn tími á afleiddu eiginleikana: skaðabreyta, lífspunkta, kraftpunkta og reynslubónus. Ef þú notar valfrjáls kerfi ættirðu einnig að ákvarða upphafsþreytupunkta og geðheilbrigðispunkta. Skrifaðu niðurstöðurnar á persónublaðið þitt.
+Nú er kominn tími á afleiddu eiginleikana: skaðabreyta, lífpunktar, máttur og reynslubónus. Ef þú notar valkvæð kerfi ættirðu einnig að ákvarða upphaflega þreytupunkta og geðheilbrigðispunkta. Skrifaðu niðurstöðurnar á persónublaðið þitt.
 
-* **Skaðabreyta (Damage Modifier):** Bættu STR+SIZ saman og finndu **skaðabreytuna** sem samsvarar heildarfjölda persónunnar í töflunni **Skaðabreyta**.
+* **Skaðabreyta (Damage Modifier):** Bættu STY+STÆ saman og finndu **skaðabreytuna** sem samsvarar heildarfjölda persónunnar á **Skaðabreyta**-töflunni.
 
-* **Lífspunktar (Hit Points):** Bættu CON+SIZ saman og deildu með 2 (námundað upp). Hringdu um þá tölu í **Lífspunkta**-reitnum á persónublaðinu þínu og skrifaðu hana fyrir neðan. Þetta eru hámarks lífspunktar persónunnar. Ef persónan missir lífspunkta, merktu þá af, og strokaðu út merkin þegar lífspunktar gróa eða eru endurheimtir á annan hátt.
+* **Lífpunktar:** Bættu ÞOL+STÆ saman og deildu með 2 (námundað upp). Hringdu um þá tölu í **Lífpunktar**-reitnum á persónublaðinu þínu og skrifaðu hana fyrir neðan. Þetta eru hámarks lífpunktar persónunnar þinnar. Ef persónan þín missir lífpunktar, merktu þá af, og strokaðu út merkin þegar lífpunktar gróa eða eru endurheimtir á annan hátt.
 
-* **Stig alvarlegra sára (Major Wound Level):** Stig **alvarlegra sára** er 1/2 af lífspunktum, námundað upp.
+* **Alvarleg sár (Major Wound Level):** **Stig alvarlegra sára** er 1/2 af lífpunktum, námundað upp.
 
-* **Kraftpunktar (Power Points):** Í **Kraftpunkta**-reitnum, hringdu um töluna sem jafngildir POW og skrifaðu heildina á línuna fyrir neðan. Þetta eru hámarks kraftpunktar persónunnar. Þessir knýja galdra, stökkbreytingar, sálræna hæfileika eða ofurkrafta. Merktu kraftpunkta af eftir því sem þeir eru eyttir og strokaðu út merkin þegar þeir eru endurheimtir eða endurheimtir á annan hátt. Talan sem skrifuð er í reitinn, sem jafngildir POW, er gildið sem kraftpunktar persónunnar snúa aftur til við hvíld.
+* **Máttur (Power Points):** Í **Máttur**-reitnum, hringdu um töluna sem er jöfn MÁT og skrifaðu heildina á línuna fyrir neðan. Þetta eru hámarks máttarpunktar persónunnar. Þeir knýja töfraformúlur, stökkbreytingar, sálræna hæfileika eða ofurkrafta. Merktu máttarpunkta af þegar þeim er eytt og strokaðu út merkin þegar þeir eru endurheimtir eða endurheimtir á annan hátt. Talan sem skrifuð er í reitinn, jöfn MÁT, er gildið sem máttur persónunnar fer aftur í með hvíld.
 
-* **Reynslubónus (Experience Bonus):** Reynslubónus persónunnar jafngildir 1/2 af INT þeirra, námundað upp.
+* **Reynslubónus:** Reynslubónus persónunnar er jafn 1/2 af GRE hennar, námundað upp.
 
-* **Hreyfigeta (Move, MOV):** MOV persónunnar mælir hversu hratt hún getur hreyft sig í bardagalotu. Mannlegar persónur geta venjulega hreyft sig 10 einingar á lotu. Eining er nokkuð breytilegt magn sem jafngildir venjulega 1 metra. Sjá **Hreyfihraði**.
+* **Hreyfing (MOV):** Hreyfing (MOV) persónunnar mælir hversu hratt hún getur hreyft sig í bardagalotu. Mannlegar persónur geta venjulega hreyft sig 10 einingar á hverja lotu. Eining er nokkuð breytilegt magn sem jafngildir venjulega 1 metra. Sjá **Hreyfihraði**.
 
-**Færnibónusar (Valkostur):** Ef notaðir eru eiginleikamiðaðir færniflokkabónusar, reiknaðu bónusinn fyrir hvern flokk með því að nota töfluna **Færniflokkabónus**. Skrifaðu þessi gildi í reitina fyrir hvern flokk. Þessi bónus bætist við grunnlíkur fyrir hverja færni, ef einhver er. Fyrir hvern flokk:
+**Færnibónusar (Valkostur):** Ef notaðir eru færnibónusar byggðir á eiginleikum, reiknaðu út bónusinn fyrir hvern flokk með því að nota **Færniflokkabónus**-töfluna. Skrifaðu þessi gildi í reitina fyrir hvern flokk. Þessi bónus bætist við grunnlíkur fyrir hverja færni, ef einhver er. Fyrir hvern flokk:
 
-* Bættu við +1% fyrir hvert stig í aðaleiginleika yfir 10; dragðu frá 1% fyrir hvert stig undir 10.
+* Bættu +1% við fyrir hvert stig í aðaleiginleika yfir 10; dragðu 1% frá fyrir hvert stig undir 10.
 
-* +1% fyrir hver 2 stig í aukaeiginleika yfir 10; –1% fyrir hver 2 stig undir 10 (námundað niður bónusinn ef þörf krefur).
+* +1% fyrir hver 2 stig í aukaeiginleika yfir 10; –1% fyrir hver 2 stig undir 10 (námundað niður bónusinn ef þarf).
 
 * –1% fyrir hvert stig í neikvæðum eiginleika yfir 10; +1% fyrir hvert stig undir 10.
 
-**Lífspunktar á líkamshluta (Valkostur):** Með valfrjálsa líkamshlutakerfinu skal ákvarða fjölda lífspunkta fyrir hvern líkamshluta. Höfuðið, kviðurinn og hvor fótur um sig hafa 1/3 af lífspunktahildinni, brjóstkassinn hefur 4/10, og hvor hönd um sig hefur 1/4 af hámarks lífspunktagildi persónunnar. Námundaðu alla brotahluta upp.
+**Lífpunktar eftir líkamshluta (Valkostur):** Með valkvæða líkamshlutakerfinu skaltu ákvarða fjölda lífpunktar fyrir hvern líkamshluta. Höfuðið, kviðurinn og hvor fótur um sig hafa 1/3 af heildarlífpunktum þínum, brjóstkassinn hefur 4/10, og hvor hönd um sig hefur 1/4 af hámarkslífpunktum persónunnar. Námundaðu alla brota hluta upp.
 
-**Þreytupunktar (Valkostur):** Ef þreyta er notuð; bættu STR+CON persónunnar saman til að fá heildarfjölda þreytupunkta. Í leiknum, þegar persónan eyðir orku eða stundar stranga líkamlega vinnu, mun hún missa þreytupunkta. Hún jafnar sig hratt með hvíld og öðrum leiðum og breytist oft.
+**Þreytupunktar (Valkostur):** Ef þreyta er notuð; bættu STY+ÞOL persónunnar saman til að fá heildarfjölda þreytupunkta. Í leik, þegar persónan þín eyðir orku eða stundar kröftuga líkamlega virkni, mun hún missa þreytupunkta. Hún endurheimtir þá hratt með hvíld og öðrum aðferðum og þeir breytast oft.
 
-**Geðheilsa (Sanity) (Valkostur):** Ef geðheilsa er notuð; margfaldaðu upphaflegt POW-gildi persónunnar með ×5 til að fá núverandi geðheilsustig (SAN). Starfsgrein (sjá Skref sex hér að neðan) gæti breytt þessari tölu. Í leiknum, merktu þetta af ef persónan missir geðheilbrigðispunkta.
+**Geðheilsa (Sanity) (Valkostur):** Ef geðheilsa er notuð; margfaldaðu upphaflegt MÁT-gildi persónunnar með ×5 til að fá núverandi geðheilbrigðistölu (SAN). Starfsgrein (sjá Skref sex, hér að neðan) gæti breytt þessari tölu. Í leik, merktu af þegar persónan missir geðheilbrigðispunkta.
 
 ### Skref sex: Persónuleiki
 
-Lærðu eiginleika persónunnar og ímyndaðu þér hvers konar manneskju þú vilt að hún sé. Veldu einn af valkostunum hér að neðan eða kastaðu 1D4 fyrir af handahófi niðurstöðu. Þessir færnipakkar eru fljótleg leið til að þróa persónuna þína—það verða fleiri færnir í næsta skrefi. Færnir eru skilgreindar í *Kafli þrjú: Færnir* 37–52 og vopnaflokkar eru lýstir í *Kafli átta: Búnaður*.
+Lærðu eiginleika persónunnar þinnar og ímyndaðu þér hvers konar manneskju þú vilt að hún sé. Veldu einn af valkostunum hér að neðan eða kastaðu 1D4 fyrir handahófskennda niðurstöðu. Þessir færnipakkar eru fljótleg leið til að þróa persónuna þína—það verða fleiri færnir í næsta skrefi. Færnir eru skilgreindir í *Kafla þrjú: Færnir* 37–52 og vopnaflokkum er lýst í *Kafla átta: Búnaður*.
 
-##### Persónuleikagerðir
+##### Persónuleikategundir
 
 | Niðurstaða | Lýsing |
 | :---- | :---- |
-| 1 | **Brutal (Grimm)**: Persónan þín hugsar fyrst um að leysa vandamál með líkamlegu afli. Gefðu 20 færnistig í Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw, og í hvaða tvær bardagafærnir sem er. |
-| 2 | **Skilled (Hæf)**: Persónan þín trúir því að tækni, handverk og sérfræðiþekking séu leyndarmál árangurs. Gefðu 20 færnistig í Appraise, hvaða Craft sem er, Disguise, Dodge, Fine Manipulation, First Aid, hvaða Knowledge-færni sem er, Navigate, Pilot, Ride, Sleight of Hand, Stealth, og í hvaða eina bardagafærni sem er. |
-| 3 | **Cunning (Slæv)**: Persónan þín reynir fyrst að yfirspila andstæðing til að ná forskoti. Bættu við 20 færnistigum í Appraise, Bargain, Disguise, Insight, hvaða tvær Knowledge-færnir sem er, Listen, Research, Sense, Spot, Stealth, hvaða eina Technical-færni sem er (viðeigandi fyrir stillingu), og í hvaða eina bardagafærni sem er. |
-| 4 | **Charming (Sjarmerandi)**: Persónan þín nýtur þess að sannfæra aðra um að vinna vinnuna, á meðan hún tekur ákvarðanirnar. Gefðu 20 stig í Appraise, Bargain, Command, Etiquette, Fast Talk, Insight, Perform, Persuade, hvaða tungumál sem er (Annað), Tungumál (Eigið), Sense, Status, og í hvaða eina bardagafærni sem er. |
+| 1  | **Grimmur (Brutal)**: Persónan þín hugsar fyrst um að leysa vandamál með líkamlegu valdi og afli. Gefðu 20 færnistig hvor í Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw, og í hvaða tvo bardagafærnir sem er. |
+| 2  | **Fær (Skilled):** Persónan þín trúir því að tækni, handverk og sérfræðiþekking séu lykillinn að árangri. Gefðu 20 færnistig hvor í Appraise, hvaða handverksfærni sem er, Disguise, Dodge, Fine Manipulation, First Aid, hvaða þekkingarfærni sem er, Navigate, Pilot, Ride, Sleight of Hand, Stealth, og í hvaða eina bardagafærni sem er. |
+| 3  | **Slunginn (Cunning):** Persónan þín reynir fyrst að yfirspila andstæðing til að ná yfirhöndinni. Bættu 20 færnistigum við í Appraise, Bargain, Disguise, Insight, hvaða tvær þekkingarfærnir sem er, Listen, Research, Sense, Spot, Stealth, hvaða tæknifærni sem er (viðeigandi fyrir umhverfið), og í hvaða eina bardagafærni sem er. |
+| 4  | **Heillandi (Charming):** Persónan þín nýtur þess að sannfæra aðra um að vinna, á meðan hún tekur ákvarðanirnar. Gefðu 20 stig í Appraise, Bargain, Command, Etiquette, Fast Talk, Insight, Perform, Persuade, hvaða tungumál sem er (annað), tungumál (eigið), Sense, Status, og í hvaða eina bardagafærni sem er. |
 
-Leikstjórinn þinn gæti haft aðrar persónuleikagerðir, eða þú getur búið til þína eigin, með því að velja 13 færnir og bæta 20 stigum við hvert færnigildi (með samþykki leikstjórans).
+Leikstjórinn þinn gæti haft aðrar persónuleikategundir, eða þú getur búið til þína eigin, valið 13 færnir og bætt 20 stigum við hvert færnigildi (með samþykki leikstjórans).
 
-Þegar þú úthlutar þessum færnistigum, bættu bónusnum við grunnlíkur fyrir hverja færni, venjulega kynnt sem gildi í sviga á eftir færninni, svo sem Fast Talk (15%). Skrifaðu þá heild á eftir færninni.
+Þegar þú dreifir þessum færnistigum, bættu bónusnum við grunnlíkur fyrir hverja færni, venjulega kynntar sem gildi í sviga á eftir færninni, svo sem Fast Talk (15%). Skrifaðu þá heild á eftir færninni.
 
-Til dæmis, *að bæta 20 færnistigum við Fast Talk (05%) gefur einkunnina 25% (5+20).*
+Til dæmis, *að bæta 20 færnistigum við Fast Talk (05%) gefur 25% (5+20).*
 
-### Skref sjö: Starfsgrein og Færnir
+### Skref sjö: Starfsgrein og færnir
 
-Til að ákvarða upphafsfærnir fyrir persónuna þína, flettu upp í starfsgreinaskránni. Veldu starfsgrein þar. Starfsgreinar eru lýstar ítarlega síðar í þessum kafla. Leikstjórinn gæti takmarkað tiltækar starfsgreinar, svo spurðu áður en þú tekur þessa ákvörðun. Sumar starfsgreinar veita sérstaka kosti, svo sem notkun á töfrum. Skrifaðu þetta hjá þér á persónublaðið.
+Til að ákvarða upphafsfærnir fyrir persónuna þína skaltu snúa þér að lista yfir starfsgreinar. Veldu starfsgrein þar. Starfsgreinum er lýst ítarlega síðar í þessum kafla. Leikstjórinn þinn gæti takmarkað tiltækar starfsgreinar, svo spurðu áður en þú tekur þessa ákvörðun. Sumar starfsgreinar veita sérstaka kosti, svo sem notkun á töfrum. Skráðu þetta á persónublaðið.
 
-Þegar starfsgrein hefur verið valin, ákvarðu starfsfærnistigapott persónunnar. Þetta táknar það sem persónan þín hefur lært í þeirri starfsgrein, hvort sem er í gegnum þjálfun eða vinnureynslu. Eins og alltaf bætast færnistig við alla bónusa sem veittir voru í fyrri skrefum og við grunnlíkur færninnar.
+Þegar starfsgrein hefur verið valin skaltu ákvarða færnistigapott starfsgreinarinnar. Þetta táknar það sem persónan þín hefur lært í þeirri starfsgrein, hvort sem það er með þjálfun eða starfsreynslu. Eins og alltaf bætast færnistig við bónusa sem veittir voru í fyrri skrefum og við grunnlíkur færninnar.
 
-Aflstig herferðarinnar ákvarðar upphaflegt færnistigapott. Leikstjórinn ætti nú þegar að hafa ákveðið hvers konar leik hann mun stjórna, og hversu öflugar og hæfar leikmannapersónur ættu að vera.
+Kraftstig herferðarinnar ákvarðar upphafsfærnistigapottinn. Leikstjórinn ætti að vera búinn að ákveða núna hvers konar leik hann ætlar að keyra, og hversu öflugar og hæfar leikmannapersónur ættu að vera.
 
-* **Eðlilegt:** Úthlutaðu 250 stigum í starfsgreinahæfni. Engin færni ætti að byrja hærra en 75%. Ef þú notar valfrjálsa færniflokkabónusinn er takmörkunin enn 75%, og þú verður að eyða öllum stigum umfram þetta í aðrar færnir. Ef samsetning bónusa hækkar færnina í meira en 75% fyrir þetta skref, ekki bæta við neinum viðbótarfærnistigum.
+* **Eðlilegt (Normal):** Úthlutaðu 250 stigum í faglegar færnir. Engin færni ætti að hefjast hærri en 75%. Ef þú ert að nota valkvæðan færniflokkabónus er takmörkunin enn 75% og þú verður að eyða öllum stigum umfram þetta í aðrar færnir. Ef samsetning bónusa eykur færnina í meira en 75% fyrir þetta skref, skaltu ekki bæta við neinum viðbótar færnistigum.
 
-* **Hetjulegt:** Úthlutaðu 325 stigum í starfsgreinahæfni. Engin færni ætti að byrja hærra en 90%, með sömu takmörkunum og að ofan.
+* **Hetjulegt (Heroic):** Úthlutaðu 325 stigum í faglegar færnir. Engin færni ætti að hefjast hærri en 90%, með sömu takmörkunum og hér að ofan.
 
-* **Epískt:** Úthlutaðu 400 stigum í starfsgreinahæfni. Engin færni ætti að byrja hærra en 101%, með sömu takmörkunum og að ofan.
+* **Epic:** Úthlutaðu 400 stigum í faglegar færnir. Engin færni ætti að hefjast hærri en 101%, með sömu takmörkunum og hér að ofan.
 
-* **Yfirmennsku:** Úthlutaðu 500 stigum í starfsgreinahæfni, með engum takmörkunum á færnieinkunnir. Sjá **Færnieinkunnir yfir 100% (Valkostur)**.
+* **Ofurmannlegt (SuperHuman):** Úthlutaðu 500 stigum í faglegar færnir, án takmarkana á færnigildum. Sjá **Færnistig yfir 100% (Valkostur)**.
 
-Fyrir upprunalega starfsgrein, úthlutaðu fjölda færnistiga aflstigsins, eins og að ofan. Leikstjórinn gæti haft einhverjar takmarkanir á því hvernig þessum færnistigum er eytt.
+Fyrir upprunalega starfsgrein, úthlutaðu færnistigum kraftstigsins, eins og að ofan. Leikstjórinn gæti haft einhverjar takmarkanir á því hvernig þessum færnistigum er varið.
 
-Þegar öllum starfsgreinastigum hefur verið úthlutað, margfaldaðu INT persónunnar×10 til að ákvarða persónulega færnistigapottinn. Eyddu þessum færnistigum í hvaða færnir sem þú vilt, með samþykki leikstjórans. Bættu stigum sem eytt er í færni við grunnlíkur hennar, starfsbónusa (ef einhverjir eru), úthlutanir starfsfærnistiga og færniflokkabónusa (ef einhverjir eru).
+Þegar öllum faglegum færnistigum hefur verið úthlutað skaltu margfalda GRE×10 persónunnar til að ákvarða persónulegan færnistigapott hennar. Eyddu þessum færnistigum í hvaða færnir sem þú vilt, með samþykki leikstjórans. Bættu stigum sem varið er í færni við grunnlíkur hennar, starfsbónusa (ef einhverjir eru), úthlutanir faglegra færnistiga og færniflokkabónusa (ef einhverjir eru).
 
-Heildin má ekki fara yfir færnitakmarkanir fyrir leikgerðina sem settar eru að ofan. Leikstjórinn gæti lagt á takmörkun upp á 50% á persónulegar færnir sem liggja of langt utan starfsgreinar persónunnar. Þetta færnitakmark er hærra byggt á stigi herferðarinnar: 75% fyrir hetjulegt, 90% fyrir epískt og 100% fyrir yfirmennsku. Færnir sem fara náttúrulega yfir þessar tölur vegna fyrri bónusa geta ekki fengið nein viðbótarstig.
+Heildin má ekki fara yfir færnitakmörkun fyrir leikgerðina sem sett er hér að ofan. Leikstjórinn gæti sett 50% þak á persónulegar færnir sem fara of langt út fyrir starfsgrein persónu. Þetta færniþak er hærra byggt á stigi herferðarinnar: 75% fyrir hetjulegt, 90% fyrir epic og 100% fyrir ofurmannlegt. Færnir sem fara náttúrulega yfir þessar tölur með fyrri bónusum geta ekki fengið neinum viðbótarstigum varið í sig.
 
-Reiknaðu lokaeinkunnir fyrir allar færnir persónunnar út frá grunnlíkum, persónuleikagerð, starfsfærnipotti, persónulegum færnipotti og valfrjálsum færniflokkabónusum (ef þeir eru notaðir). Þú gætir viljað færa einhver stig á þessum tímapunkti en halda starfsfærnistigum og persónulegum færnistigum aðskildum.
+Reiknaðu út endanlegar stöður fyrir allar persónufærnir út frá grunnlíkum, persónuleikategund, faglegum færnipotti, persónulegum færnipotti og valkvæðum færniflokkabónusum (ef þeir eru notaðir). Þú gætir viljað færa nokkur stig á þessum tíma en haltu faglegum færnistigum og persónulegum færnistigum aðskildum.
 
-**Menntun (EDU) (Valkostur):** Ef Menntun (EDU) er notuð, í stað grunnfærnistigapotts upp á 250/325/400/500, skaltu láta upphafsfærnistigin byggjast á EDU×20 fyrir eðlilegar persónur, EDU×25 fyrir hetjulegar persónur, EDU×30 fyrir epískar persónur og EDU×40 fyrir yfirmennsku-persónur.
+**Menntun (EDU) (Valkostur):** Ef Menntun (EDU) er notuð, í stað grunnfærnipotts upp á 250/325/400/500, láttu upphaflegu færnistigin byggjast á EDU×20 fyrir eðlilegar persónur, EDU×25 fyrir hetjulegar persónur, EDU×30 fyrir epic persónur og EDU×40 fyrir ofurmannlegar persónur.
 
-**Menningarlegar færnir (Valkostur):** Fyrir leik með verulegan mun á mannlegum menningarheimum gæti leikstjórinn látið þetta hafa áhrif á upphafsfærnir eða leyfðar upphafsfærnir. Sjá **Menning og persónur**.
+**Menningarlegar færnir (Valkostur):** Fyrir leik með verulegan mun á mannlegum menningarheimum gæti leikstjórinn látið þetta hafa áhrif á upphafsfærnir eða upphafsfærnir sem leyfðar eru. Sjá **Menning og persónur**.
 
-**Aukin persónuleg færnistig (Valkostur):** INT×10 persónulega færnistigapottinn má auka í INT×15 fyrir hetjulegar persónur, INT×20 fyrir epískar persónur eða INT×25 fyrir yfirmennsku-persónur, eftir því sem við á. Þessi valkostur er ráðlagður fyrir leiki þar sem persónur eru gríðarlega hæfar og færari en núverandi starfsgrein þeirra gefur til kynna.
+**Aukin persónuleg færnistig (Valkostur)**: GRE×10 persónulega færnistigapottinn má auka í GRE×15 fyrir hetjulegar persónur, GRE×20 fyrir epic persónur eða GRE×25 fyrir ofurmannlegar persónur, eftir því sem við á. Þessi valkostur er mælt með fyrir leiki þar sem persónur eru gríðarlega hæfar og færari en núverandi starfsgrein gefur til kynna.
 
 ### Skref átta: Eignir
 
-Flestar persónur hafa einhvers konar eignir, hvort sem það er búnaður eða vopn. Framhlið persónublaðsins hefur kafla fyrir vopn, og bakhliðin pláss fyrir eignir. Starfsgreinin þín lýsir upphafsauðæfum persónunnar og Status-færnin getur gefið leiðbeiningar um hvers konar viðbótarbúnað persónan þín gæti komist yfir. Það er ekki nauðsynlegt að skrá hvern hlut sem persónan þín á, heldur aðeins þá sem gætu verið mikilvægir í leiknum.
+Flestar persónur hafa einhvers konar eignir, hvort sem það er búnaður eða vopn. Framhlið persónublaðsins hefur hluta fyrir vopn og bakhliðin pláss fyrir eignir. Starfsgreinin þín lýsir upphaflegu auðæfastigi persónunnar og Status-færnin getur veitt leiðbeiningar um hvers konar viðbótarbúnað persónan þín gæti náð í. Það er ekki nauðsynlegt að skrá hvern hlut sem persónan þín á, heldur aðeins þá sem gætu verið mikilvægir í leik.
 
 Í flestum tilfellum hefur persónan þín eftirfarandi:
 
-* Heilt sett (eða sett) af fötum sem hæfa umhverfi þeirra og stillingu.
+* Fullkomið sett (eða sett) af fötum sem hæfa umhverfi þeirra og leikheimi.
 
-* Upphæð af vasapeningum og persónulegum sparnaði byggt á auðæfistigi þeirra.
+* Upphæð af vasapeningum og persónulegum sparnaði byggt á auðæfastigi þeirra.
 
-* Persónulegan hlut sem sýnir tengsl við fjölskyldu þeirra eða bakgrunn. Þetta getur verið erfðagripur, minjagripur eða einhver skartgripur með sterkum tilfinningatengslum.
+* Persónulegan hlut sem sýnir tengingu við fjölskyldu þeirra eða bakgrunn. Þetta getur verið ættargripur, minjagripur eða einhver smáhlutur með sterka tilfinningatengingu.
 
 * Öll verkfæri eða búnað sem hentar starfsgrein þeirra, ef við á.
 
-* Öll vopn sem þeir hafa færni upp á 50%+ í, ef við á.
+* Öll vopn sem þau hafa 50%+ færni í, ef við á.
 
-* Byggt á umhverfi, starfsgrein, auðæfistigi og Status, gætu þeir haft farartæki eins og hest, vagn, reiðhjól, bifreið, einkaflugtæki, lítinn geimflutning eða einhvern annan samgöngumáta. Þetta er háð samþykki leikstjórans.
+* Byggt á umhverfi, starfsgrein, auðæfastigi og Status, gætu þau haft farartæki eins og hest, vagn, hjól, bíl, persónulegan fljúgandi farkost, lítinn geimflutningabíl eða einhverja aðra leið til samgangna. Þetta er háð samþykki leikstjóra.
 
-* Engar ítarlegar reglur um fjármál eru veittar: ráðlagður auður fyrir starfsgreinar og Status-færnin eru bestu leiðbeiningarnar til að ákvarða hvaða hluti og sjóði þeir byrja leikinn með eða hafa aðgang að. Leikstjórinn ætti að geta hjálpað þér að lýsa þessu í viðeigandi smáatriðum og gæti haft viðbótartakmarkanir eða tillögur.
+* Engar ítarlegar reglur um fjármál eru veittar: tillögur um auðæfi fyrir starfsgreinar og Status-færnin eru bestu leiðbeiningarnar til að ákvarða hvaða hluti og fjármuni þau byrja leikinn með eða hafa aðgang að. Leikstjórinn ætti að geta hjálpað þér að lýsa þessu á viðeigandi ítarstigi og gæti haft viðbótartakmarkanir eða tillögur.
 
-### Skref níu: Stærð og Einkennandi eiginleikar
+### Skref níu: Stærð og einkennandi eiginleikar
 
-Þetta skref er fyrst og fremst snyrtilegt og er ekki alveg nauðsynlegt.
+Þetta skref er fyrst og fremst snyrtilegt og ekki algjörlega nauðsynlegt.
 
-Þú getur nú valið að ákvarða hæð og þyngd persónunnar, byggt á SIZ. Venjulega táknar SIZ-sviðið 10–13 mannlega sviðið af meðalþyngd og hæð. Einstaklingur með SIZ 8 (eðlilegt lágmark) er tiltölulega lítill, og einhver með SIZ 18 er óvenju stór. Þú getur skilgreint þetta eins og þú vilt, annaðhvort með nákvæmum tölum fyrir hæð og þyngd, eða með lýsingum eins og „Hár“ eða „Grannur“.
+Þú getur nú valið að ákvarða hæð og þyngd persónunnar þinnar, byggt á STÆ. Almennt táknar STÆ-sviðið 10–13 mannlega sviðið af meðalþyngd og hæð. Manneskja með STÆ 8 (eðlilegt lágmark) er tiltölulega lítil og einhver með STÆ 18 er afar stór. Þú getur skilgreint þetta eins og þú vilt, annað hvort með nákvæmum tölum fyrir hæð og þyngd, eða með lýsingum eins og „Hár“ eða „Grannur“.
 
-Ef notaður er **Einkennandi eiginleikar**-valkosturinn. Skráðu þessa eiginleika undir nafn persónunnar á persónublaðinu.
+Ef þú notar **Einkennandi eiginleikar**-valkostinn. Skráðu þessa eiginleika undir nafn persónunnar á persónublaðinu.
 
-### Skref tíu: Lokafrágangur
+### Skref tíu: Lokahöndin
 
-Þetta er síðasta skrefið fyrir ýmsa þætti persónunnar þinnar. Ef þér datt ekki nafn í hug fyrirfram í Skrefi eitt, þá er tími til þess núna. Fyrir utan það geturðu fundið út úr restinni af þessum kafla áður en leikur byrjar eða þegar þú færð tilfinningu fyrir persónunni þinni.
+Þetta er lokaskrefið fyrir ýmsa þætti persónunnar þinnar. Ef þú gast ekki hugsað um nafn fyrirfram í Skrefi eitt, er kominn tími til þess núna. Fyrir utan það geturðu búið til restina af þessum hluta áður en leikurinn hefst eða eftir því sem þú færð tilfinningu fyrir persónunni þinni.
 
-Eftir þörfum ættirðu að fylla í öll auðu plássin sem lýsa persónunni, andlega og líkamlega, og koma með hugmyndir um bakgrunn hennar. Í Skrefi níu ákvarðaðir þú einkennandi eiginleika persónunnar þinnar, svo þú ættir að ákveða hvort persónan þín hafi aðra, minna einkennandi eiginleika. Hvaða lit hefur hárið, húðin og augun? Hvernig klæðir hún sig? Hefur hún einhverjar áhugaverðar persónuleikaeinkenni, eða kjörorð eða orðtak sem hún notar oft? Hefur hún áhugaverðan orðstír?
+Eftir þörfum ættirðu að fylla út alla tómu reitina sem lýsa persónunni, andlega og líkamlega, og koma með einhverjar hugmyndir um bakgrunn hennar. Í Skrefi níu ákvarðaðir þú einkennandi eiginleika persónunnar þinnar, svo þú ættir að ákveða hvort persónan þín hafi aðra, minna einkennandi eiginleika. Hvaða lit hefur hárið, húðin og augun? Hvernig klæðist hún? Hefur hún einhverja áhugaverða siði, eða mottó eða orðatiltæki sem hún notar oft? Hefur hún áhugaverðan orðstír?
 
-Ef það skiptir máli, ákvarðaðu hvaðan persónan þín kemur. Hvar gekk hún í skóla (ef einhvers staðar)? Hvert er samband hennar við fjölskylduna? Er persónan meðlimur í einhverjum mikilvægum samtökum? Hefur hún áhugaverða fortíð? Hefur hún einhverja mikilvæga trúarlega eða pólitíska sannfæringu? Ef við á, ættirðu að vinna með leikstjóranum þínum að því að ákvarða þessi mál áður en leikur byrjar, eða að minnsta kosti hugsa um þau fyrirfram. Í leiknum geturðu líka útfært aðra smáatriði í bakgrunni persónunnar eftir þörfum eða látið þessa þætti óákveðna ef þeir skipta ekki máli.
+Ef það skiptir máli, ákvarðaðu hvaðan persónan þín er. Hvar fór hún í skóla (ef einhvers staðar)? Hvert er samband hennar við fjölskylduna? Er persónan meðlimur í einhverjum mikilvægum samtökum? Hefur hún áhugaverða fortíð? Hefur hún einhverjar mikilvægar trúarlegar eða pólitískar skoðanir? Ef við á, ættirðu að vinna með leikstjóranum þínum að því að ákvarða þessi mál áður en leikurinn hefst, eða að minnsta kosti hugsa um þau fyrirfram. Í leik geturðu líka fyllt út aðra þætti í bakgrunni persónunnar eftir þörfum eða látið þessa þætti óákveðna ef þeir skipta ekki máli.
 
-Bakhlið persónublaðsins hefur pláss fyrir frekari lýsandi eða bakgrunnsþætti. Fylltu út eins mikið eða lítið af þessu og þú vilt, og athugaðu hjá leikstjóranum þínum til að ganga úr skugga um að hann viti af þeim og að þau séu viðeigandi fyrir leikinn.
+Bakhlið persónublaðsins hefur pláss fyrir viðbótar lýsandi eða bakgrunnsþætti. Fylltu út eins marga eða eins fáa af þessum og þú vilt, og athugaðu með leikstjóranum þínum til að tryggja að hann viti af þeim og að þeir séu viðeigandi fyrir leikinn.
 
-> ### Stigamiðuð persónugerð (Valkostur)
->
-> Hefðbundin persónugerð notar teningaköst til að ákvarða upphafseiginleika, en þú og leikstjórinn gætu valið að nota stigamiðað kerfi, sem býður upp á meiri stjórn á gerð persónunnar. Ef svo er, eru eftirfarandi breytingar gerðar á **Skrefi eitt**.
->
-> * Allir eiginleikar (STR, CON, SIZ, INT, POW, DEX og CHA) byrja í 10.
->
-> * Þú hefur 24 stig til að eyða í eiginleika. Þetta jafngildir „eðlilegu“ aflstigi fyrir herferð. Enginn upphafseiginleiki getur verið hækkaður hærra en 21.
->
-> * Hvert stig af STR, CON, SIZ eða CHA kostar 1 stig.
->
-> * Hvert stig af DEX, INT og POW kostar 3.
->
-> * Þú getur valið að lækka upphafseiginleika þína niður fyrir upphafsgildið 10, að lágmarki 3.
->
-> * Fyrir hvert stig af STR, CON, SIZ eða CHA sem þú lækkar undir 10 færðu 1 stig til að eyða í aðra eiginleika.
->
-> * Fyrir hvert stig af DEX, INT og POW sem þú lækkar færðu 3 stig til baka.
->
-> * Aðeins með leyfi leikstjóra geturðu hækkað eða lækkað upphafseiginleika utan sviðsins 3–21. Fyrir hærri aflstig (epískt og yfirmennsku), ætti að hunsa hámark eiginleika.
->
-> * Fyrir leiki með krafta geturðu notað öll ónotuð stig frá eiginleikagerð í kraftabudget þitt. Þetta er aðeins með leyfi leikstjóra, þar sem það gæti leitt til þess að þú missir stig í heildina.
->
-> Ef stigamiðuð eiginleikagerð er leyfð, væri næsta skref fyrir leik með krafta það tilbrigði af **Skrefi tvö** sem lýst er í *Kafli fjögur: Kraftar*. Fyrir leik án krafta ætti persónugerð þá að hoppa í **Skref fjögur**.
->
+> ### Punktamiðuð persónusköpun (Valkostur)
+> 
+> Hefðbundin persónusköpun notar teningaköst til að ákvarða upphafs-eiginleika, en þú og leikstjórinn gætuð valið að nota punktamiðað kerfi, sem býður upp á meiri stjórn á sköpun persónunnar. Ef svo er, verða eftirfarandi breytingar gerðar á **Skrefi eitt**.
+> 
+> * Allir eiginleikar (STY, ÞOL, STÆ, GRE, MÁT, LIP og KAR) hefjast í 10.
+> 
+> * Þú hefur 24 stig til að eyða í eiginleika. Þetta jafngildir „eðlilegu“ kraftstigi fyrir herferð. Enginn upphafseiginleiki getur verið hækkaður hærra en 21.
+> 
+> * Hvert stig af STY, ÞOL, STÆ eða KAR kostar 1 stig.
+> 
+> * Hvert stig af LIP, GRE og MÁT kostar 3.
+> 
+> * Þú getur valið að lækka upphafseiginleika þína undir upphafsgildið 10, að lágmarki 3.
+> 
+> * Fyrir hvert stig af STY, ÞOL, STÆ eða KAR sem þú lækkar undir 10, færðu 1 stig til að eyða í aðra eiginleika.
+> 
+> * Fyrir hvert stig af LIP, GRE og MÁT sem þú lækkar, færðu 3 stig til baka.
+> 
+> * Aðeins með leyfi leikstjóra geturðu hækkað eða lækkað upphafseiginleika út fyrir 3–21 bilið. Fyrir hærri kraftstig (epic og ofurmannlegt) ætti að hunsa hámark eiginleika.
+> 
+> * Fyrir leiki með krafta máttu nota öll ónotuð stig frá eiginleikamyndun í máttarpottinn þinn. Þetta er aðeins með leyfi leikstjóra, þar sem það gæti leitt til þess að þú tapir stigum í heildina.
+> 
+> Ef punktamiðuð eiginleikamyndun er leyfð, væri næsta skref fyrir leik með krafta hið breytta **Skref tvö** sem lýst er í Kafla fjögur: Kraftar. Fyrir leik án krafta ætti persónusköpun að hoppa beint í **Skref fjögur**.
+> 
 > #### Hærri upphafseiginleikar (Valkostur)
->
-> Fyrir öflugri herferðir (með kasti upp á 2D6+6 í stað venjulegs 3D6), er upphafsstigafjöldinn hér að ofan 36 stig, jafngildir hetjulega aflstiginu. Epískt aflstig persónur byrja með 48 eiginleikastig, og yfirmennsku aflstig persónur byrja með 60 stig. Venjuleg eiginleikahámark ættu ekki að eiga við.
->
+> 
+> Fyrir öflugri herferðir (með kasti á 2D6+6 í stað venjulegs 3D6) er upphafspunktasumman fyrir ofan 36 stig, sem jafngildir hetjulega kraftstiginu. Epic kraftstigs-persónur byrja með 48 eiginleikastig, og ofurmannlegar kraftstigs-persónur byrja með 60 stig. Eðlileg hámarksgildi eiginleika ættu ekki að gilda.
+> 
 > #### Menntun (Valkostur)
->
-> Ef EDU eiginleikinn er notaður ætti leikstjórinn að úthluta EDU gildi byggt á aldri persónunnar (lýst í **Skrefi þrjú**) og bakgrunni. Þú getur breytt þessu með hvaða stigum sem þú velur. Hvert stig af EDU kostar 3 stig.
->
+> 
+> Ef EDU-eiginleikinn er notaður, ætti leikstjórinn að úthluta gildi á EDU byggt á aldri persónunnar (lýst í **Skrefi þrjú**) og bakgrunni. Þú getur breytt þessu með öllum stigum sem þú vilt. Hvert stig af EDU kostar 3 stig.
+> 
 > #### Menningarlegir breytar eða ekki-mannlegar persónur (Valkostur)
->
-> Ef leikstjórinn leyfir menningarlega breyta fyrir upphafseiginleika, ætti að beita þessum breytum á eiginleika á eftir. Ef ekki-mannlegar persónur með menningarlega breyta á upphafseiginleikum eru í boði, ætti leikstjórinn að aðlaga upphafsstigin og/eða upphafseiginleikana eftir því sem við á. *Kafli ellefu: Verur* inniheldur ráð um leyfi fyrir ekki-mannlegum persónum.
+> 
+> Ef leikstjórinn leyfir menningarlega breyta fyrir upphafseiginleika, ætti að beita þessum breytum á eiginleika á eftir. Ef ekki-mannlegar persónur með menningarlegum breytum á upphafseiginleikum eru í boði, ætti leikstjórinn að aðlaga upphafsstigin þín og/eða upphafseiginleika eftir því sem við á. *Kafli ellefu: Verur* inniheldur ráð um að leyfa ekki-mannlegar persónur.
 
 ## Eiginleikar
 
-Persónan þín er mæld og skilgreind af safni eiginleika, gildum sem tákna líkamlega og andlega getu þeirra. Hærri eiginleikatölur eru venjulega betri (þó að hár SIZ geti unnið gegn þér í laumuspili). Eiginleikagildi gefa til kynna náttúrulega hæfileika sem persónan þín hefur. Eiginleikagildi geta breyst meðan á leik stendur. Meiðsli eða slæmar aðstæður geta minnkað eiginleika, á meðan þjálfun, áreynsla og líkamsrækt geta aukið þá.
+Persónan þín er mæld og skilgreind af mengi eiginleika, gildum sem tákna líkamlega og andlega getu hennar. Hærri eiginleikatölur eru venjulega betri (þótt há STÆ geti unnið gegn þér við laumuspil). Eiginleikagildi gefa til kynna hráar náttúrulegar gjafir sem persónan þín hefur. Eiginleikagildi geta breyst meðan á leik stendur. Meiðsli eða óhagstæðar aðstæður geta minnkað eiginleika, á meðan þjálfun, áreynsla og líkamsrækt geta aukið þá.
 
-* Líkamlegir eiginleikar (STR, CON, SIZ og DEX) hafa hámark 21 fyrir menn.
+* Líkamlegir eiginleikar (STY, ÞOL, STÆ og LIP) hafa 21 sem hámark fyrir menn.
 
-* Andlegir eiginleikar (INT, POW, CHA og EDU) er venjulega hægt að hækka án takmarkana.
+* Andlegir eiginleikar (GRE, MÁT, KAR og EDU) er venjulega hægt að hækka án takmarkana.
 
-* Við flestar aðstæður er 3 lægsta gildið fyrir hvaða eiginleika sem er fyrir utan SIZ eða INT, sem hafa lágmarksgildi 8.
+* Við flestar aðstæður er 3 lægsta gildið fyrir hvaða eiginleika sem er nema STÆ eða GRE, sem hafa 8 sem lágmarksgildi.
 
-Ef aðrar tegundir eða stofnar eru leyfðir í herferðinni gætu þeir haft hærri eða lægri eiginleikahámark. Töfrar, stökkbreytingar, sálrænir hæfileikar, galdrar eða ofurkraftar geta einnig hækkað eiginleika án takmarkana.
+Ef aðrar tegundir eða stofnar eru leyfðir í herferðinni gætu þau haft hærri eða lægri hámarkseiginleika. Töfrar, stökkbreytingar, sálrænir hæfileikar, galdrar eða ofurkraftar geta einnig hækkað eiginleika, án takmarkana.
 
-### Styrkur (STR)
+### Styrkur (STY)
 
-Styrkur mælir vöðvakraft. Áreynslukastið (STR×5) er eiginleikakast hans. STR hjálpar til við að ákvarða hversu mikið persóna getur lyft eða borið, ýtt eða dregið, eða hversu fast hún getur haldið í eitthvað. Í bardaga ákvarðar STR hvers konar vopn persóna getur beitt, auk þess að hjálpa til við að ákvarða hversu mikið auka skaða (ef einhvern) hún veldur með hverju höggi. STR er hægt að auka með æfingum, á meðan viss meiðsli og sjúkdómar geta varanlega minnkað STR. Persóna með STR 0 er ósjálfbjarga, ófær um að rísa úr rúmi sínu.
+Styrkur mælir afl og vöðvakraft. Áreynslukastið (STY×5) er eiginleikakast hans. STY hjálpar til við að ákvarða hversu mikið persóna getur lyft eða borið, ýtt eða dregið, eða hversu fast hún getur haldið í eitthvað. Í bardaga ákvarðar STY hvers konar vopn persóna getur beitt, auk þess að hjálpa til við að ákvarða hversu miklum aukasaka (ef einhverjum) hún veldur með hverju höggi. STY er hægt að auka með æfingum, á meðan ákveðin meiðsli og sjúkdómar geta varanlega minnkað STY. Persóna með STY 0 er ósjálfbjarga, ófær um að rísa úr rúmi.
 
-### Þol (CON)
+### Þol (ÞOL)
 
-Heilsa, kraftur og lífsþróttur eru allt mælt með Þoli. Þolkastið (CON×5) er eiginleikakast hans. CON ákvarðar hversu vel persóna getur staðist þreytu, eitur, sjúkdóma, drukknun og aðrar raunir, og er þáttur í útreikningi á lífspunktum. CON er hægt að auka með líkamsrækt. Sjúkdómar, eitur og sum meiðsli geta tímabundið eða varanlega minnkað CON. Persóna deyr þegar CON fellur í 0 af hvaða ástæðu sem er.
+Heilsa, þrek og lífsorka eru allt mælt með Þoli. Þolskraftskastið (ÞOL×5) er eiginleikakast hans. ÞOL ákvarðar hversu vel persóna getur staðist þreytu, eitur, sjúkdóma, drukknun og aðra erfiðleika, og er þáttur í útreikningi lífpunktar. ÞOL er hægt að auka með líkamsrækt. Sjúkdómar, eitur og sum meiðsli geta tímabundið eða varanlega minnkað ÞOL. Persóna deyr þegar ÞOL hennar fer niður í 0 af hvaða ástæðu sem er.
 
-### Stærð (SIZ)
+### Stærð (STÆ)
 
-Stærð skilgreinir hæð, þyngd og fyrirferð. Ekkert SIZ-tengt eiginleikakast er til; á persónublaðinu er reiturinn notaður til að skrá Skaðabónus. Viðnámsköst sem nota SIZ geta ákvarðað hvort persóna geti staðið fast gegn viðnámi, séð yfir hindrun eða troðið sér í gegnum rifu. SIZ persónunnar, sem líkamsþyngd, er mikilvægur þáttur í að ákvarða lífspunkta og skaðabreyta (ef einhvern). Þættir eins og græðgi eða strangt mataræði geta aukið eða minnkað SIZ, að geðþótta leikstjóra. Sumir kraftar geta einnig haft áhrif á SIZ. Alvarleg meiðsli (eins og týndir limir) geta einnig varanlega minnkað SIZ. Persóna deyr ef hún missir meira en helming af SIZ (námundað upp) vegna hungurs eða öfgafulls mataræðis. Persóna sem minnkuð er í SIZ 0 með töfrum eða öðrum áhrifum hverfur einfaldlega, tærist upp í ekki neitt. Leikstjórinn ætti að vera úrskurðaraðili um allar ósjálfviljugar SIZ-breytingar, þar sem þær eru óalgengar.
+Stærð skilgreinir hæð, þyngd og fyrirferð. Það er ekkert STÆ-tengt eiginleikakast; á persónublaðinu er reiturinn notaður til að skrá Skaðabónus. Viðnámsköst sem nota STÆ geta ákvarðað hvort persóna geti staðið fast gegn viðnámi, séð yfir hindrun eða troðið sér í gegnum sprungur. STÆ persónunnar, sem líkamsþyngd, er mikilvægur þáttur í að ákvarða lífpunktar og skaðabreyta (ef einhver). Þættir eins og græðgi eða strangt mataræði geta aukið eða minnkað STÆ, að geðþótta leikstjóra. Sumir kraftar gætu líka haft áhrif á STÆ. Alvarleg meiðsli (eins og týndir útlimir) geta einnig varanlega minnkað STÆ. Persóna deyr ef hún missir meira en helming af STÆ (námundað upp) vegna svelti eða öfgafulls mataræðis. Persóna sem lækkar í STÆ 0 með töfrum eða öðrum áhrifum einfaldlega hverfur, tærist upp í ekki neitt. Leikstjórinn ætti að vera dómari í öllum ósjálfviljugum STÆ-breytingum, þar sem þær eru óalgengar.
 
-### Greind (INT)
+### Greind (GRE)
 
-Greind táknar rökfræði, andlega skerpu og vitsmuni, og mælir hversu vel persóna lærir, man og greinir upplýsingar. Hugmyndakastið (INT×5) er eiginleikakast hans. INT er mikilvæg við að ákvarða upphafleg færnigildi. Hugsanlega mikilvægasti eiginleikinn, INT hefur ekkert fast hámark og getur hugsanlega hækkað óendanlega með námi og andlegri æfingu. Höfuðmeiðsli, langvarandi útsetning fyrir skaðlegum lyfjum eða ákveðnar tegundir sjúkdóma geta minnkað INT. Persóna með INT 0 hefur verið minnkuð í grænmetisástand, ófær um að lifa af sjálfstætt.
+Táknar rökhugsun, andlega skerpu og vitsmuni; GRE mælir hversu vel persóna lærir, man og greinir upplýsingar. Hugmyndakastið (GRE×5) er eiginleikakast hans. GRE er mikilvæg við að ákvarða upphafsfærnigildi. Hugsanlega mikilvægasti eiginleikinn, GRE hefur ekkert fast hámark og getur ímyndað sér að rísa endalaust með námi og andlegri æfingu. Sár á höfði, langvarandi útsetning fyrir skaðlegum lyfjum eða ákveðnar tegundir sjúkdóma geta minnkað GRE. Persóna með GRE 0 hefur verið færð í grænmetisástand, ófær um að lifa af sjálfstætt.
 
-### Kraftur (POW)
+### Máttur (MÁT)
 
-Óáþreifanlegasti eiginleikinn, Kraftur táknar viljastyrk, töfrahæfileika og andlegan þroska. POW er nauðsynlegur fyrir forystu, innsæi og galdra. Heppniskastið (POW×5) er eiginleikakast hans. POW þjónar sem ákvarðandi fyrir upphafs kraftpunkta og upphafs geðheilbrigðispunkta. Eins og INT, hefur mannlegur POW ekkert sett hámark og getur hækkað óendanlega. Töfraáhrif geta minnkað POW (tímabundið eða varanlega) og sumir galdrar eru knúnir af varanlegri fórn á POW-stigum. Fyrir krafta (sjá *Kafli fjögur: Kraftar*) er POW sennilega mikilvægasti eiginleikinn. POW er ráðlagður grundvöllur fyrir upphafsvali á kröftum, svo persóna með hærri POW mun hafa fleiri krafta (eða fleiri stig í þeim kröftum). Persóna sem POW-stig nær 0 hefur misst sál sína og verður katatónísk án nokkurs vilja eða lífskrafta.
+Mest óáþreifanlegur eiginleikanna, Máttur táknar viljastyrk, töfrahæfileika og andlegan þroska. MÁT er nauðsynleg fyrir forystu, innsæi og töfra. Heppniskastið (MÁT×5) er eiginleikakast hans. MÁT þjónar sem ákvarðandi fyrir upphafs-máttarpunkta og upphafs-geðheilbrigðispunkta. Eins og GRE, hefur mannleg MÁT ekkert sett hámark og getur rísað endalaust. Töfraáhrif geta minnkað MÁT (tímabundið eða varanlega) og sumir töfrar eru knúnir af varanlegri fórn á MÁT-stigum. Fyrir krafta (sjá *Kafla fjögur: Kraftar*) er MÁT sennilega mikilvægasti eiginleikinn. MÁT er ráðlagður grundvöllur fyrir upphaflegu kraftavali, svo persóna með hærri MÁT mun hafa fleiri krafta (eða fleiri stig í þeim kröftum). Persóna sem MÁT-gildi nær 0 hefur misst sál sína og verður kattatónísk án nokkurs vilja eða lífskraftar.
 
-### Fimi (DEX)
+### Lipurð (LIP)
 
-Fimi mælir jafnvægi, lipurð, hraða og færni. Persónur treysta á DEX þegar þær bregðast við árás, klifra, vinna nákvæm verk eða hreyfa sig hljóðlega. Fimikastið (DEX×5) er eiginleikakast hans. Meiðsli eða taugasjúkdómar geta minnkað DEX, á meðan ströng þjálfun getur flýtt fyrir viðbrögðum og bætt jafnvægi. Persóna með DEX 0 er algjörlega óhreyfanleg.
+Lipurðargildi mælir jafnvægi, kvikræðni, hraða og fimi. Persónur treysta á LIP þegar þær bregðast við árás, klifra, vinna viðkvæma vinnu eða hreyfa sig laumulega. Lipurðarkastið (LIP×5) er eiginleikakast hans. Meiðsli eða taugasjúkdómar geta minnkað LIP, á meðan ströng þjálfun getur flýtt viðbrögðum og bætt jafnvægi. Persóna með LIP 0 er gjörsamlega óhreyfanleg.
 
-### Sjarmi (CHA)
+### Karisma (KAR)
 
-Sjarmi ákvarðar hversu geðþekk eða aðlaðandi persóna er öðrum, og byggist jafn mikið á nærveru, persónuleika og framkomu og einföldu líkamlegu útliti. Sjarmakastið (CHA×5) myndar eiginleikakast hans. Sjarmi er notaður til að mæla fyrstu kynni og gefur til kynna hversu fúsir aðrir verða til að umgangast einhvern, með líkamlegri aðdráttarafl eða grípandi persónuleika. Sjarma er hægt að auka með líkamsrækt, snyrtiaðgerðum eða vandaðri snyrtingu og siðfræði. Það gæti jafnvel verið bætt um lítið magn með eign á sérstaklega glæsilegum búnaði. Það er líka hægt að minnka hann með meiðslum eða sjúkdómum. Persóna með CHA 0 er annaðhvort algjörlega ógeðfelld, vekur viðbjóð hjá öllum sem hitta hana, eða hefur orðið svo ómerkileg að hún skráist varla.
+Karisma ákvarðar hversu geðfelld eða aðlaðandi persóna er öðrum, og byggist jafnmikið á návist, persónuleika og framkomu og einföldu líkamlegu útliti. Töfrabragðakastið (KAR×5) myndar eiginleikakast hans. Karisma er notað til að mæla fyrstu kynni og gefur til kynna hversu áhugasamir aðrir verða um að eiga samskipti við einhvern, með líkamlegri aðdráttarafl eða heillandi persónuleika. Karisma er hægt að hækka með líkamsrækt, snyrtiaðgerðum eða vandlegri notkun á snyrtingu og framkomu. Það gæti jafnvel verið bætt um lítið magn með eign á sérstaklega glæsilegum búnaði. Það er líka hægt að minnka með meiðslum eða sjúkdómi. Persóna með KAR 0 er annað hvort gjörsamlega viðbjóðsleg, vekur ógeð hjá öllum sem hitta hana, eða er orðin svo ómerkileg að hún skráist varla.
 
-> ### Menningarlegir eiginleikabreyta (Valkostur)
->
-> Sumar menningar gætu fengið breyta á grunn eiginleika, eins og SIZ. Þetta getur verið hugsanlega viðkvæmt efni. Leikstjórinn er hvattur til að veita slíka bónusa með varúð, og að jafna jákvæða bónusa við neikvæða, eða að jafna leikinn með því að gefa öllum menningarheimum jafngildan bónus, þó kannski á mismunandi eiginleika eða eiginleika. Það er ákveðið ekki ráðlagt að refsa INT, sama hver rökrétt réttlætingin virðist vera. Engum leikmanni ætti að refsa fyrir að velja ákveðna menningu. Það er einnig ráðlagt að þetta sé aðeins notað fyrir aðstæður þar sem slík aðgreining er almennt viðurkennd, svo sem í fantasíuheimum þar sem blóðlínur eru einstakar eða í vísindaskáldskap þar sem mannkynið hefur verið mótað af erfðabreytingum og hefur aðlagast umhverfi vetrarbrautarinnar.
+> ### Menningarlegir eiginleikabreytar (Valkostur)
+> 
+> Sumar menningar gætu fengið breyta á grunn-eiginleika, eins og STÆ. Þetta getur verið hugsanlega viðkvæmt efni. Leikstjóranum er hvatt til að veita slíka bónusa með varúð, og að jafna út jákvæða bónusa með neikvæðum, eða að jafna leikinn með því að gefa öllum menningarheimum sambærilegan bónus, þó kannski á ólíka eiginleika eða eigindi. Það er eindregið ekki mælt með því að refsa GRE, sama hvað augljós réttlætingin virðist vera. Enginn leikmaður ætti að vera refsað fyrir að velja ákveðna menningu. Það er einnig mælt með því að þetta sé aðeins notað fyrir umhverfi þar sem slíkur greinarmunur er almennt ásættanlegur, svo sem í fantasíuheimum þar sem ætterni er einstakt eða í vísindaskáldskaparumhverfi þar sem mannkynið hefur verið mótað af erfðabreytingum og hefur aðlagast vetrarbrautaumhverfinu.
 
 ## Eiginleikaköst
 
-Sumar áskoranir kortleggja ekki á innsæi við ákveðnar færnir. Getur veiðimaður haldið sér vakandi í felustöð alla nóttina að bíða eftir bráð sinni? Getur harðsvíraður rannsóknarlögreglumaður sett saman tælandi vísbendingu sem er falin í brotum sönnunargagna? Við þessar aðstæður getur leikstjórinn kallað á eiginleikakast: D100-kast gegn viðeigandi eiginleika, margfaldað með annarri tölu. Leikstjórinn ákveður hvaða margfaldara á að nota byggt á erfiðleika verkefnisins. Venjuleg eiginleikaköst nota margfaldara upp á ×5, þó að mjög erfið verkefni gætu krafist margfaldara upp á ×2, eða jafnvel verið byggð á eiginleikanum sjálfum sem prósentu. Fyrir frekari upplýsingar um erfiðleika verkefna og val á breytum, sjá *Kafli fimm: Kerfi*.
+Sumar áskoranir kortleggjast ekki innsæislega yfir á ákveðnar færnir. Getur veiðimaður haldið sér vakandi í felustað alla nóttina og beðið eftir bráð sinni? Getur harðsvíraður einkaspæjari púslað saman heillandi vísbendingunni sem felst í leifum sönnunargagna? Í þessum aðstæðum getur leikstjórinn kallað á eiginleikakast: D100-kast gegn viðeigandi eiginleika, margfaldað með annarri tölu. Leikstjórinn ákveður hvaða margfaldara á að nota út frá erfiðleika verkefnisins. Hefðbundin eiginleikaköst nota margfaldara upp á ×5, þótt afar erfið verkefni gætu krafist margfaldara upp á ×2, eða jafnvel verið byggð á eiginleikanum sjálfum sem prósentu. Fyrir nánari upplýsingar um verkefnaerfiðleika og val á breytum, sjá *Kafla fimm: Kerfi*.
 
-### Áreynslukast (STR×5)
+### Áreynslukast (STY×5)
 
-Flest aflraunastörf fela í sér að passa STR við SIZ hlutarins sem verið er að lyfta á viðnámstöflunni (sjá *Kafli fimm: Kerfi*). Í þeim tilvikum þegar SIZ-einkunn er ekki tiltæk eða erfitt er að ákvarða hana, notaðu Áreynslukast. Áreynsluköst má einnig nota sem auðvelda leið til að ákvarða hluti eins og hvort persóna getur dregið sig upp á brún. Eru þau útslitin í lok langrar göngu? Áreynslukast er fljótleg leið til að ákveða það.
+Flest afrek styrks fela í sér að passa STY við STÆ lyfta hlutarins á viðnámstöflunni (sjá *Kafla fimm: Kerfi*). Í tilvikum þegar STÆ-gildi er ekki tiltækt eða erfitt að ákvarða, notaðu Áreynslukast. Áreynsluköst má einnig nota sem auðvelda leið til að ákvarða hluti eins og hvort persóna geti dregið sig upp á brún. Eru þau útslitin í lok langrar göngu? Áreynslukast er fljótleg leið til að ákveða það.
 
-### Þolkast (CON×5)
+### Þolskraftskast (ÞOL×5)
 
-Byggt á CON, mæla Þolköst úthald. Notaðu Þolkast hvenær sem líkamlegur eða andlegur styrkur er í spurn. Til að telja upp nokkur dæmi, gæti Þolkast ákvarðað hvort persóna geti verið vakandi alla nóttina, eða þolað sjóveiki, illa undirbúinn mat eða sterkt áfengi án slæmra áhrifa.
+Byggt á ÞOL, mæla Þolskraftsköst þrek. Notaðu Þolskraftskast hvenær sem líkamlegur eða andlegur styrkur er í spurn. Til að telja upp nokkur dæmi, gæti Þolskraftskast ákvarðað hvort persóna geti haldið sér vakandi alla nóttina, eða þolað sjóveiki, illa undirbúinn mat eða sterkt vín án slæmra afleiðinga.
 
-### Hugmyndakast (INT×5)
+### Hugmyndakast (GRE×5)
 
-Hugmyndakast táknar getu til að gera klókar ágiskanir, upplýstar getgátur eða sanngjarnar ályktanir byggðar á engu nema athugun og hráum vitsmunum. Þegar engin færni virðist viðeigandi, getur Hugmyndakast sýnt skilning á hugmynd eða getu til að leysa úr þraut. Minni er einnig hluti af Hugmyndakastinu: notaðu Hugmyndakast til að muna mikilvægt smáatriði, rekja skref í gegnum völundarhús eða leggja á minnið langa formúlu.
+Hugmyndakast táknar getuna til að gera klókar ágiskanir, upplýstar grunsemdir eða sanngjarnar ályktanir byggðar á engu nema athugun og hreinum vitsmunum. Þegar engin færni virðist viðeigandi, getur Hugmyndakast sýnt skilning á hugmynd eða getuna til að leysa úr þraut. Minni er einnig hluti af Hugmyndakasti: notaðu Hugmyndakast til að muna mikilvægt smáatriði, rekja skref í gegnum völundarhús eða leggja á minnið langa formúlu.
 
-Leikstjórinn gæti líka leyft Hugmyndakast ef þú ert stopp, og hjálpað þér aftur á rétta braut með því að afhjúpa falda merkingu einhverrar vísbendingar sem þegar hefur fundist, eða látið þig vita að eitthvað „virðist ekki alveg rétt“ við ákveðna manneskju, stað eða hlut. Þessa tegund af Hugmyndakasti ætti aðeins að veita að geðþótta leikstjóra og er almennt ekki beðið um af leikmönnum.
+Leikstjórinn gæti líka leyft Hugmyndakast ef þú ert strandaglópur, komið þér aftur á réttan kjöl með því að afhjúpa falda merkingu einhverra nú þegar fundinna vísbendinga, eða látið þá vita að eitthvað „virðist ekki alveg rétt“ með ákveðna manneskju, stað eða hlut. Þessi tegund af Hugmyndakasti ætti aðeins að vera veitt eftir geðþótta leikstjóra og er almennt ekki beðið um af leikmönnum.
 
-Leikstjórinn gæti líka krafist Hugmyndakasts ef þú vilt láta persónuna þína hugsa eða hegða sér á hátt sem táknar þekkingu leikmanns á móti þekkingu persónu. Ef persóna er frumstæður veiðimaður sem hittir nútímatækni, til dæmis, gæti leikstjórinn krafist Hugmyndakasts fyrir hana til að geta skilið grunnhugtök hlutarins, jafnvel þótt leikmaðurinn viti sjálfkrafa hvað það er byggt á lýsingu hans.
+Leikstjórinn gæti líka krafist Hugmyndakasts ef þú vilt láta persónuna þína hugsa eða hegða sér á þann hátt sem táknar þekkingu leikmanns á móti þekkingu persónu. Ef persóna er frumstæður veiðimaður sem rekst á nútímatækni, til dæmis, gæti leikstjórinn krafist Hugmyndakasts svo hún geti skilið grunnhugtök hlutarins, jafnvel þótt leikmaðurinn viti sjálfkrafa hvað það er út frá lýsingu hans.
 
-### Heppniskast (POW×5)
+### Heppniskast (MÁT×5)
 
-Heppni er hæfileikinn til að vera á réttum stað á réttum tíma, láta hlutina ganga upp þrátt fyrir væntingar, eða ótrúlegur hæfileiki til að sleppa óskaddaður úr tilviljanakenndum hættum. Er persónan þín með þennan eina sérstaka hlut eða búnað? Mun vinalegur vegfarandi rétta hjálparhönd ef þeir eru strandaglópar við vegkantinn? Ræðst óhugnanlega veran á persónuna eða nærliggjandi leikstjórapersónu? Fellur persóna í gegnum veikt gólf, eða festir fötin sín á brotnu borði og sleppur við að steypast til dauða? Heppnisköst má nota til að svara öllum þessum spurningum. Árangursrík Heppnisköst geta skapað heppileg tilviljanakennd atvik við eðlilegar aðstæður eða bjargað einhverjum frá ákveðnum dauða í neyðartilvikum.
+Heppni er hæfileikinn til að vera á réttum stað á réttum tíma, láta hlutina ganga upp þrátt fyrir væntingar, eða dularfulla getuna til að sleppa við handahófskennda hættu óskaddaður. Er persónan þín með þann eina sérstaka hlut eða búnað hjá sér? Mun vinalegur vegfarandi rétta hjálparhönd ef þau eru strandaglópar við vegkantinn? Árásir skrímslið á persónuna eða nærliggjandi leikstjórnandapersónu? Fellur persóna í gegnum veikt gólf, eða festir fötin sín á flísum og sleppur við að hrapa til dauða? Heppnisköst má nota til að svara öllum þessum spurningum. Árangursrík Heppnisköst geta skapað heppileg tilviljanir við venjulegar aðstæður eða bjargað einhverjum frá vissri dauða í neyðartilvikum.
 
-### Fimikast (DEX×5)
+### Lipurðarkast (LIP×5)
 
-Hvenær sem farið er fram á listileika, jafnvægi eða fimleika og engin viðeigandi færni er til staðar, notaðu Fimikast til að mæla árangur. Fimikast gæti til dæmis ákvarðað hvort persóna geti haldið jafnvægi á dekki á skipi í ólgusjó, safnað saman öllum brotum af brotnu vasa í flýti, hlaupið með dýrmætan vökva án þess að sulla honum niður, eða gripið í vínviðinn á brún kletta áður en hún fellur niður.
+Hvenær sem afrek fimi, jafnvægis eða lipurðar er kallað á og engin viðeigandi færni er til staðar, notaðu Lipurðarkast til að mæla árangur. Lipurðarkast gæti til dæmis ákvarðað hvort persóna geti haldið jafnvægi á dekk á skipi í ólgusjó, safnað saman öllum brotum af brotnu vasi í flýti, hlaupið með dýrmætan elixir án þess að leka neinu, eða gripið vínviðinn á brún kletta áður en hún fellur.
 
-### Sjarmakast (CHA×5)
+### Töfrabragðakast (KAR×5)
 
-Notaðu Sjarmaköst til að úrskurða um samskiptaviðbrögð sem ekki falla undir núverandi færni. Að gera góð fyrstu kynni, tæla kunningja eða verða manneskjan sem hópur leitar fyrst til eftir leiðbeiningum eru allt góðir notkunarmöguleikar fyrir Sjarmakast. Ef persóna stendur fyrir utan tískuklúbb og vill komast inn, mun farsælt Sjarmakast láta hana taka eftir sér og hleypa henni í gegnum dyrnar.
+Notaðu Töfrabragðaköst til að dæma mannleg viðbrögð sem ekki falla undir núverandi færni. Að skilja eftir góð fyrstu kynni, tæla kunningja eða verða manneskjan sem hópur snýr sér fyrst að til leiðbeiningar eru allt góðir notkunarmöguleikar fyrir Karismakast. Ef persóna stendur fyrir utan næturklúbb og vill komast inn, mun árangursríkt Töfrabragðakast láta hana taka eftir sér og veifa henni í gegnum dyrnar.
 
 > ### Menntunareiginleikinn (Valkostur)
->
-> Sjö helstu eiginleikarnir duga fyrir flesta leiki, óháð stillingu, en Menntun (EDU), valfrjáls áttundi eiginleiki, er hægt að nota til að hjálpa til við að búa til upphafsfærnistig. EDU virkar best í nútíma eða framtíðarstillingum en hægt er að aðlaga hana auðveldlega að hvaða herferðarstilling sem er.
->
+> 
+> Sjö helstu eiginleikarnir þjóna flestum leikjum, óháð umhverfi, en Menntun (EDU), valkvæður áttundi eiginleiki, má nota til að hjálpa við að skapa upphafsfærnistig. EDU virkar best í nútíma eða framtíðarumhverfi en hægt er að aðlaga það auðveldlega að hvaða herferðarumhverfi sem er.
+> 
 > #### Menntun (EDU)
->
-> Menntun mælir skilning persónu á almennri þekkingu sem fengist hefur í gegnum alhliða menntakerfi eða einhverja aðra breiða námsaðferð. Það er ekki í staðinn fyrir sérstaka þekkingu um svið – heldur táknar það almenna þekkingu á heiminum. Hvort sem hún er fengin í gegnum formlegt nám, þjálfun eða erfiða reynslu, getur EDU einnig mælt hversu mörg ár persóna hefur þjálfast eða lært til að ná núverandi þekkingarstigi.
->
-> EDU jafngildir ekki sjálfkrafa 1 EDU-stigi = 1 ár í skóla. Það getur líka táknað almenna lífsþekkingu sem og einbeitt nám. Ekki öll ár í skóla eru menntandi, rétt eins og allur tími utan skóla þýðir ekki að ekkert sé lært. EDU er auðvelt að aðlaga að flestum stillingum – merking hennar er augljós í stillingum með stöðluðum menntakerfum. Í miðaldastillingu gæti hún táknað einkakennslu eða nám í háskólum, lýseum eða klaustrum, eða víðtæk ferðalög um framandi viðskiptaleiðir og til erlendra hafna.
->
-> Minnisleysi getur minnkað EDU, á meðan ár af erfiðu námi eða ákafri þjálfun eykur hana um +1. EDU 0 gefur til kynna tómarúm þekkingar á umheiminum, þó að þetta þýði ekki að allir séu nær minnislausir í herferðum þar sem þessi eiginleiki er ekki notaður. EDU á ekki við um dýr eða verur án EDU-eiginleika—þekking þeirra er annaðhvort eðlishvöt eða byggist á mismunandi forsendum.
->
-> Notkun EDU ætti einnig að vera paruð við Þekkingarkastið (EDU×5).
->
+> 
+> Menntun mælir skilning persónu á almennri þekkingu sem fengin er í gegnum alhliða menntakerfi eða einhverja aðra breiða námsaðferð. Hún er ekki í staðinn fyrir sérhæfða þekkingu um svið—í staðinn táknar hún almenna þekkingu á heiminum. Hvort sem hún er fengin með formlegu námi, þjálfun eða erfiðri reynslu, getur EDU einnig mælt hversu mörg ár persóna hefur þjálfast eða lært til að ná núverandi þekkingarstigi sínu.
+> 
+> EDU tengist ekki sjálfkrafa 1 EDU stig = 1 ár í skóla. Hún getur líka táknað almenna lífsþekkingu auk sérhæfðs náms. Ekki eru öll ár í skóla fræðandi, rétt eins og allur tími utan skóla þýðir ekki að ekkert sé lært. EDU er auðvelt að aðlaga flestum umhverfum—merking hennar er augljós í umhverfi með stöðluðum menntakerfum. Í miðaldaumhverfi gæti hún táknað einkakennslu eða nám í háskólum, lýseum eða klaustrum, eða víðtækar ferðir um framandi verslunarleiðir og til erlendra hafna.
+> 
+> Minnistap getur minnkað EDU, á meðan ár af erfiðu námi eða ákafri þjálfun eykur hana um +1. EDU 0 táknar tómarúm þekkingar á umheiminum, þótt þetta þýði ekki að allir séu nánast með minnisleysi í herferðum þar sem þessi eiginleiki er ekki notaður. EDU á ekki við um dýr eða verur án EDU-eiginleika—þekking þeirra er annað hvort eðlishvöt eða byggist á ólíkum forsendum.
+> 
+> Notkun á EDU ætti einnig að vera paruð með Þekkingarkastinu (EDU×5).
+> 
 > ### Þekkingarkastið (EDU×5) (Valkostur)
->
-> Þekkingarkastið nær yfir staðreyndir og fróðleik sem meðalmanneskjan veit sem „almenna þekkingu.“ Þekkingarköst má nota til að rifja upp mismunandi tegundir staðreynda, allt eftir stillingu og jafnvel menningu tiltekinnar persónu. Miðaldabóndi gæti notað Þekkingarkast til að muna nafn á göfugum lávarði eða smáatriði úr lífi dýrlinga, á meðan nútímaborgari í Bandaríkjunum myndi rifja upp mikilvæga forseta eða muna hvað gerist ef bleikja og ammoníak blandast saman. Þekkingarköst ættu sjaldan að koma í stað sérhæfðari Knowledge-færni, og fjalla eingöngu um staðreyndir. Að gera góða notkun á þeim staðreyndum er hlutverk INT.
+> 
+> Þekkingarkastið nær yfir staðreyndir og fróðleik sem meðalmanneskjan veit sem „almenna þekkingu“. Þekkingarköst má nota til að rifja upp ólíkar tegundir staðreynda, allt eftir umhverfi og jafnvel menningu tiltekinnar persónu. Miðaldabóndi gæti notað Þekkingarkast til að muna nafn aðalsmanns eða smáatriði úr lífi dýrlinga, á meðan nútímaborgari í Bandaríkjunum myndi muna mikilvæga forseta eða muna hvað gerist ef klór og ammoníak blandast. Þekkingarköst ættu sjaldan að taka sæti sérhæfðari þekkingarfærni, og fjalla eingöngu um staðreyndir. Að nýta þær staðreyndir vel er hlutverk GRE.
 
 ## Afleiddir eiginleikar
 
-Til viðbótar við eiginleika (og tilheyrandi eiginleikaköst þeirra), er persóna einnig skilgreind af safni afleiddra eiginleika, reiknaðir út frá eiginleikum þeirra. Ef meiðsli, töfrar eða aðrir þættir auka eða minnka eiginleika, breytast allir eiginleikar sem leiddir eru af þeim eiginleika strax til að endurspegla nýja gildið.
+Til viðbótar við eiginleika (og tilheyrandi eiginleikaköst), er persóna einnig skilgreind af mengi afleiddra eiginleika, reiknaðir út frá eiginleikum þeirra. Ef meiðsli, töfrar eða aðrir þættir auka eða minnka eiginleika, breytast allir eiginleikar sem afleiddir eru af þeim eiginleika strax til að endurspegla nýja gildið.
 
-Til dæmis, *persónan þín (CON 16, SIZ 14, HP 15) verður fyrir banvænu eitri, sem minnkar CON-gildi hennar í 10. Hámarks lífspunktar persónunnar falla strax úr 15 (16+14=30, deilt í 15) í 12 (10+14=24, deilt í 12). Að auki fellur heildarfjöldi alvarlegra sára úr 8 í 6. Ef sár hefðu þegar fært persónuna þína niður fyrir 12 lífspunkta, myndi hún ekki taka neinn frekari skaða, en hún er takmörkuð við 12 lífspunkta hámarkið þar til upprunaleg CON er endurheimt.*
+Til dæmis, *persónan þín (ÞOL 16, STÆ 14, LP 15) verður fyrir banvænu eitri, sem minnkar ÞOL-gildi hennar í 10. Hámarks lífpunktar persónunnar þinnar falla strax úr 15 (16+14=30, deilt í 15) í 12 (10+14=24, deilt í 12). Að auki fellur heildarfjöldi alvarlegra sára úr 8 í 6. Ef sár hefðu þegar fært persónuna þína undir 12 lífpunktar, tæki hún ekki neinn viðbótarskaða, en hún er takmörkuð við 12 lífpunktar hámarkið þar til upprunalegt ÞOL hefur verið endurheimt.*
 
-### Skaðabreyta (STR+SIZ, sjá töflu)
+### Skaðabreyta (STY+STÆ, sjá töflu)
 
-Stærri, sterkari persónur og verur eru öflugri í líkamlegum bardaga og valda meiri skaða en meðaltal með hverju höggi. Smærri, veikari verur valda minni skaða með árásum sínum. Skaðabreyta endurspeglar þetta forskot, tjáð í formi skaðateninga sem bætt er við eða dregin frá skaða farsælra árása.
+Stærri, sterkari persónur og verur eru voldugri í líkamlegum bardaga, valda meiri skaða en meðaltalið með hverju höggi. Smærri, veikari verur valda minni skaða með árásum sínum. Skaðabreytan endurspeglar þennan kost, tjáð í formi skaðateninga sem bætt er við eða dregin frá skaða árangursríkra árása.
 
-Persóna bætir fullri skaðabreytingu sinni við öll högg með slagsmálum eða nærbaráttuvopnum. Ef um neikvæða skaðabreytingu er að ræða, dragðu viðeigandi teninga frá öllum völdum skaða. Ef heildin er 0 eða minna er höggið of mjúkt til að valda skaða. Árás gerir aldrei neikvæðan skaða, svo ef breytan fer undir 0, teldu það sem 0.
+Persóna bætir fullri skaðabreytu sinni við öll högg með slagsmálum eða nærsviðsvopnum. Í tilviki neikvæðrar skaðabreytu, dragðu viðeigandi teninga frá öllum völdum skaða. Ef heildin er 0 eða minna, er höggið of mjúkt til að valda nokkrum skaða. Árás veldur aldrei neikvæðum skaða, svo ef breytan fer undir 0, teldu hana sem 0.
 
-Flugskeyti leyfa persónu ekki að nota fulla skaðabreytingu sína. Ef skaðabreyta persónunnar þinnar er jákvæð, deildu niðurstöðunum í tvennt (námundað upp) þegar notað er fleygt vopn eða boga. Ef skaðabreyta er neikvæð, haltu breytunni eins og hún er. Sjálfknúin vopn (skotvopn, orkuflugskeyti osfrv.) fá ekki skaðabreytingu.
+Skotvopn leyfa ekki persónu að nota fulla skaðabreytu sína. Ef skaðabreyta persónunnar þinnar er jákvæð, deildu niðurstöðunum til helminga (námundað upp) þegar þú notar kastað vopn eða boga. Ef skaðabreytan er neikvæð, haltu breytunni eins og hún er. Sjálfknúin vopn (skotvopn, orkuskotvopn o.s.frv.) fá ekki skaðabreytu.
 
-Til að reikna út skaðabreytinguna, bættu STR og SIZ persónunnar saman og finndu niðurstöðuna í **Skaðabreyta-töflunni** (hér á eftir).
+Til að reikna út skaðabreytuna, bættu STY og STÆ persónunnar saman og finndu niðurstöðuna á **Skaðabreyta**-töflunni (hér á eftir).
 
 ##### Skaðabreyta
 
-| STR+SIZ | Skaðabreyta | STR+SIZ | Skaðabreyta |
+| STY+STÆ | Skaðabreyta | STY+STÆ | Skaðabreyta |
 | :---- | :---- | :---- | :---- |
 | 2–12 | –1D6 | 73–88 | +4D6 |
 | 13–16 | –1D4 | 89–104 | +5D6 |
@@ -403,127 +403,123 @@ Til að reikna út skaðabreytinguna, bættu STR og SIZ persónunnar saman og fi
 | 41–56 | +2D6 | 153–168 | +9D6 |
 | 57–72 | +3D6 | Hver +16 | Viðbótar +1D6 |
 
-### Reynslubónus (1/2 INT)
+### Reynslubónus (1/2 GRE)
 
-Því gáfaðri sem persóna er, því hraðar getur hún lært, sérstaklega undir álagi. Til að ákvarða reynslubónus þeirra, deildu INT með 2, námundað upp. Bættu reynslubónusnum við lærdómskastið fyrir hverja reynsluathugun sem persónan þín gerir til að bæta færni eða eiginleika. Ráðfærðu þig við *Kafli fimm: Kerfi* og *Færnibætur*.
+Því gáfaðri sem persóna er, því hraðar getur hún lært, sérstaklega undir álagi. Til að ákvarða reynslubónus hennar, deildu GRE hennar með 2, námundað upp. Bættu reynslubónusnum við lærdómskastið fyrir hvert reynslupróf sem persónan þín gerir til að bæta færni eða eiginleika. Ráðfærðu þig við Kafla fimm: Kerfi og Færnibætur.
 
-### Lífspunktar (Meðaltal CON og SIZ)
+### Lífpunktar (Meðaltal af ÞOL og STÆ)
 
-Lífspunktar tákna getu persónunnar þinnar til að þola refsingu og líkamlega meiðsli. Þegar skaði er tekinn, dragðu lífspunkta frá núverandi heild. Reiknaðu hámarks lífspunkta með því að bæta CON- og SIZ-gildum persónunnar saman, deildu síðan heildinni með 2. Námundaðu allar brotahluta upp.
+Lífpunktar tákna getu persónunnar þinnar til að standast refsingu og líkamleg meiðsli. Þegar þú tekur skaða, dragðu lífpunktar frá núverandi heild. Reiknaðu hámarks lífpunktar með því að bæta ÞOL- og STÆ-gildum persónunnar saman, deildu síðan heildinni með 2. Námundaðu allar brotahluta upp.
 
-Persónan þín missir meðvitund þegar lífspunktar þeirra lækka í 2 eða minna, og ef lífspunktar þeirra ná 0, deyja þau í lok næstu lotu. Persóna getur misst fleiri lífspunkta en hún hefur, svo fylgstu með öllum neikvæðum gildum. Tapaðir lífspunktar gróa náttúrulega með 1D3 stigum á viku í leik, þótt læknishjálp geti flýtt fyrir bata. Sjá *Skaði & Græðsla* og *Græðsla náttúrulega*.
+Persónan þín missir meðvitund þegar lífpunktar hennar lækka í 2 eða minna, og ef lífpunktar hennar ná 0, deyr hún í lok eftirfarandi lotu. Persóna getur misst fleiri lífpunktar en þú hefur, svo fylgdu með öllum neikvæðum gildum. Týndir lífpunktar gróa náttúrulega með 1D3 punktum á hverja leikviku, þótt læknishjálp geti flýtt fyrir bata. Sjá Skaði & Gróun og Náttúruleg gróun.
 
-### Alvarleg sár (1/2 af HP)
+### Alvarleg sár (1/2 af LP)
 
-Deildu lífspunktahild persónunnar í tvennt, námundaðu upp ef þörf krefur. Þessi heild er stig alvarlegra sára þeirra. Ef persónan þín tekur þetta magn af skaða frá einu sári, gæti hún þjáðst af hræðilegum aukaverkunum auk einfalds lífspunktataps. Sjá *Alvarleg sár* í *Kafli sex: Bardagi*.
+Deildu heildarfjölda lífpunktar persónunnar þinnar til helminga, námundaðu upp ef þarf. Þessi heild er stig hennar fyrir alvarleg sár. Ef persónan þín tekur þetta magn af skaða frá einu sári, gæti hún þjáðst af hrollvekjandi aukaverkunum auk einfalds lífpunktataps. Sjá Alvarleg sár í *Kafla sex: Bardagi*.
 
-### Kraftpunktar (Hámark = POW)
+### Máttarpunktar (Hámark = MÁT)
 
-Kraftpunktar (PP) tákna lífsessens persónunnar, varasjóði þeirra af andlegri eða lífsorku. Persónan þín eyðir kraftpunktum til að kasta eða standast galdra. Hámarks kraftpunktar persónunnar eru venjulega jafnir POW-eiginleika þeirra. Almennt endurnýjast eyttir kraftpunktar með 1 á klukkustund af svefni eða algjörri hvíld, eða 1 á hverjar tvær klukkustundir af eðlilegri virkni. Sjá töfluna **Endurnýjunarhraði kraftpunkta** fyrir hraða fyrir hærri POW-stig. Ef persónan þín er upptekin af erfiðri virkni getur hún ekki endurheimt kraftpunkta. Þegar kraftpunktahild persónunnar fellur í 0, er hún algjörlega útbrunnin og yfirliðin þar til hún endurheimtir að minnsta kosti 1 kraftpunkt. Ekki er hægt að hafa neikvæða kraftpunkta.
+Máttarpunktar (PP) tákna lífsessens persónunnar, varasjóði andlegrar eða lífsorku. Persónan þín eyðir máttarpunktum til að kasta eða standast töfraformúlur. Hámarks máttarpunktar persónunnar þinnar eru venjulega jafnir MÁT-eiginleikanum. Almennt endurnýjast eyddir máttarpunktar með 1 á hverja klukkustund af svefni eða algjörri hvíld, eða 1 fyrir hverjar tvær klukkustundir af eðlilegri virkni. Sjá **Máttarpunktar Endurnýjunarhraði**-töfluna fyrir hraða fyrir hærri MÁT-gildi. Ef persónan þín stundar kröftuga virkni getur hún ekki endurheimt máttarpunkta. Þegar máttarpunktar persónunnar þinnar fara niður í 0 er hún algjörlega örmagna og yfirliðin þar til hún endurheimtir að minnsta kosti 1 máttarpunkt. Maður getur ekki átt neikvæða máttarpunkta.
 
-##### Endurnýjunarhraði kraftpunkta
+##### Máttarpunktar Endurnýjunarhraði
 
-| Hámarks PP | Sofandi | Vakandi |
+| Hámark PP | Sofandi | Vakandi |
 | :---- | :---- | :---- |
 | 1–24 | 1 á klst | 1 á 2 klst |
 | 25–48 | 2 á klst | 1 á klst |
 | 49–72 | 3 á klst | 1 á 40 mín |
 | 73–96 | 4 á klst | 1 á 30 mín |
-| 97+ | +1 á klst ofan á ofangreint | +1 á klst ofan á ofangreint |
+| 97+ | +1 á klst við ofangreint | +1 á klst við ofangreint |
 
-Ólíkt lífspunktum eða þreytupunktum geta kraftpunktar klifrað yfir hámarkið í stuttan tíma við ákveðnar aðstæður. Eins og tekið er fram, ef persónan þín fær viðbótar kraftpunkta (venjulega með notkun á krafti), getur hún geymt allt að tvisvar sinnum POW-eiginleika sinn í auka kraftpunktum. Allir kraftpunktar umfram það glatast. Ef persónan þín notar einhverja kraftpunkta á meðan hún er yfir eðlilegu hámarki, verða þessir að koma frá auka kraftpunktunum fyrst. Þessir auka kraftpunktar eru ekki endurnýjaðir og endurnýjast ekki eins og venjulega og hverfa algjörlega eftir nætursvefn eða viðeigandi tímamót sem leikstjórinn ákveður.
+Ólíkt lífpunktum eða þreytupunktum geta máttarpunktar klifrað yfir hámarkið í stuttan tíma við ákveðnar aðstæður. Eins og tekið er fram, ef persónan þín fær viðbótar máttarpunkta (venjulega með notkun krafts), getur hún geymt allt að tvöfalt MÁT-eiginleika sinn í aukamáttarpunktum. Allir máttarpunktar umfram það tapast. Ef persónan þín notar einhverja máttarpunkta á meðan hún er yfir eðlilegu hámarki, verða þessir að koma frá aukamáttarpunktunum fyrst. Þessir aukamáttarpunktar eru ekki endurnýjaðir og endurnýjast ekki eins og venjulega og hverfa algjörlega eftir nætursvefn eða viðeigandi tímamót sem leikstjórinn ákveður.
 
-Hlutir sem geyma kraftpunkta og leyfa notandanum að nota geymdu kraftpunktana teljast ekki á móti þessari heild, svo lengi sem kraftpunktarnir eru ekki geymdir í eigin kraftpunktavarasjóði notandans. Í flestum tilfellum eru kraftpunktarnir notaðir beint úr varasjóði hlutarins og hafa ekki áhrif á eigin kraftpunkta notandans. Sjá *Kafli átta: Búnaður* fyrir meira um hluti með kraftpunktaforða.
+Hlutir sem geyma máttarpunkta og leyfa notandanum að nota geymdu máttarpunktana teljast ekki á móti þessari heild, svo framarlega sem máttarpunktarnir eru ekki geymdir í eigin máttarpunktavarasjóði notandans. Í flestum tilfellum eru máttarpunktarnir notaðir beint úr varasjóði hlutarins og hafa ekki áhrif á eigin máttarpunkta notandans. Sjá Kafla átta: Búnaður fyrir meira um hluti með máttarpunktavarasjóðum.
 
-### Hreyfigeta (MOV)
+### Hreyfing (MOV)
 
-Allar mannlegar og mannlíkar persónur byrja með hreyfigetu (MOV) upp á 10. Þetta mælir hversu mikla vegalengd persónan þín getur hreyft sig í bardagalotu. Eining er sveigjanleg fjarlægð og getur verið á bilinu 1–5 metrar, allt eftir því hversu hratt persónan þín er að hreyfa sig.
+Allar mannlegar og mannlegar persónur byrja með hreyfingareiginleika (MOV) upp á 10. Þetta mælir hversu mikla vegalengd persónan þín getur hreyft sig í bardagalotu. Eining er sveigjanleg vegalengd og getur verið á bilinu 1–5 metrar, allt eftir því hversu hratt persónan þín hreyfir sig.
 
-* Gangur er 1 metri á MOV.
+* Gangur er 1 metri á hverja MOV.
 
-* Hlaup er allt að 5 metrar á MOV.
+* Hlaup er allt að 5 metrar á hverja MOV.
 
-* Meðalhraði hreyfingar í bardaga er 3 metrar (jardar) á einingu, sem þýðir að að meðaltali hreyfist persónan þín 30 metra á bardagalotu.
+* Meðalhraði hreyfingar í bardaga er 3 metrar á einingu, sem þýðir að að meðaltali hreyfir persónan þín sig 30 metra í bardagalotu.
 
-Hreyfihraðar eru lýstir frekar í **Hreyfihraði** í *Kafli fimm: Kerfi*.
+Hreyfihraða er lýst nánar í **Hreyfihraði** í Kafla fimm: Kerfi.
 
-> ### Aðrar tegundir af kraftpunktum (Valkostur)
->
-> Vegna fjölbreytileika krafta í *Kafli fjögur: Kraftar*, er „kraftpunktar“ notað í stað annarra nafna eins og „tímabundinn kraftur“ eða „galdrapunktar“. Ef þess er óskað getur leikstjórinn breytt nafninu í „orkupunktar“ eða „galdrapunktar“ eða hvað sem er viðeigandi fyrir stillinguna. Ef önnur kerfi en töfrar eða galdrar eru notuð er ráðlagt að halda þeim nefndum kraftpunktar, til að forðast rugling. Ráðlagt er að nota ekki tvö mismunandi nöfn fyrir kraftpunkta í sama leik.
+> ### Aðrar tegundir máttarpunkta (Valkostur)
+> 
+> Vegna fjölbreytileika krafta í *Kafla fjögur: Kraftar*, er „máttarpunktar“ notað í stað annarra heita eins og „tímabundinn máttur“ eða „töfrapunktar“. Ef óskað er getur leikstjórinn breytt heitinu í „orkupunktar“ eða „töfrapunktar“ eða hvað sem er viðeigandi fyrir umhverfið. Ef önnur kerfi en töfrar eða galdrar eru notuð, er mælt með því að halda þeim nefndum máttarpunktum, til að forðast rugling. Ráðlagt er að nota ekki tvö mismunandi heiti á máttarpunktum í sama leik.
 
-> ### Samtals lífspunktar (Valkostur)
->
-> Fyrir harðgerðari leikmannapersónur sem geta lifað af talsvert meiri skaða, notaðu CON+SIZ til að ákvarða lífspunkta, án þess að deila með 2. Þetta leiðir til persóna sem geta séð um sig vel í bardaga, tekið meiðsli án mikilla vandræða, og gerir alvarleg sár mun sjaldgæfari. Meiðsli af völdum sérstakra og mikilvægra árangra eru mun ólíklegri til að drepa persónur strax. Þetta valfrjálsa kerfi er auðvelt að nota með lífspunktum á líkamshluta kerfinu, sem eykur líkurnar á því að persónur haldist með limina, og öfugt.
->
-> Til að draga skýra línu á milli leikmannapersóna og veikari „fallbyssufóðurs“-leikstjórapersóna, gæti leikstjórinn látið aðeins leikmannapersónur og mikilvægar leikstjórapersónur nota lífspunkta sem jafngilda CON+SIZ, þar sem allar aðrar leikstjórapersónur hafa lífspunkta byggða á (CON+SIZ)/2. Þetta gefur leikmannapersónum verulegt forskot og gerir þeim kleift að lifa af fleiri en nokkur góð meiðsli. Það gerir líka ráð fyrir leikmannapersónum sem geta tekist á við mikinn fjölda leikstjórapersóna án verulegs ótta við að vera drepnar af einu mikilvægu höggi.
+> ### Heildarlífpunktar (Valkostur)
+> 
+> Fyrir harðgerðari leikmannapersónur sem geta lifað af talsvert meiri skaða, notaðu ÞOL+STÆ til að ákvarða lífpunktar, án þess að deila með 2. Þetta leiðir til persóna sem geta séð um sig vel í bardaga, tekið meiðsli án mikilla vandræða, og gerir alvarleg sár miklu sjaldgæfari. Meiðsli af völdum sérstakra og mikilvægra árangra eru miklu ólíklegri til að drepa persónur beint. Þetta valkvæða kerfi er auðvelt að nota með lífpunktar eftir líkamshluta-kerfinu, sem eykur líkurnar á að persónur haldist tengdar útlimum sínum, og öfugt.
+> 
+> Til að draga skýran greinarmun á leikmannapersónum og veikari „fallbyssufóðri“ leikstjórnandapersónum, gæti leikstjórinn látið aðeins leikmannapersónur og mikilvægar leikstjórnandapersónur nota lífpunktar jafna ÞOL+STÆ, þar sem allar aðrar leikstjórnandapersónur hafa lífpunktar byggða á (ÞOL+STÆ)/2. Þetta gefur leikmannapersónum verulegan kost og leyfir þeim að lifa af fleiri en nokkur góð meiðsli. Það gerir einnig kleift að leikmannapersónur geti tekist á við mikinn fjölda leikstjórnandapersóna án verulegrar ótta við að vera drepnar af einu mikilvægu höggi.
 
-> ### Lífspunktar eftir líkamshluta (Valkostur)
->
-> Fyrir ítarlegri bardaga er lífspunktum skipt á milli líkamshluta persónunnar. Ef árás er farsæl ákvarðar D20-kast hvar höggið lendir. Ef notað er valfrjálsa líkamshlutakerfið (sjá **Líkamshlutar**), er lífspunktum persónunnar skipt á milli hinna ýmsu líkamshluta. Notaðu eftirfarandi formúlu fyrir mannlíkar verur, námundað upp fyrir hvern hluta:
->
-> | Staðsetning | Lífspunktagildi |
+> ### Lífpunktar eftir líkamshluta (Valkostur)
+> 
+> Fyrir nánari bardaga er lífpunktum skipt á milli líkamshluta persónunnar þinnar. Ef árás heppnast, ákvarðar D20-kast hvar höggið lendir. Ef notað er valkvæða líkamshlutakerfið (sjá **Líkamshlutar**), er lífpunktum persónunnar þinnar skipt á milli ýmissa líkamshluta hennar. Notaðu eftirfarandi formúlu fyrir mannverur, námundað upp fyrir hvern stað:
+> 
+> | Staðsetning | Lífpunktagildi |
 > | :---- | :---- |
-> | Fótur, Kviður, Höfuð | 1/3 af heildarlífspunktum |
-> | Brjóstkassi | 4/10 af heildarlífspunktum |
-> | Hönd | 1/4 af heildarlífspunktum |
->
-> Dreifing lífspunkta mannlíkra vera er gefin hér að neðan byggt á hámarks lífspunktum.
->
+> | Fótur, Kviður, Höfuð | 1/3 heildarlífpunktar |
+> | Brjóstkassi | 4/10 heildarlífpunktar |
+> | Hönd | 1/4 heildarlífpunktar |
+> 
+> Dreifing lífpunktar mannveru er veitt hér að neðan byggð á hámarks lífpunktum.
+> 
 > | Staðsetning | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 > | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-> | Hver fótur | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+> | Hvor fótur | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > | Kviður | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > | Brjóstkassi | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
-> | Hver hönd | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
+> | Hvor hönd | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
 > | Höfuð | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
->
-> Summan af lífspunktum persónunnar eftir staðsetningu fer yfir hámarks lífspunkta hennar, en hvenær sem persóna er særð er rullaður skaði dreginn frá bæði lífspunktahild þeirrar staðsetningar og hámarks lífspunktum persónunnar.
->
-> Skaði sem fer yfir heildarlífspunkta staðsetningar gerir hana ónothæfa. Skaði sem jafngildir tvisvar sinnum heildarlífspunktum staðsetningar kremur eða sker hana af. Sjá **Skaði á líkamshluta**.
->
-> **Til dæmis,** persónan þín hefur 14 lífspunkta, með 5 lífspunkta í hvorum fæti, 5 lífspunkta í kvið, 6 lífspunkta í brjóstkassa, 4 lífspunkta í hvorri hönd, og 5 lífspunkta í höfðinu. Þó að lífspunktar þeirra á öllum stöðum séu samtals 34, mun persónan deyja ef hún hlýtur alls 14 lífspunkta skaða.
->
-> **Alvarleg sár**-kerfið er ekki auðveldlega samhæft við líkamshlutakerfið og ætti leikstjóri að velja að nota valfrjálsu líkamshlutana og **Skaði eftir líkamshluta**-kerfin, ætti alvarlegra sára kerfið að vera fellt niður eða aðlagað verulega, kannski með eðli alvarlegu sáranna valið af leikstjóra þar sem við á.
+> 
+> Summan af lífpunktum persónunnar þinnar eftir staðsetningu fer yfir hámarks lífpunktar hennar, en hvenær sem persóna er særð, er kastaður skaði dreginn frá bæði lífpunktatölu þess staðar og hámarks lífpunktum persónunnar þinnar.
+> 
+> Skaði sem fer yfir heildarlífpunktar staðsetningar gerir hana ónothæfa. Skaði sem jafngildir tvisvar sinnum lífpunktatölu staðsetningar kremur eða sker hana af. Sjá **Skaði eftir líkamshluta**.
+> 
+> **Til dæmis,** persónan þín hefur 14 lífpunktar, með 5 lífpunktar í hvorum fæti, 5 lífpunktar í kviðnum, 6 lífpunktar í brjóstkassanum, 4 lífpunktar í hvorri hönd og 5 lífpunktar í höfðinu. Jafnvel þótt lífpunktar þeirra á öllum stöðum séu samtals 34, mun persónan þín deyja ef hún þjáist af samtals 14 lífpunktum af skaða.
+> 
+> **Alvarleg sár**-kerfið er ekki auðveldlega samhæft við líkamshlutakerfið og ætti leikstjóri að velja að nota valkvæða líkamshluta og **Skaði eftir líkamshluta**-kerfi, ætti að útrýma alvarlegra sára-kerfinu eða aðlaga það verulega, kannski með eðli alvarlegra sára valið af leikstjóra þar sem við á.
 
-### Þreytupunktar og Geðheilbrigðispunktar (Valkostur)
+### Þreytupunktar og geðheilbrigðispunktar (Valkostur)
 
-Sum valfrjáls kerfi og kraftar vísa til þreytupunkta og geðheilbrigðispunkta. Fyrir ítarlegra burðargetu- og þreytukerfi ætti leikstjórinn að nota þreytupunkta (lýst hér að neðan). Leikir byggðir á hryllingi, guðlastandi galdra, eða ólýsanlegum grimmdarverkum munu treysta mikið á notkun geðheilbrigðiskerfisins (einnig hér að neðan).
+Sum valkvæð kerfi og kraftar vísa til þreytupunkta og geðheilbrigðispunkta. Fyrir nánara kerfi um byrðar og þreytu ætti leikstjórinn að nota þreytupunkta (lýst hér að neðan). Leikir byggðir á hrollvekjum, guðlastandi göldrum eða ólýsanlegri grimmd munu treysta mikið á notkun geðheilbrigðiskerfisins (einnig hér að neðan).#### Þreytustig (Hámark = STY + ÞOL)
 
-#### Þreytupunktar (Hámark = STR + CON)
+**Þreytustig** (ÞS) mæla úthald persónunnar, svo sem hversu lengi hún getur stundað erfiðisvinnu áður en hún örmagnast. Hámarksþreytustig persónunnar jafngilda STY + ÞOL hennar. Persónan eyðir 1 þreytustigi í hverri bardagalotu við erfiða virkni (nærviðureign, sund, skokk, klifur, o.s.frv.). Hlaup eða erfiðisvinna kostar 1 þreytustig á hverja umferð. Neyðargöngur kosta 1 þreytustig á klukkustund. Ólíkt heilsu- og máttarstigum getur persónan haldið áfram að athafna sig með neikvæð þreytustig.
 
-**Þreytupunktar** (FP) mæla úthald persónunnar, svo sem hversu lengi hún getur stundað stranga virkni áður en þreyta setur inn. Hámarks þreytupunktar persónunnar eru jafnir STR+CON. Persónan þín eyðir 1 þreytupunkti á bardagalotu af strangri virkni (nærbarátta, sund, skokk, klifur, osfrv.). Spretthlaup eða erfið líkamleg vinna kostar 1 þreytupunkt á lotu. Neyðargöngur kosta 1 þreytupunkt á klukkustund. Ólíkt lífspunktum og kraftpunktum getur persónan þín haldið áfram að starfa með neikvæða þreytupunkta.
+Þegar persónan fer niður fyrir 0 þreytustig hlýtur hún –1% refsingu fyrir hvert neikvætt þreytustig á öll hlutgengis-, eiginleika- og viðnámsköst. Þegar heildarfjöldi neikvæðra þreytustiga persónunnar jafngildir grunnþreytugildi hennar (STY + ÞOL), verður hún óvinnufær af þreytu og getur ekki framkvæmt neinar athafnir. Örmagna persóna gæti fallið í yfirlið (eftir mati spilastjóra), og jafnvel þótt hún haldi meðvitund getur hún ekki athafnað sig fyrr en þreytustig hennar endurheimtast í jákvæða tölu. Burðargetugildi (ENC) persónunnar hefur einnig áhrif á grunnþreytugildi hennar. Sjá **Burðargeta**.
 
-Þegar persónan þín dettur niður fyrir 0 þreytupunkta, þjáist hún af refsingu upp á –1% á hvern neikvæðan þreytupunkt á öll færni-, eiginleika- og viðnámsköst. Þegar neikvæð heildarfjöldi þreytupunkta persónunnar jafngildir grunnþreytugildi hennar (STR+CON), er hún óvinnufær vegna þreytu, ófær um athöfn. Útbrunnin persóna gæti fallið í yfirlið (geðþótta leikstjóra), og jafnvel þótt hún haldist vakandi getur hún ekki starfað fyrr en þreytupunktagildi hennar endurnýjast í jákvæða tölu. Burðargeta persónunnar (ENC) hefur einnig áhrif á grunnþreytugildi hennar. Sjá **Burðargeta**.
-
-Persónan þín endurheimtir 1 þreytupunkt á hverri mínútu (5 lotur) þar sem hún eyðir ekki þreytupunktum. Hvíld, gangur á hægum hraða, eða reið á dýri eða farartæki eyðir ekki þreytu. Meðalpersóna jafnar sig úr 0 í heildarfjölda þreytupunkta á 20 mínútum (miðað við STR 10, CON 10, og 1 þreytupunkt endurheimtan á hverri mínútu hvíldar).
+Persónan endurheimtir 1 þreytustig á hverri mínútu (5 umferðir) þar sem hún eyðir ekki þreytustigum. Hvíld, ganga á hægum hraða eða að ríða skepnu eða ferðast í farartæki eyðir ekki þreytu. Meðalpersóna jafnar sig úr 0 upp í full þreytustig á 20 mínútum (að því gefnu að STY sé 10, ÞOL sé 10, og 1 þreytustig endurheimtist á hverri mínútu hvíldar).
 
 #### Einföld þreyta
 
-Fyrir einfaldari útgáfu af þreytu sem eyðir þreytupunktum algjörlega, gæti leikstjórinn lýst því yfir að eftir einhverja mikla áreynslu eða öfgafulla líkamlega raun, sé persónan þín þreytt. Hún er annaðhvort tilbúin í slaginn, eða hún er þreytt. Leikstjórinn gæti leyft Þolkast til að sleppa við að vera þreyttur eftir tímabil líkamlegrar áreynslu.
+Fyrir einfaldari útgáfu af þreytu sem sleppir þreytustigum með öllu, getur spilastjórinn lýst því yfir að eftir mikið átak eða erfiða líkamlega raun sé persónan þreytt. Hún er annaðhvort tilbúin til athafna eða hún er þreytt. Spilastjórinn gæti leyft Úthaldskast til að sleppa við að verða þreyttur eftir tímabil líkamlegrar áreynslu.
 
-Með þessari aðferð verður persónan þín þreytt eftir að hafa eytt CON×3 ótrufluðum bardagalotum í bardaga eða erfiðri líkamlegri virkni. Eftir það er persónan þín sjálfkrafa þreytt, og öll færniköst eru *Erfið*.
+Með þessari aðferð verður persónan þreytt eftir að hafa eytt ÞOL×3 samfelldum bardagalotum í orustu eða erfiðri líkamlegri virkni. Eftir það er persónan sjálfkrafa þreytt og öll hlutgengisköst eru *Erfið*.
 
-Eftir að hafa eytt CON×4 ótrufluðum bardagalotum í bardaga eða erfiðri líkamlegri virkni, gerir persónan þín allar færnir sínar eins og þær væru 1/4 af venjulegu færnigildi og verður að gera árangursríkt Þolkast til að gera eitthvað líkamlegt áður en hægt er að reyna færnigildið yfirhöfuð.
+Eftir að hafa eytt ÞOL×4 samfelldum bardagalotum í orustu eða erfiðri líkamlegri virkni, gerir persónan öll hlutgengisköst sín eins og þau væru 1/4 af eðlilegu hlutgengiseinkunninni og verður að ná Úthaldskasti til að gera eitthvað líkamlegt áður en hlutgengiseinkunnin er yfirhöfuð reynd.
 
-Eftir CON×10 lotur af slíkri virkni er persónan þín algjörlega útbrunnin, og varla fær um að lyfta vopninu sínu, standa upprétt án einhvers að styðja sig við, osfrv. Á þessum tímapunkti verður persónan þín að gera *Erfitt* Þolkast til að gera einhverja grunnathöfn, og leikstjórinn gæti úrskurðað að hvaða færnikast sem er sé *Ómögulegt* eða takmarkað við POW×1 persónunnar.
+Eftir ÞOL×10 umferðir af slíkri virkni er persónan algjörlega örmagna og er varla fær um að lyfta vopni sínu, standa upprétt án stuðnings, o.s.frv. Á þessum tímapunkti verður persónan að gera *Erfitt* Úthaldskast til að framkvæma hvers kyns einfalda athöfn og spilastjórinn gæti úrskurðað að hvert það hlutgengiskast sé *Ómögulegt* eða takmarkað við MÁT×1 persónunnar.#### Geðheilbrigðispunktar (Hámark = MÁT×5)
 
-#### Geðheilbrigðispunktar (Max = POW×5)
+Eins og lýst er í **Geðheilbrigði** (sjá tíunda kafla: Umhverfi), tákna **geðheilbrigðispunktar** (SAN) andlegan og tilfinningalegan styrk persónunnar, sem og getu hennar til að standast áföll, hrylling og óskiljanlega illsku alheimsins. Upphaflegir SAN-punktar persónunnar eru jafnir MÁT×5.
 
-Eins og lýst er í **Geðheilsa** (sjá *Kafli tíu: Stillingar*), tákna **geðheilbrigðispunktar** (SAN) andlegan og tilfinningalegan styrk persónunnar, og getu hennar til að standast áfall, skelfingu og kosmíska hræðileika. Grunn SAN-punktar persónunnar jafngilda POW×5.
+Í hvert sinn sem persónan þín verður fyrir hryllilegum aðstæðum eða geðveikum furðulegleikum, verður hún að kasta D100 gegn núverandi SAN-punktafjölda sínum. Ef persónan bregst (eða jafnvel þótt hún nái árangri) mun hún missa geðheilbrigðispunkta.
 
-Hvenær sem persónan þín verður fyrir hryllilegum aðstæðum eða hugarbreytandi undarlegheitum, verður hún að kasta D100 gegn núverandi SAN-punktahild sinni. Ef persónan þín mistekst (eða kannski jafnvel ef hún tekst) mun hún missa geðheilbrigðispunkta.
+Persóna sem missir nægilega marga SAN-punkta mun líklega verða geðveik. **Geðheilbrigðisþröskuldur** persónunnar (líkt og þröskuldur fyrir alvarlegum sárum) er jafn 1/5 af núverandi SAN-fjölda. Að missa svo marga SAN-punkta á einni leikklukkustund leiðir til einhvers konar óskilgreindrar geðveiki.
 
-Persóna sem verður fyrir nægilegu SAN-tapi mun líklega verða geðveik. **Geðheilbrigðismörk** persónunnar (líkt og mörk alvarlegra sára) jafngilda 1/5 af núverandi SAN. Að missa svo marga SAN-punkta á einni leikstund leiðir til einhvers konar óskilgreindrar geðveiki.
+Geðheilbrigðispunktar endurnýjast ekki náttúrulega og geta aðeins endurheimst við mjög sérstakar aðstæður. Persónur geta öðlast SAN umfram grunnildi sitt, upp í að hámarki 99. Ákveðnar tegundir af guðlastandi þekkingu geta takmarkað leyfilegt hámarks-SAN persónunnar.
 
-Geðheilbrigðispunktar endurnýjast ekki náttúrulega og er aðeins hægt að endurheimta við mjög sérstakar aðstæður. Persónur geta fengið SAN umfram grunn gildi sitt, að hámarki 99. Ákveðnar tegundir guðlastandi þekkingar geta takmarkað leyfilegt hámarks SAN-stig persónunnar.
-
-> ### Einkennandi eiginleikar (Valkostur)
->
-> Einkennandi eiginleikar eru leið til að lýsa eftirtektarverðum eiginleikum persónunnar þinnar. Þetta eru eingöngu lýsandi og hafa ekkert vélrænt gildi. Þau þjóna til að hjálpa til við að láta leikmannapersónuna þína virðast raunverulegri. Því lengra frá meðaltali – hærra eða lægra – sem Charisma (CHA) eiginleiki persónunnar þinnar er, því fleiri einkennandi eiginleika hefur hún.
->
-> ##### Einkennandi eiginleikar
->
-> | CHA | Fjöldi eiginleika |
+> ### Einkennandi þættir (Valkvætt)
+> 
+> Einkennandi þættir eru leið til að lýsa eftirtektarverðum eiginleikum persónunnar. Þetta er eingöngu lýsandi og hefur ekkert vélrænt gildi. Þeir þjóna þeim tilgangi að láta persónuna virðast raunverulegri. Því fjær meðallagi sem Karisma (KAR) eiginleiki persónunnar er—hærra eða lægra—því fleiri einkennandi þætti hefur hún.
+> 
+> ##### Einkennandi þættir
+> 
+> | KAR | Fjöldi þátta |
 > | :---- | :---- |
 > | 3 eða minna | 4 |
 > | 4–7 | 3 |
@@ -532,91 +528,93 @@ Geðheilbrigðispunktar endurnýjast ekki náttúrulega og er aðeins hægt að 
 > | 12–14 | 2 |
 > | 15–16 | 3 |
 > | 17+ | 4 |
->
-> Kastaðu 1D10 eða veldu flokk hér að neðan fyrir hvern einkennandi eiginleika sem persónan þín hefur. Þú getur valið sama flokkinn mörgum sinnum. Veldu síðan eiginleika eða eiginleika úr færslunni. Þetta eru allt snyrtivörur og hafa ekki áhrif á leikgildi, en það er gagnlegt að hafa eiginleika og færnir persónunnar í huga þegar einkennandi eiginleikar eru valdir.
->
-> Ef CHA persónunnar þinnar er lágt (9 eða lægra), gætu þessir eiginleikar verið óþægilegir, óaðlaðandi eða óvenjulegir á að líta. Ef CHA persónunnar þinnar er hátt (12+), eru eiginleikarnir aðlaðandi eða glæsilegir á að líta, jafnvel þótt eiginleikinn væri venjulega ekki talinn aðlaðandi. Hins vegar er þetta ekki takmarkandi, og útlit er ekki alltaf vísbending um raunverulegan sjarma.
->
-> Þegar þú velur, ímyndaðu þér persónuna þína í huganum, og ímyndaðu þér hvernig hún kemur fyrir í stillingu leiksins. Þú getur líka sameinað mismunandi eiginleika á áhugaverðan hátt. Leikstjórinn þinn gæti hafnað ákveðnum einkennandi eiginleikum ef þeir væru úr stað, allt eftir stillingu.
->
-> 1. **Hár á höfði:** Sköllóttur, sköllóttur ofan á, ljóshærður, svarthærður, fléttaður, brúnhærður, stuttklipptur, krullaður, skítugur, lúsugur, glansandi, gráhærður, síðhærður, glansandi, flókinn, feitbundaður, ilmandi, hárínafl (receding), rauðhærður, rakaður, gaddóttur, mjög síður, bylgjaður, hárkulla, eiginleiki að eigin vali.
->
-> 2. **Andlitshár:** Bogin augabrúnir, fléttað skegg, þykkt skegg, krullað og ilmandi skegg, gríðarleg yfirskegg, samvaxnar augabrúnir, geithafur, sítt skegg, engar augabrúnir, hliðarbarðar, undarleg hönnun skorin í stuttklippt skegg, þykkar augabrúnir, eiginleiki að eigin vali.
->
-> 3. **Andlitseiginleiki:** Fæðingarblettur, glóðarauga, blá augu, skær augu, brotið nef, brotnar tennur, brún augu, djúpt sólbrúnn, tvöföld höku, eyrnalokkar, gríðarleg höku, jafnar tennur, augnplástur, kjötmiklar varir, bil í tönnum, grá augu, loðin eyru, háar kinnbein, krókur á nefi, stór augu, stórt nef, síðar augnhár, ójöfnar tennur, nefhringur, fölur, bólótt húð, oddmjó höku, oddmjóar tennur, áberandi framtennur, uppsnúið nef, kringlótt andlit, ör, unaðslegar varir, blettabundnar tennur, húðflúraður, þunnar varir, lítil eyru, uppsnúið nef, vörtur, veik höku, hvítar tennur, stóreygur, gular tennur, eiginleiki að eigin vali.
->
-> 4. **Svipur:** Tilbeiðandi, heillandi, hrokafullur, undrandi, skæreygur, forvitinn, hrollvekjandi, drungalegur, drukkinn, vinalegur, varinn, hrokafullur, lostafullur, glottandi, auðmjúkur, hrekkjóttur, naívur, útrásargjarn, stungandi, ánægjulegur, stoltur, tælandi, slægur, hæðinn, rangeygur, svipur að eigin vali.
->
-> 5. **Föt:** Forn stíll, brynjaður hattur, íþróttalegur, berfættur, föt skilja notanda eftir of heitan eða of kaldan, keilulaga hattur, útsaumað með sérstöku merki, dýr, tískulegur, flottir stígvélar, fyrir rangan kyn, formföst, full af holum, skær, glansandi, illa passandi, fullt af ódýrum skartgripum, ný, náttföt, að hluta til naktur, tindhattur, prúðmannlegur, ríkur, sandalar, satínkenndur, kynþokkafullur, þröngur, íþróttalegur, hógvær, of mikill skraut, einkennisbúningur, nytsemi, dónalegur, breiður hattur, föt að eigin vali.
->
-> 6. **Framkoma:** Reið, afslöppuð, klaufaleg, örugg, ójarðnesk, óttaslegin, glæsileg, auðmjúk, kát, löt, herská, lipur, þunglamaleg, frek, prúð, slappur, fjörugur, stífur, stærilátur, tilfinninganæmur, sveiflukenndur, varfærinn, þreyttur, undanlátssamur, framkoma að eigin vali.
->
-> 7. **Tal:** Með hreim, áhrifamikill, árásargjarn, djúpur, krefjandi, drungalegur, veikur, hikandi, hár-raddaður, ráðríkur, tónlistrænn, muldrandi, nefmæltur, hrjúfur, skarpur, tilfinninganæmur, skerandi, hægur, mjúkur, mjúkmæltur, sterkur, raddmikill, óskiljanlegur, vælandi, tal einkenni að eigin vali.
->
-> 8. **Armar og hendur:** Fæðingarblettur sýnilegur, bólgnir tvíhöfðar, armband eða annað armskraut, sígarandi, hnúðóttir olnbogar, stórir hnúar, vinstrihendur, langir armar, langar neglur, vöðvastæltur, annar armurinn lengri en hinn, einn fingur vantar, einum of mikið fingur til staðar, oddmjóir olnbogar, oddmjóar neglur, kraftmiklir armar og hendur, hringir, ör, grannur, slétt húð, húðflúraður, ólínulegur, mjög loðinn, mjög föl húð, eiginleiki að eigin vali.
->
-> 9. **Bolur:** Tunnu-líkur, naflahringur, fæðingarblettur sýnilegur, breið-axlaður, bognar, hvert bein sýnist, flatmagaður, hárlaus, hátt mitti, magur, langur bolur, mörg ör, vöðvastæltur, mjór, enginn nafli, ein geirvarta farin, bumbumikill, áberandi ör, stuttur, skroppinn brjóstkassi, sinamikill, sléttur, grannur, mjó-mjaðmaður, hávaxinn, brúnkufar sýnileg, sólbrúnn, húðflúraður, þykkur, þunnur, mjög loðinn, mjög fölur, mjúkur, eiginleiki að eigin vali.
->
-> 10. **Leggir og fætur:** Fæðingarblettur sýnilegur, bólgnir læri og kálfar, hnúðótt hnén, haltandi á einum fæti, mörg ör, vöðvastæltur, ein tá vantar, einni of mikið tá til staðar, ör, ör eftir eld eða sýru, sléttur, sléttur, sólbrúnn, húðflúraður, táhringur, mjög loðinn, mjög langir leggir, mjög föl húð, mjög stuttir leggir, veðruð húð, eiginleiki að eigin vali.
->
-> Komdu með einkennandi eiginleika af þinni eigin gerð ef þessir duga ekki. Fyrir leiki sem innihalda ekki-mannlega kynþætti, vertu frjáls að bæta við nýjum og einstökum eiginleikum, eða hafna óviðeigandi eiginleikum.
+> 
+> Kastaðu 1D10 eða veldu flokk hér að neðan fyrir hvern einkennandi þátt sem persónan hefur. Þú getur valið sama flokkinn mörgum sinnum. Veldu síðan þátt eða þætti úr færslunni. Allt þetta er snyrtilegt og hefur ekki áhrif á leikgildi, en það er gagnlegt að hafa eiginleika og færni persónunnar í huga þegar einkennandi þættir eru valdir.
+> 
+> Ef KAR persónunnar er lágt (9 eða lægra), geta þessir þættir verið ógeðfelldir, óaðlaðandi eða óvenjulegir á að líta. Ef KAR persónunnar er hátt (12+), eru þættirnir aðlaðandi eða áhrifamiklir, jafnvel þótt þátturinn sé ekki venjulega talinn aðlaðandi. Hins vegar er þetta ekki takmarkandi og útlit er ekki alltaf vísbending um raunverulegt karisma.
+> 
+> Þegar þú velur, sjáðu persónuna fyrir þér í huganum og ímyndaðu þér hvernig hún birtist í umhverfi leiksins. Þú getur líka sameinað mismunandi þætti á áhugaverðan hátt. Leikstjórinn þinn gæti hafnað ákveðnum einkennandi þáttum ef þeir ættu ekki við, allt eftir umhverfi.
+> 
+> 1. **Hár á höfði:** Sköllóttur, sköllóttur á kolli, ljóshærður, svarthærður, fléttað hár, brúnhærður, stuttklippt, hrokkið, óhreint, lúsugt, glansandi, gráhært, sítt, gljáandi, flókið, feitt, ilmandi, sköllóttur að framan, rauðhærður, rakað, stríhært, mjög sítt, bylgjað, hárkulla, þáttur að eigin vali.
+> 
+> 2. **Andlitshár:** Bogin augabrúnir, fléttað skegg, þykkt skegg, hrokkið og ilmandi skegg, gríðarlegt yfirvaraskegg, samvaxnar augabrúnir, geithafur, sítt skegg, engar augabrúnir, hliðarskegg, undarleg mynstur í stuttu skeggi, þykkar augabrúnir, þáttur að eigin vali.
+> 
+> 3. **Andlitsdrættir:** Fæðingarblettur, blá augu, björt augu, brotinn nefi, brotnar tennur, brún augu, djúpt sólbrúnn, tvöföld höku, eyrnalokkar, gríðarleg höku, jafnar tennur, augnplástur, holdlegar varir, bil á milli tanna, grá augu, loðin eyru, háar kinnbeinar, krókur á nefi, stór augu, stórt nefi, síðar augnhár, ójöfn tennur, nefhringur, fölur, bólótt húð, oddmjó höku, oddmjóar tennur, áberandi framtennur, uppsnúið nefi, kringlótt andlit, ör, tælandi varir, blettaðar tennur, húðflúrað, þunnar varir, smá eyru, uppstýft nefi, vörtur, veik höku, hvítar tennur, stóreygður, gular tennur, þáttur að eigin vali.
+> 
+> 4. **Svipur:** Aðdáunarfullur, tælandi, hrokafullur, undrandi, bjarteygður, forvitinn, hræddur, drungalegur, drukkinn, vinalegur, varfærinn, hrokafullur, lauslátur, skælbrosandi, auðmjúkur, hrekkjóttur, barnalegur, félagslyndur, stingandi, ánægjulegur, stoltur, heillandi, lævís, glottandi, skelgur, svipur að eigin vali.
+> 
+> 5. **Föt:** Forn stíll, brynjaður hattur, íþróttalegur, berfættur, föt sem gera notandann of heitan eða of kaldan, keilulaga hattur, útsaumað með sérstöku merki, dýr, smart, fínir stígvélar, fyrir rangan kyn, aðsniðin, full af götum, hrópleg, skrautleg, illa sniðin, mikið af ódýrum skartgripum, ný, náttföt, að hluta til nakinn, oddhvass hattur, stílhrein, dýr, sandalar, satínkennd, kynþokkafull, þétt, íþróttaleg, látlaus, of mikið skraut, einkennisbúningur, nytsamlegur, grófur, breiður hattur, föt að eigin vali.
+> 
+> 6. **Framkoma:** Reiður, frjálslegur, klaufalegur, sjálfstraustur, himneskur, óttasleginn, þokkafullur, auðmjúkur, glaðlegur, sljór, hernaðarlegur, kvikur, þunglamalegur, ágengur, hlédrægur, slútandi, sprækur, stirður, hrokafullur, tælandi, vaggandi, varfærinn, þreyttur, undanlátssamur, framkoma að eigin vali.
+> 
+> 7. **Tal:** Með hreim, tilgerðarlegt, ágengt, djúpt, kröfuhart, dragnast, dauflegt, hikandi, háróma, yfirgangssamt, tónlistlegt, muldrandi, nefhljóð, hrjúft, hvast, tælandi, skerandi, hægt, mjúkmælt, sterkt, hljómandi, óskiljanlegt, vælandi, talandi einkenni að eigin vali.
+> 
+> 8. **Armar og hendur:** Sýnilegur fæðingarblettur, armbönd eða aðrir armskartgripir, bólgnir tvíhöfðar, hnúfóttar hendur, djúpt sólbrúnar, hárlausar, loðnar, hnúfóttir olnbogar, stórir hnúar, örvhentur, síðir armar, síðar neglur, vöðvastæltar, annar armurinn síðari en hinn, einn fingur vantar, einn fingur of mikið, oddmjóir olnbogar, oddmjóar neglur, öflugir armar og hendur, hringar, ör, mjónar, slétt húð, húðflúrað, óhrukkótt, mjög loðnar, mjög föl húð, þáttur að eigin vali.
+> 
+> 9. **Bolur:** Tunnu-laga, magahringur, sýnilegur fæðingarblettur, breiðaxlaður, sveigður, hvert bein sést, flöt magi, hárlaus, há mitti, magur, síður bolur, mörg ör, vöðvastæltur, mjór, enginn nafli, vantar eina geirvörtu, bumbuháður, áberandi ör, stuttur, rýr brjóstkassi, sinaber, sléttur, grannur, mjóðmjaðmaður, hár og grannur, hár, sýnilegar brúnkufar, sólbrúnn, húðflúraður, þykkur, þunnur, mjög loðinn, mjög fölur, víðilagur, þáttur að eigin vali.
+> 
+> 10. **Leggir og fætur:** Sýnilegur fæðingarblettur, bólgnir lærir og kálfar, hnúfóttir fætur, djúpt sólbrúnir, hárlausir, loðnir, hnúfótt hné, haltur á öðrum fæti, mörg ör, vöðvastæltir, vantar eina tá, ein tá of mikið, ör, ör eftir eld eða sýru, sléttir, slétt húð, sólbrúnir, húðflúraðir, táhringur, mjög loðnir, mjög síðir leggir, mjög föl húð, mjög stuttir leggir, veðruð húð, þáttur að eigin vali.
+> 
+> Finndu upp einkennandi þætti sjálfur ef þessir duga ekki til. Fyrir leiki sem innihalda ekki-mannlegar kynþætti, skaltu ekki hika við að bæta við nýjum og einstökum þáttum, eða hafna óviðeigandi þáttum.
+
 
 ## Starfsgreinar
 
-Auk þess að vera skilgreind af eiginleikum, er persónan þín einnig skilgreind út frá **færnum** sínum. Þessar eru lærðar í gegnum lífsreynslu, oft sem hluti af menntun og **starfsgrein**. Starfsgrein er starf eða iðja sem persónan þín er talin vera hluti af þegar hún byrjar leik (eða var hluti af áður en leikur hófst), sem leiðbeinir færniúthlutun. Starfsgrein er bara þar sem þau byrja þegar leikur hefst og er ekki takmörk fyrir því sem þeir geta gert og orðið. Þeir geta vaxið og breyst í gegnum herferð langt út fyrir starfsgrein sína.
+Auk þess að vera skilgreind af eiginleikum, er persónan þín einnig skilgreind út frá **færni** sinni. Þetta er lært í gegnum lífsreynslu, oft sem hluti af menntun og **starfsgrein**. Starfsgrein er starf eða iðja sem gert er ráð fyrir að persónan þín tilheyri þegar leikur hefst (eða tilheyrði áður en leikur hófst), sem leiðbeinir úthlutun færnistiga. Starfsgrein er bara upphafsstaður þegar leikur hefst og er ekki takmörk fyrir því hvað þeir geta gert og orðið. Þeir geta vaxið og breyst í gegnum herferðina langt umfram starfsgrein sína.
 
-### Starfsgreinar eftir stillingu
+### Starfsgreinar eftir umhverfi
 
-Hér á eftir er skrá yfir algengari starfsgreinar, með athugasemdum um stillingarnar sem þær myndu algengast finnast í. Þessar stillingar eru lýstar í *Kafli tíu: Stillingar*. Sumir starfsgreinatitlar og upphafsfærniskrár gætu ekki hentað fyrir hverja stillingu og ætti að aðlaga af leikmönnum og leikstjóra eftir þörfum.
+Hér á eftir er listi yfir algengari starfsgreinar, með athugasemdum um það umhverfi sem þær myndu almennt koma fyrir í. Þessu umhverfi er lýst í *tíunda kafla: Umhverfi*. Sumir titlar starfsgreina og upphaflegir færnillistar gætu ekki hentað fyrir hvert umhverfi og ætti að aðlaga af leikmönnum og leikstjóra eftir þörfum.
 
-Til dæmis, *í herferð sem gerist í fornu Japan, segir leikstjórinn þér að stríðsmannastarfið heiti samúrai, morðingi sé ninjá, þjófurinn sé ræningi, glæpamaðurinn sé jakúza, og göfmennið sé hirðmaður.*
+Til dæmis, *í herferð sem gerist í hinu forna Japan, segir leikstjórinn þinn að stríðsmannastarfið sé kallað samúræi, morðingi sé ninjá, þjófurinn sé ræningi, glæpamaðurinn sé jakúza og aðalsmaðurinn sé hirðmaður.*
 
-Þessar skrár eru ekki tæmandi en tákna hentugustu starfsgreinarnar fyrir leikmannapersónur í hverri almennri stillingu. Hægt er að útvíkka þessar starfsgreinar að vild, og jafnvel ólíklegir kostir eru mögulegir. Okkar eigin nútímaheimur hefur enn litla vasa af ættbálkamönnum og sjamanum, til dæmis, þótt þeir séu varla algengir.
+Þessir listar eru ekki tæmandi en tákna þær starfsgreinar sem henta best fyrir leikmannapersónur í hverju almennu umhverfi. Hægt er að útvíkka þessar starfsgreinar eftir þörfum, og jafnvel ólíklegir valkostir eru mögulegir. Okkar eigin nútímaheimur hefur enn litlar eyjur af ættbálkafólki og shamanum, til dæmis, þótt þeir séu tæpast algengir.
 
-### Stillingar og Færnir
+### Umhverfi og færni
 
-Þú og leikstjórinn ættuð að ganga úr skugga um að færnir tengdar starfsgrein passi við stillingu leiksins. Fyrir óviðeigandi færnir, komdu með mismunandi sérgrein ef það lætur hana virka, og ef engin önnur sérgrein er viðeigandi, veldu aðra færni innan sama flokks. Sjá *Kafli þrjú: Færnir* fyrir frekari upplýsingar um færnisérgreinar og færniflokka.
+Þú og leikstjórinn þinn ættuð að ganga úr skugga um að færnin sem tengist starfsgrein passi við umhverfi leiksins. Fyrir óviðeigandi færni, skiptu út fyrir aðra sérgrein ef það virkar, og ef engin önnur sérgrein á við, veldu aðra færni í sama flokki. Sjá *þriðja kafla: Færni* fyrir frekari upplýsingar um færnisérgreinar og færniflokka.
 
-> ### Færniflokkabónusar (Valkostur)
->
-> Ef þú og leikstjórinn viljið að eiginleikar persónunnar hafi áhrif á færnieinkunnir hennar, ættuð þið að nota þetta kerfi. Eins og lýst er í kaflanum *Kafli þrjú: Færnir*, er hverri færni hópast í færniflokka. Hver flokkur er tengdur einum eða fleiri eiginleikum sem eru notaðir til að reikna út færniflokkabónus fyrir hvern flokk. Til að reikna út bónusinn fyrir hvern færniflokk, athugaðu **aðal-**, **auka-** og **neikvæða** eiginleika hvers flokks (eða notaðu töfluna hér að neðan):
->
+
+> ### Færniflokkabónusar (Valkvætt)
+> 
+> Ef þú og leikstjórinn þinn viljið að eiginleikar persónunnar hafi áhrif á færnistig hennar, ættuð þið að nota þetta kerfi. Eins og lýst er í þriðja kafla: Færni, er hverri færni skipt í færniflokka. Hver flokkur er tengdur einum eða fleiri eiginleikum sem eru notaðir til að reikna út færniflokkabónus fyrir hvern flokk. Til að reikna út bónusinn fyrir hvern færniflokk, skráðu **aðal-**, **auk-** og **neikvæða** eiginleika hvers flokks (eða notaðu töfluna hér að neðan):
+> 
 > * Aðaleiginleikar bæta við +1% fyrir hvert stig yfir 10 og draga frá –1% fyrir hvert stig undir 10.
->
-> * Aukaeiginleikar bæta við +1% fyrir hver 2 stig yfir 10 og draga frá –1% fyrir hver 2 stig undir 10. Námundaðu niður.
->
+> 
+> * Aukeiginleikar bæta við +1% fyrir hver 2 stig yfir 10 og draga frá –1% fyrir hver 2 stig undir 10. Rúnnað niður.
+> 
 > * Neikvæðir eiginleikar draga frá –1% fyrir hvert stig yfir 10 og bæta við +1% fyrir hvert stig undir 10.
->
-> ##### Færniflokkabreyta
->
-> | Flokkur | Aðal | Auka | Neikvæður |
+> 
+> ##### Færniflokkabreytingar
+> 
+> | Flokkur | Aðal | Auk | Neikvæður |
 > | :---- | :---- | :---- | :---- |
-> | Bardagafærnir | DEX | INT, STR | — |
-> | Samskiptafærnir | INT | POW, CHA | — |
-> | Handverksfærnir | DEX | INT, STR | — |
-> | Andlegar færnir | INT | POW, EDU | — |
-> | Skynjunarfærnir | INT | POW, CON | — |
-> | Líkamlegar færnir | DEX | STR, CON | SIZ |
->
-> Til dæmis, *persónan þín hefur eftirfarandi eiginleika: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12, og CHA 8. Færniflokkabónusar þeirra eru:*
->
-> * Bardaga: *+3% (+2 fyrir DEX, +2 fyrir STR, –1 fyrir INT)*
->
-> * Samskipti: *–3% (–2 fyrir INT, 0 fyrir POW, –1 fyrir CHA)*
->
-> * Handverk: *+3% (+2 fyrir DEX, –1 fyrir INT, +2 fyrir STR)*
->
-> * Andlegar: *–2% (–2 frá INT, 0 fyrir POW, EDU er ekki notað í þessari herferð)*
->
-> * Skynjun: *–1% (–2 fyrir INT, 0 fyrir POW, +1 fyrir CON)*
->
-> * Líkamlegar: *+3% (+2 fyrir DEX, +2 fyrir STR, +1 fyrir CON, –2 fyrir SIZ)*
->
-> Sjá *Kafli þrjú: Færnir* fyrir frekari upplýsingar um færniflokka, flokkabónusa og grunnfærnilíkur.
->
-> ##### Færnibónus-tafla
->
-> | Gildi | Aðal | Auka | Neikvæður |
+> | Bardagafærni | LIP | GRE, STY | — |
+> | Samskiptafærni | GRE | MÁT, KAR | — |
+> | Handverksfærni | LIP | GRE, STY | — |
+> | Andleg færni | GRE | MÁT, MEN | — |
+> | Skynjunarfærni | GRE | MÁT, ÞOL | — |
+> | Líkamleg færni | LIP | STY, ÞOL | STÆ |
+> 
+> Til dæmis, *persónan þín hefur eftirfarandi eiginleika: STY 14, ÞOL 13, GRE 8, STÆ 12, MÁT 10, LIP 12, og KAR 8. Færniflokkabónusar þeirra eru:*
+> 
+> * Bardagi: *+3% (+2 fyrir LIP, +2 fyrir STY, –1 fyrir GRE)*
+> 
+> * Samskipti: *–3% (–2 fyrir GRE, 0 fyrir MÁT, –1 fyrir KAR)*
+> 
+> * Handverk: *+3% (+2 fyrir LIP, –1 fyrir GRE, +2 fyrir STY)*
+> 
+> * Andlegt: *–2% (–2 frá GRE, 0 fyrir MÁT, MEN er ekki notað í þessari herferð)*
+> 
+> * Skynjun: *–1% (–2 fyrir GRE, 0 fyrir MÁT, +1 fyrir ÞOL)*
+> 
+> * Líkamlegt: *+3% (+2 fyrir LIP, +2 fyrir STY, +1 fyrir ÞOL, –2 fyrir STÆ)*
+> 
+> Sjá *þriðja kafla: Færni* fyrir frekari upplýsingar um færniflokka, flokkabónusa og grunnfærnilíkur.
+> 
+> ##### Færnibónustafli
+> 
+> | Gildi | Aðal | Auk | Neikvæður |
 > | :---- | :---- | :---- | :---- |
 > | 1 | –9% | –4% | +9% |
 > | 2 | –8% | –4% | +8% |
@@ -639,66 +637,67 @@ Til dæmis, *í herferð sem gerist í fornu Japan, segir leikstjórinn þér a�
 > | 19 | +9% | +4% | –9% |
 > | 20 | +10% | +5% | –10% |
 > | 21 | +11% | +5% | –11% |
-> | Etc. | +1%/stig | +1%/2 stig | –1%/stig |
->
+> | O.fl. | +1%/stig | +1%/2 stig | –1%/stig |
+> 
 > ### Einfaldari færnibónusar
->
-> Ef útreikningur á færniflokkabónusum er of flókinn, er hægt að skilgreina hvern flokkabónus sem 1/2 af aðaleiginleikanum (námundað upp). Þessi aðferð leiðir til hærri upphafsfærnilíkinda og útilokar möguleikann á flokkarefsingu. Ef þess er óskað, notaðu einföldu færniflokkabreyturnar úr eftirfarandi töflu.
->
-> ##### Einfaldir færniflokkabreyta
->
+> 
+> Ef útreikningur á færniflokkabónusum er of flókinn, má skilgreina hvern flokkabónus sem 1/2 af aðaleiginleikanum (rúnnað upp). Þessi aðferð leiðir til hærri upphaflegra færnilíkna og útilokar möguleikann á flokkavíti. Ef óskað er, notaðu einföldu færniflokkabreytingarnar úr töflunni hér að neðan.
+> 
+> ##### Einfaldar færniflokkabreytingar
+> 
 > | Flokkur | Aðal |
 > | :---- | :---- |
-> | Bardagafærnir | DEX/2 |
-> | Samskiptafærnir | CHA/2 |
-> | Handverksfærnir | DEX/2 |
-> | Andlegar færnir | INT/2 |
-> | Skynjunarfærnir | POW/2 |
-> | Líkamlegar færnir | STR/2 |
+> | Bardagafærni | LIP/2 |
+> | Samskiptafærni | KAR/2 |
+> | Handverksfærni | LIP/2 |
+> | Andleg færni | GRE/2 |
+> | Skynjunarfærni | MÁT/2 |
+> | Líkamleg færni | STY/2 |
 
-> ### Auður
->
-> Að lokum táknar auður hver efnahagsleg staða persónunnar þinnar er í upphafi leiks, og hverju hún er vön. Hvert stig hér að neðan lýsir hlutfallslegu ástandi einhvers á því auðæfistigi. Auður er fjallað nánar um í *Kafli átta: Búnaður*, þar sem hann ákvarðar hvers konar eignir persónan þín getur upphaflega átt og öðlast í leik.
->
-> #### Skortur (Destitute)
->
-> Peningalaus, persónan þín verður að safna mat og drykk eða treysta á ölmusu. Heimilislaus, sefur hún hvar sem hún finnur þurran og öruggan stað. Hún gæti átt einhverjar smáeignir fyrir utan það sem hún getur borið, en þær eru ekki sérstaklega dýrmætar og eru faldar, stolið ef þær uppgötvast. Þetta fátæktarstig endurspeglast líklega í útliti persónunnar, og hún gæti átt erfitt með að framkvæma venjuleg verk vegna fordóma gagnvart þeim sem búa við skort.
->
+
+> ### Auðæfi
+> 
+> Að lokum tákna auðæfi efnahagslega stöðu persónunnar í upphafi leiks og hvað hún er vön. Hvert stig hér að neðan lýsir hlutfallslegu ástandi einhvers á því auðæfastigi. Auðæfi eru nánar fjallað um í *áttunda kafla: Búnaður*, þar sem þau ákvarða hvers konar eigur persónan getur upphaflega átt og aflað sér í leiknum.
+> 
+> #### Fátækur (Destitute)
+> 
+> Eignalaus, persónan þín verður að leita að mat og drykk eða reiða sig á ölmusu. Heimilislaus, hún sefur hvar sem hún finnur þurran og öruggan stað. Hún gæti átt einhverjar smáeigur sem hún getur borið, en þær eru ekki sérlega dýrmætar og eru faldar, eða stolið ef þær finnast. Þetta fátæktarstig endurspeglast líklega í útliti persónunnar og hún gæti átt erfitt með að framkvæma venjuleg verkefni vegna fordóma gagnvart þeim sem eru eignalausir.
+> 
 > #### Fátækur (Poor)
->
-> Þótt persónan þín hafi einhverja peninga og skortir ekki stað til að sofa eða mat til að borða. Lífið hennar er án mikils munaðar. Hún hefur ekki mikið af frjálsum peningum. Með þessu auðæfastigi er heimili hennar hógvært og hugsanlega í fátækum eða óæskilegum hluta bæjarins. Hún er að hluta til vinnandi, atvinnulaus, eða vinnur hörðum höndum fyrir rýrum launum.
->
-> #### Meðal (Average)
->
-> Persónan þín hefur þægilegar tekjur og lifir án mikilla erfiðleika, þó að stórkaup verði að vega vandlega. Hún á meðalheimili eða íbúð einhvers staðar og gæti átt hæfilegan sparnað, þótt fáir myndu telja hana neitt annað en millistétt eða meðaltekjur. Hún getur borgað reikninga sína og kostnað, og getur eytt einstaka sinnum í lúxusvörur, en hún lifir almennt lífsstíl sem er sameiginlegur flestum í menningu hennar og tímabili.
->
-> #### Velstæður (Affluent)
->
-> Persónan þín gengur vel og hefur töluverðar tekjur eða peningastraum sem hún getur lifað vel af og notið lífsins. Húsnæði er mjög flott, og persónan þín þarf ekki að hugsa tvisvar um að gera stórkaup. Hún á mikið af peningum sparaða og gæti lifað lífi í gnægð og lúxus án nokkurra afleiðinga.
->
+> 
+> Þótt persónan þín hafi einhverja peninga og skorti ekki stað til að sofa eða mat að borða, er líf hennar án mikils munaðar. Hún hefur ekki mikið laust fé. Með þessu auðæfastigi er bústaður hennar lítillætislegur og hugsanlega á fátæklegum eða óæskilegum stað í bænum. Hún er að hluta til í vinnu, atvinnulaus eða vinnur hörðum höndum fyrir rýrum launum.
+> 
+> #### Meðalstétt (Average)
+> 
+> Persónan þín hefur þægilegar tekjur og lifir án mikilla erfiðleika, þótt stærri kaup verði að vega vandlega. Hún á meðalheimili eða íbúð einhvers staðar og gæti átt hæfilega upphæð í sparnaði, þótt fáir myndu telja hana neitt annað en millistétt eða meðaltekjur. Hún getur borgað reikninga sína og útgjöld, og getur stundum leyft sér lúxusvörur, en lifir almennt lífsstíl sem er algengur hjá flestu fólki í menningu hennar og tíma.
+> 
+> #### Auðugur (Affluent)
+> 
+> Persónan þín stendur sig nokkuð vel og hefur verulegar tekjur eða peningaflæði sem hún getur notað til að lifa í vellystingum og njóta lífsins. Búsetuúrræði eru mjög fín og persónan þín þarf ekki að hugsa sig tvisvar um við að gera stórkaup. Hún hefur mikla upphæð sparaða og gæti lifað lífi í gnægð og lúxus án nokkurra afleiðinga.
+> 
 > #### Ríkur (Wealthy)
->
-> Persónan þín hefur mikil efnisleg auðæfi frá nær óþrjótandi uppsprettu. Hún getur gert dýr innkaup án þess að hugsa sig um tvisvar, með lífsgæði sem flestir öfunda. Hún á mikinn sparnað og, vegna auðæfastigs síns, mun hún líklega hafa félagsleg og viðskiptaleg tækifæri langt umfram þau sem önnur tekjustig hafa.
+> 
+> Persónan þín býr yfir miklum efnislegum auði frá næstum óþrjótandi uppsprettu. Hún getur gert dýr kaup án þess að hugsa sig um, með lífsgæði sem flestir öfunda. Hún á mikla peninga sparaða og, vegna auðæfastigs síns, er líklegt að hún hafi félagsleg og viðskiptaleg tækifæri langt umfram þau sem önnur tekjustig bjóða upp á.
 
 ### Starfsgreinar A til Ö
 
-Flestar þessara starfsgreina eru nógu almennar til að henta mörgum stillingum eða tímabilum. Hver inniheldur almenna lýsingu, lista yfir viðeigandi færnir og ráðlagt auðæfastig. Hver stilling í *Kafli tíu: Stillingar* bendir á viðeigandi starfsgreinar.
+Flestar þessara starfsgreina eru nógu almennar til að henta fyrir mörg umhverfi eða tímabil. Hver inniheldur almenna lýsingu, lista yfir viðeigandi færni og ráðlagðan auðæfastig. Hvert umhverfi í *tíunda kafla: Umhverfi* bendir á viðeigandi starfsgreinar.
 
-Þessar starfsgreinar eru ekki tæmandi. Allt eftir stillingu geturðu eða leikstjórinn búið til viðbótarstarfsgreinar, eða aðlagað núverandi starfsgreinar enn frekar. Upplýsingar um að búa til nýjar starfsgreinar eða aðlaga þær sem fyrir eru er að finna í **Að búa til nýjar starfsgreinar**.
+Þessar starfsgreinar eru ekki tæmandi. Það fer eftir umhverfinu, þú eða leikstjórinn þinn gæti búið til frekari starfsgreinar, eða aðlagað núverandi starfsgreinar enn frekar. Upplýsingar um að búa til nýjar starfsgreinar eða aðlaga núverandi er að finna í **Að búa til nýjar starfsgreinar**.
 
-Leikstjórinn gæti takmarkað valið þitt á starfsgrein eða beðið þig um að ákvarða starfsgrein þína af handahófi, en það er venjulega æskilegra að velja starfsgrein, til að koma í veg fyrir að þú verðir neyddur til að leika persónu sem þú munt ekki njóta.
+Leikstjórinn þinn gæti takmarkað val þitt á starfsgrein eða beðið þig um að ákvarða starfsgrein þína af handahófi, en það er venjulega æskilegra að velja starfsgrein, til að koma í veg fyrir að vera neyddur til að leika persónu sem þú munt ekki njóta.
 
-**Færnir:** Þessar færnir eru helstu færnir sem meðlimir þeirrar starfsgreinar nota. Persónan þín mun eyða starfsfærnistigum sínum í þessar færnir við gerð persónunnar. Persónan þín þarf ekki að hafa allar þessar færnir, en þetta er tillaga um hvaða færnir væru viðeigandi. Með leyfi leikstjórans geturðu skipt út einhverri af þessum færnum fyrir aðra ef færnin passar ekki við tímabilið, stillinguna eða persónuhugmynd þína.
+**Færni:** Þessi færni er helsta færnin sem meðlimir þeirrar starfsgreinar nota. Persónan þín mun eyða starfsgreinarfærnistigunum sínum í þessa færni við gerð persónunnar. Persónan þín þarf ekki að hafa alla þessa færni, en þetta er ábending um hvaða færni væri viðeigandi. Með leyfi leikstjórans þíns geturðu skipt út hvaða færni sem er fyrir aðra ef færnin passar ekki við tímabilið, umhverfið eða hugmyndina um persónuna þína.
 
-Til dæmis, *þú vilt leika lögreglumann með hneigð til rannsókna í herferð sem gerist á 12. öld á Englandi. Þú skoðar lista yfir starfsgreinar og sérð að Rannsóknarlögreglumaður-sniðmátið listar skotvopnafærni (Skammbyssa). Það væri fullkomlega sanngjarnt að skipta þessu út fyrir nærbaráttuvopn (Sverð) fyrir þá stillingu.*
+Til dæmis, *þú vilt leika lögreglumann með tilhneigingu til ályktana í herferð sem gerist á 12. öld á Englandi. Þú skoðar starfsgreinalistann og sérð að spæjarasniðið telur upp Færni í skotvopnum (Skammbyssa eða Revolver). Það væri fullkomlega sanngjarnt að skipta þessu út fyrir Meðhöndlun nærstríðsvopna (Sverð) fyrir það umhverfi.*
 
-**Auður:** Meðal auðæfastig fyrir persónu í þeirri starfsgrein. Í sumum tilfellum er gefið svið, sem gerir þér og leikstjóranum kleift að ákveða hvað hæfir stillingunni best. Lýsingin er eingöngu ætluð sem tillaga; þú og leikstjórinn getið valið að breyta ráðlögðu auðæfastigi upp eða niður eftir persónuhugmynd þinni.
+**Auðæfi:** Meðalauðæfastig fyrir persónu í þeirri starfsgrein. Í sumum tilfellum er gefið bil, sem gerir þér og leikstjóra þínum kleift að ákveða hvað hæfir umhverfinu best. Lýsingin er eingöngu hugsuð sem ábending; þú og leikstjórinn þinn getið valið að stilla ráðlagðan auðæfastig upp eða niður eftir hugmyndinni um persónuna þína.
 
-Önnur aðferð til að ákvarða upphafsauðæfastig þar sem svið er kynnt er að byrja með persónuna þína á lægsta auðæfisbilinu, aðlöguð upp á við fyrir hvert farsælt Status-kast sem þú getur gert. Þetta ætti að gera eftir að persónan þín hefur verið búin til.
+Önnur aðferð til að ákvarða upphafsauðæfastig þar sem bil er kynnt er að byrja með persónuna þína á lægsta stigi auðæfabilanna, stillt upp á við fyrir hvert farsælt Staðakast sem þú getur gert. Þetta ætti að gera eftir að persónan þín hefur verið búin til.
 
-Á meðan Status-færnin lýsir leiðunum sem Status og auður tengjast hvert öðru, er stutt lýsing á hverju auðæfastigi hér að neðan.
+Á meðan Staðafærnin lýsir leiðunum sem Staða og auður tengjast hvort öðru, er stutt lýsing á hverju auðæfastigi hér að neðan.
 
-**Sérstakt:** Þetta gefur til kynna hvort meðlimur starfsgreinarinnar sé líklegur til að hafa krafta, lýst í *Kafli fjögur: Kraftar*.
+**Sérstakt:** Þetta gefur til kynna hvort meðlimur starfsgreinarinnar sé líklegur til að hafa krafta, sem lýst er í fjórða kafla: Kraftar.
 
 ### Listi yfir starfsgreinar
 
@@ -706,453 +705,450 @@ Til dæmis, *þú vilt leika lögreglumann með hneigð til rannsókna í herfer
 | :---- | :---- | :---- |
 | Morðingi | Hjarðmaður | Vísindamaður |
 | Íþróttamaður | Veiðimaður | Þjónn |
-| Beggari | Blaðamaður | Sjaman |
+| Betlari | Blaðamaður | Shaman |
 | Skrifstofumaður | Verkamann | Þræll |
-| Tölvutæknir | Lögreglumaður | Hermaður |
+| Tölvutæknir | Lögvörður | Hermenn |
 | Dulspekingur | Lögfræðingur | Njósnari |
-| Handverksmaður | Vélvirki | Nemi |
+| Handverksmaður | Vélvirki | Nemandi |
 | Glæpamaður | Kaupmaður | Kennari |
-| Rannsóknarlögreglumaður | Göfmenni | Tæknimaður |
-| Læknir | Ritari | Þjófur |
-| Verkfræðingur | Flugmaður | Ættbálkamaður |
+| Spæjari | Aðalsmaður | Tæknimaður |
+| Læknir | Rithöfundur | Þjófur |
+| Verkfræðingur | Flugmaður | Ættbálkafólk |
 | Skemmtikraftur | Stjórnmálamaður | Stríðsmaður |
 | Landkönnuður | Prestur | Galdramaður |
-| Bóndi | Sjómaður | |
+| Bóndi | Sjómaður |  |
 
 #### Listamaður
 
-Þú hefur lífsviðurværi þitt af því að búa til list, hvort sem það er teikning, málverk, höggmyndalist, hönnun, ljósmyndun, kvikmyndagerð eða önnur leið til skapandi tjáningar í líkamlegum eða stafrænum miðli. Skemmtikraftar ættu að vísa til starfsgreinarinnar Skemmtikraftur.
+Þú hefur lífsviðurværi af því að búa til list, hvort sem það er teikning, málverk, skúlptúr, hönnun, ljósmyndun, kvikmyndagerð eða önnur leið til skapandi tjáningar í líkamlegu eða stafrænu formi. Flytjendur ættu að vísa í starfsgrein skemmtikrafts.
 
-**Auður**: Allir, en venjulega Fátækur eða Meðal.
+**Auðæfi**: Hvað sem er, en venjulega Fátækur eða Meðalstétt.
 
-**Færnir**: Hvaða tvær listfærnir sem er, hvaða Craft sem er, Insight, ein viðeigandi Knowledge-færni, Tungumál (Annað), Tungumál (Eigið), Listen, Research, Spot.
+**Færni**: Hvaða tvær listfærnir sem er, hvaða handverk sem er, Innsýn, ein viðeigandi þekkingarfærni, Tungumál (Annað), Tungumál (Eigið), Hlustun, Rannsókn, Athugun.
 
 #### Morðingi
 
-Sem kaldrifjaður atvinnumorðingi er dauðinn iðja þín. Hvort sem þú drepur fyrir peninga eða af öðrum orsökum, þá ertu fær í því að binda enda á líf annarra vera, venjulega í laumi.
+Sem kaldblóðugur atvinnumorðingi er dauði þín iðja. Hvort sem þú drepur fyrir peninga eða einhvern annan málstað, ertu fær í að binda enda á líf annarra vera, venjulega í leynd.
 
-**Auður**: Meðal eða Velstæður. Þú gætir líka haft breitt úrval vopna og falskra auðkenna, eftir því sem við á.
+**Auðæfi**: Meðalstétt eða Auðugur. Þú gætir líka átt breitt úrval af vopnum og fölskum auðkennum, eins og við á um umhverfið.
 
-**Færnir**: Dodge, Hide, Listen, Spot, Stealth, og fimm af eftirfarandi eftir því sem við á: Brawl, Disguise, Drive, Electronics, Grapple, Skotvopn (hvaða), Fine Manipulation, Martial Arts, Nærbaráttuvopn (hvaða), Fleygt vopn (hvaða), Ride, Throw, Track.
+**Færni**: Undanbrögð, Feluleikur, Hlustun, Athugun, Læðupúkuháttur, og fimm af eftirfarandi eins og við á um umhverfið: Slagsmál, Dulbúningur, Akstur, Rafeindatækni, Glíma, Skotvopn (hvaða sem er), Fín handvinnsla, Bardagalistir, Meðhöndlun nærstríðsvopna (hvaða sem er), Meðhöndlun langdrægra vopna (hvaða sem er), Reiðmennska, Kast, Rekja.
 
 #### Íþróttamaður
 
-Hvort sem þú ert atvinnumaður eða áhugamaður, ríkisstyrktur eða enn í skóla, þá skararðu fram úr í íþróttastíl eða æfingum, skerpir líkama þinn og ásetning fyrir einstaklings- eða liðsíþróttakeppni.
+Hvort sem þú ert atvinnumaður eða áhugamaður, ríkisstyrktur eða enn í skóla, skarar þú fram úr í íþróttastíl eða hreyfingu, skerpir líkama þinn og ásetning fyrir íþróttakeppni einstaklinga eða liða.
 
-**Auður:** Fátækur til Ríkur, venjulega Meðal eða Velstæður.
+**Auðæfi:** Fátækur til Ríkur, venjulega Meðalstétt eða Auðugur.
 
-**Færnir:** Climb, Dodge, Jump, Stealth, Throw og veldu fimm af eftirfarandi eftir því sem við á og íþrótt: Brawl, First Aid, Grapple, Insight, Listen, Martial Arts, Spot, Ride, Swim.
+**Færni:** Klifur, Undanbrögð, Stökk, Læðupúkuháttur, Kast og veldu fimm af eftirfarandi eins og við á um umhverfið og íþróttina: Slagsmál, Fyrsta hjálp, Glíma, Innsýn, Hlustun, Bardagalistir, Athugun, Reiðmennska, Sund.
 
-#### Beggari
+#### Betlari
 
-Þú lifir af því að betla peninga, mat og aðrar nauðsynjar. Þú gætir kallað þig flakkara, heimilislausan eða flökkufólk. Kannski lentistu í óheppni, ert af hópi sem er mismunað, hefur glæpafortíð sem þú getur ekki flúið, eða geðveiki eða vímuefnaneysla dró þig í þetta ástand.
+Þú lifir af því að betla um peninga, mat og aðrar nauðsynjar. Þú gætir kallað þig flakkara, heimilislausan eða flökkufólk. Kannski lenti þú í óheppni, ert úr hóp sem er mismunað, átt glæpaferil sem þú getur ekki flúið, eða geðveiki eða vímuefnaneysla rak þig í þetta ástand.
 
-**Auður:** Skortur, þótt sumir betlarar séu í raun Fátækir og þykist bara vera verr settir.
+**Auðæfi:** Fátækur (Destitute), þótt sumir betlarar séu í raun Fátækir (Poor) og þykist aðeins vera verr settir.
 
-**Færnir:** Bargain, Fast Talk, Hide, Insight, Knowledge (Svæði: staðbundið), Listen, Persuade, Sleight of Hand, Spot, Stealth.
+**Færni:** Samningaviðræður, Hröð orðræða, Feluleikur, Innsýn, Þekking (Svæði: staðbundið), Hlustun, Sannfæring, Fingrafimi, Athugun, Læðupúkuháttur.
 
 #### Skrifstofumaður
 
-Þú eyðir dögunum við skrifborð, venjulega við að vinna á fjármálasviði. Þessi starfsgrein gæti verið ein þar sem þú átt samskipti við viðskiptavini, svo sem endurskoðandi eða launþegi hjá fyrirtæki, stjórnvöldum eða öðrum samtökum.
+Þú eyðir dögunum við skrifborð, venjulega að vinna á einhverju fjármálasviði. Þessi starfsgrein gæti verið ein þar sem þú átt viðskipti við viðskiptavini, svo sem bókhaldari eða starfsmaður með föst laun í fyrirtæki, ríki eða annarri stofnun.
 
-**Auður:** Meðal.
+**Auðæfi:** Meðalstétt.
 
-**Færnir:** Bargain, Etiquette, Knowledge (Accounting), Knowledge (Lög), ein önnur Knowledge-færni, Tungumál (Eigið), Persuade, Research, Status, og annaðhvort Technical Skill (Tölvunotkun) eða Læsi, eftir því sem við á.
+**Færni:** Samningaviðræður, Etíkett, Þekking (Bókhald), Þekking (Lög), ein önnur þekking, Tungumál (Eigið), Sannfæring, Rannsókn, Staða, og annaðhvort Tæknifærni (Tölvunotkun) eða Læsi, eftir því sem við á um tímabilið.#### Tölvutækni
 
-#### Tölvutæknir
+Þú gætir verið hugbúnaðarverkfræðingur hjá fyrirtæki eða ólöglegur tölvuþrjótur. Að öðrum kosti gætir þú verið að vinna á einhverju af mörgum sviðum hugbúnaðarþróunar. Stór hluti af lífi þínu fer í að eiga samskipti við tölvur, oft tengdur við upplýsinganet heimsins. Línur af kóða, gögnum og öðrum sýndareignum eru jafn raunverulegar fyrir þig og verkfæri og efni annarra iðnaðarmanna.
 
-Þú gætir verið hugbúnaðarverkfræðingur eða ólöglegur tölvuþrjótur. Að öðrum kosti gætirðu verið að vinna á einhverju af mörgum sviðum hugbúnaðarþróunar. Mikill hluti lífs þíns fer í samskipti við tölvu, oft tengdur við upplýsinganet heimsins. Kóðalínur, gögn og aðrar sýndareignir eru jafn raunverulegar fyrir þig og verkfæri og efni annarra iðnaðarmanna.
+**Auður:** Meðal til ríkur.
 
-**Auður:** Meðal til Velstæður.
+**Hæfni:** Iðn (Tölvuvélbúnaður eða Kóði), ein þekkingarhæfni, Tungumál (Annað) (forritunarmál), Viðgerð (Rafmagn), Viðgerð (Rafeindatækni), Rannsókn, Vísindi (Stærðfræði), Staða, Tæknileg (Tölvunotkun), og veldu eina af eftirfarandi hæfnum sem sérgrein eftir því sem við á: Bókhald, Fela sig, Þekking (Lögfræði).
 
-**Færnir:** Craft (Tölvuvélbúnaður eða Kóði), ein Knowledge-færni, Tungumál (Annað) (forritunarmál), Repair (Rafmagn), Repair (Rafeindatækni), Research, Science (Stærðfræði), Status, Technical (Tölvunotkun), og veldu eina af eftirfarandi færnum sem sérgrein eftir því sem við á: Accounting, Hide, Knowledge (Lög).
+#### Iðnaðarmaður
 
-#### Handverksmaður
+Hvort sem þú ert þorpssmiður, glerblásari eða smiður á fíngerðum úrum, þá framleiðir þú vörur með höndunum og selur þær áhugasömum kaupendum. Þú vinnur yfirleitt í verkstæði, hvort sem þú átt það sjálfur eða ert eingöngu starfsmaður þar.
 
-Hvort sem það er þorpssmiður, glerblásari eða smiður úrs, þá býrðu til vörur með höndunum og selur þær áhugasömum kaupendum. Þú vinnur venjulega í búð, hvort sem þú átt hana eða ert bara starfsmaður þar.
+**Auður:** Fátækur til ríkur, yfirleitt meðal.
 
-**Auður:** Fátækur til Velstæður, venjulega Meðal.
-
-**Færnir:** Appraise, hvaða listfærni sem er, Bargain, hvaða tvær Craft-færnir sem er, Spot, Research, Status, og veldu tvær af eftirfarandi eftir því sem við á og iðngrein: Fine Manipulation, Repair (Rafmagn), Repair (Rafeindatækni), Repair (Vélrænn), Heavy Machine.
+**Hæfni:** Mat, hvaða listgrein sem er, Samningaviðræður, tvær iðnhæfni, Spotta, Rannsókn, Staða, og veldu tvær af eftirfarandi eftir því sem við á um aðstæður og iðn: Fíngerð handavinna, Viðgerð (Rafmagn), Viðgerð (Rafeindatækni), Viðgerð (Vélbúnaður), Þungavélar.
 
 #### Glæpamaður
 
-Þú ruddir þér braut í gegnum heiminn með því að brjóta lög, hvort sem er með þjófnaði, skipulagðri glæpastarfsemi, vasaþjófnaði eða einhverjum öðrum leiðum til að afla verðmæta eða peninga ólöglega.
+Þú brýtur þér leið í gegnum lífið með því að brjóta lögin, hvort sem það er með þjófnaði, skipulagðri glæpastarfsemi, vasaþjófnaði eða einhverjum öðrum leiðum til að ná verðmætum eða peningum ólöglega.
 
-**Auður:** Fátækur til Velstæður, stundum Ríkur, venjulega Meðal.
+**Auður:** Fátækur til ríkur, stundum auðugur, yfirleitt meðal.
 
-**Færnir:** Bargain, Hide, Stealth, Drive eða Ride, og veldu hvaða sex af eftirfarandi sem er eftir því sem við á og glæpastarfsemi: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Skotvopn (hvaða), Gaming, Grapple, Insight, Jump, Knowledge (Lög), Listen, Martial Arts, Nærbaráttuvopn (hvaða, venjulega hnífar eða kylfur), Persuade, Spot, Throw.
+**Hæfni:** Samningaviðræður, Fela sig, Læðast, Aka eða Ríða, og veldu hvaða sex sem er af eftirfarandi eftir því sem við á um aðstæður og glæpastarfsemi: Mat, Slást, Klifra, Hröð orðræða, Fíngerð handavinna, Skotvopn (hvaða sem er), Spilamennska, Glíma, Innsæi, Stökkva, Þekking (Lögfræði), Hlusta, Bardagalistir, Nærvígisvopn (hvaða sem er, yfirleitt hnífar eða kylfur), Tæla, Spotta, Kasta.
 
 #### Rannsóknarlögreglumaður
 
-Hvort sem þú ert ráðinn af lögreglunni eða vinnur einkarekið, notarðu færni í athugun, röksemdafærslu og afbrotafræði til að ákvarða hver hefur framið glæpi. Þú gætir haft breitt úrval af réttar- og vísindafærnum eða starfað út frá innsæi.
+Hvort sem þú starfar hjá lögreglunni eða vinnur sjálfstætt, notar þú athugunarhæfni, röksemdarfærslu og afbrotafræði til að ákvarða hver hefur framið glæpi. Þú gætir haft breitt úrval af réttarrannsókna- og vísindahæfnum eða unnið eftir innsæi.
 
-**Auður:** Meðal eða Velstæður.
+**Auður:** Meðal eða ríkur.
 
-**Færnir:** Skotvopn (Skammbyssa), Knowledge (Lög), Listen, Persuade, Spot, Research, og veldu fjórar af eftirfarandi eftir því sem við á og hugmynd: Art, Brawl, Disguise, Dodge, Drive, Fast Talk, Skotvopn (hvaða), Grapple, Hide, Insight, Knowledge (hvaða), Tungumál (Annað), Tungumál (Eigið), Medicine, Ride, Science (hvaða), Technical (Tölvunotkun), Stealth, Track.
+**Hæfni:** Skotvopn (Skammbyssa), Þekking (Lögfræði), Hlusta, Tæla, Spotta, Rannsókn, og veldu fjórar af eftirfarandi eftir því sem við á um aðstæður og hugmynd: List, Slást, dulargervi, Víkjast, Aka, Hröð orðræða, Skotvopn (hvaða sem er), Glíma, Fela sig, Innsæi, Þekking (hvaða sem er), Tungumál (Annað), Tungumál (Eigin), Læknisfræði, Ríða, Vísindi (hvaða sem er), Tæknileg (Tölvunotkun), Læðast, Rekja.
 
 #### Læknir
 
-Þú hefur gert það að köllun þinni að meðhöndla slasaða, lasburða, veika og aðra óheilbrigða, með því að nota greiningarfærni og læknisfræðilegar iðkanir fengnar með mikilli þjálfun og námi. Þú gætir hafa unnið eið um að hjálpa hverjum sem þarf á því að halda, sama hvað þeir hafa gert eða hverjir þeir eru.
+Þú hefur gert það að köllun þinni að meðhöndla slasaða, veikburða, sjúka og aðra sem eru vanheilir, með því að nota greiningarhæfni og læknismeðferðir sem þú hefur öðlast með mikilli þjálfun og námi. Þú gætir hafa svarið eið um að hjálpa hverjum þeim sem þarfnast þess, óháð því hvað þeir hafa gert eða hverjir þeir eru.
 
-**Auður:** Meðal til Velstæður.
+**Auður:** Meðal til ríkur.
 
-**Færnir:** First Aid, Tungumál (Eigið), Medicine, Persuade, Research, Spot, og veldu fjórar af eftirfarandi eftir því sem við á: Insight, Tungumál (Annað), Psychotherapy, Science (hvaða), Status.
+**Hæfni:** Skyndihjálp, Tungumál (Eigin), Læknisfræði, Tæla, Rannsókn, Spotta, og veldu fjórar af eftirfarandi eftir því sem við á um aðstæður: Innsæi, Tungumál (Annað), Sálfræðimeðferð, Vísindi (hvaða sem er), Staða.
 
 #### Verkfræðingur
 
-Þú byggir, gerir við eða viðheldur vélum, vinnur við byggingar eða ert vélvirki sem fæst við tækni sem hæfir tímabili þínu og stillingu, frá einföldum steinkonstrukcióum til mjög háþróaðra geimskipadrifkerfa. Sumir verkfræðingar viðhalda og stjórna stórum og flóknum farartækjum, frá seglskipi til geimskips, á meðan aðrir vinna við sköpun og viðhald á umsátursvélum eða byggingum.
+Þú byggir, gerir við eða viðheldur vélum, vinnur við smíðar, eða ert vélvirki sem fæst við tækni sem hæfir þínum tíma og aðstæðum, frá einföldum steinhúsum til mjög háþróaðra drifkerfa geimskipa. Sumir verkfræðingar viðhalda og stjórna stórum og flóknum farartækjum, allt frá seglskipum til geimskutla, á meðan aðrir vinna við gerð og viðhald umsátursvéla eða mannvirkja.
 
-**Auður:** Fátækur til Velstæður, venjulega Meðal.
+**Auður:** Fátækur til ríkur, yfirleitt meðal.
 
-**Færnir:** Craft (hvaða), Repair (Vélrænn), Repair (Burðarvirki), Spot, Status, og fimm af eftirfarandi, eftir því sem við á og hugmynd: Art (venjulega Teikning), Drive, Heavy Machine, Knowledge (hvaða), Pilot (hvaða), Repair (Rafmagn), Repair (Rafeindatækni), Science (hvaða), eða Technical (Tölvunotkun).
+**Hæfni:** Iðn (hvaða sem er), Viðgerð (Vélbúnaður), Viðgerð (Mannvirki), Spotta, Staða, og fimm af eftirfarandi, eftir því sem við á um aðstæður og hugmynd: List (yfirleitt Teiknun), Aka, Þungavélar, Þekking (hvaða sem er), Flug (hvaða sem er), Viðgerð (Rafmagn), Viðgerð (Rafeindatækni), Vísindi (hvaða sem er), eða Tæknileg (Tölvunotkun).
 
 #### Skemmtikraftur
 
-Þú notar frammistöðuhæfileika þína til að skemmta áhorfendum af öllum stærðum, spuna eða handritað, í eigin persónu eða í gegnum útsendingar eða forupptaka.
+Þú notar framkomuhæfileika þína til að skemmta áhorfendum af öllum stærðum, í spuna eða eftir handriti, í eigin persónu eða í gegnum útsendingar eða upptökur.
 
-**Auður:** Skortur til Ríkur, venjulega Meðal.
+**Auður:** Öreigi til auðugur, yfirleitt meðal.
 
-**Færnir:** Art (hvaða), Disguise, Fast Talk, Fine Manipulation, Insight, Tungumál (Annað), Tungumál (Eigið), Listen, Perform (hvaða), Persuade.
+**Hæfni:** List (hvaða sem er), Dulargervi, Hröð orðræða, Fíngerð handavinna, Innsæi, Tungumál (Annað), Tungumál (Eigin), Hlusta, Flytja (hvaða sem er), Tæla.
 
 #### Landkönnuður
 
-Þú hefur gert það að ævistarfi þínu að leita uppi óþekkt horn heimsins, fara þangað sem enginn hefur farið áður, og koma með þekkingu á því sem þú hefur fundið, annaðhvort fyrir dýrð eða í nafni uppgötvunar.
+Þú hefur gert það að lífsstarfi þínu að leita að ókunnum hornum heimsins, fara þangað sem enginn hefur farið áður og færa fréttir af því sem þú hefur fundið, annað hvort vegna dýrðar eða í nafni uppgötvana.
 
-**Auður:** Velstæður eða Ríkur.
+**Auður:** Ríkur eða auðugur.
 
-**Færnir:** Climb, Tungumál (Annað), Tungumál (Eigið), Persuade, Research, Spot, og fjórar af eftirfarandi eftir því sem við á: Knowledge (Mannfræði, Hópur, Saga, Náttúra, eða Svæði), Drive, Fast Talk, Skotvopn (Skammbyssa, Revolver, eða Rifill), Navigate, Pilot (Flugvél eða Bátur), Ride, Science (Jarðfræði), Swim, Track.
+**Hæfni:** Klifra, Tungumál (Annað), Tungumál (Eigin), Tæla, Rannsókn, Spotta, og fjórar af eftirfarandi eftir því sem við á um aðstæður: Þekking (Mannfræði, Hópur, Saga, Náttúra, eða Svæði), Aka, Hröð orðræða, Skotvopn (Pistol, Revolver, eða Rifill), Siglingafræði, Flug (Flugvél eða Bátur), Ríða, Vísindi (Jarðfræði), Sund, Rekja.
 
 #### Bóndi
 
-Sem bóndi býrðu á landsbyggðinni eða varla tamdu svæði, reynir að fá lifibrauð út úr landinu með því að rækta uppskeru eða gæta dýrahjarða. Þetta er erfitt líf með löngum dögum af erfiðri líkamlegri vinnu, en engu að síður ánægjulegt.
+Sem bóndi býrðu á landsbyggðinni eða á svæði sem varla hefur verið tamt, og lifir á landinu með því að rækta uppskeru eða gæta búfjár. Það er erfitt líf með löngum dögum við erfiða vinnu, en engu að síður fullnægjandi.
 
-**Auður:** Fátækur til Velstæður, venjulega Meðal.
+**Auður:** Fátækur til ríkur, yfirleitt meðal.
 
-**Færnir:** Bargain, Craft (hvaða), Knowledge (Náttúrufræði), Listen, Spot, og fimm af eftirfarandi eftir því sem við á og hugmynd: Brawl, Drive, Skotvopn (Rifill eða Haglabyssa), First Aid, Heavy Machine, Knowledge (Náttúra), Repair (Vélrænn), Ride, Science (Líffræði, Grasafræði, eða Jarðfræði), Track.
+**Hæfni:** Samningaviðræður, Iðn (hvaða sem er), Þekking (Náttúrusaga), Hlusta, Spotta, og fimm af eftirfarandi eftir því sem við á um aðstæður og hugmynd: Slást, Aka, Skotvopn (Rifill eða Haglabyssa), Skyndihjálp, Þungavélar, Þekking (Náttúra), Viðgerð (Vélbúnaður), Ríða, Vísindi (Líffræði, Grasafræði, eða Jarðfræði), Rekja.
 
-#### Spilari
+#### Spilafíkill
 
-Þú lifir af því að treysta á tilviljanir, eða með því að svindla á örlögum í heppnis- og færnileikjum. Óhjákvæmilega ferðast þú á milli; rekur þig frá einum spilavelli til annars, stundum einu skrefi á undan lögunum, í von um að heppnin þorni ekki upp.
+Þú lifir af duttlungum tilviljunarinnar, eða með því að svindla á örlögunum í leikjum sem krefjast heppni og kunnáttu. Þú ferðast óhjákvæmilega um; reikar frá einum spilastað til annars, stundum einu skrefi á undan lögunum, í von um að heppnin þverri ekki.
 
-**Auður:** Fátækur til Velstæður, venjulega Meðal.
+**Auður:** Fátækur til ríkur, yfirleitt meðal.
 
-**Færnir:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Insight, Knowledge (Accounting), Persuade, Sleight of Hand, Spot.
+**Hæfni:** Samningaviðræður, Slást, Víkjast, Hröð orðræða, Spilamennska, Innsæi, Þekking (Bókhald), Tæla, Fingrafimi, Spotta.
 
 #### Hjarðmaður
 
-Þú hefur lífsviðurværi þitt af því að gæta hjarðdýra, riðandi á víðavangi og annast hjörðina, finna villuráfandi dýr og koma þeim á markað þegar tími er kominn til að selja.
+Þú hefur lífsviðurværi þitt af því að gæta hjarðdýra, ríða um víðáttur og annast hjarðirnar, finna villuráfandi dýr og fara með þau á markað þegar kemur að því að selja.
 
-**Auður:** Fátækur til Meðal, stundum Velstæður.
+**Auður:** Fátækur til meðal, stundum ríkur.
 
-**Færnir:** Craft (venjulega hnútar), Skotvopn (Rifill), Knowledge (Náttúra), Knowledge (Svæði: Sviðið), Listen, Navigate, Ride, Spot, Throw, Track.
+**Hæfni:** Iðn (yfirleitt hnútar), Skotvopn (Rifill), Þekking (Náttúra), Þekking (Svæði: Hjarðland), Hlusta, Siglingafræði, Ríða, Spotta, Kasta, Rekja.
 
 #### Veiðimaður
 
-Hvort sem það er til lífsviðurværis eða fyrir spennuna við veiðar, sérhæfirðu þig í að rekja og annaðhvort gildra eða drepa villt dýr eða aðrar verur.
+Hvort sem það er til lífsviðurværis eða fyrir spennuna við veiðar, sérhæfir þú þig í að rekja slóðir og annaðhvort gildru eða drepa villt dýr eða aðrar verur.
 
-**Auður:** Fátækur eða Meðal, nema stórvilti- eða íþróttaveiðimaður, þá Ríkur.
+**Auður:** Fátækur eða meðal, nema um stórviltaveiðimann sé að ræða, þá auðugur.
 
-**Færnir:** Climb, Hide, Listen, Navigate, Spot, Stealth, Track, og þrjár af eftirfarandi eftir því sem við á og hugmynd: Skotvopn (Rifill eða Haglabyssa), Knowledge (Náttúra eða Svæði), Tungumál (Annað), Nærbaráttuvopn (venjulega Spjót), Fleygt vopn (hvaða), Ride.
+**Hæfni:** Klifra, Fela sig, Hlusta, Siglingafræði, Spotta, Læðast, Rekja, og þrjár af eftirfarandi eftir því sem við á um aðstæður og hugmynd: Skotvopn (Rifill eða Haglabyssa), Þekking (Náttúra eða Svæði), Tungumál (Annað), Nærvígisvopn (yfirleitt Spjót), Skotvopn (hvaða sem er), Ríða.
 
 #### Blaðamaður
 
-Hvort sem þú ert dálkahöfundur fyrir vikublað, vefblaðamaður, ljósmyndablaðamaður, sjónvarpsfréttamaður eða frjálslyndur fréttaskýrandi, þá hefurðu lífsviðurværi af umfjöllun og greiningu viðburða, sem á að útvarpa eða dreifa í einhverjum öðrum miðli. Þetta gæti fylgt einhver frægð eða alræmi.
+Hvort sem þú skrifar pistla fyrir vikublað, ert vefblaðamaður, ljósmyndablaðamaður, fréttaþulur eða útvarpsmaður, þá hefurðu lífsviðurværi af umfjöllun og greiningu á atburðum, sem á að varpa út eða dreifa í einhverjum öðrum miðlum. Þetta getur fylgt nokkur frægð eða ófrægð.
 
-**Auður:** Meðal til Velstæður.
+**Auður:** Meðal til ríkur.
 
-**Færnir:** Fast Talk, Insight, Tungumál (Eigið), Listen, Persuade, Research, Spot, og þrjár af eftirfarandi eftir því sem við á og hugmynd: Art (Ljósmyndun), Craft (Ljósmyndun), Disguise, Hide, Knowledge (hvaða), Tungumál (Annað), Status, Stealth, Technical (Tölvunotkun).
+**Hæfni:** Hröð orðræða, Innsæi, Tungumál (Eigin), Hlusta, Tæla, Rannsókn, Spotta, og þrjár af eftirfarandi eftir því sem við á um aðstæður og hugmynd: List (Ljósmyndun), Iðn (Ljósmyndun), Dulargervi, Fela sig, Þekking (hvaða sem er), Tungumál (Annað), Staða, Læðast, Tæknileg (Tölvunotkun).
 
 #### Verkamann
 
-Þú ert blá-kraga starfsmaður, hvort sem það er á verksmiðjulínu, í vöruhúsi eða bara erfið vinna. Vöðvar þínir og geta til að gera endurtekin verk eru mikilvægari en nokkur vitsmunastyrkur sem þú getur safnað.
+Þú ert verkamann í bláum vinnufötum, hvort sem það er á færibandi í verksmiðju, í vöruhúsi eða einföld erfiðisvinna. Vöðvarnir þínir og hæfni til að vinna endurtekin verk eru mikilvægari en nokkur heilakraftur sem þú gætir átt.
 
-**Auður:** Fátækur eða Meðal.
+**Auður:** Fátækur eða meðal.
 
-**Færnir:** Climb, Craft (hvaða), Drive, Brawl, Grapple, Heavy Machine, og fjórar aðrar, eftir því sem við á: Appraise, Fine Manipulation, Tungumál (Annað), Læsi, Repair (Vélrænn), Repair (Burðarvirki), Technical (Tölvunotkun).
+**Hæfni:** Klifra, Iðn (hvaða sem er), Aka, Slást, Glíma, Þungavélar, og fjórar aðrar, eftir því sem við á um aðstæður: Mat, Fíngerð handavinna, Tungumál (Annað), Læsi, Viðgerð (Vélbúnaður), Viðgerð (Mannvirki), Tæknileg (Tölvunotkun).
 
-#### Lögreglumaður
+#### Lögregluvörður
 
-Þú hefur vald og lögsögu til að halda uppi og verja lögin, helst í vörn fyrir almenning. Framfylgd þín á lögunum og lagabálkum er studd af valdkerfinu í samfélagi þínu.
+Þú hefur vald og lögsögu til að halda uppi og verja lögin, helst til varnar almenningi. Framfylgni þín við lögin og lagabálka er studd af valdakerfinu í samfélagi þínu.
 
-**Auður:** Venjulega Meðal. Spilltir lögreglumenn eru stundum Velstæðir.
+**Auður:** Yfirleitt meðal. Spilltir lögreglumenn eru stundum ríkir.
 
-**Færnir:** Brawl, Dodge, Fast Talk, Knowledge (Lög), Listen, Spot, og fjórar af eftirfarandi, eftir því sem við á og hugmynd: Drive, Skotvopn (hvaða), First Aid, Grapple, Insight, Knowledge (Svæði eða Hópur), Tungumál (Annað), Martial Arts, Nærbaráttuvopn (hvaða), Fleygt vopn (hvaða), Pilot (hvaða), Ride, Status, Technical (Tölvunotkun), Track.
+**Hæfni:** Slást, Víkjast, Hröð orðræða, Þekking (Lögfræði), Hlusta, Spotta, og fjórar af eftirfarandi, eftir því sem við á um aðstæður og hugmynd: Aka, Skotvopn (hvaða sem er), Skyndihjálp, Glíma, Innsæi, Þekking (Svæði eða Hópur), Tungumál (Annað), Bardagalistir, Nærvígisvopn (hvaða sem er), Skotvopn (hvaða sem er), Flug (hvaða sem er), Ríða, Staða, Tæknileg (Tölvunotkun), Rekja.
 
 #### Lögfræðingur
 
-Þú ert þjálfaður í lögum og notar lagakerfið til að sækja eða verja, eða þú fulltrúar lagalega hagsmuni einstaklinga, samtaka eða ríkisstjórna. Þó að þú hafir ekkert vald yfir eða umfram venjulegan ríkisborgara, gefur innri þekking þín á lagakerfinu þér talsvert vald innan lagakerfisins.
+Þú ert menntaður í lögfræði og notar lagakerfið til að sækja eða verja, eða þú gætir hagsmuna einstaklinga, stofnana eða ríkisstjórna. Þótt þú hafir ekkert vald umfram almennan borgara, gefur innri þekking þín á lagakerfinu þér talsverð völd innan þess.
 
-**Auður:** Skortur, Fátækur, Meðal, Velstæður, Ríkur
+**Auður:** Öreigi, Fátækur, Meðal, Ríkur, Auðugur.
 
-**Færnir:** Bargain, Fast Talk, Insight, Knowledge (Lög), ein önnur Knowledge-færni, Tungumál (Eigið), Perform (Ræðumennska), Persuade, Research, Status.
+**Hæfni:** Samningaviðræður, Hröð orðræða, Innsæi, Þekking (Lögfræði), ein önnur þekkingarhæfni, Tungumál (Eigin), Flytja (Ræðumennska), Tæla, Rannsókn, Staða.
 
 #### Vélvirki
 
-Feiti-kall, þú eyðir tíma þínum í að viðhalda, gera við og stundum byggja vélar, farartæki eða flóknari mannvirki. Þú ert góður með verkfæri, og fær um að ráða auðveldlega úr tæknilegum vandamálum eða málum.
+Þú ert vélaviðgerðarmaður, eyðir tíma þínum í að viðhalda, gera við og stundum smíða vélar, farartæki eða flóknari mannvirki. Þú ert góður með verkfæri og fær um að leysa tæknileg vandamál eða mál á auðveldan hátt.
 
-**Auður:** Fátækur til Meðal, venjulega Meðal.
+**Auður:** Fátækur til meðal, yfirleitt meðal.
 
-**Færnir:** Bargain, Craft (Málmsmíði), Drive, Fine Manipulation, Heavy Machine, Repair (Rafmagn), Repair (Rafeindatækni), Repair (Vélrænn), Repair (Burðarvirki), Spot.
+**Hæfni:** Samningaviðræður, Iðn (Málmsmíði), Aka, Fíngerð handavinna, Þungavélar, Viðgerð (Rafmagn), Viðgerð (Rafeindatækni), Viðgerð (Vélbúnaður), Viðgerð (Mannvirki), Spotta.
 
 #### Kaupmaður
 
-Þú hefur lífsviðurværi af smásölu eða heildsölu, kaupir auðlindir fyrir minna og selur fyrir meira. Þú gætir unnið í eða átt búð, eða þú gætir verið á ferðinni: farandsali, flakkandi tin-smiður, ævintýragjarn kryddkaupmaður eða alþjóðlegur sölufulltrúi.
+Þú hefur lífsviðurværi af smásölu eða heildsölu, kaupir auðlindir á minna verði og selur á hærra verði. Þú gætir unnið í eða átt búð, eða þú gætir verið á ferðinni: farandsali, flakkandi handverksmaður, ævintýragjarn kryddkaupmaður eða alþjóðlegur sölufulltrúi.
 
-**Auður:** Meðal til Ríkur, venjulega Velstæður. Leikstjórinn og leikmaðurinn ættu að ákvarða hvort persónan á sína eigin búð eða viðskiptaskip.
+**Auður:** Meðal til auðugur, yfirleitt ríkur. Spilastjórnandi og leikmaður ættu að ákveða hvort persónan eigi sína eigin búð eða verslunarskip.
 
-**Færnir:** Appraise, Bargain, Fast Talk, Knowledge (Accounting), Knowledge (Business), Persuade, Research, Status, og hvaða tvær aðrar færnir sem er sem sérgreinar, eftir því sem við á og hugmynd.
+**Hæfni:** Mat, Samningaviðræður, Hröð orðræða, Þekking (Bókhald), Þekking (Viðskipti), Tæla, Rannsókn, Staða, og hvaða tvær aðrar hæfni sem er sem sérgreinar, eftir því sem við á um aðstæður og hugmynd.
 
-#### Göfmenni
+#### Aðall
 
-Þú fæddist inn í auð og valdastétt. Í samfélagi sem viðurkennir slíka félagslega aðgreiningu er staða þín oft tengd tignum og titlum, en jafnvel þótt slíkir titlar séu merkingarlausir ertu samt auðveldlega þekktur sem einn af elítunni. Þú ert vanur glæsilegum og óhóflegum lífsstíl, og þú þekkir og ert þekktur af auðugum og öðrum aðalsfólki samfélagsins.
+Þú fæddist inn í auð og valdastétt. Í samfélagi sem viðurkennir slíkan félagslegan mismun er staða þín oft tengd tign og titlum, en jafnvel þótt slíkir titlar séu merkingarlausir ertu samt auðveldlega þekktur sem einn af yfirstéttinni. Þú ert vanur glæsilegum og óhóflegum lífsstíl og þú þekkir og ert þekktur af auðugum og öðrum af tignum uppruna í samfélaginu.
 
-**Auður:** Velstæður til Ríkur, venjulega Ríkur.
+**Auður:** Ríkur til auðugur, yfirleitt auðugur.
 
-**Færnir:** Bargain, Drive, Etiquette, Tungumál (Eigið), Tungumál (Annað), Læsi, og Status, auk hvaða þriggja annarra færna sem er sem áhugamál eða áhugasvið.
+**Hæfni:** Samningaviðræður, Aka, Etíkette, Tungumál (Eigin), Tungumál (Annað), Læsi, og Staða, auk þriggja annarra hæfna sem áhugamál eða áhugasvið.
 
 #### Dulspekingur
 
-Þú ert nemandi í huldu leyndarmálum, földum fróðleik og töfrakrafti, trúir á áhrif og forgang yfirnáttúrulegra afla. Ef við á um stillinguna gæti leikstjórinn leyft þér að nota krafta (sennilega töfra eða galdra) kannski lærða á meðan þú varst meðlimur í dulspekisamtökum eða leynifélagi.
+Þú ert námsmaður í duldum leyndarmálum, földum fróðleik og töframætti, og trúir á áhrif og yfirburði yfirnáttúrulegra krafta. Ef við á við aðstæður getur spilastjórnandi leyft þér að nota krafta (líklega töfra eða galdra), sem þú hefur kannski lært sem meðlimur í dulspekisamtökum eða leynifélagi.
 
-**Auður:** Fátækur til Ríkur, venjulega Velstæður.
+**Auður:** Fátækur til auðugur, yfirleitt ríkur.
 
-**Færnir:** Fast Talk, Insight, Knowledge (Mannfræði), Knowledge (Saga), Knowledge (Dulspeki), Tungumál (Annað), Tungumál (Eigið), Research, og hvaða tvær aðrar færnir sem er eftir því sem við á, venjulega af eftirfarandi: Art (hvaða), Craft (hvaða), Knowledge (Fornleifafræði), Medicine, Science (hvaða), eða Status.
+**Hæfni:** Hröð orðræða, Innsæi, Þekking (Mannfræði), Þekking (Saga), Þekking (Dulspeki), Tungumál (Annað), Tungumál (Eigin), Rannsókn, og hvaða tvær aðrar hæfni sem er eftir því sem við á um aðstæður, yfirleitt af eftirfarandi: List (hvaða sem er), Iðn (hvaða sem er), Þekking (Fornleifafræði), Læknisfræði, Vísindi (hvaða sem er), eða Staða.
 
-**Sérstakt:** Ef töfrar eru til staðar í stillingunni gætirðu haft töfrakrafta. Sjá *Kafli fjögur: Kraftar* fyrir frekari upplýsingar.
+**Sérstakt:** Ef töfrar eru til staðar í aðstæðum geturðu haft töfrakrafta. Sjá fjórða kafla: Kraftar fyrir frekari upplýsingar.
 
 #### Flugmaður
 
-Hvort sem það er á landi, á eða undir vatni, í lofti eða í gegnum djúp geimsins, ertu þjálfaður í að leiðbeina og fljúga farartæki af einhverju tagi, stýra því í viðskiptalegum, opinberum eða hernaðarlegum tilgangi. Starf þitt nær frá geimorrustuflugmanni til flutningaskipsstjóra, allt eftir stillingu.
+Hvort sem það er á landi, á eða undir vatni, í lofti, eða í djúpi geimsins, ertu þjálfaður í að leiðbeina og fljúga skipi af einhverju tagi, stýra því til viðskipta-, opinberra eða hernaðarlegra nota. Starf þitt er allt frá geimorrustuflugmanni til skipstjóra á trampskipi, eftir aðstæðum.
 
-**Auður:** Meðal til Velstæður. Ef þú átt þitt eigið farartæki, Velstæður.
+**Auður:** Meðal til ríkur. Ef þú átt þitt eigið skip, ríkur.
 
-**Færnir:** Drive, Heavy Machine, Listen, Navigate, Pilot (hvaða), Spot, auk hvaða fjögurra af eftirfarandi færnum sem er, eftir því sem við á: Bargain, Climb, Command, Craft (hvaða), Knowledge (Svæði), Repair (Rafmagn), Repair (Rafeindatækni), Repair (Vélrænn), Tungumál (Annað), Persuade, Science (Eðlisfræði), Science (Stjörnufræði), Technical (Tölvunotkun).
+**Hæfni:** Aka, Þungavélar, Hlusta, Siglingafræði, Flug (hvaða sem er), Spotta, auk fjögurra af eftirfarandi hæfnum, eftir því sem við á um aðstæður: Samningaviðræður, Klifra, Skipun, Iðn (hvaða sem er), Þekking (Svæði), Viðgerð (Rafmagn), Viðgerð (Rafeindatækni), Viðgerð (Vélbúnaður), Tungumál (Annað), Tæla, Vísindi (Eðlisfræði), Vísindi (Stjörnufræði), Tæknileg (Tölvunotkun).
 
 #### Stjórnmálamaður
 
-Þú hefur verið kosinn eða skipaður í valdamikla stöðu og hefur lífsviðurværi af því að taka þátt í eða stýra ríkisstarfsemi, hvort sem það er borgar- eða víðtækara. Þú gætir verið miðaldasýslumaður eða geim-öldu öldungardeildarþingmaður, allt eftir stillingu.
+Þú hefur verið kjörinn eða skipaður í valdastöðu og hefur lífsviðurværi af því að taka þátt í eða stýra ríkisstjórnarstarfsemi, hvort sem það er borgarvítt eða meira. Þú gætir verið dómari á miðöldum eða geimferðasali, eftir aðstæðum.
 
-**Auður:** Velstæður til Ríkur, venjulega Velstæður.
+**Auður:** Ríkur til auðugur, yfirleitt ríkur.
 
-**Færnir:** Bargain, Etiquette, Fast Talk, Insight, Knowledge (Lög), Persuade, Status, auk hvaða þriggja annarra færna sem er eftir því sem við á, venjulega af eftirfarandi: Knowledge (Accounting, Hópur, Saga, eða Svæði), Listen, Tungumál (Annað), Tungumál (Eigið), Perform (Ræðumennska), Research.
+**Hæfni:** Samningaviðræður, Etíkette, Hröð orðræða, Innsæi, Þekking (Lögfræði), Tæla, Staða, auk þriggja annarra hæfna eftir því sem við á um aðstæður, yfirleitt af eftirfarandi: Þekking (Bókhald, Hópur, Saga, eða Svæði), Hlusta, Tungumál (Annað), Tungumál (Eigin), Flytja (Ræðumennska), Rannsókn.
 
 #### Prestur
 
-Trú þín og trú á hið guðlega hefur leitt þig að köllun prestsembættisins, og þú eyðir tíma þínum í að prédika eða í iðkun sem hæfir dýrkun guðs þíns (eða guða). Þú gætir verið einsetumaður eða sjónvarpspredikari, allt eftir stillingu.
+Trú þín og sannfæring á hinu guðdómlega hafa leitt þig til köllunar prestsembættisins, og þú eyðir tíma þínum í að prédika eða í iðkunum sem hæfa tilbeiðslu guðs þíns (eða guða). Þú gætir verið einsetumaður eða sjónvarpspredikari, eftir aðstæðum.
 
-**Auður:** Fátækur til Velstæður, venjulega Meðal, hugsanlega Ríkur ef þú ert trúarleiðtogi stórs hóps tilbiðjenda, að geðþótta leikstjórans.
+**Auður:** Fátækur til ríkur, yfirleitt meðal, hugsanlega auðugur ef þú ert trúarleiðtogi stórs hóps tilbiðjenda, að mati spilastjórnanda þíns.
 
-**Færnir:** Fast Talk, Insight, Knowledge (Saga), Knowledge (Heimspeki), Knowledge (Trúarbrögð), Tungumál (Eigið), Perform (Ritual), Persuade, og tvær af eftirfarandi: Knowledge (Dulspeki), Tungumál (Annað), Listen, Læsi, Perform (Ræðumennska), Research, Status, Teach.
+**Hæfni:** Hröð orðræða, Innsæi, Þekking (Saga), Þekking (Heimspeki), Þekking (Trúarbrögð), Tungumál (Eigin), Flytja (Ritual), Tæla, og tvær af eftirfarandi: Þekking (Dulspeki), Tungumál (Annað), Hlusta, Læsi, Flytja (Ræðumennska), Rannsókn, Staða, Kenna.
 
-**Sérstakt:** Tengsl þín við trú eða sértrúarsöfnuð gætu veitt þér aðgang að töfra- eða yfirnáttúrulegum kröftum. Sjá *Kafli fjögur: Kraftar* fyrir frekari upplýsingar.
+**Sérstakt:** Tengsl þín við trú eða sértrúarsöfnuð geta veitt þér aðgang að töfra- eða yfirnáttúrulegum kröftum. Sjá fjórða kafla: Kraftar fyrir frekari upplýsingar.
 
 #### Sjómaður
 
-Þú plægir hafalöður, vinnur hörðum höndum við að viðhalda heilleika skips þíns, hvort sem það er sem sjóræningi, flotafyrirliði eða kaupmaður fornaldar.
+Þú plægir úthafsalöldurnar og vinnur hörðum höndum við að viðhalda heilleika skips þíns, hvort sem það er sem sjóræningi, sjóliðsforingi eða kaupmaður frá fornöld.
 
-**Auður:** Fátækur eða Meðal, venjulega Meðal.
+**Auður:** Fátækur eða meðal, yfirleitt meðal.
 
-**Færnir:** Climb, Craft (hvaða), Dodge, Grapple, Navigate, Pilot (Bátur), Swim, og hvaða þrjár af eftirfarandi: Artillery (hvaða, venjulega skipabúnaður), Command, Tungumál (Annað), Listen, Repair (Vélrænn), Repair (Burðarvirki), Spot.
+**Hæfni:** Klifra, Iðn (hvaða sem er), Víkjast, Glíma, Siglingafræði, Flug (Bátur), Sund, og þrjár af eftirfarandi: Stórskotalið (hvaða sem er, yfirleitt skipstjórn), Skipun, Tungumál (Annað), Hlusta, Viðgerð (Vélbúnaður), Viðgerð (Mannvirki), Spotta.
 
 #### Fræðimaður
 
-Nám og lærdómur skilgreina líf þitt, og þú sérhæfir þig á einu eða fleiri sviðum þekkingar, leitandi ákaft að öllu því sem hægt er að vita innan þíns vitsmunalega sviðs. Þú gætir kennt þessa þekkingu til nemenda eða safnað henni fyrir eigin notkun.
+Nám og lærdómur skilgreina líf þitt og þú sérhæfir þig á einu eða fleiri sviðum þekkingar, leitandi ákaft að öllu því sem hægt er að vita innan þíns vitsmunasviðs. Þú gætir kennt þessa þekkingu nemendum eða safnað henni til eigin nota.
 
-**Auður:** Meðal eða Velstæður, venjulega Meðal.
+**Auður:** Meðal eða ríkur, yfirleitt meðal.
 
-**Færnir:** Tungumál (Annað), Tungumál (Eigið), Persuade, Research, Teach, og veldu fimm Knowledge- eða Science-færnir sem hæfa stillingu og tengjast námsviði þínu.
+**Hæfni:** Tungumál (Annað), Tungumál (Eigin), Tæla, Rannsókn, Kenna, og veldu fimm Þekkingar- eða Vísindahæfni sem hæfa aðstæðum og tengjast námsgrein þinni.
 
 #### Vísindamaður
 
-Hvort sem þú ert ráðinn af fyrirtæki, menntastofnun, stjórnvöldum eða vinnur á eigin spýtur, kannar þú vísindasvið með ströngum getgátum, tilraunum og athugunum, endurtekur ferlið og betrumbætir þekkingargrunninn.
+Hvort sem þú ert ráðinn hjá fyrirtæki, menntastofnun, ríkinu eða vinnur á eigin spýtur, kannar þú vísindasvið með ströngum vangaveltum, tilraunum og athugunum, endurtekur ferlið og betrumbætir þekkingargrunninn.
 
-**Auður:** Meðal eða Velstæður, venjulega Velstæður.
+**Auður:** Meðal eða ríkur, yfirleitt ríkur.
 
-**Færnir:** Craft (hvaða), Persuade, Research, Status, Technical (Tölvunotkun) eða Heavy Machine, og hvaða fimm Knowledge- eða Science-færnir sem hæfa stillingu og tengjast námsviði þínu.
+**Hæfni:** Iðn (hvaða sem er), Tæla, Rannsókn, Staða, Tæknileg (Tölvunotkun) eða Þungavélar, og hvaða fimm Þekkingar- eða Vísindahæfni sem hæfa aðstæðum og tengjast námsgrein þinni.
 
 #### Þjónn
 
-Þú ert ráðinn sem hjálparhella eða þjónn, sér um heimilisstörf og innanlandseyðslu hjá velstæðum vinnuveitanda. Þú gætir verið þjónn herramanns, aðstoðarmaður hershöfðingja, eða þú gætir verið vinnukona í stórkostlegum kastala.
+Þú ert í vinnu sem aðstoðarmaður eða þjónn, sér um heimilisstörf og innanheimilisþarfir auðugs vinnuveitanda. Þú gætir verið þjónn hjá auðmanni, aðstoðarmaður hershöfðingja, eða þú gætir verið vinnukona í stóru kastalasetri.
 
-**Auður:** Fátækur til Meðal, þótt stundum hafi þjónar takmarkaðan aðgang að lífsstíl vinnuveitanda síns Velstæður eða Ríkur, að samþykki leikstjórans.
+**Auður:** Fátækur til meðal, þó að þjónar hafi stundum takmarkaðan aðgang að lífsstíl vinnuveitanda síns sem ríkur eða auðugur, með leyfi spilastjórnanda.
 
-**Færnir:** Craft (hvaða), Etiquette, Hide, Tungumál (Eigið), Listen, Stealth, og veldu fjórar af eftirfarandi sem persónulegar sérgreinar, eftir því sem við á um stillingu og hugmynd: Bargain, Drive, First Aid, Insight, Knowledge (Accounting), Tungumál (Annað), Persuade.
+**Hæfni:** Iðn (hvaða sem er), Etíkette, Fela sig, Tungumál (Eigin), Hlusta, Læðast, og veldu fjórar af eftirfarandi sem persónulegar sérgreinar, eftir því sem við á um aðstæður og hugmynd: Samningaviðræður, Aka, Skyndihjálp, Innsæi, Þekking (Bókhald), Tungumál (Annað), Tæla.
 
-#### Sjaman
+#### Sjamani
 
-Þú ert ættbálkatöframaður, fær í því að komast í samband við andaheiminn og veita höfðingja þínum og meðlimum ættbálksins ráð og aðstoð. Þú hefur leyndann fróðleik, sem hefur verið sendur áfram frá leiðbeinanda til nemanda, og þú gætir haft getu til að nota töfra. Flestir sjamanar eru meðlimir í frumstæðari menningu, þótt til séu nútíma iðkendur.
+Þú ert ættbálkagaldramaður, fær í að hafa samband við andaheiminn og veita höfðingjanum og meðlimum ættbálksins ráðgjöf og hjálp. Þú býrð yfir leyndum fróðleik sem gengur frá lærimeistara til nemanda, og þú gætir haft getu til að nota töfra. Flestir sjamanar eru meðlimir í frumstæðari menningu, þótt til séu nútíma iðkendur.
 
-**Auður:** Fátækur eða Meðal, á ættbálka-stigi tilvistar.
+**Auður:** Fátækur eða meðal, á tilverustigi ættbálks.
 
-**Færnir:** Art (hvaða), Insight, Knowledge (Saga), Knowledge (Dulspeki), Tungumál (Eigið), Listen, Perform (Rituals), Persuade, og tvær af eftirfarandi sem sérgreinar, eftir því sem við á um stillingu og hugmynd: Craft (hvaða), Fast Talk, First Aid, Hide, Knowledge (Mannfræði), Tungumál (Annað), Medicine, Science (Lyfjafræði), eða Status.
+**Hæfni:** List (hvaða sem er), Innsæi, Þekking (Saga), Þekking (Dulspeki), Tungumál (Eigin), Hlusta, Flytja (Ritual), Tæla, og tvær af eftirfarandi sem sérgreinar, eftir því sem við á um aðstæður og hugmynd: Iðn (hvaða sem er), Hröð orðræða, Skyndihjálp, Fela sig, Þekking (Mannfræði), Tungumál (Annað), Læknisfræði, Vísindi (Lyfjafræði), eða Staða.
 
-**Sérstakt:** Allt eftir stillingu gætirðu getað notað töfra. Sjá *Kafli fjögur: Kraftar* fyrir frekari upplýsingar.
+**Sérstakt:** Eftir aðstæðum gætirðu getað notað töfra. Sjá fjórða kafla: Kraftar fyrir frekari upplýsingar.
 
 #### Þræll
 
-Tekinn og hnepptur í þrældóm eða fæddur í ánauð, þú ert þræll eða vinnuþræll hjá einstökum húsbónda, eða samtökum eða trúarbrögðum. Þú gætir verið vel meðferðis: yfirhöfuð starfsfólks heimilisins, eða kannski ertu barinn og reglulega refsað og lifir í ótta. Til að vera flokkaður sem þræll er gert ráð fyrir að mestur hluti lífs þíns hafi farið í þrældóm. Ef þú varst tekinn og hnepptur í þrældóm nýlega, notaðu fyrri starfsgrein þína í staðinn.
+Tekinn höndum og þrælaður eða fæddur í ánauð, þú ert þræll eða vinnuhjú hjá einstökum húsbónda, eða hjá stofnun eða trúarbrögðum. Þú gætir verið meðhöndlaður vel: yfirmaður starfsfólks heimilisins, eða kannski ertu barinn og reglulega refsað og lifir í ótta. Til að flokkast sem þræll er gert ráð fyrir að mestur hluti lífs þíns hafi farið í þrældóm. Ef þú varst tekinn höndum og þrælaður nýlega, notaðu fyrri starfsgrein þína í staðinn.
 
-**Auður:** Skortur til Fátækur, þótt stundum hafi þrælar takmarkaðan aðgang að lífsstíl eiganda síns Velstæður eða Ríkur, að samþykki leikstjórans.
+**Auður:** Öreigi til fátækur, þó að þrælar hafi stundum takmarkaðan aðgang að lífsstíl eiganda síns sem ríkur eða auðugur, með leyfi spilastjórnanda.
 
-**Færnir:** Craft (hvaða), Dodge, Etiquette, Fast Talk, Hide, Insight, Tungumál (Annað), Listen, Stealth, og ein önnur færni sem starfsgreinasérgrein.
+**Hæfni:** Iðn (hvaða sem er), Víkjast, Etíkette, Hröð orðræða, Fela sig, Innsæi, Tungumál (Annað), Hlusta, Læðast, og ein önnur hæfni sem starfsgrein.
 
-**Athugið:** Þessa starfsgrein ætti að velja með næmni gagnvart öðrum leikmönnum og leikstjóra, og er mælt með því að sérhver persóna með þessa starfsgrein sé sloppin eða frelsuð þegar leikur byrjar.
+**Athugið:** Þessa starfsgrein ætti að velja með næmni gagnvart öðrum leikmönnum og spilastjórnanda, og mælt er með því að hver sú persóna sem hefur þessa starfsgrein sé sloppin eða leyst úr ánauð þegar leikurinn hefst.
 
-#### Hermaður
+#### Hermenn
 
-Hvort sem það er í gegnum herþjónustu eða herkvaðningu, þá ertu atvinnuhermaður, ákærður fyrir vörn lands þíns eða samtaka. Þú gætir verið málaliði eða sverðsali, eða þú gætir í raun trúað á málstaðinn sem þú berst fyrir. Hvort sem er, þá hefurðu fengið hernaðarþjálfun og vinnur í sveit annarra hermanna, gerandi það sem þér er fyrirskipað.
+Hvort sem það er í gegnum sjálfboðaliðastarf eða herskyldu, þá ertu atvinnuhermaður, ákærður fyrir vörn lands þíns eða stofnunar. Þú gætir verið málaliði eða sverðaleigumaður, eða þú gætir í raun trúað á málstaðinn sem þú berst fyrir. Hvort sem er, hefur þú hlotið hernaðarþjálfun og vinnur í herflokki með öðrum hermönnum, gerandi það sem þér er skipað.
 
-**Auður:** Fátækur eða Meðal, en fær oft aðgang að dýrum eða að öðru leyti bönnuðum búnaði.
+**Auður:** Fátækur eða meðal, en fær oft aðgang að dýrum eða að öðru leyti bönnuðum búnaði.
 
-**Færnir:** Brawl, Climb, Dodge, First Aid, og sex af eftirfarandi, eftir því sem við á um stillingu: Artillery, Command, Drive, Skotvopn (venjulega Rifill, en hvaða), Grapple, Heavy Weapon (hvaða), Hide, Tungumál (Annað), Listen, Jump, Medicine, Nærbaráttuvopn (hvaða), Fleygt vopn (hvaða), Navigate, Repair (Vélrænn), Ride, Spot, Stealth, Throw
+**Hæfni:** Slást, Klifra, Víkjast, Skyndihjálp, og sex af eftirfarandi, eftir því sem við á um aðstæður: Stórskotalið, Skipun, Aka, Skotvopn (yfirleitt Rifill, en hvaða sem er), Glíma, Þungavopn (hvaða sem er), Fela sig, Tungumál (Annað), Hlusta, Stökkva, Læknisfræði, Nærvígisvopn (hvaða sem er), Skotvopn (hvaða sem er), Siglingafræði, Viðgerð (Vélbúnaður), Ríða, Spotta, Læðast, Kasta.
 
 #### Njósnari
 
-Þú ert fær í undirferli og innrás, fer inn í lönd eða samtök undir feluleik eða í laumi, kemst að leyndarmálum þeirra og skýrir frá þeim aftur til óvinar eða áhugasams aðila.
+Þú ert fær í undirferli og innrás, ferð inn í lönd eða samtök undir dulargervi eða í leynd, finnur út leyndarmál þeirra og tilkynnir þau aftur til óvinar eða áhugasams aðila.
 
-**Auður:** Meðal eða Velstæður, allt eftir stillingu.
+**Auður:** Meðal eða ríkur, eftir aðstæðum.
 
-**Færnir:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Stealth, og þrjár af eftirfarandi, eftir því sem við á um stillingu: Art (Ljósmyndun), Brawl, Disguise, Etiquette, Skotvopn (hvaða), Grapple, Knowledge (hvaða), Tungumál (Annað), Tungumál (Eigið), Martial Arts, Navigate, Pilot (hvaða), Psychology, Repair (Rafeindatækni), Repair (Vélrænn), Ride, Swim, Technical (Tölvunotkun), Throw, Track.
+**Hæfni:** Víkjast, Hröð orðræða, Fela sig, Hlusta, Rannsókn, Spotta, Læðast, og þrjár af eftirfarandi, eftir því sem við á um aðstæður: List (Ljósmyndun), Slást, Dulargervi, Etíkette, Skotvopn (hvaða sem er), Glíma, Þekking (hvaða sem er), Tungumál (Annað), Tungumál (Eigin), Bardagalistir, Siglingafræði, Flug (hvaða sem er), Sálfræði, Viðgerð (Rafeindatækni), Viðgerð (Vélbúnaður), Ríða, Sund, Tæknileg (Tölvunotkun), Kasta, Rekja.#### Námsmaður
 
-#### Nemi
+Þú eyðir tíma þínum í nám, annaðhvort sem almennur námsmaður eða lærlingur hjá einhverjum meistara. Námsbraut þín gæti verið við virta háskóla, í bardagalitalistaskóla, galdraskóla eða hjá einhverri annarri einkarekinni og sértækri stofnun.
 
-Þú eyðir tíma þínum í námi, annaðhvort sem almennur nemandi eða nemi hjá einhverjum meistara. Námskrá þín gæti verið í virtum háskóla, bardagalistaskóla, galdraskóla eða hjá einhverri einkarekinni og einkaréttri stofnun.
+**Auður:** Fátækur til auðugur, yfirleitt miðlungi.
 
-**Auður:** Fátækur til Ríkur, venjulega Meðal.
+**Hæfni:** Tungumál (eigið), Rannsóknir, og veldu átta aðrar hæfni sem námsgreinar, eftir því sem við á fyrir heiminn og persónuna. Algengir valkostir eru af eftirfarandi lista: List (hver sem er), Iðn (hver sem er), Fyrsta hjálp, Innsæi, Þekking (hver sem er), Tungumál (annað), Hlustun, Læknisfræði, Viðgerð (hver sem er), Flytja, Tæla, Sálfræðimeðferð, Vísindi (hver sem er), Tæknileg (tölvunotkun), og ein líkamleg hæfni (ef stundaðar eru íþróttir).
 
-**Færnir:** Tungumál (Eigið), Research, og veldu átta aðrar færnir sem námsskeið, eftir því sem við á um stillingu og hugmynd. Algengir kostir eru af eftirfarandi lista: Art (hvaða), Craft (hvaða), First Aid, Insight, Knowledge (hvaða), Tungumál (Annað), Listen, Medicine, Repair (hvaða), Perform, Persuade, Psychotherapy, Science (hvaða), Technical (Tölvunotkun), og ein líkamleg færni (ef þátttaka er í íþróttum).
-
-**Sérstakt:** Nemar í leyndardómslistum gætu haft aðgang að töfrum eða göldrum, eða þú gætir verið í skóla til að hjálpa þér að stjórna ofurkröftum þínum, stökkbreytingum eða sálrænum hæfileikum. Sjá *Kafli fjögur: Kraftar* fyrir frekari upplýsingar.
+**Sérstakt:** Námsmenn í leyndardómslistum gætu haft aðgang að töfrum eða seiðlist, eða þú gætir verið í skóla til að hjálpa þér að stjórna ofurkröftum þínum, stökkbreytingum eða sálrænum hæfileikum. Sjá fjórða kafla: Kraftar fyrir frekari upplýsingar.
 
 #### Kennari
 
-Þú ert leiðbeinandi í einni eða fleiri greinum, kennir hópum eða kennir einum nemanda. Hvort sem þú ert ráðinn af háskóla, framhaldsskóla eða annarri menntastofnun, kennir þú nemendum í fræðilegu umhverfi í átt að einhverjum staðli árangurs.
+Þú ert leiðbeinandi í einni eða fleiri greinum, kennir hópum eða leiðbeinir einstökum nemendum. Hvort sem þú ert ráðinn af háskóla, menntaskóla eða annarri menntastofnun, kennir þú nemendum í fræðilegu umhverfi í átt að einhverjum staðli árangurs.
 
-**Auður:** Meðal eða Velstæður, venjulega Meðal.
+**Auður:** Miðlungi eða vel stæður, yfirleitt miðlungi.
 
-**Færnir:** Tungumál (Eigið), Persuade, Research, Status, Teach, og veldu fimm aðrar færnir sem sérfræðisvið, eftir því sem við á um stillingu og hugmynd. Algengir kostir eru af eftirfarandi lista: Art (hvaða), Craft (hvaða), First Aid, Insight, Knowledge (hvaða), Tungumál (Annað), Listen, Medicine, Repair (hvaða), Perform, Persuade, Psychotherapy, Science (hvaða), Technical (Tölvunotkun).
+**Hæfni:** Tungumál (eigið), Tæla, Rannsóknir, Staða, Kenna, og veldu fimm aðrar hæfni sem sérsvið, eftir því sem við á fyrir heiminn og persónuna. Algengir valkostir eru af eftirfarandi lista: List (hver sem er), Iðn (hver sem er), Fyrsta hjálp, Innsæi, Þekking (hver sem er), Tungumál (annað), Hlustun, Læknisfræði, Viðgerð (hver sem er), Flytja, Tæla, Sálfræðimeðferð, Vísindi (hver sem er), Tæknileg (tölvunotkun).
 
 #### Tæknimaður
 
-Sérhæfður í viðhaldi, viðgerðum og notkun flókinna véla, tölva eða annarrar rafeindatækni, þú ert mjög fær í að takast á við tæknileg vandamál eða mál. Þú hannað ekki þessar vélar, þótt þú gætir mögulega þekkt þær betur en höfundar þeirra.
+Sérhæfður í viðhaldi, viðgerðum og notkun flókinna véla, tölva eða annarrar rafeindatækni, þú ert mjög fær í að takast á við verkfræðileg kerfi. Þú hannar ekki þessar vélar, þótt þú gætir hugsanlega þekkt þær betur en skaparar þeirra.
 
-**Auður:** Meðal eða Velstæður.
+**Auður:** Miðlungi eða vel stæður.
 
-**Færnir:** Fine Manipulation, Heavy Machine, Listen, Repair (hvaða), Science (Eðlisfræði), Research, Spot, Technical (Tölvunotkun), og tvær aðrar færnir af eftirfarandi lista sem sérgrein, eftir því sem við á um stillingu og hugmynd: Craft (hvaða), Drive, Pilot (hvaða).
+**Hæfni:** Fínvinnsla, Þungavélar, Hlustun, Viðgerð (hver sem er), Vísindi (eðlisfræði), Rannsóknir, Athugun, Tæknileg (tölvunotkun), og tvær aðrar hæfni af eftirfarandi lista sem sérgrein, eftir því sem við á fyrir heiminn og persónuna: Iðn (hver sem er), Akstur, Flug (hvert sem er).
 
 #### Þjófur
 
-Þú tekur það sem þú vilt, annaðhvort til að lifa af eða vegna þess að það höfðar til þín. Þú gætir verið lítill vasaþjófur, alræmdur ræningi eða glæsilegur alþjóðlegur skartgripaþjófur. Þú flækir lögin til að stela, annaðhvort vopnaður, með klárri blekkingu, laumuspili eða einhverri blöndu af öllu þrennu.
+Þú tekur það sem þú vilt, annaðhvort til að lifa af eða af því að það höfðar til þín. Þú gætir verið lágkúrulegur vasaþjófur, alræmdur ræningi eða glæsilegur alþjóðlegur skartgripaþjófur. Þú brýtur lögin til að stela, annaðhvort vopnaður, með snjöllum blekkingum, laumuspili eða einhverri blöndu af öllu þrennu.
 
-**Auður:** Allir, háð samþykki leikstjóra.
+**Auður:** Hvaða sem er, háð samþykki leikstjóra.
 
-**Færnir:** Appraise, Dodge, Fast Talk, Hide, Stealth, og fimm aðrar færnir af eftirfarandi lista, eftir því sem við á um stillingu og hugmynd: Bargain, Brawl, Climb, Disguise, Fine Manipulation, Skotvopn (Skammbyssa, Revolver, eða Haglabyssa), Grapple, Insight, Listen, Jump, Knowledge (Lög), Persuade, Repair (Vélrænn), eða Spot.
+**Hæfni:** Mat, Undanbrögð, Hraðmæli, Feluleikur, Laumuspil, og fimm aðrar hæfni af eftirfarandi lista, eftir því sem við á fyrir heiminn og persónuna: Samningar, Slagsmál, Klifur, Dulbúningur, Fínvinnsla, Skotvopn (skammbyssa, revolver eða haglabyssa), Fangbrögð, Innsæi, Hlustun, Stökk, Þekking (lögfræði), Tæla, Viðgerð (vélræn), eða Athugun.
 
 #### Ættbálkamaður
 
-Þú kemur úr frumstæðri menningu, ert viðurkenndur meðlimur ættbálks, og ert ókunnugur flestum þáttum siðmenningarinnar. Þú lifir af með því að veiða eða safna, og heimur þinn er lítill: þorpið þitt og umhverfið í kring.
+Þú kemur úr frumstæðri menningu, ert viðurkenndur meðlimur ættbálks og ókunnugur flestum þáttum siðmenningarinnar. Þú lifir af með veiðum eða söfnun og heimur þinn er lítill: þorpið þitt og nærumhverfið.
 
-**Auður:** Skortur til Fátækur, á ættbálka-stigi tilvistar. Eða þú gætir verið göfmenni ættbálksins, með hærra auðæfastig, allt eftir Status þínum.
+**Auður:** Öreigi til fátækur, á ættbálkastigi. Eða þú gætir verið höfðingi ættbálksins, með hærra auðsstig, eftir því hver staða þín er.
 
-**Færnir:** Craft (hvaða), Dodge, Grapple, Hide, Knowledge (Náttúrufræði), Spot, Throw, Track, og tvær af eftirfarandi færnum, eftir því sem við á um stillingu: Brawl, Climb, First Aid, Listen, Jump, Knowledge (Dulspeki), Nærbaráttuvopn (venjulega Spjót eða Kylfa), Fleygt vopn (Bogi), Tungumál (Annað), Ride, Stealth, Swim.
+**Hæfni:** Iðn (hver sem er), Undanbrögð, Fangbrögð, Feluleikur, Þekking (náttúrusaga), Athugun, Kast, Rekja, og tvær af eftirfarandi hæfnum, eftir því sem við á fyrir heiminn: Slagsmál, Klifur, Fyrsta hjálp, Hlustun, Stökk, Þekking (dulspeki), Nærsviðsvopn (yfirleitt spjót eða kylfa), Fjarvígvopn (bogi), Tungumál (annað), Reiðmennska, Laumuspil, Sund.
 
-#### Stríðsmaður
+#### Bardagamaður
 
-Þú sérhæfir þig í einstaklingsbardaga, lifir af með viðbrögðum þínum og vopnafærni. Kannski heldurðu í siðareglur eins og riddaramennsku eða bushido, eða þú ert málaliði eða barbara-ævintýramaður. Hermenn berjast í hópum eða sveitum, á meðan stríðsmenn horfa aðeins á eigin getu.
+Þú sérhæfir þig í einstaklingsbardögum, lifir af fyrir tilstilli viðbragða þinna og vopnafærni. Kannski fylgir þú heiðurskóða eins og riddaramennsku eða bushido, eða þú ert málaliði eða villtur ævintýramaður. Hermenn berjast í hópum eða deildum, á meðan bardagamenn líta aðeins á eigin afreksverk.
 
-**Auður:** Skortur til Meðal, venjulega Fátækur.
+**Auður:** Öreigi til miðlungi, yfirleitt fátækur.
 
-**Færnir:** Brawl, Dodge, Grapple, Nærbaráttuvopn (hvaða), Fleygt vopn (hvaða), og fimm aðrar færnir af eftirfarandi lista sem sérgreinar, eftir því sem við á um stillingu og hugmynd: Climb, Skotvopn (hvaða), Hide, Listen, Jump, Tungumál (Annað), Martial Arts, Ride, Spot, Stealth, Swim, Throw, Track.
+**Hæfni:** Slagsmál, Undanbrögð, Fangbrögð, Nærsviðsvopn (hvert sem er), Fjarvígvopn (hvert sem er), og fimm aðrar hæfni af eftirfarandi lista sem sérgreinar, eftir því sem við á fyrir heiminn og persónuna: Klifur, Skotvopn (hvert sem er), Feluleikur, Hlustun, Stökk, Tungumál (annað), Bardagalistir, Reiðmennska, Athugun, Laumuspil, Sund, Kast, Rekja.
 
 #### Galdramaður
 
-Þú skilur og getur notað töfra eða galdra. Með söng og bendingum geturðu framleitt töfraáhrif, og þú helgar þig því að bæta og auka úrval galdra þinna og persónulegan aðgang að kraftpunktum.
+Þú skilur og getur notað töfra eða seiðlist. Með þulum og bendingum geturðu framkallað töfraáhrif og þú helgar þig því að bæta og auka úrval galdra þinna og persónulegan aðgang þinn að máttarstigum (power points).
 
-**Auður:** Fátækur til Ríkur, venjulega Velstæður.
+**Auður:** Fátækur til auðugur, yfirleitt vel stæður.
 
-**Færnir:** Craft (hvaða), Insight, Knowledge (Dulspeki), tvær aðrar Knowledge (hvaða) færnir, Tungumál (Annað), Listen, Perform (Rituals), Persuade, Research.
+**Hæfni:** Iðn (hver sem er), Innsæi, Þekking (dulspeki), tvær aðrar Þekking (hver sem er) hæfni, Tungumál (annað), Hlustun, Flytja (helgisiðir), Tæla, Rannsóknir.
 
-**Sérstakt:** Þú getur notað töfra eða galdra. Vinndu með leikstjóranum þínum að því að ákvarða upphafsgaldra þína (sjá *Kafli fjögur: Kraftar*).
+**Sérstakt:** Þú getur notað töfra eða seiðlist. Vinndu með leikstjóra þínum til að ákvarða upphafsgaldra þína (sjá fjórða kafla: Kraftar).
 
-#### Ritari
+#### Rithöfundur
 
-Þú skrifar prósa, ljóð, handrit eða einhverja aðra mynd. Þú ert þægastur við að eiga samskipti í skrifum, og orð þín hafa kraftinn til að skemmta, upplýsa eða sannfæra þá sem lesa þau.
+Þú skrifar laust mál, ljóð, handrit eða einhverja aðra tegund af texta. Þér líður best við að tjá þig í skriflegu formi og orð þín hafa mátt til að skemmta, upplýsa eða sannfæra þá sem lesa þau.
 
-**Auður:** Fátækur til Ríkur, venjulega Meðal.
+**Auður:** Fátækur til auðugur, yfirleitt miðlungi.
 
-**Færnir:** Art (skrif), Insight, Tungumál (Eigið), Persuade, Research, og fimm aðrar færnir af eftirfarandi lista sem sérgreinar, eftir því sem við á: Fast Talk, Knowledge (hvaða), Tungumál (Annað), Listen, Status, Technical (Tölvunotkun).
+**Hæfni:** List (skriftir), Innsæi, Tungumál (eigið), Tæla, Rannsóknir, og fimm aðrar hæfni af eftirfarandi lista sem sérgreinar, eftir því sem við á: Hraðmæli, Þekking (hver sem er), Tungumál (annað), Hlustun, Staða, Tæknileg (tölvunotkun).
 
-## Lokafrágangur
+## Lokahnykkir
 
-Á þessum tímapunkti ertu búinn með persónugerð, að því tilskildu að leikurinn þinn hafi enga galdra, stökkbreytingar, sálræna hæfileika, galdra eða ofurkrafta fyrir upphafspersónur þínar. Ef þessir eru í boði, flettu í *Kafli fjögur: Kraftar* og byrjaðu að velja þá, með aðstoð leikstjórans.
+Á þessum tímapunkti ertu búinn með gerð persónunnar, að því gefnu að leikurinn þinn hafi ekki töfragaldra, stökkbreytingar, sálræna hæfileika, seiðlist eða ofurkrafta fyrir byrjunarpersónurnar þínar. Ef þetta er í boði, skaltu snúa þér að fjórða kafla: Kraftar og byrja að velja þá, með aðstoð leikstjórans þíns.
 
-Bakgrunnur er oft mikilvægur hluti af persónu, en þetta er það minnst mælanlega í leikreglum. Reyndu að koma með þætti af reynslu eða sjálfsmynd sem drífa persónuna þína, með því að spyrja einfaldra spurninga eins og einhverra af eftirfarandi:
+Bakgrunnur er oft mikilvægur hluti af persónu, en þetta er það sem er hvað erfiðast að mæla í leikjareglum. Reyndu að koma með þætti í reynslu eða sjálfsmynd sem reka persónuna þína áfram, með því að spyrja einfaldra spurninga eins og einhverra af eftirfarandi:
 
-* Hvaða harmleiki og sigra hefur hún upplifað?
+* Hvaða harmleiki og sigra hafa þau upplifað?
 
-* Hvar ólst hún upp?
+* Hvar ólust þau upp?
 
-* Hver var áhrifamesta manneskjan í lífi hennar?
+* Hver var áhrifamesta manneskjan í lífi þeirra?
 
-* Hverjir eru fjölskylda hennar? Eru foreldrar hennar enn á lífi?
+* Hver er fjölskylda þeirra? Eru foreldrar þeirra enn á lífi?
 
-* Er hún ástfangin? Er hún eða var hún gift? Börn?
+* Eru þau ástfangin? Eru eða voru þau gift? Börn?
 
-* Er hún hamingjusöm í lífinu?
+* Eru þau hamingjusöm í lífinu?
 
-* Hefur hún marga vini? Hvað með óvini?
+* Eiga þau marga vini? Hvað með óvini?
 
-* Hverju vill hún ná?
+* Hverju vilja þau ná fram?
 
-Þú getur skoðað persónublaðið þitt og hugleitt valið sem þú hefur tekið við persónugerð. Kannski gefa sumar færnirnar til kynna persónuleikagerð, svo sem námsfús, fjölbreyttur, ofbeldisfullur eða einhver önnur slík lýsingarorð. Þú gætir reynt að finna „rödd“ persónunnar, eða einhverja aðra leið til tjáningar sem lætur hana lifna við við spilaborðið. Ekki allir vilja vera leiklistarfólk, þó, og ekki finnast þörf á að koma að borðinu með ítarlegan persónuleika og bakgrunnssögu fyrir persónuna þína. Eitthvað af því mun koma í gegnum hlutverkaleikjaupplifunina, og eitthvað af því mun koma náttúrulega þegar persónan þín mætir ævintýrum og erfiðleikum.
+Þú getur skoðað persónublaðið þitt og velt fyrir þér valkostunum sem þú hefur tekið við gerð persónunnar. Kannski gefa sumar hæfnanna til kynna persónuleikagerð, eins og iðin, fjölbreytt, ofbeldisfull eða einhver önnur slík lýsingarorð. Þú gætir reynt að finna „rödd“ persónunnar, eða einhverja aðra tjáningarleið sem gerir þá lifandi við leikborðið. Ekki vilja þó allir vera leikarar, og ekki finnast þú þurfa að koma að borðinu með djúpan persónuleika og bakgrunnssögu fyrir persónuna þína. Eitthvað af því kemur í gegnum hlutverkaleikinn og sumt kemur náttúrulega þegar persónan þín mætir ævintýrum og mótlæti.
 
-Erfiði hlutinn er búinn—nú getur skemmtunin byrjað!
+Erfiði hlutinn er búinn—nú getur skemmtunin hafist!
 
 > ### Menning og persónur (Valkostur)
->
-> Margar stillingar, sérstaklega sögulegar eða fantasíu, bjóða upp á aðgreinda og upprunalega menningarheima, venjulega með eiginleika sem eru sameiginlegir íbúum þeirra. Þessa eiginleika má skilgreina sem kynþætti, menningu, eða jafnvel alla íbúa plánetu. Leikstjórinn gæti valið að þróa menningarlegan bakgrunn sem hæfir upprunalegri eða aðlagaðri stillingu. Stundum getur þetta leitt til staðalímynda, og leikstjórinn ætti að íhuga þetta með varúð.
->
-> Menningarlegur bakgrunnur er ekki nauðsynlegur—meðlimir menningarheims eru óhjákvæmilega nógu ólíkir til að leyfa fjölbreytt safn færna og eiginleika, en þú og leikstjórinn gætu fundist þeir bæta dýrmætum þætti við leikstillingu. Hver lýsing á menningarlegum bakgrunni getur innihaldið suma eða alla eftirfarandi:
->
-> **Leiðtogi:** Valdhafinn, forseti, yfirvald eða önnur stjórnarstofnun landsins eða svæðisins.
->
-> **Menning:** Ríkjandi menning svæðisins. Venjulega mannleg, þó að *Kafli ellefu: Verur* innihaldi dæmi um ekki-mannlega kynþætti.
->
-> **Útlit:** Einn eða fleiri af einkennandi eiginleikunum gæti verið sameiginlegur menningunni eða hópnum, svo sem litarefni eða andlitseiginleikar.
->
-> **Framkoma:** Ef við á, gætu persónuleikaþættir verið sameiginlegir menningunni eða hópnum. Ekki eru allir svona, hins vegar, og hægt er að hunsa þetta ef þess er óskað.
->
-> **Tungumál:** Tungumálið eða tungumálin sem eru almennt töluð eða þekkt af innfæddum á þessu svæði.
->
-> **Starfsgreinar:** Starfsgreinar sameiginlegar fólki svæðisins. Þetta eru ekki þær einu sem iðkaðar eru hér—þær eru aðeins þær algengustu eða einkennandi fyrir samfélagið. Þrjár er góður fjöldi af þessum.
->
-> **Trúarbrögð:** Hvaða guð eða guðir eru dýrkaðir almennt á þessu svæði? Ef Allegiances (tryggðir) gegna hlutverki í herferðinni, þá ætti trúarbrögð að vera með.
->
-> **Vopn og brynjur:** Í sögulegum eða fantasíustillingum eru vopn og brynjur í miðaldastíl oft nokkuð mismunandi milli landa, og herir hvers lands hafa tilhneigingu til að þjálfast með mismunandi vopnastílum. Þetta er minna einkennandi eftir því sem stillingar verða nútímalegri, þó leikstjórinn geti notað þessar upplýsingar þegar hann útbýr leikstjórapersónur.
->
-> **Menningarlegar færnir:** Sumar færnir gætu verið almennt kenndar og notaðar innan þessarar menningar sem hluti af félagsmótun og almennri menntun. Að geðþótta leikstjóra gætu þessar færnir fengið lítinn bónus. Ef bónusar á færnir eru notaðir, er mælt með því að hver menning fái jafna bónusa, þó á mismunandi safn færna.
->
-> **Hlutir:** Þetta gæti innihaldið mikilvæga eign sameiginlega einhverjum úr þessari menningu, oft af trúarlegri eða félagslegri þýðingu. Hún þarf ekki að vera dýrmæt, og persónur úr þessari menningu eru undir engri skyldu að halda eign á þessum hlut.
+> 
+> Margir heimar, sérstaklega sögulegir eða fantasíuheimar, bjóða upp á sérstaka og upprunalega menningu, yfirleitt með eiginleika sem eru sameiginlegir íbúunum. Þessir eiginleikar geta verið skilgreindir sem kynþættir, menning eða jafnvel allir íbúar plánetu. Leikstjórinn þinn gæti valið að þróa menningarlegan bakgrunn sem hæfir upprunalegum eða aðlöguðum heimi. Stundum getur þetta leitt til staðalímynda og leikstjórinn þinn ætti að íhuga þetta af varúð.
+> 
+> Menningarlegur bakgrunnur er ekki nauðsynlegur—meðlimir menningarheima eru óhjákvæmilega nógu ólíkir til að leyfa fjölbreytt úrval hæfni og eiginleika, en þú og leikstjórinn þinn gætuð fundist þeir bæta verðmætum þætti við leikheiminn. Hver menningarleg bakgrunnslýsing getur innihaldið suma eða alla af eftirfarandi:
+> 
+> **Leiðtogi:** Stjórnandinn, forsetinn, yfirvaldið eða önnur stjórnarstofnun landsins eða svæðisins.
+> 
+> **Menning:** Ríkjandi menning svæðisins. Yfirleitt mannleg, þó að ellefti kafli: Verur innihaldi dæmi um ekki-mannlegar tegundir.
+> 
+> **Útlit:** Einn eða fleiri af sérkennunum gætu verið algengir fyrir menninguna eða hópinn, svo sem litarefni eða andlitsdrættir.
+> 
+> **Framkoma:** Ef við á, geta persónuleikaeinkenni verið algeng fyrir menninguna eða hópinn. Ekki eru þó allir þannig og hægt er að hunsa þetta ef vill.
+> 
+> **Tungumál:** Tungumálið eða tungumálin sem móðurmálsmenn á þessu svæði tala eða þekkja.
+> 
+> **Starfsgreinar:** Starfsgreinar sem eru algengar hjá fólki á svæðinu. Þetta eru ekki þær einu sem stundaðar eru hér—þær eru einfaldlega þær algengustu eða dæmigerðustu fyrir samfélagið. Þrjár er góður fjöldi af þessum.
+> 
+> **Trúarbrögð:** Hvaða guð eða guðir eru tilbeðnir almennt á þessu svæði? Ef tryggðir (Allegiances) gegna hlutverki í herferðinni, þá ætti að innihalda trúarbrögð.
+> 
+> **Vopn og brynja:** Í sögulegum eða fantasíuheimum eru miðalda-stíl vopn og brynja oft talsvert ólík á milli landa og herir hvers lands hafa tilhneigingu til að þjálfa með mismunandi vopnastílum. Þetta er minna áberandi eftir því sem heimarnir verða nútímalegri, þó að leikstjórinn þinn geti notað þessar upplýsingar við búnað óleikinna persóna.
+> 
+> **Menningarhæfni:** Sumar hæfni gætu verið almennt kenndar og notaðar innan þessarar menningar sem hluti af félagsmótun og almennri menntun. Að mati leikstjórans þíns gætu þessar hæfni fengið lítinn bónus. Ef bónusar á hæfni eru notaðir, er mælt með því að hver menning fái jafna bónusa, þó fyrir mismunandi hæfni.
+> 
+> **Hlutir:** Þetta gæti innihaldið mikilvæga eign sem er algeng fyrir einhvern úr þessari menningu, oft af trúarlegu eða félagslegu mikilvægi. Hann þarf ekki að vera verðmætur og persónur úr þessari menningu eru ekki undir neinni skyldu að halda þessum hlut í sinni vörslu.
+
 
 > ### Að búa til nýjar starfsgreinar
->
-> Ef þessi listi yfir starfsgreinar býður ekki upp á starfsgrein sem þú vilt að persónan þín sé, geturðu búið til þína eigin með samþykki leikstjórans. Leikstjórinn gæti líka viljað finna upp nýjar starfsgreinar fyrir ákveðna stillingu.
->
-> Lýstu fyrst nýju starfsgreininni fyrir leikstjóranum þínum. Ákveddu hvort þessi nýja starfsgrein sé lík annarri sem veitt er hér. Ef hún er næstum eins og núverandi, þá geturðu breytt nokkrum af nauðsynlegum færnum þar til nýja starfsgreinin passar við hugmynd þína. Þú getur líka breytt auðæfastiginu samkvæmt nýju starfsgreininni.
->
-> Til dæmis, *þú ákveður að „leigubílstjóri“ sé ný starfsgrein. Leikstjórinn viðurkennir að þetta sé í raun land-bundin útgáfa af Flugmaður-starfsgreininni. Héðan velurðu og leikstjórinn að breyta auðæfastigi persónunnar þinnar úr Fátækur í Meðal, og breyta færniskránni í: Bargain, Drive (Bifreið), Knowledge (Accounting), Knowledge (Svæði: Borgin), Listen, Navigate, Tungumál (Annað), Repair (Vélrænn), og Spot.*
->
-> *Voila, leigubílstjóra-starfsgrein!*
->
+> 
+> Ef þessi listi yfir starfsgreinar býður ekki upp á starfsgrein sem þú vilt að persónan þín sé, geturðu búið til þína eigin með samþykki leikstjórans þíns. Leikstjórinn þinn gæti líka viljað hanna nýjar starfsgreinar fyrir tiltekinn heim.
+> 
+> Lýstu fyrst nýju starfsgreininni fyrir leikstjóranum þínum. Ákveddu hvort þessi nýja starfsgrein sé lík annarri sem hér er gefin. Ef hún er næstum eins og núverandi starfsgrein, þá geturðu breytt nokkrum af nauðsynlegum hæfnum þar til nýja starfsgreinin passar við hugmynd þína. Þú getur líka breytt auðsstiginu eftir nýju starfsgreininni.
+> 
+> Til dæmis, *þú ákveður að „leigubílstjóri“ sé ný starfsgrein. Leikstjórinn þinn viðurkennir að þetta sé í raun landbundin útgáfa af flugmannastarfinu. Héðan veljið þú og leikstjórinn þinn að breyta auðsstigi persónunnar úr fátækur í miðlungi og lagfæra hæfnilistann í: Samningar, Akstur (bifreið), Þekking (bókhald), Þekking (svæði: borgin), Hlustun, Sigling, Tungumál (annað), Viðgerð (vélræn), og Athugun.*
+> 
+> *Voila, leigubílstjórastarfið er tilbúið!*
+> 
 > Ef þú vilt búa til algjörlega nýja starfsgrein:
->
-> * Ákveddu titil á starfsgreininni.
->
-> * Lýstu (munnlega eða skriflega) starfsgreininni fyrir leikstjóranum þínum, þar með talið hvað þeir eyða tíma sínum í að gera, hvaða þjálfun þeir gætu haft, og kannski vísbendingu um stöðu þeirra í samfélaginu.
->
-> * Ákveddu viðeigandi auðæfastig eða svið auðæfastiga.
->
-> * Veldu tíu færnir sem eru nauðsynlegar eða mest notaðar af meðlimi þessarar starfsgreinar. Þetta getur líka innihaldið „veldu einn (eða fleiri) úr eftirfarandi“ valkost svo lengi sem heildarfjöldi tiltækra færna er jafn tíu.
->
-> Til dæmis, *þú gætir viljað leika algjörlega nýja starfsgrein: faglegur þýðandi. Leikstjórinn samþykkir að þetta sé nógu einstök starfsgrein til að réttlæta nýja lýsingu. Í fyrsta lagi ákveðið þið báðir að auðæfastig þýðanda sé almennt Meðal. Í öðru lagi, fyrir upphafsfærnirnar, velurðu: Etiquette, Fast Talk, Insight, Knowledge (Mannfræði), Knowledge (Málvísindi), Tungumál (Eigið), Tungumál (Annað), Listen, Persuade, og Research. Nýja starfsgreinin er fullbúin og tilbúin til notkunar.*
+> 
+> * Ákveðdu nafn á starfsgreininni.
+> 
+> * Lýstu (munnlega eða skriflega) starfsgreininni fyrir leikstjóranum þínum, þar á meðal hvað þeir eyða tíma sínum í, hvaða þjálfun þeir gætu haft, og kannski vísbendingu um stöðu þeirra í samfélaginu.
+> 
+> * Ákveðdu viðeigandi auðsstig eða svið auðsstiga.
+> 
+> * Veldu tíu hæfni sem eru nauðsynlegar eða mest notaðar af meðlimi þessarar starfsgreinar. Þetta getur líka innihaldið „veldu einn (eða fleiri) úr eftirfarandi“ valkost svo lengi sem heildarfjöldi tiltækra hæfni er tíu.
+> 
+>   Til dæmis, *þú gætir viljað spila algjörlega nýja starfsgrein: faglegur þýðandi. Leikstjórinn þinn samþykkir að þetta sé nógu einstök starfsgrein til að réttlæta nýja lýsingu. Í fyrsta lagi ákveðið þið bæði að auðsstig þýðanda sé yfirleitt miðlungi. Í öðru lagi, fyrir upphafshæfni, velurðu: Etíkett, Hraðmæli, Innsæi, Þekking (mannfræði), Þekking (málvísindi), Tungumál (eigið), Tungumál (annað), Hlustun, Tæla, og Rannsóknir. Nýja starfsgreinin er fullbúin og tilbúin til notkunar.*

@@ -1,399 +1,400 @@
-# 2. Veikėjai
+# 2\. Veikėjai
 
-Paprastai tariant, jūsų **veikėjas** – tai **jūs** žaidimo pasaulyje, asmenybė, kurią įkūnijate žaidimo metu. Veikėjas yra visų vaidmenų žaidimų ašis – fizinių bei protinių gebėjimų, įgūdžių ir kitų aprašomųjų savybių abstrakcija. Su žaidimo vedėju šiame pasaulyje sąveikaujate per savo veikėją. Dauguma žaidėjų valdomų veikėjų vadinami **žaidėjų veikėjais** (angl. *player characters* – PC).
+Paprastai tariant, jūsų **veikėjas** – tai **jūs** žaidimo pasaulyje, asmenybė, kurią įkūnijate žaidimo metu. Veikėjas yra visų vaidmenų žaidimų ašis – fizinių bei protinių gebėjimų, įgūdžių ir kitų aprašų abstrakcija. Su žaidimo vedėju šiame pasaulyje bendraujate per savo veikėją. Dauguma žaidėjų valdomų veikėjų yra **žaidėjų veikėjai** (ŽV).
 
-Jūsų žaidimo vedėjas žaidėjams aprašo aplinką, situacijas ir susidūrimus. Žaidimo vedėjas turi savo žinioje kitų veikėjų sąrašą, vadinamų **ne žaidėjų veikėjais** (angl. *non-player characters* – NPC). Tiek žaidėjų, tiek ne žaidėjų veikėjai naudoja tas pačias taisykles, nors paprastai ne žaidėjų veikėjai yra mažiau detalūs, nes jie rečiau susiduria su tokia situacijų įvairove kaip žaidėjų veikėjai.
+Žaidimo vedėjas žaidėjams aprašo aplinką, situacijas ir susidūrimus. Žaidimo vedėjas disponuoja kitų veikėjų sąrašu, vadinamų **ne žaidėjų veikėjais** (NŽV). Tiek žaidėjų, tiek ne žaidėjų veikėjai naudoja tas pačias taisykles, nors paprastai ne žaidėjų veikėjai yra mažiau detalūs nei žaidėjų veikėjai, nes NŽV retai susiduria su tokia situacijų įvairove, kaip žaidėjų veikėjai.
 
-*Vienuoliktas skyrius: Būtybės* aprašo, kaip žaidimo vedėjas gali kurti tinkamus ne žaidėjų veikėjus, ir pateikia paruoštų naudoti ne žaidėjų veikėjų sąrašą (taip pat monstrus ir kitas būtybes) įvairioms aplinkoms ir epochoms. Šis skyrius skirtas žaidėjų veikėjams ir yra būtinas skaityti tiek jums, tiek jūsų žaidimo vedėjui.
+*Vienuoliktas skyrius: Būtybės* aprašo, kaip žaidimo vedėjas gali sukurti tinkamus ne žaidėjų veikėjus, ir pateikia paruoštų naudoti ne žaidėjų veikėjų (taip pat pabaisų ir kitų būtybių) sąrašą įvairiems nustatymams bei epochoms. Šiame skyriuje kalbama apie žaidėjų veikėjus, todėl jį būtina perskaityti tiek jums, tiek jūsų žaidimo vedėjui.
 
-Kai minimas terminas „veikėjas“, jis taikomas ir žaidėjų veikėjams, ir ne žaidėjų veikėjams.
+Kai minimas „veikėjas“, šis terminas taikomas tiek žaidėjų, tiek ne žaidėjų veikėjams.
 
 ## Galios lygis
 
-Šiame skyriuje ir kitur taisyklėse yra nuorodų į žaidimo galios lygį. Tai apibūdina, kiek kompetentingi yra žaidėjų ir ne žaidėjų veikėjai ir kur žaidimo pojūtis patenka skalėje nuo „tikroviško“ iki „mitinio“.
+Šiame skyriuje ir kitose taisyklių vietose yra nuorodų į žaidimo galios lygį. Tai apibūdina, kiek kompetentingi yra žaidėjų ir ne žaidėjų veikėjai ir kur žaidimo eiga atsiduria skalėje nuo „realistinės“ iki „mitinės“.
 
 Yra keturi žaidimo galios lygiai, aprašyti žemiau.
 
 ### Normalus
 
-Veikėjai neturi galių arba turi labai mažai nepatikimų galių. Kartais veikėjus apibrėžia viena galia, kuri yra vos daugiau nei neeilinis talentas. Tai tinkamiausias galios lygis siaubo ar moderniems nuotykių žaidimams, kur technologijos ir protas dažnai yra lemiamas veiksnys išgyvenimui.
+Veikėjai neturi galių arba turi tik labai nedaug, nepatikimų galių. Kartais veikėjus apibrėžia viena galia, kuri yra vos daugiau nei išskirtinis talentas. Tai tinkamiausias galios lygis siaubo ar moderniems nuotykių žaidimams, kur technologija ir sumanumas dažnai yra lemiamas veiksnys išgyvenimui.
 
 ### Herojiškas
 
-Veikėjai turi keletą stiprių galių arba platų vidutinio bei žemo lygio galių spektrą. Tai tinka žaidimams, kuriuose dalyvauja nepatyrę, kostiumuoti herojai ar besimokantys burtininkai, radioaktyvaus apokalipsės mutavę išgyvenusieji, budintys herojai ar aukštosios fantastikos burtininkų ir karių pasaulis. Kai kurios futuristinės aplinkos gali būti sukurtos naudojant šį galios lygį, piliečiams turint daug nedidelių galių, suteiktų genų manipuliacijos būdu.
+Veikėjai turi kelias stiprias galias arba platų vidutinio bei žemo lygio galių spektrą. Tai tinka žaidimams, kuriuose pasirodo nepatyrę herojai su kostiumais ar besimokantys burtininkai, mutavę radioaktyvaus apokaliptinio pasaulio išgyvenę asmenys, budintys didvyriai arba aukštojo fentezi pasaulio burtininkai ir kariai. Kai kurie futuristiniai nustatymai gali būti sukurti naudojant šį galios lygį, kai piliečiai turi daugybę smulkių galių, suteiktų genetinės manipuliacijos.
 
 ### Epiškas
 
-Veikėjai yra neįtikėtinai įgudę ar galingi, pavyzdžiui, vyriausieji magai ar bauginančios antgamtinės būtybės. Pavyzdiniai žaidimai gali būti pilni veteranų kostiumuotų herojų ar piktadarių, arba veteranų antgamtinių herojų, kovojančių su tamsos jėgomis modernaus pasaulio šešėliuose.
+Veikėjai yra neįtikėtinai įgudę arba galingi, pavyzdžiui, vyriausieji magai ar grėsmingos antgamtinės būtybės. Žaidimų pavyzdžiai gali būti pilni veteranų herojų su kostiumais ar piktadarių, arba veteranų antgamtinių herojų, kovojančių su tamsos jėgomis modernaus pasaulio šešėliuose.
 
-### Viršžmogiškas
+### Antžmogiškas
 
-Šie veikėjai turi milžiniškus gebėjimus ir yra galingiausi herojai. Žaidimuose gali būti nepaprastai galingų kostiumuotų superherojų, galaktikos sergėtojų ar net modernių didžiųjų pusdievių įsikūnijimų.
+Šie veikėjai turi milžiniškas galimybes ir yra patys galingiausi didvyriai. Žaidimuose gali figūruoti nepaprastų galių turintys superherojai su kostiumais, galaktikos sergėtojai ar net šiuolaikinės didžiųjų pusdievių inkarnacijos.
 
-Jūsų žaidimo vedėjas turėtų aiškiai nurodyti jums ir kitiems žaidėjams, koks yra jūsų žaidimo galios lygis, kad nustatytų lūkesčius ir vadovautų likusiai veikėjo kūrimo daliai.
+Žaidimo vedėjas turėtų aiškiai nurodyti jums ir kitiems žaidėjams, koks yra jūsų žaidimo galios lygis, kad nustatytų lūkesčius ir padėtų likusiai veikėjo kūrimo daliai.
 
 ## Veikėjo kūrimas
 
-Pirmiausia jums reikia veikėjo. Toliau pateikiama veikėjo kūrimo sistema. Ši sistema sukuria pakankamai kompetentingus veikėjus. Kiekviename žingsnyje pateikiami pasiūlymai galingesniems veikėjams. Turėkite po ranka tuščią veikėjo lapą ir galbūt dar vieną lapą užrašams. Svetainėje chaosium.com galite atsisiųsti skaitmenines versijas.
+Pirmiausia jums reikia veikėjo. Toliau pateikiama veikėjo kūrimo sistema. Ši sistema sukuria pakankamai kompetentingus veikėjus. Kiekviename žingsnyje pateikiami pasiūlymai galingesniems veikėjams. Turėkite po ranka tuščią veikėjo lapą ir galbūt dar vieną popieriaus lapą pastaboms. Chaosium.com galite atsisiųsti skaitmenines versijas.
 
-Kai ruošiatės kurti veikėją, jūsų žaidimo vedėjas ir kiti žaidėjai jau turėtų būti nusprendę, kokio tipo žaidimą žaisite: mokslinės fantastikos, fantastinį, modernaus siaubo, istorinių intrigų, šnipinėjimo, „pulp“ veiksmo, technotrilerio ar bet kokio kito žanro.
+Kai ruošiatės kurti savo veikėją, žaidimo vedėjas ir kiti žaidėjai jau turėtų būti nusprendę, kokio tipo žaidimą žaisite: mokslinės fantastikos, fentezi, modernaus siaubo, istorinių intrigų, šnipinėjimo, „pulp“ stiliaus veiksmo, techninio trilerio ar bet kurio kito žanro.
 
-Žaidimo vedėjas turėtų būti pasiruošęs vadovauti jums ir kitiems žaidėjams veikėjo kūrimo procese, žinodamas, kokios profesijos yra leidžiamos ir tinkamos žaidimui ar kampanijai, bei kokio kompetencijos lygio veikėjai turėtų būti. Šie klausimai yra ypač svarbūs **Septintam žingsniui** ir gali turėti įtakos **Trečiam žingsniui**.
+Žaidimo vedėjas turėtų būti pasiruošęs padėti jums ir kitiems žaidėjams viso veikėjo kūrimo proceso metu, žinodamas, kokios profesijos yra leidžiamos ir tinkamos žaidimui ar kampanijai bei kokio kompetencijos lygio turėtų būti veikėjai. Šie klausimai yra svarbiausi **Septintam žingsniui** ir gali daryti įtaką **Trečiam žingsniui**.
 
 ### Pirmas žingsnis: Vardas ir charakteristikos
 
-Lapo viršuje įrašykite savo veikėjo vardą. Jis turėtų būti tinkamas aplinkai ir žaidimui. Jei kol kas jokia idėja nekyla, palaukite vėlesnio etapo. Veikėjo lape galite įrašyti ir savo vardą, nes žaidimo vedėjui gali prireikti sekti, koks veikėjas kam priklauso.
+Lapo viršuje įrašykite veikėjo vardą. Jis turėtų atitikti nustatymą ir žaidžiamą žaidimą. Jei dar neturite idėjos, palaukite vėlesnio etapo. Veikėjo lape galite įrašyti savo vardą, nes žaidimo vedėjui gali prireikti sekti, kuriam žaidėjui priklauso koks veikėjas.
 
-* Pasirinkite savo veikėjo lytį ir įrašykite ją tam skirtoje vietoje.
+* Pasirinkite veikėjo lytį ir įrašykite ją atitinkamoje vietoje.
 
-* Išridenkite 3D6 charakteristikoms Jėga (STR), Konstitucija (CON), Galia (POW), Vikrumas (DEX) ir Charizma (CHA). Įrašykite rezultatus atitinkamose veikėjo lapo vietose.
+* Ridenkite 3D6 charakteristikoms JĖG (JĖG), IŠT (IŠT), GAL (GAL), VIK (VIK) ir CHA (CHA). Įrašykite rezultatus atitinkamose veikėjo lapo vietose.
 
-* Išridenkite 2D6+6 charakteristikoms Intelektas (INT) ir Dydis (SIZ).
+* Ridenkite 2D6+6 charakteristikoms INT (INT) ir DYD (DYD).
 
-Šie skaičiai sudaro jūsų veikėjo pagrindą, nustatydami, kokiose charakteristikose veikėjas yra stiprus ar silpnas.
+Šie skaičiai suteikia pagrindą jūsų veikėjui, nustatydami, kurios charakteristikos yra stipriosios, o kurios – silpnosios.
 
-* Jei norite, galite perskirstyti iki 3 taškų tarp savo charakteristikų.
+* Jei pageidaujate, galite perskirstyti iki 3 taškų tarp savo charakteristikų.
 
-* Nė viena charakteristika negali pradžioje viršyti 21 taško.
+* Jokia charakteristika negali prasidėti su daugiau nei 21 tašku.
 
 * Jei nesate patenkinti turimomis charakteristikomis ir žaidimo vedėjas pritaria, galite pradėti iš naujo.
 
-Jei kampanijoje naudojami vienas ar daugiau galių tipų, žaidimo vedėjas gali leisti padidinti pradines charakteristikas (žr. *Ketvirtas skyrius: Galios*, ypač **Charakteristikos mažinimas/didinimas**).
+Jei kampanijoje naudojami vienas ar keli galių tipai, žaidimo vedėjas gali leisti padidinti pradines charakteristikas (žr. Ketvirtą skyrių: Galios, ypač **Sumažinti/Padidinti charakteristiką**).
 
-**Charakteristikų verčių pasirinkimas (parinktis):** Tradiciškai charakteristikos ridenamos eilės tvarka, perskirstant iki 3 taškų. Vietoj to galite ridenti 3D6 septynis kartus ir pasirinkti, kur rezultatai bus pritaikyti. Šiuo atveju SIZ ir INT negali būti mažesni nei 8.
+**Charakteristikų verčių pasirinkimas (Papildoma galimybė):** Tradiciškai charakteristikos ridenamos eilės tvarka, perskirstant iki 3 taškų. Vietoj to galite ridenti 3D6 septynis kartus ir pasirinkti, kur rezultatai bus priskirti. Tokiu atveju DYD ir INT negali būti mažesni nei 8.
 
-**Aukštesnės pradinės charakteristikos (parinktis):** Aukštesnės galios žaidimui ridenkite 2D6+6 visoms charakteristikoms.
+**Aukštesnės pradinės charakteristikos (Papildoma galimybė):** Aukštesnio lygio žaidimui ridenkite 2D6+6 visoms charakteristikoms.
 
-**Išsilavinimo (EDU) charakteristika (parinktis):** Ridenkite 2D6+6 Išsilavinimui (EDU) veikėjams iš visuomenių su formalizuotu švietimu. 12 EDU rodo vidurinį išsilavinimą, aukštesnės vertės rodo kolegijos ar aukštesnius laipsnius.
+**Išsilavinimo (IŠV) charakteristika (Papildoma galimybė):** Ridenkite 2D6+6 Išsilavinimui (IŠV) šiai charakteristikai, skirtai veikėjams iš visuomenių su formalizuotu švietimu. IŠV 12 rodo vidurinį išsilavinimą, o aukštesnės vertės rodo universitetinį ar aukštesnį laipsnį.
 
-**Kultūriniai modifikatoriai (parinktis):** Kultūriniai modifikatoriai pabrėžia charakteristikų skirtumus tarp skirtingų rūšių (pavyzdžiui, elfų ar nykštukų) arba skirtingų žmonių kultūrų. Pradinės charakteristikos gali būti pakoreguotos arba apribotos šiame etape. Žr. **Kultūriniai charakteristikų modifikatoriai (parinktis)**.
+**Kultūriniai modifikatoriai (Papildoma galimybė):** Kultūriniai modifikatoriai pabrėžia charakteristikų skirtumus tarp skirtingų rūšių (pavyzdžiui, elfų ar nykštukų) arba skirtingų žmonių kultūrų. Pradinės charakteristikos šiuo momentu gali būti pakoreguotos arba apribotos. Žr. **Kultūriniai charakteristikų modifikatoriai (Papildoma galimybė)**.
 
-**Ne žmogiški veikėjai (parinktis):** Ne žmogiški veikėjai gali naudoti kitokius kauliukų ridenimus ir modifikatorius pradinėms charakteristikoms nustatyti. Žr. *Vienuoliktas skyrius: Būtybės*.
+**Ne žmonių veikėjai (Papildoma galimybė):** Ne žmonių veikėjai gali naudoti kitokius kauliukų ridenimus ir modifikatorius pradinėms charakteristikoms nustatyti. Žr. Vienuoliktą skyrių: Būtybės.
 
-**Į taškais pagrįstas veikėjo kūrimas (parinktis):** Paprastai charakteristikos ridenamos atsitiktinai. Vietoj to žaidėjai gali įsigyti charakteristikų taškus iš fondo. Žr. **Į taškais pagrįstas veikėjo kūrimas (parinktis)**.
+**Taškais grįstas veikėjo kūrimas (Papildoma galimybė):** Paprastai charakteristikos ridenamos atsitiktinai. Vietoj to žaidėjai gali įsigyti charakteristikų taškų iš fondo. Žr. **Taškais grįstas veikėjo kūrimas (Papildoma galimybė)**.
 
 ### Antras žingsnis: Galios
 
-Skaitykite atidžiai! Jei žaidime, kuriame dalyvaujate, yra magija, mutacijos, psichiniai gebėjimai, burtininkystė ar supergalios, galite pradėti su kai kuriomis iš šių galių. Paklauskite apie tai savo žaidimo vedėjo ir kreipkitės į *Ketvirtą skyrių: Galios* dėl išsamesnės informacijos. Šioms sistemoms reikia daugiau paaiškinimų, nei pateikta šiame skyriuje.
+Perskaitykite tai atidžiai! Jei žaidime, kuriame dalyvaujate, naudojama magija, mutacijos, psichinės galios, kerėjimas ar supergalios, galite pradėti su kai kuriomis iš šių galių. Paklauskite apie tai žaidimo vedėjo ir peržiūrėkite *Ketvirtą skyrių: Galios* dėl išsamesnės informacijos. Šioms sistemoms reikia daugiau paaiškinimų nei pateikta šiame skyriuje.
 
-Jei kampanijoje galių nėra, praleiskite šį žingsnį ir tęskite.
+Jei kampanijoje galių nėra, praleiskite šį žingsnį ir eikite toliau.
 
-Jei yra galių, prieinami šie tipai:
+Jei galių yra, prieinami šie tipai:
 
-* **Magija:** Paprastas burtų liejimas su plačiomis taikymo galimybėmis.
+* **Magija:** Paprastas burtų naudojimas su įvairiu pritaikymu.
 
 * **Mutacijos:** Keistos genetinės anomalijos, kai kurios naudingos, kai kurios žalingos.
 
-* **Psichiniai gebėjimai:** Proto galios naudojimas realybei manipuliuoti.
+* **Psichinės galios:** Proto galios naudojimas realybei manipuliuoti.
 
-* **Burtininkystė:** Barokiškesnis burtų liejimo tipas, įskaitant elementų ir demonų iškvietimą.
+* **Kerėjimas:** Barokiškesnis burtų naudojimo tipas, įskaitant elementų ir demonų iškvietimą.
 
-* **Supergalios:** Galingi gebėjimai, pranokstantys vaizduotę.
+* **Supergalios:** Galingi gebėjimai, nepaklūstantys vaizduotei.
 
-Daugiau detalių apie kiekvieną pateikiama atitinkamuose skyriuose.
+Daugiau informacijos apie kiekvieną jų pateikiama atitinkamuose skyriuose.
 
 ### Trečias žingsnis: Amžius
 
-Numatytasis veikėjų amžius yra 17+1D6 metų. Jūsų žaidimo vedėjas gali pasirinkti tai pakeisti pagal žaidimo aplinkos reikalavimus. Jei norite pradėti žaidimą su jaunesniu ar vyresniu veikėju, pasirinkite tinkamą amžių ir gaukite žaidimo vedėjo pritarimą.
+Numatytasis veikėjų amžius yra 17+1D6 metai. Žaidimo vedėjas gali nuspręsti jį pakeisti, atsižvelgiant į žaidimo nustatymo reikalavimus. Jei norite pradėti žaidimą su jaunesniu ar vyresniu veikėju, pasirinkite amžių, kuris atrodo tinkamas ir yra patvirtintas žaidimo vedėjo.
 
-* Remiantis kampanijos lygiu (aprašytu šeštame žingsnyje), už kiekvienus 10 pilnų metų, pridėtų prie išridento pradinio amžiaus, pakeiskite profesinių įgūdžių taškus +10 (Normalus), +20 (Herojiškas), +30 (Epiškas) arba +40 (Viršžmogiškas). Bet kokia metų dalis iki 10 nesuteikia įgūdžių premijos.
+* Atsižvelgiant į kampanijos lygį (aprašytą šeštame žingsnyje), už kiekvienus pilnus 10 metų, pridėtus prie išridoto pradinio amžiaus, modifikuokite profesinių įgūdžių taškus +10 (Normalus), +20 (Herojiškas), +30 (Epiškas) arba +40 (Antžmogiškas). Jokia metų dalis, mažesnė nei 10, nesuteikia šios įgūdžių premijos.
 
-* Už kiekvienus metus iki 18, pakeiskite profesinių įgūdžių taškus –10 (Normalus), –20 (Herojiškas), –30 (Epiškas) arba –40 (Viršžmogiškas).
+* Už kiekvienus metus iki 18, modifikuokite profesinių įgūdžių taškus –10 (Normalus), –20 (Herojiškas), –30 (Epiškas) arba –40 (Antžmogiškas).
 
-* Jūsų žaidimo vedėjas gali apriboti prieinamas profesijas veikėjams iki 18 metų amžiaus.
+* Žaidimo vedėjas gali apriboti prieinamas profesijas veikėjams iki 18 metų.
 
-* Nuo 50 metų ir kas 10 pilnų metų virš to, pakeiskite vieną iš STR, CON, DEX arba CHA (savo pasirinkimu) –1. Nuo 80 metų ir kas 10 pilnų metų virš to, pakeiskite **tris** iš šių charakteristikų. Žr. **Senėjimas ir neveiklumas (parinktis)**.
+* Sulaukus 50 metų ir kiekvienų pilnų 10 metų viršaus, modifikuokite vieną iš JĖG, IŠT, VIK ar CHA (jūsų pasirinkimu) –1. Sulaukus 80 metų ir kiekvienų pilnų 10 metų viršaus, modifikuokite **tris** iš šių charakteristikų. Žr. **Senėjimas ir neveiklumas (Papildoma galimybė)**.
 
-* Už kiekvienus metus iki pradinio išridento amžiaus aukščiau, pakeiskite bet kurią vieną charakteristiką, išskyrus EDU (savo pasirinkimu) –1. Jūsų žaidimo vedėjas gali reikalauti, kad SIZ būtų viena iš šių sumažintų charakteristikų. Šiuos taškus galima įgyti žaidimo metu (patirtis), mokantis arba palaipsniui per natūralius būdus (žaidimo vedėjo nuožiūra). Žr. **Senėjimas ir neveiklumas (parinktis)**.
+* Už kiekvienus metus iki pradinio išridoto amžiaus, modifikuokite bet kurią vieną charakteristiką, išskyrus IŠV (jūsų pasirinkimu), –1. Žaidimo vedėjas gali reikalauti, kad viena iš šių sumažintų charakteristikų būtų DYD. Šiuos taškus galima įgyti žaidimo metu (patirtis), mokantis arba palaipsniui natūraliais būdais (žaidimo vedėjo nuožiūra). Žr. **Senėjimas ir neveiklumas (Papildoma galimybė)**.
 
-Jūsų žaidimo vedėjas taip pat gali tiesiog ignoruoti šias taisykles, atsižvelgiant į žaidimo galios lygį. Tai leidžia žaisti vyresnio amžiaus nuotykių ieškotojus, vaikus genijus ir apskritai yra maloniau visiems žaidėjams.
+Žaidimo vedėjas taip pat gali pasirinkti tiesiog ignoruoti šias taisykles, atsižvelgdamas į žaidimo galios lygį. Tai leidžia turėti pagyvenusius nuotykių ieškotojus, vaikus genijus ir apskritai yra maloniau visiems žaidėjams.
 
-**Išsilavinimas (EDU) (parinktis):** Jei naudojate EDU charakteristiką, jūsų veikėjo pradinis amžius turi būti bent EDU+5 (atstovaujantis mokymuisi skirtą laiką). Kiekvieni pilni 10 metų, pridėti prie jūsų veikėjo pradinio amžiaus, prideda +1 prie jūsų veikėjo EDU charakteristikos. Būtinai padidinkite atitinkamus įgūdžių taškus, sugeneruotus **Šeštame žingsnyje**.
+**Išsilavinimas (IŠV) (Papildoma galimybė):** Jei naudojate IŠV charakteristiką, jūsų veikėjo pradinis amžius turi būti bent IŠV+5 (tai rodo mokymuisi praleistą laiką). Kiekvieni pilni 10 metų, pridėti prie veikėjo pradinio amžiaus, prideda +1 prie veikėjo IŠV charakteristikos. Būtinai padidinkite atitinkamus įgūdžių taškus, sugeneruotus **Šeštame žingsnyje**.
 
-### Ketvirtas žingsnis: Charakteristikų ridenimai
+### Ketvirtas žingsnis: Charakteristikų metimai
 
-Čia nustatote savo charakteristikų ridenimus. Iki šiol turėtumėte žinoti savo galutines charakteristikas, bet jei ne, atidėkite šį žingsnį, kol jas sukonkretinsite. Kiekviena turi vietą veikėjo lape.
+Čia nustatote savo charakteristikų metimus. Iki šiol turėtumėte žinoti, kokios yra jūsų galutinės charakteristikos, bet jei ne, palaukite šio žingsnio, kol jas užbaigsite. Kiekviena turi savo vietą veikėjo lape.
 
-* Padauginkite STR×5 savo **Pastangų** (Effort) metimui.
+* Padauginkite JĖG×5 savo **Pastangų** metimui.
 
-* Padauginkite CON×5 savo **Ištvermės** (Stamina) metimui.
+* Padauginkite IŠT×5 savo **Ištvermės** metimui.
 
-* Padauginkite INT×5 savo **Idėjos** (Idea) metimui.
+* Padauginkite INT×5 savo **Idėjos** metimui.
 
-* Padauginkite POW×5 savo **Sėkmės** (Luck) metimui.
+* Padauginkite GAL×5 savo **Sėkmės** metimui.
 
-* Padauginkite DEX×5 savo **Vikrumo** (Agility) metimui.
+* Padauginkite VIK×5 savo **Vikrumo** metimui.
 
-* Padauginkite CHA×5 savo **Žavesio** (Charm) metimui.
+* Padauginkite CHA×5 savo **Žavesio** metimui.
 
-**Žinojimo metimas (parinktis):** Padauginkite EDU×5 savo **Žinojimo** (Know) metimui (jei naudojamas EDU).
+**Žinojimo metimas (Papildoma galimybė):** Padauginkite IŠV×5 savo **Žinojimo** metimui (jei naudojamas IŠV).
 
 ### Penktas žingsnis: Išvestinės charakteristikos
 
-Dabar laikas išvestinėms charakteristikoms: žalos modifikatoriui, gyvybės taškams, galios taškams ir patirties premijai. Jei naudojate pasirinktines sistemas, taip pat turėtumėte nustatyti pradinius nuovargio taškus ir sveiko proto taškus. Įrašykite rezultatus savo veikėjo lape.
+Dabar atėjo laikas išvestinėms charakteristikoms: žalos modifikatoriui, sveikatos taškams, galios taškams ir patirties premijai. Jei naudojate papildomas sistemas, taip pat turėtumėte nustatyti savo pradinius nuovargio taškus ir proto sveikatos taškus. Įrašykite rezultatus savo veikėjo lape.
 
-* **Žalos modifikatorius**: Sudėkite STR+SIZ ir raskite **žalos modifikatorių**, atitinkantį jūsų veikėjo sumą **Žalos modifikatoriaus** lentelėje.
+* **Žalos modifikatorius**: Sudėkite JĖG+DYD ir raskite **žalos modifikatorių**, atitinkantį jūsų veikėjo sumą **Žalos modifikatoriaus** lentelėje.
 
-* **Gyvybės taškai:** Sudėkite CON+SIZ ir padalinkite iš 2 (suapvalinkite į viršų). Apibrėžkite tą skaičių **Gyvybės taškų** langelyje savo veikėjo lape ir įrašykite žemiau. Tai jūsų veikėjo maksimalūs gyvybės taškai. Jei jūsų veikėjas praranda gyvybės taškus, pažymėkite juos, o ištrinkite žymes, kai gyvybės taškai išgydomi ar kitaip atstatomi.
+* **Sveikatos taškai:** Sudėkite IŠT+DYD ir padalinkite iš 2 (suapvalinus į viršų). Apibrėžkite tą skaičių **Sveikatos taškų** laukelyje savo veikėjo lape ir įrašykite jį apačioje. Tai yra jūsų veikėjo maksimalūs sveikatos taškai. Jei jūsų veikėjas praranda sveikatos taškus, pažymėkite tai ir ištrinkite žymes, kai sveikatos taškai atstatomi ar kitaip sugrąžinami.
 
-* **Sunkios žaizdos lygis:** Jūsų **sunkios žaizdos lygis** yra 1/2 gyvybės taškų, suapvalinus į viršų.
+* **Sunkaus sužeidimo lygis:** Jūsų **sunkaus sužeidimo lygis** yra 1/2 sveikatos taškų, suapvalinus į viršų.
 
-* **Galios taškai:** **Galios taškų** langelyje apibrėžkite skaičių, lygų POW, ir įrašykite sumą eilutėje žemiau. Tai jūsų veikėjo maksimalūs galios taškai. Jie maitina magijos burtus, mutacijas, psichinius gebėjimus ar supergalias. Pažymėkite galios taškus, kai jie išleidžiami, ir ištrinkite žymes, kai jie atstatomi ar kitaip atkuriami. Skaičius, įrašytas vietoje, lygus jūsų POW, yra vertė, iki kurios galios taškai sugrįžta poilsio metu.
+* **Galios taškai:** **Galios taškų** laukelyje apibrėžkite skaičių, lygų GAL, ir įrašykite sumą eilutėje žemiau. Tai yra jūsų veikėjo maksimalūs galios taškai. Jie maitina magiškus burtus, mutacijas, psichines galias ar supergalias. Pažymėkite galios taškus, kai jie išleidžiami, ir ištrinkite žymes, kai jie atstatomi ar kitaip sugrąžinami. Skaičius, įrašytas vietoje, lygus jūsų GAL, yra vertė, iki kurios galios taškai grįžta ilsintis.
 
 * **Patirties premija:** Jūsų veikėjo patirties premija lygi 1/2 jų INT, suapvalinus į viršų.
 
-* **Judėjimas (MOV):** Jūsų veikėjo MOV matuoja, kaip greitai jie gali judėti kovos raundo metu. Žmonių veikėjai paprastai gali judėti 10 vienetų per raundą. Vienetas yra šiek tiek kintamas dydis, paprastai lygus 1 metrui. Žr. **Judėjimo greičiai**.
+* **Judėjimas (JUD):** Jūsų veikėjo JUD matuoja, kaip greitai kovos raundo metu jie gali judėti. Žmonių veikėjai paprastai gali judėti 10 vienetų per raundą. Vienetas yra šiek tiek kintantis dydis, dažniausiai lygus 1 metrui. Žr. **Judėjimo greičiai**.
 
-**Įgūdžių premijos (parinktis):** Jei naudojate charakteristikomis pagrįstas įgūdžių kategorijų premijas, apskaičiuokite premiją kiekvienai naudodami įgūdžių **Kategorijos premijos** lentelę. Įrašykite šias vertes į kiekvienos kategorijos vietas. Ši premija pridedama prie bazinės tikimybės kiekvienam įgūdžiui, jei tokia yra. Kiekvienai kategorijai:
+**Įgūdžių premijos (Papildoma galimybė):** Jei naudojate charakteristikomis pagrįstas įgūdžių kategorijų premijas, apskaičiuokite premiją kiekvienai naudodami įgūdžių **Kategorijos premijos** lentelę. Įrašykite šias vertes kiekvienos kategorijos vietose. Ši premija pridedama prie bazinio šanso kiekvienam įgūdžiui, jei toks yra. Kiekvienai kategorijai:
 
-* Pridėkite +1% už kiekvieną pirminės charakteristikos tašką virš 10; atimkite 1% už kiekvieną tašką žemiau 10.
+* Pridėkite +1% už kiekvieną pagrindinės charakteristikos tašką virš 10; atimkite 1% už kiekvieną tašką žemiau 10.
 
-* +1% už kiekvienus 2 antrinės charakteristikos taškus virš 10; –1% už kiekvienus 2 taškus žemiau 10 (jei reikia, suapvalinant premiją į apačią).
+* +1% už kiekvienus 2 antrinės charakteristikos taškus virš 10; –1% už kiekvienus 2 taškus žemiau 10 (suapvalinant premiją žemyn, jei reikia).
 
 * –1% už kiekvieną neigiamos charakteristikos tašką virš 10; +1% už kiekvieną tašką žemiau 10.
 
-**Gyvybės taškai pagal vietą (parinktis):** Su pasirinktine kūno vietų sistema nustatykite gyvybės taškų skaičių kiekvienai kūno vietai. Galva, pilvas ir kiekviena koja turi 1/3 jūsų gyvybės taškų sumos, krūtinė turi 4/10, o kiekviena ranka turi 1/4 veikėjo maksimalių gyvybės taškų vertės. Visas trupmenas suapvalinkite į viršų.
+**Sveikatos taškai pagal vietą (Papildoma galimybė):** Naudojant papildomą sužeidimų vietų sistemą, nustatykite sveikatos taškų skaičių kiekvienai sužeidimo vietai. Galva, pilvas ir kiekviena koja turi 1/3 jūsų sveikatos taškų sumos, krūtinė turi 4/10, o kiekviena ranka turi 1/4 veikėjo maksimalios sveikatos taškų vertės. Suapvalinkite visas trupmenas į viršų.
 
-**Nuovargio taškai (parinktis):** Jei naudojamas nuovargis; sudėkite veikėjo STR+CON, kad gautumėte jų nuovargio taškų sumą. Žaidimo metu, kai veikėjas išeikvoja energiją ar atlieka intensyvią fizinę veiklą, jis praras nuovargio taškus. Jie greitai atsistato poilsio metu ir kitais būdais bei dažnai keičiasi.
+**Nuovargio taškai (Papildoma galimybė):** Jei naudojamas nuovargis; sudėkite savo veikėjo JĖG+IŠT, kad gautumėte jų nuovargio taškų sumą. Žaidimo metu, kai jūsų veikėjas eikvoja energiją arba atlieka intensyvią fizinę veiklą, jie praras nuovargio taškus. Jie greitai atstatomi per poilsį ir kitas priemones ir dažnai keičiasi.
 
-**Sveikas protas (parinktis):** Jei naudojamas Sveikas protas; padauginkite savo veikėjo pradinį POW balą iš 5, kad gautumėte jų esamą Sveiko proto (SAN) sumą. Profesija (žr. šeštą žingsnį žemiau) gali modifikuoti šį skaičių. Žaidimo metu pažymėkite tai, jei jūsų veikėjas praranda sveiko proto taškus.
+**Proto sveikata (Papildoma galimybė):** Jei naudojama proto sveikata; padauginkite savo veikėjo pradinį GAL balą iš 5, kad gautumėte jų dabartinę proto sveikatos (SAN) sumą. Profesija (žr. Šeštą žingsnį žemiau) gali modifikuoti šį skaičių. Žaidimo metu pažymėkite šiuos taškus, jei jūsų veikėjas praranda proto sveikatos taškus.
 
 ### Šeštas žingsnis: Asmenybė
 
-Išanalizuokite savo veikėjo charakteristikas ir įsivaizduokite, kokiu žmogumi norėtumėte, kad jie būtų. Pasirinkite vieną iš toliau pateiktų parinkčių arba ridenkite 1D4 atsitiktiniam rezultatui. Šie įgūdžių paketai yra greitas būdas išplėtoti veikėją – kitame žingsnyje bus daugiau įgūdžių. Įgūdžiai apibrėžti *Trečiame skyriuje: Įgūdžiai* 37–52 puslapiuose, o ginklų klasės aprašytos *Aštuntame skyriuje: Įranga*.
+Išstudijuokite savo veikėjo charakteristikas ir įsivaizduokite, kokiu žmogumi norėtumėte, kad jie būtų. Pasirinkite vieną iš toliau pateiktų variantų arba ridenkite 1D4 atsitiktiniam rezultatui. Šie įgūdžių paketai yra greitas būdas išvystyti savo veikėją – kitame žingsnyje bus daugiau įgūdžių. Įgūdžiai apibrėžti *Trečiame skyriuje: Įgūdžiai* 37–52 puslapiuose, o ginklų klasės aprašytos *Aštuntame skyriuje: Įranga*.
 
 ##### Asmenybės tipai
 
 | Rezultatas | Aprašymas |
 | :---- | :---- |
-| 1 | **Brutalus**: Jūsų veikėjas pirmiausia galvoja apie problemų sprendimą fizine jėga. Skirkite po 20 įgūdžių taškų Muštynėms, Laipiojimui, Venimui, Griebimui, Įžvalgai, Šuoliui, Jojimui, Nuojautai, Slėpimuisi, Plaukimui, Metimui ir bet kokiems dviem Kovos įgūdžiams. |
-| 2 | **Įgudęs:** Jūsų veikėjas tiki, kad technika, amatas ir ekspertizė yra sėkmės paslaptis. Skirkite po 20 įgūdžių taškų Vertinimui, bet kokiam Amatui, Maskavimui, Venimui, Tiksliam manipuliavimui, Pirmajai pagalbai, bet kokiam Žinių įgūdžiui, Orientavimuisi, Pilotavimui, Jojimui, Kišenvagystei, Slėpimuisi ir bet kuriam vienam Kovos įgūdžiui. |
-| 3 | **Gudrus:** Jūsų veikėjas pirmiausia bando pergudrauti oponentą, kad įgytų pranašumą. Skirkite po 20 įgūdžių taškų Vertinimui, Deryboms, Maskavimui, Įžvalgai, bet kokiems dviem Žinių įgūdžiams, Klausymuisi, Tyrimui, Nuojautai, Stebėjimui, Slėpimuisi, bet kuriam vienam Techniniam įgūdžiui (tinkamam aplinkai) ir bet kuriam vienam Kovos įgūdžiui. |
-| 4 | **Žavingas:** Jūsų veikėjas mėgsta įtikinti kitus žmones dirbti, kol jie priima sprendimus. Skirkite po 20 taškų Vertinimui, Deryboms, Vadovavimui, Etiketui, Greitam kalbėjimui, Įžvalgai, Pasirodymui, Įtikinėjimui, bet kuriai vienai Kalbai (Kita), Kalbai (Sava), Nuojautai, Statusui ir bet kuriam vienam Kovos įgūdžiui. |
+| 1 | **Brutalumas**: Jūsų veikėjas pirmiausia galvoja apie problemų sprendimą fizine jėga ir raumenimis. Skirkite po 20 įgūdžių taškų Muštynėms, Laipiojimui, Išsisukinėjimui, Imtynėms, Įžvalgumui, Šuoliams, Jojimui, Nuojautai, Sėlinimui, Plaukimui, Mėtymui ir bet kuriems dviem Kovos įgūdžiams. |
+| 2 | **Įgudimas:** Jūsų veikėjas tiki, kad technika, amatas ir ekspertizė yra sėkmės paslaptys. Skirkite po 20 įgūdžių taškų Vertinimui, bet kuriam vienam Amatui, Maskavimuisi, Išsisukinėjimui, Smulkiai manipuliacijai, Pirmajai pagalbai, bet kuriam vienam Žinių įgūdžiui, Navigacijai, Pilotavimui, Jojimui, Miklumui, Sėlinimui ir bet kuriam vienam Kovos įgūdžiui. |
+| 3 | **Klastingumas:** Jūsų veikėjas pirmiausia bando pergudrauti oponentą, kad įgytų pranašumą. Pridėkite po 20 įgūdžių taškų Vertinimui, Deryboms, Maskavimuisi, Įžvalgumui, bet kuriems dviem Žinių įgūdžiams, Klausymuisi, Tyrimams, Nuojautai, Stebėjimui, Sėlinimui, bet kuriam vienam Techniniam įgūdžiui (tinkamam nustatymui) ir bet kuriam vienam Kovos įgūdžiui. |
+| 4 | **Žavesys:** Jūsų veikėjas mėgsta įtikinti kitus žmones dirbti, kol patys priima sprendimus. Skirkite po 20 taškų Vertinimui, Deryboms, Komandavimui, Etiketui, Greitakalbei, Įžvalgumui, Pasirodymui, Įtikinėjimui, bet kuriai vienai Kalbai (Kitai), Kalbai (Savo), Nuojautai, Statusui ir bet kuriam vienam Kovos įgūdžiui. |
 
-Jūsų žaidimo vedėjas gali turėti kitų asmenybės tipų, arba galite sukurti savo, pasirinkdami 13 įgūdžių ir pridėdami po 20 taškų prie kiekvieno įgūdžio vertinimo (su žaidimo vedėjo pritarimu).
+Žaidimo vedėjas gali turėti kitų asmenybės tipų, arba galite sukurti savo, pasirinkdami 13 įgūdžių ir pridėdami po 20 taškų prie kiekvieno įgūdžio įvertinimo (su žaidimo vedėjo pritarimu).
 
-Skaidydami šiuos įgūdžių taškus, pridėkite premiją prie bazinės tikimybės kiekvienam įgūdžiui, paprastai pateikiamai kaip vertė skliausteliuose po įgūdžio, pavyzdžiui, Greitas kalbėjimas (05%). Įrašykite tą sumą po įgūdžio.
+Skirstydami šiuos įgūdžių taškus, pridėkite premiją prie bazinio šanso kiekvienam įgūdžiui, paprastai pateikiamo kaip vertė skliausteliuose po įgūdžio, pavyzdžiui, Greitakalbė (15%). Įrašykite tą sumą po įgūdžio.
 
-Pavyzdžiui, *pridėjus 20 įgūdžių taškų prie Greito kalbėjimo (05%), gaunamas 25% įvertinimas (5+20).*
+Pavyzdžiui, *pridėjus 20 įgūdžių taškų prie Greitakalbės (05%), gaunamas 25% įvertinimas (5+20).*
 
 ### Septintas žingsnis: Profesija ir įgūdžiai
 
-Norėdami nustatyti pradinius savo veikėjo įgūdžius, eikite į profesijų sąrašą. Pasirinkite ten profesiją. Profesijos vėliau šiame skyriuje aprašytos išsamiai. Jūsų žaidimo vedėjas gali apriboti prieinamas profesijas, todėl pasiteiraukite prieš priimdami šį sprendimą. Kai kurios profesijos suteikia ypatingų pranašumų, pavyzdžiui, magijos naudojimą. Pažymėkite juos veikėjo lape.
+Norėdami nustatyti pradinius savo veikėjo įgūdžius, atsiverskite profesijų sąrašą. Pasirinkite profesiją iš jo. Profesijos yra išsamiai aprašytos vėliau šiame skyriuje. Žaidimo vedėjas gali apriboti prieinamas profesijas, todėl pasiteiraukite prieš priimdami šį pasirinkimą. Kai kurios profesijos suteikia specialių pranašumų, pavyzdžiui, magijos naudojimą. Pažymėkite tai veikėjo lape.
 
-Kai profesija pasirinkta, nustatykite veikėjo profesinių įgūdžių taškų fondą. Tai parodo, ko jūsų veikėjas išmoko toje profesijoje, tiek per mokymus, tiek per patirtį darbe. Kaip visada, įgūdžių taškai pridedami prie bet kokių premijų, suteiktų ankstesniuose žingsniuose, ir prie įgūdžio bazinės tikimybės.
+Kai profesija pasirinkta, nustatykite veikėjo profesinių įgūdžių taškų fondą. Tai atspindi, ko jūsų veikėjas išmoko toje profesijoje, tiek per mokymus, tiek per patirtį darbe. Kaip visada, įgūdžių taškai pridedami prie visų premijų, suteiktų ankstesniuose žingsniuose, ir prie įgūdžio bazinio šanso.
 
-Kampanijos galios lygis nustato pradinį įgūdžių taškų fondą. Jūsų žaidimo vedėjas jau turėtų būti nusprendęs, kokį žaidimą žais ir kokių kompetencijų turėtų būti žaidėjų veikėjai.
+Kampanijos galios lygis nustato pradinį įgūdžių taškų fondą. Žaidimo vedėjas iki šiol turėtų būti nusprendęs, kokį žaidimą jis vykdys ir kiek galingi bei kompetentingi turėtų būti žaidėjų veikėjai.
 
-* **Normalus:** Skirkite 250 taškų profesiniams įgūdžiams. Joks įgūdis neturėtų prasidėti aukščiau nei 75%. Jei naudojate pasirinktinę įgūdžių kategorijos premiją, riba vis tiek yra 75%, ir bet kokius taškus virš šios ribos turite skirti kitiems įgūdžiams. Jei premijų derinys prieš šį žingsnį padidina įgūdį daugiau nei 75%, nepridėkite jokių papildomų įgūdžių taškų.
+* **Normalus:** Skirkite 250 taškų profesiniams įgūdžiams. Joks įgūdis negali prasidėti aukščiau nei 75%. Jei naudojate papildomą įgūdžių kategorijos premiją, riba vis tiek yra 75%, ir bet kokius taškus virš šios ribos turite išleisti kitiems įgūdžiams. Jei premijų derinys padidina įgūdį iki daugiau nei 75% prieš šį žingsnį, nepridėkite jokių papildomų įgūdžių taškų.
 
-* **Herojiškas:** Skirkite 325 taškus profesiniams įgūdžiams. Joks įgūdis neturėtų prasidėti aukščiau nei 90%, su tokiais pačiais apribojimais kaip aukščiau.
+* **Herojiškas:** Skirkite 325 taškus profesiniams įgūdžiams. Joks įgūdis negali prasidėti aukščiau nei 90%, su tais pačiais apribojimais kaip aukščiau.
 
-* **Epiškas:** Skirkite 400 taškų profesiniams įgūdžiams. Joks įgūdis neturėtų prasidėti aukščiau nei 101%, su tokiais pačiais apribojimais kaip aukščiau.
+* **Epiškas:** Skirkite 400 taškų profesiniams įgūdžiams. Joks įgūdis negali prasidėti aukščiau nei 101%, su tais pačiais apribojimais kaip aukščiau.
 
-* **Viršžmogiškas:** Skirkite 500 taškų tarp profesinių įgūdžių, be jokių įgūdžių vertinimų ribų. Žr. **Įgūdžių vertinimai virš 100% (parinktis)**.
+* **Antžmogiškas:** Skirkite 500 taškų profesiniams įgūdžiams, be jokių įgūdžių įvertinimo limitų. Žr. **Įgūdžių įvertinimai virš 100% (Papildoma galimybė)**.
 
-Originaliai profesijai skirkite galios lygio įgūdžių taškų skaičių, kaip nurodyta aukščiau. Jūsų žaidimo vedėjas gali turėti tam tikrų apribojimų, kaip šiuos įgūdžių taškus galima išleisti.
+Originaliai profesijai skirkite galios lygiui atitinkantį įgūdžių taškų skaičių, kaip nurodyta aukščiau. Žaidimo vedėjas gali turėti tam tikrų apribojimų, kaip šie įgūdžių taškai gali būti išleisti.
 
-Kai visi profesiniai įgūdžių taškai buvo paskirstyti, padauginkite savo veikėjo INT×10, kad nustatytumėte jų asmeninių įgūdžių taškų fondą. Išleiskite šiuos įgūdžių taškus bet kokiems patinkantiems įgūdžiams, su žaidimo vedėjo pritarimu. Pridėkite taškus, išleistus įgūdžiui, prie jo bazinės tikimybės, profesijos premijų (jei yra), profesinių įgūdžių taškų paskirstymų ir įgūdžių kategorijos premijų (jei naudojamos).
+Kai visi profesiniai įgūdžių taškai yra paskirstyti, padauginkite savo veikėjo INT×10, kad nustatytumėte jų asmeninių įgūdžių taškų fondą. Išleiskite šiuos įgūdžių taškus bet kokiems įgūdžiams, su žaidimo vedėjo pritarimu. Pridėkite taškus, išleistus įgūdžiui, prie bazinio šanso, profesijos premijų (jei yra), profesinių įgūdžių taškų paskirstymo ir įgūdžių kategorijų premijų (jei yra).
 
-Suma neturi viršyti aukščiau nustatytos žaidimo tipo įgūdžių ribos. Jūsų žaidimo vedėjas gali nustatyti 50% lubas asmeniniams įgūdžiams, kurie per toli nutolę nuo veikėjo profesijos. Ši įgūdžių riba yra aukštesnė priklausomai nuo kampanijos lygio: 75% herojiškam, 90% epiškam ir 100% viršžmogiškam lygiui. Įgūdžiai, kurie natūraliai viršija šiuos skaičius per ankstesnes premijas, negali turėti jokių papildomų taškų.
+Suma neturi viršyti aukščiau nustatytos žaidimo tipo įgūdžių ribos. Žaidimo vedėjas gali nustatyti 50% ribą asmeniniams įgūdžiams, kurie per daug nutolsta nuo veikėjo profesijos. Ši įgūdžių riba yra aukštesnė, atsižvelgiant į kampanijos lygį: 75% herojiškam, 90% epiškam ir 100% antžmogiškam. Įgūdžiai, kurie natūraliai viršija šiuos skaičius dėl ankstesnių premijų, negali turėti papildomų išleistų taškų.
 
-Apskaičiuokite galutinius reitingus visiems veikėjo įgūdžiams iš bazinės tikimybės, asmenybės tipo, profesinių įgūdžių fondo, asmeninių įgūdžių fondo ir pasirinktinių įgūdžių kategorijos premijų (jei naudojamos). Šiuo metu galbūt norėsite šiek tiek perskirstyti taškus, tačiau laikykite profesinių įgūdžių taškus ir asmeninių įgūdžių taškus atskirai.
+Apskaičiuokite galutinius visų veikėjo įgūdžių reitingus iš bazinio šanso, asmenybės tipo, profesinių įgūdžių fondo, asmeninių įgūdžių fondo ir papildomų įgūdžių kategorijų premijų (jei naudojamos). Šiuo metu galbūt norėsite šiek tiek perstumti taškus, tačiau laikykite profesinius įgūdžių taškus ir asmeninius įgūdžių taškus atskirai.
 
-**Išsilavinimas (EDU) (parinktis):** Jei naudojama EDU charakteristika, vietoj bazinio 250/325/400/500 įgūdžių taškų fondo, pradinius įgūdžių taškus nustatykite pagal EDU×20 normaliems veikėjams, EDU×25 herojiškiems veikėjams, EDU×30 epiškiems veikėjams ir EDU×40 viršžmogiškiems veikėjams.
+**Išsilavinimas (IŠV) (Papildoma galimybė):** Jei naudojama Išsilavinimo (IŠV) charakteristika, užuot naudojus bazinį 250/325/400/500 įgūdžių taškų fondą, pradinius įgūdžių taškus skaičiuokite pagal IŠV×20 normaliems veikėjams, IŠV×25 herojiškiems veikėjams, IŠV×30 epiškiems veikėjams ir IŠV×40 antžmogiškiems veikėjams.
 
-**Kultūriniai įgūdžiai (parinktis):** Žaidimui su dideliais skirtumais tarp žmonių kultūrų, jūsų žaidimo vedėjas gali turėti įtakos pradiniams įgūdžiams ar leistiniems pradiniams įgūdžiams. Žr. **Kultūra ir veikėjai**.
+**Kultūriniai įgūdžiai (Papildoma galimybė):** Žaidimui su dideliais skirtumais tarp žmonių kultūrų, žaidimo vedėjas gali leisti tam daryti įtaką pradiniams įgūdžiams ar leistiniems pradiniams įgūdžiams. Žr. **Kultūra ir veikėjai**.
 
-**Padidinti asmeninių įgūdžių taškai (parinktis)**: INT×10 asmeninių įgūdžių taškų sumą galima padidinti iki INT×15 herojiškiems veikėjams, INT×20 epiškiems veikėjams arba INT×25 viršžmogiškiems veikėjams, jei tinkama. Ši parinktis rekomenduojama žaidimams, kur veikėjai yra nepaprastai kompetentingi ir įgudę labiau, nei rodytų jų dabartinė profesija.
+**Padidinti asmeniniai įgūdžių taškai (Papildoma galimybė)**: INT×10 asmeninių įgūdžių taškų suma gali būti padidinta iki INT×15 herojiškiems veikėjams, INT×20 epiškiems veikėjams arba INT×25 antžmogiškiems veikėjams, priklausomai nuo poreikio. Ši galimybė rekomenduojama žaidimams, kuriuose veikėjai yra nepaprastai kompetentingi ir įgudę daugiau, nei rodytų jų dabartinė profesija.
 
-### Aštuntas žingsnis: Turtas
+### Aštuntas žingsnis: Nuosavybė
 
-Dauguma veikėjų turi tam tikrų daiktų, ar tai būtų įranga, ar ginklai. Veikėjo lapo priekyje yra skiltis ginklams, o kitoje pusėje vieta turtui. Jūsų profesija aprašo jūsų veikėjo pradinį turto lygį, o Statuso įgūdis gali suteikti gaires, kokią papildomą įrangą jūsų veikėjas gali įgyti. Nebūtina išvardyti kiekvieno veikėjo turimo daikto, tik tuos, kurie gali būti svarbūs žaidime.
+Dauguma veikėjų turi tam tikrą nuosavybę, ar tai būtų įranga, ar ginklai. Veikėjo lapo priekyje yra skyrius ginklams, o nugarėlėje – vieta nuosavybei. Jūsų profesija aprašo veikėjo pradinį gerovės lygį, o Statuso įgūdis gali pateikti gaires, kokią papildomą įrangą jūsų veikėjas gali įsigyti. Nebūtina išvardyti kiekvieno daikto, kurį veikėjas turi, tik tuos, kurie gali būti svarbūs žaidime.
 
 Daugeliu atvejų jūsų veikėjas turi:
 
-* Pilną komplektą (ar komplektus) drabužių, tinkamų jų aplinkai ir nustatymams.
+* Pilną komplektą (ar komplektus) drabužių, tinkamų aplinkai ir nustatymui.
 
-* Tam tikrą kišenpinigių ir asmeninių santaupų kiekį, pagrįstą jų turto lygiu.
+* Tam tikrą kišenpinigių ir asmeninių santaupų sumą, atsižvelgiant į gerovės lygį.
 
-* Asmeninį daiktą, rodantį tam tikrą ryšį su jų šeima ar aplinka. Tai gali būti palikimas, atminimo ženklas ar koks nors niekutis su stipriu emociniu ryšiu.
+* Asmeninį daiktą, rodantį ryšį su šeima ar praeitimi. Tai gali būti palikimas, atminimo dovana ar koks nors niekutis su stipriu emociniu ryšiu.
 
-* Bet kokius prekybos įrankius ar įrangą, tinkamą jų profesijai, jei tinka.
+* Bet kokius prekybos įrankius ar įrangą, tinkamą profesijai, jei tinka.
 
 * Bet kokį ginklą, su kuriuo jie turi 50%+ įgūdį, jei tinka.
 
-* Atsižvelgiant į nustatymus, profesiją, turto lygį ir Statusą, jie gali turėti transporto priemonę, pavyzdžiui, žirgą, vežimą, dviratį, automobilį, asmeninį skraidymo aparatą, mažą kosminį transportą ar kitas transporto priemones. Tai priklauso nuo jūsų žaidimo vedėjo pritarimo.
+* Atsižvelgiant į nustatymą, profesiją, gerovės lygį ir statusą, jie gali turėti transporto priemonę, tokią kaip arklys, vežimas, dviratis, automobilis, asmeninis skraidytuvas, mažas kosminis transportas ar kitokia transporto priemonė. Tai priklauso nuo žaidimo vedėjo pritarimo.
 
-* Detalių taisyklių finansams nėra pateikta: siūlomas turtas profesijoms ir Statuso įgūdis yra geriausios gairės nustatant, kokius daiktus ir lėšas jie turi pradėdami žaidimą. Jūsų žaidimo vedėjas turėtų padėti jums aprašyti tai tinkamu detalumo lygiu ir gali turėti papildomų apribojimų ar pasiūlymų.
+* Nėra pateiktos jokios išsamios finansų taisyklės: siūlomas gerovės lygis profesijoms ir Statuso įgūdis yra geriausios gairės nustatant, kokius daiktus ir lėšas jie turi žaidimo pradžioje arba prieigą prie jų. Žaidimo vedėjas turėtų padėti jums tai aprašyti tinkamu detalumo lygiu ir gali turėti papildomų apribojimų ar pasiūlymų.
 
 ### Devintas žingsnis: Dydis ir skiriamieji bruožai
 
-Šis žingsnis yra daugiausia kosmetinis ir nėra visiškai būtinas.
+Šis žingsnis yra pirmiausia kosmetinis ir nėra visiškai būtinas.
 
-Dabar galite pasirinkti nustatyti savo veikėjo ūgį ir svorį, remdamiesi SIZ. Paprastai SIZ diapazonas 10–13 atstovauja žmogaus vidutinio svorio ir ūgio diapazoną. SIZ 8 (normalus minimumas) žmogus yra santykinai mažas, o SIZ 18 žmogus yra itin didelis. Galite apibrėžti tai, kaip norite, naudodami tikslius skaičius ūgiui ir svoriui arba aprašymus, tokius kaip „aukštas“ ar „lieknas“.
+Dabar galite nuspręsti nustatyti veikėjo ūgį ir svorį, remdamiesi DYD. Paprastai DYD diapazonas 10–13 atstovauja žmogaus vidutinio svorio ir ūgio diapazoną. DYD 8 (normalus minimumas) asmuo yra gana smulkus, o DYD 18 – itin stambus. Tai galite apibrėžti kaip norite, tiek tiksliais skaičiais ūgiui ir svoriui, tiek aprašymais, pavyzdžiui, „Aukštas“ ar „Liesas“.
 
-Jei naudojate **Skiriamųjų bruožų** parinktį, pažymėkite šiuos bruožus po savo veikėjo vardu veikėjo lape.
+Jei naudojate **Skiriamųjų bruožų** galimybę. Pažymėkite šiuos bruožus po veikėjo vardu veikėjo lape.
 
 ### Dešimtas žingsnis: Paskutiniai potėpiai
 
-Tai paskutinis įvairių jūsų veikėjo aspektų žingsnis. Jei negalėjote sugalvoti vardo anksčiau pirmajame žingsnyje, dabar pats laikas. Be to, galite sugalvoti likusią šios skilties dalį prieš prasidedant žaidimui arba pajutę savo veikėją.
+Tai paskutinis žingsnis įvairiems jūsų veikėjo aspektams. Jei negalėjote sugalvoti vardo iš anksto pirmame žingsnyje, dabar pats laikas. Be to, galite sugalvoti likusią šio skyriaus dalį prieš prasidedant žaidimui arba pajutę savo veikėją.
 
-Kaip norite, užpildykite visus tuščius laukelius, kurie aprašo veikėją protiškai ir fiziškai, ir sugalvokite idėjų apie jų kilmę. Devintame žingsnyje nustatėte savo veikėjo skiriamuosius bruožus, todėl turėtumėte nuspręsti, ar jūsų veikėjas turi kitų, mažiau skiriamųjų bruožų. Kokios spalvos jų plaukai, oda ir akys? Kaip jie rengiasi? Ar jie turi kokių nors įdomių manierų, ar šūkį ar posakį, kurį dažnai vartoja? Ar jie turi įdomią reputaciją?
+Kaip pageidaujate, turėtumėte užpildyti visus tuščius laukelius, aprašančius veikėją mentaliai ir fiziškai, ir sugalvoti keletą idėjų apie jų praeitį. Devintame žingsnyje nustatėte veikėjo skiriamuosius bruožus, tad turėtumėte nuspręsti, ar jūsų veikėjas turi kitų, mažiau skiriamųjų bruožų. Kokios jų plaukų, odos ir akių spalvos? Kaip jie rengiasi? Ar jie turi kokių nors įdomių manierų, ar šūkį ar posakį, kurį dažnai vartoja? Ar jie turi įdomią reputaciją?
 
-Jei aktualu, nustatykite, iš kur jūsų veikėjas yra. Kur jie lankė mokyklą (jei lankė)? Kokie jų santykiai su šeima? Ar veikėjas priklauso kokioms nors svarbioms organizacijoms? Ar jie turi įdomią praeitį? Ar jie turi kokių nors svarbių religinių ar politinių įsitikinimų? Jei tinka, turėtumėte dirbti su savo žaidimo vedėju, kad išspręstumėte šiuos klausimus prieš žaidimui prasidedant, arba bent jau pagalvokite apie juos iš anksto. Žaidimo metu taip pat galite papildyti kitas savo veikėjo kilmės detales, jei reikia, arba palikti šiuos aspektus nenustatytus, jei jie nėra aktualūs.
+Jei aktualu, nustatykite, iš kur jūsų veikėjas yra. Kur jie ėjo į mokyklą (jei išvis ėjo)? Kokie jų santykiai su šeima? Ar veikėjas yra kokios nors svarbios organizacijos narys? Ar jie turi įdomią praeitį? Ar jie turi kokių nors reikšmingų religinių ar politinių įsitikinimų? Jei tinka, turėtumėte dirbti su žaidimo vedėju, kad nustatytumėte šiuos klausimus prieš prasidedant žaidimui arba bent jau pagalvotumėte apie juos iš anksto. Žaidimo metu taip pat galite išplėtoti kitas veikėjo praeities detales, jei reikia, arba palikti šiuos aspektus nenustatytus, jei jie nėra svarbūs.
 
-Veikėjo lapo kitoje pusėje yra vietos papildomiems aprašomiesiems ar kilmės elementams. Užpildykite tiek, kiek norite, ir pasitarkite su savo žaidimo vedėju, kad įsitikintumėte, jog jie apie juos žino ir kad jie yra tinkami žaidimui.
+Veikėjo lapo kitoje pusėje yra vietos papildomiems aprašomiesiems ar praeities elementams. Užpildykite tiek, kiek norite, ir patikrinkite su žaidimo vedėju, kad įsitikintumėte, jog jie apie juos žino ir kad jie yra tinkami žaidimui.
 
-> ### Į taškais pagrįstas veikėjo kūrimas (parinktis)
+> ### Taškais grįstas veikėjo kūrimas (papildoma galimybė)
 > 
-> Standartinis veikėjo kūrimas naudoja kauliukų ridenimus charakteristikoms nustatyti, tačiau jūs ir jūsų žaidimo vedėjas galite pasirinkti naudoti į taškus pagrįstą sistemą, suteikiančią daugiau kontrolės kuriant veikėją. Tokiu atveju **Pirmajam žingsniui** daromi šie pakeitimai.
+> Standartinis veikėjo kūrimas naudoja kauliukų ridenimą pradinėms charakteristikoms nustatyti, tačiau jūs ir jūsų žaidimo vedėjas gali pasirinkti naudoti taškais grįstą sistemą, suteikiančią daugiau kontrolės kuriant veikėją. Tokiu atveju **Pirmame žingsnyje** atliekami šie pakeitimai.
 > 
-> * Visos charakteristikos (STR, CON, SIZ, INT, POW, DEX ir CHA) prasideda nuo 10.
+> * Visos charakteristikos (JĖG, IŠT, DYD, INT, GAL, VIK ir CHA) prasideda nuo 10.
+
+> * Turite 24 taškus, kuriuos galite išleisti charakteristikoms. Tai yra kampanijos „normalaus“ galios lygio atitikmuo. Jokia pradinė charakteristika negali būti pakelta aukščiau nei 21.
 > 
-> * Turite 24 taškus, kuriuos galite išleisti charakteristikoms. Tai yra „normalaus“ galios lygio kampanijos ekvivalentas. Nė viena pradinė charakteristika negali būti pakelta aukščiau nei 21.
+> * Kiekvienas JĖG, IŠT, DYD ar CHA taškas kainuoja 1 tašką.
 > 
-> * Kiekvienas STR, CON, SIZ arba CHA taškas kainuoja 1 tašką.
+> * Kiekvienas VIK, INT ir GAL taškas kainuoja 3.
 > 
-> * Kiekvienas DEX, INT ir POW taškas kainuoja 3.
+> * Galite pasirinkti sumažinti pradines charakteristikas žemiau 10, iki minimum 3.
 > 
-> * Galite pasirinkti sumažinti savo pradines charakteristikas žemiau 10, iki minimum 3.
+> * Už kiekvieną JĖG, IŠT, DYD ar CHA tašką, kurį sumažinate žemiau 10, gaunate 1 tašką išleisti kitoms charakteristikoms.
 > 
-> * Už kiekvieną STR, CON, SIZ arba CHA tašką, kurį sumažinate žemiau 10, gaunate 1 tašką, kurį galite išleisti kitoms charakteristikoms.
+> * Už kiekvieną VIK, INT ir GAL tašką, kurį sumažinate, gaunate atgal 3 taškus.
 > 
-> * Už kiekvieną DEX, INT ir POW tašką, kurį sumažinate, gaunate 3 taškus.
+> * Tik gavus žaidimo vedėjo leidimą, galite pakelti arba sumažinti pradinę charakteristiką už 3–21 diapazono ribų. Aukštesniems galios lygiams (epiškam ir antžmogiškam), charakteristikų maksimumas turėtų būti ignoruojamas.
 > 
-> * Tik su žaidimo vedėjo leidimu galite pakelti ar sumažinti pradinę charakteristiką už 3–21 diapazono ribų. Aukštesniems galios lygiams (epiškam ir viršžmogiškam), charakteristikos maksimumas turėtų būti ignoruojamas.
+> * Žaidimams su galiomis galite panaudoti visus nepanaudotus taškus iš charakteristikų generavimo savo galių biudžetui. Tai įmanoma tik su žaidimo vedėjo leidimu, nes tai gali reikšti, kad bendrai prarasite taškus.
 > 
-> * Žaidimams su galiomis, galite pritaikyti bet kokius nepanaudotus taškus iš charakteristikų generavimo savo galių biudžetui. Tai įmanoma tik su žaidimo vedėjo leidimu, nes tai gali reikšti, kad bendrai prarasite taškus.
+> Jei taškais grįstas charakteristikų generavimas yra leidžiamas, kitas žingsnis žaidimui su galiomis būtų alternatyvus **Antras žingsnis**, aprašytas *Ketvirtame skyriuje: Galios*. Žaidimui be galių veikėjo kūrimas turėtų šokti tiesiai į **Ketvirtą žingsnį**.
 > 
-> Jei į taškus pagrįstas charakteristikų generavimas yra leidžiamas, kitas žingsnis žaidimui su galiomis būtų alternatyvus **Antras žingsnis**, aprašytas *Ketvirtame skyriuje: Galios*. Žaidimui be galių, veikėjo kūrimas tada turėtų šokti į **Ketvirtą žingsnį**.
+> #### Aukštesnės pradinės charakteristikos (Papildoma galimybė)
 > 
-> #### Aukštesnės pradinės charakteristikos (parinktis)
+> Aukštesnio lygio kampanijoms (su 2D6+6 ridenimu vietoj normalaus 3D6), pradinė taškų suma aukščiau yra 36 taškai, atitinkantys herojišką galios lygį. Epiško galios lygio veikėjai pradeda su 48 charakteristikų taškais, o antžmogiško galios lygio veikėjai pradeda su 60 taškų. Normalūs charakteristikų maksimumai neturėtų būti taikomi.
 > 
-> Aukštesnės galios kampanijoms (su 2D6+6 ridenimu vietoj normalaus 3D6), pradinis taškų skaičius aukščiau yra 36 taškai, atitinkantys herojišką galios lygį. Epiško galios lygio veikėjai pradeda su 48 charakteristikų taškais, o viršžmogiško galios lygio veikėjai – su 60 taškų. Normalūs charakteristikų maksimumai neturėtų būti taikomi.
+> #### Išsilavinimas (Papildoma galimybė)
 > 
-> #### Išsilavinimas (parinktis)
+> Jei naudojama IŠV charakteristika, žaidimo vedėjas turėtų priskirti IŠV vertę pagal jūsų veikėjo amžių (aprašyta **Trečiame žingsnyje**) ir praeitį. Galite tai modifikuoti bet kokiais pasirinktais taškais. Kiekvienas IŠV taškas kainuoja 3 taškus.
 > 
-> Jei naudojama EDU charakteristika, jūsų žaidimo vedėjas turėtų priskirti EDU vertę pagal jūsų veikėjo amžių (aprašytą **Trečiame žingsnyje**) ir kilmę. Galite modifikuoti tai su bet kokiais taškais, kuriuos pasirenkate. Kiekvienas EDU taškas kainuoja 3 taškus.
+> #### Kultūriniai modifikatoriai arba ne žmonių veikėjai (Papildoma galimybė)
 > 
-> #### Kultūriniai modifikatoriai arba ne žmogiški veikėjai (parinktis)
-> 
-> Jei jūsų žaidimo vedėjas leidžia kultūrinius modifikatorius pradinėms charakteristikoms, šie modifikatoriai turėtų būti taikomi charakteristikoms po to. Jei prieinami ne žmogiški veikėjai su kultūriniais modifikatoriais pradinėms charakteristikoms, jūsų žaidimo vedėjas turėtų pakoreguoti jūsų pradinius taškus ir (arba) pradines charakteristikas, jei tinka. *Vienuoliktas skyrius: Būtybės* pateikia patarimų, kaip leisti ne žmogiškus veikėjus.
+> Jei žaidimo vedėjas leidžia kultūrinius modifikatorius pradinėms charakteristikoms, šie modifikatoriai turėtų būti pritaikyti charakteristikoms vėliau. Jei prieinami ne žmonių veikėjai su kultūriniais modifikatoriais pradinėms charakteristikoms, žaidimo vedėjas turėtų pakoreguoti jūsų pradinius taškus ir/ar pradines charakteristikas atitinkamai. *Vienuoliktame skyriuje: Būtybės* pateikiami patarimai dėl ne žmonių veikėjų leidimo.
 
 ## Charakteristikos
 
-Jūsų veikėjas yra matuojamas ir apibrėžiamas charakteristikų rinkiniu – vertėmis, atstovaujančiomis jų fizinius ir protinius gebėjimus. Aukštesni charakteristikų skaičiai paprastai yra geriau (nors aukštas SIZ gali veikti prieš jus slaptumo atveju). Charakteristikų vertės rodo neapdorotus prigimtinius veikėjo talentus. Charakteristikų vertės gali keistis žaidimo eigoje. Sužalojimai ar nepalankios sąlygos gali sumažinti charakteristikas, o mokymai, pastangos ir treniruotės gali jas padidinti.
+Jūsų veikėjas yra matuojamas ir apibrėžiamas charakteristikų rinkiniu – vertėmis, atspindinčiomis jų fizines ir protines galimybes. Didesni charakteristikų skaičiai dažniausiai yra geriau (nors aukštas DYD gali veikti prieš jus sėlinant). Charakteristikų vertės rodo veikėjo turimas prigimtines dovanas. Charakteristikų vertės gali kisti žaidimo eigoje. Sužalojimai ar nepalankios sąlygos gali sumažinti charakteristikas, o treniruotės, pastangos ir fizinė būklė gali jas padidinti.
 
-* Fizinės charakteristikos (STR, CON, SIZ ir DEX) žmonėms turi 21 maksimumą.
+* Fizinės charakteristikos (JĖG, IŠT, DYD ir VIK) turi 21 maksimumą žmonėms.
 
-* Protinės charakteristikos (INT, POW, CHA ir EDU) paprastai gali būti didinamos be apribojimų.
+* Protines charakteristikas (INT, GAL, CHA ir IŠV) paprastai galima didinti be apribojimų.
 
-* Daugeliu atvejų 3 yra žemiausia vertė bet kuriai charakteristikai, išskyrus SIZ arba INT, kurios turi 8 minimalią vertę.
+* Dauguma sąlygų, 3 yra žemiausia vertė bet kuriai charakteristikai, išskyrus DYD ar INT, kurios turi minimalią 8 vertę.
 
-Jei kampanijoje leidžiamos kitos rasės ar rūšys, jos gali turėti aukštesnius ar žemesnius charakteristikų maksimumus. Magija, mutacijos, psichiniai gebėjimai, burtininkystė ar supergalios taip pat gali padidinti charakteristikas be apribojimų.
+Jei kampanijoje leidžiamos kitos rasės ar rūšys, jos gali turėti aukštesnius ar žemesnius charakteristikų maksimumus. Magija, mutacijos, psichinės galios, kerėjimas ar supergalios taip pat gali padidinti charakteristikas be limito.
 
-### Jėga (STR)
+### Jėga (JĖG)
 
-Jėga matuoja fizinę jėgą ir neapdorotą raumenų galią. Pastangų metimas (STR×5) yra jos charakteristikos metimas. STR padeda nustatyti, kiek veikėjas gali pakelti, nešti, stumti ar traukti, arba kaip tvirtai jie gali kažko laikytis. Kovoje STR nustato, kokius ginklus veikėjas gali valdyti, taip pat padeda nustatyti, kiek papildomos žalos (jei tokia yra) jie padaro bet kokiu smūgiu. STR galima padidinti per mankštas, o tam tikri sužalojimai ir ligos gali visam laikui sumažinti STR. Veikėjas su STR 0 yra invalidas, nesugebantis pakilti iš lovos.
+Jėga matuoja raumenų galią. Pastangų metimas (JĖG×5) yra jos charakteristikos metimas. JĖG padeda nustatyti, kiek veikėjas gali pakelti ar nešti, stumti ar traukti, arba kaip stipriai gali įsikibti į kažką. Kovoje JĖG lemia, kokio tipo ginklus veikėjas gali naudoti, taip pat padeda nustatyti, kiek papildomos žalos (jei tokia yra) jie padaro su kiekvienu smūgiu. JĖG galima padidinti per mankštą, o tam tikri sužalojimai ir ligos gali visam laikui sumažinti JĖG. Veikėjas su JĖG 0 yra invalidas, negalintis pakilti iš lovos.
 
-### Konstitucija (CON)
+### Ištvermė (IŠT)
 
-Sveikata, jėga ir gyvybingumas matuojami Konstitucija. Ištvermės metimas (CON×5) yra jos charakteristikos metimas. CON nustato, kaip gerai veikėjas gali atsispirti nuovargiui, nuodams, ligoms, skendimui ir kitiems sunkumams, ir yra veiksnys skaičiuojant gyvybės taškus. CON galima padidinti per kondicionavimą. Ligos, nuodai ir kai kurie sužalojimai gali laikinai arba visam laikui sumažinti CON. Veikėjas miršta, kai jų CON nukrenta iki 0 dėl bet kokios priežasties.
+Sveikata, jėga ir gyvybingumas yra matuojami Ištverme. Ištvermės metimas (IŠT×5) yra jos charakteristikos metimas. IŠT lemia, kaip gerai veikėjas gali atsispirti nuovargiui, nuodams, ligoms, skendimui ir kitiems sunkumams, ir yra veiksnys skaičiuojant sveikatos taškus. IŠT galima padidinti per treniruotes. Ligos, nuodai ir kai kurie sužalojimai gali laikinai ar visam laikui sumažinti IŠT. Veikėjas miršta, kai jų IŠT krenta iki 0 dėl bet kokios priežasties.
 
-### Dydis (SIZ)
+### Dydis (DYD)
 
-Dydis apibrėžia ūgį, svorį ir stambumą. Nėra SIZ susieto charakteristikos metimo; veikėjo lape ši vieta naudojama žalos premijai pažymėti. Pasipriešinimo metimai naudojant SIZ gali nustatyti, ar veikėjas gali tvirtai stovėti prieš pasipriešinimą, matyti virš kliūties ar pralįsti pro plyšį. Veikėjo SIZ, kaip kūno masė, yra svarbus veiksnys nustatant gyvybės taškus ir žalos modifikatorių (jei toks yra). Veiksniai, tokie kaip rijimas ar griežta dieta, gali padidinti arba sumažinti SIZ, žaidimo vedėjo nuožiūra. Kai kurios galios taip pat gali paveikti SIZ. Sunkūs sužalojimai (pvz., prarastos galūnės) taip pat gali visam laikui sumažinti SIZ. Veikėjas miršta, jei praranda daugiau nei pusę savo SIZ (suapvalinus į viršų) dėl bado ar ekstremalios dietos. Veikėjas, sumažintas iki SIZ 0 per magiją ar kitas įtakas, tiesiog išnyksta, ištirpdamas į nieką. Jūsų žaidimo vedėjas turėtų būti bet kokių priverstinių SIZ pokyčių arbitras, nes jie yra reti.
+Dydis apibrėžia ūgį, svorį ir tūrį. Nėra su DYD susijusio charakteristikos metimo; veikėjo lape vieta naudojama Žalos premijai pažymėti. Pasipriešinimo metimai naudojant DYD gali nustatyti, ar veikėjas gali tvirtai stovėti prieš pasipriešinimą, matyti virš kliūties ar pralįsti pro plyšį. Veikėjo DYD, kaip kūno masė, yra svarbus veiksnys nustatant sveikatos taškus ir žalos modifikatorių (jei toks yra). Veiksniai, tokie kaip rijimas ar griežta dieta, gali padidinti ar sumažinti DYD, žaidimo vedėjo nuožiūra. Kai kurios galios taip pat gali paveikti DYD. Sunkūs sužalojimai (pvz., galūnių praradimas) taip pat gali visam laikui sumažinti DYD. Veikėjas miršta, jei praranda daugiau nei pusę savo DYD (suapvalinti į viršų) dėl bado ar ekstremalios dietos. Veikėjas, sumažintas iki DYD 0 per magiją ar kitokią įtaką, tiesiog išnyksta, sunykdamas iki nieko. Žaidimo vedėjas turėtų būti bet kokių nevalingų DYD pokyčių arbitras, nes jie yra reti.
 
 ### Intelektas (INT)
 
-Atstovaujantis protui, mentaliniam aštrumui ir sąmojui, INT matuoja, kaip gerai veikėjas mokosi, prisimena ir analizuoja informaciją. Idėjos metimas (INT×5) yra jos charakteristikos metimas. INT yra kritiškai svarbus nustatant pradinius įgūdžių įvertinimus. Tai turbūt pati svarbiausia charakteristika, INT neturi fiksuoto maksimumo ir gali pakilti neribotai per studijas ir protinę mankštą. Galvos sužalojimai, ilgalaikis kenksmingų vaistų poveikis ar tam tikros ligos gali sumažinti INT. Veikėjas su INT 0 yra vegetacinės būsenos, nesugebantis išgyventi savarankiškai.
+Atspindintis protą, mentalinį aštrumą ir sumanumą, INT matuoja, kaip gerai veikėjas mokosi, atsimena ir analizuoja informaciją. Idėjos metimas (INT×5) yra jos charakteristikos metimas. INT yra kritiškai svarbus nustatant pradinius įgūdžių įvertinimus. Turbūt pati svarbiausia charakteristika, INT neturi fiksuoto maksimumo ir gali teoriškai kilti neribotai per studijas ir mentalines pratybas. Žaizdos galvoje, ilgalaikis kenksmingų vaistų poveikis ar tam tikros ligos gali sumažinti INT. Veikėjas su INT 0 yra vegetacinės būklės, negalintis išgyventi savarankiškai.
 
-### Galia (POW)
+### Galia (GAL)
 
-Neapčiuopiamiausia charakteristika, Galia atstovauja valiai, maginiam polinkiui ir dvasiniam vystymuisi. POW yra būtinas lyderystei, intuicijai ir magijai. Sėkmės metimas (POW×5) yra jos charakteristikos metimas. POW tarnauja kaip pradinių galios taškų ir pradinių Sveiko proto taškų nustatymo pagrindas. Kaip ir INT, žmonių POW neturi nustatyto maksimumo ir gali pakilti neribotai. Maginės įtakos gali sumažinti POW (laikinai arba visam laikui), ir kai kuri magija yra maitinama nuolatiniu POW taškų aukojimu. Galioms (žr. *Ketvirtas skyrius: Galios*), POW yra tikriausiai svarbiausia charakteristika. POW yra siūlomas pagrindas pradiniams galių pasirinkimams, todėl veikėjas su aukštesniu POW turės daugiau galių (ar daugiau lygių tose galiose). Veikėjas, kurio POW balas pasiekia 0, prarado sielą ir tampa katatoniku be jokios valios ar gyvybinės jėgos.
+Nepaprastai neapčiuopiama charakteristika, Galia atstovauja valią, magiškus gebėjimus ir dvasinį vystymąsi. GAL yra būtina lyderystei, intuicijai ir magijai. Sėkmės metimas (GAL×5) yra jos charakteristikos metimas. GAL tarnauja kaip pradinių galios taškų ir pradinių proto sveikatos taškų nustatymo kriterijus. Kaip ir INT, žmonių GAL neturi nustatyto maksimumo ir gali kilti neribotai. Magiškos įtakos gali sumažinti GAL (laikinai ar visam laikui), o kai kuri magija maitinama nuolatine GAL taškų auka. Galioms (žr. *Ketvirtą skyrių: Galios*), GAL yra turbūt pati svarbiausia charakteristika. GAL yra siūlomas pagrindas pradiniam galių pasirinkimui, todėl veikėjas su aukštesne GAL turės daugiau galių (ar daugiau lygių tose galiose). Veikėjas, kurio GAL balas pasiekia 0, prarado sielą ir tampa katatoniku be jokios valios ar gyvybinės jėgos.
 
-### Vikrumas (DEX)
+### Vikrumas (VIK)
 
-Vikrumo balas matuoja pusiausvyrą, judrumą, greitį ir sumanumo lygį. Veikėjai pasikliauna DEX reaguodami į ataką, laipiodami, atlikdami subtilų darbą ar judėdami slaptai. Vikrumo metimas (DEX×5) yra jos charakteristikos metimas. Sužalojimai ar nervų ligos gali sumažinti DEX, o griežtos treniruotės gali pagreitinti refleksus ir pagerinti pusiausvyrą. Veikėjas su DEX 0 yra visiškai nejudrus.
+Vikrumo balas matuoja pusiausvyrą, judrumą, greitį ir grakštumą. Veikėjai pasikliauja VIK reaguodami į ataką, laipiodami, atlikdami subtilų darbą ar sėlindami. Vikrumo metimas (VIK×5) yra jo charakteristikos metimas. Sužalojimai ar nervų ligos gali sumažinti VIK, o griežtos treniruotės gali pagreitinti refleksus ir pagerinti pusiausvyrą. Veikėjas su VIK 0 yra visiškai nejudrus.
 
 ### Charizma (CHA)
 
-Charizma nustato, koks patrauklus ar mėgstamas veikėjas yra kitiems, ir yra pagrįsta tiek buvimu, asmenybe ir elgsena, kiek paprasta fizine išvaizda. Žavesio metimas (CHA×5) sudaro jos charakteristikos metimą. Charizma naudojama įvertinti pirmiems įspūdžiams ir parodo, kaip noriai kiti bendraus su kuo nors, per fizinį patrauklumą ar patrauklią asmenybę. Charizmą galima padidinti per fizinį kondicionavimą, plastinę chirurgiją ar atidžią priežiūrą ir etiketą. Ji netgi gali būti šiek tiek pagerinta turint itin įspūdingą įrangą. Ją taip pat galima sumažinti per sužalojimą ar ligą. Veikėjas su CHA 0 yra arba visiškai atstumiantis, keliantis pasibjaurėjimą visiems, kas su jais susiduria, arba tapęs toks nepastebimas, kad vos registruojamas.
+Charizma nustato, koks patinkantis ar patrauklus veikėjas yra kitiems, ir yra pagrįsta tiek buvimu, asmenybe ir elgesiu, kiek paprasta fizine išvaizda. Žavesio metimas (CHA×5) yra jos charakteristikos metimas. Charizma naudojama matuoti pirmiems įspūdžiams ir rodo, kaip noriai kiti bendraus su kažkuo per fizinį patrauklumą ar patrauklią asmenybę. Charizmą galima padidinti per fizines treniruotes, plastines operacijas ar kruopštų savęs priežiūrą ir etiketą. Ją netgi galima šiek tiek pagerinti turint itin įspūdingą įrangą. Ją taip pat galima sumažinti per sužalojimą ar ligą. Veikėjas su CHA 0 yra arba visiškai atstumiantis, keliantis pasibjaurėjimą visiems, kas su jais susiduria, arba tapo toks neryškus, kad vos pastebimas.
 
-> ### Kultūriniai charakteristikų modifikatoriai (parinktis)
+> ### Kultūriniai charakteristikų modifikatoriai (Papildoma galimybė)
 > 
-> Kai kurios kultūros gali gauti pagrindinių charakteristikų, tokių kaip SIZ, modifikatorių. Tai gali būti potencialiai jautri tema. Žaidimo vedėjas raginamas tokias premijas skirti atsargiai ir subalansuoti teigiamas premijas neigiamomis, arba suvienodinti žaidimą suteikiant visoms kultūroms lygiavertę premiją, nors galbūt skirtingoms charakteristikoms ar atributams. Griežtai nerekomenduojama bausti INT, nepriklausomai nuo tariamo pateisinimo. Nė vienas žaidėjas neturėtų būti nubaustas už tam tikros kultūros pasirinkimą. Taip pat rekomenduojama tai naudoti tik aplinkose, kur tokie skirtumai yra įprastai priimtini, pavyzdžiui, fantastiniuose pasauliuose, kur giminės linijos yra unikalios, arba mokslinės fantastikos aplinkose, kur žmonija buvo formuojama genetinės manipuliacijos ir prisitaikė prie galaktinės aplinkos.
+> Kai kurios kultūros gali gauti modifikatorius bazinėms charakteristikoms, pavyzdžiui, DYD. Tai gali būti potencialiai jautri tema. Žaidimo vedėjas skatinamas tokias premijas skirti atsargiai ir subalansuoti teigiamas premijas su neigiamomis, arba suvienodinti žaidimą suteikiant visoms kultūroms ekvivalenčią premiją, nors galbūt skirtingoms charakteristikoms ar atributams. Griežtai nerekomenduojama bausti INT, nepriklausomai nuo akivaizdaus pateisinimo. Nė vienas žaidėjas neturėtų būti nubaustas už konkrečios kultūros pasirinkimą. Taip pat rekomenduojama tai naudoti tik nustatymams, kur tokie skirtumai yra visuotinai priimtini, pavyzdžiui, fentezi pasauliuose, kur kraujo linijos yra unikalios, arba mokslinės fantastikos nustatymuose, kur žmonija buvo suformuota genetinės manipuliacijos ir prisitaikė prie galaktinės aplinkos.
 
 ## Charakteristikų metimai
 
-Kai kurie iššūkiai intuityviai nepriskiriami konkretiems įgūdžiams. Ar medžiotojas gali nemiegoti visą naktį laukdamas grobio? Ar užgrūdintas detektyvas gali sudėlioti jaudinantį pėdsaką, paslėptą įrodymų nuotrupose? Tokiose situacijose žaidimo vedėjas gali pareikalauti charakteristikos metimo: D100 metimo prieš atitinkamą charakteristiką, padaugintą iš kito skaičiaus. Žaidimo vedėjas nusprendžia, kokį daugiklį naudoti, remdamasis užduoties sunkumu. Standartiniai charakteristikų metimai naudoja ×5 daugiklį, nors itin sunkios užduotys gali reikalauti ×2 daugiklio arba net būti pagrįstos pačia charakteristika kaip procentu. Daugiau informacijos apie užduočių sunkumą ir modifikatorių parinkimą rasite *Penktame skyriuje: Sistema*.
+Kai kurie iššūkiai intuityviai nesiejami su konkrečiais įgūdžiais. Ar medžiotojas gali nemiegoti slėptuvėje visą naktį laukdamas grobio? Ar užgrūdintas detektyvas gali sudėlioti varginančią užuominą, paslėptą įrodymų likučiuose? Tokiose situacijose žaidimo vedėjas gali pareikalauti charakteristikos metimo: D100 metimo prieš atitinkamą charakteristiką, padaugintą iš kito skaičiaus. Žaidimo vedėjas nusprendžia, kokį daugiklį naudoti, atsižvelgiant į užduoties sudėtingumą. Standartiniai charakteristikų metimai naudoja ×5 daugiklį, nors itin sunkios užduotys gali reikalauti ×2 daugiklio ar net būti pagrįstos pačia charakteristika kaip procentu. Daugiau detalių apie užduoties sudėtingumą ir modifikatorių pasirinkimą žr. *Penktame skyriuje: Sistema*.
 
-### Pastangų metimas (STR×5)
+### Pastangų metimas (JĖG×5)
 
-Dauguma jėgos žygdarbių apima STR lyginimą su keliamo objekto SIZ pasipriešinimo lentelėje (žr. *Penktas skyrius: Sistema*). Tais atvejais, kai SIZ įvertinimas nėra prieinamas arba jį sunku nustatyti, naudokite Pastangų metimą. Pastangų metimai taip pat gali būti naudojami kaip lengvas būdas nustatyti tokius dalykus, kaip ar veikėjas gali užsikelti ant atbrailos. Ar jie išsekę po ilgo žygio? Pastangų metimas yra greitas būdas nuspręsti.
+Dauguma jėgos žygdarbių apima JĖG atitikimą su keliamo objekto DYD pasipriešinimo lentelėje (žr. *Penktą skyrių: Sistema*). Tais atvejais, kai DYD vertė nėra prieinama arba ją sunku nustatyti, naudokite Pastangų metimą. Pastangų metimai taip pat gali būti naudojami kaip lengvas būdas nustatyti tokius dalykus, kaip ar veikėjas gali užsitraukti ant atbrailos. Ar jie pavargę ilgo žygio pabaigoje? Pastangų metimas yra greitas būdas nuspręsti.
 
-### Ištvermės metimas (CON×5)
+### Ištvermės metimas (IŠT×5)
 
-Pagrįstas CON, Ištvermės metimai matuoja ištvermę. Naudokite Ištvermės metimą, kai kyla klausimas dėl fizinės ar žarnyno tvirtybės. Išvardijant kelis pavyzdžius, Ištvermės metimas gali nustatyti, ar veikėjas gali nemiegoti visą naktį, ar ištverti jūros ligą, prastai paruoštą maistą ar stiprų gėrimą be jokių neigiamų pasekmių.
+Pagrįsti IŠT, Ištvermės metimai matuoja ištvermę. Naudokite Ištvermės metimą, kai kyla klausimas dėl fizinės ar žarnyno tvirtybės. Keletas pavyzdžių: Ištvermės metimas gali nustatyti, ar veikėjas gali nemiegoti visą naktį, ar ištverti jūrligę, prastai paruoštą maistą ar stiprų gėrimą be jokių neigiamų pasekmių.
 
 ### Idėjos metimas (INT×5)
 
-Idėjos metimas atstovauja gebėjimą daryti protingus spėjimus, pagrįstus nuojautas ar pagrįstas išvadas, remiantis tik stebėjimu ir neapdorotu intelektu. Kai joks įgūdis neatrodo tinkamas, Idėjos metimas gali parodyti koncepcijos supratimą ar gebėjimą išpainioti galvosūkį. Atmintis taip pat yra Idėjos metimo dalis: naudokite Idėjos metimą prisiminti svarbią detalę, atsekti žingsnius labirinte ar įsiminti ilgą formulę.
+Idėjos metimas atstovauja gebėjimą daryti protingus spėjimus, informuotus įtarimus ar pagrįstas išvadas, remiantis tik stebėjimu ir grynu intelektu. Kai joks įgūdis neatrodo tinkamas, Idėjos metimas gali parodyti koncepcijos supratimą ar gebėjimą išspręsti galvosūkį. Atmintis taip pat yra Idėjos metimo dalis: naudokite Idėjos metimą prisiminti svarbią detalę, atsekti žingsnius labirinte ar įsiminti ilgą formulę.
 
-Jūsų žaidimo vedėjas taip pat gali leisti Idėjos metimą, jei esate užstrigę, sugrąžindamas jus į vėžes atskleidžiant paslėptą jau atrastų įkalčių prasmę arba pranešdamas, kad kažkas „neatrodo visai teisingai“ su konkrečiu asmeniu, vieta ar daiktu. Tokio tipo Idėjos metimas turėtų būti suteikiamas tik žaidimo vedėjo nuožiūra ir paprastai žaidėjų nėra prašomas.
+Žaidimo vedėjas taip pat gali leisti Idėjos metimą, jei esate užstrigę, sugrąžindami jus į teisingą kelią atskleidžiant paslėptą jau atrastos užuominos prasmę arba leidžiant jiems žinoti, kad kažkas „ne visai atrodo gerai“ dėl konkretaus asmens, vietos ar daikto. Šio tipo Idėjos metimas turėtų būti suteikiamas tik žaidimo vedėjo nuožiūra ir paprastai nėra prašomas žaidėjų.
 
-Jūsų žaidimo vedėjas taip pat gali pareikalauti Idėjos metimo, jei norite, kad jūsų veikėjas mąstytų ar elgtųsi būdu, atstovaujančiu žaidėjo žinias prieš veikėjo žinias. Pavyzdžiui, jei veikėjas yra primityvus medžiotojas, susiduriantis su moderniomis technologijomis, jūsų žaidimo vedėjas gali pareikalauti Idėjos metimo, kad jie galėtų suprasti pagrindines daikto sąvokas, net jei žaidėjas automatiškai žino, kas tai yra, remiantis jo aprašymu.
+Žaidimo vedėjas taip pat gali pareikalauti Idėjos metimo, jei norite, kad jūsų veikėjas galvotų ar elgtųsi būdu, atstovaujančiu žaidėjo žinias vs. veikėjo žinias. Pavyzdžiui, jei veikėjas yra primityvus medžiotojas, susiduriantis su šiuolaikine technologija, žaidimo vedėjas gali pareikalauti Idėjos metimo, kad jie galėtų suvokti pagrindines daikto koncepcijas, net jei žaidėjas automatiškai žino, kas tai yra, remdamasis jo aprašymu.
 
-### Sėkmės metimas (POW×5)
+### Sėkmės metimas (GAL×5)
 
-Sėkmė yra gebėjimas būti tinkamoje vietoje tinkamu laiku, kad reikalai susiklostytų sėkmingai nepaisant lūkesčių, arba antgamtinis gebėjimas išvengti atsitiktinių pavojų be žalos. Ar jūsų veikėjas atsitiktinai turi tą vieną ypatingą įrangos dalį? Ar draugiškas praeivis išties pagalbos ranką, jei jie įstrigo kelkraštyje? Ar bjauri būtybė puola veikėją, ar netoliese esantį ne žaidėjų veikėją? Ar veikėjas įkrenta pro silpnas grindis, ar užkliūva drabužiais už suskilusios lentos ir išvengia mirties? Sėkmės metimus galima naudoti atsakyti į visus šiuos klausimus. Sėkmingi Sėkmės metimai gali sukurti laimingus atsitiktinumus įprastomis aplinkybėmis arba išgelbėti ką nors nuo tikros pražūties ekstremalioje situacijoje.
+Sėkmė yra gebėjimas atsidurti tinkamoje vietoje tinkamu laiku, kad viskas susiklostytų nepaisant lūkesčių, arba nepaprastas gebėjimas išvengti atsitiktinio pavojaus. Ar jūsų veikėjas atsitiktinai turi tą vieną specialų daiktą ar įrangą? Ar draugiškas praeivis padės ranką, jei jie palikti likimo valiai kelio pusėje? Ar bjauri būtybė puola veikėją ar netoliese esantį ne žaidėjų veikėją? Ar veikėjas įkrenta pro silpnas grindis, ar užkliūva drabužiais už suskilusios lentos ir išvengia kritimo į mirtį? Sėkmės metimai gali būti naudojami atsakyti į visus šiuos klausimus. Sėkmingi Sėkmės metimai gali sukurti laimingus atsitiktinumus įprastomis aplinkybėmis arba išgelbėti kažką nuo tikros žūties ekstremalioje situacijoje.
 
-### Vikrumo metimas (DEX×5)
+### Vikrumo metimas (VIK×5)
 
-Kiekvieną kartą, kai reikalingas sumanumo, pusiausvyros ar vikrumo žygdarbis ir nėra tinkamo įgūdžio, naudokite Vikrumo metimą sėkmei išmatuoti. Vikrumo metimas gali, pavyzdžiui, nustatyti, ar veikėjas gali išlaikyti pusiausvyrą ant bangų blaškomo laivo denio, skubiai surinkti visas sudaužytos vazos dalis, bėgti nešant brangų eliksyrą neišliejant, ar sugriebti vijoklį ant skardžio krašto prieš nukrentant.
+Kai prireikia grakštumo, pusiausvyros ar vikrumo žygdarbio ir nėra tinkamo įgūdžio, naudokite Vikrumo metimą sėkmei matuoti. Vikrumo metimas gali, pavyzdžiui, nustatyti, ar veikėjas gali išlaikyti pusiausvyrą ant siūbuojančio laivo denio, skubiai surinkti visas sudužusios vazos dalis, bėgti nešant brangų eliksyrą neišliejant nė lašo, arba sugriebti vijoklį uolos krašte prieš nukrentant.
 
 ### Žavesio metimas (CHA×5)
 
-Naudokite Žavesio metimus tarpasmeninėms reakcijoms, kurių neapima joks egzistuojantis įgūdis, spręsti. Gero pirmojo įspūdžio padarymas, pažįstamo suviliojimas ar tapimas asmeniu, į kurį grupė kreipiasi pirmiausia patarimo – visos yra geros Charizmos metimo panaudojimo galimybės. Jei veikėjas stovi už madingo naktinio klubo durų norėdamas įeiti, sėkmingas Žavesio metimas privers juos pastebėti ir įleisti pro duris.
+Naudokite Žavesio metimus tarpasmeninėms reakcijoms spręsti, kurių neapima joks esamas įgūdis. Geras pirmas įspūdis, pažįstamo gundymas arba tapimas asmeniu, į kurį grupė pirmiausia kreipiasi patarimo, yra visos geros Charizmos metimo panaudojimo galimybės. Jei veikėjas stovi prie madingo naktinio klubo norėdamas būti įleistas, sėkmingas Žavesio metimas padės jiems būti pastebėtiems ir įleistiems pro duris.
 
-> ### Išsilavinimo charakteristika (parinktis)
+> ### Išsilavinimo charakteristika (Papildoma galimybė)
 > 
-> Septynios pagrindinės charakteristikos tarnauja daugumai žaidimų, neatsižvelgiant į aplinką, tačiau Išsilavinimas (EDU), pasirinktinė aštuntoji charakteristika, gali būti naudojama padėti generuoti pradinius įgūdžių taškus. EDU geriausiai veikia moderniose ar futuristinėse aplinkose, bet gali būti lengvai pritaikyta bet kokiai kampanijos aplinkai.
+> Septynios pagrindinės charakteristikos tarnauja daugumai žaidimų, neatsižvelgiant į nustatymą, bet Išsilavinimas (IŠV), papildoma aštunta charakteristika, gali būti naudojamas padėti sugeneruoti pradinius įgūdžių taškus. IŠV geriausiai veikia moderniuose ar futuristiniuose nustatymuose, bet gali būti lengvai pritaikytas bet kuriai kampanijai.
 > 
-> #### Išsilavinimas (EDU)
+> #### Išsilavinimas (IŠV)
 > 
-> Išsilavinimas matuoja veikėjo bendrųjų žinių, įgytų per suapvalintą švietimo sistemą ar kitą platų mokymosi metodą, suvokimą. Tai nėra specifinių žinių apie sritį pakaitalas – vietoj to tai atstovauja bendrąsias žinias apie pasaulį. Nesvarbu, ar įgyta per formalų mokymąsi, treniruotes ar sunkiai įgytą patirtį, EDU taip pat gali išmatuoti, kiek metų veikėjas treniravosi ar studijavo, kad pasiektų dabartinį žinių lygį.
+> Išsilavinimas matuoja veikėjo bendrųjų žinių suvokimą, įgytą per suapvalintą švietimo sistemą ar kitą platų mokymosi metodą. Tai nėra pakaitalas specifinėms žinioms apie sritį – vietoj to tai atspindi bendras žinias apie pasaulį. Nesvarbu, ar įgyta per formalų mokymąsi, treniruotes ar sunkiai uždirbtą patirtį, IŠV taip pat gali matuoti, kiek metų veikėjas treniravosi ar studijavo, kad pasiektų dabartinį žinių lygį.
 > 
-> EDU automatiškai nekoreliuoja su 1 EDU punktas = 1 metai mokykloje. Tai taip pat gali atstovauti bendras gyvenimo žinias bei tikslingas studijas. Ne visi metai mokykloje yra šviečiamieji, kaip ir ne visas laikas, praleistas už mokyklos ribų, nereiškia, kad nieko neišmokstama. EDU galima lengvai pritaikyti daugumai aplinkų – jos prasmė akivaizdi aplinkose su standartizuotomis švietimo sistemomis. Viduramžių aplinkoje tai gali atstovauti korepetitoriavimą ar studijas kolegijose, licėjuose ar vienuolynuose, arba išsamią kelionę egzotiniais prekybos keliais ir į užsienio uostus.
+> IŠV automatiškai neatitinka 1 IŠV taškas = 1 metai mokykloje. Tai taip pat gali atspindėti bendras gyvenimo žinias bei specializuotas studijas. Ne visi metai mokykloje yra šviečiamieji, lygiai kaip ne visas laikas, praleistas ne mokykloje, nereiškia, kad nieko neišmokstama. IŠV gali būti lengvai pritaikytas daugumai nustatymų – jo prasmė akivaizdi nustatymuose su standartizuotomis švietimo sistemomis. Viduramžių nustatyme tai gali atspindėti mokymą ar studijas kolegijose, licėjuose ar vienuolynuose, arba išsamią kelionę egzotiškais prekybos maršrutais ir į užsienio uostus.
 > 
-> Atminties praradimas gali sumažinti EDU, o metai sunkių studijų ar intensyvių treniruočių padidina ją +1. EDU 0 rodo žinių tuštumą apie išorinį pasaulį, nors tai nereiškia, kad visi yra beveik amnezikai kampanijose, kur ši charakteristika nenaudojama. EDU netaikoma gyvūnams ar būtybėms be EDU charakteristikos – jų žinios yra arba instinktyvios, arba pagrįstos kitais principais.
+> Atminties praradimas gali sumažinti IŠV, o metai sunkių studijų ar intensyvių treniruočių padidina jį +1. IŠV 0 rodo žinių apie išorinį pasaulį vakuumą, nors tai nereiškia, kad visi yra beveik amnezikai kampanijose, kur ši charakteristika nenaudojama. IŠV netaikomas gyvūnams ar būtybėms be IŠV charakteristikos – jų žinios yra arba instinktyvios, arba pagrįstos kitais principais.
 > 
-> EDU naudojimas taip pat turėtų būti susietas su Žinojimo metimu (EDU×5).
+> IŠV naudojimas taip pat turėtų būti derinamas su Žinojimo metimu (IŠV×5).
 > 
-> ### Žinojimo metimas (EDU×5) (parinktis)
+> ### Žinojimo metimas (IŠV×5) (Papildoma galimybė)
 > 
-> Žinojimo metimas apima faktus ir smulkmenas, kurias vidutinis asmuo žino kaip „bendrąsias žinias“. Žinojimo metimai gali būti naudojami prisiminti įvairius faktus, priklausomai nuo aplinkos ir net konkretaus veikėjo kultūros. Viduramžių valstietis gali naudoti Žinojimo metimą prisiminti kilmingo valdovo vardą ar šventųjų gyvenimo detales, o modernus JAV pilietis prisimintų svarbius prezidentus ar kas nutinka, jei sumaišomi baliklis ir amoniakas. Žinojimo metimai retai turėtų pakeisti labiau specializuotą Žinių įgūdį ir yra griežtai susiję su faktais. Geras tų faktų naudojimas yra INT funkcija.
+> Žinojimo metimas apima faktus ir smulkmenas, kuriuos vidutinis žmogus žino kaip „bendrąsias žinias“. Žinojimo metimai gali būti naudojami prisiminti įvairius faktus, priklausomai nuo nustatymo ir net veikėjo kultūros. Viduramžių valstietis gali naudoti Žinojimo metimą prisiminti kilmingo valdovo vardą ar šventųjų gyvenimo detales, o modernus JAV pilietis prisimintų svarbius prezidentus ar kas nutinka, jei susimaišo baliklis ir amoniakas. Žinojimo metimai retai turėtų pakeisti labiau specializuotą Žinių įgūdį ir griežtai susiję su faktais. Geras tų faktų panaudojimas yra INT funkcija.
+
 
 ## Išvestinės charakteristikos
 
-Be charakteristikų (ir jų pridedamų charakteristikų metimų), veikėjas taip pat apibrėžiamas išvestinių charakteristikų rinkiniu, apskaičiuojamu iš jų charakteristikų. Jei sužalojimai, magija ar kiti veiksniai padidina ar sumažina charakteristiką, visos iš tos charakteristikos išvestos charakteristikos nedelsiant pasikeičia, kad atspindėtų naują vertę.
+Be charakteristikų (ir jų priderintų charakteristikų metimų), veikėjas taip pat apibrėžiamas išvestinių charakteristikų rinkiniu, apskaičiuojamu iš jų charakteristikų. Jei sužalojimai, magija ar kiti veiksniai padidina ar sumažina charakteristiką, visos charakteristikos, kylančios iš tos charakteristikos, nedelsiant pasikeičia, kad atspindėtų naują vertę.
 
-Pavyzdžiui, *jūsų veikėjas (CON 16, SIZ 14, HP 15) tampa mirtinų nuodų auka, kurie sumažina jų CON vertę iki 10. Jūsų veikėjo maksimalūs gyvybės taškai nedelsiant nukrenta nuo 15 (16+14=30, padalinus iki 15) iki 12 (10+14=24, padalinus iki 12). Be to, jų sunkios žaizdos suma nukrenta nuo 8 iki 6. Jei sužalojimai jau būtų sumažinę jūsų veikėją žemiau 12 gyvybės taškų, jie nepatirtų jokios papildomos žalos, tačiau jie yra ribojami 12 gyvybės taškų maksimumu, kol jų pradinė CON bus atstatyta.*
+Pavyzdžiui, *jūsų veikėjas (IŠT 16, DYD 14, ST 15\) tampa mirtinų nuodų auka, kurie sumažina jų IŠT vertę iki 10. Jūsų veikėjo maksimalūs sveikatos taškai nedelsiant krenta nuo 15 (16+14=30, padalinta iki 15\) iki 12 (10+14=24, padalinta iki 12). Be to, jų sunkaus sužeidimo suma krenta nuo 8 iki 6. Jei žaizdos jau buvo atvedusios jūsų veikėją žemiau 12 sveikatos taškų, jie nepatirtų jokios papildomos žalos, bet jie yra ribojami iki 12 sveikatos taškų maksimumo, kol jų pradinė IŠT atstatoma.*
 
-### Žalos modifikatorius (STR+SIZ, žr. lentelę)
+### Žalos modifikatorius (JĖG+DYD, žr. lentelę)
 
-Didesni, stipresni veikėjai ir būtybės yra galingesni fizinėje kovoje, padarydami daugiau žalos nei vidutiniškai kiekvienu smūgiu. Mažesnės, silpnesnės būtybės padaro mažiau žalos savo atakomis. Žalos modifikatorius atspindi šį pranašumą, išreikštą žalos kauliukais, pridedamais arba atimtais iš sėkmingų atakų žalos.
+Didesni, stipresni veikėjai ir būtybės yra galingesni fizinėje kovoje, padarydami daugiau žalos nei vidutiniškai su kiekvienu smūgiu. Mažesnės, silpnesnės būtybės padaro mažiau žalos savo atakomis. Žalos modifikatorius atspindi šį pranašumą, išreikštą žalos kauliukais, pridėtais ar atimtais iš sėkmingų atakų žalos.
 
-Veikėjas prideda savo pilną žalos modifikatorių prie visų smūgių muštynėse ar artimos kovos ginklais. Neigiamo žalos modifikatoriaus atveju, atimkite atitinkamus kauliukus iš bet kokios padarytos žalos. Jei suma yra 0 ar mažesnė, smūgis yra per minkštas, kad padarytų bet kokią žalą. Ataka niekada nedaro neigiamos žalos, todėl jei modifikatorius nukrenta žemiau 0, skaičiuokite jį kaip 0.
+Veikėjas prideda savo pilną žalos modifikatorių prie visų smūgių muštynėse ar su artimos kovos ginklais. Neigiamo žalos modifikatoriaus atveju, atimkite atitinkamus kauliukus iš bet kokios padarytos žalos. Jei suma yra 0 ar mažiau, smūgis per švelnus padaryti kokią nors žalą. Ataka niekada nedaro neigiamos žalos, tad jei modifikatorius krenta žemiau 0, skaičiuokite jį kaip 0.
 
-Raketiniai ginklai neleidžia veikėjui naudoti pilno žalos modifikatoriaus. Jei jūsų veikėjo žalos modifikatorius yra teigiamas, padalinkite rezultatus per pusę (suapvalinkite į viršų), naudodami mestą ginklą ar lanką. Jei žalos modifikatorius yra neigiamas, palikite modifikatorių tokį, koks yra. Savaeigiai ginklai (šaunamieji ginklai, energijos raketiniai ginklai ir kt.) negauna žalos modifikatoriaus.
+Nuotoliniai ginklai neleidžia veikėjui naudoti savo pilno žalos modifikatoriaus. Jei jūsų veikėjo žalos modifikatorius yra teigiamas, padalinkite rezultatus per pusę (suapvalinus į viršų) naudojant mėtomą ginklą ar lanką. Jei žalos modifikatorius yra neigiamas, palikite modifikatorių tokį, koks yra. Savaeigiai ginklai (šaunamieji ginklai, energijos nuotoliniai ginklai ir kt.) negauna žalos modifikatoriaus.
 
-Norėdami apskaičiuoti žalos modifikatorių, sudėkite veikėjo STR ir SIZ, ir raskite rezultatą **Žalos modifikatoriaus lentelėje** (žemiau).
+Norėdami apskaičiuoti žalos modifikatorių, sudėkite veikėjo JĖG ir DYD, ir raskite rezultatą **Žalos modifikatoriaus lentelėje** (sekančioje).
 
 ##### Žalos modifikatorius
 
-| STR+SIZ | Žalos modifikatorius | STR+SIZ | Žalos modifikatorius |
+| JĖG+DYD | Žalos modifikatorius | JĖG+DYD | Žalos modifikatorius |
 | :---- | :---- | :---- | :---- |
 | 2–12 | –1D6 | 73–88 | +4D6 |
 | 13–16 | –1D4 | 89–104 | +5D6 |
@@ -401,29 +402,29 @@ Norėdami apskaičiuoti žalos modifikatorių, sudėkite veikėjo STR ir SIZ, ir
 | 25–32 | +1D4 | 121–136 | +7D6 |
 | 33–40 | +1D6 | 137–152 | +8D6 |
 | 41–56 | +2D6 | 153–168 | +9D6 |
-| 57–72 | +3D6 | Kiekvieni +16 | Papildomi +1D6 |
+| 57–72 | +3D6 | Kiekvienas +16 | Papildomas +1D6 |
 
 ### Patirties premija (1/2 INT)
 
-Kuo protingesnis veikėjas, tuo greičiau jie gali mokytis, ypač esant stresui. Norėdami nustatyti patirties premiją, padalinkite jų INT iš 2, suapvalindami į viršų. Pridėkite patirties premiją prie mokymosi metimo kiekvienam patirties patikrinimui, kurį atlieka jūsų veikėjas, kad pagerintų įgūdį ar charakteristiką. Konsultuokitės *Penktame skyriuje: Sistema* ir Įgūdžių gerinimas.
+Kuo protingesnis veikėjas, tuo greičiau jie gali mokytis, ypač patirdami stresą. Norėdami nustatyti jų patirties premiją, padalinkite jų INT iš 2, suapvalindami į viršų. Pridėkite patirties premiją prie mokymosi metimo už kiekvieną patirties patikrinimą, kurį atlieka jūsų veikėjas, kad pagerintų įgūdį ar charakteristiką. Konsultuokitės su Penktu skyriumi: Sistema ir Įgūdžių tobulinimas.
 
-### Gyvybės taškai (CON ir SIZ vidurkis)
+### Sveikatos taškai (IŠT ir DYD vidurkis)
 
-Gyvybės taškai atspindi jūsų veikėjo gebėjimą atlaikyti bausmes ir fizinius sužalojimus. Gavę žalą, atimkite gyvybės taškus iš esamos sumos. Apskaičiuokite maksimalius gyvybės taškus sudėję veikėjo CON ir SIZ balus, tada padalinkite sumą iš 2. Visas trupmenas suapvalinkite į viršų.
+Sveikatos taškai atstovauja jūsų veikėjo gebėjimą atlaikyti bausmes ir fizinius sužalojimus. Patirdami žalą, atimkite sveikatos taškus iš dabartinės sumos. Apskaičiuokite maksimalius sveikatos taškus sudėdami savo veikėjo IŠT ir DYD balus, tada padalinkite sumą iš 2. Suapvalinkite visas trupmenas į viršų.
 
-Jūsų veikėjas praranda sąmonę, kai jų gyvybės taškai sumažinami iki 2 ar mažiau, ir jei jų gyvybės taškai pasiekia 0, jie miršta kito raundo pabaigoje. Veikėjas gali prarasti daugiau gyvybės taškų, nei turite, todėl stebėkite bet kokią neigiamą vertę. Prarasti gyvybės taškai natūraliai gyja 1D3 taškų per žaidimo savaitę greičiu, nors medicininė pagalba gali pagreitinti atsigavimą. Žr. Žala ir gydymas bei Natūralus gydymas.
+Jūsų veikėjas praranda sąmonę, kai jų sveikatos taškai sumažinami iki 2 ar mažiau, o jei jų sveikatos taškai pasiekia 0, jie miršta kito raundo pabaigoje. Veikėjas gali prarasti daugiau sveikatos taškų nei turi, tad sekite bet kokią neigiamą vertę. Prarasti sveikatos taškai sveiksta natūraliai 1D3 taškų per žaidimo savaitę greičiu, nors medicininė pagalba gali paspartinti atsigavimą. Žr. Žala ir gydymas bei Natūralus gydymas.
 
-### Sunkios žaizdos (1/2 HP)
+### Sunkūs sužalojimai (1/2 ST)
 
-Padalinkite savo veikėjo gyvybės taškų sumą per pusę, suapvalindami į viršų, jei reikia. Ši suma yra jų sunkios žaizdos lygis. Jei jūsų veikėjas patiria tokią žalą nuo vienos žaizdos, jie gali patirti siaubingų šalutinių poveikių, be paprasto gyvybės taškų praradimo. Žr. Sunkios žaizdos *Šeštame skyriuje: Kova*.
+Padalinkite savo veikėjo sveikatos taškų sumą per pusę, suapvalindami į viršų, jei reikia. Ši suma yra jų sunkaus sužeidimo lygis. Jei jūsų veikėjas patiria šį žalos kiekį iš vieno sužeidimo, jie gali patirti siaubingus šalutinius poveikius, taip pat paprastą sveikatos taškų praradimą. Žr. Sunkūs sužalojimai *Šeštame skyriuje: Kova*.
 
-### Galios taškai (Max = POW)
+### Galios taškai (Maks. = GAL)
 
-Galios taškai (PP) atspindi jūsų veikėjo gyvybinę esmę, jų dvasinės ar gyvybinės energijos atsargas. Jūsų veikėjas išleidžia galios taškus burtams išlieti ar jiems atsispirti. Jūsų veikėjo maksimalūs galios taškai paprastai yra lygūs jų POW charakteristikai. Paprastai išleisti galios taškai regeneruoja 1 per valandą miego ar visiško poilsio greičiu, arba 1 per kas dvi įprastos veiklos valandas. Žr. **Galios taškų atsistatymo greičio** lentelę aukštesniems POW balams. Jei jūsų veikėjas užsiima įtempta veikla, jie negali atgauti galios taškų. Kai jūsų veikėjo galios taškų suma nukrenta iki 0, jie yra visiškai išsekę ir nualpsta, kol atgaus bent 1 galios tašką. Negalima turėti neigiamų galios taškų.
+Galios taškai (GT) atstovauja jūsų veikėjo gyvybinę esmę, jų dvasinės ar gyvybinės energijos rezervus. Jūsų veikėjas išleidžia galios taškus burti ar priešintis burtams. Jūsų veikėjo maksimalūs galios taškai paprastai yra lygūs jų GAL charakteristikai. Paprastai išleisti galios taškai atsinaujina 1 per valandą miego ar visiško poilsio greičiu, arba 1 per kas dvi valandas įprastos veiklos. Žr. **Galios taškų atsistatymo greičio** lentelę aukštesniems GAL balams. Jei jūsų veikėjas užsiima įtempta veikla, jie negali atgauti galios taškų. Kai jūsų veikėjo galios taškų suma krenta iki 0, jie yra visiškai išsekę ir nualpsta, kol atgauna bent 1 galios tašką. Negalima turėti neigiamų galios taškų.
 
 ##### Galios taškų atsistatymo greitis
 
-| Max PP | Miegas | Būdra |
+| Maks. GT | Miegas | Nemiegas |
 | :---- | :---- | :---- |
 | 1–24 | 1 per valandą | 1 per 2 valandas |
 | 25–48 | 2 per valandą | 1 per valandą |
@@ -431,43 +432,45 @@ Galios taškai (PP) atspindi jūsų veikėjo gyvybinę esmę, jų dvasinės ar g
 | 73–96 | 4 per valandą | 1 per 30 minučių |
 | 97+ | +1 per valandą prie aukščiau nurodytų | +1 per valandą prie aukščiau nurodytų |
 
-Skirtingai nei gyvybės taškai ar nuovargio taškai, galios taškai gali trumpam pakilti virš maksimumo tam tikromis sąlygomis. Kaip minėta, jei jūsų veikėjas gauna papildomų galios taškų (dažniausiai naudojant galią), jie gali saugoti iki dvigubai savo POW charakteristikos papildomuose galios taškuose. Bet kokie galios taškai virš to prarandami. Jei jūsų veikėjas naudoja bet kokius galios taškus būdamas virš savo įprasto maksimumo, jie pirmiausia turi būti paimti iš papildomų galios taškų. Šie papildomi galios taškai nėra atnaujinami ir neatsistato įprastai bei visiškai išsisklaido po nakties miego ar tinkamo žaidimo vedėjo nustatyto momento.
+Skirtingai nuo sveikatos taškų ar nuovargio taškų, galios taškai gali pakilti virš maksimumo trumpam laikui tam tikromis sąlygomis. Kaip minėta, jei jūsų veikėjas gauna papildomų galios taškų (paprastai per galios naudojimą), jie gali sukaupti iki dvigubai savo GAL charakteristikos papildomų galios taškų. Bet kokie galios taškai virš to yra prarasti. Jei jūsų veikėjas naudoja bet kokius galios taškus viršydamas savo normalų maksimumą, jie pirmiausia turi būti paimti iš papildomų galios taškų. Šie papildomi galios taškai nėra atnaujinami ir neatsistato įprastai bei visiškai išsisklaido po nakties miego ar žaidimo vedėjo nustatytu tinkamu momentu.
 
-Daiktai, kurie saugo galios taškus ir leidžia turėtojui naudoti saugomus galios taškus, neįskaičiuojami į šią sumą, kol galios taškai nėra saugomi vartotojo nuosavame galios taškų rezerve. Daugeliu atvejų galios taškai naudojami tiesiai iš daikto rezervo ir neįtakoja vartotojo nuosavų galios taškų. Žr. *Aštuntą skyrių: Įranga* dėl daugiau informacijos apie daiktus su galios taškų rezervuarais.
+Daiktai, kurie saugo galios taškus ir leidžia naudotojui naudoti saugomus galios taškus, nesiskaičiuoja į šią sumą, kol galios taškai nesaugomi paties naudotojo galios taškų rezerve. Daugeliu atvejų galios taškai naudojami tiesiai iš daikto rezervo ir neveikia paties naudotojo galios taškų. Žr. Aštuntą skyrių: Įranga dėl daugiau informacijos apie daiktus su galios taškų rezervuarais.
 
-### Judėjimas (MOV)
+### Judėjimas (JUD)
 
-Visi žmonių ir humanoidų veikėjai pradeda su 10 judėjimo (MOV) atributu. Tai matuoja, kokį atstumą jūsų veikėjas gali įveikti kovos raundo metu. Vienetas yra lankstus atstumas ir gali svyruoti nuo 1–5 metrų, priklausomai nuo to, kaip greitai jūsų veikėjas juda.
+Visi žmonių ir humanoidų veikėjai pradeda su 10 judėjimo (JUD) atributu. Tai matuoja, kiek atstumo jūsų veikėjas gali įveikti kovos raunde. Vienetas yra lankstus atstumas ir gali svyruoti nuo 1–5 metrų, priklausomai nuo to, kaip greitai jūsų veikėjas juda.
 
-* Pasivaikščiojimas yra 1 metras per MOV.
+* Ėjimas yra 1 metras per JUD.
 
-* Bėgimas yra iki 5 metrų per MOV.
+* Bėgimas yra iki 5 metrų per JUD.
 
 * Vidutinis judėjimo greitis kovoje yra 3 metrai (jardai) per vienetą, o tai reiškia, kad vidutiniškai jūsų veikėjas juda 30 metrų per kovos raundą.
 
-Judėjimo greičiai toliau aprašyti **Judėjimo greičiuose** *Penktame skyriuje: Sistema*.
+Judėjimo greičiai aprašyti toliau **Judėjimo greičių** dalyje Penktame skyriuje: Sistema.
 
-> ### Kitos galios taškų rūšys (parinktis)
+> ### Kiti galios taškų tipai (Papildoma galimybė)
 > 
-> Dėl galių įvairovės *Ketvirtame skyriuje: Galios*, „galios taškai“ naudojami vietoj kitų pavadinimų, tokių kaip „laikina galia“ ar „magijos taškai“. Jei norite, jūsų žaidimo vedėjas gali pakeisti pavadinimą į „energijos taškai“ ar „magijos taškai“ ar kas tinkama aplinkai. Jei naudojamos kitos sistemos nei magija ar burtininkystė, rekomenduojama palikti juos vadinamus galios taškais, kad išvengtumėte painiavos. Patariama nenaudoti dviejų skirtingų galios taškų pavadinimų tame pačiame žaidime.
+> Dėl galių įvairovės *Ketvirtame skyriuje: Galios*, „galios taškai“ naudojami vietoj kitų pavadinimų, tokių kaip „laikinoji galia“ ar „magijos taškai“. Jei pageidaujama, jūsų žaidimo vedėjas gali pakeisti pavadinimą į „energijos taškus“ ar „magijos taškus“ ar bet ką, kas tinka nustatymui. Jei naudojamos sistemos, išskyrus magiją ar kerėjimą, rekomenduojama palikti juos vadinamus galios taškais, kad būtų išvengta painiavos. Nerekomenduojama naudoti dviejų skirtingų pavadinimų galios taškams tame pačiame žaidime.
 
-> ### Bendri gyvybės taškai (parinktis)
-> 
-> Tvirtesniems žaidėjų veikėjams, galintiems atlaikyti šiek tiek daugiau žalos, naudokite CON+SIZ gyvybės taškams nustatyti, nedalindami iš 2. Tai sukuria veikėjus, kurie gali gerai susitvarkyti kovoje, patirti sužalojimus be didelių nepatogumų ir daro sunkias žaizdas daug retesnes. Specialių ir kritinių sėkmių sukelti sužalojimai yra daug mažiau tikėtini, kad iškart nužudytų veikėjus. Ši pasirinktinė sistema gali būti lengvai naudojama su gyvybės taškų pagal vietą sistema, didinant tikimybę, kad veikėjai liks su savo galūnėmis, ir atvirkščiai.
-> 
-> Norėdami nubrėžti didelį skirtumą tarp žaidėjų veikėjų ir silpnesnių „patrankų mėsos“ ne žaidėjų veikėjų, jūsų žaidimo vedėjas gali leisti tik žaidėjų veikėjams ir svarbiems ne žaidėjų veikėjams naudoti gyvybės taškus, lygius CON+SIZ, o visi kiti ne žaidėjų veikėjai turi gyvybės taškus, pagrįstus (CON+SIZ)/2. Tai suteikia didelį pranašumą žaidėjų veikėjams ir leidžia jiems išgyventi daugiau nei kelis solidžius sužalojimus. Tai taip pat leidžia žaidėjų veikėjams stoti prieš didelį skaičių ne žaidėjų veikėjų be didelės baimės būti nužudytiems vienu kritiniu smūgiu.
 
-> ### Gyvybės taškai pagal kūno vietą (parinktis)
+> ### Bendri sveikatos taškai (Papildoma galimybė)
 > 
-> Išsamesnei kovai gyvybės taškai yra padalinti tarp jūsų veikėjo kūno dalių. Jei ataka sėkminga, D20 metimas nustato, kur smūgis pataiko. Jei naudojate pasirinktinę kūno vietų sistemą (žr. **Kūno vietos**), jūsų veikėjo gyvybės taškai yra padalinti tarp jų įvairių kūno vietų. Naudokite šią formulę humanoidams, suapvalindami į viršų kiekvienai vietai:
+> Atsparesniems žaidėjų veikėjams, galintiems išgyventi šiek tiek daugiau žalos, naudokite IŠT+DYD sveikatos taškams nustatyti, nedalinant iš 2. Tai sukuria veikėjus, kurie gali gerai susitvarkyti kovoje, patirti sužalojimų be didelių nepatogumų ir padaro sunkius sužalojimus daug rečiau pasitaikančiais. Sužalojimai, sukelti specialių ir kritinių sėkmių, daug rečiau tiesiogiai nužudo veikėjus. Ši papildoma sistema gali būti lengvai naudojama su sveikatos taškų pagal vietą sistema, padidinant tikimybę, kad veikėjai liks su savo galūnėmis, ir atvirkščiai.
 > 
-> | Vieta | Gyvybės taškų vertė |
+> Norėdami nubrėžti didelį skirtumą tarp žaidėjų veikėjų ir silpnesnių „patrankų mėsos“ ne žaidėjų veikėjų, jūsų žaidimo vedėjas gali nustatyti, kad tik žaidėjų veikėjai ir svarbūs ne žaidėjų veikėjai naudoja sveikatos taškus, lygius IŠT+DYD, o visi kiti ne žaidėjų veikėjai turi sveikatos taškus pagal (IŠT+DYD)/2. Tai suteikia žaidėjų veikėjams reikšmingą pranašumą ir leidžia jiems išgyventi daugiau nei kelis tvirtus sužalojimus. Tai taip pat leidžia žaidėjų veikėjams susidoroti su dideliu skaičiumi ne žaidėjų veikėjų be didelės baimės būti nužudytiems vienu kritiniu smūgiu.
+
+
+> ### Sveikatos taškai pagal sužeidimo vietą (Papildoma galimybė)
+> 
+> Detalesnei kovai sveikatos taškai padalijami tarp jūsų veikėjo kūno dalių. Jei ataka sėkminga, D20 metimas nustato, kur smūgis pataiko. Jei naudojate papildomą sužeidimo vietų sistemą (žr. **Sužeidimų vietos**), jūsų veikėjo sveikatos taškai padalijami tarp jų įvairių sužeidimų vietų. Naudokite šią formulę humanoidams, suapvalindami į viršų kiekvienai vietai:
+> 
+> | Vieta | Sveikatos taškų vertė |
 > | :---- | :---- |
-> | Koja, Pilvas, Galva | 1/3 bendrų gyvybės taškų |
-> | Krūtinė | 4/10 bendrų gyvybės taškų |
-> | Ranka | 1/4 bendrų gyvybės taškų |
+> | Koja, Pilvas, Galva | 1/3 bendrų sveikatos taškų |
+> | Krūtinė | 4/10 bendrų sveikatos taškų |
+> | Ranka | 1/4 bendrų sveikatos taškų |
 > 
-> Humanoidų gyvybės taškų pasiskirstymas pateiktas žemiau, pagrįstas maksimaliais gyvybės taškais.
+> Humanoidų sveikatos taškų pasiskirstymas pateikiamas žemiau, remiantis maksimaliais sveikatos taškais.
 > 
 > | Vieta | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 > | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -477,49 +480,45 @@ Judėjimo greičiai toliau aprašyti **Judėjimo greičiuose** *Penktame skyriuj
 > | Kiekviena ranka | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 |
 > | Galva | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 > 
-> Jūsų veikėjo gyvybės taškų suma pagal vietas viršija jų maksimalius gyvybės taškus, tačiau kiekvieną kartą, kai veikėjas sužeidžiamas, ridenta žala atimama tiek iš tos vietos gyvybės taškų sumos, tiek iš jūsų veikėjo maksimalių gyvybės taškų.
+> Jūsų veikėjo sveikatos taškų suma pagal vietas viršija jų maksimalius sveikatos taškus, tačiau kai veikėjas sužeidžiamas, išridota žala atimama tiek iš tos vietos sveikatos taškų sumos, tiek iš jūsų veikėjo maksimalių sveikatos taškų.
 > 
-> Žala, viršijanti vietos gyvybės taškų sumą, padaro ją nenaudingą. Žala, lygi dvigubai vietos gyvybės taškų sumai, sutraiško arba atskiria ją. Žr. **Žala pagal kūno vietą**.
+> Žala, viršijanti vietos bendrus sveikatos taškus, padaro ją nenaudingą. Žala, lygi dvigubai vietos sveikatos taškų sumai, sutraiško arba nukerta ją. Žr. **Žala pagal sužeidimo vietą**.
 > 
-> **Pavyzdžiui,** jūsų veikėjas turi 14 gyvybės taškų, su 5 gyvybės taškais kiekvienoje kojoje, 5 gyvybės taškais pilve, 6 gyvybės taškais krūtinėje, 4 gyvybės taškais kiekvienoje rankoje ir 5 gyvybės taškais galvoje. Nors jų gyvybės taškai visose vietose sudaro 34, jūsų veikėjas mirs, jei patirs iš viso 14 gyvybės taškų žalą.
+> **Pavyzdžiui,** jūsų veikėjas turi 14 sveikatos taškų, su 5 sveikatos taškais kiekvienoje kojoje, 5 sveikatos taškais pilve, 6 sveikatos taškais krūtinėje, 4 sveikatos taškais kiekvienoje rankoje ir 5 sveikatos taškais galvoje. Nors jų sveikatos taškai visose vietose iš viso sudaro 34, jūsų veikėjas mirs, jei patirs iš viso 14 sveikatos taškų žalą.
 > 
-> **Sunkios žaizdos** sistema nėra lengvai suderinama su kūno vietų sistema, todėl jei žaidimo vedėjas nuspręstų naudoti pasirinktines kūno vietas ir **Žalą pagal kūno vietą** sistemas, sunkios žaizdos sistema turėtų būti pašalinta arba labai pritaikyta, galbūt sunkios žaizdos pobūdį parenkant jūsų žaidimo vedėjui ten, kur tinka.
+> **Sunkaus sužeidimo** sistema nėra lengvai suderinama su sužeidimo vietų sistema, ir jei žaidimo vedėjas pasirenka naudoti papildomas sužeidimų vietas bei **Žalą pagal sužeidimo vietą** sistemas, sunkaus sužeidimo sistema turėtų būti eliminuota arba gerokai pritaikyta, galbūt su sunkaus sužeidimo pobūdžiu, kurį parenka žaidimo vedėjas, kur tinka.
 
-### Nuovargio taškai ir sveiko proto taškai (parinktis)
+### Nuovargio taškai ir proto sveikatos taškai (Papildoma galimybė)
 
-Kai kurios pasirinktinės sistemos ir galios nurodo nuovargio taškus ir sveiko proto taškus. Išsamesnei apkrovos ir nuovargio sistemai jūsų žaidimo vedėjas turėtų naudoti nuovargio taškus (aprašytus žemiau). Žaidimai, pagrįsti siaubu, šventvagiška burtininkyste ar neapsakomais žiaurumais, stipriai priklausys nuo sveiko proto sistemos naudojimo (taip pat žemiau).
+Kai kurios papildomos sistemos ir galios nurodo nuovargio taškus ir proto sveikatos taškus. Detalesnei svorio ir nuovargio sistemai žaidimo vedėjas turėtų naudoti nuovargio taškus (aprašytus žemiau). Žaidimai, pagrįsti siaubu, šventvagišku kerėjimu ar neapsakomu žiaurumu, labai priklausys nuo proto sveikatos sistemos naudojimo (taip pat žemiau).#### Nuovargio taškai (Maks. = JĖG + IŠT)
 
-#### Nuovargio taškai (Max = STR + CON)
+**Nuovargio taškai** (NT) matuoja jūsų veikėjo ištvermę, pavyzdžiui, kiek laiko jis gali užsiimti įtempta veikla prieš prasidedant išsekimui. Maksimalus jūsų veikėjo nuovargio taškų kiekis yra lygus jo JĖG + IŠT. Jūsų veikėjas išeikvoja 1 nuovargio tašką per kiekvieną kovos raundą įtemptos veiklos (artimosios kovos, plaukimo, bėgimo ristele, laipiojimo ir t. t.). Sprintas arba sunkus fizinis darbas kainuoja 1 nuovargio tašką per ėjimą. Priverstiniai žygiai kainuoja 1 nuovargio tašką per valandą. Skirtingai nei pataikymo taškai ir galios taškai, jūsų veikėjas gali tęsti veiksmus turėdamas neigiamus nuovargio taškus.
 
-**Nuovargio taškai** (FP) matuoja jūsų veikėjo ištvermę, pavyzdžiui, kiek laiko jie gali užsiimti intensyvia veikla prieš prasidedant išsekimui. Jūsų veikėjo maksimalūs nuovargio taškai yra lygūs jų STR+CON. Jūsų veikėjas išeikvoja 1 nuovargio tašką per intensyvios veiklos kovos raundą (artima kova, plaukimas, bėgiojimas, laipiojimas ir kt.). Sprintas ar nugarą laužantis darbas kainuoja 1 nuovargio tašką per ėjimą. Priverstiniai žygiai kainuoja 1 nuovargio tašką per valandą. Skirtingai nei gyvybės taškai ir galios taškai, jūsų veikėjas gali toliau veikti su neigiamais nuovargio taškais.
+Kai jūsų veikėjo nuovargio taškai nukrenta žemiau 0, jis patiria –1 % nuobaudą už kiekvieną neigiamą nuovargio tašką visiems įgūdžių, charakteristikų ir pasipriešinimo metimams. Kai jūsų veikėjo neigiamų nuovargio taškų suma tampa lygi jo bazinei nuovargio vertei (JĖG + IŠT), jis tampa neveiksnus dėl išsekimo ir negali atlikti jokių veiksmų. Išsekęs veikėjas gali prarasti sąmonę (žaidimų vedėjo nuožiūra), o net jei išlieka budrus, jis negali veikti, kol jo nuovargio taškų vertė vėl netaps teigiamu skaičiumi. Jūsų veikėjo apkrovos vertė (ENC) taip pat veikia jo bazinę nuovargio vertę. Žr. **Apkrova**.
 
-Kai jūsų veikėjas nukrenta žemiau 0 nuovargio taškų, jie patiria –1% baudą už kiekvieną neigiamą nuovargio tašką visiems įgūdžių, charakteristikų ir pasipriešinimo metimams. Kai jūsų veikėjo neigiamų nuovargio taškų suma lygi jų bazinei nuovargio vertei (STR+CON), jie yra paralyžiuoti nuovargio, nesugebantys veikti. Išsekęs veikėjas gali prarasti sąmonę (žaidimo vedėjo nuožiūra), ir net jei jie lieka budrūs, jie negali veikti, kol jų nuovargio taškų vertė neatsistato į teigiamą skaičių. Jūsų veikėjo apkrovos vertė (ENC) taip pat įtakoja jų bazinę nuovargio vertę. Žr. **Apkrova**.
-
-Jūsų veikėjas atgauna 1 nuovargio tašką kas minutę (5 raundus), kai jie neišleidžia nuovargio taškų. Poilsis, vaikščiojimas lėtu tempu ar jojimas žvėrimi ar važiavimas transporto priemone neinaudoja nuovargio. Vidutinis veikėjas atsistato nuo 0 iki visos nuovargio taškų sumos per 20 minučių (darant prielaidą, kad STR 10, CON 10 ir 1 nuovargio taškas atstatomas per minutę poilsio).
+Jūsų veikėjas atgauna 1 nuovargio tašką kas minutę (5 raundus), kai neleidžia nuovargio taškų. Poilsis, ėjimas lėtu tempu arba važiavimas žvėrimi ar transporto priemone neleidžia nuovargio. Vidutinis veikėjas atsistato nuo 0 iki savo pilnos nuovargio taškų sumos per 20 minučių (darant prielaidą, kad JĖG 10, IŠT 10 ir per poilsio minutę atgaunamas 1 nuovargio taškas).
 
 #### Paprastas nuovargis
 
-Paprastesnė nuovargio versija visiškai pašalina nuovargio taškus; jūsų žaidimo vedėjas gali paskelbti, kad po kažkokių didelių pastangų ar ekstremalių fizinių sunkumų jūsų veikėjas yra pavargęs. Jie arba pasiruošę veiksmui, arba pavargę. Jūsų žaidimo vedėjas gali leisti Ištvermės metimą, kad išvengtumėte nuovargio po fizinio krūvio laikotarpio.
+Paprastesnė nuovargio versija visiškai eliminuoja nuovargio taškus; jūsų žaidimų vedėjas gali paskelbti, kad po kokio nors didelio vargo ar ekstremalaus fizinio išbandymo jūsų veikėjas yra pavargęs. Jis yra arba pasiruošęs veiksmui, arba pavargęs. Jūsų žaidimų vedėjas gali leisti atlikti Ištvermės metimą, kad išvengtumėte nuovargio po fizinio krūvio laikotarpio.
 
-Naudojant šį metodą, jūsų veikėjas pavargsta po to, kai praleidžia CON×3 nepertraukiamus kovos raundus mūšyje ar sunkioje fizinėje veikloje. Po to jūsų veikėjas yra automatiškai pavargęs, ir visi įgūdžių metimai yra *Sunkūs*.
+Naudojant šį metodą, jūsų veikėjas pavargsta praleidęs IŠT×3 nepertraukiamų kovos raundų mūšyje ar kitoje sunkioje fizinėje veikloje. Po to jūsų veikėjas automatiškai tampa pavargęs, o visi įgūdžių metimai tampa *Sudėtingi*.
 
-Po to, kai praleidžia CON×4 nepertraukiamus kovos raundus mūšyje ar sunkioje fizinėje veikloje, jūsų veikėjas atlieka visus savo įgūdžių metimus taip, lyg jie būtų 1/4 įprasto įgūdžių vertinimo, ir privalo atlikti sėkmingą Ištvermės metimą, kad darytų kažką fiziško prieš įgūdžio vertinimą.
+Praleidęs IŠT×4 nepertraukiamų kovos raundų mūšyje ar sunkioje fizinėje veikloje, jūsų veikėjas atlieka visus savo įgūdžių metimus taip, lyg jų vertė būtų 1/4 įprastos, ir privalo sėkmingai atlikti Ištvermės metimą, kad galėtų atlikti bet kokį fizinį veiksmą prieš net bandant panaudoti įgūdį.
 
-Po CON×10 tokių veiklos raundų jūsų veikėjas yra visiškai išsekęs ir vos pajėgus pakelti savo ginklą, stovėti tiesiai be kažko, į ką būtų galima atsiremti, ir t.t. Šiuo metu jūsų veikėjas privalo atlikti *Sunkų* Ištvermės metimą, kad atliktų bet kokį pagrindinį veiksmą, o jūsų žaidimo vedėjas gali nuspręsti, kad bet koks įgūdžių metimas yra *Neįmanomas* arba ribojamas iki jūsų veikėjo POW×1.
+Po IŠT×10 tokių raundų jūsų veikėjas būna visiškai išsekęs ir vos pajėgia pakelti ginklą, stovėti tiesiai be atramos ir t. t. Šiame etape jūsų veikėjas privalo atlikti *Sudėtingą* Ištvermės metimą, kad atliktų bet kokį pagrindinį veiksmą, o jūsų žaidimų vedėjas gali nuspręsti, kad bet koks įgūdžio metimas yra *Neįmanomas* arba ribojamas iki jūsų veikėjo GAL×1.#### Sveikatos (SAN) taškai (Maks. = GAL×5)
 
-#### Sveiko proto taškai (Max = POW×5)
+Kaip aprašyta skyriuje **Sveikata** (žr. dešimtąjį skyrių: Aplinka), **sveikatos taškai** (SAN) atspindi veikėjo protinę ir emocinę ištvermę bei gebėjimą atlaikyti šoką, terorą ir kosminį siaubą. Pagrindiniai jūsų veikėjo SAN taškai yra lygūs GAL×5.
 
-Kaip aprašyta **Sveikame prote** (žr. *Dešimtą skyrių: Aplinkos*), **sveiko proto taškai** (SAN) atspindi jūsų veikėjo protinę ir emocinę tvirtybę bei jų gebėjimą atlaikyti šoką, terorą ir kosminį bjaurumą. Jūsų veikėjo baziniai SAN taškai lygūs jų POW×5.
+Kai jūsų veikėjas susiduria su šiurpą keliančia situacija ar protą trikdančiu keistumu, jis privalo mesti D100 prieš savo turimą SAN taškų sumą. Jei veikėjas pralaimi (arba, kartais, net jei laimi), jis praranda sveikatos taškus.
 
-Kiekvieną kartą, kai jūsų veikėjas susiduria su šiurpą keliančia situacija ar protą iškreipiančiu keistumu, jie privalo ridenti D100 prieš savo esamą SAN taškų sumą. Jei jūsų veikėjas pralaimi (ar galbūt net jei jie laimi), jie praras sveiko proto taškus.
+Veikėjas, praradęs pakankamai SAN, tikriausiai išprotės. Jūsų veikėjo **Sveikatos riba** (panašiai kaip Sunkios žaizdos riba) lygi 1/5 jo dabartinio SAN. Praradus tiek SAN taškų per vieną žaidimo valandą, ištinka tam tikra neapibrėžtos beprotybės forma.
 
-Veikėjas, patyręs pakankamą SAN praradimą, tikriausiai išprotės. Jūsų veikėjo **Sveiko proto slenkstis** (kaip Sunkios žaizdos slenkstis) lygus 1/5 jų esamo SAN. Praradus tiek daug SAN taškų per vieną žaidimo valandą, atsiranda tam tikra neapibrėžto pamišimo forma.
+Sveikatos taškai natūraliai neatsistato ir gali būti atgauti tik esant labai specifinėms aplinkybėms. Veikėjai gali įgyti daugiau SAN nei jų bazinė vertė, daugiausiai iki 99. Tam tikros šventvagiškų žinių rūšys gali apriboti jūsų veikėjo maksimalų leistiną SAN balą.
 
-Sveiko proto taškai natūraliai neatsistato ir gali būti atkurti tik labai specifinėmis aplinkybėmis. Veikėjai gali įgyti SAN virš savo bazinės vertės, iki maksimumo 99. Tam tikro tipo šventvagiškos žinios gali apriboti jūsų veikėjo maksimalų leistiną SAN balą.
-
-> ### Skiriamieji bruožai (parinktis)
+> ### Skiriamieji bruožai (Pasirenkama)
 > 
-> Skiriamieji bruožai yra būdas aprašyti pastebimus bruožus apie jūsų veikėją. Jie yra tik aprašomieji ir neturi mechaninės vertės. Jie padeda padaryti jūsų žaidėjo veikėją realistiškesnį. Kuo toliau nuo vidurkio – aukštesnė ar žemesnė – jūsų veikėjo Charizmos (CHA) charakteristika, tuo didesnį skiriamųjų bruožų skaičių jie turi.
+> Skiriamieji bruožai yra būdas apibūdinti pastebimus veikėjo bruožus. Tai tik aprašomieji elementai, neturintys mechaninės vertės. Jie padeda veikėjui atrodyti tikresniam. Kuo labiau veikėjo Charizmos (CHA) charakteristika skiriasi nuo vidurkio – aukštyn arba žemyn – tuo daugiau skiriamųjų bruožų jis turi.
 > 
 > ##### Skiriamieji bruožai
 > 
@@ -533,53 +532,54 @@ Sveiko proto taškai natūraliai neatsistato ir gali būti atkurti tik labai spe
 > | 15–16 | 3 |
 > | 17+ | 4 |
 > 
-> Ridenkite 1D10 arba pasirinkite kategoriją žemiau kiekvienam skiriamajam bruožui, kurį turi jūsų veikėjas. Galite pasirinkti tą pačią kategoriją kelis kartus. Tada pasirinkite bruožą ar bruožus iš įrašo. Tai viskas kosmetika ir neturi įtakos žaidimo vertėms, tačiau naudinga turėti omenyje savo veikėjo charakteristikas ir įgūdžius renkantis skiriamuosius bruožus.
+> Kiekvienam veikėjo turimam skiriamajam bruožui meskite 1D10 arba pasirinkite kategoriją žemiau. Tą pačią kategoriją galite pasirinkti kelis kartus. Tada iš įrašo išsirinkite vieną ar daugiau bruožų. Visa tai yra kosmetika ir neturi įtakos žaidimo vertėms, tačiau renkantis skiriamuosius bruožus naudinga atsižvelgti į veikėjo charakteristikas bei įgūdžius.
 > 
-> Jei jūsų veikėjo CHA yra žema (9 ar žemesnė), šie bruožai gali būti nemalonūs, nepatrauklūs ar neįprastai atrodantys. Jei jūsų veikėjo CHA yra aukšta (12+), bruožai yra patrauklūs arba įspūdingai atrodantys, net jei bruožas paprastai nebūtų laikomas patraukliu. Tačiau tai nėra ribojantis dalykas, o išvaizda ne visada rodo tikrąją charizmą.
+> Jei veikėjo CHA žema (9 ar mažesnė), šie bruožai gali būti nemalonūs, nepatrauklūs ar neįprastos išvaizdos. Jei veikėjo CHA aukšta (12+), bruožai yra patrauklūs ar įspūdingi, net jei pats bruožas paprastai nelaikomas patraukliu. Visgi tai nėra griežta taisyklė, o išvaizda ne visada rodo tikrąją charizmą.
 > 
-> Kai renkatės, įsivaizduokite savo veikėją savo mintyse ir įsivaizduokite, kaip jie atrodo žaidimo aplinkoje. Taip pat galite derinti skirtingus bruožus įdomiais būdais. Jūsų žaidimo vedėjas gali uždrausti tam tikrus skiriamuosius bruožus, jei jie neatitiktų vietos, priklausomai nuo aplinkos.
+> Rinkdamiesi įsivaizduokite savo veikėją ir kaip jis atrodo žaidimo pasaulyje. Taip pat galite įdomiai derinti skirtingus bruožus. Žaidimo meistras gali uždrausti tam tikrus skiriamuosius bruožus, jei jie netinka konkrečiam žaidimo pasauliui.
 > 
-> 1. **Galvos plaukai:** Plikas, plikas viršugalvis, šviesiaplaukis, juodas, supintas, rudas, kareiviškai nukirptas, garbanotas, purvinas, pilnas utėlių, žvilgantis, žilas, ilgas, blizgantis, veltinis, riebaluotas, kvepiantis, slenkantis, raudonas, nuskustas, dygliuotas, labai ilgas, banguotas, perukas, jūsų pasirinktas bruožas.
+> 1. **Galvos plaukai:** Plikas, plikas viršugalvis, šviesūs, juodi, supinti, rudi, ežiukas, garbanoti, nešvarūs, utėlėti, žvilgantys, žili, ilgi, vešlūs, veltiniai, riebaluoti, kvepiantys, slenkantys, raudoni, skusti, dygliuoti, labai ilgi, banguoti, perukas, jūsų pasirinktas bruožas.
 > 
-> 2. **Veido plaukai:** Išlenkti antakiai, supinta barzda, krūminga barzda, užriesta ir kvepianti barzda, milžiniški ūsai, suaugę antakiai, ožio barzdelė, ilga barzda, jokių antakių, žandenos, keisti dizainai, iškirpti trumpoje barzdoje, stori antakiai, jūsų pasirinktas bruožas.
+> 2. **Veido plaukai:** Išlenkti antakiai, pinta barzda, krūminga barzda, garbanota ir kvepianti barzda, milžiniški ūsai, suaugę antakiai, ožio barzdelė, ilga barzda, jokių antakių, žandenos, keisti raštai trumpai kirptoje barzdoje, stori antakiai, jūsų pasirinktas bruožas.
 > 
-> 3. **Veido bruožas:** Apgamas, juodos akys, mėlynos akys, ryškios akys, gražios akys, sulaužyta nosis, nulūžę dantys, rudos akys, stipriai įdegęs, pagurklis, auskarai, milžiniškas smakras, lygūs dantys, akių raištis, putlios lūpos, tarpas tarp dantų, pilkos akys, plaukuotos ausys, aukšti skruostikauliai, kumpa nosis, didelės akys, didelė nosis, ilgos blakstienos, nelygūs dantys, nosies žiedas, blyškus, rauplėta oda, smailus smakras, smailūs dantys, iškiliai kandžiai, riesta nosis, apvalus veidas, randas, juslingos lūpos, dėmėti dantys, tatuiruotas, plonos lūpos, mažos ausys, riesta nosis aukštyn, karpos, silpnas smakras, balti dantys, plačios akys, geltoni dantys, jūsų pasirinktas bruožas.
+> 3. **Veido bruožai:** Apgamas, pajuodusios akys, mėlynos akys, ryškios akys, nulaužta nosis, nulaužti dantys, rudos akys, stipriai įdegęs, pagurklis, auskarai, milžiniškas smakras, lygūs dantys, akių raištis, putlios lūpos, tarpas tarp dantų, pilkos akys, plaukuotos ausys, aukšti skruostikauliai, kumpa nosis, didelės akys, didelė nosis, ilgos blakstienos, nelygūs dantys, nosies auskaras, išblyškęs, rauplėta oda, smailas smakras, smailūs dantys, išsikišę kandžiai, riesta nosis, apvalus veidas, randas, juslingos lūpos, dėmėti dantys, tatuiruotas, plonos lūpos, mažos ausys, aukštyn riesta nosis, karpos, silpnas smakras, balti dantys, išsprogusios akys, geltoni dantys, jūsų pasirinktas bruožas.
 > 
-> 4. **Išraiška:** Žavinti, viliojanti, arogantiška, nustebusi, ryškių akių, smalsi, besigūžianti, niūri, girtas, draugiška, saugoma, išdidi, gašli, žvairuojanti, nuolanki, išdykusi, naivi, atvira, skvarbi, maloni, išdidi, gundanti, klastinga, pašaipi, prisimerkusi, jūsų pasirinkta išraiška.
+> 4. **Išraiška:** Dievinanti, gundanti, arogantiška, nustebusi, žvilganti, smalsi, susigūžusi, niūri, girtas, draugiška, atsargi, išdidi, geidulinga, žvairuojanti, nuolanki, išdykusi, naivi, atvira, skvarbi, maloni, pasididžiuojanti, gundanti, klastinga, pašaipi, prisimerkusi, jūsų pasirinkta išraiška.
 > 
-> 5. **Drabužiai:** Senovinis stilius, šarvuota kepurė, sportiški, basas, drabužiai palieka dėvėtoją per karštai ar per šaltai, kūginė kepurė, išsiuvinėta specialiu emblemu, brangūs, madingi, geri batai, ne tai lyčiai, prigludę, pilni skylių, rėksmingi, puošnūs, netinkami, daug pigių papuošalų, nauji, naktiniai drabužiai, pusiau nuogas, smaili kepurė, padorūs, turtingi, sandalai, satininiai, seksualūs, aptempti, sportiški, prislopinti, per daug papuošimų, uniforma, utilitarūs, vulgarūs, plati kepurė, jūsų pasirinkti drabužiai.
+> 5. **Apranga:** Senovinis stilius, šarvuota kepurė, sportinė, basas, per karšti arba per šalti drabužiai, kūginė kepurė, siuvinėta specialia emblema, brangi, madinga, geri batai, ne tos lyties drabužiai, aptempti, skylėti, rėksmingi, puošnūs, netinkamo dydžio, daug pigių papuošalų, nauji, naktiniai drabužiai, pusnuogis, smaili kepurė, santūri, prabangi, sandalai, satininiai, seksualūs, labai aptempti, sportiški, ramūs, per daug papuošimų, uniforma, praktiški, vulgarūs, plati kepurė, jūsų pasirinkti drabužiai.
 > 
-> 6. **Laikysena:** Piktas, kasdieniškas, nerangus, pasitikintis, eterinis, bailus, grakštus, nuolankus, jaunatviškas, vangus, karinis, miklus, sunkus, įkyrus, santūrus, kūprintis, gyvybingas, standus, pasipūtęs, juslingas, linguojantis, atsargus, pavargęs, pasiduodantis, jūsų pasirinkta laikysena.
+> 6. **Laikysena:** Piktas, kasdieniška, nerangi, pasitikinti, eterinė, baiminga, grakšti, nuolanki, nerūpestinga, vangus, karinė, vikri, sunki, įkyri, santūri, kūprintis, gyvybinga, standi, pasipūtusi, juslinga, svyruojanti, budri, pavargusi, nuolaidi, jūsų pasirinkta laikysena.
+> 7. **Kalba:** Akcentuota, dirbtinė, agresyvi, gilus balsas, reikli, lėta (tęsiama), silpna, dvejojanti, aukšto tono, valdinga, muzikalus, murmanti, nosinė, šiurkšti, aštri, juslinga, rėksminga, lėta, sklandi, tyli, stipri, kimus, nesuprantama, cypčiojanti, jūsų pasirinktas kalbos bruožas.
 > 
-> 7. **Kalba:** Akcentuota, dirbtinė, agresyvi, gili, reikli, lėta, silpna, dvejojanti, aukšto tono, imperatyvi, muzikalus, murmanti, nosinė, šiurkšti, aštri, juslinga, klykianti, lėta, sklandi, tylus, stiprus, grūdus, nesuprantamas, zizantis, jūsų pasirinkta kalbos charakteristika.
+> 8. **Rankos ir plaštakos:** Matomas apgamas, apyrankės ar kiti papuošalai, išsipūtusios dvigalviai raumenys, nuospauduotos plaštakos, stipriai įdegusios, beplaukės, plaukuotos, gumbuotos alkūnės, dideli sąnariai, kairiarankis, ilgos rankos, ilgi nagai, raumeningos, viena ranka ilgesnė už kitą, trūksta piršto, vienu pirštu per daug, smailos alkūnės, smailūs nagai, galingos plaštakos, žiedai, randas, grakščios, lygios odos, tatuiruotos, be linijų, labai plaukuotos, labai blyškios odos, jūsų pasirinktas bruožas.
 > 
-> 8. **Rankos ir plaštakos:** Matomas apgamas, apyrankės ar kiti papuošalai ant rankų, išsipūtę bicepsai, suragėjusios rankos, stipriai įdegę, beplaukiai, plaukuoti, gumbuotos alkūnės, dideli krumpliai, kairiarankis, ilgos rankos, ilgi nagai, raumeningos, viena ranka ilgesnė už kitą, vienas pirštas dingęs, vienu pirštu per daug, smailos alkūnės, smaili nagai, galingos rankos ir plaštakos, žiedai, randas, lieknos, lygios odos, tatuiruotos, neapipintos, labai plaukuotos, labai blyški oda, jūsų pasirinktas bruožas.
+> 9. **Liemuo:** Statinės formos, bambos auskaras, matomas apgamas, plačių pečių, riestas, iškyla kaulai, plokščias pilvas, beplaukis, aukštas liemuo, liesas, ilgas liemuo, daug randų, raumeningas, siauras, be bambos, trūksta vieno spenelio, pilvotas, ryškus randas, trumpas, įdubusi krūtinė, sausgyslingas, grakštus, grakštus, siaurų klubų, grakštus, aukštas, matomos įdegio linijos, įdegęs, tatuiruotas, storas, plonas, labai plaukuotas, labai blyškus, svyrančios figūros, jūsų pasirinktas bruožas.
 > 
-> 9. **Liemuo:** Kaip statinė, žiedas bamboje, matomas apgamas, plačių pečių, kreivų linijų, matosi kiekvienas kaulas, plokščias pilvas, beplaukis, aukštas liemuo, lieknas, ilgas liemuo, daug randų, raumeningas, siauras, nėra bambos, vienas spenelis dingęs, putlus pilvas, ryškus randas, trumpas, įdubusi krūtinė, sausgyslingas, grakštus, lieknas, siaurų klubų, grakštus, aukštas, matomos įdegio linijos, įdegęs, tatuiruotas, storas, plonas, labai plaukuotas, labai blyškus, svyrantis, jūsų pasirinktas bruožas.
+> 10. **Kojos ir pėdos:** Matomas apgamas, išsipūtusios šlaunys ir blauzdos, nuospauduotos pėdos, stipriai įdegusios, beplaukės, plaukuotos, gumbuoti keliai, šlubavimas viena koja, daug randų, raumeningos, trūksta piršto, vienu pirštu per daug, randas, nudegimų randai, grakščios, lygios, įdegusios, tatuiruotos, piršto žiedas, labai plaukuotos, labai ilgos kojos, labai blyškios odos, labai trumpos kojos, atšiaurios odos, jūsų pasirinktas bruožas.
 > 
-> 10. **Kojos ir pėdos:** Matomas apgamas, išsipūtę šlaunys ir blauzdos, suragėjusios pėdos, stipriai įdegę, beplaukės, plaukuotos, gumbuoti keliai, šlubuojanti viena koja, daug randų, raumeningos, vienas kojos pirštas dingęs, vienu kojos pirštu per daug, randas, randai nuo ugnies ar rūgšties, grakščios, lygios, įdegusios, tatuiruotos, žiedas ant kojos piršto, labai plaukuotos, labai ilgos kojos, labai blyški oda, labai trumpos kojos, susidėvėjusi oda, jūsų pasirinktas bruožas.
-> 
-> Sugalvokite savų skiriamųjų bruožų, jei šių nepakanka. Žaidimams, kuriuose yra ne žmonių rasės, drąsiai pridėkite naujų ir unikalių bruožų arba uždrauskite netinkamus bruožus.
+> Jei šių nepakanka, sugalvokite savų skiriamųjų bruožų. Žaidimuose su ne žmonių rasėmis drąsiai pridėkite naujų unikalių bruožų arba uždrauskite netinkamus.
+
 
 ## Profesijos
 
-Be to, kad yra apibrėžtas charakteristikų, jūsų veikėjas taip pat apibrėžiamas pagal savo **įgūdžius**. Jie išmokstami per gyvenimo patirtį, dažnai kaip dalis išsilavinimo ir **profesijos**. Profesija yra darbas ar pašaukimas, kurio dalimi jūsų veikėjas laikomas prasidedant žaidimui (ar buvo dalimi prieš žaidimui prasidedant), nukreipiantis įgūdžių paskirstymą. Profesija yra tik vieta, kur jie pradeda žaidimą prasidedant, ir nėra limitas tam, ką jie gali daryti ir kuo tapti. Jie gali augti ir keistis kampanijos eigoje gerokai už savo profesijos ribų.
+Be charakteristikų, jūsų veikėją apibrėžia ir jo **įgūdžiai**. Jie įgyjami per gyvenimo patirtį, dažnai kaip išsilavinimo ir **profesijos** dalis. Profesija yra darbas arba veikla, kuria jūsų veikėjas, manoma, užsiėmė prieš pradedant žaidimą (arba užsiėmė žaidimo metu), ir tai nurodo įgūdžių skirstymą. Profesija yra tik atspirties taškas žaidimo pradžioje ir neapriboja to, ką veikėjas gali daryti ar kuo tapti. Kampanijos metu jie gali tobulėti ir keistis gerokai už savo profesijos ribų.
 
 ### Profesijos pagal aplinką
 
-Toliau pateikiamas dažnesnių profesijų sąrašas su pastabomis apie aplinkas, kuriose jos būtų dažniausiai sutinkamos. Šios aplinkos aprašytos *Dešimtame skyriuje: Aplinkos*. Kai kurie profesijų pavadinimai ir pradiniai įgūdžių sąrašai gali netikti kiekvienai aplinkai ir turėtų būti koreguojami žaidėjų bei žaidimo vedėjo pagal poreikį.
+Toliau pateikiamas dažniausiai sutinkamų profesijų sąrašas su pastabomis apie aplinkas, kuriose jos dažniausiai pasitaiko. Šios aplinkos aprašytos *dešimtajame skyriuje: Aplinka*. Kai kurie profesijų pavadinimai ir pradiniai įgūdžių sąrašai gali netikti kiekvienai aplinkai, todėl žaidėjai ir žaidimo meistras turėtų juos atitinkamai pakoreguoti.
 
-Pavyzdžiui, *kampanijoje, vykstančioje senovės Japonijoje, jūsų žaidimo vedėjas pasako, kad kario profesija vadinama samurajumi, žudikas yra nindzė, vagis yra banditas, nusikaltėlis yra jakuza, o kilmingasis – dvariškis.*
+Pavyzdžiui, *kampanijoje, vykstančioje senovės Japonijoje, žaidimo meistras jums pasako, kad kario profesija vadinama samurajumi, žudikas yra nindzė, vagis – banditas, nusikaltėlis – jakudza, o didikas – dvariškis.*
 
-Šie sąrašai nėra baigtiniai, bet atstovauja tinkamiausias profesijas žaidėjų veikėjams kiekvienoje bendroje aplinkoje. Šias profesijas galima išplėsti pagal poreikį ir net mažai tikėtini pasirinkimai yra galimi. Mūsų moderniame pasaulyje vis dar yra mažų genčių ir šamanų kišenių, pavyzdžiui, nors jie tikrai nėra dažni.
+Šie sąrašai nėra baigtiniai, bet atstovauja tinkamiausias profesijas veikėjams kiekvienoje bendroje aplinkoje. Šios profesijos gali būti plečiamos pagal poreikį, įmanomi net netikėti pasirinkimai. Pavyzdžiui, mūsų šiuolaikiniame pasaulyje vis dar yra nedidelių genčių ir šamanų bendruomenių, nors jie tikrai nėra dažni.
 
-### Aplinkos ir įgūdžiai
+### Aplinka ir įgūdžiai
 
-Jūs ir jūsų žaidimo vedėjas turėtumėte įsitikinti, kad su profesija susiję įgūdžiai tinka žaidimo aplinkai. Netinkamiems įgūdžiams pakeiskite kitą specialybę, jei tai veikia, o jei jokia kita specialybė netinka, pasirinkite kitą įgūdį toje pačioje kategorijoje. Žr. *Trečią skyrių: Įgūdžiai* dėl daugiau informacijos apie įgūdžių specialybes ir įgūdžių kategorijas.
+Jūs ir jūsų žaidimo meistras turite užtikrinti, kad su profesija susiję įgūdžiai tiktų žaidimo aplinkai. Netinkamus įgūdžius pakeiskite kita specializacija, jei tai padeda, o jei jokia kita specializacija netinka, rinkitės kitą įgūdį iš tos pačios kategorijos. Daugiau informacijos apie įgūdžių specializacijas ir kategorijas rasite *trečiajame skyriuje: Įgūdžiai*.
 
-> ### Įgūdžių kategorijos premijos (parinktis)
+
+> ### Įgūdžių kategorijų premijos (Pasirenkama)
 > 
-> Jei jūs ir jūsų žaidimo vedėjas norite, kad jūsų veikėjo charakteristikos įtakotų jų įgūdžių reitingus, turėtumėte naudoti šią sistemą. Kaip aprašyta *Trečiame skyriuje: Įgūdžiai*, kiekvienas įgūdis yra sugrupuotas į įgūdžių kategorijas. Kiekviena kategorija yra susieta su viena ar daugiau charakteristikų, kurios naudojamos apskaičiuoti įgūdžių kategorijos premiją kiekvienai kategorijai. Norėdami apskaičiuoti premiją kiekvienai įgūdžių kategorijai, atkreipkite dėmesį į kiekvienos kategorijos **pirminę**, **antrinę** ir **neigiamą** charakteristiką (arba naudokite diagramą žemiau):
+> Jei jūs ir jūsų žaidimo meistras norite, kad veikėjo charakteristikos darytų įtaką įgūdžių vertinimams, turėtumėte naudoti šią sistemą. Kaip aprašyta trečiajame skyriuje: Įgūdžiai, kiekvienas įgūdis priklauso tam tikrai kategorijai. Kiekviena kategorija susieta su viena ar keliomis charakteristikomis, kurios naudojamos apskaičiuoti įgūdžių kategorijos premiją kiekvienai kategorijai. Norėdami apskaičiuoti premiją, atkreipkite dėmesį į **pirminę**, **antrinę** ir **neigiamą** kiekvienos kategorijos charakteristiką (arba naudokite žemiau esančią lentelę):
 > 
 > * Pirminės charakteristikos prideda +1% už kiekvieną tašką virš 10 ir atima –1% už kiekvieną tašką žemiau 10.
 > 
@@ -587,517 +587,514 @@ Jūs ir jūsų žaidimo vedėjas turėtumėte įsitikinti, kad su profesija susi
 > 
 > * Neigiamos charakteristikos atima –1% už kiekvieną tašką virš 10 ir prideda +1% už kiekvieną tašką žemiau 10.
 > 
-> ##### Įgūdžių kategorijos modifikatoriai
+> ##### Įgūdžių kategorijų modifikatoriai
 > 
 > | Kategorija | Pirminė | Antrinė | Neigiama |
 > | :---- | :---- | :---- | :---- |
-> | Kovos įgūdžiai | DEX | INT, STR | — |
-> | Komunikacijos įgūdžiai | INT | POW, CHA | — |
-> | Manipuliacijos įgūdžiai | DEX | INT, STR | — |
-> | Mentaliniai įgūdžiai | INT | POW, EDU | — |
-> | Suvokimo įgūdžiai | INT | POW, CON | — |
-> | Fiziniai įgūdžiai | DEX | STR, CON | SIZ |
+> | Kovos įgūdžiai | VIK | INT, JĖG | — |
+> | Bendravimo įgūdžiai | INT | GAL, CHA | — |
+> | Manipuliacijos įgūdžiai | VIK | INT, JĖG | — |
+> | Protiniai įgūdžiai | INT | GAL, EDU | — |
+> | Suvokimo įgūdžiai | INT | GAL, IŠT | — |
+> | Fiziniai įgūdžiai | VIK | JĖG, IŠT | DYD |
 > 
-> Pavyzdžiui, *jūsų veikėjas turi šias charakteristikas: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12 ir CHA 8. Jų įgūdžių kategorijos premijos yra:*
+> Pavyzdžiui, *jūsų veikėjas turi šias charakteristikas: JĖG 14, IŠT 13, INT 8, DYD 12, GAL 10, VIK 12 ir CHA 8. Jo įgūdžių kategorijų premijos yra:*
 > 
-> * Kovos: *+3% (+2 už DEX, +2 už STR, –1 už INT)*
+> * Kovos: *+3% (+2 už VIK, +2 už JĖG, –1 už INT)*
 > 
-> * Komunikacijos: *–3% (–2 už INT, 0 už POW, –1 už CHA)*
+> * Bendravimo: *–3% (–2 už INT, 0 už GAL, –1 už CHA)*
 > 
-> * Manipuliacijos: *+3% (+2 už DEX, –1 už INT, +2 už STR)*
+> * Manipuliacijos: *+3% (+2 už VIK, –1 už INT, +2 už JĖG)*
 > 
-> * Mentaliniai: *–2% (–2 iš INT, 0 už POW, EDU šioje kampanijoje nenaudojamas)*
+> * Protiniai: *–2% (–2 už INT, 0 už GAL, EDU šioje kampanijoje nenaudojamas)*
 > 
-> * Suvokimo: *–1% (–2 už INT, 0 už POW, +1 už CON)*
+> * Suvokimo: *–1% (–2 už INT, 0 už GAL, +1 už IŠT)*
 > 
-> * Fiziniai: *+3% (+2 už DEX, +2 už STR, +1 už CON, –2 už SIZ)*
+> * Fiziniai: *+3% (+2 už VIK, +2 už JĖG, +1 už IŠT, –2 už DYD)*
 > 
-> Žr. *Trečią skyrių: Įgūdžiai* dėl daugiau informacijos apie įgūdžių kategorijas, kategorijų premijas ir bazines įgūdžių tikimybes.
+> Daugiau informacijos apie įgūdžių kategorijas, kategorijų premijas ir bazines įgūdžių tikimybes rasite *trečiajame skyriuje: Įgūdžiai*.
 > 
 > ##### Įgūdžių premijų lentelė
 > 
 > | Vertė | Pirminė | Antrinė | Neigiama |
 > | :---- | :---- | :---- | :---- |
-> | 1 | –9% | –4% | +9% |
-> | 2 | –8% | –4% | +8% |
-> | 3 | –7% | –3% | +7% |
-> | 4 | –6% | –3% | +6% |
-> | 5 | –5% | –2% | +5% |
-> | 6 | –4% | –2% | +4% |
-> | 7 | –3% | –1% | +3% |
-> | 8 | –2% | –1% | +2% |
-> | 9 | –1% | –0% | +1% |
-> | 10 | +0% | +0% | –0% |
-> | 11 | +1% | +0% | –1% |
-> | 12 | +2% | +1% | –2% |
-> | 13 | +3% | +1% | –3% |
-> | 14 | +4% | +2% | –4% |
-> | 15 | +5% | +2% | –5% |
-> | 16 | +6% | +3% | –6% |
-> | 17 | +7% | +3% | –7% |
-> | 18 | +8% | +4% | –8% |
-> | 19 | +9% | +4% | –9% |
-> | 20 | +10% | +5% | –10% |
-> | 21 | +11% | +5% | –11% |
-> | Ir t.t. | +1%/tašką | +1%/2 taškus | –1%/tašką |
+> | 1 | -9% | -4% | +9% |
+> | 2 | -8% | -4% | +8% |
+> | 3 | -7% | -3% | +7% |
+> | 4 | -6% | -3% | +6% |
+> | 5 | -5% | -2% | +5% |
+> | 6 | -4% | -2% | +4% |
+> | 7 | -3% | -1% | +3% |
+> | 8 | -2% | -1% | +2% |
+> | 9 | -1% | -0% | +1% |
+> | 10 | +0% | +0% | -0% |
+> | 11 | +1% | +0% | -1% |
+> | 12 | +2% | +1% | -2% |
+> | 13 | +3% | +1% | -3% |
+> | 14 | +4% | +2% | -4% |
+> | 15 | +5% | +2% | -5% |
+> | 16 | +6% | +3% | -6% |
+> | 17 | +7% | +3% | -7% |
+> | 18 | +8% | +4% | -8% |
+> | 19 | +9% | +4% | -9% |
+> | 20 | +10% | +5% | -10% |
+> | 21 | +11% | +5% | -11% |
+> | Ir t.t. | +1%/tašką | +1%/2 taškus | -1%/tašką |
 > 
 > ### Paprastesnės įgūdžių premijos
 > 
-> Jei įgūdžių kategorijos premijų skaičiavimas yra per sudėtingas, kiekvieną kategorijos premiją galima vietoj to apibrėžti kaip 1/2 pirminės charakteristikos (suapvalinti į viršų). Šis metodas sukuria aukštesnes pradines įgūdžių tikimybes ir panaikina kategorijos baudos galimybę. Jei norite, naudokite paprastus įgūdžių kategorijos modifikatorius iš šios lentelės.
+> Jei įgūdžių kategorijų premijų skaičiavimas yra per sudėtingas, kiekvienos kategorijos premija gali būti apibrėžta kaip 1/2 pirminės charakteristikos (suapvalinti į viršų). Šis metodas suteikia didesnes pradines įgūdžių tikimybes ir pašalina kategorijos baudos galimybę. Jei norite, naudokite paprastus įgūdžių kategorijų modifikatorius iš šios lentelės.
 > 
-> ##### Paprasti įgūdžių kategorijos modifikatoriai
+> ##### Paprasti įgūdžių kategorijų modifikatoriai
 > 
 > | Kategorija | Pirminė |
 > | :---- | :---- |
-> | Kovos įgūdžiai | DEX/2 |
-> | Komunikacijos įgūdžiai | CHA/2 |
-> | Manipuliacijos įgūdžiai | DEX/2 |
-> | Mentaliniai įgūdžiai | INT/2 |
-> | Suvokimo įgūdžiai | POW/2 |
-> | Fiziniai įgūdžiai | STR/2 |
+> | Kovos įgūdžiai | VIK/2 |
+> | Bendravimo įgūdžiai | CHA/2 |
+> | Manipuliacijos įgūdžiai | VIK/2 |
+> | Protiniai įgūdžiai | INT/2 |
+> | Suvokimo įgūdžiai | GAL/2 |
+> | Fiziniai įgūdžiai | JĖG/2 |
+
 
 > ### Turtas
 > 
-> Galiausiai, turtas atstovauja jūsų veikėjo ekonominį statusą žaidimo pradžioje ir tai, prie ko jie yra pripratę. Kiekvienas lygis žemiau aprašo santykinę asmens būseną tame turto lygyje. Turtas toliau nagrinėjamas *Aštuntame skyriuje: Įranga*, nes jis nustato, kokius daiktus jūsų veikėjas gali pradžioje turėti ir įgyti žaidimo metu.
+> Galiausiai, turtas atspindi jūsų veikėjo ekonominį statusą žaidimo pradžioje ir tai, prie ko jis yra pripratęs. Kiekvienas lygis aprašo santykinę asmens padėtį šiame turto lygyje. Turtas išsamiau aprašytas *aštuntajame skyriuje: Įranga*, nes jis lemia, kokį turtą jūsų veikėjas gali iš pradžių turėti ir įsigyti žaidimo metu.
 > 
-> #### Skurstantis
+> #### Skurstantysis
 > 
-> Be skatiko, jūsų veikėjas privalo ieškoti maisto ir gėrimo arba pasikliauti labdara. Būdamas benamis, jie miega bet kur, kur gali rasti sausą ir saugią vietą. Jie gali turėti keletą mažų daiktų, išskyrus tai, ką gali neštis, tačiau jie nėra itin vertingi ir yra paslėpti, vagiami, jei aptinkami. Šis skurdo lygis tikriausiai atsispindi jūsų veikėjo išvaizdoje, ir jiems gali kilti sunkumų atliekant įprastas užduotis dėl prietarų prieš skurstančius.
+> Be skatiko kišenėje, jūsų veikėjas privalo ieškoti maisto ir gėrimų arba kliautis labdara. Būdamas benamis, jis miega kur tik randa sausą ir saugią vietą. Jis gali turėti nedaug asmeninių daiktų, išskyrus tai, ką nešiojasi, tačiau jie nėra ypač vertingi ir yra paslėpti arba bus pavogti, jei bus surasti. Šis skurdo lygis tikriausiai atsispindi jūsų veikėjo išvaizdoje, jam gali kilti sunkumų atliekant įprastas užduotis dėl nusistatymo prieš skurstančiuosius.
 > 
-> #### Vargšas
+> #### Neturtingasis
 > 
-> Nors jūsų veikėjas turi šiek tiek pinigų ir netrokšta vietos miegoti ar maisto valgyti. Jų gyvenime nėra daug prabangos. Jie neturi daug laisvų pinigų. Su šiuo turto lygiu jų būstas yra kuklus ir galbūt vargingoje ar nepageidaujamoje miesto dalyje. Jie yra iš dalies įdarbinti, bedarbiai arba sunkiai dirba už menką užmokestį.
+> Nors jūsų veikėjas turi šiek tiek pinigų ir jam nereikia rūpintis, kur pernakvoti ar ką valgyti, jo gyvenime trūksta prabangos. Jis neturi daug laisvų pinigų. Esant tokiam turto lygiui, jo gyvenamoji vieta yra kukli, galbūt prastame ar nepageidaujamame miesto rajone. Jis dirba dalinį darbą, yra bedarbis arba sunkiai dirba už menką atlygį.
 > 
 > #### Vidutinis
 > 
-> Jūsų veikėjas turi patogias pajamas ir gyvena be didelių sunkumų, nors didelius pirkinius reikia atidžiai įvertinti. Jie turi vidutinį namą ar butą kažkur ir gali turėti pagrįstą pinigų sumą santaupose, nors mažai kas juos laikytų kitokiais nei viduriniosios klasės ar vidutinių pajamų. Jie gali apmokėti savo sąskaitas ir išlaidas bei retkarčiais pasilepinti prabangos prekėmis, tačiau jie paprastai gyvena gyvenimo būdą, įprastą daugumai žmonių jų kultūroje ir eroje.
+> Jūsų veikėjas turi patogias pajamas ir gyvena be didesnių sunkumų, nors stambius pirkinius reikia atidžiai įvertinti. Jis turi vidutinius namus ar butą ir gali turėti protingą sumą santaupų, nors mažai kas jį laikytų kuo nors kitu nei viduriniosios klasės atstovu. Jis gali apmokėti sąskaitas ir išlaidas, kartais gali pasilepinti prabangos prekėmis, tačiau paprastai gyvena gyvenimo būdu, būdingu daugumai savo kultūros ir eros žmonių.
 > 
-> #### Pasiturintis
+> #### Turtingasis
 > 
-> Jūsų veikėjui sekasi gana gerai ir jis turi dideles pajamas ar pinigų srautą, su kuriuo gali gyventi prabangiai ir mėgautis gyvenimu. Gyvenamosios sąlygos yra labai aukštos klasės, ir jūsų veikėjui nereikia dukart pagalvoti prieš atliekant didelius pirkinius. Jie turi didelę pinigų sumą santaupose ir gali gyventi pertekliaus ir prabangos gyvenimą be jokių pasekmių.
+> Jūsų veikėjui sekasi gana gerai, jis turi dideles pajamas ar pinigų srautą, leidžiantį gyventi prabangiai ir mėgautis gyvenimu. Gyvenamosios sąlygos yra labai aukšto lygio, ir jūsų veikėjui nereikia dukart galvoti prieš atliekant didelius pirkinius. Jis turi daug santaupų ir gali gyventi pertekliaus bei prabangos gyvenimą be jokių pasekmių.
 > 
-> #### Turtingas
+> #### Labai turtingas
 > 
-> Jūsų veikėjas turi didžiulį materialų turtą iš beveik neišsenkamo šaltinio. Jie gali daryti didelių išlaidų pirkinius be antros minties, su gyvenimo kokybe, kurios pavydi dauguma. Jie turi didelę pinigų sumą santaupose ir dėl savo turto lygio tikriausiai turės socialinių ir verslo galimybių, gerokai viršijančių bet kurio kito pajamų lygio asmenis.
+> Jūsų veikėjas turi didžiulį materialinį turtą iš beveik neišsenkamo šaltinio. Jis gali neabejodamas pirkti brangius daiktus, o jo gyvenimo kokybė kelia pavydą daugumai. Jis turi dideles santaupas ir dėl savo turto lygio tikriausiai turi socialinių bei verslo galimybių, gerokai viršijančių bet kurį kitą pajamų lygį.
 
-### Profesijos nuo A iki Ž
+### Profesijos nuo A iki Z
 
-Dauguma šių profesijų yra pakankamai bendros, kad tiktų daugeliui aplinkų ar erų. Kiekviena apima bendrą aprašymą, tinkamų įgūdžių sąrašą ir siūlomą turto lygį. Kiekviena aplinka *Dešimtame skyriuje: Aplinkos* siūlo tinkamas profesijas.
+Dauguma šių profesijų yra pakankamai bendros, kad tiktų daugeliui aplinkų ar erų. Kiekviena apima bendrą aprašymą, tinkamų įgūdžių sąrašą ir siūlomą turto lygį. Kiekviena aplinka *dešimtajame skyriuje: Aplinka* siūlo tinkamas profesijas.
 
-Šios profesijos nėra baigtinės. Priklausomai nuo aplinkos, jūs arba jūsų žaidimo vedėjas galite sukurti papildomas profesijas arba pritaikyti esamas profesijas dar labiau. Informaciją apie naujų profesijų kūrimą ar esamų pritaikymą rasite **Naujų profesijų kūrimas**.
+Šios profesijos nėra baigtinės. Priklausomai nuo aplinkos, jūs arba jūsų žaidimo meistras galite sukurti papildomas profesijas arba dar labiau pritaikyti esamas. Informaciją apie naujų profesijų kūrimą ar esamų pritaikymą rasite skyriuje **Naujų profesijų kūrimas**.
 
-Jūsų žaidimo vedėjas gali apriboti jūsų profesijos pasirinkimus arba paprašyti nustatyti profesiją atsitiktinai, tačiau paprastai geriau pasirinkti profesiją, kad išvengtumėte priverstinio veikėjo, kuris jums nepatiks.
+Jūsų žaidimo meistras gali apriboti jūsų profesijos pasirinkimą arba paprašyti profesiją nustatyti atsitiktinai, tačiau paprastai geriau pasirinkti profesiją pačiam, kad išvengtumėte priverstinio žaidimo veikėju, kuris jums nepatiks.
 
-**Įgūdžiai:** Šie įgūdžiai yra pagrindiniai įgūdžiai, kuriuos naudoja tos profesijos nariai. Jūsų veikėjas praleis savo profesinius įgūdžių taškus šiems įgūdžiams veikėjo kūrimo metu. Jūsų veikėjas neturi turėti visų šių įgūdžių, bet tai yra pasiūlymas, kurie įgūdžiai būtų tinkami. Su žaidimo vedėjo pritarimu galite pakeisti bet kurį iš šių įgūdžių kitu, jei įgūdis netinka erai, aplinkai ar jūsų veikėjo koncepcijai.
+**Įgūdžiai:** Tai pagrindiniai įgūdžiai, kuriuos naudoja tos profesijos atstovai. Jūsų veikėjas charakterio kūrimo metu išleis savo profesinius įgūdžių taškus šiems įgūdžiams. Jūsų veikėjas neprivalo turėti visų šių įgūdžių, tai tik pasiūlymai, kurie įgūdžiai būtų tinkami. Su žaidimo meistro leidimu galite pakeisti bet kurį iš šių įgūdžių kitu, jei jis netinka erai, aplinkai ar jūsų veikėjo koncepcijai.
 
-Pavyzdžiui, *norite žaisti konsteblį su polinkiu į dedukciją kampanijoje, nustatytoje XII amžiaus Anglijoje. Žiūrite profesijų sąrašą ir matote, kad detektyvo šablone nurodytas Šaunamųjų ginklų (pistoletas ar revolveris) įgūdis. Būtų visiškai pagrįsta tai pakeisti į Artimos kovos ginklą (kalaviją) tai aplinkai.*
+Pavyzdžiui, *norite žaisti policininką, turintį polinkį į dedukciją XII amžiaus Anglijos kampanijoje. Žiūrite į profesijų sąrašą ir matote, kad detektyvo šablone nurodytas įgūdis Šaunamieji ginklai (Pistoletas ar Revolveris). Tai visiškai logiška pakeisti Šaltuoju ginklu (Kalavijas) šiai aplinkai.*
 
-**Turtas:** Vidutinis turto lygis veikėjui toje profesijoje. Kai kuriais atvejais pateikiamas diapazonas, leidžiantis jums ir jūsų žaidimo vedėjui nuspręsti, kas labiausiai tinka aplinkai. Aprašymas skirtas tik kaip pasiūlymas; jūs ir jūsų žaidimo vedėjas galite pasirinkti pakoreguoti siūlomą turto lygį aukštyn arba žemyn, priklausomai nuo jūsų veikėjo koncepcijos.
+**Turtas:** Vidutinis turto lygis veikėjui, užsiimančiam tokia profesija. Kai kuriais atvejais pateikiamas diapazonas, leidžiantis jums ir jūsų žaidimo meistrui nuspręsti, kas labiausiai tinka aplinkai. Aprašymas yra tik pasiūlymas; jūs ir jūsų žaidimo meistras galite pakoreguoti siūlomą turto lygį į viršų arba į apačią priklausomai nuo veikėjo koncepcijos.
 
-Alternatyvus būdas nustatyti pradinį turto lygį, kur pateikiamas diapazonas, yra pradėti savo veikėją nuo žemiausio turto diapazono, koreguojant aukštyn už kiekvieną sėkmingą Statuso metimą, kurį galite atlikti. Tai turėtų būti padaryta po to, kai veikėjas buvo sukurtas.
+Alternatyvus pradinio turto lygio nustatymo metodas, kai pateikiamas diapazonas – pradėti nuo žemiausio turto diapazono, koreguojant į viršų už kiekvieną sėkmingą Statuso metimą. Tai reikėtų atlikti sukūrus veikėją.
 
-Nors Statuso įgūdis aprašo būdus, kaip Statusas ir turtas yra susiję vienas su kitu, trumpas kiekvieno turto lygio aprašymas pateiktas žemiau.
+Nors Statuso įgūdis aprašo būdus, kaip Statusas ir turtas yra susiję, trumpas kiekvieno turto lygio aprašymas pateiktas žemiau.
 
-**Ypatingas:** Tai rodo, ar profesijos narys tikriausiai turės galias, aprašytas *Ketvirtame skyriuje: Galios*.
+**Specialus:** Tai rodo, ar profesijos atstovas tikriausiai turi galių, aprašytų ketvirtajame skyriuje: Galios.
 
 ### Profesijų sąrašas
 
-| Menininkas | Lošėjas | Moksliukas |
+| Menininkas | Lošėjas | Mokslininkas (Humanitaras) |
 | :---- | :---- | :---- |
-| Žudikas | Ganytojas | Mokslininkas |
-| Atletas | Medžiotojas | Tarnas |
+| Žudikas | Gyvulių augintojas | Mokslininkas (Tyrėjas) |
+| Sportininkas | Medžiotojas | Tarnas |
 | Elgeta | Žurnalistas | Šamanas |
 | Tarnautojas | Darbininkas | Vergas |
-| Kompiuterių spec. | Teisėsaugininkas | Kareivis |
-| Okultistas | Advokatas | Šnipas |
+| Kompiuterių specialistas | Tvarkos saugotojas | Kareivis |
+| Okultistas | Teisininkas | Šnipas |
 | Amatininkas | Mechanikas | Studentas |
-| Nusikaltėlis | Pirklys | Mokytojas |
-| Detektyvas | Kilmingasis | Technikas |
+| Nusikaltėlis | Prekybininkas | Mokytojas |
+| Detektyvas | Didikas | Technikas |
 | Gydytojas | Rašytojas | Vagis |
 | Inžinierius | Pilotas | Genties narys |
 | Pramogautojas | Politikas | Karys |
-| Tyrinėtojas | Kunigas | Burtininkas |
-| Ūkininkas | Jūrininkas |  |
+| Keliautojas | Kunigas | Burtininkas |
+| Ūkininkas | Jūrininkas | |
 
 #### Menininkas
 
-Jūs užsidirbate pragyvenimui kurdami meną, ar tai būtų piešimas, tapyba, skulptūra, dizainas, fotografija, filmavimas ar bet kokia kita kūrybinės raiškos priemonė fizinėje ar skaitmeninėje terpėje. Pramogautojai turėtų kreiptis į Pramogautojo profesiją.
+Jūs užsidirbate pragyvenimui kurdami meną: piešdami, tapydami, skulptūruodami, projektuodami, fotografuodami, kurdami filmus ar kitokiu būdu išreikšdami kūrybiškumą fizinėje ar skaitmeninėje terpėje. Atlikėjai turėtų rinktis Pramogautojo profesiją.
 
-**Turtas**: Bet koks, bet paprastai Vargšas arba Vidutinis.
+**Turtas**: Bet koks, bet dažniausiai Neturtingasis arba Vidutinis.
 
-**Įgūdžiai**: Bet kokie du Meno įgūdžiai, bet koks Amatas, Įžvalga, vienas tinkamas Žinių įgūdis, Kalba (Kita), Kalba (Sava), Klausymasis, Tyrimas, Stebėjimas.
+**Įgūdžiai**: Bet kokie du Meno įgūdžiai, bet koks Amatas, Įžvalga, vienas tinkamas Žinių įgūdis, Kalba (kita), Kalba (gimtoji), Klausymas, Tyrimas, Pastebėjimas.
 
 #### Žudikas
 
-Kaip šaltakraujis profesionalus žudikas, mirtis yra jūsų amatas. Nesvarbu, ar žudote už pinigus, ar dėl kitos priežasties, esate įgudęs kitų gyvų būtybių nutraukime, paprastai paslapčia.
+Kaip šaltakraujis profesionalus žudikas, mirtis yra jūsų amatas. Nesvarbu, ar žudote dėl pinigų, ar dėl kitos priežasties, esate įgudęs nutraukti kitų gyvų būtybių gyvybes, dažniausiai slapta.
 
-**Turtas**: Vidutinis arba Pasiturintis. Taip pat galite turėti platų ginklų ir netikrų tapatybių spektrą, kaip tinkama aplinkai.
+**Turtas**: Vidutinis arba Turtingasis. Taip pat galite turėti platų ginklų ir padirbtų tapatybių spektrą, priklausomai nuo aplinkos.
 
-**Įgūdžiai**: Venimas, Slėpimasis, Klausymasis, Stebėjimas, Slaptumas ir penki iš šių, kaip tinkama aplinkai: Muštynės, Maskavimas, Vairavimas, Elektronika, Griebimas, Šaunamasis ginklas (bet koks), Tikslus manipuliavimas, Kovos menai, Artimos kovos ginklas (bet koks), Raketinis ginklas (bet koks), Jojimas, Metimas, Sekimas.
+**Įgūdžiai**: Išsisukinėjimas, Slėpimasis, Klausymas, Pastebėjimas, Maskavimasis ir penki iš šių, priklausomai nuo aplinkos: Muštynės, Maskavimasis (disguise), Vairavimas, Elektronika, Imtynės, Šaunamasis ginklas (bet koks), Smulkioji manipuliacija, Kovos menai, Šaltasis ginklas (bet koks), Tolimojo nuotolio ginklas (bet koks), Jojimas, Mėtymas, Pėdsakų sekimas.
 
-#### Atletas
+#### Sportininkas
 
-Nesvarbu, ar profesionalas, ar mėgėjas, remiamas valstybės ar vis dar besimokantis, jūs puikiai mokate sporto ar mankštos stilių, tobulindami savo kūną ir ryžtą individualioms ar komandinėms sportinėms varžyboms.
+Nesvarbu, ar esate profesionalas, ar mėgėjas, remiamas valstybės ar vis dar studijuojantis, jūs puikiai išmanote sporto ar mankštos stilių, lavindami savo kūną ir ryžtą individualioms ar komandinėms varžyboms.
 
-**Turtas:** Vargšas iki Turtingas, paprastai Vidutinis arba Pasiturintis.
+**Turtas:** Nuo Neturtingojo iki Labai turtingo, dažniausiai Vidutinis arba Turtingasis.
 
-**Įgūdžiai:** Laipiojimas, Venimas, Šuolis, Slaptumas, Metimas ir pasirinkite penkis iš šių, kaip tinkama aplinkai ir sportui: Muštynės, Pirmoji pagalba, Griebimas, Įžvalga, Klausymasis, Kovos menai, Stebėjimas, Jojimas, Plaukimas.
+**Įgūdžiai:** Laipiojimas, Išsisukinėjimas, Šuoliai, Maskavimasis, Mėtymas ir pasirinkite penkis iš šių, priklausomai nuo aplinkos ir sporto šakos: Muštynės, Pirmoji pagalba, Imtynės, Įžvalga, Klausymas, Kovos menai, Pastebėjimas, Jojimas, Plaukimas.
 
 #### Elgeta
 
-Jūs išgyvenate elgetaudami pinigų, maisto ir kitų būtinybių. Galite vadinti save benamiu ar klajojančiu vargšu. Galbūt jus ištiko nesėkmių ruožas, priklausote diskriminuojamai grupei, turite kriminalinę praeitį, kurios negalite išvengti, arba pamišimas ar piktnaudžiavimas medžiagomis privedė jus prie šios būsenos.
+Jūs išgyvenate elgetaudami pinigų, maisto ir kitų būtinybių. Galite vadinti save benamiu ar klajojančiu bastūnu. Galbūt jus persekiojo nesėkmės, priklausote diskriminuojamai grupei, turite nusikalstamą praeitį, nuo kurios negalite pabėgti, arba beprotybė ar piktnaudžiavimas medžiagomis privedė jus iki šios būsenos.
 
-**Turtas:** Skurstantis, nors kai kurie elgetos iš tikrųjų yra Vargšai ir tik apsimeta esą prastesnėje padėtyje.
+**Turtas:** Skurstantysis, nors kai kurie elgetos iš tikrųjų yra Neturtingi ir tik dedasi esantys prastesnėje padėtyje.
 
-**Įgūdžiai:** Derybos, Greitas kalbėjimas, Slėpimasis, Įžvalga, Žinios (Regionas: vietinė sritis), Klausymasis, Įtikinėjimas, Kišenvagystė, Stebėjimas, Slaptumas.
+**Įgūdžiai:** Derybos, Greitakalbė, Slėpimasis, Įžvalga, Žinios (vietovės regionas), Klausymas, Įtikinėjimas, Vikrūs pirštai, Pastebėjimas, Maskavimasis.
 
 #### Tarnautojas
 
-Jūs leidžiate dienas prie stalo, paprastai dirbdami finansų srityje. Ši profesija galėtų būti tokia, kurioje bendraujate su klientais, pavyzdžiui, buhalteris ar atlyginimą gaunantis darbuotojas įmonėje, vyriausybėje ar kitoje organizacijoje.
+Dienas leidžiate prie rašomojo stalo, dažniausiai dirbdami finansų srityje. Tai gali būti profesija, kurioje bendraujate su klientais, pavyzdžiui, buhalterio ar samdomo darbuotojo įmonėje, vyriausybėje ar kitoje organizacijoje.
 
 **Turtas:** Vidutinis.
 
-**Įgūdžiai:** Derybos, Etiketas, Žinios (Buhalterija), Žinios (Teisė), vienas kitas Žinių įgūdis, Kalba (Sava), Įtikinėjimas, Tyrimas, Statusas ir arba Techninis įgūdis (Kompiuterių naudojimas), arba Raštingumas, kaip tinkama erai.
+**Įgūdžiai:** Derybos, Etiketas, Žinios (apskaita), Žinios (teisė), dar vieni Žinių įgūdžiai, Kalba (gimtoji), Įtikinėjimas, Tyrimas, Statusas ir techninis įgūdis (kompiuterių naudojimas) arba raštingumas, priklausomai nuo eros.#### Kompiuterių technikas
 
-#### Kompiuterių spec.
+Galite būti korporacijos programinės įrangos inžinierius arba neteisėtas įsilaužėlis. Arba galite dirbti bet kurioje iš daugelio programinės įrangos kūrimo sričių. Didžiąją gyvenimo dalį praleidžiate susijungę su kompiuteriu, dažnai prisijungę prie pasaulinio informacijos tinklo. Kodo eilutės, duomenys ir kitas virtualus turtas jums yra tokie pat tikri, kaip ir kitų amatininkų įrankiai bei medžiagos.
 
-Galite būti korporacijos programinės įrangos inžinierius ar neteisėtas hakeris. Arba galite dirbti bet kurioje iš daugelio programinės įrangos kūrimo sričių. Didžioji jūsų gyvenimo dalis praleidžiama susijungus su kompiuteriu, dažnai prijungtu prie pasaulinio informacijos tinklo. Kodo eilutės, duomenys ir kiti virtualūs turtai jums yra tokie pat tikri, kaip kitų amatininkų įrankiai ir medžiagos.
+**Turto lygis:** Vidutinis arba pasiturintis.
 
-**Turtas:** Vidutinis iki Pasiturinčio.
-
-**Įgūdžiai:** Amatas (Kompiuterių aparatinė įranga arba kodas), vienas Žinių įgūdis, Kalba (Kita) (programavimo kalba), Remontas (Elektrinis), Remontas (Elektroninis), Tyrimas, Mokslas (Matematika), Statusas, Techninis (Kompiuterių naudojimas) ir pasirinkite vieną iš šių įgūdžių kaip specialybes, kaip tinkama aplinkai: Buhalterija, Slėpimasis, Žinios (Teisė).
+**Įgūdžiai:** Amatas (kompiuterinė įranga arba kodas), vienas Žinių įgūdis, Kalba (kita) (programavimo kalba), Remontas (elektros), Remontas (elektronikos), Tyrimas, Mokslas (matematika), Statusas, Techninis (kompiuterio naudojimas) ir pasirinkite vieną iš šių įgūdžių kaip specializaciją, atsižvelgiant į aplinką: Apskaita, Slėpimasis, Žinios (teisė).
 
 #### Amatininkas
 
-Nesvarbu, ar kaimo kalvis, ar stiklo pūtėjas, ar smulkiai sureguliuotų laikrodžių gamintojas, jūs rankomis gaminate prekes ir parduodate jas suinteresuotiems pirkėjams. Paprastai dirbate dirbtuvėse, nesvarbu, ar jas turite, ar tik esate ten įdarbintas.
+Nesvarbu, ar esate kaimo kalvis, stiklo pūtėjas, ar smulkiai suderintų laikrodžių gamintojas, jūs rankomis gaminate prekes ir parduodate jas suinteresuotiems pirkėjams. Paprastai dirbate dirbtuvėje, nesvarbu, ar ji priklauso jums, ar esate ten tik samdomas darbuotojas.
 
-**Turtas:** Vargšas iki Pasiturinčio, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba pasiturintis, paprastai vidutinis.
 
-**Įgūdžiai:** Vertinimas, bet koks Menas, Derybos, bet kokie du Amato įgūdžiai, Stebėjimas, Tyrimas, Statusas ir pasirinkite du iš šių, kaip tinkama aplinkai ir prekybai: Tikslus manipuliavimas, Remontas (Elektrinis), Remontas (Elektroninis), Remontas (Mechaninis), Sunkioji technika.
+**Įgūdžiai:** Vertinimas, bet koks vienas Menas, Derėjimasis, bet kokie du Amato įgūdžiai, Pastebėjimas, Tyrimas, Statusas ir pasirinkite du iš šių įgūdžių, atsižvelgiant į aplinką ir profesiją: Tikslusis manipuliavimas, Remontas (elektros), Remontas (elektronikos), Remontas (mechaninis), Sunkiasvorė technika.
 
 #### Nusikaltėlis
 
-Jūs skynatės kelią per pasaulį pažeisdami įstatymus, ar tai būtų jėgos vagystė, organizuotas nusikalstamumas, kišenvagystė ar kita priemonė gauti vertybių ar pinigų neteisėtai.
+Savo kelią pasaulyje skinotės laužydami įstatymus, nesvarbu, ar tai būtų plėšikavimas jėga, organizuotas nusikalstamumas, kišenvagystė ar koks nors kitas būdas neteisėtai įgyti vertybių ar pinigų.
 
-**Turtas:** Vargšas iki Pasiturinčio, kartais Turtingas, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba pasiturintis, kartais turtingas, paprastai vidutinis.
 
-**Įgūdžiai:** Derybos, Slėpimasis, Slaptumas, Vairavimas arba Jojimas ir pasirinkite bet kokius šešis iš šių, kaip tinkama aplinkai ir veiklai: Vertinimas, Muštynės, Laipiojimas, Greitas kalbėjimas, Tikslus manipuliavimas, Šaunamasis ginklas (bet koks), Lošimas, Griebimas, Įžvalga, Šuolis, Žinios (Teisė), Klausymasis, Kovos menai, Artimos kovos ginklas (bet koks, paprastai peiliai ar lazdos), Įtikinėjimas, Stebėjimas, Metimas.
+**Įgūdžiai:** Derėjimasis, Slėpimasis, Slaptumas, Vairavimas arba Jojimas ir pasirinkite bet kuriuos šešis iš šių įgūdžių, atsižvelgiant į aplinką ir veiklą: Vertinimas, Muštynės, Laipiojimas, Greitas kalbėjimas, Tikslusis manipuliavimas, Šaunamasis ginklas (bet koks), Azartiniai žaidimai, Imtynės, Įžvalga, Šuoliai, Žinios (teisė), Klausymasis, Kovos menai, Šaltasis ginklas (bet koks, paprastai peiliai arba lazdos), Įtikinėjimas, Pastebėjimas, Mėtymas.
 
 #### Detektyvas
 
-Nesvarbu, ar dirbate policijoje, ar privačiai, jūs naudojate stebėjimo, dedukcijos ir kriminologijos įgūdžius, kad nustatytumėte, kas įvykdė nusikaltimus. Galite turėti platų teismo ir mokslinių įgūdžių spektrą arba veikti vedami nuojautos.
+Nesvarbu, ar dirbate policijoje, ar privačiai, naudojatės stebėjimo, dedukcijos ir kriminologijos įgūdžiais, kad nustatytumėte, kas įvykdė nusikaltimą. Galite turėti platų teismo ekspertizės ir mokslo įgūdžių spektrą arba veikti vadovaudamiesi nuojauta.
 
-**Turtas:** Vidutinis arba Pasiturintis.
+**Turto lygis:** Vidutinis arba pasiturintis.
 
-**Įgūdžiai:** Šaunamasis ginklas (Pistoletas), Žinios (Teisė), Klausymasis, Įtikinėjimas, Stebėjimas, Tyrimas ir pasirinkite keturis iš šių, kaip tinkama aplinkai ir koncepcijai: Menas, Muštynės, Maskavimas, Venimas, Vairavimas, Greitas kalbėjimas, Šaunamasis ginklas (bet koks), Griebimas, Slėpimasis, Žinios (bet koks), Kalba (Kita), Kalba (Sava), Medicina, Jojimas, Mokslas (bet koks), Techninis (Kompiuterių naudojimas), Slaptumas, Sekimas.
+**Įgūdžiai:** Šaunamasis ginklas (pistoletas), Žinios (teisė), Klausymasis, Įtikinėjimas, Pastebėjimas, Tyrimas ir pasirinkite keturis iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Menas, Muštynės, Maskavimasis, Venžimas, Vairavimas, Greitas kalbėjimas, Šaunamasis ginklas (bet koks), Imtynės, Slėpimasis, Įžvalga, Žinios (bet kokios), Kalba (kita), Kalba (gimtoji), Medicina, Jojimas, Mokslas (bet koks), Techninis (kompiuterio naudojimas), Slaptumas, Pėdsakų sekimas.
 
 #### Gydytojas
 
-Jūs padarėte savo pašaukimu gydyti sužeistuosius, ligotus ir kitus nesveikus žmones, naudodami diagnostinius įgūdžius ir medicinines praktikas, įgytas per išsamius mokymus ir studijas. Galbūt davėte priesaiką padėti kiekvienam, kuriam jos reikia, nesvarbu, ką jie padarė ar kas jie tokie.
+Savo pašaukimu pasirinkote gydyti sužeistuosius, ligonius, sergančiuosius ir kitus sveikatos problemų turinčius žmones, naudodamiesi diagnostikos įgūdžiais ir medicinos praktika, įgyta per ilgus mokymus ir studijas. Galbūt davėte priesaiką padėti visiems, kam to reikia, nesvarbu, ką jie padarė ar kas jie tokie.
 
-**Turtas:** Vidutinis iki Pasiturinčio.
+**Turto lygis:** Vidutinis arba pasiturintis.
 
-**Įgūdžiai:** Pirmoji pagalba, Kalba (Sava), Medicina, Įtikinėjimas, Tyrimas, Stebėjimas ir pasirinkite keturis iš šių, kaip tinkama aplinkai: Įžvalga, Kalba (Kita), Psichoterapija, Mokslas (bet koks), Statusas.
+**Įgūdžiai:** Pirmoji pagalba, Kalba (gimtoji), Medicina, Įtikinėjimas, Tyrimas, Pastebėjimas ir pasirinkite keturis iš šių įgūdžių, atsižvelgiant į aplinką: Įžvalga, Kalba (kita), Psichoterapija, Mokslas (bet koks), Statusas.
 
 #### Inžinierius
 
-Jūs statote, taisote ar prižiūrite mašinas, dirbate statybose arba esate mechanikas, dirbantis su jūsų erai ir aplinkai tinkama technologija, nuo paprastos akmens architektūros iki itin pažangių erdvėlaivių variklių sistemų. Kai kurie inžinieriai prižiūri ir valdo dideles ir sudėtingas transporto priemones, nuo burlaivio iki kosminio kreiserio, o kiti yra įdarbinti apgulties mašinų ar architektūrinių struktūrų kūrimui ir priežiūrai.
+Jūs kuriate, taisote arba prižiūrite mašinas, dirbate statybose arba esate mechanikas, dirbantis su jūsų epochai ir aplinkai būdinga technologija – nuo paprastos akmens architektūros iki itin pažangių erdvėlaivių variklių sistemų. Vieni inžinieriai prižiūri ir valdo didelę ir sudėtingą transporto priemonę – nuo burlaivio iki kosminio kreiserio, o kiti kuria ir prižiūri apgulties įrenginius ar architektūrinius statinius.
 
-**Turtas:** Vargšas iki Pasiturinčio, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba pasiturintis, paprastai vidutinis.
 
-**Įgūdžiai:** Amatas (bet koks), Remontas (Mechaninis), Remontas (Struktūrinis), Stebėjimas, Statusas ir penki iš šių, kaip tinkama aplinkai ir koncepcijai: Menas (dažniausiai brėžiniai), Vairavimas, Sunkioji technika, Žinios (bet koks), Pilotavimas (bet koks), Remontas (Elektrinis), Remontas (Elektroninis), Mokslas (bet koks) arba Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Amatas (bet koks), Remontas (mechaninis), Remontas (struktūrinis), Pastebėjimas, Statusas ir penki iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Menas (paprastai braižyba), Vairavimas, Sunkiasvorė technika, Žinios (bet kokios), Pilotavimas (bet koks), Remontas (elektros), Remontas (elektronikos), Mokslas (bet koks) arba Techninis (kompiuterio naudojimas).
 
 #### Pramogautojas
 
-Jūs naudojate savo pasirodymo talentą linksminti bet kokio dydžio auditorijas, improvizuotai ar pagal scenarijų, asmeniškai arba per transliavimą ar iš anksto įrašytą platinimą.
+Naudojatės savo sceniniu talentu, kad linksmintumėte įvairaus dydžio auditoriją – improvizuotai ar pagal scenarijų, gyvai arba per transliacijas ar iš anksto įrašytą medžiagą.
 
-**Turtas:** Skurstantis iki Turtingas, paprastai Vidutinis.
+**Turto lygis:** Skurdus arba turtingas, paprastai vidutinis.
 
-**Įgūdžiai:** Menas (bet koks), Maskavimas, Greitas kalbėjimas, Tikslus manipuliavimas, Įžvalga, Kalba (Kita), Kalba (Sava), Klausymasis, Pasirodymas (bet koks), Įtikinėjimas.
+**Įgūdžiai:** Menas (bet koks), Maskavimasis, Greitas kalbėjimas, Tikslusis manipuliavimas, Įžvalga, Kalba (kita), Kalba (gimtoji), Klausymasis, Atlikimas (bet koks), Įtikinėjimas.
 
 #### Tyrinėtojas
 
-Padarėte savo gyvenimo darbu ieškoti nežinomų pasaulio kampelių, eiti ten, kur dar niekas nebuvo, ir sugrąžinti žinias apie tai, ką radote, ar dėl šlovės, ar atradimo vardan.
+Savo gyvenimo darbu pasirinkote ieškoti nežinomų pasaulio kampelių, eiti ten, kur niekas anksčiau nebuvo lankęsis, ir parnešti žinias apie tai, ką radote, – dėl šlovės arba atradimų vardan.
 
-**Turtas:** Pasiturintis arba Turtingas.
+**Turto lygis:** Pasiturintis arba turtingas.
 
-**Įgūdžiai:** Laipiojimas, Kalba (Kita), Kalba (Sava), Įtikinėjimas, Tyrimas, Stebėjimas ir keturi iš šių, kaip tinkama aplinkai: Žinios (Antropologija, Grupė, Istorija, Gamtos pasaulis ar Regionas), Vairavimas, Greitas kalbėjimas, Šaunamasis ginklas (Pistoletas, Revolveris ar Šautuvas), Orientavimasis, Pilotavimas (Lėktuvas ar Valtis), Jojimas, Mokslas (Geologija), Plaukimas, Sekimas.
+**Įgūdžiai:** Laipiojimas, Kalba (kita), Kalba (gimtoji), Įtikinėjimas, Tyrimas, Pastebėjimas ir keturi iš šių įgūdžių, atsižvelgiant į aplinką: Žinios (antropologija, grupės, istorija, gamta arba regionas), Vairavimas, Greitas kalbėjimas, Šaunamasis ginklas (pistoletas, revolveris arba šautuvas), Orientavimasis, Pilotavimas (orlaivis arba laivas), Jojimas, Mokslas (geologija), Plaukimas, Pėdsakų sekimas.
 
 #### Ūkininkas
 
-Kaip ūkininkas gyvenate kaimiškoje ar vos sutramdytoje srityje, išgaudami pragyvenimą iš žemės per pasėlių auginimą ar gyvulių bandų priežiūrą. Tai sunkus gyvenimas su ilgomis sunkaus darbo dienomis, bet vis dėlto patenkinamas.
+Kaip ūkininkas gyvenate kaimo ar sunkiai įvaldytoje vietovėje, pragyvenate iš žemės, augindami pasėlius arba ganydami gyvulių bandas. Tai sunkus gyvenimas su ilgomis varginančio darbo dienomis, tačiau vis tiek teikiantis pasitenkinimą.
 
-**Turtas:** Vargšas iki Pasiturinčio, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba pasiturintis, paprastai vidutinis.
 
-**Įgūdžiai:** Derybos, Amatas (bet koks), Žinios (Gamtos istorija), Klausymasis, Stebėjimas ir penki iš šių, kaip tinkama aplinkai ir koncepcijai: Muštynės, Vairavimas, Šaunamasis ginklas (Šautuvas ar Graižtvinis ginklas), Pirmoji pagalba, Sunkioji technika, Žinios (Gamtos pasaulis), Remontas (Mechaninis), Jojimas, Mokslas (Biologija, Botanika ar Geologija), Sekimas.
+**Įgūdžiai:** Derėjimasis, Amatas (bet koks), Žinios (gamtos istorija), Klausymasis, Pastebėjimas ir penki iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Muštynės, Vairavimas, Šaunamasis ginklas (šautuvas arba lygiavamzdis), Pirmoji pagalba, Sunkiasvorė technika, Žinios (gamta), Remontas (mechaninis), Jojimas, Mokslas (biologija, botanika arba geologija), Pėdsakų sekimas.
 
-#### Lošėjas
+#### Azartinių lošimų žaidėjas
 
-Jūs išgyvenate atsitiktinumo dėka arba apgaudinėdami likimą sėkmės ir įgūdžių žaidimuose. Neišvengiamai keliaujate aplink; klajojate iš vienos lošimų arenos į kitą, kartais vienu žingsniu aplenkdami įstatymą, tikėdamiesi, kad jūsų sėkmė neišseks.
+Išgyvenate dėl atsitiktinumo arba apgaudinėdami likimą sėkmės ir įgūdžių žaidimuose. Neišvengiamai keliaujate aplinkui; klajojate iš vienos lošimo arenos į kitą, kartais būdami vienu žingsniu priekyje įstatymo, vildamiesi, kad sėkmė jūsų neapleis.
 
-**Turtas:** Vargšas iki Pasiturinčio, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba pasiturintis, paprastai vidutinis.
 
-**Įgūdžiai:** Derybos, Muštynės, Venimas, Greitas kalbėjimas, Lošimas, Įžvalga, Žinios (Buhalterija), Įtikinėjimas, Kišenvagystė, Stebėjimas.
+**Įgūdžiai:** Derėjimasis, Muštynės, Venžimas, Greitas kalbėjimas, Azartiniai žaidimai, Įžvalga, Žinios (apskaita), Įtikinėjimas, Miklumas, Pastebėjimas.
 
 #### Ganytojas
 
-Jūs užsidirbate pragyvenimui prižiūrėdami bandos gyvūnus, jodinėdami atvirose erdvėse ir rūpindamiesi bandomis, ieškodami pasiklydusių ir atveždami juos į turgų, kai ateina laikas parduoti.
+Pragyvenate prižiūrėdami bandų gyvulius, jodami atvirais laukais, rūpindamiesi bandomis, ieškodami pasiklydusių gyvulių ir pristatydami juos į turgų, kai ateina laikas parduoti.
 
-**Turtas:** Vargšas iki Vidutinio, kartais Pasiturintis.
+**Turto lygis:** Vargingas arba vidutinis, kartais pasiturintis.
 
-**Įgūdžiai:** Amatas (dažniausiai mazgų rišimas), Šaunamasis ginklas (Šautuvas), Žinios (Gamtos pasaulis), Žinios (Regionas: Ganyklos), Klausymasis, Orientavimasis, Jojimas, Stebėjimas, Metimas, Sekimas.
+**Įgūdžiai:** Amatas (paprastai mazgų rišimas), Šaunamasis ginklas (šautuvas), Žinios (gamta), Žinios (regionas: ganyklos), Klausymasis, Orientavimasis, Jojimas, Pastebėjimas, Mėtymas, Pėdsakų sekimas.
 
 #### Medžiotojas
 
-Nesvarbu, ar dėl išgyvenimo, ar dėl medžioklės jaudulio, jūs specializuojatės sekdami ir gaudydami ar žudydami laukinius gyvūnus ar kitas būtybes.
+Nesvarbu, ar tai darote dėl išlikimo, ar dėl medžioklės azarto, jūs specializuojatės sekdami ir gaudydami spąstais arba žudydami laukinius gyvūnus ar kitas būtybes.
 
-**Turtas:** Vargšas ar Vidutinis, nebent stambios laimikio ar sporto medžiotojas, tada Turtingas.
+**Turto lygis:** Vargingas arba vidutinis, nebent tai stambios medžiojamojo gyvūno ar sportinė medžioklė – tada turtingas.
 
-**Įgūdžiai:** Laipiojimas, Slėpimasis, Klausymasis, Orientavimasis, Stebėjimas, Slaptumas, Sekimas ir trys iš šių, kaip tinkama aplinkai ir koncepcijai: Šaunamasis ginklas (Šautuvas ar Graižtvinis ginklas), Žinios (Gamtos pasaulis ar Regionas), Kalba (Kita), Artimos kovos ginklas (dažniausiai ietis), Raketinis ginklas (bet koks), Jojimas.
+**Įgūdžiai:** Laipiojimas, Slėpimasis, Klausymasis, Orientavimasis, Pastebėjimas, Slaptumas, Pėdsakų sekimas ir trys iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Šaunamasis ginklas (šautuvas arba lygiavamzdis), Žinios (gamta arba regionas), Kalba (kita), Šaltasis ginklas (paprastai ietis), Šaudymas iš toli (bet koks), Jojimas.
 
 #### Žurnalistas
 
-Nesvarbu, ar savaitraščio apžvalgininkas, interneto žurnalistas, fotožurnalistas, televizijos laidų vedėjas ar komentatorius, jūs pragyvenate iš įvykių nušvietimo ir analizės, transliuojamos ar platinamos kitoje terpėje. Tai gali būti susiję su tam tikra šlove ar pagarsėjimu.
+Nesvarbu, ar esate savaitraščio apžvalgininkas, interneto žurnalistas, fotožurnalistas, televizijos laidų vedėjas ar laisvai samdomas komentatorius, pragyvenate iš įvykių nušvietimo ir analizės, skirtos transliuoti ar platinti kitu būdu. Tai gali atnešti tam tikrą šlovę ar liūdną garsą.
 
-**Turtas:** Vidutinis iki Pasiturinčio.
+**Turto lygis:** Vidutinis arba pasiturintis.
 
-**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Kalba (Sava), Klausymasis, Įtikinėjimas, Tyrimas, Stebėjimas ir trys iš šių, kaip tinkama aplinkai ir koncepcijai: Menas (Fotografija), Amatas (Fotografija), Maskavimas, Slėpimasis, Žinios (bet koks), Kalba (Kita), Statusas, Slaptumas, Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Kalba (gimtoji), Klausymasis, Įtikinėjimas, Tyrimas, Pastebėjimas ir trys iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Menas (fotografija), Amatas (fotografija), Maskavimasis, Slėpimasis, Žinios (bet kokios), Kalba (kita), Statusas, Slaptumas, Techninis (kompiuterio naudojimas).
 
 #### Darbininkas
 
-Esate mėlynųjų apykaklių darbuotojas, ar tai būtų gamyklos linija, sandėlis, ar tiesiog sunkus darbas. Jūsų raumenys ir gebėjimas atlikti pasikartojančias užduotis yra svarbesni už bet kokį protą, kurį galite sukaupti.
+Esate mėlynųjų apykaklių darbuotojas – gamyklos linijoje, sandėlyje ar tiesiog atliekantis sunkų fizinį darbą. Jūsų raumenys ir gebėjimas atlikti pasikartojančias užduotis yra svarbesni nei bet kokie protiniai gebėjimai, kuriuos galite pademonstruoti.
 
-**Turtas:** Vargšas ar Vidutinis.
+**Turto lygis:** Vargingas arba vidutinis.
 
-**Įgūdžiai:** Laipiojimas, Amatas (bet koks), Vairavimas, Muštynės, Griebimas, Sunkioji technika ir keturi kiti, kaip tinkama aplinkai: Vertinimas, Tikslus manipuliavimas, Kalba (Kita), Raštingumas, Remontas (Mechaninis), Remontas (Struktūrinis), Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Laipiojimas, Amatas (bet koks), Vairavimas, Muštynės, Imtynės, Sunkiasvorė technika ir keturi kiti, atsižvelgiant į aplinką: Vertinimas, Tikslusis manipuliavimas, Kalba (kita), Raštingumas, Remontas (mechaninis), Remontas (struktūrinis), Techninis (kompiuterio naudojimas).
 
-#### Teisėsaugininkas
+#### Įstatymo sergėtojas
 
-Turite įgaliojimus ir jurisdikciją palaikyti ir ginti įstatymus, idealiai – paprastų žmonių labui. Jūsų įstatymų ir teisinio kodekso vykdymą palaiko valdžios struktūra jūsų bendruomenėje.
+Turite įgaliojimus ir jurisdikciją ginti įstatymus, idealiu atveju – paprastų žmonių labui. Jūsų įstatymų ir teisinių kodeksų vykdymą palaiko jūsų bendruomenės valdžios struktūra.
 
-**Turtas:** Paprastai Vidutinis. Korumpuoti teisėsaugininkai kartais yra Pasiturintys.
+**Turto lygis:** Paprastai vidutinis. Korumpuoti teisėsaugininkai kartais būna pasiturintys.
 
-**Įgūdžiai:** Muštynės, Venimas, Greitas kalbėjimas, Žinios (Teisė), Klausymasis, Stebėjimas ir keturi iš šių, kaip tinkama aplinkai ir koncepcijai: Vairavimas, Šaunamieji ginklai (bet koks), Pirmoji pagalba, Griebimas, Įžvalga, Žinios (Regionas ar Grupė), Kalba (Kita), Kovos menai, Artimos kovos ginklas (bet koks), Raketinis ginklas (bet koks), Pilotavimas (bet koks), Jojimas, Statusas, Techninis (Kompiuterių naudojimas), Sekimas.
+**Įgūdžiai:** Muštynės, Venžimas, Greitas kalbėjimas, Žinios (teisė), Klausymasis, Pastebėjimas ir keturi iš šių įgūdžių, atsižvelgiant į aplinką ir koncepciją: Vairavimas, Šaunamasis ginklas (bet koks), Pirmoji pagalba, Imtynės, Įžvalga, Žinios (regionas arba grupė), Kalba (kita), Kovos menai, Šaltasis ginklas (bet koks), Šaudymas iš toli (bet koks), Pilotavimas (bet koks), Jojimas, Statusas, Techninis (kompiuterio naudojimas), Pėdsakų sekimas.
 
-#### Advokatas
+#### Teisininkas
 
-Esate išmokytas teisės ir naudojate teisinę sistemą patraukti baudžiamojon atsakomybėn ar ginti, arba atstovaujate asmenų, organizacijų ar vyriausybių teisiniams interesams. Nors neturite jokių įgaliojimų aukščiau ar už paprasto piliečio ribų, jūsų vidinės teisinės sistemos žinios suteikia jums didelę galią teisinėje sistemoje.
+Esate apmokytas teisės srityje ir naudojatės teisine sistema kaltinimui ar gynybai, arba atstovaujate asmenų, organizacijų ar vyriausybių teisiniams interesams. Nors neturite jokių įgaliojimų, viršijančių paprasto piliečio galias, jūsų vidinės teisinės sistemos žinios suteikia jums didelę galią teisinėje sistemoje.
 
-**Turtas:** Skurstantis, Vargšas, Vidutinis, Pasiturintis, Turtingas
+**Turto lygis:** Skurdus, vargingas, vidutinis, pasiturintis, turtingas.
 
-**Įgūdžiai:** Derybos, Greitas kalbėjimas, Įžvalga, Žinios (Teisė), vienas kitas Žinių įgūdis, Kalba (Sava), Pasirodymas (Oratorystė), Įtikinėjimas, Tyrimas, Statusas.
+**Įgūdžiai:** Derėjimasis, Greitas kalbėjimas, Įžvalga, Žinios (teisė), vienas kitas Žinių įgūdis, Kalba (gimtoji), Atlikimas (oratorystė), Įtikinėjimas, Tyrimas, Statusas.
 
 #### Mechanikas
 
-Tepaluotas darbininkas, jūs leidžiate laiką prižiūrėdami, taisydami ir kartais statydami mašinas, transporto priemones ar sudėtingesnes konstrukcijas. Jūs gerai dirbate su įrankiais ir galite lengvai iššifruoti technines problemas ar klausimus.
+Esate meistras, leidžiantis laiką prižiūrint, taisant ir kartais kuriant mašinas, transporto priemones ar sudėtingesnius objektus. Gerai dirbate su įrankiais ir gebate lengvai iššifruoti technines problemas ar klausimus.
 
-**Turtas:** Vargšas iki Vidutinio, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba vidutinis, paprastai vidutinis.
 
-**Įgūdžiai:** Derybos, Amatas (Metalo apdirbimas), Vairavimas, Tikslus manipuliavimas, Sunkioji technika, Remontas (Elektrinis), Remontas (Elektroninis), Remontas (Mechaninis), Remontas (Struktūrinis), Stebėjimas.
+**Įgūdžiai:** Derėjimasis, Amatas (metalo apdirbimas), Vairavimas, Tikslusis manipuliavimas, Sunkiasvorė technika, Remontas (elektros), Remontas (elektronikos), Remontas (mechaninis), Remontas (struktūrinis), Pastebėjimas.
 
-#### Pirklys
+#### Prekybininkas
 
-Užsidirbate pragyvenimui mažmeninėje ar didmeninėje prekyboje, pirkdami išteklius pigiau ir parduodami brangiau. Galite dirbti parduotuvėje ar ją turėti, arba galite būti mobilus: keliaujantis pardavėjas, klaidžiojantis amatininkas, nuotykių ieškantis prieskonių pirklys ar tarptautinis pardavimų atstovas.
+Pragyvenate iš mažmeninės ar didmeninės prekybos, pirkdami išteklius pigiau ir parduodami brangiau. Galite dirbti parduotuvėje arba ją turėti, arba galite būti mobilus: keliaujantis pardavėjas, klaidžiojantis prekybininkas, nuotykių ieškantis prieskonių pirklys arba tarptautinis pardavimų atstovas.
 
-**Turtas:** Vidutinis iki Turtingo, paprastai Pasiturintis. Jūsų žaidimo vedėjas ir žaidėjas turėtų nuspręsti, ar veikėjas turi savo parduotuvę ar prekybinį laivą.
+**Turto lygis:** Vidutinis arba turtingas, paprastai pasiturintis. Žaidimo vedėjas ir žaidėjas turėtų nuspręsti, ar veikėjas turi savo parduotuvę ar prekybinį laivą.
 
-**Įgūdžiai:** Vertinimas, Derybos, Greitas kalbėjimas, Žinios (Buhalterija), Žinios (Verslas), Įtikinėjimas, Tyrimas, Statusas ir bet kokie du kiti įgūdžiai kaip specialybės, kaip tinkama aplinkai ir koncepcijai.
+**Įgūdžiai:** Vertinimas, Derėjimasis, Greitas kalbėjimas, Žinios (apskaita), Žinios (verslas), Įtikinėjimas, Tyrimas, Statusas ir bet kurie kiti du įgūdžiai kaip specializacijos, atsižvelgiant į aplinką ir koncepciją.
 
 #### Kilmingasis
 
-Gimėte turte ir valdančiojoje klasėje. Visuomenėje, kuri pripažįsta tokius socialinius skirtumus, jūsų statusas dažnai siejamas su rangais ir titulais, bet net jei tokie titulai yra beprasmiai, jūs vis tiek lengvai atpažįstami kaip elito dalis. Esate pripratę prie elegantiško ir ekstravagantiško gyvenimo būdo ir pažįstate bei esate žinomi turtingiems ir kitiems aukšto gimimo visuomenės nariams.
+Gimėte turtingas ir priklausote valdančiajai klasei. Visuomenėje, kuri pripažįsta tokius socialinius skirtumus, jūsų statusas dažnai siejamas su rangais ir titulais, tačiau net jei tokie titulai yra beprasmiai, jūs vis tiek lengvai atpažįstamas kaip elito atstovas. Esate pripratęs prie elegantiško ir ekstravagantiško gyvenimo būdo, pažįstate turtinguosius ir kitus kilmingus visuomenės narius, ir jie pažįsta jus.
 
-**Turtas:** Pasiturintis iki Turtingo, paprastai Turtingas.
+**Turto lygis:** Pasiturintis arba turtingas, paprastai turtingas.
 
-**Įgūdžiai:** Derybos, Vairavimas, Etiketas, Kalba (Sava), Kalba (Kita), Raštingumas ir Statusas, plius bet kokie kiti trys įgūdžiai kaip hobiai ar interesų sritys.
+**Įgūdžiai:** Derėjimasis, Vairavimas, Etiketas, Kalba (gimtoji), Kalba (kita), Raštingumas ir Statusas, bei bet kurie kiti trys įgūdžiai kaip pomėgiai ar dominančios sritys.
 
 #### Okultistas
 
-Esate neaiškių paslapčių, paslėptų žinių ir magiškos galios studentas, tikintis antgamtinių jėgų įtaka ir pirmenybe. Jei tinka aplinkai, jūsų žaidimo vedėjas gali leisti jums naudoti galias (tikriausiai magiją ar burtininkystę), galbūt studijuotas būnant okultinės organizacijos ar slaptos draugijos nariu.
+Esate tamsių paslapčių, paslėptų žinių ir magiškos galios studentas, tikintis antgamtinių jėgų įtaka ir viršenybe. Jei tai tinka aplinkai, žaidimo vedėjas gali leisti jums naudotis galiomis (tikriausiai magija ar burtininkavimu), kurias galbūt studijavote būdamas okultinės organizacijos ar slaptos draugijos nariu.
 
-**Turtas:** Vargšas iki Turtingo, paprastai Pasiturintis.
+**Turto lygis:** Vargingas arba turtingas, paprastai pasiturintis.
 
-**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Žinios (Antropologija), Žinios (Istorija), Žinios (Okultizmas), Kalba (Kita), Kalba (Sava), Tyrimas ir bet kokie kiti du įgūdžiai, kaip tinkama aplinkai, paprastai iš šių: Menas (bet koks), Amatas (bet koks), Žinios (Archeologija), Medicina, Mokslas (bet koks) ar Statusas.
+**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Žinios (antropologija), Žinios (istorija), Žinios (okultizmas), Kalba (kita), Kalba (gimtoji), Tyrimas ir bet kurie kiti du įgūdžiai, atsižvelgiant į aplinką, paprastai iš šių: Menas (bet koks), Amatas (bet koks), Žinios (archeologija), Medicina, Mokslas (bet koks) arba Statusas.
 
-**Ypatingas:** Jei aplinkoje yra magija, galite turėti magijos galių. Žr. *Ketvirtą skyrių: Galios* dėl daugiau informacijos.
+**Specialu:** Jei aplinkoje yra magija, galite turėti magiškų galių. Daugiau informacijos rasite ketvirtame skyriuje: Galios.
 
 #### Pilotas
 
-Nesvarbu, ar sausumoje, ar vandenyje, ar po juo, ar danguje, ar per giliąją erdvę, jūs esate išmokytas valdyti ir pilotuoti tam tikrą transporto priemonę, vairuojant ją komerciniais, oficialiais ar kariniais tikslais. Jūsų darbas svyruoja nuo kosminio naikintuvo piloto iki trampinio laivo kapitono, priklausomai nuo aplinkos.
+Nesvarbu, ar sausumoje, ant vandens ar po juo, danguje, ar kosmoso gelmėse, esate apmokytas valdyti ir pilotuoti tam tikrą laivą, vairuojant jį komerciniais, oficialiais ar kariniais tikslais. Jūsų darbas svyruoja nuo kosminio naikintuvo piloto iki tralo kapitono, priklausomai nuo aplinkos.
 
-**Turtas:** Vidutinis iki Pasiturinčio. Jei turite savo laivą, Pasiturintis.
+**Turto lygis:** Vidutinis arba pasiturintis. Jei turite savo laivą – pasiturintis.
 
-**Įgūdžiai:** Vairavimas, Sunkioji technika, Klausymasis, Orientavimasis, Pilotavimas (bet koks), Stebėjimas, plius bet kokie keturi iš šių įgūdžių, kaip tinkama aplinkai: Derybos, Laipiojimas, Vadovavimas, Amatas (bet koks), Žinios (Regionas), Remontas (Elektrinis), Remontas (Elektroninis), Remontas (Mechaninis), Kalba (Kita), Įtikinėjimas, Mokslas (Fizika), Mokslas (Astronomija), Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Vairavimas, Sunkiasvorė technika, Klausymasis, Orientavimasis, Pilotavimas (bet koks), Pastebėjimas ir bet kurie keturi iš šių įgūdžių, atsižvelgiant į aplinką: Derėjimasis, Laipiojimas, Komandavimas, Amatas (bet koks), Žinios (regionas), Remontas (elektros), Remontas (elektronikos), Remontas (mechaninis), Kalba (kita), Įtikinėjimas, Mokslas (fizika), Mokslas (astronomija), Techninis (kompiuterio naudojimas).
 
 #### Politikas
 
-Buvote išrinktas ar paskirtas į valdžios poziciją ir užsidirbate pragyvenimui dalyvaudami ar vadovaudami vyriausybės veiklai, nesvarbu, ar miesto mastu, ar didesniu. Galite būti viduramžių magistratas ar galaktikos senatorius, priklausomai nuo aplinkos.
+Buvote išrinktas arba paskirtas į valdžios pareigas ir pragyvenate dalyvaudami vyriausybės veikloje arba jai vadovaudami – miesto ar didesniu mastu. Priklausomai nuo aplinkos, galite būti viduramžių magistratas arba galaktikos senatorius.
 
-**Turtas:** Pasiturintis iki Turtingo, paprastai Pasiturintis.
+**Turto lygis:** Pasiturintis arba turtingas, paprastai pasiturintis.
 
-**Įgūdžiai:** Derybos, Etiketas, Greitas kalbėjimas, Įžvalga, Žinios (Teisė), Įtikinėjimas, Statusas, plius bet kokie kiti trys įgūdžiai, kaip tinkama aplinkai, paprastai iš šių: Žinios (Buhalterija, Grupė, Istorija ar Regionas), Klausymasis, Kalba (Kita), Kalba (Sava), Pasirodymas (Oratorystė), Tyrimas.
+**Įgūdžiai:** Derėjimasis, Etiketas, Greitas kalbėjimas, Įžvalga, Žinios (teisė), Įtikinėjimas, Statusas ir bet kurie kiti trys įgūdžiai, atsižvelgiant į aplinką, paprastai iš šių: Žinios (apskaita, grupės, istorija arba regionas), Klausymasis, Kalba (kita), Kalba (gimtoji), Atlikimas (oratorystė), Tyrimas.
 
 #### Kunigas
 
-Jūsų tikėjimas ir įsitikinimas dieviškumu atvedė jus į kunigystės pašaukimą, ir jūs leidžiate laiką pamokslaudami ar užsiimdami veikla, derančia prie jūsų dievybės (ar dievybių) garbinimo. Galite būti asketiškas vienuolis ar televizijos evangelistas, priklausomai nuo aplinkos.
+Jūsų tikėjimas ir tikėjimas dievybe atvedė jus į kunigystės pašaukimą, ir jūs praleidžiate laiką pamokslaudami arba užsiimdami veikla, derančia prie jūsų dievybės (ar dievybių) garbinimo. Priklausomai nuo aplinkos, galite būti asketiškas vienuolis arba televizijos evangelistas.
 
-**Turtas:** Vargšas iki Pasiturinčio, paprastai Vidutinis, galbūt Turtingas, jei esate didelės garbintojų grupės religinis lyderis, jūsų žaidimo vedėjo nuožiūra.
+**Turto lygis:** Vargingas arba pasiturintis, paprastai vidutinis, galbūt turtingas, jei esate didelės tikinčiųjų grupės religinis lyderis, žaidimo vedėjo nuožiūra.
 
-**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Žinios (Istorija), Žinios (Filosofija), Žinios (Religija), Kalba (Sava), Pasirodymas (Ritualai), Įtikinėjimas ir du iš šių: Žinios (Okultizmas), Kalba (Kita), Klausymasis, Raštingumas, Pasirodymas (Oratorystė), Tyrimas, Statusas, Mokymas.
+**Įgūdžiai:** Greitas kalbėjimas, Įžvalga, Žinios (istorija), Žinios (filosofija), Žinios (religija), Kalba (gimtoji), Atlikimas (ritualai), Įtikinėjimas ir du iš šių: Žinios (okultizmas), Kalba (kita), Klausymasis, Raštingumas, Atlikimas (oratorystė), Tyrimas, Statusas, Mokymas.
 
-**Ypatingas:** Jūsų ryšys su tikėjimu ar kultu gali suteikti jums prieigą prie magijos ar antgamtinių galių. Žr. *Ketvirtą skyrių: Galios* dėl daugiau informacijos.
+**Specialu:** Jūsų priklausomybė tikėjimui ar kultui gali suteikti prieigą prie magiškų ar antgamtinių galių. Daugiau informacijos rasite ketvirtame skyriuje: Galios.
 
-#### Jūrininkas
+#### Jūreivis
 
-Jūs ariate vandenyno bangas, sunkiai dirbdami, kad išlaikytumėte savo laivo vientisumą, nesvarbu, ar kaip piratas, karinio jūrų laivyno karininkas, ar senovės pasaulio prekybininkas.
+Skrodžiate vandenyno bangas, sunkiai dirbdami, kad išlaikytumėte savo laivo vientisumą, nesvarbu, ar esate piratas, karinio jūrų laivyno karininkas, ar senovės pasaulio prekybininkas.
 
-**Turtas:** Vargšas ar Vidutinis, paprastai Vidutinis.
+**Turto lygis:** Vargingas arba vidutinis, paprastai vidutinis.
 
-**Įgūdžiai:** Laipiojimas, Amatas (bet koks), Venimas, Griebimas, Orientavimasis, Pilotavimas (Valtis), Plaukimas ir bet kokie trys iš šių: Artilerija (bet kokia, paprastai laive), Vadovavimas, Kalba (Kita), Klausymasis, Remontas (Mechaninis), Remontas (Struktūrinis), Stebėjimas.
-
-#### Moksliukas
-
-Studijos ir mokymasis apibrėžia jūsų gyvenimą, ir jūs specializuojatės vienoje ar keliose žinių srityse, noriai ieškodami visko, ką reikia žinoti savo intelektualinėje srityje. Galite mokyti šių žinių studentus arba kaupti jas savo naudojimui.
-
-**Turtas:** Vidutinis ar Pasiturintis, paprastai Vidutinis.
-
-**Įgūdžiai:** Kalba (Kita), Kalba (Sava), Įtikinėjimas, Tyrimas, Mokymas ir pasirinkite penkis Žinių ar Mokslo įgūdžius, tinkamus aplinkai ir susijusius su jūsų studijų sritimi.
+**Įgūdžiai:** Laipiojimas, Amatas (bet koks), Venžimas, Imtynės, Orientavimasis, Pilotavimas (valtis), Plaukimas ir bet kurie trys iš šių: Artilerija (bet kokia, paprastai laive), Komandavimas, Kalba (kita), Klausymasis, Remontas (mechaninis), Remontas (struktūrinis), Pastebėjimas.
 
 #### Mokslininkas
 
-Nesvarbu, ar įdarbintas korporacijos, švietimo institucijos, vyriausybės, ar dirbate pats sau, jūs tyrinėjate mokslo sritį per griežtą spekuliaciją, eksperimentus ir stebėjimą, kartodami procesą ir tobulindami žinių bazę.
+Studijos ir mokslas apibrėžia jūsų gyvenimą, ir jūs specializuojatės vienoje ar keliose žinių srityse, nekantriai siekdami sužinoti viską, ką galima sužinoti jūsų intelektualinėje srityje. Galite mokyti šių žinių studentus arba kaupti jas savo reikmėms.
 
-**Turtas:** Vidutinis iki Pasiturinčio, paprastai Pasiturintis.
+**Turto lygis:** Vidutinis arba pasiturintis, paprastai vidutinis.
 
-**Įgūdžiai:** Amatas (bet koks), Įtikinėjimas, Tyrimas, Statusas, Techninis (Kompiuterių naudojimas) arba Sunkioji technika ir bet kokie penki Žinių ar Mokslo įgūdžiai, tinkami aplinkai ir susiję su jūsų studijų sritimi.
+**Įgūdžiai:** Kalba (kita), Kalba (gimtoji), Įtikinėjimas, Tyrimas, Mokymas ir pasirinkite penkis Žinių arba Mokslo įgūdžius, tinkamus aplinkai ir susijusius su jūsų studijų sritimi.
+
+#### Mokslininkas (Tyrėjas)
+
+Nesvarbu, ar esate įdarbintas korporacijos, švietimo įstaigos, vyriausybės, ar dirbate savarankiškai, jūs tyrinėjate mokslo sritį per griežtas spekuliacijas, eksperimentus ir stebėjimą, kartodami procesą ir tobulindami žinių bazę.
+
+**Turto lygis:** Vidutinis arba pasiturintis, paprastai pasiturintis.
+
+**Įgūdžiai:** Amatas (bet koks), Įtikinėjimas, Tyrimas, Statusas, Techninis (kompiuterio naudojimas) arba Sunkiasvorė technika ir bet kurie penki Žinių arba Mokslo įgūdžiai, tinkami aplinkai ir susiję su jūsų studijų sritimi.
 
 #### Tarnas
 
-Esate įdarbintas kaip pagalbininkas ar tarnas, besirūpinantis namų ūkio reikalais ir buitiniais turtingo darbdavio poreikiais. Galite būti džentelmeno liokajus, generolo adjutantas arba galite būti virtuvės mergaitė plačioje pilyje.
+Esate įdarbintas kaip pagalbininkas ar tarnas, besirūpinantis pasiturinčio darbdavio namų ūkio reikalais ir buitiniais poreikiais. Galite būti džentelmeno tarnas, generolo adjutantas arba indų plovėja didžiulėje pilyje.
 
-**Turtas:** Vargšas iki Vidutinio, nors kartais tarnai turi ribotą prieigą prie savo darbdavio Pasiturinčio ar Turtingo gyvenimo būdo, su žaidimo vedėjo pritarimu.
+**Turto lygis:** Vargingas arba vidutinis, nors kartais tarnai turi ribotą prieigą prie savo darbdavio pasiturinčio ar turtingo gyvenimo būdo, su jūsų žaidimo vedėjo pritarimu.
 
-**Įgūdžiai:** Amatas (bet koks), Etiketas, Slėpimasis, Kalba (Sava), Klausymasis, Slaptumas ir pasirinkite keturis iš šių kaip asmenines specialybes, kaip tinkama aplinkai ir koncepcijai: Derybos, Vairavimas, Pirmoji pagalba, Įžvalga, Žinios (Buhalterija), Kalba (Kita), Įtikinėjimas.
+**Įgūdžiai:** Amatas (bet koks), Etiketas, Slėpimasis, Kalba (gimtoji), Klausymasis, Slaptumas ir pasirinkite keturis iš šių asmeninių specializacijų, atsižvelgiant į aplinką ir koncepciją: Derėjimasis, Vairavimas, Pirmoji pagalba, Įžvalga, Žinios (apskaita), Kalba (kita), Įtikinėjimas.
 
 #### Šamanas
 
-Esate genties burtininkas, įgudęs susisiekti su dvasios pasauliu ir teikiantis patarimus bei pagalbą savo vadui ir savo genties nariams. Jūs turite slaptų žinių, perduotų iš mentoriaus studentui, ir galite turėti gebėjimą naudoti magiją. Dauguma šamanų yra primityvesnės kultūros nariai, nors yra keletas modernių praktikų.
+Esate genčių magas, įgudęs susisiekti su dvasių pasauliu ir teikti patarimus bei pagalbą savo vadui ir genties nariams. Turite slaptų žinių, perduodamų iš mokytojo mokiniui, ir galbūt turite gebėjimą naudotis magija. Dauguma šamanų priklauso primityvesnėms kultūroms, nors yra ir šiuolaikinių praktikų.
 
-**Turtas:** Vargšas ar Vidutinis, egzistuojantis genties lygmeniu.
+**Turto lygis:** Vargingas arba vidutinis, genčių egzistavimo lygiu.
 
-**Įgūdžiai:** Menas (bet koks), Įžvalga, Žinios (Istorija), Žinios (Okultizmas), Kalba (Sava), Klausymasis, Pasirodymas (Ritualai), Įtikinėjimas ir du iš šių kaip specialybes, kaip tinkama aplinkai ir koncepcijai: Amatas (bet koks), Greitas kalbėjimas, Pirmoji pagalba, Slėpimasis, Žinios (Antropologija), Kalba (Kita), Medicina, Mokslas (Farmacija) ar Statusas.
+**Įgūdžiai:** Menas (bet koks), Įžvalga, Žinios (istorija), Žinios (okultizmas), Kalba (gimtoji), Klausymasis, Atlikimas (ritualai), Įtikinėjimas ir du iš šių kaip specializacijos, atsižvelgiant į aplinką ir koncepciją: Amatas (bet koks), Greitas kalbėjimas, Pirmoji pagalba, Slėpimasis, Žinios (antropologija), Kalba (kita), Medicina, Mokslas (farmacija) arba Statusas.
 
-**Ypatingas:** Priklausomai nuo aplinkos, galite naudoti magiją. Žr. *Ketvirtą skyrių: Galios* dėl daugiau informacijos.
+**Specialu:** Priklausomai nuo aplinkos, galite gebėti naudotis magija. Daugiau informacijos rasite ketvirtame skyriuje: Galios.
 
 #### Vergas
 
-Pagautas ir pavergtas arba gimęs nelaisvėje, jūs esate vergas ar įsipareigojęs tarnas atskiram šeimininkui, arba organizacijai ar religijai. Galite būti gerai elgiamasi: namų ūkio personalo vadovas, arba galbūt esate mušamas ir reguliariai baudžiamas bei gyvenate baimėje. Kad būtumėte klasifikuojamas kaip vergas, daroma prielaida, kad didžioji jūsų gyvenimo dalis buvo praleista vergijoje. Jei buvote pagautas ir pavergtas neseniai, vietoj to naudokite savo ankstesnę profesiją.
+Pagautas ir pavergtas arba gimęs nelaisvėje, esate vergas ar samdomas tarnas individualiam šeimininkui, organizacijai ar religijai. Su jumis gali būti elgiamasi gerai: esate namų ūkio personalo vadovas, arba galbūt esate mušamas, reguliariai baudžiamas ir gyvenate baimėje. Kad būtumėte klasifikuojamas kaip vergas, daroma prielaida, kad didžiąją gyvenimo dalį praleidote kaip vergas. Jei buvote pagautas ir pavergtas neseniai, naudokite savo ankstesnę profesiją.
 
-**Turtas:** Skurstantis iki Vargšo, nors kartais vergai turi ribotą prieigą prie savo savininko Pasiturinčio ar Turtingo gyvenimo būdo, su žaidimo vedėjo pritarimu.
+**Turto lygis:** Skurdus arba vargingas, nors kartais vergai turi ribotą prieigą prie savo savininko pasiturinčio ar turtingo gyvenimo būdo, su žaidimo vedėjo pritarimu.
 
-**Įgūdžiai:** Amatas (bet koks), Venimas, Etiketas, Greitas kalbėjimas, Slėpimasis, Įžvalga, Kalba (Kita), Klausymasis, Slaptumas ir vienas kitas įgūdis kaip profesinė specialybė.
+**Įgūdžiai:** Amatas (bet koks), Venžimas, Etiketas, Greitas kalbėjimas, Slėpimasis, Įžvalga, Kalba (kita), Klausymasis, Slaptumas ir vienas kitas įgūdis kaip profesinė specializacija.
 
-**Pastaba:** Ši profesija turėtų būti pasirinkta su jautrumu kitiems žaidėjams ir žaidimo vedėjui, ir rekomenduojama, kad bet koks veikėjas su šia profesija būtų pabėgęs ar išlaisvintas, kai prasideda žaidimas.
+**Pastaba:** Ši profesija turėtų būti pasirinkta jautriai reaguojant į kitus žaidėjus ir žaidimo vedėją, ir rekomenduojama, kad bet kuris veikėjas su šia profesija būtų pabėgęs arba išlaisvintas, kai prasideda žaidimas.
 
 #### Kareivis
 
-Nesvarbu, ar per įstojimą, ar šaukimą, jūs esate profesionalus kareivis, atsakingas už savo šalies ar organizacijos gynybą. Galite būti samdinys ar kardų pardavėjas, arba galite iš tikrųjų tikėti priežastimi, dėl kurios kovojate. Šiaip ar taip, gavote karinius mokymus ir dirbate kitų kareivių būryje, darydami tai, kas jums įsakyta.
+Nesvarbu, ar per savanorišką įstojimą, ar per šaukimą, esate profesionalus kareivis, įpareigotas ginti savo šalį ar organizaciją. Galite būti samdinys, arba galite iš tikrųjų tikėti tikslu, už kurį kovojate. Bet kuriuo atveju, esate gavęs karinį apmokymą ir dirbate kitų kareivių būryje, vykdydami įsakymus.
 
-**Turtas:** Vargšas ar Vidutinis, bet dažnai suteikiama prieiga prie brangios ar kitokios draudžiamos įrangos.
+**Turto lygis:** Vargingas arba vidutinis, bet dažnai gaunate prieigą prie brangios ar kitaip uždraustos įrangos.
 
-**Įgūdžiai:** Muštynės, Laipiojimas, Venimas, Pirmoji pagalba ir šeši iš šių, kaip tinkama aplinkai: Artilerija, Vadovavimas, Vairavimas, Šaunamasis ginklas (dažniausiai Šautuvas, bet bet koks), Griebimas, Sunkusis ginklas (bet koks), Slėpimasis, Kalba (Kita), Klausymasis, Šuolis, Medicina, Artimos kovos ginklas (bet koks), Raketinis ginklas (bet koks), Orientavimasis, Remontas (Mechaninis), Jojimas, Stebėjimas, Slaptumas, Metimas.
+**Įgūdžiai:** Muštynės, Laipiojimas, Venžimas, Pirmoji pagalba ir šeši iš šių, atsižvelgiant į aplinką: Artilerija, Komandavimas, Vairavimas, Šaunamasis ginklas (paprastai šautuvas, bet bet koks), Imtynės, Sunkusis ginklas (bet koks), Slėpimasis, Kalba (kita), Klausymasis, Šuoliai, Medicina, Šaltasis ginklas (bet koks), Šaudymas iš toli (bet koks), Orientavimasis, Remontas (mechaninis), Jojimas, Pastebėjimas, Slaptumas, Mėtymas.
 
 #### Šnipas
 
-Esate įgudęs pogrindyje ir infiltracijoje, patekdami į šalis ar organizacijas slapta arba po priedanga, sužinodami jų paslaptis ir pranešdami jas priešui ar suinteresuotai šaliai.
+Esate įgudęs apgaudinėjime ir infiltravimesi, patekdamas į šalis ar organizacijas slapta, išsiaiškindamas jų paslaptis ir pranešdamas jas priešui ar suinteresuotai šaliai.
 
-**Turtas:** Vidutinis ar Pasiturintis, priklausomai nuo aplinkos.
+**Turto lygis:** Vidutinis arba pasiturintis, priklausomai nuo aplinkos.
 
-**Įgūdžiai:** Venimas, Greitas kalbėjimas, Slėpimasis, Klausymasis, Tyrimas, Stebėjimas, Slaptumas ir trys iš šių, kaip tinkama aplinkai: Menas (Fotografija), Muštynės, Maskavimas, Etiketas, Šaunamasis ginklas (bet koks), Griebimas, Žinios (bet koks), Kalba (Kita), Kalba (Sava), Kovos menai, Orientavimasis, Pilotavimas (bet koks), Psichologija, Remontas (Elektroninis), Remontas (Mechaninis), Jojimas, Plaukimas, Techninis (Kompiuterių naudojimas), Metimas, Sekimas.
+**Įgūdžiai:** Venžimas, Greitas kalbėjimas, Slėpimasis, Klausymasis, Tyrimas, Pastebėjimas, Slaptumas ir trys iš šių, atsižvelgiant į aplinką: Menas (fotografija), Muštynės, Maskavimasis, Etiketas, Šaunamasis ginklas (bet koks), Imtynės, Žinios (bet kokios), Kalba (kita), Kalba (gimtoji), Kovos menai, Orientavimasis, Pilotavimas (bet koks), Psichologija, Remontas (elektronikos), Remontas (mechaninis), Jojimas, Plaukimas, Techninis (kompiuterio naudojimas), Mėtymas, Pėdsakų sekimas.#### Studentas
 
-#### Studentas
+Savo laiką skiriate mokymuisi – kaip bendrojo lavinimo studentas arba meistro mokinys. Jūsų mokymo programa gali būti vykdoma prestižiniame universitete, kovos menų akademijoje, burtininkų mokykloje arba privačioje ir išskirtinėje įstaigoje.
 
-Leidžiate laiką studijuodami, ar tai būtų bendras studentas, ar pameistrys pas kokį nors meistrą. Jūsų mokymo programa gali būti prestižiniame universitete, kovos menų akademijoje, burtininkų mokykloje ar privačioje ir išskirtinėje institucijoje.
+**Gerovė:** Nuo vargingos iki turtingos, dažniausiai vidutinė.
 
-**Turtas:** Vargšas iki Turtingo, paprastai Vidutinis.
+**Įgūdžiai:** Kalba (gimtoji), Tyrimas ir aštuoni kiti įgūdžiai pagal studijų kursą, priklausomai nuo aplinkos ir koncepcijos. Dažni pasirinkimai iš šio sąrašo: Menas (bet koks), Amatai (bet kokie), Pirmoji pagalba, Įžvalga, Žinios (bet kokios), Kalba (kita), Klausymas, Medicina, Remontas (bet koks), Vaidyba, Įtikinėjimas, Psichoterapija, Mokslas (bet koks), Techniniai įgūdžiai (kompiuterio naudojimas) ir vienas fizinis įgūdis (jei užsiimama atletika).
 
-**Įgūdžiai:** Kalba (Sava), Tyrimas ir pasirinkite aštuonis kitus įgūdžius kaip studijų kursus, kaip tinkama aplinkai ir koncepcijai. Dažni pasirinkimai yra iš šio sąrašo: Menas (bet koks), Amatas (bet koks), Pirmoji pagalba, Įžvalga, Žinios (bet koks), Kalba (Kita), Klausymasis, Medicina, Remontas (bet koks), Pasirodymas, Įtikinėjimas, Psichoterapija, Mokslas (bet koks), Techninis (Kompiuterių naudojimas) ir vienas Fizinis įgūdis (jei dalyvauja atletikoje).
-
-**Ypatingas:** Arkaninių menų studentai gali turėti prieigą prie magijos ar burtininkystės, arba galite būti mokykloje, kad padėtumėte kontroliuoti savo supergalias, mutacijas ar psichinius gebėjimus. Žr. *Ketvirtą skyrių: Galios* dėl daugiau informacijos.
+**Specialu:** Arkanos menų studentai gali turėti prieigą prie magijos ar burtų, arba galite lankyti mokyklą, padedančią kontroliuoti supergalias, mutacijas ar psichinius gebėjimus. Daugiau informacijos rasite ketvirtame skyriuje: Galios.
 
 #### Mokytojas
 
-Esate vieno ar kelių dalykų instruktorius, mokantis grupes ar korepetitorius vienam studentui. Nesvarbu, ar įdarbintas universiteto, vidurinės mokyklos ar kitos švietimo institucijos, jūs mokote studentus akademinėje aplinkoje siekiant kažkokio pasiekimų standarto.
+Esate vieno ar kelių dalykų instruktorius, mokantis grupes arba korepetuojantis atskirą studentą. Nesvarbu, ar jus samdo universitetas, vidurinė mokykla ar kita švietimo įstaiga, jūs mokote studentus akademinėje aplinkoje siekiant tam tikrų pasiekimų standartų.
 
-**Turtas:** Vidutinis ar Pasiturintis, paprastai Vidutinis.
+**Gerovė:** Vidutinė arba pasiturinti, dažniausiai vidutinė.
 
-**Įgūdžiai:** Kalba (Sava), Įtikinėjimas, Tyrimas, Statusas, Mokymas ir pasirinkite penkis kitus įgūdžius kaip ekspertizės sritis, kaip tinkama aplinkai ir koncepcijai. Dažni pasirinkimai yra iš šio sąrašo: Menas (bet koks), Amatas (bet koks), Pirmoji pagalba, Įžvalga, Žinios (bet koks), Kalba (Kita), Klausymasis, Medicina, Remontas (bet koks), Pasirodymas, Įtikinėjimas, Psichoterapija, Mokslas (bet koks), Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Kalba (gimtoji), Įtikinėjimas, Tyrimas, Statusas, Mokymas ir penki kiti įgūdžiai kaip specializacijos sritys, atitinkančios aplinką ir koncepciją. Dažni pasirinkimai iš šio sąrašo: Menas (bet koks), Amatai (bet kokie), Pirmoji pagalba, Įžvalga, Žinios (bet kokios), Kalba (kita), Klausymas, Medicina, Remontas (bet koks), Vaidyba, Įtikinėjimas, Psichoterapija, Mokslas (bet koks), Techniniai įgūdžiai (kompiuterio naudojimas).
 
 #### Technikas
 
-Specializuojatės prižiūrint, taisant ir naudojant sudėtingus mechanizmus, kompiuterius ar kitą elektroniką, esate labai pajėgus spręsti inžinerines sistemas. Jūs neprojektuojate šių mašinų, nors galbūt žinote jas geriau nei jų kūrėjai.
+Specializuojatės sudėtingų mechanizmų, kompiuterių ar kitos elektronikos priežiūroje, taisyme ir naudojime, esate itin kompetentingas dirbant su inžinerinėmis sistemomis. Jūs neprojektuojate šių mašinų, nors tikėtina, kad išmanote jas geriau nei patys jų kūrėjai.
 
-**Turtas:** Vidutinis ar Pasiturintis.
+**Gerovė:** Vidutinė arba pasiturinti.
 
-**Įgūdžiai:** Tikslus manipuliavimas, Sunkioji technika, Klausymasis, Remontas (bet koks), Mokslas (Fizika), Tyrimas, Stebėjimas, Techninis (Kompiuterių naudojimas) ir du kiti įgūdžiai iš šio sąrašo kaip specialybė, kaip tinkama aplinkai ir koncepcijai: Amatas (bet koks), Vairavimas, Pilotavimas (bet koks).
+**Įgūdžiai:** Smulkioji manipuliacija, Sunkioji technika, Klausymas, Remontas (bet koks), Mokslas (fizika), Tyrimas, Stebėjimas, Techniniai įgūdžiai (kompiuterio naudojimas) ir du kiti įgūdžiai iš šio sąrašo kaip specializacija, atitinkanti aplinką ir koncepciją: Amatai (bet kokie), Vairavimas, Pilotavimas (bet koks).
 
 #### Vagis
 
-Pasiimate tai, ko norite, ar tai būtų išgyvenimui, ar todėl, kad jums tai patinka. Galite būti žemo lygio kišenvagis, pagarsėjęs plėšikas ar žavingas tarptautinis brangakmenių vagis. Jūs demonstruojate įstatymų nepaisymą vogdami, ar ginkluotai, ar per protingą apgaulę, slaptumą, ar derinant visus tris.
+Pasiimate tai, ko norite – tam, kad išgyventumėte, arba todėl, kad jums tai patinka. Galite būti paprastas kišenvagis, liūdnai pagarsėjęs plėšikas arba žavingas tarptautinis juvelyrinių dirbinių vagis. Jūs nepaisote įstatymų, kad vogtumėte – ginkluotai, pasitelkę klastingą apgaulę, slaptumą arba visų trijų derinį.
 
-**Turtas:** Bet koks, su žaidimo vedėjo pritarimu.
+**Gerovė:** Bet kokia, priklausomai nuo žaidimo meistro patvirtinimo.
 
-**Įgūdžiai:** Vertinimas, Venimas, Greitas kalbėjimas, Slėpimasis, Slaptumas ir penki kiti įgūdžiai iš šio sąrašo, kaip tinkama aplinkai ir koncepcijai: Derybos, Muštynės, Laipiojimas, Maskavimas, Tikslus manipuliavimas, Šaunamasis ginklas (Pistoletas, Revolveris ar Šautuvas), Griebimas, Įžvalga, Klausymasis, Šuolis, Žinios (Teisė), Įtikinėjimas, Remontas (Mechaninis) ar Stebėjimas.
+**Įgūdžiai:** Įvertinimas, Išsisukinėjimas, Greitakalbystė, Slėpimasis, Slaptumas ir penki kiti įgūdžiai iš šio sąrašo, atitinkantys aplinką ir koncepciją: Derybos, Kumštytynės, Laipiojimas, Maskavimasis, Smulkioji manipuliacija, Šaunamasis ginklas (pistoletas, revolveris arba šautuvas), Imtynės, Įžvalga, Klausymas, Šuoliai, Žinios (teisė), Įtikinėjimas, Remontas (mechaninis) arba Stebėjimas.
 
 #### Genties narys
 
-Kilę iš primityvios kultūros, esate pripažintas genties narys ir nesate susipažinę su dauguma civilizacijos elementų. Išgyvenate medžiodami ar rinkdami maistą, ir jūsų pasaulis yra mažas: jūsų kaimas ir aplinkinė aplinka.
+Kilęs iš primityvios kultūros, esate pripažintas genties narys ir nesate susipažinęs su dauguma civilizacijos elementų. Išgyvenate medžiodami arba rinkdami maistą, o jūsų pasaulis yra mažas: jūsų kaimas ir jį supanti aplinka.
 
-**Turtas:** Skurstantis iki Vargšo, egzistuojantis genties lygmeniu. Arba galite būti genties kilmingasis, su aukštesniu turto lygiu, priklausomai nuo jūsų Statuso.
+**Gerovė:** Nuo skurdžios iki vargingos, genties lygio egzistencija. Arba galite būti genties didikas, turintis aukštesnį gerovės lygį, priklausomai nuo jūsų statuso.
 
-**Įgūdžiai:** Amatas (bet koks), Venimas, Griebimas, Slėpimasis, Žinios (Gamtos istorija), Stebėjimas, Metimas, Sekimas ir du iš šių įgūdžių, kaip tinkama aplinkai: Muštynės, Laipiojimas, Pirmoji pagalba, Klausymasis, Šuolis, Žinios (Okultizmas), Artimos kovos ginklas (dažniausiai Ietis ar Lazda), Raketinis ginklas (Lankas), Kalba (Kita), Jojimas, Slaptumas, Plaukimas.
+**Įgūdžiai:** Amatai (bet kokie), Išsisukinėjimas, Imtynės, Slėpimasis, Žinios (gamtos istorija), Stebėjimas, Metimas, Sekimas ir du iš šių įgūdžių, atitinkančių aplinką: Kumštytynės, Laipiojimas, Pirmoji pagalba, Klausymas, Šuoliai, Žinios (okultizmas), Šaltasis ginklas (dažniausiai ietis arba kuoka), Nuotolinis ginklas (lankas), Kalba (kita), Jojimas, Slaptumas, Plaukimas.
 
 #### Karys
 
-Specializuojatės individualioje kovoje, išgyvendami savo refleksų ir ginklo įgūdžių dėka. Galbūt laikotės garbės kodekso, kaip riterystė ar bušido, arba esate samdinys ar barbariškas nuotykių ieškotojas. Kareiviai kovoja grupėse ar būriuose, o kariai žiūri tik į savo narsą.
+Specializuojatės individualioje kovoje, išgyvenate pasikliaudami savo refleksais ir ginklų įgūdžiais. Galbūt laikotės garbės kodekso, pavyzdžiui, riterystės ar bušido, arba esate samdinys ar barbariškas nuotykių ieškotojas. Kareiviai kovoja grupėse ar būriuose, o kariai rūpinasi tik savo meistriškumu.
 
-**Turtas:** Skurstantis iki Vidutinio, paprastai Vargšas.
+**Gerovė:** Nuo vargingos iki vidutinės, dažniausiai skurdi.
 
-**Įgūdžiai:** Muštynės, Venimas, Griebimas, Artimos kovos ginklas (bet koks), Raketinis ginklas (bet koks) ir penki kiti įgūdžiai iš šio sąrašo kaip specialybės, kaip tinkama aplinkai ir koncepcijai: Laipiojimas, Šaunamasis ginklas (bet koks), Slėpimasis, Klausymasis, Šuolis, Kalba (Kita), Kovos menai, Jojimas, Stebėjimas, Slaptumas, Plaukimas, Metimas, Sekimas.
+**Įgūdžiai:** Kumštytynės, Išsisukinėjimas, Imtynės, Šaltasis ginklas (bet koks), Nuotolinis ginklas (bet koks) ir penki kiti įgūdžiai iš šio sąrašo kaip specializacijos, atitinkančios aplinką ir koncepciją: Laipiojimas, Šaunamasis ginklas (bet koks), Slėpimasis, Klausymas, Šuoliai, Kalba (kita), Kovos menai, Jojimas, Stebėjimas, Slaptumas, Plaukimas, Metimas, Sekimas.
 
-#### Burtininkas
+#### Burotininkas
 
-Suprantate ir galite naudoti magiją ar burtininkystę. Per giedojimą ir gestą galite sukurti magiškus efektus, ir atsiduodate savo burtų repertuaro tobulinimui bei didinimui ir savo asmeninei prieigai prie galios taškų.
+Suprantate ir galite naudoti magiją arba burtus. Giedodami ir gestikuliuodami galite sukurti magiškus efektus, o patys dedate pastangas tobulindami ir plėsdami savo burtų repertuarą bei asmeninę prieigą prie galios taškų.
 
-**Turtas:** Vargšas iki Turtingo, paprastai Pasiturintis.
+**Gerovė:** Nuo vargingos iki turtingos, dažniausiai pasiturinti.
 
-**Įgūdžiai:** Amatas (bet koks), Įžvalga, Žinios (Okultizmas), du kiti Žinių (bet koks) įgūdžiai, Kalba (Kita), Klausymasis, Pasirodymas (Ritualai), Įtikinėjimas, Tyrimas.
+**Įgūdžiai:** Amatai (bet kokie), Įžvalga, Žinios (okultizmas), du kiti Žinių (bet kokie) įgūdžiai, Kalba (kita), Klausymas, Vaidyba (ritualai), Įtikinėjimas, Tyrimas.
 
-**Ypatingas:** Galite naudoti magiją ar burtininkystę. Dirbkite su savo žaidimo vedėju, kad nustatytumėte savo pradinius burtus (žr. *Ketvirtą skyrių: Galios*).
+**Specialu:** Galite naudoti magiją arba burtus. Susitarkite su savo žaidimo meistru dėl pradinių burtų (žr. ketvirtą skyrių: Galios).
 
 #### Rašytojas
 
-Rašote prozą, poeziją, scenarijus ar kokią kitą formą. Jums patogiausia bendrauti raštu, ir jūsų žodžiai turi galią linksminti, informuoti ar įtikinti tuos, kurie juos skaito.
+Rašote prozą, poeziją, scenarijus ar kitus kūrinius. Jums patogiausia bendrauti raštu, o jūsų žodžiai turi galią linksminti, informuoti arba įtikinti tuos, kurie juos skaito.
 
-**Turtas:** Vargšas iki Turtingo, paprastai Vidutinis.
+**Gerovė:** Nuo vargingos iki turtingos, dažniausiai vidutinė.
 
-**Įgūdžiai:** Menas (rašymas), Įžvalga, Kalba (Sava), Įtikinėjimas, Tyrimas ir penki kiti įgūdžiai iš šio sąrašo kaip specialybės, kaip tinka: Greitas kalbėjimas, Žinios (bet koks), Kalba (Kita), Klausymasis, Statusas, Techninis (Kompiuterių naudojimas).
+**Įgūdžiai:** Menas (rašymas), Įžvalga, Kalba (gimtoji), Įtikinėjimas, Tyrimas ir penki kiti įgūdžiai iš šio sąrašo kaip specializacijos, atitinkančios aplinką: Greitakalbystė, Žinios (bet kokios), Kalba (kita), Klausymas, Statusas, Techniniai įgūdžiai (kompiuterio naudojimas).
 
 ## Paskutiniai potėpiai
 
-Šiuo metu baigėte veikėjo kūrimą, darant prielaidą, kad jūsų žaidimas neturi magiškų burtų, mutacijų, psichinių gebėjimų, burtininkystės ar supergalių jūsų pradiniams veikėjams. Jei šie yra prieinami, eikite į *Ketvirtą skyrių: Galios* ir pradėkite juos rinktis su žaidimo vedėjo pagalba.
+Šiame etape baigėte kurti veikėją, darant prielaidą, kad jūsų žaidime nėra magijos burtų, mutacijų, psichinių gebėjimų, burtų ar supergalių pradiniams veikėjams. Jei jie yra prieinami, pereikite prie ketvirto skyriaus: Galios ir pradėkite juos rinktis padedami žaidimo meistro.
 
-Kilmė dažnai yra svarbi veikėjo dalis, tačiau tai mažiausiai kiekybiškai įvertinama žaidimo taisyklėse. Pabandykite sugalvoti patirties ar tapatybės elementus, kurie skatina jūsų veikėją, užduodami kelis paprastus klausimus, tokius kaip bet kurie iš šių:
+Biografija dažnai yra svarbi veikėjo dalis, tačiau tai mažiausiai kiekybiškai įvertinamas žaidimo taisyklių aspektas. Pabandykite sugalvoti patirties ar tapatybės elementų, kurie skatina jūsų veikėją, užduodami keletą paprastų klausimų, pavyzdžiui:
 
 * Kokias tragedijas ir sėkmes jie patyrė?
 
 * Kur jie užaugo?
 
-* Kas buvo įtakingiausias asmuo jų gyvenime?
+* Kas buvo įtakingiausias žmogus jų gyvenime?
 
-* Kas yra jų šeima? Ar jų tėvai vis dar gyvi?
+* Kas yra jų šeima? Ar tėvai vis dar gyvi?
 
-* Ar jie įsimylėję? Ar yra (ar buvo) susituokę? Vaikai?
+* Ar jie įsimylėję? Ar yra arba buvo susituokę? Ar turi vaikų?
 
 * Ar jie laimingi gyvenime?
 
@@ -1105,54 +1102,54 @@ Kilmė dažnai yra svarbi veikėjo dalis, tačiau tai mažiausiai kiekybiškai �
 
 * Ką jie nori pasiekti?
 
-Galite išnagrinėti savo veikėjo lapą ir apmąstyti pasirinkimus, kuriuos padarėte kurdami veikėją. Galbūt kai kurie įgūdžiai rodo asmenybės tipą, pavyzdžiui, stropus, eklektiškas, smurtinis ar koks nors kitas toks būdvardis. Galite pabandyti surasti veikėjo „balsą“ ar kitą raiškos būdą, kuris atgaivina juos prie žaidimų stalo. Tačiau ne visi nori būti metodiniu aktoriumi, todėl nesijauskite, kad turite ateiti prie stalo su gilia asmenybe ir veikėjo praeities istorija. Kai kas iš to ateis per vaidmenų žaidimo patirtį, o kai kas ateis natūraliai, kai jūsų veikėjas susidurs su nuotykiais ir sunkumais.
+Galite peržiūrėti savo veikėjo lapą ir apmąstyti pasirinkimus, kuriuos padarėte kūrimo metu. Galbūt kai kurie įgūdžiai rodo asmenybės tipą, pavyzdžiui, stropus, eklektiškas, smurtinis ar kitoks būdvardis. Galite pabandyti rasti veikėjo „balsą“ ar kitą raiškos būdą, kuris priverčia juos atgyti prie žaidimų stalo. Tačiau ne kiekvienas nori būti metodiniu aktoriumi, todėl nesijauskite įpareigoti prie stalo ateiti su išsamiu asmenybės aprašymu ir priešistore. Dalis to ateis žaidimo metu, o dalis – natūraliai, kai veikėjas susidurs su nuotykiais ir sunkumais.
 
-Sunkioji dalis baigta – dabar gali prasidėti linksmybės!
+Sunkioji dalis baigėsi – dabar gali prasidėti linksmybės!
 
-> ### Kultūra ir veikėjai (parinktis)
+> ### Kultūra ir veikėjai (pasirinktis)
 > 
-> Daugelis aplinkų, ypač istorinių ar fantastinių, siūlo skirtingas ir originalias kultūras, paprastai su savybėmis, būdingomis jų gyventojams. Šios savybės gali būti apibrėžtos kaip rasės, kultūros ar net visi planetos gyventojai. Jūsų žaidimo vedėjas gali nuspręsti sukurti kultūrinę kilmę, tinkamą originaliai ar pritaikytai aplinkai. Kartais tai gali nuvesti prie stereotipų, ir jūsų žaidimo vedėjas turėtų juos svarstyti atsargiai.
+> Daugelis aplinkų, ypač istorinių ar fantastinių, siūlo skirtingas ir originalias kultūras, paprastai turinčias jų gyventojams būdingų savybių. Šios savybės gali būti apibrėžtos kaip rasės, kultūros ar net visi planetos gyventojai. Jūsų žaidimo meistras gali nuspręsti sukurti kultūrinius fonus, tinkamus originaliai ar adaptuotai aplinkai. Kartais tai gali paskatinti stereotipus, todėl žaidimo meistras turėtų juos vertinti atsargiai.
 > 
-> Kultūrinė kilmė nėra būtina – kultūros nariai neišvengiamai yra pakankamai skirtingi, kad leistų įvairų įgūdžių ir charakteristikų rinkinį, tačiau jūs ir jūsų žaidimo vedėjas galite jausti, kad jie prideda vertingą elementą žaidimo aplinkai. Kiekviename kultūrinės kilmės aprašyme gali būti kai kurie arba visi šie dalykai:
+> Kultūriniai fonai nėra būtini – vienos kultūros nariai neišvengiamai pakankamai skiriasi, kad būtų galima turėti įvairų įgūdžių ir savybių rinkinį, tačiau jūs ir jūsų žaidimo meistras galite nuspręsti, kad jie suteikia vertingą elementą žaidimo aplinkai. Kiekviename kultūrinio fono aprašyme gali būti kai kurie arba visi šie punktai:
 > 
-> **Vadovas:** Šalies ar regiono valdovas, prezidentas, valdžia ar kita valdymo institucija.
+> **Vadovas:** Valdovas, prezidentas, autoritetas ar kita valdančioji šalies ar regiono institucija.
 > 
-> **Kultūra:** Vyraujanti srities kultūra. Paprastai žmonės, nors *Vienuoliktas skyrius: Būtybės* turi ne žmonių rasių pavyzdžių.
+> **Kultūra:** Vyraujanti vietovės kultūra. Paprastai žmogaus, nors vienuoliktame skyriuje: Būtybės pateikiami ne žmogaus rasių pavyzdžiai.
 > 
-> **Išvaizda:** Vienas ar daugiau skiriamųjų bruožų gali būti būdingi kultūrai ar grupei, pavyzdžiui, spalva ar veido bruožai.
+> **Išvaizda:** Kultūrai ar grupei gali būti būdingi vienas ar keli skiriamieji bruožai, pavyzdžiui, spalvos ar veido bruožai.
 > 
-> **Elgsena:** Jei tinka, asmenybės bruožai gali būti būdingi kultūrai ar grupei. Tačiau ne visi yra tokie, ir į tai galima nekreipti dėmesio, jei norite.
+> **Elgsena:** Jei tinka, kultūrai ar grupei gali būti būdingi tam tikri asmenybės bruožai. Tačiau ne visi yra tokie, ir, jei pageidaujama, į tai galima nekreipti dėmesio.
 > 
-> **Kalba(os):** Kalba ar kalbos, dažniausiai vartojamos ar žinomos šio regiono vietinių.
+> **Kalba (-os):** Kalba ar kalbos, kuriomis dažniausiai šneka arba kurias žino šio regiono vietiniai gyventojai.
 > 
-> **Profesijos:** Profesijos, būdingos regiono žmonėms. Tai nėra vienintelės, kurios čia praktikuojamos – jos yra tiesiog dažniausios ar simboliškiausios visuomenei. Trys yra geras jų skaičius.
+> **Profesijos:** Profesijos, būdingos regiono žmonėms. Tai ne vienintelės profesijos, praktikuojamos čia – jos tiesiog yra labiausiai paplitusios arba reprezentuojančios visuomenę. Trys yra geras skaičius.
 > 
-> **Religijos:** Koks dievas ar dievai yra dažniausiai garbinami šiame regione? Jei ištikimybė vaidina vaidmenį kampanijoje, tada religija turėtų būti įtraukta.
+> **Religijos:** Koks dievas ar dievai dažniausiai garbinami šiame regione? Jei kampanijoje svarbų vaidmenį vaidina ištikimybė, tuomet reikėtų įtraukti ir religiją.
 > 
-> **Ginklai ir šarvai:** Istorinėse ar fantastinėse aplinkose, viduramžių stiliaus ginklai ir šarvai dažnai yra gana skirtingi šalyse, o kiekvienos žemės armijos yra linkusios treniruotis su skirtingais ginklų stiliais. Tai yra mažiau išskirtina, kai aplinkos tampa modernesnės, nors jūsų žaidimo vedėjas gali naudoti šią informaciją aprūpindamas ne žaidėjų veikėjus.
+> **Ginklai ir šarvai:** Istorinėse ar fantastinėse aplinkose viduramžių stiliaus ginklai ir šarvai dažnai labai skiriasi priklausomai nuo šalies, o kiekvieno krašto kariuomenės dažniausiai treniruojasi su skirtingais ginklų stiliais. Tai tampa mažiau išskirtina, kai aplinka tampa modernesnė, nors jūsų žaidimo meistras gali pasinaudoti šia informacija įrengdamas ne žaidėjų valdomus veikėjus.
 > 
-> **Kultūriniai įgūdžiai:** Kai kurie įgūdžiai gali būti dažnai mokomi ir naudojami šioje kultūroje kaip socializacijos ir bendro išsilavinimo dalis. Jūsų žaidimo vedėjo nuožiūra šie įgūdžiai gali gauti nedidelę premiją. Jei naudojamos įgūdžių premijos, rekomenduojama, kad kiekviena kultūra gautų lygias premijas, nors skirtingiems įgūdžių rinkiniams.
+> **Kultūriniai įgūdžiai:** Kai kurie įgūdžiai gali būti plačiai mokomi ir naudojami šioje kultūroje kaip socializacijos ir bendrojo išsilavinimo dalis. Žaidimo meistro nuožiūra, šie įgūdžiai gali gauti nedidelį priedą. Jei naudojami įgūdžių priedai, rekomenduojama, kad kiekviena kultūra gautų vienodus priedus, tačiau skirtingiems įgūdžių rinkiniams.
 > 
-> **Daiktai:** Tai gali apimti svarbų daiktą, būdingą asmeniui iš šios kultūros, dažnai turintį religinę ar socialinę reikšmę. Jis neturi būti vertingas, ir veikėjai iš šios kultūros nėra įpareigoti išlaikyti šio daikto nuosavybės.
+> **Daiktai:** Tai gali apimti svarbų daiktą, būdingą šios kultūros atstovui, dažnai turintį religinę ar socialinę reikšmę. Jis neprivalo būti vertingas, ir šios kultūros veikėjai neprivalo jo išlaikyti.
 
 > ### Naujų profesijų kūrimas
 > 
-> Jei šis profesijų sąrašas nesiūlo profesijos, kuria norėtumėte būti, galite sukurti savo su žaidimo vedėjo pritarimu. Jūsų žaidimo vedėjas taip pat gali norėti sukurti naujų profesijų konkrečiai aplinkai.
+> Jei šiame profesijų sąraše nėra profesijos, kuria norėtumėte, kad būtų jūsų veikėjas, galite sukurti savo, gavę žaidimo meistro pritarimą. Jūsų žaidimo meistras taip pat gali norėti sukurti naujas profesijas tam tikrai aplinkai.
 > 
-> Pirmiausia aprašykite naują profesiją savo žaidimo vedėjui. Nustatykite, ar ši nauja profesija yra panaši į kitą čia pateiktą. Jei ji beveik identiška esamai, tada galite pakeisti keletą būtinų įgūdžių, kol nauja profesija atitiks jūsų koncepciją. Taip pat galite pakeisti turto lygį pagal naują profesiją.
+> Pirmiausia apibūdinkite naują profesiją savo žaidimo meistrui. Nustatykite, ar ši nauja profesija panaši į kitą čia pateiktą. Jei ji beveik identiška esamai, galite pakeisti kelis būtinus įgūdžius, kol nauja profesija atitiks jūsų koncepciją. Taip pat galite keisti gerovės lygį pagal naują profesiją.
 > 
-> Pavyzdžiui, *nusprendžiate, kad „taksi vairuotojas“ yra nauja profesija. Jūsų žaidimo vedėjas pripažįsta, kad tai iš esmės sausumos Pilotas profesijos versija. Iš čia jūs ir jūsų žaidimo vedėjas pasirenkate pakeisti savo veikėjo turto lygį iš Vargšo į Vidutinį ir pakeisti įgūdžių sąrašą į: Derybos, Vairavimas (Automobilis), Žinios (Buhalterija), Žinios (Regionas: Miestas), Klausymasis, Orientavimasis, Kalba (Kita), Remontas (Mechaninis) ir Stebėjimas.*
+> Pavyzdžiui, *nusprendžiate, kad „taksi vairuotojas“ yra nauja profesija. Žaidimo meistras pripažįsta, kad tai iš esmės yra sausumos piloto profesijos versija. Tada jūs ir žaidimo meistras nusprendžiate pakeisti veikėjo gerovės lygį iš vargingo į vidutinį ir pakeisti įgūdžių sąrašą į: Derybos, Vairavimas (automobilis), Žinios (apskaita), Žinios (regionas: miestas), Klausymas, Navigacija, Kalba (kita), Remontas (mechaninis) ir Stebėjimas.*
 > 
-> *Voila, taksi vairuotojo profesija!*
+> *Štai, taksi vairuotojo profesija!*
 > 
 > Jei norite sukurti visiškai naują profesiją:
 > 
-> * Nuspręskite profesijos pavadinimą.
+> * Nuspręskite dėl profesijos pavadinimo.
 > 
-> * Aprašykite (žodžiu arba raštu) profesiją savo žaidimo vedėjui, įskaitant tai, ką jie veikia, kokius mokymus gali turėti ir galbūt jų pozicijos visuomenėje indikatorių.
+> * Apibūdinkite (žodžiu ar raštu) profesiją savo žaidimo meistrui, įskaitant tai, ką jie veikia, kokius mokymus gali būti baigę ir galbūt nurodykite jų padėtį visuomenėje.
 > 
-> * Nuspręskite tinkamą turto lygį ar turto lygių diapazoną.
+> * Nuspręskite dėl tinkamo gerovės lygio ar gerovės lygių diapazono.
 > 
-> * Pasirinkite dešimt įgūdžių, kurie yra būtini ar dažniausiai naudojami šios profesijos nario. Tai taip pat gali apimti „pasirinkite vieną (ar daugiau) iš šių“ parinktį, kol bendras prieinamų įgūdžių skaičius yra lygus dešimčiai.
+> * Pasirinkite dešimt įgūdžių, kurie yra būtini arba labiausiai naudojami šios profesijos atstovo. Tai taip pat gali apimti parinktį „pasirinkite vieną (ar daugiau) iš šių“, su sąlyga, kad bendras galimų įgūdžių skaičius yra lygus dešimt.
 > 
->   Pavyzdžiui, *galite norėti žaisti visiškai naują profesiją: profesionalus vertėjas. Jūsų žaidimo vedėjas sutinka, kad tai yra pakankamai unikali profesija, kad pateisintų naują aprašymą. Pirmiausia, jūs abu nusprendžiate, kad vertėjo turto lygis paprastai yra Vidutinis. Antra, pradiniams įgūdžiams pasirenkate: Etiketas, Greitas kalbėjimas, Įžvalga, Žinios (Antropologija), Žinios (Lingvistika), Kalba (Sava), Kalba (Kita), Klausymasis, Įtikinėjimas ir Tyrimas. Nauja profesija baigta ir paruošta naudojimui.*
+>   Pavyzdžiui, *galite norėti žaisti visiškai nauja profesija: profesionalus vertėjas. Žaidimo meistras sutinka, kad tai pakankamai unikali profesija, verta naujo aprašymo. Pirmiausia abu nusprendžiate, kad vertėjo gerovės lygis paprastai yra vidutinis. Antra, pradiniams įgūdžiams pasirenkate: Etiketas, Greitakalbystė, Įžvalga, Žinios (antropologija), Žinios (lingvistika), Kalba (gimtoji), Kalba (kita), Klausymas, Įtikinėjimas ir Tyrimas. Nauja profesija paruošta ir skirta naudojimui.*
