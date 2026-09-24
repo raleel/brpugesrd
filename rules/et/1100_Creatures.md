@@ -1,74 +1,74 @@
 # 11\. Olendid
 
-See peatükk pakub laia valikut võimalikke kohtumisi, olgu nendeks kindlad liitlased, ustavad lemmikloomad, metsikud loomad või üleloomulikud olendid, samuti näidistegelasi minevikust, fantaasiamaailmadest, tänapäevast ja tulevikust. Reeglite seisukohalt pole olendi ja mitte-mängijategelase (NPC) vahel vahet – mängujuht iseloomustab neid kirjelduse ja rollimänguga. Nad kõik järgivad samu reegleid, mis mängijate tegelased. Siiski esindab igaüks neist sobivat isendit ja pole tasakaalustatud samamoodi nagu mängijategelane. Võid kasutada neid olendeid sellisena, nagu nad on, või neid vastavalt soovile kohandada. Nendes kirjeldustes ei kasutata valikulisi reegleid, kuigi võid neid vastavalt vajadusele lisada või muuta (vt „Olendite ja mitte-mängijategelaste kohandamine“).
+See peatükk pakub laia valikut võimalikke kohtumisi, olgu need siis kindlad liitlased, ustavad lemmikloomad, metsikud loomad või üleloomulikud olendid, samuti näidis-tegelasi minevikust, fantaasiamaailmadest, tänapäevast ja tulevikust. Reeglite seisukohast ei ole olendil ja mitte-mängija tegelasel (NPC) mingit vahet – mängujuht iseloomustab neid kirjelduse ja rollimängu kaudu. Kõik nad järgivad samu reegleid mis tegelased. Siiski esindab igaüks neist sobivat näidist ja nende tasakaal ei ole sama mis mängija tegelasel. Võid kasutada neid olendeid sellisena, nagu nad on, või neid soovi korral kohandada. Nendes kirjeldustes ei kasutata vabatahtlikke reegleid, kuigi võid neid vastavalt vajadusele lisada või muuta (vt Olendite ja mitte-mängija tegelaste kohandamine).
 
-Kõik kirjed on mugavuse huvides kirjeldatud kui „olendid“, kuigi need võivad olla inimesed või elutud masinad.
+Kõik kirjed on mugavuse huvides kirjeldatud kui "olendid", kuigi need võivad olla inimesed või elutud masinad.
 
-## Kirjete formaat
+## Kirjete vorming
 
-Peaaegu iga olend ja mitte-mängijategelane järgib sama vormingut, kuigi looduslikud loomad on esitatud lühendatud tabelis.
+Peaaegu iga olend ja mitte-mängija tegelane järgib sama vormingut, ehkki looduslikud loomad on esitatud lühendatud tabelis.
 
 * **Nimi:** Üldine nimetus.
-* **Kirjeldus:** Lühiteave kirje kohta.
-* **Omadused:** Omadused on esitatud nii täringuveeremi vahemikuna kui ka keskmisena (allpool). Mõnel kirjel võivad omadused puududa: see on kas tühine või ei ole kohaldatav (vt „Omadusteta olendid“).
-* **Elupunktid (HP):** Tavaliselt SIZ ja CON keskmine; mõnede kirjete puhul võib elupunkte arvutada teisiti, näiteks POW või mõne muu omaduse järgi. 1 elupunkti juures on elusolend teadvuseta või muul viisil teovõimetu ning kui see langeb 0-ni või alla selle, olend sureb.
-* **Liikumiskiirus (MOV):** Esmalt on loetletud peamine liikumisviis. Liikumatutel olenditel MOV-määr puudub.
-* **Kahjumodifikaator (DM):** Keskmine keskmise olendi jaoks, kui see on olemas. Vajadusel arvuta suuremate või väiksemate isendite puhul ümber.
-* **Soomus (Armor):** Soomuse väärtus ja tüüp, kui see on olemas.
-* **Rünnakud:** Rünnaku tüüp, oskuse tase ja kahju veeretamine. Rünnakute puhul tähendab „+dm“, et see on kaasatud, ja „+½dm“ on juhul, kui kahjumodifikaator on poolitatud. Siin on märgitud erilised võitlusvõimed või tingimused. Kõik saadaolevad rünnakud toimuvad samal DEX-i järjekorranumbril, kui pole teisiti määratud. Üldiselt teeb küünistega rünnak 1D6+dm ja hammustus või sarved 1D3+dm.
-* **Oskused:** Keskmise kohtumise jaoks kõige asjakohasemad oskused. Loetlemata oskuste puhul on inimestel vaikimisi baastõenäosused ja täiendavad oskused peaks mängujuht vastavalt määrama (vt „Oskuste tasemete mõõtmine“).
-* **Võimed (Powers):** Kõik võimed, mida keskmisel isendil on, vajadusel täpsustatud tüüpidega.
+* **Kirjeldus:** Lühike teave kirje kohta.
+* **Omadused:** Omadused on esitatud nii veeretatud vahemikuna kui ka keskmisena (allpool). Mõnel kirjel võivad omadused puududa: see on kas ebaoluline või ei ole kohaldatav (vt Omadusteta olendid).
+* **Elupunktid (HP):** Tavaliselt SUU ja VAS keskmine, mõne kirje puhul võivad elupunktid olla arvutatud teisiti, näiteks VÄG või mõne muu omaduse järgi. 1 elupunktiga on elusolend teadvuseta või muul viisil teovõimetu ning kui see langeb 0-ni või alla selle, siis ta sureb.
+* **Liikumiskiirus (MOV):** Esimesena on loetletud esmane liikumisviis. Liikumatutel olenditel MOV-määr puudub.
+* **Kahjumodifikaator (DM):** Keskmine tavalise olendi jaoks, kui see on olemas. Vajadusel arvuta suuremate või väiksemate isendite puhul ümber.
+* **Soomus:** Soomuse väärtus ja soomuse tüüp, kui see on olemas.
+* **Rünnakud:** Rünnaku tüüp, oskuse tase ja kahju veeretamine. Rünnakute puhul tähendab "+dm", et see on kaasatud, ja "+½dm" on juhul, kui kahjumodifikaator on poolitatud. Siin on märgitud erilised võitlusvõimed või tingimused. Kõik saadaolevad rünnakud toimuvad samal OSA järgus, kui pole teisiti määratletud. Üldiselt teeb küünistega rünnak 1D6+dm ning hammustus või sarved 1D3+dm.
+* **Oskused:** Kõige asjakohasemad oskused tavalise kohtumise jaoks. Loetlemata oskuste puhul on inimestel vaikeväärtusena baastõenäosused ja täiendavad oskused peaks mängujuht vastavalt vajadusele määrama (vt Oskuste tasemete mõõtmine).
+* **Võimed:** Kõik võimed, mis tavalisel isendil on, vajadusel tüübid täpsustatud.
 
-Võimepunkte pole eraldi loetletud, kuid need on vastavuses POW-ga, kus kohaldatav.
+Võimepunkte pole loetletud, kuid need on võrdsed VÄG-ga, kus see on kohaldatav.
 
 ### Omadusteta olendid
 
-Mõnel olendil on teatud omaduste asemel „—“, mis tähendab, et see pole kohaldatav või selle väärtus on 0. Olendit, kellel puudub omadus, ei saa mõjutada rünnakud ega tingimused, mis seda omadust mõjutavad. Järgnevalt on toodud juhised olendite jaoks, kellel puuduvad konkreetsed omadused:
+Mõnel olendil on teatud omaduste asemel „—“ , mis tähendab, et see pole kohaldatav või selle väärtus on 0. Olend, kellel puudub omadus, ei saa olla mõjutatud rünnakutest selle omaduse vastu ega tingimustest, mis seda omadust mõjutavad. Allpool on juhised olendite jaoks, kellel puuduvad konkreetsed omadused:
 
-* **Tugevus (STR):** Olend, kellel puudub STR, ei saa füüsiliste objektidega suhelda, välja arvatud nende ümber liikumine.
-* **Kehastruktuur (CON):** Olend, kellel puudub CON, on immuunne haigustele, kiirgusele, mürgile ja muudele rünnakutele, mis nõuavad vastupanuviseviset vastu CON-i. Ta ei väsi ega kurna kunagi. Kui tal on SIZ ja materiaalne kohalolek, põhinevad tema elupunktid teisel omadusel.
-* **Suurus (SIZ):** Olendil, kellel puudub SIZ, puudub füüsiline keha või on see mikroskoopiline. Ta ei saa tavaliselt füüsiliste objektidega suhelda. Tema elupunktid põhinevad tõenäoliselt CON-il, kui tal üldse on tavapäraseid elupunkte.
-* **Intelligentsus (INT):** Intelligentsetel, tundevõimelistel olenditel on tavaline INT-vahemik, samas kui loomadel ja teistel mittetundevõimelistel olenditel on „fikseeritud“ INT, üldiselt 3–5, ja neid juhib instinkt, mitte mõistus. Fikseeritud INT-ga või INT-ta olendit ei mõjuta ratsionaalset mõtlemist mõjutavad võimed, kuigi teda võivad mõjutada emotsioone manipuleerivad võimed.
-* **Võim (POW):** Isegi ilma POW-ta võib olendil siiski olla võimepunkte, kuid ta ei regenereeri neid tavapäraselt. Selle asemel on tal mingi võime või erioskus, mis võimaldab tal võimepunkte juurde saada. Sarnaselt elusolenditele on ta 0-ni jõudes „teadvuseta“, kuni ta kuidagi taastab vähemalt 1 võimepunkti.
-* **Osavus (DEX):** Olend, kellel puudub DEX, on kas liikumatu või põhiliselt paigalolev. Kui tal on rünnak, toimub see DEX-i järjekorranumbril 1.
-* **Karisma (CHA):** Kuigi kõigil olenditel on mingisugune CHA, on see harva asjakohane neile, kes ei kuulu samasse liiki. Vajadusel määra CHA 1D6 põhjal tavaliste ja iseloomutute olendite puhul kuni 6D6+ jumaliku iluga olendite puhul. Vajadusel muuda teist liiki olendi CHA-d ajutiselt –10 võrra, kui suhtled väljaspool oma liiki.
+* **Jõud (JÕU):** Olend, kellel puudub JÕU, ei saa füüsiliste objektidega suhelda, välja arvatud nendest mööda liikumine.
+* **Vastupidavus (VAS):** Olend, kellel puudub VAS, on immuunne haiguste, kiirguse, mürgi ja muude rünnakute suhtes, mis nõuavad vastupanuveeretust VAS-i vastu. Ta ei ole kunagi väsinud ega kurnatud. Kui tal on SUU ja materiaalne kohalolu, põhinevad tema elupunktid teisel omadusel.
+* **Suurus (SUU):** Olend, kellel puudub SUU, ei oma füüsilist keha või on mikroskoopiline. Ta ei saa tavaliselt füüsiliste objektidega suhelda. Tema elupunktid põhinevad tõenäoliselt VAS-il, kui tal üldse on tavapäraseid elupunkte.
+* **Intellekt (INT):** Intelligentsetel, tundlikel olenditel on tavaline INT vahemik, samas kui loomadel ja teistel mittetundlikel olenditel on „fikseeritud“ INT, üldiselt 3–5, ja neid juhib instinkt, mitte mõistus. Fikseeritud INT-ga või INT-ta olendit ei mõjuta mõistlikku mõtlemist mõjutavad võimed, kuigi teda võivad mõjutada emotsioone manipuleerivad võimed.
+* **Vägi (VÄG):** Isegi ilma VÄG-ta võib olendil siiski olla võimepunkte, kuid ta ei regenereeri neid tavapäraselt. Selle asemel on tal mingi võime või erioskus, mis võimaldab tal võimepunkte saada. Nagu elusolendite puhul, on ta 0-ni jõudes „teadvuseta“, kuni ta kuidagi taastab vähemalt 1 võimepunkti.
+* **Osavus (OSA):** Olend, kellel puudub OSA, on kas liikumatu või põhiliselt paigal. Kui tal on rünnak, toimub see OSA järgus 1.
+* **Karisma (KAR):** Kuigi kõigil olenditel on mingi KAR-i vorm, on see harva asjakohane neile, kes ei ole sama liiki. Vajadusel määra KAR 1D6 põhjal tavaliste ja iseloomutute olendite puhul ning kuni 6D6+ jumaliku iluga olendite puhul. Kui see on asjakohane, muuda teist liiki olendi KAR-i ajutiselt –10 võrra, kui suhtled nendega väljaspool oma liiki.
 
-> ### Olendid mängijategelastena (Valikuline)
+> ### Olendid mängija tegelastena (valikuline)
 > 
-> Mängijad võivad soovida kogeda mängu, kehastades mittetoimuvate rasside liikmeid (see bestiaarium nimetab iga mitte-inimest „olendiks“), eriti maailmades, kus nad on kohased, nagu fantaasia või ulme. Soov mängida inimkonnast radikaalselt erinevaid olendeid on rollimängude puhul loomulik soov ja kui see sobib mängujuhi maailmavalikuga, tuleks seda lubada. Siiski on mõningaid olendeid lihtsam rollimängida kui teisi.
+> Mängijad võivad soovida kogeda mängu, mängides mitte-inimrasside liikmeid (see bestiaarium kutsub iga mitte-inimest "olendiks"), eriti fantaasia- või ulmesätetes, kus nad on sobivad. Soov mängida inimestest radikaalselt erinevaid olendeid on rollimängude puhul loomulik soov ja kui see sobib mängujuhi valitud sätetega, tuleks seda lubada. Siiski on mõningaid olendeid lihtsam rollimängida kui teisi.
 > 
-> Puudulikud olendid (need, kellel puudub väärtus ühes või mitmes omaduses) on sageli liiga piiratud, et pakkuda naudingut. Lisaks võib mängijal olla vähem nauditav kehastada olendit, kelle INT-omadus on genereeritud vähem kui 3D6 (või 2D6+6) veeretamisega.
+> Puudulikud olendid (need, kellel puudub väärtus ühes või enamas omaduses) on sageli liiga piiratud, et pakkuda naudingut. Lisaks võib olla vähem nauditav mängida olendit, kelle INT-omadus genereeritakse väiksema kui 3D6 (või 2D6+6) veeretusega.
 > 
-> Mängujuht võib samuti heidutada mängijaid proovimast kehastada äärmiselt võimsaid või filosoofiliselt eemaletõukavaid olendeid, sõltuvalt maailmast ja konkreetsest kampaaniast. Näiteks fantaasiamaailmas, kus enamik mängijate tegelasi on haldjad, ei pruugi mängujuht lubada mängijatel luua trolle või kääbuseid, kuna need (traditsioonilised) haldjate vaenlased tekitavad mängijate tegelaste rühmas konflikte. Lisaks võib tänapäevane õuduskampaania, kus mängijad võitlevad okultsete ohtudega, olla deemonlikule või ingellikule mängijategelasele täiesti sobimatu (vaatamata nende sobivusele maailma). Samamoodi, kui olend tekitaks põhjendamatuid raskusi oma olemuse tõttu, nagu äärmuslik suurus, sotsiaalne vaenulikkus või kultuuriline roll, peaks mängujuht keelama mängijatel valida seda mängijategelase rassina. Kõik sellised otsused on mängujuhi äranägemisel ja mängija peaks küsima mängujuhilt, kas kampaanias on lubatud konkreetset tüüpi olend.
+> Mängujuht võib samuti heidutada mängijaid proovimast rollimängida äärmiselt võimsaid või filosoofiliselt ebameeldivaid olendeid, olenevalt sättest ja konkreetsest kampaaniast. Näiteks fantaasiasättes, kus enamik mängija tegelasi mängib elfe, ei pruugi mängujuht lubada mängijatel luua trolli- või kääbus-mängija tegelasi, kuna need (traditsioonilised) elfi-vaenlased toovad mängija tegelaste rühma konflikte. Lisaks võib tänapäevane õuduskampaania, kus mängijad võitlevad okultsete ohtudega, olla deemonlikule või ingellikule mängija tegelasele täiesti sobimatu (vaatamata nende sobivusele sättele). Samuti, kui olend tekitaks oma olemuse tõttu põhjendamatuid raskusi, nagu äärmuslik suurus, sotsiaalne vaen või kultuuriline roll, peaks mängujuht keelama mängijatel teda mängija tegelase rassina valida. Kõik sellised otsused on mängujuhi äranägemisel ja mängija peaks küsima mängujuhilt, kas on lubatud kampaanias konkreetset tüüpi olendit mängida.
 > 
-> Peale nende hoiatuste on kõik käesoleva peatüki olendid esitatud nii üksikasjalikult, kui on vaja mängijategelasena kasutamiseks, kuigi mängujuht võib soovida neid kirjeid oma konkreetse maailma ja kampaania jaoks laiendada. Enamikul juhtudel eeldatakse, et need statistilised andmed esindavad olendite täiskasvanud või küpseid versioone, mis tähendab, et mängujuht peaks suutma piirata mängijategelase versioonile kättesaadavate võimete valikut, eeldades, et aja jooksul võib mängijategelane õppida neid täiendavaid võimeid ja erioskusi.
+> Neid hoiatusi kõrvale jättes on kõik selle peatüki olendid esitatud nii üksikasjalikult, kui on vaja mängija tegelasena kasutamiseks, ehkki mängujuht võib soovida neid kirjeid oma konkreetse sätte ja kampaania jaoks laiendada. Enamikul juhtudel eeldatakse, et need statistilised andmed esindavad olendite täiskasvanud või küpseid versioone, mis tähendab, et mängujuht peaks suutma piirata olendi mängija tegelase versioonile saadaolevate võimete valikut, eeldades, et aja jooksul võib olendi mängija tegelane need täiendavad võimed ja erioskused õppida.
 > 
-> Et valida, kas konkreetne olend sobib kampaaniasse mängijategelasena, peaks mängujuht esitama kolm küsimust:
+> Et valida, kas konkreetne olend sobib kampaaniasse mängija tegelasena või mitte, peaks mängujuht küsima kolm küsimust:
 > 
-> * **Kas selle olendi mängijategelase versioon on kampaania maailmas sobimatu?**
+> * **Kas selle olendi mängija tegelase versioon on kampaania sätte jaoks sobimatu?**
 > 
-> * **Kas see olend tekitab teistele mängijatele kampaania jooksul raskusi?**
+> * **Kas see olend põhjustab teistele mängijatele kampaania jooksul raskusi?**
 > 
-> * **Kas see olend viib kampaania tasakaalust välja?**
+> * **Kas see olend viib ülejäänud kampaania tasakaalust välja?**
 > 
-> Kui vastus mõnele neist küsimustest on „Jah“, soovitatakse mängujuhil keelata olendi kasutamine mängijategelasena või teha seda kõige rangemate tingimuste või erilubadega.
+> Kui vastus mõnele neist küsimustest on „Jah“, soovitatakse mängujuhil olendit mängija tegelasena kasutamiseks mitte lubada või teha seda kõige rangemate tingimuste või eriliste lubadustega.
 
-> ### Mõistuse (SAN) kaotus ja olendid
+> ### Mõistuse kaotus ja olendid
 > 
-> See peatükk sisaldab palju olendeid, kes võivad tegelastel mõistuse kaotada, kui neid vaadata (vt „Mõistus“). Järgmised olendid võivad põhjustada neid SAN-i kaotusi, kui tehakse mõistuse vise.
+> See peatükk sisaldab palju olendeid, mis võivad panna tegelasi mõistust kaotama, kui neid nähakse (vt Mõistus). Järgmised olendid võivad neid MÕISTUSE kaotusi põhjustada, kui tehakse mõistuse veeretust.
 > 
-> | Olend | SAN vise õnnestub | SAN vise ebaõnnestub |
+> | Olend | MÕISTUSE veeretamine õnnestub | MÕISTUSE veeretamine ebaõnnestub |
 > | :---- | :---- | :---- |
 > | Tulnukas, Hall | 0 | –1D6 |
 > | Tulnukas, Xenomorph | 1 | –1D8 |
-> | Ingel | 0 (või +1D3 SAN) | –1D3 |
-> | Mõik (Blob) | 1 | –1D20 |
+> | Ingel | 0 (või +1D3 MÕISTUST) | –1D3 |
+> | Mõrtsukmölakas | 1 | –1D20 |
 > | Küborg (Groteskne) | 0 | –1D4 |
-> | Deemon, Suur | 1D3 | –2D6 |
-> | Deemon, Väike | 1 | –1D6 |
+> | Deemon, Suurem | 1D3 | –2D6 |
+> | Deemon, Väiksem | 1 | –1D6 |
 > | Elementaal | 0 | –1D4 |
 > | Vaim | 0 | –1D4 (või rohkem) |
-> | Ghoul | 0 | –1D6 |
+> | Ghouli | 0 | –1D6 |
 > | Muumia | 1 | –1D8 |
 > | Mutant (Groteskne) | 0 | –1D4 |
 > | Robot, Tapja | 0 | –1D4 |
@@ -77,90 +77,90 @@ Mõnel olendil on teatud omaduste asemel „—“, mis tähendab, et see pole k
 > | Libahunt | 0 | –1D8 |
 > | Zombi | 1 | –1D8 |
 > 
-> Mõned looduslikud olendid võivad sõltuvalt asjaoludest põhjustada SAN-i kaotust. SAN-i kaotus sõltub ka maailmast, kuna üleloomulikud olendid on fantaasiamaailmas tavapärased.
+> Mõned looduslikud olendid võivad sõltuvalt asjaoludest põhjustada MÕISTUSE kaotust. MÕISTUSE kaotus sõltub ka sättest, kuna fantaasiasättes on üleloomulikud olendid tavapärased.
 
 ## Looduslikud loomad
 
-Need olendid on enamikule mängijatele tuttavad ja seetõttu keskenduvad nende kirjeldused ainult mängumehaanikale. Need esindavad üldisi näiteid, mitte konkreetseid tõuge või liike, ja neid saab vastavalt soovile muuta.
+Need olendid on enamikule mängijatele tuttavad ja seetõttu keskenduvad nende kirjeldused ainult mängumehaanikale. Need esindavad üldisi näiteid, mitte konkreetseid tõuge või liike, ja neid saab soovi korral muuta.
 
 ##### Looduslikud olendid
 
-| Nimi | STR | CON | SIZ | POW | DEX | MOV | Soomus | HP | DM | Rünnak ja %, Kahju | Oskused |
+| Nimi | JÕU | VAS | SUU | VÄG | OSA | MOV | Soomus | HP | DM | Rünnak ja %, Kahju | Oskused |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
-| Alligaator või krokodill | 4D6+12 25w | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Kõnd 7 Ujum 6 | 5 pt nahk | 22 | +2D6 | Hammust 50%,1D10+dm | Dodge 30%, Hide 50%, Search 35%, Sense 30%, Stealth 75%, Track 15% |
-| Karu | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Kõnd 12 Ujum 2 | 3 pt karv | 17 | +2D6 | Hammust 25%, 1D10; Küünis 25%, 1D6+dm | Climb 35%, Move Quietly 35%, Search 35%, Sense 35% |
-| Brontosaurus | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Kõnd 7 | 14 pt nahk | 57 | +7D6 | Saba 50%, 1D6+½dm; Tramp 75%, 7D6+dm | Listen 35%, Sense 30%, Spot 35% |
-| Kondor, Kotkas jne | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Lend 14 Kõnd 2 | 1 pt suled | 14 | +1D6 | Hammust 45%,1D6; Küünis 45%, 1D6+dm | Dodge 50%, Sense 25%, Search 90% |
-| Koer | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Kõnd 10 Ujum 6 | — | 7–8 | –1D4 | Hammust 30%, 1D6+½dm | Dodge 55%, Listen 75%, Sense 90% |
-| Elevant | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Kõnd 10 Ujum 2 | 4 pt nahk | 45 | +6D6 | Tramp 50%, 4D6+dm; Plunge 25%,6D6+dm; Trunk 50%, konst; Gore 25%, 2D6+dm | Listen 65%, Search 35%, Sense 55% |
-| Gorilla | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Kõnd 12 Ujum 2 | 3 pt karv | 16 | +2D6 | Hammust 45%, 2D6; Wrestle 45%, 3D6+dm | Climb 70%, Hide 40%, Listen 35%, Move Quietly 60%, Search 30%, Sense 40% |
-| Kulli | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Lend 12 Kõnd 1 | — | 4 | –1D6 | Küünis 45%, 1D4+dm; | Dodge 75%, Spot 100% |
-| Hobune | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Kõnd 12 Ujum 2 | 1 pt nahk | 20 | +2D6 | Kick 20%, 2D8+dm; Plunge 10%, 2D6+dm; Hammust 10%, 1D6 | Dodge 45%, Hide 25%,Move Quietly 25%, Sense 80% |
-| Putukaparv | — | — | — | — | — | Lend 12 Kõnd 10 | — | — | — | Vt kirjeldust. | Search 50% |
-| Lõvi | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Kõnd 10 Ujum 2 | 2 pt nahk | 14 | +1 D6 | Hammust 40%, 1D10; Küünis 60%. 1D6+dm; Rip 80%, 2D6+dm | Dodge 20%, Hide 20%, Listen 30%, Sense 40%, Track 15% |
-| Rottide kamp | — | — | — | — | — | Kõnd 10 Ujum 6 | — | — | — | Kampade arv ×5%, 1D3 kahju | Climb 75%, Search 75%, Swim 75% |
-| Hai | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Ujum 10 | 5 pt nahk | 19-20 | +2D6 | Hammust 75%, 2D6+dm; Uime 50%, 2D3+½dm | Sense 95%, Swim 100% |
-| Madu (püüton) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Libisem 6 Ujum 4 | 1 pt nahk | 15–16 | +1D6 | Hammust 65%, 1D4+½dm; Konst 40%, 1D6+dm; Neel 100%, eriline | Climb 85%, Dodge 60%, Hide 75%, Sense 75%, Stealth 90%, Swim 70% |
-| Madu (mürgine) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Libisem 6 Ujum 4 | — | 6 | –1D6 | Hammust 70%, 1D2+1/2dm (läbistav) + mürk. | Climb 50%, Dodge 50%, Hide 80%, Sense 65%, Stealth 90%, Swim 70% |
-| Kalmaar (hiiglane) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Ujum 10 ‘Kõnd’ 4 | 2 pt nahk | 24 | +3D6 | Nokk 45%, 1D10+½dm + mürk; Kombits 45%, 1D6+dm | Hide 70%, Swim 100% |
-| Tiiger | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Kõnd 12 | 2 pt nahk | 13–14/ | +1D6 | Hammust 45%, 1D10+½dm; Küünis 70%, 1D8+dm; Ripping 80%, 2D8+dm | Dodge 45%, Hide 80%, Jump 55%, Stealth 75%, Sense 70%, Track 50% |
-| Tyrannosaurus Rex | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Kõnd 12 | 10 pt nahk | 44/ | +6D6 | Hammust 50%, 2D6+dm; Küünis 35%, 1D4+½dm; Kick 45%, 1D6+dm | Jump 50%, Listen 45%, Sense 35%, Spot 50%, Track 50% |
-| Hunt | 2D6+6 13 | 3D6 10-11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Kõnd 10 | 2 pt karv | 9–10 | — | Hammust 30%, 1D8+½dm | Dodge 35%, Listen 75%, Sense 90%, Spot 60%, Track 80% |
+| Alligaator või krokodill | 4D6+12 25w | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Kõnd 7 Ujum 6 | 5 pt. nahk | 22 | +2D6 | Hammustus 50%,1D10+dm | Põiklemine 30%, Peitumine 50%, Otsimine 35%, Tunnetus 30%, Hiilimine 75%, Jälitamine 15% |
+| Karu | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Kõnd 12 Ujum 2 | 3 pt. karv | 17 | +2D6 | Hammustus 25%, 1D10; Küünis 25%, 1D6+dm | Ronimine 35%, Vaikne liikumine 35%, Otsimine 35%, Tunnetus 35% |
+| Brontosaurus | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Kõnd 7 | 14 pt. nahk | 57 | +7D6 | Saba 50%, 1D6+½dm; Trampimine 75%, 7D6+dm | Kuulmine 35%, Tunnetus 30%, Märkamine 35% |
+| Kondor, kotkas jne | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Lend 14 Kõnd 2 | 1 pt. suled | 14 | +1D6 | Hammustus 45%,1D6; Küünis 45%, 1D6+dm | Põiklemine 50%, Tunnetus 25%, Otsimine 90% |
+| Koer | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Kõnd 10 Ujum 6 | — | 7–8 | –1D4 | Hammustus 30%, 1D6+½dm | Põiklemine 55%, Kuulmine 75%, Tunnetus 90% |
+| Elevant | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Kõnd 10 Ujum 2 | 4-pt. nahk | 45 | +6D6 | Trampimine 50%, 4D6+dm; Sööstud 25%, 6D6+dm; Trunk 50%, ahendamine; Sarv 25%, 2D6+dm | Kuulmine 65%, Otsimine 35%, Tunnetus 55% |
+| Gorilla | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Kõnd 12 Ujum 2 | 3-pt. karv | 16 | +2D6 | Hammustus 45%, 2D6; Maadlus 45%, 3D6+dm | Ronimine 70%, Peitumine 40%, Kuulmine 35%, Vaikne liikumine 60%, Otsimine 30%, Tunnetus 40% |
+| Kull | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Lend 12 Kõnd 1 | — | 4 | –1D6 | Küünis 45%, 1D4+dm; | Põiklemine 75%, Märkamine 100% |
+| Hobune | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Kõnd 12 Ujum 2 | 1-pt. nahk | 20 | +2D6 | Kikk 20%, 2D8+dm; Sööstud 10%, 2D6+dm; Hammustus 10%, 1D6 | Põiklemine 45%, Peitumine 25%, Vaikne liikumine 25%, Tunnetus 80% |
+| Putukaparv | — | — | — | — | — | Lend 12 Kõnd 10 | — | — | — | Vaata kirjeldust. | Otsimine 50% |
+| Lõvi | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Kõnd 10 Ujum 2 | 2-pt. nahk | 14 | +1 D6 | Hammustus 40%, 1D10; Küünis 60%, 1D6+dm; Rebimine 80%, 2D6+dm | Põiklemine 20%, Peitumine 20%, Kuulmine 30%, Tunnetus 40%, Jälitamine 15% |
+| Rottide kamp | — | — | — | — | — | Kõnd 10 Ujum 6 | — | — | — | Kampa # x5%, 1D3 kahju | Ronimine 75%, Otsimine 75%, Ujum 75% |
+| Hai | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Ujum 10 | 5-pt nahk | 19-20 | +2D6 | Hammustus 75%, 2D6+dm; Uime lõige 50%, 2D3+½dm | Tunnetus 95%, Ujum 100% |
+| Madu (ahendaja) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Liikumine 6 Ujum 4 | 1-pt. nahk | 15–16 | +1D6 | Hammustus 65%, 1D4+½dm; Ahendamine 40%, 1D6+dm; Allaneelamine 100%, eriline | Ronimine 85%, Põiklemine 60%, Peitumine 75%, Tunnetus 75%, Hiilimine 90%, Ujum 70% |
+| Madu (mürgine) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Liikumine 6 Ujum 4 | — | 6 | –1D6 | Hammustus 70%, 1D2+1/2dm (läbistav) + mürk. | Ronimine 50%, Põiklemine 50%, Peitumine 80%, Tunnetus 65%, Hiilimine 90%, Ujum 70% |
+| Kalmaar (hiiglaslik) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Ujum 10 'Kõnd' 4 | 2-pt. nahk | 24 | +3D6 | Nokk 45%, 1D10+½dm + mürk; Kombits 45%, 1D6+dm | Peitumine 70%, Ujum 100% |
+| Tiiger | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Kõnd 12 | 2-pt. nahk | 13–14/ | +1D6 | Hammustus 45%, 1D10+½dm; Küünis 70%, 1D8+dm; Rebimine 80%, 2D8+dm | Põiklemine 45%, Peitumine 80%, Hüppamine 55%, Hiilimine 75%, Tunnetus 70%, Jälitamine 50% |
+| Tyrannosaurus Rex | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Kõnd 12 | 10-pt. nahk | 44/ | +6D6 | Hammustus 50%, 2D6+dm; Esiküünis 35%, 1D4+½dm; Kikk 45%, 1D6+dm | Hüppamine 50%, Kuulmine 45%, Tunnetus 35%, Märkamine 50%, Jälitamine 50% |
+| Hunt | 2D6+6 13 | 3D6 10-11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Kõnd 10 | 2-pt. karv | 9–10 | — | Hammustus 30%, 1D8+½dm | Põiklemine 35%, Kuulmine 75%, Tunnetus 90%, Märkamine 60%, Jälitamine 80% |
 
 ### Märkused looduslike loomade kohta
 
-Enamikul looduslikest loomadest on algeline intelligentsus (INT 3–5), nad võitlevad harva surmani ja on üldiselt territoriaalse käitumisega. Kui mis tahes rünnaku puhul veeretatakse eriline õnnestumine, on hammustused ja küünised lõikavad (harva läbistavad), kombitsad ja kägistamine on mähkivad ja muljuvad, trampimine või löömine on muljuvad ja võivad põhjustada tagasilööke (olenevalt olendi SIZ-ist). Mürgiga olendite puhul on see käsitletud **Mürkide** osas seitsmendas peatükis: Täpsustusreeglid. Rünnakud on esitatud eelistuste järjekorras. Olendid, kellel puudub Dodge-oskus, kas ei põikle või ei ole oskus kohaldatav. Kahjumodifikaatorid on keskmised; muuda neid, kui STR või SIZ sellele viitab.
+Enamikul looduslikel loomadel on algeline intelligentsus (INT 3–5), nad võitlevad harva surmani ja on üldiselt territoriaalse käitumisega. Kui mis tahes rünnaku puhul veeretatakse eriline õnnestumine, on hammustused ja küünised lõikavad (harva läbistavad), kombitsad ja ahendamine on takerdunud ja purustavad, trampimised või kigid on purustavad ja võivad põhjustada tagasilööke (olenevalt olendi SUU-st). Mürgiga olendite puhul on see kaetud **Mürkide** osas Seitsmendas peatükis: Punktireeglid. Rünnakud on esitatud eelistuse järjekorras. Olendid, kellel ei ole Põiklemise oskust, ei põikle või oskus ei ole kohaldatav. Kahjumodifikaatorid on keskmised; muuda, kui JÕU või SUU seda näitavad.
 
-**Alligaator või krokodill:** Alligaatorid on väiksemad ja nõrgemad (–1D6 STR ja SIZ juures), neil on väiksemad lõuad (1D8+dm) ja nad on vähem agressiivsed kui krokodillid.
+**Alligaator või krokodill:** Alligaatorid on väiksemad ja nõrgemad (–1D6 JÕU-le ja SUU-le), neil on väiksemad lõuad (1D8+dm) ja nad on vähem agressiivsed kui krokodillid.
 
-**Karu:** Karud saavad rünnata kaks korda voorus, kasutades kas kahte eraldi küünistega rünnakut või ühte küünise ja ühe hammustusega rünnakut. Grizzlyd on suuremad, tugevamad (STR +1D6, CON +2, SIZ +2, +1 soomus) ja ägedamad (+10% võitlusoskustele). Jääkarud on suuremad ja võimsamad (STR +2D6, CON +1D6+2, SIZ +2D6, +3 soomus, +20% rünnakuoskustele, Ujum 80%).
+**Karu:** Karud saavad ühe ringi jooksul rünnata kaks korda, kasutades kas kahte eraldi küünistega rünnakut või ühte küünistega ja ühte hammustusega rünnakut. Grizzlyd on suuremad, tugevamad (JÕU +1D6, VAS +2, SUU +2, +1 soomus) ja ägedamad (+10% võitlusoskustele). Jääkarud on suuremad ja võimsamad (JÕU +2D6, VAS +1D6+2, SUU +2D6, +3 soomus, +20% rünnakuoskustele, Ujum 80%).
 
-**Brontosaurus:** Brontosaurused saavad rünnata üks kord voorus, kasutades saba või trampimist, kui nad liiguvad. Saba on alaefektiga pühkimisrünnak. Trampimist kasutatakse ainult nende sihtmärkide vastu, kes on pikali või kelle SIZ on väiksem kui 1/3 brontosauruse SIZ-ist.
+**Brontosaurus:** Brontosaurused saavad rünnata üks kord ringi jooksul, kasutades saba või trampimist, kui nad liiguvad. Saba on alaefektiga pühkimisrünnak. Trampimist kasutatakse ainult nende sihtmärkide vastu, kes on pikali või kelle SUU on väiksem kui 1/3 brontosauruse SUU-st.
 
-**Koer:** Metsikud koerad moodustavad 1D8+3 või enama koerast koosnevaid kampasid. Suuremate koerte puhul kasuta hundi statistikat.
+**Koer:** Metsikud koerad moodustavad 1D8+3 või enama kampa. Suuremate koerte puhul kasuta huntide statistikat.
 
-**Elevant:** Kuigi nad eelistavad lihtsalt rünnata või trampida, võib elevant rünnata oma londiga. Kui ta seda teeb, kahju ei teki. Selle asemel peab sihtmärk tegema vastupanuviseviske STR-i vastu poole elevandi STR-i vastu. Ebaõnnestumise korral asetatakse nad asendisse, kus nad järgmisel voorus automaatselt trampitakse. Alternatiivina võib elevant ohvri eemale heita, põhjustades kukkumiskahju, mis põhineb ühel meetril elevandi iga 3 STR-punkti kohta. Iga 6 SIZ-punkti kohta, mis ohvril on üle 16, kukuvad nad kaks meetrit lähemale ja saavad vähem kahju.
+**Elevant:** Kuigi nad eelistavad lihtsalt tormata või trampida, saab elevant rünnata oma londiga. Kui nii, siis kahju ei tehta. Selle asemel peab sihtmärk tegema vastupanuveeretuse oma JÕU-ga poole elevandi JÕU vastu. Kui nad ebaõnnestuvad, asetatakse nad positsiooni, et neid järgmisel ringil automaatselt trampida. Alternatiivina võib elevant ohvri eemale paisata, tehes kukkumiskahju, mis põhineb ühel meetril elevandi iga 3 JÕU-punkti kohta. Iga 6 SUU-punkti kohta, mis ohvril üle 16 on, kukub ta kaks meetrit lähemale ja saab vähem kahju.
 
-**Gorilla:** Gorilla saab rünnata kaks korda voorus. Ta võib lüüa kaks korda rusikatega, hammustada ja lüüa või hammustada ja maadelda. Kui maadlus õnnestub, haarab ta oma sihtmärgi ja teeb iga voor oma täieliku kahjumodifikaatori. Maadlemise ajal võib ta jätkata hammustamist, mis on lihtne (Easy) rünnak. Emasgorillad on isastest väiksemad (–1D6 STR ja SIZ juures).
+**Gorilla:** Gorilla saab rünnata kaks korda iga ring. Ta võib lüüa kaks korda rusikatega, hammustada ja lüüa, või hammustada ja maadleda. Kui maadlus õnnestub, haarab ta oma sihtmärgist kinni ja teeb igal ringil oma täieliku kahjumodifikaatori. Maadeldes võib ta jätkata hammustamist, mis on lihtne rünnak. Emasgorillad on isastest väiksemad (–1D6 JÕU-le ja SUU-le).
 
-**Kulli:** Kulli ründab mõlema küünisega samaaegselt ja hammustab 5 järjekorranumbrit hiljem.
+**Kull:** Kull rünnab mõlema küünisega korraga ja hammustab 5 OSA järgu võrra hiljem.
 
-**Hobune:** Võitluseks treenimata hobused põgenevad vere, tule, tulistamise, karjete või plahvatuste korral. Sõjahobused on treenitud vägivallaks ja püsivad paigal, kui ratsanik Ride-viskes õnnestub. Sõjahobused on tavaliselt aretatud vastupidavuse poolest (+2 STR, CON ja SIZ juures).
+**Hobune:** Võitluseks mitteõpetatud hobused põgenevad vere, tule, tulistamise, karjumise või plahvatuste korral. Sõjahobused on treenitud vägivallaks ja hoiavad positsiooni, kui ratsanikul õnnestub Ratsutamise kontrollveere. Sõjahobused on tavaliselt aretatud vastupidavuse poolest (+2 JÕU-le, VAS-le ja SUU-le).
 
-**Putukaparv:** Taru suurus määrab iga voor tekitatud nõelamiste arvu. Pisike herilasepesa võib nõelata 1D6 korda voorus, kasvades kuni hiiglasliku mesilastaru või sipelgapesani, mis teeb 8D6. Täringutüüpi võib kohandada vastavalt mürgi raskusastmele (1 pt vähese ärrituse jaoks kuni D10 metsikute röövelputukate jaoks). Iga tegelane, keda parv ründab, saab automaatselt nõelata veeretatud arvu kordi iga võitlusvooru jooksul, kuni nad põgenevad, peletavad või hävitavad parve. Putukaparv ründab 2D6 võitlusvooru, enne kui loobub. Kui sihtmärgid pole täielikult kaetud või suletud, pole putukaparve eest kaitset. Raske (Difficult) Dodge-vise võib aidata putukaparve vältida või saab nende eemale peletamiseks kasutada muid vahendeid (tuli, suits, mürk jne). Kõik kaitsevarustus, mida tegelane võib kanda, vähendab nõelamiste arvu D6 kohta, kusjuures kerge varustus vähendab iga täringut –1 võrra, mesiniku varustus –4 võrra ja täielik katmine tähendab, et nõelamisi pole üldse. Pärast nõelamist põhineb mürgifaktor putukatüübil: mesilased on 20, herilased 15, sipelgad 10. Jaga nõelamiste koguarv mürgifaktoriga, et saada mürgi potents (POT). Pärast 1D6 tundi peab iga nõelatud tegelane tegema vastupanuviseviske CON vastu mürgi POT-i. Õnnestumise korral peavad nad vastu mürgi POT-ile ja saavad pool mürgi POT-ist (ümardatuna ülespoole) elupunktide kahjuks. Kui nad vastupanuviseviskes ebaõnnestuvad, saavad nad elupunktide kahjuks täie mürgi potentsi. Edukas sekkumine vastumürgiga või samaväärne ravi võib vähendada nõelamiste arvu veel 1D4–1 võrra 1D6 kohta, koos eduka First Aid-viskega ja õigete meditsiinitarvikutega. Tegelane, kellel on edukas First Aid-vise, võib teha teise Raske Chemistry-viske, et improviseerida vastumürki kättesaadavatest kemikaalidest või ainetest (vt **Mürgi vastumürgid**).
+**Putukaparv:** Taru suurus määrab igal ringil tehtud nõelamiste arvu. Väike herilasepesa võib nõelata 1D6 korda ringis, ulatudes kuni hiiglasliku mesilastaru või sipelgapesani, mis teeb 8D6. Täringutüüpi võib kohandada vastavalt mürgi raskusastmele (1 pt. kerge ärrituse korral kuni D10 metsikute röövputukate korral). Iga tegelane, keda parv ründab, saab iga võitlusringi jooksul automaatselt nõelata veeretatud arv kordi, kuni nad põgenevad, takistavad või hävitavad parve. Putukaparv ründab 2D6 võitlusringi, enne kui alla annab. Kui sihtmärgid pole täielikult kaetud või suletud, pole putukaparve vastu kaitset. Raske Põiklemise veere võib putukaparve vältida või saab nende eemale peletamiseks kasutada muid vahendeid (tuli, suits, mürk jne). Kõik kaitsevahendid, mida tegelane võib kanda, vähendavad nõelamiste arvu D6 kohta, kerge varustus vähendab iga täringut –1 võrra, mesiniku varustus –4 võrra ja täielik katmine tähendab, et nõelamisi üldse pole. Pärast nõelamist põhineb mürgifaktor putukatüübil: mesilased on 20, herilased 15, sõdur-sipelgad 10. Jaga nõelamiste koguarv mürgifaktoriga, et saada mürgi potents (POT). 1D6 tunni pärast peab iga nõelatud tegelane tegema vastupanuveeretuse VAS-ga mürgi POT-i vastu. Kui see õnnestub, peavad nad mürgi POT-ile vastu ja võtavad poole mürgi POT-ist (ümardatuna üles) elupunktide kahjuna. Kui nad ebaõnnestuvad vastupanuveeretuses, võtavad nad mürgi täieliku potentsi elupunktide kahjuna. Edukas sekkumine vastumürgi või samaväärse raviga võib vähendada nõelamiste arvu veel 1D4–1 võrra 1D6 kohta, kui Esmaabi veere ja vajalikud meditsiinilised tarbed on olemas. Tegelane, kellel on edukas Esmaabi kontrollveere, võib teha teise Raske Keemia veeretuse, et improviseerida vastumürk saadaolevatest kemikaalidest või ainetest (vt **Mürgi vastumürgid**).
 
-**Lõvi:** Lõvi saab teha ühe küünise- ja ühe hammustusrünnaku iga võitlusvooru jooksul. Kui mõlemad rünnakud tabavad, jääb lõvi järgmiseks vooruks külge ja jätkab hammustamist. Küünistamise asemel võib ta rüüstata oma tagumiste küünistega.
+**Lõvi:** Lõvi saab igas võitlusringis teha ühe küünistega rünnaku ja ühe hammustusega rünnaku. Kui mõlemad rünnakud tabavad, jääb lõvi järgmiseks ringiks kinni, jätkates hammustamist. Küünistega löömise asemel rebib ta tagumiste küünistega.
 
-**Rottide kamp:** Iga „kamp“ koosneb kümnest rotist. Korruta rottide kampade arv ×5: see tulemus on iga kampa rünnaku tõenäosus iga võitlusvooru ajal (veereta iga kampa jaoks). Iga edukas rünnak teeb 1D3 kahju jalgadele ja/või kõhule (kui kasutatakse löögikohti). Erilised õnnestumised teevad lõikavat kahju. Rottide kampade rünnakut saab vältida (Dodge), kuid mitte tõrjuda (parry). Nende vastu suunatud rünnakud on Rasked (Difficult), kuid edukas rünnak tapab automaatselt ühe roti ja peletab ülejäänud kampa eemale, vähendades edasiste rünnakute tõhusust. Rottide hammustused võivad olla nakkavad (vt Haigused).
+**Rottide kamp:** Iga "kamp" koosneb kümnest rotist. Korruta rottide kampade arv ×5: see tulemus on iga kampi rünnaku tõenäosus igas võitlusringis (veere iga kampi jaoks). Iga edukas rünnak teeb 1D3 kahju jala ja/või kõhu piirkonda (kui kasutatakse tabamiskohti). Erilised õnnestumised teevad lõikavat kahju. Rottide kampi rünnakut saab Põigelda, kuid mitte tõrjuda. Rünnakud nende vastu on Rasked, kuid edukas rünnak tapab automaatselt ühe roti ja peletab minema ülejäänud kampi, vähendades edasiste rünnakute tõhusust. Rottide hammustused võivad olla ka haigustekitajad (vt Haigus).
 
-**Hai:** Kui hai hammustus mööda läheb või seda välditakse, üritab ta 5 DEX-i järjekorranumbrit hiljem uimega lüüa. Kui hai hammustus tõrjutakse või see tabab, ei ürita ta uimega lüüa. Pärast edukat hammustust jätkavad mõned haid (nagu valged haid) hammustamist ja rabelemist järgnevate võitlusvoorude jooksul (lihtne rünnak sama kahju eest), kuni nad on eemaldatud või sihtmärk sureb. Hiidhai STR ja SIZ on 6D6+24, CON 4D6+18, 39 elupunkti ja +5D6 kahjumodifikaator.
+**Hai:** Kui hai hammustus mööda läheb või seda põigeldi, üritab see 5 OSA järgu võrra hiljem teha uime lõike. Kui hai hammustus tõrjuti või tabas, ei ürita see uime lõiget. Pärast edukat hammustusega rünnakut jätkavad mõned haid (nagu suured valged haid) hammustamist ja rabelemist järgmistel võitlusringidel (Lihtne rünnak sama kahjuga), kuni nad vabastatakse või sihtmärk sureb. Hiiglaslikul hail on JÕU ja SUU 6D6+24, VAS 4D6+18, 39 elupunkti ja +5D6 kahjumodifikaator.
 
-**Madu (püüton):** Püüton saab rünnata kaks korda võitlusvoorus, esmalt hammustades ja seejärel üritades 5 DEX-i järjekorranumbrit hiljem konstriktsiooni. Kui konstriktsiooni-rünnak tabab, on sihtmärk mähitud püütoni keerdudesse. Sihtmärk saab hingeldada, kuid ei saa karjuda ega hõigata. Iga konstriktsiooni-voor teeb sihtmärgi elupunktidele kahju (rindkere löögikoht). Ainult jäik rindkere-soomus (kui kasutatakse soomust löögikohtade kaupa) vähendab seda kahju. Kui jäse on vaba, saab sihtmärk teha Raske (Difficult) rünnaku püütoni vastu. Kui ükski jäse pole vaba, ei saa sihtmärk enamikul juhtudel rünnata (mängujuhi äranägemisel). Konstriktsioonist täielikult vabanemiseks peab sihtmärk tegema eduka vastupanuviseviske STR-i vastu püütoni STR-i vastu, selle asemel et rünnata voorus. Osaliseks vabaduseks vabastab Raske Agility-vise ühe käe või muu jäseme. Konstriktsioonis olev sihtmärk peab Stamina-viskes õnnestuma või kaotama teadvuse. Kui sihtmärk on kas teadvuseta või surnud, neelab püüton nad tervelt alla. Kui pole kantud hingamisaparaati, mis on purunemise üle elanud, lämbub sihtmärk. Hiidpüüton lisab STR-ile ja SIZ-ile +2D6, omab 19 elupunkti, +2D6 kahjumodifikaatorit ja 4-punktilist soomust.
+**Madu (ahendaja):** Ahendaja saab võitlusringis rünnata kaks korda, hammustades kõigepealt ja üritades 5 OSA järgu võrra hiljem ahendamist. Kui ahendamise rünnak tabab, on sihtmärk mähitud ahendaja keerdudesse. Sihtmärk saab hingeldada, kuid ei saa karjuda ega hõigata. Iga ahendamise ring teeb sihtmärgi elupunktidele kahju (rinna tabamiskoht). Ainult jäik rinnasoomus (kui kasutatakse soomust tabamiskohtade kaupa) vähendab seda kahju. Kui jäse on vaba, saab sihtmärk teha Raskeid rünnakuid ahendaja vastu. Kui ükski jäse pole vaba, ei saa sihtmärk enamikul juhtudel rünnata (mängujuhi äranägemisel). Ahendamisest täielikult vabastamiseks peab sihtmärk tegema eduka vastupanuveeretuse oma JÕU-ga ahendaja JÕU vastu, selle asemel et ringis rünnata. Osalise vabaduse saamiseks vabastab Raske Osavuse veere ühe käe või muu jäseme. Ahendatud sihtmärk peab õnnestuma Vastupidavuse veeretuses või langeb teadvusetuks. Kui sihtmärk on kas teadvuseta või surnud, neelab ahendaja nad tervelt alla. Kui just ei kanta hingamisaparaati, mis purunemise üle elas, sihtmärk lämbub. Hiiglaslik ahendaja lisab +2D6 JÕU-le ja SUU-le, tal on 19 elupunkti, +2D6 kahjumodifikaator ja 4-punktiline soomustatud nahk.
 
-**Madu (mürgine):** Lisateabe saamiseks mürgiste madude kohta vaata osasid **Mürgid** ja **Mürkide näidised**. Hiidmürgimao STR ja SIZ on 4D6+12, 17 elupunkti ja +2D6 kahjumodifikaator.
+**Madu (mürgine):** Konsulteeri **Mürkide** ja **Mürginäidiste** osasid, et saada rohkem teavet mitmesuguste mürgiste madude kohta. Hiiglaslikul mürgisel maol on JÕU ja SUU 4D6+12, 17 elupunkti ja +2D6 kahjumodifikaator.
 
-**Kalmaar (hiiglane):** Kalmaar saab rünnata kuni viit erinevat sihtmärki samaaegselt oma noka ja kümne kombitsaga. Kalmaari mürgil on POT, mis vastab tema CON-ile. Esimene kombits, mis sihtmärki tabab, hoiab sellest kinni ja kui teine ühendub, suruvad mõlemad sihtmärki, kuni sihtmärk pääseb või end vabaks lõikab (igal kombitsal on 2 elupunkti). Iga sihtmärgi ümber jäänud kombits teeb iga võitlusvooru jooksul tavalist kahju. Kombitsast põgenemiseks tee edukas vastupanuviseviske STR-i vastu kalmaari STR-i vastu või Raske Effort-vise, et saada käsi vabaks rünnakuks. Rünnakud kalmaari vastu, kui ollakse kinni tema kombitsates, on Rasked. Leviatani-suurune kalmaar, kes suudab võidelda paatide ja vaaladega, omab SIZ-i ja STR-i +1D6 iga meetri kohta, mis suurendab ulatusi kombitsa otsast otsani, suurendades vastavalt elupunkte ja kahjumodifikaatorit.
+**Kalmaar (hiiglaslik):** Kalmaar saab rünnata korraga kuni viit erinevat sihtmärki oma nokaga ja kümne kombitsaga. Kalmaari mürgil on POT, mis on võrdne tema VAS-ga. Esimene kombits, mis edukalt sihtmärki tabab, hoiab sellest kinni ja kui teine ühendub, ahendavad need kaks sihtmärki, kuni sihtmärk suudab põgeneda või ennast vabaks lõigata (igal kombitsal on 2 elupunkti). Iga sihtmärgi ümber jäänud kombits teeb igas võitlusringis tavalist kahju. Kombitsast põgenemiseks tee eduka vastupanuveeretuse JÕU-ga vs. kalmaari JÕU, või Raske Pingutuse veere, et saada käsi vabaks rünnakuks. Rünnakud kalmaari vastu, kui tema kombitsad hoiavad, on Rasked. Leviathani-suurune kalmaar, mis on võimeline ründama paate ja vaalu, on SUU ja JÕU +1D6 iga meetri kohta, mis on suurenenud kombitsa otsast otsani, suurendades vastavalt elupunkte ja kahjumodifikaatorit.
 
-**Tiiger:** Tiiger saab teha kaks samaaegset küüniste rünnakut ja ühe hammustuse iga võitlusvooru ajal. Hammustus tuleb 5 DEX-i järjekorranumbrit pärast küünistega rünnakuid. Kui mõlemad küünised sihtmärki edukalt tabavad, jääb tiiger kinni ja rüüstab järgmisel voorul oma tagumiste küünistega, jätkates samal ajal hammustamist.
+**Tiiger:** Tiiger saab teha kaks samaaegset küünistega lööki ja ühe hammustusega löögi igas võitlusringis. Hammustus tuleb 5 OSA järku pärast küünistega rünnakuid. Kui mõlemad küünised sihtmärki edukalt tabavad, jääb tiiger kinni ja rebib järgmisel ringil tagumiste küünistega, jätkates samal ajal hammustamist.
 
-**Tyrannosaurus Rex:** Tyrannosaurus ründab esmalt hammustades. Kui see õnnestub, ründab ta 5 DEX-i järjekorranumbri pärast mõlema esikäpaga, et sihtmärk edasiseks rüüstamiseks kinni haarata. Suuremate sihtmärkide puhul asendab ta esikäppadega rünnakud ühe löögirünnakuga, mõnikord isegi sihtmärgile ronides ja järgmises võitlusvoorus hammustuse ja kahe löögiga rünnates.
+**Tyrannosaurus Rex:** Tyrannosaurus ründab esimesena hammustades. Kui see õnnestub, ründab ta 5 OSA järku hiljem mõlema esiküünisega, et sihtmärk edasiseks rebimiseks haarata. Suuremate sihtmärkide puhul asendab ta esiküünistega rünnakud ühe kikiga rünnakuga, mõnikord isegi ronides sihtmärgile ja rünnates järgmisel võitlusringil hammustuse ja kahe kikiga.
 
-**Hunt:** Hundid jahivad karjades, mis ulatuvad tosinast 40 või enama isendini. Võitluses võitlevad hundid sageli koostöös. Mitu hunti võib rünnata sama sihtmärki samaaegselt, tagades, et mõnda ei tõrjuta ega väldita. Üks või kaks suurt hunti võivad üritada oma sihtmärki maha lüüa (vt Mahaviimine). Kui sihtmärk on pikali, tormavad teised neid rüüstama. Mängujuht võib kasutada seda statistikat ka suure koera esindamiseks.
+**Hunt:** Hundid jahivad kampaaniates, mis ulatuvad tosinast kuni 40 või enama isendini. Võitluses võitlevad hundid sageli koostöös. Mitu hunti võib rünnata sama sihtmärki korraga, tagades, et mõnda neist ei tõrjuta ega Põigelda. Üks või kaks suurt hunti võivad üritada oma sihtmärki pikali lüüa (vt Pikali löömine). Kui sihtmärk on pikali, tormavad teised nende kallale. Mängujuht võib neid statistilisi andmeid kasutada ka suure koera esindamiseks.
 
 ## Fantaasiaolendid
 
-Need on fantaasia- ja õudusmaailmades tavalised ning neid saab kasutada liitlaste, vaenlastena või isegi mängijategelastena, vastavalt soovile muudetuna.
+Need on levinud fantaasia- ja õudussätetes ning neid saab kasutada liitlaste, vaenlaste või isegi mängija tegelastena, mida soovi korral muudetakse.
 
 ### Kentaur
 
-Poolinimene, poolhobune, väidetavalt targad ja pastoraalsed olendid, teadmiste hoidjad, suurepärased käsitöölised, suurepärased muusikud ja ägedad sõdalased. Nad elavad tasandikel või metsades ja suhtlevad vabalt inimestega, teenides mõnikord mentorite või valvuritena.
+Poolinimene, poolhobune, keda peetakse tarkadeks ja pastoraalseteks olenditeks, pärimuse hoidjateks, headeks käsitöölisteks, suurteks muusikuteks ja ägedateks sõdalasteks. Nad elavad tasandikel või metsades ja suhtlevad vabalt inimestega, olles mõnikord mentoriteks või kaitsjateks.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6 | 4D6+12 | 2D6+6 | 3D6 | 3D6+3 | 3D6 |
 | 16–17 | 10–11 | 26 | 13 | 10–11 | 13–14 | 10–11 |
 
-| Liikuda 12 | Elupunktid 19 |
+| Liikumine 12 | Elupunktid 19 |
 | :---- | :---- |
 | **Kahjumodifikaator** +1D4 (inimene); +2D6 (hobune) | **Soomus** 1-punktiline nahk (saab kanda soomust) |
 
@@ -169,144 +169,144 @@ Poolinimene, poolhobune, väidetavalt targad ja pastoraalsed olendid, teadmiste 
 * Komposiitvibu 45%, 1D8+1+½dm (läbistav)
 * Oda 35%, 1D10+1+dm (läbistav)
 * Bastardmõõk 40%, 1D10+1+dm (lõikav)
-* Kilp 50%, 1D2+dm (tagasilöök)
-* Kick 50%, 1D6+dm (muljuv)
-* Rear and Plunge 35%, 2D8+dm (muljuv)
-* Trampimine 25%, 2D6+dm (muljuv)
+* Sihtmärgi kilp 50%, 1D2+dm (tagasilöök)
+* Kik 50%, 1D6+dm (purustav)
+* Tagumik ja Sööstud 35%, 2D8+dm (purustav)
+* Trampimine 25%, 2D6+dm (purustav)
 
-Kentaur võib lüüa 5 DEX-i järjekorranumbrit pärast lähivõitlusrelvaga löömist, kuigi mitte oda kasutades laadimise ajal. Nende kahjumodifikaator lähivõitlusrelvadega põhineb STR ×2-l, kuid on normaalne löökide, trampimiste või rünnakute puhul.
+Kentaur saab lüüa kiki 5 OSA järku pärast lähivõitlusrelvaga löömist, kuigi mitte odaga rünnates. Nende kahjumodifikaator lähivõitlusrelvadega põhineb JÕU ×2, kuid on normaalne kikide, trampimiste või sööstude puhul.
 
-**Võimed:** Kentaurid eelistavad maagiat nõidusele. Kentauril, kellel on maagia jaoks piisavalt POW-d, on järgmised loitsud: Enhance 35%, Heal 60%, Illusion 45%, Perception 40% ja Vision 50%.
+**Võimed:** Kentaurid eelistavad maagiat nõidumisele. Kentauril, kellel on maagia jaoks piisavalt VÄG-d, on järgmised loitsud: Suurendamine 35%, Tervendamine 60%, Illusioon 45%, Tajumine 40% ja Nägemus 50%.
 
-**Oskused:** Appraise 50%, Bargain 35%, Command 25%, Dodge 35%, Etiquette 35%, Insight 40%, First Aid 40%, Jump 60%, Knowledge (Ajalugu) 50%, Listen 35%, Perform (Lüüra) 35%, Sense 50%, Spot 40%, Swim 35%, Track 25%.
+**Oskused:** Hindamine 50%, Kauplemine 35%, Käskimine 25%, Põiklemine 35%, Etikett 35%, Sisekaemus 40%, Esmaabi 40%, Hüppamine 60%, Teadmised (Ajalugu) 50%, Kuulmine 35%, Esitus (lüüra) 35%, Tunnetus 50%, Märkamine 40%, Ujum 35%, Jälitamine 25%.
 
 ### Draakon
 
-Hiiglaslikud, tuld hingavad lendavad roomajad, kellel on tohutud küünised ja hambad, kõva soomustatud nahk – draakonid on üksildased olendid, kes elavad eraldi ja hävitavad oma ümbritsevat maapiirkonda. Mõned draakonid on intelligentsed, kuid paljud on lihtsalt kavalad metsalised. Nad on sageli kogujad, kes koguvad oma pesadesse kulda või muid aardeid. Need statistilised andmed esindavad metsalist draakonit. Draakonid võivad olla erinevat tüüpi, eristudes värvi ja hingeõhu (vt allpool) järgi. Mõned draakonid võivad olla isegi lennuvõimetud või omada oluliselt erinevaid omadusi.
+Hiiglaslikud, tuld hingavad lendavad roomajad, kellel on suured küünised ja hambad, tugev soomustatud nahk, draakonid on üksildased olendid, elades eraldatult ja laastades oma ümbritsevat maapiirkonda. Mõned draakonid on intelligentsed, kuid paljud on vaid kavalad metsalised. Nad on sageli varujad, kogudes oma urgudesse kulda või muid aardeid. Need andmed esindavad metsalislikku draakonit. Draakonid võivad olla erinevat tüüpi, mida eristatakse värvi ja hingamisrelva järgi (vt allpool). Mõned draakonid võivad olla isegi lennuvõimetud või neil võivad olla oluliselt erinevad omadused.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 20D6 | 10D6 | 20D6 | 10 | 4D6+6 | 3D6 |
 | 70 | 35 | 70 | 10 | 20 | 10–11 |
 
-| Liikuda 4 (10 lendades) | Elupunktid 53 |
+| Liikumine 4 (10 lennates) | Elupunktid 53 |
 | :---- | :---- |
 | **Kahjumodifikaator** +8D6 | **Soomus** 12-punktilised soomused |
 
 **Rünnakud:**
 
-* Tulehingamine 75%, 4D6+eriline (vt allpool)
-* Hammustamine 65%, 3D6+dm (läbistav)
+* Hinga tuld 75%, 4D6+eriline (vt allpool)
+* Hammustus 65%, 3D6+dm (läbistav)
 * Küünis 50%, 1D6+dm (veritsev)
-* Saba 50%, 1D6+½dm (muljuv)
+* Saba 50%, 1D6+½dm (purustav)
 
-Draakonid ründavad, lennates üle sihtmärkide ja tulistades neile tuld alla. Draakoni tuli katab kolme meetrise diameetriga ala, mille ulatus on võrdne draakoni POW-ga meetrites (vt **Alarünnakud**), kuid soomus kaitseb selle kahju eest. Kui kasutatakse löögikohti, mõjutab tuli kõiki löögikohti: 4D6 veeretatakse üks kord ja jaotatakse kahju löögikohtade vahel. Draakon peab tule purskamiseks kulutama 1D6 võimepunkti (või väsimuspunkti). Lisaks süttib iga tabatud sihtmärk tõenäoliselt põlema. Lennates on draakonil ainult oma hingeõhurünnak, välja arvatud juhul, kui ta siseneb õhus oleva sihtmärgiga lähivõitlusse.
+Draakonid ründavad lennates üle ja tuld allapoole oma sihtmärkidele puhudes. Draakoni tuli katab kolme meetri läbimõõduga ala, mille ulatus on võrdne draakoni VÄG-ga meetrites (vt **Alarünnakud**), kuid soomus kaitseb selle kahju eest. Kui kasutatakse tabamiskohti, mõjutab tuli kõiki tabamiskohti: 4D6 veeretatakse üks kord ja jaotatakse kahju tabamiskohtade vahel. Draakon peab tule välja purskamiseks kulutama 1D6 võimepunkti (või väsimuse punkti). Lisaks on iga tabatud sihtmärk tõenäoliselt süüdatud. Lennates on draakonil ainult oma hingeõhu rünnak, välja arvatud juhul, kui ta siseneb lähivõitlusse õhus oleva sihtmärgiga.
 
-Maapinnal olles võib draakon teha kaks rünnakut iga võitlusvooru ajal: ta võib kas hammustada või tuld hingata üheks rünnakuks ja kasutab küünistega rünnakut või sabapühkimist teiseks. Teine rünnak on 5 DEX-i järjekorranumbrit pärast esimest. Draakoni sabapühkimisrünnakut käsitletakse alaefektiga pühkimisrünnakuna (vt *7. peatükk: Täpsustusreeglid*).
+Maapinnal saab draakon teha kaks rünnakut igas võitlusringis: ta võib kas hammustada või hingata tuld ühe rünnaku jaoks ja kasutada kas küünistega lööki või saba pühkimist teise jaoks. Teine rünnak on 5 OSA järku pärast esimest. Draakoni saba pühkimise rünnakut käsitletakse alaefektiga pühkimisrünnakuna (vt *Seitsmes peatükk: Punktireeglid*.
 
-**Oskused:** Dodge 35%, Fly 100%, Listen 65%, Sense 50%, Spot 60%, Track 45%.
+**Oskused:** Põiklemine 35%, Lendamine 100%, Kuulmine 65%, Tunnetus 50%, Märkamine 60%, Jälitamine 45%.
 
-**Võimed:** Draakonid on intensiivselt maagilised olendid. Intelligentsetel draakonitel on INT 4D6 ja nad oskavad maagiat või nõidust. Sel juhul on draakonil täiendavad oskused, nagu Speak Language, erinevad teadmised ja isegi Appraise. Draakonitel võib olla ka muid hingamirelvi peale tule (vt Energiaprojektsioon).
+**Võimed:** Draakonid on intensiivselt maagilised olendid. Intelligentsetel draakonitel on INT 4D6 ja nad tunnevad maagiat või nõidumist. Kui nii, on draakonil täiendavaid oskusi, nagu Keele rääkimine, erinevad Teadmised ja isegi Hindamine. Draakonitel võivad olla ka muud hingamisrelvad kui tuli (vt Energia projitseerimine).
 
 ### Kääbus
 
-Kääbused elavad traditsiooniliselt maa all koobastes ja maa-alustes katakombides. Nad on kuulsad lühikese tuju, peene käsitöö, iidsete vimmade, liigse joomise ja pikkade habemete poolest. Nad on uhked oma päritolu üle ja erinevused kääbuste erinevate hõimude vahel on märkimisväärsed.
+Kääbused elavad traditsiooniliselt maa all koobastes ja maa-alustes katakombides. Nad on kuulsad lühikese temperamendi, peene käsitöö, iidsete vimmade, liigse joomise ja pikkade habemete poolest. Nad on uhked oma esivanemate üle ja erinevused kääbuste erinevate hõimude vahel on märkimisväärsed.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 1D6+12 | 1D4+4 | 2D6+6 | 3D6 | 3D6 | 3D6 |
 | 14 | 15–16 | 6–7 | 13 | 10–11 | 10–11 | 10–11 |
 
-| Liikuda 6 | Elupunktid 12 |
+| Liikumine 6 | Elupunktid 12 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 8 punkti (kett ja kerge kiiver) |
+| **Kahjumodifikaator** Puudub | **Soomus** 8 punkti (kett ja kerge kiiver) |
 
 **Rünnakud:**
 
-* Haamer 35%, 1D6+dm (muljuv)
+* Haamer 35%, 1D6+dm (purustav)
 * Lahingukirves 50%, 1D8+2+dm (veritsev)
 * Raske amb 40%, 2D4+2 (läbistav)
 * Väike kilp 50%, 1D2+dm (tagasilöök)
 
-**Oskused:** Appraise 50%, Bargain 45%, Brawl 50%, Craft (sepp) 45%, Dodge 40%, Grapple 45%, Knowledge (Kääbuse-lore) 35%, Language (Inimene) 35%, Language (Kääbus) 65%, Listen 45%, Repair (relvad ja soomus) 35%, Spot 45%, Status 35%, Throw 35%.
+**Oskused:** Hindamine 50%, Kauplemine 45%, Kaklus 50%, Käsitöö (sepp) 45%, Põiklemine 40%, Maadlus 45%, Teadmised (Kääbus-pärimus) 35%, Keel (Inimeste) 35%, Keel (Kääbuste) 65%, Kuulmine 45%, Remont (relvad ja soomus) 35%, Märkamine 45%, Staatus 35%, Viskamine 35%.
 
-**Võimed:** Traditsiooniliselt väldivad kääbused maagiat, kuigi mõned kasutavad maagiat või nõidust. Kääbustel on loomupärane võime nagu Super Sense (Pimeduse nägemine), mille tasemed on võrdsed ½ nende POW-ga (ümardatud ülespoole).
+**Võimed:** Traditsiooniliselt väldivad kääbused maagiat, kuigi mõned kasutavad maagiat või nõidumist. Kääbustel on loomulik võime nagu Super-tunnetus (Pime nägemine), mille tase on võrdne ½ (ümardades üles) nende VÄG-ga.
 
-### Haldjas
+### Elf
 
-Haldjad on traditsiooniliselt metsaelanikud, kellel on tugev side looduse ja metsikusega. Nad on pikaealised, mõnikord isegi surematud, ja on sageli ükskõiksed ning salapärased. Haldjaid on palju liike, alates metsades elavatest, askeetlikest kõrg-haldjatest kuni nendeni, kes meredel rändavad.
+Elfid on traditsiooniliselt metsaelanikud, kellel on tugev seos looduse ja metsikusega. Nad on pikaealised, mõnikord isegi surematud, ja on sageli eemalseisvad ja salapärased. Elfe on palju tüüpe, alates neist, kes elavad metsikutes metsades, askeetlikud kõrgelfid ja need, kes seilavad meredel.
 
-Inimeste ja haldjate vahel tekivad mõnikord suhted, kuigi järglased on ebatavalised. Poolhaldjad pärivad ühe või mõlema vanema jooned. Poolhaldja loomiseks veereta iga omadus nii, nagu oleks see mõlemale rassile, ja arvuta tulemuse keskmine (ümarda ülespoole). Kõik haldja liini omased võimed on poolitatud või keskmistatud, vastavalt olukorrale.
+Inimestel ja elfidel on mõnikord suhted, kuigi järglased on haruldased. Poolelfid pärivad jooni kummaltki vanemalt. Poolelfi loomiseks veereta iga omadus nii, nagu mõlema rassi puhul, ja võta tulemusest keskmine (ümardades üles). Kõik elfi liini kaasasündinud võimed on poolitatud või keskmistatud, vastavalt vajadusele.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+2 | 3D6 | 2D4+4 | 3D6+6 | 2D6+6 | 3D6+3 | 3D6 |
 | 9 | 10–11 | 9 | 16–17 | 13 | 13–14 | 10–11 |
 
-| Liikuda 11 | Elupunktid 10 |
+| Liikumine 11 | Elupunktid 10 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 1 punkt (pehme nahk) |
+| **Kahjumodifikaator** Puudub | **Soomus** 1 punkt (pehme nahk) |
 
 **Rünnakud:**
 
 * Pikkvibu 55%, 1D8+1+½dm (läbistav)
 * Lühimõõk 45%, 1D6+1+dm (veritsev)
-* Lühioda 40%, 1D6+1+dm (läbistav)
-* Lühioda (visatud) 55%, 1D6+1+½dm (läbistav)
+* Lühike oda 40%, 1D6+1+dm (läbistav)
+* Lühike oda (visatav) 55%, 1D6+1+½dm (läbistav)
 
-**Oskused:** Climb 65%, Dodge 55%, First Aid 45%, Hide 35%, Jump 45%, Knowledge (Haldja-lore) 45%, Language (Inimene) 40%, Language (Haldja) 85%, Listen 55%, Perform (Laul) 35%, Sense 30%, Spot 45%, Stealth 45%, Swim 35%, Track 40%.
+**Oskused:** Ronimine 65%, Põiklemine 55%, Esmaabi 45%, Peitumine 35%, Hüppamine 45%, Teadmised (Elf-pärimus) 45%, Keel (Inimeste) 40%, Keel (Elfi) 85%, Kuulmine 55%, Esitus (laul) 35%, Tunnetus 30%, Märkamine 45%, Hiilimine 45%, Ujum 35%, Jälitamine 40%.
 
-**Võimed:** Haldjad kasutavad tavaliselt maagiat ja neil on loomupärane võime nagu Super Sense (Öönägemine), mille tasemed on võrdsed ½ nende POW-ga (ümardatud ülespoole). Haldja tavaline maagia on Dispel 45%, Heal 50%, Illusion 35%, Perception 60%, Resistance 50% ja Vision 60%.
+**Võimed:** Elfid kasutavad sageli maagiat ja neil on loomulik võime nagu Super-tunnetus (Öine nägemine), mille tase on võrdne ½ nende VÄG-ga (ümardades üles). Levinud maagia elfi jaoks on Hajutamine 45%, Tervendamine 50%, Illusioon 35%, Tajumine 60%, Vastupanu 50% ja Nägemus 60%.
 
 ### Vaim
 
-Vaim on elusolendi vaimne jäänuk, mis on endiselt seotud elavate maailmaga, olles teadlik või teadmatuses oma surmaolekus. Nad kummitavad asukohti (lossid, häärberid, surnuaiad jne), objekte (relvad, sõidukid jne) või isegi konkreetset isikut, olles tavaliselt seotud oma surmaga või endise eluga. Enamik vaime on pahatahtlikud ja vihkavad elavaid. Vaimud on sageli hullunud, neid ajendab soov parandada mis tahes ülekohut, mida nad tunnevad enda vastu toimepanduna, et neil lubataks „edasi minna“ kõrgemale tasandile. Vaim ei pruugi isegi sellest sundmõttest aru saada.
+Vaim on elusolendi vaimne jäänuk, mis on endiselt seotud elavate maailmaga, olles teadlik või teadmata oma surmavast olemusest. Nad kummitavad kohti (lossid, häärberid, surnuaiad jne), objekte (relvad, sõidukid jne) või isegi konkreetset inimest, olles tavaliselt seotud oma surma või endise eluga. Enamik vaime on pahatahtlikud ja vihkavad elavaid. Vaimud on sageli hullumeelsed, ajendatuna soovist parandada kõike, mida nad tunnevad, et nende vastu toime pandi, et neil võiks lubada "edasi minna" kõrgemale tasandile. Vaim ei pruugi sellest sunnist isegi aru saada.
 
-Vaimud võivad ilmuda hämarate humanoidsete figuuridena, helendavate ilmingutena, kindlate olenditena, pilviste figuuridena, peata asjadena, sõidukitena, loomadena jne. Nad on tuntud paljude nimedega: hinged, varjud, tondid, kummitused, ilmingud, fantoomid, spektrid, phantasmad jne.
+Vaimud võivad ilmneda õrnade humanoidsete kujudena, hõõguvate ilmingutena, kindla välimusega olenditena, pilviste kujudena, peata asjadena, sõidukitena, loomadena jne. Neid tuntakse paljude nimede all: vaimud, varjud, tondid, kummitused, poltergeistid, nägemused, fantoomid, spektreid, fantaasmid jne.
 
-Vaimud on sageli kujundatud nende surma asjaolude ja keskkonna poolt. Järgnevalt on mõned võimalused ja soovitused vaimude kasutamiseks maailmas:
+Vaime kujundavad sageli nende surma asjaolud ja nende keskkond. Allpool on mõned võimalused ja soovitused vaimude kasutamiseks sättes:
 
-* Lunastusvaimud võivad ilmuda tegelase mineviku tegelastena, lausudes endeid. Või võib neid tõmmata kaitsma kedagi, keda nad elus armastasid, pakkudes abi ja toetust suure vajaduse hetkel.
-* Vaim võib ilmuda vaimse nõuandjana, edastades sõnumeid kõrgemalt võimult. Need ähvardavad või kahjustavad harva elavaid ja võivad isegi pakkuda juhendamist ja mentorlust.
-* Poltergeist võib olla vägivaldne, visates telekineetiliselt esemeid ja ohvreid mööda tuba ning kasutades objekte improviseeritud relvadena.
-* Vaimusõidukid ilmuvad korduvalt samal ajal ja samas kohas. Vaimurongi või -laeva pardale minek on tavaliselt meetod transportimiseks teise dimensiooni või aega. Tegelased, kes seda teevad, võivad igaveseks kaduda või peavad kummituse saladuse lahendama, enne kui nad vabastatakse.
-* Terve hoone võib ise olla vaim. Kui hoone saladus või tume saladus avastatakse, võib hoone ise igaveseks kaduda.
+* Lunastusvaimud võivad ilmneda tegelase mineviku kujudena, lausudes endeid. Või võib see olla tõmmatud kaitsma kedagi, keda ta elus armastas, pakkudes abi ja tuge suure vajaduse ajal.
+* Vaim võib ilmneda vaimse nõuandjana, vahendades sõnumeid kõrgemalt võimult. Need ähvardavad või kahjustavad elavaid harva ja võivad isegi pakkuda juhiseid ja mentorlust.
+* Poltergeist võib olla vägivaldne, visates esemeid ja ohvreid telekineetiliselt mööda tuba ja kasutades objekte improviseeritud relvadena.
+* Vaimsõidukid ilmuvad korduvalt samasse kohta samal ajal ja kuupäeval. Kummitusliku rongiga või laevaga liitumine on tavaliselt meetod teise dimensiooni või aega transportimiseks. Tegelased, kes seda teevad, võivad igaveseks kaduda või peavad kummituse lahendama enne vabastamist.
+* Terve hoone võib ise olla vaim. Kui hoone saladus või tume mõistatus avastatakse, võib hoone ise igaveseks kaduda.
 
-Vaimudel on tavaliselt ainult INT ja POW, kuigi mõnel vaimul võib olla ka CHA. Vaim võib siiski olla kindel ja omada omadusi (STR, SIZ ja DEX) nagu elusolend, kuigi tal pole kunagi CON-väärtust. Mõned materiaalsed vaimud ei pruugi isegi teada, et nad on surnud.
+Vaimudel on tavaliselt ainult INT ja VÄG, kuigi mõnel vaimul võib olla KAR. Vaim võib siiski olla kindel ja omada omadusi (JÕU, SUU ja OSA) nagu elusolendil, kuigi tal ei ole kunagi VAS väärtust. Mõned materiaalsed vaimud ei pruugi isegi teada, et nad on surnud.
 
-| INT | POW | CHA |
+| INT | VÄG | KAR |
 | :---- | :---- | :---- |
 | 2D6+6 | 4D6 | 3D6 |
 | 13 | 14 | 10–11 |
 
-| Liikuda 14 (võrdne POW-ga) | Elupunktid puuduvad |
+| Liikumine 14 (võrdne VÄG-ga) | Elupunktid Puuduvad |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub (immateriaalne, vt allpool). |
+| **Kahjumodifikaator** Puudub | **Soomus** Puudub (mitteaine, vt allpool). |
 
 **Rünnakud:**
 
-* Vaimuvõitlus POW vs POW, 1D3 võimepunkti (vt allpool).
+* Vaimne võitlus VÄG vs. VÄG, 1D3 võimepunkti (vt allpool).
 
-**Võimed:** Vaimud saavad võidelda vaimuvõitluses, mis on POW vs POW vastupanuviseviske. See näeb välja nagu vaim küünistaks, ümbritseks või ründaks füüsiliselt sihtmärki. Kui vaim ületab sihtmärgi POW, kaotab sihtmärk 1D3 võimepunkti (mõned vaimud võivad selle asemel tekitada elupunktide kahju). Kui vaim alistatakse, kaotab ta 1D3 võimepunkti. Võimsamad vaimud võivad sihtmärgilt kurnata 1D6 võimepunkti (või rohkem), kuid kaotavad vaid 1D3 võimepunkti, kui sihtmärk nad alistab. See võitlus jätkub iga võitlusvooru ajal, kuni sihtmärk on teadvuseta või üks pool on põgenenud. Erinevalt vampiiridest on kurnatud võimepunktid lihtsalt kadunud. Vaim põgeneb enne, kui ta jõuab 0 võimepunktini. Kui vaim vähendab sihtmärgi 0 võimepunktini, võib ta nad vallutada, põhjustades tavaliselt sihtmärgile enesetapu või kellegi teise vigastamise. Isegi kui vaim vallutab sihtmärgi, jääb ta seotuks oma kummitamise kohaga ega saa lahkuda.
+**Võimed:** Vaimud saavad rünnata vaimses võitluses, mis on VÄG vs. VÄG vastupanuveere. See näeb välja nii, nagu vaim kraabiks, ümbritseks või ründaks sihtmärki füüsiliselt. Kui vaim ületab sihtmärgi VÄG, kaotab sihtmärk 1D3 võimepunkti (mõned vaimud võivad selle asemel teha elupunktide kahju). Kui vaim ületatakse, kaotab see 1D3 võimepunkti. Võimsamad vaimud võivad sihtmärgilt kurnata 1D6 võimepunkti (või rohkem), kuid kaotavad ise vaid 1D3 võimepunkti, kui kavatsetud sihtmärk nad ületab. See võitlus jätkub igas võitlusringis, kuni sihtmärk on teadvuseta või kumbki pool on põgenenud. Erinevalt vampiiridest lähevad kurnatud võimepunktid lihtsalt kaotsi. Vaim põgeneb enne, kui ta jõuab 0 võimepunktini. Kui vaim vähendab sihtmärgi 0 võimepunktini, võib ta nad vallata, põhjustades tavaliselt sihtmärgi enesetapu või teise inimese kahjustamise. Isegi kui vaim vallutab sihtmärgi, jääb ta seotuks oma kummituskohaga ja ei saa lahkuda.
 
-Lisaks vaimuvõitlusele võib vaimul olla muid võimeid, mis sobivad tema endise eksistentsi ja rolliga maailmas. Vaimud on immateriaalsed ja neile ei kehti immateriaalsuse (Intangibility) supervõime piirangud. Traditsioonilised võimed hõlmavad psüühilisi jõude, nagu krüokinees, meelerünnak (Mind Blast), meelekontroll (Mind Control), pürokinees, telekinees või supervõimed, nagu Drain, Energy Control, Invisibility, Teleport ja Weather Control. Vaimud võivad olla haavatavad maagia, nõiduse, psüühiliste võimete või supervõimete suhtes.
+Lisaks vaimsele võitlusele võib vaimul olla muid võimeid, mis sobivad tema endise eksistentsi ja rolliga sättes. Vaimud on mitteained ja neile ei kehti Mitteaine-võime piirangud. Traditsioonilised võimed hõlmavad psüühilisi võimeid nagu Krüokineetika, Mõttekahjustus, Mõttekontroll, Pürokineetika, Telekineetika või supervõimeid nagu Kurnamine, Energiakontroll, Nähtamatus, Teleport ja Ilmakontroll. Vaimud võivad olla haavatavad maagia, nõiduse, psüühiliste võimete või supervõimete suhtes.
 
 **Oskused:** Vastavalt vajadusele.
 
-### Ghoul
+### Ghouli
 
-Ghouls (kaabakad) on hirmuäratavalt moondunud inimesed, kes toituvad surnutest, olles elu ja surma vahel. Nad on oma loomult metslased ja neil on vähe juhitavat intelligentsust. Enamikul ghoulidel puudub POW, olles tekkinud siis, kui pahatahtlik vaim vallutab värskelt surnud laiba. Laip transfigureeritakse, animeeritakse ja ta peab nüüd toitmiseks sööma liha (elavat või surnut).
+Ghouli on kohutavalt deformeerunud inimesed, kes toituvad surnutest, olles elu ja surma vahel. Nad on metsalisliku temperamendiga ja neil on vähe juhitavat intelligentsust. Enamikul ghouli-del puudub VÄG, kuna nad tekivad siis, kui pahatahtlik vaim vallutab värskelt surnud laiba. Laip transfigureeritakse, animeeritakse ja ta peab nüüd toitaine saamiseks (elav või surnud) liha õgima.
 
-Ghouls saavad võimepunkte surnukehade tarbimisega, kiirusega 1 võimepunkt iga 3 SIZ-punkti kohta. Ghoul peab igal hommikul kulutama 1 võimepunkti või kokku kukkuma, sest tema vaim on sunnitud naasma teise maailma. Kui see juhtub, laguneb ghouli laip kiiresti, mille järel ta on lõplikult surnud. Lisaks sunnib iga tund päikesevalguse käes olemist ghouli kulutama 1 võimepunkti. Normaalsetes tingimustes on ghoulil talletatud 2D6+6 võimepunkti.
+Ghouli-d saavad võimepunkte laipade tarbimisega kiirusega 1 võimepunkt iga 3 SUU-punkti kohta. Ghouli peab igal hommikul kulutama 1 võimepunkti või kokku kukkuma, tema vaim on sunnitud naasma teispoolsusesse. Kui see juhtub, ghouli laip laguneb kiiresti, mille järel ta on lõplikult surnud. Lisaks sunnib iga päikesevalguse käes viibimise tund ghouli kulutama 1 võimepunkti. Tavatingimustes on ghouli-l varuks 2D6+6 võimepunkti.
 
-| STR | CON | SIZ | INT | DEX |
+| JÕU | VAS | SUU | INT | OSA |
 | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+6 | 3D6 | 3D6 |
 | 14 | 10–11 | 13 | 10–11 | 10–11 |
 
-| Liikuda 8 | Elupunktid 12 |
+| Liikumine 8 | Elupunktid 12 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub (võib kanda soomust) |
+| **Kahjumodifikaator** +1D4 | **Soomus** Puudub (võib kanda soomust) |
 
 **Rünnakud:**
 
@@ -314,467 +314,467 @@ Ghouls saavad võimepunkte surnukehade tarbimisega, kiirusega 1 võimepunkt iga 
 * Hammustus 30%, 1D6+dm (veritsev) + mürk (vt allpool)
 * Ulumine 100%, eriline (vt allpool)
 
-Ghoul ründab samaaegselt nii küünistega kui ka hammustusega. Hammustades süstib ghoul sihtmärki mürgiga, mille POT on võrdne tema CON-iga. Sihtmärk peab tegema vastupanuviseviske CON-i vastu mürgi POT-i vastu. Kui sihtmärk kaotab, siseneb nende süsteemi mürgi täispotents. Kui nad edukalt vastu peavad, süstitakse ainult 1D3 mürgi POT-ist. Kui süstitud POT-i koguarv on võrdne või suurem kui hammustatud tegelase CON, on nad halvatud, kuni vastumürk mürgi neutraliseerib. Ebaõnnelik tegelane jääb sellesse seisundisse nii mitmeks päevaks, kui neil on CON-punkte, kaotades iga päev 1 CON-punkti. Ghouli hammustatud (kuid mitte halvatud) tegelane puhastab mürgi oma süsteemist kiirusega 1 POT päevas.
+Ghouli ründab samaaegselt nii küünistega kui ka hammustusega. Hammustades süstib ghouli sihtmärki mürgiga, mille POT on võrdne tema VAS-ga. Sihtmärk peab tegema vastupanuveeretuse oma VAS-ga mürgi POT-i vastu. Kui sihtmärk kaotab, siseneb mürgi täielik POT nende süsteemi. Kui nad edukalt vastu peavad, süstitakse vaid 1D3 mürgi POT-ist. Kui süstitud POT-i kogus on võrdne hammustatud tegelase VAS-ga või suurem sellest, on nad halvatud, kuni vastumürk mürgi neutraliseerib. Õnnetu tegelane jääb sellesse olekusse sama mitmeks päevaks, kui neil on VAS-i punkte, kaotades iga päev 1 punkti VAS-d. Ghouli hammustatud (kuid mitte halvatud) tegelane puhastab mürgi oma süsteemist kiirusega 1 POT päevas.
 
-Ghouls kasutavad võitluses verdtarretavat ulumist kõigi vastu, kes on ½ ghouli CON-ist meetrites (ümardatud ülespoole). Kui ghoul ulub, tee vastupanuviseviske tema praeguste võimepunktide vastu iga sihtmärgi INT-i vastu. Kui ulub rohkem kui üks ghoul, kasuta selle ghouli võimepunkte, kellel on kõige rohkem võimepunkte. Kui sihtmärk on alistatud, on nad uimastatud, kuni ulumine lõpeb. Kui tegelane ulumise mõjudele vastu peab, peavad nad järgmisel voorul uuesti proovima. Tegelane, kes peab edukalt vastu viis järjestikust võitlusvooru, muutub ajutiselt selle mõjude suhtes immuunseks (mängujuhi äranägemisel). Ghouli ulumine maksab 1 võimepunkti. Maagilised loitsud Countermagic ja Resist Magic ei kaitse ghouli ulumise eest.
+Ghouli-d kasutavad võitluses verejahutavat ulumist kõigi vastu, kes on ½ ghouli VAS-st meetrites (ümardatuna üles). Kui ghouli ulub, tee vastupanuveere tema praeguste võimepunktide vs. iga sihtmärgi INT vahel. Kui ulub rohkem kui üks ghouli, kasuta selle ghouli võimepunktide summat, kellel on kõige rohkem võimepunkte. Kui sihtmärk ületatakse, on nad uimastatud, kuni ulumine lakkab. Kui tegelane ulgumise mõjudele vastu peab, peavad nad järgmisel ringil uuesti proovima. Tegelane, kes peab edukalt vastu viis järjestikust võitlusringi, muutub ajutiselt selle mõjude suhtes immuunseks (mängujuhi äranägemisel). Ghouli ulumine maksab 1 võimepunkti. Maagialoitsud Vastumaagia ja Maagia vastupanu ei kaitse ghouli ulgumise eest.
 
-**Oskused:** Climb 60%, Dodge 45%, Grapple 50%, Hide 35%, Jump 50%, Listen 60%, Sense 40%, Spot 50%, Stealth 60%.
+**Oskused:** Ronimine 60%, Põiklemine 45%, Maadlus 50%, Peitumine 35%, Hüppamine 50%, Kuulmine 60%, Tunnetus 40%, Märkamine 50%, Hiilimine 60%.
 
-**Võimed:** Intelligentsemad ghouls võivad tunda nõidust. Kõigil ghoulidel on loomupärane võime nagu Super Sense (Öönägemine), mille tasemed on võrdsed ½ ghouli INT-st (ümardatud ülespoole).
+**Võimed:** Intelligentsemad ghouli-d võivad teada nõidumist. Kõigil ghouli-del on loomulik võime nagu Super-tunnetus (Öine nägemine), mille tase on võrdne ½ ghouli INT-st (ümardatuna üles).
 
 ### Hiiglane
 
-Hiiglased on tohutud, koledad humanoidid, kellel on maitse inimliha järele. Nad on tõredad ja ebausaldusväärsed olendid ning tavaliselt vaid pisut vähem hävitavad kui tornaado. Traditsiooniliselt on hiiglastel mitu erinevat kultuuri, mis põhinevad nende keskkonnal, nagu mägihiiglased, merehiiglased, mäetippude hiiglased, tulehiiglased, jäähiiglased jne. Need tüübid erinevad tavaliselt drastiliselt intelligentsuse, suuruse ja käitumise poolest. Mõnel neist on ühiskonnad, kohtud ja oma keeled.
+Hiiglased on hiiglaslikud, inetud humanoidid, kellel on maitse inimliha järele. Nad on tõrksad ja ebausaldusväärsed olendid ning tavaliselt vaid pisut vähem hävitavad kui tornaado. Traditsiooniliselt on hiiglastel mitu erinevat kultuuri, mis põhinevad nende keskkonnal, nagu mägihiiglased, merehiiglased, mägihiiglased, tulehiiglased, jäähiiglased jne. Need tüübid erinevad tavaliselt drastiliselt intelligentsuse, suuruse ja käitumise poolest. Mõnel neist on ühiskonnad, kohtud ja oma keeled.
 
-Järgnev on täiskasvanud, 8-meetrine „üldine“ hiiglane, umbes 60 aastat vana. Hiiglastel on eluiga nagu inimestel ja nad kasvavad 1D6+6 SIZ ja 1D6+6 STR iga kümne aasta järel, kuid nad ei kannata vananemise mõjude all. Vähem võimsa hiiglase puhul lahuta vanust, kuni saavutatakse soovitud STR ja SIZ.
+Järgnev on täiskasvanud, 8 meetri pikkune "üldine" hiiglane, ligikaudu 60 aastat vana. Hiiglastel on eluiga nagu inimestel ja nad kasvavad iga kümne aasta järel 1D6+6 SUU ja 1D6+6 JÕU võrra, kuid ei kannata vananemise mõjude all. Vähem võimsa hiiglase puhul lahuta vanust, kuni ta on soovitud JÕU ja SUU.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 24D6+48 | 16D6+48 | 24D6+48 | 3D6 | 3D6 | 3D6 | 2D6 |
 | 132 | 104 | 132 | 10–11 | 10–11 | 10–11 | 7 |
 
-| Liikuda 18 | Elupunktid 118 |
+| Liikumine 18 | Elupunktid 118 |
 | :---- | :---- |
 | **Kahjumodifikaator** +15D6 | **Soomus** 21-punktiline nahk (vt allpool) |
 
 **Rünnakud:**
 
-* Klubi 35%, 3D6+dm (muljuv + tagasilöök)
-* Kick/Stomp 35%, 1D6+dm (muljuv + tagasilöök)
-* Visatud kivi 35%, 2D6+½dm (muljuv)
+* Kurikas 35%, 3D6+dm (purustav + tagasilöök)
+* Kik/Trampimine 35%, 1D6+dm (purustav + tagasilöök)
+* Visatav kivi 35%, 2D6+½dm (purustav)
 
-Hiiglased kasutavad lahingus tohutuid klubisid või puutüvesid ja spetsialiseeruvad pühkimisrünnakutele. Hiiglase klubil on elupunktid, mis on võrdsed 10 + tema kahjumodifikaatori täringutega.
+Hiiglased kasutavad lahingus tohutuid kurikaid või puutüvesid ja spetsialiseeruvad pühkimisrünnakutele. Hiiglase kurikal on elupunktid võrdsed 10+ tema kahjumodifikaatori täringutega.
 
-**Võimed:** Mõned võimsad ja vanemad hiiglased kasutavad maagiat või nõidust.
+**Võimed:** Mõned võimsad ja vanemad hiiglased kasutavad maagiat või nõidumist.
 
-**Oskused:** Sense 60%, Spot 40%, Throw 35%.
+**Oskused:** Tunnetus 60%, Märkamine 40%, Viskamine 35%.
 
-Hiiglastel on kõva nahk, mille väärtus on 6 punkti pluss nende kahjumodifikaator D6-tes, seega hiiglasel, kellel on 15D6 kahjumodifikaator, on 21-punktiline nahk. Mõned hiiglased kannavad jalgadel soomust (sageli plaatsoomust), mis lisab nendele kohtadele soomuse väärtust. Kui kasutatakse löögikohti, peaksid tavalise suurusega tegelased, kes võitlevad hiiglastega, veeretama ainult 1D10, et määrata tabatud koht, välja arvatud juhul, kui nad kasutavad rakettrelvi.
+Hiiglastel on karm nahk, mis on väärt 6 punkti pluss nende kahjumodifikaator D6-tes, seega hiiglasel, kellel on 15D6 kahjumodifikaator, on 21-punktiline nahk. Mõned hiiglased kannavad jalasoomust (sageli plaadid), mis lisab nendele kohtadele soomusväärtust. Kui kasutatakse tabamiskohti, peaksid hiiglastega võitlevad normaalsuuruses tegelased veeretama tabamiskoha määramiseks ainult 1D10, välja arvatud juhul, kui nad kasutavad rakettrelvi.
 
 ### Griffin
 
-Griffinid on kimäärsed olendid, mis koosnevad lõvi kehast ja tagajalgadest ning kotka peast, esikäppadest ja tiibadest. Nendel lendavatel röövlindudel on traditsiooniliselt mäetippude pesad ja neid kujutatakse sageli heraldilistel kujutistel.
+Griffinid on kimäärsed olendid, mis koosnevad lõvi kehast ja tagajalgadest ning kotka peast, esijalgadest ja tiibadest. Nendel lendavatel röövloomadel on traditsiooniliselt mäetippudes pesad ja neid kujutatakse sageli heraldilistel kujutistel.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 10D6 | 3D6+12 | 10D6 | 6 | 3D6+6 | 3D6+12 |
 | 35 | 22–23 | 35 | 6 | 16–17 | 22–23 |
 
-| Liikuda 8 (12 lendades) | Elupunktid 29 |
+| Liikumine 8 (12 lennates) | Elupunktid 29 |
 | :---- | :---- |
 | **Kahjumodifikaator** +3D6 | **Soomus** 6-punktiline nahk |
 
 **Rünnakud:**
 
-* Hammustamine 70%, 1D6+dm (läbistav)
+* Hammustus 70%, 1D6+dm (läbistav)
 * Küünis 70%, 1D6+dm (veritsev)
 
-Griffin ründab kahe küünisega samaaegselt ja hammustab 5 DEX-i järjekorranumbrit hiljem.
+Griffin ründab kahe küünisega korraga ja hammustab 5 OSA järgu võrra hiljem.
 
-**Oskused:** Dodge 30%, Fly 100%, Listen 50%, Sense 65%, Spot 75%.
+**Oskused:** Põiklemine 30%, Lendamine 100%, Kuulmine 50%, Tunnetus 65%, Märkamine 75%.
 
-### Poolpikk (Halfling)
+### Poolik
 
-Poolpikad on väikesed, inimtüüpi olendid, üldiselt rahumeelsed ja tsiviliseeritud. Traditsiooniliselt armastavad nad süüa, piibutamist ja joomist ning neil on vaiksed ametid, nagu põllumajandus, käsitöö ja võõrastemaja pidamine. Poolpikad elavad tavaliselt väikestes maapiirkondades talumajades või maa-alustes urgudes. Nad loobuvad sageli kingade kandmisest.
+Poolikud on väikesed inimlaadsed olendid, üldiselt rahumeelsed ja tsiviliseeritud. Traditsiooniliselt armastavad nad süüa, piibutamist ja joomist ning neil on vaiksed elukutsed, nagu põllumajandus, käsitöö ja võõrastemaja pidamine. Poolikud elavad tavaliselt väikestes maapiirkondades talumajades või maa-alustes urgudes. Nad sageli loobuvad kingade kandmisest.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6 | 2D6+12 | 1D3+3 | 2D6+6 | 2D6+3 | 2D6+10 | 3D6 |
 | 7 | 19 | 4–5 | 13 | 10 | 17 | 10–11 |
 
-| Liikuda 6 | Elupunktid 12 |
+| Liikumine 6 | Elupunktid 12 |
 | :---- | :---- |
-| **Kahjumodifikaator** –1D6 | **Soomus** puudub (võib kanda soomust) |
+| **Kahjumodifikaator** –1D6 | **Soomus** Puudub (võib kanda soomust) |
 
 **Rünnakud:**
 
 * Lühimõõk 35%, 1D6+1+dm (veritsev)
-* Sling 35%, 1D8+½dm (muljuv)
-* Visatud kivi 50%, 1D4 (puudub kahjumodifikaator, muljuv)
-* Poolpikad on kivide viskamise eksperdid ja nad ei kannata oma negatiivse kahjumodifikaatori all.
+* Ling 35%, 1D8+½dm (purustav)
+* Visatav kivi 50%, 1D4 (puudub kahjumodifikaator, purustav)
+* Poolikud on kivide viskamise eksperdid ja nad ei kannata oma negatiivse kahjumodifikaatori all.
 
-**Oskused:** Appraise 35%, Bargain 35%, Craft (põllumajandus) 75%, Dodge 60%, Drive (vanker) 45%, Grapple 35%, Hide 65%, Knowledge (Poolpika-lore) 35%, Language (Poolpika) 75%, Language (Inimene) 65%, Listen 65%, Sense 45%, Spot 50%, Throw 50%.
+**Oskused:** Hindamine 35%, Kauplemine 35%, Käsitöö (põllumajandus) 75%, Põiklemine 60%, Sõitmine (vanker) 45%, Maadlus 35%, Peitumine 65%, Teadmised (Poolik-pärimus) 35%, Keel (Poolik) 75%, Keel (Inimeste) 65%, Kuulmine 65%, Tunnetus 45%, Märkamine 50%, Viskamine 50%.
 
-**Võimed:** Traditsiooniliselt väldivad poolpikad maagiat, kuigi mõned harvad kasutavad maagiat. Veel vähem kasutavad nõidust.
+**Võimed:** Traditsiooniliselt väldivad poolikud maagiat, kuigi mõned harvad kasutavad maagiat. Veel vähem kasutavad nõidumist.
 
-### Minotaur
+### Minotaurus
 
-Minotaurid on pulli peaga ja kabjaliste jalgadega humanoidid. Tõredad ja vägivaldsed, neil on vähe oma tsivilisatsiooni ja nad eelistavad elada varemetes või metsikus looduses. Mõned oskavad rääkida, teised aga on metsalised ja neil pole keelelisi võimeid.
+Minotaurused on humanoidid, kellel on härja pea ja sõralised jalad. Tõrksad ja vägivaldsed, neil on vähe oma tsivilisatsiooni, eelistades elada varemetes või metsikus looduses. Mõned oskavad rääkida, samas kui teised on metsalislikud ja neil puuduvad keeleoskused.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 1D6+12 | 3D6+12 | 2D6 | 3D6 | 3D6 | 2D6 |
 | 22–23 | 15–16 | 22–23 | 7 | 10–11 | 10–11 | 7 |
 
-| Liikuda 6 | Elupunktid 19 |
+| Liikumine 6 | Elupunktid 19 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** 3-punktiline nahk (saab kanda muud soomust, tavaliselt nahka) |
+| **Kahjumodifikaator** +2D6 | **Soomus** 3-punktiline nahk (saab kanda muud soomust, tavaliselt nahk) |
 
 **Rünnakud:**
 
 * Suur kirves 55%, 3D6+dm (veritsev)
 * Pealöök 35%, 1D6+dm (tagasilöök)
-* Brawl 50%, 1D3+dm (muljuv)
+* Kaklus 50%, 1D3+dm (purustav)
 
-Minotaur võib võitlusvoorus kasutada kas pealööki või relvarünnakut. Minotaur saab mõlemat kasutada vaid voorus, kui ta on muul viisil võimeline voorus kahte rünnakut tegema.
+Minotaurus saab võitlusringis kasutada kas pealööki või relvarünnakut. Minotaurus saab mõlemat kasutada vaid siis, kui ta on muidu võimeline tegema kaks rünnakut ringis.
 
-**Oskused:** Dodge 40%, Listen 35%, Sense 30%, Spot 35%, Track 55%.
+**Oskused:** Põiklemine 40%, Kuulmine 35%, Tunnetus 30%, Märkamine 35%, Jälitamine 55%.
 
-**Võimed:** Minotaurid põlgavad tavaliselt igasugust maagiat ja vaid harvadel juhtudel teab mõni neist mingeid loitsusid. Kui minotaur saab haavata või saavutab vastase löömisel erilise õnnestumise, läheb ta marru 24–CON pöördeks. See on sarnane nõiduse loitsuga Fury. Marrus minotaur saab üritada raevu maha raputada, tehes eduka INTx1-viske. Pärast seda marru loetakse teda väsinuks (kui väsimust ei kasutata, on kõik visked Rasked), kuni tal on olnud võimalus puhata.
+**Võimed:** Minotaurused põlgavad tavaliselt igasugust maagiat ja vaid harvadel juhtudel teab mõni neist loitse. Kui minotaurus saab haavata või saavutab vastast lüües erilise õnnestumise, läheb ta raevu 24–VAS vooruks. See on nagu nõidumisloits Raev. Raevunud minotaurus saab proovida raevust vabaneda, tehes eduka INT×1 veeretuse. Pärast seda raevu on ta kurnatud (kui väsimust ei kasutata, on kõik veeretused Rasked), kuni tal on võimalus puhata.
 
 ### Muumia
 
-Muumia on surnud olend, mis on moodustatud säilinud, kuivatatud laibast ja toodud ellu needuse või võimsa nekromantia kaudu. Mõned kultused hoiavad muumiaid oma templites valvuritena, teised muumiad tõusevad surnust, et kaitsta oma haudu hauakirstude röövimise eest. Mõned muumiad räägivad, teised jäävad vait. Kõik muumiad pole bandaažidega mähitud – mõned kannavad ehteid ja väärtuslikke esemeid, nagu nende staatus elus nõudis.
+Muumia on surnud olend, mis on moodustatud säilitatud, kuivatatud laibast, mis on toodud tagasi ellu needuse või võimsa nekromantia kaudu. Mõned kultused hoiavad muumiaid oma templites kaitsjatena, samas kui teised muumiad tõusevad surnuist, et kaitsta oma haudu hauaröövlite eest. Mõned muumiad räägivad, samas kui teised jäävad vait. Kõik muumiad pole sidemetesse mähitud – mõned kannavad ehteid ja väärtuslikke esemeid, nagu nende eluaegne staatus seda nõudis.
 
-Oma liha kuiva, kuivanud oleku tõttu on tuli muumiate vastu eriti tõhus. Muumia süütamine on kaks korda lihtsam kui teise tavalise sihtmärgi süütamine, ja kuigi kahju on normaalne, on tulekahjusid raskem kustutada (langeta tõenäosust, et tuli kustub, poole võrra). Võimetel, mis kasutavad tuld, on samuti see mõju.
+Oma liha kuiva, kuivanud oleku tõttu on tuli muumiate vastu eriti tõhus. Muumia süütamine on kaks korda lihtsam kui teise tavalise sihtmärgi süütamine ja kuigi kahju on normaalne, on tuld raskem kustutada (vähenda tule kustumise tõenäosust poole võrra). Võimetel, mis kasutavad tuld, on samuti see mõju.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 4D6+3 | 2D6+6 | 3D6 | 1D6+12 | 2D6 | – |
 | 21 | 17 | 13 | 10–11 | 15–16 | 7 | – |
 
-| Liikuda 8 | Elupunktid 15 |
+| Liikumine 8 | Elupunktid 15 |
 | :---- | :---- |
 | **Kahjumodifikaator** +1D6 | **Soomus** 3-punktiline nahk (võib kanda soomust) |
 
 **Rünnakud:**
 
-* Rusikahoop 70%, 1D3+dm (muljuv)
+* Rusikas 70%, 1D3+dm (purustav)
 * Maadlus 25%, eriline
 * Lühimõõk 45%, 1D6+1+dm (veritsev)
 
-Muumia saab teha kaks rusikahoopi iga võitlusvooru ajal. Kui ta õnnestub mõlema rünnakuga, üritab ta järgmisel voorul sihtmärki maadelda ja lämmatada. Muumia võib kasutada oma endise elu ajastule vastavaid iidseid relvi.
+Muumia saab rünnata kahe rusikarünnakuga igas võitlusringis. Kui see õnnestub mõlema rünnakuga, üritab ta järgmisel ringil oma sihtmärki maadleda ja kägistada. Muumia võib kasutada iidseid relvi, mis sobivad tema endise elu ajastuga.
 
-**Oskused:** Language (iidne keel) 90%, Listen 50%, Sense 45%, Spot 50%, Stealth 50%.
+**Oskused:** Keel (iidne keel) 90%, Kuulmine 50%, Tunnetus 45%, Märkamine 50%, Hiilimine 50%.
 
-**Võimed:** Muumiad võivad mäletada nõidust oma endisest elust. Muumiast nõial võivad olla need loitsud mälus: Brazier of Power (4), Gift of the Earth (4), Pox (1), Sorcerer’s Talons (2). Kui muumia haud on terve, on tal tõenäoliselt juurdepääs oma grimoarile, loitsukirjadele ja paljudele maagilistele esemetele.
+**Võimed:** Muumiad võivad mäletada nõidumist oma endisest eksistentsist. Muumiast nõial võib mälus olla need loitsud: Väe brazier (4), Maa kingitus (4), Pox (1), Nõia küünised (2). Kui muumia haud on puutumata, on tal tõenäoliselt juurdepääs oma grimoarile, loitsukirjadele ja paljudele maagilistele esemetele.
 
 ### Ork
 
-Orkid on metsikud, metsalised humanoidid, kes põlgavad inimesi, haldjaid, kääbuseid ja peaaegu kõiki teisi inimesi, keda nad kohtavad. Neil on tavaliselt hallikas nahk, kihvad ja teravad kõrvad, ning neid nimetatakse mõnikord goblinideks. Orkid eelistavad pimedust, kuid saavad päevavalguses piisavalt hästi hakkama. Neil on karm tsivilisatsioon, mis põhineb peaaegu täielikult jõhkrusel ja orjastamisel, nii omade kui ka kõigi ebaõnnelike vangide puhul. Nad harrastavad isegi kannibalismi oma liigi nõrkade või ebaõnnelike liikmete suhtes. Orkid teenivad sageli pimeduse jõude või ründavad teisi oma lõbustuseks ja rikastumiseks. Mõned orkid ratsutavad hiidhuntidel, keda aretatakse ratsudena. Võib eksisteerida palju tüüpe orke, mis põhinevad keskkondlikel, kultuurilistel, regionaalsetel või muudel variatsioonidel. Levinud tüübid on kardetavad „suuremad“ orkid (STR 5D6, CON 3D6+3 ja SIZ 3D6+6) ja katkised „väiksemad“ orkid (STR 3D6, SIZ 2D6).
+Orkid on metsikud, metsalislikud humanoidid, kes põlgavad inimkonda, elfe, kääbuseid ja peaaegu kõiki teisi inimesi, keda nad kohtavad. Neil on tavaliselt hallikas nahk, kihvad ja teravatipulised kõrvad ning neid nimetatakse mõnikord gobliniteks. Orkid eelistavad pimedust, kuid saavad päevavalguses piisavalt hästi hakkama. Neil on karm tsivilisatsioon, mis põhineb peaaegu täielikult jõhkruses ja nende endi ning kõigi õnnetute vangide orjastamises. Nad praktiseerivad isegi kannibalismi oma liigi nõrkade või õnnetute liikmete peal. Orkid teenivad sageli pimeduse jõude või röövivad teisi oma lõbuks ja rikastumiseks. Mõned orkid sõidavad hiiglaslike huntidega, mis on aretatud ratsudena. Võib eksisteerida palju orkide tüüpe, tuginedes keskkonna-, kultuurilistele, piirkondlikele või muudele erinevustele. Levinud tüübid on hirmuäratavad "suuremad" orkid (JÕU 5D6, VAS 3D6+3 ja SUU 3D6+6) ja kahjurid "väiksemad" orkid (JÕU 3D6, SUU 2D6).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+2 | 3D6 | 2D6+3 | 4D6 | 2D6 |
 | 14 | 10–11 | 9 | 10–11 | 10 | 14 | 7 |
 
-| Liikuda 8 | Elupunktid 10 |
+| Liikumine 8 | Elupunktid 10 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 6-punktiline rõngas ja kerge kiiver |
+| **Kahjumodifikaator** Puudub | **Soomus** 6-punktiline rõngas ja kerge kiiver |
 
 **Rünnakud:**
 
 * Skimitar 35%, 1D8+1+dm (veritsev)
 * Komposiitvibu 35%, 1D8+1+½dm (läbistav)
-* Lühioda 35%, 1D6+1+dm (läbistav)
-* Lühioda (visatud) 35%, 1D6+1+½dm (läbistav)
-* Naastrehvidega kilp 35%, 1D3+dm (läbistav)
+* Lühike oda 35%, 1D6+1+dm (läbistav)
+* Lühike oda (visatav) 35%, 1D6+1+½dm (läbistav)
+* Naastudega kilp 35%, 1D3+dm (läbistav)
 
-**Oskused:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orki-lore) 35%, Language (Inimene) 25%, Language (Orki) 60%, Listen 50%, Ride (hunt) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
+**Oskused:** Ronimine 55%, Põiklemine 40%, Peitumine 35%, Teadmised (Ork-pärimus) 35%, Keel (Inimeste) 25%, Keel (Orkide) 60%, Kuulmine 50%, Ratsutamine (hunt) 50%, Tunnetus 35%, Märkamine 45%, Hiilimine 40%, Jälitamine 30%
 
-**Võimed:** Nõidus on orkide ühiskonnas kõige kardetum võime, kus orki nõiad teenivad sageli preestrite või juhtidena. Nõidust kasutaval orkil on POW 16+ ja ta võib tunda järgmisi loitsusid: Cloak of Night (2), Pox (1), Vermin’s Vision (1), Hell’s Razor (1), Lightning Speed (2), Ward (3).
+**Võimed:** Nõidumine on orkide ühiskonnas kõige hirmuäratavam võime, kus ork-nõidujad teenivad sageli preestrite või juhtidena. Nõidumist kasutaval orkil on VÄG 16+ ja ta võib tunda järgmisi loitse: Öö keep (2), Pox (1), Kahjurite nägemus (1), Põrgu habemenuga (1), Välkkiirus (2), Kaitse (3).
 
 ### Luukere
 
-Animeeritud luukered on kas maagia abil loodud või kutsutud või iidse needuse tulemus. Enamik on inimjäänused, kuid on olemas ka teiste liikide luukered. Animeeritud luukeredega kohtab peaaegu alati valvamas mingit aaret, iidset hauda või muud kurjakuulutavat kohta. Luukered liiguvad sama kiirusega, nagu nad elus tegid, kuid ei saa ujuda. Neil pole väsimuspunkte ja nad ei väsi kunagi.
+Animeeritud luukered on kas maagia kaudu loodud või kutsutud või iidse needuse tulemus. Enamik on inimjäänused, kuid eksisteerib ka teiste liikide luukeresid. Animeeritud luukeresid kohatakse peaaegu alati valvamas mingit aaret, iidset hauda või mõnda muud kurjakuulutavat kohta. Luukered liiguvad sama kiirusega, nagu nad elus tegid, kuid ei saa ujuda. Neil pole väsimuspunkte ja nad ei väsi kunagi.
 
-| STR | SIZ | INT | POW | DEX |
+| JÕU | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 2D6+6 | 3D6 | 1 | 3D6 |
 | 10–11 | 13 | 10–11 | 1 | 10–11 |
 
-| Liikuda 10 | Elupunktid 13 (vt allpool) |
+| Liikumine 10 | Elupunktid 13 (vt allpool) |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub (võib kanda soomust, vt ka allpool immuunsuste kohta) |
+| **Kahjumodifikaator** Puudub | **Soomus** Puudub (võib kanda soomust, vt ka allpool immuunsuste kohta) |
 
 **Rünnakud:**
 
-* Laiamõõk 55%, 1D8+1+dm (veritsev)
-* Iselaskev vibu 50%, 1D6+1+½dm (läbistav)
+* Laiemõõk 55%, 1D8+1+dm (veritsev)
+* Ise vibu 50%, 1D6+1+½dm (läbistav)
 * Suur ümmargune kilp 55%, 1D4+dm (tagasilöök)
 
-**Oskused:** Dodge 40%
+**Oskused:** Põiklemine 40%
 
-Luukeredel pole CON-i ja nende elupunktid võrduvad nende SIZ-iga. Nad on immuunsed veritsevate ja läbistavate tabamuste erimõjudele. Nad ei saa üldse kahju läbistavatest relvadest, välja arvatud juhul, kui tabamus oli eriline õnnestumine või kriitiline tabamus, mil juhul kahju võetakse, kuid sekundaarsed mõjud ignoreeritakse.
+Luukeredel puudub VAS ja nende elupunktid on võrdsed nende SUU-ga. Nad on immuunsed verejooksu ja läbistavate tabamuste eriefektidele. Nad ei võta mingit kahju torkerelvadest, välja arvatud juhul, kui tabamus oli eriline õnnestumine või kriitiline tabamus, mil juhul võetakse kahju, kuid sekundaarsed mõjud ignoreeritakse.
 
-Kuivad kondid on haprad ning purunevad ja kildudeks saavad raskest löögist kergesti. Sõltumata luukere praegustest elupunktidest on igal luukeret tabaval löögil protsentuaalne võimalus luukere hävitada, mis võrdub tekitatud kahjuga korrutatuna ×4, lisaks normaalsele elupunktide kaotusele. Kui vise on edukas, puruneb luukere koheselt kondikildudeks.
+Kuivad luud on haprad ja purunevad ning pragunevad kergesti raskest löögist. Sõltumata luukere praegustest elupunktidest, on igal luukeret tabaval löögil protsentuaalne võimalus luukere hävitada, mis on võrdne tehtud kahjuga korrutatuna ×4, lisaks normaalsele elupunktide kaotusele. Kui veere õnnestub, puruneb luukere hetkega luukildudeks.
 
 ### Troll
 
-Trollid on hiiglaslikud, liha söövad humanoidid, kellel on karm rohekasmust nahk, karvased õlad ja käed ning pikad küünised. Nad elavad traditsiooniliselt mägedes ja metsades, eelistades elada koobastes või mõnikord sildade all. Mõned trollid oskavad rääkida, teised aga on metsalised ja ei oska. Nad on öised olendid ja väldivad võimalusel päikesevalgust. Võib eksisteerida teisi trolliliike, tavaliselt nimetatud nende keskkondade järgi (kivi, jää, puit, rock, mägi, mägi, liiv, meri, järv, soo, raba jne), erinedes värvuse ja muude viiside poolest. Targemad trollid kasutavad keerukamaid relvi, samas kui mõned kannavad isegi rasket soomust.
+Trollid on hiiglaslikud, liha söövad humanoidid, kellel on kare rohekasmust nahk, karvased õlad ja käed ning pikad küünised. Nad elavad traditsiooniliselt mägedes ja metsades, eelistades elada koobastes või mõnikord sildade all. Mõned trollid oskavad rääkida, samas kui teised on metsalislikud ja ei oska. Nad on öised olendid ja väldivad päikesevalgust alati, kui saavad. Võib eksisteerida ka teisi trolliliike, mis on tavaliselt nimetatud nende keskkondade järgi (kivi, jää, puit, kalju, küngas, mägi, liiv, meri, järv, soo, raba jne), erinedes värvuse ja muude viiside poolest. Targemad trollid kasutavad keerukamaid relvi, samas kui mõned kannavad isegi rasket soomust.
 
-Enamik kohatud trolle on isased, samas kui naistrollid (kutsutud trollinaisteks) on väiksemad ja nõrgemad (–6 STR ja SIZ juures), kuid targemad ja kiiremad (+1D6 INT, POW ja DEX juures).
+Enamik kohatud trolle on isased, samas kui emas-trollid (kutsutud trollinaisteks) on väiksemad ja nõrgemad (–6 JÕU-le ja SUU-le), kuid targemad ja kiiremad (+1D6 INT-le, VÄG-le ja OSA-le).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 2D6+6 | 4D6+12 | 2D6 | 2D6 | 2D6+3 | 1D6 |
 | 22–23 | 13 | 26 | 7 | 7 | 10 | 3–4 |
 
-| Liikuda 6 | Elupunktid 20 |
+| Liikumine 6 | Elupunktid 20 |
 | :---- | :---- |
 | **Kahjumodifikaator** +2D6 | **Soomus** 3-punktiline nahk |
 
 **Rünnakud:**
 
-* Puutüve klubi 45%, 1D10+2+dm (muljuv)
+* Puutüvest kurikas 45%, 1D10+2+dm (purustav)
 * Küünis 50%, 1D6+dm (veritsev)
 * Maadlus 50%, eriline
 
-Trolli tavaline taktika on lüüa oma klubiga, siis lüüa küünisega, kuid troll ei saa parrieerida, kui ta seda teeb. Nagu hiiglase klubil, on trolli puutüve klubil elupunktid, mis võrduvad 10 + tema kahjumodifikaatori täringutega.
+Trolli tavapärane taktika on lüüa oma kurikaga ja seejärel tabada küünisega, kuid troll ei saa sel juhul tõrjuda. Nagu hiiglase kurikas, on trolli puutüvest kurikal elupunktid, mis on võrdsed 10+ tema kahjumodifikaatori täringutega.
 
-**Võimed:** Trollid regenereeruvad vigastustest kiiresti, tervendades 1D3 elupunkti iga võitlusvooru kohta, kui nad pole surnud. Kui kasutatakse löögikohti, paranevad trollid 1 elupunkti haavatud löögikoha kohta iga võitlusvooru ajal. Kui troll on päikesevalguses või kui kahju tekitas tuli, need haavad ei regenereeru. Trollid näevad pimeduses, nagu neil oleks Super Sense (Öönägemine) võime tasemetega, mis on võrdsed ½ trolli POW-ga (ümardatud ülespoole). Trollinaised on peaaegu alati nõidust kasutavad nõiad, varustatud loitsudega nagu Curse of Sorcery (4), Pox (1), Undo Sorcery (2) ja Witch Sight (3).
+**Võimed:** Trollid regenereeruvad vigastustest kiiresti, tervenedes 1D3 elupunkti võitlusringi kohta, välja arvatud juhul, kui nad on surnud. Kui kasutatakse tabamiskohti, tervenevad trollid 1 elupunkti võrra haavatud tabamiskoha kohta võitlusringis. Kui troll on päikesevalguses või kui kahju tegi tuli, need haavad ei regenereeru. Trollid näevad pimedas nii, nagu neil oleks Super-tunnetus (Öine nägemine), mille tase on võrdne ½ trolli VÄG-ga (ümardatuna üles). Trollinaised on peaaegu alati nõidumist kasutavad nõiad, kes on varustatud loitsudega nagu Nõidumise needus (4), Pox (1), Nõidumise tühistamine (2) ja Nõia nägemine (3).
 
-**Oskused:** Dodge 35%, Sense 55%, Spot 55%.
+**Oskused:** Põiklemine 35%, Tunnetus 55%, Märkamine 55%.
 
 ### Ükssarvik
 
-Ükssarvik on hobusetaoline maagiline loom, kellel on väiksed kabjad ja üks pikk sirge sarv, mis ulatub otsmiku keskelt. Ükssarvikud on peaaegu alati valged, kuigi mustad või hallid pole tundmatud. Nad on üksildased, rahumeelsed metsaelanikud ja on maagia ja oma keskkonna suhtes väga tundlikud. Usutakse, et nad on surematud, kui neid ei tapeta või nende sarve ei eemaldata, ja sel põhjusel arvatakse, et nende sarved annavad surematuse. Ükssarvikuid kujutatakse sageli heraldikas ja nad on rüütelliku ning neitsiliku vooruse märk. Nad on eriti usaldavad neitsilike naiste või haldja naiste suhtes.
+Ükssarvik on hobuselaadne maagiline loom, kellel on väikesed sõrad ja üks pikk sirge sarv, mis ulatub tema otsaesise keskelt. Ükssarvikud on peaaegu alati valged, kuigi mustad või hallid pole kuulmatud. Nad on üksildased, rahumeelsed metsaelanikud ja on väga tundlikud maagia ja oma keskkonna suhtes. Usutakse, et nad on surematud, kui neid ei tapeta või nende sarve ei eemaldata, ja sel põhjusel arvatakse, et nende sarved annavad surematuse. Ükssarvikuid kujutatakse sageli heraldikas ja nad on rüütelliku ja neiuliku vooruse märk. Nad on eriti usaldavad neiulike naiste või elfide vastu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+24 | 2D6+6 | 2D6+18 | 2D6+6 | 2D6+12 | 2D6+6 | 4D6 |
 | 31 | 13 | 25 | 13 | 19 | 13 | 14 |
 
-| Liikuda 12 | Elupunktid 19 |
+| Liikumine 12 | Elupunktid 19 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** puudub |
+| **Kahjumodifikaator** +2D6 | **Soomus** Puudub |
 
 **Rünnakud:**
 
 * Sarv 75%, 1D10+dm (läbistav)
-* Kick 40%, 1D8+dm (muljuv)
-* Rear & Plunge 40%, 2D8+dm (muljuv)
-* Trampimine 75%, 2D6+dm (muljuv)
+* Kik 40%, 1D8+dm (purustav)
+* Tagumik & Sööstud 40%, 2D8+dm (purustav)
+* Trampimine 75%, 2D6+dm (purustav)
 
-Ükssarvik saab rünnata kord voorus, eelistades kasutada oma sarve. Ükssarvik saab sarvega parrieerida ning samaaegselt lüüa või sarvega torgata.
+Ükssarvik saab rünnata kord ringis, eelistades kasutada oma sarve. Ükssarvik saab sarvega tõrjuda, samuti kas samaaegselt lüüa kikiga või sarvega torgata.
 
-**Oskused:** Dodge 35%, Hide 65%, Insight 50%, Jump 90%, Listen 70%, Sense 80%, Spot 75%, Stealth 50%.
+**Oskused**: Põiklemine 35%, Peitumine 65%, Sisekaemus 50%, Hüppamine 90%, Kuulmine 70%, Tunnetus 80%, Märkamine 75%, Hiilimine 50%.
 
-**Võimed:** Ükssarvik saab oma sarvega haavu ravida, puudutades haava ja kulutades 1 võimepunkti iga taastatava elupunkti kohta. See tervendamine võib isegi kinnitada amputeeritud jäseme, kui kulutatakse vähemalt 6 võimepunkti. Mürgi või haiguse tõttu kaotatud omaduste punkte saab samuti ravida, kuid see võtab 1 punkti püsivat POW-d iga ravitud punkti kohta, seega ükssarvikud teevad seda vastumeelselt. Lisaks saab ükssarvik oma sarve puudutusega tuvastada mürki. Kui ükssarviku sarvest tehakse tass, puruneb see, kui sellesse pannakse mürki.
+**Võimed**: Ükssarvik saab oma sarvega haavu tervendada, puudutades haava ja kulutades 1 võimepunkti taastatava elupunkti kohta. See tervendamine võib isegi kinnitada tagasi eraldatud jäseme, kui kulutatakse vähemalt 6 võimepunkti. Mürgi või haiguse tõttu kaotatud omaduspunkte saab samuti ravida, kuid see võtab 1 punkti püsivat VÄG-d iga ravitud punkti kohta, nii et ükssarvikud on vastumeelsed seda tegema. Lisaks saab ükssarvik sarve puudutusega tuvastada mürki. Kui ükssarviku sarvest tehakse tass, puruneb see, kui sellesse pannakse mürki.
 
 ### Vampiir
 
-Vampiirid on surnud, kes jäävad ellu elavate verd juues. Nad luuakse siis, kui nad jagavad verd vampiiriga ja tapetakse, ning nad ärkavad uuesti raevukate olenditena. Paljud vampiirid taastavad aga oma endise intelligentsuse ja suudavad liikuda inimühiskonnas märkamatult, olles surematud, jäädes ettevaatlikuks, kui nad toituvad. Mõned on urbaniseerunud ja tsiviliseeritud ning toituvad vähematest loomadest või kasutavad muid vere hankimise meetodeid. Teised on nagu hundid, tappes karistamatult.
+Vampiirid on surnud, kes elavad elavate verd juues. Nad luuakse siis, kui nad jagavad verd vampiiriga ja nad tapetakse, nad ärkavad uuesti kui õgardlikud olendid. Siiski saavad paljud vampiirid tagasi oma endise intelligentsuse ja suudavad liikuda tuvastamatult läbi inimühiskonna, surematud, olles toitudes ettevaatlikud. Mõned on urbansed ja tsiviliseeritud ning toituvad vähematest loomadest või kasutavad muid vere hankimise vahendeid. Teised on nagu hundid, tappa karistamatult.
 
-Nagu vaimude puhul, on vampiire palju liike, ulatudes ilusatest, urbaniseeritud, intelligentsetest ja eraklikest dilettantidest kuni kohutavalt koledate koletisteni, kellel on nahkhiirelaadsed jooned ja väljaulatuvad kihvad, elades kanalisatsioonis ja olles vaevalt tundevõimelised. Mõned vampiirid võivad isegi püüelda oma eelmise elu väärtegude ja toimepandud tapmiste lunastamise poole. Järgnevalt on toodud vampiiridele omistatud omadused või aspektid, mis võivad olla tõesed või väärad.
+Nagu vaimude puhul, on vampiire palju tüüpe, ulatudes ilusatest, urbanseist, intelligentsetest ja eraldunud dilettantidest kohutavalt inetute nahkhiirelaadsete joonte ja väljaulatuvate kihvadega koletisteni, kes elavad kanalisatsioonis ja on vaevu tundlikud. Mõned vampiirid võivad isegi püüda lunastada oma eelmise elu väärtegusid ja tapmisi, mida nad korda saatsid. Järgnevad on vampiiridele omistatud omadused või aspektid, tõesed või väärad.
 
 * Vampiir ei heida peegeldust.
-* Vampiiri kolmas hammustus põhjustab ohvri surma ja seejärel muutumist surnute hulka kuuluvaks. Kui tegelane muutub vampiiriks, kahekordistuvad nende STR ja CON.
-* Vampiiridel on karvased peopesad, vastik hingeõhk ja nad nutavad veriseid pisaraid.
-* Algse või „peamise“ vampiiri tapmine ravib tema ohvrid vampiirismist. Alternatiivina tapab peamise vampiiri tapmine koheselt kõik need vampiirid, mille ta on loonud.
+* Kolmas hammustus vampiirilt põhjustab ohvri surma ja seejärel surnuist tõusmist. Kui tegelane muutub vampiiriks, kahekordistuvad nende JÕU ja VAS.
+* Vampiiridel on karvased peopesad, vastik hingeõhk ja nad nutavad verepisaraid.
+* Originaal- või "peavampiiri" tapmine ravib tema ohvrid vampiirlusest. Alternatiivina tapab peavampiiri tapmine koheselt kõik need vampiirid, mille ta on loonud.
 * Vampiirid ei saa ületada voolavat vett, nagu jõgi.
-* Küüslauk peletab vampiire. Küüslaugul on POT 2D6+6 (ainult vampiiridele) ja sellele peab vampiiri praeguste võimepunktidega vastu panema. Kui vampiir õnnestub, saab ta tegutseda küüslaugu valdaja vastu. Kui ta ebaõnnestub, on vampiir uimastatud, kuni ta pole enam küüslaugu läheduses. Kui vampiir sööb küüslauku, võtab ta 1D2 elupunkti kahju iga tarbitud küüslauguküüne kohta.
-* Vampiirid kasutavad inimteenijaid oma saladuste valvamiseks ja nende kaitsmiseks päevasel ajal.
-* Vampiir ei saa siseneda koju või elukohta ilma kutseta.
+* Küüslauk tõrjub vampiire. Küüslaugul on POT 2D6+6 (ainult vampiiridele) ja vampiiri praegused võimepunktid peavad sellele vastu seisma. Kui vampiir õnnestub, saab ta tegutseda küüslaugu-hoidja vastu. Kui see ebaõnnestub, on vampiir uimastatud, kuni ta pole enam küüslaugu juuresolekul. Kui vampiir sööb küüslauku, võtab ta 1D2 elupunkti kahju iga tarbitud küüslauguküüne kohta.
+* Vampiirid kasutavad inimsulaseid oma saladuste valvamiseks ja nende kaitsmiseks päevasel ajal.
+* Vampiir ei saa siseneda koju või elukohta kutsumata.
 
-Mõned vampiirid organiseeruvad klannidesse, igaühel neist on erinev välimus, kalduvused ja isegi võimed (vt allpool Võimed).
+Mõned vampiirid organiseeruvad klannidesse, kus igaühel on erinev välimus, kalduvused ja isegi võimed (vt Võimed, järgnevalt).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×2 | 3D6×2 | 3D6 | 2D6+6 | (13) | 3D6 | 3D6 |
 | 20–22 | 20–22 | 10–11 | 13 | (13) | 10–11 | 10–11 |
 
-| Liikuda 12 | Elupunktid 15–17 |
+| Liikumine 12 | Elupunktid 15–17 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D6 | **Soomus** puudub (saab kanda soomust) |
+| **Kahjumodifikaator** +1D6 | **Soomus** Puudub (võib kanda soomust) |
 
 **Rünnakud:**
 
-* Hammustamine 50%, 1D4+½dm (veritsev) + Vere kurnamine (vt allpool)
-* Küünis 50%, 1D4+dm (veritsev) + Chill Touch (vt allpool)
-* Hüpnootiline pilk, POW vs POW, (eriline vt allpool)
+* Hammustus 50%, 1D4+½dm (veritsev) + Vere kurnamine (vt allpool)
+* Küünis 50%, 1D4+dm (veritsev) + Külm puudutus (vt allpool)
+* Hüpnootiline pilk, VÄG vs. VÄG, (eriline vt allpool)
 * Maadlus 75%, eriline
 
-Vampiir saab teha ühe hammustuse ja kaks küünisterünnakut voorus või üritada ühte küünist ja hüpnootilist pilku. Kui ta õnnestub mõlema küüniserünnaku ja hammustusrünnakuga, maadleb ta oma sihtmärgiga ja kurnab nende verd iga voor, kuni sihtmärk on teovõimetu. Vampiir ei saa proovida põigelda (Dodge) voorus, mil ta hammustab või kasutab hüpnootilist pilku. Need võimed on kirjeldatud allpool.
+Vampiir saab teha ühe hammustuse ja kaks küünistega rünnakut ringis, või võib ta üritada ühe küünistega ja ühe hüpnootilise pilgu rünnaku. Kui tal õnnestub mõlema küünistega rünnakuga ja hammustusega, maadleb ta oma sihtmärgiga ja kurnab nende verd igal ringil, kuni sihtmärk on teovõimetu. Vampiir ei saa üritada Põigelda ringis, mil ta hammustab või kasutab hüpnootilist pilku. Need võimed on kirjeldatud allpool.
 
-**Oskused:** Dodge 50%, Etiquette 50%, Fly 90%, Hide 70%, Insight 60%, Jump 75%, Knowledge (Ajalugu) 75%, Language (iidne) 75%, Language (tänapäevane) 50%, Listen 60%, Persuade 60%, Sense 75%, Spot 75%, Stealth 80%, Track 75%.
+**Oskused:** Põiklemine 50%, Etikett 50%, Lendamine 90%, Peitumine 70%, Sisekaemus 60%, Hüppamine 75%, Teadmised (Ajalugu) 75%, Keel (iidne) 75%, Keel (tänapäevane) 50%, Kuulmine 60%, Veenmine 60%, Tunnetus 75%, Märkamine 75%, Hiilimine 80%, Jälitamine 75%.
 
-**Võimed:** Vampiiridel on neile omistatud lai valik võimeid. Järgmised on need, mis on peaaegu kõigil vampiiridel.
+**Võimed:** Vampiiridel on neile omistatud lai valik võimeid. Järgnevad on need, mis on peaaegu kõigil vampiiridel.
 
-* **Vere kurnamine:** Vampiir, kes hammustab ja kahjustab edukalt sihtmärki, saab kurnata 1D6 STR-i või 1D6 võimepunkti sellest sihtmärgist igal järgneval voorul, mil ta nendega maadleb. Kui sihtmärk on kaotanud kogu oma STR-i, võib vampiir selle asemel kurnata CON-i. 0 CON-i juures ohver sureb. Kui ohver jääb ellu, taastuvad need omaduste punktid 1 punkti päevas puhkusega või kaks korda kiiremini, kui ollakse aktiivne. Kui kurnatakse rohkem kui ühte omadust, vahelda taastumist iga päev, et taastada 1 STR-punkt, siis 1 CON-punkt jne. Võimepunktid taastuvad tavaliselt. Vampiir kasutab vere kurnamist oma võimepunktide taastamiseks – tal pole oma POW-d ja ta ei saa neid tavaliselt taastada. Kurnatud STR, CON või võimepunktid kantakse vampiiri poolt üle kui võrdne arv võimepunkte. Vampiir ei saa talletada rohkem võimepunkte kui tema CON. Kõik punktid üle selle on kadunud.
-* **Chill Touch:** Vampiir, kes puudutab sihtmärki, saab vere asemel kurnata võimepunkte. Vampiir peab olema edukalt sooritanud küüniserünnaku sihtmärgi vastu (või puudutanud teovõimetut või teadmatut sihtmärki). Järgneval voorul teeb ta vastupanuviseviske oma praeguste võimepunktide vastu sihtmärgi praeguste võimepunktide vastu. Soomus ei kaitse selle rünnaku eest. Kui vampiir õnnestub, kurnab ta sihtmärgilt 1D3 võimepunkti, mis kantakse üle tema praeguste võimepunktide kogusummale. Vampiir peab kurnamise jätkamiseks iga voor sihtmärgiga kontaktis püsima ja iga võitlusvoor vastupanuviseviskes õnnestuma. Sihtmärk taastab need kaotatud võimepunktid tavaliselt.
-* **Hüpnootiline pilk:** Kui vampiir alistab sihtmärgi POW-i oma praeguste võimepunktidega vastupanuviseviskes, on sihtmärk hüpnotiseeritud ja teda saab panna järgima lihtsaid juhiseid. Kui need juhised on ennasthävitavad, saab sihtmärk vooru alguses proovida Idea-viset, et sellest välja tulla.
-* **Öönägemine:** Vampiiridel on loomupärane võime, mis kombineerib Super Senses-i Dark Vision, Infrared Vision ja Night Vision tasemel, mis on võrdne poolega vampiiri INT-st (ümardatud ülespoole).
-* **Regenereerumine:** Kui ta pole tapetud traditsioonilise meetodiga (vt allpool), regenereerib vampiir 1D3 elupunkti võitlusvooru kohta. Kui kasutatakse löögikohti, paraneb vampiir 1 elupunkti haavatud löögikoha kohta võitlusvooru kohta. Kui ta on otseses päikesevalguses või pühitsuse eseme juuresolekul, ei regenereeru ta seda kahju ja peab paranema tavaliselt (ta saab kahju ka nendest allikatest, vt Nõrkused, allpool). Lisaks ei saa pühitsetud vee, pühitsuse eseme, päikesevalguse või tule tekitatud kahju regenereerida ja see peab paranema vampiiri tavalisel paranemiskiirusel.
+* **Vere kurnamine:** Vampiir, kes edukalt hammustab ja kahjustab sihtmärki, saab kurnata 1D6 JÕU-d või 1D6 võimepunkti sellest sihtmärgist igal järgneval ringil, mil ta jääb kinnitunuks, maadledes nendega. Kui sihtmärk on kaotanud kogu oma JÕU, võib vampiir valida selle asemel VAS-i kurnamise. 0 VAS-ga ohver sureb. Kui ohver jääb ellu, taastuvad need omaduspunktid 1 punkti päevas puhkusega või kaks korda kauem, kui nad on aktiivsed. Kui kurnatakse rohkem kui üks omadus, vahelda taastumist iga päev, et taastada 1 punkt JÕU-d, seejärel 1 punkt VAS-d jne. Võimepunktid taastuvad tavaliselt. Vampiir kasutab Vere kurnamist omaenda võimepunktide taastamiseks – tal pole omaenda VÄG-d ja ta ei saa neid tavaliselt taastada. Kurnatud JÕU, VAS või võimepunktid kantakse vampiiri poolt üle võrdse arvu võimepunktidena. Vampiir ei saa säilitada rohkem võimepunkte kui tema VAS. Kõik punktid sellest kaugemale lähevad kaotsi.
+* **Külm puudutus:** Vampiir, kes puudutab sihtmärki, saab vere asemel kurnata võimepunkte. Vampiir peab olema edukas küünistega rünnakus sihtmärgi vastu (või puudutanud teovõimetut või teadmatut sihtmärki). Järgneval ringil teeb ta vastupanuveeretuse oma praeguste võimepunktide vs. sihtmärgi praegused võimepunktid. Soomus ei kaitse selle rünnaku eest. Kui vampiir õnnestub, kurnab ta sihtmärgilt 1D3 võimepunkti, mis kantakse üle tema praeguste võimepunktide kogusummale. Vampiir peab igal ringil sihtmärgiga kontaktis jääma, et seda kurnamist jätkata, ja peab igal võitlusringil vastupanuveeretuses õnnestuma. Sihtmärk taastab need kaotatud võimepunktid tavaliselt.
+* **Hüpnootiline pilk:** Kui vampiir ületab sihtmärgi VÄG-d oma praeguste võimepunktidega vastupanuveeretuses, on sihtmärk hüpnotiseeritud ja teda saab panna järgima lihtsaid juhiseid. Kui need juhised on ennasthävitavad, võib sihtmärk ringi alguses üritada Idee veeretust, et sellest välja tulla.
+* **Öine nägemine:** Vampiiridel on loomulik võime, mis ühendab Super-tunnetused Pime nägemine, Infrapuna nägemine ja Öine nägemine tasemel, mis on võrdne poolega vampiiri INT-st (ümardatuna üles).
+* **Regeneratsioon:** Kui teda ei tapeta traditsioonilise meetodiga (vt allpool), regenereerib vampiir 1D3 elupunkti võitlusringi kohta. Kui ta on otsese päikesevalguse käes või püha sümboli juuresolekul, ta ei regenereeri seda kahju ja peab tervenema tavaliselt (ta võtab neist allikatest ka kahju, vt Nõrkused, järgnevalt). Lisaks ei saa püha vee, püha sümboli, päikesevalguse või tule kahju regenereerida ja see peab tervenema vampiiri tavalisel tervenemiskiirusel.
 
-Lisaks ülaltoodule on vampiiridel väidetavalt muid võimeid, mis võivad, kuid ei pruugi olla tõesed.
+Lisaks ülaltoodule öeldakse, et vampiiridel on muid võimeid, mis võivad olla tõesed või väärad.
 
-* **Öö leegionid:** Vampiirid saavad kontrollida väiksemaid olendeid, nagu nahkhiired, rotid ja hundid. Vampiir saab kutsuda 1D6 roti- või nahkhiireparve, koheldes nahkhiireparvi nagu rotiparvi, kuid Fly 100%), või 1D6 hunti. Iga parv maksab 1 võimepunkti kutsumiseks ja iga hunt maksab 3 võimepunkti kutsumiseks ja kontrollimiseks. Need olendid võivad olla loodud abilistena, kuid kasutavad kontrolli määramisel POW asemel vampiiri praegusi võimepunkte või neid saab hallata nõiduseloitsude kaudu, nagu Bird’s Vision (asenda lind nahkhiirega) ja Vermin’s Vision.
-* **Uduvorm:** Vampiir võib muuta end udus, liikudes läbi väikseimate pragude ja ujudes vaevata läbi õhu. Vampiiri, kellel on see võime, võib sundida uduvormi, kui ta on viidud 0 elupunktini, kuid teda ei tapeta traditsioonilisel viisil. See võib olla maagiline loits Change või supervõimed Alternate Form või Intangibility. Uduvormis olles on vampiiril MOV 5 ja ta on immuunne enamiku füüsiliste kahjude suhtes, kuigi maagia võib teda siiski mõjutada.
-* **Kujumuutmine:** Vampiir võib muuta end hundiks, nahkhiireks või isegi rotiparveks 3 võimepunkti eest. Nagu uduvormi puhul, on see võime identne kas Change või Alternate Form-iga. Kasuta hundi või rotiparve statistikat vampiiri võimete jaoks kummaski neist vormidest, kasutades rotiparve jaoks samu mänguefekte kui nahkhiirte puhul (kuid Fly 100%).
-* **Loitsude heitmine:** Vampiirid on võimsad loitsude heitjad, kellel on mitmesuguseid loitse kasutamiseks valmis. Oma uskumatute elueade ja ligipääsuga keelatud teostele, kirjadele ja pühatule teadmisele teavad vampiirid palju nõiduse või maagia loitse. Vampiir võib teada kuni kaks korda rohkem maagia või nõiduse loitse kui tavaline inimene. Vampiirid kasutavad oma sihtmärkide alistamiseks või oma maagia jaoks oma praeguste võimepunktide kogusummat.
+* **Öö leegionid:** Vampiirid saavad kontrollida vähemaid olendeid, nagu nahkhiiri, rotte ja hunte. Vampiir saab kutsuda 1D6 roti- või nahkhiireparve, koheldes nahkhiireparvi nagu rotiparvi, kuid koos Lendamisega 100%), või 1D6 hunti. Iga parv maksab 1 võimepunkti kutsumiseks ja iga hunt maksab 3 võimepunkti kutsumiseks ja kontrollimiseks. Need olendid võivad olla loodud kaaslastena, kuid kasutavad kontrolli määramisel VÄG asemel vampiiri praeguseid võimepunkte või neid saab käsitleda nõidumise loitsude kaudu, nagu Linnu nägemus (asenda nahkhiir linnuga) ja Kahjurite nägemus.
+* **Uduvorm:** Vampiir saab end muuta udusteks, suutes liikuda läbi kõige pisemate pragude ja hõljuda õhus pingevabalt. Vampiir, kellel on see võime, võib olla sunnitud uduvormi, kui ta on vähendatud 0 elupunktini, kuid teda ei tapeta traditsioonilisel viisil. See võib olla maagialoits Muutmine või supervõimed Alternatiivne vorm või Mitteaine. Uduvormis olles on vampiiril MOV 5 ja ta on immuunne enamikule füüsilise kahju vormidele, kuigi maagia võib teda siiski mõjutada.
+* **Kuju muutmine:** Vampiir saab end muuta hundiks, nahkhiireks või isegi rotiparveks 3 võimepunkti hinnaga. Nagu Uduvormi puhul, on võime identne kas Muutmise või Alternatiivse vormiga. Kasuta hundi või rotiparve statistikat vampiiri võimete jaoks kummaski neist vormidest, kasutades sama mänguefekti rottide kui nahkhiirte jaoks (kuigi koos Lendamisega 100%).
+* **Loitsude kasutamine:** Vampiirid on võimsad loitsijad, kellel on kasutamiseks valik loitse. Oma uskumatute eluea pikkuste ja juurdepääsuga keelatud teostele, kirjadele ja ebapühale pärimusele teavad vampiirid palju nõidumis- või maagialoitse. Vampiir võib teada kuni kaks korda tavalisest inimesest rohkem maagia- või nõidumisloitse. Vampiirid kasutavad oma praeguseid võimepunktide summasid sihtmärkide ületamiseks või oma maagia jaoks.
 
-**Nõrkused:** Vampiiridel, kui neetud ja pühadel surnutel, on palju nõrkusi, mis eristavad neid elavatest ja muudest surnute vormidest. Järgnevalt on toodud traditsioonilised vampiiri nõrkused, millest kõik, paljud või mitte ükski ei pruugi olla tõene.
+**Nõrkused:** Vampiiridel, kui neetud ja ebapühal surnutel, on palju nõrkusi, mis eristavad neid elavatest ja muudest surnute vormidest. Järgnevad on traditsioonilised vampiiride nõrkused, millest kõik, paljud või mitte ükski ei pruugi olla tõsi.
 
-* **Verejanu:** Vampiir kaotab 1D6 võimepunkti iga päev pelgalt eksisteerimise eest, kulutatuna siis, kui vampiir esmakordselt tõuseb. Kui vampiir jõuab 1 või 2 võimepunktini, on kõik tema visked oma nõrkuse ja möirgavast janust tingituna Rasked.
-* **Päevavalgus:** Vampiirid saavad 1 kahju iga võitlusvooru kohta kokkupuutel otsese päikesevalgusega. Otseses päikesevalguses vampiir ei regenereeru, muuda kuju, muutu udus ega kasuta hüpnootilist pilku. Päikesevalgus võib põhjustada vampiiridele täiendavaid probleeme, näiteks muutes kõik oskuste visked Rasked. Sel põhjusel on vampiirid traditsiooniliselt öised.
-* **Pea maharaiumine:** Vampiir, kelle pea on maha raiutud, on surnud, ei regenereeru ega saa kunagi surnust tõusta.
-* **Tuli:** Vampiirid saavad kahekordset kahju tulest, sõltumata selle allikast. Vampiirid on tuleohtlikud, kui üritatakse ühte süüdata.
-* **Pühad sümbolid:** Vampiiridele, kellele esitatakse püha sümbol tõelise usuga tegelase kätes (võib-olla Devotion Passion 80% või rohkem või 50 lojaalsust „hea“ joondatud jumala suhtes), tekitatakse intensiivset valu, kaotades 1D3 võimepunkti iga vooru eest, mil püha sümboliga tegelane õnnestub vastupanuviseviskes POW vs vampiiri praegused võimepunktid. Tegelane peab sellele keskenduma ja ei saa iga voor muid rünnakuid sooritada. Vampiir kannatab 1D3 elupunkti kahju iga vooru kohta, kui ta satub püha sümboliga füüsilisse kontakti. Vampiir ei saa üritada oma hüpnootilise pilgu võimet tegelase vastu, kes võidab selles vastupanuviseviskes.
-* **Pühitsetud vesi:** Pühitsetud vesi loeb vampiiride vastu tugevaks happeks (vt Hape), tehes 1D4 kahju iga võitlusvooru kohta. Tegelane, kellel on vähemalt 50 lojaalsust heatahtlikule jumalusele, võib luua pühitsetud vett, veetes ühe täispöörde palves ja kulutades selle vee peale 1 võimepunkti. Pühitsetava vee kogus on piiratud tegelase POW-ga SIZ-is.
-* **Püha maa:** Vampiir kaotab 3D6 võimepunkti iga päev, mil ta ei veeda vähemalt neli tundi kirstus (või samaväärses), mis on vooderdatud mullaga tema kodumaalt; karistus, mis nõutakse päikeseloojangul. Seega võib halvasti ettevalmistatud vampiir kaotada 4D6 võimepunkti igal õhtul, kui talle keelatakse püha maa ja verejanu tõttu (vt eespool). Kui vampiir jõuab 0 võimepunktini, jääb ta koomasse, mitte surnuks, kuid suutmatuks liikuda või funktsioneerida, kuni keegi kannab talle võimepunkte üle, kasutades võimet.
-* **Vaiad:** Kui puidust vai lüüakse läbi vampiiri südame ja põhjustab vähemalt 1 punkti kahju, laguneb vampiir koheselt tolmuks. Võitluses on see juhul, kui puidust relv saavutab läbistava või kriitilise tulemuse Raskel rünnakul või sihib rindkere löögikohta. Traditsiooniline puidust vai teeb 1D3+dm ja sellel on 6 elupunkti, baasvõimalusega 15%. Alternatiivina takistab see vaid vampiiril tegutsemast ja regenereerimast ning vampiir peab olema pea maharaiutud, pea ja keha eraldi põletatud, et olla täielikult hävitatud.
+* **Verejanu:** Vampiir kaotab iga päev 1D6 võimepunkti lihtsalt olemise tõttu, kulutatud, kui vampiir esmakordselt tõuseb. Kui vampiir jõuab 1 või 2 võimepunktini, on kõik tema veeretused Rasked tänu tema nõrkusele ja möirgavale janule.
+* **Päevavalgus:** Vampiirid võtavad 1 kahju iga otsese päikesevalguse käes viibimise võitlusringi kohta. Otsese päikesevalguse käes olles vampiir ei regenereeri, ei muuda kuju, ei muutu uduks ega kasuta oma hüpnootilist pilku. Päikesevalgus võib vampiiridele põhjustada täiendavaid probleeme, näiteks muutes kõik oskuste veeretused Raskeks. Sel põhjusel on vampiirid traditsiooniliselt öised.
+* **Pea maharaiumine:** Vampiir, kelle pea on maha raiutud, on surnud, ei regenereeri ja ei saa kunagi surnuist tõusta.
+* **Tuli:** Vampiirid võtavad tulelt topeltkahju, ükskõik mis on selle allikas. Vampiirid on süttivad, kui tehakse katseid kedagi süüdata.
+* **Pühasümbolid:** Vampiirid, kellele esitatakse pühasümbol tõelise usuga tegelase käes (võib-olla Pühendumise kirg 80% või enam või 50 lojaalsus 'hea' joondatud jumalale), kannatavad intensiivse valu all, kaotades 1D3 võimepunkti iga ringi kohta, mil tegelane pühasümboliga õnnestub vastupanuveeretuses VÄG vs. vampiiri praegused võimepunktid. Tegelane peab sellele keskenduma ja ei saa igal ringil muid rünnakuid sooritada. Vampiir kannatab 1D3 punkti kahju iga ringi kohta, kui ta satub pühasümboliga füüsilisse kontakti. Vampiir ei saa üritada oma hüpnootilise pilgu võimet tegelase vastu, kes selles vastupanuveeretuses võidab.
+* **Püha vesi:** Püha vesi loetakse vampiiride vastu tugevaks happeks (vt Hape), tehes 1D4 kahju võitlusringi kohta. Tegelane, kellel on vähemalt 50 Lojaalsust heatahtliku jumaluse vastu, saab luua püha vett, veetes ühe täisvooru palves ja kulutades 1 võimepunkti selle vee üle. Õnnistatava vee kogus on piiratud tegelase VÄG-ga SUU-s.
+* **Püha maa:** Vampiir kaotab 3D6 võimepunkti iga päev, mil ta ei veeda vähemalt neli tundi kirstus (või samaväärses), mis on vooderdatud tema kodumaa mullaga; karistus, mis nõutakse päikeseloojangul. Seega võib halvasti ettevalmistatud vampiir kaotada 4D6 võimepunkti igal õhtul, kui talle keelatakse püha maa ja verejanu tõttu (vt ülal). Kui vampiir jõuab 0 võimepunktini, muutub ta koomatoosseks, mitte surnuks, kuid ei saa liikuda ega toimida, kuni keegi kannab talle võimepunktid üle võime abil.
+* **Vaia:** Kui puust vai lüüakse läbi vampiiri südame ja see põhjustab vähemalt 1 punkti kahju, laguneb vampiir koheselt tolmuks. Võitluses on see alati, kui puust relv saavutab läbistava või kriitilise tulemuse Raskes rünnakus, või sihtimise rinnapiirkonda. Traditsiooniline puust vai teeb 1D3+dm ja tal on 6 elupunkti, baastõenäosusega 15%. Alternatiivina takistab see vaid vampiiril tegutsemast ja regenereerimast ning vampiir peab olema pea maha raiutud, pea ja keha eraldi põletatud, et olla täielikult hävitatud.
 
 ### Libahunt
 
-Libahundid on kujumuutjad, kes suudavad muutuda inimesest hundiks, koos vahepealse hübriidvormiga. Seda seisundit nimetatakse lükantroopiaks. Mõned hundid saavad seda muutust teha vabatahtlikult, teised muutuvad tahtmatult öödel, kui kuu on täis. See viimane libahundi tüüp muutub siis puhtaks metsaliseks, ilma teadliku kontrolli või isegi mäluta oma tegudest, olles libahundi vormis. Traditsiooniliselt muutub keegi, kes elab üle libahundi hammustuse, järgmisel täiskuul libahundiks – seisund, mis on väidetavalt vältimatu. Mõned lükantroopia tüübid on maagilist laadi (tavaliselt needus), samas kui teised tüübid on nagu haigus, mängujuhi äranägemisel.
+Libahundid on kujumuutjad, kes suudavad muutuda inimesest hundiks, vahepealse hübriidvormiga. Seda seisundit nimetatakse lükantroopiaks. Mõned hundid saavad seda muutust teha vabatahtlikult, teised aga muutuvad tahtmatult öödel, kui kuu on täis. See viimane libahundi tüüp muutub siis puhtaks metsaliseks, ilma teadliku kontrollita või isegi mälestuseta oma tegudest libahundi-vormis olles. Traditsiooniliselt muutub keegi, kes elab üle libahundi hammustuse, järgmisel täiskuul libahundiks – seisund, mis on väidetavalt vältimatu. Mõned lükantroopia tüübid on maagilise olemusega (tavaliselt needus), samas kui teised tüübid on nagu haigus, mängujuhi äranägemisel.
 
-Inimese vormis on libahunt väliselt normaalne ja omab normaalseid inimomadusi. Järgnevalt on statistika hübriid- (hundi-inimese) ja hundivormide jaoks.
+Inimvormis on libahunt väliselt normaalne ja omab normaalseid inimomadusi. Järgnevad on statistilised andmed hübriidvormi (hundimehe) ja hundi vormi jaoks.
 
 **Hübriidvorm**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6 | 2D6+6 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 10–11 | 13 | 13 | 13 |
 
-**Hundivorm**
+**Hundi vorm**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6+1D3 | 1D4+2 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 12–13 | 4–5 | 13 | 13 |
 
-| Liikuda 12 / 13 | Elupunktid 12 / 12–13 |
+| Liikumine 12 / 13 | Elupunktid 12 / 12–13 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 / +1D6 | **Soomus** 1-punktiline karv (immuunsus tavalistele relvadele, vt allpool) |
+| **Kahjumodifikaator** +1D4 / +1D6 | **Soomus** 1-punktiline karv (immuunsus tavaliste relvade suhtes, vt allpool) |
 
 **Rünnakud (hübriidvorm):**
 
-* Hammustamine 50%, 1D4+½dm (veritsev)
+* Hammustus 50%, 1D4+½dm (veritsev)
 * Küünised 65%, 1D6+dm (veritsev)
 
-**Rünnakud (hundivorm):**
+**Rünnakud (hundi vorm):**
 
-* Hammustamine 65%, 1D8+½dm (veritsev)
+* Hammustus 65%, 1D8+½dm (veritsev)
 * Küünised 45%, 1D6+dm (veritsev)
 
-Kummaski vormis saab libahunt teha ühe hammustusrünnaku ja kaks küünisterünnakut iga võitlusvooru ajal.
+Mõlemas vormis saab libahunt teha ühe hammustuse ja kaks küünistega rünnakut igas võitlusringis.
 
 **Võimed:** Libahuntidel on järgmised võimed:
 
-* **Immuunsus:** Libahundid on immuunsed enamiku kahjuliikide suhtes, välja arvatud maagia, tuli või hõbe. Teised rünnakud lihtsalt põrkuvad tagasi, sõltumata tulemusest. Maagia, tuli ja hõbedased relvad teevad täiskahju. Relv, millele on peale pandud loits, nagu Hell’s Razor, teeb oma maagilist kahju, kuid mitte relva kahju või ründaja kahjumodifikaatorit. Täielikult maagiline relv teeb normaalset kahju. Mängujuht peaks määrama, kas energiarünnakud või muud sarnased rünnakud saavad libahunti kahjustada.
-* **Regenereerumine:** Libahundid saavad regenereerida 1 elupunkti iga võitlusvooru kohta, kui see kahju ei olnud tekitatud hõbedase relvaga. Libahundid paranevad hõbedase relva poolt tekitatud kahjust oma tavalisel paranemiskiirusel.
-* **Muutumine:** Libahundid võivad võtta ühe kolmest erinevast vormist; inimene, hübriid ja hunt. Ühest kujust teise liikumine võtab 5 DEX-i järjekorranumbrit ja ei maksa võimepunkte. Libahunt võib lülituda ükskõik millisest neist vormidest teise.
+* **Immuunsus:** Libahundid on immuunsed enamikule kahjuvormidele, välja arvatud maagia, tuli või hõbe. Teised rünnakud põrkuvad lihtsalt tagasi, olenemata tulemusest. Maagia, tuli ja hõbedased relvad teevad täiskahju. Relv, millele on loits peale pandud, nagu Põrgu habemenuga, teeb oma maagilist kahju, kuid mitte relva kahju või ründaja kahjumodifikaatorit. Täielikult maagiline relv teeb tavalist kahju. Mängujuht peaks määrama, kas energiarünnakud või muud sarnased rünnakud võivad libahunti kahjustada.
+* **Regeneratsioon:** Libahundid saavad regenereerida 1 elupunkti igas võitlusringis, välja arvatud juhul, kui see kahju tehti hõbedase relvaga. Libahundid tervenevad hõbedase relvaga tekitatud kahjust oma tavalisel tervenemiskiirusel.
+* **Transformatsioon:** Libahundid saavad võtta ühe kolmest erinevast vormist; inimene, hübriid ja hunt. Ühest kujust teise liikumine võtab 5 OSA järku ja ei maksa võimepunkte. Libahunt saab vahetada ükskõik millise neist vormidest teise vastu.
 
-**Oskused:** Climb 75%, Dodge 65%, Hide 60%, Jump 80%, Listen 70%, Sense 90%, Spot 70%, Track 90%.
+**Oskused:** Ronimine 75%, Põiklemine 65%, Peitumine 60%, Hüppamine 80%, Kuulmine 70%, Tunnetus 90%, Märkamine 70%, Jälitamine 90%.
 
 ### Zombi
 
-Zombid on animeeritud surnukehad, mis on üles äratatud nekromantia, voodoo, deemonliku vallutamise või tänapäevaste põhjuste, nagu mürgised kemikaalid, kiirgus või bioloogiline katk, poolt. Ükskõik mis on nende päritolu, janunevad zombid inimliha (mõned eelistavad ajusid) järele ja ei tee suurt midagi muud kui püüavad toituda. Zombid on tavaliselt kõnevõimetud ja hiilivad elavate järgi kampades. Nad pole eriti targad ja neid on kerge petta.
+Zombid on animeeritud laibad, mis on ellu äratatud nekromantia, voodoo, deemonliku vallutuse või tänapäevaste põhjuste, nagu mürgised kemikaalid, kiirgus või bioloogiline katk, kaudu. Olenemata nende päritolust janunevad zombid inimliha (mõned eelistavad ajusid) järele ja ei tee suurt midagi muud kui otsivad toitumist. Zombid on tavaliselt kõnevõimetud ja hiilivad elavate seas mobides. Nad pole eriti erksad ja neid on lihtne petta.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×1.5 | 3D6×1.5 | 2D6+6 | 6 | 1 | 2D6 | 1D6 |
 | 15–17 | 15–17 | 13 | 6 | 1 | 7 | 3–4 |
 
-| Liikuda 4 | Elupunktid 14–15 |
+| Liikumine 4 | Elupunktid 14–15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub (vt allpool) |
+| **Kahjumodifikaator** +1D4 | **Soomus** Puudub (vt allpool) |
 
 **Rünnakud:**
 
-* Hammustamine 30%, 1D3+½dm (veritsev)
+* Hammustus 30%, 1D3+½dm (veritsev)
 * Küünis 25%, 1D3+dm (veritsev)
 * Maadlus 35%, eriline
-* Suur klubi 35%, 1D8+1+dm (muljuv)
+* Suur kurikas 35%, 1D8+1+dm (purustav)
 
-Zombi oskus relvaga on võrdne tema DEX×5-ga. Zombid ei ürita kunagi põigelda (Dodge) ega parrieerida.
+Zombi relvaoskus on võrdne tema OSA×5. Zombid ei ürita kunagi Põigelda ega tõrjuda.
 
-**Võimed:** Enamik lõikavaid, muljuvaid ja läbistavaid relvi teevad zombidele vaid pool kahju. Tuli teeb täiskahju. Mõnda zombide tüüpi saab tappa ainult eriline õnnestumine, mis kahjustab koljut. See on siis, kui relv saavutab erilise või kriitilise tulemuse Raskel rünnakul või tabab pea löögikohta, mis teeb piisavalt kahju, et teda teovõimetuks muuta. Mõned zombide tüübid on nakkavad – edukas hammustus muudab ohvri zombiks voorude arvus, mis võrdub nende CON-iga, eranditult.
+**Võimed:** Enamik lõikavaid, purustavaid ja läbistavaid relvi teevad zombidele vaid poole kahjust. Tuli teeb täiskahju. Mõnda tüüpi zombisid saab tappa ainult erilise õnnestumisega, mis kahjustab koljut. See on alati, kui relv saavutab erilise või kriitilise tulemuse Raskes rünnakus, või tabamus pea piirkonda, mis teeb piisavalt kahju, et teda teovõimetuks muuta. Mõned zombi tüübid on nakkusohtlikud – edukas hammustus muudab ohvri zombiks arvu voorudega, mis on võrdne nende VAS-ga, eranditult.
 
-**Oskused:** Sense 50%.
+**Oskused:** Tunnetus 50%.
 
 ## Kutsutud olendid
 
-Need entiteedid ei ole pärit sellest maailmast või on kutsutud ellu, kui neile kutsutakse. Teoloogilised entiteedid, nagu inglid ja deemonid, tuleks kohtuda ainult maailmades, kus kasutatakse lojaalsust, samas kui elementaalid peaksid ilmuma ainult siis, kui nende kutsumiseks on olemas asjakohased võimed.
+Need üksused ei ole selle maailma põliselanikud või nad kutsutakse ellu, kui neid kutsutakse. Teoloogilised üksused nagu inglid ja deemonid peaksid kohtama ainult sätetes, kus kasutatakse lojaalsust, samas kui elementaalid peaksid ilmuma ainult siis, kui nende kutsumiseks on olemas asjakohased võimed.
 
 ### Ingel
 
-Ingel on püha olend, jumaliku väe emissar. Neil on palju vorme; nende välimus põhineb panteonil, mida nad asustavad. Inglid teenivad sõnumitoojate, valvurite, sõdurite, mentorite või kuulutajatena. See näide on tiivuline humanoid, kes on varustatud rinnaplaadi ja põleva mõõgaga.
+Ingel on püha olend, jumaliku väe saadik. Neil on palju vorme; nende välimus põhineb panteonil, mida nad asustavad. Inglid teenivad sõnumitoojate, kaitsjate, sõdurite, mentoritena või harbingeritena. See näide on tiivuline humanoid, kes on varustatud rinnalapi ja leegitseva mõõgaga.
 
-Nagu on märgitud osas Mõistuse (SAN) kaotus ja olendid, võib vagad tegelane saada SAN-i, kui ta näeb inglit, kui tema mõistuse vise on edukas.
+Nagu on märgitud Mõistuse kaotuses ja Olendites, võib vagur tegelane saada MÕISTUST, kui ta näeb inglit, kui tema mõistuse veere õnnestub.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+12 | 2D6+24 | 2D6+6 | 2D6+6 | 4D6+12 | 2D6+12 | 4D6+12 |
 | 26 | 31 | 13 | 13 | 26 | 19 | 26 |
 
-| Liikuda 10 (12 lendades) | Elupunktid 22 |
+| Liikumine 10 (12 lennates) | Elupunktid 22 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D6 | **Soomus** 10-pt. plaatsoomuse rinnaplaat + 10-pt. jumalik kiirgus |
+| **Kahjumodifikaator** +1D6 | **Soomus** 10-pt. plaat rinnalapp + 10-pt. jumalik sära |
 
 **Rünnakud:**
 
-* Põlev laiamõõk 200%, 1D8+1+dm (lõikav) + 2D6 (tuli)
+* Leegitsev lai mõõk 200%, 1D8+1+dm (lõikav) +2D6 (tuli)
 * Püha tuli 100%, 10D6 (tuli, vt allpool)
-* Taevahääl 100%, eriline (vt allpool)
+* Taeva hääl 100%, eriline (vt allpool)
 
-Jumalike olenditena suudavad inglid ületada 100% oskuste tasemeid, isegi kui seda võimalust mängijategelaste jaoks ei kasutata (vt Rünnakud ja tõrjumised üle 100%). Ingel ei saa kunagi oma mõõgast eralduda ja mõõk ei saa puruneda.
+Jumalike olenditena suudavad inglid ületada 100% oskuste tasemeid, isegi kui seda võimalust mängija tegelaste jaoks ei kasutata (vt Rünnakud ja tõrjumised üle 100%). Ingel ei saa kunagi oma mõõgast eralduda ja mõõka ei saa purustada.
 
-**Võimed:** Inglitel on väidetavalt rida võimeid, millest igal üksikul inglil võib olla mõni, kõik või mitte ükski:
+**Võimed:** Öeldakse, et inglitel on hulk võimeid, millest igal üksikul inglil võib olla mõni, kõik või mitte ükski:
 
-* **Jumaliku kiirgus:** Inglid võivad kiirata valguse kiirgust, mis kaitseb neid vigastuste eest, toimides 10-pt. soomusena mis tahes kahjuallika vastu, sealhulgas võimete vastu.
-* **Lendamine:** Ükskõik kas tiivuline või tiivutu, inglid saavad lennata suurel kiirusel. Inglitel on Flight supervõime tasemetel, mis on võrdsed nende POW-ga, kuigi selle kasutamine ei maksa võimepunkte. Ingel võib ilmuda tiivutuna, seejärel manifesteerida suured linnulaadsed tiivad, mis äkki kasvavad ja voldivad lahti tema seljast.
-* **Tervendav puudutus:** Inglid võivad panna käed haigete, nõrkade ja haavatute peale ja neid tervendada. Lisaks elupunktide taastamisele hinnaga 1 elupunkt 1 võimepunkti kohta, saab ingel eemaldada mis tahes haiguse, tõve, suure haava või nõrkuse, kulutades 1 punkti oma püsivat POW-d iga nõrkuse kohta. Kui ingli võimepunktid jõuavad 0-ni, naaseb ta oma päritolutasandile, kuni teda kutsutakse või lubatakse naasta (vähemalt üks nädal, pärast mida ta on täielikult taastatud).
-* **Püha tuli:** Inglid saavad kutsuda püha tuld, tulelööki ülalt, mille efektiivsuse ala on kolm meetrit ruudus. Kui püütud sellesse leeki, võivad vagad tegelased, kelle lojaalsus joondub inglile, teha oma lojaalsuse viske %-des. Õnnestumise korral ei saa tegelane püha tulest kahju. Ebaõnnestunud või mitte-vagad sihtmärgid on leegidesse haaratud, tehes 10D6 kahju (jaotatud löögikohtade vahel, kui kasutatakse). Erinevalt tavalisest tulest püha tuli ei püsi. Selle mõjud on peaaegu hetkelised, kadudes selle võitlusvooru lõpus, kui see kutsuti. See maksab 10 võimepunkti ja seda saab kutsuda kord päevas.
-* **Invisibility:** Inglid võivad muutuda nähtamatuks (Invisible) soovi korral nagu supervõime, mille tase on pool nende POW-st (ümardatud ülespoole). See maksab vaid 3 võimepunkti kasutuskorra kohta.
-* **Taevahääl:** Ingel saab rääkida Taeva (või samaväärse) häälega. See on alaefektiga rünnak, mille diameeter on kümme meetrit inglist, ta võib hoiatada neid, kes on vahemikus, et nad kataksid oma kõrvad, ja kõik, kes kuuletuvad, säästetakse. See hääl, mis on kauge ja kuninglik, uimastab kõiki vahemikus, kui nad ebaõnnestuvad vastupanuviseviskes POW vs ingli POW. Õnnestumine tähendab, et nad pole selles võitlusvoorus mõjutatud. See võime maksab 3 võimepunkti ja asendab mis tahes füüsilist rünnakut.
+* **Jumalik sära:** Inglid saavad kiirata valguse sära, mis kaitseb neid vigastuste eest, toimides 10-pt. soomusena mis tahes kahjuallika vastu, sealhulgas võimete eest.
+* **Lendamine:** Olenemata sellest, kas nad on tiivulised või tiivutud, saavad inglid suure kiirusega lennata. Inglitel on Lendamise supervõime tasemel, mis on võrdne nende VÄG-ga, kuigi selle kasutamine ei maksa võimepunkte. Ingel võib ilmuda tiivutuna, seejärel ilmutada suuri linnulaadseid tiibu, mis äkitselt kasvavad ja tema seljast lahti rulluvad.
+* **Tervendav puudutus:** Inglid saavad käed peale panna ja ravida haigeid, põdurad ja haavatuid. Lisaks elupunktide taastamisele hinnaga 1 elupunkt 1 võimepunkti eest, saab ingel eemaldada mis tahes haiguse, tõve, suure haava või põduruse, kulutades 1 punkti oma püsivast VÄG-st iga põduruse kohta. Kui ingli võimepunktid jõuavad 0-ni, naaseb ta oma päritolutasandile, kuni teda kutsutakse või lubatakse naasta (vähemalt üks nädal, pärast mida ta on täielikult taastatud).
+* **Püha tuli:** Inglid saavad kutsuda püha tuld, leegilööki ülevalt kolme meetri ruuduse alaefektiga. Kui nad jäävad sellesse leeki, saavad vagad tegelased, kelle lojaalsus ühtib ingliga, teha veeretuse oma lojaalsusest %. Kui see õnnestub, ei võta tegelane püha tule eest kahju. Ebaõnnestuvad või mitte-vagad sihtmärgid neelatakse leekidesse, tehes 10D6 kahju (jaotatud tabamiskohtade vahel, kui kasutatakse). Erinevalt tavalisest tulest püha tuli ei püsi. Selle mõjud on peaaegu hetkelised, kadudes selle võitlusringi lõpus, kui see kutsuti. See maksab 10 võimepunkti ja seda saab kutsuda kord päevas.
+* **Nähtamatus:** Inglid saavad soovi korral muutuda Nähtamatuks vastavalt supervõimele, mille tase on pool nende VÄG-st (ümardatuna üles). See maksab vaid 3 võimepunkti kasutuse kohta.
+* **Taeva hääl:** Ingel saab rääkida Taeva (või samaväärse) häälega. See on alaefektiga rünnak kümne meetri läbimõõduga inglist, ta võib hoiatada neid, kes on vahemikus, et nad kõrvad kataksid, ja kõik, kes kuuletuvad, säästetakse. See hääl, mürisev ja kuninglik, uimastab kõiki vahemikus olevaid, kui nad ebaõnnestuvad vastupanuveeretuses VÄG vs. ingli VÄG. Edu tähendab, et nad on sel võitlusringil mõjutamata. See võime maksab 3 võimepunkti ja võtab mis tahes füüsilise rünnaku koha.
 
-**Loitsud:** Inglid võivad kasutada maagiat või supervõimeid. Maagilised loitsud, mida inglid tavaliselt kasutavad, on Countermagic, Dispel, Enhance, Light, Speak to Mind ja Teleport, kõik 100% juures. Inglid kasutavad harva nõidust ja pole kunagi mutandid. Neil võivad olla psüühilised võimed või samaväärne.
+**Loitsud:** Inglid võivad kasutada maagiat või supervõimeid. Maagialoitsud, mida tavaliselt kasutatakse, on Vastumaagia, Hajutamine, Suurendamine, Valgus, Rääkimine mõttega ja Teleport, kõik 100%. Inglid kasutavad harva nõidumist ja pole kunagi mutandid. Neil võivad olla psüühilised võimed või samaväärsed.
 
-**Oskused:** Command 100%, Dodge 100%, Flight 100%, Insight 75%, Knowledge (kõik) 100%, Language (kõik) 100%, Sense 90%, Spot 90%, Teach 90%.
+**Oskused:** Käskimine 100%, Põiklemine 100%, Lendamine 100%, Sisekaemus 75%, Teadmised (mis tahes) 100%, Keel (mis tahes) 100%, Tunnetus 90%, Märkamine 90%, Õpetamine 90%.
 
-### Deemon, Suur
+### Deemon, Suurem
 
-Deemon on infernaalne olend, kutsutud või sellel tasandil kohutaval eesmärgil. Suur deemon pole lihtsalt valvur või teenija – temaga kohtutakse, sest kaalul on midagi monumentaalset. Sõltuvalt tema iseloomust võib ta olla metsaline ja keskendunud ainult hävitamisele, või võib ta olla vaimukas, urbaniseerunud, võluv ja veenev. Need statistilised andmed esindavad võitlusele orienteeritud deemonit, küünistega ja sarvilist, valmis külvama kaost kõigi vastu, kes talle vastu hakkavad.
+Deemon on põrgu olend, kutsutud või sellel tasandil kohutava eesmärgi nimel. Suurem deemon ei ole pelgalt kaitsja või teener – teda kohatakse, sest kaalul on midagi monumentaalset. Sõltuvalt tema iseloomust võib ta olla metsalislik ja keskendunud ainult hävitamisele või ta võib olla vaimukas, urbanne, võluv ja veenev. Need andmed esindavad võitlusele orienteeritud deemonit, küünistega ja sarvedega, valmis külvama laastamistööd kõigile, kes talle vastu hakkavad.
 
-Kuigi ingli vaatamine võib vagale usklikule potentsiaalselt taastada SAN-i punkte, pole need, kes kummardavad infernaalseid jõude, sugugi nii õnnelikud. Tegelane, kes vaatab suurt deemonit, on SAN-i kaotuse ohus, isegi kui ta ise ta kutsus.
+Kuigi ingli nägemine võib potentsiaalselt taastada MÕISTUSE punkte vagurale usklikule, pole neil, kes kummardavad põrguvägesid, nii vedanud. Suuremat deemonit nägev tegelane on MÕISTUSE kaotuse ohus, isegi kui nad ta ise kutsusid.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+24 | 3D6+12 | 3D6+12 | 3D6 | 3D6+6 | 3D6+6 | 3 või 21 |
 | 34–35 | 22–23 | 22–23 | 10–11 | 16–17 | 16–17 | 3 või 21 |
 
-| Liikuda 10 (12 lendades) | Elupunktid 22–23 |
+| Liikumine 10 (12 lennates) | Elupunktid 22–23 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** 8-pt. kõva nahk (võib kanda soomust) |
+| **Kahjumodifikaator** +2D6 | **Soomus** 8-pt. tugev nahk (võib kanda soomust) |
 
 **Rünnakud:**
 
-* Suur mõõk (kasutatud ühe käega) 150%, 2D8+dm (veritsev) + 2D6 tuli (eriline)
-* Piits 90%, 1D3–1+½dm (mähkiv) + 1D6 tuli (eriline)
-* Tulehingamine 100%, 6D6 tuli (eriline)
+* Suur mõõk (kasutatakse ühe käega) 150%, 2D8+dm (veritsev) +2D6 tuli (eriline)
+* Piits 90%, 1D3–1+½dm (takerduma) +1D6 tuli (eriline)
+* Tule hingamine 100%, 6D6 tuli (eriline)
 * Küünised 150%, 1D6+dm (veritsev)
 * Maadlus 150%, eriline
 
-Suur deemon alustab tavaliselt tulepurskega oma suust, enne kui asub füüsilisse võitlusse. Ta võib teha voorus kaks (või rohkem) rünnakut, eelistades kasutada piitsa kõigepealt, et vaenlane immobiliseerida, ja seejärel lüüa suure mõõgaga 5 DEX-i järjekorranumbrit hiljem. Tema põlev suur mõõk võib süüdata tuleohtlikke materjale. Ta võitleb kahe käega pika piitsaga, mis on samuti leekides. Kui kumbki relv kaob, asub ta kasutama oma küüniseid või maadlust. Erinevalt ingli relvadest on suure deemoni relvadel topelt elupunktid, kuid neid saab purustada või muul viisil hävitada (nad on aga tule suhtes immuunsed).
+Suurem deemon alustab tavaliselt tulepurtsatusega oma suust, enne kui asub füüsilisse võitlusse. Ta saab teha kaks (või rohkem) rünnakut ringis, eelistades kasutada piitsa kõigepealt, et vaenlane immobiliseerida, ja seejärel lüüa suure mõõgaga 5 OSA järku hiljem. Tema leegitsev suur mõõk võib süüdata tuleohtlikke materjale. Ta võitleb kahe käega pika piitsaga, mis on samuti leegitsev. Kui mõni relv kaob, kasutab ta oma küüniseid või maadleb. Erinevalt ingli relvadest on suurema deemoni relvadel topeltelupunktid, kuid neid saab purustada või muul viisil hävitada (tule suhtes on nad siiski immuunsed).
 
-**Oskused:** Climb 90%, Dodge 75%, Fly 100%, Jump 75%, Sense 75%, Spot 75%, Throw 75%.
+**Oskused:** Ronimine 90%, Põiklemine 75%, Lendamine 100%, Hüppamine 75%, Tunnetus 75%, Märkamine 75%, Viskamine 75%.
 
-**Võimed:** Deemonitel on väidetavalt rida võimeid, millest igal üksikul deemonil võib olla mõni, kõik või mitte ükski:
+**Võimed:** Öeldakse, et deemonitel on hulk võimeid, millest igal üksikul deemonil võib olla mõni, kõik või mitte ükski:
 
-* **Hirmu aura:** Suurel deemonil on kurjuse ja vihkamise kiirgus, mis manifesteerub hirmu aurana. Igaüks, kes satub deemoni POW-i meetrite raadiusesse, peab tegema POW vs POW vastupanuviseviske, et vältida hirmust alistumist. Ebaõnnestumine tähendab, et tegelane on hirmust tabatud ja kõik rünnakud ning muud tegevused muutuvad Raskeks. Mõjutatud tegelased võivad proovida uut vastupanuviseviset järgmise võitlusvooru alguses, kuigi selle vastupanuviseviske jaoks nende POW poolitatakse (ümardatud ülespoole). Deemon saab selle aura aktiveerida 1 võimepunkti eest ja see kestab deemoni POW-i võitlusvooru või kuni deemon otsustab võime peatada. Igaüks, kes on deemoni „poolel“ või samast lojaalsusest, on sellest võimest vabastatud, välja arvatud juhul, kui deemon soovib, et see mõjutaks liitlasi. Kui tegelane ebaõnnestub vastupanuviseviskes ja kasutatakse mõistust, kaotab tegelane kogu võimaliku SAN-i suure deemoni nägemisest.
-* **Katk:** Deemoni üldine kohalolek põhjustab ala saastumise, keerdunud deemoni hinges peituva tumeda kurjusega. See pole võitluses kasulik, kuid saastab ala aja jooksul, kuni sellel on ähvardav ja püsiv kurjuse ning pahatahtlikkuse kohalolek. Elavad taimed närbuvad või kasvavad keerdunult ja kibedalt, pinnas muutub kuivaks ja süngeks ning kogu atmosfäär omandab ebatervisliku aspekti. Selle efekti raadius on võrdne suure deemoni POW×100 meetrit. See ei maksa aktiveerimiseks võimepunkte, on automaatne ja väljaspool deemoni kontrolli (kohalolekut ei saa maskeerida ega varjata). Kulub 30 päeva miinus deemoni POW, et see kohalolek avalduks, ja deemoni POW kuudes, et ala taastuks pärast saastumist.
-* **Tulehingamine:** Deemon saab hingata tulepuhangu, mille ulatus on võrdne tema CON-iga meetrites. See puhang on kolme meetri ruuduline alarünnak. Kõik, kes sellesse puhangusse jäävad, saavad 6D6 tulekahju (sõltumata nende lojaalsusest), kahju jaotatakse kõigi löögikohtade vahel, kui kasutatakse. See tuli püsib ja jätkab põlemist kolme järgneva vooru jooksul. Lisateabe saamiseks konsulteeri tulekahju reegleid. See tuline puhang maksab 6 võimepunkti iga puhangu kohta.
-* **Lendamine:** Suurel deemonil on tohutud nahkhiirelaadsed tiivad ja ta saab lennata väsimatult ja vaevata.
-* **Regenereerumine:** Deemonil on põrgulik elujõud ja ta saab regenereerida 1D6 elupunkti iga võitlusvooru kohta ilma võimepunktide kuluta. Kui kasutatakse löögikohti, paraneb deemon 1D3 elupunkti löögikoha kohta iga võitlusvooru kohta.
-* **Suitsu ja tule ümbris:** Deemon võib ümbritseda end põleva kiirgusega, mis põhjustab 1D6 punkti tulekahju iga võitlusvooru kohta igale olendile, kes satub temast kahe meetri raadiusesse, näiteks füüsilises võitluses. See ümbris võib süüdata mis tahes tuleohtliku aine deemoni ümber. See toimib 1 punkti lisasoomusena mis tahes puidust rakettrelva vastu, mis on suunatud tema vastu, näiteks nool või amb. See ümbris võib aktiveerida soovi korral ja maksab 1 võimepunkti vooru kohta.
+* **Hirmu aura:** Suuremal deemonil on pahatahtlikkuse ja vihkamise sära, mis avaldub hirmu auras. Igaüks, kes satub deemoni VÄG-ga meetritesse, peab tegema VÄG vs. VÄG vastupanuveeretuse, et vältida hirmu ületamist. Ebaõnnestumine tähendab, et tegelane on hirmu poolt vallutatud ja kõik rünnakud ja muud toimingud muutuvad Raskeks. Mõjutatud tegelased saavad üritada uut vastupanuveeretust järgmise võitlusringi alguses, kuigi selle vastupanuveeretuse jaoks nende VÄG poolitatakse (ümardatuna üles). Deemon saab selle aura aktiveerida 1 võimepunkti eest ja see kestab deemoni VÄG võitlusringides või kuni deemon otsustab võime peatada. Kõik, kes on deemoni "poolel" või need, kellel on sama lojaalsus, on sellest võimest vabastatud, välja arvatud juhul, kui deemon soovib, et see mõjutaks liitlasi. Kui tegelane ebaõnnestub vastupanuveeretuses ja kasutatakse mõistust, kaotab tegelane suurema deemoni nägemisest täieliku võimaliku MÕISTUSE.
+* **Kahjustus:** Deemoni üldine kohalolu põhjustab ala saastumise, mis on väändunud deemoni hinges peituva tumeda kurjusega. See pole võitluses kasulik, kuid saastab ala aja jooksul, kuni sellel on kurjuse ja pahatahtlikkuse ettekuulutav ja püsiv kohalolu. Elusad taimed närbuvad või kasvavad väändununa ja kibedana, muld muutub kuivaks ja kõledaks ning kogu atmosfäär omandab ebatervisliku aspekti. Selle mõju raadius on võrdne suurema deemoni VÄG×100 meetriga. Selle aktiveerimine ei maksa võimepunkte, on automaatne ja väljaspool deemoni kontrolli (kohalolu ei saa maskeerida ega varjata). Kulub 30 päeva miinus deemoni VÄG, et see kohalolu avalduks, ja deemoni VÄG kuudes, et ala taastuks pärast seda, kui see on muutunud kahjustatuks.
+* **Tule hingamine:** Deemon saab hingata tulepuhangu, mille ulatus on võrdne tema VAS-ga meetrites. See puhang on kolme meetri ruudune ala-rünnak. Igaüks, kes jääb sellesse puhangusse, võtab 6D6 tulekahju (sõltumata nende lojaalsusest), kahju jaotatakse kõigi tabamiskohtade vahel, kui kasutatakse. See tuli püsib ja põleb edasi kolm järgnevat ringi. Konsulteeri tulega seotud reegleid, et saada rohkem teavet. See tuline puhang maksab 6 võimepunkti puhangu kohta.
+* **Lendamine:** Suuremal deemonil on suured nahkhiirelaadsed tiivad ja ta saab lennata, väsimatult ja pingevabalt.
+* **Regeneratsioon:** Deemonil on põrgu elujõud ja ta saab regenereerida 1D6 elupunkti võitlusringi kohta ilma võimepunktideta. Kui kasutatakse tabamiskohti, terveneb deemon 1D3 elupunkti tabamiskoha kohta võitlusringi kohta.
+* **Suitsu ja tule ümbris:** Deemon saab end ümbritseda leegitseva säraga, mis põhjustab 1D6 punkti tulekahju võitlusringi kohta igale olendile, kes satub temast kahe meetri raadiusesse, näiteks füüsilises võitluses. See ümbris võib süüdata mis tahes tuleohtliku aine deemoni ümber. See toimib 1 punkti täiendava soomusena mis tahes puust rakettrelva vastu, mis on suunatud tema vastu, nagu nool või ammunool. See ümbris võib aktiveerida soovi korral ja maksab 1 võimepunkti ringis säilitamiseks.
 
-Suurel deemonil võib olla ka üks või mitu kaootilist joont.
+Suuremal deemonil võib olla ka üks või mitu kaootilist joont.
 
-### Deemon, Väike
+### Deemon, Väiksem
 
-Väike deemon on palju väiksem kui suur deemon ja selle on kutsunud nõid (vt loitsu Summon Demon) või saadetud emissari või korruptsiooniagendina. See väike deemon on groteskne olend, nagu kõhetu gargoyle küüniste, tiibade ja sarvedega. Ta ei ole argpüks, kuid eelistab teenida muude vahenditega kui võitlus. Kui ta hävitatakse, naaseb ta infernaalsetesse tasanditesse, kus teda kiusatakse ja piinatakse. Seetõttu soovib ta oma vabadust selles maailmas nii kaua kui võimalik pikendada.
+Väiksem deemon on palju väiksem kui suurem deemon ja on kutsutud nõidujate poolt (vt deemonite kutsumise loitsu) või saadetud korruptsiooni saadikuna või agendina. See väiksem deemon on groteskne olend, nagu kõhnunud gargoyle, kellel on küünised, tiivad ja sarved. Ta ei ole argpükslik, kuid eelistab teenida muul viisil kui võitluse kaudu. Hävitades naaseb ta põrguilma, kus teda kiusatakse ja piinatakse. Seetõttu soovib ta oma vabadust siin maailmas nii kaua kui võimalik pikendada.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+3 | 3D6 | 1D6+6 | 2D6+3 | 2D6+6 | 3D6+3 | 1D6+3 |
 | 10 | 10–11 | 9–10 | 10 | 13 | 13–14 | 6–7 |
 
-| Liikuda 8 (12 lendades) | Elupunktid 10 |
+| Liikumine 8 (12 lennates) | Elupunktid 10 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 1-pt. soomustatud nahk |
+| **Kahjumodifikaator** Puudub | **Soomus** 1-pt. soomustatud nahk |
 
 **Rünnakud:**
 
@@ -782,1167 +782,1163 @@ Väike deemon on palju väiksem kui suur deemon ja selle on kutsunud nõid (vt l
 * Hammustus 35%, 1D3+½ dm (veritsev)
 * Maadlus 45%, eriline
 
-Deemon saab teha kaks küünisterünnakut võitlusvoorus. Kui õnnestub mõlemaga, üritab ta järgmisel võitlusvoorus maadleda ja hammustada.
+Deemon saab teha kaks küünistega rünnakut võitlusringis. Kui see õnnestub mõlemaga, üritab ta järgmisel võitlusringil maadleda ja hammustada.
 
-**Oskused:** Bargain 55%, Climb 65%, Dodge 50%, Fast Talk 40%, Fly 75%, Hide 45%, Knowledge (Piirkond: Põrgu) 35%, Listen 40%, Sense 35%, Spot 50%, Stealth 35%.
+**Oskused:** Kauplemine 55%, Ronimine 65%, Põiklemine 50%, Kiire rääkimine 40%, Lendamine 75%, Peitumine 45%, Teadmised (Piirkond: Põrgu) 35%, Kuulmine 40%, Tunnetus 35%, Märkamine 50%, Hiilimine 35%.
 
-**Võimed:** Väikesed deemonid ei ole eriti võimsad, kuigi ühel võib olla mõni nõiduse loits, kui tema POW on piisavalt kõrge. Levinud loitsud on Curse of Sorcery (4), Flames of the Sun (4), Midnight (1) ja Pox (1). Nõid, kes kutsub väikese deemoni, võib valida, milliseid loitsusid deemon teab, kui piisav uurimistöö on eelnevalt tehtud. Deemonil võib olla ka üks või mitu kaootilist joont.
+**Võimed:** Väiksemad deemonid ei ole eriti võimsad, kuigi ühel võib olla mõni nõidumisloits, kui tema VÄG on piisavalt kõrge. Levinud loitsud on Nõidumise needus (4), Päikese leegid (4), Südaöö (1) ja Pox (1). Väiksemat deemonit kutsuv nõiduja võib valida, milliseid loitse deemon teab, kui eelnevalt tehakse piisav uurimistöö. Deemonil võib olla ka üks või mitu kaootilist joont.
 
 ### Elementaalid
 
-Elementaalid on ürgsed elementaarsed vaimud, mis manifesteeruvad kehadena, mis koosnevad nende tüüpi elemendist. Tavaliselt kutsutakse nad olemasolusse maagilise loitsuga Conjure Elemental, nõiduseloitsuga Summon Elemental või muude vahenditega, võib-olla isegi looduslikult esinevad.
+Elementaalid on ürgsed elementaarsed vaimud, mis avalduvad elementidest koosnevates kehades. Tavaliselt kutsutakse nad ellu maagialoitsuga Elementaali välja kutsumine, nõidumisloitsuga Elementaali kutsumine või muude vahenditega, võib-olla isegi looduslikult esinedes.
 
-Elementaalide elupunktid määratakse CON+SIZ liitmisega, mitte keskmistamisega. Elementaalid ei paranda kaotatud elupunkte ega regenereeri võimepunkte: kui üks on viidud 0 elupunktini või kulutab oma viimase võimepunkti, ta kaob, taandudes tooreks elemendiks, millest ta koosnes.
+Elementaalide elupunktid määratakse VAS+SUU liitmisel, mitte keskmistamisel. Elementaalid ei tervenda kaotatud elupunkte ega regenereeri võimepunkte: kui üks on vähendatud 0 elupunktini või kulutab oma viimase võimepunkti, siis ta kaob, vähendatuna tooreks elemendiks, millest ta koosnes.
 
-Maagiliste olenditena on elementaalid immuunsed tavalistele rünnakutele, nagu relvad või tulirelvad. Nad on siiski haavatavad üksteise rünnakutele. Sõltuvalt maailmast võivad energiarünnakud või keemilised relvad neid mõjutada, samuti võivad mõju avaldada ained, mis neile loomulikult vastu töötavad. Lõpuks mõjutavad elementaale paljud võimed, mängujuhi äranägemisel.
+Maagiliste olenditena on elementaalid immuunsed tavaliste rünnakute, nagu relvade või tulirelvade, suhtes. Nad on siiski haavatavad üksteise rünnakute suhtes. Sõltuvalt sättest võivad neid mõjutada energia- või keemilised relvad ja ka ainete rünnakud, mis neile loomulikult vastu seisavad, võivad avaldada mõju. Lõpuks mõjutavad elementaale paljud võimed, mängujuhi äranägemisel.
 
-Siin on esitatud neli traditsioonilist elementaalitüüpi – õhk, maa, tuli ja vesi. Teisi võib eksisteerida, olgu vaim, vari, hübriidid või isegi aspektid nagu aeg, gravitatsioon, valgus jne. Need näited on keskmised ja neid saab soovi korral võimsamaks või nõrgemaks muuta.
+Siin on esitatud neli traditsioonilist elementaali tüüpi – õhk, maa, tuli ja vesi. Teisi võib eksisteerida, olgu see vaim; vari; hübriidid; või isegi aspektid nagu aeg, gravitatsioon, valgus jne. Näited on keskmised ja neid saab soovi korral võimsamaks või vähem võimsaks muuta.#### Õhuelementaal
 
-#### Õhu-elementaal
+Õhuelementaalid näevad tavaliselt välja nagu hõljuvad läbipaistvad, üliilusa välimusega naisolevused, kes on kas alasti või õhulistes rõivastes ning ümbritsetud keeristormist. Nad on vaevutuntavad, justkui moodustatud tihenenud õhust. Nende hääled on pehmed ja nõrgad ning nad on ulakad ja lühikese tähelepanuvõimega. Õhuelementaale kutsutakse sageli sülfideks.
 
-Õhu-elementaalid ilmuvad tavaliselt ujuvate, läbipaistvate, erakordse iluga naissoost humanoididena, kas alasti või õhulistes rõivastes, ümbritsetuna keeristormist. Nad on vaevalt käegakatsutavad, nagu oleksid nad moodustatud paksendatud õhust. Nende hääled on pehmed ja nõrgad ning nad on pahatahtlikud, lühikese tähelepanuvõimega. Õhu-elementaare kutsutakse sageli silfideks.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 3D6 | 2D6 | 4D6 | 3D6 | 4D6 | 3D6+3 |
 | 10–11 | 10–11 | 7 | 14 | 10–11 | 14 | 13–14 |
 
-| Liikuda 10 (12 lendades) | Elupunktid 17–18 |
+| Liikumine 10 (12 lennates) | Elupunktid 17–18 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub, kuid on immuunne tavalistele rünnakutele |
+| **Kahjustuse muundur** Puudub | **Soomus** Puudub, kuid immuunne tavalistele rünnakutele |
 
 **Rünnakud:**
 
-* Skureeriv tuul 50%, 1D10 (tagasilöök, ulatus on POW meetrites)
+* Hõõguv tuul 50%, 1D10 (tõukejõud, ulatus on VÄG meetrites)
 
-**Oskused:** Dodge 75%, Fly 100%, Language (kutsuja keel) 100%, Listen 75%, Science (Meteoroloogia) 100%, Sense 75%, Spot 75%.
+**Oskused:** Põiklemine 75%, Lendamine 100%, Keel (kutsuja oma) 100%, Kuulamine 75%, Teadus (Meteoroloogia) 100%, Tunnetus 75%, Märkamine 75%.
 
-**Võimed:** Õhu-elementaalil on kontroll oma elemendi üle, kasutades mis tahes neist võimetüüpidest:
+**Võimed:** Õhuelementaal kontrollib oma elementi, kasutades mis tahes järgmistest võimetüüpidest:
 
-* **Maagia:** See võib heita Lift ja Lightning loitse oma POW×3% juures tavalise võimepunktide kuluga.
-* **Nõidus:** See võib heita Wings of the Sky (4) soovi korral, ilma võimepunktide kuluta.
-* **Supervõimed:** Sellel on võrdväärne ¼ oma POW-ga (ümardatud ülespoole) Energy Control (Tuul) ja Energy Projection (Tuul) supervõimetes.
-* Õhu-elementaal võib oma elu hinnaga hävitada võrdväärse tugevusega tule-elementaali.
-* See võib pakkuda ka hingatavat õhku ühele tegelasele hinnaga 1 elupunkt vooru kohta.
-* Õhu-elementaalid võivad muutuda nähtamatuks soovi korral hinnaga 1 võimepunkt, kuigi nad ilmuvad uuesti, kui nende kutsuja käsib või kui nad kedagi ründavad.
+* **Maagia:** See võib loitsida Lift ja Välk loitse oma VÄG×3% tõenäosusega tavalise energiapunktide kulu eest.  
+* **Nõidus:** See võib kasutada loitsu Taeva tiivad (4) piiramatult, ilma energiapunktide kuluta.  
+* **Ülivõimed:** Sellel on ¼ oma VÄG-st (ülespoole ümardatuna) tasemete jagu Energiajuhtimine (Tuul) ja Energiaprojektsioon (Tuul) ülivõimeid.  
+* Õhuelementaal võib oma elu hinnaga hävitada samaväärse tugevusega tuleelementaali.  
+* See võib pakkuda hingatavat õhku ühele tegelasele, kulutades 1 elupunkti vooru kohta.  
+* Õhuelementaalid võivad soovi korral muutuda nähtamatuks 1 energiapunkti eest, kuigi nad ilmuvad uuesti nähtavale, kui kutsuja neid käsib või kui nad kedagi ründavad.
 
-#### Maa-elementaal
+#### Maaelementaal
 
-Maa-elementaalid ilmuvad paksude humanoidsete vormidena, mis on valmistatud kivist, mullast ja mineraalidest, juurte ja viinapuudega nagu veenid ning mõnikord sambla ja lehtedega habemega. Nende hääled on madalad ja karedad ning nad on sageli aeglased ja tõredad, kutsudes neid kutsudes pahurad, kuigi nad teevad siiski oma kutsuja pakkumisi. Teistes keskkondades võivad nad ilmuda kättesaadava maa tüüpidena, nagu liiv ja liivakivi kõrbes. Neid kutsutakse sageli gnoomideks.
+Maaelementaalid näevad välja nagu paksu kehaga humanoidid, kes on tehtud kivist, mullast ja mineraalidest, kelle veenideks on juured ja väädid ning kellel on mõnikord samblast ja lehtedest juuksed või habe. Nende hääled on madalad ja karedad ning nad on sageli aeglase mõtlemisega ja pahurad; kutsutuna on nad tülpinud, kuigi täidavad ikkagi oma kutsuja soove. Teistes keskkondades võivad nad välja näha nagu seal leiduv pinnas, näiteks kõrbes nagu liiv või liivakivi. Neid kutsutakse sageli gnoomideks.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 5D6+12 | 3D6+6 | 3D6 | 2D6 | 3D6 | 2D6 | 1D6+3 |
 | 29–30 | 16–17 | 10–11 | 7 | 10–11 | 7 | 6–7 |
 
-| Liikuda 6 | Elupunktid 26–28 |
+| Liikumine 6 | Elupunktid 26–28 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D6 või +2D6 | **Soomus** puudub, kuid immuunne tavalistele rünnakutele (vt allpool) |
+| **Kahjustuse muundur** +1D6 või +2D6 | **Soomus** Puudub, kuid immuunne tavalistele rünnakutele (vt allpool) |
 
 **Rünnakud:**
 
-* Rusikahoop 50%, 1D6+dm (muljuv)
+* Rusikas 50%, 1D6+km (purustav)
 
-**Oskused:** Appraise 50%, Craft (Sepatöö) 75%, Language (kutsuja keel) 25%, Science (Metallurgia) 100%.
+**Oskused:** Hindamine 50%, Käsitöö (Sepistamine) 75%, Keel (kutsuja oma) 25%, Teadus (Metallurgia) 100%.
 
-**Võimed:** Maa-elementaalil on kontroll oma elemendi üle, kasutades mis tahes neist võimetüüpidest:
+**Võimed:** Maaelementaal kontrollib oma elementi, kasutades mis tahes järgmistest võimetüüpidest:
 
-* **Maagia:** See võib heita loitse Dull ja Wall oma POW×3% juures tavalise võimepunktide kuluga.
-* **Nõidus:** See võib heita Gift of the Earth (4) soovi korral, ilma võimepunktide kuluta.
-* **Supervõimed:** Sellel on võrdväärne ¼ oma POW-ga (ümardatud ülespoole) Barrier supervõimes.
-* Maa-elementaal võib oma elu hinnaga hävitada võrdväärse tugevusega õhu-elementaali.
-* See võib ka vajuda maasse ja liikuda normaalse kiirusega, väljudes, kui soovib. See võib laiendada seda võimet oma SIZ-i või väiksemale tegelasele, neelates nad alla ja liigutades tegelast läbi maa kahjustamata elementaali normaalse MOV-i kiirusega. See teeb seda ainult nõusoleva tegelasega, kuid ei taga hingamiseks hapnikku (vt Lämbumine, Uppumine ja Asfüksia).
-* Lisaks sellele, et olla immuunne tavalistele rünnakutele, on maa-elementaalil võimalus purustada mis tahes tavaline metallist valmistatud relv. Kui tegelane edukalt tabab maa-elementaali metallist relvaga, peab ta tegema vastupanuviseviske oma relva elupunktide vs maa-elementaali CON. Kui relva vise ebaõnnestub, puruneb see automaatselt. Kui see õnnestub, see ei purune. Seda viset tuleb teha ainult üks kord vooru esimese eduka tabamuse puhul ja see kehtib relvade kohta, millele on ajutiselt peale pandud maagilisi loitse või nõidust, kuid mitte maagiliste relvade kohta.
-* Maa-elementaalid on samuti teadlikud mis tahes väärismetallidest või kõigest maa-alustest oma INT×100 meetri raadiuses, kuid tunnistavad seda vaid vastumeelselt ja nad peavad olema veendunud või kästud neid asju välja tuua. Selle võime kasutamine maksab maa-elementaalile võimepunkte, mis on võrdsed tagasitoodud eseme SIZ-iga.
+* **Maagia:** See võib loitsida Dull ja Wall loitse oma VÄG×3% tõenäosusega tavalise energiapunktide kulu eest.  
+* **Nõidus:** See võib kasutada loitsu Maa kingitus (4) piiramatult, ilma energiapunktide kuluta.  
+* **Ülivõimed:** Sellel on ¼ oma VÄG-st (ülespoole ümardatuna) tasemete jagu Tõke ülivõimet.  
+* Maaelementaal võib oma elu hinnaga hävitada samaväärse tugevusega õhuelementaali.  
+* See võib vajuda maapinda ja liikuda normaalse kiirusega, väljudes siis, kui soovib. See võib seda võimet laiendada tegelasele, kes on selle SUU-ga või väiksem, neelates nad endasse ja liigutades tegelast läbi maa vigastusteta elementaali normaalse liikumiskiirusega. See teeb seda ainult vabatahtliku tegelasega, kuid ei taga reisiks hapnikku (vt Lämbumine, Uppumine ja Asfüksia).  
+* Lisaks tavalistele rünnakutele immuunne olemisele on maaelementaalil võimalus purustada mis tahes metallist valmistatud tavaline relv. Kui tegelane lööb edukalt maaelementaali metallrelvaga, peab ta sooritama vastupanuviske relva elupunktide ja maaelementaali VAS-i vahel. Kui relva vise ebaõnnestub, puruneb see automaatselt. Kui see õnnestub, siis relv ei purune. Seda viset tuleb teha ainult üks kord vooru esimesel edukal tabamusel ja see kehtib ka relvade kohta, millele on ajutiselt loitsitud maagiat või nõidust, kuid mitte maagiliste relvade kohta.  
+* Maaelementaalid on teadlikud ka mis tahes väärismetallidest või kõigest muust maa-alusest oma INT×100 meetri raadiuses, kuid tunnistavad seda vaid vastumeelselt ning nad tuleb veenda või käskida neid asju otsima minema. Selle võime kasutamine maksab maaelementaalile energiapunkte, mis võrduvad tagasitoodud eseme SUU-ga.
 
-#### Tule-elementaal
+#### Tuleelementaal
 
-Tule-elementaalid ilmuvad neljajalgsete roomajatena, mis on valmistatud tulises plasmast. Nad kõrvetavad maad, kus nad kõnnivad, ja nende suust väljub suitsu, kui nad räägivad oma sisisevate, pragisevate häältega. Nad on üldiselt ärrituvad ja kiiresti süttivad. Tule-elementaare kutsutakse sageli salamandriteks.
+Tuleelementaalid näevad välja nagu neljajalgsed, tulisest plasmast roomajad. Nad kõrvetavad maad, kus nad kõnnivad, ja nende suust tõuseb suitsu, kui nad oma sisisevate ja praksuvate häältega räägivad. Nad on üldiselt ärrituvad ja kiire vihastuma. Tuleelementaale kutsutakse sageli salamandriteks.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 3D6+6 | 2D6 | 3D6 | 4D6 | 1D6+3 |
 | 13 | 10–11 | 16–17 | 7 | 10–11 | 14 | 6–7 |
 
-| Liikuda 10 | Elupunktid 26–28 |
+| Liikumine 10 | Elupunktid 26–28 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub, kuid immuunne tavalistele rünnakutele |
+| **Kahjustuse muundur** +1D4 | **Soomus** Puudub, kuid immuunne tavalistele rünnakutele |
 
 **Rünnakud:**
 
-* Tulehingamine 50%, 1D10 vooru kohta (tuli, ulatus on POW meetrites)
-* Maadlus 50%, eriline + 1D6 vooru kohta (tuli)
+* Leekhingamine 50%, 1D10 vooru kohta (tuli, ulatus on VÄG meetrites)  
+* Haare 50%, eriline + 1D6 vooru kohta (tuli)
 
-**Oskused:** Demolition 75%, Dodge 50%, Language (kutsuja keel) 50%, Listen 50%, Sense 50%, Spot 50%.
+**Oskused:** Lammutamine 75%, Põiklemine 50%, Keel (kutsuja oma) 50%, Kuulamine 50%, Tunnetus 50%, Märkamine 50%.
 
-* **Võimed:** Tule-elementaalil on kontroll oma elemendi üle, kasutades mis tahes neist võimetüüpidest:
-* **Maagia:** See võib heita loitse Flame ja Resistance oma POW×3% juures tavalise võimepunktide kuluga.
-* **Nõidus:** See heidab Flames of the Sun (4) soovi korral, ilma võimepunktide kuluta.
-* **Supervõimed:** Sellel on võrdväärne ¼ oma POW-ga (ümardatud ülespoole) Energy Control (Kuumus) ja Energy Projection (Kuumus) supervõimetes.
-* Tule-elementaal võib oma elu hinnaga hävitada võrdväärse tugevusega vee-elementaali.
-* See võib süüdata mis tahes tuleohtliku materjali puudutusega, kuid ei kustuta ega hoia kunagi vabatahtlikult ära tuld.
+* **Võimed:** Tuleelementaal kontrollib oma elementi, kasutades mis tahes järgmistest võimetüüpidest:  
+* **Maagia:** See võib loitsida Flame ja Resistance loitse oma VÄG×3% tõenäosusega tavalise energiapunktide kulu eest.  
+* **Nõidus:** See võib kasutada loitsu Päikese leegid (4) piiramatult, ilma energiapunktide kuluta.  
+* **Ülivõimed:** Sellel on ¼ oma VÄG-st (ülespoole ümardatuna) tasemete jagu Energiajuhtimine (Kuumus) ja Energiaprojektsioon (Kuumus) ülivõimeid.  
+* Tuleelementaal võib oma elu hinnaga hävitada samaväärse tugevusega veeelementaali.  
+* See võib puudutusega süüdata mis tahes süttiva materjali, kuid ei kustuta ega hoia vabatahtlikult ära ühtegi tuld.#### Veeelementaal
 
-#### Vee-elementaal
+Veeelementaalid paistavad kui kaunid veelised, ähmaselt läbipaistvad, meresinist värvi naisinimesed, kellel on rohekassinised juuksed ja nahk. Nad on kütkestavad ja tavaliselt kas napilt riietatud või alasti. Maapinnal kohates jätavad veeelementaalid märgi jälgi ja neist nõrgub pidevalt vett. Nad on arukad, mõtlikud ja kõnelevad vuliseva häälega. Veeelementaale nimetatakse sageli undiinideks.
 
-Vee-elementaalid ilmuvad ilusate akvaatiliste, vaevalt läbipaistvate, merevärvi naissoost humanoididena, kellel on rohekassinised juuksed ja nahk. Nad on ahvatlevad ja tavaliselt kas napilt riietatud või alasti. Maal olles jätavad vee-elementaalid märgi jalajälgi ja tilguvad pidevalt veest. Nad on intelligentsed, läbimõeldud ja räägivad vuliseva häälega. Vee-elementaare kutsutakse sageli undiinideks.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6+6 | 2D6 | 4D6 | 3D6 | 3D6 | 3D6+3 |
 | 16–17 | 16–17 | 7 | 14 | 10–11 | 10–11 | 13–14 |
 
-| Liikuda 10 (12 ujumisel) | Elupunktid 23–24 |
+| Liikumine 10 (12 ujudes) | Elupunktid 23–24 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub, kuid immuunne tavalistele rünnakutele (vt allpool) |
+| **Kahjustuse modifikaator** Puudub | **Soomus** Puudub, kuid on haavamatu tavalistele rünnakutele (vaata allpool) |
 
 **Rünnakud:**
 
-* Uppumine 50%, eriline (vt allpool)
+* Uppumine 50%, eriline (vaata allpool)
 
-**Oskused:** Dodge 75%, Language (kutsuja keel) 75%, Navigate 100%, Science (Okeanograafia) 100%, Sense 50%, Spot 50%, Swim 100%.
+**Oskused:** Põiklemine 75%, keel (väljakutsuja oma) 75%, navigeerimine 100%, teadus (okeanograafia) 100%, taju 50%, märka 50%, ujumine 100%.
 
-**Võimed:** Vee-elementaalil on kontroll oma elemendi üle, kasutades mis tahes neist võimetüüpidest:
+**Võimed:** Veeelementaalil on kontroll oma elemendi üle, kasutades mis tahes järgmistest võimetüüpidest:
 
-* **Maagia:** Vee-elementaal võib heita loitse Heal ja Unseal oma POW×3% juures tavalise võimepunktide kuluga.
-* **Nõidus:** Vee-elementaal võib heita Bounty of the Sea (4) soovi korral, ilma võimepunktide kuluta.
-* **Supervõimed:** Vee-elementaalil on võrdväärne ¼ oma POW-ga (ümardatud ülespoole) Drain ja Super Movement (Vee peal kõndimine) supervõimetes.
-* Vee-elementaal võib oma elu hinnaga hävitada võrdväärse tugevusega maa-elementaali.
-* Vastase uputamiseks haarab vee-elementaal sihtmärgi suu ja nina veemulliga. Kui see on edukalt puudutusega rünnanud, on kõik edasised uppumisrünnakud sihtmärgi vastu lihtsad (Easy), kuni sihtmärk on kas vabanenud või surnud (vt uppumise reegleid). See rünnak maksab vee-elementaalile elupunkte, mis on võrdsed sihtmärgile tekitatud kahjuga. See võib uppumiskatse igal ajal lõpetada.
-* Lisaks sellele, et olla immuunne tavalistele rünnakutele, on vee-elementaalil võimalus roostetada mis tahes tavalist metallist relva või väänata mis tahes puidust relva, mis teda tabab. Kui tegelane edukalt tabab vee-elementaali metallist relvaga, peab ta tegema vastupanuviseviske relva elupunktide vs vee-elementaali CON. Kui relva vise ebaõnnestub, see roostetab (kaotab 2 elupunkti, –1 kahjule) või väändub (–1 elupunkt, –5% tabamiseks). Kui see õnnestub, see ei ole mõjutatud. Seda viset tuleb teha ainult üks kord vooru esimese eduka tabamuse puhul ja see kehtib relvade kohta, millele on ajutiselt peale pandud maagilisi loitse või nõidust, kuid mitte maagiliste relvade kohta.
-* Vee all olles võib vee-elementaal muutuda nähtamatuks soovi korral hinnaga 1 võimepunkt, kuigi ta ilmub uuesti, kui kutsuja käsib või kui ta kedagi ründab.
-* Vee all olles võib vee-elementaal selgelt rääkida kõigiga tavalises kuuldekauguses.
-* Vee-elementaalid on samuti teadlikud mis tahes esemetest veekogus, millest nad kutsuti, oma INT×100 meetri raadiuses, kuid tunnistavad seda vaid siis, kui küsitakse, ja nad peavad olema veendunud või kästud neid esemeid välja tuua. Iga selle võime kasutamine maksab vee-elementaalile võimepunkte, mis on võrdsed tagasitoodud eseme SIZ-iga.
+* **Maagia:** Veeelementaal võib heita maagilisi loitse Tervendamine ja Avamine oma VÄG×3% juures tavalise võimepunktide kulu eest.
+* **Nõidus:** Veeelementaal võib heita Mere ande (4) oma suva järgi, ilma võimepunktide kuluta.
+* **Üli-võimed:** Veeelementaalil on ¼ oma VÄG-st (üles ümardatuna) tasemetes üli-võimed Nõrutamine ja Üliliikumine (Vee peal kõndimine).
+* Veeelementaal võib oma elu hinnaga hävitada samaväärse tugevusega maaelemendi.
+* Vastase uputamiseks haarab veeelementaal sihtmärgi suu ja nina veemulli sisse. Kui ta on edukalt sooritanud puuterünnaku, on kõik edasised uppumisrünnakud sihtmärgi vastu *Lihtsad*, kuni sihtmärk on kas vabanenud või surnud (vaata uppumise reegleid). See rünnak maksab veeelementaalile elupunkte võrdselt sihtmärgile tekitatud kahjustusega. Ta võib uppumiskatse igal ajal lõpetada.
+* Lisaks sellele, et veeelementaal on haavamatu tavalistele rünnakutele, on tal võimalus roostetada mis tahes tavalist metallist relva või väänata mis tahes puidust relva, mis teda tabab. Kui tegelane tabab edukalt veeelementaali metallist relvaga, peab ta tegema vastupanuviske relva elupunktide vs. veeelementaali VAS vahel. Kui relva vise ebaõnnestub, see roostetab (kaotades 2 elupunkti, –1 kahjustusele) või väändub (–1 elupunkt, –5% tabavusele). Kui see õnnestub, jääb relv mõjutamata. Seda viset tuleb teha ainult üks kord vooru esimese eduka tabamuse korral ja see kehtib relvade kohta, millele on ajutiselt heidetud maagilisi loitse või nõidust, kuid mitte maagiliste relvade kohta.
+* Vee all olles võib veeelementaal muutuda soovi korral nähtamatuks 1 võimepunkti kuluga, kuid ta ilmub uuesti nähtavale, kui väljakutsuja seda käsib või kui ta kedagi ründab.
+* Vee all olles võib veeelementaal rääkida selgelt kõigile, kes on tavalises kuuldekauguses.
+* Veeelementaalid on teadlikud ka mis tahes esemetest veekogus, millest nad välja kutsuti, oma INT×100 meetri raadiuses, kuid tunnistavad seda vaid küsimise korral ning nad tuleb veenda või sundida neid esemeid tooma. Iga selle võime kasutamine maksab veeelementaalile võimepunkte võrdselt toodud eseme SUU-ga.
 
 > ### Kaootilised jooned
-> 
-> Deemonid ja teised kaose olendid on oma välimuse ja võimete poolest ebajärjekindlad. Nii nagu elusolenditel on mutatsioonid, võivad ebaloomulikel olenditel olla kaootilised jooned. Soovi korral võib igal üksikul kaootilisel olendil olla üks või mitu kaootilist joont, mis on veeretatud või valitud järgmisest tabelist.
-> 
+>
+> Deemonid ja muud kaose olendid on oma välimuse ja võimete poolest ebakõlalised. Just nagu elusolenditel on mutatsioone, võib ebaloomulikel olenditel olla kaootilisi jooni. Soovi korral võib igal individuaalsel kaootilisel olendil olla üks või mitu kaootilist joont, mis on veeretatud või valitud järgnevast tabelist.
+>
 > | D100% | Kaootiline joon |
 > | :---- | :---- |
-> | 01–03 | POW+1D6 |
-> | 04–05 | POW+2D6 |
-> | 06 | POW+3D6 |
-> | 07–09 | DEX+1D6 |
-> | 10–11 | DEX+2D6 |
-> | 12 | DEX+3D6 |
-> | 13–14 | STR+1D6 |
-> | 15 | STR+2D6 |
-> | 16–17 | CON+1D6 |
-> | 18 | CON+2D6 |
+> | 01–03 | VÄG+1D6 |
+> | 04–05 | VÄG+2D6 |
+> | 06 | VÄG+3D6 |
+> | 07–09 | OSA+1D6 |
+> | 10–11 | OSA+2D6 |
+> | 12 | OSA+3D6 |
+> | 13–14 | JÕU+1D6 |
+> | 15 | JÕU+2D6 |
+> | 16–17 | VAS+1D6 |
+> | 18 | VAS+2D6 |
 > | 19–20 | Pole kunagi üllatunud. |
-> | 21–22 | Absorbeerib 1 punkti mis tahes maagia või nõiduse eest, lisades +1 võimepunkti iga loitsu kohta. |
-> | 23–24 | Sülitab hapet 2D10 POT 1D6 korda päevas, kuue meetrine ulatus. |
-> | 25–26 | Hingab 3D6 tuld 1D6 korda päevas; üks sihtmärk, kolme meetrine ulatus. |
+> | 21–22 | Neelab 1 punkti mis tahes maagiast või nõidusest, mis on tema vastu suunatud, lisades +1 võimepunkti loitsu kohta. |
+> | 23–24 | Sülitab 2D10 POT-iga hapet 1D6 korda päevas, kuue meetri ulatuses. |
+> | 25–26 | Hingab 3D6 tuld 1D6 korda päevas; üks sihtmärk, kolme meetri ulatuses. |
 > | 27–28 | Peegeldab 1-pt. maagia või nõiduse tagasi kasutajale. |
-> | 29–30 | Väga tuleohtlik; kui süttib, põletab kõiki kolme meetri raadiuses 2D6 punkti kahjuga kuni kustumiseni. |
-> | 31–32 | Hüpnootiline muster nahal; vaatajad peavad õnnestuma Idea-viskes või jääma uimastatuks 1D3 vooruks. |
-> | 33–35 | Välimus on segadusttekitav; kõik rünnakud tema vastu on –20%. |
-> | 36–37 | Suur ja väärtuslik vääriskivi on kehal selgelt nähtav. |
-> | 38–40 | Regenereerib 1 elupunkti võitlusvooru kohta, kuni surnud. |
-> | 41–42 | Saab üritada sihtmärki segadusse ajada (befuddle) iga voor lisaks mis tahes võitlusele, POW vs POW vastupanuviseviskega. Ebaõnnestumine paneb sihtmärgi segadusse ja väga sugestiivsesse olekusse. Mis tahes toimingute sooritamiseks peab sihtmärk tegema Raske (Difficult) Idea-viske ja olend võib talle käskida käituda vastu tema tavalisi soove. Nendele käskudele vastupanu osutamine nõuab samuti edukat Rasket Idea-viset. |
-> | 43–45 | Olend näib olevat võitmatu; tundub, et ei saa kahju kuni 0 elupunktini jõudmiseni, siis kukub surnult maha. |
-> | 46 | Nähtamatu kuni ründamiseni. |
-> | 47–48 | Välimus on äärmiselt segadusttekitav; kõik rünnakud tema vastu on –30%. |
-> | 49–50 | Mürgine puudutus 2D10 POT; loomulik rünnak peab tegema 1 elupunkti kahju, et mürk töötaks. |
-> | 51–52 | CON on –2D6, kuid regenereerib 3 elupunkti vooru kohta, kuni surnud. |
-> | 53–54 | 6-pt. soomustatud nahk. Kui juba on soomustatud nahk, +6 praegusele soomuse väärtusele. |
+> | 29–30 | Väga tuleohtlik; süttimisel põletab kõiki kolme meetri raadiuses 2D6 punktise kahjustusega, kuni kustutamiseni. |
+> | 31–32 | Hüpnootiline muster nahal; vaatajad peavad õnnestuma Ideeviskes või nad on 1D3 vooru uimastatud. |
+> | 33–35 | Välimus on segadust tekitav; kõik rünnakud tema vastu on –20%. |
+> | 36–37 | Kehal on selgelt nähtav suur ja väärtuslik vääriskivi. |
+> | 38–40 | Regenereerib 1 elupunkti iga lahinguvooru jooksul, kuni surmani. |
+> | 41–42 | Võib proovida sihtmärki uimastada igas voorus lisaks igasugusele lahingule, VÄG vs. VÄG vastupanuviskega. Ebaõnnestumine viib sihtmärgi segadusse ja väga sugestiivsesse olekusse. Mis tahes toimingute tegemiseks peab sihtmärk tegema Raske Ideeviske ja olend võib talle anda käsu toimida oma tavapäraste soovide vastaselt. Nendele käskudele vastupanemine nõuab samuti edukat Rasket Ideevisket. |
+> | 43–45 | Olend näib võitmatuna; näib, et ei saa kahjustada, kuni jõuab 0 elupunktini, seejärel langeb surnuna maha. |
+> | 46 | Nähtamatu kuni rünnakuni. |
+> | 47–48 | Välimus on äärmiselt segadust tekitav; kõik rünnakud tema vastu on –30%. |
+> | 49–50 | 2D10 POT-iga mürgine puudutus; mürgi toimimiseks peab looduslik rünnak tegema 1 elupunkti kahjustust. |
+> | 51–52 | VAS on –2D6, kuid regenereerib 3 elupunkti voorus kuni surmani. |
+> | 53–54 | 6-pt. soomustatud nahk. Kui tal on juba soomustatud nahk, +6 tema praegusele soomusväärtusele. |
 > | 55–56 | MOV 12 |
-> | 57–58 | Absorbeerib 1 või 2 punkti mis tahes maagia või nõiduse eest, lisades summa praegustele võimepunktidele. |
-> | 59–60 | Saab käivitada POW vs POW rünnaku iga voor; kui edukas, kaotab sihtmärk 1D6 võimepunkti. |
-> | 61–62 | Plahvatab 0 elupunktini jõudes, põhjustades 3D6 kahju kõigile kolme meetri raadiuses. Soomus, kilbid jne kaitsevad selle eest, kuigi relvade parrieerimine mitte. |
-> | 63–65 | Näib olevat palju ohtlikum kui tegelikult on. |
-> | 66–67 | Saab muutuda nähtamatuks soovi korral, kui pole võitluses. |
+> | 57–58 | Neelab 1 või 2 punkti mis tahes maagiast või nõidusest, lisades summa praegustele võimepunktidele. |
+> | 59–60 | Võib käivitada VÄG vs. VÄG rünnaku igas voorus; kui see õnnestub, kaotab sihtmärk 1D6 võimepunkti. |
+> | 61–62 | Plahvatab 0 elupunktini jõudmisel, põhjustades 3D6 kahjustust kõigile kolme meetri raadiuses. Soomused, kilbid jne kaitsevad selle eest, kuid relvade tõrjumine mitte. |
+> | 63–65 | Näib palju ohtlikum kui tegelikult on. |
+> | 66–67 | Võib muutuda soovi korral nähtamatuks, kui ta pole lahingus. |
 > | 68–70 | Peegeldab 1- või 2-pt. maagia või nõiduse tagasi kasutajale. |
-> | 71–72 | 8-pt. soomustatud nahk. Kui juba on soomustatud nahk, +8 praegusele soomuse väärtusele. |
-> | 73–74 | 10-pt. soomustatud nahk. Kui juba on soomustatud nahk, +10 praegusele soomuse väärtusele. |
-> | 75–76 | 12-pt. soomustatud nahk. Kui juba on soomustatud nahk, +12 praegusele soomuse väärtusele. |
-> | 77 | Näib olevat täiesti kahjutu, kuni siseneb võitlusse. |
-> | 78–80 | Regenereerib 1D6 elupunkti võitlusvooru kohta, kuni surnud. |
-> | 81–82 | Saab hüpata vertikaalselt või horisontaalselt kümme meetrit paigalseisust. |
-> | 83–84 | Pole avastatav maagia või nõiduse abil. |
-> | 85 | Välimus äärmiselt suunamuutev; kõik rünnakud tema vastu on –40%. |
-> | 86–87 | Väga väärtuslik vääriskivi (või kivid) olendi sees, avastatakse, kui olend lahti lõigata. |
-> | 88–90 | Teeb pidevalt piinavaid karjeid. |
-> | 91–92 | Ülevõimeline hais põhjustab iiveldust kõigil, kes hingavad tema lähedal. Kui sihtmärk ebaõnnestub Stamina-viskes, on kõik tegevused selle olendi vastu Rasked 1D6+2 vooru jooksul. |
-> | 93–94 | Peegeldab 1D6+2-pt. maagia või nõiduse tagasi kasutajale. Veereta juhuslikult iga kord, kui loits heidetakse olendi vastu, et teha kindlaks, kui palju peegeldub. |
-> | 95–96 | Olendi kole välimus demotiveerib neid, keda ta võidab POW vs POW vastupanuviseviskes. Kui sihtmärk ebaõnnestub, on kõik tegevused selle olendi vastu Rasked 1D6+2 vooru jooksul. |
-> | 97–98 | SIZ +2D6 |
-> | 99 | Veereta tabelis kaks korda uuesti. Kui see on uuesti veeretatud, lisa veel kaks kaootilist joont ja veereta uuesti jne. |
-> | 00 | Sellel olendil on CHA 5D6 ja ta on eriti armsameelne. Ta ründab CHA vs INT vastupanuviseviskega. Ebaõnnestumine paneb ohvri olendiga sõbrustama, võib-olla isegi pakkuma talle teenimist. Olendil võib olla kuni 1D6 praegust kaaslast, mängujuhi äranägemisel. Võlutud tegelane võib isegi võidelda sõpradega, et olendit kaitsta. |
+> | 71–72 | 8-pt. soomustatud nahk. Kui tal on juba soomustatud nahk, +8 praegusele soomusväärtusele. |
+> | 73–74 | 10-pt. soomustatud nahk. Kui tal on juba soomustatud nahk, +10 praegusele soomusväärtusele. |
+> | 75–76 | 12-pt. soomustatud nahk. Kui tal on juba soomustatud nahk, +12 praegusele soomusväärtusele. |
+> | 77 | Näib täiesti kahjutuna, kuni siseneb lahingusse. |
+> | 78–80 | Regenereerib 1D6 elupunkti iga lahinguvooru jooksul, kuni surmani. |
+> | 81–82 | Võib hüpata paigalt vertikaalselt või horisontaalselt kümme meetrit. |
+> | 83–84 | Maagia või nõidusega avastamatu. |
+> | 85 | Välimus äärmiselt desorienteeriv; kõik rünnakud tema vastu on –40%. |
+> | 86–87 | Äärmiselt väärtuslik vääriskivi (või kivid) olendi sees, avastatakse olendi lahtilõikamisel. |
+> | 88–90 | Karjub pidevalt piinavalt. |
+> | 91–92 | Üle jõu käiv lehk põhjustab iiveldust kõigil, kes selle lähedal hingavad. Kui sihtmärk ebaõnnestub Vastupidavusviskes, on kõik toimingud selle olendi vastu Rasked 1D6+2 vooru. |
+> | 93–94 | Peegeldab 1D6+2-pt. maagia või nõiduse tagasi kasutajale. Veeretage juhuslikult iga voor, kui olendi vastu loitsu heidetakse, et teha kindlaks, kui palju peegeldub. |
+> | 95–96 | Olendi hirmuäratav välimus demoraliseerib neid, keda ta VÄG vs. VÄG vastupanuviskes võidab. Kui sihtmärk ebaõnnestub, on kõik toimingud selle olendi vastu Rasked 1D6+2 vooru. |
+> | 97–98 | SUU +2D6 |
+> | 99 | Veeretage veel kaks korda sellel tabelil. Kui see uuesti veeretatakse, lisage veel kaks kaootilist joont ja veeretage uuesti, jne. |
+> | 00 | Sellel olendil on KAR 5D6 ja ta on eriti kütkestav. Ta ründab KAR vs. INT vastupanuviskega. Ebaõnnestumine põhjustab ohvri sõbrunemise olendiga, ehk isegi pakkudes talle teenimist. Olendil võib mängujuhi äranägemisel olla kuni 1D6 praegust kaaslast sellisel kujul. Võlutud tegelane võib isegi võidelda sõprade vastu olendit kaitstes. |
 
 ## Ulmeolendid
 
-Need olendid on kõige sobivamad ulme-, tuleviku-, post-apokalüptiliste või isegi õudusmaailmade jaoks.
+Need olendid sobivad kõige paremini ulme-, futuristlikesse, post-apokalüptilistesse või isegi õudusžanri seadetesse.
 
 ### Tulnukas, Hall
 
-Hallid tulnukad külastavad Maad uuringute ja eksperimentide jaoks inimestel ja loomadel ning on seda teinud aastatuhandeid. Oma suhteliselt nõrkade kehade tõttu loodavad nad keerukale tehnoloogiale, et immobiliseerida oma vange. Nende motiivid on teadmata ja nad ei näita mingeid emotsioone, tunnustades harva isegi oma sihtmärkide tundevõimet, kui nad teevad nendega kummalisi ja alandavaid eksperimente.
+Hallid tulnukad külastavad Maad, et uurida ja katsetada inimeste ja loomade peal, ning on seda teinud aastatuhandeid. Oma suhteliselt nõrkade kehade tõttu toetuvad nad keerukale tehnoloogiale, et oma vangistatud sihtmärke immobiliseerida. Nende motiivid on teadmata ja nad ei näita üles mingeid emotsioone, tunnustades harva isegi oma sihtmärkide arukust, kui nad nende peal kummalisi ja alandavaid katseid teevad.
 
-Hallide tulnukatega kohtab mõnikord UFO-de allakukkumispaikades, kus nad rändavad segaduses ringi, püüdes oma laeva kaitsta, kuni saabub päästmine. Nad on kas alasti või liibuvates võrk-kombinesoonides ja varustatud tulnukate tehnoloogiaga.
+Hallide tulnukatega kohatakse mõnikord UFO-de allakukkumise paikades, kus nad uimaselt ringi ekslevad ja üritavad oma laeva kaitsta, kuni pääste saabub. Nad on kas alasti või liibuvates võrk-kombinesoonides ja varustatud tulnukatehnoloogiaga.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 1D6+3 | 2D6 | 1D6+3 | 2D6+12 | 3D6 | 3D6+3 | 1D6+1 |
 | 6–7 | 7 | 6–7 | 19 | 10–11 | 13–14 | 4–5 |
 
-| Liikuda 7 | Elupunktid 7 |
+| Liikumine 7 | Elupunktid 7 |
 | :---- | :---- |
-| **Kahjumodifikaator** –1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** –1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Uimastuspüstol 50%, 2D6 (uimastab, vt relva kirjeldust)
-* Lagundajapüss 35%, 3D6+2 (vt relva kirjeldust)
+* Uimastamispüstol 50%, 2D6 (uimastab, vaata relva kirjeldust)
+* Lagundajapüss 35%, 3D6+2 (vaata relva kirjeldust)
 
-**Oskused:** Dodge 40%, Fine Manipulation 75%, First Aid 75%, Hide 60%, Knowledge (Inimkultuur) 55%, Knowledge (Piirkond: Linnutee) 85%, Language (Piirkond) 20%, Language (Zeta Reticulan) 100%, Listen 55%, Medicine 100%, Navigate 70%, Pilot (UFO) 80%, Repair (Kvant) 50%, Science (Astronoomia) 75%, Science (Planetoloogia) 95%, Science (Zooloogia) 50%, Sense 60%, Spot 50%, Stealth 50%, Technical Skill (UFO sensorid) 50%
+**Oskused:** Põiklemine 40%, peenmanipulatsioon 75%, esmaabi 75%, peitmine 60%, teadmised (inimkultuur) 55%, teadmised (regioon: Linnutee) 85%, keel (piirkond) 20%, keel (Zeta Reticulan) 100%, kuulamine 55%, meditsiin 100%, navigeerimine 70%, piloteerimine (UFO) 80%, remont (kvant) 50%, teadus (astronoomia) 75%, teadus (planetoloogia) 95%, teadus (zooloogia) 50%, taju 60%, märka 50%, vargsi 50%, tehniline oskus (UFO sensorid) 50%
 
-**Võimed:** Hallid tulnukad kasutavad seda, mida inimesed usuvad olevat psüühilised võimed. Levinud psüühilised võimed on Emotion Control, Mind Control, Mind Shield, Telekinesis ja Telepathy. Igaüks neist on nende POW×2% või kõrgem.
+**Võimed:** Hallid tulnukad kasutavad seda, mida inimesed usuvad olevat psüühilised võimed. Tavaliselt on psüühilised võimed emotsioonide kontroll, mõttekontroll, mõttekaitse, telekinees ja telepaatia. Igaüks neist on nende VÄG×2% või kõrgemal tasemel.
 
-### Tulnukas, Xenomorph
+### Tulnukas, Ksenomorf
 
-Kosmose äärel avastatud, on need xenomorphid lihajanused, süües kõiki elusolendeid, kellega nad kokku puutuvad. Vagevalt putukalaadsed, suhtlevad xenomorphid üksteisega teadmata viisil ja on võimelised üllatavalt keerukateks taktikuteks. Nad paljunevad keerulise ja äärmiselt kiire protsessi kaudu, kus munad implanteeritakse nende ohvritesse kuni gestatsiooni lõpuni, mil vastsündinud tulnukas väljub ja neelab endise peremehe. Teadlased teoretiseerivad, et iga selliste tulnukate kobar on juhitud hiiglasliku suuruse ja ülima intelligentsusega munemise brood-kuninganna poolt. Xenomorphid on kavalad, koordineerides oma rünnakuid, et kiiresti vallutada mis tahes ala, kuhu nad on toodud, ehitades hiiglaslikke tarusid ja vangistades elavaid peremehi oma alatuks paljunemisprotsessiks.
+Kosmose äärel avastatud ksenomorfid on liha järele näljased, õgides kõiki elusolendeid, kellega nad kokku puutuvad. Kergelt putukalaadsed ksenomorfid suhtlevad üksteisega teadmata viisil ja on võimelised üllatavalt keerukaks taktikaks. Nad paljunevad keerulise ja äärmiselt kiire protsessi kaudu, kus munad implanteeritakse nende ohvritesse kuni gestatsiooni lõpuni, mil vastsündinud tulnukas väljub ja õgib endise peremeesorganismi. Teadlased teoretiseerivad, et iga selliste tulnukate kurna juhib tohutu suuruse ja suurepärase arukusega munev emakuninganna. Ksenomorfid on kavalad, koordineerides oma rünnakuid, et kiiresti vallutada iga piirkond, kuhu nad on sisse toodud, ehitades hiiglaslikke pesi ja püüdes elusaid peremeesorganisme, et nad serveeriksid nende roppus paljunemisprotsessis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+3 | 3D6 | 3D6+3 | 2D6 | 2D6 | 3D6+6 | 1D6 |
 | 13–14 | 10–11 | 13–14 | 7 | 7 | 16–17 | 3–4 |
 
-| Liikuda 12 | Elupunktid 12–13 |
+| Liikumine 12 | Elupunktid 12–13 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 2-pt. kilp (sülitab happelist verd, vt allpool) |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 2-pt. rüü (sülitab happelist verd, vaata allpool) |
 
 **Rünnakud:**
 
-* Küünis 50%, 1D6+dm (veritsev)
-* Hammustus 35%, 1D6+dm (veritsev)
-* Sabapühkimine 35%, 1D4+dm (läbistav)
-* Maadlus 35%, eriline
+* Küünis 50%, 1D6+dm (veritsemine)
+* Hammustus 35%, 1D6+dm (veritsemine)
+* Sabaheide 35%, 1D4+dm (läbistamine)
+* Haare 35%, eriline
 
-Iga voor saab xenomorph rünnata kaks korda küünistega ja kord hammustusega 5 DEX-i järjekorranumbrit hiljem. Kui ta on edukas mõlema küüniserünnakuga, üritab ta järgmisel voorul maadelda ja hammustada. Kui kohane, asendab ta oma hammustuse sabapühkimisrünnakuga.
+Iga voor võib ksenomorf rünnata kaks korda küünistega ja üks kord hammustusega 5 OSA-järgu võrra hiljem. Kui see õnnestub mõlema küüniserünnakuga, üritab ta järgmises voorus haarata ja hammustada. Vajadusel asendab ta hammustuse sabaheite rünnakuga.
 
-**Oskused:** Climb 75%, Dodge 50%, Hide 60%, Jump 50%, Listen 35%, Sense 50%, Spot 35%, Stealth 50%, Track 75%.
+**Oskused:** Ronimine 75%, põiklemine 50%, peitmine 60%, hüppamine 50%, kuulamine 35%, taju 50%, märka 35%, vargsi 50%, jälitamine 75%.
 
-**Võimed:** Xenomorphidel on eriline kaitse: happeline veri. See bioloogiline hape on äärmiselt võimas ja pihustub igast füüsilisest haavast, mida xenomorph saab, olles aktiivselt söövitav 1D6+2 võitlusvooru. Iga sihtmärk ühe meetri kaugusel xenomorphist peab tegema Luck-viske, et vältida pritsimist. Ebaõnnestumine näitab, et tegelane saab happest 1D3 punkti. Soomus kaitseb alguses selle happe eest, kuid mitte kauaks. See jätkab armorisse söömist, tehes kahju iga võitlusvooru kohta, kuni armor on ületatud. Mängujuht peaks jälgima happe kahju iga voor, kuni armor on ületatud. Sel hetkel põletab see tegelast. Soomuse eemaldamine ilma põlemata võtab ühe täieliku võitlusvooru ja Raske (Difficult) Agility-viske. Kui kasutatakse löögikohti, tuleb eemaldada ainult armor mõjutatud löögikohal. Ebaõnnestumine näitab, et armor on ikka peal. Fumble näitab, et hape sattus tegelasele. Kui tegelane on happest põletatud, jätkab see põlemist, kuni see neutraliseeritakse mingi jõuga või hape lõpetab korrodeerimise 1D6+2 vooru lõpus.
+**Võimed:** Ksenomorfidel on eriline kaitse: happeline veri. See bioloogiline hape on äärmiselt võimas ja pritsib igast füüsilisest haavast, mida ksenomorf saab, olles aktiivselt söövitav 1D6+2 lahinguvooru jooksul. Iga sihtmärk, kes on ksenomorfist meetri kaugusel, peab tegema Õnneviske, et vältida pritsmeid. Ebaõnnestumine tähendab, et tegelane saab happest 1D3 punkti kahjustust. Soomus kaitseb algselt selle happe eest, kuid mitte kaua. See jätkab soomuse söömist, tehes kahjustust igas lahinguvoorus, kuni see on soomusest läbi. Mängujuht peaks jälgima happe kahjustusi iga voor, kuni soomuse väärtus on ületatud. Sel hetkel põletab see tegelast. Soomuse eemaldamine ilma põletamata võtab ühe täieliku lahinguvooru ja Raske Väledusviske. Kui kasutatakse tabamiskohti, tuleb eemaldada ainult kahjustatud tabamiskoha(t)e soomus. Ebaõnnestumine tähendab, et soomus on ikka veel peal. Komistamine tähendab, et hape sattus tegelasele. Kui tegelast juba hape põletab, jätkab see põletamist, kuni see on mingi jõuga neutraliseeritud või hape lakkab olemast söövitav 1D6+2 vooru lõpus.
 
-### Mõik (Blob)
+### Limukas
 
-Groteskne mass limast protoplasmaatilist materjali. See olend on õudne, pidevalt laiendades mitut pseudopoodi, kombitsat ja isegi ligilähedasi inimese jäsemeid ja sensoorseid organeid. Mõikad on poolläbipaistvad ja nende alla neelatud ohvreid saab näha sees, kui nad on söödud ära võimsate seedehapete poolt. Mõikad võivad oma kogumassi tihendada, pigistades end läbi kitsaste kohtade, muutes oma üldist kuju, kuid mitte tegelikku massi.
+Groteskne limase protoplasmaatilise aine mass. See olend on õudne, sirutades pidevalt välja mitmeid pseudopode, kombitsaid ja isegi inimjäsemete ja sensoorsete organite ligikaudseid kuju. Limukad on poolläbipaistvad ja nende neelatud ohvreid võib näha sees, kui nad võimsate seedehapete poolt ära söödakse. Limukad saavad oma massi kokku suruda, pigistades end läbi kitsaste ruumide, muutes oma üldist kuju, kuid mitte tegelikku massi.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 18D6 | 12D6 | 24D6 | 2D6 | 3D6 | 1D6 |
 | 63 | 42 | 84 | 7 | 10–11 | 3–4 |
 
-| Liikuda 10 | Elupunktid 63 |
+| Liikumine 10 | Elupunktid 63 |
 | :---- | :---- |
-| **Kahjumodifikaator** +8D6 | **Soomus** puudub, kuid vt allpool |
+| **Kahjustuse modifikaator** +8D6 | **Soomus** Puudub, kuid vaata allpool |
 
 **Rünnakud:**
 
-* Neelata 70%, neelab + dm (vt allpool)
+* Neelamine 70%, neelab + dm (vaata allpool)
 
-**Oskused:** Climb 50%, Hide 25%, Sense 25%, Stealth 25%, Track 25%.
+**Oskused:** Ronimine 50%, peitmine 25%, taju 25%, vargsi 25%, jälitamine 25%.
 
-Mõikal pole soomust, kuid tule- ja elektrirünnakud teevad vaid ½ kahju (ümardatud ülespoole) ja füüsilised relvad, nagu tulirelvad, teevad vaid 1 punkti kahju.
+Limukal pole soomust, kuid tule- ja elektri-rünnakud teevad vaid ½ kahjustust (üles ümardatuna) ja füüsilised relvad, nagu tulirelvad, teevad vaid 1 punkti kahjustust.
 
-**Võimed:** Mõik neelab sihtmärgi edukal rünnakul. Tema kahjumodifikaatorit rakendatakse neelatud tegelasele ja järgneval voorul hakkab tegelast seedima. Kui kasutatakse löögikohti, jaotatakse kahju kõigi löögikohtade vahel samaaegselt. See teeb 1D3–1 punkti kahju iga võitlusvooru kohta. Kaitsevarustus ei tööta, välja arvatud juhul, kui see on täielikult suletud, ja see kestab mõika sees vaid võitlusvoorude võrra, mis on võrdne selle soomuse väärtusega. Mõikast väljasaamine on äärmiselt raske, nõudes edukat Rasket Effort-viset. Mõikad regenereerivad samuti 1 elupunkti võitlusvooru kohta, kuni nad saavutavad täielikud elupunktid.
+**Võimed:** Limukas neelab sihtmärgi eduka rünnaku korral. Selle kahjustuse modifikaatorit rakendatakse neelatud tegelasele ja järgnevas voorus hakatakse tegelast seedima. Kui kasutatakse tabamiskohti, jaotub kahjustus kõigi tabamiskohtade vahel üheaegselt. See teeb 1D3–1 punkti kahjustust igas lahinguvoorus. Kaitsevarustus ei tööta, kui see pole täielikult suletud, ja see kestab limuka sees vaid lahinguvoore, mis on võrdne selle soomusväärtusega. Limukast väljapääsemine on äärmiselt keeruline, nõudes edukat Rasket Pingutusviset. Limukad regenereerivad ka 1 elupunkti igas lahinguvoorus, kuni nad jõuavad täielike elupunktideni.
 
 ### Robot, Hiiglaslik
 
-Hiiglaslik robot ehitati tippsalajase valitsusorganisatsiooni poolt, et kaitsta maailma kummaliste tulnukate ja hiiglaslike koletiste eest. Soomustatud ja varustatud hämmastava relvastusega, on hiiglaslik robot kõigi poolt iidoliseeritud, hoolimata sellest, et tekitab imelist varakahju iga kord, kui ta võitleb.
+Hiiglaslik robot ehitati tippsalajase valitsusorganisatsiooni poolt, et kaitsta maailma kummaliste tulnukaolendite ja hiiglaslike koletiste hämmastava hulga eest. Soomustatud ja varustatud mitmesuguste hämmastavate relvadega, on hiiglaslik robot kõikjal jumaldatud, hoolimata sellest, et ta põhjustab hindamatut varalist kahju, kui ta võitleb.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JÕU | VAS | SUU | INT | VÄG | OSA |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16D6+32 | 16D6+32 | 16D6+32 | 3D6 | 2D6 | 3D6 |
 | 88 | 88 | 88 | 10–11 | 7 | 10–11 |
 
-| Liikuda 24 (176 lendades) | Elupunktid 188 (+100 Extra Hit Point võimest) |
+| Liikumine 24 (176 lendamine) | Elupunktid 188 (+100 Extra elupunktide võimest) |
 | :---- | :---- |
-| **Kahjumodifikaator** +10D6 | **Soomus** 30-pt. soomustatud kere |
+| **Kahjustuse modifikaator** +10D6 | **Soomus** 30-pt. soomustatud kere |
 
 **Rünnakud:**
 
-* Energiakahur 100%, 10D6 (muljuv)
-* Raketikast 100%, 8D6+8 (läbistav + tagasilöök)
-* Energiamõõk 75%, 4D10+dm (veritsev)
-* Rusikas 75%, 1D6+dm (muljuv)
-* Kick 75%, 1D6+dm (muljuv, tagasilöök)
-* Stomp 75%, 2D6+dm (muljuv)
-* Maadlus 75%, eriline
+* Energiakahur 100%, 10D6 (purustamine)
+* Raketikonteiner 100%, 8D6+8 (läbistamine + tagasilöök)
+* Energiamõõk 75%, 4D10+dm (veritsemine)
+* Rusikas 75%, 1D6+dm (purustamine)
+* Löök 75%, 1D6+dm (purustamine, tagasilöök)
+* Tallamine 75%, 2D6+dm (purustamine)
+* Haare 75%, eriline
 
-**Võimed:** Hiiglaslikul robotil on erinevad komponendid, mis on kõige paremini esindatud supervõimetega, sealhulgas: Absorption (Elektriline) 20; Adaptation (kõrgsurve, vaakum, alati sisse lülitatud, ilma võimepunktide kuluta) 30; Armor (Kuumus, Kineetiline, Kiirgus) 30 igaüks; Energy Projection (Kineetiline) 10; Extra Energy +200; Extra Hit Points +100; Flight 30; Resistance (Kiirgus, Heli) 10 igaüks; Super Sense (Pimeduse nägemine, Infrapuna nägemine, Öönägemine, Super kuulmine, Super nägemine) 10 igaüks; Super Skill 15 (Artillery +60%, Brawl +40%, Fly +60%, Navigate +20%, Repair +20%, Spot +40%). Lisaks nendele võimetele on hiiglaslikul robotil raketikast ja hiiglaslik energiamõõk, mis on ehitatud tema struktuuri.
+**Võimed:** Hiiglaslikul robotil on mitmesuguseid komponente, mida on kõige parem esindada üli-võimetega, sealhulgas: Neelamine (Elekter) 20; Kohanemine (Kõrgrõhk, Vaakum, alati sees, pole võimepunktide kulu) 30; Soomus (Kuumus, Kineetiline, Kiirgus) 30 igaüks; Energia projitseerimine (Kineetiline) 10; Lisaenergia +200; Lisaelupunktid +100; Lendamine 30; Vastupidavus (Kiirgus, Heli) 10 igaüks; Ülitaju (Pimedusnägemine, Infrapunanägemine, Öönägemine, Ülikuulmine, Ülinägemine) 10 igaüks; Ülioskus 15 (Artilleeria +60%, Rusikavõitlus +40%, Lendamine +60%, Navigeerimine +20%, Remont +20%, Märka +40%). Lisaks nendele võimetele on hiiglaslikul robotil raketikonteiner ja hiiglaslik energiamõõk, mis on ehitatud tema struktuuri.
 
-**Oskused:** Artillery 75%, Dodge 40%, Fine Manipulation 35%, Fly (sisemised raketid) 90%, Jump 55%, Knowledge (Kaiju) 50%, Language (Inglise) 30%, Language (Jaapani) 75%, Listen 65%, Martial Arts 40%, Navigate 50%, Repair (Mehaaniline) 55%, Spot 65%, Throw 55%
+**Oskused:** Artilleeria 75%, põiklemine 40%, peenmanipulatsioon 35%, lendamine (sisemised raketid) 90%, hüppamine 55%, teadmised (Kaiju) 50%, keel (inglise) 30%, keel (jaapani) 75%, kuulamine 65%, võitluskunstid 40%, navigeerimine 50%, remont (mehaaniline) 55%, märka 65%, viskamine 55%
 
 ### Robot, Tapja
 
-Tapjaroboteid on palju erinevaid päritolu. Need võivad olla ehitatud sõjaväe jaoks ja pöörased, kodurobotid muutunud mõrvarlikeks või palgamõrvarid, mis on saadetud tulevikust või kaugelt kosmosest. Sõltumata põhjusest on tapjarobot halastamatu ja leidlik, tavaliselt suunatud ühe isiku, kogu inimrühma või võib-olla kellegi konkreetse rassi (näiteks inimeste) hävitamisele.
+Tapjarobotitel on palju erinevaid päritolusid. Need võivad olla ehitatud sõjaväe jaoks ja hulluks läinud, kodurobotid, kellest said mõrvarid, või palgamõrvarid, kes on saadetud mingist tulevikust või kaugetest kosmose avarustest. Sõltumata põhjusest on tapjarobot halastamatu ja leidlik, tavaliselt suunatud ühe inimese, terve inimrühma või võib-olla kellegi konkreetse rassi (näiteks inimeste) hävitamisele.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+24 | 4D6+12 | 2D6+9 | 2D6+6 | 2D6 | 3D6 | 3D6 |
 | 38 | 26 | 16 | 13 | 7 | 10–11 | 10–11 |
 
-| Liikuda 10 | Elupunktid 21 |
+| Liikumine 10 | Elupunktid 21 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** 20-pt. sisemine plaatsoomus |
+| **Kahjustuse modifikaator** +2D6 | **Soomus** 20-pt. sisemine plaat |
 
 **Rünnakud:**
 
-* Plasma-vintpüss 80%, 2D10+4 (läbistav)
-* Rünnak-vintpüss 80%, 2D6+2 (läbistav)
-* Automaat-jahipüss 80%, 4D6/2D6/1D6 (läbistav)
-* Raske püstol 80%, 1D10+2 (läbistav)
-* Rusikas 80%, 1D3+dm (muljuv)
+* Plasmapüss 80%, 2D10+4 (läbistamine)
+* Rünnakupüss 80%, 2D6+2 (läbistamine)
+* Automaatne haavlipüss 80%, 4D6/2D6/1D6 (läbistamine)
+* Raskepüstol 80%, 1D10+2 (läbistamine)
+* Rusikas 80%, 1D3+dm (purustamine)
 
-Sõltuvalt sellest, kus ja millal sellega kohtutakse, on tapjarobot kas varustatud täiustatud relvastusega või maailmaga sobivate relvadega.
+Sõltuvalt sellest, kus ja millal temaga kohtutakse, on tapjarobot kas varustatud täiustatud relvastusega või seadistusele vastavate relvadega.
 
-**Oskused:** Artillery 80%, Brawl 80%, Climb 50%, Demolition 50%, Dodge 40%, Drive (Mootorratas) 75%, Drive (Veoauto) 60%, Grapple 80%, Jump 50%, Knowledge (Tulevikuajalugu) 65%, Knowledge (Piirkond: Kohalik) 50%, Language (Binaarne) 100%, Language (Kohalik) 60%, Listen 65%, Pilot (Helikopter) 50%, Repair (Elektroonika) 75%, Repair (Mehaaniline) 95%, Spot 75%, Strategy 40%, Throw 55%.
+**Oskused:** Artilleeria 80%, Rusikavõitlus 80%, ronimine 50%, lammutamine 50%, põiklemine 40%, sõitmine (mootorratas) 75%, sõitmine (veoauto) 60%, haare 80%, hüppamine 50%, teadmised (tuleviku ajalugu) 65%, teadmised (regioon: kohalik) 50%, keel (binaarne) 100%, keel (kohalik) 60%, kuulamine 65%, piloteerimine (helikopter) 50%, remont (elektroonika) 75%, remont (mehaaniline) 95%, märka 75%, strateegia 40%, viskamine 55%.
 
-**Võimed:** Tapjarobotil on tavaliselt mõned supervõimed, nagu Super Sense (Infrapuna nägemine, Super kuulmine, Super nägemine, Ultraheli kuulmine) tasemel 5 igaüks. Ta saab neid võimeid kasutada ilma võimepunktide kuluta. Mõned tapjarobotid saavad kuju muuta, venitada või on varustatud integreeritud relvastusega, nagu küünised, terad, laser-silmad või sisemised tulirelvad.
+**Võimed:** Tapjarobotil on tavaliselt mõned üli-võimed, nagu Ülitaju (Infrapunanägemine, Ülikuulmine, Ülinägemine, Ultrahelikuulmine) 5 punktiga. Ta saab neid võimeid kasutada ilma võimepunktide kuluta. Mõned tapjarobotid saavad oma kuju muuta, venitada või on relvastatud terviklike relvadega, nagu küünised, terad, laserisilmad või sisemised tulirelvad.
 
-### Robot, Utiliit
+### Robot, Kasutus
 
-Utiliitrobot on inimkonna usaldusväärne teenija, kes on projekteeritud inimesi abistama. Utiliitrobotid on traditsiooniliselt programmeeritud olema alandlikud ja sõbralikud ning ennekõike vältima tegevusi, mis võivad kahjustada elusolendit. Mõnel utiliitrobotil on sisemised tööriistad, kui nad teevad mehaanilist või elektrilist hooldust ja remonti, või võivad nad olla lihtsad inimkonna ligilähedased versioonid, mis on mõeldud sellisteks rollideks nagu diplomaatia, tõlkimine ja isiklik abi.
+Inimkonna usaldusväärne teener, kasutusrobot on loodud inimesi abistama. Kasutusrobotid on traditsiooniliselt programmeeritud olema alandlikud ja sõbralikud ning ennekõike vältima mis tahes toiminguid, mis võivad viia elusolendi kahjustamiseni. Mõnel kasutusrobotil on sisemised tööriistad, mis on ehitatud nende sisse, kui nad teevad mehaanilist või elektrilist hooldust ja remonti, või võivad nad olla lihtsad inimkonna ligikaudsed koopiad, mis on mõeldud rollideks nagu diplomaatia, tõlkimine ja isiklik abi.
 
-| STR | SIZ | INT | DEX |
+| JÕU | SUU | INT | OSA |
 | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
 | 13 | 10–11 | 13 | 10–11 |
 
-| Liikuda 8 | Elupunktid 10–11 |
+| Liikumine 8 | Elupunktid 10–11 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 4-pt. plaadistus |
+| **Kahjustuse modifikaator** Puudub | **Soomus** 4-pt. plaat |
 
 **Rünnakud:**
 
-* Brawl 30%, 1D3+dm (muljuv)
-* Tööriistad 50%, 1D6 (tuli või elektriline, vt allpool)
+* Rusikavõitlus 30%, 1D3+dm (purustamine)
+* Elektritööriistad 50%, 1D6 (tuli või elekter, vaata allpool)
 
-Enamikul utiliitrobotitel on ranged programmeerimise injunctionid tundlike liikide kahjustamise vastu. Mõned on aga selle suhtes vähem ranged kui teised ja võivad tegutseda enesekaitseks. Tehnilistel robotitel on mõned sisemised tööriistad, nagu keevitajad või elektrilahendajad, mida saab kasutada kahju tekitamiseks.
+Enamikul kasutusrobotitel on ranged programmeerimispiirangud tundlike liikide kahjustamise kohta. Siiski on mõned vähem ranged kui teised ja võivad tegutseda enesekaitses. Tehnilistel robotitel on mõned sisemised tööriistad, nagu keevitajad või elektrilahendajad, mida saab kahjustuse tekitamiseks kasutada.
 
-**Oskused (Diplomaatia pakett):** Appraise 85%, Bargain 55%, Etiquette 95%, Fast Talk 75%, Heavy Machine (Binaarne laadur) 50%, Hide 25%, Insight 35%, Knowledge (Tulnukate kultuurid) 75%, Knowledge (Lingvistika) 100%, Language (kõik teadaolevad) 95%, Listen 55%, Persuade 45%, Teach 60%.
+**Oskused (Diplomaatia pakett):** Hinda 85%, tingimine 55%, etikett 95%, kiire jutt 75%, raskemasin (binaarne tõstuk) 50%, peitmine 25%, taipamine 35%, teadmised (tulnukate kultuurid) 75%, teadmised (lingvistika) 100%, keel (kõik tuntud) 95%, kuulamine 55%, veenmine 45%, õpetamine 60%.
 
-**Oskused (Tehniline pakett):** Fine Manipulation 95%, Heavy Machine (Kosmosesadama süsteemid) 95%, Hide 35%, Language (Galaktiline ühine, ei oska rääkida) 50%, Language (Masin) 100%, Listen 50%, Pilot (Tähevõitleja) 50%, Repair (Elektrooniline) 95%, Repair (Mehaaniline) 95%, Repair (Kvant) 75%, Spot 50%, Technical Skill (Arvuti kasutamine) 100%.
+**Oskused (Tehniline pakett):** Peenmanipulatsioon 95%, raskemasin (kosmosesadama süsteemid) 95%, peitmine 35%, keel (galaktiline üldine, ei saa rääkida) 50%, keel (masin) 100%, kuulamine 50%, piloteerimine (tähevõitleja) 50%, remont (elektrooniline) 95%, remont (mehaaniline) 95%, remont (kvant) 75%, märka 50%, tehniline oskus (arvuti kasutamine) 100%.
 
-## Mitte-mängijategelaste digest
+## Mitte-mängijate tegelaste kokkuvõte
 
-Neid näidismitte-mängijategelasi saab kasutada koheselt või vastavalt vajadusele lihtsalt kohandada, ümber kujundada või isegi kasutada kiirete mängijategelastena. Nende lai valik võimalikke relvi ei tähenda, et nad alati raskelt relvastatud käivad, vaid et nad on oskuslikud enamas kui ühes relvas.
+Neid mitte-mängijate tegelaste näidiseid saab kasutada koheselt või vastavalt vajadusele lihtsalt kohandada, ümber kujundada või isegi kasutada kiirete mängijate tegelastena. Nende potentsiaalsete relvade lai valik ei tähenda, et nad alati raskelt relvastatud on, vaid seda, et nad on oskuslikud enam kui ühes relvas.
 
-### Koopa-elanik
+### Koopaelanik
 
-Iidne inimene ammu kadunud ajalooperioodist, koopa-elanik on täielikult keskendunud ellujäämisele enda, pere ja hõimu jaoks. Vaevalt võimeline tööriistu kasutama, pole koopa-elanik veel edenenud kaugemale tsivilisatsiooni küttimise-kogumise etapist ja elab kas turvalisuse nimel koobastes või rändab aastaaegade vahetudes, sõdides teiste hõimudega ressursside või isegi ellujäämise nimel. Koopa-elanikud austavad sageli ilmastiku ja oma saagi vaime.
+Ajaloo ammu kadunud ajastust pärit primitiivne inimene, koopaelanik on täielikult keskendunud ellujäämisele enda, pere ja hõimu jaoks. Vaevalt võimeline tööriistu kasutama, pole koopaelanik veel tsivilisatsiooni küttide-korilaste etapist kaugemale arenenud ja elab kas turvalisuse huvides koobastes või rändab aastaaegade vaheldudes, sõdides teiste hõimudega ressursside või isegi ellujäämise nimel. Koopaelanikud austavad sageli ilmastiku ja oma saagi vaime.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 16 | 10 | 8 | 12 | 15 | 9 |
 
-| Liikuda 10 | Elupunktid 13 |
+| Liikumine 10 | Elupunktid 13 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 1-pt. nahk |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 1-pt. nahk |
 
 **Rünnakud:**
 
-* Lühioda 50%, 1D6+1+dm (läbistav)
-* Lühioda (visatud) 50%, 1D6+1+½dm (läbistav)
-* Kerge klubi 50%, 1D6+dm (muljuv)
-* Kivi (visatud) 50%, 1D2+½dm (muljuv)
-* Maadlus 50%, eriline
+* Lühike oda 50%, 1D6+1+dm (läbistamine)
+* Lühike oda (visatud) 50%, 1D6+1+½dm (läbistamine)
+* Kerge nui 50%, 1D6+dm (purustamine)
+* Kivi (visatud) 50%, 1D2+½dm (purustamine)
+* Haare 50%, eriline
 
-**Oskused:** Brawl 50%, Climb 60%, Craft (Puidust nikerdamine) 25%, Dodge 35%, Hide 35%, Jump 50%, Language (Oma) 40%, Listen 55%, Sense 50%, Spot 65%, Stealth 30%, Throw 50%, Track 40%
+**Oskused:** Rusikavõitlus 50%, ronimine 60%, käsitöö (puidu nikerdamine) 25%, põiklemine 35%, peitmine 35%, hüppamine 50%, keel (oma) 40%, kuulamine 55%, taju 50%, märka 65%, vargsi 30%, viskamine 50%, jälitamine 40%
 
-**Võimed:** Koopa-elanikel on harva mingeid võimeid, kuigi mõnel primitiivsel šamaanil võib olla mõni maagia loits või psüühiline võime, kui nende POW on piisavalt kõrge.
+**Võimed:** Koopaelanikel on harva võimeid, kuigi mõnel primitiivsel šamaanil võib olla mõni maagiline loits või psüühiline võime, kui nende VÄG on piisavalt kõrge.
 
-### Kriminaalne suurmeister
+### Kriminaalne mastermind
 
-Kriminaalne suurmeister on gängijuht või organiseeritud kuritegeliku perekonna kõrgelt paigutatud liige, kes on tõenäoliselt töötanud end üles kuritegeliku hierarhia kaudu. Nad on oskuslikud juhtima suurt rühma üksikuid kurjategijaid organiseeritud kuritegevuse igapäevastes tegevustes. Halastamatu, sihikindel ja kaval kriminaalne suurmeister on leidlik ja ohtlik vaenlane. Kuigi nad pole füüsiliselt muljetavaldavad, kompenseerivad nad seda ambitsiooniga, hoolimatu inimelu põlgusega ja oskuslike ning kurjade käsilaste armeega.
+Kriminaalne mastermind on jõugu juht või organiseeritud kuritegevuse perekonna kõrgemal positsioonil olev liige, kes on tõenäoliselt läbi astmete üles töötanud. Nad on oskuslikud suure hulga individuaalsete kurjategijate juhtimises organiseeritud kuritegevuse igapäevastes tegevustes. Skrupulideta, halastamatu, sihikindel ja kaval, kriminaalne mastermind on leidlik ja ohtlik vaenlane. Kuigi nad pole füüsiliselt muljetavaldavad, teevad nad seda tasa ambitsioonikuse, inimelu külma eiramise ja oskuslike ning tigedate käsilaste armeega.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 11 | 12 | 12 | 12 | 17 | 16 | 14 |
 
-| Liikuda 10 | Elupunktid 12 |
+| Liikumine 10 | Elupunktid 12 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub |
+| **Kahjustuse modifikaator** Puudub | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Keskmine püstol 75%, 1D8 (läbistav)
-* Sirge žiletitera 65%, 1D4+dm (veritsev)
-* Kuulipilduja 55%, 2D6+4 (läbistav)
+* Keskmine püstol 75%, 1D8 (läbistamine)
+* Habemenuuga 65%, 1D4+dm (veritsemine)
+* Kuulipilduja 55%, 2D6+4 (läbistamine)
 
-**Oskused:** Appraise 55%, Bargain 65%, Command 65%, Craft (Kokandus) 55%, Craft (Numbrimärgid) 35%, Demolition 35%, Disguise 25%, Dodge 50%, Drive (Põgenemisauto) 45%, Etiquette 45%, Fast Talk 55%, Gaming 60%, Hide 35%, Insight 75%, Knowledge (Seadus) 55%, Language (Kohalik) 75%, Language (Oma) 75%, Listen 55%, Medicine (Farmakoloogia) 35%, Perform (Laulmine) 50%, Persuade 75%, Sense 40%, Sleight of Hand 35%, Spot 45%, Status 55%, Stealth 55%, Strategy 60%, Throw 45%.
+**Oskused:** Hinda 55%, tingimine 65%, käskimine 65%, käsitöö (toiduvalmistamine) 55%, käsitöö (numbrimärgid) 35%, lammutamine 35%, maskeerimine 25%, põiklemine 50%, sõitmine (põgenemisauto) 45%, etikett 45%, kiire jutt 55%, mängimine 60%, peitmine 35%, taipamine 75%, teadmised (seadus) 55%, keel (kohalik) 75%, keel (oma) 75%, kuulamine 55%, meditsiin (farmakoloogia) 35%, esinemine (laulmine) 50%, veenmine 75%, taju 40%, osavus 35%, märka 45%, staatus 55%, vargsi 55%, strateegia 60%, viskamine 45%.
 
-**Võimed:** Kriminaalsetel suurmeistritel on harva võimeid ja nad on tavaliselt nende vaenlased, kellel on supervõimed.
+**Võimed:** Kriminaalsetel mastermindidel on harva võimeid ja nad on tavaliselt nende vaenlased, kellel on üli-võimed.
 
 ### Küborg
 
-Küborg on inimene, keda on täiendatud tehnoloogiliste elementidega, kas parendusvahendina või asendusena õnnetuse tõttu kaotatud kehaosadele. Pooleldi liha ja pooleldi masin, on küborg õppinud seda uut seisundit aktsepteerima, vaatamata võõrandumisele, mida see tekitab. Nad võivad olla välimuselt täiesti inimesed või olla ilmne liha ja metalli segu.
+Küborg on tehnoloogiliste elementidega täiendatud inimene, kas parendamise vahendina või õnnetuse läbi kaotatud kehaosade asendamiseks. Pooleldi lihast ja pooleldi masinast koosnev küborg on hakanud seda äsja leitud seisundit aktsepteerima, hoolimata sellest, mida see võõrandumine tekitab. Nad võivad välimuselt olla täiesti inimlikud või olla ilmselge liha ja metalli amalgam.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 33 | 24 | 14 | 14 | 11 | 22 | 14 |
 
-| Liikuda 10 | Elupunktid 19 |
+| Liikumine 10 | Elupunktid 19 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +2D6 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Brawl 90%, 1D3+10+dm (muljuv)
+* Rusikavõitlus 90%, 1D3+10+dm (purustamine)
 
-**Oskused:** Climb 40%, Dodge 65%, Drive (Auto) 55%, Hide 40%, Jump 75%, Language (Oma) 85%, Listen 75%, Pilot (Eksperimentaalsed reaktiivlennukid) 75%, Repair (Elektroonika) 55%, Science (Küberneetika) 40%, Spot 85%, Stealth 40%, Throw 65%.
+**Oskused:** Ronimine 40%, põiklemine 65%, sõitmine (auto) 55%, peitmine 40%, hüppamine 75%, keel (oma) 85%, kuulamine 75%, piloteerimine (eksperimentaalne reaktiivlennuk) 75%, remont (elektrooniline) 55%, teadus (küberneetika) 40%, märka 85%, vargsi 40%, viskamine 65%.
 
-**Võimed:** Küborgi täiendused on kõige paremini esindatud supervõimetega, näiteks järgmistega:
+**Võimed:** Küborgi täiendusi on kõige parem esindada üli-võimetega, nagu näiteks järgmised:
 
-* **Kaitsesüsteemid:** Armor 5 (elektrilise energia vastu) Sisemine aku: Extra Energy 5 (+50 võimepunkti)
-* **Füüsilised täiustused**: Leap 5 (+10 meetrit), Super Characteristics 40 (+20 STR, +10 CON, +10 DEX), Super Speed 2 (1 lisaliikumine, 1 lisategevus)
-* **Sensoorsed täiendused:** Super Sense (Super kuulmine 10, Super nägemine 10, Infrapuna nägemine 5, Ultraheli kuulmine 5)
-* **Taktikalised modifikatsioonid:** Defense 20 (–10% tabamiseks), Super Skill 8 (Jump +40%, Listen +40%, Spot +60%, Throw +25%), Unarmed Combat 5 (+10 kahju, –25% ühe sihtmärgi tabamisvõimalusele, +25% Brawl-oskusele)
+* **Kaitse-süsteemid:** Soomus 5 (elektrienergia vastu), Sisemine aku: Lisaenergia 5 (+50 võimepunkti)
+* **Füüsilised parendused:** Hüpe 5 (+10 meetrit), Üliomadused 40 (+20 JÕU, +10 VAS, +10 OSA), Ülikiirus 2 (1 lisaliikumine, 1 lisatoiming)
+* **Sensoorsed täiendused:** Ülitaju (Ülikuulmine 10, Ülinägemine 10, Infrapunanägemine 5, Ultrahelikuulmine 5)
+* **Taktikalised modifikatsioonid:** Kaitse 20 (–10% tabamuse saamiseks), Ülioskus 8 (Hüpe +40%, Kuulamine +40%, Märka +60%, Viskamine +25%), Relvatu võitlus 5 (+10 kahjustust, –25% ühe sihtmärgi võimalusele tabada, +25% Rusikavõitlus oskusele)
 
-**Nõrkused:** Küborgil on järgmised nõrkused, et tasakaalustada seda vägevat võimet:
+**Nõrkused:** Küborgil on järgmised nõrkused, et seda suurepärast võimet tasakaalustada:
 
-* Küborgi identiteet muudab normaalse elu võimatuks.
-* Märkimisväärne seotus valitsusasutusega, kes vastutab küborgi modifikatsioonide eest.
-* Küborgi komponendid saavad 1D6 lisakahju magnetiliste rünnakute eest.
+* Küborgi identiteet muudab tavalise elu võimatuks.
+* Oluline seotus valitsusasutusega, mis vastutab küborgi modifikatsioonide eest.
+* Küborgi komponendid võtavad 1D6 lisakahjustust magnetpõhistest rünnakutest.
 
-### Pooljumal
+### Demijumal
 
-Jumala ja sureliku järglane, pooljumal seikleb mööda maailma, võideldes üleloomulike ohtude vastu ja aidates tavalisi inimesi võitluses jumalate türannia vastu. Kahe maailma, jumaliku ja sureliku vahele jäänud pooljumalal on vägev saatus, kuid pole veel otsustanud, kas see saatus on aidata inimkonnal jumalad kukutada või juhtida surelikke suurema kummardamise ja feodaalsuse poole taevaste ees. Pooljumal tõmbab sageli oma poolele vähemaid kangelasi ja on hädade keskpunkt. Surematu, pooljumalaga võib kohtuda mis tahes ajalooperioodil.
+Jumala ja sureliku järglane, demijumal seikleb mööda maailma, võideldes üleloomulike ohtude vastu ja aidates tavalisi inimesi võitluses jumalate türannia vastu. Kahe maailma, jumaliku ja sureliku vahele jäänud demijumalal on vägev saatus, kuid ta pole veel otsustanud, kas see saatus on aidata inimkonnal jumalaid kukutada või juhtida surelikke suuremale kummardamisele ja truudusele taevastele. Demijumal meelitab sageli oma eesmärgi juurde vähemtähtsaid kangelasi ja on hädade keskmeks. Surematu demijumalaga võib kohata mis tahes ajaloo punktis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 35 | 34 | 15 | 13 | 18 | 15 | 17 |
 
-| Liikuda 10 | Elupunktid 25 |
+| Liikumine 10 | Elupunktid 25 |
 | :---- | :---- |
-| **Kahjumodifikaator** +2D6 | **Soomus** 20-pt. Soomus (Kineetiline) |
+| **Kahjustuse modifikaator** +2D6 | **Soomus** 20-pt. Soomus (Kineetiline) |
 
 **Rünnakud:**
 
-* Brawl 110%, 1D3+dm (muljuv)
-* Maadlus 110%, eriline
-* Lühimõõk 100%, 1D6+1+dm (veritsev)
-* Ümmargune kilp 80%, 1D3+dm (tagasilöök)
+* Rusikavõitlus 110%, 1D3+dm (purustamine)
+* Haare 110%, eriline
+* Lühike mõõk 100%, 1D6+1+dm (veritsemine)
+* Ümar kilp 80%, 1D3+dm (tagasilöök)
 
-**Oskused:** Brawl 110%, Climb 80%, Command 45%, Dodge 65%, Drive (Kaarik) 65%, Etiquette 25%, Grapple 110%, Insight 55%, Jump 75%, Knowledge (Mütoloogia) 85%, Language (Iidne oma) 100%, Language (Kohalik) 90%, Listen 65%, Navigate 60%, Perform (Harf) 50%, Persuade 45%, Ride (Hobune) 45%, Sense 70%, Spot 60%, Status 45%, Stealth 50%, Strategy 60%, Swim 75%, Throw 85%
+**Oskused:** Rusikavõitlus 110%, ronimine 80%, käskimine 45%, põiklemine 65%, sõitmine (kaarik) 65%, etikett 25%, haare 110%, taipamine 55%, hüppamine 75%, teadmised (mütoloogia) 85%, keel (iidne oma) 100%, keel (kohalik) 90%, kuulamine 65%, navigeerimine 60%, esinemine (harf) 50%, veenmine 45%, ratsutamine (hobune) 45%, taju 70%, märka 60%, staatus 45%, vargsi 50%, strateegia 60%, ujumine 75%, viskamine 85%
 
-**Võimed:** Pooljumalal on jumaliku päritolu tõttu mitmesuguseid võimeid, näiteks järgmised supervõimed:
+**Võimed:** Demijumalal on mitmesuguseid võimeid jumalikust päritolust, näiteks järgmised üli-võimed:
 
-* Adaptation (Kiirgus, Veealune, Vaakum) 5 igaüks; Armor (Kineetiline) 20; Extra Energy 20 (+200 võimepunkti); Extra Hit Points 30 (+30 HP); Leap 10 (+20 meetrit hüppekaugusele); Regeneration 3 (tervendab 3 HP võitlusvooru kohta); Sidekick (vt allpool); Super Characteristics 50 (STR +20, CON +20, POW +5, CHA +5); Super Skills 20 (Brawl +40%, Grapple +40%, Knowledge [Mütoloogia] +40%, Sense +40%, Shield +80%, Strategy +40%, Sword +80%, Throw +40%), Unarmed Combat 5 (+10 brawl kahju, –25% ühele ründaja oskusele, Brawl/Grapple oskus +25%).
+* Kohanemine (Kiirgus, Veealune, Vaakum) 5 igaüks; Soomus (Kineetiline) 20; Lisaenergia 20 (+200 võimepunkti); Lisaelupunktid 30 (+30 HP); Hüpe 10 (+20 meetrit hüppe kaugusele); Regeneratsioon 3 (tervendab 3 HP igas lahinguvoorus); Käsilane (vaata allpool); Üliomadused 50 (JÕU +20, VAS +20, VÄG +5, KAR +5); Ülioskus 20 (Rusikavõitlus +40%, Haare +40%, Teadmised [mütoloogia] +40%, Taju +40%, Kilp +80%, Strateegia +40%, Mõõk +80%, Viskamine +40%), Relvatu võitlus 5 (+10 rusikavõitluse kahjustust, –25% ühe ründaja oskusele, Rusikavõitlus/Haare oskus +25%).
 
-**Nõrkused:** Pooljumala iseloomu nõrkused on:
+**Nõrkused:** Demijumala iseloomu puudused on:
 
-* Inimvõimetus elada normaalset elu.
+* Võimetus elada tavalist elu.
 * Jumalate vaenlaste poolt jahitud.
-* Konkureerivate jumalate poolt jahitud.
-* Alati kutsutud surelike poolt abi saamiseks.
+* Konkureerivate jumalate endi poolt jahitud.
+* Surelikud kutsuvad alati appi.
 
-Pooljumalatel on sageli surelik kaaslane (kasutades Sidekick supervõimet või normaalset mitte-mängijategelast), keegi, kes on maailmaga kultuuriliselt tuttav ja tuletab neile meelde sureliku eksistentsi alandlikkust. Sõltuvalt maailmast võiks pooljumal kasutada maagilisi loitse või nõidust. Nad ei pruugi isegi olla jumalik olend ja võiksid olla mutant.
+Demijumalatel on sageli surelik käsilane (kasutades käsilase üli-võimet või normaalset mitte-mängija tegelast), keegi, kes on maailmaga kultuuriliselt tuttav ja tuletab neile meelde sureliku eksistentsi alandlikkust. Sõltuvalt seadest võib demijumal kasutada maagilisi loitse või nõidust. Nad ei pruugi isegi olla jumalik olend ja võivad olla lihtsalt mutant.
 
 ### Detektiiv
 
-Olgu tegemist politseidetektiivi, kohtuekspertiisi eksperdi, erauurija või kriminoloogiga, on detektiiv koolitatud uurimises, vaatluses, jälgimises, kahtlusaluste ja tunnistajate ülekuulamises, füüsiliste tõendite uurimises ja deduktsioonis. Mõned detektiivid elavad sündmusterohket elu, mis on täis tagaajamisi, kauneid naisi ja kokkupõrkeid nii seaduse kui ka kurjategijatega. Teised töötavad kõrgtehnoloogilistes laborites, tolmustes raamatukogudes ja elutubades või isegi arvutiterminali ees, otsides avalikke ja eraandmeid.
+Olgu tegemist politseidetektiivi, kohtuekspertiisi eksperdi, erauurija või kriminoloogiga, detektiiv on koolitatud uurimises, vaatluses, jälgimises, kahtlusaluste ja tunnistajate ülekuulamises, füüsiliste tõendite uurimises ja deduktsioonis. Mõned detektiivid elavad tegevusrohket elu, mis on täis tagaajamisi, kauneid naisi ning kokkupuuteid nii seaduse kui ka kurjategijatega. Teised töötavad kõrgtehnoloogilistes laborites, tolmustes raamatukogudes ja istumistubades või isegi arvutiterminali ees, otsides avalikke ja eraandmeid.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 13 | 12 | 14 | 17 | 14 | 14 | 15 |
 
-| Liikuda 10 | Elupunktid 13 |
+| Liikumine 10 | Elupunktid 13 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Keskmine püstol 75%, 1D8 (läbistav)
-* Rusikas 65%, 1D3+dm (muljuv)
-* Maadlus 50%, eriline
+* Keskmine püstol 75%, 1D8 (läbistamine)
+* Rusikas 65%, 1D3+dm (purustamine)
+* Haare 50%, eriline
 
-**Oskused:** Appraise 35%, Bargain 35%, Climb 55%, Disguise 35%, Dodge 40%, Drive (Sedaan) 55%, Etiquette 25%, Fast Talk 65%, Hide 40%, Insight 55%, Knowledge (Seadus) 65%, Knowledge (Piirkond: Kohalik) 55%, Knowledge (Streetwise) 50%, Language (Kohalik) 75%, Listen 45%, Persuade 45%, Research 75%, Sense 50%, Sleight of Hand 25%, Spot 65%, Stealth 50%, Track 35%
+**Oskused:** Hinda 35%, tingimine 35%, ronimine 55%, maskeerimine 35%, põiklemine 40%, sõitmine (sedaan) 55%, etikett 25%, kiire jutt 65%, peitmine 40%, taipamine 55%, teadmised (seadus) 65%, teadmised (regioon: kohalik) 55%, teadmised (tänavatarkus) 50%, keel (kohalik) 75%, kuulamine 45%, veenmine 45%, uurimine 75%, taju 50%, osavus 25%, märka 65%, vargsi 50%, jälitamine 35%
 
 **Võimed:** Detektiividel on harva võimeid, kuigi mõned vähesed mustkunstnikud või nõiad saavad detektiivideks.
 
-### Galaktiline rüütel
+### Galaktiline Rüütel
 
-See kosmoses rändav paladiin järgib müstilist traditsiooni, mis pakub suuri ja salapäraseid võimeid. Rahu ja õigluse kaitsjana kogu galaktikas on galaktiline rüütel andnud vande järgida au koodeksit ja teenib peaaegu kui galaktikatevaheline ranger. Enamik galaktikast ei mõista kummalist jõudu, mida galaktiline rüütel teenib, kuigi neid austatakse või kardetakse, kuhu iganes nad lähevad. Galaktiline rüütel väldib traditsioonilist relvastust ja kasutab selle asemel vana, kuid keerukat käsitöörelva surmavalt tõhusalt.
+See kosmose paladiin järgib müstilist traditsiooni, mis pakub suurepäraseid ja salapäraseid võimeid. Rahu ja õigluse kaitsjana kogu galaktikas on galaktiline rüütel vandunud austuse ja teenib peaaegu kui intergalaktiline korravalvur. Enamik galaktikast ei mõista kummalist jõudu, mida galaktiline rüütel teenib, kuigi neid austatakse või kardetakse kõikjal, kuhu nad lähevad. Galaktiline rüütel väldib traditsioonilist relvastust ja kasutab selle asemel vana, kuid keerukat käsitulirelva surmava tõhususega.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 15 | 14 | 15 | 21 | 17 | 15 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Energiamõõk 150%, 2D10+dm (veritsev)
-* Brawl 80%, 1D3+dm (muljuv)
+* Energiamõõk 150%, 2D10+dm (veritsemine)
+* Rusikavõitlus 80%, 1D3+dm (purustamine)
 
-**Oskused:** Climb 75%, Command 50%, Dodge 75%, Hide 45%, Insight 75%, Jump 65%, Knowledge (Piirkond: Galaktika) 35%, Language (Tulnukas) 70%, Language (Oma) 105%, Listen 65%, Martial Arts 80%, Navigate 50%, Persuade 35%, Pilot (Tähevõitleja) 65%, Repair (Mehaaniline) 55%, Sense 70%, Spot 65%, Stealth 70%, Strategy 50%, Throw 60%.
+**Oskused:** Ronimine 75%, käskimine 50%, põiklemine 75%, peitmine 45%, taipamine 75%, hüppamine 65%, teadmised (regioon: Galaktika) 35%, keel (tulnukas) 70%, keel (oma) 105%, kuulamine 65%, võitluskunstid 80%, navigeerimine 50%, veenmine 35%, piloteerimine (tähevõitleja) 65%, remont (mehaaniline) 55%, taju 70%, märka 65%, vargsi 70%, strateegia 50%, viskamine 60%.
 
-**Võimed:** Galaktiline rüütel on oskuslik müstilises traditsioonis, mis pakub mitmeid psüühilisi võimeid, nende hulgas Danger Sense 60%, Empathy 55%, Mind Control 35%, Precognition 40%, Telekinesis 45% ja Telepathy 50%.
+**Võimed:** Galaktiline rüütel on oskuslik müstilises traditsioonis, mis pakub mitmeid psüühilisi võimeid, nende hulgas Ohutaju 60%, Empaatia 55%, Mõttekontroll 35%, Eelaimdus 40%, Telekinees 45% ja Telepaatia 50%.
 
-### Püstolikangelane (Gunslinger)
+### Püstolikangelane
 
-Püstolikangelane elab inimesi tappes, spetsialiseerudes kiirele ja surmavaile võitlusele käsirelvaga. Enamikul juhtudel alustas püstolikangelane elu millegi muuna, kuid sattus vägivallatellimustele läbi tragöödia või tapmise iha. Püstolikangelase maine on kaugelt tema kõige võimsam relv – paljud panevad relvad pigem maha, kui seisavad silmitsi kindla surmaga. See annab püstolikangelasele stabiilset tööd, aidates neid, kes vajavad abi, olgu seaduse või kuritegevuse poolel. Mõnikord on maine kahe teraga mõõk, meelitades neid, kes tahavad end kuulsaks teha.
+Püstolikangelane teenib elatist inimesi tappes, spetsialiseerudes kiirele ja surmava võitlusele käsirelvaga. Enamikul juhtudel alustas püstolikangelane elu millegi muuna, kuid tragöödia või tapmisihu tõttu sattus vägivallatell. Püstolikangelase maine on kaugelt tema kõige potentsiaalsem relv – paljud panevad relvad käest, selle asemel et silmitsi seista kindla surmaga. See annab püstolikangelasele pidevat tööd, aidates neid, kes vajavad abi, olgu seaduse või kuritegevuse poolel. Mõnikord on maine kahe teraga mõõk, meelitades ligi neid, kes tahavad end kuulsaks teha.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 14 | 14 | 15 | 18 | 13 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 1-pt. raske riietus |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 1-pt. raske riietus |
 
 **Rünnakud:**
 
-* Keskmine revolver 95%, 1D8 (läbistav)
-* Sportvintpüss 85%, 2D6 (läbistav)
-* Kaheraudne jahipüss 75%, 4D6/2D6/1D6 (läbistav)
-* Nuga 75%, 1D4+2+dm (läbistav)
-* Rusikas 75%, 1D3+dm (muljuv)
+* Keskmine revolver 95%, 1D8 (läbistamine)
+* Spordipüss 85%, 2D6 (läbistamine)
+* Kaheraudne haavlipüss 75%, 4D6/2D6/1D6 (läbistamine)
+* Nuga 75%, 1D4+2+dm (läbistamine)
+* Rusikas 75%, 1D3+dm (purustamine)
 
-**Oskused:** Brawl 75%, Climb 60%, Demolition 30%, Dodge 60%, First Aid 40%, Gaming 65%, Grapple 50%, Insight 65%, Knowledge (Piirkond: Kohalik) 65%, Language (Oma) 70%, Listen 65%, Ride (Hobune) 75%, Sense 50%, Sleight of Hand 35%, Spot 75%, Stealth 50%, Throw 55%, Track 40%.
+**Oskused:** Rusikavõitlus 75%, ronimine 60%, lammutamine 30%, põiklemine 60%, esmaabi 40%, mängimine 65%, haare 50%, taipamine 65%, teadmised (regioon: kohalik) 65%, keel (oma) 70%, kuulamine 65%, ratsutamine (hobune) 75%, taju 50%, osavus 35%, märka 75%, vargsi 50%, viskamine 55%, jälitamine 40%.
 
 **Võimed:** Püstolikangelastel on harva võimeid.
 
 ### Rüütel
 
-Ratsutav ja soomustatud sõdalane, oskuslik mõõgavõitluses, turniirivõitluses ja rüütellikkuse etiketi tundmises. Aadliklassist pärit rüütel on andnud vande oma isandale ja saab stipendiume oma valduses olevatelt maadelt, et maksta oma relvade, soomuse, hobuste ja elustiili eest. Rüütlid harjutavad oma oskusi regulaarselt, võistlevad turniiridel ja rändavad sõtta iga kord, kui nende isand käsib. Ideaalis on rüütel rüütellik ja vaga, pidades kinni au- ja viisakuskoodeksist, kuigi see varieerub rüütlite vahel.
+Ratsutav ja soomustatud sõdalane, oskuslik mõõgavõitluses, turniirivõitluses ja rüütellikkuse etiketi tundmises. Aadliklassist pärit rüütel on vandunud truudust oma isandale ja saab oma valduses olevatelt maadelt stipendiumi oma relvade, soomuste, hobuste ja elustiili eest tasumiseks. Rüütlid harjutavad oma oskusi regulaarselt, võistlevad turniiridel ja lähevad sõtta alati, kui nende isand seda käsib. Ideaaljuhul on rüütel rüütellik ja vaga, pidades kinni aukoodeksist ja korralikkusest, kuigi see varieerub rüütliti.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 15 | 15 | 11 | 12 | 15 | 14 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 10-pt. plaatsoomus ja raske kiiver |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 10-pt. plaat ja raske kiiver |
 
 **Rünnakud:**
 
-* Laiamõõk 75%, 1D8+1+dm (veritsev)
-* Kilp 65%, 1D4+dm (tagasilöök)
-* Oda 75%, 1D8+1+ ratsu dm (tavaliselt +2D6, läbistav, vt allpool)
-* Kerge nuia 65%, 1D6+2+dm (muljuv)
-* Pikkvibu 60%, 1D8+1+½dm (läbistav)
-* Pistoda 50%, 1D4+2+dm (läbistav)
-* Soomustatud kindad 50%, 1D3+1+dm (muljuv)
-* Turniiriodad teevad muljuvat kahju.
+* Pikk mõõk 75%, 1D8+dm (veritsemine)
+* Lohekujuline kilp 65%, 1D4+dm (tagasilöök)
+* Oda 75%, 1D8+1+ hobuse dm (tavaliselt +2D6, läbistamine, vaata allpool)
+* Kerge nuia 65%, 1D6+2+dm (purustamine)
+* Pikk vibu 60%, 1D8+1+½dm (läbistamine)
+* Pistoda 50%, 1D4+2+dm (läbistamine)
+* Soomustatud kinnas 50%, 1D3+1+dm (purustamine)
+* Turniiri odad teevad purustavat kahjustust.
 
-**Oskused:** Command 45%, Dodge 50%, Etiquette 65%, Knowledge (Heraldika) 50%, Language (Teine) 35%, Language (Oma) 60%, Listen 45%, Ride (Hobune) 75%, Sense 20%, Spot 45%, Status 60%, Strategy 30%.
+**Oskused:** Käskimine 45%, põiklemine 50%, etikett 65%, teadmised (heraldika) 50%, keel (muu) 35%, keel (oma) 60%, kuulamine 45%, ratsutamine (hobune) 75%, taju 20%, märka 45%, staatus 60%, strateegia 30%.
 
-**Võimed:** Rüütlitel üldiselt pole võimeid, kuigi mõned harvad teavad maagiat. Siiski võib rüütlil olla juurdepääs maagilisele artefaktile, olgu selleks pühitsetud relv, püha reliikvia või soomus, millele on pandud mingi voorus. Haldjatel on kuuldavasti oma rüütliordud ja need rüütlid kasutaksid loomulikult maagiat vabalt. Kurjad rüütlid, kes on andnud vande pimedatele jõududele, võivad kasutada nõidust.
+**Võimed:** Rüütlitel üldiselt võimeid ei ole, kuigi mõned haruldased teavad maagiat. Siiski võib rüütlil olla juurdepääs maagilisele artefaktile, olgu see siis õnnistatud relv, püha reliikvia või soomus, millele on mingi voorus peale pandud. Kuuldavasti on haldajatel oma rüütliordud ja need rüütlid kasutaksid loomulikult maagiat vabalt. Kurjad rüütlid, kes on vandunud truudust pimedatele jõududele, võivad kasutada nõidust.
 
 ### Maniakk
 
-Tavalisena näiv inimene, kes on läinud vägivaldselt, homitsiidselt hulluks, on maniakk kuju, keda karta. Maniakk kas jälitab noori ohvreid eraldatud kohtades, nagu suvelaagrid või mingi kämping, või võtab teed nagu sarimõrvar, otsides ohvreid, keda mõrvata arusaamatutel põhjustel. Välimuselt on maniakk kahte tüüpi: täiesti tavaline või omanäolises kostüümis või maskis.
+Näiliselt normaalne inimene, kes on muutunud vägivaldselt, mõrvarlikult hullumeelseks, maniakk on tegelane, keda karta. Maniakk kas jälitab noori ohvreid eraldatud kohtades, nagu suvelaager või mõni kämping, või läheb teele sarimõrvarina, otsides ohvreid, keda mõrvata arusaamatutel põhjustel. Välimuselt on maniakk kahte sorti: täiesti tavaline või eristuva kostüümi või maskiga.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 14 | 14 | 15 | 17 | 12 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Lihunikunuga 75%, 1D6+dm (läbistav)
-* Puukirves 75%, 1D8+2+dm (veritsev)
-* Mootorsaag 65%, 2D8 (veritsev)
-* Harki 55%, 1D6+dm (läbistav)
-* Matšeete 65%, 1D6+dm (veritsev)
-* Maadlus 75%, eriline
+* Lihunikunuga 75%, 1D6+dm (läbistamine)
+* Puukirves 75%, 1D8+2+dm (veritsemine)
+* Mootorsaag 65%, 2D8 (veritsemine)
+* Hange 55%, 1D6+dm (läbistamine)
+* Matšeete 65%, 1D6+dm (veritsemine)
+* Haare 75%, eriline
 
-**Oskused:** Brawl 75%, Dodge 50%, Drive (Kaubik) 65%, Hide 60%, Language (Oma) 60%, Listen 45%, Sense 40%, Spot 65%, Stealth 80%, Throw 50%, Track 40%
+**Oskused:** Rusikavõitlus 75%, põiklemine 50%, sõitmine (kaubik) 65%, peitmine 60%, keel (oma) 60%, kuulamine 45%, taju 40%, märka 65%, vargsi 80%, viskamine 50%, jälitamine 40%
 
-**Võimed:** Enamikul maniakkidel pole mingit võimet, kuigi mõnel on erakordne vastupidavus ja vastupanuvõime. Need on tavaliselt põhjustatud mingist mutatsioonist ja sobivad mutatsioonid hõlmavad Hardy, Increased Characteristic, Regeneration või isegi Natural Weapon (hambad).
+**Võimed:** Enamikul maniakkidel pole mingeid võimeid, kuigi mõnel on erakordne vastupidavus ja sitkus. Need on tavaliselt põhjustatud mingist mutatsioonist ja sobivad mutatsioonid on Sitke, Suurendatud omadus, Regeneratsioon või isegi Looduslik relv (hambad).
 
 ### Mutant
 
-See õnnetu hing moondus kokkupuutel mingi radioaktiivse või bioloogilise ainega või tekkis läbi raske õnne veeretamise geneetilistel täringutel. Karda ja võimetu elama normaalset elu, luurab mutant ühiskonna äärealadel. Post-apokalüptilises maailmas on mutant tõenäoliselt kiirguse ohver ja üks paljudest sellistest olenditest, ähvardades allesjäänud „puhtaid“ inimesi.
+See õnnetu hing muteerus kokkupuutel mingi radioaktiivse või bioloogilise ainega või tekkis geneetiliste täringute halva õnne läbi. Kardsatuna ja suutmatuna elada normaalset elu, luurab mutant ühiskonna äärealadel. Post-apokalüptilises seades on mutant tõenäoliselt kiirguse ohver ja üks paljudest sellistest olenditest, kes ohustab järelejäänud "puhtaid" inimesi.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 19 | 9 | 13 | 14 | 12 | 15 | 10 |
 
-| Liikuda 10 | Elupunktid 11 |
+| Liikumine 10 | Elupunktid 11 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 7-pt. kondised mügarikud nahal |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 7-pt. kondised mügarikud nahal |
 
 **Rünnakud:**
 
-* Brawl 55%, 1D3+1D6+dm (muljuv)
+* Rusikavõitlus 55%, 1D3+1D6+dm (purustamine)
 
-**Oskused:** Disguise 25%, Dodge 40%, Drive (Liivakast) 40%, Fast Talk 25%, First Aid 40%, Hide 40%, Language (Oma) 55%, Listen 35%, Sense 25%, Spot 30%, Stealth 25%, Track 25%.
+**Oskused:** Maskeerimine 25%, põiklemine 40%, sõitmine (liivaluiauto) 40%, kiire jutt 25%, esmaabi 40%, peitmine 40%, keel (oma) 55%, kuulamine 35%, taju 25%, märka 30%, vargsi 25%, jälitamine 25%.
 
-**Võimed:** Sellel mutandil on arenenud järgmised mutatsioonid: Kaasasündinud haigus (hemofiilia, CON –5), Suurenenud omadus (STR +6), Loomulik relvastus (kondised mügarikud kätel, +1D6 kahju), Tundlikkus (veri), Struktuuriline täiustus (kondised mügarikud üle naha, +7-pt. looduslik soomus).
+**Võimed:** See mutant on arendanud järgmised mutatsioonid: Kaasasündinud haigus (hemofiilia, VAS –5), Suurendatud omadus (JÕU +6), Looduslik relvastus (kondised mügarikud kätel, +1D6 kahjustust), Tundlikkus (veri), Struktuuriline parendus (kondised mügarikud üle naha, +7-pt. looduslik soomus).
 
 ### Ninja
 
-Ninja on kardetud varjuline tapja antiikajast ja isegi tänapäevasest maailmast, koolitatud salajastes võitluskunstides ning hiilimise, sissetungimise ja palgamõrva tehnikates. Ninjad sünnivad sageli klannidesse, kuigi mõned harvad otsivad seda elu ja võetakse iidsetesse ordudesse vastu. Nad on palgamõrvarid, kes töötavad üksi või rühmades.
+Ninja on kardetud varjuline tapja antiikajast ja isegi tänapäeva maailmast, koolitatud salajastes võitluskunstides ning vargsi, infiltratsiooni ja mõrva tehnikates. Ninjad sünnivad sageli klannidesse, kuigi mõned haruldased vähesed otsivad seda elu ja võetakse vastu iidsetesse ordudesse. Nad on palgamõrvarid, töötades üksi või rühmades.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 10 | 14 | 15 | 17 | 12 |
 
-| Liikuda 10 | Elupunktid 12 |
+| Liikumine 10 | Elupunktid 12 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub või 2-pt. kerge kett-rüü |
+| **Kahjustuse modifikaator** Puudub | **Soomus** Puudub, või 2-pt. kerge rõngassärk |
 
 **Rünnakud:**
 
-* Katana 65%, 1D10+1+dm (veritsev)
-* Pistoda 65%, 1D4+2+dm (läbistav)
-* Komposiitvibu 50%, 1D8+1+½dm (läbistav)
-* Puhkpüss 50%, 1D3 (läbistav) + mürk (vt allpool)
-* Rusikas 55%, 1D3+dm (muljuv)
-* Kick 55%, 1D3+dm (muljuv)
+* Katana 65%, 1D10+1+dm (veritsemine)
+* Pistoda 65%, 1D4+2+dm (läbistamine)
+* Komposiitvibu 50%, 1D8+1+½dm (läbistamine)
+* Puhkpüss 50%, 1D3 (läbistamine) + mürk (vaata allpool)
+* Rusikas 55%, 1D3+dm (purustamine)
+* Löök 55%, 1D3+dm (purustamine)
 
-Ninja puhkpüssi nooled on tavaliselt kaetud halvatava POT 15 mürgiga (vt **Mürgid**).
+Ninja puhknooled on tavaliselt kaetud halvava POT 15 mürgiga (vaata **Mürgid**).
 
-**Oskused:** Climb 80%, Disguise 55%, Dodge 65%, Fine Manipulation 45%, Hide 70%, Jump 65%, Language (Oma) 70%, Listen 65%, Martial Arts 35%, Sense 50%, Sleight of Hand 55%, Spot 55%, Stealth 75%, Swim 55%, Throw 50%, Track 35%.
+**Oskused:** Ronimine 80%, maskeerimine 55%, põiklemine 65%, peenmanipulatsioon 45%, peitmine 70%, hüppamine 65%, keel (oma) 70%, kuulamine 65%, võitluskunstid 35%, taju 50%, osavus 55%, märka 55%, vargsi 75%, ujumine 55%, viskamine 50%, jälitamine 35%.
 
-**Võimed:** Ninjadel pole üldiselt võimeid, kuigi maailmades, kus nad neid omavad, oleks neil kas nõidus või erakordseid võitluskunste ligikaudsed supervõimed.
+**Võimed:** Ninjadel pole üldiselt võimeid, kuigi seadetes, kus nad on, oleksid neil kas nõidus või üli-võimed, mis sarnanevad erakordsetele võitluskunstidele.
 
 ### Piraat
 
-Värvikas kõrgete merede röövel, piraat on ookeanil tegutsev bandiit, ulatudes urbaniseerunud petturitest kuni põlastusväärsete metslasteni. See piraat on näidis-meeskonnaliige keskmisest piraadilaevast ja on oskuslik meresõidus ja käsivõitluses.
+Kirev kõrgmere kiskja, piraat on ookeanil rändav bandit, ulatudes linnalikest kelmidest kuni jälestusväärsete metslasteni. See piraat on tavalise piraadilaeva meeskonnaliikme näidis ja on oskuslik meresõidu ja käsivõitluse alal.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 13 | 11 | 10 | 14 | 13 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Cutlass (Saber) 55%, 1D8+1+dm (veritsev)
-* Nuga 45%, 1D4+2+dm (läbistav)
-* Flintlock-püstol 50%, 1D6+1 (läbistav)
-* Musket 40%, 1D10+4 (läbistav)
-* Rusikas 50%, 1D3+dm (muljuv)
+* Cutlass (sabel) 55%, 1D8+1+dm (veritsemine)
+* Nuga 45%, 1D4+2+dm (läbistamine)
+* Ränilukuga püstol 50%, 1D6+1 (läbistamine)
+* Musket 40%, 1D10+4 (läbistamine)
+* Rusikas 50%, 1D3+dm (purustamine)
 
-**Oskused:** Artillery 30%, Brawl 50%, Climb 80%, Craft (Puusepatöö) 55%, Dodge 40%, Fine Manipulation 45%, Gaming 35%, Grapple 50%, Jump 45%, Knowledge (Piirkond: Kohalik) 40%, Language (Kohalik) 40%, Language (Oma) 55%, Listen 45%, Navigate 50%, Perform (Laulda merelaulu) 45%, Pilot (Laev) 35%, Sense 30%, Sleight of Hand 35%, Spot 50%, Swim 45%, Throw 50%.
+**Oskused:** Artilleeria 30%, Rusikavõitlus 50%, ronimine 80%, käsitöö (puusepatöö) 55%, põiklemine 40%, peenmanipulatsioon 45%, mängimine 35%, haare 50%, hüppamine 45%, teadmised (regioon: kohalik) 40%, keel (kohalik) 40%, keel (oma) 55%, kuulamine 45%, navigeerimine 50%, esinemine (mereviisi laulmine) 45%, piloteerimine (laev) 35%, taju 30%, osavus 35%, märka 50%, ujumine 45%, viskamine 50%.
 
-**Võimed:** Enamikus maailmades pole piraatidel mingit võimet. Mõned piraadijuhid aga teevad lepinguid pimedusega ja neile õpetatakse nõidust, kui nende POW on piisavalt kõrge, et kvalifitseeruda. Sobivad loitsud on Bird’s Vision (1), Breath of Life (1), Vermin’s Vision (1), Hell’s Razor (2), Sorcerer’s Sureness (2) ja Wings of the Sky (4).
+**Võimed:** Enamikus seadetes piraatidel võimeid pole. Mõned piraadipealikud aga sõlmivad paktid pimedusega ja neid õpetatakse nõidust, kui nende VÄG on piisavalt kõrge kvalifitseerumiseks. Sobivad loitsud on Linnu nägemine (1), Elu hingus (1), Kahjurite nägemine (1), Põrgu habemenuuga (2), Nõia kindlus (2) ja Taeva tiivad (4).
 
-### Politseinik
+### Politseiametnik
 
-See on politseinik mis tahes tänapäevasest riigist. Koolitatud mitmesugustes korrakaitsetehnikates, on politseinik tavaliselt patrullis või kutsutakse intsidenti sündmuskohale. Suurema intsidendi korral linnapiirkonnas on politsei tõenäoliselt esimene sündmuskohal. Rohkem raskelt relvastatud politseinikud on osa erivägede ja taktika (S.W.A.T) meeskonnast ja neid kutsutakse tavaliselt liiga vägivaldsete olukordade lahendamiseks.
+See on politseiametnik mis tahes tänapäevasest riigist. Koolitatud laias valikus korrakaitsetehnikates, on politseiametnik tavaliselt patrullis või kutsutud vahejuhtumi toimumispaika. Suure vahejuhtumi korral linnapiirkonnas on politsei tõenäoliselt esimene kohalolija. Raskemalt relvastatud politseiametnikud on osa eriüksusest (S.W.A.T) ja neid kutsutakse tavaliselt liiga vägivaldsete olukordadega tegelema.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 14 | 14 | 14 | 14 | 14 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 8-pt. kuulikindel vest (4-pt. vs. lähivõitlusrelvad) või 12-pt. rahutustevastane varustus |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 8-pt. kuulivest (4-pt. lähivõitlusrelvade vastu) või 12-pt. märulivarustus |
 
 **Rünnakud:**
 
-* Keskmine püstol 70%, 1D8 (läbistav)
-* Jahipüss 50%, 4D6/2D6/1D6 (läbistav)
-* Nui (Kerge klubi) 50%, 1D6+dm (muljuv)
-* Pipragaas 65%, eriline (POT 16, pimestab 1D4+2 võitlusvooru)
-* Taser 65%, eriline (vt Uimastamine või alistamine)
-* Maadlus 65%, eriline
+* Keskmine püstol 70%, 1D8 (läbistamine)
+* Haavlipüss 50%, 4D6/2D6/1D6 (läbistamine)
+* Nui (kerge nui) 50%, 1D6+dm (purustamine)
+* Pipragaas 65%, eriline (POT 16, pimestab 1D4+2 lahinguvooru)
+* Taser 65%, eriline (vaata uimastamist või allutamist)
+* Haare 65%, eriline
 
-**Oskused:** Brawl 65%, Dodge 40%, Drive (Politseiauto) 55%, Insight 35%, Knowledge (Seadus) 50%, Language (Hispaania) 30%, Language (Inglise) 80%, Listen 50%, Persuade 50%, Ride (Hobune) 45%, Sense 30%, Spot 45%, Stealth 30%, Throw 45%.
+**Oskused:** Rusikavõitlus 65%, põiklemine 40%, sõitmine (politseiauto) 55%, taipamine 35%, teadmised (seadus) 50%, keel (hispaania) 30%, keel (inglise) 80%, kuulamine 50%, veenmine 50%, ratsutamine (hobune) 45%, taju 30%, märka 45%, vargsi 30%, viskamine 45%.
 
-**Võimed:** Politseinikel on võimed harva, kui üldse, kunagi.
+**Võimed:** Politseiametnikel on võimed harva, kui üldse.
 
 ### Preester
 
-Preester on oma patrooni jumaluse vagad kummardaja, olles lahkunud kloostri turvalisusest välismaailma, kaitstud vagadusega ja relvastatud jumaluse õnnistustega. Preester seikleb kummalistesse ja eksootilistesse maadesse, et tuua tõe sõnum uskmatuteni ja lüüa kättemaksuga kõiki, kes nende jumalikule mandaadile vastu hakkavad.
+Preester on oma patrooni jumaluse vaga kummardaja, kes on lahkunud kloostri turvalisusest ja astunud välismaailma, soomustatud vagausest ja relvastatud jumaluse õnnistustega. Preester seikleb kummalistele ja eksootilistele maadele, et tuua tõe sõnum uskmatuteni ja karistab kättemaksuga kõiki, kes nende jumalikule mandaadile vastu seisavad.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 14 | 15 | 16 | 13 | 15 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 8-pt. kett ja kerge kiiver |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 8-pt. kett ja kerge kiiver |
 
 **Rünnakud:**
 
-* Hommikutaevas (nuia) 50%, 1D10+1+dm (muljuv)
-* Täielik kilp 45%, 1D4+dm (tagasilöök)
-* Sling 40%, 1D8+½dm (muljuv)
-* Kick 40%, 1D3+dm (muljuv)
+* Hommikutäht-nuia 50%, 1D10+1+dm (purustamine)
+* Täiskilp 45%, 1D4+dm (tagasilöök)
+* Ling 40%, 1D8+½dm (purustamine)
+* Löök 40%, 1D3+dm (purustamine)
 
-**Oskused:** Art (Illumineeritud käsikirjad) 35%, Command 25%, Craft (Raamatute tegemine) 35%, Dodge 40%, First Aid 45%, Insight 35%, Knowledge (Religioon) 70%, Language (Oma) 70%, Listen 45%, Literacy (Ühine) 70%, Perform (Hümnid) 35%, Persuade 45%, Ride (Hobune) 35%, Spot 40%, Status 35%, Teach 30%
+**Oskused:** Kunst (valgustatud käsikirjad) 35%, käskimine 25%, käsitöö (raamatute valmistamine) 35%, põiklemine 40%, esmaabi 45%, taipamine 35%, teadmised (religioon) 70%, keel (oma) 70%, kuulamine 45%, kirjaoskus (üldine) 70%, esinemine (hümne) 35%, veenmine 45%, ratsutamine (hobune) 35%, märka 40%, staatus 35%, õpetamine 30%
 
-**Võimed:** Preestril on jumaluse poolt antud psüühilised võimed: Divination, Mind Shield, Precognition ja Sensitivity, kõik preestri POWx1% juures. Lisaks on preestril vähemalt 50 lojaalsus oma patroonjumaluse suhtes, koos kõigi hüvedega, mida see võib kaasa tuua. Vt Lojaalsus.
+**Võimed:** Preestril on psüühilised võimed, mille on andnud nende jumalus: Ennustamine, Mõttekaitse, Eelaimdus ja Tundlikkus, kõik preestri VÄGx1% juures. Lisaks on preestril truudus vähemalt 50 oma patroonjumaluse vastu, koos kõigi hüvedega, mida see võib kaasa tuua. Vaata Truudus.
 
 ### Psüühik
 
-Sündinud erilise kingitusega, arenesid psüühiku võimed noores täiskasvanueas. Psüühik õppis enesedistsipliini ja meditatsioonitehnikaid, et vaigistada peas kajavaid hääli, ja nüüd on need kummalised kingitused pandud teiste abistamise eesmärgil, kasutades neid teadmiste ja peidetud tõe otsimiseks.
+Sündinud erilise kingitusega, arenesid psüühiku võimed noores täiskasvanueas. Psüühik õppis enesedistsipliini ja meditatsioonitehnikaid, et vaigistada tema peas kajavaid hääli, ja nüüd on need kummalised kingitused pandud teiste abistamise eesmärgil, kasutades neid teadmiste ja varjatud tõe otsimiseks.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 12 | 13 | 14 | 15 | 19 | 14 | 14 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** puudub |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** Puudub |
 
 **Rünnakud:**
 
-* Rusikas 35%, 1D3+dm (muljuv)
+* Rusikas 35%, 1D3+dm (purustamine)
 
-**Oskused:** Art (Maalimine) 35%, Bargain 35%, Dodge 40%, Drive (Auto) 30%, Fast Talk 35%, Insight 50%, Knowledge (Kunstiajalugu) 45%, Language (Oma) 90%, Listen 35%, Research 65%, Sense 35%, Spot 40%, Status 35%, Stealth 30%.
+**Oskused:** Kunst (maalimine) 35%, tingimine 35%, põiklemine 40%, sõitmine (auto) 30%, kiire jutt 35%, taipamine 50%, teadmised (kunstiajalugu) 45%, keel (oma) 90%, kuulamine 35%, uurimine 65%, taju 35%, märka 40%, staatus 35%, vargsi 30%.
 
-**Võimed:** Psüühilised võimed Aura Detection 35%, Precognition 25% ja Psychometry 50%.
+**Võimed:** Psüühilised võimed Aura tuvastamine 35%, Eelaimdus 25% ja Psühhomeetria 50%.
 
 ### Sõdur
 
-Sõdur on koolitatud tänapäevastes sõjapidamise põhimõtetes, kasutades relvastust ja taktikat, kuuletudes käsuliinile, toetades meeskonnakaaslasi ja säilitades rahu tule all. Ideaalses olukorras on sõdur hästi varustatud, hästi toetatud ja hästi informeeritud. See näidissõdur on eriti vormis ja kogenud, võib-olla eliitkomando.
+Sõdur on koolitatud tänapäevastes sõjapidamise põhimõtetes, kasutades relvastust ja taktikat, kuuletudes käsuliinile, toetades meeskonnakaaslasi ja jäädes tule all rahulikuks. Ideaaltingimustes on sõdur hästi varustatud, hästi toetatud ja hästi informeeritud. See näidissõdur on eriti vormis ja kogenud, võib-olla eliitkomando.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 13 | 11 | 13 | 13 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 8-pt. kuulikindel vest (4-pt. vs. lähivõitlusrelvad) + 3-pt. kerge kiiver |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 8-pt. kuulivest (4-pt. lähivõitlusrelvade vastu) + 3-pt. kerge kiiver |
 
 **Rünnakud:**
 
-* Rünnak-vintpüss 65%, 2D6+2 (läbistav)
-* Võitlusnuga (Pistoda) 50%, 1D4+2+dm (läbistav)
-* Granaat (lõhkeaine) 40%, 4D6 (tagasilöök)
+* Rünnakupüss 65%, 2D6+2 (läbistamine)
+* Võitlusnuga (pistoda) 50%, 1D4+2+dm (läbistamine)
+* Granaat (plahvatusohtlik) 40%, 4D6 (tagasilöök)
 
-**Oskused:** Artillery 30%, Brawl 45%, Climb 50%, Command 25%, Dodge 40%, Drive (Humvee) 45%, First Aid 40%, Grapple 50%, Hide 35%, Jump 35%, Language (Oma) 65%, Listen 45%, Spot 45%, Stealth 40%, Strategy 20%, Throw 40%
+**Oskused:** Artilleeria 30%, Rusikavõitlus 45%, ronimine 50%, käskimine 25%, põiklemine 40%, sõitmine (Humvee) 45%, esmaabi 40%, haare 50%, peitmine 35%, hüppamine 35%, keel (oma) 65%, kuulamine 45%, märka 45%, vargsi 40%, strateegia 20%, viskamine 40%
 
-**Võimed:** Sõduritel on võimed harva, kui üldse kunagi.
+**Võimed:** Sõduritel on võimed harva, kui üldse.
 
-### Nõid (Sorcerer)
+### Nõid
 
-Valitud nooruses ja õpipoisiikka võetud müstilistes kunstides, tegeleb nõid deemonitega ja juhib ise elementaarseid jõude. Nõid on ülbe vähemate, mittemaagiliste surelike seas. Samas on nad äärmiselt ettevaatlikud isiklikku võitlusse sattumise suhtes, areen, kus nad on lootusetult ettevalmistamata.
+Noorusest valitud ja müstiliste kunstide alal õpipoisiks olnud nõid tegeleb deemonitega ja juhib elementaarseid jõude. Nõid on vähemate, mittemaagiliste surelike seas üleolev. Samas on nad äärmiselt ettevaatlikud isiklikku lahingusse sattumisel, areenil, kus nad on kahetsusväärselt ettevalmistamata võistlema.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 9 | 11 | 15 | 19 | 21 | 14 | 12 |
 
-| Liikuda 10 | Elupunktid 13 |
+| Liikumine 10 | Elupunktid 13 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** puudub, või 4-pt. Nõia soomus |
+| **Kahjustuse modifikaator** Puudub | **Soomus** Puudub, või 4-pt. Nõia soomus |
 
 **Rünnakud:**
 
-* Pistoda 35%, 1D4+2+dm (läbistav)
+* Pistoda 35%, 1D4+2+dm (läbistamine)
 
-**Oskused:** Appraise 35%, Dodge 40%, Etiquette 35%, Fast Talk 45%, Hide 30%, Insight 35%, Knowledge (Akadeemiline teadmine) 50%, Knowledge (Jumalateotuse lore) 20%, Knowledge (Okultism) 70%, Language (Deemonlik) 50%, Language (Oma) 85%, Listen 35%, Persuade 45%, Research 75%, Ride (Hobune) 35%, Sense 35%, Sleight of Hand 35%, Spot 55%.
+**Oskused:** Hinda 35%, põiklemine 40%, etikett 35%, kiire jutt 45%, peitmine 30%, taipamine 35%, teadmised (akadeemilised teadmised) 50%, teadmised (jumalateotavad teadmised) 20%, teadmised (okkultism) 70%, keel (deemonlik) 50%, keel (oma) 85%, kuulamine 35%, veenmine 45%, uurimine 75%, ratsutamine (hobune) 35%, taju 35%, osavus 35%, märka 55%.
 
-**Võimed:** Need nõiduseloitsud on mälus: Curse of Sorcery (4), Sorcerer’s Armor (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
+**Võimed:** Need nõiduse loitsud on mälus: Nõiduse needus (4), Nõia soomus (4), Nõia terav leek (3), Deemoni väljakutsumine (1), Nõiduse tühistamine (2), Tervendamine (2), Nõia pilk (3).
 
 ### Spioon
 
-Salajane operatiivtöötaja, kes töötab salaja valitsusasutuse heaks, koolitatud sissetungimises, hiilimises, maskeerumises, võitluses ja muudes spionaaži-oskustes. Missioonid ulatuvad relvastatud sissetungimisest vaenlase rühmadesse imbumiseni, kus eesmärgiks on seire, sabotaaž või palgamõrv. Nad võivad olla varustatud mitmesuguste vidinate ja relvadega, millest mõned on maskeeritud igapäevasteks esemeteks. Vt *8. peatükk: Varustus* juhiseid kõrgtehnoloogiliste spioonividinate ehitamiseks.
+Valitsusasutuse heaks salaja töötav operatiivtöötaja, koolitatud infiltratsioonis, vargsi, maskeerimises, võitluses ja muudes spionaažioskustes. Missioonid ulatuvad relvastatud sissetungist kuni vaenulike rühmituste infiltratsioonini jälgimise, sabotaaži või mõrvaga lõppeesmärgina. Nad võivad olla varustatud mitmesuguste vidinate ja relvadega, millest mõned on maskeeritud tavalisteks esemeteks. Vaata *Kaheksas peatükk: Varustus* juhiseid kõrgtehnoloogilise spioonivarustuse ehitamiseks.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 13 | 15 | 14 | 15 | 14 |
 
-| Liikuda 10 | Elupunktid 14 |
+| Liikumine 10 | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 5-pt. ballistiline smokk (3-pt. vs. lähivõitlusrelvad) |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 5-pt. ballistilisest riidest smoking (3-pt. lähivõitlusrelvade vastu) |
 
 **Rünnakud:**
 
-* Kerge püstol 75%, 1D6 (läbistav)
-* Snaipripüss 75%, 2D10+4 (läbistav)
-* Viskemuga 75%, 1D4+½dm (läbistav)
-* Rusikas 80%, 1D3+dm (muljuv)
-* Kick 65%, 1D3+dm (muljuv)
+* Kerge püstol 75%, 1D6 (läbistamine)
+* Snaipervintpüss 75%, 2D10+4 (läbistamine)
+* Viskamisnuga 75%, 1D4+½dm (läbistamine)
+* Rusikas 80%, 1D3+dm (purustamine)
+* Löök 65%, 1D3+dm (purustamine)
 
-**Oskused:** Appraise 45%, Brawl 65%, Climb 60%, Demolition 40%, Disguise 60%, Dodge 50%, Drive (Spordiauto) 85%, Etiquette 65%, Fast Talk 75%, Fine Manipulation 75%, First Aid 55%, Gaming 65%, Grapple 65%, Hide 75%, Insight 65%, Jump 50%, Knowledge (Spionaaž) 75%, Language (Oma) 90%, Language (Teine) 70%, Listen 65%, Martial Arts 45%, Persuade 55%, Pilot (Paat) 65%, Pilot (Helikopter) 45%, Research 45%, Ride (Hobune) 45%, Sense 60%, Sleight of Hand 55%, Spot 65%, Stealth 70%, Strategy 50%, Swim 65%, Throw 65%, Track 35%.
+**Oskused:** Hinda 45%, Rusikavõitlus 65%, ronimine 60%, lammutamine 40%, maskeerimine 60%, põiklemine 50%, sõitmine (sportauto) 85%, etikett 65%, kiire jutt 75%, peenmanipulatsioon 75%, esmaabi 55%, mängimine 65%, haare 65%, peitmine 75%, taipamine 65%, hüppamine 50%, teadmised (spionaaž) 75%, keel (oma) 90%, keel (muu) 70%, kuulamine 65%, võitluskunstid 45%, veenmine 55%, piloteerimine (paat) 65%, piloteerimine (helikopter) 45%, uurimine 45%, ratsutamine (hobune) 45%, taju 60%, osavus 55%, märka 65%, vargsi 70%, strateegia 50%, ujumine 65%, viskamine 65%, jälitamine 35%.
 
-**Võimed:** Spioonidel on võimed harva, kui üldse kunagi.
+**Võimed:** Spioonidel on võimed harva, kui üldse.
 
 ### Superkangelane
 
-Saades võimed läbi mingi kummalise õnnetuse või geneetilise anomaalia, on superkangelane andnud vande teha õigesti, otsides õiglust kõigi jaoks, kasutades oma võimeid tavaliste inimeste abistamiseks ja nende kaitsmiseks nii loomulike kui ka üleloomulike ohtude eest, samuti nende eest, mida tekitavad superkurikaelad. Enamik hoiab oma superkangelaslikud identiteedid saladuses, elades normaalset elu, kui saavad. Mõnel superkangelasel on kaaslased või nad liituvad meeskondadega. Superkangelast piinab sageli enesekahtlus, mõeldes, kas kangelaslikkuse hind on liiga kõrge.
+Tänu mingile veidrale õnnetusele või geneetilisele anomaaliale võimeid saanud superkangelane on vandunud tegema õiget asja, otsides õiglust kõigile, kasutades oma võimeid tavaliste inimeste abistamiseks ja nende kaitsmiseks nii loomulike kui ka ebaloomulike ohtude eest, samuti nende eest, mida põhjustavad superkurikaelad. Enamik hoiab oma superkangelaslikud identiteedid saladuses, elades tavalist elu, kui saavad. Mõnel superkangelasel on partnerid või nad liituvad meeskondadega. Superkangelane on sageli piinatud enesehinnangust, mõeldes, kas kangelaslikkuse hind on liiga kõrge.
 
-See näidissuperkangelane on Stormcloud, bravuurne (ja kogenematu) välgunoolel põhinev kangelane ja Doctor Dreadi vaenlane. Stormcloudi tsiviilidentiteet on tele-meteoroloog.
+See näidissuperkangelane on Stormcloud, bravuurne (ja kogenematu) välgunoolepõhine kangelane ja Doctor Dreadi vaenlane. Stormcloudi tsiviilidentiteet on telemeteoroloog.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 25 | 20 | 12 | 14 | 16 | 20 | 15 |
 
-| Liikuda 10 (62 lendades) | Elupunktid 16 |
+| Liikumine 10 (62 lendamine) | Elupunktid 16 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D6 | **Soomus** 12-pt. Soomus (Kineetiline, Kiirgus) |
+| **Kahjustuse modifikaator** +1D6 | **Soomus** 12-pt. Soomus (Kineetiline, Kiirgus) |
 
 **Rünnakud:**
 
-* Välgunool 45%, 6D6 (elektriline)
-* Brawl 50%, 1D3+dm (muljuv)
+* Välgunool 45%, 6D6 (elekter)
+* Rusikavõitlus 50%, 1D3+dm (purustamine)
 
-**Oskused:** Art (Fotograafia) 70%, Brawl 50%, Dodge 50%, Drive (Auto) 35%, Fly 80%, Grapple 35%, Knowledge (Piirkond: Kohalik) 35%, Language (muu) 00%, Language (Oma) 85%, Perform (Uudised) 50%, Research 45%, Science (Meteoroloogia) 25%, Status 25%, Technical Skill (Arvuti kasutamine) 35%.
+**Oskused:** Kunst (fotograafia) 70%, Rusikavõitlus 50%, põiklemine 50%, sõitmine (auto) 35%, lendamine 80%, haare 35%, teadmised (regioon: kohalik) 35%, keel (muu) 00%, keel (oma) 85%, esinemine (uudised) 50%, uurimine 45%, teadus (meteoroloogia) 25%, staatus 25%, tehniline oskus (arvuti kasutamine) 35%.
 
-**Võimed:** Stormcloudil on järgmised supervõimed: Absorption (Elektriline) 18; Armor (Kineetiline, Kiirgus) 12 igaüks; Energy Projection (Elektriline) 6; Extra Energy 15 (+150 võimepunkti); Flight 10; ja Super Characteristics 30 (STR +14, CON +8, DEX +8).
+**Võimed:** Stormcloudil on järgmised üli-võimed: Neelamine (Elekter) 18; Soomus (Kineetiline, Kiirgus) 12 igaüks; Energia projitseerimine (Elekter) 6; Lisaenergia 15 (+150 võimepunkti); Lendamine 10; ja Üliomadused 30 (JÕU +14, VAS +8, OSA +8).
 
-**Nõrkused:** Stormcloudi iseloomu nõrkus on nõrkus vee suhtes, kaotades –2D6 võimepunkti iga voor, kui ollakse märg või vee all.
+**Nõrkused:** Stormcloudi iseloomu puudus on nõrkus vee vastu, kaotades –2D6 võimepunkti igas voorus, mil ta on märg või vee all.
 
 ### Superkurikael
 
-Erinevalt superkangelasest naudib superkurikael kuritegelikku elu, kasutades oma võimeid rikkuse, võimu, kättemaksu või muu pahatahtlikkuse saavutamiseks. Nad võivad olla meisterkurjategijad või ülistatud pätid, sõltuvalt ambitsioonist. Mõned valivad üksi töötamise, samas kui teistel on käsilaste kaader. Veelgi vähem superkurikaelu töötavad koos meeskondades, kuna ebastabiilsed isiksused muudavad võrdsed partnerlused võimatuks.
+Erinevalt superkangelasest naudib superkurikael kuritegelikku elu, kasutades oma võimeid varanduse, võimu, kättemaksu või muu pahateo taotlemiseks. Nad võivad olla meisterkurjategijad või glorifitseeritud pätid, sõltuvalt ambitsioonidest. Mõned valivad üksi töötamise, samas kui teistel on käsilaste kaader. Veelgi vähem superkurikaelu teeb meeskonnana koostööd, kuna ebastabiilsed isiksused muudavad võrdsed partnerlussuhted võimatuks.
 
-See näidissuperkurikael on Doctor Dread, endine kaitsetööstuse insener, kelle rahastamine lõpetati. Pärast seda, kui ta kasutas litsentseerimata sõjatehnoloogiat kaitsva soomuse ehitamiseks, otsib Doctor Dread võimalusi edasiseks (ja potentsiaalselt ebaseaduslikuks) relvauuringute rahastamiseks. Need statistilised andmed esindavad Doctor Dreadi soomuses.
+See näidissuperkurikael on Doctor Dread, endine kaitsetööstuse insener, kelle rahastamine kärbiti. Pärast litsentseerimata sõjatehnoloogia kasutamist kaitsesoomuse ülikonna ehitamiseks otsib Doctor Dread võimalusi edasiste (ja potentsiaalselt ebaseaduslike) relvauuringute rahastamiseks. Need statistikaandmed esindavad Doctor Dreadi soomuses.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 18 | 9 | 17 | 17 | 18 | 10 |
 
-| Liikuda 10 (62 lendades) | Elupunktid 14 |
+| Liikumine 10 (62 lendamine) | Elupunktid 14 |
 | :---- | :---- |
-| **Kahjumodifikaator** puudub | **Soomus** 4-pt. Soomus (Kineetiline) + 20-pt. Jõuväli (Elektriline, Kineetiline, Kiirgus) |
+| **Kahjustuse modifikaator** Puudub | **Soomus** 4-pt. Soomus (Kineetiline) + 20-pt. Jõuväli (Elekter, Kineetiline, Kiirgus) |
 
 **Rünnakud:**
 
 * Kuumusprojektor 70%, 6D6 (tuli)
-* Brawl 50%, 1D3+dm (muljuv)
+* Rusikavõitlus 50%, 1D3+dm (purustamine)
 
-**Oskused:** Command 35%, Dodge 40%, Drive (Kaubik) 55%, Fine Manipulation 65%, Jump 65%, Language (Oma) 125%, Listen 45%, Repair (Elektroonika) 85%, Repair (Kvant) 75%, Research 85%, Science (Füüsika) 95%, Spot 50%, Technical Skill (Arvuti kasutamine) 95%.
+**Oskused:** Käskimine 35%, põiklemine 40%, sõitmine (kaubik) 55%, peenmanipulatsioon 65%, hüppamine 65%, keel (oma) 125%, kuulamine 45%, remont (elektrooniline) 85%, remont (kvant) 75%, uurimine 85%, teadus (füüsika) 95%, märka 50%, tehniline oskus (arvuti kasutamine) 95%.
 
-**Võimed:** Doctor Dreadi soomus pakub järgmisi supervõimeid: Armor (Kineetiline) 4; Energy Projection (Kuumus) 6; Extra Energy 15 (+150 võimepunkti); Flight 3; Force Field (Elektriline, Kineetiline, Kiirgus) 20 igaüks; Leap 10 (+20 meetrit hüppekaugusele); Super Sense (Infravision, Ultraheli kuulmine) 1 igaüks.
+**Võimed:** Doctor Dreadi soomus pakub järgmisi üli-võimeid: Soomus (Kineetiline) 4; Energia projitseerimine (Kuumus) 6; Lisaenergia 15(+150 võimepunkti); Lendamine 3; Jõuväli (Elekter, Kineetiline, Kiirgus) 20 igaüks; Hüpe 10 (+20 meetrit hüppe kaugusele); Ülitaju (Infraväli, Ultrahelikuulmine) 1 igaüks.
 
-**Nõrkused:** Doctor Dreadi iseloomu nõrkused on täiskohaga superkurikaelus; füüsiliselt äratuntav (kole); psühholoogilised puudujäägid (verehimuline, arrogantne); superkurikaela identiteet seotud soomusega ja mitte täiskohaga; soomust saab välja lülitada või eemaldada.
+**Nõrkused:** Doctor Dreadi iseloomu puudused on täiskohaga superkuritegevus; füüsiliselt eristuv (kole); psühholoogilised puudused (verejanuline, üleolev); superkurikaela identiteet on seotud soomusega ja mitte täiskohaga; soomust saab välja lülitada või eemaldada.
 
-### Pätt (Thug)
+### Pätt
 
-Palgaline käsilane, kes töötab tavaliselt kuritegeliku rühmituse heaks või otsib lihtsalt tüli. Pätt võib olla lisajõud või üksi tegutseja, olgu sissetungimine, röövimine, bandiitlus või taskuvargus.
+Palgaline jõmm, kes töötab tavaliselt kuritegeliku rühmituse heaks või otsib mõnikord lihtsalt pahandusi. Pätt võib olla tagavara jõud või tegutseda üksi, olgu tegemist sissemurdmise, röövimise, banditluse või kallaletungiga.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 10 | 10 | 12 | 11 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 1-pt. nahkjakk |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 1-pt. nahktagi |
 
 **Rünnakud:**
 
-* Raske püstol 50%, 1D10+2 (läbistav)
-* Vedrunuga 50%, 1D4+dm (läbistav)
-* Pesapallikurikas 50%, 1D6+dm (muljuv)
-* Rusikas 50%, 1D3+dm (muljuv)
-* Pealöök 35%, 1D3+dm (muljuv)
+* Raskepüstol 50%, 1D10+2 (läbistamine)
+* Vedrunuga 50%, 1D4+dm (läbistamine)
+* Pesapallikurikas 50%, 1D6+dm (purustamine)
+* Rusikas 50%, 1D3+dm (purustamine)
+* Pealöök 35%, 1D3+dm (purustamine)
 
-**Oskused:** Demolition 20%, Dodge 35%, Drive (Veoauto) 50%, Gaming 30%, Grapple 50%, Hide 25%, Insight 25%, Knowledge (Piirkond: Kodu-linn) 35%, Language (Oma) 50%, Listen 35%, Persuade 35%, Sense 30%, Sleight of Hand 25%, Spot 35%, Stealth 25%, Throw 35%.
+**Oskused:** Lammutamine 20%, põiklemine 35%, sõitmine (veoauto) 50%, mängimine 30%, haare 50%, peitmine 25%, taipamine 25%, teadmised (regioon: kodulinn) 35%, keel (oma) 50%, kuulamine 35%, veenmine 35%, taju 30%, osavus 25%, märka 35%, vargsi 25%, viskamine 35%.
 
-**Võimed:** Pättidel pole kunagi võimeid. Kui neil oleks, läheb neil elus paremini.
+**Võimed:** Pättidel pole kunagi võimeid. Kui neil oleks, saaksid nad iseendaga paremini hakkama.
 
 ### Hõimusõdalane
 
-Hõimusõdalasega kohtab igal pool, kus tsivilisatsioon pole veel jõudnud. Nad kasutavad relvi, mida peetakse tänapäeva standardite järgi primitiivseteks, ja osalevad oma hõimu ellujäämises, küttides ja võideldes hõimu kaitsmiseks sissetungijate ja ründajate eest. Hõimusõdalane paneb suurt usku elderside tarkusesse, kes tõlgendavad jumalate sõnu.
+Hõimusõdalasega kohatakse kõikjal, kus tsivilisatsioon pole veel jõudnud. Nad kasutavad relvi, mida peetakse tänapäeva standardite järgi primitiivseteks, ja osalevad oma hõimu ellujäämises, küttides ja võideldes hõimu kaitsmiseks sissetungijate ja ründajate vastu. Hõimusõdalane paneb suurt usku hõimu vanemate tarkusesse, kes tõlgendavad jumalate sõnu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 11 | 13 | 16 | 13 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 1-pt. nahksoomus |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 1-pt. nahksoomus |
 
 **Rünnakud:**
 
-* Lühioda 65%, 1D6+1+dm (läbistav)
-* Lühioda (visatud) 75%, 1D6+1+½dm (läbistav)
-* Kerge klubi 55%, 1D6+dm (muljuv)
-* Kerge klubi (visatud) 65%, 1D6+½dm (muljuv)
+* Lühike oda 65%, 1D6+1+dm (läbistamine)
+* Lühike oda (visatud) 75%, 1D6+1+½dm (läbistamine)
+* Kerge nui 55%, 1D6+dm (purustamine)
+* Kerge nui (visatud) 65%, 1D6+½dm (purustamine)
 * Kilp 65%, 1D2+dm (tagasilöök)
-* Puhkpüss 75%, 1D3 (läbistav) + mürk (vt allpool)*
-* Maadlus 65%, eriline
+* Puhkpüss 75%, 1D3 (läbistamine) + mürk (vaata allpool)*
+* Haare 65%, eriline
 
-*Hõimusõdalase puhkpüssi nooled on tavaliselt kaetud halvatava POT 10 mürgiga (vt **Mürgid**).
+*Hõimusõdalase puhknooled on tavaliselt kaetud halvava POT 10 mürgiga (vaata **Mürgid**).
 
-Mõned hõimusõdalased võtavad kasutusele tsiviliseeritud inimestelt saadud relvi, samas kui teised väldivad neid.
+Mõned hõimusõdalased võtavad kasutusele tsiviliseeritud inimestelt röövitud relvi, teised aga väldivad neid.
 
-**Oskused:** Climb 75%, Dodge 40%, Hide 45%, Jump 45%, Language (Oma) 60%, Listen 55%, Sense 60%, Spot 65%, Stealth 60%, Swim 55%, Throw 65%, Track 70%.
+**Oskused:** Ronimine 75%, põiklemine 40%, peitmine 45%, hüppamine 45%, keel (oma) 60%, kuulamine 55%, taju 60%, märka 65%, vargsi 60%, ujumine 55%, viskamine 65%, jälitamine 70%.
 
-**Võimed:** Hõimusõdalastel on võimed harva. Siiski on hõimud tavaliselt liidus šamaani või targa inimesega, kellel võivad olla võimed. Need võimed on tavaliselt psüühilised võimed või maagilised loitsud, mõnikord nõidus.
+**Võimed:** Hõimusõdalastel on võimeid harva. Siiski on hõimud tavaliselt liidus šamaani või targa inimesega, kellel võib olla võimeid. Need võimed on tavaliselt psüühilised võimed või maagilised loitsud, mõnikord nõidus.
 
 ### Viiking
 
-Viikingid on põhjamaade sõdalased, kes võtavad ette pikki merereise uurimiseks, kauplemiseks (tugevate vastaste või liitlaste vastu) ja rüüstamiseks (vaenlaste või nõrgemate vastu). Nad on ägedad ja uhked, suurepärased meremehed ja üllatavalt tsiviliseeritud, arvestades nende metsikut mainet. Viikingitel on oma au- ja seadustekoodeks ja nad järgivad neid rangelt, kuigi nende reeglid ei kehti teistele.
+Viikingid on põhjamaade sõdalased, kes ette võtavad pikki merereise uurimiseks, kauplemiseks (tugevate vastaste või liitlaste vastu) ja rüüsteretkedeks (vaenlaste või nõrgemate vastu). Nad on metsikud ja uhked, suurepärased meremehed ja üllatavalt tsiviliseeritud, arvestades nende metsikut mainet. Viikingitel on oma aukoodeks ja seadused ning nad järgivad neid rangelt, kuigi nende reeglid ei kehti teistele.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JÕU | VAS | SUU | INT | VÄG | OSA | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 11 | 11 | 13 | 12 |
 
-| Liikuda 10 | Elupunktid 15 |
+| Liikumine 10 | Elupunktid 15 |
 | :---- | :---- |
-| **Kahjumodifikaator** +1D4 | **Soomus** 7-pt. soomusrüü ja kerge kiiver |
+| **Kahjustuse modifikaator** +1D4 | **Soomus** 7-pt. soomusrüü ja kerge kiiver |
 
 **Rünnakud:**
 
-* Laiamõõk 65%, 1D8+1+dm (veritsev)
-* Kätekirves 55%, 1D6+1+dm (veritsev)
-* Kätekirves (visatud) 55%, 1D6+1+½dm (veritsev)
-* Iselaskev vibu 50%, 1D6+1+½dm (läbistav)
-* Suur ümmargune kilp 50%, 1D4+dm (tagasilöök)
-* Brawl 55%, 1D3+dm (muljuv)
+* Lai mõõk 65%, 1D8+1+dm (veritsemine)
+* Kätekirves 55%, 1D6+1+dm (veritsemine)
+* Kätekirves (visatud) 55%, 1D6+1+½dm (veritsemine)
+* Vibu 50%, 1D6+1+½dm (läbistamine)
+* Suur ümar kilp 50%, 1D4+dm (tagasilöök)
+* Rusikavõitlus 55%, 1D3+dm (purustamine)
 
-**Oskused:** Appraise 45%, Bargain 35%, Brawl 25%, Craft (tüüp) 05%, Dodge 40%, Gaming 40%, Grapple 35%, Insight 15%, Jump 25%, Language (Oma) 55%, Listen 40%, Navigate 35%, Pilot (laev) 25%, Ride (tüüp) 05%, Spot 35%, Status 25%.
+**Oskused:** Hinda 45%, tingimine 35%, Rusikavõitlus 25%, käsitöö (tüüp) 05%, põiklemine 40%, mängimine 40%, haare 35%, taipamine 15%, hüppamine 25%, keel (oma) 55%, kuulamine 40%, navigeerimine 35%, piloteerimine (laev) 25%, ratsutamine (tüüp) 05%, märka 35%, staatus 25%.
 
-**Võimed:** Viikingitel on harva mingid võimed. Mõned loitsijad kasutavad erinevaid maagiatüüpe, alates ruunimaagiast, kujumuutmisest või nõidusest. Sõltuvalt maailmast võib rikkal või eelistatud viikingil olla relvastust, soomust või mõni muu maagiline artefakt.
+**Võimed:** Viikingitel on harva mingeid võimeid. Mõned loitsijad kasutavad mitmesuguseid maagiatüüpe, alates ruunimaagiast, kujumuutmisest või nõidusest. Sõltuvalt seadest võib rikkal või soositud viikingil olla relvastus, soomus või mõni muu maagiline artefakt.
 
-## Olendite ja mitte-mängijategelaste kohandamine
+## Olendite ja mitte-mängijate tegelaste kohandamine
 
-Võib osutuda vajalikuks kohandada neid olendeid ja mitte-mängijategelasi vastavalt oma mängu võimsustasemele või paremaks sobitamiseks mängijate tegelaste kompetentsusega. Siin on juhised selleks ja vajadusel nende olendite ja mitte-mängijategelaste haldamiseks.
+Võib osutuda vajalikuks kohandada neid olendeid ja mitte-mängijate tegelasi vastavalt teie mängu võimsustasemele või paremaks vastavuseks mängijate tegelaste kompetentsusele. Siin on juhised selle tegemiseks ja vajadusel nende olendite ja mitte-mängijate tegelaste haldamiseks.
 
-Võib olla mõistlik, et vastased on kõrgema kaliibriga ühel võimsustasemel, näiteks fantaasia- või superkangelaste maailmas, samas teistes maailmades võib see tunduda sobimatu või liiga väljakutsuvana. Sellistel juhtudel võib mängujuht otsustada suurendada vastase ohtlikkust muul moel, näiteks suurendada kohatud arvu või anda neile paremat varustust või muul moel, nagu allpool kirjeldatud.
+Võib olla mõistlikum, et vastased on kõrgema kaliibriga ühel võimsustasemel, näiteks fantaasia- või superkangelaste seades, samas kui teistes seadetes võib see tunduda sobimatu või liiga keerulisena. Sellistel juhtudel võib mängujuht valida vastase ähvarduse suurendamise muul viisil, näiteks suurendada kohatatavate arvu või anda neile parem varustus või muud vahendid, nagu on kirjeldatud allpool.
 
-### Normaalsed kampaaniad
+### Tavalised kampaaniad
 
-Selle peatüki olendid ja mitte-mängijategelased on suunatud normaalsele kampaaniale. Neid pole vaja tavaliselt kohandada, välja arvatud konkreetse maailma puhul. Omaduste kohandamisel võta teadmiseks kõik muudetud sekundaarsed omadused (kahjumodifikaator, elupunktid, suuremad haavad, võimepunktid jne).
+Selles peatükis toodud olendid ja mitte-mängijate tegelased on suunatud tavalisele kampaaniale. Neid pole tavaliselt vaja kohandada, välja arvatud konkreetse seade puhul. Omaduste kohandamisel pöörake tähelepanu kõigile muudetud sekundaarsetele omadustele (kahjustuse boonus, elupunktid, suur haav, võimepunktid jne).
 
-Üks asi, mida meeles pidada, on see, et isegi väike soomus on suureks abiks. 3 punkti soomuse lisamine üksusele võib muuta nad väljakutsuvaks ja üle +6 punktiga muutuvad nad väga raskesti kahjustatavaks.
+Üks asi, mida meeles pidada, on see, et isegi väike soomus on suureks abiks. 3 punkti soomuse lisamine üksusele võib muuta nad keeruliseks ja enam kui +6 punktiga muutuvad nad väga raskesti kahjustatavaks.
 
 ### Kangelaslikud kampaaniad
 
-Kangelasliku kampaania jaoks on siin viisid, kuidas kohandada olendeid või mitte-mängijategelasi paremini kangelasliku taseme tegelastele:
+Kangelasliku kampaania jaoks on siin viisid, kuidas saate olendeid või mitte-mängijate tegelasi paremini kangelasliku taseme tegelastele kohandada:
 
-* Kohatud olendite või mitte-mängijategelaste arvu suurendamine +25% või enama võrra.
-* Ühe veelgi kompetentsema juhi lisamine igasse rühma, võib-olla ehitatud eepilisel võimsustasemel.
-* Panna neid kasutama paremat taktikat, olema ettevaatlikumad või agressiivsemad ja kasutama paremini ära oma maastikku, et saavutada taktikalisi eeliseid ja hoida mängijate tegelasi tasakaalust väljas.
-* Võtmeomaduste suurendamine veel D6 võrra või kindla +3 võrra, säilitades täringutega saavutatavad maksimumid.
-* Võitlusele orienteeritud ja muude asjakohaste oskuste muutmine +25% või korrutamine ×1.5-ga.
-* Lisavõimete või olemasolevate võimete tõhususe suurendamine.
-* Varustamine parema varustuse, soomuse, relvastuse jne.
+* Kohatatavate olendite või mitte-mängijate tegelaste arvu suurendamine +25% või rohkem.
+* Ühe äärmiselt kompetentse juhi lisamine igasse rühma, võib-olla ehitatud eepilisel võimsustasemel.
+* Nende panemine kasutama paremat taktikat, olema ettevaatlikum või agressiivsem ja kasutama paremini ära nende maastikku, et saada taktikalisi eeliseid ja hoida mängijate tegelasi tasakaalust väljas.
+* Peamiste omaduste suurendamine veel ühe D6 võrra või kindla +3 võrra, hoides veeretavad maksimumid puutumatuna.
+* Lahingule orienteeritud ja muude asjakohaste oskuste muutmine +25% või korrutatuna ×1.5.
+* Rohkemate võimete lisamine või olemasolevate võimete tõhususe suurendamine.
+* Nende varustamine parema varustuse, soomuse, relvastuse jne-ga.
 
 ### Eepilised kampaaniad
 
-Eepilise kampaania jaoks on siin viisid, kuidas kohandada olendeid või mitte-mängijategelasi väljakutse esitamiseks:
+Eepilise kampaania jaoks on siin viisid olendite või mitte-mängijate tegelaste kohandamiseks, et pakkuda rohkem väljakutseid:
 
-* Tavapäraste tegelastega kohatud arvu kahekordistamine.
-* Andes neile superinimese tasemel juhi.
-* Omaduste suurendamine +6 või enama võrra, väljaspool rassilisi maksimumtasemeid.
-* Oskuste edetabelite kahekordistamine.
-* Panna neid kasutama oskusi nagu Command ja Strategy, et mänguväljakut võrdsustada.
-* Uute võimete või mitmete võimegruppide lisamine või kirjete kombineerimine supervõimetega nagu Extra Hit Points on lihtne lahendus.
-* Vaenlastele parima saadaoleva varustuse, soomuse ja relvastuse andmine, olgu selleks jõusoomus, maagilised artefaktid, instantse tervendamise võimaldavad meditsiinitarbed jne.
+* Tavaliste tegelastega kohatatava arvu kahekordistamine.
+* Neile üliinimliku võimsustasemega juhi andmine.
+* Omaduste suurendamine +6 või enam, väljaspool rassilisi maksimumpiire.
+* Oskuste pingeridade kahekordistamine.
+* Nende panemine kasutama oskusi nagu käskimine ja strateegia, et võrdsustada mänguvälja.
+* Kõigi uute võimete lisamine või mitme võime rühma lisamine või kirjete kombineerimine üli-võimetega nagu Lisaelupunktid on lihtne lahendus.
+* Vaenlastele parima saadaoleva varustuse, soomuse ja relvastuse andmine, olgu see siis jõusoomus, maagilised artefaktid, kiiret tervendamist võimaldavad meditsiinitarbed jne.
 
-### Superinimese kampaaniad
+### Üliinimlikud kampaaniad
 
-Superinimese kampaania jaoks võib mängujuht otsustada kohandada järgmisi olendi või mitte-mängijategelase aspekte:
+Üliinimliku kampaania jaoks võib mängujuht valida kohandada järgmisi olendi või mitte-mängija tegelase aspekte:
 
-* Arve saab suurendada piirini, mida tunned mugavalt hallata, segades normaalseid, kangelaslikke ja eepilisi mitte-mängijategelasi, et väljakutset varieerida.
-* Omaduste suurendamine kaugel üle täringutega saavutatavate maksimumide, kasutades võimeid, et muuta need vaenlased peaaegu titaanlikeks võimete ja kompetentsuse poolest.
-* Oskuste väärtuste kolmekordistamine või isegi neljakordistamine kaugel üle 100%.
-* Vähem ilmselgete võimete lisamine, nagu Extra Hit Points, Super Characteristics, Super Skill jne.
-* Vastaste varustamine erakordsete relvade, soomuste ja muu varustusega, sealhulgas maagilise või jõulise varustusega. Nad kasutavad seda varustust ka taktikaliselt ja oma võimete piiril.
+* Arve saab suurendada piirini, mida tunnete end mugavalt haldavat, segades tavalisi, kangelaslikke ja eepilise taseme mitte-mängijate tegelasi väljakutse varieerimiseks.
+* Omaduste suurendamine kaugele üle veeretavate maksimumide, kasutades mis tahes võimeid, et muuta need vaenlased peaaegu titaanlikeks võimetes ja kompetentsuses.
+* Oskuste reitingute kolmekordistamine või isegi neljakordistamine kaugele üle 100%.
+* Vähem ilmselgete võimete lisamine nagu Lisaelupunktid, Üliomadused, Ülioskus jne.
+* Vastaste varustamine erakordsete relvade, soomuste ja muu varustusega, sealhulgas maagilise või jõustatud varustusega. Nad kasutavad seda varustust ka taktikaliselt ja oma võimete kohaselt.
 
 ### Üldised märkused
 
-Nagu mainitud, on need vaid soovitused ja neid tuleks targalt rakendada. Uuri mängijate tegelaste võimeid ja kasuta seda alusena, kui raskeid vastaseid luua. Ära karda kohtumist tagasi skaalata, lastes vaenlastel põgeneda, või suurendada raskust, lastes uutel vaenlastel saabuda või tutvustades mingit keskkonnategurit, mis teeb asjad kõigi jaoks raskemaks.
+Nagu märgitud, on need vaid soovitused ja neid tuleks arukalt rakendada. Uurige mängijate tegelaste võimeid ja kasutage seda alusena, kui raskeks teha tähendusrikkaid vastaseid. Ärge kartke kohtumist tagasi skaalata, lastes vaenlastel põgeneda, või suurendada raskust uute vaenlaste saabumisega või keskkonnateguri tutvustamisega, mis muudab asjad kõigile raskemaks.
 
-Vaenlase suhtelise tugevuse hindamine mängijate tegelaste vastu on raske kunst, mida omandada, ning täringutulemuste tasane jaotus ja ootamatud taktikad võivad muuta potentsiaalselt kerge kohtumise elu-või-surma võitluseks või lõpetada kliimakilise lahingu üheainsa esimese (ja õnneliku) lasuga.
+Vaenlase suhtelise tugevuse hindamine mängija tegelase omaga on raske kunst, mida omandada, ja täringutulemuste tasane jaotus ning ootamatud taktikad võivad muuta potentsiaalselt lihtsa kohtumise elu-või-surma võitluseks või lõpetada kliimaksilise lahingu ühe esimese (ja õnneliku) lasuga.
 
-Oluline on siiski alati meeles pidada põhireeglit: tunne rõõmu ja veendu, et ka mängijad tunnevad rõõmu.
+Siiski on oluline alati meeles pidada peamist reeglit: nautige ja veenduge, et ka mängijad naudivad.
 
-> ### Olendi löögikohtade tabelid
-> 
-> Löögikohad võimaldavad suurt detaili tabamuse asukoha määramisel ja meeldivad paljudele, kuna need esindavad „realistlikumat“ vigastuste kujutamist. Esitatud standardne löögikohtade tabel sobib mis tahes bipedalistlikule humanoidile, teistel olenditel on erineva kujuga kehad ja nad vajavad teistsuguseid löögikohtade tabeleid.
-> 
-> Selles osas on esitatud mitmesuguseid löögikohtade tabeleid ja kiireid valemeid elupunktide määramiseks iga soovitud olendi jaoks. Tabeli valimiseks vali see, mis sobib kõige paremini soovitud olendile.
-> 
-> * **Humanoid:** Inimene, Tulnukas (Hall), Ingel (tiivad peidetud), Küborg, Kääbus, Haldjas, Vaim, Ghoul, Hiiglane, Poolpikk, Minotaur, Muumia, Mutant, Ork, Robotid (Hiiglaslik, Tapja, Utiliit), Luukere, Troll, Vampiir (inimese vormis), Elementaalid (Maa, Vesi), Libahunt (hübriidvormis), Zombi
-> 
-> * **Vormitu:** Mõik (Blob)
-> 
-> * **Neljajalgne Humanoid:** Kentaur
-> 
+> ### Olendite tabamiskohtade tabelid
+>
+> Tabamiskohad võimaldavad suurt detaili rünnaku maandumiskoha määramisel ja ahvatlevad paljusid, sest need esindavad vigastuste "realistlikumat" kujutamist. Pakutud standardne tabamiskohtade tabel sobib mis tahes kahejalgsele humanoidile, teistel olenditel on erineva kujuga kehad ja nad vajavad erinevaid tabamiskohtade tabeleid.
+>
+> Selles peatükis esitatakse mitmesuguseid tabamiskohtade tabeleid ja kiireid valemeid mis tahes soovitud olendi elupunktide määramiseks tabamiskoha kohta. Millise tabeli kasutamist valida, valige see, mis on kõige sobivam soovitud olendile.
+>
+> * **Humanoid:** Inimene, Tulnukas (Hall), Ingel (tiivad peidetud), Küborg, Päkapikk, Haldjas, Vaim, Ghoul, Hiiglane, Poolpikk, Minotaurus, Muumia, Mutant, Ork, Robotid (Hiiglaslik, Tapja, Kasutus), Skelett, Troll, Vampiir (inimkujul), Elementaalid (Maa, Vesi), Libahunt (hübriidkujul), Zombi
+>
+> * **Vormitu:** Limukas
+>
+> * **Neljajalgne humanoid:** Kentaur
+>
 > * **Neljajalgne:** Karu, Koer, Gorilla, Hobune, Lõvi, Tiiger, Ükssarvik, Hunt
-> 
-> * **Neljajalgne sabaga**: Tulnukas (Xenomorph), Alligaator või krokodill, Elementaal (Tuli)
-> 
+>
+> * **Neljajalgne sabaga**: Tulnukas (Ksenomorf), Alligaator või Krokodill, Elementaal (Tuli)
+>
 > * **Hiiglaslik neljajalgne sabaga:** Brontosaurus
-> 
-> * **Mitmejäsemeline**: Kalmaar (Hiiglane)
-> 
-> * **Madu:** Maod (Püüton, Mürgine)
-> 
-> * **Kahejalgsed sabaga:** Tyrannosaurus Rex
-> 
-> * **Tiivuline:** Kulli
-> 
-> * **Tiivuline neljajalgne:** Griffin
-> 
-> Elupunktide määramiseks asukoha kohta kasuta kas elupunktide valemit või löögikohtade elupunktide tabelit.
-> 
+>
+> * **Mitmejäsemeline**: Kalmaar (hiiglaslik)
+>
+> * **Madu:** Maod (püüton, mürgine)
+>
+> * **Kahejalgne sabaga:** Tyrannosaurus Rex
+>
+> * **Tiivuline:** Kull
+>
+> * **Tiivuline neljajalgne:** Grifoon
+>
+> Elupunktide määramiseks tabamiskoha kohta kasutage kas elupunktide valemit või Elupunktide tabamiskoha kohta tabelit.
+>
 > ##### Humanoid
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–4 | Parem jalg | 1/3 kogust |
-> | 5–8 | Vasak jalg | 1/3 kogust |
-> | 9–11 | Kõht | 1/3 kogust |
-> | 12 | Rind | 2/5 kogust |
-> | 13–15 | Parem käsi | 1/4 kogust |
-> | 16–18 | Vasak käsi | 1/4 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
+> | 1–4 | Parem jalg | 1/3 kogusummast |
+> | 5–8 | Vasak jalg | 1/3 kogusummast |
+> | 9–11 | Kõht | 1/3 kogusummast |
+> | 12 | Rind | 2/5 kogusummast |
+> | 13–15 | Parem käsi | 1/4 kogusummast |
+> | 16–18 | Vasak käsi | 1/4 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
 > ##### Vormitu
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–20 | Keha | Kokku |
-> 
+> | 1–20 | Keha | Kogusumma |
+>
 > ##### Neljajalgne
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Parem tagajalg | 1/4 kogust |
-> | 3–4 | Vasak tagajalg | 1/4 kogust |
-> | 5–7 | Tagumine osa | 2/5 kogust |
-> | 8–10 | Eesmine osa | 2/5 kogust |
-> | 11–13 | Parem esijalg | 1/4 kogust |
-> | 14–16 | Vasak esijalg | 1/4 kogust |
-> | 17–20 | Pea | 1/3 kogust |
-> 
-> ##### Neljajalgne Humanoid
-> 
+> | 1–2 | Parem tagajalg | 1/4 kogusummast |
+> | 3–4 | Vasak tagajalg | 1/4 kogusummast |
+> | 5–7 | Tagaveerand | 2/5 kogusummast |
+> | 8–10 | Esiveerand | 2/5 kogusummast |
+> | 11–13 | Parem esijalg | 1/4 kogusummast |
+> | 14–16 | Vasak esijalg | 1/4 kogusummast |
+> | 17–20 | Pea | 1/3 kogusummast |
+>
+> ##### Neljajalgne humanoid
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Parem tagajalg | 1/4 kogust |
-> | 3–4 | Vasak tagajalg | 1/4 kogust |
-> | 5–6 | Tagumine osa | 2/5 kogust |
-> | 7–8 | Eesmine osa | 2/5 kogust |
-> | 9–10 | Parem esijalg | 1/4 kogust |
-> | 11–12 | Vasak esijalg | 1/4 kogust |
-> | 13–14 | Rind | 2/5 kogust |
-> | 15–16 | Parem käsi | 1/4 kogust |
-> | 17–18 | Vasak käsi | 1/4 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
+> | 1–2 | Parem tagajalg | 1/4 kogusummast |
+> | 3–4 | Vasak tagajalg | 1/4 kogusummast |
+> | 5–6 | Tagaveerand | 2/5 kogusummast |
+> | 7–8 | Esiveerand | 2/5 kogusummast |
+> | 9–10 | Parem esijalg | 1/4 kogusummast |
+> | 11–12 | Vasak esijalg | 1/4 kogusummast |
+> | 13–14 | Rind | 2/5 kogusummast |
+> | 15–16 | Parem käsi | 1/4 kogusummast |
+> | 17–18 | Vasak käsi | 1/4 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
 > ##### Neljajalgne sabaga
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–3 | Saba | 1/3 kogust |
-> | 4 | Parem tagajalg | 1/4 kogust |
-> | 5 | Vasak tagajalg | 1/4 kogust |
-> | 6–9 | Tagumine osa | 2/5 kogust |
-> | 10–14 | Eesmine osa | 2/5 kogust |
-> | 15 | Parem esijalg | 1/4 kogust |
-> | 16 | Vasak esijalg | 1/4 kogust |
-> | 17–20 | Pea | 1/3 kogust |
-> 
+> | 1–3 | Saba | 1/3 kogusummast |
+> | 4 | Parem tagajalg | 1/4 kogusummast |
+> | 5 | Vasak tagajalg | 1/4 kogusummast |
+> | 6–9 | Tagaveerand | 2/5 kogusummast |
+> | 10–14 | Esiveerand | 2/5 kogusummast |
+> | 15 | Parem esijalg | 1/4 kogusummast |
+> | 16 | Vasak esijalg | 1/4 kogusummast |
+> | 17–20 | Pea | 1/3 kogusummast |
+>
 > ##### Hiiglaslik neljajalgne sabaga
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Saba | 1/3 kogust |
-> | 3–4 | Parem tagajalg | 1/4 kogust |
-> | 5–6 | Vasak tagajalg | 1/4 kogust |
-> | 7–10 | Tagumine osa | 2/5 kogust |
-> | 11–14 | Eesmine osa | 2/5 kogust |
-> | 15–16 | Parem esijalg | 1/4 kogust |
-> | 17–18 | Vasak esijalg | 1/4 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
+> | 1–2 | Saba | 1/3 kogusummast |
+> | 3–4 | Parem tagajalg | 1/4 kogusummast |
+> | 5–6 | Vasak tagajalg | 1/4 kogusummast |
+> | 7–10 | Tagaveerand | 2/5 kogusummast |
+> | 11–14 | Esiveerand | 2/5 kogusummast |
+> | 15–16 | Parem esijalg | 1/4 kogusummast |
+> | 17–18 | Vasak esijalg | 1/4 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
 > ##### Mitmejäsemeline
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1 | Käsi | 1/4 kogust |
-> | 2 | Käsi 2 | 1/4 kogust |
-> | 3 | Käsi 3 | 1/4 kogust |
-> | 4 | Käsi 4 | 1/4 kogust |
-> | 5 | Käsi 5 | 1/4 kogust |
-> | 6 | Käsi 6 | 1/4 kogust |
-> | 7 | Käsi 7 | 1/4 kogust |
-> | 8 | Käsi 8 | 1/4 kogust |
-> | 9 | Käsi 9 | 1/4 kogust |
-> | 10 | Käsi | 1/4 kogust |
-> | 11–15 | Keha | 2/5 kogust |
-> | 16–20 | Pea | 2/5 kogust |
-> 
+> | 1 | Käsi | 1/4 kogusummast |
+> | 2 | Käsi 2 | 1/4 kogusummast |
+> | 3 | Käsi 3 | 1/4 kogusummast |
+> | 4 | Käsi 4 | 1/4 kogusummast |
+> | 5 | Käsi 5 | 1/4 kogusummast |
+> | 6 | Käsi 6 | 1/4 kogusummast |
+> | 7 | Käsi 7 | 1/4 kogusummast |
+> | 8 | Käsi 8 | 1/4 kogusummast |
+> | 9 | Käsi 9 | 1/4 kogusummast |
+> | 10 | Käsi | 1/4 kogusummast |
+> | 11–15 | Keha | 2/5 kogusummast |
+> | 16–20 | Pea | 2/5 kogusummast |
+>
 > ##### Madu
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–6 | Saba | 1/3 kogust |
-> | 7–14 | Keha | 2/5 kogust |
-> | 15–20 | Pea | 1/3 kogust |
-> 
-> ##### Kahejalgsed sabaga
-> 
+> | 1–6 | Saba | 1/3 kogusummast |
+> | 7–14 | Keha | 2/5 kogusummast |
+> | 15–20 | Pea | 1/3 kogusummast |
+>
+> ##### Kahejalgne sabaga
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Saba | 1/3 kogust |
-> | 3–5 | Parem jalg | 1/3 kogust |
-> | 6–8 | Vasak jalg | 1/3 kogust |
-> | 9–11 | Kõht | 2/5 kogust |
-> | 12–15 | Rind | 2/5 kogust |
-> | 16 | Parem käsi | 1/4 kogust |
-> | 17 | Vasak käsi | 1/4 kogust |
-> | 18–20 | Pea | 1/3 kogust |
-> 
+> | 1–2 | Saba | 1/3 kogusummast |
+> | 3–5 | Parem jalg | 1/3 kogusummast |
+> | 6–8 | Vasak jalg | 1/3 kogusummast |
+> | 9–11 | Kõht | 2/5 kogusummast |
+> | 12–15 | Rind | 2/5 kogusummast |
+> | 16 | Parem käsi | 1/4 kogusummast |
+> | 17 | Vasak käsi | 1/4 kogusummast |
+> | 18–20 | Pea | 1/3 kogusummast |
+>
 > ##### Tiivuline
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–3 | Parem jalg | 1/5 kogust |
-> | 4–6 | Vasak jalg | 1/5 kogust |
-> | 7–12 | Keha | 2/5 kogust |
-> | 13–15 | Parem tiib | 1/5 kogust |
-> | 16–18 | Vasak tiib | 1/5 kogust |
-> | 19–20 | Pea | 1/4 kogust |
-> 
+> | 1–3 | Parem jalg | 1/5 kogusummast |
+> | 4–6 | Vasak jalg | 1/5 kogusummast |
+> | 7–12 | Keha | 2/5 kogusummast |
+> | 13–15 | Parem tiib | 1/5 kogusummast |
+> | 16–18 | Vasak tiib | 1/5 kogusummast |
+> | 19–20 | Pea | 1/4 kogusummast |
+>
 > ##### Tiivuline neljajalgne
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Parem tagajalg | 1/4 kogust |
-> | 3–4 | Vasak tagajalg | 1/4 kogust |
-> | 5–7 | Tagumine osa | 2/5 kogust |
-> | 8–10 | Eesmine osa | 2/5 kogust |
-> | 11–12 | Parem tiib | 1/4 kogust |
-> | 13–14 | Vasak tiib | 1/4 kogust |
-> | 15–16 | Parem esijalg | 1/4 kogust |
-> | 17–1 | Vasak esijalg | 1/4 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
+> | 1–2 | Parem tagajalg | 1/4 kogusummast |
+> | 3–4 | Vasak tagajalg | 1/4 kogusummast |
+> | 5–7 | Tagaveerand | 2/5 kogusummast |
+> | 8–10 | Esiveerand | 2/5 kogusummast |
+> | 11–12 | Parem tiib | 1/4 kogusummast |
+> | 13–14 | Vasak tiib | 1/4 kogusummast |
+> | 15–16 | Parem esijalg | 1/4 kogusummast |
+> | 17–1 | Vasak esijalg | 1/4 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
 > ##### Tiivuline, neljajalgne sabaga
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–2 | Saba | 1/4 kogust |
-> | 3–4 | Parem tagajalg | 1/3 kogust |
-> | 5–6 | Vasak tagajalg | 1/3 kogust |
-> | 7–8 | Tagumine osa | 2/5 kogust |
-> | 9–10 | Eesmine osa | 2/5 kogust |
-> | 11–12 | Parem tiib | 1/4 kogust |
-> | 13–14 | Vasak tiib | 1/4 kogust |
-> | 15–16 | Parem esijalg | 1/3 kogust |
-> | 17–18 | Vasak esijalg | 1/3 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
+> | 1–2 | Saba | 1/4 kogusummast |
+> | 3–4 | Parem tagajalg | 1/3 kogusummast |
+> | 5–6 | Vasak tagajalg | 1/3 kogusummast |
+> | 7–8 | Tagaveerand | 2/5 kogusummast |
+> | 9–10 | Esiveerand | 2/5 kogusummast |
+> | 11–12 | Parem tiib | 1/4 kogusummast |
+> | 13–14 | Vasak tiib | 1/4 kogusummast |
+> | 15–16 | Parem esijalg | 1/3 kogusummast |
+> | 17–18 | Vasak esijalg | 1/3 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
 > ##### Tiivuline humanoid
-> 
+>
 > | D20 vise | Tulemus | Valem |
 > | :---- | :---- | :---- |
-> | 1–3 | Parem jalg | 1/3 kogust |
-> | 4–6 | Vasak jalg | 1/3 kogust |
-> | 7–9 | Kõht | 1/3 kogust |
-> | 10 | Rind | 2/5 kogust |
-> | 11–12 | Parem tiib | 1/5 kogust |
-> | 13–14 | Vasak tiib | 1/5 kogust |
-> | 15–16 | Parem käsi | 1/4 kogust |
-> | 17–18 | Vasak käsi | 1/4 kogust |
-> | 19–20 | Pea | 1/3 kogust |
-> 
-> Elupunktide määramiseks asukoha kohta võrdle olendi elupunktide koguarvu murdosaga. Iga elupunktide koguarvu vahemik on esitatud ja murdosad on ümardatud ülespoole, lähtudes selle vahemiku ülempiirist (seega 2/5 vahemikust 10–12 annab väärtuse kas 4, 4.4 või 4.8 ja ümardatakse 5-ni). Kui soovitakse täpsemat arvutust, kasuta eelnevalt esitatud valemeid.
-> 
-> | Kokku | 2/5 (või 40%) | 1/3 (või 33%) | 1/4 (või 25%) | 1/5 (või 20%) |
+> | 1–3 | Parem jalg | 1/3 kogusummast |
+> | 4–6 | Vasak jalg | 1/3 kogusummast |
+> | 7–9 | Kõht | 1/3 kogusummast |
+> | 10 | Rind | 2/5 kogusummast |
+> | 11–12 | Parem tiib | 1/5 kogusummast |
+> | 13–14 | Vasak tiib | 1/5 kogusummast |
+> | 15–16 | Parem käsi | 1/4 kogusummast |
+> | 17–18 | Vasak käsi | 1/4 kogusummast |
+> | 19–20 | Pea | 1/3 kogusummast |
+>
+> Elupunktide määramiseks tabamiskoha kohta võrrelge olendi elupunktide kogusummat murdosaga. Iga elupunktide kogusumma on esitatud vahemikus ja murdosad ümardatakse ülespoole vastavalt selle vahemiku ülempiirile (seega 2/5 10–12-st annab väärtuseks kas 4, 4.4 või 4.8 ja ümardatakse 5-ks). Kui soovitakse täpsemat arvutust, kasutage varem toodud valemeid.
+>
+> | Kogusumma | 2/5 (või 40%) | 1/3 (või 33%) | 1/4 (või 25%) | 1/5 (või 20%) |
 > | :---- | :---: | :---: | :---: | :---: |
 > | 1–3 | 2 | 1 | 1 | 1 |
 > | 4–6 | 3 | 2 | 2 | 1 |

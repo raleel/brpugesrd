@@ -1,68 +1,69 @@
-# 11. Radības
+# 11. Būtnes
 
-Šajā nodaļā ir sniegts plašs iespējamo tikšanos klāsts – sākot ar uzticamiem sabiedrotajiem, lojāliem mājdzīvniekiem, mežonīgiem dzīvniekiem vai pārdabiskām būtnēm, un beidzot ar tēlu piemēriem no pagātnes, fantāzijas pasaulēm, mūsdienām un nākotnes. Noteikumu ziņā starp radību un nespēlētāja tēlu (NPC) nav nekādas atšķirības – spēles vadītājs (SV) tos raksturo ar aprakstu un lomu spēli. Viņi visi ievēro tos pašus noteikumus kā tēli. Tomēr katra no tām pārstāv atbilstošu paraugu un nav līdzsvarota tādā pašā veidā kā spēlētāja tēls. Jūs varat izmantot šīs radības "tādas, kādas tās ir", vai arī pielāgot tās pēc vēlēšanās. Šajos aprakstos netiek izmantoti nekādi papildu noteikumi, lai gan jūs varat tos pievienot vai modificēt pēc vajadzības (sk. Radību un nespēlētāju tēlu pielāgošana).
+Šajā nodaļā ir sniegts plašs potenciālo sastapšanos klāsts, neatkarīgi no tā, vai tie ir uzticami sabiedrotie, uzticami mājdzīvnieki, nikni dzīvnieki vai pārdabiskas būtnes, kā arī tēlu paraugi no pagātnes, fantāzijas vidēm, mūsdienu pasaules un nākotnes. Noteikumu ziņā nav atšķirības starp būtni un spēlētāja nekontrolētu tēlu (NPC) — spēles vadītājs tos raksturo ar aprakstu un lomu spēli. Tie visi ievēro tos pašus noteikumus, ko tēli. Tomēr katrs no tiem pārstāv piemērotu eksemplāru un nav līdzsvarots tādā pašā veidā kā spēlētāja tēls. Varat izmantot šīs būtnes „tādas, kādas tās ir”, vai arī pielāgot tās pēc vēlēšanās. Šajos aprakstos nav izmantoti nekādi papildu noteikumi, lai gan jūs varat tos pievienot vai modificēt pēc vajadzības (skatiet Būtņu un spēlētāja nekontrolētu tēlu pielāgošana).
 
-Ērtības labad visi ieraksti ir aprakstīti kā "radības", lai gan tie var būt cilvēki vai nedzīvas mašīnas.
+Visi ieraksti ērtības labad ir aprakstīti kā „būtnes”, lai gan tie var būt cilvēki vai nedzīvas mašīnas.
 
 ## Ierakstu formāts
 
-Gandrīz katra radība un nespēlētāja tēls ievēro vienu un to pašu formātu, lai gan dabiski dzīvnieki ir iekļauti saīsinātā tabulā.
+Gandrīz katra būtne un spēlētāja nekontrolēts tēls ievēro vienu un to pašu formātu, lai gan dabiski dzīvnieki ir iekļauti saīsinātā tabulā.
 
-* **Nosaukums:** Vispārīgs apzīmējums.
+* **Vārds:** Vispārīgs nosaukums.
 * **Apraksts:** Īsa informācija par ierakstu.
-* **Raksturlielumi:** Raksturlielumi ir parādīti gan kā rullējumu diapazons, gan kā vidējais rādītājs (zemāk). Dažiem ierakstiem var trūkt raksturlielumu: tas nozīmē, ka tie ir nenozīmīgi vai nav piemērojami (sk. Radības bez raksturlielumiem).
-* **Dzīvības punkti (HP):** Parasti SIZ (izmēra) un CON (konstitūcijas) vidējais rādītājs; dažiem ierakstiem dzīvības punktus var aprēķināt citādi, piemēram, pēc POW (spēka) vai cita raksturlieluma. Pie 1 dzīvības punkta dzīva būtne ir bezsamaņā vai citādi rīcībnespējīga, un, kad tā sasniedz 0 vai mazāk, tā mirst.
-* **Kustības ātrums (MOV):** Vispirms ir norādīts galvenais pārvietošanās veids. Radībām, kas nekustas, nav MOV rādītāja.
-* **Bojājuma modifikators (DM):** Vidējais rādītājs vidējai radībai, ja tāds ir. Ja nepieciešams, pārrēķiniet lielākiem vai mazākiem eksemplāriem.
+* **Raksturlielumi:** Raksturlielumi ir uzrādīti gan kā izritināms diapazons, gan kā vidējais rādītājs (zemāk). Dažiem ierakstiem var trūkt raksturlielumu: tas vai nu nav būtiski, vai nav piemērojami (skatiet Būtnes bez raksturlielumiem).
+* **Dzīvības punkti (HP):** Parasti IZM un IZT vidējais rādītājs; dažiem ierakstiem dzīvības punktus var aprēķināt citādi, piemēram, pēc VAR vai cita raksturlieluma. Pie 1 dzīvības punkta dzīva būtne ir bezsamaņā vai citādi nespējīga, un, sasniedzot 0 vai mazāk, tā mirst.
+* **Kustības ātrums (KŪS):** Vispirms ir norādīts galvenais pārvietošanās veids. Būtnēm, kas nekustas, KŪS likmes nav.
+* **Bojājumu modifikators (BM):** Vidējais rādītājs vidējai būtnei, ja tāds ir. Pārrēķiniet, ja nepieciešams, lielākiem vai mazākiem eksemplāriem.
 * **Bruņas:** Bruņu vērtība un bruņu veids, ja tāds ir.
-* **Uzbrukumi:** Uzbrukuma veids, prasmju vērtējums un bojājuma rullējums. Uzbrukumiem "+dm" nozīmē, ka tas ir iekļauts, un "+½dm" ir gadījums, kad bojājuma modifikators tiek dalīts uz pusi. Šeit ir norādītas īpašas kaujas spējas vai apstākļi. Visi pieejamie uzbrukumi notiek vienā DEX (veiklības) rangā, ja vien nav norādīts citādi. Parasti nagu uzbrukums nodara 1D6+dm, bet kodums vai raga dūriens – 1D3+dm.
-* **Prasmes:** Visatbilstošākās prasmes vidējai tikšanās reizei. Neminētām prasmēm cilvēkiem pēc noklusējuma ir bāzes iespējas, un papildu prasmes spēles vadītājam jānosaka pēc vajadzības (sk. Prasmju vērtējumu mērīšana).
-* **Spējas:** Visas spējas, kas piemīt vidējam eksemplāram, ar nepieciešamības gadījumā norādītiem veidiem.
+* **Uzbrukumi:** Uzbrukuma veids, prasmes vērtējums un bojājumu metiens. Uzbrukumiem „+bm” nozīmē, ka tas ir iekļauts, un „+½bm” ir tad, kad bojājumu modifikators tiek samazināts uz pusi. Šeit ir atzīmētas īpašas kaujas spējas vai nosacījumi. Visi pieejamie uzbrukumi notiek tajā pašā VEI rangā, ja vien nav norādīts citādi. Parasti nagu uzbrukums nodara 1D6+bm, bet kodums vai raga dūriens — 1D3+bm.
+* **Prasmes:** Visatbilstošākās prasmes vidējai sastapšanās reizei. Neuzskaitīto prasmju gadījumā cilvēkiem pēc noklusējuma ir bāzes iespējas, un papildu prasmes spēles vadītājam jānosaka pēc vajadzības (skatiet Prasmju vērtējumu mērīšana).
+* **Spējas:** Jebkuras spējas, kas piemīt vidējam eksemplāram, ar nepieciešamības gadījumā norādītiem veidiem.
 
-Spēka punkti (Power points) nav uzskaitīti, bet attiecīgos gadījumos tie ir līdzvērtīgi POW.
+Spēka punkti nav uzskaitīti, taču tie ir līdzvērtīgi VAR, kur tas ir piemērojams.
 
-### Radības bez raksturlielumiem
+### Būtnes bez raksturlielumiem
 
-Dažām radībām noteiktu raksturlielumu vietā ir "—", kas nozīmē, ka tas nav piemērojams vai tā vērtība ir 0. Radību bez raksturlieluma nevar ietekmēt uzbrukumi pret šo raksturlielumu vai apstākļi, kas to ietekmē. Tālāk ir sniegtas vadlīnijas radībām, kurām trūkst noteiktu raksturlielumu:
+Dažām būtnēm dažu raksturlielumu vietā ir „—”, kas nozīmē, ka tas nav piemērojams vai tā vērtība ir 0. Būtni bez raksturlieluma nevar ietekmēt uzbrukumi pret šo raksturlielumu vai nosacījumi, kas ietekmē šo raksturlielumu. Tālāk ir sniegtas vadlīnijas būtnēm, kurām trūkst konkrētu raksturlielumu:
 
-* **Spēks (STR):** Radība bez STR nevar mijiedarboties ar fiziskiem objektiem, izņemot pārvietošanos ap tiem.
-* **Konstitūcija (CON):** Radība bez CON ir imūna pret slimībām, radiāciju, indi un citiem uzbrukumiem, kuriem nepieciešams pretestības rullējums pret CON. Tā nekad nav nogurusi vai izsmelta. Ja tai ir SIZ un fiziska klātbūtne, tās dzīvības punkti ir balstīti uz citu raksturlielumu.
-* **Izmērs (SIZ):** Radībai bez SIZ nav fiziska ķermeņa vai arī tas ir mikroskopisks. Tā parasti nevar mijiedarboties ar fiziskiem objektiem. Tās dzīvības punkti, visticamāk, ir balstīti uz CON, ja tai vispār ir kādi parastie dzīvības punkti.
-* **Inteliģence (INT):** Inteliģentām, saprātīgām radībām ir normāls INT diapazons, savukārt dzīvniekiem un citām nesaprātīgām radībām ir "fiksēts" INT, parasti 3–5, un tās vada instinkti, nevis saprāts. Radību ar fiksētu INT vai bez INT neietekmē spējas, kas ietekmē racionālu domāšanu, lai gan to var ietekmēt spējas, kas manipulē ar emocijām.
-* **Spēks (POW):** Pat bez POW radībai var būt spēka punkti, taču tā tos parasti nereģenerē. Tā vietā tai ir kāda spēja vai īpaša spēja, kas ļauj iegūt spēka punktus. Tāpat kā dzīvām radībām, kad tie sasniedz 0, tā ir "bezsamaņā", līdz kaut kā atgūst vismaz 1 spēka punktu.
-* **Veiklība (DEX):** Radība bez DEX ir vai nu nekustīga, vai arī būtībā stacionāra. Ja tai ir uzbrukums, tas notiek 1. DEX rangā.
-* **Harizma (CHA):** Lai gan visām radībām ir kāda CHA forma, tā reti ir nozīmīga tām, kas nav no vienas sugas. Ja nepieciešams, piešķiriet CHA, pamatojoties uz 1D6 vienkāršām un bezpersoniskām radībām, līdz 6D6+ būtnēm ar dievišķu skaistumu. Ja tas ir būtiski, uz laiku modificējiet radības CHA no citas sugas par –10, mijiedarbojoties ar tiem, kas ir ārpus tās sugas.
+* **Spēks (SPĒ):** Būtne bez SPĒ nevar mijiedarboties ar fiziskiem objektiem, izņemot pārvietošanos ap tiem.
+* **Izturība (IZT):** Būtne bez IZT ir imūna pret slimībām, radiāciju, indi un citiem uzbrukumiem, kam nepieciešams pretestības metiens pret IZT. Tā nekad nav nogurusi vai izsmelta. Ja tai ir IZM un materiāla klātbūtne, tās dzīvības punkti ir balstīti uz citu raksturlielumu.
+* **Izmērs (IZM):** Būtnei bez IZM trūkst fiziska ķermeņa vai arī tas ir mikroskopisks. Tā parasti nevar mijiedarboties ar fiziskiem objektiem. Tās dzīvības punkti, visticamāk, ir balstīti uz IZT, ja tai vispār ir kādi parasti dzīvības punkti.
+* **Inteliģence (INT):** Inteliģentām, saprātīgām būtnēm ir normāls INT diapazons, savukārt dzīvniekiem un citām nesaprātīgām būtnēm ir „fiksēts” INT, parasti 3–5 punktu vērtība, un tos vada instinkts, nevis saprāts. Būtni ar fiksētu INT vai bez INT neietekmē spējas, kas ietekmē racionālu domāšanu, lai gan to var ietekmēt spējas, kas manipulē ar emocijām.
+* **Vara (VAR):** Pat bez VAR būtnei joprojām var būt spēka punkti, taču tā tos parasti nereģenerē. Tā vietā tai ir kāda spēja vai īpaša spēja, kas ļauj iegūt spēka punktus. Tāpat kā dzīvas būtnes, kad tā sasniedz 0, tā ir „bezsamaņā”, līdz kaut kā atgūst vismaz 1 spēka punktu.
+* **Veiklība (VEI):** Būtne bez VEI ir vai nu nekustīga, vai arī būtībā stacionāra. Ja tai ir uzbrukums, tas notiek VEI 1. rangā.
+* **Harizma (HAR):** Lai gan visām būtnēm ir kāda HAR forma, tā reti ir nozīmīga tiem, kas nav vienas un tās pašas sugas. Ja nepieciešams, piešķiriet HAR, pamatojoties uz 1D6 vienkāršām un bez iezīmēm būtnēm, līdz pat 6D6+ būtnēm ar dievišķu skaistumu. Ja tas ir būtiski, īslaicīgi modificējiet citas sugas būtnes HAR par –10, mijiedarbojoties ar tiem, kas ir ārpus tās sugas.
 
-> ### Radības kā spēlētāju tēli (Opcija)
-> 
-> Spēlētāji var vēlēties izbaudīt spēli, spēlējot citu rasu pārstāvjus (šajā bestiārijā jebkuru citu rasi dēvē par "radību"), īpaši vidēs, kur tas ir piemērots, piemēram, fantāzijā vai zinātniskajā fantastikā. Vēlme spēlēt radikāli atšķirīgas radības no cilvēces ir dabisks lomu spēles mērķis, un, ja tas atbilst spēles vadītāja izvēlētajai videi, tas ir jāatļauj. Tomēr dažas radības ir vieglāk spēlēt nekā citas.
-> 
-> Nepilnīgas radības (tās, kurām nav vērtības vienā vai vairākos raksturlielumos) bieži vien ir pārāk ierobežotas, lai gūtu baudījumu. Turklāt spēlētājam var būt mazāk patīkami mēģināt spēlēt radību, kuras INT raksturlielums tiek ģenerēts ar rullējumu, kas mazāks par 3D6 (vai 2D6+6).
-> 
-> Spēles vadītājs var arī atturēt spēlētājus no mēģinājumiem spēlēt ārkārtīgi spēcīgas vai filozofiski nepievilcīgas būtnes, pamatojoties uz vidi un konkrēto kampaņu. Piemēram, fantāzijas vidē, kur vairums spēlētāju tēlu spēlē elfus, spēles vadītājs var neļaut spēlētājiem radīt troļļus vai pundurus, ņemot vērā konfliktus, ko šie (tradicionālie) elfu ienaidnieki ienesīs spēlētāju tēlu grupā. Turklāt moderna šausmu kampaņa, kurā spēlētāji cīnās ar okultiem draudiem, var būt pilnīgi nepiemērota dēmoniskam vai eņģeliskam spēlētāja tēlam (neskatoties uz to atbilstību videi). Tāpat, ja radība radītu nepamatotas grūtības tās dabas dēļ, piemēram, pārmērīga izmēra, sociālā naidīguma vai kultūras lomas dēļ, spēles vadītājam ir jāliedz spēlētājiem izvēlēties to kā spēlētāja tēla rasi. Visi šādi lēmumi ir spēles vadītāja ziņā, un spēlētājam ir jāvaicā spēles vadītājam, vai kampaņā ir atļauts izmantot konkrētu radības veidu.
-> 
-> Neraugoties uz šiem brīdinājumiem, visas šīs nodaļas radības ir parādītas ar tik detalizētu informāciju, cik nepieciešams izmantošanai kā spēlētāja tēlam, lai gan spēles vadītājs var vēlēties paplašināt šos ierakstus, lai tie atbilstu konkrētajai videi un kampaņai. Vairumā gadījumu tiek pieņemts, ka šī statistika atspoguļo pilnībā izaugušas vai nobriedušas radības versijas, kas nozīmē, ka spēles vadītājam vajadzētu būt iespējai ierobežot spēlētāja tēla versijai pieejamo spēju diapazonu, ar pieņēmumu, ka ar laiku spēlētāja tēla radība var apgūt šīs papildu spējas un īpašās dotības.
-> 
-> Lai izlemtu, vai konkrētā radība ir piemērota kampaņai kā spēlētāja tēls, spēles vadītājam jāuzdod trīs jautājumi:
-> 
-> * **Vai šīs radības spēlētāja tēla versija ir nepiemērota kampaņas videi?**
-> 
-> * **Vai šī radība radīs grūtības citiem spēlētājiem kampaņas gaitā?**
-> 
-> * **Vai šī radība izjauks pārējās kampaņas līdzsvaru?**
-> 
-> Ja atbilde uz kādu no šiem jautājumiem ir "Jā", spēles vadītājam ieteicams liegt radības izmantošanu kā spēlētāja tēlam, vai arī to darīt ar visstingrākajiem nosacījumiem vai īpašiem atvieglojumiem.
+> ### Būtnes kā spēlētāju tēli (opcija)
+>
+> Spēlētāji var vēlēties piedzīvot spēli, iejūtoties necilvēcīgu rasu lomās (šajā bestiārijā katru necilvēku sauc par „būtni”), īpaši vidēs, kur tās ir piemērotas, piemēram, fantāzijā vai zinātniskajā fantastikā. Vēlme spēlēt radikāli atšķirīgas būtnes no cilvēces ir dabisks lomu spēles mērķis, un, ja tas atbilst spēles vadītāja izvēlētajai videi, tas ir jāatļauj. Tomēr dažas būtnes ir vieglāk spēlēt nekā citas.
+>
+> Nepilnīgas būtnes (tās, kurām nav vērtības vienā vai vairākos raksturlielumos) bieži ir pārāk ierobežotas, lai gūtu baudījumu. Turklāt spēlētājam var būt mazāk patīkami mēģināt spēlēt būtni, kuras INT raksturlielums tiek ģenerēts ar metienu, kas mazāks par 3D6 (vai 2D6+6).
+>
+> Spēles vadītājs var arī atturēt spēlētājus no mēģinājumiem spēlēt ārkārtīgi spēcīgas vai filozofiski nepievilcīgas būtnes, pamatojoties uz vidi un konkrēto kampaņu. Piemēram, fantāzijas vidē, kur vairums spēlētāju tēlu ir elfi, spēles vadītājs var neatļaut spēlētājiem izveidot troļļu vai punduru tēlus dēļ nesaskaņām, ko šie (tradicionālie) elfu ienaidnieki ienesīs spēlētāju tēlu grupā. Turklāt moderna šausmu kampaņa, kurā spēlētāji cīnās ar okultiem draudiem, var būt pilnīgi nepiemērota dēmoniskam vai eņģeliskam spēlētāja tēlam (neskatoties uz to piemērotību videi). Tāpat, ja būtne radītu nepamatotas grūtības tās dabas dēļ, piemēram, pārmērīga izmēra, sociāla naidīguma vai kultūras lomas dēļ, spēles vadītājam vajadzētu liegt spēlētājiem izvēlēties to kā spēlētāja tēla rasi. Visi šādi lēmumi ir atkarīgi no spēles vadītāja ieskatiem, un spēlētājam ir jāprasa spēles vadītājam, vai kampaņā ir atļauts spēlēt konkrētu būtnes veidu.
+>
+> Neskatoties uz šiem brīdinājumiem, visas šīs nodaļas būtnes ir prezentētas tik detalizēti, cik nepieciešams izmantošanai kā spēlētāja tēls, lai gan spēles vadītājs var vēlēties paplašināt šos ierakstus, lai tie atbilstu viņa konkrētajai videi un kampaņai. Vairumā gadījumu tiek pieņemts, ka šī statistika atspoguļo būtņu pilnībā izaugušas vai nobriedušas versijas, kas nozīmē, ka spēles vadītājam vajadzētu spēt ierobežot spējas, kas pieejamas spēlētāja tēla versijai, pieņemot, ka ar laiku spēlētāja tēls var apgūt šīs papildu spējas un īpašās dotības.
+>
+> Lai izvēlētos, vai konkrēta būtne ir piemērota kampaņai kā spēlētāja tēls, spēles vadītājam vajadzētu uzdot trīs jautājumus:
+>
+> * **Vai šīs būtnes spēlētāja tēla versija ir nepiemērota kampaņas videi?**
+>
+> * **Vai šī būtne radīs grūtības citiem spēlētājiem kampaņas gaitā?**
+>
+> * **Vai šī būtne izjauks kampaņas līdzsvaru?**
+>
+> Ja atbilde uz kādu no šiem jautājumiem ir „Jā”, spēles vadītājam ieteicams liegt šo būtni izmantot kā spēlētāja tēlu vai darīt to ar visstingrākajiem nosacījumiem vai īpašiem atvieglojumiem.
 
-> ### Saprāta zudums un radības
-> 
-> Šajā nodaļā ir daudz radību, kas var izraisīt tēlu saprāta (SAN) zudumu, ja tās tiek ieraudzītas (sk. Saprāts). Šādas radības var izraisīt šādus SAN zudumus, kad tiek veikts saprāta rullējums.
-> 
-> | Radība | SAN Rullējums veiksmīgs | SAN Rullējums neveiksmīgs |
+
+> ### Saprāta zudums un būtnes
+>
+> Šajā nodaļā ir iekļautas daudzas būtnes, kas var izraisīt tēlu saprāta zudumu, ja tās tiek redzētas (skatiet Saprāts). Tālāk norādītās būtnes var izraisīt šos SAP zudumus, kad tiek veikts saprāta metiens.
+>
+> | Būtne | SAP metiens veiksmīgs | SAP metiens neveiksmīgs |
 > | :---- | :---- | :---- |
 > | Citplanētietis, Pelēkais | 0 | –1D6 |
 > | Citplanētietis, Ksenomorfs | 1 | –1D8 |
-> | Eņģelis | 0 (vai +1D3 SAN) | –1D3 |
-> | Pļeka (Blob) | 1 | –1D20 |
+> | Eņģelis | 0 (vai +1D3 SAP) | –1D3 |
+> | Bobs | 1 | –1D20 |
 > | Kiborgs (Grotesks) | 0 | –1D4 |
 > | Dēmons, Lielais | 1D3 | –2D6 |
 > | Dēmons, Mazais | 1 | –1D6 |
@@ -76,894 +77,907 @@ Dažām radībām noteiktu raksturlielumu vietā ir "—", kas nozīmē, ka tas 
 > | Vampīrs | 1 | –1D4 (vai vairāk) |
 > | Vilkatis | 0 | –1D8 |
 > | Zombijs | 1 | –1D8 |
-> 
-> Dažas dabiskas radības var izraisīt SAN zudumu atkarībā no apstākļiem. SAN zudums ir atkarīgs arī no vides, jo pārdabiskas radības fantāzijas vidē nav nekas neparasts.
+>
+> Daži dabiski radījumi var izraisīt SAP zudumu atkarībā no apstākļiem. SAP zudums ir atkarīgs arī no vides, jo pārdabiskas būtnes fantāzijas vidē nav nekas neparasts.
 
 ## Dabiskie dzīvnieki
 
-Šīs radības lielākajai daļai spēlētāju ir pazīstamas, tāpēc to aprakstos galvenā uzmanība pievērsta spēles mehānikai. Tie atspoguļo vispārīgus piemērus, nevis konkrētas šķirnes vai sugas, un tos var modificēt pēc vēlēšanās.
+Šīs būtnes ir pazīstamas vairumam spēlētāju, tāpēc to apraksti koncentrējas tikai uz spēles mehāniku. Tie pārstāv vispārīgus piemērus, nevis konkrētas šķirnes vai sugas, un tos var modificēt pēc vēlēšanās.
 
-##### Dabiskās radības
+##### Dabiskās būtnes
 
-| Nosaukums | STR | CON | SIZ | POW | DEX | MOV | Bruņas | HP | DM | Uzbrukums un %, Bojājums | Prasmes |
+| Vārds | SPĒ | IZT | IZM | VAR | VEI | KŪS | Bruņas | HP | BM | Uzbrukums un %, Bojājums | Prasmes |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
-| Aligators vai Krokodils | 4D6+12 25 | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Staigāt 7 Peldēt 6 | 5 pt. āda | 22 | +2D6 | Kodums 50%, 1D10+dm | Izvairīties 30%, Paslēpties 50%, Meklēt 35%, Sajušana 30%, Slēpties 75%, Sekot 15% |
-| Lācis | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Staigāt 12 Peldēt 2 | 3 pt. kažoks | 17 | +2D6 | Kodums 25%, 1D10; Naga 25%, 1D6+dm | Kāpt 35%, Pārvietoties klusi 35%, Meklēt 35%, Sajušana 35% |
-| Brontozaurs | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Staigāt 7 | 14 pt. āda | 57 | +7D6 | Astes cirtiens 50%, 1D6+½dm; Samīšana 75%, 7D6+dm | Klausīties 35%, Sajušana 30%, Pamanīt 35% |
-| Kondors, Ērglis u.c. | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Lidot 14 Staigāt 2 | 1 pt. spalvas | 14 | +1D6 | Kodums 45%, 1D6; Naga 45%, 1D6+dm | Izvairīties 50%, Sajušana 25%, Meklēt 90% |
-| Suns | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Staigāt 10 Peldēt 6 | — | 7–8 | –1D4 | Kodums 30%, 1D6+½dm | Izvairīties 55%, Klausīties 75%, Sajušana 90% |
-| Zilonis | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Staigāt 10 Peldēt 2 | 4 pt. āda | 45 | +6D6 | Samīšana 50%, 4D6+dm; Trieciens 25%, 6D6+dm; Snābis 50%, savilkšana; Ragiem 25%, 2D6+dm | Klausīties 65%, Meklēt 35%, Sajušana 55% |
-| Gorila | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Staigāt 12 Peldēt 2 | 3 pt. kažoks | 16 | +2D6 | Kodums 45%, 2D6; Cīkšanās 45%, 3D6+dm | Kāpt 70%, Paslēpties 40%, Klausīties 35%, Pārvietoties klusi 60%, Meklēt 30%, Sajušana 40% |
-| Vanags | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Lidot 12 Staigāt 1 | — | 4 | –1D6 | Naga 45%, 1D4+dm | Izvairīties 75%, Pamanīt 100% |
-| Zirgs | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Staigāt 12 Peldēt 2 | 1 pt. āda | 20 | +2D6 | Spertiens 20%, 2D8+dm; Trieciens 10%, 2D6+dm; Kodums 10%, 1D6 | Izvairīties 45%, Paslēpties 25%, Pārvietoties klusi 25%, Sajušana 80% |
-| Kukaiņu bars | — | — | — | — | — | Lidot 12 Staigāt 10 | — | — | — | Skatīt aprakstu | Meklēt 50% |
-| Lauva | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Staigāt 10 Peldēt 2 | 2 pt. āda | 14 | +1D6 | Kodums 40%, 1D10; Naga 60%, 1D6+dm; Plosīšana 80%, 2D6+dm | Izvairīties 20%, Paslēpties 20%, Klausīties 30%, Sajušana 40%, Sekot 15% |
-| Žurku bars | — | — | — | — | — | Staigāt 10 Peldēt 6 | — | — | — | Baros x5%, 1D3 bojājums | Kāpt 75%, Meklēt 75%, Peldēt 75% |
-| Haizivs | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Peldēt 10 | 5 pt. āda | 19-20 | +2D6 | Kodums 75%, 2D6+dm; Spuras cirtiens 50%, 2D3+½dm | Sajušana 95%, Peldēt 100% |
-| Čūska (Žņaudzējčūska) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Šļūkt 6 Peldēt 4 | 1 pt. āda | 15–16 | +1D6 | Kodums 65%, 1D4+½dm; Žņaugt 40%, 1D6+dm; Norīt 100%, īpašs | Kāpt 85%, Izvairīties 60%, Paslēpties 75%, Sajušana 75%, Slēpties 90%, Peldēt 70% |
-| Čūska (Indīgā) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Šļūkt 6 Peldēt 4 | — | 6 | –1D6 | Kodums 70%, 1D2+½dm (caurduršana) + inde | Kāpt 50%, Izvairīties 50%, Paslēpties 80%, Sajušana 65%, Slēpties 90%, Peldēt 70% |
-| Kalmārs (Milzu) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Peldēt 10 'Staigāt' 4 | 2 pt. āda | 24 | +3D6 | Knābis 45%, 1D10+½dm + inde; Tausteklis 45%, 1D6+dm | Paslēpties 70%, Peldēt 100% |
-| Tīģeris | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Staigāt 12 | 2 pt. āda | 13–14 | +1D6 | Kodums 45%, 1D10+½dm; Naga 70%, 1D8+dm; Plosīšana 80%, 2D8+dm | Izvairīties 45%, Paslēpties 80%, Lēkt 55%, Slēpties 75%, Sajušana 70%, Sekot 50% |
-| Tiranozaurs Rekss | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Staigāt 12 | 10 pt. āda | 44 | +6D6 | Kodums 50%, 2D6+dm; Priekšnaga 35%, 1D4+½dm; Spertiens 45%, 1D6+dm | Lēkt 50%, Klausīties 45%, Sajušana 35%, Pamanīt 50%, Sekot 50% |
-| Vilks | 2D6+6 13 | 3D6 10–11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Staigāt 10 | 2 pt. kažoks | 9–10 | — | Kodums 30%, 1D8+½dm | Izvairīties 35%, Klausīties 75%, Sajušana 90%, Pamanīt 60%, Sekot 80% |
+| Aligators vai Krokodils | 4D6+12 25v | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Iet 7 Peld 6 | 5 pt. āda | 22 | +2D6 | Kodums 50%, 1D10+bm | Izvairīšanās 30%, Slēpšanās 50%, Meklēšana 35%, Sajūtas 30%, Maskēšanās 75%, Pēdošana 15% |
+| Lācis | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Iet 12 Peld 2 | 3 pt. kažoks | 17 | +2D6 | Kodums 25%, 1D10; Nags 25%, 1D6+bm | Kāpšana 35%, Klusa kustība 35%, Meklēšana 35%, Sajūtas 35% |
+| Brontozaurs | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Iet 7 | 14 pt. āda | 57 | +7D6 | Astes vēziens 50%, 1D6+½bm; Samīdīšana 75%, 7D6+bm | Klausīšanās 35%, Sajūtas 30%, Pamanīšana 35% |
+| Kondors, Ērglis utt. | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Lidot 14 Iet 2 | 1 pt. spalvas | 14 | +1D6 | Kodums 45%, 1D6; Nags 45%, 1D6+bm | Izvairīšanās 50%, Sajūtas 25%, Meklēšana 90% |
+| Suns | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Iet 10 Peld 6 | — | 7–8 | –1D4 | Kodums 30%, 1D6+½bm | Izvairīšanās 55%, Klausīšanās 75%, Sajūtas 90% |
+| Zilonis | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Iet 10 Peld 2 | 4-pt. āda | 45 | +6D6 | Samīdīšana 50%, 4D6+bm; Trieciens 25%, 6D6+bm; Snīpis 50%, saspiešana; Rags 25%, 2D6+bm | Klausīšanās 65%, Meklēšana 35%, Sajūtas 55% |
+| Gorilla | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Iet 12 Peld 2 | 3-pt. kažoks | 16 | +2D6 | Kodums 45%, 2D6; Cīkšanās 45%, 3D6+bm | Kāpšana 70%, Slēpšanās 40%, Klausīšanās 35%, Klusa kustība 60%, Meklēšana 30%, Sajūtas 40% |
+| Vanags | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Lidot 12 Iet 1 | — | 4 | –1D6 | Nags 45%, 1D4+bm | Izvairīšanās 75%, Pamanīšana 100% |
+| Zirgs | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Iet 12 Peld 2 | 1-pt. āda | 20 | +2D6 | Spēriens 20%, 2D8+bm; Trieciens 10%, 2D6+bm; Kodums 10%, 1D6 | Izvairīšanās 45%, Slēpšanās 25%, Klusa kustība 25%, Sajūtas 80% |
+| Kukaiņu bars | — | — | — | — | — | Lidot 12 Iet 10 | — | — | — | Skatīt aprakstu. | Meklēšana 50% |
+| Lauva | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Iet 10 Peld 2 | 2-pt. āda | 14 | +1D6 | Kodums 40%, 1D10; Nags 60%, 1D6+bm; Plēšana 80%, 2D6+bm | Izvairīšanās 20%, Slēpšanās 20%, Klausīšanās 30%, Sajūtas 40%, Pēdošana 15% |
+| Žurku bars | — | — | — | — | — | Iet 10 Peld 6 | — | — | — | # baru × 5%, 1D3 bojājums | Kāpšana 75%, Meklēšana 75%, Peldēšana 75% |
+| Haizivs | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Peld 10 | 5-pt āda | 19-20 | +2D6 | Kodums 75%, 2D6+bm; Spuras cirtiens 50%, 2D3+½bm | Sajūtas 95%, Peldēšana 100% |
+| Čūska (Žņaudzējčūska) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Slīdēt 6 Peld 4 | 1-pt. āda | 15–16 | +1D6 | Kodums 65%, 1D4+½bm; Žņaugšana 40%, 1D6+bm; Norīšana 100%, īpašs | Kāpšana 85%, Izvairīšanās 60%, Slēpšanās 75%, Sajūtas 75%, Maskēšanās 90%, Peldēšana 70% |
+| Čūska (Indīga) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Slīdēt 6 Peld 4 | — | 6 | –1D6 | Kodums 70%, 1D2+½bm (caurdurošs) + inde. | Kāpšana 50%, Izvairīšanās 50%, Slēpšanās 80%, Sajūtas 65%, Maskēšanās 90%, Peldēšana 70% |
+| Kalmārs (Milzu) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Peld 10 „Iet” 4 | 2-pt. āda | 24 | +3D6 | Knābis 45%, 1D10+½bm + inde; Tausteklis 45%, 1D6+bm | Slēpšanās 70%, Peldēšana 100% |
+| Tīģeris | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Iet 12 | 2-pt. āda | 13–14/ | +1D6 | Kodums 45%, 1D10+½bm; Nags 70%, 1D8+bm; Plēšana 80%, 2D8+bm | Izvairīšanās 45%, Slēpšanās 80%, Lēkšana 55%, Maskēšanās 75%, Sajūtas 70%, Pēdošana 50% |
+| Tiranozaurs Rekss | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Iet 12 | 10-pt. āda | 44/ | +6D6 | Kodums 50%, 2D6+bm; Priekšnags 35%, 1D4+½bm; Spēriens 45%, 1D6+bm | Lēkšana 50%, Klausīšanās 45%, Sajūtas 35%, Pamanīšana 50%, Pēdošana 50% |
+| Vilks | 2D6+6 13 | 3D6 10-11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Iet 10 | 2-pt. kažoks | 9–10 | — | Kodums 30%, 1D8+½bm | Izvairīšanās 35%, Klausīšanās 75%, Sajūtas 90%, Pamanīšana 60%, Pēdošana 80% |
 
 ### Piezīmes par dabiskajiem dzīvniekiem
 
-Lielākajai daļai dabisko dzīvnieku ir rudimentāra inteliģence (INT 3–5), tie reti cīnās līdz nāvei un parasti uzvedas teritoriāli. Ja jebkuram uzbrukumam tiek izmests īpašs panākums, kodumi un nagi rada grieztas brūces (reti caurdurošas), taustekļi un žņaugšana rada sapīšanos un saspiešanu, samīšana vai spērieni rada saspiešanu un potenciāli atgrūšanu (pamatojoties uz radības SIZ). Radībām ar indi tas ir apskatīts **Indes** 7. nodaļā: Spot Rules. Uzbrukumi ir sakārtoti pēc izvēles secības. Radībām bez Izvairīšanās prasmes vai nu nav iespējams izvairīties, vai arī šī prasme nav piemērojama. Bojājuma modifikatori ir vidējie; modificējiet, ja STR vai SIZ to norāda.
+Vairumam dabisko dzīvnieku ir rudimentāra inteliģence (INT 3–5), tie reti cīnās līdz nāvei un parasti ir teritoriāli. Ja jebkuram uzbrukumam tiek izmests īpašs panākums, kodumi un nagi ir plosoši (reti caurduroši), taustekļi un žņaugšana ir satveroša un saspiežoša, samīdīšana vai spērieni ir saspiežoši un potenciāli rada atsitienu (pamatojoties uz būtnes IZM). Būtnēm ar indi tas ir apskatīts **Indes** 7. nodaļā: Punkta noteikumi. Uzbrukumi ir uzrādīti priekšrocību secībā. Būtnes bez Izvairīšanās prasmes vai nu neizvairās, vai arī šī prasme nav piemērojama. Bojājumu modifikatori ir vidēji; modificējiet, ja SPĒ vai IZM to norāda.
 
-*   **Aligators vai Krokodils:** Aligatori ir mazāki un vājāki (–1D6 STR un SIZ), tiem ir mazāki žokļi (1D8+dm), un tie ir mazāk agresīvi nekā krokodili.
-*   **Lācis:** Lāči vienā raundā var uzbrukt divreiz, izmantojot vai nu divus atsevišķus nagu uzbrukumus, vai vienu nagu un vienu koduma uzbrukumu. Grizli ir lielāki, spēcīgāki (STR +1D6, CON +2, SIZ +2, +1 bruņas) un niknāki (+10% kaujas prasmēm). Polārlāči ir lielāki un spēcīgāki (STR +2D6, CON +1D6+2, SIZ +2D6, +3 bruņas, +20% uzbrukuma prasmēm, Peldēt 80%).
-*   **Brontozaurs:** Brontozauri vienā raundā var uzbrukt vienreiz, izmantojot astes cirtienu vai samīšanu, ja tie pārvietojas. Astes cirtiens ir zonas ietekmes uzbrukums. Samīšana tiek izmantota tikai pret mērķiem, kas ir nomesti zemē vai kuru SIZ ir mazāks par 1/3 no brontozaura SIZ.
-*   **Suns:** Savvaļas suņi veido barus 1D8+3 vai vairāk. Lielākiem suņiem izmantojiet vilka statistiku.
-*   **Zilonis:** Lai gan tie dod priekšroku vienkārši uzbrukt vai samīdīt, zilonis var uzbrukt ar snābi. Ja tas notiek, bojājumi netiek nodarīti. Tā vietā mērķim ir jāveic STR pretestības rullējums pret pusi ziloņa STR. Ja tas neizdodas, mērķis tiek novietots pozīcijā, lai nākamajā raundā tiktu automātiski samīts. Alternatīvi, zilonis var aizsviest upuri, nodarot kritiena bojājumus, pamatojoties uz vienu metru uz katriem 3 ziloņa STR punktiem. Par katriem 6 SIZ punktiem, kas upurim pārsniedz 16, tie krīt divus metrus tuvāk un nodara mazākus bojājumus.
-*   **Gorila:** Gorila vienā raundā var uzbrukt divreiz. Tā var sist divreiz ar dūrēm, kost un sist, vai kost un cīnīties. Ja cīņa ir veiksmīga, tā satver mērķi un katrā raundā nodara pilnu bojājuma modifikatoru. Cīņas laikā tā var turpināt kost, kas ir Ērts uzbrukums. Mātītes ir mazākas par tēviņiem (–1D6 STR un SIZ).
-*   **Vanags:** Vanags uzbrūk ar abiem nagiem vienlaikus un kož 5 rangus vēlāk.
-*   **Zirgs:** Zirgi, kas nav apmācīti kaujai, bēg, saskaroties ar asinīm, uguni, šāvieniem, kliedzieniem vai sprādzieniem. Kara zirgi ir apmācīti vardarbībai un turas savā vietā, ja jātnieks gūst panākumus Jāšanas pārbaudē. Kara zirgi parasti tiek audzēti izturībai (+2 STR, CON un SIZ).
-*   **Kukaiņu bars:** Bara lielums nosaka dzēlienu skaitu katrā raundā. Sīka lapseņu ligzda var sadzelt 1D6 reizes raundā, palielinoties līdz milzīgam bišu stropam vai skudru pūznim, kas veic 8D6. Kauliņa veidu var pielāgot atkarībā no indes smaguma (1 punkts par nelielu kairinājumu līdz D10 par mežonīgiem plēsīgiem kukaiņiem). Katrs tēls, kuram uzbrūk bars, tiek automātiski sadzelts rullēto reižu skaitu katrā kaujas raundā, līdz viņi aizbēg, atvaira vai iznīcina baru. Kukaiņu bars uzbrūk 2D6 kaujas raundus pirms atkāpšanās. Ja mērķi nav pilnībā nosegti vai noslēgti, aizsardzības pret kukaiņu baru nav. Grūts Izvairīšanās rullējums var palīdzēt izvairīties no kukaiņu bara, vai arī var izmantot citus līdzekļus (uguni, dūmus, indi utt.), lai tos padzītu. Jebkāds aizsargapģērbs, ko tēls valkā, samazinās dzēlienu skaitu uz D6: viegls apģērbs samazina katru kauliņu par –1, biškopja apģērbs par –4, bet pilnīga segšana nozīmē, ka dzēlienu vispār nav. Kad upuris ir sadzelts, indes faktors ir atkarīgs no kukaiņu veida: bitēm tas ir 20, lapsenēm 15, skudrām 10. Daliet kopējo dzēlienu skaitu ar indes faktoru, lai iegūtu indes iedarbīgumu (POT). Pēc 1D6 stundām katram sadzeltajam tēlam ir jāveic CON pretestības rullējums pret indes POT. Ja tas ir veiksmīgs, viņi pretojas indes POT un saņem pusi no indes POT (noapaļojot uz augšu) dzīvības punktu zaudējumu. Ja viņi neiztur pretestības rullējumu, viņi saņem pilnu indes iedarbīgumu dzīvības punktu zaudējumos. Veiksmīga iejaukšanās ar pretindi vai ekvivalentu ārstēšanu var samazināt dzēlienu skaitu par vēl 1D4–1 uz 1D6, ar veiksmīgu Pirmās palīdzības rullējumu un pienācīgiem medicīnas piederumiem. Tēls ar veiksmīgu Pirmās palīdzības pārbaudi var veikt otru Grūtu Ķīmijas rullējumu, lai improvizētu pretindi no pieejamajām ķimikālijām vai vielām (sk. **Indes pretlīdzekļi**).
-*   **Lauva:** Lauva katrā kaujas raundā var veikt vienu nagu uzbrukumu un vienu koduma uzbrukumu. Ja abi uzbrukumi ir veiksmīgi, lauva ieķeras nākamajam raundam, turpinot kost. Tā vietā, lai skrāpētu, tā plosa ar pakaļkāju nagiem.
-*   **Žurku bars:** Katrs "bars" sastāv no desmit žurkām. Reiziniet žurku baru skaitu ar x5: šis rezultāts ir uzbrukuma iespēja katram baram katrā kaujas raundā (rullējiet katram baram). Katrs veiksmīgs uzbrukums nodara 1D3 bojājumu kāju un/vai vēdera trāpījumu zonām (ja tiek izmantotas trāpījumu zonas). Īpaši panākumi rada grieztus bojājumus. Žurku bara uzbrukumu var Izvairīties, bet ne atvairīt. Uzbrukumi pret tiem ir Grūti, taču veiksmīgs uzbrukums automātiski nogalina vienu žurku un aizdzen pārējo baru, samazinot turpmāko uzbrukumu efektivitāti. Žurku kodumi var būt arī inficēti (sk. Slimība).
-*   **Haizivs:** Ja haizivs kodums netrāpa vai no tā tiek izvairīties, tā 5 DEX rangus vēlāk mēģina veikt spuras cirtienu. Ja haizivs kodums tiek atvairīts vai trāpa, tā nemēģina veikt spuras cirtienu. Pēc veiksmīga koduma uzbrukuma dažas haizivis (piemēram, lielās baltās) turpina kost un plosīties turpmākos kaujas raundos (Ērts uzbrukums ar tādu pašu bojājumu), līdz tās tiek atbrīvotas vai mērķis nomirst. Milzu haizivij ir STR un SIZ 6D6+24, CON 4D6+18, 39 dzīvības punkti un +5D6 bojājuma modifikators.
-*   **Čūska (Žņaudzējčūska):** Žņaudzējčūska kaujas raundā var uzbrukt divreiz, vispirms kožot un pēc tam 5 DEX rangus vēlāk mēģinot žņaugt. Ja žņaugšanas uzbrukums trāpa, mērķis tiek ietīts čūskas spirālēs. Mērķis var elst, bet nevar kliegt vai saukt. Katrs žņaugšanas raunds nodara bojājumus mērķa dzīvības punktiem (krūškurvja trāpījuma zona). Tikai stingras krūškurvja bruņas (ja tiek izmantotas bruņas pēc trāpījuma zonas) samazina šo bojājumu. Ja ekstremitāte ir brīva, mērķis var veikt Grūtus uzbrukumus pret žņaudzējčūsku. Ja neviena ekstremitāte nav brīva, mērķis vairumā gadījumu nevar uzbrukt (spēles vadītāja ziņā). Lai pilnībā atbrīvotos no žņaugšanas, mērķim ir jāveic veiksmīgs STR pretestības rullējums pret čūskas STR, nevis jāuzbrūk raundā. Daļējai brīvībai Grūts Veiklības rullējums atbrīvo vienu roku vai citu ekstremitāti. Žņaugtam mērķim ir jāiztur Izturības rullējums, citādi tas zaudē samaņu. Kad mērķis ir bezsamaņā vai miris, žņaudzējčūska to norij veselu. Ja vien netiek valkāts elpošanas aparāts, kas izdzīvoja saspiešanu, mērķis nosmok. Milzu žņaudzējčūska pievieno +2D6 pie STR un SIZ, tai ir 19 dzīvības punkti, +2D6 bojājuma modifikators un 4 punktu zvīņaina āda.
-*   **Čūska (Indīgā):** Skatiet sadaļas par **Indēm** un **Indes paraugiem**, lai iegūtu vairāk informācijas par dažādiem indīgo čūsku veidiem. Milzu indīgajai čūskai ir STR un SIZ 4D6+12, 17 dzīvības punkti un +2D6 bojājuma modifikators.
-*   **Kalmārs (Milzu):** Kalmārs var uzbrukt līdz pat pieciem dažādiem mērķiem vienlaikus ar savu knābi un desmit taustekļiem. Kalmāra indei ir POT, kas līdzvērtīgs tā CON. Pirmais tausteklis, kas veiksmīgi trāpa mērķim, ieķeras tajā, un, kad pievienojas otrs, abi saspiež mērķi, līdz mērķis var aizbēgt vai atbrīvoties (katram tausteklim ir 2 dzīvības punkti). Katrs tausteklis, kas paliek ap mērķi, katrā kaujas raundā nodara normālus bojājumus. Lai aizbēgtu no taustekļa, jāveic veiksmīgs STR pretestības rullējums pret kalmāra STR, vai Grūts Pūļu rullējums, lai atbrīvotu roku uzbrukumam. Uzbrukumi pret kalmāru, kamēr to tur tā taustekļi, ir Grūti. Leviatāna izmēra kalmārs, kas spēj stāties pretī laivām un vaļiem, ir SIZ un STR +1D6 uz katru metru no palielinātā attāluma no taustekļa gala līdz galam, attiecīgi palielinot dzīvības punktus un bojājuma modifikatoru.
-*   **Tīģeris:** Tīģeris katrā kaujas raundā var veikt divus nagu uzbrukumus un vienu koduma uzbrukumu. Kodums notiek 5 DEX rangus pēc nagu uzbrukumiem. Ja abi nagi veiksmīgi trāpa mērķim, tīģeris ieķeras un nākamajā raundā plosa ar pakaļkāju nagiem, turpinot kost.
-*   **Tiranozaurs Rekss:** Tiranozaurs vispirms uzbrūk ar kodumu. Ja tas ir veiksmīgs, 5 DEX rangus vēlāk tas uzbrūk ar abām priekšnagām, lai satvertu mērķi turpmākai plosīšanai. Lielākiem mērķiem tas priekšnagu uzbrukumus aizstāj ar vienu spertiens uzbrukumu, dažreiz pat uzkāpjot uz mērķa un nākamajā kaujas raundā uzbrūkot ar kodumu un diviem spertiens.
-*   **Vilks:** Vilki medī baros, sākot no ducis līdz 40 vai vairāk. Kaujā vilki bieži cīnās kooperatīvi. Vairāki vilki var uzbrukt vienam un tam pašam mērķim vienlaikus, nodrošinot, ka daži netiek atvairīti vai Izvairīti. Viens vai divi lieli vilki var mēģināt nogāzt savu mērķi (sk. Nogāšana). Kad mērķis ir nomests, citi metas viņu plosīt. Spēles vadītājs var izmantot šo statistiku arī, lai atspoguļotu lielu suni.
+**Aligators vai Krokodils:** Aligatori ir mazāki un vājāki (–1D6 pie SPĒ un IZM), tiem ir mazāki žokļi (1D8+bm), un tie ir mazāk agresīvi nekā krokodili.
 
-## Fantāzijas radības
+**Lācis:** Lāči var uzbrukt divreiz raundā, izmantojot vai nu divus atsevišķus nagu uzbrukumus, vai vienu nagu un vienu kodiena uzbrukumu. Grizliji ir lielāki, spēcīgāki (SPĒ +1D6, IZT +2, IZM +2, +1 bruņas) un niknāki (+10% pie kaujas prasmēm). Polārlāči ir lielāki un jaudīgāki (SPĒ +2D6, IZT +1D6+2, IZM +2D6, +3 bruņas, +20% pie uzbrukuma prasmēm, Peldēšana 80%).
 
-Šīs radības ir izplatītas fantāzijas un šausmu vidēs, un tās var izmantot kā sabiedrotos, ienaidniekus vai pat spēlētāju tēlus, modificējot pēc vēlēšanās.
+**Brontozaurs:** Brontozauri var uzbrukt reizi raundā, izmantojot astes vēzienu vai samīdīšanu, ja tie pārvietojas. Astes vēziens ir apgabala iedarbības slaucīšanas uzbrukums. Samīdīšana tiek izmantota tikai pret mērķiem, kas atrodas uz zemes vai kuru IZM ir mazāks par 1/3 no brontozaura IZM.
+
+**Suns:** Savvaļas suņi veido barus pa 1D8+3 vai vairāk. Lielākiem suņiem izmantojiet vilku statistiku.
+
+**Zilonis:** Lai gan tie dod priekšroku vienkārši uzbrukt vai samīdīt, zilonis var uzbrukt ar snīpi. Ja tā, bojājumi netiek nodarīti. Tā vietā mērķim ir jāveic pretestības metiens ar savu SPĒ pret pusi no ziloņa SPĒ. Ja tas neizdodas, tie tiek novietoti pozīcijā, lai nākamajā raundā automātiski tiktu samīdīti. Alternatīvi, zilonis var aizsviest upuri prom, nodarot kritiena bojājumus, pamatojoties uz vienu metru uz katriem 3 ziloņa SPĒ punktiem. Par katriem 6 IZM punktiem, kas upurim ir virs 16, tie nokrīt divus metrus tuvāk un gūst mazākus bojājumus.
+
+**Gorilla:** Gorilla var uzbrukt divreiz katrā raundā. Tā var sist divreiz ar dūrēm, kost un sist, vai kost un cīnīties. Ja cīkšanās izdodas, tā satver savu mērķi un katrā raundā nodara pilnu bojājumu modifikatoru. Cīņas laikā tā var turpināt kost, kas ir Viegla uzbrukuma darbība. Mātītes gorillām ir mazākas par tēviņiem (–1D6 pie SPĒ un IZM).
+
+**Vanags:** Vanags uzbrūk ar abiem nagiem vienlaikus un kož 5 VEI rangus vēlāk.
+
+**Zirgs:** Zirgi, kas nav apmācīti kaujai, bēg, saskaroties ar asinīm, uguni, šāvieniem, kliedzieniem vai sprādzieniem. Kara zirgi ir apmācīti vardarbībai un notur pozīciju, ja jātnieks gūst panākumus Jāšanas pārbaudē. Kara zirgi parasti tiek audzēti izturībai (+2 pie SPĒ, IZT un IZM).
+
+**Kukaiņu bars:** Stropa izmērs nosaka dzeloņu skaitu katrā raundā. Sīks lapseņu pūznis var dzelt 1D6 reizes raundā, pieaugot līdz milzīgam bišu stropam vai skudrupūznim, kas dara 8D6. Kauliņu veidu var pielāgot, pamatojoties uz indes smagumu (1 pt. mazam kairinājumam līdz pat D10 nikniem plēsīgiem kukaiņiem). Katram tēlam, kuram uzbrūk bars, katrā kaujas raundā automātiski tiek iedzelts izmesto reižu skaits, līdz tie aizbēg, atvaira vai iznīcina baru. Kukaiņu bara uzbrukums ilgst 2D6 kaujas raundus pirms atkāpšanās. Ja vien mērķi nav pilnībā nosegti vai noslēgti, nav aizsardzības pret kukaiņu baru. Sarežģīts Izvairīšanās metiens var palīdzēt izvairīties no kukaiņu bara, vai arī var izmantot citus līdzekļus (uguni, dūmus, indi utt.), lai tos aizdzītu. Jebkurš aizsargtērps, ko tēls var būt uzvilcis, samazinās dzeloņu skaitu uz D6, ar vieglu tērpu samazinot katru kauliņu par –1, bitenieka tērpu par –4, un pilnīga nosegšana nozīmē nekādus dzeloņus. Pēc iedzelšanas indes faktors ir balstīts uz kukaiņa veidu: bitēm tas ir 20, lapsenēm 15, skudrām 10. Daliet kopējo dzeloņu skaitu ar indes faktoru, lai iegūtu indes stiprumu (STP). Pēc 1D6 stundām katram sadzeltajam tēlam jāveic pretestības metiens ar IZT pret indes STP. Ja tas izdodas, tie pretojas indes STP un gūst pusi no indes STP (noapaļojot uz augšu) dzīvības punktu bojājumos. Ja pretestības metiens neizdodas, tie gūst pilnu indes stiprumu dzīvības punktu bojājumos. Veiksmīga iejaukšanās ar pretindi vai līdzvērtīgu ārstēšanu var samazināt dzeloņu skaitu par vēl 1D4–1 uz katriem 1D6, ar veiksmīgu Pirmās palīdzības metienu un pareiziem medicīniskajiem piederumiem. Tēls ar veiksmīgu Pirmās palīdzības pārbaudi var veikt otru Sarežģītu Ķīmijas pārbaudi, lai improvizētu pretindi no pieejamajām ķimikālijām vai vielām (skatiet **Pretindes**).
+
+**Lauva:** Lauva var veikt vienu nagu uzbrukumu un vienu kodiena uzbrukumu katrā kaujas raundā. Ja abi uzbrukumi trāpa, lauva turas klāt nākamajā raundā, turpinot kost. Tā vietā, lai skrāpētu, tā plēš ar pakaļkājām.
+
+**Žurku bars:** Katrs „bars” sastāv no desmit žurkām. Reiziniet žurku baru skaitu ar ×5: šis rezultāts ir uzbrukuma iespēja katram baram katrā kaujas raundā (metiet katram baram). Katrs veiksmīgs uzbrukums nodara 1D3 bojājumu kāju un/vai vēdera hitlokācijās (ja tiek izmantotas hitlokācijas). Īpaši panākumi nodara plosošus bojājumus. No žurku bara uzbrukuma var Izvairīties, bet ne atvairīt. Uzbrukumi pret tiem ir Sarežģīti, bet veiksmīgs uzbrukums automātiski nogalina vienu žurku un aizdzen pārējo baru, samazinot turpmāko uzbrukumu efektivitāti. Žurku kodumi var būt arī inficēti (skatiet Slimības).
+
+**Haizivs:** Ja haizivs kodums aizšauj garām vai no tā izvairās, tā mēģina spuras cirtienu piecus VEI rangus vēlāk. Ja haizivs kodums tiek atvairīts vai trāpa, tā nemēģina spuras cirtienu. Pēc veiksmīga kodiena uzbrukuma dažas haizivis (piemēram, lielās baltās) turpina kost un plosīties turpmākajos kaujas raundos (Viegla uzbrukuma darbība par tādu pašu bojājumu), līdz tiek atbrīvotas vai mērķis iet bojā. Milzu haizivij ir SPĒ un IZM 6D6+24, IZT 4D6+18, 39 dzīvības punkti un +5D6 bojājumu modifikators.
+
+**Čūska (Žņaudzējčūska):** Žņaudzējčūska var uzbrukt divreiz kaujas raundā, vispirms kožot un tad mēģinot žņaugt 5 VEI rangus vēlāk. Ja žņaugšanas uzbrukums trāpa, mērķis tiek ietīts čūskas spirālēs. Mērķis var gārdzot elpot, bet nevar kliegt vai saukt. Katrs žņaugšanas raunds nodara bojājumus mērķa dzīvības punktiem (krūšu kurvja hitlokācija). Tikai stingras krūšu bruņas (ja tiek izmantotas bruņas pēc hitlokācijām) samazina šo bojājumu. Ja kāda ekstremitāte ir brīva, mērķis var veikt Sarežģītus uzbrukumus pret žņaudzējčūsku. Ja neviena ekstremitāte nav brīva, mērķis vairumā gadījumu nevar uzbrukt (pēc spēles vadītāja ieskatiem). Lai pilnībā atbrīvotos no žņaugšanas, mērķim ir jāveic veiksmīgs pretestības metiens ar savu SPĒ pret čūskas SPĒ, nevis jāuzbrūk raundā. Daļējai brīvībai Sarežģīts Veiklības metiens atbrīvo vienu roku vai citu ekstremitāti. Žņaugtajam mērķim jāiztur Izturības metiens, pretējā gadījumā tas zaudē samaņu. Kad mērķis ir bezsamaņā vai miris, žņaudzējčūska to norij veselu. Ja vien netiek izmantots elpošanas aparāts, kas izturējis saspiešanu, mērķis nosmok. Milzu žņaudzējčūska pievieno +2D6 pie SPĒ un IZM, tai ir 19 dzīvības punkti, +2D6 bojājumu modifikators un 4 punktu zvīņaina āda.
+
+**Čūska (Indīga):** Skatiet **Indes** un **Indes paraugi** sadaļas, lai iegūtu vairāk informācijas par dažādiem indīgo čūsku veidiem. Milzu indīgajai čūskai ir SPĒ un IZM 4D6+12, 17 dzīvības punkti un +2D6 bojājumu modifikators.
+
+**Kalmārs (Milzu):** Kalmārs var uzbrukt līdz pieciem dažādiem mērķiem vienlaikus ar savu knābi un desmit taustekļiem. Kalmāra indei ir STP, kas līdzvērtīgs tā IZT. Pirmais tausteklis, kas veiksmīgi trāpa mērķim, turas pie tā, un, kad otrs savienojas, abi saspiež mērķi, līdz mērķis var aizbēgt vai atbrīvoties (katram tausteklim ir 2 dzīvības punkti). Katrs tausteklis, kas paliek ap mērķi, katrā kaujas raundā nodara normālus bojājumus. Lai aizbēgtu no taustekļa, veiciet veiksmīgu pretestības metienu ar SPĒ pret kalmāra SPĒ, vai Sarežģītu Pūļu metienu, lai dabūtu roku brīvu uzbrukumam. Uzbrukumi pret kalmāru, kamēr to tur tā taustekļi, ir Sarežģīti. Leviatāna izmēra kalmārs, kas spēj tikt galā ar laivām un vaļiem, pievieno IZM un SPĒ +1D6 uz katru metru palielināta attāluma no taustekļa gala līdz galam, attiecīgi palielinot dzīvības punktus un bojājumu modifikatoru.
+
+**Tīģeris:** Tīģeris katrā kaujas raundā var veikt divus vienlaicīgus nagu uzbrukumus un vienu kodiena uzbrukumu. Kodiena uzbrukums notiek 5 VEI rangus pēc nagu uzbrukumiem. Ja abi nagi veiksmīgi trāpa mērķim, tīģeris turas klāt un nākamajā raundā plēš ar pakaļkājām, turpinot kost.
+
+**Tiranozaurs Rekss:** Tiranozaurs vispirms uzbrūk kožot. Ja tas izdodas, 5 VEI raundus vēlāk tas uzbrūk ar abiem priekšnagiem, lai satvertu mērķi turpmākai plēšanai. Lielākiem mērķiem tas priekšnagu uzbrukumus aizstāj ar vienu spēriena uzbrukumu, dažkārt pat uzkāpjot uz mērķa un nākamajā kaujas raundā uzbrūkot ar kodienu un diviem spērieniem.
+
+**Vilks:** Vilki medī baros, sākot no ducis līdz 40 vai vairāk. Kaujā vilki bieži cīnās kooperatīvi. Vairāki vilki var uzbrukt vienam un tam pašam mērķim vienlaikus, nodrošinot, ka daži netiek atvairīti vai izvairīti. Viens vai divi lieli vilki var mēģināt nogāzt savu mērķi (skatiet Nogāšana). Kad mērķis atrodas uz zemes, citi steidzas to plosīt. Spēles vadītājs var izmantot šo statistiku arī, lai pārstāvētu lielu suni.
+
+## Fantāzijas būtnes
+
+Tās ir izplatītas fantāzijas un šausmu vidēs, un tās var izmantot kā sabiedrotos, ienaidniekus vai pat spēlētāju tēlus, modificējot pēc vēlēšanās.
 
 ### Kentaurs
 
-Puscilvēks, puszirgs, tiek uzskatīts par gudru un pastorālu būtni, zināšanu glabātāju, prasmīgu amatnieku, lielisku mūziķi un niknu karotāju. Viņi dzīvo līdzenumos vai mežos un brīvi mijiedarbojas ar cilvēkiem, dažreiz kalpojot par mentoriem vai aizbildņiem.
+Pus cilvēks, pus zirgs, tiek uzskatīti par gudrām un pastorālām būtnēm, zināšanu glabātājiem, prasmīgiem amatniekiem, lieliskiem mūziķiem un nikniem karotājiem. Viņi mitinās līdzenumos vai mežos un brīvi sajaucas ar cilvēkiem, dažkārt kalpojot kā mentori vai sargi.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6 | 4D6+12 | 2D6+6 | 3D6 | 3D6+3 | 3D6 |
 | 16–17 | 10–11 | 26 | 13 | 10–11 | 13–14 | 10–11 |
 
 | Kustība 12 | Dzīvības punkti 19 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 (cilvēks); +2D6 (zirgs) | **Bruņas** 1 punkta āda (var valkāt bruņas) |
+| **Bojājumu modifikators** +1D4 (cilvēks); +2D6 (zirgs) | **Bruņas** 1 punkta āda (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Kompozītloks 45%, 1D8+1+½dm (caurduršana)
-* Šķēps 35%, 1D10+1+dm (caurduršana)
-* Bastarda zobens 40%, 1D10+1+dm (griezts)
-* Mērķa vairogs 50%, 1D2+dm (atgrūšana)
-* Spertiens 50%, 1D6+dm (saspiešana)
-* Pakaļkājas un trieciens 35%, 2D8+dm (saspiešana)
-* Samīšana 25%, 2D6+dm (saspiešana)
+* Kompozītmateriālu loks 45%, 1D8+1+½bm (caurdurošs)
+* Šķēps 35%, 1D10+1+bm (caurdurošs)
+* Bastarda zobens 40%, 1D10+1+bm (plosošs)
+* Mērķa vairogs 50%, 1D2+bm (atsitiens)
+* Spēriens 50%, 1D6+bm (saspiežošs)
+* Atkāpšanās un trieciens 35%, 2D8+bm (saspiežošs)
+* Samīdīšana 25%, 2D6+bm (saspiežošs)
 
-Kentaurs var spert 5 DEX rangus pēc sitiena ar kaujas ieroci, lai gan ne tad, kad uzbrūk ar šķēpu. Viņu bojājuma modifikators ar kaujas ieročiem ir balstīts uz STR x2, bet normāls spertiens, samīšanai vai uzbrukumiem.
+Kentaurs var spert 5 VEI rangus pēc sitiena ar kaujas ieroci, lai gan ne tad, kad uzbrūk ar šķēpu. To bojājumu modifikators ar kaujas ieročiem ir balstīts uz SPĒ ×2, bet normāls spērieniem, samīdīšanai vai uzbrukumiem.
 
-**Spējas:** Kentauri dod priekšroku maģijai, nevis burvestībām. Kentauram ar pietiekamu POW maģijai ir šādas burvestības: Uzlabot 35%, Dziedināt 60%, Ilūzija 45%, Uztvere 40% un Vīzija 50%.
+**Spējas:** Centauri dod priekšroku maģijai, nevis burvestībām. Centauram ar pietiekamu VAR maģijai ir šādas burvestības: Uzlabošana 35%, Dziedināšana 60%, Ilūzija 45%, Uztvere 40% un Vīzija 50%.
 
-**Prasmes:** Novērtēt 50%, Kaulēties 35%, Komandēt 25%, Izvairīties 35%, Etiķete 35%, Ieskats 40%, Pirmā palīdzība 40%, Lēkt 60%, Zināšanas (Vēsture) 50%, Klausīties 35%, Uzstāties (Lira) 35%, Sajušana 50%, Pamanīt 40%, Peldēt 35%, Sekot 25%.
+**Prasmes:** Novērtēšana 50%, Kaulēšanās 35%, Komandēšana 25%, Izvairīšanās 35%, Etiķete 35%, Ieskats 40%, Pirmā palīdzība 40%, Lēkšana 60%, Zināšanas (Vēsture) 50%, Klausīšanās 35%, Uzstāšanās (Lira) 35%, Sajūtas 50%, Pamanīšana 40%, Peldēšana 35%, Pēdošana 25%.
 
 ### Pūķis
 
-Gigantiski, uguni sprauslājoši lidojoši rāpuļi ar milzīgiem nagiem un zobiem, grūti ievainojamu bruņotu ādu – pūķi ir vientuļas radības, kas dzīvo vieni un posta apkārtējo lauku apvidu. Daži pūķi ir inteliģenti, bet daudzi ir vienkārši viltīgi zvēri. Viņi bieži ir mantkārīgi, krājot zeltu vai citus dārgumus savās alās. Šī statistika atspoguļo zvērisku pūķi. Pūķi var būt dažādu veidu, ko izšķir pēc krāsas un elpas ieroča (skatīt zemāk). Daži pūķi var būt pat nelidojoši vai ar būtiski atšķirīgiem raksturlielumiem.
+Gigantiski, uguni spļaujoši lidojoši rāpuļi ar milzīgiem nagiem un zobiem, izturīgu bruņotu ādu, pūķi ir vientuļas būtnes, kas dzīvo vieni un izposta apkārtējo lauku. Daži pūķi ir inteliģenti, bet daudzi ir tikai viltīgi zvēri. Tie bieži ir krājēji, kas savās alās vāc zeltu vai citus dārgumus. Šī statistika atspoguļo zvērīgu pūķi. Pūķi var būt dažāda veida, atšķiroties pēc krāsas un elpas ieroča (skatiet zemāk). Daži pūķi var pat nelidot vai tiem var būt būtiski atšķirīgi raksturlielumi.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 20D6 | 10D6 | 20D6 | 10 | 4D6+6 | 3D6 |
 | 70 | 35 | 70 | 10 | 20 | 10–11 |
 
 | Kustība 4 (10 lidojot) | Dzīvības punkti 53 |
 | :---- | :---- |
-| **Bojājuma modifikators** +8D6 | **Bruņas** 12 punktu zvīņas |
+| **Bojājumu modifikators** +8D6 | **Bruņas** 12 punktu zvīņas |
 
 **Uzbrukumi:**
 
-* Uguns elpa 75%, 4D6+īpašs (skatīt zemāk)
-* Kodums 65%, 3D6+dm (caurduršana)
-* Naga 50%, 1D6+dm (asiņošana)
-* Aste 50%, 1D6+½dm (saspiešana)
+* Uguns elpa 75%, 4D6+īpašs (skatiet zemāk)
+* Kodums 65%, 3D6+bm (caurdurošs)
+* Nags 50%, 1D6+bm (asiņošana)
+* Aste 50%, 1D6+½bm (saspiežošs)
 
-Pūķi uzbrūk, lidojot pāri un sprauslājot uguni uz saviem mērķiem. Pūķa uguns aptver trīs metrus platu laukumu ar diapazonu, kas vienāds ar pūķa POW metros (sk. **Zonas uzbrukumi**), taču bruņas pasargās pret šo bojājumu. Ja tiek izmantotas trāpījumu zonas, uguns ietekmē visas trāpījumu zonas: 4D6 tiek rullēti vienreiz; un daliet bojājumus starp trāpījumu zonām. Pūķim ir jāiztērē 1D6 spēka punkti (vai noguruma punkti), lai izspiestu uguni. Turklāt jebkurš trāpītais mērķis, visticamāk, aizdegas. Lidojot pūķim ir tikai elpas uzbrukums, ja vien tas neiesaistās tuvcīņā ar mērķi gaisā.
+Pūķi uzbrūk, lidojot virs galvas un izšaujot uguni uz saviem mērķiem. Pūķa uguns nosedz trīs metrus diametrā lielu laukumu ar diapazonu, kas vienāds ar pūķa VAR metros (skatiet **Apgabala uzbrukumi**), taču bruņas aizsargās pret šo bojājumu. Ja tiek izmantotas hitlokācijas, uguns ietekmē visas hitlokācijas: 4D6 tiek izmests vienreiz, un bojājumi tiek dalīti starp hitlokācijām. Pūķim ir jātērē 1D6 spēka punkti (vai noguruma punkti), lai izgrūstu uguni. Turklāt jebkurš trāpītais mērķis, visticamāk, aizdegas. Lidojot pūķim ir tikai elpas uzbrukums, ja vien tas neiesaistās tuvcīņā ar gaisā esošu mērķi.
 
-Kad uz zemes, pūķis katrā kaujas raundā var veikt divus uzbrukumus: tas var vai nu kost vai sprauslāt uguni pirmajam uzbrukumam, un vai nu izmantot naga sitienu vai astes vēzienu otram. Otrais uzbrukums notiek 5 DEX rangus pēc pirmā. Pūķa astes vēziena uzbrukums tiek apstrādāts kā zonas ietekmes vēziena uzbrukums (sk. *7. nodaļa: Spot Rules*).
+Atrodoties uz zemes, pūķis katrā kaujas raundā var veikt divus uzbrukumus: tas var vai nu kost, vai spļaut uguni vienam uzbrukumam, un otram uzbrukumam izmantos nagus vai astes vēzienu. Otrais uzbrukums notiek 5 VEI rangus pēc pirmā. Pūķa astes vēziena uzbrukums tiek apstrādāts kā apgabala iedarbības slaucīšanas uzbrukums (skatiet *7. nodaļu: Punkta noteikumi*).
 
-**Prasmes:** Izvairīties 35%, Lidot 100%, Klausīties 65%, Sajušana 50%, Pamanīt 60%, Sekot 45%.
+**Prasmes:** Izvairīšanās 35%, Lidošana 100%, Klausīšanās 65%, Sajūtas 50%, Pamanīšana 60%, Pēdošana 45%.
 
-**Spējas:** Pūķi ir intensīvi maģiskas būtnes. Inteliģentiem pūķiem ir INT 4D6, un tie zina maģiju vai burvestības. Ja tā, pūķim ir papildu prasmes, piemēram, Valodas runāšana, dažādas Zināšanas un pat Novērtēšana. Pūķiem var būt arī citi elpas ieroči, nevis uguns (sk. Enerģijas projekcija).
+**Spējas:** Pūķi ir intensīvi maģiskas būtnes. Inteliģentiem pūķiem INT ir 4D6 un tie zina maģiju vai burvestības. Ja tā, pūķim ir papildu prasmes, piemēram, Valodas prasme, dažādas Zināšanas un pat Novērtēšana. Pūķiem var būt arī citi elpas ieroči, nevis uguns (skatiet Enerģijas projekciju).
 
 ### Punduris
 
 Punduri tradicionāli dzīvo pazemē alās un pazemes katakombās. Viņi ir slaveni ar īsu temperamentu, prasmīgu amatniecību, seniem aizvainojumiem, pārmērīgu dzeršanu un garām bārdām. Viņi lepojas ar saviem senčiem, un atšķirības starp dažādām punduru ciltīm ir nozīmīgas.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 1D6+12 | 1D4+4 | 2D6+6 | 3D6 | 3D6 | 3D6 |
 | 14 | 15–16 | 6–7 | 13 | 10–11 | 10–11 | 10–11 |
 
 | Kustība 6 | Dzīvības punkti 12 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 8 punkti (ķēžu krekli un viegla ķivere) |
+| **Bojājumu modifikators** Nav | **Bruņas** 8 punkti (ķēžu bruņas un viegla ķivere) |
 
 **Uzbrukumi:**
 
-* Āmurs 35%, 1D6+dm (saspiešana)
-* Kaujas cirvis 50%, 1D8+2+dm (asiņošana)
-* Smagais arbalets 40%, 2D4+2 (caurduršana)
-* Vairogs 50%, 1D2+dm (atgrūšana)
+* Āmurs 35%, 1D6+bm (saspiežošs)
+* Kaujas cirvis 50%, 1D8+2+bm (asiņošana)
+* Smagais arbalets 40%, 2D4+2 (caurdurošs)
+* Mazais vairogs 50%, 1D2+bm (atsitiens)
 
-**Prasmes:** Novērtēt 50%, Kaulēties 45%, Kautiņš 50%, Amatniecība (kalējs) 45%, Izvairīties 40%, Cīkšanās 45%, Zināšanas (Punduru zinības) 35%, Valoda (Cilvēku) 35%, Valoda (Punduru) 65%, Klausīties 45%, Remontēt (ieroči un bruņas) 35%, Pamanīt 45%, Statuss 35%, Mest 35%.
+**Prasmes:** Novērtēšana 50%, Kaulēšanās 45%, Kautiņš 50%, Amatniecība (kalējs) 45%, Izvairīšanās 40%, Cīkšanās 45%, Zināšanas (Punduru mācība) 35%, Valoda (Cilvēku) 35%, Valoda (Punduru) 65%, Klausīšanās 45%, Remonts (ieroči un bruņas) 35%, Pamanīšana 45%, Statuss 35%, Mešana 35%.
 
-**Spējas:** Tradicionāli punduri izvairās no maģijas, lai gan daži izmanto maģiju vai burvestības. Punduriem ir dabisks talants, piemēram, Super Sajušana (Tumšredze), ar līmeņiem, kas līdzvērtīgi ½ (noapaļojot uz augšu) viņu POW.
+**Spējas:** Tradicionāli punduri izvairās no maģijas, lai gan daži izmanto maģiju vai burvestības. Punduriem ir dabiska spēja, piemēram, Super Sajūta (Tumšredze), ar līmeņiem, kas līdzvērtīgi ½ (noapaļojot uz augšu) no viņu VAR.
 
 ### Elfs
 
-Elfi tradicionāli ir meža iemītnieki ar ciešu saikni ar dabu un savvaļu. Viņi ir ilgdzīvotāji, dažreiz pat nemirstīgi, un bieži vien ir atturīgi un noslēpumaini. Ir daudz elfu veidu, sākot no tiem, kas mīt savvaļas mežos, askētiskiem augstajiem elfiem, un tiem, kas kuģo pa jūrām.
+Elfi tradicionāli ir meža iemītnieki ar ciešu saikni ar dabu un savvaļu. Viņi ir ilgdzīvotāji, dažkārt pat nemirstīgi, un bieži ir atturīgi un noslēpumjami. Ir daudz elfu veidu, sākot no tiem, kas mitinās mežos, askētiskajiem augstajiem elfiem, un tiem, kas kuģo pa jūrām.
 
-Cilvēki un elfi dažreiz veido attiecības, lai gan pēcnācēji ir retums. Puselfi manto īpašības no viena vai otra vecāka. Lai radītu puselfu, rullējiet katru raksturlielumu tā, it kā abām rasēm, un aprēķiniet vidējo rezultātu (noapaļojot uz augšu). Jebkuras iedzimtas spējas no elfu cilts ir dalītas uz pusēm vai aprēķinātas kā vidējās, attiecīgi.
+Cilvēki un elfi dažkārt veido attiecības, lai gan pēcnācēji ir reti. Puselfi manto īpašības no viena vai otra vecāka. Lai izveidotu puselfu, metiet katru raksturlielumu tā, it kā abām rasēm, un aprēķiniet vidējo rezultātu (noapaļojot uz augšu). Jebkuras iedzimtas spējas no elfu līnijas tiek samazinātas uz pusi vai vidēji aprēķinātas, kā piemērots.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+2 | 3D6 | 2D4+4 | 3D6+6 | 2D6+6 | 3D6+3 | 3D6 |
 | 9 | 10–11 | 9 | 16–17 | 13 | 13–14 | 10–11 |
 
 | Kustība 11 | Dzīvības punkti 10 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 1 punkts (mīksta āda) |
+| **Bojājumu modifikators** Nav | **Bruņas** 1 punkts (mīksta āda) |
 
 **Uzbrukumi:**
 
-* Garloks 55%, 1D8+1+½dm (caurduršana)
-* Īsais zobens 45%, 1D6+1+dm (asiņošana)
-* Īsais šķēps 40%, 1D6+1+dm (caurduršana)
-* Īsais šķēps (mests) 55%, 1D6+1+½dm (caurduršana)
+* Garais loks 55%, 1D8+1+½bm (caurdurošs)
+* Īsais zobens 45%, 1D6+1+bm (asiņošana)
+* Īsais šķēps 40%, 1D6+1+bm (caurdurošs)
+* Īsais šķēps (mests) 55%, 1D6+1+½bm (caurdurošs)
 
-**Prasmes:** Kāpt 65%, Izvairīties 55%, Pirmā palīdzība 45%, Paslēpties 35%, Lēkt 45%, Zināšanas (Elfu zinības) 45%, Valoda (Cilvēku) 40%, Valoda (Elfu) 85%, Klausīties 55%, Uzstāties (Dziedāt) 35%, Sajušana 30%, Pamanīt 45%, Slēpties 45%, Peldēt 35%, Sekot 40%.
+**Prasmes:** Kāpšana 65%, Izvairīšanās 55%, Pirmā palīdzība 45%, Slēpšanās 35%, Lēkšana 45%, Zināšanas (Elfu mācība) 45%, Valoda (Cilvēku) 40%, Valoda (Elfu) 85%, Klausīšanās 55%, Uzstāšanās (Dziedāšana) 35%, Sajūtas 30%, Pamanīšana 45%, Maskēšanās 45%, Peldēšana 35%, Pēdošana 40%.
 
-**Spējas:** Elfi parasti izmanto maģiju un tiem ir dabisks talants, piemēram, Super Sajušana (Naktsredze) ar līmeņiem, kas vienādi ar ½ viņu POW (noapaļojot uz augšu). Kopīga maģija elfam ir Izkliedēt 45%, Dziedināt 50%, Ilūzija 35%, Uztvere 60%, Pretestība 50% un Vīzija 60%.
+**Spējas:** Elfi parasti izmanto maģiju un tiem ir dabiska spēja, piemēram, Super Sajūta (Nakts redze) ar līmeņiem, kas vienādi ar ½ no viņu VAR (noapaļojot uz augšu). Parastā maģija elfam ir Izkliedēšana 45%, Dziedināšana 50%, Ilūzija 35%, Uztvere 60%, Pretestība 50% un Vīzija 60%.
 
 ### Spoks
 
-Spoks ir dzīvas būtnes garīgās atliekas, kas joprojām ir piesaistītas dzīvo pasaulei, apzinoties vai neapzinoties savu nāves dabu. Viņi vajā vietas (pilis, savrupmājas, kapsētas utt.), objektus (ieročus, transportlīdzekļus utt.) vai pat konkrētu personu, kas parasti ir saistīta ar viņu nāvi vai iepriekšējo dzīvi. Lielākā daļa spoku ir ļaundabīgi un ienīst dzīvos. Spoki bieži ir ārprātīgi, un tos dzen vēlme labot jebkuru pāridarījumu, kas, viņuprāt, ir pastrādāts pret viņiem, lai viņiem tiktu ļauts "pāriet" uz augstāku līmeni. Spoks var pat nesaprast šo uzmācību.
+Spoks ir dzīvas būtnes garīgais atlikums, kas joprojām ir piesaistīts dzīvo pasaulei, apzinoties vai neapzinoties savu nāvējošo dabu. Tie vajā vietas (pilis, savrupmājas, kapsētas utt.), objektus (ieročus, transportlīdzekļus utt.) vai pat konkrētu personu, kas parasti saistīta ar tā nāvi vai iepriekšējo dzīvi. Vairums spoku ir ļaundabīgi un ienīst dzīvos. Spoki bieži ir ārprātīgi, dzenoties pēc vēlmes izlabot jebkuru pāridarījumu, kas, viņuprāt, ir izdarīts pret viņiem, lai viņiem tiktu ļauts „pāriet” uz augstāku plānu. Spoks var pat neizprast šo piespiešanu.
 
-Spoki var parādīties kā gaisīgas cilvēkveidīgas figūras, mirdzošas manifestācijas, cietas radības, mākoņainas figūras, bezgalvju lietas, transportlīdzekļi, dzīvnieki utt. Viņus pazīst ar daudziem nosaukumiem: gari, ēnas, spokotāji, poltergeisti, parādības, fantomi, spektrs, fantazmas utt.
+Spoki var parādīties kā smalkas cilvēkveidīgas figūras, kvēlojošas manifestācijas, cietas būtnes, mākoņainas figūras, bezgalvīgas lietas, transportlīdzekļi, dzīvnieki utt. Tie ir pazīstami ar daudziem vārdiem: gari, ēnas, spoki, poltergeisti, parādības, fantomi, spektri utt.
 
-Spokus bieži veido nāves apstākļi un to vide. Šeit ir dažas iespējas un ieteikumi spoku izmantošanai vidē:
+Spokus bieži veido to nāves apstākļi un to vide. Tālāk ir sniegtas dažas opcijas un ieteikumi spoku izmantošanai vidē:
 
-* Atpestīšanas spoki var parādīties kā figūras no tēla pagātnes, izsakot pareģojumus. Vai arī tie var būt piesaistīti, lai pasargātu kādu, ko mīlēja dzīvē, sniedzot palīdzību un atbalstu lielas nepieciešamības brīdī.
-* Spoks var parādīties kā garīgs padomdevējs, nododot ziņas no augstāka spēka. Tie reti draud vai kaitē dzīvajiem un var pat sniegt norādījumus un mentorēšanu.
-* Poltergeists var būt vardarbīgs, telekinētiski mētājot priekšmetus un upurus pa istabu un izmantojot priekšmetus kā improvizētus ieročus.
-* Spoku transportlīdzekļi mēdz parādīties vienā un tajā pašā vietā vienā un tajā pašā laikā un datumā atkārtoti. Iekāpšana spoku vilcienā vai kuģī parasti ir metode transportēšanai uz citu dimensiju vai laiku. Tēli, kas to dara, var pazust uz visiem laikiem vai tiem var nākties atrisināt spokotājas noslēpumu, pirms tikt atbrīvotiem.
-* Visa ēka pati par sevi var būt spoks. Ja tiek atklāts ēkas noslēpums vai tumšais noslēpums, pati ēka var pazust uz visiem laikiem.
+* Atpestīšanas spoki var parādīties kā figūras no tēla pagātnes, izsakot zīmes. Vai arī tas var tikt piesaistīts, lai aizsargātu kādu, ko tas mīlēja dzīvē, sniedzot palīdzību un atbalstu lielas nepieciešamības brīdī.
+* Spoks var parādīties kā garīgs padomdevējs, nododot ziņas no augstāka spēka. Tie reti draud vai kaitē dzīvajiem un var pat sniegt norādījumus un mentoringu.
+* Poltergeists var būt vardarbīgs, metot priekšmetus un upurus telekinētiski pa istabu un izmantojot priekšmetus kā improvizētus ieročus.
+* Spoku transportlīdzekļi parasti parādās vienā un tajā pašā vietā, vienā un tajā pašā laikā un datumā atkārtoti. Iekāpšana spoku vilcienā vai kuģī parasti ir metode transportēšanai uz citu dimensiju vai laiku. Tēli, kas to dara, var pazust uz visiem laikiem vai tiem var nākties atrisināt vajāšanas noslēpumu pirms atbrīvošanas.
+* Visa ēka pati par sevi var būt spoks. Ja ēkas noslēpums vai tumšais noslēpums tiek atklāts, pati ēka var pazust uz visiem laikiem.
 
-Spokiem parasti ir tikai INT un POW, lai gan dažiem spokiem var būt CHA. Tomēr spoks var būt ciets un tam var būt raksturlielumi (STR, SIZ un DEX) kā dzīvai būtnei, lai gan tam nekad nebūs CON vērtības. Daži materiāli spoki var pat nezināt, ka ir miruši.
+Spokiem parasti ir tikai INT un VAR, lai gan dažiem spokiem var būt HAR. Tomēr spoks var būt ciets, un tam var būt raksturlielumi (SPĒ, IZM un VEI) kā dzīvai būtnei, lai gan tam nekad nebūs IZT vērtības. Daži materiāli spoki var pat nezināt, ka ir miruši.
 
-| INT | POW | CHA |
+| INT | VAR | HAR |
 | :---- | :---- | :---- |
 | 2D6+6 | 4D6 | 3D6 |
 | 13 | 14 | 10–11 |
 
-| Kustība 14 (vienāda ar POW) | Dzīvības punkti Nav |
+| Kustība 14 (vienāds ar VAR) | Dzīvības punkti Nav |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav (nemateriāli, skatīt zemāk). |
+| **Bojājumu modifikators** Nav | **Bruņas** Nav (nemateriāls, skatiet zemāk). |
 
 **Uzbrukumi:**
 
-* Spoku cīņa POW pret POW, 1D3 spēka punkti (skatīt zemāk).
+* Spoku kauja VAR pret VAR, 1D3 spēka punkti (skatiet zemāk).
 
-**Spējas:** Spoki var uzbrukt spoku cīņā, POW pret POW pretestības rullējumā. Tas izskatās tā, it kā spoks skrāpētu, apņemtu vai citādi fiziski uzbruktu mērķim. Ja spoks pārvar mērķa POW, mērķis zaudē 1D3 spēka punktus (daži spoki var nodarīt dzīvības punktu zaudējumus). Ja spoks tiek pārvarēts, tas zaudē 1D3 spēka punktus. Jaudīgāki spoki var izsūkt 1D6 spēka punktus (vai vairāk) no mērķa, bet zaudē tikai 1D3 spēka punktus, ja tos pārvar mērķis. Šī cīņa turpinās katrā kaujas raundā, līdz mērķis ir bezsamaņā vai kāda no pusēm ir aizbēgusi. Atšķirībā no vampīriem, izsūktie spēka punkti ir vienkārši zuduši. Spoks aizbēg, pirms sasniedz 0 spēka punktus. Ja spoks samazina mērķa spēka punktus līdz 0, tas var pārņemt tos, parasti izraisot mērķa pašnāvību vai cita cilvēka ievainošanu. Pat ja spoks pārņem mērķi, tas paliek piesaistīts spokotājas vietai un nevar to pamest.
+**Spējas:** Spoki var uzbrukt spoku kaujā, VAR pret VAR pretestības metienā. Tas izskatās tā, it kā spoks skrāpētu, apņemtu vai citādi fiziski uzbruktu mērķim. Ja spoks pārvar mērķa VAR, mērķis zaudē 1D3 spēka punktus (daži spoki var nodarīt dzīvības punktu bojājumus). Ja spoks tiek pārvarēts, tas zaudē 1D3 spēka punktus. Jaudīgāki spoki var nosūkt 1D6 spēka punktus (vai vairāk) no mērķa, bet zaudē tikai 1D3 spēka punktus, ja tos pārvar mērķis. Šī kauja turpinās katrā kaujas raundā, līdz mērķis ir bezsamaņā vai viena no pusēm ir aizbēgusi. Atšķirībā no vampīriem, nosūktie spēka punkti tiek vienkārši zaudēti. Spoks aizbēg pirms sasniedz 0 spēka punktus. Ja spoks samazina mērķa spēka punktus līdz 0, tas var pārņemt tos, parasti liekot mērķim izdarīt pašnāvību vai kaitēt citai personai. Pat ja spoks pārņem mērķi, tas paliek piesaistīts savas vajāšanas vietai un nevar aiziet.
 
-Papildus spoku cīņai spokam var būt citas spējas, kas piemērotas tā iepriekšējai eksistencei un lomai vidē. Spoki ir nemateriāli un uz tiem neattiecas Intangibility (necaurlaidības) superspējas ierobežojumi. Tradicionālās spējas ietver psihiskās spējas, piemēram, kriokinēzi, prāta triecienu, prāta kontroli, pirokinezi, telekinēzi, vai superspējas, piemēram, Sūknēšana, Enerģijas kontrole, Neredzamība, Teleportācija un Laikapstākļu kontrole. Spoki var būt neaizsargāti pret maģiju, burvestībām, psihiskām spējām vai superspējām.
+Papildus spoku kaujai, spokam var būt citas spējas, kas piemērotas tā iepriekšējai eksistencei un lomai vidē. Spoki ir nemateriāli un uz tiem neattiecas Nemateriālās superspējas ierobežojumi. Tradicionālās spējas ietver psihiskās spējas, piemēram, Kriokinēzi, Prāta sprādzienu, Prāta kontroli, Pirokinēzi, Telekinēzi vai superspējas, piemēram, Nosūkšanu, Enerģijas kontroli, Neredzamību, Teleportāciju un Laika kontroli. Spoki var būt neaizsargāti pret maģiju, burvestībām, psihiskajām spējām vai superspējām.
 
-**Prasmes:** Pēc vajadzības.
+**Prasmes:** Kā piemērots.
 
 ### Guls
 
-Guli ir drausmīgi deformēti cilvēki, kas barojas ar mirušajiem, atrodoties starp dzīvību un nāvi. Viņi ir zvēriski pēc temperamenta un tiem ir maz vadošas inteliģences. Vairumam gulu trūkst POW, jo tie veidojas, kad ļaundabīgs gars pārņem tikko mirušu līķi. Līķis tiek pārveidots, animēts, un tagad tam jāēd miesa (dzīva vai mirusi) iztikai.
+Guli ir pretīgi deformēti cilvēki, kas barojas ar mirušajiem, noķerti starp dzīvību un nāvi. Viņi ir zvērīgi temperamentā, un tiem ir maz vadītas inteliģences. Vairumam gulu trūkst VAR, jo tie veidojas, kad ļaundabīgs gars pārņem tikko mirušu līķi. Līķis tiek pārveidots, animēts, un tagad tam ir jāēd miesa (dzīva vai mirusi), lai izdzīvotu.
 
-Guli iegūst spēka punktus, patērējot līķus, ar ātrumu 1 spēka punkts uz 3 apēstiem SIZ punktiem. Gulam katru rītu ir jāiztērē 1 spēka punkts, citādi tas sabrūk, un tā gars ir spiests atgriezties viņpasaulē. Ja tas notiek, gulu līķis strauji sadalās, pēc kā tas ir galīgi miris. Turklāt katra saules gaismas iedarbības stunda liek gulam iztērēt 1 spēka punktu. Normālos apstākļos gulam būs uzkrāti 2D6+6 spēka punkti.
+Guli iegūst spēka punktus, patērējot līķus, ar ātrumu 1 spēka punkts uz 3 apēstajiem IZM punktiem. Gulam katru rītu ir jātērē 1 spēka punkts, pretējā gadījumā tas sabrūk, un tā gars ir spiests atgriezties citā pasaulē. Ja tas notiek, gulu līķis ātri sadalās, pēc kā tas ir galīgi miris. Turklāt katra stunda, kas pavadīta saules gaismā, liek gulam tērēt 1 spēka punktu. Normālos apstākļos gulam ir uzkrāti 2D6+6 spēka punkti.
 
-| STR | CON | SIZ | INT | DEX |
+| SPĒ | IZT | IZM | INT | VEI |
 | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+6 | 3D6 | 3D6 |
 | 14 | 10–11 | 13 | 10–11 | 10–11 |
 
 | Kustība 8 | Dzīvības punkti 12 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** Nav (var valkāt bruņas) |
+| **Bojājumu modifikators** +1D4 | **Bruņas** Nav (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Naga 30%, 1D6+dm (asiņošana)
-* Kodums 30%, 1D6+dm (asiņošana) + inde (skatīt zemāk)
-* Gaudošana 100%, īpašs (skatīt zemāk)
+* Nags 30%, 1D6+bm (asiņošana)
+* Kodums 30%, 1D6+bm (asiņošana) + inde (skatiet zemāk)
+* Gaudienas 100%, īpašs (skatiet zemāk)
 
-Guls uzbrūk vienlaikus ar abiem nagiem un kodienu. Kad tas kož, guls injicē mērķī indi ar POT, kas vienāds ar tā CON. Mērķim ir jāveic savas CON pretestības rullējums pret indes POT. Ja mērķis zaudē, viņu sistēmā iekļūst pilns indes POT. Ja viņi veiksmīgi pretojas, tiek injicēts tikai 1D3 no indes POT. Kad kopējais injicētais POT ir vienāds vai lielāks par sakostā tēla CON, viņi ir paralizēti, līdz pretlīdzeklis neitralizē indi. Nelaimīgais tēls paliks šādā stāvoklī tik dienas, cik viņam ir CON punkti, katru dienu zaudējot 1 CON punktu. Tēls, ko sakodis guls (bet nav paralizēts), attīra indi no savas sistēmas ar ātrumu 1 POT dienā.
+Guls uzbrūk vienlaikus ar abiem nagiem un kodienu. Kad tas kož, guls ievada mērķim indi ar STP, kas vienāds ar tā IZT. Mērķim ir jāveic pretestības metiens ar savu IZT pret indes STP. Ja mērķis zaudē, viss indes STP nonāk viņu sistēmā. Ja tie veiksmīgi pretojas, tiek ievadīts tikai 1D3 no indes STP. Kad ievadītais kopējais STP ir vienāds ar vai lielāks par sakostā tēla IZT, tie ir paralizēti, līdz pretinde neitralizē indi. Nelaimīgais tēls paliks šādā stāvoklī tik dienas, cik tiem ir IZT punkti, katru dienu zaudējot 1 IZT punktu. Tēls, ko sakodis guls (bet nav paralizēts), attīra indi no savas sistēmas ar ātrumu 1 STP dienā.
 
-Guli kaujā pret jebkuru, kas atrodas ½ no gula CON attālumā metros (noapaļojot uz augšu), izmanto asinis stindzinošu gaudošanu. Kad guls gaudo, veiciet pretestības rullējumu starp tā pašreizējiem spēka punktiem pret katra mērķa INT. Ja gaudo vairāk nekā viens guls, izmantojiet tā gula spēka punktu kopsummu, kuram ir visvairāk spēka punktu. Ja mērķis tiek pārvarēts, tas ir apdullināts, līdz visas gaudošanas beidzas. Ja tēls pretojas gaudošanas ietekmei, viņiem nākamajā raundā ir jāmēģina vēlreiz. Tēls, kas veiksmīgi pretojas piecus secīgus kaujas raundus, kļūst uz laiku imūns pret tā ietekmi (spēles vadītāja ziņā). Gula gaudošana maksā 1 spēka punktu. Maģiskās burvestības Pretmagnētisms un Pretoties maģijai neaizsargā pret guliskām gaudām.
+Guli kaujā izmanto asinis stindzinošu gaudienu pret ikvienu, kas atrodas ½ no gula IZT metros (noapaļojot uz augšu). Kad guls gaudo, veiciet pretestības metienu ar tā pašreizējiem spēka punktiem pret katra mērķa INT. Ja gaudo vairāk nekā viens guls, izmantojiet spēka punktu kopsummu no gula, kuram ir visvairāk spēka punktu. Ja mērķis tiek pārvarēts, tie tiek apdullināti, līdz gaudienas apstājas. Ja tēls pretojas gaudiena iedarbībai, tiem jāmēģina vēlreiz nākamajā raundā. Tēls, kas veiksmīgi pretojas piecus secīgus kaujas raundus, kļūst īslaicīgi imūns pret tā iedarbību (pēc spēles vadītāja ieskatiem). Gula gaudiena izmantošana maksā 1 spēka punktu. Maģiskās burvestības Pretmāģija un Pretestība maģijai neaizsargā pret guliskām gaudienām.
 
-**Prasmes:** Kāpt 60%, Izvairīties 45%, Cīkšanās 50%, Paslēpties 35%, Lēkt 50%, Klausīties 60%, Sajušana 40%, Pamanīt 50%, Slēpties 60%.
+**Prasmes:** Kāpšana 60%, Izvairīšanās 45%, Cīkšanās 50%, Slēpšanās 35%, Lēkšana 50%, Klausīšanās 60%, Sajūtas 40%, Pamanīšana 50%, Maskēšanās 60%.
 
-**Spējas:** Inteliģentāki guli var zināt burvestības. Visiem guliem ir dabisks talants, piemēram, Super Sajušana (Naktsredze) ar līmeņiem, kas vienādi ar ½ gula INT (noapaļojot uz augšu).
+**Spējas:** Inteliģentāki guli var zināt burvestības. Visiem guliem ir dabiska spēja, piemēram, Super Sajūta (Nakts redze) ar līmeņiem, kas vienādi ar ½ no gula INT (noapaļojot uz augšu).
 
 ### Milzis
 
-Milži ir milzīgi, neglīti cilvēkveidīgie ar tieksmi pēc cilvēka gaļas. Viņi ir īgni un neuzticami radījumi un parasti tikai nedaudz mazāk postoši kā viesuļvētra. Tradicionāli milžiem ir vairākas dažādas kultūras, pamatojoties uz to vidi, piemēram, kalnu milži, jūras milži, kalnu milži, uguns milži, sala milži utt. Šie veidi parasti dramatiski atšķiras inteliģencē, izmērā un uzvedībā. Dažiem no viņiem ir sabiedrības, tiesas un savas valodas.
+Milži ir milzīgi, neglīti cilvēkveidīgie ar tieksmi pēc cilvēka gaļas. Tie ir īgņas un neuzticamas būtnes un parasti tikai nedaudz mazāk destruktīvi nekā viesuļvētra. Tradicionāli milžiem ir vairākas dažādas kultūras, pamatojoties uz to vidi, piemēram, kalnu milži, jūras milži, klints milži, uguns milži, sala milži utt. Šie veidi parasti būtiski atšķiras pēc inteliģences, izmēra un uzvedības. Dažiem no tiem ir sabiedrības, galmi un savas valodas.
 
-Tālāk ir pilnībā izaudzis, 8 metrus garš "vispārīgs" milzis, aptuveni 60 gadus vecs. Milžiem ir mūžs kā cilvēkiem, un ik pēc desmit gadiem tie izaug par 1D6+6 SIZ un 1D6+6 STR, taču necieš novecošanās sekas. Mazāk spēcīgam milzim atņemiet vecumu, līdz tas ir vēlamais STR un SIZ.
+Tālāk ir pilnībā izaudzis, 8 metrus garš „vispārīgs” milzis, aptuveni 60 gadus vecs. Milžiem ir mūžs kā cilvēkiem, un tie aug par 1D6+6 IZM un 1D6+6 SPĒ ik pēc desmit gadiem, bet necieš no novecošanās sekām. Mazāk jaudīgam milzim atņemiet vecumu, līdz tas sasniedz vēlamo SPĒ un IZM.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 24D6+48 | 16D6+48 | 24D6+48 | 3D6 | 3D6 | 3D6 | 2D6 |
 | 132 | 104 | 132 | 10–11 | 10–11 | 10–11 | 7 |
 
 | Kustība 18 | Dzīvības punkti 118 |
 | :---- | :---- |
-| **Bojājuma modifikators** +15D6 | **Bruņas** 21 punkta āda (skatīt zemāk) |
+| **Bojājumu modifikators** +15D6 | **Bruņas** 21 punkta āda (skatiet zemāk) |
 
 **Uzbrukumi:**
 
-* Vālīte 35%, 3D6+dm (saspiešana + atgrūšana)
-* Spertiens/Samīšana 35%, 1D6+dm (saspiešana + atgrūšana)
-* Mests akmens 35%, 2D6+½dm (saspiešana)
+* Vālīte 35%, 3D6+bm (saspiežošs + atsitiens)
+* Spēriens/Mīdīšana 35%, 1D6+bm (saspiežošs + atsitiens)
+* Mests akmens 35%, 2D6+½bm (saspiežošs)
 
-Milži kaujā izmanto milzīgas vālītes vai koku stumbrus un specializējas vēziena uzbrukumos. Milža vālītei ir dzīvības punkti, kas vienādi ar 10 + tā bojājuma modifikatora kauliņiem.
+Milži kaujā izmanto milzīgas vālītes vai koku stumbrus un specializējas slaucīšanas uzbrukumos. Milža vālītei ir dzīvības punkti, kas vienādi ar 10 + tā bojājumu modifikatora kauliņi.
 
-**Spējas:** Daži spēcīgi un vecāki milži izmanto maģiju vai burvestības.
+**Spējas:** Daži jaudīgi un vecāki milži izmanto maģiju vai burvestības.
 
-**Prasmes:** Sajušana 60%, Pamanīt 40%, Mest 35%.
+**Prasmes:** Sajūtas 60%, Pamanīšana 40%, Mešana 35%.
 
-Milžiem ir cieta āda, kuras vērtība ir 6 punkti plus viņu bojājuma modifikators D6, tādējādi milzim ar 15D6 bojājuma modifikatoru ir 21 punkta āda. Daži milži valkā kāju bruņas (bieži plāksnes), kas palielina bruņu vērtību šajās zonās. Ja tiek izmantotas trāpījumu zonas, normāla izmēra tēliem, kas cīnās ar milžiem, vajadzētu rullēt tikai 1D10, lai noteiktu trāpījuma vietu, ja vien viņi neizmanto šāviņu ieročus.
+Milžiem ir izturīga āda, kas vērta 6 punktus plus to bojājumu modifikators D6 kauliņos, tādējādi milzim ar 15D6 bojājumu modifikatoru ir 21 punkta āda. Daži milži valkā kāju bruņas (bieži plāksnes), kas palielina bruņu vērtību šajās vietās. Ja tiek izmantotas hitlokācijas, parasta izmēra tēliem, kas cīnās ar milžiem, vajadzētu mest tikai 1D10, lai noteiktu skarto atrašanās vietu, ja vien viņi neizmanto raķešu ieročus.
 
 ### Grifons
 
-Grifoni ir himēriskas radības, kas apvieno lauvas ķermeni un pakaļkājas ar ērgļa galvu, priekškājām un spārniem. Šiem lidojošajiem plēsējiem tradicionāli ir ligzdas kalnu virsotnēs, un tos bieži attēlo heraldikā.
+Grifoni ir himēriskas būtnes, kas apvieno lauvas ķermeni un pakaļkājas, un ērgļa galvu, priekškājas un spārnus. Šiem lidojošajiem plēsējiem tradicionāli ir ligzdas kalnu virsotnēs, un tie bieži ir attēloti heraldikā.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 10D6 | 3D6+12 | 10D6 | 6 | 3D6+6 | 3D6+12 |
 | 35 | 22–23 | 35 | 6 | 16–17 | 22–23 |
 
 | Kustība 8 (12 lidojot) | Dzīvības punkti 29 |
 | :---- | :---- |
-| **Bojājuma modifikators** +3D6 | **Bruņas** 6 punktu āda |
+| **Bojājumu modifikators** +3D6 | **Bruņas** 6 punktu āda |
 
 **Uzbrukumi:**
 
-* Kodums 70%, 1D6+dm (caurduršana)
-* Naga 70%, 1D6+dm (asiņošana)
+* Kodums 70%, 1D6+bm (caurdurošs)
+* Nags 70%, 1D6+bm (asiņošana)
 
-Grifons uzbrūk ar diviem nagiem vienlaikus un kož 5 DEX rangus vēlāk.
+Grifons uzbrūk ar diviem nagiem vienlaikus un kož 5 VEI rangus vēlāk.
 
-**Prasmes:** Izvairīties 30%, Lidot 100%, Klausīties 50%, Sajušana 65%, Pamanīt 75%.
+**Prasmes:** Izvairīšanās 30%, Lidošana 100%, Klausīšanās 50%, Sajūtas 65%, Pamanīšana 75%.
 
-### Puslings
+### Pussolnieks (Pusgaris)
 
-Puslingi ir mazi cilvēkveidīgi radījumi, parasti mierīgi un civilizēti. Tradicionāli viņiem patīk ēšana, pīpēšana un dzeršana, un viņiem ir klusas profesijas, piemēram, lauksaimniecība, amatniecība un krodziniecība. Puslingi parasti dzīvo mazās lauku kopienās lauku mājās vai pazemes alās. Viņi bieži atsakās valkāt apavus.
+Pussolnieki ir mazas, cilvēkiem līdzīgas būtnes, parasti miermīlīgas un civilizētas. Tradicionāli viņiem patīk ēst, pīpēt pīpi un dzert, un viņiem ir klusas profesijas, piemēram, lauksaimniecība, amatniecība un krodzinieka amats. Pussolnieki parasti dzīvo mazās lauku kopienās lauku mājās vai pazemes alās. Viņi bieži atsakās valkāt apavus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6 | 2D6+12 | 1D3+3 | 2D6+6 | 2D6+3 | 2D6+10 | 3D6 |
 | 7 | 19 | 4–5 | 13 | 10 | 17 | 10–11 |
 
 | Kustība 6 | Dzīvības punkti 12 |
 | :---- | :---- |
-| **Bojājuma modifikators** –1D6 | **Bruņas** Nav (var valkāt bruņas) |
+| **Bojājumu modifikators** –1D6 | **Bruņas** Nav (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Īsais zobens 35%, 1D6+1+dm (asiņošana)
-* Linga 35%, 1D8+½dm (saspiešana)
-* Mests akmens 50%, 1D4 (nav bojājuma modifikatora, saspiešana)
-* Puslingi ir eksperti akmeņu mešanā un necieš no sava negatīvā bojājuma modifikatora.
+* Īsais zobens 35%, 1D6+1+bm (asiņošana)
+* Linga 35%, 1D8+½bm (saspiežošs)
+* Mests akmens 50%, 1D4 (nav bojājumu modifikatora, saspiežošs)
+* Pussolnieki ir eksperti akmeņu mešanā un necieš no sava negatīvā bojājumu modifikatora.
 
-**Prasmes:** Novērtēt 35%, Kaulēties 35%, Amatniecība (lauksaimniecība) 75%, Izvairīties 60%, Vadīt (rati) 45%, Cīkšanās 35%, Paslēpties 65%, Zināšanas (Puslingu zinības) 35%, Valoda (Puslingu) 75%, Valoda (Cilvēku) 65%, Klausīties 65%, Sajušana 45%, Pamanīt 50%, Mest 50%.
+**Prasmes:** Novērtēšana 35%, Kaulēšanās 35%, Amatniecība (lauksaimniecība) 75%, Izvairīšanās 60%, Vadīšana (rati) 45%, Cīkšanās 35%, Slēpšanās 65%, Zināšanas (Pussolnieku mācība) 35%, Valoda (Pussolnieku) 75%, Valoda (Cilvēku) 65%, Klausīšanās 65%, Sajūtas 45%, Pamanīšana 50%, Mešana 50%.
 
-**Spējas:** Tradicionāli puslingi izvairās no maģijas, lai gan daži reti izmanto maģiju. Vēl retāk izmanto burvestības.
+**Spējas:** Tradicionāli pussolnieki izvairās no maģijas, lai gan daži reti izmanto maģiju. Vēl mazāk izmanto burvestības.
 
-### Mīnotaurs
+### Mīnotārs
 
-Mīnotauri ir cilvēkveidīgie ar vērša galvu un nagainām pēdām. Īgni un vardarbīgi, viņiem ir maz savas civilizācijas, dodot priekšroku dzīvot drupās vai savvaļā. Daži prot runāt, bet citi ir zvēriski un tiem nav valodas spēju.
+Mīnotāri ir cilvēkveidīgie ar buļļa galvu un nagainām pēdām. Īgņi un vardarbīgi, tiem ir maz savas civilizācijas, dodot priekšroku mitināties drupās vai savvaļā. Daži var runāt, bet citi ir zvērīgi un tiem nav valodas spēju.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 1D6+12 | 3D6+12 | 2D6 | 3D6 | 3D6 | 2D6 |
 | 22–23 | 15–16 | 22–23 | 7 | 10–11 | 10–11 | 7 |
 
 | Kustība 6 | Dzīvības punkti 19 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** 3 punktu āda (var valkāt citas bruņas, parasti ādas) |
+| **Bojājumu modifikators** +2D6 | **Bruņas** 3 punktu āda (var valkāt citas bruņas, parasti ādas) |
 
 **Uzbrukumi:**
 
-* Lielais cirvis 55%, 3D6+dm (asiņošana)
-* Sitien ar galvu 35%, 1D6+dm (atgrūšana)
-* Kautiņš 50%, 1D3+dm (saspiešana)
+* Lielais cirvis 55%, 3D6+bm (asiņošana)
+* Galvas sitiens 35%, 1D6+bm (atsitiens)
+* Kautiņš 50%, 1D3+bm (saspiežošs)
 
-Mīnotaurs kaujas raundā var izmantot vai nu sitienu ar galvu vai ieroča uzbrukumu. Mīnotaurs var izmantot abus vienā raundā tikai tad, ja tas citādi spēj veikt divus uzbrukumus raundā.
+Mīnotārs kaujas raundā var izmantot vai nu galvas sitienu, vai ieroča uzbrukumu. Mīnotārs var izmantot abus tikai tad, ja tas citādi spēj veikt divus uzbrukumus raundā.
 
-**Prasmes:** Izvairīties 40%, Klausīties 35%, Sajušana 30%, Pamanīt 35%, Sekot 55%.
+**Prasmes:** Izvairīšanās 40%, Klausīšanās 35%, Sajūtas 30%, Pamanīšana 35%, Pēdošana 55%.
 
-**Spējas:** Mīnotauri parasti nicina jebkāda veida maģiju, un tikai retākais zina kādas burvestības. Ja mīnotaurs ir ievainots vai gūst īpašus panākumus, sitot pretinieku, tas kļūst nikns uz 24–CON raundiem. Tas ir kā burvestība "Dusmas". Nikns mīnotaurs var mēģināt atbrīvoties no dusmām, veicot veiksmīgu INTx1 rullējumu. Pēc šī niknuma tas tiek uzskatīts par izsmeltu (ja nogurums netiek izmantots, visi rullējumi ir Grūti), līdz tam ir bijusi iespēja atpūsties.
+**Spējas:** Mīnotāri parasti nicina jebkāda veida maģiju, un tikai visretākie zina kādas burvestības. Ja mīnotārs tiek ievainots vai gūst īpašu panākumu, sitot pretinieku, tas kļūst traks uz 24–IZT kārtām. Tas ir kā burvestība Dusmas. Traks mīnotārs var mēģināt nokratīt dusmas, veicot veiksmīgu INT×1 metienu. Pēc šī trakā niknuma tas tiek uzskatīts par izsmeltu (ja nogurums netiek izmantots, visi metieni ir Sarežģīti), līdz tam ir bijusi iespēja atpūsties.
 
 ### Mūmija
 
-Mūmija ir nedzīva radība, kas izveidota no konservēta, izžuvusi līķa, atgriezta dzīvības līdzībā ar lāstu vai spēcīgu nekromantiju. Daži kulti glabā mūmijas savos tempļos kā sargus, savukārt citas mūmijas ceļas no mirušajiem, lai aizsargātu savas kapenes no kapeņu laupīšanas. Dažas mūmijas runā, bet citas paliek klusas. Ne visas mūmijas ir ietītas bandāžās – dažas valkā rotaslietas un lielas vērtības priekšmetus, kā tas pienākas viņu statusam dzīvē.
+Mūmija ir nedzīva būtne, kas veidota no konservēta, izžuvusi līķa, atgriezta dzīvības līdzībā caur lāstu vai jaudīgu nekromantiju. Daži kulti glabā mūmijas savos tempļos kā sargus, kamēr citas mūmijas augšāmceļas no mirušajiem, lai aizsargātu savas kapenes no kapu laupīšanas. Dažas mūmijas runā, bet citas paliek klusas. Ne visas mūmijas ir ietītas bandāžās – dažas valkā rotaslietas un lielas vērtības priekšmetus, kā pienākas to statusam dzīvē.
 
-Dēļ to sausā, izžuvušā miesas stāvokļa uguns ir īpaši efektīva pret mūmijām. Ir divreiz vieglāk aizdedzināt mūmiju nekā citu normālu mērķi, un, lai gan bojājums ir normāls, ugunsgrēkus ir grūtāk nodzēst (samaziniet iespēju, ka uguns nodzisīs, uz pusi). Arī spējas, kas izmanto uguni, rada šādu efektu.
+Sava sausā, izžuvušā miesas stāvokļa dēļ uguns ir īpaši efektīva pret mūmijām. Ir divreiz vieglāk aizdedzināt mūmiju nekā citu parastu mērķi, un, lai gan bojājumi ir normāli, ugunsgrēkus ir grūtāk dzēst (samaziniet iespēju, ka uguns nodzisīs, uz pusi). Spējām, kas izmanto uguni, arī ir šāds efekts.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 4D6+3 | 2D6+6 | 3D6 | 1D6+12 | 2D6 | – |
 | 21 | 17 | 13 | 10–11 | 15–16 | 7 | – |
 
 | Kustība 8 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D6 | **Bruņas** 3 punktu āda (var valkāt bruņas) |
+| **Bojājumu modifikators** +1D6 | **Bruņas** 3 punktu āda (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Dūre 70%, 1D3+dm (saspiešana)
+* Dūre 70%, 1D3+bm (saspiežošs)
 * Cīkšanās 25%, īpašs
-* Īsais zobens 45%, 1D6+1+dm (asiņošana)
+* Īsais zobens 45%, 1D6+1+bm (asiņošana)
 
-Mūmija katrā kaujas raundā var uzbrukt ar diviem dūres uzbrukumiem. Ja tas ir veiksmīgs ar abiem uzbrukumiem, nākamajā raundā tā mēģina satvert un nožņaugt mērķi. Mūmija var izmantot senus ieročus, kas piemēroti tās iepriekšējās dzīves laikmetam.
+Mūmija var uzbrukt ar diviem dūru uzbrukumiem katrā kaujas raundā. Ja tas izdodas ar abiem uzbrukumiem, tas nākamajā raundā mēģina satvert un nožņaugt savu mērķi. Mūmija var izmantot senus ieročus, kas atbilst tās iepriekšējās dzīves laikmetam.
 
-**Prasmes:** Valoda (sena mēle) 90%, Klausīties 50%, Sajušana 45%, Pamanīt 50%, Slēpties 50%.
+**Prasmes:** Valoda (senā mēle) 90%, Klausīšanās 50%, Sajūtas 45%, Pamanīšana 50%, Maskēšanās 50%.
 
-**Spējas:** Mūmijas var atcerēties burvestības no savas iepriekšējās eksistences. Mūmijas burvim atmiņā varētu būt šādas burvestības: Spēka ogles (4), Zemes dāvana (4), Bakas (1), Burvja nagi (2). Ja mūmijas kapenes ir neskartas, tai, visticamāk, ir pieeja savam grimoāram, burvestību ruļļiem un daudziem maģiskiem priekšmetiem.
+**Spējas:** Mūmijas var atcerēties burvestības no savas iepriekšējās eksistences. Mūmijas burvim atmiņā varētu būt šādas burvestības: Spēka ogles (4), Zemes dāvana (4), Bakas (1), Burvja nagi (2). Ja mūmijas kapenes ir neskartas, tai, visticamāk, ir pieeja savam grimoiram, burvestību ruļļiem un daudziem maģiskiem priekšmetiem.
 
 ### Orks
 
-Orki ir mežonīgi, zvēriski cilvēkveidīgie, kuri nicina cilvēci, elfus, pundurus un gandrīz visus citus cilvēkus, kurus sastop. Viņiem parasti ir pelēcīga āda, ilkņi un smailas ausis, un dažreiz tos dēvē par gobliniem. Orki dod priekšroku tumsai, bet pietiekami labi var funkcionēt arī dienasgaismā. Viņiem ir skarba civilizācija, kas gandrīz pilnībā balstīta uz brutalitāti un savu, kā arī jebkuru neveiksmīgu gūstekņu paverdzināšanu. Viņi pat praktizē kanibālismu pret vājiem vai neveiksmīgiem savas sugas locekļiem. Orki bieži kalpo tumsas spēkiem vai plēš citus savai izklaidei un bagātināšanai. Daži orki jāj uz milzu vilkiem, kas audzēti kā jājamdzīvnieki. Var eksistēt daudzi orku veidi, pamatojoties uz vides, kultūras, reģionālām vai citām atšķirībām. Bieži sastopami veidi ir briesmīgie "lielie" orki (STR 5D6, CON 3D6+3 un SIZ 3D6+6) un kaitīgie "mazie" orki (STR 3D6, SIZ 2D6).
+Orki ir mežonīgi, zvērīgi cilvēkveidīgie, kas nicina cilvēci, elfus, pundurus un gandrīz jebkurus citus cilvēkus, ko tie sastop. Viņiem parasti ir pelēcīga āda, ilkņi un smailas ausis, un dažkārt tos dēvē par gobliniem. Orki dod priekšroku tumsai, bet var pietiekami labi darboties arī dienasgaismā. Viņiem ir raupja civilizācija, kas gandrīz pilnībā balstīta uz brutalitāti un savējo, kā arī jebkuru neveiksmīgu gūstekņu paverdzināšanu. Viņi pat praktizē kanibālismu pret vājiem vai neveiksmīgiem savas sugas locekļiem. Orki bieži kalpo tumsas spēkiem vai medī citus savas izklaides un bagātināšanas labad. Daži orki jāj uz milzu vilkiem, kas audzēti kā jājamdzīvnieki. Varētu pastāvēt daudz orku veidu, pamatojoties uz vides, kultūras, reģionālām vai citām variācijām. Izplatīti veidi ir draudīgie „lielie” orki (SPĒ 5D6, IZT 3D6+3 un IZM 3D6+6) un kaitīgie „mazie” orki (SPĒ 3D6, IZM 2D6).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+2 | 3D6 | 2D6+3 | 4D6 | 2D6 |
 | 14 | 10–11 | 9 | 10–11 | 10 | 14 | 7 |
 
 | Kustība 8 | Dzīvības punkti 10 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 6 punktu gredzenbruņas un viegla ķivere |
+| **Bojājumu modifikators** Nav | **Bruņas** 6 punktu gredzenbruņas un viegla ķivere |
 
 **Uzbrukumi:**
 
-* Sīkstars 35%, 1D8+1+dm (asiņošana)
-* Kompozītloks 35%, 1D8+1+½dm (caurduršana)
-* Īsais šķēps 35%, 1D6+1+dm (caurduršana)
-* Īsais šķēps (mests) 35%, 1D6+1+½dm (caurduršana)
-* Dzeloņains vairogs 35%, 1D3+dm (caurduršana)
+* Sīmītars 35%, 1D8+1+bm (asiņošana)
+* Kompozītmateriālu loks 35%, 1D8+1+½bm (caurdurošs)
+* Īsais šķēps 35%, 1D6+1+bm (caurdurošs)
+* Īsais šķēps (mests) 35%, 1D6+1+½bm (caurdurošs)
+* Smailais vairogs 35%, 1D3+bm (caurdurošs)
 
-**Prasmes:** Kāpt 55%, Izvairīties 40%, Paslēpties 35%, Zināšanas (Orku zinības) 35%, Valoda (Cilvēku) 25%, Valoda (Orku) 60%, Klausīties 50%, Jāt (vilks) 50%, Sajušana 35%, Pamanīt 45%, Slēpties 40%, Sekot 30%
+**Prasmes:** Kāpšana 55%, Izvairīšanās 40%, Slēpšanās 35%, Zināšanas (Orku mācība) 35%, Valoda (Cilvēku) 25%, Valoda (Orku) 60%, Klausīšanās 50%, Jāšana (vilks) 50%, Sajūtas 35%, Pamanīšana 45%, Maskēšanās 40%, Pēdošana 30%.
 
-**Spējas:** Burvestības ir visbriesmīgākā spēka orku sabiedrībā, kur orku burvji bieži kalpo kā priesteri vai līderi. Orkam, kas izmanto burvestības, POW ir 16+ un tas var zināt šādas burvestības: Nakts apmetnis (2), Bakas (1), Kaitēkļu vīzija (1), Elles skuveklis (1), Zibens ātrums (2), Aizsardzība (3).
+**Spējas:** Burvestības ir visbaismīgākā spēja orku sabiedrībā, kur orku burvji bieži kalpo kā priesteri vai līderi. Orkam, kas izmanto burvestības, VAR ir 16+ un tas var zināt šādas burvestības: Nakts apmetnis (2), Bakas (1), Kaitēkļu vīzija (1), Elles skuveklis (1), Zibens ātrums (2), Aizsardzība (3).
 
 ### Skelets
 
-Animēti skeleti ir vai nu radīti vai izsaukti ar maģiju, vai arī senā lāsta rezultāts. Lielākā daļa ir cilvēku atliekas, bet pastāv arī citu sugu skeleti. Animēti skeleti gandrīz vienmēr tiek sastapti, sargājot kādu dārgumu, senas kapenes vai kādu citu ļauna zīmīga vietu. Skeleti pārvietojas tādā pašā ātrumā kā dzīvē, bet nevar peldēt. Viņiem nav noguruma punktu un tie nekad nenogurst.
+Animēti skeleti tiek izveidoti vai izsaukti ar maģiju, vai arī ir sena lāsta rezultāts. Vairums ir cilvēku atliekas, bet pastāv arī citu sugu skeleti. Animētus skeletus gandrīz vienmēr sastop sargājam kādu dārgumu, senas kapenes vai kādu citu ļaunas zīmes vietu. Skeleti pārvietojas tādā pašā ātrumā, kādā tie pārvietojās dzīvē, bet nevar peldēt. Tiem nav noguruma punktu, un tie nekad nenogurst.
 
-| STR | SIZ | INT | POW | DEX |
+| SPĒ | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 2D6+6 | 3D6 | 1 | 3D6 |
 | 10–11 | 13 | 10–11 | 1 | 10–11 |
 
-| Kustība 10 | Dzīvības punkti 13 (skatīt zemāk) |
+| Kustība 10 | Dzīvības punkti 13 (skatiet zemāk) |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav (var valkāt bruņas, skatīt arī zemāk par imunitāti) |
+| **Bojājumu modifikators** Nav | **Bruņas** Nav (var valkāt bruņas, skatiet arī zemāk par imunitātēm) |
 
 **Uzbrukumi:**
 
-* Platais zobens 55%, 1D8+1+dm (asiņošana)
-* Pašloks 50%, 1D6+1+½dm (caurduršana)
-* Liels apaļais vairogs 55%, 1D4+dm (atgrūšana)
+* Platais zobens 55%, 1D8+1+bm (asiņošana)
+* Pašlokains loks 50%, 1D6+1+½bm (caurdurošs)
+* Liels apaļš vairogs 55%, 1D4+bm (atsitiens)
 
-**Prasmes:** Izvairīties 40%
+**Prasmes:** Izvairīšanās 40%
 
-Skeletiem nav CON, un to dzīvības punkti ir vienādi ar SIZ. Viņi ir imūni pret īpašajiem efektiem no asiņošanas un caurduršanas trāpījumiem. Viņi vispār nesaņem nekādus bojājumus no caurduršanas ieročiem, ja vien trāpījums nebija īpašs panākums vai kritisks trāpījums, tādā gadījumā bojājums tiek pieņemts, bet sekundārie efekti tiek ignorēti.
+Skeletiem nav IZT, un to dzīvības punkti ir vienādi ar to IZM. Tie ir imūni pret asiņošanas un caurdurošu sitienu īpašajiem efektiem. Tie nesaņem nekādus bojājumus no durt ieročiem, ja vien sitiens nebija īpašs panākums vai kritisks trāpījums, tādā gadījumā bojājums tiek saņemts, bet sekundārie efekti tiek ignorēti.
 
-Izžuvušie kauli ir trausli, un tie viegli lūzt un šķeļas no smaga sitiena. Neatkarīgi no skeleta pašreizējiem dzīvības punktiem, jebkuram sitienam, kas trāpa skeletam, ir procentuāla iespēja iznīcināt skeletu, kas vienāda ar nodarīto bojājumu reizinātu ar x4, papildus parastajam dzīvības punktu zaudējumam. Ja rullējums ir veiksmīgs, skelets uzreiz saplīst kaulu šķembās.
+Izžuvušie kauli ir trausli, un viegli lūst un šķeļas no smaga sitiena. Neatkarīgi no skeleta pašreizējiem dzīvības punktiem, jebkuram sitienam, kas trāpa skeletam, ir procentuāla iespēja iznīcināt skeletu, kas vienāda ar nodarīto bojājumu, reizinātu ar ×4, papildus normālajam dzīvības punktu zudumam. Ja metiens ir veiksmīgs, skelets acumirklī sašķīst kaulu šķembās.
 
 ### Trollis
 
-Troļļi ir milzīgi, miesu ēdoši cilvēkveidīgie ar rupju zaļganmelnu ādu, matainiem pleciem un rokām un gariem nagiem. Viņi tradicionāli dzīvo kalnos un mežos, dodot priekšroku alām vai dažreiz dzīvojot zem tiltiem. Daži troļļi prot runāt, bet citi ir zvēriski un nevar. Viņi ir nakts radības un vairās no saules gaismas, kad vien var. Var būt citi troļļu veidi, parasti nosaukti pēc to vides (akmens, ledus, koka, klints, kalna, smilšu, jūras, ezera, purva utt.), kas atšķiras pēc krāsas un citiem veidiem. Gudrāki troļļi izmanto izsmalcinātākus ieročus, kamēr daži pat valkās smagas bruņas.
+Troļļi ir milzīgi, gaļu ēdoši cilvēkveidīgie ar rupju zaļganmelnu ādu, matainiem pleciem un rokām, un gariem nagiem. Tie tradicionāli mitinās kalnos un mežos, dodot priekšroku dzīvot alās vai dažkārt zem tiltiem. Daži troļļi var runāt, bet citi ir zvērīgi un nevar. Tie ir nakts radījumi un izvairās no saules gaismas, kad vien var. Var būt arī citas troļļu sugas, ko parasti nosauc to vides vārdā (akmens, ledus, koka, klints, kalnu, smilšu, jūras, ezera, purva, dūņu utt.), kas atšķiras pēc krāsas un citiem veidiem. Gudrāki troļļi izmanto sarežģītākus ieročus, kamēr daži pat valkās smagas bruņas.
 
-Lielākā daļa sastopamo troļļu ir tēviņi, kamēr mātītes (saukas par trollenēm) ir mazākas un vājākas (–6 STR un SIZ), bet gudrākas un ātrākas (+1D6 INT, POW un DEX).
+Vairums sastopamo troļļu ir tēviņi, savukārt troļļu mātītes (saukas par troļļusievām) ir mazākas un vājākas (–6 pie SPĒ un IZM), bet gudrākas un ātrākas (+1D6 pie INT, VAR un VEI).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 2D6+6 | 4D6+12 | 2D6 | 2D6 | 2D6+3 | 1D6 |
 | 22–23 | 13 | 26 | 7 | 7 | 10 | 3–4 |
 
 | Kustība 6 | Dzīvības punkti 20 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** 3 punktu āda |
+| **Bojājumu modifikators** +2D6 | **Bruņas** 3 punktu āda |
 
 **Uzbrukumi:**
 
-* Koku stumbra vālīte 45%, 1D10+2+dm (saspiešana)
-* Naga 50%, 1D6+dm (asiņošana)
+* Koka stumbra vālīte 45%, 1D10+2+bm (saspiežošs)
+* Nags 50%, 1D6+bm (asiņošana)
 * Cīkšanās 50%, īpašs
 
-Troļļa ierastā taktika ir sist ar savu vālīti, tad sist ar nagu, bet trollis nevar atvairīt, ja tas to dara. Tāpat kā milža vālītei, troļļa koku stumbra vālītei ir dzīvības punkti, kas vienādi ar 10 + tā bojājuma modifikatora kauliņiem.
+Troļļa ierastā taktika ir sist ar vālīti, tad sist ar nagu, bet trollis nevar atvairīt, ja tas tā dara. Tāpat kā milža vālīte, troļļa koka stumbra vālītei ir dzīvības punkti, kas vienādi ar 10 + tā kauliņi bojājumu modifikatorā.
 
-**Spējas:** Troļļi strauji reģenerējas no ievainojumiem, dziedējot 1D3 dzīvības punktus katrā kaujas raundā, ja vien tie nav miruši. Ja tiek izmantotas trāpījumu zonas, troļļi dziedē 1 dzīvības punktu uz katru ievainoto trāpījumu zonu katrā kaujas raundā. Ja trollis atrodas saules gaismā, vai ja bojājumu ir nodarījusi uguns, šīs brūces nereģenerējas. Troļļi var redzēt tumsā, it kā tiem būtu Super Sajušana (Naktsredze) ar līmeņiem, kas līdzvērtīgi ½ troļļa POW (noapaļojot uz augšu). Trollenes gandrīz vienmēr ir burvestības izmantojošas raganas, aprīkotas ar tādām burvestībām kā Burvestību lāsts (4), Bakas (1), Atsaukt burvestību (2) un Raganu skatiens (3).
+**Spējas:** Troļļi ātri atjaunojas no traumām, dziedējot 1D3 dzīvības punktus katrā kaujas raundā, ja vien tie nav miruši. Ja tiek izmantotas hitlokācijas, troļļi dziedē 1 dzīvības punktu uz ievainotu hitlokāciju katrā kaujas raundā. Ja trollis atrodas saules gaismā, vai ja bojājumu nodarījusi uguns, šīs brūces neatjaunojas. Troļļi var redzēt tumsā tā, it kā tiem būtu Super Sajūta (Nakts redze) ar līmeņiem, kas vienādi ar ½ no troļļa VAR (noapaļojot uz augšu). Troļļusievas gandrīz vienmēr ir burvestības izmantojošas raganas, aprīkotas ar burvestībām, piemēram, Burvestību lāsts (4), Bakas (1), Atcelt burvestību (2) un Raganu redze (3).
 
-**Prasmes:** Izvairīties 35%, Sajušana 55%, Pamanīt 55%.
+**Prasmes:** Izvairīšanās 35%, Sajūtas 55%, Pamanīšana 55%.
 
 ### Vienradzis
 
-Vienradzis ir zirgam līdzīgs maģisks dzīvnieks ar nedaudz mazām nagām un vienu garu, taisnu ragu, kas izvirzās no pieres centra. Vienradži gandrīz vienmēr ir balti, lai gan nav nedzirdēts arī par melniem vai pelēkiem. Viņi ir vientuļi, mierīgi meža iemītnieki un ļoti jutīgi pret maģiju un savu vidi. Tiek uzskatīts, ka viņi ir nemirstīgi, ja vien netiek nogalināti vai to rags netiek noņemts, un šī iemesla dēļ tiek uzskatīts, ka viņu ragi piešķir nemirstību. Vienradži bieži tiek attēloti heraldikā un ir bruņnieciskuma un jaunavīga tikuma zīme. Viņi īpaši uzticas jaunavīgām cilvēku vai elfu sievietēm.
+Vienradzis ir zirgam līdzīgs maģisks dzīvnieks ar mazām nagām un vienu garu taisnu ragu, kas izvirzās no pieres centra. Vienradži gandrīz vienmēr ir balti, lai gan melni vai pelēki nav nekas neparasts. Tie ir vientuļi, miermīlīgi meža iemītnieki un ir ļoti jutīgi pret maģiju un savu vidi. Tiek uzskatīts, ka tie ir nemirstīgi, ja vien netiek nogalināti vai to rags nav noņemts, un šī iemesla dēļ to ragi tiek uzskatīti par nemirstības devējiem. Vienradži bieži tiek attēloti heraldikā un ir bruņnieciskuma un jaunavīga tikuma zīme. Tie ir īpaši uzticīgi jaunavīgām cilvēku vai elfu sievietēm.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+24 | 2D6+6 | 2D6+18 | 2D6+6 | 2D6+12 | 2D6+6 | 4D6 |
 | 31 | 13 | 25 | 13 | 19 | 13 | 14 |
 
 | Kustība 12 | Dzīvības punkti 19 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** Nav |
+| **Bojājumu modifikators** +2D6 | **Bruņas** Nav |
 
 **Uzbrukumi:**
 
-* Rags 75%, 1D10+dm (caurduršana)
-* Spertiens 40%, 1D8+dm (saspiešana)
-* Pakaļkājas & Trieciens 40%, 2D8+dm (saspiešana)
-* Samīšana 75%, 2D6+dm (saspiešana)
+* Rags 75%, 1D10+bm (caurdurošs)
+* Spēriens 40%, 1D8+bm (saspiežošs)
+* Atkāpšanās un trieciens 40%, 2D8+bm (saspiežošs)
+* Samīdīšana 75%, 2D6+bm (saspiežošs)
 
-Vienradzis vienā raundā var uzbrukt vienreiz, dodot priekšroku ragam. Vienradzis var atvairīt ar ragu, kā arī vienlaikus spert vai durstīt ar ragu.
+Vienradzis var uzbrukt reizi raundā, dodot priekšroku izmantot savu ragu. Vienradzis var atvairīt ar ragu, kā arī vienlaikus spert vai durt ar ragu.
 
-**Prasmes:** Izvairīties 35%, Paslēpties 65%, Ieskats 50%, Lēkt 90%, Klausīties 70%, Sajušana 80%, Pamanīt 75%, Slēpties 50%.
+**Prasmes**: Izvairīšanās 35%, Slēpšanās 65%, Ieskats 50%, Lēkšana 90%, Klausīšanās 70%, Sajūtas 80%, Pamanīšana 75%, Maskēšanās 50%.
 
-**Spējas:** Vienradzis var dziedināt brūces ar savu ragu, pieskaroties brūcei un iztērējot 1 spēka punktu uz katru atjaunojamo dzīvības punktu. Šī dziedināšana var pat atjaunot amputētu ekstremitāti, ja tiek iztērēti vismaz 6 spēka punkti. Arī indes vai slimības dēļ zaudētus raksturlielumu punktus var izārstēt, taču tas prasa 1 pastāvīgu POW punktu uz katru izārstēto punktu, tāpēc vienradži nelabprāt to dara. Turklāt vienradzis var noteikt indi ar raga pieskārienu. Ja vienradža rags tiek pārvērsts kausā, tas saplīst, ja tajā ievieto indi.
+**Spējas**: Vienradzis var dziedēt brūces ar savu ragu, pieskaroties brūcei un tērējot 1 spēka punktu uz katru atjaunojamo dzīvības punktu. Šī dziedināšana var pat atjaunot amputētu ekstremitāti, ja tiek iztērēti vismaz 6 spēka punkti. Raksturlielumu punktus, kas zaudēti indes vai slimības dēļ, arī var izārstēt, bet tas prasa 1 pastāvīgu VAR punktu uz katru izārstēto punktu, tāpēc vienradži nelabprāt to dara. Turklāt vienradzis var noteikt indi ar raga pieskārienu. Ja vienradža rags tiek pārvērsts kausā, tas sašķīst, ja tajā ieliek indi.
 
 ### Vampīrs
 
-Vampīri ir nedzīvie, kas izdzīvo, dzerot dzīvo asinis. Radīti, kad viņi dalās asinīs ar vampīru un tiek nogalināti, viņi atmostas kā rijīgas radības. Tomēr daudzi vampīri atgūst savu iepriekšējo inteliģenci un var pārvietoties nepamanīti cilvēku sabiedrībā, būdami nemirstīgi un uzmanīgi, barojoties. Daži ir pilsētnieciski un civilizēti un barojas ar mazākiem dzīvniekiem vai izmanto citus līdzekļus asiņu iegūšanai. Citi ir kā vilki, nogalinot nesodīti.
+Vampīri ir nedzīvie, kas izdzīvo, dzerot dzīvo asinis. Radīti, kad tie dalās asinīs ar vampīru un tiek nogalināti, tie atmostas kā rijīgas būtnes. Tomēr daudzi vampīri atgūst savu iepriekšējo inteliģenci un var pārvietoties nepamanīti cilvēku sabiedrībā, nemirstīgi, paliekot piesardzīgi, kad barojas. Daži ir urbāni un civilizēti un barojas ar mazākiem dzīvniekiem vai izmanto citus līdzekļus asiņu iegūšanai. Citi ir kā vilki, slepkavojot nesodīti.
 
-Tāpat kā spokiem, ir daudz vampīru veidu, sākot no skaistiem, pilsētnieciskiem, inteliģentiem un noslēgtiem diletantiem līdz šausmīgi neglītiem monstriem ar sikspārņiem līdzīgām iezīmēm un izvirzītiem ilkņiem, kas dzīvo kanalizācijās un ir tikko saprātīgi. Daži vampīri var pat censties izpirkt savas iepriekšējās dzīves pārkāpumus un slepkavības, ko viņi ir izdarījuši. Tālāk ir minētas vampīriem piedēvētās īpašības vai aspekti – patiesi vai nepatiesi.
+Tāpat kā spokiem, ir daudz vampīru veidu, sākot no skaistiem, urbāniem, inteliģentiem un noslēgtiem diletantiem līdz šausmīgi neglītiem monstriem ar sikspārnim līdzīgām iezīmēm un izvirzītiem ilkņiem, kas dzīvo kanalizācijās un ir tikko apveltīti ar saprātu. Daži vampīri var pat censties izpirkt savas iepriekšējās dzīves grēkus un nogalināšanas, ko tie izdarījuši. Tālāk ir sniegtas vampīriem piedēvētās īpašības vai aspekti, patiesi vai nepatiesi.
 
-* Vampīrs neatspoguļojas spogulī.
-* Trešais kodums no vampīra liek upurim nomirt un pēc tam kļūt par vienu no nedzīvajiem. Kad tēls kļūst par vampīru, viņa STR un CON dubultojas.
-* Vampīriem ir matainas plaukstas, pretīga elpa, un viņi raud asins asaras.
-* Sākotnējā vai "galvenā" vampīra nogalināšana izdziedina viņa upurus no vampīrisma. Alternatīvi, galvenā vampīra nogalināšana uzreiz nogalina visus tos vampīrus, kurus tas ir radījis.
+* Vampīrs neatspoguļojas.
+* Trešais kodums no vampīra izraisa upura nāvi un pēc tam kļūšanu par nedzīvo. Kad tēls tiek pārvērsts par vampīru, tā SPĒ un IZT dubultojas.
+* Vampīriem ir matainas plaukstas, pretīga elpa un tie raud asins asaras.
+* Sākotnējā vai „galvenā” vampīra nogalināšana izārstē tā upurus no vampīrisma. Alternatīvi, vadošā vampīra nogalināšana acumirklī nogalina visus tos vampīrus, kurus tas radījis.
 * Vampīri nevar šķērsot tekošu ūdeni, piemēram, upi.
-* Ķiploki atvaira vampīrus. Ķiplokiem ir POT 2D6+6 (tikai vampīriem), un tiem ir jāpretojas ar vampīra pašreizējiem spēka punktiem. Ja vampīrs gūst panākumus, tas var rīkoties pret ķiploku turētāju. Ja tas neizdodas, vampīrs ir apdullināts, līdz vairs neatrodas ķiploku tuvumā. Ja vampīrs apēd ķiplokus, tas saņem 1D2 dzīvības punktu zaudējumu uz katru patērēto daiviņu.
-* Vampīri izmanto cilvēku kalpus, lai sargātu savus noslēpumus un aizsargātu viņus dienas laikā.
-* Vampīrs nevar ieiet mājā vai dzīvesvietā bez uzaicinājuma.
+* Ķiploki atbaida vampīrus. Ķiplokiem ir 2D6+6 STP (tikai pret vampīriem), un pret tiem jāpretojas ar vampīra pašreizējiem spēka punktiem. Ja vampīrs gūst panākumus, tas var rīkoties pret ķiploku turētāju. Ja tas neizdodas, vampīrs ir apdullināts, līdz vairs neatrodas ķiploku tuvumā. Ja vampīrs apēd ķiplokus, tas gūst 1D2 dzīvības punktu bojājumu par katru apēsto daiviņu.
+* Vampīri izmanto cilvēkus kalpus, lai sargātu savus noslēpumus un aizsargātu tos dienasgaismas stundās.
+* Vampīrs nevar ienākt mājā vai rezidencē neaicināts.
 
-Daži vampīri organizējas klanos, katram ir atšķirīgs izskats, tieksmes un pat spējas (sk. Spējas tālāk).
+Daži vampīri organizējas klanos, katram no kuriem ir atšķirīgs izskats, tendences un pat spējas (skatiet Spējas, tālāk).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 3D6x2 | 3D6x2 | 3D6 | 2D6+6 | (13) | 3D6 | 3D6 |
+| 3D6×2 | 3D6×2 | 3D6 | 2D6+6 | (13) | 3D6 | 3D6 |
 | 20–22 | 20–22 | 10–11 | 13 | (13) | 10–11 | 10–11 |
 
 | Kustība 12 | Dzīvības punkti 15–17 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D6 | **Bruņas** Nav (var valkāt bruņas) |
+| **Bojājumu modifikators** +1D6 | **Bruņas** Nav (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Kodums 50%, 1D4+½dm (asiņošana) + Asins izsūkšana (skatīt zemāk)
-* Naga 50%, 1D4+dm (asiņošana) + Auksts pieskāriens (skatīt zemāk)
-* Hipnotisks skatiens, POW pret POW, (īpašs skatīt zemāk)
+* Kodums 50%, 1D4+½bm (asiņošana) + Asins nosūkšana (skatiet zemāk)
+* Nags 50%, 1D4+bm (asiņošana) + Vēss pieskāriens (skatiet zemāk)
+* Hipnotisks skatiens, VAR pret VAR, (īpašs skatiet zemāk)
 * Cīkšanās 75%, īpašs
 
-Vampīrs katrā raundā var veikt vienu koduma un divus nagu uzbrukumus, vai arī mēģināt vienu naga un hipnotisku skatiena uzbrukumu. Ja tas ir veiksmīgs abos nagu uzbrukumos un koduma uzbrukumā, tas satver savu mērķi un katrā raundā izsūc tā asinis, līdz mērķis ir rīcībnespējīgs. Vampīrs nevar mēģināt Izvairīties raundā, kurā tas kož vai izmanto hipnotisku skatienu. Šīs spējas ir aprakstītas zemāk.
+Vampīrs var veikt vienu kodiena un divus nagu uzbrukumus raundā, vai arī mēģināt vienu nagu un hipnotiska skatiena uzbrukumu. Ja tas izdodas abos nagu uzbrukumos un kodiena uzbrukumā, tas satver savu mērķi un nosūc to asinis katrā raundā, līdz mērķis ir nespējīgs. Vampīrs nevar mēģināt Izvairīties raundā, kad tas kož vai izmanto hipnotisko skatienu. Šīs spējas ir aprakstītas zemāk.
 
-**Prasmes:** Izvairīties 50%, Etiķete 50%, Lidot 90%, Paslēpties 70%, Ieskats 60%, Lēkt 75%, Zināšanas (Vēsture) 75%, Valoda (senā) 75%, Valoda (modernā) 50%, Klausīties 60%, Pārliecināt 60%, Sajušana 75%, Pamanīt 75%, Slēpties 80%, Sekot 75%.
+**Prasmes:** Izvairīšanās 50%, Etiķete 50%, Lidošana 90%, Slēpšanās 70%, Ieskats 60%, Lēkšana 75%, Zināšanas (Vēsture) 75%, Valoda (senā) 75%, Valoda (mūsdienu) 50%, Klausīšanās 60%, Pārliecināšana 60%, Sajūtas 75%, Pamanīšana 75%, Maskēšanās 80%, Pēdošana 75%.
 
-**Spējas:** Vampīriem ir plašs spēju klāsts, kas tiem tiek piedēvēts. Šīs ir tās, kas piemīt gandrīz visiem vampīriem.
+**Spējas:** Vampīriem ir plašs spēju klāsts, kas tiem tiek piedēvēts. Tālāk ir minētas tās, kas ir gandrīz visiem vampīriem.
 
-* **Asins izsūkšana:** Vampīrs, kas veiksmīgi kož un nodara bojājumus mērķim, katrā nākamajā raundā, kad tas paliek pieķēries un cīnās ar to, var izsūkt 1D6 STR vai 1D6 spēka punktus no mērķa. Ja mērķis ir zaudējis visu savu STR, vampīrs var izvēlēties izsūkt CON. Pie 0 CON upuris mirst. Ja upuris izdzīvo, šie raksturlielumu punkti reģenerējas 1 punktu dienā atpūtas laikā, vai divreiz ilgāk, ja ir aktīvs. Ja tiek izsūkts vairāk nekā viens raksturlielums, katru dienu pamīšus atgūstiet 1 STR punktu, tad 1 CON punktu utt. Spēka punkti reģenerējas normāli. Vampīrs izmanto Asins izsūkšanu, lai atgūtu savus spēka punktus – tam nav sava POW, un tas nevar tos normāli reģenerēt. Izsūktie STR, CON vai spēka punkti tiek nodoti vampīram kā vienāds spēka punktu skaits. Vampīrs nevar uzglabāt vairāk spēka punktu, nekā ir tā CON. Jebkādi punkti virs tā tiek zaudēti.
-* **Auksts pieskāriens:** Vampīrs, kas pieskaras mērķim, var izsūkt spēka punktus, nevis asinis. Vampīram ir jābūt guvušam panākumus nagu uzbrukumā pret mērķi (vai pieskāries rīcībnespējīgam vai neuzmanīgam mērķim). Nākamajā raundā tas veic pretestības rullējumu ar saviem pašreizējiem spēka punktiem pret mērķa pašreizējiem spēka punktiem. Bruņas nepasargā pret šo uzbrukumu. Ja vampīrs gūst panākumus, tas izsūc 1D3 spēka punktus no mērķa, kas tiek pārsūtīti uz tā pašreizējo spēka punktu kopsummu. Vampīram katrā raundā jāpaliek kontaktā ar mērķi, lai turpinātu šo sūkšanu, un katrā kaujas raundā jāgūst panākumi pretestības rullējumā. Mērķis atgūst šos zaudētos spēka punktus normāli.
-* **Hipnotisks skatiens:** Ja vampīrs pretestības rullējumā pārvar mērķa POW ar saviem pašreizējiem spēka punktiem, mērķis ir hipnotizēts un to var piespiest izpildīt vienkāršus norādījumus. Ja šie norādījumi ir pašiznīcinoši, raunda sākumā mērķis var veikt Idejas rullējumu, lai atbrīvotos no tā.
-* **Nakts redze:** Vampīriem ir dabisks talants, kas apvieno Tumšredzes, Infrasarkano redzi un Naktsredzi līmenī, kas vienāds ar pusi vampīra INT (noapaļojot uz augšu).
-* **Reģenerācija:** Ja vien tas netiek nogalināts ar tradicionālu metodi (sk. zemāk), vampīrs reģenerē 1D3 dzīvības punktus katrā kaujas raundā. Ja tiek izmantotas trāpījumu zonas, vampīrs dziedē 1 dzīvības punktu uz katru ievainoto trāpījumu zonu katrā kaujas raundā. Ja tas atrodas tiešā saules gaismā vai svēta simbola tuvumā, tas nereģenerē šo bojājumu un tam jādziedē normāli (tas arī saņem bojājumus no šiem avotiem, sk. Vājības tālāk). Turklāt bojājumus no svētā ūdens, svēta simbola, saules gaismas vai uguns nevar reģenerēt, un tie jādziedē ar vampīra normālo dziedēšanas ātrumu.
+* **Asins nosūkšana:** Vampīrs, kas veiksmīgi kož un bojā mērķi, var nosūkt 1D6 SPĒ vai 1D6 spēka punktus no šī mērķa katrā turpmākajā raundā, kad tas paliek pieķēries, cīnoties ar to. Ja mērķis ir zaudējis visu savu SPĒ, vampīrs var izvēlēties nosūkt IZT. Pie 0 IZT upuris mirst. Ja upuris izdzīvo, šie raksturlielumu punkti atjaunojas par 1 punktu dienā atpūtas laikā, vai divreiz ilgāk, ja ir aktīvi. Ja tiek nosūkts vairāk nekā viens raksturlielums, mainiet atkopšanos katru dienu, lai atgūtu 1 SPĒ punktu, tad 1 IZT punktu utt. Spēka punkti atjaunojas normāli. Vampīrs izmanto Asins nosūkšanu, lai atgūtu savus spēka punktus – tam nav sava VAR un tas nevar tos normāli atjaunot. Nosūktais SPĒ, IZT vai spēka punkti tiek nodoti vampīram kā vienāds skaits spēka punktu. Vampīrs nevar uzglabāt vairāk spēka punktu nekā tā IZT. Visi punkti virs tā tiek zaudēti.
+* **Vēss pieskāriens:** Vampīrs, kas pieskaras mērķim, var nosūkt spēka punktus asiņu vietā. Vampīram ir jābūt veiksmīgi izdarījušam nagu uzbrukumu pret mērķi (vai pieskāries nespējīgam vai neapzinīgam mērķim). Turpmākajā raundā tas veic pretestības metienu ar saviem pašreizējiem spēka punktiem pret mērķa pašreizējiem spēka punktiem. Bruņas neaizsargā pret šo uzbrukumu. Ja vampīrs gūst panākumus, tas nosūc 1D3 spēka punktus no mērķa, kas tiek pārsūtīti uz tā pašreizējo spēka punktu kopsummu. Vampīram katrā raundā jāsaglabā kontakts ar mērķi, lai turpinātu šo nosūkšanu, un katrā kaujas raundā jādabū veiksmīgs pretestības metiens. Mērķis atgūst šos zaudētos spēka punktus normāli.
+* **Hipnotisks skatiens:** Ja vampīrs pārvar mērķa VAR ar saviem pašreizējiem spēka punktiem pretestības metienā, mērķis ir hipnotizēts un var tikt likts izpildīt vienkāršas instrukcijas. Ja šīs instrukcijas ir pašiznīcinošas, raunda sākumā mērķis var mēģināt Ideju metienu, lai izkļūtu no tā.
+* **Nakts redze:** Vampīriem ir dabiska spēja, kas apvieno Tumšredzes, Infrasarkanās redzes un Nakts redzes Super Sajūtas līmenī, kas vienāds ar pusi no vampīra INT (noapaļojot uz augšu).
+* **Reģenerācija:** Ja vien tas netiek nogalināts ar tradicionālu metodi (skatiet zemāk), vampīrs atjaunojas par 1D3 dzīvības punktiem katrā kaujas raundā. Ja tas atrodas tiešā saules gaismā vai svēta simbola klātbūtnē, tas neatjauno šo bojājumu un tam jādziedē normāli (tas arī gūst bojājumus no šiem avotiem, skatiet Vājības, tālāk). Turklāt bojājumus no svētā ūdens, svētā simbola, saules gaismas vai uguns nevar reģenerēt, un tiem jādziedē ar vampīra normālo dziedināšanas ātrumu.
 
-Papildus iepriekš minētajam tiek teikts, ka vampīriem ir citas spējas, kuras var būt vai nebūt patiesas.
+Papildus iepriekš minētajam, tiek teikts, ka vampīriem ir citas spējas, kas var būt vai var nebūt patiesas.
 
-* **Nakts leģioni:** Vampīri var kontrolēt mazākas radības, piemēram, sikspārņus, žurkas un vilkus. Vampīrs var izsaukt 1D6 žurku vai sikspārņu barus, izturoties pret sikspārņu bariem kā pret žurku bariem, bet ar Lidot 100%), vai 1D6 vilkus. Katrs bars maksā 1 spēka punktu, lai izsauktu, un katrs vilks maksā 3 spēka punktus, lai izsauktu un kontrolētu. Šīs radības var tikt radītas kā blakuspersonas, bet, nosakot kontroli, izmanto vampīra pašreizējo spēka punktu kopsummu, vai arī tās var apstrādāt ar burvestībām, piemēram, Putna vīzija (aizstājot putnu ar sikspārni) un Kaitēkļu vīzija.
-* **Miglas forma:** Vampīrs var pārvērsties miglā, spējot pārvietoties cauri vissīkākajām plaisām un bez piepūles peldēt gaisā. Vampīru ar šo spēju var piespiest pāriet miglas formā, kad tā dzīvības punkti tiek samazināti līdz 0, taču tas netiek nogalināts tradicionālā veidā. Tā varētu būt maģiskā burvestība Pārvērsties vai superspējas Alternatīva forma vai Necaurlaidība. Miglas formā vampīram ir MOV 5, un tas ir imūns pret vairumu fizisko bojājumu veidu, lai gan maģija to joprojām var ietekmēt.
-* **Formas maiņa:** Vampīrs var pārvērsties par vilku, sikspārni vai pat žurku baru par 3 spēka punktu maksu. Tāpat kā Miglas forma, šī spēja ir identiska vai nu Pārvērsties vai Alternatīvai formai. Izmantojiet vilka vai žurku bara statistiku vampīra spējām jebkurā no šīm formām, izmantojot tos pašus spēles efektus žurkām kā sikspārņiem (lai gan ar Lidot 100%).
-* **Burvestības:** Vampīri ir spēcīgi burvji ar dažādām burvestībām, kas gatavas lietošanai. Ar savu neticamo mūžu un pieeju aizliegtām grāmatām, ruļļiem un nesvētām zināšanām, vampīri zina daudzas burvestības vai maģijas burvestības. Vampīrs var zināt līdz pat divreiz lielāku cilvēka kapacitāti maģijas vai burvestību jomā. Vampīri izmanto savu pašreizējo spēka punktu kopsummu, lai pārvarētu mērķus vai savai maģijai.
+* **Nakts leģioni:** Vampīri var kontrolēt mazākas būtnes, piemēram, sikspārņus, žurkas un vilkus. Vampīrs var izsaukt 1D6 žurku vai sikspārņu barus (sikspārņu barus uzskatot par žurku bariem, bet ar Lidošanu 100%) vai 1D6 vilkus. Katrs bars izmaksā 1 spēka punktu, lai izsauktu, un katrs vilks izmaksā 3 spēka punktus, lai izsauktu un kontrolētu. Šīs būtnes var tikt izveidotas kā palīgi, bet izmanto vampīra pašreizējo spēka punktu kopsummu, nevis VAR, nosakot kontroli, vai arī var tikt apstrādātas ar burvestībām, piemēram, Putna vīzija (aizstājot putnu ar sikspārni) un Kaitēkļu vīzija.
+* **Miglas forma:** Vampīrs var pārvērsties miglā, spējot pārvietoties caur mazākajām plaisām un bez piepūles peldēt pa gaisu. Vampīrs ar šo spēju var tikt spiests miglas formā, kad tā dzīvības punkti samazinās līdz 0, bet netiek nogalināts tradicionālā veidā. Tā varētu būt maģiskā burvestība Pārvērtība vai superspējas Alternatīvā forma vai Nemateriālība. Atrodoties miglas formā, vampīram ir KŪS 5, un tas ir imūns pret vairumu fizisko bojājumu veidu, lai gan maģija to joprojām var ietekmēt.
+* **Formas maiņa:** Vampīrs var pārvērsties vilkā, sikspārnī vai pat žurku barā par 3 spēka punktiem. Tāpat kā miglas formā, spēja ir identiska Pārvērtībai vai Alternatīvajai formai. Izmantojiet vilka vai žurku bara statistiku vampīra spējām abās šajās formās, izmantojot tos pašus spēles efektus žurkām kā sikspārņiem (lai gan ar Lidošanu 100%).
+* **Burvestību izmantošana:** Vampīri ir jaudīgi burvji ar dažādu burvestību klāstu gatavībā. Ar saviem neticamajiem mūžiem un pieeju aizliegtajiem tomiem, ruļļiem un nesvētām zināšanām, vampīri zina daudzas burvestības vai maģijas burvestības. Vampīrs var zināt līdz divreiz vairāk par normālu cilvēku kapacitāti maģijas vai burvestību jomā. Vampīri izmanto savu pašreizējo spēka punktu kopsummu, lai pārvarētu mērķus vai savai maģijai.
 
-**Vājības:** Vampīriem kā nolādētiem un nesvētītiem nedzīvajiem ir daudz vājību, kas tos atšķir no dzīvajiem un citiem nedzīvo veidiem. Tālāk ir minētas tradicionālās vampīru vājības, no kurām visas, daudzas vai neviena var būt patiesas.
+**Vājības:** Vampīri, kā nolādēti un nesvētīti nedzīvie, ir daudzas vājības, kas tos atšķir no dzīvajiem un citu veidu nedzīvajiem. Tālāk ir sniegtas tradicionālās vampīru vājības, no kurām visas, daudzas vai neviena var būt patiesas.
 
-* **Asins slāpes:** Vampīrs zaudē 1D6 spēka punktus katru dienu vienkārši esot, iztērētus, kad vampīrs pirmo reizi atmostas. Ja vampīrs sasniedz 1 vai 2 spēka punktus, visi tā rullējumi ir Grūti vājuma un rūcošo slāpju dēļ.
-* **Dienasgaisma:** Vampīri saņem 1 bojājumu uz katru kaujas raundu tiešā saules gaismā. Tiešā saules gaismā vampīrs nevar reģenerēties, mainīt formu, pārvērsties miglā vai izmantot savu hipnotisko skatienu. Saules gaisma var radīt papildu problēmas vampīriem, piemēram, padarot visus prasmju rullējumus Grūtus. Šī iemesla dēļ vampīri tradicionāli ir nakts radības.
-* **Galvas nociršana:** Vampīrs, kam ir nocirsta galva, ir miris, nereģenerēsies un nekad nevar augšāmcelties no mirušajiem.
-* **Uguns:** Vampīri saņem dubultus bojājumus no uguns, lai kāds būtu tās avots. Vampīri ir viegli uzliesmojoši, ja tiek mēģināts kādu aizdedzināt.
-* **Svēti simboli:** Vampīri, kuriem tiek parādīts svēts simbols tēla rokās ar patiesu ticību (varbūt Padevības kaislība 80% vai vairāk vai 50 uzticība "labam" dievam), tiek pakļauti milzīgām sāpēm, zaudējot 1D3 spēka punktus par katru raundu, kurā tēls ar svēto simbolu gūst panākumus pretestības rullējumā POW pret vampīra pašreizējiem spēka punktiem. Tēlam ir jākoncentrējas uz to un katrā raundā nedrīkst veikt nekādus citus uzbrukumus. Vampīrs saņem 1D3 punktu bojājumu par katru raundu, ja tas nonāk tiešā fiziskā kontaktā ar svēto simbolu. Vampīrs nevar mēģināt izmantot savu hipnotiskā skatiena spēju pret tēlu, kas uzvar šajā pretestības rullējumā.
-* **Svētīts ūdens:** Svētīts ūdens darbojas kā spēcīga skābe pret vampīriem (sk. Skābe), nodarot 1D4 bojājumu katrā kaujas raundā. Tēls ar vismaz 50 Uzticību labvēlīgam dievam var radīt svētu ūdeni, pavadot vienu pilnu raundu lūgšanās un iztērējot 1 spēka punktu pār šo ūdeni. Ūdens daudzums, ko var svētīt, ir ierobežots ar tēla POW SIZ.
-* **Svētīta zeme:** Vampīrs zaudē 3D6 spēka punktus katru dienu, kad tas nepavada vismaz četras stundas zārkā (vai ekvivalentā), kas izklāts ar zemi no tā dzimtenes; sods tiek piemērots saulrietā. Tādējādi slikti sagatavots vampīrs katru vakaru var zaudēt 4D6 spēka punktus, ja tam liedz svētītu zemi un asins slāpju dēļ (sk. augstāk). Ja vampīrs sasniedz 0 spēka punktus, tas kļūst komatozs, nevis miris, bet nespējīgs pārvietoties vai funkcionēt, līdz kāds cits tam pārskaita spēka punktus, izmantojot spēju.
-* **Koka mieti:** Ja koka miets tiek iedzīts vampīra sirdī un nodara vismaz 1 bojājuma punktu, vampīrs uzreiz pārvēršas putekļos. Kaujā tas ir jebkurā gadījumā, kad koka ierocis gūst caurduršanas vai kritisku rezultātu Grūtā uzbrukumā, vai tēmētā šāvienā uz krūškurvja trāpījuma zonu. Tradicionāls koka miets nodara 1D3+dm un tam ir 6 dzīvības punkti, ar bāzes iespēju 15%. Alternatīvi, tas vienkārši neļauj vampīram rīkoties un reģenerēties, un vampīram ir jābūt nocirstai galvai, galva un ķermenis jāsadedzina atsevišķi, lai pilnībā iznīcinātu.
+* **Asinskāre:** Vampīrs zaudē 1D6 spēka punktus katru dienu vienkārši esot, iztērētus, kad vampīrs pirmo reizi atmostas. Ja vampīrs sasniedz 1 vai 2 spēka punktus, visi tā metieni ir Sarežģīti tā vājuma un rūcošās slāpju dēļ.
+* **Dienasgaisma:** Vampīri gūst 1 bojājumu katrā kaujas raundā tiešā saules gaismā. Atrodoties tiešā saules gaismā, vampīrs nevar reģenerēties, mainīt formu, pārvērsties miglā vai izmantot savu hipnotisko skatienu. Saules gaisma var radīt papildu problēmas vampīriem, piemēram, padarot visus prasmju metienus Sarežģītus. Šī iemesla dēļ vampīri tradicionāli ir naktiski.
+* **Dekapitācija:** Vampīrs, kuram nocirsta galva, ir miris, neatjaunosies un nekad vairs neatdzims no mirušajiem.
+* **Uguns:** Vampīri gūst dubultus bojājumus no uguns, neatkarīgi no tās avota. Vampīri ir uzliesmojoši, ja tiek mēģināts tos aizdedzināt.
+* **Svētīti simboli:** Vampīriem, kam tiek parādīts svēts simbols tēla rokās ar patiesu ticību (varbūt Padevības kaislība 80% vai vairāk vai 50 uzticība „labajam” dievam), tiek izraisītas intensīvas sāpes, zaudējot 1D3 spēka punktus katrā raundā, kad tēls ar svēto simbolu gūst panākumus pretestības metienā VAR pret vampīra pašreizējiem spēka punktiem. Tēlam jākoncentrējas uz to un katrā raundā tas nevar veikt nekādus citus uzbrukumus. Vampīrs gūst 1D3 bojājuma punktus katrā raundā, ja tas nonāk faktiskā fiziskā kontaktā ar svēto simbolu. Vampīrs nevar mēģināt savu hipnotiskā skatiena spēju pret tēlu, kas uzvar šajā pretestības metienā.
+* **Svētīts ūdens:** Svētīts ūdens darbojas kā spēcīga skābe pret vampīriem (skatiet Skābe), nodarot 1D4 bojājumus katrā kaujas raundā. Tēls ar vismaz 50 Uzticību labvēlīgai dievībai var radīt svētu ūdeni, pavadot vienu pilnu kārtu lūgšanā un iztērējot 1 spēka punktu pār šo ūdeni. Ūdens daudzums, ko var svētīt, ir ierobežots ar tēla VAR IZM.
+* **Svēta zeme:** Vampīrs zaudē 3D6 spēka punktus katru dienu, kad tas nepavada vismaz četras stundas zārkā (vai līdzvērtīgā), kas izklāts ar zemi no tā dzimtenes; sods, kas tiek piemērots saulrietā. Tādējādi, nepietiekami sagatavots vampīrs var zaudēt 4D6 spēka punktus katru vakaru, ja tam tiek liegta svēta zeme un asinskāres dēļ (skatiet augstāk). Ja vampīrs sasniedz 0 spēka punktus, tas kļūst komatozs, nevis miris, bet nespējīgs pārvietoties vai darboties, līdz kāds cits tam nodod spēka punktus, izmantojot spēju.
+* **Pīķi:** Ja koka pīķis tiek iedurts vampīra sirdī un nodara vismaz 1 bojājuma punktu, vampīrs acumirklī sabrūk putekļos. Kaujā tas ir jebkurā reizē, kad koka ierocis gūst caurdurošu vai kritisku rezultātu Sarežģītā uzbrukumā, vai tēmēts šāviens krūšu kurvja hitlokācijā. Tradicionāls koka pīķis nodara 1D3+bm un tam ir 6 dzīvības punkti, ar bāzes iespēju 15%. Alternatīvi, tas tikai liedz vampīram darboties un reģenerēties, un vampīram ir jābūt dekapitētam, galvai un ķermenim jābūt sadedzinātiem atsevišķi, lai tos pilnībā iznīcinātu.
 
 ### Vilkatis
 
-Vilkati ir formas mainītāji, kas spēj pārvērsties no cilvēka par vilku ar starpposma hibrīda formu. Šo stāvokli sauc par likantropiju. Daži vilkati šīs pārvērtības var veikt brīvprātīgi, bet citi pārveidojas piespiedu kārtā naktīs, kad mēness ir pilns. Pēdējā veida vilkati tad kļūst par tīru zvēru bez apzinātas kontroles vai pat atmiņas par savām darbībām, atrodoties vilkati-formā. Tradicionāli kāds, kurš izdzīvo pēc vilkati koduma, nākamajā pilnmēnesī kļūs par vilkati – stāvoklis, no kura it kā nav iespējams izbēgt. Daži likantropijas veidi ir maģiski pēc dabas (parasti lāsts), bet citi veidi ir kā slimība, pēc spēles vadītāja ieskatiem.
+Vilkati ir formas mainītāji, kas spēj pārvērsties no cilvēka par vilku ar starpposma hibrīda formu. Šo stāvokli sauc par likantropiju. Daži vilkati var veikt šīs pārmaiņas brīvprātīgi, bet citi pārveidojas piespiedu kārtā naktīs, kad mēness ir pilns. Šāda veida vilkati tad kļūst par tīru zvēru bez apzinātas kontroles vai pat atmiņas par savām darbībām, atrodoties vilka formā. Tradicionāli kāds, kas izdzīvo pēc vilkata koduma, nākamajā pilnmēnesī kļūs par vilkati – stāvoklis, kas esot neizbēgams. Daži likantropijas veidi ir maģiski (parasti lāsts), bet citi veidi ir kā slimība, pēc spēles vadītāja ieskatiem.
 
-Cilvēka formā vilkatis ir ārēji normāls un tam ir normāli cilvēka raksturlielumi. Tālāk ir statistika hibrīda (vilks-cilvēks) un vilka formām.
+Cilvēka formā vilkatis ir ārēji normāls un tam ir normāli cilvēka raksturlielumi. Tālāk ir statistika hibrīda (vilka-cilvēka) un vilka formām.
 
 **Hibrīda forma**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6 | 2D6+6 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 10–11 | 13 | 13 | 13 |
 
 **Vilka forma**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6+1D3 | 1D4+2 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 12–13 | 4–5 | 13 | 13 |
 
 | Kustība 12 / 13 | Dzīvības punkti 12 / 12–13 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 / +1D6 | **Bruņas** 1 punkta kažoks (imunitāte pret normāliem ieročiem, skatīt zemāk) |
+| **Bojājumu modifikators** +1D4 / +1D6 | **Bruņas** 1 punkta kažoks (imunitāte pret parastiem ieročiem, skatiet zemāk) |
 
 **Uzbrukumi (hibrīda forma):**
 
-* Kodums 50%, 1D4+½dm (asiņošana)
-* Nagi 65%, 1D6+dm (asiņošana)
+* Kodums 50%, 1D4+½bm (asiņošana)
+* Nagi 65%, 1D6+bm (asiņošana)
 
 **Uzbrukumi (vilka forma):**
 
-* Kodums 65%, 1D8+½dm (asiņošana)
-* Nagi 45%, 1D6+dm (asiņošana)
+* Kodums 65%, 1D8+½bm (asiņošana)
+* Nagi 45%, 1D6+bm (asiņošana)
 
-Jebkurā formā vilkatis katrā kaujas raundā var veikt vienu koduma uzbrukumu un divus nagu uzbrukumus.
+Jebkurā formā vilkatis katrā kaujas raundā var veikt vienu kodiena uzbrukumu un divus nagu uzbrukumus.
 
-**Spējas:** Vilkatiem piemīt šādas spējas:
+**Spējas:** Vilkatiem ir šādas spējas:
 
-* **Imunitāte:** Vilkati ir imūni pret vairumu bojājumu veidu, izņemot maģiju, uguni vai sudrabu. Citi uzbrukumi vienkārši atlec, neatkarīgi no rezultāta. Maģija, uguns un sudraba ieroči nodara pilnus bojājumus. Ierocis ar uz to uzliktu burvestību, piemēram, Elles skuveklis, nodara savu maģisko bojājumu, bet ne ieroča bojājumu vai uzbrucēja bojājuma modifikatoru. Tiešs maģisks ierocis nodara normālu bojājumu. Spēles vadītājam vajadzētu noteikt, vai enerģijas ieroči vai citi līdzīgi uzbrukumi var bojāt vilkati.
-* **Reģenerācija:** Vilkati var reģenerēt 1 dzīvības punktu katrā kaujas raundā, ja vien šis bojājums nav nodarīts ar sudraba ieroci. Vilkati dziedē no sudraba ieroča nodarītajiem bojājumiem ar savu normālo dziedēšanas ātrumu.
-* **Transformācija:** Vilkati var ieņemt vienu no trim dažādām formām: cilvēka, hibrīda un vilka. Pāreja no vienas formas citā aizņem 5 DEX rangus un nemaksā spēka punktus. Vilkatis var pārslēgties no jebkuras šīs formas citā.
+* **Imunitāte:** Vilkati ir imūni pret vairumu bojājumu veidu, izņemot maģiju, uguni vai sudrabu. Citi uzbrukumi vienkārši atlec, neatkarīgi no rezultāta. Maģija, uguns un sudraba ieroči nodara pilnus bojājumus. Ierocis ar uz to uzliktu burvestību, piemēram, Elles skuveklis, nodara savu maģisko bojājumu, bet ne ieroča bojājumu vai uzbrucēja bojājumu modifikatoru. Tiešs maģisks ierocis nodara normālus bojājumus. Spēles vadītājam vajadzētu noteikt, vai enerģijas ieroči vai citi līdzīgi uzbrukumi var bojāt vilkati.
+* **Reģenerācija:** Vilkati var atjaunot 1 dzīvības punktu katrā kaujas raundā, ja vien bojājums nav nodarīts ar sudraba ieroci. Vilkati dziedē no bojājumiem, ko nodarījis sudraba ierocis, ar savu normālo dziedināšanas ātrumu.
+* **Pārvērtība:** Vilkati var pieņemt vienu no trim dažādām formām: cilvēka, hibrīda un vilka. Pāreja no vienas formas uz citu aizņem 5 VEI rangus un nemaksā spēka punktus. Vilkatis var pārslēgties no jebkuras no šīm formām uz citu.
 
-**Prasmes:** Kāpt 75%, Izvairīties 65%, Paslēpties 60%, Lēkt 80%, Klausīties 70%, Sajušana 90%, Pamanīt 70%, Sekot 90%.
+**Prasmes:** Kāpšana 75%, Izvairīšanās 65%, Slēpšanās 60%, Lēkšana 80%, Klausīšanās 70%, Sajūtas 90%, Pamanīšana 70%, Pēdošana 90%.
 
 ### Zombijs
 
-Zombiji ir animēti līķi, ko augšāmcēlusi nekromantija, vudū, dēmoniska apsēstība vai moderni cēloņi, piemēram, toksiskas ķimikālijas, radiācija vai bioloģiskais mēris. Lai kāda būtu to izcelsme, zombiji slāpst pēc cilvēka gaļas (daži dod priekšroku smadzenēm) un dara maz ko citu, kā vien meklē barību. Zombiji parasti nespēj runāt un vajā dzīvos baros. Tie nav īpaši gudri un ir viegli apmuļķojami.
+Zombiji ir animēti līķi, ko augšāmceļ nekromantija, vudu, dēmoniska apsēstība vai mūsdienu cēloņi, piemēram, toksiskas ķimikālijas, radiācija vai bioloģisks mēris. Lai kāda būtu to izcelsme, zombiji alkst cilvēka gaļas (daži dod priekšroku smadzenēm) un nedara neko citu, kā vien cenšas baroties. Zombiji parasti nespēj runāt un vajā dzīvos pūļos. Tie nav īpaši gudri un ir viegli apmuļķojami.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 3D6x1.5 | 3D6x1.5 | 2D6+6 | 6 | 1 | 2D6 | 1D6 |
+| 3D6×1.5 | 3D6×1.5 | 2D6+6 | 6 | 1 | 2D6 | 1D6 |
 | 15–17 | 15–17 | 13 | 6 | 1 | 7 | 3–4 |
 
 | Kustība 4 | Dzīvības punkti 14–15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** Nav (skatīt zemāk) |
+| **Bojājumu modifikators** +1D4 | **Bruņas** Nav (skatiet zemāk) |
 
 **Uzbrukumi:**
 
-* Kodums 30%, 1D3+½dm (asiņošana)
-* Naga 25%, 1D3+dm (asiņošana)
+* Kodums 30%, 1D3+½bm (asiņošana)
+* Nags 25%, 1D3+bm (asiņošana)
 * Cīkšanās 35%, īpašs
-* Liela vālīte 35%, 1D8+1+dm (saspiešana)
+* Liela vālīte 35%, 1D8+1+bm (saspiežošs)
 
-Zombija prasme ar ieroci ir vienāda ar tā DEXx5. Zombiji nekad nemēģina Izvairīties vai atvairīt.
+Zombija prasme ar ieroci ir vienāda ar tā VEI×5. Zombiji nekad nemēģina Izvairīties vai atvairīt.
 
-**Spējas:** Vairums grieztu, saspiežošu un caurdurošu ieroču zombijiem nodara tikai pusi bojājuma. Uguns nodara pilnu bojājumu. Dažus zombiju veidus var nogalināt tikai ar īpašu panākumu, kas bojā galvaskausu. Tas ir ikreiz, kad ierocis gūst īpašu vai kritisku rezultātu Grūtā uzbrukumā, vai trāpījums galvas trāpījuma zonā, kas nodara pietiekami daudz bojājumu, lai to rīcībnespējīgu. Daži zombiju veidi ir inficējoši – veiksmīgs kodums pārvērš upuri par zombiju tik raundu skaitā, cik viņam ir CON, bez izņēmuma.
+**Spējas:** Vairums plosošo, saspiežošo un caurdurošo ieroču nodara tikai pusi bojājumu zombijiem. Uguns nodara pilnus bojājumus. Dažus zombiju veidus var nogalināt tikai ar īpašu panākumu, kas bojā galvaskausu. Tas ir jebkurā reizē, kad ierocis gūst īpašu vai kritisku rezultātu Sarežģītā uzbrukumā, vai sitiens galvas hitlokācijā, kas nodara pietiekami daudz bojājumu, lai to padarītu nespējīgu. Daži zombiju veidi ir infekciozi – veiksmīgs kodums pārvērš upuri par zombiju kārtu skaitā, kas vienāds ar to IZT, bez izņēmuma.
 
-**Prasmes:** Sajušana 50%.
+**Prasmes:** Sajūtas 50%.
 
-## Izsauktās radības
+## Izsauktās būtnes
 
-Šīs vienības nav no šīs pasaules vai tiek izsauktas esamībā, kad tās tiek sauktas. Teoloģiskas vienības, piemēram, eņģeļi un dēmoni, būtu jāsastop tikai tajās vidēs, kur tiek izmantota Uzticība, savukārt elementāļi parādītos tikai tad, ja pastāv attiecīgās spējas to izsaukšanai.
+Šīs vienības nav no šīs pasaules vai tiek izsauktas eksistencē, kad tās tiek pasauktas. Teoloģiskas vienības, piemēram, eņģeļus un dēmonus, vajadzētu sastapt tikai vidēs, kur tiek izmantota uzticība, savukārt elementālus vajadzētu parādīties tikai tad, ja pastāv attiecīgās spējas to izsaukšanai.
 
 ### Eņģelis
 
-Eņģelis ir svēta būtne, dievišķa spēka sūtnis. Viņiem ir daudz formu; to izskats ir balstīts uz panteonu, kurā viņi mīt. Eņģeļi kalpo kā vēstneši, aizbildņi, karavīri, mentori vai kā vēstneši. Šis piemērs ir spārnots cilvēkveidīgais, kas aprīkots ar krūšu bruņām un liesmojošu zobenu.
+Eņģelis ir svēta būtne, dievišķa spēka sūtnis. Viņiem ir daudz formu; to izskats ir balstīts uz panteonu, kurā tie mitinās. Eņģeļi kalpo kā vēstneši, sargi, karavīri, mentori vai kā vēstneši. Šis piemērs ir spārnots cilvēkveidīgais, kas aprīkots ar krūšu bruņām un degošu zobenu.
 
-Kā minēts sadaļā Saprāta zudums un radības, dievbijīgs tēls var saņemt SAN, ieraugot eņģeli, ja viņu saprāta rullējums ir veiksmīgs.
+Kā minēts Saprāta zudumā un būtnēs, dievbijīgs tēls var saņemt SAP, redzot eņģeli, ja tā saprāta metiens ir veiksmīgs.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+12 | 2D6+24 | 2D6+6 | 2D6+6 | 4D6+12 | 2D6+12 | 4D6+12 |
 | 26 | 31 | 13 | 13 | 26 | 19 | 26 |
 
 | Kustība 10 (12 lidojot) | Dzīvības punkti 22 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D6 | **Bruņas** 10 punktu plākšņu krūšu bruņas + 10 punktu dievišķais mirdzums |
+| **Bojājumu modifikators** +1D6 | **Bruņas** 10-pt. plākšņu krūšu bruņas + 10-pt. dievišķs starojums |
 
 **Uzbrukumi:**
 
-* Liesmojošs platais zobens 200%, 1D8+1+dm (griezts) + 2D6 (uguns)
-* Svētā uguns 100%, 10D6 (uguns, skatīt zemāk)
-* Debesu balss 100%, īpašs (skatīt zemāk)
+* Degošs platais zobens 200%, 1D8+1+bm (plosošs) + 2D6 (uguns)
+* Svētā uguns 100%, 10D6 (uguns, skatiet zemāk)
+* Debesu balss 100%, īpašs (skatiet zemāk)
 
-Kā dievišķas būtnes eņģeļi spēj pārsniegt 100% prasmju līmeni, pat ja šī opcija netiek izmantota spēlētāju tēliem (sk. Uzbrukumi un atvairīšanas virs 100%). Eņģelis nekad nevar tikt atdalīts no sava zobena, un zobenu nevar salauzt.
+Kā dievišķas būtnes eņģeļi spēj pārsniegt 100% prasmju līmeņus, pat ja šī opcija netiek izmantota spēlētāju tēliem (skatiet Uzbrukumi un Atvairīšana virs 100%). Eņģeli nekad nevar atšķirt no tā zobena, un zobenu nevar salauzt.
 
 **Spējas:** Tiek teikts, ka eņģeļiem ir daudz spēju, no kurām jebkuram atsevišķam eņģelim var būt dažas, visas vai neviena:
 
-* **Dievišķais mirdzums:** Eņģeļi var izstarot gaismas mirdzumu, kas pasargā tos no ievainojumiem, kalpojot par 10 punktu bruņām pret jebkuru bojājuma avotu, ieskaitot spējas.
-* **Lidošana:** Neatkarīgi no tā, vai eņģeļi ir spārnoti vai bezspārnu, tie var lidot lielā ātrumā. Eņģeļiem piemīt Lidošanas superspēja līmeņos, kas vienādi ar to POW, lai gan to izmantošana nemaksā nekādus spēka punktus. Eņģelis var parādīties bezspārnains, tad manifestēt lielus putniem līdzīgus spārnus, kas pēkšņi izaug un atlocās no viņa muguras.
-* **Dziedinošs pieskāriens:** Eņģeļi var uzlikt rokas un dziedēt slimos, vājos un ievainotos. Papildus dzīvības punktu atjaunošanai par 1 dzīvības punktu uz 1 spēka punktu, eņģelis var novērst jebkuru slimību, kaiti, lielu ievainojumu vai vājumu, iztērējot 1 savu pastāvīgo POW punktu uz katru kaiti. Ja eņģeļa spēka punkti sasniedz 0, tas atgriežas savā izcelsmes plaknē, līdz tiek izsaukts vai tam ļauts atgriezties (vismaz viena nedēļa, pēc kuras tas ir pilnībā atjaunots).
-* **Svētā uguns:** Eņģeļi var izsaukt svēto uguni, liesmu triecienu no augšas ar trīs metru kvadrāta ietekmes laukumu. Ja nonāk šajā liesmā, dievbijīgi tēli, kuru uzticība saskan ar eņģeli, var veikt savas uzticības rullējumu kā %. Ja tas ir veiksmīgs, tēls nesaņem nekādus bojājumus no svētās uguns. Neveiksmīgi vai nedievbijīgi mērķi tiek apņemti liesmās, nodarot 10D6 bojājumu (daliet starp trāpījumu zonām, ja tiek izmantotas). Atšķirībā no parastās uguns, svētā uguns nekavējas. Tās efekti ir gandrīz acumirklīgi, izzūdot kaujas raunda beigās, kurā tā tika izsaukta. Tas maksā 10 spēka punktus, un to var izsaukt reizi dienā.
-* **Neredzamība:** Eņģeļi var kļūt Neredzami pēc vēlēšanās saskaņā ar superspēju, ar līmeņiem, kas vienādi ar pusi no to POW (noapaļojot uz augšu). Tas maksā tikai 3 spēka punktus par reizi.
-* **Debesu balss:** Eņģelis var runāt ar Debesu (vai ekvivalentu) balsi. Šis ir 10 metru diametra ietekmes zonas uzbrukums no eņģeļa, tas var brīdināt tos, kas atrodas diapazonā, lai aizsegtu ausis, un visi, kas paklausa, tiek pasaudzēti. Šī balss, skaļa un karaliska, apdullina ikvienu diapazonā, ja viņi neiztur POW pret eņģeļa POW pretestības rullējumu. Panākums nozīmē, ka viņi šajā kaujas raundā netiek ietekmēti. Šī spēja maksā 3 spēka punktus un aizstāj jebkuru fizisku uzbrukumu.
+* **Dievišķs starojums:** Eņģeļi var izstarot gaismas starojumu, kas aizsargā tos no ievainojumiem, kalpojot kā 10-pt. bruņas pret jebkuru bojājumu avotu, tostarp no spējām.
+* **Lidošana:** Neatkarīgi no tā, vai ar spārniem vai bez tiem, eņģeļi var lidot ar lielu ātrumu. Eņģeļiem piemīt Lidošanas superspēja līmeņos, kas vienādi ar to VAR, lai gan tās izmantošana nemaksā nekādus spēka punktus. Eņģelis var parādīties bez spārniem, tad manifestēt milzīgus putnam līdzīgus spārnus, kas pēkšņi izaug un atlocās no tā muguras.
+* **Dziedinošs pieskāriens:** Eņģeļi var uzlikt rokas un dziedēt slimos, vājos un ievainotos. Papildus dzīvības punktu atjaunošanai par 1 dzīvības punktu uz katru spēka punktu, eņģelis var noņemt jebkuru slimību, kaiti, lielu ievainojumu vai nespēku, tērējot 1 punktu no savas pastāvīgās VAR uz katru kaiti. Ja eņģeļa spēka punkti sasniedz 0, tas atgriežas savā izcelsmes plānā, līdz tiek pasaukts vai tam ļauts atgriezties (vismaz viena nedēļa, pēc kuras tas ir pilnībā atjaunots).
+* **Svētā uguns:** Eņģeļi var izsaukt svēto uguni, liesmu triecienu no augšas ar trīs metru kvadrāta iedarbības laukumu. Ja nonāk šajās liesmās, dievbijīgi tēli, kuru uzticība saskan ar eņģeli, var veikt savas uzticības metienu kā %. Ja tas izdodas, tēls negūst bojājumus no svētās uguns. Neveiksmīgi vai nedievbijīgi mērķi tiek apņemti ar liesmām, darot 10D6 bojājumus (dalīti starp hitlokācijām, ja tiek izmantotas). Atšķirībā no parastas uguns, svētā uguns nepavelkas. Tās iedarbība ir gandrīz acumirklīga, pazūdot kaujas raunda beigās, kad tā tika izsaukta. Tas izmaksā 10 spēka punktus un var tikt izsaukts reizi dienā.
+* **Neredzamība:** Eņģeļi var kļūt Neredzami pēc vēlēšanās saskaņā ar superspēju, ar līmeņiem, kas vienādi ar pusi no to VAR (noapaļojot uz augšu). Tas izmaksā tikai 3 spēka punktus par reizi.
+* **Debesu balss:** Eņģelis var runāt ar Debesu (vai līdzvērtīgu) balsi. Tas ir apgabala iedarbības uzbrukums desmit metru diametrā no eņģeļa, tas var brīdināt tos, kas atrodas diapazonā, lai aizsegtu ausis, un visi, kas paklausa, tiek pasaudzēti. Šī balss, dārdoša un karaliska, apdullina ikvienu diapazonā, ja tie neiztur pretestības metienu ar savu VAR pret eņģeļa VAR. Panākums nozīmē, ka tie netiek ietekmēti šajā kaujas raundā. Šī spēja izmaksā 3 spēka punktus un aizstāj jebkuru fizisku uzbrukumu.
 
-**Burvestības:** Eņģeļi var izmantot maģiju vai superspējas. Maģiskās burvestības, ko bieži izmanto, ir Pretmagnētisms, Izkliedēt, Uzlabot, Gaisma, Runāt prātā un Teleportācija, visas 100%. Eņģeļi reti izmanto burvestības un nekad nav mutanti. Viņiem var būt psihiskas spējas vai līdzvērtīgas.
+**Burvestības:** Eņģeļi var izmantot maģiju vai superspējas. Parasti izmantotās maģijas burvestības ir Pretmāģija, Izkliedēšana, Uzlabošana, Gaisma, Runāt ar prātu un Teleportācija, visas 100%. Eņģeļi reti izmanto burvestības un nekad nav mutanti. Tiem var būt psihiskas spējas vai līdzvērtīgas.
 
-**Prasmes:** Komandēt 100%, Izvairīties 100%, Lidot 100%, Ieskats 75%, Zināšanas (jebkuras) 100%, Valoda (jebkura) 100%, Sajušana 90%, Pamanīt 90%, Mācīt 90%.
+**Prasmes:** Komandēšana 100%, Izvairīšanās 100%, Lidošana 100%, Ieskats 75%, Zināšanas (jebkuras) 100%, Valoda (jebkura) 100%, Sajūtas 90%, Pamanīšana 90%, Mācīšana 90%.
 
 ### Dēmons, Lielais
 
-Dēmons ir infernāla būtne, izsaukta vai šajā plaknē šausmīgam mērķim. Lielais dēmons nav tikai sargs vai kalps – tas tiek sastapts, jo uz spēles ir likts kaut kas monumentāls. Atkarībā no personības tas var būt zvērisks un koncentrēts tikai uz iznīcināšanu, vai arī tas var būt asprātīgs, pilsētniecisks, burvīgs un pārliecinošs. Šī statistika atspoguļo kaujas orientētu dēmonu, ar nagiem un ragiem, gatavu izraisīt postu jebkuram, kas tam pretojas.
+Dēmons ir infernāla būtne, izsaukta vai šajā plānā kādam briesmīgam mērķim. Lielais dēmons nav tikai sargs vai kalps – ar to sastopas, jo uz spēles ir likts kaut kas monumentāls. Atkarībā no tā personības tas var būt zvērīgs un fokusēts tikai uz iznīcināšanu, vai arī tas var būt asprātīgs, urbāns, šarmants un pārliecinošs. Šī statistika atspoguļo uz kauju orientētu dēmonu, ar nagiem un ragiem, gatavu izraisīt postu ikvienam, kas tam pretojas.
 
-Kā minēts sadaļā Saprāta zudums un radības, dievbijīgs tēls var saņemt SAN, ieraugot eņģeli, ja viņu saprāta rullējums ir veiksmīgs. Tie, kas pielūdz infernālos spēkus, nav tik laimīgi. Tēls, kas ierauga lielo dēmonu, ir pakļauts SAN zuduma riskam, pat ja viņi paši to izsauca.
+Lai gan eņģeļa redzēšana var potenciāli atjaunot SAP punktus dievbijīgam ticīgajam, tiem, kas pielūdz infernālos spēkus, tik ļoti nepaveicas. Tēls, kas redz lielo dēmonu, ir pakļauts SAP zuduma riskam, pat ja viņi paši to izsauca.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+24 | 3D6+12 | 3D6+12 | 3D6 | 3D6+6 | 3D6+6 | 3 vai 21 |
 | 34–35 | 22–23 | 22–23 | 10–11 | 16–17 | 16–17 | 3 vai 21 |
 
 | Kustība 10 (12 lidojot) | Dzīvības punkti 22–23 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** 8 punktu cieta āda (var valkāt bruņas) |
+| **Bojājumu modifikators** +2D6 | **Bruņas** 8-pt. izturīga āda (var valkāt bruņas) |
 
 **Uzbrukumi:**
 
-* Lielais zobens (izmantots ar vienu roku) 150%, 2D8+dm (asiņošana) + 2D6 uguns (īpašs)
-* Pātaga 90%, 1D3–1+½dm (apvīt) + 1D6 uguns (īpašs)
+* Lielais zobens (izmantots ar vienu roku) 150%, 2D8+bm (asiņošana) + 2D6 uguns (īpašs)
+* Pātaga 90%, 1D3–1+½bm (sapīšanās) + 1D6 uguns (īpašs)
 * Uguns elpa 100%, 6D6 uguns (īpašs)
-* Nagi 150%, 1D6+dm (asiņošana)
+* Nagi 150%, 1D6+bm (asiņošana)
 * Cīkšanās 150%, īpašs
 
-Lielais dēmons parasti sāk ar uguns uzliesmojumu no mutes pirms iesaistīšanās fiziskajā kaujā. Tas katrā raundā var veikt divus (vai vairāk) uzbrukumus, dodot priekšroku vispirms izmantot pātagu, lai imobilizētu ienaidnieku, tad 5 DEX rangus vēlāk sist ar lielo zobenu. Tā liesmojošais lielais zobens var aizdedzināt uzliesmojošus materiālus. Tas cīnās ar abām rokām ar garu pātagu, arī liesmojošu. Ja kāds no ieročiem tiek zaudēts, tas ķeras pie nagu izmantošanas vai cīkšanās. Atšķirībā no eņģeļa ieročiem, lielā dēmona ieročiem ir dubulti dzīvības punkti, bet tos var salauzt vai citādi iznīcināt (tomēr tie ir imūni pret uguni).
+Lielais dēmons parasti sāk ar uguns sprādzienu no mutes pirms iesaistīšanās fiziskā kaujā. Tas var veikt divus (vai vairāk) uzbrukumus raundā, dodot priekšroku pātaga izmantošanai vispirms, lai imobilizētu ienaidnieku, tad 5 VEI rangus vēlāk sist ar lielo zobenu. Tā degošais lielais zobens var aizdedzināt uzliesmojošus materiālus. Tas cīnās divrocīgi ar garu pātagu, arī degošu. Ja kāds ierocis tiek zaudēts, tas ķeras pie nagu izmantošanas vai cīkšanās. Atšķirībā no eņģeļa ieročiem, lielā dēmona ieročiem ir dubultoti dzīvības punkti, bet tos var salauzt vai citādi iznīcināt (tomēr tie ir imūni pret uguni).
 
-**Prasmes:** Kāpt 90%, Izvairīties 75%, Lidot 100%, Lēkt 75%, Sajušana 75%, Pamanīt 75%, Mest 75%.
+**Prasmes:** Kāpšana 90%, Izvairīšanās 75%, Lidošana 100%, Lēkšana 75%, Sajūtas 75%, Pamanīšana 75%, Mešana 75%.
 
 **Spējas:** Tiek teikts, ka dēmoniem ir daudz spēju, no kurām jebkuram atsevišķam dēmonam var būt dažas, visas vai neviena:
 
-* **Terora aura:** Lielajam dēmonam ir ļaunuma un naida mirdzums, kas izpaužas terora aurā. Ikvienam, kas nonāk dēmona POW attālumā metros, jāveic POW pret POW pretestības rullējums, lai izvairītos no terora pārņemšanas. Neveiksme nozīmē, ka tēlu pārņem bailes un visi uzbrukumi un citas darbības kļūst Grūti. Skartie tēli var mēģināt jaunu pretestības rullējumu nākamā kaujas raunda sākumā, lai gan šim pretestības rullējumam viņu POW ir uz pusi mazāks (noapaļojot uz augšu). Dēmons var aktivizēt šo auru par 1 spēka punktu, un tā ilgst dēmona POW kaujas raundus vai līdz brīdim, kad dēmons izvēlas pārtraukt spēju. Ikvienam dēmona "pusē" vai tiem, kam ir tāda pati uzticība, šī spēja netiek piemērota, ja vien dēmons nevēlas, lai tā ietekmētu sabiedrotos. Ja tēls neiztur pretestības rullējumu un tiek izmantots saprāts, tēls zaudē pilnu iespējamo SAN daudzumu, ieraugot lielo dēmonu.
-* **Baktērija:** Dēmona vispārējā klātbūtne izraisa apgabala piesārņošanu, izkropļojot dēmona dvēselē esošo tumšo ļaunumu. Tas nav noderīgi kaujā, bet laika gaitā piesārņo apgabalu, līdz tam ir priekšnojauta un ilgstoša ļaunuma un ļaunprātības klātbūtne. Dzīvi augi novīst vai aug izkropļoti un rūgti, augsne kļūst sausa un drūma, un pati atmosfēra iegūst neveselīgu aspektu. Šī efekta rādiuss ir vienāds ar lielā dēmona POWx100 metriem. Tā aktivizēšana nemaksā spēka punktus, tā ir automātiska un ārpus dēmona kontroles (klātbūtni nevar maskēt vai paslēpt). Nepieciešamas 30 dienas mīnus dēmona POW, lai šī klātbūtne kļūtu redzama, un dēmona POW mēnešos, lai apgabals atgūtos, kad tas ir kļuvis inficēts.
-* **Uguns elpa:** Dēmons var izelpot uguns uzliesmojumu ar diapazonu, kas vienāds ar tā CON metros. Šis uzliesmojums ir trīs metrus kvadrātā liels zonas uzbrukums. Ikvienam, kas nokļūst šajā uzliesmojumā, tiks nodarīts 6D6 uguns bojājums (neatkarīgi no viņu uzticības), bojājums dalīts starp visām trāpījumu zonām, ja tiek izmantotas. Šī uguns kavējas un turpina degt trīs turpmākos raundus. Lai iegūtu sīkāku informāciju, skatiet uguns noteikumus. Šis ugunīgais uzliesmojums maksā 6 spēka punktus par uzliesmojumu.
-* **Lidošana:** Lielajam dēmonam ir milzīgi sikspārņu spārni, un tas var lidot, nenogurstoši un bez piepūles.
-* **Reģenerācija:** Dēmonam ir ellišķīga vitalitāte un tas var reģenerēt 1D6 dzīvības punktus katrā kaujas raundā bez spēka punktu izmaksām. Ja tiek izmantotas trāpījumu zonas, dēmons dziedē 1D3 dzīvības punktus uz katru trāpījumu zonu katrā kaujas raundā.
-* **Dūmu un uguns apvalks:** Dēmons var ietērpties liesmojošā mirdzumā, kas nodara 1D6 punktus uguns katrā kaujas raundā ikvienai radībai, kas nokļūst divu metru attālumā no tā, piemēram, fiziskā kaujā. Šis apvalks var aizdedzināt jebkuru uzliesmojošu vielu ap dēmonu. Tas kalpo kā 1 papildu bruņu punkts pret jebkuru koka šāviņu ieroci, kas vērsts pret to, piemēram, bultu vai arbaleta bultu. Šo apvalku var aktivizēt pēc vēlēšanās, un tā uzturēšana maksā 1 spēka punktu raundā.
+* **Šausmu aura:** Lielajam dēmonam ir ļaunprātības un naida starojums, kas manifestējas šausmu aurā. Ikvienam, kas nonāk dēmona VAR metros, ir jāveic VAR pret VAR pretestības metiens, lai izvairītos no pārvarēšanas ar šausmām. Neveiksme nozīmē, ka tēls ir pārņemts ar bailēm un visi uzbrukumi un citas darbības kļūst par Sarežģītiem. Skartie tēli var mēģināt jaunu pretestības metienu nākamā kaujas raunda sākumā, lai gan šim pretestības metienam to VAR tiek samazināts uz pusi (noapaļojot uz augšu). Dēmons var aktivizēt šo auru par 1 spēka punktu, un tā ilgst dēmona VAR kaujas raundos vai līdz dēmons izvēlas apturēt šo spēju. Ikvienam dēmona „pusē” vai tiem ar tādu pašu uzticību šī spēja neskar, ja vien dēmons nevēlas, lai tā ietekmētu sabiedrotos. Ja tēls neiztur pretestības metienu un tiek izmantots saprāts, tēls zaudē pilnu iespējamo SAP daudzumu no lielā dēmona redzēšanas.
+* **Baktērija:** Dēmona vispārējā klātbūtne liek apgabalam kļūt inficētam, sagrozītam ar dēmona dvēselē esošo tumšo ļaunumu. Tas nav noderīgi kaujā, bet laika gaitā piesārņo apgabalu, līdz tam ir draudīga un ieilgusi ļaunuma un ļaunprātības klātbūtne. Dzīvi augi vīst vai aug sagrozīti un rūgti, augsne kļūst sausa un drūma, un pati atmosfēra iegūst neveselīgu aspektu. Šī efekta rādiuss ir vienāds ar lielā dēmona VAR×100 metriem. Tas neizmaksā spēka punktus, lai aktivizētu, tas ir automātisks un ārpus dēmona kontroles (klātbūtni nevar maskēt vai slēpt). Nepieciešamas 30 dienas mīnus dēmona VAR, lai šī klātbūtne manifestētos, un dēmona VAR mēnešos, lai apgabals atkoptos, kad tas kļuvis inficēts.
+* **Uguns elpa:** Dēmons var izpūst uguns sprādzienu ar diapazonu, kas vienāds ar tā IZT metros. Šis sprādziens ir apgabala uzbrukums trīs metru kvadrātā. Ikvienam, kas nokļūst šajā sprādzienā, tiks nodarīti 6D6 uguns bojājumi (neatkarīgi no to uzticības), bojājumi dalīti starp visām hitlokācijām, ja tiek izmantotas. Šī uguns ieilgst un turpina degt trīs turpmākos raundus. Skatiet uguns noteikumus, lai iegūtu sīkāku informāciju. Šis ugunīgais sprādziens izmaksā 6 spēka punktus par sprādzienu.
+* **Lidošana:** Lielajam dēmonam ir milzīgi sikspārnim līdzīgi spārni, un tas var lidot nenogurstoši un bez piepūles.
+* **Reģenerācija:** Dēmonam ir ellišķīga vitalitāte, un tas var reģenerēt 1D6 dzīvības punktus katrā kaujas raundā bez spēka punktu izmaksas. Ja tiek izmantotas hitlokācijas, dēmons dziedē 1D3 dzīvības punktus uz hitlokāciju katrā kaujas raundā.
+* **Dūmu un uguns apvalks:** Dēmons var ietērpties degošā starojumā, kas nodara 1D6 uguns punktus katrā kaujas raundā ikvienai būtnei, kas nonāk divu metru attālumā no tā, piemēram, fiziskā kaujā. Šis apvalks var aizdedzināt jebkuru uzliesmojošu vielu ap dēmonu. Tas kalpo kā 1 punkts papildu bruņu pret jebkuru koka raķešu ieroci, kas vērsts pret to, piemēram, bultu vai arbaleta bultu. Šo apvalku var aktivizēt pēc vēlēšanās un izmaksā 1 spēka punktu par raundu, lai uzturētu.
 
 Lielajam dēmonam var būt arī viena vai vairākas haotiskas iezīmes.
 
 ### Dēmons, Mazais
 
-Mazais dēmons ir daudz mazāks par lielo dēmonu un ir izsaukts ar burvja starpniecību (sk. Dēmona izsaukšanas burvestību) vai nosūtīts kā sūtnis vai korupcijas aģents. Šis mazais dēmons ir groteska radība, kā izkāmējis garguilis ar nagiem, spārniem un ragiem. Tas nav gļēvs, bet dod priekšroku kalpošanai ar citiem līdzekļiem, nevis kauju. Kad iznīcināts, tas atgriežas infernālajās valstībās, kur to iebiedē un moka. Tāpēc tas vēlas pagarināt savu brīvību šajā pasaulē pēc iespējas ilgāk.
+Mazais dēmons ir daudz mazāks par lielo dēmonu un ir izsaukts burvja (skatiet Izsaukt dēmonu burvestību) vai sūtīts kā korupcijas vēstnesis vai aģents. Šis mazais dēmons ir groteska būtne, kā novājējis gargoyls ar nagiem, spārniem un ragiem. Tas nav gļēvs, bet dod priekšroku kalpot ar citiem līdzekļiem, nevis kauju. Kad tas tiek iznīcināts, tas atgriežas infernālajās valstībās, kur tas tiek dzenāts un mocīts. Tādējādi tas vēlas pēc iespējas ilgāk pagarināt savu brīvību šajā pasaulē.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+3 | 3D6 | 1D6+6 | 2D6+3 | 2D6+6 | 3D6+3 | 1D6+3 |
 | 10 | 10–11 | 9–10 | 10 | 13 | 13–14 | 6–7 |
 
 | Kustība 8 (12 lidojot) | Dzīvības punkti 10 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 1 punkta zvīņaina āda |
+| **Bojājumu modifikators** Nav | **Bruņas** 1-pt. zvīņaina āda |
 
 **Uzbrukumi:**
 
-* Naga 50%, 1D3+dm (asiņošana)
-* Kodums 35%, 1D3+½dm (asiņošana)
+* Nags 50%, 1D3+bm (asiņošana)
+* Kodums 35%, 1D3+½ bm (asiņošana)
 * Cīkšanās 45%, īpašs
 
-Dēmons katrā kaujas raundā var veikt divus nagu uzbrukumus. Ja tas ir veiksmīgs ar abiem, tas nākamajā kaujas raundā mēģina satvert un kost.
+Dēmons var veikt divus nagu uzbrukumus kaujas raundā. Ja izdodas ar abiem, tas mēģina satvert un kost nākamajā kaujas raundā.
 
-**Prasmes:** Kaulēties 55%, Kāpt 65%, Izvairīties 50%, Ātri runāt 40%, Lidot 75%, Paslēpties 45%, Zināšanas (Reģions: Elle) 35%, Klausīties 40%, Sajušana 35%, Pamanīt 50%, Slēpties 35%.
+**Prasmes:** Kaulēšanās 55%, Kāpšana 65%, Izvairīšanās 50%, Ātrrunāšana 40%, Lidošana 75%, Slēpšanās 45%, Zināšanas (Reģions: Elle) 35%, Klausīšanās 40%, Sajūtas 35%, Pamanīšana 50%, Maskēšanās 35%.
 
-**Spējas:** Mazie dēmoni nav īpaši spēcīgi, lai gan vienam var būt dažas burvestības, ja tā POW ir pietiekami augsts. Kopīgas burvestības ir Burvestību lāsts (4), Saules liesmas (4), Pusnakts (1) un Bakas (1). Burvis, kas izsauc mazo dēmonu, var izvēlēties, kuras burvestības dēmons zina, ja iepriekš tiek veikta pienācīga izpēte. Dēmonam var būt arī viena vai vairākas haotiskas iezīmes.
+**Spējas:** Mazie dēmoni nav īpaši jaudīgi, lai gan vienam var būt dažas burvestības, ja tā VAR ir pietiekami augsts. Izplatītas burvestības ir Burvestību lāsts (4), Saules liesmas (4), Pusnakts (1) un Bakas (1). Burvis, kas izsauc mazo dēmonu, var izvēlēties, kuras burvestības dēmons zina, ja iepriekš ir veikta pienācīga izpēte. Dēmonam var būt arī viena vai vairākas haotiskas iezīmes.
 
-### Elementāļi
+### Elementāli
 
-Elementāļi ir primāri elementāri gari, kas manifestējas ķermeņos, kurus veido to veida elements. Viņi parasti tiek izsaukti esamībā ar maģisko burvestību Izsaukt elementāli, burvestību Izsaukt elementāli, vai citos veidos, varbūt pat rodoties dabiski.
+Elementāli ir pirmatnēji elementāri gari, kas manifestējas ķermeņos, kas sastāv no to veida elementa. Tie parasti tiek izsaukti eksistencē ar maģisko burvestību Konjurēt elementālu, burvestību Izsaukt elementālu vai ar citiem līdzekļiem, varbūt pat gadoties dabiski.
 
-Elementālu dzīvības punktus nosaka, saskaitot to CON+SIZ, nevis aprēķinot vidējo rādītāju. Elementāļi nereģenerē zaudētos dzīvības punktus un nereģenerē spēka punktus: kad kāds tiek samazināts līdz 0 dzīvības punktiem vai iztērē savu pēdējo spēka punktu, tas pazūd, pārvēršoties neapstrādātā elementā, no kura tas sastāvēja.
+Elementālu dzīvības punktus nosaka, saskaitot to IZT+IZM, nevis aprēķinot vidējo. Elementāli nedziedē zaudētos dzīvības punktus vai neatjauno spēka punktus: kad viens tiek samazināts līdz 0 dzīvības punktiem vai iztērē savu pēdējo spēka punktu, tas pazūd, pārvēršoties neapstrādātā elementā, no kā tas sastāvēja.
 
-Kā maģiskas būtnes elementāļi ir imūni pret normāliem uzbrukumiem, piemēram, ieročiem vai šaujamieročiem. Tomēr tie ir neaizsargāti pret cits cita uzbrukumiem. Atkarībā no vides enerģijas vai ķīmiskie ieroči var tos ietekmēt, un uzbrukumi ar vielām, kas dabiski tiem pretojas, arī var radīt efektu. Visbeidzot, daudzas spējas ietekmēs elementāļus pēc spēles vadītāja ieskatiem.
+Kā maģiskas būtnes, elementāli ir imūni pret normāliem uzbrukumiem, piemēram, ieročiem vai šaujamieročiem. Tie tomēr ir neaizsargāti pret cits cita uzbrukumiem. Atkarībā no vides, enerģijas vai ķīmiskie ieroči var tos ietekmēt, un uzbrukumi ar vielām, kas dabiski tiem pretojas, arī var izraisīt efektu. Visbeidzot, daudzas spējas ietekmēs elementālus, pēc spēles vadītāja ieskatiem.
 
-Šeit ir parādīti četri tradicionāli elementālu veidi – gaiss, zeme, uguns un ūdens. Var pastāvēt arī citi, vai tie būtu gari; ēnas; hibrīdi; vai pat tādi aspekti kā laiks, gravitācija, gaisma utt. Šie piemēri ir vidēji, un tos var padarīt spēcīgākus vai vājākus pēc vēlēšanās.
+Šeit ir prezentēti četri tradicionāli elementālu veidi – gaiss, zeme, uguns un ūdens. Var pastāvēt arī citi, neatkarīgi no tā, vai gari, ēnas, hibrīdi, vai pat aspekti, piemēram, laiks, gravitācija, gaisma utt. Šie piemēri ir vidēji, un tos var padarīt jaudīgākus vai mazāk jaudīgus, kā vēlaties.#### Gaisa elementāls
 
-#### Gaisa elementāls
+Gaisa elementāli parasti izskatās kā lidojošas, caurspīdīgas, ārkārtīgi skaistas sievietes, vai nu kailas, vai ģērbušās vējainos tērpos, kuras ietver viesulis. Tās ir knapi taustāmas, it kā veidotas no sabiezināta gaisa. To balsis ir maigas un vājas, un tās ir nerātnas, ar īsu uzmanības noturību. Gaisa elementālus bieži sauc par silfiem.
 
-Gaisa elementāļi parasti parādās kā peldošas, caurspīdīgas sieviešu cilvēku figūras ar pārsteidzošu skaistumu, vai nu kailas vai gaisīgos tērpos, ieskautas virpuļviesulī. Tās ir tikko taustāmas, it kā veidotas no sabiezināta gaisa. To balsis ir maigas un vājas, un tās ir nerātni, ar īsu uzmanības noturību. Gaisa elementāļus bieži sauc par silfiem.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 3D6 | 2D6 | 4D6 | 3D6 | 4D6 | 3D6+3 |
 | 10–11 | 10–11 | 7 | 14 | 10–11 | 14 | 13–14 |
 
-| Kustība 10 (12 lidojot) | Dzīvības punkti 17–18 |
+| Kustība 10 (12 lidojot) | Trāpījuma punkti 17–18 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav, bet imūns pret normāliem uzbrukumiem |
+| **Bojājuma modifikators** Nav | **Bruņas** Nav, bet ir neievainojami pret parastiem uzbrukumiem |
 
 **Uzbrukumi:**
 
-* Sīvš vējš 50%, 1D10 (atgrūšana, diapazons ir POW metros)
+* Dzēlīgais vējš 50%, 1D10 (atgrūšana, darbības rādiuss ir VAR metros)
 
-**Prasmes:** Izvairīties 75%, Lidot 100%, Valoda (izsaucēja) 100%, Klausīties 75%, Zinātne (Meteoroloģija) 100%, Sajušana 75%, Pamanīt 75%.
+**Prasmes:** Izvairīšanās 75%, Lidošana 100%, Valoda (izsaucēja) 100%, Klausīšanās 75%, Zinātne (Meteoroloģija) 100%, Sajūta 75%, Pamanīšana 75%.
 
-**Spējas:** Gaisa elementālam ir kontrole pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
+**Spējas:** Gaisa elementālam ir vara pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
 
-* **Maģija:** Tas var izmantot burvestības Pacelt un Zibens ar savu POWx3% par parasto spēka punktu izmaksu.
-* **Burvestības:** Tas var izmantot burvestības Debesu spārni (4) pēc vēlēšanās, bez spēka punktu izmaksas.
-* **Superspējas:** Tam ir ekvivalents ¼ no sava POW (noapaļojot uz augšu) līmeņos Enerģijas kontrole (Vējš) un Enerģijas projekcija (Vējš) superspējas.
-* Gaisa elementāls var, ziedojot savu dzīvību, iznīcināt līdzvērtīga spēka uguns elementāli.
-* Tas var arī nodrošināt elpojamu gaisu vienam tēlam par 1 dzīvības punktu raundā.
-* Gaisa elementāļi var kļūt neredzami pēc vēlēšanās par 1 spēka punkta maksu, lai gan tie parādās, ja to pavēl izsaucējs vai ja tie kādam uzbrūk.
+* **Maģija:** Tas var izmantot "Lift" (Celšana) un "Lightning" (Zibens) burvestības ar VAR×3% varbūtību par parasto spēka punktu izmaksu.
+* **Burvestības:** Tas var izmantot "Wings of the Sky" (Debesu spārni) (4) pēc vēlēšanās, bez spēka punktu izmaksas.
+* **Superspējas:** Tam ir ¼ no tā VAR (noapaļojot uz augšu) līmeņi "Energy Control (Wind)" (Enerģijas kontrole (Vējš)) un "Energy Projection (Wind)" (Enerģijas projekcija (Vējš)) superspējās.
+* Gaisa elementāls var, upurējot savu dzīvību, iznīcināt līdzvērtīga spēka zemes elementālu.
+* Tas var nodrošināt elpojamu gaisu vienam tēlam, par maksu 1 trāpījuma punkts katrā raundā.
+* Gaisa elementāli var kļūt neredzami pēc vēlēšanās par 1 spēka punkta maksu, lai gan tie parādās, ja to liek izsaucējs vai ja tie kādam uzbrūk.
 
 #### Zemes elementāls
 
-Zemes elementāļi parādās kā resni cilvēkveidīgi ķermeņi, kas izgatavoti no akmens, zemes un minerāliem, ar saknēm un vīteņiem kā vēnām un dažreiz sūnām un lapām kā matiem vai bārdām. To balsis ir zemas un smagas, un tie bieži ir lēnprātīgi un īgni, īgni, kad tiek izsaukti, lai gan joprojām pilda izsaucēja pavēles. Citās vidēs tie var parādīties kā pieejamās zemes veids, piemēram, smiltis un smilšakmens tuksnesī. Viņus bieži sauc par gnomiem.
+Zemes elementāli izskatās kā masīvas, humanoīdas būtnes, kas veidotas no akmens, zemes un minerāliem, ar saknēm un vīteņaugiem kā dzīslām, un dažreiz ar sūnu un lapu matiem vai bārdām. To balsis ir zemas un čerkstošas, un tie bieži ir lēnīgi un īgni, sagurti, kad tiek izsaukti, lai gan tie joprojām izpilda sava izsaucēja pavēles. Citās vidēs tie var izskatīties kā attiecīgā pieejamā zeme, piemēram, kā smiltis vai smilšakmens tuksnesī. Tos bieži sauc par gnomiem.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 5D6+12 | 3D6+6 | 3D6 | 2D6 | 3D6 | 2D6 | 1D6+3 |
 | 29–30 | 16–17 | 10–11 | 7 | 10–11 | 7 | 6–7 |
 
-| Kustība 6 | Dzīvības punkti 26–28 |
+| Kustība 6 | Trāpījuma punkti 26–28 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D6 vai +2D6 | **Bruņas** Nav, bet imūns pret normāliem uzbrukumiem (skatīt zemāk) |
+| **Bojājuma modifikators** +1D6 vai +2D6 | **Bruņas** Nav, bet ir neievainojami pret parastiem uzbrukumiem (skatīt zemāk) |
 
 **Uzbrukumi:**
 
-* Dūre 50%, 1D6+dm (saspiešana)
+* Dūre 50%, 1D6+bm (triecošs)
 
-**Prasmes:** Novērtēt 50%, Amatniecība (kalējs) 75%, Valoda (izsaucēja) 25%, Zinātne (Metalurģija) 100%.
+**Prasmes:** Novērtēšana 50%, Amatniecība (Kalšana) 75%, Valoda (izsaucēja) 25%, Zinātne (Metalurģija) 100%.
 
-**Spējas:** Zemes elementālam ir kontrole pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
+**Spējas:** Zemes elementālam ir vara pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
 
-* **Maģija:** Tas var izmantot burvestības Blāvs un Sienu ar savu POWx3% par parasto spēka punktu izmaksu.
-* **Burvestības:** Tas var izmantot burvestības Zemes dāvana (4) pēc vēlēšanās, bez spēka punktu izmaksas.
-* **Superspējas:** Tam ir ekvivalents ¼ no sava POW (noapaļojot uz augšu) līmeņos Barjera superspējas.
-* Zemes elementāls var, ziedojot savu dzīvību, iznīcināt līdzvērtīga spēka gaisa elementāli.
-* Tas var arī iegrimt zemē un pārvietoties normālā ātrumā, parādoties, kad tas vēlas. Tas var paplašināt šo spēju uz tēlu, kura SIZ ir tāds pats vai mazāks, apņemot to un pārvietojot tēlu cauri zemei nekaitīgi ar elementāla normālo MOV ātrumu. Tas to darīs tikai ar labprātīgu tēlu, bet nepiegādā skābekli ceļojumam (sk. Aizrīšanās, Slīkšana un Nosmakšana).
-* Papildus tam, ka tas ir imūns pret normāliem uzbrukumiem, zemes elementālam ir iespēja salauzt jebkuru normālu ieroci, kas izgatavots no metāla. Ja tēls veiksmīgi trāpa zemes elementālam ar metāla ieroci, viņam ir jāveic ieroča dzīvības punktu pret zemes elementāla CON pretestības rullējums. Ja ieroča rullējums neizdodas, tas automātiski salūzt. Ja tas izdodas, tas nesalūzt. Šis rullējums jāveic tikai vienreiz pirmajā veiksmīgajā sitienā raundā, un tas attiecas uz ieročiem ar uz laiku uzliktām maģiskām burvestībām vai burvestībām, bet ne uz maģiskiem ieročiem.
-* Zemes elementāļi arī apzinās jebkurus dārgmetālus vai jebko pazemē sava INTx100 metru rādiusā, bet tikai nelabprāt to atzīs un ir jāpārliecina vai jāpavēl doties un atgūt šīs lietas. Šīs spējas izmantošana maksā zemes elementālam spēka punktus, kas vienādi ar atgūtās lietas SIZ.
+* **Maģija:** Tas var izmantot "Dull" (Blāvums) un "Wall" (Siena) burvestības ar VAR×3% varbūtību par parasto spēka punktu izmaksu.
+* **Burvestības:** Tas var izmantot "Gift of the Earth" (Zemes dāvana) (4) pēc vēlēšanās, bez spēka punktu izmaksas.
+* **Superspējas:** Tam ir ¼ no tā VAR (noapaļojot uz augšu) līmeņi "Barrier" (Barjera) superspējā.
+* Zemes elementāls var, upurējot savu dzīvību, iznīcināt līdzvērtīga spēka gaisa elementālu.
+* Tas var arī iegrimt zemē un pārvietoties ar parastu ātrumu, parādoties, kad vien vēlas. Tas var attiecināt šo spēju uz tēlu ar tādu pašu vai mazāku IZM, apņemot to un pārvietojot cauri zemei neskartu ar elementāla parasto kustības ātrumu (MOV). Tas to darīs tikai ar labprātīgu tēlu, taču nenodrošina skābekli ceļojuma laikā (skatīt Aizrīšanās, Slīkšana un Nosmakšana).
+* Papildus neievainojamībai pret parastiem uzbrukumiem, zemes elementālam ir iespēja salauzt jebkuru parastu metāla ieroci. Ja tēls veiksmīgi trāpa zemes elementālam ar metāla ieroci, viņam ir jāveic pretestības metiens (ieroča trāpījuma punkti pret zemes elementāla IZT). Ja ieroča metiens neizdodas, tas automātiski salūst. Ja tas izdodas, tas nesalūst. Šis metiens jāveic tikai vienreiz pie pirmā veiksmīgā trāpījuma raundā, un tas attiecas uz ieročiem, uz kuriem īslaicīgi uzliktas maģiskas vai burvestību spējas, bet ne uz maģiskiem ieročiem.
+* Zemes elementāli arī apzinās visus dārgmetālus vai jebko pazemē sava INT×100 metru rādiusā, taču tikai negribīgi to atzīs, un ir jāpārliecina vai jāpavēl, lai tie dotos tos atgūt. Šīs spējas izmantošana elementālam izmaksā spēka punktus, kas vienādi ar atnestā priekšmeta IZM.
 
 #### Uguns elementāls
 
-Uguns elementāļi parādās kā četrkājaini rāpuļi, kas veidoti no ugunīgas plazmas. Tie apdedzina zemi, kur tie staigā, un dūmi izplūst no viņu mutes, kad tie runā savās šņācošajās, sprakšķošajās balsīs. Viņi parasti ir aizkaitināmi un ātri dusmojas. Uguns elementāļus bieži sauc par salamandrām.
+Uguns elementāli izskatās kā četrkājaini rāpuļi, kas veidoti no ugunīgas plazmas. Tie apdedzina zemi, pa kuru staigā, un no to mutēm izplūst dūmi, kad tie runā savās šņācošajās, sprakšķošajās balsīs. Tie parasti ir uzbudināmi un strauji. Uguns elementālus bieži sauc par salamandrām.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 3D6+6 | 2D6 | 3D6 | 4D6 | 1D6+3 |
 | 13 | 10–11 | 16–17 | 7 | 10–11 | 14 | 6–7 |
 
-| Kustība 10 | Dzīvības punkti 26–28 |
+| Kustība 10 | Trāpījuma punkti 26–28 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** Nav, bet imūns pret normāliem uzbrukumiem |
+| **Bojājuma modifikators** +1D4 | **Bruņas** Nav, bet ir neievainojami pret parastiem uzbrukumiem |
 
 **Uzbrukumi:**
 
-* Uguns elpa 50%, 1D10 raundā (uguns, diapazons ir POW metros)
-* Cīkšanās 50%, īpašs + 1D6 raundā (uguns)
+* Liesmu elpa 50%, 1D10 katrā raundā (uguns, darbības rādiuss ir VAR metros)
+* Satveršana 50%, īpašs + 1D6 katrā raundā (uguns)
 
-**Prasmes:** Demolēšana 75%, Izvairīties 50%, Valoda (izsaucēja) 50%, Klausīties 50%, Sajušana 50%, Pamanīt 50%.
+**Prasmes:** Demolēšana 75%, Izvairīšanās 50%, Valoda (izsaucēja) 50%, Klausīšanās 50%, Sajūta 50%, Pamanīšana 50%.
 
-* **Spējas:** Uguns elementālam ir kontrole pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
-* **Maģija:** Tas var izmantot burvestības Uguns un Pretestība ar savu POWx3% par parasto spēka punktu izmaksu.
-* **Burvestības:** Tas var izmantot burvestības Saules liesmas (4) pēc vēlēšanās, bez spēka punktu izmaksas.
-* **Superspējas:** Tam ir ekvivalents ¼ no sava POW (noapaļojot uz augšu) līmeņos Enerģijas kontrole (Karstums) un Enerģijas projekcija (Karstums) superspējas.
-* Uguns elementāls var, ziedojot savu dzīvību, iznīcināt līdzvērtīga spēka ūdens elementāli.
-* Tas var aizdedzināt jebkuru uzliesmojošu materiālu pieskaroties, bet nekad labprātīgi nedzesīs vai ne novērsīs ugunsgrēku.
+* **Spējas:** Uguns elementālam ir vara pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
+* **Maģija:** Tas var izmantot "Flame" (Liesma) un "Resistance" (Pretestība) maģiskās burvestības ar VAR×3% varbūtību par parasto spēka punktu izmaksu.
+* **Burvestības:** Tas izmanto "Flames of the Sun" (Saules liesmas) (4) pēc vēlēšanās, bez spēka punktu izmaksas.
+* **Superspējas:** Tam ir ¼ no tā VAR (noapaļojot uz augšu) līmeņi "Energy Control (Heat)" (Enerģijas kontrole (Karstums)) un "Energy Projection (Heat)" (Enerģijas projekcija (Karstums)) superspējās.
+* Uguns elementāls var, upurējot savu dzīvību, iznīcināt līdzvērtīga spēka ūdens elementālu.
+* Tas var aizdedzināt jebkuru degošu materiālu pieskaroties, taču nekad labprātīgi nedzēsīs un neapturēs ugunsgrēku.#### Ūdens elementāls
 
-#### Ūdens elementāls
+Ūdens elementāli izskatās kā skaistas ūdens būtnes, vāji caurspīdīgas cilvēku sievietes jūras krāsā, ar zaļganziliem matiem un ādu. Tās ir pievilcīgas un parasti ir mazapģērbtas vai kailas. Ja sastaptas uz sauszemes, ūdens elementāli atstāj slapjus pēdu nospiedumus un no tām pastāvīgi pil ūdens. Tās ir inteliģentas, domīgas un runā burbuļojošās balsīs. Ūdens elementālus bieži dēvē par undīnēm.
 
-Ūdens elementāļi parādās kā skaistas ūdens, neskaidri caurspīdīgas sieviešu cilvēku figūras jūras krāsā, ar zaļganziliem matiem un ādu. Tās ir vilinošas un parasti ir maz apģērbtas vai kailas. Ja tās sastop uz zemes, ūdens elementāļi atstāj slapjus pēdu nospiedumus un pastāvīgi pil ar ūdeni. Tās ir inteliģentas, domājošas un runā burbuļojošās balsīs. Ūdens elementāļus bieži sauc par undīnēm.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6+6 | 2D6 | 4D6 | 3D6 | 3D6 | 3D6+3 |
 | 16–17 | 16–17 | 7 | 14 | 10–11 | 10–11 | 13–14 |
 
 | Kustība 10 (12 peldot) | Dzīvības punkti 23–24 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav, bet imūns pret normāliem uzbrukumiem (skatīt zemāk) |
+| **Bojājuma modifikators** Nav | **Bruņas** Nav, bet ir neievainojami pret parastiem uzbrukumiem (skat. zemāk) |
 
 **Uzbrukumi:**
 
-* Slīcināšana 50%, īpašs (skatīt zemāk)
+* Slīcināšana 50%, īpašs (skat. zemāk)
 
-**Prasmes:** Izvairīties 75%, Valoda (izsaucēja) 75%, Navigācija 100%, Zinātne (Okeanogrāfija) 100%, Sajušana 50%, Pamanīt 50%, Peldēt 100%.
+**Prasmes:** Izvairīšanās 75%, Valoda (izsaucēja) 75%, Navigācija 100%, Zinātne (Okeanogrāfija) 100%, Sajūtas 50%, Pamanīšana 50%, Peldēšana 100%.
 
-**Spējas:** Ūdens elementālam ir kontrole pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
+**Spējas:** Ūdens elementālam ir vara pār savu elementu, izmantojot jebkuru no šiem spēju veidiem:
 
-* **Maģija:** Ūdens elementāls var izmantot burvestības Dziedināt un Atslēgt ar savu POWx3% par parasto spēka punktu izmaksu.
-* **Burvestības:** Ūdens elementāls var izmantot burvestības Jūras dāvana (4) pēc vēlēšanās, bez spēka punktu izmaksas.
-* **Superspējas:** Ūdens elementālam ir ekvivalents ¼ no sava POW (noapaļojot uz augšu) līmeņos Sūknēšana un Super Kustība (Staigāšana pa ūdeni) superspējas.
-* Ūdens elementāls var, ziedojot savu dzīvību, iznīcināt līdzvērtīga spēka zemes elementāli.
-* Lai noslīcinātu pretinieku, ūdens elementāls apņem mērķa muti un degunu ūdens burbulī. Ja tas ir guvis panākumus pieskāriena uzbrukumā, visi turpmākie slīcināšanas uzbrukumi pret mērķi ir *Ērti*, līdz mērķis ir vai nu atbrīvojies, vai miris (sk. slīcināšanas noteikumus). Šis uzbrukums maksā ūdens elementālam dzīvības punktus, kas vienādi ar mērķim nodarītajiem bojājumiem. Tas var pārtraukt slīcināšanas mēģinājumu jebkurā laikā.
-* Papildus tam, ka tas ir imūns pret normāliem uzbrukumiem, ūdens elementālam ir iespēja sarūsēt jebkuru normālu metāla ieroci vai izkropļot jebkuru koka ieroci, kas tam trāpa. Ja tēls veiksmīgi trāpa ūdens elementālam ar metāla ieroci, viņam ir jāveic ieroča dzīvības punktu pret ūdens elementāla CON pretestības rullējums. Ja ieroča rullējums neizdodas, tas sarūsē (zaudējot 2 dzīvības punktus, –1 bojājumam) vai izkropļojas (–1 dzīvības punkts, –5% trāpījumam). Ja tas izdodas, tas nesalūzt. Šis rullējums jāveic tikai vienreiz pirmajā veiksmīgajā sitienā raundā, un tas attiecas uz ieročiem ar uz laiku uzliktām maģiskām burvestībām vai burvestībām, bet ne uz maģiskiem ieročiem.
-* Zem ūdens ūdens elementāls var kļūt neredzams pēc vēlēšanās par 1 spēka punkta maksu, lai gan tas parādās, ja to pavēl izsaucējs vai ja tas kādam uzbrūk.
-* Zem ūdens ūdens elementāls var skaidri runāt ar ikvienu parastajā dzirdamības diapazonā.
-* Ūdens elementāļi arī apzinās jebkurus priekšmetus tajā ūdenskrātuvē, no kuras tie tika izsaukti, sava INTx100 metru rādiusā, bet atzīst to tikai, ja tiek vaicāti, un ir jāpārliecina vai jāpavēl doties un atgūt šos priekšmetus. Katra šīs spējas izmantošana maksā ūdens elementālam spēka punktus, kas vienādi ar atgūtā priekšmeta SIZ.
+* **Maģija:** Ūdens elementāls var lietot maģijas burvestības Dziedēšana (Heal) un Atslēgšana (Unseal) ar savu VAR×3% varbūtību par parasto spēka punktu izmaksu.
+* **Burvestības:** Ūdens elementāls var lietot Jūras dāsnumu (4) pēc vēlēšanās, bez spēka punktu izmaksas.
+* **Superspējas:** Ūdens elementālam ir superspējas Drenāža (Drain) un Superkustība (iešana pa ūdeni) līmeņos, kas līdzvērtīgi ¼ no tā VAR (noapaļojot uz augšu).
+* Ūdens elementāls var, upurējot savu dzīvību, iznīcināt līdzvērtīga spēka zemes elementālu.
+* Lai noslīcinātu pretinieku, ūdens elementāls ieskauj mērķa muti un degunu ūdens burbulī. Ja tas ir sekmīgi veicis pieskāriena uzbrukumu, visi turpmākie slīcināšanas uzbrukumi pret mērķi ir *Vienkārši*, līdz mērķis ir izkļuvis brīvībā vai miris (skat. slīcināšanas noteikumus). Šis uzbrukums ūdens elementālam izmaksā tikpat daudz dzīvības punktu, cik bojājumu nodarīts mērķim. Tas var pārtraukt slīcināšanas mēģinājumu jebkurā brīdī.
+* Papildus neievainojamībai pret parastiem uzbrukumiem, ūdens elementālam ir iespēja sarūsēt jebkuru parastu metāla ieroci vai savērpt jebkuru koka ieroci, kas tam sit. Ja tēls sekmīgi trāpa ūdens elementālam ar metāla ieroci, tam jāveic pretestības metiens: ieroča dzīvības punkti pret ūdens elementāla IZT. Ja ieroča metiens neizdodas, tas sarūsē (zaudējot 2 dzīvības punktus, –1 bojājumiem) vai savērpjas (–1 dzīvības punkts, –5% trāpījuma varbūtībai). Ja tas izdodas, ierocis paliek neskarts. Šis metiens jāveic tikai vienu reizi raunda pirmajā sekmīgajā trāpījumā, un tas attiecas uz ieročiem ar uzliktām maģiskām burvestībām, bet ne uz maģiskiem ieročiem.
+* Būdams iegremdējies, ūdens elementāls var kļūt neredzams pēc vēlēšanās par 1 spēka punkta izmaksu, lai gan tas atkal parādās, ja to pavēl izsaucējs vai ja tas kādam uzbrūk.
+* Būdams zem ūdens, ūdens elementāls var skaidri sarunāties ar jebkuru parastā dzirdamības zonā.
+* Ūdens elementāli apzinās arī jebkādus priekšmetus tajā ūdenstilpē, no kuras tie izsaukti, savas INT×100 metru rādiusā, bet atklāj to tikai, ja tiek jautāts, un tie ir jāpārliecina vai jāpavēl doties atgūt šos priekšmetus. Katra šīs spējas izmantošana ūdens elementālam izmaksā spēka punktus, kas vienādi ar atgūtā priekšmeta IZM.
 
-> ### Haotiskas iezīmes
+> ### Haotiskās īpašības
 > 
-> Dēmoni un citas haosa radības ir nekonsekventas savā izskatā un spējās. Tāpat kā dzīvām būtnēm ir mutācijas, nedabiskām radībām var būt haotiskas iezīmes. Ja vēlaties, katrai atsevišķai haotiskai radībai var būt viena vai vairākas haotiskas iezīmes, kas rullētas vai izvēlētas no šīs tabulas.
+> Dēmoni un citas haosa radības ir nekonsekventas savā izskatā un spējās. Tāpat kā dzīvām būtnēm ir mutācijas, nedabiskām radībām var būt haotiskas īpašības. Ja vēlas, katrai atsevišķai haotiskai radībai var būt viena vai vairākas haotiskas īpašības, kuras tiek izlozētas vai izvēlētas no tālākās tabulas.
 > 
-> | D100% | Haotiska iezīme |
+> | D100% | Haotiskā īpašība |
 > | :---- | :---- |
-> | 01–03 | POW+1D6 |
-> | 04–05 | POW+2D6 |
-> | 06 | POW+3D6 |
-> | 07–09 | DEX+1D6 |
-> | 10–11 | DEX+2D6 |
-> | 12 | DEX+3D6 |
-> | 13–14 | STR+1D6 |
-> | 15 | STR+2D6 |
-> | 16–17 | CON+1D6 |
-> | 18 | CON+2D6 |
-> | 19–20 | Nekad nav pārsteigts. |
-> | 21–22 | Absorbs 1 punktu no jebkuras pret to vērstas maģijas vai burvestības, pievienojot +1 spēka punktu par burvestību. |
-> | 23–24 | Spļauj skābi ar 2D10 POT 1D6 reizes dienā, sešu metru diapazons. |
-> | 25–26 | Izelpo 3D6 uguni 1D6 reizes dienā; viens mērķis, trīs metru diapazons. |
-> | 27–28 | Atstaro 1 punkta maģiju vai burvestības atpakaļ lietotājam. |
-> | 29–30 | Ļoti uzliesmojošs; ja aizdegas, apdedzina visus trīs metru rādiusā par 2D6 bojājuma punktiem, līdz nodziest. |
-> | 31–32 | Hipnotisks raksts uz ādas; skatītājiem ir jāiztur Idejas rullējums vai jābūt apdullinātiem 1D3 raundus. |
-> | 33–35 | Izskats ir mulsinošs; visi uzbrukumi pret to ir ar –20%. |
+> | 01–03 | VAR+1D6 |
+> | 04–05 | VAR+2D6 |
+> | 06 | VAR+3D6 |
+> | 07–09 | VEI+1D6 |
+> | 10–11 | VEI+2D6 |
+> | 12 | VEI+3D6 |
+> | 13–14 | SPĒ+1D6 |
+> | 15 | SPĒ+2D6 |
+> | 16–17 | IZT+1D6 |
+> | 18 | IZT+2D6 |
+> | 19–20 | Nekad netiek pārsteigta. |
+> | 21–22 | Absorbē 1 punktu no jebkuras pret to vērstas maģijas vai burvestības, pievienojot +1 spēka punktu par burvestību. |
+> | 23–24 | Spļauj skābi ar 2D10 POT 1D6 reizes dienā, sešu metru rādiusā. |
+> | 25–26 | Izpūš 3D6 uguni 1D6 reizes dienā; viens mērķis, trīs metru rādiusā. |
+> | 27–28 | Atstaro 1 pkt. maģiju vai burvestību atpakaļ lietotājam. |
+> | 29–30 | Ļoti uzliesmojoša; ja aizdegas, sadedzina visus trīs metru rādiusā, nodarot 2D6 bojājumus, līdz tiek nodzēsta. |
+> | 31–32 | Hipnotisks raksts uz ādas; skatītājiem jāsekmē Idejas metiens vai jābūt apdullinātiem uz 1D3 raundiem. |
+> | 33–35 | Izskats ir mulsinošs; visi uzbrukumi pret to ir ar –20% sodu. |
 > | 36–37 | Liels un vērtīgs dārgakmens skaidri redzams uz ķermeņa. |
-> | 38–40 | Reģenerē 1 dzīvības punktu katrā kaujas raundā, līdz miris. |
-> | 41–42 | Var mēģināt samulsināt mērķi katrā raundā papildus jebkurai cīņai, ar POW pret POW pretestības rullējumu. Neveiksme nostāda mērķi apjukušā un ļoti suģestējamā stāvoklī. Lai veiktu jebkādas darbības, mērķim ir jāveic Grūts Idejas rullējums, un radība var likt mērķim rīkoties pretēji savām parastajām vēlmēm. Pretošanās šīm pavēlēm arī prasa veiksmīgu Grūtu Idejas rullējumu. |
-> | 43–45 | Radība šķiet neuzvarama; šķiet, ka tā nesaņem nekādus bojājumus, līdz sasniedz 0 dzīvības punktus, tad nokrīt mirusi. |
-> | 46 | Neredzama, līdz tā uzbrūk. |
-> | 47–48 | Izskats ir ārkārtīgi mulsinošs; visi uzbrukumi pret to ir ar –30%. |
-> | 49–50 | Indīgs pieskāriens ar 2D10 POT; dabiskam uzbrukumam jāizdara 1 dzīvības punkta bojājums, lai inde iedarbotos. |
-> | 51–52 | CON ir –2D6, bet reģenerē 3 dzīvības punktus raundā, līdz miris. |
-> | 53–54 | 6 punktu bruņota āda. Ja jau ir bruņota āda, +6 pie pašreizējās bruņu vērtības. |
-> | 55–56 | MOV 12 |
-> | 57–58 | Absorbs 1 vai 2 punktus no jebkuras pret to vērstas maģijas vai burvestības, pievienojot summu pašreizējiem spēka punktiem. |
-> | 59–60 | Var katrā raundā uzsākt POW pret POW uzbrukumu; ja veiksmīgs, mērķis zaudē 1D6 spēka punktus. |
-> | 61–62 | Sprāgst, sasniedzot 0 dzīvības punktus, radot 3D6 bojājumu visiem trīs metru rādiusā. Bruņas, vairogi utt. pasargās pret to, lai gan ieroču atvairīšana nevar. |
+> | 38–40 | Reģenerē 1 dzīvības punktu katrā kaujas raundā, līdz mirst. |
+> | 41–42 | Var mēģināt samulsināt mērķi katrā raundā papildus jebkurai cīņai, ar VAR pret VAR pretestības metienu. Neveiksme nostāda mērķi apjukušā un ļoti suģestējamā stāvoklī. Lai veiktu jebkādas darbības, mērķim jāizdara Grūts Idejas metiens, un radība var pavēlēt mērķim rīkoties pretēji tā vēlmēm. Pretošanās šīm pavēlēm arī prasa sekmīgu Grūtu Idejas metienu. |
+> | 43–45 | Radība šķiet neuzvarama; izskatās, ka tā nesaņem bojājumus, līdz sasniedz 0 dzīvības punktus, tad nokrīt mirusi. |
+> | 46 | Neredzama, līdz uzbrūk. |
+> | 47–48 | Izskats ir ārkārtīgi mulsinošs; visi uzbrukumi pret to ir ar –30% sodu. |
+> | 49–50 | Indīgs pieskāriens ar 2D10 POT; dabiskam uzbrukumam jārada 1 dzīvības punkta bojājums, lai inde darbotos. |
+> | 51–52 | IZT ir –2D6, bet reģenerē 3 dzīvības punktus katrā raundā, līdz mirst. |
+> | 53–54 | 6 pkt. bruņota āda. Ja jau ir bruņota āda, +6 pie tās pašreizējās bruņu vērtības. |
+> | 55–56 | KUST 12 |
+> | 57–58 | Absorbē 1 vai 2 punktus no jebkuras pret to vērstas maģijas vai burvestības, pievienojot summu pašreizējiem spēka punktiem. |
+> | 59–60 | Var veikt VAR pret VAR uzbrukumu katrā raundā; ja sekmīgs, mērķis zaudē 1D6 spēka punktus. |
+> | 61–62 | Sprāgst, sasniedzot 0 dzīvības punktus, nodarot 3D6 bojājumus visiem trīs metru rādiusā. Bruņas, vairogi utt. pasargās no tā, lai gan ieroču atvairījumi nevar. |
 > | 63–65 | Izskatās daudz bīstamāka nekā patiesībā ir. |
-> | 66–67 | Var kļūt neredzama pēc vēlēšanās, kad nav kaujā. |
-> | 68–70 | Atstaro 1 vai 2 punktu maģiju vai burvestības atpakaļ lietotājam. |
-> | 71–72 | 8 punktu bruņota āda. Ja jau ir bruņota āda, +8 pie pašreizējās bruņu vērtības. |
-> | 73–74 | 10 punktu bruņota āda. Ja jau ir bruņota āda, +10 pie pašreizējās bruņu vērtības. |
-> | 75–76 | 12 punktu bruņota āda. Ja jau ir bruņota āda, +12 pie pašreizējās bruņu vērtības. |
-> | 77 | Izskatās pilnīgi nekaitīga, līdz iesaistās kaujā. |
-> | 78–80 | Reģenerē 1D6 dzīvības punktus katrā kaujas raundā, līdz miris. |
+> | 66–67 | Var kļūt neredzama pēc vēlēšanās, kad nav cīņā. |
+> | 68–70 | Atstaro 1 vai 2 pkt. maģiju vai burvestību atpakaļ lietotājam. |
+> | 71–72 | 8 pkt. bruņota āda. Ja jau ir bruņota āda, +8 pie pašreizējās bruņu vērtības. |
+> | 73–74 | 10 pkt. bruņota āda. Ja jau ir bruņota āda, +10 pie pašreizējās bruņu vērtības. |
+> | 75–76 | 12 pkt. bruņota āda. Ja jau ir bruņota āda, +12 pie pašreizējās bruņu vērtības. |
+> | 77 | Izskatās pilnīgi nekaitīga, līdz iesaistās cīņā. |
+> | 78–80 | Reģenerē 1D6 dzīvības punktus katrā kaujas raundā, līdz mirst. |
 > | 81–82 | Var lēkt vertikāli vai horizontāli desmit metrus no vietas. |
-> | 83–84 | Nenoteicama ar maģiju vai burvestībām. |
-> | 85 | Izskats ārkārtīgi dezorientējošs; visi uzbrukumi pret to ir ar –40%. |
-> | 86–87 | Īpaši vērtīgs dārgakmens (vai dārgakmeņi) radības iekšpusē, atklāts, ja radība tiek sagriezta. |
-> | 88–90 | Pastāvīgi rada mokošus kliedzienus. |
-> | 91–92 | Pārliecinoša smaka izraisa sliktu dūšu ikvienam, kas elpo tās tuvumā. Ja mērķis neiztur Izturības rullējumu, visas darbības pret šo radību ir Grūtas 1D6+2 raundus. |
-> | 93–94 | Atstaro 1D6+2 punktu maģiju vai burvestības atpakaļ lietotājam. Katrā raundā, kad pret radību tiek vērsta burvestība, rullējiet nejauši, lai noteiktu, cik daudz tiek atstarots. |
-> | 95–96 | Radības pretīgais izskats demoralizē tos, kurus tā pārspēj POW pret POW pretestības rullējumā. Ja mērķis neiztur, visas darbības pret šo radību ir Grūtas 1D6+2 raundus. |
-> | 97–98 | SIZ +2D6 |
-> | 99 | Rullējiet vēlreiz divreiz šajā tabulā. Ja tas tiek rullēts atkal, pievienojiet vēl divas haotiskas iezīmes un rullējiet atkal utt. |
-> | 00 | Šai radībai ir CHA 5D6 un tā ir īpaši sirsnīga. Tā uzbrūk ar CHA pret INT pretestības rullējumu. Neveiksme izraisa upura sadraudzēšanos ar radību, varbūt pat piedāvājot tai kalpot. Radībai var būt līdz 1D6 pašreizējie sabiedrotie šajā dabā, pēc spēles vadītāja ieskatiem. Apburtais tēls var pat cīnīties ar draugiem, lai aizstāvētu radību. |
+> | 83–84 | Neuztverama ar maģiju vai burvestībām. |
+> | 85 | Izskats ārkārtīgi dezorientējošs; visi uzbrukumi pret to ir ar –40% sodu. |
+> | 86–87 | Ļoti vērtīgs dārgakmens (vai dārgakmeņi) radības iekšpusē, atklājams, ja radību pārgriež. |
+> | 88–90 | Pastāvīgi izdveš agonējošus kliedzienus. |
+> | 91–92 | Pārspējoša smaka izraisa nelabumu ikvienam, kas elpo tās tuvumā. Ja mērķis neizdara Izturības metienu, visas darbības pret šo radību ir Grūtas 1D6+2 raundus. |
+> | 93–94 | Atstaro 1D6+2 pkt. maģiju vai burvestību atpakaļ lietotājam. Katrā gājienā, kad burvestība tiek vērsta pret radību, met nejauši, lai noteiktu, cik daudz tiek atstarots. |
+> | 95–96 | Radības pretīgais izskats demoralizē tos, kurus tā pieveic VAR pret VAR pretestības metienā. Ja mērķis neizdodas, visas darbības pret šo radību ir Grūtas 1D6+2 raundus. |
+> | 97–98 | IZM +2D6 |
+> | 99 | Met vēl divas reizes uz šīs tabulas. Ja šis tiek izmests atkal, pievieno vēl divas haotiskas īpašības un met atkal utt. |
+> | 00 | Šai radībai ir HAR 5D6 un tā ir īpaši mīlīga. Tā uzbrūk ar HAR pret INT pretestības metienu. Neveiksme liek upurim sadraudzēties ar radību, varbūt pat piedāvājot tai kalpot. Radībai var būt līdz 1D6 pašreizējiem pavadoņiem šādā stāvoklī, pēc spēles vadītāja ieskatiem. Apburtais tēls var pat cīnīties ar draugiem, lai aizstāvētu radību. |
 
 ## Zinātniskās fantastikas radības
 
-Šīs radības ir vispiemērotākās zinātniskajai fantastikai, futūristiskām, post-apokaliptiskām vai pat šausmu vidēm.
+Šīs radības ir vispiemērotākās zinātniskās fantastikas, futuristiskiem, post-apokaliptiskiem vai pat šausmu iestatījumiem.
 
 ### Citplanētietis, Pelēkais
 
-Pelēkie citplanētieši apmeklē Zemi, lai veiktu pētījumus un eksperimentus ar cilvēkiem un dzīvniekiem, un to dara jau tūkstošiem gadu. Dēļ saviem relatīvi trauslajiem ķermeņiem viņi paļaujas uz sarežģītu tehnoloģiju, lai imobilizētu savus gūstekņus. Viņu motīvi nav zināmi, un viņi neizrāda nekādas emocijas, reti pat atzīstot savu subjektu saprātu, veicot savādus un pazemojošus eksperimentus.
+Pelēkie citplanētieši apmeklē Zemi, lai veiktu pētījumus un eksperimentus ar cilvēkiem un dzīvniekiem, un to dara jau tūkstošiem gadu. To salīdzinoši trauslo ķermeņu dēļ tie paļaujas uz sarežģītām tehnoloģijām, lai imobilizētu savus gūstekņus. To motīvi nav zināmi, un tie neizrāda nekādas emocijas, reti pat atzīstot savu objektu saprātīgumu, veicot ar tiem dīvainus un pazemojošus eksperimentus.
 
-Pelēkos citplanētiešus dažreiz sastop NLO avārijas vietās, klīstot apkārt apdullušiem un mēģinot aizstāvēt savu kuģi, līdz ierodas palīdzība. Viņi ir vai nu kaili, vai arī tērpušies pieguļošos sieta tērpos un aprīkoti ar citplanētiešu tehnoloģiju.
+Pelēkos citplanētiešus reizēm sastop NLO avārijas vietās, staigājošus apkārt apjukušus un cenšoties aizstāvēt savu kuģi, līdz ierodas palīdzība. Tie ir vai nu kaili, vai formās pieguļošos sietiņkombinezonos un aprīkoti ar citplanētiešu tehnoloģijām.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 1D6+3 | 2D6 | 1D6+3 | 2D6+12 | 3D6 | 3D6+3 | 1D6+1 |
 | 6–7 | 7 | 6–7 | 19 | 10–11 | 13–14 | 4–5 |
@@ -974,173 +988,173 @@ Pelēkos citplanētiešus dažreiz sastop NLO avārijas vietās, klīstot apkār
 
 **Uzbrukumi:**
 
-* Apdullināšanas pistole 50%, 2D6 (apdullina, skatīt ieroča aprakstu)
-* Disintegratora šautene 35%, 3D6+2 (skatīt ieroča aprakstu)
+* Apdullināšanas pistole 50%, 2D6 (apdullina, skat. ieroča aprakstu)
+* Disintegratora šautene 35%, 3D6+2 (skat. ieroča aprakstu)
 
-**Prasmes:** Izvairīties 40%, Smalka manipulācija 75%, Pirmā palīdzība 75%, Paslēpties 60%, Zināšanas (Cilvēku kultūra) 55%, Zināšanas (Reģions: Piena Ceļš) 85%, Valoda (Reģions) 20%, Valoda (Zeta Reticulan) 100%, Klausīties 55%, Medicīna 100%, Navigācija 70%, Pilots (NLO) 80%, Remontēt (Kvantu) 50%, Zinātne (Astronomija) 75%, Zinātne (Planētoloģija) 95%, Zinātne (Zooloģija) 50%, Sajušana 60%, Pamanīt 50%, Slēpties 50%, Tehniskā prasme (NLO sensori) 50%
+**Prasmes:** Izvairīšanās 40%, Smalka manipulācija 75%, Pirmā palīdzība 75%, Slēpšanās 60%, Zināšanas (Cilvēku kultūra) 55%, Zināšanas (Reģions: Piena Ceļš) 85%, Valoda (Apgabala) 20%, Valoda (Zetas Retikulas) 100%, Klausīšanās 55%, Medicīna 100%, Navigācija 70%, Pilots (NLO) 80%, Remonts (Kvantu) 50%, Zinātne (Astronomija) 75%, Zinātne (Planētoloģija) 95%, Zinātne (Zooloģija) 50%, Sajūtas 60%, Pamanīšana 50%, Maskēšanās 50%, Tehniskā prasme (NLO sensori) 50%
 
-**Spējas:** Pelēkie citplanētieši izmanto to, ko cilvēki uzskata par psihiskām spējām. Bieži sastopamās psihiskās spējas ir Emociju kontrole, Prāta kontrole, Prāta aizsardzība, Telekinēze un Telepātija. Katra no tām ir to POWx2% vai augstāk.
+**Spējas:** Pelēkie citplanētieši izmanto to, ko cilvēki uzskata par psihiskām spējām. Parasti psihiskās spējas ir Emociju kontrole, Prāta kontrole, Prāta vairogs, Telekinēze un Telepātija. Katra no tām ir to VAR×2% vai augstākā līmenī.
 
 ### Citplanētietis, Ksenomorfs
 
-Atklāti kosmosa malā, šie ksenomorfi ir miesas kāri, aprijot jebkuru dzīvu būtni, ar ko tie sastopas. Neskaidri kukaiņveidīgi, ksenomorfi sazinās cits ar citu nezināmā veidā un spēj veikt pārsteidzoši sarežģītu taktiku. Tie vairojas ar sarežģītu un ārkārtīgi strauju procesu, kurā olas tiek implantētas upuros, līdz gestācija ir pabeigta, kurā brīdī jaundzimušais citplanētietis iznāk un aprij iepriekšējo saimnieku. Zinātnieki teorizē, ka katru no šo citplanētiešu baru vada milzīga izmēra un izcilas inteliģences olu dējoša karaliene. Ksenomorfi ir viltīgi, koordinējot savus uzbrukumus, lai ātri pārņemtu jebkuru apgabalu, kurā tie tiek ieviesti, būvējot milzu stropus un sagūstot dzīvus saimniekus, lai kalpotu to niecīgajā vairošanās procesā.
+Atklāti kosmosa malā, šie ksenomorfi ir izsalkuši pēc miesas, aprīdami jebkuru dzīvu būtni, ko sastop. Nedaudz kukaiņveidīgi, ksenomorfi sazinās savā starpā nezināmā veidā un ir spējīgi uz pārsteidzoši sarežģītu taktiku. Tie vairojas, izmantojot sarežģītu un ārkārtīgi strauju procesu, kurā olas tiek implantētas upuros, līdz gestācija ir pabeigta, kurā brīdī piedzimst jaundzimušais citplanētietis un aprīj saimnieku. Zinātnieki teorētiski pieļauj, ka katru šo citplanētiešu dējumu vada milzu izmēra un izcilas inteliģences olu dējēja mātes karaliene. Ksenomorfi ir viltīgi, koordinējot savus uzbrukumus, lai ātri pārņemtu jebkuru apgabalu, kurā tie ievesti, būvējot milzu stropus un sagūstot dzīvus saimniekus, lai tie kalpotu to zemiskajam vairošanās procesam.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+3 | 3D6 | 3D6+3 | 2D6 | 2D6 | 3D6+6 | 1D6 |
 | 13–14 | 10–11 | 13–14 | 7 | 7 | 16–17 | 3–4 |
 
 | Kustība 12 | Dzīvības punkti 12–13 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 2 punktu bruņas (sprauslā skābas asinis, skatīt zemāk) |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 2 pkt. bruņučaula (spļauj skābu asini, skat. zemāk) |
 
 **Uzbrukumi:**
 
 * Naga 50%, 1D6+dm (asiņošana)
 * Kodums 35%, 1D6+dm (asiņošana)
-* Astes cirtiens 35%, 1D4+dm (caurduršana)
-* Cīkšanās 35%, īpašs
+* Astes cirtiens 35%, 1D4+dm (duršana)
+* Satvēriens 35%, īpašs
 
-Katrā raundā ksenomorfs var uzbrukt divreiz ar nagiem un vienreiz ar koduma uzbrukumu 5 DEX rangus vēlāk. Ja tas ir veiksmīgs ar abiem nagu uzbrukumiem, tas nākamajā raundā mēģina satvert un kost. Ja piemērots, tas aizstāj savu kodumu ar astes cirtiena uzbrukumu.
+Katrā raundā ksenomorfs var uzbrukt divreiz ar nagiem un vienreiz ar kodienu 5 VEI rangus vēlāk. Ja tas ir sekmīgs abos nagu uzbrukumos, nākamajā raundā tas mēģina satvert un kost. Ja piemēroti, tas aizstāj kodienu ar astes cirtienu.
 
-**Prasmes:** Kāpt 75%, Izvairīties 50%, Paslēpties 60%, Lēkt 50%, Klausīties 35%, Sajušana 50%, Pamanīt 35%, Slēpties 50%, Sekot 75%.
+**Prasmes:** Kāpšana 75%, Izvairīšanās 50%, Slēpšanās 60%, Lēkšana 50%, Klausīšanās 35%, Sajūtas 50%, Pamanīšana 35%, Maskēšanās 50%, Pēdu dzīšana 75%.
 
-**Spējas:** Ksenomorfiem ir īpaša aizsardzība: skābas asinis. Šī bioloģiskā skābe ir ārkārtīgi spēcīga un izsprauslājas no jebkuras fiziskas brūces, ko ksenomorfs saņem, būdama aktīvi korozīva 1D6+2 kaujas raundus. Ikvienam mērķim viena metra attālumā no ksenomorfa jāveic Veiksmes rullējums, lai izvairītos no apslacīšanas. Neveiksme norāda, ka tēls saņem 1D3 punktus no skābes. Bruņas sākotnēji pasargā pret šo skābi, bet ne uz ilgu laiku. Tā turpina grauzt bruņas, nodarot bojājumus katrā kaujas raundā, līdz bruņu vērtība ir pārvarēta. Spēles vadītājam vajadzētu sekot skābes nodarītajiem bojājumiem katrā raundā, līdz bruņu vērtība ir pārvarēta. Šajā brīdī tā apdedzina tēlu. Bruņu novilkšana, neapdedzinoties, prasa vienu pilnu kaujas raundu un Grūtu Veiklības rullējumu. Ja tiek izmantotas trāpījumu zonas, jānoņem tikai bruņas uz skartās(-ajām) trāpījumu zonas(-ām). Neveiksme norāda, ka bruņas joprojām ir virsū. Pīkstiens norāda, ka skābe ir nokļuvusi uz tēla. Kad tēlu sāk dedzināt skābe, tā turpina dedzināt, līdz tiek neitralizēta ar kādu spēku, vai skābe beidz būt korozīva 1D6+2 raundu beigās.
+**Spējas:** Ksenomorfiem ir īpaša aizsardzība: skābas asinis. Šī bioloģiskā skābe ir ārkārtīgi spēcīga un izšļācas no jebkuras fiziskas brūces, ko ksenomorfs saņem, aktīvi korozīva 1D6+2 kaujas raundus. Jebkuram mērķim viena metra attālumā no ksenomorfa jāveic Veiksmes metiens, lai izvairītos no apslacīšanas. Neveiksme norāda, ka tēls saņem 1D3 punktus no skābes. Bruņas sākotnēji aizsargā pret šo skābi, bet ne ilgi. Tā turpina grauzt bruņas, nodarot bojājumus katrā kaujas raundā, līdz tiek cauri bruņām. Spēles vadītājam jāseko skābes bojājumiem katrā raundā, līdz bruņu vērtība ir pārvarēta. Šajā brīdī tā sāk dedzināt tēlu. Bruņu novilkšana, neapdedzinoties, prasa vienu pilnu kaujas raundu un Grūtu Veiklības metienu. Ja tiek izmantotas trāpījuma vietas, jānovelk tikai bruņas uz skartās trāpījuma vietas(-ām). Neveiksme norāda, ka bruņas joprojām ir uzvilktas. neveiksmes metiens norāda, ka skābe nokļuvusi uz tēla. Kad tēlu sāk dedzināt skābe, tā turpina dedzināt, līdz tiek neitralizēta ar kādu spēku, vai skābe beidz būt korozīva pēc 1D6+2 raundiem.
 
-### Pļeka (Blob)
+### Blobs
 
-Drausmīga, gļotaina protoplazmatiska materiāla masa. Šī radība ir šausminoša, pastāvīgi izstiepjot vairākus pseidopodus, taustekļus un pat cilvēka ekstremitāšu un maņu orgānu aproksimācijas. Pļekas ir daļēji caurspīdīgas, un to apņemtos upurus var aplūkot iekšpusē, kamēr tie tiek apēsti ar spēcīgām gremošanas skābēm. Pļekas var sablīvēt savu masu, saspiežoties cauri šaurām vietām, mainot savu vispārējo formu, bet ne savu faktisko masu.
+Groteska gļotainas protoplazmatiskas vielas masa. Šī radība ir šausminoša, pastāvīgi izstiepjot vairākus pseidopodus, taustekļus un pat cilvēka locekļu un maņu orgānu atdarinājumus. Blobi ir daļēji caurspīdīgi, un to aprītie upuri ir saskatāmi iekšpusē, kamēr tos saēd spēcīgas gremošanas skābes. Blobi var saspiest savu masu, iekļūstot šaurās vietās, mainot savu kopējo formu, bet ne faktisko masu.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 18D6 | 12D6 | 24D6 | 2D6 | 3D6 | 1D6 |
 | 63 | 42 | 84 | 7 | 10–11 | 3–4 |
 
 | Kustība 10 | Dzīvības punkti 63 |
 | :---- | :---- |
-| **Bojājuma modifikators** +8D6 | **Bruņas** Nav, bet skatīt zemāk |
+| **Bojājuma modifikators** +8D6 | **Bruņas** Nav, bet skat. zemāk |
 
 **Uzbrukumi:**
 
-* Apņemt 70%, apņem + dm (skatīt zemāk)
+* Aprijšana 70%, aprij + dm (skat. zemāk)
 
-**Prasmes:** Kāpt 50%, Paslēpties 25%, Sajušana 25%, Slēpties 25%, Sekot 25%.
+**Prasmes:** Kāpšana 50%, Slēpšanās 25%, Sajūtas 25%, Maskēšanās 25%, Pēdu dzīšana 25%.
 
-Pļekai nav bruņu, bet uguns un elektriskie uzbrukumi nodara tikai ½ bojājumu (noapaļojot uz augšu) un fiziski ieroči, piemēram, šaujamieroči, nodara tikai 1 punkta bojājumu.
+Blobam nav bruņu, bet uguns un elektriskie uzbrukumi nodara tikai ½ bojājumu (noapaļojot uz augšu), un fiziski ieroči, piemēram, šaujamieroči, nodara tikai 1 punktu bojājumu.
 
-**Spējas:** Pļeka apņem mērķi pēc veiksmīga uzbrukuma. Tās bojājuma modifikators tiek piemērots apņemtajam tēlam, un nākamajā raundā tēls sāk tikt sagremots. Ja izmanto trāpījumu zonas, bojājums tiek dalīts starp visām trāpījumu zonām vienlaikus. Tas nodara 1D3–1 bojājuma punktu katrā kaujas raundā. Aizsargapģērbs nestrādā, ja vien tas nav pilnībā noslēgts, un tas pļekā izdzīvo tikai kaujas raundus, kas vienādi ar tā bruņu vērtību. Izkļūšana no pļekas ir ārkārtīgi grūta, prasot veiksmīgu Grūtu Pūļu rullējumu. Pļekas arī reģenerē 1 dzīvības punktu katrā kaujas raundā, līdz sasniedz pilnus dzīvības punktus.
+**Spējas:** Blobs aprij mērķi pēc sekmīga uzbrukuma. Tā bojājuma modifikators tiek piemērots aprītajam tēlam, un nākamajā raundā tēls sāk tikt sagremots. Ja izmanto trāpījuma vietas, bojājumi tiek dalīti starp visām trāpījuma vietām vienlaikus. Tas nodara 1D3–1 bojājumu punktus katrā kaujas raundā. Aizsardzības aprīkojums nedarbojas, ja vien tas nav pilnībā noslēgts, un tas blobā izdzīvo tikai tik kaujas raundus, cik ir tā bruņu vērtība. Izkļūšana no bloba ir ārkārtīgi grūta, prasot sekmīgu Grūtu Piepūles metienu. Blobi arī reģenerē 1 dzīvības punktu katrā kaujas raundā, līdz sasniedz pilnus dzīvības punktus.
 
 ### Robots, Milzu
 
-Milzu robotu uzbūvēja slepena valdības organizācija, lai aizstāvētu pasauli no mulsinoša daudzuma dīvainu citplanētiešu radību un milzu briesmoņu. Bruņots un aprīkots ar dažādiem pārsteidzošiem ieročiem, milzu robots ir elks cilvēkiem visur, neskatoties uz to, ka tas nodara neizmērojamus īpašuma bojājumus ikreiz, kad tas cīnās.
+Milzu robots tika uzbūvēts augsti slepenā valdības organizācijā, lai aizstāvētu pasauli no apbrīnojama dīvainu citplanētiešu radību un milzu monstru klāsta. Bruņots un aprīkots ar dažādiem pārsteidzošiem ieročiem, milzu robots tiek pielūgts cilvēku vidū visur, neskatoties uz to, ka tas nodara neizmērojamus īpašuma bojājumus ikreiz, kad cīnās.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| SPĒ | IZT | IZM | INT | VAR | VEI |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16D6+32 | 16D6+32 | 16D6+32 | 3D6 | 2D6 | 3D6 |
 | 88 | 88 | 88 | 10–11 | 7 | 10–11 |
 
 | Kustība 24 (176 lidojot) | Dzīvības punkti 188 (+100 no Papildu dzīvības punktu spējas) |
 | :---- | :---- |
-| **Bojājuma modifikators** +10D6 | **Bruņas** 30 punktu bruņots korpuss |
+| **Bojājuma modifikators** +10D6 | **Bruņu korpuss** 30 pkt. bruņots korpuss |
 
 **Uzbrukumi:**
 
-* Enerģijas lielgabals 100%, 10D6 (saspiešana)
-* Raķešu bloks 100%, 8D6+8 (caurduršana + atgrūšana)
+* Enerģijas lielgabals 100%, 10D6 (drupināšana)
+* Raķešu bloks 100%, 8D6+8 (duršana + atsitiena spēks)
 * Enerģijas zobens 75%, 4D10+dm (asiņošana)
-* Dūre 75%, 1D6+dm (saspiešana)
-* Spertiens 75%, 1D6+dm (saspiešana, atgrūšana)
-* Samīšana 75%, 2D6+dm (saspiešana)
-* Cīkšanās 75%, īpašs
+* Dūre 75%, 1D6+dm (drupināšana)
+* Spēriens 75%, 1D6+dm (drupināšana, atsitiena spēks)
+* Mīdīšana 75%, 2D6+dm (drupināšana)
+* Satvēriens 75%, īpašs
 
-**Spējas:** Milzu robotam ir dažādi komponenti, kas vislabāk attēloti ar superspējām, tostarp: Absorbcija (Elektriskā) 20; Adaptācija (Augsts spiediens, Vakuums, vienmēr ieslēgta, bez spēka punktu izmaksas) 30; Bruņas (Karstums, Kinētiskā, Radiācija) 30 katra; Enerģijas projekcija (Kinētiskā) 10; Papildu enerģija +200; Papildu dzīvības punkti +100; Lidošana 30; Pretestība (Radiācija, Skaņa) 10 katra; Super Sajušana (Tumšredze, Infrasarkanā redze, Naktsredze, Super Dzirdes spēja, Super Redzes spēja) 10 katra; Superprasme 15 (Artilērija +60%, Kautiņš +40%, Lidot +60%, Navigācija +20%, Remontēt +20%, Pamanīt +40%). Papildus šīm spējām, milzu robotam tā struktūrā ir iebūvēts raķešu bloks un milzu enerģijas zobens.
+**Spējas:** Milzu robotam ir dažādi komponenti, kurus vislabāk pārstāv superspējas, tostarp: Absorbcija (Elektriskā) 20; Adaptācija (Augsts spiediens, Vakuums, vienmēr ieslēgts, nav spēka punktu izmaksas) 30; Bruņas (Karstums, Kinētiskā, Radiācija) 30 katra; Enerģijas projekcija (Kinētiskā) 10; Papildu enerģija +200; Papildu dzīvības punkti +100; Lidojums 30; Pretestība (Radiācija, Skaņa) 10 katra; Supersajūtas (Tumšā redze, Infrasarkanā redze, Nakts redze, Superskaņa, Superredze) 10 katra; Superprasme 15 (Artilērija +60%, Kautiņš +40%, Lidošana +60%, Navigācija +20%, Remonts +20%, Pamanīšana +40%). Papildus šīm spējām, milzu robotam struktūrā ir iebūvēts raķešu bloks un milzu enerģijas zobens.
 
-**Prasmes:** Artilērija 75%, Izvairīties 40%, Smalka manipulācija 35%, Lidot (Iekšējās raķetes) 90%, Lēkt 55%, Zināšanas (Kaiju) 50%, Valoda (Angļu) 30%, Valoda (Japāņu) 75%, Klausīties 65%, Cīņas mākslas 40%, Navigācija 50%, Remontēt (Mehāniskais) 55%, Pamanīt 65%, Mest 55%
+**Prasmes:** Artilērija 75%, Izvairīšanās 40%, Smalka manipulācija 35%, Lidošana (Iekšējās raķetes) 90%, Lēkšana 55%, Zināšanas (Kaiju) 50%, Valoda (Angļu) 30%, Valoda (Japāņu) 75%, Klausīšanās 65%, Cīņas mākslas 40%, Navigācija 50%, Remonts (Mehāniskais) 55%, Pamanīšana 65%, Mešana 55%
 
 ### Robots, Slepkava
 
-Slepkava robotiem ir daudz dažādu izcelsmju. Tie var būt būvēti militārām vajadzībām un palikuši neprātīgi, mājsaimniecības roboti, kas kļuvuši slepkavnieciski, vai slepkavas, kas nosūtīti no kādas nākotnes vai attāla kosmosa stūra. Neatkarīgi no iemesla, slepkava robots ir nežēlīgs un atjautīgs, parasti apņēmies iznīcināt vienu personu, veselu cilvēku grupu vai varbūt ikvienu no noteiktas rases (piemēram, cilvēkus).
+Slepkava robotiem ir daudz dažādu izcelsmju. Tie varētu būt uzbūvēti militārām vajadzībām un kļuvuši traki, sadzīves roboti, kas kļuvuši slepkavnieciski, vai no kāda nākotnes laika vai tālas kosmosa malas sūtīti slepkavas. Neatkarīgi no iemesla, slepkava robots ir bez žēlastības un atjautīgs, parasti apņēmies iznīcināt vienu personu, veselu cilvēku grupu vai varbūt jebkuru konkrētas rases pārstāvi (piemēram, cilvēku).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+24 | 4D6+12 | 2D6+9 | 2D6+6 | 2D6 | 3D6 | 3D6 |
 | 38 | 26 | 16 | 13 | 7 | 10–11 | 10–11 |
 
 | Kustība 10 | Dzīvības punkti 21 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** 20 punktu iekšējais klājums |
+| **Bojājuma modifikators** +2D6 | **Bruņas** 20 pkt. iekšējais apšuvums |
 
 **Uzbrukumi:**
 
-* Plazmas šautene 80%, 2D10+4 (caurduršana)
-* Triecienšautene 80%, 2D6+2 (caurduršana)
-* Automātiskā bise 80%, 4D6/2D6/1D6 (caurduršana)
-* Smagā pistole 80%, 1D10+2 (caurduršana)
-* Dūre 80%, 1D3+dm (saspiešana)
+* Plazmas šautene 80%, 2D10+4 (duršana)
+* Triecienšautene 80%, 2D6+2 (duršana)
+* Automātiskā bise 80%, 4D6/2D6/1D6 (duršana)
+* Smagā pistole 80%, 1D10+2 (duršana)
+* Dūre 80%, 1D3+dm (drupināšana)
 
-Atkarībā no tā, kur un kad tas tiek sastapts, slepkava robots ir vai nu aprīkots ar uzlabotiem ieročiem, vai arī videi atbilstošiem bruņojumiem.
+Atkarībā no tā, kur un kad tas tiek sastapts, slepkava robots ir aprīkots vai nu ar moderniem ieročiem, vai bruņojumu, kas piemērots iestatījumam.
 
-**Prasmes:** Artilērija 80%, Kautiņš 80%, Kāpt 50%, Demolēšana 50%, Izvairīties 40%, Vadīt (Motocikls) 75%, Vadīt (Kravas automašīna) 60%, Cīkšanās 80%, Lēkt 50%, Zināšanas (Nākotnes vēsture) 65%, Zināšanas (Reģions: Vietējais) 50%, Valoda (Binārā) 100%, Valoda (Vietējā) 60%, Klausīties 65%, Pilots (Helikopters) 50%, Remontēt (Elektronika) 75%, Remontēt (Mehāniskais) 95%, Pamanīt 75%, Stratēģija 40%, Mest 55%.
+**Prasmes:** Artilērija 80%, Kautiņš 80%, Kāpšana 50%, Demolēšana 50%, Izvairīšanās 40%, Braukšana (Motocikls) 75%, Braukšana (Kravas auto) 60%, Satvēriens 80%, Lēkšana 50%, Zināšanas (Nākotnes vēsture) 65%, Zināšanas (Reģions: Vietējais) 50%, Valoda (Binārā) 100%, Valoda (Vietējā) 60%, Klausīšanās 65%, Pilots (Helikopters) 50%, Remonts (Elektronika) 75%, Remonts (Mehāniskais) 95%, Pamanīšana 75%, Stratēģija 40%, Mešana 55%.
 
-**Spējas:** Slepkavam robotam parasti ir dažas superspējas, piemēram, Super Sajušana (Infrasarkanā redze, Super Dzirdes spēja, Super Redzes spēja, Ultraskaņas dzirdes spēja) 5 katra. Tas var izmantot šīs spējas bez jebkādas spēka punktu izmaksas. Daži slepkava roboti var mainīt formu, stiepties vai ir bruņoti ar integrētu bruņojumu, piemēram, nagiem, asmeņiem, lāzera acīm vai iekšējiem šaujamieročiem.
+**Spējas:** Slepkava robotam parasti ir dažas superspējas, piemēram, Supersajūtas (Infrasarkanā redze, Superskaņa, Superredze, Ultraskaņas dzirde) katra 5 punktu līmenī. Tas var izmantot šīs spējas bez spēka punktu izmaksas. Daži slepkava roboti var mainīt formu, stiepties vai ir bruņoti ar integrētiem ieročiem, piemēram, nagiem, asmeņiem, lāzeru acīm vai iekšējiem šaujamieročiem.
 
-### Robots, Servisa
+### Robots, Palīgs
 
-Uzticams cilvēces kalps, servisa robots ir izstrādāts, lai palīdzētu cilvēkiem. Servisa roboti tradicionāli ir ieprogrammēti būt pazemīgiem un draudzīgiem, un, galvenais, izvairīties no jebkādu darbību veikšanas, kas varētu nodarīt kaitējumu dzīvai būtnei. Dažiem servisa robotiem ir iekšpusē iebūvēti instrumenti, kad tie veic mehānisko vai elektrisko apkopi un remontu, vai arī tie var būt vienkāršas cilvēces aproksimācijas, kas paredzētas tādām lomām kā diplomātija, tulkošana un personīgā palīdzība.
+Uzticams cilvēces kalps, palīgrs robots ir izstrādāts, lai palīdzētu cilvēkiem. Palīgrs roboti tradicionāli ir programmēti būt pazemīgiem un draudzīgiem, un galvenokārt izvairīties no jebkādu darbību veikšanas, kas varētu novest pie dzīvas būtnes kaitējuma. Dažiem palīgrs robotiem iekšpusē ir iebūvēti instrumenti, kad tie veic mehānisko vai elektrisko apkopi un remontu, vai arī tie var būt vienkārši cilvēces atdarinājumi, kas paredzēti tādām lomām kā diplomātija, tulkošana un personīgā palīdzība.
 
-| STR | SIZ | INT | DEX |
+| SPĒ | IZM | INT | VEI |
 | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
 | 13 | 10–11 | 13 | 10–11 |
 
 | Kustība 8 | Dzīvības punkti 10–11 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 4 punktu klājums |
+| **Bojājuma modifikators** Nav | **Bruņas** 4 pkt. apšuvums |
 
 **Uzbrukumi:**
 
-* Kautiņš 30%, 1D3+dm (saspiešana)
-* Elektroinstrumenti 50%, 1D6 (uguns vai elektrisks, skatīt zemāk)
+* Kautiņš 30%, 1D3+dm (drupināšana)
+* Elektroinstrumenti 50%, 1D6 (uguns vai elektriskais, skat. zemāk)
 
-Vairumam servisa robotu ir stingri programmēti aizliegumi nodarīt kaitējumu saprātīgām sugām. Tomēr daži ir mazāk stingri attiecībā uz to nekā citi un var rīkoties pašaizsardzības nolūkos. Tehniskajiem robotiem ir daži iekšējie instrumenti, piemēram, metinātāji vai elektriskie izlādētāji, kurus var izmantot bojājumu nodarīšanai.
+Vairumam palīgrs robotu ir stingri programmēšanas aizliegumi par kaitējumu saprātīgām sugām. Tomēr daži ir mazāk stingri un var rīkoties pašaizsardzībā. Tehniskajiem robotiem ir daži iekšēji rīki, piemēram, metinātāji vai elektriskie izlādētāji, kurus var izmantot bojājumu nodarīšanai.
 
-**Prasmes (Diplomātijas pakete):** Novērtēt 85%, Kaulēties 55%, Etiķete 95%, Ātri runāt 75%, Smagā tehnika (Binārais kravas cēlājs) 50%, Paslēpties 25%, Ieskats 35%, Zināšanas (Citplanētiešu kultūras) 75%, Zināšanas (Valodniecība) 100%, Valoda (visas zināmās) 95%, Klausīties 55%, Pārliecināt 45%, Mācīt 60%.
+**Prasmes (Diplomātijas pakete):** Novērtēšana 85%, Kaulēšanās 55%, Etiķete 95%, Ātra runāšana 75%, Smagā tehnika (Binārais kravas cēlējs) 50%, Slēpšanās 25%, Ieskats 35%, Zināšanas (Citplanētiešu kultūras) 75%, Zināšanas (Linguistika) 100%, Valoda (visas zināmās) 95%, Klausīšanās 55%, Pārliecināšana 45%, Mācīšana 60%.
 
-**Prasmes (Tehniskā pakete):** Smalka manipulācija 95%, Smagā tehnika (Kosmodroma sistēmas) 95%, Paslēpties 35%, Valoda (Galaktiskā kopējā, nevar runāt) 50%, Valoda (Mašīnu) 100%, Klausīties 50%, Pilots (Zvaigžņu cīnītājs) 50%, Remontēt (Elektroniskais) 95%, Remontēt (Mehāniskais) 95%, Remontēt (Kvantu) 75%, Pamanīt 50%, Tehniskā prasme (Datoru lietošana) 100%.
+**Prasmes (Tehniskā pakete):** Smalka manipulācija 95%, Smagā tehnika (Kosmodroma sistēmas) 95%, Slēpšanās 35%, Valoda (Galaktiskā kopvaloda, nevar runāt) 50%, Valoda (Mašīnu) 100%, Klausīšanās 50%, Pilots (Zvaigžņu iznīcinātājs) 50%, Remonts (Elektroniskais) 95%, Remonts (Mehāniskais) 95%, Remonts (Kvantu) 75%, Pamanīšana 50%, Tehniskā prasme (Datoru lietošana) 100%.
 
-## Nespēlētāja tēlu kopsavilkums
+## Nespēlētāju tēlu (NPC) apkopojums
 
-Šos nespēlētāja tēlu piemērus var izmantot uzreiz vai viegli pielāgot pēc vajadzības, pārveidot vai pat izmantot kā ātrus spēlētāju tēlus. Viņu plašais potenciālo ieroču klāsts nenozīmē, ka viņi vienmēr ir smagi bruņoti, bet gan to, ka viņi ir prasmīgi vairāk nekā vienā ierocī.
+Šos nespēlētāju tēlu paraugus var izmantot uzreiz vai viegli pielāgot pēc vajadzības, pārveidot vai pat izmantot kā ātrus spēlētāju tēlus. To plašais iespējamo ieroču klāsts nenozīmē, ka tie vienmēr ir smagi bruņoti, bet gan to, ka tie prot izmantot vairāk nekā vienu ieroci.
 
-### Alu iemītnieks
+### Alas iemītnieks
 
-Primitīvs cilvēks no sen pazuduša vēstures laikmeta, alu iemītnieks ir pilnībā vērsts uz izdzīvošanu sev, ģimenei un ciltij. Tikko spējīgs izmantot instrumentus, alu iemītnieks vēl nav pārsniedzis mednieku-vācēju civilizācijas stadiju un vai nu mīt alās drošībai, vai migrē, mainoties gadalaikiem, karojot ar citām ciltīm par resursiem vai pat izdzīvošanu. Alu iemītnieki bieži godā laikapstākļu un sava medījuma garus.
+Primitīvs cilvēks no sen pagājuša vēstures laikmeta, alas iemītnieks ir pilnībā vērsts uz izdzīvošanu sev, ģimenei un ciltij. Tik tikko spējīgs lietot rīkus, alas iemītnieks vēl nav pārsniedzis mednieku-vācēju civilizācijas stadiju un vai nu apdzīvo alas drošības dēļ, vai migrē, mainoties gadalaikiem, karojot ar citām ciltīm par resursiem vai pat izdzīvošanu. Alas iemītnieki bieži pielūdz laikapstākļu un sava medījuma garus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 16 | 10 | 8 | 12 | 15 | 9 |
 
 | Kustība 10 | Dzīvības punkti 13 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 1 punkta āda |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 1 pkt. āda |
 
 **Uzbrukumi:**
 
-* Īsais šķēps 50%, 1D6+1+dm (caurduršana)
-* Īsais šķēps (mests) 50%, 1D6+1+½dm (caurduršana)
-* Vieglā vālīte 50%, 1D6+dm (saspiešana)
-* Akmens (mests) 50%, 1D2+½dm (saspiešana)
-* Cīkšanās 50%, īpašs
+* Īss šķēps 50%, 1D6+1+dm (duršana)
+* Īss šķēps (mests) 50%, 1D6+1+½dm (duršana)
+* Vieglā nūja 50%, 1D6+dm (drupināšana)
+* Akmens (mests) 50%, 1D2+½dm (drupināšana)
+* Satvēriens 50%, īpašs
 
-**Prasmes:** Kautiņš 50%, Kāpt 60%, Amatniecība (Koka griešana) 25%, Izvairīties 35%, Paslēpties 35%, Lēkt 50%, Valoda (Paša) 40%, Klausīties 55%, Sajušana 50%, Pamanīt 65%, Slēpties 30%, Mest 50%, Sekot 40%
+**Prasmes:** Kautiņš 50%, Kāpšana 60%, Amatniecība (Koka griešana) 25%, Izvairīšanās 35%, Slēpšanās 35%, Lēkšana 50%, Valoda (Paša) 40%, Klausīšanās 55%, Sajūtas 50%, Pamanīšana 65%, Maskēšanās 30%, Mešana 50%, Pēdu dzīšana 40%
 
-**Spējas:** Alu iemītniekiem reti piemīt kādas spējas, lai gan dažiem primitīviem šamaņiem var būt dažas maģiskas burvestības vai psihiskas spējas, ja viņu POW ir pietiekami augsts.
+**Spējas:** Alas iemītniekiem reti ir kādas spējas, lai gan dažiem primitīviem šamaņiem var būt dažas maģiskas burvestības vai psihiskas spējas, ja to VAR ir pietiekami augsts.
 
-### Noziedzīgās pasaules vadoņi
+### Noziedzības lielmeistars
 
-Noziedzīgās pasaules vadonis ir bandas līderis vai augsta ranga organizētās noziedzības ģimenes loceklis, visticamāk, izcīnījis savu ceļu cauri organizētās noziedzības rindām. Viņi ir prasmīgi lielas atsevišķu noziedznieku grupas vadīšanā organizētās noziedzības ikdienas aktivitātēs. Negodprātīgs, nežēlīgs, apņēmīgs un viltīgs, noziedzīgās pasaules vadonis ir atjautīgs un bīstams ienaidnieks. Lai gan viņi nav fiziski iespaidīgi, viņi to kompensē ar ambīcijām, rupju necieņu pret cilvēka dzīvību un prasmīgu un ļaunprātīgu pakalpiņu armiju.
+Noziedzības lielmeistars ir bandas vadonis vai augsta līmeņa organizētās noziedzības ģimenes loceklis, visticamāk, izkarojies savu ceļu caur rindām. Viņi prot vadīt lielu atsevišķu noziedznieku grupu organizētās noziedzības ikdienas aktivitātēs. Negodprātīgs, nežēlīgs, apņēmīgs un viltīgs, noziedzības lielmeistars ir atjautīgs un bīstams ienaidnieks. Lai gan viņi nav fiziski iespaidīgi, viņi to kompensē ar ambīcijām, cietsirdīgu vienaldzību pret cilvēka dzīvību un prasmīgu un ļaunu rokaspuišu armiju.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 11 | 12 | 12 | 12 | 17 | 16 | 14 |
 
@@ -1150,19 +1164,19 @@ Noziedzīgās pasaules vadonis ir bandas līderis vai augsta ranga organizētās
 
 **Uzbrukumi:**
 
-* Vidēja pistole 75%, 1D8 (caurduršana)
+* Vidējā pistole 75%, 1D8 (duršana)
 * Skuveklis 65%, 1D4+dm (asiņošana)
-* Ložmetējs 55%, 2D6+4 (caurduršana)
+* Ložmetējs 55%, 2D6+4 (duršana)
 
-**Prasmes:** Novērtēt 55%, Kaulēties 65%, Komandēt 65%, Amatniecība (Ēdienu gatavošana) 55%, Amatniecība (Numura zīmes) 35%, Demolēšana 35%, Maskēšanās 25%, Izvairīties 50%, Vadīt (Aizbēgšanas mašīna) 45%, Etiķete 45%, Ātri runāt 55%, Spēles 60%, Paslēpties 35%, Ieskats 75%, Zināšanas (Likums) 55%, Valoda (Vietējā) 75%, Valoda (Paša) 75%, Klausīties 55%, Medicīna (Farmakoloģija) 35%, Uzstāties (Dziedāšana) 50%, Pārliecināt 75%, Sajušana 40%, Slepenā manipulācija 35%, Pamanīt 45%, Statuss 55%, Slēpties 55%, Stratēģija 60%, Mest 45%.
+**Prasmes:** Novērtēšana 55%, Kaulēšanās 65%, Pavēle 65%, Amatniecība (Ēdienu gatavošana) 55%, Amatniecība (Numura zīmes) 35%, Demolēšana 35%, Maskēšanās 25%, Izvairīšanās 50%, Braukšana (Bēgšanas auto) 45%, Etiķete 45%, Ātra runāšana 55%, Spēles 60%, Slēpšanās 35%, Ieskats 75%, Zināšanas (Likums) 55%, Valoda (Vietējā) 75%, Valoda (Paša) 75%, Klausīšanās 55%, Medicīna (Farmakoloģija) 35%, Uzstāšanās (Dziedāšana) 50%, Pārliecināšana 75%, Sajūtas 40%, Veiklība 35%, Pamanīšana 45%, Statuss 55%, Maskēšanās 55%, Stratēģija 60%, Mešana 45%.
 
-**Spējas:** Noziedzīgās pasaules vadoņiem reti piemīt spējas, un viņi parasti ir to ienaidnieki, kuriem piemīt superspējas.
+**Spējas:** Noziedzības lielmeistariem reti ir spējas, un viņi parasti ir ienaidnieki tiem, kam piemīt superspējas.
 
 ### Kiborgs
 
-Kiborgs ir cilvēks, kas papildināts ar tehnoloģiskiem elementiem, vai nu kā uzlabojums, vai kā aizstājējs negadījumos zaudētām ķermeņa daļām. Puse miesas un puse mašīnas, kiborgs ir iemācījies pieņemt šo stāvokli, neraugoties uz atsvešinātību, ko tas rada. Viņi var būt pilnībā cilvēciski pēc izskata vai būt acīmredzams miesas un metāla sakausējums.
+Kiborgs ir cilvēks, kas papildināts ar tehnoloģiskiem elementiem, vai nu kā uzlabojuma līdzeklis, vai kā aizstājējs negadījumā zaudētām ķermeņa daļām. Puse miesas un puse mašīnas, kiborgs ir pieņēmis šo jauno stāvokli, neskatoties uz atsvešinātību, ko tas rada. Viņi var būt pilnīgi cilvēciska izskata vai būt acīmredzams miesas un metāla apvienojums.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 33 | 24 | 14 | 14 | 11 | 22 | 14 |
 
@@ -1172,62 +1186,62 @@ Kiborgs ir cilvēks, kas papildināts ar tehnoloģiskiem elementiem, vai nu kā 
 
 **Uzbrukumi:**
 
-* Kautiņš 90%, 1D3+10+dm (saspiešana)
+* Kautiņš 90%, 1D3+10+dm (drupināšana)
 
-**Prasmes:** Kāpt 40%, Izvairīties 65%, Vadīt (Auto) 55%, Paslēpties 40%, Lēkt 75%, Valoda (Paša) 85%, Klausīties 75%, Pilots (Eksperimentālās reaktīvās lidmašīnas) 75%, Remontēt (Elektroniskais) 55%, Zinātne (Kibernētika) 40%, Pamanīt 85%, Slēpties 40%, Mest 65%.
+**Prasmes:** Kāpšana 40%, Izvairīšanās 65%, Braukšana (Auto) 55%, Slēpšanās 40%, Lēkšana 75%, Valoda (Paša) 85%, Klausīšanās 75%, Pilots (Eksperimentālās reaktīvās lidmašīnas) 75%, Remonts (Elektroniskais) 55%, Zinātne (Kibernētika) 40%, Pamanīšana 85%, Maskēšanās 40%, Mešana 65%.
 
-**Spējas:** Kiborga papildinājumi vislabāk atspoguļoti ar superspējām, piemēram:
+**Spējas:** Kiborga uzlabojumu vislabāk pārstāv superspējas, piemēram, šādas:
 
-* **Aizsardzības sistēmas:** Bruņas 5 (pret elektrisko enerģiju) Iekšējā baterija: Papildu enerģija 5 (+50 spēka punkti)
-* **Fiziskie uzlabojumi:** Lēkt 5 (+10 metri), Super raksturlielumi 40 (+20 STR, +10 CON, +10 DEX), Super ātrums 2 (1 papildu kustība, 1 papildu darbība)
-* **Maņu uzlabojumi:** Super Sajušana (Super Dzirdes spēja 10, Super Redzes spēja 10, Infrasarkanā redze 5, Ultraskaņas dzirdes spēja 5)
-* **Taktiskās modifikācijas:** Aizsardzība 20 (–10% tikt trāpītam), Super prasme 8 (Lēkt +40%, Klausīties +40%, Pamanīt +60%, Mest +25%), Kautiņš 5 (+10 bojājums, –25% viena mērķa trāpīšanas iespējai, +25% Kautiņa prasmei)
+* **Aizsardzības sistēmas:** Bruņas 5 (pret elektrisko enerģiju), Iekšējā baterija: Papildu enerģija 5 (+50 spēka punkti)
+* **Fiziskie uzlabojumi:** Lēciens 5 (+10 metri), Superraksturlielumi 40 (+20 SPĒ, +10 IZT, +10 VEI), Superātrums 2 (1 papildu kustība, 1 papildu darbība)
+* **Sensoru uzlabojumi:** Supersajūtas (Superskaņa 10, Superredze 10, Infrasarkanā redze 5, Ultraskaņas dzirde 5)
+* **Taktiskās modifikācijas:** Aizsardzība 20 (–10% tikt trāpītam), Superprasme 8 (Lēkšana +40%, Klausīšanās +40%, Pamanīšana +60%, Mešana +25%), Necīņas cīņa 5 (+10 bojājums, –25% viena mērķa trāpījuma iespējai, +25% Kautiņa prasmei)
 
-**Vājības:** Kiborgam ir šādas vājības, lai līdzsvarotu šo apbrīnojamo spēku:
+**Vājības:** Kiborgam ir šādas vājības, lai līdzsvarotu šo vareno spēku:
 
 * Kiborga identitāte padara normālu dzīvi neiespējamu.
 * Būtiska iesaistīšanās valdības aģentūrā, kas atbildīga par kiborgu modifikācijām.
-* Kiborga komponenti saņem papildu 1D6 bojājumus no magnētiskiem uzbrukumiem.
+* Kiborgu komponenti saņem papildu 1D6 bojājumus no magnētiskiem uzbrukumiem.
 
-### Dieva dēls (Demigod)
+### Pusdievs
 
-Dieva un mirstīgā pēcnācējs, dieva dēls piedzīvojumos dodas pa visu pasauli, cīnoties ar pārdabiskiem draudiem un palīdzot normāliem cilvēkiem cīņās pret dievu tirāniju. Iestrēdzis starp divām pasaulēm, dievišķo un mirstīgo, dieva dēlam ir varens liktenis, taču tas vēl nav izlēmis, vai šis liktenis ir palīdzēt cilvēcei gāzt dievus, vai vadīt mirstīgos uz lielāku pielūgsmi un padevību debesīm. Dieva dēls bieži piesaista savam mērķim mazākus varoņus un ir nepatikšanu centrs. Nemirstīgs, dieva dēlu var sastapt jebkurā vēstures brīdī.
+Dieva un mirstīgā pēcnācējs, pusdievs piedzīvojumos dodas pa pasauli, cīnoties ar pārdabiskiem draudiem un palīdzot parastiem cilvēkiem cīņās pret dievu tirāniju. Iespiests starp divām pasaulēm, dievišķo un mirstīgo, pusdievam ir varens liktenis, bet vēl nav izlēmis, vai tas ir palīdzēt cilvēcei gāzt dievus, vai vadīt mirstīgos uz lielāku pielūgsmi un uzticību debesīm. Pusdievs bieži piesaista mazākus varoņus savai lietai un ir nepatikšanu fokuss. Nemirstīgs, pusdievs var tikt sastapts jebkurā vēstures punktā.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 35 | 34 | 15 | 13 | 18 | 15 | 17 |
 
 | Kustība 10 | Dzīvības punkti 25 |
 | :---- | :---- |
-| **Bojājuma modifikators** +2D6 | **Bruņas** 20 punktu Bruņas (Kinētiskās) |
+| **Bojājuma modifikators** +2D6 | **Bruņas** 20 pkt. bruņas (kinētiskās) |
 
 **Uzbrukumi:**
 
-* Kautiņš 110%, 1D3+dm (saspiešana)
-* Cīkšanās 110%, īpašs
-* Īsais zobens 100%, 1D6+1+dm (asiņošana)
-* Apaļais vairogs 80%, 1D3+dm (atgrūšana)
+* Kautiņš 110%, 1D3+dm (drupināšana)
+* Satvēriens 110%, īpašs
+* Īss zobens 100%, 1D6+1+dm (asiņošana)
+* Apaļais vairogs 80%, 1D3+dm (atsitiena spēks)
 
-**Prasmes:** Kautiņš 110%, Kāpt 80%, Komandēt 45%, Izvairīties 65%, Vadīt (Rati) 65%, Etiķete 25%, Cīkšanās 110%, Ieskats 55%, Lēkt 75%, Zināšanas (Mitoloģija) 85%, Valoda (Sena paša) 100%, Valoda (Vietējā) 90%, Klausīties 65%, Navigācija 60%, Uzstāties (Arfa) 50%, Pārliecināt 45%, Jāt (Zirgs) 45%, Sajušana 70%, Pamanīt 60%, Statuss 45%, Slēpties 50%, Stratēģija 60%, Peldēt 75%, Mest 85%
+**Prasmes:** Kautiņš 110%, Kāpšana 80%, Pavēle 45%, Izvairīšanās 65%, Braukšana (Rati) 65%, Etiķete 25%, Satvēriens 110%, Ieskats 55%, Lēkšana 75%, Zināšanas (Mitoloģija) 85%, Valoda (Senā paša) 100%, Valoda (Vietējā) 90%, Klausīšanās 65%, Navigācija 60%, Uzstāšanās (Arfa) 50%, Pārliecināšana 45%, Jāšana (Zirgs) 45%, Sajūtas 70%, Pamanīšana 60%, Statuss 45%, Maskēšanās 50%, Stratēģija 60%, Peldēšana 75%, Mešana 85%
 
-**Spējas:** Dieva dēlam ir dažādas spējas no dievišķās izcelsmes, piemēram, šādas superspējas:
+**Spējas:** Pusdievam ir dažādas spējas no dievišķās izcelsmes, piemēram, šādas superspējas:
 
-* Adaptācija (Radiācija, Zemūdens, Vakuums) 5 katra; Bruņas (Kinētiskās) 20; Papildu enerģija 20 (+200 spēka punkti); Papildu dzīvības punkti 30 (+30 HP); Lēkt 10 (+20 metri Lēkšanas attālumam); Reģenerācija 3 (dziedē 3 HP katrā kaujas raundā); Sabiedrotais (skatīt zemāk); Super raksturlielumi 50 (STR +20, CON +20, POW +5, CHA +5); Super prasmes 20 (Kautiņš +40%, Cīkšanās +40%, Zināšanas [Mitoloģija] +40%, Sajušana +40%, Vairogs +80%, Stratēģija +40%, Zobens +80%, Mest +40%), Kautiņš 5 (+10 kaujas bojājums, –25% viena uzbrucēja prasmei, Kautiņa/Cīkšanās prasme +25%).
+* Adaptācija (Radiācija, Zemūdens, Vakuums) 5 katra; Bruņas (Kinētiskās) 20; Papildu enerģija 20 (+200 spēka punkti); Papildu dzīvības punkti 30 (+30 DP); Lēciens 10 (+20 metri lēkšanas distancei); Reģenerācija 3 (dziedē 3 DP katrā kaujas raundā); Sabiedrotais (skat. zemāk); Superraksturlielumi 50 (SPĒ +20, IZT +20, VAR +5, HAR +5); Superprasmes 20 (Kautiņš +40%, Satvēriens +40%, Zināšanas [Mitoloģija] +40%, Sajūtas +40%, Vairogs +80%, Stratēģija +40%, Zobens +80%, Mešana +40%), Necīņas cīņa 5 (+10 kautiņa bojājums, –25% viena uzbrucēja prasmei, Kautiņa/Satvēriena prasme +25%).
 
-**Vājības:** Dieva dēla rakstura vājības ir:
+**Vājības:** Pusdievu rakstura kļūdas ir:
 
 * Nespēja dzīvot normālu dzīvi.
 * Dievu ienaidnieku medīts.
-* Pašu dievu medīts.
-* Vienmēr izsaukts palīgā mirstīgajiem.
+* Rivalizējošu dievu medīts.
+* Mirstīgie vienmēr sauc palīgā.
 
-Dieva dēlam bieži ir mirstīgs sabiedrotais (izmantojot Sabiedrotā superspēju vai normālu nespēlētāja tēlu), kāds, kurš ir kultūras ziņā pazīstams ar pasauli un atgādina par mirstīgās eksistences pazemību. Atkarībā no vides dieva dēls varētu izmantot maģiskas burvestības vai burvestības. Viņi var pat nebūt dievišķa būtne un varētu būt tikai mutants.
+Pusdievam bieži ir mirstīgs sabiedrotais (izmantojot Sabiedrotā superspēju vai normālu nespēlētāju tēlu), kāds, kas kultūras ziņā pārzina pasauli un atgādina tiem par mirstīgās esamības pazemību. Atkarībā no iestatījuma, pusdievs varētu izmantot maģiskas burvestības vai burvestības. Viņi var pat nebūt dievišķa būtne un var būt tikai mutants.
 
 ### Detektīvs
 
-Neatkarīgi no tā, vai tas ir policijas detektīvs, tiesu eksperts, privātdetektīvs vai kriminologs, detektīvs ir apmācīts izmeklēšanā, novērošanā, uzraudzībā, aizdomās turamo un liecinieku pratināšanā, fizisko pierādījumu izmeklēšanā un dedukcijā. Daži detektīvi dzīvo piedzīvojumiem bagātu dzīvi, pilnu ar pakaļdzīšanos, skaistām sievietēm un saskarsmēm gan ar likumu, gan noziedzniekiem. Citi strādā augsto tehnoloģiju laboratorijās, putekļainās bibliotēkās un dzīvojamās istabās, vai pat datora priekšā, pārmeklējot publiskos un privātos ierakstus.
+Neatkarīgi no tā, vai tas ir policijas detektīvs, tiesu eksperts, privātdetektīvs vai kriminologs, detektīvs ir apmācīts izmeklēšanā, novērošanā, uzraudzībā, aizdomās turamo un liecinieku nopratināšanā, fizisko pierādījumu pārbaudē un dedukcijā. Daži detektīvi dzīvo piedzīvojumiem bagātu dzīvi, kas pilna ar automobiļu pakaļdzīšanos, skaistām sievietēm un saskarsmi gan ar likumu, gan noziedzniekiem. Citi strādā augsto tehnoloģiju laboratorijās, putekļainās bibliotēkās un viesistabās, vai pat datora termināļa priekšā, meklējot publiskos un privātos ierakstus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 13 | 12 | 14 | 17 | 14 | 14 | 15 |
 
@@ -1237,19 +1251,19 @@ Neatkarīgi no tā, vai tas ir policijas detektīvs, tiesu eksperts, privātdete
 
 **Uzbrukumi:**
 
-* Vidēja pistole 75%, 1D8 (caurduršana)
-* Dūre 65%, 1D3+dm (saspiešana)
-* Cīkšanās 50%, īpašs
+* Vidējā pistole 75%, 1D8 (duršana)
+* Dūre 65%, 1D3+dm (drupināšana)
+* Satvēriens 50%, īpašs
 
-**Prasmes:** Novērtēt 35%, Kaulēties 35%, Kāpt 55%, Maskēšanās 35%, Izvairīties 40%, Vadīt (Sedans) 55%, Etiķete 25%, Ātri runāt 65%, Paslēpties 40%, Ieskats 55%, Zināšanas (Likums) 65%, Zināšanas (Reģions: Vietējais) 55%, Zināšanas (Ielu zinības) 50%, Valoda (Vietējā) 75%, Klausīties 45%, Pārliecināt 45%, Pētniecība 75%, Sajušana 50%, Slepenā manipulācija 25%, Pamanīt 65%, Slēpties 50%, Sekot 35%
+**Prasmes:** Novērtēšana 35%, Kaulēšanās 35%, Kāpšana 55%, Maskēšanās 35%, Izvairīšanās 40%, Braukšana (Sedans) 55%, Etiķete 25%, Ātra runāšana 65%, Slēpšanās 40%, Ieskats 55%, Zināšanas (Likums) 65%, Zināšanas (Reģions: Vietējais) 55%, Zināšanas (Ielu gudrība) 50%, Valoda (Vietējā) 75%, Klausīšanās 45%, Pārliecināšana 45%, Pētniecība 75%, Sajūtas 50%, Veiklība 25%, Pamanīšana 65%, Maskēšanās 50%, Pēdu dzīšana 35%
 
-**Spējas:** Detektīviem reti piemīt spējas, lai gan daži burvji vai burvestību izmantotāji kļūst par detektīviem.
+**Spējas:** Detektīviem reti ir spējas, lai gan daži burvji vai burvji kļūst par detektīviem.
 
-### Galaktiskais bruņinieks
+### Galaktikas bruņinieks
 
-Šis kosmosā ceļojošais paladīns ievēro mistisku tradīciju, kas nodrošina lielas un noslēpumainas spējas. Kā miera un taisnīguma aizstāvis visā galaktikā, galaktiskais bruņinieks ir devis zvērestu ievērot goda kodeksu un kalpo gandrīz kā starpgalaktiskais reindžers. Lielākā daļa galaktikas nesaprot dīvaino spēku, kuram galaktiskais bruņinieks kalpo, lai gan viņi tiek cienīti vai bīti visur, kur tie ierodas. Galaktiskais bruņinieks izvairās no tradicionālā bruņojuma un tā vietā izmanto senlaicīgu, bet izsmalcinātu rokas ieroci ar nāvējošu efektivitāti.
+Šis kosmosā ceļojošais paladīns ievēro mistisku tradīciju, kas sniedz lielas un noslēpumainas spējas. Kā miera un taisnīguma aizstāvis visā galaktikā, galaktikas bruņinieks ir devis zvērestu ievērot goda kodeksu un kalpo gandrīz kā starpgalaktiskais reindžers. Lielākā daļa galaktikas nesaprot dīvaino spēku, kuram kalpo galaktikas bruņinieks, lai gan tos ciena vai bīstas, lai kur tie dotos. Galaktikas bruņinieks izvairās no tradicionālajiem ieročiem un tā vietā izmanto novecojušu, bet sarežģītu rokas ieroci ar nāvējošu efektivitāti.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 15 | 14 | 15 | 21 | 17 | 15 |
 
@@ -1260,68 +1274,68 @@ Neatkarīgi no tā, vai tas ir policijas detektīvs, tiesu eksperts, privātdete
 **Uzbrukumi:**
 
 * Enerģijas zobens 150%, 2D10+dm (asiņošana)
-* Kautiņš 80%, 1D3+dm (saspiešana)
+* Kautiņš 80%, 1D3+dm (drupināšana)
 
-**Prasmes:** Kāpt 75%, Komandēt 50%, Izvairīties 75%, Paslēpties 45%, Ieskats 75%, Lēkt 65%, Zināšanas (Reģions: Galaktika) 35%, Valoda (Citplanētietis) 70%, Valoda (Paša) 105%, Klausīties 65%, Cīņas mākslas 80%, Navigācija 50%, Pārliecināt 35%, Pilots (Zvaigžņu cīnītājs) 65%, Remontēt (Mehāniskais) 55%, Sajušana 70%, Pamanīt 65%, Slēpties 70%, Stratēģija 50%, Mest 60%.
+**Prasmes:** Kāpšana 75%, Pavēle 50%, Izvairīšanās 75%, Slēpšanās 45%, Ieskats 75%, Lēkšana 65%, Zināšanas (Reģions: Galaktika) 35%, Valoda (Citplanētietis) 70%, Valoda (Paša) 105%, Klausīšanās 65%, Cīņas mākslas 80%, Navigācija 50%, Pārliecināšana 35%, Pilots (Zvaigžņu iznīcinātājs) 65%, Remonts (Mehāniskais) 55%, Sajūtas 70%, Pamanīšana 65%, Maskēšanās 70%, Stratēģija 50%, Mešana 60%.
 
-**Spējas:** Galaktiskais bruņinieks ir prasmīgs mistiskā tradīcijā, kas nodrošina vairākas psihiskas spējas, tostarp Briesmu sajušana 60%, Empātija 55%, Prāta kontrole 35%, Pareģošana 40%, Telekinēze 45% un Telepātija 50%.
+**Spējas:** Galaktikas bruņinieks ir prasmīgs mistiskā tradīcijā, kas sniedz vairākas psihiskas spējas, tostarp Briesmu sajūtu 60%, Empātiju 55%, Prāta kontroli 35%, Priekšnojautu 40%, Telekinēzi 45% un Telepātiju 50%.
 
-### Pistoliem (Gunslinger)
+### Gunslinger (Ieročnesis)
 
-Pistoliem savu iztiku pelna, nogalinot cilvēkus, specializējoties ātrā un nāvējošā kaujā ar rokas ieroci. Vairumā gadījumu pistoliem dzīvi sāka kā kaut kas cits, bet tika novests līdz vardarbībai traģēdijas vai slepkavošanas garšas dēļ. Pistoliema reputācija ir līdz šim visspēcīgākais ierocis – daudzi noliek ieročus, nevis stājas pretī drošai nāvei. Tas dod pistoliem pastāvīgu darbu, palīdzot tiem, kam vajadzīga palīdzība, gan likuma, gan noziedzības pusē. Dažreiz reputācija ir abpusgriezīgs zobens, piesaistot tos, kas vēlētos padarīt sevi slavenus.
+Ieročnesis pelna iztiku, nogalinot cilvēkus, specializējoties ātrā un nāvējošā cīņā ar rokas ieroci. Vairumā gadījumu ieročnesis dzīvi sāka kā kaut kas cits, bet traģēdijas vai nogalināšanas kāres dēļ tika nodzīts līdz vardarbīgai dzīvei. Ieročneša reputācija ir neapšaubāmi viņu visspēcīgākais ierocis — daudzi noliek ieročus, nevis stājas pretī drošai nāvei. Tas dod ieročnesim stabilu darbu, palīdzot tiem, kam vajadzīga palīdzība, gan likuma, gan noziedzības pusē. Reizēm reputācija ir abpusgriezīgs zobens, piesaistot tos, kas vēlas kļūt slaveni.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 14 | 14 | 15 | 18 | 13 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 1 punkta smags apģērbs |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 1 pkt. smags apģērbs |
 
 **Uzbrukumi:**
 
-* Vidēja revolveris 95%, 1D8 (caurduršana)
-* Sporta šautene 85%, 2D6 (caurduršana)
-* Divstobra bise 75%, 4D6/2D6/1D6 (caurduršana)
-* Nazītis 75%, 1D4+2+dm (caurduršana)
-* Dūre 75%, 1D3+dm (saspiešana)
+* Vidējais revolveris 95%, 1D8 (duršana)
+* Sporta šautene 85%, 2D6 (duršana)
+* Divstobru bise 75%, 4D6/2D6/1D6 (duršana)
+* Nazis 75%, 1D4+2+dm (duršana)
+* Dūre 75%, 1D3+dm (drupināšana)
 
-**Prasmes:** Kautiņš 75%, Kāpt 60%, Demolēšana 30%, Izvairīties 60%, Pirmā palīdzība 40%, Spēles 65%, Cīkšanās 50%, Ieskats 65%, Zināšanas (Reģions: Vietējais) 65%, Valoda (Paša) 70%, Klausīties 65%, Jāt (Zirgs) 75%, Sajušana 50%, Slepenā manipulācija 35%, Pamanīt 75%, Slēpties 50%, Mest 55%, Sekot 40%.
+**Prasmes:** Kautiņš 75%, Kāpšana 60%, Demolēšana 30%, Izvairīšanās 60%, Pirmā palīdzība 40%, Spēles 65%, Satvēriens 50%, Ieskats 65%, Zināšanas (Reģions: Vietējais) 65%, Valoda (Paša) 70%, Klausīšanās 65%, Jāšana (Zirgs) 75%, Sajūtas 50%, Veiklība 35%, Pamanīšana 75%, Maskēšanās 50%, Mešana 55%, Pēdu dzīšana 40%.
 
-**Spējas:** Pistoliemiem reti piemīt spējas.
+**Spējas:** Ieročnešiem reti ir spējas.
 
 ### Bruņinieks
 
-Jāts un bruņots karotājs, prasmīgs zobencīņā, turnīros un bruņniecības etiķetē. Cēlies no muižniecības kārtas, bruņinieks ir zvērējis uzticību savam valdniekam un saņem stipendiju no zemēm, kas atrodas viņa valdījumā, lai apmaksātu savus ieročus, bruņas, zirgus un dzīvesveidu. Bruņinieki regulāri praktizē savas prasmes, sacenšas turnīros un dodas karā ikreiz, kad valdnieks pavēl. Ideālā gadījumā bruņinieks ir bruņniecisks un dievbijīgs, ievērojot goda un pieklājības kodeksu, lai gan tas mainās no bruņinieka uz bruņinieku.
+Jājošs un bruņots karotājs, prasmīgs zobencīņā, bruņinieku turnīros un bruņniecības etiķetē. Cēlies no augstmaņu šķiras, bruņinieks ir zvērējis uzticību savam kungam un saņem uzturlīdzekļus no zemēm to valdījumā, lai apmaksātu savus ieročus, bruņas, zirgus un dzīvesveidu. Bruņinieki regulāri praktizē savas prasmes, sacenšas turnīros un dodas karā ikreiz, kad kungs pavēl. Ideālā gadījumā bruņinieks ir bruņniecisks un dievbijīgs, ievērojot goda un pieklājības kodeksu, lai gan tas atšķiras no bruņinieka uz bruņinieku.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 15 | 15 | 11 | 12 | 15 | 14 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 10 punktu plāksnes un smaga ķivere |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 10 pkt. plāksnes un smaga ķivere |
 
 **Uzbrukumi:**
 
-* Garš zobens 75%, 1D8+dm (asiņošana)
-* Kite vairogs 65%, 1D4+dm (atgrūšana)
-* Šķēps 75%, 1D8+1+ zirga dm (parasti +2D6, caurduršana, skatīt zemāk)
-* Vieglā vālīte 65%, 1D6+2+dm (saspiešana)
-* Garš loks 60%, 1D8+1+½dm (caurduršana)
-* Duncis 50%, 1D4+2+dm (caurduršana)
-* Bruņota dūre 50%, 1D3+1+dm (saspiešana)
-* Turnīra šķēpi nodara saspiešanas bojājumu.
+* Garais zobens 75%, 1D8+dm (asiņošana)
+* Lielais vairogs 65%, 1D4+dm (atsitiena spēks)
+* Šķēps (turnīru) 75%, 1D8+1+ zirga dm (parasti +2D6, duršana, skat. zemāk)
+* Vieglā vāle 65%, 1D6+2+dm (drupināšana)
+* Garais loks 60%, 1D8+1+½dm (duršana)
+* Duncis 50%, 1D4+2+dm (duršana)
+* Bruņota dūrainis 50%, 1D3+1+dm (drupināšana)
+* Turnīru šķēpi nodara drupināšanas bojājumus.
 
-**Prasmes:** Komandēt 45%, Izvairīties 50%, Etiķete 65%, Zināšanas (Heraldika) 50%, Valoda (Cita) 35%, Valoda (Paša) 60%, Klausīties 45%, Jāt (Zirgs) 75%, Sajušana 20%, Pamanīt 45%, Statuss 60%, Stratēģija 30%.
+**Prasmes:** Pavēle 45%, Izvairīšanās 50%, Etiķete 65%, Zināšanas (Heraldika) 50%, Valoda (Cita) 35%, Valoda (Paša) 60%, Klausīšanās 45%, Jāšana (Zirgs) 75%, Sajūtas 20%, Pamanīšana 45%, Statuss 60%, Stratēģija 30%.
 
-**Spējas:** Bruņiniekiem parasti nav spēju, lai gan dažiem retiem bruņiniekiem ir zināma maģija. Tomēr bruņiniekam var būt pieeja maģiskam artefaktam, vai tas būtu svētīts ierocis, svēta relikvija vai bruņas ar kādu tikumu. Elfi tiek uzskatīti par tādiem, kam ir savi bruņniecības ordeņi, un šādi bruņinieki dabiski brīvi izmantotu maģiju. Ļauni bruņinieki, kas ir zvērējuši uzticību tumšiem spēkiem, var izmantot burvestības.
+**Spējas:** Bruņiniekiem parasti nav spēju, lai gan daži reti zina maģiju. Tomēr bruņiniekam var būt pieeja maģiskam artefaktam, vai tas būtu svētīts ierocis, svēta relikvija vai bruņas ar kādu uzliktu tikumu. Baumo, ka elfiem ir savi bruņniecības ordeņi, un šie bruņinieki dabiski izmantotu maģiju brīvi. Ļauni bruņinieki, kas zvērējuši uzticību tumšiem spēkiem, var izmantot burvestības.
 
 ### Maniaks
 
-Šķietami normāls cilvēks, kurš ir kļuvis vardarbīgi, slepkavnieciski prātā sajucis, maniaks ir tēls, no kā jābaidās. Maniaks vai nu vajā jaunus upurus izolētās vietās, piemēram, vasaras nometnē vai kādā kempingā, vai arī dodas ceļā kā sērijveida slepkava, meklējot upurus nogalināšanai neizprotamu iemeslu dēļ. Pēc izskata maniakam ir divas garšas: pilnīgi parasts vai atšķirīgs tērps vai maska.
+Šķietami normāls cilvēks, kurš kļuvis vardarbīgi, slepkavnieciski neprātīgs, maniaks ir persona, no kuras jābaidās. Maniaks vai nu vajā jaunus upurus izolētās vietās, piemēram, vasaras nometnē vai kādā kempingā, vai arī dodas uz ceļa kā sērijveida slepkava, meklējot upurus, kurus nogalināt neizprotamu iemeslu dēļ. Izskatā maniaks ir divos veidos: pilnīgi parasts, vai atšķirīgā tērpā vai maskā.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 14 | 14 | 15 | 17 | 12 |
 
@@ -1331,69 +1345,69 @@ Jāts un bruņots karotājs, prasmīgs zobencīņā, turnīros un bruņniecības
 
 **Uzbrukumi:**
 
-* Miesnieka nazis 75%, 1D6+dm (caurduršana)
-* Koka cirvis 75%, 1D8+2+dm (asiņošana)
+* Miesnieka nazis 75%, 1D6+dm (duršana)
+* Malka cirvis 75%, 1D8+2+dm (asiņošana)
 * Motorzāģis 65%, 2D8 (asiņošana)
-* Dakšas 55%, 1D6+dm (caurduršana)
+* Dakša 55%, 1D6+dm (duršana)
 * Mačete 65%, 1D6+dm (asiņošana)
-* Cīkšanās 75%, īpašs
+* Satvēriens 75%, īpašs
 
-**Prasmes:** Kautiņš 75%, Izvairīties 50%, Vadīt (Furgons) 65%, Paslēpties 60%, Valoda (Paša) 60%, Klausīties 45%, Sajušana 40%, Pamanīt 65%, Slēpties 80%, Mest 50%, Sekot 40%
+**Prasmes:** Kautiņš 75%, Izvairīšanās 50%, Braukšana (Furgons) 65%, Slēpšanās 60%, Valoda (Paša) 60%, Klausīšanās 45%, Sajūtas 40%, Pamanīšana 65%, Maskēšanās 80%, Mešana 50%, Pēdu dzīšana 40%
 
-**Spējas:** Vairumam maniaku nav nekādu spēju, lai gan dažiem piemīt izcila izturība un noturība. Tos parasti izraisa kāda veida mutācija, un piemērotas mutācijas ietver Izturīgs, Palielināts raksturlielums, Reģenerācija vai pat Dabiskais ierocis (zobi).
+**Spējas:** Lielākajai daļai maniaku nav nekādu spēju, lai gan dažiem piemīt izcila stingrība un izturība. Tās parasti izraisa kāda veida mutācija, un piemērotas mutācijas ietver Izturību, Paaugstinātu raksturlielumu, Reģenerāciju vai pat Dabisku ieroci (zobi).
 
 ### Mutants
 
-Šī nelaimīgā dvēsele tika mutēta radioaktīva vai bioloģiska aģenta iedarbībā, vai arī radās ar grūtu ģenētisko kauliņu rullējumu. Baidīts un nespējīgs dzīvot normālu dzīvi, mutants slēpjas ārpus sabiedrības. Post-apokaliptiskā vidē mutants, visticamāk, ir radiācijas upuris un ir viens no daudzām tādām radībām, apdraudot atlikušos "tīros" cilvēkus.
+Šī nelaimīgā dvēsele tika mutēta, pakļaujoties kādam radioaktīvam vai bioloģiskam aģentam, vai arī radās nejaušas ģenētisko kauliņu mešanas rezultātā. Baidīts un nespējīgs dzīvot normālu dzīvi, mutants slēpjas sabiedrības ārpusē. Post-apokaliptiskā iestatījumā mutants, visticamāk, ir radiācijas upuris un ir viena no daudzām tādām radībām, apdraudot atlikušos "tīros" cilvēkus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 19 | 9 | 13 | 14 | 12 | 15 | 10 |
 
 | Kustība 10 | Dzīvības punkti 11 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 7 punktu kaulu izaugumi uz ādas |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 7 pkt. kaulaini izaugumi uz ādas |
 
 **Uzbrukumi:**
 
-* Kautiņš 55%, 1D3+1D6+dm (saspiešana)
+* Kautiņš 55%, 1D3+1D6+dm (drupināšana)
 
-**Prasmes:** Maskēšanās 25%, Izvairīties 40%, Vadīt (Smilšu bagijs) 40%, Ātri runāt 25%, Pirmā palīdzība 40%, Paslēpties 40%, Valoda (Paša) 55%, Klausīties 35%, Sajušana 25%, Pamanīt 30%, Slēpties 25%, Sekot 25%.
+**Prasmes:** Maskēšanās 25%, Izvairīšanās 40%, Braukšana (Kāpu bagijs) 40%, Ātra runāšana 25%, Pirmā palīdzība 40%, Slēpšanās 40%, Valoda (Paša) 55%, Klausīšanās 35%, Sajūtas 25%, Pamanīšana 30%, Maskēšanās 25%, Pēdu dzīšana 25%.
 
-**Spējas:** Šis mutants ir attīstījis šādas mutācijas: Iedzimta slimība (hemofilija, CON –5), Palielināts raksturlielums (STR +6), Dabiskais bruņojums (kaulu izaugumi uz rokām, +1D6 bojājums), Jutīgums (asinis), Strukturālais uzlabojums (kaulu izaugumi uz ādas, +7 punktu dabiskās bruņas).
+**Spējas:** Šis mutants ir attīstījis šādas mutācijas: Iedzimta slimība (hemofilija, IZT –5), Paaugstināts raksturlielums (SPĒ +6), Dabiskie ieroči (kaulaini izaugumi uz rokām, +1D6 bojājumi), Jutīgums (asinis), Strukturāls uzlabojums (kaulaini izaugumi uz ādas, +7 pkt. dabiskās bruņas).
 
 ### Nindzja
 
-Nindzja ir baiss ēnains slepkava no senatnes un pat mūsdienu pasaules, apmācīts slepenās cīņas mākslās un stealt, infiltrācijas un slepkavības tehnikās. Nindzas bieži dzimst klanos, lai gan daži reti meklē šo dzīvi un tiek pieņemti senajos ordeņos. Tie ir algoti slepkavas, strādājot vienatnē vai grupās.
+Nindzja ir baidīts ēnu slepkava no senatnes un pat mūsdienu pasaules, apmācīts slepenās cīņas mākslās un maskēšanās, iefiltrēšanās un slepkavības tehnikās. Nindzjas bieži piedzimst klanos, lai gan daži reti meklē šo dzīvi un tiek pieņemti senajos ordeņos. Tie ir algoti slepkavas, strādājot vieni vai grupās.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 10 | 14 | 15 | 17 | 12 |
 
 | Kustība 10 | Dzīvības punkti 12 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav, vai 2 punktu viegls ķēžu krekls |
+| **Bojājuma modifikators** Nav | **Bruņas** Nav, vai 2 pkt. vieglas ķēdes bruņas |
 
 **Uzbrukumi:**
 
 * Katana 65%, 1D10+1+dm (asiņošana)
-* Duncis 65%, 1D4+2+dm (caurduršana)
-* Kompozītloks 50%, 1D8+1+½dm (caurduršana)
-* Pūšamcaurule 50%, 1D3 (caurduršana) + inde (skatīt zemāk)
-* Dūre 55%, 1D3+dm (saspiešana)
-* Spertiens 55%, 1D3+dm (saspiešana)
+* Duncis 65%, 1D4+2+dm (duršana)
+* Saliktais loks 50%, 1D8+1+½dm (duršana)
+* Pūšamais stobrs 50%, 1D3 (duršana) + inde (skat. zemāk)
+* Dūre 55%, 1D3+dm (drupināšana)
+* Spēriens 55%, 1D3+dm (drupināšana)
 
-Nindzas pūšamcaurules parasti ir klātas ar paralītisku POT 15 indi (sk. **Indes**).
+Nindzjas pūšamās bultas parasti ir pārklātas ar paralizējošu POT 15 indi (skat. **Indes**).
 
-**Prasmes:** Kāpt 80%, Maskēšanās 55%, Izvairīties 65%, Smalka manipulācija 45%, Paslēpties 70%, Lēkt 65%, Valoda (Paša) 70%, Klausīties 65%, Cīņas mākslas 35%, Sajušana 50%, Slepenā manipulācija 55%, Pamanīt 55%, Slēpties 75%, Peldēt 55%, Mest 50%, Sekot 35%.
+**Prasmes:** Kāpšana 80%, Maskēšanās 55%, Izvairīšanās 65%, Smalka manipulācija 45%, Slēpšanās 70%, Lēkšana 65%, Valoda (Paša) 70%, Klausīšanās 65%, Cīņas mākslas 35%, Sajūtas 50%, Veiklība 55%, Pamanīšana 55%, Maskēšanās 75%, Peldēšana 55%, Mešana 50%, Pēdu dzīšana 35%.
 
-**Spējas:** Nindzām kopumā nav spēju, lai gan vidēs, kur tās ir, tām būtu vai nu burvestības vai superspējas, kas līdzinās ārkārtējām cīņas mākslām.
+**Spējas:** Nindzjām parasti nav spēju, lai gan iestatījumos, kur tās ir, tām būtu vai nu burvestības, vai superspējas, kas līdzinās ārkārtas cīņas mākslām.
 
 ### Pirāts
 
-Krāsains atklātās jūras plēsējs, pirāts ir okeāna bandīts, sākot no pilsētnieciskiem blēžiem līdz nicināmiem mežoņiem. Šis pirāts ir vidusmēra pirātu kuģa apkalpes locekļa paraugs un ir prasmīgs jūrniecībā un tuvcīņā.
+Krāsains atklātās jūras plēsējs, pirāts ir okeānā ceļojošs bandīts, sākot no urbāniem blēžiem līdz nicināmiem mežoņiem. Šis pirāts ir vidusmēra pirātu kuģa apkalpes locekļa paraugs un ir prasmīgs jūrniecībā un cīņā ar kailām rokām.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 13 | 11 | 10 | 14 | 13 |
 
@@ -1403,69 +1417,69 @@ Krāsains atklātās jūras plēsējs, pirāts ir okeāna bandīts, sākot no pi
 
 **Uzbrukumi:**
 
-* Kutelass (Saber) 55%, 1D8+1+dm (asiņošana)
-* Nazītis 45%, 1D4+2+dm (caurduršana)
-* Krama pistole 50%, 1D6+1 (caurduršana)
-* Musket 40%, 1D10+4 (caurduršana)
-* Dūre 50%, 1D3+dm (saspiešana)
+* Katlass (Zobens) 55%, 1D8+1+dm (asiņošana)
+* Nazis 45%, 1D4+2+dm (duršana)
+* Krama pistole 50%, 1D6+1 (duršana)
+* Muskete 40%, 1D10+4 (duršana)
+* Dūre 50%, 1D3+dm (drupināšana)
 
-**Prasmes:** Artilērija 30%, Kautiņš 50%, Kāpt 80%, Amatniecība (Galdniecība) 55%, Izvairīties 40%, Smalka manipulācija 45%, Spēles 35%, Cīkšanās 50%, Lēkt 45%, Zināšanas (Reģions: Vietējais) 40%, Valoda (Vietējā) 40%, Valoda (Paša) 55%, Klausīties 45%, Navigācija 50%, Uzstāties (Jūras dziesma) 45%, Pilots (Kuģis) 35%, Sajušana 30%, Slepenā manipulācija 35%, Pamanīt 50%, Peldēt 45%, Mest 50%.
+**Prasmes:** Artilērija 30%, Kautiņš 50%, Kāpšana 80%, Amatniecība (Galdniecība) 55%, Izvairīšanās 40%, Smalka manipulācija 45%, Spēles 35%, Satvēriens 50%, Lēkšana 45%, Zināšanas (Reģions: Vietējais) 40%, Valoda (Vietējā) 40%, Valoda (Paša) 55%, Klausīšanās 45%, Navigācija 50%, Uzstāšanās (Dziedāšana) 45%, Pilots (Kuģis) 35%, Sajūtas 30%, Veiklība 35%, Pamanīšana 50%, Peldēšana 45%, Mešana 50%.
 
-**Spējas:** Vairumā vidēs pirātiem nav nekādu spēju. Tomēr daži pirātu vadoņi slēdz paktus ar tumsu un tiek mācīti burvestībās, ja viņu POW ir pietiekami augsts, lai kvalificētos. Atbilstošas burvestības ir Putna vīzija (1), Dzīvības elpa (1), Kaitēkļu vīzija (1), Elles skuveklis (2), Burvja pārliecība (2) un Debesu spārni (4).
+**Spējas:** Vairumā iestatījumu pirātiem nav nekādu spēju. Daži pirātu vadoņi tomēr noslēdz paktus ar tumsu un tiek mācīti burvestībās, ja to VAR ir pietiekami augsts, lai kvalificētos. Piemērotas burvestības ir Putna redze (1), Dzīvības elpa (1), Kaitēkļu redze (1), Ellišķais skuveklis (2), Burvja pārliecība (2) un Debesu spārni (4).
 
-### Policists
+### Policijas virsnieks
 
-Šis ir policists no jebkuras mūsdienu valsts. Apmācīts dažādās tiesībaizsardzības metodēs, policists parasti patrulē vai tiek izsaukts uz incidenta vietu. Liela mēroga incidenta gadījumā pilsētvidē policija, visticamāk, būs pirmā uz vietas. Smagāk bruņoti policisti ir Īpašo uzdevumu vienības (S.W.A.T.) sastāvdaļa un parasti tiek izsaukti, lai risinātu pārmērīgi vardarbīgas situācijas.
+Šis ir policijas virsnieks no jebkuras mūsdienu valsts. Apmācīts plašā tiesībaizsardzības tehniku klāstā, policijas virsnieks parasti atrodas patruļā vai tiek izsaukts uz incidenta vietu. Liela incidenta gadījumā pilsētas teritorijā policija, visticamāk, būs pirmā notikuma vietā. Smagāk bruņoti policijas virsnieki ir Īpašo ieroču un taktikas (S.W.A.T) vienības daļa un parasti tiek izsaukti, lai tiktu galā ar pārmērīgi vardarbīgām situācijām.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 14 | 14 | 14 | 14 | 14 |
 
 | Kustība 10 | Dzīvības punkti 14 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 8 punktu ložu necaurlaidīga veste (4 punkti pret tuvcīņas ieročiem) vai 12 punktu nemieru rīki |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 8 pkt. ložu necaurlaidīga veste (4 pkt. pret tuvcīņas ieročiem) vai 12 pkt. nemieru ekipējums |
 
 **Uzbrukumi:**
 
-* Vidēja pistole 70%, 1D8 (caurduršana)
-* Bise 50%, 4D6/2D6/1D6 (caurduršana)
-* Vāle (Vieglā vālīte) 50%, 1D6+dm (saspiešana)
+* Vidējā pistole 70%, 1D8 (duršana)
+* Bise 50%, 4D6/2D6/1D6 (duršana)
+* Steks (vieglā nūja) 50%, 1D6+dm (drupināšana)
 * Piparu aerosols 65%, īpašs (POT 16, apžilbina 1D4+2 kaujas raundus)
-* Tāzers 65%, īpašs (sk. Apdullināšana vai pakļaušana)
-* Cīkšanās 65%, īpašs
+* Taser 65%, īpašs (skat. Apdullināšana vai Pakļaušana)
+* Satvēriens 65%, īpašs
 
-**Prasmes:** Kautiņš 65%, Izvairīties 40%, Vadīt (Policijas mašīna) 55%, Ieskats 35%, Zināšanas (Likums) 50%, Valoda (Spāņu) 30%, Valoda (Angļu) 80%, Klausīties 50%, Pārliecināt 50%, Jāt (Zirgs) 45%, Sajušana 30%, Pamanīt 45%, Slēpties 30%, Mest 45%.
+**Prasmes:** Kautiņš 65%, Izvairīšanās 40%, Braukšana (Policijas auto) 55%, Ieskats 35%, Zināšanas (Likums) 50%, Valoda (Spāņu) 30%, Valoda (Angļu) 80%, Klausīšanās 50%, Pārliecināšana 50%, Jāšana (Zirgs) 45%, Sajūtas 30%, Pamanīšana 45%, Maskēšanās 30%, Mešana 45%.
 
-**Spējas:** Policistiem reti, vispār kādreiz, piemīt spējas.
+**Spējas:** Policijas virsniekiem reti, ja vispār, ir spējas.
 
 ### Priesteris
 
-Priesteris ir dedzīgs sava patrona dievības pielūdzējs, atstājis klostera drošību un devies ārpus pasaulē, bruņojies ar dievbijību un bruņojies ar dievības svētībām. Priesteris dodas uz dīvainām un eksotiskām zemēm, lai nestu patiesības vēsti neticīgajiem un ar atriebību sit ikvienu, kas pretojas viņu dievišķajam mandātam.
+Priesteris ir dedzīgs sava dievības pielūdzējs, pametis klostera drošību un devies ārpasaulē, bruņojies ar dievbijību un apbruņots ar dievības svētībām. Priesteris dodas uz dīvainām un eksotiskām zemēm, lai nestu patiesības vēstījumu neticīgajiem, un ar atriebību sit ikvienu, kas iebilst pret to dievišķo mandātu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 14 | 15 | 16 | 13 | 15 |
 
 | Kustība 10 | Dzīvības punkti 14 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 8 punktu ķēdes un viegla ķivere |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 8 pkt. ķēdes un viegla ķivere |
 
 **Uzbrukumi:**
 
-* Rīta zvaigznes vālīte 50%, 1D10+1+dm (saspiešana)
-* Pilns vairogs 45%, 1D4+dm (atgrūšana)
-* Linga 40%, 1D8+½dm (saspiešana)
-* Spertiens 40%, 1D3+dm (saspiešana)
+* Rīta zvaigznes sprādziens 50%, 1D10+1+dm (drupināšana)
+* Pilns vairogs 45%, 1D4+dm (atsitiena spēks)
+* Linga 40%, 1D8+½dm (drupināšana)
+* Spēriens 40%, 1D3+dm (drupināšana)
 
-**Prasmes:** Māksla (Izgaismoti manuskripti) 35%, Komandēt 25%, Amatniecība (Grāmatu sējējs) 35%, Izvairīties 40%, Pirmā palīdzība 45%, Ieskats 35%, Zināšanas (Reliģija) 70%, Valoda (Paša) 70%, Klausīties 45%, Prasme lasīt (Kopīga) 70%, Uzstāties (Himas) 35%, Pārliecināt 45%, Jāt (Zirgs) 35%, Pamanīt 40%, Statuss 35%, Mācīt 30%
+**Prasmes:** Māksla (Izgaismoti manuskripti) 35%, Pavēle 25%, Amatniecība (Grāmatu siešana) 35%, Izvairīšanās 40%, Pirmā palīdzība 45%, Ieskats 35%, Zināšanas (Reliģija) 70%, Valoda (Paša) 70%, Klausīšanās 45%, Rakstpratība (Kopīga) 70%, Uzstāšanās (Himnas) 35%, Pārliecināšana 45%, Jāšana (Zirgs) 35%, Pamanīšana 40%, Statuss 35%, Mācīšana 30%
 
-**Spējas:** Priesterim ir psihiskas spējas, ko piešķīrusi viņu dievība: Pareģošana, Prāta aizsardzība, Pareģošana un Jutīgums, visas ar priestera POWx1%. Turklāt priesterim ir uzticība vismaz 50 savai patrona dievībai, ar visiem ieguvumiem, ko tas varētu sniegt. Skatīt Uzticība.
+**Spējas:** Priesterim ir psihiskas spējas, ko piešķīrusi to dievība: Zīlēšana, Prāta vairogs, Priekšnojauta un Jutīgums, visas priestera VARx1% līmenī. Turklāt priesterim ir vismaz 50 uzticība savai dievībai, ar visiem ieguvumiem, ko tas varētu nozīmēt. Skat. Uzticība.
 
-### Psihisks
+### Psihs
 
-Piedzimis ar īpašu dāvanu, psihiskā spējas attīstījās jaunības gados. Psihiskais apguva pašdisciplīnu un meditācijas tehnikas, lai apklusinātu balsis, kas atbalsojās viņu galvā, un tagad šīs dīvainās dāvanas ir izmantotas, lai palīdzētu citiem, izmantojot tās, lai meklētu zināšanas un slēptu patiesību.
+Dzimis ar īpašu dāvanu, psiha spējas attīstījās jaunības gados. Psihs apguva disciplīnu un meditācijas tehnikas, lai apklusinātu balsis, kas skanēja galvā, un tagad šīs dīvainās dāvanas ir nodotas mērķim palīdzēt citiem, izmantojot tās, lai meklētu zināšanas un slēptu patiesību.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 12 | 13 | 14 | 15 | 19 | 14 | 14 |
 
@@ -1475,401 +1489,489 @@ Piedzimis ar īpašu dāvanu, psihiskā spējas attīstījās jaunības gados. P
 
 **Uzbrukumi:**
 
-* Dūre 35%, 1D3+dm (saspiešana)
+* Dūre 35%, 1D3+dm (drupināšana)
 
-**Prasmes:** Māksla (Gleznošana) 35%, Kaulēties 35%, Izvairīties 40%, Vadīt (Automobilis) 30%, Ātri runāt 35%, Ieskats 50%, Zināšanas (Mākslas vēsture) 45%, Valoda (Paša) 90%, Klausīties 35%, Pētniecība 65%, Sajušana 35%, Pamanīt 40%, Statuss 35%, Slēpties 30%.
+**Prasmes:** Māksla (Gleznošana) 35%, Kaulēšanās 35%, Izvairīšanās 40%, Braukšana (Automobilis) 30%, Ātra runāšana 35%, Ieskats 50%, Zināšanas (Mākslas vēsture) 45%, Valoda (Paša) 90%, Klausīšanās 35%, Pētniecība 65%, Sajūtas 35%, Pamanīšana 40%, Statuss 35%, Maskēšanās 30%.
 
-**Spējas:** Psihiskās spējas Auras noteikšana 35%, Pareģošana 25% un Psihometrija 50%.
+**Spējas:** Psihiskās spējas Auras noteikšana 35%, Priekšnojauta 25% un Psihometrija 50%.
 
-### Kareivis
+### Karavīrs
 
-Kareivis ir apmācīts kara principos, izmantojot bruņojumu un taktiku, paklausīgs komandķēdei, atbalstošs komandas biedriem un saglabā mieru kaujas laikā. Ideālos apstākļos kareivis ir labi aprīkots, labi atbalstīts un labi informēts. Šis piemērs kareivis ir īpaši fit un pieredzējis, varbūt elites komando.
+Karavīrs ir apmācīts mūsdienu kara principos, izmantojot ieročus un taktiku, paklausīgs komandķēdei, atbalstošs komandas biedriem un saglabājot mieru zem uguns. Ideālos apstākļos karavīrs ir labi aprīkots, labi atbalstīts un labi informēts. Šis karavīra paraugs ir īpaši formā un pieredzējis, iespējams, elites komando.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 13 | 11 | 13 | 13 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 8 punktu ložu necaurlaidīga veste (4 punkti pret tuvcīņas ieročiem) + 3 punktu viegla ķivere |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 8 pkt. ložu necaurlaidīga veste (4 pkt. pret tuvcīņas ieročiem) + 3 pkt. viegla ķivere |
 
 **Uzbrukumi:**
 
-* Triecienšautene 65%, 2D6+2 (caurduršana)
-* Kaujas nazis (Duncis) 50%, 1D4+2+dm (caurduršana)
-* Granāta (Sprādzienbīstama) 40%, 4D6 (atgrūšana)
+* Triecienšautene 65%, 2D6+2 (duršana)
+* Kaujas nazis (duncis) 50%, 1D4+2+dm (duršana)
+* Granāta (Sprādzienbīstama) 40%, 4D6 (atsitiena spēks)
 
-**Prasmes:** Artilērija 30%, Kautiņš 45%, Kāpt 50%, Komandēt 25%, Izvairīties 40%, Vadīt (Humvee) 45%, Pirmā palīdzība 40%, Cīkšanās 50%, Paslēpties 35%, Lēkt 35%, Valoda (Paša) 65%, Klausīties 45%, Pamanīt 45%, Slēpties 40%, Stratēģija 20%, Mest 40%
+**Prasmes:** Artilērija 30%, Kautiņš 45%, Kāpšana 50%, Pavēle 25%, Izvairīšanās 40%, Braukšana (Humvee) 45%, Pirmā palīdzība 40%, Satvēriens 50%, Slēpšanās 35%, Lēkšana 35%, Valoda (Paša) 65%, Klausīšanās 45%, Pamanīšana 45%, Maskēšanās 40%, Stratēģija 20%, Mešana 40%
 
-**Spējas:** Kareivjiem reti, vispār kādreiz, piemīt spējas.
+**Spējas:** Karavīriem reti, ja vispār, ir spējas.
 
-### Burvis (Sorcerer)
+### Burvis
 
-Izvēlēts kopš jaunības un apmācīts mistiskajās mākslās, burvis nodarbojas ar dēmoniem un komandē pašus elementāros spēkus. Burvis ir augstprātīgs pret mazākiem, nemāģiskiem mirstīgajiem. Tajā pašā laikā viņi ir ārkārtīgi piesardzīgi, iesaistoties personīgā kaujā – arēnā, kurā viņi ir pilnīgi nesagatavoti konkurēt.
+Izvēlēts no jaunības un apmācīts mistiskajās mākslās, burvis nodarbojas ar dēmoniem un komandē pašus elementāros spēkus. Burvis ir augstprātīgs starp mazākajiem, nemaģiskajiem mirstīgajiem. Tajā pašā laikā viņi ir ārkārtīgi uzmanīgi, lai neiesaistītos personīgā cīņā, arēnā, kurā viņi ir nožēlojami nesagatavoti sacensties.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 9 | 11 | 15 | 19 | 21 | 14 | 12 |
 
 | Kustība 10 | Dzīvības punkti 13 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** Nav, vai 4 punktu Burvja bruņas |
+| **Bojājuma modifikators** Nav | **Bruņas** Nav, vai 4 pkt. burvja bruņas |
 
 **Uzbrukumi:**
 
-* Duncis 35%, 1D4+2+dm (caurduršana)
+* Duncis 35%, 1D4+2+dm (duršana)
 
-**Prasmes:** Novērtēt 35%, Izvairīties 40%, Etiķete 35%, Ātri runāt 45%, Paslēpties 30%, Ieskats 35%, Zināšanas (Akadēmiskās zinības) 50%, Zināšanas (Zaimojošās zinības) 20%, Zināšanas (Okultisms) 70%, Valoda (Dēmonu) 50%, Valoda (Paša) 85%, Klausīties 35%, Pārliecināt 45%, Pētniecība 75%, Jāt (Zirgs) 35%, Sajušana 35%, Slepenā manipulācija 35%, Pamanīt 55%.
+**Prasmes:** Novērtēšana 35%, Izvairīšanās 40%, Etiķete 35%, Ātra runāšana 45%, Slēpšanās 30%, Ieskats 35%, Zināšanas (Akadēmiskā gudrība) 50%, Zināšanas (Zaimojošā gudrība) 20%, Zināšanas (Okultisms) 70%, Valoda (Dēmoniskā) 50%, Valoda (Paša) 85%, Klausīšanās 35%, Pārliecināšana 45%, Pētniecība 75%, Jāšana (Zirgs) 35%, Sajūtas 35%, Veiklība 35%, Pamanīšana 55%.
 
-**Spējas:** Atmiņā ir šīs burvestības: Burvestību lāsts (4), Burvja bruņas (4), Burvja asā liesma (3), Dēmona izsaukšana (1), Atsaukt burvestību (2), Dziedināt (2), Raganu skatiens (3).
+**Spējas:** Šīs burvestības ir atmiņā: Burvestības lāsts (4), Burvja bruņas (4), Burvja asā uguns (3), Dēmona izsaukšana (1), Burvestības atcelšana (2), Dziedēšana (2), Raganas redze (3).
 
 ### Spiegs
 
-Slepenais darbinieks, kas strādā klandestīni valdības aģentūrā, apmācīts infiltrācijā, maskēšanās, maskēšanās, cīņā un citās spiegošanas prasmēs. Misijas svārstās no bruņotas ielaušanās līdz ienaidnieka grupu infiltrācijai ar novērošanu, sabotāžu vai slepkavību kā gala mērķi. Viņi var būt aprīkoti ar dažādiem sīkrīkiem un ieročiem, daži maskēti kā ikdienišķi priekšmeti. Skatīt *8. nodaļu: Aprīkojums* vadlīnijām par augsto tehnoloģiju spiegu rīku izgatavošanu.
+Slepenais operatīvais darbinieks, kas darbojas klandestīni valdības aģentūrā, apmācīts iefiltrēšanās, maskēšanās, maskēšanās, cīņas un citās spiegošanas prasmēs. Misijas svārstās no bruņotas ielaušanās līdz ienaidnieka grupu iefiltrēšanai ar mērķi veikt uzraudzību, sabotāžu vai slepkavību. Tie var būt aprīkoti ar dažādiem sīkrīkiem un ieročiem, daži no tiem maskēti kā parasti priekšmeti. Konsultējieties ar *Astoto nodaļu: Aprīkojums*, lai iegūtu norādījumus par augsto tehnoloģiju spiegu rīku konstruēšanu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 13 | 15 | 14 | 15 | 14 |
 
 | Kustība 10 | Dzīvības punkti 14 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 5 punktu ballistiskā auduma smokinga (3 punkti pret tuvcīņas ieročiem) |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 5 pkt. ložu necaurlaidīga auduma smokings (3 pkt. pret tuvcīņas ieročiem) |
 
 **Uzbrukumi:**
 
-* Vieglā pistole 75%, 1D6 (caurduršana)
-* Snaipera šautene 75%, 2D10+4 (caurduršana)
-* Metamais nazis 75%, 1D4+½dm (caurduršana)
-* Dūre 80%, 1D3+dm (saspiešana)
-* Spertiens 65%, 1D3+dm (saspiešana)
+* Vieglā pistole 75%, 1D6 (duršana)
+* Snaipera šautene 75%, 2D10+4 (duršana)
+* Mešanas nazis 75%, 1D4+½dm (duršana)
+* Dūre 80%, 1D3+dm (drupināšana)
+* Spēriens 65%, 1D3+dm (drupināšana)
 
-**Prasmes:** Novērtēt 45%, Kautiņš 65%, Kāpt 60%, Demolēšana 40%, Maskēšanās 60%, Izvairīties 50%, Vadīt (Sporta auto) 85%, Etiķete 65%, Ātri runāt 75%, Smalka manipulācija 75%, Pirmā palīdzība 55%, Spēles 65%, Cīkšanās 65%, Paslēpties 75%, Ieskats 65%, Lēkt 50%, Zināšanas (Spiegošana) 75%, Valoda (Paša) 90%, Valoda (Cita) 70%, Klausīties 65%, Cīņas mākslas 45%, Pārliecināt 55%, Pilots (Laiva) 65%, Pilots (Helikopters) 45%, Pētniecība 45%, Jāt (Zirgs) 45%, Sajušana 60%, Slepenā manipulācija 55%, Pamanīt 65%, Slēpties 70%, Stratēģija 50%, Peldēt 65%, Mest 65%, Sekot 35%.
+**Prasmes:** Novērtēšana 45%, Kautiņš 65%, Kāpšana 60%, Demolēšana 40%, Maskēšanās 60%, Izvairīšanās 50%, Braukšana (Sporta auto) 85%, Etiķete 65%, Ātra runāšana 75%, Smalka manipulācija 75%, Pirmā palīdzība 55%, Spēles 65%, Satvēriens 65%, Slēpšanās 75%, Ieskats 65%, Lēkšana 50%, Zināšanas (Spiegošana) 75%, Valoda (Paša) 90%, Valoda (Cita) 70%, Klausīšanās 65%, Cīņas mākslas 45%, Pārliecināšana 55%, Pilots (Laiva) 65%, Pilots (Helikopters) 45%, Pētniecība 45%, Jāšana (Zirgs) 45%, Sajūtas 60%, Veiklība 55%, Pamanīšana 65%, Maskēšanās 70%, Stratēģija 50%, Peldēšana 65%, Mešana 65%, Pēdu dzīšana 35%.
 
-**Spējas:** Spiegiem reti, vispār kādreiz, piemīt spējas.
+**Spējas:** Spiegiem reti, ja vispār, ir kādas spējas.
 
 ### Supervaronis
 
-Dēļ kāda dīvaina negadījuma vai ģenētiskas anomālijas ieguvis spējas, supervaronis ir devis zvērestu rīkoties pareizi, meklējot taisnību visiem, izmantojot savas spējas, lai palīdzētu normāliem cilvēkiem un aizsargātu viņus no draudiem gan dabiskā, gan nedabiskā ceļā, kā arī tiem, ko rada superļaundari. Vairums supervaroņu savu identitāti slēpj, dzīvojot normālu dzīvi, kad vien var. Dažiem supervaroņiem ir partneri vai viņi pievienojas komandām. Supervaroni bieži grauž pašpārliecības trūkums, domājot, vai varonības cena nav pārāk augsta.
+Dāvināts ar spējām pēc kāda dīvaina negadījuma vai ģenētiskas anomālijas, supervaronis ir zvērējis darīt pareizo, meklējot taisnību visiem, izmantojot savas spējas, lai palīdzētu parastiem cilvēkiem un pasargātu tos no draudiem, kas ir gan dabiski, gan nedabiski, kā arī no tiem, ko rada superļaundari. Vairums patur savas supervaroņa identitātes noslēpumā, dzīvojot normālu dzīvi, kad var. Dažiem supervaroņiem ir partneri vai viņi pievienojas komandām. Supervaronis bieži ir paššaubas mocīts, domājot, vai varonības cena nav pārāk augsta.
 
-Šis supervaroņa piemērs ir Stormcloud (Vētras mākonis), pārgalvīgs (un nepieredzējis) uz zibeni balstīts varonis un Doktora Dread (Šausmas) ienaidnieks. Stormcloud civilā identitāte ir televīzijas meteorologs.
+Šis supervaroņa paraugs ir Stormcloud, nesavaldīgs (un nepieredzējis) uz zibeni balstīts varonis un ārsta Dread ienaidnieks. Stormcloud civilā identitāte ir televīzijas meteorologa identitāte.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 25 | 20 | 12 | 14 | 16 | 20 | 15 |
 
 | Kustība 10 (62 lidojot) | Dzīvības punkti 16 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D6 | **Bruņas** 12 punktu Bruņas (Kinētiskās, Radiācijas) |
+| **Bojājuma modifikators** +1D6 | **Bruņas** 12 pkt. bruņas (Kinētiskās, Radiācijas) |
 
 **Uzbrukumi:**
 
-* Zibens izlāde 45%, 6D6 (elektrisks)
-* Kautiņš 50%, 1D3+dm (saspiešana)
+* Zibens spēriens 45%, 6D6 (elektriskais)
+* Kautiņš 50%, 1D3+dm (drupināšana)
 
-**Prasmes:** Māksla (Fotogrāfija) 70%, Kautiņš 50%, Izvairīties 50%, Vadīt (Auto) 35%, Lidot 80%, Cīkšanās 35%, Zināšanas (Reģions: Vietējais) 35%, Valoda (Cita) 00%, Valoda (Paša) 85%, Uzstāties (Ziņas) 50%, Pētniecība 45%, Zinātne (Meteoroloģija) 25%, Statuss 25%, Tehniskā prasme (Datoru lietošana) 35%.
+**Prasmes:** Māksla (Fotogrāfija) 70%, Kautiņš 50%, Izvairīšanās 50%, Braukšana (Auto) 35%, Lidošana 80%, Satvēriens 35%, Zināšanas (Reģions: Vietējais) 35%, Valoda (cita) 00%, Valoda (Paša) 85%, Uzstāšanās (Ziņas) 50%, Pētniecība 45%, Zinātne (Meteoroloģija) 25%, Statuss 25%, Tehniskā prasme (Datoru lietošana) 35%.
 
-**Spējas:** Stormcloud piemīt šādas superspējas: Absorbcija (Elektriskā) 18; Bruņas (Kinētiskās, Radiācijas) 12 katra; Enerģijas projekcija (Elektriskā) 6; Papildu enerģija 15 (+150 spēka punkti); Lidošana 10; un Super raksturlielumi 30 (STR +14, CON +8, DEX +8).
+**Spējas:** Stormcloud piemīt šādas superspējas: Absorbcija (Elektriskā) 18; Bruņas (Kinētiskās, Radiācijas) 12 katra; Enerģijas projekcija (Elektriskā) 6; Papildu enerģija 15 (+150 spēka punkti); Lidojums 10; un Superraksturlielumi 30 (SPĒ +14, IZT +8, VEI +8).
 
-**Vājības:** Stormcloud rakstura vājība ir vājība pret ūdeni, zaudējot –2D6 spēka punktus katrā raundā, atrodoties slapjumā vai iegremdējoties.
+**Vājības:** Stormcloud rakstura kļūda ir vājība pret ūdeni, zaudējot –2D6 spēka punktus katrā raundā, kad tas ir slapjš vai iegremdēts.
 
 ### Superļaundaris
 
-Atšķirībā no supervaroņa, superļaundaris izbauda noziedzīgu dzīvi, izmantojot savas spējas bagātības, varas, atriebības vai citu nodarījumu dēļ. Viņi var būt meistarnoziedznieks vai slavināts bandīts, atkarībā no ambīcijām. Daži izvēlas strādāt vienatnē, bet citiem ir pakalpiņu kadrs. Vēl retāk superļaundari sadarbojas komandās, jo nestabilās personības mēdz padarīt godīgu sadarbību neiespējamu.
+Atšķirībā no supervaroņa, superļaundaris izbauda noziedzīgu dzīvi, izmantojot savas spējas bagātības, varas, atriebības vai citu nelikumību meklējumos. Viņi var būt meistarnoziedznieki vai slavināti blēži, atkarībā no ambīcijām. Daži izvēlas strādāt vieni, kamēr citiem ir palīgu kadrs. Vēl mazāk superļaundaru strādā kopā komandās, jo nestabilās personības mēdz padarīt vienlīdzīgas partnerības neiespējamas.
 
-Šis superļaundara piemērs ir Doktors Dread, bijušais aizsardzības industrijas inženieris, kura finansējums tika pārtraukts. Pēc nelicencētas militārās tehnoloģijas izmantošanas, lai uzbūvētu aizsargtērpu, Doktors Dread meklē līdzekļus turpmākai (un potenciāli nelegālai) ieroču izpētei. Šī statistika atspoguļo Doktoru Dread bruņās.
+Šis superļaundara paraugs ir ārsts Dread, bijušais aizsardzības nozaru inženieris, kura finansējums tika samazināts. Pēc licencētas militārās tehnoloģijas izmantošanas, lai uzbūvētu aizsargbruņu tērpu, ārsts Dread meklē līdzekļus turpmākiem (un potenciāli nelegāliem) ieroču pētījumiem. Šī statistika pārstāv ārstu Dread bruņās.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 18 | 9 | 17 | 17 | 18 | 10 |
 
 | Kustība 10 (62 lidojot) | Dzīvības punkti 14 |
 | :---- | :---- |
-| **Bojājuma modifikators** Nav | **Bruņas** 4 punktu Bruņas (Kinētiskās) + 20 punktu Spēka lauks (Elektriskais, Kinētiskais, Radiācijas) |
+| **Bojājuma modifikators** Nav | **Bruņas** 4 pkt. bruņas (Kinētiskās) + 20 pkt. Spēka lauks (Elektriskais, Kinētiskais, Radiācijas) |
 
 **Uzbrukumi:**
 
 * Siltuma projektors 70%, 6D6 (uguns)
-* Kautiņš 50%, 1D3+dm (saspiešana)
+* Kautiņš 50%, 1D3+dm (drupināšana)
 
-**Prasmes:** Komandēt 35%, Izvairīties 40%, Vadīt (Furgons) 55%, Smalka manipulācija 65%, Lēkt 65%, Valoda (Paša) 125%, Klausīties 45%, Remontēt (Elektroniskais) 85%, Remontēt (Kvantu) 75%, Pētniecība 85%, Zinātne (Fizika) 95%, Pamanīt 50%, Tehniskā prasme (Datoru lietošana) 95%.
+**Prasmes:** Pavēle 35%, Izvairīšanās 40%, Braukšana (Furgons) 55%, Smalka manipulācija 65%, Lēkšana 65%, Valoda (Paša) 125%, Klausīšanās 45%, Remonts (Elektroniskais) 85%, Remonts (Kvantu) 75%, Pētniecība 85%, Zinātne (Fizika) 95%, Pamanīšana 50%, Tehniskā prasme (Datoru lietošana) 95%.
 
-**Spējas:** Doktora Dread bruņas nodrošina šādas superspējas: Bruņas (Kinētiskās) 4; Enerģijas projekcija (Siltums) 6; Papildu enerģija 15 (+150 spēka punkti); Lidošana 3; Spēka lauks (Elektriskais, Kinētiskais, Radiācijas) 20 katrs; Lēkt 10 (+20 metri Lēkšanas attālumam); Super Sajušana (Infrasarkanā redze, Ultraskaņas dzirdes spēja) 1 katra.
+**Spējas:** Ārsta Dread bruņas nodrošina šādas superspējas: Bruņas (Kinētiskās) 4; Enerģijas projekcija (Siltuma) 6; Papildu enerģija 15(+150 spēka punkti); Lidojums 3; Spēka lauks (Elektriskais, Kinētiskais, Radiācijas) 20 katrs; Lēciens 10 (+20 metri lēkšanas distancei); Supersajūtas (Infrared, Ultraskaņas dzirde) 1 katra.
 
-**Vājības:** Doktora Dread rakstura vājības ir pilna laika superļaundarība; fiziski atšķirīgs (neglīts); psiholoģiskas vājības (asiņkārs, augstprātīgs); superļaundara identitāte piesaistīta bruņām un ne uz pilnu laiku; bruņas var tikt izslēgtas vai noņemtas.
+**Vājības:** Ārsta Dread rakstura kļūdas ir pilna laika superļaundarība; fiziski atšķirīgs (neglīts); psiholoģiskas kļūdas (asiņains, augstprātīgs); superļaundara identitāte piesaistīta bruņām, nevis pilna laika; bruņas var tikt izslēgtas vai noņemtas.
 
-### Bandīts (Thug)
+### Bandīts
 
-Bandīts algai, parasti strādā noziedzīgā grupā vai dažreiz vienkārši meklē nepatikšanas. Bandīts var būt rezerves spēks vai darboties patstāvīgi, vai nu ielaužoties, laupot, vai arī darbojoties kā bandīts.
+Algots rīkļurāvējs, parasti strādā noziedzīgā grupējumā vai dažreiz vienkārši meklē nepatikšanas. Bandīts var būt aizmugures spēks vai darboties patstāvīgi, vai tas būtu ielaušanās, laupīšana, bandītisms vai uzbrukums.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 10 | 10 | 12 | 11 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 1 punkta ādas jaka |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 1 pkt. ādas jaka |
 
 **Uzbrukumi:**
 
-* Smagā pistole 50%, 1D10+2 (caurduršana)
-* Kabatas nazis 50%, 1D4+dm (caurduršana)
-* Beisbola nūja 50%, 1D6+dm (saspiešana)
-* Dūre 50%, 1D3+dm (saspiešana)
-* Sitien ar galvu 35%, 1D3+dm (saspiešana)
+* Smagā pistole 50%, 1D10+2 (duršana)
+* Kabatas nazis 50%, 1D4+dm (duršana)
+* Beisbola nūja 50%, 1D6+dm (drupināšana)
+* Dūre 50%, 1D3+dm (drupināšana)
+* Pieres sitiens 35%, 1D3+dm (drupināšana)
 
-**Prasmes:** Demolēšana 20%, Izvairīties 35%, Vadīt (Kravas automašīna) 50%, Spēles 30%, Cīkšanās 50%, Paslēpties 25%, Ieskats 25%, Zināšanas (Reģions: Dzimtā pilsēta) 35%, Valoda (Paša) 50%, Klausīties 35%, Pārliecināt 35%, Sajušana 30%, Slepenā manipulācija 25%, Pamanīt 35%, Slēpties 25%, Mest 35%.
+**Prasmes:** Demolēšana 20%, Izvairīšanās 35%, Braukšana (Kravas auto) 50%, Spēles 30%, Satvēriens 50%, Slēpšanās 25%, Ieskats 25%, Zināšanas (Reģions: Mājpilsēta) 35%, Valoda (Paša) 50%, Klausīšanās 35%, Pārliecināšana 35%, Sajūtas 30%, Veiklība 25%, Pamanīšana 35%, Maskēšanās 25%, Mešana 35%.
 
-**Spējas:** Bandītiem nekad nav spēju. Ja viņiem būtu, viņi darbotos labāk.
+**Spējas:** Bandītiem nekad nav spēju. Ja būtu, viņiem klātos labāk.
 
 ### Cilts karotājs
 
-Cilts karotājs sastopams jebkur, kur civilizācija nav sasniegusi. Viņi izmanto ieročus, kas tiek uzskatīti par primitīviem pēc dienas standarta, un piedalās savas cilts izdzīvošanā, medījot un cīnoties, lai aizstāvētu cilti pret svešiniekiem un uzbrucējiem. Cilts karotājs liek lielu ticību gudrībai no cilts vecākajiem, kuri interpretē dievu vārdus.
+Cilts karotājs tiek sastapts jebkurā apgabalā, kur civilizācija nav sasniegusi. Viņi izmanto ieročus, kas tiek uzskatīti par primitīviem pēc dienas standarta, un piedalās savas cilts izdzīvošanā, medījot un cīnoties, lai aizstāvētu cilti pret iebrucējiem un uzbrucējiem. Cilts karotājs liek lielu ticību gudrībai, ko sniedz cilts vecaji, kuri interpretē dievu vārdus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 11 | 13 | 16 | 13 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 1 punkta ādas bruņas |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 1 pkt. ādas bruņas |
 
 **Uzbrukumi:**
 
-* Īsais šķēps 65%, 1D6+1+dm (caurduršana)
-* Īsais šķēps (mests) 75%, 1D6+1+½dm (caurduršana)
-* Vieglā vālīte 55%, 1D6+dm (saspiešana)
-* Vieglā vālīte (mesta) 65%, 1D6+½dm (saspiešana)
-* Vairogs 65%, 1D2+dm (atgrūšana)
-* Pūšamcaurule 75%, 1D3 (caurduršana) + inde (skatīt zemāk)*
-* Cīkšanās 65%, īpašs
+* Īss šķēps 65%, 1D6+1+dm (duršana)
+* Īss šķēps (mests) 75%, 1D6+1+½dm (duršana)
+* Vieglā nūja 55%, 1D6+dm (drupināšana)
+* Vieglā nūja (mesta) 65%, 1D6+½dm (drupināšana)
+* Vairogs 65%, 1D2+dm (atsitiena spēks)
+* Pūšamais stobrs 75%, 1D3 (duršana) + inde (skat. zemāk)*
+* Satvēriens 65%, īpašs
 
-*Cilts karotāja pūšamcaurules parasti ir klātas ar paralītisku POT 10 indi (sk. **Indes**).
+*Cilts karotāja pūšamās bultas parasti ir pārklātas ar paralizējošu POT 10 indi (skat. **Indes**).
 
-Daži cilts karotāji izmanto sagūstītus ieročus no civilizētiem vīriem, bet citi no tiem izvairās.
+Daži cilts karotāji pieņem civilizēto cilvēku sagūstīto ieroču izmantošanu, savukārt citi no tiem izvairās.
 
-**Prasmes:** Kāpt 75%, Izvairīties 40%, Paslēpties 45%, Lēkt 45%, Valoda (Paša) 60%, Klausīties 55%, Sajušana 60%, Pamanīt 65%, Slēpties 60%, Peldēt 55%, Mest 65%, Sekot 70%.
+**Prasmes:** Kāpšana 75%, Izvairīšanās 40%, Slēpšanās 45%, Lēkšana 45%, Valoda (Paša) 60%, Klausīšanās 55%, Sajūtas 60%, Pamanīšana 65%, Maskēšanās 60%, Peldēšana 55%, Mešana 65%, Pēdu dzīšana 70%.
 
-**Spējas:** Cilts karotājiem reti piemīt spējas. Tomēr ciltis parasti ir sabiedrotas ar šamanis vai gudru cilvēku, kuram var būt spējas. Šīs spējas parasti ir psihiskas spējas vai maģiskas burvestības, dažreiz burvestības.
+**Spējas:** Cilts karotājiem reti ir spējas. Tomēr ciltis parasti ir sabiedrotās ar šamanis vai gudru personu, kam var būt spējas. Šīs spējas parasti ir psihiskas spējas vai maģiskas burvestības, dažreiz burvestības.
 
 ### Vikings
 
-Vikingi ir ziemeļu karotāji, kas dodas garos jūras braucienos atklājumiem, tirdzniecībai (pret spēcīgiem pretiniekiem vai sabiedrotajiem) un laupīšanai (pret ienaidniekiem vai vājākiem). Viņi ir nikni un lepni, lieliski jūrnieki un pārsteidzoši civilizēti, ņemot vērā savu mežonīgo reputāciju. Vikingiem ir savs goda kodekss un likumi, un viņi tos stingri ievēro, lai gan viņu noteikumi neattiecas uz citiem.
+Vikingi ir ziemeļu karotāji, kas dodas garos jūras braucienos izpētes, tirdzniecības (pret spēcīgiem pretiniekiem vai sabiedrotajiem) un sirošanas (pret ienaidniekiem vai vājākiem) nolūkos. Viņi ir sīksti un lepni, lieliski jūrnieki un pārsteidzoši civilizēti, ņemot vērā savu mežonīgo reputāciju. Vikingiem ir savs goda kodekss un likumi, un viņi tos stingri ievēro, lai gan to noteikumi neattiecas uz citiem.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| SPĒ | IZT | IZM | INT | VAR | VEI | HAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 11 | 11 | 13 | 12 |
 
 | Kustība 10 | Dzīvības punkti 15 |
 | :---- | :---- |
-| **Bojājuma modifikators** +1D4 | **Bruņas** 7 punktu zvīņas un viegla ķivere |
+| **Bojājuma modifikators** +1D4 | **Bruņas** 7 pkt. zvīņas un viegla ķivere |
 
 **Uzbrukumi:**
 
-* Platais zobens 65%, 1D8+1+dm (asiņošana)
+* Plats zobens 65%, 1D8+1+dm (asiņošana)
 * Rokas cirvis 55%, 1D6+1+dm (asiņošana)
 * Rokas cirvis (mests) 55%, 1D6+1+½dm (asiņošana)
-* Pašloks 50%, 1D6+1+½dm (caurduršana)
-* Liels apaļais vairogs 50%, 1D4+dm (atgrūšana)
-* Kautiņš 55%, 1D3+dm (saspiešana)
+* Pašdarināts loks 50%, 1D6+1+½dm (duršana)
+* Liels apaļais vairogs 50%, 1D4+dm (atsitiena spēks)
+* Kautiņš 55%, 1D3+dm (drupināšana)
 
-**Prasmes:** Novērtēt 45%, Kaulēties 35%, Kautiņš 25%, Amatniecība (veids) 05%, Izvairīties 40%, Spēles 40%, Cīkšanās 35%, Ieskats 15%, Lēkt 25%, Valoda (Paša) 55%, Klausīties 40%, Navigācija 35%, Pilots (kuģis) 25%, Jāt (veids) 05%, Pamanīt 35%, Statuss 25%.
+**Prasmes:** Novērtēšana 45%, Kaulēšanās 35%, Kautiņš 25%, Amatniecība (veids) 05%, Izvairīšanās 40%, Spēles 40%, Satvēriens 35%, Ieskats 15%, Lēkšana 25%, Valoda (Paša) 55%, Klausīšanās 40%, Navigācija 35%, Pilots (kuģis) 25%, Jāšana (veids) 05%, Pamanīšana 35%, Statuss 25%.
 
-**Spējas:** Vikingiem reti piemīt kādas spējas. Daži burvestību izmantotāji izmanto dažādus maģijas veidus, sākot no rūnu maģijas, formas maiņas vai burvestībām. Atkarībā no vides bagātam vai iecienītam vikingam var būt ieroči, bruņas vai kādi citi maģiski artefakti.
+**Spējas:** Vikingiem reti ir kādas spējas. Daži burvestību lietotāji izmanto dažādus maģijas veidus, sākot no rūnu maģijas, formas maiņas vai burvestībām. Atkarībā no iestatījuma, bagāts vai iecienīts vikings var iegūt ieročus, bruņas vai citus maģiskus artefaktus.
 
-## Radību un nespēlētāju tēlu pielāgošana
+## Radību un nespēlētāju tēlu (NPC) pielāgošana
 
-Var būt nepieciešams pielāgot šīs radības un nespēlētāja tēlus, pamatojoties uz spēles jaudas līmeni, vai lai labāk atbilstu spēlētāju tēlu kompetencei. Šeit ir vadlīnijas tam, kā to darīt un kā pārvaldīt šīs radības un nespēlētāja tēlus pēc vajadzības.
+Var būt nepieciešams pielāgot šīs radības un nespēlētāju tēlus, pamatojoties uz jūsu spēles jaudas līmeni, vai lai labāk atbilstu spēlētāju tēlu kompetencei. Šeit ir vadlīnijas to darīšanai un šo radību un nespēlētāju tēlu pārvaldīšanai pēc vajadzības.
 
-Iespējams, ka vienā jaudas līmenī, piemēram, fantāzijas vai supervaroņu vidē, ir loģiskāk, ja pretinieki ir augstāka kalibra, savukārt citās vidēs tas var šķist nepiemēroti vai pārāk izaicinoši. Šādos gadījumos spēles vadītājs var izvēlēties palielināt apdraudējumu, ko pretinieks rada citādā veidā, piemēram, palielinot sastapto skaitu, vai dot tiem pārāku aprīkojumu, vai citiem līdzekļiem, kā aprakstīts zemāk.
+Var būt jēgpilnāk, ka pretinieki ir augstāka kalibra vienā jaudas līmenī, piemēram, fantāzijas vai supervaroņu iestatījumā, kamēr citos iestatījumos tas var šķist nepiemēroti vai pārāk izaicinoši. Šādos gadījumos spēles vadītājs var izvēlēties palielināt draudus, ar kuriem saskaras pretinieks, citādā veidā, piemēram, palielināt sastopamo skaitu, vai dot tiem augstāku aprīkojumu, vai citiem līdzekļiem, kā aprakstīts tālāk.
 
 ### Normālas kampaņas
 
-Šajā nodaļā iekļautās radības un nespēlētāja tēli ir orientēti uz normālu kampaņu. Tos parasti nav nepieciešams pielāgot, ja vien nav īpašas vides. Pielāgojot raksturlielumus, ņemiet vērā jebkādus modificētus sekundāros raksturlielumus (bojājumu bonuss, dzīvības punkti, liels ievainojums, spēka punkti utt.).
+Šīs nodaļas radības un nespēlētāju tēli ir vērsti uz normālu kampaņu. Tos parasti nav nepieciešams pielāgot, izņemot īpašam iestatījumam. Ikreiz, pielāgojot raksturlielumus, ņemiet vērā jebkādus modificētus sekundāros raksturlielumus (bojājuma bonuss, dzīvības punkti, galvenais ievainojums, spēka punkti utt.).
 
-Viena lieta, kas jāpatur prātā, ir tas, ka pat neliels bruņu daudzums iet tālu. Pievienojot vienībai 3 bruņu punktus, var padarīt to izaicinošu, un ar vairāk nekā +6 punktiem tos kļūst ļoti grūti ievainot.
+Viena lieta, kas jāpatur prātā, ir tas, ka pat nedaudz bruņu dod daudz. 3 bruņu punktu pievienošana būtnei var padarīt to izaicinošu, un ar vairāk nekā +6 punktiem tām kļūst ļoti grūti nodarīt kaitējumu.
 
-### Varonīgas kampaņas
+### Varoņu kampaņas
 
-Varonīgai kampaņai šeit ir veidi, kā varat pielāgot radības vai nespēlētāja tēlus, lai tie labāk atbilstu varonīgā līmeņa tēliem:
+Varoņu kampaņai šeit ir veidi, kā varat pielāgot radības vai nespēlētāju tēlus, lai tie labāk atbilstu varoņu līmeņa tēliem:
 
-* Palielināt sastapto radību vai nespēlētāja tēlu skaitu par +25% vai vairāk.
-* Pievienot vēl vienu ārkārtīgi kompetentu līderi jebkurai grupai, varbūt veidotu uz episkā jaudas līmeņa.
-* Likts tiem izmantot pārāku taktiku, būt piesardzīgākiem vai agresīvākiem un labāk izmantot savu reljefu, lai iegūtu taktiskas priekšrocības un saglabātu spēlētāju tēlus līdzsvarā.
-* Palielināt galvenos raksturlielumus par vēl vienu D6 vai līdzenu +3, saglabājot rullējamus maksimumus neskartus.
-* Modificēt kaujas orientētās un citas attiecīgās prasmes par +25% vai reizinot ar x1.5.
-* Pievienot vairāk spēju vai palielināt esošo spēju efektivitāti.
-* Aprīkot tos ar labāku aprīkojumu, bruņām, ieročiem utt.
+* Palielinot sastopamo radību vai nespēlētāju tēlu skaitu par +25% vai vairāk.
+* Pievienojot vienu vēl ārkārtīgi kompetentu līderi jebkurai grupai, iespējams, veidotu episkā jaudas līmenī.
+* Liekot tiem izmantot pārāku taktiku, būt piesardzīgākiem vai agresīvākiem, un labāk izmantot savu reljefu, lai iegūtu taktiskas priekšrocības un turētu spēlētāju tēlus līdzsvara trūkumā.
+* Palielinot galvenos raksturlielumus par vēl vienu D6 vai līdzenu +3, saglabājot izmetamos maksimumus neskartus.
+* Modificējot cīņai orientētas un citas atbilstošas prasmes par +25% vai reizinot ar ×1,5.
+* Pievienojot vairāk spēju vai palielinot esošo spēju efektivitāti.
+* Aprīkojot tos ar labāku aprīkojumu, bruņām, ieročiem utt.
 
 ### Episkas kampaņas
 
-Episkai kampaņai šeit ir veidi, kā pielāgot radības vai nespēlētāja tēlus, lai tie radītu lielāku izaicinājumu:
+Episkai kampaņai šeit ir veidi, kā pielāgot radības vai nespēlētāju tēlus, lai radītu lielāku izaicinājumu:
 
-* Dubultot to skaitu, ko sastaptu normāli tēli.
-* Dot tiem līderi pārcilvēcīgā jaudas līmenī.
-* Palielināt raksturlielumus par +6 vai vairāk, pārsniedzot rases maksimumus.
-* Dubultot prasmju vērtējumus.
-* Likts tiem izmantot tādas prasmes kā Komandēt un Stratēģija, lai izlīdzinātu spēles laukumu.
-* Pievienot pavisam jaunas spējas vai vairākas spēju grupas, vai apvienot ierakstus ar superspējām, piemēram, Papildu dzīvības punkti ir viegls risinājums.
-* Dot ienaidniekiem labāko pieejamo aprīkojumu, bruņas un ieročus, vai tās būtu bruņas, maģiski artefakti, medicīnas piederumi, kas spējīgi uz acumirklīgu dziedināšanu utt.
+* Dubultojot skaitu, kas būtu sastopams normāliem tēliem.
+* Dodot tiem līderi pārcilvēciskā jaudas līmenī.
+* Palielinot raksturlielumus par +6 vai vairāk, pārsniedzot rases maksimumus.
+* Dubultojot prasmju reitingus.
+* Liekot tiem izmantot prasmes, piemēram, Pavēle un Stratēģija, lai izlīdzinātu spēles laukumu.
+* Pievienojot pilnīgi jaunas spējas vai vairākas spēju grupas, vai kombinējot ierakstus ar superspējām, piemēram, Papildu dzīvības punkti, ir viegls risinājums.
+* Dodot ienaidniekiem labāko pieejamo aprīkojumu, bruņas un ieročus, vai tās būtu enerģijas bruņas, maģiski artefakti, medicīnas preces, kas spēj tūlītēji dziedēt utt.
 
-### Pārcilvēcīgas kampaņas
+### Pārcilvēciskas kampaņas
 
-Pārcilvēcīgai kampaņai spēles vadītājs var izvēlēties pielāgot šādus radības vai nespēlētāja tēla aspektus:
+Pārcilvēciskai kampaņai spēles vadītājs var izvēlēties pielāgot šādus radības vai nespēlētāju tēla aspektus:
 
-* Skaitu var palielināt līdz robežai, ar kuru jūtaties ērti strādāt, sajaucot normālus, varonīgus un episkus nespēlētāja tēlus, lai dažādotu izaicinājumu.
-* Palielināt raksturlielumus tālu pāri rullējamiem maksimumiem, izmantojot jebkādas spējas, lai šie ienaidnieki būtu gandrīz titāniski spējās un kompetencē.
-* Trīskāršot vai pat četrkāršot prasmju vērtējumus krietni virs 100%.
-* Pievienot mazāk acīmredzamas spējas, piemēram, Papildu dzīvības punkti, Super raksturlielumi, Super prasmes utt.
-* Aprīkot pretiniekus ar izciliem ieročiem, bruņām un citu ekipējumu, ieskaitot maģisku vai ar enerģiju darbināmu aprīkojumu. Viņi arī izmantos šo aprīkojumu taktiski un pēc labākās spējas.
+* Skaitus var palielināt līdz robežai, ar kuru jūtaties ērti, sajaucot normāla, varoņa un episkā līmeņa nespēlētāju tēlus, lai dažādotu izaicinājumu.
+* Raksturlielumu palielināšana tālu aiz izmetamajiem maksimumiem, izmantojot jebkādas spējas, lai padarītu šos ienaidniekus gandrīz titāniskus spēju un kompetences ziņā.
+* Prasmju reitingu trīskāršošana vai pat četrkāršošana tālu virs 100%.
+* Pievienojot mazāk acīmredzamas spējas, piemēram, Papildu dzīvības punkti, Superraksturlielumi, Superprasmes utt.
+* Pretinieku aprīkošana ar izciliem ieročiem, bruņām un citu ekipējumu, tostarp maģisku vai darbināmu aprīkojumu. Viņi arī izmantos šo aprīkojumu taktiski un pēc savu spēju labākajiem rezultātiem.
 
-### Vispārīgas piezīmes
+### Vispārējas piezīmes
 
-Kā minēts, tie ir tikai ieteikumi, un tos vajadzētu piemērot gudri. Izpētiet spēlētāju tēlu spējas un izmantojiet to kā pamatu tam, cik smagus pretiniekus veidot. Nebaidieties samazināt tikšanos, liekot ienaidniekiem bēgt, vai palielināt grūtības, liekot ierasties jauniem ienaidniekiem, vai ieviešot kādu vides faktoru, kas padara lietas grūtākas visiem.
+Kā atzīmēts, tie ir tikai ieteikumi, un tie jāpiemēro saprātīgi. Izpētiet spēlētāju tēlu spējas un izmantojiet to kā pamatu tam, cik smagus veidot nozīmīgus pretiniekus. Nebaidieties mazināt sastapšanos, liekot ienaidniekiem bēgt, vai palielināt grūtības, liekot ierasties jauniem ienaidniekiem, vai ieviešot kādu vides faktoru, kas padara lietas grūtākas visiem.
 
-Ienaidnieka relatīvā spēka mērīšana pret spēlētāja tēla spējām ir sarežģīta māksla, un plakana kauliņu rezultātu sadale un negaidīta taktika var padarīt potenciāli vieglu tikšanos par cīņu par dzīvību un nāvi vai izbeigt kulminācijas cīņu ar vienu pirmo (un veiksmīgu) šāvienu.
+Ienaidnieka relatīvā spēka novērtēšana pret spēlētāja tēla spēku ir sarežģīta māksla, un plakana kauliņu rezultātu sadale un negaidīta taktika var padarīt potenciāli vieglu sastapšanos par dzīvības vai nāves cīņu vai beigt kulminācijas cīņu ar vienu pirmo (un veiksmīgu) šāvienu.
 
-Ir svarīgi vienmēr atcerēties galveno noteikumu: izklaidējieties un pārliecinieties, ka arī spēlētāji izklaidējas.
+Tomēr ir svarīgi vienmēr atcerēties galveno likumu: izklaidēties un pārliecināties, ka spēlētāji arī izklaidējas.
 
-> ### Radības trāpījumu zonu tabulas
+> ### Radību trāpījuma vietu tabulas
 > 
-> Trāpījumu zonas ļauj iegūt lielu detalizāciju, nosakot, kur uzbrukums trāpījis, un daudziem tās patīk, jo tās pārstāv "reālistiskāku" ievainojumu attēlojumu. Sniegtā standarta trāpījumu zonu tabula ir piemērota jebkuram divkājainam cilvēkveidīgajam, citām radībām ir atšķirīgas formas ķermeņi un tām ir nepieciešamas dažādas trāpījumu zonu tabulas.
+> Trāpījuma vietas ļauj gūt lielas detaļas, nosakot, kur uzbrukums trāpīja, un piesaista daudzus, jo tās atspoguļo "reālistiskāku" ievainojumu attēlojumu. Standarta trāpījuma vietu tabula ir piemērota jebkuram divkājainam humanoīdam, citām radībām ir citādi veidoti ķermeņi un ir nepieciešamas citas trāpījuma vietu tabulas.
 > 
-> Šajā sadaļā ir sniegtas dažādas trāpījumu zonu tabulas un ātras formulas dzīvības punktu noteikšanai katrā zonā jebkurai vēlamajai radībai. Lai noteiktu, kuru tabulu izmantot, izvēlieties to, kas ir visatbilstošākā vēlamajai radībai.
+> Šajā nodaļā ir piedāvātas dažādas trāpījuma vietu tabulas un ātras formulas dzīvības punktu noteikšanai katrai vietai jebkurai vēlamajai radībai. Lai noteiktu, kuru tabulu izmantot, izvēlieties to, kas ir vispiemērotākā vēlamajai radībai.
 > 
-> * **Cilvēkveidīgie:** Cilvēks, Citplanētietis (Pelēkais), Eņģelis (spārni paslēpti), Kiborgs, Punduris, Elfs, Spoks, Guls, Milzis, Puslings, Mīnotaurs, Mūmija, Mutants, Orks, Roboti (Milzu, Slepkava, Servisa), Skelets, Trollis, Vampīrs (cilvēka formā), Elementāļi (Zemes, Ūdens), Vilkatis (hibrīda formā), Zombijs
-> * **Bezformas:** Pļeka (Blob)
-> * **Četrkājainie cilvēkveidīgie:** Kentaurs
-> * **Četrkājainie:** Lācis, Suns, Gorila, Zirgs, Lauva, Tīģeris, Vienradzis, Vilks
-> * **Četrkājainie ar asti:** Citplanētietis (Ksenomorfs), Aligators vai Krokodils, Elementāls (Uguns)
-> * **Milzu četrkājainie ar asti:** Brontozaurs
-> * **Daudzlimbu:** Kalmārs (Milzu)
-> * **Čūska:** Čūskas (Žņaudzējčūska, Indīgā)
-> * **Divkājainie ar asti:** Tiranozaurs Rekss
-> * **Spārnoti:** Vanags
-> * **Spārnoti četrkājainie:** Grifons
+> * **Humanoīds:** Cilvēks, Citplanētietis (Pelēkais), Eņģelis (spārni paslēpti), Kiborgs, Rūķis, Elfs, Spoks, Guls, Milzis, Halflings, Mīnotaurs, Mūmija, Mutants, Orks, Roboti (Milzu, Slepkava, Palīgs), Skelets, Trollis, Vampīrs (cilvēka formā), Elementāli (Zemes, Ūdens), Vilkatis (hibrīdformā), Zombijs
 > 
-> Lai noteiktu dzīvības punktus katrā zonā, vai nu izmantojiet dzīvības punktu formulu, vai arī izmantojiet tabulu Dzīvības punkti katrā zonā.
+> * **Beztelpas (Formless):** Blobs
 > 
-> ##### Cilvēkveidīgie
+> * **Četrkājains humanoīds:** Kentaurs
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> * **Četrkājains:** Lācis, Suns, Gorila, Zirgs, Lauva, Tīģeris, Vienradzis, Vilks
+> 
+> * **Četrkājains ar asti:** Citplanētietis (Ksenomorfs), Aligators vai Krokodils, Elementāls (Uguns)
+> 
+> * **Milzu četrkājains ar asti:** Brontozaurs
+> 
+> * **Daudzkājains:** Kalmārs (Milzu)
+> 
+> * **Čūska:** Čūskas (Žņaudzējčūska, Indīga)
+> 
+> * **Divkājains ar asti:** Tiranozaurs Rekss
+> 
+> * **Spārnots:** Vanags
+> 
+> * **Spārnots četrkājains:** Grifs
+> 
+> Lai noteiktu dzīvības punktus katrai vietai, vai nu izmantojiet dzīvības punktu formulu, vai izmantojiet tabulu Dzīvības punkti katrā vietā.
+> 
+> ##### Humanoīds
+> 
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–4 | Labā kāja | 1/3 kopā |
-> | 5–8 | Kreisā kāja | 1/3 kopā |
-> | 9–11 | Vēders | 1/3 kopā |
-> | 12 | Krūtis | 2/5 kopā |
-> | 13–15 | Labā roka | 1/4 kopā |
-> | 16–18 | Kreisā roka | 1/4 kopā |
-> | 19–20 | Galva | 1/3 kopā |
+> | 1–4 | Labā kāja | 1/3 kopsummas |
+> | 5–8 | Kreisā kāja | 1/3 kopsummas |
+> | 9–11 | Vēders | 1/3 kopsummas |
+> | 12 | Krūtis | 2/5 kopsummas |
+> | 13–15 | Labā roka | 1/4 kopsummas |
+> | 16–18 | Kreisā roka | 1/4 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Bezformas
+> ##### Beztelpas (Formless)
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–20 | Ķermenis | Kopā |
+> | 1–20 | Ķermenis | Kopsumma |
 > 
-> ##### Četrkājainie
+> ##### Četrkājains
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–2 | Labā pakaļkāja | 1/4 kopā |
-> | 3–4 | Kreisā pakaļkāja | 1/4 kopā |
-> | 5–7 | Pakaļpuse | 2/5 kopā |
-> | 8–10 | Priekšpuse | 2/5 kopā |
-> | 11–13 | Labā priekškāja | 1/4 kopā |
-> | 14–16 | Kreisā priekškāja | 1/4 kopā |
-> | 17–20 | Galva | 1/3 kopā |
+> | 1–2 | Labā pakaļkāja | 1/4 kopsummas |
+> | 3–4 | Kreisā pakaļkāja | 1/4 kopsummas |
+> | 5–7 | Pakaļgals | 2/5 kopsummas |
+> | 8–10 | Priekšgals | 2/5 kopsummas |
+> | 11–13 | Labā priekškāja | 1/4 kopsummas |
+> | 14–16 | Kreisā priekškāja | 1/4 kopsummas |
+> | 17–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Četrkājainie cilvēkveidīgie
+> ##### Četrkājains humanoīds
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–2 | Labā pakaļkāja | 1/4 kopā |
-> | 3–4 | Kreisā pakaļkāja | 1/4 kopā |
-> | 5–6 | Pakaļpuse | 2/5 kopā |
-> | 7–8 | Priekšpuse | 2/5 kopā |
-> | 9–10 | Labā priekškāja | 1/4 kopā |
-> | 11–12 | Kreisā priekškāja | 1/4 kopā |
-> | 13–14 | Krūtis | 2/5 kopā |
-> | 15–16 | Labā roka | 1/4 kopā |
-> | 17–18 | Kreisā roka | 1/4 kopā |
-> | 19–20 | Galva | 1/3 kopā |
+> | 1–2 | Labā pakaļkāja | 1/4 kopsummas |
+> | 3–4 | Kreisā pakaļkāja | 1/4 kopsummas |
+> | 5–6 | Pakaļgals | 2/5 kopsummas |
+> | 7–8 | Priekšgals | 2/5 kopsummas |
+> | 9–10 | Labā priekškāja | 1/4 kopsummas |
+> | 11–12 | Kreisā priekškāja | 1/4 kopsummas |
+> | 13–14 | Krūtis | 2/5 kopsummas |
+> | 15–16 | Labā roka | 1/4 kopsummas |
+> | 17–18 | Kreisā roka | 1/4 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Četrkājainie ar asti
+> ##### Četrkājains ar asti
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–3 | Aste | 1/3 kopā |
-> | 4 | Labā pakaļkāja | 1/4 kopā |
-> | 5 | Kreisā pakaļkāja | 1/4 kopā |
-> | 6–9 | Pakaļpuse | 2/5 kopā |
-> | 10–14 | Priekšpuse | 2/5 kopā |
-> | 15 | Labā priekškāja | 1/4 kopā |
-> | 16 | Kreisā priekškāja | 1/4 kopā |
-> | 17–20 | Galva | 1/3 kopā |
+> | 1–3 | Aste | 1/3 kopsummas |
+> | 4 | Labā pakaļkāja | 1/4 kopsummas |
+> | 5 | Kreisā pakaļkāja | 1/4 kopsummas |
+> | 6–9 | Pakaļgals | 2/5 kopsummas |
+> | 10–14 | Priekšgals | 2/5 kopsummas |
+> | 15 | Labā priekškāja | 1/4 kopsummas |
+> | 16 | Kreisā priekškāja | 1/4 kopsummas |
+> | 17–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Milzu četrkājainie ar asti
+> ##### Milzu četrkājains ar asti
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–2 | Aste | 1/3 kopā |
-> | 3–4 | Labā pakaļkāja | 1/4 kopā |
-> | 5–6 | Kreisā pakaļkāja | 1/4 kopā |
-> | 7–10 | Pakaļpuse | 2/5 kopā |
-> | 11–14 | Priekšpuse | 2/5 kopā |
-> | 15–16 | Labā priekškāja | 1/4 kopā |
-> | 17–18 | Kreisā priekškāja | 1/4 kopā |
-> | 19–20 | Galva | 1/3 kopā |
+> | 1–2 | Aste | 1/3 kopsummas |
+> | 3–4 | Labā pakaļkāja | 1/4 kopsummas |
+> | 5–6 | Kreisā pakaļkāja | 1/4 kopsummas |
+> | 7–10 | Pakaļgals | 2/5 kopsummas |
+> | 11–14 | Priekšgals | 2/5 kopsummas |
+> | 15–16 | Labā priekškāja | 1/4 kopsummas |
+> | 17–18 | Kreisā priekškāja | 1/4 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Daudzlimbu
+> ##### Daudzkājains
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1 | Roka | 1/4 kopā |
-> | 2 | Roka 2 | 1/4 kopā |
-> | 3 | Roka 3 | 1/4 kopā |
-> | 4 | Roka 4 | 1/4 kopā |
-> | 5 | Roka 5 | 1/4 kopā |
-> | 6 | Roka 6 | 1/4 kopā |
-> | 7 | Roka 7 | 1/4 kopā |
-> | 8 | Roka 8 | 1/4 kopā |
-> | 9 | Roka 9 | 1/4 kopā |
-> | 10 | Roka | 1/4 kopā |
-> | 11–15 | Ķermenis | 2/5 kopā |
-> | 16–20 | Galva | 2/5 kopā |
+> | 1 | Roka | 1/4 kopsummas |
+> | 2 | Roka 2 | 1/4 kopsummas |
+> | 3 | Roka 3 | 1/4 kopsummas |
+> | 4 | Roka 4 | 1/4 kopsummas |
+> | 5 | Roka 5 | 1/4 kopsummas |
+> | 6 | Roka 6 | 1/4 kopsummas |
+> | 7 | Roka 7 | 1/4 kopsummas |
+> | 8 | Roka 8 | 1/4 kopsummas |
+> | 9 | Roka 9 | 1/4 kopsummas |
+> | 10 | Roka | 1/4 kopsummas |
+> | 11–15 | Ķermenis | 2/5 kopsummas |
+> | 16–20 | Galva | 2/5 kopsummas |
 > 
 > ##### Čūska
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–6 | Aste | 1/3 kopā |
-> | 7–14 | Ķermenis | 2/5 kopā |
-> | 15–20 | Galva | 1/3 kopā |
+> | 1–6 | Aste | 1/3 kopsummas |
+> | 7–14 | Ķermenis | 2/5 kopsummas |
+> | 15–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Divkājainie ar asti
+> ##### Divkājains ar asti
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–2 | Aste | 1/3 kopā |
-> | 3–5 | Labā kāja | 1/3 kopā |
-> | 6–8 | Kreisā kāja | 1/3 kopā |
-> | 9–11 | Vēders | 2/5 kopā |
-> | 12–15 | Krūtis | 2/5 kopā |
-> | 16 | Labā roka | 1/4 kopā |
-> | 17 | Kreisā roka | 1/4 kopā |
-> | 18–20 | Galva | 1/3 kopā |
+> | 1–2 | Aste | 1/3 kopsummas |
+> | 3–5 | Labā kāja | 1/3 kopsummas |
+> | 6–8 | Kreisā kāja | 1/3 kopsummas |
+> | 9–11 | Vēders | 2/5 kopsummas |
+> | 12–15 | Krūtis | 2/5 kopsummas |
+> | 16 | Labā roka | 1/4 kopsummas |
+> | 17 | Kreisā roka | 1/4 kopsummas |
+> | 18–20 | Galva | 1/3 kopsummas |
 > 
-> ##### Spārnoti
+> ##### Spārnots
 > 
-> | D20 Rullējums | Rezultāts | Formula |
+> | D20 metiens | Rezultāts | Formula |
 > | :---- | :---- | :---- |
-> | 1–3 | Labā kāja | 1/5 kopā |
-> | 4–6 | Kreisā kāja | 1/5 kopā |
-> | 7–12 | Ķermenis | 2/5 kopā |
-> | 13–15 | Labais spārns | 1/5 kopā |
-> | 16–18 | Kreisais spārns | 1/5 kopā |
-> | 19–20 | Galva | 1/4 kopā |
+> | 1–3 | Labā kāja | 1/5 kopsummas |
+> | 4–6 | Kreisā kāja | 1/5 kopsummas |
+> | 7–12 | Ķermenis | 2/5 kopsummas |
+> | 13–15 | Labais spārns | 1/5 kopsummas |
+> | 16–18 | Kreisais spārns | 1/5 kopsummas |
+> | 19–20 | Galva | 1/4 kopsummas |
 > 
-> ##### Spārnoti četrkājainie
+> ##### Spārnots četrkājains
 > 
-> | D20 Rullējums | Rezultāts |
+> | D20 metiens | Rezultāts | Formula |
+> | :---- | :---- | :---- |
+> | 1–2 | Labā pakaļkāja | 1/4 kopsummas |
+> | 3–4 | Kreisā pakaļkāja | 1/4 kopsummas |
+> | 5–7 | Pakaļgals | 2/5 kopsummas |
+> | 8–10 | Priekšgals | 2/5 kopsummas |
+> | 11–12 | Labais spārns | 1/4 kopsummas |
+> | 13–14 | Kreisais spārns | 1/4 kopsummas |
+> | 15–16 | Labā priekškāja | 1/4 kopsummas |
+> | 17–1 | Kreisā priekškāja | 1/4 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
+> 
+> ##### Spārnots, četrkājains ar asti
+> 
+> | D20 metiens | Rezultāts | Formula |
+> | :---- | :---- | :---- |
+> | 1–2 | Aste | 1/4 kopsummas |
+> | 3–4 | Labā pakaļkāja | 1/3 kopsummas |
+> | 5–6 | Kreisā pakaļkāja | 1/3 kopsummas |
+> | 7–8 | Pakaļgals | 2/5 kopsummas |
+> | 9–10 | Priekšgals | 2/5 kopsummas |
+> | 11–12 | Labais spārns | 1/4 kopsummas |
+> | 13–14 | Kreisais spārns | 1/4 kopsummas |
+> | 15–16 | Labā priekškāja | 1/3 kopsummas |
+> | 17–18 | Kreisā priekškāja | 1/3 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
+> 
+> ##### Spārnots humanoīds
+> 
+> | D20 metiens | Rezultāts | Formula |
+> | :---- | :---- | :---- |
+> | 1–3 | Labā kāja | 1/3 kopsummas |
+> | 4–6 | Kreisā kāja | 1/3 kopsummas |
+> | 7–9 | Vēders | 1/3 kopsummas |
+> | 10 | Krūtis | 2/5 kopsummas |
+> | 11–12 | Labais spārns | 1/5 kopsummas |
+> | 13–14 | Kreisais spārns | 1/5 kopsummas |
+> | 15–16 | Labā roka | 1/4 kopsummas |
+> | 17–18 | Kreisā roka | 1/4 kopsummas |
+> | 19–20 | Galva | 1/3 kopsummas |
+> 
+> Lai noteiktu dzīvības punktus katrā vietā, salīdziniet radības kopējos dzīvības punktus ar frakciju. Katrai kopējai dzīvības punktu vērtībai ir nodrošināts diapazons, un frakcijas tiek noapaļotas uz augšu, pamatojoties uz attiecīgā diapazona augšējo robežu (tādējādi 2/5 no 10–12 dod vērtību 4, 4,4 vai 4,8 un tiek noapaļota uz 5). Ja vēlama precīzāka aprēķināšana, izmantojiet iepriekš sniegtās formulas.
+> 
+> | Kopā | 2/5 (vai 40%) | 1/3 (vai 33%) | 1/4 (vai 25%) | 1/5 (vai 20%) |
+> | :---- | :---: | :---: | :---: | :---: |
+> | 1–3 | 2 | 1 | 1 | 1 |
+> | 4–6 | 3 | 2 | 2 | 1 |
+> | 7–9 | 4 | 3 | 3 | 2 |
+> | 10–12 | 5 | 4 | 3 | 2 |
+> | 13–15 | 6 | 5 | 4 | 3 |
+> | 16–18 | 8 | 6 | 5 | 3 |
+> | 19–21 | 9 | 7 | 6 | 4 |
+> | 22–24 | 10 | 8 | 6 | 4 |
+> | 25–27 | 11 | 9 | 7 | 5 |
+> | 28–30 | 12 | 10 | 8 | 5 |
+> | 31–33 | 14 | 11 | 9 | 6 |
+> | 34–36 | 15 | 12 | 9 | 6 |
+> | 37–39 | 16 | 13 | 10 | 7 |
+> | 40–42 | 17 | 14 | 11 | 7 |
+> | 43–45 | 18 | 15 | 12 | 8 |
+> | 46–48 | 20 | 16 | 12 | 8 |
+> | 49–51 | 21 | 17 | 13 | 9 |
+> | 52–54 | 22 | 18 | 14 | 9 |
+> | 55–57 | 23 | 19 | 15 | 10 |
+> | 58–60 | 24 | 20 | 15 | 10 |
+> | 61–63 | 26 | 21 | 16 | 11 |
+> | 64–66 | 27 | 22 | 17 | 11 |
+> | 67–69 | 28 | 23 | 18 | 12 |
+> | 70–72 | 29 | 24 | 18 | 12 |
+> | 73–75 | 30 | 25 | 19 | 13 |
+> | 76–78 | 32 | 26 | 20 | 13 |
+> | 79–81 | 33 | 27 | 21 | 14 |
+> | 82–84 | 34 | 28 | 22 | 14 |
+> | 85–87 | 35 | 29 | 22 | 15 |
+> | 88–90 | 36 | 30 | 23 | 15 |
+> | 91–93 | 38 | 31 | 24 | 16 |
+> | 94–96 | 39 | 32 | 24 | 16 |
+> | 97–99 | 40 | 33 | 25 | 17 |
+> | 100, utt. | 41 | 34 | 26 | 17 |

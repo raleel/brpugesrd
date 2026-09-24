@@ -1,1940 +1,1944 @@
-# 11\. Verur
+# 11. Verur
 
-Þessi kafli býður upp á fjölbreytt úrval af hugsanlegum viðureignum, hvort sem um er að ræða trausta bandamenn, trygg gæludýr, grimm dýr eða yfirnáttúrulegar verur, auk dæma um persónur úr fortíðinni, fantasíuheimum, nútímanum og framtíðinni. Það er enginn munur á veru og óleikaranum (e. nonplayer character) hvað reglur varðar—spilastjórinn lýsir þeim með frásögn og hlutverkaleik. Þær fylgja allar sömu reglum og persónur. Hins vegar táknar hver og ein þeirra dæmigert eintak og er ekki jafnvægisstillt á sama hátt og persóna leikmanns. Þú getur notað þessar verur „eins og þær eru“ eða sérsniðið þær að vild. Engar valkvæðar reglur eru notaðar í þessum lýsingum, þótt þú getir bætt við eða breytt þeim eftir þörfum (sjá Sérsnið á verum og óleikurum).
+Þessi kafli veitir fjölbreytt úrval af hugsanlegum átökum, hvort sem um er að ræða trygga bandamenn, holl dýr, grimm dýr eða yfirnáttúrulegar verur, auk dæma um persónur úr fortíðinni, fantasíuheimum, nútímanum og framtíðinni. Það er enginn munur á reglum fyrir veru eða persónu sem ekki er leikin af spilara (NPC) — leikstjórinn lýsir þeim með frásögn og hlutverkaleik. Þær fylgja allar sömu reglum og persónur. Hins vegar tákna þær hver um sig viðeigandi eintak og eru ekki jafnvægisstilltar á sama hátt og persóna spilara. Þú getur notað þessar verur „eins og þær eru“ eða sérsniðið þær eftir þörfum. Engar valkvæðar reglur eru notaðar í þessum lýsingum, þótt þú getir bætt við eða breytt þeim eftir þörfum (sjá Sérsnið veru og persóna sem ekki eru leiknar af spilurum).
 
-Allar færslur eru nefndar „verur“ til hægðarauka, þótt þær geti verið menn eða líflausar vélar.
+Allar færslur eru lýstar sem „verur“ til hægðarauka, þótt þær geti verið menn eða ólífrænar vélar.
 
-## Snið færslna
+## Snið fyrir færslur
 
-Næstum hver vera og óleikari fylgir sama sniði, þótt náttúruleg dýr séu í styttri töflu.
+Næstum hver vera og NPC fylgir sama sniði, þótt náttúruleg dýr séu í styttri töflu.
 
 * **Nafn:** Almennur titill.
 * **Lýsing:** Stuttar upplýsingar um færsluna.
-* **Eiginleikar:** Eiginleikar eru settir fram bæði sem rúllað svið og meðaltal (fyrir neðan). Sumar færslur gætu vantað eiginleika: hann er annaðhvort hverfandi eða ekki viðeigandi (sjá Verur án eiginleika).
-* **Heilsu-punktar (HP):** Venjulega meðaltal af SIZ og CON, en fyrir sumar færslur geta heilsu-punktar verið reiknaðir öðruvísi, svo sem með POW eða öðrum eiginleika. Við 1 heilsu-punkt er lifandi vera meðvitundarlaus eða á annan hátt ófær um að bregðast við, og þegar hún nær 0 eða fer niður fyrir það, deyr hún.
-* **Hreyfihraði (MOV):** Aðal hreyfiaðferðin er skráð fyrst. Verur sem eru kyrrstæðar hafa engan MOV-hraða.
-* **Skaðabónus (DM):** Meðaltalið fyrir meðalveru, ef einhver er. Endurreiknið ef þörf krefur fyrir stærri eða minni eintök.
-* **Brynja:** Brynju-gildi og tegund brynjunnar, ef einhver er.
-* **Árásir:** Tegund árásar, kunnáttustig og skaðarúlla. Fyrir árásir þýðir „+dm“ að hún sé innifalin, og „+½dm“ er þegar skaðabónusinn er hálfaður. Sérstakir bardagahæfileikar eða aðstæður eru teknar fram hér. Allar tiltækar árásir eiga sér stað á sama DEX-stigi, nema annað sé tekið fram. Almennt gerir klóárás 1D6+dm, og bit eða horn gerir 1D3+dm.
-* **Kunnátta:** Mikilvægustu hæfileikarnir fyrir meðalviðureign. Fyrir óskaráða kunnáttu hafa menn grunnlíkur sjálfkrafa, og frekari kunnáttu skal spilastjóri ákveða eftir þörfum (sjá Mæling á kunnáttustigum).
+* **Eiginleikar:** Eiginleikar eru settir fram bæði sem rúllað bil og meðaltal (hér að neðan). Sumar færslur gætu vantað eiginleika: það er annaðhvort hverfandi eða ekki viðeigandi (sjá Verur án eiginleika).
+* **Heilsu-punktar (HP):** Venjulega meðaltal af STÆ og ÞOL, fyrir sumar færslur geta heilsu-punktar verið reiknaðir öðruvísi, svo sem með MÁT eða öðrum eiginleika. Við 1 heilsu-punkt er lifandi vera meðvitundarlaus eða á annan hátt ófær, og þegar hún nær eða fer niður fyrir 0, deyr hún.
+* **Hreyfihraði (MOV):** Aðalhreyfihraðinn er talinn upp fyrst. Verur sem eru kyrrstæðar hafa engan MOV hraða.
+* **Skaðabreytir (DM):** Meðaltalið fyrir meðalveruna, ef einhver er. Endurreiknið ef þörf krefur fyrir stærri eða minni eintök.
+* **Brynja:** Brynjugildi og tegund brynju, ef einhver er.
+* **Árásir:** Árásartegund, færnieinkunn og skaðakast. Fyrir árásir þýðir „+dm“ að það er innifalið, og „+½dm“ er þegar skaðabreytingin er helminguð. Sérstakir bardagahæfileikar eða skilyrði eru tekin fram hér. Allar tiltækar árásir eiga sér stað á sama LIP-stigi, nema annað sé tekið fram. Almennt gerir klóárás 1D6+dm, og bit eða horn gerir 1D3+dm.
+* **Færni:** Mikilvægasta færni fyrir dæmigerð átök. Fyrir færni sem ekki er skráð hafa menn grunnlíkur sem sjálfgefið gildi, og viðbótarfærni ætti að vera ákveðin af leikstjóra eftir því sem við á (sjá Mæling á færnieinkunnum).
 * **Kraftar:** Allir kraftar sem meðaleintak býr yfir, með tegundum tilgreindum ef þörf krefur.
 
-Kraftapunktar eru ekki skráðir en jafngilda POW, þar sem við á.
+Kraftapunktar eru ekki skráðir en jafngilda MÁT, þar sem við á.
 
 ### Verur án eiginleika
 
-Sumar verur hafa „—“ í stað tiltekinna eiginleika, sem þýðir að það á ekki við eða hefur gildið 0. Vera án eiginleika getur ekki orðið fyrir áhrifum af árásum sem beinast gegn eða aðstæðum sem hafa áhrif á þann eiginleika. Hér eru leiðbeiningar fyrir verur sem skortir sérstaka eiginleika:
+Sumar verur hafa „—“ í stað tiltekinna eiginleika, sem þýðir að það er ekki viðeigandi eða hefur gildið 0. Vera án eiginleika getur ekki orðið fyrir áhrifum af árásum gegn eða skilyrðum sem hafa áhrif á þann eiginleika. Hér eru leiðbeiningar fyrir verur sem skortir tiltekna eiginleika:
 
-* **Styrkur (STR):** Vera án STR getur ekki átt samskipti við líkamlega hluti, nema að hreyfa sig í kringum þá.
-* **Þrek (CON):** Vera án CON er ónæm fyrir sjúkdómum, geislun, eitri og öðrum árásum sem krefjast mótstöðukasts gegn CON. Hún verður aldrei þreytt eða úrvinda. Ef hún hefur SIZ og líkamlega nærveru, byggjast heilsu-punktar hennar á öðrum eiginleika.
-* **Stærð (SIZ):** Vera án SIZ skortir líkamlegan líkama eða hefur smásjáran líkama. Hún getur yfirleitt ekki átt samskipti við líkamlega hluti. Heilsu-punktar hennar byggjast líklega á CON, ef hún hefur yfirhöfuð hefðbundna heilsu-punkta.
-* **Greind (INT):** Greindar, skynjaðar verur hafa eðlilegt svið af INT, á meðan dýr og aðrar ekki-skynjaðar verur búa yfir „föstum“ INT, yfirleitt 3–5, og stjórnast af eðlishvöt, ekki rökhugsun. Vera með fast-INT eða engan INT verður ekki fyrir áhrifum af kröftum sem hafa áhrif á rökhugsun, þó hún gæti orðið fyrir áhrifum af kröftum sem stjórna tilfinningum.
-* **Kraftur (POW):** Jafnvel án POW gæti vera enn haft kraftapunkta, en hún endurnýjar þá ekki eðlilega. Í staðinn hefur hún einhvern kraft eða sérstakan hæfileika sem gerir henni kleift að öðlast kraftapunkta. Eins og lifandi verur, þegar hún nær 0 er hún „meðvitundarlaus“ þar til hún endurheimtir einhvern veginn að minnsta kosti 1 kraftapunkt.
-* **Fimi (DEX):** Vera án DEX er annaðhvort kyrrstæð eða í raun óhreyfanleg. Ef hún hefur árás, á hún sér stað á DEX-stigi 1.
-* **Sjarmi (CHA):** Þótt allar verur hafi einhvers konar CHA, er það sjaldan viðeigandi fyrir þá sem ekki eru af sömu tegund. Ef nauðsyn krefur, úthlutið CHA byggt á 1D6 fyrir látlausar og einkennalausar verur, upp í 6D6+ fyrir verur af guðlegri fegurð. Ef við á, breytið tímabundið CHA á veru af annarri tegund um –10 meðan á samskiptum stendur við þá sem eru utan tegundar hennar.
+* **Styrkur (STY):** Vera án STY getur ekki haft samskipti við líkamlega hluti, annað en að hreyfa sig í kringum þá.
+* **Þol (ÞOL):** Vera án ÞOL er ónæm fyrir sjúkdómum, geislun, eitri og öðrum árásum sem krefjast viðnámskasts gegn ÞOL. Hún er aldrei þreytt eða úrvinda. Ef hún hefur STÆ og efnislega nærveru eru heilsu-punktar hennar byggðir á öðrum eiginleika.
+* **Stærð (STÆ):** Vera án STÆ skortir líkamlegan líkama eða hefur smásæjan líkama. Hún getur yfirleitt ekki haft samskipti við líkamlega hluti. Heilsu-punktar hennar eru líklega byggðir á ÞOL, ef hún hefur yfirhöfuð einhverja hefðbundna heilsu-punkta.
+* **Greind (GRE):** Greindar, meðvitaðar verur hafa venjulegt bil af GRE, á meðan dýr og aðrar verur án meðvitundar hafa „fasta“ GRE, almennt einkunn 3–5, og stjórnast af eðlishvöt, ekki rökhugsun. Vera með fasta GRE eða enga GRE verður ekki fyrir áhrifum af kröftum sem hafa áhrif á rökrétta hugsun, þótt hún gæti orðið fyrir áhrifum af kröftum sem stjórna tilfinningum.
+* **Mát (MÁT):** Jafnvel án MÁT getur vera samt haft kraftapunkta, en hún endurnýjar þá ekki eðlilega. Í staðinn hefur hún einhvern kraft eða sérhæfðan hæfileika sem gerir henni kleift að öðlast kraftapunkta. Eins og lifandi verur, þegar hún nær 0 er hún „meðvitundarlaus“ þar til hún á einhvern hátt nær að minnsta kosti 1 kraftapunkti aftur.
+* **Lipurð (LIP):** Vera án LIP er annaðhvort kyrrstæð eða í raun óhreyfanleg. Ef hún hefur árás á hún sér stað á LIP-stigi 1.
+* **Karisma (KAR):** Þótt allar verur hafi einhvers konar KAR, er það sjaldan viðeigandi fyrir þá sem ekki eru af sömu tegund. Ef nauðsyn krefur, úthlutaðu KAR byggt á 1D6 fyrir látlausar og ómerkilegar verur, upp í 6D6+ fyrir verur af guðlegri fegurð. Ef við á, breyttu tímabundið KAR veru af annarri tegund um –10 meðan unnið er með þeim sem eru utan hennar tegundar.
 
 > ### Verur sem persónur leikmanna (Valkostur)
->
-> Leikmenn gætu viljað upplifa leikinn með því að leika meðlimi ó-mannlegra kynþátta (þessi bestíarí kallar alla ó-menn „veru“), sérstaklega í umhverfi þar sem það á við eins og fantasíu eða vísindaskáldskap. Að vilja leika róttækt ólíkar verur en mannkynið er náttúruleg þrá í hlutverkaleikjum, og ef það fellur að vali spilastjóra á umhverfi, ætti að leyfa það. Hins vegar eru sumar verur auðveldari að leika en aðrar.
->
-> Ófullkomnar verur (þær sem skortir gildi í einum eða fleiri eiginleikum) eru oft of takmarkaðar fyrir skemmtun. Einnig gæti það verið minna skemmtilegt fyrir leikmann að leika veru þar sem INT-eiginleikinn er myndaður með rúllu sem er minni en 3D6 (eða 2D6+6).
->
-> Spilastjórinn gæti einnig letja leikmenn frá því að reyna að leika afar öflugar eða heimspekilega óaðlaðandi verur, byggt á umhverfi og viðkomandi herferð. Til dæmis, í fantasíuheimi þar sem meirihluti persóna leikmanna leikur álfana, gæti spilastjórinn ekki leyft leikmönnum að búa til tröll eða dverga sem persónur vegna þeirra átaka sem þessir (hefðbundnu) álf-óvinir munu færa hópnum. Einnig gæti nútíma hryllingsherferð þar sem leikmenn berjast við duldar ógnir verið algjörlega óviðeigandi fyrir djöfullega eða englalega persónu (þrátt fyrir að þær passi við umhverfið). Sömuleiðis, ef veran myndi valda ótilhlýðilegum erfiðleikum vegna eðlis síns, svo sem mikillar stærðar, félagslegrar fjandskapar eða menningarlegs hlutverks, ætti spilastjórinn að banna leikmönnum að velja hana sem persónu. Allar slíkar ákvarðanir eru á valdi spilastjóra, og leikmaðurinn ætti að spyrja spilastjóra hvort leyfilegt sé að leika ákveðna tegund veru í herferðinni.
->
-> Að þessum viðvörunum slepptum eru allar verur í þessum kafla kynntar með svo mikilli nákvæmni sem þarf til notkunar sem persóna, þótt spilastjórinn gæti viljað stækka þessar færslur til að henta sínu umhverfi og herferð. Gengið er út frá í flestum tilfellum að þessar tölfræði tákni fullvaxnar eða þroskaðar útgáfur veranna, sem þýðir að spilastjórinn ætti að geta takmarkað svið þeirra krafta sem eru í boði fyrir persónuútgáfu verunnar, með því að gera ráð fyrir að með tímanum gæti persónan lært þessa viðbótarkrafta og sérstöku hæfileika.
->
-> Til að velja hvort tiltekin vera henti fyrir herferðina sem persóna, ætti spilastjórinn að spyrja þriggja spurninga:
->
+> 
+> Spilarar gætu viljað upplifa leikinn með því að leika meðlimi ómannlegra kynþátta (þessi skrímslabók kallar alla sem ekki eru menn „veru“), sérstaklega í umhverfi þar sem það á við eins og fantasíu eða vísindaskáldskap. Að vilja leika verur sem eru gjörólíkar mannkyninu er eðlileg löngun fyrir hlutverkaleik, og ef það passar við val leikstjóra á umhverfi, ætti það að vera leyfilegt. Hins vegar eru sumar verur auðveldari í hlutverkaleik en aðrar.
+> 
+> Ófullkomnar verur (þær sem vantar gildi í einn eða fleiri eiginleika) eru oft of takmarkaðar til að vera skemmtilegar. Að auki gæti verið minna skemmtilegt fyrir spilara sem reynir að leika veru þar sem GRE eiginleikinn er myndaður með kasti undir 3D6 (eða 2D6+6).
+> 
+> Leikstjórinn getur einnig hvatt spilara frá því að reyna að leika afar öflugar eða heimspekilega óaðlaðandi verur, byggt á umhverfinu og tiltekinni herferð. Til dæmis, í fantasíuheimi þar sem meirihluti persóna spilara leikur álfa, gæti leikstjórinn ekki leyft spilurum að búa til tröll eða dverga sem persónur vegna átakanna sem þessir (hefðbundnu) álf-óvinir munu færa hópnum. Að auki gæti nútíma hryllingsherferð þar sem spilarar berjast við huldar ógnir verið algjörlega óviðeigandi fyrir púkalega eða englalega persónu (þrátt fyrir að það eigi við um umhverfið). Sömuleiðis, ef veran myndi valda óhæfilegum erfiðleikum vegna eðlis síns, svo sem gífurlegrar stærðar, félagslegs fjandskapar eða menningarlegs hlutverks, ætti leikstjórinn að banna spilurum að velja hana sem persónu. Allar slíkar ákvarðanir eru í höndum leikstjóra, og spilarinn ætti að spyrja leikstjóra hvort leyfilegt sé að leika ákveðna tegund af veru í herferðinni.
+> 
+> Fyrir utan þessar viðvaranir eru allar verur í þessum kafla kynntar með eins mikilli nákvæmni og þarf til notkunar sem persóna, þótt leikstjórinn gæti viljað stækka þessar færslur til að henta sínu tiltekna umhverfi og herferð. Gert er ráð fyrir í flestum tilfellum að þessar tölfræði tákni fullvaxnar eða þroskaðar útgáfur veranna, sem þýðir að leikstjórinn ætti að geta takmarkað úrval krafta sem eru í boði fyrir persónuútgáfu verunnar, með þeirri forsendu að með tímanum gæti persónan lært þessa viðbótarkrafta og sérhæfða hæfileika.
+> 
+> Til að velja hvort tiltekin vera henti fyrir herferðina sem persóna, ætti leikstjórinn að spyrja þriggja spurninga:
+> 
 > * **Er persónuútgáfa af þessari veru óviðeigandi fyrir umhverfi herferðarinnar?**
-> * **Mun þessi vera valda erfiðleikum fyrir aðra leikmenn meðan á herferðinni stendur?**
-> * **Mun þessi vera koma af stað jafnvægi restina af herferðinni?**
->
-> Ef svarið við einhverri þessara spurninga er „Já“, er spilastjóra ráðlagt að banna veruna til notkunar sem persónu, eða gera það með ströngustu skilyrðum eða sérstökum heimildum.
+> 
+> * **Mun þessi vera valda erfiðleikum fyrir aðra spilara í gegnum herferðina?**
+> 
+> * **Mun þessi vera koma af stað jafnvægisleysi í restinni af herferðinni?**
+> 
+> Ef svarið við einhverri af þessum spurningum er „Já“, er leikstjóranum ráðlagt að banna veruna til notkunar sem persónu, eða gera það með ströngustu skilyrðum eða sérstökum heimildum.
 
-> ### Geðheilsu-tap og verur
->
-> Þessi kafli inniheldur margar verur sem gætu valdið því að persónur missi geðheilsu ef þeim er horft á (sjá Geðheilsa). Eftirfarandi verur geta valdið þessu SAN-tapi þegar geðheilsu-kast er gert.
->
+> ### Geðheilbrigðistap og verur
+> 
+> Þessi kafli inniheldur margar verur sem gætu valdið því að persónur tapi geðheilsu ef þær sjást (sjá Geðheilsa). Eftirfarandi verur geta valdið þessu SAN-tapi þegar SAN-kast er gert.
+> 
 > | Vera | SAN-kast tekst | SAN-kast mistekst |
 > | :---- | :---- | :---- |
 > | Geimvera, Grá | 0 | –1D6 |
 > | Geimvera, Xenomorph | 1 | –1D8 |
 > | Engill | 0 (eða +1D3 SAN) | –1D3 |
-> | Klessa (Blob) | 1 | –1D20 |
-> | Cyborg (Gróteskur) | 0 | –1D4 |
-> | Djöfull, Stærri | 1D3 | –2D6 |
-> | Djöfull, Minni | 1 | –1D6 |
-> | Frumvera (Elemental) | 0 | –1D4 |
+> | Slím | 1 | –1D20 |
+> | Kyborg (gróteskur) | 0 | –1D4 |
+> | Púki, meiri | 1D3 | –2D6 |
+> | Púki, minni | 1 | –1D6 |
+> | Frumvera | 0 | –1D4 |
 > | Draugur | 0 | –1D4 (eða meira) |
-> | Afturganga (Ghoul) | 0 | –1D6 |
+> | Gúll | 0 | –1D6 |
 > | Múmía | 1 | –1D8 |
-> | Stökkbreyttur (Gróteskur) | 0 | –1D4 |
-> | Vélmenni, Drápsvél | 0 | –1D4 |
+> | Stökkbreyta (grótesk) | 0 | –1D4 |
+> | Vélmenni, morðingja | 0 | –1D4 |
 > | Beinagrind | 0 | –1D6 |
 > | Vampíra | 1 | –1D4 (eða meira) |
 > | Varúlfur | 0 | –1D8 |
 > | Uppvakningur | 1 | –1D8 |
->
-> Sumar náttúrulegar verur gætu valdið SAN-tapi, eftir aðstæðum. SAN-tap fer einnig eftir umhverfinu, þar sem yfirnáttúrulegar verur eru ómerkilegar í fantasíuheimi.
+> 
+> Sum náttúruleg dýr geta valdið SAN-tapi, allt eftir aðstæðum. SAN-tap fer einnig eftir umhverfinu, þar sem yfirnáttúrulegar verur eru ómerkilegar í fantasíuheimi.
 
 ## Náttúruleg dýr
 
-Þessar verur eru flestum leikmönnum kunnar og því beinast lýsingar þeirra eingöngu að leikreglum. Þetta eru almenn dæmi frekar en ákveðnar tegundir eða afbrigði, og hægt er að breyta þeim að vild.
+Þessar verur eru flestum spilurum kunnar og því einblína lýsingar þeirra aðeins á leikjavélar. Þessar tákna almenn dæmi frekar en ákveðnar tegundir eða stofna, og hægt er að breyta þeim eftir þörfum.
 
 ##### Náttúrulegar verur
 
-| Nafn | STR | CON | SIZ | POW | DEX | MOV | Brynja | HP | DM | Árás og %, Skaði | Kunnátta |
+| Nafn | STY | ÞOL | STÆ | MÁT | LIP | MOV | Brynja | HP | DM | Árás og %, Skaði | Færni |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
-| Allígator eða Krókódíll | 4D6+12 | 3D6+6 | 4D6+12 | 3D6 | 2D6 | G.7 S.6 | 5 pt. húð | 22 | +2D6 | Bit 50%, 1D10+dm | Dodge 30%, Hide 50%, Search 35%, Sense 30%, Stealth 75%, Track 15% |
-| Björn | 3D6+10 | 2D6+6 | 3D6+10 | 3D6 | 3D6 | G.12 S.2 | 3 pt. feldur | 17 | +2D6 | Bit 25%, 1D10; Kló 25%, 1D6+dm | Climb 35%, Move Quietly 35%, Search 35%, Sense 35% |
-| Brontosaur | 4D10+40 | 2D10+30 | 4D10+50 | 1D6+8 | 1D6 | G.7 | 14 pt. húð | 57 | +7D6 | Halaskopp 50%, 1D6+½dm; Trample 75%, 7D6+dm | Listen 35%, Sense 30%, Spot 35% |
-| Kondór, Örn o.fl. | 3D6+12 | 3D6 | 3D6+6 | 2D6+6 | 2D6+12 | F.14 G.2 | 1 pt. fjaðrir | 14 | +1D6 | Bit 45%, 1D6; Kló 45%, 1D6+dm | Dodge 50%, Sense 25%, Search 90% |
-| Hundur | 2D6 | 3D6 | 1D6+1 | 2D6 | 2D6+6 | G.10 S.6 | — | 7–8 | –1D4 | Bit 30%, 1D6+½dm | Dodge 55%, Listen 75%, Sense 90% |
-| Fíll | 6D6+34 | 3D6+16 | 6D6+42 | 2D6+6 | 3D6 | G.10 S.2 | 4-pt. húð | 45 | +6D6 | Trample 50%, 4D6+dm; Plunge 25%, 6D6+dm; Ráni 50%, constriction; Horn 25%, 2D6+dm | Listen 65%, Search 35%, Sense 55% |
-| Gorilla | 4D6+12 | 3D6+6 | 2D6+12 | 2D6 | 3D6+6 | G.12 S.2 | 3-pt. feldur | 16 | +2D6 | Bit 45%, 2D6; Glíma 45%, 3D6+dm | Climb 70%, Hide 40%, Listen 35%, Move Quietly 60%, Search 30%, Sense 40% |
-| Haukur | 1D3 | 2D4 | 1D2 | 2D6 | 3D6+18 | F.12 G.1 | — | 4 | –1D6 | Kló 45%, 1D4+dm; | Dodge 75%, Spot 100% |
-| Hestur | 3D6+18 | 2D6+6 | 4D6+12 | 3D6 | 3D6 | G.12 S.2 | 1-pt. húð | 20 | +2D6 | Spark 20%, 2D8+dm; Plunge 10%, 2D6+dm; Bit 10%, 1D6 | Dodge 45%, Hide 25%, Move Quietly 25%, Sense 80% |
-| Skordýrasvermur | — | — | — | — | — | F.12 G.10 | — | — | — | Sjá lýsingu | Search 50% |
-| Ljón | 2D6+12 | 3D6 | 3D6+6 | 2D6+6 | 2D6+12 | G.10 S.2 | 2-pt. húð | 14 | +1D6 | Bit 40%, 1D10; Kló 60%, 1D6+dm; Rif 80%, 2D6+dm | Dodge 20%, Hide 20%, Listen 30%, Sense 40%, Track 15% |
-| Rottupakk | — | — | — | — | — | G.10 S.6 | — | — | — | # af pökkum ×5%, 1D3 skaði | Climb 75%, Search 75%, Swim 75% |
-| Hákarl | 3D6+12 | 2D6+9 | 3D6+12 | 3D6 | 2D6+3 | S.10 | 5-pt. húð | 19-20 | +2D6 | Bit 75%, 2D6+dm; Fínuspark 50%, 2D3+½dm | Sense 95%, Swim 100% |
-| Slanga (Kyrkislanga) | 3D6+12 | 2D6+6 | 5D6 | 3D6 | 2D6+6 | S.6 V.4 | 1-pt. húð | 15–16 | +1D6 | Bit 65%, 1D4+½dm; Kyrkja 40%, 1D6+dm; Gleypti 100%, sérstakt | Climb 85%, Dodge 60%, Hide 75%, Sense 75%, Stealth 90%, Swim 70% |
-| Slanga (Eiturslanga) | 2D4 | 2D6 | 2D4 | 1D8 | 3D6 | S.6 V.4 | — | 6 | –1D6 | Bit 70%, 1D2+½dm + eitur | Climb 50%, Dodge 50%, Hide 80%, Sense 65%, Stealth 90%, Swim 70% |
-| Smokkfiskur (Risastór) | 10D6 | 2D6+6 | 10D6 | 3D6 | 2D6+12 | S.10 G.4 | 2-pt. húð | 24 | +3D6 | Goggur 45%, 1D10+½dm + eitur; Tentakla 45%, 1D6+dm | Hide 70%, Swim 100% |
-| Tígur | 3D6+12 | 3D6 | 3D6+6 | 3D6 | 2D6+12 | G.12 | 2-pt. húð | 13–14 | +1D6 | Bit 45%, 1D10+½dm; Kló 70%, 1D8+dm; Rif 80%, 2D8+dm | Dodge 45%, Hide 80%, Jump 55%, Stealth 75%, Sense 70%, Track 50% |
-| Tyrannosaurus Rex | 10D6+32 | 4D6+21 | 6D6+32 | 2D6+6 | 2D6+9 | G.12 | 10-pt. húð | 44 | +6D6 | Bit 50%, 2D6+dm; Kló 35%, 1D4+½dm; Spark 45%, 1D6+dm | Jump 50%, Listen 45%, Sense 35%, Spot 50%, Track 50% |
-| Úlfur | 2D6+6 | 3D6 | 2D6+1 | 3D6 | 2D6+6 | G.10 | 2-pt. feldur | 9–10 | — | Bit 30%, 1D8+½dm | Dodge 35%, Listen 75%, Sense 90%, Spot 60%, Track 80% |
-
-(Athugið: G=Gangandi, S=Sund, F=Fljúgandi, V=Vélandi)
-
----
+| Alligator eða Krókódíll | 4D6+12 25w | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Gang 7 Sund 6 | 5 pt. húð | 22 | +2D6 | Bit 50%,1D10+dm | Vik 30%, Fela 50%, Leita 35%, Skyn 30%, Læðast 75%, Rekja 15% |
+| Björn | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Gang 12 Sund 2 | 3 pt. feldur | 17 | +2D6 | Bit 25%, 1D10; Kló 25%, 1D6+dm | Klifra 35%, Hljóðlega 35%, Leita 35%, Skyn 35% |
+| Brontosaur | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Gang 7 | 14 pt. húð | 57 | +7D6 | Halaskopp 50%, 1D6+½dm; Troða 75%, 7D6+dm | Hlusta 35%, Skyn 30%, Spotta 35% |
+| Kondór, Örn o.fl. | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Flug 14 Gang 2 | 1 pt. fjaðrir | 14 | +1D6 | Bit 45%,1D6; Kló 45%, 1D6+dm | Vik 50%, Skyn 25%, Leita 90% |
+| Hundur | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Gang 10 Sund 6 | — | 7–8 | –1D4 | Bit 30%, 1D6+½dm | Vik 55%, Hlusta 75%, Skyn 90% |
+| Fíll | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Gang 10 Sund 2 | 4-pt. skinn | 45 | +6D6 | Troða 50%, 4D6+dm; Stinga 25%,6D6+dm; Hrammur 50%, þrenging; Horn 25%, 2D6+dm | Hlusta 65%, Leita 35%, Skyn 55% |
+| Gorylla | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Gang 12 Sund 2 | 3-pt. feldur | 16 | +2D6 | Bit 45%, 2D6; Glíma 45%, 3D6+dm | Klifra 70%, Fela 40%, Hlusta 35%, Hljóðlega 60%, Leita 30%, Skyn 40% |
+| Haukur | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Flug 12 Gang 1 | — | 4 | –1D6 | Kló 45%, 1D4+dm; | Vik 75%, Spotta 100% |
+| Hestur | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Gang 12 Sund 2 | 1-pt. húð | 20 | +2D6 | Spark 20%, 2D8+dm; Stinga 10%, 2D6+dm; Bit 10%, 1D6 | Vik 45%, Fela 25%, Hljóðlega 25%, Skyn 80% |
+| Skordýrasvermur | — | — | — | — | — | Flug 12 Gang 10 | — | — | — | Sjá lýsingu. | Leita 50% |
+| Ljón | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Gang 10 Sund 2 | 2-pt. skinn | 14 | +1 D6 | Bit 40%, 1D10; Kló 60%. 1D6+dm; Rífa 80%, 2D6+dm | Vik 20%, Fela 20%, Hlusta 30%, Skyn 40%, Rekja 15% |
+| Rottuhópur | — | — | — | — | — | Gang 10 Sund 6 | — | — | — | Fjöldi hópa ×5%, 1D3 skaði | Klifra 75%, Leita 75%, Sund 75% |
+| Hákarl | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Sund 10 | 5-pt skinn | 19-20 | +2D6 | Bit 75%, 2D6+dm; Finna 50%, 2D3+½dm | Skyn 95%, Sund 100% |
+| Slanga (vafi) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Skríða 6 Sund 4 | 1-pt. skinn | 15–16 | +1D6 | Bit 65%, 1D4+½dm; Vafa 40%, 1D6+dm; Gleypa 100%, sérstakt | Klifra 85%, Vik 60%, Fela 75%, Skyn 75%, Læðast 90%, Sund 70% |
+| Slanga (eitrað) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Skríða 6 Sund 4 | — | 6 | –1D6 | Bit 70%, 1D2+1/2dm (spjót) + eitur. | Klifra 50%, Vik 50%, Fela 80%, Skyn 65%, Læðast 90%, Sund 70% |
+| Smokkfiskur (risastór) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Sund 10 'Gang' 4 | 2-pt. húð | 24 | +3D6 | Goggur 45%, 1D10+½dm + eitur; Tentakla 45%, 1D6+dm | Fela 70%, Sund 100% |
+| Tígur | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Gang 12 | 2-pt. skinn | 13–14/ | +1D6 | Bit 45%, 1D10+½dm; Kló 70%, 1D8+dm; Rífa 80%, 2D8+dm | Vik 45%, Fela 80%, Hoppa 55%, Læðast 75%, Skyn 70%, Rekja 50% |
+| Tyrannosaurus Rex | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Gang 12 | 10-pt. húð | 44/ | +6D6 | Bit 50%, 2D6+dm; Framkló 35%, 1D4+½dm; Spark 45%, 1D6+dm | Hoppa 50%, Hlusta 45%, Skyn 35%, Spotta 50%, Rekja 50% |
+| Úlfur | 2D6+6 13 | 3D6 10-11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Gang 10 | 2-pt. feldur | 9–10 | — | Bit 30%, 1D8+½dm | Vik 35%, Hlusta 75%, Skyn 90%, Spotta 60%, Rekja 80% |
 
 ### Athugasemdir um náttúruleg dýr
 
-Flest náttúruleg dýr hafa rudimentær greind (INT 3–5), berjast sjaldan til dauða og eru yfirleitt landhelg í hegðun. Ef sérstakur árangur er rúllaður fyrir hvaða árás sem er, eru bit og klær skurðárásir (sjaldan stungur), tentaklar og kyrking eru þrýstings- og krömpunarárásir, trampl eða spörk eru mulið-árásir og geta hugsanlega valdið knockback (byggt á SIZ verunnar). Fyrir verur með eitur er það fjallað um í **Eitri** í kafla sjö. Árásir eru settar fram í röð eftir valkostum. Verur án Dodge-kunnáttu geta ekki Dodge-að eða kunnáttan á ekki við. Skaðabónusar eru meðaltal; breytið ef STR eða SIZ gefur til kynna annað.
+Flest náttúruleg dýr hafa frumstæða greind (GRE 3–5), berjast sjaldan til dauðs og eru almennt svæðisbundin í hegðun. Ef sérstakur árangur er kastaður fyrir einhverja árás eru bit og klær skerandi (sjaldan spjótandi), tentaklur og vafi eru flækjandi og kremjandi, troðningar eða spörk eru kremjandi og valda hugsanlega afturkippum (byggt á STÆ verunnar). Fyrir verur með eitur er það fjallað um í **Eitri** í sjöunda kafla: Spot Rules. Árásir eru settar fram í forgangsröð. Verur án Vik-færni annaðhvort vikja ekki eða færnin á ekki við. Skaðabreytingar eru meðaltal; breyttu ef STY eða STÆ gefa til kynna annað.
 
-**Allígator eða Krókódíll:** Allígatorar eru minni og veikari (–1D6 á STR og SIZ), hafa minni kjálka (1D8+dm), og eru minna árásargjarnir en krókódílar.
+**Alligator eða krókódíll:** Alligatorar eru minni og veikari (–1D6 á STY og STÆ), hafa minni kjálka (1D8+dm), og eru minna árásargjarnir en krókódílar.
 
-**Björn:** Birnir geta ráðist tvisvar í hverri umferð, annaðhvort með tveimur aðskildum klóárásum eða einni kló- og einni bitárás. Grizzlies eru stærri, sterkari (STR +1D6, CON +2, SIZ +2, +1 brynja), og grimmari (+10% í bardagakunnáttu). Ísbirnir eru stærri og öflugri (STR +2D6, CON +1D6+2, SIZ +2D6, +3 brynja, +20% í árásarkunnáttu, Sund 80%).
+**Björn:** Birnir geta ráðist tvisvar í umferð, með því að nota annaðhvort tvær aðskildar klóárásir eða eina kló- og eina bitárás. Grizzlies eru stærri, sterkari (STY +1D6, ÞOL +2, STÆ +2, +1 brynja), og harðari (+10% á bardagafærni). Ísbirnir eru stærri og öflugri (STY +2D6, ÞOL +1D6+2, STÆ +2D6, +3 brynja, +20% á árásarfærni, Sund 80%).
 
-**Brontosaur:** Brontosaurar geta ráðist einu sinni í umferð, með halaskoppi eða trampli ef þeir eru á hreyfingu. Halaskoppið er svæðis-áhrifa árás. Trampl er aðeins notað gegn skotmörkum sem eru liggjandi eða hafa SIZ minna en 1/3 af SIZ brontosaurans.
+**Brontosaur:** Brontosaurar geta ráðist einu sinni á umferð, með því að nota halaskopp eða troðning ef þeir eru á ferðinni. Halaskoppið er árás á svæði. Troðning er aðeins notuð gegn skotmörkum sem eru liggjandi eða hafa STÆ sem er minni en 1/3 af STÆ brontosaursins.
 
-**Hundur:** Villtir hundar mynda pakka af 1D8+3 eða fleiri. Fyrir stærri hunda, notaðu tölfræði fyrir úlfa.
+**Hundur:** Villtir hundar mynda hópa af 1D8+3 eða fleiri. Fyrir stærri hunda, notaðu tölfræði fyrir úlfa.
 
-**Fíll:** Þótt þeir kjósi að einfaldlega ráðast eða troða niður, getur fíll ráðist með ráni sínum. Ef svo er, verður enginn skaði. Í staðinn verður skotmarkið að gera mótstöðukast á STR sinni gegn hálfum STR fílsins. Ef það mistekst, eru þeir settir í stöðu til að verða sjálfkrafa trampaðir í næstu umferð. Að öðrum kosti getur fíllinn hent fórnarlambinu í burtu, sem gerir fallskaða byggðan á einum metra á hverja 3 punkta af STR fílsins. Fyrir hverja 6 SIZ punkta sem fórnarlambið hefur yfir 16, falla þeir tvo metra nær og taka minni skaða.
+**Fíll:** Þótt þeir kjósi frekar að hlaða eða troða, getur fíll ráðist með hramminum. Ef svo er, enginn skaði gerður. Í staðinn verður skotmarkið að gera viðnámskast á STY sinni gegn helmingi af STY fílsins. Ef það mistekst, eru þeir settir í stöðu til að verða sjálfkrafa troðnir í næstu umferð. Að öðrum kosti getur fíllinn kastað fórnarlambinu burt, sem veldur fallskaða byggt á einum metra á hver 3 stig af STY fílsins. Fyrir hver 6 STÆ stig sem fórnarlambið hefur yfir 16, falla þeir tvo metra nær og taka minni skaða.
 
-**Gorilla:** Gorilla getur ráðist tvisvar í hverri umferð. Hún getur slegið tvisvar með hnefunum, bitið og slegið, eða bitið og glímt. Ef glíma tekst, grípur hún skotmarkið og gerir fullan skaðabónus í hverri umferð. Við glímu getur hún haldið áfram að bita, auðveld árás. Kvenkyns gorilla er minni en karlkyns (–1D6 á STR og SIZ).
+**Gorylla:** Gorylla getur ráðist tvisvar í hverri umferð. Hún getur slegið tvisvar með hnefunum, bitið og slegið, eða bitið og glímt. Ef glíma tekst, grípur hún skotmarkið og gerir sinn fulla skaðabreyti í hverri umferð. Ef hún glímir, getur hún haldið áfram að bíta, auðveld árás. Kvenkyns goryllur eru minni en karlkyns (–1D6 á STY og STÆ).
 
-**Haukur:** Haukur ræðst með báðum klóm samtímis og bitar 5 DEX-stigum síðar.
+**Haukur:** Haukur ræðst með báðum klóm samtímis og bítur 5 LIP-stigum síðar.
 
-**Hestur:** Hestar sem ekki eru þjálfaðir til bardaga flýja þegar þeir mæta blóði, eldi, byssuskotum, öskrum eða sprengingum. Stríðshestar eru þjálfaðir fyrir ofbeldi og halda velli ef knapinn tekst með Ride-kasti. Stríðshestar eru yfirleitt ræktaðir fyrir harðgerð (+2 á STR, CON og SIZ).
+**Hestur:** Hestar sem ekki eru þjálfaðir fyrir bardaga flýja þegar þeir mæta blóði, eldi, byssuskotum, öskrum eða sprengingum. Stríðshestar eru þjálfaðir fyrir ofbeldi og halda velli ef knapinn tekst með Ríðandi-athugun. Stríðshestar eru venjulega ræktaðir fyrir harðgerð (+2 á STY, ÞOL og STÆ).
 
-**Skordýrasvermur:** Stærð búans ákvarðar fjölda stungna sem gerðar eru í hverri umferð. Lítið geitungabú getur stungið 1D6 sinnum í hverri umferð, upp í risavaxið býflugnabú eða maurahaug sem gerir 8D6. Hægt er að laga teningagerðina eftir alvarleika eitursins (1 pt fyrir minniháttar ertingu upp í D10 fyrir grimm skordýr). Hver persóna sem verður fyrir svermi er sjálfkrafa stungin rúllaðan fjölda skipta í hverri bardagahring þar til hún sleppur, fælir burt eða eyðir sverminum. Skordýrasvermsárásir vara í 2D6 bardagahringi áður en þær gefast upp. Nema skotmörk séu alveg þakin eða inni í einhverju, er engin vörn gegn skordýrasvermi. Erfitt Dodge-kast getur forðast skordýrasvermi, eða aðrar leiðir (eldur, reykur, eitur, o.fl.) geta verið notaðar til að fæla þá burt. Allur hlífðarbúnaður sem persónan gæti verið í mun draga úr fjölda stungna á hverja D6, þar sem léttur búnaður dregur úr hverjum teningi um –1, býflugnabúnaður um –4, og alger þekja þýðir engar stungur. Þegar stungin er, byggist eiturstuðullinn á tegund skordýrs: býflugur eru 20, geitungar 15, hermannamaurar 10. Deildu heildarfjölda stungna með eiturstuðlinum til að fá eiturvirkni (POT). Eftir 1D6 klukkustundir verður hver stungin persóna að gera mótstöðukast á CON gegn POT eitursins. Ef tekst, standast þau POT eitursins og taka helming af POT eitursins (námunda upp) í heilsu-punktaskaða. Ef þeim mistekst mótstöðukastið, taka þau fulla virkni eitursins sem heilsu-punktaskaða. Árangursrík inngrip með móteitri eða samsvarandi meðferð getur dregið úr fjölda stungna um annan 1D4–1 á hverja 1D6, með farsælu First Aid-kasti og réttum læknisvörum. Persóna með farsælt First Aid-kast getur gert annað Erfitt Chemistry-kast til að búa til móteitur úr tiltækum efnum eða efnum (sjá **Móteitur fyrir eitur**).
+**Skordýrasvermur:** Stærð býflugnabúsins ákvarðar fjölda stingja sem valdið er í hverri umferð. Lítið geitungabú getur stungið 1D6 sinnum á umferð, allt upp í stórt býflugnabú eða maurahaug sem gerir 8D6. Hægt er að breyta teningagerðinni út frá alvarleika eitursins (1 pt. fyrir væga ertingu allt upp í D10 fyrir grimm skordýr). Hver persóna sem verður fyrir árás af svermi er sjálfkrafa stungin þann fjölda skipta sem rúllað var í hverri bardagaumferð þar til hún sleppur, fælir burt eða eyðir sverminum. Skordýrasvermur ræðst í 2D6 bardagaumferðir áður en hann gefst upp. Nema skotmörkin séu alveg þakin eða lokuð er engin vernd gegn skordýrasvermi. Erfitt Vik-kast getur forðast skordýrasvermi, eða aðrar leiðir (eldur, reykur, eitur o.s.frv.) geta verið notaðar til að fæla þá burt. Allur hlífðarbúnaður sem persónan gæti verið í mun draga úr fjölda stingja á hvern D6, þar sem léttur búnaður dregur hvern tening um –1, býflugnabúnaður um –4, og alveg þakinn þýðir engir stingir yfirhöfuð. Þegar stungið hefur verið, er eiturþátturinn byggður á tegund skordýrs: býflugur eru 20, geitungar 15, hermaurar 10. Deildu heildarfjölda stingja með eiturþættinum til að fá eiturvirkni (POT). Eftir 1D6 klukkustundir verður hver stungin persóna að gera viðnámskast á ÞOL gegn POT eitursins. Ef það tekst, standast þeir POT eitursins og taka helminginn af POT eitursins (námundað upp) í heilsu-punktatapi. Ef þeim mistekst viðnámskastið, taka þeir fulla virkni eitursins sem heilsu-punktatap. Árangursrík inngrip með móteitri eða samsvarandi meðferð getur dregið úr fjölda stingja um önnur 1D4–1 á hvern 1D6, með farsælli Fyrstu hjálp-athugun og réttum læknisbirgðum. Persóna með farsæla Fyrstu hjálp-athugun getur gert aðra Erfiða Efnafræði-athugun til að búa til móteitur úr tiltækum efnum eða efnum (sjá **Móteitur fyrir eitur**).
 
-**Ljón:** Ljón getur gert eina klóárás og eina bitárás í hverri bardagahring. Ef báðar árásir hitta, heldur ljónið sér fast fyrir næstu umferð og heldur áfram að bita. Í stað þess að klóra, rífur það með afturfótarklóunum.
+**Ljón:** Ljón getur gert eina klóárás og eina bitárás í hverri bardagaumferð. Ef báðar árásirnar hitta, heldur ljónið fast fyrir næstu umferð og heldur áfram að bíta. Í stað þess að klóra, rífur það með afturfótarklóunum.
 
-**Rottupakk:** Hvert „pakk“ samanstendur af tíu rottum. Margfaldaðu fjölda rottupakka með ×5: þessi útkoma er árásarlíkur fyrir hvert pakk í hverri bardagahring (rúllað fyrir hvert pakk). Hver farsæl árás gerir 1D3 skaða á fætur og/eða kvið (ef líkamshlutar eru notaðir). Sérstakir árangrar gera skurðskaða. Hægt er að Dodge-a rottupakkaárás en ekki parera. Árásir gegn þeim eru Erfiðar, en farsæl árás drepur sjálfkrafa eina rottu og rekur burt restina af því pakki, sem dregur úr áhrifamætti frekari árása. Rottubit geta einnig verið sýkt (sjá Sjúkdómar).
+**Rottuhópur:** Hver „hópur“ samanstendur af tíu rottum. Margfaldaðu fjölda rottuhópa með ×5: þessi niðurstaða er árásarlíkur fyrir hvern hóp í hverri bardagaumferð (rúllaðu fyrir hvern hóp). Hver farsæl árás gerir 1D3 skaða á fætur og/eða kvið (ef staðsetningar eru notaðar). Sérstakir árangrar gera skerandi skaða. Hægt er að vikja fyrir rottuhópsárás en ekki verja. Árásir gegn þeim eru Erfiðar, en farsæl árás drepur sjálfkrafa eina rottu og fælir burt restina af þeim hópi, sem dregur úr árangri frekari árása. Rottubit geta einnig verið sýkt (sjá Sjúkdómar).
 
-**Hákarl:** Ef bit hákarls mistekst eða er Dodge-að, reynir hann fínuspark 5 DEX-stigum síðar. Ef bit hákarls er parerað eða hittir, reynir hann ekki fínuspark. Eftir farsæla bitárás halda sumir hákarlar (eins og hvíthákarar) áfram að bita og velta sér um í næstu bardagahringum (auðveld árás fyrir sama skaða) þar til þeim er hrundið burt eða skotmarkið deyr. Risahákarl hefur STR og SIZ 6D6+24, CON 4D6+18, 39 heilsu-punkta og +5D6 skaðabónus.
+**Hákarl:** Ef bit hákarls mistekst eða er vikist fyrir því, reynir hann finnu-skurð fimm LIP-stigum síðar. Ef bit hákarls er varið eða hittir, reynir hann ekki finnu-skurð. Eftir farsæla bitárás halda sumir hákarlar (eins og hvíthákarlar) áfram að bíta og sprikla um í næstu bardagaumferðum (auðveld árás fyrir sama skaða) þar til þeir eru losaðir eða fórnarlambið deyr. Risahákarl hefur STY og STÆ 6D6+24, ÞOL 4D6+18, 39 heilsu-punkta og +5D6 skaðabreyti.
 
-**Slanga (Kyrkislanga):** Kyrkislanga getur ráðist tvisvar í bardagahring, fyrst bit og síðan reynt kyrkingu 5 DEX-stigum síðar. Ef kyrkingarárásin hittir, er skotmarkið vafið í hringi kyrkislöngunnar. Skotmarkið getur gapað en getur ekki hrópað eða öskrað. Hver hringur kyrkingar gerir skaða á heilsu-punkta skotmarksins (brjóstsvæði). Aðeins stíf brjóstbrynja (ef brynja eftir líkamshlutum er notuð) dregur úr þessum skaða. Ef útlimur er laus, getur skotmarkið gert Erfiðar árásir gegn kyrkislöngunni. Ef enginn útlimur er laus, getur skotmarkið ekki ráðist undir flestum kringumstæðum (spilastjóri ákveður). Til að losna alveg úr kyrkingu verður skotmarkið að gera farsælt mótstöðukast á STR sinni gegn STR kyrkislöngunnar, í stað þess að ráðast í umferð. Fyrir hlutafrelsi losar Erfitt Agility-kast einn handlegg eða annan útlim. Kyrkt skotmark verður að tekst með Stamina-kast eða falla í yfirlið. Þegar skotmark er annaðhvort meðvitundarlaust eða dautt, gleypir kyrkislangan það heilt. Nema það sé í öndunarbúnaði sem lifði af að verða mulið, kafnar skotmarkið. Risastór kyrkislanga bætir +2D6 við STR og SIZ, hefur 19 heilsu-punkta, +2D6 skaðabónus og 4-punkta hreystihúð.
+**Slanga (vafi):** Vafari getur ráðist tvisvar í bardagaumferð, fyrst bíta og síðan reynt vafa 5 LIP-stigum síðar. Ef vafa-árásin hittir, er skotmarkið vafið í hringi vafarans. Skotmarkið getur gapað en getur ekki hrópað eða öskrað. Hver umferð af vafa gerir skaða á heilsu-punkta skotmarksins (brjóstsvæði). Aðeins stíft brjóstsvæðisbrynja (ef brynja eftir staðsetningu er notuð) dregur úr þessum skaða. Ef limur er laus, getur skotmarkið gert Erfiðar árásir gegn vafaranum. Ef enginn limur er laus, getur skotmarkið ekki ráðist undir flestum kringumstæðum (í höndum leikstjóra). Til að losna alveg úr vafa verður skotmarkið að gera farsælt viðnámskast á STY sinni gegn STY vafarans, í stað þess að ráðast í umferð. Fyrir hlutafrelsi losar Erfið Lipurðar-athugun einn handlegg eða annan lim. Vafið skotmark verður að takast með Þol-kasti eða falla í yfirlið. Þegar skotmark er annaðhvort meðvitundarlaust eða dautt, gleypir vafarinn það heilt. Nema það sé með öndunarbúnað sem lifði af því að verða mulið, kafnar skotmarkið. Risavafari bætir +2D6 við STY og STÆ, hefur 19 heilsu-punkta, +2D6 skaðabreyti, og 4-punkta hreystihúð.
 
-**Slanga (Eiturslanga):** Ráðfærðu þig við hlutana um **Eitur** og **Dæmi um eitur** fyrir frekari upplýsingar um ýmsar tegundir eiturslangna. Risastór eiturslanga hefur STR og SIZ 4D6+12, 17 heilsu-punkta og +2D6 skaðabónus.
+**Slanga (eitrað):** Skoðaðu kaflana um **Eitur** og **Dæmi um eitur** fyrir frekari upplýsingar um ýmsar tegundir eitraðra slanga. Risaeiturslanga hefur STY og STÆ 4D6+12, 17 heilsu-punkta, og +2D6 skaðabreyti.
 
-**Smokkfiskur (Risastór):** Smokkfiskur getur ráðist á allt að fimm mismunandi skotmörk samtímis með goggnum og tíu tentaklum. Eitur smokkfisksins hefur POT sem jafngildir CON hans. Fyrsta tentaklan sem nær að hitta skotmark heldur í það, og þegar önnur tengist, kyrkja þær tvær skotmarkið þar til það getur sloppið eða skorið sig laust (hver tentakla hefur 2 heilsu-punkta). Hver tentakla sem er eftir í kringum skotmark gerir eðlilegan skaða í hverri bardagahring. Til að sleppa úr tentaklu, gerðu farsælt mótstöðukast á STR vs. STR smokkfisksins, eða Erfitt Effort-kast til að fá hönd lausa til að ráðast á. Árásir gegn smokkfiski meðan verið er að halda á honum með tentaklunum eru Erfiðar. Leviathan-stór smokkfiskur sem er fær um að ráðast á báta og hvali hefur SIZ og STR +1D6 á hvern metra af auknu spann frá tentakluodd til odds, sem eykur heilsu-punkta og skaðabónus í samræmi við það.
+**Smokkfiskur (risastór):** Smokkfiskur getur ráðist á allt að fimm mismunandi skotmörk samtímis með goggi sínum og tíu tentaklum. Eitur smokkfisksins hefur POT sem jafngildir ÞOL hans. Fyrsta tentaklan sem hittir skotmark heldur í það, og þegar önnur tengist, þrengja þær tvær að skotmarkinu þar til skotmarkið getur sloppið eða skorið sig laust (hver tentakla hefur 2 heilsu-punkta). Hver tentakla sem er eftir um skotmark gerir eðlilegan skaða í hverri bardagaumferð. Til að sleppa úr tentaklu, gerðu farsælt viðnámskast á STY vs. STY smokkfisksins, eða Erfiða Erfiðis-athugun til að losa hönd til að ráðast. Árásir gegn smokkfiski meðan hann er haldinn af tentaklum hans eru Erfiðar. Risastór smokkfiskur sem getur tekist á við báta og hvali hefur STÆ og STY +1D6 á hvern metra af aukinni lengd frá tentakluenda til enda, sem eykur heilsu-punkta og skaðabreyti í samræmi við það.
 
-**Tígur:** Tígur getur gert tvær samtímis klóárásir og eina bitárás í hverri bardagahring. Bitið kemur 5 DEX-stigum eftir klóárásirnar. Ef báðar klærnar hitta skotmarkið, heldur tígurinn sér fast og rífur með afturfótarklóunum í næstu umferð meðan hann heldur áfram að bita.
+**Tígur:** Tígur getur gert tvær samtímis klóárásir og eitt bit í hverri bardagaumferð. Bitið kemur 5 LIP-stigum á eftir klóárásunum. Ef báðar klærnar hitta skotmarkið, heldur tígurinn í og rífur með afturfótarklóunum í næstu umferð meðan hann heldur áfram að bíta.
 
-**Tyrannosaurus Rex:** Tyrannosaurus ræðst fyrst með biti. Ef tekst, 5 DEX-umferðum síðar ræðst hann með báðum framklóm til að grípa skotmarkið fyrir frekara rif. Fyrir stærri skotmörk skiptir hann framklóárásunum út fyrir eina sparkárás, stundum jafnvel klifra upp á skotmarkið og ráðast með biti og tveimur spörkum í næstu bardagahring.
+**Tyrannosaurus Rex:** Tyrannosaurus ræðst fyrst með því að bíta. Ef það tekst, 5 LIP-stigum síðar ræðst hann með báðum framklóm til að grípa skotmarkið fyrir frekari rifningu. Fyrir stærri skotmörk kemur hann framklóárásunum í staðinn fyrir eina sparkárás, stundum jafnvel klifrar hann upp á skotmarkið og ræðst með biti og tveimur spörkum í næstu bardagaumferð.
 
-**Úlfur:** Úlfar veiða í pakk sem eru frá tug upp í 40 eða fleiri. Í bardaga munu úlfar oft berjast í samvinnu. Nokkrir úlfar gætu ráðist á sama skotmark samtímis, sem tryggir að sumir verði ekki pareraðir eða Dodge-aðir. Einn eða tveir stórir úlfar gætu reynt að fella skotmarkið (sjá Knockdown). Þegar skotmarkið er liggjandi, hópast aðrir til að rífa í það. Spilastjóri gæti einnig notað þessa tölfræði til að tákna stóran hund.
+**Úlfur:** Úlfar veiða í hópum allt frá tug upp í 40 eða fleiri. Í bardaga berjast úlfar oft saman. Nokkrir úlfar gætu ráðist á sama skotmark samtímis, sem tryggir að sumum sé ekki varið eða vikist fyrir. Einn eða tveir stórir úlfar gætu reynt að fella skotmarkið sitt (sjá Niðurfelling). Þegar skotmarkið er liggjandi, hópast aðrir að til að rífa í það. Leikstjórinn getur einnig notað þessa tölfræði til að tákna stóran hund.
 
 ## Fantasíuverur
 
-Þessar eru algengar í fantasíu- og hryllingsumhverfi, og hægt er að nota þær sem bandamenn, óvini eða jafnvel persónur, breyttar að vild.
+Þessar eru algengar í fantasíu- og hryllingsumhverfi, og hægt er að nota þær sem bandamenn, óvini eða jafnvel persónur spilara, breyttar eftir þörfum.
 
 ### Kentár
 
-Hálfur maður, hálfur hestur, sagður vera vitur og kyrrlát vera, vörður fróðleiks, fínir handverksmenn, miklir tónlistarmenn og harðir stríðsmenn. Þeir búa á sléttum eða í skógum, og blandast frjálst við menn, stundum þjónandi sem leiðbeinendur eða verndarar.
+Hálf-mennsk, hálf-hests verur, sagðar vera vitrar og sveitasælar, varðveislumenn fræða, fínir iðnaðarmenn, frábærir tónlistarmenn og harðir stríðsmenn. Þeir búa á sléttum eða í skógum, og blandast frjálslega við menn, stundum sem leiðbeinendur eða verndarar.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6 | 4D6+12 | 2D6+6 | 3D6 | 3D6+3 | 3D6 |
 | 16–17 | 10–11 | 26 | 13 | 10–11 | 13–14 | 10–11 |
 
 | Hreyfing 12 | Heilsu-punktar 19 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 (maður); +2D6 (hestur) | **Brynja** 1-punkta húð (getur klæðst brynju) |
+| **Skaðabreytir** +1D4 (mennskur); +2D6 (hestur) | **Brynja** 1-punkts húð (getur klæðst brynju) |
 
 **Árásir:**
 
-* Samsettur bogi 45%, 1D8+1+½dm (stungur)
-* Spjót 35%, 1D10+1+dm (stungur)
-* Bastard-sverð 40%, 1D10+1+dm (skurður)
-* Skjöldur 50%, 1D2+dm (knockback)
-* Spark 50%, 1D6+dm (mulið)
-* Bak og steypa 35%, 2D8+dm (mulið)
-* Trampl 25%, 2D6+dm (mulið)
+* Samsettur bogi 45%, 1D8+1+½dm (spjótandi)
+* Lens 35%, 1D10+1+dm (spjótandi)
+* Bastard-sverð 40%, 1D10+1+dm (skerandi)
+* Markskjöldur 50%, 1D2+dm (afturkippur)
+* Spark 50%, 1D6+dm (kremjandi)
+* Afturkippur og stinga 35%, 2D8+dm (kremjandi)
+* Troða 25%, 2D6+dm (kremjandi)
 
-Kentár getur sparkað 5 DEX-stigum eftir að hafa slegið með nær-bardagavopni, þó ekki þegar hann hleypur með spjóti. Skaðabónus þeirra með nær-bardagavopnum byggist á STR ×2, en er eðlilegur fyrir spörk, trampl eða hlaup.
+Kentár getur sparkað 5 LIP-stigum eftir að hafa slegið með nær-bardagavopni, þó ekki þegar hlaupið er með lensu. Skaðabreytir þeirra með nær-bardagavopnum er byggður á STY ×2, en eðlilegur fyrir spörk, troðningar eða hlaup.
 
-**Kraftar:** Kentárar kjósa galdra fram yfir galdrakúnstir (sorcery). Kentár með nægan POW fyrir galdra hefur eftirfarandi galdra: Enhance 35%, Heal 60%, Illusion 45%, Perception 40% og Vision 50%.
+**Kraftar:** Kentárar kjósa töfra fram yfir galdra. Kentár með nægilegt MÁT fyrir töfra hefur eftirfarandi galdra: Aukning 35%, Lækna 60%, Tæling 45%, Skynjun 40%, og Sýn 50%.
 
-**Kunnátta:** Appraise 50%, Bargain 35%, Command 25%, Dodge 35%, Etiquette 35%, Insight 40%, First Aid 40%, Jump 60%, Knowledge (History) 50%, Listen 35%, Perform (Lyre) 35%, Sense 50%, Spot 40%, Swim 35%, Track 25%.
+**Færni:** Meta 50%, Prútta 35%, Skipun 25%, Vik 35%, Etikett 35%, Innsæi 40%, Fyrsta hjálp 40%, Hoppa 60%, Þekking (Saga) 50%, Hlusta 35%, Flytja (Lýra) 35%, Skyn 50%, Spotta 40%, Sund 35%, Rekja 25%.
 
 ### Drekinn
 
-Risavaxnar, eldspúandi fljúgandi skriðdýr með risastórar klær og tennur, harðgerð brynjuð húð, drekar eru einrænir verur, lifandi einir og eyðileggja sveitina í kringum sig. Sumir drekar eru greindir, en margir eru aðeins kæn dýr. Þeir eru oft safnarar, geyma gull eða aðra fjársjóði í hellum sínum. Þessi tölfræði táknar dýrslegan dreka. Drekar geta verið af mismunandi tegundum, aðgreindir eftir lit og anda-vopni (sjá hér að neðan). Sumir drekar gætu jafnvel verið ófleygir eða hafa verulega mismunandi eiginleika.
+Risavaxnar, eld-öndandi fljúgandi skriðdýr með stórum klóm og tönnum, harðri brynjuhúð, drekar eru einfarar, lifa einir og eyðileggja nærliggjandi sveitir. Sumir drekar eru gáfaðir, en margir eru aðeins slægir dýr. Þeir eru oft safnarar, safna gulli eða öðrum fjársjóðum í bælum sínum. Þessi tölfræði táknar dýrslegan dreka. Drekar geta verið af mismunandi tegundum, greindir eftir lit og öndunarvopni (sjá hér að neðan). Sumir drekar gætu jafnvel verið ófleygir eða haft umtalsvert mismunandi eiginleika.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 20D6 | 10D6 | 20D6 | 10 | 4D6+6 | 3D6 |
 | 70 | 35 | 70 | 10 | 20 | 10–11 |
 
 | Hreyfing 4 (10 fljúgandi) | Heilsu-punktar 53 |
 | :---- | :---- |
-| **Skaðabónus** +8D6 | **Brynja** 12-punkta hreystir |
+| **Skaðabreytir** +8D6 | **Brynja** 12-punkta skeljar |
 
 **Árásir:**
 
-* Eldöndun 75%, 4D6+sérstakt (sjá hér að neðan)
-* Bit 65%, 3D6+dm (stungur)
-* Kló 50%, 1D6+dm (blæðing)
-* Hali 50%, 1D6+½dm (mulið)
+* Anda eldi 75%, 4D6+sérstakt (sjá hér að neðan)
+* Bit 65%, 3D6+dm (spjótandi)
+* Kló 50%, 1D6+dm (blæðandi)
+* Hali 50%, 1D6+½dm (kremjandi)
 
-Drekar ráðast með því að fljúga yfir og blása eld niður á skotmörk sín. Eldur drekans nær yfir svæði þriggja metra í þvermál með drægni sem jafngildir POW drekans í metrum (sjá **Svæðisárásir**), en brynja mun verja gegn þessum skaða. Ef líkamshlutar eru notaðir, hefur eldurinn áhrif á alla líkamshluta: 4D6 er rúllað einu sinni; og deilið skaða á líkamshluta. Drekinn verður að eyða 1D6 kraftapunktum (eða þreytupunktum) til að blása eld. Að auki er hvert skotmark sem hittist líklegt til að kvikna í því. Þegar flogið er, hefur drekinn aðeins anda-árás sína nema hann fari í nær-bardaga við loftborið skotmark.
+Drekar ráðast með því að fljúga yfir og sprengja eld niður á skotmörk sín. Eldur drekans nær yfir svæði þrjá metra í þvermál með drægni sem jafngildir MÁT drekans í metrum (sjá **Svæðisárásir**), en brynja mun vernda gegn þessum skaða. Ef staðsetningar eru notaðar, hefur eldurinn áhrif á öll svæði: 4D6 er rúllað einu sinni; og deildu skaða á milli staðsetninga. Drekinn verður að eyða 1D6 kraftapunktum (eða þreytupunktum) til að æla eldi. Að auki er líklegt að skotmark sem hittist kvikni í því. Þegar hann flýgur, hefur drekinn aðeins öndunarárás sína nema hann fari í nær-bardaga við fljúgandi skotmark.
 
-Þegar á jörðu niðri getur dreki gert tvær árásir í hverri bardagahring: hann getur annaðhvort bitið eða blásið eld fyrir eina árás og mun annaðhvort nota klóárás eða halasveiflu fyrir hina. Seinni árásin er 5 DEX-stigum eftir þá fyrri. Halasveifluárás drekans er meðhöndluð sem svæðis-áhrifa árás (sjá *Kafli sjö: Spot Rules*).
+Þegar hann er á jörðinni getur dreki gert tvær árásir í hverri bardagaumferð: hann getur annaðhvort bitið eða andað eldi fyrir eina árás og mun annaðhvort nota klóárás eða halasveiflu fyrir hina. Seinni árásin er 5 LIP-stigum á eftir þeirri fyrri. Halasveifluárás drekans er meðhöndluð sem svæðisárás (sjá *Sjöundi kafli: Spot Rules*).
 
-**Kunnátta:** Dodge 35%, Fly 100%, Listen 65%, Sense 50%, Spot 60%, Track 45%.
+**Færni:** Vik 35%, Flug 100%, Hlusta 65%, Skyn 50%, Spotta 60%, Rekja 45%.
 
-**Kraftar:** Drekar eru ákaft töfrandi verur. Greindir drekar hafa INT upp á 4D6 og þekkja galdra eða galdrakúnstir. Ef svo er, hefur drekinn viðbótar kunnáttu svo sem Speak Language, ýmsa þekkingu, og jafnvel Appraise. Drekar gætu einnig haft önnur andavopn en eld (sjá Energy Projection).
+**Kraftar:** Drekar eru mjög töfrandi verur. Gáfaðir drekar hafa GRE upp á 4D6 og þekkja töfra eða galdra. Ef svo er, hefur drekinn viðbótarfærni svo sem Tala tungumál, ýmsar þekkingar, og jafnvel Meta. Drekar geta einnig haft önnur öndunarvopn en eld (sjá Orkuframkvæmd).
 
 ### Dvergur
 
-Dvergar búa hefðbundið neðanjarðar í hellum og neðanjarðar katakombum. Þeir eru frægir fyrir skapofsa, fínt handverk, fornar gremjur, óhóflega drykkju og löng skegg. Þeir leggja metnað sinn í ættir sínar, og munur á hinum ýmsu ættbálkum dverga er verulegur.
+Dvergar búa hefðbundið neðanjarðar í hellum og grafhýsum. Þeir eru frægir fyrir stutt skap, fína iðn, fornar gremju, óhóflega drykkju og löng skegg. Þeir stoltir af ættum sínum, og munur á ýmsum ættbálkum dverga er verulegur.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 1D6+12 | 1D4+4 | 2D6+6 | 3D6 | 3D6 | 3D6 |
 | 14 | 15–16 | 6–7 | 13 | 10–11 | 10–11 | 10–11 |
 
 | Hreyfing 6 | Heilsu-punktar 12 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 8 punktar (keðja og léttur hjálmur) |
+| **Skaðabreytir** Enginn | **Brynja** 8 punktar (keðja og léttur hjálmur) |
 
 **Árásir:**
 
-* Hamar 35%, 1D6+dm (mulið)
-* Battleaxe 50%, 1D8+2+dm (blæðing)
-* Þungur krossbogi 40%, 2D4+2 (stungur)
-* Buckler 50%, 1D2+dm (knockback)
+* Hamar 35%, 1D6+dm (kremjandi)
+* Bardagaöxi 50%, 1D8+2+dm (blæðandi)
+* Þungur krossbogi 40%, 2D4+2 (spjótandi)
+* Buckler 50%, 1D2+dm (afturkippur)
 
-**Kunnátta:** Appraise 50%, Bargain 45%, Brawl 50%, Craft (blacksmithing) 45%, Dodge 40%, Grapple 45%, Knowledge (Dwarf-lore) 35%, Language (Human) 35%, Language (Dwarf) 65%, Listen 45%, Repair (weapons and armor) 35%, Spot 45%, Status 35%, Throw 35%.
+**Færni:** Meta 50%, Prútta 45%, Berjast 50%, Iðn (smiður) 45%, Vik 40%, Glíma 45%, Þekking (Dverga-fræði) 35%, Tungumál (mennsku) 35%, Tungumál (dvergnesku) 65%, Hlusta 45%, Viðgerð (vopn og brynja) 35%, Spotta 45%, Staða 35%, Kasta 35%.
 
-**Kraftar:** Hefðbundið forðast dvergar galdra, þó sumir noti galdra eða galdrakúnstir. Dvergar hafa náttúrulegan hæfileika eins og Super Sense (Dark Vision), með stigum sem jafngilda ½ (námunda upp) POW þeirra.
+**Kraftar:** Hefðbundið forðast dvergar töfra, þótt sumir noti töfra eða galdra. Dvergar hafa náttúrulegan hæfileika eins og Super Sense (myrkursýn), með stigum sem jafngilda ½ (námundað upp) af MÁT þeirra.
 
 ### Álfur
 
-Álfar eru hefðbundið skógarbúar með sterkt samband við náttúruna og villuna. Þeir lifa lengi, stundum jafnvel eilíflega, og eru oft fjarlægir og dularfullir. Það eru margar tegundir af álfum, frá þeim sem búa í villtu skógunum, asketískum háálfum, og þeim sem ferðast um höfin.
+Álfar eru hefðbundið skógarbúar með sterka tengingu við náttúruna og villtina. Þeir eru langlífir, stundum jafnvel ódauðlegir, og eru oft fjarlægir og dularfullir. Það eru margar tegundir álfa, frá þeim sem dvelja í villtum skógum, asketískir háálfar, og þeir sem sigla um sjóinn.
 
-Menn og álfar mynda stundum sambönd, þótt afkvæmi séu óalgeng. Hálf-álfar erfa eiginleika frá öðru hvoru foreldri. Til að búa til hálf-álf, rúllaðu hverjum eiginleika eins og fyrir báðar tegundir og taktu meðaltalið (námunda upp). Allir meðfæddir kraftar úr álf-línunni eru hálfaðir eða meðaltalsreiknaðir, eftir því sem við á.
+Menn og álfar mynda stundum sambönd, þótt afkvæmi séu sjaldgæf. Hálf-álfar erfa eiginleika frá hvoru foreldri. Til að búa til hálf-álf, rúllaðu hverjum eiginleika eins og fyrir báðar tegundir og meðaltalaðu niðurstöðuna (námundað upp). Allir meðfæddir kraftar frá álf-ættinni eru helmingaðir eða meðaltalaðir, eftir því sem við á.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+2 | 3D6 | 2D4+4 | 3D6+6 | 2D6+6 | 3D6+3 | 3D6 |
 | 9 | 10–11 | 9 | 16–17 | 13 | 13–14 | 10–11 |
 
 | Hreyfing 11 | Heilsu-punktar 10 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 1 punktur (mjúkt leður) |
+| **Skaðabreytir** Enginn | **Brynja** 1 punktur (mjúkt leður) |
 
 **Árásir:**
 
-* Langbogi 55%, 1D8+1+½dm (stungur)
-* Stutt sverð 45%, 1D6+1+dm (blæðing)
-* Stutt spjót 40%, 1D6+1+dm (stungur)
-* Stutt spjót (kastað) 55%, 1D6+1+½dm (stungur)
+* Langbogi 55%, 1D8+1+½dm (spjótandi)
+* Stuttsverð 45%, 1D6+1+dm (blæðandi)
+* Stutt spjót 40%, 1D6+1+dm (spjótandi)
+* Stutt spjót (kastað) 55%, 1D6+1+½dm (spjótandi)
 
-**Kunnátta:** Climb 65%, Dodge 55%, First Aid 45%, Hide 35%, Jump 45%, Knowledge (Elf-lore) 45%, Language (Human) 40%, Language (Elvish) 85%, Listen 55%, Perform (Sing) 35%, Sense 30%, Spot 45%, Stealth 45%, Swim 35%, Track 40%.
+**Færni:** Klifra 65%, Vik 55%, Fyrsta hjálp 45%, Fela 35%, Hoppa 45%, Þekking (Álf-fræði) 45%, Tungumál (mennsku) 40%, Tungumál (álfnesku) 85%, Hlusta 55%, Flytja (Syngja) 35%, Skyn 30%, Spotta 45%, Læðast 45%, Sund 35%, Rekja 40%.
 
-**Kraftar:** Álfar nota algengt galdra og hafa náttúrulegan hæfileika eins og Super Sense (Night Vision) með stigum sem jafngilda ½ POW þeirra (námunda upp). Algengir galdrar fyrir álf eru Dispel 45%, Heal 50%, Illusion 35%, Perception 60%, Resistance 50% og Vision 60%.
+**Kraftar:** Álfar nota almennt töfra og hafa náttúrulegan hæfileika eins og Super Sense (nætursýn) með stigum sem jafngilda ½ af MÁT þeirra (námundað upp). Algengir töfrar fyrir álf eru Aflýsa 45%, Lækna 50%, Tæling 35%, Skynjun 60%, Viðnám 50%, og Sýn 60%.
 
 ### Draugur
 
-Draugur er andlegur leifar af lifandi veru sem er enn bundin við heim hinna lifandi, meðvituð eða ómeðvituð um dauðlegt eðli sitt. Þeir ganga í gegnum staði (kastala, herragarða, kirkjugarða o.fl.), hluti (vopn, farartæki o.fl.) eða jafnvel ákveðna manneskju, yfirleitt tengt dauða þeirra eða fyrra lífi. Flestir draugar eru illgjarnir og hata hið lifandi. Draugar eru oft vitlausir, knúnir af löngun til að leiðrétta hvaða ranglæti sem þeir telja að hafi verið framið gegn þeim svo þeim gæti verið leyft að „fara yfir“ á hærra plan. Draugur gæti ekki einu sinni skilið þessa þvingun.
+Draugur er andleg leif lifandi veru sem enn er tengd heimi hinna lifandi, meðvituð eða ómeðvituð um dauðlegt eðli sitt. Þeir ásækja staði (kastala, setur, kirkjugarða o.s.frv.), hluti (vopn, farartæki o.s.frv.) eða jafnvel ákveðna manneskju, venjulega tengd dauða þeirra eða fyrra lífi. Flestir draugar eru illgjarnir og hata hina lifandi. Draugar eru oft geðveikir, drifnir áfram af löngun til að leiðrétta hvaða ranglæti sem þeir telja að hafi verið framið gegn þeim svo að þeir gætu fengið að „fara yfir“ á hærra plan. Draugur gæti jafnvel ekki skilið þessa þvingun.
 
-Draugar geta birst sem wispy Humanoid fígúrur, glóandi birtingarmyndir, fast-útlítandi verur, skýjaðar fígúrur, höfuðlausar verur, farartæki, dýr o.fl. Þeir eru þekktir undir mörgum nöfnum: andar, skuggar, spókar, draugar, póltergeistar, birtingarmyndir, fantómar, specter, fantasíur o.fl.
+Draugar geta birst sem þokukenndar mannverur, ljómandi birtingarmyndir, fastar verur, skýjaðar fígúrur, höfuðlausar verur, farartæki, dýr o.s.frv. Þeir eru þekktir undir mörgum nöfnum: andar, skuggar, uppvakningar, reimleikar, poltergeists, draugamyndir, vofur, o.s.frv.
 
-Draugar eru oft mótaðir af kringumstæðum dauða þeirra og umhverfi. Hér eru nokkrir valkostir og tillögur um notkun drauga í umhverfi:
+Draugar mótast oft af aðstæðum dauða þeirra og umhverfi þeirra. Hér eru nokkrir valkostir og tillögur um notkun drauga í umhverfi:
 
-* Draugar endurlausnar gætu birst sem fígúrur úr fortíð persónu, mælandi bölvun. Eða þeir gætu verið dregnir að því að vernda einhvern sem þeir elskuðu í lífinu, veitandi hjálp og aðstoð á tíma mikillar þarfar.
-* Draugur gæti birst sem andlegur ráðgjafi, flytjandi skilaboð frá hærra valdi. Þessir ógna eða skaða sjaldan hið lifandi og gætu jafnvel veitt leiðsögn og leiðsögn.
-* Póltergeist getur verið ofbeldisfullur, hent hlutum og fórnarlömbum telekinetískt um herbergi og notað hluti sem eiginlega vopn.
-* Drauga-farartæki hafa tilhneigingu til að birtast á sama stað á sama tíma og dagsetningu ítrekað. Að fara um borð í drauga-lest eða skip er yfirleitt aðferð við flutning á aðra vídd eða tíma. Persónur sem gera þetta gætu horfið að eilífu eða gætu þurft að leysa draugaganginn áður en þeim er sleppt.
-* Heil bygging gæti sjálf verið draugur. Ef leyndardómur eða dökkt leyndarmál byggingarinnar uppgötvast, gæti byggingin sjálf horfið að eilífu.
+* Draugar endurlausnar gætu birst sem fígúrur úr fortíð persónu, sem segja fyrir um varsann. Eða þeir gætu verið dregnir að því að vernda einhvern sem þeir elskuðu í lífinu, veita hjálp og aðstoð á tímum mikillar þarfar.
+* Draugur gæti birst sem andlegur ráðgjafi, komið skilaboðum frá æðri mætti. Þeir ógna eða skaða sjaldan hina lifandi og gætu jafnvel veitt leiðsögn og leiðsögn.
+* Poltergeist getur verið ofbeldisfullur, kastað hlutum og fórnarlömbum með fjarkrafti um herbergi og notað hluti sem eiginlega vopn.
+* Draugafarartæki birtast tilhneigingu til að birtast á sama stað á sama tíma og dagsetningu ítrekað. Að fara um borð í draugalest eða skip er venjulega aðferð til samgangna við aðra vídd eða tíma. Persónur sem gera þetta gætu horfið að eilífu eða þurft að leysa reimleikann áður en þeim er sleppt.
+* Heil bygging gæti sjálf verið draugur. Ef leyndardómur byggingarinnar eða dökka leyndarmál uppgötvast, gæti byggingin sjálf horfið að eilífu.
 
-Draugar búa yfirleitt aðeins yfir INT og POW, þótt sumir draugar gætu haft CHA. Draugur gæti hins vegar verið fastur, og haft eiginleika (STR, SIZ og DEX) eins og lifandi vera, þótt hann muni aldrei hafa CON-gildi. Sumir efnislegir draugar gætu ekki einu sinni vitað að þeir séu dánir.
+Draugar búa venjulega aðeins yfir GRE og MÁT, þótt sumir draugar gætu haft KAR. Draugur gæti hins vegar verið fastur, og haft eiginleika (STY, STÆ og LIP) eins og lifandi vera, þótt hann muni aldrei hafa ÞOL-gildi. Sumir efnislegir draugar gætu ekki einu sinni vitað að þeir séu dauðir.
 
-| INT | POW | CHA |
+| GRE | MÁT | KAR |
 | :---- | :---- | :---- |
 | 2D6+6 | 4D6 | 3D6 |
 | 13 | 14 | 10–11 |
 
-| Hreyfing 14 (jafngildir POW) | Heilsu-punktar Ekkert |
+| Hreyfing 14 (jafnt og MÁT) | Heilsu-punktar Engir |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert (óefnislegur, sjá hér að neðan). |
+| **Skaðabreytir** Enginn | **Brynja** Engin (óefnisleg, sjá hér að neðan). |
 
 **Árásir:**
 
-* Draugabardagi POW vs. POW, 1D3 kraftapunktar (sjá hér að neðan).
+* Drauglegur bardagi MÁT vs. MÁT, 1D3 kraftapunktar (sjá hér að neðan).
 
-**Kraftar:** Draugar geta ráðist í draugabardaga, POW vs. POW mótstöðukast. Þetta lítur út eins og draugurinn sé að klóra, umlykja eða á annan hátt líkamlega ráðast á skotmarkið. Ef draugurinn sigrast á POW skotmarksins, tapar skotmarkið 1D3 kraftapunktum (sumir draugar geta valdið heilsu-punktaskaða í staðinn). Ef draugurinn sigrast, tapar hann 1D3 kraftapunktum. Öflugri draugar gætu dregið 1D6 kraftapunkta (eða meira) frá skotmarki, en tapa aðeins 1D3 kraftapunktum ef þeir sigrast af skotmarkinu. Þessi bardagi heldur áfram í hverri bardagahring þar til skotmarkið er meðvitundarlaust, eða hvorug hlið hefur flúið. Ólíkt vampírum, tapast dregnu kraftapunktarnir einfaldlega. Draugur flýr áður en hann nær 0 kraftapunktum. Ef draugur minnkar skotmark í 0 kraftapunkta, getur hann tekið sér bólfestu í þeim, yfirleitt veldur því að skotmarkið fremur sjálfsmorð eða skaðar aðra manneskju. Jafnvel þótt draugur taki sér bólfestu í skotmarki, er hann enn bundinn við staðinn þar sem hann gengur og getur ekki farið.
+**Kraftar:** Draugar geta ráðist í drauglegum bardaga, MÁT vs. MÁT viðnámskasti. Þetta lítur út eins og draugurinn sé að klóra í, hylja, eða á annan hátt líkamlega ráðast á skotmarkið. Ef draugurinn sigrar MÁT skotmarksins, tapar skotmarkið 1D3 kraftapunktum (sumir draugar geta valdið heilsu-punktaskaða í staðinn). Ef draugurinn er sigraður, tapar hann 1D3 kraftapunktum. Öflugri draugar gætu tæmt 1D6 kraftapunkta (eða meira) af skotmarki, en tapa aðeins 1D3 kraftapunktum ef þeir eru sigraðir af ætluðu skotmarki. Þessi bardagi heldur áfram í hverri bardagaumferð þar til skotmarkið er meðvitundarlaust, eða hvorug hliðin hefur flúið. Ólíkt vampírum, eru tæmdir kraftapunktar einfaldlega tapaðir. Draugur flýr áður en hann nær 0 kraftapunktum. Ef draugur minnkar skotmark niður í 0 kraftapunkta, getur hann tekið sér bólfestu í því, sem venjulega veldur því að skotmarkið fremur sjálfsmorð eða skaðar aðra manneskju. Jafnvel þótt draugur taki sér bólfestu í skotmarki, er hann áfram bundinn við staðsetningu reimleika síns og getur ekki farið.
 
-Til viðbótar við draugabardaga, gæti draugur haft aðra krafta sem henta fyrra lífi hans og hlutverki í umhverfinu. Draugar eru óefnislegir og eru ekki háðir takmörkunum Intangibility-ofurkraftsins. Hefðbundnir kraftar innihalda sálræna krafta svo sem Cryokinesis, Mind Blast, Mind Control, Pyrokinesis, Telekinesis, eða ofurkrafta svo sem Drain, Energy Control, Invisibility, Teleport og Weather Control. Draugar gætu verið viðkvæmir fyrir göldrum, galdrakúnstum, sálrænum kröftum eða ofurkröftum.
+Auk drauglegs bardaga gæti draugur haft aðra krafta sem henta fyrra lífi hans og hlutverki í umhverfinu. Draugar eru óefnislegir og eru ekki háðir takmörkunum á fjarkrafts-superpower. Hefðbundnir kraftar innihalda sálræna krafta eins og Cryokinesis, Mind Blast, Mind Control, Pyrokinesis, Telekinesis, eða stórkrafta eins og Drain, Energy Control, Invisibility, Teleport, og Weather Control. Draugar gætu verið viðkvæmir fyrir töfrum, galdra, sálrænum kröftum, eða stórkröftum.
 
-**Kunnátta:** Eftir því sem við á.
+**Færni:** Eftir því sem við á.
 
-### Afturganga (Ghoul)
+### Gúll
 
-Afturgöngur eru hrollvekjandi afmyndaðir menn sem nærast á hinum dánu, fastir á milli lífs og dauða. Þær eru dýrslegar í skapi og hafa litla leiðbeinandi greind. Flestar afturgöngur skortir POW, þar sem þær myndast þegar illgjarn andi tekur sér bólfestu í nýdauðu líki. Líkamanum er breytt, hann lifnar við, og verður nú að gleypa hold (lifandi eða dautt) til viðhalds.
+Gúllar eru hryllilega aflagaðir menn sem nærast á hinum dauðu, fastir á milli lífs og dauða. Þeir eru dýrslegir í skapi og hafa litla leiðbeinandi greind. Flesta gúlla skortir MÁT, myndaðir þegar illgjarn andi tekur sér bólfestu í nýdauðu líki. Líkamanum er umbreytt, lífgað við, og verður nú að nærast á holdi (lifandi eða dauðu) til viðurværis.
 
-Afturgöngur öðlast kraftapunkta með því að neyta líka, á hraðanum 1 kraftapunktur á hverja 3 SIZ punkta sem gleyptir eru. Afturganga verður að eyða 1 kraftapunkti á hverjum morgni eða hrynja, andi hennar neyddur til að snúa aftur til annars heimsins. Ef þetta gerist, rotnar líkami afturgöngunnar hratt, þar sem hún er loks dauð. Að auki þvingar hver klukkustund af sólarljósi afturgöngu til að eyða 1 kraftapunkti. Undir venjulegum kringumstæðum mun afturganga hafa 2D6+6 kraftapunkta geymda.
+Gúllar öðlast kraftapunkta með því að neyta líka, á hraðanum 1 kraftapunktur á hver 3 STÆ-stig sem neytt er. Gúll verður að eyða 1 kraftapunkti á hverjum morgni eða hrynja, andi hans neyddur til að snúa aftur til annars heimsins. Ef þetta gerist, rotna lík gúllanna hratt, þar sem hann er að lokum dauður. Að auki, hver klukkustund af sólarljósi neyðir gúll til að eyða 1 kraftapunkti. Undir venjulegum kringumstæðum mun gúll hafa 2D6+6 kraftapunkta í geymslu.
 
-| STR | CON | SIZ | INT | DEX |
+| STY | ÞOL | STÆ | GRE | LIP |
 | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+6 | 3D6 | 3D6 |
 | 14 | 10–11 | 13 | 10–11 | 10–11 |
 
 | Hreyfing 8 | Heilsu-punktar 12 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert (getur klæðst brynju) |
+| **Skaðabreytir** +1D4 | **Brynja** Engin (getur klæðst brynju) |
 
 **Árásir:**
 
-* Kló 30%, 1D6+dm (blæðing)
-* Bit 30%, 1D6+dm (blæðing) + eitur (sjá hér að neðan)
-* Öskur 100%, sérstakt (sjá hér að neðan)
+* Kló 30%, 1D6+dm (blæðandi)
+* Bit 30%, 1D6+dm (blæðandi) + eitur (sjá hér að neðan)
+* Ól 100%, sérstakt (sjá hér að neðan)
 
-Afturganga ræðst samtímis með báðum klóm og biti. Þegar hún bítur, sprautar afturgangan skotmarkið með eitri með POT sem jafngildir CON hennar. Skotmarkið verður að gera mótstöðukast á CON vs. POT eitursins. Ef skotmarkið tapar, fer fullt POT eitursins í kerfi þeirra. Ef þeim tekst að standast, er aðeins 1D3 af POT eitursins sprautað. Þegar heildar POT sprautað er jafnt eða meira en CON bitins skotmarks, eru þeir lamaðir þar til móteitur vinnur gegn eitrinu. Hin óheppna persóna verður í þessu ástandi í eins marga daga og hún hefur CON punkta, og tapar 1 CON-punkti á hverjum degi. Persóna sem er bitin af afturgöngu (en ekki lömuð) hreinsar eitrið úr kerfi sínu á hraðanum 1 POT á dag.
+Gúll ræðst samtímis með báðum klóm og biti. Þegar hann bítur, sprautar gúllinn skotmarkið með eitri með POT sem jafngildir ÞOL hans. Skotmarkið verður að gera viðnámskast á ÞOL sinni vs. POT eitursins. Ef skotmarkið tapar, fer fullt POT eitursins inn í kerfi þeirra. Ef þeir standast farsællega, er aðeins 1D3 af POT eitursins sprautað. Þegar heildar POT sem sprautað er er jafnt eða meira en ÞOL stunginnar persónu, verða þeir lamaðir þar til móteitur vinnur gegn eitrinu. Óheppna persónan verður í þessu ástandi í eins marga daga og hún hefur stig af ÞOL, og tapar 1 stigi af ÞOL á hverjum degi. Persóna sem gúll bítur (en er ekki lömuð) hreinsar eitrið úr kerfi sínu á hraðanum 1 POT á dag.
 
-Afturgöngur nota blóðkaldandi öskur í bardaga gegn hverjum sem er innan ½ CON afturgöngunnar í metrum (námunda upp). Þegar afturganga öskrar, gerðu mótstöðukast á núverandi kraftapunktum hennar gegn INT hvers skotmarks. Ef fleiri en ein afturganga öskrar, notaðu kraftapunktasummu þeirrar afturgöngu sem hefur flesta kraftapunkta. Ef skotmarki er sigrast, verða þeir stunaðir þar til öll öskur hætta. Ef persóna stendst áhrif öskursins, verður hún að reyna aftur í næstu umferð. Persóna sem stendst farsællega öskrið í fimm samfelldar bardagahringi verður tímabundið ónæm fyrir áhrifum þess (spilastjóri ákveður). Öskur afturgöngunnar kostar 1 kraftapunkt. Töfrar sem heita Countermagic og Resist Magic vernda ekki gegn öskri afturgöngu.
+Gúllar nota blóðkaldan ól í bardaga gegn hverjum sem er innan ½ af ÞOL gúllsins í metrum (námundað upp). Þegar gúll ölar, gerðu viðnámskast á núverandi kraftapunktum hans gegn GRE hvers skotmarks. Ef fleiri en einn gúll ölar, notaðu kraftapunktatölu gúllsins með flesta kraftapunkta. Ef skotmark er sigrað, verða þeir gáttaðir þar til öll ólun hættir. Ef persóna stendur gegn áhrifum ólsins, verða þeir að reyna aftur í næstu umferð. Persóna sem stendur farsællega gegn í fimm samfelldar bardagaumferðir verður tímabundið ónæm fyrir áhrifum hans (í höndum leikstjóra). Ól gúllsins kostar 1 kraftapunkt í notkun. Töfragaldrar Aflýsa töfra og Viðnám við töfrum verja ekki gegn gúll-ólum.
 
-**Kunnátta:** Climb 60%, Dodge 45%, Grapple 50%, Hide 35%, Jump 50%, Listen 60%, Sense 40%, Spot 50%, Stealth 60%.
+**Færni:** Klifra 60%, Vik 45%, Glíma 50%, Fela 35%, Hoppa 50%, Hlusta 60%, Skyn 40%, Spotta 50%, Læðast 60%.
 
-**Kraftar:** Greindari afturgöngur gætu þekkt galdrakúnstir. Allar afturgöngur hafa náttúrulegan hæfileika eins og Super Sense (Night Vision) með stigum sem jafngilda ½ INT afturgöngunnar (námunda upp).
+**Kraftar:** Gáfaðri gúllar gætu þekkt galdra. Allir gúllar hafa náttúrulegan hæfileika eins og Super Sense (nætursýn) með stigum sem jafngilda ½ af GRE gúllsins (námundað upp).
 
 ### Risar
 
-Risar eru risavaxnir, ljótir menn-eins verur með smekk fyrir mannaholdi. Þeir eru stjórnlyndir og ótraustar verur og yfirleitt aðeins minna eyðileggjandi en hvirfilbylur. Hefðbundið hafa risar nokkra mismunandi menningarheima, byggða á umhverfi sínu, svo sem hæðarrisar, sjávarrisar, fjallrisar, eldrisar, frostrisar o.fl. Þessar tegundir eru yfirleitt verulega mismunandi hvað varðar greind, stærð og hegðun. Sumir þeirra hafa samfélög, hirðir og eigin tungumál.
+Risar eru risavaxnar, ljótar mannverur með smekk fyrir mannsholti. Þeir eru þrjóskir og ótraustir verur og venjulega aðeins tæplega minna eyðileggjandi en hvirfilbylur. Hefðbundið hafa risar nokkrar mismunandi menningar, byggðar á umhverfi þeirra, svo sem hæðarrisar, sjávarrisar, fjallrisar, eldrisar, frostrisar o.s.frv. Þessar tegundir eru venjulega ólíkar verulega í greind, stærð og hegðun. Sumir þeirra hafa samfélög, hirðir og sín eigin tungumál.
 
-Eftirfarandi er fullvaxinn, 8-metra hár „almennur“ risi, um það bil 60 ára gamall. Risar hafa líftíma eins og menn og stækka 1D6+6 SIZ og 1D6+6 STR á hverjum tíu árum, en þjást ekki af áhrifum öldrunar. Fyrir minna öflugan risa, dragðu frá aldur þar til hann hefur æskilegan STR og SIZ.
+Eftirfarandi er fullvaxinn, 8 metra hár „almennur“ risi, u.þ.b. 60 ára gamall. Risar hafa líftíma eins og menn og vaxa 1D6+6 STÆ og 1D6+6 STY á hverjum tíu árum, en þjást ekki af áhrifum öldrunar. Fyrir minna öflugan risa, dragðu frá aldur þar til hann er kominn með æskilega STY og STÆ.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 24D6+48 | 16D6+48 | 24D6+48 | 3D6 | 3D6 | 3D6 | 2D6 |
 | 132 | 104 | 132 | 10–11 | 10–11 | 10–11 | 7 |
 
 | Hreyfing 18 | Heilsu-punktar 118 |
 | :---- | :---- |
-| **Skaðabónus** +15D6 | **Brynja** 21-punkta húð (sjá hér að neðan) |
+| **Skaðabreytir** +15D6 | **Brynja** 21-punkta húð (sjá hér að neðan) |
 
 **Árásir:**
 
-* Klúbbur 35%, 3D6+dm (mulið + knockback)
-* Spark/troðsla 35%, 1D6+dm (mulið + knockback)
-* Kastaður steinn 35%, 2D6+½dm (mulið)
+* Klúbbur 35%, 3D6+dm (kremjandi + afturkippur)
+* Spark/Troða 35%, 1D6+dm (kremjandi + afturkippur)
+* Kastaður steinn 35%, 2D6+½dm (kremjandi)
 
-Risar nota risastóra klúbba eða trjástofna í bardaga og sérhæfa sig í svæðis-árásum. Klúbbur risa hefur heilsu-punkta sem jafngilda 10 + skaðabónus teningum hans.
+Risar nota gífurlega klúbba eða trjáboli í bardaga og sérhæfa sig í sveifluárásum. Klúbbur risa hefur heilsu-punkta sem jafngilda 10+ skaðabreytingateningum hans.
 
-**Kraftar:** Sumir öflugir og eldri risar nota galdra eða galdrakúnstir.
+**Kraftar:** Sumir öflugir og eldri risar nota töfra eða galdra.
 
-**Kunnátta:** Sense 60%, Spot 40%, Throw 35%.
+**Færni:** Skyn 60%, Spotta 40%, Kasta 35%.
 
-Risar hafa harða húð að verðmæti 6 punkta plús skaðabónus þeirra í D6-um, þannig að risi með 15D6 skaðabónus hefur 21-punkta húð. Sumir risar klæðast fótabrynju (oft plötu), sem bætir við brynju-gildið á þeim stöðum. Ef líkamshlutar eru notaðir, ættu venjulegar persónur sem berjast við risa að rúlla aðeins 1D10 til að ákvarða staðsetningu, nema þær séu að nota eldflaugavopn.
+Risar hafa harða húð að verðmæti 6 punkta plús skaðabreyti þeirra í D6-teningum, þannig að risi með 15D6 skaðabreyti hefur 21-punkta húð. Sumir risar klæðast fótabrynju (oft plötu), sem bætir við brynjugildið á þeim staðsetningum. Ef staðsetningar eru notaðar, ættu venjulegar persónur sem berjast við risa að rúlla aðeins 1D10 til að ákvarða staðsetninguna sem hittist, nema þær séu að nota eldflaugavopn.
 
-### Grípari (Griffin)
+### Gríffón
 
-Gríparar eru blönduðar verur, sambland af líkama og afturfótum ljóns, og höfði, framfótum og vængjum arnar. Þessir fljúgandi rándýr hafa hefðbundið hreiður á fjallstindum og eru oft sýndir í heraldískum myndum.
+Gríffónar eru kimerrískar verur, sameinaðar af líkama og afturfótum ljóns, og höfði, framfótum og vængjum arnar. Þessir fljúgandi rándýr hafa hefðbundið hreiður á fjallstindum og eru oft sýndir í heraldískum myndum.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 10D6 | 3D6+12 | 10D6 | 6 | 3D6+6 | 3D6+12 |
 | 35 | 22–23 | 35 | 6 | 16–17 | 22–23 |
 
 | Hreyfing 8 (12 fljúgandi) | Heilsu-punktar 29 |
 | :---- | :---- |
-| **Skaðabónus** +3D6 | **Brynja** 6-punkta húð |
+| **Skaðabreytir** +3D6 | **Brynja** 6-punkta húð |
 
 **Árásir:**
 
-* Bit 70%, 1D6+dm (stungur)
-* Kló 70%, 1D6+dm (blæðing)
+* Bit 70%, 1D6+dm (spjótandi)
+* Kló 70%, 1D6+dm (blæðandi)
 
-Grípari ræðst með tveimur klóm samtímis og bitar 5 DEX-stigum síðar.
+Gríffónn ræðst með tveimur klóm samtímis og bítur 5 LIP-stigum síðar.
 
-**Kunnátta:** Dodge 30%, Fly 100%, Listen 50%, Sense 65%, Spot 75%.
+**Færni:** Vik 30%, Flug 100%, Hlusta 50%, Skyn 65%, Spotta 75%.
 
-### Hálf-menni (Halfling)
+### Halflingur
 
-Hálf-menni eru litlar mannlíkar verur, yfirleitt friðsælar og siðmenntaðar. Hefðbundið eru þau hrifin af mat, pípureykingum og drykkju, og hafa hljóðlát störf eins og búskap, handverk og kráarrekstur. Hálf-menni búa yfirleitt í litlum dreifbýlissamfélögum í bóndabæjum eða neðanjarðar grenjum. Þau forðast oft að vera í skóm.
+Halflingar eru litlar mannlegar verur, almennt friðsælar og siðmenntaðar. Hefðbundið eru þeir hrifnir af mat, pípureykingum og drykkju, og hafa hljóðlát störf svo sem búskap, iðn og gistihúsarekstur. Halflingar búa venjulega í litlum dreifbýlissamfélögum í sveitabæjum eða neðanjarðargöngum. Þeir sleppa oft við að vera í skóm.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6 | 2D6+12 | 1D3+3 | 2D6+6 | 2D6+3 | 2D6+10 | 3D6 |
 | 7 | 19 | 4–5 | 13 | 10 | 17 | 10–11 |
 
 | Hreyfing 6 | Heilsu-punktar 12 |
 | :---- | :---- |
-| **Skaðabónus** –1D6 | **Brynja** Ekkert (getur klæðst brynju) |
+| **Skaðabreytir** –1D6 | **Brynja** Engin (getur klæðst brynju) |
 
 **Árásir:**
 
-* Stutt sverð 35%, 1D6+1+dm (blæðing)
-* Slöngva 35%, 1D8+½dm (mulið)
-* Kastaður steinn 50%, 1D4 (enginn skaðabónus, mulið)
-* Hálf-menni eru sérfræðingar í að kasta steinum og þjást ekki af neikvæðum skaðabónus þeirra.
+* Stuttsverð 35%, 1D6+1+dm (blæðandi)
+* Slinga 35%, 1D8+½dm (kremjandi)
+* Kastaður steinn 50%, 1D4 (enginn skaðabreytir, kremjandi)
+* Halflingar eru sérfræðingar í að kasta steinum og þjást ekki af neikvæðum skaðabreyti sínum.
 
-**Kunnátta:** Appraise 35%, Bargain 35%, Craft (farming) 75%, Dodge 60%, Drive (wagon) 45%, Grapple 35%, Hide 65%, Knowledge (Halfling-lore) 35%, Language (Halfling) 75%, Language (Human) 65%, Listen 65%, Sense 45%, Spot 50%, Throw 50%.
+**Færni:** Meta 35%, Prútta 35%, Iðn (búskapur) 75%, Vik 60%, Aka (vagn) 45%, Glíma 35%, Fela 65%, Þekking (Halfling-fræði) 35%, Tungumál (halfling) 75%, Tungumál (mennsku) 65%, Hlusta 65%, Skyn 45%, Spotta 50%, Kasta 50%.
 
-**Kraftar:** Hefðbundið forðast hálf-menni galdra, þó einhverjir sjaldgæfir noti galdra. Færri enn nota galdrakúnstir.
+**Kraftar:** Hefðbundið forðast halflingar töfra, þótt einhverjir sjaldgæfir noti töfra. Færri nota galdra.
 
-### Mínótaurus
+### Mínótaur
 
-Mínótaurusar eru mannlíkar verur með nautshaus og klaufarfætur. Stjórnlyndir og ofbeldisfullir, þeir hafa litla siðmenningu sjálfir, kjósa að búa í rústum eða í villunni. Sumir geta talað, á meðan aðrir eru dýrslegir og hafa enga tungumálahæfileika.
+Mínótaurar eru mannverur með nautshöfuð og hófstæða fætur. Þrjóskir og ofbeldisfullir, þeir hafa litla siðmenningu af eigin raun, kjósa að dvelja í rústum eða í villtinu. Sumir geta talað, á meðan aðrir eru dýrslegir og hafa enga tungumálahæfileika.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 1D6+12 | 3D6+12 | 2D6 | 3D6 | 3D6 | 2D6 |
 | 22–23 | 15–16 | 22–23 | 7 | 10–11 | 10–11 | 7 |
 
 | Hreyfing 6 | Heilsu-punktar 19 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** 3-punkta húð (getur klæðst annarri brynju, yfirleitt leðri) |
+| **Skaðabreytir** +2D6 | **Brynja** 3-punkta húð (getur klæðst annarri brynju, venjulega leðri) |
 
 **Árásir:**
 
-* Stóröx 55%, 3D6+dm (blæðing)
-* Höfuð-skalli 35%, 1D6+dm (knockback)
-* Brawl 50%, 1D3+dm (mulið)
+* Stóraöxi 55%, 3D6+dm (blæðandi)
+* Höfuð-stuð 35%, 1D6+dm (afturkippur)
+* Berjast 50%, 1D3+dm (kremjandi)
 
-Mínótaurus getur notað annaðhvort höfuð-skalla eða vopnárás í bardagahring. Mínótaurus getur aðeins notað bæði í umferð ef hann er annars fær um að gera tvær árásir í umferð.
+Mínótaur getur notað annaðhvort höfuð-stuð eða vopnaárás í bardagaumferð. Mínótaur getur aðeins notað báðar í umferð ef hann er annars fær um að gera tvær árásir í umferð.
 
-**Kunnátta:** Dodge 40%, Listen 35%, Sense 30%, Spot 35%, Track 55%.
+**Færni:** Vik 40%, Hlusta 35%, Skyn 30%, Spotta 35%, Rekja 55%.
 
-**Kraftar:** Mínótaurusar fyrirlíta yfirleitt galdra af öllu tagi, og aðeins þeir sjaldgæfustu þekkja galdra. Ef mínótaurus er særður eða nær sérstökum árangri meðan hann slær andstæðing, verður hann berserkur í 24–CON umferðir. Þetta er eins og galdrakúnst-galdurinn Fury. Berserkur mínótaurus getur reynt að hrista af sér reiðina með því að gera farsælt kast á INT×1. Eftir þessa berserksreiði er hann talinn þreyttur (ef þreyta er ekki notuð, eru öll köst Erfið) þar til hann hefur fengið tækifæri til að hvílast.
+**Kraftar:** Mínótaurar fyrirlíta venjulega hvers kyns töfra, og aðeins þeir sjaldgæfustu kunna einhverja galdra. Ef mínótaur er særður eða nær sérstökum árangri meðan hann slær andstæðing, verður hann berserkur í 24–ÞOL umferðir. Þetta er eins og galdurinn Fury. Berserkur mínótaur getur reynt að hrista reiðina af sér með því að gera farsælt kast á GRE×1. Eftir þessa berserksreiði er hann talinn þreyttur (ef þreyta er ekki notuð, eru öll köst Erfið) þar til hann hefur fengið tækifæri til að hvílast.
 
 ### Múmía
 
-Múmía er ódauð vera mynduð úr varðveittu, þurrkuðu líki, færð aftur til svipmyndar af lífi með bölvun eða öflugum galdra (necromancy). Sumir sértrúarsöfnuðir halda múmíum í hofum sínum sem verndara, á meðan aðrar múmíur rísa frá dauðum til að vernda grafhýsi sín gegn ráni. Sumar múmíur tala, á meðan aðrar eru þöglar. Ekki allar múmíur eru vafðar í sárabindi—sumar klæðast skartgripum og hlutum af miklu verðmæti eins og sómdi þeim í lífinu.
+Múmía er ódauð vera mynduð úr varðveittu, þurrkuðu líki, færð aftur til svipmyndar af lífi í gegnum bölvun eða öfluga svartagaldur. Sumir sértrúarhópar halda múmíum í hofum sínum sem verndarar, á meðan aðrar múmíur rísa frá dauðum til að vernda grafhýsi sín gegn ráni. Sumar múmíur tala, á meðan aðrar haldast hljóðlátar. Ekki allar múmíur eru vafðar í sárabindi—sumar klæðast skartgripum og hlutum af miklu verðmæti eins og sómdi þeim í lífinu.
 
-Vegna þurrs, þurrkaðs ástands holds þeirra, er eldur sérstaklega áhrifaríkur gegn múmíum. Það er tvisvar sinnum auðveldara að kveikja í múmíu en öðru eðlilegu skotmarki, og þótt skaðinn sé eðlilegur, er erfiðara að slökkva eldinn (lækkaðu líkurnar á að eldurinn deyi um helming). Kraftar sem nota eld hafa einnig þessi áhrif.
+Vegna þurrs, uppþornaðs ástands holds þeirra er eldur sérstaklega áhrifaríkur gegn múmíum. Það er tvisvar sinnum auðveldara að kveikja í múmíu en öðru venjulegu skotmarki, og þótt skaði sé eðlilegur, eru eldar erfiðari að slökkva (lækkaðu líkurnar á að eldurinn deyi út um helming). Kraftar sem nota eld hafa einnig þessi áhrif.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 4D6+3 | 2D6+6 | 3D6 | 1D6+12 | 2D6 | – |
 | 21 | 17 | 13 | 10–11 | 15–16 | 7 | – |
 
 | Hreyfing 8 | Heilsu-punktar 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D6 | **Brynja** 3-punkta húð (getur klæðst brynju) |
+| **Skaðabreytir** +1D6 | **Brynja** 3-punkta húð (getur klæðst brynju) |
 
 **Árásir:**
 
-* Hnefi 70%, 1D3+dm (mulið)
+* Hnefi 70%, 1D3+dm (kremjandi)
 * Glíma 25%, sérstakt
-* Stutt sverð 45%, 1D6+1+dm (blæðing)
+* Stuttsverð 45%, 1D6+1+dm (blæðandi)
 
-Múmía getur ráðist með tveimur hnefaárásum í hverri bardagahring. Ef hún tekst með báðum árásum, reynir hún að glíma og kæfa skotmarkið í næstu umferð. Múmía gæti notað fornar vopn sem hæfa tímabilinu sem hún var á lífi á.
+Múmía getur ráðist með tveimur hnefaárásum í hverri bardagaumferð. Ef hún nær báðum árásunum, reynir hún að glíma og kyrkja skotmark sitt í næstu umferð. Múmía getur notað forn vopn sem hæfa tímabili fyrra lífs hennar.
 
-**Kunnátta:** Language (ancient tongue) 90%, Listen 50%, Sense 45%, Spot 50%, Stealth 50%.
+**Færni:** Tungumál (fornt) 90%, Hlusta 50%, Skyn 45%, Spotta 50%, Læðast 50%.
 
-**Kraftar:** Múmíur gætu munað galdrakúnstir frá fyrra lífi sínu. Múmíu-galdramaður gæti haft þessa galdra í minni: Brazier of Power (4), Gift of the Earth (4), Pox (1), Sorcerer’s Talons (2). Ef grafhýsi múmíu er óskemmt, hefur hún líklega aðgang að galdrabókum, galdrarúllum og mörgum töfragripum.
+**Kraftar:** Múmíur gætu munað galdra frá fyrra lífi sínu. Múmíu-galdramaður gæti haft þessa galdra í minni: Kraftapanna (4), Gjöf jarðar (4), Bólur (1), Klær galdramanns (2). Ef grafhýsi múmíu er óskemmt, hefur hún líklega aðgang að galdrabók sinni, galdrarúllum og mörgum töfragripum.
 
-### Orkur (Orc)
+### Orki
 
-Orkar eru villtar, dýrslegar mannlíkar verur sem fyrirlíta mannkynið, álfa, dverga og næstum alla aðra sem þeir mæta. Þeir hafa yfirleitt gráleita húð, vígtennur og oddhvöss eyru, og eru stundum nefndir goblins. Orkar kjósa myrkur en geta virkað nógu vel í dagsbirtu. Þeir hafa grófa siðmenningu sem byggist næstum eingöngu á grimmd og ánauð sinna eigin sem og hvers kyns óheppinna fanga. Þeir stunda jafnvel mannát á veikum eða óheppnum meðlimum eigin tegundar. Orkar þjóna oft myrkursöflunum, eða veiða aðra fyrir eigin skemmtun og auðgun. Sumir orkar ríða risastórum úlfum, ræktuðum sem ríðdýr. Margar tegundir af orkum gætu verið til, byggðar á umhverfislegum, menningarlegum, svæðisbundnum eða öðrum breytileika. Algengar tegundir eru hin öfluga „stærri“ orkar (STR 5D6, CON 3D6+3, og SIZ 3D6+6) og meinvæddu „minni“ orkar (STR 3D6, SIZ 2D6).
+Orkar eru villtar, dýrslegar mannverur sem fyrirlíta mannkynið, álfa, dverga og nánast hvaða annað fólk sem þeir mæta. Þeir hafa venjulega gráleita húð, vígtennur og oddhvöss eyru, og er stundum vísað til þeirra sem goblins. Orkar kjósa myrkur en geta virkað nógu vel í dagsbirtu. Þeir hafa grófa siðmenningu byggða næstum eingöngu á grimmd og þrælkun eigin fólks auk allra óheppinna fanga. Þeir iðka jafnvel mannát á veikburða eða óheppnum meðlimum eigin tegundar. Orkar þjóna oft öflum myrkursins, eða veiða aðra til eigin skemmtunar og auðgunar. Sumir orkar ríða risaúlfum, ræktaðir sem fákur. Margar tegundir orka gætu verið til, byggðar á umhverfislegum, menningarlegum, svæðisbundnum eða öðrum afbrigðum. Algengar tegundir eru hinir ógurlegu „meiri“ orkar (STY 5D6, ÞOL 3D6+3, og STÆ 3D6+6) og smitandi „minni“ orkar (STY 3D6, STÆ 2D6).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+2 | 3D6 | 2D6+3 | 4D6 | 2D6 |
 | 14 | 10–11 | 9 | 10–11 | 10 | 14 | 7 |
 
 | Hreyfing 8 | Heilsu-punktar 10 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 6-punkta hringbrynja og léttur hjálmur |
+| **Skaðabreytir** Enginn | **Brynja** 6-punkta hringur og léttur hjálmur |
 
 **Árásir:**
 
-* Scimitar 35%, 1D8+1+dm (blæðing)
-* Samsettur bogi 35%, 1D8+1+½dm (stungur)
-* Stutt spjót 35%, 1D6+1+dm (stungur)
-* Stutt spjót (kastað) 35%, 1D6+1+½dm (stungur)
-* Broddaður skjöldur 35%, 1D3+dm (stungur)
+* Scimitar 35%, 1D8+1+dm (blæðandi)
+* Samsettur bogi 35%, 1D8+1+½dm (spjótandi)
+* Stutt spjót 35%, 1D6+1+dm (spjótandi)
+* Stutt spjót (kastað) 35%, 1D6+1+½dm (spjótandi)
+* Broddskjöldur 35%, 1D3+dm (spjótandi)
 
-**Kunnátta:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orc-lore) 35%, Language (Human) 25%, Language (Orcish) 60%, Listen 50%, Ride (wolf) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
+**Færni:** Klifra 55%, Vik 40%, Fela 35%, Þekking (Orka-fræði) 35%, Tungumál (mennsku) 25%, Tungumál (orknesku) 60%, Hlusta 50%, Ríða (úlfur) 50%, Skyn 35%, Spotta 45%, Læðast 40%, Rekja 30%
 
-**Kraftar:** Galdrakúnstir eru óttalegasti krafturinn í orka-samfélaginu, þar sem orka-galdramenn þjóna oft sem prestar eða leiðtogar. Galdrakúnsta-notandi orkur hefur POW upp á 16+ og gæti þekkt eftirfarandi galdra: Cloak of Night (2), Pox (1), Vermin’s Vision (1), Hell’s Razor (1), Lightning Speed (2), Ward (3).
+**Kraftar:** Galdrar eru ógnvænlegasti krafturinn í samfélagi orka, þar sem orka-galdramenn þjóna oft sem prestar eða leiðtogar. Orki sem notar galdra hefur MÁT upp á 16+ og kann að þekkja eftirfarandi galdra: Næturkápa (2), Bólur (1), Sýn meindýra (1), Heljar-raka (1), Eldingahraði (2), Vörn (3).
 
 ### Beinagrind
 
-Lífgaðar beinagrindur eru annaðhvort búnar til eða kallaðar fram með galdri eða afleiðing af fornri bölvun. Flestar eru leifar manna, en beinagrindur annarra tegunda eru til. Lífgaðar beinagrindur eru næstum alltaf mættar að vernda einhvern fjársjóð, fornt grafhýsi eða einhvern annan stað af illum árum. Beinagrindur hreyfast á sama hraða og þær gerðu í lífinu en geta ekki synt. Þær hafa enga þreytupunkta og verða aldrei þreyttar.
+Lífgaðar beinagrindur eru annaðhvort búnar til eða kallaðar fram af töfrum eða afleiðing af fornri bölvun. Flestar eru leifar manna, en beinagrindur annarra tegunda eru til. Lífgaðar beinagrindur eru næstum alltaf mættar að gæta einhvers fjársjóðs, forns grafhýsis, eða einhvers annars staðar sem boðar óhamingju. Beinagrindur hreyfast á sama hraða og þær gerðu í lífinu en geta ekki synt. Þær hafa enga þreytupunkta og þreytast aldrei.
 
-| STR | SIZ | INT | POW | DEX |
+| STY | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 2D6+6 | 3D6 | 1 | 3D6 |
 | 10–11 | 13 | 10–11 | 1 | 10–11 |
 
 | Hreyfing 10 | Heilsu-punktar 13 (sjá hér að neðan) |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert (getur klæðst brynju, sjá einnig hér að neðan fyrir ónæmi) |
+| **Skaðabreytir** Enginn | **Brynja** Engin (getur klæðst brynju, sjá einnig hér að neðan fyrir ónæmi) |
 
 **Árásir:**
 
-* Breiðsverð 55%, 1D8+1+dm (blæðing)
-* Sjálfsbogi 50%, 1D6+1+½dm (stungur)
-* Stór kringlóttur skjöldur 55%, 1D4+dm (knockback)
+* Breiðsverð 55%, 1D8+1+dm (blæðandi)
+* Sjálfsbogi 50%, 1D6+1+½dm (spjótandi)
+* Stór hringskjöldur 55%, 1D4+dm (afturkippur)
 
-**Kunnátta:** Dodge 40%
+**Færni:** Vik 40%
 
-Beinagrindur hafa engan CON, og heilsu-punktar þeirra jafngilda SIZ þeirra. Þær eru ónæmar fyrir sérstökum áhrifum frá blæðingum og stungum. Þær taka engan skaða yfirhöfuð frá stunguvopnum, nema höggið hafi verið sérstakur árangur eða mikilvægt högg, í því tilviki er skaðinn tekinn en aukaáhrifunum er hunsað.
+Beinagrindur hafa ekkert ÞOL, og heilsu-punktar þeirra jafngilda STÆ þeirra. Þær eru ónæmar fyrir sérstökum áhrifum frá blæðandi og spjótandi höggum. Þær taka engan skaða af stingandi vopnum, nema höggið hafi verið sérstakur árangur eða mikilvægt högg, í því tilviki er skaðinn tekinn en aukaáhrifunum er hunsað.
 
-Þurr bein eru stökk, og brotna auðveldlega frá þungu höggi. Burtséð frá núverandi heilsu-punktum beinagrindarinnar, hefur hvert högg sem slær á beinagrind tækifæri til að eyða beinagrindinni sem jafngildir skaðanum sem gerður var margfaldað með ×4, til viðbótar við eðlilegt tap heilsu-punkta. Ef rúllan tekst, molnar beinagrindin samstundis í beinbrot.
+Þurrar bein eru brothættar, og brotna og splundrast auðveldlega af þungu höggi. Burtséð frá núverandi heilsu-punktum beinagrindarinnar, hefur hvert högg sem hittir beinagrind prósentulíkur á að eyðileggja beinagrindina sem jafngildir skaðanum sem gerður var margfaldað með ×4, auk eðlilegs heilsu-punktataps. Ef rúllið tekst, splundrast beinagrindin samstundis í beinsdar.
 
 ### Tröll
 
-Tröll eru risavaxnir, hold-etandi mannlíkar verur með grófgræn-svarta húð, hærðar axlir og handleggi, og langar klær. Þeir búa hefðbundið í fjöllum og skógum, kjósa að búa í hellum eða stundum undir brúm. Sum tröll geta talað, á meðan önnur eru dýrsleg og geta það ekki. Þau eru næturdýr og forðast sólarljós hvenær sem þau geta. Það gætu verið aðrar tegundir af tröllum, yfirleitt nefndar eftir umhverfi sínu (steinn, ís, viður, klettar, hæðir, fjöll, sandur, sjór, vötn, mýrar, mýrar o.fl.), mismunandi eftir lit og öðrum leiðum. Snjallari tröll nota flóknari vopn, á meðan sum munu jafnvel klæðast þungri brynju.
+Tröll eru risavaxnar, hold-étandi mannverur með grófa græn-svarta húð, hærðar axlir og handleggi, og langar klær. Þau dvelja hefðbundið í fjöllum og skógum, kjósa að búa í hellum eða stundum undir brúm. Sum tröll geta talað, á meðan önnur eru dýrsleg og geta það ekki. Þau eru næturdýr og forðast sólarljós þegar þau geta. Það gætu verið aðrar tegundir af tröllum, venjulega nefnd eftir umhverfi þeirra (steinn, ís, viður, klettar, hæð, fjall, sandur, sjór, vatn, mýri, mýri, o.s.frv.), ólík í lit og á annan hátt. Gáfaðri tröll nota flóknari vopn, á meðan sum munu jafnvel klæðast þungri brynju.
 
-Flest tröll sem mætt er eru karlar, á meðan kven-tröll (kallaðar tröllkonur) eru minni og veikari (–6 á STR og SIZ) en snjallari og hraðari (+1D6 á INT, POW og DEX).
+Flest tröll sem mætast eru karlkyns, á meðan kventröll (kölluð tröllkerlingar) eru minni og veikari (–6 á STY og STÆ) en gáfaðri og hraðari (+1D6 á GRE, MÁT og LIP).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 2D6+6 | 4D6+12 | 2D6 | 2D6 | 2D6+3 | 1D6 |
 | 22–23 | 13 | 26 | 7 | 7 | 10 | 3–4 |
 
 | Hreyfing 6 | Heilsu-punktar 20 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** 3-punkta húð |
+| **Skaðabreytir** +2D6 | **Brynja** 3-punkta húð |
 
 **Árásir:**
 
-* Trjástofna-klúbbur 45%, 1D10+2+dm (mulið)
-* Kló 50%, 1D6+dm (blæðing)
+* Trjábolaklúbbur 45%, 1D10+2+dm (kremjandi)
+* Kló 50%, 1D6+dm (blæðandi)
 * Glíma 50%, sérstakt
 
-Algeng taktík trölls er að slá með klúbbnum sínum og síðan hitta með kló, en tröllið getur ekki parerað ef það gerir svo. Eins og klúbbur risans, hefur trjástofna-klúbbur trölls heilsu-punkta sem jafngilda 10 + teningum sínum í skaðabónus.
+Algeng taktík trölls er að slá með klúbbnum sínum síðan höggva með kló, en tröll getur ekki varið ef það gerir það. Eins og klúbbur risa, hefur trjábolaklúbbur trölls heilsu-punkta sem jafngilda 10+ skaðabreytingateningum hans.
 
-**Kraftar:** Tröll endurnýja sig hratt af meiðslum, græðandi 1D3 heilsu-punkta á hverja bardagahring, nema þau séu dauð. Ef líkamshlutar eru notaðir, græða tröll 1 heilsu-punkt á hvern særðan líkamshluta á hverja bardagahring. Ef tröll er í sólarljósi, eða ef skaðinn var gerður af eldi, endurnýjast þessi sár ekki. Tröll geta séð í myrkri eins og þau hafi Super Sense (Night Vision) kraftinn með stigum sem jafngilda ½ POW trésins (námunda upp). Tröllkonur eru næstum alltaf galdrakúnsta-notandi nornir, búnar galdra eins og Curse of Sorcery (4), Pox (1), Undo Sorcery (2) og Witch Sight (3).
+**Kraftar:** Tröll endurnýja sig hratt af meiðslum, lækna 1D3 heilsu-punkta á bardagaumferð, nema þau séu dauð. Ef staðsetningar eru notaðar, lækna tröll 1 heilsu-punkt á særðri staðsetningu á hverja bardagaumferð. Ef tröll er í sólarljósi, eða ef skaðinn var gerður af eldi, endurnýjast þessi sár ekki. Tröll geta séð í myrkri eins og þau hafi Super Sense (nætursýn) kraftinn með stigum sem jafngilda ½ af MÁT tröllsins (námundað upp). Tröllkerlingar eru næstum alltaf galdranornir, útbúnar með galdra svo sem Bölvun galdra (4), Bólur (1), Aflýsa galdra (2), og Nornasýn (3).
 
-**Kunnátta:** Dodge 35%, Sense 55%, Spot 55%.
+**Færni:** Vik 35%, Skyn 55%, Spotta 55%.
 
-### Einnhyrningur
+### Einhyrndur
 
-Einnhyrningurinn er hest-líkt töfradýr með smáum klaufum og eitt langt beint horn sem skagar út úr miðju ennisins. Einnhyrningar eru næstum alltaf hvítir, þótt svartir eða gráir séu ekki óheyrðir. Þeir eru einrænir, friðsælir skógarbúar, og eru afar næmir fyrir göldrum og umhverfi sínu. Talið er að þeir séu ódauðlegir nema þeir séu drepnir eða hornið fjarlægt, og af þeirri ástæðu er talið að horn þeirra veiti ódauðleika. Einnhyrningar eru oft sýndir í heraldík og eru merki um riddaralega og meyjarlegar dyggðir. Þeir eru sérstaklega treystandi á meyjarlegar konur eða álfa-konur.
+Einhyrndur er hestalík töfrandi dýr með frekar litlum hófum og einu löngu beinu horni sem stendur út úr miðju enni þess. Einhyrndir eru næstum alltaf hvítir, þótt svartir eða gráir séu ekki óheyrðir. Þeir eru einfarar, friðsælir skógarbúar, og eru mjög næmir fyrir töfrum og umhverfi sínu. Það er trúað að þeir séu ódauðlegir nema þeir séu drepnir eða horn þeirra fjarlægt, og af þessari ástæðu er talið að horn þeirra veiti ódauðleika. Einhyrndir eru oft sýndir í heraldík og eru merki um riddaralega og meyjarlega dyggð. Þeir treysta sérstaklega meyjarlegum konum af manna- eða álfkyni.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+24 | 2D6+6 | 2D6+18 | 2D6+6 | 2D6+12 | 2D6+6 | 4D6 |
 | 31 | 13 | 25 | 13 | 19 | 13 | 14 |
 
 | Hreyfing 12 | Heilsu-punktar 19 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** Ekkert |
+| **Skaðabreytir** +2D6 | **Brynja** Engin |
 
 **Árásir:**
 
-* Horn 75%, 1D10+dm (stungur)
-* Spark 40%, 1D8+dm (mulið)
-* Bak og steypa 40%, 2D8+dm (mulið)
-* Trampl 75%, 2D6+dm (mulið)
+* Horn 75%, 1D10+dm (spjótandi)
+* Spark 40%, 1D8+dm (kremjandi)
+* Afturkippur & stinga 40%, 2D8+dm (kremjandi)
+* Troða 75%, 2D6+dm (kremjandi)
 
-Einnhyrningur getur ráðist einu sinni í umferð, kjósa að nota horn sitt. Einnhyrningur getur parerað með horninu sem og annaðhvort samtímis sparkað eða gert gat með horninu.
+Einhyrndur getur ráðist einu sinni á umferð, kjósandi að nota horn sitt. Einhyrndur getur varið með horninu jafnt sem annaðhvort samtímis sparkað eða stungið með horninu sínu.
 
-**Kunnátta**: Dodge 35%, Hide 65%, Insight 50%, Jump 90%, Listen 70%, Sense 80%, Spot 75%, Stealth 50%.
+**Færni**: Vik 35%, Fela 65%, Innsæi 50%, Hoppa 90%, Hlusta 70%, Skyn 80%, Spotta 75%, Læðast 50%.
 
-**Kraftar**: Einnhyrningur getur grætt sár með horninu með því að snerta sárið og eyða 1 kraftapunkti á hverja heilsu-punkta sem á að endurheimta. Þessi lækning getur jafnvel fest aftur afskorinn útlim, ef að minnsta kosti 6 kraftapunktar eru notaðir. Eiginleikapunkta sem tapast vegna eiturs eða sjúkdóma er einnig hægt að lækna, en þetta tekur 1 punkt af varanlegum POW á hvern punkt sem læknast, svo einnhyrningar eru tregir til að framkvæma þetta. Að auki getur einnhyrningur uppgötvað eitur með snertingu hornsins. Ef einnhyrningshorn er gert að bolla, brotnar það ef eitur er sett í það.
+**Kraftar**: Einhyrndur getur læknað sár með horninu sínu með því að snerta sárið og eyða 1 kraftapunkti á hvern heilsu-punkt sem á að endurheimta. Þessi lækning getur jafnvel tengt aftur afskorinn lim, ef að minnsta kosti 6 kraftapunktum er eytt. Eiginleikapunktar sem tapast vegna eiturs eða sjúkdóms geta einnig læknast, en þetta tekur 1 stig af varanlegu MÁT á hvert stig læknað, svo einhyrndir eru tregir til að gera þetta. Að auki getur einhyrndur uppgötvað eitur með snertingu hornsins. Ef einhyrndarhorn er gert að bolla, brotnar það ef eitur er sett í það.
 
 ### Vampíra
 
-Vampírur eru ódauðir sem lifa af því að drekka blóð hinna lifandi. Skapaðar þegar þær deila blóði með vampíru og eru drepnar, þær vakna aftur sem sársvangar verur. Hins vegar endurheimta margar vampírur fyrri greind sína og geta hreyft sig óuppgötvaðar í gegnum mannlegt samfélag, ódauðlegar, haldandi sér varkárum þegar þær nærast. Sumar eru urbane og siðmenntaðar og nærast á minni dýrum eða nota aðrar leiðir til að ná í blóð. Aðrar eru eins og úlfar, drepandi af refsileysi.
+Vampírur eru ódauðir sem lifa af með því að drekka blóð hinna lifandi. Búnar til þegar þær deila blóði með vampíru og eru drepnar, vakna þær aftur sem hungraðar verur. Hins vegar endurheimta margar vampírur fyrri greind sína og geta hreyft sig óuppgötvaðar í gegnum mannlegt samfélag, ódauðlegar, og haldast varkárar þegar þær nærast. Sumar eru urbane og siðmenntaðar og nærast á minni dýrum eða nota aðrar leiðir til að öðlast blóð. Aðrar eru eins og úlfar, drepa án refsingar.
 
-Eins og draugar, eru margar tegundir af vampírum, allt frá fallegum, urbane, greindum og einrænum dilettöntum yfir í hryllilega ljót skrímsli með leðurblöku-eiginleikum og útstæðum vígtönnum, lifandi í holræsum og varla skynjaðar. Sumar vampírur gætu jafnvel reynt að bæta fyrir misgjörðir fyrra lífs síns og drápin sem þær frömdu. Hér eru eiginleikar eða hliðar eignaðar vampírum, satt eða ósatt.
+Eins og draugar, eru til margar tegundir vampíra, allt frá fallegum, urbane, greindum og einangruðum dilettönum til hryllilega ljótra skrímsla með leðurblöku-eiginleika og áberandi vígtennur, búa í holræsum og varla meðvitaðar. Sumar vampírur gætu jafnvel reynt að bæta fyrir misgjörðir fyrra lífs síns og drápin sem þær frömdu. Hér eru eiginleikar eða hliðar eignaðar vampírum, sannar eða rangar.
 
-* Vampíra varpar engri spegilmynd.
-* Þriðja bitið frá vampíru veldur því að fórnarlambið deyr, og verður síðan einn af hinum ódauðu. Þegar persónu er breytt í vampíru, tvöfaldast STR og CON hennar.
-* Vampírur hafa hærða lófa, andstyggilegan andardrátt og gráta tár af blóði.
-* Að drepa upprunalegu eða „yfir“ vampíruna læknar fórnarlömb hennar af vampírisma. Eða, að drepa leiðandi vampíruna drepur samstundis allar þær vampírur sem hún hefur skapað.
+* Vampíra kastar engri spegilmynd.
+* Þriðja bitið frá vampíru veldur því að fórnarlambið deyr, og verður síðan að einni af hinum ódauðu. Þegar persónu er breytt í vampíru, tvöfaldast STY og ÞOL þeirra.
+* Vampírur hafa hærða lófa, andstyggilegan andardrátt, og gráta tárum af blóði.
+* Að drepa upprunalegu eða „yfir-“ vampíruna læknar fórnarlömb hennar af vampírutrú þeirra. Að öðrum kosti, að drepa leiðandi vampíruna drepur samstundis allar þær vampírur sem hún hefur búið til.
 * Vampírur geta ekki farið yfir rennandi vatn svo sem á.
-* Hvítlaukur verndar gegn vampírum. Hvítlaukur hefur POT upp á 2D6+6 (aðeins fyrir vampírur) og verður að vera mótstöðu af núverandi kraftapunktum vampírunnar. Ef vampíran tekst, getur hún bregðast við hvítlauks-hafanum. Ef hún mistekst, er vampíran stunuð þar til hún er ekki lengur í návist hvítlauksins. Ef vampíra borðar hvítlauk, tekur hún 1D2 heilsu-punktaskaða á hvern geira sem neytt er.
-* Vampírur ráða mannlega þjóna til að vernda leyndarmál sín og vernda þá á dagtíma.
+* Hvítlaukur verndar gegn vampírum. Hvítlaukur hefur POT upp á 2D6+6 (aðeins fyrir vampírur) og verður að vera staðist af núverandi kraftapunktum vampírunnar. Ef vampíran tekst, getur hún brugðist við hvítlauks-hafanum. Ef hún mistekst, er vampíran gáttuð þar til hún er ekki lengur í návist hvítlauksins. Ef vampíra borðar hvítlauk, tekur hún 1D2 heilsu-punktaskaða á hvern geira sem borðaður er.
+* Vampírur ráða mennskum þjónum til að gæta leyndarmála sinna og vernda þær á dagtíma.
 * Vampíra getur ekki farið inn í heimili eða búsetu óboðin.
 
-Sumar vampírur skipuleggja sig í ættir, þar sem hver hefur mismunandi útlit, tilhneigingar og jafnvel krafta (sjá Kraftar, hér að neðan).
+Sumar vampírur skipuleggja sig í ættir, þar sem hver hefur ólíkt útlit, tilhneigingar og jafnvel krafta (sjá Kraftar, hér á eftir).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×2 | 3D6×2 | 3D6 | 2D6+6 | (13) | 3D6 | 3D6 |
 | 20–22 | 20–22 | 10–11 | 13 | (13) | 10–11 | 10–11 |
 
 | Hreyfing 12 | Heilsu-punktar 15–17 |
 | :---- | :---- |
-| **Skaðabónus** +1D6 | **Brynja** Ekkert (getur klæðst brynju) |
+| **Skaðabreytir** +1D6 | **Brynja** Engin (getur klæðst brynju) |
 
 **Árásir:**
 
-* Bit 50%, 1D4+½dm (blæðing) + Blóðsog (sjá hér að neðan)
-* Kló 50%, 1D4+dm (blæðing) + Kuldasnerting (sjá hér að neðan)
-* Dáleiðandi augnaráð, POW vs. POW, (sérstakt sjá hér að neðan)
+* Bit 50%, 1D4+½dm (blæðandi) + Blóðtæming (sjá hér að neðan)
+* Kló 50%, 1D4+dm (blæðandi) + Kuldasnerting (sjá hér að neðan)
+* Dáleiðandi augnaráð, MÁT vs. MÁT, (sérstakt sjá hér að neðan)
 * Glíma 75%, sérstakt
 
-Vampíra getur gert eitt bit og tvær klóárásir í umferð, eða hún getur reynt eina kló og dáleiðandi augnaráðsárás. Ef hún tekst með báðum klóárásum og bitárás, glímir hún skotmarkið sitt og drekkur blóð þeirra í hverri umferð þar til skotmarkið er ófært. Vampíra getur ekki reynt að Dodge-a á meðan hún bítur eða notar dáleiðandi augnaráð. Þessir kraftar eru lýstir hér að neðan.
+Vampíra getur gert eitt bit og tvær klóárásir á umferð, eða hún getur reynt eina kló og eina dáleiðandi augnaráðsárás. Ef hún tekst í báðum klóárásum og bitárás, glímir hún skotmarkið sitt og tæmir blóð þeirra í hverri umferð þar til skotmarkið er ófært. Vampíra getur ekki reynt að Vikja í umferð sem hún bítur eða notar dáleiðandi augnaráð. Þessir kraftar eru lýstir hér að neðan.
 
-**Kunnátta:** Dodge 50%, Etiquette 50%, Fly 90%, Hide 70%, Insight 60%, Jump 75%, Knowledge (History) 75%, Language (ancient) 75%, Language (modern) 50%, Listen 60%, Persuade 60%, Sense 75%, Spot 75%, Stealth 80%, Track 75%.
+**Færni:** Vik 50%, Etikett 50%, Flug 90%, Fela 70%, Innsæi 60%, Hoppa 75%, Þekking (Saga) 75%, Tungumál (fornt) 75%, Tungumál (nútíma) 50%, Hlusta 60%, Tæla 60%, Skyn 75%, Spotta 75%, Læðast 80%, Rekja 75%.
 
 **Kraftar:** Vampírur hafa fjölbreytt úrval krafta sem þeim eru eignaðir. Eftirfarandi eru þær sem næstum allar vampírur hafa.
 
-* **Blóðsog:** Vampíra sem bitur farsællega og skaðar skotmark getur sogið 1D6 STR eða 1D6 kraftapunkta frá því skotmarki í hverri eftirfarandi umferð sem hún heldur sig föst við það, glímandi við það. Ef skotmarkið hefur tapað öllum STR sínum, getur vampíran í staðinn valið að soga CON. Við 0 CON deyr fórnarlambið. Ef fórnarlambið lifir, endurnýjast þessir eiginleikapunktar 1 punkt á dag af hvíld, eða tvisvar þann tíma ef hún er virk. Ef fleiri en einn eiginleiki er soginn, skiptu um endurheimt á hverjum degi til að endurheimta 1 punkt af STR, síðan 1 punkt af CON, o.s.frv. Kraftapunktar endurnýjast eðlilega. Vampíra notar Blóðsog til að endurheimta eigin kraftapunkta—hún hefur engan POW af sjálfri sér og getur ekki endurnýjað hann eðlilega. STR, CON eða sogðir kraftapunktar eru fluttir af vampírunni sem jafnmargir kraftapunktar. Vampíra getur ekki geymt fleiri kraftapunkta en CON hennar. Allir punktar umfram það tapast.
-* **Kuldasnerting:** Vampíra sem snertir skotmark getur sogið kraftapunkta í stað blóðs. Vampíran verður að hafa tekist með klóárás gegn skotmarkinu (eða snert meðvitundarlaust eða ómeðvitað skotmark). Í eftirfarandi umferð gerir hún mótstöðukast á núverandi kraftapunktum sínum vs. núverandi kraftapunktum skotmarksins. Brynja verndar ekki gegn þessari árás. Ef vampíran tekst, sýgur hún 1D3 kraftapunkta frá skotmarkinu, sem eru fluttir yfir á núverandi kraftapunktasummu hennar. Vampíran verður að halda snertingu við skotmarkið í hverri umferð til að halda áfram þessu sogi og verður að tekst með mótstöðukasti í hverri bardagahring. Skotmarkið endurheimtir þessa tapaða kraftapunkta eðlilega.
-* **Dáleiðandi augnaráð:** Ef vampíra sigrast á POW skotmarksins með núverandi kraftapunktum sínum í mótstöðukasti, er skotmarkið dáleitt og hægt er að láta það fylgja einföldum fyrirmælum. Ef þessi fyrirmæli eru sjálfseyðileggjandi, í upphafi umferðarinnar getur skotmarkið reynt Idea-kast til að hrista það af sér.
-* **Nætur-sýn:** Vampírur hafa náttúrulegan hæfileika sem sameinar Super Senses af Dark Vision, Infrared Vision og Night Vision á stigi sem jafngildir hálfum INT vampírunnar (námunda upp).
-* **Endurnýjun:** Nema hún sé drepin með hefðbundinni aðferð (sjá hér að neðan), endurnýjar vampíra 1D3 heilsu-punkta á hverja bardagahring. Ef líkamshlutar eru notaðir, endurnýjar hún 1D3 heilsu-punkta á líkamshluta á hverja bardagahring. Ef hún er í beinu sólarljósi eða í návist heilags tákns, endurnýjar hún ekki þennan skaða og verður að gróa eðlilega (hún tekur einnig skaða af þessum uppsprettum, sjá Veikleikar, hér að neðan). Að auki er ekki hægt að endurnýja skaða af heilögu vatni, heilögu tákni, sólarljósi eða eldi og verður að gróa á eðlilegum gróunarhraða vampírunnar.
+* **Blóðtæming:** Vampíra sem bítur farsællega og skaðar skotmark getur tæmt 1D6 STY eða 1D6 kraftapunkta af því skotmarki í hverri eftirfarandi umferð sem hún helst föst, glímandi við það. Ef skotmarkið hefur tapað allri STY sinni, getur vampíran valið að tæma ÞOL í staðinn. Við 0 ÞOL, deyr fórnarlambið. Ef fórnarlambið lifir af, endurnýjast þessir eiginleikapunktar 1 punkti á dag af hvíld, eða tvisvar þann tíma ef hún er virk. Ef fleiri en einn eiginleiki er tæmdur, skiptist á endurheimt á hverjum degi til að endurheimta 1 punkt af STY, síðan 1 punkt af ÞOL, o.s.frv. Kraftapunktar endurnýjast eðlilega. Vampíra notar Blóðtæmingu til að endurheimta sína eigin kraftapunkta—hún hefur engin MÁT af sínum eigin og getur ekki endurnýjað þau eðlilega. STY, ÞOL, eða tæmdir kraftapunktar eru fluttir af vampírunni sem jafnmargir kraftapunktar. Vampíra getur ekki geymt fleiri kraftapunkta en ÞOL hennar. Allir punktar umfram það tapast.
+* **Kuldasnerting:** Vampíra sem snertir skotmark getur tæmt kraftapunkta í stað blóðs. Vampíran verður að hafa tekist í klóárás gegn skotmarkinu (eða snert ófært eða ómeðvitað skotmark). Í næstu umferð gerir hún viðnámskast á núverandi kraftapunktum sínum vs. núverandi kraftapunktum skotmarksins. Brynja verndar ekki gegn þessari árás. Ef vampíran tekst, tæmir hún 1D3 kraftapunkta af skotmarkinu, sem flytjast yfir á heildarfjölda núverandi kraftapunkta hennar. Vampíran verður að vera í snertingu við skotmarkið í hverri umferð til að halda áfram þessari tæmingu og verður að takast í viðnámskasti í hverri bardagaumferð. Skotmarkið endurheimtir þessa töpuðu kraftapunkta eðlilega.
+* **Dáleiðandi augnaráð:** Ef vampíra sigrar MÁT skotmarks með núverandi kraftapunktum sínum í viðnámskasti, er skotmarkið dáleitt og hægt er að láta það fylgja einföldum leiðbeiningum. Ef þessar leiðbeiningar eru sjálfseyðandi, í upphafi umferðarinnar getur skotmarkið reynt Hugmynda-kast til að hrista það af sér.
+* **Nætursýn:** Vampírur hafa náttúrulegan hæfileika sem sameinar Super Senses of Dark Vision, Infrared Vision, og Night Vision á stigi sem jafngildir helmingi af GRE vampírunnar (námundað upp).
+* **Endurnýjun:** Nema hún sé drepin með hefðbundinni aðferð (sjá hér að neðan), endurnýjar vampíra 1D3 heilsu-punkta á bardagaumferð. Ef staðsetningar eru notaðar, læknar vampíra 1 heilsu-punkt á særðri staðsetningu á hverja bardagaumferð. Ef hún er í beinu sólarljósi eða í návist heilags tákns, endurnýjar hún ekki þennan skaða og verður að lækna eðlilega (hún tekur einnig skaða af þessum heimildum, sjá Veikleikar, hér á eftir). Að auki, skaðinn af heilögu vatni, heilögu tákni, sólarljósi, eða eldi er ekki hægt að endurnýja og verður að lækna á eðlilegum lækningahraða vampírunnar.
 
-Til viðbótar við ofangreint er sagt að vampírur hafi aðra krafta, sem gætu verið sannir eða ósannir.
+Til viðbótar við ofangreint er sagt að vampírur hafi aðra krafta, sem gætu verið sannir eða ekki.
 
-* **Legions of the Night:** Vampírur geta stjórnað minni verum svo sem leðurblökum, rottum og úlfum. Vampíran getur kallað á 1D6 rottu- eða leðurblökusverma, (meðhöndla leðurblökusverma sem rottusverma en með Fly 100%), eða 1D6 úlfa. Hver svermur kostar 1 kraftapunkt að kalla fram, og hver úlfur kostar 3 kraftapunkta að kalla fram og stjórna. Þessar verur gætu verið búnar til sem aðstoðarmenn en nota núverandi kraftapunktasummu vampírunnar í stað POW við stjórn eða hægt er að meðhöndla þær í gegnum galdrakúnstagaldra svo sem Bird’s Vision (skiptu leðurblöku út fyrir fugl) og Vermin’s Vision.
-* **Mist Form:** Vampíran getur breytt sér í mistur, fær um að fara í gegnum minnstu sprungur og fljóta í gegnum loftið áreynslulaust. Vampíra með þennan kraft gæti verið neydd í misturform þegar hún er minnkuð í 0 heilsu-punkta, en er ekki drepin á hefðbundinn hátt. Þetta gæti verið galdurinn Change eða ofurkraftarnir Alternate Form eða Intangibility. Meðan hún er í misturformi hefur vampíran MOV 5 og er ónæm fyrir flestum tegundum líkamlegs skaða, þótt galdrar gætu samt haft áhrif á hana.
-* **Shape Shifting:** Vampíran getur breytt sér í úlf, leðurblöku eða jafnvel sverm af rottum fyrir 3 kraftapunkta. Eins og með Mist Form, er krafturinn eins og annaðhvort Change eða Alternate Form. Notaðu tölfræði fyrir úlf eða rottusverm fyrir hæfileika vampírunnar í hvoru formi sem er, notaðu sömu leikáhrif fyrir rottur og leðurblökur (þó með Fly 100%).
-* **Spellcasting:** Vampírur eru öflugir galdramenn, með úrval galdra tilbúna til notkunar. Með ótrúlegum líftíma sínum og aðgangi að bönnuðum bókum, rúllum og vanheilögum fróðleik, þekkja vampírur marga galdrakúnstagaldra. Vampíra getur þekkt allt að tvisvar sinnum eðlilega mannlega getu fyrir galdra eða galdrakúnstagaldra. Vampírur nota núverandi kraftapunktasummu sína til að sigrast á skotmörkum eða fyrir galdra sína.
+* **Legions of the Night:** Vampírur geta stjórnað minni verum svo sem leðurblökum, rottum, og úlfum. Vampíran getur kallað á 1D6 rottu- eða leðurblökusverma, meðhöndlað leðurblökusverma sem rottusverma en með Flug 100%), eða 1D6 úlfa. Hver svermur kostar 1 kraftapunkt að kalla fram, og hver úlfur kostar 3 kraftapunkta að kalla fram og stjórna. Þessar verur gætu verið búnar til sem aðstoðarmenn en nota heildarfjölda kraftapunkta vampírunnar í stað MÁT þegar stjórn er ákvörðuð eða hægt er að meðhöndla þær í gegnum galdra svo sem Sýn fugls (skiptu út leðurblöku fyrir fugl) og Sýn meindýra.
+* **Mist-form:** Vampíran getur umbreytt sér í mistur, fær um að hreyfast í gegnum minnstu sprungur og fljóta í gegnum loftið áreynslulaust. Vampíra með þennan kraft gæti neyðst í mist-form þegar hún er minnkuð í 0 heilsu-punkta, en er ekki drepin á hefðbundinn hátt. Þetta gæti verið galdurinn Breyta eða stórkraftarnir Alternate Form eða Intangibility. Meðan hún er í mist-formi, hefur vampíran HREYFING 5 og er ónæm fyrir flestum gerðum líkamlegs skaða, þótt töfrar gætu enn haft áhrif á hana.
+* **Formbreyting:** Vampíran getur umbreytt sér í úlf, leðurblöku, eða jafnvel sverm rotta á kostnað 3 kraftapunkta. Eins og með Mist-form, er krafturinn eins og annaðhvort Breyta eða Alternate Form. Notaðu tölfræði fyrir úlf eða rottusverm fyrir hæfileika vampírunnar í hvorugu þessara forma, með sömu leikáhrifum fyrir rottur og leðurblökur (þótt með Flug 100%).
+* **Galdrar:** Vampírur eru öflugir galdramenn, með úrval galdra tilbúna til notkunar. Með ótrúlegum líftíma sínum og aðgangi að bönnuðum bókum, rúllum, og vanheilögum fræðum, þekkja vampírur marga galdra eða töfra. Vampíra getur þekkt allt að tvisvar sinnum eðlilega getu manna fyrir töfra eða galdra. Vampírur nota heildarfjölda kraftapunkta sinna til að sigra skotmörk eða fyrir galdra sína.
 
-**Veikleikar:** Vampírur, sem bölvaðar og vanheilagar ódauðar, hafa marga veikleika sem aðgreina þær frá hinum lifandi og öðrum tegundum ódauðra. Hér eru hefðbundnir vampíru-veikleikar, sem allir, margir, eða engir gætu verið sannir.
+**Veikleikar:** Vampírur, sem bölvaðar og vanheilagar ódauðar, hafa marga veikleika sem aðgreina þær frá hinum lifandi og öðrum formum ódauðra. Hér eru hefðbundnir vampíruveikleikar, þar sem allir, margir, eða engir gætu verið sannir.
 
-* **Blóðþorsti:** Vampíra tapar 1D6 kraftapunktum á hverjum degi einfaldlega með því að vera til, eytt þegar vampíran rís fyrst. Ef vampíran nær 1 eða 2 kraftapunktum, eru öll köst hennar Erfið vegna veikleika hennar og öskrandi þorsta.
-* **Dagsbirta:** Vampírur taka 1 skaða á hverja bardagahring af útsetningu fyrir beinu sólarljósi. Meðan hún er í beinu sólarljósi getur vampíra ekki endurnýjað, breytt um form, breytt sér í mistur eða notað dáleiðandi augnaráð. Sólarljós gæti valdið vampírum frekari vandræðum, svo sem að gera öll kunnáttuköst Erfið. Af þessari ástæðu eru vampírur hefðbundið næturdýr.
-* **Höfuðhögg:** Vampíra sem hefur verið höfðuðlaus er dauð, mun ekki endurnýjast og getur aldrei risið frá dauðum.
-* **Eldur:** Vampírur taka tvöfaldan skaða af eldi, hver sem uppsprettan er. Vampírur eru eldfimar, ef reynt er að kveikja í þeim.
-* **Heilög tákn:** Vampírur sem mæta heilögu tákni í höndum persónu með sanna trú (kannski Devotion Passion á 80% eða meira eða 50 hollustu við „góðan“ guð) eru slegnar sársauka, tapa 1D3 kraftapunktum fyrir hverja umferð sem persónan með helga táknið tekst með mótstöðukast á POW vs. núverandi kraftapunktum vampírunnar. Persónan verður að einbeita sér að þessu og getur ekki framkvæmt aðrar árásir í hverri umferð. Vampíran þjáist 1D3 punkta af skaða fyrir hverja umferð ef hún kemst í raunverulega líkamlega snertingu við hið heilaga tákn. Vampíra getur ekki reynt dáleiðandi augnaráð gegn persónu sem vinnur í þessu mótstöðukasti.
-* **Heilagt vatn:** Heilagt vatn telur sem sterk sýra gegn vampírum (sjá Sýra), gerir 1D4 skaða á hverja bardagahring. Persóna með að minnsta kosti 50 Hollustu við velviljað guð gæti búið til heilagt vatn með því að eyða einni fullri umferð í bæn og eyða 1 kraftapunkti yfir það vatn. Magn vatns sem á að blessa er takmarkað af POW persónunnar í SIZ.
-* **Heilög jörð:** Vampíra tapar 3D6 kraftapunktum á hverjum degi sem hún eyðir ekki að minnsta kosti fjórum klukkustundum í kistu (eða samsvarandi) fóðruð með jörð úr heimalandi sínu; refsingu sem útheimt er við sólarlag. Þannig gæti illa undirbúin vampíra tapað 4D6 kraftapunktum hvert kvöld ef hún er neituð um heilaga jörð og vegna blóðþorsta (sjá hér að ofan). Ef vampíra nær 0 kraftapunktum verður hún dái, ekki dauð en ófær um að hreyfa sig eða virka þar til einhver flytur kraftapunkta yfir á hana með því að nota kraft.
-* **Staur:** Ef viðarstaur er rekinn í gegnum hjarta vampírunnar og veldur að minnsta kosti 1 punkts skaða, molnar vampíran samstundis í ryk. Í bardaga er þetta hvenær sem viðarvopn nær stungu- eða mikilvægum árangri í Erfiðri árás, eða miðað skot á brjóstsvæði. Hefðbundinn viðarstaur gerir 1D3+dm og hefur 6 heilsu-punkta, með grunnlíkur upp á 15%. Að öðrum kosti kemur þetta einfaldlega í veg fyrir að vampíran virki og endurnýjist, og vampíran verður að vera höfðuðlaus, höfuðið og líkaminn brenndir í sitthvoru lagi til að vera gjörsamlega eyðilagðir.
+* **Blóðþorsti:** Vampíra tapar 1D6 kraftapunktum á hverjum degi með því að vera einfaldlega til, eytt þegar vampíran rís fyrst. Ef vampíran nær 1 eða 2 kraftapunktum eru öll köst hennar Erfið vegna veikleika hennar og öskrandi þorsta.
+* **Dagsbirta:** Vampírur þjást af 1 skaða á hverja bardagaumferð af útsetningu fyrir beinu sólarljósi. Meðan hún er í beinu sólarljósi getur vampíra ekki endurnýjað sig, breytt um form, breytt í mistur, eða notað dáleiðandi augnaráð sitt. Sólarljós gæti valdið frekari vandamálum fyrir vampírur, svo sem að gera öll færniköst Erfið. Af þessari ástæðu eru vampírur hefðbundið næturdýr.
+* **Hálshögg:** Vampíra sem hefur verið afhöfðuð er dauð, mun ekki endurnýjast, og getur aldrei risið frá dauðum.
+* **Eldur:** Vampírur taka tvöfaldan skaða af eldi, hvaðan sem hann kemur. Vampírur eru eldfimar, ef reynt er að kveikja í einni.
+* **Heilög tákn:** Vampírur sem mæta heilögu tákni í höndum persónu með sanna trú (kannski Devotion Passion á 80% eða meira eða 50 hollustu við „góðan“ guð) eru slegnar af miklum sársauka, tapa 1D3 kraftapunktum fyrir hverja umferð sem persónan með helga táknið tekst í viðnámskasti á MÁT vs. núverandi kraftapunktum vampírunnar. Persónan verður að einbeita sér að þessu og getur ekki gert neinar aðrar árásir í hverri umferð. Vampíran þjáist af 1D3 skaða fyrir hverja umferð ef hún kemst í raunverulega líkamlega snertingu við helga táknið. Vampíra getur ekki reynt dáleiðandi augnaráð sitt gegn persónu sem vinnur í þessu viðnámskasti.
+* **Heilagt vatn:** Heilagt vatn telur sem sterk sýra gegn vampírum (sjá Sýra), og gerir 1D4 skaða á hverja bardagaumferð. Persóna með að minnsta kosti 50 hollustu við velviljaðan guð getur búið til heilagt vatn með því að eyða einni fullri umferð í bæn og eyða 1 kraftapunkti yfir það vatn. Magn vatns sem á að blessa er takmarkað af STÆ persónunnar í MÁT.
+* **Heilög jörð:** Vampíra tapar 3D6 kraftapunktum á hverjum degi sem hún eyðir ekki að minnsta kosti fjórum klukkustundum í kistu (eða samsvarandi) fóðraðri með jörð frá heimalandi sínu; refsingu sem framkvæmd er við sólsetur. Þannig gæti illa undirbúin vampíra tapað 4D6 kraftapunktum á hverju kvöldi ef henni er synjað um heilaga jörð og vegna blóðþorsta (sjá hér að ofan). Ef vampíra nær 0 kraftapunktum verður hún í dái, ekki dauð en ófær um að hreyfa sig eða virka þar til einhver flytur kraftapunkta yfir á hana með því að nota kraft.
+* **Staurar:** Ef tréstaur er rekinn í gegnum hjarta vampíru og veldur að minnsta kosti 1 skaða, leysist vampíran samstundis upp í ryk. Í bardaga er þetta hvenær sem trévopn nær spjótandi eða mikilvægum árangri í Erfiðri árás, eða miðuðu skoti á brjóstsvæðið. Hefðbundinn tréstaur gerir 1D3+dm og hefur 6 heilsu-punkta, með grunnlíkur upp á 15%. Að öðrum kosti kemur þetta einfaldlega í veg fyrir að vampíran virki og endurnýjist, og vampíran verður að vera afhöfðuð, höfuðið og líkaminn brenndir í sitthvoru lagi til að eyðast að fullu.
 
 ### Varúlfur
 
-Varúlfar eru formbreytar sem geta breytt sér úr manni í úlf, með millistigs blönduformi. Þetta ástand er kallað varúlfsæði (lycanthropy). Sumir úlfar geta gert þessa breytingu frjálst, á meðan aðrir breytast óviljugir á nóttum þegar tunglið er fullt. Þessi síðarnefnda tegund varúlfs verður hrein dýr þá, með enga meðvitaða stjórn eða jafnvel minni á athöfnum sínum meðan þeir eru í varúlf-formi. Hefðbundið mun einhver sem lifir af biti varúlfs verða varúlfur við næsta fulla tungl—ástand sem er talið óumflýjanlegt. Sumar tegundir af lycanthropy eru töfrandi að eðli (yfirleitt bölvun), á meðan aðrar tegundir eru eins og sjúkdómur, undir spilastjóra komið.
+Varúlfar eru formbreytendur sem geta breytt úr manni, í úlf, með milliliðs-blendingaformi. Þetta ástand er kallað lycanthropy. Sumir úlfar geta gert þessa breytingu frjálslega, á meðan aðrir breytast óviljandi á nóttum þegar tunglið er fullt. Þessi síðarnefnda tegund varúlfa verður hrein dýr þá, með enga meðvitaða stjórn eða jafnvel minni á aðgerðir sínar meðan hún er í varúlfsformi. Hefðbundið mun einhver sem lifir af bit varúlfs verða varúlfur við næsta fulla tungl—ástand sem er talið óhjákvæmilegt. Sumar tegundir lycanthropy eru töfrandi í eðli sínu (venjulega bölvun), á meðan aðrar tegundir eru eins og sjúkdómur, í höndum leikstjóra.
 
-Í mannlegu formi er varúlfur útlitslega eðlilegur og hefur eðlilega mannlega eiginleika. Hér eru tölfræði fyrir blönduformið (úlf-mann) og úlf-formið.
+Í mannsformi er varúlfur ytra eðlilegur og hefur eðlilega mannlega eiginleika. Hér eru tölfræði fyrir blendinga- (úlfur-maður) og úlfsform.
 
-**Blönduform**
+**Blendingaform**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6 | 2D6+6 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 10–11 | 13 | 13 | 13 |
 
-**Úlf-form**
+**Úlfsform**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6+1D3 | 1D4+2 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 12–13 | 4–5 | 13 | 13 |
 
 | Hreyfing 12 / 13 | Heilsu-punktar 12 / 12–13 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 / +1D6 | **Brynja** 1-punkta feldur (ónæmi fyrir eðlilegum vopnum, sjá hér að neðan) |
+| **Skaðabreytir** +1D4 / +1D6 | **Brynja** 1-punkts feldur (ónæmi fyrir eðlilegum vopnum, sjá hér að neðan) |
 
-**Árásir (blönduform):**
+**Árásir (blendingaform):**
 
-* Bit 50%, 1D4+½dm (blæðing)
-* Klær 65%, 1D6+dm (blæðing)
+* Bit 50%, 1D4+½dm (blæðandi)
+* Klær 65%, 1D6+dm (blæðandi)
 
-**Árásir (úlf-form):**
+**Árásir (úlfsform):**
 
-* Bit 65%, 1D8+½dm (blæðing)
-* Klær 45%, 1D6+dm (blæðing)
+* Bit 65%, 1D8+½dm (blæðandi)
+* Klær 45%, 1D6+dm (blæðandi)
 
-Í hvoru formi sem er, getur varúlfur gert eina bitárás og tvær klóárásir í hverri bardagahring.
+Í hvoru formi sem er, getur varúlfur gert eina bitárás og tvær klóárásir í hverri bardagaumferð.
 
 **Kraftar:** Varúlfar hafa eftirfarandi krafta:
 
-* **Ónæmi:** Varúlfar eru ónæmir fyrir flestum tegundum skaða annarra en galdra, elds eða silfurs. Aðrar árásir skoppa einfaldlega af, burtséð frá árangri. Galdrar, eldur og silfruð vopn gera fullan skaða. Vopn með galdri sem varpað er á það, svo sem Hell’s Razor, gerir sinn töfraskaða en ekki skaða vopnsins eða skaðabónus árásarmannsins. Bein töfravopn gera eðlilegan skaða. Spilastjórinn ætti að ákvarða hvort orkuvopn eða aðrar svipaðar árásir geti skaðað varúlf.
-* **Endurnýjun:** Varúlfar geta endurnýjað 1 heilsu-punkt í hverri bardagahring nema sá skaði hafi verið gerður með silfurvopni. Varúlfar gróa af skaða sem silfurvopn hefur valdið á eðlilegum gróunarhraða sínum.
-* **Breyting:** Varúlfar geta tekið á sig eitt af þremur mismunandi formum; manns, blöndu og úlfs. Að skipta úr einu formi í annað tekur 5 DEX-stig og kostar enga kraftapunkta. Varúlfurinn getur skipt úr hvaða formi sem er í annað.
+* **Ónæmi:** Varúlfar eru ónæmir fyrir flestum gerðum skaða annarra en töfra, elds, eða silfurs. Aðrar árásir skoppa einfaldlega af, burtséð frá niðurstöðunni. Töfrar, eldur, og silfurvopn gera fullan skaða. Vopn með töfrum kastast á það, svo sem Heljar-raka, gerir töfraskaða sinn en ekki skaða vopnsins eða skaðabreyti árásarmannsins. Hreint töfravopn gerir eðlilegan skaða. Leikstjórinn ætti að ákveða hvort orkuvopn eða aðrar svipaðar árásir geti skaðað varúlf.
+* **Endurnýjun:** Varúlfar geta endurnýjað 1 heilsu-punkt í hverri bardagaumferð nema sá skaði hafi verið gerður með silfurvopni. Varúlfar lækna sig af skaða af völdum silfurvopns á eðlilegum lækningahraða sínum.
+* **Umbreyting:** Varúlfar geta tekið sér eitt af þremur mismunandi formum; mann, blending, og úlf. Að skipta úr einu formi í annað tekur 5 LIP-stig og kostar enga kraftapunkta. Varúlfurinn getur skipt úr hvaða formi sem er í annað.
 
-**Kunnátta:** Climb 75%, Dodge 65%, Hide 60%, Jump 80%, Listen 70%, Sense 90%, Spot 70%, Track 90%.
+**Færni:** Klifra 75%, Vik 65%, Fela 60%, Hoppa 80%, Hlusta 70%, Skyn 90%, Spotta 70%, Rekja 90%.
 
-### Uppvakningur (Zombie)
+### Uppvakningur
 
-Uppvakningar eru lífgaðir líkamar lífgaðir af galdra (necromancy), voodoo, djöfullegri bólfestu, eða nútíma orsökum svo sem eitruðum efnum, geislun eða líffræðilegum plágum. Burtséð frá uppruna þeirra, þyrstir uppvakningum í mannlegt hold (sumir kjósa heila) og gera lítið annað en að leita að því að nærast. Uppvakningar eru yfirleitt ófær um tal og stalka hin lifandi í múgum. Þeir eru ekki sérstaklega bjartir og er auðvelt að blekkja þá.
+Uppvakningar eru lífgaðir lík lífgaðir af svartagaldri, voodoo, púka-innsetningu, eða nútíma orsökum svo sem eitruðum efnum, geislun, eða líffræðilegri plágu. Hver sem uppruni þeirra er, þyrstir uppvakninga eftir mannsholti (sumir kjósa heila) og gera lítið annað en að leitast við að nærast. Uppvakningar eru venjulega ófærir um tal og elta hina lifandi í múgum. Þeir eru ekki sérstaklega gáfaðir og auðvelt er að blekkja þá.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×1.5 | 3D6×1.5 | 2D6+6 | 6 | 1 | 2D6 | 1D6 |
 | 15–17 | 15–17 | 13 | 6 | 1 | 7 | 3–4 |
 
 | Hreyfing 4 | Heilsu-punktar 14–15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert (sjá hér að neðan) |
+| **Skaðabreytir** +1D4 | **Brynja** Engin (sjá hér að neðan) |
 
 **Árásir:**
 
-* Bit 30%, 1D3+½dm (blæðing)
-* Kló 25%, 1D3+dm (blæðing)
+* Bit 30%, 1D3+½dm (blæðandi)
+* Kló 25%, 1D3+dm (blæðandi)
 * Glíma 35%, sérstakt
-* Stór klúbbur 35%, 1D8+1+dm (mulið)
+* Stór klúbbur 35%, 1D8+1+dm (kremjandi)
 
-Árásarlíkur uppvaknings með vopn jafngilda DEX×5 hans. Uppvakningar reyna aldrei að Dodge-a eða parera.
+Færni uppvaknings með vopn jafngildir LIP×5 hans. Uppvakningar reyna aldrei að Vikja eða verja.
 
-**Kraftar:** Flestar skurð-, mulið- og stunguvopn gera aðeins helming skaða á uppvakninga. Eldur gerir fullan skaða. Sumar tegundir af uppvakningum geta aðeins verið drepnar með sérstökum árangri sem skaðar höfuðkúpuna. Þetta er hvenær sem vopn nær sérstökum eða mikilvægum árangri í Erfiðri árás, eða höggi á höfuð líkamshlutans sem gerir nógan skaða til að gera hann ófær. Sumar tegundir af uppvakningum eru smitandi—farsælt bit breytir fórnarlambinu í uppvakning í fjölda umferða sem jafngildir CON þeirra, án undantekninga.
+**Kraftar:** Flest skerandi, kremjandi, og spjótandi vopn gera aðeins helming skaða á uppvakninga. Eldur gerir fullan skaða. Sumar tegundir uppvakninga er aðeins hægt að drepa með sérstökum árangri sem skaðar höfuðkúpuna. Þetta er hvenær sem vopn nær sérstökum eða mikilvægum árangri í Erfiðri árás, eða höggi á höfuðstaðsetninguna sem gerir nógan skaða til að ófæra hann. Sumar tegundir uppvakninga eru smitandi—farsælt bit breytir fórnarlambinu í uppvakning í fjölda umferða sem jafngildir ÞOL þeirra, án undantekninga.
 
-**Kunnátta:** Sense 50%.
+**Færni:** Skyn 50%.
 
 ## Kallaðar verur
 
-Þessar verur eru ekki innfæddar þessum heimi eða eru kallaðar fram í tilveruna þegar þeim er hrópað. Guðfræðilegar verur eins og englar og djöflar ættu aðeins að mætast í umhverfi þar sem hollusta er notuð, á meðan frumverur ættu aðeins að birtast ef viðeigandi kraftar eru til staðar til að kalla þær fram.
+Þessar verur eru ekki innfæddar þessum heimi eða eru kallaðar til lífsins þegar kallað er. Guðfræðilegar verur eins og englar og púkar ættu aðeins að mætast í umhverfi þar sem hollusta er notuð, á meðan frumverur ættu aðeins að birtast ef viðeigandi kraftar eru til staðar til að kalla þær fram.
 
 ### Engill
 
-Engill er heilög vera, sendiboði guðlegs valds. Þeir hafa margar myndir; útlit þeirra byggist á pantheoninu sem þeir búa í. Englar þjóna sem sendiboðar, verndarar, hermenn, leiðbeinendur eða sem fyrirboðar. Þetta dæmi er vængjuð mannlík vera búin brjóstbrynju og logandi sverði.
+Engill er heilög vera, sendiboði guðlegs máttar. Þeir hafa mörg form; útlit þeirra byggist á guðahópnum sem þeir búa í. Englar þjóna sem sendiboðar, verndarar, hermenn, leiðbeinendur, eða sem fyrirboðar. Þetta dæmi er vængjuð mannvera búin brjóstplötu og logandi sverði.
 
-Eins og fram kemur í Geðheilsu-tap og verur, gæti guðhrædd persóna fengið SAN þegar hún horfir á engil ef geðheilsukastið hennar tekst.
+Eins og fram kom í Geðheilbrigðistapi og Verum, gæti guðrækin persóna fengið SAN þegar hún horfir á engil ef geðheilbrigðiskast hennar tekst.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+12 | 2D6+24 | 2D6+6 | 2D6+6 | 4D6+12 | 2D6+12 | 4D6+12 |
 | 26 | 31 | 13 | 13 | 26 | 19 | 26 |
 
 | Hreyfing 10 (12 fljúgandi) | Heilsu-punktar 22 |
 | :---- | :---- |
-| **Skaðabónus** +1D6 | **Brynja** 10-pt. plötubrjóstbrynja + 10-pt. guðleg geislun |
+| **Skaðabreytir** +1D6 | **Brynja** 10-pt. plötu-brjóstplata + 10-pt. guðlegur ljómi |
 
 **Árásir:**
 
-* Logandi breiðsverð 200%, 1D8+1+dm (skurður) + 2D6 (eldur)
+* Logandi breiðsverð 200%, 1D8+1+dm (skerandi) +2D6 (eldur)
 * Heilagur eldur 100%, 10D6 (eldur, sjá hér að neðan)
-* Rödd himna 100%, sérstakt (sjá hér að neðan)
+* Rödd himins 100%, sérstakt (sjá hér að neðan)
 
-Sem guðlegar verur eru englar færir um að fara yfir kunnáttustig 100% jafnvel þótt þessi valkostur sé ekki notaður fyrir persónur leikmanna (sjá Árásir og Pareringar yfir 100%). Engill getur aldrei verið aðskilinn frá sverði sínu, og sverðið getur ekki brotnað.
+Sem guðlegar verur eru englar færir um að fara yfir færnistig upp á 100% jafnvel þótt þessi valkostur sé ekki notaður fyrir persónur spilara (sjá Árásir og varnir yfir 100%). Engill getur aldrei verið aðskilinn frá sverði sínu, og sverðið er ekki hægt að brjóta.
 
-**Kraftar:** Englar eru sagðir hafa her af kröftum, þar sem hver einstakur engill gæti haft suma, alla eða enga:
+**Kraftar:** Englar eru sagðir hafa hóp af kröftum, þar sem hver einstakur engill gæti haft suma, alla, eða enga:
 
-* **Guðleg geislun:** Englar geta gefið frá sér geislun ljóss sem verndar þá fyrir meiðslum, þjónar sem 10-pt. brynja gegn hvaða skaða sem er, þar á meðal frá kröftum.
-* **Flug:** Hvort sem vængjuðir eða vænglausir, geta englar flogið með miklum hraða. Englar búa yfir Flight-ofurkraftinum á stigum sem jafngilda POW þeirra, þótt það kosti enga kraftapunkta að nota hann. Engill gæti birst vænglaus, síðan birt stóra fuglalíka vængi sem skyndilega vaxa og breiðast út frá baki hans.
-* **Lækningasnerting:** Englar geta lagt hendur á og læknað sjúka, veikburða og særða. Fyrir utan að endurheimta heilsu-punkta á kostnað 1 heilsu-punkts á hvern kraftapunkt, getur engillinn fjarlægt hvaða veikindi, sjúkdóm, stóran skaða eða veikburða sem er með því að eyða 1 punkti af eigin varanlegum POW á hverja veikburða. Ef kraftapunktar engilsins ná 0, snýr hann aftur til upprunaplans síns þar til honum er hrópað eða leyft að snúa aftur (að minnsta kosti ein vika, eftir það er hann fullkomlega endurreistur).
-* **Heilagur eldur:** Englar geta kallað fram heilagan eld, eld-högg ofanfrá með svæðisáhrifum af þremur metrum í fermetra. Ef veiddur í þessum loga, gætu guðhræddar persónur sem hafa hollustu sem samræmist englinum gert kast á hollustu sinni sem %. Ef tekst, tekur persónan engan skaða af heilaga eldinum. Mistakist, eða ó-guðhrædd, skotmörk eru gleypt í eldi, gerir 10D6 skaða (skipt á milli líkamshluta, ef notað). Ólíkt eðlilegum eldi, dvelur heilagur eldur ekki. Áhrif hans eru næstum samstundis, hverfandi í lok bardagahringsins sem hann var kallaður fram. Þetta kostar 10 kraftapunkta og hægt er að kalla fram einu sinni á dag.
-* **Ósýnileiki:** Englar geta orðið ósýnilegir að vild eins og ofurkrafturinn, með jafngildi hálfs POW þeirra í stigum (námunda upp). Þetta kostar aðeins 3 kraftapunkta á hverja notkun.
-* **Rödd himna:** Engill getur talað með rödd himna (eða samsvarandi). Þetta er svæðis-áhrifa árás tíu metrar í þvermál frá englinum, hann gæti varað þá sem eru innan drægni við að hylja eyru sín, og hver sá sem hlýðir er þyrmt. Þessi rödd, dynjandi og konungleg, stunar hvern sem er innan drægni ef þeir mistakast með mótstöðukast á POW vs. POW engilsins. Árangur þýðir að þeir verða ekki fyrir áhrifum þessarar bardagahrings. Þessi kraftur kostar 3 kraftapunkta og tekur stað allra líkamlegra árása.
+* **Guðlegur ljómi:** Englar geta gefið frá sér ljóma sem verndar þá fyrir meiðslum, þjónar sem 10-pt. brynja gegn hvers kyns skaða, þar á meðal frá kröftum.
+* **Flug:** Hvort sem þeir eru vængjaðir eða vænglausir, geta englar flogið með miklum hraða. Englar búa yfir Flugs-superpower á stigum sem jafngilda MÁT þeirra, þótt það kosti enga kraftapunkta að nota. Engill gæti birst vænglaus, síðan birt stóra fuglalega vængi sem skyndilega vaxa og opnast frá baki hans.
+* **Lækningasnerting:** Englar geta lagt hendur á og læknað sjúka, veikburða og særða. Fyrir utan að endurheimta heilsu-punkta á kostnað 1 heilsu-punkts á hvern kraftapunkt, getur engillinn fjarlægt hvers kyns veikindi, sjúkdóm, stór meiðsl, eða veikburða með því að eyða 1 stigi af sínu eigin varanlega MÁT á hvert veikburða. Ef kraftapunktar engilsins ná 0, snýr hann aftur til upprunaflatar síns þar til honum er boðið eða leyft að snúa aftur (að minnsta kosti eina viku, eftir það er hann fullkomlega endurheimtur).
+* **Heilagur eldur:** Englar geta kallað á heilagan eld, logaslag ofan frá með svæðisáhrifum þriggja metra fernings. Ef þeir lenda í þessum loga geta guðræknar persónur sem hollusta þeirra samræmist englinum gert kast á hollustu sinni sem %. Ef það tekst, tekur persónan engan skaða af heilaga eldinum. Skotmörk sem mistekst, eða eru ekki guðrækin, verða upptekin af loga, sem gerir 10D6 skaða (deilt á milli staðsetninga, ef notað er). Ólíkt venjulegum eldi, dvelur heilagur eldur ekki. Áhrif hans eru næstum samstundis, hverfa í lok bardagaumferðarinnar sem hann var kallaður í. Þetta kostar 10 kraftapunkta og hægt er að kalla hann fram einu sinni á dag.
+* **Ósýnileiki:** Englar geta orðið ósýnilegir að vild eins og stórkrafturinn, með jafngildi helmingi af MÁT þeirra í stigum (námundað upp). Þetta kostar aðeins 3 kraftapunkta í notkun.
+* **Rödd himins:** Engill getur talað með rödd himins (eða samsvarandi). Þetta er svæðisárás tíu metrar í þvermál frá englinum, hann gæti varað þá sem eru innan drægni við að hylja eyru sín, og allir sem hlýða eru þyrmt. Þessi rödd, dynjandi og konungleg, gáttar hvern sem er innan drægni ef þeir mistekst viðnámskast á MÁT vs. MÁT engilsins. Árangur þýðir að þeir verða ekki fyrir áhrifum í þessari bardagaumferð. Þessi kraftur kostar 3 kraftapunkta og tekur stað hvers kyns líkamlegrar árásar.
 
-**Galdrar:** Englar gætu notað galdra eða ofurkrafta. Galdrar sem eru algengir eru Countermagic, Dispel, Enhance, Light, Speak to Mind og Teleport, allir á 100%. Englar nota sjaldan galdrakúnstir og eru aldrei stökkbreyttir. Þeir gætu haft sálræna krafta eða samsvarandi.
+**Galdrar:** Englar gætu notað töfra eða stórkrafta. Töfragaldrar sem almennt eru notaðir eru Aflýsa töfra, Aflýsa, Aukning, Ljós, Tala við huga, og Teleport, allir á 100%. Englar nota sjaldan galdra og eru aldrei stökkbreytur. Þeir gætu haft sálræna krafta eða jafngildi.
 
-**Kunnátta:** Command 100%, Dodge 100%, Flight 100%, Insight 75%, Knowledge (any) 100%, Language (any) 100%, Sense 90%, Spot 90%, Teach 90%.
+**Færni:** Skipun 100%, Vik 100%, Flug 100%, Innsæi 75%, Þekking (hvaða sem er) 100%, Tungumál (hvaða sem er) 100%, Skyn 90%, Spotta 90%, Kenna 90%.
 
-### Djöfull, Stærri
+### Púki, meiri
 
-Djöfull er infernal vera, kölluð fram eða á þessu plani í hræðilegum tilgangi. Stærri djöfull er enginn venjulegur verndari eða þjónn—hann er mættur vegna þess að eitthvað stórfenglegt er í húfi. Eftir skapi hans gæti hann verið dýrslegur og einbeittur aðeins á eyðileggingu, eða hann gæti verið fyndinn, urbane, heillandi og sannfærandi. Þessi tölfræði táknar bardaga-miðaðan djöful, klóraðan og hornóttan, tilbúinn til að valda usla á hverjum þeim sem ögrar honum.
+Púki er vanheilög vera, kölluð eða á þessu plani í hræðilegum tilgangi. Meiri púki er enginn venjulegur verndari eða þjónn—honum er mætt vegna þess að eitthvað stórfenglegt er í húfi. Eftir skapi hans gæti hann verið dýrslegur og einbeittur aðeins að eyðileggingu, eða hann gæti verið sniðugur, urbane, heillandi, og sannfærandi. Þessi tölfræði táknar bardagamiðaðan púka, klóklæddan og hornóttan, tilbúinn til að valda usla á öllum sem óhlýðnast honum.
 
-Þótt að horfa á engil gæti mögulega endurreist SAN-punkta fyrir guðhræddan trúaðan, eru þeir sem tilbiðja infernal öflin ekki nærri eins heppnir. Persóna sem horfir á stærri djöful er í hættu á SAN-tapi, jafnvel þótt hún hafi kallað hann fram í fyrsta lagi.
+Meðan að horfa á engil gæti hugsanlega endurheimt SAN-punkta fyrir guðræknan trúaðan, eru þeir sem tilbiðja vanheilaga kraftana ekki nærri því svo heppnir. Persóna sem horfir á meiri púka er í hættu á SAN-tapi, jafnvel þótt hún hafi sjálf kallað hann fram.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+24 | 3D6+12 | 3D6+12 | 3D6 | 3D6+6 | 3D6+6 | 3 eða 21 |
 | 34–35 | 22–23 | 22–23 | 10–11 | 16–17 | 16–17 | 3 eða 21 |
 
 | Hreyfing 10 (12 fljúgandi) | Heilsu-punktar 22–23 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** 8-pt. hörð húð (getur klæðst brynju) |
+| **Skaðabreytir** +2D6 | **Brynja** 8-pt. harðgerð húð (getur klæðst brynju) |
 
 **Árásir:**
 
-* Stórsverð (notað einhent) 150%, 2D8+dm (blæðing) + 2D6 eldur (sérstakt)
-* Svipa 90%, 1D3–1+½dm (entangle) + 1D6 eldur (sérstakt)
+* Stórsverð (notað með annarri hendi) 150%, 2D8+dm (blæðandi) +2D6 eldur (sérstakt)
+* Svipa 90%, 1D3–1+½dm (flækja) +1D6 eldur (sérstakt)
 * Eldöndun 100%, 6D6 eldur (sérstakt)
-* Klær 150%, 1D6+dm (blæðing)
+* Klær 150%, 1D6+dm (blæðandi)
 * Glíma 150%, sérstakt
 
-Stærri djöfull byrjar yfirleitt á blástri elds úr munni sínum áður en hann hefst handa við líkamlegan bardaga. Hann getur gert tvær (eða fleiri) árásir í hverri umferð, kjósandi að nota svipuna fyrst til að hreyfingarleysa andstæðing og síðan slá með stórsverðinu 5 DEX-stigum síðar. Logandi stórsverð hans getur kveikt í eldfimum efnum. Hann berst tveggja-henda með langri svipu, einnig logandi. Ef annaðhvort vopnið tapast, grípur hann til klóa sinna eða glímu. Ólíkt vopnum engils, hafa vopn stærri djöfulsins tvöfaldan heilsu-punkta en geta brotnað eða á annan hátt eyðilagst (þau eru ónæm fyrir eldi, hins vegar).
+Meiri púki byrjar venjulega með eldbylgju úr munni sínum áður en hann hefst í líkamlegan bardaga. Hann getur gert tvær (eða fleiri) árásir á umferð, kjósandi að nota svipuna fyrst til að óvirkja óvin og síðan slá með stórsverðinu 5 LIP-stigum síðar. Logandi stórsverð hans getur kveikt í eldfimum efnum. Hann berjast með báðum höndum með langri svipu, einnig logandi. Ef annaðhvort vopn tapast, grípur hann til þess að nota klærnar eða glíma. Ólíkt vopnum engils, hafa vopn meiri púka tvöfaldan fjölda heilsu-punkta en hægt er að brjóta eða eyðileggja á annan hátt (þau eru þó ónæm fyrir eldi).
 
-**Kunnátta:** Climb 90%, Dodge 75%, Fly 100%, Jump 75%, Sense 75%, Spot 75%, Throw 75%.
+**Færni:** Klifra 90%, Vik 75%, Flug 100%, Hoppa 75%, Skyn 75%, Spotta 75%, Kasta 75%.
 
-**Kraftar:** Djöflar eru sagðir hafa her af kröftum, þar sem hver einstakur djöfull gæti haft suma, alla eða enga:
+**Kraftar:** Púkar eru sagðir hafa hóp af kröftum, þar sem hver einstakur púki gæti haft suma, alla, eða enga:
 
-* **Aura of Terror:** Stærri djöfullinn hefur geislun af illgirni og hatri sem birtist í aura ótta. Sérhver sem kemur innan POW-metra djöfulsins verður að gera POW vs. POW mótstöðukast til að forðast að verða sigrast af ótta. Mistakist það er persónan slegin ótta og allar árásir og aðrar athafnir verða Erfiðar. Fyrirhugaðar persónur geta reynt nýtt mótstöðukast í upphafi næstu bardagahrings, þótt fyrir þetta mótstöðukast sé POW þeirra hálfað (námunda upp). Djöfullinn getur virkjað þessa aura fyrir 1 kraftapunkt, og hún varir í POW-fjölda bardagahringa djöfulsins, eða þar til djöfullinn velur að stoppa kraftinn. Sérhver sem er á „hlið“ djöfulsins eða þeir sem eru af sömu hollustu eru undanþegnir þessum krafti nema djöfullinn vilji að það hafi áhrif á bandamenn. Ef persóna mistekst mótstöðukastið og geðheilsa er notuð, tapar persónan fullri upphæð mögulegs SAN af því að sjá stærri djöfulinn.
-* **Blight:** Nærvera djöfulsins veldur því að svæði verður mengað, snúið af dökku illsku í sál djöfulsins. Þetta er ekki gagnlegt í bardaga, en mengar svæði yfir tíma, þar til það hefur fyrirboða og dveljandi nærveru illsku og illgirni. Lifandi plöntur visna eða vaxa snúnar og beiskar, jarðvegurinn verður þurr og tómlegur, og sjálft andrúmsloftið tekur á sig óhollt snið. Radíus þessara áhrifa jafngildir POW stærri djöfulsins × 100 metrar. Það kostar enga kraftapunkta að virkja, er sjálfvirkt og fyrir utan stjórn djöfulsins (nærveruna er ekki hægt að fela eða dylja). Það tekur 30 daga mínus POW djöfulsins fyrir þessa nærveru að verða áberandi, og POW djöfulsins í mánuðum fyrir svæði að jafna sig þegar það hefur orðið blighted.
-* **Eldöndun:** Djöfull getur blásið loga með drægni sem jafngildir CON hans í metrum. Þessi blástur er svæðisárás þrír metrar í fermetra. Sérhver sem er veiddur í þessum blæstri mun taka 6D6 eld-skaða (burtséð frá hollustu sinni), skaði skiptist á milli allra líkamshluta, ef notaðir eru. Þessi eldur dvelur og heldur áfram að brenna í þrjár eftirfarandi umferðir. Ráðfærðu þig við reglurnar um eld fyrir nánari upplýsingar. Þessi logandi blástur kostar 6 kraftapunkta á hvern blástur.
-* **Flug:** Stærri djöfullinn hefur stóra leðurblökuvængi og getur flogið, þreytulaust og áreynslulaust.
-* **Endurnýjun:** Djöfull hefur infernal lífskraft og getur endurnýjað 1D6 heilsu-punkta á hverja bardagahring án kraftapunktakostnaðar. Ef líkamshlutar eru notaðir, græðir djöfullinn 1D3 heilsu-punkta á líkamshluta á hverja bardagahring.
-* **Skaði úr reyk og eldi:** Djöfullinn getur hulið sig í logandi geislun sem veldur 1D6 stigum af eld-skaða á hverja bardagahring á hverja veru sem kemst innan tveggja metra frá honum, svo sem í líkamlegum bardaga. Þessi skikkja getur kveikt í hvaða eldfimu efni sem er í kringum djöfulinn. Hún þjónar sem 1 punktur af auka brynju gegn hvaða viðar-eldflaugavopni sem er beint að honum, svo sem ör eða krossbogapíla. Þessa skikkju má virkja að vild og kostar 1 kraftapunkt á hverja umferð að viðhalda.
+* **Ógnaraura:** Meiri púkinn hefur ljóma af illgirni og hatri sem birtist í auru ógnar. Allir sem koma innan MÁT púkans í metrum verða að gera MÁT vs. MÁT viðnámskast til að forðast að verða yfirbugaðir af ógn. Bilun þýðir að persónan er slegin af ótta og allar árásir og aðrar aðgerðir verða Erfiðar. Affektaðar persónur geta reynt nýtt viðnámskast í upphafi næstu bardagaumferðar, þótt fyrir þetta viðnámskast sé MÁT þeirra helmingað (námundað upp). Púkinn getur virkjað þessa auru fyrir 1 kraftapunkt, og hún varir í MÁT púkans í bardagaumferðum, eða þar til púkinn velur að stoppa kraftinn. Allir á „hlið“ púkans eða þeir sem hafa sömu hollustu eru undanþegnir þessum krafti nema púkinn óski þess að hann hafi áhrif á bandamenn. Ef persóna mistekst viðnámskastið og geðheilsa er notuð, tapar persónan fullri upphæð mögulegs SAN af því að sjá meiri púkann.
+* **Bólur:** Nærvera púkans veldur því að svæði verður smitað, snúið af dökku illsku í sál púkans. Þetta er ekki gagnlegt í bardaga, en mengar svæði yfir tíma, þar til það hefur fyrirboðandi og dveljandi nærveru illsku og illgirni. Lifandi plöntur visna eða vaxa snúnar og beiskar, jarðvegurinn verður þurr og dapurlegur, og andrúmsloftið sjálft tekur á sig óheilsusamlegan svip. Radíus þessara áhrifa jafngildir MÁT meiri púkans ×100 metrum. Það kostar enga kraftapunkta að virkja, er sjálfvirkt og handan stjórn púkans (nærveruna er ekki hægt að fela eða dylja). Það tekur 30 daga mínus MÁT púkans fyrir þessa nærveru að verða áberandi, og MÁT púkans í mánuðum fyrir svæði að jafna sig þegar það hefur orðið fyrir áhrifum.
+* **Eldöndun:** Púki getur andað út eldbylgju með drægni sem jafngildir ÞOL hans í metrum. Þessi bylja er svæðisárás þriggja metra fernings. Allir sem lenda í þessari bylju munu taka 6D6 eld-skaða (burtséð frá hollustu þeirra), skaða deilt á milli allra staðsetninga, ef notað er. Þessi eldur dvelur og heldur áfram að brenna í þrjár eftirfarandi umferðir. Skoðaðu reglur um eld fyrir frekari upplýsingar. Þessi eld-bylgja kostar 6 kraftapunkta á hverja bylju.
+* **Flug:** Meiri púkinn hefur stóra leðurblökuvængi og getur flogið, þreytulaust og áreynslulaust.
+* **Endurnýjun:** Púki hefur helvítis lífsþrótt og getur endurnýjað 1D6 heilsu-punkta á bardagaumferð án kraftapunktakostnaðar. Ef staðsetningar eru notaðar, læknar púkinn 1D3 heilsu-punkta á staðsetningu á hverja bardagaumferð.
+* **Reyk- og eld-kápa:** Púkinn getur klætt sig í logandi ljóma sem veldur 1D6 stigum af eldi á hverja bardagaumferð fyrir hvaða veru sem kemst innan tveggja metra frá honum, svo sem í líkamlegum bardaga. Þessi kápa getur kveikt í hvers kyns eldfimu efni í kringum púkann. Hún þjónar sem 1 stigs viðbótarbrynja gegn hvers kyns tré-eldflaugavopnum beint að honum, svo sem ör eða krossbogapílu. Þessi kápa getur verið virkjuð að vild og kostar 1 kraftapunkt á hverja umferð að viðhalda.
 
-Stærri djöfull gæti haft einn eða fleiri óreiðukennda eiginleika, líka.
+Meiri púki gæti haft einn eða fleiri chaotíska eiginleika, einnig.
 
-### Djöfull, Minni
+### Púki, minni
 
-Minni djöfull er mun minni en stærri djöfull og hefur verið kallaður fram af galdramanni (sjá Summon Demon galdurinn) eða sendur sem sendiboði eða fulltrúi spillingar. Þessi minni djöfull er grótesk vera, eins og horuð gargoyle með klær, vængi og horn. Hann er ekki huglaus en kýs að þjóna með öðrum leiðum en bardaga. Þegar hann er eyddur, snýr hann aftur til infernal ríkjanna, þar sem honum er strítt og kvalið. Þess vegna vill hann framlengja frelsi sitt í þessum heimi eins lengi og mögulegt er.
+Minni púki er miklu minni en meiri púki og hefur verið kallaður fram af galdramanni (sjá Kalla fram púka galdurinn) eða sendur sem sendiboði eða fulltrúi spillingar. Þessi minni púki er grótesk vera, eins og horaður gargoyle með klær, vængi, og horn. Hann er ekki huglaus en kýs að þjóna með öðrum leiðum en bardaga. Þegar hann er eyddur, snýr hann aftur til helvítis heima, þar sem hann er eineltur og kvalinn. Þess vegna óskar hann að lengja frelsi sitt í þessum heimi eins lengi og mögulegt er.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+3 | 3D6 | 1D6+6 | 2D6+3 | 2D6+6 | 3D6+3 | 1D6+3 |
 | 10 | 10–11 | 9–10 | 10 | 13 | 13–14 | 6–7 |
 
 | Hreyfing 8 (12 fljúgandi) | Heilsu-punktar 10 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 1-pt. hreystihúð |
+| **Skaðabreytir** Enginn | **Brynja** 1-pt. skel-húð |
 
 **Árásir:**
 
-* Kló 50%, 1D3+dm (blæðing)
-* Bit 35%, 1D3+½dm (blæðing)
+* Kló 50%, 1D3+dm (blæðandi)
+* Bit 35%, 1D3+½ dm (blæðandi)
 * Glíma 45%, sérstakt
 
-Djöfull getur gert tvær klóárásir í bardagahring. Ef tekst með báðum, reynir hann að glíma og bita í næstu bardagahring.
+Púki getur gert tvær klóárásir í bardagaumferð. Ef farsæll með báðar, reynir hann að glíma og bíta í næstu bardagaumferð.
 
-**Kunnátta:** Bargain 55%, Climb 65%, Dodge 50%, Fast Talk 40%, Fly 75%, Hide 45%, Knowledge (Region: Hell) 35%, Listen 40%, Sense 35%, Spot 50%, Stealth 35%.
+**Færni:** Prútta 55%, Klifra 65%, Vik 50%, Hraðtala 40%, Flug 75%, Fela 45%, Þekking (Svæði: Helvíti) 35%, Hlusta 40%, Skyn 35%, Spotta 50%, Læðast 35%.
 
-**Kraftar:** Minni djöflar eru ekki sérstaklega öflugir, þótt einn gæti haft nokkra galdrakúnstagaldra ef POW hans er nægilega hátt. Algengir galdrar eru Curse of Sorcery (4), Flames of the Sun (4), Midnight (1) og Pox (1). Galdramaður sem kallar fram minni djöful gæti valið hvaða galdra djöfullinn þekkir ef nægilegar rannsóknir eru gerðar fyrirfram. Djöfullinn gæti einnig haft einn eða fleiri óreiðukennda eiginleika.
+**Kraftar:** Minni púkar eru ekki sérstaklega öflugir, þótt einn gæti haft nokkra galdra ef MÁT hans er nógu hátt. Algengir galdrar eru Bölvun galdra (4), Logar sólarinnar (4), Miðnætti (1), og Bólur (1). Galdramaður sem kallar fram minni púka getur valið hvaða galdra púkinn kann ef fullnægjandi rannsókn er gerð fyrirfram. Púkinn gæti einnig haft einn eða fleiri chaotíska eiginleika.
 
-### Frumverur (Elementals)
+### Frumverur
 
-Frumverur eru frumstæðar frumandar sem birtast í líkömum sem samanstendur af frumefni tegundar sinnar. Þær eru yfirleitt kallaðar fram í tilveruna með galdrinum Conjure Elemental, galdrakúnstagaldrinum Summon Elemental, eða með öðrum leiðum, kannski jafnvel fyrir náttúrulegar orsakir.
+Frumverur eru frumstæðir frumveruandar sem birtast í líkömum sem samanstendur af frumefni tegundar þeirra. Þær eru venjulega kallaðar til lífsins af töfragaldrinum Conjure Elemental, galdragaldrinum Summon Elemental, eða með öðrum leiðum, kannski jafnvel náttúrulega.
 
-Heilsu-punktar frumvera eru ákvarðaðir með því að bæta saman CON+SIZ þeirra, ekki meðaltali. Frumverur græða ekki tapaða heilsu-punkta eða endurnýja kraftapunkta: þegar ein er minnkuð í 0 heilsu-punkta eða eyðir síðasta kraftapunktinum, hverfur hún, minnkuð í það hráa frumefni sem hún samanstóð af.
+Heilsu-punktar frumvera eru ákvarðaðir með því að bæta við ÞOL+STÆ þeirra, ekki meðaltala. Frumverur lækna ekki tapaða heilsu-punkta eða endurnýja kraftapunkta: þegar ein er minnkuð í 0 heilsu-punkta eða eyðir síðasta kraftapunkti sínum, hverfur hún, minnkuð niður í hráefnið sem hún var samsett úr.
 
-Sem töfrandi verur eru frumverur ónæmar fyrir eðlilegum árásum svo sem vopnum eða skotvopnum. Þær eru hins vegar viðkvæmar fyrir árásum hver annarrar. Eftir umhverfinu gætu orku- eða efnavopn haft áhrif á þær, og árásir með efnum sem náttúrulega andmæla þeim gætu einnig haft áhrif. Að lokum munu margir kraftar hafa áhrif á frumverur, að mati spilastjóra.
+Sem töfrandi verur eru frumverur ónæmar fyrir eðlilegum árásum svo sem vopnum eða skotvopnum. Þær eru þó viðkvæmar fyrir árásum hver annarrar. Eftir umhverfi, gætu orku- eða efnavopn haft áhrif á þær, og árásir með efnum sem náttúrulega andstæðast þeim gætu einnig haft áhrif. Að lokum, margir kraftar munu hafa áhrif á frumverur, í höndum leikstjóra.
 
-Hér eru kynntar fjórar hefðbundnar tegundir af frumverum—loft, jörð, eldur og vatn. Aðrar gætu verið til, hvort sem andi; skuggi; blendingar; eða jafnvel hliðar svo sem tími, þyngdarafl, ljós o.fl. Dæmin eru meðal, og hægt er að gera þær öflugri eða minna öflugar, eins og óskað er.
+Hér eru kynntar fjórar hefðbundnar tegundir frumvera—loft, jörð, eldur, og vatn. Aðrar gætu verið til, hvort sem andi; skuggi; blendingar; eða jafnvel hliðar svo sem tími, þyngdarafl, ljós, o.s.frv. Dæmin eru meðaltal, og hægt er að gera þau öflugri eða minna öflug, eins og óskað er.#### Loftsfrumvera
 
-#### Loft-frumvera
+Loftsfrumverur birtast yleitt sem sveimandi, gagnsæar kvenlegar mannverur af óvenjulegri fegurð, annaðhvort naktar eða í gegnumlýsandi klæðnaði, umkringdar hvirfilvindi. Þær eru vart áþreifanlegar, líkt og þær séu myndaðar úr þéttu lofti. Raddir þeirra eru mjúkar og veikburða, og þær eru stríðnar með stutta einbeitingu. Loftsfrumverur eru oft kallaðar loftverur (e. sylphs).
 
-Loft-frumverur birtast yfirleitt sem fljótandi, gegnsæjar kven-mann-eins verur af framúrskarandi fegurð, annaðhvort naktar eða í þunnum fatnaði, umkringdar hvirfilbyl. Þær eru varla áþreifanlegar, eins og þær væru mótaðar úr þykknuðu lofti. Raddir þeirra eru mjúkar og daufar, og þær eru prakkaralegar, með stutt athyglisspan. Loft-frumverur eru oft kallaðar sylphs.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 3D6 | 2D6 | 4D6 | 3D6 | 4D6 | 3D6+3 |
 | 10–11 | 10–11 | 7 | 14 | 10–11 | 14 | 13–14 |
 
-| Hreyfing 10 (12 fljúgandi) | Heilsu-punktar 17–18 |
+| Hreyfing 10 (12 fljúgandi) | Heilsuþol 17–18 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert, en ónæm fyrir eðlilegum árásum |
+| **Skaðabreytir** Enginn | **Brynja** Engin, en ónæm fyrir venjulegum árásum |
 
 **Árásir:**
 
-* Skúrandi vindur 50%, 1D10 (knockback, drægni er POW í metrum)
+* Svitrandi vindur 50%, 1D10 (hrindandi, drægni er MÁT í metrum)
 
-**Kunnátta:** Dodge 75%, Fly 100%, Language (summoner’s) 100%, Listen 75%, Science (Meteorology) 100%, Sense 75%, Spot 75%.
+**Hæfni:** Undanbragð 75%, Fljúga 100%, Tungumál (kallanda) 100%, Hlusta 75%, Vísindi (Veðurfræði) 100%, Skynjun 75%, Sjá 75%.
 
-**Kraftar:** Loft-frumvera hefur stjórn á frumefni sínu, notaðu hvaða kraftategund sem er:
+**Kraftar:** Loftsfrumvera hefur stjórn á sínum frumþætti og notar hvaða tegund krafta sem er af þessum:
 
-* **Galdrar:** Hún getur varpað Lift og Lightning galdrana á POW×3% fyrir eðlilegan kraftapunktakostnað.
-* **Galdrakúnstir:** Hún getur varpað Wings of the Sky (4) að vild, án kraftapunktakostnaðar.
-* **Ofurkraftar:** Hún hefur jafngildi ¼ POW (námunda upp) í stigum af Energy Control (Wind) og Energy Projection (Wind) ofurkraftunum.
-* Loft-frumvera gæti, á kostnað eigin lífs, eytt elds-frumveru af jafn miklum styrk.
-* Hún getur einnig veitt andanlegt loft fyrir eina persónu, á kostnað 1 heilsu-punkts á umferð.
-* Loft-frumverur geta orðið ósýnilegar að vild fyrir 1 kraftapunkt, þótt þær birtist aftur ef þeim er skipað af kalla-manni sínum, eða ef þær ráðast á einhvern.
+* **Galdrar:** Hún getur kastað Lyfta og Elding galdrana á MÁT×3% virkni fyrir venjulegan kostnað í máttarpunktum.
+* **Töfrabrögð:** Hún getur kastað Himnavængjum (4) að vild, án kostnaðar í máttarpunktum.
+* **Ofurkraftar:** Hún hefur jafngildi 1/4 af MÁT sinni (námundað upp) í stigum af Ofurkraftunum Orkustjórn (Vindur) og Orkuvarp (Vindur).
+* Loftsfrumvera getur, með því að kosta sjálfa sig lífinu, eytt eldsfrumveru af jafn miklum styrk.
+* Hún getur útvegað loft sem hægt er að anda að sér fyrir eina persónu, fyrir kostnað upp á 1 heilsuþolspunkt á hring.
+* Loftsfrumverur geta orðið ósýnilegar að vild fyrir 1 máttarpunkt, þó birtast þær aftur ef þeim er skipað af þeim sem kallaði þær fram, eða ef þær ráðast á einhvern.
 
-#### Jarð-frumvera
+#### Jarðfrumvera
 
-Jarð-frumverur birtast sem þykk-líkams mannlíkar verur, gerðar úr steini, jörð og steinefnum, með rótum og vínviðum eins og æðum og stundum skeggi af mosa og laufum. Raddir þeirra eru lágar og raspandi, og þær eru oft seinfærar og grýttar, stjórnlyndar þegar kallaðar fram, þótt þær geri samt vilja kalla-mannsins síns. Í öðru umhverfi gætu þær birst sem tegund jarðar í boði, svo sem sandur og sandsteinn í eyðimörkinni. Þær eru oft kallaðar gnomes.
+Jarðfrumverur birtast sem þykkvaxnar mannverulíkar verur, gerðar úr steini, jörðu og steinefnum, með rótum og kvistum líkt og æðum og stundum hári eða skeggi úr mosa og laufum. Raddir þeirra eru lágar og hvæsandi, og þær eru oft seinheppnar og fúllyndar, pirraðar þegar þær eru kallaðar fram, þó þær hlýði samt skipunum þess sem kallaði þær fram. Í öðru umhverfi gætu þær birst sem sú tegund jarðvegs sem til er, svo sem sandur og sandsteinn í eyðimörkinni. Þær eru oft kallaðar dvergar (e. gnomes).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 5D6+12 | 3D6+6 | 3D6 | 2D6 | 3D6 | 2D6 | 1D6+3 |
 | 29–30 | 16–17 | 10–11 | 7 | 10–11 | 7 | 6–7 |
 
-| Hreyfing 6 | Heilsu-punktar 26–28 |
+| Hreyfing 6 | Heilsuþol 26–28 |
 | :---- | :---- |
-| **Skaðabónus** +1D6 eða +2D6 | **Brynja** Ekkert, en ónæm fyrir eðlilegum árásum (sjá hér að neðan) |
+| **Skaðabreytir** +1D6 eða +2D6 | **Brynja** Engin, en ónæm fyrir venjulegum árásum (sjá hér að neðan) |
 
 **Árásir:**
 
-* Hnefi 50%, 1D6+dm (mulið)
+* Hnefi 50%, 1D6+sb (kremjandi)
 
-**Kunnátta:** Appraise 50%, Craft (Blacksmithing) 75%, Language (summoner’s) 25%, Science (Metallurgy) 100%.
+**Hæfni:** Mat á verðmætum 50%, Iðn (Smiðir) 75%, Tungumál (kallanda) 25%, Vísindi (Málmfræði) 100%.
 
-**Kraftar:** Jarð-frumvera hefur stjórn á frumefni sínu, notaðu hvaða kraftategund sem er:
+**Kraftar:** Jarðfrumvera hefur stjórn á sínum frumþætti og notar hvaða tegund krafta sem er af þessum:
 
-* **Galdrar:** Hún getur varpað galdrana Dull og Wall á POW×3% fyrir eðlilegan kraftapunktakostnað.
-* **Galdrakúnstir:** Hún getur varpað Gift of the Earth (4) að vild, án kraftapunktakostnaðar.
-* **Ofurkraftar:** Hún hefur jafngildi ¼ POW (námunda upp) í stigum af Barrier ofurkraftinum.
-* Jarð-frumvera gæti, á kostnað eigin lífs, eytt loft-frumveru af jafn miklum styrk.
-* Hún getur einnig sokkið í jörðina og hreyft sig á eðlilegum hraða, birtist þegar hún óskar. Hún getur framlengt þennan hæfileika til persónu af SIZ sinni eða minni, umlykja þær og flytja persónuna í gegnum jörðina óskaddaða á eðlilegum MOV-hraða frumverunnar. Hún mun aðeins gera þetta með fúsri persónu en veitir ekki súrefni fyrir ferðina (sjá Köfnun, Drowning, og Asphyxiation).
-* Til viðbótar við að vera ónæm fyrir eðlilegum árásum, hefur jarð-frumvera tækifæri til að brjóta hvaða eðlilegt vopn sem er gert úr málmi. Ef persóna tekst farsællega að slá jarð-frumveru með málmvopni, verður hún að gera mótstöðukast á heilsu-punktum vopnsins vs. CON jarð-frumverunnar. Ef rúlla vopnsins mistekst, brotnar það sjálfkrafa. Ef hún tekst, brotnar það ekki. Þetta kast þarf aðeins að gera einu sinni við fyrsta farsæla högg í umferð, og það á við um vopn með galdra eða galdrakúnstir tímabundið varpað á þau, en ekki töfravopn.
-* Jarð-frumverur eru einnig meðvitaðar um hvers kyns verðmæta málma eða hvað sem er neðanjarðar innan INT×100 metra, en munu aðeins með óánægju viðurkenna þetta, og verður að sannfæra eða skipa þeim að fara og sækja þessa hluti. Notkun þessa krafts kostar jarð-frumveruna kraftapunkta sem jafngildir SIZ hlutarins sem sóttur er.
+* **Galdrar:** Hún getur kastað Daufur og Veggur galdrana á MÁT×3% virkni fyrir venjulegan kostnað í máttarpunktum.
+* **Töfrabrögð:** Hún getur kastað Jarðargjöf (4) að vild, án kostnaðar í máttarpunktum.
+* **Ofurkraftar:** Hún hefur jafngildi 1/4 af MÁT sinni (námundað upp) í stigum af Ofurkraftinum Hindrun.
+* Jarðfrumvera getur, með því að kosta sjálfa sig lífinu, eytt loftsfrumveru af jafn miklum styrk.
+* Hún getur sokkið niður í jörðina og hreyft sig á venjulegum hraða, og komið upp þegar hún vill. Hún getur framlengt þennan hæfileika til persónu af sinni STÆ eða minni, innlimað þá og hreyft persónuna gegnum jörðina óskaddaða á venjulegum HREYFI-hraða frumverunnar. Hún gerir þetta aðeins með fúsri persónu en útvegar ekki súrefni fyrir ferðina (sjá Köfnun, Drukknum og Asfyxía).
+* Auk þess að vera ónæm fyrir venjulegum árásum, hefur jarðfrumvera möguleika á að brjóta öll venjuleg vopn úr málmi. Ef persóna tekst að slá jarðfrumveru með málmvopni, verður hún að gera viðnámskast á heilsuþolspunktum vopnsins á móti ÞOL jarðfrumverunnar. Ef kastið fyrir vopnið mistekst, brotnar það sjálfkrafa. Ef það tekst, brotnar það ekki. Þetta kast þarf aðeins að gera einu sinni við fyrsta árangursríka höggið í umferð, og það á við vopn með galdra eða töfrabrögð tímabundið kastað á þau, en ekki töfravopn.
+* Jarðfrumverur eru einnig meðvitaðar um alla dýrmæta málma eða hvað sem er neðanjarðar innan GRE×100 metra, en munu aðeins viðurkenna þetta ófúslega, og þarf að sannfæra þær eða skipa þeim að fara og sækja þessa hluti. Notkun þessa krafts kostar jarðfrumveruna máttarpunkta sem samsvara STÆ hlutarins sem sóttur er.
 
-#### Elds-frumvera
+#### Eldsfrumvera
 
-Elds-frumverur birtast sem fjórfætt skriðdýr gerð úr logandi plasma. Þær sviða jörðina þar sem þær ganga, og reykur kemur út úr munnum þeirra þegar þær tala með hvæsandi, brakandi röddum sínum. Þær eru yfirleitt pirraðar og skapstórar. Elds-frumverur eru oft kallaðar salamöndrur.
+Eldsfrumverur birtast sem fjórfætt skriðdýr úr brennandi plasma. Þær sviða jörðina þar sem þær ganga, og reykur stígur upp úr munni þeirra þegar þær tala með hvæsandi, brakandi röddum. Þær eru almennt pirraðar og skapstyggar. Eldsfrumverur eru oft kallaðar salamöndrur.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 3D6+6 | 2D6 | 3D6 | 4D6 | 1D6+3 |
 | 13 | 10–11 | 16–17 | 7 | 10–11 | 14 | 6–7 |
 
-| Hreyfing 10 | Heilsu-punktar 26–28 |
+| Hreyfing 10 | Heilsuþol 26–28 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert, en ónæm fyrir eðlilegum árásum |
+| **Skaðabreytir** +1D4 | **Brynja** Engin, en ónæm fyrir venjulegum árásum |
 
 **Árásir:**
 
-* Eldblástur 50%, 1D10 á umferð (eldur, drægni er POW í metrum)
-* Glíma 50%, sérstakt + 1D6 á umferð (eldur)
+* Eldsblástur 50%, 1D10 á hring (eldur, drægni er MÁT í metrum)
+* Fangbrögð 50%, sérstakt + 1D6 á hring (eldur)
 
-**Kunnátta:** Demolition 75%, Dodge 50%, Language (summoner’s) 50%, Listen 50%, Sense 50%, Spot 50%.
+**Hæfni:** Sprengivinna 75%, Undanbragð 50%, Tungumál (kallanda) 50%, Hlusta 50%, Skynjun 50%, Sjá 50%.
 
-* **Kraftar:** Elds-frumvera hefur stjórn á frumefni sínu, notaðu hvaða kraftategund sem er:
-* **Galdrar:** Hún getur varpað galdrana Flame og Resistance á POW×3% fyrir eðlilegan kraftapunktakostnað.
-* **Galdrakúnstir:** Hún getur varpað Flames of the Sun (4) að vild, án kraftapunktakostnaðar.
-* **Ofurkraftar:** Hún hefur jafngildi ¼ POW (námunda upp) í stigum af Energy Control (Heat) og Energy Projection (Heat) ofurkraftunum.
-* Elds-frumvera gæti, á kostnað eigin lífs, eytt vatns-frumveru af jafn miklum styrk.
-* Hún getur kveikt í hvaða eldfimu efni sem er við snertingu en mun aldrei fúslega slökkva eða koma í veg fyrir eld.
+* **Kraftar:** Eldsfrumvera hefur stjórn á sínum frumþætti og notar hvaða tegund krafta sem er af þessum:
+* **Galdrar:** Hún getur kastað Eldur og Viðnám galdrana á MÁT×3% virkni fyrir venjulegan kostnað í máttarpunktum.
+* **Töfrabrögð:** Hún getur kastað Sólareldi (4) að vild, án kostnaðar í máttarpunktum.
+* **Ofurkraftar:** Hún hefur jafngildi 1/4 af MÁT sinni (námundað upp) í stigum af Ofurkraftunum Orkustjórn (Hiti) og Orkuvarp (Hiti).
+* Eldsfrumvera getur, með því að kosta sjálfa sig lífinu, eytt vatnsfrumveru af jafn miklum styrk.
+* Hún getur kveikt í hvaða eldfimu efni sem er við snertingu en mun aldrei af fúsum vilja slökkva eða koma í veg fyrir eld.#### Vatnselementar
 
-#### Vatns-frumvera
+Vatnselementarar virka sem fallegar vatnaverur, dálítið gegnsæjar manneskjur á litinn eins og hafið, með grænblátt hár og húð. Þær eru heillandi og yfirleitt lítið klæddar eða naktar. Ef vatnselementarar finnast á landi skilja þær eftir sig blaut fótspor og drýpur stöðugt af þeim vatn. Þær eru greindar, ígrundaðar og tala með gurglandi röddu. Vatnselementarar eru oft kallaðar undínur.
 
-Vatns-frumverur birtast sem fallegar vatna-verur, varla hálf-gegnsæjar kven-mann-eins verur í lit sjávarins, með grænblátt hár og húð. Þær eru heillandi og yfirleitt lítið klæddar eða naktar. Ef mætt er á landi, skilja vatns-frumverur eftir sig blaut fótspor og eru stöðugt að drýpa af vatni. Þær eru greindar, ígrundaðar og tala með gurglandi röddum. Vatns-frumverur eru oft kallaðar undines.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6+6 | 2D6 | 4D6 | 3D6 | 3D6 | 3D6+3 |
 | 16–17 | 16–17 | 7 | 14 | 10–11 | 10–11 | 13–14 |
 
-| Hreyfing 10 (12 sund) | Heilsu-punktar 23–24 |
+| Hreyfing 10 (12 sund) | Heilsuþol 23–24 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert, en ónæm fyrir eðlilegum árásum (sjá hér að neðan) |
+| **Skaðabreytir** Enginn | **Vörn** Engin, en ósæranlegar fyrir venjulegum árásum (sjá hér að neðan) |
 
 **Árásir:**
 
-* Köfnun 50%, sérstakt (sjá hér að neðan)
+* Drukkun 50%, sérstök (sjá hér að neðan)
 
-**Kunnátta:** Dodge 75%, Language (summoner’s) 75%, Navigate 100%, Science (Oceanography) 100%, Sense 50%, Spot 50%, Swim 100%.
+**Hæfni:** Undanbrögð 75%, Tungumál (kallara) 75%, Leiðsögn 100%, Vísindi (haffræði) 100%, Skynjun 50%, Athygli 50%, Sund 100%.
 
-**Kraftar:** Vatns-frumvera hefur stjórn á frumefni sínu, notaðu hvaða kraftategund sem er:
+**Kraftar:** Vatnselementar hefur stjórn á sínum þætti og notar hvaða tegund krafta sem er:
 
-* **Galdrar:** Vatns-frumvera getur varpað galdrana Heal og Unseal á POW×3% fyrir eðlilegan kraftapunktakostnað.
-* **Galdrakúnstir:** Vatns-frumvera getur varpað Bounty of the Sea (4) að vild, án kraftapunktakostnaðar.
-* **Ofurkraftar:** Vatns-frumvera hefur jafngildi ¼ POW (námunda upp) í stigum af Drain og Super Movement (Water Walking) ofurkraftunum.
-* Vatns-frumvera gæti, á kostnað eigin lífs, eytt jarð-frumveru af jafn miklum styrk.
-* Til að drekkja andstæðingi, umlykur vatns-frumveran munn og nef skotmarksins í kúlu af vatni. Ef hún hefur tekist með snertingu, eru allar frekari köfunarárásir gegn skotmarkinu *Auðveldar* þar til skotmarkið hefur annaðhvort brotist laust eða er dautt (sjá reglurnar um drukknun). Þessi árás kostar vatns-frumveruna jafnmarga heilsu-punkta og skaðinn sem fórnarlambinu er valdið. Hún má hætta við köfunartilraunina hvenær sem er.
-* Til viðbótar við að vera ónæm fyrir eðlilegum árásum, hefur vatns-frumvera tækifæri til að ryðga hvaða eðlilegt málmvopn sem er eða afmynda hvaða viðarvopn sem er sem slær hana. Ef persóna tekst farsællega að slá vatns-frumveru með málmvopni, verður hún að gera mótstöðukast á heilsu-punktum vopnsins vs. CON vatns-frumverunnar. Ef rúlla vopnsins mistekst, ryðgar það (tapar 2 heilsu-punktum, –1 á skaða) eða afmyndast (–1 heilsu-punktur, –5% til að hitta). Ef hún tekst, er hún óbreytt. Þetta kast þarf aðeins að gera einu sinni við fyrsta farsæla högg í umferð, og það á við um vopn með galdra eða galdrakúnstir tímabundið varpað á þau, en ekki töfravopn.
-* Meðan hún er í kafi getur vatns-frumvera orðið ósýnileg að vild fyrir 1 kraftapunkt, þótt hún birtist aftur ef henni er skipað af kalla-manni, eða ef hún ræðst á einhvern.
-* Meðan hún er neðansjávar getur vatns-frumvera talað skýrt til hverra sem er innan eðlilegs heyrnardrægni.
-* Vatns-frumverur eru einnig meðvitaðar um hvers kyns hluti innan þess vatns-líkama sem þær voru kallaðar úr, innan INT×100 metra, en viðurkenna þetta aðeins ef spurt er, og verður að sannfæra eða skipa þeim að fara og sækja þessa hluti. Hver notkun á þessum hæfileika kostar vatns-frumveruna kraftapunkta sem jafngildir SIZ hlutarins sem sóttur er.
+* **Galdrar:** Vatnselementar getur notað galdrana Heal og Unseal á MÁT×3% virkni fyrir venjulegan kostnað í máttarstigum.
+* **Seiður:** Vatnselementar getur kastað Bounty of the Sea (4) að vild, án kostnaðar í máttarstigum.
+* **Ofurkraftar:** Vatnselementar hefur ofurkraftana Drain og Super Movement (Water Walking) sem nemur 1/4 af MÁT (námundað upp).
+* Vatnselementar getur, fyrir tilstilli eigin lífs, eyðilagt jarðelementar með samsvarandi styrk.
+* Til að drekkja andstæðingi umlykur vatnselementar munn og nef skotmarksins með vatnsbólu. Ef snertivörn hefur heppnast eru allar frekari drukkunarárásir gegn skotmarkinu *Auðveldar* þar til skotmarkið hefur brotist laust eða er dáið (sjá reglur um drukkun). Þessi árás kostar vatnselementar jafn mörg heilsuþolspunkta og skaðinn sem skotmarkið verður fyrir. Hún getur hætt drukkunartilrauninni hvenær sem er.
+* Auk þess að vera ósæranleg fyrir venjulegum árásum hefur vatnselementar möguleika á að láta venjuleg málmvopn ryðga eða afmynda viðarvopn sem slá hana. Ef persóna slær vatnselementar með málmvopni verður hún að gera viðnámskast (heilsuþolspunkta vopnsins á móti ÞOL vatnselementsins). Ef vopnið tapar kastinu ryðgar það (missir 2 heilsuþolspunkta, –1 á skaða) eða afmyndast (–1 heilsuþolspunktur, –5% á að hitta). Ef það vinnur verður það ekki fyrir áhrifum. Þetta kast þarf aðeins að gera einu sinni við fyrstu árás í umferð og gildir fyrir vopn með tímabundnum göldrum eða seiðum, en ekki galdravopn.
+* Á meðan hún er í vatni getur vatnselementar orðið ósýnileg að vild fyrir 1 máttarstig, þó hún birtist aftur ef kallarinn skipar henni það, eða ef hún ræðst á einhvern.
+* Á meðan hún er neðansjávar getur vatnselementar talað skýrt við alla innan eðlilegra heyrnarmarka.
+* Vatnselementarar eru einnig meðvitaðir um alla hluti í vatninu sem þeir voru kallaðir upp úr, innan GRE×100 metra fjarlægðar, en viðurkenna það aðeins ef spurt er, og þarf að sannfæra eða skipa þeim að fara og sækja þessa hluti. Hver notkun á þessum hæfileika kostar vatnselementar máttarstig sem samsvarar STÆ hlutarins sem sóttur er.
 
-> ### Óreiðukenndir eiginleikar
->
-> Djöflar og aðrar óreiðuverur eru ósamkvæmar í útliti og kröftum sínum. Rétt eins og lifandi verur hafa stökkbreytingar, gætu óeðlilegar verur haft óreiðukennda eiginleika. Ef óskað er, gæti hver einstök óreiðukennd vera haft einn eða fleiri óreiðukennda eiginleika, rúllað eða valið úr eftirfarandi töflu.
->
-> | D100% | Óreiðukenndur eiginleiki |
+> ### Kaótísk einkenni
+> 
+> Djöflar og aðrar verur glundroðans eru ósamkvæmar í útliti og kröftum. Rétt eins og lifandi verur hafa stökkbreytingar geta óeðlilegar verur haft kaótísk einkenni. Ef óskað er getur hver einstök kaótísk vera haft eitt eða fleiri kaótísk einkenni, rúllað eða valið úr eftirfarandi töflu.
+> 
+> | D100% | Kaótískt einkenni |
 > | :---- | :---- |
-> | 01–03 | POW+1D6 |
-> | 04–05 | POW+2D6 |
-> | 06 | POW+3D6 |
-> | 07–09 | DEX+1D6 |
-> | 10–11 | DEX+2D6 |
-> | 12 | DEX+3D6 |
-> | 13–14 | STR+1D6 |
-> | 15 | STR+2D6 |
-> | 16–17 | CON+1D6 |
-> | 18 | CON+2D6 |
-> | 19–20 | Aldrei á óvart. |
-> | 21–22 | Gleypir 1 punkt af hvaða galdri eða galdrakúnst sem er beint gegn henni, bætir við +1 kraftapunkti á galdur. |
-> | 23–24 | Spýtir sýru með 2D10 POT 1D6 sinnum á dag, sex-metra drægni. |
-> | 25–26 | Blæs 3D6 eld 1D6 sinnum á dag; stakt skotmark, þriggja-metra drægni. |
-> | 27–28 | Endurkastar 1-pt. galdri eða galdrakúnst aftur á notandann. |
-> | 29–30 | Mjög eldfim; ef kviknar í henni brennur allt innan þriggja-metra radíuss fyrir 2D6 punkta skaða þar til slökkt er. |
-> | 31–32 | Dáleiðandi munstur á húð; áhorfendur verða að gera farsælt Idea-kast eða verða stunaðir í 1D3 umferðir. |
-> | 33–35 | Útlit er ruglingslegt; allar árásir gegn henni eru á –20%. |
-> | 36–37 | Stór og verðmætur gimsteinn greinilega sýnilegur á líkama. |
-> | 38–40 | Endurnýjar 1 heilsu-punkt á hverja bardagahring þar til dauð er. |
-> | 41–42 | Getur reynt að rugla skotmark í hverri umferð til viðbótar við alla bardaga, með POW vs. POW mótstöðukasti. Mistakist það kemur persónan í ruglað og mjög tillögugott ástand. Til að framkvæma einhverjar athafnir verður skotmarkið að gera Erfitt Idea-kast, og gæti verið skipað af verunni að bregðast við í andstöðu við eðlilegar óskir sínar. Að standast þessi fyrirmæli krefst einnig farsæls Erfiðs Idea-kasts. |
-> | 43–45 | Vera virðist ósigrandi; virðist ekki taka neinum skaða þar til hún nær 0 heilsu-punktum, þá fellur hún niður dauð. |
-> | 46 | Ósýnileg þar til hún ræðst. |
-> | 47–48 | Útlit er mjög ruglingslegt; allar árásir gegn henni eru á –30%. |
-> | 49–50 | Eitursnerting upp á 2D10 POT; líkamleg árás verður að gera 1 heilsu-punkts skaða til að eitrið virki. |
-> | 51–52 | CON er –2D6, en endurnýjar 3 heilsu-punkta á umferð þar til dauð er. |
-> | 53–54 | 6-pt. brynju-húð. Ef hefur þegar brynju-húð, +6 á núverandi brynju-gildi sitt. |
-> | 55–56 | MOV 12 |
-> | 57–58 | Gleypir 1 eða 2 punkta af hvaða galdri eða galdrakúnst sem er beint gegn henni, bætir upphæðinni við núverandi kraftapunkta. |
-> | 59–60 | Getur hafið POW vs. POW árás í hverri umferð; ef tekst, tapar skotmarkið 1D6 kraftapunktum. |
-> | 61–62 | Springur við að ná 0 heilsu-punktum, veldur 3D6 skaða á alla innan þriggja metra. Brynja, skjöldur o.fl. munu verja gegn þessu, þótt vopnapareringar geti það ekki. |
+> | 01–03 | MÁT+1D6 |
+> | 04–05 | MÁT+2D6 |
+> | 06 | MÁT+3D6 |
+> | 07–09 | LIP+1D6 |
+> | 10–11 | LIP+2D6 |
+> | 12 | LIP+3D6 |
+> | 13–14 | STY+1D6 |
+> | 15 | STY+2D6 |
+> | 16–17 | ÞOL+1D6 |
+> | 18 | ÞOL+2D6 |
+> | 19–20 | Kemur aldrei á óvart. |
+> | 21–22 | Gleypir 1 punkt af hvaða galdri eða seið sem er beitt gegn henni, bætir við +1 máttarstigi á hvern galdur. |
+> | 23–24 | Spýtir sýru með 2D10 styrk 1D6 sinnum á dag, sex metra drægni. |
+> | 25–26 | Andar frá sér 3D6 eldi 1D6 sinnum á dag; eitt skotmark, þriggja metra drægni. |
+> | 27–28 | Endurkastar 1-p. galdri eða seið aftur á notanda. |
+> | 29–30 | Mjög eldfim; ef kveikt er í henni brennur hún alla innan þriggja metra radíuss fyrir 2D6 punkta skaða þar til slökkt er. |
+> | 31–32 | Dáleiðandi mynstur á húð; áhorfendur verða að ná Hugmyndakasti eða verða lamdir í 1D3 umferðir. |
+> | 33–35 | Útlit er ruglingslegt; allar árásir gegn henni eru með –20%. |
+> | 36–37 | Stór og verðmætur gimsteinn sýnilegur á líkamanum. |
+> | 38–40 | Endurnýjar 1 heilsuþolspunkt á hverja bardagaumferð þar til hún deyr. |
+> | 41–42 | Getur reynt að rugla skotmark á hverri umferð auk bardaga, með MÁT á móti MÁT viðnámskast. Bilun gerir skotmarkið ringlað og mjög móttækilegt. Til að framkvæma aðgerðir verður skotmarkið að ná Erfiðu Hugmyndakasti og vera skipað af verunni að bregðast við gegn eigin óskum. Að standast þessi skipanir krefst einnig Erfiðs Hugmyndakasts. |
+> | 43–45 | Veran virðist ósigrandi; virðist ekki verða fyrir skaða fyrr en hún nær 0 heilsuþolspunktum, þá fellur hún dauð niður. |
+> | 46 | Ósýnileg þar til hún ræðst á. |
+> | 47–48 | Útlit er afar ruglingslegt; allar árásir gegn henni eru með –30%. |
+> | 49–50 | Eitruð snerting með 2D10 styrk; náttúruleg árás verður að valda 1 heilsuþolspunkti í skaða til að eitrið virki. |
+> | 51–52 | ÞOL er –2D6, en endurnýjar 3 heilsuþolspunkta á umferð þar til hún deyr. |
+> | 53–54 | 6-p. brynjuð húð. Ef hún er þegar með brynjaða húð, +6 á núverandi varnargildi hennar. |
+> | 55–56 | HREY 12 |
+> | 57–58 | Gleypir 1 eða 2 punkta af galdri eða seið beitt gegn henni, bætir upphæðinni við núverandi máttarstig. |
+> | 59–60 | Getur hafið MÁT á móti MÁT árás á hverri umferð; ef hún tekst, missir skotmarkið 1D6 máttarstig. |
+> | 61–62 | Springur við 0 heilsuþolspunkta, veldur 3D6 skaða á alla innan þriggja metra. Brynja, skildir o.s.frv. vernda gegn þessu, þó vopnaskildir geti það ekki. |
 > | 63–65 | Virðist miklu hættulegri en hún er í raun. |
 > | 66–67 | Getur orðið ósýnileg að vild þegar hún er ekki í bardaga. |
-> | 68–70 | Endurkastar 1- eða 2-pt. galdri eða galdrakúnst aftur á notandann. |
-> | 71–72 | 8-pt. brynju-húð. Ef hefur þegar brynju-húð, +8 á núverandi brynju-gildi. |
-> | 73–74 | 10-pt. brynju-húð. Ef hefur þegar brynju-húð, +10 á núverandi brynju-gildi. |
-> | 75–76 | 12-pt. brynju-húð. Ef hefur þegar brynju-húð, +12 á núverandi brynju-gildi. |
-> | 77 | Virðist algerlega skaðlaus þar til hún fer í bardaga. |
-> | 78–80 | Endurnýjar 1D6 heilsu-punkta á hverja bardagahring þar til dauð er. |
-> | 81–82 | Getur stokkið lóðrétt eða lárétt tíu metra úr kyrrstöðu. |
-> | 83–84 | Óuppgötvanleg í gegnum galdra eða galdrakúnstir. |
-> | 85 | Útlit mjög ruglingslegt; allar árásir gegn henni eru á –40%. |
-> | 86–87 | Mjög verðmætur gimsteinn (eða gimsteinar) inni í veru, uppgötvaðir ef veran er skorin upp. |
-> | 88–90 | Gefur frá sér æpandi öskur stöðugt. |
-> | 91–92 | Yfirþyrmandi stæk veldur ógleði hjá öllum sem anda nálægt henni. Ef skotmark mistekst Stamina-kast, eru allar athafnir gegn þessari veru Erfiðar í 1D6+2 umferðir. |
-> | 93–94 | Endurkastar 1D6+2-pt. galdri eða galdrakúnst aftur á notandann. Rúllaðu handahófskennt í hverri umferð sem galdri er varpaður gegn verunni til að ákvarða hversu mikið er endurkastað. |
-> | 95–96 | Hrollvekjandi útlit verunnar dregur úr kjarki þeirra sem hún sigrar í POW vs. POW mótstöðukasti. Ef skotmark mistekst, eru allar athafnir gegn þessari veru Erfiðar í 1D6+2 umferðir. |
-> | 97–98 | SIZ +2D6 |
-> | 99 | Rúllaðu tvisvar aftur á þessari töflu. Ef þetta er rúllað aftur, bættu við öðrum tveimur óreiðukenndum eiginleikum, og rúllaðu aftur, o.s.frv. |
-> | 00 | Þessi vera hefur CHA 5D6 og er sérstaklega aðlaðandi. Hún ræðst með CHA vs. INT mótstöðukasti. Mistakist það verður fórnarlambið vinur verunnar, kannski jafnvel boðist til að þjóna henni. Veran gæti haft allt að 1D6 núverandi félaga af þessu tagi, að mati spilastjóra. Heillaða persónan gæti jafnvel barist við vini til að verja veruna. |
+> | 68–70 | Endurkastar 1- eða 2-p. galdri eða seið aftur á notanda. |
+> | 71–72 | 8-p. brynjuð húð. Ef hún er þegar með brynjaða húð, +8 á núverandi varnargildi hennar. |
+> | 73–74 | 10-p. brynjuð húð. Ef hún er þegar með brynjaða húð, +10 á núverandi varnargildi hennar. |
+> | 75–76 | 12-p. brynjuð húð. Ef hún er þegar með brynjaða húð, +12 á núverandi varnargildi hennar. |
+> | 77 | Virðist fullkomlega skaðlaus þar til hún fer í bardaga. |
+> | 78–80 | Endurnýjar 1D6 heilsuþolspunkta á hverja bardagaumferð þar til hún deyr. |
+> | 81–82 | Getur stokkið lóðrétt eða lárétt tíu metra frá kyrrstöðu. |
+> | 83–84 | Óuppgötvanleg með galdri eða seið. |
+> | 85 | Útlit afar truflandi; allar árásir gegn henni eru með –40%. |
+> | 86–87 | Aðeins verðmætur gimsteinn (eða gimsteinar) inni í verunni, uppgötvað ef veran er skorin upp. |
+> | 88–90 | Gefur frá sér kvalafull hljóð stöðugt. |
+> | 91–92 | Yfirþyrmandi ódaun veldur ógleði hjá öllum sem anda nálægt henni. Ef skotmark nær ekki Þol kasti eru allar aðgerðir gegn þessari veru Erfiðar í 1D6+2 umferðir. |
+> | 93–94 | Endurkastar 1D6+2-p. galdri eða seið aftur á notanda. Rúllaðu af handahófi hverja umferð sem galdri er beitt gegn verunni til að ákvarða hversu mikið er endurkastað. |
+> | 95–96 | Hið hrollvekjandi útlit verunnar dregur kjark úr þeim sem hún vinnur MÁT á móti MÁT viðnámskast gegn. Ef skotmark nær ekki, eru allar aðgerðir gegn þessari veru Erfiðar í 1D6+2 umferðir. |
+> | 97–98 | STÆ +2D6 |
+> | 99 | Rúllaðu tvisvar aftur á þessari töflu. Ef þetta er rúllað aftur, bættu við tveimur kaótískum einkennum til viðbótar og rúllaðu aftur o.s.frv. |
+> | 00 | Þessi vera hefur KAR 5D6 og er sérstaklega heillandi. Hún ræðst á með KAR á móti GRE viðnámskast. Bilun veldur því að fórnarlambið gerist vinur verunnar, kannski jafnvel býðst til að þjóna henni. Veran getur haft allt að 1D6 núverandi félaga af þessu tagi, að mati spilastjóra. Heillaða persónan gæti jafnvel barist við vini til að verja veruna. |
 
-## Vísindaskáldskaparverur
+## Vísindaskáldskaparmyndir
 
-Þessar verur henta best fyrir vísindaskáldskap, framtíðar-, eftir-katastrófu- eða jafnvel hryllingsumhverfi.
+Þessar verur henta best fyrir vísindaskáldskap, framtíðar-, eftir-apocalyptískar eða jafnvel hryllingsaðstæður.
 
 ### Geimvera, Grá
 
-Gráar geimverur heimsækja Jörðina í rannsóknar- og tilraunaskyni á mönnum og dýrum og hafa gert það um aldir. Vegna tiltölulega veikburða líkama sinna treysta þær á háþróaða tækni til að hreyfingarleysa fanga sína. Motív þeirra eru óþekkt, og sýna engin merki um tilfinningar, viðurkenna sjaldan jafnvel skynsemi fanga sinna þegar þær framkvæma furðulegar og niðurlægjandi tilraunir á þeim.
+Gráar geimverur heimsækja jörðina til rannsókna og tilrauna á mönnum og dýrum og hafa gert það um aldir. Vegna tiltölulega veikburða líkama sinna reiða þær sig á háþróaða tækni til að lama viðfangsefni sín. Hvatar þeirra eru óþekktir og þær sýna engin merki um tilfinningar, viðurkenna sjaldan vitund fórnarlamba sinna þegar þær framkvæma undarlegar og niðurlægjandi tilraunir á þeim.
 
-Gráar geimverur mætast stundum á slysstað UFO, reika um daufar og reyna að verja skip sitt þar til björgun berst. Þær eru annaðhvort naktar eða í formfastri net-samfestingu og búnar geim-tækni.
+Gráar geimverur finnast stundum á UFO-slysa-stöðum, ráfandi um ringlaðar og reyna að verja skip sitt þar til björgun berst. Þær eru annaðhvort naktar eða í formfastum net-samfestingum og búnar geimtækni.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 1D6+3 | 2D6 | 1D6+3 | 2D6+12 | 3D6 | 3D6+3 | 1D6+1 |
 | 6–7 | 7 | 6–7 | 19 | 10–11 | 13–14 | 4–5 |
 
-| Hreyfing 7 | Heilsu-punktar 7 |
+| Hreyfing 7 | Heilsuþol 7 |
 | :---- | :---- |
-| **Skaðabónus** –1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** –1D4 | **Vörn** Engin |
 
 **Árásir:**
 
-* Stun-byssa 50%, 2D6 (stunar, sjá vopnalýsingu)
-* Disintegrator-riffill 35%, 3D6+2 (sjá vopnalýsingu)
+* Stun Pistol 50%, 2D6 (lamar, sjá vopnalýsingu)
+* Disintegrator Rifle 35%, 3D6+2 (sjá vopnalýsingu)
 
-**Kunnátta:** Dodge 40%, Fine Manipulation 75%, First Aid 75%, Hide 60%, Knowledge (Human Culture) 55%, Knowledge (Region: Milky Way) 85%, Language (Area) 20%, Language (Zeta Reticulan) 100%, Listen 55%, Medicine 100%, Navigate 70%, Pilot (UFO) 80%, Repair (Quantum) 50%, Science (Astronomy) 75%, Science (Planetology) 95%, Science (Zoology) 50%, Sense 60%, Spot 50%, Stealth 50%, Technical Skill (UFO Sensors) 50%
+**Hæfni:** Undanbrögð 40%, Fínleg meðferð 75%, Skyndihjálp 75%, Fela sig 60%, Þekking (menning manna) 55%, Þekking (Svæði: Vetrarbrautin) 85%, Tungumál (svæði) 20%, Tungumál (Zeta Reticulan) 100%, Hlusta 55%, Læknisfræði 100%, Leiðsögn 70%, Flug (UFO) 80%, Viðgerð (Skammta) 50%, Vísindi (Stjörnufræði) 75%, Vísindi (Plánetufræði) 95%, Vísindi (Dýrafræði) 50%, Skynjun 60%, Athygli 50%, Laumuspil 50%, Tæknikunnátta (UFO skynjarar) 50%
 
-**Kraftar:** Gráar geimverur nota það sem menn telja vera sálræna krafta. Algengir sálrænir kraftar eru Emotion Control, Mind Control, Mind Shield, Telekinesis og Telepathy. Hver og einn er á POW×2% þeirra, eða hærra.
+**Kraftar:** Gráar geimverur nota það sem menn telja vera geðkrafta. Algengir geðkraftar eru Tilfinningastjórn, Hugastjórn, Hugavörn, Telekinesis og Telepathy. Hver og einn er á MÁT×2% þeirra eða hærri.
 
 ### Geimvera, Xenomorph
 
-Uppgötvuð á brún geimsins, þessar xenomorphs eru svangar í hold, gleyptandi sérhverja lifandi veru sem þær mæta. Vafasamar skordýra-eins, xenomorphs eiga samskipti sín á milli á óþekktan hátt og eru færar um óvænt háþróaða taktík. Þær fjölga sér í gegnum flókið og afar hratt ferli þar sem eggjum er gróðursett í fórnarlömb þeirra þar til meðganga er lokið, á þeim tímapunkti kemur nýfæddur geimvera í ljós og gleyptir fyrri hýsilinn. Vísindamenn kenna að hver klukk af þessum geimverum sé stjórnað af egg-verpandi drottningu af risastórri stærð og yfirburða greind. Xenomorphs eru kænar, samhæfa árásir sínar til að fljótt yfirtaka hvaða svæði sem þær eru fluttar inn í, byggja risavaxna hreiður og fanga lifandi hýsla til að þjóna í þeirra spillta fjölgunarferli.
+Uppgötvuð við jaðar geimsins, þessar xenomorphs eru svangar í hold, éta allar lifandi verur sem þær mæta. Xenomorphs eru dálítið skordýralegar, eiga samskipti sín á milli á óþekktan hátt og eru færar um ótrúlega háþróaða tækni. Þær fjölga sér í flóknu og afar hröðu ferli þar sem eggjum er gróðursett í fórnarlömb þeirra þar til meðganga er lokið, á þeim tímapunkti kemur nýfædda geimveran fram og etur fyrrum gestgjafann. Vísindamenn telja að hver hópur þessara geimvera sé leiddur af eggjandi drottningu af gífurlegri stærð og betri greind. Xenomorphs eru slægar, samhæfa árásir sínar til að ná fljótt yfir hvaða svæði sem þær eru fluttar inn á, byggja risastór hreiður og fanga lifandi gestgjafa til að þjóna í viðurstyggilegu fjölgunarferli sínu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+3 | 3D6 | 3D6+3 | 2D6 | 2D6 | 3D6+6 | 1D6 |
 | 13–14 | 10–11 | 13–14 | 7 | 7 | 16–17 | 3–4 |
 
-| Hreyfing 12 | Heilsu-punktar 12–13 |
+| Hreyfing 12 | Heilsuþol 12–13 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 2-pt. skel (spýtir súru blóði, sjá hér að neðan) |
+| **Skaðabreytir** +1D4 | **Vörn** 2-p. skel (spýr sýrðu blóði, sjá hér að neðan) |
 
 **Árásir:**
 
 * Kló 50%, 1D6+dm (blæðing)
 * Bit 35%, 1D6+dm (blæðing)
-* Halaskopp 35%, 1D4+dm (stungur)
-* Glíma 35%, sérstakt
+* Skottilhnykkur 35%, 1D4+dm (spjótun)
+* Grípa 35%, sérstök
 
-Í hverri umferð getur xenomorph ráðist tvisvar með klóm og einu sinni með bitárás 5 DEX-stigum síðar. Ef hún tekst með báðum klóárásum, reynir hún að glíma og bita í næstu umferð. Ef við á, skiptir hún bitinu út fyrir halaskoppárás.
+Í hverri umferð getur xenomorph ráðist tvisvar með klóm og einu sinni með biti 5 LIP-röðum seinna. Ef hún nær báðum klóárásum reynir hún að grípa og bíta í næstu umferð. Ef við á, skiptir hún út bitinu fyrir skottilhnykk.
 
-**Kunnátta:** Climb 75%, Dodge 50%, Hide 60%, Jump 50%, Listen 35%, Sense 50%, Spot 35%, Stealth 50%, Track 75%.
+**Hæfni:** Klifra 75%, Undanbrögð 50%, Fela sig 60%, Stökk 50%, Hlusta 35%, Skynjun 50%, Athygli 35%, Laumuspil 50%, Rekja 75%.
 
-**Kraftar:** Xenomorphs hafa sérstaka vörn: súrt blóð. Þessi líffræðilega sýra er ákaft öflug og spýtur frá sér frá hvaða líkamlegu sári sem xenomorph tekur, virkt tærandi í 1D6+2 bardagahringi. Hvert skotmark einum metra frá xenomorph verður að gera Luck-kast til að forðast að verða sprautað. Mistakist það gefur það til kynna að persónan tekur 1D3 punkta frá sýrunni. Brynja verndar upphaflega gegn þessari sýru, en ekki lengi. Hún heldur áfram að éta sig í gegnum brynju, gerir skaða í hverri bardagahring þar til hún er komin í gegnum brynju-gildið. Spilastjórinn ætti að fylgjast með skaða sýrunnar í hverri umferð þar til brynju-gildið er sigrað. Á þeim tímapunkti brennir hún persónuna. Að fjarlægja brynju án þess að brennast tekur eina fulla bardagahring og Erfitt Agility-kast. Ef líkamshlutar eru notaðir, þarf aðeins að fjarlægja brynju á sýktum líkamshluta(m). Mistakist það gefur til kynna að brynjunni sé enn á. Þegar persóna er verið að brenna af sýrunni, heldur hún áfram að brenna þar til hún er hlutleysuð af einhverju valdi, eða sýran hættir að lokum að vera tærandi í lok 1D6+2 hringanna.
+**Kraftar:** Xenomorphs hafa sérstaka vörn: sýrð blóð. Þessi líffræðilega sýra er mjög öflug og spýtur frá sér hvers kyns líkamlegum sár sem xenomorph verður fyrir, virk í 1D6+2 bardagaumferðir. Sérhvert skotmark einum metra frá xenomorph verður að ná Lukkukasti til að forðast að fá á sig skvettur. Bilun gefur til kynna að persónan verður fyrir 1D3 punktum frá sýrunni. Brynja verndar upphaflega gegn þessari sýru, en ekki lengi. Hún heldur áfram að éta sig í gegnum brynju, veldur skaða í hverri bardagaumferð þar til hún er komin í gegn. Spilastjóri ætti að fylgjast með skaða sýrunnar í hverri umferð þar til gildi brynju er yfirstigið. Á þessum tímapunkti brennir hún persónuna. Að fjarlægja brynju án þess að brennast tekur eina fulla bardagaumferð og Erfitt Lipurðarkast. Ef líkamshlutar eru notaðir þarf aðeins að fjarlægja brynju á viðkomandi líkamshluta(m). Bilun gefur til kynna að brynjurnar séu enn á. Fúll gefur til kynna að sýran komst á persónuna. Þegar persóna er brennd af sýrunni heldur hún áfram að brenna þar til hún er hlutleyst af einhverjum kröftum, eða sýran hættir að vera ætandi í lok 1D6+2 umferðanna.
 
 ### Klessa (Blob)
 
-Hrollvekjandi massi af slímugu protoplasmisku efni. Þessi vera er hrollvekjandi, framlengir stöðugt margar fals-fætur, anga, og jafnvel tilraunir til mannlegra útlima og skynfæra. Klessur eru hálf-gegnsæjar, og hægt er að sjá fórnarlömb þeirra inni í þeim þegar þau eru étin af öflugum meltingarsýrum. Klessur geta þjappað massanum sínum, kreist sig í gegnum þröng rými, breytt heildarformi sínu, en ekki raunverulegum massa sínum.
+Risavaxin klumpur af slímugum frumefnum. Þessi vera er hrollvekjandi, teygir stöðugt út marga gervifætur, þræði og jafnvel eftirlíkingar af mannslimum og skynfærum. Klessur eru hálf-gegnsæjar og hægt er að sjá fórnarlömb þeirra inni í þeim þegar þau eru étin af öflugum meltingarsýrum. Klessur geta þjappað saman stærð sinni, kreist sig í gegnum þröng rými, breytt heildarformi sínu, en ekki raunverulegum massa.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 18D6 | 12D6 | 24D6 | 2D6 | 3D6 | 1D6 |
 | 63 | 42 | 84 | 7 | 10–11 | 3–4 |
 
-| Hreyfing 10 | Heilsu-punktar 63 |
+| Hreyfing 10 | Heilsuþol 63 |
 | :---- | :---- |
-| **Skaðabónus** +8D6 | **Brynja** Ekkert, en sjá hér að neðan |
+| **Skaðabreytir** +8D6 | **Vörn** Engin, en sjá hér að neðan |
 
 **Árásir:**
 
-* Umlykja 70%, umlykur + dm (sjá hér að neðan)
+* Gleypa 70%, gleypir + dm (sjá hér að neðan)
 
-**Kunnátta:** Climb 50%, Hide 25%, Sense 25%, Stealth 25%, Track 25%.
+**Hæfni:** Klifra 50%, Fela sig 25%, Skynjun 25%, Laumuspil 25%, Rekja 25%.
 
-Klessa hefur enga brynju, en elds- og rafmagnsárásir gera aðeins ½ skaða (námunda upp) og líkamleg vopn svo sem skotvopn gera aðeins 1 punkts skaða.
+Klessa hefur enga brynju, en elds- og rafmagnsárásir gera aðeins ½ skaða (námundað upp) og líkamleg vopn eins og skotvopn gera aðeins 1 punkt af skaða.
 
-**Kraftar:** Klessa umlykur skotmarkið við farsæla árás. Skaðabónus hennar er beittur á umkringda persónu, og í eftirfarandi umferð byrjar persónan að verða melt. Ef líkamshlutar eru notaðir, er skaða deilt á alla líkamshluta samtímis. Þetta gerir 1D3–1 punkta af skaða í hverri bardagahring. Hlífðarbúnaður virkar ekki nema hann sé algerlega lokaður, og hann endist aðeins innan klessu í bardagahringi sem jafngilda brynju-gildi hans. Að komast út úr klessu er afar erfitt, krefst farsæls Erfiðs Effort-kasts. Klessur endurnýja einnig 1 heilsu-punkt á hverja bardagahring þar til þær ná fullum heilsu-punktum.
+**Kraftar:** Klessa gleypir skotmarkið við velheppnaða árás. Skaðabreytir hennar er beittur á gleypta persónu og í næstu umferð byrjar persónan að vera melt. Ef líkamshlutar eru notaðir skiptist skaðinn á milli allra líkamshluta samtímis. Þetta veldur 1D3–1 punkti af skaða í hverri bardagaumferð. Hlífðarbúnaður virkar ekki nema hann sé fullkomlega lokaður og hann endist aðeins í klessu í bardagaumferðir sem jafngilda varnargildi hans. Að komast út úr klessu er afar erfitt, krefst velheppnaðs Erfiðs Áreynslukasts. Klessur endurnýja einnig 1 heilsuþolspunkt í hverri bardagaumferð þar til þær ná fullum heilsuþolspunktum.
 
 ### Vélmenni, Risastórt
 
-Risavaxna vélmennið var byggt af leynilegri ríkisstofnun til að verja heiminn fyrir furðulegu úrvali af undarlegum geimverum og risaskrímslum. Brynjað og búið fjölbreyttu vopnabúri, risavélmennið er dýrkað af fólki alls staðar, þrátt fyrir að valda ómælanlegum eignatjóni hvert sinn sem það berst.
+Risastóra vélmennið var byggt af leynilegri ríkisstofnun til að verja heiminn fyrir undarlegri röð af framandi geimverum og risaskrímslum. Brynjað og búið fjölbreyttum ótrúlegum vopnum, er risavélmennið tilbeðið af fólki alls staðar, þrátt fyrir að valda gífurlegu eignatjóni hvenær sem það berst.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16D6+32 | 16D6+32 | 16D6+32 | 3D6 | 2D6 | 3D6 |
 | 88 | 88 | 88 | 10–11 | 7 | 10–11 |
 
-| Hreyfing 24 (176 fljúgandi) | Heilsu-punktar 188 (+100 frá Extra Hit Point krafti) |
+| Hreyfing 24 (176 flug) | Heilsuþol 188 (+100 frá Extra Hit Point krafti) |
 | :---- | :---- |
-| **Skaðabónus** +10D6 | **Brynja** 30-pt. brynju-bolur |
+| **Skaðabreytir** +10D6 | **Vörn** 30-p. brynjuður bolur |
 
 **Árásir:**
 
-* Orku-fallbyssa 100%, 10D6 (mulið)
-* Eldflaugabelgur 100%, 8D6+8 (stungur + knockback)
-* Orku-sverð 75%, 4D10+dm (blæðing)
-* Hnefi 75%, 1D6+dm (mulið)
-* Spark 75%, 1D6+dm (mulið, knockback)
-* Troðsla 75%, 2D6+dm (mulið)
-* Glíma 75%, sérstakt
+* Orkubyssa 100%, 10D6 (mulning)
+* Flugskeytakassi 100%, 8D6+8 (spjótun + afturkast)
+* Orkusverð 75%, 4D10+dm (blæðing)
+* Hnefi 75%, 1D6+dm (mulning)
+* Spark 75%, 1D6+dm (mulning, afturkast)
+* Troðningur 75%, 2D6+dm (mulning)
+* Grípa 75%, sérstök
 
-**Kraftar:** Risavélmennið hefur úrval af íhlutum sem best eru táknaðir með ofurkröftum, þar á meðal: Absorption (Electric) 20; Adaptation (High Pressure, Vacuum, alltaf á, enginn kraftapunktakostnaður) 30; Armor (Heat, Kinetic, Radiation) 30 hver; Energy Projection (Kinetic) 10; Extra Energy +200; Extra Hit Points +100; Flight 30; Resistance (Radiation, Sound) 10 hver; Super Sense (Dark Vision, Infrared Vision, Night Vision, Super Hearing, Super Vision) 10 hver; Super Skill 15 (Artillery +60%, Brawl +40%, Fly +60%, Navigate +20%, Repair +20%, Spot +40%). Til viðbótar við þessa krafta, hefur risavélmennið eldflaugabelg og risastórt orku-sverð innbyggt í mannvirki sitt.
+**Kraftar:** Risavélmennið hefur margvíslega hluta sem best er að tákna með ofurkröftum, þar á meðal: Absorption (Electric) 20; Adaptation (High Pressure, Vacuum, alltaf kveikt, enginn máttarstigs-kostnaður) 30; Armor (Heat, Kinetic, Radiation) 30 hvert; Energy Projection (Kinetic) 10; Extra Energy +200; Extra Hit Points +100; Flight 30; Resistance (Radiation, Sound) 10 hvert; Super Sense (Dark Vision, Infrared Vision, Night Vision, Super Hearing, Super Vision) 10 hvert; Super Skill 15 (Artillery +60%, Brawl +40%, Fly +60%, Navigate +20%, Repair +20%, Spot +40%). Auk þessara krafta hefur risavélmennið flugskeytakassa og risastórt orkusverð innbyggt í mannvirki sitt.
 
-**Kunnátta:** Artillery 75%, Dodge 40%, Fine Manipulation 35%, Fly (Internal Rockets) 90%, Jump 55%, Knowledge (Kaiju) 50%, Language (English) 30%, Language (Japanese) 75%, Listen 65%, Martial Arts 40%, Navigate 50%, Repair (Mechanical) 55%, Spot 65%, Throw 55%
+**Hæfni:** Stórskotalið 75%, Undanbrögð 40%, Fínleg meðferð 35%, Flug (Innri eldflaugar) 90%, Stökk 55%, Þekking (Kaiju) 50%, Tungumál (Enska) 30%, Tungumál (Japanska) 75%, Hlusta 65%, Bardagalist 40%, Leiðsögn 50%, Viðgerð (Vélræn) 55%, Athygli 65%, Kasta 55%
 
-### Vélmenni, Drápsvél
+### Vélmenni, Morðingi
 
-Drápsvélar eiga sér marga mismunandi uppruna. Þær gætu hafa verið byggðar fyrir herinn og farið í rugl, heimilisvélmenni orðin morðóð, eða morðingjar sendir frá einhverjum framtíðartíma eða fjarlægum geimhluta. Burtséð frá ástæðunni, er drápsvélin miskunnarlaus og útsjónarsöm, yfirleitt beind að eyðileggingu einnar manneskju, heils hóps fólks, eða kannski hverjum sem er af tiltekinni tegund (til dæmis, mann).
+Morðvélmenni hafa mörg mismunandi uppruna. Þau gætu hafa verið byggð fyrir herinn og farið í rugl, heimilisvélmenni sem urðu morðóð, eða morðingjar sendir úr einhverri framtíð eða fjarlægum geim. Burtséð frá ástæðunni er morðvélmennið miskunnarlaust og útsjónarsamt, yfirleitt einbeitt að eyðileggingu einnar manneskju, heils hóps fólks, eða kannski hvers kyns tiltekins kynþáttar (til dæmis manna).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+24 | 4D6+12 | 2D6+9 | 2D6+6 | 2D6 | 3D6 | 3D6 |
 | 38 | 26 | 16 | 13 | 7 | 10–11 | 10–11 |
 
-| Hreyfing 10 | Heilsu-punktar 21 |
+| Hreyfing 10 | Heilsuþol 21 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** 20-pt. innri plötur |
+| **Skaðabreytir** +2D6 | **Vörn** 20-p. innri plötur |
 
 **Árásir:**
 
-* Plasma-riffill 80%, 2D10+4 (stungur)
-* Árásarriffill 80%, 2D6+2 (stungur)
-* Sjálfvirk haglabyssa 80%, 4D6/2D6/1D6 (stungur)
-* Þung skammbyssa 80%, 1D10+2 (stungur)
-* Hnefi 80%, 1D3+dm (mulið)
+* Plasmabyssa 80%, 2D10+4 (spjótun)
+* Árásarrifill 80%, 2D6+2 (spjótun)
+* Sjálfvirk haglabyssa 80%, 4D6/2D6/1D6 (spjótun)
+* Þung skammbyssa 80%, 1D10+2 (spjótun)
+* Hnefi 80%, 1D3+dm (mulning)
 
-Eftir því hvar og hvenær hún mætist, er drápsvélin annaðhvort búin háþróuðum vopnum eða vopnabúnaði sem hæfir umhverfinu.
+Eftir því hvar og hvenær það er fundið, er morðvélmennið annaðhvort búið háþróuðum vopnum eða hergögnum sem henta aðstæðunum.
 
-**Kunnátta:** Artillery 80%, Brawl 80%, Climb 50%, Demolition 50%, Dodge 40%, Drive (Motorcycle) 75%, Drive (Truck) 60%, Grapple 80%, Jump 50%, Knowledge (Future History) 65%, Knowledge (Region: Local) 50%, Language (Binary) 100%, Language (Local) 60%, Listen 65%, Pilot (Helicopter) 50%, Repair (Electronics) 75%, Repair (Mechanical) 95%, Spot 75%, Strategy 40%, Throw 55%.
+**Hæfni:** Stórskotalið 80%, Slagsmál 80%, Klifra 50%, Sprengjuefni 50%, Undanbrögð 40%, Akstur (Mótorhjól) 75%, Akstur (Vörubíll) 60%, Grípa 80%, Stökk 50%, Þekking (Framtíðarsaga) 65%, Þekking (Svæði: Staðbundið) 50%, Tungumál (Tvöfalt) 100%, Tungumál (Staðbundið) 60%, Hlusta 65%, Flug (Þyrla) 50%, Viðgerð (Rafeindatækni) 75%, Viðgerð (Vélræn) 95%, Athygli 75%, Stefna 40%, Kasta 55%.
 
-**Kraftar:** Drápsvélin hefur yfirleitt nokkra ofurkrafta svo sem Super Sense (Infrared Vision, Super Hearing, Super Vision, Ultrasonic Hearing) á 5 hver. Hún getur notað þessa krafta án kraftapunktakostnaðar. Sumar drápsvélar geta breytt um form, teygt sig, eða eru vopnaðar innbyggðum vopnabúnaði svo sem klóm, blöðum, leysiauga, eða innri skotvopnum.
+**Kraftar:** Morðvélmennið hefur venjulega nokkra ofurkrafta eins og Super Sense (Infrared Vision, Super Hearing, Super Vision, Ultrasonic Hearing) á 5 hvert. Það getur notað þessa krafta án nokkurs kostnaðar í máttarstigum. Sum morðvélmenni geta breytt um lögun, teygt sig, eða eru vopnuð með samþættum vopnum eins og klóm, blöðum, leysiaugum eða innri skotvopnum.
 
 ### Vélmenni, Nytja
 
-Traustur þjónn mannkyns, nytjavélmennið hefur verið hannað til að hjálpa mönnum. Nytjavélmenni eru hefðbundið forrituð til að vera auðmjúk og vinaleg, og umfram allt til að forðast að framkvæma neinar athafnir sem gætu leitt til skaða á lifandi veru. Sum nytjavélmenni hafa innri tól byggð inni í sér þegar þau gera viðhald og viðgerðir, eða þau gætu verið einfaldar tilraunir til mannkyns, ætluð í hlutverk eins og diplómatíu, þýðingar og persónulega aðstoð.
+Traustur þjónn mannkynsins, nytjavélmennið hefur verið hannað til að aðstoða menn. Nytjavélmenni eru hefðbundið forrituð til að vera hógvær og vingjarnleg, og umfram allt að forðast að gera neinar aðgerðir sem gætu leitt til skaða á lifandi veru. Sum nytjavélmenni hafa innri verkfæri innbyggð í sér þegar þau sinna vélrænni eða rafmagns-viðhaldi og viðgerðum, eða þau gætu verið einfaldar eftirlíkingar af mannkyninu, ætluð í hlutverk eins og diplómatíu, þýðingar og persónulega aðstoð.
 
-| STR | SIZ | INT | DEX |
-| :---- | :---- | :---- | :---- |
+| STY | STÆ | GRE | LIP |
+| :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
 | 13 | 10–11 | 13 | 10–11 |
 
-| Hreyfing 8 | Heilsu-punktar 10–11 |
+| Hreyfing 8 | Heilsuþol 10–11 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 4-pt. plötur |
+| **Skaðabreytir** Enginn | **Vörn** 4-p. plötur |
 
 **Árásir:**
 
-* Brawl 30%, 1D3+dm (mulið)
-* Power Tools 50%, 1D6 (eldur eða rafmagn, sjá hér að neðan)
+* Slagsmál 30%, 1D3+dm (mulning)
+* Rafverkfæri 50%, 1D6 (eldur eða rafmagn, sjá hér að neðan)
 
-Flest nytjavélmenni hafa ströng forritunarboð um að skaða ekki skynjaðar tegundir. Hins vegar eru sum minna ströng um það en önnur, og gætu bregst við í sjálfsvörn. Tæknivélmenni hafa nokkur innri tól svo sem suðuvélar eða rafmagnsútskiljara sem hægt er að nota fyrir skaða.
+Flest nytjavélmenni hafa strangar forritunar-innsetningar um að skaða ekki skynsamar tegundir. Hins vegar eru sum minna ströng um það en önnur, og geta brugðist við í sjálfsvörn. Tæknivélmenni hafa nokkur innri verkfæri eins og suðuvélar eða rafmagnsútskiljara sem hægt er að nota til skaða.
 
-**Kunnátta (Diplómatíu-pakki):** Appraise 85%, Bargain 55%, Etiquette 95%, Fast Talk 75%, Heavy Machine (Binary Loadlifter) 50%, Hide 25%, Insight 35%, Knowledge (Alien Cultures) 75%, Knowledge (Linguistics) 100%, Language (all known) 95%, Listen 55%, Persuade 45%, Teach 60%.
+**Hæfni (Diplómatíupakki):** Meta 85%, Samningaviðræður 55%, Siðareglur 95%, Hraðtal 75%, Þungar vélar (Tvöfaldur farmlyftari) 50%, Fela sig 25%, Innsæi 35%, Þekking (Framandi menning) 75%, Þekking (Málvísindi) 100%, Tungumál (öll þekkt) 95%, Hlusta 55%, Sannfæra 45%, Kenna 60%.
 
-**Kunnátta (Tækni-pakki):** Fine Manipulation 95%, Heavy Machine (Spaceport Systems) 95%, Hide 35%, Language (Galactic Common, cannot speak) 50%, Language (Machine) 100%, Listen 50%, Pilot (Starfighter) 50%, Repair (Electronic) 95%, Repair (Mechanical) 95%, Repair (Quantum) 75%, Spot 50%, Technical Skill (Computer Use) 100%.
+**Hæfni (Tæknipakki):** Fínleg meðferð 95%, Þungar vélar (Geimferðakerfi) 95%, Fela sig 35%, Tungumál (Geim-samfélagslegt, getur ekki talað) 50%, Tungumál (Vél) 100%, Hlusta 50%, Flug (Geimfari) 50%, Viðgerð (Rafeindatækni) 95%, Viðgerð (Vélræn) 95%, Viðgerð (Skammta) 75%, Athygli 50%, Tæknikunnátta (Tölvunotkun) 100%.
 
-## Samantekt á óleikurum
+## Samantekt persóna sem ekki eru spilaðar
 
-Þessar dæmi um óleikara má nota samstundis eða auðveldlega sérsníða eftir þörfum, reskinna eða jafnvel nota sem fljótlegar persónur leikmanna. Breitt úrval þeirra af hugsanlegum vopnum þýðir ekki að þeir gangi alltaf þungvopnaðir, heldur að þeir séu kunnáttusamir í meira en einu vopni.
+Þessar dæmi um persónur sem ekki eru spilaðar er hægt að nota samstundis eða auðveldlega sérsníða eftir þörfum, breyta útliti eða jafnvel nota sem fljótlegar spilarapersónur. Breitt úrval þeirra af hugsanlegum vopnum þýðir ekki að þær gangi alltaf vopnaðar, heldur að þær eru færar í fleiri en einu vopni.
 
 ### Hellisbúi
 
-Frumstæður maður frá löngu horfinni tímabil sögunnar, hellisbúinn er algjörlega einbeittur að lifun fyrir sig, fjölskyldu og ættbálk. Varla fær um að nota verkfæri, hefur hellisbúinn ekki enn þróast framhjá veiðimanna-söfnunarstigi siðmenningarinnar, og býr annaðhvort í hellum til öryggis eða flytur þegar árstíðirnar breytast, stríðandi við aðra ættbálka fyrir auðlindir eða jafnvel lifun. Hellisbúar dýrka oft anda veðurs og veiðidýra sinna.
+Frumstæður maður frá löngu liðnu tímabili sögunnar, hellisbúinn er algjörlega einbeittur að lifun fyrir sig, fjölskyldu og ættbálk. Varla fær um að nota verkfæri, hefur hellisbúinn ekki enn þróast framhjá veiði- og söfnunarstigi siðmenningarinnar, og annaðhvort býr í hellum til öryggis eða flytur sig um set eftir árstíðum, stríðir við aðra ættbálka um auðlindir eða jafnvel lifun. Hellisbúar dýrka oft anda veðursins og bráðar þeirra.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 16 | 10 | 8 | 12 | 15 | 9 |
 
-| Hreyfing 10 | Heilsu-punktar 13 |
+| Hreyfing 10 | Heilsuþol 13 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 1-pt. húð |
+| **Skaðabreytir** +1D4 | **Vörn** 1-p. feldir |
 
 **Árásir:**
 
-* Stutt spjót 50%, 1D6+1+dm (stungur)
-* Stutt spjót (kastað) 50%, 1D6+1+½dm (stungur)
-* Léttur klúbbur 50%, 1D6+dm (mulið)
-* Steinn (kastaður) 50%, 1D2+½dm (mulið)
-* Glíma 50%, sérstakt
+* Stutt spjót 50%, 1D6+1+dm (spjótun)
+* Stutt spjót (kastað) 50%, 1D6+1+½dm (spjótun)
+* Létt kylfa 50%, 1D6+dm (mulning)
+* Steinn (kastað) 50%, 1D2+½dm (mulning)
+* Grípa 50%, sérstök
 
-**Kunnátta:** Brawl 50%, Climb 60%, Craft (Wood Carving) 25%, Dodge 35%, Hide 35%, Jump 50%, Language (Own) 40%, Listen 55%, Sense 50%, Spot 65%, Stealth 30%, Throw 50%, Track 40%
+**Hæfni:** Slagsmál 50%, Klifra 60%, Föndur (Tréskurður) 25%, Undanbrögð 35%, Fela sig 35%, Stökk 50%, Tungumál (eigin) 40%, Hlusta 55%, Skynjun 50%, Athygli 65%, Laumuspil 30%, Kasta 50%, Rekja 40%
 
-**Kraftar:** Hellisbúar hafa sjaldan neina krafta, þó sumir frumstæðir sjamans gætu haft nokkra galdra eða sálræna krafta ef POW þeirra er nægilega hátt.
+**Kraftar:** Hellisbúar hafa sjaldan neina krafta, þó sumir frumstæðir shamanar gætu haft nokkra galdra eða geðkrafta ef MÁT þeirra er nógu hátt.
 
 ### Glæpaforingi
 
-Glæpaforinginn er gengi-leiðtogi eða háttsettur meðlimur í skipulagðri glæpafjölskyldu, líklegast búinn að vinna sig upp í gegnum raðirnar. Hann er kunnáttusamur í að reka stóran hóp einstakra glæpamanna í daglegu starfi skipulagðra glæpa. Ósvífinn, miskunnarlaus, ákveðinn og kæn, glæpaforinginn er útsjónarsamur og hættulegur óvinur. Þótt þeir séu ekki líkamlega áhrifamiklir, bæta þeir það upp með metnaði, köldu tillitsleysi fyrir mannslífum, og her af kunnáttusamum og grimmdarlegum undirmönnum.
+Glæpaforinginn er gengi-leiðtogi eða háttsettur meðlimur í skipulagðri glæpafjölskyldu, líklegast unnið sig upp í gegnum raðirnar. Þeir eru færir í að stjórna stórum hópi einstakra glæpamanna í daglegum störfum skipulagðrar glæpastarfsemi. Ósvífnir, miskunnarlausir, staðfastir og slægir, glæpaforinginn er útsjónarsamur og hættulegur óvinur. Þótt þeir séu ekki líkamlega áhrifamiklir, bæta þeir það upp með metnaði, köldu tillitsleysi við mannslíf og her af færum og hrottalegum fylgismönnum.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 11 | 12 | 12 | 12 | 17 | 16 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 12 |
+| Hreyfing 10 | Heilsuþol 12 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert |
+| **Skaðabreytir** Enginn | **Vörn** Engin |
 
 **Árásir:**
 
-* Miðlungs skammbyssa 75%, 1D8 (stungur)
-* Rakvél 65%, 1D4+dm (blæðing)
-* Vélbyssa 55%, 2D6+4 (stungur)
+* Miðlungs skammbyssa 75%, 1D8 (spjótun)
+* Rakvélarblað 65%, 1D4+dm (blæðing)
+* Vélbyssa 55%, 2D6+4 (spjótun)
 
-**Kunnátta:** Appraise 55%, Bargain 65%, Command 65%, Craft (Cooking) 55%, Craft (License Plates) 35%, Demolition 35%, Disguise 25%, Dodge 50%, Drive (Getaway Car) 45%, Etiquette 45%, Fast Talk 55%, Gaming 60%, Hide 35%, Insight 75%, Knowledge (Law) 55%, Language (Local) 75%, Language (Own) 75%, Listen 55%, Medicine (Pharmacology) 35%, Perform (Singing) 50%, Persuade 75%, Sense 40%, Sleight of Hand 35%, Spot 45%, Status 55%, Stealth 55%, Strategy 60%, Throw 45%.
+**Hæfni:** Meta 55%, Samningaviðræður 65%, Stjórn 65%, Föndur (Matreiðsla) 55%, Föndur (Númeraplötur) 35%, Sprengjuefni 35%, Dulbúningur 25%, Undanbrögð 50%, Akstur (Flóttabíll) 45%, Siðareglur 45%, Hraðtal 55%, Spilamennska 60%, Fela sig 35%, Innsæi 75%, Þekking (Lög) 55%, Tungumál (Staðbundið) 75%, Tungumál (eigin) 75%, Hlusta 55%, Læknisfræði (Lyfjafræði) 35%, Söngur 50%, Sannfæra 75%, Skynjun 40%, Fingrafimi 35%, Athygli 45%, Staða 55%, Laumuspil 55%, Stefna 60%, Kasta 45%.
 
-**Kraftar:** Glæpaforingjar hafa sjaldan krafta og eru yfirleitt óvinir þeirra með ofurkrafta.
+**Kraftar:** Glæpaforingjar hafa sjaldan krafta og eru venjulega óvinir þeirra sem hafa ofurkrafta.
 
-### Cyborg
+### Kyborg
 
-Cyborg er maður aukinn með tæknilegum þáttum, annaðhvort sem leið til úrbóta eða sem skipti fyrir líkamshluta sem tapast hafa vegna slyss. Hálft hold og hálf vél, cyborginn hefur komist að því að sætta sig við þetta nýfundna ástand, þrátt fyrir þá firringu sem það skapar. Hann gæti verið algjörlega mannlegur í útliti eða verið augljós blanda af holdi og málmi.
+Kyborginn er manneskja aukin með tæknilegum þáttum, annaðhvort sem leið til úrbóta eða sem skipti fyrir líkamshluta sem týndust vegna slysa. Hálf-hold og hálf-vél, kyborginn hefur lært að sætta sig við þetta nýfundna ástand, þrátt fyrir þá firringu sem það skapar. Þeir geta verið algjörlega manneskjulegir í útliti eða augljós blanda af holdi og málmi.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 33 | 24 | 14 | 14 | 11 | 22 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 19 |
+| Hreyfing 10 | Heilsuþol 19 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** Ekkert |
+| **Skaðabreytir** +2D6 | **Vörn** Engin |
 
 **Árásir:**
 
-* Brawl 90%, 1D3+10+dm (mulið)
+* Slagsmál 90%, 1D3+10+dm (mulning)
 
-**Kunnátta:** Climb 40%, Dodge 65%, Drive (Car) 55%, Hide 40%, Jump 75%, Language (Own) 85%, Listen 75%, Pilot (Experimental Jets) 75%, Repair (Electronic) 55%, Science (Cybernetics) 40%, Spot 85%, Stealth 40%, Throw 65%.
+**Hæfni:** Klifra 40%, Undanbrögð 65%, Akstur (Bíll) 55%, Fela sig 40%, Stökk 75%, Tungumál (eigin) 85%, Hlusta 75%, Flug (Tilraunaþotur) 75%, Viðgerð (Rafeindatækni) 55%, Vísindi (Kybernetík) 40%, Athygli 85%, Laumuspil 40%, Kasta 65%.
 
-**Kraftar:** Aukning cyborgs er best táknuð með ofurkröftum, svo sem eftirfarandi:
+**Kraftar:** Aukin tækni kyborgsins er best táknuð með ofurkröftum, svo sem eftirfarandi:
 
-* **Varnarkerfi:** Armor 5 (vs. rafmagnsorku) Innri rafhlaða: Extra Energy 5 (+50 kraftapunktar)
-* **Líkamlegar úrbætur:** Leap 5 (+10 metrar), Super Characteristics 40 (+20 STR, +10 CON, +10 DEX), Super Speed 2 (1 auka hreyfing, 1 auka athöfn)
-* **Skynjunaraukningar:** Super Sense (Super Hearing 10, Super Vision 10, Infrared Vision 5, Ultrasonic Hearing 5)
-* **Taktískar breytingar:** Defense 20 (–10% á að hittast), Super Skill 8 (Jump +40%, Listen +40%, Spot +60%, Throw +25%), Unarmed Combat 5 (+10 skaði, –25% á möguleika skotmarks á að hitta, +25% á Brawl kunnáttu)
+* **Varnarkerfi:** Vörn 5 (á móti rafmagnsorku) Innri rafhlaða: Aukaorka 5 (+50 máttarstig)
+* **Líkamlegar úrbætur:** Stökk 5 (+10 metrar), Ofureiginleikar 40 (+20 STY, +10 ÞOL, +10 LIP), Ofurhraði 2 (1 auka hreyfing, 1 auka aðgerð)
+* **Skynaukningar:** Ofurskynjun (Ofurheyrn 10, Ofursjón 10, Innrauð sjón 5, Ofurhljóðheyrn 5)
+* **Taktískar breytingar:** Vörn 20 (–10% að verða fyrir höggi), Ofurhæfni 8 (Stökk +40%, Hlusta +40%, Athygli +60%, Kasta +25%), Óvopnaður bardagi 5 (+10 skaði, –25% á líkur á að skotmark hitti, +25% á slagsmálahæfni)
 
-**Veikleikar:** Cyborginn hefur eftirfarandi veikleika til að vega upp á móti þessum frábæra krafti:
+**Veikleikar:** Kyborginn hefur eftirfarandi veikleika til að jafna út þennan ótrúlega kraft:
 
-* Cyborg-auðkenni gerir eðlilegt líf ómögulegt.
-* Veruleg þátttaka í ríkisstofnun sem ber ábyrgð á cyborg-breytingum.
-* Cyborg-íhlutir taka auka 1D6 skaða af segul-byggðum árásum.
+* Kyborg-auðkenni gerir eðlilegt líf ómögulegt.
+* Mikil þátttaka hjá ríkisstofnun sem ber ábyrgð á kyborg-breytingum.
+* Kyborg-hlutar verða fyrir 1D6 aukaskaða frá segul-tengdum árásum.
 
-### Hálf-guð (Demigod)
+### Hálfguð
 
-Afkvæmi guðs og dauðlegs manns, hálf-guðinn ævintýrast um allan heim, berjandi yfirnáttúrulegar ógnir og hjálpandi eðlilegum mönnum í baráttunni gegn harðstjórn guðanna. Fastur á milli tveggja heima, hins guðlega og dauðlega, hefur hálf-guðinn mikil örlög, en hefur ekki enn ákveðið hvort þessi örlög séu að hjálpa mannkyninu að steypa guðunum af stóli, eða að leiða dauðlega til meiri dýrkunar og hollustu við himnana. Hálf-guðinn dregur oft til sín minni hetjur til málstaðar síns og er brennipunktur fyrir vandræði. Ódauðlegur, hálf-guðinn getur mæst á hvaða tímapunkti sem er í sögunni.
+Afkvæmi guðs og dauðlegs manns, hálfguðinn ferðast um heiminn, berst við yfirnáttúrulegar ógnir og aðstoðar venjulega menn í baráttu gegn harðstjórn guðanna. Gripinn á milli tveggja heima, hins guðlega og hins dauðlega, hefur hálfguðinn mikil örlög, en hefur ekki enn ákveðið hvort þau örlög séu að hjálpa mannkyninu að steypa guðunum af stóli, eða leiða dauðlega til meiri tilbeiðslu og hollustu við himnana. Hálfguðinn dregur oft til sín minni hetjur til málstaðar síns og er miðpunktur vandræða. Ódauðlegur, hálfguðinn getur fundist á hvaða tímapunkti sögunnar sem er.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 35 | 34 | 15 | 13 | 18 | 15 | 17 |
 
-| Hreyfing 10 | Heilsu-punktar 25 |
+| Hreyfing 10 | Heilsuþol 25 |
 | :---- | :---- |
-| **Skaðabónus** +2D6 | **Brynja** 20-pt. Brynja (Kinetic) |
+| **Skaðabreytir** +2D6 | **Vörn** 20-p. Vörn (Kinetic) |
 
 **Árásir:**
 
-* Brawl 110%, 1D3+dm (mulið)
-* Glíma 110%, sérstakt
+* Slagsmál 110%, 1D3+dm (mulning)
+* Grípa 110%, sérstök
 * Stutt sverð 100%, 1D6+1+dm (blæðing)
-* Kringlóttur skjöldur 80%, 1D3+dm (knockback)
+* Hringskjöldur 80%, 1D3+dm (afturkast)
 
-**Kunnátta:** Brawl 110%, Climb 80%, Command 45%, Dodge 65%, Drive (Chariot) 65%, Etiquette 25%, Grapple 110%, Insight 55%, Jump 75%, Knowledge (Mythology) 85%, Language (Ancient Own) 100%, Language (Local) 90%, Listen 65%, Navigate 60%, Perform (Harp) 50%, Persuade 45%, Ride (Horse) 45%, Sense 70%, Spot 60%, Status 45%, Stealth 50%, Strategy 60%, Swim 75%, Throw 85%
+**Hæfni:** Slagsmál 110%, Klifra 80%, Stjórn 45%, Undanbrögð 65%, Akstur (Kerra) 65%, Siðareglur 25%, Grípa 110%, Innsæi 55%, Stökk 75%, Þekking (Goðafræði) 85%, Tungumál (Forn-eigin) 100%, Tungumál (Staðbundið) 90%, Hlusta 65%, Leiðsögn 60%, Söngur (Harpa) 50%, Sannfæra 45%, Ríða (Hestur) 45%, Skynjun 70%, Athygli 60%, Staða 45%, Laumuspil 50%, Stefna 60%, Sund 75%, Kasta 85%
 
-**Kraftar:** Hálf-guðinn hefur úrval af kröftum frá guðlegum uppruna, svo sem eftirfarandi ofurkraftar:
+**Kraftar:** Hálfguðinn hefur fjölbreytta krafta frá guðlegum uppruna, svo sem eftirfarandi ofurkrafta:
 
-* Adaptation (Radiation, Underwater, Vacuum) 5 hver; Armor (Kinetic) 20; Extra Energy 20 (+200 kraftapunktar); Extra Hit Points 30 (+30 HP); Leap 10 (+20 metrar við Jump drægni); Regeneration 3 (græðir 3 HP á bardagahring); Sidekick (sjá hér að neðan); Super Characteristics 50 (STR +20, CON +20, POW +5, CHA +5); Super Skills 20 (Brawl +40%, Grapple +40%, Knowledge [Mythology] +40%, Sense +40%, Shield +80%, Strategy +40%, Sword +80%, Throw +40%), Unarmed Combat 5 (+10 brawl skaði, –25% á árásarmannshæfileika, Brawl/Grapple kunnátta +25%).
+* Adaptation (Radiation, Underwater, Vacuum) 5 hvert; Vörn (Kinetic) 20; Aukaorka 20 (+200 máttarstig); Aukaheilsuþol 30 (+30 HP); Stökk 10 (+20 metrar á Stökkvegalengd); Endurnýjun 3 (græðir 3 HP á bardagaumferð); Fylgispilari (sjá hér að neðan); Ofureiginleikar 50 (STY +20, ÞOL +20, MÁT +5, KAR +5); Ofurhæfni 20 (Slagsmál +40%, Grípa +40%, Þekking [Goðafræði] +40%, Skynjun +40%, Skjöldur +80%, Stefna +40%, Sverð +80%, Kasta +40%), Óvopnaður bardagi 5 (+10 slagsmálaskaði, –25% á árásarhæfni, Slagsmál/Grípa hæfni +25%).
 
-**Veikleikar:** Persónubrestir hálf-guðsins eru:
+**Veikleikar:** Persónubrestir hálfguðsins eru:
 
-* Ófærni til að lifa eðlilegu lífi.
+* Ófær um að lifa eðlilegu lífi.
 * Veiddur af óvinum guðanna.
-* Veiddur af guðunum sjálfum sem keppinautar.
-* Alltaf kallaður til hjálpar af dauðlegum.
+* Veiddur af keppinautum guðanna sjálfra.
+* Alltaf kallaður til hjálpar af dauðlegum mönnum.
 
-Hálf-guðir hafa oft dauðlegan aðstoðarmann (með því að nota Sidekick ofurkraftinn eða eðlilegan óleikara), manneskju sem er menningarlega kunnug heiminum og minnir þá á auðmýkt dauðlegrar tilveru. Eftir umhverfi gæti hálf-guð notað galdra eða galdrakúnstir. Þeir gætu ekki einu sinni verið guðleg vera og gætu bara verið stökkbreyttur.
+Hálfguðir hafa oft dauðlegan fylgispilara (notandi Fylgispilara-ofurkraftinn eða venjulega persónu sem ekki er spiluð), einhvern sem er menningarlega kunnugur heiminum og minnir þá á hógværð dauðlegrar tilveru. Eftir aðstæðum gæti hálfguð notað galdra eða seið. Þeir gætu ekki einu sinni verið guðleg vera heldur gætu verið stökkbreyttir.
 
 ### Rannsóknarlögreglumaður
 
-Hvort sem það er rannsóknarlögreglumaður, réttarlæknir, einkaspæjari eða afbrotafræðingur, er rannsóknarmaðurinn þjálfaður í rannsóknum, athugun, eftirliti, yfirheyrslum á grunuðum og vitnum, skoðun á líkamlegum sönnunargögnum og ályktun. Sumir rannsóknarmenn lifa spennandi lífi fullu af bílaeftirförum, fallegum konum og átökum við bæði lögin og glæpamenn. Aðrir vinna á háþróuðum rannsóknarstofum, rykugum bókasöfnum og setustofum, eða jafnvel fyrir framan tölvuskjá sem leitar í opinberum og einkaskrám.
+Hvort sem það er lögreglumaður, réttarlæknir, einkaspæjari eða afbrotafræðingur, er rannsóknarlögreglumaður þjálfaður í rannsóknum, athugun, eftirliti, yfirheyrslum á grunuðum og vitnum, skoðun á líkamlegum sönnunargögnum og ályktunum. Sumir rannsóknarlögreglumenn lifa spennandi lífi fullu af bílaeltingarleikjum, fallegum konum og átökum við bæði lögin og glæpamenn. Aðrir vinna á hátæknirannsóknarstofum, rykugum bókasöfnum og stofum, eða jafnvel fyrir framan tölvuskjá að leita í opinberum og einkaskrám.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 13 | 12 | 14 | 17 | 14 | 14 | 15 |
 
-| Hreyfing 10 | Heilsu-punktar 13 |
+| Hreyfing 10 | Heilsuþol 13 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** +1D4 | **Vörn** Engin |
 
 **Árásir:**
 
-* Miðlungs skammbyssa 75%, 1D8 (stungur)
-* Hnefi 65%, 1D3+dm (mulið)
-* Glíma 50%, sérstakt
+* Miðlungs skammbyssa 75%, 1D8 (spjótun)
+* Hnefi 65%, 1D3+dm (mulning)
+* Grípa 50%, sérstök
 
-**Kunnátta:** Appraise 35%, Bargain 35%, Climb 55%, Disguise 35%, Dodge 40%, Drive (Sedan) 55%, Etiquette 25%, Fast Talk 65%, Hide 40%, Insight 55%, Knowledge (Law) 65%, Knowledge (Region: Local) 55%, Knowledge (Streetwise) 50%, Language (Local) 75%, Listen 45%, Persuade 45%, Research 75%, Sense 50%, Sleight of Hand 25%, Spot 65%, Stealth 50%, Track 35%
+**Hæfni:** Meta 35%, Samningaviðræður 35%, Klifra 55%, Dulbúningur 35%, Undanbrögð 40%, Akstur (Sedan) 55%, Siðareglur 25%, Hraðtal 65%, Fela sig 40%, Innsæi 55%, Þekking (Lög) 65%, Þekking (Svæði: Staðbundið) 55%, Þekking (Götulíf) 50%, Tungumál (Staðbundið) 75%, Hlusta 45%, Sannfæra 45%, Rannsókn 75%, Skynjun 50%, Fingrafimi 25%, Athygli 65%, Laumuspil 50%, Rekja 35%
 
-**Kraftar:** Rannsóknarmenn hafa sjaldan krafta, þótt einhverjir galdramenn eða galdrakúnsta-notendur verði rannsóknarmenn.
+**Kraftar:** Rannsóknarlögreglumenn hafa sjaldan krafta, þó sumir fáir töframenn eða seiðmenn verði rannsóknarlögreglumenn.
 
-### Galaktískur riddari
+### Geimriddari
 
-Þessi geimfara-riddari fylgir dularfullri hefð sem veitir mikla og dularfulla krafta. Sem verndari friðar og réttlætis um alla vetrarbrautina, hefur galaktíski riddarinn svarið eið um að halda uppi heiðurskóða og þjónar næstum sem millivetrarbrauta-landvörður. Flestir í vetrarbrautinni skilja ekki undarlega kraftinn sem galaktíski riddarinn þjónar, þótt þeir séu virtir eða óttast hvert sem þeir fara. Galaktíski riddarinn forðast hefðbundin vopn, og notar í staðinn forn en háþróað handvopn með banvænni skilvirkni.
+Þessi geimfari-riddari fylgir dulspekilegri hefð sem veitir mikla og dularfulla krafta. Sem verndari friðar og réttlætis um alla vetrarbrautina, hefur geimriddarinn unnið eið um að halda siðareglum og þjónar nánast sem geim-riddari. Flest vetrarbrautin skilur ekki undarlega kraftinn sem geimriddarinn þjónar, þó þeir séu virtir eða óttast hvert sem þeir fara. Geimriddarinn hafnar hefðbundnum vopnum, og notar í staðinn forn en háþróað handvopn með banvænni skilvirkni.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 15 | 14 | 15 | 21 | 17 | 15 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** +1D4 | **Vörn** Engin |
 
 **Árásir:**
 
 * Orkusverð 150%, 2D10+dm (blæðing)
-* Brawl 80%, 1D3+dm (mulið)
+* Slagsmál 80%, 1D3+dm (mulning)
 
-**Kunnátta:** Climb 75%, Command 50%, Dodge 75%, Hide 45%, Insight 75%, Jump 65%, Knowledge (Region: Galaxy) 35%, Language (Alien) 70%, Language (Own) 105%, Listen 65%, Martial Arts 80%, Navigate 50%, Persuade 35%, Pilot (Starfighter) 65%, Repair (Mechanical) 55%, Sense 70%, Spot 65%, Stealth 70%, Strategy 50%, Throw 60%.
+**Hæfni:** Klifra 75%, Stjórn 50%, Undanbrögð 75%, Fela sig 45%, Innsæi 75%, Stökk 65%, Þekking (Svæði: Vetrarbraut) 35%, Tungumál (Framandi) 70%, Tungumál (eigin) 105%, Hlusta 65%, Bardagalist 80%, Leiðsögn 50%, Sannfæra 35%, Flug (Geimfari) 65%, Viðgerð (Vélræn) 55%, Skynjun 70%, Athygli 65%, Laumuspil 70%, Stefna 50%, Kasta 60%.
 
-**Kraftar:** Galaktíski riddarinn er kunnáttusamur í dularfullri hefð sem veitir nokkra sálræna hæfileika, þeirra á meðal Danger Sense 60%, Empathy 55%, Mind Control 35%, Precognition 40%, Telekinesis 45% og Telepathy 50%.
+**Kraftar:** Geimriddarinn er fær í dulspekilegri hefð sem veitir nokkra geðhæfileika, þar á meðal Hættuskynjun 60%, Samkennd 55%, Hugastjórn 35%, Forspárhæfileika 40%, Telekinesis 45% og Telepathy 50%.
 
-###byssuskotamaður (Gunslinger)
+### Bylssuskytta
 
-Byssukarlinn hefur atvinnu af því að drepa fólk, sérhæfir sig í hröðum og banvænum bardaga með skammbyssu. Í flestum tilfellum byrjaði byssukarlinn lífið sem eitthvað annað, en var dreginn út í ofbeldisfullt líf vegna harmleiks eða smekks fyrir drápi. Orðspor byssukarlsins er langöflugasta vopn hans—margir leggja frá sér vopnin frekar en að horfast í augu við vissa dauða. Þetta gefur byssukarlinum stöðuga vinnu, hjálpandi þeim sem þurfa hjálp, hvort sem það er á hlið laganna eða glæpamennsku. Stundum er orðspor tvíeggjað sverð, dregur að sér þá sem vilja gera sig fræga.
+Byssuskyttan lifir á því að drepa fólk, sérhæfir sig í hröðum og banvænum bardaga með skammbyssu. Í flestum tilfellum byrjaði byssuskyttan sem eitthvað annað, en var dregin út í líf ofbeldis vegna harmleiks eða smekk fyrir drápum. Orðspor byssuskyttunnar er lang öflugasta vopnið – margir leggja frá sér vopnin frekar en að horfast í augu við víst dauðsfall. Þetta gefur byssuskyttunni stöðuga vinnu, hjálpar þeim sem þurfa hjálp, hvort sem það er hlið laganna eða glæpastarfseminnar. Stundum er orðspor tvíeggjað sverð, sem dregur að þá sem vilja gera sig fræga.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 14 | 14 | 15 | 18 | 13 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 1-pt. þungur fatnaður |
+| **Skaðabreytir** +1D4 | **Vörn** 1-p. þungur fatnaður |
 
 **Árásir:**
 
-* Miðlungs endurhlaðanleg skammbyssa 95%, 1D8 (stungur)
-* Íþróttariffill 85%, 2D6 (stungur)
-* Tvíhlaupa haglabyssa 75%, 4D6/2D6/1D6 (stungur)
-* Hnífur 75%, 1D4+2+dm (stungur)
-* Hnefi 75%, 1D3+dm (mulið)
+* Miðlungs revolveri 95%, 1D8 (spjótun)
+* Íþróttarifill 85%, 2D6 (spjótun)
+* Tvíhlaupa haglabyssa 75%, 4D6/2D6/1D6 (spjótun)
+* Hnífur 75%, 1D4+2+dm (spjótun)
+* Hnefi 75%, 1D3+dm (mulning)
 
-**Kunnátta:** Brawl 75%, Climb 60%, Demolition 30%, Dodge 60%, First Aid 40%, Gaming 65%, Grapple 50%, Insight 65%, Knowledge (Region: Local) 65%, Language (Own) 70%, Listen 65%, Ride (Horse) 75%, Sense 50%, Sleight of Hand 35%, Spot 75%, Stealth 50%, Throw 55%, Track 40%.
+**Hæfni:** Slagsmál 75%, Klifra 60%, Sprengjuefni 30%, Undanbrögð 60%, Skyndihjálp 40%, Spilamennska 65%, Grípa 50%, Innsæi 65%, Þekking (Svæði: Staðbundið) 65%, Tungumál (eigin) 70%, Hlusta 65%, Ríða (Hestur) 75%, Skynjun 50%, Fingrafimi 35%, Athygli 75%, Laumuspil 50%, Kasta 55%, Rekja 40%.
 
-**Kraftar:** Byssukarlar hafa sjaldan krafta.
+**Kraftar:** Byssuskyttur hafa sjaldan krafta.
 
 ### Riddari
 
-Ríðandi og brynjaður stríðsmaður, kunnáttusamur í sverðleik, jousting, og siðareglum riddaraskapar. Sóttur úr aðalsstéttinni, hefur riddari svarið hollustu sína við höfðingja sinn, og dregur laun af löndum undir yfirráðum sínum til að borga fyrir vopn, brynju, hesta og lífsstíl. Riddarar æfa færni sína reglulega, keppa í mótum, og ferðast í stríð hvenær sem höfðingi þeirra skipar. Helst er riddari riddaralegur og guðhræddur, fylgjandi heiðurs- og sómakóða, þótt þetta breytist eftir riddara.
+Riðandi og brynjaður stríðsmaður, fær í sverðleik, mót og siðareglur riddaraskapar. Riddari, sem dreginn er úr aðalsstéttinni, hefur svarið hollustu við lénsherra sinn og fær framfærslu frá löndum undir yfirráðasvæði sínu til að borga fyrir vopn sín, brynju, hesta og lífsstíl. Riddarar æfa færni sína reglulega, keppa á mótum og ferðast í stríð hvenær sem lénsherra þeirra skipar. Helst er riddari riddaralegur og guðrækin, fylgir siðareglum heiðurs og velsæmis, þó það sé breytilegt milli riddara.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 15 | 15 | 11 | 12 | 15 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 10-pt. plötubrynja og þungur hjálmur |
+| **Skaðabreytir** +1D4 | **Vörn** 10-p. plata og þungur hjálmur |
 
 **Árásir:**
 
-* Langt sverð 75%, 1D8+dm (blæðing)
-* Kite-skjöldur 65%, 1D4+dm (knockback)
-* Spjót 75%, 1D8+1+ skaðabónus hestsins (yfirleitt +2D6, stungur, sjá hér að neðan)
-* Léttur kylfa 65%, 1D6+2+dm (mulið)
-* Langbogi 60%, 1D8+1+½dm (stungur)
-* Rýtingur 50%, 1D4+2+dm (stungur)
-* Brynju-hanski 50%, 1D3+1+dm (mulið)
-* Mótaspjót gera mulið skaða.
+* Langsverð 75%, 1D8+dm (blæðing)
+* Kiteskjöldur 65%, 1D4+dm (afturkast)
+* Lens 75%, 1D8+1+ hests dm (venjulega +2D6, spjótun, sjá hér að neðan)
+* Létt kylfa 65%, 1D6+2+dm (mulning)
+* Langbogi 60%, 1D8+1+½dm (spjótun)
+* Dýrt hníf 50%, 1D4+2+dm (spjótun)
+* Brynvarinn hanski 50%, 1D3+1+dm (mulning)
+* Mótalensir valda mulningsskaða.
 
-**Kunnátta:** Command 45%, Dodge 50%, Etiquette 65%, Knowledge (Heraldry) 50%, Language (Other) 35%, Language (Own) 60%, Listen 45%, Ride (Horse) 75%, Sense 20%, Spot 45%, Status 60%, Strategy 30%.
+**Hæfni:** Stjórn 45%, Undanbrögð 50%, Siðareglur 65%, Þekking (Skjaldarmerki) 50%, Tungumál (Annað) 35%, Tungumál (eigin) 60%, Hlusta 45%, Ríða (Hestur) 75%, Skynjun 20%, Athygli 45%, Staða 60%, Stefna 30%.
 
-**Kraftar:** Riddarar hafa yfirleitt enga krafta, þótt sumir sjaldgæfir viti galdra. Hins vegar gæti riddari haft aðgang að töfragrip, hvort sem það er blessað vopn, heilagt minjar, eða brynja með einhverjum dyggðum lagðri á sig. Álfar eru orðaðir við sínar eigin riddarareglur, og þessir riddarar myndu náttúrulega nota galdra frjálst. Illir riddarar sem hafa svarið hollustu við dökk öfl gætu notað galdrakúnstir.
+**Kraftar:** Riddarar hafa almennt ekki krafta, þó sumir sjaldgæfir viti af töfrum. Hins vegar gæti riddari haft aðgang að galdrahlut, hvort sem það er blessað vopn, heilagt minjar, eða brynja með einhverjum dyggðum lögð á hana. Orðrómur er um að álfar hafi sínar eigin riddarareglur og þessir riddarar myndu náttúrulega nota töfra að vild. Illir riddarar sem hafa svarið hollustu við myrka krafta gætu notað seið.
 
-### Maniac
+### Óðlingur (Maniac)
 
-Tilsýndar eðlileg manneskja sem hefur orðið ofbeldisfullt, morðóð vitskert, maniac er fígúra til að óttast. Maniacinn annaðhvort stalkar unga fórnarlömb á einangruðum stöðum, svo sem sumarbúðum eða einhverju tjaldsvæði, eða fer á veginn sem raðmorðingi, leita að fórnarlömbum til að myrða af óskiljanlegum ástæðum. Í útliti kemur maniacinn í tveimur bragðtegundum: algerlega venjulegur, eða í sérstökum búningi eða grímu.
+Að því er virðist eðlileg manneskja sem hefur orðið ofbeldisfull, geðveikur, óðlingurinn er manneskja sem ber að óttast. Óðlingurinn annaðhvort eltir ungar fórnarlömb á einangruðum stöðum, svo sem sumarbudir eða einhver tjaldsvæði, eða tekur til götunnar sem raðmorðingi, leitar að fórnarlömbum til að myrða af óskiljanlegum ástæðum. Í útliti kemur óðlingurinn í tveimur bragðtegundum: algjörlega venjulegur, eða í sérstökum búningi eða grímu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 14 | 14 | 15 | 17 | 12 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** +1D4 | **Vörn** Engin |
 
 **Árásir:**
 
-* Slátrarahnífur 75%, 1D6+dm (stungur)
-* Tréöx 75%, 1D8+2+dm (blæðing)
+* Slátrarahnífur 75%, 1D6+dm (spjótun)
+* Tréöxi 75%, 1D8+2+dm (blæðing)
 * Keðjusög 65%, 2D8 (blæðing)
-* Hrífa 55%, 1D6+dm (stungur)
+* Heykvísl 55%, 1D6+dm (spjótun)
 * Machete 65%, 1D6+dm (blæðing)
-* Glíma 75%, sérstakt
+* Grípa 75%, sérstök
 
-**Kunnátta:** Brawl 75%, Dodge 50%, Drive (Van) 65%, Hide 60%, Language (Own) 60%, Listen 45%, Sense 40%, Spot 65%, Stealth 80%, Throw 50%, Track 40%
+**Hæfni:** Slagsmál 75%, Undanbrögð 50%, Akstur (Sendibíll) 65%, Fela sig 60%, Tungumál (eigin) 60%, Hlusta 45%, Skynjun 40%, Athygli 65%, Laumuspil 80%, Kasta 50%, Rekja 40%
 
-**Kraftar:** Flestir maniacs hafa enga krafta, þótt sumir búi yfir óvenjulegri hörku og seiglu. Þetta stafar yfirleitt af stökkbreytingu af einhverju tagi, og viðeigandi stökkbreytingar innihalda Hardy, Increased Characteristic, Regeneration, eða jafnvel Natural Weapon (tennur).
+**Kraftar:** Flestir óðlingar hafa enga krafta, þó sumir búi yfir óvenjulegri hörku og seiglu. Þetta stafar venjulega af stökkbreytingu af einhverju tagi, og viðeigandi stökkbreytingar fela í sér Hardy, Aukaeiginleika, Endurnýjun, eða jafnvel Náttúrulegt vopn (tennur).
 
-### Stökkbreyttur (Mutant)
+### Stökkbreyttur
 
-Þessi óheppna sál var stökkbreytt í gegnum útsetningu fyrir einhverjum geislavirku eða líffræðilegu efni, eða varð til í gegnum hart heppniskast erfðafræðinnar. Óttaður og ófær um að lifa eðlilegu lífi, stökkbreytti reikar utan samfélagsins. Í eftir-katastrófu umhverfi er stökkbreytti líklega fórnarlamb geislunar og er einn af mörgum slíkum verum, ógnandi við „hreina“ menn sem eftir eru.
+Þessi óheppna sál var stökkbreytt með útsetningu fyrir einhverju geislavirku eða líffræðilegu efni, eða varð til í gegnum harða heppnisrúllu genanna. Óttaður og ófær um að lifa eðlilegu lífi, stökkbreytti maðurinn leynist utan við samfélagið. Í eftir-apocalyptískum aðstæðum er stökkbreytti maðurinn líklegast fórnarlamb geislunar og er ein af mörgum slíkum verum, sem ógnar þeim 'hreinu' mönnum sem eftir eru.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 19 | 9 | 13 | 14 | 12 | 15 | 10 |
 
-| Hreyfing 10 | Heilsu-punktar 11 |
+| Hreyfing 10 | Heilsuþol 11 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 7-pt. bein-hnúðar á húð |
+| **Skaðabreytir** +1D4 | **Vörn** 7-p. beinhnappar á húð |
 
 **Árásir:**
 
-* Brawl 55%, 1D3+1D6+dm (mulið)
+* Slagsmál 55%, 1D3+1D6+dm (mulning)
 
-**Kunnátta:** Disguise 25%, Dodge 40%, Drive (Dune Buggy) 40%, Fast Talk 25%, First Aid 40%, Hide 40%, Language (Own) 55%, Listen 35%, Sense 25%, Spot 30%, Stealth 25%, Track 25%.
+**Hæfni:** Dulbúningur 25%, Undanbrögð 40%, Akstur (Sandbíll) 40%, Hraðtal 25%, Skyndihjálp 40%, Fela sig 40%, Tungumál (eigin) 55%, Hlusta 35%, Skynjun 25%, Athygli 30%, Laumuspil 25%, Rekja 25%.
 
-**Kraftar:** Þessi stökkbreytti hefur þróað með sér eftirfarandi stökkbreytingar: Congenital Disease (hemophilia, CON –5), Increased Characteristic (STR +6), Natural Weaponry (bein-hnúðar á höndum, +1D6 skaði), Sensitivity (blóð), Structural Improvement (bein-hnúðar yfir húð, +7-pt. náttúruleg brynja).
+**Kraftar:** Þessi stökkbreytti hefur þróað með sér eftirfarandi stökkbreytingar: Meðfæddur sjúkdómur (blæðingarsjúkdómur, ÞOL –5), Aukaeiginleiki (STY +6), Náttúruleg vopn (beinhnappar á höndum, +1D6 skaði), Næmni (blóð), Skipulagsbreyting (beinhnappar yfir húð, +7-p. náttúruleg vörn).
 
 ### Ninja
 
-Ninja er óttalegur skuggalegur morðingi frá fornöld og jafnvel nútímanum, þjálfaður í leyndum bardagalistum og aðferðum við laumuspil, innrás og morð. Ninja eru oft fæddir inn í ættir, þótt sumir sjaldgæfir leiti lífsins og séu teknir inn í fornu reglurnar. Þeir eru morðingjar-fyrir-leigu, vinna einir eða í hópum.
+Ninja er óttaður skuggamorðingi úr fornöld og jafnvel nútímanum, þjálfaður í leyndum bardagalistum og tækni laumuspils, íferðar og morða. Ninjar fæðast oft í klana, þó sumir fáir leiti lífsins og séu teknir inn í fornu reglurnar. Þeir eru morðingjar í boði, vinna einir eða í hópum.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 10 | 14 | 15 | 17 | 12 |
 
-| Hreyfing 10 | Heilsu-punktar 12 |
+| Hreyfing 10 | Heilsuþol 12 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert, eða 2-pt. létt keðjubrynja |
+| **Skaðabreytir** Enginn | **Vörn** Engin, eða 2-p. létt keðjubrynja |
 
 **Árásir:**
 
 * Katana 65%, 1D10+1+dm (blæðing)
-* Rýtingur 65%, 1D4+2+dm (stungur)
-* Samsettur bogi 50%, 1D8+1+½dm (stungur)
-* Blásrör 50%, 1D3 (stungur) + eitur (sjá hér að neðan)
-* Hnefi 55%, 1D3+dm (mulið)
-* Spark 55%, 1D3+dm (mulið)
+* Dýrt hníf 65%, 1D4+2+dm (spjótun)
+* Samsettur bogi 50%, 1D8+1+½dm (spjótun)
+* Blástursrör 50%, 1D3 (spjótun) + eitur (sjá hér að neðan)
+* Hnefi 55%, 1D3+dm (mulning)
+* Spark 55%, 1D3+dm (mulning)
 
-Blásrör ninja eru yfirleitt þakin paralytic POT 15 eitri (sjá **Eitur**).
+Blásturspípur ninju eru yfirleitt þaktar lömunar-eitri með 15 styrk (sjá **Eitur**).
 
-**Kunnátta:** Climb 80%, Disguise 55%, Dodge 65%, Fine Manipulation 45%, Hide 70%, Jump 65%, Language (Own) 70%, Listen 65%, Martial Arts 35%, Sense 50%, Sleight of Hand 55%, Spot 55%, Stealth 75%, Swim 55%, Throw 50%, Track 35%.
+**Hæfni:** Klifra 80%, Dulbúningur 55%, Undanbrögð 65%, Fínleg meðferð 45%, Fela sig 70%, Stökk 65%, Tungumál (eigin) 70%, Hlusta 65%, Bardagalist 35%, Skynjun 50%, Fingrafimi 55%, Athygli 55%, Laumuspil 75%, Sund 55%, Kasta 50%, Rekja 35%.
 
-**Kraftar:** Ninja hafa ekki almennt krafta, þótt í umhverfi þar sem þeir gera það, myndu þeir hafa annaðhvort galdrakúnstir eða ofurkrafta sem nálgast óvenjulegar bardagalistir.
+**Kraftar:** Ninjar hafa almennt ekki krafta, þó í aðstæðum þar sem þeir gera það, myndu þeir hafa annaðhvort seið eða ofurkrafta sem líkjast óvenjulegum bardagalistum.
 
 ### Sjóræningi
 
-Litríkur rándýr hafsins, sjóræninginn er úthafshættulegur ræningi, allt frá urbane rogues yfir í andstyggilega villimenn. Þessi sjóræningi er dæmi um áhöfn á meðalstóru sjóræningjaskipi og er kunnáttusamur í siglingum og hand-við-hand bardaga.
+Litríkur rándýr á háhafinu, sjóræninginn er sjófarandi ræningi, allt frá fágaðum glæpamönnum til ógeðslegra villimanna. Þessi sjóræningi er dæmi um áhafnarmeðlim á meðalsjóræningjaskipi og er fær í sjómennsku og bardaga í návígi.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 13 | 11 | 10 | 14 | 13 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** +1D4 | **Vörn** Engin |
 
 **Árásir:**
 
-* Cutlass (Saber) 55%, 1D8+1+dm (blæðing)
-* Hnífur 45%, 1D4+2+dm (stungur)
-* Flintlock skammbyssa 50%, 1D6+1 (stungur)
-* Músketta 40%, 1D10+4 (stungur)
-* Hnefi 50%, 1D3+dm (mulið)
+* Cutlass (Sabel) 55%, 1D8+1+dm (blæðing)
+* Dýrt hníf 45%, 1D4+2+dm (spjótun)
+* Flintlock skammbyssa 50%, 1D6+1 (spjótun)
+* Músketta 40%, 1D10+4 (spjótun)
+* Hnefi 50%, 1D3+dm (mulning)
 
-**Kunnátta:** Artillery 30%, Brawl 50%, Climb 80%, Craft (Carpentry) 55%, Dodge 40%, Fine Manipulation 45%, Gaming 35%, Grapple 50%, Jump 45%, Knowledge (Region: Local) 40%, Language (Local) 40%, Language (Own) 55%, Listen 45%, Navigate 50%, Perform (Sing Sea Chantey) 45%, Pilot (Ship) 35%, Sense 30%, Sleight of Hand 35%, Spot 50%, Swim 45%, Throw 50%.
+**Hæfni:** Stórskotalið 30%, Slagsmál 50%, Klifra 80%, Föndur (Trésmíði) 55%, Undanbrögð 40%, Fínleg meðferð 45%, Spilamennska 35%, Grípa 50%, Stökk 45%, Þekking (Svæði: Staðbundið) 40%, Tungumál (Staðbundið) 40%, Tungumál (eigin) 55%, Hlusta 45%, Leiðsögn 50%, Söngur (Sjómannasöngur) 45%, Flug (Skip) 35%, Skynjun 30%, Fingrafimi 35%, Athygli 50%, Sund 45%, Kasta 50%.
 
-**Kraftar:** Í flestum umhverfum hafa sjóræningjar enga krafta. Sumir sjóræningjahöfðingjar gera hins vegar samninga við myrkrið og eru kenndir galdrakúnstir ef þeirra POW er nógu hátt til að uppfylla skilyrði. Viðeigandi galdrar eru Bird’s Vision (1), Breath of Life (1), Vermin’s Vision (1), Hell’s Razor (2), Sorcerer’s Sureness (2), og Wings of the Sky (4).
+**Kraftar:** Í flestum aðstæðum hafa sjóræningjar enga krafta. Sumir sjóræningjaforingjar gera þó samninga við myrkrið og eru kenndir um seið ef MÁT þeirra er nógu hátt til að uppfylla skilyrði. Viðeigandi galdrar eru Bird’s Vision (1), Breath of Life (1), Vermin’s Vision (1), Hell’s Razor (2), Sorcerer’s Sureness (2), og Wings of the Sky (4).
 
-### Lögregluþjónn
+### Lögreglumaður
 
-Þetta er lögregluþjónn frá hvaða nútímalandi sem er. Þjálfaður í fjölbreyttum lögreglutækni, er lögregluþjónninn yfirleitt á eftirliti, eða er kallaður á vettvang atviks. Ef um er að ræða stórt atvik á þéttbýlissvæði, verða lögreglumenn líklega fyrstir á vettvang. Þyngra vopnaðir lögreglumenn eru hluti af sérsveit (S.W.A.T) og eru yfirleitt kallaðir til að takast á við óhóflega ofbeldisfullar aðstæður.
+Þetta er lögreglumaður frá hvaða nútímalandi sem er. Þjálfaður í fjölbreyttum lögreglutækni, lögreglumaðurinn er venjulega á vakt, eða kallaður á vettvang atviks. Ef stórt atvik verður í þéttbýli verða lögreglumenn líklega þeir fyrstu á staðnum. Meira vopnaðir lögreglumenn eru hluti af sérsveit (S.W.A.T) og eru venjulega kallaðir út til að takast á við ofbeldisfullar aðstæður.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 14 | 14 | 14 | 14 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 8-pt. skothelt vesti (4-pt. vs. nær-bardagavopn) eða 12-pt. óeirðabúnaður |
+| **Skaðabreytir** +1D4 | **Vörn** 8-p. skothelt vesti (4-p. á móti vopnum í návígi) eða 12-p. óeirðabúnaður |
 
 **Árásir:**
 
-* Miðlungs skammbyssa 70%, 1D8 (stungur)
-* Haglabyssa 50%, 4D6/2D6/1D6 (stungur)
-* Kylfa (Léttur klúbbur) 50%, 1D6+dm (mulið)
-* Piparúði 65%, sérstakt (POT 16, blindar 1D4+2 bardagahringi)
-* Taser 65%, sérstakt (sjá Stunning eða Subduing)
-* Glíma 65%, sérstakt
+* Miðlungs skammbyssa 70%, 1D8 (spjótun)
+* Haglabyssa 50%, 4D6/2D6/1D6 (spjótun)
+* Kylfa (Létt kylfa) 50%, 1D6+dm (mulning)
+* Piparúði 65%, sérstök (16 styrk, blindar 1D4+2 bardagaumferðir)
+* Taser 65%, sérstök (sjá Lamandi eða þvingandi)
+* Grípa 65%, sérstök
 
-**Kunnátta:** Brawl 65%, Dodge 40%, Drive (Police Car) 55%, Insight 35%, Knowledge (Law) 50%, Language (Spanish) 30%, Language (English) 80%, Listen 50%, Persuade 50%, Ride (Horse) 45%, Sense 30%, Spot 45%, Stealth 30%, Throw 45%.
+**Hæfni:** Slagsmál 65%, Undanbrögð 40%, Akstur (Lögreglubíll) 55%, Innsæi 35%, Þekking (Lög) 50%, Tungumál (Spænska) 30%, Tungumál (Enska) 80%, Hlusta 50%, Sannfæra 50%, Ríða (Hestur) 45%, Skynjun 30%, Athygli 45%, Laumuspil 30%, Kasta 45%.
 
-**Kraftar:** Lögregluþjónar hafa sjaldan, ef nokkurn tíma, krafta.
+**Kraftar:** Lögreglumenn hafa sjaldan, ef nokkurn tíma, krafta.
 
 ### Prestur
 
-Presturinn er guðhræddur tilbiðjandi guðs síns, búinn að yfirgefa öryggi klaustursins og út í heiminn, brynjaður guðrækni og vopnaður blessunum guðsins. Presturinn ferðast til undarlegra og framandi landa til að flytja skilaboð sannleikans til vantrúaðra og slær með hefnd hverjum sem andmælir guðlegu umboði hans.
+Presturinn er guðrækin tilbiðjandi guðs síns, hefur yfirgefið öryggi klaustursins og út í hinn ytri heim, brynjaður með guðrækni og vopnaður blessunum guðsins. Presturinn ferðast til undarlegra og framandi landa til að færa boðskap sannleikans til vantrúuðu og slær með hefnd alla þá sem andmæla guðlegu umboði þeirra.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 14 | 15 | 16 | 13 | 15 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 8-pt. keðja og léttur hjálmur |
+| **Skaðabreytir** +1D4 | **Vörn** 8-p. keðja og léttur hjálmur |
 
 **Árásir:**
 
-* Morgunstjörnu-flaga 50%, 1D10+1+dm (mulið)
-* Fullur skjöldur 45%, 1D4+dm (knockback)
-* Slöngva 40%, 1D8+½dm (mulið)
-* Spark 40%, 1D3+dm (mulið)
+* Morgunstjörnu-flail 50%, 1D10+1+dm (mulning)
+* Fullur skjöldur 45%, 1D4+dm (afturkast)
+* Slöngva 40%, 1D8+½dm (mulning)
+* Spark 40%, 1D3+dm (mulning)
 
-**Kunnátta:** Art (Illuminated Manuscripts) 35%, Command 25%, Craft (Bookmaking) 35%, Dodge 40%, First Aid 45%, Insight 35%, Knowledge (Religion) 70%, Language (Own) 70%, Listen 45%, Literacy (Common) 70%, Perform (Hymns) 35%, Persuade 45%, Ride (Horse) 35%, Spot 40%, Status 35%, Teach 30%
+**Hæfni:** List (Upplýst handrit) 35%, Stjórn 25%, Föndur (Bókagerð) 35%, Undanbrögð 40%, Skyndihjálp 45%, Innsæi 35%, Þekking (Trúarbrögð) 70%, Tungumál (eigin) 70%, Hlusta 45%, Læsi (Sameiginlegt) 70%, Söngur (Sálmar) 35%, Sannfæra 45%, Ríða (Hestur) 35%, Athygli 40%, Staða 35%, Kenna 30%
 
-**Kraftar:** Presturinn hefur sálræna hæfileika veitta af guði sínum: Divination, Mind Shield, Precognition og Sensitivity, allt á POWx1% prestsins. Að auki hefur presturinn hollustu upp á að minnsta kosti 50 við sinn guð, með hvaða ávinningi sem það kann að hafa. Sjá Hollusta.
+**Kraftar:** Presturinn hefur geðhæfileika veitta af guði sínum: Divination, Hugavörn, Forspárhæfileika og Næmni, allt á MÁT×1% prestsins. Að auki hefur presturinn hollustu upp á að minnsta kosti 50 við guð sinn, með hvaða ávinningi sem því fylgir. Sjá Hollusta.
 
-### Sálfræðingur (Psychic)
+### Geðkrafta-notandi (Psychic)
 
-Fæddur með sérstaka gjöf, kraftar sálfræðingsins þróuðust á unglingsárunum. Sálfræðingurinn lærði sjálfsaga og hugleiðslutækni til að þagga niður raddirnar sem bergmáluðu í hausnum á sér, og nú hafa þessar undarlegu gjafir verið settar í þágu þess að hjálpa öðrum, notaðar til að leita að þekkingu og duldum sannleika.
+Fæddur með sérstaka gjöf, kraftar geðkrafta-notandans þróuðust á unglingsárunum. Geðkrafta-notandinn lærði sjálfsaga og hugleiðslutækni til að þagga niður raddirnar sem bergmáluðu í höfðinu á þeim, og nú hefur þessum undarlegu gjöfum verið beitt í þeim tilgangi að aðstoða aðra, nota þær til að leita að þekkingu og falinni sannleika.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 12 | 13 | 14 | 15 | 19 | 14 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** Ekkert |
+| **Skaðabreytir** +1D4 | **Vörn** Engin |
 
 **Árásir:**
 
-* Hnefi 35%, 1D3+dm (mulið)
+* Hnefi 35%, 1D3+dm (mulning)
 
-**Kunnátta:** Art (Painting) 35%, Bargain 35%, Dodge 40%, Drive (Automobile) 30%, Fast Talk 35%, Insight 50%, Knowledge (Art History) 45%, Language (Own) 90%, Listen 35%, Research 65%, Sense 35%, Spot 40%, Status 35%, Stealth 30%.
+**Hæfni:** List (Málverk) 35%, Samningaviðræður 35%, Undanbrögð 40%, Akstur (Bifreið) 30%, Hraðtal 35%, Innsæi 50%, Þekking (Listasaga) 45%, Tungumál (eigin) 90%, Hlusta 35%, Rannsókn 65%, Skynjun 35%, Athygli 40%, Staða 35%, Laumuspil 30%.
 
-**Kraftar:** Sálrænir hæfileikar Aura Detection 35%, Precognition 25% og Psychometry 50%.
+**Kraftar:** Geðhæfileikarnir Aura Detection 35%, Forspárhæfileika 25%, og Psychometry 50%.
 
 ### Hermenn
 
-Hermenn eru þjálfaðir í nútíma meginreglum hernaðar, notandi vopnabúnað og taktík, hlýðnir við keðju stjórnunar, stuðningsríkir liðsfélaga, og haldandi ró sinni undir skothríð. Undir kjöraðstæðum er hermaðurinn vel búinn, vel studdur og vel upplýstur. Þessi dæmi-hermaður er sérstaklega hress og reyndur, kannski úrvalssérsveitarmaður.
+Hermenn eru þjálfaðir í nútíma meginreglum hernaðar, nota vopn og tækni, hlýðnir við stjórnskipulag, stuðningsmenn liðsfélaga og halda ró sinni undir skothríð. Við kjöraðstæður eru hermenn vel búnir, vel studdir og vel upplýstir. Þessi dæmi um hermann er sérstaklega í formi og reyndur, kannski úrvals-kommando.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 13 | 11 | 13 | 13 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 8-pt. skothelt vesti (4-pt. vs. nær-bardagavopn) + 3-pt. léttur hjálmur |
+| **Skaðabreytir** +1D4 | **Vörn** 8-p. skothelt vesti (4-p. á móti vopnum í návígi) + 3-p. léttur hjálmur |
 
 **Árásir:**
 
-* Árásarriffill 65%, 2D6+2 (stungur)
-* Bardagahnífur (Rýtingur) 50%, 1D4+2+dm (stungur)
-* Handsprengja (Sprengiefni) 40%, 4D6 (knockback)
+* Árásarrifill 65%, 2D6+2 (spjótun)
+* Bardagahnífur (Dýrt hníf) 50%, 1D4+2+dm (spjótun)
+* Handsprengja (Sprengiefni) 40%, 4D6 (afturkast)
 
-**Kunnátta:** Artillery 30%, Brawl 45%, Climb 50%, Command 25%, Dodge 40%, Drive (Humvee) 45%, First Aid 40%, Grapple 50%, Hide 35%, Jump 35%, Language (Own) 65%, Listen 45%, Spot 45%, Stealth 40%, Strategy 20%, Throw 40%
+**Hæfni:** Stórskotalið 30%, Slagsmál 45%, Klifra 50%, Stjórn 25%, Undanbrögð 40%, Akstur (Humvee) 45%, Skyndihjálp 40%, Grípa 50%, Fela sig 35%, Stökk 35%, Tungumál (eigin) 65%, Hlusta 45%, Athygli 45%, Laumuspil 40%, Stefna 20%, Kasta 40%
 
 **Kraftar:** Hermenn hafa sjaldan, ef nokkurn tíma, krafta.
 
-### Galdramaður (Sorcerer)
+### Seiðmaður
 
-Valinn úr æsku og lærlingur í dularfullum listum, galdramaðurinn færst við djöfla og stjórnar sjálfum frumkraftunum. Galdramaðurinn er hrokafullur meðal minni, ó-töfrandi dauðlegra. Á sama tíma er hann afar varkár við að lenda í persónulegum bardaga, vettvangi sem hann er illa undirbúinn fyrir að keppa á.
+Valinn frá unga aldri og lærlingur í dulspekilegum listum, seiðmaðurinn hefur samskipti við djöfla og stjórnar sjálfum frumöflunum. Seiðmaðurinn er hrokafullur meðal minni, ekki-galdramanna. Á sama tíma eru þeir afar varkárir við að lenda í persónulegum bardaga, vettvangur sem þeir eru ótrúlega óundirbúnir fyrir.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 9 | 11 | 15 | 19 | 21 | 14 | 12 |
 
-| Hreyfing 10 | Heilsu-punktar 13 |
+| Hreyfing 10 | Heilsuþol 13 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** Ekkert, eða 4-pt. Galdramanns-brynja |
+| **Skaðabreytir** Enginn | **Vörn** Engin, eða 4-p. Seiðmannsbrynja |
 
 **Árásir:**
 
-* Rýtingur 35%, 1D4+2+dm (stungur)
+* Dýrt hníf 35%, 1D4+2+dm (spjótun)
 
-**Kunnátta:** Appraise 35%, Dodge 40%, Etiquette 35%, Fast Talk 45%, Hide 30%, Insight 35%, Knowledge (Academic Lore) 50%, Knowledge (Blasphemous Lore) 20%, Knowledge (Occult) 70%, Language (Demonic) 50%, Language (Own) 85%, Listen 35%, Persuade 45%, Research 75%, Ride (Horse) 35%, Sense 35%, Sleight of Hand 35%, Spot 55%.
+**Hæfni:** Meta 35%, Undanbrögð 40%, Siðareglur 35%, Hraðtal 45%, Fela sig 30%, Innsæi 35%, Þekking (Akademísk fræði) 50%, Þekking (Guðlast) 20%, Þekking (Dulspeki) 70%, Tungumál (Djöfullegt) 50%, Tungumál (eigin) 85%, Hlusta 35%, Sannfæra 45%, Rannsókn 75%, Ríða (Hestur) 35%, Skynjun 35%, Fingrafimi 35%, Athygli 55%.
 
-**Kraftar:** Þessir galdrakúnstagaldrar eru í minni: Curse of Sorcery (4), Sorcerer’s Armor (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
+**Kraftar:** Þessir seiðgaldrar eru í minni: Curse of Sorcery (4), Sorcerer’s Armor (4), Sorcerer’s Sharp Flame (3), Summon Demon (1), Undo Sorcery (2), Heal (2), Witch Sight (3).
 
 ### Njósnari
 
-Leyni-starfsmaður sem vinnur leynilega fyrir ríkisstofnun, þjálfaður í innrás, laumuspili, dulargervi, bardaga og annarri njósnakunnáttu. Verkefni ná frá vopnaðri innrás til innrásar í óvina-hópa með eftirliti, skemmdarverkum eða morði sem endanlegt markmið. Hann gæti verið búinn úrvali græja og vopna, sumum duldum sem hversdagslegir hlutir. Ráðfærðu þig við *Kafli átta: Búnaður* fyrir leiðbeiningar um smíði hátækni njósnagræja.
+Leyni-rekstraraðili sem vinnur í felum fyrir ríkisstofnun, þjálfaður í íferð, laumuspili, dulbúningi, bardaga og annarri njósnatækni. Verkefni eru allt frá vopnaðri íferð til íferðar í óvinahópa með eftirliti, skemmdarverkum eða morði sem lokamarkmið. Þeir geta verið búnir ýmsum græjum og vopnum, sumum dulbúnum sem algengir hlutir. Skoðaðu *Chapter Eight: Equipment* fyrir leiðbeiningar um smíði á hátækni-njósnabúnaði.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 13 | 15 | 14 | 15 | 14 |
 
-| Hreyfing 10 | Heilsu-punktar 14 |
+| Hreyfing 10 | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 5-pt. ballistic dúkur-tuxedo (3-pt. vs. nær-bardagavopn) |
+| **Skaðabreytir** +1D4 | **Vörn** 5-p. ballistic klútur í jakkafötum (3-p. á móti vopnum í návígi) |
 
 **Árásir:**
 
-* Létt skammbyssa 75%, 1D6 (stungur)
-* Leyniskytturiffill 75%, 2D10+4 (stungur)
-* Kastaður hnífur 75%, 1D4+½dm (stungur)
-* Hnefi 80%, 1D3+dm (mulið)
-* Spark 65%, 1D3+dm (mulið)
+* Létt skammbyssa 75%, 1D6 (spjótun)
+* Snípahrifill 75%, 2D10+4 (spjótun)
+* Kastahnífur 75%, 1D4+½dm (spjótun)
+* Hnefi 80%, 1D3+dm (mulning)
+* Spark 65%, 1D3+dm (mulning)
 
-**Kunnátta:** Appraise 45%, Brawl 65%, Climb 60%, Demolition 40%, Disguise 60%, Dodge 50%, Drive (Sports Car) 85%, Etiquette 65%, Fast Talk 75%, Fine Manipulation 75%, First Aid 55%, Gaming 65%, Grapple 65%, Hide 75%, Insight 65%, Jump 50%, Knowledge (Espionage) 75%, Language (Own) 90%, Language (Other) 70%, Listen 65%, Martial Arts 45%, Persuade 55%, Pilot (Boat) 65%, Pilot (Helicopter) 45%, Research 45%, Ride (Horse) 45%, Sense 60%, Sleight of Hand 55%, Spot 65%, Stealth 70%, Strategy 50%, Swim 65%, Throw 65%, Track 35%.
+**Hæfni:** Meta 45%, Slagsmál 65%, Klifra 60%, Sprengjuefni 40%, Dulbúningur 60%, Undanbrögð 50%, Akstur (Íþróttabíll) 85%, Siðareglur 65%, Hraðtal 75%, Fínleg meðferð 75%, Skyndihjálp 55%, Spilamennska 65%, Grípa 65%, Fela sig 75%, Innsæi 65%, Stökk 50%, Þekking (Njósnir) 75%, Tungumál (eigin) 90%, Tungumál (Annað) 70%, Hlusta 65%, Bardagalist 45%, Sannfæra 55%, Flug (Bátur) 65%, Flug (Þyrla) 45%, Rannsókn 45%, Ríða (Hestur) 45%, Skynjun 60%, Fingrafimi 55%, Athygli 65%, Laumuspil 70%, Stefna 50%, Sund 65%, Kasta 65%, Rekja 35%.
 
 **Kraftar:** Njósnarar hafa sjaldan, ef nokkurn tíma, neina krafta.
 
 ### Ofurhetja
 
-Hlaut krafta í gegnum einhverja furðulega slysni eða erfðabreytingu, ofurhetjan hefur heitið að gera rétt, leita réttlætis fyrir alla, nota hæfileika sína til að hjálpa eðlilegu fólki og verja það fyrir ógnunum bæði náttúrulegum og yfirnáttúrulegum, sem og þeim sem ofurkúgarar stafa af. Flestir halda ofurhetju-auðkennum sínum leyndum, lifandi eðlilegu lífi þegar þeir geta. Fáar ofurhetjur hafa félaga eða ganga í lið. Ofurhetjan er oft kvalin af sjálfsvafa, veltandi fyrir sér hvort kostnaðurinn við hetjudáð sé of mikill.
+Gefin kraftar með einhverju óheppilegu slysi eða erfðabreytingu, ofurhetjan hefur heitið því að gera það rétta, leitast eftir réttlæti fyrir alla, nota hæfileika sína til að hjálpa venjulegu fólki og verja það fyrir ógnum bæði náttúrulegum og óeðlilegum, sem og þeim sem ofurkúgarar valda. Flestir halda ofurhetjuauðkenni sinu leyndu, lifa eðlilegu lífi þegar þeir geta. Nokkrar ofurhetjur hafa félaga eða ganga í lið. Ofurhetjan er oft kvalin af sjálfsvafa, veltir fyrir sér hvort kostnaður hetjuskapar sé of hár.
 
-Þessi dæmi-ofurhetja er Stormcloud, bráðlynd (og óreynd) eldingar-byggð hetja, og óvinur Doctor Dread. Borgaralegt auðkenni Stormcloud er það sem sjónvarpsveðurfræðings.
+Þessi dæmi um ofurhetju er Stormcloud, hrokafull (og óreynd) eldingatengd hetja, og óvinur Doctor Dread. Borgaralegt auðkenni Stormcloud er það að vera sjónvarps-veðurfræðingur.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 25 | 20 | 12 | 14 | 16 | 20 | 15 |
 
-| Hreyfing 10 (62 fljúgandi) | Heilsu-punktar 16 |
+| Hreyfing 10 (62 flug) | Heilsuþol 16 |
 | :---- | :---- |
-| **Skaðabónus** +1D6 | **Brynja** 12-pt. Brynja (Kinetic, Radiation) |
+| **Skaðabreytir** +1D6 | **Vörn** 12-p. Vörn (Kinetic, Radiation) |
 
 **Árásir:**
 
 * Elding 45%, 6D6 (rafmagn)
-* Brawl 50%, 1D3+dm (mulið)
+* Slagsmál 50%, 1D3+dm (mulning)
 
-**Kunnátta:** Art (Photography) 70%, Brawl 50%, Dodge 50%, Drive (Car) 35%, Fly 80%, Grapple 35%, Knowledge (Region: Local) 35%, Language (other) 00%, Language (Own) 85%, Perform (News) 50%, Research 45%, Science (Meteorology) 25%, Status 25%, Technical Skill (Use Computer) 35%.
+**Hæfni:** List (Ljósmyndun) 70%, Slagsmál 50%, Undanbrögð 50%, Akstur (Bíll) 35%, Flug 80%, Grípa 35%, Þekking (Svæði: Staðbundið) 35%, Tungumál (annað) 00%, Tungumál (eigin) 85%, Söngur (Fréttir) 50%, Rannsókn 45%, Vísindi (Veðurfræði) 25%, Staða 25%, Tæknikunnátta (Tölvunotkun) 35%.
 
-**Kraftar:** Stormcloud hefur eftirfarandi ofurkrafta: Absorption (Electric) 18; Armor (Kinetic, Radiation) 12 hver; Energy Projection (Electric) 6; Extra Energy 15 (+150 kraftapunktar); Flight 10; og Super Characteristics 30 (STR +14, CON +8, DEX +8).
+**Kraftar:** Stormcloud hefur eftirfarandi ofurkrafta: Absorption (Electric) 18; Vörn (Kinetic, Radiation) 12 hvert; Energy Projection (Electric) 6; Aukaorka 15 (+150 máttarstig); Flug 10; og Ofureiginleikar 30 (STY +14, ÞOL +8, LIP +8).
 
-**Veikleikar:** Persónubrestur Stormcloud er veikleiki fyrir vatni, tapar –2D6 kraftapunktum í hverri umferð sem hann er blautur eða á kafi.
+**Veikleikar:** Persónubrestur Stormcloud er veikleiki fyrir vatni, missir –2D6 máttarstig hverja umferð þegar hann er blautur eða í kaf.
 
-### Ofurillmenni
+### Ofurkúgari (Supervillain)
 
-Ólíkt ofurhetjunni nýtur ofurillmennið lífs í glæpum, nota krafta sína í leit að auðæfum, völdum, hefnd eða annarri misgjörð. Hann getur verið meistara-glæpamaður eða dýrðlegur þrjótur, eftir metnaði. Sumir velja að vinna einir, á meðan aðrir hafa hóp af undirmönnum. Enn færri ofurillmenni vinna saman í liðum, þar sem óstöðugir persónuleikar gera sanngjörn samstarf ómöguleg.
+Ólíkt ofurhetjunni nýtur ofurkúgarinn lífs af glæpum, notar hæfileika sína í leit að auðæfum, völdum, hefnd eða öðrum lögbrotum. Þeir geta verið meistarglæpamenn eða upphafnir þrjótar, allt eftir metnaði. Sumir velja að vinna einir, á meðan aðrir hafa hóp af fylgismönnum. Jafnvel færri ofurkúgarar vinna saman í liðum, þar sem óstöðugir persónuleikar gera jafnréttisskipulag ómögulegt.
 
-Þessi dæmi-ofurillmenni er Doctor Dread, fyrrum varnarmála-verkfræðingur sem fékk fjármögnunina skorna. Eftir að hafa notað óleyfilega her-tækni til að byggja brynju, leitar Doctor Dread að leið til að fjármagna frekari (og hugsanlega ólöglegar) vopnarannsóknir. Þessi tölfræði táknar Doctor Dread í brynjunni.
+Þessi dæmi um ofurkúgara er Doctor Dread, fyrrum verkfræðingur í varnarmálaiðnaði sem fékk skorið á fjármögnun sína. Eftir að hafa notað óleyfilega hernaðartækni til að byggja brynju, leitar Doctor Dread að leið til að fjármagna frekari (og hugsanlega ólöglegar) vopnarannsóknir. Þessar tölfræði tákna Doctor Dread í brynjunni.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 18 | 9 | 17 | 17 | 18 | 10 |
 
-| Hreyfing 10 (62 fljúgandi) | Heilsu-punktar 14 |
+| Hreyfing 10 (62 flug) | Heilsuþol 14 |
 | :---- | :---- |
-| **Skaðabónus** Ekkert | **Brynja** 4-pt. Brynja (Kinetic) + 20-pt. Kraftsvið (Electric, Kinetic, Radiation) |
+| **Skaðabreytir** Enginn | **Vörn** 4-p. Vörn (Kinetic) + 20-p. Kraftsvið (Electric, Kinetic, Radiation) |
 
 **Árásir:**
 
-* Hitavarpan 70%, 6D6 (eldur)
-* Brawl 50%, 1D3+dm (mulið)
+* Hitavörpun 70%, 6D6 (eldur)
+* Slagsmál 50%, 1D3+dm (mulning)
 
-**Kunnátta:** Command 35%, Dodge 40%, Drive (Van) 55%, Fine Manipulation 65%, Jump 65%, Language (Own) 125%, Listen 45%, Repair (Electronic) 85%, Repair (Quantum) 75%, Research 85%, Science (Physics) 95%, Spot 50%, Technical Skill (Use Computer) 95%.
+**Hæfni:** Stjórn 35%, Undanbrögð 40%, Akstur (Sendibíll) 55%, Fínleg meðferð 65%, Stökk 65%, Tungumál (eigin) 125%, Hlusta 45%, Viðgerð (Rafeindatækni) 85%, Viðgerð (Skammta) 75%, Rannsókn 85%, Vísindi (Eðlisfræði) 95%, Athygli 50%, Tæknikunnátta (Tölvunotkun) 95%.
 
-**Kraftar:** Brynja Doctor Dread veitir eftirfarandi ofurkrafta: Armor (Kinetic) 4; Energy Projection (Heat) 6; Extra Energy 15(+150 kraftapunktar); Flight 3; Force Field (Electric, Kinetic, Radiation) 20 hver; Leap 10 (+20 metrar við Jump drægni); Super Sense (Infravision, Ultrasonic Hearing) 1 hver.
+**Kraftar:** Brynjan hjá Doctor Dread veitir eftirfarandi ofurkrafta: Vörn (Kinetic) 4; Energy Projection (Heat) 6; Aukaorka 15(+150 máttarstig); Flug 3; Kraftsvið (Electric, Kinetic, Radiation) 20 hvert; Stökk 10 (+20 metrar á Stökkvegalengd); Ofurskynjun (Infravision, Ultrasonic Hearing) 1 hvert.
 
-**Veikleikar:** Persónubrestir Doctor Dread eru fullt-tíma ofurillmennska; líkamlega áberandi (ljótur); sálrænir brestir (blóðþyrstur, hrokafullur); ofurillmennis-auðkenni tengt við brynju og ekki í fullu starfi; brynju er hægt að loka á eða fjarlægja.
+**Veikleikar:** Persónubrestir Doctor Dread eru ofurkúgun í fullu starfi; líkamlega áberandi (ljótur); sálrænir brestir (blóðþyrstur, hrokafullur); ofurkúgara-auðkenni tengt við brynjuna og ekki í fullu starfi; hægt er að slökkva á eða fjarlægja brynjuna.
 
-### Þrjótur (Thug)
+### Þrjótur
 
-Goon til leigu, vinnur yfirleitt fyrir glæpahóp eða leitar stundum bara að vandræðum. Þrjótur getur verið stuðningsvöðvar eða á eigin vegum, hvort sem það er innbrot, rán, ræningjaskapur eða árásir.
+Gúan í boði, vinnur venjulega fyrir glæpahóp eða stundum bara leitar að vandræðum. Þrjótur getur verið vöðvastæltur varamaður eða einn, hvort sem það er innbrot, rán, ræningi eða árás.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 10 | 10 | 12 | 11 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 1-pt. leðurjakki |
+| **Skaðabreytir** +1D4 | **Vörn** 1-p. leðurjakki |
 
 **Árásir:**
 
-* Þung skammbyssa 50%, 1D10+2 (stungur)
-* Vasahnífur 50%, 1D4+dm (stungur)
-* Hafnaboltakylfa 50%, 1D6+dm (mulið)
-* Hnefi 50%, 1D3+dm (mulið)
-* Höfuð-skalli 35%, 1D3+dm (mulið)
+* Þung skammbyssa 50%, 1D10+2 (spjótun)
+* Fjórðungshnífur 50%, 1D4+dm (spjótun)
+* Hafnaboltakylfa 50%, 1D6+dm (mulning)
+* Hnefi 50%, 1D3+dm (mulning)
+* Höfuðskalli 35%, 1D3+dm (mulning)
 
-**Kunnátta:** Demolition 20%, Dodge 35%, Drive (Truck) 50%, Gaming 30%, Grapple 50%, Hide 25%, Insight 25%, Knowledge (Region: Home City) 35%, Language (Own) 50%, Listen 35%, Persuade 35%, Sense 30%, Sleight of Hand 25%, Spot 35%, Stealth 25%, Throw 35%.
+**Hæfni:** Sprengjuefni 20%, Undanbrögð 35%, Akstur (Vörubíll) 50%, Spilamennska 30%, Grípa 50%, Fela sig 25%, Innsæi 25%, Þekking (Svæði: Heimaborg) 35%, Tungumál (eigin) 50%, Hlusta 35%, Sannfæra 35%, Skynjun 30%, Fingrafimi 25%, Athygli 35%, Laumuspil 25%, Kasta 35%.
 
-**Kraftar:** Þrjótar hafa aldrei krafta. Ef þeir gerðu, myndu þeir gera betur fyrir sjálfa sig.
+**Kraftar:** Þrjótar hafa aldrei krafta. Ef þeir gerðu það, myndu þeir gera betur fyrir sig.
 
-### Ættbálka-stríðsmaður
+### Ættbálksstríðsmaður
 
-Ættbálka-stríðsmaðurinn mætist á öllum svæðum þar sem siðmenning hefur ekki náð. Hann notar vopn sem teljast frumstæð eftir mælikvarða dagsins, og tekur þátt í lifun ættbálksins, veiðum og bardaga til að verja ættbálkinn gegn innrásaraðilum og árásarmönnum. Ættbálka-stríðsmaðurinn leggur mikla trú á speki öldunganna sem túlka orð guðanna.
+Ættbálksstríðsmaðurinn finnst á hvaða svæði sem siðmenningin hefur ekki náð til. Þeir nota vopn sem teljast frumstæð eftir stöðlum dagsins, og taka þátt í lifun ættbálksins, veiða og berjast til að verja ættbálkinn gegn innrásaraðilum og árásarmönnum. Ættbálksstríðsmaðurinn leggur mikla trú á viskuna frá öldungum ættbálksins sem túlka orð guðanna.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 11 | 13 | 16 | 13 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 1-pt. húðbrynja |
+| **Skaðabreytir** +1D4 | **Vörn** 1-p. feldirvörn |
 
 **Árásir:**
 
-* Stutt spjót 65%, 1D6+1+dm (stungur)
-* Stutt spjót (kastað) 75%, 1D6+1+½dm (stungur)
-* Léttur klúbbur 55%, 1D6+dm (mulið)
-* Léttur klúbbur (kastað) 65%, 1D6+½dm (mulið)
-* Skjöldur 65%, 1D2+dm (knockback)
-* Blásrör 75%, 1D3 (stungur) + eitur (sjá hér að neðan)*
-* Glíma 65%, sérstakt
+* Stutt spjót 65%, 1D6+1+dm (spjótun)
+* Stutt spjót (kastað) 75%, 1D6+1+½dm (spjótun)
+* Létt kylfa 55%, 1D6+dm (mulning)
+* Létt kylfa (kastað) 65%, 1D6+½dm (mulning)
+* Skjöldur 65%, 1D2+dm (afturkast)
+* Blástursrör 75%, 1D3 (spjótun) + eitur (sjá hér að neðan)*
+* Grípa 65%, sérstök
 
-*Blásrör ættbálka-stríðsmanns eru yfirleitt þakin paralytic POT 10 eitri (sjá **Eitur**).
+*Blásturspípur ættbálksstríðsmanns eru yfirleitt þaktar lömunar-eitri með 10 styrk (sjá **Eitur**).
 
-Sumir ættbálka-stríðsmenn taka upp notkun á hernumdum vopnum frá siðmenntuðum mönnum, á meðan aðrir forðast þau.
+Sumir ættbálksstríðsmenn taka upp notkun á föngnum vopnum frá siðmenntuðum mönnum, á meðan aðrir hafna þeim.
 
-**Kunnátta:** Climb 75%, Dodge 40%, Hide 45%, Jump 45%, Language (Own) 60%, Listen 55%, Sense 60%, Spot 65%, Stealth 60%, Swim 55%, Throw 65%, Track 70%.
+**Hæfni:** Klifra 75%, Undanbrögð 40%, Fela sig 45%, Stökk 45%, Tungumál (eigin) 60%, Hlusta 55%, Skynjun 60%, Athygli 65%, Laumuspil 60%, Sund 55%, Kasta 65%, Rekja 70%.
 
-**Kraftar:** Ættbálka-stríðsmenn hafa sjaldan krafta. Hins vegar eru ættbálkar yfirleitt í bandalagi við sjaman eða vitran mann sem gæti haft krafta. Þessir kraftar eru yfirleitt sálrænir hæfileikar eða galdrar, stundum galdrakúnstir.
+**Kraftar:** Ættbálksstríðsmenn hafa sjaldan krafta. Hins vegar eru ættbálkar yfirleitt í bandalagi við shaman eða vitran mann sem gæti haft krafta. Þessir kraftar eru venjulega geðhæfileikar eða galdrar, stundum seiðir.
 
 ### Víkingur
 
-Víkingar eru norrænir stríðsmenn sem taka langar sjóferðir til könnunar, viðskipta (gegn sterkum andstæðingum eða bandamönnum), og ránferða (gegn óvinum eða þeim sem eru veikari). Þeir eru harðir og stoltir, frábærir sjómenn, og óvænt siðmenntaðir miðað við villt orðspor sitt. Víkingar hafa sinn eigin heiðurs- og lagakóða og fylgja þeim strönglega, þótt reglur þeirra eigi ekki við um aðra.
+Víkingar eru norrænir stríðsmenn sem fara í langar sjóferðir til könnunar, viðskipta (gegn sterkum andstæðingum eða bandamönnum) og ránsferða (gegn óvinum eða þeim sem eru veikari). Þeir eru harðir og stoltir, frábærir sjómenn og ótrúlega siðmenntaðir miðað við hrottalegt orðspor sitt. Víkingar hafa sínar eigin siðareglur um heiður og lög og fylgja þeim fast, þó reglur þeirra eigi ekki við um aðra.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| STY | ÞOL | STÆ | GRE | MÁT | LIP | KAR |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 11 | 11 | 13 | 12 |
 
-| Hreyfing 10 | Heilsu-punktar 15 |
+| Hreyfing 10 | Heilsuþol 15 |
 | :---- | :---- |
-| **Skaðabónus** +1D4 | **Brynja** 7-pt. skel og léttur hjálmur |
+| **Skaðabreytir** +1D4 | **Vörn** 7-p. skeljar og léttur hjálmur |
 
 **Árásir:**
 
 * Breiðsverð 65%, 1D8+1+dm (blæðing)
-* Handöx 55%, 1D6+1+dm (blæðing)
-* Handöx (kastað) 55%, 1D6+1+½dm (blæðing)
-* Sjálfsbogi 50%, 1D6+1+½dm (stungur)
-* Stór kringlóttur skjöldur 50%, 1D4+dm (knockback)
-* Brawl 55%, 1D3+dm (mulið)
+* Handöxi 55%, 1D6+1+dm (blæðing)
+* Handöxi (kastað) 55%, 1D6+1+½dm (blæðing)
+* Sjálfsbogi 50%, 1D6+1+½dm (spjótun)
+* Stórur hringskjöldur 50%, 1D4+dm (afturkast)
+* Slagsmál 55%, 1D3+dm (mulning)
 
-**Kunnátta:** Appraise 45%, Bargain 35%, Brawl 25%, Craft (type) 05%, Dodge 40%, Gaming 40%, Grapple 35%, Insight 15%, Jump 25%, Language (Own) 55%, Listen 40%, Navigate 35%, Pilot (ship) 25%, Ride (type) 05%, Spot 35%, Status 25%.
+**Hæfni:** Meta 45%, Samningaviðræður 35%, Slagsmál 25%, Föndur (tegund) 05%, Undanbrögð 40%, Spilamennska 40%, Grípa 35%, Innsæi 15%, Stökk 25%, Tungumál (eigin) 55%, Hlusta 40%, Leiðsögn 35%, Flug (skip) 25%, Ríða (tegund) 05%, Athygli 35%, Staða 25%.
 
-**Kraftar:** Víkingar hafa sjaldan neina krafta. Sumir galdramenn nota ýmsar tegundir galdra, frá rúnagöldrum, formbreytingu, eða galdrakúnstum. Eftir umhverfi gæti auðugur eða í vil féllinn víkingur haft vopn, brynju eða aðra töfragripi.
+**Kraftar:** Víkingar hafa sjaldan neina krafta. Sumir galdramenn nota ýmsar galdrategundir, allt frá rúnagaldri, formbreytingu, eða seið. Eftir aðstæðum gæti ríkur eða í hylli Víkingur haft vopn, brynju eða aðra galdrahluti.
 
-## Sérsnið á verum og óleikurum
+## Sérsnið verur og persóna sem ekki eru spilaðar
 
-Það gæti verið nauðsynlegt að sérsníða þessar verur og óleikara miðað við kraftastig leiksins þíns, eða til að passa betur við hæfni persóna leikmanna. Hér eru leiðbeiningar um það og um umsýslu þessara vera og óleikara eftir þörfum.
+Það gæti verið nauðsynlegt að sérsníða þessar verur og persónur sem ekki eru spilaðar miðað við máttarstig leiksins þíns, eða til að passa betur við hæfni spilarapersónanna. Hér eru leiðbeiningar um það og fyrir stjórnun þessara vera og persóna eftir þörfum.
 
-Það gæti verið skynsamlegra fyrir andstæðinga að vera af hærri gæðum í einu kraftastigi, svo sem fantasíu- eða ofurhetjuumhverfi, á meðan í öðru umhverfi gæti það virst óviðeigandi eða of krefjandi. Í slíkum tilvikum getur spilastjórinn valið að auka þá ógn sem andstæðingur stendur frammi fyrir á annan hátt, svo sem að auka fjöldann sem mætt er, eða gefa þeim yfirburða búnað, eða aðrar leiðir eins og lýst er hér að neðan.
+Það gæti verið meira vit í því að andstæðingar séu af hærri gæðum í einu máttarstigi, svo sem fantasíu- eða ofurhetjuleik, á meðan í öðrum aðstæðum gæti það virst óviðeigandi eða of krefjandi. Í tilvikum sem þessum getur spilastjóri valið að auka ógnina sem andstæðingur stendur frammi fyrir á annan hátt, svo sem að auka fjölda þeirra sem mæta, eða gefa þeim betri búnað, eða aðrar leiðir eins og lýst er hér að neðan.
 
-### Eðlilegar herferðir
+### Venjulegir leikir
 
-Verurnar og óleikararnir í þessum kafla eru miðaðir að eðlilegri herferð. Þeir þurfa venjulega ekki að vera lagaðir, nema fyrir tiltekið umhverfi. Hvenær sem eiginleikar eru lagaðir, taktu eftir öllum breyttum aukaeiginleikum (skaðabónus, heilsu-punktar, stór skaði, kraftapunktar o.s.frv.).
+Verur og persónur sem ekki eru spilaðar í þessum kafla eru miðaðar að venjulegum leik. Þær þurfa venjulega ekki að vera aðlagaðar, nema fyrir tilteknar aðstæður. Þegar verið er að aðlaga eiginleika, taktu eftir öllum breyttum aukaeiginleikum (skaðabónus, heilsuþol, stórt sár, máttarstig, o.s.frv.).
 
-Eitt sem þarf að hafa í huga er að jafnvel smá brynja nær langt. Að bæta 3 punktum af brynju við veru getur gert hana krefjandi, og með meira en +6 punktum verða þær mjög erfitt að skaða.
+Eitt sem þarf að hafa í huga er að jafnvel smá brynja gerir mikið gagn. Að bæta 3 stigum af brynju við einingu getur gert þær krefjandi, og með meira en +6 stig verða þær mjög erfitt að skaða.
 
-### Hetjulegar herferðir
+### Hetjulegir leikir
 
-Fyrir hetjulega herferð eru hér leiðir sem þú getur notað til að laga verur eða óleikara til að henta hetjulegum persónum betur:
+Fyrir hetjulegan leik eru hér leiðir sem þú getur aðlagað verur eða persónur til að passa betur við hetjulegar persónur:
 
-* Auka fjölda vera eða óleikara sem mætt er um +25% eða meira.
-* Bæta við einum mjög hæfum leiðtoga í hvaða hóp sem er, kannski byggðan á epísku kraftastigi.
-* Láta þá nota yfirburða taktík, vera varlegri eða árásargjarnari, og nýta landslag sitt betur til að öðlast taktíska yfirburði og halda persónum leikmanna í jafnvægisleysi.
-* Auka lykileiginleika um annan D6, eða flatt +3, haldandi rúllanlegum hámarksgildum óbreyttum.
-* Breyta bardaga-miðuðum og annarri viðeigandi kunnáttu um +25% eða margfaldað með ×1.5.
+* Auka fjölda vera eða persóna sem mætt er um +25% eða meira.
+* Bæta einum mjög færum leiðtoga við hvern hóp, kannski byggðan á epíska máttarstiginu.
+* Láta þá nota betri taktík, vera varkárari eða árásargjarnari, og nýta betur landslagið til að ná taktískum kostum og halda spilarapersónunum óstöðugum.
+* Auka helstu eiginleika um annað D6, eða flatt +3, halda rúllanlegu hámarki ósködduðum.
+* Breyta bardagatengdum og öðrum viðeigandi hæfnum um +25% eða margfalda með ×1.5.
 * Bæta við fleiri kröftum eða aukinni virkni í núverandi kröftum.
-* Útbúa þá með betri búnaði, brynju, vopnum o.fl.
+* Búa þá betri búnaði, brynju, vopnum o.s.frv.
 
-### Epískar herferðir
+### Epískir leikir
 
-Fyrir epíska herferð eru hér leiðir til að laga verur eða óleikara til að kynna meiri áskorun:
+Fyrir epískan leik eru hér leiðir til að aðlaga verur eða persónur til að bjóða upp á meiri áskorun:
 
-* Tvöfalda fjöldann sem mætt væri af eðlilegum persónum.
-* Gefa þeim leiðtoga á ofurmannlegu kraftastigi.
-* Auka eiginleika um +6 eða meira, yfir kynþáttamörk.
-* Tvöfalda kunnáttustig.
-* Láta þá nota kunnáttu eins og Command og Strategy til að jafna leikvöllinn.
-* Bæta við algjörlega nýjum kröftum eða mörgum kraftahópum, eða sameina færslur með ofurkröftum eins og Extra Hit Points er auðveld lausn.
-* Gefa óvinum besta búnað, brynju og vopn í boði, hvort sem er kraftbrynja, töfragripir, læknisvörur sem geta læknað samstundis o.s.frv.
+* Tvöfalda fjöldann sem mætt væri með venjulegum persónum.
+* Gefa þeim leiðtoga á ofurmannlega máttarstiginu.
+* Auka eiginleika um +6 eða meira, yfir kynþáttahámarki.
+* Tvöfalda hæfnistig.
+* Láta þá nota hæfni eins og Stjórn og Stefna til að jafna leikvöllinn.
+* Að bæta við algjörlega nýjum kröftum eða mörgum kraftahópum, eða að sameina færslur með ofurkröftum eins og Aukaheilsuþol er auðveld lausn.
+* Gefa óvinum besta búnað, brynju og vopn sem völ er á, hvort sem það er orkubrynja, galdrahlutir, lækningavörur sem geta læknað samstundis o.s.frv.
 
-### Ofurmannlegar herferðir
+### Ofurmannlegir leikir
 
-Fyrir ofurmannlega herferð gæti spilastjórinn valið að laga eftirfarandi þætti veru eða óleikara:
+Fyrir ofurmannlegan leik getur spilastjóri valið að aðlaga eftirfarandi þætti veru eða persónu sem ekki er spiluð:
 
-* Fjölda má auka í það sem þér finnst þægilegt að höndla, blanda saman eðlilegum, hetjulegum og epískum óleikurum til að breyta áskoruninni.
-* Auka eiginleika langt fram yfir rúllanleg hámark, nota hvers kyns krafta til að gera þessa óvini næstum títaníska í færni og hæfni.
-* Þrefalda eða jafnvel fjórfalda kunnáttustig langt yfir 100%.
-* Bæta við minna augljósum kröftum eins og Extra Hit Points, Super Characteristics, Super Skill o.s.frv.
-* Útbúa andstæðinga með framúrskarandi vopnum, brynju og öðrum tólum, þar á meðal töfra- eða kraftbúnaði. Þeir munu einnig nota þennan búnað taktískt og eftir bestu getu.
+* Fjölda má auka að þolmörkum þess sem þér finnst þægilegt að stjórna, blanda saman venjulegum, hetjulegum og epískum persónum til að breyta áskoruninni.
+* Auka eiginleika langt fram yfir rúllanlegt hámark, nota hvaða krafta sem er til að gera þessa óvini nánast títaníska í hæfileikum og færni.
+* Þrefalda eða jafnvel fjórfalda hæfniseinkunnir langt yfir 100%.
+* Bæta við minna áberandi kröftum eins og Aukaheilsuþol, Ofureiginleikar, Ofurhæfni o.s.frv.
+* Búa andstæðinga með óvenjulegum vopnum, brynju og öðrum búnaði, þar á meðal galdra- eða knúnum búnaði. Þeir munu einnig nota þennan búnað taktískt og eftir bestu getu.
 
 ### Almennar athugasemdir
 
-Eins og fram kom eru þetta bara tillögur, og ætti að beita þeim gáfulega. Skoðaðu færni persóna leikmanna og notaðu það sem grundvöll fyrir því hversu erfitt á að gera mikilvæga andstæðinga. Ekki vera hræddur við að draga úr viðureign með því að láta óvini flýja, eða auka erfiðleikana með því að láta nýja óvini koma, eða kynna einhvern umhverfisþátt sem gerir hlutina erfiðari fyrir alla.
+Eins og fram hefur komið eru þetta aðeins tillögur, og ætti að beita þeim skynsamlega. Skoðaðu hæfileika spilarapersónanna og notaðu það sem grundvöll fyrir því hversu erfiða á að gera mikilvæga andstæðinga. Ekki vera hræddur við að draga úr átökum með því að láta óvini flýja, eða auka erfiðleikann með því að láta nýja óvini koma, eða kynna einhvern umhverfisþátt sem gerir hlutina erfiðari fyrir alla.
 
-Að meta hlutfallslegan styrk óvinar gagnvart persónu leikmanns er erfitt listform að ná tökum á, og flöt dreifing teningaúrslita og óvænt taktík getur gert hugsanlega auðvelda viðureign að líf-eða-dauða baráttu eða endað örlagaríkan bardaga með einu fyrsta (og heppnu) skoti.
+Að meta hlutfallslegan styrk óvinar á móti persónu spilara er erfitt listform að ná tökum á, og flat dreifing teninganiðurstaðna og óvænt taktík getur gert mögulega auðveld viðureign að lífs- eða dauðabaráttu eða endað árekstur með einu fyrsta (og heppnu) skoti.
 
-Það er mikilvægt, hins vegar, að muna alltaf aðalregluna: hafa gaman og tryggja að leikmennirnir séu einnig að hafa gaman.
+Það er mikilvægt, þó, að muna alltaf aðalregluna: skemmtu þér og vertu viss um að spilararnir séu líka að skemmta sér.
 
-> ### Hitastaðsetningatöflur fyrir verur
->
-> Hitastaðsetningar leyfa mikla nákvæmni við að ákvarða hvar árás lenti og höfða til margra vegna þess að þær tákna „raunsærri“ framsetningu á meiðslum. Staðlaða hitastaðsetningartaflan sem fylgir hentar fyrir hvaða tvífætta mannveru sem er, aðrar verur hafa mismunandi lögun líkama og þurfa mismunandi hitastaðsetningartöflur.
->
-> Þessi hluti kynnir fjölbreytt úrval af hitastaðsetningartöflum og fljótlegum formúlum til að ákvarða heilsu-punkta á staðsetningu fyrir hvaða veru sem er. Til að ákvarða hvaða töflu á að nota, veldu þá sem hentar best fyrir óskaða veru.
->
-> * **Mannverur:** Maður, Geimvera (Grá), Engill (vængir faldir), Cyborg, Dvergur, Álfur, Draugur, Afturganga, Risi, Hálf-menni, Mínótaurus, Múmía, Stökkbreyttur, Orkur, Vélmenni (Risi, Drápsvél, Nytja), Beinagrind, Tröll, Vampíra (í mannlegu formi), Frumverur (Jörð, Vatn), Varúlfur (í blönduformi), Uppvakningur
+> ### Tafla fyrir líkamshluta veru
+> 
+> Líkamshlutar leyfa mikla nákvæmni við að ákvarða hvar árás lenti og höfða til margra vegna þess að þeir tákna 'raunhæfari' lýsingu á meiðslum. Staðlaða líkamshluta-taflan sem fylgir hentar fyrir alla tvífætla, aðrar verur hafa öðruvísi líkamsform og þurfa mismunandi líkamshluta-töflur.
+> 
+> Þessi kafli kynnir margs konar töflur yfir líkamshluta og fljótlegar formúlur til að ákvarða heilsuþolspunkta á hvern hluta fyrir hvaða veru sem er. Til að ákvarða hvaða töflu á að nota, veldu þá sem hentar viðkomandi veru best.
+> 
+> * **Tvífætla:** Maður, Geimvera (Grá), Engill (vængir faldir), Kyborg, Dvergur, Álfur, Draugur, Draugur (Ghoul), Risinn, Hálf-mennskur, Mínotáur, Múmía, Stökkbreyttur, Orki, Vélmenni (Risastórt, Morðingi, Nytja), Beinagrind, Tröll, Vampíra (í mannlegu formi), Elementar (Jörð, Vatn), Varúlfur (í blendingi), Uppvakningur
+> 
 > * **Formlaus:** Klessa
-> * **Fjórfæt mannvera:** Kentár
-> * **Fjórfættur:** Björn, Hundur, Gorilla, Hestur, Ljón, Tígur, Einnhyrningur, Úlfur
-> * **Fjórfættur með hala**: Geimvera (Xenomorph), Allígator eða Krókódíll, Frumvera (Eldur)
-> * **Risi fjórfættur með hala:** Brontosaurus
-> * **Fjöl-útlimur**: Smokkfiskur (Risastór)
-> * **Slanga:** Slöngur (Kyrkislanga, Eiturslanga)
-> * **Tvífæt með hala:** Tyrannosaurus Rex
-> * **Vængjuð:** Haukur
-> * **Vængjuð fjórfætt:** Grípari
->
-> Til að ákvarða heilsu-punkta á staðsetningu, annaðhvort notaðu heilsu-punkta formúluna, eða notaðu töfluna yfir Heilsu-punkta á staðsetningu.
->
-> ##### Mannvera
->
+> 
+> * **Fjórfætt tvífætla:** Kentár
+> 
+> * **Fjórfætt:** Björn, Hundur, Gílafur, Hestur, Ljón, Tígrisdýr, Einhyrningur, Úlfur
+> 
+> * **Fjórfætt með skott:** Geimvera (Xenomorph), Aligator eða Krókódíll, Elementar (Eldur)
+> 
+> * **Risavaxin fjórfætt með skott:** Brontosaurus
+> 
+> * **Fjöllimað:** Kolkrabbi (Risastór)
+> 
+> * **Snákur:** Snákar (Kyrkisnákur, Eitursnákur)
+> 
+> * **Tvífætt með skott:** Tyrannosaurus Rex
+> 
+> * **Vængjað:** Haukur
+> 
+> * **Vængjað fjórfætt:** Griffin
+> 
+> Til að ákvarða heilsuþolspunkta á hvern hluta, notaðu annaðhvort heilsuþolsformúluna, eða notaðu töfluna yfir Heilsuþolspunkta á hvern hluta.
+> 
+> ##### Tvífætla
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–4 | Hægri fótur | 1/3 total |
-> | 5–8 | Vinstri fótur | 1/3 total |
-> | 9–11 | Kviður | 1/3 total |
-> | 12 | Brjóst | 2/5 total |
-> | 13–15 | Hægri handleggur | 1/4 total |
-> | 16–18 | Vinstri handleggur | 1/4 total |
-> | 19–20 | Höfuð | 1/3 total |
->
+> | 1–4 | Hægri fótur | 1/3 af heild |
+> | 5–8 | Vinstri fótur | 1/3 af heild |
+> | 9–11 | Kviður | 1/3 af heild |
+> | 12 | Brjóst | 2/5 af heild |
+> | 13–15 | Hægri handleggur | 1/4 af heild |
+> | 16–18 | Vinstri handleggur | 1/4 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
 > ##### Formlaus
->
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–20 | Líkami | Total |
->
-> ##### Fjórfættur
->
+> | 1–20 | Líkami | Heild |
+> 
+> ##### Fjórfætt
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hægri afturfótur | 1/4 total |
-> | 3–4 | Vinstri afturfótur | 1/4 total |
-> | 5–7 | Afturhluti | 2/5 total |
-> | 8–10 | Framhluti | 2/5 total |
-> | 11–13 | Hægri framfótur | 1/4 total |
-> | 14–16 | Vinstri framfótur | 1/4 total |
-> | 17–20 | Höfuð | 1/3 total |
->
-> ##### Fjórfætt mannvera
->
+> | 1–2 | Hægri afturfótur | 1/4 af heild |
+> | 3–4 | Vinstri afturfótur | 1/4 af heild |
+> | 5–7 | Afturhluti | 2/5 af heild |
+> | 8–10 | Framhluti | 2/5 af heild |
+> | 11–13 | Hægri framfótur | 1/4 af heild |
+> | 14–16 | Vinstri framfótur | 1/4 af heild |
+> | 17–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Fjórfætt tvífætla
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hægri afturfótur | 1/4 total |
-> | 3–4 | Vinstri afturfótur | 1/4 total |
-> | 5–6 | Afturhluti | 2/5 total |
-> | 7–8 | Framhluti | 2/5 total |
-> | 9–10 | Hægri framfótur | 1/4 total |
-> | 11–12 | Vinstri framfótur | 1/4 total |
-> | 13–14 | Brjóst | 2/5 total |
-> | 15–16 | Hægri handleggur | 1/4 total |
-> | 17–18 | Vinstri handleggur | 1/4 total |
-> | 19–20 | Höfuð | 1/3 total |
->
-> ##### Fjórfættur með hala
->
+> | 1–2 | Hægri afturfótur | 1/4 af heild |
+> | 3–4 | Vinstri afturfótur | 1/4 af heild |
+> | 5–6 | Afturhluti | 2/5 af heild |
+> | 7–8 | Framhluti | 2/5 af heild |
+> | 9–10 | Hægri framfótur | 1/4 af heild |
+> | 11–12 | Vinstri framfótur | 1/4 af heild |
+> | 13–14 | Brjóst | 2/5 af heild |
+> | 15–16 | Hægri handleggur | 1/4 af heild |
+> | 17–18 | Vinstri handleggur | 1/4 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Fjórfætt með skott
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–3 | Hali | 1/3 total |
-> | 4 | Hægri afturfótur | 1/4 total |
-> | 5 | Vinstri afturfótur | 1/4 total |
-> | 6–9 | Afturhluti | 2/5 total |
-> | 10–14 | Framhluti | 2/5 total |
-> | 15 | Hægri framfótur | 1/4 total |
-> | 16 | Vinstri framfótur | 1/4 total |
-> | 17–20 | Höfuð | 1/3 total |
->
-> ##### Risi fjórfættur með hala
->
+> | 1–3 | Skott | 1/3 af heild |
+> | 4 | Hægri afturfótur | 1/4 af heild |
+> | 5 | Vinstri afturfótur | 1/4 af heild |
+> | 6–9 | Afturhluti | 2/5 af heild |
+> | 10–14 | Framhluti | 2/5 af heild |
+> | 15 | Hægri framfótur | 1/4 af heild |
+> | 16 | Vinstri framfótur | 1/4 af heild |
+> | 17–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Risavaxin fjórfætt með skott
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hali | 1/3 total |
-> | 3–4 | Hægri afturfótur | 1/4 total |
-> | 5–6 | Vinstri afturfótur | 1/4 total |
-> | 7–10 | Afturhluti | 2/5 total |
-> | 11–14 | Framhluti | 2/5 total |
-> | 15–16 | Hægri framfótur | 1/4 total |
-> | 17–18 | Vinstri framfótur | 1/4 total |
-> | 19–20 | Höfuð | 1/3 total |
->
-> ##### Fjöl-útlimur
->
+> | 1–2 | Skott | 1/3 af heild |
+> | 3–4 | Hægri afturfótur | 1/4 af heild |
+> | 5–6 | Vinstri afturfótur | 1/4 af heild |
+> | 7–10 | Afturhluti | 2/5 af heild |
+> | 11–14 | Framhluti | 2/5 af heild |
+> | 15–16 | Hægri framfótur | 1/4 af heild |
+> | 17–18 | Vinstri framfótur | 1/4 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Fjöllimað
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1 | Handleggur | 1/4 total |
-> | 2 | Handleggur 2 | 1/4 total |
-> | 3 | Handleggur 3 | 1/4 total |
-> | 4 | Handleggur 4 | 1/4 total |
-> | 5 | Handleggur 5 | 1/4 total |
-> | 6 | Handleggur 6 | 1/4 total |
-> | 7 | Handleggur 7 | 1/4 total |
-> | 8 | Handleggur 8 | 1/4 total |
-> | 9 | Handleggur 9 | 1/4 total |
-> | 10 | Handleggur | 1/4 total |
-> | 11–15 | Líkami | 2/5 total |
-> | 16–20 | Höfuð | 2/5 total |
->
-> ##### Slanga
->
+> | 1 | Armur | 1/4 af heild |
+> | 2 | Armur 2 | 1/4 af heild |
+> | 3 | Armur 3 | 1/4 af heild |
+> | 4 | Armur 4 | 1/4 af heild |
+> | 5 | Armur 5 | 1/4 af heild |
+> | 6 | Armur 6 | 1/4 af heild |
+> | 7 | Armur 7 | 1/4 af heild |
+> | 8 | Armur 8 | 1/4 af heild |
+> | 9 | Armur 9 | 1/4 af heild |
+> | 10 | Armur | 1/4 af heild |
+> | 11–15 | Líkami | 2/5 af heild |
+> | 16–20 | Höfuð | 2/5 af heild |
+> 
+> ##### Snákur
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–6 | Hali | 1/3 total |
-> | 7–14 | Líkami | 2/5 total |
-> | 15–20 | Höfuð | 1/3 total |
->
-> ##### Tvífæt með hala
->
+> | 1–6 | Skott | 1/3 af heild |
+> | 7–14 | Líkami | 2/5 af heild |
+> | 15–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Tvífætt með skott
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hali | 1/3 total |
-> | 3–5 | Hægri fótur | 1/3 total |
-> | 6–8 | Vinstri fótur | 1/3 total |
-> | 9–11 | Kviður | 2/5 total |
-> | 12–15 | Brjóst | 2/5 total |
-> | 16 | Hægri handleggur | 1/4 total |
-> | 17 | Vinstri handleggur | 1/4 total |
-> | 18–20 | Höfuð | 1/3 total |
->
-> ##### Vængjuð
->
+> | 1–2 | Skott | 1/3 af heild |
+> | 3–5 | Hægri fótur | 1/3 af heild |
+> | 6–8 | Vinstri fótur | 1/3 af heild |
+> | 9–11 | Kviður | 2/5 af heild |
+> | 12–15 | Brjóst | 2/5 af heild |
+> | 16 | Hægri handleggur | 1/4 af heild |
+> | 17 | Vinstri handleggur | 1/4 af heild |
+> | 18–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Vængjað
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–3 | Hægri fótur | 1/5 total |
-> | 4–6 | Vinstri fótur | 1/5 total |
-> | 7–12 | Líkami | 2/5 total |
-> | 13–15 | Hægri vængur | 1/5 total |
-> | 16–18 | Vinstri vængur | 1/5 total |
-> | 19–20 | Höfuð | 1/4 total |
->
-> ##### Vængjuð fjórfætt
->
+> | 1–3 | Hægri fótur | 1/5 af heild |
+> | 4–6 | Vinstri fótur | 1/5 af heild |
+> | 7–12 | Líkami | 2/5 af heild |
+> | 13–15 | Hægri vængur | 1/5 af heild |
+> | 16–18 | Vinstri vængur | 1/5 af heild |
+> | 19–20 | Höfuð | 1/4 af heild |
+> 
+> ##### Vængjað fjórfætt
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hægri afturfótur | 1/4 total |
-> | 3–4 | Vinstri afturfótur | 1/4 total |
-> | 5–7 | Afturhluti | 2/5 total |
-> | 8–10 | Framhluti | 2/5 total |
-> | 11–12 | Hægri vængur | 1/4 total |
-> | 13–14 | Vinstri vængur | 1/4 total |
-> | 15–16 | Hægri framfótur | 1/4 total |
-> | 17–1 | Vinstri framfótur | 1/4 total |
-> | 19–20 | Höfuð | 1/3 total |
->
-> ##### Vængjuð, fjórfætt með hala
->
+> | 1–2 | Hægri afturfótur | 1/4 af heild |
+> | 3–4 | Vinstri afturfótur | 1/4 af heild |
+> | 5–7 | Afturhluti | 2/5 af heild |
+> | 8–10 | Framhluti | 2/5 af heild |
+> | 11–12 | Hægri vængur | 1/4 af heild |
+> | 13–14 | Vinstri vængur | 1/4 af heild |
+> | 15–16 | Hægri framfótur | 1/4 af heild |
+> | 17–1 | Vinstri framfótur | 1/4 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Vængjað, fjórfætt með skott
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–2 | Hali | 1/4 total |
-> | 3–4 | Hægri afturfótur | 1/3 total |
-> | 5–6 | Vinstri afturfótur | 1/3 total |
-> | 7–8 | Afturhluti | 2/5 total |
-> | 9–10 | Framhluti | 2/5 total |
-> | 11–12 | Hægri vængur | 1/4 total |
-> | 13–14 | Vinstri vængur | 1/4 total |
-> | 15–16 | Hægri framfótur | 1/3 total |
-> | 17–18 | Vinstri framfótur | 1/3 total |
-> | 19–20 | Höfuð | 1/3 total |
->
-> ##### Vængjuð mannvera
->
+> | 1–2 | Skott | 1/4 af heild |
+> | 3–4 | Hægri afturfótur | 1/3 af heild |
+> | 5–6 | Vinstri afturfótur | 1/3 af heild |
+> | 7–8 | Afturhluti | 2/5 af heild |
+> | 9–10 | Framhluti | 2/5 af heild |
+> | 11–12 | Hægri vængur | 1/4 af heild |
+> | 13–14 | Vinstri vængur | 1/4 af heild |
+> | 15–16 | Hægri framfótur | 1/3 af heild |
+> | 17–18 | Vinstri framfótur | 1/3 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
+> ##### Vængjað tvífætla
+> 
 > | D20 Rúlla | Niðurstaða | Formúla |
 > | :---- | :---- | :---- |
-> | 1–3 | Hægri fótur | 1/3 total |
-> | 4–6 | Vinstri fótur | 1/3 total |
-> | 7–9 | Kviður | 1/3 total |
-> | 10 | Brjóst | 2/5 total |
-> | 11–12 | Hægri vængur | 1/5 total |
-> | 13–14 | Vinstri vængur | 1/5 total |
-> | 15–16 | Hægri handleggur | 1/4 total |
-> | 17–18 | Vinstri handleggur | 1/4 total |
-> | 19–20 | Höfuð | 1/3 total |
->
-> Til að ákvarða heilsu-punkta á staðsetningu, berðu saman heildar heilsu-punkta verunnar við brotið. Hvert heildar heilsu-punktagildi fær svið og brot eru námunduð upp byggt á efri mörkum þess sviðs (þannig 2/5 af 10–12 gefur gildi annaðhvort 4, 4.4, eða 4.8 og er námundað í 5). Ef nákvæmari útreiknings er óskað, notaðu formúlurnar sem gefnar eru á undan.
->
-> | Samtals | 2/5 (eða 40%) | 1/3 (eða 33%) | 1/4 (eða 25%) | 1/5 (eða 20%) |
+> | 1–3 | Hægri fótur | 1/3 af heild |
+> | 4–6 | Vinstri fótur | 1/3 af heild |
+> | 7–9 | Kviður | 1/3 af heild |
+> | 10 | Brjóst | 2/5 af heild |
+> | 11–12 | Hægri vængur | 1/5 af heild |
+> | 13–14 | Vinstri vængur | 1/5 af heild |
+> | 15–16 | Hægri handleggur | 1/4 af heild |
+> | 17–18 | Vinstri handleggur | 1/4 af heild |
+> | 19–20 | Höfuð | 1/3 af heild |
+> 
+> Til að ákvarða heilsuþolspunkta á hvern hluta, berðu saman heildarheilsuþol verunnar við brotið. Hvert heildarheilsuþolsgildi er gefið upp sem bil og brot eru námunduð upp byggt á efri mörkum þess bils (þannig að 2/5 af 10–12 gefur gildið 5, 4.4, eða 4.8 og er námundað í 5). Ef óskað er eftir nákvæmari útreikningi, notaðu formúlurnar sem gefnar voru á undan.
+> 
+> | Heild | 2/5 (eða 40%) | 1/3 (eða 33%) | 1/4 (eða 25%) | 1/5 (eða 20%) |
 > | :---- | :---: | :---: | :---: | :---: |
 > | 1–3 | 2 | 1 | 1 | 1 |
 > | 4–6 | 3 | 2 | 2 | 1 |

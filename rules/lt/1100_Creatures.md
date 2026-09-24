@@ -1,161 +1,161 @@
 # 11. Būtybės
 
-Šiame skyriuje pateikiamas platus galimų susidūrimų spektras: nuo ištikimų sąjungininkų, lojalių augintinių, žiaurių gyvūnų ar antgamtinių būtybių iki veikėjų pavyzdžių iš praeities, fantastinių pasaulių, šiuolaikinio pasaulio ir ateities. Pagal taisykles nėra jokio skirtumo tarp būtybės ir nežaidžiamojo veikėjo (NPC) – žaidimo vedėjas juos apibūdina pasitelkdamas aprašymus ir vaidmenų žaidimą. Visi jie laikosi tų pačių taisyklių kaip ir žaidėjų veikėjai. Tačiau kiekvienas iš jų reprezentuoja atitinkamą egzempliorių ir nėra subalansuotas taip pat, kaip žaidėjo veikėjas. Šias būtybes galite naudoti „tokias, kokios yra“ arba pritaikyti pagal savo poreikius. Šiuose aprašymuose nenaudojamos jokios papildomos taisyklės, nors galite jas pridėti ar modifikuoti, jei reikia (žr. Būtybių ir nežaidžiamųjų veikėjų pritaikymas).
+Šiame skyriuje pateikiama daugybė galimų susitikimų: nuo ištikimų sąjungininkų ir augintinių iki grėsmingų žvėrių bei antgamtinių esybių, taip pat veikėjų pavyzdžių iš praeities, fantastinių pasaulių, modernių laikų ir ateities. Taisyklių atžvilgiu nėra skirtumo tarp būtybės ir nežaidžiamo veikėjo (NPC) – žaidimo meistras (ŽM) juos apibūdina per aprašymus ir vaidybą. Visi jie vadovaujasi tomis pačiomis taisyklėmis kaip ir veikėjai. Tačiau kiekvienas iš jų atstovauja atitinkamą egzempliorių ir nėra subalansuotas taip, kaip žaidėjo veikėjas. Šias būtybes galite naudoti tokias, kokios jos yra, arba modifikuoti pagal poreikį. Šiuose aprašymuose nenaudojamos jokios papildomos taisyklės, nors galite jas pridėti ar pakeisti (žr. Būtybių ir nežaidžiamų veikėjų pritaikymas).
 
-Visi įrašai patogumo dėlei aprašomi kaip „būtybės“, nors tai gali būti žmonės ar negyvos mašinos.
+Patogumo dėlei visi įrašai apibūdinami kaip „būtybės“, net jei tai būtų žmonės ar negyvos mašinos.
 
 ## Įrašų formatas
 
-Beveik kiekviena būtybė ir nežaidžiamasis veikėjas aprašomas pagal tą patį formatą, nors natūralūs gyvūnai pateikiami sutrumpintoje lentelėje.
+Beveik kiekviena būtybė ir nežaidžiamas veikėjas aprašomi tuo pačiu formatu, nors natūralūs gyvūnai pateikiami sutrumpintoje lentelėje.
 
-* **Pavadinimas:** Bendrinis pavadinimas.
+* **Vardas:** Bendrinis pavadinimas.
 * **Aprašymas:** Trumpa informacija apie įrašą.
-* **Charakteristikos:** Charakteristikos pateikiamos tiek ridentų verčių intervalu, tiek vidurkiu (žemiau). Kai kurių įrašų charakteristikos gali trūkti: tai reiškia, kad jos yra nereikšmingos arba netaikomos (žr. Būtybės be charakteristikų).
-* **Gyvybės taškai (HP):** Paprastai tai yra SIZ ir CON vidurkis; kai kuriems įrašams gyvybės taškai gali būti skaičiuojami kitaip, pavyzdžiui, pagal POW ar kitą charakteristiką. Turėdamas 1 gyvybės tašką, gyva būtybė yra be sąmonės arba kitaip neįgali, o pasiekusi 0 ar mažiau – ji miršta.
-* **Judėjimo greitis (MOV):** Pirma nurodomas pagrindinis judėjimo būdas. Būtybės, kurios nejuda, neturi MOV greičio.
-* **Žalos modifikatorius (DM):** Vidurkis vidutinei būtybei, jei toks yra. Jei reikia, perskaičiuokite didesniems ar mažesniems egzemplioriams.
-* **Šarvai:** Šarvų vertė ir tipas, jei yra.
-* **Atakos:** Atakos tipas, įgūdžio lygis ir žalos ridenimas. Atakoms „+dm“ reiškia, kad jis įtrauktas, o „+½dm“ reiškia, kad žalos modifikatorius dalijamas pusiau. Čia nurodomi specialūs kovos gebėjimai ar sąlygos. Visos galimos atakos vyksta tuo pačiu DEX rangų, nebent nurodyta kitaip. Paprastai nagų ataka daro 1D6+dm, o įkandimas ar ragas – 1D3+dm.
-* **Įgūdžiai:** Aktualiausi įgūdžiai vidutiniam susidūrimui. Neišvardintiems įgūdžiams žmonės pagal nutylėjimą turi bazinius šansus, o papildomus įgūdžius turėtų nustatyti žaidimo vedėjas (žr. Įgūdžių įvertinimo matavimas).
-* **Galia:** Bet kokios galios, kurias turi vidutinis egzempliorius, su prireikus nurodytais tipais.
+* **Charakteristikos:** Charakteristikos pateikiamos tiek kaip riedėjimo diapazonas, tiek kaip vidurkis (žemiau). Kai kuriems įrašams gali trūkti charakteristikų: jos yra nereikšmingos arba netaikomos (žr. Būtybės be charakteristikų).
+* **Gyvybės taškai (HP):** Paprastai tai yra DYD ir IŠT vidurkis; kai kurių įrašų gyvybės taškai gali būti skaičiuojami kitaip, pavyzdžiui, pagal GAL ar kitą charakteristiką. Turėdama 1 gyvybės tašką, gyva būtybė yra be sąmonės ar kitaip paralyžiuota, o pasiekusi 0 ar mažiau – žūsta.
+* **Judesio greitis (MOV):** Pagrindinis judėjimo būdas nurodomas pirmas. Nejudrios būtybės neturi MOV greičio.
+* **Žalos modifikatorius (DM):** Vidutinės būtybės vidurkis (jei taikoma). Jei reikia, perskaičiuokite didesniems ar mažesniems egzemplioriams.
+* **Šarvai:** Šarvų vertė ir tipas (jei yra).
+* **Atakos:** Atakos tipas, įgūdžio vertinimas ir žalos metimas. Atakoms „+dm“ reiškia, kad jis įtrauktas, o „+½dm“ – kai žalos modifikatorius dalijamas pusiau. Čia nurodomi specialūs kovos gebėjimai ar sąlygos. Visos galimos atakos vyksta tuo pačiu VIK laipsniu, nebent nurodyta kitaip. Paprastai ataka nagais daro 1D6+dm, o įkandimas ar ragais – 1D3+dm.
+* **Įgūdžiai:** Aktualiausi įgūdžiai vidutiniam susitikimui. Neįrašytiems įgūdžiams žmonės pagal nutylėjimą turi bazinius šansus, o papildomus įgūdžius turėtų nustatyti žaidimo meistras (žr. Įgūdžių vertinimų matavimas).
+* **Galios:** Visos galios, kurias turi vidutinis egzempliorius, su nurodytais tipais (jei reikia).
 
-Galios taškai nėra išvardyti, bet atitinka POW, kur taikoma.
+Galios taškai nėra nurodyti, bet yra lygiaverčiai GAL, kai taikoma.
 
 ### Būtybės be charakteristikų
 
-Kai kurios būtybės turi „—“ vietoj tam tikrų charakteristikų, o tai reiškia, kad tai netaikoma arba vertė lygi 0. Būtybė be charakteristikos negali būti paveikta atakų, nukreiptų į tą charakteristiką, arba sąlygų, kurios ją veikia. Toliau pateikiamos gairės būtybėms, kurioms trūksta specifinių charakteristikų:
+Kai kurios būtybės tam tikrų charakteristikų vietoje turi „—“, kas reiškia, kad tai netaikoma arba vertė yra 0. Būtybė be charakteristikos negali būti paveikta atakų, nukreiptų į tą charakteristiką, arba sąlygų, kurios ją veikia. Toliau pateikiamos gairės būtybėms, neturinčioms tam tikrų charakteristikų:
 
-* **Jėga (STR):** Būtybė be STR negali sąveikauti su fiziniais objektais, išskyrus judėjimą aplink juos.
-* **Konstitucija (CON):** Būtybė be CON yra imuni ligoms, radiacijai, nuodams ir kitoms atakoms, reikalaujančioms pasipriešinimo metimo prieš CON. Ji niekada nepavargsta. Jei ji turi SIZ ir materialų buvimą, jos gyvybės taškai remiasi kita charakteristika.
-* **Dydis (SIZ):** Būtybė be SIZ neturi fizinio kūno arba jis mikroskopinis. Ji paprastai negali sąveikauti su fiziniais objektais. Jos gyvybės taškai tikriausiai remiasi CON, jei ji išvis turi įprastų gyvybės taškų.
-* **Intelektas (INT):** Protingos, sąmoningos būtybės turi normalų INT intervalą, o gyvūnai ir kitos nesąmoningos būtybės turi „fiksuotą“ INT, paprastai 3–5, ir yra valdomos instinktų, o ne proto. Būtybė su fiksuotu INT arba be INT nėra paveiki galių, kurios veikia racionalų mąstymą, nors gali būti paveikta galių, manipuliuojančių emocijomis.
-* **Galia (POW):** Net ir be POW, būtybė vis tiek gali turėti galios taškų, bet jų normaliai neatstato. Vietoj to ji turi tam tikrą galią ar specialų gebėjimą, leidžiantį įgyti galios taškų. Kaip ir gyvos būtybės, pasiekusi 0, ji yra „be sąmonės“, kol kažkaip atgauna bent 1 galios tašką.
-* **Vikrumas (DEX):** Būtybė be DEX yra nejudri arba iš esmės stacionari. Jei ji turi ataką, ji įvyksta DEX 1 ranku.
-* **Charizma (CHA):** Nors visos būtybės turi tam tikrą CHA formą, ji retai aktuali tiems, kurie nėra tos pačios rūšies. Jei reikia, priskirkite CHA pagal 1D6 paprastoms ir neišraiškingoms būtybėms, iki 6D6+ dieviško grožio būtybėms. Jei aktualu, laikinai pakeiskite kito tipo būtybės CHA per –10, kai bendraujate su ne tos pačios rūšies atstovais.
+* **Jėga (JĖG):** Būtybė be JĖG negali sąveikauti su fiziniais objektais, išskyrus judėjimą aplink juos.
+* **Ištvermė (IŠT):** Būtybė be IŠT yra imuni ligoms, radiacijai, nuodams ir kitoms atakoms, reikalaujančioms pasipriešinimo metimo prieš IŠT. Ji niekada nepavargsta. Jei ji turi DYD ir fizinį pavidalą, jos gyvybės taškai remiasi kita charakteristika.
+* **Dydis (DYD):** Būtybė be DYD neturi fizinio kūno arba jis yra mikroskopinis. Ji paprastai negali sąveikauti su fiziniais objektais. Jos gyvybės taškai greičiausiai remiasi IŠT, jei iš viso turi įprastų gyvybės taškų.
+* **Intelektas (INT):** Protingos, mąstančios būtybės turi įprastą INT diapazoną, o gyvūnai ir kitos neprotingos būtybės turi „fiksuotą“ INT, paprastai 3–5, ir yra valdomi instinktų, o ne proto. Būtybė su fiksuotu INT arba be jo nėra veikiama galių, paveikiančių racionalų mąstymą, nors gali būti paveikta galių, manipuliuojančių emocijomis.
+* **Galios (GAL):** Net ir be GAL, būtybė vis tiek gali turėti galios taškų, bet jie normaliai neatsistato. Vietoj to, ji turi kokią nors galią ar specialų gebėjimą, leidžiantį įgyti galios taškų. Kaip ir gyvos būtybės, pasiekusi 0 ji lieka „be sąmonės“, kol kažkaip susigrąžina bent 1 galios tašką.
+* **Vikrumas (VIK):** Būtybė be VIK yra arba nejudri, arba iš esmės stacionari. Jei ji turi ataką, ji vyksta VIK 1 laipsniu.
+* **Charizma (CHA):** Nors visos būtybės turi tam tikros formos CHA, ji retai aktuali ne tos pačios rūšies atstovams. Jei reikia, priskirkite CHA pagal 1D6 paprastoms ir neišraiškingoms būtybėms, iki 6D6+ dieviško grožio būtybėms. Jei aktualu, laikinai modifikuokite kitos rūšies būtybės CHA –10, kai sąveikaujama su pašaliniais.
 
-> ### Būtybės kaip žaidėjų veikėjai (Galimybė)
+> ### Būtybės kaip žaidėjų veikėjai (Pasirenkama)
 > 
-> Žaidėjai gali norėti patirti žaidimą vaidindami ne žmonių rasės atstovus (šiame bestiarijuje kiekvienas ne žmogus vadinamas „būtybe“), ypač pasauliuose, kur tai tinka, pavyzdžiui, fantastikoje ar mokslinėje fantastikoje. Noras vaidinti radikaliai kitokias nei žmonija būtybes yra natūralus vaidmenų žaidimo troškimas, ir jei tai tinka žaidimo vedėjo pasirinktam pasauliui, tai turėtų būti leidžiama. Tačiau kai kurias būtybes lengviau vaidinti nei kitas.
+> Žaidėjai gali norėti žaisti ne žmonių rasių atstovus (šiame bestiarijuje kiekvienas ne žmogus vadinamas „būtybe“), ypač pasauliuose, kur tai tinkama, pavyzdžiui, fantastiniuose ar mokslinės fantastikos. Noras žaisti radikaliai kitokias nei žmonija būtybes yra natūralus vaidmenų žaidimo siekis, ir jei tai dera su žaidimo meistro nustatytu pasauliu, tai turėtų būti leidžiama. Tačiau kai kurias būtybes lengviau įkūnyti nei kitas.
 > 
-> Nepilnos būtybės (tos, kurioms trūksta vienos ar daugiau charakteristikų) dažnai yra per daug ribotos, kad teiktų malonumą. Be to, žaidėjui gali būti mažiau malonu vaidinti būtybę, kurios INT charakteristika generuojama ridenant mažiau nei 3D6 (arba 2D6+6).
+> Nepilnos būtybės (tos, kurioms trūksta vertės vienoje ar keliose charakteristikose) dažnai yra per daug apribotos, kad žaidimas teiktų malonumą. Be to, žaidėjui gali būti mažiau įdomu vaidinti būtybę, kurios INT charakteristika sugeneruojama metant mažiau nei 3D6 (ar 2D6+6).
 > 
-> Žaidimo vedėjas taip pat gali atgrasyti žaidėjus nuo itin galingų ar filosofiškai nepriimtinų būtybių vaidinimo, atsižvelgiant į pasaulį ir konkrečią kampaniją. Pavyzdžiui, fantastiniame pasaulyje, kur dauguma žaidėjų veikėjų yra elfai, žaidimo vedėjas gali neleisti žaidėjams kurti trolių ar nykštukų veikėjų dėl konfliktų, kuriuos šie (tradiciniai) elfų priešai atneštų į veikėjų grupę. Taip pat šiuolaikinė siaubo kampanija, kurioje žaidėjai kovoja su okultinėmis grėsmėmis, gali būti visiškai netinkama demoniško ar angeliško žaidėjo veikėjui (nepaisant jų tinkamumo pasauliui). Panašiai, jei būtybė sukeltų nepagrįstų sunkumų dėl savo prigimties, pavyzdžiui, ekstremalaus dydžio, socialinės neapykantos ar kultūrinio vaidmens, žaidimo vedėjas turėtų uždrausti žaidėjams rinktis ją kaip žaidėjo veikėjo rasę. Visi tokie sprendimai paliekami žaidimo vedėjo nuožiūrai, o žaidėjas turėtų paklausti vedėjo, ar leidžiama kampanijoje valdyti tam tikro tipo būtybę.
+> Žaidimo meistras taip pat gali atgrasyti žaidėjus nuo itin galingų ar filosofiškai nepriimtinų būtybių pasirinkimo, atsižvelgiant į nustatymus ir kampaniją. Pavyzdžiui, fantastiniame pasaulyje, kur dauguma žaidėjų yra elfai, meistras gali neleisti kurti trolių ar nykštukų dėl nesutarimų, kuriuos šie (tradiciniai) elfų priešai atneštų į grupę. Be to, moderni siaubo kampanija, kurioje žaidėjai kovoja su okultinėmis grėsmėmis, gali būti visiškai netinkama demoniško ar angeliško veikėjo personažui (nepaisant jų tinkamumo pasaulio koncepcijai). Panašiai, jei būtybė sukeltų nepagrįstų sunkumų dėl savo prigimties, pavyzdžiui, milžiniško dydžio, socialinio priešiškumo ar kultūrinio vaidmens, meistras turėtų neleisti pasirinkti jos kaip žaidėjo rasės. Visi tokie sprendimai priklauso nuo meistro nuožiūros, ir žaidėjas turėtų paklausti meistro, ar leidžiama kampanijoje valdyti tam tikro tipo būtybę.
 > 
-> Nepaisant šių įspėjimų, visos šiame skyriuje pateiktos būtybės yra aprašytos pakankamai detaliai, kad būtų galima naudoti kaip žaidėjų veikėjus, nors žaidimo vedėjas gali norėti išplėsti šiuos įrašus, kad jie atitiktų konkretų pasaulį ir kampaniją. Daugeliu atvejų daroma prielaida, kad ši statistika reprezentuoja suaugusias ar subrendusias būtybes, todėl žaidimo vedėjas turėtų gebėti riboti žaidėjo veikėjo būtybei prieinamų galių spektrą, darant prielaidą, kad laikui bėgant žaidėjo veikėjas gali išmokti šias papildomas galias ir specialius gebėjimus.
+> Nepaisant šių įspėjimų, visos šiame skyriuje pateiktos būtybės yra aprašytos pakankamai detaliai, kad jas būtų galima naudoti kaip žaidėjų personažus, nors meistras gali norėti išplėsti šiuos įrašus, kad jie atitiktų jo pasaulį ir kampaniją. Daugeliu atvejų daroma prielaida, kad šie statistiniai duomenys reprezentuoja pilnai suaugusias ar subrendusias būtybes, todėl meistras turėtų turėti galimybę riboti žaidėjo būtybei prieinamų galių diapazoną, darant prielaidą, kad laikui bėgant būtybė gali išmokti šias papildomas galias ir gebėjimus.
 > 
-> Norėdamas nuspręsti, ar konkreti būtybė yra tinkama kampanijai kaip žaidėjo veikėjas, žaidimo vedėjas turėtų užduoti tris klausimus:
+> Norėdamas nuspręsti, ar konkreti būtybė tinka kampanijai kaip žaidėjo personažas, meistras turėtų užduoti tris klausimus:
 > 
-> * **Ar šios būtybės versija kaip žaidėjo veikėjas yra netinkama kampanijos pasauliui?**
+> * **Ar šios būtybės žaidėjo versija yra netinkama kampanijos nustatymams?**
 > 
 > * **Ar ši būtybė kels sunkumų kitiems žaidėjams kampanijos metu?**
 > 
-> * **Ar ši būtybė išbalansuos likusią kampaniją?**
+> * **Ar ši būtybė išbalansuos likusią kampanijos dalį?**
 > 
-> Jei atsakymas į bent vieną iš šių klausimų yra „Taip“, žaidimo vedėjui patariama neleisti būtybės naudoti kaip žaidėjo veikėjo arba daryti tai su griežčiausiomis sąlygomis ar specialiais leidimais.
+> Jei į bet kurį iš šių klausimų atsakymas yra „Taip“, meistrui patariama neleisti naudoti būtybės kaip žaidėjo personažo arba daryti tai su pačiomis griežčiausiomis sąlygomis ir specialiais leidimais.
 
-> ### Sveiko proto praradimas (SAN) ir būtybės
+> ### Sveikumo praradimas ir būtybės
 > 
-> Šiame skyriuje yra daug būtybių, kurios gali priversti veikėjus prarasti sveiką protą, jei bus pamatytos (žr. Sveikas protas). Šios būtybės gali sukelti SAN praradimą, kai atliekamas sveiko proto metimas.
+> Šiame skyriuje yra daug būtybių, kurios gali priversti veikėjus prarasti sveiką protą (žr. Sveikumas). Šios būtybės gali sukelti SAN praradimą, kai atliekamas sveikumo metimas.
 > 
 > | Būtybė | SAN metimas sėkmingas | SAN metimas nesėkmingas |
 > | :---- | :---- | :---- |
-> | Ateivis, pilkasis | 0 | –1D6 |
-> | Ateivis, ksenomorfas | 1 | –1D8 |
-> | Angelas | 0 (arba +1D3 SAN) | –1D3 |
-> | Gleivės | 1 | –1D20 |
-> | Kiborgas (groteskiškas) | 0 | –1D4 |
-> | Demonas, didysis | 1D3 | –2D6 |
-> | Demonas, mažasis | 1 | –1D6 |
+> | Ateivis, Pilkasis | 0 | –1D6 |
+> | Ateivis, Ksenomorfas | 1 | –1D8 |
+> | Angelas | 0 (ar +1D3 SAN) | –1D3 |
+> | Ameba | 1 | –1D20 |
+> | Kiborgas (Groteskiškas) | 0 | –1D4 |
+> | Demonas, Didesnysis | 1D3 | –2D6 |
+> | Demonas, Mažesnysis | 1 | –1D6 |
 > | Elementalas | 0 | –1D4 |
-> | Vaiduoklis | 0 | –1D4 (arba daugiau) |
+> | Vaiduoklis | 0 | –1D4 (ar daugiau) |
 > | Gulas | 0 | –1D6 |
 > | Mumija | 1 | –1D8 |
-> | Mutantas (groteskiškas) | 0 | –1D4 |
-> | Robotas, žudikas | 0 | –1D4 |
+> | Mutantas (Groteskiškas) | 0 | –1D4 |
+> | Robotas, Žudikas | 0 | –1D4 |
 > | Skeletas | 0 | –1D6 |
-> | Vampyras | 1 | –1D4 (arba daugiau) |
+> | Vampyras | 1 | –1D4 (ar daugiau) |
 > | Vilkolakis | 0 | –1D8 |
 > | Zombis | 1 | –1D8 |
 > 
-> Kai kurios natūralios būtybės gali sukelti SAN praradimą, priklausomai nuo aplinkybių. SAN praradimas taip pat priklauso nuo pasaulio, nes antgamtinės būtybės fantastiniame pasaulyje yra įprastas reiškinys.
+> Kai kurie natūralūs gyvūnai gali sukelti SAN praradimą, priklausomai nuo aplinkybių. SAN praradimas taip pat priklauso nuo aplinkos, nes antgamtinės būtybės fantastiniame pasaulyje yra įprastas reiškinys.
 
 ## Natūralūs gyvūnai
 
-Šios būtybės yra žinomos daugumai žaidėjų, todėl jų aprašymuose dėmesys skiriamas tik žaidimo mechanikai. Tai yra bendriniai pavyzdžiai, o ne konkrečios veislės ar rūšys, ir gali būti keičiami pagal pageidavimą.
+Šios būtybės yra pažįstamos daugumai žaidėjų, todėl jų aprašymuose daugiausia dėmesio skiriama žaidimo mechanikai. Tai yra bendriniai pavyzdžiai, o ne konkrečios veislės ar rūšys, ir juos galima modifikuoti pagal poreikį.
 
 ##### Natūralios būtybės
 
-| Pavadinimas | STR | CON | SIZ | POW | DEX | MOV | Šarvai | HP | DM | Ataka ir %, žala | Įgūdžiai |
+| Vardas | JĖG | IŠT | DYD | GAL | VIK | MOV | Šarvai | HP | DM | Ataka ir %, Žala | Įgūdžiai |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- | :---- |
-| Aligatorius ar krokodilas | 4D6+12 25w | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Pėst. 7 Plauk. 6 | 5 tšk. oda | 22 | +2D6 | Įkand. 50%, 1D10+dm | Veng. 30%, Slėp. 50%, Paieška 35%, Jaut. 30%, Slapt. 75%, Sek. 15% |
-| Lokys | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Pėst. 12 Plauk. 2 | 3 tšk. kail. | 17 | +2D6 | Įkand. 25%, 1D10; Nagai 25%, 1D6+dm | Laip. 35%, Tyl. 35%, Paieška 35%, Jaut. 35% |
-| Brontozauras | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Pėst. 7 | 14 tšk. oda | 57 | +7D6 | Uodega 50%, 1D6+½dm; Sutrypti 75%, 7D6+dm | Klaus. 35%, Jaut. 30%, Pasteb. 35% |
-| Kondoras, erelis ir t.t. | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Skryd. 14 Pėst. 2 | 1 tšk. plunks. | 14 | +1D6 | Įkand. 45%, 1D6; Nagai 45%, 1D6+dm | Veng. 50%, Jaut. 25%, Paieška 90% |
-| Šuo | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Pėst. 10 Plauk. 6 | — | 7–8 | –1D4 | Įkand. 30%, 1D6+½dm | Veng. 55%, Klaus. 75%, Jaut. 90% |
-| Dramblys | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Pėst. 10 Plauk. 2 | 4 tšk. oda | 45 | +6D6 | Sutrypti 50%, 4D6+dm; Įsiverž. 25%, 6D6+dm; Straublys 50%, suspaud.; Ragai 25%, 2D6+dm | Klaus. 65%, Paieška 35%, Jaut. 55% |
-| Gorila | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Pėst. 12 Plauk. 2 | 3 tšk. kail. | 16 | +2D6 | Įkand. 45%, 2D6; Imtyn. 45%, 3D6+dm | Laip. 70%, Slėp. 40%, Klaus. 35%, Tyl. 60%, Paieška 30%, Jaut. 40% |
-| Vanagas | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Skryd. 12 Pėst. 1 | — | 4 | –1D6 | Nagai 45%, 1D4+dm | Veng. 75%, Pasteb. 100% |
-| Arklys | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Pėst. 12 Plauk. 2 | 1 tšk. oda | 20 | +2D6 | Spirti 20%, 2D8+dm; Įsiverž. 10%, 2D6+dm; Įkand. 10%, 1D6 | Veng. 45%, Slėp. 25%, Tyl. 25%, Jaut. 80% |
-| Vabzdžių spiečius | — | — | — | — | — | Skryd. 12 Pėst. 10 | — | — | — | Žr. aprašymą. | Paieška 50% |
-| Liūtas | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Pėst. 10 Plauk. 2 | 2 tšk. kail. | 14 | +1D6 | Įkand. 40%, 1D10; Nagai 60%, 1D6+dm; Drasky. 80%, 2D6+dm | Veng. 20%, Slėp. 20%, Klaus. 30%, Jaut. 40%, Sek. 15% |
-| Žiurkių gauja | — | — | — | — | — | Pėst. 10 Plauk. 6 | — | — | — | Gaujų skaičius ×5%, 1D3 žalos | Laip. 75%, Paieška 75%, Plauk. 75% |
-| Ryklys | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Plauk. 10 | 5 tšk. oda | 19–20 | +2D6 | Įkand. 75%, 2D6+dm; Pelekas 50%, 2D3+½dm | Jaut. 95%, Plauk. 100% |
-| Gyvatė (smauglys) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Šliauž. 6 Plauk. 4 | 1 tšk. oda | 15–16 | +1D6 | Įkand. 65%, 1D4+½dm; Smaug. 40%, 1D6+dm; Praryti 100%, spec. | Laip. 85%, Veng. 60%, Slėp. 75%, Jaut. 75%, Slapt. 90%, Plauk. 70% |
-| Gyvatė (nuodinga) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Šliauž. 6 Plauk. 4 | — | 6 | –1D6 | Įkand. 70%, 1D2+1/2dm (pradurianti) + nuodai. | Laip. 50%, Veng. 50%, Slėp. 80%, Jaut. 65%, Slapt. 90%, Plauk. 70% |
-| Kalmaras (milžiniškas) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Plauk. 10 „Pėst.“ 4 | 2 tšk. oda | 24 | +3D6 | Snapas 45%, 1D10+½dm + nuodai; Čiuptuvas 45%, 1D6+dm | Slėp. 70%, Plauk. 100% |
-| Tigras | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Pėst. 12 | 2 tšk. kail. | 13–14 | +1D6 | Įkand. 45%, 1D10+½dm; Nagai 70%, 1D8+dm; Drasky. 80%, 2D8+dm | Veng. 45%, Slėp. 80%, Šuol. 55%, Slapt. 75%, Jaut. 70%, Sek. 50% |
-| Tiranozauras Reksas | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Pėst. 12 | 10 tšk. oda | 44 | +6D6 | Įkand. 50%, 2D6+dm; Priek. nagai 35%, 1D4+½dm; Spirti 45%, 1D6+dm | Šuol. 50%, Klaus. 45%, Jaut. 35%, Pasteb. 50%, Sek. 50% |
-| Vilkas | 2D6+6 13 | 3D6 10-11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Pėst. 10 | 2 tšk. kail. | 9–10 | — | Įkand. 30%, 1D8+½dm | Veng. 35%, Klaus. 75%, Jaut. 90%, Pasteb. 60%, Sek. 80% |
+| Aligatorius ar krokodilas | 4D6+12 25 | 3D6+6 18–19 | 4D6+12 25 | 3D6 10–11 | 2D6 7 | Pėsčiomis 7 Plaukti 6 | 5 tšk. oda | 22 | +2D6 | Įkandimas 50%, 1D10+dm | Išsisukimas 30%, Slėpimasis 50%, Paieška 35%, Nuojauta 30%, Slapstymasis 75%, Pėdsakų sekimas 15% |
+| Lokys | 3D6+10 20–21 | 2D6+6 13 | 3D6+10 20–21 | 3D6 10–11 | 3D6 10–11 | Pėsčiomis 12 Plaukti 2 | 3 tšk. kailis | 17 | +2D6 | Įkandimas 25%, 1D10; Nagai 25%, 1D6+dm | Laipiojimas 35%, Tylus judėjimas 35%, Paieška 35%, Nuojauta 35% |
+| Brontozauras | 4D10+40 62 | 2D10+30 41 | 4D10+50 72 | 1D6+8 11–12 | 1D6 3–4 | Pėsčiomis 7 | 14 tšk. oda | 57 | +7D6 | Uodegos smūgis 50%, 1D6+½dm; Sutrypimas 75%, 7D6+dm | Klausymasis 35%, Nuojauta 30%, Pastebėjimas 35% |
+| Kondoras, erelis ir kt. | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Skrydis 14 Pėsčiomis 2 | 1 tšk. plunksnos | 14 | +1D6 | Įkandimas 45%, 1D6; Nagai 45%, 1D6+dm | Išsisukimas 50%, Nuojauta 25%, Paieška 90% |
+| Šuo | 2D6 7 | 3D6 10–11 | 1D6+1 4–5 | 2D6 7 | 2D6+6 13 | Pėsčiomis 10 Plaukti 6 | — | 7–8 | –1D4 | Įkandimas 30%, 1D6+½dm | Išsisukimas 55%, Klausymasis 75%, Nuojauta 90% |
+| Dramblys | 6D6+34 55 | 3D6+16 26–27 | 6D6+42 63 | 2D6+6 13 | 3D6 10–11 | Pėsčiomis 10 Plaukti 2 | 4 tšk. oda | 45 | +6D6 | Sutrypimas 50%, 4D6+dm; Plūdimas 25%, 6D6+dm; Straublys 50%, suveržimas; Durimas 25%, 2D6+dm | Klausymasis 65%, Paieška 35%, Nuojauta 55% |
+| Gorila | 4D6+12 26 | 3D6+6 16–17 | 2D6+12 19 | 2D6 7 | 3D6+6 16–17 | Pėsčiomis 12 Plaukti 2 | 3 tšk. kailis | 16 | +2D6 | Įkandimas 45%, 2D6; Imtynės 45%, 3D6+dm | Laipiojimas 70%, Slėpimasis 40%, Klausymasis 35%, Tylus judėjimas 60%, Paieška 30%, Nuojauta 40% |
+| Vanagas | 1D3 2 | 2D4 5 | 1D2 1–2 | 2D6 7 | 3D6+18 28–29 | Skrydis 12 Pėsčiomis 1 | — | 4 | –1D6 | Nagai 45%, 1D4+dm | Išsisukimas 75%, Pastebėjimas 100% |
+| Arklys | 3D6+18 28–29 | 2D6+6 13 | 4D6+12 26 | 3D6 10–11 | 3D6 10–11 | Pėsčiomis 12 Plaukti 2 | 1 tšk. oda | 20 | +2D6 | Spyris 20%, 2D8+dm; Plūdimas 10%, 2D6+dm; Įkandimas 10%, 1D6 | Išsisukimas 45%, Slėpimasis 25%, Tylus judėjimas 25%, Nuojauta 80% |
+| Vabzdžių spiečius | — | — | — | — | — | Skrydis 12 Pėsčiomis 10 | — | — | — | Žr. aprašymą. | Paieška 50% |
+| Liūtas | 2D6+12 19 | 3D6 10–11 | 3D6+6 16–17 | 2D6+6 13 | 2D6+12 19 | Pėsčiomis 10 Plaukti 2 | 2 tšk. oda | 14 | +1D6 | Įkandimas 40%, 1D10; Nagai 60%, 1D6+dm; Plėšymas 80%, 2D6+dm | Išsisukimas 20%, Slėpimasis 20%, Klausymasis 30%, Nuojauta 40%, Pėdsakų sekimas 15% |
+| Žiurkių būrys | — | — | — | — | — | Pėsčiomis 10 Plaukti 6 | — | — | — | # būrių ×5%, 1D3 žala | Laipiojimas 75%, Paieška 75%, Plaukimas 75% |
+| Ryklys | 3D6+12 22–23 | 2D6+9 16 | 3D6+12 22–23 | 3D6 10–11 | 2D6+3 10 | Plaukimas 10 | 5 tšk. oda | 19–20 | +2D6 | Įkandimas 75%, 2D6+dm; Peleko smūgis 50%, 2D3+½dm | Nuojauta 95%, Plaukimas 100% |
+| Gyvatė (smauglys) | 3D6+12 22–23 | 2D6+6 13 | 5D6 17–18 | 3D6 10–11 | 2D6+6 13 | Šliaužimas 6 Plaukimas 4 | 1 tšk. oda | 15–16 | +1D6 | Įkandimas 65%, 1D4+½dm; Smaugimas 40%, 1D6+dm; Prarijimas 100%, spec. | Laipiojimas 85%, Išsisukimas 60%, Slėpimasis 75%, Nuojauta 75%, Slapstymasis 90%, Plaukimas 70% |
+| Gyvatė (nuodinga) | 2D4 5 | 2D6 7 | 2D4 5 | 1D8 4–5 | 3D6 10–11 | Šliaužimas 6 Plaukimas 4 | — | 6 | –1D6 | Įkandimas 70%, 1D2+½dm (dūrimas) + nuodai. | Laipiojimas 50%, Išsisukimas 50%, Slėpimasis 80%, Nuojauta 65%, Slapstymasis 90%, Plaukimas 70% |
+| Kalmaras (milžiniškas) | 10D6 35 | 2D6+6 13 | 10D6 35 | 3D6 10–11 | 2D6+12 19 | Plaukimas 10 „Pėsčiomis“ 4 | 2 tšk. oda | 24 | +3D6 | Snapas 45%, 1D10+½dm + nuodai; Čiuptuvas 45%, 1D6+dm | Slėpimasis 70%, Plaukimas 100% |
+| Tigras | 3D6+12 22–23 | 3D6 10–11 | 3D6+6 16–17 | 3D6 10–11 | 2D6+12 19 | Pėsčiomis 12 | 2 tšk. oda | 13–14 | +1D6 | Įkandimas 45%, 1D10+½dm; Nagai 70%, 1D8+dm; Plėšymas 80%, 2D8+dm | Išsisukimas 45%, Slėpimasis 80%, Šuolis 55%, Slapstymasis 75%, Nuojauta 70%, Pėdsakų sekimas 50% |
+| Tyranozauras Rex | 10D6+32 67 | 4D6+21 35 | 6D6+32 53 | 2D6+6 13 | 2D6+9 16 | Pėsčiomis 12 | 10 tšk. oda | 44 | +6D6 | Įkandimas 50%, 2D6+dm; Priekinė koja 35%, 1D4+½dm; Spyris 45%, 1D6+dm | Šuolis 50%, Klausymasis 45%, Nuojauta 35%, Pastebėjimas 50%, Pėdsakų sekimas 50% |
+| Vilkas | 2D6+6 13 | 3D6 10–11 | 2D6+1 8 | 3D6 10–11 | 2D6+6 13 | Pėsčiomis 10 | 2 tšk. kailis | 9–10 | — | Įkandimas 30%, 1D8+½dm | Išsisukimas 35%, Klausymasis 75%, Nuojauta 90%, Pastebėjimas 60%, Pėdsakų sekimas 80% |
 
 ### Pastabos apie natūralius gyvūnus
 
-Dauguma natūralių gyvūnų turi primityvų intelektą (INT 3–5), retai kovoja iki mirties ir paprastai yra teritorinio elgesio. Jei ridenamas specialus sėkmės rezultatas bet kokiai atakai, įkandimai ir nagai yra pjaunantys (retai praduriantys), čiuptuvai ir smaugimas yra įpainiojantys ir traiškantys, trypimas ar spardymas yra traiškantys ir galintys atstumti (pagal būtybės SIZ). Būtybėms su nuodais tai aprašyta **Nuodų** skyriuje septintame skyriuje: Pastebėjimo taisyklės. Atakos pateiktos pagal pageidaujamą eiliškumą. Būtybės be Vengimo įgūdžio arba nevengia, arba įgūdis netaikomas. Žalos modifikatoriai yra vidutiniai; modifikuokite, jei STR ar SIZ rodo kitaip.
+Dauguma natūralių gyvūnų turi primityvų intelektą (INT 3–5), retai kovoja iki mirties ir paprastai yra teritorinio elgesio. Jei atliekamas specialus sėkmės metimas bet kokiai atakai, įkandimai ir nagai yra pjaunantys (retai dūriantys), čiuptuvai ir smaugimas yra raizgantys ir traiškantys, sutrypimai ar spyriai yra traiškantys ir gali sukelti atstūmimą (pagal būtybės DYD). Nuodingoms būtybėms nuodai aptariami **Nuodų** skyriuje, Septintame skyriuje: Taškinės taisyklės. Atakos pateikiamos pirmenybės tvarka. Būtybės be „Išsisukimo“ įgūdžio arba neišsisukinėja, arba įgūdis netaikomas. Žalos modifikatoriai yra vidutiniai; modifikuokite, jei JĖG ar DYD rodo kitaip.
 
-**Aligatorius ar krokodilas:** Aligatoriai yra mažesni ir silpnesni (–1D6 STR ir SIZ), turi mažesnius nasrus (1D8+dm) ir yra mažiau agresyvūs nei krokodilai.
+**Aligatorius ar krokodilas:** Aligatoriai yra mažesni ir silpnesni (–1D6 JĖG ir DYD), turi mažesnius nasrus (1D8+dm) ir yra ne tokie agresyvūs kaip krokodilai.
 
-**Lokys:** Lokiai gali atakuoti du kartus per raundą, naudodami arba du atskirus nagų smūgius, arba vieną nagų ir vieną įkandimo ataką. Grizliai yra didesni, stipresni (STR +1D6, CON +2, SIZ +2, +1 šarvai) ir nuožmesni (+10% kovos įgūdžiams). Baltieji lokiai yra didesni ir galingesni (STR +2D6, CON +1D6+2, SIZ +2D6, +3 šarvai, +20% atakų įgūdžiams, Plauk. 80%).
+**Lokys:** Lokiai gali atakuoti du kartus per raundą, naudodami arba du atskirus nagų smūgius, arba vieną nagų ir vieną įkandimo ataką. Grizliai yra didesni, stipresni (JĖG +1D6, IŠT +2, DYD +2, +1 šarvai) ir aršesni (+10% kovos įgūdžiams). Poliariniai lokiai yra didesni ir galingesni (JĖG +2D6, IŠT +1D6+2, DYD +2D6, +3 šarvai, +20% atakų įgūdžiams, Plaukimas 80%).
 
-**Brontozauras:** Brontozaurai gali atakuoti vieną kartą per raundą, naudodami uodegą arba sutrypimą, jei juda. Uodegos smūgis yra ploto efekto ataka. Sutrypimas naudojamas tik prieš taikinius, kurie yra pargriauti arba kurių SIZ yra mažesnis nei 1/3 brontozaurų SIZ.
+**Brontozauras:** Brontozaurai gali atakuoti vieną kartą per raundą, naudodami uodegos smūgį arba sutrypimą, jei juda. Uodegos smūgis yra zonos efekto ataka. Sutrypimas naudojamas tik prieš taikinius, kurie yra parblokšti arba kurių DYD yra mažesnis nei 1/3 brontozaurų DYD.
 
-**Šuo:** Laukiniai šunys formuoja 1D8+3 ar didesnes gaujas. Didesniems šunims naudokite vilkų statistiką.
+**Šuo:** Laukiniai šunys sudaro 1D8+3 ar daugiau individų būrius. Didesniems šunims naudokite vilkų statistiką.
 
-**Dramblys:** Nors jie labiau mėgsta tiesiog įsiveržti ar sutrypti, dramblys gali atakuoti straubliu. Jei taip, žala nedaroma. Vietoj to taikinys turi atlikti STR pasipriešinimo metimą prieš pusę dramblio STR. Jei nepavyksta, jie pastatomi į padėtį, kurioje kitame raunde bus automatiškai sutrypti. Alternatyviai, dramblys gali nusviesti auką tolyn, darydamas kritimo žalą, pagrįstą vienu metru už kiekvienus 3 dramblio STR taškus. Už kiekvienus 6 SIZ taškus, kuriuos auka viršija 16, jie nukrenta dviem metrais arčiau ir patiria mažiau žalos.
+**Dramblys:** Nors jie labiau mėgsta tiesiog pulti arba sutrypti, dramblys gali atakuoti straubliu. Jei taip daro, žala nedaroma. Vietoj to taikinys turi atlikti pasipriešinimo metimą: savo JĖG prieš pusę dramblio JĖG. Jei nepavyksta, taikinys atsiduria padėtyje, kurioje kitą raundą bus automatiškai sutryptas. Alternatyviai dramblys gali nusviesti auką tolyn, padarydamas kritimo žalą (pagal vieną metrą už kiekvienus 3 dramblio JĖG taškus). Už kiekvienus 6 aukos DYD taškus virš 16, auka nukrenta dviem metrais arčiau ir patiria mažiau žalos.
 
-**Gorila:** Gorila gali atakuoti du kartus kiekviename raunde. Ji gali smūgiuoti dukart kumščiais, įkasti ir smūgiuoti, arba įkasti ir imtyniauti. Jei imtynės pavyksta, ji suspaudžia taikinį ir daro pilną žalos modifikatorių kiekviename raunde. Imtyniaudama ji gali toliau kandžiotis (lengva ataka). Gorilos patelės yra mažesnės už patinus (–1D6 STR ir SIZ).
+**Gorila:** Gorila gali atakuoti du kartus per raundą. Ji gali smogti kumščiais du kartus, įkąsti ir smogti, arba įkąsti ir imtyniauti. Jei imtynės sėkmingos, ji sučiumpa taikinį ir kiekvieną raundą daro pilną žalos modifikatorių. Imtynių metu ji gali toliau kandžiotis (lengva ataka). Gorilų patelės yra mažesnės už patinus (–1D6 JĖG ir DYD).
 
-**Vanagas:** Vanagas atakuoja abiem nagais vienu metu, o įkanda 5 rangais vėliau.
+**Vanagas:** Vanagas vienu metu atakuoja abiem nagais, o įkanda 5 VIK laipsniais vėliau.
 
-**Arklys:** Kovai neapmokyti arkliai bėga susidūrę su krauju, ugnimi, šūviais, riksmais ar sprogimais. Karo arkliai yra dresuojami smurtui ir išlaiko poziciją, jei raitelio Jojimo patikrinimas sėkmingas. Karo arkliai paprastai veisiami dėl ištvermės (+2 STR, CON ir SIZ).
+**Arklys:** Kovai neapmokyti arkliai bėga susidūrę su krauju, ugnimi, šūviais, riksmais ar sprogimais. Karo arkliai yra apmokyti smurtui ir laikosi savo pozicijų, jei raitelis sėkmingai atlieka Jojimo patikrinimą. Karo arkliai paprastai veisiami dėl ištvermės (+2 JĖG, IŠT ir DYD).
 
-**Vabzdžių spiečius:** Avilio dydis lemia įgėlimų skaičių per raundą. Mažas vapsvų lizdas gali įgelti 1D6 kartus per raundą, didėjant iki didžiulio bičių ar skruzdėlynų, darančių 8D6. Kauliukų tipas gali būti koreguojamas pagal nuodų stiprumą (1 tšk. už nedidelį dirginimą iki D10 už piktus plėšrius vabzdžius). Kiekvienas veikėjas, kurį užpuola spiečius, yra automatiškai geliamas nurodytą kartų skaičių kiekvieną kovos raundą, kol pabėga, atbaido ar sunaikina spiečių. Vabzdžių spiečius atakuoja 2D6 kovos raundus prieš pasiduodamas. Nebent taikiniai yra visiškai uždengti ar izoliuoti, apsaugos nuo vabzdžių spiečiaus nėra. Sunkus Vengimo metimas gali padėti išvengti spiečiaus, arba gali būti naudojami kiti būdai (ugnis, dūmai, nuodai ir t.t.) jį atbaidyti. Bet kokia apsauginė įranga, kurią veikėjas dėvi, sumažins įgėlimų skaičių per D6: lengva įranga sumažina kiekvieną kauliuką –1, bitininko įranga –4, o visiškas uždengimas reiškia, kad įgėlimų visai nėra. Kai įgeliama, nuodų faktorius priklauso nuo vabzdžio tipo: bitės 20, vapsvos 15, skruzdėlės 10. Padalinkite bendrą įgėlimų skaičių iš nuodų faktoriaus, kad gautumėte nuodų stiprumą (POT). Po 1D6 valandų kiekvienas įgeltas veikėjas turi atlikti CON pasipriešinimo metimą prieš nuodų POT. Jei sėkmingas, jie pasipriešina nuodų POT ir patiria pusę nuodų POT (suapvalinti į viršų) žalos gyvybės taškams. Jei nesėkmingas, jie patiria visą nuodų stiprumą kaip žalą gyvybės taškams. Sėkminga intervencija su priešnuodžiu ar atitinkamu gydymu gali sumažinti įgėlimų skaičių dar 1D4–1 per 1D6, su sėkmingu Pirmojo pagalbos patikrinimu ir tinkamomis medicinos priemonėmis. Veikėjas su sėkmingu Pirmojo pagalbos patikrinimu gali atlikti antrą Sunkų Chemijos patikrinimą, kad suimprovizuotų priešnuodį iš turimų chemikalų ar medžiagų (žr. **Priešnuodžiai**).
+**Vabzdžių spiečius:** Avilio dydis lemia įgėlimų skaičių per raundą. Mažas vapsvų lizdas gali įgelti 1D6 kartus per raundą, o milžiniškas bičių avilys ar skruzdėlynas – 8D6 kartus. Kauliukų tipas gali būti koreguojamas atsižvelgiant į nuodų stiprumą (1 tšk. už nedidelį dirginimą iki D10 už aršius plėšriuosius vabzdžius). Kiekvienas veikėjas, užpultas spiečiaus, automatiškai įgėlimų gauna numestą skaičių kartų kiekviename kovos raunde, kol pabėga, atbaido ar sunaikina spiečių. Vabzdžių spiečius atakuoja 2D6 kovos raundus, tada pasiduoda. Jei taikiniai nėra visiškai apsaugoti ar uždaryti, apsaugos nuo vabzdžių spiečiaus nėra. Sunkus „Išsisukimo“ metimas gali padėti išvengti spiečiaus, arba galima panaudoti kitas priemones (ugnį, dūmus, nuodus ir kt.) jį atbaidyti. Bet kokia apsauginė įranga, kurią veikėjas dėvi, sumažins įgėlimų skaičių per D6: lengva įranga sumažina kiekvieną kauliuką –1, bitininko įranga –4, o visiškas kūno uždengimas reiškia jokių įgėlimų. Įgėlus, nuodų faktorius priklauso nuo vabzdžių rūšies: bitės 20, vapsvos 15, skruzdėlės 10. Padalinkite bendrą įgėlimų skaičių iš nuodų faktoriaus, kad gautumėte nuodų stiprumą (POT). Po 1D6 valandų kiekvienas įgeltas veikėjas privalo atlikti IŠT pasipriešinimo metimą prieš nuodų POT. Jei sėkmingas, jie atlaiko nuodus ir patiria pusę POT (suapvalinti į viršų) gyvybės taškų žalą. Jei nesėkmingas, jie patiria pilną POT žalą. Sėkminga intervencija su priešnuodžiais gali sumažinti įgėlimų skaičių dar 1D4–1 per 1D6, su sėkmingu Pirminės pagalbos patikrinimu ir tinkamomis medicinos priemonėmis. Veikėjas su sėkminga Pirminės pagalbos patikra gali atlikti antrą sunkų Chemijos patikrinimą, kad improvizuotų priešnuodį iš turimų medžiagų (žr. **Priešnuodžiai**).
 
-**Liūtas:** Liūtas gali atlikti vieną nagų ataką ir vieną įkandimą kiekviename kovos raunde. Jei abi atakos pataiko, liūtas laikosi kitą raundą ir toliau kanda. Užuot draskęs nagais, jis drasko užpakaliniais nagais.
+**Liūtas:** Liūtas per kovos raundą gali atlikti vieną nagų ataką ir vieną įkandimo ataką. Jei abi atakos pataiko, liūtas įsikabina kitam raundui, tęsdamas įkandimą. Užuot draskęs nagais, jis gali draskyti užpakalinėmis kojomis.
 
-**Žiurkių gauja:** Kiekvieną „gaują“ sudaro dešimt žiurkių. Padauginkite žiurkių gaujų skaičių iš ×5: šis rezultatas yra atakos šansas kiekvienai gaujai kiekviename kovos raunde (ridenti kiekvienai gaujai). Kiekviena sėkminga ataka padaro 1D3 žalos į kojų ir/ar pilvo hit vietas (jei naudojamos hit vietos). Specialūs sėkmės atvejai daro pjaunančią žalą. Nuo žiurkių gaujos atakos galima išvengti, bet ne atremti. Atakos prieš jas yra Sunkios, tačiau sėkminga ataka automatiškai užmuša vieną žiurkę ir išbaido likusią gaują, mažindama tolimesnių atakų efektyvumą. Žiurkių įkandimai taip pat gali būti užkrėsti (žr. Liga).
+**Žiurkių būrys:** Kiekvieną „būrį“ sudaro dešimt žiurkių. Padauginkite žiurkių būrių skaičių iš ×5: šis rezultatas yra atakos šansas kiekvienam būriui kiekviename kovos raunde (meskite kiekvienam būriui atskirai). Kiekviena sėkminga ataka padaro 1D3 žalą kojoms ir/ar pilvui (jei naudojamos kūno vietos). Specialios sėkmės daro pjaunančią žalą. Žiurkių būrio ataką galima „išsisukti“, bet negalima blokuoti. Atakos prieš juos yra Sunkios, tačiau sėkminga ataka automatiškai nužudo vieną žiurkę ir išvaiko likusį būrį, mažindama tolesnių atakų efektyvumą. Žiurkių įkandimai taip pat gali būti užkrėsti (žr. Ligos).
 
-**Ryklys:** Jei ryklio įkandimas nepataiko ar jo išvengiama, jis bando pelekų smūgį 5 DEX rangais vėliau. Jei ryklio įkandimas atremiamas arba pataiko, jis nebando pelekų smūgio. Po sėkmingo įkandimo, kai kurie rykliai (pvz., didieji baltieji) toliau kanda ir blaškosi vėlesniuose kovos raunduose (lengva ataka tai pačiai žalai), kol yra atstumiami arba taikinys miršta. Milžiniškas ryklys turi STR ir SIZ 6D6+24, CON 4D6+18, 39 gyvybės taškus ir +5D6 žalos modifikatorių.
+**Ryklys:** Jei ryklio įkandimas nepataiko ar yra išsisukamas, jis bando peleko smūgį 5 VIK laipsniais vėliau. Jei ryklio įkandimas blokuojamas ar pataiko, jis peleko smūgio nebandys. Po sėkmingo įkandimo kai kurie rykliai (pvz., didieji baltieji) tęsia kandžiojimą ir draskymą kituose kovos raunduose (lengva ataka tai pačiai žalai), kol yra atkabinami arba taikinys žūsta. Milžiniškas ryklys turi JĖG ir DYD 6D6+24, IŠT 4D6+18, 39 gyvybės taškus ir +5D6 žalos modifikatorių.
 
-**Gyvatė (smauglys):** Smauglys gali atakuoti dukart kovos raunde: pirmiausia įkanda, o tada 5 DEX rangais vėliau bando smaugti. Jei smaugimo ataka pataiko, taikinys įsukamas į smauglio žiedus. Taikinys gali gaudyti orą, bet negali šaukti. Kiekvienas smaugimo raundas daro žalą taikinio gyvybės taškams (krūtinės hit vieta). Tik standūs krūtinės šarvai (jei naudojami hit vietų šarvai) sumažina šią žalą. Jei viena galūnė laisva, taikinys gali atlikti Sunkias atakas prieš smauglį. Jei nė viena galūnė nėra laisva, taikinys daugeliu atvejų negali atakuoti (žaidimo vedėjo nuožiūra). Norint visiškai išsivaduoti iš smaugimo, taikinys turi atlikti sėkmingą STR pasipriešinimo metimą prieš smauglio STR, užuot atakavęs raunde. Daliniam išsivadavimui Sunkus Judrumo metimas išlaisvina vieną ranką ar kitą galūnę. Smaugiamas taikinys turi sėkmingai atlikti Ištvermės metimą arba prarasti sąmonę. Kai taikinys yra be sąmonės arba miręs, smauglys praryja jį visą. Nebent dėvima kvėpavimo aparatūra, kuri išgyveno sutraiškymą, taikinys uždūsta. Milžiniškas smauglys prideda +2D6 prie STR ir SIZ, turi 19 gyvybės taškų, +2D6 žalos modifikatorių ir 4 tšk. žvynuotą odą.
+**Gyvatė (smauglys):** Smauglys gali atakuoti du kartus kovos raunde: pirmiausia įkanda, o 5 VIK laipsniais vėliau bando smaugti. Jei smaugimo ataka pataiko, taikinys apvyniojamas smauglio kūnu. Taikinys gali griebti oro, bet negali šaukti. Kiekvienas smaugimo raundas daro žalą taikinio gyvybės taškams (krūtinės sritis). Tik standūs krūtinės šarvai (jei naudojami šarvai pagal kūno vietas) sumažina šią žalą. Jei viena galūnė laisva, taikinys gali atlikti Sunkias atakas prieš smauglį. Jei nė viena galūnė nėra laisva, taikinys daugeliu atvejų negali atakuoti (meistro nuožiūra). Kad visiškai išsilaisvintų iš smaugimo, taikinys turi atlikti sėkmingą savo JĖG pasipriešinimo metimą prieš smauglio JĖG, užuot atakavęs tą raundą. Daliniam išsilaisvinimui, Sunkus Judrumo patikrinimas išlaisvina vieną ranką ar kitą galūnę. Smaugiamas taikinys privalo sėkmingai atlaikyti Ištvermės metimą arba prarasti sąmonę. Kai taikinys praranda sąmonę ar žūsta, smauglys jį praryja. Jei taikinys nedėvi kvėpavimo aparato, kuris išliko nesutraiškytas, jis uždūsta. Milžiniškas smauglys prideda +2D6 prie JĖG ir DYD, turi 19 gyvybės taškų, +2D6 žalos modifikatorių ir 4 taškų žvynų odą.
 
-**Gyvatė (nuodinga):** Pasitarkite su **Nuodų** ir **Nuodų pavyzdžių** skyriais dėl daugiau informacijos apie įvairius nuodingų gyvačių tipus. Milžiniška nuodinga gyvatė turi STR ir SIZ 4D6+12, 17 gyvybės taškų ir +2D6 žalos modifikatorių.
+**Gyvatė (nuodinga):** Daugiau informacijos apie įvairių rūšių nuodingas gyvates rasite skyriuose **Nuodai** ir **Nuodų pavyzdžiai**. Milžiniška nuodinga gyvatė turi JĖG ir DYD 4D6+12, 17 gyvybės taškų ir +2D6 žalos modifikatorių.
 
-**Kalmaras (milžiniškas):** Kalmaras gali atakuoti iki penkių skirtingų taikinių vienu metu snapu ir dešimčia čiuptuvų. Kalmaro nuodai turi POT, lygų jo CON. Pirmasis sėkmingai pataikantis į taikinį čiuptuvas laikosi įsikibęs, o kai prisijungia antrasis, abu suspaudžia taikinį, kol jis gali pabėgti ar nusipjauti (kiekvienas čiuptuvas turi 2 gyvybės taškus). Kiekvienas prie taikinio likęs čiuptuvas daro normalią žalą kiekviename kovos raunde. Norėdami išsivaduoti iš čiuptuvo, atlikite sėkmingą STR vs. kalmaro STR pasipriešinimo metimą, arba Sunkų Pastangų metimą, kad išlaisvintumėte ranką atakai. Atakos prieš kalmarą būnant laikomam jo čiuptuvų yra Sunkios. Leviatano dydžio kalmaras, galintis kovoti su laivais ir banginiais, turi SIZ ir STR +1D6 už kiekvieną padidėjusį metrą nuo čiuptuvo galiuko iki galiuko, atitinkamai didinant gyvybės taškus ir žalos modifikatorių.
+**Kalmaras (milžiniškas):** Kalmaras gali atakuoti iki penkių skirtingų taikinių vienu metu savo snapu ir dešimčia čiuptuvų. Kalmaro nuodai turi POT, lygų jo IŠT. Pirmas sėkmingai pataikęs čiuptuvas laikosi įsikibęs į taikinį, o kai prisijungia antras, abu smaugia taikinį, kol jis išsilaisvina arba nusipjauna (kiekvienas čiuptuvas turi 2 gyvybės taškus). Kiekvienas čiuptuvas, likęs aplink taikinį, kiekvieną kovos raundą daro įprastą žalą. Norėdami išsivaduoti iš čiuptuvo, atlikite sėkmingą JĖG pasipriešinimo metimą prieš kalmaro JĖG arba Sunkų Pastangų patikrinimą, kad atlaisvintumėte ranką ir galėtumėte atakuoti. Atakos prieš kalmarą, kai taikinys laikomas čiuptuvais, yra Sunkios. Leviatano dydžio kalmaras, galintis kovoti su valtimis ir banginiais, turi DYD ir JĖG +1D6 už kiekvieną metrą padidėjusio atstumo tarp čiuptuvų galų, atitinkamai didinant gyvybės taškus ir žalos modifikatorių.
 
-**Tigras:** Tigras kiekviename kovos raunde gali atlikti dvi vienalaikes nagų atakas ir vieną įkandimą. Įkandimas įvyksta 5 DEX rangais po nagų atakų. Jei abu nagai sėkmingai pataiko į taikinį, tigras įsikimba ir kitame raunde drasko užpakaliniais nagais, tęsdamas įkandimą.
+**Tigras:** Tigras per kiekvieną kovos raundą gali atlikti du vienalaikius nagų smūgius ir vieną įkandimą. Įkandimas įvyksta 5 VIK laipsniais po nagų atakų. Jei abu nagai sėkmingai pataiko į taikinį, tigras įsikabina ir kitą raundą drasko užpakalinėmis letenomis, tęsdamas įkandimą.
 
-**Tiranozauras Reksas:** Tiranozauras atakuoja pirmiausia įkandimu. Jei sėkmingai, 5 DEX rangais vėliau jis atakuoja abiem priekiniais nagais, kad sučiuptų taikinį tolimesniam draskymui. Didesniems taikiniams jis priekinių nagų atakas pakeičia vienu spiriamuoju smūgiu, kartais net užlipdamas ant taikinio ir kitame kovos raunde atakuodamas įkandimu bei dviem spyriais.
+**Tyranozauras Rex:** Tyranozauras pirmiausia atakuoja įkandimu. Jei sėkmingas, 5 VIK laipsniais vėliau jis atakuoja abiem priekinėmis letenomis, kad sučiuptų taikinį tolesniam draskymui. Didesniems taikiniams jis priekinių letenų atakas pakeičia vienu spyriu, kartais net užlipdamas ant taikinio ir kitame kovos raunde atakuodamas įkandimu bei dviem spyriais.
 
-**Vilkas:** Vilkai medžioja 12–40 ar daugiau individų gaujomis. Kovodami vilkai dažnai veikia bendradarbiaudami. Keli vilkai gali atakuoti tą patį taikinį vienu metu, užtikrindami, kad kai kurių nepavyktų atremti ar išvengti. Vienas ar du dideli vilkai gali bandyti pargriauti taikinį (žr. Pargriovimas). Kai taikinys pargriautas, kiti puola draskyti. Žaidimo vedėjas taip pat gali naudoti šią statistiką dideliam šuniui reprezentuoti.
+**Vilkas:** Vilkai medžioja 12–40 ar daugiau individų būriais. Kovoje vilkai dažnai bendradarbiauja. Keli vilkai gali vienu metu atakuoti tą patį taikinį, užtikrindami, kad kai kurių nebus galima blokuoti ar išsisukti. Vienas ar du dideli vilkai gali bandyti parblokšti savo taikinį (žr. Parblokšimas). Kai taikinys guli, kiti puola jį draskyti. Meistras taip pat gali naudoti šią statistiką dideliam šuniui pavaizduoti.
 
 ## Fantastinės būtybės
 
-Jos yra įprastos fantastiniuose ir siaubo pasauliuose ir gali būti naudojamos kaip sąjungininkai, priešai ar net žaidėjų veikėjai, modifikuoti pagal pageidavimą.
+Jos yra įprastos fantastiniuose ir siaubo pasauliuose ir gali būti naudojamos kaip sąjungininkai, priešai ar net žaidėjų personažai, modifikuoti pagal poreikį.
 
 ### Kentauras
 
-Pusiau žmogus, pusiau arklys, laikomi išmintingomis ir pastoracinėmis būtybėmis, žinių sergėtojais, puikiais amatininkais, didžiais muzikantais ir aršiais kariais. Jie gyvena lygumose ar miškuose ir laisvai bendrauja su žmonėmis, kartais tarnaudami mentoriais ar globėjais.
+Pusiau žmogus, pusiau arklys, sakoma, kad tai išmintingos ir pastoracinės būtybės, žinių saugotojai, puikūs meistrai, didūs muzikantai ir aršūs kariai. Jie gyvena lygumose ar miškuose ir laisvai bendrauja su žmonėmis, kartais tapdami mentoriais ar globėjais.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6 | 4D6+12 | 2D6+6 | 3D6 | 3D6+3 | 3D6 |
 | 16–17 | 10–11 | 26 | 13 | 10–11 | 13–14 | 10–11 |
@@ -166,79 +166,79 @@ Pusiau žmogus, pusiau arklys, laikomi išmintingomis ir pastoracinėmis būtyb�
 
 **Atakos:**
 
-* Kompozicinis lankas 45%, 1D8+1+½dm (pradurianti)
-* Ietis 35%, 1D10+1+dm (pradurianti)
-* Bastardo kardas 40%, 1D10+1+dm (pjaunanti)
-* Taikininis skydas 50%, 1D2+dm (atstumianti)
-* Spirti 50%, 1D6+dm (traiškanti)
-* Atsistoti piestu ir pulti 35%, 2D8+dm (traiškanti)
-* Sutrypti 25%, 2D6+dm (traiškanti)
+* Kompozicinis lankas 45%, 1D8+1+½dm (dūrimas)
+* Ietis 35%, 1D10+1+dm (dūrimas)
+* Bastardo kardas 40%, 1D10+1+dm (pjovimas)
+* Taikinis skydas 50%, 1D2+dm (atstūmimas)
+* Spyris 50%, 1D6+dm (traiškymas)
+* Stojimasis piestu ir plūdimas 35%, 2D8+dm (traiškymas)
+* Sutrypimas 25%, 2D6+dm (traiškymas)
 
-Kentauras gali spirti 5 DEX rangais po smūgio artimos kovos ginklu, nors ne tada, kai puola su ietimi. Jų žalos modifikatorius su artimos kovos ginklais remiasi STR ×2, bet normalus spiriant, sutrypiant ar šuoliuojant.
+Kentauras gali spirti 5 VIK laipsniais po smūgio artimos kovos ginklu, bet ne tada, kai puola su ietimi. Jų žalos modifikatorius su artimos kovos ginklais remiasi JĖG ×2, bet yra įprastas spyriams, sutrypimams ar puolimams.
 
-**Galia:** Kentaurai pirmenybę teikia magijai, o ne burtams. Kentauras, turintis pakankamai POW magijai, turi šiuos burtus: Stiprinimas 35%, Gydymas 60%, Iliuzija 45%, Suvokimas 40%, Regėjimas 50%.
+**Galios:** Kentaurai pirmenybę teikia magijai, o ne burtams. Kentauras su pakankamai GAL magijai turi šiuos kerus: Patobulinimas 35%, Gydymas 60%, Iliuzija 45%, Suvokimas 40% ir Vizija 50%.
 
-**Įgūdžiai:** Vertinimas 50%, Derybos 35%, Vadovavimas 25%, Vengimas 35%, Etiketas 35%, Įžvalga 40%, Pirmoji pagalba 40%, Šuolis 60%, Žinios (istorija) 50%, Klausymas 35%, Atlikimas (lyra) 35%, Jautrumas 50%, Pastebėjimas 40%, Plaukimas 35%, Sekimas 25%.
+**Įgūdžiai:** Vertinimas 50%, Derybos 35%, Komandavimas 25%, Išsisukimas 35%, Etiketas 35%, Įžvalga 40%, Pirmoji pagalba 40%, Šuolis 60%, Žinios (istorija) 50%, Klausymasis 35%, Atlikimas (lyra) 35%, Nuojauta 50%, Pastebėjimas 40%, Plaukimas 35%, Pėdsakų sekimas 25%.
 
 ### Drakonas
 
-Milžiniški, ugnimi kvėpuojantys skraidantys ropliai su didžiuliais nagais ir dantimis, tvirta šarvuota oda. Drakonai yra vienišos būtybės, gyvenančios vienos ir niokojančios aplinkines vietoves. Kai kurie drakonai yra protingi, bet daugelis – tik klastingi žvėrys. Jie dažnai kaupia turtus, kolekcionuodami auksą ar kitus lobius savo urvuose. Ši statistika reprezentuoja žvėrišką drakoną. Drakonai gali būti skirtingų tipų, besiskiriantys spalva ir kvėpavimo ginklu (žr. žemiau). Kai kurie drakonai gali net neturėti sparnų arba turėti žymiai kitokias charakteristikas.
+Milžiniški, ugnimi kvėpuojantys skraidantys ropliai su didžiuliais nagais ir dantimis, tvirta šarvuota oda. Drakonai yra vienišos būtybės, gyvenančios atskirai ir niokojančios aplinkines vietoves. Kai kurie drakonai yra protingi, bet daugelis – tik klastingi žvėrys. Jie dažnai yra kauptikai, savo urvuose renkantys auksą ar kitus lobius. Ši statistika reprezentuoja žvėrišką drakoną. Drakonai gali būti skirtingų tipų, besiskiriantys spalva ir kvėpavimo ginklu (žr. toliau). Kai kurie drakonai gali net neskraidyti arba turėti žymiai skirtingas charakteristikas.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 20D6 | 10D6 | 20D6 | 10 | 4D6+6 | 3D6 |
 | 70 | 35 | 70 | 10 | 20 | 10–11 |
 
-| Judėjimas 4 (10 skrydyje) | Gyvybės taškai 53 |
+| Judėjimas 4 (10 skrendant) | Gyvybės taškai 53 |
 | :---- | :---- |
 | **Žalos modifikatorius** +8D6 | **Šarvai** 12 tšk. žvynai |
 
 **Atakos:**
 
-* Ugnies kvėpavimas 75%, 4D6+spec. (žr. žemiau)
-* Įkandimas 65%, 3D6+dm (pradurianti)
-* Nagai 50%, 1D6+dm (kraujuojanti)
-* Uodega 50%, 1D6+½dm (traiškanti)
+* Ugnies alsavimas 75%, 4D6+spec. (žr. toliau)
+* Įkandimas 65%, 3D6+dm (dūrimas)
+* Nagai 50%, 1D6+dm (kraujavimas)
+* Uodega 50%, 1D6+½dm (traiškymas)
 
-Drakonai atakuoja skrisdami virš galvų ir spjaudydami ugnį žemyn į taikinius. Drakono ugnis uždengia trijų metrų skersmens plotą su nuotoliu, lygiu drakono POW metrais (žr. **Ploto atakos**), bet šarvai apsaugos nuo šios žalos. Jei naudojamos hit vietos, ugnis veikia visas hit vietas: 4D6 ridenama vieną kartą ir žala paskirstoma tarp hit vietų. Drakonas turi išleisti 1D6 galios taškus (arba nuovargio taškus), kad iškvėptų ugnį. Be to, bet koks pataikytas taikinys greičiausiai užsidega. Skrisdamas drakonas turi tik savo kvėpavimo ataką, nebent patenka į artimą kovą su oro taikiniu.
+Drakonai atakuoja skrisdami virš galvų ir leisdami ugnį į savo taikinius. Drakono ugnis padengia trijų metrų skersmens plotą, kurio nuotolis lygus drakono GAL metrais (žr. **Zoninės atakos**), tačiau šarvai apsaugos nuo šios žalos. Jei naudojamos kūno vietos, ugnis paveikia visas kūno vietas: 4D6 metama vieną kartą; ir žala padalijama tarp kūno vietų. Drakonas privalo išleisti 1D6 galios taškų (ar ištvermės taškų), kad išspjautų ugnį. Be to, bet koks pataikytas taikinys greičiausiai užsidegs. Skrisdamas drakonas turi tik savo kvėpavimo ataką, nebent patenka į artimą kovą su ore esančiu taikiniu.
 
-Būdamas ant žemės, drakonas kiekviename kovos raunde gali atlikti dvi atakas: arba įkandimą, arba ugnies kvėpavimą vienai atakai, o kitai – nagų smūgį arba uodegos mostą. Antra ataka vyksta 5 DEX rangais po pirmosios. Drakono uodegos mostas tvarkomas kaip ploto efekto ataka (žr. *7 skyrius: Pastebėjimo taisyklės*).
+Būdamas ant žemės, drakonas per kovos raundą gali atlikti dvi atakas: jis gali arba įkąsti, arba kvėpuoti ugnimi, o kita ataka bus nagais arba uodegos smūgiu. Antroji ataka įvyksta 5 VIK laipsniais po pirmosios. Drakono uodegos smūgis tvarkomas kaip zonos efekto ataka (žr. *Septintą skyrių: Taškinės taisyklės*).
 
-**Įgūdžiai:** Vengimas 35%, Skrydis 100%, Klausymas 65%, Jautrumas 50%, Pastebėjimas 60%, Sekimas 45%.
+**Įgūdžiai:** Išsisukimas 35%, Skrydis 100%, Klausymasis 65%, Nuojauta 50%, Pastebėjimas 60%, Pėdsakų sekimas 45%.
 
-**Galia:** Drakonai yra itin magiškos būtybės. Protingi drakonai turi 4D6 INT ir išmano magiją ar burtus. Tokiu atveju drakonas turi papildomų įgūdžių, tokių kaip Kalbos mokėjimas, įvairios Žinios ir net Vertinimas. Drakonai taip pat gali turėti kitokių nei ugnis kvėpavimo ginklų (žr. Energijos projekcija).
+**Galios:** Drakonai yra itin magiškos būtybės. Protingi drakonai turi 4D6 INT ir išmano magiją ar burtus. Tokiu atveju drakonas turi papildomų įgūdžių, tokių kaip Kalbų mokėjimas, įvairios žinios ir net Vertinimas. Drakonai taip pat gali turėti kitų kvėpavimo ginklų, ne tik ugnį (žr. Energijos projekcija).
 
 ### Nykštukas
 
-Nykštukai tradiciškai gyvena po žeme, urvuose ir katakombose. Jie garsėja trumpu būdu, puikiu meistriškumu, senomis nuoskaudomis, besaikiu gėrimu ir ilgomis barzdomis. Jie didžiuojasi savo kilme, ir skirtumai tarp įvairių nykštukų genčių yra reikšmingi.
+Nykštukai tradiciškai gyvena po žeme, urvuose ir katakombose. Jie garsėja ūmiu būdu, puikiu meistriškumu, senoviniais priešiškumais, besaikiu gėrimu ir ilgomis barzdomis. Jie didžiuojasi savo kilme, o skirtumai tarp skirtingų nykštukų genčių yra reikšmingi.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 1D6+12 | 1D4+4 | 2D6+6 | 3D6 | 3D6 | 3D6 |
 | 14 | 15–16 | 6–7 | 13 | 10–11 | 10–11 | 10–11 |
 
 | Judėjimas 6 | Gyvybės taškai 12 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** 8 tšk. (grandiniai ir lengvas šalmas) |
+| **Žalos modifikatorius** Nėra | **Šarvai** 8 tšk. (grandiniai šarvai ir lengvas šalmas) |
 
 **Atakos:**
 
-* Kūjis 35%, 1D6+dm (traiškanti)
-* Kovos kirvis 50%, 1D8+2+dm (kraujuojanti)
-* Sunkus arbaletas 40%, 2D4+2 (pradurianti)
-* Mažas skydas 50%, 1D2+dm (atstumianti)
+* Kūjis 35%, 1D6+dm (traiškymas)
+* Kovos kirvis 50%, 1D8+2+dm (kraujavimas)
+* Sunkus arbaletas 40%, 2D4+2 (dūrimas)
+* Mažas skydas 50%, 1D2+dm (atstūmimas)
 
-**Įgūdžiai:** Vertinimas 50%, Derybos 45%, Imtynės 50%, Amatas (kalvystė) 45%, Vengimas 40%, Grumtynės 45%, Žinios (nykštukų lore) 35%, Kalba (žmonių) 35%, Kalba (nykštukų) 65%, Klausymas 45%, Taisymas (ginklai ir šarvai) 35%, Pastebėjimas 45%, Statusas 35%, Mėtymas 35%.
+**Įgūdžiai:** Vertinimas 50%, Derybos 45%, Imtynės (muštynės) 50%, Amatai (kalvystė) 45%, Išsisukimas 40%, Imtynės 45%, Žinios (nykštukų mokymas) 35%, Kalba (žmonių) 35%, Kalba (nykštukų) 65%, Klausymasis 45%, Remontas (ginklų ir šarvų) 35%, Pastebėjimas 45%, Statusas 35%, Metimas 35%.
 
-**Galia:** Tradiciškai nykštukai vengia magijos, nors kai kurie naudoja magiją ar burtus. Nykštukai turi natūralų gebėjimą kaip Super Jautrumas (tamsos rega), kurio lygis lygus ½ jų POW (suapvalinti į viršų).
+**Galios:** Tradiciškai nykštukai vengia magijos, nors kai kurie naudoja magiją ar burtus. Nykštukai turi natūralų gebėjimą, pavyzdžiui, Super-jutimą (Tamsos matymas), su lygiais, lygiais ½ (suapvalinti į viršų) jų GAL.
 
 ### Elfas
 
-Elfas tradiciškai gyvena miškuose ir turi stiprų ryšį su gamta bei laukine aplinka. Jie yra ilgaamžiai, kartais net nemirtingi, ir dažnai atsiriboję bei paslaptingi. Yra daug elfų tipų: nuo gyvenančių laukiniuose miškuose, asketiškų aukštųjų elfų iki tų, kurie plaukioja jūromis.
+Elfas tradiciškai yra miško gyventojas, turintis stiprų ryšį su gamta ir laukine aplinka. Jie ilgaamžiai, kartais net nemirtingi, ir dažnai atsiriboję bei paslaptingi. Yra daug elfų tipų: nuo gyvenančių laukiniuose miškuose, asketiškų aukštųjų elfų iki tų, kurie plaukioja jūromis.
 
-Žmonės ir elfai kartais užmezga santykius, nors palikuonys reti. Puselfiai paveldi bruožus iš abiejų tėvų. Norėdami sukurti puselfį, ridenkite kiekvieną charakteristiką kaip abiem rasėms ir išveskite rezultatą (suapvalinti į viršų). Bet kokios įgimtos elfų linijos galios yra padalijamos pusiau arba išvedamas vidurkis.
+Žmonės ir elfai kartais kuria santykius, nors palikuonys yra reti. Pusiau elfai paveldi bruožus iš abiejų tėvų. Norėdami sukurti pusiau elfą, meskite kiekvieną charakteristiką tarsi abiem rasėms ir išveskite vidurkį (suapvalinkite į viršų). Bet kokios įgimtos elfų linijos galios yra padalijamos pusiau arba suvidurkinamos.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+2 | 3D6 | 2D4+4 | 3D6+6 | 2D6+6 | 3D6+3 | 3D6 |
 | 9 | 10–11 | 9 | 16–17 | 13 | 13–14 | 10–11 |
@@ -249,57 +249,57 @@ Elfas tradiciškai gyvena miškuose ir turi stiprų ryšį su gamta bei laukine 
 
 **Atakos:**
 
-* Ilgas lankas 55%, 1D8+1+½dm (pradurianti)
-* Trumpas kardas 45%, 1D6+1+dm (kraujuojanti)
-* Trumpa ietis 40%, 1D6+1+dm (pradurianti)
-* Trumpa ietis (mėtoma) 55%, 1D6+1+½dm (pradurianti)
+* Ilgas lankas 55%, 1D8+1+½dm (dūrimas)
+* Trumpas kardas 45%, 1D6+1+dm (kraujavimas)
+* Trumpa ietis 40%, 1D6+1+dm (dūrimas)
+* Trumpa ietis (mesta) 55%, 1D6+1+½dm (dūrimas)
 
-**Įgūdžiai:** Laipymas 65%, Vengimas 55%, Pirmoji pagalba 45%, Slėpimasis 35%, Šuolis 45%, Žinios (elfų lore) 45%, Kalba (žmonių) 40%, Kalba (elfų) 85%, Klausymas 55%, Atlikimas (dainavimas) 35%, Jautrumas 30%, Pastebėjimas 45%, Slaptumas 45%, Plaukimas 35%, Sekimas 40%.
+**Įgūdžiai:** Laipiojimas 65%, Išsisukimas 55%, Pirmoji pagalba 45%, Slėpimasis 35%, Šuolis 45%, Žinios (elfų mokymas) 45%, Kalba (žmonių) 40%, Kalba (elfų) 85%, Klausymasis 55%, Atlikimas (dainavimas) 35%, Nuojauta 30%, Pastebėjimas 45%, Slapstymasis 45%, Plaukimas 35%, Pėdsakų sekimas 40%.
 
-**Galia:** Elfai dažnai naudoja magiją ir turi natūralų gebėjimą kaip Super Jautrumas (nakties rega), kurio lygis lygus ½ jų POW (suapvalinti į viršų). Įprasta elfų magija: Išsklaidymas 45%, Gydymas 50%, Iliuzija 35%, Suvokimas 60%, Pasipriešinimas 50%, Regėjimas 60%.
+**Galios:** Elfai dažnai naudoja magiją ir turi natūralų gebėjimą, pavyzdžiui, Super-jutimą (Naktinis matymas) su lygiais, lygiais ½ jų GAL (suapvalinti į viršų). Įprasta elfų magija: Sklaida 45%, Gydymas 50%, Iliuzija 35%, Suvokimas 60%, Pasipriešinimas 50% ir Vizija 60%.
 
 ### Vaiduoklis
 
-Vaiduoklis yra gyvos būtybės dvasinis likutis, vis dar prisirišęs prie gyvųjų pasaulio, suvokiantis arba nesuvokiantis savo mirties. Jie vaidenasi vietose (pilyse, dvaruose, kapinėse ir kt.), objektuose (ginkluose, transporto priemonėse ir kt.) ar net konkrečiame asmenyje, dažniausiai susijusiame su jo mirtimi ar buvusiu gyvenimu. Dauguma vaiduoklių yra piktybiški ir nekenčia gyvųjų. Vaiduokliai dažnai yra pamišę, vedami noro ištaisyti skriaudą, kuri, jų manymu, buvo padaryta jiems, kad galėtų „pereiti“ į aukštesnį planą. Vaiduoklis gali net nesuprasti šio polinkio.
+Vaiduoklis yra dvasinis gyvos būtybės likutis, vis dar prisirišęs prie gyvųjų pasaulio, suvokiantis arba nesuvokiantis savo mirties fakto. Jie vaidenasi tam tikrose vietose (pilyse, dvaruose, kapinėse ir kt.), prie objektų (ginklų, transporto priemonių ir kt.) ar net prie konkrečių asmenų, dažniausiai susietų su jų mirtimi ar buvusiu gyvenimu. Dauguma vaiduoklių yra piktybiški ir nekenčia gyvųjų. Vaiduokliai dažnai yra išprotėję, vedami troškimo atitaisyti skriaudą, kurią jaučia patyrę, kad galėtų „pereiti“ į aukštesnį lygmenį. Vaiduoklis gali net nesuprasti šios prievolės.
 
-Vaiduokliai gali pasirodyti kaip miglotos humanoidų figūros, švytinčios manifestacijos, tvirtos būtybės, drumstos figūros, begalviai daiktai, transporto priemonės, gyvūnai ir t.t. Jie žinomi daugybe vardų: dvasios, šešėliai, vaiduokliai, poltergeistai, reginiai, fantomai ir kt.
+Vaiduokliai gali pasirodyti kaip miglotos humanoidinės figūros, švytinčios manifestacijos, tvirti atrodantys padarai, debesuotos figūros, be galvos, transporto priemonės, gyvūnai ir kt. Jie žinomi įvairiais vardais: dvasios, šešėliai, vaiduokliai, poltergeistai, fantomai ir kt.
 
-Vaiduoklius dažnai formuoja mirties aplinkybės ir aplinka. Štai keletas variantų ir pasiūlymų, kaip naudoti vaiduoklius pasaulyje:
+Vaiduoklius dažnai suformuoja jų mirties aplinkybės ir aplinka. Štai keletas variantų ir pasiūlymų, kaip naudoti vaiduoklius pasaulyje:
 
-* Atpirkimo vaiduokliai gali pasirodyti kaip veikėjo praeities figūros, skelbiančios ženklus. Arba jie gali būti patraukti saugoti tą, kurį mylėjo gyvenime, teikdami pagalbą didelio poreikio akimirkomis.
-* Vaiduoklis gali pasirodyti kaip dvasinis patarėjas, perduodantis žinutes iš aukštesnės jėgos. Jie retai grasina ar kenkia gyviesiems ir gali net teikti nurodymus bei mentorystę.
+* Išpirkimo vaiduokliai gali pasirodyti kaip praeities figūros, ištariantys ženklus. Arba jie gali būti patraukti ginti ką nors, ką mylėjo gyvenime, teikdami pagalbą didelės bėdos metu.
+* Vaiduoklis gali pasirodyti kaip dvasinis patarėjas, perduodantis pranešimus iš aukštesnės jėgos. Jie retai grasina ar kenkia gyviesiems ir netgi gali suteikti nurodymus bei mentorystę.
 * Poltergeistas gali būti smurtinis, telekinetiškai mėtantis daiktus ir aukas po kambarį bei naudojantis objektus kaip improvizuotus ginklus.
-* Vaiduokliškos transporto priemonės dažnai pasirodo toje pačioje vietoje, tuo pačiu metu ir dieną. Įlipimas į vaiduoklišką traukinį ar laivą paprastai yra būdas transportuotis į kitą dimensiją ar laiką. Taip darantys veikėjai gali dingti amžiams arba turėti išspręsti vaidenimosi priežastį prieš būdami išlaisvinti.
-* Visas pastatas pats gali būti vaiduoklis. Jei pastato paslaptis ar tamsi paslaptis išaiškinama, pastatas pats gali dingti amžiams.
+* Vaiduokliškos transporto priemonės dažnai pasirodo toje pačioje vietoje, tuo pačiu laiku ir data. Įsėdimas į vaiduoklišką traukinį ar laivą dažniausiai yra transporto būdas į kitą dimensiją ar laiką. Veikėjai, kurie tai padaro, gali dingti amžiams arba turėti išspręsti vaidenimosi priežastį, kad būtų išlaisvinti.
+* Visas pastatas pats gali būti vaiduoklis. Jei pastato paslaptis ar tamsi paslaptis atrandama, pats pastatas gali dingti amžiams.
 
-Vaiduokliai paprastai turi tik INT ir POW, nors kai kurie gali turėti CHA. Vaiduoklis, tačiau, gali būti tvirtas ir turėti charakteristikas (STR, SIZ ir DEX) kaip gyva būtybė, nors niekada neturės CON vertės. Kai kurie materialūs vaiduokliai gali net nežinoti, kad yra mirę.
+Vaiduokliai dažniausiai turi tik INT ir GAL, nors kai kurie gali turėti CHA. Tačiau vaiduoklis gali būti tvirtas ir turėti charakteristikas (JĖG, DYD ir VIK) kaip gyva būtybė, nors niekada neturės IŠT vertės. Kai kurie materialūs vaiduokliai gali net nežinoti, kad yra mirę.
 
-| INT | POW | CHA |
+| INT | GAL | CHA |
 | :---- | :---- | :---- |
 | 2D6+6 | 4D6 | 3D6 |
 | 13 | 14 | 10–11 |
 
-| Judėjimas 14 (lygus POW) | Gyvybės taškai Nėra |
+| Judėjimas 14 (lygus GAL) | Gyvybės taškai Nėra |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra (nemedžiaginis, žr. žemiau). |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra (nematerialūs, žr. toliau). |
 
 **Atakos:**
 
-* Vaiduokliška kova POW vs. POW, 1D3 galios taškai (žr. žemiau).
+* Vaiduokliška kova GAL vs. GAL, 1D3 galios taškai (žr. toliau).
 
-**Galia:** Vaiduokliai gali atakuoti vaiduokliška kova – POW vs. POW pasipriešinimo metimu. Tai atrodo taip, tarsi vaiduoklis draskytų, apgaubtų ar kitaip fiziškai atakuotų taikinį. Jei vaiduoklis įveikia taikinio POW, taikinys praranda 1D3 galios taškus (kai kurie vaiduokliai gali padaryti žalą gyvybės taškams). Jei vaiduoklis įveikiamas, jis praranda 1D3 galios taškus. Galingesni vaiduokliai gali išsiurbti 1D6 galios taškus (ar daugiau) iš taikinio, bet patys praranda tik 1D3, jei juos įveikia taikinys. Ši kova tęsiasi kiekviename raunde, kol taikinys praranda sąmonę arba viena iš pusių pabėga. Skirtingai nei vampyrai, prarasti galios taškai tiesiog dingsta. Vaiduoklis pabėga prieš pasiekdamas 0 galios taškų. Jei vaiduoklis sumažina taikinio galios taškus iki 0, jis gali jį apsėsti, paprastai priversdamas taikinį nusižudyti ar pakenkti kitam asmeniui. Net jei vaiduoklis apsėda taikinį, jis išlieka pririštas prie savo vaidenimosi vietos ir negali išvykti.
+**Galios:** Vaiduokliai gali atakuoti vaiduokliškoje kovoje (GAL vs. GAL pasipriešinimo metimas). Tai atrodo taip, lyg vaiduoklis draskytų, gaubtų ar kitaip fiziškai atakuotų taikinį. Jei vaiduoklis įveikia taikinio GAL, taikinys praranda 1D3 galios taškus (kai kurie vaiduokliai vietoj to gali padaryti gyvybės taškų žalą). Jei vaiduoklis įveikiamas, jis praranda 1D3 galios taškus. Galingesni vaiduokliai gali išsiurbti 1D6 galios taškų (ar daugiau) iš taikinio, bet praranda tik 1D3, jei juos įveikia taikinys. Ši kova tęsiasi kiekvieną raundą, kol taikinys praranda sąmonę arba viena iš pusių pabėga. Priešingai nei vampyrų, išsiurbti galios taškai tiesiog dingsta. Vaiduoklis bėga, prieš pasiekdamas 0 galios taškų. Jei vaiduoklis sumažina taikinio galios taškus iki 0, jis gali jį užvaldyti, dažniausiai priversdamas taikinį nusižudyti ar pakenkti kitam asmeniui. Net jei vaiduoklis užvaldo taikinį, jis lieka pririštas prie savo buvimo vietos ir negali jos palikti.
 
-Be vaiduokliškos kovos, vaiduoklis gali turėti kitų galių, pritaikytų jo buvusiam egzistavimui ir vaidmeniui pasaulyje. Vaiduokliai yra nematerialūs ir jiems netaikomi Nemedžiagiškumo supergalios apribojimai. Tradicinės galios apima psichines galias, tokias kaip kriokinezė, proto smūgis, proto kontrolė, pirokinezė, telekinezė arba supergalios, tokios kaip siurbimas, energijos kontrolė, nematomumas, teleportacija ir orų kontrolė. Vaiduokliai gali būti pažeidžiami magijos, burtų, psichinių galių ar supergalių.
+Be vaiduokliškos kovos, vaiduoklis gali turėti kitų galių, pritaikytų jo buvusiam egzistavimui ir vaidmeniui pasaulyje. Vaiduokliai yra nematerialūs ir jiems netaikomi „Nerealumo“ supergalios apribojimai. Tradicinės galios apima psichines galias, tokias kaip Kriokinezė, Proto smūgis, Proto valdymas, Pirokinezė, Telekinezė arba supergalias kaip Išsiurbimas, Energijos valdymas, Nematomumas, Teleportacija ir Orų valdymas. Vaiduokliai gali būti pažeidžiami magijos, burtų, psichinių galių ar supergalių.
 
-**Įgūdžiai:** Kaip tinka.
+**Įgūdžiai:** Pagal poreikį.
 
 ### Gulas
 
-Gulais tampa bjauriai deformuoti žmonės, mintantys mirusiaisiais, įstrigę tarp gyvenimo ir mirties. Jie yra žvėriško būdo ir turi nedaug intelektualinių galių. Daugumai gulų trūksta POW, nes jie susiformuoja, kai piktybinė dvasia apsėda šviežiai mirusį kūną. Kūnas transfigūruojamas, animuojamas ir dabar turi maitintis kūnais (gyvais ar mirusiais) išgyvenimui.
+Gulai yra siaubingai deformuoti žmonės, mintantys mirusiaisiais, įstrigę tarp gyvenimo ir mirties. Jie yra žvėriško būdo ir turi mažai gairinančio intelekto. Dauguma gulų neturi GAL, susiformuojantys tada, kai piktavališka dvasia užvaldo šviežiai mirusį lavoną. Kūnas transformuojasi, atgyja ir dabar privalo misti mėsa (gyva ar mirusia) dėl išgyvenimo.
 
-Guliai įgauna galios taškų vartodami lavonus, po 1 galios tašką už 3 suėstus SIZ taškus. Gulas turi išleisti 1 galios tašką kiekvieną rytą arba subyrėti, jo dvasiai būnant priverstai grįžti į kitą pasaulį. Jei taip nutinka, gulo kūnas greitai suyra, po to jis galutinai miršta. Be to, kiekviena valanda saulės šviesoje verčia gulą išleisti 1 galios tašką. Normaliomis aplinkybėmis gulas turi 2D6+6 saugomus galios taškus.
+Gulai įgyja galios taškų vartodami lavonus (po 1 galios tašką už kiekvienus 3 suėstus DYD taškus). Gulas privalo sunaudoti 1 galios tašką kiekvieną rytą, kitaip sugriūva – jo dvasia priversta grįžti į kitą pasaulį. Jei taip atsitinka, gulo kūnas greitai suyra ir jis galutinai miršta. Be to, kiekviena valanda saulės šviesoje verčia gulą išleisti 1 galios tašką. Įprastomis aplinkybėmis gulas turi sukaupęs 2D6+6 galios taškus.
 
-| STR | CON | SIZ | INT | DEX |
+| JĖG | IŠT | DYD | INT | VIK |
 | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+6 | 3D6 | 3D6 |
 | 14 | 10–11 | 13 | 10–11 | 10–11 |
@@ -310,74 +310,74 @@ Guliai įgauna galios taškų vartodami lavonus, po 1 galios tašką už 3 suės
 
 **Atakos:**
 
-* Nagai 30%, 1D6+dm (kraujuojanti)
-* Įkandimas 30%, 1D6+dm (kraujuojanti) + nuodai (žr. žemiau)
-* Staugimas 100%, spec. (žr. žemiau)
+* Nagai 30%, 1D6+dm (kraujavimas)
+* Įkandimas 30%, 1D6+dm (kraujavimas) + nuodai (žr. toliau)
+* Kaukimas 100%, spec. (žr. toliau)
 
-Gulas atakuoja vienu metu abiem nagais ir įkandimu. Įkąsdamas gulas suleidžia taikiniui nuodų, kurių POT lygus jo CON. Taikinys turi atlikti savo CON vs. nuodų POT pasipriešinimo metimą. Jei taikinys pralaimi, į jo sistemą patenka pilnas nuodų POT. Jei sėkmingai pasipriešina, suleidžiama tik 1D3 nuodų POT. Kai bendras suleistas POT lygus arba didesnis už įkąsto veikėjo CON, jie paralyžiuojami, kol priešnuodis nepašalina nuodų. Nelaimingas veikėjas liks šioje būsenoje tiek dienų, kiek turi CON taškų, kiekvieną dieną prarasdamas po 1 CON tašką. Veikėjas, įkąstas gulo (bet neparalyžiuotas), pašalina nuodus iš savo sistemos po 1 POT per dieną.
+Gulas vienu metu atakuoja abiem nagais ir įkandimu. Įkąsdamas gulas suleidžia taikiniui nuodus, kurių POT lygus jo IŠT. Taikinys privalo atlikti savo IŠT pasipriešinimo metimą prieš nuodų POT. Jei taikinys pralaimi, į jo sistemą patenka pilnas nuodų POT. Jei sėkmingai atsispiria, suleidžiama tik 1D3 nuodų POT. Kai suleistas bendras POT yra lygus ar didesnis už įkąsto veikėjo IŠT, jie paralyžiuojami, kol priešnuodis nepanaikina nuodų. Nelaimingas veikėjas liks tokioje būsenoje tiek dienų, kiek turi IŠT taškų, kiekvieną dieną prarasdamas po 1 IŠT tašką. Veikėjas, įkąstas gulo (bet neparalyžiuotas), išvalo nuodus iš savo sistemos po 1 POT per dieną.
 
-Guliai kovoje naudoja kraują stingdantį staugimą prieš bet ką, esantį arčiau nei pusė gulo CON metrais (suapvalinti į viršų). Kai gulas staugia, atlikite jo dabartinių galios taškų vs. kiekvieno taikinio INT pasipriešinimo metimą. Jei staugia daugiau nei vienas gulas, naudokite daugiausia galios taškų turinčio gulo taškus. Jei taikinys įveikiamas, jis apstulbsta, kol staugimas liausis. Jei veikėjas pasipriešina staugimo poveikiui, kitame raunde turi bandyti iš naujo. Veikėjas, sėkmingai besipriešinantis penkis raundus iš eilės, tampa laikinai imunitetingas jo poveikiui (žaidimo vedėjo nuožiūra). Gulo staugimas kainuoja 1 galios tašką. Magiški burtai „Kontrmagija“ ir „Pasipriešinimas magijai“ neapsaugo nuo gulų staugimo.
+Gulai kovoje prieš bet ką, esantį arčiau nei ½ gulo IŠT metrais (suapvalinti į viršų), naudoja kraują stingdantį kaukimą. Kai gulas kaukia, atlikite jo esamų galios taškų pasipriešinimo metimą prieš kiekvieno taikinio INT. Jei kaukia daugiau nei vienas gulas, naudokite gulo, turinčio daugiausiai galios taškų, sumą. Jei taikinys įveikiamas, jis paralyžiuojamas, kol kaukimai baigiasi. Jei veikėjas atsispiria kaukimo poveikiui, kitame raunde jis turi bandyti dar kartą. Veikėjas, sėkmingai besipriešinantis penkis raundus iš eilės, tampa laikinai imunitetas poveikiui (meistro nuožiūra). Gulo kaukimas kainuoja 1 galios tašką. Magijos kerai Priešmagija ir Magijos pasipriešinimas neapsaugo nuo gulo kaukimo.
 
-**Įgūdžiai:** Laipymas 60%, Vengimas 45%, Imtynės 50%, Slėpimasis 35%, Šuolis 50%, Klausymas 60%, Jautrumas 40%, Pastebėjimas 50%, Slaptumas 60%.
+**Įgūdžiai:** Laipiojimas 60%, Išsisukimas 45%, Imtynės 50%, Slėpimasis 35%, Šuolis 50%, Klausymasis 60%, Nuojauta 40%, Pastebėjimas 50%, Slapstymasis 60%.
 
-**Galia:** Protingesni guliai gali žinoti burtus. Visi guliai turi natūralų gebėjimą kaip Super Jautrumas (nakties rega), kurio lygis lygus ½ gulo INT (suapvalinti į viršų).
+**Galios:** Protingesni gulų egzemplioriai gali išmanyti burtus. Visi gulai turi natūralų gebėjimą, pavyzdžiui, Super-jutimą (Naktinis matymas) su lygiais, lygiais ½ gulo INT (suapvalinti į viršų).
 
 ### Milžinas
 
-Milžinai yra didžiuliai, bjaurūs humanoidai, mėgstantys žmonių mėsą. Jie yra niūrūs ir nepatikimi, paprastai tik šiek tiek mažiau destruktyvūs nei tornadas. Tradiciškai milžinai turi skirtingas kultūras, pagrįstas aplinka, pavyzdžiui, kalvų, jūrų, kalnų, ugnies, šalčio milžinai ir t.t. Šie tipai paprastai skiriasi intelektu, dydžiu ir elgesiu. Kai kurie iš jų turi bendruomenes, teismus ir savo kalbas.
+Milžinai yra milžiniški, negražūs humanoidai, mėgstantys žmonių mėsą. Tai niūrūs ir nepatikimi padarai, dažniausiai tik šiek tiek mažiau destruktyvūs nei tornadas. Tradiciškai milžinai turi kelias skirtingas kultūras, pagrįstas jų aplinka, pvz., kalvų, jūrų, kalnų, ugnies, šalčio milžinai ir kt. Šie tipai dažniausiai dramatiškai skiriasi intelektu, dydžiu ir elgesiu. Kai kurie turi visuomenes, teismus ir savo kalbas.
 
-Toliau pateikiamas pilnai užaugęs 8 metrų ūgio „bendrinis“ milžinas, maždaug 60 metų amžiaus. Milžinai gyvena panašiai kaip žmonės ir kas dešimt metų paauga 1D6+6 SIZ ir 1D6+6 STR, bet nepatiria senėjimo poveikio. Mažiau galingam milžinui atimkite metus, kol pasieks norimą STR ir SIZ.
+Štai pilnai suaugęs, 8 metrų ūgio „bendrinis“ milžinas, maždaug 60 metų amžiaus. Milžinai gyvena panašiai kaip žmonės ir kas dešimt metų užauga 1D6+6 DYD bei 1D6+6 JĖG, bet nejaučia senėjimo padarinių. Mažiau galingam milžinui atimkite amžių, kol jis pasieks norimą JĖG ir DYD.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 24D6+48 | 16D6+48 | 24D6+48 | 3D6 | 3D6 | 3D6 | 2D6 |
 | 132 | 104 | 132 | 10–11 | 10–11 | 10–11 | 7 |
 
 | Judėjimas 18 | Gyvybės taškai 118 |
 | :---- | :---- |
-| **Žalos modifikatorius** +15D6 | **Šarvai** 21 tšk. oda (žr. žemiau) |
+| **Žalos modifikatorius** +15D6 | **Šarvai** 21 tšk. oda (žr. toliau) |
 
 **Atakos:**
 
-* Kūjis 35%, 3D6+dm (traiškanti + atstumianti)
-* Spirti/Sutrypti 35%, 1D6+dm (traiškanti + atstumianti)
-* Mėtomas akmuo 35%, 2D6+½dm (traiškanti)
+* Kūjis 35%, 3D6+dm (traiškymas + atstūmimas)
+* Spyris/Sutrypimas 35%, 1D6+dm (traiškymas + atstūmimas)
+* Mestas akmuo 35%, 2D6+½dm (traiškymas)
 
-Milžinai mūšyje naudoja milžiniškus kūjus ar medžių kamienus ir specializuojasi mostų atakose. Milžino kūjis turi gyvybės taškus, lygius 10+ jo žalos modifikatoriaus kauliukų skaičiui.
+Milžinai mūšyje naudoja didžiulius kūjus ar medžių kamienus ir specializuojasi zoninėse atakose. Milžino kūjis turi gyvybės taškus, lygius 10 + jo žalos modifikatoriaus kauliukai.
 
-**Galia:** Kai kurie galingi ir vyresni milžinai naudoja magiją ar burtus.
+**Galios:** Kai kurie galingi ir vyresni milžinai naudoja magiją ar burtus.
 
-**Įgūdžiai:** Jautrumas 60%, Pastebėjimas 40%, Mėtymas 35%.
+**Įgūdžiai:** Nuojauta 60%, Pastebėjimas 40%, Metimas 35%.
 
-Milžinai turi tvirtą odą, vertą 6 taškų plius jų žalos modifikatoriaus D6, taigi milžinas su 15D6 žalos modifikatoriumi turi 21 tšk. odą. Kai kurie milžinai dėvi kojų šarvus (dažnai plokštinius), kurie prideda šarvų vertę tose vietose. Jei naudojamos hit vietos, normalaus dydžio veikėjai, kovojantys su milžinais, turėtų ridenti tik 1D10 smūgio vietai nustatyti, nebent naudoja tolimojo nuotolio ginklus.
+Milžinai turi tvirtą odą, vertą 6 taškų plius jų žalos modifikatorius D6 skaičiais; taigi milžinas su +15D6 žalos modifikatoriumi turi 21 tšk. odą. Kai kurie milžinai dėvi kojų šarvus (dažnai plokštinius), kurie prideda šarvų vertę toms vietoms. Jei naudojamos kūno vietos, įprasto dydžio veikėjai, kovojantys su milžinais, turėtų mesti tik 1D10, kad nustatytų pataikymo vietą, nebent naudoja tolimojo nuotolio ginklus.
 
-### Grifonas
+### Grifas
 
-Grifonai yra chimerinės būtybės, sudarytos iš liūto kūno ir užpakalinių kojų bei erelio galvos, priekinių kojų ir sparnų. Šie skraidantys plėšrūnai tradiciškai turi lizdus kalnų viršūnėse ir dažnai vaizduojami heraldikoje.
+Grifai yra chimeriškos būtybės, sujungiančios liūto kūną bei užpakalines kojas ir erelio galvą, priekines kojas bei sparnus. Šie skraidantys plėšrūnai tradiciškai turi lizdus kalnų viršūnėse ir dažnai vaizduojami heraldikoje.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 10D6 | 3D6+12 | 10D6 | 6 | 3D6+6 | 3D6+12 |
 | 35 | 22–23 | 35 | 6 | 16–17 | 22–23 |
 
-| Judėjimas 8 (12 skrydyje) | Gyvybės taškai 29 |
+| Judėjimas 8 (12 skrendant) | Gyvybės taškai 29 |
 | :---- | :---- |
 | **Žalos modifikatorius** +3D6 | **Šarvai** 6 tšk. oda |
 
 **Atakos:**
 
-* Įkandimas 70%, 1D6+dm (pradurianti)
-* Nagai 70%, 1D6+dm (kraujuojanti)
+* Įkandimas 70%, 1D6+dm (dūrimas)
+* Nagai 70%, 1D6+dm (kraujavimas)
 
-Grifonas atakuoja abiem nagais vienu metu ir įkanda 5 DEX rangais vėliau.
+Grifas vienu metu atakuoja abiem nagais, o įkanda 5 VIK laipsniais vėliau.
 
-**Įgūdžiai:** Vengimas 30%, Skrydis 100%, Klausymas 50%, Jautrumas 65%, Pastebėjimas 75%.
+**Įgūdžiai:** Išsisukimas 30%, Skrydis 100%, Klausymasis 50%, Nuojauta 65%, Pastebėjimas 75%.
 
 ### Pusūgis (Halfling)
 
-Pusūgiai yra mažos, į žmones panašios būtybės, paprastai taikios ir civilizuotos. Tradiciškai jie mėgsta valgyti, pypkauti ir gerti, ir turi ramius užsiėmimus, tokius kaip ūkininkavimas, amatai ir užeigų laikymas. Pusūgiai paprastai gyvena mažuose kaimo bendruomenėse, ūkiuose ar po žeme esančiuose urvuose. Jie dažnai atsisako dėvėti batus.
+Pusūgiai yra maži, į žmones panašūs padarai, paprastai taikūs ir civilizuoti. Tradiciškai jie mėgsta valgyti, rūkyti pypkes ir gerti, turi ramius užsiėmimus, tokius kaip ūkininkavimas, amatai ir užeigų laikymas. Pusūgiai dažniausiai gyvena mažuose kaimo bendruomenėse, namuose ar po žeme esančiose urvuose. Jie dažnai atsisako dėvėti batus.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6 | 2D6+12 | 1D3+3 | 2D6+6 | 2D6+3 | 2D6+10 | 3D6 |
 | 7 | 19 | 4–5 | 13 | 10 | 17 | 10–11 |
@@ -388,47 +388,47 @@ Pusūgiai yra mažos, į žmones panašios būtybės, paprastai taikios ir civil
 
 **Atakos:**
 
-* Trumpas kardas 35%, 1D6+1+dm (kraujuojanti)
-* Laidynė 35%, 1D8+½dm (traiškanti)
-* Mėtomas akmuo 50%, 1D4 (be žalos modifikatoriaus, traiškanti)
-* Pusūgiai yra akmenų mėtymo ekspertai ir nepatiria neigiamo žalos modifikatoriaus.
+* Trumpas kardas 35%, 1D6+1+dm (kraujavimas)
+* Svaidyklė 35%, 1D8+½dm (traiškymas)
+* Mestas akmuo 50%, 1D4 (be žalos modifikatoriaus, traiškymas)
+* Pusūgiai yra akmenų metimo ekspertai ir nepatiria neigiamo žalos modifikatoriaus.
 
-**Įgūdžiai:** Vertinimas 35%, Derybos 35%, Amatas (ūkininkavimas) 75%, Vengimas 60%, Vairavimas (vežimas) 45%, Imtynės 35%, Slėpimasis 65%, Žinios (pusūgių lore) 35%, Kalba (pusūgių) 75%, Kalba (žmonių) 65%, Klausymas 65%, Jautrumas 45%, Pastebėjimas 50%, Mėtymas 50%.
+**Įgūdžiai:** Vertinimas 35%, Derybos 35%, Amatai (ūkininkavimas) 75%, Išsisukimas 60%, Vairavimas (vežimas) 45%, Imtynės 35%, Slėpimasis 65%, Žinios (pusūgių mokymas) 35%, Kalba (pusūgių) 75%, Kalba (žmonių) 65%, Klausymasis 65%, Nuojauta 45%, Pastebėjimas 50%, Metimas 50%.
 
-**Galia:** Tradiciškai pusūgiai vengia magijos, nors kai kurie reti individai naudoja magiją. Dar mažiau naudoja burtus.
+**Galios:** Tradiciškai pusūgiai vengia magijos, nors kai kurie reti egzemplioriai naudoja magiją. Dar mažiau naudoja burtus.
 
 ### Minotauras
 
-Minotaurai yra humanoidai su jaučio galvomis ir kanopomis. Niūrūs ir smurtiniai, jie neturi savos civilizacijos, pirmenybę teikia gyvenimui griuvėsiuose ar laukinėje gamtoje. Kai kurie gali kalbėti, o kiti yra žvėriški ir neturi kalbos gebėjimų.
+Minotaurai yra humanoidai su jaučio galva ir kanopinėmis kojomis. Niūrūs ir smurtiniai, jie neturi savo civilizacijos, pirmenybę teikdami griuvėsiams ar laukinei gamtai. Kai kurie gali kalbėti, kiti yra žvėriški ir neturi kalbos gebėjimų.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 1D6+12 | 3D6+12 | 2D6 | 3D6 | 3D6 | 2D6 |
 | 22–23 | 15–16 | 22–23 | 7 | 10–11 | 10–11 | 7 |
 
 | Judėjimas 6 | Gyvybės taškai 19 |
 | :---- | :---- |
-| **Žalos modifikatorius** +2D6 | **Šarvai** 3 tšk. oda (gali dėvėti kitus šarvus, paprastai odinius) |
+| **Žalos modifikatorius** +2D6 | **Šarvai** 3 tšk. oda (gali dėvėti kitus šarvus, dažniausiai odinius) |
 
 **Atakos:**
 
-* Didelis kirvis 55%, 3D6+dm (kraujuojanti)
-* Smūgis galva 35%, 1D6+dm (atstumianti)
-* Imtynės 50%, 1D3+dm (traiškanti)
+* Didysis kirvis 55%, 3D6+dm (kraujavimas)
+* Smūgis galva 35%, 1D6+dm (atstūmimas)
+* Muštynės 50%, 1D3+dm (traiškymas)
 
-Minotauras kovos raunde gali naudoti arba smūgį galva, arba ginklo ataką. Minotauras abu gali naudoti tik tada, jei raunde gali atlikti dvi atakas.
+Minotauras kovos raunde gali naudoti arba smūgį galva, arba ginklo ataką. Minotauras gali naudoti abu tik tuo atveju, jei yra kitaip pajėgus atlikti dvi atakas per raundą.
 
-**Įgūdžiai:** Vengimas 40%, Klausymas 35%, Jautrumas 30%, Pastebėjimas 35%, Sekimas 55%.
+**Įgūdžiai:** Išsisukimas 40%, Klausymasis 35%, Nuojauta 30%, Pastebėjimas 35%, Pėdsakų sekimas 55%.
 
-**Galia:** Minotaurai paprastai niekina bet kokią magiją, ir tik patys rečiausi žino burtus. Jei minotauras sužeidžiamas arba sėkmingai pataiko į priešininką, jis įsiunta 24–CON raundų. Tai panašu į burtažodį „Įniršis“. Įsiutęs minotauras gali bandyti išsivaduoti iš įniršio sėkmingai atlikdamas INT×1 metimą. Po šio įniršio jis laikomas pavargusiu (jei nuovargis nenaudojamas, visi metimai yra Sunkūs), kol turi progą pailsėti.
+**Galios:** Minotaurai paprastai niekina bet kokią magiją, ir tik rečiausi išmano kokius nors kerus. Jei minotauras sužeidžiamas arba pasiekia specialią sėkmę smūgio metu, jis įpuola į įsiutimą 24–IŠT ėjimų trukmei. Tai panašu į burtą Įniršis. Įsiutęs minotauras gali bandyti atsikratyti įniršio atlikdamas sėkmingą INT×1 metimą. Po šio įniršio jis laikomas pavargusiu (jei nuovargis nenaudojamas, visi metimai yra Sunkūs), kol turi galimybę pailsėti.
 
 ### Mumija
 
-Mumija yra nemirėlis, suformuotas iš išsaugoto, išdžiovinto lavono, sugrąžinto į kažką panašaus į gyvybę per prakeiksmą ar galingą nekromantiją. Kai kurie kultai laiko mumijas savo šventyklose kaip sargybinius, o kitos mumijos prisikelia iš mirusiųjų saugoti savo kapų nuo plėšikavimo. Kai kurios mumijos kalba, kitos lieka tylios. Ne visos mumijos įvyniotos į tvarsčius – kai kurios dėvi papuošalus ir vertingus daiktus, atitinkančius jų statusą gyvenime.
+Mumija yra negyva būtybė, suformuota iš išsaugoto, išdžiovinto lavono, sugrąžinta į gyvenimo panašumą per prakeiksmą ar galingą nekromantiją. Kai kurie kultai laiko mumijas šventyklose kaip sargus, o kitos mumijos prisikelia iš mirusiųjų saugoti savo kapų nuo plėšikų. Kai kurios mumijos kalba, kitos lieka tylios. Ne visos mumijos yra suvyniotos į tvarsčius – kai kurios dėvi papuošalus ir didelės vertės daiktus, kaip dera jų statusui gyvenime.
 
-Dėl išdžiūvusios kūno būsenos, ugnis yra ypač efektyvi prieš mumijas. Padegti mumiją yra dvigubai lengviau nei kitus taikinius, ir nors žala normali, gaisrus sunkiau užgesinti (sumažinkite šansą, kad ugnis užges, per pusę). Galios, naudojančios ugnį, taip pat turi šį efektą.
+Dėl sausos, išdžiūvusios kūno būsenos, ugnis yra ypač efektyvi prieš mumijas. Padegti mumiją yra dvigubai lengviau nei kitą normalų taikinį, ir nors žala yra normali, gaisrus sunkiau užgesinti (sumažinkite šansą, kad ugnis užges, per pusę). Galios, kurios naudoja ugnį, taip pat turi tokį poveikį.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 4D6+3 | 2D6+6 | 3D6 | 1D6+12 | 2D6 | – |
 | 21 | 17 | 13 | 10–11 | 15–16 | 7 | – |
@@ -439,73 +439,73 @@ Dėl išdžiūvusios kūno būsenos, ugnis yra ypač efektyvi prieš mumijas. Pa
 
 **Atakos:**
 
-* Kumštis 70%, 1D3+dm (traiškanti)
+* Kumštis 70%, 1D3+dm (traiškymas)
 * Imtynės 25%, spec.
-* Trumpas kardas 45%, 1D6+1+dm (kraujuojanti)
+* Trumpas kardas 45%, 1D6+1+dm (kraujavimas)
 
-Mumija gali atakuoti dviem kumščių smūgiais kiekviename kovos raunde. Jei abiem atakomis pavyksta, ji bando smaugti taikinį kitame raunde. Mumija gali naudoti senovinius ginklus, atitinkančius jos buvusio gyvenimo epochą.
+Mumija gali atakuoti dviem kumščių atakomis per kovos raundą. Jei pavyksta abiem atakomis, ji kitame raunde bando sugriebti ir pasmaugti savo taikinį. Mumija gali naudoti senovinius ginklus, atitinkančius jos ankstesnio gyvenimo epochą.
 
-**Įgūdžiai:** Kalba (senovės kalba) 90%, Klausymas 50%, Jautrumas 45%, Pastebėjimas 50%, Slaptumas 50%.
+**Įgūdžiai:** Kalba (senovės kalba) 90%, Klausymasis 50%, Nuojauta 45%, Pastebėjimas 50%, Slapstymasis 50%.
 
-**Galia:** Mumijos gali prisiminti burtus iš buvusio egzistavimo. Mumija burtininkė gali turėti šiuos burtus atmintyje: Galios žarija (4), Žemės dovana (4), Pox (1), Burtininko nagai (2). Jei mumijos kapas nepažeistas, ji tikriausiai turi priėjimą prie savo grimoarų, burtų ritinių ir daugybės magiškų daiktų.
+**Galios:** Mumijos gali prisiminti burtus iš savo ankstesnio egzistavimo. Mumijos burtininkas gali turėti šiuos kerus atmintyje: Galios žarija (4), Žemės dovana (4), Maras (1), Burtininko nagai (2). Jei mumijos kapas nepažeistas, tikėtina, kad ji turi prieigą prie savo grimoaro, kerų ritinių ir daug magiškų daiktų.
 
 ### Orkas
 
-Orkai yra laukiniai, žvėriški humanoidai, niekinantys žmoniją, elfus, nykštukus ir beveik bet kokią kitą tautą. Jie paprastai turi pilkšvą odą, iltis ir smailias ausis, kartais vadinami goblinais. Orkai teikia pirmenybę tamsai, bet gali pakankamai gerai funkcionuoti dienos šviesoje. Jie turi grubią civilizaciją, pagrįstą beveik vien brutalumu ir savo bei nelaimingų belaisvių pavergimu. Jie net praktikuoja kanibalizmą su silpnais ar nelaimingais savo rūšies atstovais. Orkai dažnai tarnauja tamsos jėgoms arba medžioja kitus savo pramogai ir praturtėjimui. Kai kurie orkai joja milžiniškais vilkais, išveistais kaip jojamieji gyvūnai. Gali egzistuoti daugybė orkų tipų, pagrįstų aplinkos, kultūriniais, regioniniais ar kitais skirtumais. Įprasti tipai yra grėsmingi „didieji“ orkai (STR 5D6, CON 3D6+3, SIZ 3D6+6) ir kenksmingi „mažieji“ orkai (STR 3D6, SIZ 2D6).
+Orkai yra laukiniai, žvėriški humanoidai, kurie niekina žmoniją, elfus, nykštukus ir beveik visus kitus, kuriuos sutinka. Jie dažniausiai turi pilkšvą odą, iltis ir smailias ausis, kartais vadinami goblinais. Orkai teikia pirmenybę tamsai, bet gali pakankamai gerai veikti ir dienos šviesoje. Jie turi grubią civilizaciją, pagrįstą beveik vien brutalumu ir savo bei visų nelaimingų belaisvių vergove. Jie net praktikuoja kanibalizmą su silpnais ar nelaimingais savo rūšies nariais. Orkai dažnai tarnauja tamsos jėgoms arba medžioja kitus savo malonumui ir praturtėjimui. Kai kurie orkai jodinėja milžiniškais vilkais, veisiamais kaip jojamieji gyvūnai. Gali egzistuoti daug orkų tipų, pagrįstų aplinkos, kultūriniais, regioniniais ar kitais skirtumais. Dažni tipai yra grėsmingi „didesnieji“ orkai (JĖG 5D6, IŠT 3D6+3 ir DYD 3D6+6) ir kenksmingi „mažesnieji“ orkai (JĖG 3D6, DYD 2D6).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6 | 3D6 | 2D6+2 | 3D6 | 2D6+3 | 4D6 | 2D6 |
 | 14 | 10–11 | 9 | 10–11 | 10 | 14 | 7 |
 
 | Judėjimas 8 | Gyvybės taškai 10 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** 6 tšk. grandiniai ir lengvas šalmas |
+| **Žalos modifikatorius** Nėra | **Šarvai** 6 tšk. žiediniai ir lengvas šalmas |
 
 **Atakos:**
 
-* Scimitaras 35%, 1D8+1+dm (kraujuojanti)
-* Kompozicinis lankas 35%, 1D8+1+½dm (pradurianti)
-* Trumpa ietis 35%, 1D6+1+dm (pradurianti)
-* Trumpa ietis (mėtoma) 35%, 1D6+1+½dm (pradurianti)
-* Dygliuotas skydas 35%, 1D3+dm (pradurianti)
+* Scimitaras 35%, 1D8+1+dm (kraujavimas)
+* Kompozicinis lankas 35%, 1D8+1+½dm (dūrimas)
+* Trumpa ietis 35%, 1D6+1+dm (dūrimas)
+* Trumpa ietis (mesta) 35%, 1D6+1+½dm (dūrimas)
+* Smailiaskydis 35%, 1D3+dm (dūrimas)
 
-**Įgūdžiai:** Laipymas 55%, Vengimas 40%, Slėpimasis 35%, Žinios (orkų lore) 35%, Kalba (žmonių) 25%, Kalba (orkų) 60%, Klausymas 50%, Jojimas (vilkas) 50%, Jautrumas 35%, Pastebėjimas 45%, Slaptumas 40%, Sekimas 30%
+**Įgūdžiai:** Laipiojimas 55%, Išsisukimas 40%, Slėpimasis 35%, Žinios (orkų mokymas) 35%, Kalba (žmonių) 25%, Kalba (orkų) 60%, Klausymasis 50%, Jojimas (vilkas) 50%, Nuojauta 35%, Pastebėjimas 45%, Slapstymasis 40%, Pėdsakų sekimas 30%
 
-**Galia:** Burtininkystė yra pati baisiausia galia orkų visuomenėje, o orkai burtininkai dažnai tarnauja kaip kunigai ar vadovai. Burtus naudojantis orkas turi 16+ POW ir gali žinoti šiuos burtus: Nakties apsiaustas (2), Pox (1), Kenkėjų regėjimas (1), Pragaro skustuvas (1), Žaibiškas greitis (2), Apsauga (3).
+**Galios:** Burtų naudojimas yra pati baisiausia galia orkų visuomenėje, o orkai burtininkai dažnai tarnauja kaip kunigai ar vadovai. Burtus naudojantis orkas turi 16+ GAL ir gali išmanyti šiuos kerus: Nakties skraistė (2), Maras (1), Kenkėjų vizija (1), Pragaro skustuvas (1), Žaibiškas greitis (2), Apsauga (3).
 
 ### Skeletas
 
-Animuoti skeletai yra sukurti arba iškviesti magijos, arba yra senovės prakeiksmo rezultatas. Dauguma yra žmogaus palaikai, bet egzistuoja ir kitų rūšių skeletai. Animuoti skeletai beveik visada sutinkami saugantys kokį nors lobį, senovinį kapą ar kitą nelaimingą vietą. Skeletai juda tokiu pačiu greičiu, kokiu judėjo gyvi, bet negali plaukti. Jie neturi nuovargio taškų ir niekada nepavargsta.
+Atgaivinti skeletai yra sukuriami arba šaukiami magijos, arba yra senovinio prakeiksmo rezultatas. Dauguma yra žmonių liekanos, bet egzistuoja ir kitų rūšių skeletai. Atgaivinti skeletai beveik visada sutinkami saugantys kokį nors lobį, senovinį kapą ar kitą blogą vietą. Skeletai juda tokiu pačiu greičiu, kokiu judėjo gyvendami, bet negali plaukti. Jie neturi nuovargio taškų ir niekada nepavargsta.
 
-| STR | SIZ | INT | POW | DEX |
+| JĖG | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 2D6+6 | 3D6 | 1 | 3D6 |
 | 10–11 | 13 | 10–11 | 1 | 10–11 |
 
-| Judėjimas 10 | Gyvybės taškai 13 (žr. žemiau) |
+| Judėjimas 10 | Gyvybės taškai 13 (žr. toliau) |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra (gali dėvėti šarvus, taip pat žr. žemiau dėl imunitetų) |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra (gali dėvėti šarvus, taip pat žr. toliau dėl imunitetų) |
 
 **Atakos:**
 
-* Platus kardas 55%, 1D8+1+dm (kraujuojanti)
-* Savadarbis lankas 50%, 1D6+1+½dm (pradurianti)
-* Didelis apvalus skydas 55%, 1D4+dm (atstumianti)
+* Platųjį kardą 55%, 1D8+1+dm (kraujavimas)
+* Savadarbis lankas 50%, 1D6+1+½dm (dūrimas)
+* Didelis apvalus skydas 55%, 1D4+dm (atstūmimas)
 
-**Įgūdžiai:** Vengimas 40%
+**Įgūdžiai:** Išsisukimas 40%
 
-Skeletai neturi CON, o jų gyvybės taškai lygūs SIZ. Jie yra imunūs kraujavimo ir pradūrimo atakų specialiesiems efektams. Jie visiškai nepatiria žalos nuo duriamųjų ginklų, nebent tai buvo specialios sėkmės ar kritinis smūgis (tokiu atveju žala patiriama, bet antriniai efektai ignoruojami).
+Skeletai neturi IŠT, o jų gyvybės taškai lygūs jų DYD. Jie yra imunitetas specialiesiems kraujavimo ir dūrimo efektams. Jie visiškai nepatiria jokios žalos nuo duriančių ginklų, nebent smūgis buvo specialios sėkmės ar kritinis rezultatas, tokiu atveju žala patiriama, bet antriniai efektai ignoruojami.
 
-Džiovinti kaulai yra trapūs ir lengvai lūžta ar skyla nuo smūgių. Nepriklausomai nuo skeletų dabartinių gyvybės taškų, bet koks smūgis į skeletą turi procentinį šansą jį sunaikinti, lygų padarytai žalai, padaugintai iš ×4, papildomai prie normalaus gyvybės taškų praradimo. Jei metimas sėkmingas, skeletas akimirksniu subyra į kaulų skeveldras.
+Išdžiūvę kaulai yra trapūs ir lengvai lūžta nuo stipraus smūgio. Nepriklausomai nuo skeleto esamų gyvybės taškų, bet koks smūgis, pataikantis į skeletą, turi procentinę galimybę sunaikinti skeletą, lygią padarytai žalai, padaugintai iš ×4, be įprasto gyvybės taškų nuostolio. Jei metimas sėkmingas, skeletas akimirksniu subyra į kaulų skeveldras.
 
 ### Trolis
 
-Troliai yra milžiniški, mėsą valgantys humanoidai su grubia žalsvai juoda oda, plaukuotais pečiais ir rankomis bei ilgais nagais. Tradiciškai jie gyvena kalnuose ir miškuose, pirmenybę teikdami oloms arba kartais gyvenimui po tiltais. Kai kurie troliai moka kalbėti, kiti yra žvėriški ir nemoka. Jie yra naktinės būtybės ir vengia saulės šviesos, kai tik gali. Gali būti kitų trolių rūšių, paprastai vadinamų pagal jų aplinką (akmeniniai, ledo, miško, uolų, kalvų, kalnų, smėlio, jūrų, ežerų, pelkių ir t.t.), besiskiriančių spalva ir kitais bruožais. Protingesni troliai naudoja sudėtingesnius ginklus, kai kurie net dėvi sunkius šarvus.
+Troliai yra milžiniški, mėsėdžiai humanoidai su grubia žalsvai juoda oda, plaukuotais pečiais ir rankomis bei ilgais nagais. Jie tradiciškai gyvena kalnuose ir miškuose, pirmenybę teikdami urvams ar kartais gyvenimui po tiltais. Kai kurie troliai gali kalbėti, kiti yra žvėriški ir negali. Jie yra naktinės būtybės ir, kai tik gali, vengia saulės šviesos. Gali egzistuoti ir kitų rūšių troliai, dažniausiai pavadinti pagal jų aplinką (akmeniniai, ledo, mediniai, kalvų, kalnų, smėlio, jūrų, ežerų, pelkių, durpynų ir kt.), besiskiriantys spalva ir kitais būdais. Protingesni troliai naudoja sudėtingesnius ginklus, o kai kurie net dėvi sunkius šarvus.
 
-Dauguma sutiktų trolių yra patinai, o trolių patelės (vadinamos trolių žmonomis) yra mažesnės ir silpnesnės (–6 STR ir SIZ), bet protingesnės ir greitesnės (+1D6 INT, POW ir DEX).
+Dauguma sutiktų trolių yra patinai, o trolių patelės (vadinamos trolių žmonomis) yra mažesnės ir silpnesnės (–6 JĖG ir DYD), bet protingesnės ir greitesnės (+1D6 INT, GAL ir VIK).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+12 | 2D6+6 | 4D6+12 | 2D6 | 2D6 | 2D6+3 | 1D6 |
 | 22–23 | 13 | 26 | 7 | 7 | 10 | 3–4 |
@@ -516,21 +516,21 @@ Dauguma sutiktų trolių yra patinai, o trolių patelės (vadinamos trolių žmo
 
 **Atakos:**
 
-* Medžio kamieno kūjis 45%, 1D10+2+dm (traiškanti)
-* Nagai 50%, 1D6+dm (kraujuojanti)
+* Medžio kamieno kūjis 45%, 1D10+2+dm (traiškymas)
+* Nagai 50%, 1D6+dm (kraujavimas)
 * Imtynės 50%, spec.
 
-Įprasta trolio taktika yra smūgiuoti kūju, tada smūgiuoti nagu, bet trolis negali atremti, jei taip elgiasi. Kaip ir milžino kūjis, trolio medžio kamieno kūjis turi gyvybės taškus, lygius 10+ jo žalos modifikatoriaus kauliukams.
+Įprasta trolio taktika yra smogti kūju, tada nagais, bet jei taip daro, trolis negali blokuoti. Kaip ir milžino kūjis, trolio medžio kamieno kūjis turi gyvybės taškus, lygius 10 + jo žalos modifikatoriaus kauliukai.
 
-**Galia:** Troliai greitai regeneruoja nuo sužeidimų, išgydydami 1D3 gyvybės taškus per kovos raundą, nebent jie yra mirę. Jei naudojamos hit vietos, troliai išgydo 1 gyvybės tašką per sužeistą hit vietą per kovos raundą. Jei trolis yra saulės šviesoje arba jei žala buvo padaryta ugnimi, šios žaizdos negyja. Troliai gali matyti tamsoje, lyg turėtų Super Jautrumo (nakties rega) galią, kurios lygis lygus ½ trolio POW (suapvalinti į viršų). Trolių žmonos beveik visada yra burtus naudojančios raganos, turinčios tokius burtus kaip Burtų prakeiksmas (4), Pox (1), Išsklaidyti burtus (2) ir Raganos regėjimas (3).
+**Galios:** Troliai greitai atsistato po traumų, gydydami 1D3 gyvybės taškus per kovos raundą, nebent jie yra mirę. Jei naudojamos kūno vietos, troliai gydo 1 gyvybės tašką per sužeistą vietą per raundą. Jei trolis yra saulės šviesoje arba žala buvo padaryta ugnimi, šios žaizdos neatsistato. Troliai gali matyti tamsoje, tarsi turėtų Super-jutimo (Naktinis matymas) galią su lygiais, lygiais ½ trolio GAL (suapvalinti į viršų). Trolių žmonos beveik visada yra burtus naudojančios raganos, aprūpintos tokiais kerai kaip Burtų prakeiksmas (4), Maras (1), Burtų panaikinimas (2) ir Raganų regėjimas (3).
 
-**Įgūdžiai:** Vengimas 35%, Jautrumas 55%, Pastebėjimas 55%.
+**Įgūdžiai:** Išsisukimas 35%, Nuojauta 55%, Pastebėjimas 55%.
 
 ### Vienaragis
 
-Vienaragis yra į arklį panašus magiškas gyvūnas su mažomis kanopomis ir vienu ilgu tiesiu ragu, kyšančiu iš kaktos centro. Vienaragiai beveik visada balti, nors pasitaiko juodų ar pilkų. Jie yra vienišos, taikios miško gyventojos ir labai jautrūs magijai bei aplinkai. Manoma, kad jie yra nemirtingi, nebent nužudomi ar netenka rago, ir dėl šios priežasties manoma, kad jų ragai suteikia nemirtingumą. Vienaragiai dažnai vaizduojami heraldikoje ir yra riteriškos bei mergaitiškos dorybės ženklas. Jie ypač pasitiki mergaitiškais žmonių ar elfų moterų bruožais.
+Vienaragis yra į arklį panašus magiškas gyvūnas su nedidelėmis kanopomis ir vienu ilgu tiesiu ragu, kyšančiu iš kaktos vidurio. Vienaragiai beveik visada yra balti, nors pasitaiko ir juodų ar pilkų. Jie yra vienišos, taikios miško gyventojos ir labai jautrios magijai bei savo aplinkai. Manoma, kad jie yra nemirtingi, nebent nužudomi arba netenka rago, todėl jų ragai laikomi suteikiančiais nemirtingumą. Vienaragiai dažnai vaizduojami heraldikoje ir yra riteriškos bei mergaitiškos dorybės ženklas. Jie ypač pasitiki mergaitiškomis žmonių ar elfų moterimis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+24 | 2D6+6 | 2D6+18 | 2D6+6 | 2D6+12 | 2D6+6 | 4D6 |
 | 31 | 13 | 25 | 13 | 19 | 13 | 14 |
@@ -541,35 +541,35 @@ Vienaragis yra į arklį panašus magiškas gyvūnas su mažomis kanopomis ir vi
 
 **Atakos:**
 
-* Ragas 75%, 1D10+dm (pradurianti)
-* Spirti 40%, 1D8+dm (traiškanti)
-* Atsistoti piestu ir pulti 40%, 2D8+dm (traiškanti)
-* Sutrypti 75%, 2D6+dm (traiškanti)
+* Ragas 75%, 1D10+dm (dūrimas)
+* Spyris 40%, 1D8+dm (traiškymas)
+* Stojimasis piestu ir plūdimas 40%, 2D8+dm (traiškymas)
+* Sutrypimas 75%, 2D6+dm (traiškymas)
 
-Vienaragis gali atakuoti kartą per raundą, pirmenybę teikdamas ragui. Vienaragis gali atremti ragu bei vienu metu spirti arba pulti rago dūriu.
+Vienaragis gali atakuoti vieną kartą per raundą, pirmenybę teikdamas ragui. Vienaragis gali blokuoti ragu, taip pat vienu metu spirti arba durti ragu.
 
-**Įgūdžiai:** Vengimas 35%, Slėpimasis 65%, Įžvalga 50%, Šuolis 90%, Klausymas 70%, Jautrumas 80%, Pastebėjimas 75%, Slaptumas 50%.
+**Įgūdžiai:** Išsisukimas 35%, Slėpimasis 65%, Įžvalga 50%, Šuolis 90%, Klausymasis 70%, Nuojauta 80%, Pastebėjimas 75%, Slapstymasis 50%.
 
-**Galia:** Vienaragis gali gydyti žaizdas savo ragu, liesdamas žaizdą ir išleisdamas 1 galios tašką už kiekvieną atstatomą gyvybės tašką. Šis gydymas gali net atstatyti nupjautą galūnę, jei išleidžiama bent 6 galios taškai. Charakteristikų taškus, prarastus dėl nuodų ar ligų, taip pat galima išgydyti, bet tai kainuoja 1 nuolatinį POW tašką už kiekvieną išgydytą tašką, todėl vienaragiai nenoriai tai daro. Be to, vienaragis gali aptikti nuodus prisilietęs rago galiuku. Jei vienaragio ragas paverčiamas taure, jis sudūžta, jei į jį įpilama nuodų.
+**Galios:** Vienaragis gali gydyti žaizdas savo ragu, palietęs žaizdą ir išleisdamas 1 galios tašką už kiekvieną atstatomą gyvybės tašką. Šis gydymas gali net priauginti nukirstą galūnę, jei išleidžiama bent 6 galios taškai. Taip pat galima išgydyti nuodų ar ligų prarastus charakteristikos taškus, tačiau tai kainuoja 1 nuolatinės GAL tašką už kiekvieną išgydytą tašką, todėl vienaragiai nenoriai tai daro. Be to, vienaragis gali aptikti nuodus rago prisilietimu. Jei vienaragio ragas paverčiamas taure, ji subyra, jei į ją įdedama nuodų.
 
 ### Vampyras
 
-Vampyrai yra nemirėliai, išgyvenantys gerdami gyvųjų kraują. Sukurti, kai dalijasi krauju su vampyru ir yra nužudomi, jie atbunda kaip rajūnos būtybės. Tačiau daugelis vampyrų atgauna buvusį intelektą ir gali nepastebimai judėti žmonių visuomenėje, nemirtingi, išlikdami atsargūs maitindamiesi. Kai kurie yra urbanizuoti ir civilizuoti, maitinasi mažesniais gyvūnais ar naudojasi kitais kraujo gavimo būdais. Kiti yra kaip vilkai, žudantys nebaudžiamai.
+Vampyrai yra negyvėliai, kurie išgyvena gerdami gyvųjų kraują. Sukuriami, kai pasidalija krauju su vampyru ir yra nužudomi, jie prabunda kaip alkanos būtybės. Tačiau daugelis vampyrų atgauna savo buvusį intelektą ir gali nepastebimai judėti žmonių visuomenėje, nemirtingi, išlikdami atsargūs maitindamiesi. Kai kurie yra urbanizuoti ir civilizuoti, maitinasi mažesniais gyvūnais ar kitais būdais gauna kraujo. Kiti yra tarsi vilkai, žudantys be jokių pasekmių.
 
-Kaip ir vaiduokliai, yra daug vampyrų tipų: nuo gražių, urbanizuotų, protingų ir atsiskyrusių diletantų iki siaubingai bjaurių monstrų su į šikšnosparnius panašiais bruožais ir išsikišusiomis iltimis, gyvenančių kanalizacijose ir vargiai sąmoningų. Kai kurie vampyrai gali net stengtis atpirkti praėjusio gyvenimo klaidas ir žudynes, kurias įvykdė. Toliau pateikiamos vampyrams priskiriamos savybės ar aspektai, tikri ar klaidingi.
+Kaip ir vaiduokliai, yra daug vampyrų tipų: nuo gražių, miestietiškų, protingų ir atsiskyrusių diletantų iki siaubingai negražių monstrų su į šikšnosparnius panašiais bruožais ir išsikišusiomis iltimis, gyvenančių kanalizacijose ir vargiai mąstančių. Kai kurie vampyrai gali net stengtis išpirkti savo ankstesnio gyvenimo nuodėmes ir žudynes, kurias įvykdė. Toliau pateikiamos vampyrams priskiriamos savybės ar aspektai, teisingi arba klaidingi.
 
 * Vampyras neturi atspindžio.
-* Trečias vampyro įkandimas sukelia aukos mirtį, o tada paverčia nemirėliu. Kai veikėjas paverčiamas vampyru, jo STR ir CON padvigubėja.
-* Vampyrai turi plaukuotus delnus, bjaurų kvėpavimą ir verkia kraujo ašaromis.
-* Originalaus ar „vyriausiojo“ vampyro nužudymas išgydo jo aukas nuo vampyrizmo. Arba pagrindinio vampyro nužudymas akimirksniu nužudo visus jo sukurtus vampyrus.
-* Vampyrai negali kirsti tekančio vandens, pavyzdžiui, upės.
-* Česnakas atbaido vampyrus. Česnakas turi 2D6+6 POT (tik vampyrams) ir turi būti atremtas vampyro dabartiniais galios taškais. Jei vampyras sėkmingas, jis gali veikti prieš česnako turėtoją. Jei nesėkmingas, vampyras apstulbsta, kol nebėra šalia česnako. Jei vampyras suvalgo česnako, jis patiria 1D2 gyvybės taškų žalą už kiekvieną suvalgytą skiltelę.
-* Vampyrai samdo žmonių tarnus, kad saugotų jų paslaptis ir saugotų juos dienos metu.
-* Vampyras negali įeiti į namus ar gyvenamąją vietą be kvietimo.
+* Trečias vampyro įkandimas sukelia aukos mirtį, o vėliau paverčia ją negyvėliu. Kai veikėjas paverčiamas vampyru, jo JĖG ir IŠT padvigubėja.
+* Vampyrai turi plaukuotus delnus, bjaurų kvapą ir verkia kraujo ašaromis.
+* Originalaus ar „vyriausiojo“ vampyro nužudymas išgydo jo aukas nuo vampyrizmo. Arba pagrindinio vampyro nužudymas akimirksniu nužudo visus tuos vampyrus, kuriuos jis sukūrė.
+* Vampyrai negali pereiti tekančio vandens, pavyzdžiui, upės.
+* Česnakai atbaido vampyrus. Česnakai turi 2D6+6 POT (tik vampyrams) ir turi būti atlaikyti vampyro esamais galios taškais. Jei vampyras pasiseka, jis gali veikti prieš česnako turėtoją. Jei nepavyksta, vampyras paralyžiuojamas, kol nebeturi šalia česnako. Jei vampyras suvalgo česnakų, jis patiria 1D2 gyvybės taškų žalą už kiekvieną suvalgytą skiltelę.
+* Vampyrai samdo žmonių tarnus, kad saugotų savo paslaptis ir gintų juos dienos metu.
+* Vampyras negali įeiti į namus ar gyvenamąją vietą be pakvietimo.
 
-Kai kurie vampyrai organizuojasi į klanus, kiekvienas turintis skirtingą išvaizdą, polinkius ir net galias (žr. Galios toliau).
+Kai kurie vampyrai organizuojasi į klanus, kurių kiekvienas turi skirtingą išvaizdą, tendencijas ir net galias (žr. Galios, toliau).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×2 | 3D6×2 | 3D6 | 2D6+6 | (13) | 3D6 | 3D6 |
 | 20–22 | 20–22 | 10–11 | 13 | (13) | 10–11 | 10–11 |
@@ -580,407 +580,403 @@ Kai kurie vampyrai organizuojasi į klanus, kiekvienas turintis skirtingą išva
 
 **Atakos:**
 
-* Įkandimas 50%, 1D4+½dm (kraujuojanti) + kraujo siurbimas (žr. žemiau)
-* Nagai 50%, 1D4+dm (kraujuojanti) + šaltas prisilietimas (žr. žemiau)
-* Hipnotizuojantis žvilgsnis, POW vs. POW, (spec. žr. žemiau)
+* Įkandimas 50%, 1D4+½dm (kraujavimas) + Kraujo siurbimas (žr. toliau)
+* Nagai 50%, 1D4+dm (kraujavimas) + Šaltas lietimas (žr. toliau)
+* Hipnotizuojantis žvilgsnis, GAL vs. GAL, (spec. žr. toliau)
 * Imtynės 75%, spec.
 
-Vampyras gali atlikti vieną įkandimą ir du nagų smūgius per raundą, arba gali bandyti vieną nagų smūgį ir hipnotizuojantį žvilgsnį. Jei pavyksta abiem nagų atakoms ir įkandimui, jis suima taikinį ir kiekviename raunde siurbia jo kraują, kol taikinys tampa neįgalus. Vampyras negali bandyti vengti raunde, kai kandžiojasi arba naudoja hipnotizuojantį žvilgsnį. Šios galios aprašytos toliau.
+Vampyras per raundą gali atlikti vieną įkandimo ir dvi nagų atakas, arba jis gali bandyti vieną nagų ir hipnotizuojančio žvilgsnio ataką. Jei pavyksta abiem nagų atakomis ir įkandimu, jis sugriebia taikinį ir kiekvieną raundą siurbia kraują, kol taikinys tampa neveiksnus. Vampyras negali bandyti „Išsisukti“ raunde, kai įkanda arba naudoja hipnotizuojantį žvilgsnį. Šios galios aprašytos toliau.
 
-**Įgūdžiai:** Vengimas 50%, Etiketas 50%, Skrydis 90%, Slėpimasis 70%, Įžvalga 60%, Šuolis 75%, Žinios (istorija) 75%, Kalba (senovės) 75%, Kalba (šiuolaikinės) 50%, Klausymas 60%, Įtikinėjimas 60%, Jautrumas 75%, Pastebėjimas 75%, Slaptumas 80%, Sekimas 75%.
+**Įgūdžiai:** Išsisukimas 50%, Etiketas 50%, Skrydis 90%, Slėpimasis 70%, Įžvalga 60%, Šuolis 75%, Žinios (istorija) 75%, Kalba (senovės) 75%, Kalba (modernios) 50%, Klausymasis 60%, Įtikinėjimas 60%, Nuojauta 75%, Pastebėjimas 75%, Slapstymasis 80%, Pėdsakų sekimas 75%.
 
-**Galia:** Vampyrai turi platų galių spektrą, priskiriamą jiems. Šios galios yra tos, kurias turi beveik visi vampyrai.
+**Galios:** Vampyrai turi platų galių spektrą, priskiriamą jiems. Toliau pateikiamos tos, kurias turi beveik visi vampyrai.
 
-* **Kraujo siurbimas:** Vampyras, sėkmingai įkandęs ir sužalojęs taikinį, gali siurbti 1D6 STR arba 1D6 galios taškus iš to taikinio kiekviename vėlesniame raunde, kai lieka įsikibęs ir imtyniauja su juo. Jei taikinys prarado visą savo STR, vampyras gali vietoj to siurbti CON. Pasiekus 0 CON, auka miršta. Jei auka išgyvena, šie charakteristikos taškai atsistato po 1 tašką per poilsio dieną arba dvigubai lėčiau, jei veikėjas aktyvus. Jei siurbiama daugiau nei viena charakteristika, kaitaliokite atsigavimą kiekvieną dieną: 1 STR taškas, tada 1 CON taškas ir t.t. Galios taškai atsistato normaliai. Vampyras naudoja kraujo siurbimą, kad atstatytų savo galios taškus – jis neturi savo POW ir negali jų normaliai atsistatyti. Išsiurbti STR, CON ar galios taškai vampyro pervedami kaip lygus skaičius galios taškų. Vampyras negali kaupti daugiau galios taškų nei jo CON. Visi taškai virš to prarandami.
-* **Šaltas prisilietimas:** Vampyras, palietęs taikinį, gali siurbti galios taškus vietoj kraujo. Vampyras turi būti sėkmingai atlikęs nagų ataką prieš taikinį (arba palietęs neįgalų ar nepastebintį taikinį). Kitame raunde jis atlieka savo dabartinių galios taškų vs. taikinio dabartinių galios taškų pasipriešinimo metimą. Šarvai neapsaugo nuo šios atakos. Jei vampyras sėkmingas, jis siurbia 1D3 galios taškus iš taikinio, kurie pervedami į jo dabartinį galios taškų sumą. Vampyras turi išlikti kontakte su taikiniu kiekviename raunde, kad tęstų šį siurbimą, ir turi sėkmingai atlikti pasipriešinimo metimą kiekviename kovos raunde. Taikinys prarastus galios taškus atsistato normaliai.
-* **Hipnotizuojantis žvilgsnis:** Jei vampyras įveikia taikinio POW savo dabartiniais galios taškais pasipriešinimo metime, taikinys hipnotizuojamas ir gali būti priverstas vykdyti paprastus nurodymus. Jei šie nurodymai yra savižudiški, raundo pradžioje taikinys gali bandyti atlikti Idėjos metimą, kad „išsivaduotų“.
-* **Nakties rega:** Vampyrai turi natūralų gebėjimą, jungiantį tamsos regą, infraraudonųjų spindulių regą ir nakties regą lygiu, lygiu pusei vampyro INT (suapvalinti į viršų).
-* **Regeneracija:** Nebent jis nužudomas tradiciniu metodu (žr. toliau), vampyras regeneruoja 1D3 gyvybės taškus per kovos raundą. Jei naudojamos hit vietos, jis regeneruoja 1D3 gyvybės taškus per sužeistą hit vietą per kovos raundą. Jei jis yra tiesioginiuose saulės spinduliuose arba šventojo simbolio akivaizdoje, jis negyja šios žalos ir turi gyti normaliai (jis taip pat patiria žalą iš šių šaltinių, žr. Silpnybės toliau). Be to, žala nuo švęsto vandens, šventojo simbolio, saulės šviesos ar ugnies negali būti regeneruota ir turi gyti vampyro normaliu gijimo greičiu.
+* **Kraujo siurbimas:** Vampyras, sėkmingai įkandęs ir sužeidęs taikinį, gali siurbti 1D6 JĖG arba 1D6 galios taškus iš to taikinio kiekvieną paskesnį raundą, kol lieka įsikibęs ir imtyniauja su juo. Jei taikinys prarado visą savo JĖG, vampyras gali vietoj to siurbti IŠT. Pasiekus 0 IŠT, auka miršta. Jei auka išgyvena, šie charakteristikos taškai atsistato po 1 tašką per poilsio dieną, arba dvigubai lėčiau, jei veikėjas aktyvus. Jei siurbiama daugiau nei viena charakteristika, kaitaliokite atsistatymą kiekvieną dieną (1 JĖG taškas, tada 1 IŠT taškas ir t. t.). Galios taškai atsistato normaliai. Vampyras naudoja kraujo siurbimą, kad atgautų savo galios taškus – jis neturi savo GAL ir negali jų atsistatyti normaliai. Išsiurbti JĖG, IŠT ar galios taškai perduodami vampyrui kaip lygus galios taškų skaičius. Vampyras negali kaupti daugiau galios taškų nei jo IŠT. Visi papildomi taškai dingsta.
+* **Šaltas lietimas:** Vampyras, palietęs taikinį, gali siurbti galios taškus užuot siurbęs kraują. Vampyras turi būti sėkmingai atlikęs nagų ataką prieš taikinį (arba palietęs neveiksnų ar nesaugų taikinį). Paskesniame raunde jis atlieka savo esamų galios taškų pasipriešinimo metimą prieš taikinio esamus galios taškus. Šarvai neapsaugo nuo šios atakos. Jei vampyras sėkmingas, jis išsiurbia 1D3 galios taškus iš taikinio, kurie perduodami į jo esamų galios taškų bendrą sumą. Vampyras privalo likti kontakte su taikiniu kiekvieną raundą, kad tęstų siurbimą, ir privalo sėkmingai atlikti pasipriešinimo metimą kiekviename raunde. Taikinys atsistato šiuos prarastus galios taškus normaliai.
+* **Hipnotizuojantis žvilgsnis:** Jei vampyras įveikia taikinio GAL savo esamais galios taškais pasipriešinimo metime, taikinys hipnotizuojamas ir gali būti priverstas vykdyti paprastas instrukcijas. Jei šios instrukcijos yra savižudiškos, raundo pradžioje taikinys gali bandyti atlikti Idėjos patikrinimą, kad atsigautų.
+* **Naktinis matymas:** Vampyrai turi natūralų gebėjimą, jungiantį Tamsos matymą, Infraraudonųjų spindulių matymą ir Naktinį matymą, lygiais, lygiais pusei vampyro INT (suapvalinti į viršų).
+* **Atsistatymas:** Jei jis nenužudomas tradiciniu metodu (žr. toliau), vampyras atsistato 1D3 gyvybės taškus per kovos raundą. Jei jis yra tiesioginiuose saulės spinduliuose arba šventojo simbolio akivaizdoje, jis neatsistato šios žalos ir turi gyti normaliai (jis taip pat patiria žalą iš šių šaltinių, žr. Silpnybės). Be to, žala nuo šventinto vandens, šventojo simbolio, saulės šviesos ar ugnies negali būti atstatyta ir turi gyti įprastu vampyro gijimo greičiu.
 
-Be minėtų galių, sakoma, kad vampyrai turi ir kitų galių, kurios gali būti tikros arba netikros.
+Be to, sakoma, kad vampyrai turi kitų galių, kurios gali būti teisingos arba ne.
 
-* **Nakties legionai:** Vampyrai gali valdyti mažesnes būtybes, tokias kaip šikšnosparniai, žiurkės ir vilkai. Vampyras gali iškviesti 1D6 žiurkių ar šikšnosparnių spiečių (šikšnosparnių spiečius traktuojamas kaip žiurkių, bet su 100% skrydžiu) arba 1D6 vilkų. Kiekvienas spiečius kainuoja 1 galios tašką iškviesti, o kiekvienas vilkas – 3 galios taškus iškviesti ir valdyti. Šios būtybės gali būti sukurtos kaip pagalbininkai, bet naudoja vampyro dabartinių galios taškų sumą vietoj POW nustatant valdymą, arba gali būti tvarkomos per burtus, tokius kaip „Paukščio regėjimas“ (pakeiskite paukštį šikšnosparniu) ir „Kenkėjų regėjimas“.
-* **Miglos forma:** Vampyras gali transformuotis į miglą, galinčią judėti per mažiausius įtrūkimus ir lengvai sklandyti ore. Vampyras su šia galia gali būti priverstas pereiti į miglos formą, kai sumažinamas iki 0 gyvybės taškų, bet nėra nužudomas tradiciniu būdu. Tai gali būti burtas „Keitimas“ arba supergalios „Alternatyvi forma“ ar „Nemedžiagiškumas“. Būdamas miglos formos, vampyras turi 5 MOV ir yra imunitetingas daugumai fizinės žalos formų, nors magija vis tiek gali jį veikti.
-* **Formų keitimas:** Vampyras gali transformuotis į vilką, šikšnosparnį ar net žiurkių spiečių už 3 galios taškus. Kaip ir miglos forma, ši galia identiška „Keitimui“ arba „Alternatyviai formai“. Naudokite vilko ar žiurkių spiečiaus statistiką vampyro gebėjimams bet kurioje iš šių formų, naudodami tuos pačius žaidimo efektus žiurkėms kaip ir šikšnosparniams (nors su 100% skrydžiu).
-* **Burtų naudojimas:** Vampyrai yra galingi burtininkai, turintys įvairių burtų, paruoštų naudojimui. Su savo neįtikėtinu ilgaamžiškumu ir priėjimu prie uždraustų tomų, ritinių ir nešventų žinių, vampyrai žino daugybę burtų ar magijos burtų. Vampyras gali žinoti iki dvigubai daugiau magijos ar burtų nei įprastas žmogus. Vampyrai naudoja savo dabartinių galios taškų sumą taikiniams įveikti ar savo magijai.
+* **Nakties legionai:** Vampyrai gali valdyti mažesnes būtybes, tokias kaip šikšnosparniai, žiurkės ir vilkai. Vampyras gali šaukti 1D6 žiurkių ar šikšnosparnių spiečių (šikšnosparnių spiečius traktuojamas kaip žiurkių, bet su Skrydis 100%), arba 1D6 vilkų. Kiekvienas spiečius kainuoja 1 galios tašką, o kiekvienas vilkas – 3 galios taškus šaukimui ir valdymui. Šios būtybės gali būti sukurtos kaip pagalbininkai, bet naudoja vampyro esamą galios taškų sumą vietoj GAL, kai nustatoma kontrolė, arba gali būti valdomos per burtus, tokius kaip Paukščio vizija (pakeiskite paukštį šikšnosparniu) ir Kenkėjų vizija.
+* **Miglos pavidalas:** Vampyras gali transformuotis į miglą, galinčią judėti per pačius mažiausius įtrūkimus ir lengvai sklendžiančią oru. Vampyras su šia galia gali būti priverstas tapti migla, kai jo gyvybės taškai sumažinami iki 0, bet jis nėra nužudomas tradiciniu būdu. Tai gali būti kerai Transformacija arba supergalios Alternatyvus pavidalas ar Nerealumas. Būdamas miglos pavidalo, vampyras turi MOV 5 ir yra imunitetas daugumai fizinės žalos formų, nors magija vis tiek gali jį veikti.
+* **Formos keitimas:** Vampyras gali transformuotis į vilką, šikšnosparnį ar net žiurkių spiečių už 3 galios taškus. Kaip ir miglos pavidalas, galia yra identiška Transformacijai arba Alternatyviam pavidalui. Naudokite vilko ar žiurkių spiečiaus statistiką vampyro gebėjimams abiejuose pavidaluose, naudodami tuos pačius žaidimo efektus žiurkėms kaip ir šikšnosparniams (nors su Skrydis 100%).
+* **Kerų naudojimas:** Vampyrai yra galingi burtininkai, turintys įvairių kerų. Dėl savo neįtikėtino ilgaamžiškumo ir prieigos prie uždraustų tomų, ritinių ir nešventų žinių, vampyrai žino daug burtų ar magijos kerų. Vampyras gali žinoti iki dvigubai daugiau kerų nei įprastas žmogus. Vampyrai naudoja savo esamų galios taškų sumą taikiniams įveikti arba savo magijai.
 
-**Silpnybės:** Vampyrai, kaip prakeikti ir nešventi nemirėliai, turi daug silpnybių, kurios juos išskiria iš gyvųjų ir kitų nemirėlių formų. Toliau pateikiamos tradicinės vampyrų silpnybės, iš kurių visos, daugelis ar nė viena gali būti tiesa.
+**Silpnybės:** Vampyrai, kaip prakeikti ir nešventi negyvėliai, turi daug silpnybių, kurios juos išskiria iš gyvųjų ir kitų negyvėlių formų. Toliau pateikiamos tradicinės vampyrų silpnybės, iš kurių visos, daugelis arba nė viena gali būti teisingos.
 
-* **Kraujo troškulys:** Vampyras praranda 1D6 galios taškus kiekvieną dieną tiesiog egzistuodamas; jie išleidžiami, kai vampyras pirmą kartą atsikelia. Jei vampyras pasiekia 1 ar 2 galios taškus, visi jo metimai yra Sunkūs dėl silpnumo ir griausmingo troškulio.
-* **Dienos šviesa:** Vampyrai patiria 1 žalą per kiekvieną kovos raundą, praleistą tiesioginiuose saulės spinduliuose. Būdamas tiesioginiuose saulės spinduliuose, vampyras negali regeneruoti, keisti formą, virsti migla ar naudoti hipnotizuojančio žvilgsnio. Saulės šviesa gali sukelti papildomų problemų vampyrams, pavyzdžiui, padaryti visus įgūdžių metimus Sunkiais. Dėl šios priežasties vampyrai tradiciškai yra naktiniai.
-* **Galvos nukirtimas:** Nukirsta galva reiškia, kad vampyras miręs, nebeatsistatys ir niekada neprisikels iš mirusiųjų.
+* **Kraujo troškulys:** Vampyras praranda 1D6 galios taškus kiekvieną dieną tiesiog egzistuodamas, išleidžiamus, kai vampyras pirmą kartą atsikelia. Jei vampyras pasiekia 1 ar 2 galios taškus, visi jo metimai yra Sunkūs dėl silpnumo ir griausmingo troškulio.
+* **Dienos šviesa:** Vampyrai patiria 1 žalą per kovos raundą tiesioginiuose saulės spinduliuose. Būdamas tiesioginėje saulės šviesoje, vampyras negali atsistatyti, keisti formos, virsti migla ar naudoti hipnotizuojančio žvilgsnio. Saulės šviesa gali sukelti papildomų problemų vampyrams, pavyzdžiui, padaryti visus įgūdžių metimus Sunkiais. Dėl šios priežasties vampyrai tradiciškai yra naktiniai.
+* **Nukirtimas:** Nukirstas vampyras yra miręs, neatsistatys ir niekada neprisikels iš mirusiųjų.
 * **Ugnis:** Vampyrai patiria dvigubą žalą nuo ugnies, nepriklausomai nuo jos šaltinio. Vampyrai yra degūs, jei bandoma juos padegti.
-* **Šventi simboliai:** Vampyrams, kuriems parodomas šventas simbolis rankose veikėjo su tikru tikėjimu (galbūt „Atsidavimo aistra“ 80% ar daugiau arba 50 „Aistros“ „geram“ dievui), sukeliamas intensyvus skausmas; jie praranda 1D3 galios taškus už kiekvieną raundą, kai veikėjas su šventu simboliu sėkmingai atlieka POW vs. vampyro dabartinių galios taškų pasipriešinimo metimą. Veikėjas turi susikoncentruoti į tai ir negali atlikti jokių kitų atakų kiekviename raunde. Vampyras patiria 1D3 žalos taškus už kiekvieną raundą, jei užmezga tiesioginį fizinį kontaktą su šventu simboliu. Vampyras negali bandyti naudoti hipnotizuojančio žvilgsnio prieš veikėją, kuris laimi šiame pasipriešinimo metime.
-* **Šventas vanduo:** Šventas vanduo veikia kaip stipri rūgštis prieš vampyrus (žr. Rūgštis), darydamas 1D4 žalą per kovos raundą. Veikėjas su bent 50 „Aistros“ geranoriškam dievui gali sukurti švęstą vandenį praleisdamas visą raundą maldoje ir išleisdamas 1 galios tašką virš to vandens. Švęstino vandens kiekis ribojamas veikėjo POW dydžiu SIZ.
-* **Šventa žemė:** Vampyras praranda 3D6 galios taškus kiekvieną dieną, jei nepraleidžia bent keturių valandų karste (arba atitikmenyje), išklotame žeme iš savo tėvynės; bauda taikoma saulėlydžio metu. Taigi, nepasiruošęs vampyras gali prarasti 4D6 galios taškus kiekvieną vakarą, jei jam atimama šventa žemė ir dėl kraujo troškulio (žr. aukščiau). Jei vampyras pasiekia 0 galios taškų, jis patenka į komą – ne miręs, bet negalintis judėti ar funkcionuoti, kol kas nors perveda jam galios taškų naudodamas galią.
-* **Kuolai:** Jei medinis kuolas įvaromas vampyrui į širdį ir padaro bent 1 tašką žalos, vampyras akimirksniu subyra į dulkes. Kovojant tai įvyksta, kai medinis ginklas pasiekia praduriantį ar kritinį rezultatą Sunkioje atakoje, arba taiklus šūvis į krūtinės hit vietą. Tradicinis medinis kuolas daro 1D3+dm ir turi 6 gyvybės taškus, su 15% bazine tikimybe. Alternatyviai, tai tik neleidžia vampyrui veikti ir regeneruoti, o vampyras turi būti nukirsta galva, galva ir kūnas sudeginami atskirai, kad būtų visiškai sunaikinti.
+* **Šventieji simboliai:** Vampyrams, kuriems parodomas šventasis simbolis tikrą tikėjimą turinčio veikėjo rankose (galbūt „Atsidavimo“ aistra 80% ar daugiau arba 50 „Ištikimybės“ „gerajam“ dievui), sukeliamas didelis skausmas, prarandant 1D3 galios taškus už kiekvieną raundą, kai veikėjas su šventuoju simboliu laimi pasipriešinimo metimą: GAL vs vampyro esami galios taškai. Veikėjas privalo susikoncentruoti į tai ir negali atlikti jokių kitų atakų kiekviename raunde. Vampyras patiria 1D3 žalos taškus kiekvieną raundą, jei fiziškai prisiliečia prie šventojo simbolio. Vampyras negali bandyti hipnotizuojančio žvilgsnio prieš veikėją, kuris laimi šį pasipriešinimo metimą.
+* **Šventintas vanduo:** Šventintas vanduo vampyrams veikia kaip stipri rūgštis (žr. Rūgštis), daranti 1D4 žalą per kovos raundą. Veikėjas su bent 50 „Ištikimybe“ geradariui dievui gali sukurti šventintą vandenį praleisdamas vieną pilną posūkį melsdamasis ir išleisdamas 1 galios tašką virš to vandens. Vandens kiekį, kurį galima pašventinti, riboja veikėjo GAL DYD dydžiu.
+* **Šventa žemė:** Vampyras praranda 3D6 galios taškus kiekvieną dieną, kai nepraleidžia bent keturių valandų karste (ar lygiaverčiame daikte), išklotame žeme iš savo tėvynės; nuobauda taikoma saulei nusileidus. Taigi, nepasiruošęs vampyras gali prarasti 4D6 galios taškus kiekvieną vakarą, jei jam atimama šventa žemė ir dėl kraujo troškulio (žr. aukščiau). Jei vampyras pasiekia 0 galios taškų, jis patenka į komą – ne miršta, bet negali pajudėti ar funkcionuoti, kol kas nors neperduoda jam galios taškų naudodamas galią.
+* **Kuolai:** Jei medinis kuolas įsmeigiamas per vampyro širdį ir padaro bent 1 taško žalą, vampyras akimirksniu suyra į dulkes. Kovoje tai įvyksta, kai medinis ginklas pasiekia dūrimo ar kritinį rezultatą Sunkioje atakoje, arba taiklus šūvis į krūtinės vietą. Tradicinis medinis kuolas daro 1D3+dm ir turi 6 gyvybės taškus, su 15% baziniu šansu. Alternatyviai, tai tik neleidžia vampyrui veikti ir atsistatyti, todėl vampyras turi būti nukirstas, o galva ir kūnas atskirai sudeginti, kad būtų visiškai sunaikintas.
 
 ### Vilkolakis
 
-Vilkolaikiai yra formų keitėjai, galintys virsti iš žmogaus į vilką, su tarpine hibridine forma. Ši būklė vadinama likantropija. Kai kurie vilkai šį pokytį gali atlikti savanoriškai, kiti virsta nevalingai naktimis, kai pilnatis. Šis pastarasis vilkolakio tipas tada tampa tikru žvėrimi, neturinčiu sąmoningos kontrolės ar net savo veiksmų atminties būnant vilkolakio formoje. Tradiciškai tas, kuris išgyvena vilkolakio įkandimą, taps vilkolakiu per kitą pilnatį – būklė, kuri tariamai neišvengiama. Kai kurie likantropijos tipai yra magiški (paprastai prakeiksmas), kiti – kaip liga, paliekama žaidimo vedėjo nuožiūrai.
+Vilkolačiai yra formą keičiantys padarai, galintys transformuotis iš žmogaus į vilką, turintys tarpinį hibridinį pavidalą. Ši būklė vadinama likantropija. Kai kurie vilkolakiai gali atlikti šį virsmą savanoriškai, kiti transformuojasi nevalingai per pilnatį. Pastarojo tipo vilkolakis tada tampa grynu žvėrimi, neturinčiu sąmoningos kontrolės ar net prisiminimų apie savo veiksmus būnant žvėries pavidale. Tradiciškai tas, kuris išgyvena vilkolakio įkandimą, taps vilkolakiu kitos pilnaties metu – būklė, kuri neva yra neišvengiama. Kai kurie likantropijos tipai yra magiški (dažniausiai prakeiksmas), kiti – tarsi liga, paliekama meistro nuožiūrai.
 
-Žmogaus formoje vilkolakis yra išoriškai normalus ir turi normalias žmogaus charakteristikas. Toliau pateikiama statistika hibridinei (vilkolakio) ir vilko formoms.
+Žmogaus pavidale vilkolakis išoriškai atrodo normaliai ir turi normalias žmonių charakteristikas. Toliau pateikiama statistika hibridinei (vilkolakio) ir vilko formoms.
 
-**Hibridinė forma**
+**Hibridinis pavidalas**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6 | 2D6+6 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 10–11 | 13 | 13 | 13 |
 
-**Vilko forma**
+**Vilko pavidalas**
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 6D6 | 2D6+6 | 3D6+1D3 | 1D4+2 | 2D6+6 | 2D6+6 |
 | 21 | 13 | 12–13 | 4–5 | 13 | 13 |
 
 | Judėjimas 12 / 13 | Gyvybės taškai 12 / 12–13 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 / +1D6 | **Šarvai** 1 tšk. kailis (imunitetas normaliems ginklams, žr. žemiau) |
+| **Žalos modifikatorius** +1D4 / +1D6 | **Šarvai** 1 tšk. kailis (imunitetas normaliems ginklams, žr. toliau) |
 
-**Atakos (hibridinė forma):**
+**Atakos (hibridinis pavidalas):**
 
-* Įkandimas 50%, 1D4+½dm (kraujuojanti)
-* Nagai 65%, 1D6+dm (kraujuojanti)
+* Įkandimas 50%, 1D4+½dm (kraujavimas)
+* Nagai 65%, 1D6+dm (kraujavimas)
 
-**Atakos (vilko forma):**
+**Atakos (vilko pavidalas):**
 
-* Įkandimas 65%, 1D8+½dm (kraujuojanti)
-* Nagai 45%, 1D6+dm (kraujuojanti)
+* Įkandimas 65%, 1D8+½dm (kraujavimas)
+* Nagai 45%, 1D6+dm (kraujavimas)
 
-Bet kurioje formoje vilkolakis gali atlikti vieną įkandimą ir du nagų smūgius kiekviename kovos raunde.
+Bet kuriame pavidalas, vilkolakis per kovos raundą gali atlikti vieną įkandimo ir dvi nagų atakas.
 
-**Galia:** Vilkolakiai turi šias galias:
+**Galios:** Vilkolakiai turi šias galias:
 
-* **Imunitetas:** Vilkolakiai yra imunitetingi daugumai žalos formų, išskyrus magiją, ugnį ar sidabrą. Kitos atakos tiesiog atšoka, nepriklausomai nuo rezultato. Magija, ugnis ir sidabriniai ginklai daro pilną žalą. Ginklas su ant jo uždėtu burtu, tokiu kaip „Pragaro skustuvas“, daro savo magišką žalą, bet ne ginklo žalą ar užpuoliko žalos modifikatorių. Visiškai magiškas ginklas daro normalią žalą. Žaidimo vedėjas turėtų nustatyti, ar energijos ginklai ar kitos panašios atakos gali sužaloti vilkolakį.
-* **Regeneracija:** Vilkolakiai gali regeneruoti 1 gyvybės tašką kiekviename kovos raunde, nebent ta žala buvo padaryta sidabriniu ginklu. Vilkolakiai gija nuo sidabrinio ginklo padarytos žalos savo normaliu gijimo greičiu.
-* **Transformacija:** Vilkolakiai gali įgauti vieną iš trijų skirtingų formų: žmogaus, hibridinę ir vilko. Perėjimas iš vienos formos į kitą užtrunka 5 DEX rangus ir nekainuoja galios taškų. Vilkolakis gali pereiti iš bet kurios iš šių formų į kitą.
+* **Imunitetas:** Vilkolakiai yra imunitetas daugumai žalos formų, išskyrus magiją, ugnį ar sidabrą. Kitos atakos tiesiog atšoka, nepriklausomai nuo rezultato. Magija, ugnis ir sidabriniai ginklai daro pilną žalą. Ginklas su ant jo uždėtais kerai, tokiais kaip Pragaro skustuvas, daro savo magišką žalą, bet ne ginklo žalą ar užpuoliko žalos modifikatorių. Grynai magiškas ginklas daro normalią žalą. Meistras turėtų nustatyti, ar energijos ginklai ar kitos panašios atakos gali sužeisti vilkolakį.
+* **Atsistatymas:** Vilkolakiai gali atsistatyti 1 gyvybės tašką kiekviename kovos raunde, nebent žala buvo padaryta sidabriniu ginklu. Vilkolakiai gyja nuo sidabrinio ginklo padarytos žalos savo įprastu gijimo greičiu.
+* **Transformacija:** Vilkolakiai gali įgauti vieną iš trijų skirtingų pavidalų: žmogaus, hibrido ir vilko. Perėjimas iš vienos formos į kitą užtrunka 5 VIK laipsnius ir nekainuoja galios taškų. Vilkolakis gali persijungti iš bet kurio šių pavidalų į kitą.
 
-**Įgūdžiai:** Laipymas 75%, Vengimas 65%, Slėpimasis 60%, Šuolis 80%, Klausymas 70%, Jautrumas 90%, Pastebėjimas 70%, Sekimas 90%.
+**Įgūdžiai:** Laipiojimas 75%, Išsisukimas 65%, Slėpimasis 60%, Šuolis 80%, Klausymasis 70%, Nuojauta 90%, Pastebėjimas 70%, Pėdsakų sekimas 90%.
 
 ### Zombis
 
-Zombiai yra animuoti lavonai, prikelti nekromantijos, vudu, demoniško apsėdimo arba šiuolaikinių priežasčių, tokių kaip toksiški chemikalai, radiacija ar biologinis maras. Nepriklausomai nuo jų kilmės, zombiai trokšta žmonių mėsos (kai kurie pirmenybę teikia smegenims) ir nedaro nieko daugiau, kaip tik ieško maisto. Zombiai paprastai nesugeba kalbėti ir persekioja gyvuosius gaujomis. Jie nėra ypač protingi ir lengvai apgaujami.
+Zombiai yra atgaivinti lavonai, prikelti nekromantijos, vudu, demoniško apsėdimo arba modernių priežasčių, tokių kaip toksiškos cheminės medžiagos, radiacija ar biologinis maras. Kad ir kokia būtų jų kilmė, zombiai trokšta žmonių mėsos (kai kurie mėgsta smegenis) ir nieko daugiau neveikia, tik siekia maitintis. Zombiai dažniausiai nesugeba kalbėti ir persekioja gyvuosius minioje. Jie nėra labai protingi ir lengvai apgaunami.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6×1.5 | 3D6×1.5 | 2D6+6 | 6 | 1 | 2D6 | 1D6 |
 | 15–17 | 15–17 | 13 | 6 | 1 | 7 | 3–4 |
 
 | Judėjimas 4 | Gyvybės taškai 14–15 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** Nėra (žr. žemiau) |
+| **Žalos modifikatorius** +1D4 | **Šarvai** Nėra (žr. toliau) |
 
 **Atakos:**
 
-* Įkandimas 30%, 1D3+½dm (kraujuojanti)
-* Nagai 25%, 1D3+dm (kraujuojanti)
+* Įkandimas 30%, 1D3+½dm (kraujavimas)
+* Nagai 25%, 1D3+dm (kraujavimas)
 * Imtynės 35%, spec.
-* Didelis kūjis 35%, 1D8+1+dm (traiškanti)
+* Didelis kūjis 35%, 1D8+1+dm (traiškymas)
 
-Zombio įgūdis su ginklu lygus jo DEX×5. Zombiai niekada nebando vengti ar atremti.
+Zombio įgūdis su ginklu lygus jo VIK×5. Zombiai niekada nebando „Išsisukti“ ar blokuoti.
 
-**Galia:** Dauguma pjaunančių, traišančių ir praduriančių ginklų daro tik pusę žalos zombiams. Ugnis daro pilną žalą. Kai kuriuos zombių tipus galima nužudyti tik specialia sėkme, kuri sužaloja kaukolę. Tai įvyksta, kai ginklas pasiekia specialų ar kritinį rezultatą Sunkioje atakoje, arba smūgiu į galvos hit vietą, kuris padaro pakankamai žalos, kad jį neįgalintų. Kai kurie zombių tipai yra infekciniai – sėkmingas įkandimas paverčia auką zombiu per raundų skaičių, lygų jų CON, be išimčių.
+**Galios:** Dauguma pjaunančių, traiškiančių ir duriančių ginklų zombiams daro tik pusę žalos. Ugnis daro pilną žalą. Kai kurie zombių tipai gali būti nužudyti tik specialia sėkme, kuri sužaloja kaukolę. Tai įvyksta, kai ginklas pasiekia specialų ar kritinį rezultatą Sunkioje atakoje, arba smūgiu į galvos vietą, kuris padaro pakankamai žalos, kad padarytų jį neveiksniu. Kai kurie zombių tipai yra užkrečiami – sėkmingas įkandimas paverčia auką zombiu per raundų skaičių, lygų jų IŠT, be išimčių.
 
-**Įgūdžiai:** Jautrumas 50%.
+**Įgūdžiai:** Nuojauta 50%.
 
-## Iškviečiamos būtybės
+## Iššauktos būtybės
 
-Šios esybės nėra kilusios iš šio pasaulio arba yra iškviečiamos, kai pašaukiamos. Teologinės esybės, tokios kaip angelai ir demonai, turėtų būti sutinkamos tik pasauliuose, kur naudojama „Aistros“ sistema, o elementalai turėtų pasirodyti tik tada, jei egzistuoja atitinkamos galios jiems iškviesti.
+Šios esybės nėra kilusios iš šio pasaulio arba yra iššaukiamos į egzistenciją, kai jų prireikia. Teologinės esybės, tokios kaip angelai ir demonai, turėtų būti sutinkamos tik pasauliuose, kur naudojama Ištikimybė, o elementalai turėtų pasirodyti tik jei egzistuoja atitinkamos galios jiems iššaukti.
 
 ### Angelas
 
-Angelas yra šventa esybė, dieviškos jėgos pasiuntinys. Jie turi daug formų; jų išvaizda priklauso nuo panteono, kuriame jie gyvena. Angelai tarnauja kaip pasiuntiniai, globėjai, kariai, mentoriai ar kaip pranašai. Šis pavyzdys yra sparnuotas humanoidas, aprūpintas krūtinės šarvais ir liepsnojančiu kardu.
+Angelas yra šventa būtybė, dieviškosios jėgos pasiuntinys. Jie turi daug pavidalų; jų išvaizda pagrįsta panteonu, kuriam jie priklauso. Angelai tarnauja kaip pasiuntiniai, globėjai, kariai, mentoriai ar pranašai. Šis pavyzdys yra sparnuotas humanoidas, aprūpintas krūtinės šarvais ir liepsnojančiu kardu.
 
-Kaip pažymėta „Sveiko proto praradimas ir būtybės“, pamaldus veikėjas gali gauti SAN taškų pamatęs angelą, jei jo sveiko proto metimas sėkmingas.
+Kaip minima „Sveikumo praradime ir būtybėse“, pamaldus veikėjas gali gauti SAN taškų, matydamas angelą, jei jo sveikumo metimas yra sėkmingas.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+12 | 2D6+24 | 2D6+6 | 2D6+6 | 4D6+12 | 2D6+12 | 4D6+12 |
 | 26 | 31 | 13 | 13 | 26 | 19 | 26 |
 
-| Judėjimas 10 (12 skrydyje) | Gyvybės taškai 22 |
+| Judėjimas 10 (12 skrendant) | Gyvybės taškai 22 |
 | :---- | :---- |
 | **Žalos modifikatorius** +1D6 | **Šarvai** 10 tšk. plokštiniai krūtinės šarvai + 10 tšk. dieviškas švytėjimas |
 
 **Atakos:**
 
-* Liepsnojantis platus kardas 200%, 1D8+1+dm (pjaunanti) + 2D6 (ugnies)
-* Šventoji ugnis 100%, 10D6 (ugnies, žr. žemiau)
-* Dangaus balsas 100%, spec. (žr. žemiau)
+* Liepsnojantis platųjį kardas 200%, 1D8+1+dm (pjovimas) +2D6 (ugnis)
+* Šventoji ugnis 100%, 10D6 (ugnis, žr. toliau)
+* Dangaus balsas 100%, spec. (žr. toliau)
 
-Kaip dieviškos esybės, angelai gali viršyti 100% įgūdžių lygį, net jei ši galimybė netaikoma žaidėjų veikėjams (žr. Atakos ir atremtys virš 100%). Angelas niekada negali būti atskirtas nuo savo kardo, o kardas negali būti sulaužytas.
+Kaip dieviškos būtybės, angelai gali viršyti 100% įgūdžių lygius, net jei ši galimybė nenaudojama žaidėjų veikėjams (žr. Atakos ir blokavimai virš 100%). Angelas niekada negali būti atskirtas nuo savo kardo, o kardas negali būti sulaužytas.
 
-**Galia:** Sakoma, kad angelai turi daugybę galių, iš kurių kiekvienas atskiras angelas gali turėti kai kurias, visas arba nė vienos:
+**Galios:** Sakoma, kad angelai turi daugybę galių, iš kurių bet kuris individualus angelas gali turėti kai kurias, visas ar nė vienos:
 
-* **Dieviškas švytėjimas:** Angelai gali skleisti švytėjimą, kuris apsaugo juos nuo sužeidimų, tarnauja kaip 10 tšk. šarvai nuo bet kokio žalos šaltinio, įskaitant galias.
-* **Skrydis:** Nesvarbu, sparnuoti ar besparniai, angelai gali skristi dideliu greičiu. Angelai turi „Skrydžio“ supergalią, kurios lygis lygus jų POW, nors jos naudojimas nekainuoja galios taškų. Angelas gali pasirodyti besparnis, tada staiga iš nugaros išsiskleidžia didžiuliai paukštiški sparnai.
-* **Gydantis prisilietimas:** Angelai gali uždėti rankas ir gydyti ligonius, paliegusius ir sužeistus. Be gyvybės taškų atstatymo už 1 gyvybės tašką už kiekvieną galios tašką, angelas gali pašalinti bet kokią ligą, negalavimą, didelį sužeidimą ar negalią, išleisdamas 1 tašką savo paties nuolatinio POW už kiekvieną negalią. Jei angelo galios taškai pasiekia 0, jis grįžta į savo kilmės planą, kol bus vėl pašauktas ar jam bus leista grįžti (bent viena savaitė, po kurios jis visiškai atstatomas).
-* **Šventoji ugnis:** Angelai gali iškviesti šventą ugnį – liepsnos smūgį iš aukštybių su trijų metrų kvadratiniu ploto efektu. Jei pakliūva į šią liepsną, pamaldūs veikėjai, kurių „Aistros“ suderinamos su angelu, gali atlikti savo „Aistros“ metimą procentais. Jei sėkmingas, veikėjas nepatiria jokios žalos nuo šventosios ugnies. Nepamaldūs taikiniai ar tie, kuriems nepavyksta, yra apimami liepsnos, darančios 10D6 žalą (paskirstytą tarp hit vietų, jei naudojamos). Skirtingai nei normali ugnis, šventoji ugnis nelieka. Jos efektai beveik akimirksniai, išnykstantys kovos raundo, kuriame buvo iškviesta, pabaigoje. Tai kainuoja 10 galios taškų ir gali būti iškviesta kartą per dieną.
-* **Nematomumas:** Angelai gali tapti nematomi savo noru, kaip pagal supergalią, su ekvivalentu puse jų POW (suapvalinti į viršų). Tai kainuoja tik 3 galios taškus vienam naudojimui.
-* **Dangaus balsas:** Angelas gali kalbėti dangaus (ar atitikmens) balsu. Tai 10 metrų skersmens ploto efekto ataka nuo angelo, jis gali įspėti esančius diapazone užsidengti ausis, ir bet kas, kas paklauso, yra išgelbėtas. Šis balsas, griausmingas ir karališkas, apstulbina visus diapazone, jei jie nepavyksta atlikti savo POW vs. angelo POW pasipriešinimo metimo. Sėkmė reiškia, kad jie nėra paveikti šiame kovos raunde. Ši galia kainuoja 3 galios taškus ir pakeičia bet kokią fizinę ataką.
+* **Dieviškas švytėjimas:** Angelai gali skleisti šviesos spindesį, kuris saugo juos nuo sužalojimų, veikdamas kaip 10 tšk. šarvai nuo bet kokio žalos šaltinio, įskaitant galias.
+* **Skrydis:** Ar sparnuoti, ar besparniai, angelai gali skristi dideliu greičiu. Angelai turi „Skrydžio“ supergalią su lygiais, lygiais jų GAL, nors jos naudojimas nekainuoja galios taškų. Angelas gali pasirodyti besparnis, tada demonstruoti didelius paukštiškus sparnus, kurie staiga išauga ir išsiskleidžia iš jo nugaros.
+* **Gydantis prisilietimas:** Angelai gali uždėti rankas ir gydyti ligonius, paliegusius ir sužeistus. Be gyvybės taškų atstatymo (kaina 1 gyvybės taškas už 1 galios tašką), angelas gali pašalinti bet kokią ligą, negalavimą, didelę žaizdą ar silpnumą išleisdamas 1 tašką savo nuolatinės GAL už kiekvieną negalavimą. Jei angelo galios taškai pasiekia 0, jis grįžta į savo kilmės plokštumą, kol bus sušauktas ar leista sugrįžti (bent vieną savaitę, po kurios jis pilnai atsistato).
+* **Šventoji ugnis:** Angelai gali iššaukti šventąją ugnį, ugnies smūgį iš viršaus, kurio efekto plotas – trys kvadratiniai metrai. Jei patenka į šią ugnį, pamaldūs veikėjai, kurių ištikimybė dera su angelu, gali atlikti savo ištikimybės metimą %. Jei sėkmingas, veikėjas nepatiria žalos. Nepasisekę ar nepamaldūs taikiniai apimami ugnies, darant 10D6 žalą (padalytą tarp kūno vietų, jei naudojama). Priešingai nei normali ugnis, šventoji ugnis nelydi. Jos efektai yra beveik momentiniai, dingstantys kovos raundo, kai buvo iššaukti, pabaigoje. Tai kainuoja 10 galios taškų ir gali būti iššaukiama vieną kartą per dieną.
+* **Nematomumas:** Angelai gali tapti nematomi savo noru, kaip pagal supergalią, su lygiais, lygiais pusei jų GAL (suapvalinti į viršų). Tai kainuoja tik 3 galios taškus už naudojimą.
+* **Dangaus balsas:** Angelas gali kalbėti Dangaus (ar lygiaverčiu) balsu. Tai yra zonos efekto ataka dešimties metrų skersmens nuo angelo, jis gali įspėti tuos, kurie yra diapazone, užsidengti ausis, ir visi, kurie paklūsta, yra apsaugoti. Šis balsas, galingas ir karališkas, paralyžiuoja bet ką diapazone, jei jie nepavyksta pasipriešinimo metime: jų GAL vs angelo GAL. Sėkmė reiškia, kad jie nėra paveikti šį kovos raundą. Ši galia kainuoja 3 galios taškus ir pakeičia bet kokią fizinę ataką.
 
-**Burtai:** Angelai gali naudoti magiją ar supergalias. Dažniausiai naudojami magijos burtai: Kontrmagija, Išsklaidymas, Stiprinimas, Šviesa, Kalbėjimas į protą ir Teleportacija, visi 100%. Angelai retai naudoja burtus ir niekada nebūna mutantai. Jie gali turėti psichinių galių ar atitikmenų.
+**Kerai:** Angelai gali naudoti magiją ar supergalias. Dažniausiai naudojami magijos kerai: Priešmagija, Sklaida, Patobulinimas, Šviesa, Kalbėjimas su protu ir Teleportacija, visi 100%. Angelai retai naudoja burtus ir niekada nėra mutantai. Jie gali turėti psichinių galių ar lygiaverčių.
 
-**Įgūdžiai:** Vadovavimas 100%, Vengimas 100%, Skrydis 100%, Įžvalga 75%, Žinios (bet kokios) 100%, Kalba (bet kokia) 100%, Jautrumas 90%, Pastebėjimas 90%, Mokymas 90%.
+**Įgūdžiai:** Komandavimas 100%, Išsisukimas 100%, Skrydis 100%, Įžvalga 75%, Žinios (bet kokios) 100%, Kalba (bet kokia) 100%, Nuojauta 90%, Pastebėjimas 90%, Mokymas 90%.
 
-### Demonas, didysis
+### Demonai, Didesnieji
 
-Demonas yra infernalinė būtybė, iškviesta ar esanti šiame plane dėl baisaus tikslo. Didysis demonas nėra joks sargybinis ar tarnas – jis sutinkamas, nes ant kortos pastatyta kažkas monumentalaus. Priklausomai nuo asmenybės, jis gali būti žvėriškas ir susitelkęs tik į naikinimą, arba gali būti šmaikštus, urbanizuotas, žavingas ir įtikinantis. Ši statistika reprezentuoja kovai orientuotą demoną, naguotą ir raguotą, pasirengusį sėti chaosą visiems, kurie jam priešinasi.
+Demonas yra pragariška būtybė, sušaukta arba esanti šiame pasaulyje baisiam tikslui. Didesnysis demonas nėra tik sargas ar tarnas – su juo susiduriama, nes ant kortos pastatyta kažkas monumentalus. Priklausomai nuo asmenybės, jis gali būti žvėriškas ir susikoncentravęs tik į griovimą, arba gali būti sąmojingas, urbanizuotas, žavingas ir įtaigus. Ši statistika reprezentuoja kovai orientuotą demoną, naguotą ir raguotą, pasirengusį skleisti chaosą visiems, kurie jam priešinasi.
 
-Nors angelo pamatymas potencialiai gali atstatyti SAN taškus pamaldžiam tikinčiajam, tie, kurie garbina pragariškas jėgas, nėra tokie laimingi. Veikėjas, stebintis didįjį demoną, rizikuoja SAN praradimu, net jei patys jį iškvietė.
+Nors matymas angelo gali potencialiai atstatyti SAN taškus pamaldžiam tikinčiajam, tie, kurie garbina pragariškas jėgas, nėra tokie laimingi. Veikėjas, matantis didesnįjį demoną, rizikuoja prarasti SAN, net jei pats jį sušaukė.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 3D6+24 | 3D6+12 | 3D6+12 | 3D6 | 3D6+6 | 3D6+6 | 3 ar 21 |
-| 34–35 | 22–23 | 22–23 | 10–11 | 16–17 | 16–17 | 3 ar 21 |
+| 3D6+24 | 3D6+12 | 3D6+12 | 3D6 | 3D6+6 | 3D6+6 | 3 arba 21 |
+| 34–35 | 22–23 | 22–23 | 10–11 | 16–17 | 16–17 | 3 arba 21 |
 
-| Judėjimas 10 (12 skrydyje) | Gyvybės taškai 22–23 |
+| Judėjimas 10 (12 skrendant) | Gyvybės taškai 22–23 |
 | :---- | :---- |
 | **Žalos modifikatorius** +2D6 | **Šarvai** 8 tšk. tvirta oda (gali dėvėti šarvus) |
 
 **Atakos:**
 
-* Didelis kardas (naudojamas viena ranka) 150%, 2D8+dm (kraujuojanti) + 2D6 ugnies (spec.)
-* Botagas 90%, 1D3–1+½dm (įpainiojanti) + 1D6 ugnies (spec.)
-* Ugnies kvėpavimas 100%, 6D6 ugnies (spec.)
-* Nagai 150%, 1D6+dm (kraujuojanti)
+* Didysis kardas (naudojamas viena ranka) 150%, 2D8+dm (kraujavimas) +2D6 ugnies (spec.)
+* Botagas 90%, 1D3–1+½dm (raizgymas) +1D6 ugnies (spec.)
+* Ugnies alsavimas 100%, 6D6 ugnies (spec.)
+* Nagai 150%, 1D6+dm (kraujavimas)
 * Imtynės 150%, spec.
 
-Didysis demonas paprastai pradeda nuo ugnies pliūpsnio iš burnos prieš įsitraukdamas į fizinę kovą. Jis gali atlikti dvi (ar daugiau) atakas per raundą, pirmenybę teikdamas botagui, kad imobilizuotų priešą, o tada 5 DEX rangais vėliau smūgiuoti dideliu kardu. Jo liepsnojantis didelis kardas gali uždegti degias medžiagas. Jis kovoja dvejomis rankomis su ilgu botagu, taip pat liepsnojančiu. Jei bet kuris ginklas prarandamas, jis griebiasi nagų arba imtynių. Skirtingai nei angelo ginklai, didžiojo demono ginklai turi dvigubus gyvybės taškus, bet gali būti sulaužyti ar kitaip sunaikinti (tačiau jie atsparūs ugniai).
+Didesnysis demonas paprastai pradeda ugnies sprogimu iš nasrų prieš įsitraukdamas į fizinę kovą. Jis gali atlikti dvi (ar daugiau) atakas per raundą, pirmenybę teikdamas botagui, kad imobilizuotų priešininką, tada 5 VIK laipsniais vėliau smogdamas didžiuoju kardu. Jo liepsnojantis didysis kardas gali uždegti degias medžiagas. Jis kovoja dviem rankomis su ilgu botagu, taip pat liepsnojančiu. Jei bet kuris ginklas prarandamas, jis griebiasi nagų ar imtynių. Priešingai nei angelo ginklai, didesniojo demono ginklai turi dvigubus gyvybės taškus, bet gali būti sulaužyti ar kitaip sunaikinti (tačiau jie yra imunitetas ugniai).
 
-**Įgūdžiai:** Laipymas 90%, Vengimas 75%, Skrydis 100%, Šuolis 75%, Jautrumas 75%, Pastebėjimas 75%, Mėtymas 75%.
+**Įgūdžiai:** Laipiojimas 90%, Išsisukimas 75%, Skrydis 100%, Šuolis 75%, Nuojauta 75%, Pastebėjimas 75%, Metimas 75%.
 
-**Galia:** Sakoma, kad demonai turi daugybę galių, iš kurių kiekvienas atskiras demonas gali turėti kai kurias, visas arba nė vienos:
+**Galios:** Sakoma, kad demonai turi daugybę galių, iš kurių bet kuris individualus demonas gali turėti kai kurias, visas ar nė vienos:
 
-* **Teroro aura:** Didysis demonas turi malevolencijos ir neapykantos spinduliavimą, kuris pasireiškia teroro aura. Kiekvienas, priartėjęs prie demono POW atstumu metrais, turi atlikti POW vs. POW pasipriešinimo metimą, kad išvengtų teroro. Nesėkmė reiškia, kad veikėjas apimamas baimės, ir visos atakos bei kiti veiksmai tampa Sunkūs. Paveikti veikėjai gali bandyti naują pasipriešinimo metimą kito kovos raundo pradžioje, nors šiame metime jų POW yra perpus mažesnis (suapvalinti į viršų). Demonas gali aktyvuoti šią aurą už 1 galios tašką, ir ji trunka demono POW kovos raundų arba kol demonas nusprendžia galią sustabdyti. Kiekvienas, esantis demono „pusėje“ ar turintis tą pačią „Aistrą“, yra atleidžiamas nuo šios galios, nebent demonas nori, kad ji veiktų sąjungininkus. Jei veikėjas nepavyksta pasipriešinimo metime ir naudojamas sveikas protas, veikėjas praranda pilną galimą SAN kiekį pamatęs didįjį demoną.
-* **Maras:** Demono buvimas sukelia vietovės užteršimą, persuktą blogiu demono sieloje. Tai nėra naudinga kovoje, bet ilgainiui užteršia plotą, kol šis įgauna blogą, ilgalaikį blogio ir malevolencijos buvimą. Gyvi augalai nuvysta arba auga persukti ir kartūs, dirva tampa sausa ir niūri, o pati atmosfera įgauna nesveiką aspektą. Šio efekto spindulys lygus didžiojo demono POW×100 metrų. Aktyvuoti nieko nekainuoja, tai vyksta automatiškai ir ne demono kontrolėje (buvimo negalima maskuoti ar slėpti). Reikia 30 dienų minus demono POW, kad šis buvimas taptų akivaizdus, ir demono POW mėnesių, kad vietovė atsigautų, kai tampa užteršta.
-* **Ugnies kvėpavimas:** Demonas gali iškvėpti ugnies pliūpsnį su nuotoliu, lygiu jo CON metrais. Tai ploto ataka trijų metrų kvadratiniu ploto. Bet kas, pakliuvęs į šį pliūpsnį, patiria 6D6 ugnies žalos (nepriklausomai nuo jų Aistros), žala paskirstoma tarp visų hit vietų, jei naudojamos. Ši ugnis išlieka ir toliau dega tris vėlesnius raundus. Dėl detalesnės informacijos žr. ugnies taisykles. Šis liepsnojantis pliūpsnys kainuoja 6 galios taškus už pliūpsnį.
-* **Skrydis:** Didysis demonas turi didžiulius į šikšnosparnį panašius sparnus ir gali skristi nenuilstamai ir lengvai.
-* **Regeneracija:** Demonas turi pragarišką gyvybingumą ir gali regeneruoti 1D6 gyvybės taškus per kovos raundą už 0 galios taškų kainą. Jei naudojamos hit vietos, demonas išgydo 1D3 gyvybės taškus per hit vietą per kovos raundą.
-* **Dūmų ir ugnies apsiaustas:** Demonas gali apgaubti save liepsnojančiu švytėjimu, kuris daro 1D6 ugnies žalos per kovos raundą bet kuriai būtybei, priartėjusiai per du metrus, pavyzdžiui, artimoje kovoje. Šis apsiaustas gali uždegti bet kokią degią medžiagą aplink demoną. Jis tarnauja kaip 1 tšk. papildomi šarvai nuo bet kokio medinio tolimojo nuotolio ginklo, nukreipto į jį, pavyzdžiui, strėlės ar arbaleto strėlės. Šis apsiaustas gali būti aktyvuotas savo noru ir kainuoja 1 galios tašką per raundą palaikyti.
+* **Siaubo aura:** Didesnysis demonas turi piktavališkumo ir neapykantos spindesį, kuris pasireiškia siaubo aura. Kiekvienas, patenkantis į demono GAL metrais, privalo atlikti GAL vs GAL pasipriešinimo metimą, kad išvengtų siaubo įveikimo. Nesėkmė reiškia, kad veikėjas apimtas baimės ir visi puolimai bei kiti veiksmai tampa Sunkūs. Paveikti veikėjai gali bandyti naują pasipriešinimo metimą kito kovos raundo pradžioje, nors šiame metime jų GAL dalijamas per pusę (suapvalinti į viršų). Demonas gali aktyvuoti šią aurą už 1 galios tašką, ir ji trunka demono GAL kovos raundų arba kol demonas nusprendžia galią sustabdyti. Visi, esantys demono „pusėje“ arba turintys tą pačią ištikimybę, yra atleidžiami nuo šios galios, nebent demonas nori, kad ji veiktų sąjungininkus. Jei veikėjas pralaimi pasipriešinimo metimą ir naudojamas sveikumas, veikėjas praranda visą įmanomą SAN kiekį matydamas didesnįjį demoną.
+* **Maras:** Demono buvimas sukelia vietovės užteršimą, iškreiptą tamsiu blogiu demono sieloje. Tai nenaudinga kovoje, bet ilgainiui užteršia vietovę, kol ji įgauna grėsmingą ir ilgalaikį blogio bei piktavališkumo buvimą. Gyvi augalai vysta arba auga iškreipti ir kartūs, dirvožemis tampa sausas ir niūrus, o pati atmosfera įgauna nesveiką aspektą. Šio efekto spindulys lygus didesniojo demono GAL×100 metrų. Tai nekainuoja galios taškų aktyvuoti, yra automatiška ir demonui nekontroliuojama (buvimo negalima užmaskuoti ar paslėpti). Reikia 30 dienų minus demono GAL, kad šis buvimas taptų akivaizdus, ir demono GAL mėnesių, kad vietovė atsigautų, kai ji tapo užkrėsta.
+* **Ugnies alsavimas:** Demonas gali kvėpuoti ugnies sprogimu, kurio nuotolis lygus jo IŠT metrais. Šis sprogimas yra zoninė trijų metrų kvadratinė ataka. Visi, patekę į šį sprogimą, patiria 6D6 ugnies žalą (nepriklausomai nuo jų ištikimybės), žala padalijama tarp visų kūno vietų, jei naudojamos. Ši ugnis išlieka ir dega dar tris raundus. Daugiau informacijos rasite ugnies taisyklėse. Šis ugnies sprogimas kainuoja 6 galios taškus.
+* **Skrydis:** Didesnysis demonas turi milžiniškus į šikšnosparnį panašius sparnus ir gali skristi nenuilstamai ir lengvai.
+* **Atsistatymas:** Demonas turi pragarišką gyvybingumą ir gali atsistatyti 1D6 gyvybės taškus per kovos raundą be galios taškų kainos. Jei naudojamos kūno vietos, demonas gydo 1D3 gyvybės taškus per kūno vietą per raundą.
+* **Dūmų ir ugnies apvalkalas:** Demonas gali apsigaubti liepsnojančiu spindesiu, kuris daro 1D6 ugnies žalą per kovos raundą bet kuriai būtybei, patenkančiai į dviejų metrų atstumą nuo jo, pavyzdžiui, fizinėje kovoje. Šis apvalkalas gali uždegti bet kokią degią medžiagą aplink demoną. Jis tarnauja kaip 1 tšk. papildomi šarvai nuo bet kokio medinio tolimojo ginklo, nukreipto į jį, pavyzdžiui, strėlės ar arbaleto strėlės. Šis apvalkalas gali būti aktyvuotas savo noru ir kainuoja 1 galios tašką per raundą išlaikymui.
 
-Didysis demonas gali turėti vieną ar daugiau chaotiškų bruožų.
+Didesnysis demonas taip pat gali turėti vieną ar daugiau chaotiškų savybių.
 
-### Demonas, mažasis
+### Demonai, Mažesnieji
 
-Mažasis demonas yra daug mažesnis už didįjį demoną ir buvo iškviestas burtininko (žr. burtą „Iškviesti demoną“) arba pasiųstas kaip pasiuntinys ar korupcijos agentas. Šis mažasis demonas yra groteskiška būtybė, panaši į išsekusį gargulą su nagais, sparnais ir ragais. Jis nėra bailus, bet pirmenybę teikia tarnystei priemonėmis, o ne kova. Sunaikintas jis grįžta į infernalines sferas, kur yra stumdomas ir kankinamas. Taigi, jis nori kuo ilgiau pratęsti savo laisvę šiame pasaulyje.
+Mažesnysis demonas yra daug mažesnis už didesnįjį ir buvo sušauktas burtininko (žr. burtą Iššaukti demoną) arba atsiųstas kaip pasiuntinys ar korupcijos agentas. Šis mažesnysis demonas yra groteskiška būtybė, panaši į iškankintą gargulą su nagais, sparnais ir ragais. Jis nėra bailus, bet pirmenybę teikia tarnavimui kitais būdais, o ne kova. Sunaikintas jis grįžta į pragariškas sferas, kur yra engiamas ir kankinamas. Todėl jis nori pratęsti savo laisvę šiame pasaulyje kuo ilgiau.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+3 | 3D6 | 1D6+6 | 2D6+3 | 2D6+6 | 3D6+3 | 1D6+3 |
 | 10 | 10–11 | 9–10 | 10 | 13 | 13–14 | 6–7 |
 
-| Judėjimas 8 (12 skrydyje) | Gyvybės taškai 10 |
+| Judėjimas 8 (12 skrendant) | Gyvybės taškai 10 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** 1 tšk. žvynuota oda |
+| **Žalos modifikatorius** Nėra | **Šarvai** 1 tšk. žvynų oda |
 
 **Atakos:**
 
-* Nagai 50%, 1D3+dm (kraujuojanti)
-* Įkandimas 35%, 1D3+½ dm (kraujuojanti)
+* Nagai 50%, 1D3+dm (kraujavimas)
+* Įkandimas 35%, 1D3+½ dm (kraujavimas)
 * Imtynės 45%, spec.
 
-Demonas gali atlikti dvi nagų atakas kovos raunde. Jei abiem sėkmingas, jis bando imtyniauti ir įkąsti kitame kovos raunde.
+Demonas per kovos raundą gali atlikti dvi nagų atakas. Jei sėkmingas abiem, jis kitame kovos raunde bando sugriebti ir įkąsti.
 
-**Įgūdžiai:** Derybos 55%, Laipymas 65%, Vengimas 50%, Greitas kalbėjimas 40%, Skrydis 75%, Slėpimasis 45%, Žinios (Regionas: Pragaras) 35%, Klausymas 40%, Jautrumas 35%, Pastebėjimas 50%, Slaptumas 35%.
+**Įgūdžiai:** Derybos 55%, Laipiojimas 65%, Išsisukimas 50%, Greitas kalbėjimas 40%, Skrydis 75%, Slėpimasis 45%, Žinios (Regionas: Pragaras) 35%, Klausymasis 40%, Nuojauta 35%, Pastebėjimas 50%, Slapstymasis 35%.
 
-**Galia:** Mažieji demonai nėra ypač galingi, nors vienas gali turėti keletą burtų, jei jo POW pakankamai aukštas. Įprasti burtai: Burtų prakeiksmas (4), Saulės liepsnos (4), Vidurnaktis (1), Pox (1). Burtininkas, iškviečiantis mažąjį demoną, gali pasirinkti, kokius burtus demonas moka, jei prieš tai atliktas tinkamas tyrimas. Demonas taip pat gali turėti vieną ar daugiau chaotiškų bruožų.
+**Galios:** Mažesnieji demonai nėra itin galingi, nors vienas gali turėti keletą burtų, jei jo GAL pakankamai aukštas. Įprasti kerai: Burtų prakeiksmas (4), Saulės liepsnos (4), Vidurnaktis (1) ir Maras (1). Burtininkas, šaukiantis mažesnįjį demoną, gali pasirinkti, kokius kerus demonas žino, jei prieš tai atliktas tinkamas tyrimas. Demonas taip pat gali turėti vieną ar daugiau chaotiškų savybių.
 
 ### Elementalai
 
-Elementalai yra pirmykštės elementalinės dvasios, pasireiškiančios kūnais, sudarytais iš jų tipo elemento. Jie paprastai iškviečiami per magijos burtą „Iškviesti elementalą“, burtą „Iškviesti elementalą“ ar kitais būdais, kartais pasireiškiantys natūraliai.
+Elementalai yra pirmykštės elementalinės dvasios, pasireiškiančios kūnuose, sudarytuose iš jų tipo elemento. Jie dažniausiai sušaukiami į egzistenciją magijos keru Iššaukti elementalą, burtų keru Iššaukti elementalą arba per kitas priemones, galbūt net pasitaikančius natūraliai.
 
-Elementalo gyvybės taškai nustatomi pridedant jų CON+SIZ, o ne vidurkinant. Elementalai neatstato prarastų gyvybės taškų ar galios taškų: kai vienas sumažinamas iki 0 gyvybės taškų ar išleidžia paskutinį galios tašką, jis dingsta, vėl tapdamas elementu, iš kurio buvo sudarytas.
+Elementalo gyvybės taškai nustatomi sudedant IŠT+DYD, o ne vidurkinant. Elementalai negydo prarastų gyvybės taškų ir neatsistato galios taškų: kai vienas sumažinamas iki 0 gyvybės taškų arba išleidžia savo paskutinį galios tašką, jis išnyksta, sugrįždamas į žalią elementą, iš kurio buvo sudarytas.
 
-Kaip magiškos būtybės, elementalai yra imunitetingi normalioms atakoms, tokioms kaip ginklai ar šaunamieji ginklai. Tačiau jie yra pažeidžiami vieni kitų atakų. Priklausomai nuo pasaulio, energijos ar cheminiai ginklai gali juos paveikti, o medžiagų, natūraliai jiems prieštaraujančių, atakos taip pat gali turėti efektą. Galiausiai, daugelis galių paveiks elementalus, žaidimo vedėjo nuožiūra.
+Kaip magiškos būtybės, elementalai yra imunitetas normalioms atakoms, tokioms kaip ginklai ar šaunamieji ginklai. Tačiau jie yra pažeidžiami vienas kito atakų. Priklausomai nuo pasaulio, energijos ar cheminiai ginklai gali juos paveikti, ir atakų medžiagos, kurios natūraliai jiems priešinasi, taip pat gali turėti poveikį. Galiausiai, daugelis galių veiks elementalus, meistro nuožiūra.
 
-Čia pateikiami keturi tradiciniai elementų tipai – oro, žemės, ugnies ir vandens. Gali egzistuoti ir kiti, ar tai dvasios, šešėliai, hibridai, ar net aspektai tokie kaip laikas, gravitacija, šviesa ir t.t. Pavyzdžiai yra vidutiniai, jie gali būti galingesni arba silpnesni, kaip pageidaujama.
+Čia pateikiami keturi tradiciniai elementalų tipai – oro, žemės, ugnies ir vandens. Gali egzistuoti ir kiti, ar tai būtų dvasia, šešėlis, hibridai, ar net aspektai tokie kaip laikas, gravitacija, šviesa ir kt. Pavyzdžiai yra vidutiniai, ir juos galima padaryti galingesniais ar silpnesniais, kaip norima.#### Oro elementalas
 
-#### Oro elementalas
+Oro elementalai dažniausiai atrodo kaip sklandančios, permatomos, stulbinančio grožio moteriškos lyties būtybės, nuogos arba vilkinčios lengvus drabužius, apsuptos sūkurio. Jos vos apčiuopiamos, tarsi sudarytos iš sutirštinto oro. Jų balsai švelnūs ir silpni, jos išdykusios ir pasižymi trumpu dėmesio telkimu. Oro elementalai dažnai vadinami silfais.
 
-Oro elementalai paprastai pasirodo kaip plūduriuojančios, skaidrios neįtikėtino grožio žmonių moterys, nuogos ar su miglotais rūbais, apsuptos viesulo. Jie beveik nejuntami, tarsi suformuoti iš sutirštėjusio oro. Jų balsai minkšti ir silpni, jie yra išdykę, trumpo dėmesio. Oro elementalai dažnai vadinami silfais.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6 | 3D6 | 2D6 | 4D6 | 3D6 | 4D6 | 3D6+3 |
 | 10–11 | 10–11 | 7 | 14 | 10–11 | 14 | 13–14 |
 
-| Judėjimas 10 (12 skrydyje) | Gyvybės taškai 17–18 |
+| Judėjimas 10 (12 skriejant) | Gyvybės taškai 17–18 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, bet imunitetas normalioms atakoms |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, bet nepažeidžiami įprastų atakų |
 
 **Atakos:**
 
-* Viesulas 50%, 1D10 (atstumianti, nuotolis yra POW metrais)
+* Draskantis vėjas 50 %, 1D10 (atstūmimas, nuotolis yra GAL metrais)
 
-**Įgūdžiai:** Vengimas 75%, Skrydis 100%, Kalba (kvieslio) 100%, Klausymas 75%, Mokslas (Meteorologija) 100%, Jautrumas 75%, Pastebėjimas 75%.
+**Įgūdžiai:** Išsisukimas 75 %, Skriejimas 100 %, Kalba (kvieslio) 100 %, Klausymasis 75 %, Mokslas (Meteorologija) 100 %, Pojūtis 75 %, Pastebėjimas 75 %.
 
-**Galia:** Oro elementalas turi kontrolę savo elementui, naudodamas bet kurį iš šių galių tipų:
+**Galios:** Oro elementalas valdo savo stichiją, naudodamas bet kurį iš šių galių tipų:
 
-* **Magija:** Gali iškviesti „Pakėlimo“ ir „Žaibo“ burtus savo POW×3% tikslumu už reguliarią galios taškų kainą.
-* **Burtininkystė:** Gali iškviesti „Dangaus sparnus“ (4) savo noru, be galios taškų kainos.
-* **Supergalios:** Turi ekvivalentą ¼ savo POW (suapvalinti į viršų) „Energijos kontrolės“ (vėjas) ir „Energijos projekcijos“ (vėjas) supergalių lygių.
-* Oro elementalas gali, savo gyvybės kaina, sunaikinti lygiavertės stiprybės ugnies elementalą.
-* Taip pat gali tiekti įkvepiamą orą vienam veikėjui, už 1 gyvybės tašką per raundą.
-* Oro elementalai gali tapti nematomi už 1 galios tašką, nors vėl pasirodo, jei komanduoja kvieslys, arba jei puola ką nors.
+* **Magija:** Jis gali burti „Pakėlimo“ (Lift) ir „Žaibo“ (Lightning) kerus savo GAL×3 % tikimybe už įprastą galios taškų kainą.  
+* **Burtininkystė:** Jis gali laisvai naudoti „Dangaus sparnus“ (Wings of the Sky) (4), be galios taškų kainos.  
+* **Supergalios:** Jis turi savo GAL dydį atitinkančias, padalintas iš 4 (apvalinant į viršų), lygias „Energijos valdymo (Vėjas)“ ir „Energijos projekcijos (Vėjas)“ supergalias.  
+* Oro elementalas gali savo gyvybės kaina sunaikinti lygiavertės stiprybės ugnies elementalą.  
+* Jis taip pat gali suteikti kvėpuojamą orą vienam veikėjui, 1 gyvybės taško per raundą kaina.  
+* Oro elementalai gali bet kada tapti nematomais už 1 galios tašką, nors jie vėl pasirodo, jei to pareikalauja kvieslys arba jei jie ką nors užpuola.
 
 #### Žemės elementalas
 
-Žemės elementalai pasirodo kaip stambaus kūno humanoidinės figūros, sudarytos iš akmens, žemės ir mineralų, su šaknimis ir vijokliais tarsi venomis, kartais samanų ir lapų plaukais ar barzdomis. Jų balsai žemi ir šaižūs, jie dažnai lėtapėdžiai ir niūrūs, suirzę, kai iškviečiami, nors vis tiek vykdo kvieslio įsakymus. Kitose aplinkose jie gali pasirodyti kaip turimos žemės tipas, pavyzdžiui, smėlis ir smiltainis dykumoje. Dažnai vadinami gnomais.
+Žemės elementalai atrodo kaip stambaus kūno humanoidinės formos, sudarytos iš akmens, žemės ir mineralų, su šaknimis ir vijokliais tarsi venomis, kartais – samanų ir lapų plaukais ar barzdomis. Jų balsai žemi ir kimūs, jie dažnai lėtapėdžiai ir niūrūs, nusiteikę priešiškai, kai yra iškviečiami, nors vis tiek paklūsta kviesliui. Kitose aplinkose jie gali atrodyti kaip ten esanti žemė, pavyzdžiui, smėlis ar smiltainis dykumoje. Jie dažnai vadinami gnomais.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 5D6+12 | 3D6+6 | 3D6 | 2D6 | 3D6 | 2D6 | 1D6+3 |
 | 29–30 | 16–17 | 10–11 | 7 | 10–11 | 7 | 6–7 |
 
 | Judėjimas 6 | Gyvybės taškai 26–28 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D6 arba +2D6 | **Šarvai** Nėra, bet imunitetas normalioms atakoms (žr. žemiau) |
+| **Žalos modifikatorius** +1D6 arba +2D6 | **Šarvai** Nėra, bet nepažeidžiami įprastų atakų (žr. žemiau) |
 
 **Atakos:**
 
-* Kumštis 50%, 1D6+dm (traiškanti)
+* Kumštis 50 %, 1D6+žm (triuškinanti)
 
-**Įgūdžiai:** Vertinimas 50%, Amatas (kalvystė) 75%, Kalba (kvieslio) 25%, Mokslas (metalurgija) 100%.
+**Įgūdžiai:** Vertinimas 50 %, Amatas (Kalvystė) 75 %, Kalba (kvieslio) 25 %, Mokslas (Metalurgija) 100 %.
 
-**Galia:** Žemės elementalas turi kontrolę savo elementui, naudodamas bet kurį iš šių galių tipų:
+**Galios:** Žemės elementalas valdo savo stichiją, naudodamas bet kurį iš šių galių tipų:
 
-* **Magija:** Gali iškviesti „Tylos“ ir „Sienos“ burtus savo POW×3% tikslumu už reguliarią galios taškų kainą.
-* **Burtininkystė:** Gali iškviesti „Žemės dovaną“ (4) savo noru, be galios taškų kainos.
-* **Supergalios:** Turi ekvivalentą ¼ savo POW (suapvalinti į viršų) „Barjero“ supergalios lygių.
-* Žemės elementalas gali, savo gyvybės kaina, sunaikinti lygiavertės stiprybės oro elementalą.
-* Taip pat gali pasinerti į žemę ir judėti normaliu greičiu, iškylant, kai nori. Šį gebėjimą gali suteikti veikėjui savo SIZ ar mažesniam, jį apgaubdamas ir nešdamas per žemę nepažeistą normaliu elementalo MOV greičiu. Tai darys tik su savanorišku veikėju, bet netiekia deguonies kelionei (žr. Uždusimas, skendimas ir asfiksija).
-* Be imuniteto normalioms atakoms, žemės elementalas turi šansą sulaužyti bet kokį normalų metalinį ginklą. Jei veikėjas sėkmingai smūgiuoja žemės elementalui metaliniu ginklu, jie turi atlikti ginklo gyvybės taškų vs. žemės elementalo CON pasipriešinimo metimą. Jei ginklo metimas nepavyksta, jis automatiškai lūžta. Jei sėkmingas, jis nelūžta. Šį metimą reikia atlikti tik vieną kartą pirmą sėkmingą smūgį raunde, ir jis taikomas ginklams su laikinai uždėtais burtais ar burtininkyste, bet ne magiškiems ginklams.
-* Žemės elementalai taip pat žino apie bet kokius tauriuosius metalus ar kitus dalykus po žeme savo INT×100 metrų atstumu, bet tik nenoriai tai pripažins, ir turi būti įtikinti ar komanduoti nueiti ir parnešti šiuos daiktus. Šios galios naudojimas kainuoja žemės elementalui galios taškus, lygius parnešto daikto SIZ.
+* **Magija:** Jis gali burti „Bukumo“ (Dull) ir „Sienos“ (Wall) kerus savo GAL×3 % tikimybe už įprastą galios taškų kainą.  
+* **Burtininkystė:** Jis gali laisvai naudoti „Žemės dovaną“ (Gift of the Earth) (4), be galios taškų kainos.  
+* **Supergalios:** Jis turi savo GAL dydį atitinkančias, padalintas iš 4 (apvalinant į viršų), lygias „Barjero“ (Barrier) supergalias.  
+* Žemės elementalas gali savo gyvybės kaina sunaikinti lygiavertės stiprybės oro elementalą.  
+* Jis taip pat gali įsmigti į žemę ir judėti įprastu greičiu, išnirdamas, kada tik panorėjęs. Jis gali išplėsti šią galimybę veikėjui, kurio DYD neviršija jo paties, įtraukdamas jį ir nešdamas per žemę nepažeistą elementalo įprastu JUDėjimo greičiu. Jis tai darys tik su savanoriu veikėju, tačiau neaprūpina jo deguonimi kelionės metu (žr. Uždusimas, Skendimas ir Asfiksija).  
+* Be to, kad yra nepažeidžiamas įprastų atakų, žemės elementalas turi šansą sulaužyti bet kokį įprastą metalinį ginklą. Jei veikėjas sėkmingai suduoda žemės elementalui metaliniu ginklu, jis privalo atlikti ginklo gyvybės taškų pasipriešinimo metimą prieš žemės elementalo IŠT. Jei ginklo metimas nepavyksta, jis automatiškai lūžta. Jei pavyksta – nelūžta. Šį metimą reikia atlikti tik kartą per pirmą sėkmingą smūgį raunde; jis taikomas ginklams, laikinai paveiktiems magijos ar burtų, bet ne magiškiems ginklams.  
+* Žemės elementalai taip pat jaučia bet kokius tauriuosius metalus ar bet ką, esantį po žeme jų INT×100 metrų spinduliu, tačiau pripažįsta tai tik nenoromis ir turi būti įtikinti ar įsakyti juos atnešti. Šios galios naudojimas elementalui kainuoja galios taškų, lygių atnešto daikto DYD.
 
 #### Ugnies elementalas
 
-Ugnies elementalai pasirodo kaip keturkojai ropliai, sudaryti iš liepsnojančios plazmos. Jie degina žemę, kuria vaikšto, o iš burnų kyla dūmai, kai jie kalba savo šnypščiančiais, traškančiais balsais. Jie yra suirzę ir karštakošiai. Ugnies elementalai dažnai vadinami salamandromis.
+Ugnies elementalai atrodo kaip keturkojai ropliai, sudaryti iš ugningos plazmos. Jie degina žemę, kuria žengia, o iš jų nasrų rūksta dūmai, kai jie kalba šnypščiančiais, spragsinčiais balsais. Jie dažniausiai yra irzlūs ir karštakošiai. Ugnies elementalai dažnai vadinami salamandromis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 3D6+6 | 2D6 | 3D6 | 4D6 | 1D6+3 |
 | 13 | 10–11 | 16–17 | 7 | 10–11 | 14 | 6–7 |
 
 | Judėjimas 10 | Gyvybės taškai 26–28 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** Nėra, bet imunitetas normalioms atakoms |
+| **Žalos modifikatorius** +1D4 | **Šarvai** Nėra, bet nepažeidžiami įprastų atakų |
 
 **Atakos:**
 
-* Ugnies kvėpavimas 50%, 1D10 per raundą (ugnies, nuotolis yra POW metrais)
-* Imtynės 50%, spec. + 1D6 per raundą (ugnies)
+* Ugnies alsavimas 50 %, 1D10 per raundą (ugnis, nuotolis yra GAL metrais)  
+* Griebimas 50 %, specialus + 1D6 per raundą (ugnis)
 
-**Įgūdžiai:** Griovimas 75%, Vengimas 50%, Kalba (kvieslio) 50%, Klausymas 50%, Jautrumas 50%, Pastebėjimas 50%.
+**Įgūdžiai:** Griovimas 75 %, Išsisukimas 50 %, Kalba (kvieslio) 50 %, Klausymasis 50 %, Pojūtis 50 %, Pastebėjimas 50 %.
 
-* **Galia:** Ugnies elementalas turi kontrolę savo elementui, naudodamas bet kurį iš šių galių tipų:
-* **Magija:** Gali iškviesti „Ugnies“ ir „Pasipriešinimo“ burtus savo POW×3% tikslumu už reguliarią galios taškų kainą.
-* **Burtininkystė:** Gali iškviesti „Saulės liepsnas“ (4) savo noru, be galios taškų kainos.
-* **Supergalios:** Turi ekvivalentą ¼ savo POW (suapvalinti į viršų) „Energijos kontrolės“ (karštis) ir „Energijos projekcijos“ (karštis) supergalių lygių.
-* Ugnies elementalas gali, savo gyvybės kaina, sunaikinti lygiavertės stiprybės vandens elementalą.
-* Gali uždegti bet kokią degią medžiagą palietimu, bet niekada savo noru negesins ir neleis užgesti ugniai.
+* **Galios:** Ugnies elementalas valdo savo stichiją, naudodamas bet kurį iš šių galių tipų:  
+* **Magija:** Jis gali burti „Liepsnos“ (Flame) ir „Pasipriešinimo“ (Resistance) magijos kerus savo GAL×3 % tikimybe už įprastą galios taškų kainą.  
+* **Burtininkystė:** Jis laisvai naudoja „Saulės liepsnas“ (Flames of the Sun) (4), be galios taškų kainos.  
+* **Supergalios:** Jis turi savo GAL dydį atitinkančias, padalintas iš 4 (apvalinant į viršų), lygias „Energijos valdymo (Karštis)“ ir „Energijos projekcijos (Karštis)“ supergalias.  
+* Ugnies elementalas gali savo gyvybės kaina sunaikinti lygiavertės stiprybės vandens elementalą.  
+* Jis gali uždegti bet kokią degią medžiagą prisilietimu, bet niekada savo noru neužgesins ir neužkirs kelio gaisrui.#### Vandeninis elementalas
 
-#### Vandens elementalas
+Vandeniniai elementalai atrodo kaip gražios vandens būtybės, miglotai permatomos jūros spalvos moterys, turinčios žalsvai melsvus plaukus ir odą. Jos yra vilioklės, dažniausiai apsirengusios menkai arba nuogos. Jei susitinkami sausumoje, vandeniniai elementalai palieka šlapius pėdsakus ir nuolat laša vandeniu. Jos yra protingos, mąslios ir kalba gurguliuojančiais balsais. Vandeniniai elementalai dažnai vadinami undinėmis.
 
-Vandens elementalai pasirodo kaip gražios akvatines, neaiškiai skaidrios žmonių moterys, jūros spalvos, su žalsvai mėlynais plaukais ir oda. Jos viliojančios ir paprastai menkai apsirengusios ar nuogos. Jei sutinkami sausumoje, vandens elementalai palieka šlapius pėdsakus ir nuolat varva vandeniu. Jie yra protingi, mąslūs ir kalba gurguliuojančiais balsais. Vandens elementalai dažnai vadinami undinėmis.
-
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+6 | 3D6+6 | 2D6 | 4D6 | 3D6 | 3D6 | 3D6+3 |
 | 16–17 | 16–17 | 7 | 14 | 10–11 | 10–11 | 13–14 |
 
-| Judėjimas 10 (12 plaukime) | Gyvybės taškai 23–24 |
+| Judėjimas 10 (12 plaukiant) | Gyvybės taškai 23–24 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, bet imunitetas normalioms atakoms (žr. žemiau) |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, bet nepažeidžiami įprastoms atakoms (žr. žemiau) |
 
 **Atakos:**
 
-* Skandinimas 50%, spec. (žr. žemiau)
+* Skandinimas 50%, specialus (žr. žemiau)
 
-**Įgūdžiai:** Vengimas 75%, Kalba (kvieslio) 75%, Navigacija 100%, Mokslas (Oseanografija) 100%, Jautrumas 50%, Pastebėjimas 50%, Plaukimas 100%.
+**Įgūdžiai:** Išsisukimas 75%, Kalba (iškvietėjo) 75%, Navigacija 100%, Mokslas (Okeanografija) 100%, Jutimas 50%, Stebėjimas 50%, Plaukimas 100%.
 
-**Galia:** Vandens elementalas turi kontrolę savo elementui, naudodamas bet kurį iš šių galių tipų:
+**Galios:** Vandeninis elementalas valdo savo stichiją, naudodamas bet kurį iš šių galių tipų:
 
-* **Magija:** Vandens elementalas gali iškviesti „Gydymo“ ir „Išplombavimo“ burtus savo POW×3% tikslumu už reguliarią galios taškų kainą.
-* **Burtininkystė:** Vandens elementalas gali iškviesti „Jūros gausą“ (4) savo noru, be galios taškų kainos.
-* **Supergalios:** Vandens elementalas turi ekvivalentą ¼ savo POW (suapvalinti į viršų) „Siurbimo“ ir „Super judėjimo“ (vaikščiojimas vandeniu) supergalių lygių.
-* Vandens elementalas gali, savo gyvybės kaina, sunaikinti lygiavertės stiprybės žemės elementalą.
-* Norėdamas nuskandinti priešininką, vandens elementalas apgaubia taikinio burną ir nosį vandens burbulu. Jei sėkmingai atliko lietimo ataką, visos tolesnės skandinimo atakos prieš taikinį yra *Lengvos*, kol taikinys arba išsivaduoja, arba miršta (žr. skendimo taisykles). Ši ataka kainuoja vandens elementalui gyvybės taškus, lygius taikiniui padarytai žalai. Jis gali nutraukti skandinimą bet kada.
-* Be imuniteto normalioms atakoms, vandens elementalas turi šansą aprūdyti bet kokį normalų metalinį ginklą arba iškraipyti bet kokį medinį ginklą, smūgiuojantį į jį. Jei veikėjas sėkmingai smūgiuoja vandens elementalui metaliniu ginklu, jie turi atlikti ginklo gyvybės taškų vs. vandens elementalo CON pasipriešinimo metimą. Jei ginklo metimas nepavyksta, jis surūdija (prarasdamas 2 gyvybės taškus, –1 žalai) arba išsikraipo (–1 gyvybės taškas, –5% į pataikymą). Jei sėkmingas, ginklas nepažeistas. Šį metimą reikia atlikti tik vieną kartą pirmą sėkmingą smūgį raunde, ir jis taikomas ginklams su laikinai uždėtais burtais ar burtininkyste, bet ne magiškiems ginklams.
-* Būdamas po vandeniu, vandens elementalas gali tapti nematomas savo noru už 1 galios tašką, nors vėl pasirodo, jei komanduoja kvieslys, arba jei puola ką nors.
-* Būdamas po vandeniu, vandens elementalas gali aiškiai kalbėti bet kam įprastu girdimumo diapazonu.
-* Vandens elementalai taip pat žino apie visus daiktus vandens telkinyje, iš kurio buvo iškviesti, savo INT×100 metrų atstumu, bet pripažįsta tik paklausti, ir turi būti įtikinti ar komanduoti nueiti ir parnešti šiuos daiktus. Kiekvienas šio gebėjimo naudojimas kainuoja vandens elementalui galios taškus, lygius parnešto daikto SIZ.
+* **Magija:** Vandeninis elementalas gali iškviesti magijos burtus Gydymas (Heal) ir Atvėrimas (Unseal) savo GAL×3% tikimybe, sumokėdamas įprastą galios taškų kainą.
+* **Kerėjimas:** Vandeninis elementalas gali savo noru iškviesti Jūros gausybę (4) be galios taškų kainos.
+* **Supergalios:** Vandeninis elementalas turi supergalias Nusausinimas (Drain) ir Superjudėjimas (Vaikščiojimas vandeniu), kurių lygis lygus 1/4 jo GAL (apvalinant į viršų).
+* Vandeninis elementalas gali, savo gyvybės kaina, sunaikinti lygiavertės stiprybės žemės elementalą.
+* Norėdamas nuskandinti priešininką, vandeninis elementalas apgaubia taikinio burną ir nosį vandens burbulu. Jei jis sėkmingai atliko lietimo ataką, visos tolesnės skandinimo atakos prieš taikinį yra *Lengvos*, kol taikinys išsivaduoja arba miršta (žr. skandinimo taisykles). Ši ataka kainuoja vandeniniam elementalui tiek gyvybės taškų, kiek žalos padaroma taikiniui. Jis gali nutraukti skandinimo bandymą bet kuriuo metu.
+* Be nepažeidžiamumo įprastoms atakoms, vandeninis elementalas turi šansą surūdyti bet kokį įprastą metalinį ginklą arba iškraipyti bet kokį medinį ginklą, kuris jį sužeidžia. Jei veikėjas sėkmingai smogia vandeniniam elementalui metaliniu ginklu, jis privalo atlikti pasipriešinimo metimą: ginklo gyvybės taškai prieš vandeninio elementalo IŠT. Jei ginklo metimas nepavyksta, jis surūdija (praranda 2 gyvybės taškus, –1 žalai) arba išsikraipo (–1 gyvybės taškas, –5% taiklumui). Jei metimas sėkmingas, ginklas lieka nepaveiktas. Šis metimas atliekamas tik kartą per raundą pirmo sėkmingo smūgio metu ir taikomas ginklams, ant kurių laikinai uždėti magiški burtai ar kerai, bet ne magiškiems ginklams.
+* Būdamas po vandeniu, vandeninis elementalas gali tapti nematomu savo noru už 1 galios tašką, nors jis vėl pasirodo, jei įsako iškvietėjas arba jei jis kam nors įpuola.
+* Būdamas po vandeniu, vandeninis elementalas gali aiškiai kalbėtis su visais esančiais įprastame girdimumo atstume.
+* Vandeniniai elementalai taip pat žino apie visus daiktus, esančius vandens telkinyje, iš kurio jie buvo iškviesti, INT×100 metrų atstumu, tačiau pripažįsta tai tik paklausti ir turi būti įtikinti arba jiems turi būti įsakyta eiti tų daiktų atnešti. Kiekvienas šio sugebėjimo panaudojimas vandeniniam elementalui kainuoja galios taškų, lygių atnešamo daikto DYD.
 
-> ### Chaotiški bruožai
-> 
-> Demonai ir kitos chaoso būtybės yra nenuoseklios savo išvaizdoje ir galiose. Kaip ir gyvos būtybės turi mutacijas, nenatūralios būtybės gali turėti chaotiškų bruožų. Jei pageidaujama, kiekviena individuali chaotiška būtybė gali turėti vieną ar daugiau chaotiškų bruožų, ridentų ar pasirinktų iš šios lentelės.
-> 
-> | D100% | Chaotiškas bruožas |
+> ### Chaoso ypatybės
+>
+> Demonai ir kitos chaoso būtybės yra nenuoseklios savo išvaizda ir galiomis. Kaip gyvi padarai turi mutacijų, taip ir nenatūralūs padarai gali turėti chaoso ypatybių. Jei pageidaujama, kiekviena individuali chaotiška būtybė gali turėti vieną ar daugiau chaoso ypatybių, parinktų arba pasirinktų iš šios lentelės.
+>
+> | D100% | Chaoso ypatybė |
 > | :---- | :---- |
-> | 01–03 | POW+1D6 |
-> | 04–05 | POW+2D6 |
-> | 06 | POW+3D6 |
-> | 07–09 | DEX+1D6 |
-> | 10–11 | DEX+2D6 |
-> | 12 | DEX+3D6 |
-> | 13–14 | STR+1D6 |
-> | 15 | STR+2D6 |
-> | 16–17 | CON+1D6 |
-> | 18 | CON+2D6 |
-> | 19–20 | Niekada nepasiduoda netikėtumui. |
-> | 21–22 | Sugeria 1 tašką bet kokios magijos ar burtų, pridedant +1 galios tašką per burtą. |
-> | 23–24 | Spjaudo rūgštį 2D10 POT 1D6 kartus per dieną, šešių metrų nuotolis. |
-> | 25–26 | Iškvėpia 3D6 ugnį 1D6 kartus per dieną; vienas taikinys, trijų metrų nuotolis. |
-> | 27–28 | Atspindi 1 tšk. magijos ar burtų atgal vartotojui. |
-> | 29–30 | Labai degus; jei užsidega, degina visus trijų metrų spinduliu 2D6 taškų žala, kol užgęsta. |
-> | 31–32 | Hipnotizuojantis raštas ant odos; stebėtojai turi sėkmingai atlikti Idėjos metimą arba apstulbti 1D3 raundus. |
-> | 33–35 | Išvaizda klaidinanti; visos atakos prieš ją yra –20%. |
+> | 01–03 | GAL+1D6 |
+> | 04–05 | GAL+2D6 |
+> | 06 | GAL+3D6 |
+> | 07–09 | VIK+1D6 |
+> | 10–11 | VIK+2D6 |
+> | 12 | VIK+3D6 |
+> | 13–14 | JĖG+1D6 |
+> | 15 | JĖG+2D6 |
+> | 16–17 | IŠT+1D6 |
+> | 18 | IŠT+2D6 |
+> | 19–20 | Niekada nenustebinamas. |
+> | 21–22 | Sugeria 1 tašką bet kokios prieš jį nukreiptos magijos ar kerėjimo, pridedant +1 galios tašką už burtą. |
+> | 23–24 | Spjaudo rūgštį, kurios POT 2D10, 1D6 kartus per dieną, šešių metrų atstumu. |
+> | 25–26 | Kvėpuoja 3D6 ugnimi 1D6 kartus per dieną; vienas taikinys, trijų metrų atstumas. |
+> | 27–28 | Atspindi 1 tšk. magiją ar kerėjimą atgal vartotojui. |
+> | 29–30 | Labai degus; užsidegus nudegina visus trijų metrų spinduliu 2D6 žala, kol užgęsta. |
+> | 31–32 | Hipnotizuojantis raštas ant odos; stebėtojai privalo sėkmingai atlikti Idėjos metimą arba būti apstulbinti 1D3 raundus. |
+> | 33–35 | Išvaizda gluminanti; visos atakos prieš jį atliekamos su –20% bauda. |
 > | 36–37 | Didelis ir vertingas brangakmenis aiškiai matomas ant kūno. |
-> | 38–40 | Regeneruoja 1 gyvybės tašką per kovos raundą iki mirties. |
-> | 41–42 | Gali bandyti sutrikdyti taikinį kiekviename raunde be jokios kovos, su POW vs. POW pasipriešinimo metimu. Nesėkmė įveda taikinį į pasimetusią ir lengvai paveikiamą būseną. Norint atlikti bet kokius veiksmus, taikinys turi atlikti Sunkų Idėjos metimą ir gali būti būtybės įsakytas veikti priešingai savo norams. Priešinimasis šiems įsakymams taip pat reikalauja sėkmingo Sunkaus Idėjos metimo. |
-> | 43–45 | Būtybė atrodo nenugalima; atrodo, kad nepatiria žalos, kol pasiekia 0 gyvybės taškų, tada griūva negyva. |
-> | 46 | Nematoma, kol neatakuoja. |
-> | 47–48 | Išvaizda itin klaidinanti; visos atakos prieš ją yra –30%. |
-> | 49–50 | Nuodingas prisilietimas 2D10 POT; natūrali ataka turi padaryti 1 tašką žalos, kad nuodai veiktų. |
-> | 51–52 | CON yra –2D6, bet regeneruoja 3 gyvybės taškus per raundą iki mirties. |
+> | 38–40 | Regeneruoja 1 gyvybės tašką per kovos raundą, kol miršta. |
+> | 41–42 | Gali bandyti sutrikdyti taikinį kiekvieną raundą be kovos, atliekant GAL prieš GAL pasipriešinimo metimą. Nesėkmė įstumia taikinį į pasimetusią ir labai paveikią būseną. Norėdamas atlikti bet kokius veiksmus, taikinys privalo sėkmingai atlikti Sunkų Idėjos metimą ir būtybė gali jam įsakyti veikti priešingai savo įprastiems norams. Priešinimasis šiems įsakymams taip pat reikalauja sėkmingo Sunkaus Idėjos metimo. |
+> | 43–45 | Būtybė atrodo neįveikiama; atrodo, kad nepatiria žalos, kol pasiekia 0 gyvybės taškų, tada krenta negyva. |
+> | 46 | Nematoma, kol užpuola. |
+> | 47–48 | Išvaizda itin gluminanti; visos atakos prieš jį atliekamos su –30% bauda. |
+> | 49–50 | Nuodingas prisilietimas, kurio POT 2D10; kad nuodai veiktų, natūrali ataka turi padaryti 1 gyvybės taško žalą. |
+> | 51–52 | IŠT yra –2D6, bet regeneruoja 3 gyvybės taškus per raundą, kol miršta. |
 > | 53–54 | 6 tšk. šarvuota oda. Jei jau turi šarvuotą odą, +6 prie dabartinės šarvų vertės. |
-> | 55–56 | MOV 12 |
-> | 57–58 | Sugeria 1 ar 2 taškus bet kokios magijos ar burtų, pridedant sumą prie dabartinių galios taškų. |
-> | 59–60 | Gali iššauti POW vs. POW ataką kiekviename raunde; jei sėkminga, taikinys praranda 1D6 galios taškus. |
-> | 61–62 | Sprogsta pasiekus 0 gyvybės taškų, padarydama 3D6 žalą visiems trijų metrų spinduliu. Šarvai, skydai ir t.t. apsaugos nuo to, nors ginklų atremtys – ne. |
-> | 63–65 | Atrodo daug pavojingesnė nei iš tikrųjų yra. |
-> | 66–67 | Gali tapti nematoma savo noru, kai nėra kovoje. |
-> | 68–70 | Atspindi 1 ar 2 tšk. magijos ar burtų atgal vartotojui. Kiekvieną raundą, kai burtai nukreipiami į būtybę, ridenti atsitiktinai, kiek atspindima. |
+> | 55–56 | JUD 12 |
+> | 57–58 | Sugeria 1 arba 2 taškus bet kokios prieš jį nukreiptos magijos ar kerėjimo, pridėdamas šį kiekį prie dabartinių galios taškų. |
+> | 59–60 | Gali atlikti GAL prieš GAL ataką kiekvieną raundą; jei sėkmingai, taikinys praranda 1D6 galios taškų. |
+> | 61–62 | Sprogsta pasiekęs 0 gyvybės taškų, padarydamas 3D6 žalą visiems trijų metrų spinduliu. Šarvai, skydai ir t. t. apsaugos nuo to, nors ginklai negali atremti. |
+> | 63–65 | Atrodo daug pavojingesnis nei yra iš tikrųjų. |
+> | 66–67 | Gali savo noru tapti nematomu, kai nekovoja. |
+> | 68–70 | Atspindi 1 arba 2 tšk. magiją ar kerėjimą atgal vartotojui. |
 > | 71–72 | 8 tšk. šarvuota oda. Jei jau turi šarvuotą odą, +8 prie dabartinės šarvų vertės. |
 > | 73–74 | 10 tšk. šarvuota oda. Jei jau turi šarvuotą odą, +10 prie dabartinės šarvų vertės. |
 > | 75–76 | 12 tšk. šarvuota oda. Jei jau turi šarvuotą odą, +12 prie dabartinės šarvų vertės. |
-> | 77 | Atrodo visiškai nekenksminga, kol įsitraukia į kovą. |
-> | 78–80 | Regeneruoja 1D6 gyvybės taškus per kovos raundą iki mirties. |
-> | 81–82 | Gali šokti vertikaliai ar horizontaliai dešimt metrų iš stovimos padėties. |
-> | 83–84 | Nėra aptinkama per magiją ar burtus. |
-> | 85 | Išvaizda itin orientaciją klaidina; visos atakos prieš ją yra –40%. |
-> | 86–87 | Labai vertingas brangakmenis (ar brangakmeniai) viduje būtybės, atrandami, jei būtybė perpjauta. |
-> | 88–90 | Nuolat skleidžia agonijos riksmus. |
-> | 91–92 | Kankinantis smarvė sukelia pykinimą bet kam, kas kvėpuoja šalia. Jei taikinys nepavyksta atlikti Ištvermės metimo, visi veiksmai prieš šią būtybę yra Sunkūs 1D6+2 raundus. |
-> | 93–94 | Atspindi 1D6+2 tšk. magijos ar burtų atgal vartotojui. Kiekvieną raundą, kai burtai nukreipiami į būtybę, ridenti atsitiktinai, kiek atspindima. |
-> | 95–96 | Siaubinga būtybės išvaizda demoralizuoja tuos, kuriuos ji įveikia POW vs. POW pasipriešinimo metime. Jei taikinys nepavyksta, visi veiksmai prieš šią būtybę yra Sunkūs 1D6+2 raundus. |
-> | 97–98 | SIZ +2D6 |
-> | 99 | Ridenti dar du kartus šioje lentelėje. Jei tai išrieda vėl, pridėti dar du chaotiškus bruožus ir ridenti dar kartą ir t.t. |
-> | 00 | Ši būtybė turi 5D6 CHA ir yra itin miela. Ji atakuoja su CHA vs. INT pasipriešinimo metimu. Nesėkmė priverčia auką susidraugauti su būtybe, galbūt net siūlant tarnauti jai. Būtybė gali turėti iki 1D6 tokių kompanionų, žaidimo vedėjo nuožiūra. Užkerėtas veikėjas gali net kovoti su draugais, kad apgintų būtybę. |
+> | 77 | Atrodo visiškai nekenksmingas, kol neįsitraukia į kovą. |
+> | 78–80 | Regeneruoja 1D6 gyvybės taškus per kovos raundą, kol miršta. |
+> | 81–82 | Gali iš vietos šokti į viršų arba į tolį dešimt metrų. |
+> | 83–84 | Nepastebimas naudojant magiją ar kerėjimą. |
+> | 85 | Išvaizda itin dezorientuojanti; visos atakos prieš jį atliekamos su –40% bauda. |
+> | 86–87 | Itin vertingas brangakmenis (ar brangakmeniai) būtybės viduje, atrandami, jei būtybė perpjauta. |
+> | 88–90 | Nuolat skleidžia kankinamus klyksmus. |
+> | 91–92 | Kankinantis smarvės kvapas sukelia pykinimą visiems, kurie kvėpuoja šalia. Jei taikinys neįveikia Ištvermės metimo, visi veiksmai prieš šią būtybę yra Sunkūs 1D6+2 raundus. |
+> | 93–94 | Atspindi 1D6+2 tšk. magiją ar kerėjimą atgal vartotojui. Kiekvieną kartą, kai burtas nukreipiamas prieš būtybę, ridenkite atsitiktinai, kad nustatytumėte, kiek atspindima. |
+> | 95–96 | Baisi būtybės išvaizda demoralizuoja tuos, kuriuos ji nugali GAL prieš GAL pasipriešinimo metime. Jei taikinys neįveikia, visi veiksmai prieš šią būtybę yra Sunkūs 1D6+2 raundus. |
+> | 97–98 | DYD +2D6 |
+> | 99 | Ridenkite dar du kartus šioje lentelėje. Jei vėl iškrenta šis skaičius, pridėkite dar dvi chaoso ypatybes ir ridenkite dar kartą ir t. t. |
+> | 00 | Ši būtybė turi CHA 5D6 ir yra itin miela. Ji atakuoja su CHA prieš INT pasipriešinimo metimu. Nesėkmė sukelia aukai norą draugauti su būtybe, galbūt net siūlantis jai tarnauti. Būtybė gali turėti iki 1D6 dabartinių kompanionų, žaidimų meistro nuožiūra. Užkerėtas veikėjas gali net kovoti su draugais gindamas būtybę. |
 
 ## Mokslinės fantastikos būtybės
 
-Šios būtybės labiausiai tinka mokslinės fantastikos, futuristiniams, post-apokaliptiniams ar net siaubo pasauliams.
+Šios būtybės labiausiai tinka mokslinei fantastikai, futuristiniams, postapokaliptiniams ar net siaubo žanro pasauliams.
 
-### Ateivis, pilkasis
+### Ateivis, Pilkasis
 
-Pilkieji ateiviai lanko Žemę tyrimams ir eksperimentams su žmonėmis bei gyvūnais ir tai daro tūkstantmečius. Dėl jų santykinai silpnų kūnų, jie pasikliauja sudėtingomis technologijomis, kad imobilizuotų savo belaisvius. Jų motyvai nežinomi, jie nerodo jokių emocijų ženklų, retai net pripažindami savo subjektų sąmoningumą, atlikdami su jais keistus ir žeminančius eksperimentus.
+Pilkieji ateiviai lanko Žemę tyrimams ir eksperimentams su žmonėmis bei gyvūnais ir tai daro jau tūkstantmečius. Dėl savo santykinai silpnų kūnų jie pasikliauja pažangiomis technologijomis, kad imobilizuotų savo belaisvius. Jų motyvai nežinomi, jie nerodo emocijų ženklų, retai net pripažindami savo subjektų sąmoningumą, kai atlieka su jais keistus ir žeminančius eksperimentus.
 
-Pilkieji ateiviai kartais sutinkami NSO sudužimo vietose, klaidžiojantys apstulbę ir bandantys ginti savo laivą, kol atvyks pagalba. Jie yra nuogi arba su prigludusiais kombinezonais ir aprūpinti ateivių technologijomis.
+Pilkieji ateiviai kartais aptinkami NSO sudužimo vietose, klajojantys apsvaigę ir bandantys apginti savo laivą, kol atvyks pagalba. Jie yra arba nuogi, arba dėvi prigludusius tinklinius kostiumus ir yra aprūpinti ateivių technologijomis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 1D6+3 | 2D6 | 1D6+3 | 2D6+12 | 3D6 | 3D6+3 | 1D6+1 |
 | 6–7 | 7 | 6–7 | 19 | 10–11 | 13–14 | 4–5 |
@@ -991,44 +987,44 @@ Pilkieji ateiviai kartais sutinkami NSO sudužimo vietose, klaidžiojantys apstu
 
 **Atakos:**
 
-* Stulbinantis pistoletas 50%, 2D6 (apstulbina, žr. ginklo aprašymą)
-* Dezintegracijos šautuvas 35%, 3D6+2 (žr. ginklo aprašymą)
+* Stulbinimo pistoletas 50%, 2D6 (apstulbina, žr. ginklo aprašymą)
+* Dezintegratoriaus šautuvas 35%, 3D6+2 (žr. ginklo aprašymą)
 
-**Įgūdžiai:** Vengimas 40%, Tikslus manipuliavimas 75%, Pirmoji pagalba 75%, Slėpimasis 60%, Žinios (žmonių kultūra) 55%, Žinios (Regionas: Paukščių Takas) 85%, Kalba (Vietinė) 20%, Kalba (Zeta Reticulan) 100%, Klausymas 55%, Medicina 100%, Navigacija 70%, Pilotavimas (NSO) 80%, Taisymas (Kvantinis) 50%, Mokslas (Astronomija) 75%, Mokslas (Planetologija) 95%, Mokslas (Zoologija) 50%, Jautrumas 60%, Pastebėjimas 50%, Slaptumas 50%, Techninis įgūdis (NSO jutikliai) 50%
+**Įgūdžiai:** Išsisukimas 40%, Smulkioji manipuliacija 75%, Pirmoji pagalba 75%, Slėpimasis 60%, Žinios (Žmonių kultūra) 55%, Žinios (Regionas: Paukščių Takas) 85%, Kalba (Vietos) 20%, Kalba (Zeta Reticulan) 100%, Klausymas 55%, Medicina 100%, Navigacija 70%, Pilotavimas (NSO) 80%, Remontas (Kvantinis) 50%, Mokslas (Astronomija) 75%, Mokslas (Planetologija) 95%, Mokslas (Zoologija) 50%, Jutimas 60%, Stebėjimas 50%, Sėlinimas 50%, Techninis įgūdis (NSO jutikliai) 50%
 
-**Galia:** Pilkieji ateiviai naudoja tai, ką žmonės laiko psichinėmis galiomis. Įprastos psichinės galios yra emocijų kontrolė, proto kontrolė, proto skydas, telekinezė ir telepatija. Kiekviena iš jų yra jų POW×2% ar aukštesnė.
+**Galios:** Pilkieji ateiviai naudoja tai, ką žmonės laiko psichinėmis galiomis. Dažniausiai naudojamos psichinės galios yra Emocijų valdymas, Minčių valdymas, Minčių skydas, Telekinezė ir Telepatija. Kiekviena iš jų yra jų GAL×2% ar aukštesnė.
 
-### Ateivis, ksenomorfas
+### Ateivis, Ksenomorfas
 
-Atrasti kosmoso pakraštyje, ksenomorfai yra alkani mėsos, suėsdami bet kurią gyvą būtybę, su kuria susiduria. Neryškiai vabzdžiški, ksenomorfai bendrauja vienas su kitu nežinomu būdu ir yra pajėgūs gana sudėtingai taktikai. Jie dauginasi per sudėtingą ir itin spartų procesą, kurio metu kiaušiniai implantuojami į aukas, kol baigiasi gestacija, o tada gimęs ateivis išsirita ir suėda buvusį šeimininką. Mokslininkai teoretizuoja, kad kiekvieną šių ateivių spiečių vadovauja milžiniško dydžio ir aukštesnio intelekto kiaušinius dedanti motina. Ksenomorfai yra klastingi, koordinuoja savo atakas, kad greitai užvaldytų bet kurią vietą, statydami milžiniškus avilius ir gaudydami gyvus šeimininkus savo reprodukciniam procesui.
+Atrasti kosmoso pakraštyje, šie ksenomorfai yra alkani mėsos ir suėda bet kurią gyvą būtybę, su kuria susiduria. Miglotai panašūs į vabzdžius, ksenomorfai bendrauja vieni su kitais nežinomu būdu ir yra pajėgūs gana sudėtingai taktikai. Jie dauginasi per sudėtingą ir itin greitą procesą, kurio metu kiaušiniai implantuojami į aukas, kol baigiasi gestacija; tada naujagimis ateivis išlenda ir suėda buvusį šeimininką. Mokslininkai teoretizuoja, kad kiekvienai šių ateivių vadai vadovauja milžiniško dydžio ir aukštesnio intelekto kiaušinius dedanti karalienė. Ksenomorfai yra gudrūs, koordinuoja savo atakas, kad greitai užvaldytų bet kurią vietą, į kurią yra įvedami, statydami milžiniškus avilius ir gaudydami gyvus šeimininkus, kad šie pasitarnautų jų niekšiškame dauginimosi procese.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3D6+3 | 3D6 | 3D6+3 | 2D6 | 2D6 | 3D6+6 | 1D6 |
 | 13–14 | 10–11 | 13–14 | 7 | 7 | 16–17 | 3–4 |
 
 | Judėjimas 12 | Gyvybės taškai 12–13 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 2 tšk. kiautas (spjaudo rūgštinį kraują, žr. žemiau) |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 2 tšk. šarvas (spjaudosi rūgščiu krauju, žr. žemiau) |
 
 **Atakos:**
 
-* Nagai 50%, 1D6+dm (kraujuojanti)
-* Įkandimas 35%, 1D6+dm (kraujuojanti)
-* Uodegos mostas 35%, 1D4+dm (pradurianti)
-* Imtynės 35%, spec.
+* Nagas 50%, 1D6+dm (kraujavimas)
+* Įkandimas 35%, 1D6+dm (kraujavimas)
+* Uodegos smūgis 35%, 1D4+dm (smigimas)
+* Griebimas 35%, specialus
 
-Kiekviename raunde ksenomorfas gali atakuoti dukart nagais ir kartą įkandimu 5 DEX rangais vėliau. Jei sėkmingas abiem nagų atakomis, kitame raunde bando imtyniauti ir įkąsti. Jei tinka, įkandimą keičia uodegos mostu.
+Kiekvieną raundą ksenomorfas gali atakuoti du kartus nagais ir vieną kartą įkandimu 5 VIK rangais vėliau. Jei abi nagų atakos sėkmingos, jis kitą raundą bando griebti ir įkąsti. Jei tinka, įkandimą pakeičia uodegos smūgiu.
 
-**Įgūdžiai:** Laipymas 75%, Vengimas 50%, Slėpimasis 60%, Šuolis 50%, Klausymas 35%, Jautrumas 50%, Pastebėjimas 35%, Slaptumas 50%, Sekimas 75%.
+**Įgūdžiai:** Laipiojimas 75%, Išsisukimas 50%, Slėpimasis 60%, Šuoliai 50%, Klausymas 35%, Jutimas 50%, Stebėjimas 35%, Sėlinimas 50%, Sekimas 75%.
 
-**Galia:** Ksenomorfai turi specialią gynybą: rūgštinį kraują. Ši biologinė rūgštis yra itin galinga ir purškiasi iš bet kokios fizinės žaizdos, kurią ksenomorfas patiria, aktyviai korozinė 1D6+2 kovos raundus. Bet koks taikinys vieno metro atstumu nuo ksenomorfo turi atlikti Laimės metimą, kad išvengtų aptaškymo. Nesėkmė rodo, kad veikėjas patiria 1D3 taškų žalos nuo rūgšties. Šarvai iš pradžių apsaugo nuo šios rūgšties, bet neilgai. Ji toliau graužia šarvus, darydama žalą kiekviename kovos raunde, kol įveikia šarvų vertę. Žaidimo vedėjas turėtų sekti rūgšties žalą kiekviename raunde, kol šarvų vertė įveikiama. Tuomet ji degina veikėją. Nuimti šarvus be nudegimų užtrunka vieną pilną kovos raundą ir Sunkų Judrumo metimą. Jei naudojamos hit vietos, reikia nuimti tik šarvus nuo paveiktos hit vietos(-ų). Nesėkmė rodo, kad šarvai vis dar yra. Fumble rodo, kad rūgštis pateko ant veikėjo. Kai veikėjas yra deginamas rūgšties, ji toliau dega, kol yra neutralizuota kažkokia jėga, arba rūgštis galiausiai nustoja būti korozinė 1D6+2 raundų pabaigoje.
+**Galios:** Ksenomorfai turi specialią gynybą: rūgštų kraują. Ši biologinė rūgštis yra itin galinga ir purškiasi iš bet kokios fizinės žaizdos, kurią patiria ksenomorfas, aktyviai korozinė 1D6+2 kovos raundus. Kiekvienas taikinys vieno metro atstumu nuo ksenomorfo privalo atlikti Sėkmės metimą, kad išvengtų aptaškymo. Nesėkmė reiškia, kad veikėjas gauna 1D3 taškus žalos nuo rūgšties. Šarvai iš pradžių apsaugo nuo šios rūgšties, bet ne ilgam. Ji toliau graužia šarvus, darydama žalą kiekvieną kovos raundą, kol prasigraužia per juos. Žaidimų meistras turėtų sekti rūgšties žalą kiekvieną raundą, kol šarvų vertė bus įveikta. Tuomet ji degina veikėją. Nusiimti šarvus nenudegus užtrunka vieną visą kovos raundą ir reikalauja Sunkaus Vikrumo metimo. Jei naudojamos pataikymo vietos, reikia nusiimti tik šarvus ant paveiktos vietos(-ų). Nesėkmė reiškia, kad šarvai tebėra uždėti. Klaida reiškia, kad rūgštis pateko ant veikėjo. Kai veikėjas pradedamas deginti rūgšties, jis dega, kol ji nėra neutralizuota kokia nors jėga arba rūgštis galiausiai nustoja būti korozinė pasibaigus 1D6+2 raundams.
 
-### Gleivės
+### Gleivė
 
-Groteskiška gleivėtos protoplazminės medžiagos masė. Ši būtybė yra siaubinga, nuolat ištiesianti daugybę pseudopodų, čiuptuvų ir net žmogiškųjų galūnių bei jutimo organų atitikmenų. Gleivės yra pusiau permatomos, o jų prarytos aukos gali būti stebimos viduje, kol jas lėtai virškina galingos virškinimo rūgštys. Gleivės gali suspausti savo masę, pralįsdamos pro siaurus tarpus, keisdamos savo bendrą formą, bet ne faktinę masę.
+Groteksiška gleivėtos protoplazminės medžiagos masė. Ši būtybė yra siaubinga, nuolat išleidžianti daugybę pseudopodų, čiuptuvų ir net žmonių galūnių bei jutimo organų atitikmenų. Gleivės yra pusiau permatomos, o jų prarytos aukos gali būti matomos viduje, kol jas lėtai ėda galingos virškinimo rūgštys. Gleivės gali suspausti savo masę, pralįsdamos pro siauras vietas, pakeisdamos savo bendrą formą, bet ne tikrąją masę.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 18D6 | 12D6 | 24D6 | 2D6 | 3D6 | 1D6 |
 | 63 | 42 | 84 | 7 | 10–11 | 3–4 |
@@ -1039,125 +1035,125 @@ Groteskiška gleivėtos protoplazminės medžiagos masė. Ši būtybė yra siaub
 
 **Atakos:**
 
-* Praryti 70%, praryja + dm (žr. žemiau)
+* Prarijimas 70%, prarijimas + dm (žr. žemiau)
 
-**Įgūdžiai:** Laipymas 50%, Slėpimasis 25%, Jautrumas 25%, Slaptumas 25%, Sekimas 25%.
+**Įgūdžiai:** Laipiojimas 50%, Slėpimasis 25%, Jutimas 25%, Sėlinimas 25%, Sekimas 25%.
 
-Gleivės neturi šarvų, bet ugnies ir elektros atakos daro tik ½ žalos (suapvalinti į viršų), o fiziniai ginklai, tokie kaip šaunamieji ginklai, daro tik 1 žalos tašką.
+Gleivė neturi šarvų, bet ugnies ir elektros atakos daro tik 1/2 žalos (apvalinant į viršų), o fiziniai ginklai, tokie kaip šaunamieji, daro tik 1 tašką žalos.
 
-**Galia:** Gleivės praryja taikinį sėkmingos atakos atveju. Jo žalos modifikatorius taikomas prarytam veikėjui, o vėlesniame raunde veikėjas pradedamas virškinti. Jei naudojamos hit vietos, žala padalijama visoms hit vietoms vienu metu. Tai daro 1D3–1 žalos taškus kiekviename kovos raunde. Apsauginė įranga neveikia, nebent ji visiškai uždara, ir ji gleivėse išgyvena tik tiek kovos raundų, kiek lygi jos šarvų vertė. Išsivaduoti iš gleivių itin sunku, reikalauja sėkmingo Sunkaus Pastangų metimo. Gleivės taip pat regeneruoja 1 gyvybės tašką per kovos raundą iki pilnų gyvybės taškų.
+**Galios:** Gleivė praryja taikinį po sėkmingos atakos. Jos žalos modifikatorius taikomas prarytam veikėjui, o kitame raunde veikėjas pradedamas virškinti. Jei naudojamos pataikymo vietos, žala padalijama visoms pataikymo vietoms vienu metu. Tai padaro 1D3–1 žalos taškų kiekvieną kovos raundą. Apsauginė įranga neveikia, nebent ji yra visiškai uždara, ir ji gleivėje išlieka tik tiek kovos raundų, kiek lygi jos šarvų vertė. Ištrūkti iš gleivės yra itin sunku, reikalauja sėkmingo Sunkaus Pastangų metimo. Gleivės taip pat regeneruoja 1 gyvybės tašką per kovos raundą, kol pasiekia visus gyvybės taškus.
 
-### Robotas, milžiniškas
+### Robotai, Milžiniškas
 
-Milžiniškas robotas buvo pastatytas aukščiausios slaptumo vyriausybinės organizacijos, kad apgintų pasaulį nuo daugybės keistų ateivių būtybių ir milžiniškų monstrų. Šarvuotas ir aprūpintas įvairiais nuostabiais ginklais, milžiniškas robotas yra garbinamas žmonių visur, nepaisant neįsivaizduojamos turtinės žalos, kurią padaro kaskart kovodamas.
+Milžinišką robotą pastatė slapta vyriausybinė organizacija, kad apgintų pasaulį nuo gluminančios keistų ateivių būtybių ir milžiniškų monstrų įvairovės. Šarvuotas ir aprūpintas įvairiais stulbinančiais ginklais, milžiniškas robotas yra garbinamas žmonių visur, nepaisant milžiniškos nuosavybės žalos, kurią jis padaro kiekvieną kartą kovodamas.
 
-| STR | CON | SIZ | INT | POW | DEX |
+| JĖG | IŠT | DYD | INT | GAL | VIK |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16D6+32 | 16D6+32 | 16D6+32 | 3D6 | 2D6 | 3D6 |
 | 88 | 88 | 88 | 10–11 | 7 | 10–11 |
 
-| Judėjimas 24 (176 skrydyje) | Gyvybės taškai 188 (+100 iš Papildomų gyvybės taškų galios) |
+| Judėjimas 24 (176 skrendant) | Gyvybės taškai 188 (+100 nuo Papildomų gyvybės taškų galios) |
 | :---- | :---- |
 | **Žalos modifikatorius** +10D6 | **Šarvai** 30 tšk. šarvuotas korpusas |
 
 **Atakos:**
 
-* Energijos patranka 100%, 10D6 (traiškanti)
-* Raketų podas 100%, 8D6+8 (pradurianti + atstumianti)
-* Energijos kardas 75%, 4D10+dm (kraujuojanti)
-* Kumštis 75%, 1D6+dm (traiškanti)
-* Spirti 75%, 1D6+dm (traiškanti, atstumianti)
-* Sutrypti 75%, 2D6+dm (traiškanti)
-* Imtynės 75%, spec.
+* Energijos patranka 100%, 10D6 (triuškinimas)
+* Raketų blokas 100%, 8D6+8 (smigimas + atstūmimas)
+* Energijos kardas 75%, 4D10+dm (kraujavimas)
+* Kumštis 75%, 1D6+dm (triuškinimas)
+* Spyris 75%, 1D6+dm (triuškinimas, atstūmimas)
+* Užmynimas 75%, 2D6+dm (triuškinimas)
+* Griebimas 75%, specialus
 
-**Galia:** Milžiniškas robotas turi įvairių komponentų, geriausiai reprezentuojamų supergaliomis, įskaitant: Sugėrimas (Elektros) 20; Adaptacija (Aukštas slėgis, Vakuumas, visada įjungta, nekainuoja galios taškų) 30; Šarvai (Karštis, Kinetinė, Radiacija) po 30; Energijos projekcija (Kinetinė) 10; Papildoma energija +200; Papildomi gyvybės taškai +100; Skrydis 30; Pasipriešinimas (Radiacija, Garsas) po 10; Super Jautrumas (Tamsos rega, Infraraudonųjų spindulių rega, Nakties rega, Super klausa, Super rega) po 10; Super įgūdis 15 (Artilerija +60%, Imtynės +40%, Skrydis +60%, Navigacija +20%, Taisymas +20%, Pastebėjimas +40%). Be šių galių, milžiniškas robotas turi raketų podą ir didžiulį energijos kardą, integruotus į savo struktūrą.
+**Galios:** Milžiniškas robotas turi įvairių komponentų, geriausiai atstovaujamų supergaliomis, įskaitant: Absorbcija (Elektros) 20; Adaptacija (Didelis slėgis, Vakuumas, visada įjungta, be galios taškų kainos) 30; Šarvai (Karštis, Kinetika, Radiacija) po 30 kiekvienam; Energijos projekcija (Kinetika) 10; Papildoma energija +200; Papildomi gyvybės taškai +100; Skrydis 30; Pasipriešinimas (Radiacija, Garsas) po 10 kiekvienam; Superjutimas (Tamsos matymas, Infraraudonųjų spindulių matymas, Naktinis matymas, Superklausymas, Superregėjimas) po 10 kiekvienam; Superįgūdis 15 (Artilerija +60%, Kumštynės +40%, Skrydis +60%, Navigacija +20%, Remontas +20%, Stebėjimas +40%). Be šių galių, milžiniškas robotas turi raketų bloką ir milžinišką energijos kardą, įmontuotą į savo struktūrą.
 
-**Įgūdžiai:** Artilerija 75%, Vengimas 40%, Tikslus manipuliavimas 35%, Skrydis (Vidinės raketos) 90%, Šuolis 55%, Žinios (Kaiju) 50%, Kalba (anglų) 30%, Kalba (japonų) 75%, Klausymas 65%, Kovos menai 40%, Navigacija 50%, Taisymas (mechaninis) 55%, Pastebėjimas 65%, Mėtymas 55%
+**Įgūdžiai:** Artilerija 75%, Išsisukimas 40%, Smulkioji manipuliacija 35%, Skrydis (Vidinės raketos) 90%, Šuoliai 55%, Žinios (Kaidžiu) 50%, Kalba (Anglų) 30%, Kalba (Japonų) 75%, Klausymas 65%, Kovos menai 40%, Navigacija 50%, Remontas (Mechaninis) 55%, Stebėjimas 65%, Metimas 55%
 
-### Robotas, žudikas
+### Robotai, Žudikas
 
-Žudikai robotai turi daug įvairių kilmių. Jie galėjo būti pastatyti kariuomenei ir išprotėję, namų ūkio robotai, tapę žudikais, ar samdomi žudikai, atsiųsti iš kažkokios ateities ar tolimo kosmoso. Nepriklausomai nuo priežasties, žudikas robotas yra negailestingas ir išradingas, paprastai siekiantis vieno žmogaus, visos žmonių grupės arba galbūt bet kurio konkrečios rasės atstovo (pvz., žmogaus) sunaikinimo.
+Žudantys robotai turi daug skirtingų kilmių. Jie galėjo būti sukurti kariniams tikslams ir sugedę, buitiniai robotai, tapę žudikiškais, arba žudikai, atsiųsti iš ateities ar tolimų kosmoso erdvių. Nepaisant priežasties, žudantis robotas yra negailestingas ir išradingas, dažniausiai nusiteikęs sunaikinti vieną žmogų, visą žmonių grupę ar galbūt bet ką iš konkrečios rasės (pavyzdžiui, žmonių).
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 4D6+24 | 4D6+12 | 2D6+9 | 2D6+6 | 2D6 | 3D6 | 3D6 |
 | 38 | 26 | 16 | 13 | 7 | 10–11 | 10–11 |
 
 | Judėjimas 10 | Gyvybės taškai 21 |
 | :---- | :---- |
-| **Žalos modifikatorius** +2D6 | **Šarvai** 20 tšk. vidinė plokštė |
+| **Žalos modifikatorius** +2D6 | **Šarvai** 20 tšk. vidinė danga |
 
 **Atakos:**
 
-* Plazmos šautuvas 80%, 2D10+4 (pradurianti)
-* Automatinis šautuvas 80%, 2D6+2 (pradurianti)
-* Automatinis šratinis šautuvas 80%, 4D6/2D6/1D6 (pradurianti)
-* Sunkiasvoris pistoletas 80%, 1D10+2 (pradurianti)
-* Kumštis 80%, 1D3+dm (traiškanti)
+* Plazminis šautuvas 80%, 2D10+4 (smigimas)
+* Automatinis šautuvas 80%, 2D6+2 (smigimas)
+* Automatinis lygiavamzdis 80%, 4D6/2D6/1D6 (smigimas)
+* Sunkusis pistoletas 80%, 1D10+2 (smigimas)
+* Kumštis 80%, 1D3+dm (triuškinimas)
 
-Priklausomai nuo to, kur ir kada sutinkamas, žudikas robotas yra aprūpintas pažangiais ginklais arba ginkluote, atitinkančia pasaulį.
+Priklausomai nuo to, kur ir kada sutinkamas, žudantis robotas yra aprūpintas pažangiais ginklais arba ginkluote, atitinkančia aplinką.
 
-**Įgūdžiai:** Artilerija 80%, Imtynės 80%, Laipymas 50%, Griovimas 50%, Vengimas 40%, Vairavimas (Motociklas) 75%, Vairavimas (Sunkvežimis) 60%, Grumtynės 80%, Šuolis 50%, Žinios (Ateities istorija) 65%, Žinios (Regionas: Vietinis) 50%, Kalba (Dvejetainė) 100%, Kalba (Vietinė) 60%, Klausymas 65%, Pilotavimas (Sraigtasparnis) 50%, Taisymas (Elektronika) 75%, Taisymas (Mechaninis) 95%, Pastebėjimas 75%, Strategija 40%, Mėtymas 55%.
+**Įgūdžiai:** Artilerija 80%, Kumštynės 80%, Laipiojimas 50%, Griovimas 50%, Išsisukimas 40%, Vairavimas (Motociklas) 75%, Vairavimas (Sunkvežimis) 60%, Griebimas 80%, Šuoliai 50%, Žinios (Ateities istorija) 65%, Žinios (Regionas: Vietinis) 50%, Kalba (Dvejetainis) 100%, Kalba (Vietinis) 60%, Klausymas 65%, Pilotavimas (Sraigtasparnis) 50%, Remontas (Elektronika) 75%, Remontas (Mechaninis) 95%, Stebėjimas 75%, Strategija 40%, Metimas 55%.
 
-**Galia:** Žudikas robotas paprastai turi keletą supergalių, tokių kaip Super Jautrumas (Infraraudonųjų spindulių rega, Super klausa, Super rega, Ultragarso klausa) po 5. Jis gali naudoti šias galias be jokios galios taškų kainos. Kai kurie žudikai robotai gali keisti formą, temptis arba yra ginkluoti integralia ginkluote, tokia kaip nagai, ašmenys, lazerinės akys ar vidiniai šaunamieji ginklai.
+**Galios:** Žudantis robotas dažniausiai turi keletą supergalių, tokių kaip Superjutimas (Infraraudonųjų spindulių matymas, Superklausymas, Superregėjimas, Ultragarso klausymas) po 5 kiekvienam. Jis gali naudoti šias galias be jokių galios taškų kainos. Kai kurie žudantys robotai gali keisti formą, išsitempti arba yra ginkluoti integruotais ginklais, tokiais kaip nagai, ašmenys, lazerinės akys ar vidiniai šaunamieji ginklai.
 
-### Robotas, pagalbininkas
+### Robotai, Buitinis
 
-Patikimas žmonijos tarnas, pagalbininkas robotas buvo suprojektuotas padėti žmonėms. Pagalbininkai robotai tradiciškai programuojami būti nuolankūs ir draugiški, ir svarbiausia, vengti bet kokių veiksmų, kurie galėtų pakenkti gyvai būtybei. Kai kurie pagalbininkai robotai turi įtaisytus vidinius įrankius, kai atlieka mechaninę ar elektros priežiūrą ir remontą, arba jie gali būti paprasti žmonijos atitikmenys, skirti tokiems vaidmenims kaip diplomatija, vertimas ir asmeninė pagalba.
+Būdamas patikimas žmonijos tarnas, buitinis robotas buvo sukurtas padėti žmonėms. Buitiniai robotai tradiciškai programuojami būti nuolankūs ir draugiški, ir svarbiausia, vengti atlikti bet kokius veiksmus, kurie galėtų pakenkti gyvai būtybei. Kai kurie buitiniai robotai turi vidinių įrankių, įmontuotų į juos, kai jie atlieka techninę ar elektrinę priežiūrą ir remontą, arba jie gali būti paprasti žmonijos atitikmenys, skirti vaidmenims, tokiems kaip diplomatija, vertimas ir asmeninė pagalba.
 
-| STR | SIZ | INT | DEX |
+| JĖG | DYD | INT | VIK |
 | :---- | :---- | :---- | :---- |
 | 2D6+6 | 3D6 | 2D6+6 | 3D6 |
 | 13 | 10–11 | 13 | 10–11 |
 
 | Judėjimas 8 | Gyvybės taškai 10–11 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** 4 tšk. plokštė |
+| **Žalos modifikatorius** Nėra | **Šarvai** 4 tšk. danga |
 
 **Atakos:**
 
-* Imtynės 30%, 1D3+dm (traiškanti)
-* Elektriniai įrankiai 50%, 1D6 (ugnies ar elektros, žr. žemiau)
+* Kumštynės 30%, 1D3+dm (triuškinimas)
+* Elektriniai įrankiai 50%, 1D6 (ugnis arba elektra, žr. žemiau)
 
-Dauguma pagalbinių robotų turi griežtus programavimo nurodymus apie žalą protingoms rūšims. Tačiau kai kurie yra mažiau griežti dėl to ir gali veikti savigynai. Techniniai robotai turi keletą vidinių įrankių, tokių kaip suvirintojai ar elektriniai iškrovikliai, kurie gali būti naudojami žalai.
+Dauguma buitinių robotų turi griežtus programinius nurodymus dėl žalos darymo protingoms rūšims. Tačiau kai kurie yra mažiau griežti šiuo atžvilgiu ir gali veikti savigynos tikslais. Techniniai robotai turi keletą vidinių įrankių, tokių kaip suvirinimo aparatai ar elektriniai iškrovikliai, kurie gali būti naudojami žalai padaryti.
 
-**Įgūdžiai (Diplomatijos paketas):** Vertinimas 85%, Derybos 55%, Etiketas 95%, Greitas kalbėjimas 75%, Sunki mašina (dvejetainis krovėjas) 50%, Slėpimasis 25%, Įžvalga 35%, Žinios (ateivių kultūros) 75%, Žinios (kalbotyra) 100%, Kalba (visos žinomos) 95%, Klausymas 55%, Įtikinėjimas 45%, Mokymas 60%.
+**Įgūdžiai (Diplomatijos paketas):** Įvertinimas 85%, Derybos 55%, Etiketas 95%, Greitas kalbėjimas 75%, Sunkioji technika (Dvejetainis krovimo keltuvas) 50%, Slėpimasis 25%, Įžvalga 35%, Žinios (Ateivių kultūros) 75%, Žinios (Lingvistika) 100%, Kalba (visos žinomos) 95%, Klausymas 55%, Įtikinėjimas 45%, Mokymas 60%.
 
-**Įgūdžiai (Techninis paketas):** Tikslus manipuliavimas 95%, Sunki mašina (kosmodromo sistemos) 95%, Slėpimasis 35%, Kalba (galaktinė bendrinė, nemoka kalbėti) 50%, Kalba (mašinų) 100%, Klausymas 50%, Pilotavimas (žvaigždėlaivis) 50%, Taisymas (elektroninis) 95%, Taisymas (mechaninis) 95%, Taisymas (kvantinis) 75%, Pastebėjimas 50%, Techninis įgūdis (kompiuterių naudojimas) 100%.
+**Įgūdžiai (Techninis paketas):** Smulkioji manipuliacija 95%, Sunkioji technika (Kosmodromo sistemos) 95%, Slėpimasis 35%, Kalba (Galaktikos bendroji, negali kalbėti) 50%, Kalba (Mašininė) 100%, Klausymas 50%, Pilotavimas (Žvaigždėlaivis) 50%, Remontas (Elektroninis) 95%, Remontas (Mechaninis) 95%, Remontas (Kvantinis) 75%, Stebėjimas 50%, Techninis įgūdis (Kompiuterio naudojimas) 100%.
 
-## Nežaidžiamųjų veikėjų (NPC) santrauka
+## Nežaidėjų personažų santrauka
 
-Šie pavyzdiniai nežaidžiamieji veikėjai gali būti naudojami akimirksniu arba lengvai pritaikomi pagal poreikį, perkurti ar net panaudoti kaip greiti žaidėjų veikėjai. Platus jų galimų ginklų asortimentas nereiškia, kad jie visada sunkiai ginkluoti, o tai, kad jie yra įgudę daugiau nei viename ginkle.
+Šie pavyzdiniai nežaidėjų personažai gali būti naudojami akimirksniu arba lengvai pritaikomi pagal poreikį, pakeitus išvaizdą ar net naudojami kaip greiti žaidėjų personažai. Jų platus galimų ginklų asortimentas nereiškia, kad jie visada sunkiai ginkluoti, o tai, kad jie įgudę naudoti daugiau nei vieną ginklą.
 
-### Urvinis žmogus
+### Urvinis gyventojas
 
-Primityvus žmogus iš seniai praėjusios istorijos epochos, urvinis žmogus yra visiškai susitelkęs į išlikimą sau, šeimai ir genčiai. Vargiai mokantis naudotis įrankiais, urvinis žmogus nepasistūmėjo toliau medžiotojų-rinkėjų civilizacijos stadijos ir arba gyvena olose dėl saugumo, arba migruoja keičiantis sezonams, kariaudamas su kitomis gentimis dėl išteklių ar net išlikimo. Urviniai žmonės dažnai garbina oro ir savo grobio dvasias.
+Primityvus žmogus iš seniai praėjusios istorijos epochos, urvinis gyventojas yra visiškai susitelkęs į savęs, šeimos ir genties išlikimą. Vos gebantis naudotis įrankiais, urvinis gyventojas dar neperžengė medžiotojų-rinkėjų civilizacijos stadijos ir arba gyvena urvuose dėl saugumo, arba migruoja keičiantis sezonams, kariaudamas su kitomis gentimis dėl išteklių ar net išlikimo. Urviniai gyventojai dažnai garbina orų ir savo grobio dvasias.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 16 | 10 | 8 | 12 | 15 | 9 |
 
 | Judėjimas 10 | Gyvybės taškai 13 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 1 tšk. oda |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 1 tšk. kailis |
 
 **Atakos:**
 
-* Trumpa ietis 50%, 1D6+1+dm (pradurianti)
-* Trumpa ietis (mėtoma) 50%, 1D6+1+½dm (pradurianti)
-* Lengvas kūjis 50%, 1D6+dm (traiškanti)
-* Akmuo (mėtomas) 50%, 1D2+½dm (traiškanti)
-* Imtynės 50%, spec.
+* Trumpoji ietis 50%, 1D6+1+dm (smigimas)
+* Trumpoji ietis (mesta) 50%, 1D6+1+½dm (smigimas)
+* Lengva kuoka 50%, 1D6+dm (triuškinimas)
+* Akmuo (mestas) 50%, 1D2+½dm (triuškinimas)
+* Griebimas 50%, specialus
 
-**Įgūdžiai:** Imtynės 50%, Laipymas 60%, Amatas (medžio drožyba) 25%, Vengimas 35%, Slėpimasis 35%, Šuolis 50%, Kalba (sava) 40%, Klausymas 55%, Jautrumas 50%, Pastebėjimas 65%, Slaptumas 30%, Mėtymas 50%, Sekimas 40%
+**Įgūdžiai:** Kumštynės 50%, Laipiojimas 60%, Amatas (Medžio drožyba) 25%, Išsisukimas 35%, Slėpimasis 35%, Šuoliai 50%, Kalba (Sava) 40%, Klausymas 55%, Jutimas 50%, Stebėjimas 65%, Sėlinimas 30%, Metimas 50%, Sekimas 40%
 
-**Galia:** Urviniai žmonės retai turi kokių nors galių, nors kai kurie primityvūs šamanai gali turėti keletą magijos burtų ar psichinių galių, jei jų POW pakankamai aukštas.
+**Galios:** Urviniai gyventojai retai turi kokių nors galių, nors kai kurie primityvūs šamanai gali turėti kelis magijos burtus ar psichines galias, jei jų GAL pakankamai aukšta.
 
-### Nusikalstamas genijus
+### Nusikalstamo pasaulio genijus
 
-Nusikalstamas genijus yra gaujos vadas ar aukštai einantis organizuoto nusikalstamumo šeimos narys, greičiausiai pakilęs karjeros laiptais. Jie įgudę valdyti didelę individualių nusikaltėlių grupę kasdieniame organizuoto nusikalstamumo darbe. Besąžiniškas, negailestingas, ryžtingas ir klastingas nusikalstamas genijus yra išradingas ir pavojingas priešas. Nors jie nėra fiziškai įspūdingi, tai atperka ambicijomis, cinišku nepagarbos žmonių gyvybei jausmu ir įgudusių bei žiaurių pakalikų armija.
+Nusikalstamo pasaulio genijus yra gaujos lyderis ar aukšto rango organizuotos nusikalstamos šeimos narys, greičiausiai pakilęs karjeros laiptais. Jie įgudę vadovauti didelei grupei individualių nusikaltėlių kasdieniame organizuoto nusikalstamumo veikloje. Besąžiningas, negailestingas, ryžtingas ir gudrus, nusikalstamo pasaulio genijus yra išradingas ir pavojingas priešas. Nors jie fiziškai nėra įspūdingi, tai kompensuoja ambicijomis, cinišku abejingumu žmonių gyvybei ir kvalifikuotų bei nuožmių parankinių armija.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 11 | 12 | 12 | 12 | 17 | 16 | 14 |
 
@@ -1167,19 +1163,19 @@ Nusikalstamas genijus yra gaujos vadas ar aukštai einantis organizuoto nusikals
 
 **Atakos:**
 
-* Vidutinis pistoletas 75%, 1D8 (pradurianti)
-* Tiesus skustuvas 65%, 1D4+dm (kraujuojanti)
-* Kulkosvaidis 55%, 2D6+4 (pradurianti)
+* Vidutinis pistoletas 75%, 1D8 (smigimas)
+* Skustuvas 65%, 1D4+dm (kraujavimas)
+* Kulkosvaidis 55%, 2D6+4 (smigimas)
 
-**Įgūdžiai:** Vertinimas 55%, Derybos 65%, Vadovavimas 65%, Amatas (virimas) 55%, Amatas (numerių lentos) 35%, Griovimas 35%, Maskavimasis 25%, Vengimas 50%, Vairavimas (pabėgimo automobilis) 45%, Etiketas 45%, Greitas kalbėjimas 55%, Žaidimai 60%, Slėpimasis 35%, Įžvalga 75%, Žinios (įstatymai) 55%, Kalba (vietinė) 75%, Kalba (sava) 75%, Klausymas 55%, Medicina (farmakologija) 35%, Atlikimas (dainavimas) 50%, Įtikinėjimas 75%, Jautrumas 40%, Miklumas 35%, Pastebėjimas 45%, Statusas 55%, Slaptumas 55%, Strategija 60%, Mėtymas 45%.
+**Įgūdžiai:** Įvertinimas 55%, Derybos 65%, Komandavimas 65%, Amatas (Maisto gaminimas) 55%, Amatas (Valstybinių numerių gamyba) 35%, Griovimas 35%, Kamufliažas 25%, Išsisukimas 50%, Vairavimas (Bėgimo automobilis) 45%, Etiketas 45%, Greitas kalbėjimas 55%, Lošimas 60%, Slėpimasis 35%, Įžvalga 75%, Žinios (Įstatymai) 55%, Kalba (Vietos) 75%, Kalba (Sava) 75%, Klausymas 55%, Medicina (Farmakologija) 35%, Atlikimas (Dainavimas) 50%, Įtikinėjimas 75%, Jutimas 40%, Vikrumas 35%, Stebėjimas 45%, Statusas 55%, Sėlinimas 55%, Strategija 60%, Metimas 45%.
 
-**Galia:** Nusikalstami genijai retai turi galių ir paprastai yra supergalias turinčiųjų priešai.
+**Galios:** Nusikalstamo pasaulio genijai retai turi galias ir dažniausiai yra supergalias turinčiųjų priešai.
 
 ### Kiborgas
 
-Kiborgas yra žmogus, papildytas technologiniais elementais – ar kaip patobulinimo priemonė, ar kaip pakaitalas dėl nelaimingo atsitikimo prarastoms kūno dalims. Pusiau kūnas, pusiau mašina, kiborgas priėmė šią naują būklę, nepaisant atskirties, kurią ji sukelia. Jie gali būti visiškai žmoniški išvaizda arba akivaizdus kūno ir metalo mišinys.
+Kiborgas yra žmogus, papildytas technologiniais elementais, arba kaip tobulinimo priemonė, arba kaip pakaitalas kūno dalims, prarastoms dėl nelaimingo atsitikimo. Pusiau kūnas ir pusiau mašina, kiborgas susitaikė su šia naujai atrasta būkle, nepaisant atskirties, kurią tai sukuria. Jie gali visiškai atrodyti kaip žmonės arba būti akivaizdus kūno ir metalo derinys.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 33 | 24 | 14 | 14 | 11 | 22 | 14 |
 
@@ -1189,62 +1185,62 @@ Kiborgas yra žmogus, papildytas technologiniais elementais – ar kaip patobuli
 
 **Atakos:**
 
-* Imtynės 90%, 1D3+10+dm (traiškanti)
+* Kumštynės 90%, 1D3+10+dm (triuškinimas)
 
-**Įgūdžiai:** Laipymas 40%, Vengimas 65%, Vairavimas (automobilis) 55%, Slėpimasis 40%, Šuolis 75%, Kalba (sava) 85%, Klausymas 75%, Pilotavimas (eksperimentiniai reaktyviniai lėktuvai) 75%, Taisymas (elektronika) 55%, Mokslas (kibernetika) 40%, Pastebėjimas 85%, Slaptumas 40%, Mėtymas 65%.
+**Įgūdžiai:** Laipiojimas 40%, Išsisukimas 65%, Vairavimas (Automobilis) 55%, Slėpimasis 40%, Šuoliai 75%, Kalba (Sava) 85%, Klausymas 75%, Pilotavimas (Eksperimentiniai reaktyviniai lėktuvai) 75%, Remontas (Elektroninis) 55%, Mokslas (Kibernetika) 40%, Stebėjimas 85%, Sėlinimas 40%, Metimas 65%.
 
-**Galia:** Kiborgo modifikacijos geriausiai reprezentuojamos supergaliomis, tokiomis kaip:
+**Galios:** Kiborgo augmentacija geriausiai atstovaujama supergaliomis, tokiomis kaip:
 
-* **Gynybos sistemos:** Šarvai 5 (vs. elektros energija), Vidinis akumuliatorius: Papildoma energija 5 (+50 galios taškų)
-* **Fiziniai patobulinimai:** Šuolis 5 (+10 metrų), Super charakteristikos 40 (+20 STR, +10 CON, +10 DEX), Super greitis 2 (1 papildomas judesys, 1 papildomas veiksmas)
-* **Jutimų patobulinimai:** Super Jautrumas (Super klausa 10, Super rega 10, Infraraudonųjų spindulių rega 5, Ultragarso klausa 5)
-* **Taktinės modifikacijos:** Gynyba 20 (–10% į pataikymą), Super įgūdis 8 (Šuolis +40%, Klausymas +40%, Pastebėjimas +60%, Mėtymas +25%), Imtynės 5 (+10 žalos, –25% vieno taikinio pataikymo tikimybei, +25% į Imtynių įgūdį)
+* **Gynybos sistemos:** Šarvai 5 (prieš elektros energiją) Vidinė baterija: Papildoma energija 5 (+50 galios taškų)
+* **Fiziniai tobulinimai:** Šuoliai 5 (+10 metrų), Supercharakteristikos 40 (+20 JĖG, +10 IŠT, +10 VIK), Supergreitis 2 (1 papildomas judėjimas, 1 papildomas veiksmas)
+* **Jutiminiai patobulinimai:** Superjutimas (Superklausymas 10, Superregėjimas 10, Infraraudonųjų spindulių matymas 5, Ultragarso klausymas 5)
+* **Taktiškos modifikacijos:** Gynyba 20 (–10% tikimybės būti pataikytam), Superįgūdis 8 (Šuoliai +40%, Klausymas +40%, Stebėjimas +60%, Metimas +25%), Kovos be ginklų 5 (+10 žalos, –25% vieno taikinio tikimybei pataikyti, +25% Kumštynių įgūdžiui)
 
 **Silpnybės:** Kiborgas turi šias silpnybes, kad subalansuotų šią nuostabią galią:
 
 * Kiborgo tapatybė daro normalų gyvenimą neįmanomą.
-* Reikšmingas įsitraukimas su vyriausybine agentūra, atsakinga už kiborgo modifikacijas.
-* Kiborgo komponentai patiria papildomą 1D6 žalą nuo magnetinių atakų.
+* Didelis įsitraukimas į vyriausybinę agentūrą, atsakingą už kiborgo modifikacijas.
+* Kiborgo komponentai gauna papildomą 1D6 žalą nuo magnetinių atakų.
 
 ### Pusdievis
 
-Dievo ir mirtingojo palikuonis, pusdievis nuotykiuoja visame pasaulyje, kovodamas su antgamtinėmis grėsmėmis ir padėdamas normaliems žmonėms kovose prieš dievų tironiją. Įstrigęs tarp dviejų pasaulių – dieviškojo ir mirtingojo – pusdievis turi galingą likimą, bet dar nenusprendė, ar tas likimas yra padėti žmonijai nuversti dievus, ar vesti mirtinguosius į didesnį garbinimą ir ištikimybę dangui. Pusdievis dažnai pritraukia mažesnius didvyrius prie savo tikslo ir yra bėdų židinys. Nemirtingas, pusdievis gali būti sutiktas bet kuriuo istorijos tašku.
+Dievo ir mirtingojo palikuonis, pusdievis nuotykius ieško visame pasaulyje, kovodamas su antgamtinėmis grėsmėmis ir padėdamas normaliems žmonėms kovose prieš dievų tironiją. Įstrigęs tarp dviejų pasaulių – dieviškojo ir mirtingojo – pusdievis turi galingą likimą, bet dar nenusprendė, ar tas likimas yra padėti žmonijai nuversti dievus, ar vadovauti mirtingiesiems į didesnį garbinimą ir ištikimybę dangui. Pusdievis dažnai pritraukia mažesnius herojus prie savo tikslo ir yra bėdų centras. Nemirtingas, pusdievis gali būti sutiktas bet kuriuo istorijos tašku.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 35 | 34 | 15 | 13 | 18 | 15 | 17 |
 
 | Judėjimas 10 | Gyvybės taškai 25 |
 | :---- | :---- |
-| **Žalos modifikatorius** +2D6 | **Šarvai** 20 tšk. šarvai (Kinetiniai) |
+| **Žalos modifikatorius** +2D6 | **Šarvai** 20 tšk. Šarvai (Kinetika) |
 
 **Atakos:**
 
-* Imtynės 110%, 1D3+dm (traiškanti)
-* Grumtynės 110%, spec.
-* Trumpas kardas 100%, 1D6+1+dm (kraujuojanti)
-* Apvalus skydas 80%, 1D3+dm (atstumianti)
+* Kumštynės 110%, 1D3+dm (triuškinimas)
+* Griebimas 110%, specialus
+* Trumpasis kardas 100%, 1D6+1+dm (kraujavimas)
+* Apvalus skydas 80%, 1D3+dm (atstūmimas)
 
-**Įgūdžiai:** Imtynės 110%, Laipymas 80%, Vadovavimas 45%, Vengimas 65%, Vairavimas (vežimas) 65%, Etiketas 25%, Grumtynės 110%, Įžvalga 55%, Šuolis 75%, Žinios (mitologija) 85%, Kalba (senovės sava) 100%, Kalba (vietinė) 90%, Klausymas 65%, Navigacija 60%, Atlikimas (arfa) 50%, Įtikinėjimas 45%, Jojimas (arklys) 45%, Jautrumas 70%, Pastebėjimas 60%, Statusas 45%, Slaptumas 50%, Strategija 60%, Plaukimas 75%, Mėtymas 85%
+**Įgūdžiai:** Kumštynės 110%, Laipiojimas 80%, Komandavimas 45%, Išsisukimas 65%, Vairavimas (Vežimas) 65%, Etiketas 25%, Griebimas 110%, Įžvalga 55%, Šuoliai 75%, Žinios (Mitologija) 85%, Kalba (Senovės sava) 100%, Kalba (Vietos) 90%, Klausymas 65%, Navigacija 60%, Atlikimas (Arfa) 50%, Įtikinėjimas 45%, Jojimas (Arklys) 45%, Jutimas 70%, Stebėjimas 60%, Statusas 45%, Sėlinimas 50%, Strategija 60%, Plaukimas 75%, Metimas 85%
 
-**Galia:** Pusdievis turi įvairių galių iš dieviškosios kilmės, tokių kaip šios supergalios:
+**Galios:** Pusdievis turi įvairių galių iš dieviškosios kilmės, tokių kaip šios supergalios:
 
-* Adaptacija (radiacija, po vandeniu, vakuumas) po 5; Šarvai (Kinetiniai) 20; Papildoma energija 20 (+200 galios taškų); Papildomi gyvybės taškai 30 (+30 HP); Šuolis 10 (+20 metrų prie Šuolio atstumo); Regeneracija 3 (gydo 3 HP per kovos raundą); Pagalbininkas (žr. žemiau); Super charakteristikos 50 (STR +20, CON +20, POW +5, CHA +5); Super įgūdžiai 20 (Imtynės +40%, Grumtynės +40%, Žinios [mitologija] +40%, Jautrumas +40%, Skydas +80%, Strategija +40%, Kardas +80%, Mėtymas +40%), Imtynės 5 (+10 imtynių žalos, –25% vieno užpuoliko įgūdžiui, Imtynių/Grumtynių įgūdis +25%).
+* Adaptacija (Radiacija, Po vandeniu, Vakuumas) po 5 kiekvienam; Šarvai (Kinetika) 20; Papildoma energija 20 (+200 galios taškų); Papildomi gyvybės taškai 30 (+30 GT); Šuoliai 10 (+20 metrų prie Šuolių atstumo); Regeneracija 3 (gydo 3 GT per kovos raundą); Parankinis (žr. žemiau); Supercharakteristikos 50 (JĖG +20, IŠT +20, GAL +5, CHA +5); Superįgūdžiai 20 (Kumštynės +40%, Griebimas +40%, Žinios [Mitologija] +40%, Jutimas +40%, Skydas +80%, Strategija +40%, Kardas +80%, Metimas +40%), Kovos be ginklų 5 (+10 kumštynių žalos, –25% vienam užpuolikui įgūdžio, Kumštynės/Griebimas įgūdis +25%).
 
-**Silpnybės:** Pusdievio charakterio trūkumai:
+**Silpnybės:** Pusdievio charakterio trūkumai yra:
 
 * Nesugebėjimas gyventi normalų gyvenimą.
 * Medžiojamas dievų priešų.
-* Medžiojamas pačių rivalizuojančių dievų.
+* Medžiojamas pačių varžovų dievų.
 * Visada kviečiamas pagalbos mirtingųjų.
 
-Pusdieviai dažnai turi mirtingąjį pagalbininką (naudojant pagalbininko supergalią ar normalų nežaidžiamąjį veikėją), kuris kultūriškai pažįsta pasaulį ir primena jiems apie mirtingojo egzistavimo nuolankumą. Priklausomai nuo pasaulio, pusdievis galėtų naudoti magijos burtus ar burtus. Jie gali net nebūti dieviška esybė ir gali būti tiesiog mutantas.
+Pusdieviai dažnai turi mirtingą parankinį (naudojantį Parankinio supergalią arba normalų nežaidėjų personažą), asmenį, kultūriškai susipažinusį su pasauliu ir primenantį jiems mirtingojo egzistavimo nuolankumą. Priklausomai nuo aplinkos, pusdievis galėtų naudoti magijos burtus ar kerėjimą. Jie net nebūtinai turi būti dieviška būtybė ir gali būti tiesiog mutantas.
 
 ### Detektyvas
 
-Nesvarbu, ar policijos detektyvas, teismo ekspertas, privatus tyrėjas ar kriminologas, detektyvas yra apmokytas tyrimo, stebėjimo, sekimo, įtariamųjų ir liudytojų apklausos, fizinių įrodymų tyrimo ir dedukcijos srityse. Kai kurie detektyvai gyvena veiksmo kupinus gyvenimus, pilnus automobilių gaudynių, gražių moterų ir susidūrimų tiek su įstatymu, tiek su nusikaltėliais. Kiti dirba aukštųjų technologijų laboratorijose, dulkėtose bibliotekose ar svetainėse, ar net priešais kompiuterio terminalą, ieškodami viešų ir privačių įrašų.
+Nesvarbu, ar tai policijos detektyvas, teismo ekspertas, privatus seklys ar kriminologas, detektyvas yra apmokytas tyrimų, stebėjimo, sekimo, įtariamųjų ir liudininkų apklausos, fizinių įrodymų tyrimo ir dedukcijos. Kai kurie detektyvai gyvena veiksmo kupiną gyvenimą, pilną automobilių gaudynių, gražių moterų ir susidūrimų tiek su įstatymu, tiek su nusikaltėliais. Kiti dirba aukštųjų technologijų laboratorijose, dulkėtose bibliotekose ir svetainėse, ar net priešais kompiuterio terminalą, ieškodami viešų ir privačių įrašų.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 13 | 12 | 14 | 17 | 14 | 14 | 15 |
 
@@ -1254,19 +1250,19 @@ Nesvarbu, ar policijos detektyvas, teismo ekspertas, privatus tyrėjas ar krimin
 
 **Atakos:**
 
-* Vidutinis pistoletas 75%, 1D8 (pradurianti)
-* Kumštis 65%, 1D3+dm (traiškanti)
-* Grumtynės 50%, spec.
+* Vidutinis pistoletas 75%, 1D8 (smigimas)
+* Kumštis 65%, 1D3+dm (triuškinimas)
+* Griebimas 50%, specialus
 
-**Įgūdžiai:** Vertinimas 35%, Derybos 35%, Laipymas 55%, Maskavimasis 35%, Vengimas 40%, Vairavimas (sedanas) 55%, Etiketas 25%, Greitas kalbėjimas 65%, Slėpimasis 40%, Įžvalga 55%, Žinios (įstatymai) 65%, Žinios (Regionas: Vietinis) 55%, Žinios (gatvės išmintis) 50%, Kalba (vietinė) 75%, Klausymas 45%, Įtikinėjimas 45%, Tyrimas 75%, Jautrumas 50%, Miklumas 25%, Pastebėjimas 65%, Slaptumas 50%, Sekimas 35%
+**Įgūdžiai:** Įvertinimas 35%, Derybos 35%, Laipiojimas 55%, Kamufliažas 35%, Išsisukimas 40%, Vairavimas (Sedanas) 55%, Etiketas 25%, Greitas kalbėjimas 65%, Slėpimasis 40%, Įžvalga 55%, Žinios (Įstatymai) 65%, Žinios (Regionas: Vietinis) 55%, Žinios (Gatvės išmintis) 50%, Kalba (Vietos) 75%, Klausymas 45%, Įtikinėjimas 45%, Tyrimas 75%, Jutimas 50%, Vikrumas 25%, Stebėjimas 65%, Sėlinimas 50%, Sekimas 35%
 
-**Galia:** Detektyvai retai turi galių, nors keletas magų ar burtininkų tampa detektyvais.
+**Galios:** Detektyvai retai turi galias, nors kai kurie magai ar kerėtojai tampa detektyvais.
 
 ### Galaktikos riteris
 
-Šis kosmoso klajoklis paladinas laikosi mistinės tradicijos, kuri suteikia didžių ir paslaptingų galių. Kaip taikos ir teisingumo gynėjas visoje galaktikoje, galaktikos riteris prisiekė laikytis garbės kodekso ir tarnauja beveik kaip tarpgalaktinis reindžeris. Dauguma galaktikos nesupranta keistos jėgos, kuriai tarnauja galaktikos riteris, nors jie gerbiami ar bijomi visur, kur beeitų. Galaktikos riteris vengia tradicinės ginkluotės ir vietoj to naudoja senovinį, bet sudėtingą rankinį ginklą su mirtinu efektyvumu.
+Šis kosmoso paladinas seka mistine tradicija, kuri suteikia didžių ir paslaptingų galių. Kaip taikos ir teisingumo gynėjas visoje galaktikoje, galaktikos riteris davė priesaiką laikytis garbės kodekso ir tarnauja beveik kaip tarpgalaktinis reindžeris. Didžioji galaktikos dalis nesupranta keistos jėgos, kuriai tarnauja galaktikos riteris, nors jie yra gerbiami ar bijomi visur, kur eina. Galaktikos riteris vengia tradicinių ginklų ir vietoj to naudoja senovinį, bet sudėtingą rankinį ginklą su mirtinu efektyvumu.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 15 | 14 | 15 | 21 | 17 | 15 |
 
@@ -1276,18 +1272,18 @@ Nesvarbu, ar policijos detektyvas, teismo ekspertas, privatus tyrėjas ar krimin
 
 **Atakos:**
 
-* Energijos kardas 150%, 2D10+dm (kraujuojanti)
-* Imtynės 80%, 1D3+dm (traiškanti)
+* Energijos kardas 150%, 2D10+dm (kraujavimas)
+* Kumštynės 80%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Laipymas 75%, Vadovavimas 50%, Vengimas 75%, Slėpimasis 45%, Įžvalga 75%, Šuolis 65%, Žinios (Regionas: Galaktika) 35%, Kalba (ateivių) 70%, Kalba (sava) 105%, Klausymas 65%, Kovos menai 80%, Navigacija 50%, Įtikinėjimas 35%, Pilotavimas (žvaigždėlaivis) 65%, Taisymas (mechaninis) 55%, Jautrumas 70%, Pastebėjimas 65%, Slaptumas 70%, Strategija 50%, Mėtymas 60%.
+**Įgūdžiai:** Laipiojimas 75%, Komandavimas 50%, Išsisukimas 75%, Slėpimasis 45%, Įžvalga 75%, Šuoliai 65%, Žinios (Regionas: Galaktika) 35%, Kalba (Ateivių) 70%, Kalba (Sava) 105%, Klausymas 65%, Kovos menai 80%, Navigacija 50%, Įtikinėjimas 35%, Pilotavimas (Žvaigždėlaivis) 65%, Remontas (Mechaninis) 55%, Jutimas 70%, Stebėjimas 65%, Sėlinimas 70%, Strategija 50%, Metimas 60%.
 
-**Galia:** Galaktikos riteris yra įgudęs mistinėje tradicijoje, kuri suteikia keletą psichinių gebėjimų, tarp jų Pavojaus jausmą 60%, Empatiją 55%, Proto kontrolę 35%, Prekogniciją 40%, Telekinezę 45% ir Telepatiją 50%.
+**Galios:** Galaktikos riteris yra įgudęs mistinėje tradicijoje, kuri suteikia keletą psichinių gebėjimų, tarp jų Pavojaus jausmas 60%, Empatija 55%, Minčių valdymas 35%, Pranašystė 40%, Telekinezė 45% ir Telepatija 50%.
 
-### Ginklanešys (Gunslinger)
+### Ginklanešys
 
-Ginklanešys užsidirba pragyvenimui žudydamas žmones, specializuodamasis greitoje ir mirtinoje kovoje su šaunamaisiais ginklais. Daugeliu atvejų ginklanešys gyvenimą pradėjo kaip kažkas kita, bet buvo pastūmėtas į smurto gyvenimą dėl tragedijos ar skonio žudymui. Ginklanešio reputacija yra toli gražu jo stipriausias ginklas – daugelis nusimeta ginklus, užuot susidūrę su garantuota mirtimi. Tai suteikia ginklanešiui pastovų darbą, padedant tiems, kuriems reikia pagalbos, ar įstatymo, ar nusikalstamumo pusėje. Kartais reputacija yra dviašmenis kalavijas, pritraukiantis tuos, kurie nori išgarsėti.
+Ginklanešys užsidirba pragyvenimui žudydamas žmones, besispecializuodamas greitoje ir mirtinoje kovoje su šaunamaisiais ginklais. Dažniausiai ginklanešys gyvenimą pradėjo kaip kažkas kitas, bet buvo nuvarytas į smurto gyvenimą per tragediją arba žudymo skonį. Ginklanešio reputacija yra toli gražu jų galingiausias ginklas – daugelis padeda ginklus vietoj to, kad susidurtų su tikra mirtimi. Tai suteikia ginklanešiui pastovų darbą, padedant tiems, kuriems reikia pagalbos, ar įstatymo, ar nusikalstamumo pusėje. Kartais reputacija yra dviašmenis kalavijas, pritraukiantis tuos, kurie nori pasidaryti įžymūs.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 14 | 14 | 15 | 18 | 13 |
 
@@ -1297,48 +1293,48 @@ Ginklanešys užsidirba pragyvenimui žudydamas žmones, specializuodamasis grei
 
 **Atakos:**
 
-* Vidutinis revolveris 95%, 1D8 (pradurianti)
-* Sportinis šautuvas 85%, 2D6 (pradurianti)
-* Dvivamzdis šratinis šautuvas 75%, 4D6/2D6/1D6 (pradurianti)
-* Peilis 75%, 1D4+2+dm (pradurianti)
-* Kumštis 75%, 1D3+dm (traiškanti)
+* Vidutinis revolveris 95%, 1D8 (smigimas)
+* Sportinis šautuvas 85%, 2D6 (smigimas)
+* Dvivamzdis lygiavamzdis 75%, 4D6/2D6/1D6 (smigimas)
+* Peilis 75%, 1D4+2+dm (smigimas)
+* Kumštis 75%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Imtynės 75%, Laipymas 60%, Griovimas 30%, Vengimas 60%, Pirmoji pagalba 40%, Žaidimai 65%, Grumtynės 50%, Įžvalga 65%, Žinios (Regionas: Vietinis) 65%, Kalba (sava) 70%, Klausymas 65%, Jojimas (arklys) 75%, Jautrumas 50%, Miklumas 35%, Pastebėjimas 75%, Slaptumas 50%, Mėtymas 55%, Sekimas 40%.
+**Įgūdžiai:** Kumštynės 75%, Laipiojimas 60%, Griovimas 30%, Išsisukimas 60%, Pirmoji pagalba 40%, Lošimas 65%, Griebimas 50%, Įžvalga 65%, Žinios (Regionas: Vietinis) 65%, Kalba (Sava) 70%, Klausymas 65%, Jojimas (Arklys) 75%, Jutimas 50%, Vikrumas 35%, Stebėjimas 75%, Sėlinimas 50%, Metimas 55%, Sekimas 40%.
 
-**Galia:** Ginklanešiai retai turi galių.
+**Galios:** Ginklanešiai retai turi galias.
 
 ### Riteris
 
-Jojantis ir šarvuotas karys, įgudęs karduose, turnyruose ir riterystės etikete. Kilęs iš bajorų klasės, riteris prisiekė ištikimybę savo valdovui ir gauna stipendiją iš žemių, esančių jo valdose, kad sumokėtų už savo ginklus, šarvus, arklius ir gyvenimo būdą. Riteriai reguliariai praktikuoja savo įgūdžius, konkuruoja turnyruose ir keliauja į karą, kai tik valdovas įsako. Idealiu atveju riteris yra riteriškas ir pamaldus, laikantis garbės ir padorumo kodekso, nors tai keičiasi nuo riterio iki riterio.
+Jojantis ir šarvuotas karys, įgudęs kalavijavime, turnyruose ir riterystės etikete. Kilęs iš bajorų luomo, riteris davė ištikimybės priesaiką savo siuzerenui ir gauna stipendiją iš žemių, esančių jo valdose, kad sumokėtų už ginklus, šarvus, arklius ir gyvenimo būdą. Riteriai reguliariai praktikuoja savo įgūdžius, varžosi turnyruose ir išvyksta į karą, kai tik įsako jų siuzerenas. Idealiu atveju riteris yra riteriškas ir pamaldus, laikantis garbės ir padorumo kodekso, nors tai skiriasi priklausomai nuo riterio.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 15 | 15 | 11 | 12 | 15 | 14 |
 
 | Judėjimas 10 | Gyvybės taškai 15 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 10 tšk. plokštiniai ir sunkus šalmas |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 10 tšk. plokštės ir sunkus šalmas |
 
 **Atakos:**
 
-* Ilgas kardas 75%, 1D8+dm (kraujuojanti)
-* Aitvaro skydas 65%, 1D4+dm (atstumianti)
-* Ietis 75%, 1D8+1+ arklio dm (paprastai +2D6, pradurianti, žr. žemiau)
-* Lengvas buožė 65%, 1D6+2+dm (traiškanti)
-* Ilgas lankas 60%, 1D8+1+½dm (pradurianti)
-* Dagger 50%, 1D4+2+dm (pradurianti)
-* Šarvuota pirštinė 50%, 1D3+1+dm (traiškanti)
-* Turnyrinės ietys daro traiškantį žalą.
+* Ilgasis kardas 75%, 1D8+dm (kraujavimas)
+* Skydas 65%, 1D4+dm (atstūmimas)
+* Ietis 75%, 1D8+1+ arklio dm (dažniausiai +2D6, smigimas, žr. žemiau)
+* Lengvas buožgalvis 65%, 1D6+2+dm (triuškinimas)
+* Ilgasis lankas 60%, 1D8+1+½dm (smigimas)
+* Durklas 50%, 1D4+2+dm (smigimas)
+* Šarvuota pirštinė 50%, 1D3+1+dm (triuškinimas)
+* Turnyrinės ietys daro triuškinimo žalą.
 
-**Įgūdžiai:** Vadovavimas 45%, Vengimas 50%, Etiketas 65%, Žinios (heraldika) 50%, Kalba (kita) 35%, Kalba (sava) 60%, Klausymas 45%, Jojimas (arklys) 75%, Jautrumas 20%, Pastebėjimas 45%, Statusas 60%, Strategija 30%.
+**Įgūdžiai:** Komandavimas 45%, Išsisukimas 50%, Etiketas 65%, Žinios (Heraldika) 50%, Kalba (Kita) 35%, Kalba (Sava) 60%, Klausymas 45%, Jojimas (Arklys) 75%, Jutimas 20%, Stebėjimas 45%, Statusas 60%, Strategija 30%.
 
-**Galia:** Riteriai apskritai neturi galių, nors kai kurie reti pažįsta magiją. Tačiau riteris gali turėti priėjimą prie magiško artefakto, ar tai būtų palaimintas ginklas, šventa relikvija ar šarvai su kažkokia dorybe. Kalbama, kad elfai turi savo riterijos ordinus, ir šie riteriai natūraliai laisvai naudojasi magija. Blogi riteriai, prisiekę tamsioms jėgoms, gali naudoti burtininkystę.
+**Galios:** Riteriai paprastai neturi galių, nors kai kurie reti pažįsta magiją. Tačiau riteris gali turėti prieigą prie magiško artefakto – ar tai būtų palaimintas ginklas, šventa relikvija, ar šarvai su tam tikra dorybe. Sklando gandai, kad elfai turi savo riterystės ordinus, ir šie riteriai natūraliai laisvai naudotų magiją. Blogio riteriai, prisiekę tamsioms jėgoms, gali naudoti kerėjimą.
 
 ### Maniakas
 
-Iš pažiūros normalus žmogus, tapęs smurtiniu, homicidaliniu pamišėliu, maniakas yra figūra, kurios reikia bijoti. Maniakas arba persekioja jaunus aukas atokiose vietovėse, pavyzdžiui, vasaros stovykloje ar kažkokioje stovyklavietėje, arba keliauja keliais kaip serijinis žudikas, ieškantis aukų nužudyti dėl nesuprantamų priežasčių. Išvaizda maniakas būna dviejų tipų: visiškai paprastas arba su išskirtiniu kostiumu ar kauke.
+Atrodo normalus asmuo, tapęs smurtiniu, žudikišku bepročiu, maniakas yra figūra, kurios reikia bijoti. Maniakas arba persekioja jaunas aukas nuošaliose vietose, tokiose kaip vasaros stovykla ar stovyklavietė, arba iškeliauja į kelius kaip serijinis žudikas, ieškodamas aukų žudyti dėl nesuvokiamų priežasčių. Išvaizda maniakas pasitaiko dviejų skonių: visiškai paprastas arba dėvintis išskirtinį kostiumą ar kaukę.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 14 | 14 | 15 | 17 | 12 |
 
@@ -1348,22 +1344,22 @@ Iš pažiūros normalus žmogus, tapęs smurtiniu, homicidaliniu pamišėliu, ma
 
 **Atakos:**
 
-* Mėsininko peilis 75%, 1D6+dm (pradurianti)
-* Malkų kirvis 75%, 1D8+2+dm (kraujuojanti)
-* Grandininis pjūklas 65%, 2D8 (kraujuojanti)
-* Šakės 55%, 1D6+dm (pradurianti)
-* Mačetė 65%, 1D6+dm (kraujuojanti)
-* Imtynės 75%, spec.
+* Mėsininko peilis 75%, 1D6+dm (smigimas)
+* Medžio kirvis 75%, 1D8+2+dm (kraujavimas)
+* Grandininis pjūklas 65%, 2D8 (kraujavimas)
+* Šakės 55%, 1D6+dm (smigimas)
+* Mačetė 65%, 1D6+dm (kraujavimas)
+* Griebimas 75%, specialus
 
-**Įgūdžiai:** Imtynės 75%, Vengimas 50%, Vairavimas (furgonas) 65%, Slėpimasis 60%, Kalba (sava) 60%, Klausymas 45%, Jautrumas 40%, Pastebėjimas 65%, Slaptumas 80%, Mėtymas 50%, Sekimas 40%
+**Įgūdžiai:** Kumštynės 75%, Išsisukimas 50%, Vairavimas (Mikroautobusas) 65%, Slėpimasis 60%, Kalba (Sava) 60%, Klausymas 45%, Jutimas 40%, Stebėjimas 65%, Sėlinimas 80%, Metimas 50%, Sekimas 40%
 
-**Galia:** Dauguma maniakų neturi jokių galių, nors kai kurie turi išskirtinį kietumą ir atsparumą. Jie dažniausiai kyla dėl kažkokios mutacijos, ir tinkamos mutacijos apima „Atsparumą“, „Padidintą charakteristiką“, „Regeneraciją“ ar net „Natūralų ginklą“ (dantys).
+**Galios:** Dauguma maniakų neturi jokių galių, nors kai kurie pasižymi išskirtiniu tvirtumu ir atsparumu. Tai dažniausiai sukelia kažkokia mutacija, ir tinkamos mutacijos apima Atsparumą, Padidintą charakteristiką, Regeneraciją arba net Natūralų ginklą (dantis).
 
-### Mutantas
+### Mutantai
 
-Ši nelaiminga siela mutavo dėl poveikio kokiam nors radioaktyviam ar biologiniam agentui, arba atsirado dėl nesėkmingo genetinio ridenimo. Bijomas ir negalintis gyventi normalų gyvenimą, mutantas slepiasi visuomenės paribiuose. Post-apokaliptiniame pasaulyje mutantas greičiausiai yra radiacijos auka ir vienas iš daugelio tokių padarų, grasinančių likusiems „gryniesiems“ žmonėms.
+Ši nelaiminga siela mutavo per poveikį kažkokiam radioaktyviam ar biologiniam agentui arba atsirado per nesėkmingą genetinių kauliukų metimą. Bijomas ir negalintis gyventi normalaus gyvenimo, mutantas tūno visuomenės pakraštyje. Postapokaliptiniame pasaulyje mutantas greičiausiai yra radiacijos auka ir viena iš daugelio tokių būtybių, grasinančių likusiems „gryniems“ žmonėms.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 19 | 9 | 13 | 14 | 12 | 15 | 10 |
 
@@ -1373,44 +1369,44 @@ Iš pažiūros normalus žmogus, tapęs smurtiniu, homicidaliniu pamišėliu, ma
 
 **Atakos:**
 
-* Imtynės 55%, 1D3+1D6+dm (traiškanti)
+* Kumštynės 55%, 1D3+1D6+dm (triuškinimas)
 
-**Įgūdžiai:** Maskavimasis 25%, Vengimas 40%, Vairavimas (bagis) 40%, Greitas kalbėjimas 25%, Pirmoji pagalba 40%, Slėpimasis 40%, Kalba (sava) 55%, Klausymas 35%, Jautrumas 25%, Pastebėjimas 30%, Slaptumas 25%, Sekimas 25%.
+**Įgūdžiai:** Kamufliažas 25%, Išsisukimas 40%, Vairavimas (Kopų bagis) 40%, Greitas kalbėjimas 25%, Pirmoji pagalba 40%, Slėpimasis 40%, Kalba (Sava) 55%, Klausymas 35%, Jutimas 25%, Stebėjimas 30%, Sėlinimas 25%, Sekimas 25%.
 
-**Galia:** Šis mutantas išvystė šias mutacijas: Įgimta liga (hemofilija, CON –5), Padidinta charakteristika (STR +6), Natūralūs ginklai (kauliniai gumbai ant rankų, +1D6 žala), Jautrumas (kraujui), Struktūrinis patobulinimas (kauliniai gumbai visoje odoje, +7 tšk. natūralūs šarvai).
+**Galios:** Šis mutantas išvystė šias mutacijas: Įgimta liga (hemofilija, IŠT –5), Padidinta charakteristika (JĖG +6), Natūrali ginkluotė (kauliniai gumbai ant rankų, +1D6 žala), Jautrumas (kraujui), Struktūrinis patobulinimas (kauliniai gumbai ant odos, +7 tšk. natūralūs šarvai).
 
 ### Nindzė
 
-Nindzė yra baimę keliantis šešėlių žudikas iš senovės ir net šiuolaikinio pasaulio, apmokytas slaptųjų kovos menų ir slaptumo, infiltravimosi bei pasikėsinimo metodų. Nindzės dažnai gimsta klanuose, nors kai kurie reti individai patys siekia tokio gyvenimo ir yra priimami į senovės ordinus. Jie yra samdomi žudikai, dirbantys vieni arba grupėse.
+Nindzė yra bijomas šešėlinis žudikas iš senovės ir net šiuolaikinio pasaulio, apmokytas slaptų kovos menų ir slapstymosi, infiltravimosi bei nužudymo technikų. Nindzės dažnai gimsta klanuose, nors kai kurie reti asmenys ieško tokio gyvenimo ir yra priimami į senovės ordinus. Jie yra samdomi žudikai, dirbantys vieni arba grupėmis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 10 | 14 | 15 | 17 | 12 |
 
 | Judėjimas 10 | Gyvybės taškai 12 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, arba 2 tšk. lengvi grandiniai šarvai |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, arba 2 tšk. lengvi grandininiai šarvai |
 
 **Atakos:**
 
-* Katana 65%, 1D10+1+dm (kraujuojanti)
-* Peilis 65%, 1D4+2+dm (pradurianti)
-* Kompozicinis lankas 50%, 1D8+1+½dm (pradurianti)
-* Pučiamasis vamzdis 50%, 1D3 (pradurianti) + nuodai (žr. žemiau)
-* Kumštis 55%, 1D3+dm (traiškanti)
-* Spirti 55%, 1D3+dm (traiškanti)
+* Katana 65%, 1D10+1+dm (kraujavimas)
+* Durklas 65%, 1D4+2+dm (smigimas)
+* Kompozitinis lankas 50%, 1D8+1+½dm (smigimas)
+* Pučiamasis vamzdis 50%, 1D3 (smigimas) + nuodai (žr. žemiau)
+* Kumštis 55%, 1D3+dm (triuškinimas)
+* Spyris 55%, 1D3+dm (triuškinimas)
 
 Nindzės pučiamieji vamzdžiai dažniausiai padengti paralyžiuojančiais POT 15 nuodais (žr. **Nuodai**).
 
-**Įgūdžiai:** Laipymas 80%, Maskavimasis 55%, Vengimas 65%, Tikslus manipuliavimas 45%, Slėpimasis 70%, Šuolis 65%, Kalba (sava) 70%, Klausymas 65%, Kovos menai 35%, Jautrumas 50%, Miklumas 55%, Pastebėjimas 55%, Slaptumas 75%, Plaukimas 55%, Mėtymas 50%, Sekimas 35%.
+**Įgūdžiai:** Laipiojimas 80%, Kamufliažas 55%, Išsisukimas 65%, Smulkioji manipuliacija 45%, Slėpimasis 70%, Šuoliai 65%, Kalba (Sava) 70%, Klausymas 65%, Kovos menai 35%, Jutimas 50%, Vikrumas 55%, Stebėjimas 55%, Sėlinimas 75%, Plaukimas 55%, Metimas 50%, Sekimas 35%.
 
-**Galia:** Nindzės paprastai neturi galių, nors pasauliuose, kur turi, jie naudoja arba burtus, arba supergalias, aproksimuojančias nepaprastus kovos menus.
+**Galios:** Nindzės paprastai neturi galių, nors pasauliuose, kur jie turi, jie turėtų arba kerėjimą, arba supergalias, atitinkančias nepaprastus kovos menus.
 
 ### Piratas
 
-Spalvingas aukštosios jūros plėšrūnas, piratas yra okeaninis banditas, pradedant urbanizuotais niekšais ir baigiant niekingais laukiniais. Šis piratas yra vidutinio piratų laivo įgulos narys, įgudęs jūrininkystėje ir artimoje kovoje.
+Spalvingas aukštųjų jūrų plėšrūnas, piratas yra vandenyno banditas, svyruojantis nuo mandagių niekšų iki niekingų laukinių. Šis piratas yra vidutinio piratų laivo įgulos pavyzdys ir yra įgudęs jūreivystėje bei kovoje artimoje kovoje.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 15 | 13 | 11 | 10 | 14 | 13 |
 
@@ -1420,69 +1416,69 @@ Spalvingas aukštosios jūros plėšrūnas, piratas yra okeaninis banditas, prad
 
 **Atakos:**
 
-* Kordelas (Saberis) 55%, 1D8+1+dm (kraujuojanti)
-* Peilis 45%, 1D4+2+dm (pradurianti)
-* Pistoletas (kremnės) 50%, 1D6+1 (pradurianti)
-* Mušketa 40%, 1D10+4 (pradurianti)
-* Kumštis 50%, 1D3+dm (traiškanti)
+* Kordelas (Saberis) 55%, 1D8+1+dm (kraujavimas)
+* Peilis 45%, 1D4+2+dm (smigimas)
+* Kremnių pistoletas 50%, 1D6+1 (smigimas)
+* Mušketa 40%, 1D10+4 (smigimas)
+* Kumštis 50%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Artilerija 30%, Imtynės 50%, Laipymas 80%, Amatas (dailidystė) 55%, Vengimas 40%, Tikslus manipuliavimas 45%, Žaidimai 35%, Grumtynės 50%, Šuolis 45%, Žinios (Regionas: Vietinis) 40%, Kalba (vietinė) 40%, Kalba (sava) 55%, Klausymas 45%, Navigacija 50%, Atlikimas (dainuoti jūros šantį) 45%, Pilotavimas (laivas) 35%, Jautrumas 30%, Miklumas 35%, Pastebėjimas 50%, Plaukimas 45%, Mėtymas 50%.
+**Įgūdžiai:** Artilerija 30%, Kumštynės 50%, Laipiojimas 80%, Amatas (Stalius) 55%, Išsisukimas 40%, Smulkioji manipuliacija 45%, Lošimas 35%, Griebimas 50%, Šuoliai 45%, Žinios (Regionas: Vietinis) 40%, Kalba (Vietos) 40%, Kalba (Sava) 55%, Klausymas 45%, Navigacija 50%, Atlikimas (Jūreiviška dainelė) 45%, Pilotavimas (Laivas) 35%, Jutimas 30%, Vikrumas 35%, Stebėjimas 50%, Plaukimas 45%, Metimas 50%.
 
-**Galia:** Daugumoje pasaulių piratai neturi jokių galių. Tačiau kai kurie piratų vadai sudaro paktus su tamsa ir yra mokomi burtų, jei jų POW pakankamai aukštas. Tinkami burtai: Paukščio regėjimas (1), Gyvybės kvėpavimas (1), Kenkėjų regėjimas (1), Pragaro skustuvas (2), Burtininko užtikrintumas (2) ir Dangaus sparnai (4).
+**Galios:** Daugumoje pasaulių piratai neturi jokių galių. Tačiau kai kurie piratų vadai sudaro sandorius su tamsa ir yra mokomi kerėjimo, jei jų GAL pakankamai aukšta, kad atitiktų reikalavimus. Tinkami burtai yra Paukščio regėjimas (1), Gyvybės kvėpavimas (1), Kenkėjo regėjimas (1), Pragaro skustuvas (2), Kerėtojo užtikrintumas (2) ir Dangaus sparnai (4).
 
 ### Policijos pareigūnas
 
-Tai policijos pareigūnas iš bet kurios šiuolaikinės šalies. Apmokytas įvairių teisėsaugos technikų, policijos pareigūnas paprastai patruliuoja arba iškviečiamas į incidento vietą. Įvykus dideliam incidentui miesto teritorijoje, policija tikriausiai bus pirmoji įvykio vietoje. Sunkiau ginkluoti policijos pareigūnai yra Specialiųjų operacijų (S.W.A.T.) komandos dalis ir paprastai kviečiami susidoroti su per daug smurtinėmis situacijomis.
+Tai policijos pareigūnas iš bet kurios modernios šalies. Apmokytas įvairių teisėsaugos technikų, policijos pareigūnas dažniausiai yra patrulyje arba yra kviečiamas į incidento vietą. Didelio masto incidento atveju miesto teritorijoje policija tikriausiai bus pirmoji įvykio vietoje. Sunkiau ginkluoti policijos pareigūnai priklauso specialiųjų ginklų ir taktikos (S.W.A.T.) komandai ir dažniausiai kviečiami susidoroti su itin smurtinėmis situacijomis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 14 | 14 | 14 | 14 | 14 |
 
 | Judėjimas 10 | Gyvybės taškai 14 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. neperšaunama liemenė (4 tšk. vs. artimos kovos ginklai) arba 12 tšk. riaušių įranga |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. neperšaunama liemenė (4 tšk. prieš kovos ginklus) arba 12 tšk. riaušių apranga |
 
 **Atakos:**
 
-* Vidutinis pistoletas 70%, 1D8 (pradurianti)
-* Šratinis šautuvas 50%, 4D6/2D6/1D6 (pradurianti)
-* Baterija (Lengvas kūjis) 50%, 1D6+dm (traiškanti)
-* Pipirinis purškalas 65%, spec. (POT 16, apakina 1D4+2 kovos raundus)
-* Tazeris 65%, spec. (žr. Apstulbinimas ar Subdual)
-* Grumtynės 65%, spec.
+* Vidutinis pistoletas 70%, 1D8 (smigimas)
+* Lygiavamzdis 50%, 4D6/2D6/1D6 (smigimas)
+* Lazda (Lengva kuoka) 50%, 1D6+dm (triuškinimas)
+* Pipirinis purškalas 65%, specialus (POT 16, apakina 1D4+2 kovos raundus)
+* Tazeris 65%, specialus (žr. Stulbinimas ar Sutramdymas)
+* Griebimas 65%, specialus
 
-**Įgūdžiai:** Imtynės 65%, Vengimas 40%, Vairavimas (policijos automobilis) 55%, Įžvalga 35%, Žinios (įstatymai) 50%, Kalba (ispanų) 30%, Kalba (anglų) 80%, Klausymas 50%, Įtikinėjimas 50%, Jojimas (arklys) 45%, Jautrumas 30%, Pastebėjimas 45%, Slaptumas 30%, Mėtymas 45%.
+**Įgūdžiai:** Kumštynės 65%, Išsisukimas 40%, Vairavimas (Policijos automobilis) 55%, Įžvalga 35%, Žinios (Įstatymai) 50%, Kalba (Ispanų) 30%, Kalba (Anglų) 80%, Klausymas 50%, Įtikinėjimas 50%, Jojimas (Arklys) 45%, Jutimas 30%, Stebėjimas 45%, Sėlinimas 30%, Metimas 45%.
 
-**Galia:** Policijos pareigūnai retai, kada nors, turi galių.
+**Galios:** Policijos pareigūnai retai, jei kada, turi galias.
 
 ### Kunigas
 
-Kunigas yra pamaldus savo globėjo dievybės garbintojas, palikęs vienuolyno saugumą ir išėjęs į išorinį pasaulį, šarvuotas pamaldumu ir ginkluotas dievybės palaiminimais. Kunigas keliauja į keistas ir egzotiškas šalis atnešti tiesos žinutės netikintiems ir atkeršija visiems, kas priešinasi jų dieviškajam mandatui.
+Kunigas yra pamaldus savo globėjo dievybės garbintojas, palikęs vienuolyno saugumą ir išėjęs į išorinį pasaulį, apsišarvavęs pamaldumu ir ginkluotas dievybės palaiminimais. Kunigas ryžtasi į keistas ir egzotiškas žemes, kad atneštų tiesos žinią netikintiesiems ir atkeršytų kiekvienam, kas prieštarauja jo dieviškajam mandatui.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 13 | 14 | 15 | 16 | 13 | 15 |
 
 | Judėjimas 10 | Gyvybės taškai 14 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. grandiniai ir lengvas šalmas |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. grandininiai šarvai ir lengvas šalmas |
 
 **Atakos:**
 
-* Ryto žvaigždės buožė 50%, 1D10+1+dm (traiškanti)
-* Pilnas skydas 45%, 1D4+dm (atstumianti)
-* Laidynė 40%, 1D8+½dm (traiškanti)
-* Spirti 40%, 1D3+dm (traiškanti)
+* Buožgalvis su spygliuota galva 50%, 1D10+1+dm (triuškinimas)
+* Pilnas skydas 45%, 1D4+dm (atstūmimas)
+* Svaidyklė 40%, 1D8+½dm (triuškinimas)
+* Spyris 40%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Menas (iliustruoti rankraščiai) 35%, Vadovavimas 25%, Amatas (knygų rišimas) 35%, Vengimas 40%, Pirmoji pagalba 45%, Įžvalga 35%, Žinios (religija) 70%, Kalba (sava) 70%, Klausymas 45%, Raštingumas (bendrinis) 70%, Atlikimas (giesmės) 35%, Įtikinėjimas 45%, Jojimas (arklys) 35%, Pastebėjimas 40%, Statusas 35%, Mokymas 30%
+**Įgūdžiai:** Menas (Iliustruoti rankraščiai) 35%, Komandavimas 25%, Amatas (Knygų gamyba) 35%, Išsisukimas 40%, Pirmoji pagalba 45%, Įžvalga 35%, Žinios (Religija) 70%, Kalba (Sava) 70%, Klausymas 45%, Raštingumas (Bendroji) 70%, Atlikimas (Himnai) 35%, Įtikinėjimas 45%, Jojimas (Arklys) 35%, Stebėjimas 40%, Statusas 35%, Mokymas 30%
 
-**Galia:** Kunigas turi psichinius gebėjimus, suteiktus jų dievybės: Divinacija, Proto skydas, Prekognicija ir Jautrumas, visos POWx1%. Be to, kunigas turi bent 50 Aistrą savo globėjai dievybei, su visais privalumais, kuriuos tai gali suteikti. Žr. Aistra.
+**Galios:** Kunigas turi psichinius gebėjimus, suteiktus jo dievybės: Divinacija, Minčių skydas, Pranašystė ir Jutimas, visi kunigo GALx1%. Be to, kunigas turi bent 50 ištikimybę savo globėjui, su visais naudingais aspektais, kuriuos tai gali reikšti. Žr. Ištikimybė.
 
-### Psichikas
+### Psichinis asmuo
 
-Gimęs su ypatinga dovana, psichiko galios išsivystė ankstyvoje jaunystėje. Psichikas išmoko savidrausmės ir meditacijos technikų, kad nutildytų balsus, aidičius jo galvoje, ir dabar šios keistos dovanos panaudotos padėti kitiems, naudojant jas žinioms ir paslėptai tiesai ieškoti.
+Gimęs su ypatinga dovana, psichinio asmens galios išsivystė ankstyvame suaugusiame amžiuje. Psichinis asmuo išmoko savidrausmės ir meditacijos technikų, kad nutildytų balsus, aidičius jo galvoje, ir dabar šios keistos dovanos pasitelktos padėti kitiems, naudojant jas siekiant žinių ir paslėptos tiesos.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 12 | 13 | 14 | 15 | 19 | 14 | 14 |
 
@@ -1492,133 +1488,133 @@ Gimęs su ypatinga dovana, psichiko galios išsivystė ankstyvoje jaunystėje. P
 
 **Atakos:**
 
-* Kumštis 35%, 1D3+dm (traiškanti)
+* Kumštis 35%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Menas (tapyba) 35%, Derybos 35%, Vengimas 40%, Vairavimas (automobilis) 30%, Greitas kalbėjimas 35%, Įžvalga 50%, Žinios (meno istorija) 45%, Kalba (sava) 90%, Klausymas 35%, Tyrimas 65%, Jautrumas 35%, Pastebėjimas 40%, Statusas 35%, Slaptumas 30%.
+**Įgūdžiai:** Menas (Tapyba) 35%, Derybos 35%, Išsisukimas 40%, Vairavimas (Automobilis) 30%, Greitas kalbėjimas 35%, Įžvalga 50%, Žinios (Menotyra) 45%, Kalba (Sava) 90%, Klausymas 35%, Tyrimas 65%, Jutimas 35%, Stebėjimas 40%, Statusas 35%, Sėlinimas 30%.
 
-**Galia:** Psichiniai gebėjimai: Auros aptikimas 35%, Prekognicija 25% ir Psichometrija 50%.
+**Galios:** Psichiniai gebėjimai: Aurų aptikimas 35%, Pranašystė 25% ir Psichometrija 50%.
 
 ### Kareivis
 
-Kareivis yra apmokytas moderniuose karo principuose, naudojant ginkluotę ir taktiką, paklusnus vadovavimo grandinei, palaikantis komandos narius ir išliekantis ramus po ugnimi. Idealiomis sąlygomis kareivis yra gerai aprūpintas, gerai remiamas ir gerai informuotas. Šis pavyzdinis kareivis yra itin geros fizinės formos ir patyręs, galbūt elitinis komandos narys.
+Kareivis yra apmokytas šiuolaikiniuose karo principuose, naudoja ginkluotę ir taktiką, yra pavaldus vadovybės grandinei, palaikantis komandos draugus ir išliekantis ramus po ugnimi. Idealiomis sąlygomis kareivis yra gerai aprūpintas, gerai palaikomas ir gerai informuotas. Šis kareivio pavyzdys yra ypač stiprus ir patyręs, galbūt elito komando specialistas.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 13 | 11 | 13 | 13 |
 
 | Judėjimas 10 | Gyvybės taškai 15 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. neperšaunama liemenė (4 tšk. vs. artimos kovos ginklai) + 3 tšk. lengvas šalmas |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 8 tšk. neperšaunama liemenė (4 tšk. prieš kovos ginklus) + 3 tšk. lengvas šalmas |
 
 **Atakos:**
 
-* Automatinis šautuvas 65%, 2D6+2 (pradurianti)
-* Kovos peilis (Peilis) 50%, 1D4+2+dm (pradurianti)
-* Granata (Sprogstama) 40%, 4D6 (atstumianti)
+* Automatinis šautuvas 65%, 2D6+2 (smigimas)
+* Kovinis peilis (Durklas) 50%, 1D4+2+dm (smigimas)
+* Granata (Sprogstama) 40%, 4D6 (atstūmimas)
 
-**Įgūdžiai:** Artilerija 30%, Imtynės 45%, Laipymas 50%, Vadovavimas 25%, Vengimas 40%, Vairavimas (Humvee) 45%, Pirmoji pagalba 40%, Grumtynės 50%, Slėpimasis 35%, Šuolis 35%, Kalba (sava) 65%, Klausymas 45%, Pastebėjimas 45%, Slaptumas 40%, Strategija 20%, Mėtymas 40%
+**Įgūdžiai:** Artilerija 30%, Kumštynės 45%, Laipiojimas 50%, Komandavimas 25%, Išsisukimas 40%, Vairavimas (Humvee) 45%, Pirmoji pagalba 40%, Griebimas 50%, Slėpimasis 35%, Šuoliai 35%, Kalba (Sava) 65%, Klausymas 45%, Stebėjimas 45%, Sėlinimas 40%, Strategija 20%, Metimas 40%
 
-**Galia:** Kareiviai retai, kada nors, turi galių.
+**Galios:** Kareiviai retai, jei kada, turi galias.
 
-### Burtininkas
+### Kerėtojas
 
-Pasirinktas iš jaunystės ir apmokytas mistiniuose menuose, burtininkas bendrauja su demonais ir valdo paties elemento jėgas. Burtininkas yra arogantiškas tarp mažesnių, nemagiškų mirtingųjų. Tuo pačiu metu jie itin atsargūs įsitraukdami į asmeninę kovą – areną, kurioje jie visiškai nepasiruošę konkuruoti.
+Pasirinktas nuo jaunystės ir pameistrys mistiniuose menuose, kerėtojas susiduria su demonais ir valdo pačias stichines jėgas. Kerėtojas yra arogantiškas tarp mažesnių, ne magiškų mirtingųjų. Tuo pačiu metu jie yra itin atsargūs įsitraukdami į asmeninę kovą – areną, kurioje jie yra beviltiškai nepasirengę varžytis.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 9 | 11 | 15 | 19 | 21 | 14 | 12 |
 
 | Judėjimas 10 | Gyvybės taškai 13 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, arba 4 tšk. Burtininko šarvai |
+| **Žalos modifikatorius** Nėra | **Šarvai** Nėra, arba 4 tšk. Kerėtojo šarvai |
 
 **Atakos:**
 
-* Peilis 35%, 1D4+2+dm (pradurianti)
+* Durklas 35%, 1D4+2+dm (smigimas)
 
-**Įgūdžiai:** Vertinimas 35%, Vengimas 40%, Etiketas 35%, Greitas kalbėjimas 45%, Slėpimasis 30%, Įžvalga 35%, Žinios (akademinis lore) 50%, Žinios (šventvagiškas lore) 20%, Žinios (okultizmas) 70%, Kalba (demoniška) 50%, Kalba (sava) 85%, Klausymas 35%, Įtikinėjimas 45%, Tyrimas 75%, Jojimas (arklys) 35%, Jautrumas 35%, Miklumas 35%, Pastebėjimas 55%.
+**Įgūdžiai:** Įvertinimas 35%, Išsisukimas 40%, Etiketas 35%, Greitas kalbėjimas 45%, Slėpimasis 30%, Įžvalga 35%, Žinios (Akademinės žinios) 50%, Žinios (Šventvagystės žinios) 20%, Žinios (Okultizmas) 70%, Kalba (Demonų) 50%, Kalba (Sava) 85%, Klausymas 35%, Įtikinėjimas 45%, Tyrimas 75%, Jojimas (Arklys) 35%, Jutimas 35%, Vikrumas 35%, Stebėjimas 55%.
 
-**Galia:** Šie burtai yra atmintyje: Burtų prakeiksmas (4), Burtininko šarvai (4), Burtininko aštri liepsna (3), Iškviesti demoną (1), Išsklaidyti burtus (2), Gydymas (2), Raganos regėjimas (3).
+**Galios:** Šie kerėjimo burtai yra atmintyje: Kerėjimo prakeiksmas (4), Kerėtojo šarvai (4), Kerėtojo aštri liepsna (3), Demonų iškvietimas (1), Kerėjimo panaikinimas (2), Gydymas (2), Raganos žvilgsnis (3).
 
 ### Šnipas
 
-Slaptas operatyvininkas, dirbantis klandestiškai vyriausybinei agentūrai, apmokytas infiltravimosi, slaptumo, maskavimosi, kovos ir kitų šnipinėjimo įgūdžių. Misijos varijuoja nuo ginkluoto įsilaužimo iki infiltravimosi į priešo grupes su stebėjimo, sabotažo ar pasikėsinimo tikslais. Jie gali būti aprūpinti įvairiais prietaisais ir ginklais, kai kurie užmaskuoti kaip kasdieniai daiktai. Konsultuokitės *8 skyriumi: Įranga* dėl gairių kuriant aukštųjų technologijų šnipinėjimo įrangą.
+Slaptas operatyvininkas, dirbantis klandestiškai vyriausybinei agentūrai, apmokytas infiltravimosi, sėlinimo, kamufliažo, kovos ir kitų šnipinėjimo įgūdžių. Misijos svyruoja nuo ginkluoto įsilaužimo iki infiltravimosi į priešo grupes, tikslu siekiant stebėjimo, sabotažo ar nužudymo. Jie gali būti aprūpinti įvairiais įtaisais ir ginklais, kai kurie užmaskuoti kaip įprasti daiktai. Žr. *Aštuntą skyrių: Įranga* dėl aukštųjų technologijų šnipinėjimo įrangos kūrimo gairių.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 14 | 14 | 13 | 15 | 14 | 15 | 14 |
 
 | Judėjimas 10 | Gyvybės taškai 14 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 5 tšk. balistinio audinio smokingas (3 tšk. vs. artimos kovos ginklai) |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 5 tšk. balistinio audinio smokingas (3 tšk. prieš kovos ginklus) |
 
 **Atakos:**
 
-* Lengvas pistoletas 75%, 1D6 (pradurianti)
-* Snaiperinis šautuvas 75%, 2D10+4 (pradurianti)
-* Mėtomas peilis 75%, 1D4+½dm (pradurianti)
-* Kumštis 80%, 1D3+dm (traiškanti)
-* Spirti 65%, 1D3+dm (traiškanti)
+* Lengvas pistoletas 75%, 1D6 (smigimas)
+* Snaiperio šautuvas 75%, 2D10+4 (smigimas)
+* Metamasis peilis 75%, 1D4+½dm (smigimas)
+* Kumštis 80%, 1D3+dm (triuškinimas)
+* Spyris 65%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Vertinimas 45%, Imtynės 65%, Laipymas 60%, Griovimas 40%, Maskavimasis 60%, Vengimas 50%, Vairavimas (sportinis automobilis) 85%, Etiketas 65%, Greitas kalbėjimas 75%, Tikslus manipuliavimas 75%, Pirmoji pagalba 55%, Žaidimai 65%, Grumtynės 65%, Slėpimasis 75%, Įžvalga 65%, Šuolis 50%, Žinios (šnipinėjimas) 75%, Kalba (sava) 90%, Kalba (kita) 70%, Klausymas 65%, Kovos menai 45%, Įtikinėjimas 55%, Pilotavimas (valtis) 65%, Pilotavimas (sraigtasparnis) 45%, Tyrimas 45%, Jojimas (arklys) 45%, Jautrumas 60%, Miklumas 55%, Pastebėjimas 65%, Slaptumas 70%, Strategija 50%, Plaukimas 65%, Mėtymas 65%, Sekimas 35%.
+**Įgūdžiai:** Įvertinimas 45%, Kumštynės 65%, Laipiojimas 60%, Griovimas 40%, Kamufliažas 60%, Išsisukimas 50%, Vairavimas (Sportinis automobilis) 85%, Etiketas 65%, Greitas kalbėjimas 75%, Smulkioji manipuliacija 75%, Pirmoji pagalba 55%, Lošimas 65%, Griebimas 65%, Slėpimasis 75%, Įžvalga 65%, Šuoliai 50%, Žinios (Šnipinėjimas) 75%, Kalba (Sava) 90%, Kalba (Kita) 70%, Klausymas 65%, Kovos menai 45%, Įtikinėjimas 55%, Pilotavimas (Valtis) 65%, Pilotavimas (Sraigtasparnis) 45%, Tyrimas 45%, Jojimas (Arklys) 45%, Jutimas 60%, Vikrumas 55%, Stebėjimas 65%, Sėlinimas 70%, Strategija 50%, Plaukimas 65%, Metimas 65%, Sekimas 35%.
 
-**Galia:** Šnipai retai, kada nors, turi galių.
+**Galios:** Šnipai retai, jei kada, turi kokių nors galių.
 
-### Superdidvyris
+### Superherojus
 
-Gavęs galias dėl kažkokio keisto atsitiktinumo ar genetinio nukrypimo, superdidvyris prisiekė daryti gera, siekdamas teisingumo visiems, naudodamas savo gebėjimus padėti normaliems žmonėms ir apsaugoti juos nuo grėsmių tiek natūralių, tiek nenatūralių, taip pat tų, kurias kelia superblogiečiai. Dauguma laiko savo superdidvyriškas tapatybes paslaptyje, gyvendami normalų gyvenimą, kai gali. Keletas superdidvyrių turi partnerius arba prisijungia prie komandų. Superdidvyris dažnai kankinamas abejonių, svarstydamas, ar didvyriškumo kaina nėra per didelė.
+Gavęs galias dėl kažkokio keisto atsitikimo ar genetinio nukrypimo, superherojus prisiekė elgtis teisingai, siekdamas teisingumo visiems, naudodamas savo gebėjimus padėti normaliems žmonėms ir apsaugoti juos nuo grėsmių, tiek natūralių, tiek nenatūralių, taip pat tų, kurias kelia superpiktadariai. Dauguma laiko savo superherojaus tapatybes paslaptyje, gyvendami normalų gyvenimą, kai tik gali. Keletas superherojų turi partnerius arba prisijungia prie komandų. Superherojus dažnai būna kankinamas savęs abejonių, svarstant, ar herojizmo kaina nėra per didelė.
 
-Šis pavyzdinis superdidvyris yra Audros Debesis, įžūlus (ir nepatyręs) žaibo pagrindu veikiantis didvyris ir Daktaro Siaubo priešas. Audros Debesies civilinė tapatybė yra televizijos meteorologo.
+Šis superherojaus pavyzdys yra Stormcloud, įžūlus (ir nepatyręs) žaibo pagrindu veikiantis herojus, daktaro Dreado priešas. Stormcloudo civilinė tapatybė yra televizijos meteorologo.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 25 | 20 | 12 | 14 | 16 | 20 | 15 |
 
-| Judėjimas 10 (62 skrydyje) | Gyvybės taškai 16 |
+| Judėjimas 10 (62 skrendant) | Gyvybės taškai 16 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D6 | **Šarvai** 12 tšk. šarvai (Kinetiniai, Radiacija) |
+| **Žalos modifikatorius** +1D6 | **Šarvai** 12 tšk. Šarvai (Kinetika, Radiacija) |
 
 **Atakos:**
 
-* Žaibo pliūpsnis 45%, 6D6 (elektrinė)
-* Imtynės 50%, 1D3+dm (traiškanti)
+* Žaibo boltas 45%, 6D6 (elektra)
+* Kumštynės 50%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Menas (fotografija) 70%, Imtynės 50%, Vengimas 50%, Vairavimas (automobilis) 35%, Skrydis 80%, Grumtynės 35%, Žinios (Regionas: Vietinis) 35%, Kalba (kita) 00%, Kalba (sava) 85%, Atlikimas (žinios) 50%, Tyrimas 45%, Mokslas (meteorologija) 25%, Statusas 25%, Techninis įgūdis (naudoti kompiuterį) 35%.
+**Įgūdžiai:** Menas (Fotografija) 70%, Kumštynės 50%, Išsisukimas 50%, Vairavimas (Automobilis) 35%, Skrydis 80%, Griebimas 35%, Žinios (Regionas: Vietinis) 35%, Kalba (Kita) 00%, Kalba (Sava) 85%, Atlikimas (Naujienos) 50%, Tyrimas 45%, Mokslas (Meteorologija) 25%, Statusas 25%, Techninis įgūdis (Kompiuterio naudojimas) 35%.
 
-**Galia:** Audros Debesis turi šias supergalias: Sugėrimas (Elektros) 18; Šarvai (Kinetiniai, Radiacija) po 12; Energijos projekcija (Elektra) 6; Papildoma energija 15 (+150 galios taškų); Skrydis 10; ir Super charakteristikos 30 (STR +14, CON +8, DEX +8).
+**Galios:** Stormcloud turi šias supergalias: Absorbcija (Elektros) 18; Šarvai (Kinetika, Radiacija) po 12 kiekvienam; Energijos projekcija (Elektros) 6; Papildoma energija 15 (+150 galios taškų); Skrydis 10; ir Supercharakteristikos 30 (JĖG +14, IŠT +8, VIK +8).
 
-**Silpnybės:** Audros Debesies charakterio trūkumas yra silpnybė vandeniui, prarandant –2D6 galios taškų kiekviename raunde, kai šlapias ar paniręs.
+**Silpnybės:** Stormcloudo charakterio trūkumas yra silpnybė vandeniui, prarandant –2D6 galios taškų kiekvieną raundą šlapiam ar panirusiam.
 
-### Superblogietis
+### Superpiktadarys
 
-Skirtingai nei superdidvyris, superblogietis mėgaujasi nusikalstamu gyvenimu, naudodamas savo gebėjimus siekdamas turtų, galios, keršto ar kitų nusikalstamų veikų. Jie gali būti meistriški nusikaltėliai arba šlovingi banditai, priklausomai nuo ambicijų. Kai kurie renkasi dirbti vieni, kiti turi pakalikų kadro. Dar mažiau superblogiečių dirba komandose, nes nestabilios asmenybės daro sąžiningą partnerystę neįmanoma.
+Skirtingai nuo superherojaus, superpiktadarys mėgaujasi nusikalstamu gyvenimu, naudodamas savo gebėjimus siekdamas turtų, galios, keršto ar kitokių nusižengimų. Jie gali būti nusikaltėlių genijai arba šlovinti banditai, priklausomai nuo ambicijų. Kai kurie pasirenka dirbti vieni, kiti turi parankinių būrį. Dar mažiau superpiktadarių dirba komandose, nes nestabilios asmenybės dažnai daro lygiateisę partnerystę neįmanomą.
 
-Šis pavyzdinis superblogietis yra Daktaras Siaubas, buvęs gynybos pramonės inžinierius, kuriam buvo sumažintas finansavimas. Po to, kai panaudojo nelicencijuotas karines technologijas pasigaminti apsauginių šarvų kostiumą, Daktaras Siaubas siekia būdo finansuoti tolimesnius (ir potencialiai neteisėtus) ginklų tyrimus. Ši statistika reprezentuoja Daktarą Siaubą su šarvais.
+Šis superpiktadario pavyzdys yra daktaras Dreadas, buvęs gynybos pramonės inžinierius, kuriam buvo nutrauktas finansavimas. Panaudojęs nelicencijuotas karines technologijas, kad sukurtų apsauginių šarvų kostiumą, daktaras Dreadas ieško būdų finansuoti tolesnius (ir potencialiai neteisėtus) ginklų tyrimus. Šie statistiniai duomenys atstovauja daktarą Dreadą šarvuose.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 18 | 9 | 17 | 17 | 18 | 10 |
 
-| Judėjimas 10 (62 skrydyje) | Gyvybės taškai 14 |
+| Judėjimas 10 (62 skrendant) | Gyvybės taškai 14 |
 | :---- | :---- |
-| **Žalos modifikatorius** Nėra | **Šarvai** 4 tšk. šarvai (Kinetiniai) + 20 tšk. jėgos laukas (Elektros, Kinetiniai, Radiacija) |
+| **Žalos modifikatorius** Nėra | **Šarvai** 4 tšk. Šarvai (Kinetika) + 20 tšk. Jėgos laukas (Elektros, Kinetikos, Radiacijos) |
 
 **Atakos:**
 
-* Karščio projektorius 70%, 6D6 (ugnies)
-* Imtynės 50%, 1D3+dm (traiškanti)
+* Karščio projektorius 70%, 6D6 (ugnis)
+* Kumštynės 50%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Vadovavimas 35%, Vengimas 40%, Vairavimas (furgonas) 55%, Tikslus manipuliavimas 65%, Šuolis 65%, Kalba (sava) 125%, Klausymas 45%, Taisymas (elektronika) 85%, Taisymas (kvantinis) 75%, Tyrimas 85%, Mokslas (fizika) 95%, Pastebėjimas 50%, Techninis įgūdis (naudoti kompiuterį) 95%.
+**Įgūdžiai:** Komandavimas 35%, Išsisukimas 40%, Vairavimas (Mikroautobusas) 55%, Smulkioji manipuliacija 65%, Šuoliai 65%, Kalba (Sava) 125%, Klausymas 45%, Remontas (Elektroninis) 85%, Remontas (Kvantinis) 75%, Tyrimas 85%, Mokslas (Fizika) 95%, Stebėjimas 50%, Techninis įgūdis (Kompiuterio naudojimas) 95%.
 
-**Galia:** Daktaro Siaubo šarvai suteikia šias supergalias: Šarvai (Kinetiniai) 4; Energijos projekcija (Karštis) 6; Papildoma energija 15 (+150 galios taškų); Skrydis 3; Jėgos laukas (Elektros, Kinetiniai, Radiacija) po 20; Šuolis 10 (+20 metrų prie Šuolio atstumo); Super Jautrumas (Infraraudonųjų spindulių rega, Ultragarso klausa) po 1.
+**Galios:** Daktaro Dreado šarvai suteikia šias supergalias: Šarvai (Kinetika) 4; Energijos projekcija (Karštis) 6; Papildoma energija 15 (+150 galios taškų); Skrydis 3; Jėgos laukas (Elektros, Kinetikos, Radiacijos) po 20 kiekvienam; Šuoliai 10 (+20 metrų prie Šuolių atstumo); Superjutimas (Infraraudonųjų spindulių matymas, Ultragarso klausymas) po 1 kiekvienam.
 
-**Silpnybės:** Daktaro Siaubo charakterio trūkumai yra pilno etato superblogietystė; fiziškai išskirtinis (bjaurus); psichologiniai trūkumai (kraujo troškulys, arogantiškas); superblogiečio tapatybė pririšta prie šarvų ir ne visą laiką; šarvai gali būti išjungti ar nuimti.
+**Silpnybės:** Daktaro Dreado charakterio trūkumai yra: nuolatinis superpiktadario gyvenimas; fiziškai išskirtinis (bjaurus); psichologiniai trūkumai (kraujo troškulys, arogancija); superpiktadario tapatybė susieta su šarvais, o ne nuolatinė; šarvus galima išjungti arba nuimti.
 
 ### Banditai
 
-Goon samdymui, paprastai dirbantys nusikalstamai grupei arba tiesiog ieškantys bėdų. Banditas gali būti atsarginė jėga arba vienas, ar tai būtų įsilaužimas, plėšimas, banditizmas ar užpuolimas.
+Samdomas mušeika, dažniausiai dirbantis nusikalstamai grupuotei arba kartais tiesiog ieškantis problemų. Banditas gali būti atsarginė jėga arba veikti vienas, įsilauždamas, plėšikaudamas, užsiimdamas banditizmu ar apiplėšinėdamas.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 10 | 10 | 12 | 11 |
 
@@ -1628,310 +1624,320 @@ Goon samdymui, paprastai dirbantys nusikalstamai grupei arba tiesiog ieškantys 
 
 **Atakos:**
 
-* Sunkiasvoris pistoletas 50%, 1D10+2 (pradurianti)
-* Iššokantis peilis 50%, 1D4+dm (pradurianti)
-* Beisbolo lazda 50%, 1D6+dm (traiškanti)
-* Kumštis 50%, 1D3+dm (traiškanti)
-* Smūgis galva 35%, 1D3+dm (traiškanti)
+* Sunkusis pistoletas 50%, 1D10+2 (smigimas)
+* Peilis 50%, 1D4+dm (smigimas)
+* Beisbolo lazda 50%, 1D6+dm (triuškinimas)
+* Kumštis 50%, 1D3+dm (triuškinimas)
+* Smūgis galva 35%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Griovimas 20%, Vengimas 35%, Vairavimas (sunkvežimis) 50%, Žaidimai 30%, Grumtynės 50%, Slėpimasis 25%, Įžvalga 25%, Žinios (Regionas: Namų miestas) 35%, Kalba (sava) 50%, Klausymas 35%, Įtikinėjimas 35%, Jautrumas 30%, Miklumas 25%, Pastebėjimas 35%, Slaptumas 25%, Mėtymas 35%.
+**Įgūdžiai:** Griovimas 20%, Išsisukimas 35%, Vairavimas (Sunkvežimis) 50%, Lošimas 30%, Griebimas 50%, Slėpimasis 25%, Įžvalga 25%, Žinios (Regionas: Namų miestas) 35%, Kalba (Sava) 50%, Klausymas 35%, Įtikinėjimas 35%, Jutimas 30%, Vikrumas 25%, Stebėjimas 35%, Sėlinimas 25%, Metimas 35%.
 
-**Galia:** Banditai niekada neturi galių. Jei turėtų, jiems sektųsi geriau.
+**Galios:** Banditai niekada neturi galių. Jei turėtų, jiems sektųsi geriau.
 
 ### Genčių karys
 
-Genčių karys sutinkamas bet kur, kur civilizacija nepasiekė. Jie naudoja ginklus, laikomus primityviais to laikotarpio standartais, ir dalyvauja genties išlikime, medžiodami ir kovodami gindami gentį nuo įsibrovėlių ir užpuolikų. Genčių karys didelį pasitikėjimą deda į išmintį, ateinančią iš genties seniūnų, kurie interpretuoja dievų žodžius.
+Genčių karys sutinkamas bet kur, kur nepasiekė civilizacija. Jie naudoja ginklus, kurie laikomi primityviais pagal dienos standartus, ir dalyvauja savo genties išlikime, medžiodami ir kovodami gindami gentį nuo įsibrovėlių ir užpuolikų. Genčių karys deda didelį tikėjimą išmintimi iš genties seniūnų, kurie interpretuoja dievų žodžius.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 16 | 14 | 15 | 11 | 13 | 16 | 13 |
 
 | Judėjimas 10 | Gyvybės taškai 15 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 1 tšk. odiniai šarvai |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 1 tšk. kailiniai šarvai |
 
 **Atakos:**
 
-* Trumpa ietis 65%, 1D6+1+dm (pradurianti)
-* Trumpa ietis (mėtoma) 75%, 1D6+1+½dm (pradurianti)
-* Lengvas kūjis 55%, 1D6+dm (traiškanti)
-* Lengvas kūjis (mėtomas) 65%, 1D6+½dm (traiškanti)
-* Skydas 65%, 1D2+dm (atstumianti)
-* Pučiamasis vamzdis 75%, 1D3 (pradurianti) + nuodai (žr. žemiau)*
-* Grumtynės 65%, spec.
+* Trumpoji ietis 65%, 1D6+1+dm (smigimas)
+* Trumpoji ietis (mesta) 75%, 1D6+1+½dm (smigimas)
+* Lengva kuoka 55%, 1D6+dm (triuškinimas)
+* Lengva kuoka (mesta) 65%, 1D6+½dm (triuškinimas)
+* Skydas 65%, 1D2+dm (atstūmimas)
+* Pučiamasis vamzdis 75%, 1D3 (smigimas) + nuodai (žr. žemiau)*
+* Griebimas 65%, specialus
 
 *Genčių kario pučiamieji vamzdžiai dažniausiai padengti paralyžiuojančiais POT 10 nuodais (žr. **Nuodai**).
 
-Kai kurie genčių kariai priima civilizuotų vyrų užgrobtus ginklus, kiti jų vengia.
+Kai kurie genčių kariai perima civilizuotų vyrų ginklus, kiti jų vengia.
 
-**Įgūdžiai:** Laipymas 75%, Vengimas 40%, Slėpimasis 45%, Šuolis 45%, Kalba (sava) 60%, Klausymas 55%, Jautrumas 60%, Pastebėjimas 65%, Slaptumas 60%, Plaukimas 55%, Mėtymas 65%, Sekimas 70%.
+**Įgūdžiai:** Laipiojimas 75%, Išsisukimas 40%, Slėpimasis 45%, Šuoliai 45%, Kalba (Sava) 60%, Klausymas 55%, Jutimas 60%, Stebėjimas 65%, Sėlinimas 60%, Plaukimas 55%, Metimas 65%, Sekimas 70%.
 
-**Galia:** Genčių kariai retai turi galių. Tačiau gentys paprastai yra sąjungoje su šamanu ar išminčiumi, kuris gali turėti galių. Šios galios paprastai yra psichiniai gebėjimai arba magijos burtai, kartais burtininkystė.
+**Galios:** Genčių kariai retai turi galias. Tačiau gentys paprastai yra sąjungoje su šamanu ar išmintingu asmeniu, kuris gali turėti galių. Šios galios dažniausiai yra psichiniai gebėjimai ar magijos burtai, kartais kerėjimas.
 
 ### Vikingas
 
-Vikingai yra šiaurės kariai, leidžiantys į ilgas jūrines keliones tyrinėjimams, prekybai (prieš stiprius priešininkus ar sąjungininkus) ir reidams (prieš priešus ar silpnesnius). Jie aršūs ir išdidūs, puikūs jūreiviai ir nustebinančiai civilizuoti, atsižvelgiant į jų laukinę reputaciją. Vikingai turi savo garbės kodeksą ir įstatymus bei jų griežtai laikosi, nors jų taisyklės netaikomos kitiems.
+Vikingai yra šiaurės kariai, kurie vyksta į ilgas jūrines keliones tyrinėjimams, prekybai (prieš stiprius oponentus ar sąjungininkus) ir reidams (prieš priešus ar tuos, kurie silpnesni). Jie yra nuožmūs ir išdidūs, puikūs jūreiviai ir stebėtinai civilizuoti, atsižvelgiant į jų laukinę reputaciją. Vikingai turi savo garbės kodeksą ir įstatymus bei jų griežtai laikosi, nors jų taisyklės nėra taikomos kitiems.
 
-| STR | CON | SIZ | INT | POW | DEX | CHA |
+| JĖG | IŠT | DYD | INT | GAL | VIK | CHA |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 15 | 14 | 15 | 11 | 11 | 13 | 12 |
 
 | Judėjimas 10 | Gyvybės taškai 15 |
 | :---- | :---- |
-| **Žalos modifikatorius** +1D4 | **Šarvai** 7 tšk. žvynuoti ir lengvas šalmas |
+| **Žalos modifikatorius** +1D4 | **Šarvai** 7 tšk. žvyniniai šarvai ir lengvas šalmas |
 
 **Atakos:**
 
-* Platus kardas 65%, 1D8+1+dm (kraujuojanti)
-* Rankinis kirvis 55%, 1D6+1+dm (kraujuojanti)
-* Rankinis kirvis (mėtomas) 55%, 1D6+1+½dm (kraujuojanti)
-* Savadarbis lankas 50%, 1D6+1+½dm (pradurianti)
-* Didelis apvalus skydas 50%, 1D4+dm (atstumianti)
-* Kumštis 55%, 1D3+dm (traiškanti)
+* Platikalavijis 65%, 1D8+1+dm (kraujavimas)
+* Rankinis kirvis 55%, 1D6+1+dm (kraujavimas)
+* Rankinis kirvis (mestas) 55%, 1D6+1+½dm (kraujavimas)
+* Paprastas lankas 50%, 1D6+1+½dm (smigimas)
+* Didelis apvalus skydas 50%, 1D4+dm (atstūmimas)
+* Kumštynės 55%, 1D3+dm (triuškinimas)
 
-**Įgūdžiai:** Vertinimas 45%, Derybos 35%, Kumštis 25%, Amatas (tipas) 05%, Vengimas 40%, Žaidimai 40%, Grumtynės 35%, Įžvalga 15%, Šuolis 25%, Kalba (sava) 55%, Klausymas 40%, Navigacija 35%, Pilotavimas (laivas) 25%, Jojimas (tipas) 05%, Pastebėjimas 35%, Statusas 25%.
+**Įgūdžiai:** Įvertinimas 45%, Derybos 35%, Kumštynės 25%, Amatas (tipas) 05%, Išsisukimas 40%, Lošimas 40%, Griebimas 35%, Įžvalga 15%, Šuoliai 25%, Kalba (Sava) 55%, Klausymas 40%, Navigacija 35%, Pilotavimas (laivas) 25%, Jojimas (tipas) 05%, Stebėjimas 35%, Statusas 25%.
 
-**Galia:** Vikingai retai turi galių. Kai kurie burtininkai naudoja įvairius magijos tipus, nuo runų magijos, formų keitimo ar burtininkystės. Priklausomai nuo pasaulio, turtingas ar favorizuojamas vikingas gali turėti ginkluotę, šarvus ar kitus magiškus artefaktus.
+**Galios:** Vikingai retai turi kokių nors galių. Kai kurie burtininkai naudoja įvairius magijos tipus, nuo runų magijos, formos keitimo ar kerėjimo. Priklausomai nuo aplinkos, turtingas ar mėgstamas vikingas gali turėti ginkluotės, šarvų ar kitų magiškų artefaktų.
 
-## Būtybių ir nežaidžiamųjų veikėjų pritaikymas
+## Būtybių ir nežaidėjų personažų pritaikymas
 
-Gali prireikti pritaikyti šias būtybes ir nežaidžiamuosius veikėjus pagal jūsų žaidimo galios lygį arba geriau atitikti žaidėjų veikėjų kompetenciją. Štai gairės, kaip tai daryti ir kaip tvarkyti šias būtybes bei veikėjus.
+Gali prireikti pritaikyti šias būtybes ir nežaidėjų personažus atsižvelgiant į jūsų žaidimo galios lygį arba geriau atitikti žaidėjų personažų kompetenciją. Štai gairės, kaip tai padaryti ir prireikus valdyti šias būtybes bei nežaidėjų personažus.
 
-Gali būti prasmingiau, kad priešininkai būtų aukštesnio kalibro viename galios lygyje, pavyzdžiui, fantastiniame ar superdidvyrių pasaulyje, o kituose pasauliuose tai gali atrodyti netinkama arba per daug iššūkių kelianti. Tokiais atvejais žaidimo vedėjas gali pasirinkti padidinti grėsmę kitu būdu, pavyzdžiui, didinant sutinkamų skaičių, duodant jiems pranašesnę įrangą arba kitais būdais, kaip aprašyta toliau.
+Gali būti prasmingiau, kad oponentai būtų aukštesnio kalibro viename galios lygyje, pavyzdžiui, fantazijos ar superherojų pasaulyje, o kituose pasauliuose tai gali atrodyti netinkama ar per sunku. Tokiais atvejais žaidimų meistras gali pasirinkti padidinti grėsmę, kurią oponentas kelia kitu būdu, pavyzdžiui, padidinti jų skaičių arba suteikti jiems pranašesnę įrangą ar kitomis priemonėmis, kaip aprašyta žemiau.
 
 ### Normalios kampanijos
 
-Šiame skyriuje pateiktos būtybės ir nežaidžiamieji veikėjai skirti normaliai kampanijai. Jų paprastai nereikia koreguoti, nebent dėl konkretaus pasaulio. Koreguodami charakteristikas, atkreipkite dėmesį į bet kokias modifikuotas antrines charakteristikas (žalos premiją, gyvybės taškus, rimtus sužeidimus, galios taškus ir t.t.).
+Šiame skyriuje pateiktos būtybės ir nežaidėjų personažai yra orientuoti į normalią kampaniją. Paprastai jų nereikia koreguoti, nebent dėl konkrečios aplinkos. Koreguodami charakteristikas, atkreipkite dėmesį į visas modifikuotas antrines charakteristikas (žalos premija, gyvybės taškai, didelė žaizda, galios taškai ir t. t.).
 
-Vienas dalykas, kurį reikia atsiminti, yra tai, kad net nedideli šarvai labai padeda. Pridėjus 3 šarvų taškus esybei, ji gali tapti iššūkiu, o su daugiau nei +6 taškais jas tampa labai sunku sužeisti.
+Vienas dalykas, kurį reikia turėti omenyje, yra tai, kad net nedidelė šarvų apsauga daug ką reiškia. Pridėjus 3 šarvų taškus subjektui, jie gali tapti sudėtingu iššūkiu, o su daugiau nei +6 taškais juos tampa labai sunku sužeisti.
 
-### Herojiškos kampanijos
+### Herojinės kampanijos
 
-Herojiškai kampanijai, štai kaip galite koreguoti būtybes ar nežaidžiamuosius veikėjus, kad jie geriau tiktų herojinio lygio veikėjams:
+Herojinei kampanijai štai būdai, kuriais galite koreguoti būtybes ar nežaidėjų personažus, kad jie geriau tiktų herojinio lygio personažams:
 
-* Padidinkite sutinkamų būtybių ar nežaidžiamųjų veikėjų skaičių +25% ar daugiau.
-* Pridėkite vieną ypač kompetentingą lyderį bet kuriai grupei, galbūt sukurtą epiniu galios lygiu.
-* Priverskite juos naudoti geresnę taktiką, būti atsargesniais ar agresyvesniais ir geriau išnaudoti vietovę taktiniams pranašumams, kad žaidėjų veikėjai būtų išbalansuoti.
-* Padidinkite pagrindines charakteristikas papildomu D6 arba plokščiu +3, išlaikant ridenamų verčių maksimumus.
-* Modifikuokite į kovą orientuotus ir kitus aktualius įgūdžius +25% arba padauginkite iš ×1.5.
-* Pridėkite daugiau galių ar padidinkite esamų galių efektyvumą.
-* Aprūpinkite juos geresne įranga, šarvais, ginkluote ir t.t.
+* Padidinti sutinkamų būtybių ar nežaidėjų personažų skaičių +25% ar daugiau.
+* Pridėti dar vieną itin kompetentingą lyderį bet kokiai grupei, galbūt sukurtą pagal epišką galios lygį.
+* Priversti juos naudoti pranašesnę taktiką, būti atsargesniems ar agresyvesniems ir geriau išnaudoti vietovę, kad įgytų taktinį pranašumą ir išlaikytų žaidėjų personažus pusiausvyros neturėjime.
+* Padidinti pagrindines charakteristikas dar vienu D6 arba fiksuotu +3, išlaikant ridenamus maksimumus nepaliestus.
+* Modifikuoti su kova susijusius ir kitus svarbius įgūdžius +25% arba padauginant ×1,5.
+* Pridėti daugiau galių ar padidinti esamų galių efektyvumą.
+* Aprūpinti juos geresne įranga, šarvais, ginkluote ir t. t.
 
-### Epines kampanijos
+### Epiškos kampanijos
 
-Epinei kampanijai, štai kaip koreguoti būtybes ar nežaidžiamuosius veikėjus, kad jie būtų didesnis iššūkis:
+Epiškai kampanijai štai būdai koreguoti būtybes ar nežaidėjų personažus, kad jie pateiktų didesnį iššūkį:
 
-* Padvigubinkite skaičių, kurį sutiktų normalūs veikėjai.
-* Suteikite jiems lyderį superžmogišku galios lygiu.
-* Padidinkite charakteristikas +6 ar daugiau, viršijant rasių maksimumus.
-* Padvigubinkite įgūdžių reitingus.
-* Priverskite juos naudoti įgūdžius, tokius kaip „Vadovavimas“ ir „Strategija“, kad išlygintumėte lauką.
-* Pridėkite visiškai naujų galių arba kelias galių grupes, arba derinkite įrašus su supergaliomis, tokiomis kaip „Papildomi gyvybės taškai“ – tai lengvas sprendimas.
-* Suteikite priešams geriausią įmanomą įrangą, šarvus ir ginkluotę, ar tai būtų energetiniai šarvai, magiški artefaktai, medicinos priemonės, galinčios akimirksniu gydyti ir t.t.
+* Padvigubinti skaičių, kuris būtų sutinkamas normalių personažų.
+* Suteikti jiems lyderį superžmogiškame galios lygyje.
+* Padidinti charakteristikas +6 ar daugiau, virš rasinių maksimumų.
+* Padvigubinti įgūdžių rangus.
+* Priversti juos naudoti įgūdžius, tokius kaip Komandavimas ir Strategija, kad išlygintų žaidimo sąlygas.
+* Pridėti visiškai naujas galias arba kelias galių grupes, arba derinti įrašus su supergaliomis, tokiomis kaip Papildomi gyvybės taškai, yra lengvas sprendimas.
+* Suteikti priešams geriausią įrangą, šarvus ir ginkluotę, ar tai būtų jėgos šarvai, magiški artefaktai, medicininės atsargos, pajėgios akimirksniu išgydyti ir t. t.
 
 ### Superžmogiškos kampanijos
 
-Superžmogiškai kampanijai žaidimo vedėjas gali pasirinkti koreguoti šiuos būtybės ar nežaidžiamojo veikėjo aspektus:
+Superžmogiškai kampanijai žaidimų meistras gali pasirinkti koreguoti šiuos būtybės ar nežaidėjų personažo aspektus:
 
-* Skaičius galima didinti iki ribos, kurią jaučiatės patogiai valdydami, maišant normalius, herojinius ir epinius nežaidžiamuosius veikėjus iššūkiui paįvairinti.
-* Padidinti charakteristikas toli už ridenamų maksimumų, naudojant bet kokias galias, kad šie priešai taptų beveik titaniškais savo gebėjimais ir kompetencija.
-* Trigubinti ar net keturgubinti įgūdžių reitingus gerokai virš 100%.
-* Pridėti mažiau akivaizdžių galių, tokių kaip „Papildomi gyvybės taškai“, „Super charakteristikos“, „Super įgūdžiai“ ir t.t.
-* Aprūpinti oponentus išskirtine ginkluote, šarvais ir kita įranga, įskaitant magišką ar energetinę įrangą. Jie taip pat naudos šią įrangą taktiškai ir pagal geriausius savo gebėjimus.
+* Skaičiai gali būti padidinti iki ribos, su kuria jaučiatės patogiai tvarkydamiesi, maišydami normalaus, herojinio ir epiško lygio nežaidėjų personažus, kad paįvairintumėte iššūkį.
+* Padidinti charakteristikas toli už ridenamų maksimumų, naudojant bet kokias galias, kad šie priešai taptų beveik titaniški savo gebėjimais ir kompetencija.
+* Trigubinti ar net keturgubinti įgūdžių reitingus toli virš 100%.
+* Pridėti mažiau akivaizdžias galias, tokias kaip Papildomi gyvybės taškai, Supercharakteristikos, Superįgūdis ir t. t.
+* Aprūpinti oponentus išskirtine ginkluote, šarvais ir kita įranga, įskaitant magišką ar galingą įrangą. Jie taip pat naudos šią įrangą taktiškai ir pagal savo geriausius gebėjimus.
 
-### Bendros pastabos
+### Bendrosios pastabos
 
-Kaip minėta, tai tik pasiūlymai, ir juos reikėtų taikyti protingai. Ištirkite žaidėjų veikėjų gebėjimus ir naudokite tai kaip pagrindą, nustatydami, kokius stiprius priešininkus kurti. Nebijokite sumažinti susidūrimo, priversdami priešus bėgti, arba padidinti sunkumą, atvedant naujų priešų arba įvedant aplinkos faktorių, kuris apsunkina padėtį visiems.
+Kaip minėta, tai tik pasiūlymai, kurie turėtų būti taikomi protingai. Išanalizuokite žaidėjų personažų gebėjimus ir naudokite tai kaip pagrindą nustatydami, kokius sunkumus padaryti prasmingais oponentais. Nebijokite sumažinti susitikimo masto, priversdami priešus bėgti, arba padidinti sunkumą atvykstant naujiems priešams, ar įvesdami kokį nors aplinkos veiksnį, kuris apsunkina viską visiems.
 
-Įvertinti priešo santykinį stiprumą prieš žaidėjo veikėjo stiprumą yra sunkus menas, kurį reikia įvaldyti, o plokščias kauliukų ridenimo pasiskirstymas ir netikėta taktika gali paversti potencialiai lengvą susidūrimą gyvybės ar mirties kova arba užbaigti lemiamą mūšį vienu pirmu (ir laimingu) šūviu.
+Priešo santykinės stiprybės įvertinimas prieš žaidėjo personažą yra sunkus menas, kurį reikia įvaldyti, o plokščias kauliukų rezultatų pasiskirstymas ir netikėta taktika gali paversti potencialiai lengvą susitikimą kova dėl gyvybės ir mirties arba užbaigti kulminacinę kovą vienu pirmu (ir sėkmingu) šūviu.
 
 Tačiau svarbu visada prisiminti pagrindinę taisyklę: linksminkitės ir užtikrinkite, kad žaidėjai taip pat linksmintųsi.
 
-> ### Būtybės hit vietų lentelės
-> 
-> Hit vietos leidžia detaliai nustatyti, kur pataikė ataka, ir patinka daugeliui, nes reprezentuoja „reališkesnį“ sužeidimų vaizdavimą. Standartinė pateikta hit vietų diagrama tinka bet kokiam dvikojui humanoidui, kitos būtybės turi skirtingų formų kūnus ir joms reikia kitokių hit vietų diagramų.
-> 
-> Šiame skyriuje pateikiamos įvairios hit vietų diagramos ir greitos formulės gyvybės taškams per vietą apskaičiuoti bet kuriai norimai būtybei. Norėdami nustatyti, kurią diagramą naudoti, pasirinkite tą, kuri labiausiai tinka norimai būtybei.
-> 
-> * **Humanoidas:** Žmogus, Ateivis (Pilkasis), Angelas (sparnai paslėpti), Kiborgas, Nykštukas, Elfas, Vaiduoklis, Gulas, Milžinas, Pusūgis, Minotauras, Mumija, Mutantas, Orkas, Robotai (Milžiniškas, Žudikas, Pagalbininkas), Skeletas, Trolis, Vampyras (žmogaus formoje), Elementalai (Žemės, Vandens), Vilkolakis (hibridine forma), Zombis
-> * **Beformė:** Gleivės
-> * **Keturių kojų humanoidas:** Kentauras
+> ### Būtybių pataikymo vietų lentelės
+>
+> Pataikymo vietos suteikia daug detalių nustatant, kur ataka pataikė, ir patinka daugeliui, nes jos atspindi „reališkesnį“ sužalojimų vaizdavimą. Pateikta standartinė pataikymo vietų diagrama tinka bet kokiam dvikojui humanoidui, kiti padarai turi skirtingos formos kūnus ir jiems reikia kitokių pataikymo vietų diagramų.
+>
+> Šiame skyriuje pateikiamos įvairios pataikymo vietų diagramos ir greitos formulės gyvybės taškams per vietą bet kuriai norimai būtybei nustatyti. Norėdami nustatyti, kurią lentelę naudoti, pasirinkite tą, kuri labiausiai tinka norimai būtybei.
+>
+> * **Humanoidas:** Žmogus, Ateivis (Pilkasis), Angelas (sparnai paslėpti), Kiborgas, Nykštukas, Elfas, Vaiduoklis, Gulis, Milžinas, Pusūkis, Minotauras, Mumija, Mutantas, Orkas, Robotai (Milžiniškas, Žudikas, Buitinis), Skeleto, Trolis, Vampyras (žmogaus pavidalu), Elementalai (Žemės, Vandens), Vilkolakis (hibridiniu pavidalu), Zombis
+>
+> * **Bekūnis:** Gleivė
+>
+> * **Keturkojis humanoidas:** Kentauras
+>
 > * **Keturkojis:** Lokys, Šuo, Gorila, Arklys, Liūtas, Tigras, Vienaragis, Vilkas
-> * **Keturkojis su uodega:** Ateivis (Ksenomorfas), Aligatorius ar krokodilas, Elementalas (Ugnies)
+>
+> * **Keturkojis su uodega:** Ateivis (Ksenomorfas), Aligatorius ar Krokodilas, Elementalas (Ugnies)
+>
 > * **Milžiniškas keturkojis su uodega:** Brontozauras
-> * **Daugialinkė:** Kalmaras (milžiniškas)
-> * **Gyvatė:** Gyvatės (smauglys, nuodinga)
-> * **Dvikojė su uodega:** Tiranozauras Reksas
+>
+> * **Daugiašūnis:** Kalmaras (Milžiniškas)
+>
+> * **Gyvatė:** Gyvatės (Smauglys, Nuodingoji)
+>
+> * **Dvikojis su uodega:** Tiranozauras Reksas
+>
 > * **Sparnuotas:** Vanagas
-> * **Sparnuotas keturkojis:** Grifonas
-> 
-> Norėdami nustatyti gyvybės taškus per vietą, naudokite gyvybės taškų formulę arba Gyvybės taškų per vietą lentelę.
-> 
+>
+> * **Sparnuotas keturkojis:** Grifas
+>
+> Norėdami nustatyti gyvybės taškus per vietą, naudokite gyvybės taškų formulę arba lentelę „Gyvybės taškai per vietą“.
+>
 > ##### Humanoidas
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–4 | Dešinė koja | 1/3 viso |
-> | 5–8 | Kairė koja | 1/3 viso |
-> | 9–11 | Pilvas | 1/3 viso |
-> | 12 | Krūtinė | 2/5 viso |
-> | 13–15 | Dešinė ranka | 1/4 viso |
-> | 16–18 | Kairė ranka | 1/4 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
-> ##### Beformė
-> 
+> | 1–4 | Dešinė koja | 1/3 iš viso |
+> | 5–8 | Kairė koja | 1/3 iš viso |
+> | 9–11 | Pilvas | 1/3 iš viso |
+> | 12 | Krūtinė | 2/5 iš viso |
+> | 13–15 | Dešinė ranka | 1/4 iš viso |
+> | 16–18 | Kairė ranka | 1/4 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
+> ##### Bekūnis
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–20 | Kūnas | Visas |
-> 
+> | 1–20 | Kūnas | Iš viso |
+>
 > ##### Keturkojis
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Galinė dešinė koja | 1/4 viso |
-> | 3–4 | Galinė kairė koja | 1/4 viso |
-> | 5–7 | Užpakalis | 2/5 viso |
-> | 8–10 | Priekis | 2/5 viso |
-> | 11–13 | Priekinė dešinė koja | 1/4 viso |
-> | 14–16 | Priekinė kairė koja | 1/4 viso |
-> | 17–20 | Galva | 1/3 viso |
-> 
-> ##### Keturių kojų humanoidas
-> 
+> | 1–2 | Dešinė užpakalinė koja | 1/4 iš viso |
+> | 3–4 | Kairė užpakalinė koja | 1/4 iš viso |
+> | 5–7 | Užpakalis | 2/5 iš viso |
+> | 8–10 | Priekis | 2/5 iš viso |
+> | 11–13 | Dešinė priekinė koja | 1/4 iš viso |
+> | 14–16 | Kairė priekinė koja | 1/4 iš viso |
+> | 17–20 | Galva | 1/3 iš viso |
+>
+> ##### Keturkojis humanoidas
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Galinė dešinė koja | 1/4 viso |
-> | 3–4 | Galinė kairė koja | 1/4 viso |
-> | 5–6 | Užpakalis | 2/5 viso |
-> | 7–8 | Priekis | 2/5 viso |
-> | 9–10 | Priekinė dešinė koja | 1/4 viso |
-> | 11–12 | Priekinė kairė koja | 1/4 viso |
-> | 13–14 | Krūtinė | 2/5 viso |
-> | 15–16 | Dešinė ranka | 1/4 viso |
-> | 17–18 | Kairė ranka | 1/4 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
-> ##### Keturių kojų su uodega
-> 
+> | 1–2 | Dešinė užpakalinė koja | 1/4 iš viso |
+> | 3–4 | Kairė užpakalinė koja | 1/4 iš viso |
+> | 5–6 | Užpakalis | 2/5 iš viso |
+> | 7–8 | Priekis | 2/5 iš viso |
+> | 9–10 | Dešinė priekinė koja | 1/4 iš viso |
+> | 11–12 | Kairė priekinė koja | 1/4 iš viso |
+> | 13–14 | Krūtinė | 2/5 iš viso |
+> | 15–16 | Dešinė ranka | 1/4 iš viso |
+> | 17–18 | Kairė ranka | 1/4 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
+> ##### Keturkojis su uodega
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–3 | Uodega | 1/3 viso |
-> | 4 | Galinė dešinė koja | 1/4 viso |
-> | 5 | Galinė kairė koja | 1/4 viso |
-> | 6–9 | Užpakalis | 2/5 viso |
-> | 10–14 | Priekis | 2/5 viso |
-> | 15 | Priekinė dešinė koja | 1/4 viso |
-> | 16 | Priekinė kairė koja | 1/4 viso |
-> | 17–20 | Galva | 1/3 viso |
-> 
+> | 1–3 | Uodega | 1/3 iš viso |
+> | 4 | Dešinė užpakalinė koja | 1/4 iš viso |
+> | 5 | Kairė užpakalinė koja | 1/4 iš viso |
+> | 6–9 | Užpakalis | 2/5 iš viso |
+> | 10–14 | Priekis | 2/5 iš viso |
+> | 15 | Dešinė priekinė koja | 1/4 iš viso |
+> | 16 | Kairė priekinė koja | 1/4 iš viso |
+> | 17–20 | Galva | 1/3 iš viso |
+>
 > ##### Milžiniškas keturkojis su uodega
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Uodega | 1/3 viso |
-> | 3–4 | Galinė dešinė koja | 1/4 viso |
-> | 5–6 | Galinė kairė koja | 1/4 viso |
-> | 7–10 | Užpakalis | 2/5 viso |
-> | 11–14 | Priekis | 2/5 viso |
-> | 15–16 | Priekinė dešinė koja | 1/4 viso |
-> | 17–18 | Priekinė kairė koja | 1/4 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
-> ##### Daugialinkė
-> 
+> | 1–2 | Uodega | 1/3 iš viso |
+> | 3–4 | Dešinė užpakalinė koja | 1/4 iš viso |
+> | 5–6 | Kairė užpakalinė koja | 1/4 iš viso |
+> | 7–10 | Užpakalis | 2/5 iš viso |
+> | 11–14 | Priekis | 2/5 iš viso |
+> | 15–16 | Dešinė priekinė koja | 1/4 iš viso |
+> | 17–18 | Kairė priekinė koja | 1/4 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
+> ##### Daugiašūnis
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1 | Ranka | 1/4 viso |
-> | 2 | Ranka 2 | 1/4 viso |
-> | 3 | Ranka 3 | 1/4 viso |
-> | 4 | Ranka 4 | 1/4 viso |
-> | 5 | Ranka 5 | 1/4 viso |
-> | 6 | Ranka 6 | 1/4 viso |
-> | 7 | Ranka 7 | 1/4 viso |
-> | 8 | Ranka 8 | 1/4 viso |
-> | 9 | Ranka 9 | 1/4 viso |
-> | 10 | Ranka | 1/4 viso |
-> | 11–15 | Kūnas | 2/5 viso |
-> | 16–20 | Galva | 2/5 viso |
-> 
+> | 1 | Ranka | 1/4 iš viso |
+> | 2 | Ranka 2 | 1/4 iš viso |
+> | 3 | Ranka 3 | 1/4 iš viso |
+> | 4 | Ranka 4 | 1/4 iš viso |
+> | 5 | Ranka 5 | 1/4 iš viso |
+> | 6 | Ranka 6 | 1/4 iš viso |
+> | 7 | Ranka 7 | 1/4 iš viso |
+> | 8 | Ranka 8 | 1/4 iš viso |
+> | 9 | Ranka 9 | 1/4 iš viso |
+> | 10 | Ranka | 1/4 iš viso |
+> | 11–15 | Kūnas | 2/5 iš viso |
+> | 16–20 | Galva | 2/5 iš viso |
+>
 > ##### Gyvatė
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–6 | Uodega | 1/3 viso |
-> | 7–14 | Kūnas | 2/5 viso |
-> | 15–20 | Galva | 1/3 viso |
-> 
-> ##### Dvikojė su uodega
-> 
+> | 1–6 | Uodega | 1/3 iš viso |
+> | 7–14 | Kūnas | 2/5 iš viso |
+> | 15–20 | Galva | 1/3 iš viso |
+>
+> ##### Dvikojis su uodega
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Uodega | 1/3 viso |
-> | 3–5 | Dešinė koja | 1/3 viso |
-> | 6–8 | Kairė koja | 1/3 viso |
-> | 9–11 | Pilvas | 2/5 viso |
-> | 12–15 | Krūtinė | 2/5 viso |
-> | 16 | Dešinė ranka | 1/4 viso |
-> | 17 | Kairė ranka | 1/4 viso |
-> | 18–20 | Galva | 1/3 viso |
-> 
-> ##### Sparnuota
-> 
+> | 1–2 | Uodega | 1/3 iš viso |
+> | 3–5 | Dešinė koja | 1/3 iš viso |
+> | 6–8 | Kairė koja | 1/3 iš viso |
+> | 9–11 | Pilvas | 2/5 iš viso |
+> | 12–15 | Krūtinė | 2/5 iš viso |
+> | 16 | Dešinė ranka | 1/4 iš viso |
+> | 17 | Kairė ranka | 1/4 iš viso |
+> | 18–20 | Galva | 1/3 iš viso |
+>
+> ##### Sparnuotas
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–3 | Dešinė koja | 1/5 viso |
-> | 4–6 | Kairė koja | 1/5 viso |
-> | 7–12 | Kūnas | 2/5 viso |
-> | 13–15 | Dešinysis sparnas | 1/5 viso |
-> | 16–18 | Kairysis sparnas | 1/5 viso |
-> | 19–20 | Galva | 1/4 viso |
-> 
+> | 1–3 | Dešinė koja | 1/5 iš viso |
+> | 4–6 | Kairė koja | 1/5 iš viso |
+> | 7–12 | Kūnas | 2/5 iš viso |
+> | 13–15 | Dešinysis sparnas | 1/5 iš viso |
+> | 16–18 | Kairysis sparnas | 1/5 iš viso |
+> | 19–20 | Galva | 1/4 iš viso |
+>
 > ##### Sparnuotas keturkojis
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Galinė dešinė koja | 1/4 viso |
-> | 3–4 | Galinė kairė koja | 1/4 viso |
-> | 5–7 | Užpakalis | 2/5 viso |
-> | 8–10 | Priekis | 2/5 viso |
-> | 11–12 | Dešinysis sparnas | 1/4 viso |
-> | 13–14 | Kairysis sparnas | 1/4 viso |
-> | 15–16 | Priekinė dešinė koja | 1/4 viso |
-> | 17–18 | Priekinė kairė koja | 1/4 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
-> ##### Sparnuotas, keturkojis su uodega
-> 
+> | 1–2 | Dešinė užpakalinė koja | 1/4 iš viso |
+> | 3–4 | Kairė užpakalinė koja | 1/4 iš viso |
+> | 5–7 | Užpakalis | 2/5 iš viso |
+> | 8–10 | Priekis | 2/5 iš viso |
+> | 11–12 | Dešinysis sparnas | 1/4 iš viso |
+> | 13–14 | Kairysis sparnas | 1/4 iš viso |
+> | 15–16 | Dešinė priekinė koja | 1/4 iš viso |
+> | 17–18 | Kairė priekinė koja | 1/4 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
+> ##### Sparnuotas, Keturkojis su uodega
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–2 | Uodega | 1/4 viso |
-> | 3–4 | Galinė dešinė koja | 1/3 viso |
-> | 5–6 | Galinė kairė koja | 1/3 viso |
-> | 7–8 | Užpakalis | 2/5 viso |
-> | 9–10 | Priekis | 2/5 viso |
-> | 11–12 | Dešinysis sparnas | 1/4 viso |
-> | 13–14 | Kairysis sparnas | 1/4 viso |
-> | 15–16 | Priekinė dešinė koja | 1/3 viso |
-> | 17–18 | Priekinė kairė koja | 1/3 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
+> | 1–2 | Uodega | 1/4 iš viso |
+> | 3–4 | Dešinė užpakalinė koja | 1/3 iš viso |
+> | 5–6 | Kairė užpakalinė koja | 1/3 iš viso |
+> | 7–8 | Užpakalis | 2/5 iš viso |
+> | 9–10 | Priekis | 2/5 iš viso |
+> | 11–12 | Dešinysis sparnas | 1/4 iš viso |
+> | 13–14 | Kairysis sparnas | 1/4 iš viso |
+> | 15–16 | Dešinė priekinė koja | 1/3 iš viso |
+> | 17–18 | Kairė priekinė koja | 1/3 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
 > ##### Sparnuotas humanoidas
-> 
+>
 > | D20 metimas | Rezultatas | Formulė |
 > | :---- | :---- | :---- |
-> | 1–3 | Dešinė koja | 1/3 viso |
-> | 4–6 | Kairė koja | 1/3 viso |
-> | 7–9 | Pilvas | 1/3 viso |
-> | 10 | Krūtinė | 2/5 viso |
-> | 11–12 | Dešinysis sparnas | 1/5 viso |
-> | 13–14 | Kairysis sparnas | 1/5 viso |
-> | 15–16 | Dešinė ranka | 1/4 viso |
-> | 17–18 | Kairė ranka | 1/4 viso |
-> | 19–20 | Galva | 1/3 viso |
-> 
-> Norėdami nustatyti gyvybės taškus per vietą, palyginkite būtybės bendrą gyvybės taškų skaičių su trupmena. Kiekvienai bendrai gyvybės taškų vertei pateikiamas intervalas, o trupmenos suapvalinamos į viršų pagal to intervalo viršutinę ribą (taigi 2/5 iš 10–12 duoda arba 4, 4.4, arba 4.8 vertę ir suapvalinama iki 5). Jei pageidaujama tikslesnio skaičiavimo, naudokite aukščiau pateiktas formules.
-> 
+> | 1–3 | Dešinė koja | 1/3 iš viso |
+> | 4–6 | Kairė koja | 1/3 iš viso |
+> | 7–9 | Pilvas | 1/3 iš viso |
+> | 10 | Krūtinė | 2/5 iš viso |
+> | 11–12 | Dešinysis sparnas | 1/5 iš viso |
+> | 13–14 | Kairysis sparnas | 1/5 iš viso |
+> | 15–16 | Dešinė ranka | 1/4 iš viso |
+> | 17–18 | Kairė ranka | 1/4 iš viso |
+> | 19–20 | Galva | 1/3 iš viso |
+>
+> Norėdami nustatyti gyvybės taškus per vietą, palyginkite būtybės bendrus gyvybės taškus su frakcija. Kiekvienai bendrai gyvybės taškų vertei pateikiamas diapazonas, o frakcijos apvalinamos į viršų, remiantis to diapazono viršutine riba (taigi 2/5 iš 10–12 duoda 5, 4.4 arba 4.8 vertę ir suapvalinama iki 5). Jei pageidaujama tikslesnio skaičiavimo, naudokite formules, pateiktas anksčiau.
+>
 > | Iš viso | 2/5 (arba 40%) | 1/3 (arba 33%) | 1/4 (arba 25%) | 1/5 (arba 20%) |
 > | :---- | :---: | :---: | :---: | :---: |
 > | 1–3 | 2 | 1 | 1 | 1 |
