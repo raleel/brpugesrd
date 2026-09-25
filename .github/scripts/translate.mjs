@@ -372,70 +372,68 @@ function restoreCodeBlocks(translatedText, placeholders) {
  * that need more output tokens per character than English. Returns the
  * whole document as a single-element array if it's already small enough.
  *
- * Splitting only happens at Markdown heading boundaries (deepest heading
- * level with 2+ occurrences: ####, then ###, then ##, then #), so a chunk
- * boundary can never land in the middle of a table, list, or spell/monster
- * entry. Chunks are then reassembled by simple concatenation in
- * translateFile, so the final output file is identical in shape to what a
- * single, un-chunked translation would have produced.
+ * Splitting only happens at Markdown heading boundaries (any heading level
+ * 1-4 combined, not just one fixed depth), so a chunk boundary can never
+ * land in the middle of a table, list, or spell/monster entry. Chunks are
+ * then reassembled by simple concatenation in translateFile, so the final
+ * output file is identical in shape to what a single, un-chunked
+ * translation would have produced.
  */
 function chunkMarkdown(markdown, maxChunkChars) {
   if (markdown.length <= maxChunkChars) {
     return [markdown];
   }
 
-  for (const level of [4, 3, 2, 1]) {
-    const headingRegex = new RegExp(`^#{${level}} `, "gm");
-    const indices = [];
-    let match;
-    while ((match = headingRegex.exec(markdown))) {
-      indices.push(match.index);
-    }
-
-    if (indices.length < 2) {
-      continue;
-    }
-
-    const sections = [];
-    if (indices[0] > 0) {
-      // Preamble content before the first heading at this level (e.g. an
-      // intro paragraph, or higher-level headings/tables that precede the
-      // first section split at this level).
-      sections.push(markdown.slice(0, indices[0]));
-    }
-    for (let i = 0; i < indices.length; i += 1) {
-      const start = indices[i];
-      const end = i + 1 < indices.length ? indices[i + 1] : markdown.length;
-      sections.push(markdown.slice(start, end));
-    }
-
-    const chunks = [];
-    let current = "";
-    for (const section of sections) {
-      if (current && current.length + section.length > maxChunkChars) {
-        chunks.push(current);
-        current = section;
-      } else {
-        current += section;
-      }
-    }
-    if (current) {
-      chunks.push(current);
-    }
-
-    if (chunks.length > 1) {
-      return chunks;
-    }
-    // This heading level didn't actually produce more than one chunk
-    // (e.g. one enormous section dwarfs all the others); try a shallower
-    // heading level instead of settling for a no-op split.
+  // Collect heading boundaries across every level 1-4 at once instead of
+  // picking a single fixed depth. A fixed-level split left "in-between"
+  // headings (e.g. an intro's ## and ### subsections sandwiched between two
+  // #### entries) stuck as ordinary content rather than a split point,
+  // which could force a large multi-heading span into one atomic,
+  // unsplittable chunk even though shallower headings inside it could
+  // have divided it further (e.g. a "Sanity Points" #### entry immediately
+  // followed by a "## Professions" section with its own ### subsections,
+  // all swallowed into one oversized chunk when only #### was considered).
+  const headingRegex = /^#{1,4} /gm;
+  const indices = [];
+  let match;
+  while ((match = headingRegex.exec(markdown))) {
+    indices.push(match.index);
   }
 
-  // No heading level could safely split this file (e.g. one gigantic
-  // section/table with no sub-headings at all). Send it as a single
-  // chunk -- there's no way to split further without risking a broken
-  // table or list mid-stream.
-  return [markdown];
+  if (indices.length < 2) {
+    // No heading could safely split this file (e.g. one gigantic
+    // section/table with no sub-headings at all). Send it as a single
+    // chunk -- there's no way to split further without risking a broken
+    // table or list mid-stream.
+    return [markdown];
+  }
+
+  const sections = [];
+  if (indices[0] > 0) {
+    // Preamble content before the first heading (e.g. an intro paragraph).
+    sections.push(markdown.slice(0, indices[0]));
+  }
+  for (let i = 0; i < indices.length; i += 1) {
+    const start = indices[i];
+    const end = i + 1 < indices.length ? indices[i + 1] : markdown.length;
+    sections.push(markdown.slice(start, end));
+  }
+
+  const chunks = [];
+  let current = "";
+  for (const section of sections) {
+    if (current && current.length + section.length > maxChunkChars) {
+      chunks.push(current);
+      current = section;
+    } else {
+      current += section;
+    }
+  }
+  if (current) {
+    chunks.push(current);
+  }
+
+  return chunks;
 }
 
 // Structural "site frame" files that Docsify needs to render navigation and

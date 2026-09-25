@@ -22,6 +22,10 @@ on:
         description: 'Apply glossary corrections to already-translated files only (no Gemini API calls, no re-translation)'
         type: boolean
         default: false
+      chunk_max_chars:
+        description: 'Override the chunk-splitting size threshold (characters). Leave blank to use the script default. Useful for forcing finer splits around content that a specific language keeps rejecting.'
+        type: string
+        default: ''
   push:
     paths:
       - 'rules/en/**.md'
@@ -131,6 +135,7 @@ jobs:
           DISPATCH_MODE: ${{ github.event.inputs.mode }}
           POST_PROCESS_ONLY: ${{ github.event.inputs.post_process_only }}
           LANG_INPUT: ${{ github.event.inputs.lang }}
+          TRANSLATE_CHUNK_MAX_CHARS: ${{ github.event.inputs.chunk_max_chars }}
         run: |
           ARGS=()
           if [ "$POST_PROCESS_ONLY" = "true" ]; then
